@@ -1,0 +1,58 @@
+> この記事は[NHKTODAY](https://ja.wikipedia.org/wiki/NHKTODAY)から翻訳されています。
+
+
+『**NHKニュースTODAY**』（エヌエイチケイ ニュース・トゥデイ）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）で、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで放送された大型[報道番組](https://ja.wikipedia.org/wiki/報道番組 "wikilink")である。
+
+## 概要
+
+14年にわたって放送された『**[ニュースセンター9時](../Page/ニュースセンター9時.md "wikilink")**』の跡を継いで放送開始された。当初はニュース番組としては異例の試みとして一時間枠を超え21:00 - 22:20 ([JST](../Page/日本標準時.md "wikilink")) までの放送とした。スポーツ報道に重点を置き安定した[視聴率](../Page/視聴率.md "wikilink")をあげていた[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")の『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』に対抗し、スポーツコーナーをその開始時刻である22:00からセッティングしたが、番組自体が間延びする格好となり、当初の目論見は果たせなかった。特に[プロ野球ナイター速報では](../Page/日本プロ野球.md "wikilink")、試合が長引けばその時間内に結果を伝えきれず、23:40から放送されていた最終版ニュース「ニュースと解説（放送上の字幕は「NHKニュース・コメンタリー」）」では、簡単に結果を伝える程度で終わる試合もあった。
+
+従って番組のコンパクト化を図り、1988年10月3日からは22:00までの放送とした。この際、23:40からの「ニュースと解説」をその前23:35からのローカルニュースと枠を統合、スポーツニュースを充実化させた『[NHKナイトニュース](https://ja.wikipedia.org/wiki/NHKナイトニュース "wikilink")』として時間枠を拡大して対応した。
+
+メインキャスターは[平野次郎](https://ja.wikipedia.org/wiki/平野次郎 "wikilink")解説委員。2年目はリポーターだった大村朋子記者がサブキャスターとして加わる。他にスポーツ担当で[福島敦子](https://ja.wikipedia.org/wiki/福島敦子 "wikilink")（元[中部日本放送](../Page/中部日本放送.md "wikilink")アナウンサー）、国際担当で[国谷裕子](../Page/国谷裕子.md "wikilink")が務めた。[橋本大二郎](https://ja.wikipedia.org/wiki/橋本大二郎 "wikilink")（元[高知県](../Page/高知県.md "wikilink")[知事](../Page/都道府県知事.md "wikilink")）が社会担当を務めたこともある（なお、橋本は2014年にテレビ朝日系で放送されている情報番組『[ワイド\!スクランブル](https://ja.wikipedia.org/wiki/ワイド!スクランブル "wikilink")』でキャスターに復帰している）。
+
+1990年4月より、[高島肇久](https://ja.wikipedia.org/wiki/高島肇久 "wikilink")がメインキャスターを務める『**[NHKニュース21](https://ja.wikipedia.org/wiki/NHKニュース21 "wikilink")**』に後を譲った。
+
+開始からの半年間（80分時代）のキャッチフレーズは、[ジュール・ヴェルヌ](../Page/ジュール・ヴェルヌ.md "wikilink")による1872年に発表されたフランスの小説『[80日間世界一周](https://ja.wikipedia.org/wiki/80日間世界一周 "wikilink")』に喩えた「80分世界一周」だった。
+
+  -
+    また、最末期には[クリアビジョン](https://ja.wikipedia.org/wiki/クリアビジョン "wikilink")放送を実施していた（ただし、『クリアビジョン』テロップは月曜以外の曜日は表示されなかった）。
+
+## キャスター一覧
+
+| 担当                                                            | 1988年度                                                   | 1989年度                                                             |
+| ------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------ |
+| メインキャスター                                                      | [平野次郎](https://ja.wikipedia.org/wiki/平野次郎 "wikilink")    |                                                                    |
+| サブキャスター                                                       | 不在                                                       | [大村朋子](https://ja.wikipedia.org/wiki/大村朋子 "wikilink")              |
+| 国際                                                            | [国谷裕子](../Page/国谷裕子.md "wikilink")☆                      | 平野次郎                                                               |
+| 政治                                                            | [清水善郎](https://ja.wikipedia.org/wiki/清水善郎 "wikilink")    |                                                                    |
+| 経済                                                            | [藤田太寅](https://ja.wikipedia.org/wiki/藤田太寅 "wikilink")    |                                                                    |
+| 社会                                                            | [橋本大二郎](https://ja.wikipedia.org/wiki/橋本大二郎 "wikilink")  |                                                                    |
+| スポーツ                                                          | [福島敦子](https://ja.wikipedia.org/wiki/福島敦子 "wikilink")◎   |                                                                    |
+| リポート                                                          | 大村朋子                                                     | [佐藤淳](https://ja.wikipedia.org/wiki/佐藤淳_\(NHKアナウンサー\) "wikilink")◎ |
+| [気象情報](https://ja.wikipedia.org/wiki/気象情報_\(NHK\) "wikilink") | [目加田頼子](https://ja.wikipedia.org/wiki/目加田頼子 "wikilink")◎ | [堀江さゆみ](https://ja.wikipedia.org/wiki/堀江さゆみ "wikilink")◎           |
+
+  - 特記なしはNHK記者
+  - ☆-外部登用（フリージャーナリスト）
+  - ◎-NHKアナウンサー（福島は[局契約](https://ja.wikipedia.org/wiki/局契約 "wikilink")）
+  - 福島は『NHKニュース21』も続投。
+
+## テーマ曲
+
+  - オープニング作曲：[細野晴臣](../Page/細野晴臣.md "wikilink")
+  - エンディング作曲：[大野雄二](https://ja.wikipedia.org/wiki/大野雄二 "wikilink")
+
+## 備考
+
+  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で当時放送されていた『[メガTONニュースTODAY](https://ja.wikipedia.org/wiki/メガTONニュースTODAY "wikilink")』とタイトルが酷似していると同社から抗議された。この際NHK側は「NHK・ニュースTODAY」ではなく「NHKニュース・TODAY」（NHKニュースが実質的な冠題名で、番組のメインタイトルは「TODAY」だけという解釈）であると返答した。
+  - 新聞ラジオ・テレビ欄の番組表では「**ニュース・トゥデー**」と表記されていた。
+  - 政治関連、事件、事故、災害等の重大ニュースがあった日には、19:00から放送の『[NHKニュース](https://ja.wikipedia.org/wiki/NHKニュース7#前身番組としての『NHKニュース』 "wikilink")』終了後または20:00から「**NHKニュースTODAY特集**」のタイトルを出して放送された。
+  - 当番組の直前に放送されていた各放送局のローカルニュース（『[ニュースセンター845](https://ja.wikipedia.org/wiki/ニュースセンター_\(関東ローカル枠\) "wikilink")』など）では、エンディングで「**つづいてTODAYをどうぞ**」のテロップが表示された。
+  - 番組セットは、それまでの「ニュースセンター9時」が長らく使い続けてきた「ワーキング・スタジオ」の考え方を形にしたセットとは打って変わり、背景に大きな窓を配し（窓の外には高層ビルなど都会の夜景の写真パネルが配された。ちなみに同じセットを使用していた朝の「[NHKモーニングワイド](https://ja.wikipedia.org/wiki/NHKモーニングワイド "wikilink")」では、窓にブラインドが下ろされていた。）リビングのようなくつろいだ雰囲気のものへ変わった。番組構成だけではなく、スタジオセットも先述のように「ニュースステーション」を多分に意識したものであった。また、スタジオ（CT-510スタジオ。NC9などワイドニュース用）にそれまでなかったミニクレーンなどの設備も導入している。
+  - 初年度には社会部記者の1人に当時から「テレビの天才」と後輩たちから呼ばれていた[池上彰](../Page/池上彰.md "wikilink")（シティーウォッチング専属デスク）がいた。池上は当番組終了後の1990年4月から『ニュースセンター845』を担当した。『[ワイド\!スクランブル](https://ja.wikipedia.org/wiki/ワイド!スクランブル "wikilink")』（テレビ朝日系）で、池上が番組宣伝として司会の橋本大二郎と共演する時は「司会者としての立場が変わった」と話題にする。
+
+## 外部リンク
+
+  - [ＮＨＫニュース・トゥデー - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009040252_00000)
+
+[Category:NHK総合テレビジョンの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの帯番組の歴史 "wikilink") [Category:NHK総合テレビジョンのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのニュース・報道番組の歴史 "wikilink") [Category:1988年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のテレビ番組_\(日本\) "wikilink")

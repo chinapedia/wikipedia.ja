@@ -1,0 +1,226 @@
+> この記事は[GET SPORTS](https://ja.wikipedia.org/wiki/GET_SPORTS)から翻訳されています。
+
+
+『**GET SPORTS**』（ゲット・スポーツ）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")（[5日深夜](../Page/4月5日.md "wikilink")）から[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")[系列で放送されている](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")である。
+
+## 概要
+
+開始当初は関東ローカル番組であった。[プロ野球や](../Page/日本プロ野球.md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")などの選手にスポットを当てて紹介する[スポーツ](../Page/スポーツ.md "wikilink")[ドキュメンタリー](https://ja.wikipedia.org/wiki/ドキュメンタリー "wikilink")・検証番組である。基本的にスタジオパートよりもVTRの放送に重点を置いている。[電子番組ガイド](https://ja.wikipedia.org/wiki/電子番組ガイド "wikilink")や、公式サイト名では**「Get Sports」**と表記されているが、すべて大文字で表記するのが正しい。
+
+番組内容は週替わりの特集VTRが中心だが、スポーツ中継を行う場合もある\[1\]。開始当初、番組は「テレビ版『[Number](https://ja.wikipedia.org/wiki/Sports_Graphic_Number "wikilink")』」を目指して制作されていた\[2\]。番組中で使われる音楽の一部はオリジナルで制作しており、これらの楽曲を集めたアルバムを、これまでに2枚発売している。
+
+当初は生放送だったが、放送期間中に南原が『[ヒルナンデス\!](https://ja.wikipedia.org/wiki/ヒルナンデス! "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）\[3\]、中西が『[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")』（[TOKYO FM](https://ja.wikipedia.org/wiki/エフエム東京 "wikilink")）\[4\]とメイン司会を務める帯の情報番組を抱えるようになり、本番組の数時間後に二人が同番組に出演するというスケジュール上の負担を軽減するため、生放送そのものが行われなくなり、現在は全編事前収録となっている。
+
+### 放送
+
+2017年4月17日までは[月曜日](../Page/月曜日.md "wikilink")0:45 - 2:40（[日曜日](../Page/日曜日.md "wikilink")深夜）に放送していたが、0:45 - 1:10に内包番組『[ANN NEWS\&SPORTS](https://ja.wikipedia.org/wiki/ANN_NEWS&SPORTS "wikilink")』（以下、**N\&S**と表記。ネットワークセールス枠は0:58まで）を放送していた。また、「ANN NEWS\&SPORTS」明けの本編の冒頭5分間（1:10 - 1:15）は「G-graphic」というミニコーナーを放送していたが、この5分間はローカル枠のため、フルネット局であっても、[メ〜テレでは一時期別番組](../Page/名古屋テレビ放送.md "wikilink")（『[世界の車窓から](https://ja.wikipedia.org/wiki/世界の車窓から "wikilink")』の遅れネット）に差し替えていた。なお、企画の内容（長時間の特集やスポーツ中継など）によって放送時間を延長することがある。
+
+また、特集の予告部分はテレビ朝日のみが放送しており、系列局は『N\&S』のオープニングからネットするため、系列局にとっては新聞発表上『GET SPORTS』と記載があっても、「ANN NEWS\&SPORTS」と本編が互いに別番組のような扱いになっている。
+
+以上のような事情により、1:15に再度オープニング映像が入っていた。
+
+なお、系列局によっては野球中継延長やメンテナンス等の問題で『GET SPORTS』本編をネットせずに、『N\&S』のみを単独ネットすることがある。その際は新聞発表上「GET \[N\]」となることが多い。また『GET SPORTS』本編の放送時間が短い放送局もある。
+
+2003年9月の秋場所まで[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")期間中は『[大相撲ダイジェスト](https://ja.wikipedia.org/wiki/大相撲ダイジェスト "wikilink")』も挿入していたため、終了時間も2:17に延長されていた。また、『[速報\!甲子園への道](https://ja.wikipedia.org/wiki/速報!甲子園への道 "wikilink")』（[朝日放送テレビ](https://ja.wikipedia.org/wiki/朝日放送テレビ "wikilink")制作）放送時も終了時間延長の措置が取られる（2005年度の当該時期は[世界水泳中継のため](../Page/世界水泳選手権.md "wikilink")『N\&S』部分のみの放送。2008年の同期間は、内包した上で、終了時間の延長もなし）。
+
+2006年3月までは0:00からの放送であったが、[2006 FIFAワールドカップ開催に伴い](https://ja.wikipedia.org/wiki/2006_FIFAワールドカップ "wikilink")『[やべっちFC](https://ja.wikipedia.org/wiki/やべっちFC "wikilink")』の放送時間が15分拡大されたため、0:15からの開始となった。2010年4月からは放送開始時間が15分繰り下がって0:30開始となり、さらに2011年10月からは『[日曜洋画劇場](https://ja.wikipedia.org/wiki/日曜洋画劇場 "wikilink")』の時間拡大により0:45開始となる。なお、『[熱闘甲子園](https://ja.wikipedia.org/wiki/熱闘甲子園 "wikilink")』（朝日放送テレビ・テレビ朝日共同制作）の放送期間中はさらに30分繰り下げられる。前半のスポーツニュース枠では、[サッカーJリーグの結果は前枠の](../Page/日本プロサッカーリーグ.md "wikilink")『やべっちFC』で詳しく報じているため、この番組ではあまり言及していない。
+
+2009年4月20日（19日深夜）の放送で放送回数が500回に到達し、これに合わせてオープニングテーマや番組ロゴなどを一新した。
+
+2010年7月5日（4日深夜）の放送から、地上アナログ放送では16:9の[レターボックス画面での放送に変更された](https://ja.wikipedia.org/wiki/レターボックス_\(映像技術\) "wikilink")。
+
+2012年[3月12日](../Page/3月12日.md "wikilink")（[11日深夜](../Page/3月11日.md "wikilink")）の放送は、｢**[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")から1周年**｣の特別編成により、内包番組の「ANN NEWS\&SPORTS」を前日11日に単独番組扱いで放送したため、フルネット局以外では本番組を臨時非ネットとした。
+
+2017年[3月13日](../Page/3月13日.md "wikilink")（12日深夜）は前夜の『[2017 ワールド・ベースボール・クラシック](https://ja.wikipedia.org/wiki/2017_ワールド・ベースボール・クラシック "wikilink")』中継の大幅延長のため、全局休止となった。
+
+テレビ朝日の2017年4月改編において、日曜20:54 - 翌2:40枠が大改編される。これにより、まず同月23日より『[サンデーステーション](https://ja.wikipedia.org/wiki/サンデーステーション "wikilink")』の放送開始に伴い、本番組に内包されていたネットワークゾーン『[ANN NEWS\&SPORTS](https://ja.wikipedia.org/wiki/ANN_NEWS&SPORTS "wikilink")』（第1期）が同月17日で終了となったため、また5月1日から月曜0:40 - 1:10（日曜深夜）にドラマ『[サヨナラ、えなりくん](https://ja.wikipedia.org/wiki/サヨナラ、えなりくん "wikilink")』（関東ほか一部地域でのみ放送）を放送開始する\[5\]ため、本番組は同月24日からは全編ローカルセールス枠に降格となる。またこれにあわせ、4月24日から25分繰り下げ・短縮となる1:10 - 2:40の90分枠とする予定であったが、繰り下げ・枠縮小後初回のこの日は当初予定では30分前拡大の0:40 - 2:40（2:10に飛び降り点あり。）に放送予定であった。しかし、前夜（同月23日）の『サンデーステーション』初回が急遽24分拡大（20:54 - 22:18）となるならびに前夜のミニ番組『[丸の内小町](https://ja.wikipedia.org/wiki/丸の内小町 "wikilink")』の24分繰り下げ・1分拡大（23:29 - 23:35。関東地区以外は別番組に差し替え）のため、通常より5分繰り上げ・25分拡大となる1:05 - 3:00（2:35に飛び降り点あり。）に放送（放送尺としては当初予定より5分短縮される）。なお、2018年4月1日より『サンデーステーション』の夕方への枠移動に伴い、同月2日より『ANN NEWS\&SPORTS』（第2期）が再開となるも、単独番組扱いでの放送になるため、引き続きローカルセールス枠となる。
+
+## 出演者
+
+  - 2019年12月現在
+
+<!-- end list -->
+
+  - ナビゲーター　[南原清隆](https://ja.wikipedia.org/wiki/南原清隆 "wikilink")（メイン）、[中西哲生](https://ja.wikipedia.org/wiki/中西哲生 "wikilink")（サッカー）
+      - プロ野球担当は2015年2月より不在（後述表参照）
+  - 進行　[三上大樹](https://ja.wikipedia.org/wiki/三上大樹 "wikilink")、[本間智恵](https://ja.wikipedia.org/wiki/本間智恵 "wikilink")
+
+### 過去
+
+| 期間      | ナビゲーター  | 進行                                                      |
+| ------- | ------- | ------------------------------------------------------- |
+| 1998.4  | 1998.9  | [南原清隆](https://ja.wikipedia.org/wiki/南原清隆 "wikilink")   |
+| 1998.10 | 1999.9  | [上山千穂](https://ja.wikipedia.org/wiki/上山千穂 "wikilink")   |
+| 1999.10 | 2001.3  | [武内絵美](https://ja.wikipedia.org/wiki/武内絵美 "wikilink")   |
+| 2001.4  | 2003.9  | 栗山英樹                                                    |
+| 2003.10 | 2006.3  | [大木優紀](https://ja.wikipedia.org/wiki/大木優紀 "wikilink")   |
+| 2006.4  | 2008.9  | [久保田直子](https://ja.wikipedia.org/wiki/久保田直子 "wikilink") |
+| 2008.10 | 2011.3  | [本間智恵](https://ja.wikipedia.org/wiki/本間智恵 "wikilink")   |
+| 2011.4  | 2011.12 | [竹内由恵](https://ja.wikipedia.org/wiki/竹内由恵 "wikilink")   |
+| 2012.1  | （不在）    |                                                         |
+| 2012.2  | 2013.3  | [工藤公康](https://ja.wikipedia.org/wiki/工藤公康 "wikilink")   |
+| 2013.4  | 2015.1  | [三上大樹](https://ja.wikipedia.org/wiki/三上大樹 "wikilink")   |
+| 2015.2  | 現在      | （不在）                                                    |
+
+**「GET SPORTS」歴代出演者**
+
+  - ANNニュース担当
+
+<!-- end list -->
+
+  - [岡田洋子](https://ja.wikipedia.org/wiki/岡田洋子 "wikilink")（2002年4月8日から2005年3月28日まで）
+  - [野村真季](https://ja.wikipedia.org/wiki/野村真季 "wikilink")（2005年4月2日から2006年3月27日まで）
+  - [萩野志保子](https://ja.wikipedia.org/wiki/萩野志保子 "wikilink")（2006年4月3日から2013年11月11日まで、産休のため）
+  - [村上祐子](https://ja.wikipedia.org/wiki/村上祐子_\(テレビ朝日\) "wikilink")（2013年11月18日から2015年6月29日まで）
+  - [上山千穂](https://ja.wikipedia.org/wiki/上山千穂 "wikilink")（2015年7月6日から2017年4月17日まで）
+
+### 備考
+
+  - 進行とANNニュースは[テレビ朝日アナウンサー](https://ja.wikipedia.org/wiki/テレビ朝日のアナウンサー一覧 "wikilink")（出演当時の者を含む）が担当。2002年4月以降は「N\&S」のスポーツニュース（このうち1名は同日20:54からの「ANNニュース」も兼任することがある）も担当（VTR中はあらかじめ録音されている。プロ野球やゴルフなど地方で行われた試合の場合は系列局のアナウンサーが担当）。GETのセットからの場合は南原・工藤が出演し、背景がグリーンバック（伝えられる注目スポーツの映像を合成）の場合は進行アナだけの出演となる。
+  - 2008年10月から2013年3月までは女性アナが2人に増員。特別な場合を除き、どちらか片方がスタジオに出演する（もう片方が同じ週にVTR出演することはある）。
+  - 栗山は[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")、工藤は[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")の監督就任に伴い降板。
+
+## 放送時間
+
+通常編成時の放送時間をすべて[日本時間（JST）で表記する](../Page/日本標準時.md "wikilink")。放送曜日はすべて[月曜日](../Page/月曜日.md "wikilink")（[日曜日](../Page/日曜日.md "wikilink")深夜）。
+
+| 放送期間        | 放送時間       | 備考                |
+| ----------- | ---------- | ----------------- |
+| 1998年4月6日   | 1999年3月29日 | 0:30 - 1:25（55分）  |
+| 1999年4月5日   | 2002年4月1日  | 1:00 - 1:55（55分）  |
+| 2002年4月8日   | 2006年3月27日 | 0:00 - 1:55（115分） |
+| 2006年4月3日   | 2008年3月31日 | 0:15 - 1:55（100分） |
+| 2008年4月7日   | 2009年3月30日 | 0:15 - 1:15（60分）  |
+| 2009年4月6日   | 2010年3月29日 | 0:15 - 2:10（115分） |
+| 2010年4月5日   | 2011年10月3日 | 0:30 - 2:25（115分） |
+| 2011年10月10日 | 2017年4月17日 | 0:45 - 2:40（115分） |
+| 2017年4月24日  | 2018年3月26日 | 1:10 - 2:40（90分）  |
+| 2018年4月2日   | 2019年9月30日 | 1:25 - 2:55（90分）  |
+| 2019年10月7日  | 現在         | 1:30 - 3:00（90分）  |
+
+## スタッフ
+
+  - ナレーター：[佐藤政道](https://ja.wikipedia.org/wiki/佐藤政道 "wikilink")
+  - プロデューサー：武田哲治、濱田克彦
+  - 演出:四十物裕司、山口忠男
+  - ディレクター:岡光徳、藤澤伊織、坂井由里子、澤田一聖、仲里光広、藤倉啓太、竹嶋正明、下夷啓詞、木崎伸吾、松堂早苗、大野亜希、久保田知則、伊東舞、川口涼華、谷中功
+  - 構成：小林偉、小松武
+  - 編成：高橋陣
+
+## ネット局
+
+| 放送対象地域                                              | 放送局                                                         | 系列                                                  | 放送期間        | 放送時間                 | 備考      |
+| --------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------- | ----------- | -------------------- | ------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                 | テレビ朝日                                                       | [テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink") | 1998年4月6日 - | 月曜 1:30 - 3:00（日曜深夜） | **制作局** |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [北海道テレビ](https://ja.wikipedia.org/wiki/北海道テレビ放送 "wikilink") | 2002年4月8日 -                                         | \[6\]       |                      |         |
+| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [東日本放送](https://ja.wikipedia.org/wiki/東日本放送 "wikilink")     |                                                     |             |                      |         |
+| 中京広域圏                                               | [メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")                      | \[7\]                                               |             |                      |         |
+| [広島県](../Page/広島県.md "wikilink")                    | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")                  | \[8\]                                               |             |                      |         |
+| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink") | [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")   | \[9\]\[10\]                                         |             |                      |         |
+
+**『GET SPORTS』ネット局**
+
+  - ローカルセールス枠のため、通常時ネット局であっても臨時非ネットになることがあるほか、通常時非ネット局が臨時ネットをする場合もある。放送局の「備考」の欄も参照。
+
+### 過去のネット局
+
+  - 以下の各局では番組打ち切り時点において、番組冒頭の「ANN NEWS\&SPORTS」のみのネットにとどまっていた。
+
+| 放送対象地域                                                         | 放送局                                                         | 系列      | 放送期間                   | 備考 |
+| -------------------------------------------------------------- | ----------------------------------------------------------- | ------- | ---------------------- | -- |
+| [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")            | [青森朝日放送](https://ja.wikipedia.org/wiki/青森朝日放送 "wikilink")   | テレビ朝日系列 | 2002年4月8日 - 2017年4月17日 |    |
+| [岩手県](../Page/岩手県.md "wikilink")                               | [岩手朝日テレビ](https://ja.wikipedia.org/wiki/岩手朝日テレビ "wikilink") |         |                        |    |
+| [秋田県](../Page/秋田県.md "wikilink")                               | [秋田朝日放送](https://ja.wikipedia.org/wiki/秋田朝日放送 "wikilink")   |         |                        |    |
+| [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")            | [山形テレビ](../Page/山形テレビ.md "wikilink")                        |         |                        |    |
+| [福島県](../Page/福島県.md "wikilink")                               | [福島放送](../Page/福島放送.md "wikilink")                          |         |                        |    |
+| [新潟県](../Page/新潟県.md "wikilink")                               | [新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink") |         |                        |    |
+| [長野県](../Page/長野県.md "wikilink")                               | [長野朝日放送](https://ja.wikipedia.org/wiki/長野朝日放送 "wikilink")   |         |                        |    |
+| [静岡県](../Page/静岡県.md "wikilink")                               | [静岡朝日テレビ](https://ja.wikipedia.org/wiki/静岡朝日テレビ "wikilink") |         |                        |    |
+| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")            | [北陸朝日放送](https://ja.wikipedia.org/wiki/北陸朝日放送 "wikilink")   |         |                        |    |
+| [近畿広域圏](../Page/広域放送.md "wikilink")                            | [朝日放送](https://ja.wikipedia.org/wiki/朝日放送テレビ "wikilink")    |         |                        |    |
+| [山口県](../Page/山口県.md "wikilink")                               | [山口朝日放送](https://ja.wikipedia.org/wiki/山口朝日放送 "wikilink")   | \[11\]  |                        |    |
+| [香川県・岡山県](https://ja.wikipedia.org/wiki/岡山県・香川県の放送 "wikilink") | [瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")                      |         |                        |    |
+| [愛媛県](../Page/愛媛県.md "wikilink")                               | [愛媛朝日テレビ](https://ja.wikipedia.org/wiki/愛媛朝日テレビ "wikilink") | \[12\]  |                        |    |
+| [長崎県](../Page/長崎県.md "wikilink")                               | [長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")   |         |                        |    |
+| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")            | [熊本朝日放送](https://ja.wikipedia.org/wiki/熊本朝日放送 "wikilink")   | \[13\]  |                        |    |
+| [大分県](../Page/大分県.md "wikilink")                               | [大分朝日放送](https://ja.wikipedia.org/wiki/大分朝日放送 "wikilink")   | \[14\]  |                        |    |
+| [鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")          | [鹿児島放送](https://ja.wikipedia.org/wiki/鹿児島放送 "wikilink")     |         |                        |    |
+| [沖縄県](../Page/沖縄県.md "wikilink")                               | [琉球朝日放送](https://ja.wikipedia.org/wiki/琉球朝日放送 "wikilink")   | \[15\]  |                        |    |
+|                                                                |                                                             |         |                        |    |
+
+**『GET SPORTS』ネット局**
+
+  - 上記の各局での放送期間中は番組冒頭に「ANN NEWS\&SPORTS」（上記の各局での番組打ち切り時点では0:45 - 1:10）を内包していた。上記の各局での番組打ち切り時点では、本番組としては0:58までをネットワークセールス枠としており、0:58以降はローカルセールス枠のため、フルネットしている局であっても臨時に0:58までもしくは1:10までの放送になることがあったほか、通常時の飛び降り局では飛び降り時刻を0:58に繰り上げもしくは1:10に繰り下げたり、臨時フルネットをする場合もあった。上記の各局での番組打ち切り時点で1:10までに終了していた局は「本編」を放送していなかった。放送局の「備考」の欄も参照。
+  - 毎年7月中旬から8月頭の期間は、本番組のフルネット局では**番組冒頭の「ANN NEWS\&SPORTS」部分**と**本編**の間に「[速報\!甲子園への道](https://ja.wikipedia.org/wiki/速報!甲子園への道 "wikilink")」（朝日放送制作）をネットするため、臨時に一時中断番組となっていた。 　
+
+## テーマ曲
+
+  - オープニングテーマ
+      - Ameno〜piano style 500〜 / [Tempei](https://ja.wikipedia.org/wiki/中村天平 "wikilink") & KAZSIN（2009年4月20日 - ）
+  - G-graphic テーマ
+      - ※週により異なる
+  - G-week テーマ
+      - A Little Scottish Fantasy / [ヴァネッサ・メイ](https://ja.wikipedia.org/wiki/ヴァネッサ・メイ "wikilink")
+
+### 過去のテーマ曲
+
+  - オープニングテーマ
+      - Ameno（GLAND-SLAM Mix）/ Get-Sound Project（ - 2009年4月13日）
+  - G-graphic テーマ
+      - Angel Voices Calling / [藤田恵美](https://ja.wikipedia.org/wiki/藤田恵美 "wikilink")
+  - G-week テーマ
+      - VOICE OF THE BRAVE / Get-Sound Project feat.shibarie
+
+「Ameno」は元々[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[バンドである](../Page/バンド_\(音楽\).md "wikilink")[eRaが制作したものであり](https://ja.wikipedia.org/wiki/eRa_\(バンド\) "wikilink")、当番組がオープニングテーマ曲用にアレンジしたものである。なお、「Ameno」は彼等の代表曲として知られている。
+
+## 漫画
+
+『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』において、不定期で本番組とのタイアップによる短期漫画が連載されている。作画は[関口太郎](https://ja.wikipedia.org/wiki/関口太郎_\(漫画家\) "wikilink")。
+
+[坂本勇人](https://ja.wikipedia.org/wiki/坂本勇人 "wikilink")、[遠藤保仁](https://ja.wikipedia.org/wiki/遠藤保仁 "wikilink")、[上野由岐子](https://ja.wikipedia.org/wiki/上野由岐子 "wikilink")、[安藤美姫](https://ja.wikipedia.org/wiki/安藤美姫 "wikilink")、[城島健司](https://ja.wikipedia.org/wiki/城島健司 "wikilink")\[16\]、[田中将大](https://ja.wikipedia.org/wiki/田中将大 "wikilink")\[17\]のエピソードが漫画化された。2015年2月現在のところ、田中将大篇を除く5篇が以下の通り単行本に収録されている。
+
+  - 作画・関口太郎、協力・テレビ朝日『GET SPORTS 知られざる挫折と栄光』講談社〈[講談社コミックス](https://ja.wikipedia.org/wiki/講談社コミックス "wikilink")〉2010年4月16日発売 ISBN 978-4063842913
+
+## 脚注・出典
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [ANN NEWS\&SPORTS](https://ja.wikipedia.org/wiki/ANN_NEWS&SPORTS "wikilink")
+  - [やべっちFC〜日本サッカー応援宣言〜](../Page/やべっちFC〜日本サッカー応援宣言〜.md "wikilink") - テレビ朝日では、この番組終了後に本番組のジャンクションが流れる。
+  - [スポコン\!](https://ja.wikipedia.org/wiki/スポコン! "wikilink")
+  - [ナンだ\!?](https://ja.wikipedia.org/wiki/ナンだ!? "wikilink")
+  - [フルタの方程式](https://ja.wikipedia.org/wiki/フルタの方程式 "wikilink")
+  - [ワールドプロレスリング](https://ja.wikipedia.org/wiki/ワールドプロレスリング "wikilink")
+  - [虎バン](https://ja.wikipedia.org/wiki/虎バン "wikilink") - [朝日放送テレビ](https://ja.wikipedia.org/wiki/朝日放送テレビ "wikilink")にて放送されている[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")の情報番組。
+  - [FFFFF](https://ja.wikipedia.org/wiki/FFFFF "wikilink") - [北海道テレビにて放送されている](https://ja.wikipedia.org/wiki/北海道テレビ放送 "wikilink")[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")の情報番組。
+
+## 外部リンク
+
+  - [テレビ朝日｜Get Sports](http://www.tv-asahi.co.jp/getsports/)
+
+  - [「ゲット・スポーツ」を、ほぼ日はひいきします。](http://www.1101.com/get_sports/index.html) - 2000年1月から2004年7月まで『[ほぼ日刊イトイ新聞](https://ja.wikipedia.org/wiki/ほぼ日刊イトイ新聞 "wikilink")』に掲載されていた番組予告。番組スタッフが情報提供していた。
+
+  -
+[Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:テレビ朝日のスポーツ番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のスポーツ番組 "wikilink") [Category:テレビ朝日のドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のドキュメンタリー番組 "wikilink") [Category:テレビ朝日の深夜番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組 "wikilink") [Category:漫画作品_け](https://ja.wikipedia.org/wiki/Category:漫画作品_け "wikilink") [Category:2009年の漫画](https://ja.wikipedia.org/wiki/Category:2009年の漫画 "wikilink") [Category:週刊少年マガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年マガジンの漫画作品 "wikilink") [Category:スポーツ漫画](https://ja.wikipedia.org/wiki/Category:スポーツ漫画 "wikilink") [Category:伝記漫画](https://ja.wikipedia.org/wiki/Category:伝記漫画 "wikilink") [Category:南原清隆](https://ja.wikipedia.org/wiki/Category:南原清隆 "wikilink")
+
+1.  例として2012年より毎年[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")の[G1 CLIMAXの中継がGET](https://ja.wikipedia.org/wiki/G1_CLIMAX "wikilink") SPORTS内で組まれている（当日録画）
+2.  [大下容子 過去の担当番組](http://www.tv-asahi.co.jp/announcer/personal/women/ooshita/kako/get.html)
+3.  2011年3月28日から平日の11:55 - 13:55に放送。
+4.  2009年4月1日から2019年3月28日まで、放送時間の変遷はあるが平日の6:00 - 8:55に放送。これ以外にも中西は日曜午前に『[サンデーモーニング](https://ja.wikipedia.org/wiki/サンデーモーニング "wikilink")』（[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）に出演する週もある。
+5.
+6.  前日13:55から『[スーパーベースボール](https://ja.wikipedia.org/wiki/スーパーベースボール_\(テレビ朝日系列\) "wikilink")「イチオシ\!ファイターズ」』（[日本ハムのデーゲーム中継](../Page/北海道日本ハムファイターズ.md "wikilink")）が編成される場合、本来放送されている『サンデープレゼント』を月曜1:10 - 2:40に振替放送するため、休止する場合がある。
+7.  2017年3月までは毎月第4日曜の翌日未明に『[spoken\!](https://ja.wikipedia.org/wiki/スポケン! "wikilink")』を放送のため、休止する場合があった（『spoken\!』は翌4月より第1金曜の翌日未明に枠移動）。2017年4月24日以降、メ〜テレの編成上は2:45までとなっているが、他のネット局と本編の放送時間帯は変わらない。また、同日からは局の編成の都合でそれ以外でも同日時差ネットとすることがある。
+8.  前日13:55から『勝ちグセ。中継』（[カープのデーゲーム中継](../Page/広島東洋カープ.md "wikilink")）が編成される場合、本来放送されている『サンデープレゼント』を月曜1:10 - 2:40に振替放送するため、休止する場合がある。
+9.  毎月最終日曜の翌日未明に『[月刊\!ホークス](https://ja.wikipedia.org/wiki/月刊!ホークス "wikilink")』放送のため、休止する場合がある。
+10. 前日13:55から『スーパーベースボール』（[ソフトバンクのデーゲーム中継](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")）が編成される場合、本来放送されている『サンデープレゼント』を月曜1:10 - 2:40に振替放送するため、休止する場合がある。
+11. 過去にフルネットしていた時期あり。
+12.
+13.
+14.
+15.
+16.
+17. [講談社コミックプラス - 週刊少年マガジン - 連載作品一覧 - 読みきり（1/10ページ）](https://web.archive.org/web/20100822123053/http://kc.kodansha.co.jp/magazine/series_complete.php/02065)（2010年8月22日時点のアーカイブ）、2015年2月4日閲覧。

@@ -1,0 +1,234 @@
+> この記事は[MZ \(\)](https://ja.wikipedia.org/wiki/MZ_\(\))から翻訳されています。
+
+
+**MZ**（エムゼット）は、[1970年代](../Page/1970年代.md "wikilink")から[1980年代](../Page/1980年代.md "wikilink")にかけて[シャープ](../Page/シャープ.md "wikilink")が販売していた[パソコンのシリーズ名](../Page/パーソナルコンピュータ.md "wikilink")。
+
+## 設計とシステム構成
+
+MZシリーズの始まりは、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")5月に発売されたマイコン博士[MZ-40K](https://ja.wikipedia.org/wiki/MZ-40K "wikilink")という4ビット[マイコンのトレーニングキットである](https://ja.wikipedia.org/wiki/マイクロコンピュータ "wikilink")。MZ-40Kの名前の由来は風呂ブザー用に用意してあった登録コードを流用したものであった\[1\]。
+
+製品を発案した事業部は部品を販売する部署であり、計算機などを扱う部署との摩擦を防ぐ意味合いもあって、MZ-40Kに続いて技術者用のトレーニングキットという名目でMZ-80Kを半完成キットの形で発売した\[2\]。これらとは別に、MZ-80Tというワンボードトレーニングマイコンも用意されていた。 シリーズとして以下のような特徴を持っている。
+
+### クリーン設計
+
+MZ-80Kも試作機では、[BASIC](../Page/BASIC.md "wikilink")も[ROMで搭載された](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")[コンピューター](https://ja.wikipedia.org/wiki/コンピューター "wikilink")であったが、シャープがROMを外部調達する都合上、ROMに納めたプログラムに[バグ](https://ja.wikipedia.org/wiki/バグ "wikilink")が発覚すればその原価から多大な損害が発生する。このリスクを回避するため実際に商品化された製品で採られた苦肉の策が、システム全体をROMとして持つのではなく、最低限の処理を収めたモニタのみを本体にROMで搭載し、基本プログラムは[カセットテープ](https://ja.wikipedia.org/wiki/カセットテープ "wikilink")などのメディアで供給するという、後に「クリーンコンピューター」とうたわれるシステムであった\[3\]。現実にはそれほど致命的なバグが露見することはなかったが、逆にマニアからすれば自分で自由にソフト開発ができる環境となっており、[ハドソン](../Page/ハドソン.md "wikilink")ソフトや[キャリーラボ](https://ja.wikipedia.org/wiki/キャリーラボ "wikilink")をはじめとしてシャープ以外のさまざまなソフトハウスから言語、オペレーティングシステム等が発売されると共に、各種言語やシステムのリリースが行われたり、シャープ自身もハイスピードBASICなどのソフトウェア的なアップグレードを実施した。これらの状況から、苦肉の策の設計であったクリーンコンピューターは、ソフトウェア的にフレキシブルなシステムであることを、以降のMZシリーズの特徴的な設計として広告文句にも利用するようになった。この実装では、システムそのものを本体に持たないため、当時の標準環境であったBASICが利用可能になるまで、標準内蔵デバイスであるデータレコーダからの起動で数分を要するという欠点もあったが、FDDの利用で10秒前後に短縮できるほか、MZ-80B以降のIPLでは、MZ-1R12等のメモリボードに予め起動するシステムを書き込むことでも改善することが出来た。同様にクリーン設計を採用したX1では、CZ-8RB01として予め拡張ボードに書き込まれたBASICも発売されていた。これらのSRAM若しくはROMボード上からの起動でも、それらは直接メモリ空間にマッピングされているわけではなく、IPLにより、メインメモリに「転送」されて起動する。
+
+#### 実装の変遷
+
+MZ-80Kではコマンド自体が6種しか実装されていないものの、実際にROMで実装されているモニタは現在の[BIOS](https://ja.wikipedia.org/wiki/BIOS "wikilink")に相当し、文字表示や内蔵デバイスへの入出力、音の出力などのローレベルな処理が書き込まれており、最低限の物しか存在していないわけではない。MZ-80Bでは、本体基板にはIPLのみをROMで実装し、モニタも含むシステムプログラムは、全てRAMに展開されるようさらにその設計を推し進めたものになり、同社X1では更にアドレスデコードの工夫によって、IPL自身が直接読み込むことが可能な容量が増えている。これら、ソフトウェアを固定しないかたちで進められたその思想は、X1turboやMZ-2500では再度、複雑化したハードウェアをサポートするためのBIOS(IOCS)が本体に実装されるようになり、結果として先祖返りするかたちになっている。また、他の機種であっても、起動時にディスク対応のモジュールの読み込みを行ったり、ROM部分のバンク切り替えによるRAM化が可能になるなど、実質的には実装の差は、互換性を維持するために搭載されるBASIC-ROMの有無のみになっていった。
+
+### オールインワン設計
+
+初期の同シリーズは、本体・[ディスプレイ](https://ja.wikipedia.org/wiki/ディスプレイ_\(コンピュータ\) "wikilink")・キーボード・[データレコーダー](https://ja.wikipedia.org/wiki/データレコーダー "wikilink")を一体とし、本体のみでシステムが最低限完結するように設計されていた。機種によって構造やパーツは異なるものの、筐体は底面のビスを外すことで背面の蝶番を支点として、車のボンネットカバーのように持ち上げることが可能になっており、内部に用意された支柱によって固定し、内部をメンテナンスできるようになっている。PCシリーズを祖とするMZ-3500、MZ-5500シリーズを除けば、MZ-2000やMZ-1200の世代まで受け継がれる外観にも現れる特徴的な設計となっていたが、ディスプレイのカラー化などの流れとコストのバランスの都合から、MZ-700以降は見られなくなった。
+
+### アルゴマーク
+
+MZ-80Kの発売に合わせ、ブランドの確立のため、シリーズのシンボルマークとして勇気、未来、探求、憧れの象徴として、ギリシャ神話の物語から[アルゴ号をモチーフに作られたデザインが制定された](https://ja.wikipedia.org/wiki/アルゴー船 "wikilink")。その意匠デザインの由来については「MZ-80 SERIES BASIC解説」の冒頭に言及があり、Oh\!MZ誌上でも、その一節は取り上げられた。このロゴマークは、当時家電メーカーとしてのイメージが強かったシャープでは社名のみではインパクトが弱く、多くの売れ筋製品の名前などの要素や、対象になるユーザーの嗜好などを考慮し、新しいベンチャーとしてのイメージ\[4\]を託すかたちで新設された。この象徴的なマークは最終機まで引き継がれ、MZ-2500、MZ-2861では特殊キーのひとつにこのロゴが描かれたキーが存在する。
+
+### 内蔵データレコーダ
+
+MZシリーズの内蔵データレコーダは、専用に周辺回路が設計されていることもあり、競合製品のデータレコーダよりも高い信頼性を確保していた他、読み書きの速度も競合製品の平均的な速度よりも高速\[5\]に設定されていた。記録されるデータはソフトウェア制御によるPWM変調で、同じデータの書き込みを繰り返し二回記録する。データの読み込みが失敗した場合は、二度目に記録したデータの読み込むを試みるようになっている\[6\]。このフォーマットは速度の差はあるものの引き継がれた。また、ハードウェアでは、その機種の標準速度を基準に調整されているものの、ソフトウェアによって波形は生成されるため、ソフトウェアによってある程度の記録速度の調整を行うことが可能であった。
+
+MZ-80Bではソフトウェアでも頭出しやデッキオープン、早送り、巻き戻し等の制御が可能になった。この電磁制御のデータレコーダは別部署からリリースされたX1でも標準の内蔵デバイスとして採用された。また、MZ-2500では録再ヘッドがステレオ仕様になり、片方にデータ、片方に音声を記録し、ロードしながら音声を再生、本体側から音声を頭出しし、再生するなどの利用も可能になった。この信頼性と高速性を持つデータレコーダに加え、他社の競合製品と比較し、純正FDDの標準価格が高価であることも手伝い、フロッピーディスクの標準搭載への対応が遅れる遠因となった。
+
+### フロッピーディスクインターフェイス
+
+FDDインターフェイスの初期回路設計において、本来、負論理のバッファを通すところを直結し、その設計を踏襲したため、直接は互換性のない機種においてもそのままディスクサイドの指定や、実記録されるデータが、標準的なディスクに対し反転している。また、初期の1Sドライブが片面35トラックであり、互換性を維持するため、純正FDDであるMZ-80BFではヘッドにストッパーが装着され、公式なトラック数が2Dでも片面35トラックとなっている。ただしコントローラーやドライブ自体はそれ以降のトラックも取り扱えるため、本来のドライブ側の仕様である80トラックを利用できるようにする改造や、仕様外のそれ以降を利用するソフトウェアも個人、雑誌レベルでは存在している。Hu-BASICでは、ソフトウェア的に反転させることにより、記録媒体レベルでのX1との互換性が実現されている。
+
+### プリンタインターフェイス
+
+[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")インターフェースは初期の実装ではMZ-80K系、MZ-80B系列それぞれ異なる独自仕様になっていたが、MZ-2000以降は一般的なセントロニクス準拠仕様に変わっている。ただし、MZ-1500では互換性維持のため、本体背面にMZ専用仕様と[セントロニクス準拠仕様とを切り替える](https://ja.wikipedia.org/wiki/IEEE_1284 "wikilink")[ディップスイッチ](https://ja.wikipedia.org/wiki/ディップスイッチ "wikilink")があった。なお、最初に発売されたMZ-80P2は[放電破壊プリンター](https://ja.wikipedia.org/wiki/放電破壊プリンター "wikilink")だった。その後のMZ-80P3以降は[ドットマトリクスプリンターである](https://ja.wikipedia.org/wiki/プリンター#ドットインパクト方式 "wikilink")。MZ-700には、専用内蔵プリンタが存在\[7\]しており、その後継機であるMZ-1500にもそれを外付け可能にしたMZ-1P09が発売されている。このプリンタは、安価にボールペンによって本来高価である[カラーペンプロッターを実現していた](https://ja.wikipedia.org/wiki/プロッター "wikilink")\[8\]。
+
+## 回路図・ソースコード
+
+元々部品事業部のトレーニングキット名目での製品であり、メモリの増設にもハードウェアに手を入れる必要があるという状況もあいまって、MZ-2200の時代まで本体の回路図、モニタのソースコード、Z80の命令表等、ハードウェア、ソフトウェアを製作するのに必要な情報が、標準添付のOwner's Manualに記載されていることも特徴\[9\]であった。シャープ純正の言語や開発ツールは価格も高かったことから、これらのソースコードを使いこなしていたユーザーは多くはなかったが、シャープ社内開発担当者ではこれらの開発ツールが縦横無尽に有効活用されていたことが、前記モニタプログラムの[ソースコード](../Page/ソースコード.md "wikilink")から読み取れる。なお、MZ-1500の回路図およびROMモニタのソースコードは、[工学社](https://ja.wikipedia.org/wiki/工学社 "wikilink")『MZ-1500 テクニカル・マニュアル』に掲載され、MZ-2500の回路図は、[電波新聞社](https://ja.wikipedia.org/wiki/電波新聞社 "wikilink")『Super MZ活用研究』、工学社『MZ-2500 テクニカル・マニュアル』〈Super Series 1〉\[10\]、ソフトバンク『[Oh\!MZ](https://ja.wikipedia.org/wiki/Oh!MZ "wikilink")』に掲載された。BIOSやBASICのソースリストは工学社から発売された。本体だけではなく、シャープ純正オプションの一部では付属マニュアルに回路図が記載されている。
+
+## 製品系列
+
+系列としてはMZ-80K系(40×25文字のテキスト画面を持つ。グラフィックキャラクタを使用した80×50ドットのセミグラフィックが可能)、MZ-80B系(320×200のモノクログラフィックを最大2画面分、テキストと別プレーンで持つ)、MZ-2000系(640×200の解像度に加えカラー表示対応)、PC-3100系、MZ-5500系(MZ-3500系を16bit化)などがある。
+
+また、[1982年](../Page/1982年.md "wikilink")からはシャープテレビ事業部から別系統の製品として、型番がCZの新シリーズが通称「パソコンテレビ[X1](../Page/X1_\(コンピュータ\).md "wikilink")」としてリリースされた。このX1シリーズは後に[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に発表された[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")シリーズに引き継がれた。テレビ画面とのスーパーインポーズ機能が特徴的なこの系列は好評で、MZシリーズからも対抗するようにグラフィックやサウンド機能を強化したMZ-1500/2500を発売したものの、こちらは成功したとはいえなかった。
+
+なお、MZの名称は同社の[Mebius](https://ja.wikipedia.org/wiki/Mebius "wikilink")と[Zaurus](https://ja.wikipedia.org/wiki/Zaurus "wikilink")の頭文字に、分割して引き継がれていると[宮永好道](https://ja.wikipedia.org/wiki/宮永好道 "wikilink")がコラムで語っている。
+
+### 部品事業部によるMZ
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Mz80k.jpg "wikilink")
+
+  - [MZ-80K系列](https://ja.wikipedia.org/wiki/MZ-80#MZ-80K系機種 "wikilink") シリーズローエンドを担い、後にMZ-1200,700に繋がるシリーズ。 (CPU は Z-80(LH0080) 2MHz)
+    MZ-40Kを祖とするマイコンキットから派生したグループで、MZシリーズの中では低価格普及機である(低価格とはいえ、MZ-80K/CにI/Oボックス、プリンター、FDD、PCGなどを揃えると100万円を越えた)。
+      - [MZ-80K](https://ja.wikipedia.org/wiki/MZ-80#MZ-80K "wikilink") - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")発売。20KB RAM搭載。オールインワン筐体・キーボード未組立のセミキット。標準価格198,000円。この機種はイギリスでも発売されTRS-80と人気を二分した。\[11\]
+      - [MZ-80C](https://ja.wikipedia.org/wiki/MZ-80#MZ-80C "wikilink") - [1979年](../Page/1979年.md "wikilink")発売。48KB RAM搭載・フルキーボード。モニターのグリーン化。部品も80Kに比べて高価なものがつけられていた。標準価格268,000円。
+      - [MZ-80K2](https://ja.wikipedia.org/wiki/MZ-80#MZ-80K2 "wikilink") - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")発売。80Kの完成品販売版。32KB RAM搭載。標準価格198,000円。
+      - [MZ-80K2E](https://ja.wikipedia.org/wiki/MZ-80#MZ-80K2E "wikilink") - [1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")発売。32KB RAM搭載。80K2の廉価版。CPUにICソケットを使用せず、直接基板に半田付けされているなど、コストダウンが随所に見られる。標準価格148,000円。
+  - MZ-80B系列 シリーズハイエンドを担い、後にMZ-2000へ繋がるシリーズ。オプションを取り込み事業部移行後にも、MZ-80B2としてMZ-2000と併売されている。
+    320×200ピクセルのグラフィックス画面を最大2画面サポートし、CPUは4MHz、データレコーダはソフトウェアによって制御可能になるとともに、2000baudに高速化された。
+      - [MZ-80B](https://ja.wikipedia.org/wiki/MZ-80#MZ-80B "wikilink") - [1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")発売。64KBオールRAM構成。 Bはビジネスの意味と言われているが、開発者達は「BIGのB」として開発に打ち込んだ究極のMZであった。標準価格278,000円。
+
+### 情報システム事業部によるMZ
+
+[1982年](../Page/1982年.md "wikilink")MZ-80Kグループを開発した部品事業部から、情報システム事業部にパソコン事業を移管。
+
+MZ型番は、シリーズ名に下二桁に00を持つ3〜4桁の数字。PC型番は、PCからMZにシリーズ名が変更になり、全体としての命名規則が変わった。同時に周辺機器の型番もリセットされ、シリーズ全体で、カテゴリごとに末尾1からの連番で割り当てられた。ホビー用途では部品事業部由来の製品が多く広告、販売されていたこともあり、MZとしてイメージされるのは部品事業部由来のシリーズである。同一シリーズにバリエーションがある場合は、その下位二桁である00の部分にバリエーションを示す数字が割り当てられた。
+
+以降のパソコン開発に、部品事業部でMZ-80を設計していた技術者達は参画していない。
+
+#### ホビー向けMZ
+
+部品事業部が展開していた主にホビー向けの流れを受けたシリーズ。代を追うごとにホビー向けの機能が充実して行き、多くの人がMZとして思い出すのはこちらの系列である。
+
+  - MZ-1200系列(CPU は Z-80A 3.58MHz。64KB RAM 搭載)
+      - [MZ-80A](https://ja.wikipedia.org/wiki/MZ-80#MZ-80A "wikilink")([MZ-1200](https://ja.wikipedia.org/wiki/MZ-80#MZ-1200 "wikilink")) - [1982年](../Page/1982年.md "wikilink")海外仕様のMZ-80Aの国内版がMZ-1200である。国内では、同年7月に発売されている。グリーンディスプレイ、タイプライターキーボード採用。MZ-80K系の完全互換機、単色表示としては最後の機種。型番の1200はデータレコーダの速度に由来する。標準価格148,000円。
+      - [MZ-700](https://ja.wikipedia.org/wiki/MZ-700 "wikilink") - [1982年](../Page/1982年.md "wikilink")11月発売。モニター一体型筐体を廃止、データレコーダ・プロッタを内蔵可能。MZ-80Kとバイナリレベルでほぼ互換性がある。モニター出力は単色の場合青地に白が基本。家庭用テレビへの出力にも対応。80K由来のシリーズで初めてカラー出力に対応した。
+      - [MZ-1500](https://ja.wikipedia.org/wiki/MZ-1500 "wikilink") - [1984年](../Page/1984年.md "wikilink")5月発売。320\*200ドットグラフィック兼PCG、PSG音源搭載。データレコーダの代わりに[QD](../Page/クイックディスク.md "wikilink")(QuickDisk)を内蔵。
+      - [MZ-800](https://ja.wikipedia.org/wiki/MZ-800 "wikilink") - [1984年](../Page/1984年.md "wikilink")-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")発売。MZ-700の海外向け後継機種。展開時期は地域によって異なる。640\*200ドットグラフィック搭載(※日本国内では未発売、[:de:Sharp MZ-800](https://ja.wikipedia.org/wiki/:de:Sharp_MZ-800 "wikilink") および [:pt:Sharp MZ-800も参照](https://ja.wikipedia.org/wiki/:pt:Sharp_MZ-800 "wikilink"))
+  - MZ-2000系列
+      - MZ-80B2 - [1982年](../Page/1982年.md "wikilink")発売。部品事業部のMZ-80BにグラフィックRAMを1プレーン標準実装した製品。事業部変更後、唯一前の命名規則で販売された製品。標準価格278,000円。
+      - [MZ-2000](https://ja.wikipedia.org/wiki/MZ-2000 "wikilink") - [1982年](../Page/1982年.md "wikilink")7月発売。ドットグリーン(モノクロ)ディスプレイ、高機能[データレコーダ](https://ja.wikipedia.org/wiki/データレコーダ "wikilink")内蔵。オプションでカラーモニター対応可。
+      - [MZ-2200](https://ja.wikipedia.org/wiki/MZ-2000#MZ-2200 "wikilink") - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")7月発売。コンポーネントタイプになったMZ-2000。拡張スロットと、カラー出力の機能を標準装備。
+  - [MZ-2500](https://ja.wikipedia.org/wiki/MZ-2500 "wikilink") - (SuperMZ) [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")発売。本体・キーボード分離型。Z80B(6MHz)搭載。400ラインに対応し、最大256色での描画に対応。MZ-80B/MZ-2000モードを持ち過去の資産も継承。
+  - [MZ-2861](https://ja.wikipedia.org/wiki/MZ-2861 "wikilink")(MZ書院) - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")発売。本体・キーボード分離型。MZ-2500[互換モード](https://ja.wikipedia.org/wiki/互換モード "wikilink")をもつ8bit (Z80) & 16bit ([80286](../Page/Intel_80286.md "wikilink")) CPU両搭載のハイブリッドマシン。16bitモードはMS-DOSのほか、付属のソフトウエアで[PC-9801](https://ja.wikipedia.org/wiki/PC-9801 "wikilink")エミュレーションが可能。高機能[データレコーダ](https://ja.wikipedia.org/wiki/データレコーダ "wikilink")は対応しない。MZのこちらのシリーズでは唯一の80286採用機。
+
+#### ビジネス向けMZ
+
+存続する事業部となった情報システム事業部が元々展開していたシリーズの後継機。ビジネス向けの一体型PC、PC-3100S/PC-3200の、本体・キーボード分離型にした新型機の型番をMZに移行したもの。5.25[インチ](https://ja.wikipedia.org/wiki/インチ "wikilink")フロッピーディスクドライブを搭載（MZ-6550のみ3.5インチ）。
+
+  - MZ-3500系列 - [1982年](../Page/1982年.md "wikilink")発売。Z-80A×2基搭載、日本語表示。PC-3100S/PC-3200の上位機。
+      - MZ-3531 - 5.25インチフロッピーディスクドライブを1基搭載。標準価格320,000円。
+      - MZ-3541 - 5.25インチフロッピーディスクドライブを2基搭載。標準価格410,000円。
+  - MZ-5500/6500系列
+      - MZ-5500 - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")発売。16ビットの[8086CPUを搭載](https://ja.wikipedia.org/wiki/Intel_8086 "wikilink")、CP/M採用。BOOT-ROM付[MS-DOS](../Page/MS-DOS.md "wikilink")が発売された。
+          - MZ-5501 - RAM128KB搭載。フロッピーディスクドライブはオプション。標準価格218,000円。
+          - MZ-5511 - RAM128KB搭載。5.25インチフロッピーディスクドライブを1基搭載。標準価格288,000円。
+          - MZ-5521 - RAM256KB搭載。5.25インチフロッピーディスクドライブを2基搭載。標準価格388,000円。
+      - MZ-6500 - [1984年](../Page/1984年.md "wikilink")発売。クロック周波数を8MHzに高速化。[CAD](https://ja.wikipedia.org/wiki/CAD "wikilink")向けとして販売。
+          - MZ-6541 - 5.25フロッピーディスクドライブを2基搭載。標準価格650,000円。
+          - MZ-6545 - 5.25フロッピーディスクドライブを1基＆10MBハードディスク搭載。標準価格998,000円。
+      - MZ-5600 - MZ-6500の海外モデル。
+          - MZ-5631 - 5.25フロッピーディスクドライブを1基搭載。
+          - MZ-5641 - 5.25フロッピーディスクドライブを2基搭載。
+          - MZ-5645 - 5.25フロッピーディスクドライブを1基＆10MBハードディスク搭載。
+      - MZ-6500C - MZ-6500の後継機種。
+          - MZ-6541C - 5.25フロッピーディスクドライブを2基搭載。
+      - MZ-6550 - [80286](../Page/Intel_80286.md "wikilink") CPU、縦置き筐体。
+          - model 50 - 3.5フロッピーディスクドライブ2基搭載。
+
+### PC/AT互換機
+
+  - MZ-8000系列 - (AX286/AX386) 型番はMZだが、[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")([AX](https://ja.wikipedia.org/wiki/AX "wikilink"))仕様に移行した。
+
+## ソフトウェア
+
+### 自社供給
+
+SHARP BASICとして、(後に[S-BASIC](https://ja.wikipedia.org/wiki/S-BASIC "wikilink")と呼ばれる)[PET由来のコマンド群を持つBASICを](https://ja.wikipedia.org/wiki/PET_2001 "wikilink")[カセットテープ](https://ja.wikipedia.org/wiki/カセットテープ "wikilink")並びに[フロッピーディスク](https://ja.wikipedia.org/wiki/フロッピーディスク "wikilink")で標準添付、並びにオプションとして供給していた。演算精度の高いもの、漢字表示や特定デバイスのサポート、カラー表示のサポートなど、拡張機能を実装したBASICは、別途オプションとして提供されている。それらBASIC以外にも、[リロケータブルバイナリ](https://ja.wikipedia.org/wiki/リロケータブルバイナリ "wikilink")出力でユーザー定義のマクロ命令記述も可能な[マクロアセンブラ](https://ja.wikipedia.org/wiki/アセンブリ言語 "wikilink")([リンカ](https://ja.wikipedia.org/wiki/リンケージエディタ "wikilink")・[シンボリックデバッガ](https://ja.wikipedia.org/wiki/デバッガ "wikilink")・[P-ROMフォーマッタ含む](https://ja.wikipedia.org/wiki/PROM "wikilink"))[アセンブリ言語](https://ja.wikipedia.org/wiki/アセンブリ言語 "wikilink")、マシンランゲージモニタ(現在でいう[バイナリエディタ](https://ja.wikipedia.org/wiki/バイナリエディタ "wikilink"))等も別売されており、テープメディアゆえ使い勝手に難ありといえども極めて強力な開発ツールであった。Floppy Disk Operating System(FDOS)には前記アセンブラのほかBASIC[コンパイラ](../Page/コンパイラ.md "wikilink")も同梱されており、[Z80](../Page/Z80.md "wikilink")のセルフ開発環境としてはコストパフォーマンスを考慮すると当時の[CP/M-80](https://ja.wikipedia.org/wiki/CP/M-80 "wikilink")をも凌駕するものであった。
+
+シャープ純正の言語は前記のとおりバリエーションが直交している場合が多かったため、プログラマーはさまざまな言語を選択できたかわりに、アプリケーション使用者はその言語を購入する必要がある場合もあった。
+
+### サードパーティによる供給
+
+  - [ハドソン](../Page/ハドソン.md "wikilink")
+
+:\* Hu-BASIC(マイクロソフトBASICに似た高機能BASICインタープリター)
+
+:\* Hu-BASICコンパイラ(マイクロソフトBASICに似た高機能BASICコンパイラー)
+
+:\*\* 数多くのバグを含んでいた。
+
+:\*\* MZ-80K系列のみの販売
+
+:\* Hu-G-BASIC(Hu-BASICのグラフィック機能実装版)
+
+:\* GAL (GAME言語コンパイラ)
+
+:\*\* ハドソン風に拡張したGAME言語だが、バグの存在や[アスキー社からのクレームにより回収処理された](https://ja.wikipedia.org/wiki/アスキー_\(企業\) "wikilink")。
+
+:\*\* MZ-80K系列のみの販売
+
+:\* H-DOS
+
+:\* Tiny Pascal PALL ([Pascal](https://ja.wikipedia.org/wiki/Pascal "wikilink")言語コンパイラ)
+
+:\*\* ハドソン風に拡張したTiny Pascal言語。MZ-80K用ゲーム開発言語として重宝された。
+
+:\*\* MZ-80K系列のみの販売
+
+:\*\* 戸村哲が[共立出版](https://ja.wikipedia.org/wiki/共立出版 "wikilink")の「bit臨時増刊1978/2 マイクロコンピュータのプログラミング」で発表していたマイクロPLANコンパイラをほぼそのまま盗用したものであるという証言がある\[12\]。
+
+:\* Tiny FORTRAN FORM ([FORTRAN](../Page/FORTRAN.md "wikilink")言語コンパイラ)
+
+:\*\* ハドソン風に拡張したFORTRAN言語。
+
+  - [キャリーラボ](https://ja.wikipedia.org/wiki/キャリーラボ "wikilink")
+
+:\* BASE(BASIC記述風アセンブラ)
+
+:\*\* WICSインタプリタはBASEで記述されていた。
+
+:\* [WICS](https://ja.wikipedia.org/wiki/WICS "wikilink")(整数型高速BASICコンパイラ／インタプリタ)
+
+:\*\* [工学社](https://ja.wikipedia.org/wiki/工学社 "wikilink")刊の雑誌[I/O](https://ja.wikipedia.org/wiki/I/O_\(雑誌\) "wikilink")、およびその別冊で、BASEで記述されたインタプリタのソースとWICS自身で記述されたコンパイラのソースが公開された。
+
+  - [アスキー](https://ja.wikipedia.org/wiki/アスキー_\(企業\) "wikilink")(ACPアスキーコンシューマプロダクツ)
+
+:\* GAME-MZ([GAME言語コンパイラ](https://ja.wikipedia.org/wiki/ゲーム_\(曖昧さ回避\)#その他 "wikilink"))
+
+:\* TOS-80B(テープオペレーティングシステム)
+
+  - [デービーソフト](https://ja.wikipedia.org/wiki/デービーソフト "wikilink") (dB-SOFT)
+
+:\* dB-BASIC (MZ-2000/2200　BASICインタプリタ)
+
+:\*\* ハドソンとデービーソフトがどちらも[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")に本社を構えていたこともあり、当時Hu-BASICのある意味でライバル。
+
+:\* dB-IBASIC (MZ-2000/2200　BASICインタプリタ・コンパイラ)
+
+:\*\* [機械語](../Page/機械語.md "wikilink")へのコンパイルが可能。ソフトウェア的にPCGを実現するなど、画期的な言語だった。整数型BASIC。
+
+  - [COMPAC](https://ja.wikipedia.org/wiki/COMPAC "wikilink")(工学社)
+
+:\* いずれもSB-5520の追加機能版。単体では動作しないので、SB-5520をロードした後、ソフトを読み込み、一旦上書きされたBASIC自身を別のメディアに保存する必要がある。
+
+:\*\* BASIC機能拡張(SB-5520にTRACE機能などをつけたもの)
+
+:\*\* COMMAND UP([機械語モニタ](https://ja.wikipedia.org/wiki/機械語モニタ "wikilink")の高機能化)
+
+  - S-OS
+
+:\* 雑誌[Oh\!X](https://ja.wikipedia.org/wiki/Oh!X "wikilink")の連載で発表されたZ80をコアとした共通バイナリを動作させる試み。プログラミング言語や開発ツール、ゲーム、ユーティリティなどが毎月掲載された。詳細は[THE SENTINELの項を参照されたい](https://ja.wikipedia.org/wiki/Oh!X#THE_SENTINEL "wikilink")。
+
+## 脚注
+
+## 参考文献
+
+  -
+## 関連項目
+
+  - [パソコンサンデー](https://ja.wikipedia.org/wiki/パソコンサンデー "wikilink")
+  - [Oh\!MZ](https://ja.wikipedia.org/wiki/Oh!X "wikilink")
+  - [祝一平](https://ja.wikipedia.org/wiki/祝一平 "wikilink")
+  - [S-BASIC](https://ja.wikipedia.org/wiki/S-BASIC "wikilink")
+
+## 外部リンク
+
+  - [Games for MZ-800, Download Sharp MZ-800](http://www.scav.ic.cz/)
+
+  - [Nibbles lab. HomePage 〜 Oh！石の研究室 〜](http://cwaweb.bai.ne.jp/~ohishi/index.htm) (研究室付属 シャープ博物館)
+
+  - [PC博物館 MZ-80C](http://hp.vector.co.jp/authors/VA011804/mz80c.htm)
+
+  -
+[Category:シャープのパーソナルコンピュータ](https://ja.wikipedia.org/wiki/Category:シャープのパーソナルコンピュータ "wikilink")
+
+1.  『パソコン革命の旗手たち』 p73
+2.  『パソコン革命の旗手たち』 p72
+3.  『パソコン革命の旗手たち』[関口和一](https://ja.wikipedia.org/wiki/関口和一 "wikilink") [日本経済新聞社](https://ja.wikipedia.org/wiki/日本経済新聞社 "wikilink") 2000年 73ページ
+4.  \[[http://blogs.yahoo.co.jp/nagusa_kei/11766379.html?type=folderlist\]開発者の回顧録より](http://blogs.yahoo.co.jp/nagusa_kei/11766379.html?type=folderlist%5D開発者の回顧録より)。
+5.  同時期に販売されていたベーシックマスター、PC-8001は、300Baud。FM-8は1600Baud。
+6.  各機種、回路図並びに、Owner's Manualのモニタソースコードのデータレコーダ制御部で確認できる。
+7.  MZ－731以外の機種ではMZ-1P01としてオプション販売されている。
+8.  [MZ-700の項も参照](https://ja.wikipedia.org/wiki/MZ-700#プロッタプリンターの内蔵 "wikilink")。
+9.  MZシリーズも規模が大きくなり、ユーザが自ら物を作ることが少なくなった[MZ-1500](https://ja.wikipedia.org/wiki/MZ-1500 "wikilink")以降は他社のPC製品同様、出版社等からこれらの情報が刊行される形に変更された。
+10. この書籍の回路図は信号の行き先を示すページと座標を削除している為、分配先が複数に渡る場合は見逃す可能性がある。
+11. [海の向こうのMZ物語](http://d.hatena.ne.jp/hally/20040807)
+12. <http://o-ta-su-ke.net/7652.html#comment-521417>

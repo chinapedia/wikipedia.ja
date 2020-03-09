@@ -1,0 +1,89 @@
+> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+
+
+[thumbに残存していた](https://ja.wikipedia.org/wiki/ファイル:E-den-kamata-20050309.jpg "wikilink")「E電」表記（現在は撤去、2005年撮影）\]\] **E電**（イーでん）とは、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[昭和](../Page/昭和.md "wikilink")62年）の[日本国有鉄道](https://ja.wikipedia.org/wiki/日本国有鉄道 "wikilink")（国鉄）[分割民営化に伴い](https://ja.wikipedia.org/wiki/国鉄分割民営化 "wikilink")、「国鉄（近郊区間の）電車」の略称である「[国電](https://ja.wikipedia.org/wiki/国電 "wikilink")」に代わるものとして、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）が決めた愛称\[1\]。しかし一般にはこの愛称が定着することはなかった。[英語](../Page/英語.md "wikilink")表記の場合は「INTRA-CITY AND suburban TRAINS」（「都市近郊区間列車」の英訳）。
+
+## 概要
+
+### 経緯
+
+当時、「国電」という言葉が広く使われていたが、国鉄民営化により"国鉄電車"でなくなったため、意味上のずれが生じることになった。そこで、「国電」に代わる新たな呼称が分割民営化直後の[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")から[5月5日](../Page/5月5日.md "wikilink")に一般公募され\[2\]、59,642通（2,513案）の応募があった。応募では1位は「民電」5,311通となり、以下2位「首都電」2,863通、3位「東鉄」2,538通、4位「日電」2,281通、5位「民鉄」1,786通と続いた\[3\]。その中から[小林亜星](https://ja.wikipedia.org/wiki/小林亜星 "wikilink")及び[沼田早苗](https://ja.wikipedia.org/wiki/沼田早苗 "wikilink")並びに副社長の[山之内秀一郎](https://ja.wikipedia.org/wiki/山之内秀一郎 "wikilink")はじめ同社役員6名による選考委員会によって\[4\]\[5\]、2位の「首都電」、20位の「E電」の2つにしぼり込まれた\[6\]。なお8位までは1,000通以上の応募があったが、20位の「E電」は390通に過ぎなかった\[7\]。
+
+[5月13日](https://ja.wikipedia.org/wiki/5月13日 "wikilink")には「E電」と発表\[8\]、翌[14日には](https://ja.wikipedia.org/wiki/5月14日 "wikilink")「E電」の[ヘッドマークを装着した列車も走りだした](https://ja.wikipedia.org/wiki/方向幕#ヘッドマーク "wikilink")。なお他の候補が選ばれなかった理由として、1位の「民電」は「民営化されたことを示す名前で、その他の[私鉄](../Page/私鉄.md "wikilink")（民鉄）電車とも紛らわしく、長く定着するとは思えない」、2位の「首都電」は「『[スト電](https://ja.wikipedia.org/wiki/ストライキ "wikilink")』と揶揄（やゆ）される可能性があり、また、言いにくい」、 3位の「[東鉄](https://ja.wikipedia.org/wiki/東鉄 "wikilink")」は「語感が堅く、国鉄時代の『東京[鉄道管理局](https://ja.wikipedia.org/wiki/鉄道管理局 "wikilink")』の略称と同じで、新鮮味がない」などといったことがあったとされている。
+
+上位には、「[日電](../Page/日本電気.md "wikilink")」、「[民鉄](https://ja.wikipedia.org/wiki/日本民営鉄道協会 "wikilink")」、「[東電](https://ja.wikipedia.org/wiki/東京電力 "wikilink")」、「[都電](https://ja.wikipedia.org/wiki/東京都電車 "wikilink")」、「[関電](https://ja.wikipedia.org/wiki/関西電力 "wikilink")」などの応募もあったが、既に他の企業、団体や路線の略称として使われていたために除外された\[9\]。
+
+### 語句の意味
+
+「EにはEast、Electric、Enjoy、Energyなどの意味が込められている」と説明された\[10\]。
+
+### 宣伝
+
+当時のJR各電車内の中吊りでは、「ウィッキーさんのワンポイント英会話」（[日本テレビのニュース情報番組](../Page/日本テレビ放送網.md "wikilink")『[ズームイン\!\!朝\!](https://ja.wikipedia.org/wiki/ズームイン!!朝! "wikilink")』内のコーナー）で知られた[アントン・ウィッキー](https://ja.wikipedia.org/wiki/アントン・ウィッキー "wikilink")を登用し、「E電、いい言葉でしょ？」というフレーズでPR広告を行った。同時期に「[ひと駅マンガ](https://ja.wikipedia.org/wiki/ひと駅マンガ "wikilink")」というドア上の横長広告スペースを利用した[4コマ漫画](../Page/4コマ漫画.md "wikilink")型の自社広告も始まり、ここでもE電を宣伝していた。
+
+## 普及の失敗
+
+大々的にネーミングされたが、結局は普及せずにほとんど使われなくなった。「国鉄」の代替呼称である「**[JR](../Page/JR.md "wikilink")**」が、広く元の「国電」を含むものとして定着し、多くの人は「**JR**」または「**[JR線](../Page/JR線.md "wikilink")**」を「E電」の代わりに使用するか、路線名を直接呼ぶことで代替するようになった。[不動産会社](https://ja.wikipedia.org/wiki/不動産会社 "wikilink")の[広告](https://ja.wikipedia.org/wiki/広告 "wikilink")でも「E電○○駅下車徒歩何分」といった表現はほとんど使われなかった。JR以外の[私鉄](../Page/私鉄.md "wikilink")なども、乗換の案内や駅の表示でJRの路線をひとまとめにして「JR線」とするか、路線名を直接案内している。
+
+なお、「国電」という言葉が一般人の間で復活し、再度広く使用されるようになる事も無かったため、現在では元の「国電」に対応する一般的な呼称は無くなっているが、その事による利用上、案内上の問題は特に生じていない。そもそもどの範囲をE電とするか（[電車特定区間](https://ja.wikipedia.org/wiki/電車特定区間 "wikilink")か、[東京近郊区間](https://ja.wikipedia.org/wiki/東京近郊区間 "wikilink")か、[中距離電車](https://ja.wikipedia.org/wiki/中距離電車 "wikilink")を含めるか）が曖昧であった。
+
+  - 不評の原因の一つの例として、「[E](https://ja.wikipedia.org/wiki/E "wikilink")」は[野球](../Page/野球.md "wikilink")等でいう「[エラー](https://ja.wikipedia.org/wiki/失策 "wikilink")（Error）」を表すなど、「E」という文字にマイナスのイメージがあったことが挙げられる。読売新聞は発表翌日の5月14日朝刊で「E電 イイ電? エラー電?」の見出しとともに、[塩田丸男](https://ja.wikipedia.org/wiki/塩田丸男 "wikilink")の「イースト、エンジョイのEといっても、エラーのEでありエロのEでもある。ちょっと、どうかと思うねえ」とのコメントを載せた\[11\]。実際に「E電」のヘッドマークを装着した列車が走り始めた14日には[新川崎駅](https://ja.wikipedia.org/wiki/新川崎駅 "wikilink")や[新松戸駅](https://ja.wikipedia.org/wiki/新松戸駅 "wikilink")で人身事故のためダイヤが乱れ、同日の毎日新聞夕刊は「E電は“エラー電”?\!」の見出しの8段抜き社会面トップ記事で報じた\[12\]。
+  - 「E電」が定着しなかったことについては、ネーミングの失敗例としてしばしば[テレビ番組](../Page/テレビ番組.md "wikilink")や雑誌記事などに取り上げられた。なお[小林亜星](https://ja.wikipedia.org/wiki/小林亜星 "wikilink")は、定着しなかった理由を「JR東日本が、定着させるための努力を怠ったからだ」とコメントしている。
+  - [三省堂国語辞典](https://ja.wikipedia.org/wiki/三省堂国語辞典 "wikilink")編集者の[飯間浩明](https://ja.wikipedia.org/wiki/飯間浩明 "wikilink")は2017年のコラムにて「横柄なイメージだった国鉄が民営化した途端に言い出したので、『何がE電だ』という反感が強かったのではないでしょうか。後に『[Suica](../Page/Suica.md "wikilink")』が面白がられて定着したことを考えると、今なら受け入れられたかもしれない。」と指摘している\[13\]。
+  - 当時の[日本ソフトバンクが発行していたパソコン雑誌の](https://ja.wikipedia.org/wiki/ソフトバンクグループ "wikilink")「[Oh\!X](https://ja.wikipedia.org/wiki/Oh!X "wikilink")」1987年12月号p.40に「Oh\!MZ」からの改題記念特別企画として掲載されていた記事「東京パソコン購入アドベンチャー」の中には「E電（**なんて呼び名誰が使ってるのだろうか**）[秋葉原駅](https://ja.wikipedia.org/wiki/秋葉原駅 "wikilink")を降りると…」という記述があり、このことから「E電」が半年前後経っても殆ど浸透していなかったことが伺えるエピソードといえる。
+  - JR東日本による同様の短期に終わった愛称としては、他に[北陸新幹線](https://ja.wikipedia.org/wiki/北陸新幹線 "wikilink")における初期の愛称「長野行新幹線」があるが、これは北陸地方への配慮など様々な経緯が含まれている。詳しくは[長野新幹線の該当項目を参照](https://ja.wikipedia.org/wiki/長野新幹線#「長野新幹線」の呼称の変遷 "wikilink")。山手線の新駅の[高輪ゲートウェイ駅](https://ja.wikipedia.org/wiki/高輪ゲートウェイ駅 "wikilink")も、E電と同じように公募を行ったにもかかわらず130位の案が採用されている。これは駅周辺の再開発エリアである「グローバルゲートウェイ品川」ありきのネーミングで、センスが悪く地名が持つ文化を破壊する名前であると駅が開業する前から批判が殺到していてネーミングの失敗だと認識されている。
+  - E電の名称普及を狙って、「**E電音頭**」が作られた（[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")と[踊り](https://ja.wikipedia.org/wiki/踊り "wikilink")）。社長である[住田正二](https://ja.wikipedia.org/wiki/住田正二 "wikilink")はじめ経営幹部が[法被](https://ja.wikipedia.org/wiki/法被 "wikilink")姿で踊りを披露するなどの力の入れようであったが、世間からは全くと言っていいほど相手にされず、恥の上塗りに終わった。E電音頭自体、完全に忘れられた存在となっている。\[14\]
+
+## その他
+
+[250px](https://ja.wikipedia.org/wiki/ファイル:E-den_on_an_information_board.jpg "wikilink")
+
+  - 「[関東と](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[関西で統一する](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")」という案もあったが、「分割民営化したのだから各社に任せるべきだ」との声から実現しなかった。ちなみに、関西ではその後「[アーバンネットワーク](../Page/アーバンネットワーク.md "wikilink")」という名称が制定され（ただしこちらは電車特定区間以外の区間も含まれる）、こちらはそれなりに知名度もあるのは対照的である。しかし[JR福知山線脱線事故](https://ja.wikipedia.org/wiki/JR福知山線脱線事故 "wikilink")が起こった2000年代後半以降、アーバンネットワークの名称もほとんど使用されていない。
+  - [死語となってしまった](../Page/廃語.md "wikilink")「E電」は、旅客案内でもほぼ用いられなくなり、ほとんどの駅の案内からも消えてしまった。ただし、『[JR時刻表](https://ja.wikipedia.org/wiki/JR時刻表 "wikilink")』の「普通運賃の計算」ページにおいては[2016年](https://ja.wikipedia.org/wiki/2016年 "wikilink")4月号でも「**東京の電車特定区間（E電）**」の表記があり\[15\]、現在でもこの部分を引用したJRのポスターやプレスリリース\[16\]等で同じ表記が使用されることがある。
+      - 『JR時刻表』内でも、東京近郊路線の時刻表に添えられていた「東京地区（E電・標準時分）」のE電表記は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に抹消され、それ以降は「東京地区（標準時分）」となっている\[17\]。続いて、欄外の「乗り換え（掲載ページ）」に記載された「E電各線」も、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に「東京近郊各線」に変更されている\[18\]。
+
+      - かつては[蒲田駅](https://ja.wikipedia.org/wiki/蒲田駅 "wikilink")東口の案内表示にこの表記が残っており、貴重な現存例として知られていたが、駅ビル工事にともない撤去された。また、[常磐快速線](https://ja.wikipedia.org/wiki/常磐快速線 "wikilink")の駅・所要時間案内（右の画像と同様のもの）でも、快速電車について「E電快速」との表記がなされていたが、[中距離](https://ja.wikipedia.org/wiki/中距離電車 "wikilink")[普通列車](https://ja.wikipedia.org/wiki/普通列車 "wikilink")との停車駅統一の頃（停車駅統一の[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")頃 - 呼称統一の[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")頃）に取り替えられ、この表記はなくなった。
+
+      - 現在も残っている一般旅客用の表記としては、東京駅総武地下ホーム階段上部の壁面に、その壁の前に吊り下がる案内標の後ろで見えにくい形ではあるが現存している。また、部内用語としては現存しており、JR東日本管内の中央線を例に取ると東京 - 高尾間を「快速線」「急行線」「E電線」と、高尾以西を「列車線」「中央本線」と呼び分けられている。
+
+      - 山梨県内では東京方面から乗り入れる[中央線快速](https://ja.wikipedia.org/wiki/中央線快速 "wikilink")のことをE電と呼ぶことがあり\[19\]\[20\]、現在でも路線図（駅の柱に掛けられている縦長のもの）に表記されている。しかし近年、[上野原駅](https://ja.wikipedia.org/wiki/上野原駅 "wikilink")などでは「E電」表記が無い路線図に架け替えられた。
+
+      -
+      - E電（国電）の範囲とはやや異なるが、指令業務分野において、線区の区分として[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")・[京浜東北線](https://ja.wikipedia.org/wiki/京浜東北線 "wikilink")・[根岸線](https://ja.wikipedia.org/wiki/根岸線 "wikilink")・[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")などを管轄する「E電方面指令」という言葉が残っている。
+  - 鉄道用語としては定着しなかったが、現在においても定着しなかった、忘れられた物を指すときの比較として用いられる「有名な死語」のひとつである。
+
+## 脚注
+
+## 参考文献
+
+  -
+## 関連項目
+
+  - [電車特定区間](https://ja.wikipedia.org/wiki/電車特定区間 "wikilink")
+  - [大都市近郊区間 (JR)](https://ja.wikipedia.org/wiki/大都市近郊区間_\(JR\) "wikilink")
+  - [廃語](../Page/廃語.md "wikilink")
+  - [シティ電車](https://ja.wikipedia.org/wiki/シティ電車 "wikilink")
+  - [国電](https://ja.wikipedia.org/wiki/国電 "wikilink")
+
+[Category:日本の鉄道](https://ja.wikipedia.org/wiki/Category:日本の鉄道 "wikilink") [Category:東日本旅客鉄道の列車](https://ja.wikipedia.org/wiki/Category:東日本旅客鉄道の列車 "wikilink") [Category:愛称](https://ja.wikipedia.org/wiki/Category:愛称 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.  ただし日本電気については一般的に「NEC」と呼ばれ、「日電」と呼ばれることはほとんどない。
+10.
+11.
+12.
+13. [ことば 賞味期限を探る　「広辞苑」１０年ぶり改訂　新語、流行語、そして死語](https://mainichi.jp/sunday/articles/20171106/org/00m/040/003000d)毎日新聞 2017年11月8日
+14. JR東日本の社内イベント（納涼祭など）では、1990年代半ば頃まで踊られていたという。
+15. 『JR時刻表』、交通新聞社、2016年4月号、930頁
+16. 例えば、[2016年](https://ja.wikipedia.org/wiki/2016年 "wikilink")[4月6日](https://ja.wikipedia.org/wiki/4月6日 "wikilink")発表のプレスリリース中に「※電車特定区間（E電区間）の各駅に導入します。」という表現がある。
+17. 『JR時刻表』、弘済出版社、1997年3月号、692 - 714頁には「E電」表記あり。同、1997年12月号、692 - 714頁には「E電」表記なし。
+18. 例えば『JR時刻表』、弘済出版社、1997年12月号、145頁欄外は「E電各線」、同、1998年12月号、146頁欄外は「東京近郊各線」。
+19. [大月短期大学の交通アクセス](http://www.ohtsuki.ac.jp/college/access)
+20.

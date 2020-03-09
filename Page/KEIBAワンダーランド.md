@@ -1,0 +1,674 @@
+> この記事は[KEIBA](https://ja.wikipedia.org/wiki/KEIBA)から翻訳されています。
+
+
+『**KEIBAワンダーランド**』（ケイバ・ワンダーランド）とは[京都放送](../Page/京都放送.md "wikilink")（KBS京都）が制作し、西日本各地のテレビ局にネットしていた[中央競馬](https://ja.wikipedia.org/wiki/中央競馬 "wikilink")実況テレビ番組。
+
+## 概要
+
+[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）[4月5日](../Page/4月5日.md "wikilink")放送開始\[1\]。当初の番組名は**競馬中継**（けいばちゅうけい、[2003年](../Page/2003年.md "wikilink")（平成15年）3月まで） → **土曜競馬中継**（どようけいばちゅうけい・[2003年](../Page/2003年.md "wikilink")（平成15年）4月以降の[土曜日](../Page/土曜日.md "wikilink")、ただしオープニング以外は従来通り）・**競馬中継.exe**（けいばちゅうけい イーエックスイー・[2003年](../Page/2003年.md "wikilink")（平成15年）4月以降の[日曜日](../Page/日曜日.md "wikilink")）を経て放送開始からちょうど40年目にあたる[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）4月5日から現在のタイトルに変更となった。
+
+[競馬ブックが番組制作に協力している](https://ja.wikipedia.org/wiki/ケイバブック "wikilink")。専属評論家が解説者として出演するほか、[奈良テレビ以外のネット局へCM出稿もしている](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")。
+
+### 土曜版
+
+土曜日の中継はKBSのテレビ放送開局から4日後、最初の土曜日である[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）4月5日に開始\[2\]。
+
+14:30から16:00までは[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")と提携してメインレースの中継を相互に配信する。[札幌](../Page/札幌競馬場.md "wikilink")・[函館開催の時は](../Page/函館競馬場.md "wikilink")[テレビ北海道](../Page/テレビ北海道.md "wikilink")、[福島第](../Page/福島競馬場.md "wikilink")3場開催の時は[福島テレビ](../Page/福島テレビ.md "wikilink")、[新潟第](../Page/新潟競馬場.md "wikilink")3場開催の時は[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")が代理する時もある）、それ以外はテレビ東京が制作した映像を中継。KBS京都とテレビ北海道の間には直接の中継回線が引かれておらず映像・音声はテレビ東京経由。KBS京都側の切り替えタイミングがテレビ東京（『[ウイニング競馬](https://ja.wikipedia.org/wiki/ウイニング競馬 "wikilink")』）側とあわなかった場合、ウイニング競馬の映像・音声がそのままKBS京都で流れる。
+
+『ウイニング競馬』は、前身の『土曜競馬中継』の時代から一貫して西日本の地上波放送局では放送していない。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）4月改編から[BSテレ東で同時ネットされるようになり西日本でも視聴可能になったが](../Page/BSテレビ東京.md "wikilink")、西日本のTXN系列局のうち[テレビ大阪](../Page/テレビ大阪.md "wikilink")は、従前から放送しているKBS京都と[サンテレビで大阪府域をカバーしている事から](../Page/サンテレビジョン.md "wikilink")、[1982年](../Page/1982年.md "wikilink")（昭和57年）の開局以来競馬中継の放送を一切行っていない。またTVOよりも後に開局した[テレビ愛知](../Page/テレビ愛知.md "wikilink")、[テレビせとうち](../Page/テレビせとうち.md "wikilink")、[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")はKBS京都制作分を放送している。
+
+以下の場合JRA公式映像（地上デジタル放送では4:3SD映像であったが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）6月より全場ハイビジョン対応）、[ラジオNIKKEIの実況音声が配給されている](../Page/日経ラジオ社.md "wikilink")。
+
+  - 関東主場最終レース、14:30以前に発走するレース（テレビ東京制作の場合もある）
+  - 福島第3場開催時に福島テレビ『[エキサイティング競馬](https://ja.wikipedia.org/wiki/エキサイティング競馬_\(福島テレビ\) "wikilink")』が放送されないときのメインレース（[FNSネットワークセールス番組放送の為の休止](https://ja.wikipedia.org/wiki/フジネットワーク "wikilink")）
+  - 第3場開催のメインレース以外の特別競走（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）より17:00まで放送が行われるときのみ）
+  - テレビ北海道に代わってFNS系列局である[北海道文化放送](../Page/北海道文化放送.md "wikilink")が中継する当日の函館・札幌のメインレース（[宝塚記念](https://ja.wikipedia.org/wiki/宝塚記念 "wikilink")・[札幌記念](https://ja.wikipedia.org/wiki/札幌記念 "wikilink")開催週及び[札幌2歳ステークス](https://ja.wikipedia.org/wiki/札幌2歳ステークス "wikilink")当日）（ただし[2009年](../Page/2009年.md "wikilink")（平成21年）、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）の札幌2歳ステークスはテレビ北海道が中継したので例外）
+  - [小倉第](../Page/小倉競馬場.md "wikilink")3場開催時のメインレース（TVQが自社制作を行わない為。但し[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）までTVQは自社制作で『[土曜小倉競馬](https://ja.wikipedia.org/wiki/土曜小倉競馬 "wikilink")』として中継をしていた）
+
+### 日曜版
+
+日曜日は[関西テレビ](../Page/関西テレビ放送.md "wikilink")（『[DREAM競馬](https://ja.wikipedia.org/wiki/DREAM競馬 "wikilink")』→『[競馬beat](https://ja.wikipedia.org/wiki/KEIBA_BEAT "wikilink")』）とのリレー中継という体裁で[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）頃から始まった。青芝フック、太平洋の担当時には第2部のオープニングでたいてい「1時間のお休みをいただきまして、再び○○競馬場からお送りします」という挨拶が入っていた。例外として、[京都新聞杯](https://ja.wikipedia.org/wiki/京都新聞杯 "wikilink")と[KBS京都賞ファンタジーステークスが開催された日曜日は](https://ja.wikipedia.org/wiki/ファンタジーステークス "wikilink")、KBS京都のみ15時台の中断なしで放送していた（ネット局は通常通り15時台は中断する）。
+
+以下の場合JRA公式映像（地上デジタル放送では4:3SD映像であったが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）6月より全場ハイビジョン対応）、[ラジオNIKKEIの実況音声が配給されている](../Page/日経ラジオ社.md "wikilink")。
+
+  - 関西主場以外の特別競走・最終競走（例外として[FNSの日](https://ja.wikipedia.org/wiki/FNSの日 "wikilink")の関係で完全中継する当日の函館メインレースはテレビ北海道の映像で放送）
+
+なお、日曜日のレギュラー放送を開始するまでは京都新聞杯の開催日に限り[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")より放送されていた\[3\]。
+
+### 土日共通の概要
+
+[京都競馬場](../Page/京都競馬場.md "wikilink")と[阪神競馬場](../Page/阪神競馬場.md "wikilink")で行われるレースを実況中継する。夏期開催の[中京競馬場](../Page/中京競馬場.md "wikilink")、[小倉競馬場](../Page/小倉競馬場.md "wikilink")でのレースもKBSのスタッフを動員して実況中継する（それ以外の第3場開催で行われる場合は、それぞれ地元局（[テレビ愛知](../Page/テレビ愛知.md "wikilink")、[三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）までは[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")も）が独自に放送する）。なお関西テレビを除き、関西で競馬中継を放送する局はラジオを含めてすべて夏期（中京・小倉）開催では現地まで出張して中継する。
+
+KBS京都の中継は、地上波テレビ放送の競馬中継としては1週間における放送時間が日本で最も長い（土曜日・3時間55分、日曜日・1部2部合わせて3時間10分）。この長時間中継を活用してレースの合間にインタビューコーナー、調教ビデオ・参考レースビデオなどを豊富に使った展望コーナーを充実させた放送を行っている。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）最初の放送となった[1月5日](../Page/1月5日.md "wikilink")放送分から[ハイビジョン制作](https://ja.wikipedia.org/wiki/ハイビジョン制作 "wikilink")となり、地上デジタル放送ではハイビジョン放送となった。
+
+[副音声で](../Page/音声多重放送.md "wikilink")[自動音声によるオッズの読み上げが放送されていたが](https://ja.wikipedia.org/wiki/音声合成 "wikilink")、馬単・三連複の導入に伴い終了した。そのため、スポーツ中継としては珍しいモノラル音声で放送されていた。ただしTVQ九州放送では、独自にステレオ音声にして送出している。
+
+年間最後の放送ではその年の全[GIレースを](https://ja.wikipedia.org/wiki/中央競馬#GI（含J・GI）レース "wikilink")、最後の直線でハイライトして行くコーナーで締め括る。
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）1月5日から地上デジタル放送ではハイビジョン放送。取材VTRなどは4:3SDのままなので地上デジタル放送では4:3SD映像の両サイドに「CLUB KEIBA」（[JRAの](../Page/日本中央競馬会.md "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）年間キャッチコピー）のロゴ入りサイドパネルを表示。尚、ハイビジョン制作移行後の土曜競馬中継のネット局はKBS京都とネット局間の伝送回線の関係でテレビせとうちの様にハイビジョン放送となっている局と全編4:3SDでの放送になっている局とに分かれる。併せて、出演者のネームテロップにも「CLUB KEIBA」のロゴが使われている。
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）4月5日から番組タイトルを「**KEIBAワンダーランド**」と改めた（出演者は変更なし）。また新聞の[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")にはこれまで「競馬中継」と表記されていたが、この日より「競馬ワンダーランド」と表記している。オープニングタイトルは土日共通であるがテーマ曲はこれまでどおり土日別々の曲を使用しており、また土曜日は番組内の各種BGMを改題前からほとんど変更していないのに対し日曜日は全てのBGMを一新しており、またCM前アイキャッチ時のタイトルロゴやKBS京都のみではあるがオープニング・エンディングの制作クレジットも土曜日と日曜日で微妙に変えており改題前以上に土曜日と日曜日の中継で差別化を図っている。
+
+三重テレビとテレビ愛知は[中京競馬場](../Page/中京競馬場.md "wikilink")での第3場=裏開催で行われる場合[土曜競馬中継](https://ja.wikipedia.org/wiki/KEIBAワンダーランド_\(テレビ愛知\) "wikilink")、[日曜競馬リレー中継](https://ja.wikipedia.org/wiki/日曜競馬リレー中継 "wikilink")として放送していたが[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）1月の開催から「KEIBAワンダーランド」のタイトルを共有使用することになった。
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")より､地上アナログ放送では16:9のレターボックス画面に変更された。これは、[7月5日](../Page/7月5日.md "wikilink")の放送から全番組がデジタル放送移行を前提とした完全レターボックスに移行するための処置（ダイジェストも同じ）。
+
+月曜日の変則開催時、以下の場合JRA公式映像（地上デジタル放送では4:3SD映像であったが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）6月より全場ハイビジョン対応）、[ラジオNIKKEIの実況音声が配給されている](../Page/日経ラジオ社.md "wikilink")。
+
+  - 関西主場以外の特別競走・最終競走（例外：[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）の[福島記念](https://ja.wikipedia.org/wiki/福島記念 "wikilink")（この年は11月にも変則開催）と[2009年](../Page/2009年.md "wikilink")（平成21年）[エルムステークス](https://ja.wikipedia.org/wiki/エルムステークス "wikilink")（新潟開催）当日のメインレース（エルムステークス）と準メインレース（10R））
+  - [2000年](../Page/2000年.md "wikilink")（平成12年）ごろ、全国全レース発売が実施されるようになってからのごく一時、[首都圏県域3局（現・首都圏トライアングル）が共同制作する](https://ja.wikipedia.org/wiki/首都圏トライアングル "wikilink")「[中央競馬ワイド中継](https://ja.wikipedia.org/wiki/中央競馬ワイド中継 "wikilink")」と同じものを最終競走に限りネットした事があった。（レースの実況はラジオNIKKEI=当時ラジオたんぱのものであるが、ゲート入り、レース後の実況は首都圏県域3局のものがそのまま放送されていた）
+
+### 番組の終了
+
+[2011年](../Page/2011年.md "wikilink")（平成23年）[1月5日](../Page/1月5日.md "wikilink")（金杯競走開催日）から[BS11がキー局系BS局の放送時間外に](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")『[BSイレブン競馬中継](https://ja.wikipedia.org/wiki/BSイレブン競馬中継 "wikilink")』を編成し、それに伴い独立U局の中継番組が見直されることになった\[4\]。そのため、『KEIBAワンダーランド』は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[12月26日](../Page/12月26日.md "wikilink")（[有馬記念](https://ja.wikipedia.org/wiki/有馬記念 "wikilink")開催日）に最終回を迎えた\[5\]。12月26日の日曜最終回は通常開催ごとダブルキャストだった池山、太平洋が共演して締めくくった。
+
+しかし西日本地域の放送局がKBS京都の競馬中継を放送し、テレビ東京（BSジャパン）が『ウイニング競馬』を放送している土曜15時台については放送が継続される。
+
+## 基本的な放送時間
+
+  - 土曜日 12:35 - 16:30
+  - 日曜日 12:35 - 15:00と16:00 - 16:45の2部構成
+  - GI競走開催日に関西テレビ系列の『競馬beat』が14:35開始の場合は、日曜日第1部は14:35までとなる。
+  - [薄暮競走](https://ja.wikipedia.org/wiki/薄暮競走 "wikilink")開催時は放送時間が17:00（日本ダービー開催日は17:15）までに延長する。
+
+## 変則的な事例
+
+### 薄暮競走実施
+
+[2009年](../Page/2009年.md "wikilink")（平成21年）以降は事実上春夏クールは17:00まで、秋冬クールは土曜日は16:30、日曜日は16:45（KBS京都以外は16:30まで）までの放送と言える。
+
+  - 2005年から小倉夏開催時に薄暮競走を実施（土日とも小倉最終レース発走16:50）。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）からは6・7・9月の3回、4回[阪神開催で実施](../Page/阪神競馬場.md "wikilink")（最終レースは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）は16:40、2009年からは6・7月開催で16:50）\[6\]\[7\]\[8\]。
+  - 2009年以降は3・4月の2回阪神開催、4・5月の3回[京都開催](../Page/京都競馬場.md "wikilink")、5・6月の2回中京開催（2010年は中京改修で京都で開催）でも実施（最終レースの発走時刻16:40）\[9\]。
+
+### 特別編成時の措置
+
+[全国高等学校野球選手権大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")期間中は[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")との[高校野球リレー中継放送のため](https://ja.wikipedia.org/wiki/全国高校野球選手権大会中継 "wikilink")、日曜日第1部は14:10からとなる。
+
+毎年7月下旬頃に放送される[フジテレビ系列の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNSの日](https://ja.wikipedia.org/wiki/FNSの日 "wikilink")』特別番組放送日は、15時台の休憩なしでノンストップで放送される（2005年[10月9日](../Page/10月9日.md "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月8日](../Page/10月8日.md "wikilink")、[2009年](../Page/2009年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")にフジテレビ系列で[F1](../Page/フォーミュラ1.md "wikilink")[日本グランプリ生中継が行われた際も同様の措置がとられた](https://ja.wikipedia.org/wiki/日本グランプリ_\(4輪\)#F1日本グランプリ "wikilink")）。
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月23日](../Page/9月23日.md "wikilink")は報道特別番組のため、また[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")と[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")に[F1](../Page/フォーミュラ1.md "wikilink")[日本グランプリ生中継が行われた際](https://ja.wikipedia.org/wiki/日本グランプリ_\(4輪\)#F1日本グランプリ "wikilink")、この日の関西テレビ系列の『[DREAM競馬](https://ja.wikipedia.org/wiki/DREAM競馬 "wikilink")』が15:15（2007年9月23日は15:30）から放送開始だったがこの場合の第1部は通常通り15:00までの放送となる（この間に、発走するレースは地上波では放送されないことになる）。
+
+以上の措置は後述の[ネット局の内](https://ja.wikipedia.org/wiki/#ネット局 "wikilink")、土日共に放送の3局（三重・奈良・兵庫サンテレビ）でも同様。但し下記の例外がある。
+
+  - 高校野球リレー中継に関しては三重テレビ放送を除く。この期間中三重テレビへのネットは、KBS京都からの裏送りで放送。
+  - 薄暮開催の内、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）については6・7・9月の阪神開催については三重テレビ（土日共に）と[サンテレビ](../Page/サンテレビジョン.md "wikilink")（6・7月の土曜日のみ）が編成上の都合で16:30で飛び降りとなった。また2009年は三重テレビが[日本ダービー当日と夏の小倉開催を除き編成の都合で](https://ja.wikipedia.org/wiki/東京優駿 "wikilink")16:30で飛び降りとなる。3月28日・29日の放送で[奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")、3月28日の放送でサンテレビがそれぞれ編成上の都合で16:30で飛び降りた。2010年も三重テレビでは、2009年同様編成の都合で16:30で飛び降りとなる。
+
+### 変則開催時
+
+1月5日の[京都金杯](https://ja.wikipedia.org/wiki/京都金杯 "wikilink")当日、及び1月第2月曜の[成人の日](../Page/成人の日.md "wikilink")と9月第3月曜の[敬老の日](../Page/敬老の日.md "wikilink")と10月第2月曜の[体育の日](../Page/体育の日.md "wikilink")（2007年のみ）の[ハッピーマンデー制度](https://ja.wikipedia.org/wiki/ハッピーマンデー制度 "wikilink")に伴う変則的な月曜開催、その他代替開催など土曜・日曜以外に実施される場合も原則として土曜日の放送時間帯での放映となる（ネット局は別途定める）。
+
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）6月3日・4日は「震災復興支援競走」として関西エリアでは京都競馬と中京競馬が同時開催となったが、中京競馬場にもKBS京都のスタッフを派遣して放送時間内に行われた両場のすべてのレースの生放送を行った\[10\]。
+
+[2003年](../Page/2003年.md "wikilink")（平成15年）[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に福島競馬場で中央競馬が開催された当日は、KBS京都・サンテレビともに[関東の独立局向けに放送している](../Page/全国独立放送協議会.md "wikilink")『[中央競馬ワイド中継](https://ja.wikipedia.org/wiki/中央競馬ワイド中継 "wikilink")』（発局・[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）を放送した。またこれまで関東地区のみが天災などによる開催中止の代替開催が行われた場合は関西地区での競馬中継は行わなかったが、2006年[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")の[中山競馬場](../Page/中山競馬場.md "wikilink")代替開催が実施された時も『ワイド中継』（このときの発局は[チバテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")）をネットした。同様に[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[2月4日](../Page/2月4日.md "wikilink")の[東京競馬場](../Page/東京競馬場.md "wikilink")代替開催時もKBS京都のみだが『ワイド中継』（このときの発局は[Tvk](../Page/テレビ神奈川.md "wikilink")）がネットされた。
+
+2004年から9月の敬老の日を含めた3連休は中山、[阪神](../Page/阪神競馬場.md "wikilink")、札幌の3場の開催スケジュールを調整し土曜日は中山と札幌での開催となり阪神開催が行われない（月曜日に阪神、札幌開催）がその場合は15:00から1時間の中継のみとなる。この場合はKBS京都本社スタジオ（2009年の変則開催は阪神競馬場）からの進行で、中継映像は通常の中継同様それぞれTXN各系列局から配給されたものを使う（TXN系列局であるテレビ愛知・TVQ九州放送・テレビせとうちは2006年までテレビ東京制作の『ウイニング競馬』を放送していた）。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink") - [24日の東京](../Page/11月24日.md "wikilink")・[京都](../Page/京都競馬場.md "wikilink")・[福島の変則開催時も](../Page/福島競馬場.md "wikilink")、京都開催がなかった22日に同様の短縮放送を行った。なお、2009年以降[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")が視聴可能であれば、14:30以降はこの番組より先に『[ウイニング競馬](https://ja.wikipedia.org/wiki/ウイニング競馬 "wikilink")』で視聴することが可能になった。
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）から東京競馬場で日本ダービーが行われる日に[目黒記念](https://ja.wikipedia.org/wiki/目黒記念 "wikilink")が最終レース（17:00発走）に組まれる（中京の最終レースの発走も16:40に繰り下がる）為、当日はそれを中継する関係で17:15まで延長して放送する（2006年はKBS京都と三重テレビのみ17:25まで）。また2010年の宝塚記念当日は阪神競馬の最終レース（[JRAプレミアムレース](https://ja.wikipedia.org/wiki/JRAプレミアムレース "wikilink")の阪神ドリームプレミアム）が17:00発走に組まれるため、17:15まで中継を延長して放送。
+
+2007年8月18日と翌19日の放送は[馬インフルエンザ](https://ja.wikipedia.org/wiki/馬インフルエンザ "wikilink")ウイルスの蔓延により全72レースが中止となったことを受け、小倉競馬場からではなくKBS京都本社からの放送に変更された。内容も変更され、この年これまでの内容を振り返る企画（18日はGIレース・2歳新馬戦回顧、19日は「笑顔をキャッチ」総集編）に加えJRAが六本木事務所で行った記者会見の中身についても放送した。
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）11月17日の福島、24日の中京のメインレースは急遽開催が決まった影響から地元局\[11\]からは放送がなかったためJRAの公式映像を利用した。また23・24日はテレビ愛知（24日のみ）、三重テレビも自主制作はせずKBSからのネット受けのみをした。
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[2月11日](../Page/2月11日.md "wikilink")は京都競馬場で9日の続行競馬、東京競馬場で10日の代替競馬が行われたがこの日は中継そのものが行われなかった（15:30 - 16:00に「[阿含の星まつり](https://ja.wikipedia.org/wiki/阿含の星まつり "wikilink")」の中継が組まれており放送枠やスポンサーの都合が付かなかったほか実況担当アナウンサーの内、澤武・梶原・森谷の3人がこの日レギュラー番組の担当に当たっていた事も災いした）。代替開催で中継がなかった珍しいケースである。この日は深夜のダイジェストや関西地区のラジオの競馬中継も行われなかった為（関東地区でも、テレビ・ラジオともに中継局は限られた）、グリーンチャンネルかラジオNIKKEIを受信できなければ競馬を視聴できない状況となった。その事もあり前日10日の放送では、「ぜひ明日（11日）は競馬場・ウインズで競馬をお楽しみ下さい」という旨のコメントがなされた。また当時は関西地区メインレースの実況がKBS京都から[RFラジオ日本に音声のみ配信されていたがそれもできなくなり](../Page/アール・エフ・ラジオ日本.md "wikilink")、ラジオ日本のアナウンサーが急遽派遣され全レースを実況することになった。
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）4月19日の福島競馬が代替開催された時も、関西地区での地上波では中継がなかった。
+
+### サンテレビ
+
+土曜日に[プロ野球](../Page/日本プロ野球.md "wikilink")[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")戦の中継が放送される場合、野球中継の開始時刻で競馬中継を終了。まれに競馬中継が全面休止となる事もある。
+
+[兵庫リレーカーニバル](https://ja.wikipedia.org/wiki/兵庫リレーカーニバル "wikilink")（4月下旬）、[神戸まつり](https://ja.wikipedia.org/wiki/神戸まつり "wikilink")（5月中旬）が行われる日には11時頃から17時ごろまで中継が組まれる為、競馬中継は全面休止となる。
+
+### その他事例
+
+[2001年](../Page/2001年.md "wikilink")（平成13年）[2月3日](../Page/2月3日.md "wikilink")の中継直前の午前11時過ぎに京都放送(KBS京都)本社の電気設備の更新作業中のトラブルで放送の送信が停止する事故があった。このとき競馬中継に使用する予定のテロップやコマーシャルが全て使えず、やむを得ず画用紙に手書きしたフリップの出馬表や競馬場のモニターでオッズや結果・払戻金を放送したことがあった。このときも本来TVQから小倉、テレビ東京から東京のメインレースを送ってもらう予定だったが受信することが出来なくなったため急遽JRA公式レース映像（グリーンチャンネルで使用されているものと同じ映像）で・ラジオNIKKEI（当時はラジオたんぱ）の実況を使う事になった。
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[8月23日](../Page/8月23日.md "wikilink")はTXN系列で[北京オリンピックを中継するため](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")、テレビ愛知・テレビせとうち・TVQ九州放送は放送を休止（この日は[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")も特番のため休止だった）。
+
+  - これに伴い、通常はテレビ愛知の時間帯は中断している三重テレビではこの日は中断なしで放送した（ただし[競輪](../Page/競輪.md "wikilink")の[ふるさとダービー](https://ja.wikipedia.org/wiki/ふるさとダービー "wikilink")中継のため、16時までの放送）。
+
+2009年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")はGI[スプリンターズステークス](../Page/スプリンターズステークス.md "wikilink")開催日だったがフジテレビ系列では[F1日本グランプリ生中継が行われた為](https://ja.wikipedia.org/wiki/日本グランプリ_\(4輪\) "wikilink")、この日の関西テレビ系列の『[DREAM競馬](https://ja.wikipedia.org/wiki/DREAM競馬 "wikilink")』は15:40 - 16:20の予定だったがF1中継の進行状況に最大30分放送短縮ありの可能性があった為にGIレースが生中継できない可能性があったためKBS京都、奈良テレビでは15時台も中断せずに放送した（サンテレビ、三重テレビは通常通り15時台は中断）。そのため日曜日に行われるGIレースでは[2003年](../Page/2003年.md "wikilink")の[宝塚記念](https://ja.wikipedia.org/wiki/宝塚記念 "wikilink")以来、6年ぶりにGIレースが生中継された\[12\]。
+
+GI開催日の日曜日には時々、最終レースの発走が5 - 10分遅れることがあるためレースの途中で放送が途切れたり放送できないケースもある。KBS京都の日曜日は16:45まで中継があるがその場合でも16時28分30秒で強制的にCMが入るので（ネット局はこの時点で各局別のエンディングとなる）、CMが終わってから改めてVTRで放映し直していた（ただし、薄暮競走開催時は除く）。
+
+## タイトル
+
+KBS京都テレビでは、1990年代中頃までは土曜日と日曜日で異なるタイトルロゴを使用していた（土曜日が「競馬中継」、日曜日が「日曜競馬中継」の文字が入る異なるデザインであった）。その後、タイトルロゴは一時期には土曜日・日曜日とも共通のタイトルロゴに一旦は統一していたが、[2003年](../Page/2003年.md "wikilink")（平成15年）4月 - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）3月までは各曜日とも独自性を高めるため違ったタイトルロゴが使われていた。なお日曜日はかつてキャスターを務めた[青芝フックが題字を書いていたものが使われていたが](https://ja.wikipedia.org/wiki/青芝フック・キック "wikilink")、その後フックが勇退してから別の題字に変更された。
+
+なお、「KEIBAワンダーランド」に改題されてからは再び共通のロゴを使用するようになり、『うまDOKI』に引き継がれた。
+
+## テーマ曲
+
+オープニング曲は、放送開始当初から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）頃まではKBS・SUNでのテーマソングは[エドウィン・ユージン・バグレイ](https://ja.wikipedia.org/wiki/エドウィン・ユージン・バグレイ "wikilink")[作曲](../Page/作曲.md "wikilink")の『[国民の象徴](https://ja.wikipedia.org/wiki/国民の象徴 "wikilink")』が（エンディングも）使用されていた。その後は[スーザの](../Page/ジョン・フィリップ・スーザ.md "wikilink")[行進曲](https://ja.wikipedia.org/wiki/行進曲 "wikilink")『海を越える握手』に変更され、その後何曲か変更ののち[2003年](../Page/2003年.md "wikilink")の3月までは[高中正義](https://ja.wikipedia.org/wiki/高中正義 "wikilink")の『[Victory Goal](https://ja.wikipedia.org/wiki/Victory_Goal "wikilink")』が使用されていた。『競馬中継』時代最末期は土曜日が[Savage Gardenの](https://ja.wikipedia.org/wiki/Savage_Garden "wikilink")『The Best Thing』、日曜日が[Cold Playの](https://ja.wikipedia.org/wiki/コールドプレイ "wikilink")『[Clocks](https://ja.wikipedia.org/wiki/クロックス_\(曲\) "wikilink")』で、後の『KEIBAワンダーランド』にタイトルが変わって以降は土曜日が[ナイト・レンジャー](https://ja.wikipedia.org/wiki/ナイト・レンジャー "wikilink")の『[Four In the Morning](https://ja.wikipedia.org/wiki/Four_In_the_Morning "wikilink")』で日曜日が[葉加瀬太郎](https://ja.wikipedia.org/wiki/葉加瀬太郎 "wikilink")の『[Loving Life](https://ja.wikipedia.org/wiki/Loving_Life "wikilink")』となっていた。なお、KBS京都以外はそれぞれの番組オープニング時とエンディングに各自で異なるテーマ曲を自社送出で挿入する（例えばSUNでは[クロード・トーマス・スミス](https://ja.wikipedia.org/wiki/クロード・トーマス・スミス "wikilink")の[吹奏楽](../Page/吹奏楽.md "wikilink")曲である『華麗なる舞曲』等）。
+
+土曜日の今日のレース結果は[1980年代](../Page/1980年代.md "wikilink")後半にレース結果をまとめて放送する様になってから（それまではレースVTRを放送し、その後で結果と配当金をアナウンサーが読み上げる形式だった）[BGM付きとなり](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")、当初は[フュージョン系アーティストの曲が使用されていた](../Page/フュージョン_\(音楽\).md "wikilink")。『KEIBAワンダーランド』時代は、[大橋勇の](https://ja.wikipedia.org/wiki/大橋勇武 "wikilink")『Battle For The Championship』（[1993年](../Page/1993年.md "wikilink")（平成5年）の[F1イメージアルバム](../Page/フォーミュラ1.md "wikilink")「IMAGES」に収録）が使用されていた。日曜日のレース結果では[T-SQUARE](../Page/T-SQUARE.md "wikilink")の『TRIUMPH』が使用されていた。2004年頃までは、14時台と16時台にレース結果を放送されていたが、2005年頃から他場のレース中継を放映するに伴い、レース結果をまとめては放送されなくなった。
+
+日曜日の番組内で使用されているBGMはフラリー・パッドのアルバム『future_pad』（FLPD-0001 インディーズ盤）に収録されている。
+
+番組末期のパドックBGMに[T-SQUARE](../Page/T-SQUARE.md "wikilink")の「A-DISTANCIA」、CM前ジングルに[DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")の「Break Out」(最初の5秒間)が使用されていた。
+
+## 出演者
+
+★印は[2011年](../Page/2011年.md "wikilink")（平成23年）1月開始の[うまDOKI](https://ja.wikipedia.org/wiki/うまDOKI "wikilink")へ当番組に引き続き出演する
+
+☆印は[2011年](../Page/2011年.md "wikilink")（平成23年）1月から[BSイレブン競馬中継](https://ja.wikipedia.org/wiki/BSイレブン競馬中継 "wikilink")へ出演する
+
+### キャスター
+
+  - 土曜日
+
+<!-- end list -->
+
+  - [小崎愃](https://ja.wikipedia.org/wiki/小崎愃 "wikilink")（元KBS京都アナウンサー）
+  - [出光ケイ](../Page/出光ケイ.md "wikilink")（[オフィス出光](https://ja.wikipedia.org/wiki/オフィス出光 "wikilink")所属）
+  - [澤武博之](https://ja.wikipedia.org/wiki/澤武博之 "wikilink")（KBS京都アナウンサー）★
+
+<!-- end list -->
+
+  - 日曜日
+
+<!-- end list -->
+
+  - [池山心](https://ja.wikipedia.org/wiki/池山心 "wikilink")（[しましまんず](https://ja.wikipedia.org/wiki/しましまんず "wikilink")、[よしもとクリエイティブエージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブエージェンシー "wikilink")所属、しましまんずのクレジットはなかった）
+  - [太平洋](https://ja.wikipedia.org/wiki/太平洋_\(講談\) "wikilink")（[講談](https://ja.wikipedia.org/wiki/講談 "wikilink")師）
+  - [久保房郎](https://ja.wikipedia.org/wiki/久保房郎 "wikilink")（サブキャスター、元KBS京都アナウンサー、過去に土曜日のキャスターを務めていた時期もあった）
+  - [青芝フック](https://ja.wikipedia.org/wiki/青芝フック・キック "wikilink")（田渕の後任。1989年頃 - 2004年[3月28日](../Page/3月28日.md "wikilink")）
+  - [高岡建治](https://ja.wikipedia.org/wiki/高岡建治 "wikilink")（2004年[4月4日](../Page/4月4日.md "wikilink") - 2005年[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")、[ゴルフ](../Page/ゴルフ.md "wikilink")のシニアプロ挑戦に専念するため途中降板）
+  - [飛鳥井雅和](https://ja.wikipedia.org/wiki/飛鳥井雅和 "wikilink")（元KBS京都アナウンサー）
+  - [田渕岩夫](https://ja.wikipedia.org/wiki/田渕岩夫 "wikilink")（不明 - 1989年頃まで）
+
+<!-- end list -->
+
+  - 備考
+
+池山と太平洋は開催ごと（4週置き）に交代で出演のいわゆる「ダブルキャスティング」。初登場の2005年10月9日と「ファンタジーステークス」が行われた同年[11月6日](../Page/11月6日.md "wikilink")は2人が共演した。
+
+出光は9月の3日間開催で、短縮放送となる土曜日に「放牧」と称して夏休みを取っている（ただし翌々日の月曜日の中継には出演するため、実質夏休みなしで出演している）。2008年11月の3日間開催も、同様に短縮放送の22日を休んでいる。
+
+久保は夏の小倉競馬期間中は出演せず、第2部のみ（「FNSの日」放送日は15:00以降）後述の実況アナウンサーのうち1人がサブキャスターを担当する。
+
+出光と久保、それに交代出演となる池山と太平洋以外は基本的に夏休みを取らずに出演する（ただし藤井は2008年1月に一度休暇を取っており、その時は森谷が代役を務めた）。
+
+2009年[1月24日](../Page/1月24日.md "wikilink")は出光が病気により欠席したため 、日曜日担当の太平洋が代役をした｡
+
+2010年8月7日･14日は澤武がリフレッシュ休暇を取得したため､木村がアシスタントとして出演した｡
+
+2010年9月12日以降は兼平が卒業した後、同日から12月19日の放送まで実況のアナウンサーが、最終回の12月26日は太平洋がそれぞれ代理でパドックの聞き手として出演した。
+
+### アシスタント
+
+  - [片岡桜子](https://ja.wikipedia.org/wiki/片岡桜子 "wikilink")（土曜日）
+  - [西村隆子](https://ja.wikipedia.org/wiki/西村隆子 "wikilink")（土曜日）
+  - [愛田夏希](../Page/愛田夏希.md "wikilink")（土曜日）
+  - [伊東みき](https://ja.wikipedia.org/wiki/いとうみき "wikilink")（土曜日）
+  - [早川真紀](https://ja.wikipedia.org/wiki/早川真紀 "wikilink")（土曜日）
+  - [安井牧子](https://ja.wikipedia.org/wiki/安井牧子 "wikilink")（土曜日）
+  - [平野賢一](https://ja.wikipedia.org/wiki/平野賢一 "wikilink")（土曜日、元KBS京都アナウンサー）
+  - [堀江良信](https://ja.wikipedia.org/wiki/堀江良信 "wikilink")（土曜日、パドック担当）
+  - [春藤睦](https://ja.wikipedia.org/wiki/春藤睦 "wikilink")（日曜日）
+  - [前田由紀子](https://ja.wikipedia.org/wiki/前田由紀子 "wikilink")（日曜日）
+  - [小林万希子](https://ja.wikipedia.org/wiki/小林万希子 "wikilink")（日曜日）
+  - [高橋ちひろ](https://ja.wikipedia.org/wiki/高橋知裕 "wikilink")（現・高橋知裕、日曜日）
+  - [小池さおり](https://ja.wikipedia.org/wiki/小池さおり "wikilink")（日曜日、 - 2004年3月28日）
+  - [大川信子](https://ja.wikipedia.org/wiki/大川信子 "wikilink")（日曜日、2004年4月4日 - 2006年[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")）
+  - [野上ともよ](https://ja.wikipedia.org/wiki/野上ともよ "wikilink")（土曜日、 - 2004年[3月27日](../Page/3月27日.md "wikilink")。現在はこの番組を放送している地元[奈良テレビ放送](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")アナウンサー）
+  - [藤下佳乃子](https://ja.wikipedia.org/wiki/藤下佳乃子 "wikilink")（土曜日、2004年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - 2006年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")）
+  - [藤井郁子](https://ja.wikipedia.org/wiki/藤井郁子 "wikilink")（土曜日、 - 2009年10月3日。[大阪テレビタレントビューロー](https://ja.wikipedia.org/wiki/大阪テレビタレントビューロー "wikilink")所属）
+  - [岩田久美](https://ja.wikipedia.org/wiki/岩田久美 "wikilink")（日曜日→土曜日）
+      -
+        岩田はこの番組への出演がきっかけで、後に[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")の競馬担当記者となる（現在はフリーの競馬ライター）。
+  - [土居美保子](https://ja.wikipedia.org/wiki/土居美保子 "wikilink")（土曜日→日曜日）
+  - [吉見由香](https://ja.wikipedia.org/wiki/吉見由香 "wikilink")（日曜日、元KBS京都アナウンサー）
+  - [兼平千佳世](https://ja.wikipedia.org/wiki/兼平千佳世 "wikilink")（日曜日、パドック担当　 - 2010年9月5日。オフィスワン・ツー・テン所属）
+  - [藤井志保](https://ja.wikipedia.org/wiki/藤井志保 "wikilink")（土曜日、パドック担当）
+  - [藤田瞳](https://ja.wikipedia.org/wiki/藤田瞳 "wikilink")（日曜日、[松竹芸能](../Page/松竹芸能.md "wikilink")所属）
+
+### 解説
+
+  - 土曜日
+
+<!-- end list -->
+
+  - [梶山隆平](https://ja.wikipedia.org/wiki/梶山隆平 "wikilink")（[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")記者）
+  - [萩谷宗秀](https://ja.wikipedia.org/wiki/萩谷宗秀 "wikilink")（[スポーツ報知](../Page/スポーツ報知.md "wikilink")記者。パドック担当）
+  - [米満浩生](https://ja.wikipedia.org/wiki/米満浩生 "wikilink")（競馬ブックトラックマン。パドック担当。後に第3場開催の中京競馬の解説も担当するようになり、その場合、長岡が代わりに解説をしていた）
+  - [河合義史](https://ja.wikipedia.org/wiki/河合義史 "wikilink")（[中日スポーツ](../Page/中日スポーツ.md "wikilink")記者。夏の中京開催時のパドック担当）
+  - [中野秀幸](https://ja.wikipedia.org/wiki/中野秀幸 "wikilink")
+  - [長岡利幸](https://ja.wikipedia.org/wiki/長岡利幸_\(競馬評論家\) "wikilink")（パドック担当）★
+  - [松本晴夫](https://ja.wikipedia.org/wiki/松本晴夫 "wikilink")（「RACING TARGET」担当）☆
+
+<!-- end list -->
+
+  - 日曜日
+
+<!-- end list -->
+
+  - [内炭重夫](https://ja.wikipedia.org/wiki/内炭重夫 "wikilink")（競馬ブック編集局長）
+  - [蔵内哲爾](https://ja.wikipedia.org/wiki/蔵内哲爾 "wikilink")（日刊スポーツ記者。パドック担当）
+  - [永井晴二](https://ja.wikipedia.org/wiki/永井晴二 "wikilink")（[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")記者（当時）。現在[共同通信社](../Page/共同通信社.md "wikilink")専属競馬ライター。パドック担当）
+  - [藤井嘉夫](https://ja.wikipedia.org/wiki/藤井嘉夫 "wikilink")
+  - [井上泰司](https://ja.wikipedia.org/wiki/井上泰司 "wikilink")（パドック・「快答乱馬」担当）
+
+解説者のうち井上のみ[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")所属、それ以外は[競馬ブック所属](https://ja.wikipedia.org/wiki/ケイバブック "wikilink")。
+
+2006年[2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink")から[10月1日](../Page/10月1日.md "wikilink")の放送まで井上が長期療養の為、代理として同じくスポーツニッポンの[仙波広雄](https://ja.wikipedia.org/wiki/仙波広雄 "wikilink")が日曜日のパドック解説を担当していた（仙波が出演できない週は、[上岡圭吾](https://ja.wikipedia.org/wiki/上岡圭吾 "wikilink")又は[柏原健士](https://ja.wikipedia.org/wiki/柏原健士 "wikilink")が担当）。
+
+2006年[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")の放送で井上からの手紙を紹介し、井上が[がんであったことを明らかにし同年](../Page/悪性腫瘍.md "wikilink")10月8日に番組に復帰することも発表し、予定通り同日から番組に復帰している。
+
+2010年7月3日の放送分から7月24日の放送、及び11月28日の放送は土曜メイン解説の中野が体調面で休んだため、その間は日曜日のメイン解説の藤井が代わりに出演した。
+
+かつて日曜日のパドック担当は蔵内担当の週と永井担当の週とがあった。
+
+### 実況アナウンサー
+
+  - [小崎愃](https://ja.wikipedia.org/wiki/小崎愃 "wikilink")
+  - [宮本英樹](https://ja.wikipedia.org/wiki/宮本英樹 "wikilink")
+  - [岡野真人](https://ja.wikipedia.org/wiki/岡野真人 "wikilink")
+  - [久保房郎](https://ja.wikipedia.org/wiki/久保房郎 "wikilink")
+  - [濱野圭司](https://ja.wikipedia.org/wiki/濱野圭司 "wikilink")（現在フリー、[ラジオ大阪の競馬実況](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")・[サンテレビのプロ野球実況を担当](../Page/サンテレビジョン.md "wikilink")）
+  - [澤武博之](https://ja.wikipedia.org/wiki/澤武博之 "wikilink")
+  - [梶原誠](https://ja.wikipedia.org/wiki/梶原誠 "wikilink")★
+  - [森谷威夫](https://ja.wikipedia.org/wiki/森谷威夫 "wikilink")★
+  - [木村寿伸](https://ja.wikipedia.org/wiki/木村寿伸 "wikilink")（2008年2月2日〜）2011年からは「うまDOKI」アシスタント★
+  - [寺西裕一](https://ja.wikipedia.org/wiki/寺西裕一 "wikilink")★
+
+澤武は土曜日午後はキャスター担当であるため、生中継の行われない午前中のレース\[13\] と日曜日の実況を担当していた。
+
+森谷は2006年3月から実況担当になったが、デビュー当初は午前中のレースのみ担当。2006年9月の中京開催から午後の実況も担当。[11月11日](../Page/11月11日.md "wikilink")の[京都ハイジャンプ](https://ja.wikipedia.org/wiki/京都ハイジャンプ "wikilink")で重賞初実況。
+
+木村は2007年からラジオの「競馬速報」には出演していた。2008年から午前中の一部レース\[14\] のみに実況を担当していたが2009年からは特別前（8Rまで）の午後のレースの実況も担当し始め、メインレースの実況も担当している。2009年[5月16日](../Page/5月16日.md "wikilink")の[京都ハイジャンプ](https://ja.wikipedia.org/wiki/京都ハイジャンプ "wikilink")で重賞初実況。
+
+寺西はKBS京都の局アナウンサー時代にも競馬中継に出演していたが2005年2月まで担当した[久保房郎](https://ja.wikipedia.org/wiki/久保房郎 "wikilink")が定年退職、2005年3月まで担当した[岩崎心平](https://ja.wikipedia.org/wiki/岩崎心平 "wikilink")アナが[東日本放送](../Page/東日本放送.md "wikilink")に転籍、さらに宮本英樹も報道記者に転属し局アナスタッフが人員不足となった関係上同年4月から復帰した。なお、フリーである寺西が実況をする時は名前の字幕の下に「KBS京都」と表示しない。プロ野球のシーズン中は『[Tigers-ai](https://ja.wikipedia.org/wiki/Tigers-ai "wikilink")』の実況もあるため、週末に[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")のホームゲームがある場合は出演しない週があった。
+
+また梶原と寺西は随時『[エキサイティング\!J](https://ja.wikipedia.org/wiki/エキサイティング!J "wikilink")』（[京都サンガ](https://ja.wikipedia.org/wiki/京都サンガ "wikilink")戦ホームゲーム中継）の担当になる日があり、特に土曜日の放送に出ない週があった。
+
+変則開催により月曜日に放送がある場合、梶原と森谷はそれぞれレギュラー番組出演の為、放送に出演しなかった。
+
+## 主なコーナー
+
+### 土日共通
+
+  - 有力馬HOT情報
+
+<!-- end list -->
+
+  -
+    主に当日（土曜日は翌日も）のメインレースの有力馬について、その馬の調教師または騎乗する騎手のインタビューを放送する。
+
+<!-- end list -->
+
+  - RACE REVIEW（8R前）
+
+<!-- end list -->
+
+  -
+    午前中のレース結果を実況VTR（原則ノーカット。長距離戦、障害競走は抜粋の場合あり）を交えて伝える。この午前中のレースは[深夜のダイジェストでも使用される](https://ja.wikipedia.org/wiki/中央競馬ダイジェスト "wikilink")。
+
+<!-- end list -->
+
+  - 小倉ジョッキーTOTO（2005年夏季開催のみ）
+
+<!-- end list -->
+
+  -
+    期間中の小倉競馬の1着ジョッキーに単勝式の配当金相当のポイントを与える。但し毎週土曜日第10レース（メインレース扱い）と日曜日最終レース（薄暮競走）については特別賞として配当金ポイント+ボーナスポイント1000点を与える（小倉以外=即ち新潟、北海道や海外遠征は対象外）。
+    視聴者は誰が多くのポイントを稼ぐかはがきで1人1枚、2名の騎手を選んで投票する（複数投票は無効）。2ヶ月間の開催終了後、最多ポイント獲得騎手に投票した視聴者5人に賞金3万円をプレゼントする。但し5名以上をオーバーした場合はもう一方の騎手の獲得ポイントを参考に決定し、それでも同点の場合は抽選で決定。
+    番組ではその中間集計結果を随時発表するが、この企画について[JRAにその中間集計結果を問い合わせたファンが若干名いた](../Page/日本中央競馬会.md "wikilink")。その為「これは番組のオリジナル企画なので、JRAに問い合わせていただくのはお止めいただきたい」と[8月27日](../Page/8月27日.md "wikilink")・[28日放送分でアナウンスした](../Page/8月28日.md "wikilink")。
+
+<!-- end list -->
+
+  - 視聴者プレゼントコーナー
+
+<!-- end list -->
+
+  -
+    競馬に関連したグッズや書籍、またGI開催週の翌週はそのレースのゴール前パネル写真の贈呈もある（土曜日は15時台、日曜日は14時台=第1部の終わり際に募集する。2006年3月まで翌週土曜日の放送で当選発表したが、同年4月以後は放送時間上の都合で発表は当選者に対する発送をもって振り替えることにした）。
+
+### 土曜日
+
+  - 笑顔をキャッチ（主に6R前。ごく希に9R前の時がある）
+
+<!-- end list -->
+
+  -
+    前週のメインレースを制した騎手または調教師の喜びの声を放送する。
+
+<!-- end list -->
+
+  - メイクデビュー○○（○○の中は西暦年、新馬戦開催期間中のみ）
+
+<!-- end list -->
+
+  -
+    前週に行われた新馬戦を、VTRを交えて振り返る。2007年までは「GENERATION ○○〜新馬たちの戦い〜」というタイトルだったが、2008年より新馬戦の愛称が「メイクデビュー」となったのを期にこのタイトルに改題された。
+
+<!-- end list -->
+
+  - サタデークローズアップ（7R前）
+
+<!-- end list -->
+
+  -
+    中野による当日のメインレース予想。月曜日開催の時は、「マンデークローズアップ」と改題される。
+
+<!-- end list -->
+
+  - MAGNIFICENT SEVEN（9R前）
+
+<!-- end list -->
+
+  -
+    競馬ブックの若手トラックマン7名が交代で出演、自信のあるレースを予想する。
+
+<!-- end list -->
+
+  - 夏の北海道、馬巡り（夏の小倉開催期間中のみ）
+
+<!-- end list -->
+
+  -
+    北海道で秋のGIレースを待つ有力馬や、競走馬の育成に携わる人々を取材する。2005年まで放送された「風の大地と優駿と」を、2008年より改題・復活させたコーナー。
+
+<!-- end list -->
+
+  - 想い出のあの馬（9R前）
+
+<!-- end list -->
+
+  -
+    その週のメインレースなどにちなんだ過去の名馬を視聴者からのリクエストに応じて取り上げ、関係者へのインタビューや当時のレース映像などを交えて紹介するコーナー。
+
+<!-- end list -->
+
+  - 澤武博之のデータにおまかせ\!\!（9R前）
+
+<!-- end list -->
+
+  -
+    澤武が半ば無理矢理なデータを駆使して、自信のあるレースを予想する。出光とのやり取りも見所の1つ。自分のデータと矛盾する点がある場合でも目を瞑ることもしばしばである。コーナーの冒頭で前週の成績発表があるが予想が的中した場合は澤武が、外れた場合は森谷がナレーションを務める。
+
+<!-- end list -->
+
+  - 日曜日重賞競走調教解説（10R前）
+
+<!-- end list -->
+
+  -
+    翌日の関西の重賞競走の調教VTRを中野の解説で放送する。GIレースの場合は12R前の時間も使って全馬の調教VTRを流す。
+
+<!-- end list -->
+
+  - 馬耳答Who?（11R前）
+
+<!-- end list -->
+
+  -
+    視聴者からの競馬に対する疑問質問に答えるコーナー。ただ単に回答するだけではなく、たとえば馬の蹄に関する質問であれば装蹄師の元へ取材し実作業の様子を交えながら回答していた。
+
+<!-- end list -->
+
+  - 重賞競走勝利騎手インタビュー（16:00前）
+
+<!-- end list -->
+
+  -
+    当日の自場での重賞競走の勝利騎手へのインタビューを録画で放映する。インタビュアーは原則として出光と澤武のどちらかが担当するが（その場合メインレース前〜16:00までの放送席は、残り2名で進行する）、まれに実況アナウンサーが担当する事がある。なお澤武がインタビューを担当する場合、まれに実況アナウンサーが放送席で澤武の代わりの進行役として出演することがある。
+
+<!-- end list -->
+
+  - 松本晴夫のRACING TARGET（12R前）
+
+<!-- end list -->
+
+  -
+    松本による翌日のメインレース予想。基本的にGIがない場合は重賞格付けの有無に関係なく、関西主場のメインが対象であるが、GIがある場合はGIを優先して解説する。このコーナーだけ、何故か進行は澤武のみとなる。
+
+<!-- end list -->
+
+  - 中野さんのドーンとこい\!（放送終了直前）
+
+<!-- end list -->
+
+  -
+    翌日のメインレースについて、澤武・藤井の狙い馬を中野に評価してもらう。このコーナーは番組の最後に放送されるため、最終レースの進行具合によっては割愛される場合がある。
+    ちなみにこのコーナーは元々エンディングのフリートークで出演者陣の予想を出し合っていたものを出光が勝手にタイトルを付けた事から、正式なコーナーへと昇格したものである。
+
+### 日曜日
+
+  - 久保のおすすめハート印（実際には「ハート」の部分がハートマークになっている）
+
+<!-- end list -->
+
+  -
+    久保が注目するレースの予想を行う。
+
+<!-- end list -->
+
+  - 井上泰司の快答乱馬
+
+<!-- end list -->
+
+  -
+    井上による当日のメインレース予想。キャスターによるタイトルコールが名物となっている。
+
+<!-- end list -->
+
+  - semba.hlp（センバドットヘルプ）
+
+<!-- end list -->
+
+  -
+    井上の療養期間中、仙波による当日のメインレースの予想。
+
+<!-- end list -->
+
+  - 出口調査（自場で行われるGIレース開催日のみ）
+
+<!-- end list -->
+
+  -
+    当日のGIレースの狙い馬を、競馬場の来場客に聞くもの。
+
+<!-- end list -->
+
+  - CLUB KEIBA 馬券
+
+<!-- end list -->
+
+  -
+    正式なコーナーではないが2008年のJRAのキャッチコピー「CLUB KEIBA」にちなみ日曜日のキャスター・実況アナウンサーがその日のメインレースを合同で予想し各自が出し合った資金で実際に馬券を購入する企画。穴党の池山・太平洋がいる事もあり的中率は低いが（開始当初はあまりにも当たらなかった為、解説の藤井に助言してもらう事もあったが、そのレースも外れた）、[安田記念](https://ja.wikipedia.org/wiki/安田記念 "wikilink")では3連単14万5690円を的中させている。
+
+<!-- end list -->
+
+  - Weekend Happy（9R前）
+
+<!-- end list -->
+
+  -
+    前の週の重賞に勝利した騎手・調教師や、記録を達成した騎手・調教師へインタビューするコーナー。「笑顔をキャッチ」の前身に当たるコーナーであるがインタビュアーがアナウンサーではなくアシスタントの女性であったり、またそのアシスタントが実際に厩舎でその勝利馬に餌を与えたりするシーンなども含まれているなど現行のコーナーとは異なるところも多い。新人騎手の初勝利後のインタビューなど、若手騎手が初めてこのコーナーに登場する場合は、趣味とか休みの日に何をしているかとかプライベートに関する質問などもあった。BGMとして[岡村孝子](https://ja.wikipedia.org/wiki/岡村孝子 "wikilink")の『[夢をあきらめないで](https://ja.wikipedia.org/wiki/夢をあきらめないで "wikilink")』が使用されていた。なお、このコーナーはCM明けると司会者による進行を挟むことなくVTRが流される形で放送されていた。
+
+## ネット局
+
+土曜日の放送については、[東京12チャンネル（現・テレビ東京）が](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、事実上の独立局だった[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")4月から[土曜競馬中継](https://ja.wikipedia.org/wiki/土曜競馬中継 "wikilink")の放送を開始して以後、KBSでの中継は開局当初からネット関係が強いテレビ東京と連携を取っている（実質、西日本地区の[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")系列競馬中継の扱いである）。そのため、KBS京都主管の中継では西日本地区のTXN系列各局（[テレビ大阪](../Page/テレビ大阪.md "wikilink")除く）と、テレビ東京との[番組販売](../Page/番組販売.md "wikilink")取引関係の強い地方他系列にネットして放送を行ってきた。後継番組の『うまDOKI』も同様となる。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>地域</p></th>
+<th><p>放送局</p></th>
+<th><p>系列</p></th>
+<th><p>土曜</p></th>
+<th><p>日曜</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/京都府" title="wikilink">京都府</a></p></td>
+<td><p><a href="../Page/京都放送.md" title="wikilink">KBS京都</a></p></td>
+<td><p><a href="../Page/全国独立放送協議会.md" title="wikilink">独立局</a></p></td>
+<td><p>12:35 - 16:30</p></td>
+<td><p>12:35 - 15:00<br />
+16:00 - 16:45</p></td>
+<td><p><strong>制作局</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
+<td><p><a href="../Page/テレビ愛知.md" title="wikilink">テレビ愛知</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TXN" title="wikilink">テレビ東京系列</a></p></td>
+<td><p>15:00 - 16:00</p></td>
+<td><p>放送なし</p></td>
+<td><p>中京競馬第3場開催時は自社制作で、15時台以外の時間は三重テレビへの<a href="https://ja.wikipedia.org/wiki/裏送り" title="wikilink">裏送り</a>。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三重テレビ放送" title="wikilink">三重テレビ</a></p></td>
+<td><p>独立局</p></td>
+<td><p>12:45 - 15:00<br />
+16:00 - 16:30</p></td>
+<td><p>中京競馬第3場開催時は、土曜日はテレビ愛知制作で裏送りネット。日曜日は自社制作。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/奈良県" title="wikilink">奈良県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/奈良テレビ放送" title="wikilink">奈良テレビ</a></p></td>
+<td><p>13:00 - 16:30</p></td>
+<td><p>13:00 - 15:00<br />
+16:00 - 16:30</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/兵庫県.md" title="wikilink">兵庫県</a></p></td>
+<td><p><a href="../Page/サンテレビジョン.md" title="wikilink">サンテレビ</a></p></td>
+<td><p>14:00 - 15:00<br />
+16:00 - 16:30</p></td>
+<td><p><a href="../Page/サンテレビボックス席.md" title="wikilink">サンテレビボックス席</a>が放送される場合、放送時間が一部変則となる。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山</a>・<a href="../Page/香川県.md" title="wikilink">香川県</a></p></td>
+<td><p><a href="../Page/テレビせとうち.md" title="wikilink">テレビせとうち</a></p></td>
+<td><p>テレビ東京系列</p></td>
+<td><p>15:00 - 16:00</p></td>
+<td><p>放送なし</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
+<td><p><a href="../Page/広島ホームテレビ.md" title="wikilink">広島ホームテレビ</a></p></td>
+<td><p><a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
+<td><p>15:00 - 15:55</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/鳥取県.md" title="wikilink">鳥取県</a><br />
+<a href="../Page/島根県.md" title="wikilink">島根県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山陰放送" title="wikilink">山陰放送</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/JNN" title="wikilink">TBS系列</a></p></td>
+<td><p>15:00 - 16:00</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
+<td><p><a href="../Page/愛媛朝日テレビ.md" title="wikilink">愛媛朝日テレビ</a></p></td>
+<td><p>テレビ朝日系列</p></td>
+<td><p>15:00 - 15:55</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
+<td><p>テレビ東京系列</p></td>
+<td><p>15:00 - 16:00</p></td>
+<td><p>2004年まで小倉競馬第3場開催時は自社制作（→『<a href="https://ja.wikipedia.org/wiki/土曜小倉競馬" title="wikilink">土曜小倉競馬</a>』）であったが、2005年以降はKBS京都制作の中継をそのまま同時放送。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/長崎文化放送" title="wikilink">長崎文化放送</a></p></td>
+<td><p>テレビ朝日系列</p></td>
+<td><p>15:00 - 15:55</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+テレビ愛知では、当初は14:25からの放送で、14:25前後はCMだったものの14:25になると競馬中継のスポンサーのCMとなっていた。中継に切り替わった後は1レース放送した後、中継映像をバックにしたオープニングを放送していたがその時間の三重テレビはCMとなっていた。1990年代中盤頃まで15:55までの放送。ちなみにテレビ愛知開局以前は[中京テレビ](../Page/中京テレビ放送.md "wikilink")（[CTV中央競馬実況中継](https://ja.wikipedia.org/wiki/CTV中央競馬実況中継 "wikilink")）で放送されていたが中京テレビが裏開催で自主制作していたかについては詳細不明。
+
+三重テレビでは、土曜日は2005年末までは中断なしだったが、2006年1月の放送からテレビ愛知と重複する時間帯は同局とのリレー放送に変更された。また『KEIBAワンダーランド』への改題前は、『[土曜ワイドスペシャル](https://ja.wikipedia.org/wiki/土曜ワイドスペシャル "wikilink")・第〇〇回△△競馬〷日目』と改題の上放送していた。
+
+サンテレビでは[岸和田競輪場](https://ja.wikipedia.org/wiki/岸和田競輪場 "wikilink")、[住之江競艇場](https://ja.wikipedia.org/wiki/住之江競艇場 "wikilink")、[尼崎競艇場](https://ja.wikipedia.org/wiki/尼崎競艇場 "wikilink")で開催の主要重賞競走（競輪のGI、競艇はSGかGIで全国場外発売が行われるもの）の製作幹事局を務める場合でも以前は競馬優先でネット局への[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")（競艇は録画中継となる場合もあった）を行っていたが近年はこの場合でも平日同様生放送するケースが増えており土曜日は放送途中（競輪の場合15:00か16:00。競艇の場合16:00）で飛び降り、日曜日は第2部休止というケースもあった。奈良テレビでは、[競輪](../Page/競輪.md "wikilink")・[競艇](../Page/競艇.md "wikilink")中継が行われる日には競馬中継は完全休止だった。KBS京都では競馬中継最優先の体制を敷いているためこのような処置をとることは後継の『うまDOKI』も含めてほとんどない。
+
+これ以外にも、[競輪](../Page/競輪.md "wikilink")・[競艇](../Page/競艇.md "wikilink")中継や特別番組などにより放送休止または時間短縮の場合があった。
+
+毎年7月に行われる夏の高校野球地方大会期間中は土日共に放送する局のうち[三重テレビでは](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")1回戦から、[奈良テレビは](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")3回戦から（2009年までは1回戦から）[KBS京都は準々決勝以降](../Page/京都放送.md "wikilink")（ただし決勝戦以外は競馬中継の時間帯は競馬中継の方が優先、高校野球は競馬中継の後に録画放送）、[サンテレビは決勝戦](../Page/サンテレビジョン.md "wikilink")（2007年までは準決勝も放送）でそれぞれの地方大会を中継する関係で放送休止・短縮される。テレビ朝日系のHOME、EAT、NCC及びTBS系のBSS\[15\] でも高校野球地方大会（HOMEは[日本プロ野球](../Page/日本プロ野球.md "wikilink")=[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")戦も）や[ゴルフ](../Page/ゴルフ.md "wikilink")中継を実施する場合があってそれぞれに放送休止となる場合があった。
+
+フジテレビ系で『FNS27時間テレビ』などの特別番組のために競馬中継が休止（重賞競走のみ中継放送はされる）する場合は、KBS京都やサンテレビなどの独立UHF局では中断しない措置を取った。また通常土曜日のみのネット局でもかつてはテレビせとうちなど一部が日曜15:00 - 16:00のみネットする場合があったが、[BSフジ](../Page/BSフジ.md "wikilink")で[競馬中継が行われるようになったため](https://ja.wikipedia.org/wiki/BSフジ競馬中継 "wikilink")2001年以降この措置は行われなくなった。
+
+テレビせとうちと山陰放送、長崎文化放送は、地元にウインズが開設された事に伴いネットを始めた（愛媛朝日テレビも、長崎文化放送と同時期にネット開始）。なお山陰放送ではまれに中継できない日に[日本海テレビへの振替放送となるケースもあり](../Page/日本海テレビジョン放送.md "wikilink")、長崎文化放送では『[大改造\!\!劇的ビフォーアフター](../Page/大改造!!劇的ビフォーアフター.md "wikilink")』の再放送に差し替える場合もあった。
+
+これらとは別に、関東地区のラジオ局[RFラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")（『[中央競馬実況中継](../Page/ラジオ日本_土曜・日曜競馬実況中継.md "wikilink")』）に西日本主場メインレースの音声のみ配信されていたが、2010年12月の当番組終了と同時に打ち切られ、以後は関西でのGI開催週が[毎日放送](../Page/毎日放送.md "wikilink")（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）の技術協力による自社制作、GIの無い週は土曜日が毎日放送（『[GOGO競馬サタデー\!](https://ja.wikipedia.org/wiki/GOGO競馬サタデー! "wikilink")』）、日曜日は[ラジオ大阪](https://ja.wikipedia.org/wiki/ラジオ大阪 "wikilink")（『[OBCドラマティック競馬](https://ja.wikipedia.org/wiki/OBCドラマティック競馬 "wikilink")』）から配信を受けるように変更された。
+
+## 関連番組
+
+  - [競馬展望](https://ja.wikipedia.org/wiki/競馬展望 "wikilink")
+  - [中央競馬ダイジェスト](https://ja.wikipedia.org/wiki/中央競馬ダイジェスト "wikilink")
+  - [JRAターフジョッキー](https://ja.wikipedia.org/wiki/JRAターフジョッキー "wikilink")（ラジオ：2005年3月終了）
+
+<!-- end list -->
+
+  -
+    テレビの『中央競馬ダイジェスト』は、中継を行っているネット局にもネット（一部地域では未放送、または[西日本放送](../Page/西日本放送.md "wikilink")など別の放送局にネット）。またテレビの競馬展望はサンテレビジョンに、ラジオの競馬展望は[ラジオ関西](../Page/ラジオ関西.md "wikilink")と[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")にもネット。
+
+## 関連ビデオソフト
+
+  - 中央競馬GIレース年鑑（西暦）シリーズ
+
+<!-- end list -->
+
+  -
+    [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")（平成3年）より制作。[日本ビクター](../Page/日本ビクター.md "wikilink")制作、フキュウカイ発売。[2003年](../Page/2003年.md "wikilink")までは[VHS](../Page/VHS.md "wikilink")[ビデオテープ](https://ja.wikipedia.org/wiki/ビデオテープ "wikilink")だったが、2004年から[DVD](../Page/DVD.md "wikilink")[ソフトに形態を変更](https://ja.wikipedia.org/wiki/映像ソフト "wikilink")。関東のレースに関しては『[中央競馬ワイド中継](https://ja.wikipedia.org/wiki/中央競馬ワイド中継 "wikilink")』の映像と同番組司会担当だった[長岡一也](../Page/長岡一也.md "wikilink")の実況により、また関西については当番組の映像・音源を使用している。
+
+## 注釈
+
+## 関連項目
+
+  - [ケイバブック](https://ja.wikipedia.org/wiki/ケイバブック "wikilink")（中継の提供スポンサー・協力）
+      - 週刊誌（原則月曜日発売）の関西版に、「週刊ビデオ」と題して実況アナウンサーと出光・久保・池山・太平洋の各人が週替りでコラムを執筆。一時期、[中央競馬ワイド中継](https://ja.wikipedia.org/wiki/中央競馬ワイド中継 "wikilink")から[目黒貴子](https://ja.wikipedia.org/wiki/目黒貴子 "wikilink")も執筆していた
+  - [ウイニング競馬](https://ja.wikipedia.org/wiki/ウイニング競馬 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [TVhサマー競馬](https://ja.wikipedia.org/wiki/TVhサマー競馬 "wikilink")（[テレビ北海道](../Page/テレビ北海道.md "wikilink")）
+  - [ワンダフル競馬](https://ja.wikipedia.org/wiki/ワンダフル競馬 "wikilink")（[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")）
+  - [NSTみんなのKEIBA](https://ja.wikipedia.org/wiki/NSTみんなのKEIBA "wikilink")（[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink") BSNで放送できない日はNSTで放送）
+  - [エキサイティング競馬](https://ja.wikipedia.org/wiki/エキサイティング競馬_\(福島テレビ\) "wikilink")（[福島テレビ](../Page/福島テレビ.md "wikilink")）
+  - [KEIBAワンダーランド](https://ja.wikipedia.org/wiki/KEIBAワンダーランド_\(テレビ愛知\) "wikilink")（[テレビ愛知](../Page/テレビ愛知.md "wikilink")）
+  - [日曜競馬リレー中継](https://ja.wikipedia.org/wiki/日曜競馬リレー中継 "wikilink")（[三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")）
+  - [土曜小倉競馬](https://ja.wikipedia.org/wiki/土曜小倉競馬 "wikilink")（[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")）
+
+## 外部リンク
+
+  - [KEIBAワンダーランド](http://www.kbs-kyoto.co.jp/tv/keiba/index.htm)
+
+[Category:ローカルテレビ局の競馬番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の競馬番組 "wikilink") [Category:KBS京都のテレビスポーツ番組](https://ja.wikipedia.org/wiki/Category:KBS京都のテレビスポーツ番組 "wikilink") [Category:1969年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1969年のテレビ番組_\(日本\) "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink")
+
+1.
+2.
+3.
+4.  [netkeiba.com・しましまんず池山（池山心）・今週の叫び（2010年11月5日付け）](http://www.netkeiba.com/news/?pid=column_view&no=15938) 参照。なお、関東地区の独立UHF放送局で放送されていた『[中央競馬ワイド中継](https://ja.wikipedia.org/wiki/中央競馬ワイド中継 "wikilink")』も[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[12月26日](../Page/12月26日.md "wikilink")で放送を終了している。
+5.  最終回当日は中央競馬の年内最終レース小倉競馬の2010アンコールステークスが16:35発走（例年、中央競馬の年内最終レースは阪神競馬の2010[ファイナルステークス](https://ja.wikipedia.org/wiki/ファイナルステークス "wikilink")だがこの年は中京改修で小倉開催）で行われるが、KBS京都以外は通常通り16:30に放送を終了した。
+6.  [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）の宝塚記念当日は16:50、2009年宝塚記念当日は16:55、2010年宝塚記念当日は17:00、2009年[スプリンターズステークス](../Page/スプリンターズステークス.md "wikilink")当日は16:45がそれぞれの最終レース発走時刻。
+7.  2006年以後のダービーデー（最終が東京競馬でGII[目黒記念](https://ja.wikipedia.org/wiki/目黒記念 "wikilink")）と、2010年の宝塚記念デーは阪神競馬最終第12競走のJRAプレミアムレースの発走時刻が17時になるための特例で17:15まで放送する。
+8.  通常夏季開催の北海道（1・2回函館・1回札幌）では第11競走、第12競走が薄暮レースとして行われるため最終第12競走は17:10発走なのでその分の生中継は不可だが、2010年宝塚記念デーについては函館最終レースも生中継された。
+9.  2009年[高松宮記念及び](https://ja.wikipedia.org/wiki/高松宮記念_\(競馬\) "wikilink")[桜花賞](https://ja.wikipedia.org/wiki/桜花賞 "wikilink")・[天皇賞](https://ja.wikipedia.org/wiki/天皇賞 "wikilink")（春）及び2010年[安田記念](https://ja.wikipedia.org/wiki/安田記念 "wikilink")当日は16:50。
+10. 通常は京都及び阪神と中京及び小倉が同時開催になる場合、当番組では中京及び小倉のレースはメインレースのみ生中継する。
+11. 17日は福島テレビ、24日はテレビ愛知。
+12. 結果として当日の『[DREAM競馬](https://ja.wikipedia.org/wiki/DREAM競馬 "wikilink")』は15:45 - 16:20にかけて放送されたが、当日16:10に発走された阪神競馬第11競走（道頓堀ステークス・1600万下）は、関西テレビと独立U局（京都・サン・奈良・三重）の双方で中継されるという非常に珍しい事態となった。
+13. 午前中のレースは中継枠内の「午前中のレース再生」と深夜の[ダイジェスト番組用に収録](https://ja.wikipedia.org/wiki/中央競馬ダイジェスト "wikilink")。
+14.
+15. BSSは鳥取・島根両県をエリアとするが、テレビ本局の所在地の関係上島根大会を放送。

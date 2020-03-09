@@ -1,0 +1,82 @@
+> この記事は[SSAWS](https://ja.wikipedia.org/wiki/SSAWS)から翻訳されています。
+
+
+[20030927_27_September_2003_SSAWS_Spring_Summer_Autumn_Winter_Snow_1_Funabashi_Chiba_Tokyo_Japan.jpg](https://ja.wikipedia.org/wiki/File:20030927_27_September_2003_SSAWS_Spring_Summer_Autumn_Winter_Snow_1_Funabashi_Chiba_Tokyo_Japan.jpg "fig:20030927_27_September_2003_SSAWS_Spring_Summer_Autumn_Winter_Snow_1_Funabashi_Chiba_Tokyo_Japan.jpg") **ららぽーとスキードームSSAWS** （ららぽーとスキードームザウス） とは、かつて[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")[浜町に存在していた屋内](https://ja.wikipedia.org/wiki/浜町_\(船橋市\) "wikilink")[スキー場](../Page/スキー場.md "wikilink")である。通称「ザウス」。
+
+## 概要
+
+[1993年](../Page/1993年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで営業を行っていた\[1\]。巨大迷路の跡地にオープンし、当時は、世界最大かつ史上最大の屋内スキー場であった\[2\]。その大きさは、高低差が設備としては100m、ゲレンデとしては約80m、長さが設備としては500m、ゲレンデとしては約480m、幅が約100mというものである。[三井不動産](https://ja.wikipedia.org/wiki/三井不動産 "wikilink")が[京葉線](https://ja.wikipedia.org/wiki/京葉線 "wikilink")[南船橋駅](https://ja.wikipedia.org/wiki/南船橋駅 "wikilink")の近隣地に建設し、運営は[船橋ヘルスセンター](https://ja.wikipedia.org/wiki/船橋ヘルスセンター "wikilink")などを経営していた[株式会社ららぽーと](https://ja.wikipedia.org/wiki/三井不動産商業マネジメント "wikilink")（当時）が行っていた。施工は[鹿島建設](https://ja.wikipedia.org/wiki/鹿島建設 "wikilink")。総工費は約400億円。
+
+コースは下半分が初級者用で、上部スロープに向かって左側が中級者用イエローコース、右側が上級者用レッドコースにそれぞれ分かれたものになっていた。
+
+屋内スキー場としては[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で初めて[リフトを設置したスキー場であり](../Page/索道.md "wikilink")、当時の法律ではリフト設置には[風速計](https://ja.wikipedia.org/wiki/風速計 "wikilink")を設置することが義務化されていたため、風の吹かない屋内スキー場という条件にもかかわらず、[運輸省](https://ja.wikipedia.org/wiki/運輸省 "wikilink")（当時）が規則として風速計の設置を求めたという逸話が残っている。竣工時には数百万円を投じて風速計を設置したが、このことがマスコミに取り上げられ話題になると、運輸省は風速計の撤去を求めた。
+
+## 名称の由来
+
+施設の名称である**SSAWS**とは、「"**S**pring **S**ummer **A**utumn **W**inter in **S**now"」の頭文字から来ており、屋内スキー場の特色を生かして一年中スキーができることをアピールするネーミングであった。
+
+## 施設ゲレンデ内
+
+[空調設備によってゲレンデ内の気温は通常は](../Page/空気調和設備.md "wikilink")-4～-3°C程度、真夏の日中でも-2°C程度に保たれ、一年を通じて真冬の雪質を味わうことができた。降雪設備は天井部のスプレー式の霧吹きから吹かれた微細な水滴に直接低温の風を当てることにより、本物のパウダースノーに近いものを降らせるもので、当時としては世界に類を見ないものだった。また、一般的に人工スキー場の積雪は溶けて底の床の部分で厚い氷となって溜まってしまい、休業時などに全て溶かすか、掘り出して適宜破砕する必要がある。しかし、ザウスの場合は雪の下にメッシュを敷いた排水設備を設置し、積雪の最下部から自然に解けて氷が溜まらないようになっていた。一般施設とゲレンデの間には複数の密閉型の[回転ドアがあり](https://ja.wikipedia.org/wiki/扉#回転扉 "wikilink")、ゲレンデ内を低温に保つ役割を果たしていた。ゲレンデ内は、リフト2基、[ベルトコンベア](https://ja.wikipedia.org/wiki/ベルトコンベア "wikilink")（[エスカレーター](../Page/エスカレーター.md "wikilink")タイプ）1基を備えており、料金は時間制であった。
+
+## 入場料金
+
+当初入場料+2時間滑走料金で5,900円であったが、後に5,400円に改定された。延長料金として15分ごとに250円の追加支払いで、当時は目新しい自動改札タイプの機器で利用時間をカウントしていた。その後、スノーボードとスキーの滑り分けのため、滑走可能時間を午前、午後と分けた際に両方の機材を持参した場合のみ、一日5,400円で一日中滑走が可能となっていた。
+
+[ワイルドブルーヨコハマ](https://ja.wikipedia.org/wiki/ワイルドブルーヨコハマ "wikilink")などと提携し、相互の施設で割引券を配布したほか、当時浸透しはじめたWebサイトにおいても一日3,800円の割引券を配布した事により、運営の晩年は通常料金で入場する客がほとんどいなかったとされる。入場客数は増加しても、利益が上がらないという結果となり、経営を圧迫した旨が当時の新聞に書かれた。
+
+冬季は客数が減少するため、「手ぶらでスキー」と銘打ち、レンタル用品込みで5,400円といった設定の料金体系があった。
+
+## 併設施設
+
+  - レンタルフロアショップ
+    ザウス内に[ドライクリーニング](https://ja.wikipedia.org/wiki/ドライクリーニング "wikilink")施設（1フロアを利用）を確保し、レンタルウエアは、利用された後、毎回ドライクリーニングが行われた。
+  - ファスト フード店
+    [Becker's](https://ja.wikipedia.org/wiki/Becker's "wikilink") - ゲレンデを見る席あり。
+  - レストラン
+    ISTAPP(イスタップ） - カフェテリア方式のレストラン。バーカウンターを併設。
+  - スキー用品ショップ
+    [サロモン](https://ja.wikipedia.org/wiki/サロモン "wikilink")、[ロシニョール](https://ja.wikipedia.org/wiki/ロシニョール "wikilink")、他などのショップが入居していたが、ザウスの営業中期には、テナントが半分程度となり、テナントのないルームが目立った。
+  - シャワールーム
+    料金は入場料込みで、すべての入場客が利用することが可能だった。
+  - プール
+    スキー場空調設備の廃熱を利用したプールだったが、利用者が僅少だったため、ザウス営業中期頃閉鎖となった。入場料は1,000円。
+  - 駐車場
+    駐車可能台数は、1,100台。普通車1日1,000円、大型車1日3,000円。
+
+## 隣接施設
+
+[東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")が近い事もあり、遠方からの観光客には、1日目はザウス、2日目はディズニーランドといった観光客が多かったと言われ、[スキーブーム](https://ja.wikipedia.org/wiki/スキーブーム "wikilink")の時には、東京ディズニーランドの入場者数が減った。
+
+## 建築的特徴
+
+鹿島建設により設計施工が行われた。極めて長い構造物であるため、長さ方向を4つに分割し、それらを履歴ダンパーで連結した「ジョイントダンパーシステム（連結[制震](https://ja.wikipedia.org/wiki/制震 "wikilink")構造）」と呼ばれる先進の技術を採用し、耐震性能の向上を図っていた。 設計は「[ワイルドブルーヨコハマ](https://ja.wikipedia.org/wiki/ワイルドブルーヨコハマ "wikilink")」を設計した、株式会社[空間設計](https://ja.wikipedia.org/wiki/空間設計 "wikilink")が担当。
+
+## その他
+
+オープン時のCMでは[山下達郎](../Page/山下達郎.md "wikilink")が[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")「[湾岸スキーヤー](https://ja.wikipedia.org/wiki/湾岸スキーヤー "wikilink")」を歌唱、主に関東圏内で放送されていた。この曲はその後[フジテレビによる](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[長野オリンピック放送テーマソングとして](../Page/1998年長野オリンピック.md "wikilink")[少年隊](https://ja.wikipedia.org/wiki/少年隊 "wikilink")がカバーし、CD化された。
+
+ザウスは元々10年間限定の施設として建設されたものであった。その後、時限経過後に売却を含めた処分を行なう予定であったが、この頃にはスキーブームが去ってスキー産業の斜陽化が進んでいたため、試算によって仮に後継受託者が決定したとしても黒字運営を維持可能な程度の入場客数は見込めないと判断され、結果として当初の予定通り閉鎖となった。なお、営業中に赤字へ転落した年度は皆無であったが、施設の償却費を除外しての話である。 閉鎖直前に行われた[民主党代表選挙に立候補していた地元船橋市選出の](https://ja.wikipedia.org/wiki/国民民主党代表選挙 "wikilink")[野田佳彦](https://ja.wikipedia.org/wiki/野田佳彦 "wikilink")候補が、本施設の閉鎖問題を取り上げて[小泉政権の経済政策を批判している](https://ja.wikipedia.org/wiki/第1次小泉内閣 "wikilink")。
+
+季節に関係なく、悪天候の影響を受けずに安定したバーンコンディションが確保できるという点から、夏季にはオフシーズンのアルペンスキー選手のトレーニングに利用されることも多かった。特に[チェーティル・アンドレ・オーモット](https://ja.wikipedia.org/wiki/チェーティル・アンドレ・オーモット "wikilink")（[1994年](../Page/1994年.md "wikilink")の[アルペンスキー・ワールドカップ](https://ja.wikipedia.org/wiki/アルペンスキー・ワールドカップ "wikilink")総合優勝者）が一時夏季の練習場所としてザウスを愛用していたことで有名。スノーボードスクールがあり、[長江健次](https://ja.wikipedia.org/wiki/長江健次 "wikilink")が指導していた時期もあった。
+
+なお、[ホイチョイ・プロダクションズ](https://ja.wikipedia.org/wiki/ホイチョイ・プロダクションズ "wikilink")による"東京いい店やれる店"では、この施設について「娯楽施設としては興味深いが、ここのレストランはデートには不向き。」といった形での評価がされていた。
+
+## 解体後
+
+[2003年](../Page/2003年.md "wikilink")から[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")にかけて解体された。跡地の再開発では[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月24日](../Page/4月24日.md "wikilink")に[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の大型家具店[イケア](../Page/イケア.md "wikilink")が開業し、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")1月には[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")会社4社による総戸数1211戸の大型マンション*ワンダーベイシティSAZAN*が完成、続いて[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月には総戸数684戸の*グランドホライゾン・トーキョーベイ*が完成した。
+
+## 脚注
+
+## 関連項目
+
+  - [船橋飛行場](https://ja.wikipedia.org/wiki/船橋飛行場 "wikilink") - かつての同地に存在した。
+  - [スキーイングイン津田沼](https://ja.wikipedia.org/wiki/スキーイングイン津田沼 "wikilink") - 同じ千葉県の[習志野市](../Page/習志野市.md "wikilink")に存在した室内スキー場。[京成電鉄第二工場の跡地で](https://ja.wikipedia.org/wiki/京成電鉄の車両検修施設 "wikilink")、現在は[イオンモール津田沼](https://ja.wikipedia.org/wiki/イオンモール津田沼 "wikilink")になっている。
+  - [狭山スキー場](https://ja.wikipedia.org/wiki/狭山スキー場 "wikilink") - 現存する[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")唯一の造雪機による室内スキー場
+  - [日本のスキー場一覧](https://ja.wikipedia.org/wiki/日本のスキー場一覧 "wikilink")
+  - [日本のクロスカントリースキー場一覧](https://ja.wikipedia.org/wiki/日本のクロスカントリースキー場一覧 "wikilink")
+
+[Category:ららぽーと](https://ja.wikipedia.org/wiki/Category:ららぽーと "wikilink") [Category:関東地方のスキー場](https://ja.wikipedia.org/wiki/Category:関東地方のスキー場 "wikilink") [Category:現存しない千葉県の建築物](https://ja.wikipedia.org/wiki/Category:現存しない千葉県の建築物 "wikilink") [Category:船橋市のスポーツ施設](https://ja.wikipedia.org/wiki/Category:船橋市のスポーツ施設 "wikilink") [Category:船橋市のスポーツ史](https://ja.wikipedia.org/wiki/Category:船橋市のスポーツ史 "wikilink") [Category:かつて存在したスキー場](https://ja.wikipedia.org/wiki/Category:かつて存在したスキー場 "wikilink") [Category:1993年開設のスポーツ施設](https://ja.wikipedia.org/wiki/Category:1993年開設のスポーツ施設 "wikilink") [Category:2002年廃止のスポーツ施設](https://ja.wikipedia.org/wiki/Category:2002年廃止のスポーツ施設 "wikilink") [Category:2003年解体の建築物](https://ja.wikipedia.org/wiki/Category:2003年解体の建築物 "wikilink")
+
+1.  [事業用土地の再評価の実施（土地再評価法の適用）株式交換による三井不動産販売株式会社の完全子会社化（100％子会社化）および「ららぽーとスキードームSSAWS（ザウス）」の閉館について](http://www.mitsuifudosan.co.jp/corporate/news/2002/0301/index.html) 平成14年3月1日 三井不動産株式会社
+2.  2009年現在、営業中の屋内スキー場で世界最大のものは[スキー・ドバイ](https://ja.wikipedia.org/wiki/スキー・ドバイ "wikilink")である

@@ -1,0 +1,288 @@
+> この記事は[NAR](https://ja.wikipedia.org/wiki/NAR)から翻訳されています。
+
+
+**NARグランプリ**（エヌエーアールグランプリ）は、[地方競馬](../Page/地方競馬.md "wikilink")での活躍をたたえるために、[地方競馬全国協会](../Page/地方競馬全国協会.md "wikilink")（NAR）が1990年度より設けている年間表彰制度である。
+
+## 概要
+
+[地方競馬全国協会](../Page/地方競馬全国協会.md "wikilink")はその創設時より各ブロックごとに当該年度の競馬の発展に貢献した人物を表彰する制度を設けていたが\[1\]\[2\]、本賞はそれらを統合し、地方競馬としては初めて全国の地方競馬団体を統一的に表彰する賞である\[3\]。
+
+第1回NARグランプリの表彰式は1991年2月にマスコミ関係者や文化人、そしてなにより全国の地方競馬場の代表らを集めて行われたが\[4\]、一方で地方競馬全国協会内のみでの選考であること、また年度代表馬は獲得賞金額のみでの選出であったことなどが当初から問題とされていた\[5\]。1994年の表彰より後述のような各地区の推薦・選定委員会による合議・投票制へと改革がはかられ\[6\]、以後は人馬共に部門構成の変遷がありつつも現在まで続いている\[7\]\[8\]。
+
+## 歴代年度代表馬・最優秀騎手・最優秀調教師
+
+| 年                                                       | 年度代表馬                                                              | 品種                                   | 所属                                                       | 最優秀騎手                                                 | 所属 | 最優秀調教師                                                | 所属                                |
+| ------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------ | -------------------------------------------------------- | ----------------------------------------------------- | -- | ----------------------------------------------------- | --------------------------------- |
+| [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") | [ダイコウガルダン](https://ja.wikipedia.org/wiki/ダイコウガルダン "wikilink")      | [サラ系](../Page/サラブレッド.md "wikilink")  | [大井](../Page/大井競馬場.md "wikilink")                        | [石崎隆之](https://ja.wikipedia.org/wiki/石崎隆之 "wikilink") | 船橋 | [荒川友司](https://ja.wikipedia.org/wiki/荒川友司 "wikilink") | [笠松](../Page/笠松競馬場.md "wikilink") |
+| [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink") | ダイコウガルダン                                                           | サラ系                                  | 大井                                                       | 石崎隆之                                                  | 船橋 | [赤間清松](https://ja.wikipedia.org/wiki/赤間清松 "wikilink") | 大井                                |
+| [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink") | [グレイドショウリ](https://ja.wikipedia.org/wiki/グレイドショウリ "wikilink")      | サラ系                                  | 大井                                                       | 石崎隆之                                                  | 船橋 | 赤間清松                                                  | 大井                                |
+| [1993年](../Page/1993年.md "wikilink")                    | [ホワイトシルバー](https://ja.wikipedia.org/wiki/ホワイトシルバー "wikilink")      | サラ系                                  | 大井                                                       | 石崎隆之                                                  | 船橋 | 赤間清松                                                  | 大井                                |
+| [1994年](../Page/1994年.md "wikilink")                    | [トチノミネフジ](https://ja.wikipedia.org/wiki/トチノミネフジ "wikilink")        | [アラ系](../Page/アングロアラブ.md "wikilink") | 大井                                                       | 石崎隆之                                                  | 船橋 | [川島正行](https://ja.wikipedia.org/wiki/川島正行 "wikilink") | 船橋                                |
+| [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") | [ライデンリーダー](https://ja.wikipedia.org/wiki/ライデンリーダー "wikilink")      | サラ系                                  | 笠松                                                       | 石崎隆之                                                  | 船橋 | 荒川友司                                                  | 笠松                                |
+| [1996年](../Page/1996年.md "wikilink")                    | [ケイエスヨシゼン](https://ja.wikipedia.org/wiki/ケイエスヨシゼン "wikilink")      | アラ系                                  | [兵庫](../Page/兵庫県競馬組合.md "wikilink")                      | 石崎隆之                                                  | 船橋 | 荒川友司                                                  | 笠松                                |
+| [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") | [アブクマポーロ](https://ja.wikipedia.org/wiki/アブクマポーロ "wikilink")        | サラ系                                  | 船橋                                                       | 石崎隆之                                                  | 船橋 | 荒川友司                                                  | 笠松                                |
+| [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") | アブクマポーロ                                                            | サラ系                                  | 船橋                                                       | 石崎隆之                                                  | 船橋 | [出川克己](https://ja.wikipedia.org/wiki/出川克己 "wikilink") | 船橋                                |
+| [1999年](../Page/1999年.md "wikilink")                    | [メイセイオペラ](../Page/メイセイオペラ.md "wikilink")                           | サラ系                                  | [岩手](https://ja.wikipedia.org/wiki/岩手県競馬組合 "wikilink")   | 石崎隆之                                                  | 船橋 | 荒川友司                                                  | 笠松                                |
+| [2000年](../Page/2000年.md "wikilink")                    | [ベラミロード](https://ja.wikipedia.org/wiki/ベラミロード "wikilink")          | サラ系                                  | [栃木](https://ja.wikipedia.org/wiki/宇都宮競馬場 "wikilink")    | 石崎隆之                                                  | 船橋 | 川島正行                                                  | 船橋                                |
+| [2001年](../Page/2001年.md "wikilink")                    | [トーホウエンペラー](https://ja.wikipedia.org/wiki/トーホウエンペラー "wikilink")    | サラ系                                  | 岩手                                                       | 石崎隆之                                                  | 船橋 | [曾和直榮](https://ja.wikipedia.org/wiki/曾和直榮 "wikilink") | 兵庫                                |
+| [2002年](../Page/2002年.md "wikilink")                    | トーホウエンペラー                                                          | サラ系                                  | 岩手                                                       | 石崎隆之                                                  | 船橋 | 川島正行                                                  | 船橋                                |
+| [2003年](../Page/2003年.md "wikilink")                    | [ネームヴァリュー](https://ja.wikipedia.org/wiki/ネームヴァリュー "wikilink")      | サラ系                                  | 船橋                                                       | [的場文男](https://ja.wikipedia.org/wiki/的場文男 "wikilink") | 大井 | 川島正行                                                  | 船橋                                |
+| [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink") | [コスモバルク](https://ja.wikipedia.org/wiki/コスモバルク "wikilink")          | サラ系                                  | [北海道](https://ja.wikipedia.org/wiki/ホッカイドウ競馬 "wikilink") | [内田博幸](https://ja.wikipedia.org/wiki/内田博幸 "wikilink") | 大井 | 川島正行                                                  | 船橋                                |
+| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") | [アジュディミツオー](https://ja.wikipedia.org/wiki/アジュディミツオー "wikilink")    | サラ系                                  | 船橋                                                       | 内田博幸                                                  | 大井 | 川島正行                                                  | 船橋                                |
+| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") | アジュディミツオー                                                          | サラ系                                  | 船橋                                                       | 内田博幸                                                  | 大井 | 川島正行                                                  | 船橋                                |
+| [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink") | [フリオーソ](https://ja.wikipedia.org/wiki/フリオーソ_\(2004年生\) "wikilink") | サラ系                                  | 船橋                                                       | 内田博幸                                                  | 大井 | 川島正行                                                  | 船橋                                |
+| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") | フリオーソ                                                              | サラ系                                  | 船橋                                                       | [戸崎圭太](https://ja.wikipedia.org/wiki/戸崎圭太 "wikilink") | 大井 | 川島正行                                                  | 船橋                                |
+| [2009年](../Page/2009年.md "wikilink")                    | [ラブミーチャン](https://ja.wikipedia.org/wiki/ラブミーチャン "wikilink")        | サラ系                                  | 笠松                                                       | \-                                                    | \- | \-                                                    | \-                                |
+| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") | フリオーソ                                                              | サラ系                                  | 船橋                                                       | \-                                                    | \- | \-                                                    | \-                                |
+| [2011年](../Page/2011年.md "wikilink")                    | フリオーソ                                                              | サラ系                                  | 船橋                                                       | \-                                                    | \- | \-                                                    | \-                                |
+| [2012年](../Page/2012年.md "wikilink")                    | ラブミーチャン                                                            | サラ系                                  | 笠松                                                       | \-                                                    | \- | \-                                                    | \-                                |
+| [2013年](../Page/2013年.md "wikilink")                    | [ハッピースプリント](https://ja.wikipedia.org/wiki/ハッピースプリント "wikilink")    | サラ系                                  | 北海道                                                      | \-                                                    | \- | \-                                                    | \-                                |
+| [2014年](../Page/2014年.md "wikilink")                    | [サミットストーン](https://ja.wikipedia.org/wiki/サミットストーン "wikilink")      | サラ系                                  | 船橋                                                       | \-                                                    | \- | \-                                                    | \-                                |
+| [2015年](../Page/2015年.md "wikilink")                    | [ハッピースプリント](https://ja.wikipedia.org/wiki/ハッピースプリント "wikilink")    | サラ系                                  | 大井                                                       | \-                                                    | \- | \-                                                    | \-                                |
+| [2016年](../Page/2016年.md "wikilink")                    | [ソルテ](https://ja.wikipedia.org/wiki/ソルテ "wikilink")                | サラ系                                  | 大井                                                       | \-                                                    | \- | \-                                                    | \-                                |
+| [2017年](../Page/2017年.md "wikilink")                    | [ヒガシウィルウィン](https://ja.wikipedia.org/wiki/ヒガシウィルウィン "wikilink")    | サラ系                                  | 船橋                                                       | \-                                                    | \- | \-                                                    | \-                                |
+| [2018年](../Page/2018年.md "wikilink")                    | [キタサンミカヅキ](https://ja.wikipedia.org/wiki/キタサンミカヅキ "wikilink")      | サラ系                                  | 船橋                                                       | \-                                                    | \- | \-                                                    | \-                                |
+| [2019年](../Page/2019年.md "wikilink")                    | [ブルドッグボス](https://ja.wikipedia.org/wiki/ブルドッグボス "wikilink")        | サラ系                                  | 浦和                                                       | \-                                                    | \- | \-                                                    | \-                                |
+
+  - 1990〜1993年はサラブレッドのみを掲載した。同時期に別途選出されていた**アラブ年度代表馬**は*[NARグランプリアラブ最優秀馬](https://ja.wikipedia.org/wiki/NARグランプリアラブ最優秀馬 "wikilink")*、**ばんえい年度代表馬**については*[NARグランプリばんえい最優秀馬](https://ja.wikipedia.org/wiki/NARグランプリばんえい最優秀馬 "wikilink")*をそれぞれ参照。
+  - 最優秀調教師賞、最優秀騎手賞は2008年限りで廃止。
+
+## 競走馬に関する表彰
+
+NARグランプリの[馬](../Page/ウマ.md "wikilink")（[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")）部門の選考は各地区の担当記者からの推薦ならびに広域交流競走の優勝馬などを候補馬とし、その候補馬の中から優秀馬選定委員会によって選ばれる\[9\]。優秀馬選定委員会は、地方競馬全国協会理事長が指名した学識経験者、評論家、日刊紙・専門紙記者、関係団体職員などから構成される\[10\]。
+
+### 歴史
+
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1993年](../Page/1993年.md "wikilink")まではサラブレッド系、アラブ系、ばんえいの3部門の表彰であった。
+  - [1994年](../Page/1994年.md "wikilink")から改められサラブレッド系、アラブ系のそれぞれに対して3歳、4歳、5歳以上\[11\]の3部門とばんえいの各部門で最優秀馬を選出しその中から年度代表馬を選出することとなった。併せて特別表彰馬としての表彰も設けられた。
+  - [1999年](../Page/1999年.md "wikilink")から新たに最優秀牝馬と最優秀短距離馬の部門を追加。
+  - [2003年](../Page/2003年.md "wikilink")からアラブ系競走馬の縮小によりアラブ系が2歳、3歳、4歳以上の3部門からアラブ系として1部門に統合された。
+  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")からは[芝](../Page/芝.md "wikilink")コースでの競走で優れた成績を収めた競走馬を表彰する最優秀ターフ馬が新たに設けられた。同年は[ホッカイドウ競馬](https://ja.wikipedia.org/wiki/ホッカイドウ競馬 "wikilink")在籍の身ながら[クラシック戦線など](../Page/クラシック_\(競馬\).md "wikilink")[中央競馬](https://ja.wikipedia.org/wiki/中央競馬 "wikilink")での活躍が目立った[コスモバルク](https://ja.wikipedia.org/wiki/コスモバルク "wikilink")が受賞した。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")よりダート競走格付け委員会が解散したことに伴い、ダートグレード競走最優秀馬に代わる表彰として[ダートグレード競走特別賞を創設](https://ja.wikipedia.org/wiki/NARグランプリダートグレード競走特別賞 "wikilink")。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")より、アラブ系競走馬の表彰部門が廃止(過去3年連続該当馬なし)。
+  - [2011年](../Page/2011年.md "wikilink")からは2歳、3歳、4歳以上最優秀馬の部門が牡馬と牝馬に分離された。これに伴い[最優秀牝馬は廃止となった](https://ja.wikipedia.org/wiki/NARグランプリ最優秀牝馬 "wikilink")。
+
+### 部門一覧
+
+2014年現在も存在しているもののみを挙げる。
+
+  - NARグランプリ年度代表馬
+  - [NARグランプリサラブレッド2歳最優秀牡馬](https://ja.wikipedia.org/wiki/NARグランプリサラブレッド2歳最優秀牡馬 "wikilink")
+  - [NARグランプリサラブレッド2歳最優秀牝馬](https://ja.wikipedia.org/wiki/NARグランプリサラブレッド2歳最優秀牝馬 "wikilink")
+  - [NARグランプリサラブレッド3歳最優秀牡馬](https://ja.wikipedia.org/wiki/NARグランプリサラブレッド3歳最優秀牡馬 "wikilink")
+  - [NARグランプリサラブレッド3歳最優秀牝馬](https://ja.wikipedia.org/wiki/NARグランプリサラブレッド3歳最優秀牝馬 "wikilink")
+  - [NARグランプリサラブレッド4歳以上最優秀牡馬](https://ja.wikipedia.org/wiki/NARグランプリサラブレッド4歳以上最優秀牡馬 "wikilink")
+  - [NARグランプリサラブレッド4歳以上最優秀牝馬](https://ja.wikipedia.org/wiki/NARグランプリサラブレッド4歳以上最優秀牝馬 "wikilink")
+  - [NARグランプリ最優秀短距離馬](https://ja.wikipedia.org/wiki/NARグランプリ最優秀短距離馬 "wikilink")
+  - [NARグランプリばんえい最優秀馬](https://ja.wikipedia.org/wiki/NARグランプリばんえい最優秀馬 "wikilink")
+  - [NARグランプリ最優秀ターフ馬](https://ja.wikipedia.org/wiki/NARグランプリ最優秀ターフ馬 "wikilink")
+  - [NARグランプリダートグレード競走特別賞](https://ja.wikipedia.org/wiki/NARグランプリダートグレード競走特別賞 "wikilink")
+  - NARグランプリ特別表彰馬
+
+### 特別表彰馬
+
+従来より設けられていた**NARグランプリ特別功労賞**から分離し、地方競馬の発展に特別の功績があった競走馬を称えるため1995年に創設された\[12\]。なお、同賞時代には[オグリキャップ](../Page/オグリキャップ.md "wikilink")が競走馬として唯一の受賞を果たしている。
+
+#### 歴代受賞馬
+
+| 年                                                                   | 受賞馬                                                                                                                                                                                          | 表彰理由                                                                                                                                                                        |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")             | [トウケイニセイ](https://ja.wikipedia.org/wiki/トウケイニセイ "wikilink")                                                                                                                                  | [地方No](../Page/地方競馬.md "wikilink").1の実力がありながら、東北地区を出ない為最優秀馬に選出される事は無かったが、競走成績(通算43戦39勝)が顕著である為。                                                                             |
+| [ライブリマウント](https://ja.wikipedia.org/wiki/ライブリマウント "wikilink")       | [JRA所属馬の為最優秀馬の受賞資格は無いが](../Page/日本中央競馬会.md "wikilink")、交流競走で目覚しい成績(4戦3勝)を挙げた為。                                                                                                               |                                                                                                                                                                             |
+| [1996年](../Page/1996年.md "wikilink")                                | [ホワイトナルビー](https://ja.wikipedia.org/wiki/ホワイトナルビー "wikilink")                                                                                                                                | 全産駒が勝利を挙げ、通算100勝以上の成績を挙げるなど、[繁殖牝馬](https://ja.wikipedia.org/wiki/繁殖牝馬 "wikilink")として地方競馬に多大なる功績を挙げた為。                                                                       |
+| [ホクトベガ](../Page/ホクトベガ.md "wikilink")                                | JRA所属馬の為最優秀馬の受賞資格は無いが、交流競走で目覚しい成績(8戦8勝)を挙げた為。                                                                                                                                                |                                                                                                                                                                             |
+| [1999年](../Page/1999年.md "wikilink")                                | [イナリトウザイ](https://ja.wikipedia.org/wiki/イナリトウザイ "wikilink")                                                                                                                                  | デビューは中央競馬だが、その後公営に転厩しサラ系の重賞にも勝利したりと成績優秀。繁殖牝馬としても多大なる功績を挙げた為。                                                                                                                |
+| [2000年](../Page/2000年.md "wikilink")                                | [ハイセイコー](../Page/ハイセイコー.md "wikilink")                                                                                                                                                       | 南関東公営出身でJRAでの競走成績も良く、地方競馬の発展に多大なる影響を与えた為。2000年死亡。                                                                                                                           |
+| [ファストフレンド](https://ja.wikipedia.org/wiki/ファストフレンド "wikilink")       | JRA所属馬の為最優秀馬の受賞資格は無いが、交流競走で目覚しい成績(6戦4勝)を挙げた為。                                                                                                                                                |                                                                                                                                                                             |
+| [2001年](../Page/2001年.md "wikilink")                                | [ノボジャック](https://ja.wikipedia.org/wiki/ノボジャック "wikilink")                                                                                                                                    | JRA所属馬の為最優秀馬の受賞資格は無いが、交流競走で目覚しい成績(7戦6勝)を挙げた為。                                                                                                                               |
+| [2002年](../Page/2002年.md "wikilink")                                | [ゴールドアリュール](https://ja.wikipedia.org/wiki/ゴールドアリュール "wikilink")                                                                                                                              | JRA所属馬の為最優秀馬の受賞資格は無いが、交流競走で目覚しい成績(3戦3勝)を挙げた為。                                                                                                                               |
+| [2003年](../Page/2003年.md "wikilink")                                | [ロジータ](https://ja.wikipedia.org/wiki/ロジータ "wikilink")                                                                                                                                        | 繁殖牝馬として優秀な産駒を輩出し、GI2つを含むダートグレード競走4勝のカネツフルーヴ(JRA)などの母。                                                                                                                       |
+| [アドマイヤドン](https://ja.wikipedia.org/wiki/アドマイヤドン "wikilink")         | JRA所属馬の為最優秀馬の受賞資格は無いが、交流競走で目覚しい成績(5戦3勝)を挙げた為。                                                                                                                                                |                                                                                                                                                                             |
+| [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")             | [ニホンカイローレル](https://ja.wikipedia.org/wiki/ニホンカイローレル "wikilink")                                                                                                                              | 軽種馬日本最多勝のニホンカイキャロルや、[西日本アラブダービー](https://ja.wikipedia.org/wiki/西日本アラブダービー "wikilink")制覇などの成績を残した[ニホンカイユーノス](https://ja.wikipedia.org/wiki/ニホンカイユーノス "wikilink")など、優秀な産駒を輩出。 |
+| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")             | [タイムパラドックス](https://ja.wikipedia.org/wiki/タイムパラドックス_\(競走馬\) "wikilink")                                                                                                                      | JRA所属馬の為最優秀馬の受賞資格は無いが、交流競走で目覚しい成績(11戦3勝)を挙げた為。                                                                                                                              |
+| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")             | [ブルーコンコルド](https://ja.wikipedia.org/wiki/ブルーコンコルド "wikilink")                                                                                                                                | JRA所属馬の為最優秀馬の受賞資格は無いが、交流競走で目覚しい成績(8戦4勝)を挙げた為。                                                                                                                               |
+| [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")             | [ヴァーミリアン](https://ja.wikipedia.org/wiki/ヴァーミリアン "wikilink")                                                                                                                                  | JRA所属馬の為最優秀馬の受賞資格は無いが、交流競走で目覚しい成績(4戦4勝)を挙げた為。                                                                                                                               |
+| [ミルジョージ](https://ja.wikipedia.org/wiki/ミルジョージ "wikilink")           | [種牡馬](../Page/種牡馬.md "wikilink")として地方競馬の有力馬を数多く輩出したことが評価された。                                                                                                                                 |                                                                                                                                                                             |
+| [ワカオライデン](https://ja.wikipedia.org/wiki/ワカオライデン "wikilink")         | 種牡馬として地方競馬の有力馬を数多く輩出したことが評価された。                                                                                                                                                              |                                                                                                                                                                             |
+| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")             | [ホスピタリテイ](https://ja.wikipedia.org/wiki/ホスピタリテイ "wikilink")                                                                                                                                  | 種牡馬として地方競馬の有力馬を数多く輩出したことが評価された。                                                                                                                                             |
+| [2009年](../Page/2009年.md "wikilink")                                | [アジュディミツオー](https://ja.wikipedia.org/wiki/アジュディミツオー "wikilink")                                                                                                                              | 地方競馬史に大きな足跡を残したことが讃えられた。                                                                                                                                                    |
+| [タガミホマレ](https://ja.wikipedia.org/wiki/タガミホマレ "wikilink")           | 日本の競馬界に大きな功績を残してきたアラブ系競走馬に感謝と敬意を表すため選定。                                                                                                                                                      |                                                                                                                                                                             |
+| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")             | [コスモバルク](https://ja.wikipedia.org/wiki/コスモバルク "wikilink")                                                                                                                                    | 地方競馬所属馬として初の海外GI制覇を果たし、地方競馬に果たした多大な貢献を讃え、特別表彰馬に選定された。                                                                                                                       |
+| [2013年](../Page/2013年.md "wikilink")                                | [ブライアンズタイム](https://ja.wikipedia.org/wiki/ブライアンズタイム "wikilink")                                                                                                                              | 長きにわたり日本の種牡馬として君臨し、地方競馬にも数多くの有力馬を数多く輩出したことが評価された。                                                                                                                           |
+| [フジノウェーブ](https://ja.wikipedia.org/wiki/フジノウェーブ "wikilink")         | 地方競馬所属馬として初の[JBC制覇を果たし](https://ja.wikipedia.org/wiki/ジャパンブリーディングファームズカップ "wikilink")、地方競馬に果たした多大な貢献を讃え、特別表彰馬に選定された。                                                                         |                                                                                                                                                                             |
+| [2014年](../Page/2014年.md "wikilink")                                | [ライデンリーダー](https://ja.wikipedia.org/wiki/ライデンリーダー "wikilink")                                                                                                                                | 中央競馬との本格的交流が始まった1995年に中央のクラシックで活躍したことが評価された。                                                                                                                                |
+| [アジュディケーティング](https://ja.wikipedia.org/wiki/アジュディケーティング "wikilink") | 1993年から2014年に引退するまで、種牡馬として長きに渡り活躍馬を輩出し続けたことが評価された。                                                                                                                                           |                                                                                                                                                                             |
+| [2015年](../Page/2015年.md "wikilink")                                | [オグリローマン](https://ja.wikipedia.org/wiki/オグリローマン "wikilink")                                                                                                                                  | 1994年に、地方競馬出身馬としてJRAの[桜花賞](https://ja.wikipedia.org/wiki/桜花賞 "wikilink")を制し、地方競馬全体を盛り上げたことが評価された。                                                                           |
+| [2016年](../Page/2016年.md "wikilink")                                | [メイセイオペラ](../Page/メイセイオペラ.md "wikilink")                                                                                                                                                     | 1999年に、地方競馬所属馬としてJRAの[フェブラリーステークス](https://ja.wikipedia.org/wiki/フェブラリーステークス "wikilink")を制し、地方競馬全体を盛り上げた。                                                                   |
+| [イナリワン](https://ja.wikipedia.org/wiki/イナリワン "wikilink")             | 地方競馬出身馬として1989年にJRAの[天皇賞・春](https://ja.wikipedia.org/wiki/天皇賞・春 "wikilink")、[宝塚記念](https://ja.wikipedia.org/wiki/宝塚記念 "wikilink")、[有馬記念](https://ja.wikipedia.org/wiki/有馬記念 "wikilink")を制した。 |                                                                                                                                                                             |
+| [2018年](../Page/2018年.md "wikilink")                                | [サウスヴィグラス](https://ja.wikipedia.org/wiki/サウスヴィグラス "wikilink")                                                                                                                                | ダート短距離路線で圧倒的な成績を残し、種牡馬としても地方競馬リーディングサイアーに何度も輝くなど地方競馬の発展に多大な貢献をした。                                                                                                           |
+
+## 人物に関する表彰
+
+[人](../Page/人.md "wikilink")部門として、現在は所属地区に関係なく選出している。1990年から2003年までは各地区から優秀調教師賞、優秀騎手賞を選出しその中からそれぞれ1名を最優秀調教師賞、最優秀騎手賞を選出していたが現在は地区ごとの優秀調教師、優秀騎手の選出は行っていない。最優秀騎手賞は1990年から[船橋の](https://ja.wikipedia.org/wiki/船橋競馬場 "wikilink")[石崎隆之](https://ja.wikipedia.org/wiki/石崎隆之 "wikilink")騎手が受賞し続けていたが2003年に[大井の](../Page/大井競馬場.md "wikilink")[的場文男](https://ja.wikipedia.org/wiki/的場文男 "wikilink")騎手が初めて受賞し、[石崎隆之](https://ja.wikipedia.org/wiki/石崎隆之 "wikilink")騎手の最優秀騎手賞の連続受賞は13でストップした。2009年からは最優秀調教師賞、最優秀騎手賞を、最優秀勝利回数調教師賞・最優秀勝利回数騎手賞、最優秀賞金収得調教師賞・最優秀賞金収得騎手賞、最優秀勝率調教師賞・最優秀勝率騎手賞に改めるとともに、グレード競走や国際競走での顕著な成績を讃える殊勲調教師賞・殊勲騎手賞が新設された\[13\]。
+
+### 部門一覧
+
+2014年現在も存在しているもののみを挙げる。
+
+  - 最優秀勝利回数調教師賞
+  - 最優秀賞金収得調教師賞
+  - 最優秀勝率調教師賞
+  - 殊勲調教師賞
+  - 最優秀勝利回数騎手賞
+  - 最優秀賞金収得騎手賞
+  - 最優秀勝率騎手賞
+  - 殊勲騎手賞
+  - [優秀新人騎手賞](https://ja.wikipedia.org/wiki/NARグランプリ優秀新人騎手賞 "wikilink")
+  - [優秀女性騎手賞](https://ja.wikipedia.org/wiki/NARグランプリ優秀女性騎手賞 "wikilink")
+  - [ベストフェアプレイ賞](https://ja.wikipedia.org/wiki/NARグランプリベストフェアプレイ賞 "wikilink")
+  - 特別賞
+
+### 調教師に関する表彰
+
+2008年までは最優秀調教師賞のみだったが、2009年からはこれが廃止となり、最優秀勝利回数調教師賞、最優秀賞金収得調教師賞、最優秀勝率調教師賞、殊勲調教師賞の4部門となった。
+
+#### 歴代受賞調教師
+
+| 年     | 勝利回数      | 賞金収得                                                      | 勝率                                                        | 殊勲                                                                 |
+| ----- | --------- | --------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------ |
+| 2009年 | 角田輝也（名古屋） | [川島正行](https://ja.wikipedia.org/wiki/川島正行 "wikilink")（船橋） | 川西毅（名古屋）                                                  | 角川秀樹（北海道）・柳江仁（笠松）                                                  |
+| 2010年 | 田中守（高知）   | 川島正行（船橋）                                                  | [出川克己](https://ja.wikipedia.org/wiki/出川克己 "wikilink")（船橋） | 該当者なし                                                              |
+| 2011年 | 雑賀正光（高知）  | [岡林光浩](https://ja.wikipedia.org/wiki/岡林光浩 "wikilink")（船橋） | 柏原誠路（兵庫）                                                  | 該当者なし                                                              |
+| 2012年 | 雑賀正光（高知）  | 川島正行（船橋）                                                  | 川西毅（名古屋）                                                  | 該当者なし                                                              |
+| 2013年 | 雑賀正光（高知）  | 川島正行（船橋）                                                  | 柏原誠路（兵庫）                                                  | 田中淳司（北海道）                                                          |
+| 2014年 | 雑賀正光（高知）  | [小久保智](https://ja.wikipedia.org/wiki/小久保智 "wikilink")（浦和） | 川西毅（名古屋）                                                  | 該当者なし                                                              |
+| 2015年 | 角田輝也（名古屋） | [小久保智](https://ja.wikipedia.org/wiki/小久保智 "wikilink")（浦和） | 柏原誠路（兵庫）                                                  | 該当者なし                                                              |
+| 2016年 |           | [小久保智](https://ja.wikipedia.org/wiki/小久保智 "wikilink")（浦和） | 川西毅（名古屋）                                                  | 該当者なし                                                              |
+| 2017年 | 角田輝也（名古屋） | [小久保智](https://ja.wikipedia.org/wiki/小久保智 "wikilink")（浦和） | 川西毅（名古屋）                                                  | [佐藤賢二](https://ja.wikipedia.org/wiki/佐藤賢二 "wikilink")（船橋）・荒山勝徳（大井） |
+| 2018年 | 打越勇児（高知）  | [佐藤賢二](https://ja.wikipedia.org/wiki/佐藤賢二 "wikilink")（船橋） | 川西毅（名古屋）                                                  | 該当者なし                                                              |
+| 2019年 | 打越勇児（高知）  | [小久保智](https://ja.wikipedia.org/wiki/小久保智 "wikilink")（浦和） | 川西毅（名古屋）                                                  | 小久保智(浦和)・髙月賢一(川崎)                                                  |
+
+### 騎手に関する表彰
+
+2008年までは最優秀騎手賞のみだったが、2009年からはこれが廃止となり、最優秀勝利回数騎手賞、最優秀賞金収得騎手賞、最優秀勝率騎手賞、殊勲騎手賞の4部門となった。
+
+#### 歴代受賞騎手
+
+| 年     | 勝利回数                                                      | 賞金収得                                                        | 勝率                                                        | 殊勲                                                                                                                    |
+| ----- | --------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 2009年 | [戸崎圭太](https://ja.wikipedia.org/wiki/戸崎圭太 "wikilink")（大井） | 戸崎圭太（大井）                                                    | [赤岡修次](https://ja.wikipedia.org/wiki/赤岡修次 "wikilink")（高知） | 該当者なし                                                                                                                 |
+| 2010年 | 戸崎圭太（大井）                                                  | 戸崎圭太（大井）                                                    | 赤岡修次（高知）                                                  | 山口勲（佐賀）                                                                                                               |
+| 2011年 | 戸崎圭太（大井）                                                  | 戸崎圭太（大井）                                                    | 赤岡修次（高知）                                                  | 戸崎圭太（大井）・[吉原寛人](https://ja.wikipedia.org/wiki/吉原寛人 "wikilink")（金沢）                                                    |
+| 2012年 | 戸崎圭太（大井）                                                  | 戸崎圭太（大井）                                                    | 赤岡修次（高知）                                                  | 該当者なし                                                                                                                 |
+| 2013年 | [川原正一](https://ja.wikipedia.org/wiki/川原正一 "wikilink")（兵庫） | [御神本訓史](https://ja.wikipedia.org/wiki/御神本訓史 "wikilink")（大井） | 山口勲（佐賀）                                                   | 該当者なし                                                                                                                 |
+| 2014年 | [田中学](https://ja.wikipedia.org/wiki/田中学 "wikilink")（兵庫）   | 御神本訓史（大井）                                                   | 山口勲（佐賀）                                                   | [倉兼育康](https://ja.wikipedia.org/wiki/倉兼育康 "wikilink")（高知）                                                             |
+| 2015年 | [森泰斗](https://ja.wikipedia.org/wiki/森泰斗 "wikilink")（船橋）   | [森泰斗](https://ja.wikipedia.org/wiki/森泰斗 "wikilink")（船橋）     | 山口勲（佐賀）                                                   | 該当者なし                                                                                                                 |
+| 2016年 | [森泰斗](https://ja.wikipedia.org/wiki/森泰斗 "wikilink")（船橋）   | [森泰斗](https://ja.wikipedia.org/wiki/森泰斗 "wikilink")（船橋）     | 山口勲（佐賀）                                                   | [永森大智](https://ja.wikipedia.org/wiki/永森大智 "wikilink")(高知)                                                             |
+| 2017年 | [下原理](https://ja.wikipedia.org/wiki/下原理 "wikilink")（兵庫）   | [森泰斗](https://ja.wikipedia.org/wiki/森泰斗 "wikilink")（船橋）     | 山口勲（佐賀）                                                   | [的場文男](https://ja.wikipedia.org/wiki/的場文男 "wikilink")（大井）・臼井健太郎(船橋)                                                   |
+| 2018年 | [吉村智洋](https://ja.wikipedia.org/wiki/吉村智洋 "wikilink")（船橋） | [森泰斗](https://ja.wikipedia.org/wiki/森泰斗 "wikilink")（船橋）     | 山口勲（佐賀）                                                   | 該当者なし                                                                                                                 |
+| 2019年 | [森泰斗](https://ja.wikipedia.org/wiki/森泰斗 "wikilink")（船橋）   | [森泰斗](https://ja.wikipedia.org/wiki/森泰斗 "wikilink")（船橋）     | 山口勲（佐賀）                                                   | [御神本訓史](https://ja.wikipedia.org/wiki/御神本訓史 "wikilink")(大井)・[吉原寛人](https://ja.wikipedia.org/wiki/吉原寛人 "wikilink")(金沢) |
+
+### 特別賞
+
+NARグランプリでは、第1回より地方競馬の発展に貢献した人馬を表彰する制度として**NARグランプリ特別功労賞**が設けられていた\[14\]。1995年より人物に関しては**特別賞**と改称され\[15\]、現在まで続いている。
+
+#### 歴代受賞者
+
+| 年度                                                                  | 受賞者・馬                                                        | 所属                                     |
+| ------------------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------- |
+| [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")             | [佐々木竹見](https://ja.wikipedia.org/wiki/佐々木竹見 "wikilink")      |                                        |
+| [高橋三郎](https://ja.wikipedia.org/wiki/高橋三郎_\(競馬\) "wikilink")        | 大井                                                           |                                        |
+| [オグリキャップ](../Page/オグリキャップ.md "wikilink")                            | (元笠松)                                                        |                                        |
+| [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")             | [田中利衛](https://ja.wikipedia.org/wiki/田中利衛 "wikilink")        |                                        |
+| [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")             | [桑島孝春](https://ja.wikipedia.org/wiki/桑島孝春 "wikilink")        |                                        |
+| [1993年](../Page/1993年.md "wikilink")                                | [山口瞳](https://ja.wikipedia.org/wiki/山口瞳 "wikilink")          | 作家                                     |
+| [田中道夫](https://ja.wikipedia.org/wiki/田中道夫 "wikilink")               |                                                              |                                        |
+| [高砂哲二](https://ja.wikipedia.org/wiki/高砂哲二 "wikilink")               |                                                              |                                        |
+| [1994年](../Page/1994年.md "wikilink")                                | 該当者なし                                                        |                                        |
+| [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")             | [井上宥藏](https://ja.wikipedia.org/wiki/井上宥藏 "wikilink")        |                                        |
+| [1996年](../Page/1996年.md "wikilink")                                | [石崎隆之](https://ja.wikipedia.org/wiki/石崎隆之 "wikilink")        | 船橋                                     |
+| [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")             | [出川己代造](https://ja.wikipedia.org/wiki/出川己代造 "wikilink")      |                                        |
+| [金山明彦](https://ja.wikipedia.org/wiki/金山明彦 "wikilink")               |                                                              |                                        |
+| [有馬澄男](https://ja.wikipedia.org/wiki/有馬澄男 "wikilink")               |                                                              |                                        |
+| [川原正一](https://ja.wikipedia.org/wiki/川原正一 "wikilink")               |                                                              |                                        |
+| [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")\[16\]\[17\] | [武豊](https://ja.wikipedia.org/wiki/武豊 "wikilink")            | [JRA栗東](../Page/日本中央競馬会.md "wikilink") |
+| [佐々木竹見](https://ja.wikipedia.org/wiki/佐々木竹見 "wikilink")             | 川崎                                                           |                                        |
+| [1999年](../Page/1999年.md "wikilink")                                | [的場文男](https://ja.wikipedia.org/wiki/的場文男 "wikilink")        | 大井                                     |
+| [安藤勝己](../Page/安藤勝己.md "wikilink")                                  | 笠松                                                           |                                        |
+| [2000年](../Page/2000年.md "wikilink")                                | [荒川友司](https://ja.wikipedia.org/wiki/荒川友司 "wikilink")        |                                        |
+| [佐々木竹見](https://ja.wikipedia.org/wiki/佐々木竹見 "wikilink")             | 川崎                                                           |                                        |
+| [2001年](../Page/2001年.md "wikilink")                                | [手島健児](https://ja.wikipedia.org/wiki/手島健児 "wikilink")        |                                        |
+| [鮫島克也](https://ja.wikipedia.org/wiki/鮫島克也 "wikilink")               | 佐賀                                                           |                                        |
+| [2002年](../Page/2002年.md "wikilink")                                | [古川博](https://ja.wikipedia.org/wiki/古川博 "wikilink")          |                                        |
+| [小牧太](https://ja.wikipedia.org/wiki/小牧太 "wikilink")                 |                                                              |                                        |
+| [2003年](../Page/2003年.md "wikilink")                                | [石崎隆之](https://ja.wikipedia.org/wiki/石崎隆之 "wikilink")        | 船橋                                     |
+| [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")             | [菅原勲](https://ja.wikipedia.org/wiki/菅原勲 "wikilink")          | 岩手                                     |
+| [内田利雄](https://ja.wikipedia.org/wiki/内田利雄 "wikilink")               | 宇都宮                                                          |                                        |
+| [田部和則](https://ja.wikipedia.org/wiki/田部和則 "wikilink")               | 北海道                                                          |                                        |
+| [鮫島克也](https://ja.wikipedia.org/wiki/鮫島克也 "wikilink")               | 佐賀                                                           |                                        |
+| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")             | [岩田康誠](https://ja.wikipedia.org/wiki/岩田康誠 "wikilink")        | 兵庫                                     |
+| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")             | [矢作和人](https://ja.wikipedia.org/wiki/矢作和人 "wikilink")        | 大井                                     |
+| [川原正一](https://ja.wikipedia.org/wiki/川原正一 "wikilink")               | 兵庫                                                           |                                        |
+| [田部和則](https://ja.wikipedia.org/wiki/田部和則 "wikilink")               | 北海道                                                          |                                        |
+| [五十嵐冬樹](https://ja.wikipedia.org/wiki/五十嵐冬樹 "wikilink")             | 北海道                                                          |                                        |
+| [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")             | [小林俊彦](https://ja.wikipedia.org/wiki/小林俊彦_\(競馬\) "wikilink") | 岩手                                     |
+| [内田博幸](https://ja.wikipedia.org/wiki/内田博幸 "wikilink")               | 大井                                                           |                                        |
+| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")             | [高岡秀行](https://ja.wikipedia.org/wiki/高岡秀行 "wikilink")        | （元北海道）                                 |
+| [内田利雄](https://ja.wikipedia.org/wiki/内田利雄 "wikilink")               |                                                              |                                        |
+| [2009年](../Page/2009年.md "wikilink")                                | 該当者なし                                                        |                                        |
+| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")             | [藤本匠](https://ja.wikipedia.org/wiki/藤本匠 "wikilink")          | ばんえい                                   |
+| [2011年](../Page/2011年.md "wikilink")                                | [宮下瞳](https://ja.wikipedia.org/wiki/宮下瞳 "wikilink")          | 名古屋                                    |
+| [2012年](../Page/2012年.md "wikilink")                                | [岡崎準](https://ja.wikipedia.org/wiki/岡崎準 "wikilink")          | 福山                                     |
+| [山口勲](https://ja.wikipedia.org/wiki/山口勲 "wikilink")                 | 佐賀                                                           |                                        |
+| [山中利夫](https://ja.wikipedia.org/wiki/山中利夫 "wikilink")               | (元石川)                                                        |                                        |
+| [2013年](../Page/2013年.md "wikilink")                                | 該当者なし                                                        |                                        |
+| [2014年](../Page/2014年.md "wikilink")                                | [大河原和雄](https://ja.wikipedia.org/wiki/大河原和雄 "wikilink")      | ばんえい                                   |
+| [木村健](https://ja.wikipedia.org/wiki/木村健 "wikilink")                 | 兵庫                                                           |                                        |
+| [向山牧](https://ja.wikipedia.org/wiki/向山牧 "wikilink")                 | 笠松                                                           |                                        |
+| [川島正行](https://ja.wikipedia.org/wiki/川島正行 "wikilink")               | 元調教師                                                         |                                        |
+| [吉田勝彦](https://ja.wikipedia.org/wiki/吉田勝彦 "wikilink")               | アナウンサー                                                       |                                        |
+| [2015年](../Page/2015年.md "wikilink")                                | [田中学](https://ja.wikipedia.org/wiki/田中学 "wikilink")          | 兵庫                                     |
+| [岡部誠](https://ja.wikipedia.org/wiki/岡部誠 "wikilink")                 | 愛知                                                           |                                        |
+| [安部幸夫](https://ja.wikipedia.org/wiki/安部幸夫 "wikilink")               | 愛知                                                           |                                        |
+| [2016年](../Page/2016年.md "wikilink")                                | [赤岡修次](https://ja.wikipedia.org/wiki/赤岡修次 "wikilink")        | 高知                                     |
+| [宮下瞳](https://ja.wikipedia.org/wiki/宮下瞳 "wikilink")                 | 愛知                                                           |                                        |
+| [武豊](https://ja.wikipedia.org/wiki/武豊 "wikilink")                   | JRA栗東                                                        |                                        |
+| [2017年](../Page/2017年.md "wikilink")                                | [山野浩一](https://ja.wikipedia.org/wiki/山野浩一 "wikilink")        |                                        |
+| [2018年](../Page/2018年.md "wikilink")                                | [的場文男](https://ja.wikipedia.org/wiki/的場文男 "wikilink")        | 大井                                     |
+| [村上忍](https://ja.wikipedia.org/wiki/村上忍 "wikilink")                 | 岩手                                                           |                                        |
+| [2019年](../Page/2019年.md "wikilink")                                | [西川敏弘](https://ja.wikipedia.org/wiki/西川敏弘 "wikilink")        | 高知                                     |
+| [石崎隆之](https://ja.wikipedia.org/wiki/石崎隆之 "wikilink")               | （元船橋）                                                        |                                        |
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+### 受賞者についての出典
+
+  - [NARグランプリ](http://www.keiba.go.jp/about/grandprix.html)
+      - [ＮＡＲグランプリ歴代受賞者一覧](http://www.keiba.go.jp/about/grandprix_award.html)
+
+## 関連項目
+
+  - [JRA賞](../Page/JRA賞.md "wikilink")
+  - [公営日本一](https://ja.wikipedia.org/wiki/公営日本一 "wikilink") - 1960年から1971年まで[啓衆社によって発表されていた](https://ja.wikipedia.org/wiki/ケイシュウニュース "wikilink")[南関東公営競馬](https://ja.wikipedia.org/wiki/南関東公営競馬 "wikilink")の年間表彰制度。
+  - [エクリプス賞](https://ja.wikipedia.org/wiki/エクリプス賞 "wikilink")
+  - [カルティエ賞](https://ja.wikipedia.org/wiki/カルティエ賞 "wikilink")
+
+[Category:NARグランプリ](https://ja.wikipedia.org/wiki/Category:NARグランプリ "wikilink") [Category:競馬の表彰](https://ja.wikipedia.org/wiki/Category:競馬の表彰 "wikilink") [Category:1990年開始のイベント](https://ja.wikipedia.org/wiki/Category:1990年開始のイベント "wikilink")
+
+1.  地方競馬全国協会会長賞(当初は馬主が対象、1978年度より騎手・調教師・厩務員、1979年度には調教助手にも拡大された。)、殊勲賞(1964年度より、各ブロックごとの勝率上位騎手を表彰)。後者は1970年度より調教師も対象とし、1980年度には新たに獲得賞金額上位騎手も表彰されることとなった。
+2.
+3.  この際、[会計年度](https://ja.wikipedia.org/wiki/会計年度 "wikilink")単位(4-3月)の表彰から、暦年単位（1-12月）での表彰に変更されている。
+4.
+5.
+6.
+7.  2005年には地方競馬全国協会の財政悪化とその要因である地方競馬全体の売上低迷から本賞の廃止の可能性すら議論されており、各競馬場より選出してた優秀調教師・優秀騎手・優秀厩務員の表彰を廃止するなどのスリム化が図られている。
+8.
+9.
+10.
+11. 当時の[馬齢](https://ja.wikipedia.org/wiki/馬齢 "wikilink")表記は旧表記。2001年以降の現行表記では2歳、3歳、4歳以上となる。
+12.
+13.
+14.
+15.
+16. 1999年5月に受賞者のふたりを招いた[騎手招待競走](https://ja.wikipedia.org/wiki/騎手招待競走 "wikilink")が[益田競馬場](https://ja.wikipedia.org/wiki/益田競馬場 "wikilink")で行われた
+17.

@@ -1,0 +1,880 @@
+> この記事は[II -GOFER-](https://ja.wikipedia.org/wiki/II_-GOFER-)から翻訳されています。
+
+
+『**グラディウスII -GOFERの野望-**』（グラディウスツー ゴーファーのやぼう、*GRADIUS II*）は[コナミ](../Page/コナミホールディングス.md "wikilink")（現:[コナミアミューズメント](https://ja.wikipedia.org/wiki/コナミアミューズメント "wikilink")）よりリリースされた、強制横スクロール型の[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。オリジナルプラットホーム（原典）は[1988年](../Page/1988年.md "wikilink")にアミューズメント施設（ゲームセンターなど）で稼働させる業務用（[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。以下「AC」と略記する場合あり）のシステム基板「[TWIN 16](https://ja.wikipedia.org/wiki/ツイン16システム "wikilink")」第2弾タイトルとしてのものだった。日本国外版の名称は『*VULCAN VENTURE*』（バルカン・ベンチャー。[\#タイトル](https://ja.wikipedia.org/wiki/#タイトル "wikilink")も参照）
+
+後に多数のデジタルデバイスに移植されたが、それらの詳細については[\#移植版](https://ja.wikipedia.org/wiki/#移植版 "wikilink")を参照。（原典から多数の要素がアレンジされた[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")版『**GRADIUS II**』についても[後述](https://ja.wikipedia.org/wiki/#ファミリーコンピュータ版 "wikilink")）。アーケード版は当時、唯一のアーケードゲーム雑誌であった『[ゲーメスト](../Page/ゲーメスト.md "wikilink")』の企画「第2回[ゲーメスト大賞](https://ja.wikipedia.org/wiki/ゲーメスト大賞 "wikilink")」において大賞1位を獲得、ファミリーコンピュータ版はゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」にてシルバー殿堂入りを獲得した。（詳細は[\#評価](https://ja.wikipedia.org/wiki/#評価 "wikilink")を参照）。
+
+## 概要
+
+日本では『[グラディウス](../Page/グラディウス_\(ゲーム\).md "wikilink")』（1985年。以下「1作目」などと略記する場合あり）の続編として位置付けられている作品。1作目から本作の間には『[沙羅曼蛇](../Page/沙羅曼蛇.md "wikilink")』（1986年）、そのマイナーチェンジである『[ライフフォース](../Page/ライフフォース.md "wikilink")』（1987年）、[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")オリジナルの『[グラディウス2](https://ja.wikipedia.org/wiki/グラディウス2 "wikilink")』（1987年）などが世に出ていたが、AC版における正式な続編「パート2」として、満を持して発売された。開発期間は5ヶ月ほどである\[1\]。
+
+前述した『ゲーメスト』編集部によると、1988年春に行われた[AOUアミューズメントエキスポにて電撃的に発表され](https://ja.wikipedia.org/wiki/全日本アミューズメント施設営業者協会連合会 "wikilink")、大きなインパクトを与えたと語られており、『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』などアーケードゲーム誌以外でも大きく誌面を割いて掲載されるなど異例の盛り上がりを見せた。
+
+1作目の最大の特徴だったパワーアップ要素を多彩にし、ゲーム内容、音楽、美術、全てにおいて格段の改良が行なわれた。続編ものにありがちな蛇足感を見せず、丁寧な調整による完成度の高さがゲーメスト大賞を獲得するに至った大きな評価の一因となった。
+
+本作には[コンティニュー](https://ja.wikipedia.org/wiki/コンティニュー "wikilink")機能は存在しない。[エクステンドについては](https://ja.wikipedia.org/wiki/1UP "wikilink")、当初は標準設定で70,000点ごとに残機が増える仕様だった。しかし、プレイ時間が長く売上が上がらない、残機が100機に到達した瞬間にオーバーフロー現象による強制ゲームオーバーのバグ、また[永久パターン](https://ja.wikipedia.org/wiki/永久パターン "wikilink")などの問題点が発覚した。この問題に対しある場所で永久パターンにならないバージョン（通常バージョンB）を配布したものの、なおも特定の場所で永久パターンが存在しており、最終的には全販売先に対してさらに改修された新々バージョン（通称Newバージョン。オペレーターに対しては、「よりインカムの上がるバージョン」と説明されていた）ROMが無償配布された。これにより残機追加は150,000点ごとに変更されている。
+
+『沙羅曼蛇』で初登場したボイス機能も種類が増加した。音声が鮮明になり、ボス戦では弱点を英語で発言するようになった。前作では音源合成チップを使用していたが、本作では[PCM音源](../Page/PCM音源.md "wikilink")を使用している。
+
+### タイトル
+
+先に発売されていたMSX版ソフト『[グラディウス2](https://ja.wikipedia.org/wiki/グラディウス2 "wikilink")』（1987年）の海外名が*NEMESIS II*。これは『グラディウス』(*NEMESIS*) の直接の後継作に位置づけられる。そのため本作は*VULCAN VENTURE*という日本国外名で発売されている。
+
+なおシリーズには「2」と「II」が並存するので、会話の際には明確な区別をする必要がある。よく見られる区別方法としては、「2=に、MSX」「II=ツー、ゴーファー（GOFERの野望、から）」がある。この他、『[コナミGBコレクション](https://ja.wikipedia.org/wiki/コナミGBコレクション "wikilink") VOL.3』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）に収録されている「グラディウスII」は『[ネメシスII](https://ja.wikipedia.org/wiki/ネメシス_\(ゲーム\)#ネメシスII "wikilink")』（[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")）の改題で、前記のどちらとも内容が異なる。
+
+## ゲーム内容
+
+### システム
+
+8方向レバーと3ボタン（パワーアップ、対空ショット、対地ミサイル）で[自機](../Page/自機.md "wikilink")である[ビックバイパー](https://ja.wikipedia.org/wiki/ビックバイパー "wikilink")を操作し、全8ステージの変化に富む世界を舞台に戦う。2周目以降も残機がなくなるまで続き難易度が上昇する。
+
+ミスした際のリトライ方法は『グラディウス』と同様の[戻り復活を採用しており](https://ja.wikipedia.org/wiki/復活_\(コンピュータゲーム\)#戻り復活 "wikilink")、それに伴って2人プレイの方法も同時プレイから交互プレイに戻された。ビックバイパーのデザインも『沙羅曼蛇』では大きく変更されていたが、本作ではほぼ『グラディウス』当時のデザインに戻された。但し『グラディウス』のものよりも上下に太く見えるようになっている。
+
+敵を破壊した際に出現するカプセルにはパワーアップに使用する赤カプセルと、取った瞬間に画面上の敵が全滅する青カプセルがあるのは前作と同様だが、本作の青カプセルは敵弾も一掃できるようになった。また、赤と青とでカプセルのデザインが異なる。
+
+### パワーアップ
+
+『グラディウス』を踏襲しているためパワーアップシステムの解説については割愛する。本作ではゲームスタート時、「POWER METER SELECT」から4種類の異なるパワーアップゲージ構成のうち、1種類を選択する。各タイプにはイメージカラーがあり、レーザーとシールド、自機が破壊された時の爆風の色がそれに準ずる。
+
+| 自機    | ゲージ     |
+| ----- | ------- |
+| 1     | 2       |
+| 装備タイプ | イメージカラー |
+| タイプ1  | 緑       |
+| タイプ2  | 橙       |
+| タイプ3  | 青       |
+| タイプ4  | 橙       |
+
+シールド（?ゲージ）は、別途「SHIELD SELECT」にて以下の2種類から選択する。
+
+| シールドセレクト | ?         |
+| -------- | --------- |
+| タイプ1     | シールド      |
+| タイプ2     | フォースフィールド |
+
+初期装備であるノーマルショットの弾速が『グラディウス』のものよりも落ちたため、無闇に空撃ちしていると画面上に撃った弾が両方とも残ったままで次弾が撃てない弾切れ状態を起こし、眼前の雑魚キャラを破壊できずに体当たりを食らうことが多くなった。
+
+パワーアップできる各装備の詳細は以下の通り。
+
+#### スピードアップ系
+
+  - SPEED UP（スピードアップ）
+    自機の移動速度が上がる。最大5段階まで加速できる。ミスもしくは1周クリア以外に一旦上げたスピードを落とす手段はない。
+
+#### ミサイル系
+
+『グラディウス』と『沙羅曼蛇』ではスクランブルハッチをミサイル1発で破壊できたが、本作ではスプレッドボムを除き、2発当てなければ破壊できない。撃った弾が消滅すれば直ちに再発射されるように改善された。2-WAY以外は単発で発射される。ノーマルショットで破壊可能な地形を壊すことはできない。
+
+  - MISSILE（ミサイル）
+    前方斜め下に発射される。接地後は地面に沿って進むが、壁や急な斜面は登れない。
+  - SPREAD BOMB（スプレッドボム）
+    緩い放物線を描いて落下し、地形や敵に当たった時点で攻撃力を持つ大きな爆風が発生する。攻撃力は高いが、敵や敵弾が爆風に隠れ易いのと後方の敵を処理しづらいのが欠点となっている。
+  - PHOTON TORPEDO（フォトントゥーピド）
+    自機直下の垂直方向に投下され、耐久力の低い敵を貫通する。接地後は地面に沿って進む。弾速が遅いため弾切れを起こしやすく、床面から次々と雑魚敵が現れる状況では倒すのが間に合わず不利になることがある。
+  - 2-WAY MISSILE（トゥーウェイミサイル）
+    上下に1発ずつ、急な放物線を描きながら投射される。地形に当たるとそのまま消滅する。
+
+#### ダブル系
+
+それぞれの方向に1発ずつノーマルショットを撃つ。各方向に撃った弾が両方とも消滅しないと再発射できない。 [レーザー系とは排他選択であり併用不可](https://ja.wikipedia.org/wiki/#レーザー系 "wikilink")。ダブル系を装備するとレーザー系の効果は失われる。
+
+  - DOUBLE（ダブル）
+    前方と前方斜め上45度にノーマルショットを撃つ。
+  - TAIL GUN（テイルガン）
+    前方と後方にノーマルショットを撃つ。
+
+#### レーザー系
+
+[ダブル系とは排他選択であり併用不可](https://ja.wikipedia.org/wiki/#ダブル系 "wikilink")。レーザー系を装備するとダブル系の効果は失われる。
+
+  - LASER（レーザー）
+    前方に耐久力の低い敵を貫通できるレーザーを発射する。ボタンを押している間しばらく伸び続け、射線が自機のY軸移動に連動する。『グラディウス』よりも、2ドット分当たり判定の範囲が狭められている\[2\]。タイプ1とタイプ2とでは色だけでなくレーザーのデザインも異なり、タイプ1は『グラディウス』のような直線状、タイプ2は『沙羅曼蛇』『ライフフォース』のような螺旋（らせん）状である。ただし、『沙羅曼蛇』等のようにショットボタン連打でレーザーを分断することはできない。また、レーザーを撃ちながら自機を上下に激しく動かして、途中で撃つのをやめると、レーザーが2本に分裂する。
+  - RIPPLE LASER（リップルレーザー）
+    自機前方に徐々に広がる波紋形のレーザーを発射。『沙羅曼蛇』のものとほぼ同じ仕様で、弾が前進するほど縦方向の当たり判定が広がるが、威力は通常弾と同じである。広がっても地形との当たり判定は小さめなので、的に当たる前に地形に吸収されることは少なく使い勝手は良い。最大2連射できる。
+
+#### オプション系
+
+  - OPTION（オプション）
+    自機と同じ攻撃を行ない、敵や地形には接触しても破壊されない無敵の発光体。最大4個を装備可能。『グラディウス』と『沙羅曼蛇』では癖のあったオプションの動きが、本作では自機の動きに素直に追従するようになった。オプションを縦方向に並べた時、自機はオプションよりやや前方に出ている。弾を発射する位置は同じだが、ミサイルを発射する位置は自機の方がやや前方である。
+
+#### シールド系
+
+シールドは「POWER METER SELECT」とは別に、「SHIELD SELECT」から以下の2種類のうち、1種類を選択する。どちらも地形と接触すると耐久力が下がる。パワーゲージの表示はどちらも「?」。
+
+  - SHIELD（シールド）
+    前方のみ防御。耐久力は高く通常弾16発分。
+    シリーズ1作目での「バリア」と同等の装備。『ライフフォース』の「シールド」とは異なる。
+    1作目同様に画面右の上下隅から自機へ向かって飛んで来るが、出現した瞬間から敵キャラクターなどへの接触判定があるため、取得のタイミングによっては装着前に削れていき、自機へ辿り着く前に消えてしまうこともある。
+  - FORCE FIELD（フォースフィールド）
+    全方向を防御。耐久力は低く通常弾3発分だが、雑魚キャラやイオンリングに当たると通常弾2発分のダメージを受ける。ただし、耐久力が残り1発分のままで雑魚キャラに当たってもミスにはならない。高次周になると[撃ち返し](https://ja.wikipedia.org/wiki/撃ち返し "wikilink")弾も受けるためミスになる。
+    AC版『沙羅曼蛇』の「フォースフィールド」とは全く異なる装備であり、自機が炎のようなエネルギー体に包まれる。なおこの形のシールド仕様の「フォースフィールド」はFC版沙羅曼蛇（1987年）が初出である。
+    フォースフィールド装備中の自機は無敵であり、地形に接触していても一定時間毎にフォースフィールドの耐久力が削られていくだけで、即座にミスとはならない。これを利用して地形を抜けることが可能。4、6、8面の壁などの他、自機が5速になっていると1面の小太陽も抜けられる。なお、6面の壁抜けについては製作スタッフが開発時から既に想定していた\[3\]。
+    フォースフィールドを使った裏技もいくつか存在する。フォースフィールド装備時、1周目の2、3、4、6面の前衛編隊は画面一番前（右）で接触するだけで倒せ、フォースフィールドも削られない。ただし2周目以降だと撃ち返し弾があるためにできない。
+
+### バグや仕様
+
+  - 画面の最上端にある天井（4面や6面の高速迷路の入り口等）に触れると、ミスになったりならなかったりする。最上へ移動し、天井が始まる所に弾を打ち込んで、当たれば確実にミスになる。しかし弾が通過してもミスになる場合もある。
+  - 1面のファイヤードラゴンが吐く火球は、ドラゴン出現時（太陽から火の粉が飛び散る）から6×n個目（X68k版では5×n個目）の物がパワーアップカプセルに変わるが、この火球には体当たりをしてもミスにならず火球破壊と同時にカプセルを回収できる。
+  - 3面の破壊不能な水晶は、地形ではなく敵キャラクターとして設定されているため、ミサイルをこの上に投下すると地表を沿わずに消える。
+  - 2人プレイの時、片方のプレイヤーがまだ4面まで進んでいないうちにもう片方が1周してしまうと、4面まで進んでいなかった方のプレイヤーの4面の地形が2周目のものになってしまう。
+  - 5面後半の怒りモアイ地帯の特定の場所にて、ひし形状の青カプセルが稀に現れる。
+  - 7面のイントルーダ戦においてイントルーダを2匹以上ほぼ同時に倒すか、倒さずに自爆待ちをすると、カバードコアが現れてもボス戦BGM『Take Care\!』に切り替わらず、イントルーダ戦BGM『Fire Dragon』のままになる。カバードコアを倒すとBGMは切り替わる。
+  - クリスタルコア、ビッグコアMk-II等のボスキャラに多くの安全地帯があるが、ほとんどは製作スタッフが意図的に作ったものである。中間要塞の安全地帯や、クラブを避けるパターンの1つである通称「チャンチャンパターン」などは想定外のもので、発売前のテストプレイで発覚したが、あえて残された。そのため、故意に作ったテクニックと、偶然できてあえて残したものの半々だったと、開発スタッフのひとりである高取利明は後年語っている\[4\]。
+  - 残機が100機になった瞬間、強制的にゲームオーバーになる\[5\]。
+  - ネームエントリーの時に「SEX」と入力すると「[ASO](https://ja.wikipedia.org/wiki/ASO_\(ゲーム\) "wikilink")」になってしまう。また、6位でのネームエントリーの場合、ボタンを押すたびにダッカーが弾を撃ち、ビックバイパーに当てれば撃墜する事ができる。ただし弾速が遅いためタイミングをとることが難しい。
+
+## 設定
+
+### ストーリー
+
+今から2年前、惑星グラディウスは突如現れた亜時空星団バクテリアンによる侵略を受け、苦戦を強いられたグラディウス軍は最後の手段として超時空戦闘機[ビックバイパー](https://ja.wikipedia.org/wiki/ビックバイパー "wikilink")を発進させた。ビックバイパーは死闘の末にバクテリアンの中枢である要塞ゼロスを撃破し、グラディウスに勝利をもたらした（『[グラディウス](../Page/グラディウス_\(ゲーム\).md "wikilink")』でのストーリー）。
+
+そして現在、再びバクテリアンの猛威が惑星グラディウスを襲う。特殊部隊「ゴーファー」を迎え撃つため、グラディウス軍は強化改造を行ったビックバイパーを発進させた。
+
+### ステージ構成
+
+  - 基本的には、ステージ突入前の空中戦に始まり、地面や固定障害物を伴うステージを経て、最後にボス戦を迎える構成となる。
+  - 前作にあったボス前の総攻撃は廃止された。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>面</p></th>
+<th><p>内容</p></th>
+<th><p>解説</p></th>
+<th><p>使用曲</p></th>
+<th><p>ボス</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td></td>
+<td><p>ファイヤードラゴンを生む大小8個の<a href="https://ja.wikipedia.org/wiki/太陽" title="wikilink">人工太陽が配置された</a>、上下無限スクロールステージ。このステージが製作されたのは開発の後半だったが、見た目のインパクトから1面に変更された経緯がある<ref name="gurapo58">{{Cite journal|和書</p></td>
+<td><p>author =</p></td>
+<td><p>authorlink =</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td></td>
+<td><p>網状の障害物を排除しつつ、奇怪な生命体や触手を相手にするステージ。上下2画面分に任意にスクロールする。通称「<a href="https://ja.wikipedia.org/wiki/H・R・ギーガー" title="wikilink">ギーガーステージ</a>」。</p></td>
+<td><ul>
+<li>A Shooting Star（空中戦）</li>
+<li>Synthetic Life（ステージ）</li>
+<li>Take Care!（ボス戦）</li>
+</ul></td>
+<td><ul>
+<li>ビッグアイ</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td></td>
+<td><p>前方から押し寄せる高耐久力の結晶群をかいくぐるステージ。</p></td>
+<td><ul>
+<li>A Shooting Star（空中戦）</li>
+<li>Crystal World（ステージ）</li>
+<li>Take Care!（ボス戦）</li>
+</ul></td>
+<td><ul>
+<li><a href="https://ja.wikipedia.org/wiki/ビッグコア#バリエーション" title="wikilink">クリスタルコア</a></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td></td>
+<td><p>初代1面を思わせる入り組んだ地形を進むステージ。後半からは大量の<a href="https://ja.wikipedia.org/wiki/火山弾" title="wikilink">火山弾</a>を噴出する<a href="../Page/火山.md" title="wikilink">火山</a>が登場し、地形全体が赤黒くなる。2週目以降は、火山が多く配置された地形に変化する。開発当時、最初に製作されたステージである[6]。</p></td>
+<td><ul>
+<li>A Shooting Star（空中戦）</li>
+<li><p>（ステージ）</p></li>
+<li>Take Care!（ボス戦）</li>
+</ul></td>
+<td><ul>
+<li><a href="https://ja.wikipedia.org/wiki/デス_(グラディウス)#デスMk-II" title="wikilink">デスMk-II</a></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td></td>
+<td><p>破壊可能なイオンリングを放出するモアイ像群を破壊つつ進むシリーズ伝統のステージ。上下無限スクロール。ステージ後半になるとモアイの顔が赤くなり、自機方向へ振り向いて猛連射してくるなど攻撃が激しくなり（通称：怒り状態）、曲調もテンポアップする。</p></td>
+<td><ul>
+<li>A Shooting Star（空中戦）</li>
+<li>The Old Stone Age 1（ステージ前半）</li>
+<li>The Old Stone Age 2（ステージ後半）</li>
+<li>Take Care!（ボス戦）</li>
+</ul></td>
+<td><ul>
+<li>ビッグモアイ</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td></td>
+<td><p>沙羅曼蛇およびライフフォースの6面終盤のような、スクロールスピードが通常の2倍近くある特殊ステージ。2段階以上のスピードでなければ攻略不可能。上下無限スクロール。内部は迷路状となっており、初代2面にも登場する破壊可能な小石、進路を阻む蛇腹状の<a href="../Page/シャッター.md" title="wikilink">シャッター</a>、行き止まりなどのトラップがある。</p></td>
+<td><ul>
+<li>A Shooting Star（空中戦）</li>
+<li>Maximum Speed（ステージ）</li>
+<li>Take Care!（ボス戦）</li>
+</ul></td>
+<td><ul>
+<li></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>ボスラッシュ</p></td>
+<td><p>GOFER艦から出撃してくる、グラディウス、沙羅曼蛇、ライフフォースに登場したボスと連戦を繰り広げるステージ。ステージ開始前に大量の赤<a href="https://ja.wikipedia.org/wiki/ザブ_(グラディウス)" title="wikilink">ザブ</a>（パワーアップカプセルを持つ敵）が現れ、無防備の場合でも大幅にパワーアップできる。途中でミスするとザブ戦から再スタートとなる。</p></td>
+<td><ul>
+<li>Gradius 1 BOSS Theme（ザブ、ビッグコア戦）</li>
+<li><p>（ゴーレム、テトラン、ガウ戦）</p></li>
+<li>Fire Dragon（イントルーダ戦）</li>
+<li>Take Care!（カバードコア戦）</li>
+</ul></td>
+<td><ul>
+<li>ビッグコア</li>
+<li><a href="https://ja.wikipedia.org/wiki/ゴーレム_(グラディウス)" title="wikilink">ゴーレム</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/テトラン_(グラディウス)" title="wikilink">テトラン</a></li>
+<li>ガウ</li>
+<li>イントルーダ</li>
+<li>カバードコア</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td></td>
+<td><p>敵の本拠地である最終ステージ。巨大なハッチを破壊して敵艦内へ侵入する。狭い空間で敵の攻撃を避ける前半戦と、プレイヤーの行き手を阻む中間要塞との中ボス戦、上下からせり出す地形やトリッキーな動きで自機を翻弄する破壊不可能な敵を避ける後半戦に分かれる。ステージの奥に真のボスであるゴーファーが潜んでいる。</p></td>
+<td><ul>
+<li>A Shooting Star（空中戦）</li>
+<li>Into Hostile Ship（ステージ前半）</li>
+<li>Shoot and Shoot（中間要塞戦）</li>
+<li>The Final Enemy（ステージ後半）</li>
+<li>Take Care!（ゴーファー戦）</li>
+</ul></td>
+<td><ul>
+<li>中間要塞</li>
+<li><a href="https://ja.wikipedia.org/wiki/クラブ_(グラディウス)" title="wikilink">クラブ</a></li>
+<li>ゴーファー</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## キャラクター
+
+  - [オプションハンター](https://ja.wikipedia.org/wiki/オプションハンター "wikilink")
+    本作から登場したキャラクター。
+
+オプションが最大数（4個）装備された状態で一定時間進行すると警告音が鳴り、[オプションハンター](https://ja.wikipedia.org/wiki/オプションハンター "wikilink")が出現する。回避に失敗すると、触れられた部分から先のオプションを奪い去られ戦力が低下する。自機のいかなる攻撃でも破壊できない。自機に対して[当たり判定](https://ja.wikipedia.org/wiki/当たり判定 "wikilink")がないので重なってもミスにはならないが、オプションを配置を含めた緻密な設計図に基づくゲーム攻略が求められる中では致命的な妨害を受けることになるため、以下のような対策が多く取られる。なお、ステージとステージの切り替え完了直前に出現した場合のみ、タイミングによっては消滅することもある。
+
+  - 空中戦などの攻撃のゆるいところでオプションハンターが出現するようにタイミングを調節する。
+  - オプションハンターに1つだけオプションを取らせて被害を最小限に抑える。
+  - はじめからオプションを3個までしか装備しない。
+
+<!-- end list -->
+
+  -
+    元々オプションハンターのアイディアは、ゲーム上級者と初心者とのバランスを取るために、開発スタッフの高取利明が開発の最後に考え出したものであり、製作アップする1週間前に追加された。そのため、高取がデザイナーに口頭で説明して、短期間で製作してもらったため、キャラのパターンが少ないうえに、[ロケテストにも入っていなかった](https://ja.wikipedia.org/wiki/ロケーションテスト "wikilink")\[7\]。
+
+## 移植版
+
+※表における「KDE」は、現在コナミの家庭用ゲームソフト事業を担うグループ会社「[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")」の英略称。
+
+### 一覧
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売日</p></th>
+<th><p>対応機種</p></th>
+<th><p>開発元</p></th>
+<th><p>発売元</p></th>
+<th><p>メディア</p></th>
+<th><p>型式</p></th>
+<th><p>売上本数</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>グラディウスII</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファミリーコンピュータ" title="wikilink">ファミリーコンピュータ</a></p></td>
+<td><p>コナミ開発2課</p></td>
+<td><p>コナミ</p></td>
+<td><p>2<a href="https://ja.wikipedia.org/wiki/メガビット" title="wikilink">メガビット</a>+64キロRAM<br />
+<a href="../Page/ロムカセット.md" title="wikilink">ロムカセット</a><ref name="famimaga200">{{Cite journal |和書</p></td>
+<td><p>author =</p></td>
+<td><p>authorlink =</p></td>
+<td><p>title = 5月10日号特別付録 ファミコン ロムカセット オールカタログ</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>グラディウスII -GOFERの野望-</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/X68000" title="wikilink">X68000</a></p></td>
+<td><p>コナミ</p></td>
+<td><p>コナミ</p></td>
+<td><p>5インチ2HD<br />
+<a href="../Page/フロッピーディスク.md" title="wikilink">フロッピーディスク</a>2枚組</p></td>
+<td><p>RA957</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>グラディウスII -GOFERの野望-</p></td>
+<td></td>
+<td><p><a href="../Page/PCエンジン.md" title="wikilink">PCエンジン</a><a href="../Page/SUPER_CD-ROM2.md" title="wikilink">SUPER CD-ROM²</a></p></td>
+<td><p>コナミ開発三部</p></td>
+<td><p>コナミ</p></td>
+<td><p><a href="../Page/CD-ROM.md" title="wikilink">CD-ROM</a></p></td>
+<td><p>KMCD2003</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>グラディウス DELUXE PACK</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_(ゲーム機)" title="wikilink">PlayStation</a><br />
+<a href="../Page/セガサターン.md" title="wikilink">セガサターン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コナミコンピュータエンタテインメント東京" title="wikilink">KCET</a></p></td>
+<td><p>コナミ</p></td>
+<td><p>CD-ROM</p></td>
+<td><p>SLPS-00303<br />
+T-9509G</p></td>
+<td><p>-</p></td>
+<td><p>『<a href="../Page/グラディウス_(ゲーム).md" title="wikilink">グラディウス</a>』とのカップリング</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>グラディウスDELUXE PACK<br />
+for Windows</p></td>
+<td></td>
+<td><p><a href="../Page/Microsoft_Windows_95.md" title="wikilink">Windows 95</a></p></td>
+<td><p>コナミ</p></td>
+<td><p>コナミ</p></td>
+<td><p>CD-ROM</p></td>
+<td><p>ME203-J1</p></td>
+<td><p>-</p></td>
+<td><p>『グラディウス』とのカップリング</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>グラディウスII -GOFERの野望-</p></td>
+<td><p>{{vgrelease new|JP|2004年2月19日<ref>{{Cite web |author=津田啓夢 |date=2004-02-19 |url=<a href="https://k-tai.watch.impress.co.jp/cda/article/news_toppage/17690.html">https://k-tai.watch.impress.co.jp/cda/article/news_toppage/17690.html</a> |title=シューティングゲーム「グラディウスII」がBREWで登場</p></td>
+<td><p>ケータイ Watch]] |publisher=<a href="https://ja.wikipedia.org/wiki/インプレス" title="wikilink">インプレス</a> |language= <a href="../Page/日本語.md" title="wikilink">日本語</a> |accessdate=2019-04-06}}</ref>[8]}}</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Java" title="wikilink">Java</a>および<a href="https://ja.wikipedia.org/wiki/BREW" title="wikilink">BREW</a>対応機種<br />
+（<a href="https://ja.wikipedia.org/wiki/EZアプリ" title="wikilink">EZアプリ</a>）</p></td>
+<td><p>コナミ</p></td>
+<td><p>コナミオンライン</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ダウンロード販売" title="wikilink">ダウンロード</a></p></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>グラディウスII -GOFERの野望-</p></td>
+<td></td>
+<td><p>505i/506i/900iシリーズ以上<br />
+（<a href="https://ja.wikipedia.org/wiki/iアプリ" title="wikilink">iアプリ</a>）</p></td>
+<td><p>コナミ</p></td>
+<td><p>コナミオンライン</p></td>
+<td><p>ダウンロード<br />
+（コナミネットDX）</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/グラディウス_ポータブル" title="wikilink">グラディウス ポータブル</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PlayStation Portable</a></p></td>
+<td><p>Konami Software Shanghai</p></td>
+<td><p>コナミ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ユニバーサル・メディア・ディスク" title="wikilink">UMD</a></p></td>
+<td><p>VP-013J1</p></td>
+<td><p>-</p></td>
+<td><p>『グラディウス』、『<a href="https://ja.wikipedia.org/wiki/グラディウスIII_-伝説から神話へ-" title="wikilink">グラディウスIII -伝説から神話へ-</a>』<br />
+『<a href="https://ja.wikipedia.org/wiki/グラディウスIV_-復活-" title="wikilink">グラディウスIV -復活-</a>』、『<a href="https://ja.wikipedia.org/wiki/グラディウス外伝" title="wikilink">グラディウス外伝</a>』とのカップリング</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>グラディウスII</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Windows</a></p></td>
+<td><p>コナミ</p></td>
+<td><p>アイレボ</p></td>
+<td><p>ダウンロード<br />
+(<a href="https://ja.wikipedia.org/wiki/i-revo" title="wikilink">i-revo</a>)</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>ファミリーコンピュータ版の移植</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>グラディウスII -GOFERの野望-</p></td>
+<td></td>
+<td><p><a href="../Page/ウィルコム.md" title="wikilink">ウィルコム</a><a href="https://ja.wikipedia.org/wiki/W-ZERO3" title="wikilink">W-ZERO3</a>シリーズ専用</p></td>
+<td><p>KDE</p></td>
+<td><p>コナミオンライン</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>グラディウス ポータブル<br />
+コナミ・ザ・ベスト</p></td>
+<td></td>
+<td><p>PlayStation Portable</p></td>
+<td><p>Konami Software Shanghai</p></td>
+<td><p>KDE</p></td>
+<td><p>UMD</p></td>
+<td><p>VP-013J2</p></td>
+<td><p>-</p></td>
+<td><p>廉価版</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>グラディウスII</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Wii" title="wikilink">Wii</a></p></td>
+<td><p>KDE</p></td>
+<td><p>KDE</p></td>
+<td><p>ダウンロード<br />
+（<a href="https://ja.wikipedia.org/wiki/バーチャルコンソール" title="wikilink">バーチャルコンソール</a>）</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>ファミリーコンピュータ版の移植。<br />
+2019年1月31日　配信・販売終了</p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>グラディウスII -GOFERの野望-</p></td>
+<td></td>
+<td><p>Wii</p></td>
+<td><p>KDE</p></td>
+<td><p>KDE</p></td>
+<td><p>ダウンロード<br />
+（バーチャルコンソール）</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>PCエンジン版の移植。<br />
+2019年1月31日　配信・販売終了</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>グラディウスII -GOFERの野望-</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Yahoo!ケータイ" title="wikilink">Yahoo!ケータイ</a><br />
+（<a href="https://ja.wikipedia.org/wiki/S!アプリ" title="wikilink">S!アプリ</a>）</p></td>
+<td><p>KDE</p></td>
+<td><p>コナミオンライン</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>グラディウスII -GOFERの野望-</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Windows_Mobile" title="wikilink">Windows Mobile</a></p></td>
+<td><p>KDE</p></td>
+<td><p>コナミオンライン</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>前・後編に分けて配信</p></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p>グラディウスII -GOFERの野望-</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_3" title="wikilink">PlayStation 3</a><br />
+PlayStation Portable<br />
+(<a href="https://ja.wikipedia.org/wiki/Play_Station_Portable" title="wikilink">Play Station Portable</a>)</p></td>
+<td><p>KDE</p></td>
+<td><p>KDE</p></td>
+<td><p>ダウンロード<br />
+（<a href="https://ja.wikipedia.org/wiki/ゲームアーカイブス" title="wikilink">ゲームアーカイブス</a>）</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>PCエンジン版の移植</p></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p>グラディウスII -GOFERの野望-</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a><br />
+(Play Station Portable)</p></td>
+<td><p>-</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハムスター_(ゲーム会社)" title="wikilink">ハムスター</a></p></td>
+<td><p>ダウンロード<br />
+（<a href="https://ja.wikipedia.org/wiki/アーケードアーカイブス" title="wikilink">アーケードアーカイブス</a>）</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>アーケード版の移植、海外版『VULCAN VENTURE』も収録</p></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アニバーサリーコレクション" title="wikilink">アーケードクラシックス<br />
+アニバーサリーコレクション</a></p></td>
+<td><p>2019年4月18日<br />
+2019年4月18日<br />
+2019年4月18日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Nintendo_Switch" title="wikilink">Nintendo Switch</a><br />
+Playstation 4<br />
+<a href="https://ja.wikipedia.org/wiki/Xbox_One" title="wikilink">Xbox One</a><br />
+<a href="https://ja.wikipedia.org/wiki/Steam" title="wikilink">Steam</a></p></td>
+<td><p>ハムスター<br />
+<a href="https://ja.wikipedia.org/wiki/ゴッチテクノロジー" title="wikilink">ゴッチテクノロジー</a></p></td>
+<td><p>KDE</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>本作も含むアーケードゲーム8作品を収録したオムニバスソフトの1作として収録。<br />
+アップデートにより英語版(VULCAN VENTURE)が追加。</p></td>
+</tr>
+</tbody>
+</table>
+
+### ファミリーコンピュータ版
+
+ファミリーコンピュータ版（以下「ファミコン版」「FC版」などと略記する場合あり）は数ある他機種版の中でも最初にリリースされた衆目認知度の高いバージョンだが、前述した通り原典をベースにアレンジした要素が多々存在するため、この副々節にて詳説する。
+
+#### 概要
+
+[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")（以下、FC）版グラディウスシリーズの3作目である。
+
+BGM（一部の楽曲を除く）や、ステージ構成などが大幅に変更されており、アーケード版とは別物のオリジナル要素が強い作品となっている。副題である「GOFERの野望」は付けられておらず、単に『GRADIUS II』という名称で発売されている。アーケード版発売（3月）から、FC版ソフト発表が夏頃、発売が同年12月と当時としても異例の早さの移植だった。キャッチコピーは「ファンタジー、創世。」である。 移植はAC版のスタッフの協力の下、梅崎重治などが手がけた。ゲーム雑誌の製作者のインタビューでは、「ハードによる多くの制約事項との戦いだったが、大きく難航したのはステージ構成や難易度の低下など企画・方向性部分で、他については過去のノウハウを生かしたため、さほどではなかった」とされている。アーケードとの違いについては「ファンには申し訳ない」という旨の発言も残している。梅崎は当時『[魂斗羅](https://ja.wikipedia.org/wiki/魂斗羅 "wikilink")』の移植も手がけており、「そちらの方がきつかった」とも発言している。
+
+一覧表に記載した通り、2007年4月24日から2019年1月31日まで、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")版[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")にて配信・販売（要500Wiiポイント）されていたが、現在は終了。（既に購入しストレージデバイスなどに記録したものについては、当面はプレイ可能）
+
+#### ゲーム内容
+
+FC版はハードウェア性能や当時の開発技術の限界から1作目『グラディウス』ではオプションは2つまで、『沙羅曼蛇』ではオプションは3つまでしか装備できずボイスも再現されていなかったが、本作ではオプションのスプライトサイズを交互に切り替える事で4つ装備可能とし、一部のパワーアップ時のボイスも内蔵音源の[DPCM](https://ja.wikipedia.org/wiki/DPCM "wikilink")を使用して再現されている（2way Missile→Missile、Ripple Laser→Laserの様に基本である1番の装備名でのみ発音）。ゴーファーの発声もこれらの組み合わせにより演出される。
+
+スプレッドボムはグラディウスシリーズにおいて弾頭と爆風に1回ずつ攻撃判定が存在し爆風で敵が見えなくなる特徴があるが、本作では爆風が出ている限り攻撃判定が連続で発生し続ける上に爆風もスプライトの点滅で表現されるのである程度状況が確認可能な物であり、他作品に比べ非常に強力な装備となっている。
+
+レーザーはスプライトのデザインを破線状にした物を高速に明滅させることで長さを実現し、パワーアップゲージは走査位置がゲージの部分に来たときにBGパターンを入れ替えて表示させている（[ラスタースクロール\#用法](https://ja.wikipedia.org/wiki/ラスタースクロール#用法 "wikilink")を参照）。
+
+本作はAC版と違ってゲームスタート時のタイプセレクト画面ではバリアセレクトができず、バリアは全方位防御で耐久力5発分のフォースフィールドのみになっている。また、各装備のイメージカラー分けも省略されている。 レーザー・ダブル系は2段階のパワーアップが可能になっており、2段階目は弾速が上がることで連射性能が向上する。また、オプションを4つ装備した後もゲージは選択不可の状態にはならず、さらにカプセルを回収してゲージ選択すると一定時間オプションが自機の周囲を時計回りに回転するローリングオプションになるといった追加要素もある。
+
+オプションハンターは登場せず、難易度も2周以上でもほとんど上がらないが、自機の当たり判定が見た目の割りに大きく設定されている。また、ボスのタイムアウトによる自爆がない。
+
+自機などの一部のグラフィックは前作の『沙羅曼蛇』から流用している。そのためビックバイパーが双発機になっている一方で、エンディングシーンではAC版を再現しているため単発機になっている。このほか『沙羅曼蛇』の名残なのか、2人プレイの時は、1P側はビックバイパー（機体の色は青、オプションは赤）だったのに対し、2P側はロードブリティッシュ（機体の色は赤、オプションは青）になっている。
+
+シューティングゲームに不慣れなユーザーも多いFC向けのため、難易度を落とし開発された。『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』では2週に渡り全ステージの写真を掲載する完全特集を組むなど、どのゲーム雑誌も、年末の目玉ソフトとして扱う一方、高難易度シューティングゲームとしての特集を組んでいる。なお、最終ボスのゴーファーだけは、各誌黒塗りなどの修正が入っていた。
+
+開発資料のみだが、容量の都合で没になったステージや敵キャラクターが存在する\[9\]。
+
+#### 設定
+
+##### ストーリー
+
+AC版よりも詳細なストーリーが設定された。 メタリオン星系第一惑星「GRADIUS（グラディウス）」。かつてバクテリアンとの熾烈な戦いも、今では遥か過去のものとなり、歴戦の戦士ビックバイパーも、その翼を休め永遠の眠りについたかに見えた。
+
+グラディウスを含む4つの惑星が10000年に一度の惑星直列を迎えた時、全てが始まった。4つの惑星を中心に出現した暗黒ガス雲により、周囲のスペースプラントは燃え盛かり、謎の部隊「ゴーファー」によるグラディウスへの攻撃が開始された。惑星グラディウス史記Iには、これを示唆するような記述があった。
+
+##### ステージ構成
+
+<table>
+<thead>
+<tr class="header">
+<th><p>面</p></th>
+<th><p>内容</p></th>
+<th><p>解説</p></th>
+<th><p>使用曲</p></th>
+<th><p>ボス</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td></td>
+<td><p>ステージ前半は上下無限スクロールし、後半には固定スクロールだが上下からプロミネンスが吹き出すエリア（『沙羅曼蛇』のステージ3と酷似）が追加されている。</p></td>
+<td><ul>
+<li>TABIDACHI（空中戦）</li>
+<li>Burning Heat（ステージ）</li>
+<li>The Final Enemy（ボス戦）</li>
+</ul></td>
+<td><ul>
+<li><strong>フェニックス</strong></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td></td>
+<td><p>網状の障害物を排除しつつ、奇怪な生命体や触手を相手にする。AC版と違い触手は破壊可能。AC版ではステージボスだったビッグアイは中ボスになり、代わりにFC版『沙羅曼蛇』のオリジナルボスだったギーガがボスとなっている。ただし向きが横向きになっており攻撃方法も前作とは全く異なる。</p></td>
+<td><ul>
+<li>TABIDACHI（空中戦）</li>
+<li>Fortress（ステージ）</li>
+<li>The Final Enemy（ビッグアイ、ギーガ戦）</li>
+</ul></td>
+<td><ul>
+<li>ビッグアイ</li>
+<li><strong>ギーガ</strong></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td></td>
+<td><p>AC版の3面と4面を統合したようなステージ。前半は上下に地殻のある火山地帯。後半は多数の水晶が出現する。後半では処理落ちが頻繁に起きる。</p></td>
+<td><ul>
+<li>TABIDACHI（空中戦）</li>
+<li>Heavy Blow（ステージ前半）</li>
+<li>Dead End（ステージ後半）</li>
+<li>The Final Enemy（ボス戦）</li>
+</ul></td>
+<td><ul>
+<li><strong>クリスタルコア</strong></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td></td>
+<td><p>破壊可能なイオンリングを放出する石像群を破壊しつつ進む。モアイはAC版同様赤くはなるが、攻撃はあまり変化がない。</p></td>
+<td><ul>
+<li>TABIDACHI（空中戦）</li>
+<li>The Old Stone Age（ステージ）</li>
+<li>The Final Enemy（ボス戦）</li>
+</ul></td>
+<td><ul>
+<li>ジャンピングモアイ</li>
+<li><strong>ビッグモアイ</strong></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td></td>
+<td><p>過去シリーズのボスと連戦を繰り広げる。イントルーダ、ガウは登場しない。ステージ開始直後に前衛としてパワーカプセルを所持する敵が大量に現れる。</p></td>
+<td><ul>
+<li><p>（ザブ、ビッグコア戦）</p></li>
+<li><p>（ゴーレム、テトラン、ビッグアイ戦）</p></li>
+<li>The Final Enemy（カバードコア戦）</li>
+</ul></td>
+<td><ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>要塞</p></td>
+<td><p>前半は狭い基地内での敵の総攻撃。中盤は高速スクロール地帯を越えて中ボス戦を挟み、後半に出現するクラブはAC版と違ってステージボスであり、破壊可能。</p></td>
+<td><ul>
+<li>TABIDACHI（空中戦）</li>
+<li>Over Heat（ステージ前半）</li>
+<li>The Final Enemy（中間要塞戦、ステージ後半、クラブ戦）</li>
+</ul></td>
+<td><ul>
+<li>デモス（中間要塞）</li>
+<li><strong>クラブ</strong></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>細胞</p></td>
+<td><p>巨大な生命の内部のようなステージ。地形や敵の攻撃方法など全体的に沙羅曼蛇のステージ1と酷似している。</p></td>
+<td><ul>
+<li><p>（ステージ）</p></li>
+<li>Take Care!（ゴーファー戦）</li>
+</ul></td>
+<td><ul>
+<li><strong>ゴーファー</strong></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+なお、5面のビッグアイは2面のビッグアイと名前は一緒だが、沙羅曼蛇で最終ボスとして登場した別物。また、前者のビッグアイには稲妻攻撃時に「[パカパカ](https://ja.wikipedia.org/wiki/パカパカ "wikilink")」(効果音は悪魔城ドラキュラの全滅アイテムを取得した時と同じような効果音)、すなわち光の明滅による演出があり、[ポケモンショック](https://ja.wikipedia.org/wiki/ポケモンショック "wikilink")類似の状態が発生するおそれがあるためVC版ではこれが修正されている。
+
+#### 音楽
+
+FC版の作曲・編曲者は「その筋森本（森本ゆきえ）」である。音楽の使われ方もアーケード版とは異なり、空中戦BGMはアーケード版では1面の空中戦専用だった "TABIDACHI" が2面以降も引き続き使われている。またボスBGMにはアーケード版では最終面後半のBGM "The Final Enemy" が使われ、アーケード版のボスBGM "Take Care\!" はラスボスのゴーファー専用となっている。
+
+さらに2面、3面、6面、7面はオリジナルのBGMとなっている。エンディングBGMは中間部が原曲作曲者である古川もとあきにより加作されている\[10\]このFC版ロングバージョンは『[極上パロディウス 〜過去の栄光を求めて〜](https://ja.wikipedia.org/wiki/極上パロディウス_〜過去の栄光を求めて〜 "wikilink")』のエンディングBGMとしてもアレンジされている。また2008年にWiiwareで配信された『[グラディウス リバース](https://ja.wikipedia.org/wiki/グラディウス_リバース "wikilink")』の1面、4面のBGMにそれぞれ本作の3面、7面のBGMが用いられている。効果音についても『沙羅曼蛇』と初代『グラディウス』から一部流用している。
+
+なお、BGM、効果音共にFC内蔵音源のみで演奏されており、カセット内に拡張音源は搭載されていない。
+
+### その他の移植版
+
+  - 家庭用ゲーム機・パソコンへの移植版
+    FC版以降にリリースされた版は、概ねAC版に忠実な移植を目指し制作されているが、セガサターン・プレイステーション（1）の頃までにリリースされた版では横方向の解像度がオリジナル版より幾ばくか足りない（当時は現代のゲーム機と異なり、解像度をフレキシブルに設定できなかった）問題があったため、画面構成に何らかのアレンジが加わっている。
+      - [X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")版
+        画面の[解像度](https://ja.wikipedia.org/wiki/解像度 "wikilink")がオリジナルと違う（256×256ドットモード使用）が、ブート画面のCPU・メモリチェック画面や、安全地帯（[ゲーメスト\#ゲーメスト出典の新語](https://ja.wikipedia.org/wiki/ゲーメスト#ゲーメスト出典の新語 "wikilink")参照）の再現などの努力が行われている。オリジナル基板ではMPU（[MC68000](../Page/MC68000.md "wikilink")）が2基搭載されていたが、本移植版ではMPUが1基であるにも拘らず、ほとんどストレスなく動作する。[FD](../Page/フロッピーディスク.md "wikilink")2枚での供給で、[HDDインストールや](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")、2MB以上の[メモリ搭載の機種で全データをメモリ上にロードすることに対応していた](../Page/記憶装置.md "wikilink")。これにより、ゲーム中はFDのロード時間から解放され、快適にプレイすることができた。オプション設定でロゴを海外版である『VULCAN VENTURE』に切り替えることにより、ゲームオーバー時にコンティニューすることが可能。[MIDI](../Page/MIDI.md "wikilink")楽器（[ローランド](../Page/ローランド.md "wikilink")MT-32系、SC-55系）にも対応している。当時としては驚異的な移殖度の高さを誇り、開発者は『「マニアを唸らせる」ことを目指して開発した』とゲームディスク内のドキュメントで語っているが、実際はオプションハンターの出現テーブルがバラバラで、アーケードのパターンが通用しないために完全移植とは言い難い面もある。移植担当のプログラマーは[モアイ佐々木](https://ja.wikipedia.org/wiki/モアイ_\(グラディウス\) "wikilink")。ゲームのロジック専門ではなく、本来はサウンド課のサウンドドライバ開発担当だった。
+      - [PCエンジン](../Page/PCエンジン.md "wikilink")[SUPER CD-ROM<sup>2</sup>版](../Page/SUPER_CD-ROM2.md "wikilink")
+        基本はアーケード版に準じた移植だが、オリジナルステージとして遺跡ステージを追加して全9ステージ構成となった（裏技でアーケード仕様のモードあり）。また、新規制作によるオープニングデモやEDが各難易度に合わせて用意されていたりと細かいチューニングもされている。
+        8Bit機への移植ながら、高い技術力とCD-ROMの特性を活かして当時としては驚異的な移植度を実現した。BGが1面しかないPCエンジンのスペックでは難しいと思われた、ゲージのダイレクト表示や多重スクロールもスプライト配置やBG書き替えによってほぼ再現した。ただし、GOFER艦内など背景が複雑に描画されたステージなどは一部再現されていない。高速迷路は2重スクロール処理がしやすい様に奥の背景描写が簡略化され、またエイリアンステージも微細ながら背景に差違がある。
+        BGMはアーケード版を録音したものを、[RSS（Roland Sound Space）の](../Page/ローランド.md "wikilink")3次元音響処理技術で加工され収録したものが使用され、アーケード版よりも高品質なものを実現した。各トラックの収録時間はゲーム中にループしないよう長めに収録されている。一般のCDプレイヤーでもサウンドトラックは通常のCD再生でもBGMを再生可能なのでサントラとしても利用できた。SE関連は内蔵音源での制作になり、ボイス関係もアーケード版のものではなく、新規に録音されたものが使用され、追加された遺跡ステージやEDなどでは新規ボイスも使用された。
+        [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月20日](../Page/10月20日.md "wikilink")から[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")にて[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[PlayStation Portable用に配信されている](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。（800円）。また[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[11月13日](../Page/11月13日.md "wikilink")からWii版[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")で配信された。（現在はFC版同様、配信・販売終了）
+        [2020年](../Page/2020年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")、KDEがPCエンジン系のソフトを約50作[プリインストール](https://ja.wikipedia.org/wiki/プリインストール "wikilink")してリリースする予定の復刻系テレビゲーム機・[PCエンジン miniは](https://ja.wikipedia.org/wiki/PCエンジン_mini "wikilink")、外見こそは初代PCエンジンを模しているがCD-ROM<sup>2</sup>ソフトも数作収録されており、その中の一つとして、本作SUPER CD-ROM<sup>2</sup>版が収録される。
+        {| border="1" class="wikitable"
+
+|- \! 面 \! 内容 \! 解説 \! 使用曲 \! ボス
+
+|- \! 6 |  | style="min-width:10em;" | 砂漠の遺跡の内部を進むステージ。MSX用ソフト『グラディウス2』のステージ3に近い。ボスのデザートコアは2形態あるという珍しいコアである。 |
+
+  - A Shooting Star（空中戦）
+  - Deprived Sanctity（ステージ）
+  - Take Care\!（ボス戦）
+
+|
+
+  - デザートコア
+
+|}
+
+:; [プレイステーション](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")（グラディウス DELUXE PACK）
+
+:: 『グラディウス』と本作の2作品をカップリングで収録した移植版。画面の横サイズを拡大して合わせたり、処理落ちの有無を選択できるなどの設定ができる。また、ゲーム内容に沿って3DCGで描かれたオープニングムービーも収録されていた。尚、パワーアップのボイス関連はアーケード版のものではなく、新規録音されたものが使用されている。[PlayStation 2で起動すると](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『グラディウス』は問題なく動作するが『グラディウスII』は正常に動作しない(とてもスローな状態になる)。[PlayStation 3では](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")『グラディウスII』も問題なく動作する。PS版ではステージの切り替え毎に読み込み時間が発生する。
+
+:: 地面側の砲台が弾を撃たないというバグ（通称「下砲台バグ」）が存在する。
+
+:; [セガサターン](../Page/セガサターン.md "wikilink")（グラディウス DELUXE PACK）
+
+:: プレイステーション版とほぼ同等の内容で同時発売された移植版。画面モードはグラディウスと同じ3種類。オープニングムービーの画質は若干劣るものの、ゲーム内容にほとんど差異は無い。SS版はステージの読み込みをほぼ感じさせないシームレスな出来となっている。オマケとして、ビックバイパーの[ペーパークラフト](../Page/ペーパークラフト.md "wikilink")が同梱されていた。PCで読む込める後書きテキストや壁紙が収録されている。
+
+:: 通称「下砲台バグ」についても、プレイステーション版と同じく存在する。
+
+:; [Windows95](https://ja.wikipedia.org/wiki/Windows95 "wikilink")（グラディウスDELUXE PACK for Windows95）
+
+:: プレイステーション版とほぼ同等の内容の移植版。X68000版に続くPCでの忠実移植版でもある。オマケとして、オープニングムービーのムービーファイルと、スクリーンセーバー集が収録されていた。
+
+:: [Pentium](https://ja.wikipedia.org/wiki/Pentium "wikilink") 90MHz以上・VRAM2MB以上必須。MMX Pentium 166MHz未満のスペックだと多重スクロールする面でBGMが濁って発声されるが、後述の[ビデオカード](../Page/ビデオカード.md "wikilink")の問題がない限りプレイに支障はない。また、ビデオメモリが2M未満だと『[グラディウスIII](https://ja.wikipedia.org/wiki/グラディウスIII_-伝説から神話へ- "wikilink")』を髣髴させる動作速度になる。
+
+:: Windows XP以降では正常動作しない。[PC仮想化ソフト上のWindows](https://ja.wikipedia.org/wiki/仮想機械 "wikilink")9x系OS上で動作させる事は可能だが、要調整。
+
+:; [PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")（『[グラディウス ポータブル](https://ja.wikipedia.org/wiki/グラディウス_ポータブル "wikilink")』に収録）
+
+:: オプションモードでセミオートパワーアップ、自機の当たり判定サイズの変更、画面サイズの変更が可能になっている。また、ゲームプレイ中にポーズメニューからセーブすることでいつでも中断が可能。ロード時はパワーアップを維持したまま復活ポイントから再開できる。ミュージックギャラリーではAC版のみならずX68000版のBGMも聴くことができる。パワーアップのボイス関連はプレイステーション版より新録された同様の物が使用されている。ただし、1面の最初に入る「Destroy them all\!」の演出の音声がカットされている\[11\]。
+
+:; [PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")（[アーケードアーカイブス](https://ja.wikipedia.org/wiki/アーケードアーカイブス "wikilink")）
+
+:: 日本版と国外版（VULCAN VENTURE)を同時収録。ゲーム内オプションのこだわり設定でバージョンの変更が可能になっている。
+
+:; [Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、PlayStation 4、[Xbox One](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")、[Steam](https://ja.wikipedia.org/wiki/Steam "wikilink")（『[アーケードクラシックス アニバーサリーコレクション](https://ja.wikipedia.org/wiki/アニバーサリーコレクション "wikilink")』に収録）
+
+  -
+
+      -
+        2019年にコナミグループ50周年事業の一環として、往年のコナミソフトを幾つかのカテゴリに集めたオムニバスソフトシリーズ第1弾として、ダウンロード専売でリリース（マルチプラットホームソフトのため、PS4版はアーケードアーカイブスとは別にリリースされたことになる）。
+        収録作は本作と前作『グラディウス』ほか6作品（\[『[沙羅曼蛇](../Page/沙羅曼蛇.md "wikilink")』、『[ツインビー](../Page/ツインビー.md "wikilink")』、『[A-JAX](https://ja.wikipedia.org/wiki/A-JAX "wikilink")』、『[悪魔城ドラキュラ](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ_\(アーケードゲーム\) "wikilink")』、『[サンダークロス](https://ja.wikipedia.org/wiki/サンダークロス "wikilink")』、『[スクランブル](https://ja.wikipedia.org/wiki/スクランブル_\(ゲーム\) "wikilink")』。全てAC版）。
+
+  - その他のデジタルデバイスへの移植版
+    [携帯電話](../Page/携帯電話.md "wikilink")版、[ウィルコム](../Page/ウィルコム.md "wikilink")[W-ZERO3](https://ja.wikipedia.org/wiki/W-ZERO3 "wikilink")シリーズ専用版、[Windows Mobile版がある](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink")。また、MSXでは『[ゴーファーの野望 エピソードII](https://ja.wikipedia.org/wiki/ゴーファーの野望_エピソードII "wikilink")』という、本作をベースにしつつもほぼオリジナルと言っていい作品が発売されている。なお、[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")の『コナミGBコレクション VOL．3』には『グラディウスII』が収録されているが、これは91年発売のゲームボーイ用ソフト『[ネメシスII](https://ja.wikipedia.org/wiki/ネメシスII "wikilink")』の名称を変更したものである。
+
+## 音楽
+
+本作BGMの作曲は[コナミ矩形波倶楽部](https://ja.wikipedia.org/wiki/コナミ矩形波倶楽部 "wikilink")の[古川もとあき](https://ja.wikipedia.org/wiki/古川元亮 "wikilink")、プロフェット深見などが担当した。なお2面BGMの『Synthetic Life』は本来はMSX版『グラディウス2』の未使用曲だったものを用いている。またステージ1のBGMや空中戦のBGMなどが後のシリーズや同社の『[beatmania IIDX](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")』シリーズや『[GuitarFreaks](https://ja.wikipedia.org/wiki/GUITARFREAKS "wikilink") & [DrumMania](https://ja.wikipedia.org/wiki/Drummania "wikilink")』シリーズでも使用されているのをはじめ、たびたびアレンジバージョンが制作されている。
+
+  - サウンドトラック
+    本作の音源は以下の作品に収録されている。
+      - 『スペース・オデッセイ グラディウスII 〜GOFERの野望〜』（1988年7月21日、BY305202、[アポロン音楽工業](https://ja.wikipedia.org/wiki/バンダイ・ミュージックエンタテインメント "wikilink")）
+      - 『コナミ・ゲーム・ミュージック・コレクションVol.1』（1988年8月5日、K30X 7705、[キングレコード](https://ja.wikipedia.org/wiki/キングレコード "wikilink")）
+      - 『グラディウスIV 復活 オリジナル・ゲーム・サントラ Track25』（1999年3月5日、KICA-7947、[コナミミュージックエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")）
+      - 『[グラディウス アーケードサウンドトラック](https://ja.wikipedia.org/wiki/グラディウス_アーケードサウンドトラック "wikilink")』（2002年4月25日、KMCA155〜6、コナミミュージックエンタテインメント）
+
+## スタッフ
+
+### アーケード版
+
+  - ディレクター：町口浩康
+  - ゲーム・プログラマー：高取利明、K.TSUTSUI、T.HORIMOTO、鈴木彰、藤井龍夫
+  - グラフィック・デザイナー：M.YOSHIKATA、芦田裕行、M.IWAMOTO、A.NONAMI、角和邦昭
+  - サウンド・エディター：田坂真二、[古川元亮](https://ja.wikipedia.org/wiki/古川元亮 "wikilink")、松原健一, 深見誠一
+  - エンジニア：K.HASHIMA
+  - タイトル・デザイナー：F.SHIBUYA、J.TANAKA
+
+### ファミリーコンピュータ版
+
+  - プログラム：[梅崎重治](https://ja.wikipedia.org/wiki/梅崎重治 "wikilink")
+  - キャラクター・デザイン：村木摂
+  - サウンド・デザイン：前沢秀憲、森本ゆきえ
+  - ディレクター：梅崎重治、村木摂
+
+## 評価
+
+  - アーケード版
+    ゲーム誌『[ゲーメスト](../Page/ゲーメスト.md "wikilink")』の企画「第2回[ゲーメスト大賞](https://ja.wikipedia.org/wiki/ゲーメスト大賞 "wikilink")」において1位を獲得、その他にベストシューティング賞で1位、ベストグラフィック賞で3位、ベストVGM賞で2位、ベストエンディング賞で1位、年間ヒットゲームで3位、ベストキャラクター賞ではビックバイパーが9位を獲得した\[12\]。
+    [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")にそれまで発売されていたアーケードゲーム全てを対象に行われた[ゲーメスト](../Page/ゲーメスト.md "wikilink")読者の人気投票によるゲーメストムック『ザ・ベストゲーム』では8位を獲得した\<ref name="bestgame_16
+
+"\></ref>。同誌では、「横スクロールシューティングの秀作」、「4つのパワーメーターの中から1つを選べるようになり、戦略性が増した。元祖にひけをとらない完成度の高いゲーム」、「発売後もプレイヤーの圧倒的な支持を受け、大ヒットした」と評している\[13\]。
+
+  -
+    [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にそれまで発売されていたアーケードゲーム全てを対象に行われたゲーメスト読者の人気投票によるゲーメストムック『ザ・ベストゲーム2』では、「現在では多くのゲームで自機を何種類かの中から選ぶことが出来るが、シューティングでこのスタイルを確立したのはグラディウスIIである」、「グラフィックや演出、ゲームの展開は、サラマンダ的な派手さが加味されている」、「発売直後から大ヒットとなった。筐体の周りにはギャラリー、順番待ちのプレイヤーが集まり、人の多いゲームセンターでは並ばなければなかなかプレイ出来ない状況が続く程の人気で、88年度のゲーメスト大賞受賞作となっている」、「2週目からはお約束の撃ち返し弾が発生する。（中略）1匹のザコ敵から5〜6発の撃ち返し弾がボロボロと『時間差』で発生する異様な光景は、マニアを恐怖させた」と紹介されている\[14\]。
+  - ファミリーコンピュータ版
+    ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』のクロスレビューでは合計31点（満40点）でシルバー殿堂入りを獲得\[15\]、『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、22.32点（満30点）となっている\[16\]。同誌1991年5月10日号特別付録の「ファミコンロムカセット オールカタログ」では、「ファミコンの限界を超えたSTG」、「ゲームセンターでも人気が高く、ファミコンではどうなってしまうかと思ったが、その心配もどうやら取り越し苦労だったようだ。グラフィック、音楽、どれをとってもいい」と紹介されている\[17\]。
+    {|class="wikitable" style="font-size:85%; text-align:center; width:50%"
+
+|- \! 項目 | キャラクタ || 音楽 || お買得度 || 操作性 || 熱中度 || オリジナリティ \! 総合 |- \! 得点 | 3.75 || 4.05 || 3.57 || 3.72 || 3.80 || 3.43 \! 22.32 |}
+
+  - PCエンジン版
+    ゲーム誌『ファミコン通信』のクロスレビューでは合計28点（満40点）\[18\]、『[月刊PCエンジン](https://ja.wikipedia.org/wiki/月刊PCエンジン "wikilink")』では95・90・95・85・90の平均91点（満100点）、『[電撃PCエンジン](https://ja.wikipedia.org/wiki/電撃G's_magazine "wikilink")』では95・90・85・95の平均91.25点（満100点）、『[マル勝PCエンジン](https://ja.wikipedia.org/wiki/マル勝PCエンジン "wikilink")』では7・10・9・8の合計34点（満40点）、『[PC Engine FAN](https://ja.wikipedia.org/wiki/PC_Engine_FAN "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、24.77点（満30点）となっている\[19\]。また、この得点はPCエンジン全ソフトの中で20位（485本中、1993年時点）となっている\[20\]。同雑誌1993年10月号特別付録の「PCエンジンオールカタログ'93」では「前作のHuカードから、大容量のCD-ROM²になったため、業務用の全8ステージに加え、オリジナルのプロローグとステージを追加した。全9ステージで、難易度の高い白熱した戦いが繰り広げられる。また、オプションも新たに6種類加わり、ゲームバランスの絶妙さに一役買っている」と紹介されている\[21\]。
+    {|class="wikitable" style="font-size:85%; text-align:center; width:50%"
+
+|- \! 項目 | キャラクタ || 音楽 || お買得度 || 操作性 || 熱中度 || オリジナリティ \! 総合 |- \! 得点 | 3.93 || 4.58 || 4.13 || 4.29 || 4.30 || 3.54 \! 24.77 |}
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 外部リンク
+
+  - コナミデジタルエンタテインメント公式サイト
+
+<!-- end list -->
+
+  - [アーケードクラシックス アニバーサリーコレクション](https://www.konami.com/games/50th/ac/arcade/jp/ja/)
+  - [バーチャルコンソール グラディウスII（ファミコン版）](https://www.konami.com/games/jp/ja/products/dl_wii_gra2_fc_vc/)
+  - [バーチャルコンソール グラディウスII GOFERの野望](https://www.konami.com/games/jp/ja/products/dl_wii_gradius2_vc/)
+
+<!-- end list -->
+
+  - 他の企業などによる各ゲーム情報ページ
+
+<!-- end list -->
+
+  - [ハムスターアーケードアーカイブス公式サイト グラディウスII GOFERの野望](http://www.hamster.co.jp/arcadearchives/gradiusII.htm)
+
+  - [PlayStation公式サイト アーケードアーカイブス グラディウスII GOFERの野望](https://www.jp.playstation.com/software/title/jp0571cusa03606_00hamprdc000000001.html)
+
+  -
+  - [PCエンジンアーカイブス グラディウスII GOFERの野望](https://www.jp.playstation.com/software/title/jp0555npjj30031_000000000000000001.html)
+
+[Category:1988年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1988年のアーケードゲーム "wikilink") [Category:PCエンジン用ソフト](https://ja.wikipedia.org/wiki/Category:PCエンジン用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:X68000用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X68000用ゲームソフト "wikilink") [Category:アーケードアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:アーケードアーカイブス対応ソフト "wikilink") [Category:グラディウスシリーズ](https://ja.wikipedia.org/wiki/Category:グラディウスシリーズ "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink")
+
+1.
+2.
+3.
+4.
+5.  <http://sazanami.net/logs/200307.htm#20030719>
+6.
+7.
+8.
+9.  『グラディウスIIバイブル』、コナミ出版、1989年、49頁。
+10. CD『[コナミ・エンディング・コレクション](https://ja.wikipedia.org/wiki/コナミ・エンディング・コレクション "wikilink")』のライナーノーツ、[キングレコード](https://ja.wikipedia.org/wiki/キングレコード "wikilink")、1991年。
+11. 海外版には収録済。
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.

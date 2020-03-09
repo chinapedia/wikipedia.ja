@@ -1,0 +1,111 @@
+> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+
+
+**カローラII** （COROLLA II　カローラツー） は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")で生産されていた小型[乗用車](../Page/乗用車.md "wikilink")である。
+
+## 概要
+
+[カローラと](https://ja.wikipedia.org/wiki/トヨタ・カローラ "wikilink")[スターレットの中間に位置する](https://ja.wikipedia.org/wiki/トヨタ・スターレット "wikilink")[車格](https://ja.wikipedia.org/wiki/車格 "wikilink")である。
+
+名前が似ているカローラではなく、[ターセル](https://ja.wikipedia.org/wiki/トヨタ・ターセル "wikilink")/[コルサと共通の](https://ja.wikipedia.org/wiki/トヨタ・コルサ "wikilink")[プラットフォームを使っている](https://ja.wikipedia.org/wiki/プラットフォーム_\(自動車\) "wikilink")。三姉妹車の中で唯一[ハッチバック](../Page/ハッチバック.md "wikilink")のみでセダンの設定はない。
+
+実質的に、“カローラの2番目に、次に”という意向を持って、開発・設定されたという。
+
+## 歴史
+
+### 初代 L2\#型（1982年 - 1986年）
+
+  - 1982年5月、ターセル/コルサのフルモデルチェンジに合わせ、初代がデビュー。カローラ店では、ターセルを扱っていたが、[カローラとサイズが近いため](https://ja.wikipedia.org/wiki/トヨタ・カローラ "wikilink")、新しくオープンした[ビスタ店](https://ja.wikipedia.org/wiki/ビスタ店 "wikilink")（ビスタ店の無かった[沖縄県](../Page/沖縄県.md "wikilink")では[トヨタオート沖縄](https://ja.wikipedia.org/wiki/ネッツ店 "wikilink")）に譲ることとなった。しかし、[1980年代](../Page/1980年代.md "wikilink")初期において、カローラより少し小さい[マツダ・ファミリア](https://ja.wikipedia.org/wiki/マツダ・ファミリア "wikilink")・ハッチバック（BD型）の人気が沸騰しており、[カローラ店にも対抗できるハッチバック車は置くべきとされ](https://ja.wikipedia.org/wiki/トヨタカローラ店 "wikilink")、誕生した。サイズのエンジンは1,500cc（3A-U型）または1,300cc（2A-U型）を縦置きに搭載する前輪駆動車としては珍しい構成だった。最上級グレードである1500SRには可変ベンチュリー式シングルキャブ（3A-HU型）仕様が用意された。（前期のみ）CM出演者は[ジョン・マッケンロー](https://ja.wikipedia.org/wiki/ジョン・マッケンロー "wikilink")。
+  - [1984年](../Page/1984年.md "wikilink")1月 チェック模様シートとサイドストライプを装備した1300ウィンディDXを追加（マイナーチェンジでカタログモデルに昇格）（前年限定販売したDX-Sとほぼ同じ仕様）。
+  - 1984年8月 マイナーチェンジ。外観ではテールランプのデザインが大きな変更を受ける。1,500ccはMT車が可変ベンチュリー式ツインキャブを搭載した3A-SU型（90馬力）に、AT車は従来の3A-HU型（83馬力）が継続して採用された。また1,500cc車のグレードはSRのみに、さらに3ドアSRをベースにエアロパーツと60扁平タイヤを装備したSRスポーツパッケージが新たに追加された。
+  - カローラII専用（ターセル／コルサには設定なし）グレードとして、ビジネスユース向け最廉価モデルの3ドア1300CD（かつての乗用車でいう「STD（スタンダード）」に相当する）が2代目末期の[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで設定された。カタログでもオプション・諸元表のみで写真掲載は無し。シートは全ビニールレザーで[ラジオ](../Page/ラジオ.md "wikilink")、後窓デフォッガーも注文装備。
+
+ファイル:Toyota-CorollaIISRrear.JPG|後期型 リア
+
+{{-}}
+
+### 2代目 L3\#型（1986年 - 1990年）
+
+  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")5月 2代目にフルモデルチェンジ。キャッチフレーズは「**流星ライナー**」。初代が縦置きを前提とした設計であるA型エンジンを搭載していたのに対し、このクラスの主力として新たに投入されたE型エンジンに換装されたため、前輪駆動車として一般的なエンジン横置きとなる。ボディタイプは3ドアと5ドア、更に3ドアにはこのクラスとしては珍しい[リトラクタブルライトを装備したスポーティグレードの](../Page/リトラクタブル・ヘッドライト.md "wikilink")「3ドア・リトラSR」を新たに追加し、エアロ仕様であるスポーツパッケージも初代から継続してグレード設定された。CM出演者は前期・後期とも[原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")。
+  - 同年9月には1.5L [SOHC](../Page/SOHC.md "wikilink")12バルブ インタークーラー[ターボエンジン](../Page/ターボチャージャー.md "wikilink")（3E-TE型）を搭載した最上級グレード「リトラ・GPターボ」も登場。弟分であるスターレットと同じくHi/Lo切替え可能な2モードターボを採用。Hiモード時で110ps、Loモード時で97psを使い分けられた。歴代カローラIIシリーズの中でガソリンエンジンのターボ車は同モデルのみである。この2代目以降から1.5L[ディーゼルターボ](../Page/ディーゼルエンジン.md "wikilink")（1N-T型）エンジン搭載車も設定される。なおガソリンエンジンは全てSOHC12バルブ。車両型式は1.5Lガソリン車がEL31、1.3Lガソリン車がEL30、1.5Lディーゼル車がNL31となる。
+  - [1988年](../Page/1988年.md "wikilink")5月 マイナーチェンジ。79psだったキャブレター仕様の3E型に加え、[EFI](https://ja.wikipedia.org/wiki/EFI "wikilink")を採用し88psとパワーアップした3E-E型が新設グレードである「リトラ・SR-i」に追加搭載される。更に3ドアの一部グレードにシリーズ初となる電動キャンバストップ仕様が設定される。外観ではリトラグレードのフォグランプ設置位置がバンパー下部からリトラクタブルライト直下に変更される。GPターボは過給圧が見直され、Hiモード時で115ps、Loモード時で105psとなる。リトラクタブル・ヘッドライトの一部採用、ターボ搭載、キャンバストップ、1.3L車に希薄燃焼仕様エンジンの搭載など、歴代のシリーズ中で最もバリエーションに富むと共に、様々な試行がなされたモデルだったが、四輪駆動に関しては3代目以降の採用となっている。カローラIIの5ドアはこのモデルが最後となる。
+
+{{-}}
+
+### 3代目 L4\#型（1990年 - 1994年）
+
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")9月 3代目デビュー。キャッチフレーズは「**ごめんあさっせ。私の、新型カローラⅡ誕生**」。カローラIIはこの代より3ドアハッチバック専用の車種となる。エンジンは4E-FE型1.3L・100馬力と1.5L・105馬力5E-FE型（SR）及びハイパワー仕様115馬力の5E-FHE型(ZS)1.5Lでいずれも[DOHC](../Page/DOHC.md "wikilink")・EFIとなった（ディーゼル車は除く）。ディーゼル車は従来どおりの1.5Lの1N-T型・67馬力。先代とは一転して丸みを帯びた外観を持つのが特徴。[バブル景気](../Page/バブル景気.md "wikilink")の真っ最中に設計されたためか、室内インテリアの質感も高く、低価格車という印象を与えない。先代に引き続いて電動キャンバストップ仕様もラインナップされた。車両型式は1.5Lガソリン車の2WD仕様がEL43、同1.5Lガソリン車の四輪駆動仕様がEL45、1.3Lガソリン車がEL41、1.5Lディーゼル車がNL40となる。
+  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")8月 マイナーチェンジ。バンパー、フロントグリル、テールレンズなどの形状を変更。エアバッグのオプション設定、サイドドアビームの追設など。
+  - [1993年](../Page/1993年.md "wikilink")8月 一部改良。エアコンに新[冷媒](https://ja.wikipedia.org/wiki/冷媒 "wikilink")（R134a）の採用。
+  - [1994年](../Page/1994年.md "wikilink")8月\[1\] 生産終了。在庫対応分のみの販売となる。
+  - [1994年](../Page/1994年.md "wikilink")9月 4代目とバトンタッチして販売終了。
+
+{{-}}
+
+### 4代目 L5\#型（1994年 - 1999年）
+
+  - [1994年](../Page/1994年.md "wikilink")9月 4代目デビュー。丸みを帯びた先代とは一転してコストダウンに徹したモデルで、直線・平面基調の外観となった\[2\]。ガソリンエンジンは先代に設定されていた5E-FHE型が消滅し、4E-FE型と5E-FE型の2種類となった。シャーシはほぼ先代のキャリーオーバーである。車両型式は1.5Lガソリン車の2WD仕様がEL53、同1.5Lガソリン車の四輪駆動仕様がEL55、1.3Lガソリン車がEL51、1.5Lディーゼル車がNL50となる。
+  - [CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")は、前期は[小沢健二](../Page/小沢健二.md "wikilink")『[カローラIIにのって](https://ja.wikipedia.org/wiki/カローラIIにのって "wikilink")』。後期は[カジヒデキ](https://ja.wikipedia.org/wiki/カジヒデキ "wikilink")『[カローラIIに恋をした](https://ja.wikipedia.org/wiki/カローラIIに恋をした "wikilink")』。CM出演は今村直樹。
+  - [1996年](../Page/1996年.md "wikilink")8月　マイナーチェンジで中期型に。　衝突安全ボディ「[GOA](https://ja.wikipedia.org/wiki/GOA "wikilink")」を採用し、それまでオプションであった[ABSとデュアルSRS](https://ja.wikipedia.org/wiki/アンチロックブレーキシステム "wikilink")[エアバッグ](https://ja.wikipedia.org/wiki/エアバッグ "wikilink")が全車に標準装備された。樹脂ホイールキャップのデザイン変更とリアハッチの車名レターマークがメッキパーツに変更された以外の外観差は少なく、フロント側からの識別は難しい。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")　マイナーチェンジで後期型に。　マルチリフレクター式ヘッドランプやリアコンビランプのデザイン変更、クリアウインカー採用などエクステリアが大きく変更され、インテリアの質感もアップ、内装色に従来のグレーのほかにベージュが追加された。
+  - [モデリスタ](https://ja.wikipedia.org/wiki/モデリスタ "wikilink")がフロントとリヤ周りをクラシカルなデザインに大幅に変更した特装車**「モデリスタ　PX12ナポリ」**も少数ながら存在した。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")\[3\]末 [オーダーストップ](https://ja.wikipedia.org/wiki/オーダーストップ "wikilink")に伴い生産終了。以後は在庫のみの対応となる。
+  - [1999年](../Page/1999年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")\[4\] 事実上[スターレットとの統合後継車に当たる](https://ja.wikipedia.org/wiki/トヨタ・スターレット "wikilink")[ヴィッツが登場したが](https://ja.wikipedia.org/wiki/トヨタ・ヴィッツ "wikilink")、ビスタ店及びカローラ店ではヴィッツが扱われず（2004年のビスタ店・[ネッツ店](https://ja.wikipedia.org/wiki/ネッツ店 "wikilink")統合時に旧ビスタ店であるネッツ店でもヴィッツが扱われるようになる）、[ターセル](https://ja.wikipedia.org/wiki/トヨタ・ターセル "wikilink")/[コルサと共に販売を終了し](https://ja.wikipedia.org/wiki/トヨタ・コルサ "wikilink")､17年の歴史に幕を下ろした。なお、ターセル/コルサにのみ設定されていた4ドア[セダン](../Page/セダン.md "wikilink")の後継車でヴィッツをベースにした[プラッツは同様にカローラ店で扱われなかった](https://ja.wikipedia.org/wiki/トヨタ・プラッツ "wikilink")（トヨペット店・ネッツ店にて取り扱い）が、プラッツのさらに後継の[ベルタはトヨペット店だけでなくカローラ店でも扱われていた](https://ja.wikipedia.org/wiki/トヨタ・ベルタ "wikilink")。また、カローラの名前を冠したハッチバック車は[カローラFXの事実上の後継となる](https://ja.wikipedia.org/wiki/トヨタ・カローラFX "wikilink")[カローラランクスの登場](https://ja.wikipedia.org/wiki/トヨタ・カローラランクス "wikilink")（2001年）まで途絶えることとなる。
+
+ファイル:Toyota-corollaII L50zenki-front.jpg|1994年9月販売型 フロント ファイル:Toyota-corollaII L50zenki-rear.jpg|1994年9月販売型 リア ファイル:ModellistaPX12 Napoli.jpg|PX12ナポリ　フロント
+
+{{-}}
+
+## 姉妹車・派生車
+
+[ターセル](https://ja.wikipedia.org/wiki/トヨタ・ターセル "wikilink")/[コルサとは](https://ja.wikipedia.org/wiki/トヨタ・コルサ "wikilink")[姉妹車](https://ja.wikipedia.org/wiki/姉妹車 "wikilink")であるが、唯一カローラIIだけが4ドア[セダン](../Page/セダン.md "wikilink")はブランド終了（廃止）まで設定されなかった。L20型をベースとしたステーションワゴンとして開発されたのが[スプリンターカリブ](https://ja.wikipedia.org/wiki/トヨタ・スプリンターカリブ "wikilink")（初代のみで2代目からカローラ/スプリンターベースとなる）である。またL40型及び50型の[クーペ](../Page/クーペ.md "wikilink")バージョンとして[サイノスが](https://ja.wikipedia.org/wiki/トヨタ・サイノス "wikilink")、またL40型を元に[ガルウィングドア](../Page/ガルウィングドア.md "wikilink")クーペとして開発された[セラが](../Page/トヨタ・セラ.md "wikilink")、L50型を元にユニバーサルコミューターとして開発された[ラウムが発売された](https://ja.wikipedia.org/wiki/トヨタ・ラウム "wikilink")。
+
+## 改造車
+
+L40型及び50型はEP82/91型[スターレットとエンジン及び足回りが共通であったため](https://ja.wikipedia.org/wiki/トヨタ・スターレット "wikilink")、スターレットに設定されていた4E-FTE型エンジン（ターボチャージャー付き）やスターレット用の競技用サスペンションを移植された個体も若干存在した。中には5E-FE型エンジン搭載車両をベースに、4E-FTE型エンジンのターボチャージャーを移植した1,500ccのターボチャージャー搭載というものもあった。これらターボチャージャー移植車両は、車検証上は「EL4x改」あるいは「EL5x改」と表記された。
+
+## 脚注
+
+## 車名の由来
+
+[カローラの子分](https://ja.wikipedia.org/wiki/トヨタ・カローラ "wikilink")、あるいは[弟](https://ja.wikipedia.org/wiki/弟 "wikilink")/[妹](https://ja.wikipedia.org/wiki/妹 "wikilink")分である、という意味が「II」に込められており、「[ランドクルーザー II](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザープラド "wikilink")」などでの例と同様、元の車名のサブシリーズ（格下）の意味である。
+
+[コロナの上級車種として生まれた](https://ja.wikipedia.org/wiki/トヨタ・コロナ "wikilink")[マークIIは単に](../Page/トヨタ・マークII.md "wikilink")「II型」を表すもので、意味が異なる。
+
+## 関連項目
+
+  - [トヨタ・ターセル](https://ja.wikipedia.org/wiki/トヨタ・ターセル "wikilink") - 姉妹車
+  - [トヨタ・コルサ](https://ja.wikipedia.org/wiki/トヨタ・コルサ "wikilink") - 姉妹車
+  - [トヨタ・セラ](../Page/トヨタ・セラ.md "wikilink")
+  - [トヨタ・サイノス](https://ja.wikipedia.org/wiki/トヨタ・サイノス "wikilink")
+  - [トヨタ・ソルーナ](https://ja.wikipedia.org/wiki/トヨタ・ソルーナ "wikilink") - コルサ/ターセル/カローラII/サイノスの系譜を持った東南アジア市場専売車種
+  - [トヨタ・ラウム](https://ja.wikipedia.org/wiki/トヨタ・ラウム "wikilink")
+  - [トヨタ・ヴィッツ](https://ja.wikipedia.org/wiki/トヨタ・ヴィッツ "wikilink")
+  - [トヨタ・デュエット](https://ja.wikipedia.org/wiki/トヨタ・デュエット "wikilink") - [ダイハツ・ストーリア](https://ja.wikipedia.org/wiki/ダイハツ・ストーリア "wikilink")のOEMでカローラ店専売だった車種。カローラIIの実質的な後継車種との見方もある。
+  - [トヨタ・パッソ](https://ja.wikipedia.org/wiki/トヨタ・パッソ "wikilink") - 上記のデュエットの後継車種にあたる[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")と共同開発した現在のカローラ店専売車種
+  - [トヨタ・エティオスリーバ](https://ja.wikipedia.org/wiki/トヨタ・エティオスリーバ "wikilink") - 2012年11月現在トヨタの新興国市場におけるハッチバックの主力車種
+
+<!-- end list -->
+
+  - [カローラIIにのって](https://ja.wikipedia.org/wiki/カローラIIにのって "wikilink")（[小沢健二](../Page/小沢健二.md "wikilink")、1995年）
+  - [カローラIIに恋をした](https://ja.wikipedia.org/wiki/カローラIIに恋をした "wikilink")（[カジヒデキ](https://ja.wikipedia.org/wiki/カジヒデキ "wikilink")、1998年）
+
+<!-- end list -->
+
+  - [私をスキーに連れてって](https://ja.wikipedia.org/wiki/私をスキーに連れてって "wikilink")（映画、1987年） - [三上博史](https://ja.wikipedia.org/wiki/三上博史 "wikilink")演じる主人公・矢野文男の愛車がカローラII リトラ（GPターボ）のレッドだった。
+  - [ジョン・マッケンロー](https://ja.wikipedia.org/wiki/ジョン・マッケンロー "wikilink") - 元世界的テニスプレイヤー。初代のイメージキャラクターに起用され、TVCMに出演。
+  - [皇后雅子](https://ja.wikipedia.org/wiki/皇后雅子 "wikilink") - 外交官時代、3代目前期型（1300 Lime）を所有していた。
+
+## 外部リンク
+
+  - [カローラII トヨタ自動車のクルマ情報サイト ‐ GAZOO](https://gazoo.com/catalog/maker/TOYOTA/COROLLA_II/)
+  - [カローラII ３ドア トヨタ自動車のクルマ情報サイト ‐ GAZOO](https://gazoo.com/catalog/maker/TOYOTA/COROLLAII_3DOOR/)
+
+
+
+[Category:トヨタの車種](https://ja.wikipedia.org/wiki/Category:トヨタの車種 "wikilink") [Category:ハッチバック](https://ja.wikipedia.org/wiki/Category:ハッチバック "wikilink")
+
+1.
+2.  言い換えればコストダウンしたのがはっきりとわかる外観であった。コストダウンは外装のみならずシャーシや塗装にも及んでおり、当時のほとんどのFF車が克服していたFF車特有の癖（ステアリングホイールにエンジンのトルク変動が伝わる、発進時にガクガクするスナッチが出るなど）が現れたり、また経年時にほとんどの個体で塗装の剥げが見られたりした。
+3.
+4.  デアゴスティーニジャパン 週刊日本の名車第24号9ページより。

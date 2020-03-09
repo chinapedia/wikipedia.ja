@@ -1,0 +1,167 @@
+> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Star_Trek_William_Shatner.JPG "wikilink")
+
+**ジェームズ・タイベリアス・カーク**(**James Tiberius Kirk**)は[SFドラマ](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")『[スタートレック](https://ja.wikipedia.org/wiki/スタートレック "wikilink")』シリーズに登場する架空の人物である。『[宇宙大作戦](https://ja.wikipedia.org/wiki/宇宙大作戦 "wikilink")』（TOS）及び映画シリーズの主人公であり、小説やコミック、ゲームにも多数登場している。
+
+## 経歴
+
+### プライム・タイムライン
+
+テレビドラマ・テレビアニメとその劇場版が舞台としている宇宙での時間軸。
+
+  - [2233年](https://ja.wikipedia.org/wiki/2233年 "wikilink")3月22日
+
+<!-- end list -->
+
+  -
+    地球の[アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")リバーサイドで生まれる。アイオワ州以外は正史では言及されていないが、公式ウェブサイトではそのように紹介されている。シリーズの生みの親[ジーン・ロッデンベリー](https://ja.wikipedia.org/wiki/ジーン・ロッデンベリー "wikilink")も「リバーサイドで生まれた」とする説をモチーフにしたとされる\[1\]。先祖はアメリカ西部開拓者である（宇宙大作戦「危機一髪！OK牧場の決闘」）。
+
+<!-- end list -->
+
+  - [2243年](https://ja.wikipedia.org/wiki/2243年 "wikilink")ごろ - タルサスIV番星の大虐殺で生き残る。
+  - [2250年](https://ja.wikipedia.org/wiki/2250年 "wikilink") - 宇宙艦隊入隊、アカデミーで学ぶ。
+  - [2251年](https://ja.wikipedia.org/wiki/2251年 "wikilink") - 学生ながら少尉として実地訓練を許され、U.S.Sリパブリックに配属。士官候補生の上級訓練を受ける。
+  - [2253年](https://ja.wikipedia.org/wiki/2253年 "wikilink") - 中尉、学生教官として宇宙艦隊アカデミーに戻る。「歩く書架」"stack of books with legs"と呼ばれ、その授業は「考えるか、沈むか、どちらかだ」"you either think... or sink."と言われた。
+  - [2254年](https://ja.wikipedia.org/wiki/2254年 "wikilink") - "[コバヤシマル](https://ja.wikipedia.org/wiki/コバヤシマル "wikilink")"テストをクリアした唯一の候補生となる。宇宙艦隊アカデミーを卒業、大尉としてU.S.Sファラガットに配属。ガロヴィック船長他大部分の乗員が犠牲になる中で惑星調査を初めて指揮、ガス雲エイリアンの破壊的攻撃から生き残る。
+  - [2255年](https://ja.wikipedia.org/wiki/2255年 "wikilink")ごろ - 少佐に昇進。\[2\]
+  - [2260年](https://ja.wikipedia.org/wiki/2260年 "wikilink")ごろ - 中佐に昇進、[クリストファー・パイク](https://ja.wikipedia.org/wiki/クリストファー・パイク "wikilink")船長の[U.S.S.エンタープライズに担当士官として配属](https://ja.wikipedia.org/wiki/エンタープライズ_\(スタートレック\) "wikilink")。\[3\]
+  - [2263年](https://ja.wikipedia.org/wiki/2263年 "wikilink")
+
+<!-- end list -->
+
+  -
+    大佐に昇進、オーバーホールを終えた[U.S.S.エンタープライズの船長として](https://ja.wikipedia.org/wiki/エンタープライズ_\(スタートレック\) "wikilink")、5年間の深宇宙探査に出発。初登場は2番目のパイロットエピソード「[光るめだま](https://ja.wikipedia.org/wiki/宇宙大作戦#各話タイトル "wikilink") (*[Where No Man Has Gone Before](https://ja.wikipedia.org/wiki/:en:Where_No_Man_Has_Gone_Before "wikilink")*)」、以降『[宇宙大作戦](https://ja.wikipedia.org/wiki/宇宙大作戦 "wikilink")』《Star Trek:The Original Series 通称TOS》の主役として活躍。
+
+<!-- end list -->
+
+  - [2268年](https://ja.wikipedia.org/wiki/2268年 "wikilink") - 深宇宙探査を終え帰還、エンタープライズ船長の任を終え少将に昇進し宇宙艦隊司令部に所属。
+  - [2272年](https://ja.wikipedia.org/wiki/2272年 "wikilink") - ヴィジャーが襲来。それに対し新造艦に近い大改装を終えた[U.S.S.エンタープライズを自らが後任の艦長に就任させた](https://ja.wikipedia.org/wiki/エンタープライズ_\(スタートレック\) "wikilink")[ウィラード・デッカー](https://ja.wikipedia.org/wiki/ウィラード・デッカー "wikilink")大佐を副長にしりぞけ自身が艦長（船長）として指揮、同事件を解決（映画1作目『[スタートレック (映画)](https://ja.wikipedia.org/wiki/スタートレック_\(映画\) "wikilink")』《Star Trek: The Motion Picture 通称TMP》）。
+  - [2277年](https://ja.wikipedia.org/wiki/2277年 "wikilink")ごろ - 艦隊司令部に所属。[U.S.S.エンタープライズの艦長](https://ja.wikipedia.org/wiki/エンタープライズ_\(スタートレック\) "wikilink")（船長）職は大佐に昇進した[スポック](https://ja.wikipedia.org/wiki/スポック "wikilink")に任せ、自身は艦隊アカデミー訓練部の指揮を執る。\[4\]
+  - [2285年](https://ja.wikipedia.org/wiki/2285年 "wikilink")
+
+<!-- end list -->
+
+  -
+    老朽化にともない練習艦となった[U.S.S.エンタープライズでスポック艦長指揮下の訓練生を乗せての練習航海に同乗するが](https://ja.wikipedia.org/wiki/エンタープライズ_\(スタートレック\) "wikilink")、カークと[U.S.S.エンタープライズに恨みを抱きジェネシス計画を妨害した優生人類](https://ja.wikipedia.org/wiki/エンタープライズ_\(スタートレック\) "wikilink")[カーン・ノニエン・シン](https://ja.wikipedia.org/wiki/カーン・ノニエン・シン "wikilink")によって奪われたU.S.S.リライアントと戦闘に。これを撃破し計画を阻止するが艦を救うためスポック大佐が死亡（映画2作目『[スタートレックII カーンの逆襲](https://ja.wikipedia.org/wiki/スタートレックII_カーンの逆襲 "wikilink")）。
+
+<!-- end list -->
+
+  -
+    事件終了後、一旦は艦を母港に帰還させるが、死亡したスポックのカトラ（魂）が生きていることを知り、彼を救うために廃艦が決定していた[U.S.S.エンタープライズを少数の古参クルーと共謀して無断で出航させ強奪](https://ja.wikipedia.org/wiki/エンタープライズ_\(スタートレック\) "wikilink")、カーンと戦闘した宙域に再び艦を向けるがクリンゴンと遭遇。先のカーン（U.S.S.リライアント）との戦闘でのダメージで状態が万全でなかったことなどもあり交戦途中で艦が戦闘不能に陥る。万策尽き最後の手段で艦に乗り込んできたクリンゴン兵を道連れに[U.S.S.エンタープライズを自爆消失させる](https://ja.wikipedia.org/wiki/エンタープライズ_\(スタートレック\) "wikilink")。その後スポックを救いクリンゴンから接収した船でヴァルカンへ降りる（映画3作目『[スタートレックIII ミスター・スポックを探せ\!](https://ja.wikipedia.org/wiki/スタートレックIII_ミスター・スポックを探せ! "wikilink")』）。
+
+<!-- end list -->
+
+  -
+    [U.S.S.エンタープライズの強奪](https://ja.wikipedia.org/wiki/エンタープライズ_\(スタートレック\) "wikilink")・爆破などの重大な軍規違反を問われ、軍法会議にかけられるため接収したクリンゴン船を用いてのヴァルカンから地球への帰還の途上、外宇宙からの探査プローブによる地球の危機を知り20世紀へタイムスリップを敢行。協力者を得てプローブと意思疎通の出来るクジラを23世紀に連れ帰り探査プローブから地球を救う。
+
+<!-- end list -->
+
+  -
+    事件終息後、予定通り軍法会議にかけられるが、プローブ事件から地球を救った功績を認められ、処罰による降格と称した温情処分で大佐に戻り、消失した[U.S.S.エンタープライズと同型艦の新たな](https://ja.wikipedia.org/wiki/エンタープライズ_\(スタートレック\) "wikilink")[U.S.S.エンタープライズ](https://ja.wikipedia.org/wiki/エンタープライズ_\(スタートレック\) "wikilink")、NCC-1701-A（通称エンタープライズA）を与えられ艦長（船長）に就任（映画4作目『[スタートレックIV 故郷への長い道](https://ja.wikipedia.org/wiki/スタートレックIV_故郷への長い道 "wikilink")』）。
+
+<!-- end list -->
+
+  - 2285～2286年前後ごろ
+
+<!-- end list -->
+
+  -
+    バルカン人サイボックによりエンタープライズAを乗っ取られ「神のいる惑星」シャカリーに向かい「神」を名乗る存在と対決の末、事件を解決する（映画5作目『[スタートレックV 新たなる未知へ](https://ja.wikipedia.org/wiki/スタートレックV_新たなる未知へ "wikilink")』）。
+
+<!-- end list -->
+
+  - [2293年](https://ja.wikipedia.org/wiki/2293年 "wikilink") - キトマー和平会議において反対勢力の妨害を防ぎ会議を無事終了させる（映画6作目『[スタートレックVI 未知の世界](https://ja.wikipedia.org/wiki/スタートレックVI_未知の世界 "wikilink")』）。
+
+<!-- end list -->
+
+  -
+    キトマー会議の一件を最後に、老朽化し艦隊の現用艦登録をはずれるエンタープライズAの退役を期に自身も航宙艦の艦長（船長）職をしりぞく。
+    退役したエンタープライズAから艦名と船籍番号を引き継いだ最新鋭の新型エンタープライズ、NCC-1701-B（通称エンタープライズB）の就航式・処女航海に招待され同乗するが、間もなく艦がネクサスに遭遇。ネクサスによる危機から同艦を救った際に爆発に巻き込まれて行方不明に。
+    その時点で死亡したものと判断され公式に記録された。しかし実は死亡しておらず、生存したままネクサスの世界に取り込まれてしまう。
+
+<!-- end list -->
+
+  - 2371年
+
+<!-- end list -->
+
+  -
+    同様にネクサスに取り込まれてしまった24世紀のエンタープライズD艦長、[ジャン＝リュック・ピカード](https://ja.wikipedia.org/wiki/ジャン＝リュック・ピカード "wikilink")と遭遇、ピカードの説得によりネクサスを離脱。トリアン・ソランのネクサス再入計画から惑星ヴェリディアンIVの2億3000万の住民と不時着したエンタープライズDの乗員を救うも、その際の機材崩落に巻き込まれ致命傷を負い絶命、その生涯を終える。
+
+<!-- end list -->
+
+  -
+    その遺体はピカードによりヴェリディアンIIIにて埋葬される（映画7作目『[スタートレック ジェネレーションズ](https://ja.wikipedia.org/wiki/スタートレック_ジェネレーションズ "wikilink")』）。
+
+### ケルヴィン・タイムライン
+
+劇場版第11作からの舞台となる平行宇宙での時間軸。
+
+  -
+    映画11作目『[スター・トレック (2009年の映画)](https://ja.wikipedia.org/wiki/スター・トレック_\(2009年の映画\) "wikilink")』では「[2233年](https://ja.wikipedia.org/wiki/2233年 "wikilink")4月　ロミュラン艦と交戦中の[U.S.Sケルヴィンから脱出中の宇宙空間上のシャトル内で生まれる](https://ja.wikipedia.org/wiki/スター・トレック_\(2009年の映画\) "wikilink")」に変わっており上記の正史上の「3月22日　アイオワ州生まれ」とは異なる。この誕生に関する正史との相違発生の経緯は同作冒頭で描かれている。そのため同作のカークは育ちから入隊～[U.S.S.エンタープライズの船長に就任までの間の経歴や経緯も正史とは大きく異なり](https://ja.wikipedia.org/wiki/エンタープライズ_\(スタートレック\) "wikilink")、その世界の歴史自体も正史とは大きく変化している。ただしこの映画の舞台は単に「不測のアクシデントにより歴史変化が生じた世界」というだけでなく厳密には「パラレルワールド」でもあると監督の[J・J・エイブラムス](https://ja.wikipedia.org/wiki/J・J・エイブラムス "wikilink")やスタッフも語っており[Star Trek Onlineの公式サイトのコラム](https://ja.wikipedia.org/wiki/Star_Trek_Online "wikilink")「STO and Abrams(Star Trek XI)」でもこの件が詳しく解説されているので本作での若き日のジェイムズ・タイベリウス・カークは正史のカークとは、ある意味別人とも言える。
+
+## その他の登場作品
+
+### シャトナーバース
+
+  -
+    ウィリアム・シャトナー自身による続編小説シリーズにおいて『ジェネレーションズ』での死亡後、ロミュランとボーグによって復活、TNG、DS9、VOYのキャラを巻き込みながら活躍する事になる。このシリーズは通称シャトナーバースと呼ばれている。
+      - オデッセイ
+    <!-- end list -->
+      - STAR TREK: The Ashes of Eden（未訳）
+      - 新宇宙大作戦 カーク艦長の帰還 (The Return)
+      - 新宇宙大作戦 サレックへの挽歌 (Avenger)
+    <!-- end list -->
+      - ミラー・ユニバース・トリロジー
+    <!-- end list -->
+      - 新宇宙大作戦 鏡像世界からの侵略 (Spectre)
+      - 新宇宙大作戦 暗黒皇帝カーク (Dark Victory)
+      - 新宇宙大作戦 栄光のカーク艦長 (Preserver)
+    <!-- end list -->
+      - トータリティ
+    <!-- end list -->
+      - Captain's Peril
+      - Captain's Blood
+      - Captain's Glory
+
+## ネーミング
+
+ジェイムズ*James*の愛称がジム*Jim*であることから、[スポック](https://ja.wikipedia.org/wiki/スポック "wikilink")、[マッコイら親友からはジムと呼ばれる](https://ja.wikipedia.org/wiki/レナード・マッコイ "wikilink")。このため、キャラクター紹介でも**ジム・カーク**とされることがある。
+
+初登場となるパイロットフィルム"Where No Man Has Gone Before"（「光るめだま」）では、ミドルネームのイニシャルは「R」とされていた。
+
+本放送では「ジェームズ・T・カーク」とされ、ミドルネームについては言及はされていなかったが、[1974年](../Page/1974年.md "wikilink")の[アニメシリーズ第](https://ja.wikipedia.org/wiki/まんが宇宙大作戦 "wikilink")16話"Bem"（「分解宇宙人ベム」）で初めて「T」が「タイベリアス」の略とされた。これが[映画第1作の小説版でも踏襲された](https://ja.wikipedia.org/wiki/スタートレック_\(映画\) "wikilink")\[5\]ため、事実上の標準的設定\[6\]とされ、追随する多くの小説や[ファン・フィクション](https://ja.wikipedia.org/wiki/ファン・フィクション "wikilink")などでもそのように扱われていった（小説版での表記は「ティベリウス」）。しかし、「正史」とされる実写作品\[7\]での「タイベリアス」の登場は意外にも遅く、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")の「[未知の世界](https://ja.wikipedia.org/wiki/スタートレックVI_未知の世界 "wikilink")」が初めてである。「タイベリアス」が正統な設定となったのは、「ジェームズ・T・カーク」の初登場から25年も経ってからのことであった。
+
+映画11作目では出産直後、母により祖父の名を受け継ぎ「Tiberius/タベリアス」と命名されるシーンがあるが、この作品内では度々自ら「Tiberius」を名乗っている。
+
+小説や以降のテレビシリーズではCaptainを「艦長」と訳しているが、日本でテレビ放送した[宇宙大作戦](https://ja.wikipedia.org/wiki/宇宙大作戦 "wikilink")ではCaptainを「船長」と訳したため、日本ではカークのみ「船長」と呼び区別するのが慣例となっている。宇宙大作戦以前の時代を描いた『[スタートレック エンタープライズ](https://ja.wikipedia.org/wiki/スタートレック_エンタープライズ "wikilink")』の[ジョナサン・アーチャー](https://ja.wikipedia.org/wiki/ジョナサン・アーチャー "wikilink")も「船長」と呼ばれることとなった。
+
+## 演じた俳優と声優
+
+### 俳優
+
+[ウィリアム・シャトナー](https://ja.wikipedia.org/wiki/ウィリアム・シャトナー "wikilink")が演じた。[TOS](https://ja.wikipedia.org/wiki/宇宙大作戦 "wikilink")\#79"Turnabout Intruder"（「変身\! カーク船長の危機」）では、女性に変身してしまったカークを[サンドラ・スミス](https://ja.wikipedia.org/wiki/サンドラ・スミス "wikilink")が演じている。2009年に公開された『[映画11作目](https://ja.wikipedia.org/wiki/スター・トレック_\(2009年の映画\) "wikilink")』では[クリス・パイン](https://ja.wikipedia.org/wiki/クリス・パイン "wikilink")が青年時代、[ジミー・ベネット](https://ja.wikipedia.org/wiki/ジミー・ベネット "wikilink")が少年時代を演じている。
+
+### 日本語版吹き替え
+
+TOSとDS9、ENTでは[矢島正明](https://ja.wikipedia.org/wiki/矢島正明 "wikilink")、TOS第79話「変身\! カーク船長の危機」の女性に変身してしまったカークは[野沢雅子](https://ja.wikipedia.org/wiki/野沢雅子 "wikilink")。劇場版では矢島正明 (TMP-ST3テレビ版、TMP-ST6再録版、GEN)、[大塚明夫](https://ja.wikipedia.org/wiki/大塚明夫 "wikilink") (ST4テレビ版、ST6ビデオ版)、[筈見純](https://ja.wikipedia.org/wiki/筈見純 "wikilink") (ST5機内上映版)、[阪口周平](https://ja.wikipedia.org/wiki/阪口周平 "wikilink") (STXI-STID)。『[まんが宇宙大作戦](https://ja.wikipedia.org/wiki/まんが宇宙大作戦 "wikilink")』では[佐々木功](https://ja.wikipedia.org/wiki/ささきいさお "wikilink")。なお大塚はTNGで[ウィリアム・T・ライカー](https://ja.wikipedia.org/wiki/ウィリアム・T・ライカー "wikilink")役、阪口はST3再録版で青年期のスポックも演じている。
+
+『[ディープ・スペース・ナイン（DS9）](https://ja.wikipedia.org/wiki/スタートレック:ディープ・スペース・ナイン "wikilink")』第104話「伝説の時空へ」にも再登場するが、これは[シスコらが](https://ja.wikipedia.org/wiki/ベンジャミン・シスコ "wikilink")『宇宙大作戦』43話「新種クアドロトリティケール」の過去に行ったという設定で、当時の映像の編集・合成。声は原語版では俳優本人が声を演て、吹き替えではカーク役の矢島とウフーラ役の[松島みのり](https://ja.wikipedia.org/wiki/松島みのり "wikilink")はオリジナルと同じで、スコット役はシーズン1で同役を演じた[小林修が起用されている](https://ja.wikipedia.org/wiki/小林修_\(声優\) "wikilink")。
+
+## 脚注
+
+<references/>
+
+[de:Figuren im Star-Trek-Universum\#Captain James Tiberius Kirk](https://ja.wikipedia.org/wiki/de:Figuren_im_Star-Trek-Universum#Captain_James_Tiberius_Kirk "wikilink")
+
+[Category:スタートレック:オリジナルシリーズの登場人物](https://ja.wikipedia.org/wiki/Category:スタートレック:オリジナルシリーズの登場人物 "wikilink") [Category:新スタートレックの登場人物](https://ja.wikipedia.org/wiki/Category:新スタートレックの登場人物 "wikilink") [Category:スタートレック:ディープ・スペース・ナインの登場人物](https://ja.wikipedia.org/wiki/Category:スタートレック:ディープ・スペース・ナインの登場人物 "wikilink")
+
+1.  [スター・トレック、カーク船長の「未来の生まれ故郷」で町おこし、米アイオワ州](http://www.afpbb.com/article/entertainment/movie/2599549/4106051) - AFP BB News 2009年5月4日
+2.
+3.
+4.
+5.  作品中では「カークの祖父サミュエルがローマ皇帝[ティベリウス](https://ja.wikipedia.org/wiki/ティベリウス "wikilink")にちなんで名づけたが、カーク本人はこれを良しとせず、自ら略すことが多い」としている。
+6.  映画作品の小説版や[マイケル・オクダ](https://ja.wikipedia.org/wiki/マイケル・オクダ "wikilink")による設定資料などでは公式設定に準ずる扱いを受けることがあるが、あくまでも正統な設定の扱いはされない。
+7.  スタッフの間では、スタートレックの「正史」とされるのは実写映像化された作品のみであり、アニメシリーズや小説版は正統な設定とはされない。

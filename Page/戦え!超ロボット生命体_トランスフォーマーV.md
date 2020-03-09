@@ -1,0 +1,1182 @@
+> この記事は[! V](https://ja.wikipedia.org/wiki/!_V)から翻訳されています。
+
+
+『**戦え\!超ロボット生命体 トランスフォーマーV**』（たたかえ\!ちょうロボットせいめいたい トランスフォーマービクトリー）は、[トランスフォーマー](../Page/トランスフォーマー.md "wikilink")シリーズの[アニメ](../Page/アニメ.md "wikilink")作品第5弾。[東映動画](https://ja.wikipedia.org/wiki/東映動画 "wikilink")制作。[1989年](../Page/1989年.md "wikilink")（平成元年）[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")から同年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")まで[日本テレビ系列で放映](../Page/日本テレビ放送網.md "wikilink")。全44話。日本テレビが制作に携わった最後のトランスフォーマーシリーズである。
+
+## 概要
+
+本作はトランスフォーマーシリーズの第5作目にあたり、日本[オリジナル](https://ja.wikipedia.org/wiki/オリジナル "wikilink")展開のトランスフォーマーとしては3作目となる。シリーズでは平成に入って初めての作品、かつ日本テレビで放送された最後の作品である。
+
+総司令官が主人公となり、場面転換シーン（エンブレムの交代）の復活や一話完結のエネルギー争奪戦という第1作目への原点回帰を目指しつつ、サブタイトル前にはその回のハイライトシーンを流す[アバンタイトル](https://ja.wikipedia.org/wiki/アバンタイトル "wikilink")が挿入され、アイキャッチやエンディングテーマに[ちびキャラ](https://ja.wikipedia.org/wiki/ちびキャラ "wikilink")化したキャラクターを用いるなどの新要素が導入された。バンクシーンの多さや総集編の回が多いなどの欠点を持ちつつも、作画は高い水準を維持した。さらに前作までは銃器による射撃が多かったのに対して接近戦用の武器を重視し、射撃もそれらの武器から発するエネルギー波で行っているのも特徴的である。また主要な登場トランスフォーマーのほぼ全員が合体ロボの一部を構成する。これらの要素は後の[勇者シリーズ](https://ja.wikipedia.org/wiki/勇者シリーズ "wikilink")に影響を与えている。
+
+玩具は大半が日本オリジナルアイテムとして発売され、前作まででメインだった海外版の仕様変更品は恐竜戦隊等の一部製品に留まった。
+
+その作風は、従来の東映巨大ロボットアニメのパターンを踏襲し、サイバトロン側のヒロイックな活躍に重点が置かれた。特に主人公スターセイバーの「スーパーロボット」としての魅力が前面に押し出される事になったが、その代わりこれまでのトランスフォーマーシリーズが持っていた「集団劇」的な側面はやや薄れた。商業的には成功を収めたが、視聴率は振るわず\[1\]、本作を以て第1作から5年間続いていた日本でのTVアニメシリーズは休止する。続編の『[トランスフォーマーZ](https://ja.wikipedia.org/wiki/トランスフォーマーZ "wikilink")』は[OVA](../Page/OVA.md "wikilink")として展開され、TVシリーズは8年後の『[ビーストウォーズ 超生命体トランスフォーマー](https://ja.wikipedia.org/wiki/ビーストウォーズ_超生命体トランスフォーマー "wikilink")』まで休止となった。
+
+## ストーリー
+
+マスターフォース戦争の終結後、完全な超ロボット生命体へと変化したゴッドジンライと邪悪なオーバーロードの戦いは宇宙を舞台に繰り広げられていた。またサイバトロン本部はそれらデストロンの脅威に対抗すべく、平和を愛する様々な惑星の生命体と共に宇宙平和連合を結成。V惑星にその本部を置き、総司令官にサイバトロン最強の戦士であるスターセイバーを任命する。
+
+一方、デストロンでは破壊大帝デスザラスが、スターセイバーによって暗黒星雲に封印された自らの要塞を復活させるため、地球のエネルギーを強奪しようと企て動き始める。その危機を察知したスターセイバーは、みなしごであった地球人の南風ジャンと自らの部隊を率いて地球へと向かう。
+
+果たしてスターセイバー率いるサイバトロンは地球を、そして宇宙をデストロンの脅威から守ることができるのか。
+
+## 主な登場人物
+
+### サイバトロン戦士
+
+本作でのサイバトロンは、宇宙全土に及ぶ非常に巨大なネットワークを持つ組織として描かれている。無論、彼らの任務は宇宙の平和を守る事である。またかつてサイバトロンにおけるリーダーは、歴代のリーダー達の叡知の結晶である「マトリクス」を受け継いだただ一人の「総司令官」のみであったが、本作の時代においては与えられた管轄のエリアを防衛する部隊のリーダーとして複数の「司令官」と呼ばれる人物が存在する。
+
+#### ブレインマスター
+
+乗り物がロボットのボディに変形、操縦者の小型ロボ（ブレイン）を体内に「ブレインセット」することで顔が現れ完成する。宇宙にスターセイバーたち4人しか存在しない。共通武器として剣を装備しており、剣先からエネルギーアローを発射可能。
+
+  - C-324 [総司令官スターセイバー](https://ja.wikipedia.org/wiki/スターセイバー_\(トランスフォーマー\) "wikilink")
+    [声](../Page/声優.md "wikilink") - [田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")（タイトルコール及び次回予告ナレーションも兼任）
+    サイバトロン最強の戦士であり、銀河第1方面軍、V戦争での総司令官。シリーズ初の[ジェット機](../Page/ジェット機.md "wikilink")に変形する総司令官。「勇気のブレイン」を持つ。
+      - C-328 究極総司令官ビクトリーセイバー
+        第30話から登場。スターセイバーとビクトリーレオが合体した姿。
+  - C-320 副官騎士ブラッカー
+    声 - [戸谷公次](https://ja.wikipedia.org/wiki/戸谷公次 "wikilink")
+    サイバトロンの副官で第1方面軍前司令官。「力のブレイン」を持つ。レーシング[バギーに変形](https://ja.wikipedia.org/wiki/全地形対応車 "wikilink")。ベテラン戦士であり、ラスター曰く「戦闘の時の勘は、時として総司令官をしのぐときもある」。口は悪いが普段は気さくな性格で、仲間への思いやりも強い。マルチ戦隊の教官でもあり、それ故に未熟な彼らを「坊や」と呼ぶが悪意は無い。スターセイバーにとってブラッカーは部下でもあり、僚友関係である。武器は剣とブラッカーレーザー。ロードシーザーに合体する際には上半身に変形する。
+    デスザラスたちとの決着をつけた後はラスターやブレイバーと共に銀河第1方面軍総司令官に復帰する。
+  - C-321 技術騎士ラスター
+    声 - [広森信吾](https://ja.wikipedia.org/wiki/森しん "wikilink")
+    「技のブレイン」を持つ技術騎士。[ランボルギーニ・カウンタック](../Page/ランボルギーニ・カウンタック.md "wikilink")に変形。様々な技を使いこなす。メカにも詳しい技術者でもあり、Vスターの整備やイルミナIIの設計を行っていた。性格は少々皮肉屋。武器は剣とラスターレーザー。ロードシーザーに合体する際には右手と右脚に変形する。
+  - C-322 作戦騎士ブレイバー
+    声 - [掛川裕彦](https://ja.wikipedia.org/wiki/掛川裕彦 "wikilink")
+    「知恵のブレイン」を持つ作戦騎士。[フェラーリ・F40](https://ja.wikipedia.org/wiki/フェラーリ・F40 "wikilink")に変形。知力で相手を倒す事を好む。普段は穏やかな性格だが、窮地に陥っても諦めない忍耐強さを併せ持つ。いつも工作室で新しい武器の製作に取り掛かっている。アメリカのシェイファーエネルギーコンビナートの技術開発プロジェクトのメンバーでもある。武器は剣とブレイバーレーザー。ロードシーザーに合体する際には左手と左脚に変形する。
+  - C-323 三銃合体騎士ロードシーザー
+    声 - 戸谷公次
+    第3話から登場。ブラッカー、ラスター、ブレイバーのブレインマスター三銃士が合体して誕生する三銃合体騎士。武器は3人の剣が合体した巨大剣ロードブレード。合体の掛け声は「**力と\!知恵と\!技の合体\!\!\!**」。尊敬する地球人は「[三矢の教え](https://ja.wikipedia.org/wiki/三矢の教え "wikilink")」で知られる[毛利元就](../Page/毛利元就.md "wikilink")。ロードシーザーに合体した際の性格は基本的にはブラッカーであるが、ラスターとブレイバーが意見する時もある。機動力はスターセイバーに匹敵する。
+
+#### マルチ戦隊
+
+別種の乗り物から変形する2体の小型ロボが上下半身となって中型ロボに合体し、上下を入れ替えることで2種類の姿を持つ\[2\]。V惑星にある宇宙戦士訓練学校を卒業したての新人戦士で人間で言うなら高校生ぐらいであるとされる\[3\]。「**マルチオン**」、「**マルチアウト**」の掛け声で合体・分離する。全員が合体してランドクロスになる。
+
+玩具は2003年末、マイクロマスターDXとして復刻され、コンビニで限定発売された。
+
+  - C-316 マルチ戦隊リーダー ウイングウェーバー
+    声 - [広中雅志](https://ja.wikipedia.org/wiki/広中雅志 "wikilink")（ナレーションも兼任\[4\]）
+
+    戦隊長（キャプテン）。**ウイング**と**ウェーバー**が合体した戦士。
+
+    当初はV惑星に勤務していたが、2話にてスターセイバーに招集をかけられ共に地球に行く。
+
+      - 風の戦士ウイング
+        声 - [広中雅志](https://ja.wikipedia.org/wiki/広中雅志 "wikilink")
+        第3話から登場。血気盛んな性格の持ち主。皆に認められるために前線に出ようとするが、未熟なのでブラッカー達にたしなめられ反発することも多い反面、失敗に際しての責任感は強い。精神に異常を来していたビクトリーレオに対し「彼には仲間を助ける優しい心などない」と愚痴をこぼしたこともあった。[ジェット機](../Page/ジェット機.md "wikilink")に変形する。武器はマルチウィングガン。ランドクロスに合体する際には胸部に変形する。
+      - 水の戦士ウェーバー
+        声 - 平野義和（23話）、里内信夫（31話）
+        第3話から登場。副リーダー。ホバーボートに変形する。武器はマルチウェーバーガン。ランドクロスに合体する際には腰部に変形する。
+
+  - C-317 陸上戦士ダッシュタッカー
+
+:: 声 - [平野義和](https://ja.wikipedia.org/wiki/平野義和 "wikilink")
+
+:: **ダッシュ**と**タッカー**が合体した戦士。
+
+:; 太陽の戦士ダッシュ
+
+:: 声 - 平野義和
+
+:: 第3話から登場。せっかちな性格。[スーパーカー](https://ja.wikipedia.org/wiki/スーパーカー "wikilink")に変形する。武器はマルチダッシュガン。ランドクロスに合体する際には右腕に変形する。
+
+:; 火の戦士タッカー
+
+  -
+
+      -
+        第3話から登場。[ハーフトラックに変形する](https://ja.wikipedia.org/wiki/半装軌車 "wikilink")。武器はマルチタッカーガン。作中では一言も台詞がなかった。ダッシュとは逆に落ち着いた性格。ランドクロスに合体する際には右脚に変形する。
+
+  - C-318 空陸戦士マッハタックル
+
+:: 声 - [佐藤浩之](https://ja.wikipedia.org/wiki/佐藤佑暉 "wikilink")
+
+:: **マッハ**と**タックル**が合体した戦士。
+
+:; 月の戦士マッハ
+
+:: 声 - 佐藤浩之
+
+:: 第3話から登場。行動派で目立ちたがり屋。[スペースシャトル](../Page/スペースシャトル.md "wikilink")に変形する。武器はマルチマッハガン。ランドクロスに合体する際には左腕に変形する。
+
+:; 地の戦士タックル
+
+  -
+
+      -
+        声 - [里内信夫](https://ja.wikipedia.org/wiki/里内信夫 "wikilink")
+        第3話から登場。慎重な性格。一度後先を考えないマッハとの考えの違いにより**タックルマッハ**となったが、経験不足から苦戦を強いられた。[4WD](../Page/四輪駆動.md "wikilink")(アニメでのモチーフはD21型ダットサントラック)に変形する。武器はマルチタックルガン。ランドクロスに合体する際には左脚に変形する。
+
+  - C-319 マルチ合体戦士ランドクロス
+
+      -
+        声 - 広中雅志
+        第4話から登場。マルチ戦隊6体が合体して誕生するマルチ合体戦士。武器は光剣と6人の武器が合体したハイブリードガン。強敵に対しては合体を解除し、奇策で対抗する柔軟さを持つ。後にベガ星域支部に転属、支部長へと昇進した事がジャンによって語られている。
+
+#### C-331 レスキュー部隊
+
+マイクロ星出身のマイクロトランスフォーマー。全員が少年といった出で立ちで、救助活動を主な任務としている。玩具は続編の『トランスフォーマーZ』において、レスキューパトロールチームとして販売。
+
+  - 救助戦士ホーリー
+    声 - [頓宮恭子](https://ja.wikipedia.org/wiki/頓宮恭子 "wikilink")
+    南風ジャンの親友であるマイクロTF。レスキュー部隊のリーダー。少々軽率でお調子者な性格だが、救助活動においては的確な行動を見せる。また、ジャンの反重力ボードを作る等技術者の一面も持つ。[パトカー](https://ja.wikipedia.org/wiki/パトカー "wikilink")に変形。
+  - 救助戦士ファイヤー
+    声 - [丸尾知子](https://ja.wikipedia.org/wiki/Chiko "wikilink")
+    第5話から登場。甘えん坊で泣き虫であり、前線での戦いを好まない。消火活動が任務。[消防車](https://ja.wikipedia.org/wiki/消防車 "wikilink")に変形し、その消火能力を生かして仲間のピンチを幾度となく救っている。
+  - 救助戦士ピーポー
+    声 - [金丸日向子](../Page/芳野日向子.md "wikilink")
+    第5話から登場。困った人を助けるのが生きがい。負傷者の運搬が任務。[救急車](https://ja.wikipedia.org/wiki/救急車 "wikilink")に変形。
+  - 救助戦士ボーター
+    声 - [久川綾](../Page/久川綾.md "wikilink")
+    第5話から登場。せっかちでそそっかしい。自分のスピードに自信を持っている。海上救護活動が任務。ポリス[ボート](https://ja.wikipedia.org/wiki/ボート "wikilink")に変形。
+
+#### [シックスチェンジャー](https://ja.wikipedia.org/wiki/シックスチェンジャー "wikilink")
+
+  - C-325 隠密参謀グレートショット
+    声 - [池水通洋](https://ja.wikipedia.org/wiki/池水通洋 "wikilink")
+    第17話から登場。シックス一族出身。孤高の一匹狼の流れ者だが（かつてブラックシャドーやブルーバッカスと組んでいた時期はあったものの、彼らに裏切られたとのこと）、ならず者の自分を戦士として、友として扱ってくれるスターセイバーに惚れ込み、サイバトロン側についた。ロボット、[レーザーガン](https://ja.wikipedia.org/wiki/レーザーガン "wikilink")、[ジェット機](../Page/ジェット機.md "wikilink")、[装甲車](../Page/装甲車.md "wikilink")、[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")、[怪獣](../Page/怪獣.md "wikilink")の6つの形態を持つ。武器は2丁のグレートレーザーと2本の刀による二刀流グレート剣法を奮って戦う。ゴッドジンライ亡き後、「辞めたくなったらいつでも辞めさせてもらう」との条件で第2方面軍総司令官となる。その実力からホーリーたちに信頼されている。本編終了後のエピローグにて、傭兵に戻ってシルバルト戦域で消息不明となったことがジャンによって語られる。
+    玩具は『[トランスフォーマー ザ☆ヘッドマスターズ](../Page/トランスフォーマー_ザ☆ヘッドマスターズ.md "wikilink")』に登場したシックスショットの仕様変更品。声優も同様。
+
+#### サイバトロン基地
+
+  - C-326 星間輸送戦士ギャラクシーシャトル
+    声 - [広森信吾](https://ja.wikipedia.org/wiki/拡森信吾 "wikilink")
+    第2話から登場。仲間の輸送を主な任務とする巨大戦士。[スペースシャトル](../Page/スペースシャトル.md "wikilink")に変形し、普段はサイバトロン移動基地・ロケットベースにセットされている。武器はムーンライトガン。ロボットモードは当初は**シャトルロボ**と呼ばれていた。
+    1996年には彼を基本として各部デザインを変更した仕様変更品が『[勇者指令ダグオン](https://ja.wikipedia.org/wiki/勇者指令ダグオン "wikilink")』のサンダーダグオンとして販売され、そちらは新たにサンダーバイク／ダグサンダーが追加されている。
+
+#### その他のサイバトロン
+
+  - C-310 最高総司令官[ゴッドジンライ](https://ja.wikipedia.org/wiki/ジンライ "wikilink")
+    声 - [竹村拓](https://ja.wikipedia.org/wiki/竹村拓 "wikilink")
+    第1話から登場しているが、本格的に物語に絡んでくるのは第14話から。前作で地球方面サイバトロンの総司令官を務め、ゴッドマスターであったジンライから分離して独立した意思を持つようになったロボット生命体で、今作では第2方面軍司令官。人格と声は人間であるジンライのそれを受け継いでいる。劇中では剣で戦っていた。ゴッドマスターであった頃の強さはなく、スターセイバーと同等の力しかないためにライオカイザーやデスザラスには苦戦を強いられるが、ライオカイザーを相手に素手で戦い、金属生命破壊砲の直撃に耐え続けるなど、かつてのガッツは健在。地球方面をスターセイバーに任せ、前作の最終回で独立した悪のロボット生命体となり宇宙に逃れたオーバーロード一派を追っていた。その決着を付けるとすぐスターセイバーの応援に駆けつけるが、デスザラスの金属生命破壊砲を受けて戦闘不能になる程の重傷を負う。
+    本作ではゴッドボンバーを分離させて、ジンライ・スーパージンライやビークルモードの姿を取る事は無かった。
+  - C-327 武装騎士ビクトリーレオ
+    声 - 竹村拓
+    第27話から登場。デスザラスによって戦闘不能になったゴッドジンライのスパークとその動力炉であったウルトラマトリクスのみを残し、「ビクトリー計画」によって新たなボディで転生した武装騎士。転生後間もない頃はバランス回路が不安定で精神に異常を来していたが、危機に陥ったジャンの声を聞いた時、ゴッドジンライであった頃の正義を愛する心が蘇った。[ライオン](../Page/ライオン.md "wikilink")型ロボットとジェットブースターに変形し、スターセイバーと合体してビクトリーセイバーとなる。単体でもかつてのゴッドジンライを彷彿とさせるほどに戦闘力は高く、ダイノキングやブレストフォースを一蹴するほど。最終決戦でもライオカイザーを撃破し、スターセイバーを要塞から救出するといった活躍をみせた。
+    漫画版ではビクトリーレオとゴッドジンライは全くの別人という設定。
+  - 39 科学者パーセプター
+    声 - [佐藤正治](https://ja.wikipedia.org/wiki/佐藤正治_\(声優\) "wikilink")
+    第26話から登場。『[初代トランスフォーマー](../Page/戦え!超ロボット生命体トランスフォーマー.md "wikilink")』と『[2010](../Page/戦え!超ロボット生命体トランスフォーマー2010.md "wikilink")』に登場した科学者。「ビクトリー計画」の第一人者として登場。かつての学者肌で理詰めな性格は薄くなり、人生経験豊富な老医師のような風情になっていた。
+  - 03 技術者[ホイルジャック](https://ja.wikipedia.org/wiki/ホイルジャック "wikilink")
+    声 - [里内信夫](https://ja.wikipedia.org/wiki/里内信夫 "wikilink")
+    第26話から登場。パーセプターと同じく『初代トランスフォーマー』に登場した技術者で、旧作と異なり声も若く、パーセプターを「先生」と呼ぶ。
+    なお旧作のホイルジャックは、『[ムービー](https://ja.wikipedia.org/wiki/トランスフォーマー_ザ・ムービー "wikilink")』で死亡しているため、本人かどうかは不明。
+  - C-303 救急看護戦士ミネルバ
+    声 - [丸尾知子](https://ja.wikipedia.org/wiki/Chiko "wikilink")
+    第26話から登場。前作である『[超神マスターフォース](../Page/トランスフォーマー_超神マスターフォース.md "wikilink")』に登場したヘッドマスターJr。今作ではパーセプターの助手を務める。
+  - クリッパー
+    声 - [青羽美代子](https://ja.wikipedia.org/wiki/青羽美代子 "wikilink")
+    居丈高にもなるが信頼関係にある、ホーリーのガールフレンド。デザインの元になったのは[スーパーカーパトロールチームのギンガム](https://ja.wikipedia.org/wiki/トランスフォーマーZ#電脳戦士スーパーカーパトロールチーム/SportsCarPatrol "wikilink")。
+  - ライクル
+    声 - [阪脩](https://ja.wikipedia.org/wiki/阪脩 "wikilink")
+    マイクロ星の支部長。本編ではロボットモード以外のモードには変形しなかった。
+
+### デストロン軍団
+
+本作に登場するデストロンはかつての破壊大帝メガトロンが指揮を取っていた時代のような一つのまとまった軍団ではなく、複数の勢力が宇宙全体に点在し、サイバトロンとの抗争を繰り広げている。前作までに比べ、全体的にメンバーが小柄で、かつ小回りが利く面々が中心となっている。
+
+#### [ブレストフォース](https://ja.wikipedia.org/wiki/ブレストフォース "wikilink")
+
+ヘッドマスター、プリテンダーなどと同様に、トランスフォーマー種族内に発生した特殊な一族のひとつ。ブレストフォース族は動物を模した頭部を持ち、胸部が分離して小型動物メカおよび武器になる「**ブレストアニマル**」となる。
+
+  - D-336 [破壊大帝デスザラス](https://ja.wikipedia.org/wiki/デスザラス "wikilink")
+    声 - [青野武](../Page/青野武.md "wikilink")
+    本作におけるデストロンのリーダー。[イーグルと](https://ja.wikipedia.org/wiki/ワシ "wikilink")[タイガーのブレストを持ち](../Page/トラ.md "wikilink")、自身も[ドラゴン](../Page/ドラゴン.md "wikilink")型ロボットに変形する。
+
+<!-- end list -->
+
+  -
+    以下の6体は[ブレストフォースを参照](https://ja.wikipedia.org/wiki/ブレストフォース#メンバー "wikilink")。
+  - D-329 攻撃副官レオザック
+    声 - [難波圭一](https://ja.wikipedia.org/wiki/難波圭一 "wikilink")
+  - D-330 航空兵士ガイホーク
+    声 - [大塚芳忠](https://ja.wikipedia.org/wiki/大塚芳忠 "wikilink")
+  - D-331 スパイ兵士ヘルバット
+    声 - [塩屋翼](../Page/塩屋翼.md "wikilink")
+  - D-332 電脳兵士ジャルガー
+    声 - 掛川裕彦、里内信夫（10話）
+  - D-333 工作兵士キルバイソン
+    声 - [田中和実](https://ja.wikipedia.org/wiki/田中和実 "wikilink")
+  - D-334 作戦兵士ドリルホーン
+    声 - [岸野幸正](https://ja.wikipedia.org/wiki/岸野幸正 "wikilink")（4話）→佐藤浩之（6、10、12、14、16、29、35話）、[平野正人](https://ja.wikipedia.org/wiki/平野正人 "wikilink")（8、11、15、18-19、33、36話）
+  - D-335 重機動合体兵士ライオカイザー
+    声 - 難波圭一
+
+#### 恐竜戦隊
+
+恐竜サイボーグの中に潜む人型ロボットが分離（トランスアウト）し、二体一組で戦うことができる。人型ロボットの方はモンスター形態にも変形可能だが、アニメではモンスター形態への変形は描写されず。破壊活動などの荒事・力仕事を主な任務としていた。テックスペックではジャールの出身とされる。SD頭身でのコミカルな言動が多く、中でもゴウリュウとカクリュウの掛け合いが多い。メンバー同士は鈍重ながら信頼し合う主従関係にある。最後は生き残り、デストロンを去って工事現場や遊園地に就職した模様。
+
+漫画版では各メンバーにそれぞれ子供がおり、最終回にて彼らを養うためにデスザラスに従っていたことが明かされている。
+
+元になった海外版玩具は、モンスター型のシェルを持つプリテンダー・**モンストラクター**であり、モンスターだと分かりづらいため、日本ではシェルを恐竜に変更したという経緯がある\[5\]。
+
+  - D-322 恐竜戦隊長ゴウリュウ
+    声 - [郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")
+    恐竜戦隊のリーダー。暴れ者だが仲間思いの親分肌。副官ではあるが若く自意識が過剰であるレオザックおよびブレストフォースを快く思っておらず、反発しあっている。[ティラノサウルス](../Page/ティラノサウルス.md "wikilink")の恐竜サイボーグを持ち、普段からトランスアウトして恐竜に騎乗していることが多い。武器は棍棒とティラノガン。また棍棒を振り回しリング状のエネルギー弾を作り出すといった攻撃も見せる。ダイノキングに合体する際には左脚に変形する。
+    要塞攻略に優れた手腕を発揮しており、第2話ではサイバトロン第一方面軍の宇宙基地と防衛線を大破させ、デストロンの地球再侵入を成功させている。また、一度デスザラスに案内されただけで暗黒要塞の構造や防衛システムを理解しており、攻略方法も見抜いている。
+    暗黒要塞が復活した際、地球に置き去りにされ隕石爆弾で負傷したのを機にデスザラスを裏切り、ジャンに要塞の弱点を伝えた。その後は工事現場の親方となる。
+    シェルのモチーフは[マシンザウラー](https://ja.wikipedia.org/wiki/マシンザウラー "wikilink")\[6\]。
+  - D-323 防衛兵ガイリュウ
+    声 - 佐藤浩之、広森信吾（31話）
+    防御に優れ我慢強い。[アンキロサウルス](../Page/アンキロサウルス.md "wikilink")の恐竜サイボーグを持つ。武器はアンキロガン。ダイノキングに合体する際には左腕に変形する。
+  - D-324 突撃兵カクリュウ
+    声 - 平野正人
+    のろまで間の抜けた性格であるが、急に発奮することもある努力家。サボっていたり、ドジを踏んではゴウリュウに叱られ、「すんません」というのがお約束になっている。三本の角が一列に並ぶ[トリケラトプス](../Page/トリケラトプス.md "wikilink")の恐竜サイボーグを持つ。武器はトリケラガン。ダイノキングに合体する際には胸部に変形する。
+    最後は他の恐竜戦隊のメンバーが工事現場で働いていた中、彼だけは遊園地に就職し人気者となった。
+    後に展開された『[ユナイテッドEX](https://ja.wikipedia.org/wiki/トランスフォーマー_ユナイテッド "wikilink")』に登場する**グリムマスター**の正体は彼であるらしい事が示唆されている。\[7\]
+  - D-325 陸王兵ドリュウ
+    声 - 掛川裕彦（1話）、広中雅志、[緑川光](https://ja.wikipedia.org/wiki/緑川光 "wikilink")（31話）
+    怖い者知らず。[ステゴサウルス](https://ja.wikipedia.org/wiki/ステゴサウルス "wikilink")の恐竜サイボーグを持つ。武器はステゴガン。ダイノキングに合体する際には右脚に変形する。
+    テックスペックでは友情に厚い。
+  - D-326 光速兵ヨクリュウ
+    声 - 竹村拓（1話）、掛川裕彦（6-7、36-37話）、佐藤浩之（21、31、35話）
+    根気がなく楽をしたがる。恐竜戦隊の中では唯一飛行可能。牙の生えた[プテラノドン](../Page/プテラノドン.md "wikilink")の恐竜サイボーグを持つ。武器はプテラノガン。ダイノキングに合体する際には右腕に変形する。
+    テックスペックでも新人類ぶりに言及があり、飛行可能なためとされる。
+  - D-327 海魔兵ライリュウ
+    声 - 佐藤浩之（1-2、6話）、里内信夫
+    真面目で計算して行動するタイプ。[ブロントサウルスの恐竜サイボーグを持つ](../Page/アパトサウルス.md "wikilink")。武器はブロントガン。ダイノキングに合体する際には腰部に変形する。
+  - D-328 恐竜合体兵ダイノキング
+    声 - 郷里大輔
+    第2話から登場した、恐竜戦隊の6体が合体して誕生する合体兵士。性格はゴウリュウのものを受け継ぐ。ランドクロスのライバルで合体の際にリーダー格が頭部、胸部のいずれにも変形しないのは[ビルドロン](https://ja.wikipedia.org/wiki/ビルドロン "wikilink")の合体するデバスター以来となる。玩具はカクリュウのトリケラトプスが装備する「ダイノブラスター」を構える。アニメではジャベリンが武器だが、ビクトリーセイバーとの戦いではゴウリュウがエネルギーを密かに横領して作り上げた「ダイノブラスターキャノン」を使用。
+
+#### クロスフォーマー
+
+第17話にて、マイクロ星の高純度プラズマエネルギー強奪を独断で画策したヘルバットが個人的に雇った傭兵。グレートショットはかつて彼らと組んでいたが裏切りにあったらしい。2人とも残忍な性格で破壊主義者。本体は小型ロボットだが、エネルギーが生む強化ボディ「マイティクロス」と合体する。劇中では第17話のみの登場。また、アニメでは本体のロボットモードは描写されなかった。
+
+玩具は海外のメガプリテンダーの仕様変更品。日本の子供の嗜好に合うように一部金型を変えた\[8\]。
+
+<table width="90%">
+
+<tr>
+
+<td valign="top" width="50%">
+
+  - D-309 宇宙ギャング ブラックシャドー\[9\]
+    声 - [幹本雄之](https://ja.wikipedia.org/wiki/幹本雄之 "wikilink")
+    [ジェット機](../Page/ジェット機.md "wikilink")に変形。武器はシャドーガン。
+    玩具は海外版メガプリテンダー・サンダーウイング/ThunderWing の仕様変更品。
+
+</td>
+
+<td valign="top" width="50%">
+
+  - D-310 宇宙ガンマン ブルーバッカス
+    声 - [田中亮一](https://ja.wikipedia.org/wiki/田中亮一 "wikilink")
+    [ヘリコプター](../Page/ヘリコプター.md "wikilink")に変形。武器はバッカスライフル。
+    玩具は同じくメガプリテンダー・クロスブレイズ/CrossBlades の仕様変更品。
+
+</td>
+
+</tr>
+
+</table>
+
+#### その他
+
+  - デスコブラ
+    声 - [西村知道](https://ja.wikipedia.org/wiki/西村知道 "wikilink")
+    第19話のみの登場。合体要員としてレオザックに呼ばれたブレストフォースの傭兵。誠実な性格であり、レオザックの信頼も篤かったが、自分の立場を脅かされるのを恐れたヘルバットと口論の末に殺されてしまう。[Mi-24に変形する](https://ja.wikipedia.org/wiki/Mi-24_\(航空機\) "wikilink")。胸には[コブラ](https://ja.wikipedia.org/wiki/コブラ "wikilink")のブレストを装備している。
+
+#### デストロン基地
+
+  - サンダーアロー
+    デスザラスが[暗黒星雲](https://ja.wikipedia.org/wiki/暗黒星雲 "wikilink")に封印されたかつての居城を覚醒させるために必要なエネルギー資源を集めるための、飛行艇型デストロン移動基地。
+    玩具は海外で**SKYSTALKER**の愛機として発売され、基地にも変形する（アニメでは未登場）。国内では放映中は発売されず、翌年に通販のみで入手可能だった。
+
+### 地球人
+
+  - 南風（みなかぜ）ジャン
+    声 - [遠藤みやこ](https://ja.wikipedia.org/wiki/遠藤みやこ "wikilink")
+    幼少時、恐竜戦隊の略奪によって両親（声 - 平野正人、[小口久仁子](https://ja.wikipedia.org/wiki/小口久仁子 "wikilink")）を亡くし、V惑星でスターセイバー達に育てられた日本人とフランス人の混血児である少年。彼らと共に星を渡り歩き、地球に戻って来た。ラスターに作ってもらった変形メカ「イルミナII」に乗り活躍した。また、Vスターも操縦出来る。スターセイバーを親のように慕う一方、ゴッドジンライとも仲が良く、ゴッドジンライがビクトリーレオに転生する事には反対していた。
+    漫画では中盤にパティという姉がビクトリーレオと共に登場。
+  - 星（ほし）イルミナ
+    声 - [冬馬由美](https://ja.wikipedia.org/wiki/冬馬由美 "wikilink")
+    学校で知り合った、ジャンのガールフレンド。
+  - ジョイス
+    声 - [久川綾](../Page/久川綾.md "wikilink")
+    イルミナのクラスメイト。
+  - ラミ
+    声 - [丸尾知子](https://ja.wikipedia.org/wiki/Chiko "wikilink")
+    イルミナのクラスメイト。
+  - メービル院長
+    声 - [山田礼子](https://ja.wikipedia.org/wiki/山田礼子 "wikilink")
+    シスターにしてジャンが転入した学校の運営者。
+  - フランク
+    声 - 佐藤正治
+    「潜入…ウラン鉱山」に登場した。
+  - サム
+    声 - [佐藤智恵](https://ja.wikipedia.org/wiki/佐藤智恵 "wikilink")
+    「潜入…ウラン鉱山」に登場した。
+  - オオガキ所長
+    声 - 広森信吾
+    「新兵士ヘルバット」に登場した。
+  - バーンズ市長
+    声 - 佐藤正治
+    「タンカー強奪作戦」に登場した。
+  - トム
+    声 - [滝雅也](https://ja.wikipedia.org/wiki/滝雅也 "wikilink")
+    「マッハとタックル」に登場した。
+  - クランプ
+    声 - 冬馬由美→[上村典子](https://ja.wikipedia.org/wiki/上村典子 "wikilink")
+    ジャンの友人。
+    「死闘\!\!南極の攻防戦」と「ジャン 学校を守れ」に登場した。
+  - クランプの父
+    声 - [銀河万丈](../Page/銀河万丈.md "wikilink")
+    「死闘\!\!南極の攻防戦」に登場した。
+
+## スタッフ
+
+  - プロデューサー：[奥出信行](https://ja.wikipedia.org/wiki/奥出信行 "wikilink")（株式会社タカラ）、横山賢二（東映動画）、吉田竜也（東映動画）
+  - 企画：トランスフォーマーステーション、藤田誠、中野隆幸、大野光仁、貝塚秀仁
+  - 原案・キャラクターデザイン協力：金田益実、まがみばん（連載誌 - 『[テレビマガジン](https://ja.wikipedia.org/wiki/テレビマガジン "wikilink")』、『[おともだち](https://ja.wikipedia.org/wiki/おともだち "wikilink")』）
+  - シリーズ構成：[星山博之](https://ja.wikipedia.org/wiki/星山博之 "wikilink")
+  - 音楽：[石田勝範](https://ja.wikipedia.org/wiki/石田勝範 "wikilink")
+  - 製作担当：目黒宏（東映動画）
+  - 美術デザイン：[行信三](https://ja.wikipedia.org/wiki/行信三 "wikilink")
+  - 美術：佐貫利勝、渡辺佳人、[東潤一](https://ja.wikipedia.org/wiki/東潤一 "wikilink")、松本健治
+  - 総作画監督：大島城次
+  - シリーズディレクター：[新田義方](https://ja.wikipedia.org/wiki/新田義方 "wikilink")
+  - [日本テレビプロデューサー](../Page/日本テレビ放送網.md "wikilink")：清水篤
+  - 特殊効果：山本公、前川孝
+  - 撮影：沖田英一
+  - 編集：花井正明（[タバック](https://ja.wikipedia.org/wiki/タバック "wikilink")）
+  - 録音：市川修（タバック）
+  - 効果；伊藤道広（[E\&M](https://ja.wikipedia.org/wiki/E&Mプランニングセンター "wikilink")）
+  - 選曲：宮下滋（[VIMOS](https://ja.wikipedia.org/wiki/ビモス・プランニング "wikilink")）
+  - オーディオディレクター：[小松亘弘](https://ja.wikipedia.org/wiki/小松亘弘 "wikilink")
+  - 演出助手：遠藤卓司、[宇田鋼之介](https://ja.wikipedia.org/wiki/宇田鋼之介 "wikilink")、磯村剣詩
+  - 製作進行：本間修、三渡堅吾、松田喜明、遠藤卓司、宇田鋼之介
+  - 美術進行：中村実
+  - 仕上進行：本間修、小山信吾、菅野玲子
+  - 制作：[株式会社タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")、[東映](https://ja.wikipedia.org/wiki/東映動画 "wikilink")
+
+## 主題歌
+
+  - オープニングテーマ - 『トランスフォーマーV（ビクトリー）』
+    作詞 - [藤公之介](https://ja.wikipedia.org/wiki/藤公之介 "wikilink") / 作曲 - [渡辺宙明](../Page/渡辺宙明.md "wikilink") / 編曲 - [石田勝範](https://ja.wikipedia.org/wiki/石田勝範 "wikilink") / 歌 - [茅弘二](https://ja.wikipedia.org/wiki/茅弘二 "wikilink")、[森の木児童合唱団](https://ja.wikipedia.org/wiki/森の木児童合唱団 "wikilink")\[10\]
+  - エンディングテーマ - 『サイバトロンばんざい』
+    作詞 - 藤公之介 / 作曲 - 渡辺宙明 / 編曲 - 石田勝範 / 歌 - [こおろぎ'73](https://ja.wikipedia.org/wiki/こおろぎ'73 "wikilink")、森の木児童合唱団\[11\]
+    子供達のちょっととぼけた呼びかけや問いにスターセイバーが答える、という形で展開されるコミカルな内容が特徴。
+
+## 各話リスト
+
+第22、28、39 - 44話は関東未放映\[12\]。第39話、第44話の予告編は映像マスター紛失の為、視聴不能になっている\[13\]。
+
+2007年7月から11月まで、[東映チャンネル](https://ja.wikipedia.org/wiki/東映チャンネル "wikilink")の「スーパーロボット列伝」にてニューマスター版で再放送された（第39 - 44話を除く）。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話数</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>脚本</p></th>
+<th><p>演出</p></th>
+<th><p>作画監督</p></th>
+<th><p>美術</p></th>
+<th><p>放送日</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>宇宙の勇者・スターセイバー</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/星山博之" title="wikilink">星山博之</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/新田義方" title="wikilink">新田義方</a></p></td>
+<td><p>八幡正<br />
+藁谷均</p></td>
+<td><p>佐貫利勝</p></td>
+<td><p><strong><a href="../Page/1989年.md" title="wikilink">1989年</a></strong><br />
+<a href="https://ja.wikipedia.org/wiki/3月14日" title="wikilink">3月14日</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>奇襲!ダイノキング</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/安藤豊弘" title="wikilink">安藤豊弘</a></p></td>
+<td><p>松浦錠平</p></td>
+<td><p>星越賢次</p></td>
+<td><p>渡辺佳人</p></td>
+<td><p><a href="../Page/3月28日.md" title="wikilink">3月28日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>襲撃!レオザック</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/荒木芳久" title="wikilink">荒木芳久</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/又野弘道" title="wikilink">又野弘道</a></p></td>
+<td><p>永木龍博</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東潤一" title="wikilink">東潤一</a></p></td>
+<td><p><a href="../Page/4月4日.md" title="wikilink">4月4日</a></p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>合体</p></td>
+<td><p>マルチ戦隊</p></td>
+<td><p>鈴木肇</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐々木勝利" title="wikilink">佐々木勝利</a></p></td>
+<td><p>上村栄司</p></td>
+<td><p>渡辺佳人</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>出勤!レスキュー部隊</p></td>
+<td><p>荒木芳久</p></td>
+<td><p>吉沢孝男</p></td>
+<td><p>林和男</p></td>
+<td><p>東潤一</p></td>
+<td><p><a href="../Page/4月18日.md" title="wikilink">4月18日</a></p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>潜入…ウラン鉱山</p></td>
+<td><p>安藤豊弘</p></td>
+<td><p>金山通弘</p></td>
+<td><p>鉄羅紀明</p></td>
+<td><p>渡辺佳人</p></td>
+<td><p><a href="../Page/4月25日.md" title="wikilink">4月25日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>爆破</p></td>
+<td><p>エネルギー基地</p></td>
+<td><p>星山博之</p></td>
+<td><p>新田義方</p></td>
+<td><p>八幡正<br />
+藁谷均</p></td>
+<td><p>東潤一</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>大都会・地下の恐怖</p></td>
+<td><p>荒木芳久</p></td>
+<td><p>松浦錠平</p></td>
+<td><p>星越賢次</p></td>
+<td><p>渡辺佳人</p></td>
+<td><p><a href="../Page/5月16日.md" title="wikilink">5月16日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>激突</p></td>
+<td><p>二大英雄（総集編）</p></td>
+<td><p>安藤豊弘</p></td>
+<td><p>新田義方</p></td>
+<td><p>大島城次</p></td>
+<td><p>東潤一</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>新兵士・ヘルバット</p></td>
+<td><p>荒木芳久</p></td>
+<td><p>又野弘道</p></td>
+<td><p>永木龍博</p></td>
+<td><p><a href="../Page/5月30日.md" title="wikilink">5月30日</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>シャトル基地を狙え</p></td>
+<td></td>
+<td><p>星山博之</p></td>
+<td><p>佐々木勝利</p></td>
+<td><p>山口聡</p></td>
+<td><p>渡辺佳人</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>タンカー強奪作戦</p></td>
+<td><p>安藤豊弘</p></td>
+<td><p>吉沢孝男</p></td>
+<td><p>林和男</p></td>
+<td><p>東潤一</p></td>
+<td><p><a href="../Page/6月13日.md" title="wikilink">6月13日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>出撃</p></td>
+<td><p>ブレストフォース（総集編）</p></td>
+<td><p>荒木芳久</p></td>
+<td><p>新田義方</p></td>
+<td><p>星越賢次</p></td>
+<td><p>渡辺佳人</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>ジャンを救出せよ</p></td>
+<td></td>
+<td><p>鈴木肇</p></td>
+<td><p>金山通弘</p></td>
+<td><p>大島城次</p></td>
+<td><p><a href="../Page/7月4日.md" title="wikilink">7月4日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>マッハとタックル</p></td>
+<td><p>新田義方</p></td>
+<td><p>八幡正<br />
+藁谷均</p></td>
+<td><p>松本健治</p></td>
+<td><p><a href="../Page/7月18日.md" title="wikilink">7月18日</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p>激戦</p></td>
+<td><p>アステロイド</p></td>
+<td><p>安藤豊弘</p></td>
+<td><p>松浦錠平</p></td>
+<td><p>星越賢次</p></td>
+<td><p>渡辺佳人</p></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p>マイクロ星・謎の戦士</p></td>
+<td><p>荒木芳久</p></td>
+<td><p>又野弘道</p></td>
+<td><p>永木龍博</p></td>
+<td><p>佐貫利勝</p></td>
+<td><p><a href="../Page/8月1日.md" title="wikilink">8月1日</a></p></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p>奪還!ガイホーク</p></td>
+<td><p>鈴木肇</p></td>
+<td><p>佐々木勝利</p></td>
+<td><p>山口聡</p></td>
+<td><p>渡辺佳人</p></td>
+<td><p><a href="../Page/8月8日.md" title="wikilink">8月8日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
+<td><p>合体!ライオカイザー</p></td>
+<td><p>星山博之</p></td>
+<td><p>吉沢孝男</p></td>
+<td><p>林和男</p></td>
+<td><p>松本健治</p></td>
+<td><p><a href="../Page/8月15日.md" title="wikilink">8月15日</a></p></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+<td><p>勢揃い!合体戦士（総集編）</p></td>
+<td><p>安藤豊弘</p></td>
+<td><p>金山通弘</p></td>
+<td><p>八幡正<br />
+藁谷均</p></td>
+<td><p>佐貫利勝</p></td>
+<td><p><a href="../Page/8月22日.md" title="wikilink">8月22日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>21</p></td>
+<td><p>復活!?デストロン要塞</p></td>
+<td><p>荒木芳久</p></td>
+<td><p>又野弘道</p></td>
+<td><p>大島城次</p></td>
+<td><p>渡辺佳人</p></td>
+<td><p><a href="../Page/8月29日.md" title="wikilink">8月29日</a></p></td>
+</tr>
+<tr class="even">
+<td><p>22</p></td>
+<td><p>怒りのバトルアップ</p></td>
+<td></td>
+<td><p>安藤豊弘</p></td>
+<td><p>新田義方</p></td>
+<td><p>八幡正<br />
+藁谷均</p></td>
+<td><p>佐貫利勝</p></td>
+</tr>
+<tr class="odd">
+<td><p>23</p></td>
+<td><p>死闘</p></td>
+<td><p>南極の攻防戦</p></td>
+<td><p>鈴木肇</p></td>
+<td><p>松浦錠平</p></td>
+<td><p>星越賢次</p></td>
+<td><p>渡辺佳人</p></td>
+</tr>
+<tr class="even">
+<td><p>24</p></td>
+<td><p>危機!砂漠の待ち伏せ</p></td>
+<td><p>荒木芳久</p></td>
+<td><p>又野弘道</p></td>
+<td><p>永木龍博</p></td>
+<td><p><a href="../Page/9月12日.md" title="wikilink">9月12日</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>25</p></td>
+<td><p>死を賭けた激闘</p></td>
+<td><p>佐々木勝利</p></td>
+<td><p>上村栄司</p></td>
+<td><p><a href="../Page/9月19日.md" title="wikilink">9月19日</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>26</p></td>
+<td><p>ジンライ死す</p></td>
+<td></td>
+<td><p>星山博之</p></td>
+<td><p>吉沢孝男</p></td>
+<td><p>林和男</p></td>
+<td><p>松本健治</p></td>
+</tr>
+<tr class="odd">
+<td><p>27</p></td>
+<td><p>戦え</p></td>
+<td><p>ビクトリーレオ</p></td>
+<td><p>安藤豊弘</p></td>
+<td><p>金山通弘</p></td>
+<td><p>大島城次</p></td>
+<td><p>渡辺佳人</p></td>
+</tr>
+<tr class="even">
+<td><p>28</p></td>
+<td><p>絶体絶命!サイバトロン（総集編）</p></td>
+<td><p>鈴木肇</p></td>
+<td><p>新田義方</p></td>
+<td><p>松本健治</p></td>
+<td><p>未放映</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>29</p></td>
+<td><p>めざめよ!ビクトリーレオ</p></td>
+<td><p>安藤豊弘</p></td>
+<td><p>八幡正<br />
+藁谷均</p></td>
+<td><p>佐貫利勝</p></td>
+<td><p><a href="../Page/10月3日.md" title="wikilink">10月3日</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>30</p></td>
+<td><p>逆転!必殺のビクトリー合体</p></td>
+<td><p>荒木芳久</p></td>
+<td><p>松浦錠平</p></td>
+<td><p>星越賢次</p></td>
+<td><p>渡辺佳人</p></td>
+<td><p><a href="../Page/10月17日.md" title="wikilink">10月17日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>31</p></td>
+<td><p>ジャン・学園を守れ</p></td>
+<td></td>
+<td><p>鈴木肇</p></td>
+<td><p>又野弘道</p></td>
+<td><p>大島城次</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/10月31日" title="wikilink">10月31日</a></p></td>
+</tr>
+<tr class="even">
+<td><p>32</p></td>
+<td><p>謎?!基地爆破の罠</p></td>
+<td><p>荒木芳久</p></td>
+<td><p>佐々木勝利</p></td>
+<td><p>上村栄司</p></td>
+<td><p><a href="../Page/11月7日.md" title="wikilink">11月7日</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>33</p></td>
+<td><p>死を呼ぶ宇宙昆虫</p></td>
+<td></td>
+<td><p>安藤豊弘</p></td>
+<td><p>吉沢孝男</p></td>
+<td><p>林和男</p></td>
+<td><p>松本健治</p></td>
+</tr>
+<tr class="even">
+<td><p>34</p></td>
+<td><p>最強!ビクトリーセイバー（総集編）</p></td>
+<td><p>鈴木肇</p></td>
+<td><p>金山通弘</p></td>
+<td><p>星越賢次</p></td>
+<td><p>渡辺佳人</p></td>
+<td><p><a href="../Page/11月21日.md" title="wikilink">11月21日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>35</p></td>
+<td><p>巨大津波の恐怖</p></td>
+<td><p>荒木芳久</p></td>
+<td><p>新田義方</p></td>
+<td><p>大島城次</p></td>
+<td><p><a href="../Page/11月28日.md" title="wikilink">11月28日</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>36</p></td>
+<td><p>巨大要塞怒りの復活!</p></td>
+<td><p>安藤豊弘</p></td>
+<td><p>松浦錠平</p></td>
+<td><p>星越賢次</p></td>
+<td><p><a href="../Page/12月5日.md" title="wikilink">12月5日</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>37</p></td>
+<td><p>激突!要塞VSビクトリー合体</p></td>
+<td><p>星山博之</p></td>
+<td><p>又野弘道</p></td>
+<td><p>大島城次</p></td>
+<td><p>東潤一</p></td>
+<td><p><a href="../Page/12月12日.md" title="wikilink">12月12日</a></p></td>
+</tr>
+<tr class="even">
+<td><p>38</p></td>
+<td><p>サイバトロンは永遠に（総集編）</p></td>
+<td><p>荒木芳久</p></td>
+<td><p>新田義方</p></td>
+<td><p>渡辺佳人</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>39</p></td>
+<td><p>輝け!勝利の星（総集編）</p></td>
+<td><p>金田益実（構成）</p></td>
+<td><p>金田益実</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>未放映</p></td>
+</tr>
+<tr class="even">
+<td><p>40</p></td>
+<td><p>破壊大帝に勝て!（総集編）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>41</p></td>
+<td><p>SOS!地球防衛指令（総集編）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>42</p></td>
+<td><p>マイクロトランスフォーマー!（総集編）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>43</p></td>
+<td><p>友情のビクトリーアタック!（総集編）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>44</p></td>
+<td><p>銀河にひびけ!愛の鐘</p></td>
+<td><p>（総集編）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 放送局
+
+※放送日時は1989年9月中旬 - 10月上旬時点、放送系列は放送当時のものとする\[14\]。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>放送地域</p></th>
+<th><p>放送局</p></th>
+<th><p>放送系列</p></th>
+<th><p>放送日時</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
+<td><p>日本テレビ</p></td>
+<td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a></p></td>
+<td><p>火曜 17:00 - 17:30</p></td>
+<td><p><strong>制作局</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
+<td><p><a href="../Page/北海道テレビ放送.md" title="wikilink">北海道テレビ</a></p></td>
+<td><p><a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
+<td><p>金曜 17:00 - 17:30</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
+<td><p><a href="../Page/青森テレビ.md" title="wikilink">青森テレビ</a></p></td>
+<td><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">TBS系列</a></p></td>
+<td><p>木曜 16:30 - 17:00</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
+<td><p><a href="../Page/テレビ岩手.md" title="wikilink">テレビ岩手</a></p></td>
+<td><p>日本テレビ系列</p></td>
+<td><p>日曜 6:15 - 6:45</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a></p></td>
+<td><p>木曜 17:30 - 18:00</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
+<td><p><a href="../Page/宮城テレビ放送.md" title="wikilink">ミヤギテレビ</a></p></td>
+<td><p>木曜 17:00 - 17:30</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a></p></td>
+<td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a></p></td>
+<td><p>月曜 16:30 - 17:00</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
+<td><p><a href="../Page/福島中央テレビ.md" title="wikilink">福島中央テレビ</a></p></td>
+<td><p>日本テレビ系列</p></td>
+<td><p>木曜 17:00 - 17:30</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/山梨県.md" title="wikilink">山梨県</a></p></td>
+<td><p><a href="../Page/テレビ山梨.md" title="wikilink">テレビ山梨</a></p></td>
+<td><p>TBS系列</p></td>
+<td><p>水曜 16:25 - 16:55</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
+<td><p><a href="../Page/テレビ新潟放送網.md" title="wikilink">テレビ新潟</a></p></td>
+<td><p>日本テレビ系列</p></td>
+<td><p>火曜 17:00 - 17:30</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a></p></td>
+<td><p>TBS系列</p></td>
+<td><p>土曜 17:00 - 17:30</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
+<td><p><a href="../Page/静岡第一テレビ.md" title="wikilink">静岡第一テレビ</a></p></td>
+<td><p>日本テレビ系列</p></td>
+<td><p>水曜 17:00 - 17:30</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
+<td><p><a href="../Page/富山テレビ放送.md" title="wikilink">富山テレビ</a></p></td>
+<td><p>フジテレビ系列</p></td>
+<td><p>火曜 16:25 - 16:55</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
+<td><p><a href="../Page/石川テレビ放送.md" title="wikilink">石川テレビ</a></p></td>
+<td><p>木曜 16:10 - 16:40</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/福井テレビジョン放送" title="wikilink">福井テレビ</a></p></td>
+<td><p>金曜 16:30 - 17:00</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>中京広域圏</p></td>
+<td><p><a href="../Page/中京テレビ放送.md" title="wikilink">中京テレビ</a></p></td>
+<td><p>日本テレビ系列</p></td>
+<td><p>木曜 17:00 - 17:30</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>近畿広域圏</p></td>
+<td><p><a href="../Page/讀賣テレビ放送.md" title="wikilink">読売テレビ</a></p></td>
+<td><p>火曜 10:55 - 11:25</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/鳥取県.md" title="wikilink">鳥取県</a>・<a href="../Page/島根県.md" title="wikilink">島根県</a></p></td>
+<td><p><a href="../Page/日本海テレビジョン放送.md" title="wikilink">日本海テレビ</a></p></td>
+<td><p>木曜 17:00 - 17:30</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/広島テレビ" title="wikilink">広島テレビ</a></p></td>
+<td><p>火曜 17:00 - 17:30</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
+<td><p><a href="../Page/テレビ山口.md" title="wikilink">テレビ山口</a></p></td>
+<td><p>TBS系列</p></td>
+<td><p>木曜 17:00 - 17:30</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">香川県・岡山県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西日本放送テレビ" title="wikilink">西日本放送</a></p></td>
+<td><p>日本テレビ系列</p></td>
+<td><p>水曜 17:00 - 17:30</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
+<td><p><a href="../Page/テレビ愛媛.md" title="wikilink">愛媛放送</a></p></td>
+<td><p>フジテレビ系列</p></td>
+<td><p>日曜 6:00 - 6:30</p></td>
+<td><p>現・テレビ愛媛。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/高知県.md" title="wikilink">高知県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高知放送" title="wikilink">高知放送</a></p></td>
+<td><p>日本テレビ系列</p></td>
+<td><p>木曜 16:30 - 17:00</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
+<td><p>土曜 8:00 - 8:30</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/佐賀県.md" title="wikilink">佐賀県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サガテレビ" title="wikilink">サガテレビ</a></p></td>
+<td><p>フジテレビ系列</p></td>
+<td><p>金曜 16:30 - 17:00</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a></p></td>
+<td><p>TBS系列</p></td>
+<td><p>火曜 17:30 - 18:00</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
+<td><p><a href="../Page/熊本県民テレビ.md" title="wikilink">熊本県民テレビ</a></p></td>
+<td><p>日本テレビ系列</p></td>
+<td><p>木曜 17:00 - 17:30</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ大分" title="wikilink">テレビ大分</a></p></td>
+<td><p>フジテレビ系列<br />
+日本テレビ系列<br />
+テレビ朝日系列</p></td>
+<td><p>木曜 16:00 - 16:30</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
+<td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a></p></td>
+<td><p>金曜 16:00 - 16:30</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ</a></p></td>
+<td><p>フジテレビ系列<br />
+日本テレビ系列</p></td>
+<td><p>水曜 16:30 - 17:00</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
+<td><p><a href="../Page/沖縄テレビ放送.md" title="wikilink">沖縄テレビ</a></p></td>
+<td><p>フジテレビ系列</p></td>
+<td><p>木曜 16:30 - 17:00</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 海外玩具展開
+
+本年は日本国内と海外とで最もラインナップの異なる展開が行われた。海外では前年から続くプリテンダーと小型TFマイクロマスターが主力となっている。
+
+### プリテンダー/Pretender
+
+<table width="90%">
+
+<tr>
+
+<td valign="top" width="50%">
+
+  - AutoBots
+
+<!-- end list -->
+
+  - ピンチャー/Pincher
+    サソリに変形。
+  - ダブルヘッダー/DoubleHeader
+    ジェット機に変形。双頭のアウターシェル。
+  - ロングトゥース/LongTooth
+    装甲車に変形。アウターシェルはセイウチに似た獣人。
+
+</td>
+
+<td valign="top" width="50%">
+
+  - Decepticons
+
+<!-- end list -->
+
+  - オクトパンチ/OctoPunch
+    カニに変形。アウターシェルはタコに似た獣人。
+  - ストラングルホールド/StrangleHold
+    サイに変形。セイバートロン星のプロレスラー。
+  - ブラジオン/Bludgeon
+    戦車に変形。髑髏の顔の武者姿のアウターシェルでコミックスでは指揮官として登場。
+
+</td>
+
+</tr>
+
+</table>
+
+#### クラシックプリテンダー/ClassicPretender
+
+  - グリムロック/Grimlock
+    声 - [グレッグ・バーガー](https://ja.wikipedia.org/wiki/グレッグ・バーガー "wikilink")（テレビCM）
+  - バンブル/BumbleBee
+    マイスター/Jazz
+    声 - [フランク・ウェルカー](https://ja.wikipedia.org/wiki/フランク・ウェルカー "wikilink")（テレビCM）
+  - スタースクリーム/StarScream
+    声 - ビクター・カロリー（テレビCM）
+    [初代TFの人気キャラクター](../Page/戦え!超ロボット生命体トランスフォーマー.md "wikilink")。変形モチーフは当時の物と同様。彼らは過去のそれと同一人物という設定である。
+    日本においては本体のみを1つにパッケージングして「ヒーローセット」の名称で販売。
+
+#### メガプリテンダー/MegaPretender
+
+アウターシェル自体が変形し、本体と合体する。
+
+  - ヴルーム/Vroom
+    本体は自動車に変形。バイクに変形するアウターシェルと合体してサイドカーに変形できるサイバトロン。
+  - クロスブレイズ/CrossBlades
+    本体はドラッグスターに変形。ヘリコプターに変形するアウターシェルと合体して攻撃ヘリになるサイバトロン。日本では仕様変更したものが**ブルーバッカス**として販売された。
+  - サンダーウイング/ThunderWing
+    本体は小型ジェット機。異星人型アウターシェルと合体し巨大ジェット機になるデストロン。日本では仕様変更したものが**ブラックシャドー**として販売された。
+    マーベルコミック版ではこの時期のセイバートロン星の破壊大帝であり、コンボイの体から離れ行方不明となっていたマトリクスの奪取を企み成功するも、悪の力への興味を抱いて暴走したマトリクスに意識を乗っ取られてしまう。
+
+#### ウルトラプリテンダー/UltraPretender
+
+変形する本体、それを乗せるビークルになるアウターシェル、さらにそれを格納出来る大型ビークルのセット。
+
+  - スカイハマー/SkyHammer
+    サイバトロン。本体は自動車、アウターシェルはホバージェットに変形。大型ビークルは戦闘艇。
+  - ロードブロック/RoadBlock
+    デストロン。本体は自動車、アウターシェルは飛行クルーザーに変形。大型ビークルは装甲車。
+
+#### プリテンダーモンスター/PretenderMonsters
+
+モンスターに変形するデストロン。日本では本体の色を塗り替え、アウターシェルをモンスターから恐竜に変更したものが**恐竜戦隊**として販売された。
+
+<table width="90%">
+
+<tr>
+
+<td valign="top" width="50%">
+
+  - スカウル/Scowl
+    岩石に似た怪物のアウターシェル。日本では仕様変更品が**ゴウリュウ**として販売された。
+  - ブリスルバック/BristleBack
+    四足獣のアウターシェル。日本では仕様変更品が**ガイリュウ**として販売された。
+  - スロッグ/Slog
+    長い鉤爪を持った怪物のアウターシェル。プリテンダーモンスターのリーダーである。日本では仕様変更品が**カクリュウ**として販売された。
+
+</td>
+
+<td valign="top" width="50%">
+
+  - アイスピック/IcePick
+    カニに似たモンスターのアウターシェル。日本では仕様変更品が**ドリュウ**として販売された。
+  - ワイルドフライ/WildFly
+    翼竜に似たモンスターのアウターシェル。日本では仕様変更品が**ヨクリュウ**として販売された。
+  - バードブレイン/BirdBrain
+    鳥に似たモンスターのアウターシェル。日本では仕様変更品が**ライリュウ**として販売された。
+
+</td>
+
+</tr>
+
+</table>
+
+  - モンストラクター/Monstructor
+    プリテンダーモンスターの6体が合体した兵士。
+
+### マイクロマスター/MicroMaster
+
+国内では翌年『[トランスフォーマーZ](https://ja.wikipedia.org/wiki/トランスフォーマーZ#マイクロトランスフォーマー/MicroMasters "wikilink")』で発売された。詳細はそちらの項にて。
+
+## 映像ソフト
+
+  - 戦え\! 超ロボット生命体 トランスフォーマーV DVD-BOX
+    1巻は[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")、2巻は[ジェネオン](https://ja.wikipedia.org/wiki/ジェネオン "wikilink")\[15\]より発売。
+      - BOX1 [2003年](../Page/2003年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink") 第1-24話収録
+      - BOX2 2003年[12月21日](../Page/12月21日.md "wikilink") 第25-44話\[16\]収録
+  - 戦え\!超ロボット生命体 トランスフォーマーV DVD-SET
+    全巻は[NBCユニバーサル・エンターテイメントより発売](https://ja.wikipedia.org/wiki/NBCユニバーサル・エンターテイメントジャパン "wikilink")。
+      - DVD-SET1 [2015年](../Page/2015年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") 第1-24話収録
+      - DVD-SET2 2015年3月25日 第25-44話\[17\]収録
+
+## 脚注
+
+<references/>
+
+## 外部リンク
+
+  - [戦え\!超ロボット生命体 トランスフォーマーV](https://www.b-ch.com/titles/3015/)バンダイチャンネル公式ホームページ
+  - [戦え\!超ロボット生命体 トランスフォーマーV](http://lineup.toei-anim.co.jp/ja/tv/victory/)東映アニメーション公式サイト
+
+[Category:トランスフォーマーシリーズアニメ作品](https://ja.wikipedia.org/wiki/Category:トランスフォーマーシリーズアニメ作品 "wikilink") [Category:1989年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1989年のテレビアニメ "wikilink") [Category:東映・東映アニメーションのロボットアニメ](https://ja.wikipedia.org/wiki/Category:東映・東映アニメーションのロボットアニメ "wikilink")
+
+1.  谷澤崇編「〔日本上陸30周年記念インタビュー〕 大野光仁」『トランスフォーマージェネレーション2015』[ヒーローX](https://ja.wikipedia.org/wiki/ヒーローX "wikilink")、[2015年](../Page/2015年.md "wikilink")（平成27年）11月25日、ISBN 978-4-8130-2266-4、14-15頁。
+2.  玩具では全員の組み合わせにより30種類のバリエーションが可能。
+3.  「トランスフォーマー ひみつのひみつ ひみつ13 マルチ戦隊の特徴はなんですか?」『戦え\!超ロボット生命体 トランスフォーマーV大百科』講談社、1989年8月17日、ISBN 4-06-177764-5、114頁。
+4.  前作と同じく冷静な語り口で場の状況やキャラクターの心情を解説。38話以外の総集編ではそれまでのストーリーを解説した。
+5.  谷澤崇編「TF MANIAX TF紳士録＜プリテンダー開発秘話＞●大野光仁×石澤隆行」『トランスフォーマージェネレーション2012』ミリオン出版、2012年4月26日、ISBN 978-4-8130-2181-0、71頁。
+6.
+7.  『トランスフォーマージェネレーション2013』ミリオン出版、2013年8月5日、ISBN 978-4-8130-2234-3、45頁。
+8.
+9.  EDクレジットでは**ブラックシャドウ**と表記。
+10. OPのクレジットで森の木合唱団と表示
+11. OPのクレジットで森の木合唱団と表示
+12.
+13.
+14.
+15. パイオニアと表示された
+16. 39話以外
+17. 39話以外

@@ -1,0 +1,77 @@
+> この記事は[IT](https://ja.wikipedia.org/wiki/IT)から翻訳されています。
+
+
+**ITビジョン**（アイティービジョン, IT Vision）は、[1996年](../Page/1996年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")\[1\]にかけて日本国内で実施された[アナログテレビ向け](../Page/NTSC.md "wikilink")[データ放送](../Page/データ放送.md "wikilink")の規格および愛称である。この名はInter Text（インターテキスト）の頭文字から取られた。[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")を中心とした団体により規格化され、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列の一部と[WOWOW](../Page/WOWOW.md "wikilink")で放送が行われた。
+
+## 解説
+
+テレビ東京では1996年10月から放送を開始し、系列局の[テレビ大阪](../Page/テレビ大阪.md "wikilink")では1997年6月から、[テレビ愛知](../Page/テレビ愛知.md "wikilink")では1997年12月から、[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")では1999年4月から順次放送を開始した。ただし[テレビ北海道](../Page/テレビ北海道.md "wikilink")、[テレビせとうち](../Page/テレビせとうち.md "wikilink")では実施されなかった。このほか[WOWOW](../Page/WOWOW.md "wikilink")でも1998年4月から放送が開始された。
+
+ITビジョンは既存のテレビ放送と通信網の利用、[リモコン](https://ja.wikipedia.org/wiki/リモコン "wikilink")による容易な操作を両立させた双方向テレビの実現を目的に開発された。アメリカ合衆国のウィンク・コミュニケーションズ社による開発技術の流用、表示対象機器は一般の[テレビ受像機](../Page/テレビ受像機.md "wikilink")とすること、テレビ番組との連動・補完を主目的としたデータ番組の送信および[電話回線](https://ja.wikipedia.org/wiki/電話回線 "wikilink")を用いた双方向通信への対応を特徴とした\[2\]。ITビジョン向けデータ放送は[垂直帰線区間](https://ja.wikipedia.org/wiki/垂直帰線区間 "wikilink")の10番目から13番目 (10H-13H) へ重畳され、テレビ放送とともに送信された。データ番組制作や受信データの運営管理には東芝の関連会社メディアサーブが関わった。
+
+東芝は単体のITビジョンチューナーを発売するとともに、ほぼ全ての多機能型ワイドテレビ、ハイビジョンテレビへITビジョンチューナーを組み込み、2000年まで新モデルの開発・販売を継続した。東芝以外には[松下電器産業](https://ja.wikipedia.org/wiki/パナソニック "wikilink")、[ソニー](../Page/ソニー.md "wikilink")、[日本ビクター](../Page/日本ビクター.md "wikilink")も対応受信機を発売した。この中には東芝の[OEM](../Page/OEM.md "wikilink")供給品も含まれた。
+
+アナログテレビを対象としたデータ多重放送としては日本国内で最初にサービスを開始し、番組連動データ放送のほか、テレビ番組とは連動しない独立データ放送や、放送波を用いずに電話回線のみで情報を送受信するオンラインサービスも実施した。この他[テレビジョン文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")、[ファクシミリ](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")、[携帯電話](../Page/携帯電話.md "wikilink")と連動したサービスの提供や、受信機を地方自治体の情報端末として利用する実験も行われた\[3\]。
+
+しかし受信機や放送局が限られたため普及はせず、[ISDB](../Page/ISDB.md "wikilink")方式による[デジタルテレビ放送](https://ja.wikipedia.org/wiki/デジタルテレビ放送 "wikilink")の開始により同等のサービスが提供されたこと、さらに[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")の普及に伴い役割を終え、WOWOWでは[BSデジタル放送開始の](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル "wikilink")[2000年](../Page/2000年.md "wikilink")に放送を終了した。テレビ東京でも[地上デジタルテレビ放送の開始に合わせ独立データ放送を](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[2003年](../Page/2003年.md "wikilink")10月に、連動データ放送も2003年12月に終了した。
+
+## 受信方法とチューナー
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Toshiba_Remote_Control_CT-9863.jpg "wikilink") ITビジョンを視聴するには手持ちのテレビにITビジョンチューナーを接続するか、ITビジョンチューナーを内蔵したテレビを用意する必要があった。受信機にはテレビ放送を受信するためのアンテナ、さらに双方向サービスを利用するために電話回線を接続した。
+
+受信機は地上テレビ放送を受信するためのVHF/UHFテレビチューナー、双方向機能に対応するための[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")、受信したデータを蓄積するための[メモリを内蔵し](../Page/記憶装置.md "wikilink")、アンテナ入力端子、さらに単体チューナーではテレビ受像機への映像音声出力端子、外部チューナーやビデオデッキなどからの映像音声入力端子を備える。すべての受信機には固有のIDナンバーが振られており、双方向サービスを利用する際にはIDナンバーとともに住所、氏名などの個人情報をハガキやオンライン経由によりメディアサーブへ登録する必要があった。
+
+受信機のリモコンにはITビジョンの受信・視聴を開始するためのITメニューボタンとiボタン、項目を選択・決定するためのカーソルボタン・決定ボタン・Aボタン・Bボタン、ITビジョンからテレビ放送へ戻るための終了ボタン、データ番組内や機器設定で数値を入力するための数字ボタンが用意された。
+
+ITビジョンの規格はテレビジョン文字多重放送を応用、拡張したもの\[4\]で、ITビジョン受信機はテレビジョン文字多重放送の受信機能も備えた。東芝はITビジョンサービス終了にあわせITビジョン機能を省いた文字放送チューナーを新発売した\[5\]。
+
+初期モデルの受信機では搭載メモリが最低限のため、新たな情報を閲覧するたびに読み込みおよび待ち時間が発生する欠点があった。この問題はメモリを増量した新型受信機の開発・販売により解決が図られた\[6\]\[7\]。
+
+## サービスの内容
+
+テレビ電波または電話回線を通じて受信したデータはITビジョンチューナーにより処理・蓄積され、[文字](../Page/文字.md "wikilink")や単純な[画像](../Page/画像.md "wikilink")としてテレビ画面に表示される。視聴者はリモコンのITメニューボタンを押し、希望のサービスや情報をカーソルボタンで選択し、決定ボタンを押すことにより情報を閲覧できた。アンケートの回答など視聴者側からのデータは電話回線を通じてメディアサーブへ送信された。この形式は後に開始されたデジタルテレビにおけるデータ放送と類似する。
+
+ITビジョンではテレビ番組との連動の有無、データの受信方法によりサービスは3種に分けられた。サービス実施期間中に名称が変更されたため、それぞれ2つの名称を持つ。WOWOWでは連動ITサービスによる番組連動・補完情報のみ提供され、独立ITサービスは実施されなかった。
+
+  - 連動ITサービス・番組ITサービス
+    放送中のテレビ番組と連動したデータを放送波に乗せて提供するサービス。映画・ドラマの内容解説や旅番組で登場した場所の詳細な問合せ先など、テレビ番組を補完する情報を提供した。番組によっては電話回線による双方向機能を活用し、クイズなどのゲーム、投票やプレゼントの応募受付も実施された。
+    連動番組をITビジョン受信機で視聴した場合には画面隅へ「i」マークが表示され、リモコンのiボタンを押すことによりすぐに連動ITサービスを受信・視聴することができた。
+  - 独立ITサービス・情報ITサービス
+    テレビ番組とは独立した各種の情報を放送波に乗せて提供するサービス。情報は放送局ごとに異なり、[天気予報](../Page/天気予報.md "wikilink")や[株価](../Page/株価.md "wikilink")、[占い](../Page/占い.md "wikilink")、番組情報の他、じゃんけんやクイズ、迷路などのごく単純な[ゲーム](../Page/ゲーム.md "wikilink")が提供された。
+  - オンラインITサービス・ネットITサービス
+    電話回線を経由して接続した[サーバ](../Page/サーバ.md "wikilink")からデータを引き出す形式の[通信](../Page/通信.md "wikilink")サービス。メディアサーブが運営し、ITビジョンの放送地域外からも利用可能であった。[キャプテンシステム](../Page/キャプテンシステム.md "wikilink")に類似するが費用は通話料のみで、情報料はかからない。このサービスでは独立ITサービスと同内容のゲームや、日本全国を対象とした[通信販売](../Page/通信販売.md "wikilink")などのサービスが提供された。
+
+## 連動番組の例
+
+  - [いい旅・夢気分](https://ja.wikipedia.org/wiki/にっぽん!いい旅 "wikilink")・[ドライブ A GO\!GO\!](https://ja.wikipedia.org/wiki/ドラGO! "wikilink") - 観光地、施設などの紹介。
+  - [おはスタ](https://ja.wikipedia.org/wiki/おはスタ "wikilink") - 番組開始から終了までデータ放送を起動しながら視聴すると番組オリジナルグッズが当たる懸賞への応募権が得られた。
+  - [女と愛とミステリー](https://ja.wikipedia.org/wiki/女と愛とミステリー "wikilink") - あらすじや出演者の紹介。
+  - [開運\!なんでも鑑定団](../Page/開運!なんでも鑑定団.md "wikilink") - 番組の品物鑑定と連動したゲームへの参加と応募。
+  - [神谷町LIVE](https://ja.wikipedia.org/wiki/神谷町LIVE "wikilink")
+  - [木曜洋画劇場](https://ja.wikipedia.org/wiki/木曜洋画劇場 "wikilink")・[午後のロードショー](https://ja.wikipedia.org/wiki/午後のロードショー "wikilink") - 放送中の映画の解説。評価の送付による懸賞への応募。
+  - [レディス4](https://ja.wikipedia.org/wiki/レディス4 "wikilink") - 通販コーナーで紹介される商品の購入申し込みなど。
+  - IT's アクセス - ITビジョンの宣伝・普及を目的とした東芝およびメディアサーブ提供の情報バラエティ番組。[テレゴング](https://ja.wikipedia.org/wiki/テレゴング "wikilink")とITビジョン端末による視聴者投票を実施し、ITビジョンのイメージCMも放送された。
+
+## 脚注
+
+## 参考文献
+
+  - 吉本一夫、広井幹也、堀川将幸「[インターテキスト方式の双方向テレビシステムのユーザインタフェースとサービス](http://www.toshiba.co.jp/tech/review/1996/10/f01/index_j.htm)」　『[東芝レビュー](http://www.toshiba.co.jp/tech/review/1996/10/index_j.htm)』　VOL.51、東芝、1996年。
+  - 「[東芝ITビジョンモジネットチューナー　TT-X3(生産終了製品)](http://www.toshiba.co.jp/digital/webcata/av/tt_x3.htm)」 東芝。
+  - Internet Archive Wayback Machine「[Searched for <http://www.mserve.co.jp>](http://web.archive.org/web/*/http://www.mserve.co.jp)（メディアサーブ）」 [インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")。
+  - Internet Archive Wayback Machine「[Searched for <http://www.itvision.gr.jp>](http://web.archive.org/web/*/http://www.itvision.gr.jp) （アイティービジョン推進協議会）」インターネット・アーカイブ。
+
+## 関連項目
+
+  - [ADAMS](../Page/ADAMS.md "wikilink")
+  - [ビットキャスト](https://ja.wikipedia.org/wiki/ビットキャスト "wikilink")
+
+[Category:データ放送](https://ja.wikipedia.org/wiki/Category:データ放送 "wikilink") [Category:テレビ東京の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の歴史 "wikilink") [Category:テレビ大阪](https://ja.wikipedia.org/wiki/Category:テレビ大阪 "wikilink") [Category:テレビ愛知](https://ja.wikipedia.org/wiki/Category:テレビ愛知 "wikilink") [Category:TVQ九州放送](https://ja.wikipedia.org/wiki/Category:TVQ九州放送 "wikilink") [Category:WOWOW](https://ja.wikipedia.org/wiki/Category:WOWOW "wikilink") [Category:東芝の歴史](https://ja.wikipedia.org/wiki/Category:東芝の歴史 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.

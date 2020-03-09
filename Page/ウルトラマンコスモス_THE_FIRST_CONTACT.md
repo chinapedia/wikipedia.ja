@@ -1,0 +1,322 @@
+> この記事は[ THE FIRST CONTACT](https://ja.wikipedia.org/wiki/_THE_FIRST_CONTACT)から翻訳されています。
+
+
+『**ウルトラマンコスモス THE FIRST CONTACT**』（ウルトラマンコスモス ザ・ファースト・コンタクト）は、[2001年](../Page/2001年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")に全国松竹系映画館にて公開された[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")の[映画](../Page/映画.md "wikilink")作品、[松竹](https://ja.wikipedia.org/wiki/松竹 "wikilink")配給。
+
+キャッチコピーは「**君も勇者になれる\!**」「**優しさがあれば、強くもなれる\!**」
+
+## 概要
+
+21世紀最初の[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")の映画作品。テレビシリーズ（『[ウルトラマンコスモス](../Page/ウルトラマンコスモス.md "wikilink")』）の8年前の物語で、ムサシとコスモスの出会いを描いている。
+
+当初は2001年3月に公開予定だったが、公開が遅れてしまい、さらにテレビシリーズの放送開始時期が同年10月から7月に繰り上がったため、劇中の時系列と公開の順序が逆になってしまった\[1\]。
+
+本作の世界観では「ウルトラマン」はサンタクロースのようなおとぎ話の存在として人々に認知されており、その実在を信じているのはムサシ少年のみである。
+
+本作には『[ウルトラQ](https://ja.wikipedia.org/wiki/ウルトラQ "wikilink")』『[ウルトラマン](../Page/ウルトラマン.md "wikilink")』でレギュラー出演していた俳優達が出演している。（黒部進、桜井浩子 など）。
+
+本作には[バルタン星人](https://ja.wikipedia.org/wiki/バルタン星人 "wikilink")が登場しており、旧シリーズとの関連が無い『ウルトラマンコスモス』シリーズの作品で唯一旧シリーズの怪獣が登場した例となっている。監督の飯島敏宏はバルタン星人が初登場する『ウルトラマン』第2話の監督であり、プロデューサーの鈴木清からの「飯島ならバルタン星人」というリクエストを受けて登場が決定した\[2\]。ストーリーは飯島が千束北男名義で1990年代前半に執筆した未製作脚本『ウルトラマン/バルタン星人大逆襲』（飯島敏宏著『バルタンの星のもとに』（[風塵社](https://ja.wikipedia.org/wiki/風塵社 "wikilink")）に収録）の内容を色濃く反映したものとなっている。
+
+一部の登場人物は後の劇場版やテレビシリーズに登場している。
+
+## ストーリー
+
+西暦2001年、母星が滅びたため廃月で新たな居住地を求めるバルタン星人と、それを追うウルトラマンコスモスが地球へ飛来した。バルタン星人との戦いでエネルギーを失い倒れたコスモスは、地球人の少年・春野ムサシに救われる。そして地球侵略を開始したバルタン星人に再び立ち向かう。
+
+## 登場人物
+
+  - [春野ムサシ](https://ja.wikipedia.org/wiki/ウルトラマンコスモス#春野ムサシ "wikilink") と [ウルトラマンコスモス](https://ja.wikipedia.org/wiki/ウルトラマンコスモス#ウルトラマンコスモス "wikilink")
+    テレビシリーズおよび本作の主人公。テレビシリーズの8年前のため、この時のムサシは小学5年生。タイトル通り、ムサシとコスモスのファーストコンタクトがテーマとして描かれるため、今回では一体化しない。
+  - 春野勇次郎
+    ムサシの義理の父（継父）。39歳\[3\]。関西弁を話す警察官で、階級は[巡査部長](https://ja.wikipedia.org/wiki/巡査部長 "wikilink")。男気溢れる熱血漢で、ムサシの夢や意志を尊重し、見守るよき父親。シゲムラから「春田巡査」と名前と階級を呼び間違えられる。
+  - 春野みち子
+    ムサシの母。38歳\[4\]。旧性は五十畑。「ウルトラマンを見た」というムサシの話を信じられないなど勇次郎に比べてやや現実的な性格だが、ムサシのことを強く想っている。
+      - 『ウルトラマンコスモスVSウルトラマンジャスティス THE FINAL BATTLE』
+        モニター越しに自分の息子であるムサシ（コスモス）を見守った。
+  - マリ
+    本作のヒロイン。ムサシの同級生で幼馴染。チャイルドバルタンシルビィに憑依される。『ウルトラマンコスモス2』以降、姓が「川瀬」とされる。
+      - 『ウルトラマンコスモス2 THE BLUE PLANET』
+        チャイルドバルタンシルビィとメール友達になっており、彼を通じてギャシー星人と知合う。
+      - 『ウルトラマンコスモスVSウルトラマンジャスティス THE FINAL BATTLE』
+        シルヴィともいまだに大の仲良しで、ムサシの復活に協力する。
+  - ツトム
+    ムサシの同級生の幼馴染。ムサシとは仲が良いが、当初はムサシのコスモス目撃談を信じなかった。カミナリが苦手。『ウルトラマンコスモス2』以降、姓が「佐々木」とされる。
+      - 『ウルトラマンコスモス2 THE BLUE PLANET』
+        サイパンの観光局に務めており、現地の女性リタと結婚した。同級生からは「うらやましい」と言われた。
+  - ショージ
+    ムサシの同級生の幼馴染。ツトム同様、ムサシとは仲が良いが、当初はムサシのコスモス目撃談を信じなかった。
+      - 『ウルトラマンコスモス』
+        第29・30話に登場。アヤノは彼に対し、「大してハンサムじゃない」とがっかりしていた。車椅子で入院生活を送っていたユウキという弟がいる。
+
+### SRCメンバー
+
+  -
+    MITIの創始者の一人で、SRCの顧問とメカニックの開発を担当する。普段はおもちゃ病院の院長や宇宙科学博物館の館長をしており、ムサシとも顔なじみである。兵器ではない SRC のメカや装備を「おもちゃ」と呼ぶ穏やかな人物。
+      - 『ウルトラマンコスモス』
+        第20話に登場する。ムサシのことは子どもの頃からよく知っている。ムサシのよき理解者。「おもちゃ作りに引退はない」をモットーとする。
+  - アカツキノボル
+    SRCの隊長。元防衛軍の隊員でシャークスのシゲムラ参謀と同期である。名前は暁昇。防衛軍回線のパスワードは「ごろ寝のパパ」。呑龍（ドンロン）出現時に作戦「アクト・ワン」を実行。
+  - ワタナベキョウコ
+    SRCのコンピューター類担当の女性隊員。普段はムサシの小学校で音楽教師をしており、この時は眼鏡を掛けている。名前は渡辺響子。
+  - キド
+    SRCのメカニック担当。トロイAの操縦も行う。普段は自動車の研究所に勤める。明るいムードメーカー。
+      - 『ウルトラマンコスモス2 THE BLUE PLANET』
+        TEAM SEAの隊長になっている。SRC 隊員時代と違い少し落ち着いた様子も見せるが、トロイSを開発するなどメカニックの腕は現在でも衰えていない。
+      - 『[大決戦\!超ウルトラ8兄弟](https://ja.wikipedia.org/wiki/大決戦!超ウルトラ8兄弟 "wikilink")』
+        本作とは別の世界のキドが登場。破壊された[横浜](https://ja.wikipedia.org/wiki/横浜 "wikilink")で救護活動に奔走する医師。看護師の資格を持つ[南夕子と娘の七海に支援を受ける](https://ja.wikipedia.org/wiki/ウルトラマンA#TAC極東支部の隊員 "wikilink")。
+  - ライデン
+    力自慢の隊員。ライデンとは見た目と怪力から江戸時代の力士[雷電爲右エ門](https://ja.wikipedia.org/wiki/雷電爲右エ門 "wikilink")にちなんで付けられたあだ名で、本名はカオルという。普段はケーキ職人として働いている。本人も甘党らしい。
+  - イチノセ
+    天文学に精通しているSRC専任の女性隊員。バックアップ担当だが、格闘技が得意で力仕事もこなす。
+  - サカグチ
+    SRC専任の隊員。物静かな印象だが、主にメカニックでのサポートを行う。
+
+### 統合防衛軍関係者
+
+  - シゲムラ参謀
+    シャークスの司令官。出動時には、シャークス・モバイルという超高性能小型端末を携帯し、部下たちに指令・通信を行う。防衛軍回線のパスワードは「砂漠のサメ」。SRCのアカツキ隊長とは同期であるが、考え方の違いにより対立する。当初はE.T.の存在に懐疑的であったようだが、その実在が確認されてからは彼らに対して強硬な姿勢を見せる。コスモスと遭遇したという噂を持ったムサシを現実的な視点から疑い、その父親の勇次郎のいう事まで疑う。人間を襲う呑龍やバルタン星人を襲い、バルタン星人と同じE.T.であるコスモスまで狙おうとした。最後は勇次郎と取っ組み合い、罵声を浴びせられる。
+  - シャークス副官
+    シゲムラの補佐を務める忠実な副官。赤いベレー帽と黒い隊員服を着用している。シャークスの行動隊長的存在である。
+  - シャークス隊員
+    赤いベレー帽と灰色の隊員服を着用し、機関銃を装備している隊員たち。鍛え抜かれた印象だが、ムサシや彼の友人である子供たちとの輝石の取り合いでは、終始翻弄されていた。
+
+## 科学調査サークルSRC
+
+日本が誇る科学研究所水無月工業技術研究所 (MITI) が設立したボランティア的な調査・研究を行う機関。正式名称は**S**cientific **R**esearch **C**ircle。あくまでボランティア組織であるため、専任の隊員以外にも普段他に職を持っている者も多い。本作の事件をきっかけに発展・拡大し、テレビシリーズでは国際規模の組織になっている。
+
+### 隊員装備
+
+  - SRC隊員服
+    隊員達が着用する隊員服で、耐熱・耐寒・防御効果が高い。出動時にはプロテクターも装備する。
+  - キャップ
+    危険度が低い調査任務の際に被る。
+  - SRCヘルメット
+    危険な任務や、トロイ搭乗時に被る特殊ヘルメット。隊長用にはレッド、隊員用にはイエローのラインが入り、マイクロカメラと通信機を装備している。
+  - ラウンダーグリップ（マイティツール）
+    銃のグリップ型の特殊小型コンピューターで、本部のドアのキーとしても機能する。
+
+### メカニック
+
+  - トロイトータル
+    全長：30m　全高：約10m　全幅：約25m　最高速度：マッハ3　乗員：6名
+    木本研作博士の設計の下、SRCが開発した大型航空機。母機**トロイA**と子機**トロイB**に分離する。この合体機能がテレビシリーズに登場するコアモジュールシステムの原形となっている。キーセーバーという防弾･耐熱塗料で特殊コーティングされた外装は、敵の光線を弾く程強力である。本機もテレビシリーズに登場しており、また映画『[ウルトラマンコスモス2 THE BLUE PLANET](https://ja.wikipedia.org/wiki/ウルトラマンコスモス2_THE_BLUE_PLANET "wikilink")』では発展型の**トロイS**が登場している。名の意味は「夢のつまったマシン」。
+      - ミニチュアは制作されず、CGのみで表現された。デザインは、冷たく攻撃的なイメージとならないように曲線を多用している。
+    <!-- end list -->
+      - トロイA
+        全長：30m　全高：約10m　全幅：約25m　最高速度：マッハ4　乗員：3名
+        トロイBのデータ収集母機・エアマザーとして製作された。作戦指揮機として活躍し、機体下部に敵への直接パンチは勿論、冷凍ガスも放つ大型ミット型キャッチャーアーム・ドデカローブと、超大型スピーカーのドデカピーカーを装備する。
+      - トロイB
+        全長：11m　全高：約3.7m　全幅：約10.4m　最高速度：マッハ2.5　乗員：3名
+        コアモジュールの実験・試作機で、ベイビーコアとも呼ばれる小型作戦機。小回りがきき、バランス性に優れ、VTOL・STOL機能も持つ。装備は、敵に直接パンチと冷凍ガスを放つキャッチャーアーム・デカローブと、小型超スピーカーのデカピーカー。また、自動操縦装置も備えている。
+  - バーナード
+    全長：4.5m　全高：1.45m　全幅：1.8m　最高時速：380km　乗員：4名
+    SRCの公用車で、地上パトロールや探査等に使用する白いメルセデス。特殊な装備は無い様である。
+
+## 国家緊急部隊シャークス
+
+国家の存亡に関わる重大局面に出動する、防衛軍のエリート部隊。軍内部においても、突出した権力を持つといわれている。SRCとのホットラインも作られている。エンブレムはその名の通り、サメをあしらった物。
+
+### メカニック
+
+  - シャークスジェット機 JK
+    防衛軍主力戦闘機をチューンナップしたシャークス専用の機体。形状は[F-86Fを](https://ja.wikipedia.org/wiki/F-86_\(戦闘機\) "wikilink")[デルタ翼](https://ja.wikipedia.org/wiki/デルタ翼 "wikilink")機にしたような双発機である。最高速度はマッハ5。強力機関砲や大型のGミサイル2発、小型ミサイル8発や機首のビーム砲などを装備している。多数の機体で編隊を組んで敵を一斉攻撃し、殲滅を図るのが攻撃パターンである。
+  - シャークス指令車
+    シャークス部隊の指揮を行う指令車で、シゲムラの現場への移動手段も兼ねている。ベース車両は民間用の[ライトバン](https://ja.wikipedia.org/wiki/ライトバン "wikilink")で、車内にはレーダーや指令用のコンピューターシステムが、車体上部には通信用と思われる小型アンテナが搭載されている。
+  - [73式小型トラック](https://ja.wikipedia.org/wiki/73式小型トラック "wikilink")・[73式中型トラック](https://ja.wikipedia.org/wiki/73式中型トラック "wikilink")
+    シャークスが使用している実在車両で、兵員の輸送などに用いられている。現実世界では[陸上自衛隊](https://ja.wikipedia.org/wiki/陸上自衛隊 "wikilink")などに配備されている。
+  - 防衛ミサイル
+    防衛軍駐屯地から発射される大型ミサイル。指令車からの遠隔操作が可能。シゲムラがバルタン星人に勝利した直後のコスモスに向けて発射しようとしたが、勇次郎とムサシの体を張った活躍で阻止された。
+    映像は、『[ウルトラマンガイア](https://ja.wikipedia.org/wiki/ウルトラマンガイア "wikilink")』に登場したワーム・ジャンプ・ミサイルの流用。
+
+## ウルトラマンコスモス
+
+本作では[ルナモード](https://ja.wikipedia.org/wiki/ルナモード "wikilink")と[コロナモード](https://ja.wikipedia.org/wiki/コロナモード "wikilink")が登場している。詳細については[ウルトラマンコスモス\#形態](https://ja.wikipedia.org/wiki/ウルトラマンコスモス#形態 "wikilink")にて
+
+## 登場怪獣・宇宙人
+
+  - [宇宙忍者 バルタン星人ベーシカルバージョン](https://ja.wikipedia.org/wiki/バルタン星人#バルタン星人ベーシカルバージョン "wikilink")
+  - [宇宙忍者 ネオバルタン](https://ja.wikipedia.org/wiki/バルタン星人#ネオバルタン "wikilink")
+  - [宇宙忍者 チャイルドバルタン](https://ja.wikipedia.org/wiki/バルタン星人#チャイルドバルタン "wikilink")
+
+###
+
+英字表記は*DONRON*\[5\]\[6\]。
+
+  - 身長：67メートル\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]
+  - 体重：6万7千トン\[13\]\[14\]\[15\]\[16\]\[17\]\[18\]
+  - 出身地：Kニュータウン遺跡公園\[19\]\[20\]\[21\]
+
+遺跡公園の地下に眠っていた怪獣。古代において人々と共存していたらしく、遺跡に神農様として奉られ、その鱗が薬になるという伝説が残されていた。固い鱗を持ち、**猛炎烈火**\[22\]という火炎を吐く。バルタン星人によって目覚めさせられる。SRCが再度冬眠させようとするも、その作戦中にシャークス隊に攻撃されて気絶。その後、SRCにより遺跡公園の地下に運ばれ、再び長い眠りについた。
+
+『[ウルトラマンコスモスVSウルトラマンジャスティス THE FINAL BATTLE](https://ja.wikipedia.org/wiki/ウルトラマンコスモスVSウルトラマンジャスティス_THE_FINAL_BATTLE "wikilink")』では、対グローカー戦において遺跡公園から目覚め、リドリアス、ゴルメデ、ボルギルスと共闘する。最後は無事に公園に戻された。
+
+  - デザインは[狛犬](https://ja.wikipedia.org/wiki/狛犬 "wikilink")をイメージしている\[23\]。デザインモチーフは獅子舞で、当初は結晶体や岩のイメージを加えていたが、最終的には獅子舞の要素が前面に出ている\[24\]。初期案では[ナマズ](https://ja.wikipedia.org/wiki/ナマズ "wikilink")と[モグラ](https://ja.wikipedia.org/wiki/モグラ "wikilink")をモチーフとしていた\[25\]。デザイン画では、**コンゴウ**や**コンロン**という名称だった\[26\]。
+
+### スーパーハイテクロボット クレバーゴン
+
+英字表記は*CLEVERGON*\[27\]\[28\]。
+
+  - 身長：60センチメートル（脚部伸時：130センチメートル）\[29\]\[30\]\[31\]\[32\]\[33\]\[34\]\[35\]
+  - 体重：9キログラム\[36\]\[37\]\[38\]\[39\]\[40\]\[41\]\[42\]
+  - 出身地：地球\[43\]（おもちゃ病院\[44\]）
+
+ムサシが拾ったおもちゃを木本博士が改造したハイテクロボット。愛称はゴン。腹に[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")を持つ。1420Mhz（ウルトラ信号）を感知する。武器は目から発射されるショックビーム。[テレビシリーズにも度々登場する](https://ja.wikipedia.org/wiki/ウルトラマンコスモスの登場怪獣#スーパーハイテクロボット_クレバーゴン "wikilink")。
+
+  - モデルは『[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")』に登場した[クレージーゴン](https://ja.wikipedia.org/wiki/ウルトラセブンの登場怪獣#ロボット怪獣_クレージーゴン "wikilink")。
+
+## キャスト
+
+  - 春野ムサシ - [東海孝之助](https://ja.wikipedia.org/wiki/東海孝之助 "wikilink")
+  - 春野勇次郎 - [赤井英和](https://ja.wikipedia.org/wiki/赤井英和 "wikilink")
+  - アカツキ ノボル - [川野太郎](https://ja.wikipedia.org/wiki/川野太郎 "wikilink")
+  - キド - [風見しんご](https://ja.wikipedia.org/wiki/風見しんご "wikilink")
+  - ライデン - [舞の海](https://ja.wikipedia.org/wiki/舞の海秀平 "wikilink")
+  - イチノセ - [松本智代美](https://ja.wikipedia.org/wiki/松本智代美 "wikilink")
+  - サカグチ - [蒲地宏](https://ja.wikipedia.org/wiki/蒲地宏 "wikilink")
+  - ワタナベ キョウコ - [中山エミリ](https://ja.wikipedia.org/wiki/中山エミリ "wikilink")
+  - 川瀬マリ - [宇野あゆみ](https://ja.wikipedia.org/wiki/宇野あゆみ "wikilink")
+  - ツトム - [田中大輔](https://ja.wikipedia.org/wiki/田中大輔_\(俳優\) "wikilink")
+  - ショージ - [上田大樹](https://ja.wikipedia.org/wiki/上田大樹_\(俳優\) "wikilink")
+  - タマキ - [千葉智絵](https://ja.wikipedia.org/wiki/千葉智絵 "wikilink")
+  - ミカ - [安谷屋なぎさ](https://ja.wikipedia.org/wiki/安谷屋なぎさ "wikilink")
+  - シャークス副官 - [安生洋二](https://ja.wikipedia.org/wiki/安生洋二_\(俳優\) "wikilink")
+  - 木本研作博士 - [藤村俊二](https://ja.wikipedia.org/wiki/藤村俊二 "wikilink")
+  - ミツル - [府金重哉](https://ja.wikipedia.org/wiki/府金重哉 "wikilink")
+  - ヨースケ - [渡辺諒](https://ja.wikipedia.org/wiki/渡辺諒_\(俳優\) "wikilink")
+  - シンゴ - [佐川将志](https://ja.wikipedia.org/wiki/佐川将志 "wikilink")
+  - フタバ - [高田奈々子](https://ja.wikipedia.org/wiki/高田奈々子 "wikilink")
+  - ヒカル - [広沢理々子](https://ja.wikipedia.org/wiki/広沢理々子 "wikilink")
+  - シャークス隊員 - [中村正人](https://ja.wikipedia.org/wiki/中村正人_\(俳優\) "wikilink")、[松本真治](https://ja.wikipedia.org/wiki/松本真治 "wikilink")、[斉藤陽佐](https://ja.wikipedia.org/wiki/斉藤陽佐 "wikilink")、[山崎義行](https://ja.wikipedia.org/wiki/山崎義行 "wikilink")
+  - コメディアン - [360°モンキーズ](https://ja.wikipedia.org/wiki/360°モンキーズ "wikilink")（山内崇・杉浦又亮）
+  - 巡査 - [相原一夫](https://ja.wikipedia.org/wiki/相原一夫 "wikilink")
+  - 巡査長 - [黒部進](https://ja.wikipedia.org/wiki/黒部進 "wikilink")（友情出演）
+  - レポーター - [毒蝮三太夫](https://ja.wikipedia.org/wiki/毒蝮三太夫 "wikilink")（友情出演）
+  - 野次馬の男性 - [二瓶正也](https://ja.wikipedia.org/wiki/二瓶正也 "wikilink")（友情出演）
+  - 西條さん - [西條康彦](https://ja.wikipedia.org/wiki/西條康彦 "wikilink")（友情出演）
+  - 野次馬の女性 - [桜井浩子](https://ja.wikipedia.org/wiki/桜井浩子 "wikilink")（友情出演）
+  - 春野みち子 - [高橋ひとみ](https://ja.wikipedia.org/wiki/高橋ひとみ "wikilink")
+  - シゲムラ参謀 - [渡辺いっけい](https://ja.wikipedia.org/wiki/渡辺いっけい "wikilink")
+
+### 声の出演
+
+  - ウルトラマンコスモス - [小谷津央典](https://ja.wikipedia.org/wiki/小谷津央典 "wikilink")
+  - バルタン星人 - [郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")、[堀之紀](https://ja.wikipedia.org/wiki/堀之紀 "wikilink")
+  - クレバーゴン - 桜井浩子 ※ノンクレジット
+  - ナレーション - [石坂浩二](https://ja.wikipedia.org/wiki/石坂浩二 "wikilink")
+
+### スーツアクター
+
+  - ウルトラマンコスモス ルナモード - [猫俣博志](https://ja.wikipedia.org/wiki/猫俣博志 "wikilink")
+  - ウルトラマンコスモス コロナモード - [荻野英範](https://ja.wikipedia.org/wiki/荻野英範 "wikilink")
+  - バルタン星人・ネオバルタン - [村田鉄信](https://ja.wikipedia.org/wiki/村田鉄信 "wikilink")
+  - 呑龍（ドンロン） - [山本諭](https://ja.wikipedia.org/wiki/山本諭 "wikilink")、[寺井大介](https://ja.wikipedia.org/wiki/寺井大介 "wikilink")、[北岡久貴](https://ja.wikipedia.org/wiki/北岡龍貴 "wikilink")
+
+## スタッフ
+
+  - 製作総指揮 - [円谷一夫](https://ja.wikipedia.org/wiki/円谷一夫 "wikilink")
+  - 監督 - [飯島敏宏](https://ja.wikipedia.org/wiki/飯島敏宏 "wikilink")
+  - 監督補 - [北浦嗣巳](https://ja.wikipedia.org/wiki/北浦嗣巳 "wikilink")
+  - 特技監督 - [佐川和夫](https://ja.wikipedia.org/wiki/佐川和夫 "wikilink")
+  - 殺陣 - [車邦秀](https://ja.wikipedia.org/wiki/車邦秀 "wikilink")
+  - 脚本 - [千束北男](https://ja.wikipedia.org/wiki/飯島敏宏 "wikilink")
+  - 脚本協力 - [大西信介](https://ja.wikipedia.org/wiki/大西信介 "wikilink")
+  - 撮影 - [大岡新一](https://ja.wikipedia.org/wiki/大岡新一 "wikilink")
+  - 音楽 - [冬木透](https://ja.wikipedia.org/wiki/蒔田尚昊 "wikilink")
+  - 音楽プロデューサー - 玉川静
+  - キャラクターデザイン - [丸山浩](https://ja.wikipedia.org/wiki/丸山浩_\(デザイナー\) "wikilink")
+  - イメージボード - 橋爪譲始
+  - CG - ビジョンユニバース、フレームワークス・エンターテインメント、デジタルガーデン、スタジオ[美峰](https://ja.wikipedia.org/wiki/美峰 "wikilink")、​スタジオイブキ（グリオ）
+  - タイトル - 熊谷幸雄
+  - タイトルロゴデザイン - 中田和幸
+  - スタジオ - [日活撮影所](https://ja.wikipedia.org/wiki/日活撮影所 "wikilink")
+  - 監修 - [高野宏一](https://ja.wikipedia.org/wiki/高野宏一 "wikilink")
+  - チーフプロデューサー - [鈴木清](https://ja.wikipedia.org/wiki/鈴木清_\(映画監督\) "wikilink")
+  - プロデューサー - 吉田剛、佐藤明宏、河野聡、間瀬泰宏、[丸谷嘉彦](https://ja.wikipedia.org/wiki/丸谷嘉彦 "wikilink")、水尾芳正、沢辺伸政、桜井靖
+  - 企画 - [満田かずほ](https://ja.wikipedia.org/wiki/満田かずほ "wikilink")、[宮島秀司](https://ja.wikipedia.org/wiki/宮島秀司 "wikilink")、東聡、[川城和実](https://ja.wikipedia.org/wiki/川城和実 "wikilink")、原田俊明、安田公一、高田洋一、塩谷雅彦、吉田紀之
+  - 製作者 - 迫本淳一、柴崎誠、角田良平、児玉守弘、門川博美、天野彊二郎、河井常吉、福田年秀
+  - 製作 - 映画ウルトラマンコスモス製作委員会（[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")、[バンダイ](../Page/バンダイ.md "wikilink")、[バンダイビジュアル](https://ja.wikipedia.org/wiki/バンダイビジュアル "wikilink")、[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、[講談社](../Page/講談社.md "wikilink")、[小学館](https://ja.wikipedia.org/wiki/小学館 "wikilink")、[ジェイアール東日本企画](https://ja.wikipedia.org/wiki/ジェイアール東日本企画 "wikilink")、[松竹](https://ja.wikipedia.org/wiki/松竹 "wikilink")）
+
+## 主題歌
+
+  - 「ウルトラマンコスモス〜君にできるなにか」
+    作詞 - [松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink") / 作曲 - [鈴木キサブロー](https://ja.wikipedia.org/wiki/鈴木キサブロー "wikilink") / 編曲 - [京田誠一](https://ja.wikipedia.org/wiki/京田誠一 "wikilink") / 歌 - [Project DMM](https://ja.wikipedia.org/wiki/Project_DMM "wikilink")
+
+## 映像ソフト化
+
+## 脚注
+
+## 参考文献
+
+  - [てれびくん](https://ja.wikipedia.org/wiki/てれびくん "wikilink")デラックス愛蔵版（[小学館](https://ja.wikipedia.org/wiki/小学館 "wikilink")）
+
+      -
+      -
+  - [宇宙船](https://ja.wikipedia.org/wiki/宇宙船_\(雑誌\) "wikilink")（[朝日ソノラマ](https://ja.wikipedia.org/wiki/朝日ソノラマ "wikilink")）
+
+      -
+      -
+  -
+  -
+  -
+  -
+  -
+## 関連項目
+
+  - [ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")
+  - [ウルトラ怪獣一覧](https://ja.wikipedia.org/wiki/ウルトラ怪獣一覧 "wikilink")
+  - [ウルトラシリーズ登場兵器一覧](https://ja.wikipedia.org/wiki/ウルトラシリーズ登場兵器一覧 "wikilink")
+  - [ウルトラマンコスモス](../Page/ウルトラマンコスモス.md "wikilink")
+  - [ウルトラマンコスモス2 THE BLUE PLANET](https://ja.wikipedia.org/wiki/ウルトラマンコスモス2_THE_BLUE_PLANET "wikilink")
+  - [ウルトラマンコスモスVSウルトラマンジャスティス THE FINAL BATTLE](https://ja.wikipedia.org/wiki/ウルトラマンコスモスVSウルトラマンジャスティス_THE_FINAL_BATTLE "wikilink")
+
+## 外部リンク
+
+  -
+  -
+  -
+[Category:ウルトラシリーズ映画作品](https://ja.wikipedia.org/wiki/Category:ウルトラシリーズ映画作品 "wikilink") [Category:2001年の映画](https://ja.wikipedia.org/wiki/Category:2001年の映画 "wikilink") [Category:松竹特撮映画](https://ja.wikipedia.org/wiki/Category:松竹特撮映画 "wikilink") [Category:ジェイアール東日本企画の映画作品](https://ja.wikipedia.org/wiki/Category:ジェイアール東日本企画の映画作品 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.

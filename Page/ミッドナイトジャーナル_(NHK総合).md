@@ -1,0 +1,34 @@
+> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+
+
+『**ミッドナイトジャーナル**』（英称:*MIDNIGHT JOURNAL*）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1993年](../Page/1993年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[NHK総合テレビで放送された深夜の総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。
+
+## 概要
+
+共に前年度まで放送されていた『[NHKナイトニュース](https://ja.wikipedia.org/wiki/NHKナイトニュース "wikilink")』と『[スポーツタイム](../Page/スポーツタイム.md "wikilink")』が統合され、ワイド番組化したものがこの『ミッドナイトジャーナル』である。番組タイトルに「ニュース」を冠していない報道番組は放送当時の主流だったが、NHKの歴史では珍しい。
+
+番組立ち上げ当初は23:00 - （翌日）0:30までという、NHKの歴史でも例のなかった日をまたいでのニュースワイドを目指す予定だった\[1\]が、予算と編成スケジュールの都合で撤回され、23:00 - 23:57:30 （1991年4月以降は23:50までに短縮し、その後はローカルニュースとなる）の放送に変更された。\[2\]
+
+当時はまだNHKのテレビジョン放送は「有事・特別編成以外24時終了」の原則があったため、放送開始から1年間はこの番組の終了とともに[君が代](../Page/君が代.md "wikilink")が流れ、停波していたことになる。
+
+総合司会はノンフィクションライター・[山根一眞](https://ja.wikipedia.org/wiki/山根一眞 "wikilink")と、NHKアナウンサー（当時）の[道傳愛子](https://ja.wikipedia.org/wiki/道傳愛子 "wikilink")・[宮川俊二](../Page/宮川俊二.md "wikilink")。番組はその日のまとめのニュース、ニュース解説、スポーツニュース、特集の4本柱で構成された。特集では、曜日により邦楽、洋楽、クラシック、ジャズなどの名盤紹介をするなど、NHKの報道番組としては異色の存在だった。
+
+1993年4月からニュース・スポーツのコーナーを外し特集コーナーに特化した情報番組[ナイトジャーナル](https://ja.wikipedia.org/wiki/ナイトジャーナル "wikilink")（司会:[秋尾沙戸子](https://ja.wikipedia.org/wiki/秋尾沙戸子 "wikilink")）に継承し終了した。これに伴い[スポーツタイム](../Page/スポーツタイム.md "wikilink")の放送が再開され、23:00からの[定時ニュース枠](https://ja.wikipedia.org/wiki/NHKニュース "wikilink")（[NHKニュース11](../Page/NHKニュース11.md "wikilink")の前身）を新設している。
+
+## 関西地区での差し替え放送
+
+1990年度の毎週金曜日の放送に限り、[NHK大阪放送局](https://ja.wikipedia.org/wiki/NHK大阪放送局 "wikilink")と近畿圏内各局では、番組の後半（概ね23:30前後）で東京からのネットを終了し、以後通常週は「西日本経済ウィークリー」、最終金曜のみ「アジアマンスリー」という番組\[3\]を[コンプレックスという形で放送し](https://ja.wikipedia.org/wiki/コンプレックス_\(番組形式\) "wikilink")、その後大阪のスタジオから全国のニュースを補完するという形を採っていた。
+
+## 脚注
+
+<references />
+
+## 外部リンク
+
+  - [ＮＨＫミッドナイトジャーナル　- NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009040270_00000)
+
+[Category:NHK総合テレビジョンの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの帯番組の歴史 "wikilink") [Category:NHK総合テレビジョンの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの深夜番組 "wikilink") [Category:NHK総合テレビジョンのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのニュース・報道番組の歴史 "wikilink") [Category:1990年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のテレビ番組_\(日本\) "wikilink")
+
+1.  なお、NHKの定時番組における日またぎ編成では、[1989年](../Page/1989年.md "wikilink")に金曜深夜に限り、「[ジャストポップアップ](https://ja.wikipedia.org/wiki/ジャストポップアップ "wikilink")」が23:57.30秒から0:52に編成されたため、それが初のものとなった
+2.  この番組が終了して14年後の2007年4月3日スタートの新番組『[（きょうの）ニュース&スポーツ](https://ja.wikipedia.org/wiki/きょうのニュース&スポーツ "wikilink")』＝『[スポーツ&ニュース](https://ja.wikipedia.org/wiki/スポーツ&ニュース_\(NHK\) "wikilink")』のリニューアル版は午前1時に行っていた10分の定時ニュースを統合するため、NHK史上初の日またぎ報道番組となった（0時をまたぐと「きょうの」のクレジットが外れる）。
+3.  近畿以外の地域でも、土曜日午前中のローカル枠で放送された地域が多数あった

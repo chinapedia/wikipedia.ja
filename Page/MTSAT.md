@@ -1,0 +1,145 @@
+> この記事は[MTSAT](https://ja.wikipedia.org/wiki/MTSAT)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:MTSAT-1.jpg "wikilink") **MTSAT**（**エムティーサット**）は、**運輸多目的衛星**（**M**ulti-functional **T**ransport **Sat**ellite）の英語略称で、[国土交通省](https://ja.wikipedia.org/wiki/国土交通省 "wikilink")[航空局](https://ja.wikipedia.org/wiki/航空局 "wikilink")(CAB/MLIT)及び[気象庁](https://ja.wikipedia.org/wiki/気象庁 "wikilink")(JMA)が共同開発し、[宇宙開発事業団](https://ja.wikipedia.org/wiki/宇宙開発事業団 "wikilink")(NASDA)及び[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")(JAXA)が打ち上げた大型の[静止衛星](https://ja.wikipedia.org/wiki/静止衛星 "wikilink")である。
+
+## 運輸多目的衛星1号
+
+**運輸多目的衛星1号**（**MTSAT-1**）は、老朽化した[ひまわり5号](https://ja.wikipedia.org/wiki/ひまわり5号 "wikilink")・GMS-5の後継衛星としての気象観測機能以外に、衛星通信を利用した航空保安システムなどを搭載している。これは、気象庁が[気象衛星](https://ja.wikipedia.org/wiki/気象衛星 "wikilink")のための予算を単独で捻出するのが困難であったため、同じ[運輸省](https://ja.wikipedia.org/wiki/運輸省 "wikilink")（現国土交通省）の航空局が[空港整備特別会計](https://ja.wikipedia.org/wiki/空港整備特別会計 "wikilink")を使って計画していた[航空管制](https://ja.wikipedia.org/wiki/航空管制 "wikilink")衛星に相乗りしたものである。このため、かなり巨大な衛星となった。米スペースシステム・ロラール社に発注して製造、完成品が輸入された。
+
+[1999年](../Page/1999年.md "wikilink")（平成11年）11月に[H-IIロケット8号機](https://ja.wikipedia.org/wiki/H-IIロケット8号機 "wikilink")で打上げたが、第1段エンジンに故障が発生したため、地上からの指令によりロケットは破壊され、その残骸と、ペイロードであった本機も海中に没した。公募により「**みらい**」と言う愛称が選ばれていたが、使用されずに終わった\[1\]。
+
+## 運輸多目的衛星新1号（ひまわり6号）
+
+**運輸多目的衛星新1号**（**MTSAT-1R**）は、打上げに失敗した1号の代替として米[スペースシステムズ/ロラール](https://ja.wikipedia.org/wiki/スペースシステムズ/ロラール "wikilink")社に再発注して製造された。[衛星バス](https://ja.wikipedia.org/wiki/衛星バス "wikilink")（[姿勢制御](https://ja.wikipedia.org/wiki/姿勢制御 "wikilink")系など）はロラール社のLS-1300であり、これまでの[GMSシリーズ気象衛星のスピン衛星タイプからソーラーセイルを用いた三軸姿勢制御型へと変更され](https://ja.wikipedia.org/wiki/ひまわり_\(気象衛星\)#GMSシリーズ "wikilink")、それに従ってイメージャ（観測機器）なども変更されている。また、GMS-5（[ひまわり5号](https://ja.wikipedia.org/wiki/ひまわり5号 "wikilink")）の可視光＋赤外1～3に加えてさらに赤外4（IR4）チャンネルが追加されており、配信データ形式も拡張された。打上げ時の重量は約3.3t。設計寿命は、気象観測が5年、航空管制が10年となっている。なお、MTSAT-1Rの**R**は*Replacement*を意味する\[2\]。
+
+MTSAT-1Rは[2003年](../Page/2003年.md "wikilink")（平成15年）の夏に[H-IIAロケット6号機](https://ja.wikipedia.org/wiki/H-IIAロケット6号機 "wikilink")を使用した打上げが予定されていたが、製造上の不具合\[3\]や製造メーカーのスペースシステムズ・ロラール社が親会社とともに破綻（[連邦倒産法第11章](https://ja.wikipedia.org/wiki/連邦倒産法第11章 "wikilink")の適用申請）した\[4\]ことなどからたびたび延期され、その影響でH-IIAロケット6号機での打上げを断念し、[H-IIAロケット](https://ja.wikipedia.org/wiki/H-IIAロケット "wikilink")7号機での打上げに変更された。なお、6号機は[情報収集衛星](https://ja.wikipedia.org/wiki/情報収集衛星 "wikilink")2号を搭載したが、打上げに失敗した。
+
+なお、打上げの延期に伴って、米国の[GOES-9が](https://ja.wikipedia.org/wiki/GOES#GOES-9 "wikilink")、MTSAT-1Rが稼動するまでの代替機として2003年5月22日から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）7月まで気象観測を担当した（*「[ひまわり (気象衛星)](https://ja.wikipedia.org/wiki/ひまわり_\(気象衛星\) "wikilink")」も参照*）。
+
+[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）[3月19日](https://ja.wikipedia.org/wiki/3月19日 "wikilink")に[アントノフ124等で輸送され](https://ja.wikipedia.org/wiki/An-124 "wikilink")[種子島宇宙センター](https://ja.wikipedia.org/wiki/種子島宇宙センター "wikilink")へ到着したが、到着前に発生したH-IIAロケット6号機の打上げ失敗によるH-IIAロケットの設計改良のために、またもや打上げが延期される事態に陥った。
+
+その後、H-IIAロケット7号機によって日本時間2005年（平成17年）[2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink")午後6時25分に打上げられ、衛星の分離に成功した。2005年[3月8日](https://ja.wikipedia.org/wiki/3月8日 "wikilink")、静止軌道に入ったことが確認され、**ひまわり6号**と愛称が命名された\[5\]（正式名称はMTSAT-1Rのまま）。当初は5月下旬には気象観測の開始を予定していたが、気象設備の設置に時間がかかり気象観測運用の開始は[6月28日](https://ja.wikipedia.org/wiki/6月28日 "wikilink")にずれ込んだ。
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月17日](https://ja.wikipedia.org/wiki/4月17日 "wikilink")に姿勢制御用コンピューターの異常で衛星の姿勢が乱れ、通信できない問題が発生した\[6\]\[7\]が、同日中に復旧した\[8\]。
+
+2006年[7月6日](https://ja.wikipedia.org/wiki/7月6日 "wikilink")から航空管制の通信業務の運用を開始したが、地上設備の不具合が原因で[7月10日](https://ja.wikipedia.org/wiki/7月10日 "wikilink")から通信障害が発生し\[9\]、原因究明と対策のため[11月28日](https://ja.wikipedia.org/wiki/11月28日 "wikilink")まで通信業務を中止した\[10\]。
+
+[2009年](../Page/2009年.md "wikilink")[11月11日](https://ja.wikipedia.org/wiki/11月11日 "wikilink")21時26分、3基の姿勢制御装置のうち1基が停止したため\[11\]姿勢に異常が生じ、22時から気象観測ができなくなった。気象庁は11月12日1時に気象観測業務をバックアップ用のひまわり7号に切り替え、全球観測が復旧した\[12\]。緊急用チャンネル（USB）での送受信が確立されており、地上から再起動を行って11月12日2時17分に衛星の姿勢が安定、観測停止から約15時間後の11月12日13時に気象観測を再開した\[13\]。
+
+同年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")には地上の処理システムに異常が生じ、午前8時半から10時までの1時間半、4回分の観測画像が配信されなかった\[14\]\[15\]。[11月27日](https://ja.wikipedia.org/wiki/11月27日 "wikilink")に復旧\[16\]するまで、気象観測はひまわり7号で続けられた。
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月1日](https://ja.wikipedia.org/wiki/7月1日 "wikilink")に気象観測業務をひまわり7号に譲り、ひまわり6号の気象観測は待機運用となった\[17\]。航空ミッションは従来通り継続されていたが、2016年末に運用を終了した\[18\]。
+
+## 運輸多目的衛星新2号（ひまわり7号）
+
+気象衛星としては MTSAT-1Rの1機だけでも運用できるものの、航空管制業務にはMTSATが最低2基必要であるため、**運輸多目的衛星新2号**（**MTSAT-2**）が[三菱電機](https://ja.wikipedia.org/wiki/三菱電機 "wikilink")で製造された。日本は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）に[米国との協定によって](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、日本国内で使用する商用衛星も国際競争入札にしなければならなくなったが、MTSAT-2は、衛星の機構（衛星バス）をほかの用途の衛星でも共用できるようにして低価格を実現し、欧米の衛星に対抗することとなった。基本機能はMTSAT-1Rと同じであるが、随所に国産技術による手が加えられており、通信機器の一部を除いて実質は別の衛星といっても過言ではない。
+
+MTSAT-2はH-IIAロケット9号機によって日本時間[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[2月18日](../Page/2月18日.md "wikilink")午後3時27分に打上げられ、衛星の分離に成功し、[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に愛称が「**ひまわり7号**」と命名された。9月4日からは東経145度の静止軌道上で気象ミッション待機運用を開始し\[19\]、切望されていた気象衛星の軌道上予備機が実現した。打上げ時の重量は約4.7tで、打上げ時点では、日本の宇宙開発史上最も重い衛星であった。2007年7月19日に航空管制業務を開始し\[20\]、2機体制となった。
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[11月5日](https://ja.wikipedia.org/wiki/11月5日 "wikilink")午後2時40分頃、姿勢制御用[スラスタ](https://ja.wikipedia.org/wiki/スラスタ "wikilink")の異常のため衛星の姿勢が乱れ、気象観測と航空管制のための交信が行なえなくなった\[21\]\[22\]。航空管制業務はひまわり6号で継続され、2日後の[11月7日](https://ja.wikipedia.org/wiki/11月7日 "wikilink")、ひまわり7号はスラスタを予備に切り替えた上で復旧した\[23\]\[24\]。
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月1日](https://ja.wikipedia.org/wiki/7月1日 "wikilink")に、ひまわり7号での気象観測が開始され、ひまわり6号の気象ミッションは待機運用へ移行した\[25\]。この移行に伴い、衛星の静止位置の変更は行わない。国内向けとLRITでは、画像の座標変換を行った全球画像を配信、HRITは静止位置を変えないため、5度東にずれた全球半球画像を利用者に配信する。従って、HRITの画像を利用する場合、利用者側で座標変換などを行う必要が生じる。
+
+2015年7月7日、[ひまわり8号](https://ja.wikipedia.org/wiki/ひまわり8号 "wikilink")での気象観測が開始され、ひまわり7号の気象ミッションは待機運用へ移行した。2017年3月10日、[ひまわり9号](https://ja.wikipedia.org/wiki/ひまわり9号 "wikilink")が待機運用を開始し\[26\]、ひまわり7号の気象ミッションの運用は終了した\[27\]。航空ミッションは2019年度末まで運用する予定\[28\]。
+
+## 気象ミッション
+
+気象ミッションでは、次のことが行われる。
+
+### イメージャーによる観測
+
+光学系の観測装置で、可視・赤外(IR1, 2, 4)・水蒸気(IR3)にて観測する。観測は全球観測を最大24回/日実施し、北半球観測を20回/日、南半球観測を4回/日実施する。北半球の4回と南半球の4回は、雲の移動量から風速を解析するウィンドベクトル（クラウドモーション・ウィンドベクトル）を得るために行われる。この解析結果は、数値計算に用いられ、[ゾンデ](https://ja.wikipedia.org/wiki/ゾンデ "wikilink")や航空路（航空機による観測）のない洋上でも風速を得ることができる。また、観測した画像を基に多様な解析が行われる。海面水温観測もその一つ（少なくとも日本では、極軌道衛星による観測結果を用いられるので、あまり利用されない）である。
+
+イメージャーについては、製造メーカーが異なっている。本来MTSAT-1Rは、MTSAT-1が打ち上げられていた場合、MTSAT-3として計画されていた衛星で、盛り込むセンサーの仕様が異なるためである。
+
+### 観測データの中継
+
+離島や航空機、船舶からMTSATを介して観測データを中継するサービスが行われている。ほとんどはセルフタイム型で、時間が来ると観測者が衛星にデータを送信し、衛星が地上のCDAS（衛星通信局）に中継、CDASから衛星情報処理センターを通り、気象局の通信網を通じて、全世界の気象機関に配信される。この中継サービスはあらかじめ、衛星情報処理センターのコンピューターに登録していないと、気象機関に配信されないようになっている。
+
+### 画像配信
+
+イメージャーで観測した画像は、衛星情報処理センターで処理された画像を、MTSATを介して受信ユーザー（受信局）に配信する。高分解能画像データ（HiRID）、ウェファクス（WEFAX）、高速情報伝送（HRIT）、低速情報伝送（LRIT）の4方式で配信されていたが、このうちHiRIDおよびWEFAXは、2008年3月12日に廃止された。
+
+### その他の運用
+
+気象ミッションでは、上記のほかに光学系を使用することによる保守運用や、衛星食などによる運用変更などが行われる。
+
+衛星食とは、太陽が地球の陰に隠れて、太陽電池による電力供給ができなくなる現象である。また、バッテリー能力の関係で運用ができなくなる場合に、必要最低限での運用を行うため、観測自体を停止することがある。GMSシリーズでは、バッテリー容量が極端に小さかった（200W程度）ことから、食の時間を中心に3時間程度観測を止めた。MTSATでは、バッテリー容量が大きくなったことから、観測範囲を変更したりすることで、完全な観測中止回数は減少している。この期間は逆光でイメージャーに直接太陽光が入り込み、光学系の電子回路を壊すおそれがあるため、その領域だけ観測しないことがある。虫食いのような画像が配信されるのはそのためである。
+
+イメージャーの冷却装置に付着するゴミなどを除去するため、最大で2日程度（おおよそ36時間程度）観測を停止する。この運用では予備衛星がある場合には、予備衛星によってイメージャー観測を行い、予備衛星による画像を受信局に配信する。予備衛星での観測画像は、一部の画像を除き、画像の位置調整をせずに配信される。2007年6月6日 - 8日にかけて実施された際には、MTSAT-2による観測画像を、MTSAT-1Rで配信したことがある。
+
+姿勢制御は、東西方向および南北方向の衛星位置を維持するために行われる。姿勢制御が行われた後6時間程度はランドマークラインと一致しないことがあり、位置精度が悪くなる。この姿勢制御を軌道保持マヌーバ（station keeping maneuver）という。また、衛星自体の傾きも生じるので、ほぼ毎日姿勢制御を行う。この姿勢制御をハウスキーピングマヌーバ（house keeping maneuver）という。この制御は数秒で終えるため、位置の姿勢制御ほどの影響はない。
+
+## 航空ミッション
+
+航空ミッションでは、次のことが行われる。
+
+### 通信の中継
+
+神戸と常陸太田に設置された「[航空衛星センター](https://ja.wikipedia.org/wiki/航空衛星センター "wikilink")」の地上局と航空機との間で行われる、管制官パイロット間データ通信（CPDLC; Controller Pilot Data Link Communication）等のデータリンク通信や音声通信を中継する。第三世代[インマルサット](https://ja.wikipedia.org/wiki/インマルサット "wikilink")との相互互換性がある。
+
+### GPS精度の補強
+
+[グローバル・ポジショニング・システム](https://ja.wikipedia.org/wiki/グローバル・ポジショニング・システム "wikilink")（GPS）による測位精度を補強して航空で使用する方式に[SBAS](https://ja.wikipedia.org/wiki/SBAS "wikilink")（Satellite Based Augmentation System）があるが、このサービスを**MSAS**（MTSAT Satellite-based Augmentation System）という名称で行っており、以下の3種類の情報が送信される。
+
+  - GPS衛星ごとの使用可否、不具合の程度
+  - 地上局での測定により算出された、GPSの誤差補正データ（ディファレンシャル補正）
+  - GPSと同様の測位信号
+
+## 後継機
+
+ひまわり6、7号の経費を70%負担していた[国土交通省](https://ja.wikipedia.org/wiki/国土交通省 "wikilink")航空局は後継機の計画から外れ、気象庁単独でこれまでの気象観測より広範囲な観測を行う**静止地球環境観測衛星**として、[ひまわり8号](https://ja.wikipedia.org/wiki/ひまわり8号 "wikilink")、[9号が打ち上げられた](https://ja.wikipedia.org/wiki/ひまわり9号 "wikilink")。
+
+測位精度を補強して航空で使用するSBASについては、[準天頂衛星システム](https://ja.wikipedia.org/wiki/準天頂衛星システム "wikilink")の静止軌道衛星から2020年頃より配信する予定\[29\]。地上局と航空機との間で行われる通信サービスは民間通信衛星のインマルサットや[イリジウム等に引き継がれる予定である](https://ja.wikipedia.org/wiki/イリジウムコミュニケーションズ "wikilink")\[30\]。
+
+## 脚注
+
+## 参考文献
+
+  - [H-IIロケット8号機の事故原因とH-IIAロケットへの対策について【要約版】](http://www.jaxa.jp/press/nasda/2000/h28_000414_j.html)
+
+## 関連項目
+
+  - [航空交通管制](https://ja.wikipedia.org/wiki/航空交通管制 "wikilink")
+      - [広域航法](https://ja.wikipedia.org/wiki/広域航法 "wikilink")
+  - [グローバル・ポジショニング・システム](https://ja.wikipedia.org/wiki/グローバル・ポジショニング・システム "wikilink")
+  - [気象衛星](https://ja.wikipedia.org/wiki/気象衛星 "wikilink")
+  - [航空衛星センター](https://ja.wikipedia.org/wiki/航空衛星センター "wikilink")
+
+## 外部リンク
+
+  - [航空衛星センター](https://www.mlit.go.jp/koku/15_bf_000367.html)
+
+[Category:日本の人工衛星](https://ja.wikipedia.org/wiki/Category:日本の人工衛星 "wikilink") [Category:気象衛星](https://ja.wikipedia.org/wiki/Category:気象衛星 "wikilink") [Category:静止衛星](https://ja.wikipedia.org/wiki/Category:静止衛星 "wikilink") [Category:航空交通管制](https://ja.wikipedia.org/wiki/Category:航空交通管制 "wikilink") [Category:地球観測衛星](https://ja.wikipedia.org/wiki/Category:地球観測衛星 "wikilink") [Category:2005年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2005年の宇宙飛行 "wikilink") [Category:2006年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2006年の宇宙飛行 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.

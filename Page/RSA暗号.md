@@ -1,0 +1,271 @@
+> この記事は[RSA](https://ja.wikipedia.org/wiki/RSA)から翻訳されています。
+
+
+**RSA暗号**（RSAあんごう）とは、桁数が大きい[合成数](../Page/合成数.md "wikilink")の[素因数分解](https://ja.wikipedia.org/wiki/素因数分解 "wikilink")問題が困難であることを安全性の根拠とした[公開鍵暗号](../Page/公開鍵暗号.md "wikilink")の一つである。 暗号\[1\]と[デジタル署名](https://ja.wikipedia.org/wiki/デジタル署名 "wikilink")を実現できる方式として最初に公開されたものである。
+
+## 概要
+
+1977年に発明され、発明者である[ロナルド・リベスト](https://ja.wikipedia.org/wiki/ロナルド・リベスト "wikilink")、[アディ・シャミア](https://ja.wikipedia.org/wiki/アディ・シャミア "wikilink")、[レオナルド・エーデルマン](https://ja.wikipedia.org/wiki/レオナルド・エーデルマン "wikilink")の原語表記の頭文字をつなげてこのように呼ばれる\[2\]。当時、[ディフィーと](https://ja.wikipedia.org/wiki/ホイットフィールド・ディフィー "wikilink")[ヘルマンによって発表されたばかりの公開鍵暗号という新しい概念に対し](https://ja.wikipedia.org/wiki/マーティン・ヘルマン "wikilink")、秘匿や認証を実現できる具体的な[アルゴリズム](../Page/アルゴリズム.md "wikilink")を与えた。発明者3氏は、この功績によって[2002年](../Page/2002年.md "wikilink")の[チューリング賞](../Page/チューリング賞.md "wikilink")を受賞した。この暗号は[フェルマーの小定理](../Page/フェルマーの小定理.md "wikilink")に基づいている\[3\]。
+
+RSA暗号は次のような方式である： 鍵ペア（公開鍵と秘密鍵）を作成して公開鍵を公開する。まず、適当な正整数 *e*（通常は小さな数。[65537](https://ja.wikipedia.org/wiki/65537 "wikilink") (= 2<sup>16</sup> + 1) がよく使われる）を選択する。また、大きな2つの素数 {*p*, *q*} を生成し、それらの積 *n* (=*pq*) を求めて、{*e*, *n*} を平文の暗号化に使用する鍵（公開鍵）とする。2つの素数 {*p*, *q*} は、暗号文の復号に使用する鍵（秘密鍵）*d* の生成にも使用し (\(d=e^{-1} \pmod{(p-1)(q-1)}\))、秘密に保管する。
+
+  - 暗号化（[平文](https://ja.wikipedia.org/wiki/平文 "wikilink") *m* から暗号文 *c* を作成する）： \(c = m^e \; \operatorname{mod}\; n\)
+  - 復号（暗号文 *c* から元の平文 *m* を得る）： \(m = c^d \; \operatorname{mod}\; n\)
+
+ここで、暗号化（*e* 乗）は、{*e*, *n* } があれば容易に計算できるのに対して、復号（*e* 乗根）は、「*n* の素因数を知らないと難しい（大きい合成数の素因数分解も難しい）」と考えられている。つまり秘密鍵を用いずに暗号文から平文を得ることは難しい、と信じられている。これがRSA暗号の安全性の根拠である。
+
+RSA暗号のアルゴリズムは、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で[特許](https://ja.wikipedia.org/wiki/特許 "wikilink")（4,405,829号）を取得し、[RSA Security](https://ja.wikipedia.org/wiki/RSA_Security "wikilink") 社がライセンスを独占していたが、特許期間満了に伴って[2000年](../Page/2000年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")からは誰でも自由に使用できるようになった。
+
+暗号の用語については、[暗号の用語](https://ja.wikipedia.org/wiki/暗号#用語 "wikilink")、[暗号理論の用語を参照](https://ja.wikipedia.org/wiki/暗号理論#用語 "wikilink")。
+
+## 歴史
+
+歴史的見解を正すのであれば、暗号に革命を起こしたこの理論の最初の発案者はである。彼らはイギリス最高機密機関、[英国政府通信本部](https://ja.wikipedia.org/wiki/政府通信本部 "wikilink") (GCHQ) の職員であり、その独創的な先見の明は内部文書として長い間公開されなかった。また実用にはコンピュータの性能等から機が熟していなかった。以下はその概要である。
+
+エリスは1969年にこの理論を発見しているが、専門の数学者ではなかったため、具体的な方法を発見できなかった。幾人ものGCHQの優秀な数学者が挑戦したが、具体的な方法を提示する事はできなかった。1973年、**突拍子もない暗号のアイデア**としてエリスの「一方向関数（非対称性鍵の概念）・公開鍵」を用いた暗号論の話を聞かされ、わずか30分程度でモジュラー算術と素因数を用いた具体的な方法を考案したのは、GCHQ所属の若き数学者である（コックスは上記のリベストの計算式と同じものを発見した）。しかしエリスとコックスの業績は機密事項とされたため、1997年までは世に知られることはなかった。\[4\]
+
+## 暗号方式
+
+鍵生成、暗号化、復号の3つのアルゴリズムで定義される。
+
+### 鍵生成
+
+\(k\) をセキュリティパラメータとする。
+
+\(p\)、\(q\) (ただし \(p\neq q\)) を \(k/2\) [ビット](../Page/ビット.md "wikilink")の[素数](../Page/素数.md "wikilink")とし、\(n = pq\) とする。\(e\) を \(\phi(n)\) 未満の正の整数で、\(\phi(n)\) と[互いに素な数とし](../Page/最大公約数.md "wikilink")、\(d\) を、\(\phi(n)\) を法とした \(e\) の逆数（\(de \equiv 1 \pmod{\phi(n)}\)）とする。 ただしここで \(\phi\) は [オイラーのφ関数](../Page/オイラーのφ関数.md "wikilink")で、この場合は \(\phi(n)=(p-1)(q-1)\) である。\(d\) は、\(e\)、\(\phi(n)\) が既知のときには[拡張されたユークリッドの互除法を使えば容易に求まる](https://ja.wikipedia.org/wiki/ユークリッドの互除法#拡張された互除法 "wikilink")（\(de\) を \(\phi(n)\) で割った整数商を \(x\) とした場合、\(de+(-x)\phi(n)=1\) が成り立ち、かつ \(e\) の取り方から \(\mathrm{gcd}(e, \phi(n)) = 1\) であるのでこれを解けば良い）。\(d\) を秘密鍵とし、\(n\)、\(e\) を公開鍵とする (\(p\)と\(q\)が漏れると \(d\) が計算で求まるため、\(p\)と\(q\)は安全に破棄すること)
+
+以下では、\(0\) 以上 \(n\) 未満の[整数](../Page/整数.md "wikilink")の集合を \({\Bbb Z}_n\) で表すことにする。 [平文空間](https://ja.wikipedia.org/wiki/平文空間 "wikilink")および[暗号文空間](https://ja.wikipedia.org/wiki/暗号文空間 "wikilink")は \({\Bbb Z}_n\)。
+
+### 暗号化
+
+\(a\) を平文空間 \({\Bbb Z}_n\) の[元とする](https://ja.wikipedia.org/wiki/元_\(数学\) "wikilink")。\(b = a^e \bmod n\)（\(n\) を法とする[剰余](https://ja.wikipedia.org/wiki/除法#商・法・剰余 "wikilink")）を計算し、\(b\) を出力する。
+
+### 復号
+
+\(b\) を暗号文とする。\(a=b^d \bmod n\) を計算し、\(a^\prime\) を出力する。ここで \(a = a^\prime\) となり復号できる。
+
+### 完全性の証明
+
+以下に証明を示す。ここで \(a^\prime\) は、\(a^e\) をさらに \(d\) 乗したものの \(n\) を法とする剰余で、\(de\equiv 1\pmod{\phi(n)}\) であるから、ある \(x\) が存在して
+
+ここで[オイラーの定理により](https://ja.wikipedia.org/wiki/フェルマーの小定理#オイラーの定理 "wikilink")、\(n\) と互いに素な整数 \(a\) については \(a^{\phi(n)} \equiv 1 \pmod{n}\) であるため、
+
+となる。
+
+\(\mathrm{gcd}(n,a) = p\) である整数 \(a\) については、
+
+として
+
+となるから[中国の剰余定理](https://ja.wikipedia.org/wiki/中国の剰余定理 "wikilink")により、\(p \cdot xp = 1 + q \cdot xq\) なる整数 \(xp\) と \(xq\) を用いて
+
+となる（\(\mathrm{gcd}(n, a) = q\) である整数についても同様）。ここで、\(a^\prime\) も \(a\) も \(n\) を法とした剰余なので、
+
+が成り立ち \(b\) は \(d\) と \(n\) を用いて \(a\) に復号できることが分かる。
+
+## 性能
+
+### *n* を法とする冪剰余の計算
+
+\(k = 1024\) の場合、\(n\) は1024ビットサイズという大きな数となり、\(d\) もほぼ \(n\) と同サイズの数となる。 \(a = b^d \bmod n\) を計算するには、[バイナリ法というアルゴリズムを用いると](https://ja.wikipedia.org/wiki/冪乗#効率的な演算法 "wikilink")、剰余乗算 (\(1024\mathrm {bit} \times 1024\mathrm{bit}\)) を、1500回程繰り返すことで実現できる。 これには相当の計算時間を要するため、[中国の剰余定理](https://ja.wikipedia.org/wiki/中国の剰余定理 "wikilink")を用いて、
+
+として求めることがある。
+
+### 素数生成
+
+桁数が大きい場合、確実に素数であると保証できる整数を見つけることは容易ではない。このため実際には、素数であるとは断言できないものの、素数である可能性が非常に高い自然数を用いる。こういった自然数の生成は[Miller–Rabinテストなどの](https://ja.wikipedia.org/wiki/ミラー–ラビン素数判定法 "wikilink")[確率的素数判定法によって高速に行える](https://ja.wikipedia.org/wiki/素数判定#確率的素数判定法 "wikilink")。確率的素数判定法をパスした自然数を確率的素数 (probable prime) という。確率的素数には、素数の他に[擬素数が含まれるが](https://ja.wikipedia.org/wiki/フェルマーの小定理#フェルマーテスト "wikilink")、その確率は判定回数を増やすことで極めて低くすることができる。
+
+(なお、拡張[リーマン予想](https://ja.wikipedia.org/wiki/リーマン予想 "wikilink")が正しければ、Miller–Rabinテストは素数かどうかを正しく判定する、という事実が知られている)。
+
+2002年8月、[インド工科大学](https://ja.wikipedia.org/wiki/インド工科大学 "wikilink") のアグラワルらが素数判定を[多項式時間](https://ja.wikipedia.org/wiki/多項式時間 "wikilink")で行う[AKS素数判定法](https://ja.wikipedia.org/wiki/AKS素数判定法 "wikilink")を発表したが、これは多項式の次数が高すぎて遅いので未だRSAの鍵生成に実用するには足らない。
+
+## 安全性
+
+### RSA暗号と素因数分解問題の関係
+
+RSA暗号は、安全性が素因数分解問題と同値であると期待されている暗号方式であるが、本当に両者が同値であるかどうかについては分かっていない。
+
+素因数分解を解けるオラクルを用いれば、\(n\) から \(p\) および \(q\) が計算でき鍵生成と同様にして、秘密鍵 \(d\) を知ることが出来る。即ち、RSA暗号が解読出来る。従って、RSA仮定が証明できれば素因数問題の困難性が示せる。しかし、逆が成立するかどうかはよく分かっていない。ある条件下では否定的な結果もでている。
+
+RSA暗号が[選択平文攻撃](https://ja.wikipedia.org/wiki/選択平文攻撃 "wikilink")に対して完全解読できない、ということと[RSA仮定](https://ja.wikipedia.org/wiki/RSA仮定 "wikilink")とは同値である。
+
+[RSA問題](https://ja.wikipedia.org/wiki/RSA問題 "wikilink")を解く方法として、現在知られている有力な方法は、素因数分解問題を解くことに使える方法だけである。 素因数分解問題を解く方法として、[楕円曲線法](https://ja.wikipedia.org/wiki/楕円曲線法 "wikilink")や[数体篩法](https://ja.wikipedia.org/wiki/数体篩法 "wikilink")などのアルゴリズムが知られているが、これらの方法はどれも[準指数時間](https://ja.wikipedia.org/wiki/準指数時間 "wikilink")アルゴリズムであり、[多項式時間](https://ja.wikipedia.org/wiki/多項式時間 "wikilink")で素因数分解問題を解く方法は知られていない。
+
+[暗号理論](https://ja.wikipedia.org/wiki/暗号理論 "wikilink")の世界では、多項式時間で解読することができない暗号方式を安全であると定義することがある（計算量的安全性）。 この意味で、RSA暗号の安全性について、現在知られている範囲では、安全であると期待されていて、その反証がない、と言える。
+
+RSA問題や素因数分解問題は[NP](../Page/NP.md "wikilink")問題であるので、これらの問題が (決定性のある) 多項式時間では解けないことが証明できれば、[P≠NP予想](../Page/P≠NP予想.md "wikilink")が肯定的に解決することになる。 但し、[ハミルトン閉路問題](https://ja.wikipedia.org/wiki/ハミルトン閉路問題 "wikilink")など他の[NP](../Page/NP.md "wikilink")問題（NPかつ[NP困難](../Page/NP困難.md "wikilink")な[NP完全](https://ja.wikipedia.org/wiki/NP完全 "wikilink")問題を含む）が多項式時間で解けることが証明されればP=NPとなってしまう。
+
+### 素因数分解可能な範囲
+
+2004年現在、インターネットで公募した数多くのPCを用いると512ビット程度の数なら素因数分解できる。 したがって、現在では、RSA暗号に使用する法 *n* を1024-4096ビット（10進数で300-1000桁程度）にすることが推奨されている。
+
+しかしShamirは、RSA問題を解くための専用装置 (*TWIRL*) を作成すれば、1024ビットの *n* に関するRSA問題ですら解くことができると主張している。
+
+#### RSA暗号解読コンテスト
+
+RSA社は「[RSA Factoring Challenge](https://ja.wikipedia.org/wiki/:en:RSA_Factoring_Challenge "wikilink")」を1991年から2007年まで実施し、最新の計算機環境でどの程度のビット数の整数が素因数分解可能かを調べた。
+
+  - 1991年4月1日 RSA-100 (330ビット)
+  - 1992年4月14日 RSA-110 (364ビット)
+  - 1993年6月9日 RSA-120 (397ビット)
+  - 1994年4月 RSA-129 (426ビット)
+  - 1996年4月10日 RSA-130 (430ビット)
+  - 1999年2月2日 RSA-140 (463ビット)
+  - 2004年 RSA-150 (496ビット)
+  - 1999年8月22日 RSA-155 (512ビット)
+  - 2003年4月1日 RSA-160 (530ビット)
+  - 2009年12月29日 RSA-170 (563ビット)
+  - 2003年12月3日 RSA-576 (576ビット、10進174桁）
+  - yet RSA-180 (596ビット)
+  - yet RSA-190 (629ビット)
+  - 2005年11月2日 RSA-640 (640ビット)
+  - 2005年5月9日 RSA-200 (663ビット、10進200桁)
+  - yet RSA-210 (696ビット、10進210桁)
+  - yet RSA-704 (704ビット)
+  - 2009年12月12日 RSA-768 (768ビット)
+
+以下は未踏
+
+  - RSA-896
+  - RSA-1024
+  - RSA-1536
+  - RSA-2048
+
+### RSA暗号の性質
+
+RSA暗号は[選択暗号文攻撃](https://ja.wikipedia.org/wiki/選択暗号文攻撃 "wikilink")を行なえば完全解読できる。また、RSA暗号は[選択平文攻撃](https://ja.wikipedia.org/wiki/選択平文攻撃 "wikilink")に対してすら[indistinguishable](https://ja.wikipedia.org/wiki/indistinguishable "wikilink")（識別不能）ではない。よってRSA暗号は[選択平文攻撃](https://ja.wikipedia.org/wiki/選択平文攻撃 "wikilink")に対してnon-malleable（頑強性）でも semantic secure（強秘匿性）でもない。 と  の定義は[公開鍵暗号](../Page/公開鍵暗号.md "wikilink")に記されている。
+
+### RSA暗号の誤用
+
+#### パラメータの選択
+
+#### 特殊な(誤った)応用
+
+  - 共通の法 \(n\)
+    ユーザー管理等の利便性や素数探索の労を避ける為、法である \(n\) を共通として各々に個別の \(e\) と \(d\) を与えるのは誤りである。もしも法 \(n\) とそれに対応する \(e\) と \(d\) の組を一つでも知ることができれば、法 \(n\) の[素因数分解](https://ja.wikipedia.org/wiki/素因数分解 "wikilink")が容易となり安全ではなくなるからである。
+  - 同報通信
+    **まったく同一の平文**を複数の送信先へ各々の公開鍵で暗号化して同報通信するには適していない。同じ \(e\) を持つ公開鍵（[ハミング重み](https://ja.wikipedia.org/wiki/ハミング重み "wikilink") \(HW = 2\) である \(3\) や \(65537\) が好んで用いられる）で暗号化された \(e\) 個以上の暗号文を手に入れたなら各々の公開鍵の法に関して[中国の剰余定理](https://ja.wikipedia.org/wiki/中国の剰余定理 "wikilink")を用いることで、通常の[冪根](https://ja.wikipedia.org/wiki/冪根 "wikilink")によって平文を復元できるからである。詳しくは下記の同一平文を参照のこと。
+    このため、現在規格化されている暗号への応用においては、パディングとして毎回[乱数](https://ja.wikipedia.org/wiki/乱数 "wikilink")を生成して挿入するなどの対策がされている。
+
+### 脆弱な平文
+
+RSA暗号の安全性が素因数が不明な法\(n\)での[冪根](https://ja.wikipedia.org/wiki/冪根 "wikilink")を求めるのが難しい事実に基づいていることから、その最大の攻撃が[素因数分解](https://ja.wikipedia.org/wiki/素因数分解 "wikilink")であることは明白である。
+
+しかし平文によっては、それ以外の攻撃方法でも暗号文から平文を入手することが可能である。
+
+#### 決まりきった平文
+
+これは[公開鍵暗号](../Page/公開鍵暗号.md "wikilink")全般に言えることであるが、確定的暗号であれば、例えば平文が「はい」か「いいえ」のどちらかしか有り得ないなら、それぞれを暗号化したものと暗号文とを比較すれば平文を知ることができる。
+
+実際の暗号への応用においてはフォーマットとして \(m\) の一部に毎回生成する[乱数](https://ja.wikipedia.org/wiki/乱数 "wikilink")を挿入することでこの攻撃を回避している(復号側で後半の乱数を無視するよう機械を設定すればよい)
+
+#### 小さな*m*
+
+もしも平文 *m* が、*n* の *e* 乗根よりも小さかったら、暗号文 \(c = m^e \; \operatorname{mod}\; n = m^e\) となるから、通常の[冪根](https://ja.wikipedia.org/wiki/冪根 "wikilink")演算によって *c* の *e* 乗根を計算するだけで平文 *m* が復元できてしまう。
+
+実際の暗号への応用においてはフォーマットの一部として、*m* の比較的高位の[ビット](../Page/ビット.md "wikilink")に1を挿入することでこの攻撃を回避している。
+
+#### 同一平文
+
+法 \(n\) における \(e\) 乗根が計算できれば、暗号文を復号できる。 当然これは（法 \(n\) の素因数がわからない限り）非常に難しいと考えられていて、RSA暗号の安全性の重要な根拠の一つになっている。
+
+しかし、まったく同一の平文を、異なる法において同一の \(e\) を用いて暗号化した暗号文を \(e\) 個以上集めることで、各々の法に関して[中国の剰余定理](https://ja.wikipedia.org/wiki/中国の剰余定理 "wikilink")を用いれば通常の[冪根](https://ja.wikipedia.org/wiki/冪根 "wikilink")演算によって平文を復元できる。これが同報通信の誤用である。
+
+ここから[中国の剰余定理](https://ja.wikipedia.org/wiki/中国の剰余定理 "wikilink")によって上記式を満たす
+
+を求めることができる。このとき \(c < n_1 n_2 n_3 \dots n_e\) であり、また \(m\) はどの法 \(n\) よりも小さいため \(m^e < n_1 n_2 n_3 \dots n_e\) であることから、
+
+この \(c\) の \(e\) 乗根を求めることで平文 \(m\) が求められる。
+
+これは \(e\) として特に \(3\) や \(65537\) は、\(2\)進数表示したときに\(1\)の個数が少ない ために暗号化処理を高速化できるという理由から好んで用いられるために発生しうる問題である。実際の暗号への応用においてはフォーマットとして、\(m\) の一部に毎回生成する[乱数](https://ja.wikipedia.org/wiki/乱数 "wikilink")を挿入することでこの攻撃を回避している。
+
+### その他
+
+RSA暗号の入力は、モジュラスを \(n\) とすると \(0\) から (\(n-1\)) の範囲の整数である。\(n\) 以上の値の平文を暗号化する際には、平文を分割して処理することになる。
+
+この時に留意しなければならない点として、例えば、\(n\) が\(1024\)[ビット](../Page/ビット.md "wikilink")（\(= 128\)[バイト](https://ja.wikipedia.org/wiki/バイト_\(情報\) "wikilink")）であるとき、平文を同じ\(1024\)ビット毎に分割処理するのでは十分ではないという点がある。これは、\(n\) と \(m\) が共に\(1024\)ビットであったとしても、\(n < m\) の場合には、結果として出力されるのは、\(m \bmod n\) に対応する暗号文であり、復号しても \(m\) は出力されないためである。
+
+平文をビット単位（やバイト単位）で分割する際には、まず、\(n\) の下限を定めたうえで、平文の全ビットを \(1\) に（全バイトを \(\mathrm{FF_{16}}\) に）しても \(n\) より小さくなるビット数（バイト数）で分割しなければならない。例えば、\(n\) の下限を \(n\geq 2^{1023}\) とした場合、平文は \(1023\) ビットごとに分割する。こうすることで \(m < n\) の条件が常に満たされる。
+
+一方で、出力となる暗号文は \(0\) から (\(n-1\)) の範囲の整数になるため、先の例で（\(n\) の下限より小さいビット数）\(1023\)ビット毎に分割された \(m\) に対応する暗号文の中には、\(1024\)ビットが必要となるものがある。つまり、平文をビット単位で分割する場合には暗号化によってメッセージサイズが増加するといえる。これを回避するにはビット単位で分割するのではなく、平文 \(m\) を \(n\) 進数表示したときの各桁毎に分割すればよい。
+
+### パディング
+
+RSA暗号方式は、
+
+  - 平文が小さいと、暗号文から平文が容易に計算できてしまう、
+  - 暗号文を分解して、個々の暗号文に対応する平文を入手できる（選択暗号文攻撃）と、元の暗号文に対応する平文を求めることができてしまう、
+  - 攻撃者が暗号文を変形して、平文自体を知ることはできないが、平文を変形できてしまう（非展性がない）、
+
+などの脆弱性があり、RSA暗号方式をそのまま利用することは好ましくない。このため、実際のRSA暗号の実装では、暗号化する前に適切なパディングを行っている。代表的なパディングとして[OAEPがあり](https://ja.wikipedia.org/wiki/Optimal_Asymmetric_Encryption_Padding "wikilink")、公開鍵暗号標準である[PKCS](https://ja.wikipedia.org/wiki/PKCS "wikilink")\#1（バージョン1.5以降）もこれを採用している。OAEPは確率的なパディングであり、すなわち、元の平文が同じであっても、パディングされた平文は時によって異なる（ランダムに選ばれた値に依存）。
+
+OAEPパディングとRSA暗号の併用をRSA_OAEPと呼ぶことがある。（これに対して、パディング処理を行わない素のRSA暗号方式を生RSA、教科書的RSAということがある。）RSA_OAEPは、公開鍵暗号における最も高い安全性である「適応的選択暗号文攻撃に対する識別不可能性」を持つことが示されている\[5\]。
+
+## デジタル署名方式への応用
+
+### RSA署名
+
+RSA暗号が実現した公開鍵暗号方式は、従来の暗号方式（共通鍵暗号）とは異なり、暗号化は公開鍵を使って誰でもできるが、復号は秘密鍵を持つ本人だけしかできない方式である。この復号は「本人だけしかできない」という性質を利用すると、[デジタル署名](https://ja.wikipedia.org/wiki/デジタル署名 "wikilink")（あるいは認証機能）が実現できる。
+
+そのためには、公開鍵・秘密鍵を次のように使用する。
+
+  - 暗号の場合
+      - 平文 → 公開鍵（暗号化）→ 暗号文、暗号文→ 秘密鍵（復号）→ 平文
+  - 署名の場合
+      - 文書 → 秘密鍵（署名生成）→ 署名値、署名値→ 公開鍵（署名検証）→ 文書
+
+公開鍵と秘密鍵の役割は通常の場合においては上記の通り、公開鍵は暗号化に使われ、秘密鍵は復号に用いられるが、RSA暗号においては平文と暗号文の定義域が同じ（平文空間＝暗号文空間である）ため、任意の文書（メッセージ）を暗号文とみなして復号することができる。つまり秘密鍵を用いて任意の文書について署名値を生成でき、公開鍵を用いてその署名値を*暗号化*して元の文書と一致するかを調べることで署名の検証ができる。
+
+ただし、RSA暗号と同様に、生RSAでは、署名の潜在的偽造等の好ましくない性質があるため、パディングなどが必要である。また、暗号文空間よりも大きなメッセージを扱うために[ハッシュ関数](../Page/ハッシュ関数.md "wikilink")と組み合わせて使用する。
+
+このようなパディングなども含めたものとして、
+
+  - RSA_PSS with SHA-1
+
+などがある。
+
+### RSA-129
+
+[1977年](../Page/1977年.md "wikilink")、[マーティン・ガードナー](https://ja.wikipedia.org/wiki/マーティン・ガードナー "wikilink")がコラムを連載していた[サイエンティフィック・アメリカン](https://ja.wikipedia.org/wiki/サイエンティフィック・アメリカン "wikilink")誌に129桁の鍵を使ったRSA方式で暗号化されたメッセージを掲載。解読が成功したものに[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")から100[米ドル](https://ja.wikipedia.org/wiki/米ドル "wikilink")を与えるという懸賞金問題を掲載。当時、解読には2万年は必要だろうと予測されていたが掲載から17年後、[オックスフォード大](https://ja.wikipedia.org/wiki/オックスフォード大学 "wikilink")、[アイオワ州立大マイケル](https://ja.wikipedia.org/wiki/アイオワ州立大学 "wikilink")・グラフ、マサチューセッツ工科大学デレク・アトキンス、らで、二次ふるい法とインターネット（600名からなる有志）を使いRSA-129に対する大規模攻撃を開始。8ヶ月で800万以上の下位問題が解かれ、スーパーコンピューターで解析、解読に成功。答えは“\<code \>The magic words are squeamish ossifrage</code>”［ossifrage（[ヒゲワシ](https://ja.wikipedia.org/wiki/ヒゲワシ "wikilink")）は[ジョーク](https://ja.wikipedia.org/wiki/ジョーク "wikilink")で「骨折り」の意］。
+
+## 実装ライブラリ
+
+RSA暗号をサポートしているライブラリは以下の通り。
+
+  - [Botan](https://ja.wikipedia.org/wiki/:en:Botan_\(programming_library\) "wikilink")
+  - [Bouncy Castle](https://ja.wikipedia.org/wiki/:en:Bouncy_Castle_\(cryptography\) "wikilink")
+  - [cryptlib](https://ja.wikipedia.org/wiki/:en:Cryptlib "wikilink")
+  - [Crypto++](https://ja.wikipedia.org/wiki/:en:Crypto++ "wikilink")
+  - [Libgcrypt](https://ja.wikipedia.org/wiki/:en:Libgcrypt "wikilink")
+  - [Nettle](https://ja.wikipedia.org/wiki/:en:Nettle_\(cryptographic_library\) "wikilink")
+  - [OpenSSL](https://ja.wikipedia.org/wiki/OpenSSL "wikilink")
+  - [wolfCrypt](https://ja.wikipedia.org/wiki/wolfCrypt "wikilink")
+
+## 脚注
+
+<references />
+
+## 参考文献
+
+### 原論文
+
+  - : CocksがCESG([GCHQの一部局](https://ja.wikipedia.org/wiki/政府通信本部 "wikilink"))に提出したメモ
+
+  - ：「日経エレクトロニクス」に全訳があるとされる。
+
+## 関連項目
+
+  - [暗号](../Page/暗号.md "wikilink")
+  - [暗号理論](https://ja.wikipedia.org/wiki/暗号理論 "wikilink")
+  - [Optimal Asymmetric Encryption Padding](https://ja.wikipedia.org/wiki/Optimal_Asymmetric_Encryption_Padding "wikilink") (RSA-OAEP)
+  - [素因数分解](https://ja.wikipedia.org/wiki/素因数分解 "wikilink")
+  - [ElGamal暗号](https://ja.wikipedia.org/wiki/ElGamal暗号 "wikilink")
+  - [楕円曲線暗号](https://ja.wikipedia.org/wiki/楕円曲線暗号 "wikilink")
+  - [:en:RSA numbers](https://ja.wikipedia.org/wiki/:en:RSA_numbers "wikilink") - [:en:RSA Factoring Challenge](https://ja.wikipedia.org/wiki/:en:RSA_Factoring_Challenge "wikilink")
+
+[カテゴリ:暗号](https://ja.wikipedia.org/wiki/カテゴリ:暗号 "wikilink") [カテゴリ:イギリス政府通信本部](https://ja.wikipedia.org/wiki/カテゴリ:イギリス政府通信本部 "wikilink") [カテゴリ:エポニム](https://ja.wikipedia.org/wiki/カテゴリ:エポニム "wikilink")
+
+1.
+2.
+3.
+4.
+5.

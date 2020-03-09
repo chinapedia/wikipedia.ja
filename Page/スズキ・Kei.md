@@ -1,0 +1,149 @@
+> この記事は[Kei](https://ja.wikipedia.org/wiki/Kei)から翻訳されています。
+
+
+**Kei**（ケイ）は、[スズキが製造](../Page/スズキ_\(企業\).md "wikilink")・販売していた[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")である。
+
+## 概要
+
+[セダン](../Page/セダン.md "wikilink")と[SUVの間の新しいタイプ](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")（いわゆる[クロスオーバーSUV](https://ja.wikipedia.org/wiki/クロスオーバーSUV "wikilink")）となる新感覚の軽自動車として[開発](https://ja.wikipedia.org/wiki/開発 "wikilink")され、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）の[軽自動車規格改定と同時に発売が開始された](https://ja.wikipedia.org/wiki/軽自動車#普通車同様の安全規格の採用（現660cc） "wikilink")。
+
+1998年（平成10年）10月の[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")規格改定時に、いわゆる「新規格モデル」として登場して以来、スズキが発売する軽乗用車の中で[フルモデルチェンジされることなく](https://ja.wikipedia.org/wiki/モデルチェンジ_\(自動車\) "wikilink") 、改良を重ねながら約11年にわたって生産されていた長寿モデルである。一方で、[2000年](../Page/2000年.md "wikilink")（平成12年）10月に行われた一部改良ではフロントのデザインが大きく変更され、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）4月の一部改良においても[フロントグリル](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")を変更している。
+（「S」マークがフロント上部から、[フロントグリル](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")の中に組み込まれた。）。
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）6月の都合9回目の一部改良によりいわゆる**10型**となったが、機種記号の世代を表す数字が2桁に対応していないためか、実質、一部改良でありながら機種記号を一新している\[1\]。
+
+乗り降りしやすく視界も良いヒップポイント（座面高）を採用した[パッケージ](../Page/パッケージ.md "wikilink")を持ち、一般的な機械式立体[駐車場](../Page/駐車場.md "wikilink")の制限車高である1,550mmを基準とした[セミトールスタイルと大径](https://ja.wikipedia.org/wiki/軽セミトールワゴン "wikilink")[タイヤ](../Page/タイヤ.md "wikilink")\[2\]が特徴で、[最低地上高](https://ja.wikipedia.org/wiki/最低地上高 "wikilink")を高くとり、悪路走破性を高めている。
+
+当初は3ドアのみであったが、翌[1999年](../Page/1999年.md "wikilink")（平成11年）3月に5ドアを追加。[ジムニーとの競合を極力避け](../Page/スズキ・ジムニー.md "wikilink")、[2000年](../Page/2000年.md "wikilink")（平成12年）5月からは5ドアのみの構成となった。[居住](https://ja.wikipedia.org/wiki/居住 "wikilink")空間や[ラゲージスペースは](https://ja.wikipedia.org/wiki/トランク_\(自動車\) "wikilink")[セダン](../Page/セダン.md "wikilink")タイプよりやや広いものの、特に高さで[トールワゴンタイプには敵わない内容となっており](https://ja.wikipedia.org/wiki/軽トールワゴン "wikilink")、室内容積最優先のユーザよりもスタイリング・走破性重視のユーザーに求められている。そのこともあり、使い勝手向上のため[スペアタイヤ](https://ja.wikipedia.org/wiki/スペアタイヤ "wikilink")の上部に34Lの大容量「ラゲッジボックス」が標準装備されていた\[3\]。
+
+初代[シボレー・クルーズ](https://ja.wikipedia.org/wiki/シボレー・クルーズ "wikilink")や初代[スイフト/欧州向けイグニスといったスズキ製の](https://ja.wikipedia.org/wiki/スズキ・スイフト "wikilink")[普通自動車](https://ja.wikipedia.org/wiki/普通自動車 "wikilink")はKeiの派生車とも言えるモデルで、部品の多くが共通化されている。また、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")に対し、[ラピュタとして](https://ja.wikipedia.org/wiki/マツダ・ラピュタ "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）まで[OEM供給していた](https://ja.wikipedia.org/wiki/バッジエンジニアリング "wikilink")。なお、3ドア車のドア、サイドステップは専用品で、5ドア車との互換性はない。
+
+## 初代 HN11S/HN12S/HN21S/HN22S型 （1998年-2009年）
+
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）[10月7日](../Page/10月7日.md "wikilink")
+    新規発売（1型）。3ドアのみで、[低公害仕様（LEV）の](../Page/低公害車.md "wikilink")[K6A型エンジン車の](https://ja.wikipedia.org/wiki/スズキ・K型エンジン "wikilink")「C」、[F6A型](https://ja.wikipedia.org/wiki/スズキ・F型エンジン "wikilink")[ターボ](../Page/ターボチャージャー.md "wikilink")（Siターボ）エンジン車の「G」・「X」、K6A型ターボエンジン車の「S」\[4\]の4グレード展開で、廉価版の「C」を除き、[スタンバイ式4WD車が設定される](../Page/四輪駆動.md "wikilink")。また、「X」・「S」には[ブレーキアシスト](https://ja.wikipedia.org/wiki/ブレーキアシスト "wikilink")付4輪[ABSが標準装備される](https://ja.wikipedia.org/wiki/アンチロック・ブレーキ・システム "wikilink")。
+  - [1999年](../Page/1999年.md "wikilink")（平成11年）[2月4日](../Page/2月4日.md "wikilink")
+    「X」をベースに、[オーディオや](https://ja.wikipedia.org/wiki/カーオーディオ "wikilink")[運転席](../Page/操縦席.md "wikilink")・助手席SRS[エアバッグ](https://ja.wikipedia.org/wiki/エアバッグ "wikilink")などを装備した[特別仕様車](https://ja.wikipedia.org/wiki/特別仕様車 "wikilink")「Kei リミテッド」を発売。
+  - 1999年（平成11年）[3月10日](../Page/3月10日.md "wikilink")
+    5ドア追加。3ドア同様に、Siターボエンジン車の「G」・「X」、K6A型ターボエンジン車の「S」の3グレードを設定する。3ドアと異なるのは、「G」・「X」を含め、全ての[AT車が](../Page/オートマチックトランスミッション.md "wikilink")4速となる点である。また、全グレードに4WD車を設定する。
+  - 1999年（平成11年）[3月24日](../Page/3月24日.md "wikilink")
+    マツダへのOEM供給を開始。マツダにて「**ラピュタ**」という車名で発売する。
+  - 1999年（平成11年）[5月24日](../Page/5月24日.md "wikilink")
+    3ドア「S」をベースに、外内装に専用部品を装着したスポーツ[特装車](../Page/特装車.md "wikilink")「Kei スペシャル」を発売。架装はベルアート（現・スズキエンジニアリング）が担当。
+  - 1999年（平成11年）[10月7日](../Page/10月7日.md "wikilink")
+    一部改良（2型）。各種装備が充実する。[MT車には](https://ja.wikipedia.org/wiki/マニュアルトランスミッション "wikilink")[クラッチスタートシステム](https://ja.wikipedia.org/wiki/クラッチスタートシステム "wikilink")が追加された。また、オプションとなっていた運転席・助手席エアバッグが標準装備される\[5\]。3ドアは「X」のみとなり、AT車が4速化される。これにより、[自然吸気](https://ja.wikipedia.org/wiki/自然吸気 "wikilink")車が一旦消滅。また、5ドアには低価格グレードの「E」が追加される。
+  - 1999年（平成11年）[12月8日](../Page/12月8日.md "wikilink")
+    5ドア「X」をベースに、[CDプレーヤー](../Page/コンパクトディスク.md "wikilink")、[アルミホイール](https://ja.wikipedia.org/wiki/アルミホイール "wikilink")などを装備した特別仕様車「X リミテッド」を発売。
+  - [2000年](../Page/2000年.md "wikilink")（平成12年）[5月18日](../Page/5月18日.md "wikilink")
+    スズキ創立80周年を記念し、5ドア「E」をベースにオーディオやキーレスエントリーなどを装備した特別仕様車「80周年記念車 EX」を発売。
+  - 2000年（平成12年）[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")
+    一部改良（3型）。フロントマスクを変更。グレードの整理によって3ドアが廃止され、標準タイプは「E」と「G」に集約された。「E」の[FF車にK](https://ja.wikipedia.org/wiki/前輪駆動 "wikilink")6A型**[VVT](https://ja.wikipedia.org/wiki/可変バルブ機構 "wikilink")**エンジンを装備し、自然吸気車が復活。「E」にも4WD車が設定され、Siターボエンジンを採用した。また、[エアロパーツ](https://ja.wikipedia.org/wiki/エアロパーツ "wikilink")やローダウンボディでスポーティな外見を持つ「Kei スポーツ」を新たに設定。Siターボエンジンを搭載する「スポーツF」とK6A型ターボエンジンを搭載する「スポーツ」の2グレードが用意される。
+  - 2000年（平成12年）[11月15日](../Page/11月15日.md "wikilink")
+    スズキが「[フリースタイルスキー・ワールドカップ](https://ja.wikipedia.org/wiki/フリースタイルスキー・ワールドカップ "wikilink")」の[冠スポンサー](https://ja.wikipedia.org/wiki/冠スポンサー "wikilink")となって同大会をサポートすることとなり、[国際スキー連盟](https://ja.wikipedia.org/wiki/国際スキー連盟 "wikilink") (FIS) と[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")した特別仕様車、「FISフリースタイルワールドカップリミテッド」を発売。4WD車をベースに、大型[フォグランプ](https://ja.wikipedia.org/wiki/フォグランプ "wikilink")を組み込んだ専用フロントバンパー、銀色塗装の[ルーフレール](https://ja.wikipedia.org/wiki/カーキャリア "wikilink")、ドアミラーカウル、[ホイールアーチモール](https://ja.wikipedia.org/wiki/フェンダー_\(自動車\) "wikilink")\[6\]、青色の専用トリム（シート表皮、ドアトリム）、トレー形状の専用フロアマット、アルミホイール、[MD](../Page/ミニディスク.md "wikilink")・CD[プレーヤー](https://ja.wikipedia.org/wiki/カーオーディオ "wikilink")、専用[デカール](https://ja.wikipedia.org/wiki/デカール "wikilink")などにより、内外観の[差別化](https://ja.wikipedia.org/wiki/差別化 "wikilink")と[スキー](../Page/スキー.md "wikilink")用途に対応した装備を充実させた\[7\]。
+  - 2000年（平成12年）[12月15日](../Page/12月15日.md "wikilink")
+    低価格でありながら、上級グレードに搭載される装備を装着した新グレード「21世紀記念スペシャル EX」を発売。([タコメーター](https://ja.wikipedia.org/wiki/タコメーター "wikilink")は非装備)。「E」は再び、[FFのみの設定になる](https://ja.wikipedia.org/wiki/前輪駆動 "wikilink")。
+  - [2001年](../Page/2001年.md "wikilink")（平成13年）[4月17日](../Page/4月17日.md "wikilink")
+    一部改良（4型）。[インストルメントパネルのデサイン一新した](https://ja.wikipedia.org/wiki/ダッシュボード_\(自動車\) "wikilink")。また、[国土交通省](https://ja.wikipedia.org/wiki/国土交通省 "wikilink")の平成12年[排ガス規制に対応し](../Page/自動車排出ガス規制.md "wikilink")、「E」は「[優-低排出ガス車](https://ja.wikipedia.org/wiki/低排出ガス車認定制度 "wikilink")（☆☆）」認定、「21世紀記念スペシャル EX」と「G」は「良-低排出ガス車（☆）」認定をそれぞれ取得する。また、専用[フロントバンパーとビレットグリルなどを装備した](https://ja.wikipedia.org/wiki/バンパー "wikilink")「DJ」を新設定。「Kei スポーツ」は「スポーツ」のみとなるが、新たに横滑り制御・[トラクションコントロールシステム](https://ja.wikipedia.org/wiki/トラクションコントロールシステム "wikilink")・ABSを組み合わせ、車両の安定性を向上させた**[VST](https://ja.wikipedia.org/wiki/横滑り防止機構 "wikilink")**をオプション設定した。
+  - 2001年（平成13年）[4月26日](../Page/4月26日.md "wikilink")
+    「Keiスポーツ」の[2WD](https://ja.wikipedia.org/wiki/二輪駆動 "wikilink")・5MT車をベースに、快適装備\[8\]を省き、軽量化に特化した[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")入門車「スポーツR」を発売。ベルアート（現・スズキエンジニアリング）が架装する競技用車ではあるが、ナンバーの取得も可能である。また同年より、KeiスポーツRによる[グループN](https://ja.wikipedia.org/wiki/グループN "wikilink")ゼロの[ワンメイクレース](https://ja.wikipedia.org/wiki/ワンメイクレース "wikilink")、「スズキKeiスポーツカップ」が開催される。\[9\]
+  - 2001年（平成13年）[11月14日](../Page/11月14日.md "wikilink")
+    一部改良（5型）。低価格グレードの「E」にも運転席・助手席SRSエアバッグを標準装備。中低速での力強さに重点を置いた新開発K6A型Mターボエンジンを搭載した新グレード「N-1」と、デザイナー[山本寛斎](../Page/山本寛斎.md "wikilink")とタイアップしたファッショナブルな特別仕様車「up to you KANSAI」を新設定。
+  - [2002年](../Page/2002年.md "wikilink")（平成14年）[1月21日](../Page/1月21日.md "wikilink")
+    前シーズンに引き続き、特別仕様車「FISフリースタイルワールドカップリミテッド（第2期モデル）」を発売。今回は[2WD車も用意される](https://ja.wikipedia.org/wiki/二輪駆動 "wikilink")\[10\]。
+  - 2002年（平成14年）[5月22日](../Page/5月22日.md "wikilink")
+    「E」をベースに電動格納式リモコン[ドアミラー](https://ja.wikipedia.org/wiki/ドアミラー "wikilink")、[スモークガラスを装備しながら](https://ja.wikipedia.org/wiki/スモークフィルム "wikilink")、「E」よりも低価格に抑えた特別仕様車「E リミテッド」を発売\[11\]。
+  - 2002年（平成14年）[11月12日](../Page/11月12日.md "wikilink")
+    一部改良（6型）。内装のデザインが変更されたほか、低価格車の「Eタイプ」を新たに設定した。また、標準仕様のほかに、[パワーウインドウ](https://ja.wikipedia.org/wiki/パワーウインドウ "wikilink")、パワードアロック、スモークガラスなどを装備した「Aパッケージ」と、「Aパッケージ」の仕様に加えキーレスエントリー、電動格納式リモコンドアミラーなどを装備した「Bパッケージ」をラインナップする。また、[アルトワークスの後継とも言えるスポーツモデル](https://ja.wikipedia.org/wiki/スズキ・アルト "wikilink")「**[Keiワークス](https://ja.wikipedia.org/wiki/スズキ・Kei#ホットモデル "wikilink")**」を新たに設定した\[12\]。15インチアルミホイールや4輪[ディスクブレーキ](https://ja.wikipedia.org/wiki/ディスクブレーキ "wikilink")、[レカロ](https://ja.wikipedia.org/wiki/レカロ "wikilink")シート、ヘリカル[LSD](https://ja.wikipedia.org/wiki/差動装置#リミテッド・スリップ・デフ "wikilink")（2WD・MT車のみ）などを装備。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Suzuki_Kei_003.JPG "wikilink")
+
+  - 2002年（平成14年）[11月18日](../Page/11月18日.md "wikilink")
+    特別仕様車「FISフリースタイルワールドカップリミテッド（第3期モデル）」を発売。今回は「[スマートキーレスエントリー](https://ja.wikipedia.org/wiki/スマートエントリー "wikilink")」などの快適装備が付く\[13\]。
+  - [2003年](../Page/2003年.md "wikilink")（平成15年）[9月12日](../Page/9月12日.md "wikilink")
+    一部改良（7型）。グレード体系を整理し、K6A型VVTエンジンを搭載する「A」と、K6A型Mターボエンジンを搭載する「Bターボ」の2種類に集約される。
+  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")
+    一部改良（8型）。「A」が「平成17年排出ガス基準50%低減レベル（☆☆☆）」に対応。
+  - 2004年6月18日
+    KeiスポーツRのフロント[ハブがサーキット走行には強度が不足していることが判明し](https://ja.wikipedia.org/wiki/ハブ_\(機械\) "wikilink")、[リコールを発表](https://ja.wikipedia.org/wiki/リコール_\(自動車\) "wikilink")。当該箇所の新品部品への交換と、サーキット走行用装置の取り外しでの改善となる\[14\]。これらの措置によってKeiスポーツRは公道専用車となり、「スズキKeiスポーツカップ」もシーズン途中で中止となる。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[5月9日](https://ja.wikipedia.org/wiki/5月9日 "wikilink")
+    電動格納式リモコンドアミラー、MD・CDオーディオ・アルミホイールなどを装備した特別仕様車「Aスペシャル」および「Bターボスペシャル」を発売。同時に「Bターボ」の4WD車も仕様変更しデアイサーを追加。
+  - 2006年（平成18年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")
+    マツダへのOEM供給中止により、ラピュタがカタログ落ちし､当車より早く販売終了。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[4月11日](../Page/4月11日.md "wikilink")
+    一部改良（9型）。全車[ヘッドランプの光軸角度を調節する](https://ja.wikipedia.org/wiki/前照灯 "wikilink")、マニュアルレベリング機構と助手席シートバックポケットを装備。「A」・「Bターボ」はフロント[バンパー](https://ja.wikipedia.org/wiki/バンパー "wikilink")・[グリルのデザインを変更し](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")、電動格納式リモコン[ドアミラー](https://ja.wikipedia.org/wiki/ドアミラー "wikilink")を標準装備。CDステレオのデザインを変更。「ワークス」には新色「チャンピオンイエロー4」を追加。
+  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）[6月](../Page/6月.md "wikilink")
+    一部改良（10型）。「A」・「Bターボ」の車体色「シュプリームレッドパール2」及び「ワークス」の車体色「チャンピオンイエロー4」が廃止。また、Bターボは高圧ターボの64馬力版となり、FF（2WD）の4速AT車はロックアップ機構付きとなった。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[9月](../Page/9月.md "wikilink")
+    一部改良（11型）。
+  - [2009年](../Page/2009年.md "wikilink")（平成21年）[8月](../Page/8月.md "wikilink")
+    KeiワークスのAT車の[オーダーストップ](https://ja.wikipedia.org/wiki/オーダーストップ "wikilink")、および生産終了。
+  - [2009年](../Page/2009年.md "wikilink")（平成21年）[9月](../Page/9月.md "wikilink")\[15\]
+    残りの全グレードのオーダーストップ、および生産終了。
+  - [2009年](../Page/2009年.md "wikilink")（平成21年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")
+    販売終了。スズキのWEBサイト内からも削除。
+
+ファイル:Suzuki Kei 1998 3door.jpg|前期型・3ドア ファイル:Suzuki Kei 1998 3door Rear.jpg|前期型・3ドア（リア） ファイル:2000-2006 Suzuki Kei.jpg|中期型・5ドア（2000年10月 - 2006年4月） ファイル:Suzuki Kei 002.JPG|中期型（リア） ファイル:Kei_9.jpg|後期型・5ドア（2006年4月 - 2009年10月）
+
+## ホットモデル
+
+軽自動車には[自動車メーカーが](https://ja.wikipedia.org/wiki/自動車産業 "wikilink")[自主的に設けた](https://ja.wikipedia.org/wiki/自主規制 "wikilink")[馬力規制があり](https://ja.wikipedia.org/wiki/自動車馬力規制 "wikilink")、スポーティグレードの「Sタイプ」がすでにその上限となる64 psを発揮しているため、特別なスポーツモデルであっても出力はそれを超えることはない。
+
+### Keiスペシャル（1型）
+
+初期型に存在した3ドア・Sタイプをベースに、スポーティな専用部品を装着した[特装車](../Page/特装車.md "wikilink")として1999年5月に発売された。トランスミッションは5MTまたは4AT、駆動方式はFFまたは4WDを選択することができた。
+
+架装は、写真撮影・デザイン・用品開発を手がけるスズキのグループ会社である、ベルアート（現・スズキエンジニアリング）が行った\[16\]。後述のKeiスポーツ、Keiワークスとは異なり、内外装の変更と装備の充実のみで、インタークーラー付き高圧ターボのK6Aエンジン、[ギア比](https://ja.wikipedia.org/wiki/歯車比 "wikilink")、足回りはSタイプと同等である。スペシャル用の内外装パーツは通常グレードへの装着も可能。 {{-}}
+
+### Keiスポーツ（3-5型）
+
+[200px](https://ja.wikipedia.org/wiki/ファイル:Suzuki_Kei_006.JPG "wikilink") 2000年10月に[アルトワークスが生産中止となり](https://ja.wikipedia.org/wiki/スズキ・アルト "wikilink")、それに代わるモデルとして「Keiスポーツ」（3型）が誕生した。Sタイプをベースに装備を変更したものである。
+
+アルトワークスと同様に、5MT/4ATおよびFF/4WDを選択することができた。エンジンは初期型（3型）こそアルトワークスと同じく[SOHC](../Page/SOHC.md "wikilink")のF6A型、[DOHC](../Page/DOHC.md "wikilink")のK6A型を選択することが出来たが、2001年4月のマイナーチェンジ後（4型 -）はK6A型のみの搭載となった。
+
+専用[サスペンション](../Page/サスペンション.md "wikilink")、専用エアロ、[バケットシート](https://ja.wikipedia.org/wiki/バケットシート "wikilink")（5型のみ）、ホイールの大径化などの装備が施された。
+
+かつて行われていた[ワンメイクレース](https://ja.wikipedia.org/wiki/ワンメイクレース "wikilink")、「Keiスポーツカップ」出場を想定し、快適装備を排除し軽量化した「KeiスポーツR」というグレードも存在した。
+
+### Keiワークス（6型-）
+
+[Suzuki_Kei_Works_(HN22S)_front.JPG](https://ja.wikipedia.org/wiki/File:Suzuki_Kei_Works_\(HN22S\)_front.JPG "fig:Suzuki_Kei_Works_(HN22S)_front.JPG") ベーシックグレードからの完全な脱却、および、かねてから「ワークス」の名前の復活が切望されていたことを受け、2002年11月のマイナーチェンジの際に、6型として「Keiスポーツ」から「Keiワークス」へ名称を変更して登場。
+
+グレード展開・搭載エンジンに変更はないが、各種装備や構造変更内容については、4輪[ディスクブレーキ](https://ja.wikipedia.org/wiki/ディスクブレーキ "wikilink")、15インチアルミホイール、60偏平率タイヤ、[レカロ](https://ja.wikipedia.org/wiki/レカロ "wikilink")シートを採用、5MT・FFモデル車では[LSDの標準装備など](https://ja.wikipedia.org/wiki/差動装置#リミテッド・スリップ・デフ "wikilink")、「ワークス」の名称（サブネーム）を大きく意識して外観も精悍なものとし、大幅に変更を加えられた内容となった。
+
+ボディ色も[JWRC参戦中のイグニスと同一の](https://ja.wikipedia.org/wiki/世界ラリー選手権#世界ジュニアラリー選手権_\(JWRC\)/WRC_アカデミー "wikilink")「チャンピオンイエロー」が途中から設定され、[スイフトスポーツと同様に選ぶことができる](https://ja.wikipedia.org/wiki/スズキ・スイフト "wikilink")。スズキの[フラッグシップ](https://ja.wikipedia.org/wiki/フラッグシップ "wikilink")スポーツモデルのイメージをより強く押し出したほか、パールホワイト以外のボディ色を一新して「スポーツ」のイメージから大きな変革を図っている。
+
+この時期はスポーツモデルの人気が薄かったこともあり、販売台数が思うように伸びてはいなかったものの、細かくマイナーチェンジは行われており、熟成が進んだモデルとなっていた。
+
+## 車名の由来
+
+  - **軽自動車**の**ケイ** (Kei) から。「**軽**の中の**軽**」を目指す意味がこめられている。
+
+## 脚注
+
+## 関連項目
+
+  - [フォーミュラ・スズキKei](https://ja.wikipedia.org/wiki/フォーミュラ・スズキKei "wikilink") - 同車両のエンジンを流用した市販[レーシングカー](https://ja.wikipedia.org/wiki/レーシングカー "wikilink")。
+  - [マツダ・ラピュタ](https://ja.wikipedia.org/wiki/マツダ・ラピュタ "wikilink") - OEM
+  - [スズキ・スイフト](https://ja.wikipedia.org/wiki/スズキ・スイフト "wikilink")（初代） - 派生車
+  - [シボレー・クルーズ](https://ja.wikipedia.org/wiki/シボレー・クルーズ "wikilink") - 派生車
+  - [スバル・G3Xジャスティ](https://ja.wikipedia.org/wiki/スバル・ジャスティ "wikilink") - 派生車
+  - [スズキ・ハスラー](https://ja.wikipedia.org/wiki/スズキ・ハスラー "wikilink") - 実質的な後継車
+
+[Category:スズキの車種](https://ja.wikipedia.org/wiki/Category:スズキの車種 "wikilink") [Category:軽自動車](https://ja.wikipedia.org/wiki/Category:軽自動車 "wikilink") [Category:クロスオーバーSUV](https://ja.wikipedia.org/wiki/Category:クロスオーバーSUV "wikilink")
+
+1.  Kei Aグレード2WDを例に挙げると、DB**E**V-9 → DB**A**V
+2.  2WD車は155/80R13、4WD車は165/70R14
+3.  ただし軽トールワゴンでは、大柄な座席、ロングスライドレール、広い足元スペースなどを持ち、後席の居住性を重視したものが増えており、これらの荷室床面積はそれほど大きくない。
+4.  「S」のAT車は4速で、その他のAT車は3速である。
+5.  5ドア「E」ではオプション設定だった。
+6.  ホイールアーチモールは販売店取り付け。
+7.
+8.  [エアコンは装備されるが](../Page/エア・コンディショナー.md "wikilink")、[パワーウインドウ](https://ja.wikipedia.org/wiki/パワーウインドウ "wikilink")などは装備されない。
+9.
+10.
+11. K6A型Mターボエンジンを搭載する4WD車も設定する。
+12. 「スポーツR」は継続販売されていた。
+13.
+14.
+15.
+16. [スポーツ仕様の特装車「Ｋｅｉ スペシャル」を新発売](http://www.suzuki.co.jp/release/a/a990512.htm) - スズキニュースリリース（1999.5.12発表）2018年10月25日閲覧

@@ -1,0 +1,378 @@
+> この記事は[IGR](https://ja.wikipedia.org/wiki/IGR)から翻訳されています。
+
+
+**アイジーアールいわて銀河鉄道株式会社**（アイジーアールいわてぎんがてつどう）は、[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")に本社を置く、[第三セクター](../Page/第三セクター.md "wikilink")方式の[鉄道事業者](https://ja.wikipedia.org/wiki/鉄道事業者 "wikilink")である。[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）から引き継いだ[いわて銀河鉄道線](https://ja.wikipedia.org/wiki/いわて銀河鉄道線 "wikilink")を運営するほか、旅行業や不動産事業も営んでいる。なお、[社名のアイジーアール](https://ja.wikipedia.org/wiki/#社名の由来 "wikilink") (IGR) は「**Iwate Galaxy Railway**」の略であり、Gは「**Ginga**」ではない。
+
+## 概要
+
+[東北新幹線](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")[盛岡](https://ja.wikipedia.org/wiki/盛岡駅 "wikilink") - [八戸間開業に伴い](../Page/八戸駅.md "wikilink")、[並行在来線としてJR東日本から経営分離されることとなった](../Page/在来線.md "wikilink")[東北本線](https://ja.wikipedia.org/wiki/東北本線 "wikilink")盛岡 - 八戸間のうち、[目時駅](https://ja.wikipedia.org/wiki/目時駅 "wikilink")構内南方の県境上にある会社分界点より岩手県側を運営している。
+
+青い森鉄道より[運転指令も受託して一体的な運用がされていたが](https://ja.wikipedia.org/wiki/運転指令所 "wikilink")、目時以北については2010年7月3日にJR東日本盛岡指令青森分室に移管され、2010年12月4日から[青い森鉄道](https://ja.wikipedia.org/wiki/青い森鉄道 "wikilink")の指令所として運用されている。運転指令の分離に伴い、2010年12月11日に新指令システムへの移行を行い、JR盛岡総合指令室内からIGR運輸管理所内に移転した\[1\]。
+
+なお本社は2015年11月16日に盛岡市上田一丁目（JR[山田線](https://ja.wikipedia.org/wiki/山田線 "wikilink")[上盛岡駅](https://ja.wikipedia.org/wiki/上盛岡駅 "wikilink")北側\[2\]）から同市青山二丁目の[青山駅南口駅舎](https://ja.wikipedia.org/wiki/青山駅_\(岩手県\) "wikilink")2・3階\[3\]（[岩手県道223号盛岡滝沢線](https://ja.wikipedia.org/wiki/岩手県道223号盛岡滝沢線 "wikilink")沿い）へ移転。これに合わせ青山駅には南口（厨川中学校・青山一丁目・南青山町・大新町地区方面）通路と駐輪場が新設された\[4\]\[5\]\[6\]。
+
+### 社名の由来
+
+社名は会社設立前の発起人会が公募して決定し、[2001年](../Page/2001年.md "wikilink")3月22日に[盛岡グランドホテル](https://ja.wikipedia.org/wiki/盛岡グランドホテル "wikilink")において発表した。同日、優秀作品賞の表彰式が行われ、[一戸町](https://ja.wikipedia.org/wiki/一戸町 "wikilink")の当時24歳の主婦が受賞した。応募作品総数は2,642点で、最も多かったのが「みちのく鉄道」の172点だったが、一番多かったものが社名になった訳ではなく\[7\]\[8\]、郷土の偉人である[宮沢賢治](../Page/宮沢賢治.md "wikilink")の著書「[銀河鉄道の夜](https://ja.wikipedia.org/wiki/銀河鉄道の夜 "wikilink")」に由来する「いわて銀河鉄道」に決定された。ところがいざ法人登記しようという段になって商号調査したところ、盛岡市内に「いわて銀河鉄道」という会社が既に法人登記されていることが判明したため、苦肉の策として「IGR」を頭に付けた\[9\]。当時はアルファベットの商号登記ができなかったため、登記上及び鉄道事業許可上の社名は「アイジーアールいわて銀河鉄道株式会社」\[10\]\[11\]である。以後、特に差し支えがなければ社名の先頭の「アイジーアール」は「IGR」と略して記述する。
+
+### 経営状況
+
+開業以来、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")度決算までは赤字だったが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")度決算で初めて当期純利益を計上し、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")度まで4年連続で黒字決算となった。これは、新駅（[青山駅](https://ja.wikipedia.org/wiki/青山駅_\(岩手県\) "wikilink")・[巣子駅](https://ja.wikipedia.org/wiki/巣子駅 "wikilink")）設置により利用者の減少に歯止めが掛かっていることやコスト削減などによる営業損失の縮小、および通学定期運賃の激変緩和措置などによる補助金収入（特別利益）が増大したことが要因となっている。
+
+[2009年](../Page/2009年.md "wikilink")度決算はいわて銀河鉄道線を経由する寝台特急列車の運賃・料金収入の減少などにより、当初は再び赤字に転落するものと見込まれていた\[12\]が、コスト削減策や増客策が奏功し、2005年度（2006年3月期）から5年連続で単年度黒字を計上した。
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度決算は[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響もあり赤字に転落したが、[2011年](../Page/2011年.md "wikilink")度決算より単年度黒字に回復。[2012年](../Page/2012年.md "wikilink")度決算では累積赤字を解消する見込み\[13\]となったことから、[2013年](../Page/2013年.md "wikilink")4月1日より定期券の大幅値下げと一部区間の普通運賃値下げが実施されている\[14\]\[15\]。なお、消費税率の8%への改定に伴い、[2014年](../Page/2014年.md "wikilink")4月1日からは普通運賃・定期券いずれも値上げとなった。
+
+以降[2015年](../Page/2015年.md "wikilink")度（[2016年](../Page/2016年.md "wikilink")3月期）決算まで5期連続の黒字となったが、事前発表\[16\]では黒字予想だった2016年度（[2017年](../Page/2017年.md "wikilink")3月期）決算は、減価償却費の計上漏れを[監査法人](https://ja.wikipedia.org/wiki/監査法人 "wikilink")から指摘され、それにより赤字決算となった\[17\]\[18\]。
+
+## 沿革
+
+  - [2001年](../Page/2001年.md "wikilink")（[平成](../Page/平成.md "wikilink")13年）[5月25日](../Page/5月25日.md "wikilink")：会社設立。盛岡地区合同庁舎内に事務所を置く。
+  - [2002年](../Page/2002年.md "wikilink")（平成14年）
+      - [3月15日](../Page/3月15日.md "wikilink")：[いわて銀河鉄道線](https://ja.wikipedia.org/wiki/いわて銀河鉄道線 "wikilink") [盛岡駅](https://ja.wikipedia.org/wiki/盛岡駅 "wikilink") - [目時駅](https://ja.wikipedia.org/wiki/目時駅 "wikilink")間の第一種鉄道事業（旅客運送）を申請\[19\]。
+      - [4月1日](../Page/4月1日.md "wikilink")：事務所を盛岡市上田一丁目へ移転。
+      - [5月28日](../Page/5月28日.md "wikilink")：いわて銀河鉄道線 盛岡駅 - 目時駅間の第一種鉄道事業が許可\[20\]。
+      - [12月1日](../Page/12月1日.md "wikilink")：いわて銀河鉄道線 盛岡駅 - 目時駅間 (82.0km) 開業。
+  - [2015年](../Page/2015年.md "wikilink")（平成27年）[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")：青山駅の南口新駅舎・改札・連絡通路を供用開始\[21\]。あわせて同駅南口新駅舎2・3階へIGR本社を、同1階へ銀河鉄道観光と銀河鉄道不動産本店窓口をそれぞれ移転。
+  - [2016年](../Page/2016年.md "wikilink")（平成28年）[6月1日](../Page/6月1日.md "wikilink")：[台湾鉄路管理局](https://ja.wikipedia.org/wiki/台湾鉄路管理局 "wikilink")[台中線](https://ja.wikipedia.org/wiki/台中線 "wikilink")と姉妹鉄道協定を締結\[22\]。
+
+## 組織
+
+[IGRいわて銀河鉄道 組織図](http://www.igr.jp/wp/company-info/%e4%bc%9a%e7%a4%be%e6%a6%82%e8%a6%81%e3%83%bb%e6%b2%bf%e9%9d%a9)による。
+
+  - 本社および登記上の本店：〒020-0133 盛岡市青山二丁目2番8号\[23\]\[24\]（[青山駅](https://ja.wikipedia.org/wiki/青山駅_\(岩手県\) "wikilink") 南口駅舎2・3階）
+      - 青山駅利用客用マイカー駐車可能区画は4台分整備され、残りの区画はIGR公用車専用駐車場となっている。
+  - 経営企画本部
+      - 経営統括部（総務・法務G、経理G、企画・広報G）
+      - 安全対策室
+      - 事業企画部（営業サービスG、不動産本店・事業開発G）
+          - [盛岡駅](https://ja.wikipedia.org/wiki/盛岡駅 "wikilink")グループ（盛岡駅と青山駅 - [御堂駅](https://ja.wikipedia.org/wiki/御堂駅 "wikilink")の駅管理）
+              - IGRインフォメーション\[25\]
+          - [二戸駅](https://ja.wikipedia.org/wiki/二戸駅 "wikilink")グループ（二戸駅と[奥中山高原駅](https://ja.wikipedia.org/wiki/奥中山高原駅 "wikilink") - [金田一温泉駅](https://ja.wikipedia.org/wiki/金田一温泉駅 "wikilink")の駅管理）
+          - [銀河鉄道観光](https://ja.wikipedia.org/wiki/#銀河鉄道観光 "wikilink")（旅行業部門）：〒020-0133 盛岡市青山二丁目2番8号 青山駅南口駅舎兼IGR本社社屋1階
+          - [IGRいわて銀河鉄道不動産](https://ja.wikipedia.org/wiki/#IGRいわて銀河鉄道不動産 "wikilink")
+              - 本店：〒020-0133 盛岡市青山二丁目2番8号 青山駅南口駅舎兼IGR本社社屋1階（不動産物件検索用タッチパネルを待合室に設置）
+              - 厨川駅店：〒020-0124　盛岡市厨川一丁目17番1号　厨川駅待合室内（旧銀河鉄道観光窓口跡）
+                  - 以前は盛岡駅店もあったが、[駅ビル](https://ja.wikipedia.org/wiki/駅ビル "wikilink")「[フェザン](https://ja.wikipedia.org/wiki/フェザン "wikilink")」大規模改装に伴い2017年4月24日より厨川駅店へ一本化された（旧盛岡駅店は待合室機能のみを存続）。\[26\]
+          - IGRクリーンサービス:〒020-0124 盛岡市厨川一丁目17番1号 [厨川駅](https://ja.wikipedia.org/wiki/厨川駅 "wikilink")事務室内（旧銀河鉄道観光窓口跡）
+          - IGR駅舎内飲食店
+              - 地産地消レストラン「びすとろ銀河」：〒020-0133 盛岡市青山二丁目2番8号 青山駅南口駅舎兼IGR本社社屋1階
+              - 串焼き処 銀河：〒020-0622 [滝沢市](https://ja.wikipedia.org/wiki/滝沢市 "wikilink")野沢90番地 IGR[滝沢駅](https://ja.wikipedia.org/wiki/滝沢駅 "wikilink")舎内（旧銀河鉄道観光窓口跡）
+          - IGR駅舎内売店・[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")
+              - 沿線地域特産品販売店「銀河マルシェ」：〒020-0133 盛岡市青山二丁目2番8号 青山駅南口駅舎兼IGR本社社屋1階
+              - 産直「ニコニコ駅こずや」：〒028-5221 [二戸郡](https://ja.wikipedia.org/wiki/二戸郡 "wikilink")[一戸町](https://ja.wikipedia.org/wiki/一戸町 "wikilink")小鳥谷字中屋敷1番地 [小鳥谷駅](https://ja.wikipedia.org/wiki/小鳥谷駅 "wikilink")待合室内
+              - [ミニストップ](https://ja.wikipedia.org/wiki/ミニストップ "wikilink")いわて銀河鉄道一戸駅店：〒028-5301 二戸郡一戸町西法寺字稲荷10番地1 IGR[一戸駅](https://ja.wikipedia.org/wiki/一戸駅 "wikilink")舎1階（旧[キオスク](https://ja.wikipedia.org/wiki/キオスク "wikilink")跡）
+              - ミニストップ[折爪SA上り店](https://ja.wikipedia.org/wiki/折爪サービスエリア "wikilink")：〒028-6222 岩手県九戸郡軽米町大字山内第四地割字駒板111-62-1（[八戸自動車道](https://ja.wikipedia.org/wiki/八戸自動車道 "wikilink")折爪サービスエリア上り線）
+              - ミニストップ折爪SA下り店：〒028-6222 岩手県九戸郡軽米町大字山内第四地割字駒板111-62-2（八戸自動車道折爪サービスエリア下り線）
+                  - 上記店舗のうち「びすとろ銀河」・「銀河マルシェ」・「串焼き処銀河」は2016年8月より「[MORIO-Jカード](https://ja.wikipedia.org/wiki/東山堂_\(書店\) "wikilink")」に対応開始（ただし「びすとろ銀河」はMORIO-Jポイント付与のみ実施）。
+  - 鉄道事業本部
+      - 運輸部（運輸・車両G）
+          - ぎんが指令（輸送指令・設備指令・旅客指令） - 2002年12月1日から2010年12月10日まではJR盛岡総合指令室内に併設されていた\[27\]。
+          - [運輸管理所](https://ja.wikipedia.org/wiki/IGRいわて銀河鉄道運輸管理所 "wikilink")：〒020-0137 盛岡市天昌寺町5番5号（JR東日本[盛岡車両センター](https://ja.wikipedia.org/wiki/盛岡車両センター "wikilink")隣）
+          - 乗務員養成センター（運輸管理所内）
+      - 設備部（施設G、電気G）
+          - 設備管理所
+              - 本所：〒028-4125 盛岡市好摩字上山3番地3（[好摩駅](https://ja.wikipedia.org/wiki/好摩駅 "wikilink")北側、旧・JR東日本盛岡第一保線区好摩管理室）
+              - 盛岡事務所：〒020-0033 盛岡市盛岡駅前北通13番41号 [東北新幹線](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")高架下JRビル内
+              - 一戸事務所：〒028-5311 [二戸郡](https://ja.wikipedia.org/wiki/二戸郡 "wikilink")[一戸町](https://ja.wikipedia.org/wiki/一戸町 "wikilink")高善寺字野田126番地6 （[一戸駅](https://ja.wikipedia.org/wiki/一戸駅 "wikilink")北側）
+                  -
+                    好摩駅東側にある「IGR設備管理所倉庫（線路保守用部品保管庫および線路保守点検作業用公用車駐車場）」は毎年10月第二土曜日に開催されている「銀河鉄道まつり」の会場となっており、まつり開催時は線路保守作業車「[マルチプルタイタンパー](https://ja.wikipedia.org/wiki/マルチプルタイタンパー "wikilink")」が展示および作業実演のため一戸事務所より、[IGR7000系車両](https://ja.wikipedia.org/wiki/JR東日本701系電車 "wikilink")1編成が展示のため運輸管理所より好摩駅までそれぞれ回送される。さらにIGR社員（運転士・車掌・設備管理所作業員）を対象とした「実車を用いた非常時における乗客避難誘導訓練」も好摩駅東側にある側線にて年に数回実施されている。
+
+### 銀河鉄道観光
+
+IGRいわて銀河鉄道の[旅行業](https://ja.wikipedia.org/wiki/旅行業 "wikilink")部門で、[近畿日本ツーリストグループ](https://ja.wikipedia.org/wiki/近畿日本ツーリストグループ "wikilink")特約店。旅行業登録番号は岩手県知事第2-186号。開設から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月25日](../Page/11月25日.md "wikilink")までは[滝沢駅](https://ja.wikipedia.org/wiki/滝沢駅 "wikilink")構内に店舗が所在。その後[厨川駅](https://ja.wikipedia.org/wiki/厨川駅 "wikilink")構内に移転し、[2009年](../Page/2009年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")まで同駅業務の委託を受けていた。委託終了後は旅行業務のみに戻ったが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月にIGR本社内へ移転。2015年11月16日のIGR本社移転に伴い当部門も青山駅南口駅舎兼IGR本社新社屋1階へ再移転し、これに合わせて年末年始を除く土日・祝日も利用可能な常設窓口を新設。窓口営業時間も以前より拡大された。
+
+  - 〒020-0133 盛岡市青山二丁目2番8号（青山駅南口駅舎兼IGR本社社屋1階）
+  - 営業時間：9:30 - 18:30（年末年始（12月29日 - 1月3日）は休業）
+
+[IBCラジオ](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")「[盛岡駅前探偵団](https://ja.wikipedia.org/wiki/盛岡駅前探偵団 "wikilink")」にて毎週木曜日に[CMを不定期で放送している](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")。
+
+### IGRいわて銀河鉄道不動産
+
+IGRいわて銀河鉄道の[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")業部門で、本社営業部の配下にある。免許番号は岩手県知事(3)第2352号。2015年11月16日に本店は青山駅南側のIGR本社新社屋1階へ移転した。また2016年12月5日に厨川駅店を開設、2017年4月24日に盛岡駅店を厨川駅店に統合した。
+
+  - 本店（IGR青山駅南口駅舎兼本社社屋1階）
+      - 本社の上田から青山への移転に併せて移転。移転後は岩手県内初となる「不動産物件検索用無人タッチパネル」を導入。列車待ちの間などにIGR沿線を含めた不動産物件を検索でき、物件情報の印刷も可能。
+  - 厨川駅店（IGR厨川駅待合室内。2016年12月5日開設）　営業時間：9:30 - 17:00（水曜は休業）
+
+**過去の店舗**
+
+  - 盛岡駅店（IGR盛岡駅待合室内） 営業時間：9:00 - 17:00（水曜は休業）
+      - 2017年4月21日をもって営業終了、24日より厨川駅店に統合された。
+
+## 路線
+
+  - [いわて銀河鉄道線](https://ja.wikipedia.org/wiki/いわて銀河鉄道線 "wikilink") 盛岡 - 目時 (82.0km)
+      - 盛岡駅北方の[場内信号機下にある会社分界点](https://ja.wikipedia.org/wiki/日本の鉄道信号#場内信号機 "wikilink") - 目時駅南方の県境上にある会社分界点より南側、及び好摩駅北方の花輪線場内信号機下にある会社分界点より東側。盛岡駅構内IGR線乗り場（0・1番線）に当線用0[キロポストは無く](https://ja.wikipedia.org/wiki/距離標 "wikilink")、線路上および線内各踏切に設置されているキロポストは（旧東北本線時代のまま）東京起点からの通算表示となっている（[目時駅](https://ja.wikipedia.org/wiki/目時駅 "wikilink")構内にも青い森鉄道線用0キロポストは無く、当線より引き続き東京起点からの通算表示）。
+
+ファイル:IGRいわて沼宮内駅改札.jpg|いわて沼宮内駅改札口 ファイル:IGR_Shibutami_eqm.jpg|標準タイプの駅名標
+
+## 車両
+
+以下の車両が[運輸管理所に在籍している](https://ja.wikipedia.org/wiki/IGRいわて銀河鉄道運輸管理所 "wikilink")。
+
+  - [IGR7000系](https://ja.wikipedia.org/wiki/JR東日本701系電車 "wikilink")
+      - 2両編成7本の計14両が在籍。うち3編成6両が路線開業時に新製された車両、残る4編成8両は路線開業時にJR東日本より購入した車両\[28\]。2015 - 2016年度において機器更新・スノープラウ大型化・シングルアームパンタ化等の更新工事を全ての編成に対して実施した。
+
+ファイル:Metoki-stn IGR7000.jpg|目時駅に進入するIGR7000系 ファイル:Igr-1th.jpg|1周年記念車両（盛岡駅にて）
+
+## 運賃・料金など
+
+大人普通旅客運賃（小児は半額・10円未満切り上げ）。2019年10月1日改定\[29\]\[30\]\[31\]。
+
+| キロ程        | 運賃（円） | キロ程     | 運賃（円） |
+| ---------- | ----- | ------- | ----- |
+| 初乗り1 - 2km | 160   | 41 - 45 | 1,230 |
+| 3 - 4      | 220   | 46 - 50 | 1,370 |
+| 5 - 6      | 300   | 51 - 55 | 1,470 |
+| 7 - 10     | 320   | 56 - 60 | 1,590 |
+| 11 - 15    | 380   | 61 - 65 | 1,730 |
+| 16 - 20    | 530   | 66 - 70 | 1,850 |
+| 21 - 25    | 660   | 71 - 75 | 2,000 |
+| 26 - 30    | 800   | 76 - 80 | 2,130 |
+| 31 - 35    | 950   | 81 - 82 | 2,420 |
+| 36 - 40    | 1,080 |         |       |
+
+ただし、下記の区間では[乗継割引運賃](https://ja.wikipedia.org/wiki/乗り継ぎ料金制度 "wikilink")（小児は半額・10円未満切り上げ）が適用される。
+
+| 山岸  | 上盛岡 | 小岩井 | 大釜  | 岩手飯岡 | 仙北町 | JR線／IGR線 |
+| --- | --- | --- | --- | ---- | --- | -------- |
+| 360 | 320 | 410 | 360 | 360  | 320 | 青山       |
+| 440 | 400 | 490 | 440 | 440  | 400 | 厨川       |
+| 520 | 480 | 570 | 520 | 520  | 480 | 巣子       |
+| 520 | 480 | 570 | 520 | 520  | 480 | 滝沢       |
+
+style="text-align:left;"|盛岡駅 - 東北本線・[田沢湖線](https://ja.wikipedia.org/wiki/田沢湖線 "wikilink")・[山田線](https://ja.wikipedia.org/wiki/山田線 "wikilink")連絡
+
+| 滝沢  | 渋民  | IGR線／JR線 |
+| --- | --- | -------- |
+| 460 | 440 | 東大更      |
+| 480 | 460 | 大更       |
+
+style="text-align:left;"|好摩駅 - [花輪線](https://ja.wikipedia.org/wiki/花輪線 "wikilink")連絡
+
+| 斗米  | 金田一温泉 | IGR線／青い森線 |
+| --- | ----- | --------- |
+| 470 | 370   | 三戸        |
+| 480 | 380   | 諏訪ノ平      |
+
+style="text-align:left;"|目時駅 - [青い森鉄道線](https://ja.wikipedia.org/wiki/青い森鉄道線 "wikilink")連絡
+
+  - 特急料金 670円
+  - 急行料金 340円
+  - 入場券 140円
+
+開業当初から北海道新幹線開業前まで、特急・急行料金の設定があったが、IGRの各駅では特急券・急行券の発売を行わなかった。
+
+乗車券は、社員配置駅と青山・巣子・一戸駅では窓口及び[自動券売機](https://ja.wikipedia.org/wiki/自動券売機 "wikilink")で発売、それ以外の[委託駅では窓口](https://ja.wikipedia.org/wiki/日本の鉄道駅#簡易委託駅 "wikilink")（小繋駅は駅前の里やま市場で発売）で[硬券を発売している](https://ja.wikipedia.org/wiki/乗車券#硬券 "wikilink")。[斗米](https://ja.wikipedia.org/wiki/斗米駅 "wikilink")・目時以外の各駅では硬券の入場券が購入できる。
+
+### 割引運賃・企画乗車券など
+
+  - IGRホリデーフリーきっぷ
+      - 土日祝日と、「[さんさ踊り](https://ja.wikipedia.org/wiki/盛岡さんさ踊り "wikilink")」と年末年始期間の平日に、いわて銀河鉄道線が全線乗り放題の[一日乗車券](https://ja.wikipedia.org/wiki/一日乗車券 "wikilink")。2016年10月1日から2017年1月29日まで発売され\[32\]、2017年4月1日から通年発売となった\[33\]。本きっぷの提示でIGR関連の食事施設での特典がある。
+  - このほか、全線乗り放題の一日乗車券として、[コロプラ](https://ja.wikipedia.org/wiki/コロプラ "wikilink")が提供する携帯電話・スマホの[位置情報ゲーム](https://ja.wikipedia.org/wiki/位置情報ゲーム "wikilink")「[コロニーな生活](https://ja.wikipedia.org/wiki/コロニーな生活 "wikilink")」と連動した自社線内用の一日乗車券「コロプラ1日フリーきっぷ」を発売している\[34\]。また、[JR](../Page/JR.md "wikilink")で発売している一部の[特別企画乗車券](https://ja.wikipedia.org/wiki/特別企画乗車券 "wikilink")（トクトクきっぷ）には、いわて銀河鉄道線内の全線または一部区間が乗り降り自由のものが発売されている。
+  - [知的障害](https://ja.wikipedia.org/wiki/知的障害 "wikilink")者・[身体障害](https://ja.wikipedia.org/wiki/身体障害 "wikilink")者への運賃の割引はキロ数に関係なく適用される（5割引）が、[学割などの割引制度はない](https://ja.wikipedia.org/wiki/学生割引 "wikilink")\[35\]。
+  - CANPASS・CANPASSプラス
+      - 大学生用の割引定期券で、CANPASSは盛岡・滝沢・[目時の各駅](https://ja.wikipedia.org/wiki/目時駅 "wikilink") - IGR各駅相互間、CANPASSプラスはいわて銀河鉄道線各駅から滝沢駅経由、[岩手県交通](https://ja.wikipedia.org/wiki/岩手県交通 "wikilink")のバスで[岩手県立大学](https://ja.wikipedia.org/wiki/岩手県立大学 "wikilink")または[盛岡大学](https://ja.wikipedia.org/wiki/盛岡大学 "wikilink")の間に設定されている。4月から翌年3月まで利用できるが、購入には通常の定期券購入とは異なり、事前登録が必要。
+  - あんしん医療きっぷ
+      - 病院通院者の優先車両「IGR地域医療ライン」開始（2008年11月）に合わせて発売されている往復割引乗車券で、[金田一温泉](https://ja.wikipedia.org/wiki/金田一温泉駅 "wikilink") - [岩手川口間の各駅で発売する](https://ja.wikipedia.org/wiki/岩手川口駅 "wikilink")。購入や利用に関しては盛岡市内の医療機関に通院していることを証明する書類が必要。2012年3月31日までは[奥中山高原以北のみで発売されていた](https://ja.wikipedia.org/wiki/奥中山高原駅 "wikilink")\[36\]。
+  - 中学生往復半額きっぷ
+      - 学校の長期学休期間（[夏休み](../Page/夏休み.md "wikilink")・[冬休み](https://ja.wikipedia.org/wiki/冬休み "wikilink")・[春休み](https://ja.wikipedia.org/wiki/春休み "wikilink")）に中学生のみ適用されるきっぷ。利用する場合は、有人駅の窓口で「生徒手帳」などの中学校に在学している証明書の提示が必要。 また、花輪線・東北本線などのJR線から利用する場合は好摩駅・盛岡駅で一旦下車してIGR窓口で本きっぷを購入することになる\[37\]。JR線との連絡きっぷは発売していない。なお、青い森鉄道が発売している同種のきっぷ「夏休み中学生割り」「中学生ホリデーフリーきっぷ」などと同様に、いわて銀河鉄道線と青い森鉄道線に跨るものは発売していない。ただし後述の「[IGR・青い森鉄道フリーきっぷ](https://ja.wikipedia.org/wiki/#発売終了した乗車券 "wikilink")」は、中学生でも有人駅窓口で「生徒手帳」を提示した場合のみ、小児（小学生）の発売額と同額 で購入できた。また、青い森鉄道では2015年夏休み期間から高校生まで対象を拡大した「中学生・高校生専用 学トクホリデーフリーきっぷ」が、[三陸鉄道](../Page/三陸鉄道.md "wikilink")では2017年7月29日から2019年3月21日まで「中高生用南リアス線フリー乗車券」が、それぞれ発売されているが、IGRでは、現時点では高校生までを対象としたきっぷの発売予定はない。
+  - フェザン買物きっぷ
+      - 発駅から盛岡駅（盛岡発のきっぷもあり）までの往復乗車券に、盛岡駅ビル「[フェザン](https://ja.wikipedia.org/wiki/フェザン "wikilink")」および「ホテルメトロポリタン」の盛岡本館およびNEW WINGレストラン各店で利用できる2000円の買物券が付いたきっぷ。青い森鉄道で先に発売している「ラビナお買い物きっぷ」の岩手版ともいえるきっぷである。なお、発売・利用期間は、土休日と、「さんさ踊り」期間の平日と年末年始期間の平日。年末年始も利用できる点と、平日については先述の「さんさ踊り」期間と年末年始のみに限られる点が、「ラビナお買い物きっぷ」とは異なる。無人駅から利用する場合や、有人駅からの利用でも窓口営業時間外から利用する場合は、盛岡駅で発売する。また、本きっぷには、青い森鉄道の「ラビナお買い物きっぷ」とは異なり、予め「お買物券」が付いているのではなく、「引換券」が付いており、フェザン本館2階インフォメーション（総合案内所）でお買物券に引き換える必要がある。
+  - 玉山地域 列車でおでかけきっぷ（旧:玉山区 列車でおでかけきっぷ）
+      - 盛岡市[玉山区](https://ja.wikipedia.org/wiki/玉山区 "wikilink")在住で、「玉山区列車でおでかけきっぷ」購入証の発行を受けた満70歳以上の人を対象に、渋民駅または好摩駅から盛岡駅までを割引で利用できる乗車券。なお、本きっぷは、盛岡市が実施する「まちなか・おでかけパス事業」の一環として発売している。「玉山地域列車でおでかけきっぷ」購入証発行申込書は、渋民駅と好摩駅の窓口および[盛岡市役所](https://ja.wikipedia.org/wiki/盛岡市役所 "wikilink")玉山総合事務所等に置かれ、購入証発行時は運転免許証や健康保険証など年齢を証明する公的書類の提示が必要となり、購入証発行には必ず本人が窓口に出向かなければならない。なお、2016年4月1日から、きっぷの名称が変更されたが、利用条件や効力の変更はない。\[38\]
+  - 奥中山高原子どもの森きっぷ・奥中山高原温泉スキーきっぷ
+      - 発駅から奥中山高原駅までの往復乗車券と奥中山高原地区の岩手県北バスが乗り降り自由となるきっぷ。なお、奥中山高原温泉スキーきっぷは冬期の発売で、[奥中山高原スキー場](https://ja.wikipedia.org/wiki/奥中山高原スキー場 "wikilink")リフト券と温泉がセットになる。\[39\]
+  - アピオきっぷ
+      - いわて銀河鉄道線各駅から滝沢駅までと滝沢駅前からアピオ前（[岩手産業文化センター](https://ja.wikipedia.org/wiki/岩手産業文化センター "wikilink")）までの[岩手県交通](https://ja.wikipedia.org/wiki/岩手県交通 "wikilink")の往復乗車券がセットになったきっぷ。利用日の1か月前から利用当日まで発売。利用可能日は、年末年始を除く土日・祝日。いわて銀河鉄道線各駅窓口と小繋駅から利用する場合は同駅前にある「里やま市場」で、斗米駅から利用する場合は[二戸駅](https://ja.wikipedia.org/wiki/二戸駅 "wikilink")でそれぞれ発売。\[40\]
+
+#### 岩手県交通・岩手県北バスとの連絡割引定期券・割引乗車券
+
+  - IGR・バス乗継通勤[定期券](../Page/定期乗車券.md "wikilink")
+      - 青山 - 目時の各駅から盛岡駅まで列車を利用し、盛岡駅から開運橋 - [盛岡バスセンター](https://ja.wikipedia.org/wiki/盛岡バスセンター "wikilink")間の各停留所および、[浅岸線開運橋](https://ja.wikipedia.org/wiki/岩手県交通松園営業所#浅岸線 "wikilink") - みずほ銀行・青春館前間の各停留所までを[岩手県交通](https://ja.wikipedia.org/wiki/岩手県交通 "wikilink")バスが利用できる通勤定期券。両社通しで利用の定期運賃が通常利用と比べて割引になる。ただし、急行バス・特急バス（[急行盛岡大船渡線](https://ja.wikipedia.org/wiki/岩手県交通大船渡営業所#急行盛岡大船渡線 "wikilink")、[特急千厩盛岡線](https://ja.wikipedia.org/wiki/千厩バスターミナル# "wikilink")）、[盛岡都心循環バス「でんでんむし」](https://ja.wikipedia.org/wiki/盛岡都心循環バス「でんでんむし」 "wikilink")は利用できない。2010年12月3日までは盛岡 - 青山間のみで設定されていた\[41\]。以前は[岩手県北バス利用タイプ](https://ja.wikipedia.org/wiki/岩手県北自動車 "wikilink")（青山発のみ設定）も設定されていたが、現在は発売終了している。
+  - すごe-きっぷ
+      - 巣子 - 青山の各駅から盛岡駅まで列車を利用し、フリーエリアは岩手県交通・岩手県北バスの路線バス、盛岡都心循環バス「でんでんむし」が1日乗り放題となる乗車券。フリーエリアはIGR・バス乗継通勤定期券利用可能区間と盛岡都心循環バス「でんでんむし」全区間。ただし、急行バス・特急バス（急行盛岡大船渡線、特急千厩盛岡線、[106急行バス](https://ja.wikipedia.org/wiki/106急行バス "wikilink")）は利用できない。
+
+IGR・バス乗継通勤定期券は盛岡 - [好摩間の各駅と](https://ja.wikipedia.org/wiki/好摩駅 "wikilink")[いわて沼宮内](https://ja.wikipedia.org/wiki/いわて沼宮内駅 "wikilink")・[一戸](https://ja.wikipedia.org/wiki/一戸駅 "wikilink")・[二戸の各駅で](https://ja.wikipedia.org/wiki/二戸駅 "wikilink")、すごe-きっぷは盛岡 - 巣子間の各駅でそれぞれ発売しているが、[Nanak](https://ja.wikipedia.org/wiki/Nanak "wikilink")1階にあるバス乗車券・定期券売り場では発売していない。
+
+#### 発売終了した乗車券
+
+  - 連絡ミニ回数券（2014年3月31日発売終了\[42\]）
+      - [青山](https://ja.wikipedia.org/wiki/青山駅_\(岩手県\) "wikilink") - [滝沢間の各駅とJR](https://ja.wikipedia.org/wiki/滝沢駅 "wikilink")[岩手飯岡](https://ja.wikipedia.org/wiki/岩手飯岡駅 "wikilink")・[仙北町](https://ja.wikipedia.org/wiki/仙北町駅 "wikilink")・[大更の各駅間で発売する連絡回数券](https://ja.wikipedia.org/wiki/大更駅 "wikilink")。ただし、大更発着の場合は滝沢 - 大更間のみの発売となっていた。
+  - らくとく空港きっぷ（2014年3月31日発売終了\[43\]）
+      - 青山 - 目時の各駅から盛岡駅まで列車を利用し、盛岡駅から[花巻空港](https://ja.wikipedia.org/wiki/花巻空港 "wikilink")まで岩手県交通の空港連絡バスが利用できる片道割引乗車券\[44\]。両社通しで利用の運賃が割引になるほか、花巻空港の一部サービスが割引になる。盛岡・[斗米](https://ja.wikipedia.org/wiki/斗米駅 "wikilink")・目時を除く各駅と岩手県交通空港案内所で発売していた。
+  - IGR・青い森鉄道フリーきっぷ
+      - 2014年12月5日から2015年1月4日の土日祝日（12月27日と12月28日を除く、1月2日金曜日は適用）と2015年7月から2016年3月までの特定の週末に最大2日間、いわて銀河鉄道線と青い森鉄道線全線乗り放題の「IGR・青い森鉄道フリーきっぷ」が発売された\[45\]\[46\]。
+
+### 貸切運賃
+
+設定区間は次の通り\[47\]。
+
+  - 盛岡 - いわて沼宮内間 10万円
+  - 盛岡と御堂・奥中山高原間 12万円
+  - 盛岡と[小繋](https://ja.wikipedia.org/wiki/小繋駅 "wikilink") - 目時間 15万円
+
+ただし、設定区間以外に申込みのあった貸切運賃は、区間の片道の[営業キロ](https://ja.wikipedia.org/wiki/営業キロ "wikilink")に見合う運賃となる。
+
+申込者の希望によっては青い森鉄道まで入線する（JRは不可）。
+
+### 連絡運輸
+
+[連絡運輸](https://ja.wikipedia.org/wiki/連絡運輸 "wikilink")の範囲は次の通りである。
+
+#### JRとの連絡運輸
+
+東日本旅客鉄道株式会社旅客連絡運輸規則別表によると次の通り。
+
+  - 連絡対象駅：盛岡駅、好摩駅、八戸駅（青い森鉄道を連絡する場合）
+
+<!-- end list -->
+
+  - 盛岡駅連絡の場合
+
+:\* IGRいわて銀河鉄道線の各駅とJR東日本の東北本線[一ノ関駅](https://ja.wikipedia.org/wiki/一ノ関駅 "wikilink") - [仙北町駅](https://ja.wikipedia.org/wiki/仙北町駅 "wikilink")（[東北新幹線](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")の[新花巻駅](https://ja.wikipedia.org/wiki/新花巻駅 "wikilink")と[水沢江刺駅](https://ja.wikipedia.org/wiki/水沢江刺駅 "wikilink")を含む）相互間
+
+:\* IGRいわて銀河鉄道線の盛岡駅 - いわて沼宮内駅間の各駅とJR東日本の[大釜駅](https://ja.wikipedia.org/wiki/大釜駅 "wikilink")\[48\] - [赤渕駅](https://ja.wikipedia.org/wiki/赤渕駅 "wikilink")並びに[上盛岡駅](https://ja.wikipedia.org/wiki/上盛岡駅 "wikilink") - [上米内駅](https://ja.wikipedia.org/wiki/上米内駅 "wikilink")相互間
+
+  -
+
+  - 好摩駅連絡の場合
+
+:\* IGRいわて銀河鉄道線の盛岡駅 - 好摩駅間の各駅とJR東日本の[東大更駅](https://ja.wikipedia.org/wiki/東大更駅 "wikilink") - [大館駅](https://ja.wikipedia.org/wiki/大館駅 "wikilink")相互間\[49\]
+
+  -
+
+  - 通過連絡運輸の場合
+    JR6社（[JR北海道](../Page/北海道旅客鉄道.md "wikilink")・JR東日本・[JR東海](https://ja.wikipedia.org/wiki/東海旅客鉄道 "wikilink")・[JR西日本](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")・[JR四国](https://ja.wikipedia.org/wiki/四国旅客鉄道 "wikilink")・[JR九州](../Page/九州旅客鉄道.md "wikilink")）の各駅から次の区間を経由でJR6社の各駅に発着するもの。
+
+      - IGRいわて銀河鉄道線の盛岡駅 - （目時駅） - 青い森鉄道の八戸駅を経由
+      - IGRいわて銀河鉄道線の盛岡駅 - IGRいわて銀河鉄道の好摩駅経由
+
+    なお、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月4日](../Page/12月4日.md "wikilink")以降は、東北本線の経営分離拡大に伴い、JR6社の各駅より花輪線・好摩駅・当線・青い森鉄道線を経て、八戸駅・[野辺地駅](https://ja.wikipedia.org/wiki/野辺地駅 "wikilink")・[青森駅](https://ja.wikipedia.org/wiki/青森駅 "wikilink")よりJR6社の各駅に発着する区間で通過連絡の利用が可能となる\[50\]。
+
+  - 3社連絡（JR東日本・IGR・青い森）の場合
+    青い森鉄道線を経由して、IGRいわて銀河鉄道の各駅 - JR東日本の以下の各駅の相互間
+
+      - IGRいわて銀河鉄道線の各駅とJR東日本の[長苗代駅](https://ja.wikipedia.org/wiki/長苗代駅 "wikilink") - [鮫駅](https://ja.wikipedia.org/wiki/鮫駅 "wikilink")間
+      - IGRいわて銀河鉄道盛岡駅とJR東日本の[油川駅](https://ja.wikipedia.org/wiki/油川駅 "wikilink") - [蟹田駅](https://ja.wikipedia.org/wiki/蟹田駅 "wikilink")間、JR北海道の全線各駅
+
+同規則上、JR各駅を出発駅としなければ連絡する切符等を発売できないが、同規則第14条の例外規定により、[津軽線](https://ja.wikipedia.org/wiki/津軽線 "wikilink")[油川駅](https://ja.wikipedia.org/wiki/油川駅 "wikilink")以北への駅と連絡する場合は、JR6社の各駅で、いわて銀河鉄道線各駅から出発となる切符を発売できる。
+
+#### IGRいわて銀河鉄道旅客営業規則上の連絡運輸
+
+IGRいわて銀河鉄道旅客営業規則別表\[51\]による連絡運輸範囲は次の通りであり、JRと異なっている。
+
+  - 連絡対象駅: 盛岡駅、好摩駅、目時駅
+
+<!-- end list -->
+
+  - 盛岡駅連絡の場合
+
+:\* **IGRいわて銀河鉄道線の各駅**とJR東日本の一ノ関駅 - 仙北町駅（東北新幹線を**除く**。[選択乗車](https://ja.wikipedia.org/wiki/選択乗車 "wikilink")も除外しているかは不明）の**各駅間**
+
+:\* IGRいわて銀河鉄道線の青山駅 - いわて沼宮内駅間の各駅とJR東日本の大釜駅 - 赤渕駅並びに上盛岡駅 - 上米内駅の各駅間
+
+  -
+
+  - 好摩駅連絡の場合
+
+:\* IGRいわて銀河鉄道線の盛岡駅 - 渋民駅の各駅とJR東日本の東大更駅 - 大館駅の各駅
+
+  -
+
+  - 目時駅連絡の場合
+
+:\* JR東日本の長苗代駅 - 鮫駅の各駅
+
+:\* 青い森鉄道線の[三戸駅](https://ja.wikipedia.org/wiki/三戸駅 "wikilink") - 八戸駅の各駅
+
+  -
+
+  - 取り扱い券種
+    JR東日本（東北新幹線を除く）
+
+      - 普通乗車券（片道・往復）
+      - 通勤[定期券](../Page/定期乗車券.md "wikilink")（1・3・6か月）
+      - 通学定期乗車券（1・3・6か月）
+      - 団体乗車券
+
+    青い森鉄道
+
+      - 普通乗車券（片道・往復）
+      - 通勤定期乗車券（1・3・6か月）
+      - 通学定期乗車券（1・3・6か月）
+      - 団体乗車券
+
+#### 青い森鉄道との連絡運輸
+
+## その他
+
+  - 遅れや運休が出た場合、公式サイト内のトップページで随時運行情報を速報している。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")からは、[携帯電話](../Page/携帯電話.md "wikilink")表示対応[QRコード](https://ja.wikipedia.org/wiki/QRコード "wikilink")が掲載されている。
+  - 2017年5月21日には、[いわて銀河鉄道線](https://ja.wikipedia.org/wiki/いわて銀河鉄道線 "wikilink")及び[青い森鉄道線](https://ja.wikipedia.org/wiki/青い森鉄道線 "wikilink") 盛岡 - 八戸間の前面展望映像を収録した[ブルーレイと](../Page/Blu-ray_Disc.md "wikilink")[DVD](../Page/DVD.md "wikilink")が[ビコム](https://ja.wikipedia.org/wiki/ビコム "wikilink")より発売。
+
+## 脚注
+
+## 関連項目
+
+  - [青い森鉄道](https://ja.wikipedia.org/wiki/青い森鉄道 "wikilink")・[青い森鉄道線](https://ja.wikipedia.org/wiki/青い森鉄道線 "wikilink") - 当社と同じく東北新幹線の並行在来線を運営する第三セクター鉄道会社とその路線
+
+## 外部リンク
+
+  - [IGRいわて銀河鉄道株式会社](http://www.igr.jp/)
+  - [IGRいわて銀河鉄道不動産](http://www.igr.jp/Immovables/index.html)
+  - [モバイルIGR](http://www.igr.jp/mobile/)
+
+[Category:IGRいわて銀河鉄道](https://ja.wikipedia.org/wiki/Category:IGRいわて銀河鉄道 "wikilink") [Category:日本の鉄道事業者](https://ja.wikipedia.org/wiki/Category:日本の鉄道事業者 "wikilink") [Category:盛岡市の企業](https://ja.wikipedia.org/wiki/Category:盛岡市の企業 "wikilink") [Category:岩手県の交通](https://ja.wikipedia.org/wiki/Category:岩手県の交通 "wikilink") [Category:第三セクター鉄道](https://ja.wikipedia.org/wiki/Category:第三セクター鉄道 "wikilink") [Category:東北本線](https://ja.wikipedia.org/wiki/Category:東北本線 "wikilink") [Category:2001年設立の企業](https://ja.wikipedia.org/wiki/Category:2001年設立の企業 "wikilink")
+
+1.   - IGRいわて銀河鉄道プレスリリース、2010年12月11日。
+2.  [岩手県立中央病院](https://ja.wikipedia.org/wiki/岩手県立中央病院 "wikilink")に近い県有施設で、IGR沿線とは離れた場所に立地していた。
+3.
+4.  2014年3月21日付・[岩手日報](https://ja.wikipedia.org/wiki/岩手日報 "wikilink")朝刊5面記事にて報道。
+5.  [青山駅に本社移転　IGRが来年6月　南口を新設して入居](http://www.morioka-times.com/news/2014/1403/21/14032101.htm) - [盛岡タイムス](https://ja.wikipedia.org/wiki/盛岡タイムス "wikilink") 2014年3月21日、2014年3月21日閲覧
+6.
+7.  盛岡以北の県内在来線／「いわて銀河鉄道」／に三セク社名内定 2001年3月23日付[河北新報](https://ja.wikipedia.org/wiki/河北新報 "wikilink")記事
+8.  [IGRいわて銀河鉄道 沿革](http://www.igr.jp/wp/company-info/%e4%bc%9a%e7%a4%be%e6%a6%82%e8%a6%81%e3%83%bb%e6%b2%bf%e9%9d%a9)
+9.  『鉄道ジャーナル』2002年10月号p.31。この記事によるとその会社は鉄道とは全く無関係。
+10. 平成20年度[鉄道要覧](https://ja.wikipedia.org/wiki/鉄道要覧 "wikilink")による
+11.
+12. [岩手日報](https://ja.wikipedia.org/wiki/岩手日報 "wikilink")（2009年11月26日付、朝刊1面）
+13.
+14.
+15. 国鉄・JRから運営を引き継いだ事業者では、唯一の普通運賃 値下げを行った。
+16.
+17.
+18.
+19.
+20.
+21. [青山南口がいよいよ開業します](http://www.igr.jp/wp/topics/2015/11131500.html) - IGRいわて銀河鉄道、2015年11月13日
+22.
+23. [本社を移転しました](http://www.igr.jp/wp/topics/2015/11160002.html) - IGRいわて銀河鉄道、2015年11月16日
+24.
+25.
+26. [ＩＧＲ不動産　店舗統合のお知らせ](http://www.igr.jp/wp/topics/2017/04141300.html) - IGRいわて銀河鉄道、2017年4月14日
+27.
+28.
+29.  - IGRいわて銀河鉄道、2019年10月18日閲覧
+30.  - IGRいわて銀河鉄道、2019年10月18日閲覧
+31. [旅客営業規則 別表](http://www.igr.jp/wp/company-info/ruleindex01_0210_20191001) - IGRいわて銀河鉄道、2019年10月18日閲覧
+32. [「IGRホリデーフリーきっぷ」発売](http://railf.jp/news/2016/09/28/164000.html) - 鉄道ファン・railf.jp 鉄道ニュース、2016年9月28日
+33. [IGRホリデーフリーきっぷ](http://www.igr.jp/wp/tickets/holiday) - IGRいわて銀河鉄道、2017年8月8日閲覧
+34. [コロプラ1日フリーきっぷ](http://www.igr.jp/wp/tickets/colopl) - IGRいわて銀河鉄道、2014年8月21日閲覧
+35. [特殊割引乗車券発売規則](http://www.igr.jp/wp/company-info/ruleindex02) - IGRいわて銀河鉄道
+36.  - IGRいわて銀河鉄道プレスリリース
+37.  - IGRいわて銀河鉄道プレスリリース
+38. [平成28年度 企画きっぷ発売のお知らせ](http://www.igr.jp/wp/topics/2016/04011000.html) - IGRいわて銀河鉄道ホームページ（2016年4月1日リリース）
+39.  - IGRいわて銀河鉄道ホームページ
+40. [アピオきっぷ](http://www.igr.jp/wp/tickets/%e3%82%a2%e3%83%94%e3%82%aa%e3%81%8d%e3%81%a3%e3%81%b7) - IGRいわて銀河鉄道ホームページ
+41.
+42.  - IGRいわて銀河鉄道、2014年3月3日
+43.
+44.
+45.
+46.
+47. [団体のご利用・列車の貸切](http://www.igr.jp/wp/sales-info/train-harter)
+48. 大釜駅と[湯瀬温泉駅](https://ja.wikipedia.org/wiki/湯瀬温泉駅 "wikilink")はPOS端末設置の簡易委託駅だが、委託契約上連絡乗車券を発売できない。
+49.
+50. [ＪＲ 連絡運輸 取扱会社線一覧表](http://homepage2.nifty.com/mars/transfer.html)
+51.

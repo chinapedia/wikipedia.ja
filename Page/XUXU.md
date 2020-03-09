@@ -1,0 +1,156 @@
+> この記事は[XUXU](https://ja.wikipedia.org/wiki/XUXU)から翻訳されています。
+
+
+**XUXU**（しゅしゅ）は、**ゆき** (*yuki*) 、**ゆみ** (*yumi*) 、**あすか** (*asuka*) の三人組ヴォイス・パフォーマンス・グループ。
+
+[ジャズ](../Page/ジャズ.md "wikilink")、[クラシック](../Page/クラシック音楽.md "wikilink")、[ポピュラー音楽](../Page/ポピュラー音楽.md "wikilink")、[歌謡曲](https://ja.wikipedia.org/wiki/歌謡曲 "wikilink")を素材として、世界各国の[民族音楽](../Page/民族音楽.md "wikilink")の発声や自分たちが「**しゅしゅ語**」と名付けたオリジナルのスキャットを駆使し、[楽器](../Page/楽器.md "wikilink")の音から、暮らしのなかで聞く生活音の真似までをも織り込み、自分たちのアレンジで音づくりをする[アカペラ](https://ja.wikipedia.org/wiki/アカペラ "wikilink")ユニットのカルテット（四重唱）。 曲目は『[スパイ大作戦](../Page/スパイ大作戦.md "wikilink")（のテーマ）』、クラシック、[穐吉敏子](../Page/穐吉敏子.md "wikilink")の『孤軍』からジャズのスタンダード、[ビートルズ](https://ja.wikipedia.org/wiki/ビートルズ "wikilink")の曲まで多岐にわたる。
+
+## プロフィール
+
+[レーベル](../Page/レコードレーベル.md "wikilink")「ワインデイズ」 (3361\*BLACK records) のプロデューサーで、レーベル・オーナーでもある伊藤秀治が構想し、1997年に[国立音楽大学](https://ja.wikipedia.org/wiki/国立音楽大学 "wikilink")の学生を集めて結成、伊藤秀治による長期間の特訓を開始。 途中メンバーの変更はあったが、2001年に現在のメンバーとなった。2002年11月に、初の[アルバム](../Page/アルバム.md "wikilink")としてクラシック、ジャズ、世界の民族音楽（[ワールドミュージック](https://ja.wikipedia.org/wiki/ワールドミュージック "wikilink")）と、まったく異なる3ジャンルで3枚のアルバムを同時にリリースした。2003年にはアルバム『か・れ・は』でジャズ専門誌『[スイングジャーナル](https://ja.wikipedia.org/wiki/スイングジャーナル "wikilink")』（批評・レヴューの雑誌）のゴールドディスクにノミネートされた。
+
+2003年11月3日、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")-FM の十一時間生放送番組「オールデイ・ジャズ・リクエスト」にスペシャル・ゲストで出演、スタジオ505でおこなわれたスペシャルライヴが約四十分間にわたって生放送\[[http://djmoko.com/AlldaJazz03.html\]された](http://djmoko.com/AlldaJazz03.html%5Dされた)。 2004年1月にリリースした『ピアニスツ』は、往年の巨匠ジャズ・ピアニストらによる歴史的名演のスタイルや雰囲気を、しゅしゅ語で再現しようと試み、『スイングジャーナル』2月号が、XUXUをゴールドディスクに選定している。 このジャズファン向けCDに続き、2004年6月には『XUXU式なごみサウンド』と銘打って特にポピュラーな選曲で[癒し](https://ja.wikipedia.org/wiki/癒し "wikilink")系の曲作りをし、マイク一本のみによるワンポイント録音したCD『ねぇ、』を発表した。 テレビ朝日系の『題名のない音楽会』や、テレビ東京の『たけしの誰でもピカソ』などに出演して反響を呼んだ。 全曲ビートルズ・ナンバーをカヴァーしたアルバム『ザ・ビー』を2005年1月に発表。ジャズ・ピアニストの山下洋輔は理解者で、「人に聴かせたいと思う存在に久しぶりに出会った」と語って共演にたびたび応じている。
+
+リーダーは、ゆき。
+
+## サウンドの特徴
+
+公式サイトの紹介によれば、音楽作りの大きなテーマは「和（わ）」の「間（ま）」と説明。 ジャズのインプロヴィゼーションやジャズ奏法を駆使した四名が独特なコーラスないしヴォイスパフォーマンスを繰り広げる。ジャズのみならず、日本の伝統音楽や[琉球](../Page/琉球.md "wikilink")音楽（[沖縄民謡](https://ja.wikipedia.org/wiki/沖縄民謡 "wikilink")など）をはじめ、世界各地の民族音楽（いわゆるワールドミュージック）の様式を駆使。 またジャズの世界でよく用いられるスキャット（スキャット - *[Scat singing](https://ja.wikipedia.org/wiki/:en:Scat_singing "wikilink")*、ヴォカリーズ - *[Vocalese](https://ja.wikipedia.org/wiki/:en:Vocalese "wikilink")*、ラップ - *[Rapping](https://ja.wikipedia.org/wiki/:en:Rapping "wikilink")*など）に日本語のセンスを組み込んでさらに発展させた「しゅしゅ語」を織り込んだ[ア・カペラ](https://ja.wikipedia.org/wiki/ア・カペラ "wikilink")（*[A cappella](https://ja.wikipedia.org/wiki/:en:A_cappella "wikilink")*）で新しい音空間を創り出した。
+
+プロデューサーの伊藤は「XUXUジャンルという新しい音楽表現」による「これまでにない種類のアカペラであり音楽」であると述べている[1](http://web.archive.org/web/20040208071005/http://entertainment.msn.co.jp/331450.armx)。 また、スイングジャーナル刊『ジャズ読本2005』の「Jazz Vocal 2004 ジャズ・ボーカル新黄金時代」で馬場啓一は、米国ジャズ・ヴォーカル・グループと比較し、「これほど個性的なグループは、世界的規模で見ても、ない」、と述べている。またジャズ評論家の岡崎正通は「（スキャット唱法以上の）発展の可能性がほとんどないと思われていた“声”によるグループ表現に、鮮やかな突破口を開いた」と評し、「『世界にふたつとないユニークなアカペラ・コーラス・グループ』というキャッチ・コピーは、少しも大袈裟ではない」、と述べている（スイングジャーナル2005年2月号）。スイングジャーナル誌上では同誌が毎年行なっている人気投票のボーカルグループ部門で2004年から7年間連続して第1位となった。
+
+## 年譜
+
+  - 1997年 ジャズのプロデューサー伊藤秀治が呼びかけ、国立音楽大学在学中の四人が初代「しゅしゅ」を結成。
+  - 2001年3月 現在のメンバー編成に固定
+  - 2002年 [ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")やクラシックコンサート、屋外のイベントなどで演奏活動を開始。ストリートミュージシャン優秀賞を受賞
+  - 2002年5月 ファーストアルバム（三枚）のレコーデーィング
+  - 2002年11月21日 3361\*BLACK records が徳間ジャパンコミュニケーションズよりアルバム三枚を同時にリリース
+  - 2003年9月25日 第二弾アルバム『か・れ・は』をリリース
+  - 2003年10月 スイングジャーナル11月号（10月20日発売）が『か・れ・は』をゴールドディスクに選定
+  - 2003年11月3日 NHK-FM の「オールデイ・ジャズ・リクエスト」にゲスト出演
+      - 曲目: 『スペイン』、『スパイ大作戦』、『ブルー・モンク』、『ラ・フィエスタ』、『チム・チム・チェリー』『ハッシャバイ』、『サマータイム（初夏バージョン）』、『サマータイム（真夏バージョン）』、『枯葉』、『メモリー』
+  - 2004年1月21日 第三弾アルバム『ピアニスツ』をリリース
+  - 2004年1月 スイングジャーナル2月号（1月20日発売）が『ピアニスツ』をゴールドディスクに選定
+  - 2004年5月5日 「ピアノと声の可能性」というテーマで、NHKのBS-2番組「BSふれあいホール」に山下洋輔とともに出演（ハイヴィジョンで5月19日に再放送）
+  - 2004年6月23日 第四弾、六枚目のアルバム『ねぇ、』をリリース
+  - 2004年7月4日 『[題名のない音楽会](https://ja.wikipedia.org/wiki/題名のない音楽会 "wikilink")21』（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系ネット）に出演
+  - 2004年12月10日 『[たけしの誰でもピカソ](https://ja.wikipedia.org/wiki/たけしの誰でもピカソ "wikilink")』（製作・[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[テレビ大阪](../Page/テレビ大阪.md "wikilink")でも放映）に出演
+  - 2005年1月26日 ビートルズ・ナンバーをカヴァーした七枚目のアルバム『ザ・ビー』をリリース
+  - 2005年2月19日 『ザ・ビー』発売記念ライヴ
+  - 2005年3月5日 [山下洋輔](https://ja.wikipedia.org/wiki/山下洋輔 "wikilink")のコンサートにゲスト出演
+  - 2005年4月 スイングジャーナル誌上人気投票ボーカルグループ部門で、2年連続第1位を獲得。
+  - 2007年6月 フランス「Festival Touches de Jazz」出演、プラハ・ライブ等海外進出を果たす 職員の依頼でバチカン内で即席ライブ
+  - 2008年6月 ミラノ、ローマ、ドイツ・ケルンなど欧州数都市でも公演
+  - 2010年3月7日 [難民を助ける会](https://ja.wikipedia.org/wiki/難民を助ける会 "wikilink")主催、加藤タキ〜第1回〜チャリティ・サロンコンサート ゲスト
+  - 2010年3月14日 『[題名のない音楽会](https://ja.wikipedia.org/wiki/題名のない音楽会 "wikilink")』（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系ネット）出演 [キャント・バイ・ミー・ラブ](https://ja.wikipedia.org/wiki/キャント・バイ・ミー・ラヴ "wikilink")、[ノルウェーの森](https://ja.wikipedia.org/wiki/ノルウェーの森 "wikilink")を演奏\[1\]
+
+## ディスコグラフィー
+
+  - 2002年11月21日 『クラシック しゅしゅ』 (*classic - XUXU*) 「ワインデイズ」レーベル（3361\*BLACK records）/[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")[2](http://3361black.com/xuxu/xucd/xucd_01.html)、TKCK-3006
+    \*;曲目
+    \*:\#夢
+    \*:\#[くるみ割り人形](https://ja.wikipedia.org/wiki/くるみ割り人形 "wikilink") 全曲（[チャイコフスキー](../Page/ピョートル・チャイコフスキー.md "wikilink")：小序曲〜行進曲〜こんぺい糖の踊り〜ロシア舞曲〜アラビアの踊り〜中国の踊り〜あし笛の踊り〜花のワルツ）、夜明け/海と旋律、朝（[グリーグ](../Page/エドヴァルド・グリーグ.md "wikilink")）
+    \*:\#白鳥（[サン＝サーンス](../Page/カミーユ・サン＝サーンス.md "wikilink")）
+    \*:\#オディエ/タンゲディア
+    \*:\#奇想曲
+    \*:\#[アヴェ・マリア](https://ja.wikipedia.org/wiki/アヴェ・マリア "wikilink")
+  - 2002年11月21日 『しゅしゅ's・ジャズ』 (*XUXU's jazz*) 「ワインデイズ」レーベル (3361\*BLACK records) /徳間ジャパンコミュニケーションズ、TKCK-3007
+    \*;曲目
+    \*:\#スパイ大作戦
+    \*:\#ラ・フィエスタ（[チック・コリア](https://ja.wikipedia.org/wiki/チック・コリア "wikilink")）
+    \*:\#ブルー・モンク
+    \*:\#[ラウンド・ミッドナイト](https://ja.wikipedia.org/wiki/ラウンド・ミッドナイト_\(曲\) "wikilink")（和風アレンジ）
+    \*:\#孤軍（[穐吉敏子](../Page/穐吉敏子.md "wikilink")）
+    \*:\#モーニン
+    \*:\#[不思議の国のアリス](https://ja.wikipedia.org/wiki/ふしぎの国のアリス "wikilink")
+    \*:\#煙が目にしみる
+    \*:\#[スペイン](https://ja.wikipedia.org/wiki/スペイン_\(チック・コリアの曲\) "wikilink")（チック・コリア）
+  - 2002年11月21日 『しゅしゅ ワールド』 (*XUXU - world*) 「ワインデイズ」レーベル (3361\*BLACK records) /徳間ジャパンコミュニケーションズ、TKCK-3008
+    \*;曲目
+    \*:\#パタパタ
+    \*:\#[愛するデューク](https://ja.wikipedia.org/wiki/愛するデューク "wikilink") （[スティーヴィー・ワンダー](https://ja.wikipedia.org/wiki/スティーヴィー・ワンダー "wikilink")）
+    \*:\#[踊る大捜査線](../Page/踊る大捜査線.md "wikilink")
+    \*:\#マルコとジーナのテーマ（映画『[紅の豚](https://ja.wikipedia.org/wiki/紅の豚 "wikilink")』より）
+    \*:\#クルスキ・ファンク
+    \*:\#ア・ソーリン
+    \*:\#バラのルンバ
+    \*:\#[銀座カンカン娘](https://ja.wikipedia.org/wiki/銀座カンカン娘 "wikilink")（沖縄ヴァージョン）
+    \*:\#ポエトリー/ビーナス
+    \*:\#マイ・ホーム・タウン
+  - 2003年9月25日 『か・れ・は』 (*kareha*) 「ワインデイズ」レーベル (3361\*BLACK records) /徳間ジャパンコミュニケーションズ、[3](http://3361black.com/xuxu/xucd/xucd_02.html)、TKCK-3021
+    \*;曲目
+    \*:\#[枯葉](https://ja.wikipedia.org/wiki/枯葉_\(歌曲\) "wikilink")
+    \*:\#レフトアローン
+    \*:\#[チムチムチェリー](https://ja.wikipedia.org/wiki/メリーポピンズ "wikilink")
+    \*:\#ハッシャバイ
+    \*:\#[サマータイム](https://ja.wikipedia.org/wiki/サマータイム_\(楽\) "wikilink")（初夏ヴァージョン）
+    \*:\#サマータイム（真夏ヴァージョン）
+    \*:\#カンタロープ・アイランド
+    \*:\#メモリー
+    \*:\#[ピンクパンサー](https://ja.wikipedia.org/wiki/ピンクパンサー "wikilink")
+    \*:\#時さえ忘れて
+    \*:\#ユー・ドント・ノウ・ホワット・ラブ・イズ
+  - 2004年1月21日 『ピアニスツ』 (*pianists / XUXU*) 「ワインデイズ」レーベル (3361\*BLACK records) /徳間ジャパンコミュニケーションズ、[4](http://3361black.com/xuxu/xucd/xucd_03.html)、TKCK-3026
+    \*;曲目
+    \*:\#[テイク・ジ・Aトレイン](https://ja.wikipedia.org/wiki/A列車で行こう_\(ジャズ\) "wikilink")〜サテン・ドール（[デューク・エリントン](../Page/デューク・エリントン.md "wikilink")）
+    \*:\#煙が目にしみる（[セロニアス・モンク](../Page/セロニアス・モンク.md "wikilink")）
+    \*:\#イン・ナ・センチメンタル・ムード（[ミシェル・ペトルチアーニ](https://ja.wikipedia.org/wiki/ミシェル・ペトルチアーニ "wikilink")）
+    \*:\#ボディ・アンド・ソウル〜酒とバラの日々（[オスカー・ピーターソン](https://ja.wikipedia.org/wiki/オスカー・ピーターソン "wikilink")）
+    \*:\#二人でお茶を（[アート・テータム](https://ja.wikipedia.org/wiki/アート・テイタム "wikilink")）
+    \*:\#Bマイナーワルツ（[ビル・エヴァンス](../Page/ビル・エヴァンス.md "wikilink")）
+    \*:\#ユー・ドント・ノウ・ホワット・ラブ・イズ（マル・ウォルドロン）
+    \*:\#P.S.アイ・ラブ・ユー（[ジョージ・シアリング](https://ja.wikipedia.org/wiki/ジョージ・シアリング "wikilink")）
+    \*:\#ブルース・イン・ジ・アレイ（[カウント・ベイシー](../Page/カウント・ベイシー.md "wikilink") [ピアノ](../Page/ピアノ.md "wikilink")ヴァージョン）
+    \*:\#ソング・オブ・ジ・アイランド（カウント・ベイシー [オルガン](https://ja.wikipedia.org/wiki/オルガン "wikilink")バージョン）
+  - 2004年6月23日 『ねぇ、』「ワインデイズ」レーベル (3361\*BLACK records) /徳間ジャパンコミュニケーションズ、[5](http://3361black.com/xuxu/xucd/xucd_04.html)、TKCK-3031
+    \*;曲目
+    \*:\#[テネシー・ワルツ](https://ja.wikipedia.org/wiki/テネシー・ワルツ "wikilink")
+    \*:\#スマイル
+    \*:\#[星に願いを](https://ja.wikipedia.org/wiki/星に願いを "wikilink")
+    \*:\#[マイ・フェイバリット・シングス](https://ja.wikipedia.org/wiki/私のお気に入り "wikilink")
+    \*:\#[トロイメライ](https://ja.wikipedia.org/wiki/トロイメライ "wikilink")
+    \*:\#[エンターティナー](https://ja.wikipedia.org/wiki/ジ・エンターテイナー "wikilink")
+    \*:\#ドゥ・ミー
+    \*:\#[素直になれなくて](https://ja.wikipedia.org/wiki/素直になれなくて_\(シカゴの曲\) "wikilink")
+  - 2005年1月26日 『ザ・ビー』(*the B*) 「ワインデイズ」レーベル (3361\*BLACK records) /徳間ジャパンコミュニケーションズ、[6](http://3361black.com/xuxu/xucd/xucd_05.html)、TKCK-3037
+      - 副題：『XUXUの[ビートルズ](https://ja.wikipedia.org/wiki/ビートルズ "wikilink")』
+          - 曲目
+        :\#[ノルウェーの森](https://ja.wikipedia.org/wiki/ノルウェーの森 "wikilink")
+        :\#[カム・トゥゲザー](https://ja.wikipedia.org/wiki/カム・トゥゲザー "wikilink")
+        :\#[ヘイ・ジュード](https://ja.wikipedia.org/wiki/ヘイ・ジュード "wikilink")
+        :\#[レット・イット・ビー](https://ja.wikipedia.org/wiki/レット・イット・ビー_\(曲\) "wikilink")
+        :\#[イン・マイ・ライフ](https://ja.wikipedia.org/wiki/イン・マイ・ライフ "wikilink")
+        :\#[フォー・ノー・ワン](https://ja.wikipedia.org/wiki/フォー・ノー・ワン "wikilink")
+        :\#[キャント・バイ・ミー・ラブ](https://ja.wikipedia.org/wiki/キャント・バイ・ミー・ラヴ "wikilink")
+        :\#[イエスタデイ](../Page/イエスタデイ.md "wikilink")
+        :\#[ミッシェル](https://ja.wikipedia.org/wiki/ミッシェル "wikilink")
+        :\#[オブラディ・オブラダ](https://ja.wikipedia.org/wiki/オブラディ・オブラダ "wikilink")
+
+## 脚注
+
+<div class="references-small">
+
+<references />
+
+</div>
+
+## 関連項目
+
+  - [おぶせくりちゃん](https://ja.wikipedia.org/wiki/おぶせくりちゃん "wikilink") - [長野県](../Page/長野県.md "wikilink")[小布施町](https://ja.wikipedia.org/wiki/小布施町 "wikilink")の[マスコット](https://ja.wikipedia.org/wiki/マスコット "wikilink")に楽曲提供
+
+## 外部リンク
+
+  - [A Cappella Quartet XUXU](http://www.xuxu442.com/)（公式サイト）
+  - [アカペラカルテット XUXU オフィシャルブログ](http://xuxu442.jugem.jp/)
+  - [pension 3361\*BLACK](http://3361black.com/pension/)（レーベルの連絡先: 住所、電話番号、FAX番号）
+  - [OOPS\! - アーティスト ： XUXU ( シュシュ )](http://oops-music.com/info/view.html?oid=15446&type=A)
+  - [XUXU](http://www.jazzpage.net/xuxu/) @ JazzPage.net 【『[か・れ・は](http://www.jazzpage.net/rireki/cd/xuxu_kareha.html)』『[ピアニスツ](http://www.jazzpage.net/rireki/cd/xuxu_pianist.htm)』『[ねぇ、](http://www.jazzpage.net/rireki/cd/xuxu_ne.htm)』『[the B](http://www.jazzpage.net/rireki/cd/xuxu_b.html)』】
+
+<!-- end list -->
+
+  - [試聴](http://artist.cdjournal.com/a/-/145853/streaming/)（全76件 @ CDJournal.com）
+
+[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本の女性ジャズ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ジャズ歌手 "wikilink") [Category:日本のジャズ・バンド](https://ja.wikipedia.org/wiki/Category:日本のジャズ・バンド "wikilink") [Category:民族音楽](https://ja.wikipedia.org/wiki/Category:民族音楽 "wikilink")
+
+1.

@@ -1,0 +1,129 @@
+> この記事は[DonDokoDon](https://ja.wikipedia.org/wiki/DonDokoDon)から翻訳されています。
+
+
+**DonDokoDon**（ドンドコドン）は、山口智充と平畠啓史の2人からなる[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。2000年代にコンビとしての活動が少なくなり、所属している[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")のウェブサイトではDonDokoDonのページが削除され山口、平畠それぞれの個人紹介ページに変更されており、事実上の解散状態となっている\[1\]。
+
+## メンバー
+
+  - ボケ担当。
+
+  - ツッコミ担当。
+
+## 来歴
+
+山口と平畠は共に[宝塚ファミリーランド](https://ja.wikipedia.org/wiki/宝塚ファミリーランド "wikilink")に勤めており、山口はイベントの司会業を、平畠はイベントの音響を担当していた。そこで2人は親交を深め、会社の忘年会の余興も2人で担当したことがある。その後、2人は別々の時期に退社。退社後2人は再び親交を深め、半年ほど2人で結婚式の司会などのバイトをこなす。そんな中、[毎日放送の視聴者参加型の演芸番組](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『[素人名人会](../Page/素人名人会.md "wikilink")』に参加し、名人賞を受賞する。
+
+この時期にプロの芸人になることを志し、東京に上京。事務所にはこだわらず、いろんな東京の事務所のオーディションを受ける。そして、[銀座7丁目劇場](https://ja.wikipedia.org/wiki/銀座7丁目劇場 "wikilink")のオーディションに合格する。東京吉本所属となり、1994年2月に本格的にコンビ結成しデビューとなる。ちなみに2人は大阪出身ではあるが、東京を拠点に活動した。
+
+1999年に[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")初代チャンピオンに輝くなど、結成当初はコンビでの活動が主であった。しかし山口が「[明石家マンション物語](https://ja.wikipedia.org/wiki/明石家マンション物語 "wikilink")」（[フジテレビ系列](https://ja.wikipedia.org/wiki/フジネットワーク "wikilink")）に出演し全国的な知名度を得たのを皮切りに、以降は多彩な[ものまね](https://ja.wikipedia.org/wiki/ものまね "wikilink")や声帯模写などを活かして山口がピンで活動する事が多くなっていった。
+
+2001年、第1回[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")に決勝進出を果たす。キャッチフレーズは「**無冠の帝王**」\[2\]。なお、後述にもあるように2人共芸人を始めた時期がやや遅かったため、結成7年目ながらこの時点で年齢が30を超えていた（ネタ前の紹介VTR内でも「決勝大会最年長コンビ」と紹介されていた）。先述の通りこの頃から山口はピンで活躍しており、決勝10組の中でも知名度は抜群で満を持しての出場だったが最終的な結果は10組中9位（特別審査員合計・520点、一般審査員合計・94点、総合計・614点）に終わる。なお、この年は7人の特別審査員だけではなく、[札幌](../Page/札幌.md "wikilink")・[大阪](../Page/大阪.md "wikilink")・[福岡](../Page/福岡.md "wikilink")の吉本興業の劇場に集まった各100人の一般客が1人1点で審査するシステムも導入されていたのだが、比較的大阪寄り（大阪吉本所属の芸人）では無い一部出場コンビ\[3\]に対しての大阪会場の得票が著しく低く、すでに大阪から東京に進出し東京吉本に所属していたDonDokoDonもその煽りを受けてしまう形となってしまった\[4\]（2002年大会以降は「公平性に欠ける」という意見からこの一般審査員による投票は廃止されている）。因みに特別審査員の[春風亭小朝](https://ja.wikipedia.org/wiki/春風亭小朝 "wikilink")は当時の2人の漫才を見て「関脇の人が横綱相撲取っちゃった、みたいな感じ」と評している。なお、2002年以降は1度も出場していない。
+
+以降もコンビとしての活動は縮小傾向にあり、静岡県で人気番組となった『[くさデカ](https://ja.wikipedia.org/wiki/くさデカ "wikilink")』（各々違う店にロケする方式）も、山口の出演頻度は2001年11月より段階的に減少（2003年に降板）、レギュラー番組『[ワンナイR\&R](https://ja.wikipedia.org/wiki/ワンナイR&R "wikilink")』は2000年から2006年まで続くが、開始当初より平畠の出番は微少で山口との絡みも少なかった。
+
+山口は[マルチタレント](../Page/マルチタレント.md "wikilink")として活動、平畠は芸能界屈指のサッカー通として関連番組に多く出演するほか\[5\]、引き続き『くさデカ』に出演するなど、静岡では高い知名度を持っている。
+
+## 概要・芸風
+
+コンビで行う漫才は山口のモノマネを活かしたスタイル。平畠は対照的に地味なキャラクター。
+
+共に1968年度生まれで、山口が2000年頃にはブレイクしレギュラー番組を多数持ったことから2000年代半ばにはベテラン芸人入りしていたと思われがちだが、実際は二人ともサラリーマンを経て25〜26歳で吉本興業に入ったため、同年代の芸人に比べて芸歴は短い。[雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink")の[宮迫博之](https://ja.wikipedia.org/wiki/宮迫博之 "wikilink")、[千原兄弟](../Page/千原兄弟.md "wikilink")、[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")、[ココリコ](../Page/ココリコ.md "wikilink")、[中川家](../Page/中川家.md "wikilink")、[陣内智則](../Page/陣内智則.md "wikilink")など年下の先輩が多い。[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")・[ペナルティや](https://ja.wikipedia.org/wiki/ペナルティ_\(お笑いコンビ\) "wikilink")、大阪NSCでは12期生の[小籔千豊](https://ja.wikipedia.org/wiki/小籔千豊 "wikilink")や[土肥ポン太](https://ja.wikipedia.org/wiki/土肥ポン太 "wikilink")などが同期に当たる。1年先輩には[中川家](../Page/中川家.md "wikilink")、[ココリコ](../Page/ココリコ.md "wikilink")、[藤井隆](../Page/藤井隆.md "wikilink")など、1年後輩には[次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")や[タカアンドトシ](https://ja.wikipedia.org/wiki/タカアンドトシ "wikilink")などがいる。
+
+## 受賞歴
+
+  - 1999年 - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink") 初代チャンピオン
+  - 2000年 - 国立演芸場 花形演芸大賞 銀賞
+
+## 事実上の解散状態
+
+2006年12月に『ワンナイR\&R』が終了したことでコンビ名義でのレギュラー番組は消滅、漫才の舞台などコンビでの仕事も行われなくなった。[トークバラエティ番組](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")『[さんまのまんま](https://ja.wikipedia.org/wiki/さんまのまんま "wikilink")』（[関西テレビ](https://ja.wikipedia.org/wiki/関西テレビ "wikilink")）2013年7月27日放送回に山口が出演した際に、司会の[明石家さんま](../Page/明石家さんま.md "wikilink")から「DonDokoDonは今どうなってるの?」と聞かれた山口は、「バラバラの活動です。（2人では）やってないです」と話し、「解散はしてないの?」と確認されると、「解散ってのも微妙なんですけど、『解散します』って言っても「どうでもええわ」って人もいるじゃないですか。『解散』って言葉はマイナス（イメージ）なんで、（あえて）言うことはないんかな、と」と自然消滅の形でコンビを解消した事を明かした\[6\]。なお、直接的な解散に至った理由や原因などは2017年現在も2人の口からは発せられていない。
+
+吉本興業公式サイトでは、コンビの情報は削除されているほか、[TVガイド](https://ja.wikipedia.org/wiki/TVガイド "wikilink")（2007年度以降）・[JUNON](https://ja.wikipedia.org/wiki/JUNON "wikilink")（2008年度以降）のタレント名鑑や、ライブイベント『[LIVE STAND 07](https://ja.wikipedia.org/wiki/LIVE_STAND "wikilink")』等でも、2人は別々に表記されている。メンバー本人や所属事務所によるコンビの活動休止などの発表はされていないが、すでにコンビの情報が削除されていることから事実上のコンビ解散である。
+
+事実上の解散前もコンビ仲は悪かったらしく、周囲の芸人仲間もその事を認めている発言をしている。事務所の先輩である[FUJIWARA](../Page/FUJIWARA.md "wikilink")・[藤本敏史](https://ja.wikipedia.org/wiki/藤本敏史 "wikilink")はDonDokoDonの2人の関係性について「（2人は）仲良かったときない」と暴露しており\[7\]、また後輩である[トータルテンボス](https://ja.wikipedia.org/wiki/トータルテンボス "wikilink")の2人も番組内で[カンニング竹山](https://ja.wikipedia.org/wiki/カンニング竹山 "wikilink")からDonDokoDonのコンビ仲について聞かれた際に青ざめながら「（その件は）本当に触れられないやつ」とまで語っている\[8\]。
+
+## 出演番組
+
+個人の出演番組は山口智充、平畠啓史をそれぞれ参照。
+
+### テレビ
+
+#### バラエティ・報道番組
+
+  - [ピッカピカ天然素材\!](https://ja.wikipedia.org/wiki/ピッカピカ天然素材! "wikilink")（TBS）
+  - [急性吉本炎](https://ja.wikipedia.org/wiki/急性吉本炎 "wikilink")（TBS）
+  - [慢性吉本炎](https://ja.wikipedia.org/wiki/急性吉本炎 "wikilink")（TBS）
+  - [DABO銀](https://ja.wikipedia.org/wiki/DABO銀 "wikilink")（テレビ朝日）
+  - [二十歳の趣味講座ハンググライダー入門](https://ja.wikipedia.org/wiki/20歳の趣味講座 "wikilink")（1995年、[NHK教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")）
+  - [ミックスパイください](https://ja.wikipedia.org/wiki/ミックスパイください "wikilink")（[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）
+  - [水10\!](../Page/水10!.md "wikilink") [ワンナイR\&R](https://ja.wikipedia.org/wiki/ワンナイR&R "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [タモリのSUPERボキャブラ天国](https://ja.wikipedia.org/wiki/ボキャブラ天国 "wikilink")（フジテレビ）
+  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink") （ [NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）戦績5勝1敗 最高505KB 初代チャンピオン\[9\]
+      - 歴代チャンピオンの中では最も出場回数が少なく、唯一10回以上出場していない\[10\]。更にオーバー500獲得回数も歴代チャンピオンの中で最も少ない（1回のみ）\[11\]。
+      - 第1回チャンピオン大会 決勝1位（チャンピオン）
+      - 第2回チャンピオン大会 本選5位
+  - [笑いがいちばん](https://ja.wikipedia.org/wiki/笑いがいちばん "wikilink") （2001年1月7日、4月29日、11月11日、NHK総合）
+  - [わらいのじかん](https://ja.wikipedia.org/wiki/わらいのじかん "wikilink")（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")）
+  - [ぴーかんテレビ](https://ja.wikipedia.org/wiki/ぴーかんテレビ "wikilink")（[東海テレビ](../Page/東海テレビ放送.md "wikilink")）
+  - [THE夜もヒッパレ](https://ja.wikipedia.org/wiki/THE夜もヒッパレ "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [いろもん](https://ja.wikipedia.org/wiki/いろもん "wikilink") （1999年、日本テレビ）
+  - [メレンゲの気持ち](https://ja.wikipedia.org/wiki/メレンゲの気持ち "wikilink")（2001年、日本テレビ）
+  - [オールスター感謝祭](https://ja.wikipedia.org/wiki/オールスター感謝祭 "wikilink")（2000年10月7日、2001年3月30日、10月6日、2002年3月30日、TBS)
+  - [M-1グランプリ](../Page/M-1グランプリ.md "wikilink")2001（[朝日放送](https://ja.wikipedia.org/wiki/朝日放送テレビ "wikilink")）
+  - [超\!よしもと新喜劇](https://ja.wikipedia.org/wiki/超!よしもと新喜劇 "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
+  - [オールザッツ漫才](https://ja.wikipedia.org/wiki/オールザッツ漫才 "wikilink") （毎日放送）
+  - [生だ静岡キンゴロー](https://ja.wikipedia.org/wiki/生だ静岡キンゴロー "wikilink")（[テレビ静岡](../Page/テレビ静岡.md "wikilink")）
+  - [くさなぎ署の刑事](https://ja.wikipedia.org/wiki/くさデカ "wikilink")（テレビ静岡）
+  - [くさデカ](https://ja.wikipedia.org/wiki/くさデカ "wikilink")（テレビ静岡） - 現在は平畠のみ出演
+  - [夕やけTV編集局](https://ja.wikipedia.org/wiki/夕やけTV編集局 "wikilink")（[仙台放送](../Page/仙台放送.md "wikilink")）
+
+#### ドラマ
+
+  - [あすか](https://ja.wikipedia.org/wiki/あすか_\(テレビドラマ\) "wikilink")（1999年～2000年、[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")、[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")）
+
+<!-- end list -->
+
+  -
+    山口 - バタヤン 役
+    平畠 - サンペイ 役
+
+<!-- end list -->
+
+  - [天才柳沢教授の生活](../Page/天才柳沢教授の生活.md "wikilink")（2002年、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+
+<!-- end list -->
+
+  -
+    山口 - 村田雅史 役
+    平畠 - 牧師 役
+
+<!-- end list -->
+
+  - [新選組\!](../Page/新選組!.md "wikilink")（2004年、[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")、[大河ドラマ](../Page/大河ドラマ.md "wikilink")）
+
+<!-- end list -->
+
+  -
+    山口 - [永倉新八](../Page/永倉新八.md "wikilink") 役
+    平畠 - [葛山武八郎](https://ja.wikipedia.org/wiki/葛山武八郎 "wikilink") 役
+
+### ラジオ
+
+  - [オレたちもっとやってま〜す](https://ja.wikipedia.org/wiki/オレたちもっとやってま〜す "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）
+  - [オレたちやってま〜す](https://ja.wikipedia.org/wiki/オレたちやってま〜す "wikilink")（毎日放送）
+
+## 出典
+
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:爆笑オンエアバトルチャンピオン大会優勝者](https://ja.wikipedia.org/wiki/Category:爆笑オンエアバトルチャンピオン大会優勝者 "wikilink")
+
+1.  「[山口智充 ドンドコ解散語る](http://www.daily.co.jp/newsflash/gossip/2013/07/27/0006197062.shtml)」[デイリースポーツ](../Page/デイリースポーツ.md "wikilink")オンライン、2013年7月27日。
+2.  ネタ前の紹介VTRでは「受賞歴なし」と紹介されているが、厳密に言えば本放送前に「爆笑オンエアバトル」で初代チャンピオンに輝いているなど、受賞歴が全く無かった訳ではない。
+3.  唯一関東出身のコンビであった[おぎやはぎ](../Page/おぎやはぎ.md "wikilink")、[松竹芸能](../Page/松竹芸能.md "wikilink")所属の[ますだおかだ](https://ja.wikipedia.org/wiki/ますだおかだ "wikilink")と[アメリカザリガニなど](../Page/アメリカザリガニ_\(お笑いコンビ\).md "wikilink")。
+4.  大阪会場からは100点満点中**18点**しか獲得できず、おぎやはぎの9点に次いで2番目に低い記録を出してしまった（因みに今大会で一般審査員の総合計が100点を越えなかったのはおぎやはぎとDonDokoDonの2組のみである）。また、DonDokoDonの一般審査員による点数が画面に表示された際、余りにも大阪会場の点数が低すぎると感じたのか特別審査員の[松本人志](../Page/松本人志.md "wikilink")は「**大阪の客ちょっと頭おかしいんちゃいますか\!?**」と声を荒らげていた。
+5.
+6.
+7.  [ライブドアニュース - フジモンがDonDokoDonのコンビ仲を暴露「仲よかったときない」](http://news.livedoor.com/article/detail/12707058/)（2017年2月22日の記事）
+8.  [しらべぇ - 「マジで仲が悪そうなお笑いグループ」ランキング カンニング竹山からガチすぎる暴露も…](https://sirabee.com/2017/08/18/20161253859/2/)（2017年8月18日の記事）
+9.  初代チャンピオンであるにも関わらず、歴代チャンピオンの中で唯一通常回以外の特番に出演した実績が一切なく（蔵出しSPで過去に披露したネタが再放送された程度）、毎年のチャンピオン大会にて歴代チャンピオンの1組として軽く触れられたり、プラチナバトナ―に認定されて番組内で紹介された程度に留まっていた。
+10. ただし後継番組の「[オンバト+](https://ja.wikipedia.org/wiki/オンバト+ "wikilink")」も含めると[トレンディエンジェル](https://ja.wikipedia.org/wiki/トレンディエンジェル "wikilink")（3代目チャンピオン）が出場回数5回（4勝1敗）で歴代最少記録となる。
+11. 次に少ないのは[ルート33](https://ja.wikipedia.org/wiki/ルート33 "wikilink")（2・3代目チャンピオン）と[NON STYLE](https://ja.wikipedia.org/wiki/NON_STYLE "wikilink")（9代目チャンピオン）の2回。

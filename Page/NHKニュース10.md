@@ -1,0 +1,75 @@
+> この記事は[NHK10](https://ja.wikipedia.org/wiki/NHK10)から翻訳されています。
+
+
+『**NHKニュース10**』（エヌエイチケイ ニュース テン）は、[2000年](../Page/2000年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")にかけて、[NHK総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")、[BSハイビジョン](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")、モバイル.nおよび海外向けの[NHKワールド](https://ja.wikipedia.org/wiki/NHKワールド "wikilink")（NHKワールドTV、NHKワールド・プレミアム）の各チャンネルにおいて、[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されていた[報道番組](https://ja.wikipedia.org/wiki/報道番組 "wikilink")である。BSハイビジョンでの放送は2000年[12月1日](../Page/12月1日.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで。過去に1度だけ[BS2で放送されたこともある](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")。
+
+## 概要
+
+これまで[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[夜](https://ja.wikipedia.org/wiki/夜 "wikilink")間・[深夜](https://ja.wikipedia.org/wiki/深夜 "wikilink")枠のニュースワイドは主に21時台の『[NHKニュース9](https://ja.wikipedia.org/wiki/NHKニュース9 "wikilink")』と23時台の『[NHKニュース11](https://ja.wikipedia.org/wiki/NHKニュース11 "wikilink")』の2つのニュース番組が存在していたが、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系列『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』\[1\]（以下：『Nステ』）に対抗する形で上記2番組を統合し（『ニュース9』は時間を縮小した上で継続）、1時間枠だった『[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")』も時間を縮小した上で、22時台にニュース番組を新設スタートした。構成はニュース・特集・スポーツニュースに加えて気象情報と市況を伝える。気象情報はCGを使用したもので、カスタム仕様。初年度は全国の地域の話題を生中継で紹介するコーナー、2年目までは海外ニュースをまとめて放送するコーナーがあった。
+
+NHKが月-金曜の22時台に『Nステ』の対抗番組を作るという話は、NHK会長が[川口幹夫](https://ja.wikipedia.org/wiki/川口幹夫 "wikilink")であった時代から持ち上がっており、[久米宏](https://ja.wikipedia.org/wiki/久米宏 "wikilink")（『Nステ』メインキャスター）の番組に対抗する報道番組を作ってほしいという[自民党の意向を受けた幹部から声が上がっていたが](https://ja.wikipedia.org/wiki/自由民主党_\(日本\) "wikilink")、自民党に迎合して人員や機材の物量で民放を圧倒するような真似をすることを川口をはじめ複数の幹部が許さなかったため実現には至ってこなかったものの、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にNHK会長が川口から[海老沢勝二](https://ja.wikipedia.org/wiki/海老沢勝二 "wikilink")に交代し、2000年春から本番組が始まったという経緯がある\[2\]。
+
+しかしながら[視聴率](../Page/視聴率.md "wikilink")は、開始当初から『Nステ』に大きく水を空けられており、毎年のようにリニューアルを繰り返した。ただし、重大な事件などが発生した場合に、視聴率が上回るケースもあった。対するテレビ朝日は2004年3月に『Nステ』を終了、4月に『[報道ステーション](https://ja.wikipedia.org/wiki/報道ステーション "wikilink")』（[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")が初代メインキャスターを担当）を開始させた。
+
+2006年3月31日に最終回を迎える。本番組終了後、2006年4月3日から、1時間の大型ニュース番組としては21時台の放送へと移行し、『ニュース9』と統合する形で、新たに『**[ニュースウオッチ9](https://ja.wikipedia.org/wiki/ニュースウオッチ9 "wikilink")**』を開始。また、23:30 - 23:55に『**[スポーツ&ニュース](https://ja.wikipedia.org/wiki/スポーツ&ニュース_\(NHK\) "wikilink")**』と題したニュース枠を新設した。
+
+2012年度のみ、金曜日22:00 - 22:48に生放送の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")『[情報LIVE ただイマ\!](https://ja.wikipedia.org/wiki/情報LIVE_ただイマ! "wikilink")』を編成し、本番組終了以来6年ぶりに生放送番組が編成された。2016年度からは月 - 木曜日の22:00 - 22:25に『[クローズアップ現代+](../Page/クローズアップ現代+.md "wikilink")』を開始した\[3\]\[4\]。
+
+## 放送時間
+
+  - [月曜日](../Page/月曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink") 22:00 - 22:55（[JST](../Page/日本標準時.md "wikilink")）
+
+<!-- end list -->
+
+  -
+    22:55 - 23:00はローカルニュース・天気予報。
+    重要な事件がある場合は、随時放送時間を延長する。大体23:10までが全国放送（23:10 - 23:15がローカル）となる場合が多いが、大型の[台風](../Page/台風.md "wikilink")・[2001年](../Page/2001年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")の[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")\[5\]・[2003年](../Page/2003年.md "wikilink")の[イラク戦争](../Page/イラク戦争.md "wikilink")・[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")の[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")では、それよりも長い時間に渡って報道している。また23時台の番組を休止してローカルニュースを挟んだ2部形式で放送することもある。
+    [NHKワールドTV](https://ja.wikipedia.org/wiki/NHKワールドTV "wikilink")では、[火曜日](../Page/火曜日.md "wikilink")から[土曜日](../Page/土曜日.md "wikilink")までの1:00 - 1:55までに再放送があった（2か国語放送は英語が主音声となり副音声は日本語となる）。
+    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に開かれた[トリノオリンピック](https://ja.wikipedia.org/wiki/トリノオリンピック "wikilink")は時差の関係で番組に内包する形で中継をした試合があり、その時は番組開始時間の繰上げや放送時間の拡大・短縮の処置が取られた。
+
+## 出演者
+
+### キャスター
+
+| 期間                      | メインキャスター                                                | スポーツ                                                    | 気象情報                                                  | リポーター                                                 |
+| ----------------------- | ------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
+| 2000年3月27日 - 2001年3月30日 | [堀尾正明](https://ja.wikipedia.org/wiki/堀尾正明 "wikilink")   | [榎原美樹](https://ja.wikipedia.org/wiki/榎原美樹 "wikilink")   | [藤井彩子](../Page/藤井彩子.md "wikilink")                    | [森本健成](https://ja.wikipedia.org/wiki/森本健成 "wikilink") |
+| 2001年4月2日 - 2002年3月29日  | [森田美由紀](https://ja.wikipedia.org/wiki/森田美由紀 "wikilink") | 榎原美樹                                                    |                                                       |                                                       |
+| 2002年4月1日 - 2004年3月26日  | [今井環](https://ja.wikipedia.org/wiki/今井環 "wikilink")     | [有働由美子](https://ja.wikipedia.org/wiki/有働由美子 "wikilink") | [高田斉](https://ja.wikipedia.org/wiki/高田斉 "wikilink")   | [松尾剛](https://ja.wikipedia.org/wiki/松尾剛 "wikilink")   |
+| 2004年3月29日 - 2005年3月25日 | [有働由美子](https://ja.wikipedia.org/wiki/有働由美子 "wikilink") | [坂本朋彦](https://ja.wikipedia.org/wiki/坂本朋彦 "wikilink")   | [鎌倉千秋](https://ja.wikipedia.org/wiki/鎌倉千秋 "wikilink") |                                                       |
+| 2005年3月28日 - 2006年3月31日 | [野村優夫](https://ja.wikipedia.org/wiki/野村優夫 "wikilink")   |                                                         |                                                       |                                                       |
+
+  - 備考
+
+<!-- end list -->
+
+  - 2000年度8月の堀尾の夏休みは[内多勝康](https://ja.wikipedia.org/wiki/内多勝康 "wikilink")が代行。
+  - 榎原は2001年度からメインキャスターから海外ニュース担当キャスターに変更。
+  - 森本はNHKアナウンサーであるが、気象予報士として出演。2000年度はニュースコーナーも担当。
+  - 高田は2000年度から気象ニュースのスタッフ、特に森本のアドバイザーとして参加。
+  - 有働は2004年度からメインキャスターとスポーツキャスターを兼務。2002年秋に森田が病気により欠席した際には、森田の代役でメインキャスターを担当（スポーツキャスターも兼任）。
+  - 鎌倉は2004-2005年度気象情報の聞き手も担当、有働がスタジオ不在の場合は代行。
+
+## 脚注
+
+## 関連項目
+
+  - [NHKニュース](https://ja.wikipedia.org/wiki/NHKニュース "wikilink")
+  - [NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")（1993年4月開始）
+  - [NHKニュース9](https://ja.wikipedia.org/wiki/NHKニュース9 "wikilink")（1993年4月 - 2006年3月）
+  - [NHKニュース11](https://ja.wikipedia.org/wiki/NHKニュース11 "wikilink")（1994年4月 - 2000年3月、本番組の開始により終了）
+  - [NHKジャーナル](https://ja.wikipedia.org/wiki/NHKジャーナル "wikilink")（[ラジオ第1放送で同時間帯に放送されている](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")）
+  - [経済最前線](https://ja.wikipedia.org/wiki/経済最前線 "wikilink")・[BS23](https://ja.wikipedia.org/wiki/BS23 "wikilink")（[BS1](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")） - ニュース10開始に伴って放送時間を変更
+  - [JNNニュース22プライムタイム](https://ja.wikipedia.org/wiki/JNNニュース22プライムタイム "wikilink")→[JNNニュースデスク'88・'89](https://ja.wikipedia.org/wiki/JNNニュースデスク'88・'89 "wikilink") - 本番組より前の1987年10月から1989年10月に「ニュースステーション」と競合する番組として[TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")（JNN）で月 - 金の22時台に放送されたニュース番組
+
+## 外部リンク
+
+  - [ＮＨＫニュース１０ - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009040357_00000)
+
+[Category:NHK総合テレビジョンの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの帯番組の歴史 "wikilink") [Category:NHK総合テレビジョンのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのニュース・報道番組の歴史 "wikilink") [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink")
+
+1.  当番組の開始日より、開始時刻を22:00から21:54に変更。
+2.  『[週刊現代](https://ja.wikipedia.org/wiki/週刊現代 "wikilink")』2005年2月5日号
+3.  本番組に2004年度から終了まで出演していた[鎌倉千秋](https://ja.wikipedia.org/wiki/鎌倉千秋 "wikilink")は『クローズアップ現代+』のキャスターの1人として起用され、本枠再登板を果たす（なお、鎌倉は2019年3月に降板している）。当初は[有働由美子](https://ja.wikipedia.org/wiki/有働由美子 "wikilink")も起用される予定だったが、見送りとなった（その後、有働はNHK退職後の2018年10月から同時期に開始された[日本テレビの報道番組](../Page/日本テレビ放送網.md "wikilink")『[news zero](https://ja.wikipedia.org/wiki/news_zero "wikilink")』でメインキャスターを務めている）。
+4.  2019年4月からは、火 - 木曜日の22:00 - 22:30に放送曜日・時間を変更した。
+5.  この日は当初[台風15号関連のニュースを中心に放送する予定だったが](https://ja.wikipedia.org/wiki/平成13年台風第15号 "wikilink")、オープニング直後に急遽入ってきたニュースとして[世界貿易センタービルへの航空機](../Page/ワールドトレードセンター_\(ニューヨーク\).md "wikilink")“[衝突](https://ja.wikipedia.org/wiki/アメリカン航空11便テロ事件 "wikilink")”の第一報を報じ、その後も[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")からの中継などを交えながら続報を伝えた。また、番組放送中に南棟に[2機目が衝突する瞬間が生中継されている](https://ja.wikipedia.org/wiki/ユナイテッド航空175便テロ事件 "wikilink")。

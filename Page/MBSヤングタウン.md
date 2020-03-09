@@ -1,0 +1,616 @@
+> この記事は[MBS](https://ja.wikipedia.org/wiki/MBS)から翻訳されています。
+
+
+『**MBSヤングタウン**』（エムビーエスヤングタウン）は、[1967年](../Page/1967年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")（[毎日放送](../Page/毎日放送.md "wikilink")のラジオ部門）で夜ワイド枠放送の[番組](../Page/ラジオ番組.md "wikilink")。開始当初は[深夜帯に放送されていた](../Page/深夜放送.md "wikilink")。[2018年](../Page/2018年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")以降の基本放送枠は、毎週[金曜日](../Page/金曜日.md "wikilink")の22:00 - 23:00、毎週[土曜日](../Page/土曜日.md "wikilink")、[日曜日](../Page/日曜日.md "wikilink")の22:00 - 23:30（[JST](https://ja.wikipedia.org/wiki/JST "wikilink")、いずれも事前に収録）。通称は「**ヤンタン**」で、番組開始から[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[9月](../Page/9月.md "wikilink")までのタイトルは『**歌え\! MBSヤングタウン**』であった。[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")は1975年から、[明石家さんま](../Page/明石家さんま.md "wikilink")は1976年から出演している。
+
+一時は全曜日にわたって放送されていたため、当ページでは曜日別の呼称として、便宜上「ヤン○」（○は曜日名の頭文字）という略称を使用する（[\#エピソード](https://ja.wikipedia.org/wiki/#エピソード "wikilink")を参照）。なお、現在放送中の金曜日については[ヤングタウン金曜日](https://ja.wikipedia.org/wiki/ヤングタウン金曜日 "wikilink")、土曜日については[ヤングタウン土曜日](../Page/ヤングタウン土曜日.md "wikilink")、日曜日については[ヤングタウン日曜日](https://ja.wikipedia.org/wiki/ヤングタウン日曜日 "wikilink")のページを参照されたい。
+
+## 概要
+
+[1960年](../Page/1960年.md "wikilink")代後半から、深夜番組の黄金期を築いてきた番組で、[フュージョンによるテーマソング](../Page/フュージョン_\(音楽\).md "wikilink")（通称『MBSヤングタウンのテーマ』\[1\]）が代々、使われている。
+
+なお、MBS以外のラジオ局が制作・放送した『ヤングタウン』のうち、[TBSラジオ](../Page/TBSラジオ.md "wikilink")が[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月](../Page/9月.md "wikilink")まで関東ローカルで毎週[土曜日](../Page/土曜日.md "wikilink")に放送していた『[ヤングタウンTOKYO](https://ja.wikipedia.org/wiki/ヤングタウンTOKYO "wikilink")』シリーズは当番組の姉妹番組に当たる。
+
+[NRNに加盟する地方局への](../Page/全国ラジオネットワーク.md "wikilink")[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")番組として、[1975年](../Page/1975年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から1986年3月まで[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")が制作していた『[ヤングタウンAM](https://ja.wikipedia.org/wiki/ヤングタウンAM "wikilink")』については、当番組とは直接の関係がない。
+
+### 歴史
+
+#### 番組開始までの経緯
+
+1960年代前半までのMBSラジオは在阪ラジオ局の聴取率において、[ラジオ大阪（OBC）と](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")[ABCラジオの後塵を拝していた](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink")。特に深夜帯では、『アナウンサーコーナー』と『[ABCヤングリクエスト](https://ja.wikipedia.org/wiki/ABCヤングリクエスト "wikilink")』の前に、大きく水をあけられていた。
+
+MBSは1967年の春、ラジオ制作部の[渡邊一雄ディレクター](https://ja.wikipedia.org/wiki/渡邊一雄_\(プロデューサー\) "wikilink")（当時）が、ラジオ編成部からの指示で、若者向け深夜番組の準備を開始。アップテンポなトークで、[フォークソング](../Page/フォークソング.md "wikilink")や[ロックをふんだんに流す番組の計画を練り上げた](../Page/ロック_\(音楽\).md "wikilink")。
+
+MBSは当番組の本放送を始めるまで、平日の深夜に半年限定。15分間のパイロット番組を放送。渡邊は入社 2年目ながら「若者の兄貴分」という雰囲気を漂わせていた、[斎藤努](https://ja.wikipedia.org/wiki/斎藤努 "wikilink")アナウンサーを、この番組のパーソナリティに抜擢した\[2\]。
+
+#### 1960年代
+
+渡邊は本放送を前に、聴取対象を25歳以下の若者に限定し、「子供相手の放送」にしないことと、彼らに連帯感を持たせるべく、[毎日放送千里丘放送センター](https://ja.wikipedia.org/wiki/毎日放送千里丘放送センター "wikilink")（当時）内で最も広い第1スタジオで、放送日の夕方に公開収録を実施することを決定。
+『**歌え\! MBSヤングタウン**』のタイトルで、[1967年](../Page/1967年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")（[日曜日](../Page/日曜日.md "wikilink")）、0:10からの110分番組として本放送を開始した。
+
+開始当初は斎藤が全曜日の公開収録で、パーソナリティを務めた。高橋キヨシ（[ギタリスト](https://ja.wikipedia.org/wiki/ギタリスト "wikilink")）と十川尚子（[ピアノ](../Page/ピアノ.md "wikilink")・[エレクトーン](../Page/エレクトーン.md "wikilink")奏者）をレギュラーに起用した。また、関西地方で活動するアマチュアのフォークグループ（アマチュアバンド）2組を日替わりで出演させるとともに、プロのバンドやフォーク歌手を随時ゲストに迎えていた\[3\]。
+第1回のゲストは、当時アマチュアで活動していた[ザ・フォーク・クルセダーズ](https://ja.wikipedia.org/wiki/ザ・フォーク・クルセダーズ "wikilink")であった。
+
+本放送に際しては、MBSラジオ編成部の計らいで、自社制作番組では最も多額の予算を付けられていた。開始当初は公開収録への人出や局内の評価は芳しくなかったが、回を重ねるたびに収録への参加者が増加。[ヴィレッジ・シンガーズ](https://ja.wikipedia.org/wiki/ヴィレッジ・シンガーズ "wikilink")をゲストに迎えた公開収録（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")）に観覧希望者が殺到したことから、以降の放送では、[往復ハガキ](https://ja.wikipedia.org/wiki/往復ハガキ "wikilink")での応募を条件に観覧希望者へ参加整理券を配布するようになった\[4\]。
+
+1968年からは[MBSテレビ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")で、毎週[日曜日](../Page/日曜日.md "wikilink")に放送していた『スミ子と歌おう』をヒントに、オリジナルソングを毎月1曲ずつ放送する「ヤンタン今月の歌」（後述）を始めた。
+
+しかし、斎藤は同年4月からプロ野球中継の実況・リポーターも兼務。当番組への出演日が週の前半（月 - 水曜日）に限られるため、それまで月曜日の1コーナーにレギュラーで出演していた桂三枝（現・[六代桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）を、週の後半（木 - 土曜日）のパーソナリティに抜擢した。
+
+同時に、収録での演奏に対するアマチュアバンドの応募件数が増加の一途をたどっていたことから、千里丘放送センター第一スタジオなどで、定期的に[オーディション](https://ja.wikipedia.org/wiki/オーディション "wikilink")を実施するようになった。
+
+これを機に番組の聴取率は、当時の深夜番組の平均の20倍に相当する4%にまで上昇\[5\]。当時駆け出しの落語家だった三枝を一躍スターダムに押し上げた。
+MBSテレビでも、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から、斎藤・三枝の出演で『[ヤングおー\!おー\!](https://ja.wikipedia.org/wiki/ヤングおー!おー! "wikilink")』（[SABホールでの公開収録番組](https://ja.wikipedia.org/wiki/リサイタルホール "wikilink")）を放送。同年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からは[TBSラジオ](../Page/TBSラジオ.md "wikilink")で、公開生放送形式で『ヤングタウンTOKYO』を開始した。
+
+三枝は当番組と並行しながら『ヤングタウンTOKYO』に放送開始から[1975年](../Page/1975年.md "wikilink")9月まで、パーソナリティとして出演。毎週土曜日、当番組の収録を終えた後、飛行機による移動を経て、『ヤングタウンTOKYO』の生放送に臨んでいた。
+
+#### 1970年代
+
+[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")には、『ヤングおー\! おー\!』や[大阪万博](https://ja.wikipedia.org/wiki/日本万国博覧会 "wikilink")（千里丘放送センターの近隣で開催）の人気に押されるかのように、当番組への参加者が激減。『ヤングおー\! おー\!』が軌道に乗ったこともあって、当番組では同年9月、公開収録をいったん終了した\[6\]。
+
+1970年10月から、千里丘センター内ラジオ スタジオからの生放送へ移行するとともに、番組タイトルを現在の『**MBSヤングタウン**』に改称。当番組を放送する前の初心に還ることを目的に、斎藤を含む、MBSの男性アナウンサーと女性タレントのコンビ（後述）が週2日ずつ、パーソナリティを務めるようになった\[7\] が半年後、タレントのレギュラー出演を復活。
+お笑い主体の路線へ回帰するとともに、人気のアーティストやバンドをゲストに迎えての公開収録を土曜日に再開した。
+
+[1972年](../Page/1972年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、「今月の歌」を終了させる一方で、[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からは、放送時間を3時間に拡大。[1973年](../Page/1973年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")には夜ワイド枠の放送に昇格して、放送開始時間を22:00に繰り上げた。
+
+[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")、[1977年](../Page/1977年.md "wikilink")の在阪ラジオ局聴取率調査で、当番組の平均聴取率が10%台にまで到達。在阪 全局、全番組の中で、[谷村新司](https://ja.wikipedia.org/wiki/谷村新司 "wikilink")、佐藤良子が出演する水曜日が1位。[笑福亭鶴光](../Page/笑福亭鶴光.md "wikilink")、[角淳一](https://ja.wikipedia.org/wiki/角淳一 "wikilink")、[佐々木美絵](https://ja.wikipedia.org/wiki/佐々木美絵 "wikilink")が出演する木曜日が2位を記録している。
+この時期を境に、MBS全体の聴取率はOBC、ABCを上回るようになった。
+
+#### 1980年代
+
+『歌え\! MBSヤングタウン』時代から、当番組への出演を続けてきた三枝は、[1979年](../Page/1979年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")（[土曜日](../Page/土曜日.md "wikilink")）の放送を最後に勇退。同年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からレギュラーで共演していた[明石家さんま](../Page/明石家さんま.md "wikilink")を、後任のパーソナリティに起用した。
+
+この時期から、鶴光、谷村、[ばんばひろふみ](https://ja.wikipedia.org/wiki/ばんばひろふみ "wikilink")に加えて、さんま、[島田紳助・松本竜介](https://ja.wikipedia.org/wiki/島田紳助・松本竜介 "wikilink")、[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")、[原田伸郎](https://ja.wikipedia.org/wiki/原田伸郎 "wikilink")、[大津びわ子](https://ja.wikipedia.org/wiki/大津びわ子 "wikilink")、[やしきたかじん](https://ja.wikipedia.org/wiki/やしきたかじん "wikilink")、[嘉門達夫](https://ja.wikipedia.org/wiki/嘉門タツオ "wikilink")、[西川のりお](https://ja.wikipedia.org/wiki/西川のりお "wikilink")、[チャゲ&飛鳥](https://ja.wikipedia.org/wiki/チャゲ&飛鳥 "wikilink")、[ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")、[渡辺美里](../Page/渡辺美里.md "wikilink")など、多彩なパーソナリティが登場。
+ある曜日のパーソナリティが別の曜日の放送にもゲストで登場するなど、曜日の枠を越えながら、番組を盛り上げるようになった。
+
+また、土曜日の公開収録を[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")で終了させる一方で、リスナーも参加・鑑賞できるイベントを積極的に実施。
+「ヤンタンオールスターズ」（出演者、スタッフで結成した草野球チーム）が[松山千春](../Page/松山千春.md "wikilink")、[とんねるず](../Page/とんねるず.md "wikilink")などの芸能人チームと対戦した「ヤンタン野球大会」（後述）や、[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")に[SABホールで開かれた角と鶴光による](https://ja.wikipedia.org/wiki/リサイタルホール "wikilink")「ど角・ど鶴のええか、ええかコンサート」などが人気を博した。
+
+その一方で、長年のライバルであった『ヤンリク』は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")で、20年半もの歴史に終止符を打っている。
+
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月には、金曜日のみ『MBSヤングタウン』と『**ヤンタンキンド館**』の2本立て体制で放送\[8\]。月 - 木曜日にも[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")4月から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")4月まで\[9\]、『MBSヤングタウン』直後の24:45 - 26:30\[10\] に姉妹番組として『**ヤンタン ミュージックゾーン ザ・リクエスト**』（『**ヤンタンミュージックゾーン THE REQUEST**』\[11\]）を放送していた\[12\]。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")度のナイターオフ期間には、[平松邦夫](https://ja.wikipedia.org/wiki/平松邦夫 "wikilink")の出演で、金曜日の19～20時台に『**平松邦夫のミセスヤングタウン**』を放送していた。
+
+#### 1990年代
+
+MBSは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に、千里丘放送センター内のスタジオ機能を現在の社屋（[大阪市北区茶屋町](https://ja.wikipedia.org/wiki/茶屋町_\(大阪市\) "wikilink")）へ移転。当番組は[8月31日](../Page/8月31日.md "wikilink")まで、同センターから放送。
+[9月1日](../Page/9月1日.md "wikilink")から現在まで、茶屋町本社内のラジオ スタジオを主に使用している。
+
+在阪 FMラジオ局の台頭、コーナースポンサーの撤退により、1990年代 初頭から番組の人気に翳りが出始めた。1980年代の人気を担った前述のパーソナリティが続々と退任。一時は、東京を中心に活動するタレントや若手ミュージシャンを前面に押し出す路線に転換。『**ヤンタン**』の名を冠した姉妹番組を続々と放送していた。
+
+[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [1993年](../Page/1993年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは、日曜日のみ『**ヤンタン スペシャルサンデー**』とのタイトルで放送。[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [1993年](../Page/1993年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")までは、『**ヤンタン ミュージックゾーン ザ・リクエスト**』の後継番組として、MBSの若手アナウンサーによる『**ヤンタンMUSICネトランジェ**』（金曜日のみ『**ヤンタンMUSICネトランジェ　金曜スペシャル**』）を放送していた。
+
+[1994年](../Page/1994年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")から、月 - 木曜日の放送枠を22:00 - 23:00、23:00 - 1:00の2つに分割。前者は音楽リクエスト番組『**ヤンタン はなまるリクエスト**』。後者はトークバラエティ番組『**ヤンタン あそびのWA\!\!**』』を放送。金曜日は『**ヤンタン はなまるフライデースペシャル**』を22:00 - 1:00に放送した。
+
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、ヤンタン はなまるリクエストの放送時間を、月 - 木曜日 22:00 - 0:00の2時間に拡大。ヤンタン あそびのWA\!\!を終了。21ヶ月振りに『MBSヤングタウン』のタイトルを復活し、月 - 木曜日 0:00 - 3:00（金曜日は1:00 - 3:00）の3時間番組に拡大した。
+
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、『ヤンタン はなまるリクエスト』『ヤンタン はなまるフライデースペシャル』を終了。ヤンタン放送開始 30周年を記念して、『**MBSヤングタウン MUSIC MAX**』を開始。『MBSヤングタウン』の放送日を金、土、日曜日に縮小した。
+
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、月 - 木曜日の『MBSヤングタウン』を22:00 - 0:00で再開。『MBSヤングタウン MUSIC MAX』を月 - 水曜日 0:00 - 2:00へ移行。
+
+[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、『MBSヤングタウン MUSIC MAX』を終了。月 - 金曜日の『MBSヤングタウン』を23:00 - 25:00に繰り下げ、パーソナリティを全面的に変更。月曜と金曜を男女ペアにするなどのリニューアルを試みるが、失敗に終わった。
+
+MBSは[1999年](../Page/1999年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の改編を機に、『MBSヤングタウン』平日の放送枠を終了\[13\]。土曜日、日曜日のみの放送となった。
+
+#### 2000年代 以降
+
+MBSは『MBSヤングタウン』を全曜日、完全に終了させる予定であったが、明石家さんま、笑福亭鶴瓶が番組の続行を懇願。現在も土曜日、日曜日に『MBSヤングタウン』として、22:00 - 23:30の時間帯で放送している。
+
+土曜日は[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の新旧メンバーが「ヤン娘。（やんむす）」として、さんまのパートナーを代々、務める一方で、原則として、前日（金曜日）にMBS東京支社内のラジオスタジオで収録した内容を放送。日曜日は「鶴瓶のすわるラジオ」のタイトルで、出演者の座りトークによる街頭収録を一時、実施していた。現在は、MBS本社内のスタジオで収録した内容を中心に放送している。
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月30日](../Page/8月30日.md "wikilink") - [9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")の1週間、『**毎日放送 開局60周年記念番組 MBSヤングタウン スペシャル**』を22:00（JST。[ナイター中継で](https://ja.wikipedia.org/wiki/MBSタイガースライブ "wikilink")、開始時間変更あり）から放送。三枝が[六代 桂文枝を襲名する直前の](../Page/桂文枝_\(6代目\).md "wikilink")[2012年](../Page/2012年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")（[土曜日](../Page/土曜日.md "wikilink")）の16:00 - 17:38に、六代 桂文枝 襲名企画の第1部として、『**復活\! 桂三枝の歌え\! MBSヤングタウン**』を公開収録形式で放送した。
+
+『歌え\! MBSヤングタウン』としての放送開始から50年を迎えた、[2017年](../Page/2017年.md "wikilink")には土曜版の最終放送（[12月30日](../Page/12月30日.md "wikilink")）を『20周年モーニング娘。のMBSヤングタウン』（[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")、[吉澤ひとみ](https://ja.wikipedia.org/wiki/吉澤ひとみ "wikilink")、[田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")、[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")の出演による[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")結成 20周年記念番組）として編成。翌[31日](../Page/12月31日.md "wikilink")（[日曜日](../Page/日曜日.md "wikilink")）の20:00 - 23:30には、当番組の50周年 特別番組『**MBSヤングタウン　50年クロニクル**』（いずれも事前収録）を放送した。
+
+[2018年](../Page/2018年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")からは、[アリスがパーソナリティを務める](https://ja.wikipedia.org/wiki/アリス_\(フォークグループ\) "wikilink")『[ヤングタウン金曜日](https://ja.wikipedia.org/wiki/ヤングタウン金曜日 "wikilink")』として、金曜日のレギュラー放送を18年半振りに再開（基本放送枠は22:00 - 23:00）。[堀内孝雄](../Page/堀内孝雄.md "wikilink")以外のメンバー（谷村新司、[矢沢透](https://ja.wikipedia.org/wiki/矢沢透 "wikilink")）がかつて平日版のパーソナリティであったアリスが、ラジオ番組ではメンバー全員でレギュラーパーソナリティを務める\[14\]。毎日放送が当番組の放送開始 50周年のタイミングで、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")まで金曜版のパーソナリティを務めた谷村に31年半振りのパーソナリティ復帰を打診したことをきっかけに「[2019年](../Page/2019年.md "wikilink")に再始動を控えるアリスの腕ならし」を兼ねて、平日版の復活に至った\[15\]。
+
+## 現在の出演者
+
+  - [ヤングタウン金曜日](https://ja.wikipedia.org/wiki/ヤングタウン金曜日 "wikilink")
+
+<!-- end list -->
+
+  - [谷村新司](https://ja.wikipedia.org/wiki/谷村新司 "wikilink")　
+  - [堀内孝雄](../Page/堀内孝雄.md "wikilink")　
+  - [矢沢透](https://ja.wikipedia.org/wiki/矢沢透 "wikilink")
+
+<!-- end list -->
+
+  -
+    ※いずれも、[アリスのメンバー](https://ja.wikipedia.org/wiki/アリス_\(フォークグループ\) "wikilink")。
+
+<!-- end list -->
+
+  - [ヤングタウン土曜日](../Page/ヤングタウン土曜日.md "wikilink")
+
+<!-- end list -->
+
+  - [明石家さんま](../Page/明石家さんま.md "wikilink")　
+  - [村上ショージ](https://ja.wikipedia.org/wiki/村上ショージ "wikilink")
+  - [飯窪春菜](https://ja.wikipedia.org/wiki/飯窪春菜 "wikilink")
+  - [横山玲奈](https://ja.wikipedia.org/wiki/横山玲奈 "wikilink")（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）
+
+<!-- end list -->
+
+  -
+    ※この他に、[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")メンバーやモーニング娘。OG、過去のレギュラー出演者などが週替わりで出演する。
+
+<!-- end list -->
+
+  - [ヤングタウン日曜日](https://ja.wikipedia.org/wiki/ヤングタウン日曜日 "wikilink")
+
+<!-- end list -->
+
+  - [笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")
+  - [福島暢啓](https://ja.wikipedia.org/wiki/福島暢啓 "wikilink")（MBSアナウンサー）
+  - [田口万莉](https://ja.wikipedia.org/wiki/田口万莉 "wikilink")
+  - [三遊亭とむ](https://ja.wikipedia.org/wiki/三遊亭とむ "wikilink")
+
+## 歴代パーソナリティ
+
+  - 1967/10 - 1968/03 [斎藤努](https://ja.wikipedia.org/wiki/斎藤努 "wikilink")（毎日放送アナウンサー・当時）
+      -
+        開始当初は、深夜0時10分 - 2時に放送される公開録音番組だった。
+  - 1968/03 - 1970/09 斎藤努（月 - 水曜日）、[桂三枝](../Page/桂文枝_\(6代目\).md "wikilink")（木 - 土曜日）
+  - 1970/10 - 1971/03 [緒方憲吾](https://ja.wikipedia.org/wiki/緒方憲吾 "wikilink")、前田佳英子（月、火曜日）、池口和雄、壇上英子（水、木曜日）、斎藤努、[横井久仁江](https://ja.wikipedia.org/wiki/横井くにえ "wikilink")（金、土曜日）
+      -
+        上記の事情で、公開収録への参加者が減少していたことに加えて、[学生運動](../Page/学生運動.md "wikilink")の影響で公開収録を休止。スタジオからの生放送へ移行するとともに、当時のMBSアナウンサー（緒方、池口、斎藤）を全曜日でパーソナリティに起用した。
+  - 1971/04 - 以降のパーソナリティは、曜日別に記載。
+      -
+        元の番組内容に戻る。公開録音は、土曜日のみ復活（ - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")3月）。
+  - 1994/01 - 1995/09 [大角香里](https://ja.wikipedia.org/wiki/大角香里 "wikilink")（平日）
+      -
+        『**ヤンタン はなまるリクエスト**』（月 - 木曜日）、『**ヤンタン はなまるフライデースペシャル**』（金曜日）。月 - 木曜日は、大角が音楽中心のコーナーを担当。金曜日は『はなまるリクエスト』の拡大版として、大角と[上泉雄一](https://ja.wikipedia.org/wiki/上泉雄一 "wikilink")（MBSアナウンサー）がパーソナリティを務めた。
+  - 1997/04 - 09 [岡本真夜](https://ja.wikipedia.org/wiki/岡本真夜 "wikilink")（月曜）、NOB（[CURIO](https://ja.wikipedia.org/wiki/CURIO "wikilink")）（火曜）、[バーバラよね](https://ja.wikipedia.org/wiki/バーバラよね "wikilink")（水曜）、[種浦マサオ](https://ja.wikipedia.org/wiki/種浦マサオ "wikilink")（木曜）、大角香里（月曜 - 木曜）
+      -
+        番組開始30周年を迎え、月曜 - 木曜は音楽リクエスト番組『**MBSヤングタウン MUSIC MAX**』となり、ヤンタンは金曜、土曜、日曜日に縮小。
+  - 1997/10 - 1999/09
+      -
+        月 - 日曜日の放送に再び戻る。『MBSヤングタウン MUSIC MAX』は平日深夜に枠移動。[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")、[林あさ美](https://ja.wikipedia.org/wiki/林あさ美 "wikilink")などがパーソナリティを務めた。
+  - 1999/10 - [明石家さんま](../Page/明石家さんま.md "wikilink")（土曜日）、[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")（日曜日）
+      -
+        月 - 金曜日の平日枠が、全て終了。土曜、日曜日のみの編成となる。
+  - 2018/4 - [谷村新司](https://ja.wikipedia.org/wiki/谷村新司 "wikilink")、[堀内孝雄](../Page/堀内孝雄.md "wikilink")、[矢沢透](https://ja.wikipedia.org/wiki/矢沢透 "wikilink")（[アリス](https://ja.wikipedia.org/wiki/アリス_\(フォークグループ\) "wikilink")）（金曜日）、明石家さんま（土曜日）、笑福亭鶴瓶（日曜日）
+      -
+        金曜日の放送が1999年9月 以来、18年半振りに復活した。
+
+### 月曜日
+
+  - 1971/04 - 1972/03 [西川きよし](../Page/西川きよし.md "wikilink")、堀悦子
+  - 1972/04 - 09 斎藤努、[桂文珍](https://ja.wikipedia.org/wiki/桂文珍 "wikilink")、河内まさ子
+  - 1972/10 - 1973/03 [角淳一](https://ja.wikipedia.org/wiki/角淳一 "wikilink")（毎日放送アナウンサー・当時）、[シモンズ](https://ja.wikipedia.org/wiki/シモンズ_\(歌手\) "wikilink")
+  - 1973/04 - 1975/03 [諸口あきら](../Page/諸口あきら.md "wikilink")、小林京子
+  - 1975/04 - 09 諸口あきら、松峰ひろみ
+  - 1975/10 - 1982/03 **笑福亭鶴瓶時代（第1次）**
+      - 1975/10 - 1976/03 笑福亭鶴瓶、角淳一、平井陽子
+      - 1976/04 - 1978/03 笑福亭鶴瓶、[浅川美智子](https://ja.wikipedia.org/wiki/浅川美智子 "wikilink")（鬼首おりん）
+      - 1978/04 - 1979/03 笑福亭鶴瓶、浅川美智子、[中村行延](https://ja.wikipedia.org/wiki/中村行延 "wikilink")
+      - 1979/04 - 09 笑福亭鶴瓶、浅川美智子、住出勝則
+      - 1979/10 - 1980/09 笑福亭鶴瓶、MANA、中村行延
+      - 1980/10 - 1981/09 笑福亭鶴瓶、横山みゆき、中村行延
+      - 1981/10 - 1982/03 笑福亭鶴瓶、[堀江美都子](../Page/堀江美都子.md "wikilink")、[あさみあきお](https://ja.wikipedia.org/wiki/あさみあきお "wikilink")
+  - 1982/04 - 1989/09 **明石家さんま時代（第2次・土曜日から異動）**
+      - 1982/04 - 1983/03 [明石家さんま](../Page/明石家さんま.md "wikilink")、[堀江美都子](../Page/堀江美都子.md "wikilink")、あさみあきお
+      - 1983/04 - 1988/12 明石家さんま、[長江健次](https://ja.wikipedia.org/wiki/長江健次 "wikilink")、[大津びわ子](https://ja.wikipedia.org/wiki/大津びわ子 "wikilink")、[伊東正治](https://ja.wikipedia.org/wiki/伊東正治 "wikilink")（毎日放送アナウンサー・当時）
+      - 1989/01 - 09 明石家さんま、長江健次、大津びわ子
+  - 1989/10 - 1990/09 長江健次、[喜多嶋舞](https://ja.wikipedia.org/wiki/喜多嶋舞 "wikilink")、[Mr.オクレ](https://ja.wikipedia.org/wiki/Mr.オクレ "wikilink")、[加藤康裕](https://ja.wikipedia.org/wiki/加藤康裕 "wikilink")（毎日放送アナウンサー）
+  - 1990/10 - 1993/12 **根本要時代（第2次・金曜日から異動）**
+      - 1990/10 - 1992/09 [根本要](https://ja.wikipedia.org/wiki/根本要 "wikilink")、[笑福亭笑瓶](https://ja.wikipedia.org/wiki/笑福亭笑瓶 "wikilink")、[野沢直子](https://ja.wikipedia.org/wiki/野沢直子 "wikilink")
+      - 1992/10 - 1993/03 根本要、笑福亭笑瓶、[森高千里](../Page/森高千里.md "wikilink")、[谷口宗一](https://ja.wikipedia.org/wiki/谷口宗一 "wikilink")
+      - 1993/04 - 12 根本要、笑福亭笑瓶、[小川恵理子](https://ja.wikipedia.org/wiki/小川恵理子 "wikilink")、谷口宗一
+  - 1994/01 - 1995/03 [ベイブルース](https://ja.wikipedia.org/wiki/ベイブルース "wikilink")、種浦マサオ、WENDY（「ヤンタン あそびのWA\!\!」）
+  - 1995/04 - 09 [ベイブルース高山](https://ja.wikipedia.org/wiki/高山トモヒロ "wikilink")、種浦マサオ、[吉田朋代](https://ja.wikipedia.org/wiki/吉田朋代_\(シンガーソングライター\) "wikilink")、井の口純代（おちゃめ組）（「ヤンタン あそびのWA\!\!」）
+  - 1995/10 - 1996/04 種浦マサオ、[T・K・O](https://ja.wikipedia.org/wiki/TKO_\(お笑いコンビ\) "wikilink")、吉田朋代
+  - 1996/04 - 1997/03 [FUJIWARA](../Page/FUJIWARA.md "wikilink")、[一番星哲也](https://ja.wikipedia.org/wiki/一番星哲也 "wikilink")、[藤原みわ](https://ja.wikipedia.org/wiki/藤原みわ "wikilink")
+  - 1997/10 - 1998/03 [メッセンジャー](https://ja.wikipedia.org/wiki/メッセンジャー_\(お笑いコンビ\) "wikilink")、[三木拓次](https://ja.wikipedia.org/wiki/三木拓次 "wikilink")（[RAZZ MA TAZZ](https://ja.wikipedia.org/wiki/RAZZ_MA_TAZZ "wikilink")）
+  - 1998/04 - 1999/03 メッセンジャー、ゆうたろう（[プロペラ](https://ja.wikipedia.org/wiki/プロペラ_\(バンド\) "wikilink")）、[河島あみる](https://ja.wikipedia.org/wiki/河島あみる "wikilink")
+  - 1999/04 - 09 [松村邦洋](../Page/松村邦洋.md "wikilink")、[小島可奈子](https://ja.wikipedia.org/wiki/小島可奈子 "wikilink")
+
+### 火曜日
+
+  - 1971/04 - 1972/09 **笑福亭鶴光、角淳一時代（第1次）**
+      - 1971/04 - 1972/03 [笑福亭鶴光](../Page/笑福亭鶴光.md "wikilink")、角淳一、北原早苗
+      - 1972/04 - 09 笑福亭鶴光、角淳一、山本恵子
+  - 1972/10 - 1973/03 [杉田二郎](https://ja.wikipedia.org/wiki/杉田二郎 "wikilink")、小林京子
+  - 1973/04 - 09 笑福亭鶴光、角淳一、[佐々木美絵](https://ja.wikipedia.org/wiki/佐々木美絵 "wikilink")（毎日放送アナウンサー・当時）
+  - 1973/10 - 1974/03 [キャッシー](https://ja.wikipedia.org/wiki/キャッシー_\(タレント\) "wikilink")、山本雄二、[近藤光史](https://ja.wikipedia.org/wiki/近藤光史 "wikilink")（毎日放送アナウンサー・当時）
+  - 1974/04 - 1975/03 キャッシー、山本雄二
+  - 1975/04 - 09 角淳一、[麻田ルミ](https://ja.wikipedia.org/wiki/麻田ルミ "wikilink")
+  - 1975/10 - 1977/03 [海原千里・万里](https://ja.wikipedia.org/wiki/海原千里・万里 "wikilink")、[松井昭憲](https://ja.wikipedia.org/wiki/松井昭憲 "wikilink")（毎日放送アナウンサー・当時）
+  - 1977/04 - 09 キャッシー、[桂小軽](https://ja.wikipedia.org/wiki/桂小軽 "wikilink")
+  - 1977/10 - 1979/08 [きたむらけん](https://ja.wikipedia.org/wiki/北村謙 "wikilink")、有吉ジュン、[オール阪神・巨人](https://ja.wikipedia.org/wiki/オール阪神・巨人 "wikilink")
+  - 1979/09 - 1980/04 [イルカ](https://ja.wikipedia.org/wiki/イルカ_\(歌手\) "wikilink")、[沢田聖子](https://ja.wikipedia.org/wiki/沢田聖子 "wikilink")
+  - 1980/05 - 12 イルカ、[桂べかこ](https://ja.wikipedia.org/wiki/桂南光_\(3代目\) "wikilink")
+  - 1980/12 - 1983/03 [岩崎宏美](https://ja.wikipedia.org/wiki/岩崎宏美 "wikilink")、[やしきたかじん](https://ja.wikipedia.org/wiki/やしきたかじん "wikilink")、オール阪神・巨人
+  - 1983/04 - 1984/03 [チャゲ&飛鳥](https://ja.wikipedia.org/wiki/CHAGE_and_ASKA "wikilink")
+  - 1984/04 - 06 チャゲ&飛鳥、八島洋子
+  - 1984/07 - 1989/02 **河合奈保子、嘉門達夫時代**
+      - 1984/10 - 1986/03 [河合奈保子](https://ja.wikipedia.org/wiki/河合奈保子 "wikilink")、[嘉門達夫](https://ja.wikipedia.org/wiki/嘉門タツオ "wikilink")、長井展光（毎日放送アナウンサー・当時）
+      - 1986/04 - 1987/09 河合奈保子、嘉門達夫、[寺崎要](https://ja.wikipedia.org/wiki/寺崎要 "wikilink")
+      - 1987/10 - 1989/02 河合奈保子、嘉門達夫、寺崎要、[伊藤秀志](https://ja.wikipedia.org/wiki/伊藤秀志 "wikilink")
+  - 1989/03 - 1992/09 **嘉門達夫時代**
+      - 1989/02 - 1989/09 嘉門達夫、[結城めぐみ](https://ja.wikipedia.org/wiki/結城めぐみ "wikilink")、伊藤秀志、[ぜんじろう](../Page/ぜんじろう.md "wikilink")
+      - 1989/10 - 1990/09 嘉門達夫、[田中義剛](https://ja.wikipedia.org/wiki/田中義剛 "wikilink")、[芳本美代子](https://ja.wikipedia.org/wiki/芳本美代子 "wikilink")、ぜんじろう
+      - 1990/10 - 1992/09 嘉門達夫、[石田敦子](https://ja.wikipedia.org/wiki/石田敦子_\(毎日放送\) "wikilink")（毎日放送アナウンサー・当時）、ぜんじろう
+  - 1992/10 - 1993/03 [トミーズ](https://ja.wikipedia.org/wiki/トミーズ "wikilink")、週代わりゲスト（[上岡龍太郎](https://ja.wikipedia.org/wiki/上岡龍太郎 "wikilink")、[円広志](https://ja.wikipedia.org/wiki/円広志 "wikilink")、やしきたかじんなど）、ピンクダック・ミチ（コーナーのみ）
+  - 1993/04 - 09 トミーズ、[奥山佳恵](https://ja.wikipedia.org/wiki/奥山佳恵 "wikilink")、やるじゃねえかーず（コーナーのみ）
+  - 1993/10 - 12 トミーズ、[松井愛](https://ja.wikipedia.org/wiki/松井愛 "wikilink")（毎日放送アナウンサー）、やるじゃねえかーず（コーナーのみ）
+  - 1994/01 - 1995/03 [ますだおかだ](https://ja.wikipedia.org/wiki/ますだおかだ "wikilink")、松井愛、嶋田博子（おちゃめ組）　（「ヤンタン あそびのWA\!\!」）
+  - 1995/04 - 09 [よゐこ](https://ja.wikipedia.org/wiki/よゐこ "wikilink")、[松本麻希](https://ja.wikipedia.org/wiki/松本麻希 "wikilink")（「ヤンタン あそびのWA\!\!」）
+  - 1995/10 - 1996/03 よゐこ、松本麻希
+  - 1996/04 - 1997/03 種浦マサオ、T・K・O、梶山三保子
+  - 1997/10 - 1998/09 [ジャリズム](https://ja.wikipedia.org/wiki/ジャリズム "wikilink")、[松岡充](https://ja.wikipedia.org/wiki/松岡充 "wikilink")（[SOPHIA](https://ja.wikipedia.org/wiki/SOPHIA "wikilink")）
+  - 1998/10 - 1999/03 ジャリズム、[搭堂なつ](https://ja.wikipedia.org/wiki/搭堂なつ "wikilink")
+  - 1999/04 - 09 [シャンプーハット](https://ja.wikipedia.org/wiki/シャンプーハット_\(お笑いコンビ\) "wikilink")、[柳明日香](https://ja.wikipedia.org/wiki/柳明日香 "wikilink")
+
+### 水曜日
+
+  - 1971/04 - 1972/09 斎藤努、[中田カウス・ボタン](https://ja.wikipedia.org/wiki/中田カウス・ボタン "wikilink")
+  - 1972/10 - 1973/03 [西岡たかし](https://ja.wikipedia.org/wiki/西岡たかし "wikilink")
+  - 1973/04 - 1975/03 [月亭八方](https://ja.wikipedia.org/wiki/月亭八方 "wikilink")、斎藤努、田中美紀
+  - 1975/04 - 09 [笑福亭仁鶴](https://ja.wikipedia.org/wiki/笑福亭仁鶴_\(3代目\) "wikilink")、[久保田ひろみ](https://ja.wikipedia.org/wiki/久保田ひろみ "wikilink")
+  - 1975/10 - 1976/03 月亭八方、近藤光史、佐藤良子（毎日放送アナウンサー・当時）
+  - 1976/04 - 1978/03 [谷村新司](https://ja.wikipedia.org/wiki/谷村新司 "wikilink")、佐藤良子
+  - 1978/04 - 1987/12 **原田伸郎時代**
+      - 1978/04 - 1980/09 [原田伸郎](https://ja.wikipedia.org/wiki/原田伸郎 "wikilink")、大津びわ子、[笑福亭笑光](https://ja.wikipedia.org/wiki/嘉門タツオ "wikilink")、伊東正治
+      - 1980/10 - 1981/03 原田伸郎、[ザ・ぼんち](https://ja.wikipedia.org/wiki/ザ・ぼんち "wikilink")、[松原みき](https://ja.wikipedia.org/wiki/松原みき "wikilink")、[桂雀々](https://ja.wikipedia.org/wiki/桂雀々 "wikilink")、伊東正治
+      - 1981/04 - 09 原田伸郎、松原みき、桂雀々、伊東正治
+      - 1981/10 - 1982/09 原田伸郎、[イリア](https://ja.wikipedia.org/wiki/奥野敦子 "wikilink")、桂雀々、伊東正治
+      - 1982/10 - 1983/03 原田伸郎、イリア、嘉門達夫、伊東正治
+      - 1983/04 - 1984/09 原田伸郎、イリア、嘉門達夫、[金指誠](https://ja.wikipedia.org/wiki/金指誠 "wikilink")（毎日放送アナウンサー・当時）
+      - 1984/10 - 1985/03 原田伸郎、水島依子、[MAKOTO](https://ja.wikipedia.org/wiki/北野誠_\(タレント\) "wikilink")、金指誠
+      - 1985/04 - 1987/03 原田伸郎、[渡辺美里](../Page/渡辺美里.md "wikilink")、MAKOTO、金指誠
+      - 1987/04 - 12 原田伸郎、西岡芽生、[笑福亭笑瓶](https://ja.wikipedia.org/wiki/笑福亭笑瓶 "wikilink")、金指誠
+  - 1988/01 - 1989/01 [兵藤ゆき](../Page/兵藤ゆき.md "wikilink")、MAKOTO、[子守康範](https://ja.wikipedia.org/wiki/子守康範 "wikilink")（毎日放送アナウンサー・当時）
+  - 1989/02 - 1990/09 兵藤ゆき、[本木雅弘](https://ja.wikipedia.org/wiki/本木雅弘 "wikilink")、子守康範
+  - 1990/10 - 1991/03 長江健次、喜多嶋舞、Mr.オクレ
+  - 1991/04 - 1992/09 [古田新太](https://ja.wikipedia.org/wiki/古田新太 "wikilink")、[羽野晶紀](https://ja.wikipedia.org/wiki/羽野晶紀 "wikilink")、[山西惇](https://ja.wikipedia.org/wiki/山西惇 "wikilink")
+  - 1992/10 - 1993/03 古田新太、青木直子、よゐこ
+  - 1993/04 - 09 当時日曜深夜放送だった「ラジオディス 茶屋町学園」（ヤンタンの姉妹番組）を引き継ぐ。
+      - よゐこ、[CoCo](https://ja.wikipedia.org/wiki/CoCo_\(アイドルグループ\) "wikilink")、[高橋由美子](https://ja.wikipedia.org/wiki/高橋由美子 "wikilink")、[酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink")、[武田真治](https://ja.wikipedia.org/wiki/武田真治 "wikilink")らが出演
+  - 1994/01 - 03 よゐこ、堀みやこ 、稲泉ひろこ（おちゃめ組）（「ヤンタン あそびのWA\!\!」）
+  - 1994/04 - 1995/03 よゐこ、松本麻希（「ヤンタン あそびのWA\!\!」）
+  - 1994/04 - 1995/09 ますだおかだ、松井愛（毎日放送アナウンサー）（「ヤンタンあそびのWA\!\!」）
+  - 1995/10 - 1997/03 ますだおかだ、[濱田マリ](https://ja.wikipedia.org/wiki/濱田マリ "wikilink")（[モダンチョキチョキズ](https://ja.wikipedia.org/wiki/モダンチョキチョキズ "wikilink")・当時）、松井愛
+  - 1997/10 - 1999/03 T・K・O、NOB
+  - 1999/04 - 09 ベイブルース高山、NOB、中村舞子
+
+### 木曜日
+
+  - 1971/04 - 09 桂三枝、市丸
+  - 1971/10 - 1972/09 [レツゴー三匹](https://ja.wikipedia.org/wiki/レツゴー三匹 "wikilink")、高野久仁子
+  - 1972/10 - 1973/03 谷村新司
+  - 1973/04 - 1974/03 [林家小染](https://ja.wikipedia.org/wiki/林家小染_\(4代目\) "wikilink")、[末広真樹子](../Page/末広まきこ.md "wikilink")
+  - 1974/04 - 1975/03 林家小染、[桂きん枝](https://ja.wikipedia.org/wiki/桂きん枝 "wikilink")、麻田ルミ
+  - 1975/04 - 09 近藤光史、月亭八方、佐藤良子
+  - 1975/10 - 1976/03 近藤光史、桂きん枝、紀平まり子
+  - 1976/04 - 1984/03 **笑福亭鶴光、角淳一時代（第3次・金曜日から異動）**
+      - 1976/04 - 1977/09 笑福亭鶴光、角淳一、佐々木美絵
+      - 1977/10 - 1978/03 笑福亭鶴光、角淳一、原田伸郎、佐々木美絵
+      - 1978/04 - 1979/09 笑福亭鶴光、角淳一、佐々木美絵
+      - 1979/10 - 1982/03 笑福亭鶴光、角淳一、[石川優子](https://ja.wikipedia.org/wiki/石川優子 "wikilink")
+      - 1982/04 - 1983/03 笑福亭鶴光、角淳一、[石毛礼子](https://ja.wikipedia.org/wiki/石毛礼子 "wikilink")
+      - 1983/04 - 1984/03 笑福亭鶴光、角淳一、[西端弥生](https://ja.wikipedia.org/wiki/西端弥生 "wikilink")
+
+<!-- end list -->
+
+  - 1984/04 - 1987/07 **島田紳助時代**
+      - 1984/04 - 1985/09 [島田紳助](../Page/島田紳助.md "wikilink")、[白井貴子](https://ja.wikipedia.org/wiki/白井貴子_\(歌手\) "wikilink")、[パンチみつお](https://ja.wikipedia.org/wiki/パンチみつお "wikilink")
+      - 1985/10 - 1986/09 島田紳助、白井貴子、[土建屋よしゆき](https://ja.wikipedia.org/wiki/土建屋よしゆき "wikilink")、藤田寿代
+      - 1986/10 - 1987/03 島田紳助、[今井美樹](https://ja.wikipedia.org/wiki/今井美樹 "wikilink")、土建屋よしゆき、藤田寿代
+      - 1987/04 - 07 島田紳助、今井美樹、土建屋よしゆき
+  - 1987/08 - 1991/10 **ダウンタウン時代**
+      - 1987/08 - 1989/01 [ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")、[勇直子](https://ja.wikipedia.org/wiki/勇直子 "wikilink")、[今田耕司](https://ja.wikipedia.org/wiki/今田耕司 "wikilink")
+      - 1989/01 - 1990/04 ダウンタウン、芳本美代子、今田耕司
+      - 1990/04 - 10 ダウンタウン、[YOU](https://ja.wikipedia.org/wiki/YOU_\(タレント\) "wikilink")、今田耕司
+      - 1990/10 - 1991/04 ダウンタウン、YOU、[メンバメイ](https://ja.wikipedia.org/wiki/メンバメイコボルスミ11 "wikilink")・ココ
+      - 1991/04 - 10 ダウンタウン、YOU、[木村祐一](../Page/木村祐一.md "wikilink")
+  - 1991/10 - 1992/03 YOU、[ローリー寺西](https://ja.wikipedia.org/wiki/ROLLY "wikilink")、[きんた・ミーノ](https://ja.wikipedia.org/wiki/きんた・ミーノ "wikilink")
+  - 1992/04 - 09 [大竹まこと](https://ja.wikipedia.org/wiki/大竹まこと "wikilink")、YOU、ローリー寺西
+  - 1992/10 - 1993/03 [桂小枝](https://ja.wikipedia.org/wiki/桂小枝 "wikilink")、羽野晶紀、[千葉猛](https://ja.wikipedia.org/wiki/千葉猛 "wikilink")（毎日放送アナウンサー）
+  - 1993/04 - 12 桂小枝、羽野晶紀、[つんく](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")
+  - 1994/01 - 1995/09 [FUJIWARA](../Page/FUJIWARA.md "wikilink")、つんく、宮田まさみ、佐藤由香（おちゃめ組）（「ヤンタン あそびのWA\!\!」）
+  - 1995/10 - 1996/03 FUJIWARA、つんく、藤原みわ
+  - 1996/04 - 1997/03 よゐこ、松本麻希
+  - 1997/10 - 1999/03 ベイブルース高山、種浦マサオ、中村亜紀
+  - 1999/04 - 09 岡本真夜、[なるみ](https://ja.wikipedia.org/wiki/なるみ "wikilink")、[鳥羽潤](https://ja.wikipedia.org/wiki/鳥羽潤 "wikilink")
+
+### 金曜日
+
+  - 1971/04 - 09 [北山修](https://ja.wikipedia.org/wiki/北山修 "wikilink")、松尾千里
+  - 1971/10 - 1972/03 杉田二郎、横井くにえ
+  - 1972/04 - 09 杉田二郎、田中恵子
+  - 1972/10 - 1973/09 キャッシー、山本雄二
+  - 1973/10 - 1975/03 笑福亭鶴光、角淳一、佐々木美絵
+  - 1975/04 - 1975/09 [ばんばひろふみ](https://ja.wikipedia.org/wiki/ばんばひろふみ "wikilink")、[小山乃里子](https://ja.wikipedia.org/wiki/小山乃里子 "wikilink")
+  - 1975/10 - 1976/03 笑福亭鶴光、角淳一、佐々木美絵
+  - 1976/04 - 1977/03 [ピーター](https://ja.wikipedia.org/wiki/池畑慎之介 "wikilink")、キャッシー
+  - 1977/04 - 1978/03 ピーター、[鈴木美智子](https://ja.wikipedia.org/wiki/鈴木美智子 "wikilink")、伊東正治
+  - 1978/04 - 1986/12 **谷村新司、ばんばひろふみ時代**
+      - 1978/04 - 1983/03 谷村新司、ばんばひろふみ、佐藤良子
+          - 1981/04 - 09（第2部） [矢沢透](https://ja.wikipedia.org/wiki/矢沢透 "wikilink")、河本俊美
+          - 1981/10 - 1982/09（第2部） 矢沢透、[ジーン長尾](https://ja.wikipedia.org/wiki/ジーン長尾 "wikilink")
+          - 1982/10 - 1983/03（第2部） 矢沢透、牧田朋子
+      - 1983/04 - 1984/03 谷村新司、ばんばひろふみ、[岩崎良美](https://ja.wikipedia.org/wiki/岩崎良美_\(歌手\) "wikilink")
+          - 1983/04 - 09（第2部） 根本要、牧田朋子
+          - 1983/10 - 1984/03（第2部） 根本要、白井貴子
+      - 1984/04 - 1985/03 谷村新司、ばんばひろふみ、[三田寛子](https://ja.wikipedia.org/wiki/三田寛子 "wikilink")
+          - 1984/04 - 09（第2部） 長江健次、西端弥生
+      - 1985/04 - 1986/03 谷村新司、ばんばひろふみ、[松本明子](../Page/松本明子.md "wikilink")
+      - 1986/04 - 1986/12 谷村新司、ばんばひろふみ、佐藤良子
+          - 1986/10 - 1987/03（キンド館）[兵藤ゆき](../Page/兵藤ゆき.md "wikilink")、MAKOTO、[中川勝彦](https://ja.wikipedia.org/wiki/中川勝彦 "wikilink")、子守康範
+
+<!-- end list -->
+
+  -
+
+      -
+        「キンド館」は元々の番組企画段階では存在しなかったが、以前から、ヤンタンの大ファンだった兵藤ゆきの懇願により出来た番組。「キンド館」の名前の由来は、「金曜日と土曜日の間にやっている番組」という所から
+
+<!-- end list -->
+
+  - 1987/01 - 1990/09 **根本要時代（第1次）**
+      - 1987/01 - 12 根本要、野沢直子、中村里花
+          - 1987/04 - 12（キンド館） 兵藤ゆき、MAKOTO、[ひかる一平](https://ja.wikipedia.org/wiki/ひかる一平 "wikilink")、子守康範
+      - 1988/01 - 1990/09 根本要、野沢直子、笑福亭笑瓶
+          - 1988/01 - 1989/06（キンド館） [越前屋俵太](https://ja.wikipedia.org/wiki/越前屋俵太 "wikilink")、芳本美代子、[笑福亭恭瓶](https://ja.wikipedia.org/wiki/笑福亭恭瓶 "wikilink")、[亀山房代](https://ja.wikipedia.org/wiki/亀山房代 "wikilink")
+          - 1989/07 - 1990/03（キンド館） [BaBe](https://ja.wikipedia.org/wiki/BaBe "wikilink")（近藤智子・二階堂ゆかり）、[東野幸治](https://ja.wikipedia.org/wiki/東野幸治 "wikilink")、[石田靖](https://ja.wikipedia.org/wiki/石田靖 "wikilink")
+  - 1990/10 - 1993/03 **今田耕司、東野幸治時代**
+      - 1990/10 - 1991/03 今田耕司、東野幸治、[中村綾](https://ja.wikipedia.org/wiki/中村綾 "wikilink")、加藤康裕
+      - 1991/04 - 1992/03 今田耕司、東野幸治、中村綾 → [設楽りさ子](https://ja.wikipedia.org/wiki/三浦りさ子 "wikilink")
+      - 1992/04- 09 今田耕司、東野幸治、[加藤貴子](https://ja.wikipedia.org/wiki/加藤貴子_\(女優\) "wikilink")、[加藤紀子](https://ja.wikipedia.org/wiki/加藤紀子 "wikilink")（7月以降）
+      - 1992/10 - 1993/03 [細川ふみえ](https://ja.wikipedia.org/wiki/細川ふみえ "wikilink")、高橋由美子、[羽田恵理香](https://ja.wikipedia.org/wiki/はねだえりか "wikilink")（CoCo・当時）、[三浦理恵子](https://ja.wikipedia.org/wiki/三浦理恵子 "wikilink")（CoCo・当時）、今田耕司、東野幸治
+
+<!-- end list -->
+
+  -
+
+      -
+        この時期は女性アイドルを番組のメインに据え、今田・東野はサブに回っていた
+
+<!-- end list -->
+
+  - 1993/04 - 12 細川ふみえ、高橋由美子、羽田恵理香、[吉田真希子](https://ja.wikipedia.org/wiki/吉田真希子_\(タレント\) "wikilink")、[TEAM-0](https://ja.wikipedia.org/wiki/TEAM-0 "wikilink")（[山崎邦正](../Page/月亭方正.md "wikilink")、[軌保博光](https://ja.wikipedia.org/wiki/軌保博光 "wikilink")）、[布施辰徳](https://ja.wikipedia.org/wiki/布施辰徳 "wikilink")
+  - 1995/10 - 1996/03 トミーズ、週代わりゲスト
+  - 1996/04 - 1997/03 トミーズ、[川村結花](../Page/川村結花.md "wikilink")、[トクトミトコナミ](https://ja.wikipedia.org/wiki/トクトコ "wikilink")
+  - 1997/04 - 1999/03 よゐこ、松本麻希
+  - 1999/04 - 09 [山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")、[遠山景織子](https://ja.wikipedia.org/wiki/遠山景織子 "wikilink")
+  - 2018/04 - [谷村新司](https://ja.wikipedia.org/wiki/谷村新司 "wikilink")、[堀内孝雄](../Page/堀内孝雄.md "wikilink")、[矢沢透](https://ja.wikipedia.org/wiki/矢沢透 "wikilink")（[アリス](https://ja.wikipedia.org/wiki/アリス_\(フォークグループ\) "wikilink")）
+
+### 土曜日
+
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")3月までは、MBS千里丘放送センター内の第一スタジオ（のちに[ミリカホール](https://ja.wikipedia.org/wiki/ミリカホール "wikilink")に変更）で公開録音。同年4月以降は、非公開でのスタジオ収録に移行した。現在は、MBS東京支社スタジオで毎週金曜日に収録。
+
+  - 1971/04 - 1979/12 **桂三枝時代**
+      - 1971/04 - 1971/09 桂三枝、斎藤努、週替わりゲスト、桂朝丸（現・[桂ざこば](https://ja.wikipedia.org/wiki/桂ざこば_\(2代目\) "wikilink")）、ジローズ（隔週で[TBSラジオ](../Page/TBSラジオ.md "wikilink")制作・[ヤングタウンTOKYO](https://ja.wikipedia.org/wiki/ヤングタウンTOKYO "wikilink")）
+      - 1971/10 - 1972/03 桂三枝、斎藤努
+      - 1972/04 - 09 桂三枝、近藤光史、亀本友子
+      - 1972/10 - 1973/09 桂三枝、近藤光史
+      - 1973/10 - 1974/09 桂三枝、近藤光史、桂きん枝、海原千里・万里
+      - 1974/10 - 1975/03 桂三枝、近藤光史、月亭八方、[コメディNo.1](https://ja.wikipedia.org/wiki/コメディNo.1 "wikilink")（[坂田利夫](../Page/坂田利夫.md "wikilink")・[前田五郎](https://ja.wikipedia.org/wiki/前田五郎 "wikilink")）
+      - 1975/04 - 09 桂三枝、近藤光史、月亭八方、笑福亭鶴瓶、[林家染二](https://ja.wikipedia.org/wiki/林家染丸_\(4代目\) "wikilink")、[桂文福](https://ja.wikipedia.org/wiki/桂文福 "wikilink")、鬼塚泰子
+      - 1975/10 - 1976/03 桂三枝、月亭八方、[大地真央](https://ja.wikipedia.org/wiki/大地真央 "wikilink")
+      - 1976/04 - 1977/03 桂三枝、月亭八方、中村京子
+      - 1977/04 - 09 桂三枝、月亭八方、中村京子、[太平サブロー](https://ja.wikipedia.org/wiki/大平サブロー "wikilink")、[シロー](https://ja.wikipedia.org/wiki/大平シロー "wikilink")
+      - 1977/10 - 1979/03 桂三枝、月亭八方、やしきたかじん、中村京子
+      - 1979/04 - 09 桂三枝、月亭八方、明石家さんま、中村京子、中村行延、桂三と九、タロー＆タロー
+      - 1979/10 - 12 桂三枝、月亭八方、明石家さんま、中村京子、桂三と九、島田紳助、[松本竜介](https://ja.wikipedia.org/wiki/松本竜介 "wikilink")
+  - 1979/12 - 1982/03 **明石家さんま時代（第1次）**
+      - 1979/12 - 1980/03 明石家さんま、月亭八方、中村京子、桂三と九、島田紳助、松本竜介
+      - 1980/04 - 09 明石家さんま、オール阪神・巨人、松田晃、桂三と九、鈴江真理（[関岡香](https://ja.wikipedia.org/wiki/関岡香 "wikilink")アナの姉）
+      - 1980/10 - 1981/09 明石家さんま、オール阪神・巨人、松田晃、長江健次、[桂小つぶ](https://ja.wikipedia.org/wiki/桂枝光 "wikilink")、榊原久美子
+      - 1981/10 - 1982/03 明石家さんま、オール阪神・巨人、松田晃、安藤久美子
+  - 1982/04 - 1988/12 **笑福亭鶴瓶時代（第2次・月曜日から異動）**
+      - 1982/04 - 1983/03 笑福亭鶴瓶、松田晃、安藤久美子
+      - 1983/04 - 09 笑福亭鶴瓶、笑福亭笑瓶、松田晃、黒田伊佐子、安藤久美子
+      - 1983/10 - 1984/09 笑福亭鶴瓶、笑福亭笑瓶、松田晃、黒田伊佐子、牧田朋子
+      - 1984/10 - 1985/03 笑福亭鶴瓶、笑福亭笑瓶、牧田朋子、ザ・バッテリー
+      - 1985/04 - 09 笑福亭鶴瓶、西端弥生
+      - 1985/10 - 1986/03 笑福亭鶴瓶、西端弥生、[森脇健児](https://ja.wikipedia.org/wiki/森脇健児 "wikilink")
+      - 1986/04 - 09 笑福亭鶴瓶、[宮崎ますみ](https://ja.wikipedia.org/wiki/宮崎ますみ "wikilink")、森脇健児
+      - 1986/10 - 1988/01 笑福亭鶴瓶、宮崎ますみ、[吉條英希](https://ja.wikipedia.org/wiki/吉條英希 "wikilink")
+      - 1988/02 - 12 笑福亭鶴瓶、福井希容（[柳いろは](https://ja.wikipedia.org/wiki/柳いろは "wikilink")・[ゆり菜姉妹の母](https://ja.wikipedia.org/wiki/柳ゆり菜 "wikilink")）、[ビッグブラザーズ](https://ja.wikipedia.org/wiki/ビッグブラザーズ "wikilink")
+  - 1989/01 - 09 北野誠、[関口誠人](https://ja.wikipedia.org/wiki/関口誠人 "wikilink")、福井希容
+  - 1989/10 - 1990/09 北野誠、関口誠人、羽野晶紀
+  - 1990/10 - 1991/03 北野誠、古田新太、羽野晶紀、きんた・ミーノ
+  - 1991/04 - 10 北野誠、[シンデレラエキスプレス](https://ja.wikipedia.org/wiki/シンデレラエキスプレス "wikilink")、[久松史奈](https://ja.wikipedia.org/wiki/久松史奈 "wikilink")
+  - 1991/10 - 1992/09 兵藤ゆき、たまごどんぶり（公募で選ばれた現役中高生）
+  - 1992/10 - 現在 **明石家さんま時代（第4次・日曜日「スペシャルサンデー」より異動）**
+      - 1992/10 - 1997/02 明石家さんま、[玉井健二](https://ja.wikipedia.org/wiki/玉井健二 "wikilink")、加藤紀子、[村上ショージ](https://ja.wikipedia.org/wiki/村上ショージ "wikilink")（ゲストとして、頻繁に出演。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")頃から正式にレギュラーへ定着）
+      - 1997/03 - 1999/03 明石家さんま、玉井健二、村上ショージ、[吉村麻希](https://ja.wikipedia.org/wiki/吉村麻希 "wikilink")（[マキ凛子](https://ja.wikipedia.org/wiki/マキ凛子 "wikilink")）
+      - 1999/04 - 2000/09 明石家さんま、玉井健二、村上ショージ、[太陽とシスコムーン](https://ja.wikipedia.org/wiki/太陽とシスコムーン "wikilink")（のちに「T\&Cボンバー」に改名。[信田美帆](../Page/信田美帆.md "wikilink")、[稲葉貴子](../Page/稲葉貴子.md "wikilink")、[RuRu](https://ja.wikipedia.org/wiki/RuRu "wikilink")、[小湊美和](https://ja.wikipedia.org/wiki/小湊美和 "wikilink")）
+      - 2000/10 - 2002/03 明石家さんま、玉井健二、村上ショージ、[安倍なつみ](../Page/安倍なつみ.md "wikilink")、[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")、[りんね](https://ja.wikipedia.org/wiki/りんね "wikilink")
+      - 2002/04 - 2003/03 明石家さんま、玉井健二、村上ショージ、[中澤裕子](../Page/中澤裕子.md "wikilink")、[松浦亜弥](../Page/松浦亜弥.md "wikilink")、[カントリー娘。](../Page/カントリー娘。.md "wikilink")（準レギュラー。りんね、[あさみ](https://ja.wikipedia.org/wiki/あさみ "wikilink")、[里田まい](https://ja.wikipedia.org/wiki/里田まい "wikilink")。りんねは途中降板）
+      - 2003/04 - 2004/04 明石家さんま、玉井健二、村上ショージ、中澤裕子、あさみ、里田まい、準レギュラー（[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")、[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")、[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")の中から、1人）
+      - 2004/04 - 06 明石家さんま、玉井健二、村上ショージ、準レギュラー（[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")、高橋愛、後藤真希、[柴田あゆみ](../Page/柴田あゆみ.md "wikilink")、稲葉貴子の中から、2人）
+      - 2004/07 - 11 明石家さんま、玉井健二、村上ショージ、安倍なつみ、準レギュラー（藤本美貴、高橋愛、後藤真希、柴田あゆみの中から、1、2人）
+      - 2004/12 - 2006/03 明石家さんま、玉井健二、村上ショージ、準レギュラー（藤本美貴、高橋愛、後藤真希、柴田あゆみの中から2人。後期は藤本、高橋が実質レギュラー）
+      - 2006/04 - 2007/03 明石家さんま、玉井健二、村上ショージ、藤本美貴、高橋愛
+      - 2007/04 - 06/02 明石家さんま、村上ショージ、藤本美貴、高橋愛
+      - 2007/06/09 - 2009/10/03 明石家さんま、村上ショージ、高橋愛、[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")
+      - 2009/10/10 - 2011/09 明石家さんま、村上ショージ、高橋愛、道重さゆみ、週替わりレギュラー（藤本美貴、保田圭、[吉澤ひとみ](https://ja.wikipedia.org/wiki/吉澤ひとみ "wikilink")、中澤裕子の中から1人）
+      - 2011/10 - 2012/03 明石家さんま、村上ショージ、道重さゆみ、週替わりレギュラー（藤本美貴、保田圭、吉澤ひとみ、中澤裕子、高橋愛の中から1 、2人）
+      - 2012/04 - 2013/03 明石家さんま、村上ショージ、道重さゆみ、[光井愛佳](https://ja.wikipedia.org/wiki/光井愛佳 "wikilink")、週替わりレギュラー（藤本美貴、保田圭、吉澤ひとみ、中澤裕子、高橋愛の中から1人）
+      - 2013/04 - 2014/11/22 明石家さんま、村上ショージ、道重さゆみ、[飯窪春菜](https://ja.wikipedia.org/wiki/飯窪春菜 "wikilink")、週替わりゲスト（上記の週替わりレギュラーを含む）
+      - 2014/11/29 - 2015/12 明石家さんま、村上ショージ、[鞘師里保](https://ja.wikipedia.org/wiki/鞘師里保 "wikilink")、飯窪春菜、週替わりゲスト
+      - 2016/01 - 2017/12/09 明石家さんま、村上ショージ、飯窪春菜、[工藤遥](https://ja.wikipedia.org/wiki/工藤遥 "wikilink")、週替わりゲスト
+      - 2017/12/16 - 明石家さんま、村上ショージ、飯窪春菜、[横山玲奈](https://ja.wikipedia.org/wiki/横山玲奈 "wikilink")、週替わりゲスト
+
+### 日曜日
+
+[1982年](../Page/1982年.md "wikilink")4月から放送開始。笑福亭鶴瓶がパーソナリティを務める1999年以降は「すわるラジオ」と称して、街頭で収録した時期があった。現在は基本として、MBS本社（または東京支社）のスタジオで収録した内容を放送。不定期で生放送を実施する場合がある。
+
+  - 1982/04 - 1989/08 [西川のりお](https://ja.wikipedia.org/wiki/西川のりお "wikilink")、[小林千絵](https://ja.wikipedia.org/wiki/小林千絵 "wikilink") 、[柏木宏之](https://ja.wikipedia.org/wiki/柏木宏之 "wikilink")（毎日放送アナウンサー）
+  - 1989/08 - 1990/10 西川のりお、[澤知香](https://ja.wikipedia.org/wiki/さわともか "wikilink")、柏木宏之、[西川小のり](https://ja.wikipedia.org/wiki/西川小のり "wikilink")
+  - 1990/10 - 1991/09 [兵藤ゆき](../Page/兵藤ゆき.md "wikilink")、たまごどんぶり（公募で選ばれた現役高校生）
+  - 1991/10 - 1992/09 **「ヤンタン スペシャルサンデー」時代**
+      - 明石家さんま、石田敦子（「ヤンタン スペシャルサンデー 明石家さんまのなんでもこい\!」22:00 - 23:00）
+      - [浜村淳](https://ja.wikipedia.org/wiki/浜村淳 "wikilink")、関岡香（毎日放送アナウンサー）（「ヤンタン スペシャルサンデー 浜村淳の茶屋町クスクス」23:00 - 23:45；1993年3月まで）
+  - 1992/10 - 1994/12 ぜんじろう、種浦マサオ、小高紀子（現・[小高麻友美](https://ja.wikipedia.org/wiki/小高麻友美 "wikilink")）、[お笑い番長](https://ja.wikipedia.org/wiki/たいぞう "wikilink")
+
+<!-- end list -->
+
+  -
+
+      -
+        1993年3月までは公開収録形式で、23:00まで放送。それ以降は、スタジオからの放送を復活した。
+
+<!-- end list -->
+
+  - 1995/01 - 1996/10 ぜんじろう、[比嘉栄昇](https://ja.wikipedia.org/wiki/比嘉栄昇 "wikilink")（[BEGIN](https://ja.wikipedia.org/wiki/BEGIN_\(バンド\) "wikilink")）、[渡辺たかね](https://ja.wikipedia.org/wiki/渡辺たかね "wikilink")
+  - 1996/10 - 1997/09 ぜんじろう、 ベイブルース高山、[高木郁乃](https://ja.wikipedia.org/wiki/高木郁乃 "wikilink")（[Jungle Smile](https://ja.wikipedia.org/wiki/Jungle_Smile "wikilink")）
+  - 1997/10 - 1999/03 ぜんじろう、[宮内見](https://ja.wikipedia.org/wiki/宮内見 "wikilink")、週代わりゲスト
+  - 1999/04 - 現在 **笑福亭鶴瓶時代（第3次）**
+      - 1999/04 - 2000/09 笑福亭鶴瓶、[西靖](https://ja.wikipedia.org/wiki/西靖 "wikilink")（毎日放送アナウンサー）、[堀ちえみ](https://ja.wikipedia.org/wiki/堀ちえみ "wikilink")
+      - 2000/09 - 2004/03 笑福亭鶴瓶、西靖、[松嶋尚美](https://ja.wikipedia.org/wiki/松嶋尚美 "wikilink")（[オセロ](../Page/オセロ_\(お笑い\).md "wikilink")）
+      - 2004/04 - 2006/04 笑福亭鶴瓶、西靖、[井上智栄子](https://ja.wikipedia.org/wiki/井上智栄子 "wikilink")
+      - 2006/04 - 2007/03 笑福亭鶴瓶、西靖、[オラリー](https://ja.wikipedia.org/wiki/オラリー "wikilink")（素人）、[田口万莉](https://ja.wikipedia.org/wiki/田口万莉 "wikilink")、[國丸純](https://ja.wikipedia.org/wiki/國丸純 "wikilink")
+      - 2007/04 - 2009/04 笑福亭鶴瓶、西靖、オラリー、田口万莉、[笑福亭瓶成](https://ja.wikipedia.org/wiki/笑福亭べ瓶 "wikilink")
+      - 2009/05 - 07 笑福亭鶴瓶、西靖、オラリー、田口万莉
+      - 2009/08 - 2010/02 笑福亭鶴瓶、西靖、負け越し（素人）、林実里（素人）、田口万莉
+      - 2010/03 - 09 笑福亭鶴瓶、西靖、負け越し、田口万莉
+      - 2010/09 - 2014/01 笑福亭鶴瓶、[吉竹史](https://ja.wikipedia.org/wiki/吉竹史 "wikilink")（毎日放送アナウンサー・当時）、負け越し、田口万莉、[桂三四郎](https://ja.wikipedia.org/wiki/桂三四郎 "wikilink")
+      - 2014/01 - 2016/06 笑福亭鶴瓶、[福島暢啓](https://ja.wikipedia.org/wiki/福島暢啓 "wikilink")（毎日放送アナウンサー）、負け越し、田口万莉、桂三四郎
+      - 2016/07 - 笑福亭鶴瓶、福島暢啓、田口万莉、[三遊亭とむ](https://ja.wikipedia.org/wiki/三遊亭とむ "wikilink")
+
+## 毎日放送開局60周年記念番組 MBSヤングタウン スペシャル
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月30日](../Page/8月30日.md "wikilink")から[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")まで放送された。
+
+  - 8月30日「さんまのヤンタン スペシャル」
+      - 明石家さんま、村上ショージ、大津びわ子、藤本美貴、伊東正治
+  - 8月31日「伸郎のヤンタン スペシャル ねたナイト」
+      - 原田伸郎、嘉門達夫、奥野敦子（イリア）
+  - 9月1日「ヤンタン スペシャル なつかしSONGリクエスト\!」
+      - 根本要、渡辺美里、バーバラよね
+  - 9月2日「ヤンタン スペシャル なつかしSONGリクエスト\!」
+      - ばんばひろふみ、イルカ
+  - 9月3日「鶴瓶のヤンタン スペシャル」
+      - 笑福亭鶴瓶、西靖（毎日放送アナウンサー）、田口万莉、負け越し（素人）、吉竹史（毎日放送アナウンサー・当時）
+
+## 『復活\! 桂三枝の歌え\! MBSヤングタウン』
+
+当番組で三枝と長らく共演した後に、[羽衣国際大学](https://ja.wikipedia.org/wiki/羽衣国際大学 "wikilink")で[名誉教授](https://ja.wikipedia.org/wiki/名誉教授 "wikilink")になった斎藤努が、久々にラジオ番組へ出演。三枝のパートナーとして、公開収録の進行役を務めた。月亭八方、桂きん枝、杉田二郎などがゲストで登場。
+
+かつて当番組で使われたジングルや音源を挿入し、『歌え\! MBSヤングタウン』時代の企画を復活。杉田が、歌と演奏を披露した。
+三枝は当番組の放送の翌々日（[2012年](../Page/2012年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")）に「六代 桂文枝」を襲名。当番組が「桂三枝」名義で出演する最後の番組になった。
+
+オープニングは、西靖が、口上代わりのナレーションを担当した。
+
+## 『MBSヤングタウン　50年クロニクル』
+
+[2017年](../Page/2017年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")（日曜日）の20:00 - 23:30に、事前収録方式で放送。放送時点で日曜版のアシスタントを務める[福島暢啓](https://ja.wikipedia.org/wiki/福島暢啓 "wikilink")（毎日放送アナウンサー） がスタジオ進行を担当したほか、平日版のパーソナリティ経験者である原田伸郎・嘉門タツオ・伊東正治や、 放送時点で『[ヤマヒロのぴかいちラジオ](https://ja.wikipedia.org/wiki/ヤマヒロのぴかいちラジオ "wikilink")』『[茶屋町ヤマヒロ会議](https://ja.wikipedia.org/wiki/茶屋町ヤマヒロ会議 "wikilink")』（いずれもMBSラジオ）のパーソナリティを務める[山本浩之](https://ja.wikipedia.org/wiki/山本浩之_\(アナウンサー\) "wikilink")（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")）をスタジオゲストに迎えた。
+
+また、前述の出演者によるスタジオパートとは別に、平日版のパーソナリティコンビ（桂文枝・斎藤努、角淳一・笑福亭鶴光、明石家さんま・大津びわ子、谷村新司・佐藤良子）、平日版パーソナリティの1人だった根本要、放送時点での日曜版レギュラー出演者（福島・笑福亭鶴瓶・田口万莉・三遊亭とむ）が登場する「スペシャルトーク」を収録。事前の募集を通じてリスナーから寄せられた秘蔵音源、平日版の放送から生まれたヒット曲、往年のリスナーやつんく♂からのメッセージも交えながら、50年の歴史を時代ごとに紐解いていた\[16\]。
+
+## 主なスタッフ
+
+  - [渡邊一雄](https://ja.wikipedia.org/wiki/渡邊一雄_\(プロデューサー\) "wikilink")（わたなべ かずお）
+      -
+        「ヤンタン」の生みの親（創始者）。[1967年](../Page/1967年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の『**歌え\! MBSヤングタウン**』の放送を開始してから、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")にテレビ制作部の部長職へ異動するまで、20年間にわたって[プロデューサー](../Page/プロデューサー.md "wikilink")を務めた。
+        出演した多くの[タレント](../Page/タレント.md "wikilink")・[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の育ての親もあり、後述する渡辺姓のスタッフと区別する意味で、**オオナベさん**とも呼ばれていた。
+        テレビ制作部への異動後は一時期、次長職で、ラジオ局に復帰。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月](../Page/6月.md "wikilink")に、MBSを定年退職。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に『ヤンタンの時代。』を刊行した（発行：[キッズネット](https://ja.wikipedia.org/wiki/キッズネット_\(企業\) "wikilink")・発売：[角川書店](../Page/角川書店.md "wikilink")。2005年7月発行。書籍コード：ISBN 4048943405）。
+        [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月11日](../Page/10月11日.md "wikilink")、75歳で逝去。同年12月6日に[シアターBRAVA\!](https://ja.wikipedia.org/wiki/シアターBRAVA! "wikilink")で開かれた渡邊の「偲ぶ会」には、歴代パーソナリティの三枝、谷村、当時活動を休止していた[CHAGE and ASKAが久々に顔を揃えた](https://ja.wikipedia.org/wiki/CHAGE_and_ASKA "wikilink")\[17\]。
+  - [渡辺高志](https://ja.wikipedia.org/wiki/渡辺高志 "wikilink")（わたなべ たかし）
+      -
+        [1979年](../Page/1979年.md "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")まで、ディレクターを担当。**コナベさん**という通称でも知られた。
+
+この他にも、[大谷武文](https://ja.wikipedia.org/wiki/大谷武文 "wikilink")、[田中文夫](https://ja.wikipedia.org/wiki/田中文夫 "wikilink")、宇野幹雄、増谷勝己、[影山貴彦](https://ja.wikipedia.org/wiki/影山貴彦 "wikilink")、[三村景一](https://ja.wikipedia.org/wiki/三村景一 "wikilink")、[新堂裕彦](https://ja.wikipedia.org/wiki/新堂裕彦 "wikilink")、[神津梓](https://ja.wikipedia.org/wiki/神津梓 "wikilink")などが、ディレクターやプロデューサーを歴任。1970年代から1980年代までは、『ヤングおー\!おー\!』のスタッフから[放送作家](https://ja.wikipedia.org/wiki/放送作家 "wikilink")に転じた[寺崎要](https://ja.wikipedia.org/wiki/寺崎要 "wikilink")が、番組全体を統括するチーフ構成の任に当たっていた。
+
+## エピソード
+
+  - 1968年1月から始まった「ヤンタン 今月の歌」では、通算52曲のオリジナルソングを発表した\[18\]。放送終了した1982年4月には「今月の歌」をまとめた『ヤンタン ソング集』が、[ミリカ音楽出版から刊行](https://ja.wikipedia.org/wiki/ミリカ・ミュージック "wikilink")\[19\]。『**歌え\! MBSヤングタウン**』の放送開始から25周年に当たる1993年4月15日には「今月の歌」から19曲を収めたCDアルバム『MBSヤングタウン 今月のうた』が[ポリスター](https://ja.wikipedia.org/wiki/ポリスター "wikilink")から発売されている（[EANコード](../Page/EANコード.md "wikilink")：4988023022321）。
+      - 「今月の歌」から『[戦争を知らない子供たち](https://ja.wikipedia.org/wiki/戦争を知らない子供たち_\(曲\) "wikilink")』（[ジローズ](https://ja.wikipedia.org/wiki/ジローズ "wikilink")、1970年8月放送分）などヒット曲を輩出。谷村（ロック・キャンディーズ→アリス）、杉田二郎（ジローズ）、北山修（ザ・フォーク・クルセダーズ）、[はしだのりひこ](https://ja.wikipedia.org/wiki/はしだのりひこ "wikilink")（ザ・フォーク・クルセダーズ→[はしだのりひことシューベルツ](https://ja.wikipedia.org/wiki/はしだのりひことシューベルツ "wikilink")）、[桑名正博](https://ja.wikipedia.org/wiki/桑名正博 "wikilink")（ファニー・カンパニー）、西岡たかし（[五つの赤い風船](https://ja.wikipedia.org/wiki/五つの赤い風船 "wikilink")）、[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")などが作詞・作曲・編曲に関わっていた\[20\]。
+        当時のパーソナリティだった三枝は「桂三枝とダボーズ」名義で発表した『夕陽のアンジェロ』（1969年8月放送分）で歌手デビューを果たしている\[21\]。
+      - 『[嘆きのボイン](https://ja.wikipedia.org/wiki/嘆きのボイン "wikilink")』（[月亭可朝](https://ja.wikipedia.org/wiki/月亭可朝 "wikilink")）、『恋人もいないのに』（[シモンズ](https://ja.wikipedia.org/wiki/シモンズ_\(歌手\) "wikilink")）、『坊や大きくならないで』（マイケルズ）も、当番組から生まれたヒット曲である。
+
+<!-- end list -->
+
+  - 公開収録を実施していた1968年、1970年、1971年には、当番組と縁の深い歌手やバンドの出演による「ヤンタンフェスティバル」を、年に1～2回開催。1970年1月7日に[フェスティバルホール](https://ja.wikipedia.org/wiki/フェスティバルホール "wikilink")で開かれた第2回については開催後、実況録音盤のレコードを発売した\[22\]。
+
+<!-- end list -->
+
+  - 1981年5月28日には「ど角・ど鶴のええか、ええかコンサート」（前述）、1985年と1987年の8月には「明石家さんまコンサート」、1988年6月にはダウンタウンによる「もくもくコンサート」をそれぞれ開催。1988年には「ヤン金」レギュラーだった根本・野沢などが「フライデーモンスターズ」というバンドを結成した。1989年には、当時の「ヤン土」レギュラー（北野、関口など）で結成したバンドが12月24日の「クリスマス御陽気にコンサート」でライブデビューを果たしている\[23\]。
+
+<!-- end list -->
+
+  - 1983年と1986年～1988年の5月には、「ヤンタン オールスターズ」と芸能人チーム（1983年：[松山千春](../Page/松山千春.md "wikilink")チーム「スーパースターズ」／1986年：[チェッカーズ](../Page/チェッカーズ.md "wikilink")チーム／1987年：[とんねるず](../Page/とんねるず.md "wikilink")チーム／1988年：[仲村トオル](https://ja.wikipedia.org/wiki/仲村トオル "wikilink")チーム「デンジャーズ」）による「ヤンタン野球大会」を[西宮球場](../Page/阪急西宮スタジアム.md "wikilink")（1983年）、[甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")（1986年）、[大阪スタヂアム](https://ja.wikipedia.org/wiki/大阪スタヂアム "wikilink")（1987年・1988年）で実施。当時の「ヤン月」レギュラーでスポーツアナウンサーでもあった伊東が場内で実況を担当した。また、開催日の深夜には、MBSテレビで特別番組の生放送を実施した。
+
+<!-- end list -->
+
+  - 当番組でレギュラーを務めたMBSアナウンサー（出演時点）のうち、出演期間が最も長いのは角と伊東である（いずれも12年間）。
+
+<!-- end list -->
+
+  - 紳助が「ヤン木」のパーソナリティを務めていた1985年8月には、[生駒山](https://ja.wikipedia.org/wiki/生駒山 "wikilink")上で「ヤン木 [モトクロス](https://ja.wikipedia.org/wiki/モトクロス "wikilink")フェスティバル」を開催している\[24\]。
+
+<!-- end list -->
+
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月12日](../Page/8月12日.md "wikilink")は『[オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の午後の収録が予定より早く終わったため、さんまは同夜のヤンタン出演のために予約していた[羽田空港発](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")・[伊丹空港行きの](https://ja.wikipedia.org/wiki/大阪国際空港 "wikilink")[JAL便を](../Page/日本航空.md "wikilink")1本早い[ANA便に切り替えて大阪入りしたが](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")、この時にキャンセルした伊丹行きJAL便こそが[御巣鷹の尾根](https://ja.wikipedia.org/wiki/御巣鷹の尾根 "wikilink")に墜落した[JAL123便であり](https://ja.wikipedia.org/wiki/日本航空123便墜落事故#著名人やその関係者 "wikilink")、さんまは間一髪で同墜落事故の難を逃れる事となった。しかし、さんまがこの墜落事故で受けたショックはかなり大きく、以後、東京と大阪の往来では[東海道新幹線](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")を利用するようになった。当日の放送でさんまは「今日はあほなこと言う気にならん」と終始低いテンションで放送を続けた。各コーナーも休止の上、内容のほとんどを関連ニュースに変更し、ニュース以外はこの番組には珍しく、さんまがリクエストした曲を流すという進行となった。この時、長江が空気を読まずに自分が歌っていた「ハイスクールララバイ」をリクエストしたところ、さんまから「お前、こんな日にしょうもない歌流しやがって。そんなやから欽ちゃん（[萩本欽一](../Page/萩本欽一.md "wikilink")）にも愛想尽かされるんじゃ」とまじめに説教された\[25\]。
+
+<!-- end list -->
+
+  - [1989年](../Page/1989年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")に千里丘放送センターで開催の「ヤンタンTeen's 学園祭」では、長らく「ヤン日」のアシスタントを務めた小林千絵の後任を決める目的で「ヤン日オーディション」を実施。オーディションで優勝した現役高校生の澤が同月から1990年9月まで「ヤン日」のアシスタントを務めた（前述）。また、1990年春には「ヤン土」でも同様のオーディションを実施。そこで選ばれた現役中高生が「たまごどんぶり」名義で同年4月から半年間レギュラー出演していた\[26\]。
+
+<!-- end list -->
+
+  - 笑福亭笑光時代から断続的に出演していた嘉門達夫は平日版放送終了後の2015年に「自伝的青春小説」という触れ込みで『[丘の上の綺羅星](http://www.gentosha.co.jp/book/b9224.html)』を[幻冬舎](https://ja.wikipedia.org/wiki/幻冬舎 "wikilink")から発売（ISBN 978-4344028326）。当番組にまつわる自身の経験、芸能人としての自身のルーツ、渡邊一雄が逝去する直前収録したインタビューの内容などを交えながら、「伝説のラジオ番組『ヤングタウン』に育てられたある男の物語」を綴っている。
+
+<!-- end list -->
+
+  - 毎日放送のラジオ本放送開始65周年に当たる2016年には、1990年代の中盤に木曜日でパーソナリティを務めたつんく♂が、65周年記念企画の一環でMBSラジオのステーションソングを制作。つんく♂のメジャーデビュー前に平日版の放送で人気を博した「ハッピートゥデー」（リスナーが生放送中に電話でパーソナリティとのトークに参加できるコーナー）にちなんで、「Thank you\! Happy today\! ～MBSラジオのうた～」というタイトルを冠した\[27\] ほか、『ヤンタン』シリーズでのレギュラー経験を持つ浜村・近藤光史・子守・鳥居・上泉・松井愛がボーカルで参加した\[28\]。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考資料
+
+  - 渡邊一雄著『ヤンタンの時代。』（詳細は、[\#主なスタッフ](https://ja.wikipedia.org/wiki/#主なスタッフ "wikilink")を参照）
+  - なつかしラジオ大全（『三才ムック』vol.505。2012年6月28日発売・7月1日発行、[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")）ISBN 4861994829
+
+## 関連項目
+
+  - [MBSラジオ番組一覧](https://ja.wikipedia.org/wiki/MBSラジオ番組一覧 "wikilink")
+  - [ヤンタン茶屋町学園](https://ja.wikipedia.org/wiki/Radio_THIS "wikilink") - 1992年10月から1993年3月まで、日曜日の深夜に放送された姉妹番組。1993年4月から「ヤン水」へ移行。
+  - [MBSミュージックタウン](https://ja.wikipedia.org/wiki/MBSミュージックタウン "wikilink") - 1992年度のナイターオフ期間に、当番組の前枠で放送された姉妹番組。「MBSヤングタウンのテーマ」のテクノバージョンをオープニング曲に使用。
+  - [歌え！ MBSヤングタウン同窓会](https://ja.wikipedia.org/wiki/MBS千里丘フェスティバル・ファイナル#歌え！MBSヤングタウン "wikilink") - 毎日放送千里丘放送センターの解体を前に、「MBS千里丘フェスティバル」の一環で放送された公開収録番組。齋藤努・桂三枝らが出演。
+
+## 外部リンク
+
+  - [ヤングタウン土曜日](http://mbs1179.com/yando/) - 毎回の収録直後に更新される「message（ヤン土スタッフメッセージボード）」で、収録回の出演者や放送内容を発表。
+  - [ヤングタウン日曜日](http://mbs1179.com/yan_sun/) - 放送済みの音源を、ほぼ全編にわたって、放送の翌週から[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")内のMBSラジオ公式チャンネルで順次配信。
+  - [MBSヤングタウン　50年クロニクル](http://www.mbs1179.com/youngtown50/) - 『歌え\!MBSヤングタウン』の放送開始から2017年12月時点までのレギュラーパーソナリティ全員の一覧表をPDFファイルで公開。
+
+[Category:MBSヤングタウン](https://ja.wikipedia.org/wiki/Category:MBSヤングタウン "wikilink") [Category:ローカルラジオ局の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組の歴史 "wikilink") [Category:お笑い芸人のラジオ番組](https://ja.wikipedia.org/wiki/Category:お笑い芸人のラジオ番組 "wikilink") [Category:桂文枝_(6代目)](https://ja.wikipedia.org/wiki/Category:桂文枝_\(6代目\) "wikilink") [Category:大地真央](https://ja.wikipedia.org/wiki/Category:大地真央 "wikilink") [Category:明石家さんま](https://ja.wikipedia.org/wiki/Category:明石家さんま "wikilink") [Category:やしきたかじん](https://ja.wikipedia.org/wiki/Category:やしきたかじん "wikilink") [Category:よゐこ](https://ja.wikipedia.org/wiki/Category:よゐこ "wikilink") [Category:谷村新司](https://ja.wikipedia.org/wiki/Category:谷村新司 "wikilink") [Category:島田紳助](https://ja.wikipedia.org/wiki/Category:島田紳助 "wikilink") [Category:ダウンタウン](https://ja.wikipedia.org/wiki/Category:ダウンタウン "wikilink") [Category:今田耕司](https://ja.wikipedia.org/wiki/Category:今田耕司 "wikilink") [Category:つんく](https://ja.wikipedia.org/wiki/Category:つんく "wikilink") [Category:笑福亭鶴瓶](https://ja.wikipedia.org/wiki/Category:笑福亭鶴瓶 "wikilink") [Category:笑福亭鶴光](https://ja.wikipedia.org/wiki/Category:笑福亭鶴光 "wikilink") [Category:堀ちえみ](https://ja.wikipedia.org/wiki/Category:堀ちえみ "wikilink") [Category:松嶋尚美](https://ja.wikipedia.org/wiki/Category:松嶋尚美 "wikilink") [Category:CHAGE_and_ASKA](https://ja.wikipedia.org/wiki/Category:CHAGE_and_ASKA "wikilink")
+
+1.  アルバムCD『MBSヤングタウン 今月の歌』にも記載
+2.  『ヤンタンの時代。』第一章「みんな名もない新人だった 斎藤努編」より
+3.  『ヤンタンの時代。』第二章「『ヤンタン今月の歌』関西に新しいフォークが生まれた ザ・フォーク・クルセダーズ編」より。
+4.
+5.
+6.  『ヤンタンの時代。』第二章「『ヤンタン今月の歌』関西に新しいフォークが生まれた　北山修編」より。
+7.  『ヤンタンの時代。』第一章「みんな名もない新人だった　笑福亭鶴光・角淳一編」より
+8.  『なつかしラジオ大全』P142
+9.  『なつかしラジオ大全』P144
+10.
+11.
+12.
+13. [XXX枠](https://ja.wikipedia.org/wiki/XXX_\(ラジオ番組\) "wikilink")『[オレたちXXXやってま〜す](https://ja.wikipedia.org/wiki/オレたちやってま〜す "wikilink")』へ転換。
+14. [MBS『ヤンタン』18年半ぶり金曜枠復活 アリスがパーソナリティー就任](https://www.oricon.co.jp/news/2108072/full/)（『[ORICON STYLE](../Page/オリコン.md "wikilink")』[2018年](../Page/2018年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")付記事）
+15.
+16. [MBSラジオ　ヤンタン50歳　大みそかに特番](https://mainichi.jp/articles/20171212/k00/00e/040/236000c)（『[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")』[2017年](../Page/2017年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")付記事）
+17. [渡邊一雄さん：ヤンタンの名プロデューサーを「偲ぶ会」チャゲアスも久々ツーショット](http://mantan-web.jp/2010/12/07/20101206dog00m200041000c.html) - 毎日新聞デジタル、2010年12月7日
+18. 『ヤンタンの時代。』巻末の「ヤンタン今月の歌リスト」より
+19. 『ヤンタンの時代。』に所収の「\<ヤングタウン出演者年表1967 - 90\>」より
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27. [“ヤンタン”の縁 つんく♂が「MBSラジオのうた」制作](https://thepage.jp/osaka/detail/20160714-00000005-wordleaf)（『THE PAGE』[2016年](../Page/2016年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")付記事）
+28. [「Thank you\! Happy today\! ～MBSラジオのうた～」ミュージックビデオ](http://www.mbs1179.com/thankyou/)

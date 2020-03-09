@@ -1,0 +1,843 @@
+> この記事は[Capeta](https://ja.wikipedia.org/wiki/Capeta)から翻訳されています。
+
+
+『**capeta**』（カペタ）は、[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")を題材とした日本の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。作者は[曽田正人](../Page/曽田正人.md "wikilink")、共同原作者は冨山玖呂\[1\]。『[月刊少年マガジン](https://ja.wikipedia.org/wiki/月刊少年マガジン "wikilink")』にて[2003年](../Page/2003年.md "wikilink")3月号より[2013年](https://ja.wikipedia.org/wiki/2013年 "wikilink")4月号まで連載された。単行本は全32巻。
+
+第29回[講談社漫画賞](https://ja.wikipedia.org/wiki/講談社漫画賞 "wikilink")少年部門受賞。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列でアニメ化もされている。
+
+## 概要
+
+この作品の主人公は[カートに魅せられた少年](https://ja.wikipedia.org/wiki/レーシングカート "wikilink")・平勝平太（たいら かっぺいた）。曽田の作品の例に漏れず、この主人公も初めてのサーキットで度肝を抜く走りを見せるなど、天才肌の人物である。コース上でのライバルとの戦いと並んで、レース界の厳しい実力主義や、個人活動を続ける困難も描かれており、主人公は徐々に支援者を増やしながら、それらの逆境を乗り越えていく。
+
+漫画本編は主人公がプロレーサーを目指してヨーロッパへ旅立とうとする時点で完結し、その先の未来像については語られなかった。曽田は連載終了にあたり「完結については2年前にほぼ決めました」「この終わり方がベストだと確信しています」と述べている\[2\]。なお、以前に行った[小林可夢偉](https://ja.wikipedia.org/wiki/小林可夢偉 "wikilink")との対談では、主人公のF1デビューレースとしてイメージしていたこと（チャンピオン相手に一歩も引かないバトル）を、小林が[2009年ブラジルGPで実際にやってくれた](https://ja.wikipedia.org/wiki/2009年ブラジルグランプリ "wikilink")、と語っていた\[3\]。
+
+漫画とのコラボレーション企画として、2011年の[全日本F3選手権](https://ja.wikipedia.org/wiki/全日本F3選手権 "wikilink")に参戦した[山内英輝](https://ja.wikipedia.org/wiki/山内英輝 "wikilink")が、主人公と同じカラーリングのマシンで出場した\[4\]。
+
+## あらすじ
+
+幼くして母を失い、父と2人で暮している少年、平勝平太（通称カペタ）。ある日、カペタの父は捨てられていた材料を使って手製のレーシングカートを造り、それをカペタに与えた。これが彼の運命を大きく変えることになる。カペタは仲間たちと「チーム・カペタ」を結成し、ジュニアカートに参戦。そこでライバルかつ目標となる源奈臣と出会う。
+
+中学生になったカペタは、カートレース界の有力選手に成長。3年間使い古したマシンで苦戦しながらも、志波リョウを退けて全日本カート選手権ICAクラスのチャンピオンを獲得する。
+
+活動資金が底をつき、カペタはレースを諦める事を覚悟するが、親友である安藤信に助けられ、ステラ自動車の新人オーディション (FSRS) に挑戦。ドライバー育成プログラム (S.D.P.) に補欠合格し、4輪レースの登竜門フォーミュラ・ステラ（Fステ）に参戦する。さらにノア・モータースポーツの竹森基に認められ、16歳にして[全日本F3選手権](https://ja.wikipedia.org/wiki/全日本F3選手権 "wikilink")にステップアップする。ここでもプライベーターゆえの苦労を味わうが、AYKチームの金田彬とのルーキー対決を制して、最年少F3チャンピオンを獲得する。
+
+カペタはステラ[ワークスの一員として](https://ja.wikipedia.org/wiki/ワークス・チーム "wikilink")、世界の精鋭が集う[マカオグランプリ](https://ja.wikipedia.org/wiki/マカオグランプリ "wikilink")に出場。[ユーロF3](https://ja.wikipedia.org/wiki/ユーロF3 "wikilink")に挑戦していた源と再会し、優勝を賭けたマッチレースを展開する。経済不況によるメーカー支援の縮小という逆風の中で、ふたりは最高峰の[F1を目指して競いあうことを誓う](../Page/フォーミュラ1.md "wikilink")。
+
+## 登場人物
+
+### 主人公と周囲の人々（チーム・カペタ）
+
+  - 平 勝平太（たいら かっぺいた）
+    愛称「カペタ」。本編の主人公。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[6月20日](../Page/6月20日.md "wikilink")生まれ。身長：162cm。血液型はA型。作中では小学4年生から高校1年生までの成長過程が描かれる。
+    仕事に明け暮れる父を気遣い、幼くして自身の本心を押さえ、何をやっても本気になれず退屈な日々を過ごしていたが、[レーシングカート](https://ja.wikipedia.org/wiki/レーシングカート "wikilink")と出会い、本格的にレースに打ち込むことになる。
+    初めて乗るマシンでも短時間でコツをつかみ、爆発的なラップタイムを叩き出す才能を持つ。カート時代より荷重移動を用いてマシンの向きを変え、コーナーの通過速度を高めるドライビングスタイルを身につけている。「マシンが一番気持ちいい走り」を理想とし、そのためには身体の酷使に耐えることも厭わない。
+    普段は温厚で優柔不断な性格だが、レースのこととなると闘争心を露わにし、有利な状況を作るため計算高く非情な一面もみせる。
+    ライバルの源奈臣には尊敬も抱いており、一歩先を進んでいく源と同じ舞台で戦うことを目標にしていた。女性に関しては鈴木茂波のことが苦手な一方で、源奈々子や秦紀子などのお姉さんタイプに弱い。最終話で紀子から告白され、恋人関係に。
+  - 平 茂雄（たいら しげお）
+    カペタの父親。愛称「シゲさん」。
+    妻に先立たれた後、イカリ舗装で働きながら、男手ひとつでカペタを育て上げた。路面工事で訪れたカート場のスクラップを集め、カペタの初めてのレーシングカートを作り上げる。息子の夢を支えるため懸命に働き、レース会場への搬送やメカニックの整備も手伝う。
+    レースについて源奈々子に相談するうちに親しくなり、やがて真剣な交際を始める。
+  - 鈴木 茂波（すずき もなみ）
+    カペタの幼馴染。
+    男勝りの勝気な性格で、「チーム・カペタの監督」を自称し、ノブと共にカペタを前進させるアドバイスを贈る。
+    カート関係者の中では愛らしい容姿が知られており、中学生時代にはタレント事務所からスカウトされ、[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")としてデビュー。芸能界でも人気者となり、女優としてドラマに主演する。（アニメ版では、玉木薫にスカウトされ、グラビアアイドルになるための活動をしていたが、茂波の意向で[歌手](../Page/歌手.md "wikilink")になると決意する。エムベックスのオーディションに出場し落選してしまうが、有名プロデューサーのユウジにスカウトされ、歌手としてデビューした。）
+    幼少時はカペタの父親に恋心を抱いていた。源奈臣をカペタのライバルとして敵視していたが、レース中の事故をきっかけに源と親密な仲になり、日本とヨーロッパで遠距離交際を続けている。
+  - 安藤 信（あんどう のぶ）
+    カペタの小学校以来の同級生。公私に渡り、固い友情で結ばれたパートナーでもある。
+    カペタの実力と能力を見抜いており、初めは何事にも本気を出さないカペタに苛立ちを感じていたが、カペタがカートレースでみせた才能に魅了され、全面的に応援することを決めた。
+    中学時代はチーム・カペタのマネージャーとして、活動計画や資金集めを担当。FSRS事務所にカペタの実績を売り込むなど、大人びた行動力をみせる。中学卒業時は、本格的に語学と[スポーツマネージメントを学ぶためアメリカへ留学し](https://ja.wikipedia.org/wiki/スポーツ科学 "wikilink")、プロマネージャーになることを目指している。
+    小学生の頃から鈴木茂波のことを好きだったが告白しなかった。カペタは彼女と源の仲を伝えようか悩んだ末、留学前に伝えられなかった。
+  - 井狩 俊樹（いかり としき）
+    茂雄の勤務する「イカリ舗装」の社長。
+    カート時代にカペタのパーソナル・スポンサーとして資金援助をしたほか、年長者としての含蓄あるアドバイスを送る。叩き上げで会社を大きくした志をカペタに受け継いで欲しいと、密かに期待している。
+  - サルッキー
+    チーム・カペタのマスコット的存在の[サル](https://ja.wikipedia.org/wiki/サル "wikilink")。
+    本名は「ラインハルトIII世」。元は桃太郎のペットだったが、カペタに懐いたため譲られた。
+
+### 幼少編
+
+  - 源 奈臣（みなもと なおみ）
+    実母が指揮するカートチーム「オートハウス」のエースドライバー。カペタより年齢は1つ上である。血液型はO型。
+    幼少期からF1ドライバーとなるべく英才教育され、カート時代は国内で無敵を誇った。フォーミュラ・ステラでもチャンピオンを獲得し、S.D.P.からヨーロッパへ派遣。URTチームから[ユーロF3](https://ja.wikipedia.org/wiki/ユーロF3 "wikilink")に参戦し、世界レベルでも活躍が注目され始めている。ドライビングでは、深いブレーキングを武器にする。
+    感情をあまり表に出さないタイプで、実母からは**歌舞伎顔**と呼ばれている。家事全般が得意で、語学力も堪能。プロ意識が高く、レース後のスポンサーへの結果報告など、周りの期待に応えるための努力を怠らないようにしている。
+    カペタに対しては天才的なセンスを認めているが、環境作りの努力が足りないと不満を感じていた。一方で、カペタの相談役である安藤信の存在をうらやましく思うこともある。カート時代より鈴木茂波に好意を持っており、カペタの知らないところでアプローチに成功。ヨーロッパ滞在中も交際を続けている。
+  - 源 奈々子（みなもと ななこ）
+    源奈臣の母親。カートチーム「オートハウス」の監督。本業の開業医としても成功している。
+    若いころはカートの全日本選手権で優勝の経験を持つ。「胸が大きくてステアリングを操作できない」ために現役を引退したというプロポーションの持ち主。離婚後、息子を厳しく育て上げたが、依然として美貌と若々しさを保っている。
+    カペタの才能をいち早く見抜き、奈臣の競争相手としてオートハウスに勧誘したこともあったが、その後はレース活動や進路の良き相談相手となっている。父茂雄と意気投合し、息子たちにも報告するほど真剣に交際するようになった。
+  - 飛田 勇（とびた いさむ）
+    「オートハウス」所属のレーサー。
+    上手いものの平凡な選手だったが、カペタとのバトルを通じてレースの楽しさに目覚め、全日本チャンピオンを争うレベルの選手に成長する。
+  - 田川上 桃太郎（たがわじょう ももたろう）
+    カペタのデビューレースに出場していた、大企業の御曹司。
+    ドライバーとしての才能はカペタらに及ぶべくもないが、カペタの才能に惚れ込み、後に様々な援助を申し出てくる。飛び級で海外留学した秀才で、独自の美意識を持つ。
+
+### 中学生編
+
+  - 志波 リョウ（しば リョウ）
+    「カートショップおかくら」所属のドライバー。[1989年](../Page/1989年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")生まれ。血液型はAB型。
+    源奈臣と同期だが、全日本カートからフォーミュラ・ステラまでカペタとしのぎを削る。[ジャニーズ系](https://ja.wikipedia.org/wiki/ジャニーズ系 "wikilink")の外見とは裏腹に、根は真面目で努力家。雨のレースを得意とする。
+    カートのチャンピオン決定戦でカペタに敗れ、FSRSの最終選考で見返したものの、フォーミュラ・ステラでも補欠合格のカペタにシートを奪われるという屈辱を味わう。カペタがF3にステップアップした後、2年目のフォーミュラ・ステラに参戦中。
+  - 安達 隼人（あだち はやと）
+    カート雑誌「月刊Jカート」のデスク。
+    ジャーナリストとしてカペタの才能に惚れ込み、追いかけていくことを決意。後に総合モータースポーツ誌「週刊オートレーシング」に転属する。
+
+### フォーミュラ・ステラ編
+
+  - 加賀美 敦也（かがみ あつや）
+    ステラ自動車の国内モータースポーツ活動の責任者。フォーミュラ・ステラ・レーシングスクール (FSRS) 校長。
+    かつてはステラのワークスドライバーとして[スポーツカー世界選手権](https://ja.wikipedia.org/wiki/スポーツカー世界選手権 "wikilink")（SWC）で活躍した。興奮すると現役当時の体験談を語り始める。
+  - 田中 肇（たなか はじめ）
+    FSRS事務局員。安藤信の売り込みでカペタをオーディションに参加させて以降、何かとカペタに目をかける。
+    作者曰く、中盤から最大の当たりキャラであり、特徴である女口調は作者の父に似ているらしい。
+  - 新河 英樹（しんかわ ひでき）
+    [フォーミュラ・ニッポン](https://ja.wikipedia.org/wiki/フォーミュラ・ニッポン "wikilink")や[SUPER GTのチャンピオン経験をもつ国内トップドライバー](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")。血液型はA型。
+    FSRS出身で講師としても参加し、担当したカペタの素質を評価する。[F1参戦を目指し](../Page/フォーミュラ1.md "wikilink")、ステラF1チームのテストにも参加したが、実現には資金面と年齢というハードルがある。
+    キャラクターのモデルは俳優の[坂口憲二](https://ja.wikipedia.org/wiki/坂口憲二 "wikilink")。作者は似顔絵が苦手だが、周りからは直ぐに当てられたと言っている。
+  - 秦 紀子（はた のりこ）
+    FSRS受講生。[1988年](../Page/1988年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")生まれ。愛知県出身。身長：167cm、体重：57kg。[普通自動二輪](https://ja.wikipedia.org/wiki/普通自動二輪 "wikilink")の免許を取得している。
+    元レーシングドライバーの父親をもち、女の子らしい生活には興味を持たず、レーサーを目指してきた。FSRSでは一次で落選したが、翌年パーセック・モータースポーツよりフォーミュラ・ステラに参戦。F3へのステップアップを目指している。
+    外見はボーイッシュで、女子高の後輩から人気がある。2歳年下のカペタのことを頼りない弟分のように思っていたが、「才能のある男に弱い」という自覚があり、急成長するカペタの力になりたいと願うようになる。最後には自ら告白して恋人同士となる。
+  - ミッコ・アホネン
+    [フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")から来日したドライバー。[スキンヘッド](https://ja.wikipedia.org/wiki/スキンヘッド "wikilink")が特徴。
+    源奈臣も認める実力の持ち主で、フォーミュラ・ステラでは源とシリーズチャンピオンを争ったが、途中参戦したカペタが3連勝したため、タイトルを逃した。その後[F3進級テストを受けたが](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")、ノア・モータースポーツのシートをカペタに奪われた。
+  - 石原 直樹（いしはら なおき）※アニメは石原 裕太（いしはら ゆうた）
+    ステラ・ヤングドライバーズ・プログラム (S.D.P.) 所属のレーシングドライバー。年齢はカペタの3歳年上。通称「石原くん」。血液型はAB型。
+    カペタがFSRSを受講する前年から、選抜レースに[ペースメーカー](https://ja.wikipedia.org/wiki/ペースメーカー "wikilink")として参加。当時受講生だった源にタイムを抜かれ、1年間FSRS講師陣にイジられ続けた。フォーミュラ・ステラ最終戦でも4輪デビュー戦の源に抜かれるが、シリーズチャンピオンを獲得。
+    F3ではサムスワークスに所属したが、AYK相手の総力戦では実力不足と判断され、最新パーツの供給対象からはずされた。[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink") GT300クラスにも参戦しているが、第3戦直前に[風疹](https://ja.wikipedia.org/wiki/風疹 "wikilink")にかかり、代役としてカペタが出場した。
+
+### F3編
+
+  - 竹森 基（たけもり もとい）
+    ノア・モータースポーツ会長兼エンジニア。かつてはステラ系の[セミワークス](https://ja.wikipedia.org/wiki/セミワークス "wikilink")ドライバーとして活躍した。
+    S.D.P.の[F3でカペタを見初め](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")、自身のF3チームのドライバーに抜擢する。
+    加賀美とはドライバー時代から旧知の仲。
+
+<!-- end list -->
+
+  -
+    モデルは森脇基恭
+  - 赤坂 昇（あかさか しょう）
+    ステラ系レーシングチームのサムス（ステラ[ワークス・チーム](https://ja.wikipedia.org/wiki/ワークス・チーム "wikilink")）所属のメカニック。
+    一度はステラ系販売店に就職するが、レースへの夢を断ちがたくサムスへ再就職。
+    S.D.P.のF3セレクションのカペタのドライブするマシンを担当した際、竹森の腕に惹かれサムスからノアMSへ出向。
+  - 堀 司（ほり つかさ）
+    ノアMSのメインスポンサーである[静岡](https://ja.wikipedia.org/wiki/静岡 "wikilink")ステラ自動車販売の代表取締役社長。
+    竹森やノアMSとの付き合いが長く、F3についての造詣も深い。
+    カペタのレースに心打たれ、運営資金調達としてステラ系販売店の全国社長会議の場で出資提案を行なった。
+  - 桐谷 芹（きりたに せり）
+    カペタが通う高校の同級生。
+    レース活動に打ち込んでいるカペタに恋心を抱く。モータースポーツの世界を理解するため、恋のライバルであることを知らず秦紀子に相談する。
+    作者曰く、カペタの将来の結婚相手候補として登場させたが、紀子に比べるとなぜか読者に支持されなかったという\[5\]。
+  - 金田 彬（かねだ あきら）
+    カート西日本選手権・FAクラスでの活躍をうけ、ステラのライバル企業・AYKのF3ワークス・チームに18歳で抜擢された、安達いわく「AYKのカペタ」。
+    AYKエンジンの優位性もあったが、デビュー戦でいきなり表彰台を獲得し、その才能を見せつけた。
+    実家は大阪で焼肉家を経営。かつてはかなりの不良だったようだが、レースをはじめるに当たって足を洗ったため、地元の旧友とは折り合いが悪い。
+    同世代であるカペタに対しては、敵チームではあるがジムでトレーニングをしたり、実家の焼き肉店に招くなど仲が良い。タイヤテストの件ではカペタの考えに同意し、新タイヤを供給させるために動いている。ただしカペタがモナミや秦に好かれていることは羨ましく思っている。
+  - 和泉　堅三郎（いずみ けんざぶろう）
+    AYKのF3ワークス・チームの総監督。
+    かつては自チームを率いて[全日本F2や](https://ja.wikipedia.org/wiki/全日本F2選手権 "wikilink")[全日本F3000](https://ja.wikipedia.org/wiki/全日本F3000選手権 "wikilink")、[富士GCを戦い](https://ja.wikipedia.org/wiki/富士グランチャンピオンレース "wikilink")、[F1へ門下生を多数送り込んだ](../Page/フォーミュラ1.md "wikilink")。
+    自チームをたたんだ後、AYKから若手育成の依頼を受け、ステラ陣営に対して長年劣勢だったチームの建て直しを図る。
+  - セバスチャン・デリオン
+    AYKのF3ワークスのエースドライバー。フランス出身。愛称は「セブ」。
+    ユーロF3に参戦していたが資金不足で断念。AYKに誘われて全日本F3を戦うため来日した。[岡山ラウンドでの金田の](https://ja.wikipedia.org/wiki/岡山国際サーキット "wikilink")[チームオーダー](https://ja.wikipedia.org/wiki/チームオーダー "wikilink")違反に激怒する。[下北沢](https://ja.wikipedia.org/wiki/下北沢 "wikilink")在住。
+  - ルネ・コルニュ
+    URTグランプリのユーロF3チームのレースエンジニア。シーズン途中に加入した源奈臣を担当する。
+    フォーミュラ・ジアッラの頃より源のブレーキングテクニックを評価し、専用のPFC製ブレーキを調達。SAM'Sからセッティングデータを入手するなど尽力し、ドライバーと強い信頼関係で結ばれる。
+
+## 関連用語
+
+  - オートハウス・レーシング (AUTO HOUSE)
+    源奈々子が監督を務めるカート界の強豪チーム。[エンドレスをメインスポンサーに持ち](https://ja.wikipedia.org/wiki/エンドレス・アドバンス "wikilink")、[ヤマハのメーカーサポートを受けるという本格的な活動を行う](https://ja.wikipedia.org/wiki/ヤマハ発動機 "wikilink")。ドライバーには子供でもプロ意識を植え付けている。
+  - ステラ自動車 (STELLA)
+    日本の自動車メーカーであり、モータースポーツ活動を行うコンストラクター。ホームサーキットは[富士スピードウェイ](https://ja.wikipedia.org/wiki/富士スピードウェイ "wikilink")で、近隣の東富士に研究施設とファクトリーを置いている。「ステラF1」のチーム名で[F1にも参戦していたが](../Page/フォーミュラ1.md "wikilink")、不況を理由にF1から撤退した。
+      - フォーミュラ・ステラ・レーシング・スクール (FSRS) : フォーミュラレース入門者を対象としたタレント発掘機関。現役レーサーによる実技教習、受講者同士の選抜レースなどを行い、成績優秀者は[スカラシップ](https://ja.wikipedia.org/wiki/スカラシップ "wikilink")制度に採用される。フォーミュラ・ステラにおけるワークスチームは**S.D.P.-FSRS**。
+        フォーミュラ・ステラ: ステラ自動車が主催する入門カテゴリ（[ジュニア・フォーミュラ](https://ja.wikipedia.org/wiki/ジュニア・フォーミュラ "wikilink")）。通称「Fステ」。ステラエンジンを搭載するワンメイクマシンでシリーズ戦を行い、チャンピオンを決定する。作中では他に金田を輩出した「フォーミュラAYK」、源が参戦したイタリアの「フォーミュラ・ジアッラ」というジュニア・フォーミュラが設定されている。
+        ステラ・ドライバーズ・プログラム (S.D.P.) : F1ドライバー養成を目的とする若手支援プログラム。FSRS出身ドライバーの国内外での活動をバックアップしていたが、F1撤退と同じくして、支援体制が縮小されていく。
+  - サムス (SAM'S)
+    ステラの国内レース活動を運営する[ワークス・チーム](https://ja.wikipedia.org/wiki/ワークス・チーム "wikilink")。F3チームのメインスポンサーはマレーシアの石油企業ペトロノート。
+  - ノア・モータースポーツ
+    ステラ系のプライベーターF3チーム。[静岡県](../Page/静岡県.md "wikilink")[御殿場市](https://ja.wikipedia.org/wiki/御殿場市 "wikilink")に本拠地を置く。資金不足でシーズンフル参戦も危ぶまれる状況だったが、カペタの活躍により新規スポンサーを獲得し、ステラから[セミワークス](https://ja.wikipedia.org/wiki/セミワークス "wikilink")待遇のサポートを受けることになる。
+  - AYK
+    ステラのライバルとなる自動車メーカー。ホームサーキットは[鈴鹿](https://ja.wikipedia.org/wiki/鈴鹿サーキット "wikilink")。F3でのワークスは和泉監督率いる**AYKレーシング**。F3ではしばらくステラの後塵を拝していたが、強力なエンジンを開発して反転攻勢に出る。
+  - パーセック・モータースポーツ
+    坪巻監督率いるプライベーターチーム。Fステには秦紀子と駒沢卓が出場する。後述のアニメ版では設定が異なり、FSRSの選考に漏れたカペタが所属する。
+  - URTグランプリ
+    源が所属するユーロF3の強豪チーム。エースのクラウス・リンデマンにチャンピオンを獲らせる体制を敷いており、途中加入した源はチーム内の待遇差に直面する。
+
+## 書籍
+
+### 単行本
+
+1.  2003年10月16日発売 ISBN 978-4-06-334785-2
+2.  2003年10月16日発売 ISBN 978-4-06-334786-9
+3.  2004年2月17日発売 ISBN 978-4-06-334840-8
+4.  2004年5月15日発売 ISBN 978-4-06-334871-2
+5.  2004年8月17日発売 ISBN 978-4-06-334905-4
+6.  2004年11月17日発売 ISBN 978-4-06-334937-5
+7.  2005年3月17日発売 ISBN 978-4-06-334976-4
+8.  2005年7月15日発売 ISBN 978-4-06-372036-5
+9.  2005年10月17日発売 ISBN 978-4-06-372089-1
+10. 2006年2月17日発売 ISBN 978-4-06-372131-7
+11. 2006年6月16日発売 ISBN 978-4-06-372162-1
+12. 2006年10月17日発売 ISBN 978-4-06-372213-0
+13. 2007年2月16日発売 ISBN 978-4-06-372267-3
+14. 2007年7月17日発売 ISBN 978-4-06-372319-9
+15. 2007年11月16日発売 ISBN 978-4-06-372392-2
+16. 2008年3月17日発売
+      - 通常版 ISBN 978-4-06-375460-5
+      - 特装版 ISBN 978-4-06-362106-8
+          -
+            オリジナルマグネットシート２枚付き。表紙の絵も通常版と異なる。
+17. 2008年7月17日発売 ISBN 978-4-06-375520-6
+18. 2008年11月17日発売 ISBN 978-4-06-375596-1
+19. 2009年4月17日発売 ISBN 978-4-06-375690-6
+20. 2009年8月17日発売 ISBN 978-4-06-375776-7
+21. 2009年12月17日発売 ISBN 978-4-06-375823-8
+22. 2010年5月17日発売 ISBN 978-4-06-375916-7
+23. 2010年10月15日発売 ISBN 978-4-06-375961-7
+24. 2011年3月17日発売 ISBN 978-4-06-376035-4
+25. 2011年7月15日発売 ISBN 978-4-06-376088-0
+26. 2011年11月17日発売 ISBN 978-4-06-376141-2
+27. 2012年2月17日発売 ISBN 978-4-06-376195-5
+28. 2012年5月17日発売
+      - 通常版 ISBN 978-4-06-376637-0
+      - 特装版 ISBN 978-4-06-362215-7
+          -
+            主人公カペタのフィギュア付きの特装版である。
+29. 2012年8月17日発売 ISBN 978-4-06-376685-1
+30. 2012年11月16日発売 ISBN 978-4063767261
+31. 2013年2月15日発売 ISBN 978-4063767827
+
+### ガイドブック
+
+作品『capeta』とモータースポーツについて解説したオフィシャル・ガイドブック。
+
+  - 『capeta　THE　GUIDE　BOOK』 2005年10月17日発売 ISBN 978-4-06-372082-2
+
+## テレビアニメ
+
+[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で、毎週火曜日午後6時より放送。全52話。放送局の編成により27話から放送時間が30分繰り上げになった。また、[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[フジテレビ739でも再放送が行われていた](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")。
+
+原作ではカートとの出会いから、フォーミュラ・ステラ編冒頭辺りまでとなるが、終盤の展開は原作に追いついてしまったために、完全オリジナルのストーリーとなっている。原作より先にカペタがフォーミュラデビューしており、最終回ではカペタと源がF1[イタリアGPでデッド](https://ja.wikipedia.org/wiki/イタリアグランプリ "wikilink")・ヒートを繰り広げるラジオ放送がある。
+
+第14話までの小学生編では、実年齢と同じ小中学生の[子役](https://ja.wikipedia.org/wiki/子役 "wikilink")がメインキャラクターの声優を担当していた。
+
+本作終了後、テレビ東京火曜夕方の[創通](https://ja.wikipedia.org/wiki/創通 "wikilink")制作関与アニメは[2018年](https://ja.wikipedia.org/wiki/2018年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")開始の『[ガンダムビルドダイバーズ](https://ja.wikipedia.org/wiki/ガンダムビルドダイバーズ "wikilink")』（枠は17:55 - 18:25）まで11年半途絶えた。
+
+### キャスト
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+  - 平勝平太：[安達直人](https://ja.wikipedia.org/wiki/安達直人 "wikilink")（小学生編）/[豊永利行](https://ja.wikipedia.org/wiki/豊永利行 "wikilink")（中学生編）
+  - 安藤信：[滝原祐太](https://ja.wikipedia.org/wiki/滝原祐太 "wikilink")（小学生編）/[喜安浩平](https://ja.wikipedia.org/wiki/喜安浩平 "wikilink")（中学生編）
+  - 鈴木茂波：[宮本侑芽](https://ja.wikipedia.org/wiki/宮本侑芽 "wikilink")（小学生編）/[菊地美香](https://ja.wikipedia.org/wiki/菊地美香 "wikilink")（中学生編）
+  - 平茂雄：[小手伸也](https://ja.wikipedia.org/wiki/小手伸也 "wikilink")
+  - 熊田茂吉：[永野広一](https://ja.wikipedia.org/wiki/永野広一 "wikilink")
+  - 源奈臣：[内藤玲](https://ja.wikipedia.org/wiki/内藤玲 "wikilink")
+  - 源奈々子：[大輝ゆう](https://ja.wikipedia.org/wiki/大輝ゆう "wikilink")
+  - 井狩社長：[トニーヒロタ](https://ja.wikipedia.org/wiki/トニーヒロタ "wikilink")
+  - 三浦：[木内秀信](https://ja.wikipedia.org/wiki/木内秀信 "wikilink")
+  - 田川上桃太郎：[福麻むつ美](https://ja.wikipedia.org/wiki/福麻むつ美 "wikilink")
+  - 三瓶武：[海鋒拓也](https://ja.wikipedia.org/wiki/海鋒拓也 "wikilink")
+  - 飛田勇：[宮里駿](https://ja.wikipedia.org/wiki/宮里駿 "wikilink")（小学生編）/[渡辺慶](https://ja.wikipedia.org/wiki/渡辺啓 "wikilink")（中学生編）
+  - 奥寺六三郎：[松本忍](https://ja.wikipedia.org/wiki/松本忍 "wikilink")
+  - サルッキー（ラインハルトIII世）/クニミツ：[石橋美佳](https://ja.wikipedia.org/wiki/石橋美佳 "wikilink")
+  - 安達隼人：[窪田亮](https://ja.wikipedia.org/wiki/窪田亮 "wikilink")（小学生編）/[水島裕](https://ja.wikipedia.org/wiki/水島裕_\(声優\) "wikilink")（中学生編）
+  - 梶原 慶：[津田健次郎](https://ja.wikipedia.org/wiki/津田健次郎 "wikilink")
+  - 常盤まどか：[菅由紀子](https://ja.wikipedia.org/wiki/菅由紀子 "wikilink")
+  - 藤村誠/渋谷昭彦：[岩崎征実](https://ja.wikipedia.org/wiki/岩崎征実 "wikilink")
+
+</div>
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+  - 和田：[小嶋一成](https://ja.wikipedia.org/wiki/小嶋一成 "wikilink")
+  - カズヨシ：[吉田麻子](https://ja.wikipedia.org/wiki/吉田麻子 "wikilink")
+  - サトル：[井関佳子](https://ja.wikipedia.org/wiki/井関佳子 "wikilink")
+  - ミカ：[佐高美紀](https://ja.wikipedia.org/wiki/佐高美紀 "wikilink")
+  - 坪巻秀一：[椙本滋](https://ja.wikipedia.org/wiki/椙本滋 "wikilink")
+  - 高原誠一：[平野貴裕](https://ja.wikipedia.org/wiki/平野貴裕 "wikilink")
+  - 本間太郎/酒井大輔：[下崎紘史](https://ja.wikipedia.org/wiki/下崎紘史 "wikilink")
+  - 田中仁：[途中慎吾](https://ja.wikipedia.org/wiki/途中慎吾 "wikilink")
+  - 志波リョウ：[前田剛](https://ja.wikipedia.org/wiki/前田剛 "wikilink")
+  - 加賀美敦也：[深貝大輔](https://ja.wikipedia.org/wiki/深貝大輔 "wikilink")
+  - 田中肇：[西村仁](https://ja.wikipedia.org/wiki/西村仁 "wikilink")
+  - 秦紀子：[齊藤真紀](https://ja.wikipedia.org/wiki/齊藤真紀 "wikilink")
+  - 大亀総太：[川原慶久](https://ja.wikipedia.org/wiki/川原慶久 "wikilink")
+  - 伊佐宏：[藤原祐規](https://ja.wikipedia.org/wiki/藤原祐規 "wikilink")
+  - 石原裕太：[峯暢也](https://ja.wikipedia.org/wiki/峯暢也 "wikilink")
+  - 新河英樹：[細見大輔](https://ja.wikipedia.org/wiki/細見大輔 "wikilink")
+  - 駒沢将斗：[杉山大](https://ja.wikipedia.org/wiki/杉山大 "wikilink")
+
+</div>
+
+### スタッフ
+
+  - 原作 - 曽田正人（[講談社](../Page/講談社.md "wikilink")刊「[月刊少年マガジン](https://ja.wikipedia.org/wiki/月刊少年マガジン "wikilink")」連載）
+  - 監督 - [三沢伸](https://ja.wikipedia.org/wiki/三沢伸 "wikilink")
+  - 監督補佐 - 高林久弥
+  - シリーズ構成 - [上代務](https://ja.wikipedia.org/wiki/上代務 "wikilink")
+  - キャラクターデザイン・総作画監督 - [興村忠美](https://ja.wikipedia.org/wiki/興村忠美 "wikilink")
+  - カートデザイン（フォーミュラデザイン） - 大河原浩一、竹田佳子、ゴン・シュ（Gong Shu）、高松勝範、神谷淑貴
+  - 美術監督 - 高橋和博
+  - カラーコーディネイト - 津守裕子
+  - 撮影監督 - 森下成一
+  - 編集 - [小島俊彦](https://ja.wikipedia.org/wiki/小島俊彦 "wikilink")
+  - 音楽 - [佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink")
+  - アフレコ演出 - [三ツ矢雄二](https://ja.wikipedia.org/wiki/三ツ矢雄二 "wikilink")
+  - 音響演出 - [ハマノカズゾウ](https://ja.wikipedia.org/wiki/ハマノカズゾウ "wikilink")
+  - プロデューサー - 山川典夫、板橋秀徳、田村孔亮→小川文平
+  - アニメーション制作 - [スタジオコメット](https://ja.wikipedia.org/wiki/スタジオコメット "wikilink")
+  - 製作 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[創通](https://ja.wikipedia.org/wiki/創通 "wikilink")映像、[マーベラス音楽出版](https://ja.wikipedia.org/wiki/マーベラス_\(企業\) "wikilink")
+
+### 主題歌
+
+#### オープニングテーマ
+
+  - 「Never Ever」（第1話 - 第35話）
+    作詞 - [小林和子](https://ja.wikipedia.org/wiki/小林和子 "wikilink") / 作曲 - [矢崎俊輔](https://ja.wikipedia.org/wiki/矢崎俊輔 "wikilink") / 編曲 - [前嶋康明](https://ja.wikipedia.org/wiki/前嶋康明 "wikilink") / 歌 - [今井翼](https://ja.wikipedia.org/wiki/今井翼 "wikilink")
+      - Broad Band Edition（ネット配信版）はTVオンエア時と異なる[インストゥルメンタルバージョンである](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。
+  - 「導火線」（第36話 - 第51話）
+    作詞 - 井上鉄平 / 作曲・編曲・歌 - [BAZRA](https://ja.wikipedia.org/wiki/BAZRA "wikilink")
+      - 第52話ではエンディングテーマとして使用。
+
+#### エンディングテーマ
+
+  - 「僕ら」（第1話 - 第14話）
+    作詞 - 井上鉄平 / 作曲・歌 - BAZRA
+  - 「ナナナビゲーション」（第15話 - 第32話）
+    作詞・作曲 - [SJR](https://ja.wikipedia.org/wiki/井上慎二郎 "wikilink") / 歌 - [星井七瀬](https://ja.wikipedia.org/wiki/星井七瀬 "wikilink")
+  - 「Here we go\!」（第33話 - 第43話）
+    作詞・作曲 - [大渡亮](https://ja.wikipedia.org/wiki/大渡亮 "wikilink") / 編曲・歌 - [ミサイルイノベーション](https://ja.wikipedia.org/wiki/ミサイルイノベーション "wikilink")
+  - 「My Star」（第44話 - 第51話）
+    作詞・作曲 - [Funta](https://ja.wikipedia.org/wiki/Funta "wikilink") / 編曲 - 近田潔人 / 歌 - [菊地美香](https://ja.wikipedia.org/wiki/菊地美香 "wikilink")
+
+### 各話リスト
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話数</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>脚本</p></th>
+<th><p>絵コンテ</p></th>
+<th><p>演出</p></th>
+<th><p>作画監督</p></th>
+<th><p>放送日</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Lap.01</p></td>
+<td><p>リミッターをはずせ!</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/上代務" title="wikilink">上代務</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三沢伸" title="wikilink">三沢伸</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/一川孝久" title="wikilink">一川孝久</a></p></td>
+<td><p><strong>2005年</strong><br />
+10月4日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lap.02</p></td>
+<td><p>オレのカート!</p></td>
+<td><p>笠原邦暁</p></td>
+<td><p>高林久弥</p></td>
+<td><p>飯田清貴</p></td>
+<td><p>10月11日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.03</p></td>
+<td><p>初めてのサーキット!</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/岸間信明" title="wikilink">岸間信明</a></p></td>
+<td><p>まつみゆう</p></td>
+<td><p>西村大樹</p></td>
+<td><p>岡野幸男</p></td>
+<td><p>10月18日</p></td>
+</tr>
+<tr class="even">
+<td><p>Lap.04</p></td>
+<td><p>フルスロットル!</p></td>
+<td><p>上代務</p></td>
+<td><p>古川政美</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/政木伸一" title="wikilink">政木伸一</a></p></td>
+<td><p>佐久間健</p></td>
+<td><p>10月25日</p></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.05</p></td>
+<td><p>ライバル!</p></td>
+<td><p>濁川敦</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/金沢比呂司" title="wikilink">金澤比呂司</a></p></td>
+<td><p>11月1日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lap.06</p></td>
+<td><p>チーム・カペタ!</p></td>
+<td><p>岸間信明</p></td>
+<td><p>武内宣之</p></td>
+<td><p>栗本宏志</p></td>
+<td><p>浜津武広</p></td>
+<td><p>11月8日</p></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.07</p></td>
+<td><p>エントリー!</p></td>
+<td><p>笠原邦暁</p></td>
+<td><p>まつみゆう</p></td>
+<td><p>西村大樹</p></td>
+<td><p>一川孝久</p></td>
+<td><p>11月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>Lap.08</p></td>
+<td><p>クラッシュ!</p></td>
+<td><p>上代務</p></td>
+<td><p>いわもとやすお</p></td>
+<td><p>北崎正浩</p></td>
+<td><p>11月22日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.09</p></td>
+<td><p>コースレコード!</p></td>
+<td><p>まつみゆう</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/又野弘道" title="wikilink">又野弘道</a></p></td>
+<td><p>飯田清貴</p></td>
+<td><p>11月29日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lap.10</p></td>
+<td><p>タイムトライアル!</p></td>
+<td><p>岸間信明</p></td>
+<td><p>三宅雄一郎</p></td>
+<td><p>政木伸一</p></td>
+<td><p>佐久間健</p></td>
+<td><p>12月6日</p></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.11</p></td>
+<td><p>スタート!</p></td>
+<td><p>笠原邦暁</p></td>
+<td><p>浦田保則</p></td>
+<td><p>岡野幸男</p></td>
+<td><p>12月13日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lap.12</p></td>
+<td><p>バトル!</p></td>
+<td><p>上代務</p></td>
+<td><p>まつみゆう</p></td>
+<td><p>西村大樹</p></td>
+<td><p>金澤比呂司</p></td>
+<td><p>12月20日</p></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.13</p></td>
+<td><p>チームオーダー!</p></td>
+<td><p>武内宣之</p></td>
+<td><p>栗本宏志</p></td>
+<td><p>浜津武広</p></td>
+<td><p>12月27日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lap.14</p></td>
+<td><p>ウィナー!</p></td>
+<td><p>濁川敦</p></td>
+<td><p>飯飼一幸</p></td>
+<td><p><strong>2006年</strong><br />
+1月2日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.15</p></td>
+<td><p>ステップ・アップ!</p></td>
+<td><p>岸間信明</p></td>
+<td><p>いわもとやすお</p></td>
+<td><p>北崎正浩</p></td>
+<td><p>1月10日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lap.16</p></td>
+<td><p>ペナルティー!</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/前川淳_(脚本家)" title="wikilink">前川淳</a></p></td>
+<td><p>政木伸一</p></td>
+<td><p>佐久間健</p></td>
+<td><p>1月17日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.17</p></td>
+<td><p>オーバーテイク!</p></td>
+<td><p>三宅雄一郎</p></td>
+<td><p>又野弘道</p></td>
+<td><p>平川亜喜雄</p></td>
+<td><p>1月24日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lap.18</p></td>
+<td><p>スポンサー!</p></td>
+<td><p>上代務</p></td>
+<td><p>まつもとよしひさ</p></td>
+<td><p>岡野幸男</p></td>
+<td><p>1月31日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.19</p></td>
+<td><p>フェスティバル!</p></td>
+<td><p>まつみゆう</p></td>
+<td><p>西村大樹</p></td>
+<td><p>金澤比呂司</p></td>
+<td><p>2月7日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lap.20</p></td>
+<td><p>パートナー!</p></td>
+<td><p>武内宣之</p></td>
+<td><p>栗本宏志</p></td>
+<td><p>浜津武広</p></td>
+<td><p>2月14日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.21</p></td>
+<td><p>レーシング・ヒストリー!</p></td>
+<td><p>濁川敦</p></td>
+<td><p>一川孝久</p></td>
+<td><p>2月21日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lap.22</p></td>
+<td><p>プレッシャー!</p></td>
+<td><p>岸間信明</p></td>
+<td><p>いわもとやすお</p></td>
+<td><p>北崎正浩</p></td>
+<td><p>2月28日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.23</p></td>
+<td><p>ラストチャンス!</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/石踊宏" title="wikilink">石踊宏</a></p></td>
+<td><p>政木伸一</p></td>
+<td><p>佐久間健</p></td>
+<td><p>3月7日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lap.24</p></td>
+<td><p>コンディション!</p></td>
+<td><p>前川淳</p></td>
+<td><p>まつみゆう</p></td>
+<td><p>高橋順</p></td>
+<td><p>岡野幸男</p></td>
+<td><p>3月14日</p></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.25</p></td>
+<td><p>リバース!</p></td>
+<td><p>上代務</p></td>
+<td><p>高林久弥</p></td>
+<td><p>又野弘道</p></td>
+<td><p>平川亜喜雄</p></td>
+<td><p>3月21日</p></td>
+</tr>
+<tr class="even">
+<td><p>Lap.26</p></td>
+<td><p>トラクション!</p></td>
+<td><p>細越裕治</p></td>
+<td><p>濁川敦</p></td>
+<td><p>金澤比呂司</p></td>
+<td><p>3月28日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.27</p></td>
+<td><p>ブルー・フラッグ!</p></td>
+<td><p>岸間信明</p></td>
+<td><p>谷口一郎</p></td>
+<td><p>栗本宏志</p></td>
+<td><p>浜津武広</p></td>
+<td><p>4月4日</p></td>
+</tr>
+<tr class="even">
+<td><p>Lap.28</p></td>
+<td><p>チャレンジ!</p></td>
+<td><p>いわもとやすお</p></td>
+<td><p>北崎正浩</p></td>
+<td><p>4月11日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.29</p></td>
+<td><p>スリック・タイヤ!</p></td>
+<td><p>前川淳</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/江上潔" title="wikilink">江上潔</a></p></td>
+<td><p>古川政美</p></td>
+<td><p>佐久間健</p></td>
+<td><p>4月18日</p></td>
+</tr>
+<tr class="even">
+<td><p>Lap.30</p></td>
+<td><p>ハード・レイン!</p></td>
+<td><p>まつみゆう</p></td>
+<td><p>又野弘道</p></td>
+<td><p>飯田清貴</p></td>
+<td><p>4月25日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.31</p></td>
+<td><p>サイド・バイ・サイド!</p></td>
+<td><p>上代務</p></td>
+<td><p>高橋順</p></td>
+<td><p>岡野幸男</p></td>
+<td><p>5月2日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lap.32</p></td>
+<td><p>ファイナル・ラップ!</p></td>
+<td><p>工藤進</p></td>
+<td><p>濁川敦</p></td>
+<td><p>一川孝久</p></td>
+<td><p>5月9日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.33</p></td>
+<td><p>プレゼンテーション!</p></td>
+<td><p>岸間信明</p></td>
+<td><p>高林久弥</p></td>
+<td><p>松浦錠平</p></td>
+<td><p>平川亜喜雄</p></td>
+<td><p>5月16日</p></td>
+</tr>
+<tr class="even">
+<td><p>Lap.34</p></td>
+<td><p>スカウト!</p></td>
+<td><p>前川淳</p></td>
+<td><p>まつみゆう</p></td>
+<td><p>大関雅幸</p></td>
+<td><p>山川宏治</p></td>
+<td><p>5月23日</p></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.35</p></td>
+<td><p>パフォーマンス!</p></td>
+<td><p>上代務</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/杉島邦久" title="wikilink">杉島邦久</a></p></td>
+<td><p>古川政美</p></td>
+<td><p>佐久間健</p></td>
+<td><p>5月30日</p></td>
+</tr>
+<tr class="even">
+<td><p>Lap.36</p></td>
+<td><p>アイドリング!</p></td>
+<td><p>岸間信明</p></td>
+<td><p>いわもとやすお</p></td>
+<td><p>北崎正浩</p></td>
+<td><p>6月6日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.37</p></td>
+<td><p>ニューマシン!</p></td>
+<td><p>前川淳</p></td>
+<td><p>五島健</p></td>
+<td><p>又野弘道</p></td>
+<td><p>金澤比呂司</p></td>
+<td><p>6月13日</p></td>
+</tr>
+<tr class="even">
+<td><p>Lap.38</p></td>
+<td><p>フォーミュラ・ステラ!</p></td>
+<td><p>上代務</p></td>
+<td><p>高橋順</p></td>
+<td><p>岡野幸男</p></td>
+<td><p>6月20日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.39</p></td>
+<td><p>ファースト・ステップ!</p></td>
+<td><p>高林久弥</p></td>
+<td><p>濁川敦</p></td>
+<td><p>一川孝久</p></td>
+<td><p>6月27日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lap.40</p></td>
+<td><p>シフトアップ!</p></td>
+<td><p>岸間信明</p></td>
+<td><p>まつみゆう</p></td>
+<td><p>伊佐英朗</p></td>
+<td><p>平川亜喜雄</p></td>
+<td><p>7月4日</p></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.41</p></td>
+<td><p>ブラインド・コーナー!</p></td>
+<td><p>前川淳</p></td>
+<td><p>杉島邦久</p></td>
+<td><p>古川政美</p></td>
+<td><p>佐久間健</p></td>
+<td><p>7月11日</p></td>
+</tr>
+<tr class="even">
+<td><p>Lap.42</p></td>
+<td><p>ターニング・ポイント!</p></td>
+<td><p>上代務</p></td>
+<td><p>武内宣之</p></td>
+<td><p>清水明</p></td>
+<td><p>桝井一平</p></td>
+<td><p>7月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.43</p></td>
+<td><p>ヒートアップ!</p></td>
+<td><p>いわもとやすお</p></td>
+<td><p>北崎正浩</p></td>
+<td><p>7月25日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lap.44</p></td>
+<td><p>ピット・イン!</p></td>
+<td><p>岸間信明</p></td>
+<td><p>濁川敦</p></td>
+<td><p>金澤比呂司</p></td>
+<td><p>8月1日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.45</p></td>
+<td><p>ビクトリー・ロード!</p></td>
+<td><p>前川淳</p></td>
+<td><p>高橋順</p></td>
+<td><p>岡野幸男</p></td>
+<td><p>8月8日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lap.46</p></td>
+<td><p>オーディション!</p></td>
+<td><p>上代務</p></td>
+<td><p>まつみゆう</p></td>
+<td><p>伊佐英朗</p></td>
+<td><p>飯田清貴</p></td>
+<td><p>8月15日</p></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.47</p></td>
+<td><p>パーフェクト・ウィン!</p></td>
+<td><p>政木伸一</p></td>
+<td><p>古川政美</p></td>
+<td><p>佐久間健<br />
+金澤比呂司</p></td>
+<td><p>8月22日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lap.48</p></td>
+<td><p>ネクスト・ステージ!</p></td>
+<td><p>岸間信明</p></td>
+<td><p>高林久弥</p></td>
+<td><p>又野弘道</p></td>
+<td><p>平川亜喜雄</p></td>
+<td><p>8月29日</p></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.49</p></td>
+<td><p>バーサス!</p></td>
+<td><p>上代務</p></td>
+<td><p>武内宣之</p></td>
+<td><p>清水明</p></td>
+<td><p>泉保良輔</p></td>
+<td><p>9月5日</p></td>
+</tr>
+<tr class="even">
+<td><p>Lap.50</p></td>
+<td><p>セカンド・ドライバー!</p></td>
+<td><p>いわもとやすお</p></td>
+<td><p>一川孝久</p></td>
+<td><p>9月12日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lap.51</p></td>
+<td><p>レッド・ゾーン!</p></td>
+<td><p>まつみゆう</p></td>
+<td><p>高橋順</p></td>
+<td><p>岡野幸男</p></td>
+<td><p>9月19日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lap.52</p></td>
+<td><p>チェッカー・フラッグ!</p></td>
+<td><p>三沢伸<br />
+高林久弥</p></td>
+<td><p>三沢伸</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/興村忠美" title="wikilink">興村忠美</a></p></td>
+<td><p>9月26日</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 漫画版からの変更点
+
+  - 漫画版では実名で出ていたメーカー名はアニメ版では架空のものになっている。
+  - 漫画版には存在しないアニメオリジナルエピソードがある。（雲原カートランドでの大会、田川上桃太郎のカート大会入賞記念パーティーなど）
+  - 漫画版とアニメ版では一部の人物の名前が違う。
+  - FSRS最終選考で最終セクションの志波とカペタのタイム。
+  - 漫画版でカペタはFSRSに補欠合格となり、後にSAM'Sよりフォーミュラ・ステラに参戦するが、アニメ版では選考に落ちた後、パーセック・モータースポーツを紹介され、FSRSに合格したSAM'Sの志波と対決する。また、漫画版ではパーセック・モータースポーツに所属する秦はアニメ版では父親が監督を務める秦レーシングに所属している。
+
+## 脚注
+
+<div class="references-small">
+
+<references />
+
+</div>
+
+## 関連項目
+
+  - [モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")
+  - [キッズカート](https://ja.wikipedia.org/wiki/キッズカート "wikilink")
+  - [レーシングカート](https://ja.wikipedia.org/wiki/レーシングカート "wikilink")
+  - [全日本F3選手権](https://ja.wikipedia.org/wiki/全日本F3選手権 "wikilink")
+  - [マカオグランプリ](https://ja.wikipedia.org/wiki/マカオグランプリ "wikilink")
+
+## 外部リンク
+
+  - [曽田正人オフィシャルウェブ](http://www.sodamasahito.com/) - 公式サイト
+  - [capeta カペタ](http://www.tv-tokyo.co.jp/anime/capeta/) - テレビ東京・[あにてれ](https://ja.wikipedia.org/wiki/あにてれ "wikilink")
+
+[pt:Capeta](https://ja.wikipedia.org/wiki/pt:Capeta "wikilink")
+
+[Category:漫画作品_か](https://ja.wikipedia.org/wiki/Category:漫画作品_か "wikilink") [Category:2003年の漫画](https://ja.wikipedia.org/wiki/Category:2003年の漫画 "wikilink") [Category:月刊少年マガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年マガジンの漫画作品 "wikilink") [Category:カーレース漫画](https://ja.wikipedia.org/wiki/Category:カーレース漫画 "wikilink") [Category:アニメ作品_か](https://ja.wikipedia.org/wiki/Category:アニメ作品_か "wikilink") [Category:2005年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2005年のテレビアニメ "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:創通のアニメ作品](https://ja.wikipedia.org/wiki/Category:創通のアニメ作品 "wikilink") [Category:マーベラスのアニメ作品](https://ja.wikipedia.org/wiki/Category:マーベラスのアニメ作品 "wikilink") [Category:マガジンKCのアニメ作品](https://ja.wikipedia.org/wiki/Category:マガジンKCのアニメ作品 "wikilink") [Category:カーレースアニメ](https://ja.wikipedia.org/wiki/Category:カーレースアニメ "wikilink")
+
+1.  "[作品紹介](http://www.sodamasahito.jp/works/capeta.html)". 曽田正人オフィシャルウェブ. 2013年4月13日閲覧。
+2.  "[今月のカペタ](http://ameblo.jp/sodamasahito/entry-11443061764.html)". 曽田正人日記.（2013年1月6日）2013年4月14日閲覧。
+3.  『capeta』単行本22巻巻末収録。
+4.  "[『Capeta』のマシンが現実に！ 山内車にペイント](http://as-web.jp/news/info.php?c_id=4&no=36412)". オートスポーツweb.（2011年9月24日）2013年4月14日閲覧。
+5.  『月刊少年マガジン』2013年5月号（曽田・富山対談記事）。

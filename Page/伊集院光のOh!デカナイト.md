@@ -1,0 +1,302 @@
+> この記事は[Oh!](https://ja.wikipedia.org/wiki/Oh!)から翻訳されています。
+
+
+『**伊集院光のOh\!デカナイト**』（いじゅういんひかるのおーデカナイト）は、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[3月1日](../Page/3月1日.md "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月27日](../Page/4月27日.md "wikilink")にかけて[ニッポン放送](../Page/ニッポン放送.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[ブロックワイド](https://ja.wikipedia.org/wiki/ブロックワイド "wikilink")）。放送時間帯は月曜 - 金曜（[1994年](../Page/1994年.md "wikilink")4月以降、月曜 - 木曜）の22:00 - 25:00。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[伊集院光](../Page/伊集院光.md "wikilink")。通称**Oh\!デカ**。
+
+## 概要
+
+前番組『[内海ゆたおの夜はドッカーン\!](https://ja.wikipedia.org/wiki/内海ゆたおの夜はドッカーン! "wikilink")』がパーソナリティ[内海ゆたおの過度なストレスからくる体調不良によって](https://ja.wikipedia.org/wiki/笑組 "wikilink")11ヶ月で終わった。そこで『夜ドカ』開始前の最終選考にも残り『[伊集院光のオールナイトニッポン](https://ja.wikipedia.org/wiki/伊集院光のオールナイトニッポン "wikilink")』で評価の高かった伊集院へ白羽の矢が立ち、番組はスタートした。
+
+番組名は伊集院光がニッポン放送側に提出したタイトル案の中で数合わせ的に敢えてセンスのないものを入れたものが採用されたものである。伊集院本人的に最も気に入っていたタイトル案の『[伊集院光の怪電波発信基地](https://ja.wikipedia.org/wiki/伊集院光の怪電波発信基地 "wikilink")』は、後に[セント・ギガ](https://ja.wikipedia.org/wiki/セント・ギガ "wikilink")で[内海ゆたおとパーソナリティーを務めた番組で使用されている](https://ja.wikipedia.org/wiki/笑組 "wikilink")。
+
+番組の名物コーナー「ザ・ベースボールクイズ」をメインにしたイベントで[西武球場のスタンドを中高生のリスナーで満員にする](../Page/西武ドーム.md "wikilink")（1992年夏）など、ニッポン放送では「[ヤングパラダイス](https://ja.wikipedia.org/wiki/ヤングパラダイス "wikilink")」以来の人気と聴取率を誇った番組である。パーソナリティの伊集院自身も[芳賀ゆい](https://ja.wikipedia.org/wiki/芳賀ゆい "wikilink")の仕掛け人として一部で名は知られていたものの、本格的にブレイクしたのはこの番組がきっかけであった。
+
+金曜日のみアシスタント付きで「フライデースペシャル」として放送（番組開始から[1994年](../Page/1994年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで）。アシスタントは[宍戸留美](../Page/宍戸留美.md "wikilink")と[寺尾友美](https://ja.wikipedia.org/wiki/寺尾友美 "wikilink")（後に[BOO HOO WOOへ交代](https://ja.wikipedia.org/wiki/BOO_HOO_WOO "wikilink")）。月曜 - 木曜の放送と違い、あるテーマに沿って放送する事が多かった。
+
+番組内では同局のアナウンサーが度々出演し、主に外回り中継を含む色々な企画へ参加した。当初は[畑中秀哉](https://ja.wikipedia.org/wiki/畑中秀哉 "wikilink")、後に[山本剛士](../Page/山本剛士.md "wikilink")、[荘口彰久](../Page/荘口彰久.md "wikilink")の各アナウンサーが務めた。
+
+番組末期の1995年には伊集院の落語家時代の師匠・[三遊亭楽太郎](https://ja.wikipedia.org/wiki/三遊亭圓楽_\(6代目\) "wikilink")（当時）がゲスト出演し、思い出話へ花を咲かせた後伊集院を叱咤激励した。
+
+### 放送時間の変遷
+
+| 期間      | 放送時間（[日本時間](../Page/日本標準時.md "wikilink")） |
+| ------- | ----------------------------------------- |
+| 1991.03 | 1994.03                                   |
+| 1994.04 | 1995.04                                   |
+
+## 突然の番組終了とその後
+
+番組内の箱番組『[ぽっぷん王国ミュージックスタジアム](https://ja.wikipedia.org/wiki/ぽっぷん王国ミュージックスタジアム "wikilink")』が番組スポンサー（[ヤマハ](../Page/ヤマハ.md "wikilink")）と伊集院との軋轢により[荘口彰久](../Page/荘口彰久.md "wikilink")アナウンサーにパーソナリティが交代し、月曜日から金曜日の帯番組だったものが木曜日までの放送となるなど徐々に縮小していき、番組改編期でもない1995年4月末で突然終了してしまった。これは番組が実質上の[打ち切り](https://ja.wikipedia.org/wiki/打ち切り "wikilink")終了であったことを意味している。伊集院が後に語ったところによれば、3月末に終了→4月から他局で新番組という流れを作らせないために終了を1ヶ月引き延ばすというニッポン放送の嫌がらせだったらしい。
+
+伊集院自身は未だにその原因を語るのをためらう節があるが、原因として伊集院と番組スタッフ間で常にすれ違いがあった末最終的に[けんか別れしてしまったという説が有力である](https://ja.wikipedia.org/wiki/喧嘩 "wikilink")。未だに現在同局の幹部となった当時の編成局の人間とは遺恨があると思われる自虐的なトークをすることがある。また、[伊集院の事務所側が](https://ja.wikipedia.org/wiki/ホリプロ "wikilink")1995年3月末での打ち切りを見込んで、深夜のスポーツニュース『[どんまい\!\!](../Page/どんまい!!_VARIETYSHOW&SPORTS.md "wikilink")』（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）でスポーツキャスターのレギュラーを組み込んでしまい、スケジュール的に継続が困難となってしまったのも大きな要因であると言われている。
+
+[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[7月15日](../Page/7月15日.md "wikilink")には[ニッポン放送開局50周年記念番組内にて一夜限りの復活放送が行われた](https://ja.wikipedia.org/wiki/ニッポン放送開局記念日スペシャル_笑顔が一番!あなたと一緒に50年 "wikilink")。アシスタントとしてニッポン放送[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[垣花正](../Page/垣花正.md "wikilink")が出演。第1回目放送の音源も放送された。
+
+## エピソード
+
+  - **急遽繰り上がって『前夜祭』放送**
+
+<!-- end list -->
+
+  -
+    この番組は1991年3月1日の**金曜日**に**『前夜祭』**が放送され、**翌週の4日（月曜日）が『第1回』**としてカウントされている。一見大プッシュされて始まったように見えるが、裏には当時月〜木曜日の『夜ドカ』とは別に金曜日に編成されていた『[B21スペシャルの活躍金曜日](https://ja.wikipedia.org/wiki/B21スペシャルの活躍金曜日 "wikilink")』をニッポン放送側のミスで1週早く終了させてしまい、パーソナリティの[B21スペシャル](https://ja.wikipedia.org/wiki/B21スペシャル "wikilink")のスケジュールが押さえられなかったからだったという。
+
+<!-- end list -->
+
+  - **テレフォンショッキングに大量の電報を送りつける**\[1\]。
+
+<!-- end list -->
+
+  -
+    [1993年](../Page/1993年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")、23時台のコーナー「マドモワゼル詐欺の八百発八百中占い」で伊集院扮するキャラクター「マドモワゼル詐欺」(元ネタは占い師の[マドモワゼル朱鷺](https://ja.wikipedia.org/wiki/マドモワゼル朱鷺 "wikilink"))が「(翌週)9月20日の月曜日に、『[笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』の[テレフォンショッキング](https://ja.wikipedia.org/wiki/テレフォンショッキング "wikilink")のゲスト宛てに[電報](../Page/電報.md "wikilink")が激増する」という予言(という名目のリスナーへの煽り)を出したところ、翌週[9月20日](../Page/9月20日.md "wikilink")のテレフォンショッキングのゲスト、[本田博太郎](https://ja.wikipedia.org/wiki/本田博太郎 "wikilink")の元に「[電話帳](https://ja.wikipedia.org/wiki/電話帳 "wikilink")にして4冊分」という大量の電報がリスナーの手によって届いてしまった。
+    伊集院は無視を決め込もうとしたが、偶然本田の娘が「Oh\!デカ」リスナーだったため事情が本人の耳に入り、直接本田が番組へ電話をかけた。伊集院は非常に萎縮し謝罪するが、本田がとても洒落のわかる人だったため最悪の事態は回避することが出来た。その後ディレクターの提案で番組ゲストに本田を呼んで褒め称える放送を行った。
+    なお[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")に「Oh\!デカ」復活版が放送された際には最も印象に残ったゲストとして伊集院は本田の名を挙げている。
+
+<!-- end list -->
+
+  - **ドーハのとばっちり事件**\[2\]
+
+<!-- end list -->
+
+  -
+    1993年10月28日、この日は[アメリカワールドカップ](../Page/1994_FIFAワールドカップ.md "wikilink")[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")地区最終予選・[日本対](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")[イラク戦](https://ja.wikipedia.org/wiki/サッカーイラク代表 "wikilink")（俗に言う『[ドーハの悲劇](https://ja.wikipedia.org/wiki/ドーハの悲劇 "wikilink")』）の中継があり、さらにこの試合で日本がW杯出場を決めた場合にはそのあとに特別放送が追加放送されることが決まっていたため、日本がW杯を逃した場合に限って時間枠の余りで短縮放送を行うことになっていた。待機時間中、伊集院は社屋内の公開放送用の第1スタジオ(通称「銀河スタジオ」)にリスナーを約150人ほど集め、一緒に[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送されていたテレビ中継を観戦していた。試合は終盤まで日本リードで進んだため一旦は特番放送、本番組の完全休止が一旦スタッフから告げられ、スタッフたちは特番の準備を始めていた。ところが、[ロスタイムにイラクに得点を決められて引き分けとなり](https://ja.wikipedia.org/wiki/アディショナルタイム "wikilink")、日本の予選敗退に終わってしまった。
+    まさかの事態に伊集院とリスナーはショックにうなだれていると、スタジオのガラスの向こうが俄然慌しくなり、ディレクターとは違う偉い人が現れ、**「10分だけスタジオに戻るので、いつものように楽しいトークを放送してくれ」**と伝えられる。伊集院は「集まったリスナー達でさえショック状態にあるのに、家で1人で試合を見聞きしてた人はショックから立ち直れる訳もなく楽しい状況にあるわけもなく出来るわけない」と思っていたが、当時のディレクターだった森谷和郎（現・ニッポン放送取締役）に「出来る」と断言されてしまい、有無も言わさずオープニング曲が流れてきて、番組はスタート。重い空気に包まれたスタジオで、伊集院は苦し紛れに「（当時日本代表選手だった）[ラモス瑠偉](../Page/ラモス瑠偉.md "wikilink")がショックでまさおに戻っちゃうね」という、当時放映されていた[永谷園](https://ja.wikipedia.org/wiki/永谷園 "wikilink")「[Jリーグカレー](https://ja.wikipedia.org/wiki/Jリーグカレー "wikilink")」のTVCM（Jリーグカレーを食べたまさお少年がラモス瑠偉に[モーフィング](https://ja.wikipedia.org/wiki/モーフィング "wikilink")で変身する）にかけたジョークを喋ったが、その結果「冗談言ってる場合じゃない\!」と抗議の電話がニッポン放送に殺到する事態となった。この頃の伊集院は、1分1秒でも長く放送で話したいと思っていたそうだが、この日ほど話したくないと思ったことは無いとのこと。
+    なお、この日にハガキが当たったリスナーの1人に、後にアルバイトを経て現在「深夜の馬鹿力」の構成作家を務めている[渡辺雅史](https://ja.wikipedia.org/wiki/渡辺雅史 "wikilink")がいた（2010年6月14日の「[伊集院光 深夜の馬鹿力](../Page/伊集院光_深夜の馬鹿力.md "wikilink")」で伊集院がこの日のことを回想した時に、渡辺が直接打ち明けた。この日は、[南アフリカワールドカップによって番組が同様に](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")10分短縮された）。
+
+<!-- end list -->
+
+  - **スタジオブース内がハトだらけ**\[3\]
+
+<!-- end list -->
+
+  -
+    1993年、リスナーからのハガキの「新しいブームの[ペット](../Page/ペット.md "wikilink")は[ハト](https://ja.wikipedia.org/wiki/ハト "wikilink")！」というネタに大爆笑した伊集院が、「(翌日の番組では)先着10名のハト持参のリスナーをスタジオに招待する」と告知した。
+    翌日、ペットショップで購入したり野生のハトを捕獲してきたリスナーのうち先着10名をスタジオへ招待。連れてきたハト10匹はブース内に放し飼い状態にされ、飛び交うハトでブース内は大混乱。伊集院はリスナー達と[ロート製薬](../Page/ロート製薬.md "wikilink")のCMソング([単独スポンサー提供時のオープニングキャッチでハトが本社工場を飛んでいたことから](https://ja.wikipedia.org/wiki/ロート製薬#.E3.83.86.E3.83.AC.E3.83.93.E3.81.A7.E3.81.AE.E5.BA.83.E5.A0.B1.E6.B4.BB.E5.8B.95 "wikilink"))を合唱するなど大騒ぎした。
+    なお、[渡辺雅史](https://ja.wikipedia.org/wiki/渡辺雅史 "wikilink")も[浅草](../Page/浅草.md "wikilink")の[浅草寺](../Page/浅草寺.md "wikilink")で捕獲した野生のハトを持参して参加している。
+
+<!-- end list -->
+
+  - **尾行マン、スペシャル生放送中に突然の打ち切り**
+
+<!-- end list -->
+
+  -
+    「Oh\!デカ」黎明期、月〜木曜日24時台に帯で「さよなら！尾行マン」というコーナーが放送されていた。[アナウンサーと解説者](https://ja.wikipedia.org/wiki/畑中秀哉 "wikilink")（番組ディレクターが担当）が街で見かけた女性を勝手に家まで尾行し、それを実況した模様を1週完結で放送するというもの。深夜ラジオならではの発想とゲリラ性が受け、ついには、金曜日の「Oh\!デカフライデースペシャル」の特別企画として生放送するまでになった。ところが、この生放送で尾行した女性が、当時のニッポン放送の大株主の一つだった[新日本製鐵](../Page/新日本製鐵.md "wikilink")の重役の娘であったことが判明、生放送中盤に突然コーナーが終了し、以降二度とこのコーナーが復活することはなかった。
+    このコーナーへ解説者として登場していたディレクターの一人は、のちに芸能プロダクション[ホリプロ](https://ja.wikipedia.org/wiki/ホリプロ "wikilink")の[社長](https://ja.wikipedia.org/wiki/社長 "wikilink")に就任することになる[堀義貴](https://ja.wikipedia.org/wiki/堀義貴 "wikilink")である。番組開始当初は[5代目三遊亭圓楽門下の事務所](https://ja.wikipedia.org/wiki/三遊亭圓楽_\(5代目\) "wikilink")[星企画](https://ja.wikipedia.org/wiki/星企画 "wikilink")に所属していた伊集院も、フリーの期間を経て[ホリプロ](https://ja.wikipedia.org/wiki/ホリプロ "wikilink")所属となっている。
+
+### 有名人になったリスナー
+
+この番組は、学生時代に当番組を聞いていたのち、ラジオ界などへ進んだ有名人もいる。
+
+  - [海保知里](https://ja.wikipedia.org/wiki/海保知里 "wikilink")（のち[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")→フリーアナウンサー） - TBS入社後に『[伊集院光 日曜日の秘密基地](../Page/伊集院光_日曜日の秘密基地.md "wikilink")』でアシスタントとして出演した際、当番組の思い出話に花を咲かせていた。
+  - [乾貴美子](https://ja.wikipedia.org/wiki/乾貴美子 "wikilink")（[タレント](../Page/タレント.md "wikilink")） - 伊集院と[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")が番組企画で対決した際の罰ゲームにリスナー代表として出演したこともある。
+  - [降谷建志](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")（[Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")） - 降谷は西武球場のイベントに参加し、そこで初めて見た[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")に影響を受けたと雑誌で語っている。
+  - [春日俊彰](https://ja.wikipedia.org/wiki/春日俊彰 "wikilink")（[オードリー](https://ja.wikipedia.org/wiki/オードリー_\(お笑いコンビ\) "wikilink")） - 中学生時代に初めて触れたラジオ番組が「Oh\!デカ」であり、ラジオにハマるきっかけともなった\[4\]。この番組をきっかけとして[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")を全曜日聴く熱心なリスナーにまでなったという。
+  - [桃井はるこ](../Page/桃井はるこ.md "wikilink")（[声優](../Page/声優.md "wikilink")・[歌手](../Page/歌手.md "wikilink")） - 「ベースボールクイズ」にも出場したことがあるヘビーリスナー。[「わたしは伊集院さんのラジオ聴いてなかったら今のような仕事とかしていなかったと思う」](http://home.att.ne.jp/kiwi/momoi/nikki/index16.html)とまで語るほど思い入れのあった番組だそうだが、伊集院はそうとは知らず、後に『[伊集院光 深夜の馬鹿力](../Page/伊集院光_深夜の馬鹿力.md "wikilink")』で『[D's Garage21](https://ja.wikipedia.org/wiki/D's_Garage21 "wikilink")』（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")）にアシスタントとして出演していた桃井を「ニセ[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")」と[揶揄し](https://ja.wikipedia.org/wiki/伊集院光_深夜の馬鹿力の出来事 "wikilink")、翌週に謝罪する羽目になっている。
+  - [境貴雄](https://ja.wikipedia.org/wiki/境貴雄 "wikilink")（[クリエイティブ・ディレクター](https://ja.wikipedia.org/wiki/クリエイティブ・ディレクター "wikilink")、[現代美術家](https://ja.wikipedia.org/wiki/現代美術家 "wikilink")） - シニカルな笑いの性質を含む自身の作風に大きな影響を与えたものとして、中学生の頃に聞いていたこの番組と『[電気グルーヴのオールナイトニッポン](https://ja.wikipedia.org/wiki/電気グルーヴのオールナイトニッポン "wikilink")』を挙げ、「深夜ラジオの価値観が今のアイデンティティーのすべてを決定してしまっている」、「カセットテープに録音して、テープが擦り切れるくらい何度も何度も繰り返し聴いていました」とインタビューで語っている。
+
+## 主なコーナー
+
+  - あなたはだぁ〜れ?・ニセ○○を探せ\!
+  - さよなら\!尾行マン
+  - ギャグオペラコーナー
+  - [ザ・ベースボールクイズ](https://ja.wikipedia.org/wiki/ザ・ベースボールクイズ "wikilink")
+  - 涙あふれて
+  - 勝ち抜き[二人三脚](https://ja.wikipedia.org/wiki/二人三脚 "wikilink")
+  - キライな歌リクエスト
+  - 教習所へ行こう\!
+  - バイオ伊集院への道→バイオ伊集院への道・アマゾン
+  - オーデカイエローページ
+  - おべんとつけてどこいくの?
+  - 魂を売り渡せ\!
+  - 記憶中枢整理整頓コーナー
+  - 楽しい[金子信雄](https://ja.wikipedia.org/wiki/金子信雄 "wikilink")コーナー
+  - 姫のコーナー
+  - スーパーマニアック・ザ・ベースボールクイズ
+  - STREAKING HERO 全裸マン
+  - 無敵の[ゴレンジャープロジェクト](../Page/秘密戦隊ゴレンジャー.md "wikilink")
+  - [荒川線横断ウルトラクイズ](https://ja.wikipedia.org/wiki/都電荒川線 "wikilink")（[アメリカ横断ウルトラクイズ](https://ja.wikipedia.org/wiki/アメリカ横断ウルトラクイズ "wikilink")の[パロディ](https://ja.wikipedia.org/wiki/パロディ "wikilink")）
+  - 日本の歩き方
+  - NEWラジパラザウルス
+  - ネオ・[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")
+  - 後味の悪い川柳
+  - こどもでハイハーイ\!
+  - 伊集院アルバイト計画
+  - 伊集院光と花と夢
+  - [サブちゃん](https://ja.wikipedia.org/wiki/サブちゃん "wikilink")の歌
+  - [M.C.アナー](https://ja.wikipedia.org/wiki/MCハマー "wikilink")
+  - クラスの手帳
+  - 東京スポットめぐり'91
+  - 感想文コンクール
+  - ネオ・[ランバダ](https://ja.wikipedia.org/wiki/ランバダ "wikilink")
+  - すばらしき公式ルール
+  - 大検合格への道
+  - [オールシロウト親子対抗歌合戦](https://ja.wikipedia.org/wiki/オールスター家族対抗歌合戦 "wikilink")
+  - 山本アナのゴルゴ・サーズデー
+  - 身近な冒険王・光
+  - 商品開発研究所
+  - レッツ遺言状
+  - ロック[玉置宏](https://ja.wikipedia.org/wiki/玉置宏 "wikilink")
+  - [ケンとギルバートコーナー](https://ja.wikipedia.org/wiki/ケント・ギルバート "wikilink")
+  - [ノストラダムス](https://ja.wikipedia.org/wiki/ノストラダムス "wikilink")のお約束
+  - おべんとおべんとうれしいな
+  - オーデカオークション大魔王
+  - アイデア先生のアイデア授業
+  - 深読み言葉辞典
+  - マドモワゼル詐欺の八百発八百中占い
+  - こだわりの音職人
+  - スーパーファンキーレディオショー
+  - 文化妄想
+  - [クイズ個人の差なんて](https://ja.wikipedia.org/wiki/クイズ!年の差なんて "wikilink")
+  - [なるほど・ザ・ガールズ](../Page/なるほど!ザ・ワールド.md "wikilink")
+  - グレート偉人伝・どっちが偉〜いっ\!?
+  - 変な雑誌コーナー
+  - 変なおもちゃ開発計画
+
+## フライデースペシャルのアシスタント
+
+番組内で○代目アシスタントと紹介されたもののみ
+
+  - 初代 [寺尾友美](https://ja.wikipedia.org/wiki/寺尾友美 "wikilink")・[宍戸留美](../Page/宍戸留美.md "wikilink")(1991年3月1日-1992年3月27日)
+  - 二代目 [Boo Who Woo](https://ja.wikipedia.org/wiki/Boo_Who_Woo "wikilink")(1992年7月3日-1993年3月26日)
+  - 三代目 [山崎亜弥子](https://ja.wikipedia.org/wiki/山崎亜弥子 "wikilink")(1994年3月18日)渋谷スペシャルの回1日のみ
+  - 四代目 [佐野由希子](https://ja.wikipedia.org/wiki/佐野由希子 "wikilink")(1994年3月25日)フライデースペシャル最終回1日のみ　前週の渋谷スペシャルで渋谷から中継していた時に、当時アナウンサー志望の[青山学院大学](https://ja.wikipedia.org/wiki/青山学院大学 "wikilink")3年生だった佐野が偶然そこを通りかかり、伊集院に、来週ラジオに出ないかと誘われて出演した。佐野はその後、[富山テレビ放送](../Page/富山テレビ放送.md "wikilink")のアナウンサーを経て現在はフリーのアナウンサーをしている。
+
+## 箱番組
+
+3時間の生放送中、5つの箱番組（アイドル等が務める10分の録音番組）が存在した。これらの一部は地方局にもネットされていた。以下はその一部である。
+
+箱番組に出演していたメンバーを総称して**Oh\!デカファミリー**と呼んでいた。Oh\!デカファミリーは時折生放送にもゲスト出演した。
+
+なお、フライデースペシャルには箱番組の設定がなく、ネット局への[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")用に金曜放送分を制作（ニッポン放送では提供スポンサーのCMのみを流していた）。
+
+  - [デーモン・オーケンのラジオ巌流島](https://ja.wikipedia.org/wiki/デーモン・オーケンのラジオ巌流島 "wikilink")\[5\]\[6\]
+  - [CoCo恋は大騒ぎ](https://ja.wikipedia.org/wiki/CoCo恋は大騒ぎ "wikilink")→ピンクワンダーランドCoCo一番\!\[7\]\[8\]
+  - [渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink") ミッドナイトフライト
+  - [東幹久](https://ja.wikipedia.org/wiki/東幹久 "wikilink") 今夜もブレイク\!\[9\]
+  - [ウッチャンナンチャンのラジオな奴ら](https://ja.wikipedia.org/wiki/ウッチャンナンチャンのラジオな奴ら "wikilink")\[10\]
+  - [高岡早紀](https://ja.wikipedia.org/wiki/高岡早紀 "wikilink") No More Tears
+  - [山本君と](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")[田中君](https://ja.wikipedia.org/wiki/田中傑幸 "wikilink")\[11\]
+  - [山本君と](../Page/山本剛士.md "wikilink")[は田中君](https://ja.wikipedia.org/wiki/畑中秀哉 "wikilink")
+  - [緒形君と](https://ja.wikipedia.org/wiki/緒形直人 "wikilink")[的場君](https://ja.wikipedia.org/wiki/的場浩司 "wikilink")\[12\]
+  - [都並クン](https://ja.wikipedia.org/wiki/都並敏史 "wikilink")・[藤川クンのイエローカードなんて怖くない](https://ja.wikipedia.org/wiki/藤川孝幸 "wikilink")\!?
+  - [谷口宗一](https://ja.wikipedia.org/wiki/谷口宗一 "wikilink")のナイスバディ探偵団
+  - アイドル危機一髪\! 公開質問状（[おねがい\!チェッカーズ](https://ja.wikipedia.org/wiki/おねがい!チェッカーズ "wikilink")の次番組扱い）\[13\]
+  - [電気GROOVE](../Page/電気グルーヴ.md "wikilink") ビリビリいこうぜ
+  - [瀬戸朝香 せーとー派宣言](https://ja.wikipedia.org/wiki/瀬戸朝香_せーとー派宣言 "wikilink")
+  - [TOKIO](../Page/TOKIO.md "wikilink")ナイトCLUB（→のちの「[TOKIOナイトクラブ 長瀬くんと松岡くん](https://ja.wikipedia.org/wiki/TOKIOナイトクラブ_長瀬くんと松岡くん "wikilink")」）
+  - [いしだ壱成](https://ja.wikipedia.org/wiki/いしだ壱成 "wikilink") いっせのSAY\!
+  - [加勢大周](../Page/加勢大周.md "wikilink") ワイルドでいこう\!\[14\]
+  - [グレートチキンパワーズ](https://ja.wikipedia.org/wiki/グレートチキンパワーズ "wikilink") まぜまぜパニックびっくらげ\!
+  - [ロン・バード](https://ja.wikipedia.org/wiki/ロン・バード "wikilink") サイキック人生相談
+
+## 番組内の全国ネット枠
+
+番組内では箱番組以外に下記のような全国ネット枠があった。ニッポン放送ではもちろん生放送だったが、地方局で時間帯を変え録音番組としてネットしている場合があった。その際、ネット用に内容が差し替えられることもしばしばあった。
+
+  - チャオチャオ・ビッグカンパニー（24:00-24:30）
+  - 光ファイヤー通信（24:00-24:30）
+  - 爆発\!ポンプショー（24:00-24:30）
+  - [ぽっぷん王国ミュージックスタジアム](https://ja.wikipedia.org/wiki/ぽっぷん王国ミュージックスタジアム "wikilink")（24:40-24:55）※伊集院はスポンサーサイドとの確執のため1993年9月で降板。以後は[荘口彰久](../Page/荘口彰久.md "wikilink")アナウンサー（ニッポン放送）が担当。
+
+## オープニングテーマ
+
+歴代のオープニングテーマを順に示す。
+
+  - 曲名不明（[2・3'S](https://ja.wikipedia.org/wiki/2・3'S "wikilink")） - 番組内[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")も担当。
+  - [HOT CRUISING NIGHT](https://ja.wikipedia.org/wiki/FAST_ACCESS "wikilink") （[access](https://ja.wikipedia.org/wiki/Access_\(音楽ユニット\) "wikilink")）
+  - [NIGHT WAVE](https://ja.wikipedia.org/wiki/ACCESS_II "wikilink") （access）
+  - Space Ship Goes On （[nice music](https://ja.wikipedia.org/wiki/nice_music "wikilink")） - 番組内の2代目ジングルも担当したが、そちらは長続きせず半年ほどで元の初代ジングルに戻った。
+  - [スパイダー](https://ja.wikipedia.org/wiki/スパイダー_\(曲\) "wikilink") （[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")）
+
+accessとnice musicの曲については歌詞の一部が変更、または番組名の「Oh\!デカナイト」という単語に差し替えられ、各テーマ曲をモチーフにした番組ジングルも制作、使用された。
+
+## CD
+
+番組からは、**[荒川ラップブラザーズ](https://ja.wikipedia.org/wiki/荒川ラップブラザーズ "wikilink")**（**ARAKAWA RAP BROTHERS**、あらかわらっぷぶらざーず）という、いわゆる企画物ミュージシャンが誕生している。伊集院と[久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")によるユニット。グループ名は、シャレとして略称が[ARBとなるように意図されている](https://ja.wikipedia.org/wiki/ARB_\(バンド\) "wikilink")。1992年6月には[日比谷野外音楽堂](https://ja.wikipedia.org/wiki/日比谷野外音楽堂 "wikilink")にて**入場料100円ライブ**を実施した。
+
+以下2枚のCDをリリース。
+
+  - アナーキー・イン・AK（[ソニーレコード](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")/[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")/シングル）
+  - ARAKAWA魂（ソニーレコード/1992年5月21日/アルバム）
+
+また、番組後期の1コーナー「**STREAKING HERO 全裸マン**」からテーマ曲がCD化。伊集院と[千葉麗子](https://ja.wikipedia.org/wiki/千葉麗子 "wikilink")が出演するラジオドラマのコーナーであった。なお、CDのジャケットイラストは[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")。また[すかんち](https://ja.wikipedia.org/wiki/すかんち "wikilink")の[ローリー寺西](https://ja.wikipedia.org/wiki/ROLLY "wikilink")、[ドクター田中](https://ja.wikipedia.org/wiki/ドクター田中 "wikilink")がレコーディングに参加した。
+
+  - 全裸マンのテーマ（ソニーレコード/[1993年](../Page/1993年.md "wikilink")6月2日/シングル） - 「丸裸三郎と全裸マンブラザーズバンド」名義。[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")59位を記録。
+
+『アナーキー・イン・AK』『GAMAN everybody』『Once upon a time in AK』『全裸マンのテーマ』が[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")2月に通信カラオケ[DAMにて配信された](../Page/DAM_\(カラオケ\).md "wikilink")。
+
+## 番組本
+
+  - Oh\!デカ大百科（ニッポン放送出版/[1993年](../Page/1993年.md "wikilink")3月）ISBN 4-594-01120-9
+
+## 脚注
+
+  - 「[伊集院光 深夜の馬鹿力](../Page/伊集院光_深夜の馬鹿力.md "wikilink")」2013年11月18日放送分の伊集院本人の発言より。また同番組2014年7月21日放送分でも、ニッポン放送開局60周年の話題に触れ「あの局とは喧嘩別れした」と発言している。
+
+<!-- end list -->
+
+  - しかし伊集院自身は過去のインタビューにおいて「何をやっても別段誉めてはもらえないし、けなしてももらえない。確立されすぎたんでしょう。僕のワガママも聞いてもらえるし、向こうの言い分もすごくよくわかっちゃうというチームワークの良さ。あまりにきちんとしたルーチン化というのがおもしろくなくなってきたんです」と語っており、それが原因で飽きてしまって辞めた、とも語っている(「[ラジオライフ](https://ja.wikipedia.org/wiki/ラジオライフ "wikilink")」1998年5月号 ラジオ情報ステーション 人気DJインタビューより引用)。
+
+<!-- end list -->
+
+  - この人物（[宮本幸一](https://ja.wikipedia.org/wiki/宮本幸一 "wikilink")、[ニッポン放送プロジェクト代表取締役](https://ja.wikipedia.org/wiki/ラジオリビング "wikilink")）は過去にも[とんねるず](../Page/とんねるず.md "wikilink")の[石橋貴明](../Page/石橋貴明.md "wikilink")、[明石家さんま](../Page/明石家さんま.md "wikilink")とも軋轢を起こして、両者ともに、ニッポン放送と疎遠となるきっかけを作った人物である。伊集院と初めて会った時は泥酔しており、伊集院の頭を鷲づかみにするなり「売れる臭いがしねぇ」と吐き捨てて去って行った\[15\]。2014年、伊集院と偶然再会した際には[ウィキペディアの自身の項目から当該記述を](https://ja.wikipedia.org/wiki/ウィキペディア日本語版 "wikilink")「デマ」であるとして対処するように言い、伊集院を怒らせてしまったという\[16\]。
+
+<!-- end list -->
+
+  - 伊集院は後に[深夜の馬鹿力](https://ja.wikipedia.org/wiki/深夜の馬鹿力 "wikilink")内で、当時「ARBというグループがあるが、ARAKAWA RAP BROTHERSのパクリではないか」的なハガキが送られてきて、リスナーとの世代の差を感じたと語っている。
+
+<references />
+
+## 関連項目
+
+  - [安岡喜郎](https://ja.wikipedia.org/wiki/安岡喜郎 "wikilink")
+      -
+        伊集院光の育ての親、命名者、ディレクター。現在[日本テレビ所属](../Page/日本テレビ放送網.md "wikilink")。
+  - [勅使川原昭](../Page/勅使川原昭.md "wikilink")
+      -
+        ディレクター、のちに[石川よしひろのオールナイトニッポン](https://ja.wikipedia.org/wiki/石川よしひろのオールナイトニッポン "wikilink")のディレクターも担当。
+  - [神田比呂志](https://ja.wikipedia.org/wiki/神田比呂志 "wikilink")
+      -
+        ディレクター、のちに[ナインティナインのオールナイトニッポン](https://ja.wikipedia.org/wiki/ナインティナインのオールナイトニッポン "wikilink")のディレクターを長年担当した後、現在[フジテレビに](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")(グループ内転籍)
+  - [ARAKAWA RAP BROTHERS](https://ja.wikipedia.org/wiki/荒川ラップブラザーズ "wikilink")
+      - [久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")
+  - [渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")
+  - [宍戸留美](../Page/宍戸留美.md "wikilink")
+  - [寺尾友美](https://ja.wikipedia.org/wiki/寺尾友美 "wikilink")
+  - [石川よしひろ](../Page/石川よしひろ.md "wikilink")
+      -
+        伊集院とは仲良しで、オールナイトニッポン月曜2部→火曜1部を担当した。
+  - [荘口彰久](../Page/荘口彰久.md "wikilink")
+  - [激突\!あごはずしショー](https://ja.wikipedia.org/wiki/激突!あごはずしショー "wikilink")
+      -
+        伊集院のラジオデビュー番組。
+  - [電気グルーヴのオールナイトニッポン](https://ja.wikipedia.org/wiki/電気グルーヴのオールナイトニッポン "wikilink")
+      -
+        番組同士の交流が盛んで、番組共同イベントや番組乱入が度々あった。
+  - [渡辺雅史](https://ja.wikipedia.org/wiki/渡辺雅史 "wikilink")
+      -
+        常連[ハガキ職人](https://ja.wikipedia.org/wiki/ハガキ職人 "wikilink")。ラジオネームは**サバ味噌煮**。ニッポン放送前で出待ちをしていたのをきっかけにアルバイトとなり、現在は伊集院の専属扱いの放送作家となっている。
+
+## 外部リンク
+
+  - [ホリプロ堀社長のインタビュー](http://www.musicman-net.com/relay/32/a_3.html)（MUSICMAN-NET） - 「Oh\!デカ」の制作秘話を語っている。
+
+[Category:ニッポン放送の深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送の深夜ラジオ番組 "wikilink") [Category:ニッポン放送の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の帯番組の歴史 "wikilink") [Category:ニッポン放送のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のバラエティ番組 "wikilink") [Category:伊集院光](https://ja.wikipedia.org/wiki/Category:伊集院光 "wikilink") [Category:お笑い芸人のラジオ番組](https://ja.wikipedia.org/wiki/Category:お笑い芸人のラジオ番組 "wikilink") [Category:1991年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のラジオ番組_\(日本\) "wikilink")
+
+1.  『コメ旬』Vol.005（[キネマ旬報社](https://ja.wikipedia.org/wiki/キネマ旬報社 "wikilink")）「ロングインタビュー 伊集院光×山里亮太」（p.100 - 107）
+2.
+3.
+4.  藤井青銅・著『幸せな裏方』（[新潮社](../Page/新潮社.md "wikilink")　2017年）p.28 - 32「おせっかい」より。
+5.  [ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ "wikilink")提供枠
+6.  提供枠が放送期間内で変更あり
+7.
+8.  [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")提供枠
+9.
+10.
+11. [花王](../Page/花王.md "wikilink")提供枠
+12.
+13. [ライオン提供枠](../Page/ライオン_\(企業\).md "wikilink")
+14. 初期はスポンサーなしだったが、「アイドル危機一髪\! 公開質問状」終了に伴い放送時間が前倒し、ライオン提供枠となった。
+15.
+16.

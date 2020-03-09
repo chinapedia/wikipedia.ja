@@ -1,0 +1,406 @@
+> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+
+
+**A寝台**（エーしんだい）とは、[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）および[JR](../Page/JR.md "wikilink")における[寝台車の区分において](../Page/寝台車_\(鉄道\).md "wikilink")、[B寝台](https://ja.wikipedia.org/wiki/B寝台 "wikilink")の上位に位置する寝台設備である。なお、国鉄・JR以外では長距離フェリーの一部にも「A寝台」という名の設備があるが、本項では専ら国鉄・JRのA寝台について述べる。
+
+三[等級制時の一等](https://ja.wikipedia.org/wiki/等級_\(鉄道車両\) "wikilink")・二等寝台車、二等級制時の一等寝台車にあたる。設備は個室寝台と開放式寝台に大別できるが、現在は個室寝台が主流となっており、2013年以降は開放式A寝台を備えた列車は定期・臨時を含めて存在しなくなった。車体の種別記号は等級記号であるイロハの**ロ**と、寝台車を表す**ネ**を組み合わせた**ロネ**である。
+
+## 等級制時代
+
+### 戦前
+
+[1900年](../Page/1900年.md "wikilink")（[明治](../Page/明治.md "wikilink")33年）に[山陽鉄道](https://ja.wikipedia.org/wiki/山陽鉄道 "wikilink")が[神戸](https://ja.wikipedia.org/wiki/神戸駅_\(兵庫県\) "wikilink") - 三田尻（現・[防府](../Page/防府駅.md "wikilink")）間急行に初めて一等寝台車を連結した\[1\]。この車両の寝台設備は車両長手方向の上下二段とし、下段は昼は[ロングシート](https://ja.wikipedia.org/wiki/鉄道車両の座席#ロングシート "wikilink")、夜は背ずりを引き下げて寝台幅を拡張した\[2\]。山陽鉄道はさらに[1903年](../Page/1903年.md "wikilink")（明治36年）には二等寝台車も開発している\[3\]\[4\]。 以後、[官営鉄道](../Page/日本国有鉄道.md "wikilink")\[5\] や[日本鉄道](https://ja.wikipedia.org/wiki/日本鉄道 "wikilink")が追随し、[鉄道国有化](https://ja.wikipedia.org/wiki/鉄道国有化 "wikilink")後には長距離列車に欠かせない存在となった。地方の長距離[普通列車](../Page/普通列車.md "wikilink")にさえも、車体の半分が二等寝台となった[合造車が連結されていた時期がある](https://ja.wikipedia.org/wiki/旅客車#合造車 "wikilink")。
+
+戦前の三等級制時代には、一等寝台車（記号「イネ」）は室内に折畳み洗面台を備えた2人又は4人用区分寝室、二等寝台車（記号「ロネ」）は2段のツーリスト式開放寝台（舟形寝台）\[6\]を標準とした。[1934年](../Page/1934年.md "wikilink")（昭和9年）以降は、合理化のため東海道・山陽本線を除いては通常の営業列車で一等寝台車の連結はなくなった。一等寝台車が折畳み洗面台を備えた区分寝室であることは、当時の政府や軍の高官の旅行に際してプライベートな姿を他に見せない配慮の結果であった。したがって、一等寝台車の連結廃止後他の線区で高官の乗車が想定される区間用には二等ながら区分室を備えた寝台車が作製された\[7\]。
+
+当時の優等寝台車は多車種少量製作で変形車が多く、二等寝台車ではあるが、例外的に4人用[区分寝室](https://ja.wikipedia.org/wiki/寝台車_\(鉄道\)#寝台の配置方式 "wikilink")（[コンパートメント](https://ja.wikipedia.org/wiki/コンパートメント席 "wikilink")）を備えた車両（マロネ37480形。後の[マロネ38形](https://ja.wikipedia.org/wiki/国鉄スハ32系客車#寝台車（丸屋根車） "wikilink")）\[8\] や、定員2名の特別室\[9\] を備えた一等寝台車等も存在した（マイネ37130形。後のマイネ38・マロネ49形）。マイネ37130形には、当時の鉄道大臣の発案で、改造のうえ[シャワー室](https://ja.wikipedia.org/wiki/シャワー室 "wikilink")を装備したものが1両存在し、特急「[富士](https://ja.wikipedia.org/wiki/富士_\(列車\) "wikilink")」に運用されたが、シャワー自体当時の日本人に馴染みがなく、同じ[スジに入るのが](https://ja.wikipedia.org/wiki/ダイヤグラム#鉄道におけるダイヤ "wikilink")4日に一度と言う頻度であったことから利用も伸びず、短期間で消滅している\[10\]。 走り装置には、種々の[艤装](https://ja.wikipedia.org/wiki/艤装 "wikilink")によって増加した車両重量に対応するため、3軸ボギー式[台車が用いられ](../Page/鉄道車両の台車.md "wikilink")、[軸重の軽減を図った](https://ja.wikipedia.org/wiki/活荷重 "wikilink")。
+
+変わった存在としては、[ダブルベッド](https://ja.wikipedia.org/wiki/ダブルベッド "wikilink")を備えた寝台車が、[明治](../Page/明治.md "wikilink")末期から[大正](../Page/大正.md "wikilink")中期に存在した。[1910年](../Page/1910年.md "wikilink")（明治43年）9月より、[旧新橋](https://ja.wikipedia.org/wiki/汐留駅_\(国鉄\) "wikilink") - [神戸間の](https://ja.wikipedia.org/wiki/神戸駅_\(兵庫県\) "wikilink")[急行列車](../Page/急行列車.md "wikilink")に連結された二等寝台車「ロネ9140形」に、「二等寝台二人床」と呼ばれる寝台が設けられた。これは大人2人が寝ることができるダブルベッドを備えたもので、夫婦での利用を考慮したものとされる。[1912年](../Page/1912年.md "wikilink")に運転開始した日本初の[特別急行列車](https://ja.wikipedia.org/wiki/特別急行列車 "wikilink")、[1・2列車](https://ja.wikipedia.org/wiki/富士_\(列車\)#戦前・日本初_特別急行1・2列車「富士」 "wikilink")（後の「富士」）に連結されたスロネ10055形の[プルマン式寝台の下段も同様である](https://ja.wikipedia.org/wiki/プルマン_\(企業\) "wikilink")\[11\]。この「二等寝台二人床」は、[1918年](../Page/1918年.md "wikilink")（大正7年）11月に「二等寝台大型」と改称され、大人2人での利用は禁止された。その理由としては、当時、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")で巨額の富を得た[成金](https://ja.wikipedia.org/wiki/成金 "wikilink")が、[芸者](https://ja.wikipedia.org/wiki/芸者 "wikilink")を連れて「不純な行為」をするなど、本来の目的からは離れた利用実態が、世間の猛烈な批判を招いたことにあるとされる。日本の寝台車においてダブルベッドが復活するのは、70年以上が経過した[JR](../Page/JR.md "wikilink")発足後のこととなる。
+
+[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")の戦況悪化に伴って[1944年](../Page/1944年.md "wikilink")（昭和19年）4月に実施された決戦非常要領により、[一等車](../Page/一等車.md "wikilink")および[寝台車の連結が中止された](../Page/寝台車_\(鉄道\).md "wikilink")。寝台車の多くは各地に[疎開](https://ja.wikipedia.org/wiki/疎開 "wikilink")留置、あるいは三等座席車に改造されたが、二等寝台車の一部は高官・要人等の特殊公用客用として運用された。
+
+### 戦後の展開
+
+戦後の一時期、疎開によって三等車への[戦時改造や](https://ja.wikipedia.org/wiki/戦時設計 "wikilink")[戦災](https://ja.wikipedia.org/wiki/戦災 "wikilink")を免れた数少ない優等寝台車は、[進駐軍専用に運用されていたが](https://ja.wikipedia.org/wiki/連合軍専用列車 "wikilink")、[1948年](../Page/1948年.md "wikilink")（昭和23年）に戦後初の新造一等寝台車[マイネ40形が新製され](https://ja.wikipedia.org/wiki/国鉄マロネ40形客車 "wikilink")、この時期から日本人も利用できる寝台車が復活した。この車両は製造当初から[冷房](https://ja.wikipedia.org/wiki/冷房 "wikilink")を搭載した日本で初めての寝台車である。なおこの年11月10日に復活した当初は“特別寝台車”と称し、翌年5月1日に一等寝台車と呼称を改めた。
+
+その後一等寝台車の増備や、進駐軍接収の一等・二等寝台車の返還が進行し、また[4人用区分室方式の二等寝台車](https://ja.wikipedia.org/wiki/寝台車_\(鉄道\)#寝台の配置方式 "wikilink")（[マロネ39形](https://ja.wikipedia.org/wiki/国鉄スハ32系客車#寝台車（改造車） "wikilink")、[スロネ30形等](https://ja.wikipedia.org/wiki/国鉄スハ43系客車#スロネ30形 "wikilink")）が新製や在来車改造で登場した。こうして[1950年代](../Page/1950年代.md "wikilink")前半には日本各地の長距離急行列車において、一等、二等寝台車が、ほぼ[戦前](https://ja.wikipedia.org/wiki/戦前 "wikilink")並みに復活した。
+
+<table>
+<caption><strong>1955年等級改正対照表</strong>[12]</caption>
+<thead>
+<tr class="header">
+<th><p>格下げ前形式</p></th>
+<th><p>格下げ後形式</p></th>
+<th><p>寝台定員</p></th>
+<th><p>冷房</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>ABCは2等<br />
+寝台の等級</p></td>
+<td><p>○：全車有<br />
+△：一部車輌有<br />
+×：無</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/国鉄マロネ40形客車" title="wikilink">マイネ40</a></p></td>
+<td><p>マロネ40</p></td>
+<td><p>A6/B16</p></td>
+<td><p>○</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/国鉄マロネ40形客車#マイネ41形（マロネ41形）" title="wikilink">マイネ41</a></p></td>
+<td><p>マロネ41</p></td>
+<td><p>B24</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/国鉄オハ31系客車#寝台車" title="wikilink">マイネ29</a></p></td>
+<td><p>マロネ48</p></td>
+<td><p>A20</p></td>
+<td><p>×</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/国鉄スハ32系客車#寝台車（二重屋根車）" title="wikilink">マイネ38</a></p></td>
+<td><p>マロネ49</p></td>
+<td><p>A17</p></td>
+<td><p>△</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/国鉄スハ32系客車#寝台車（改造車）" title="wikilink">マイロネ39</a></p></td>
+<td><p>マロネ58</p></td>
+<td><p>A2/B12</p></td>
+<td><p>×[13]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/国鉄オハ31系客車#寝台車" title="wikilink">マイネフ29</a></p></td>
+<td><p>マロネフ48</p></td>
+<td><p>A18</p></td>
+<td><p>×</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/国鉄スハ32系客車#寝台車（二重屋根車）" title="wikilink">マイネフ38</a></p></td>
+<td><p>マロネフ49</p></td>
+<td><p>A16</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/国鉄スハ32系客車#寝台車（二重屋根車）" title="wikilink">マロネフ38</a>（0番台）</p></td>
+<td><p>マロネフ58</p></td>
+<td><p>A8/C12</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>マイロネフ38</p></td>
+<td><p>マロネフ59</p></td>
+<td><p>A2/B12</p></td>
+<td><p>×[14]</p></td>
+</tr>
+</tbody>
+</table>
+
+しかし、一等寝台は当時の[航空](../Page/航空.md "wikilink")運賃よりも高くなる区間があるなど、その運賃・料金の高さによって利用率が低迷する一方で、二等寝台車は需要が非常に高かったことから、[1955年](../Page/1955年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")30年）[7月1日](../Page/7月1日.md "wikilink")に一等寝台は廃止され、車両は二等寝台車に格下げ統合された。旧一等寝台の形式称号である「イネ」も廃止され、「ロネ」となった。この際、旧イネの[車両形式は](https://ja.wikipedia.org/wiki/形式称号 "wikilink")「40」以上にまとめられた\[15\]。
+
+このとき二等寝台車のうち、旧一等寝台区分室を**二等A寝台**、マロネ40のプルマン式寝台等、旧一等寝台開放室冷房付きを**二等B寝台**、マロネ29のツーリスト式寝台等、従前からの二等寝台開放室で非冷房のものを**二等C寝台**とした。
+
+ただし、旧一等寝台でも冷房のないものは様々な基準で等級づけされ、実際の整理の経緯は複雑である。
+
+たとえば、右の1955年等級改正対照表でマロネフ58形とされたマロネフ38形は0番台であるが、もと一等区分室をもっていたものの需要が見込めず、これ以前に二等特別室（特ロネ）に格下げされていたものが、このとき二等Aに分類されている。また、[マロネフ38形（10番台）は](https://ja.wikipedia.org/wiki/国鉄スハ32系客車#寝台車（二重屋根車） "wikilink")、改正前に同様に一等区分室を二等特別室に格下げ改造した際、[洗面台](https://ja.wikipedia.org/wiki/洗面台 "wikilink")を撤去していたので、二等Cとされ た。
+
+従来から二等寝台であった客車は、全室4人用区分室のマロネ39形、スロネ30形も、一部区分室を含むマロネ38形も、ツーリスト式寝台と同様、すべて二等Cとされた。
+
+### 20系客車登場以降
+
+この頃までの旧一等寝台区分室は、2人または4人用のみであったが、[1958年](../Page/1958年.md "wikilink")（昭和33年）に開発された[20系客車のうち](https://ja.wikipedia.org/wiki/国鉄20系客車 "wikilink")、区分室寝台のみで製造されたナロネ20形に、二等寝台車に初の1人用個室寝台、「ルーメット」が導入された。これは、二等A室扱いとしたが、従来の二等A寝台下段の料金よりも600円高い3360円の「個室」料金が別途設定され、二人用区分室は従来の二等A室として取り扱った。プルマン式開放式寝台であったナロネ21形は従来どおり二等B室とされた。また、[1959年](../Page/1959年.md "wikilink")（昭和34年）登場したナロネ22形は「ルーメット」とプルマン式開放式寝台との合造車であったため、区分室は二等A個室、開放室は二等B室となった。
+
+なおこの時代には、二人用区分室は単に「二等A」であり、「個室」の名称は1人用についてのみ用いられた。ナロネ20形の2人室を「2人用個室」と呼ぶようになったのはモノクラス制後のことである。
+
+また、在来客車の置き換えでもあった[10系客車のうち](https://ja.wikipedia.org/wiki/国鉄10系客車 "wikilink")、1958年より増備された[ナロハネ10形の](https://ja.wikipedia.org/wiki/国鉄10系客車#寝台車 "wikilink")2等部分はプルマン式寝台ながら、当初は非冷房のため二等Cとしたが、[1964年](../Page/1964年.md "wikilink")（昭和39年）に行われた冷房改造により一等B室へ変更となった。[1959年](../Page/1959年.md "wikilink")（昭和34年）のオロネ10形は当初から冷房設備があり、二等Bとされた\[16\]。
+
+[1960年](../Page/1960年.md "wikilink")（昭和35年）に国鉄の等級制の整理が行われ、従来の二等を一等に、従来の三等を二等として2等級制になった。これに伴い優等寝台は一等寝台となったが、ABCおよびA「個室」の区分は継承された。
+
+[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")にかつての2等寝台車の標準とされたツーリスト式寝台車が廃止され、事実上開放式の一等寝台はB寝台のみとなる。
+
+[1967年](../Page/1967年.md "wikilink")（昭和42年）に登場した寝台電車[581・583系においては](https://ja.wikipedia.org/wiki/国鉄583系電車 "wikilink")、二等寝台のみの編成となり、一等寝台を製作しなかった。これは昼夜兼帯で使用されることが前提となっており、昼行列車1等車で標準のリクライニングシート車に比肩できる水準の一等寝台・座席両用の設備を開発することが困難と考えられたためである。なお、後年[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）に583系寝台電車に登場したA寝台車、「サロネ581形」は、後年の「サハネ581形」からの改造によるもので、昼夜兼用しないこと（寝台のみでの運用）が前提のため、これが可能となった。
+
+## 等級制廃止後から民営化まで
+
+[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）等級制廃止により、従来の一等寝台をA寝台、二等寝台を[B寝台](https://ja.wikipedia.org/wiki/B寝台 "wikilink")と呼称するようになる。また、従来の一等寝台車の等級は廃止され、料金上は「ルーメット」にのみ適用する「個室」と上下段による区別のみとなった。このため旧一等Aの2人用個室も、旧一等Bの開放式寝台と同じ料金となった。
+
+その後、[特急用として製造された](https://ja.wikipedia.org/wiki/特急形車両 "wikilink")[14系寝台車では編成の自由度と輸送力を重視したことから](https://ja.wikipedia.org/wiki/国鉄14系客車 "wikilink")、A寝台になる「オロネ14形」や、3段式B寝台車とともに製造された[24系24形までの新製車](https://ja.wikipedia.org/wiki/国鉄24系客車 "wikilink")「オロネ24形」についても開放式寝台のみを製作した。なお、これらは開放式A寝台車はレール方向に寝台を並べる「プルマン式」を採用したため、車両の中央に通路が設けられている。
+
+ただし、[1970年代](../Page/1970年代.md "wikilink")後半より[1980年代](../Page/1980年代.md "wikilink")前半にかけて、[寝台料金の上昇による利用率の減少や車両の老朽化から](../Page/寝台券.md "wikilink")、開放式寝台は[急行列車](../Page/急行列車.md "wikilink")をはじめとして連結を終了する事例も出てきたうえ、二段式寝台で製作された24系25形客車への車種変更に際して、[特急列車でも連結を行わない事例が増えてきた](https://ja.wikipedia.org/wiki/特別急行列車 "wikilink")。
+
+そのため、個室寝台車として久々に新製されたのは[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")（昭和51年）の[24系客車に属する](https://ja.wikipedia.org/wiki/国鉄24系客車 "wikilink")「[オロネ25形](https://ja.wikipedia.org/wiki/国鉄24系客車#オロネ25形 "wikilink")」である。個室寝台車は20系客車以降製作されなかった上、運用がごく限られたものであったが、同車は二段式寝台で製作されたB寝台車に対して、A寝台を個室とすることでこのクラスの品質を確保する意図があったとされる。内装は、寝台を[枕木](https://ja.wikipedia.org/wiki/枕木 "wikilink")方向に配置し、片側通路とした一人用個室寝台車である。後にこの個室は、後年改造によって登場したものとともに、「シングルデラックス（DX）」と名付けられた。
+
+この新製車による初期の「シングルデラックス」は、当初より[東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink")発着の[ブルートレインのうち](https://ja.wikipedia.org/wiki/ブルートレイン_\(日本\) "wikilink")、25形客車を使用した「[はやぶさ](https://ja.wikipedia.org/wiki/はやぶさ_\(列車\) "wikilink")」、「[富士](https://ja.wikipedia.org/wiki/富士_\(列車\) "wikilink")」、「[あさかぜ1・4号](https://ja.wikipedia.org/wiki/あさかぜ_\(列車\) "wikilink")」および「[出雲](https://ja.wikipedia.org/wiki/出雲_\(列車\) "wikilink")」に使用され、ほぼ原形を保ちながら[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）まで運行の「はやぶさ」・「富士」に連結されていた。
+
+## 民営化以降の展開
+
+[1980年代](../Page/1980年代.md "wikilink")中盤以降、とりわけJR分社化後に有力な資源とされた寝台列車の利用促進のため、寝台車の個室化が進行する。
+
+本稿の主題であるA寝台の場合、JR分社化を目前にした[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）に登場した「ツインデラックス（DX）」と、「あさかぜ1・4号」、「出雲1・4号」用の「シングルデラックス」の改修が緒となった。
+
+なお、前者は「[北斗星](../Page/北斗星_\(列車\).md "wikilink")」となる「[青函ブルトレ](../Page/青函トンネル.md "wikilink")」用として改造されたものを「[ゆうづる](https://ja.wikipedia.org/wiki/東北本線優等列車沿革 "wikilink")」に連結して運用を開始した。
+
+また、1人用A寝台「シングルデラックス」は従来開放式B寝台のみないし開放式A寝台連結列車への設定が進んだ。その際、改造の種類により原型の片廊下式の個室のほか、上下の寝台の位置を半分ずつずらし、上段寝室内に階段を設け二層式としたものや、中央に廊下を配したものも現れた。
+
+また、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）に新造された[285系寝台電車でも同様の名で最新型個室が登場している](https://ja.wikipedia.org/wiki/JR西日本285系電車 "wikilink")。
+
+しかし、[2012年](../Page/2012年.md "wikilink")（平成24年）3月17日のダイヤ改正で、開放型A寝台を連結していた寝台特急「[日本海](https://ja.wikipedia.org/wiki/日本海_\(列車\) "wikilink")」 及び急行「[きたぐに](https://ja.wikipedia.org/wiki/きたぐに_\(列車\) "wikilink")」の定期運行を廃止。臨時列車化に際して、両列車とも開放型A寝台を連結されなくなったため、同型の寝台を連結する寝台列車は全廃。[2014年](../Page/2014年.md "wikilink")（平成26年）までに開放式A寝台車は全て廃車となり、ここに旧山陽鉄道一等車から数えれば一世紀にも及んだ開放式のA寝台の歴史が幕を閉じた。
+
+## 個室A寝台
+
+先述の通り、A寝台においては戦後も個室寝台車が設置されてきたが、数は少なく、国鉄時代は開放式が主流であった。ただし、[前に述べたとおり](https://ja.wikipedia.org/wiki/#戦後の展開 "wikilink")、「区分室」として存在したものもあった。
+
+しかし、個室を1つの単位として寝台券を販売する「個室寝台」は[20系客車の](https://ja.wikipedia.org/wiki/国鉄20系客車 "wikilink")1人用個室「ルーメット」と[24系客車の](https://ja.wikipedia.org/wiki/国鉄24系客車 "wikilink")[オロネ25形の](https://ja.wikipedia.org/wiki/国鉄24系客車#オロネ25形 "wikilink")1人用個室が1984年（昭和59年）の[個室B寝台「カルテット」の運用以前では唯一であった](https://ja.wikipedia.org/wiki/B寝台#個室寝台の種類 "wikilink")。
+
+その後、プライバシーの重視と居住性の改善の見地から、寝台車の個室化が進展した。従来からの個室も洗面台などが設けられている点がB寝台との差異となっていたが、国鉄末期以降は、在来車の改造によりB寝台個室が登場、これに対し差別化を図るため、同じく改造により登場したA寝台個室の大半は室内テレビやオーディオ機器などが設けられている。
+
+国鉄民営化後直前の1987年（昭和62年）に、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")直通寝台特急用として2人用A寝台個室「ツインデラックス（DX）」が登場。
+
+1988年（昭和63年）の[青函トンネル](../Page/青函トンネル.md "wikilink")開業に伴って運行を開始した、寝台特急「[北斗星](../Page/北斗星_\(列車\).md "wikilink")」には先の2人用A寝台個室「ツインデラックス（DX）」とともに豪華個室「ロイヤル」が設定され、先述の機器に加え[合造式のトイレ・シャワールームやベッドとは異なるリビングスペースが登場し](https://ja.wikipedia.org/wiki/ユニットバス "wikilink")、戦前の一等区分室をも上回る豪華さとなった。
+
+さらに寝台特急「[トワイライトエクスプレス](https://ja.wikipedia.org/wiki/トワイライトエクスプレス "wikilink")」では、このロイヤルルームを「北斗星」以上に設置し、更にセミダブルベッドの2床配置や、最後部展望スペースやトイレ・洗面台ユニットと独立したシャワールームなどを兼ねた2人用個室「スイート」を設置、質の高いサービスを提供し、ブランドイメージの構築に成功した。
+
+またJR東日本で試作された「[夢空間](https://ja.wikipedia.org/wiki/国鉄24系客車#夢空間 "wikilink")」では、オロネ25 901「デラックススリーパー」において[バスルーム付きの個室が](../Page/風呂.md "wikilink")3室のみ設定された。2室が設定された「スーペリアツイン」の料金は、「カシオペア」の「カシオペアスイート」と同額である。また最上級個室である「エクセレントスイート」は、居間と寝室の間に扉があり、一般的なホテルにおける[スイートルーム](https://ja.wikipedia.org/wiki/スイートルーム "wikilink")の概念に近い[間取り](https://ja.wikipedia.org/wiki/間取り "wikilink")である。一室67,320円と、スイート等より高額な料金が話題となったが、2008年（平成20年）に夢空間編成の[廃車とともに廃止された](https://ja.wikipedia.org/wiki/廃車_\(鉄道\) "wikilink")。
+
+これを更に推し進めた寝台特急「[カシオペア](../Page/カシオペア_\(列車\).md "wikilink")」で使用されている[E26系客車では](https://ja.wikipedia.org/wiki/JR東日本E26系客車 "wikilink")、個室A寝台車のみで編成を組むという試みを行っている。また同車では全ての寝台にトイレ・洗面台を設け、上級客室である「カシオペアDX」「カシオペアスイート」では個室シャワーも設置されており、「トワイライトエクスプレス」の2号車スイート以来となる、トイレとシャワースペースの分離を行い、トイレの折り畳み動作を省略している。
+
+2013年（平成25年）に登場した「[ななつ星in九州](https://ja.wikipedia.org/wiki/ななつ星in九州 "wikilink")」用の77系客車では「クルージングトレイン」として更に豪華な内装を求め、全室にシャワーを設置するなど設備の充実化を推し進めている 。また長い間廃れていた「イネ」の称号が復活した。ただし運行上の戦略から、これまでの上級A寝台個室と異なり室内テレビは敢えて設けていない。
+
+「カシオペア」「ななつ星in九州」とも、客車列車の性質を利用し、最後部は通路部分を廃し丸々個室スペースに利用した「展望式スイート」が設置されている。なお、バスルーム付き個室が設定された車両は2017年より運行が開始された「[TRAIN SUITE 四季島](https://ja.wikipedia.org/wiki/TRAIN_SUITE_四季島 "wikilink")」「[TWILIGHT EXPRESS 瑞風](https://ja.wikipedia.org/wiki/TWILIGHT_EXPRESS_瑞風 "wikilink")」において、「夢空間」以来9年ぶりに復活した。
+
+ちなみに、個室の施錠方式は、 鍵・錠前によるものと暗証番号を入力する方式のほかカードキーを使うものがある。
+
+### 名称
+
+時刻表等では「A」と表示される通常タイプのものと、「SA」と表示される特別タイプのものに分かれる。
+
+また、同じ「SA」でも「カシオペアデラックス」と、「スイート」・「カシオペアスイート」では料金体系が分かれる。
+
+それぞれ、以下の名称が与えられている。なお、本表で「SA2」に該当する個室で定期列車としての運用されるものは現在まで一度も存在していない。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>記号</p></th>
+<th><p>定員</p></th>
+<th><p>名称</p></th>
+<th><p>現行設定列車</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>A1</p></td>
+<td><p>1人</p></td>
+<td><p>シングルデラックス<br />
+（シングルDX）</p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/瀬戸_(列車)" title="wikilink">サンライズ瀬戸</a>」<br />
+「<a href="https://ja.wikipedia.org/wiki/出雲_(列車)" title="wikilink">サンライズ出雲</a>」</p></td>
+<td><p><a href="../Page/寝台券.md" title="wikilink">A個室寝台料金計算上の基礎となる</a>。<br />
+<a href="https://ja.wikipedia.org/wiki/1976年" title="wikilink">1976年</a>（<a href="../Page/昭和.md" title="wikilink">昭和</a>51年）登場の「<a href="https://ja.wikipedia.org/wiki/国鉄24系客車#オロネ25形" title="wikilink">オロネ25形</a>」車両が<a href="https://ja.wikipedia.org/wiki/#等級制廃止後JR化まで" title="wikilink">上記にあるように直接的な祖となるが</a>、<a href="https://ja.wikipedia.org/wiki/#JR化以降の展開" title="wikilink">JR化以降A寝台で設定が増加した</a>。</p></td>
+</tr>
+<tr class="even">
+<td><p>SA1</p></td>
+<td><p>|ロイヤル</p></td>
+<td><p>（2017年現行設定なし）</p></td>
+<td><p>廃止された「北斗星」と「トワイライトエクスプレス」に設置された。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>※[17]</p></td>
+<td><p>2人</p></td>
+<td><p>DXスイート</p></td>
+<td><p>「ななつ星in九州」</p></td>
+<td><p>同列車内で最高額個室。<br />
+2室のうち1室は展望室となる。</p></td>
+</tr>
+<tr class="even">
+<td><p>スイート</p></td>
+<td><p>「ななつ星in九州」では標準室となる。</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>SA2</p></td>
+<td><p>（2017年現在設定なし）</p></td>
+<td><p>廃止された「トワイライトエクスプレス」では、一部が展望室となっていた。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>カシオペアデラックス</p></td>
+<td><p>「カシオペア」</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>カシオペアスイート</p></td>
+<td><p>一部は展望室となる。</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>※※[18]</p></td>
+<td><p>スーペリアツイン</p></td>
+<td><p>（2008年廃車）</p></td>
+<td><p>JR東日本が試作した「夢空間」に2室設定された専用個室。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>エクセレントスイート</p></td>
+<td><p>「夢空間」において1室のみ導入された最高額個室。</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>A2</p></td>
+<td><p>ツインデラックス<br />
+（ツインDX）</p></td>
+<td><p>（2017年現在設定なし）</p></td>
+<td><p>A寝台2人用では最初に設置。シングルDX同様の汎用的名称だが、廃止された「北斗星」にのみ設置された。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>カシオペアツイン</p></td>
+<td><p>「カシオペア」</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>カシオペアコンパート</p></td>
+<td><p>車椅子利用客専用である。</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## ギャラリー
+
+ファイル:Hayabusa Limited express shingle-DX.jpg|14系シングルデラックス（寝台特急「[富士](https://ja.wikipedia.org/wiki/富士_\(列車\) "wikilink")」、2007年8月） ファイル:Ginga Express A-class sleeping car.jpg|24系開放式A寝台通路（寝台急行「[銀河](../Page/銀河_\(列車\).md "wikilink")」、2007年8月） ファイル:A-s-IMG 6520.jpg|24系開放式A寝台・上段（寝台急行「銀河」、2008年2月） ファイル:A-s-IMG 6525.jpg|24系開放式A寝台・下段（寝台急行「銀河」、2008年2月） ファイル:Interiors of Orone 14 199908.jpg|14系開放式A寝台（寝台特急「さくら」、1999年8月） ファイル:JNR NA RO NR 21 pullman type sleeping car seat.JPG|ナロネ21の座席状態 ファイル:ORONE14.jpg|座席から寝台化への転換作業（寝台特急「さくら」、1999年10月）
+
+2016年3月22日現在、A寝台を設ける定期夜行列車は、臨時列車で運行される実績もある「[サンライズ出雲](https://ja.wikipedia.org/wiki/出雲_\(列車\) "wikilink")」と「[サンライズ瀬戸](https://ja.wikipedia.org/wiki/瀬戸_\(列車\) "wikilink")」のみとなる。また、[ツアー専門列車として](https://ja.wikipedia.org/wiki/団体専用列車 "wikilink") 「[カシオペアクルーズ](../Page/カシオペア_\(列車\).md "wikilink")」がある。
+
+## A寝台を設けた夜行列車
+
+  - かつて連結されて運行されていた列車について記載する。なお、詳細は列車項目を参照されたい。
+
+<!-- end list -->
+
+  - [あかつき](https://ja.wikipedia.org/wiki/あかつき_\(列車\) "wikilink")
+  - [あけぼの](https://ja.wikipedia.org/wiki/あけぼの_\(列車\) "wikilink")
+  - [あさかぜ](https://ja.wikipedia.org/wiki/あさかぜ_\(列車\) "wikilink")
+  - [天の川](https://ja.wikipedia.org/wiki/とき_\(列車\)#上越線優等列車沿革 "wikilink")
+  - [出雲](https://ja.wikipedia.org/wiki/出雲_\(列車\) "wikilink")
+  - [カシオペア](../Page/カシオペア_\(列車\).md "wikilink")
+  - [紀伊](https://ja.wikipedia.org/wiki/紀伊_\(列車\) "wikilink")
+  - [きたぐに](https://ja.wikipedia.org/wiki/きたぐに_\(列車\) "wikilink")
+  - [銀河](../Page/銀河_\(列車\).md "wikilink")
+  - [さくら](https://ja.wikipedia.org/wiki/さくら_\(列車\) "wikilink")
+  - [彗星](https://ja.wikipedia.org/wiki/彗星_\(列車\) "wikilink")
+  - [瀬戸](https://ja.wikipedia.org/wiki/瀬戸_\(列車\) "wikilink")
+  - [トワイライトエクスプレス](https://ja.wikipedia.org/wiki/トワイライトエクスプレス "wikilink")
+  - [なは](https://ja.wikipedia.org/wiki/なは_\(列車\) "wikilink")
+  - [はやぶさ](https://ja.wikipedia.org/wiki/はやぶさ_\(列車\) "wikilink")
+  - [富士](https://ja.wikipedia.org/wiki/富士_\(列車\) "wikilink")
+  - [北斗星](../Page/北斗星_\(列車\).md "wikilink")
+  - [北陸](https://ja.wikipedia.org/wiki/北陸_\(列車\) "wikilink")
+  - [みずほ](https://ja.wikipedia.org/wiki/はやぶさ_\(列車\)#寝台特急「はやぶさ」#みずほの誕生 "wikilink")\<\!--
+  - [夢空間](https://ja.wikipedia.org/wiki/国鉄24系客車#夢空間 "wikilink")--\>
+
+## 旧一等寝台車の保存車両
+
+  - マロネフ59形二等A・B寝台緩急車1号車
+      -
+        「[京都鉄道博物館](https://ja.wikipedia.org/wiki/京都鉄道博物館 "wikilink")」プロムナードにて公開されている。
+        同車は、マイロネフ38形一等二等寝台緩急車1号車として1938年（昭和13年）に製造されたものであり、1955年7月の級制改正によりマロネフ59形となった。
+        同館開館前には[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")の[交通科学博物館](https://ja.wikipedia.org/wiki/交通科学博物館 "wikilink")で保管されており、同館保管時には車内への立ち入りも可能であった。
+
+## 参考文献
+
+  - 『<small>鉄道ピクトリアル アーカイブスセレクション10</small> 国鉄客車開発記1950』（電気車研究会、2006年）
+
+<!-- end list -->
+
+  -
+    星晃「寝台車戦後版 <small>-戦後における寝台車復活事情について-</small>」（初出：『[鉄道ピクトリアル](https://ja.wikipedia.org/wiki/鉄道ピクトリアル "wikilink")』1953年9-11月号 No.26-28） p.61-72
+    平林喜三造「1等寝台車の廃止」（初出：『鉄道ピクトリアル』1955年8月号 No.49） p.116-117
+    齋藤雅男「『イネ』を始末する」（初出：『鉄道ピクトリアル』1955年8月号 No.49） p.118-120
+
+<!-- end list -->
+
+  - 電気車研究会『鉄道ピクトリアル』1982年1月号 No.399 特集 ブルートレィン概史 （RP 399と略す）
+
+<!-- end list -->
+
+  -
+    金野智「ブルートレィン前史」 p.57-62
+
+<!-- end list -->
+
+  - 電気車研究会『鉄道ピクトリアル』1999年4月号 No.667 特集 国鉄形（10系）軽量客車・寝台車編 （RP 667と略す）
+
+<!-- end list -->
+
+  -
+    齋藤雅男「昭和30年代前半の寝台客車事情」 p.10-14
+    三宅俊彦「オロハネ10形 活躍の軌跡」 p.15-24
+    勝村彰「国鉄形（10系）軽量客車 車両のあゆみ」 p.41-56
+
+<!-- end list -->
+
+  - 電気車研究会『鉄道ピクトリアル』2008年11月号 No.811 特集 1等寝台車
+
+<!-- end list -->
+
+  -
+    岩成政和「イネロネに憧れて」p.10-17
+
+<!-- end list -->
+
+  - 長船友則『山陽鉄道物語 <small>先駆的な営業施策を数多く導入した輝しい足跡</small>』（[JTBパブリッシング](https://ja.wikipedia.org/wiki/JTBパブリッシング "wikilink")、2008年） ISBN 978-4-533-07028-0
+  - かわぐちつとむ『食堂車の明治・大正・昭和』（グランプリ出版、2002年） ISBN 4-87687-240-6
+
+## 脚注
+
+## 関連項目
+
+[Category:旅客車](https://ja.wikipedia.org/wiki/Category:旅客車 "wikilink") [Category:鉄道車両の車内設備](https://ja.wikipedia.org/wiki/Category:鉄道車両の車内設備 "wikilink") [Category:宿泊](https://ja.wikipedia.org/wiki/Category:宿泊 "wikilink")
+
+1.  \[ 「寝台車 山陽鉄道に施設」1900年3月14日報知新聞『新聞集成明治編年史. 第十一卷』\]（国立国会図書館デジタルコレクション）
+2.  RP 399 p.57（写真あり）。
+3.  長船、p.174（寝台使用法の解説図あり）。
+4.  \[ 「三等寝台車製造の計画」1902年2月6日大阪朝日新聞『新聞集成明治編年史. 第十一卷』\]（国立国会図書館デジタルコレクション）
+5.  \[ 「官線に寝台車」1900年6月9日読売新聞『新聞集成明治編年史. 第十一卷』\]（国立国会図書館デジタルコレクション）
+6.  ツーリスト式とは、窓を背にしたソファー形式の座席（一種のロングシート）が、夜間はそのまま下段寝台として使われる構造である。なお、上段は折り畳み式の寝台を使用した。
+7.  岩成政和 2008。
+8.  上述の通り、東北・北海道地方と行き来する高官への配慮によるが、二等であるため折畳み洗面台は省かれている。
+9.  後年に定員は3名とされた。また、特別室には専用の便洗面所が併設されていた。
+10. 7月15日開始10月1日停止\[ 『鉄道省年報. 昭和10年度』\]（国立国会図書館デジタルコレクション）
+11. RP 399 p.58。
+12. 齋藤雅男「『イネ』を始末する」参照。
+13. 過去の接収時には冷房が取り付けられ、この当時も冷房搭載可能だったが、実際には機器を取り付けていなかった。
+14.
+15.
+16. RP 667 p.16以下、p.42以下。
+17. [77系客車を用いた](https://ja.wikipedia.org/wiki/JR九州77系客車 "wikilink")「ななつ星in九州」は団体専用列車として登場時より用いられている。そのため、時刻表上で表記をされることがない。しかし、夜行列車・寝台列車を扱った雑誌・書籍等では便宜上などと表記される場合もある。
+18. 「夢空間」は臨時列車運用時でも「デラックススリーパー」などと説明が行われ、必ずしも「SA2」の記号が用いられたことがなかった。

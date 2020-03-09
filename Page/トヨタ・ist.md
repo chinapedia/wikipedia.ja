@@ -1,0 +1,162 @@
+> この記事は[ist](https://ja.wikipedia.org/wiki/ist)から翻訳されています。
+
+
+**ist**（イスト）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が生産している[乗用車](../Page/乗用車.md "wikilink")である。
+
+## 概要
+
+[ヴィッツをベースに](https://ja.wikipedia.org/wiki/トヨタ・ヴィッツ "wikilink")、大径の[タイヤ](../Page/タイヤ.md "wikilink")とクロスオーバー[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")風の5ドア[ハッチバック](../Page/ハッチバック.md "wikilink")ボディを被せた[クロスオーバー](https://ja.wikipedia.org/wiki/クロスオーバーSUV "wikilink")[コンパクトカー](https://ja.wikipedia.org/wiki/コンパクトカー "wikilink")。当初は日本[国内専用車](https://ja.wikipedia.org/wiki/国内専用車 "wikilink")であったが、のちに[北米でも若者向けのクールブランド](../Page/北アメリカ.md "wikilink")「[サイオン](https://ja.wikipedia.org/wiki/サイオン "wikilink")」で、初代が**xA**として、2代目が**xD**として、また[欧州でも](../Page/ヨーロッパ.md "wikilink")2代目が「**アーバンクルーザー**」の車名で販売されるようになった。なお、[車格](https://ja.wikipedia.org/wiki/車格 "wikilink")は北米では[サブコンパクトカー](https://ja.wikipedia.org/wiki/サブコンパクトカー "wikilink")に、欧州では[Bセグメント](https://ja.wikipedia.org/wiki/Bセグメント "wikilink")[MPV](https://ja.wikipedia.org/wiki/MPV "wikilink")にそれぞれ分類される。
+
+初代（5ナンバー車）は日本では（2002年）当時人気No.1であった[ホンダ・フィット](https://ja.wikipedia.org/wiki/ホンダ・フィット "wikilink")（GD型、106.5万円 - 144万円）に対抗するため、予定より下げた戦略的価格帯（118万円 - 165万円）を打ち出した。また流行の[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")風のボディも人気を集め、受注台数は発表後1ヵ月で約42,000台を記録\[1\]し、販売台数の方も、同時期にデビューした[日産・マーチ](../Page/日産・マーチ.md "wikilink")（K-12型系、95.3万円 - 132万円）を上回り、コンパクト部門2位となった。2代目は車格はコンパクトではあるものの価格帯が上がり3ナンバー車になって、初代の人気とは対照的に販売台数は伸び悩み、2016年をもって廃止された。
+
+デザイン上、ホイールハウスとタイヤのクリアランスが小さく、[純正](https://ja.wikipedia.org/wiki/純正 "wikilink")タイヤを装着していても物理的な関係から金属製[タイヤチェーン](https://ja.wikipedia.org/wiki/タイヤチェーン "wikilink")の装着が事実上不可とされている珍しい車種の一つでもある。
+
+初代は、TRDから、コンプリートカー・イストTRDターボが発売されていた。
+
+また[研修](https://ja.wikipedia.org/wiki/研修 "wikilink")を終了した各販売店の[メカニックが](https://ja.wikipedia.org/wiki/整備士 "wikilink")[ターボキットを取り付ける](../Page/ターボチャージャー.md "wikilink")[チューニングプランも存在した](https://ja.wikipedia.org/wiki/チューニングカー "wikilink")。
+
+現在もトヨタを代表する[コンパクトカー](https://ja.wikipedia.org/wiki/コンパクトカー "wikilink")の一つである。
+
+## 初代 NCP60型（2002年 - 2007年）
+
+[2001年](../Page/2001年.md "wikilink")（平成13年）の[東京モーターショー](https://ja.wikipedia.org/wiki/東京モーターショー "wikilink")で出展され、その[コンセプトカー](https://ja.wikipedia.org/wiki/コンセプトカー "wikilink")然としたスタイルそのままに、翌[2002年](../Page/2002年.md "wikilink")（平成14年）に市販された\[2\]。
+
+ヴィッツに比して若干ボディサイズを大きくすることで、居住性の向上に貢献するだけでなく、シャープなボディラインにクロスオーバー[SUV風のオーバーフェンダーによって](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")、クールでスタイリッシュなデザインを施すことでヴィッツとの差別化を図っている。また、ヴィッツと同様に[センターメーター](https://ja.wikipedia.org/wiki/センターメーター "wikilink")を採用している。
+
+開発にあたっては初代[bBに続き](https://ja.wikipedia.org/wiki/トヨタ・bB "wikilink")、[試作車を製作しない](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")**「フルデジタル設計」**として製作されている。すなわち、実車での走行[実験](../Page/実験.md "wikilink")を省略することで、コストダウンと開発スピードの速さにつながっている。
+
+エンジンは[2NZ-FE型](https://ja.wikipedia.org/wiki/トヨタ・NZエンジン "wikilink")1,300 [cc](../Page/立方センチメートル.md "wikilink") (87 [PS](https://ja.wikipedia.org/wiki/馬力#仏馬力 "wikilink"))（日本のみ）と[1NZ-FE型](https://ja.wikipedia.org/wiki/トヨタ・1NZ-FE "wikilink")1,500 cc (109 PS) の2種類。[トランスミッション](https://ja.wikipedia.org/wiki/トランスミッション "wikilink")は日本では4速[ATのみで](../Page/オートマチックトランスミッション.md "wikilink")、北米では5速[MTも用意している](https://ja.wikipedia.org/wiki/マニュアルトランスミッション "wikilink")。2NZ-FE型1,300 ccは[平成17年排出ガス基準75 %低減レベルを](https://ja.wikipedia.org/wiki/低排出ガス車認定制度 "wikilink")、1NZ-FE型1,500 ccは平成17年排出ガス基準50 %低減レベルを達成。
+
+[静岡県警察](https://ja.wikipedia.org/wiki/静岡県警察 "wikilink")では[パトカーとして導入されている](https://ja.wikipedia.org/wiki/パトロールカー "wikilink")。
+
+### 年表
+
+  - [2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）
+      - [5月8日](../Page/5月8日.md "wikilink") - 初代を日本で発売。当時は[トヨペット店](https://ja.wikipedia.org/wiki/トヨペット店 "wikilink")\[3\]と[ネッツ店](https://ja.wikipedia.org/wiki/ネッツ店 "wikilink")での併売であった。
+      - [12月24日](../Page/12月24日.md "wikilink") - [特別仕様車](https://ja.wikipedia.org/wiki/特別仕様車 "wikilink")「アクアバージョン」を日本で発売。
+          -
+            専用ボディカラーに「ライトアクアメタリックオパール」を設定した。また、販売店オプションとして、専用ボディカラーとコーディネートしたフルシートカバー、フロアマット、コンソールボックスを設定した（2003年3月までの期間限定生産）。
+  - [2003年](../Page/2003年.md "wikilink")（平成15年）
+      - [6月4日](../Page/6月4日.md "wikilink") - 特別仕様車「F"Lエディション・HIDセレクション"」を日本で発売。
+          -
+            「F」をベースに、「Lエディション」の装備と[ディスチャージヘッドランプ](https://ja.wikipedia.org/wiki/ディスチャージヘッドランプ "wikilink")・[UVカット機能付プライバシーガラス](../Page/紫外線.md "wikilink")（リアドア・リアクオーター・バックドア）を装備しつつ、価格を抑えた。また、これにGPSボイスナビゲーション付ワイドマルチAVステーション IIを追加装備した「F"Lエディション・HIDセレクション・NAVIスペシャル"」も発売した。
+  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）
+      - [4月22日](../Page/4月22日.md "wikilink") - 日本仕様を一部改良。
+          -
+            新たに「S"Lエディション・スポーティパッケージ"」を追加。これは既存の「S"Lエディション"」にフロント&リアバンパースポイラー、専用カラードサイドマットガード、15[インチ](../Page/インチ.md "wikilink")[アルミホイール](https://ja.wikipedia.org/wiki/アルミホイール "wikilink")（スーパークロームメタリック塗装）、専用加飾センターメーターを追加装備したスポーティ仕様で、[2WD車はサスペンションに専用チューニングを施した](https://ja.wikipedia.org/wiki/二輪駆動 "wikilink")。また、ボディカラーに「グレーマイカメタリック」と特別仕様車「アクアバージョン」の専用設定色だった「ライトアクアメタリックオパール」の2色を追加。オプションには[G-BOOK](https://ja.wikipedia.org/wiki/G-BOOK "wikilink")対応カードボイスナビゲーション付ワイドマルチAVステーションIIが設定された。
+      - [8月3日](../Page/8月3日.md "wikilink") - 特別仕様車「F"Lエディション・HIDセレクションII"」を日本で発売。
+          -
+            2003年6月に発売された特別仕様車のバージョンアップ版で、前回の装備に加え、フロント[フォグランプ](https://ja.wikipedia.org/wiki/フォグランプ "wikilink")を追加し、ワイヤレスドアロックリモートコントロールのメインキーを2本に変更している。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）
+      - [5月30日](../Page/5月30日.md "wikilink") - 日本仕様を[マイナーチェンジ](https://ja.wikipedia.org/wiki/モデルチェンジ_\(自動車\) "wikilink")。
+          -
+            トヨペット店（[大阪地区は](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[大阪トヨタ](https://ja.wikipedia.org/wiki/大阪トヨペット "wikilink")）での販売を終了し、ネッツ店専売車種となる。スポーティさを強調した新グレード「A」と「A-S」を追加。専用[フロントグリル](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")・専用[バンパー](https://ja.wikipedia.org/wiki/バンパー "wikilink")を採用するとともに「A-S」の[FF車には専用のチューニングを施した](https://ja.wikipedia.org/wiki/前輪駆動 "wikilink")。また、既存の「F」と「S」はフロントバンパー、リアバンパー、サイドマットガードをボディ同色としたほか、フロントグリル、[ヘッドランプ](https://ja.wikipedia.org/wiki/前照灯 "wikilink")、[リアコンビネーションランプ](https://ja.wikipedia.org/wiki/尾灯 "wikilink")、センターメーター、シート表皮のデザインを変更した。"Lエディション"ではスマートドアロックリモートコントロールを標準装備し、リアドア・リアクォーター・バックドアにはUVカット機能付プライバシーガラスを全車で標準装備された。ボディカラーには新たに「ライトオリーブメタリック」と「ライトブルーマイカメタリック」を追加。ネッツ店専売化に伴い、フロントグリルのエンブレムは「Netz」の頭文字である"N"をモチーフとしたネッツ店専売車種専用のものに変更した。また、1.3 L車（「F」・「F"Lエディション"」・「A」の2WD車）は排出ガスのクリーン化により、「平成17年基準排出ガス75 %低減レベル（☆☆☆☆）」認定を取得した。
+      - [10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - 特別仕様車「F"Lエディション・HIDセレクションIII"」を日本で発売。
+          -
+            基本仕様は「HIDセレクションII」の時と同じであるが、前述の通り、ベース車がマイナーチェンジによりスマートドアロックリモートコントロールが標準装備されたため、キーの種類が変更（スマートドアロックリモートコントロール用）となった。
+  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink") (平成19年)
+      - [6月](../Page/6月.md "wikilink")\[4\] - 生産終了。在庫対応分のみの販売となる。
+      - [7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 2代目とバトンタッチして販売終了。
+
+### 日本でのCM
+
+初期のCMは「大切にしたくなる。」がキャッチフレーズ。その後[松田龍平](../Page/松田龍平.md "wikilink")、[安藤政信](https://ja.wikipedia.org/wiki/安藤政信 "wikilink")、[村上淳](https://ja.wikipedia.org/wiki/村上淳 "wikilink")、[柏原崇](https://ja.wikipedia.org/wiki/柏原崇 "wikilink")、[浅野忠信](../Page/浅野忠信.md "wikilink")を5人で起用。独身男性をターゲットにした[CMで](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")「ist」に合わせた単語を個々に持ち、ショートフィルムも公開された。
+
+### ピカチュウカー
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:TOYOTA_ist_Pikachu_Car.jpg "wikilink") [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）に[名古屋トヨペット](https://ja.wikipedia.org/wiki/名古屋トヨペット "wikilink")が本モデルをベースに、ゲーム『[ポケットモンスター](https://ja.wikipedia.org/wiki/ポケットモンスター "wikilink")』に登場する[ピカチュウ](https://ja.wikipedia.org/wiki/ピカチュウ "wikilink")に見立て、耳や口などの部品を取り付けた「[ピカチュウカー](https://ja.wikipedia.org/wiki/ポケモンカー "wikilink")」を製作した。この車は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")内の[トヨペット店](https://ja.wikipedia.org/wiki/トヨペット店 "wikilink")でプロモーション用として使用されたほか、[愛・地球博開催期間中は](https://ja.wikipedia.org/wiki/2005年日本国際博覧会 "wikilink")[デ・ラ・ファンタジア](https://ja.wikipedia.org/wiki/デ・ラ・ファンタジア "wikilink")内の[ポケパークでも展示され](https://ja.wikipedia.org/wiki/Pokémon_The_Park_2005 "wikilink")、人気を博した。
+
+istベースの「ピカチュウカー」は、その後、[2009年](../Page/2009年.md "wikilink")（平成21年）より名古屋トヨペットから[沖縄トヨペット](https://ja.wikipedia.org/wiki/沖縄トヨペット "wikilink")が譲り受け、沖縄県内のイベントや、県内販売店の店頭の看板車両として展示していたが、[2012年](../Page/2012年.md "wikilink")（平成24年）、[株式会社ポケモン](https://ja.wikipedia.org/wiki/株式会社ポケモン "wikilink")から権利終了につき、「ピカチュウカー」の形状およびカラーリングの変更もしくは廃棄処分を求められ、株式会社ポケモンの担当者が沖縄トヨペットに変更の確認のために来るまでの数日間に社内で耳や尻尾を取り外し、パンダの色に塗り替えられた。2012年（平成24年）7月15日をもって、この車両は[沖縄グッドトイ委員会](https://ja.wikipedia.org/wiki/沖縄グッドトイ委員会 "wikilink")に譲渡された。
+
+ファイル:Toyota Ist 1st generation.JPG|後期型（2005年5月 - 2007年7月） ファイル:Toyota Ist 1st generation Rear.JPG|後期型リア ファイル:2004-2005_Scion_xA.jpg|日本国外仕様の[サイオン](https://ja.wikipedia.org/wiki/サイオン "wikilink")・[xA](https://ja.wikipedia.org/wiki/サイオン・xA "wikilink")（前期型） ファイル:2006-Scion-xA.JPG|サイオン・xA（後期型）
+
+{{-}}
+
+## 2代目 XP110型（2007年 - 2016年）
+
+2代目ヴィッツから採用された[Bプラットフォーム](https://ja.wikipedia.org/wiki/トヨタ・Bプラットフォーム "wikilink") を拡幅したものを採用し、全幅は1,725 [mmとなり](../Page/ミリメートル.md "wikilink")、日本では3ナンバーとなった（事実上、Bプラットフォームを用いた車種としては唯一の3ナンバーボディとなる）。[ホイールベース](https://ja.wikipedia.org/wiki/ホイールベース "wikilink")は2代目ヴィッツと共通の2,460 mm。デザインは2BOXとSUVを融合した「クロスオーバースタイル」。また、センターメーターが廃止になり、[スピードメーターと](https://ja.wikipedia.org/wiki/速度計 "wikilink")[タコメーター](https://ja.wikipedia.org/wiki/タコメーター "wikilink")が[同心円](https://ja.wikipedia.org/wiki/同心円 "wikilink")状に配置されたデザインの**コンセントリックメーター**が[運転者の目の前に来るように変更された](https://ja.wikipedia.org/wiki/運転手 "wikilink")。
+
+エンジンは初代に設定されていた2NZ-FE型1,300 cc (87 PS) を廃止し、代わりに[2ZR-FE型](https://ja.wikipedia.org/wiki/トヨタ・ZRエンジン "wikilink")1,800 cc (132 PS) を追加。日本では継続設定される1NZ-FE型1,500 cc (109 PS) と合わせ、全体的に排気量がアップした。欧州仕様では[1NR-FE型](https://ja.wikipedia.org/wiki/トヨタ・NRエンジン "wikilink")1,300 cc（欧州では1.33 [Lと変則的な表記](../Page/リットル.md "wikilink")）と[1ND-TV型](https://ja.wikipedia.org/wiki/トヨタ・NDエンジン "wikilink")1,400 cc[ディーゼル](../Page/ディーゼルエンジン.md "wikilink")[ターボの](../Page/ターボチャージャー.md "wikilink")2つを設定。
+
+トランスミッションは、日本仕様にのみ設定される1.5 L車が[CVT](https://ja.wikipedia.org/wiki/無段変速機 "wikilink") (Super CVT-i) に変更。1.8 L車は4速AT (Super ECT) となっているほか、北米仕様には先代同様、5速MTを設定した。欧州仕様は6速MTのみの設定。また、[4WD車](../Page/四輪駆動.md "wikilink")（北米仕様には設定されない）は路面状況を問わず安定した走りを寄与するアクティブトルクコントロールを採用した。
+
+ホイールボルトは4本から5本に変更された（[PCDについては](https://ja.wikipedia.org/wiki/ナット座ピッチ直径 "wikilink")100 mmで変更なし）。
+
+### 日本仕様
+
+グレード体系は「150X」・「150G」・「180G」の3グレードに整理され、「150X」と「150G」は引き続き4WD車も設定されていた。
+
+安全性能も強化され、全グレードで6[エアバッグ](https://ja.wikipedia.org/wiki/エアバッグ "wikilink")（運転席・助手席SRSエアバッグ、前席SRSサイドエアバッグ、両側SRSカーテンシールドエアバッグ）を標準装備とした。
+
+### 年表
+
+  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）
+      - 2月 - シカゴモーターショーで北米仕様の[サイオン・xD](https://ja.wikipedia.org/wiki/サイオン・xD "wikilink")が展示される。
+      - [7月30日](../Page/7月30日.md "wikilink") - 日本仕様を[フルモデルチェンジ](https://ja.wikipedia.org/wiki/フルモデルチェンジ "wikilink")。キャッチコピーは「**HEAVY BEAUTY**」。月販目標台数2,000台と発表されている。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）
+      - [1月30日](../Page/1月30日.md "wikilink") - 特別仕様車「150X"Special Edition"」を日本で発売。
+          -
+            「150X」をベースに、ディスチャージヘッドランプ（オートレベリング機能付）、[スマートエントリー](https://ja.wikipedia.org/wiki/スマートエントリー "wikilink")&スタートシステム、エンジン[イモビライザー](https://ja.wikipedia.org/wiki/イモビライザー "wikilink")システムを装備した。
+      - 3月 - [ジュネーブモーターショーにて](https://ja.wikipedia.org/wiki/サロン・アンテルナショナル・ド・ロト "wikilink")「[アーバンクルーザー](https://ja.wikipedia.org/wiki/:en:Toyota_Urban_Cruiser "wikilink")」の車名で欧州初公開された。
+  - [2009年](../Page/2009年.md "wikilink")（平成21年）
+      - [1月14日](../Page/1月14日.md "wikilink") - 先代でも好評だったディスチャージヘッドランプ（オートレベリング機能付）装備の特別仕様車「HIDセレクション」を日本で発売。
+          -
+            今回は充実グレードの「150G」をベースに、フロントとリアのバンパー下端をボディ同色としたフルカラードバンパーを採用。内装ではファブリックシート表皮・ドアトリムを専用のものにしたほか、センタークラスター・パワーウィンドゥスイッチベースにシルバー加飾を施し、質感も高めた。ボディカラーは専用外板色の「スーパーレッドV」を含む3色を設定した（2009年6月までの期間限定生産）。
+      - [10月1日](../Page/10月1日.md "wikilink") - 日本仕様を一部改良。1.5L・2WD車 (150X・150G) において、エンジン・トランスミッション・[オルタネーター](https://ja.wikipedia.org/wiki/オルタネーター "wikilink")の制御を改良し、燃費を向上。これにより、「平成22年度燃費基準+15%」を達成した。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）
+      - [8月3日](../Page/8月3日.md "wikilink") - 日本仕様を一部改良。
+          -
+            前後バンパーがフルカラードとなり、リヤスポイラーを大型化。同時に「150X」と「150G」には[ディスチャージヘッドランプ](https://ja.wikipedia.org/wiki/ディスチャージヘッドランプ "wikilink")（オートレベリング機構付）を標準装備とした。インテリアはシート色にライトグレーとダークグレーのツートーンカラーを採用するとともにセンター[クラスター](https://ja.wikipedia.org/wiki/クラスター "wikilink")パネルにはダークグレー加飾を施し、ボディカラーにはグリーンマイカメタリックを追加した。また、従来設定されていた1.8 L車を廃止する替わりに、「150X」をベースにヘッドランプをディスチャージ（オートレベリング機構付）から[ハロゲンランプ](https://ja.wikipedia.org/wiki/ハロゲンランプ "wikilink")（マニュアルレベリング機構付）に、[エアコンをオートからマニュアルに変更し](https://ja.wikipedia.org/wiki/カーエアコン "wikilink")、パッケージトレイトリムとシートバックポケット（運転席・助手席）を省いたことで価格を抑えた「150X"Cパッケージ"」を新設定した。
+  - [2011年](../Page/2011年.md "wikilink")
+      - [8月29日](../Page/8月29日.md "wikilink") - 日本仕様を一部改良。ボディカラーに「ブロンズマイカメタリック」を追加。インテリアにはサイドレジスター（送風口）リングに[めっき](../Page/めっき.md "wikilink")を、シート・ドアトリム表皮にドット柄を採用した。
+  - [2012年](../Page/2012年.md "wikilink")
+      - [6月1日](../Page/6月1日.md "wikilink") - 日本仕様を一部改良。リア中央席に3点式[シートベルト](https://ja.wikipedia.org/wiki/シートベルト "wikilink")と[ヘッドレスト](https://ja.wikipedia.org/wiki/ヘッドレスト "wikilink")を設定したほか、[VSC](https://ja.wikipedia.org/wiki/横滑り防止装置 "wikilink")\[5\]と[TRC](https://ja.wikipedia.org/wiki/トラクションコントロールシステム "wikilink")\[6\]を全車に標準装備した。また、メーターのデザインを変更し、視認性を高め、ボディカラーに新色の「ブルーメタリック」を設定し、全9色を設定した。
+  - [2014年](../Page/2014年.md "wikilink") - 欧州仕様「アーバンクルーザー」の生産を終了。
+  - [2016年](../Page/2016年.md "wikilink")
+      - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")末\[7\] - [オーダーストップ](https://ja.wikipedia.org/wiki/オーダーストップ "wikilink")により生産終了。以後は在庫のみの対応となる。
+      - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")\[8\] - 3代目（XP130型）ヴィッツに統合される形で販売終了。これと同時に公式サイトの掲載を終了した。
+
+### 日本でのCM
+
+2代目からは、[オダギリジョー](../Page/オダギリジョー.md "wikilink")を起用。8色のバリエーションに合わせた動物、奇抜な衣装や、気味の悪い笑みを浮かべたり、奇妙な動きを[キング・クリムゾン](https://ja.wikipedia.org/wiki/キング・クリムゾン "wikilink")の「easy money」に合わせて行い、セリフは一切ない[MVのようなCMだった](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")。2008年にはTBS限定放映で映画「ROOKIES\~卒業〜」とのコラボCMが放映された。
+
+ファイル:08 Scion xD.jpg|日本国外仕様の[サイオン](https://ja.wikipedia.org/wiki/サイオン "wikilink")・[xD](https://ja.wikipedia.org/wiki/サイオン・xD "wikilink")
+
+{{-}}
+
+## エンジン
+
+  - [1NZ-FE](https://ja.wikipedia.org/wiki/トヨタ・1NZ-FE "wikilink")（1,500 cc、初代・2代目〈日本のみ〉）
+  - [2NZ-FE](https://ja.wikipedia.org/wiki/トヨタ・NZエンジン "wikilink")（1,300 cc、初代〈日本のみ〉）
+  - [2ZR-FE](https://ja.wikipedia.org/wiki/トヨタ・ZRエンジン "wikilink")（1,800 cc、2代目）
+  - [1NR-FE](https://ja.wikipedia.org/wiki/トヨタ・NRエンジン "wikilink")（1,330 cc、2代目〈欧州のみ〉）
+  - [1ND-TV](https://ja.wikipedia.org/wiki/トヨタ・NDエンジン "wikilink")（1,400 cc、2代目〈欧州のみ〉）
+
+## 日本での取扱販売店
+
+  - [トヨペット店](https://ja.wikipedia.org/wiki/トヨペット店 "wikilink")（2005年のマイナーチェンジまで。ただし、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")を除く）
+  - [トヨタ店](https://ja.wikipedia.org/wiki/大阪トヨペット "wikilink")（大阪府のみ。2005年のマイナーチェンジまで）
+  - [ネッツ店](https://ja.wikipedia.org/wiki/ネッツ店 "wikilink")
+
+## 車名の由来
+
+  - 英語で「-主義者」を意味する接尾辞"ist"から。
+
+## 脚注
+
+## 関連項目
+
+  - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")
+  - [サイオン](https://ja.wikipedia.org/wiki/サイオン "wikilink")
+  - [トヨタ・ヴィッツ](https://ja.wikipedia.org/wiki/トヨタ・ヴィッツ "wikilink")
+
+[Category:トヨタの車種](https://ja.wikipedia.org/wiki/Category:トヨタの車種 "wikilink") [Category:ハッチバック](https://ja.wikipedia.org/wiki/Category:ハッチバック "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink")
+
+1.  これは[3代目プリウスがデビューするまでは](https://ja.wikipedia.org/wiki/トヨタ・プリウス_ZVW30 "wikilink")、トヨタ車としては歴代トップであった（3代目プリウスの受注台数は、1ヵ月で250,000台）。
+2.  [研究](../Page/研究.md "wikilink")用などの純然たるコンセプトカーではなく、（既発売モデルの流用ではなく）そのモデル専用でありながら、一部に部品番号の表記がある、あるいは部品番号の入るスペースが見られる部品が組付けられた、量産試作車や先行量産車がモーターショーに展示されることは、ままある。
+3.  ただし、[大阪地区に限り](https://ja.wikipedia.org/wiki/大阪府 "wikilink")、[大阪トヨタで販売されていた](https://ja.wikipedia.org/wiki/トヨタ店 "wikilink")。
+4.
+5.  Vehicle Stability Control
+6.  Traction Control
+7.
+8.

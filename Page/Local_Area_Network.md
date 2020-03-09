@@ -1,0 +1,69 @@
+> この記事は[Local Area Network](https://ja.wikipedia.org/wiki/Local_Area_Network)から翻訳されています。
+
+
+**Local Area Network**（ローカル・エリア・ネットワーク）とは、広くても一施設内程度の規模で用いられる[コンピュータネットワーク](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")のこと。その頭文字をつづった**LAN**（ラン）と書かれる場合も多い。一般家庭、企業のオフィスや研究所、工場等で広く使用されている。
+
+## 定義
+
+LANの標準化組織である[米国電気電子技術者協会](../Page/IEEE.md "wikilink")（IEEE）や[国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")（ISO）での定義によると
+
+1.  限定された広がりをもつ地域で、コンピュータをはじめとする様々な機器の間で自由に情報交換ができる。
+2.  導入したユーザーが主体となって管理・運営する（[電気通信事業者](https://ja.wikipedia.org/wiki/電気通信事業者 "wikilink")資格が不要）。
+3.  異なる[ベンダー](https://ja.wikipedia.org/wiki/ベンダー "wikilink")で作成された機器をLANに接続でき、相互に通信可能（マルチベンダ接続）。
+
+といった特徴をもっている。
+
+## LANの種類
+
+かつては様々な方式のLANが使用されていたが、現在では[イーサネット](https://ja.wikipedia.org/wiki/イーサネット "wikilink")と、[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")の（レイヤ4以下の）[プロトコルである](https://ja.wikipedia.org/wiki/通信プロトコル "wikilink")[TCP/IPを組み合わせるタイプ](https://ja.wikipedia.org/wiki/インターネット・プロトコル・スイート "wikilink")（[イントラネット](https://ja.wikipedia.org/wiki/イントラネット "wikilink")）が一般的である。
+
+、イーサネットとLANがほぼ同義の意味で使用される場合も多い。
+
+近年は無線方式による、[無線LAN](../Page/無線LAN.md "wikilink")（[IEEE 802.11シリーズ](https://ja.wikipedia.org/wiki/IEEE_802.11 "wikilink")）も普及している。
+
+[HomePNA](https://ja.wikipedia.org/wiki/HomePNA "wikilink")は家庭内の既設[電話線を利用するLANである](https://ja.wikipedia.org/wiki/ツイストペアケーブル "wikilink")。
+
+既設の電灯線・配電線を利用する[PLCも家庭内LANの新技術として注目されている](https://ja.wikipedia.org/wiki/電力線搬送通信 "wikilink")。
+
+## LANの歴史
+
+[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink") - [大阪万博で提唱](https://ja.wikipedia.org/wiki/日本万国博覧会 "wikilink")・試験的に運用される。
+
+## LANの分類
+
+レイヤについては**[OSI参照モデル](../Page/OSI参照モデル.md "wikilink")を参照のこと。**
+
+### ネットワーク形態による分類（アーキテクチャ）
+
+ネットワーク形態による分類では、**[Peer to Peer型LAN](../Page/Peer_to_Peer.md "wikilink")**と**[クライアント](https://ja.wikipedia.org/wiki/クライアント_\(コンピュータ\) "wikilink")・[サーバ](https://ja.wikipedia.org/wiki/サーバ "wikilink")型LAN**に分けられる。
+
+  - **ピア・ツー・ピア型LAN**では、[サーバ](https://ja.wikipedia.org/wiki/サーバ "wikilink")専用機を必要とせず、接続されたすべてのコンピュータは対等の関係にある。導入や運用が簡単で、コストも安く抑えられるが、処理能力は回線速度と各コンピュータの能力に依存するため、高速な処理には向かない。
+  - **クライアント・サーバ型LAN**では、サーバ専用機を用意し、細かなアクセス権設定やデータ保全機能が備わった[ネットワークオペレーティングシステム](https://ja.wikipedia.org/wiki/ネットワークオペレーティングシステム "wikilink")（NOS）で管理される。大規模なLANはこのタイプである。
+
+### トポロジーによる分類（レイヤ2以下）
+
+トポロジー（形状）による分類では、**スター型**、**バス型**、**リング型**の3つに分類される。
+
+  - **スター型LAN**は、中央に集線装置である[ハブを置き](https://ja.wikipedia.org/wiki/ハブ_\(ネットワーク機器\) "wikilink")、すべての端末を接続する形である。配置の変更が柔軟に行え、故障箇所の特定もしやすいことから、広く普及している。ただし、ハブ部分で故障が起きた場合には全端末で相互通信が不可能になるため、信頼性が必要な場合はハブを二重化するなどの対策をとることが多い。
+  - **バス型LAN**は、バスと呼ばれる伝送路に接続する形であり、基幹ケーブルに短冊状に端末がぶら下がるような形となる。バス上の一部で故障が発生した場合、故障点を超える通信は不可能になる。構成上、バスを増やす以外に信頼性向上の手段がないため、信頼性向上は難しい。
+  - **リング型LAN**は、端末を順次伝送路につないでいく形であり、伝送路が数珠つなぎの円形となる。伝送路及び伝送路機器に障害が発生するとLANが停止するため、伝送路を2重にする場合が多い。また2重化することにより、途中、伝送路機器の故障、伝送路の切断などの各種障害に対し非常に強くなるため、基幹用に用いられることが多い。
+
+Image:Topoloxía en estrela.png|スター型 Image:Topoloxía en bus.png|バス型 Image:Topoloxía en anel.png|リング型
+
+### 変調方式による分類（レイヤ1以下）
+
+変調方式による分類では、[ベースバンド](https://ja.wikipedia.org/wiki/ベースバンド "wikilink")方式と[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")方式に分けられる。
+
+  - **ベースバンド方式**は、コンピュータで扱われるディジタルデータを符号化し、変調せずに電気パルスとして伝送路に送信する方式である。イーサネットや[FDDI](https://ja.wikipedia.org/wiki/FDDI "wikilink") (TP-PMD, CDDI) がこの方式である。
+  - **ブロードバンド方式**は、コンピュータで扱われるディジタルデータを符号化し、変調して搬送波としてアナログ伝送路に送信する方式である。IEEE 802.4（[トークン・バス](https://ja.wikipedia.org/wiki/トークン・バス "wikilink")）がこの方式である。
+
+## 関連項目
+
+  - [Wide Area Network](https://ja.wikipedia.org/wiki/Wide_Area_Network "wikilink")
+  - [イーサネット](https://ja.wikipedia.org/wiki/イーサネット "wikilink")（Ethernet）
+  - [イントラネット](https://ja.wikipedia.org/wiki/イントラネット "wikilink")
+  - [トークンリング](https://ja.wikipedia.org/wiki/トークンリング "wikilink")（Token Ring）
+  - [IEEE 802.11](https://ja.wikipedia.org/wiki/IEEE_802.11 "wikilink")
+  - [LANパーティー](https://ja.wikipedia.org/wiki/LANパーティー "wikilink")
+
+[Category:コンピュータネットワーク](https://ja.wikipedia.org/wiki/Category:コンピュータネットワーク "wikilink")

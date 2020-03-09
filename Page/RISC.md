@@ -1,0 +1,243 @@
+> この記事は[RISC](https://ja.wikipedia.org/wiki/RISC)から翻訳されています。
+
+
+**RISC**（Reduced Instruction Set Computer、りすく）は、[コンピュータ](../Page/コンピュータ.md "wikilink")の[プロセッサ](../Page/プロセッサ.md "wikilink")の[命令セットアーキテクチャ (ISA)](https://ja.wikipedia.org/wiki/命令セット#命令セットアーキテクチャ "wikilink") の設計の方向性として、命令セットの複雑さを減らすことすなわち、命令の総数や種類を減らし、それぞれの命令が行う処理を単純なものにし、命令フォーマットの種類を減らし、オペランドのアドレッシングを単純化する、などといった方向性により「命令セットを縮小して」設計されたコンピュータ（プロセッサ）である。この方向性が新しいものとして提案された際、従来のその逆の方向性を指す[レトロニム](https://ja.wikipedia.org/wiki/レトロニム "wikilink")として[CISC](https://ja.wikipedia.org/wiki/CISC "wikilink")という語が同時に提案された。
+
+## 概要
+
+この着想のひとつは、従来のプロセッサに備わっていた様々な命令の大部分が、実際のプログラムを書く際にはほとんど使われていないことが見出されたことにある。これは特に [IBM 801](https://ja.wikipedia.org/wiki/IBM_801 "wikilink") の開発に関して言われている。従来のプロセッサでは、複数の処理を一挙にこなす複雑な命令\[1\]をもち、また、個々の[演算命令につき](../Page/命令_\(コンピュータ\).md "wikilink")、任意の[アドレッシングモード](https://ja.wikipedia.org/wiki/アドレッシングモード "wikilink")を組み合わせることが可能（[直交性がある](https://ja.wikipedia.org/wiki/直交性_\(情報科学\) "wikilink")）である。だが実際に作成されたプログラムを解析すると、使用される命令はそのうちのごくわずかなものに限られることが判った。この調査結果に基づいて命令セットを簡潔にすることが試みられた。
+
+先行例としての（1970年代の）IBM 801 に続いて、RISCの提案は、1980年代の[ジョン・ヘネシー](https://ja.wikipedia.org/wiki/ジョン・ヘネシー "wikilink")と[デイビッド・パターソンによる](https://ja.wikipedia.org/wiki/デイビッド・パターソン_\(計算機科学者\) "wikilink")。特に、801 は[「チップに集積されたコンピュータ」ではなく](../Page/マイクロプロセッサ.md "wikilink")、一方、ヘネシーとパターソンの提案は [Mead](https://ja.wikipedia.org/wiki/カーバー・ミード "wikilink") & [Conway](https://ja.wikipedia.org/wiki/リン・コンウェイ "wikilink") revolution（[:en:Mead & Conway revolution](https://ja.wikipedia.org/wiki/:en:Mead_&_Conway_revolution "wikilink")）と呼ばれている当時のVLSI開発の機運という背景もあって、マイクロプロセッサとしての実装が前提となっている。
+
+## 特徴
+
+RISCアーキテクチャの特徴として以下の要素が言及される。
+
+  - 固定命令語長\[2\]
+    命令の解読に際して可変長命令では命令長の判別と切り出し等に時間がかかっていた欠点を排除し、命令デコードに要する時間を短縮すると共に、命令の先読みをして[パイプラインの効率を上げる](https://ja.wikipedia.org/wiki/パイプライン処理 "wikilink")。
+  - 全ての演算は1クロックで実行する。
+    パイプライン動作にウエイトを生じさせない。初期のアーキテクチャでは処理に複数クロックを要する乗除算命令を省略し、乗除算の必要には複数の命令を組み合わせて実現した。
+  - 演算は[レジスタ](../Page/レジスタ_\(コンピュータ\).md "wikilink")‐レジスタ間演算のみ\[3\]
+    回路構成の単純化を図るとともに、メモリ・アクセスの[レイテンシ](https://ja.wikipedia.org/wiki/レイテンシ "wikilink")がパイプライン動作に悪影響を与えるのを避ける。メモリに影響する命令はロード・ストア命令のみであり、通常メモリ上のデータへの明示的な演算は行われない。
+  - [ワイヤードロジック](https://ja.wikipedia.org/wiki/ワイヤードロジック "wikilink")で構成する
+    [マイクロコード](https://ja.wikipedia.org/wiki/マイクロコード "wikilink")による命令実行（[マイクロプログラム方式](https://ja.wikipedia.org/wiki/マイクロプログラム方式 "wikilink")）を排し、命令実行に要するクロックサイクル数を削減するとともに、命令解析・実行を行う回路をゲートの組み合わせで実装し、高クロック動作を可能にする。
+  - 多数のレジスタを備える。
+    演算の途中結果をCPU内に蓄えられる様にして、[メモリへのアクセスを減らし](../Page/主記憶装置.md "wikilink")、メモリ･アクセスによるレイテンシで動作が遅延するのを避ける。
+  - 遅延実行スロットを備える
+    パイプラインハザードを避け、パイプラインの処理効率を上げる。
+
+などが挙げられるが、例外も多い。
+
+CISCではハードウエアでサポートされている[スタック](../Page/スタック.md "wikilink")操作命令がRISCにはなく、スタック操作\[4\]などの処理は単純な命令を組み合わせて代替処理を行う。命令の組み合わせによって発生し得る[パイプラインハザードはコンパイラでコード生成時に検出し](https://ja.wikipedia.org/wiki/パイプライン処理#パイプラインハザード "wikilink")、命令の順序を最適化することで回避する。[排他制御](../Page/排他制御.md "wikilink")などで不可欠な[アトミック命令はRISCでもサポートされる](https://ja.wikipedia.org/wiki/不可分操作 "wikilink")。
+
+命令語長を固定長にすることで[パイプライン処理](https://ja.wikipedia.org/wiki/パイプライン処理 "wikilink")の処理効率を向上させることができるが、[プログラムをコンパイルする際にパイプライン動作を前提とした](../Page/プログラム_\(コンピュータ\).md "wikilink")[最適化を行う必要があり](https://ja.wikipedia.org/wiki/コンパイラ最適化 "wikilink")、[コンパイラ](../Page/コンパイラ.md "wikilink")作成には高度な技術が要求される。
+
+## 歴史
+
+### RISC設計思想
+
+[1970年代](../Page/1970年代.md "wikilink")後半、[IBM](../Page/IBM.md "wikilink")などの研究で、実際に使用されているプログラムを解析したところ、複数の処理を一気に行う高機能な命令や、いわゆる**[直交性](https://ja.wikipedia.org/wiki/直交性_\(情報科学\) "wikilink")**のある、命令とアドレッシングモードの組み合わせの大部分は実際のプログラムでは使われていないことが判明した。これは、プログラミング技法が、従来のバイナリコードを意識した[アセンブリ言語](../Page/アセンブリ言語.md "wikilink")の記述による低レベルのプログラミング形態から、高級言語で記述して[コンパイラ](../Page/コンパイラ.md "wikilink")を使ってバイナリコードを得る形態に移り変わったことの副産物である。それまでに設計されたCPUの命令セットには、当初アセンブリ言語でプログラムを記述するうえで便利な命令が含まれ、やがてコンパイラでコード生成を行う前提で、[高級言語](https://ja.wikipedia.org/wiki/高級言語 "wikilink")の制御構文をそのまま実行できるように、複雑な[機械語](../Page/機械語.md "wikilink")の命令も実装される様になった。だが、当時のコンパイラはCPUが持つ利点をあまり生かせていなかった。というのもコンパイラの開発は非常に高度な技術を要し、困難を伴うことだったからである。市場にはそれでもコンパイラが浸透していき、直交性の利点や、複雑な命令の利点は薄められていった。
+
+もうひとつの発見は、複雑な処理を行う命令の所要時間と、単純な命令を組み合わせて同等の処理を行わせる場合の所要時間を比較したとき、しばしば前者が遅いということである。このパラドックスは、CPUの[設計に許容される期間の制限から生じた](https://ja.wikipedia.org/wiki/CPU設計 "wikilink")。設計者は十分な時間を与えられず、全ての命令の処理を最適化することができずに、結果としてよく使われる命令の処理時間だけを最適化したのである。有名な例としてVAXの`INDEX`命令がある。この命令はループを使った同等機能のプログラムコードよりも遅かった。
+
+一方で、メモリの速度よりもCPUの速度の向上が著しくなってきていた。1970年後半の時点でも、以後、CPUの演算速度が向上し続けるのに対してメモリアクセスの速度の向上は限定的であり、以後も速度差が拡大することが明らかだった。すなわち、今後10年の間にCPUの演算速度は相対的にメモリアクセスの10倍、100倍となってゆくのである。こうしてより高速化していくCPUの演算速度を維持するためにはアクセスまでの時間が短いレジスタを増やさなければならず、また、高速化するCPUと速度の上がらないメモリシステムの速度差を埋めるために[キャッシュを拡充しなければならないことは明らかだった](https://ja.wikipedia.org/wiki/キャッシュ_\(コンピュータシステム\) "wikilink")。これら多数のレジスタやキャッシュを実装するための面積をシリコン上に確保する必要が生じた。これについてはCPUのアーキテクチャを単純にしてその面積を削減することで、レジスタやキャッシュの為の面積を確保できた。
+
+さらにRISCアーキテクチャの別の優位性が、実際に使われているプログラムの解析結果からも明らかになった。[アンドリュー・タネンバウム](https://ja.wikipedia.org/wiki/アンドリュー・タネンバウム "wikilink")は様々なプログラムを集めて計測結果をまとめ、多くのプロセッサの備える仕様は、実際のプログラムで要求されるものより過剰であることを立証した。例えば、プログラム内の定数値のうち98%が13ビットに収まることを示したが、一方で既存のCPUのほとんどは定数値を格納するエリアのサイズとして8ビットの倍数にあたるサイズを用意していた。典型的には8ビット、16ビット、32ビットである。これが意味するのは、命令のビット・フィールド構成を適切に設計することで、命令に使用する定数を命令のオペランド・フィールドに格納し、メモリアクセスを減らすことができるということである。定数をメモリやレジスタから取ってくるのではなく、当該命令の中に格納することで速度を向上させることができる。一方で、これを実現するためには命令を表現するビット･フィールド幅を小さくする必要がある。さもなければ命令の中にそれなりのサイズの定数を埋め込むことができないからである。
+
+これらの要素を背景に、[アドレッシングモード](https://ja.wikipedia.org/wiki/アドレッシングモード "wikilink")と命令数を削減する、**縮小命令セット** (*Reduced Instruction Set*) という用語が生まれた。従来のアーキテクチャとRISCの本質的な違いは、全ての演算をレジスタ間で行い、メモリへの読み書きをレジスタとメモリの間の転送命令に限る点である。このためRISCは*ロード/ストア・アーキテクチャ*とも呼ばれる。RISCアーキテクチャの概念と対比して、従来の設計手法は**C**omplex **I**nstruction **S**et **C**omputer ([CISC](https://ja.wikipedia.org/wiki/CISC "wikilink")) として知られるようになった。ただし、これはあくまでもRISCと対立する概念として捉えるときに使う用語である。また、RISCアーキテクチャと言われるCPUであっても、機種によっては巨大な命令セットを持つこともある。
+
+RISCの設計思想は命令セットを縮小することにある。この副作用として、命令を識別するのに必要なビットフィールド幅が小さくできるため、命令内にオペランドデータを直接含ませる余地が生じ、レジスタやメモリを使わずに済む場面が多くなった。同時にメモリへのインタフェースが単純化され（メモリにアクセスするタイミングが単純化され）、最適化できるようになった。
+
+しかし、RISCにも欠点があった。単純な命令を組み合わせてプログラムを書くため、複雑な命令を持つCISCに比べて同じ処理を実現する場合に必要な命令数が増えた。加えて初期のRISCは命令語長が32ビット幅であり、プログラムサイズが大きくなり、コード密度が低くなると指摘された。当時、利点と欠点のどちらが性能にインパクトがあるかは議論の的となった。
+
+### RISC以前の設計思想
+
+初期のプログラミング環境では、[コンパイラ](../Page/コンパイラ.md "wikilink")は存在しなかった。プログラミングは機械語かアセンブリ言語で行われた。プログラミングをより簡単にするため、コンピュータの設計者はどんどん複雑な処理を行う命令を追加していった。それはつまり、現在ならば高度な[プログラミング言語](../Page/プログラミング言語.md "wikilink")で関数（サブルーチン）レベルで実現されるべきものだった。当時の風潮としてコンパイラの設計よりもハードウェアの設計のほうが簡単であるという考えがあり、結果として複雑なことはハードウェアに担わせることとなった。
+
+高度な命令の追加を必要とする別の要因としてメモリ空間に強い制約があったことが上げられる。メモリは非常に高価で、システムに用意できるメモリ空間が限られていたので、プログラム容量を縮小することが強く要請された。例えば、当時のシステムには数キロバイトしかメモリが搭載されていなかった。そのため、業界は高度で複雑な命令を必要としていたし、命令は可変長になっていて、ひとつの命令でいくつものことをこなし、また、ひとつの命令でデータの転送と演算を同時に行っていた。当時は命令[デコードを単純化するよりも命令にいろいろな機能を組み込むことが優先された](https://ja.wikipedia.org/wiki/エンコード#デコード "wikilink")。
+
+また、当時主流であった[磁気コアメモリ](../Page/磁気コアメモリ.md "wikilink")のアクセス速度は遅かった。そのため、情報の密度を高めアクセスする回数を減らすことで、アクセス速度の問題を軽減できる。
+
+CPU内のレジスタ本数が少なかったのは以下のような理由からである。
+
+  - レジスタの記憶セルは外部のメモリの記憶セルよりさらに高価だった。当時の[集積回路](../Page/集積回路.md "wikilink")のレベルでは、大きなレジスタセットはチップやボードのエリアの無駄遣いとしか思われなかった。
+  - レジスタ数を増やすと、命令コード内でレジスタを指定するためのビットフィールドが増大し、結果として命令のサイズが大きくなって、貴重なメモリを浪費することになる。
+
+以上のような理由から、CPU設計者は可能な限り一つの命令に多くの機能を詰め込んだ。これにより、例えば、ひとつの命令でメモリからふたつの数値をロードして加算し結果を直接メモリに格納する、ふたつの数値をロードして演算結果はレジスタに格納する、ひとつの数値をメモリからロードしてもうひとつはレジスタにあるものを使い演算結果をメモリに格納する、などの命令が実装されている。
+
+当時の目標は実装されている全ての演算命令で全てのアドレッシングモードを使えるようにすることであった。これを**直交性**と称した。これはCPUを複雑にしたが、処理を個別に最適化することができるようになったとも言える。つまり、単純な命令のみを使えば高速に動作するようにである。この様な設計思想はRISCの概念が広まった後に、[対比して](https://ja.wikipedia.org/wiki/レトロニム "wikilink")[CISC](https://ja.wikipedia.org/wiki/CISC "wikilink")と呼ばれるようになった。
+
+CISC的な設計の極致としてふたつの実例がある。ひとつは[6502で](../Page/MOS_6502.md "wikilink")、もうひとつは[VAX](https://ja.wikipedia.org/wiki/VAX "wikilink")である。25[USドルの](https://ja.wikipedia.org/wiki/アメリカ合衆国ドル "wikilink")6502はひとつしかレジスタを持たないが、メモリインタフェースが最適化されているため、高速で動作できる(4MHzのザイログの[Z80](../Page/Z80.md "wikilink")も同様)。VAXは[ミニコンピュータ](https://ja.wikipedia.org/wiki/ミニコンピュータ "wikilink")であり、ひとつのCPUにつき3個の筐体（ラック）を必要とする。特筆すべきはそのアドレッシングモードの豊富さで、全ての演算命令に全てのアドレッシングモードを組み合わせることができた。
+
+### CPUの性能向上のための他の方法
+
+一方で、CPUの性能を向上する技術が導入されていった。
+
+[1980年代](../Page/1980年代.md "wikilink")初頭、既存の設計技法は限界に来ていると考えられていた。将来の性能向上は半導体プロセスの進歩に依存するしかないが、それが限界に達するということはつまりチップ上の機能を削減するということである。チップの[複雑性](https://ja.wikipedia.org/wiki/複雑性 "wikilink")はそのままであるが、チップの面積を縮小することで動作周波数を上げることができる。通信リンクを組み込んだ[並列コンピューティング](https://ja.wikipedia.org/wiki/並列コンピューティング "wikilink")の研究に少なからぬ投資が行われた。高速なチップを作る代わりにたくさんのチップを並べ、処理すべき問題を分割して各チップに割り当てるのである。
+
+しかし、当初の恐れは杞憂であった。1980年代後半にはCPUの性能を向上させるいくつかの技術が導入された。ひとつは、1960年代より[メインフレーム](../Page/メインフレーム.md "wikilink")用など高価なCISCのCPUで採用されていた技術であるが、命令の処理を複数のステップに分割する[命令パイプライン](https://ja.wikipedia.org/wiki/命令パイプライン "wikilink")や、その効果を高める[分岐予測](https://ja.wikipedia.org/wiki/分岐予測 "wikilink")などである。これにより、複数の命令のそれぞれ別の処理ステージを同時に実行することで命令の並列実行を実現するのである。一般的なプロセッサは、命令を読み込み、デコード(解釈)し、必要ならばデータをメモリから取ってきて、実際の処理を実行し、結果を指定された場所に格納する。パイプラインという手法が生まれたのは、命令を読み込んだら、その命令の処理の完了を待たずに次の命令を読み込むことができるという洞察からであった。そうすると、後続の命令を読み込んでいる一方で先行の命令をデコードすることが可能となり、そして、次のサイクルでは実行、デコード、命令読み込みの三つとなり、実質的に複数の命令が並行して処理されていることになる。個々の命令を見ると、処理の完了までに数サイクルかかっていて決して高速ではない（レイテンシは短縮しない）が、次の命令との関係を見れば順次命令が実行され、1サイクル毎に命令の実行が終了していくことになる（スループットは高い）。これにより高速なシステムができ、プロセッサ内の資源が効率的に利用される。
+
+もうひとつの解決法は処理ユニットをプロセッサ内に複数装備し、複数の演算を同時に行う[スーパースケーラ](https://ja.wikipedia.org/wiki/スーパースケーラ "wikilink")プロセッサの概念である。連続して読み込んだ複数の命令を、複数の処理ユニットに同時に投入して並列処理を行う。ただし、ある命令を実行するためには前の命令の実行結果を用いる（依存性がある）場合がしばしばあり、常にこの方法で性能を向上できるとは限らない。
+
+パイプラインを導入したりスーパースケーラ化する手法は、単純なRISCアーキテクチャの設計に、調停機能や複数のデータパス、パイプラインレジスタを追加して性能を向上させようというものである。CISCでは複雑な命令を実装して、これにより一挙に複数の処理を行うことで性能を高めようとするのと対照的である。チップの面積は有限なので、性能向上のための仕組みを追加するためには何かを削らなくてはならないが、基本的なRISCアーキテクチャのCPUは非常に単純で面積が小さく、追加機能を実装する面積を確保するうえで非常に好都合だった。初期のRISCの性能は低かったが、これらの設計手法を取り入れることによって1980年代後半にはCISCを大きく引き離す性能を達成した。半導体プロセスの進歩によってこれらの手法をCISCに導入できるようになるには[1990年代](../Page/1990年代.md "wikilink")初頭の[Pentium](https://ja.wikipedia.org/wiki/Pentium "wikilink")、[Pentium Proまで待たねばならなかった](https://ja.wikipedia.org/wiki/Pentium_Pro "wikilink")。
+
+RISCチップはそのコアを実現するのに必要な[トランジスタ](../Page/トランジスタ.md "wikilink")数が少なくて済むため、以下のような様々な機能や要求をチップに取り入れることができた。
+
+  - レジスタセットの容量増加
+  - 内部並列性を向上させるための調停機構
+  - 巨大な[キャッシュ](https://ja.wikipedia.org/wiki/キャッシュ "wikilink")の追加
+  - マイクロコントローラ向けのI/Oやタイマの追加
+  - ベクタープロセッサ ([SIMD](https://ja.wikipedia.org/wiki/SIMD "wikilink")命令) の追加
+  - 何も付加しないで、低電力化や小型化を指向する
+
+RISCデザインで一般的な特徴は以下の通りである。
+
+  - 固定命令語長と統一されたビットフィールド設計
+
+<!-- end list -->
+
+  -
+    ビットフィードの構造を可能な限り統一し、オペコード・オペランドが常に同じビットに配置される様にして、命令デコードが高速に行える様にする
+
+<!-- end list -->
+
+  - レジスタが基本的に全て同等で汎用である
+
+<!-- end list -->
+
+  -
+    コンパイラがレジスタに変数の割り当てを行うさいに制約がなく、コンパイラの実装が容易になる。ただし、整数用と浮動小数点数用レジスタは基本的に区別される
+
+<!-- end list -->
+
+  - 単純なアドレッシングモード
+
+<!-- end list -->
+
+  -
+    オペランドとして指定したレジスタをポインタとしてメモリアクセスに使用したり、レジスタ値にオフセットを加えて実効アドレスを得るモードを持つ。それより複雑なアドレッシングは、演算命令を組み合わせて実効アドレスを算出した結果をレジスタに入れて使用する。
+
+<!-- end list -->
+
+  - ハードウェアがサポートするデータ型が少ない
+
+<!-- end list -->
+
+  -
+    例えば、CISCには文字列やビットストリングを扱う命令を備えたり、多項式とか複素数を扱うものもあった。そのような命令はRISCには見受けられない。なお、最新のアーキテクチャではSIMD命令向けに、複数の値をパックしたデータ形式もサポートする。
+
+RISCは[ハーバード・アーキテクチャ](https://ja.wikipedia.org/wiki/ハーバード・アーキテクチャ "wikilink")を実現したものとも言われる。概念的に命令コードのフローとデータのフローが分離されているからである\[5\]。これによって、命令キャッシュとデータキャッシュへ同時にアクセスすることができ、性能向上に寄与する。
+
+初期のRISCの設計には[分岐遅延スロットの仕組みも備えられていた](https://ja.wikipedia.org/wiki/遅延スロット#分岐遅延スロット "wikilink")。これは分岐命令や条件分岐の直後の命令を指し、条件分岐で条件の成立の分岐するしないに関わらず、必ず実行される(逆に言えば分岐の効力が発揮されるのが遅れる)。これは、分岐命令の処理中も[ALUに仕事をさせて](https://ja.wikipedia.org/wiki/演算論理装置 "wikilink")、分岐にかかるオーバーヘッドを隠蔽するための手法である。現在は、CPUの速度とメモリアクセスの差が広がり、またスーパースカラ構成をとる場合には遅延スロットに適切な個数が変わるなど、実装の影響を受けるために良くない仕組みと考えられていて、最近のRISCでは実装が避けられている。
+
+### 初期のRISC
+
+最初のRISCは開発時点ではRISCであるとは認識されていなかった。それは[1964年](../Page/1964年.md "wikilink")に[Seymour CrayとJim](https://ja.wikipedia.org/wiki/シーモア・クレイ "wikilink") Thorntonが設計した[CDC 6600スーパーコンピュータである](https://ja.wikipedia.org/wiki/CDC_6600 "wikilink")。ThortonとCrayは数値計算のためにわずか74種類の命令をもつCPUと周辺プロセッサ（[OSの大部分はこちらで実行される](../Page/オペレーティングシステム.md "wikilink")）と呼ばれる12種の単純なコンピュータを設計した。CDC 6600にはたったふたつのアドレッシングモードしかなかった。CPUは演算用の11本のパイプラインとロード用の5本のパイプラインとストア用の2本のパイプラインを持つ。メモリは複数のバンクに分かれていて、ロード/ストアは並行して実行することが出来た。命令実行サイクルはメモリアクセスにかかる時間の10倍の速さであった。
+
+もうひとつの初期のロード/ストアマシンとしては[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に設計された[データ・ゼネラルの](https://ja.wikipedia.org/wiki/データゼネラル "wikilink")がある。
+
+最も一般に知られているRISCは[DARPAの](../Page/国防高等研究計画局.md "wikilink")[VLSI計画](https://ja.wikipedia.org/wiki/VLSI計画 "wikilink")の一環で行われた大学での研究である。VLSI計画は今日ではあまり知られていないが、チップの設計、製造、[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")など様々な特筆すべき成果を生み出している。
+
+[カリフォルニア大学バークレー校](https://ja.wikipedia.org/wiki/カリフォルニア大学バークレー校 "wikilink")のRISCプロジェクトは[デイビッド・パターソンの指揮の下](https://ja.wikipedia.org/wiki/デイビッド・パターソン_\(計算機科学者\) "wikilink")1980年に開始された。基本的な考え方はパイプラインと今日[レジスタ・ウィンドウ](https://ja.wikipedia.org/wiki/レジスタ・ウィンドウ "wikilink")として知られている大胆なレジスタの用法であった。同時期のCPUが内蔵するレジスタ本数は少数に限られていて、プログラムはその範囲でレジスタを使いまわした。レジスタ・ウィンドウを持つCPUでは、アーキテクチャ上128本のレジスタを持つが、プログラムからはある瞬間に、特定のレジスタ・ウィンドウに属する8本のレジスタのみが見える。CPUはプロシージャ(ルーチン、関数)ごとに別のウィンドウを割り当て、プロシージャごとに相互に異なる8本のレジスタを使用する。そのためプロシージャコールや復帰が極めて高速に実施される\[6\]。
+
+当時、パターソンらは、RISCはCPUを1チップに収めるための制約の下に単純なアーキテクチャを設計・実装したもので、性能が低下すると考えていた。レジスタ・ウィンドウは、その性能低下を補うために導入されたのである。1981年に発表された論文では、VAX11/780に対して実行サイクル数比で4倍との性能が示されたが、RISCの効果が正しく評価されず、レジスタ・ウィンドウによる効果だと説明されていた\[7\]。
+
+このRISCプロジェクトは[1982年](../Page/1982年.md "wikilink")にRISC-Iを完成させた。同時期のCISCプロセッサが10万個のトランジスタからなっていたのに対して、わずか44,420個のトランジスタからなるRISC-Iは32種類の命令しか持たなかったが、極めて高性能だった。次いで1983年にRISC-Iの3倍の性能のRISC-IIが登場した。RISC-IIは40,760個のトランジスタからなり、39種類の命令を持っていた。
+
+同じころ、[ジョン・L・ヘネシー](https://ja.wikipedia.org/wiki/ジョン・L・ヘネシー "wikilink")は[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")、[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")で[MIPSプロジェクトを開始した](https://ja.wikipedia.org/wiki/MIPSアーキテクチャ "wikilink")。MIPSでは命令パイプラインを可能な限りフルに動作させることを目標としていた。命令パイプラインはすでに他でも使われていたが、いくつかの工夫によりMIPSのパイプラインは非常に高速に動作した。最も重要な点は全ての命令を1クロックサイクルで実行されるようにしたことである。これによりパイプラインは最大限に効果を発揮しプロセッサの高速化を実現した。但し、乗算や除算といった有用な命令は省略されていた。
+
+チップ上にRISCのCPUを作るという最初の試みは、1975年に[IBM](../Page/IBM.md "wikilink")が行ったもので、上述の大学の研究よりも早い。プロジェクトが開始された建物の番号をとって[IBM 801と名づけられたプロセッサファミリはIBMのマシンに広く応用された](https://ja.wikipedia.org/wiki/IBM_801 "wikilink")。1981年に製造されたシングルチップの[ROMP](https://ja.wikipedia.org/wiki/ROMP "wikilink")は*Research (Office Products Division) Mini Processor*の略であり、名前が小型の市場を意識していることを示している。これを使って[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[IBM RT-PCをリリースしたが](https://ja.wikipedia.org/wiki/IBM_RT-PC "wikilink")、性能的には問題があった。とはいうものの、801はいくつかのプロジェクトを生み出し、後にここから[POWERが生まれることになった](https://ja.wikipedia.org/wiki/POWER_\(マイクロプロセッサ\) "wikilink")。
+
+初期のRISCは、単純で小型ながら高い性能を発揮する効果は知られていたものの研究室レベルで留まっていた。バークレーの成果はよく知られるようになったため、RISCという言葉が一般化することになった。多くのコンピュータ業界関係者は、実際の商用[アプリケーションを高速に実行できなければ意味がないと批評し](../Page/アプリケーションソフトウェア.md "wikilink")、それを使おうとしなかった。しかし[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、各研究プロジェクトの成果が製品となっていった。実際、ほとんどのRISCプロセッサはRISC-IIの設計をコピーするところからはじまっている。
+
+### 現在のRISC
+
+[2009年](../Page/2009年.md "wikilink")現在では、「RISC対CISC」という単純な優劣論争は、技術的にはもはや意味を持たない。[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")などの代表的なCISCプロセッサは内部的にRISCのアーキテクチャを段階的に取り入れ、逆に代表的なRISCプロセッサは命令数の追加を続けているためである。
+
+RISCの当初の設計思想は「少ない簡潔な命令数による、回路設計の単純化とパイプライン効果の最大化によって、性能向上と低コスト化、更には容易な動作周波数の向上を実現する」ものであった。しかし現在の主要なRISCプロセッサは、商用計算用の[10進数演算や](../Page/十進法.md "wikilink")、[暗号化](https://ja.wikipedia.org/wiki/暗号化 "wikilink")、[仮想化](https://ja.wikipedia.org/wiki/仮想化 "wikilink")、[アウト・オブ・オーダー実行](https://ja.wikipedia.org/wiki/アウト・オブ・オーダー実行 "wikilink")などの複雑な命令を追加し続けている。この背景には、当初より幅広い用途や新しい機能が求められていること、性能を確保したまま多数の命令を実装できる半導体技術と回路設計技術の向上、単純な動作周波数の向上には消費電力や発熱などの副作用や限界があった。以降は[マルチコア](https://ja.wikipedia.org/wiki/マルチコア "wikilink")化へ性能向上の舵を切ることになる。このため現在では高性能なプロセッサの開発は、開発費用も製造費用（設備投資など）も膨大になり、大規模なチップメーカー以外はハイエンドのプロセッサの開発・製造が困難となっている。
+
+とはいえ、命令数と回路規模以外は依然としてRISCの設計思想が強く残る。命令は32ビットチップこそ固定小数32ビット、浮動小数64ビット、[SIMD](https://ja.wikipedia.org/wiki/SIMD "wikilink")が128ビットとなるが各ユニットで常に固定長、アドレッシングモードもレジスタ - レジスタとロード・ストアの二種しかないことに変わりなく、レジスタは[IA-64](https://ja.wikipedia.org/wiki/IA-64 "wikilink")は別として、[x64](https://ja.wikipedia.org/wiki/x64 "wikilink")と比較しても倍の32本以上を持つ。こうしたこともあって、プロセッサの分類として、x86や[System zなどを](https://ja.wikipedia.org/wiki/System_z "wikilink")「CISC」、[MIPS](https://ja.wikipedia.org/wiki/MIPSアーキテクチャ "wikilink")・[POWER](https://ja.wikipedia.org/wiki/POWER_\(マイクロプロセッサ\) "wikilink")・[SPARC](https://ja.wikipedia.org/wiki/SPARC "wikilink")などを「RISC」と呼ぶ事は、なお一般的である。
+
+市場別には、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")と[メインフレーム](../Page/メインフレーム.md "wikilink")では、過去の命令セットとの後方互換性が重視され、CISCがほぼ独占している。[UNIX](../Page/UNIX.md "wikilink")サーバー市場では、ローエンドはCISC（主にx86）、ハイエンドはRISC（POWER、SPARCなど）が多数派である。[携帯電話](../Page/携帯電話.md "wikilink")・[ゲーム機](../Page/ゲーム機.md "wikilink")(ただし2013年に[PlayStation 4と](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")[Xbox Oneはx](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")86になった)・ネットワーク機器など[組み込み市場では](../Page/組み込みシステム.md "wikilink")、命令セットの後方互換性は重視されず、低消費電力かつ高性能なプロセッサが強く求められ、[32ビット](https://ja.wikipedia.org/wiki/32ビット "wikilink")・[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")プロセッサではほぼRISCが独占している（[ARM](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")、MIPS、[PowerPC](../Page/PowerPC.md "wikilink")、[SuperH](https://ja.wikipedia.org/wiki/SuperH "wikilink")など）。
+
+## 主なRISCプロセッサ
+
+### 現行のプロセッサ
+
+  - [SPARC](https://ja.wikipedia.org/wiki/SPARC "wikilink") （[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")、[富士通](../Page/富士通.md "wikilink")）
+    バークレーでの研究は直接製品化されることはなかったが、[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")はRISC-IIのデザインを使って[SPARC](https://ja.wikipedia.org/wiki/SPARC "wikilink")を開発した。また、Pyramid Technologyもミッドレンジのマルチプロセッサ機に使用した。他にも多くの企業がRISC-IIのデザインを利用した。これはサンの新たな機種で広く使われ、RISCの効果を世に知らしめた。これにより、サンは急速に成長し、[ワークステーション](../Page/ワークステーション.md "wikilink")市場をほぼ独占することになった。しかし1990年代後半にワークステーション市場はX86アーキテクチャの[PCに敗れ去り消滅した](../Page/パーソナルコンピュータ.md "wikilink")。現在では同社および共同開発の[富士通](../Page/富士通.md "wikilink")の[サーバ](../Page/サーバ.md "wikilink")専用に少数が生産されている。
+
+  - [MIPS](https://ja.wikipedia.org/wiki/MIPSアーキテクチャ "wikilink")
+    ジョン・ヘネシーは一時期スタンフォード大学を離れてMIPSの商用化設計にとりかかるためミップス・コンピュータシステムズという企業を設立した。最初の製品は第二世代のMIPSチップ**[R2000](https://ja.wikipedia.org/wiki/R2000 "wikilink")**であった。MIPSのデザインは[プレイステーションや](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[NINTENDO64](../Page/NINTENDO64.md "wikilink")などの[ゲーム機](../Page/ゲーム機.md "wikilink")でも使われ、最も多く出荷され使われたRISCチップとなった。現在では[組み込みシステム](../Page/組み込みシステム.md "wikilink")用のハイエンドのプロセッサとして有名である。
+
+  - [POWER](https://ja.wikipedia.org/wiki/POWER_\(マイクロプロセッサ\) "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink") （[IBM](../Page/IBM.md "wikilink")）
+    IBMは[RT PCでの失敗を教訓として次期マシン](https://ja.wikipedia.org/wiki/IBM_RT-PC "wikilink")[RS/6000](https://ja.wikipedia.org/wiki/RS/6000 "wikilink")のベースとするためにPOWERアーキテクチャを設計した。POWERを小規模化した[PowerPC](../Page/PowerPC.md "wikilink")では、IBM固有の様々な命令が排除されてシングルチップ化された。PowerPCはデスクトップ向けでは[1994年](../Page/1994年.md "wikilink")より[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")まで[Macintosh](../Page/Macintosh.md "wikilink")に使われた。PowerPCコアは、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")などと共同開発の[Cellを含め](https://ja.wikipedia.org/wiki/Cell_Broadband_Engine "wikilink")、[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")から組み込みシステムまで幅広く展開し、据え置きの[ゲーム機](../Page/ゲーム機.md "wikilink")にも多く使われている。
+
+  - [ARM](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink") (Acorn→ARM Ltd)
+    ARM1～3が[Acornの](https://ja.wikipedia.org/wiki/エイコーン・コンピュータ "wikilink")[Archimedesなどに搭載された後に](https://ja.wikipedia.org/wiki/Acorn_Archimedes "wikilink")、[アップルと](../Page/アップル_\(企業\).md "wikilink")[Newton向けプロセッサの共同開発を進めるためプロセッサ開発部門がARMとして独立](https://ja.wikipedia.org/wiki/アップル・ニュートン "wikilink")。RISC-CPUの中でも特に低消費電力に注力した設計をもつ。[組み込みシステム](../Page/組み込みシステム.md "wikilink")向けとして各社にライセンス展開し、[携帯電話](../Page/携帯電話.md "wikilink")をはじめとした組み込み向け市場では圧倒的なシェアを誇る。[サーバファーム](https://ja.wikipedia.org/wiki/サーバファーム "wikilink")や[ニンテンドーDS](https://ja.wikipedia.org/wiki/ニンテンドーDS "wikilink")などの携帯ゲーム機にも利用される。近年は[Android](https://ja.wikipedia.org/wiki/Android "wikilink")などの[モバイルプラットフォームの成長に伴い](https://ja.wikipedia.org/wiki/モバイルオペレーティングシステム "wikilink")、[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")などのタブレットコンピュータにも多く採用されている。
+
+  - [SuperH](https://ja.wikipedia.org/wiki/SuperH "wikilink") （[日立製作所](../Page/日立製作所.md "wikilink")→[ルネサス エレクトロニクス](https://ja.wikipedia.org/wiki/ルネサス_エレクトロニクス "wikilink")）
+    [組み込みシステム](../Page/組み込みシステム.md "wikilink")向けで、SH-1～SH-5がある。コードサイズの効率化を狙って固定命令長を16ビットとした。このコンパクトな命令セットは他社の命令セットにも影響を与えた。[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")のゲーム機にも使用された。
+
+  - [OpenRISC](https://ja.wikipedia.org/wiki/OpenRISC "wikilink")（[OpenCores](https://ja.wikipedia.org/wiki/OpenCores "wikilink")コミュニティ）
+    [オープンソースハードウェア](https://ja.wikipedia.org/wiki/オープンソースハードウェア "wikilink")。ハードウェアのデザインは[GNU LGPLで](https://ja.wikipedia.org/wiki/GNU_LGPL "wikilink")、モデルとファームウェアが[GNU GPLでそれぞれ公開されている](https://ja.wikipedia.org/wiki/GNU_GPL "wikilink")。
+
+  - [RISC-V](https://ja.wikipedia.org/wiki/RISC-V "wikilink") ([カリフォルニア大学バークレイ校](https://ja.wikipedia.org/wiki/カリフォルニア大学バークレイ校 "wikilink"))
+    オープンでフリーの命令セット。ハードウェアの実装は、企業、開発者によって行われている。
+
+  - [V850](https://ja.wikipedia.org/wiki/V850 "wikilink") （[NEC](../Page/日本電気.md "wikilink")→ルネサス エレクトロニクス）
+    [M32R](https://ja.wikipedia.org/wiki/M32R "wikilink") ([三菱電機](https://ja.wikipedia.org/wiki/三菱電機 "wikilink")→ルネサス エレクトロニクス）
+    [Atmel AVR](https://ja.wikipedia.org/wiki/Atmel_AVR "wikilink")
+    [ESi-RISC](https://ja.wikipedia.org/wiki/ESi-RISC "wikilink")
+
+### 終息したプロセッサ
+
+  - [ROMP](https://ja.wikipedia.org/wiki/ROMP "wikilink") ([IBM](../Page/IBM.md "wikilink"))：世界初の商用RISCチップとして[RT-PC](https://ja.wikipedia.org/wiki/RT-PC "wikilink")に搭載されたが普及せず、後の[POWERに引き継がれた](https://ja.wikipedia.org/wiki/POWER_\(マイクロプロセッサ\) "wikilink")。
+  - [i860](https://ja.wikipedia.org/wiki/Intel_i860 "wikilink")/[i960](https://ja.wikipedia.org/wiki/Intel_i960 "wikilink")（[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")）
+  - [88000](https://ja.wikipedia.org/wiki/MC88000 "wikilink")（[モトローラ](../Page/モトローラ.md "wikilink")）：ほとんど売れなかったため、モトローラはほどなくIBMのPowerPCの製造に参加した。
+  - [29000](https://ja.wikipedia.org/wiki/AMD_Am29000 "wikilink") ([AMD](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink"))：1990年代初頭、ポピュラーなRISCプロセッサのひとつだった。PostScript プリンタのインタプリタ処理プロセッサとして広く使用された。
+  - [PA-RISC](https://ja.wikipedia.org/wiki/PA-RISC "wikilink") ([HP](https://ja.wikipedia.org/wiki/ヒューレット・パッカード "wikilink"))：同社のワークステーションで使用された。[Itanium](https://ja.wikipedia.org/wiki/Itanium "wikilink")への移行に伴い、PA-RISC搭載マシンの出荷は停止しているが、古いシステムでは2011年現在も利用されていることもある。
+  - [Alpha](https://ja.wikipedia.org/wiki/DEC_Alpha "wikilink") ([DEC](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink"))：64ビット構造を取るCPUで、ワークステーションや組み込み用途向け。RISC-CPUの中でも最速を誇ったが、同社が[コンパック](https://ja.wikipedia.org/wiki/コンパック "wikilink")に買収された後、縮小。さらにコンパックはHPに買収された。開発チームは各社に散り、それぞれ別のRISC CPUに携わっている。2016年6月に世界最速と評価されたスーパーコンピュータ[神威太湖之光](https://ja.wikipedia.org/wiki/神威太湖之光 "wikilink")に使用されている中国製CPUのベースとなっている。
+  -
+### RISCライクなプロセッサ
+
+  - [PIC](https://ja.wikipedia.org/wiki/PIC_\(コントローラ\) "wikilink") (Microchip)
+  - [R800](https://ja.wikipedia.org/wiki/R800 "wikilink") （アスキー）
+  - [Coldfire](https://ja.wikipedia.org/wiki/Coldfire "wikilink") （モトローラ→[フリースケール・セミコンダクタ](https://ja.wikipedia.org/wiki/フリースケール・セミコンダクタ "wikilink")）
+  - [トランスピュータ](https://ja.wikipedia.org/wiki/トランスピュータ "wikilink") (INMOS)
+
+## 注釈
+
+## 出典
+
+<div class="references-small">
+
+<references />
+
+</div>
+
+## 参考文献
+
+  -
+## 関連項目
+
+  - [CPU年表](https://ja.wikipedia.org/wiki/CPU年表 "wikilink")
+  - [コンピュータ・アーキテクチャ](../Page/コンピュータ・アーキテクチャ.md "wikilink")
+  - [マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")
+
+## 外部リンク
+
+  - [RISC vs. CISC](http://www-cs-faculty.stanford.edu/~eroberts/courses/soco/projects/2000-01/risc/risccisc/)
+  - [What is RISC](http://www-cs-faculty.stanford.edu/~eroberts/courses/soco/projects/2000-01/risc/whatis/)
+  - [RISC vs. CISC from historical perspective](http://www.cpushack.net/CPU/cpuAppendA.html)
+
+[Category:CPU](https://ja.wikipedia.org/wiki/Category:CPU "wikilink")
+
+1.  例えば、カウンタレジスタをデクリメントし、減算結果が非ゼロであればジャンプし、ゼロであれば後続の命令を実行する、ループを構成するのに便利な命令や、文字列を転送するストリング命令など
+2.  ヘネシー&パターソン, p.478
+3.
+4.  データの退避や復帰、割り込み発生時のレジスタの退避、[サブルーチン](https://ja.wikipedia.org/wiki/サブルーチン "wikilink")からリターンする際のアドレスの保存など。
+5.  これは特別な同期命令を実行するまで、コードが存在する位置のメモリを書き換えても命令実行に影響しないということである。なぜならCPUは分離された命令キャッシュとデータキャッシュを持っているため
+6.  通常のCPUでは、サブルーチンコール時にレジスタの内容をメモリのスタック領域に退避させ、復帰するときにメモリからレジスタに戻す
+7.  五島正裕「20世紀の名著名論」『情報処理』46巻3号、317頁、情報処理学会、2005年3月。 これは原論文（下記）の評論である。
+    David A. Patterson and Carlo H.Sequin, “RISC I:A Reduced Instruction Set VLSI Computer” *Proc. Int\`l Symp. On Computer Architecture*, 1981, pp. 443-457.

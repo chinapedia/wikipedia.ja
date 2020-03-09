@@ -1,0 +1,236 @@
+> この記事は[Scalable Vector Graphics](https://ja.wikipedia.org/wiki/Scalable_Vector_Graphics)から翻訳されています。
+
+
+**Scalable Vector Graphics**（スケーラブル・ベクター・グラフィックス、**SVG**、）は、[XMLベースの](../Page/Extensible_Markup_Language.md "wikilink")、2次元[ベクターイメージ](https://ja.wikipedia.org/wiki/ベクターイメージ "wikilink")用の[画像形式の](https://ja.wikipedia.org/wiki/画像フォーマット "wikilink")1つである。アニメーションやユーザインタラクションもサポートしている。SVGの仕様は[W3Cによって開発され](../Page/World_Wide_Web_Consortium.md "wikilink")、[オープン標準](https://ja.wikipedia.org/wiki/オープン標準 "wikilink")として勧告されている。
+
+## 沿革
+
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発足した W3C SVG ワーキンググループにより開発された。しかし、その時点で[マクロメディア](../Page/マクロメディア.md "wikilink")と[マイクロソフト](../Page/マイクロソフト.md "wikilink")が [VML](https://ja.wikipedia.org/wiki/VML "wikilink")、[アドビシステムズ](../Page/アドビシステムズ.md "wikilink")と[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")が [PGML](https://ja.wikipedia.org/wiki/PGML "wikilink") として知られる競合形式を提案していた。
+
+  - [2001年](../Page/2001年.md "wikilink")9月4日 - SVG 1.0 が [W3C](../Page/World_Wide_Web_Consortium.md "wikilink") 勧告となる
+  - [2003年](../Page/2003年.md "wikilink")1月14日 - SVG 1.1 が [W3C](../Page/World_Wide_Web_Consortium.md "wikilink") 勧告となる
+  - [2003年](../Page/2003年.md "wikilink")1月14日 - SVG Tiny と SVG Basic （モバイル SVG プロファイル）が [W3C](../Page/World_Wide_Web_Consortium.md "wikilink") 勧告となる
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")12月22日 - SVG Tiny 1.2 が [W3C](../Page/World_Wide_Web_Consortium.md "wikilink") 勧告となる
+  - [2011年](../Page/2011年.md "wikilink")8月16日 - SVG 1.1 (Second Edition) が [W3C](../Page/World_Wide_Web_Consortium.md "wikilink") 勧告となる
+
+## 特徴
+
+[ベクタ形式](https://ja.wikipedia.org/wiki/ベクタ形式 "wikilink")であるため、拡縮自在である。その他に、XMLベースの為、[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")で（画像として、という意味ではなく、HTMLのソースビュー等と同様に、という意味で）閲覧でき、[テキストエディタ](https://ja.wikipedia.org/wiki/テキストエディタ "wikilink")等で編集できる。また、HTMLとの親和性により、[ハイパーリンク](https://ja.wikipedia.org/wiki/ハイパーリンク "wikilink")を埋め込んだり、[JavaScript](../Page/JavaScript.md "wikilink") 等と連携させることもできる。 [代替文=SVG 円](https://ja.wikipedia.org/wiki/ファイル:SVG_Circle.svg "wikilink")
+
+### 編集
+
+SVG は、拡張の自由度が高い [XML](../Page/Extensible_Markup_Language.md "wikilink") () で記述されており、XML ならではの各種機能を定義した要素を持つ。SVG ではそれ自身に回転・拡大・移動などの表現を定義しているため、単体で多様な表現をすることが可能である。
+
+従来のウェブサイトでは、いわゆるインタラクティブな双方性のある画面変化を伴う表示を JavaScript や FLASH を用いてきた。HTML/XHTML に SVG を組み合わせることにより、JavaScript や FLASH を導入せずとも同様の効果が発揮されることが期待される。
+
+XML なので、原理的には専用のアプリケーションを用いることなく通常の[テキストファイル](https://ja.wikipedia.org/wiki/テキストファイル "wikilink")として作製・編集できる。
+
+### レイヤー
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Bitmap_VS_SVG.svg "wikilink") SVG の特筆すべき点としてレイヤー機能がある。SVG では写真や挿絵などのビットマップデータ部分と座標値で指定された円・線分等を組み合わせた図形をベクターデータ部分として個々に指定でき、互いの苦手とする部分を補完しながら共存して画面表示できる。
+
+  - ビットマップデータ: 写真・挿絵・統計グラフ
+  - ベクターデータ: 円弧・線分・点・文字・統計グラフ
+
+SVG では文字をベクター情報の領域に有することで拡大縮小した際にはアウトラインフォントで表現する。この機能により、拡大すると[ジャギー](https://ja.wikipedia.org/wiki/ジャギー "wikilink")と呼ばれる文字外延部のギザギザが生じて見にくくなる点が解決されている。具体的には Adobe Acrobat による PDF 形式の文字とほぼ同じ機能を有する。
+
+これらのレイヤー機能により、背景に写真などの画像を置き、ベクターデータによる線画や文字を配置させることが可能である。具体的には等高線を表示した地図画像（ビットマップ）の上に鉄道路線や道路網（ベクターデータ）を重ね、電車や自動車等の移動体を配置して同時表示が可能になる。更に、ベクターデータのみで表現した塗りつぶしでは色の重ね合わせが可能であり、塗りつぶしの透過度の指定により集合論で用いるベン図のような形を必要最低限度の色数で表現できる。
+
+### ファイル形式
+
+基本的に SVG は [MIME 形式指定では](https://ja.wikipedia.org/wiki/メディアタイプ "wikilink") image/svg+xml で指定された画像フォーマットである。ファイルの拡張子は .svg と gzip 圧縮された .svgz がある。拡張子 .svg はテキストファイルであるため、大きなデータではネット間の通信トラフィックにおいてのデメリットが大きいが、圧縮した .svgz では数分の一のファイルサイズになる。展開機能はWebブラウザ側が受け持つ。
+
+### 親和性
+
+SVG は基本的に文章で構成されており、ブラウザの利用者が入力した情報を CGI や JavaScript を介して SVG データに組み入れることが可能である。これにより、ベクターデータを用いた統計グラフでは可変性のある表示が可能になる。
+
+### 長所
+
+文書で制作できるため、独自タグを用いることで高品質な表現が可能である。文字情報は文字データのみを明示的にグループ化しているため、文字のグループのみを抽出することで多言語化が比較的容易にできる。
+
+### 欠点
+
+ビットマップデータの大きさは各形式によってある程度左右されるが、ほぼ面積比によってある程度のサイズに納まることが多い。それに対し、ベクターデータは画面表示サイズに関わらず全ての情報を常に保持し続けるため、表示情報が多い場合はビットマップデータよりもサイズが大きくなる傾向がある（ただし、これはベクターデータ形式全般に言えるものであり、SVG のみの欠点ではない）。
+
+## 規格の概要
+
+  - SVG 1.1
+  - SVG Tiny
+  - SVG Basic
+      - [携帯電話](../Page/携帯電話.md "wikilink")や[携帯情報端末](https://ja.wikipedia.org/wiki/携帯情報端末 "wikilink")等の[携帯情報機器](https://ja.wikipedia.org/wiki/携帯情報機器 "wikilink")を対象にした軽量規格。
+  - SVG 2
+      - 現在、W3Cの[勧告候補の段階である](https://ja.wikipedia.org/wiki/W3C勧告#勧告候補 "wikilink")。
+
+### 現状
+
+SVG は版を重ねるごとに高度な機能を盛り込んでいる。1.1 版以降から、格納しようとする描画情報に当該情報が使用している[座標](../Page/座標.md "wikilink")参照系を[メタデータ](https://ja.wikipedia.org/wiki/メタデータ "wikilink")として記述することが可能となった。これにより、SVG を地図として利活用できる道ができ、[国土地理院](../Page/国土地理院.md "wikilink")ではその保有する[電子国土](https://ja.wikipedia.org/wiki/電子国土 "wikilink")基幹情報を SVG で配信し、PC のみならず様々な媒体で活用する方法を提案して広く社会実験に供する試みを実施している。
+
+一方で、SVG の高度な機能を用いるものでは、それに対応した編集ツールや、データを忠実に再現してくれるビューアやブラウザのプラグイン等が必須となる。高度な機能を持ちつつも、それを活かせるインフラが追いついていないのが現状である。
+
+これとは別に、比較的利用頻度の高い重要な機能に絞り込み、小型機器にも搭載可能な軽量な規格も登場している。
+
+### 日本産業規格
+
+**JIS X 4197**「可変ベクタグラフィクス SVG Tiny1.2」としてW3C発行のSVG Tiny 1.2規格を技術的内容を変更することなく邦訳した規格表が発行されている（2012年最終改訂）\[1\]。
+
+## SVG 編集ソフト
+
+SVG は [XML](../Page/Extensible_Markup_Language.md "wikilink") を用いているのでテキストエディタによるデータの作成も一応可能であるが、記述は非常に複雑なため実用的には [GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインターフェース "wikilink") を前提にした編集ソフトが必須となる。
+
+用途により、高度なグラフィクス作成に主眼を置いた[描画ソフトから図](https://ja.wikipedia.org/wiki/グラフィックソフト "wikilink")、表、フローチャートなどの作成に主眼を置いたソフトまで幅がある。
+
+  - SVG を標準データとして扱い、読み書きが可能なもの
+
+:\* SVG Cats
+
+:\* [Inkscape](https://ja.wikipedia.org/wiki/Inkscape "wikilink")
+
+  - SVG の読み書きが可能なもの
+
+:\*[Adobe Illustrator](../Page/Adobe_Illustrator.md "wikilink")
+
+:\* [Microsoft Office Visio](https://ja.wikipedia.org/wiki/Microsoft_Visio "wikilink")
+
+:\* [Microsoft Officeのうち](../Page/Microsoft_Office.md "wikilink")、Word、Excel、PowerPoint、Outlook\[2\]\[3\]。
+
+:\* [CorelDRAW](https://ja.wikipedia.org/wiki/CorelDRAW "wikilink")
+
+:\*[Affinity Designer](https://ja.wikipedia.org/wiki/Affinity_Designer "wikilink")
+
+:\*[Justsystems](https://ja.wikipedia.org/wiki/Justsystems "wikilink") [Xfy](https://ja.wikipedia.org/wiki/Xfy "wikilink")
+
+:\*[Dia](https://ja.wikipedia.org/wiki/Dia_\(ソフトウェア\) "wikilink")
+
+:\*[Mathematica](https://ja.wikipedia.org/wiki/Mathematica "wikilink")
+
+:\*[LibreOffice Draw](https://ja.wikipedia.org/wiki/LibreOffice_Draw "wikilink")
+
+:\*[Googleドキュメント](https://ja.wikipedia.org/wiki/Googleドキュメント "wikilink")
+
+  - 一部制限があるもの
+
+:\* [GIMP](../Page/GIMP.md "wikilink") - 読み込みに対応。書き出しはパスの書き出しのみ。
+
+  - SVG の出力が可能なもの
+
+:\*[花子](https://ja.wikipedia.org/wiki/花子_\(グラフィックソフト\) "wikilink")2006は、SVG (Ver.1.0 に準拠) の書き出しに対応。
+
+:\* [OpenOffice](../Page/OpenOffice.org.md "wikilink") Draw - 1.1 までは日本語出力が一部乱れるなど難あり。2.0 から書き出しに対応。[SVG Import Filter](https://web.archive.org/web/20080701061453/http://www.ipd.uka.de/~hauma/svg-import/#download)<small>(アーカイブ)</small>\[4\]を導入すれば読み込みも可能。
+
+:\* Omni Groupの[OmniGraffle](https://ja.wikipedia.org/wiki/OmniGraffle "wikilink") Professional 4 は、SVG 書き出しに対応。
+
+:\* [R](https://ja.wikipedia.org/wiki/R言語 "wikilink") はデータ解析結果のグラフ出力形式として SVG に対応。
+
+:\* [Gnuplot](https://ja.wikipedia.org/wiki/Gnuplot "wikilink") および GNU [Plotutils](https://ja.wikipedia.org/wiki/Plotutils "wikilink") は、プロットの出力形式として SVG に対応。
+
+:\* [Geometry Expressions](https://ja.wikipedia.org/wiki/Geometry_Expressions "wikilink") は、図形の出力形式として SVG に対応。
+
+この他、[CAD](https://ja.wikipedia.org/wiki/CAD "wikilink") ソフトウエアには読み書きともに対応しているものが多く存在する。
+
+## ウェブブラウザによる SVG 画像の表示
+
+2011年現在、パソコン用の主要[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")でネイティブサポートされている。しかし、[Internet Explorer 8](https://ja.wikipedia.org/wiki/Internet_Explorer_8 "wikilink") 以前のマイクロソフト製のレンダリングエンジンを用いているブラウザでは対応していない。これに対し、[Internet Explorer 9](https://ja.wikipedia.org/wiki/Internet_Explorer_9 "wikilink") 以上に移行するか、[第三者製の](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")[プラグイン](https://ja.wikipedia.org/wiki/プラグイン "wikilink")を用いることで、SVG 画像を表示させることができる。
+
+2018年5月時点で\[5\]、HTML標準の仕様ではSVG 2を参照している。さらに、SVGを実装するならそれ以前のバージョンではなくSVG 2を実装しなければならないと規定されている\[6\]。
+
+### ネイティブサポート
+
+  - [Internet Explorer 9](https://ja.wikipedia.org/wiki/Internet_Explorer_9 "wikilink") は、SVG 1.1 に標準対応している\[7\]。
+  - [Firefox](../Page/Mozilla_Firefox.md "wikilink") ([Gecko](../Page/Gecko.md "wikilink")) では、Firefox 1.5 から対応している。
+  - [Google Chrome](https://ja.wikipedia.org/wiki/Google_Chrome "wikilink") は最初のバージョンから対応。
+      - Android ブラウザは Android 3.0 から対応
+  - [Safari](../Page/Safari.md "wikilink") は、Safari 3.0 から SVG 1.1 に完全ではないが対応した\[8\]。対応状況は環境毎に異なる。
+      - OS X - バージョン 3.1.2 の時点で、[カラープロファイル](https://ja.wikipedia.org/wiki/カラープロファイル "wikilink")など一部機能を未実装。現状の対応状況は、[WebKit SVG Status](http://webkit.org/projects/svg/status.xml)。
+      - Mobile - [iPhone OS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink") 2.1 の [Mobile Safari](https://ja.wikipedia.org/wiki/Mobile_Safari "wikilink") で SVG に対応した。
+      - Windows - Safari 3.1.2 現在、フィルタなど一部の機能を除いて、実装している。
+  - [Opera](https://ja.wikipedia.org/wiki/Opera "wikilink") および [Opera Mobile](https://ja.wikipedia.org/wiki/Opera_Mobile "wikilink") は2005年4月に発表された Opera v8.0 で SVG Tiny に、2006年発表の v9.0 で SVG Basic に対応した。
+      - [Opera Mini](https://ja.wikipedia.org/wiki/Opera_Mini "wikilink") は 5 から対応。
+  - [NetFront Browser](https://ja.wikipedia.org/wiki/NetFront_Browser "wikilink") - 未対応
+  - [KDE](https://ja.wikipedia.org/wiki/KDE "wikilink") の [Konqueror](https://ja.wikipedia.org/wiki/Konqueror "wikilink") は [KSVG](https://ja.wikipedia.org/wiki/KSVG "wikilink") を使って表示させることができる。
+  - W3C の [Amaya](https://ja.wikipedia.org/wiki/Amaya "wikilink") が標準対応している。
+
+### プラグインサポート
+
+  - Adobe - [Adobe SVG Viewer](http://www.adobe.com/jp/svg/viewer/install/)。[Internet Explorer](../Page/Internet_Explorer.md "wikilink") や [Netscape](../Page/Netscapeシリーズ.md "wikilink") 向け。
+      - Adobe SVG Viewer は2009年1月1日にサポートを終了と発表した。配布の終了は未定である[1](http://www.adobe.com/svg/viewer/install/main.html)。
+  - Corel - [Corel SVG Viewer](http://www.corel.com/servlet/Satellite?pagename=Corel2/Products/Content&pid=1047023276653&cid=1047023286996)
+  - [GNOME](../Page/GNOME.md "wikilink") - [Mozilla](https://ja.wikipedia.org/wiki/Mozilla "wikilink") 向けにプラグインの [librsvg](https://ja.wikipedia.org/wiki/librsvg "wikilink")
+  - Examotion（開発元が Emia Systems から移った） - [Renesis Player](http://www.examotion.com/index.php?id=product_player)
+  - [SVG MAP コンソーシアム](http://blog.svg-map.com/) - 2007年9月6日に地図表示のための拡張機能を備えた SVG Viewer である[SVG Map Toolkit](http://blog.svg-map.com/2007/09/svgmaptoolkit.html)の提供を開始した。
+
+## デスクトップ
+
+[GNU/Linuxなどの](https://ja.wikipedia.org/wiki/GNU/Linuxシステム "wikilink") [Unix系](https://ja.wikipedia.org/wiki/Unix系 "wikilink")OSでは、[Freedesktop.org](https://ja.wikipedia.org/wiki/Freedesktop.org "wikilink") の標準に採用されるなど、様々な利用がされている。[GNOME](../Page/GNOME.md "wikilink") は [librsvg](https://ja.wikipedia.org/wiki/librsvg "wikilink") を使いアイコンや壁紙に SVG を利用でき、また、[KDE](https://ja.wikipedia.org/wiki/KDE "wikilink") では [KSVG](https://ja.wikipedia.org/wiki/KSVG "wikilink") を利用してアイコンを表示できるほか 3.4 からは SVG を使った壁紙に対応した。
+
+[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 系では2007年現在では特に動きはない。
+
+## 脚注
+
+### 出典
+
+## 参考文献
+
+  - \- SVG 1.0仕様の日本語訳 (TR)
+
+  -
+  -
+## 関連項目
+
+  - [Adobe Flash](../Page/Adobe_Flash.md "wikilink") (Macromedia Flash)
+
+  - [Apache Batik](https://ja.wikipedia.org/wiki/Apache_Batik "wikilink")
+
+  -
+  - [Commons:SVG変換](https://ja.wikipedia.org/wiki/Commons:Commons:SVG変換 "wikilink")
+
+  -
+  - [Computer Graphics Metafile](https://ja.wikipedia.org/wiki/Computer_Graphics_Metafile "wikilink") (CGM)
+
+  - [Direct2D](https://ja.wikipedia.org/wiki/Direct2D "wikilink")
+
+  - [Extensible Markup Language](../Page/Extensible_Markup_Language.md "wikilink") (XML)
+
+  -
+  -
+  -
+  - [PostScript](../Page/PostScript.md "wikilink") (PS)- ベクタ形式の画像フォーマット
+
+      - [Encapsulated PostScript](https://ja.wikipedia.org/wiki/Encapsulated_PostScript "wikilink") (EPS) - ベクタ形式の画像フォーマット
+
+  -
+  -
+  -
+  -
+  -
+  - [WYSIWYG](../Page/WYSIWYG.md "wikilink")
+
+  - [Windows Metafile](https://ja.wikipedia.org/wiki/Windows_Metafile "wikilink") (WMF, EMF) - ベクタ形式の画像フォーマット
+
+  - [ビットマップ画像](https://ja.wikipedia.org/wiki/ビットマップ画像 "wikilink")（ラスターグラフィック）
+
+  - [ベクターイメージ](https://ja.wikipedia.org/wiki/ベクターイメージ "wikilink")
+
+## 外部リンク
+
+  - [W3C の SVG 公式サイト](https://www.w3.org/Graphics/SVG/)
+
+  - [Adobe to Discontinue Adobe SVG Viewer](https://www.adobe.com/devnet/svg/adobe-svg-viewer-eol.html)
+
+  - [Open Clip Art Library](https://openclipart.org/) -パブリックドメインの SVG グラフィック配布サイト
+
+  -
+  -
+  - [SVG Cats 製品紹介ページ](http://www.sage-p.com/svgcats2.htm)
+
+  - [SVG埋め込み文字列の翻訳ツール](https://tools.wmflabs.org/svgtranslate/)
+
+[Category:W3C勧告](https://ja.wikipedia.org/wiki/Category:W3C勧告 "wikilink") [Category:XMLベースの技術](https://ja.wikipedia.org/wiki/Category:XMLベースの技術 "wikilink") [Category:ベクターグラフィックス・マークアップ言語](https://ja.wikipedia.org/wiki/Category:ベクターグラフィックス・マークアップ言語 "wikilink") [Category:画像ファイルフォーマット](https://ja.wikipedia.org/wiki/Category:画像ファイルフォーマット "wikilink") [Category:オープンフォーマット](https://ja.wikipedia.org/wiki/Category:オープンフォーマット "wikilink")
+
+1.  JIS X 4197
+2.
+3.
+4.  SVG Import Filterのアーカイブ版はVersion 1.2.2 (2007-09-02) 以降、アップデートされていない。(アーカイブ版に更新日時：\~\~\~\~\~)
+5.
+6.
+7.  [SVG in IE9 Roadmap - Internet Explorer ブログ (日本語版)](http://blogs.msdn.com/b/ie_jp/archive/2010/04/14/svg-in-ie9-roadmap.aspx)
+8.  [The official WebKit SVG status page](http://webkit.org/projects/svg/status.xml)

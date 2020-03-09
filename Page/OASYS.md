@@ -1,0 +1,323 @@
+> この記事は[OASYS](https://ja.wikipedia.org/wiki/OASYS)から翻訳されています。
+
+
+**OASYS**（オアシス）は、[富士通](../Page/富士通.md "wikilink")の[神田泰典](https://ja.wikipedia.org/wiki/神田泰典 "wikilink")らによって開発された、[日本語](../Page/日本語.md "wikilink")[ワードプロセッサ](https://ja.wikipedia.org/wiki/ワードプロセッサ "wikilink")（以下ワープロ）専用機および現在販売されている[ワープロソフト](https://ja.wikipedia.org/wiki/ワープロソフト "wikilink")の名称である。
+
+本項ではOASYSを含む[オフィススイート](https://ja.wikipedia.org/wiki/オフィススイート "wikilink")である**OASYS SuperOffice**（オアシス スーパーオフィス）やビューアである**OASYS Viewer**についても記述する。
+
+## 特徴
+
+OASYSは特にプロユースにおいて大きなシェアを誇り、他社製品と比較して仕様の個性が強かった。その強い個性故、ワープロを評する場合はOASYS対それ以外という視点になりがちで、実際には[シェアが第](https://ja.wikipedia.org/wiki/市場占有率 "wikilink")1位であったにも関わらず、「OASYS使用者は少数派」という矛盾したイメージを抱く者も多かった。
+
+以下に特徴を列記する。
+
+### 親指シフトキーボードの採用
+
+OASYSでは[親指シフトキーボード](https://ja.wikipedia.org/wiki/親指シフトキーボード "wikilink")と呼ばれる独自開発のキーボードを採用した（旧JIS配列や新JIS配列、また50音順配列の製品もある。親指シフト配列のパーソナルワープロ製品に、50音順マスクという付属品を付けた時代( OASYS Lite S ～ F-ROM8 の約三年間) もある。 50音順マスク廃止後は、かわりにかなサーチが搭載された）。他社も日本語ワープロ黎明期には様々な入力方法を模索したが、OASYS以外は速やかに（旧）JISキーボードに収束した。その中で親指シフトキーボードを採用し続けたOASYSは異彩を放っていた。
+
+### 堅実な漢字変換機能
+
+他社が文法処理の高度化・漢字変換の自動化を積極的に進めたのに対して、OASYSは消極的であった。
+
+日本語ワープロの先駆けとなった[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")のJWシリーズではワープロ販売初期の日本語ワープロである[JW-10](https://ja.wikipedia.org/wiki/JW-10 "wikilink")の時点ですでに単文節変換を実現していたのに対し、OASYSは後発にも関わらず一号機であるOASYS100では単語変換のみとし、その後の製品でも単文節変換を基本とした。後に他社との競合上複文節変換をサポートはしたものの、単文節変換のみに切り替える設定を残し続けた。
+
+単文節変換では他社製品で起こりがちだった文節の区切り間違いが原理的に発生しなかった。また複雑な文法処理をしないことと相まって奇天烈な誤変換をしにくい利点をも生んだ。これを指して愛用者は「OASYSは日本語として無意味な変換をしない」と評した。しかし、使い込まなくては理解できない利点であり、カタログスペックでは見劣りした。
+
+また、学習機能も単純で、単に直近に使用した語が第一候補になるものであった 。他社製品では文脈や長期的な使用頻度への配慮が裏目に出て「先ほどと同じ語を変換したのになぜか違う漢字が出てくる」ことがあったが、OASYSではそのようなことは基本的に無かった。同音異義語がある語であっても「先ほど変換して正しい候補を選んだ」記憶があれば変換結果を確認する必要がなく、慣れればキーはおろか画面すら時々しか見ずに原稿に集中できる操作が可能であった。
+
+後には複文節変換をサポートし、「AI辞書」と称する文法処理もするようになったが、積極的に宣伝することは無かった。カタログで高度な文法処理を誇らしげに謳う他社とは対照的であった。複文節変換は操作性が練り込まれておらず、他社との対抗上一応搭載しただけのように感じさせるものであったため、単文節変換に切り替えて使う者も多かった。
+
+OASYSの漢字変換機能は良く言えば素直で単純明快、悪く言えば技術的に遅れたものであった。しかし、愛用者にはその単純明快さを好む者も多かった。
+
+### レスポンスへのこだわり
+
+上記のごとく複雑な文法処理をしない方針と併せて、変換キーを押さずともキー入力の時点で辞書を先読みすることにより、初期の製品でも十分に高いレスポンスを示した。キーに触れるたびに辞書の先読みのために[フロッピーディスク](https://ja.wikipedia.org/wiki/フロッピーディスク "wikilink")ドライブが動作し、キーからアクセス音が聞こえてくるかのような錯覚を覚えるほどだった。どんなに速い操作をしても正しい操作である限り必ず追随してくることによりオペレータは安心して操作に専念できた。
+
+### 上書きモードが基本
+
+他社のワープロが現在のパソコンと同じ挿入モードを速やかに採用したのに対し、OASYSは挿入モードの採用が遅れた。しかし、 OASYS の上書きモードは独特の書き味を持つため、根強い愛好者がいる。
+
+### 罫線機能
+
+いわゆる罫線モードへの移行なしに、いきなり機能シフト＋矢印キーで一筆書きのように罫線を引ける。失敗した場合も機能シフト＋シフト＋矢印キーで消しゴムのように消せる。だからあらかじめ表の全体が頭に浮かんでなくても、下書きしながら表を作っていくことができる。OASYSの罫線機能は直観的な分かりやすさから支持者が多く、[テキストエディタ](https://ja.wikipedia.org/wiki/テキストエディタ "wikilink")の[マクロで操作法を模倣したものが多数ある](https://ja.wikipedia.org/wiki/マクロ言語 "wikilink")。取っつきが良い反面、OASYSの罫線は行間罫線ではなく文字罫線であり、見栄えが間延びするのを嫌う場合は、表の作成後に行間を半分に設定するという、良くも悪くも場当たり的な対処法が取られる。
+
+罫線機能のキー操作はOASYS/winでも継承された。そのため一般的なWindowsアプリケーション、及びMS-DOS時代からのMicrosoftのアプリケーションでは「Shiftキー　+　矢印キー」でカーソル位置からの「範囲選択」になるのに対し、OASYS/winでは罫線を引くことになった。利用者が勤め先企業でのみで富士通製のPC上で富士通製のアプリケーション（主にOASYS）を使用しているならば問題とならないものの、自宅でもPCを保有しているようなPCマニア（当時としては先進的ユーザー）だと、Windowsならマニュアルを読まなくても使用できるはずの「共通インターフェース」「共通操作」が通用せず、自宅より勤め先の方が作業効率が落ちるという現象が生じた。
+
+同様のことは、OASYSで再使用されている「親指シフトキーボード」でもいえることである。
+
+### 豊富な機能キー
+
+[Microsoft Wordのような](https://ja.wikipedia.org/wiki/Microsoft_Word "wikilink")[スタイルシート](https://ja.wikipedia.org/wiki/スタイルシート "wikilink")ベースの文書の構造化を志向するワープロに対して、日本のワープロ専用機は場当たり的な操作体系を特徴とするのであるが、それゆえ凝った文書を作ると全体の手間数が増える（たとえば見出しの変わり目で[左端設定（インデント）などを設定し直さねばならない](https://ja.wikipedia.org/wiki/字下げ "wikilink")）のを見越したように、豊富な[機能キーで機能を一発で呼び出せるよう配慮がしてある](https://ja.wikipedia.org/wiki/ファンクションキー "wikilink")（ゆえに文書作成中に画面がメニューで埋まってしまうことが無く、文書作成に集中できる効果もある）。あまり頭のよいやり方ではないかもしれないが、OASYSの支持者の多くは、テキストエディタの延長のような愚直な身軽さを好んだのである。
+
+### 0ページ
+
+OASYSでは書式設定をするのに1ページ目で「前頁」キーを押すと現れる「0ページ」と呼ばれる画面を使った。
+
+## 歴史
+
+### ビジネス機シリーズ
+
+OASYSは日本語ワープロとして決して先発ではなかった。OASYS一号機であるOASYS100は、ワープロ販売初期の日本語ワープロである[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")[JW-10](https://ja.wikipedia.org/wiki/JW-10 "wikilink")(1978年9月)に遅れること2年近く、1980年5月に発表された。当時はすでに東芝と[シャープ](https://ja.wikipedia.org/wiki/シャープ "wikilink")が製品を販売しており、発表だけならば他にも数社がしていた。
+
+後発にも関わらず堅実な機能と低価格でビジネス市場でシェア第1位を獲得した。初めて100万円を切る価格を打ち出した [My OASYS](https://ja.wikipedia.org/wiki/My_OASYS "wikilink")（1982年）は[イメージキャラクター](https://ja.wikipedia.org/wiki/イメージキャラクター "wikilink")に[高見山を起用](https://ja.wikipedia.org/wiki/高見山大五郎 "wikilink")。またキャッチコピーは「ザ・文房具」とし、体の大きな高見山関との対比したコンパクトさや親しみやすさが強調された。また日本語ワードプロセッサの[略語](https://ja.wikipedia.org/wiki/略語 "wikilink")として「ワープロ」という言葉を広告の中で用いて、この言葉が一般に定着するきっかけとなった。
+
+OASYS 300A（1988年）は本格的な[DTP](https://ja.wikipedia.org/wiki/DTP "wikilink")ソフトを内蔵した。
+
+#### OASYS 40 シリーズ
+
+わずか二機種しか発売されなかった OASYS 30 直系機。ハードディスク(IDE)搭載モデル。一部を除き FMR と互換性がある。搭載されている CPU は VM technology VM865C110HL-V16 (80286互換) である（そのほか周辺機器制御用に RICOH RU6102MF や AMD N80186 が登載されているロットもある）。液晶パネルに致命的な欠陥を抱えているため（ビネガーシンドロームが発生しやすい）、直射日光を避け、キーボードを開いた状態で暗室かつ風通しの良い低温・低湿環境での保管が推奨される。
+
+OASYS 40AP は OASYS 30AP-101 のビジネスモデルである。ハードディスク容量は 170MB へ増量された。最後のトランスポータブル機（AS はボックス型）であり、最後の TYPE-W 型インクリボン対応機でもある。 MS-DOS は別売り。
+
+OASYS 40AS は 40 シリーズの最終機であり OASYS 40 AP から内蔵プリンターおよび関連ソフトウェア機能(名刺メーカー、文例集の一部、特殊印刷、別売りのPCプリンタサポートなど)を非搭載にして MS-DOS 3.1 と PCサーバ連携をプリインストールした LAN (Netware) 対応モデル（使用には専用 LAN カード OACFC-601 および MARS_NWE などの Netware 互換サーバーが必要）。メインボードと外装、システム以外は 40APと共通部品である。 キートップに MS-DOS (従来機では用紙送りのキーに対応する位置) の標記がありメニューからワンタッチで MS-DOS が起動できる。 SRAM カードに MS-DOS をインストールできるため、復旧用システムデータがあれば OASYS Pocket シリーズの復旧にも使用できる。末期まで販売された OASYS 40AP とは対照的に生産期間は一年と短いためか、中古市場ではほどんど流通してない希少機でもある。
+
+余談ではあるが、説明書がない場合は「拡張機能＋シフト＋文末」を押すことで、使い方ガイド（オンラインヘルプ）を表示でき、 OASYS 40AP ではハードコピー機能を使うことで簡易的な説明書を手に入れることも可能である。
+
+### パーソナル機シリーズ
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Fujitsu_OASYS_Pocket.JPG "wikilink")。\]\] 家庭用ワープロの市場にも積極的に進出した。大胆な機能削減で22万円という当時としては画期的な低価格を実現した[OASYS Lite](https://ja.wikipedia.org/wiki/OASYS_Lite "wikilink")（1984年）のような低価格攻勢で、家庭用市場でもシェア第1位を獲得した。
+
+#### OASYS Liteシリーズ
+
+OASYS Liteは液晶8文字という極端に小さなディスプレイで、他社からは「おもちゃ」「ワードプロセッサ（文書処理機）とは言えない」と評されたが、市場には受け入れられた。富士通が当初称していた「日本語電子タイプライタ」としては OASYS Lite の機能で十分であった言える。実際、打った文字をその都度印字していく「逐次印刷」の設定での動作はまさにタイプライタそのものだった。CM展開は、女優の[秋吉久美子](https://ja.wikipedia.org/wiki/秋吉久美子 "wikilink")が同機を持ってアメリカの砂漠を行くというもので、キャッチコピーは「思わず言葉でカメラしました」。可搬性とパーソナル製、リアルタイム入力機械であることを強調し、当時一部に残っていた「ワープロは清書機械」というイメージを払拭しようとした。
+
+OASYS Lite M2 はOASYS Lite M の後継機である。この機種唯一かつ最大の特徴としてTV出力アダプタ F1160EA2 が使用できることである。このオプションを利用することで編集画面をテレビへ表示できるようになる。当時、ワープロ専用機でもテレビ出力へ対応したものはわずかに存在した。
+
+[OASYS Lite F・ROM7](https://ja.wikipedia.org/wiki/OASYS_Lite_F・ROM7 "wikilink") / F・ROM9（1986年）で機能拡張用にICメモリカード(「[F・ROMカード](https://ja.wikipedia.org/wiki/F・ROMカード "wikilink")=フロムカード」)を採用した。このカードはPCMCIAの規格発行以前のもので、現在の[PCカード](https://ja.wikipedia.org/wiki/PCカード "wikilink")とは形状が異なる（セガマイカード、Huカードと同様の形状）。
+
+[OASYS Lite Quirin](https://ja.wikipedia.org/wiki/OASYS_Lite_Quirin "wikilink") (1987年) は女性用ワープロとして開発された限定三百名にのみの懸賞品として提供された非売品モデル。 OASYS Lite K と基本仕様に類似点がある。親指シフトキーボード単体として見ると、この機種以降ではピンクとブルーの配色を採用したものは存在しない。本機のデザイナーは [François Quirin](https://ja.wikipedia.org/wiki/François_Quirin "wikilink") である。 その希少性ゆえに残存数が非常に少なく、箱・付属品（説明書、専用キャリングケース）完品の状態の良いものはオークションなどで高値で取り引きされる。
+
+#### OASYS 30シリーズ
+
+[OASYS 30AF](https://ja.wikipedia.org/wiki/OASYS_30AF "wikilink")（1986年）は把手が着いて電源コードも掃除機のように本体内に収納できる縦型の「トランスポータブル」デザインで、[ニフティサーブ](https://ja.wikipedia.org/wiki/ニフティサーブ "wikilink")へアクセスする[パソコン通信](https://ja.wikipedia.org/wiki/パソコン通信 "wikilink")機能を装備。「ワープロ通信」と呼んでいた。30AFに始まる30シリーズのワープロ通信機能メニューからは、[MS-DOS](https://ja.wikipedia.org/wiki/MS-DOS "wikilink")プロンプトに降りることが出来た（別途、オプションが必要）。機種により[BIOSに細かい差異があるが](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")、おおよそ[FMR](https://ja.wikipedia.org/wiki/FMR "wikilink")互換であったので、FMR用のソフトがわずかな修正で走った。30シリーズのICカードは Type II のPCカードの初期の規格と互換性があり、市販の[SRAMカード](https://ja.wikipedia.org/wiki/SRAMカード "wikilink")がほぼ使えた。[フラッシュメモリ](https://ja.wikipedia.org/wiki/フラッシュメモリ "wikilink")は使えない。
+
+OASYS 30AFIII (1988年) は OASYS 30AFII の後継機でありAFシリーズの最終機である。後の OASYS のリファレンスモデルの一つともなった。後の機種と比較すると、機能や動作速度は劣る面は多いがキーボードの作りはかなり良いものとなっている (構造は板バネ＋フレキシブル基板)。この機種では OASYS Lite で記録されたカセットテープの文書をフロッピーディスクへメディアコンバートするためのオプションが用意されている。この機種に限らないがシステムに仕様の不具合 (年号の切り替えに非対応、2000年問題非対応) があり皮肉にもシステムの時間は永遠に昭和のままである。この不具合は西暦の下二桁を和暦見なして時刻設定を行い、文書中の年号を手作業で書き換えることである程度は回避可能である。
+
+OASYS 30LG-101 は実験的なモデルであり、操作体系の刷新を図ったが当時は賛否両論であった。この成果は OASYS LX の千番台へ引き継がれる。
+
+OASYS 30AX-CD は 30シリーズ唯一の CD-ROM 標準搭載機（ほかの機種は検索ソフト、接続ケーブル、CD-ROMドライブは別売り品）であり、EPWING 形式 CD-ROM 辞典としてワードハンターが標準添付されている。また、この機種にしか搭載されなかった機能としては、本格的なグラフィックスを使用したビジュアルメニューがある（作業内容を Working Time / Personal Time / Creative Time / Setup Time の四大別したアイコンで表示し、選択後にリストメニューで行いたい作業を選ぶ）。
+
+30AXIIやAX-CD(CD-ROMドライブ搭載)ではDTP機能がオプションで用意された (AX-301 / SX-301 は標準搭載)。
+
+
+後継の30AX301・401(CRTモデルの30SX301・401やラップトップモデルの30LX651を含む)ではDTP機能が標準搭載された。ただし、その後の機種には搭載されなかった。
+
+30AP101(1994年5月発表)では、記憶媒体としてハードディスクが初搭載(パーソナル向けモデルとして)された\[1\]。
+
+#### OASYS Pocketシリーズ
+
+[PDAとしての機能を持ったポケットサイズワープロ](https://ja.wikipedia.org/wiki/携帯情報端末 "wikilink")\[2\]である。
+
+1991年に初代の[OASYSポケットが商品化された](https://ja.wikipedia.org/wiki/オアシスポケット "wikilink")。印刷機能はオプション(印刷カード別売り)であった。
+シリーズ第二弾の[OASYS Pocket 2で印刷機能が標準内蔵され](https://ja.wikipedia.org/wiki/オアシスポケット "wikilink")、シリーズ第三弾の[OASYS Pocket 3](https://ja.wikipedia.org/wiki/オアシスポケット "wikilink")（1994年）でMS-DOSモードが内蔵された。
+
+なお、OASYS Pocket 3 の解像度は公開されていないが、実際のところ HP200LX と同じく 640×200 (モノクロCGA相当) である。
+
+#### DOS/Vパソコンの顔をもつOASYS
+
+OASYS 35DX-101（1993年）は[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")が正式サポートされた。
+[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")としてハードウェアのコストを削減し、また OASYS 48V の一部機種で[Windows 3.1を採用するなど](https://ja.wikipedia.org/wiki/Microsoft_Windows_3.x "wikilink")、PCとの融合路線をアピールした。
+
+OASYS Vシリーズ\[3\](1994年)では、30AXシリーズのような外観のモデルの他、 [FMV](https://ja.wikipedia.org/wiki/FMV "wikilink")と共通の筐体を持つモデルも登場し、ハードウェアの差異は、キーボードと[ハードディスクの領域の一部をOASYS区画としている程度であった](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")。
+
+#### LXシリーズ
+
+1989年3月にOASYS30シリーズのラップトップモデルとして、OASYS 30LX\[4\]が登場し、その後、LXシリーズは普及機の主力シリーズに成長した。
+
+LX-2100/3100/3100C（1995年）で液晶画面が[VGA相当の縦](https://ja.wikipedia.org/wiki/Video_Graphics_Array "wikilink")480ドットに拡大。
+3100Cでは[DSTNカラー液晶も搭載され](https://ja.wikipedia.org/wiki/STN液晶 "wikilink")、[タッチパネル](https://ja.wikipedia.org/wiki/タッチパネル "wikilink")の[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")搭載と相まって、ワープロ専用機の枠をはみ出して行くことになる。
+LX-4500NT（1996年）で「ゆびタッチ」操作の[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")を搭載。「タッチインターネット」と称していた。
+しかし、当時の普及価格帯ワープロ専用機では快適なWebブラウズは難しく、販売も振るわなかった。
+
+LX-S5000 (1999年) は LX-9500SD の後継機である。ゆびタッチ対応最終機。スーパーディスクが廃止され、コードレスカラースキャナ搭載、システム全般の動作速度向上などが行われた。なお、システム・版数アップディスクを紛失していても、補助メニューから作成可能となった(2HDフロッピーディスクが一枚必要)。
+
+基本的に LX-6000 以降に搭載されている CPU は AMD Am486 DE2 (DX2からライトバックキャッシュを削除したもの)である。
+
+LX シリーズの末期モデルでは順次入力 (シフトロック) が廃止されているため、怪我などで片手で打たざるを得ない利用者の機種移行には注意が必要である。
+
+### ワープロ専用機の終焉
+
+このように業務用・家庭用の両分野でシェア第1位を獲得したOASYSも、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")が高性能化するに従い[ワープロソフト](https://ja.wikipedia.org/wiki/ワープロソフト "wikilink")というやや異なる分野の競争相手との戦いで劣勢に立たされ、次第に販売量を落としていき、[2001年](../Page/2001年.md "wikilink")2月には、ワープロ専用機の生産中止を発表した。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月には、印刷用リボンカセットの販売も終了している\[5\]。
+
+### ワープロソフトのOASYS
+
+OASYSシリーズの操作性をできるかぎり忠実に再現したワープロソフトとして販売されている。富士通製[パソコン](../Page/パーソナルコンピュータ.md "wikilink")[FMRシリーズ](https://ja.wikipedia.org/wiki/FMRシリーズ "wikilink")や[FM TOWNSシリーズで動作する](../Page/FM_TOWNS.md "wikilink")[ワープロソフト](https://ja.wikipedia.org/wiki/ワープロソフト "wikilink")「[FM-OASYS](https://ja.wikipedia.org/wiki/FM-OASYS "wikilink")」として商品化され、現在の[WindowsをプラットフォームとするワープロソフトOASYSにつながっている](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+
+#### FM-OASYS
+
+[PC-9800シリーズ](https://ja.wikipedia.org/wiki/PC-9800シリーズ "wikilink")の独走を止めるべく投入した[FM-16β](https://ja.wikipedia.org/wiki/FM-16β "wikilink")が商業的に失敗し、再起を図った[FMRシリーズ](https://ja.wikipedia.org/wiki/FMRシリーズ "wikilink")の全機種共通の柱の1つとして、ワープロ専用機市場におけるOASYSの優位が活用された。[MS-DOS](https://ja.wikipedia.org/wiki/MS-DOS "wikilink")の[FEP](https://ja.wikipedia.org/wiki/FEP "wikilink")に[OAK（オアシスかな漢字変換）が標準装備され](https://ja.wikipedia.org/wiki/Japanist "wikilink")、キーボード配列もOASYSと親和性を持たせてあり、そしてワープロソフトFM-OASYSが用意された。
+
+多くの機種でフロッピー版とハードディスク版があった。高機能化により、フロッピー版は容量の制限から印刷などの作業のたびにフロッピーを交換せねばならず大変不便であった。FMRノートのようにROMカードで提供される機種もあった。ちなみに、FMRノートは、フロッピーディスク版の利用もできた（ハードディスクにインストールして利用）。FM TOWNS版は[TownsOS](https://ja.wikipedia.org/wiki/TownsOS "wikilink")ではなくFMR-50互換の16色モードで動作し、FM TOWNSに内蔵された辞書ROMを活用するが、MS-DOS上のOAKよりユーザー辞書が強化されていた。
+
+ファイル形式もMS-DOSと異なる独自のものであり、半角8文字までというMS-DOSの制限にとらわれず、OASYS専用機と同様、日本語で長い文書名を付けることができた（文書名を付けないと自動的に1行目が文書名になる）。反面、ハードディスク上にMS-DOSからアクセスできない独自の区画を設定する必要があった。
+
+#### OASYS for Windows
+
+Windows版OASYSの歴史は[FMV](https://ja.wikipedia.org/wiki/FMV "wikilink")よりも古い。家庭市場を狙ったFMVデスクパワーの登場により、OASYS/Winプレインストールモデルが用意された。
+FMVの[デスクトップ機は台湾メーカー製のマザーボードを採用した機種が多いが](https://ja.wikipedia.org/wiki/デスクトップパソコン "wikilink")、OASYS専用機のフロッピーを読み書きするために、[FDDの](https://ja.wikipedia.org/wiki/フロッピーディスク "wikilink")[コネクタ](https://ja.wikipedia.org/wiki/コネクタ "wikilink")と[ケーブル](https://ja.wikipedia.org/wiki/ケーブル "wikilink")を制御線が1本多い独自仕様とし互換性を確保していた。
+富士通以外でもOASYS専用機のフロッピーが読める機種が一部確認されている。
+
+また、富士通製（動作保証はFMVのみ）またはロジテック製の一部のUSBフロッピードライブにOASYS付属のドライバを組み込むことによっても、OASYS専用機フロッピーを読み書きすることができる。
+また、Vista以降のWindows上では内蔵ドライブを使ったOASYS専用機フロッピーの読み書きをサポートしないため、こちらの方法を使う必要がある。しかし、2社ともUSBフロッピードライブの生産を終了しており、入手は困難である。
+OASYS付属ドライバの供給元である[アンテナハウス](https://ja.wikipedia.org/wiki/アンテナハウス "wikilink")製「[リッチテキスト・コンバータ](https://ja.wikipedia.org/wiki/リッチテキスト・コンバータ "wikilink")」を別途購入すれば、2社以外のドライブでの読み込みも可能になる。アンテナハウス社の動作確認FDDの一覧には、オウルテックやアイ・オー・データ、イメーション製のドライブがいくつか掲載されている(但し2016年2月現在、大半は販売終了品である)。
+但しWindows10では、ワープロ専用機のディスクの読み書きについて動作保証外であるとのアナウンスがなされている\[6\]。
+
+アイコンやパッケージには、万年筆のペン先がデザインされている。
+
+[罫線機能](https://ja.wikipedia.org/wiki/罫線機能 "wikilink")の項でも述べたように、OASYS/winでは一般的なWindowsのキー操作である「Shift + 矢印」が「範囲選択」ではなく「罫線作成」になっている。
+
+##### 主なバージョン
+
+[Windows 3.0/3.1はMS](https://ja.wikipedia.org/wiki/Microsoft_Windows_3.x "wikilink")-DOSと同様にファイル名の長さに制限があるが、OASYS/WinおよびOASYS for Windowsは、DOS上のファイル名は6桁の文字列を生成し、OASYSの文書選択画面で日本語の文書名を見せることで、専用機同様の使い心地を実現していた。
+ワープロソフトと同時に「富士通フォントシステム」もインストールされ、[WIFEフォント形式の](https://ja.wikipedia.org/wiki/フォント "wikilink")[モトヤ](https://ja.wikipedia.org/wiki/モトヤ "wikilink")製フォントが多種使えた。
+
+OASYS for Windows 95 V4.0以降で[Windows 95に](https://ja.wikipedia.org/wiki/Microsoft_Windows_95 "wikilink")、4.1以降で[Windows NTに対応した](https://ja.wikipedia.org/wiki/Microsoft_Windows_NT "wikilink")。
+Windows 95と[Word 95を同日発売した](https://ja.wikipedia.org/wiki/Microsoft_Word "wikilink")[マイクロソフト](https://ja.wikipedia.org/wiki/マイクロソフト "wikilink")に対して、[ジャストシステム](https://ja.wikipedia.org/wiki/ジャストシステム "wikilink")（[一太郎](https://ja.wikipedia.org/wiki/一太郎 "wikilink")7）と[ロータス](https://ja.wikipedia.org/wiki/ロータス_\(ソフトウェア\) "wikilink")（ワードプロ）は32ビット化と同時にソフトを全面的に再設計したため、開発スケジュールに無理があり[バグ](https://ja.wikipedia.org/wiki/バグ "wikilink")が十分取れずに出荷しシェアを失ったのに対して、OASYS for Windows V4.0は、同V3.0の事実上の32ビット版という手堅いバージョンアップであったのが幸いして、大きな苦情は聞かれなかった。
+
+OASYS V5（1998年）は、FMV-DESKPOWER DCに搭載の「新OASYS」（Windows95上で動作した）とOASYS for Windows95を統合したソフトとして発表された。
+専用機のカルク（表計算）などの資産が活用できる**OASYS Office** V5も用意され、非常に大規模なソフトウェアとなった。
+また、ワープロ専用機の縮小にともない開発部隊を統合し、以後のバージョンアップを行うことになる。
+
+OASYS V6（1999年）では、OASYS Officeに代わり、OASYSと[ロータス・スーパーオフィス](https://ja.wikipedia.org/wiki/ロータス・スーパーオフィス "wikilink")（[IBM](https://ja.wikipedia.org/wiki/IBM "wikilink") [ロータス](https://ja.wikipedia.org/wiki/ロータス_\(ソフトウェア\) "wikilink")）のカスタマイズ版を搭載した（ワードプロを除く）、**OASYS SuperOffice**が販売されるようになった。
+これにはOASYS 1-2-3、OASYSアプローチ、OASYSオーガナイザーが含まれる。後のバージョンで若干構成が変更され、OASYS プレゼンテーションが追加されたり、ロータスオーガナイザーがそのまま搭載されたりしている。
+
+OASYS 2002 (V9相当、2001年) で[Windows XPに対応した](https://ja.wikipedia.org/wiki/Microsoft_Windows_XP "wikilink")。
+
+OASYS V10（2006年）では[Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")(32bit)に対応した。
+さらに発売後のアップデートで
+
+  - [Windows 7](https://ja.wikipedia.org/wiki/Microsoft_Windows_7 "wikilink")(当初は32bitのみ。その後64bitにも対応した)
+  - [Windows 8/8.1](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")
+  - [Windows 10](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink")(2015年10月30日のアップデートrel.07F以降の適用で対応)
+
+にも対応する。
+ただし、ロータス・スーパーオフィスの開発が打ち切られており、Vista以降のWindowsに対応したバージョンが存在しないため、OASYS SuperOfficeに含まれるソフトウェアのうち、OASYS、[Japanist](https://ja.wikipedia.org/wiki/Japanist "wikilink")以外はVista以降のWindowsに対応しない。
+このためSuperOffice版のユーザーは、Vista以降のWindowsにインストールする際に非対応ソフトウェアを外すため、特殊な手順をふむ必要がある\[7\]。
+また、V10ではOASYSから「英文法チェック機能」および「英文スペルチェック機能」がライセンス期間満了のため削除され、OASYSプレゼンテーションから[Microsoft PowerPointのデータ変換機能が削除されている](https://ja.wikipedia.org/wiki/Microsoft_PowerPoint "wikilink")。
+
+##### 携帯OASYS
+
+V8以降のOASYSに付属するCD-ROM。インストールしなくてもOASYSの基本機能を実行することができる。OAKやJapanistは含まれない。ディスクメディアであるため修正パッチの適用が不可能で、後発のOSに対応することができない。
+
+V8の対応OSは、Windows 95、98、Me、NT4.0、2000。2002ではWindows XPが追加される。
+
+V10では対応OSが大幅に変更され、Windows 2000、XP、Server 2003のみとなった。なお、出荷時期によってはレーベル面にVistaの文字が追加されているものがあり、この版であればVista、さらに7\[8\]でも使用できる。
+
+##### OASYS Viewer
+
+ハードディスク内のOASYS文書を検索、表示、印刷できる無償のソフトウェア。表示に必要なフォントも付属している。編集はできず、サポートもない。 対応ドライブが必要だが、OASYS専用機のフロッピーを読み込み、文書の表示、印刷、変換ができる「OASYSフロッピィビューア」も付属する。
+
+最新版はV8。特にファイルフォーマットに変更がないため、2002やV10のファイルでも読み込める。ただし、無償配布されているものはWindows XPまでのOSにしか対応していない\[9\]。
+
+### OASYSの主な歴史
+
+#### 通常版
+
+  - 1980年5月 - OASYS100を発売。単語変換、最新使用語優先学習方式を採用\[10\]。FDD2基、親指シフトキーボードを搭載。270万円。
+  - 1982年11月 - OASYS100Gを発売。画面サイズが拡大。
+  - 1984年5月 - OASYS100G2を発売。ハードディスク搭載、単語変換に加えて文節変換機能を搭載。
+  - 1986年11月 - OASYS100GXを発売。
+  - 1987年6月 - OASYS100GX-CDを発売。CD-ROMが使用可能、複文節変換機能を追加。
+
+#### 廉価版
+
+  - 1981年8月 - OASYS100Jを発売。小型軽量化、低価格化（159万円）を実現。
+  - 1983年11月 - OASYS100Fを発売。単語変換に加えて文節変換機能を搭載。
+  - 1985年10月 - OASYS100F2を発売。
+  - 1987年6月 - OASYS100FXを発売。複文節変換機能を追加。
+
+#### ポータブル版
+
+  - 1982年5月 - My OASYSを発売。小型軽量化、低価格化（75万円）を実現。
+  - 1983年4月 - My OASYS 2を発売。低価格化（48万円）を実現。
+  - 1984年7月 - My OASYS 2sを発売。低価格化を実現。
+  - 1986年11月 - OASYS30AFを発売。小型軽量化、低価格化（24万8千円）を実現。液晶大画面を搭載。単語変換に加えて文節変換機能を搭載。
+  - 1987年6月 - OASYS30AF2を発売。複文節変換機能を追加。
+
+#### ラップトップ版
+
+  - 1984年5月 - OASYS Liteを発売。小型軽量化、低価格化（22万円）を実現。
+  - 1985年7月 - OASYS Lite Sを発売。50音入力用キーボードカバー、単語変換に加えて文節変換機能を搭載。低価格化（8万2千円）を実現。
+  - 1985年9月 - OASYS Lite Fを発売。画面サイズ（40字×5行）。キーボード部とプリンタ部を分離できた。
+  - 1985年11月 - OASYS Lite Kを発売。画面サイズ（20字×2行）
+  - 1986年4月 - OASYS Lite F2を発売。
+  - 1986年11月 - OASYS Lite F-ROM7を発売。FROMカードをサポート。
+  - 1987年10月 - OASYS Lite F-ROM10を発売。画面サイズ、JISキーボードを追加。
+
+#### OASYSパソコン（OASYS Vシリーズ）
+
+  - 1996年8月30日 - OASYS V-5166D6/5133D6を発売\[11\]。
+
+#### OASYS for Windows
+
+  - 1996年1月 - OASYS for Windows V3.0を発売\[12\]。
+  - 1996年5月24日 - OASYS for Windows V3.0Aを発売\[13\]。
+  - 1996年7月下旬 - OASYS for Windows95 V4.0（OASYS95 V4.0）を発売\[14\]。
+  - 1997年2月14日 - OASYS for Windows95 V4.1（OASYS95 V4.1）を発売\[15\]。
+  - 1998年1月23日 - OASYS V5、OASYS Office V5を発売\[16\]。
+  - 1998年9月18日 - OASYS V6、OASYS SuperOffice V6を発売\[17\]。
+  - 1999年11月19日 - OASYS V7、OASYS SuperOffice V7を発売\[18\]。
+  - 2000年11月10日 - OASYS V8、OASYS SuperOffice V8を発売\[19\]。日本語入力ソフトOAKが付属する最後のバージョン。
+  - 2001年12月7日 - OASYS 2002、OASYS SuperOffice 2002（V9相当）を発売\[20\]。日本語入力ソフトがOAK由来のJapanistへ変更。
+  - 2006年12月4日 - OASYS V10を発売。
+  - 2007年3月16日 - OASYS SuperOffice V10を発売。
+  - 2007年11月23日 - OASYS V10がアップデートによりWindows Vistaへ対応。
+  - 2009年12月11日 - OASYS V10がアップデートによりWindows 7（32ビット版）へ対応。
+  - 2012年3月30日 - OASYS V10がアップデートによりWindows 7（64ビット版）へ対応。
+  - 2015年10月30日 - OASYS V10がアップデートによりWindows 10に対応。
+
+## その他
+
+  - 「[々](https://ja.wikipedia.org/wiki/々 "wikilink")」を[MS-IME](https://ja.wikipedia.org/wiki/MS-IME "wikilink")などでは「おなじ」にて変換するがOASYSでは「のま」と入力すると変換できたことは有名である。 ちなみに[wnn](https://ja.wikipedia.org/wiki/wnn "wikilink")でも「のま」で「々」と変換可能。
+  - OASYSの命名は公募によるもので、応募者は「OFFICE AUTOMATION SYSTEM」の[頭字語](https://ja.wikipedia.org/wiki/頭字語 "wikilink")であるとしている。ちなみに、砂漠にあるオアシスのつづりは[OASIS](https://ja.wikipedia.org/wiki/OASIS "wikilink")。他の候補には「キーポン」「JET富士」「Sum」などがあったという。
+  - 富士通のPCである[FMV](https://ja.wikipedia.org/wiki/FMV "wikilink")は、初期のころには[プリインストール](https://ja.wikipedia.org/wiki/プリインストール "wikilink")のワープロソフトとしてOASYSを選ぶことも出来た。しかし、[1999年](https://ja.wikipedia.org/wiki/1999年 "wikilink")頃からOASYSを選ぶことが出来ないモデルが増え始め、現在ではOASYSをプリインストールしたPCはない。
+
+## 新元号への対応策
+
+すでにサポートは終了しているため、システムディスクの修正版は存在しておらず、新元号には対応していない。そのため、「にちじ」と入力し「漢字辞書」キーを押しただけでは平成のままとなってしまう。
+
+新元号に対応するには「令和」と変換したあとに「単語登録」キーを押して「令和」を登録範囲指定し、読みを「れいわ」、品詞を「名詞」として単語登録することで「令和元年」を正常に変換できるようになる。
+
+公式サイトによれば2019年5月31日のOASYS V10 のアップデート公開で新元号に対応した。
+
+## 出典
+
+  - [OASYS and CAMELLIA homepage](http://www.ykanda.jp/)
+  - [カタログ](http://www.ykanda.jp/catalog/catalog.htm)
+  - [FOAUによるリスト](http://www.ykanda.jp/txt/oalist.txt)
+  - OASYS 40AP/40AP オアシスガイド
+
+## 脚注
+
+<references />
+
+## 外部リンク
+
+  - [公式サイト](http://software.fujitsu.com/jp/oasys/)
+  - [OASYS WORLD(富士通)](http://www.fmworld.net/oasysworld/)
+  - [OASYS Viewer V8](http://software.fujitsu.com/jp/oasys/download/oasviewer/)
+  - [おあしすぼらぼら](http://kusup.la.coocan.jp/oasbora.htm)
+
+[Category:ワードプロセッサ](https://ja.wikipedia.org/wiki/Category:ワードプロセッサ "wikilink") [Category:文書作成ソフト](https://ja.wikipedia.org/wiki/Category:文書作成ソフト "wikilink") [Category:富士通の製品](https://ja.wikipedia.org/wiki/Category:富士通の製品 "wikilink")
+
+1.  [OASYS 30AP-101 -コンピュータ博物館](http://museum.ipsj.or.jp/computer/word/0081.html)
+2.  [OASYS Pocket -コンピュータ博物館](http://museum.ipsj.or.jp/computer/word/0080.html)
+3.  [OASYS Vシリーズ -コンピュータ博物館](http://museum.ipsj.or.jp/computer/word/0084.html)
+4.  [OASYS 30LX -コンピュータ博物館](http://museum.ipsj.or.jp/computer/word/0010.html)
+5.  [ワープロ専用機OASYS用リボンカセットの販売終了について](http://www.fmworld.net/oasysworld/new/expendables_end.html) - 富士通、2008年6月2日
+6.  [リッチテキスト・コンバータ20 Windows10対応について](http://www.antenna.co.jp/rtc/rtc20win10.html)
+7.  [OASYS SuperOffice V10 インストール方法](http://software.fujitsu.com/jp/oasys/lineup/office_install.html) - 富士通
+8.  7の文字は記載されていない版もあるので、Vistaの文字列の有無で判断する必要がある。
+9.  2002やV10のパッケージ版に付属するビューアは除く。
+10. 『昭和55年 写真生活』（2017年、ダイアプレス）p109
+11. [新 OASYSパソコン「OASYS V-5166D6/5133D6」発売](http://pr.fujitsu.com/jp/news/1996/Aug/1-3.html) - 富士通、1996年8月1日
+12. [Windows95 完全対応\! 32ビット版ワープロソフト「OASYS95 」新発売](http://pr.fujitsu.com/jp/news/1996/May/22.html) - 富士通、1996年5月22日
+13.
+14.
+15. [WindowsNT4.0に対応した日本語ワープロソフト「OASYS95 V4.1」新発売](http://pr.fujitsu.com/jp/news/1997/Jan/14.html) - 富士通、1997年1月14日
+16. [Windows用ワープロソフト「OASYS V5」新発売](http://pr.fujitsu.com/jp/news/1997/Nov/12.html) - 富士通、1997年11月12日
+17. [富士通とロータスの連携ソフトウェア製品 新発売](http://pr.fujitsu.com/jp/news/1998/Aug/20.html) - 富士通、1998年8月20日
+18. [Windows用ワープロソフト「OASYS V7」新発売](http://pr.fujitsu.com/jp/news/1999/Oct/12.html) - 富士通、1999年10月12日
+19. [Windows用ワープロソフトウェア「OASYS V8.0」新発売](http://pr.fujitsu.com/jp/news/2000/09/25-1.html) - 富士通、2000年9月25日
+20. [ワープロソフト「OASYS 2002」と日本語入力ソフト「Japanist 2002」を販売](http://pr.fujitsu.com/jp/news/2001/11/6-1.html) - 富士通、2001年11月6日

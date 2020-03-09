@@ -1,0 +1,304 @@
+> この記事は[Information Technology Infrastructure Library](https://ja.wikipedia.org/wiki/Information_Technology_Infrastructure_Library)から翻訳されています。
+
+
+（ITIL）とは、[ITサービスマネジメント](https://ja.wikipedia.org/wiki/ITサービスマネジメント "wikilink")における[ベストプラクティス](https://ja.wikipedia.org/wiki/ベストプラクティス "wikilink")（成功事例）をまとめた書籍群。[1989年](../Page/1989年.md "wikilink")にイギリス政府のCCTA\[1\]によって公表された。ITILの読み方は「**アイティル**」、「**アイティーアイエル**」などがある。ITサービス全体において[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")となりつつあり、重要な位置付けとなっている\[2\]\[3\]。
+
+現在のITILの最新バージョンはITIL 2011である。
+
+## 概要
+
+ITILはITサービスマネジメントを実現するため、ITサービスの品質向上、中長期的なコストの削減などを目的として実在する[企業](../Page/企業.md "wikilink")、サプライヤ\[4\]、[コンサルタントなどからITサービスに関する実際の運営方式や](https://ja.wikipedia.org/wiki/コンサルティング "wikilink")[ノウハウを収集し](https://ja.wikipedia.org/wiki/手続き的知識 "wikilink")、書籍化したもの。
+
+欧米社会においてITILは既にITサービスマネジメントの業界標準として広く認知されており、社会的な地位を確立している\[5\]。ITILはITサービスマネジメントの[英国規格](https://ja.wikipedia.org/wiki/英国規格 "wikilink")であるBS 15000のベースとなっており\[6\]、現在BS 15000は[国際規格である](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")[ISO/IEC 20000に移行され](https://ja.wikipedia.org/wiki/ISO/IEC_20000 "wikilink")、事実上の国際標準となっている。
+
+また、ITILでは「**3つのP**」という概念について説明がなされている。これは （過程）、（人）、（成果物） の3つを指し、プロセスだけが充実していても、担当者のスキルのみに頼る事も、どんなに高価で便利な[ツール](https://ja.wikipedia.org/wiki/ツール "wikilink")を使用しようとも、それぞれがバランス良く配置されなければ効果は得られないと警鐘している。ITILを解説する書籍によっては、さらに （協力会社） を加え、「**4つのP**」と表現しているものもある。これはITILバージョン3で大きな要素として盛り込まれた[アウトソーシング](../Page/アウトソーシング.md "wikilink")が意識されている。
+
+## ITIL成立の背景
+
+1980年代のイギリス政府において、ガイドラインを基にしたITサービスの利用と提供が求められるようになり、ITサービスの方法論を整理する活動が行われ調査・研究の結果、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に現在のITILの基礎となるガイドラインが出来上がり、その後[1989年](../Page/1989年.md "wikilink")にCCTAによって初版が公開された。現時点において、ITILを所有しているのはOGCであり、TSO\[7\]が出版を行っている。2007年時点ではバージョン2が主流となっているが、[itSMF](https://ja.wikipedia.org/wiki/IT_Service_Management_Forum "wikilink")（後述）によってバージョン3が[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")6月に新しくリリースされた\[8\]。
+
+バージョン2では社内情報システムに関するベストプラクティスが中心となって記述がなされており、バージョン3ではさらに[アウトソーシング](../Page/アウトソーシング.md "wikilink")も意識した内容が新たに盛り込まれている。
+
+## ITIL普及のための活動
+
+ITILの導入・促進のための団体としては[itSMF](http://www.itsmf.com/)\[9\]が各国に存在し、日本でも2003年に日本HP、富士通、マイクロソフト、NTTコム、日立製作所、NEC、P\&G、プロシードなど8社の[情報通信技術](https://ja.wikipedia.org/wiki/情報通信技術 "wikilink")企業により、[NPO](../Page/NPO.md "wikilink")法人として [](http://www.itsmf-japan.org/) が設立されており、書籍の翻訳やセミナーを通じてITILの普及活動が行われている。
+
+## ITIL V2
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:ITIL.PNG "wikilink") ITILバージョン2としての改版作業は2000年から2001年にかけて実施され\[10\]、2007年、ITIL V3が登場した現在もITサービスの現場においては主流となっており、一般的にITILと呼称する場合はITIL V2の「サービスサポート」および「サービスデリバリ」の書籍を指す\[11\]。
+
+### ITIL V2を構成する書籍群
+
+具体的には以下の7つの書籍群から成り立っている\[12\]。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No</p></th>
+<th><p>書籍名</p></th>
+<th><p>概要</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サービスサポート" title="wikilink">サービスサポート</a><br />
+（）</p></td>
+<td><p>通称「<strong>青本</strong>」と呼ばれ[13]、IT利用者が適切に利用できるようサポートするためのマネジメントについて説明している。</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サービスデリバリ" title="wikilink">サービスデリバリ</a><br />
+（）</p></td>
+<td><p>通称「<strong>赤本</strong>」と呼ばれ[14]、ITをビジネスで利用している利用者のサービス要求に関するマネジメントについて説明している。</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>サービスマネジメント導入計画立案<br />
+（）</p></td>
+<td><p>通称「<strong>緑本</strong>」と呼ばれ[15]、目標設定から導入後の初期診断と継続的な改善を組み込むための方法論を解説している。</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>ビジネスの観点<br />
+（）</p></td>
+<td><p>ビジネス環境における課題、事業継続性管理、パートナーシップ、<a href="../Page/アウトソーシング.md" title="wikilink">アウトソーシング</a>、変化への柔軟な対応などについて書かれている。</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>アプリケーション管理<br />
+（）</p></td>
+<td><p><a href="../Page/アプリケーションソフトウェア.md" title="wikilink">アプリケーションの実装から廃棄までの</a><a href="https://ja.wikipedia.org/wiki/ライフサイクル" title="wikilink">ライフサイクル</a>に関連する課題について書かれている。</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>ICTインフラストラクチャー管理<br />
+（）</p></td>
+<td><p>情報通信インフラの管理について技術的側面から説明している。</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>セキュリティ管理<br />
+（）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/情報セキュリティ" title="wikilink">セキュリティへのインパクトに関する評価やデータの安全性</a>・機密性を確実にするための課題について説明している。</p></td>
+</tr>
+</tbody>
+</table>
+
+### ITIL V2の特徴
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:ITIL_Process.PNG "wikilink") ITIL V2の大きな特徴として「**プロセスアプローチ**」と「**ベストプラクティス**」が挙げられる。プロセスアプローチは、業務を[プロセス](../Page/プロセス.md "wikilink")という単位にわけ、横断的に管理し、プロセスごとの役割と責任を明確に示している。元来業務単位、サービス単位で実施されていた作業をプロセス単位で横断的に管理する事で組織の活動に対して均一化をはかることを提唱している。もうひとつはベストプラクティスであること、つまり既に実在の企業に適用され、効果のあった事例について紹介がなされている。企業がITILを選択する上で大きな判断材料となる。
+
+### ITIL V2の内容
+
+#### ITサービスマネジメント
+
+ITILの中心となる書籍として、[サービスサポート](https://ja.wikipedia.org/wiki/サービスサポート "wikilink")と[サービスデリバリ](https://ja.wikipedia.org/wiki/サービスデリバリ "wikilink")がある。これらは10のプロセスと1の機能から構成され、それぞれのプロセスの役割と責任範囲を明確化がなされている。ここではそれらの概要のみを説明するものとし、詳細については各項の記事を参照されたい。
+
+  - サービスサポート
+    サービスサポートは5つのプロセスと1つの機能から構成される。「インシデント管理」「問題管理」「構成管理」「変更管理」「リリース管理」の5つのプロセスと「サービスデスク」の1つの機能である。主に日々のITサービス運用についての具体的手法と着眼点について説明がなされている。
+    *詳細は[サービスサポート](https://ja.wikipedia.org/wiki/サービスサポート "wikilink")の項を参照。*
+  - サービスデリバリ
+    サービスデリバリは5つのプロセスから構成される。「サービスレベル管理」「ITサービス財務管理」「可用性管理」「ITサービス継続性管理」「キャパシティ管理」の5つのプロセスである。主に中長期的な観点に立ったITサービスの計画立案と改善手法について説明がなされている。
+    *詳細は[サービスデリバリ](https://ja.wikipedia.org/wiki/サービスデリバリ "wikilink")の項を参照。*
+
+#### サービスマネジメント導入計画立案
+
+サービスマネジメント導入計画立案は[ビジネスニーズからくるITサービスの導入に際し](https://ja.wikipedia.org/wiki/ニーズ "wikilink")、何がなされるかを見極め、その実施計画を立てることを目的としてどのような手法で計画および導入を実施すべきかを説明している。サービスマネジメント導入計画立案ではその導入から実施までを以下のプロセスに分けて実行する事が求められている。
+
+  - ビジョン（ビジネス目標）の設定
+    ITサービスマネジメントにおけるビジョンとは[ビジネス](../Page/ビジネス.md "wikilink")と[ITの間でどうありたいかをITサービス提供者と顧客で互いに合意がなされたステートメントを指す](../Page/情報技術.md "wikilink")。ビジョンにはCSIP\[16\]における目的と意図が記述され、その策定にあたっては担当する部門間、担当者間で綿密な調整がなされている必要がある。
+  - 現状の把握
+    ビジョンを実現するにあたり、複数の観点からIT組織の現状を理解・評価し、コストや規模などを見積もる必要がある。ITILでは「方向性」「運営」「[プロセス](../Page/プロセス.md "wikilink")」「[人](../Page/人.md "wikilink")」「[技術](../Page/技術.md "wikilink")」「[カルチャー](https://ja.wikipedia.org/wiki/カルチャー "wikilink")\[17\]」の6つの観点から現状を把握する事を求めている。
+  - 計測可能なターゲットの設定
+    CSIPのビジネスケースは「今どこにいるのか」「次にどうなりたいのか」をベースに構築されており、それを継続的に繰り返すことで高い効果を得る事を目標としている。[クライアントの説得や](https://ja.wikipedia.org/wiki/顧客 "wikilink")、担当要員の[モチベーション](https://ja.wikipedia.org/wiki/モチベーション "wikilink")の維持など、様々な観点から現時点から直接到達可能な目標（**クイックウィン**）を設定する必要がある。
+  - 目標達成の方法
+    ITILでは「人は一般的に変化を求めたがらない」と定義した上で、その殻を打破する事を掲げている。打破すべきものとして「カルチャー」を挙げ、管理すべき重要な観点として説明がなされている。
+  - 効果の測定と評価
+    プロセスのパフォーマンスを評価するために設定された目標に対し、どの程度達成したかを目に見える形で数値化する必要がある。その評価の重要な指標としてCSF\[18\]と[KPI](https://ja.wikipedia.org/wiki/KPI "wikilink")\[19\]及び[CSS](https://ja.wikipedia.org/wiki/顧客満足 "wikilink")（顧客満足度調査）が挙げられている。
+  - 推進力の維持
+    CSIPの中で最も困難なものとして改善された推進力の維持を挙げている。ITの変更を継続して行うとその維持はますます多様化・複雑化していく。そのような中で推進力と競争力を維持していくためにどのようにITILを有効利用するかについて説明がなされている。
+
+#### ビジネスの観点
+
+ビジネスの観点では「ビジネスとITサービスの連携」というテーマを取り扱い、大きくサービス提供者側の観点から解説がなされたPart1、サービス利用者側の観点から解説がなされたPart2の2冊で構成されている。
+
+  - サービス提供者側からの観点
+    ビジネスニーズに沿った高品質なサービスを提供するために必要な管理フレームワークとしてITサービス運営グループ(ISG)という調整機関の確立を提唱している。ISGではビジネスにおける戦略や戦術から産まれた達成目標と実際の成果物について整合性を図る管理機能を司り、ITに関する総所有コスト([TCO](https://ja.wikipedia.org/wiki/TCO "wikilink"))、投資利益率、計画立案などあらゆるサービス改善活動に対して明確な方向性を示すことが求められる。サービス提供者側の観点では、ITサービスを提供し、運用する立場の人や企業に対しての課題点やISGを通して[サービスサポート](https://ja.wikipedia.org/wiki/サービスサポート "wikilink")や[サービスデリバリ](https://ja.wikipedia.org/wiki/サービスデリバリ "wikilink")の随所に挙げられているビジネスの視点に関するポイントについて説明がなされている。
+  - サービス利用者側からの観点
+    ITILではITを企業戦略の一部と認識し、その位置付けや重要性を経営者陣に理解させる必要があると明言しており、[CIOなどの上級職を提供サービスにITを使用するかどうかの意思決定プロセスの段階で参画させるべきであると謳っている](https://ja.wikipedia.org/wiki/最高情報責任者 "wikilink")。また、[ITガバナンス](https://ja.wikipedia.org/wiki/ITガバナンス "wikilink")の考え方について解説がなされており、代表的なITガバナンスとして[COBIT](https://ja.wikipedia.org/wiki/COBIT "wikilink")などが紹介されている\[20\]。サービス利用者側からの観点では、ITサービスを購入し、利用する立場の人や企業に対しての専門家からのメッセージがまとめられている。
+
+#### アプリケーション管理
+
+アプリケーション管理ではITILにおける[アプリケーションの位置付けと具体的な管理手法について説明されている](../Page/アプリケーションソフトウェア.md "wikilink")。
+
+  - ライフサイクルマネジメント
+    ITサービスの[ライフサイクル](https://ja.wikipedia.org/wiki/ライフサイクル "wikilink")を6つにフェーズ分けし、それぞれのフェーズに対し、アプリケーションをどのように取り扱うべきかについて説明がされている。従来のIT業界では「[開発](https://ja.wikipedia.org/wiki/ソフトウェア開発工程 "wikilink")」（アプリケーションの作成）と「[運用](https://ja.wikipedia.org/wiki/システム運用 "wikilink")」を別個に考えられていたが、この方式では同じアプリケーションに対しての開発と運用の間に断絶を生み、うまく機能しない場合があった。ITIL・アプリケーション管理では**ライフサイクルマネジメント**の考え方のもと、2つの領域を相互に関連するものととらえ、ひとつのライフサイクルの中で最も効率のよい仕様にすることを提唱している。具体的にはアプリケーションの要件定義、設計、構築のプロセスを**アプリケーション開発**、展開、運用、最適化のプロセスを**サービスマネジメント**と定義し、それぞれにおけるアプリケーションの管理手法について解説している。
+  - アプリケーションポートフォリオ
+    アプリケーションポートフォリオとはアプリケーションを企業資産とみなし、アプリケーションが提供する機能、事業にとっての重要度、アプリケーションの開発コストやランニングコストなどを明確化し、整理するという概念であり、ITILではアプリケーションポートフォリオの実施手法について解説されている。これを実施することで経営者がアプリケーションに関する事業上の決定についてより適切な判断を下すことができ、結果的にITサービスにおける品質の向上につながっていく。
+
+#### ICTインフラストラクチャー管理
+
+ICTインフラストラクチャー管理（以下ICTIM）\[21\]では、企業が所有する戦略上の重要なリソースを十二分に活用する為に必要不可欠となる企業の[インフラ](https://ja.wikipedia.org/wiki/インフラ "wikilink")について、どのように管理し、活用すべきかについて説明がなされている。
+
+#### セキュリティ管理
+
+セキュリティ管理では、企業情報の価値を損なわせるあらゆる事象を対象として、業務で求められるレベルのセキュリティをどのように提供するかについて解説している。[情報セキュリティ](https://ja.wikipedia.org/wiki/情報セキュリティ "wikilink")には、[情報漏洩](https://ja.wikipedia.org/wiki/情報漏洩 "wikilink")や[不正アクセスなどの対策](https://ja.wikipedia.org/wiki/不正アクセス行為の禁止等に関する法律 "wikilink")（機密性）だけでなく、[可用性](https://ja.wikipedia.org/wiki/可用性 "wikilink")、[完全性も含まれている](https://ja.wikipedia.org/wiki/データ完全性 "wikilink")。セキュリティ管理の活動は独立したものではなく、日常業務に組み込まれるべきものとしている。ITILで提唱する各プロセスに対し、どのようにセキュリティを絡めるべきか、各プロセスとの連携をどのように行うべきかについて重点的に解説している。
+
+## ITIL V3
+
+ITILバージョン3としての改版作業は2004年より開始され、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月30日](../Page/5月30日.md "wikilink")にイギリス出版局より書籍がリリースされた。従来バージョンに比べてより戦略的なガイダンスが盛り込まれ、大きく「ライフサイクル・アプローチ」の概念を採用している。ITILのチーフアーキテクトを努めたシャロン・テイラー（[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")アスペクトグループ社長）はITIL V3について、「IT組織がITサービスを企業内に配備する方法やITサービスを効率的に配備するためのプロセスに重点を置いて作成した」と語っている\[22\]。また、書籍の更改にあわせてフレームワークも刷新されている。
+
+### ITIL V3を構成する書籍群
+
+ITIL V3は、以下のサービスストラテジから継続的サービス改善までの5冊のコアブックと、その他の補完的な書籍から成り立っている。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No</p></th>
+<th><p>書籍名</p></th>
+<th><p>英名</p></th>
+<th><p>概要</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td></td>
+<td></td>
+<td><p>ITIL V3の全体的な概要とライフサイクル・アプローチの概念について解説している。</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>サービスストラテジ</p></td>
+<td></td>
+<td><p>事業目標に準じた<a href="../Page/情報技術.md" title="wikilink">ITの役割と要件について解説している</a>。ITIL V2の「ITサービス財務管理」プロセス（サービスデリバリ）を包含している。</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>サービスデザイン</p></td>
+<td></td>
+<td><p>効果的で費用対効果の高い戦略に即したプロセスの導入について解説している。ITIL V2の「可用性管理」プロセス、「キャパシティ管理」プロセス、「ITサービス継続性管理」プロセス（サービスデリバリ）を包含している。</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>サービストランジション</p></td>
+<td></td>
+<td><p>アジリティテスト、リスク緩和、ビジネスニーズへの迅速な対応（チェンジ・マネジメント）に関するガイダンス。ITIL V2の「変更管理」プロセス、「リリース管理」プロセス、「構成管理」プロセス（サービスマネジメント）を包含している。</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>サービスオペレーション</p></td>
+<td></td>
+<td><p>効果的なプロセスの開発と管理手法について解説している。ITIL V2の「サービスデスク」機能、「インシデント管理」プロセス、「問題管理」プロセスを包含している。</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>継続的サービス改善</p></td>
+<td></td>
+<td><p>ITサービスのコストと品質の測定手法について解説している。ITIL V2の「サービスレベル管理」プロセス（サービスデリバリ）を包含している。</p></td>
+</tr>
+</tbody>
+</table>
+
+### ITIL V2との違い
+
+現在の主流であるITIL V2との違いとして最も大きな点はITIL V2がプロセス個々に着目して解説していたのに比べ、ITIL V3では[ライフサイクル](https://ja.wikipedia.org/wiki/ライフサイクル "wikilink")に着目した解説を行っている点である。その他大きく改善された点として以下のようなものが挙げられる。
+
+  - ビジネスとITの統合
+  - バリュー・ネットワークの概念
+  - 記述項目と記述レベルの統一
+  - 用語の定義の徹底
+  - Appendix(ドキュメントやレコード項目などのサンプル)の充実
+  - プロセスの増加
+
+### 5.サービス運用(Service Operation)について
+
+日常の運用について記載する。プロセス及び機能としては以下の通り。
+
+  - （機能）サービスデスク - 単一窓口として活動し、受け付けたコールを「イベント」「リクエスト」「インシデント」に分類する。尚、コール媒体としては電話、メール、FAX等がある。
+  - （機能）IT運用 - 日々のルーティンワーク。
+  - （機能）技術管理 - 定型的運用を行うに当たって必要な技術を管理する。スキル育成なども含まれる。
+  - （機能）アプリケーション管理
+  - （プロセス）イベント管理 - Ver.2でインシデントと分類したコールの内、軽微なもの。逆に影響度の大きいイベントをインシデントとして定義できる。
+  - （プロセス）インシデント管理 - 「インシデントを早く解決する」ことをプロセスの目標とする。
+  - （プロセス）要求実現 - サービス要求への対応(Service Request Fulfilment)を実施する。V2ではインシデントとして取り扱っていた。V3におけるインシデントと要求の違いは、インシデントは予期できないものであるが、要求は予期できるものである、と言える。
+  - （プロセス）問題管理 - 「インシデント数を減らす」ことをプロセスの目標とする。
+
+### 6.サービス移行(Service Transition)について
+
+新規に作成した、又は変更したサービスの本番環境への移行を無事に行うことを目的とする。配下の主なプロセスは以下の通り。
+
+  - 変更管理 -
+  - サービス資産管理・構成管理 -
+  - ナレッジ管理 -
+  - 移行の計画・立案及びサポート -
+  - リリース管理・展開管理 -
+  - サービスの妥当性確認及びテスト -
+  - 変更又はサービスの評価 -
+
+## 認定資格
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Wearer_of_an_ITIL_Foundation_Certificate_pin.jpg "wikilink") ITILには[EXIN](http://www.exin.nl/)と[ISEB](http://www.bcs.org/BCS/Products/Qualifications/ISEB/)が主催する認定資格が存在する。エントリー資格の「」（）と上級資格の「」（）などがそれに当たり、 の試験は随時受験できる。同試験の出題範囲は、『サービスサポート』と『サービスデリバリー』が大部分を占める。
+
+## 脚注
+
+<references/>
+
+## 関連項目
+
+  - [ISO/IEC 20000](https://ja.wikipedia.org/wiki/ISO/IEC_20000 "wikilink")
+  - [iDC](https://ja.wikipedia.org/wiki/インターネットデータセンター "wikilink")
+  - [エンタープライズアーキテクチャ](https://ja.wikipedia.org/wiki/エンタープライズアーキテクチャ "wikilink")
+  - [ISMS](https://ja.wikipedia.org/wiki/情報セキュリティマネジメントシステム "wikilink")
+  - [ITガバナンス](https://ja.wikipedia.org/wiki/ITガバナンス "wikilink")
+  - [ITサービスマネジメント](https://ja.wikipedia.org/wiki/ITサービスマネジメント "wikilink")
+  - [CFIA](https://ja.wikipedia.org/wiki/構成要素障害影響分析 "wikilink")
+  - [PRINCE2](https://ja.wikipedia.org/wiki/PRINCE2 "wikilink")
+  - [ランブックオートメーション](https://ja.wikipedia.org/wiki/ランブックオートメーション "wikilink") (RBA)
+  - [COBIT](https://ja.wikipedia.org/wiki/COBIT "wikilink")
+
+## 参考文献
+
+  - 『強い会社はこうして作られる\! ITIL実践の鉄則』- 久納信之(2007/6, ISBN 4-7741-3125-3)
+  - 『ITIL教科書』- 青柳雅之、北尾一彦、木村祐、吉田俊雄(2006/8, ISBN 978-4-87268-566-4)
+  - 『会社を守るITIL -経営者・ビジネスマネージャーのためのIT活用術-』- 久納信之、加藤寛二、吉田俊雄(2006/3, ISBN 4-87268-530-X)
+  - 『ITIL導入のためのBS15000/ISO20000入門』- 尾崎雅彦(2006/1, ISBN 978-4-7973-3294-0)
+  - 『ITIL大全』- 日経コンピュータ編(2004/12, ISBN 4-8222-0794-3)
+  - 『ITIL入門』- 株式会社プロシード／ITAMグループ(2004/11, ISBN 4-8201-1800-5)
+
+## 外部リンク
+
+  - [OGC ITIL](http://www.ogc.gov.uk/index.asp?id=2261)
+  - [ITIL Wiki](http://itil.technorealism.org/)
+  - [ITIL Blog](http://www.itil.de/)
+  - [ITIL Training](http://www.expertplace-academy.de/)
+  - [itSMF Japan](http://www.itsmf-japan.org/)
+  - [実践を検討すべき！ ITILの運用の意義と現状](http://ascii.jp/elem/000/000/067/67734/)
+  - [無料deITIL V3 Foundation模擬試験](http://dentakurou.web.fc2.com/itilV3Top.htm)
+
+[Category:ITサービスマネジメント](https://ja.wikipedia.org/wiki/Category:ITサービスマネジメント "wikilink") [Category:情報セキュリティの規格と制度](https://ja.wikipedia.org/wiki/Category:情報セキュリティの規格と制度 "wikilink")
+
+1.  （中央コンピュータ電気通信局）の略で、イギリス政府商務庁の下部組織。現[OGC](https://ja.wikipedia.org/wiki/OGC "wikilink")（ （イギリス政府商務省））。
+2.  [ThinkIT-ITIL実践のポイント](http://www.thinkit.co.jp/free/article/0603/1/1/)
+3.  2018年10月現在、出典とされている1つ前の注のリンク先を見ても、『ITサービス全体において「デファクトスタンダード」』あるいは『重要な位置付け』というような文字列は見当たらないようである。
+4.  ITサービスを提供するために必要となる[ソフトウェア](../Page/ソフトウェア.md "wikilink")や[ハードウェア](../Page/ハードウェア.md "wikilink")、技術力などを提供する取引企業のこと。
+5.  [欧州におけるITILの適用事例](http://www.nri.co.jp/opinion/it_solution/2007/pdf/IT20070605.pdf)(PDF)
+6.  [ITmediaエンタープライズ：知らないと恥ずかしい、ITIL超基礎](http://www.itmedia.co.jp/enterprise/articles/0507/29/news024_2.html)
+7.  *The Stationary Office*（イギリス出版局）の略。
+8.  [ITIL ver3が正式リリース](http://www.computerworld.jp/topics/smg/66231.html)参照。
+9.
+10. [EnterpriseWatch-「ITIL V3ではサービスライフサイクルを重視」](http://enterprise.watch.impress.co.jp/cda/topic/2007/06/29/10631.html)
+11. [日本HP-HP Servicesを支えるプロフェッショナルたち](http://www.compaq.co.jp/services/about/professional01/03.html)
+12. なお、日本語化されているのはサービスサポート、サービスデリバリ、サービスマネジメント導入計画立案、ビジネスの観点、アプリケーション管理の5冊。
+13. [@IT情報マネジメント：ITIL](http://www.atmarkit.co.jp/aig/04biz/itil.html)
+14. 同上[1](http://www.atmarkit.co.jp/aig/04biz/itil.html)
+15. 同上[2](http://www.atmarkit.co.jp/aig/04biz/itil.html)
+16. *Continuous Service Improvement Program*の略。継続的サービス改善プログラム。
+17. [組織風土](https://ja.wikipedia.org/wiki/組織風土 "wikilink")とも。目に見えないがそこに所属する全員が感じる[空気](../Page/空気.md "wikilink")のようなしきたりや慣例。
+18. *Critical Success Factor*。日本語では「重要成功要因」と呼ばれ、目標達成のために何が重要な成功要因かを明確化すること。
+19. *Key Performance Indicators*。日本語では「重要業績評価指標」と呼ばれ、企業目標を実現するために設定した具体的な業務プロセスを客観的観点から計るための指標。
+20. [COBITの成熟度モデルでITILを裏付ける](http://www.atmarkit.co.jp/im/cop/serial/realitil/03/01.html)
+21. ICTは*Information and Communications Technology*の略で**情報と通信技術**を意味する。
+22. ComputerWorldの[記事](http://www.computerworld.jp/topics/smg/66231.html)より。

@@ -1,0 +1,265 @@
+> この記事は[RX-7](https://ja.wikipedia.org/wiki/RX-7)から翻訳されています。
+
+
+**RX-7**（アールエックス-セブン）は、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")が開発・製造していた[スポーツカー](../Page/スポーツカー.md "wikilink")である。
+
+## 概要
+
+[サバンナクーペの後継として](https://ja.wikipedia.org/wiki/マツダ・サバンナ "wikilink")、**[サバンナRX-7](https://ja.wikipedia.org/wiki/マツダ・サバンナRX-7 "wikilink")**（**SAVANNA RX-7**）の名で[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")3月に発表。[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")に行われた2度目の[フルモデルチェンジを機に](https://ja.wikipedia.org/wiki/モデルチェンジ "wikilink")、マツダが当時展開していた[アンフィニ](https://ja.wikipedia.org/wiki/アンフィニ "wikilink")ブランドからの発売となり、名称が**アンフィニ・RX-7**(**εfini・RX-7**)へ変更されたが、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月のアンフィニブランドの廃止で再びマツダブランドに戻している。2002年8月、[自動車排出ガス規制](../Page/自動車排出ガス規制.md "wikilink")の強化を受けて生産を終了。累計生産台数は81万台\[1\]。
+
+3代に渡り一貫してスポーツカーには珍しく、サッシュドアを採用している点も他社の類似車種には見られない特徴であった。また、3代ともフロントマスクに[リトラクタブル・ヘッドライト](https://ja.wikipedia.org/wiki/リトラクタブル・ヘッドライト "wikilink")を採用しており、FD型は日本車で最後にリトラクタブル・ヘッドライトを装備した車種となった。
+
+2004年、米国のスポーツカー専門誌[スポーツカー・インターナショナル](https://ja.wikipedia.org/wiki/スポーツカー・インターナショナル "wikilink")が選出した[ベスト・スポーツカー](https://ja.wikipedia.org/wiki/トップスポーツカー "wikilink")1990年代部門で3代目FD型が第10位に、また同1970年代部門で初代SA22C型が第7位を獲得している。[徳大寺有恒](https://ja.wikipedia.org/wiki/徳大寺有恒 "wikilink")は2代目について「耐久性はポルシェにはかなわないが、その他の性能ではRX-7のできは上々で、総合点ではポルシェ944を凌ぐ」と評した\[2\]。
+
+販売店系列は3代目までマツダオート店→[マツダアンフィニ](https://ja.wikipedia.org/wiki/マツダアンフィニ "wikilink")店の専売モデルだったが、モデル末期には[ユーノス店](https://ja.wikipedia.org/wiki/ユーノス店 "wikilink")が統合されたマツダアンフィニ店とマツダ店で販売された。
+
+## 初代 SA22C（FB3S）型（1978年-1985年）
+
+[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")\[3\]、[サバンナ](https://ja.wikipedia.org/wiki/マツダ・サバンナ "wikilink")（輸出名RX-3）の後継機として、初代サバンナRX-7となる**SA22C**型サバンナRX-7が発表された。開発コードはX605。
+
+[プラットフォームには](https://ja.wikipedia.org/wiki/プラットフォーム_\(自動車\) "wikilink")[マツダ・SAプラットフォームが用いられ](https://ja.wikipedia.org/wiki/マツダ・Fプラットフォーム#FB "wikilink")、エンジンは[12A型水冷](https://ja.wikipedia.org/wiki/マツダ・12A型エンジン "wikilink")2ローターエンジンの[自然吸気](https://ja.wikipedia.org/wiki/自然吸気 "wikilink")（NA）仕様を搭載していた。性能面では、130ps/7,000rpm、最大トルク16.5kg・m/4,000rpm、パワーウェイトレシオ7.6～7.8kg/psであった。[オイルショック](https://ja.wikipedia.org/wiki/オイルショック "wikilink")の影響を受け、REAPSと呼ばれる排気ガスを再燃焼させる[サーマルリアクター方式を採用し](https://ja.wikipedia.org/wiki/二次空気導入装置#サーマルリアクター "wikilink")、従来に比べて40%の[燃費](https://ja.wikipedia.org/wiki/燃費 "wikilink")アップを達成した。1979年には希薄燃焼型の12A型エンジンを搭載、サーマルリアクターは触媒に変更され、翌年に外観のマイナーチェンジでテールランプとフロントスカートのデザインを変更しcd値0.34を達成した。[1982年](../Page/1982年.md "wikilink")には6piエンジンに変更を受け、10モード燃費は10.2km/lを達成した。
+
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")のマイナーチェンジの際に、日本仕様のみ12A型[ターボエンジンが追加された](../Page/ターボチャージャー.md "wikilink")。ロータリーターボエンジンの搭載は、世界初だった[ルーチェ](https://ja.wikipedia.org/wiki/マツダ・ルーチェ "wikilink")/[コスモから](../Page/マツダ・コスモ.md "wikilink")1年後となる。日本以外では、[1984年](../Page/1984年.md "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に、[13B型](https://ja.wikipedia.org/wiki/マツダ・13B型エンジン "wikilink") [EGI](https://ja.wikipedia.org/wiki/燃料噴射装置 "wikilink") NA仕様搭載車が販売されている。このマイナーチェンジでは、[ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink")[ハブ](https://ja.wikipedia.org/wiki/ハブ "wikilink")のボルトピッチ([PCD](https://ja.wikipedia.org/wiki/PCD "wikilink"))が、同業他社の後輪駆動車と同様に改められ、4穴PCD110mmの特殊形状から一般的な4穴PCD114.3mmに変更された。北米モデルでは、新たにVINコードの型式名を採用した為、FB3Sの呼称を用いる様になった。
+
+0-400mが15.8秒は排ガス規制以前に[日産・フェアレディZ](https://ja.wikipedia.org/wiki/日産・フェアレディZ "wikilink")の240ZGが記録した水準に戻っており日本車としては高性能であった。[福野礼一郎](https://ja.wikipedia.org/wiki/福野礼一郎 "wikilink")は「軽い速い低い、それは確かに間違いありませんでしたがついでに何ともすべてが軽々しく薄っぺらで安っぽい感じ」「足回りもブレーキもスポーツカーとしてはちょっと脆弱」と書いている\[4\]が、基本構成に関しては「初代RX-7、いいパッケージです」「いつかマツダがもう一回RX-7のモデルチェンジをやる日がくるなら、なんともぜひこういうパッケージに戻してもらいたいですね」\[5\]と評価している。
+
+スポーティなフィールを手軽なコストで手に入れられるとして、初代[フェアレディZ](https://ja.wikipedia.org/wiki/日産・フェアレディZ "wikilink")（S30）などとともに、アメリカでは**プアマンズポルシェ**と呼ばれた\[6\]。後述する2代目、3代目からは、ポルシェと渡り合えるものとして対等の扱いを受けるようになった。
+
+  - エンジン
+    基本は単室容積573cc×2の12A型ロータリーエンジン。排気ガス規制対応は、初期はサーマルリアクタで対応したが、燃費対応のため希薄燃焼方式の触媒方式に変更。その後、更なる燃費改善のため自然吸気仕様の形式名は12A-6PIで、RX-8タイプSと同じ6PI（詳細は[3代目・コスモを参照](https://ja.wikipedia.org/wiki/マツダ・コスモ#歴史 "wikilink")）が採用されたが、後に追加されたターボ仕様（12A-T）にはあまりメリットがないため採用されなかった。NA仕様130ps、ターボ仕様165ps。NA仕様は4バレルのダウンドドラフトキャブレタを1基使用し、ターボ仕様はEGIを使用した。ターボ仕様モデルは、日本国内のみの販売であった。海外では、13Bエンジン搭載のモデルが、1984年より12Aエンジンモデルと併売された。13Bエンジンは、EGI仕様である。
+
+ファイル:Nationale oldtimerdag Zandvoort 2010, 1979 MAZDA RX-7,GS-40-LP pic2.JPG|フロント ファイル:Mazda RX-7-1979 (10610739405).jpg|フロント ファイル:Mazda RX7 115PS 1983 1.jpg|フロント
+
+{{-}}
+
+### RX-7 Evo グループBワークス
+
+マツダ・ラリー・チーム・ヨーロッパは、[世界ラリー選手権](../Page/世界ラリー選手権.md "wikilink")（1982年 - 1986年）[グループB](https://ja.wikipedia.org/wiki/グループB "wikilink")のカテゴリーに参戦するための車両として、初代RX-7を改造してRX-7 Evo グループBワークスを製作。しかし、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")をもってグループBカテゴリーが消滅することが決定したため、製造台数は7台 にとどまった\[7\]。
+
+ラリー参戦車両は、その後[Mazda 323 4WDが引き継いで使用された](https://ja.wikipedia.org/wiki/Mazda_323_4WD "wikilink")。
+
+## 2代目 FC3S・FC3C型（1985年-1992年）
+
+サバンナRX-7の最初のフルモデルチェンジは1985年である。型式**FC3S**の新モデルは10月に発表された（19・20日に発表展示会）、開発コードはP747である。
+
+[マツダ・FCプラットフォームが開発された](https://ja.wikipedia.org/wiki/マツダ・Fプラットフォーム#FC "wikilink")。リア[サスペンション](../Page/サスペンション.md "wikilink")は[独立懸架化され](https://ja.wikipedia.org/wiki/独立懸架式 "wikilink")、[セミトレーリングアーム](https://ja.wikipedia.org/wiki/セミトレーリングアーム "wikilink") [マルチリンクとなった](https://ja.wikipedia.org/wiki/マルチリンク式サスペンション "wikilink")。またハブ部分のリンクにブッシュを入れることでパッシブステア性によりセミトレーリングアームの欠点を打ち消す特性を持つ「トーコントロールハブ」を持ち\[8\]、キャッチコピーには当時の流行でもあった「[4WS感覚](https://ja.wikipedia.org/wiki/四輪操舵 "wikilink")」という言葉が使われた\[9\]。エンジンは[インタークーラー](https://ja.wikipedia.org/wiki/インタークーラー "wikilink")付きターボ13B型を搭載する。フロント[ブレーキ](../Page/ブレーキ.md "wikilink")には日本車初の対向4ピストンの[アルミキャリパーを採用](https://ja.wikipedia.org/wiki/ブレーキキャリパー "wikilink")。日本以外では、初代に続き13B NAエンジン仕様車が13Bターボエンジン搭載車とともに販売された。
+
+[ポルシェ・944](https://ja.wikipedia.org/wiki/ポルシェ・944 "wikilink")との類似性が自動車雑誌などで話題となり、初代に引き続き「プアマンズ・ポルシェ」の呼称が使われることもあったが、性能面では0-100km/h7秒弱、最高速度はメーカーテストで238.5km/hを記録する\[10\]など大きく向上していた\[11\]。
+
+1989年4月にマイナーチェンジが行われ、エアフロをフラップ式からメジャリングコア式に、リアコンビネーションランプを角型から丸型3灯にする変更のほか、サスペンションの改良、[ドアミラー](https://ja.wikipedia.org/wiki/ドアミラー "wikilink")の同色化、前後バンパーおよびボディのモール形状、アルミホイール、前席シート、インパネセンター、計器類のデザイン等が変更された。出力もタービンの改良により、前期の185psから205psに向上している。
+
+グレードは最廉価グレード「GT」、ベーシックグレード「GT-R」、ビスカス式LSDとアルミボンネットを装備した「GT-X」、サンルーフ、オートクルーズ等豪華装備の「GT-Limited」、本革シートを装備した最上級グレード「GT-Limited・スペシャルエディション」が用意された。後に、GTはマイナーチェンジに伴って廃止されている。
+
+「∞（アンフィニ）」シリーズと呼ばれる2人乗りスペシャリティーモデルが4世代に渡りリリースされる。[プレミアムガソリン仕様になった](../Page/高オクタン価ガソリン.md "wikilink")\[12\]このモデルは、高出力化され215ps/6,500rpmとなった。また1991年のFD3S型へのフルモデルチェンジの年初、[マツダ・787B](https://ja.wikipedia.org/wiki/マツダ・787B "wikilink")の[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")総合優勝を記念した最後の[特別仕様車](https://ja.wikipedia.org/wiki/特別仕様車 "wikilink")「ウィニングリミテッド」が1,000台発売された。2代目に設定されていたカブリオレ・FC3C型はロータリーエンジン生誕20周年を記念して1987年8月に登場している[オープンカー](https://ja.wikipedia.org/wiki/オープンカー "wikilink")仕様のグレードで、電動ソフトトップを装備する。カブリオレ製作のノウハウは、後の[ユーノス・ロードスター](https://ja.wikipedia.org/wiki/ユーノス・ロードスター "wikilink")に活かされた。
+
+1991年11月\[13\]、生産終了。在庫対応分のみの販売となる。
+
+1991年12月、FC3S型はフルモデルチェンジされFD3S型となるが、カブリオレ仕様は2代目仕様のまま生産され、1992年10月にサバンナRX-7の14年間(サバンナとしては21年間)とサバンナRX-7カブリオレ5年間を締め括るモデルとして、台数限定のファイナルバージョンが発売され、同年12月\[14\]に販売を終了した。プラットフォーム、エンジンはFC3S型と同様。[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")を搭載するオープンカーは[NSU・ヴァンケルスパイダー](https://ja.wikipedia.org/wiki/NSU・ヴァンケルスパイダー "wikilink")以来であり、マツダでは当モデルが唯一の存在である。2代目の生産台数は27万2034台\[15\]。
+
+  - エンジン
+    単室容積654cc×2の13B-T型ロータリーエンジン。[ツインスクロールターボ](https://ja.wikipedia.org/wiki/ツインスクロールターボ "wikilink")を採用し、185ps、205ps、215ps（スペック3以降のアンフィニのみ）と進化していく。185ps車を前期、205ps、215ps車を後期に分けているが、ローターの種類が違うため、圧縮比や圧縮限度の目安が異なる。トルクは馬力の順に25kgf・m、27.5kgf・m、28kgf・m。輸出型のみNA仕様も存在する。
+
+ファイル:| ファイル:Mazda RX-7 (FC3S) rear.JPG|前期型リア ファイル:1989-1991 Mazda RX-7 (FC) Turbo coupe 01.jpg|後期型リア
+
+{{-}}
+
+## 3代目 FD3S型（1991年-2003年）
+
+[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")10月、2度目のフルモデルチェンジにより**FD3S**型 RX-7が発表され、同年12月より販売開始。このフルモデルチェンジを機に、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")から20年続いた「サバンナ」の呼称がはずされ、当時の販売店系列「[アンフィニ](https://ja.wikipedia.org/wiki/マツダアンフィニ "wikilink")」の名を冠して「アンフィニRX-7」として発売された。後に販売店のアンフィニ店がユーノス店と統合したことにより、車名が「マツダRX-7」となる。開発コードはX105。マツダ販売網で扱われるようになってからは、車体先端のエンブレムが、マツダのロゴマークとなった。キャッチコピーは『**アンフィニのスポーツです。**』『**その非凡さが、アンフィニ。**』『**ザ・スポーツカー**』『**ザ・ロータリースポーツ**』。足回りには新開発の4輪[ダブルウィッシュボーン](https://ja.wikipedia.org/wiki/ダブルウィッシュボーン "wikilink")が使用された。
+
+エンジン出力は、シーケンシャルツインターボが搭載された13B型ロータリーエンジンで255psだったが、初期型255ps車のパワーウェイトレシオ（重量/出力比）は5kg/psを切っていた。後にエンジンの出力向上が行われ、[1996年](../Page/1996年.md "wikilink")1月のマイナーチェンジで265ps（MT車）、[1999年](../Page/1999年.md "wikilink")1月のマイナーチェンジでは280psに達し、一部のモデルでパワーウェイトレシオは6.11kg/kW(4.50kg/ps)に達した。
+
+同社の[ユーノス・コスモ](https://ja.wikipedia.org/wiki/ユーノス・コスモ "wikilink")が1996年に生産を終了して以降、RX-7は世界唯一の[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")搭載量産車となる。RX-7は車体の軽量化やエンジンの高出力化を図るなど、「ピュア・スポーツ」をコンセプトに掲げる車両として開発が続けられたが、日本国内市場および北米市場における[スポーツカー](../Page/スポーツカー.md "wikilink")[需要](https://ja.wikipedia.org/wiki/需要 "wikilink")の低下や、ターボ過給機付ロータリーエンジンの環境対策の行き詰まりなどの理由により、[2002年](../Page/2002年.md "wikilink")8月に生産終了、[2003年](../Page/2003年.md "wikilink")4月に販売終了となり､RX-7は25年の歴史に幕を閉じた。
+
+[RX-7_spirit_R_serial_plate.jpg](https://ja.wikipedia.org/wiki/File:RX-7_spirit_R_serial_plate.jpg "fig:RX-7_spirit_R_serial_plate.jpg") この前に、最終特別限定車「**RX-7スピリットR**」が同年4月に発売されている（限定車の発売は、最終特別限定車を含めて9回行われている）。2シーター5速マニュアル仕様の「タイプA」、4シーター5速マニュアル仕様の「タイプB」、4シーター4速オートマチック仕様の「タイプC」の3仕様を用意され、限定販売台数は合計1,500台であった。BBS社製17インチホイール、レッド塗装ブレーキキャリパー、専用インパネなどの専用パーツを装着。タイプAは専用のレカロ社製フルバケットシートなどを装備した。 2002年[8月26日](../Page/8月26日.md "wikilink")、宇品U3工場での最終生産車は、スピリットR タイプA チタニウムグレーメタリック車だった。この車の最終ラインオフに合わせ、FD3Sに携わったマツダのスタッフの他、一般公募のユーザーを加えて式典が催された。この車は市販されず、社内展用車となった\[16\]。
+
+12年のモデルサイクル中に複数のマイナーチェンジが行われ、下記のように分けられている。
+
+  - 前期型
+
+<!-- end list -->
+
+  - 1型 （1991年12月-）
+
+<!-- end list -->
+
+  -
+    エンジン出力255ps。
+
+<!-- end list -->
+
+  - 2型 （1993年8月-）
+
+<!-- end list -->
+
+  -
+    ボディ剛性強化。ダンパー大型化。サスペンションセッティング見直し。大型アームレストを追加し、インテリアの質感と使い勝手を向上。
+
+2シーターグレードであるタイプRZとタイプR II バサーストを追加。
+
+  - 3型 （1995年3月-）
+
+<!-- end list -->
+
+  -
+    グレード体系見直し。タイプR-Sなどを追加。リアウイングが4本ステーから2本ステーのドルフィンタイプに変更。
+
+  - 中期型
+
+<!-- end list -->
+
+  - 4型 （1996年1月-）
+
+<!-- end list -->
+
+  -
+    4型の期間内にマツダの販売体系が変わったため、1997年1月のRS-R以降アンフィニの名前が外れ、同年10月から車名が「アンフィニRX-7」から「マツダRX-7」へと変更されている。CPU制御が8ビットから16ビットに強化され、吸気系の配管の変更やブースト圧の向上もありMT車はエンジン出力が265psに向上した（ATは255psのまま）。メーター照明はアンバーからグリーンに変更。外装ではリアコンビネーションランプが丸型3連式に変更された。
+
+  - 後期型
+
+<!-- end list -->
+
+  - 5型 （1999年1月-）
+
+<!-- end list -->
+
+  -
+    最高出力がMT車は280ps（タイプRBは265ps）、AT車は変わらず255psのままとなる。ボディ剛性の大幅強化・サスペンションセッティング見直し・内装の変更（ステアリング形状変更・メーター指針位置が真下からになる・シート生地変更）・16インチアルミホイールの形状変更・外装では5角形の開口部を持つ新デザインのバンパーとフロントコンビネーションランプが採用され、リアウィングも1度から14.5度まで角度調整可能なタイプとされた。デュアルエアバッグ・ABSが全車標準装備になった。ラジエターの大型化とタービンの仕様変更も行われた。PPFの強度向上、マフラーの変更も行われた。
+
+<!-- end list -->
+
+  - 6型 （2000年9月-）
+
+<!-- end list -->
+
+  -
+    ABSの制御が8ビットから16ビットに変更、サスペンション・セッティング見直し、EBD（電子制御制動力分配システム）を追加。インテリアではメーター盤がホワイト化され照明はアンバーに戻された。エンジン系には変更なし。
+
+外装はフロントおよびリアコンビネーションランプ、フロントバンパー、リアスポイラー、ABS等が変更されたが、1型から6型で流用不能なものはABSとECU、リヤ補強材の一部であり、マイナーチェンジ前の車両に変更後のパーツを移植することも可能である。
+
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")と[1999年](../Page/1999年.md "wikilink")に4型のRX-7がレーダー付きの[高速隊パトカーとして宮城](https://ja.wikipedia.org/wiki/高速道路交通警察隊 "wikilink")、新潟、栃木、群馬、埼玉、千葉、京都に7台導入された。現在は[新潟県警察](https://ja.wikipedia.org/wiki/新潟県警察 "wikilink")、[群馬県警察](https://ja.wikipedia.org/wiki/群馬県警察 "wikilink")、[埼玉県警察](https://ja.wikipedia.org/wiki/埼玉県警察 "wikilink")の配備車両がイベント展示用として残されている。
+
+イギリスの「[テレグラフ](https://ja.wikipedia.org/wiki/デイリー・テレグラフ "wikilink")」誌webサイトの「最も美しい車100選」で61位に選ばれた\[17\]。
+
+  - エンジン
+    単室容積654cc×2の13B-REW型ロータリーエンジン。[ユーノス・コスモ](https://ja.wikipedia.org/wiki/ユーノス・コスモ "wikilink")に次ぐ[シーケンシャルツインターボの採用で](https://ja.wikipedia.org/wiki/ツインターボ "wikilink")、255ps、265ps、280psへと出力向上が図られた。出力が280psに向上するのと同時に、トルクも30kgf・mから32kgf・mへ向上している。出力の向上は主に過給圧の設定変更によるものであるが、触媒など一部吸排気系の配管やマフラーも変更されている。レッドゾーンは8,000rpmから。シーケンシャルツインターボは[日立製で](https://ja.wikipedia.org/wiki/日立オートモティブシステムズ "wikilink")、複雑な構造と制御を行っており、制御系の故障が頻発したとされ、開発陣も低回転域のトルクの向上には有効だったが、エンジンをもうひとつ搭載するのと同じくらいコストがかかったとコメントしている。4型以降ではこのシーケンシャル機構に使われる[ソレノイドバルブ](https://ja.wikipedia.org/wiki/ソレノイドバルブ "wikilink")が簡略化され、トラブルを起こしにくいように対処されている。
+    プライマリー側とセカンダリー側のタービンは同一形状・同一容量である。1-4型と5-6型のタービンは容量が違い、容量的には1-4型の方が出力重視で、5-6型はアブレダブレシールの採用やコンプレッサーホイールの小径化など、反応性重視のタービンとされている。5-6型のタイプRBには4型のタービンが組み合わされ、出力265psのままとなっている。
+    アペックスシールは当初3分割のものが使用されていたが、2002年8月以降の生産終了後、オーバーホール時の補修品やリビルドエンジンに換装される際に2分割のものに変更されたが、レースなどで過酷な走行をする場合は、2分割シールの耐久性の低さが問題となった。
+
+ファイル:MAZDA RX-7 FD3S.JPG|フロント ファイル:Mazda RX-7.jpg|リア ファイル:Mazda RX-7 police car of Niigata Prefecture Police.jpg|フロント
+（新潟県警察車両） ファイル:Mazda RX-7 police car of Niigata Prefecture Police rear.jpg|リア
+（新潟県警察車両）
+
+## モータースポーツ活動
+
+### SA22C
+
+[MAZDA_RX-7_MONTE-CARLO_RALLY_00.jpg](https://ja.wikipedia.org/wiki/File:MAZDA_RX-7_MONTE-CARLO_RALLY_00.jpg "fig:MAZDA_RX-7_MONTE-CARLO_RALLY_00.jpg")参戦車（1979年）\]\]
+
+  - [1979年](../Page/1979年.md "wikilink")
+      - 2月、[デイトナ24時間レース](https://ja.wikipedia.org/wiki/デイトナ24時間レース "wikilink")・GTUクラスに参戦し、クラス優勝（[片山義美](https://ja.wikipedia.org/wiki/片山義美 "wikilink")、[寺田陽次郎](https://ja.wikipedia.org/wiki/寺田陽次郎 "wikilink")、[従野孝司](https://ja.wikipedia.org/wiki/従野孝司 "wikilink")）とクラス2位を獲得、総合で5位、6位に入賞\[18\]\[19\]。
+      - 6月、[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")に13Bエンジンを搭載したRX-7・252iで出場するが、予選不通過\[20\]。
+  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、[IMSA](https://ja.wikipedia.org/wiki/国際モータースポーツ協会 "wikilink")・GTUクラスでマニュファクチャラーズタイトルを獲得。
+  - [1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")
+      - 6月、ル・マン24時間レース・IMSAクラスにRX-7・253で出場、予選を通過するが決勝でマシントラブルによりリタイアする\[21\]。
+      - 同月、[スパ・フランコルシャン24時間レース](https://ja.wikipedia.org/wiki/スパ・フランコルシャン24時間レース "wikilink")で総合優勝。
+      - 同月、IMSA・GTUクラスでマニュファクチャラーズタイトルを獲得。
+      - 同月、イギリス[RACラリーに出場](https://ja.wikipedia.org/wiki/ウェールズ・ラリーGB "wikilink")。
+  - [1982年](../Page/1982年.md "wikilink")
+      - 6月、ル・マン24時間レース・IMSAクラスにRX-7・254で出場、82号車（寺田陽次郎、従野孝司、）が総合14位で初完走した\[22\]。
+      - 11月、WRC最終戦RACラリーに出場。
+  - [1984年](../Page/1984年.md "wikilink")
+      - 2月、デイトナ24時間レース・GTOクラスに出場。
+      - 6月、IMSA・GTUクラスで史上初の5年連続マニュファクチャラーズタイトル獲得。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")
+      - 5月、WRC[アクロポリス・ラリー](https://ja.wikipedia.org/wiki/アクロポリス・ラリー "wikilink")で総合3位、6位入賞。
+      - 8月、IMSA・GTUクラスでRX-7が通算67勝を達成し、[ポルシェ](https://ja.wikipedia.org/wiki/ポルシェ "wikilink")が保持していた単一車種最多優勝記録を更新\[23\]。
+
+### FC3S
+
+  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、 [ユタ州](../Page/ユタ州.md "wikilink")、[ボンネビル・ソルトフラッツ](https://ja.wikipedia.org/wiki/ボンネビル・ソルトフラッツ "wikilink")で行われる「ボンネビル・スピードウィーク」に米[カー・アンド・ドライバー](https://ja.wikipedia.org/wiki/カー・アンド・ドライバー "wikilink")誌とのジョイントプログラム「レーシングビート」として参加。最高速381.4km/hを達成し、クラス記録を更新。
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")
+      - 2月、デイトナ24時間レース・GTOクラスで4ローターエンジンを搭載したRX-7が2位入賞。
+      - 9月、IMSAシリーズで通算100勝目を達成\[24\]。
+
+### FD3S
+
+  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")
+      - 2月、デイトナ24時間レースでGTU優勝。
+      - 4月、バサースト12時間耐久レースで総合優勝。
+  - [1993年](../Page/1993年.md "wikilink")
+      - 1月、デイトナ24時間レースでGTU優勝。
+      - 4月、バサースト12時間耐久レースで総合優勝。
+  - [1994年](../Page/1994年.md "wikilink")
+      - 4月、バサースト12時間耐久レースで総合優勝。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、「ボンネビル・スピードウィーク」に「レーシングビート」として参加、最高速385.6km/hを達成し、クラス記録を更新。
+  - [JGTC](https://ja.wikipedia.org/wiki/JGTC "wikilink")→[SUPER GTにおいては](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")、[RE雨宮](https://ja.wikipedia.org/wiki/RE雨宮 "wikilink")レーシングがGT300クラスに2010年まで\[25\]、[オークラロータリーレーシング](https://ja.wikipedia.org/wiki/オークラロータリーレーシング "wikilink")が1999年まで参戦した\[26\]\[27\]\[28\]\[29\]\[30\]\[31\]\[32\]\[33\]\[34\]\[35\]。
+
+## 車名の由来
+
+「R」が「[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")」、「X」が「未来を象徴する記号」を表し、「ロータリー・スペシャリティ」とも表現される。「7」は「マツダ内での車格番号」で、ほかには[2](https://ja.wikipedia.org/wiki/マツダ・カペラ "wikilink")、[3](https://ja.wikipedia.org/wiki/マツダ・サバンナ "wikilink")、[4](https://ja.wikipedia.org/wiki/マツダ・RX-4 "wikilink")、[5](../Page/マツダ・コスモ.md "wikilink")（コスモAPの輸出仕様）、[8を車名に含んだ車種がある](https://ja.wikipedia.org/wiki/マツダ・RX-8 "wikilink")。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  - [福野礼一郎](https://ja.wikipedia.org/wiki/福野礼一郎 "wikilink")『自動車ロン』[双葉文庫](https://ja.wikipedia.org/wiki/双葉文庫 "wikilink") ISBN 4-575-71308-2
+
+  - [徳大寺有恒](https://ja.wikipedia.org/wiki/徳大寺有恒 "wikilink")『NEW RX-7 カーグラフィティ』[光文社文庫](https://ja.wikipedia.org/wiki/光文社文庫 "wikilink") ISBN 4-334-70239-2
+
+  - 『ハイパーレブ RX-7マガジン No.016』
+
+  -
+  -
+## 関連項目
+
+  - [ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")
+  - [マツダ・コスモ](../Page/マツダ・コスモ.md "wikilink")
+  - [マツダ・サバンナ](https://ja.wikipedia.org/wiki/マツダ・サバンナ "wikilink")
+  - [マツダ・RX-8](https://ja.wikipedia.org/wiki/マツダ・RX-8 "wikilink")
+
+## 外部リンク
+
+  - [HISTORY OF RX-7（マツダ株式会社）](http://www.mazda.co.jp/philosophy/history/rx-7/)
+
+[Category:マツダの車種](https://ja.wikipedia.org/wiki/Category:マツダの車種 "wikilink") [Category:クーペ](https://ja.wikipedia.org/wiki/Category:クーペ "wikilink") [Category:オープンカー](https://ja.wikipedia.org/wiki/Category:オープンカー "wikilink") [Category:スポーツカー](https://ja.wikipedia.org/wiki/Category:スポーツカー "wikilink") [Category:ラリーカー](https://ja.wikipedia.org/wiki/Category:ラリーカー "wikilink") [Category:レーシングカー](https://ja.wikipedia.org/wiki/Category:レーシングカー "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.  [初代マツダ「RX-7」オリジナル、持ち主求めて気づけば20年](https://www.esquire.com/jp/car/car-news/a26151586/1979-mazda-rx-7-for-sale-190207/)エクスファイア編集部
+7.  [初代マツダ RX-7、希少なグループBラリーカーがオークションに](https://response.jp/article/2017/08/11/298555.html) Response（2017年8月11日）2017年8月16日閲覧
+8.  <http://www.autoexe.co.jp/kijima/column2.html>
+9.
+10.
+11. 『昭和55年 写真生活』（2017年、ダイアプレス）p84
+12. 「∞」以外のモデルは全てレギュラーガソリン仕様。
+13.
+14.
+15. デアゴスティーニジャパン週刊日本の名車第2号21ページより。
+16. 『ハイパーレブ RX-7マガジン No.016』株式会社[ニューズ出版](https://ja.wikipedia.org/wiki/ニューズ出版 "wikilink")（2002年12月）
+17. [The 100 most beautiful cars: 80-61（英　テレグラフ誌webサイト）](http://www.telegraph.co.uk/motoring/2751175/The-100-most-beautiful-cars-80-61.html?image=19)
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25. [Human Talk Vol.32](http://www.enkei.co.jp/webmagazine/humantalk/ht_32.html) - ENKEI WEB MAGAZINE
+26. ｢来期GT選手権出場スーパーエアロが初見参だ｣ ハイパーレブ RX-7マガジン No,0005 p43　『株式会社ニューズ出版』 2000年3月17日発刊　ISBN 4-89107-007-2
+27. 走れRX7 高梁のチームが「全日本GT選手権シリーズ」に来月参戦　元マツダ社員「広島の誇り」『中国新聞』　2001年04月15日　中国朝刊　二社　写有　(全650字)
+28. 週間オートスポーツ　NO.1293 2011年3月31日号
+29. JAF 国内競技結果検索サービス
+30. ｢GT300には2枚｣ ハイパーレブ RX-7マガジン No,0003 p109　『株式会社ニューズ出版』 1999年9月3日発刊　ISBN 4-938495-15-5
+31. 古屋 知幸　GTインサイドレポート　Round 4 MINE GT RACE　その2 『GTアソシエイション事務局』　1999年7月11日
+32. 中国トピックス　地元GTの意地見せるぞ　高梁の「オークラロータリーレーシング」　あすから英田　「表彰台を狙いたい」『中国新聞』2000.09.08　中国夕刊　夕二　写有　(全426字)
+33. ｢FD3Sサーキットを駆け抜ける｣ ハイパーレブ RX-7マガジン No,0005 p112　『株式会社ニューズ出版』 2000年3月17日発刊　ISBN 4-89107-007-2
+34. 「全日本GT選手権シリーズ第5戦」出場を断念　オークラロータリー（岡山県）『中国新聞』2000年09月10日　中国朝刊　井笠　(全124字)
+35. （響紀行）ロータリーエンジン　拍動せよ、孤高の心臓　【大阪】『朝日新聞』2011年06月25日　大阪夕刊　1頁　1総合　写図有　(全2,425字)

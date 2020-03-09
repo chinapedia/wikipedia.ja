@@ -1,0 +1,426 @@
+> この記事は[Tvk DeNALIVE](https://ja.wikipedia.org/wiki/Tvk_DeNALIVE)から翻訳されています。
+
+
+**『tvkプロ野球中継 横浜DeNAベイスターズ熱烈LIVE』**（ティー・ブイ・ケイ・プロやきゅうちゅけい よこはまディー・エヌ・エー・ベイスターズねつれつライブ）は、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（tvk）で放送される[プロ野球中継](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")。[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")の主催ゲームを中心に年30～40試合ほど放送される。
+
+本項では、過去にテレビ神奈川で放送された中継全般についても記述する。
+
+## 歴史・概要
+
+[1972年](../Page/1972年.md "wikilink")3月、[4月1日](../Page/4月1日.md "wikilink")の開局を目前に控え、[試験放送](https://ja.wikipedia.org/wiki/試験放送 "wikilink")を行っていたテレビ神奈川（TVK）が[大洋ホエールズ対](../Page/横浜DeNAベイスターズ.md "wikilink")[南海ホークスの](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")[オープン戦](../Page/オープン戦.md "wikilink")（[横浜公園平和球場](https://ja.wikipedia.org/wiki/横浜公園平和球場 "wikilink")）を中継したのが、TVKにおけるプロ野球中継の始まりである\[1\]。
+
+以来、[川崎球場](../Page/川崎球場.md "wikilink")を[本拠地としていた大洋](https://ja.wikipedia.org/wiki/専用球場 "wikilink")（1978年からは、[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")への移転に伴い、横浜大洋ホエールズ）の試合を積極的に中継してきた。その間、[1973年](../Page/1973年.md "wikilink")8月に[明治神宮野球場](../Page/明治神宮野球場.md "wikilink")（神宮球場）で初のナイター中継を行った\[2\]。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")4月には、横浜スタジアムの竣工記念として行われた対[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")（巨人）戦が完全放送されている\[3\]。横浜移転後は、大洋戦のほか[ロッテ・オリオンズ](../Page/千葉ロッテマリーンズ.md "wikilink") （川崎球場）、[ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")（神宮球場）の主催ゲームを中心に、[サンテレビのネット受けで](../Page/サンテレビジョン.md "wikilink")[阪神甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")の[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")戦なども放送してきたが、[1993年](../Page/1993年.md "wikilink")に大洋が横浜ベイスターズにチーム名を変更すると同時に、地元密着型の放送へ切り換えている。
+
+また、横浜主催分は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")以降[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[J SPORTS（旧：SKY Sports→Jスカイスポーツ）でも同時放送しており](../Page/J_SPORTS.md "wikilink")、プレイボールからゲームセットまで完全中継していた\[4\]。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")まではTVKでも試合終了まで放送していたが、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")からは最大延長が21時50分までとなった。例外として、ベイスターズが優勝争いの佳境に差し掛かっていた[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")シーズン終盤は『**ベイスターズ・スペシャルナイター**』と題して特別に放送全カードを試合終了まで中継し、38年ぶりのリーグ優勝決定試合も生中継することができた\[5\]。
+
+[2002年](../Page/2002年.md "wikilink")に[東京放送（2009年4月より東京放送ホールディングス）がベイスターズの筆頭株主になってからは](https://ja.wikipedia.org/wiki/東京放送ホールディングス "wikilink")、在京キー局の野球中継と同じく21時25分頃で中継打ち切りとなり、スポンサー減少も伴って中継開始時間繰り下げなどベイスターズ戦中継そのものに消極的な姿勢を見せるようになった。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")からは[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")で『[SWALLOWS BASEBALL L\!VE](https://ja.wikipedia.org/wiki/SWALLOWS_BASEBALL_L!VE "wikilink")』が開始されたことに伴い、神宮球場でナイター開催の横浜戦の中継がなくなった。
+
+本拠地以外の球場においても大洋→横浜とヤクルトの一部の主催試合（[ひたちなか市民球場](https://ja.wikipedia.org/wiki/ひたちなか市民球場 "wikilink")\[6\]、[草薙球場](https://ja.wikipedia.org/wiki/草薙球場 "wikilink")、[平和台野球場](../Page/平和台野球場.md "wikilink")他）が放送されたことがあった。近年は神奈川県内の[平塚球場](https://ja.wikipedia.org/wiki/平塚球場 "wikilink")、[サーティーフォー相模原球場のみ放送されることがある](https://ja.wikipedia.org/wiki/相模原市立相模原球場 "wikilink")。
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")度以降、tvkとJ SPORTSで別制作（後者は[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")と横浜球団関連会社のベイスターズソフトが制作に関与し、横浜球団が著作権を保有）となっているが、2006年度はJ SPORTS制作の中継でtvkアナウンサーが実況することがまれにあった。ただ同年6月9日の横浜対オリックスの交流戦で、tvk制作の中継が（[朝日放送系CS局の](../Page/朝日放送グループホールディングス.md "wikilink")）[スカイ・Aで](../Page/スカイ・エー.md "wikilink")『[アクティブ\!ベースボール](https://ja.wikipedia.org/wiki/アクティブ!ベースボール "wikilink")』として試合開始から完全中継された（J SPORTS制作だが、同局では編成の都合で生中継できなかったために振り替えた）。同日tvkでは18時45分より中継されていた。
+
+2008年からは横浜主催試合のCS放送権が[TBSニュースバードへ移行しているが](https://ja.wikipedia.org/wiki/TBS_NEWS_\(CS放送\) "wikilink")、tvkの中継でも年間に予定される一部試合のうち、TBSニュースバードの中継が同時放送されることもあった\[7\]。特に2010年は大部分がTBSニュースバードの同時放送だった。2014年からは[TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")2に放送権が移行した。
+
+[2015年](../Page/2015年.md "wikilink")[8月](../Page/8月.md "wikilink")からは、tvk[マルチチャンネル](https://ja.wikipedia.org/wiki/マルチチャンネル "wikilink")編成導入により、21:30以降はtvk032チャンネルで最大23:00まで中継延長が行われる。（初実施は8月7日\[8\]）。2018年度の火 - 金曜日は試合開始からメインチャンネル放送開始までの時間も032チャンネルで中継する\[9\]。
+
+tvkは自社でHD対応の大型中継車を所有していないため、球団から公式映像を購入することでHDでの中継が可能になっている（前述のように球団公式映像はTBSテレビが制作。高校野球などアマチュア野球の自社制作中継では大型中継車を[クロステレビ](https://ja.wikipedia.org/wiki/クロステレビ "wikilink")ビジョンからレンタルして対応（車体にはtvkのロゴステッカーを貼付）\[10\]。なお、テレ玉とチバテレも球団から公式映像を購入して中継を行なっている）。
+
+なお、現在のタイトルでのオープニングでは「tvk」と「横浜DeNAベイスターズ」の部分が公式ロゴになっている。
+
+## 番組の変遷
+
+### 複数カード中継時代
+
+  - 『**TVKハイアップナイター**』（1970年代 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）
+      -
+        大洋戦のほか、ロッテ、ヤクルト、日本ハム（[後楽園球場](../Page/後楽園球場.md "wikilink")）、阪神戦を放送。大洋がビジター遠征で、かつヤクルト、ロッテがホームゲームを実施する日にはヤクルト、ロッテの主催試合もTVKが自社製作して放送を行っていた。なお[ジプシー・ロッテ](https://ja.wikipedia.org/wiki/ジプシー・ロッテ "wikilink")時代に[京都市西京極総合運動公園野球場](https://ja.wikipedia.org/wiki/京都市西京極総合運動公園野球場 "wikilink")で行っていたロッテの主管試合（[1973年](../Page/1973年.md "wikilink")[9月](../Page/9月.md "wikilink")）は[近畿放送（現・KBS京都）が制作したものをネットしたことがあった](../Page/京都放送.md "wikilink")。
+        また、[日本テレビ制作の巨人戦](../Page/日本テレビ放送網.md "wikilink")（後楽園）の[トップ&リレー中継なども放送していた](https://ja.wikipedia.org/wiki/プロ野球トップ&リレー中継 "wikilink")。
+  - 『**YOKOHAMAベイサイドナイター**』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") - [1993年](../Page/1993年.md "wikilink")）
+      -
+        中継する試合は「ハイアップナイター」時代とほぼ同じだが、日本テレビのトップ&リレーがなくなる。ナイター補完番組として『[YOKOHAMAベイサイドスタジオ](https://ja.wikipedia.org/wiki/YOKOHAMAベイサイドスタジオ "wikilink")』があったが、大洋の試合時間が長いためか、1989年度から試合が延長すると放送が休止に変更された。
+
+### 1994年から現在までのベイスターズ戦中継
+
+  - 『**YOKOHAMAベイスターズナイター**』（[1994年](../Page/1994年.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）
+      -
+        地元密着型となり、横浜の主催試合や神宮球場のヤクルト対横浜戦（2004年まで中継）だけになっていたが、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")あたりからサンテレビ発の阪神対横浜戦のネット受けも再開される。
+        また、[1993年](../Page/1993年.md "wikilink") - [1994年](../Page/1994年.md "wikilink")には、[フジテレビのナイター中継が](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")19:30からの放送（19:30-ナイター情報、19:34-中継）だった関係で同局が中継する横浜対巨人戦のトップ中継をしたこともあった\[11\]。
+  - 『**tvkプロ野球中継 横浜ベイスターズ熱烈LIVE\!\!**』（[2011年](../Page/2011年.md "wikilink")）→『**tvkプロ野球中継 横浜DeNAベイスターズ熱烈LIVE\!\!**』（[2012年](../Page/2012年.md "wikilink") - ）
+      -
+        2010年までのTBSニュースバードとの同時放送をやめ、全試合自社実況に戻し、これまでより中継数を増加させた。また、データ放送も充実させている。
+        2011年には、[村田修一](https://ja.wikipedia.org/wiki/村田修一 "wikilink")の提供による「気持ち晴レルヤシート」を設け、tvkの中継日に3名または4名の1グループを一塁側の最前列に招待。中継内でリポーターが招待されたグループにインタビューを行っていた。
+
+### ホエールズ・ベイスターズ戦以外
+
+  - 『**[TVKトップナイター](https://ja.wikipedia.org/wiki/プロ野球トップ&リレー中継 "wikilink")**』（巨人戦）　
+      -
+        [日本テレビの制作による](../Page/日本テレビ放送網.md "wikilink")、後楽園球場の巨人主催試合を放送。日本テレビが編成の都合上放送できない試合開始直後からのはみ出た時間帯を収容するために設けられた別ナイター枠。原則18時20分から日本テレビの中継が始まる19時まで放送され、[1982年](../Page/1982年.md "wikilink")からは大洋主催試合放送日は編成から外された。現在は放送していない。なおスコアテロップは日テレからではなく、TVKからの送出だった。
+  - 『**[TVKリレーナイター](https://ja.wikipedia.org/wiki/プロ野球トップ&リレー中継 "wikilink")**』（巨人戦）　
+      -
+        上記と同じく日本テレビの制作による、後楽園球場の巨人主催試合を放送。日本テレビが編成の都合上放送できないはみ出た時間帯を収容するために設けられた別ナイター枠。原則日本テレビの中継が終わる20時54分から（後にCMによる空白時間を無くすため20時53分からとなった）試合終了まで放送した。この番組が編成されていた頃は、どんなに大洋が有利な試合展開であっても一方的に「ハイアップナイター」は打ち切られた。現在は放送していない。
+  - 『**TVKミッドナイトナイター**』（巨人戦）　
+      -
+        [1980年代](../Page/1980年代.md "wikilink")前半に実験的な試みとして、上記2番組と同じく日本テレビの制作による、後楽園球場の巨人主催試合を1時間に編集したものを深夜0時から放送していたが不評のため数試合で終了した。
+
+以上の巨人戦リレーナイターは[千葉テレビ放送](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")、[群馬テレビ](../Page/群馬テレビ.md "wikilink")にも放映された。また[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")も[1979年](../Page/1979年.md "wikilink")の1年だけ放送した。
+
+  - 『**TVKパ・リーグナイター**』（1993年 - 2003年：パ・リーグ戦）　
+      -
+        [パシフィック・リーグ](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")の試合だけを放送するために設けられた別ナイター枠。日本ハム戦（[東京ドーム](../Page/東京ドーム.md "wikilink")。[東京ケーブルネットワーク](../Page/東京ケーブルネットワーク.md "wikilink")・[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")制作。試合により[千葉テレビ放送](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")発）などを少々放送していた。
+  - 『**SEAREX BREEZE**』（イースタンリーグ湘南戦）　
+      -
+        横浜の二軍、[湘南シーレックスの](../Page/横浜DeNAベイスターズ_\(ファーム\).md "wikilink")[イースタン・リーグ](../Page/イースタン・リーグ.md "wikilink")の試合を放送（解説者なし、[DJの栗原治久が実況](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")）していた。[2001年](../Page/2001年.md "wikilink") - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")にかけて、横浜主催ゲームのない日に[明治神宮野球場](../Page/明治神宮野球場.md "wikilink")でのビジター中継を含めた中継がたまに放送されることがあった（録画中継もしばしばあり）。
+
+## 主に中継される試合
+
+### 2009年
+
+  - 横浜ベイスターズのホームゲーム（横浜スタジアム。巨人戦、デーゲームを除く）=tvk制作
+      - 2009年までtvkは横浜スタジアムにHD（ハイビジョン）対応の中継用機材を設置していないため、SD（標準画質）での中継だった。当初2009年シーズンからtvk制作分についてはHD制作になる予定だったが、tvkの諸般事情により見送られた。
+      - [TBS制作](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")（「ザ・プロ野球」の購入放映。TBSニュースバードで放送されるベイスターズ球団制作の試合）の場合も有り、2009年シーズンはその割合が増えている。
+
+### 2010年
+
+  - 横浜ベイスターズのホームゲーム（横浜スタジアム。巨人戦、デーゲームを除く）=tvk制作
+      - 2010年4月時点では33試合のナイトゲームの放送が予定されていた。当初[9月14日](../Page/9月14日.md "wikilink")～[16日の対阪神戦も中継予定に含まれていた](../Page/9月16日.md "wikilink") が、横浜の2010年シーズン負け越し（その後、最下位も確定）決定の為、放送が見送られた。そのため、[9月4日](../Page/9月4日.md "wikilink")の対ヤクルト戦が2010年最後の中継となった。いわゆる5大ネットワークが視聴率の低下などからシーズン途中の中継打ち切り・延長なしとなった事例は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")以後多発しているが、県域独立局、あるいは5大ネットに属する系列局のローカル放送での途中打ち切りはきわめて異例だった。
+      - 2010年シーズンより、TBSテレビ制作の「侍プロ野球」の購入放映も含めてHDによる放送に切り替わった（アナログ放送では16:9レターボックス）。
+      - 原則としてビジターゲームは中継しなくなった。
+      - 2010年までは下記のように、tvk独自中継の場合と、[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")の『BANG BANG BASEBALL』を購入して同時放送する場合があった。2011年からは球団の協力を受け、テロップが乗った状態の球団提供の映像（『BANG BANG BASEBALL』と同一のもの）\[12\]とtvk独自カメラの映像\[13\]を織り交ぜて、音声はtvkの制作、他球場経過の表示場面など、一部テロップはtvk送出のものを使用し、tvkの制作著作として放送している。また、デーゲームの録画中継の場合でも他球場経過は放送されている時間（即ちデーゲームの結果と、ナイターの放送中の時間帯の途中経過）のものを表示している。
+
+### 2011年
+
+  - 横浜スタジアムで開催の横浜ベイスターズの主催試合(対巨人戦、及び一部地方球場での主催試合は除く)を中継。
+      - 前年の33試合から55試合と大幅に増加し、これまでは[競馬中継を優先して放送がほとんどなかった土日デーゲームも一部中継する](../Page/中央競馬ワイド中継.md "wikilink")\[14\]。
+      - 放送時間は(平日)18:00-21:30、(土・日)試合開始から2時間から5時間(試合開始時間による)。各試合の放送時間は下記のリンクで確認。
+      - [東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")による[東京電力](https://ja.wikipedia.org/wiki/東京電力 "wikilink")管内の[計画停電](https://ja.wikipedia.org/wiki/計画停電 "wikilink")の影響により、4月に行われる横浜スタジアムでの試合は平日もデーゲームとなったため、4月の中継は18:00からの録画放送となっている。
+
+### 2012年
+
+  - 中継試合数が27試合と前年55試合から半分以下に大幅に減少。
+  - 前年では対巨人戦を除く土日主催デーゲームもほぼ中継していたが、2012年度は原則として土日もナイターのみ中継となる。
+  - 2012年度の中継は[8月30日](../Page/8月30日.md "wikilink")の対阪神戦で終了となり、9月以降の主催試合はナイターであっても中継しない。
+  - 前年度はTBS仕様のスコアテロップが乗った映像をそのまま使用していたが、2012年度からは映像は公式映像ながらスコアテロップなどはtvk独自のものになった（前年度同様、一部tvk独自カメラの映像が挿入される）。
+
+### 2013年以降
+
+  - 中継数や概要はほぼ2012年と変わらず。2013年は18:30、2014年からは火 - 木曜日18:15、金 - 日曜日は18:30放送開始。終了時刻は火 - 金曜日21:30、土・日曜日は21:50だったが、前述のとおり2015年8月からは032チャンネルとワンセグ2で放送を継続する。
+  - 2016年本拠地開幕戦（3月29日）は、巨人戦ではあるが中継が行われた\[15\]。tvkでの巨人戦中継は数十年ぶりとなった。また通常の中継では、ベンチリポーター1名が両サイドを兼任するが、当日はDeNAサイドに加え、ビジターである巨人サイドにもベンチリポーターが配置された。
+  - 2016年の中継数は32試合と微増。日曜ナイターの中継も復活。しかし例年3連戦全て中継していた「YOKOHAMA STAR☆NIGHT」は、金曜ナイターの1試合のみの中継となる。
+  - 9月22日のヤクルト戦は、祝日デーゲームだが放送が予定されていた。しかし雨天中止となり、24日の巨人戦（同じくデーゲーム）の中継が決まった\[16\]。
+  - 9月29日の本拠地最終戦（対ヤクルト）は、20:00から特別番組として放送、この年で現役引退の[三浦大輔](../Page/三浦大輔.md "wikilink")投手の引退登板やセレモニーの模様を放送した\[17\]\[18\]。
+  - ベイスターズのCSファイナルステージ進出に伴い、マツダスタジアムで行われる10月13日の第2戦(対広島)を放送。解説は平松、実況は吉井で現地（[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")）からの映像を用い[カラ出張](https://ja.wikipedia.org/wiki/カラ出張 "wikilink")形式で中継を行った\[19\]\[20\]。また、横浜スタジアムからの[パブリックビューイング](https://ja.wikipedia.org/wiki/パブリックビューイング "wikilink")リポートを長澤が担当し、現地広島からの電話リポートとして根岸が派遣された。ビジターゲームの放送は、神宮のヤクルト戦を制作していた2004年以来となる。\[21\]
+  - 2017年の中継数は34試合と微増。巨人戦も3試合に増えた。日曜ナイターが再び消滅した。中継日は火曜から金曜のみになり4月5日と9月1日の巨人戦、高校野球中継を優先する7月中旬から8月上旬の一部カードを除き該当の曜日は全て中継予定。
+  - 2017年もベイスターズがCSに進出したことで、10月15日に甲子園で行われたファーストステージ第2戦(対阪神)を放送。解説は遠藤、実況は吉井で現地（[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")）からの映像を用い、テロップを差し替える形でカラ出張にて中継を行った。前年同様、横浜スタジアムからのパブリックビューイングリポートを長澤が、現地甲子園からの電話リポートを根岸が担当した。また、ファイナルステージに進出したことで10月22日にマツダスタジアムで行われる予定だった第4戦(対広島)を平松の解説、吉井の実況で現地（広島ホームテレビ）からの映像を用いカラ出張で中継予定も、台風に伴う悪天候のため試合中止になり中継は幻に終わった。さらに、10月24日に行われる予定だった第6戦を第4戦のスタッフと同じ体制で放送する予定だったが、前日23日の第5戦でベイスターズの日本シリーズ出場が決まったため、こちらの中継も幻となった。
+  - 2018年の中継数は41試合と前年より7試合増えた。巨人戦も9試合と他の対戦カードと同等の扱いになった。土日のナイター中継が復活し8月と9月で合計6試合中継予定。
+  - 2019年の中継数は昨年と変わらず41試合を予定。巨人戦は昨年より2試合少ない7試合、土日のナイター中継は6月と8月に計7試合中継予定。またCSファーストステージに進出したことから10月6日に横浜スタジアムで行われるファーストステージ第2戦を放送する予定である。
+
+<!-- end list -->
+
+  - ハイビジョン制作
+
+（◆は[交流戦](https://ja.wikipedia.org/wiki/セ・パ交流戦 "wikilink")）
+
+  - ◆西武対DeNA戦（[西武ドーム](../Page/西武ドーム.md "wikilink")）＝[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")制作（2009年シーズンは放送なし）
+  - ◆ロッテ対DeNA戦（[千葉マリンスタジアム](../Page/千葉マリンスタジアム.md "wikilink")）＝[千葉テレビ放送](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")制作（2009年シーズンは放送なし）
+  - 阪神対DeNA戦（甲子園球場）＝[サンテレビ制作](../Page/サンテレビジョン.md "wikilink")（水曜日、日曜日のみ[朝日放送制作](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）
+  - 中日対DeNA戦（[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")）＝[三重テレビ制作](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")[三重テレビナイター](https://ja.wikipedia.org/wiki/三重テレビナイター "wikilink")（[東海テレビ制作協力](../Page/東海テレビ放送.md "wikilink")）
+
+<!-- end list -->
+
+  - 過去
+
+<!-- end list -->
+
+  - 1970年代には、大洋対巨人戦も自社制作し、近県の独立UHF局にネットしていた。
+  - 2004年までは神宮球場のヤクルト×横浜戦も自主制作で放送していた他、以前はヤクルト主催の他カードも制作した実績もあるが、2005年からは放送していない。
+  - ヤクルト対阪神（神宮球場）＝[サンテレビ制作](../Page/サンテレビジョン.md "wikilink")
+      - 最近では、2003年9月11日に[東京MXテレビでの放送が](../Page/東京メトロポリタンテレビジョン.md "wikilink")、資本関係からヤクルト主催は対中日戦のみという放映権の都合上できなかったために放送。また、1980年代にはサンテレビがしばしば神宮に乗り込んでいたため、サンテレビからのネット受けでtvkで放送される機会も多かった他、サンテレビ（神宮）とtvk（横浜）の二元中継を行う事もあった。
+
+### 中継ネットワーク局
+
+基本的にはtvkのみの単独ローカル放送となっているが、まれに以下の局へネットする場合がある。
+
+  - [とちぎテレビ](../Page/とちぎテレビ.md "wikilink")（金曜日のみ）ただし2007年は、1試合もネットされなかった。
+  - [TOKYO MXでも本来](../Page/東京メトロポリタンテレビジョン.md "wikilink")、tvk制作のDeNA対ヤクルト戦が放送可能の局であり提供番組スポンサー契約されている東京新聞と東京中日スポーツが担当していたが、未放送である。
+
+<!-- end list -->
+
+  - 過去のネット局
+
+<!-- end list -->
+
+  - 2004年までは横浜対阪神戦のみサンテレビへもネットしていたが、現在はサンテレビの中継が自主制作に切り替わった一方、tvkも自主制作が減少したため、tvkからのネットは行っていない。また、1982年には、大洋対広島戦2試合もネットしていた。
+  - [千葉テレビ放送](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")、[群馬テレビ](../Page/群馬テレビ.md "wikilink")、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")、[びわ湖放送](../Page/びわ湖放送.md "wikilink")、[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")、[奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")、[岐阜放送](../Page/岐阜放送.md "wikilink")、[三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")（横浜×中日戦。～2005年）へもネットを行っていたが、TBS制作中継のtvkでの放送が増加し、tvkの制作が減少した現在はネットされていない。
+  - また、開局当初は[香川県](../Page/香川県.md "wikilink")のみを公式なサービスエリアとしていた[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")に向けての同時ネットの試合もあった。
+
+## 出演者
+
+### 解説者
+
+※●印は、DeNA（2011年までは横浜）球団職員を務める傍ら出演経験のある人物。
+
+#### 現在の解説者
+
+  - [松原誠](https://ja.wikipedia.org/wiki/松原誠 "wikilink")（1992年 - 2000年、2005年 - 。）
+  - [平松政次](https://ja.wikipedia.org/wiki/平松政次 "wikilink")（フジテレビ解説者兼）
+  - [齊藤明雄](https://ja.wikipedia.org/wiki/齊藤明雄 "wikilink")（2001年 - 2006年、2009年 - 2012年、2015年 - 。フジテレビ・[J SPORTS解説者兼](../Page/J_SPORTS.md "wikilink")）
+  - [遠藤一彦](https://ja.wikipedia.org/wiki/遠藤一彦 "wikilink")（[TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")解説者兼）●
+  - [野村弘樹](https://ja.wikipedia.org/wiki/野村弘樹 "wikilink")（2006年、2011年 - 。フジテレビ・[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")・J SPORTS・TBSチャンネル・[ニッポン放送](../Page/ニッポン放送.md "wikilink")解説者兼）
+  - [森本稀哲](https://ja.wikipedia.org/wiki/森本稀哲 "wikilink")（2016年 - \[22\]。在札各局・[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")・TBSチャンネル・[テレ玉ゲスト解説兼](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
+  - [谷繁元信](https://ja.wikipedia.org/wiki/谷繁元信 "wikilink")（2017年 -。フジテレビ・[メ～テレ](https://ja.wikipedia.org/wiki/メ～テレ "wikilink")・[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")ゲスト・[ニッポン放送](../Page/ニッポン放送.md "wikilink")・[東海ラジオ](https://ja.wikipedia.org/wiki/東海ラジオ "wikilink")・[DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink")解説者兼）
+  - [佐伯貴弘](https://ja.wikipedia.org/wiki/佐伯貴弘 "wikilink")（2018年 -。TBSチャンネル・[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")ゲスト解説者兼）
+  - [多村仁志](https://ja.wikipedia.org/wiki/多村仁志 "wikilink")（2018年 -。TBSチャンネル・J SPORTS解説者兼）
+
+tvk自社制作中継ではホエールズ・ベイスターズOBにほぼ限定してキャスティングしている。また、TBSチャンネルの中継とは差別化を図り、[フジサンケイグループ](https://ja.wikipedia.org/wiki/フジサンケイグループ "wikilink")の放送局（フジテレビ、ニッポン放送、文化放送）と契約する解説者が多く担当している（TBSが親会社になる以前のベイスターズのテレビ放映権をフジテレビが持っていたり、ラジオ放映権がニッポン放送、文化放送の所属するNRN独占だったため、ベイスターズOBでTBS解説者でない人物は必然的にフジサンケイグループ所属が多いという事情もある）。
+
+#### 過去の解説者
+
+  - tvk自社制作中継出演
+
+<!-- end list -->
+
+  - [秋山登](https://ja.wikipedia.org/wiki/秋山登 "wikilink")（1978年 - 2000年）
+  - [阿波野秀幸](https://ja.wikipedia.org/wiki/阿波野秀幸 "wikilink")（現・中日1軍投手コーチ）
+  - [池谷公二郎](https://ja.wikipedia.org/wiki/池谷公二郎 "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・[広島テレビ解説者](../Page/広島テレビ放送.md "wikilink")。広島テレビに同時ネットされた1986年4月13日の対広島戦に出演）\[23\]　
+  - [伊藤勲](https://ja.wikipedia.org/wiki/伊藤勲_\(野球\) "wikilink")
+  - [伊原春樹](https://ja.wikipedia.org/wiki/伊原春樹 "wikilink")（2005年5月20日の横浜対西武交流戦を担当\[24\]）
+  - [大下弘](https://ja.wikipedia.org/wiki/大下弘 "wikilink")（1973年）
+  - [大矢明彦](https://ja.wikipedia.org/wiki/大矢明彦 "wikilink")
+  - [長田幸雄](https://ja.wikipedia.org/wiki/長田幸雄 "wikilink")
+  - [木田勇](https://ja.wikipedia.org/wiki/木田勇 "wikilink")（1997年 - 1998年。1990年現役引退。1998年発行『やくみつるのベイスターズ心中』内事典コーナーの「テレビ神奈川」において、解説者の一人として記述あり。2000年以降の『12球団全選手カラー百科名鑑』シリーズでは確認できず。以上のことから、1990年代に務めていたことを明記します。）
+  - [近藤昭仁](../Page/近藤昭仁.md "wikilink")
+  - [佐々木信也](../Page/佐々木信也.md "wikilink")
+  - [鈴木隆](https://ja.wikipedia.org/wiki/鈴木隆_\(投手\) "wikilink")（1977年 - 1984年、1989年 - 2005年）
+  - [高木豊](https://ja.wikipedia.org/wiki/高木豊 "wikilink")
+  - [田代照勝](https://ja.wikipedia.org/wiki/田代照勝 "wikilink")
+  - [田代富雄](https://ja.wikipedia.org/wiki/田代富雄 "wikilink")（1992年 - 1996年。ニッポン放送解説者兼。現・DeNA1軍打撃コーチ）
+  - [高橋雅裕](https://ja.wikipedia.org/wiki/高橋雅裕 "wikilink")（2006年 - 2007年。J SPORTS解説者兼）
+  - [辻恭彦](https://ja.wikipedia.org/wiki/辻恭彦 "wikilink")（2000年 - 2007年 ）
+  - [土井淳](https://ja.wikipedia.org/wiki/土井淳 "wikilink")（2001年 - ?）
+  - [長池徳士](https://ja.wikipedia.org/wiki/長池徳士 "wikilink")（在任当時日本テレビ・[福岡放送](../Page/福岡放送.md "wikilink")・[ラジオ関西](../Page/ラジオ関西.md "wikilink")解説者兼）
+  - [中塚政幸](https://ja.wikipedia.org/wiki/中塚政幸 "wikilink")
+  - [野村収](https://ja.wikipedia.org/wiki/野村収 "wikilink")（1996年 - 2003年。J SPORTSと兼任していた時期あり）
+  - [畠山準](https://ja.wikipedia.org/wiki/畠山準 "wikilink")（2001年? - 2006年頃 。年数回のゲスト\[25\]、のちに準レギュラー\[26\]）●
+  - [波留敏夫](https://ja.wikipedia.org/wiki/波留敏夫 "wikilink")（2005年。現・中日1軍打撃コーチ）
+  - [別所毅彦](https://ja.wikipedia.org/wiki/別所毅彦 "wikilink")（1970年代初めに出演。フジテレビ・文化放送解説者兼）
+  - [三浦大輔](../Page/三浦大輔.md "wikilink")（2017年 - 2018年。現・DeNA1軍投手コーチ）
+  - [基満男](https://ja.wikipedia.org/wiki/基満男 "wikilink")（1989年。RKB解説者兼）
+  - [盛田幸妃](https://ja.wikipedia.org/wiki/盛田幸妃 "wikilink")（2003年 - 2007年。[TBSラジオ](../Page/TBSラジオ.md "wikilink")・[北海道放送](../Page/北海道放送.md "wikilink")解説者兼。2008年以降はTBSニュースバード制作中継に出演）●
+  - [森中千香良](https://ja.wikipedia.org/wiki/森中千香良 "wikilink")（1976年 - 1995年。ニッポン放送解説者兼）
+  - [屋鋪要](https://ja.wikipedia.org/wiki/屋鋪要 "wikilink")（1996年 - 1997年）
+  - [堀井恒雄](https://ja.wikipedia.org/wiki/堀井恒雄 "wikilink")（1997年）
+  - [若生忠男](https://ja.wikipedia.org/wiki/若生忠男 "wikilink")
+
+<!-- end list -->
+
+  - TBSニュースバード制作中継のみ
+
+<!-- end list -->
+
+  - [衣笠祥雄](https://ja.wikipedia.org/wiki/衣笠祥雄 "wikilink")（TBSテレビ・ラジオ解説者兼）
+  - [槙原寛己](https://ja.wikipedia.org/wiki/槙原寛己 "wikilink")（TBSテレビ・ラジオ解説者兼）
+  - [佐々木主浩](../Page/佐々木主浩.md "wikilink")（TBSテレビ・ラジオ解説者兼）
+  - [牛島和彦](https://ja.wikipedia.org/wiki/牛島和彦 "wikilink")（TBSラジオ・[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・[CBCラジオ](https://ja.wikipedia.org/wiki/CBCラジオ "wikilink")解説者兼）
+  - [佐々岡真司](https://ja.wikipedia.org/wiki/佐々岡真司 "wikilink")（対広島戦のみ出演。[中国放送](../Page/中国放送.md "wikilink")・TBSラジオ解説者兼。現・広島1軍投手コーチ）
+  - [田淵幸一](https://ja.wikipedia.org/wiki/田淵幸一 "wikilink")
+  - [川口和久](https://ja.wikipedia.org/wiki/川口和久 "wikilink")
+
+### 実況アナウンサー・リポーター
+
+※基本的にはtvkアナウンサーが担当するが、[高校野球神奈川県予選期間中はこちらの実況が優先となるため](https://ja.wikipedia.org/wiki/全国高等学校野球選手権神奈川大会 "wikilink")、その期間はフリーアナウンサーが担当することがある。●印は、フリーアナウンサー。
+
+#### 現在の実況アナウンサー･リポーター
+
+  - [吉井祥博](https://ja.wikipedia.org/wiki/吉井祥博 "wikilink")（1990年代後半 - ）
+  - [根岸佑輔](https://ja.wikipedia.org/wiki/根岸佑輔 "wikilink")（2011年 - 。5月15日からリポーターとして参加し、9月6日の「横浜×[東京ヤクルト](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")」戦で初実況を担当）
+  - [四家秀治](../Page/四家秀治.md "wikilink")（2011年7月 - ）●
+  - [瀬村奈月](https://ja.wikipedia.org/wiki/瀬村奈月 "wikilink")（2018年8月19日 - ）リポーターのみ担当
+  - [赤井祐紀](https://ja.wikipedia.org/wiki/赤井祐紀 "wikilink")（2019年5月16日 - ）リポーターのみ担当
+
+#### 過去の実況アナウンサー･リポーター
+
+  - 『TVKハイアップナイター』時代
+
+<!-- end list -->
+
+  - [岡村光芳](https://ja.wikipedia.org/wiki/岡村光芳 "wikilink")（1970年代 - 1980年代?）
+  - [辻豊人](https://ja.wikipedia.org/wiki/辻豊人 "wikilink")（1970年代 - 1980年代前半）
+  - [岡田実](https://ja.wikipedia.org/wiki/岡田実_\(アナウンサー\) "wikilink")●
+
+<!-- end list -->
+
+  - 『ベイサイドナイター』時代
+
+<!-- end list -->
+
+  - [豊川浩](https://ja.wikipedia.org/wiki/豊川浩 "wikilink")
+  - [阿部実](https://ja.wikipedia.org/wiki/阿部実 "wikilink")
+
+<!-- end list -->
+
+  - 『ベイスターズナイター』時代
+
+<!-- end list -->
+
+  - [田中大士](https://ja.wikipedia.org/wiki/田中大士 "wikilink")
+  - [久保弘毅](https://ja.wikipedia.org/wiki/久保弘毅 "wikilink")（1990年代後半 - 2005年）
+  - [富樫吉樹](https://ja.wikipedia.org/wiki/富樫吉樹 "wikilink")（1998年頃 - 2009年頃）
+  - [佐藤亜樹](https://ja.wikipedia.org/wiki/佐藤亜樹 "wikilink")（2000年代 - 2014年）\[27\]
+  - [島碩弥](https://ja.wikipedia.org/wiki/島碩弥 "wikilink")（1994年 - ?。RFラジオ日本退社後に担当）●
+  - [深澤弘](https://ja.wikipedia.org/wiki/深澤弘 "wikilink")（1990年代 - 2000年代。1994年のニッポン放送退社後に担当）●
+  - [枇杷阪明](https://ja.wikipedia.org/wiki/枇杷阪明 "wikilink")●
+  - [石川顕](https://ja.wikipedia.org/wiki/石川顯 "wikilink")（2000年代。2001年8月の東京放送定年退職後に担当）●
+  - [胡口和雄](https://ja.wikipedia.org/wiki/胡口和雄 "wikilink")●
+  - [坂信一郎](../Page/坂信一郎.md "wikilink")●
+  - [上野晃](../Page/上野晃.md "wikilink")●
+
+以下3名は2008年 - 2010年のTBSニュースバードとの同時放送の試合を主に担当（tvkとの同時ネット分はTBSアナウンサーは出演しないため）
+
+  - [山田透](https://ja.wikipedia.org/wiki/山田透 "wikilink")●
+  - [加藤暁](https://ja.wikipedia.org/wiki/加藤暁 "wikilink")●
+  - [石原敬士](https://ja.wikipedia.org/wiki/石原敬士 "wikilink")●
+
+<!-- end list -->
+
+  - ベイスターズリポーター（2004年 - 2011年）
+
+<!-- end list -->
+
+  - [大矢陽子](https://ja.wikipedia.org/wiki/大矢陽子 "wikilink")（2004年 - 2005年。オフィシャルリポーター）
+  - [吉岡さちこ](https://ja.wikipedia.org/wiki/吉岡さちこ "wikilink")（2005年 - 2009年。オフィシャルリポーター）
+  - [芦崎愛](https://ja.wikipedia.org/wiki/芦崎愛 "wikilink")（2010年 - 2011年。オフィシャルリポーター。球団制作の一部試合のみ登場）
+  - [ケチャップ](https://ja.wikipedia.org/wiki/ケチャップ_\(タレント\) "wikilink")（球団制作の一部試合のみ登場）
+
+<!-- end list -->
+
+  - 『熱烈LIVE』時代
+
+<!-- end list -->
+
+  - [森田浩康](https://ja.wikipedia.org/wiki/森田浩康 "wikilink")（1979年? - 2016年）
+  - [長澤彩子](https://ja.wikipedia.org/wiki/長澤彩子 "wikilink")（2015年8月20日 - 2018年）リポーターのみ担当
+
+以下3名は実況のみ担当
+
+  - [宮田統樹](https://ja.wikipedia.org/wiki/宮田統樹 "wikilink")（2000年代、2011年 。ニッポン放送嘱託兼）●
+  - [黒沢幸司](https://ja.wikipedia.org/wiki/黒沢幸司 "wikilink")（2011年 ）●
+  - [松岡俊道](https://ja.wikipedia.org/wiki/松岡俊道 "wikilink")（2011年。※それ以前にも担当。[J SPORTS](../Page/J_SPORTS.md "wikilink")・[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")『[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")』兼）●
+
+<!-- end list -->
+
+  - 『SEAREX BREEZE』実況
+
+<!-- end list -->
+
+  - [栗原治久](https://ja.wikipedia.org/wiki/栗原治久 "wikilink")
+
+## 期間限定企画
+
+tvkでは横浜スタジアムでの7・8月の[夏休み](../Page/夏休み.md "wikilink")期間にあるベイスターズ主催試合に関して、ベイスターズファンの親子を無料で放送席にご招待するキャンペーンを行う。原則として対象試合1組2名の小中学生以下の子供たちとその保護者をtvkの放送席に招き、解説者と放送を楽しむことができる。\[28\]
+
+## 過去に行われた企画
+
+  - **シャッフルクイズ**（1995年 - 2000年ごろ）
+
+<!-- end list -->
+
+  -
+    各回、両軍攻撃終了後（または投手交代時）のCM入りから30秒後に一文字ずつキーワードを出題、横浜スタジアムで開催される横浜ベイスターズ主催試合のチケットや、横浜ベイスターズ選手のサイン入りグッズなどが当るクイズを行っていたが、現在は行っていない。
+
+<!-- end list -->
+
+  - **ベイサイドステーション対決企画**（1997年ごろ）
+
+<!-- end list -->
+
+  -
+    横浜対阪神戦の中継時のみ行われた企画で、TVK（横浜）とサンテレビ（神戸）両局のアナウンサーが実況対決を行う企画。これはサンテレビ制作の同カードの中継でも行われた。
+
+<!-- end list -->
+
+  - **テレゴング企画**（年度不明）
+
+## 備考
+
+土曜日・日曜日のナイターについてはDeNA主催試合を除いて放送していない（土曜日は20:55より「[あっぱれ\!KANAGAWA大行進](https://ja.wikipedia.org/wiki/あっぱれ!KANAGAWA大行進 "wikilink")」を放送しているが、土・日にDeNA戦を中継する場合は同番組を休止して放送する）。但し、2006年9月10日（日曜日）の「阪神×横浜」は対阪神戦の最終試合という事もあって、実況、解説はABC、制作ABCとSUN-TVで放送された。
+
+平日が祝日の場合は「tvkニュース930」が休止となり、21:45まで放送する。
+
+毎年7月の[高校野球](https://ja.wikipedia.org/wiki/高校野球 "wikilink")期間中は「高校野球ニュース」（高校野球神奈川県大会の速報番組）を放送するため、中継終了時間が通常より早まる。
+
+2007年までJ SPORTS制作分の土・日・祝日の横浜ホーム戦中継でJ SPORTSでは[副音声](https://ja.wikipedia.org/wiki/副音声 "wikilink")（FMハマスタ）を放送していた。2007年4月21日のデーゲーム「横浜×広島」戦は「[Asahi富士山のバナジウム天然水](../Page/アサヒ飲料.md "wikilink")」のスポンサー協賛試合となり、この日は14:00 - 16:55の時間帯にて『**Asahi 富士山のバナジウム天然水Presents 横浜ベイスターズ中継**』と題して放送（同日に限り『[中央競馬ワイド中継](../Page/中央競馬ワイド中継.md "wikilink")』を14:00で[飛び降り](https://ja.wikipedia.org/wiki/飛び降り_\(放送\) "wikilink")、第2部休止）。横浜球場ではベイスターズロゴ入りの同商品ボトルなどが配布された。また、同試合の始球式は「[1230アッと\!\!ハマランチョ](https://ja.wikipedia.org/wiki/1230アッと!!ハマランチョ "wikilink")」月・火曜司会の[金田賢一](https://ja.wikipedia.org/wiki/金田賢一 "wikilink")が務めた。ほか、デーゲーム中継番組中に同商品のプレゼントクイズなども行われた。
+
+2008年は「ハマの星を支援\!\!地球を支援\!\!キャンペーン」と題し、tvkが制作・放送するベイスターズ球団主催試合で勝利を挙げるごとに当日の有料入場者数×10円（例・3万人である場合は3万×10＝30万円）を[WFPの食糧支援キャンペーンに寄付される](https://ja.wikipedia.org/wiki/国際連合世界食糧計画 "wikilink")。
+
+2008年からは、中日対DeNA（三重テレビ制作）、阪神対DeNA（サンテレビ制作）、西武×DeNA（テレビ埼玉制作）の中継は地上デジタル放送ではハイビジョンで放送されている。
+
+TBSニュースバード制作中継を放送する際、
+
+また、ロッテが川崎球場を本拠地としていた時代のごく一時期、TVKが大洋・ヤクルト主管試合を放送するためにロッテ主管試合を放送できない日、なおかつ、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")で放送する西武戦（主管・ビジターを問わず）、日本ハム主管試合の放送がない時には「[TVSヒットナイター](../Page/TVSヒットナイター.md "wikilink")」としてロッテ主管の試合を放送したことがあった\[29\]。
+
+## 脚注
+
+### 出典
+
+### 注釈
+
+## 関連項目
+
+  - [放映権 (日本プロ野球)](https://ja.wikipedia.org/wiki/放映権_\(日本プロ野球\) "wikilink")
+  - [ニッポン放送ショウアップナイター](../Page/ニッポン放送ショウアップナイター.md "wikilink")（ニッポン放送のプロ野球中継）
+  - [TBSラジオ エキサイトベースボール](../Page/TBSラジオ_エキサイトベースボール.md "wikilink")（TBSラジオのプロ野球中継、2017年を最後に中継から撤退）
+  - [アサヒ飲料](../Page/アサヒ飲料.md "wikilink") - 協賛スポンサー（デーゲームのみ）
+  - [TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")（制作協力）
+  - [東通](https://ja.wikipedia.org/wiki/東通 "wikilink")（技術協力）
+  - [プロ野球トップ&リレー中継](https://ja.wikipedia.org/wiki/プロ野球トップ&リレー中継 "wikilink")
+  - [雨傘番組](https://ja.wikipedia.org/wiki/雨傘番組 "wikilink")
+  - [ハマスタWAVE](https://ja.wikipedia.org/wiki/ハマスタWAVE "wikilink")
+
+## 外部リンク
+
+  - [tvkプロ野球中継 横浜DeNAベイスターズ熱烈LIVE](http://www.tvk-yokohama.com/baystars/)
+
+  -
+<!-- end list -->
+
+  - 過去の中継番組サイト保存キャッシュ一覧
+
+<!-- end list -->
+
+  - [（2004年 - 2007年）](https://web.archive.org/web/*/http://www.tvk-yokohama.com/baystars/)
+  - [（2001年 - 2006年）](https://web.archive.org/web/*/http://www.tvk42.co.jp/baystars/)
+  - [1997 TVKベイスターズナイター パ・リーグナイター放送予定](http://web.archive.org/web/19970710140400/http://www.tvk42.co.jp/yb.htm) - 1997年7月10日付保存キャッシュ
+
+[Category:テレビ神奈川の番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組 "wikilink") [Category:関東・甲信越地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのスポーツ番組 "wikilink") [Category:野球番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(テレビ\) "wikilink") [Category:横浜DeNAベイスターズ](https://ja.wikipedia.org/wiki/Category:横浜DeNAベイスターズ "wikilink") [Category:1972年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1972年のテレビ番組_\(日本\) "wikilink") [Category:2011年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2011年のテレビ番組_\(日本\) "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+
+1.  [tvk40年の歩み｜tvk開局40周年記念サイト](http://wayback.archive.org/web/20121004125842/http://www.tvk-yokohama.com/40th/history.html) - リンク先は、インターネットアーカイブ2012年10月4日付保存キャッシュ。
+2.
+3.
+4.  SKY Sportsは[スカパー\!陣営だったが](../Page/スカパー!プレミアムサービス.md "wikilink")、当時は競合する[スカイポート](../Page/スカイポート.md "wikilink")(1995-1997年)→[ディレクTV](../Page/ディレクTV.md "wikilink")(1998年-1999年)で「TVKスーパーステーション 」→ 「Ch-YOKOHAMA」→「YokohamaベイサイドTV」としてtvkの全番組をそのまま再送信していた。
+5.  この試合は甲子園球場での阪神主催試合だったためサンテレビからのネット受け中継だったが、TVK専属野球解説者だった秋山登が特別にゲスト解説者として甲子園の実況席に招かれている
+6.  [地元局が現存しない](../Page/全国独立放送協議会.md "wikilink")[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")では、tvkを[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")で配信している局がある。
+7.  製作著作:TBS・球団（2008年までは制作:TBSテレビ、著作:TBS・球団のクレジットだった）。ただし制作協力として[東通](https://ja.wikipedia.org/wiki/東通 "wikilink")などが加わる場合もある。
+    放送時間はTBSニュースバードは2008年は17時57分から試合終了まで、2009年以降は17時55分から試合終了までとなっている。
+    なお、tvkは当ページ冒頭の説明を参照。
+8.  [横浜DeNAベイスターズ熱烈LIVE](https://twitter.com/tvk_DB/status/629631264471932928)番組公式twitter 2015年8月7日
+9.  [ベイスターズ戦tvk中継は41試合！ 2018年は大幅アップ＆延長放送も実施！](https://news.walkerplus.com/article/139624/) News Walker 2018年3月6日
+10. 技術会社からレンタルする場合は、借り受けた局のロゴステッカーを貼り付ける例が多い。
+11. それ以前には、1970 - 1980年代に[静岡草薙球場で開催された大洋主催試合において](../Page/静岡県草薙総合運動場硬式野球場.md "wikilink")、[フジテレビ系列局の](https://ja.wikipedia.org/wiki/フジネットワーク "wikilink")[テレビ静岡](../Page/テレビ静岡.md "wikilink")と共同制作を行っていた。
+12. 球団提供の映像は[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")が実質的に制作しているが、エンドクレジットは協力:横浜DeNAベイスターズ 制作協力:WOOD'S OFFICE 制作著作:tvkとなっており、TBSテレビはクレジットされていない。
+13. tvk独自カメラにはHD非対応のものがあり、そのカメラからの映像はアップコンバートしているため映像がぼやける。
+14. [LIVE\&REPORT 中央競馬中継は各局任意のネット編成となったためで](https://ja.wikipedia.org/wiki/LIVE&REPORT_中央競馬中継 "wikilink")、TVKでは随時特番があった場合には競馬放送を休止することが多い
+15. [ｔｖｋ（テレビ神奈川）](https://twitter.com/tvk_3ch/status/704569695983136768) 2016年3月1日
+16. [tvkスポーツ](https://twitter.com/tvksports/status/778798813863489536) 2016年9月22日
+17. [9月29日（木）今度こそ本拠地最終戦\!?「横浜DeNAベイスターズ スペシャルLIVE」放送決定！](http://www.tvk-yokohama.com/company/release/160927.pdf) tvkニュースリリース 2016年9月27日
+18. 18:00 - 19:58、21:30以降はサブチャンネル(032ch)で放送。また19:58 - 20:00は別途『[ありあけハーバーpresentsありがとう](https://ja.wikipedia.org/wiki/ありあけのハーバー "wikilink")[三浦大輔](../Page/三浦大輔.md "wikilink")\!ナイター放送直前情報』を放送した。
+19. [衝撃！　広島ｖｓＤｅＮＡ戦、広島地区以外で中継見られない！？](http://www.zakzak.co.jp/sports/baseball/news/20161014/bbl1610141140004-n1.htm) ZAKZAK（夕刊フジ）2016年10月14日
+20. テロップは自社のものを使用した。
+21. [横浜DeNAベイスターズCSファイナルステージ進出\!緊急編成\!第2戦、放送決定\!\!](http://www.tvk-yokohama.com/company/release/161011.pdf) tvkニュースリリース 2016年10月11日
+22. 2016年7月1日の「DeNA×広島」戦で初出演
+23. 出典：[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")（首都圏版）・[山陽新聞](../Page/山陽新聞.md "wikilink")テレビ・ラジオ欄。秋山登との2人解説で出演。デーゲーム開催だったがtvkでは競馬中継の関係上録画で、広島テレビでは裏送りにより生中継で放送された。
+24. [該当試合含む放送予定リスト（2005年4月8日 - 2005年6月8日）](http://wayback.archive.org/web/20051109075026/http://www.tvk-yokohama.com/cgi-bin/baystars/com.cgi?tid=list1com&not1=0000&p=0) - インターネットアーカイブ2005年11月9日付保存キャッシュ
+25. 『12球団全選手カラー百科名鑑2002』P236プロフィール内寸評を参照。
+26. 『12球団全選手カラー百科名鑑2003』P236プロフィール内寸評を参照。
+27. 主にリポーターとしての出演だったが、2011年5月26日のセ･パ交流戦「横浜×[東北楽天](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")」戦で、tvk女性アナウンサーとして初の実況を担当し、その後も年数試合実況を担当した。
+28. 類似の企画としては[サンテレビボックス席](../Page/サンテレビボックス席.md "wikilink")でも[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")の甲子園主催試合でそれが行われている。過去には常時募集していたが、現在一般公募はしておらず、夏休みのタイガース子供の会（現タイガース公認ファンクラブ・ジュニア会員）招待のみである。
+29. TVSもTVK同様、東京都（離島は除く）の大多数をサービスエリアとしている他、都心23区に近い[川崎市](../Page/川崎市.md "wikilink")や[狭山丘陵](https://ja.wikipedia.org/wiki/狭山丘陵 "wikilink")に位置する旧[西多摩郡](../Page/西多摩郡.md "wikilink")に近接する[相模原市](../Page/相模原市.md "wikilink")の一部地域でも直接受信が可能である。

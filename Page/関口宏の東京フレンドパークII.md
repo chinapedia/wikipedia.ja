@@ -1,0 +1,940 @@
+> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+
+
+**関口宏の東京フレンドパークII**（せきぐちひろしのとうきょうフレンドパークツー）は、[1994年](../Page/1994年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで、[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[系列で毎週放送された](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")[ゲーム](https://ja.wikipedia.org/wiki/ゲーム番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")であり、[関口宏](../Page/関口宏.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")であもる。
+
+2009年度以外は、毎週[月曜日](../Page/月曜日.md "wikilink")の19時台に放送された。2010年度の放送時間は、月曜日の19:00 - 19:55 ([JST](../Page/日本標準時.md "wikilink"))。[毎日放送](../Page/毎日放送.md "wikilink")を含めた[JNN各局が指定する](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")「**青少年に見てもらいたい番組**」でもあった\[1\]\[2\]\[3\]\[4\]。
+
+略称は「**フレンドパーク**」、「**フレパ**」\[5\]\[6\]、「**フレパー**」\[7\]\[8\]、「**TFP2**」（**T**okyo **F**riend **P**ark **2**の略で、番組ロゴとしても使用されていた。[ハイビジョン制作](https://ja.wikipedia.org/wiki/ハイビジョン制作 "wikilink")（●年●月から実施。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")放送分からは、アナログ放送は[レターボックス形式で放送](https://ja.wikipedia.org/wiki/レターボックス_\(映像技術\) "wikilink")）、[字幕放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")（2002年4月8日放送分より）。
+
+本番組の前身であり、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")から[1993年](../Page/1993年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")まで同時間帯で放送されていた『**[ムーブ](https://ja.wikipedia.org/wiki/ムーブ_\(バラエティー\) "wikilink")・関口宏の東京フレンドパーク**』、そして本番組の放送終了直後に一部放送局で放送されていたミニ番組『**[後のまつり](https://ja.wikipedia.org/wiki/#ミニ番組 "wikilink")**』についても、本項目で併せて記述する。
+
+2017年1月以降放送されている特番については『**[関口宏の東京フレンドパーク ドラマ大集合SP\!\!](https://ja.wikipedia.org/wiki/関口宏の東京フレンドパーク_ドラマ大集合SP!! "wikilink")**』で記述する。
+
+## 概要
+
+[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")に、TBSの19時台に設けられたバラエティー枠『[ムーブ](https://ja.wikipedia.org/wiki/ムーブ_\(バラエティー\) "wikilink")』の1番組として『関口宏の東京フレンドパーク』が放送開始。視聴率は低迷し1年で終了したものの、『[ザッツ\!・関口宏のPAPAパラダイス](https://ja.wikipedia.org/wiki/関口宏のPAPAパラダイス "wikilink")』を間に挟み半年後の[1994年](../Page/1994年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")に『関口宏の東京フレンドパークII』として、放送を再開した。 体を使うミニゲームをテーマとした[テーマパーク](../Page/テーマパーク.md "wikilink")と言う体裁の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")で、週替わりのゲストが2人ペアないし3人以上で登場し、5つの[アトラクションに挑戦し](https://ja.wikipedia.org/wiki/東京フレンドパークのアトラクション一覧 "wikilink")、最終コーナー「ビッグチャレンジ」で賞品を獲得するというのが主な番組の流れ。
+
+番組内では司会の[関口宏](../Page/関口宏.md "wikilink")を「支配人」、[渡辺正行](https://ja.wikipedia.org/wiki/渡辺正行 "wikilink")を「副支配人」と呼び、アトラクション・ビッグチャレンジともに支配人が[審判](https://ja.wikipedia.org/wiki/審判 "wikilink")を務める。また支配人は[呼子笛](https://ja.wikipedia.org/wiki/呼子笛 "wikilink")を胸ポケットから提げており、ゲームのスタート・ゲストや従業員への突っ込み・ハイパーホッケーのパックが飛んだりした時に吹き鳴らす。
+
+[TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")にて、[2009年](../Page/2009年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")より、毎週月曜21:00に『ムーブ・東京フレンドパーク』時代の番組が[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月10日](../Page/5月10日.md "wikilink")まで再放送された。2010年3月までは本編終了後、その週の木曜日に地上波で放送予定分の番宣が流れていた（TBS系列局の受信できない地域（直接受信・ケーブルテレビとも受信できない場合のこと）では視聴できない。番組自体休止の場合は番宣の放送はない）。
+
+番組のタイトルロゴ、オープニングテーマ、歴代のセット、CM入りジングル、金貨獲得時・不獲得時BGMと金貨のアニメーション\[9\]、エンディングテーマについては後述するため割愛するが、その他にも初期に変更があった。CM明けBGMとアトラクション開始時BGMについてはハイパーホッケー以外は第1回放送よりスペシャル含めて毎週同じもので固定されていたが、1994年4月初回放送時より使用されていたものが2000年4月10日放送で、その2000年4月10日放送より使用されていたものを後述の2005年9月26日放送分で変更しているため、2度変更された。
+
+TBS系列局のない地域について、レギュラーでの系列外ネットはなかったが、[系列外局の](../Page/フジニュースネットワーク.md "wikilink")[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")が単発で数回放送を行った実績がある。
+
+### 特別版
+
+2003年から2006年までは1月2日（もしくは3日）に『新春特別営業』としてスペシャル版が放送されていたが、2008年12月の[当時のTBS社長の定例記者会見で](https://ja.wikipedia.org/wiki/井上弘 "wikilink")、2009年1月1日（木）にそれまで毎年放送されていた『[スポーツマンNo.1決定戦](https://ja.wikipedia.org/wiki/最強の男は誰だ!壮絶筋肉バトル!!スポーツマンNo.1決定戦 "wikilink")』に替わり本番組のスペシャル版を放送することを発表。本番組最長の放送時間となる4時間半スペシャルが放送された。各界のスポーツ選手4チームの対抗戦で、ルールが対戦形式にアレンジされた。[東京フレンドパークのアトラクション一覧\#2009元日SP](https://ja.wikipedia.org/wiki/東京フレンドパークのアトラクション一覧#2009元日SP "wikilink")を参照。
+
+### 視聴率
+
+『ムーブ・東京フレンドパーク』時代は1年で終了したが、『東京フレンドパークII』は開始当初から高視聴率を記録した。絶頂期には、関東地区では20%前後を推移し（最高視聴率は1996年11月4日放送の26.0%）、家庭用テレビの過疎化が進み20%を取ることが難しくなった2004年以降も17%前後を記録するなど、TBSの人気番組の一つとして幅広い視聴者層をもった[長寿番組](https://ja.wikipedia.org/wiki/長寿番組 "wikilink")である。 最後に20%越えを記録したのは2005年9月26日SP放送の21%（関東地区）であり、2006年頃から木曜日20時台に移動する前の2009年3月までは平均15 - 17%で推移した。
+
+関西地区では、放送開始当初は低迷していたものの、木曜日20時台に移動する前までは10%台後半を記録することもあり回によっては関東を上回ることもあった。
+
+2009年度の木曜20時台での放送は、夏頃から10%を切ることも増え月曜第1期の頃より大きく下がった。2010年度は放送時間が再び月曜19時台へと戻ったが、視聴率は平均7 - 9%で推移していた。
+
+## 放送時間
+
+### 2度の放送枠移動
+
+#### 2009年度・木曜20時台へ
+
+2008年11月に、2009年3月30日より平日の17:50 - 19:50 (JST) の時間帯に2時間の[報道番組](../Page/報道番組.md "wikilink")『**[総力報道\!THE NEWS](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS "wikilink")**』を放送することが明らかにされた。
+
+これに伴い、本番組は放送時間を2009年4月2日以降は[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")の20時台に移動することとなった\[10\]。これにより『[クイズ100人に聞きました](../Page/クイズ100人に聞きました.md "wikilink")』（1979年4月 - 1992年9月）以来、30年続いた「月曜日19時台の関口宏司会バラエティ番組」が一旦終了した。
+
+これにより、それまで木曜日20時台で放送されていた『[うたばん](https://ja.wikipedia.org/wiki/うたばん "wikilink")』が本番組に押し出される形で移動となり、2009年3月に終了した『[どうぶつ奇想天外\!](https://ja.wikipedia.org/wiki/どうぶつ奇想天外! "wikilink")』に替わって日曜日20時台での放送となった。
+
+#### 2010年度・再び月曜19時台へ
+
+2010年3月26日で『[総力報道\!THE NEWS](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS "wikilink")』が終了したのに伴い、同年3月29日放送分からは放送時間が元の月曜日19時枠に戻された\[11\]が、放送開始時間は19:00となった。これにより、放送時間が4分短縮する上、平日夜7時台の全番組は、2002年4月以来続いてきた[フライングスタートが廃止された](https://ja.wikipedia.org/wiki/フライングスタート_\(放送\) "wikilink")。前述の通り音声もステレオ放送へ切り替わった。
+
+2010年7月よりオープニングが一部簡略化され、従業員全員による「ようこそ、東京フレンドパークへ\!」の挨拶の後、関口支配人、渡辺副支配人、田中従業員を映す状態から始まり、関口支配人、渡辺副支配人の挨拶を省略。すぐにゲストを紹介し、ゲストが[ジェットコースター](https://ja.wikipedia.org/wiki/ジェットコースター "wikilink")に乗って登場して降りる時（多人数の時は、観客席中央から登場の時）にタイトルCGが流れる形式に変更されたり、さらに長年最初のアトラクションだった「ウォールクラッシュ」、定番だった「クイズ\!ボディー&ブレイン」を不定期に実施するなど新たなテコ入れを行った。
+
+### 変遷
+
+| 期間      | 放送時間（[日本時間](../Page/日本標準時.md "wikilink")） |
+| ------- | ----------------------------------------- |
+| 1992.10 | 1993.09                                   |
+| 1993.10 | 1994.03                                   |
+| 1994.04 | 2002.03                                   |
+| 2002.04 | 2009.03                                   |
+| 2009.04 | 2010.03                                   |
+| 2010.04 | 2011.03                                   |
+
+レギュラー時代
+
+| 放送日        | 放送曜日 | 放送時間（[日本時間](../Page/日本標準時.md "wikilink")） |
+| ---------- | ---- | ----------------------------------------- |
+| 2017.01.09 | 月曜日  | 19:00 - 20:57（117分）                       |
+| 2017.07.03 | 月曜日  | 19:00 - 21:50（170分）                       |
+| 2018.01.08 | 月曜日  | 19:00 - 21:00（120分）                       |
+| 2018.07.02 | 月曜日  | 19:00 - 22:00（180分）                       |
+| 2019.01.01 | 火曜日  | 18:00 - 21:00（180分）                       |
+| 2019.07.01 | 月曜日  | 20:00 - 22:57（177分）                       |
+| 2019.10.06 | 日曜日  | 18:30 - 20:54（144分）                       |
+| 2020.01.01 | 水曜日  | 18:00 - 21:00（180分）                       |
+|            |      |                                           |
+
+特番時代
+
+## 番組の終焉
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に従来のアトラクションをリニューアルしたり、新アトラクションを登場させるなどして事実上新装開園を実施したものの、[2011年](../Page/2011年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")をもって番組を終了 する事が明らかになり\[12\]、[3月28日](../Page/3月28日.md "wikilink")放送の生放送2時間スペシャルをもって『ムーブ』時代から17年間の歴史、そして『ムーブ』時代とIIの間に放送されていた『[関口宏のPAPAパラダイス](https://ja.wikipedia.org/wiki/関口宏のPAPAパラダイス "wikilink")』を含めて18年半の歴史に幕を閉じた。最終回は生放送で、過去の名珍場面を見せる一方、かつての累計2388人の来園者の中から一部の来園者と『[ハンチョウ〜神南署安積班〜](https://ja.wikipedia.org/wiki/ハンチョウ〜神南署安積班〜 "wikilink")』の出演者がアトラクションに挑戦。最後は全従業員が挨拶をした後、関口支配人が愛用の笛を床に置いた所で、スタジオ内の[カノン砲](../Page/カノン砲.md "wikilink")から大量の[紙吹雪](https://ja.wikipedia.org/wiki/紙吹雪 "wikilink")が発射されて[大団円](https://ja.wikipedia.org/wiki/大団円 "wikilink")となった。
+
+後番組については、同年[4月18日](../Page/4月18日.md "wikilink")から歴史をテーマとしたバラエティ番組『**[世紀のワイドショー\!ザ・今夜はヒストリー](https://ja.wikipedia.org/wiki/世紀のワイドショー!ザ・今夜はヒストリー "wikilink")**』に切り替わり、司会は引き続いて関口と[オセロの](https://ja.wikipedia.org/wiki/オセロ_\(お笑い\) "wikilink")[松嶋尚美](https://ja.wikipedia.org/wiki/松嶋尚美 "wikilink")が務めることとなった\[13\]\[14\]\[15\]。
+
+これにより関口が司会を務める月曜日19時台の番組は、[1979年](../Page/1979年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の『クイズ100人に聞きました』開始以来、『総力報道\!THE NEWS』放送に伴う1年間の中断を挟んで通算32年目に入ることが決まった\[16\]が、半年で水曜日に追い込まれ、31年半で関口の月曜日19時台は終止符を打った。
+
+### 特別番組としての復活
+
+『[関口宏の東京フレンドパーク ドラマ大集合SP\!\!](https://ja.wikipedia.org/wiki/関口宏の東京フレンドパーク_ドラマ大集合SP!! "wikilink")』を参照
+
+## 出演者
+
+### 司会
+
+  - 「**支配人**」 - [関口宏](../Page/関口宏.md "wikilink")\[17\]
+  - 「**副支配人**」 - [渡辺正行](https://ja.wikipedia.org/wiki/渡辺正行 "wikilink")
+
+※司会者のジャケットの色は、赤・ピンク・青・水色・白の5色がある。全体の司会、ゲームの進行（主に副支配人）、ルール説明（主に副支配人）、アドバイス等を担当。
+
+### 従業員
+
+  - [ホンジャマカ](https://ja.wikipedia.org/wiki/ホンジャマカ "wikilink")（[石塚英彦](https://ja.wikipedia.org/wiki/石塚英彦 "wikilink")、[恵俊彰](https://ja.wikipedia.org/wiki/恵俊彰 "wikilink")）：ハイパーホッケーの対戦相手、アトラクションのデモンストレーションを担当。
+  - [西秋元喜](https://ja.wikipedia.org/wiki/西秋元喜 "wikilink")\[18\]：前説担当（1999年10月 - 2011年3月）。2010年9月6日放送分は欠席。
+  - [小林豊](https://ja.wikipedia.org/wiki/小林豊_\(アナウンサー\) "wikilink")（当時[TBSアナウンサー](https://ja.wikipedia.org/wiki/TBSテレビのアナウンサー一覧 "wikilink")）：主に実況を担当していた（1993年5月 - 2011年3月）。実況 担当。 <ref>1999年9月まではテロップ及びネームプレートには「小林少年」と表記されていた。
+
+</ref>
+
+  -
+    ※ジャケットの色は、黄色・黄緑などがある。
+
+### ナレーション
+
+  - [田子千尋](https://ja.wikipedia.org/wiki/田子千尋 "wikilink")
+  - [市川展丈](https://ja.wikipedia.org/wiki/市川展丈 "wikilink")（スペシャル版ナレーター）
+  - [奥田民義](https://ja.wikipedia.org/wiki/奥田民義 "wikilink")（2011年3月の最終回SPなど）
+  - [銀河万丈](../Page/銀河万丈.md "wikilink")（「ンゴボコ」のナゾパー役）
+  - [石井康嗣](https://ja.wikipedia.org/wiki/石井康嗣 "wikilink")（銀河の代役、「オーノー\!」の原始人の声役）
+
+### 元従業員
+
+  - [フランキー為谷](https://ja.wikipedia.org/wiki/フランキー為谷 "wikilink") 番組開始からの従業員、ウォールクラッシュのデモンストレーションを担当（1992年10月-2008年11月）\[19\]
+  - [乱一世](https://ja.wikipedia.org/wiki/乱一世 "wikilink")（初代実況担当　1992年10月-1993年4月）
+  - [大東めぐみ](https://ja.wikipedia.org/wiki/大東めぐみ "wikilink")（初代女性従業員　1992年10月-1993年9月）
+  - [芦田由夏](https://ja.wikipedia.org/wiki/由夏 "wikilink")（同上　1992年10月-1993年9月）
+  - [相原勇](https://ja.wikipedia.org/wiki/相原勇 "wikilink")（1994年4月-1995年9月）-ムーブ時代に一回ゲストとして登場。
+  - 早川咲（1994年4月-1995年3月）
+  - [永田杏子](https://ja.wikipedia.org/wiki/永田杏子 "wikilink")（1995年4月-1996年9月）
+  - [三井ゆり](../Page/三井ゆり.md "wikilink")（1995年10月-1996年4月）
+  - [蛭田有希子](https://ja.wikipedia.org/wiki/蛭田有希子 "wikilink")（1996年4月-1997年4月）
+  - [宝積有香](https://ja.wikipedia.org/wiki/宝積有香 "wikilink")（1996年10月-1997年3月）
+  - [大石恵](../Page/大石恵.md "wikilink")（1997年4月-1998年3月）
+  - [津川友美](https://ja.wikipedia.org/wiki/津川友美 "wikilink")（1997年4月-1998年12月）
+  - [金澤あかね](https://ja.wikipedia.org/wiki/藤沢かりん "wikilink")（1998年4月-1998年8月）
+  - 岡本恵理（1998年8月-2002年9月。当初は「岡本恵理子」名義で出演）
+  - [山田玲奈](https://ja.wikipedia.org/wiki/山田玲奈 "wikilink")（1999年1月-2002年9月）
+  - [横田佳織](https://ja.wikipedia.org/wiki/横田かおり "wikilink")（2002年10月-2003年9月）
+  - 藤村春菜（2002年10月-2003年9月）
+  - [小川奈那](https://ja.wikipedia.org/wiki/小川奈那 "wikilink")（2003年10月-2004年10月）
+  - [小林恵美](https://ja.wikipedia.org/wiki/小林恵美 "wikilink")（2003年10月-2004年10月）
+  - [有村実樹](https://ja.wikipedia.org/wiki/有村実樹 "wikilink")（2004年11月-2006年10月）
+  - [市川円香](https://ja.wikipedia.org/wiki/市川円香 "wikilink")（2004年11月-2007年1月）
+  - [青山玲子](https://ja.wikipedia.org/wiki/青山玲子 "wikilink")（2007年2月-2008年3月）
+  - [平井佳織](https://ja.wikipedia.org/wiki/平井佳織 "wikilink")（2007年2月-2008年3月）
+  - [真知りさ](https://ja.wikipedia.org/wiki/真知りさ "wikilink")（2008年4月-2009年3月）
+  - [金ヶ江悦子](https://ja.wikipedia.org/wiki/金ヶ江悦子 "wikilink")（2008年4月-2009年3月）
+  - [あまのまい](https://ja.wikipedia.org/wiki/天乃舞衣子 "wikilink")（2009年4月-2010年3月）
+  - [虎南有香](https://ja.wikipedia.org/wiki/虎南有香 "wikilink")（2009年4月-2010年3月）
+  - [田中みな実](https://ja.wikipedia.org/wiki/田中みな実 "wikilink")（当時TBSアナウンサー、2010年3月29日 - 2011年3月28日）：女性従業員では史上初となるTBSアナウンサー（当時）が担当。レギュラー最終回まで。
+
+<!-- end list -->
+
+  -
+    ※過去の女性従業員の行っていた業務\[20\]のほか、副支配人が行っていた一部のアトラクションのルール説明、2回以上出演（来園）しているゲストの、過去のウォールクラッシュの成績を紹介するなど、支配人、副支配人の補佐をする役割を担当。また「クイズバトル\!ジダンダ」「クイズボディ＆ブレイン」初期の問題読み上げを担当していた。
+
+### 変遷
+
+| 時期            | 司会       | デモ                          | 前説                | 実況                              | 女性                                                                      |
+| ------------- | -------- | --------------------------- | ----------------- | ------------------------------- | ----------------------------------------------------------------------- |
+| ムーブ版          | 関口宏/渡辺正行 | ホンジャマカ（恵俊彰/石塚英彦）/フランキー為谷    |                   | 乱一世\<～1993年4月\>/小林豊\<1993年5月～\> | 大東めぐみ/芦田由夏                                                              |
+| 1994年度        | 関口宏/渡辺正行 | ホンジャマカ/フランキー為谷              |                   | 小林豊                             | 相原勇/早川咲                                                                 |
+| 1995年度        | 関口宏/渡辺正行 | ホンジャマカ/フランキー為谷              |                   | 小林豊                             | 相原勇\<～1995年9月\>/永田杏子/三井ゆり\<1995年10月～\>                                  |
+| 1996年度        | 関口宏/渡辺正行 | ホンジャマカ/フランキー為谷              |                   | 小林豊                             | 永田杏子\<～1996年9月\>/三井ゆり\<～1996年4月\>/蛭田有希子/宝積有香\<1996年10月～\>               |
+| 1997年度        | 関口宏/渡辺正行 | ホンジャマカ/フランキー為谷              |                   | 小林豊                             | 蛭田有希子\<～1997年4月\>/大石恵/津川友美                                              |
+| 1998年度        | 関口宏/渡辺正行 | ホンジャマカ/フランキー為谷              |                   | 小林豊                             | 津川友美\<～1998年12月\>/金澤あかね\<～1998年8月\>/岡本恵理\<1998年8月～\>/山田玲奈\<1999年1月～\>   |
+| 1999年度        | 関口宏/渡辺正行 | ホンジャマカ/フランキー為谷              | 西秋元喜\<1999年10月～\> | 小林豊                             | 岡本恵理/山田玲奈                                                               |
+| 2000 - 2001年度 | 関口宏/渡辺正行 | ホンジャマカ/フランキー為谷              | 西秋元喜              | 小林豊                             | 岡本恵理/山田玲奈                                                               |
+| 2002年度        | 関口宏/渡辺正行 | ホンジャマカ/フランキー為谷              | 西秋元喜              | 小林豊                             | 岡本恵理\<～2002年9月\>/山田玲奈\<～2002年9月\>/横田佳織\<2002年10月～\>/藤村春菜\<2002年10月～\>   |
+| 2003年度        | 関口宏/渡辺正行 | ホンジャマカ/フランキー為谷              | 西秋元喜              | 小林豊                             | 横田佳織\<～2003年9月\>/藤村春菜\<～2003年9月\>/小川奈那\<2003年10月～\>/小林恵美\<2003年10月～\>   |
+| 2004年度        | 関口宏/渡辺正行 | ホンジャマカ/フランキー為谷              | 西秋元喜              | 小林豊                             | 小川奈那\<～2004年10月\>/小林恵美\<～2004年10月\>/有村実樹\<2004年11月～\>/市川円香\<2004年11月～\> |
+| 2005年度        | 関口宏/渡辺正行 | ホンジャマカ/フランキー為谷              | 西秋元喜              | 小林豊                             | 有村実樹/市川円香                                                               |
+| 2006年度        | 関口宏/渡辺正行 | ホンジャマカ/フランキー為谷              | 西秋元喜              | 小林豊                             | 有村実樹\<～2006年10月\>/市川円香\<～2007年1月\>/青山玲子\<2007年2月～\>/平井佳織\<2007年2月～\>    |
+| 2007年度        | 関口宏/渡辺正行 | ホンジャマカ/フランキー為谷              | 西秋元喜              | 小林豊                             | 青山玲子/平井佳織                                                               |
+| 2008年度        | 関口宏/渡辺正行 | ホンジャマカ/フランキー為谷\<～2008年11月\> | 西秋元喜              | 小林豊                             | 真知りさ/金ヶ江悦子                                                              |
+| 2009年度        | 関口宏/渡辺正行 | ホンジャマカ                      | 西秋元喜              | 小林豊                             | あまのまい/虎南有香                                                              |
+| 2010年度        | 関口宏/渡辺正行 | ホンジャマカ                      | 西秋元喜              | 小林豊                             | 田中みな実                                                                   |
+
+## 内容
+
+### アトラクション
+
+各アトラクションには一定のノルマ（番組内では、「クリアポイント」と呼ばれる）が設定されていて、それをクリアできれば時価10万円相当の[金貨](../Page/金貨.md "wikilink")を1枚獲得できる\[21\]。男女のペアおよび女性2人のペアの場合、クリアとなるノルマ・ゲーム自体の難易度が低くなるアトラクションもある。また、早い段階でクリア条件を達成した場合は通常の金貨1枚に加え、更に提示された条件をクリアすることによって追加の金貨をもらえる「スペシャルチャレンジ」が行われる事もある。但し、スペシャルチャレンジの有無やチャレンジクリアのノルマは、支配人との交渉次第やケースバイケースである。2010年7月頃より一部アトラクションのクリア条件が変更されている。
+
+クリアすると白文字で「Cleared\!\!」と表示され、CGで表現された金貨が光り輝く(通常は1枚、スペシャルチャレンジ成功で2枚以上)演出が入り、クリアしないと青文字で「Not Cleared\!\!」と表示され、CGで表現された金貨が落ちる(初期は割れる)演出が入る\[22\]。
+
+全てのアトラクションをクリアして「グランドスラム」を達成すると、スタジオが暗転してゲストにスポットライトが当たって[ファンファーレ](https://ja.wikipedia.org/wiki/ファンファーレ "wikilink")が鳴り響き、キャノン砲で大量の[紙吹雪](https://ja.wikipedia.org/wiki/紙吹雪 "wikilink")が舞い、[ミッキーマウス](../Page/ミッキーマウス.md "wikilink")と[ミニーマウス](../Page/ミニーマウス.md "wikilink")の[ぬいぐるみ](https://ja.wikipedia.org/wiki/ぬいぐるみ "wikilink")\[23\]、[全日空の](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")[ビジネスクラス](https://ja.wikipedia.org/wiki/ビジネスクラス "wikilink")「[CLUB ANA](https://ja.wikipedia.org/wiki/CLUB_ANA "wikilink")」によるアメリカ・カリフォルニアの[ディズニーランド](../Page/ディズニーランド.md "wikilink")旅行獲得となり、[目録](../Page/目録.md "wikilink")が贈られる。2008年11月のリニューアル以前は[ディズニーランド・パリ](https://ja.wikipedia.org/wiki/ディズニーランド・パリ "wikilink")旅行であった。SPで大人数の場合は、ロサンゼルス往復航空券になる場合がある。
+
+あくまで「全アトラクションをクリア」が条件であるため、「スペシャルチャレンジ」によって金貨が5枚以上になっても、他のアトラクションでクリアに失敗したものが1つでもあれば「グランドスラム」にはならない。
+
+また全てのアトラクションのクリアに失敗して「『逆』グランドスラム」を達成してしまったペアも存在する。
+
+挑戦するアトラクションの順番は、基本的には以下の通り（『ムーブ』時代では、競技の種類、放送時間によっては全6アトラクション）。
+
+1.  （週替わりアトラクション 「ウォールクラッシュ」か「ゴー\!アップヒル」が多い）
+2.  （週変わりアトラクション）
+3.  （週変わりアトラクション）
+4.  （週変わりアトラクション ほぼ「クイズ\!ボディ&ブレイン」）
+5.  （ほぼ必ず「ハイパーホッケー」、一時期のみ週替わりで「ビートザパイレーツ」を実施）
+
+ムーブ時代では、第2（または第3）アトラクションで「ウォールクラッシュ」が行われたこともあった。第4アトラクションは、長らく「クイズ\!ボディ&ブレイン」で固定されていた。後に「クイズ\!ピクチャー5」が不定期で登場し、2009年頃からは第2 - 3アトラクション同様、週変わりのアトラクションが登場した。
+
+ゲストの人数が多い場合は、「クイズ\!ボディ&ブレイン」の代わりに「アーケード5」（主にスペシャル限定の、ミニゲームの集合体）が行われる場合もある。
+
+腰痛持ちの人が来園した場合、その負担軽減への配慮として、第1アトラクション（ウォールクラッシュ）が別のアトラクションに変更されるケースもあった。2010年4月以降は、「ウォールクラッシュ」が第1アトラクションでないことが以前に比べて多くなっていた。
+
+対抗戦（後述）では、基本的に以下の順番になる
+
+1.  ウォールクラッシュ
+2.  （週替わりアトラクション）
+3.  （週替わりアトラクション）
+4.  クイズバトル\!ジダンダ
+5.  ハイパーホッケー（スペシャルアトラクション）
+
+『ムーブ』時代には第1アトラクションの前にオープニングアトラクションとして、ゲストの出演番組、映画宣伝のポスターを[ジグソーパズル](../Page/ジグソーパズル.md "wikilink")にして制限時間内に完成させる「PRジグソーパズル」があった。このアトラクションでは金貨獲得の対象ではなかった。
+
+アトラクションの詳細については[東京フレンドパークのアトラクション一覧](https://ja.wikipedia.org/wiki/東京フレンドパークのアトラクション一覧 "wikilink")を参照。
+
+### ビッグチャレンジ (BIG CHALLENGE)
+
+<span id="ビッグチャレンジ">番組</span>最後のコーナー「ビッグチャレンジ」では、獲得した金貨1枚につき1本の矢と交換し、[ダーツ](../Page/ダーツ.md "wikilink")に挑戦できる。金貨を交換せず持ち帰ることも可能だが、実際に金貨を持ち帰ったゲストは「ムーブ」時代第4回に出演した[ベンガル](https://ja.wikipedia.org/wiki/ベンガル_\(俳優\) "wikilink")・[高田純次](https://ja.wikipedia.org/wiki/高田純次 "wikilink")ペアのみである。対抗戦の一時期・TFP2017以降は敗北チームはビッグチャレンジの挑戦権が無く、獲得金貨は強制的に持ち帰りとなっていた。金貨は1枚10万円相当の価値があるとされている。ダーツの矢は形式上、この金貨で「購入する」事になっている。
+
+ここでは、予めゲストが希望した数点の賞品を獲得できる機会が与えられる。賞品はペアの場合は2種類ずつ、3人の場合は一人だけ2種類の場合と全員1種類の場合があり、その他のスペシャル等では全員1種類ずつである。購入価格20-30万円以下の物を希望できる。後期の希望賞品には旅行券や商品券などの金券も多く、その場合必ず20万円分と明記されている。
+
+また、運がよければ通常放送では自動車が貰える（後述）。毎回、副支配人が「運がよければ、こちらを差し上げます。」と言ってカーテンが落ち、車が登場する。毎回、石塚が車の隣にいる。ムーブ最終回ではフランキー為谷が車の窓につかまっていた。 スペシャル版やTFP2017以降では、自動車の代わりに旅行券がスペシャル賞品になる場合がある。
+
+回転する的に向かってゲストがダーツの矢を投げ、矢が刺さったゾーンに書かれた賞品を獲得することとなる。的には賞品のほかに「[たわし](https://ja.wikipedia.org/wiki/たわし "wikilink")」というゾーンがあり、そこに矢が刺さってしまった場合は、[フランキー為谷](https://ja.wikipedia.org/wiki/フランキー為谷 "wikilink")（2008年11月以降は[西秋元喜](https://ja.wikipedia.org/wiki/西秋元喜 "wikilink")）が腰を低くしてクリアケースに梱包されたたわしを贈呈する。「たわし」ゾーンは、豪華賞品ゾーンの両サイドと的の中心に存在するので真ん中に矢が刺さると事実上ハズレである。
+
+また、矢が的から完全に外れた場合は何も得られず（当初は「大ハズレ」と表記、のちに「ハズレ」となる）、次回放送にて矢が刺さった位置に「←（名前）様（回数\[24\]）」と書かれたシールが貼られ、半永久的に残されることとなる。矢が的に刺さっても、的の回転を止める前に矢が落ちた場合もハズレとなってしまう（ただし、矢の本体を残して羽の部分だけが落ちた場合はハズレにはならない）。「ムーブ」時代を含め、番組開始以来大ハズレ第1号は「ムーブ」時代第5回の[高嶋政宏](https://ja.wikipedia.org/wiki/高嶋政宏 "wikilink")だった。
+
+ゲストが自動車・スペシャル賞品を獲得した場合、その後はダーツの的の豪華賞品ゾーンは「ラッキーゾーン」となり、そのゾーンに矢が当たれば、用意した賞品から任意の物をひとつを獲得が出来る。2008年11月から自動車がダーツの矢1本につき1台獲得に変更されたため「ラッキーゾーン」は事実上廃止となったが、2009年12月17日のプロ野球スペシャルの視聴者プレゼントで、7つの商品の中から4つの賞品を獲得できる形式で登場した。対抗戦の一時期は、敗北チーム向けの大当たりとなっていた。
+
+リクエスト賞品とたわしはダーツが刺されば何回でもプレゼントされる。矢を投げた後、テレビの画面には「（賞品名）獲得」「たわし獲得」「大ハズレ」といったテロップが表示されるが、同じ賞品やたわし、ハズレが複数回あった場合はテロップの上に小さく「またまた\!」（2回目）や「またまたまた\!」（3回目以降）というテロップが追加される。2010年10月以降は2回目は「また」、3回目以降は「またまた」に変更された。
+
+2011年3月20日（同年3月14日の振替）・3月21日放送分は[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の関係上、視聴者プレゼント分も含めたビッグチャレンジがカットされた。最終回でも行われなかったため、レギュラー放送での事実上最後の実施は同年3月7日放送分となった。
+
+復活特番の際にも、ダーツのセットの周りに過去のレギュラー放送時に大ハズレを出した来園者の名前の記載が再現されている。ここでも以前と同じく、大ハズレとなった場合は刺した箇所に後日「←（名前）様（回数\[25\]）」と書かれたシールが貼られ、半永久的に残ってしまう。これ以降は敗れた2チームの当たりゾーンがあり、そこに矢が当たった場合、当たったチームの希望賞品が与えられる。スペシャル賞品を獲得した場合は「全部」に変わり、チームの希望賞品を全て獲得できる（レギュラー時代の、視聴者向けの大当たりと同じ）。
+
+#### 視聴者プレゼント
+
+毎週、挑戦後に番組宛に[はがき](https://ja.wikipedia.org/wiki/はがき "wikilink")を送った全国の[視聴者](https://ja.wikipedia.org/wiki/視聴者 "wikilink")の中から抽選で1人に賞品の獲得権が与えられ、ゲストが視聴者へのプレゼントのためのダーツに挑戦する。金貨獲得数とは別枠のため、ゲストの獲得金貨が0枚の場合も視聴者向けのダーツ挑戦は行われる。ゲストの1人がハガキを選出して当選者の氏名を読み上げ、そして別の1人がダーツを投げる。ただし、その回のゲストの好みによる賞品のため、視聴者の年齢・性別によっては全く必要のないものがプレゼントされる可能性や、たわしをプレゼントされてしまうこともある。大ハズレの場合はプレゼントは無しとなり\[26\]、代わりにお詫びとしてゲストがサインを書いてプレゼントする。
+
+この視聴者用ダーツをやるきっかけとなったのはムーブ時代の第6回、番組宛に届いた一通のお便りからであった。このお便りを読んだ支配人がお礼にとダーツの矢を投げ当たった賞品をプレゼントしたのが始まりで、それ以降番組ではダーツ用のあて先を用意することになった。その翌週からは視聴者プレゼント用の専用的（ゲストの希望商品やたわしは無く、中央も含め全ての的で何かしら良い商品が当たる仕様）が用意され毎週一枚のお便りに一本のダーツをゲストの一人が投げる現在のスタイルが形成されたが\[27\]、視聴者もゲストと同じたわしつきの的になったのはムーブ時代の第9回から。このときに視聴者用の自動車プレゼントも登場し、最初の視聴者プレゼントの自動車は[ダイハツ・オプティ](https://ja.wikipedia.org/wiki/ダイハツ・オプティ "wikilink")であった。
+
+1996年4月から2010年3月までは、視聴者プレゼント開始時に石塚が[ダジャレ](https://ja.wikipedia.org/wiki/ダジャレ "wikilink")を言うのが恒例だった。このシーンはたびたび瞬間最高視聴率を記録し、TBSで毎週土曜日放送の『[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")』の中の「TBS瞬間最高視聴率ランキング」で毎週のようにランクインしていた。しかし、年が経つに連れ過去に言った同じダジャレを言うこと（ネタの使い回し）も多くなり、2010年4月以降は廃止された。
+
+#### 賞品の自動車の変遷
+
+番組開始当初（ムーブ時代）は、「[ダイハツ・ラガー](https://ja.wikipedia.org/wiki/ダイハツ・ラガー "wikilink")」が3ヶ月、その後「[ダイハツ・ロッキー](https://ja.wikipedia.org/wiki/ダイハツ・ロッキー "wikilink")R4」に変わった。その際の掛け声は無く、的の表示も「自動車」と言うシンプルなものであった。 また、視聴者プレゼントは「[ダイハツ・オプティ](https://ja.wikipedia.org/wiki/ダイハツ・オプティ "wikilink")」が用意されていた。
+
+1993年4月（ムーブ時代）から2010年3月までは[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")の[4WD車](../Page/四輪駆動.md "wikilink")「[パジェロ](https://ja.wikipedia.org/wiki/三菱・パジェロ "wikilink")」であった。応援団（番組観覧者）による「パジェロ\!パジェロ\!」の掛け声は番組の代名詞ともいえるほど広く一般に知られていた\[28\]。また、TFP2初期は、車はパジェロと[FTOの](https://ja.wikipedia.org/wiki/三菱・FTO "wikilink")2種類から選べることもできた。
+
+[横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")（[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")が主要株主の一つ）など競合他社が親会社あるいは主要株主となっているプロサッカーチームの選手が出演した場合は、これに配慮して他の賞品に変えたことがあった。
+
+2004年6月に[三菱ふそうリコール隠しが発覚した際は](https://ja.wikipedia.org/wiki/三菱リコール隠し "wikilink")、三菱が一時[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")を降板したため（その後しばらくの間は当時の[公共広告機構に差し替えられた](../Page/ACジャパン.md "wikilink")）、2004年6月28日の放送分からは[ラスベガス](https://ja.wikipedia.org/wiki/ラスベガス "wikilink")10日間の旅に変更し、同年11月1日の放送分から2006年9月までは[英国](https://ja.wikipedia.org/wiki/イギリス "wikilink")[ランドローバー](https://ja.wikipedia.org/wiki/ランドローバー "wikilink")社の4WD車「[フリーランダー](https://ja.wikipedia.org/wiki/ランドローバー・フリーランダー "wikilink")」が賞品となっていた（2004年6月以前に収録したものでは、応援団が発していた「パジェロ\!パジェロ\!」の音声部分を「車\!車\!」と置き換える措置が採られた。2000年の[リコール隠し事件発生時においても同様の措置を採った](https://ja.wikipedia.org/wiki/三菱リコール隠し "wikilink")）。
+
+また、視聴者プレゼントにおいては、ムーブ時代からTFP2初期は[ミラージュ](https://ja.wikipedia.org/wiki/三菱・ミラージュ "wikilink")、その後は[パジェロミニ](https://ja.wikipedia.org/wiki/三菱・パジェロミニ "wikilink")、[パジェロジュニア](https://ja.wikipedia.org/wiki/三菱・パジェロジュニア "wikilink")、[RVR](https://ja.wikipedia.org/wiki/三菱・RVR "wikilink")、[パジェロイオなどがプレゼントされたが](https://ja.wikipedia.org/wiki/三菱・パジェロイオ "wikilink")、2004年6月以降は赤い的に書かれた自動車のゾーンが「全部」と書かれた黄色い的（一時期は水色の的）に変わり、矢が当たればその回のゲストの希望賞品すべてをプレゼントしていた。
+
+2006年10月より三菱のスポンサー復帰及びパジェロのフルモデルチェンジに伴い同年10月16日放送分よりパジェロが再び賞品になった。ただし、視聴者プレゼントは全部のままであった\[29\]。2008年11月のリニューアルからは、従来1本で挑戦者の人数だけ\[30\]プレゼントされていたのが1本で1台となり、またパジェロが[ガソリン車](https://ja.wikipedia.org/wiki/ガソリン車 "wikilink")から[クリーンディーゼル車に変更された](https://ja.wikipedia.org/wiki/ディーゼル自動車 "wikilink")。
+
+2010年4月5日放送分からは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[パッソ ＋Hanaに変更](https://ja.wikipedia.org/wiki/トヨタ・パッソ "wikilink")。掛け声も「パピプペパッソ\!」（パッソのCMソングから取ったもの）に変わった。視聴者プレゼントもパッソとなり、約6年ぶりに視聴者プレゼントの豪華賞品が自動車に戻った。
+
+### 対抗戦
+
+2009年12月10日放送分から、特別企画として実施。
+
+2チームによる対抗戦形式で、アトラクションも全て2チームが対決する仕様・ルールに変更。全アトラクション勝利で「グランドスラム」となる。
+
+5アトラクション（2009年12月10日放送分は4アトラクション。特番では7アトラクション）実施。各アトラクション、勝利したチームに金貨が贈られ、獲得した金貨の枚数で総合優勝チームを決定。最後の「ハイパーホッケー」は最大2枚の金貨獲得で、逆転や同点決勝が見込めるアトラクションとなっている。
+
+ビッグチャレンジは両チームが挑戦できるが、勝利チームは通常サイズの的で、敗北チームは通常よりもかなり小さい的で、それぞれダーツに挑戦。2009年12月10日放送分は、敗北チームのダーツの的の中央の「たわし」部分のサイズも勝ちチームと同じであった為、的で「たわし」の占めるサイズがかなり大きかったが、2010年1月14日放送分以降は、周辺に合わせて中央の「たわし」も縮小、幾分か賞品を獲得し易くなった。視聴者のダーツは、勝利チームが自チームの的で行い、「全部」に当たった場合は勝利チームの希望賞品を全部獲得となる。
+
+2010年2月25日放送では、大幅にルールが改められた。5アトラクション行うが、2チーム対決を行うのは第4アトラクションまで。そこで総合優勝を決めたチームが、獲得した金貨の増量（及びグランドスラム）を賭けたスペシャルアトラクション「ハイパーホッケー」に挑戦（敗北チームは客席で観戦）という形式に変更。
+
+ビッグチャレンジも、それぞれのチームの希望賞品（2010年2月25日・3月18日放送では1人1品だったが、同年3月11日放送では1人2品）が記載された通常サイズの的が各チームに1枚ずつ用意されるが、挑戦できるのは勝ちチームのみである。敗北チームが獲得した金貨は、お持ち帰りとなる。
+
+2010年3月29日放送分からは、ハイパーホッケーまでのルールこそ変わらないものの、再び敗北チームにもビッグチャレンジへの挑戦権が与えられるようになった。3月29日放送分では、ダーツ板に全チームの希望商品が書かれており、敗北チームは「スペシャル賞品」に相当する部分が、当てた人が任意の賞品を1品獲得できる「ラッキーゾーン」となっている点だけが敗北チームとの差異である。同年4月12日放送分では、敗北チームのダーツ板は勝利チームと同じ大きさではあるが、賞品エリアの外側がたわしゾーンとなり、賞品エリアが小さくなっている。また賞品は個人・2人共通の希望賞品の計3つとなった。
+
+## スペシャル版
+
+「特別営業」と呼ばれているスペシャルは、原則として春・秋の[番組改編期](https://ja.wikipedia.org/wiki/改編 "wikilink")・[年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")に放送していた。3時間半\[31\]、3時間\[32\]、2時間半、2時間、1時間半のバージョンが放送されてきた。かつて1時間半ないし2時間半のバージョンでは、当時の[TBSテレビ・JNN系列の夕方ニュース](https://ja.wikipedia.org/wiki/TBSテレビ系列夕方ニュース枠 "wikilink")（『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』→『[JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/JNNイブニング・ニュース "wikilink")』）が30分繰り上がったことがあったが、2004年12月の「貴乃花部屋親方衆」のときは、前枠の『JNNニュースの森』が18:00 - 18:30の短縮版と年末年始編成だったため、時間繰り上げはなかった。
+
+2001年4月から2009年3月までと2010年4月以降は、『[パナソニック ドラマシアター](https://ja.wikipedia.org/wiki/パナソニック_ドラマシアター "wikilink")（旧・[ナショナル劇場](https://ja.wikipedia.org/wiki/ナショナル劇場 "wikilink")）』の繋ぎとして改編期や年末年始に2週連続または2回スペシャルが放送されることもあった。
+
+スペシャル時はゲストメンバーの人数が通常時より多人数で、アトラクション数も6～9アトラクションと通常より多い。スペシャルならではのアトラクション「アーケード」も登場したり、アトラクション自体が、チームや放送時期にちなんだ装飾が施される場合もあった。「ビッグチャレンジ」における豪華賞品もいつもの自動車とは異なった賞品が用意されることもあった。
+
+これまでに、以下のチームなどが出演した。
+
+  - 支配人・従業員が自ら挑戦（■は支配人・従業員）
+
+<!-- end list -->
+
+  - 関口宏■と渡辺正行■ - 1993年9月20日。『ムーブ』時代最終回の通常放送。
+  - [コント赤信号](../Page/コント赤信号.md "wikilink")としての渡辺正行■ - 1999年10月11日。通常放送。
+  - チーム・ホンジャマカ - 2010年1月28日。ワタナベエンターテインメントより、ホンジャマカ■、[にしおかすみこ](https://ja.wikipedia.org/wiki/にしおかすみこ "wikilink")、[山本高広](https://ja.wikipedia.org/wiki/山本高広 "wikilink")、[フォーリンラブ](https://ja.wikipedia.org/wiki/フォーリンラブ "wikilink")、[我が家](https://ja.wikipedia.org/wiki/我が家 "wikilink")が登場。通常放送。
+
+<!-- end list -->
+
+  - アイドルユニット及び芸能人グループ
+
+<!-- end list -->
+
+  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink") - 1995年9月25日と2003年1月2日に来園。1回目は当時メンバーだった[森且行](../Page/森且行.md "wikilink")も出演していた（翌年にSMAP脱退）。またこの回から「アーケード*x*」（この時は、「SMAPスペシャルファイブ」というゲーム名）が初登場。2回目は「GOLD」と題し、OP・ED及びアトラクションの合間に、豪華なセットが置かれた控え室で作戦会議を行っていた。後にこのセットは、『[うたばん](https://ja.wikipedia.org/wiki/うたばん "wikilink")』でも使用された。
+  - [TOKIO](../Page/TOKIO.md "wikilink") - 1997年9月29日と2003年10月6日のスペシャルに5人全員で来園。2001年[ファイトTV24・やればできるさ\!](https://ja.wikipedia.org/wiki/ファイトTV24・やればできるさ! "wikilink")の1コーナーで年長3人が来園。
+  - [V6](../Page/V6_\(グループ\).md "wikilink") - 1996年9月30日、2005年9月26日に来園。
+  - [嵐](https://ja.wikipedia.org/wiki/嵐_\(グループ\) "wikilink") - 2008年3月31日。グランドスラムを達成するが、後述通り9枚の金貨の内7枚がたわしになってしまった。
+
+上記ジャニーズグループは、OPで持ち歌を歌うことが慣例だった。(1996年9月30日のV6と2003年1月2日のSMAPを除く)
+
+  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink") - 2000年12月30日[SAMBA・TV](https://ja.wikipedia.org/wiki/SAMBA・TV "wikilink")の1コーナーで来園。その後、2002年9月23日のスペシャル（この日は[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")の卒業の日）にも来園した。この時はクリアする毎に2枚（ハイパーホッケーは3枚）の特殊ルールが採用された。
+  - [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink") - 2009年4月2日来園。
+  - 若手歌舞伎俳優 - 1997年10月6日。[尾上辰之助](https://ja.wikipedia.org/wiki/尾上辰之助 "wikilink")、[尾上菊之助](https://ja.wikipedia.org/wiki/尾上菊之助 "wikilink")、[市川亀治郎](https://ja.wikipedia.org/wiki/市川亀治郎 "wikilink")、[市川新之助](https://ja.wikipedia.org/wiki/市川新之助 "wikilink")
+  - [紳助豪遊仲間](../Page/島田紳助.md "wikilink") - 1998年9月28日
+  - [堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink")とゴルフ仲間チーム - 2000年10月2日
+  - [アッコ](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")&[紳助チーム](../Page/島田紳助.md "wikilink") - 2002年3月25日
+  - [くりぃむしちゅー](../Page/くりぃむしちゅー.md "wikilink")とおいしい仲間 - 2005年3月28日。くりぃむしちゅー、[YOU](https://ja.wikipedia.org/wiki/YOU_\(タレント\) "wikilink")、[優香](../Page/優香.md "wikilink")、[アンタッチャブル](https://ja.wikipedia.org/wiki/アンタッチャブル_\(お笑いコンビ\) "wikilink")
+  - [宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")・[雪組](https://ja.wikipedia.org/wiki/雪組 "wikilink")「[AQUA5](https://ja.wikipedia.org/wiki/AQUA5 "wikilink")（[水夏希](https://ja.wikipedia.org/wiki/水夏希 "wikilink")・[彩吹真央](https://ja.wikipedia.org/wiki/彩吹真央 "wikilink")・[音月桂](https://ja.wikipedia.org/wiki/音月桂 "wikilink")・[彩那音](https://ja.wikipedia.org/wiki/彩那音 "wikilink")。雪組から[星組](https://ja.wikipedia.org/wiki/星組 "wikilink")に移った[凰稀かなめ](https://ja.wikipedia.org/wiki/凰稀かなめ "wikilink")は出演せず）」 - 2010年4月5日・この番組がAQUA5として最後のテレビ出演となる。また客席を雪組の組員が占拠、番組史上初の「貸し切り営業」となる。
+  - [郷ひろみ](https://ja.wikipedia.org/wiki/郷ひろみ "wikilink")とアチチな仲間たち - 2010年10月4日。郷ひろみ・[天野ひろゆき](https://ja.wikipedia.org/wiki/天野ひろゆき "wikilink")（[キャイ～ン](https://ja.wikipedia.org/wiki/キャイ～ン "wikilink")）・[梶原雄太](https://ja.wikipedia.org/wiki/梶原雄太 "wikilink")（[キングコング](https://ja.wikipedia.org/wiki/キングコング_\(お笑いコンビ\) "wikilink")）・[具志堅用高](https://ja.wikipedia.org/wiki/具志堅用高 "wikilink")・[小島よしお](https://ja.wikipedia.org/wiki/小島よしお "wikilink")・[椿鬼奴](https://ja.wikipedia.org/wiki/椿鬼奴 "wikilink")・[日村勇紀](https://ja.wikipedia.org/wiki/日村勇紀 "wikilink")（[バナナマン](https://ja.wikipedia.org/wiki/バナナマン "wikilink")）が来園。
+
+<!-- end list -->
+
+  - 事務所単位で出演
+
+<!-- end list -->
+
+  - [吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink") - 1995年4月3日、1999年10月4日に来園。2回目は[間寛平](../Page/間寛平.md "wikilink")、[東野幸治](https://ja.wikipedia.org/wiki/東野幸治 "wikilink")、[山崎邦正](https://ja.wikipedia.org/wiki/月亭方正 "wikilink")、[ココリコ](../Page/ココリコ.md "wikilink")
+  - [東宝芸能](../Page/東宝芸能.md "wikilink") - 1996年4月8日([高嶋ファミリーが来園](https://ja.wikipedia.org/wiki/高島忠夫 "wikilink"))、1998年3月30日[古手川祐子](https://ja.wikipedia.org/wiki/古手川祐子 "wikilink")、[水野真紀](../Page/水野真紀.md "wikilink")、[生田智子](https://ja.wikipedia.org/wiki/生田智子 "wikilink")、[秋篠美帆](https://ja.wikipedia.org/wiki/秋篠美帆 "wikilink")
+  - [太田プロダクション](../Page/太田プロダクション.md "wikilink") - 1997年3月24日。[山田邦子](https://ja.wikipedia.org/wiki/山田邦子 "wikilink")、[笑福亭笑瓶](https://ja.wikipedia.org/wiki/笑福亭笑瓶 "wikilink")、[ダチョウ倶楽部](https://ja.wikipedia.org/wiki/ダチョウ倶楽部 "wikilink")、[松村邦洋](../Page/松村邦洋.md "wikilink")
+  - [WAHAHA本舗](https://ja.wikipedia.org/wiki/WAHAHA本舗 "wikilink") - 1997年12月22日。[佐藤正宏](https://ja.wikipedia.org/wiki/佐藤正宏 "wikilink")、[梅垣義明](https://ja.wikipedia.org/wiki/梅垣義明 "wikilink")、[柴田理恵](https://ja.wikipedia.org/wiki/柴田理恵 "wikilink")、[久本雅美](../Page/久本雅美.md "wikilink")
+  - [ネプチューン](https://ja.wikipedia.org/wiki/ネプチューン_\(お笑いトリオ\) "wikilink")＆[TIM](https://ja.wikipedia.org/wiki/TIM_\(お笑いコンビ\) "wikilink") - 1999年3月22日。[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")オープニングではメンバー全員が関口支配人に扮装して登場、TIMは人文字で「宏」を表現、[堀内健](https://ja.wikipedia.org/wiki/堀内健 "wikilink")はボケで「[トラベルチャンス\!\!](../Page/クイズ100人に聞きました.md "wikilink")」と発した。
+  - オスカー美女軍団 - 2004年3月29日 [オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")より、[米倉涼子](https://ja.wikipedia.org/wiki/米倉涼子 "wikilink")、[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")、[菊川怜](https://ja.wikipedia.org/wiki/菊川怜 "wikilink")、[佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")、[石川亜沙美](../Page/石川亜沙美.md "wikilink")、[田丸麻紀](../Page/田丸麻紀.md "wikilink")。
+
+<!-- end list -->
+
+  - スポーツチーム
+
+野球
+
+  - プロ野球OB - 1994年12月26日。[田淵幸一](https://ja.wikipedia.org/wiki/田淵幸一 "wikilink")、[高橋慶彦](https://ja.wikipedia.org/wiki/高橋慶彦 "wikilink")、[江本孟紀](../Page/江本孟紀.md "wikilink")、[加藤博一](https://ja.wikipedia.org/wiki/加藤博一 "wikilink")、[小林繁](https://ja.wikipedia.org/wiki/小林繁 "wikilink")、[香川伸行](https://ja.wikipedia.org/wiki/香川伸行 "wikilink")
+  - [アテネオリンピック野球日本代表](https://ja.wikipedia.org/wiki/アテネオリンピック野球日本代表 "wikilink")“長嶋ジャパン” - 2005年1月2日。[宮本慎也](https://ja.wikipedia.org/wiki/宮本慎也 "wikilink")、[和田一浩](https://ja.wikipedia.org/wiki/和田一浩 "wikilink")、[小笠原道大](https://ja.wikipedia.org/wiki/小笠原道大 "wikilink")、[清水直行](https://ja.wikipedia.org/wiki/清水直行 "wikilink")、[上原浩治](https://ja.wikipedia.org/wiki/上原浩治 "wikilink")、[三浦大輔](../Page/三浦大輔.md "wikilink")、[石井弘寿](https://ja.wikipedia.org/wiki/石井弘寿 "wikilink")、[和田毅](https://ja.wikipedia.org/wiki/和田毅 "wikilink")、[岩隈久志](https://ja.wikipedia.org/wiki/岩隈久志 "wikilink")
+
+[\#プロ野球スペシャル](https://ja.wikipedia.org/wiki/#プロ野球スペシャル "wikilink")も参照 サッカー
+
+  - [ラモスとその仲間たち](../Page/ラモス瑠偉.md "wikilink") - 2000年3月27日。ラモス瑠偉、[松木安太郎](https://ja.wikipedia.org/wiki/松木安太郎 "wikilink")、[金田喜稔](https://ja.wikipedia.org/wiki/金田喜稔 "wikilink")、[水沼貴史](../Page/水沼貴史.md "wikilink")、[柱谷幸一](https://ja.wikipedia.org/wiki/柱谷幸一 "wikilink")、[都並敏史](https://ja.wikipedia.org/wiki/都並敏史 "wikilink")が来園。
+  - [サッカー日本代表](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")“ジーコジャパン” - 2005年12月26日。[福西崇史](https://ja.wikipedia.org/wiki/福西崇史 "wikilink")、[田中誠](https://ja.wikipedia.org/wiki/田中誠_\(サッカー選手\) "wikilink")、[宮本恒靖](../Page/宮本恒靖.md "wikilink")、[三都主アレサンドロ](https://ja.wikipedia.org/wiki/三都主アレサンドロ "wikilink")が来園。[大黒将志](https://ja.wikipedia.org/wiki/大黒将志 "wikilink")も来園を予定していたが「ウォールクラッシュ」のリハーサル中に右足をひねり、来園を見合わせた。
+
+相撲
+
+  - 大相撲関取チーム - 1996年3月25日。[舞の海](https://ja.wikipedia.org/wiki/舞の海 "wikilink")、[安芸乃島](https://ja.wikipedia.org/wiki/安芸乃島 "wikilink")、[旭道山](https://ja.wikipedia.org/wiki/旭道山 "wikilink")、[寺尾](https://ja.wikipedia.org/wiki/寺尾常史 "wikilink")、[霧島](https://ja.wikipedia.org/wiki/霧島一博 "wikilink")、[貴闘力](https://ja.wikipedia.org/wiki/貴闘力 "wikilink")
+  - 大相撲チーム - 1996年12月30日。 [武蔵丸](https://ja.wikipedia.org/wiki/武蔵丸 "wikilink")、[水戸泉](https://ja.wikipedia.org/wiki/水戸泉 "wikilink")、[小錦](https://ja.wikipedia.org/wiki/小錦八十吉_\(6代\) "wikilink")、[武双山](https://ja.wikipedia.org/wiki/武双山 "wikilink")、[魁皇](https://ja.wikipedia.org/wiki/魁皇 "wikilink")、[剣晃](https://ja.wikipedia.org/wiki/剣晃 "wikilink")
+  - [貴乃花部屋](https://ja.wikipedia.org/wiki/貴乃花部屋 "wikilink")親方衆 - 2004年12月27日。[貴乃花](https://ja.wikipedia.org/wiki/貴乃花光司 "wikilink")・[常盤山](https://ja.wikipedia.org/wiki/常盤山 "wikilink")・[大嶽](https://ja.wikipedia.org/wiki/大嶽_\(相撲\) "wikilink")・[音羽山](https://ja.wikipedia.org/wiki/音羽山_\(相撲\) "wikilink")
+
+その他のスポーツ
+
+  - プロゴルファー仲良しチーム - 1996年9月23日。[丸山茂樹](../Page/丸山茂樹.md "wikilink")、[深堀圭一郎](https://ja.wikipedia.org/wiki/深堀圭一郎 "wikilink")、[室田淳](https://ja.wikipedia.org/wiki/室田淳 "wikilink")、[小達敏昭](https://ja.wikipedia.org/wiki/小達敏昭 "wikilink")、[横田真一](https://ja.wikipedia.org/wiki/横田真一 "wikilink")、[田中秀道](https://ja.wikipedia.org/wiki/田中秀道 "wikilink")
+  - レーサーチーム - 1998年12月21日。[近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")、[片山右京](https://ja.wikipedia.org/wiki/片山右京 "wikilink")、[鈴木亜久里](https://ja.wikipedia.org/wiki/鈴木亜久里 "wikilink")、[土屋圭市](https://ja.wikipedia.org/wiki/土屋圭市 "wikilink")
+  - [バレーボール全日本女子](https://ja.wikipedia.org/wiki/バレーボール全日本女子 "wikilink")“柳本ジャパン” - 2006年10月9日。スペシャルだがアトラクションが5つの珍しい回だった。グランドスラム達成。
+  - [世界陸上](https://ja.wikipedia.org/wiki/世界陸上 "wikilink")チーム - 2007年3月26日
+  - [K-1 Dynamite\!\!](https://ja.wikipedia.org/wiki/K-1_PREMIUM_Dynamite!! "wikilink") 格闘家軍団 - 2007年12月24日
+  - [フィギュアスケーターチーム](../Page/フィギュアスケート.md "wikilink") - 2009年5月7日。[織田信成](https://ja.wikipedia.org/wiki/織田信成_\(フィギュアスケート選手\) "wikilink")、[安藤美姫](https://ja.wikipedia.org/wiki/安藤美姫 "wikilink")、[小塚崇彦](https://ja.wikipedia.org/wiki/小塚崇彦 "wikilink")、[浅田真央](https://ja.wikipedia.org/wiki/浅田真央 "wikilink")
+  - 水泳日本代表 - 2009年8月20日。[松田丈志](https://ja.wikipedia.org/wiki/松田丈志 "wikilink")、[入江陵介](https://ja.wikipedia.org/wiki/入江陵介 "wikilink")、[内田翔](https://ja.wikipedia.org/wiki/内田翔 "wikilink")、[古賀淳也](https://ja.wikipedia.org/wiki/古賀淳也 "wikilink")、[酒井志穂](https://ja.wikipedia.org/wiki/酒井志穂 "wikilink")、[立石諒](https://ja.wikipedia.org/wiki/立石諒 "wikilink")
+
+複数のスポーツのアスリート
+
+  - スポーツ美女チーム - 1998年3月23日
+  - [松岡修造](../Page/松岡修造.md "wikilink")率いるアスリートチーム - 2003年3月31日。松岡修造、[鈴木大地](https://ja.wikipedia.org/wiki/鈴木大地 "wikilink")、[武田修宏](https://ja.wikipedia.org/wiki/武田修宏 "wikilink")、[荻原健司](https://ja.wikipedia.org/wiki/荻原健司 "wikilink")、[小谷実可子](https://ja.wikipedia.org/wiki/小谷実可子 "wikilink")、[伊達公子](https://ja.wikipedia.org/wiki/伊達公子 "wikilink")
+  - 北京オリンピックメダリスト - 2008年9月29日
+
+<!-- end list -->
+
+  - TBS系列の番組出演者チーム
+
+ドラマ・映画
+
+  - 『[水戸黄門](https://ja.wikipedia.org/wiki/水戸黄門_\(パナソニック_ドラマシアター\) "wikilink")』1994年9月26日 初のスペシャル版。第23部のメンバーが来園したが、[風車の弥七](https://ja.wikipedia.org/wiki/風車の弥七 "wikilink")役の[中谷一郎](https://ja.wikipedia.org/wiki/中谷一郎 "wikilink")はリハビリ中のため不参加、同部第34話より復帰。グランドスラム達成
+  - 『[渡る世間は鬼ばかり](https://ja.wikipedia.org/wiki/渡る世間は鬼ばかり "wikilink")』 - 1995年3月27日、2001年3月26日、2002年9月30日、2004年9月27日、2006年3月27日。2001年3月26日放送分では、グランドスラムを達成。
+  - 『[長男の嫁](https://ja.wikipedia.org/wiki/長男の嫁 "wikilink")2』 - 1995年10月2日
+  - 『[ふぞろいの林檎たち](https://ja.wikipedia.org/wiki/ふぞろいの林檎たち "wikilink")』 - 1997年3月31日
+  - 『[里見八犬伝](https://ja.wikipedia.org/wiki/里見八犬伝_\(2006年のテレビドラマ\) "wikilink")』 - 2006年1月2日。[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")、[佐藤隆太](https://ja.wikipedia.org/wiki/佐藤隆太 "wikilink")、[小澤征悦](../Page/小澤征悦.md "wikilink")、[照英](https://ja.wikipedia.org/wiki/照英 "wikilink")、[山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink")、[勝地涼](https://ja.wikipedia.org/wiki/勝地涼 "wikilink")、[山下翔央](https://ja.wikipedia.org/wiki/山下翔央 "wikilink")
+  - 『[花より男子](https://ja.wikipedia.org/wiki/花より男子 "wikilink")2（リターンズ）』 - 2006年12月25日。 [井上真央](https://ja.wikipedia.org/wiki/井上真央 "wikilink")、[松本潤](../Page/松本潤.md "wikilink")、[小栗旬](https://ja.wikipedia.org/wiki/小栗旬 "wikilink")、[松田翔太](https://ja.wikipedia.org/wiki/松田翔太 "wikilink")、[阿部力](https://ja.wikipedia.org/wiki/阿部力 "wikilink")
+  - 『[3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")』 - 2007年9月24日。 [武田鉄矢](../Page/武田鉄矢.md "wikilink")、[杉田かおる](https://ja.wikipedia.org/wiki/杉田かおる "wikilink")、[三原じゅん子](https://ja.wikipedia.org/wiki/三原じゅん子 "wikilink")、[風間俊介](https://ja.wikipedia.org/wiki/風間俊介 "wikilink")、[本仮屋ユイカ](https://ja.wikipedia.org/wiki/本仮屋ユイカ "wikilink")、[中尾明慶](https://ja.wikipedia.org/wiki/中尾明慶 "wikilink")、[濱田岳](https://ja.wikipedia.org/wiki/濱田岳 "wikilink")
+  - 『[流星の絆](https://ja.wikipedia.org/wiki/流星の絆 "wikilink")』 - 2008年10月6日。 [二宮和也](https://ja.wikipedia.org/wiki/二宮和也 "wikilink")、[錦戸亮](https://ja.wikipedia.org/wiki/錦戸亮 "wikilink")、[戸田恵梨香](https://ja.wikipedia.org/wiki/戸田恵梨香 "wikilink")、[要潤](https://ja.wikipedia.org/wiki/要潤 "wikilink")、[設楽統](https://ja.wikipedia.org/wiki/設楽統 "wikilink")
+  - 映画『[涙そうそう](https://ja.wikipedia.org/wiki/涙そうそう_\(映画\) "wikilink")』 - 2006年9月25日。 [妻夫木聡](https://ja.wikipedia.org/wiki/妻夫木聡 "wikilink")、[長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")、[塚本高史](https://ja.wikipedia.org/wiki/塚本高史 "wikilink")、[普久原明](https://ja.wikipedia.org/wiki/普久原明 "wikilink")。このときは、フラッシュザウルスがフラッシュシーサーになる等、アトラクションが沖縄仕様になっていた。
+  - 映画『ROOKIES-卒業-』 - 2009年5月28日 [佐藤隆太](https://ja.wikipedia.org/wiki/佐藤隆太 "wikilink")、[市原隼人](https://ja.wikipedia.org/wiki/市原隼人 "wikilink")、[小出恵介](https://ja.wikipedia.org/wiki/小出恵介 "wikilink")、[城田優](https://ja.wikipedia.org/wiki/城田優 "wikilink")、[中尾明慶](https://ja.wikipedia.org/wiki/中尾明慶 "wikilink")、[高岡蒼甫](https://ja.wikipedia.org/wiki/高岡蒼甫 "wikilink")、[桐谷健太](https://ja.wikipedia.org/wiki/桐谷健太 "wikilink")、[佐藤健](https://ja.wikipedia.org/wiki/佐藤健_\(俳優\) "wikilink")、[五十嵐隼士](https://ja.wikipedia.org/wiki/五十嵐隼士 "wikilink")、[川村陽介](https://ja.wikipedia.org/wiki/川村陽介 "wikilink")、[尾上寛之](https://ja.wikipedia.org/wiki/尾上寛之 "wikilink")
+
+バラエティ・情報番組
+
+  - 『[はなまるマーケット](https://ja.wikipedia.org/wiki/はなまるマーケット "wikilink")』 - 1998年10月5日。[薬丸裕英](https://ja.wikipedia.org/wiki/薬丸裕英 "wikilink")、[岡江久美子](https://ja.wikipedia.org/wiki/岡江久美子 "wikilink")、[早見優](../Page/早見優.md "wikilink")、[Take2](https://ja.wikipedia.org/wiki/Take2 "wikilink")、[斎藤哲也](https://ja.wikipedia.org/wiki/斎藤哲也 "wikilink")
+  - 『[ウンナンのホントコ\!](https://ja.wikipedia.org/wiki/ウンナンのホントコ! "wikilink")』 - 2001年10月1日。[ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")、[柳沢慎吾](https://ja.wikipedia.org/wiki/柳沢慎吾 "wikilink")、[三村マサカズ](https://ja.wikipedia.org/wiki/三村マサカズ "wikilink")、[山田花子](https://ja.wikipedia.org/wiki/山田花子 "wikilink")、[優香](../Page/優香.md "wikilink")
+  - 『[日立 世界・ふしぎ発見\!](https://ja.wikipedia.org/wiki/日立_世界・ふしぎ発見! "wikilink")』 - 2003年9月29日 グランドスラム達成
+  - TBSアナウンサーチーム - 2006年4月3日 [安東弘樹](https://ja.wikipedia.org/wiki/安東弘樹 "wikilink")、[海保知里](https://ja.wikipedia.org/wiki/海保知里 "wikilink")、[久保田智子](https://ja.wikipedia.org/wiki/久保田智子 "wikilink")、[川田亜子](https://ja.wikipedia.org/wiki/川田亜子 "wikilink")、[小林麻耶](https://ja.wikipedia.org/wiki/小林麻耶 "wikilink")、[青木裕子](https://ja.wikipedia.org/wiki/青木裕子_\(1983年生\) "wikilink")
+  - 『[ウンナン極限ネタバトル\! ザ・イロモネア 笑わせたら100万円](https://ja.wikipedia.org/wiki/ウンナン極限ネタバトル!_ザ・イロモネア_笑わせたら100万円 "wikilink")』 - 2009年10月15日 [ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")（[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")・[南原清隆](../Page/南原清隆.md "wikilink")）、[有吉弘行](https://ja.wikipedia.org/wiki/有吉弘行 "wikilink")、[いとうあさこ](https://ja.wikipedia.org/wiki/いとうあさこ "wikilink")、[インパルス](https://ja.wikipedia.org/wiki/インパルス_\(お笑いコンビ\) "wikilink")・[板倉俊之](https://ja.wikipedia.org/wiki/板倉俊之 "wikilink")、[オードリー](https://ja.wikipedia.org/wiki/オードリー_\(お笑いコンビ\) "wikilink")（[春日俊彰](https://ja.wikipedia.org/wiki/春日俊彰 "wikilink")・[若林正恭](https://ja.wikipedia.org/wiki/若林正恭 "wikilink")）、[狩野英孝](https://ja.wikipedia.org/wiki/狩野英孝 "wikilink")、[小島よしお](https://ja.wikipedia.org/wiki/小島よしお "wikilink")、[ザブングル](https://ja.wikipedia.org/wiki/ザブングル_\(お笑いコンビ\) "wikilink")（加藤歩・松尾陽介）、[バナナマン](https://ja.wikipedia.org/wiki/バナナマン "wikilink")（[日村勇紀](https://ja.wikipedia.org/wiki/日村勇紀 "wikilink")・[設楽統](https://ja.wikipedia.org/wiki/設楽統 "wikilink")）、[森三中](https://ja.wikipedia.org/wiki/森三中 "wikilink")（[大島美幸](https://ja.wikipedia.org/wiki/大島美幸 "wikilink")・[村上知子](https://ja.wikipedia.org/wiki/村上知子 "wikilink")・[黒沢かずこ](https://ja.wikipedia.org/wiki/黒沢かずこ "wikilink")）、我が家（[坪倉由幸](https://ja.wikipedia.org/wiki/坪倉由幸 "wikilink")・[杉山裕之](https://ja.wikipedia.org/wiki/杉山裕之 "wikilink")・[谷田部俊](https://ja.wikipedia.org/wiki/谷田部俊 "wikilink")）が出演。狩野・板倉・ザブングルは途中退場、入れ代わりでいとう・オードリー・バナナマンが加入した。ウォールクラッシュ、ビッグチャレンジを除き、イロモネアステージをクリアした芸人のみがアトラクションに挑戦できる特別ルール。
+
+<!-- end list -->
+
+  - 対抗戦スペシャル
+
+<!-- end list -->
+
+  - トップアスリート軍団4チーム対抗戦 - 2009年1月1日。 ゴルフチーム対世界選抜チーム対OB・OGチーム対野球チーム。優勝チームにはカリブ海クルーズ11日間の旅が贈られた。ルールについては[東京フレンドパークのアトラクション一覧 \#2009元日SPを参照](https://ja.wikipedia.org/wiki/東京フレンドパークのアトラクション一覧_#2009元日SP "wikilink")。
+  - [ハンチョウ](https://ja.wikipedia.org/wiki/ハンチョウ "wikilink")チーム対[ブラッディマンディチーム](https://ja.wikipedia.org/wiki/BLOODY_MONDAY "wikilink") - 2010年1月14日
+  - バンクーバーオリンピックチーム対[タンブリング](https://ja.wikipedia.org/wiki/タンブリング "wikilink")チーム - 2010年3月29日
+
+<!-- end list -->
+
+  - 総集編及び最終回
+
+<!-- end list -->
+
+  - 新春特別版\!10周年だな\!お年玉スペシャル - 2003年1月2日。
+  - 10周年だな\!愛と友情の好珍プレー来園1200人大公開SP - 2003年9月26日。[スーパーフライデー](https://ja.wikipedia.org/wiki/スーパーフライデー "wikilink")枠で放送。過去に来園したゲストの好珍プレーとダーツに挑戦\!でパジェロが当たった視聴者にパジェロを届ける様子が放送された。道中では、ゲームセンターに寄り、関口＆渡辺vsホンジャマカのホッケー対決もあった。
+  - 新春特別開園スペシャル - 2009年1月1日。トップアスリート軍団4チーム対抗戦とともに放送。過去に来園したゲストの好珍プレーのベスト30、ウォールクラッシュクラシック(過去にこんな人が飛んでいたのを紹介)が放送された。
+  - 最終回生放送スペシャル - 2011年3月28日。ウォールクラッシュ、フラッシュザウルス、ネヴァーワイプアウト、ストッパーキューブリッジ、ハイパーホッケーの好珍プレーと出演ゲストの最後のアトラクション挑戦が放送された。
+
+### プロ野球スペシャル
+
+1995年からは毎年恒例で、[プロ野球選手](../Page/プロ野球選手.md "wikilink")によるチームがフレンドパークのアトラクションに挑戦している。出演するのは主に同年の日本シリーズ優勝チームである。チームと結果（獲得金貨枚数）は次の通り。
+
+  - [1995年](https://ja.wikipedia.org/wiki/1995年の日本シリーズ "wikilink")12月25日 - [ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")（6枚）
+  - 1996年12月23日 - [読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")（4枚） ※リーグ優勝。同年の日本一チームは[オリックスブルーウェーブ](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")
+  - [1997年](https://ja.wikipedia.org/wiki/1997年の日本シリーズ "wikilink")12月29日 - ヤクルトスワローズ（12枚） ※プロ野球スペシャルで史上初のグランドスラム　※獲得金貨最高枚数
+  - [1998年](https://ja.wikipedia.org/wiki/1998年の日本シリーズ "wikilink")12月28日 - [横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")（[石井琢](https://ja.wikipedia.org/wiki/石井琢朗 "wikilink")、[波留](https://ja.wikipedia.org/wiki/波留敏夫 "wikilink")、[鈴木尚](https://ja.wikipedia.org/wiki/鈴木尚典 "wikilink")、[谷繁](https://ja.wikipedia.org/wiki/谷繁元信 "wikilink")、[斎藤隆](https://ja.wikipedia.org/wiki/斎藤隆_\(野球\) "wikilink")、[島田](https://ja.wikipedia.org/wiki/島田直也 "wikilink")・8枚）
+  - [1999年](../Page/1999年の日本シリーズ.md "wikilink")12月27日 - [福岡ダイエーホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")（5枚）
+  - [2000年](../Page/2000年の日本シリーズ.md "wikilink")12月25日 - 読売ジャイアンツ（5枚）
+  - 2001年11月12日 - [大阪近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")（2枚）※リーグ優勝。※通常放送
+  - [2001年](../Page/2001年の日本シリーズ.md "wikilink")12月24日 - ヤクルトスワローズ（9枚）※チームとしては2度目のグランドスラム
+  - [2002年](../Page/2002年の日本シリーズ.md "wikilink")12月23日 - 読売ジャイアンツ（[仁志](https://ja.wikipedia.org/wiki/仁志敏久 "wikilink")、[條辺](https://ja.wikipedia.org/wiki/條辺剛 "wikilink")、[斉藤](https://ja.wikipedia.org/wiki/斉藤宜之 "wikilink")、[元木](https://ja.wikipedia.org/wiki/元木大介 "wikilink")、[真田](https://ja.wikipedia.org/wiki/真田裕貴 "wikilink")、[阿部](https://ja.wikipedia.org/wiki/阿部慎之助 "wikilink")・6枚）
+  - [2003年](https://ja.wikipedia.org/wiki/2003年の日本シリーズ "wikilink")12月29日 - 福岡ダイエーホークス（[井口](https://ja.wikipedia.org/wiki/井口資仁 "wikilink")、[岡本](https://ja.wikipedia.org/wiki/岡本克道 "wikilink")、[柴原](https://ja.wikipedia.org/wiki/柴原洋 "wikilink")、[斉藤和](https://ja.wikipedia.org/wiki/斉藤和巳 "wikilink")、[和田](https://ja.wikipedia.org/wiki/和田毅 "wikilink")、[川﨑](https://ja.wikipedia.org/wiki/川崎宗則 "wikilink")、[新垣](https://ja.wikipedia.org/wiki/新垣渚 "wikilink")、[田口](https://ja.wikipedia.org/wiki/田口昌徳 "wikilink")・11枚）
+  - 2004年1月3日 - [阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")（[金本](https://ja.wikipedia.org/wiki/金本知憲 "wikilink")、[片岡](https://ja.wikipedia.org/wiki/片岡篤史 "wikilink")、[秀太](https://ja.wikipedia.org/wiki/田中秀太 "wikilink")、[吉野](https://ja.wikipedia.org/wiki/吉野誠 "wikilink")、[金澤](https://ja.wikipedia.org/wiki/金澤健人 "wikilink")、[広澤](../Page/広澤克実.md "wikilink")・9枚）※リーグ優勝
+  - [2005年](https://ja.wikipedia.org/wiki/2005年の日本シリーズ "wikilink")11月21日 - [千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")（[清水](https://ja.wikipedia.org/wiki/清水直行 "wikilink")、[小林宏](https://ja.wikipedia.org/wiki/小林宏之_\(野球\) "wikilink")、[里崎](https://ja.wikipedia.org/wiki/里崎智也 "wikilink")、[今江](https://ja.wikipedia.org/wiki/今江敏晃 "wikilink")、[西岡](https://ja.wikipedia.org/wiki/西岡剛_\(内野手\) "wikilink")・6枚）※通常放送。[アジアシリーズ優勝翌日](https://ja.wikipedia.org/wiki/2005年のアジアシリーズ "wikilink")（2005年11月14日）に収録したため、同決勝戦で故障した今江は一部アトラクションのみの参加。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年の日本シリーズ "wikilink")11月27日 - [北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")（[金子誠](https://ja.wikipedia.org/wiki/金子誠 "wikilink")、[稲葉](https://ja.wikipedia.org/wiki/稲葉篤紀 "wikilink")、[森本](https://ja.wikipedia.org/wiki/森本稀哲 "wikilink")、[田中賢](https://ja.wikipedia.org/wiki/田中賢介 "wikilink")、[八木](https://ja.wikipedia.org/wiki/八木智哉 "wikilink")・5枚）※通常放送
+  - [2008年](https://ja.wikipedia.org/wiki/2008年の日本シリーズ "wikilink")12月1日 - [埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")（[石井一](../Page/石井一久.md "wikilink")、[涌井](https://ja.wikipedia.org/wiki/涌井秀章 "wikilink")・3枚）※通常放送
+  - [2009年](https://ja.wikipedia.org/wiki/2009年の日本シリーズ "wikilink")12月17日 - 読売ジャイアンツ（[内海](https://ja.wikipedia.org/wiki/内海哲也 "wikilink")、[亀井](https://ja.wikipedia.org/wiki/亀井義行 "wikilink")、[越智](https://ja.wikipedia.org/wiki/越智大祐 "wikilink")、[山口](https://ja.wikipedia.org/wiki/山口鉄也 "wikilink")、[松本](https://ja.wikipedia.org/wiki/松本哲也_\(野球\) "wikilink")、[東野](https://ja.wikipedia.org/wiki/東野峻 "wikilink")、[坂本](https://ja.wikipedia.org/wiki/坂本勇人 "wikilink")・5枚）※通常放送
+  - [2010年](https://ja.wikipedia.org/wiki/2010年の日本シリーズ "wikilink")12月13日 - 千葉ロッテマリーンズ（井口、里崎、今江、西岡、[清田](https://ja.wikipedia.org/wiki/清田育宏 "wikilink")・3枚）※通常放送。
+
+日本シリーズ制覇やリーグ優勝とは関係なく来園
+
+  - 2010年2月18日 - 横浜ベイスターズ（清水、[内川](https://ja.wikipedia.org/wiki/内川聖一 "wikilink")、[吉村](https://ja.wikipedia.org/wiki/吉村裕基 "wikilink")・2枚） 対 埼玉西武ライオンズ（石井一、[片岡](https://ja.wikipedia.org/wiki/片岡治大 "wikilink")、[中島](https://ja.wikipedia.org/wiki/中島裕之 "wikilink")・3枚）※通常放送。プロ野球スペシャル初の対抗戦。
+  - 2011年1月10日 - 読売ジャイアンツ（内海、山口、松本、東野、坂本、[長野](https://ja.wikipedia.org/wiki/長野久義 "wikilink")・9枚）※通常放送
+
+<!-- end list -->
+
+  -
+    ※[槙原寛己](https://ja.wikipedia.org/wiki/槙原寛己 "wikilink")は1996年のプロ野球スペシャルの他、単独で4回。またスポーツチーム対抗戦で野球チーム主将として、この番組最多の6回の出場記録を持っている。
+    ※2004年日本シリーズ優勝時の西武は、同グループ企業の[西武鉄道](../Page/西武鉄道.md "wikilink")に不祥事が発覚した時期だったため出場していない。また[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")の選手については、球団側が在籍選手のキー局制作のバラエティ番組への出演（特に団体出演）に消極的だったためか、一度も呼ばれなかった（チームとしても\[33\]、日本代表メンバーとしても）。また[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")の選手についても、放送当時は優勝から遠ざかるなど低迷していたことや、中日と同じく球団側が在籍選手の在京キー局の番組への出演に消極的だったことから出演実績がなかった\[34\]。
+
+## ミニ番組
+
+1999年4月より、来園者のインタビューをメインとした[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")を開始。『後のまつり』は月曜時代の本編放送後に、『ナビっち』は木曜時代の本編開始前に放送している。TBSでは全ての番組を通して[エフ・ジェー・ネクスト](https://ja.wikipedia.org/wiki/エフ・ジェー・ネクスト "wikilink")の[一社提供](https://ja.wikipedia.org/wiki/一社提供 "wikilink")。
+
+### 後のまつり（第1期）
+
+本編終了後の19:54から（実際には19:55:15 - 19:56:45）放送された（新聞等の番組表では特記されていないものの、編成上は別番組となる）。2005年3月までは[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")でも放送されていた。
+
+従業員・[西秋元喜](https://ja.wikipedia.org/wiki/西秋元喜 "wikilink")が当日の来園者の楽屋を訪れ、来園者とその日の活躍を振り返るトークが中心。映画や舞台などのチームで来園した場合、番組本編ではなくここで宣伝が行われるケースがほとんどである。
+
+重大なニュースが入った場合はニュースに差し替えられる。特別営業や20:00から1時間以上の[特番が組まれた場合は](https://ja.wikipedia.org/wiki/特別番組 "wikilink")、この[時間帯](https://ja.wikipedia.org/wiki/時間帯 "wikilink")に『[JNNフラッシュニュース](https://ja.wikipedia.org/wiki/JNNフラッシュニュース "wikilink")』を放送したため休止した。
+
+### ナビっち → もうすぐ関口宏の東京フレンドパークII
+
+2009年春の放送枠移動を期に、19:50からミニ[番宣番組](https://ja.wikipedia.org/wiki/番組宣伝 "wikilink")『[ナビっち](https://ja.wikipedia.org/wiki/ナビっち "wikilink")』内で同年4月23日開始（実際は4月2日に開始）。その後6月末で『ナビっち』木曜の放送が終了したのに伴い、番組表上では『関口宏の東京フレンドパークII』の放送開始時間が5分繰り上がる形式になっている。
+
+TBS以外では、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")・[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[中部日本放送でも放送されていた](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")。
+
+内容は、2002年春に月曜18:55開始へ変更された当初設けられていた、従業員でTBSアナウンサーの[小林豊による来園者インタビューの復活版を放送していたが](https://ja.wikipedia.org/wiki/小林豊_\(アナウンサー\) "wikilink")、同年秋にはインタビューがなくなり、オーソドックスな本編予告に。
+
+### 後のまつり（第2期）
+
+月曜19時台に戻った2010年4月12日より「後のまつり」も復活したが、第1期と違って番組表等にも掲載されるようになり、名実共に単独番組となったのに加え、2時間SPなどの場合でも放送されるようになった。インタビュアーは同時期に新従業員となったTBSアナウンサーの[田中みな実](https://ja.wikipedia.org/wiki/田中みな実 "wikilink")に交代した。TBS以外の局での放送はない。
+
+## グランドスラム関連の記録
+
+### グランドスラム達成者
+
+グランドスラムを達成したゲストは全52組。また、開園した1992年と1995年と1998年とチーム対抗戦SPでは、グランドスラム達成者1組もいなかった。そのうち、リクエスト賞品及び豪華賞品を1つも獲得出来なかったのは[榊原郁恵](https://ja.wikipedia.org/wiki/榊原郁恵 "wikilink")と[井森美幸](https://ja.wikipedia.org/wiki/井森美幸 "wikilink")（2007年11月5日放送分）のみ、車及びスペシャル賞品を射止めたのは11組である。なお放送回数は「TFP2」でのレギュラー放送のカウントとし、放送年度は当年4月から翌年3月までとする。
+
+  - 『ムーブ』時代（1組）※[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")-[1993年](../Page/1993年.md "wikilink")[9月](../Page/9月.md "wikilink")まで。
+
+<!-- end list -->
+
+  - [小柳ルミ子](https://ja.wikipedia.org/wiki/小柳ルミ子 "wikilink")・[大澄賢也](https://ja.wikipedia.org/wiki/大澄賢也 "wikilink")（1993年5月17日・第29回）
+      -
+        『ムーブ』時代唯一のグランドスラム。
+
+<!-- end list -->
+
+  - [1994年](../Page/1994年.md "wikilink")度（4組）
+
+<!-- end list -->
+
+  - [定岡正二](https://ja.wikipedia.org/wiki/定岡正二 "wikilink")・[角盈男](https://ja.wikipedia.org/wiki/角盈男 "wikilink")（1994年9月5日・第22回）
+      -
+        「TFP2」初のグランドスラム。同時にビッグチャレンジで「パジェロ」とのW獲得も達成する。
+  - [水戸黄門チーム](https://ja.wikipedia.org/wiki/水戸黄門_\(パナソニック_ドラマシアター\) "wikilink")（[佐野浅夫](https://ja.wikipedia.org/wiki/佐野浅夫 "wikilink")、[あおい輝彦](https://ja.wikipedia.org/wiki/あおい輝彦 "wikilink")、[伊吹吾郎](https://ja.wikipedia.org/wiki/伊吹吾郎 "wikilink")、[高橋元太郎](https://ja.wikipedia.org/wiki/高橋元太郎 "wikilink")、[由美かおる](https://ja.wikipedia.org/wiki/由美かおる "wikilink")、[野村将希](https://ja.wikipedia.org/wiki/野村将希 "wikilink")）（1994年9月26日）※スペシャル版
+  - [見栄晴](https://ja.wikipedia.org/wiki/見栄晴 "wikilink")・[前田耕陽](https://ja.wikipedia.org/wiki/前田耕陽 "wikilink")（1994年10月31日・第28回）
+  - [秋山幸二](https://ja.wikipedia.org/wiki/秋山幸二 "wikilink")・[松村雄基](https://ja.wikipedia.org/wiki/松村雄基 "wikilink")（1994年12月12日・第34回）
+
+<!-- end list -->
+
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")度（0組）
+    [1996年](../Page/1996年.md "wikilink")度（4組）
+
+<!-- end list -->
+
+  - [高樹沙耶](https://ja.wikipedia.org/wiki/益戸育江 "wikilink")・[財前直見](../Page/財前直見.md "wikilink")（1996年4月15日・第92回）
+  - [寺尾聰](https://ja.wikipedia.org/wiki/寺尾聰 "wikilink")・[西山浩司](https://ja.wikipedia.org/wiki/西山浩司 "wikilink")（1996年8月12日・第108回）
+      -
+        同時にビッグチャレンジで「パジェロ」とのW獲得も達成する。
+  - [村田雄浩](https://ja.wikipedia.org/wiki/村田雄浩 "wikilink")・[香川照之](../Page/香川照之.md "wikilink")（1997年2月10日・第130回）
+  - [松尾貴史](https://ja.wikipedia.org/wiki/松尾貴史 "wikilink")・[金山一彦](https://ja.wikipedia.org/wiki/金山一彦 "wikilink")（1997年2月17日・第131回）
+      -
+        番組初の2週連続グランドスラム。
+
+<!-- end list -->
+
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")度（2組）
+
+<!-- end list -->
+
+  - [城彰二](https://ja.wikipedia.org/wiki/城彰二 "wikilink")・[小菅麻里](https://ja.wikipedia.org/wiki/小菅麻里 "wikilink")（1997年12月15日・第170回）
+  - [ヤクルトスワローズチーム](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")（[野村克也](../Page/野村克也.md "wikilink")、[古田敦也](../Page/古田敦也.md "wikilink")、[石井一久](../Page/石井一久.md "wikilink")、[高津臣吾](https://ja.wikipedia.org/wiki/高津臣吾 "wikilink")、[田畑一也](https://ja.wikipedia.org/wiki/田畑一也 "wikilink")、[伊藤智仁](https://ja.wikipedia.org/wiki/伊藤智仁 "wikilink")、[川崎憲次郎](https://ja.wikipedia.org/wiki/川崎憲次郎 "wikilink")）（1997年12月29日）※スペシャル版
+
+<!-- end list -->
+
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")度（3組）
+
+<!-- end list -->
+
+  - [中山雅史](../Page/中山雅史.md "wikilink")・[大林素子](https://ja.wikipedia.org/wiki/大林素子 "wikilink")（1999年1月25日・第217回）
+  - [柴田理恵](https://ja.wikipedia.org/wiki/柴田理恵 "wikilink")・[おさる](https://ja.wikipedia.org/wiki/おさる "wikilink")（1999年3月1日・第222回）
+  - [九重親方](https://ja.wikipedia.org/wiki/千代の富士貢 "wikilink")・[千代大海龍二](https://ja.wikipedia.org/wiki/千代大海龍二 "wikilink")（1999年3月8日・第223回）
+      -
+        史上2度目の2週連続グランドスラム。
+
+<!-- end list -->
+
+  - [1999年](../Page/1999年.md "wikilink")度（3組）
+
+<!-- end list -->
+
+  - [もんたよしのり](https://ja.wikipedia.org/wiki/もんたよしのり "wikilink")・[グッチ裕三](https://ja.wikipedia.org/wiki/グッチ裕三 "wikilink")（1999年5月10日・第231回）
+  - [中条きよし](https://ja.wikipedia.org/wiki/中条きよし "wikilink")・[堤大二郎](https://ja.wikipedia.org/wiki/堤大二郎 "wikilink")（1999年6月7日・第235回）
+      -
+        同時にビッグチャレンジで「パジェロ」とのW獲得も達成する。
+  - [工藤公康](https://ja.wikipedia.org/wiki/工藤公康 "wikilink")・[薬丸裕英](https://ja.wikipedia.org/wiki/薬丸裕英 "wikilink")（2000年1月24日・第264回）
+      -
+        同時にビッグチャレンジで「パジェロ」とのW獲得も達成する。
+
+<!-- end list -->
+
+  - [2000年](../Page/2000年.md "wikilink")度（4組）
+
+<!-- end list -->
+
+  - [ともさかりえ](https://ja.wikipedia.org/wiki/ともさかりえ "wikilink")・[藤原竜也](https://ja.wikipedia.org/wiki/藤原竜也 "wikilink")（2000年4月10日・第273回）
+  - [東幹久](https://ja.wikipedia.org/wiki/東幹久 "wikilink")・[立河宜子](https://ja.wikipedia.org/wiki/立河宜子 "wikilink")（2000年7月24日・第287回）
+  - [佐々木主浩](../Page/佐々木主浩.md "wikilink")・[谷繁元信](https://ja.wikipedia.org/wiki/谷繁元信 "wikilink")（2001年2月12日・第312回）
+  - [渡る世間は鬼ばかり](https://ja.wikipedia.org/wiki/渡る世間は鬼ばかり "wikilink")チーム（2001年3月26日）※スペシャル版
+
+<!-- end list -->
+
+  - [2001年](../Page/2001年.md "wikilink")度（3組）
+
+<!-- end list -->
+
+  - [加藤晴彦](https://ja.wikipedia.org/wiki/加藤晴彦 "wikilink")・[優香](../Page/優香.md "wikilink")（2001年4月9日・第318回）
+      -
+        同時にビッグチャレンジで「パジェロ」とのW獲得も達成する。
+  - [ヤクルトスワローズチーム](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")（[古田敦也](../Page/古田敦也.md "wikilink")、[高津臣吾](https://ja.wikipedia.org/wiki/高津臣吾 "wikilink")、[池山隆寛](https://ja.wikipedia.org/wiki/池山隆寛 "wikilink")、[石井一久](../Page/石井一久.md "wikilink")、[宮本慎也](https://ja.wikipedia.org/wiki/宮本慎也 "wikilink")、[山本樹](https://ja.wikipedia.org/wiki/山本樹 "wikilink")）（2001年12月24日）※スペシャル版
+      -
+        チームとしては2度目のグランドスラム。古田、高津、石井は揃って番組初の2度目のグランドスラムを達成。同時にビッグチャレンジで「スペシャル賞品」とのW獲得も達成する。
+  - [片平なぎさ](https://ja.wikipedia.org/wiki/片平なぎさ "wikilink")・[吉沢悠](https://ja.wikipedia.org/wiki/吉沢悠 "wikilink")（2002年1月7日・第352回）
+      -
+        同時にビッグチャレンジで「パジェロ」とのW獲得も達成する。
+
+<!-- end list -->
+
+  - [2002年](../Page/2002年.md "wikilink")度（2組）
+
+<!-- end list -->
+
+  - [ウルトラキャッツ](https://ja.wikipedia.org/wiki/ウルトラキャッツ "wikilink")（[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")、[ウド鈴木](../Page/ウド鈴木.md "wikilink")、[大竹一樹](https://ja.wikipedia.org/wiki/大竹一樹 "wikilink")、[ジニー・リー](https://ja.wikipedia.org/wiki/チェヨン_\(1978年生の歌手\) "wikilink")）（2002年6月10日・第372回）
+  - [高橋克典](https://ja.wikipedia.org/wiki/高橋克典 "wikilink")・[賀集利樹](https://ja.wikipedia.org/wiki/賀集利樹 "wikilink")（2003年2月3日・第401回）
+
+<!-- end list -->
+
+  - [2003年](../Page/2003年.md "wikilink")度（5組）
+
+<!-- end list -->
+
+  - [中村勘太郎](https://ja.wikipedia.org/wiki/中村勘九郎_\(6代目\) "wikilink")・[中村七之助](https://ja.wikipedia.org/wiki/中村七之助_\(2代目\) "wikilink")（2003年6月23日・第418回）
+  - [中西哲生](https://ja.wikipedia.org/wiki/中西哲生 "wikilink")・[中村俊輔](https://ja.wikipedia.org/wiki/中村俊輔 "wikilink")（2003年7月14日・第421回）
+      -
+        同時にビッグチャレンジで「パジェロ」とのW獲得も達成する。
+  - [日立 世界・ふしぎ発見\!チーム](https://ja.wikipedia.org/wiki/日立_世界・ふしぎ発見! "wikilink")（2003年9月29日）※スペシャル版
+      -
+        野々村は5年前の逆グランドスラムからアトラクション全てクリアし、グランドスラムを達成した。
+  - [水戸黄門チーム](https://ja.wikipedia.org/wiki/水戸黄門_\(パナソニック_ドラマシアター\) "wikilink")（[由美かおる](https://ja.wikipedia.org/wiki/由美かおる "wikilink")・[原田龍二](https://ja.wikipedia.org/wiki/原田龍二 "wikilink")・[合田雅吏](https://ja.wikipedia.org/wiki/合田雅吏 "wikilink")）（2003年12月15日・第439回）
+      -
+        由美は史上4人目の2度目のグランドスラム。同時にビッグチャレンジで「パジェロ」とのW獲得も達成する。
+  - [山本圭壱](https://ja.wikipedia.org/wiki/山本圭壱 "wikilink")（[極楽とんぼ](../Page/極楽とんぼ.md "wikilink")）・[石井一久](../Page/石井一久.md "wikilink")（2003年12月22日・第440回）
+      -
+        石井は3度目と番組最多記録。史上3度目の2週連続グランドスラム。
+
+<!-- end list -->
+
+  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")度（3組）
+
+<!-- end list -->
+
+  - [濱田マリ](https://ja.wikipedia.org/wiki/濱田マリ "wikilink")・[京野ことみ](https://ja.wikipedia.org/wiki/京野ことみ "wikilink")（2004年5月10日・第456回）
+  - [寺島しのぶ](../Page/寺島しのぶ.md "wikilink")・[須藤理彩](https://ja.wikipedia.org/wiki/須藤理彩 "wikilink")（2004年7月5日・第464回）
+  - [平山あや](https://ja.wikipedia.org/wiki/平山あや "wikilink")・[山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink")（2005年1月10日・第486回）
+
+<!-- end list -->
+
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")度（1組）
+
+<!-- end list -->
+
+  - [WaT](https://ja.wikipedia.org/wiki/WaT "wikilink")（2005年5月9日・第502回）
+
+<!-- end list -->
+
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")度（4組）
+
+<!-- end list -->
+
+  - [パンツェッタ・ジローラモ](https://ja.wikipedia.org/wiki/パンツェッタ・ジローラモ "wikilink")・[山口もえ](https://ja.wikipedia.org/wiki/山口もえ "wikilink")（2006年8月21日・第559回）
+  - [ソニン](https://ja.wikipedia.org/wiki/ソニン_\(タレント\) "wikilink")・[hiro](https://ja.wikipedia.org/wiki/島袋寛子 "wikilink")（2006年9月4日・第561回）
+  - [全日本女子バレーボールチーム](https://ja.wikipedia.org/wiki/全日本女子バレーボールチーム "wikilink")（2006世界バレー・開幕直前スペシャル）（2006年10月9日）※スペシャル版
+  - [モンキッキー(現・おさる)](https://ja.wikipedia.org/wiki/おさる "wikilink")・[関根麻里](https://ja.wikipedia.org/wiki/関根麻里 "wikilink")（2007年3月19日・第584回）
+      -
+        難関アトラクション「ストッパーキューブリッジ」を初めてクリアしたペアでもある。おさる(モンキッキー)は史上5人目の2度目のグランドスラム。
+
+<!-- end list -->
+
+  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")度（6組）
+
+<!-- end list -->
+
+  - [二宮和也](https://ja.wikipedia.org/wiki/二宮和也 "wikilink")・[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")（いずれも[嵐](https://ja.wikipedia.org/wiki/嵐_\(グループ\) "wikilink")）（2007年7月2日・第598回）
+      -
+        同時にビッグチャレンジで「パジェロ」とのW獲得も達成する。
+  - [榊原郁恵](https://ja.wikipedia.org/wiki/榊原郁恵 "wikilink")・[井森美幸](https://ja.wikipedia.org/wiki/井森美幸 "wikilink")（2007年11月5日・第612回）
+      -
+        グランドスラム達成者で唯一ビッグチャレンジでの獲得商品なし。
+  - [伊達公子](https://ja.wikipedia.org/wiki/クルム伊達公子 "wikilink")・[ミハエル・クルム](https://ja.wikipedia.org/wiki/ミハエル・クルム "wikilink")（2007年11月12日・第613回）
+      -
+        夫婦で参加してグランドスラム達成。ハイパーホッケーで場外のハプニングがあったものの、逆転勝利。史上4度目の2週連続グランドスラム。
+  - [上田桃子](https://ja.wikipedia.org/wiki/上田桃子 "wikilink")・[諸見里しのぶ](https://ja.wikipedia.org/wiki/諸見里しのぶ "wikilink")（2008年1月7日・第619回）
+  - [西堀健実](https://ja.wikipedia.org/wiki/西堀健実 "wikilink")・[浅尾美和](https://ja.wikipedia.org/wiki/浅尾美和 "wikilink")（2008年2月25日・第626回）
+  - 嵐（[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")、櫻井翔、[相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")、二宮和也、[松本潤](../Page/松本潤.md "wikilink")）（2008年3月31日）※スペシャル版
+      -
+        大野、相葉、松本が初、二宮・櫻井は2度目のグランドスラム。しかし、9枚の金貨のうち7枚をたわしに変えてしまった。
+
+<!-- end list -->
+
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")度（4組）
+
+<!-- end list -->
+
+  - [白鵬翔](https://ja.wikipedia.org/wiki/白鵬翔 "wikilink")・[内藤大助](https://ja.wikipedia.org/wiki/内藤大助 "wikilink")（2008年6月2日・第638回）
+      -
+        同時にビッグチャレンジで「パジェロ」とのW獲得も達成する。
+  - [松嶋尚美](https://ja.wikipedia.org/wiki/松嶋尚美 "wikilink")（[オセロ](https://ja.wikipedia.org/wiki/オセロ_\(お笑い\) "wikilink")）・[谷原章介](https://ja.wikipedia.org/wiki/谷原章介 "wikilink")・[山田親太朗](https://ja.wikipedia.org/wiki/山田親太朗 "wikilink")（2008年6月16日・第640回）
+  - [長野博](https://ja.wikipedia.org/wiki/長野博 "wikilink")（[V6](../Page/V6_\(グループ\).md "wikilink")）・[吉本多香美](https://ja.wikipedia.org/wiki/吉本多香美 "wikilink")・[五十嵐隼士](https://ja.wikipedia.org/wiki/五十嵐隼士 "wikilink")（2008年9月15日・第653回）
+      -
+        難関アトラクションである「ストッパーキューブリッジ」・「ブンブンボウリング」の両方をクリアした。
+  - [香里奈](https://ja.wikipedia.org/wiki/香里奈 "wikilink")・[DAIGO](https://ja.wikipedia.org/wiki/DAIGO "wikilink")・[吉高由里子](https://ja.wikipedia.org/wiki/吉高由里子 "wikilink")（2009年1月12日・第665回）※月曜日時代第1期最後のグランドスラム
+
+<!-- end list -->
+
+  - [2009年](../Page/2009年.md "wikilink")度（木曜日時代）（1組）
+
+<!-- end list -->
+
+  - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")・[misono](https://ja.wikipedia.org/wiki/misono "wikilink")（2009年5月14日・第677回）※木曜日時代唯一のグランドスラム
+      -
+        女性姉妹でのグランドスラム。
+
+<!-- end list -->
+
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度（2組）
+
+<!-- end list -->
+
+  - [ウエンツ瑛士](https://ja.wikipedia.org/wiki/ウエンツ瑛士 "wikilink")・[安藤美姫](https://ja.wikipedia.org/wiki/安藤美姫 "wikilink")（2010年7月19日・第724回）※月曜日時代第2期最初のグランドスラム
+      -
+        ウエンツは2005年5月9日に[WaT](https://ja.wikipedia.org/wiki/WaT "wikilink")として出演して以来2度目のグランドスラム達成（2度目のグランドスラムは史上8人目）。
+  - [朝青龍](https://ja.wikipedia.org/wiki/朝青龍 "wikilink")・[吉田沙保里](https://ja.wikipedia.org/wiki/吉田沙保里 "wikilink")（2011年2月28日）
+      -
+        最後のグランドスラム。
+
+### 逆グランドスラム達成者（TFP2以降）
+
+アトラクションを1つもクリアできなかったチーム。『ムーブ』時代は逆グランドスラム達成者はなし。
+
+  - [大仁田厚](https://ja.wikipedia.org/wiki/大仁田厚 "wikilink")・[ぜんじろう](../Page/ぜんじろう.md "wikilink")（1994年11月14日・第30回）
+      -
+        番組初の逆グランドスラム。渡辺が「1投だけ投げさせてあげる」と言ったビッグチャレンジは視聴者用であったが、視聴者に車を当てた。
+  - [田村英里子](https://ja.wikipedia.org/wiki/田村英里子 "wikilink")・[島崎和歌子](https://ja.wikipedia.org/wiki/島崎和歌子 "wikilink")（1994年12月19日・第35回）
+      -
+        その上視聴者用のビッグチャレンジは大ハズレとなってしまう。
+  - [久本雅美](../Page/久本雅美.md "wikilink")・[瀬戸朝香](../Page/瀬戸朝香.md "wikilink")（1996年9月16日・第113回）
+  - [加賀まりこ](https://ja.wikipedia.org/wiki/加賀まりこ "wikilink")・[野々村真](https://ja.wikipedia.org/wiki/野々村真 "wikilink")（1998年7月6日・第195回）
+      -
+        前述通り、野々村は2003年9月29日に[日立 世界・ふしぎ発見\!チームでグランドスラムを果たした](https://ja.wikipedia.org/wiki/日立_世界・ふしぎ発見! "wikilink")。
+  - [山城新伍](https://ja.wikipedia.org/wiki/山城新伍 "wikilink")・[梅宮辰夫](https://ja.wikipedia.org/wiki/梅宮辰夫 "wikilink")（1999年4月26日・第229回）
+  - [徳井優](https://ja.wikipedia.org/wiki/徳井優 "wikilink")・[筧利夫](../Page/筧利夫.md "wikilink")（2000年5月8日・第277回）
+  - [京本政樹](https://ja.wikipedia.org/wiki/京本政樹 "wikilink")・[吉本多香美](https://ja.wikipedia.org/wiki/吉本多香美 "wikilink")（2000年8月28日・第292回）
+      -
+        吉本は野々村に続き、2008年9月15日にグランドスラムを果たした。
+  - [デーブ・スペクター](https://ja.wikipedia.org/wiki/デーブ・スペクター "wikilink")・[曙太郎](../Page/曙太郎.md "wikilink")（2002年5月6日・第367回）
+  - [間寛平](../Page/間寛平.md "wikilink")・[村上ショージ](https://ja.wikipedia.org/wiki/村上ショージ "wikilink")（2002年7月1日・第375回）
+  - [山口智充](https://ja.wikipedia.org/wiki/山口智充 "wikilink")・[大森玲子](https://ja.wikipedia.org/wiki/大森玲子 "wikilink")（2002年9月16日・第386回）
+  - [いとうまい子](https://ja.wikipedia.org/wiki/いとうまい子 "wikilink")・[友近](https://ja.wikipedia.org/wiki/友近 "wikilink")（2005年5月16日・第503回）
+      -
+        対抗戦を除くと最後の逆グランドスラム。さらに、視聴者用のビッグチャレンジは真ん中ではない所のたわしとなってしまった。\[35\]
+  - [雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink")（2010年2月25日・第706回）
+      -
+        唯一、対抗戦での逆グランドスラム。[FUJIWARA](../Page/FUJIWARA.md "wikilink")との対抗戦だったが、FUJIWARAはホンジャマカに敗れたためグランドスラムにはなっていない。
+
+また、[さまぁ～ず](https://ja.wikipedia.org/wiki/さまぁ～ず "wikilink")(2001年2月26日・第314回)や[布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink")・[華原朋美](../Page/華原朋美.md "wikilink")(2005年4月11日・第498回)のように、結果的にはアトラクションを1つもクリアしてない逆グランドスラムだが、スペシャルチャレンジの成功で金貨一枚を手に入れたケースもある。
+
+## スタッフ
+
+### 大集合SP
+
+  - 構成 : 原すすむ、恒川省三、[矢野了平](https://ja.wikipedia.org/wiki/矢野了平 "wikilink")、片岡章博
+  - ナレーター : [真地勇志](https://ja.wikipedia.org/wiki/真地勇志 "wikilink")
+  - TM : 長谷川晃司
+  - TD : 丹野至之
+  - カメラ : 寺尾昭彦
+  - VE : 藤本剛
+  - 音声 : 小澤義春
+  - 照明 : 高木亘
+  - 編集 : 小川義也
+  - MA : 横田良孝
+  - 音効 : 新谷隆生
+  - 美術プロデューサー : [中西忠司](https://ja.wikipedia.org/wiki/中西忠司 "wikilink")
+  - 美術デザイン : 金子靖明、藤井豊
+  - 美術制作 : 渡邊秀和
+  - 装置 : 鈴木匡人
+  - 操作 : 山本晃靖
+  - 電飾 : 田谷尚教
+  - 特殊装置 : 戸田秀由
+  - 装飾 : 田村健二
+  - 持道具 : 宮路あさみ
+  - 衣装 : 岡崎貴子
+  - メイク : 田中智子
+  - スタイリスト : おおえひろあき
+  - CG : たかくらかずき、大隅良太郎
+  - 公開担当 : 松元裕二
+  - 宣伝 : 眞鍋武、清水由花
+  - 編成 : 高橋正尚
+  - TK : 田中理奈子
+  - デスク : 松崎由美
+  - リサーチ : [ビスポ](https://ja.wikipedia.org/wiki/ビスポ "wikilink")、[フォーミュレーション](https://ja.wikipedia.org/wiki/フォーミュレーション "wikilink")
+  - AD : 中武絵利、河野昌美、山本敦美、桜井佑莉、由良朋子
+  - AP : 鈴木愛子、荒井美妃、橋本美和、古川亜希子、好田康智、水上智栄子
+  - ディレクター : 杉山貴久、阿部義彦、高山和也、小栗涼、田口雅治、河本誠司、飯塚一志、中山暢浩
+  - 総合演出 : 大松雅和
+  - プロデューサー : 金原将公
+  - 製作著作 : TBS
+
+### 最終回時点
+
+  - 構成 : 原すすむ、恒川省三、池田裕幾、杉山王郎、村上知行、高木英幸、黒田順子、三好千春、南恵子、海老根豊、今瀧博之、石津聡、[酒井健作](https://ja.wikipedia.org/wiki/酒井健作 "wikilink")
+  - 問題 : [道蔦岳史](https://ja.wikipedia.org/wiki/道蔦岳史 "wikilink")
+  - 音楽 : [大森俊之](https://ja.wikipedia.org/wiki/大森俊之 "wikilink")、[服部隆之](https://ja.wikipedia.org/wiki/服部隆之 "wikilink")
+  - TM : 丹野至之（以前はTD担当）
+  - TD : 寺尾昭彦（以前はカメラ担当）
+  - カメラ : 早川征典
+  - VE : 高橋康弘
+  - 音声 : 小澤義春、森和哉、宍戸創
+  - 照明 : 高木亘、佐藤友泰
+  - 編集 : 小川義也
+  - MA : 横田良孝
+  - 効果 : 新谷隆生
+  - 美術プロデューサー : 渡邊秀和（以前は美術制作担当）
+  - 美術デザイナー : 石井健将
+  - 特殊装置 : 山田敏章
+  - 装置 : 鈴木匡人
+  - 装飾 : 田村健治
+  - 電飾 : 澤田稔
+  - 持道具 : 貞中照美
+  - 衣裳 : 岡崎貴子
+  - CG : 岩崎和弘
+  - ゲーム制作: Jammy
+  - 衣裳協力 : [ナイキ](https://ja.wikipedia.org/wiki/ナイキ "wikilink")
+  - 協力 : TRIM
+  - ソフト協力 : トレンディ
+  - 公開担当 : 松元裕二、廣中信行（どちらか1人で担当、2人同時担当もある、現在は松元が多い）
+  - TK : 田中理奈子
+  - 編成 : 宮尾毅
+  - AP : 橋本美和、水上智栄子
+  - ディレクター : 阿部義彦、杉山貴久、田村恵里、小林礼治
+  - チーフディレクター : 渡辺信也
+  - プロデューサー : 木田将也（以前はディレクター）
+  - チーフプロデューサー : 近藤誠
+  - 製作著作 : [TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")\[36\]
+
+### 過去
+
+  - 制作→チーフプロデューサー : 森本仁郎→渡辺香→鶴岡滋之→荒井昌也→[利根川展](https://ja.wikipedia.org/wiki/利根川展 "wikilink")
+  - プロデューサー : 石川滋（初代・立ち上げプロデューサー）、本村隆、赤木準平、鈴木孝之（以前はディレクター）→鶴岡滋之→鈴木聡（以前はチーフディレクター）→[西川永哲](https://ja.wikipedia.org/wiki/西川永哲 "wikilink")
+  - 総合プロデューサー：深尾隆一
+  - チーフディレクター : [中野匡人](https://ja.wikipedia.org/wiki/中野匡人 "wikilink")
+  - ディレクター : 内藤宏之、吉田啓良、[安田淳](https://ja.wikipedia.org/wiki/安田淳 "wikilink")、[吉橋隆雄](https://ja.wikipedia.org/wiki/吉橋隆雄 "wikilink")、[大木真太郎](https://ja.wikipedia.org/wiki/大木真太郎 "wikilink")、江本稔、安江圭、富田瑞穂、篠塚純、黄地久美子、時松隆吉、宮尾益実、高岡滋紀
+  - 編成 : 村口太郎
+  - 構成 : 雫弘幸、乾雅人、三浦昭彦、塚田均、[高橋奈津子](https://ja.wikipedia.org/wiki/高橋ナツコ "wikilink")、竹内きよのり、山田晃子
+  - 音楽 : [服部隆之](https://ja.wikipedia.org/wiki/服部隆之 "wikilink")（1999年のBGMリニューアルから2005年9月の再リニューアルまで）、吉田治シルバーライニング
+  - 技術：青木葉吉樹、安藤健治
+  - TM : 中澤健、鳥井隆
+  - TD : 中澤健、伊東修
+  - カメラ：小山内義紀
+  - VE : 長谷川晃司
+  - 調整：大口修、奥村秀樹、島貫洋
+  - 音声 : 守屋慎司、高橋進、平井郁雄、菅沼智博、菅原正巳
+  - 照明 : 正木正登、伊倉邦夫、辻淳一
+  - 編集 : 佐藤敦成、[松尾茂樹](https://ja.wikipedia.org/wiki/松尾茂樹 "wikilink")、沢川淳、菅野淳悟、新井直樹
+  - MA : 伊東忠美、斉藤義弘
+  - CG : 長沼孝仁
+  - 美術プロデューサー : 西川光三
+  - 美術デザイナー : 藤井豊、飯田稔
+  - 美術制作 : 渡辺秀和、川崎光紘
+  - 装置 : 早坂和憲、小穴健一
+  - 装飾 : 増田豊、芳賀基広、竹原丈二、門間誠
+  - 電飾 : 片平達也、田谷尚教
+  - 衣裳 : 早船光則、小林善成
+  - 公開担当：平澤眞
+  - ソフト協力：フォース
+
+## 関連ゲーム
+
+この番組はたびたびゲーム化されている。発売ラインナップは以下の通り。尚、ゲーム版は従業員は支配人・副支配人・ホンジャマカのみである(Wii版のみ女性従業員も登場)。携帯サイト「TBSゲームパーク」にも本作を参考にしたflashゲームが利用者に複数提供されている。
+
+以下に示した物以外にも、[セガサターン](../Page/セガサターン.md "wikilink")専用ソフトとして、「デリソバデラックス」がゲーム化されたこともあった([ケイブ](../Page/ケイブ.md "wikilink")開発)。視聴者プレゼントされたが、非売品。
+
+### 体感ゲーム
+
+  - 東京フレンドパークII～フレンドパークへあそびにいこう\!\! ～（[エポック社](https://ja.wikipedia.org/wiki/エポック社 "wikilink")）　2003年7月発売
+  - 東京フレンドパークIIスペシャル\!～フレンドパークへみんなでいこう\!\!～（[エポック社](https://ja.wikipedia.org/wiki/エポック社 "wikilink")）　2005年9月3日発売
+  - 東京フレンドパークIIパーフェクト\!～めざせ\!グランドスラム～（[エポック社](https://ja.wikipedia.org/wiki/エポック社 "wikilink")）　2007年7月21日発売
+
+### ゲームソフト
+
+  - 東京フレンドパークⅡ～DSで鍛える運動脳力～（[ロケットカンパニー](https://ja.wikipedia.org/wiki/ロケットカンパニー "wikilink")/[ニンテンドーDS](https://ja.wikipedia.org/wiki/ニンテンドーDS "wikilink")）　2006年11月30日発売
+  - 東京フレンドパークⅡ決定版～みんなで挑戦！体感アトラクション～（[スパイク](../Page/スパイク_\(ゲーム会社\).md "wikilink")/[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")）　2009年12月3日発売
+
+## ネット局
+
+| 放送対象地域                                                            | 放送局                                                               | 系列                                              | ネット状況                                                   |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------- |
+| [関東広域圏](https://ja.wikipedia.org/wiki/関東地方 "wikilink")            | [TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink") (TBS)   | [TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink") | [同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink") |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")               | [北海道放送](../Page/北海道放送.md "wikilink") (HBC)                        |                                                 |                                                         |
+| [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")               | [青森テレビ](../Page/青森テレビ.md "wikilink") (ATV)                        |                                                 |                                                         |
+| [岩手県](../Page/岩手県.md "wikilink")                                  | [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink") (IBC) |                                                 |                                                         |
+| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")               | [東北放送](../Page/東北放送.md "wikilink") (TBC)                          |                                                 |                                                         |
+| [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")               | [テレビユー山形](../Page/テレビユー山形.md "wikilink") (TUY)                    |                                                 |                                                         |
+| [福島県](../Page/福島県.md "wikilink")                                  | [テレビユー福島](../Page/テレビユー福島.md "wikilink") (TUF)                    |                                                 |                                                         |
+| [山梨県](../Page/山梨県.md "wikilink")                                  | [テレビ山梨](../Page/テレビ山梨.md "wikilink") (UTY)                        |                                                 |                                                         |
+| [新潟県](../Page/新潟県.md "wikilink")                                  | [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink") (BSN)       |                                                 |                                                         |
+| [長野県](../Page/長野県.md "wikilink")                                  | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink") (SBC)       |                                                 |                                                         |
+| [静岡県](../Page/静岡県.md "wikilink")                                  | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink") (SBS)       |                                                 |                                                         |
+| [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")               | [チューリップテレビ](../Page/チューリップテレビ.md "wikilink") (TUT)                |                                                 |                                                         |
+| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")               | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink") (MRO)       |                                                 |                                                         |
+| [中京広域圏](https://ja.wikipedia.org/wiki/中京地方 "wikilink")            | [中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink") (CBC)   |                                                 |                                                         |
+| [近畿広域圏](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")            | [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") (MBS)     |                                                 |                                                         |
+| [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink") | [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink") (BSS)       |                                                 |                                                         |
+| [岡山県・香川県](https://ja.wikipedia.org/wiki/岡山県・香川県の放送 "wikilink")    | [山陽放送](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink") (RSK)    |                                                 |                                                         |
+| [広島県](../Page/広島県.md "wikilink")                                  | [中国放送](../Page/中国放送.md "wikilink") (RCC)                          |                                                 |                                                         |
+| [山口県](../Page/山口県.md "wikilink")                                  | [テレビ山口](../Page/テレビ山口.md "wikilink") (tys)                        |                                                 |                                                         |
+| [愛媛県](../Page/愛媛県.md "wikilink")                                  | [あいテレビ](../Page/あいテレビ.md "wikilink") (ITV)                        |                                                 |                                                         |
+| [高知県](../Page/高知県.md "wikilink")                                  | [テレビ高知](../Page/テレビ高知.md "wikilink") (KUTV)                       |                                                 |                                                         |
+| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")               | [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")(RKB)  |                                                 |                                                         |
+| [長崎県](../Page/長崎県.md "wikilink")                                  | [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink") (NBC)       |                                                 |                                                         |
+| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")               | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") (RKK)       |                                                 |                                                         |
+| [大分県](../Page/大分県.md "wikilink")                                  | [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink") (OBS)       |                                                 |                                                         |
+| [宮崎県](../Page/宮崎県.md "wikilink")                                  | [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink") (MRT)       |                                                 |                                                         |
+| [鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")             | [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink") (MBC)     |                                                 |                                                         |
+| [沖縄県](../Page/沖縄県.md "wikilink")                                  | [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink") (RBC)       |                                                 |                                                         |
+| [秋田県](../Page/秋田県.md "wikilink")                                  | [秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")（AKT）      | [フジテレビ系列](../Page/フジニュースネットワーク.md "wikilink")   | [遅れネット](https://ja.wikipedia.org/wiki/遅れネット "wikilink") |
+| [佐賀県](../Page/佐賀県.md "wikilink")                                  | [サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")（STS）      |                                                 |                                                         |
+| [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")               | [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（JRT）        | [日本テレビ系列](../Page/日本ニュースネットワーク.md "wikilink")   |                                                         |
+
+## 脚注
+
+## 関連項目
+
+  - [関口宏の東京フレンドパーク ドラマ大集合SP\!\!](https://ja.wikipedia.org/wiki/関口宏の東京フレンドパーク_ドラマ大集合SP!! "wikilink")
+  - [ムーブ (バラエティー)](https://ja.wikipedia.org/wiki/ムーブ_\(バラエティー\) "wikilink")
+  - [東京フレンドパークのアトラクション一覧](https://ja.wikipedia.org/wiki/東京フレンドパークのアトラクション一覧 "wikilink")
+  - [DOORS (テレビ番組)](https://ja.wikipedia.org/wiki/DOORS_\(テレビ番組\) "wikilink")
+
+## 外部リンク
+
+  - [関口宏の東京フレンドパーク2](https://web.archive.org/web/20150404160634/http://www.tbs.co.jp/tfp2/)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+
+[Category:1994年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1994年のテレビ番組_\(日本\) "wikilink") [Category:TBSのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSのバラエティ番組の歴史 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:アーケードゲーム](https://ja.wikipedia.org/wiki/Category:アーケードゲーム "wikilink") [Category:関口宏](https://ja.wikipedia.org/wiki/Category:関口宏 "wikilink")
+
+1.  [「青少年に見てもらいたい番組」一覧(2005.2取得)](http://web.archive.org/web/20050204093238/http://www.nab.or.jp/htm/ethics/fosusume.html) (ウェブアーカイブ、[日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink"))
+2.  [【MBS】毎日放送 - 青少年に見てもらいたい番組](http://www.mbs.jp/pgm/timetable/young.shtml) (2011年8月閲覧)
+3.   [放送と青少年（日本民間放送連盟）](http://nab.or.jp/index.php?%CA%FC%C1%F7%A4%C8%C0%C4%BE%AF%C7%AF)
+4.  [民放連による「青少年に見てもらいたい番組 （2010年春Ver）」 | skeeem](http://www.skeeem.jp/archives/362)
+5.  [収録ウラ話2005.07.04](http://www.tbs.co.jp/tfp2/ura20050704.html)
+6.  [収録ウラ話2009.07.30](http://www.tbs.co.jp/tfp2/ura20090730.html)
+7.  [感謝祭＆フレパに『渡鬼』メンバー多数出演\!(「渡る世間は鬼ばかり」(2002年版))](http://www.tbs.co.jp/oni/oni-2002/news_11.html) ページ下のバックナンバー11番
+8.  [夢の競演\!木曜コラボ関口宏の東京フレンドパークII×ウンナン極限ネタバトル\!ザ・イロモネア3時間ブチ抜きSP\! 2009/10/15 イチオシ番組ガイド\[ナニミル♪](http://tvstation.jp/contents/reco/p1241.html)PC版\] (2009.10 TVstation)
+9.  ムーブ時代はクリア時「CLEAR\! 金貨獲得」、失敗時「×」マークだった。
+10. 2009年2月25日付報知新聞公式サイト「イロモネア 木曜午後9時に変更」より。
+11. TBS「フレンドパーク」が月曜7時枠に復帰\![スポーツ報知](../Page/スポーツ報知.md "wikilink")(2010年2月3日)より。
+12. [「フレンドパーク“閉園”へ…18年の歴史に幕」スポニチアネックス（[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")公式サイト）2011年1月13日](http://www.sponichi.co.jp/entertainment/news/2011/01/13/kiji/K20110113000038360.html) 2011年1月13日閲覧
+13. [「フレンドパーク終了も…関口宏“月曜夜７時の男”」](http://www.sponichi.co.jp/entertainment/news/2011/02/22/kiji/K20110222000294400.html)スポニチアネックス 2011年2月22日
+14. [フレンドパーク閉園、後番組は歴史－芸能ニュース：nikkansports.com 2010年2月22日](http://www.nikkansports.com/entertainment/news/f-et-tp0-20110222-739797.html)
+15. [「フレンドパーク」終了も関口宏は続投－芸能ニュース：nikkansports.com 2010年2月22日](http://www.nikkansports.com/entertainment/news/p-et-tp0-20110222-739862.html)
+16. [人気クイズ番組から32年目「やっぱり、この時間は関口さんじゃなくては」](http://www.sponichi.co.jp/entertainment/news/2011/02/22/kiji/K20110222000297260.html)スポニチアネックス 2011年2月22日
+17. 前番組『[クイズ100人に聞きました](../Page/クイズ100人に聞きました.md "wikilink")』より続投。ムーブの後番組『[関口宏のPAPAバラダイス](https://ja.wikipedia.org/wiki/関口宏のPAPAバラダイス "wikilink")』、IIの後番組『[世紀のワイドショー\!ザ・今夜はヒストリー](https://ja.wikipedia.org/wiki/世紀のワイドショー!ザ・今夜はヒストリー "wikilink")』も続投。
+18. オープニングでは顔を出すも氏名クレジットなし。本編終了後、「[後のまつり](https://ja.wikipedia.org/wiki/#ミニ番組 "wikilink")」に出演していたが、フルネームではなく「西秋従業員」とクレジットされていた。末期になって氏名がクレジットされるようになった。
+19. 肩書きは1994年9月までは[カタカナ](https://ja.wikipedia.org/wiki/カタカナ "wikilink")で「**デモンストレーター**」、1994年10月から降板まではテロップデザイン変更に伴い英字で「**Demonstrator**」と表記されていた。
+20. ムーブ時代、月曜第1期、木曜日時代の女性従業員は、視聴者へのルール説明、一部のアトラクションのルール説明またはデモンストレーション、支配人への金貨の手渡しのみ行っていた。
+21. 番組初のスペシャル版（水戸黄門チームが出場）では、金貨の代わりに20万円相当の「[大判](https://ja.wikipedia.org/wiki/大判 "wikilink")」が与えられた。1枚の大判で、ダーツの矢が2本買える。
+22. 2017年の復活特番からは過去形ではなくなりクリアすると金文字で｢CLEAR｣、クリアしないと青文字で｢NOT CLEAR｣と表示されるようになった。また、金貨を2枚獲った場合は金貨が分裂して二つになるようになっている。
+23. ゲストが多く来園した場合は[ドナルドダック](https://ja.wikipedia.org/wiki/ドナルドダック "wikilink")と[プルートも加わる事がある](https://ja.wikipedia.org/wiki/プルート_\(ディズニーキャラクター\) "wikilink")。グランドスラム[リーチ](../Page/リーチ.md "wikilink")になると、副支配人がミッキーを抱えて応援する。
+24. [丸数字](https://ja.wikipedia.org/wiki/丸数字 "wikilink")で表記。1回目は省略。
+25.
+26. 『ムーブ』時代は大ハズレの場合はやり直しとなり、的に当たるまで続けていた。当初はたわしまたは大ハズレだった場合、ダーツを投げたゲストが責任を持って自分の賞品と交換してプレゼントするよう支配人が促していたが、とあるゲストがこれにより視聴者に対して暴言を吐いた事もあり、この処置はとりやめとなった。
+27. 初期は支配人本人がダーツを投げていた。
+28. ゲストによっては、ゲストの希望商品の掛け声になることもあった。
+29. 2009年5月7日や同月28日放送の「特別営業」の際には、視聴者プレゼントのスペシャル商品として、パジェロが充てられた。5月7日放送の「特別営業」での視聴者プレゼントでパジェロが懸かっていたダーツは当日ゲストのうち、[安藤美姫](https://ja.wikipedia.org/wiki/安藤美姫 "wikilink")や[小塚崇彦](https://ja.wikipedia.org/wiki/小塚崇彦 "wikilink")の所属[企業](../Page/企業.md "wikilink")が[競合他社である為](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")、[浅田真央](https://ja.wikipedia.org/wiki/浅田真央 "wikilink")が投げた。
+30. 4人までのゲストの際。5人の場合、挑戦者の人数分か、1本の当たりで3台、2本の当たりで5台プレゼントと放送回によってまちまちだった。
+31. 2009年4月2日の[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の回で初めて放送し、『[JNN50周年記念 ハイパーバラエティウィーク](https://ja.wikipedia.org/wiki/JNN50周年記念_ハイパーバラエティウィーク "wikilink")』の1番組としても放送した。
+32. 『[ザ・イロモネア](https://ja.wikipedia.org/wiki/ウンナン極限ネタバトル!_ザ・イロモネア_笑わせたら100万円 "wikilink")』とのコラボスペシャル。
+33. 1999年・2004年・2006年・2010年リーグ優勝。2007年日本シリーズ優勝。
+34. 2000年代以降は、キー局の番組への[前田健太](https://ja.wikipedia.org/wiki/前田健太 "wikilink")・[嶋重宣](https://ja.wikipedia.org/wiki/嶋重宣 "wikilink")などの出演事例がある。
+35. <http://www.tbs.co.jp/tfp2/ura20050516.html>
+36. 2000年4月から2004年9月までは「**制作 TBSエンタテインメント**」、2004年10月から2009年3月までは「**制作 TBSテレビ**」とクレジット表記されていた。

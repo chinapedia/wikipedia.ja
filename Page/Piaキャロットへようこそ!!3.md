@@ -1,0 +1,210 @@
+> この記事は[Pia!!3](https://ja.wikipedia.org/wiki/Pia!!3)から翻訳されています。
+
+
+『**Pia♥キャロットへようこそ\!\!3**』（**Pia3**、**Piaキャロ3**）は、[2001年](../Page/2001年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")に[F\&C FC02より発売された](https://ja.wikipedia.org/wiki/F&C "wikilink")18禁恋愛アドベンチャーゲーム+恋愛シミュレーションゲーム。
+
+## 概要
+
+『[Pia♥キャロットへようこそ\!\!2](https://ja.wikipedia.org/wiki/Pia♥キャロットへようこそ!!2 "wikilink")』から1年後、『Pia2.2』から約半年後に相当しており、『Pia2.2』において主人公の前田耕治が愛沢ともみから好かれつつ、彼女ではなく日野森あずさとハッピーエンドを迎えた場合から続く物語。
+
+家庭用ゲーム機版は2003年3月27日に[NECインターチャネルより](https://ja.wikipedia.org/wiki/インターチャネル・ホロン "wikilink")、『**round summer**』のサブタイトルの全年齢対象[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（2005年3月3日に[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")15歳以上対象の廉価版発売）とCEROレーティング18歳以上対象の[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版を発売。2008年8月29日に[アイチェリー](https://ja.wikipedia.org/wiki/アイチェリー "wikilink")から、Hシーンのオリジナル新作動画を追加した[DVDプレイヤーズゲーム](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")（DVD-PG）版が発売。
+
+ユーザーに意見を反映する機会を提供して作品に親しみを感じてもらうため、13種の候補の中から劇中に登場する制服を選ぶコスチュームコンテストがF\&Cのホームページと『[電撃G'sマガジン](https://ja.wikipedia.org/wiki/電撃G's_magazine "wikilink")』で行われた。投票の結果としてフローラルミントタイプとトロピカルタイプが採用され、また発売直前に[不二家](https://ja.wikipedia.org/wiki/不二家 "wikilink")系列のレストラン「[ブロンズパロット](https://ja.wikipedia.org/wiki/ブロンズパロット "wikilink")」の制服がモデルのぱろぱろタイプが発表されている。
+
+2002年には本作を原作とした劇場版アニメ『[Pia♥キャロットへようこそ\!\! 劇場版〜さやかの恋物語〜](https://ja.wikipedia.org/wiki/#劇場版 "wikilink")』が公開された。18禁ゲームを原作とした劇場版アニメは本作が初である。また、この劇場版公開に合わせた公開記念版ゲームが2002年10月18日に発売された。
+
+### 開発背景から発売まで
+
+前作『Pia2』の発売後、開発スタッフの多くが退社。特に、シリーズの人気に大きな影響を与えた[甘露樹](https://ja.wikipedia.org/wiki/甘露樹 "wikilink")や[みつみ美里](https://ja.wikipedia.org/wiki/みつみ美里 "wikilink")らの離脱は大きな打撃となったため、当初の稲村竜一は続編を考えていなかった。しかし、『Piaキャロ』を慕って入社した新たなスタッフの増加や、カクテル・ソフトが組織改編でFC02に変更されて心機一転が図れたことが、本作品誕生の後押しとなった。
+
+『Pia2』から本作品までの4年の間にアダルトゲームの流行も大きく変わり、[Keyの](https://ja.wikipedia.org/wiki/Key_\(ゲームブランド\) "wikilink")『[Kanon](https://ja.wikipedia.org/wiki/Kanon_\(ゲーム\) "wikilink")』『[AIR](https://ja.wikipedia.org/wiki/AIR_\(ゲーム\) "wikilink")』の相次ぐヒットによる「泣き」・「感動」、[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")の『[月姫](../Page/月姫_\(ゲーム\).md "wikilink")』の大ブームによる「燃え」が大きな要素となったことから、本作品は笑い・パロディは抑え目になり正統なラブストーリーに路線変更されたが、こちらは旧スタッフがいないことが好要素となりスムーズに移行された。一方、離脱したスタッフが手がけた[Leaf](../Page/Leaf.md "wikilink")の『[こみっくパーティー](https://ja.wikipedia.org/wiki/こみっくパーティー "wikilink")』は『Pia2』のクオリティをそのまま持ち込んだために新規のファンを獲得した反面、旧来のLeafファンの反発を招く結果となっている。
+
+具体的には、キャラクターの設定から[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")・[コスプレ](../Page/コスプレ.md "wikilink")といった前作や離脱したスタッフを連想させ、ファミリーレストランを舞台とするラブストーリーにそぐわないものや、性別を偽って勤務する店員といった非現実的なものは排除された。BGMは各ヒロインごとにそのキャラクターをイメージさせる曲が用意され、OP曲は『Go\!Go\!ウェイトレス』とは全くイメージの異なる曲となっている。
+
+舞台設定の企画は難航し、都会の一角での夏物語だった前作までの差別化のため秋や冬に時季を移そうという意見も出たが、シリーズとしての統一感を保持するため本作品でも季節を夏とすることに決定。夏らしい舞台として海岸通りに店舗を据えた。シリーズ第3作であるので順当ならば舞台も3号店となるはずだが、3号店の構想は稲村竜一の中ですでにできあがっていたため、スタッフ一丸となって白紙の状態から制作に取り掛かる対象として新たに4号店を登場させることになった。
+
+### Pia2からの変更点
+
+本作の舞台は4号店であるが、イベントで本店や2号店も登場する。また、Moveコマンドを選んだ後の移動先選択は2段構造となった。『Pia2』では寮の内外を問わず移動先が列挙されていたが、本作では寮を選択した後に誰の部屋に行くかという選択を行う構造となっている。また、スケジュール編成のシステムにも変更が加えられ、午前か午後かを選択するようになった。編成時にもスケジュール表が表示されており、ヒロイン達のスケジュールを見ながら組むことが可能（ただし、本作では出勤している時間帯のみ）。
+
+キャラクターの設定上の変化では、『Pia1』のヒロインの一人"森原さとみ"が木ノ下祐介と結婚し、"木ノ下さとみ"として本店のマネージャーとして登場していること、『Pia1』当時本店のマネージャーであった"神無月志保"は3号店の店長を務めていること、前作の主人公"前田耕治"は"日野森あずさ"と交際中である、という点がある。
+
+システム上の変更点としては、セーブデータにアイコンを付けられるようになったという点がある。攻略可能なヒロイン8人の中から選べるため、攻略中のキャラをチェックするなどの用途がある。また、音声のON/OFFをキャラ別に設定できるようになったことと、『Pia1』ではPC-FX版のみ、『Pia2』でも家庭用でのみ実装されていたメッセージスキップがPC版でも実装されたほか、PC-FX版『Pia1』では設定の組み合わせで可能であった、ヒロインの台詞は表示されずボイスのみとなる"ドラマチックモード"と呼ばれるオートモードも追加された。
+
+### 先行予約版
+
+一般のルートにおける予約受付に先立ち、2001年8月に10,000人限定の先行予約販売が行われた。この予約販売では購入者には先に壁紙集『ぴあかべ』と先行予約特典のコースターなどが送付され、発売日にゲーム本体が届くという2段階の発送が行われた。後の『[Piaキャロットへようこそ\!\!G.O. 〜グランド・オープン〜](https://ja.wikipedia.org/wiki/Piaキャロットへようこそ!!G.O._〜グランド・オープン〜 "wikilink")』でもファンクラブ限定通販におけるランチボックスにおいて、同様の手法が取られている。
+
+## ストーリー
+
+Piaキャロット本店でバイト中の学生・神無月明彦は夏休みを前に、オーナーから近日オープンの4号店へのヘルプ要請を受ける。明彦は同じ店で働く高井さやかに想いを寄せていたが、その話を聞いた彼女から引き留められることもなく、そのまま4号店へ向かう日が来てしまうのであった。
+
+## 登場人物
+
+## スタッフ
+
+  - 企画・構成・シナリオ・ディレクター：稲村竜一
+  - 原画・キャラクターデザイン
+      - [橋本タカシ](https://ja.wikipedia.org/wiki/橋本タカシ "wikilink")（制服デザイン、さやか・ともみ・夏姫・他）
+      - [藤宮博也](https://ja.wikipedia.org/wiki/ささきむつみ "wikilink")（ナナ・織江）
+      - 蓮見江蘭（朱美・美春）
+      - [鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink")（貴子）
+  - 音楽：おおくまけんいち
+
+## 主題歌
+
+  - OP「永遠のストーリー」
+    作詞：[ドン・マッコウ](https://ja.wikipedia.org/wiki/ドン・マッコウ "wikilink") (TWO-FIVE) / 作曲：おおくまけんいち / 歌：美羽
+  - ED1「恋人たちの伝説」
+    作詞：ドン・マッコウ (TWO-FIVE) / 作曲：おおくまけんいち / 歌：美羽
+  - ED2（家庭用追加曲）「ハッピーエンドからはじめよう」
+    作詞：ドン・マッコウ (TWO-FIVE) / 作曲：おおくまけんいち / 歌：美羽
+
+## Pia♥キャロットへようこそ\!\!3.3
+
+『**Pia♥キャロットへようこそ\!\!3.3**』は、2004年4月23日に[NECインターチャネルより](https://ja.wikipedia.org/wiki/インターチャネル・ホロン "wikilink")[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")用に発売された、『Pia♥キャロットへようこそ\!\!3』の外伝作品。ストーリーは『Pia3』において誰も攻略できなかった状態から続いているが、冒頭にともみを背負っているシーンのCGがあるなど、イベント上はともみのシナリオを踏襲している。トロピカルタイプの制服は収録されていない。
+
+### Pia3からの変更点
+
+それまでの作品と異なり、登場するヒロインたちの自信と元気を取り戻してあげることで店の雰囲気を明るくしていくというシステムとなっており、パラメータは各ヒロインの自信と元気、それと全ヒロインの自信および元気から算出される店の雰囲気であり、主人公本人のパラメータは体調のみである。また、スケジュール編成では午前・午後の選択はなく午後のみとなっている。スケジュール編成時にヒロイン達の担当業務が表示されているという特徴があり、これはゲームの目的にも直結している。また、バイト終了後にも寮内でのコマンド入力があるのが特徴。ちなみに、体調が0になったりイベントによってバイトを休んだ場合、休日（金曜日）に倉庫整理をやらされるという特徴がある。
+
+また、音楽も基本的には『Pia3』の物をハードに合わせてアレンジして使っているが、一部に『Pia2』や『[With You 〜みつめていたい〜](https://ja.wikipedia.org/wiki/With_You_〜みつめていたい〜 "wikilink")』の物も使用されている。
+
+キャラクターの設定上の変化では、『Pia3』においては店長代理であった羽瀬川朱美が正式に就任している一方、当時マネージャーであった岩倉夏姫が個人的な事情で休暇を取っており、木ノ下留美がマネージャー研修生として派遣される。また、君島ナナが受験のため一時バイトを辞めており、冬木美春は正式にPiaキャロットへ就職したため、研修で出向いているという変化もある。
+
+### ストーリー（3.3）
+
+あれから1年、神無月明彦に再び4号店へのヘルプの依頼が回ってきた。当初から勤務しているスタッフの一部が研修のために店を離れており、今回はヘルプ依頼の規模も大きい。しかし4号店の売り上げが伸び悩んでおり、本部から派遣されてきたスーパーバイザー"木ノ下千鶴"は、現在のスタッフのやり方に厳しい指摘を飛ばす。そのためにスタッフの意気は下がり、店の雰囲気も暗くなってしまった。
+
+### スタッフ（3.3）
+
+  - キャラクターデザイン：[橋本タカシ](https://ja.wikipedia.org/wiki/橋本タカシ "wikilink")、蓮見江蘭、[鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink")、[南野彼方](https://ja.wikipedia.org/wiki/南野彼方 "wikilink")
+  - 原画：[南野彼方](https://ja.wikipedia.org/wiki/南野彼方 "wikilink")、蓮見江蘭
+  - シナリオ：政木亮
+  - オリジナル音楽制作：おおくまけんいち (TWO-FIVE) 、[DOORS MUSIC ENTERTAINMENT](https://ja.wikipedia.org/wiki/DOORS_MUSIC_ENTERTAINMENT "wikilink")
+
+## 劇場版
+
+『**Pia♥キャロットへようこそ\!\! 劇場版〜さやかの恋物語〜**』はF\&C FC02の18禁恋愛シミュレーションゲーム『Pia♥キャロットへようこそ\!\!3』を原作とした劇場版アニメである。[2002年](../Page/2002年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")から同年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")まで、[ワーナー・マイカル](https://ja.wikipedia.org/wiki/ワーナー・マイカル "wikilink")系劇場4館で公開された。18禁ゲームを原作とした初の劇場アニメ作品である点は、『[AIR](https://ja.wikipedia.org/wiki/AIR_\(ゲーム\) "wikilink")』などに先んじている。
+
+原作ゲームの主なイベントをダイジェスト的にまとめた作品ではあるが、原作と大きく異なる点としては主人公が高井さやかとなっており、4号店へヘルプへ向かうのが彼女であるという点がある。そのため、18禁ゲームを原作としたアニメの中でも[ハーレムアニメ](https://ja.wikipedia.org/wiki/ハーレムアニメ "wikilink")に該当しない数少ない作品となっている。
+
+「18禁ゲーム史上初の劇場アニメ化」という話題性はあったものの、作画レベルの低さが目立ち、ファン向けのお祭り以上ではなかった。[2003年](../Page/2003年.md "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")に発売されたDVDでは大幅に描き直されているが、[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")が「堀江由依」となっていたエンドロールの表記ミスは修正されていない。
+
+### スタッフ（さやかの恋物語）
+
+  - 原作 - Piaキャロットへようこそ\!\!3
+  - 企画協力 - 笹岡洋光
+  - スーパーバイザー - 稲村竜一
+  - 監督・絵コンテ - [ムトウユージ](https://ja.wikipedia.org/wiki/ムトウユージ "wikilink")
+  - 脚本 - [西園悟](https://ja.wikipedia.org/wiki/西園悟 "wikilink")
+  - オリジナルキャラクターデザイン - [橋本タカシ](https://ja.wikipedia.org/wiki/橋本タカシ "wikilink")、蓮見江蘭、[藤宮博也](https://ja.wikipedia.org/wiki/ささきむつみ "wikilink")、[鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink")
+  - キャラクターデザイン・総作画監督 - きしもとせいじ
+  - 作画監督 - きしもとせいじ、小川浩司、つばたよしあき、岩井優器、杉藤さゆり、江上夏樹
+  - 演出 - 高瀬節夫
+  - 美術監督 - 小倉一男
+  - 色彩設定 - [笛吹康二](https://ja.wikipedia.org/wiki/うすいこうぢ "wikilink")
+  - 撮影監督 - 岸克芳
+  - 音楽 - 大久保智弘
+  - 録音監督 - [飯塚康一](https://ja.wikipedia.org/wiki/飯塚康一 "wikilink")
+  - 音響監督 - [えびなやすのり](https://ja.wikipedia.org/wiki/蝦名恭範 "wikilink")
+  - エグゼクティブプロデューサー - 横濱豊行、渡辺義一、岡隆宏、遠藤結城、宮地信弘、高橋豊、木綿克己
+  - プロデューサー - 渡邊沙月、渡辺義一、[南雅彦](https://ja.wikipedia.org/wiki/南雅彦 "wikilink")
+  - アニメーション制作 - [アイムーヴ](https://ja.wikipedia.org/wiki/アイムーヴ "wikilink")
+  - 製作協力 - [ボンズ](https://ja.wikipedia.org/wiki/ボンズ_\(アニメ制作会社\) "wikilink")
+  - 製作 - Piaキャロットへようこそ\!\! 劇場版フィルムパートナーズ（オメガ・ミコット、[シャルラクプラス](https://ja.wikipedia.org/wiki/シャルラクプラス "wikilink")、ドリームビジョン、[ゲオ](https://ja.wikipedia.org/wiki/ゲオ "wikilink")、セブンエイト、[ムービック](https://ja.wikipedia.org/wiki/ムービック "wikilink")、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+
+### 主題歌（さやかの恋物語）
+
+  - オープニングテーマ「I wish」
+    作詞・作曲 - Salia / 編曲 - 清水武人 ([HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")) / 歌 - Reica
+  - エンディングテーマ「close to you」
+    作詞 - 今村宏美 / 作曲 - 内山肇、山下雄大 / 編曲 - 清水武人 (HΛL) / 歌 - Reica
+  - 挿入歌「渚のウェイトレス」
+    作詞 - ムトウユージ / 作曲 - 大久保智弘 / 歌 - 高井さやか（[かかずゆみ](https://ja.wikipedia.org/wiki/かかずゆみ "wikilink")）、愛沢ともみ（[倖月美和](https://ja.wikipedia.org/wiki/倖月美和 "wikilink")）、羽瀬川朱美（[草柳順子](https://ja.wikipedia.org/wiki/草柳順子 "wikilink")）、岩倉夏姫（[根谷美智子](https://ja.wikipedia.org/wiki/根谷美智子 "wikilink")）、君島ナナ（[望月久代](https://ja.wikipedia.org/wiki/望月久代 "wikilink")）、冬木美春（[今井由香](https://ja.wikipedia.org/wiki/今井由香 "wikilink")）
+
+### 関連商品（さやかの恋物語）
+
+  - DVD
+      - 特報\!\!Piaキャロットへようこそ\!\! -さやかの恋物語- 劇場公開記念特別限定版メイキングDVD
+  - CD
+      - I wish / close to you
+      - Pia♥キャロットへようこそ\!\! 劇場版〜さやかの恋物語〜 サウンドトラック（2003年5月21日）
+
+## Pia♥キャロットへようこそ\!\!3 ヒロインズFunBox
+
+『**Pia♥キャロットへようこそ\!\!3 ヒロインズFunBox**』は、2002年12月20日に[ホロンより発売された](https://ja.wikipedia.org/wiki/インターチャネル・ホロン "wikilink")[タイピング](https://ja.wikipedia.org/wiki/タイピング "wikilink")ゲーム、ファンディスク。全年齢対象。
+
+### 作品内容
+
+各キャラクターのタイピングをクリアすると、そのキャラクターの設定画・原画・ラフ画が閲覧できる。原作同様制服は選択可。
+
+  - さやか・朱美・貴子 - 短文を一定時間内にタイピングする。
+  - ともみ・ナナ：キーをタイミングよく叩く。
+  - 美春：単音をタイミングよく叩く。
+  - 夏姫：タイピング練習モード。
+
+### スタッフ（ヒロインズFunBox）
+
+個々のスタッフ、キャスト、使用歌は原作と同じ。
+
+  - 原作・協力：『Pia♥キャロットへようこそ\!\!3』、F\&C・FC02
+  - エグゼクティブプロデューサー：脇坂龍二
+  - 企画・プロデューサー：小津謙一
+  - 開発：株式会社ダイス
+  - プロデューサー・進行管理：川口淳
+  - ディレクター・ゲームデザイン・問題作成：カトウタカシ
+  - グラフィック管理・OP、EDアニメーター：中村優子
+  - テキスト作成：川口淳、カトウタカシ
+  - 製作：ホロン株式会社
+
+## 関連商品
+
+### 漫画
+
+[角川書店](../Page/角川書店.md "wikilink")『[コンプティーク](https://ja.wikipedia.org/wiki/コンプティーク "wikilink")』2003年9月号から2004年3月号まで『Piaキャロットへようこそ\!\!3 〜恋愛メニュー始めました〜』のタイトルで連載後、単行本化。作画は[渡瀬のぞみ](https://ja.wikipedia.org/wiki/渡瀬のぞみ "wikilink")。
+
+単行本は全1巻。[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[6月10日](../Page/6月10日.md "wikilink")発売。\<ISBN 4-04-713629-8\>
+
+### 小説
+
+  - パラダイムノベルス
+    [ジュブナイルポルノ](https://ja.wikipedia.org/wiki/ジュブナイルポルノ "wikilink")。
+      - 上巻 - [2002年](../Page/2002年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売 \<ISBN 4-89490-150-1\>
+      - 中巻 - 2002年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")発売 \<ISBN 4-89490-158-7\>
+      - 下巻 - 2002年[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")発売 \<ISBN 4-89490-168-4\>
+    :\* 以上3冊とも、著 - ましらあさみ / 挿絵 - 畑まさし / 刊行 - [パラダイム](https://ja.wikipedia.org/wiki/パラダイム_\(出版社\) "wikilink")
+  - ムーンノベルス
+    多少の性描写あり。
+      - 上巻 ともみの願い - 2002年[10月10日](../Page/10月10日.md "wikilink")発売 \<ISBN 4-89601-616-5\>
+      - 下巻 さやかの想い - 2002年[10月20日](../Page/10月20日.md "wikilink")発売 \<ISBN 4-89601-611-4\>
+    :\* 以上2冊とも、著 - 真田一成 / 挿絵 - まっぷ / 刊行 - [ぺんぎん書房](https://ja.wikipedia.org/wiki/ぺんぎん書房 "wikilink") / 発売 - [ムービック](https://ja.wikipedia.org/wiki/ムービック "wikilink")
+      - それぞれの夏 - [2003年](../Page/2003年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")発売 \<ISBN 4-89601-642-4\>
+    :\* 著 - 如月麻人 / 挿絵 - まっぷ / 刊行 - ぺんぎん書房 / 発売 - ムービック
+    ::\* ともみ、夏姫、貴子を主人公とした短編集。
+  - ファミ通文庫
+    一般作。
+      - Refrain Summer - 2002年[7月31日](../Page/7月31日.md "wikilink")発売 \<ISBN 4-7577-0926-9\>
+      - Brilliant Summer - 2003年[4月1日](../Page/4月1日.md "wikilink")発売 \<ISBN 4-7577-1322-3\>
+    :\* 著 - [蕪木統文](https://ja.wikipedia.org/wiki/蕪木統文 "wikilink") / 挿絵 - [後藤潤二](https://ja.wikipedia.org/wiki/後藤潤二 "wikilink") / 刊行 - [エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")
+  - [G-type NOVELS](https://ja.wikipedia.org/wiki/G-type_\(雑誌\) "wikilink")
+    ジュブナイルポルノ。
+      - 海辺の秋物語 - [2009年](../Page/2009年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")発売 \<ISBN 978-4862525499\>
+    :\* 著 - 舞田朗 / 挿絵 - [鬼ノ仁](https://ja.wikipedia.org/wiki/鬼ノ仁 "wikilink") / 刊行 - [コアマガジン](https://ja.wikipedia.org/wiki/コアマガジン "wikilink")
+
+## 脚注
+
+<references />
+
+## 参考文献
+
+  -
+## 外部リンク
+
+  - [Pia♥キャロットへようこそ\!\!3 【初回版】](https://fandc.co.jp/catalog/pc/287) - F\&C 商品情報
+  - [Pia♥キャロットへようこそ\!\!3 Premium Pack 〜劇場版公開 記念限定版〜](https://fandc.co.jp/catalog/pc/280) - F\&C 商品情報
+  - [Pia♥キャロットへようこそ\!\! 劇場版〜さやかの恋物語〜 完全版(DVD\&VIDEO)](https://fandc.co.jp/catalog/dvdvideo/442) - F\&C 商品情報
+  - [Pia♥キャロットへようこそ\!\!3.3](https://fandc.co.jp/catalog/consumer/233) - F\&C 商品情報
+      - \- 任天堂
+
+[Category:Piaキャロットへようこそ\!\!](https://ja.wikipedia.org/wiki/Category:Piaキャロットへようこそ!! "wikilink") [Category:インターチャネルのゲームソフト](https://ja.wikipedia.org/wiki/Category:インターチャネルのゲームソフト "wikilink") [Category:ドリームキャスト用ソフト](https://ja.wikipedia.org/wiki/Category:ドリームキャスト用ソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:ゲームボーイアドバンス用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイアドバンス用ソフト "wikilink") [Category:ファミ通文庫](https://ja.wikipedia.org/wiki/Category:ファミ通文庫 "wikilink") [Category:2001年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2001年のアダルトゲーム "wikilink") [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:DVDPG](https://ja.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:漫画作品_ひ](https://ja.wikipedia.org/wiki/Category:漫画作品_ひ "wikilink") [Category:コンプティークの漫画作品](https://ja.wikipedia.org/wiki/Category:コンプティークの漫画作品 "wikilink")

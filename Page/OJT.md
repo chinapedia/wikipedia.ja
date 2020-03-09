@@ -1,0 +1,73 @@
+> この記事は[OJT](https://ja.wikipedia.org/wiki/OJT)から翻訳されています。
+
+
+**OJT**（On-the-Job Training、オン・ザ・ジョブ・トレーニング）または**現任訓練**（げんにんくんれん）とは、[職場](https://ja.wikipedia.org/wiki/職場 "wikilink")で実務をさせることで行う従業員の[職業教育](https://ja.wikipedia.org/wiki/職業教育 "wikilink")のこと。企業内で行われるトレーニング手法、[企業内教育](https://ja.wikipedia.org/wiki/企業内教育 "wikilink")手法の一種である。
+
+## 概要
+
+OJTとは、職場の上司や先輩が、部下や後輩に対し具体的な仕事を与えて、その仕事を通して、仕事に必要な知識・技術・技能・態度などを**意図的**・**計画的**・**継続的**に指導し、修得させることによって全体的な業務処理能力や力量を育成する活動である。
+
+これに対し、職場を離れての訓練は**[Off-JT](https://ja.wikipedia.org/wiki/教育訓練 "wikilink")**（Off the Job Training オフ・ザ・ジョブ・トレーニング）と呼ばれる\[1\]。
+
+OJTという言葉は[1935](../Page/1935年.md "wikilink") - [1940年](../Page/1940年.md "wikilink")頃の辞書（[Webster等](https://ja.wikipedia.org/wiki/:en:Webster's_Dictionary "wikilink")）に採録されたが、[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")中にできた手法とされる。
+
+## OJT概史
+
+[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")勃発によって、当時5,000人の作業者が勤務していた[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")61の[造船](https://ja.wikipedia.org/wiki/造船 "wikilink")所にその10倍の造船所作業員の補充が必要となった。補充要員がいなかったため新人を訓練することになったが、その時代の米国内の[職業訓練](https://ja.wikipedia.org/wiki/職業訓練 "wikilink")施設の能力では間に合わなかった。
+
+緊急要員訓練プログラム作成の責任者に任命されたチャールズ・R・アレン（Charles Ricketson "Skipper" Allen）は、造船所の現場監督を指導者として造船所内の現場ですべての訓練をすることを決めた。そして[1917年](../Page/1917年.md "wikilink")、[教育学](../Page/教育学.md "wikilink")者[ヨハン・フリードリヒ・ヘルバルト](https://ja.wikipedia.org/wiki/ヨハン・フリードリヒ・ヘルバルト "wikilink")（Johann Friedrich Herbart）の5段階教授法（予備、提示、比較、総括、応用）をもとにアレンが開発した具体的な職業指導法が、4段階職業指導法（the "Show, Tell, Do, and Check" method of job instruction、やって見せる→説明する→やらせてみる→補修指導）であった。アレンの4段階職業指導法とは、おおむね下記のようなステップで実施する。
+
+1.  新人を配置 - 安心して行うこと。彼らが仕事に関し、事前に何かを知っているかどうかを調べること。彼らに学習に対する興味を持たせること。適切な持ち場を与えること。
+2.  作業をして見せる - 注意深く、根気よく、説明し、見せ、図示し、そして質問する。キーポイントを強調すること。一度に1点ずつ、はっきりと完全に教えること、しかし彼らがマスターできる限度を超えてはいけない。
+3.  効果を確認する - 彼ら自身に仕事をやらせてみる。彼らに説明させながらやらせること、彼らにキーポイントを説明させて示させてみること。質問し、正解をたずねること。彼らが理解したと判断できるまで、続けること。
+4.  フォローする - 彼らに、彼ら自身が必要なときにだれに質問したらよいかの相手を判断させる。頻繁にチェックすること。積極的に質問するよう促すこと。彼ら自身に、その進歩に応じたキーポイントを見つけさせること。特別指導や直接のフォローアップを段々減らしていくこと。
+
+これが中世以来の[徒弟制度](https://ja.wikipedia.org/wiki/徒弟制度 "wikilink")（弟子は最初仕事と無関係の雑務から始めその後師匠の補助をするようになり、数年から数十年をかけて仕込んでいく手法。現在も多く存在する）<u>ではない</u>職場指導、すなわちOJTの始まりと考えられる。
+
+さらにアレン式4段階法は20数年後、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の米国戦時人事委員会（War Manpower Commission）によって企業内訓練（[TWI](https://ja.wikipedia.org/wiki/TWI研修 "wikilink")：Training Within Industry）の次の4つのプログラムに発展した。
+
+1.  JIT（Job Instructor Training、仕事の教え方、[1942年](../Page/1942年.md "wikilink")4月） - できるだけ早く作業者を教える技能を身につけるように訓練するために開発され、[ロールプレイング](https://ja.wikipedia.org/wiki/ロールプレイング "wikilink")の手法を取り入れOJTを行う[監督](../Page/監督.md "wikilink")者の技能を向上させることを基本的な目的とした。
+2.  JRT（Job Relations Training、人の扱い方、[1943年](../Page/1943年.md "wikilink")2月）
+3.  JMT（Job Methods Training、改善の仕方、1943年9月） - 後にJST（Job Safety Training）になる
+4.  PDT（Program Development Training、訓練計画の進め方、[1944年](../Page/1944年.md "wikilink")9月）
+
+この[TWIプログラムが戦後の](https://ja.wikipedia.org/wiki/TWI研修 "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に導入され、現在の企業研修のもとになっている。
+
+## OJTの成果と課題
+
+日本の大企業における特に新入社員教育では、一定期間の集合研修を経てOJTへ導入する形式を採ることが多い。また専門的な職務能力を要する職種の場合は、企業規模を問わず一人の新入社員に一人の先輩が指導者として割り当てられ実務を進めながら指導する。指導者の指名については該当者の業務実績以上に指導力を考慮する必要があり、特に指導力は新入社員のその後の運命すら左右する可能性がある。
+
+[厚生労働省](../Page/厚生労働省.md "wikilink")の「平成29年度能力開発基本調査」では、正社員に対する重視する教育訓練については、OJTを重視する又はそれに近いとする企業は71.2%（前回の同調査では74.6%）、off-JTを重視する又はそれに近いとする企業は27.5%（同24.1%）であり、日本においては若干減少傾向にあるもののいまだOJTが重視されていることが見て取れる。また正社員に対して、平成28年度に計画的なOJTを実施した事業所は63.3%（同59.6%）、正社員以外に対して、平成28年度に計画的なOJTを実施した事業所は30.1%（同30.3%）であり、正社員に比べると半分以下の水準にとどまっている\[2\]。
+
+OJTの成果は「実務の中で仕事を覚える」ことにより「OJTの成果が仕事の成果になる」など、研修の成果が業績に反映される。いわば「新入社員の成長」と「企業の業績向上」という、一石二鳥が期待できる。ただし指導者となった先輩に指導力が伴わない場合、新入社員の能力向上どころかその可能性の芽を摘んでしまう。そのため指導者への課題として「どの分野は誰が詳しい」といった情報を新入社員に伝えるなど、職場内でのコミュニケーションの指導にも配慮が求められる。また企業によってはいきなり業務を行わせ、いざという時のフォローだけ行うことをOJTと称することがある。指導する側の指導やチェックが確実に行われ指導される側が報告義務を欠かさなければ成果を出せるが、指導する側・される側のどちらかに問題があれば成果は期待できない。
+
+「平成29年度能力開発基本調査」では、能力開発や人材育成に関して何らかの「問題がある」とする事業所は75.4%（同72.9%）、能力開発や人材育成に関して何らかの「問題がある」とする事業所のうち、問題点の内訳は、「**指導する人材が不足している**」（54.2%）が最も高く、「人材育成を行う時間がない」（49.5%）、「人材を育成しても辞めてしまう」（47.8%）と続いている。
+
+結局、OJTの要諦は**意図的**・**計画的**・**継続的**の3つであり、これを欠くものは本来のOJTではない。
+
+## 注・出典
+
+## 参考文献
+
+  -
+  -
+  - 澤田淳「できる・使える・OJT入門」『実務入門シリーズ』日本能率協会マネジメントセンター、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")
+
+  - 小山俊『新版　OJTで部下が面白いほど育つ本』中経出版、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+
+  - 寺田盛紀『日本の職業教育』晃洋書房、[2009年](../Page/2009年.md "wikilink")
+
+## 関連項目
+
+  - [企業内教育](https://ja.wikipedia.org/wiki/企業内教育 "wikilink") - 社員教育とも呼ばれる
+  - [教育訓練](https://ja.wikipedia.org/wiki/教育訓練 "wikilink")
+  - [徒弟](https://ja.wikipedia.org/wiki/徒弟 "wikilink")
+  - [TWI研修](https://ja.wikipedia.org/wiki/TWI研修 "wikilink")
+  - [MTP研修](https://ja.wikipedia.org/wiki/MTP研修 "wikilink")
+  - [コーチング](https://ja.wikipedia.org/wiki/コーチング "wikilink")
+  - [デュアルシステム](https://ja.wikipedia.org/wiki/デュアルシステム "wikilink")
+
+[Category:教育の手法](https://ja.wikipedia.org/wiki/Category:教育の手法 "wikilink") [Category:労働](https://ja.wikipedia.org/wiki/Category:労働 "wikilink") [Category:ビジネススキル](https://ja.wikipedia.org/wiki/Category:ビジネススキル "wikilink") [Category:職業訓練](https://ja.wikipedia.org/wiki/Category:職業訓練 "wikilink")
+
+1.  「off the job training」は日本人も多く編纂スタッフとして参加している[国際労働機関](../Page/国際労働機関.md "wikilink")（ILO）の[ILO Thesaurus](http://www.ilo.org/public/libdoc/ILO-Thesaurus/english/tr4143.htm)などには収録されているが、現代英語としての普及度の尺度とされているRandom House Webster's Unabridged Dictionaryにはこの語は収録されていない。
+2.  [平成29年度「能力開発基本調査」の結果を公表します](http://www.mhlw.go.jp/stf/houdou/0000200645.html)厚生労働省

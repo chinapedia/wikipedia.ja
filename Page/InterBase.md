@@ -1,0 +1,107 @@
+> この記事は[InterBase](https://ja.wikipedia.org/wiki/InterBase)から翻訳されています。
+
+
+**InterBase** (インターベース) は、[エンバカデロ・テクノロジーズ](https://ja.wikipedia.org/wiki/エンバカデロ・テクノロジーズ "wikilink")が開発・販売している[関係データベース管理システム](https://ja.wikipedia.org/wiki/関係データベース管理システム "wikilink") (RDBMS) である。InterBaseの特徴は、他の[データベース管理システム](../Page/データベース管理システム.md "wikilink")と比較して小さな[フットプリント](https://ja.wikipedia.org/wiki/フットプリント "wikilink")であること、必要最小限の管理で運用可能であることが挙げられる。マルチ・ジェネレーション・アーキテクチャーである。InterBaseは[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) で作動する。
+
+## テクノロジ技術
+
+多くの点で、InterBaseは標準的である。InterBaseは[SQL](../Page/SQL.md "wikilink")-92互換[関係データベース](https://ja.wikipedia.org/wiki/関係データベース "wikilink")であり、[JDBC](../Page/JDBC.md "wikilink")、[ODBC](https://ja.wikipedia.org/wiki/Open_Database_Connectivity "wikilink")、[ADO.NET](https://ja.wikipedia.org/wiki/ADO.NET "wikilink")などの標準インターフェースをサポートしている。しかし、他の製品と異なる特徴的な機能も存在する。
+
+### 小さなフットプリント
+
+InterBase 7 サーバの完全インストールに必要なディスク容量は、40[MBである](https://ja.wikipedia.org/wiki/メガバイト "wikilink")。これは競合する多くのデータベースサーバのクライアント・アプリケーションのインストールに必要なディスク容量より小さい。サーバのユーザーのアイドル時のメモリ使用量は極めて小さい。InterBaseのクライアントに必要な最低限のディスク容量は、400[KBである](https://ja.wikipedia.org/wiki/キロバイト "wikilink")。
+
+### 最小限の管理
+
+InterBaseは通常は、常勤のデータベース管理者を必要としない。 組み込み用データベースにも適しており、[M1エイブラムス](https://ja.wikipedia.org/wiki/M1エイブラムス "wikilink")戦車の中央射撃管制システムに使用された\[1\]とされる。
+
+### マルチ・ジェネレーション・アーキテクチャー
+
+#### 並行性制御
+
+**マルチ・ジェネレーション・アーキテクチャー**とは、InterBaseの[マルチバージョン並行処理制御の実装のことである](https://ja.wikipedia.org/wiki/MultiVersion_Concurrency_Control "wikilink")。InterBaseはこの技術を使用した2番目の商用データベースである。ちなみに1番目は、[DECのRdb](https://ja.wikipedia.org/wiki/ディジタル・イクイップメント・コーポレーション "wikilink")/ELNである。
+
+1)データベースには[並行性制御](https://ja.wikipedia.org/wiki/並行性制御 "wikilink")が必要であり、そのために[ロックを使用する](https://ja.wikipedia.org/wiki/ロック_\(情報工学\) "wikilink")。
+
+簡単な銀行のアプリケーションを考えて見よう。2人のユーザーが、ある口座の預金にアクセスする。Bobは口座を読み込んで、そこに1000ドルを見つける。それで彼は500ドルを引き出す。Janeは同じ口座をBobが変更する前に読み込んで、1000ドルを見つける。そして800ドルを引き出す。口座は300ドル貸し越しになるはずだが、実際には、どちらのトランザクションが先に処理されるかによって、口座の残高は500ドルか200ドルのどちらかになるだろう（訳注：このような現象は[失われた更新](https://ja.wikipedia.org/wiki/失われた更新 "wikilink")-[ロストアップデート](https://ja.wikipedia.org/wiki/ロストアップデート "wikilink")\[2\] とよばれる）。これは深刻な問題を引き起こすので、言うまでもなく、複数のユーザーがアクセスするデータベースシステムはどれでも、このようなシナリオに対処する何らかの種類のシステムが必要だ。この問題やその他の関連する問題を解決するために使われるテクニックはデータベース業界では、[並行性制御](https://ja.wikipedia.org/wiki/並行性制御 "wikilink")として知られている。
+
+伝統的な製品は、特定のトランザクションがレコードを修正しようとしている事を記載した[ロックを使用する](https://ja.wikipedia.org/wiki/ロック_\(情報工学\) "wikilink")。一度ロックされると、ロック解放まで、その他の誰もデータを読んだり修正する事は出来ない。ロックは*ロックの粒度*次第で、1レコード、1ページのレコード（ディスクに共に格納されているレコードのグループ）、特定のトランザクションで調べられた各レコードへの変更をブロックする。ロックの粒度はパフォーマンスと精度のトレードオフだ。例えば、ページレベルで更新をブロックすると、他のトランザクションによる更新とは実は衝突しない、いくつかの更新はブロックされてしまう。
+
+2)ロックは、[トランザクションの独立性と組み合わせた時](../Page/ACID_\(コンピュータ科学\).md "wikilink")、より大きな問題になる。
+
+これは大抵のトランザクションは、読み書きを両方含むからである。この例では、口座の金額を読み、それから変更する。データの独立したビューを示すために、トランザクション全体は、レコードを読むが書き込まない場合も含めて、多くのデータベース・サーバではロックしなければならない。
+
+3)InterBaseでは、読み込みは書き込みをブロックしない。その代わりに、データベースの各レコードは1つ以上のバージョンの中に存在する事が出来る。
+
+例えば、BobとJaneが口座を見た時、彼らは共に「バージョン1」を取得し、1000ドルを見つける。Bobが預金を引き出して口座を変更した時、データは上書きされない。代わりに、500ドルの入った「バージョン2」が作成される。Janeが800ドルを引き出そうとすると、新しいバージョン2があると通知される。よってJaneの引き出しは失敗する。
+
+このアプローチは、[マルチバージョン並行処理制御と呼ばれる](https://ja.wikipedia.org/wiki/MultiVersion_Concurrency_Control "wikilink")。InterBaseのマルチバージョン並行処理制御の実装は通例、マルチ・ジェネレーション・アーキテクチャーと呼ばれる。
+
+マルチバージョン並行処理制御により、真のスナップショット・トランザクション・アイソレーション（独立性）を比較的シンプルに実装する事も出来る。InterBaseではスナップショット・アイソレーションを持つトランザクションはデータベースの状態を、トランザクションが始まった時点の状態として正確に示す。これはアクティブ・データベースのバックアップや、長時間のバッチプロセスなどに非常に便利である。
+
+#### ロールバックとリカバリ
+
+InterBaseは、[ロールバック](https://ja.wikipedia.org/wiki/ロールバック "wikilink")を実装する為にも、マルチ・ジェネレーション・アーキテクチャーを使用している。ほとんどのデータベース・サーバはロールバック機能を実装する為に、[ログを使用する](https://ja.wikipedia.org/wiki/データログ "wikilink")。その結果、ロールバックに時間がかかったり、手動操作を求められる可能性すらある。対照的に、InterBaseのロールバックは瞬間的に近く、絶対に失敗しない。
+
+#### 難点
+
+特定の操作は、マルチ・ジェネレーション・アーキテクチャーでの実装がより困難である。よって、より伝統的な実装と比べると実行が遅い。1つの例はSQL COUNT 文である。インデックスがCOUNT に含まれる列・複数の列で利用可能な時でさえ、現在のトランザクションの独立性で見えるかどうかを調べる為に、全てのレコードはアクセスされなければならない。
+
+## 歴史
+
+### 初期
+
+ジム・スターキー(Jim Starkey)が[DECのDATATRIEVE](https://ja.wikipedia.org/wiki/ディジタル・イクイップメント・コーポレーション "wikilink")[ネットワークデータベース製品に従事していた時](https://ja.wikipedia.org/wiki/ネットワーク型データモデル "wikilink")、多数のユーザーによる同時変更を管理するシステムのアイデアを思いついた。このアイデアは当時開発中の新しい関係データベースで深刻な問題があると判明していた、ロックの問題を単純化した。しかしその時、DECは後の[Rdb/VMS製品となる関係データベースの開発を始めたばかりだった](https://ja.wikipedia.org/wiki/Oracle_Rdb "wikilink")。DECがスターキーのプロジェクトを知った時、縄張り争いが勃発した（この製品は[Rdb/ELN](https://ja.wikipedia.org/wiki/Rdb/ELN "wikilink")として発表されたにもかかわらずである）。スターキーは最終的には退職すると決めた。
+
+InterBaseの実装は、当時存在していたどのデータベースより、MITのリード(David P. Reed)が記述したシステムに似ており、スターキーは前職のComputer Corporation of America社やDECで、バーンスタイン(Phil Bernstein)を知っていたにも関わらず、マルチバージョン並行処理制御のアイデアに独自にたどり着いたと発言した。
+
+> マルチジェネレーション並行処理制御をひらめいた、きっかけはPrime Computer社によるデータベース・システムだ。これはページ・レベルのスナップショットをサポートしていた。この機能の狙いは、読み手にデータベースの[一貫したビューを](../Page/ACID_\(コンピュータ科学\).md "wikilink")、書き込みをブロックせずに提供することだ。このアイデアはデータベース・システムの非常に便利な特徴として、興味をそそった。
+
+スターキーは地元の[ワークステーション](../Page/ワークステーション.md "wikilink")会社である[アポロコンピュータ](https://ja.wikipedia.org/wiki/アポロコンピュータ "wikilink")が彼らの[UNIX](../Page/UNIX.md "wikilink")マシンで稼動するデータベースを探しており、開発の資金提供に応じると聞いた。彼らの励ましで、[1984年](../Page/1984年.md "wikilink")の労働者の日（米国）に、スターキーは**グロトン・データベース・システム**(Groton Database Systems)（会社のあった[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")グロトンにちなんで名づけられた）を設立した。スターキーは[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に**InterBase**として発表されるデータベースの作業を始めた。アポロコンピュータは企業大再編に見舞われ、ソフトウェアビジネスからの離脱を決めた。しかしその時までに、製品は大金を稼いでいた。
+
+### ボーランドへの道
+
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")までの間に、製品は段階的に[アシュトンテイト](https://ja.wikipedia.org/wiki/アシュトンテイト "wikilink")に売られた。アシュトンテイトは有名な[dBASE](https://ja.wikipedia.org/wiki/dBASE "wikilink")のメーカーであり、その時点でいくつものデータベース会社をポートフォリオの為に購入していた。アシュトンテイトは直ぐに経営危機に見舞われ、1991年に[ボーランド](https://ja.wikipedia.org/wiki/ボーランド "wikilink")が買収した。InterBaseはその一部として取得された。
+
+### オープンソース
+
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")以降、ボーランドは深刻な経営危機に見舞われた。[Paradoxや](https://ja.wikipedia.org/wiki/Paradox_\(データベース\) "wikilink")[dBASE](https://ja.wikipedia.org/wiki/dBASE "wikilink")などボーランドのデータベース製品は次々と売却された。InterBaseも[1999年](../Page/1999年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")、キーパーソンの退職により、開発が中断した\[3\]。
+
+[2000年](../Page/2000年.md "wikilink")初頭、ボーランドはInterBaseを[オープンソース](../Page/オープンソース.md "wikilink")化し、製品を管理する企業をスピンオフする交渉を始めたと発表した。[レッドハット](../Page/レッドハット.md "wikilink")の[IPOに倣った物と言う説](../Page/株式公開.md "wikilink")\[4\]がある。しかし新会社の経営陣と条件が折り合わず、スピンオフは中止された。
+
+[2000年](../Page/2000年.md "wikilink")にInterBase6が[オープンソース](../Page/オープンソース.md "wikilink")として公開され、これを基に[Firebird](../Page/Firebird.md "wikilink")としてオープンソース開発が続けられている。しかし、その後ボーランド社がオープンソース戦略を撤回して新バージョンのInterbase6.5(6.5は日本では未発売、日本ではその次のバージョンであるInterbase7から発売)を販売したため、両者は別プロジェクトとして分岐してしまっている。
+
+### 最近の動向
+
+2002 年末、ボーランドはInterBase 7 を発売した。特徴は[SMPのサポート](https://ja.wikipedia.org/wiki/対称型マルチプロセッシング "wikilink")、管理者によるサーバのモニタリングとコントロールのサポートの拡張である。
+
+ボーランドは2003年6月にInterBase 7.1、2004年12月には7.5、2005年6月に7.5.1を発売した。
+
+2006年9月、ボーランドはInterBase 2007を発表した。新機能に含まれるのは、ジャーナリングによるPoint-in-Timeリカバリー（同時書き込みによるパフォーマンスのペナルティーが無い復元も可能になる）、[増分バックアップ](https://ja.wikipedia.org/wiki/増分バックアップ "wikilink")、バッチ文による操作、新しい[ユニコード](https://ja.wikipedia.org/wiki/ユニコード "wikilink")[文字エンコード](../Page/文字コード.md "wikilink")、新しい[ODBCドライバーである](https://ja.wikipedia.org/wiki/Open_Database_Connectivity "wikilink")。
+
+2007年9月、[3rdRail](https://ja.wikipedia.org/wiki/3rdRail "wikilink") の発表に伴い、[Mac OS X版が登場した](https://ja.wikipedia.org/wiki/macOS "wikilink")。
+
+2008年10月、[エンバカデロ・テクノロジーズ](https://ja.wikipedia.org/wiki/エンバカデロ・テクノロジーズ "wikilink")はInterBase SMP 2009日本語版を発表した。新機能として、データベースとカラムレベルの暗号化、オーバーザワイヤー(OTW)ネットワークの暗号化、バックアップファイルの暗号化が追加された。また、新たに組み込み用としてTo-Go Editionが追加された。
+
+2011年1月、[エンバカデロ・テクノロジーズ](https://ja.wikipedia.org/wiki/エンバカデロ・テクノロジーズ "wikilink")はInterBase XE 日本語版を発表した。新しく64ビットネイティブ対応版が提供されることになり、それに伴いデータベースキャッシュ設定の拡大が可能になった。新機能として、強度の高いパスワード保護(PCI DSSのパスワード要件を満たす)、ストアドプロシージャやトリガーから動的SQLが呼び出し可能(EXECUTE STATEMENT)、パラメタの追加(テーブル固有のブロック化因数、スレッドスタックサイズ調整)、機能改善として、スイープの高速化、インデックスキーの上限が引き上げられた。また、付属するJDBDドライバではBLOB/CLOBをサポートするためのI/F(java.sql.Blob、java.sql.Clob、java.io.inputStream)が追加された。
+
+2012年8月、[エンバカデロ・テクノロジーズ](https://ja.wikipedia.org/wiki/エンバカデロ・テクノロジーズ "wikilink")はInterBase XE3 日本語版を発表した(Windows版のみ。ほかのプラットホームはXEのまま)。新機能として、ODBCドライバの改善(既存のDataDirectのものを新規のInterBase ODBC driverでリプレイス), コンカレントなインデックス作成, データベースとユーザテーブル用に\[NO\] RESERVE SPACEのサポート, Windows, MacOSX, そして Linux 間での物理データベースのポータビリティが追加された。2013年9月時点の最新版はXE3 Update 3\[5\]。
+
+2014年12月、[エンバカデロ・テクノロジーズ](https://ja.wikipedia.org/wiki/エンバカデロ・テクノロジーズ "wikilink")はInterBase XE7 日本語版を発表した。新機能として変更ビュー(テーブルの変更履歴を簡単に追跡する)、64-bit Linux（RHEL、Ubuntu、SUSE）のサポート、パフォーマンスの向上(SMP環境でのパフォーマンスの向上、トランザクションの改善)、トランザクションIDの64ビット化、インクリメンタルデータダンプ機能の改善、などがある。2015年12月時点の最新版はXE7 Update 5\[6\]。
+
+2017年3月、[エンバカデロ・テクノロジーズ](https://ja.wikipedia.org/wiki/エンバカデロ・テクノロジーズ "wikilink")はInterBase 2017 日本語版を発表した。新機能としてisql新機能(RECONNECT,namesの追加)、全オンラインDBのモニタリング、トランザクションの機能追加(排他的隔離レベル、トランザクション待機期間)、SQLの新機能(派生テーブル、共通表式(RECURSIVEによる再帰含む)、TRUNCATE TABLE)、などがある。Update 1においても新機能(式インデックス、ORDER BYとGROUP BYの強化)が提供されたがUpdate 2, Update 3では新機能の提供はなかった。2020年1月時点の最新版は2017 Update 3\[7\]。
+
+2019年11月、[エンバカデロ・テクノロジーズ](https://ja.wikipedia.org/wiki/エンバカデロ・テクノロジーズ "wikilink")はInterBase 2020 日本語版を発表した。新機能としてデータベーステーブルスペースのサポート、新しいプラットフォームのサポート(組み込み向けのInterBase（IBLiteおよびIBToGo）は、Android 64-bitおよびmacOS 64-bitを新たにサポート)、パフォーマンスモニタリングの強化、データディクショナリDDL、SQLの最適化、セキュリティ強化、IBConsoleの改善。などがある。\[8\]。
+
+## 脚注
+
+[Category:データベース管理システム](https://ja.wikipedia.org/wiki/Category:データベース管理システム "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.

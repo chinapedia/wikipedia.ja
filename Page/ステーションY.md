@@ -1,0 +1,69 @@
+> この記事は[Y](https://ja.wikipedia.org/wiki/Y)から翻訳されています。
+
+
+『**ステーションY**』（Station Y、STATION Y、ステーションy）は、[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[山口朝日放送](../Page/山口朝日放送.md "wikilink") (yab) で月曜 - 金曜 18:17（当初は18:18） - 18:54に放送されていた[ローカル](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。
+
+## 概要
+
+『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』のローカルパートとしての『[YABスーパーJチャンネル](https://ja.wikipedia.org/wiki/YABスーパーJチャンネル "wikilink")』を、単独番組として発展させる形でスタート。[報道](https://ja.wikipedia.org/wiki/報道 "wikilink")を意識しており、日替わりでコメンテーターが出演していたのが特徴。放送開始当初は金融・政治関連の特集なども行っていた。。
+
+金曜日には[朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")・[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")・[愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")、ならびにyabのブロックネット番組である『[ぐるりん瀬戸内](https://ja.wikipedia.org/wiki/ぐるりん瀬戸内 "wikilink")』を放送していた。また、[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")との共同企画のコーナーも放送していた。
+
+番組の終了後、替わって後継番組の『[Jチャンやまぐち](https://ja.wikipedia.org/wiki/Jチャンやまぐち "wikilink")』がスタートした。
+
+## キャスター
+
+| 期間                    | メインキャスター                                                   | ニュース担当                                                      | 天気                                                    | ぐるりん瀬戸内 |
+| --------------------- | ---------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------- | ------- |
+| 月曜・火曜                 | 水曜                                                         | 木曜・金曜                                                       | 月曜・火曜                                                 | 水曜      |
+| 2003.3.31 - 2004.3.26 | [高山了子](https://ja.wikipedia.org/wiki/高山了子 "wikilink")      | [柘植忠司](https://ja.wikipedia.org/wiki/柘植忠司 "wikilink")       | [田中寿江](https://ja.wikipedia.org/wiki/田中寿江 "wikilink") | 柘植忠司    |
+| 2004.3.29 - 2004.10.1 | 田中寿江                                                       | [黒宮千香子](https://ja.wikipedia.org/wiki/黒宮千香子 "wikilink")     | 黒宮千香子                                                 |         |
+| 2004.10.4 - 2005.4.1  | [松田梨香](https://ja.wikipedia.org/wiki/松田梨香 "wikilink")      | 松田梨香                                                        |                                                       |         |
+| 2005.4.4 - 2005.9.30  | 柘植忠司                                                       | [福山博子](https://ja.wikipedia.org/wiki/福山博子 "wikilink")       | 福山博子                                                  |         |
+| 2005.10.3 - 2006.3.31 | 松田梨香                                                       | [山田香菜子](https://ja.wikipedia.org/wiki/山田香菜子 "wikilink")     | 松田梨香                                                  | 山田香菜子   |
+| 期間                    | ニュース担当                                                     | 天気                                                          | ぐるりん瀬戸内                                               |         |
+| 月曜 - 木曜               | 金曜                                                         | 月曜 - 水曜                                                     | 木曜                                                    | 金曜      |
+| 2006.4.3 - 2007.3.30  | 柘植忠司 松田梨香                                                  | [井川弘宜](https://ja.wikipedia.org/wiki/井川弘宜 "wikilink") 山田香菜子 | 松田梨香                                                  | 山田香菜子   |
+| 2007.4.2 - 2008.3.28  | 柘植忠司 [堂本幸代](https://ja.wikipedia.org/wiki/堂本幸代 "wikilink") | [村中智絵](https://ja.wikipedia.org/wiki/村中智絵 "wikilink")       |                                                       |         |
+| 2008.3.31 - 2009.3.27 | [関真由美](https://ja.wikipedia.org/wiki/関真由美 "wikilink")      | [八木ひとみ](https://ja.wikipedia.org/wiki/八木ひとみ "wikilink")     |                                                       |         |
+
+## コメンテーター
+
+下記は公式サイトに記載されているものだが、異なるコメンテーターが出演することもあった。
+
+  - 岩下範之 - 朝日新聞 山口総局長
+  - 上田和義 - 弁護士（2006年5月 - ）
+  - 佐藤国憲 - 防府商工会議所顧問（2006年4月 - ）
+  - 山根多恵 - 旅館吉田屋 女将
+  - 古賀武陽 - 山口大学経済学部 非常勤講師
+
+### 過去に出演していたコメンテーター
+
+  - 小林慎也 - 梅光学院大学教授（[下関市](../Page/下関市.md "wikilink")、 - 2006年3月）
+  - 中山尭 - 朝日新聞（ - 2006年3月）
+  - 吉冨崇子 - 主婦（ - 2006年3月）
+  - 江里健輔 - 山口県立大学長（2006年4月）
+  - 軸屋忍 - 朝日新聞山口総局長（2006年4月 - ）
+  - 井出崎小百合 - 育児子育てサポート活動家（2006年4月 - ）
+  - 島添美葉子 - 消費生活アドバイザー（2006年4月 - ）
+
+## エピソード
+
+  - 毎週月曜日に放送されていたスポーツコーナー「週スポ」は、番組開始当初より続く唯一のコーナーだった（ブロックネット企画である「ぐるりん瀬戸内」を除く）。
+  - 『[ほっと土曜日](https://ja.wikipedia.org/wiki/ほっと土曜日 "wikilink")』が放送終了した際に、同番組の人気コーナーであった「学校の快談」は本番組へ移行した（コーナーは終了）。
+  - 2006年8月14日より、スタジオカメラを除く機器がHD対応（放送は地上デジタル放送の試験放送のみ）。同年9月13日からは、スタジオカメラの更新も完了し、正式にハイビジョン制作番組となった。また同日より、サイドテロップなど2つのテロップが表示可能となったため、活用を始めた。
+  - 初代テーマソングは本番組のために制作されたもので、2006年3月末まで3年間使われた。
+  - ロゴマークは、かつてのコーポレートカラーであった緑と青の2色の三角形で「Y」を表現したもの。2006年7月14日のCI導入からは、赤茶と橙とに色を変えたものが使用されるようになった（番組内テロップのみ）。このロゴマークは、2007年4月に変更された。
+  - 山口朝日放送では従来平日17時台にローカル番組を編成（[5時からワイド](https://ja.wikipedia.org/wiki/5時からワイド "wikilink")→[とれたてテレビYAB](https://ja.wikipedia.org/wiki/とれたてテレビYAB "wikilink")）し、18時台後半にローカルニュースを編成していなかったが、当番組以降は系列他局および県内他局（[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")・[テレビ山口](../Page/テレビ山口.md "wikilink")）と同様に18時台後半にローカルニュースを編成するようになった。
+
+## 関連項目
+
+  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+  - [ステーションEYE](../Page/ステーションEYE.md "wikilink")
+  - [ANN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/ANN夕方ローカルニュース一覧 "wikilink")
+
+## 外部リンク
+
+  - [ステーションY](http://www.yab.co.jp/stationy/)
+
+[Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:山口朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:山口朝日放送のテレビ番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")

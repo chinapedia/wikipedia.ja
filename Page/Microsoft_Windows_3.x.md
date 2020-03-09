@@ -1,0 +1,441 @@
+> この記事は[Microsoft Windows 3.x](https://ja.wikipedia.org/wiki/Microsoft_Windows_3.x)から翻訳されています。
+
+
+**Microsoft Windows 3.x**（**マイクロソフト ウィンドウズ 3.x**）は、[MS-DOS](../Page/MS-DOS.md "wikilink")を拡張する16ビットオペレーティング環境（Operating Environment:）\[1\]。主なバージョンとして[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に発売された「Windows 3.0」と、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")に発売された改良版「Windows 3.1」がある。
+
+その他、マルチメディアに対応した「Windows 3.0 with Multimedia Extensions ([Windows MME](https://ja.wikipedia.org/wiki/Windows_Multimedia_Extensions "wikilink"))」を一部機種で展開するなど、幾度かのマイナーバージョンアップが行われている。英語版ではネットワークをサポートする「Windows for Workgroup（Windows3.1ベース）」も発売されている。また追加モジュールとして32ビットアプリケーションを動作させるための「[Win32s](https://ja.wikipedia.org/wiki/Win32s "wikilink")」、画像表示を高速化するための「[WinG](https://ja.wikipedia.org/wiki/WinG "wikilink")」、[AVI](https://ja.wikipedia.org/wiki/AVI "wikilink")形式の動画を再生するための「[Video for Windows](https://ja.wikipedia.org/wiki/Video_for_Windows "wikilink")」、LANに接続するための「[LAN Manager](https://ja.wikipedia.org/wiki/LAN_Manager "wikilink")」、インターネットやメールをするための「[Internet Explorer](https://ja.wikipedia.org/wiki/Internet_Explorer "wikilink")（16ビット版）」がある。
+
+[MS-DOS](../Page/MS-DOS.md "wikilink")環境から起動させるため、事前にMS-DOSシステムをコンピュータ上で動作させておく必要がある。しかし、Windows 3.1以前はMS-DOSの拡張製品としてそれぞれが別々に販売されたため、MS-DOSは別途購入する必要がある。
+
+## 機能
+
+[Windows 2.x](https://ja.wikipedia.org/wiki/Microsoft_Windows_2.0 "wikilink") (Windows 2.11, Windows/386 2.11) の後継となるWindows 3.0は、ユーザーインターフェイスの大幅な改良と[Intel 80286や](../Page/Intel_80286.md "wikilink")[80386プロセッサのメモリ管理機能を有効活用する技術的な改善が行われた](../Page/Intel_80386.md "wikilink")。
+
+[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink") (GUI) 機能を持ち複数の[タスク](https://ja.wikipedia.org/wiki/タスク "wikilink")を同時実行できる[マルチタスク](https://ja.wikipedia.org/wiki/マルチタスク "wikilink")が可能なことが利点であった。しかし、1つのWindows[プログラムが](https://ja.wikipedia.org/wiki/プログラム_\(コンピュータ\) "wikilink")[CPU](../Page/CPU.md "wikilink")を占有してしまいほかのプログラムが止まってしまうこともあった（[ノンプリエンプティブ](https://ja.wikipedia.org/wiki/マルチタスク#ノンプリエンプティブ・マルチタスク "wikilink")）\[2\]。Windows/386ではMS-DOS用のテキストモードプログラムは全画面を占有し、[ショートカットキー](https://ja.wikipedia.org/wiki/ショートカットキー "wikilink")で画面を切り替える仕様となっていたが、Windows 3.0では[ウィンドウ](https://ja.wikipedia.org/wiki/ウィンドウ "wikilink")内で動作させることができ、旧来のプログラムも[擬似マルチタスクとして利用できるようになった](https://ja.wikipedia.org/wiki/マルチタスク "wikilink")\[3\]。しかし、家庭向け市場では多くのゲームやエンターテイメントソフトがMS-DOSへの直接アクセスを必要としていたため、あまり恩恵を受けられなかった\[4\]。
+
+Windows 2.xは[メニューや](https://ja.wikipedia.org/wiki/メニュー_\(コンピュータ\) "wikilink")[ウィンドウ](https://ja.wikipedia.org/wiki/ウィンドウ "wikilink")枠での非常に限られた色しか使うことができなかったが、Windows 3.xの[アイコン](https://ja.wikipedia.org/wiki/アイコン "wikilink")やグラフィックは[EGAや](https://ja.wikipedia.org/wiki/Enhanced_Graphics_Adapter "wikilink")[VGAモードで](https://ja.wikipedia.org/wiki/Video_Graphics_Array "wikilink")16色を完全にサポート。256色VGAモードやMCGAモードが初めてサポートされた。また、ディスプレイ出力に使用するカラーパレットはディスプレイ[ドライバが管理し](https://ja.wikipedia.org/wiki/デバイスドライバ "wikilink")、アプリケーション毎には論理的なカラーパレットが用意されたことで、アプリケーション側はカラーパレットの状態や制限を気にする必要がなくなった\[5\]。
+
+MS-DOSウィンドウ（ファイルマネージャ・プログラムランチャー機能）は、アイコンベースの「プログラムマネージャ」と一覧ベースの「ファイルマネージャ」に置き換えられた。前バージョンでは[アプレット](https://ja.wikipedia.org/wiki/アプレット "wikilink")となっていた「コントロールパネル」は[アップルの](https://ja.wikipedia.org/wiki/アップル_\(企業\) "wikilink")[Classic Mac OSと類似のものに作り替えられた](../Page/Classic_Mac_OS.md "wikilink")\[6\]。
+
+いくつか簡単なアプリケーションも同梱された。テキストエディタの[メモ帳](https://ja.wikipedia.org/wiki/メモ帳 "wikilink")、文書作成ソフトのライト（後の[ワードパッド](https://ja.wikipedia.org/wiki/ワードパッド "wikilink")）、一連のキー操作や[マウス操作を](https://ja.wikipedia.org/wiki/マウス_\(コンピュータ\) "wikilink")[マクロとして記録して後で実行できる](https://ja.wikipedia.org/wiki/マクロ_\(コンピュータ用語\) "wikilink")「[レコーダー](https://ja.wikipedia.org/wiki/レコーダー "wikilink")」、[ペイント](https://ja.wikipedia.org/wiki/Microsoft_Paint "wikilink")、[電卓など](https://ja.wikipedia.org/wiki/電卓_\(Windows\) "wikilink")。ゲームはWindows 3.0では[リバーシに加えて](../Page/オセロ_\(遊戯\).md "wikilink")[ソリティア](https://ja.wikipedia.org/wiki/ソリティア "wikilink")が搭載された\[7\]、Windows 3.1ではソリティア・[マインスイーパ](https://ja.wikipedia.org/wiki/マインスイーパ "wikilink")が付属\[8\]。
+
+Windows 3.0に搭載されたプロテクトモードやエンハンスドモードはDOSアプリケーションで行われていた方法より簡単に、より多くのメモリをWindowsアプリケーションで使えるようになった。Windows 3.0では[リアルモード](https://ja.wikipedia.org/wiki/リアルモード_\(Windows_3.0\) "wikilink")（[8086相当CPUの機能を利用](../Page/Intel_8086.md "wikilink")）、スタンダードモード（80286相当CPUの機能を利用）、386エンハンスドモード（[i386相当CPUの機能を利用](../Page/Intel_80386.md "wikilink")）があり\[9\]、通常は自動で適切なモードを選択するが、/r（リアルモード）、/s（「スタンダード」286プロテクトモード）、/3（386エンハンスドプロテクトモード）といったスイッチを使って特定のモードで起動することもできた\[10\]。386エンハンスドモードではやや動作が重くなり、実用的には[486以上のマシンパワーを必要とした](https://ja.wikipedia.org/wiki/Intel_486 "wikilink")\[11\]。
+
+### プロテクトモードの恩恵
+
+WindowsはWindows 3.0のスタンダードモードおよびエンハンスドモードから[プロテクトモード](https://ja.wikipedia.org/wiki/プロテクトモード "wikilink")が本格的にサポートされた。
+
+厳密には、WindowsはWindows/386からプロテクトモードを利用しているが、このバージョンでは内部的に80386で導入された機能をプロテクトモードで使用し、アプリケーションには[仮想86モード](https://ja.wikipedia.org/wiki/仮想86モード "wikilink")を提供するというものであり、[EMS対応MS](https://ja.wikipedia.org/wiki/Expanded_Memory_Specification "wikilink")-DOSアプリケーションと同様に実行プログラムを数百KBという限られたスペースに収まるよう作る必要があった\[12\]。またEMSはバンク切り替えがあるため、その切り替え作業にかかる時間だけ低速になる。特に大規模なアプリケーションはほぼ常時バンク切り替えを繰り返すために低速だった\[13\]。これがWindows 3.xのスタンダードモードとエンハンスドモードは、Windowsの大半のモジュールがプロテクトモードで動作する16ビットのコードで構成され、アプリケーション（WIN16アプリケーション）もプロテクトモードで動作する16ビットのコードで構成されるように変更された。さらにエンハンスドモードでは、80386で導入されたメモリ管理機能をプロテクトモードで動作するシステムのコードに実装し、[IA-32](https://ja.wikipedia.org/wiki/IA-32 "wikilink")のページングを利用した[仮想記憶](../Page/仮想記憶.md "wikilink")もサポートし、実メモリ以上のメモリをアプリケーションが確保できるようになった。また Windows 用のデバイスドライバとして、80386で導入された機能をプロテクトモードで活用した [VxD](https://ja.wikipedia.org/wiki/仮想デバイスドライバ "wikilink") デバイスドライバもサポートされた。従来のWindowsは常にメモリが不足気味だったが、3.0からのプロテクトモードをサポートした結果、Windows自身とそのアプリケーションは、（コンベンショナルメモリ）+（EMS）よりも高速で大量のメモリを使用可能な[プロテクトメモリ](https://ja.wikipedia.org/wiki/プロテクトメモリ "wikilink")を利用可能になった\[14\]。そのため、[MS-DOS](../Page/MS-DOS.md "wikilink")ではメモリ不足から実現不可能だった大型アプリケーションも、Windows用に開発されるようになった。
+
+### ユーザーインターフェイス
+
+GUIはマイクロソフトが[IBM](../Page/IBM.md "wikilink")と共同開発していた[OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink") 1.2のプレゼンテーション・マネージャと類似の外観をしている。ウィンドウのメニューバーとパネル本体という構成や[ダイアログボックス](https://ja.wikipedia.org/wiki/ダイアログボックス "wikilink")など、IBMが提唱した[Systems Application Architectureの](https://ja.wikipedia.org/wiki/Systems_Application_Architecture "wikilink")[Common User Access](https://ja.wikipedia.org/wiki/Common_User_Access "wikilink") (CUA) におおむね準拠している。しかし、[シフトキー](https://ja.wikipedia.org/wiki/シフトキー "wikilink")とマウスを組み合わせた操作はCUAでの規定に反しており完全準拠ではない\[15\]。このデザインはアップルより同社が開発したClassic Mac OSの[ルック・アンド・フィール](https://ja.wikipedia.org/wiki/ルック・アンド・フィール "wikilink")を盗用したとしてWindows 2.xとともに著作権侵害が指摘されたが、裁判ではアップルの訴えは退けられ、後に両者は和解した（詳細は[Windows 2.0\#アップルとの法的抗争を参照](https://ja.wikipedia.org/wiki/Microsoft_Windows_2.0#アップルとの法的抗争 "wikilink")）。
+
+  - ウィンドウ
+    一番右上（タイトルバーの右端）のボタン\[▲\]は最大化（全画面表示）のボタンで、既に最大化している場合はウィンドウ表示に戻すボタン（上下に▲と▼が並んだ\[◆\]状のボタン）が表示される。その隣のボタン\[▼\]は最小化（タスクアイコン化）のボタンである。[Windows 95以降でのウインドウを閉じる](../Page/Microsoft_Windows_95.md "wikilink")\[×\]に相当するボタンは存在しない。終了はタイトルバー左上の［-］ボタン（コントロールメニューボックス）や[メニューバーからのプルダウンメニューから行えるが](https://ja.wikipedia.org/wiki/メニュー_\(コンピュータ\) "wikilink")、左上の［-］そのものをダブルクリックすることでも終了する\[16\]。MS-DOSボックスの場合はメニューバーやタイトルバーから終了させることはできず、コマンドプロンプトでEXITと入力する必要がある\[17\]\[18\]。また、エンハンストモードであれば[Control-Alt-Delete](https://ja.wikipedia.org/wiki/Control-Alt-Delete "wikilink")でアクティブなウィンドウの強制終了が行える。
+  - ポインティング
+    当時はまだマウスは推奨であって必須ではなかった\[19\]。セットアップ時にマウス無し（使用しない）を選択することもでき、Windowsの主要システム自体はキーボードだけでも操作できるようになっていた\[20\]。ただし実際にはGUIである以上はマウス前提で作られたアプリケーションが少なくなく、Windows 95以降はマウスが必須になっている。
+    なお右[クリック](https://ja.wikipedia.org/wiki/クリック "wikilink")による操作はアプリケーション側で対応している場合にのみ有効であり、Windowsを操作する上では特別な意味合いを持っていなかった\[21\]。Windows標準付属のアプリケーションとしては[ペイントブラシや](https://ja.wikipedia.org/wiki/Microsoft_Paint "wikilink")[マインスイーパ](https://ja.wikipedia.org/wiki/マインスイーパ "wikilink")が右クリックを活用できる。
+  - シェル
+    Windows 3.xで標準の[シェル](../Page/シェル.md "wikilink")は後述のプログラムマネージャというメニューソフトに相当する機能を持つプログラムランチャーだった。また、設定を変更することにより、ファイルマネージャやそれ以外（コマンドプロンプトや[Norton Desktopなどのサードパーティー製シェルソフトなど](https://ja.wikipedia.org/wiki/Norton_Desktop "wikilink")）の特定のアプリケーションをシェルに指定することも可能である。
+    なお、プログラムマネージャ・ファイルマネージャともに、親画面の中で子画面を複数開くことができた ([MDI](https://ja.wikipedia.org/wiki/Multiple_Document_Interface "wikilink"))。
+  - プログラムマネージャ
+    プログラムの起動は原則として**[プログラムマネージャ](https://ja.wikipedia.org/wiki/プログラムマネージャ "wikilink")**から行う。プログラムマネージャはプログラムを表す「[アイコン](https://ja.wikipedia.org/wiki/アイコン "wikilink")」およびアイコンを分類する「グループ」を画面に表示するためのプログラムであり、アイコンを[ダブルクリックすることでプログラムを起動することができた](https://ja.wikipedia.org/wiki/クリック "wikilink")。ただし、プログラムマネージャ上のアイコン（およびグループ）とディスク上のファイル（およびディレクトリ）との間には対応関係が無く、後の[エクスプローラーのようにファイルを操作する機能は統合されていない](https://ja.wikipedia.org/wiki/Windows_Explorer "wikilink")\[22\]。
+  - ファイルマネージャ
+    ファイル操作は、Windows 2.x以前のシェルだった「MS-DOSウィンドウ」に似た**[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")**というプログラムで行う。ファイルのダブルクリックでプログラムを直接実行することもでき、[拡張子](https://ja.wikipedia.org/wiki/拡張子 "wikilink")によるアプリケーションの関連付けもファイルマネージャ上で行うことができる。Windows 2.xでMS-DOSアプリケーションを実行するにはPIFファイル（情報ファイル）にあらかじめ実行環境を設定する必要があったが、Windows 3.0ではPIFファイルがなくても標準設定で実行するようになった\[23\]。MS-DOSウィンドウはファイル名が羅列されるだけであったが、ファイルマネージャでは画面左に現在開いているディレクトリの位置を示すディレクトリツリーが表示され、画面右には項目名とその種類を示す小さなアイコンが一覧表示されるようになった\[24\]。プログラムマネージャやデスクトップのタスク（後述）と違って「大きなアイコン」を表示する機能は無い。また、ファイルの種類毎にアイコンが用意されたWindows 95以降と異なり\[25\]、ファイルマネージャでは自身の持つ数種類のアイコンしか表示できなかった。
+    ファイルマネージャには2000年以上の年表示が文字化けするという不具合があったが、後に[2000年問題](https://ja.wikipedia.org/wiki/2000年問題 "wikilink")対応版がマイクロソフトから配布された\[26\]。
+  - デスクトップ
+    デスクトップ\[27\]の領域には実行中のプログラムを最小化したときのアイコンが表示される\[28\]。Windows 95以降での[タスクバー](https://ja.wikipedia.org/wiki/タスクバー "wikilink")に相当する場所であった。Windows 2.xからの変更点として、画像や模様を背景として飾ることができるようになった。デスクトップをダブルクリックすると[タスクマネージャに似た画面を呼び出すことができた](https://ja.wikipedia.org/wiki/Windows_タスク_マネージャー#Windows_9x_系 "wikilink")。
+
+### マルチメディア
+
+アップルは1991年6月に[QuickTime](https://ja.wikipedia.org/wiki/QuickTime "wikilink")を発表、12月には出荷しており、パソコン市場拡大のかげりから新しい分野として[マルチメディア](https://ja.wikipedia.org/wiki/マルチメディア "wikilink")が担がれていた時期であった\[29\]\[30\]。
+
+Windows 3.0は当初動画や音声を扱うことができなかった。それらの[マルチメディア](https://ja.wikipedia.org/wiki/マルチメディア "wikilink")機能は1991年10月に「[Windows 3.0 with Multimedia Extensions](https://ja.wikipedia.org/wiki/Windows_Multimedia_Extensions "wikilink")」というWindows 3.0の拡張版およびアップグレードキットとしてリリースされた\[31\]。その後、Windows 3.1では標準でマルチメディア機能が搭載された。
+
+同時に、マイクロソフトや複数のパソコンメーカーによりマルチメディア対応パソコンを認定するため  (MPC) 規格が策定されたが、最初のバージョンにおける最小構成のパソコンでは多くのアプリケーションで力不足であった\[32\]。日本でも、当時標準でマルチメディア機能を使えるWindowsの存在したPCは[FM TOWNS程度だった](../Page/FM_TOWNS.md "wikilink")。
+
+それでもWindows 3.1でマルチメディア機能が標準搭載された利点はあり、FM音源程度しか持たないMPC以前の機種であっても、簡単なMIDIファイル程度のマルチメディアであればOS標準で利用できるようになった\[33\]。
+
+1992年11月には動画再生をサポートする[Video for Windowsも発表された](https://ja.wikipedia.org/wiki/Video_for_Windows "wikilink")\[34\]。当初サポートしていた[解像度](https://ja.wikipedia.org/wiki/解像度 "wikilink")や[フレームレート](https://ja.wikipedia.org/wiki/フレームレート "wikilink")は320x240[ピクセル](https://ja.wikipedia.org/wiki/ピクセル "wikilink")/30fpsと低くかったものの\[35\]、[AVI](https://ja.wikipedia.org/wiki/AVI "wikilink")が再生できるようになり、マルチメディアCD-ROMソフトがWindows 3.1向けに発売されるようになった。マイクロソフトからはVideo for Windowsの発表と同時に[エンカルタ](https://ja.wikipedia.org/wiki/エンカルタ "wikilink")との2本のCD-ROMソフトが発表された\[36\]。1995年に入ると[GPUの性能競争が一時的に停滞し](https://ja.wikipedia.org/wiki/Graphics_Processing_Unit "wikilink")、代わりに動画の拡大表示を綺麗に行う補間機能といった動画再生支援機能が注目されるようになった\[37\]。
+
+MPC規格のバージョンアップはPC/AT互換機ではWindowsの環境改善よりもDOSの環境改善としての効果が大きく、結果としてゲームプレイには最低の環境だったPC/AT互換機を一気にPCゲーム標準機まで押し上げることになった。ただしこのことがゲーム環境のWindowsへの移行を遅らせる原因になり、マイクロソフトが[WinG](https://ja.wikipedia.org/wiki/WinG "wikilink")や[DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")を開発する強い動機となった。
+
+### ネットワーク / インターネット
+
+Windows 3.0、3.1では、標準で[ネットワーク](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink") ([LAN](https://ja.wikipedia.org/wiki/Local_Area_Network "wikilink")) 機能自体が搭載されておらず、[LAN Manager](https://ja.wikipedia.org/wiki/LAN_Manager "wikilink") Clientなど[DOSベースのネットワーク機能に頼っていた](../Page/MS-DOS.md "wikilink")。LAN Manager Clientは[Windows NT](https://ja.wikipedia.org/wiki/Windows_NT "wikilink") Serverの[CD-ROM](../Page/CD-ROM.md "wikilink")などに収録され、[TCP/IPや](https://ja.wikipedia.org/wiki/インターネット・プロトコル・スイート "wikilink")[NetBEUI](https://ja.wikipedia.org/wiki/NetBEUI "wikilink")、[NetWare](https://ja.wikipedia.org/wiki/NetWare "wikilink")互換プロトコルなどのプロトコルが使えた。また、Windows for Workgroups (WfW) 3.1はWindows 3.1にWindowsベースでのネットワーク機能を付加するアドオンとして発表、販売された。ただし、この段階ではネットワーク[プロトコルとしてNetBEUIかNetWare互換プロトコルしか選択できなかった](https://ja.wikipedia.org/wiki/通信プロトコル "wikilink")。その後、WfW 3.11が完全なWindows製品として発売され、このWfW3.11向けに[TCP/IPプロトコル用ドライバも提供された](https://ja.wikipedia.org/wiki/インターネット・プロトコル・スイート "wikilink")\[38\]。
+
+WfWの日本語版は発売されなかったため、日本のユーザーが手軽にネットワークを組むにはWindows 3.1との互換性に乏しく高性能パソコンを要求するWindows NTを購入するか、[Windows 95の登場を待つしかなかった](../Page/Microsoft_Windows_95.md "wikilink")\[39\]。
+
+日本では1994年時点で個人ユーザーに[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")接続サービスを提供する[ISPが](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")[IIJと富士通](https://ja.wikipedia.org/wiki/インターネットイニシアティブ "wikilink")(InfoWeb、1999年に[ニフティ](https://ja.wikipedia.org/wiki/ニフティ "wikilink")へ統合）の2社しか存在せず、まだ黎明期にあった。1995年に入るとISPは10社以上になり、インターネットを取り扱った参考書も急増した。しかしWindows 3.1標準ではネットワーク機能は搭載されていないため、市販のInternet CHAMELEON（ネットマネージジャパン、19800円）といった[ダイヤルアップ接続](https://ja.wikipedia.org/wiki/ダイヤルアップ接続 "wikilink")ツール（[ダイヤラー](https://ja.wikipedia.org/wiki/ダイヤラー "wikilink")、[メーラー](https://ja.wikipedia.org/wiki/電子メールクライアント "wikilink")、[FTPクライアント](https://ja.wikipedia.org/wiki/FTPクライアント "wikilink")などをまとめたパッケージ）を購入するか、パソコン通信を通じて[Trumpet Winsockといったツールを揃えていく必要があった](https://ja.wikipedia.org/wiki/Winsock "wikilink")。[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")には[NCSA Mosaicやその後に登場してすぐに標準となった](https://ja.wikipedia.org/wiki/NCSA_Mosaic "wikilink")[Netscape Navigatorが使われた](https://ja.wikipedia.org/wiki/Netscapeシリーズ "wikilink")。\[40\]
+
+Windows 95と同時発売の[Microsoft Plus\!に同梱されたウェブブラウザ](https://ja.wikipedia.org/wiki/Microsoft_Plus! "wikilink")「[Internet Explorer](https://ja.wikipedia.org/wiki/Internet_Explorer "wikilink")」は1996年4月にWindows 3.1対応の[16ビット版が公開され](https://ja.wikipedia.org/wiki/16ビットアプリケーション "wikilink")\[41\]、これにはメーラーの[Outlook Express](https://ja.wikipedia.org/wiki/Outlook_Express "wikilink")（16ビット版）やダイヤラーなどが添付されていた。インターネットの閲覧やメールの送受信はInternet Explorer添付のダイヤラーを使ったダイヤルアップの他、LAN Manager Clientをインストールしてある場合やWfWではLAN経由でも可能である。ただし、Internet Explorer標準添付のダイヤラーはPC/AT互換機用のため、PC-9800シリーズでダイヤルアップ接続する場合は市販ソフトなどを別途用意する必要があった\[42\]。
+
+### 設定ファイル
+
+各プログラムの設定は、それぞれのプログラムが持つ[iniという拡張子が付けられたファイル](https://ja.wikipedia.org/wiki/INIファイル "wikilink")、もしくはwin.iniやsystem.iniなどのWindowsのシステムファイルで行っていた。Windowsそのものの設定もwin.iniとsystem.iniで行っていた。これらはテキストファイルであり、標準で付属するシステムエディタ (sysedit) などの[テキストエディタ](https://ja.wikipedia.org/wiki/テキストエディタ "wikilink")で編集を行うことができた。また、設定変更ミスや諸々のトラブルからWindowsが起動しなくなっても、MS-DOS環境からテキストエディタを使ってwin.iniやsystem.iniの中身を修正して復旧することができた。これらの設定内容はマイクロソフトが監修した解説書『Windows 3.1 リソースキット』で公開された\[43\]。Windows 3.1の登録情報データベース（後の[レジストリ](https://ja.wikipedia.org/wiki/レジストリ "wikilink")）は、ファイルマネージャで開く[ファイルのフォーマットとアプリケーションとの関連付けや](https://ja.wikipedia.org/wiki/ファイルフォーマット "wikilink")[OLE情報に使用されるのみであった](https://ja.wikipedia.org/wiki/Object_Linking_and_Embedding "wikilink")\[44\]。
+
+### メモリ容量の最大値
+
+Windows 3.0やWindows 3.1では32ビット386プロテクトモードではなく16ビット286プロテクトモードで動作していたため、標準構成では64KB[セグメント](https://ja.wikipedia.org/wiki/セグメント方式 "wikilink")・メモリモデルを使用するようになっていた。しかし、32ビットCPUではプログラマーはより大きなメモリ[ポインタにアクセスして](https://ja.wikipedia.org/wiki/ポインタ_\(プログラミング\) "wikilink")、プログラム・セグメントをどんな大きさにも拡張することができた（セグメント・ディスクリプタが24ビットであるため最大サイズは16MBに制限されている）。当時の[Windows APIファンクションは](https://ja.wikipedia.org/wiki/Windows_API "wikilink")16ビットであったため、それらは32ビットポインタを使用できず、コードに32ビット命令を含んでいてもDOSと同様に64KBセグメントでOS呼び出しを行うプログラムコードの一部を配置する必要があった\[45\]\[46\]。このため、理論上は4GBのメモリ空間を使用できる386以上のCPUであっても、Windows 3.0は合計16MBのメモリにしかアクセスできない。
+
+Windows 3.1では16MBの制限はなくなり、理論的には最大4GBのメモリを使用できる（現実的な上限は256MB）\[47\]。ただし、先述のとおり1つのプログラムが使用できるメモリは最大16MBである。
+
+### 32ビットへの限定的な対応
+
+Windows NTの登場による32ビットOSへの移行を促す意味もあり、[Win32s](https://ja.wikipedia.org/wiki/Win32s "wikilink")というドライバ/APIがマイクロソフトから供給された。これはWindows 3.1の386エンハンスドモード上で動作する32bitプログラムのためのドライバ/APIであり（WinNTのAPIであるWin32のサブセットなのでWin32s）、これによりアプリケーションをWindows 95やWindows NTと共通の32ビットコードでWindows 3.1に供給することが可能になり\[48\]、初期の32ビットアプリケーションの開発を多少容易にした。
+
+また、ファイルシステムにおいては[BIOSを介した](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")16ビットディスクアクセスが基本的に用いられていたものの、Windows 3.1の386エンハンスドモードでは常設[スワップファイルに対してのみ](https://ja.wikipedia.org/wiki/ファイルシステム#スワップファイルシステム "wikilink")32ビットでのアクセスが可能となった。さらに、Windows for Workgroups 3.11では完全な32ビットディスクアクセスが実現され、ディスクアクセスを高速化させることを可能にした\[49\]。
+
+### システム要件
+
+Windows 3.0（英語版）の公式なシステム要件は次のようになっている。
+
+| [プロセッサ](../Page/CPU.md "wikilink")     | 8086/8088プロセッサ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [物理メモリ](../Page/主記憶装置.md "wikilink")   | 384KBの空きコンベンショナルメモリ（リアルモード）、1MB（スタンダードモード）、2MB（エンハンスドモード）\[50\]                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ハードディスク                                | 6-7MBの空き容量                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| [MS-DOS](../Page/MS-DOS.md "wikilink") | バージョン 3.1以上\[51\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ディスプレイ                                 | [CGA](https://ja.wikipedia.org/wiki/Color_Graphics_Adapter "wikilink")、[EGA](https://ja.wikipedia.org/wiki/Enhanced_Graphics_Adapter "wikilink")、[MCGA](https://ja.wikipedia.org/wiki/MCGA "wikilink")、[VGA](https://ja.wikipedia.org/wiki/Video_Graphics_Array "wikilink")、[Hercules](https://ja.wikipedia.org/wiki/Hercules_Graphics_Card "wikilink")、[8514/A](https://ja.wikipedia.org/wiki/8514/A "wikilink")または[XGAグラフィック](https://ja.wikipedia.org/wiki/Extended_Graphics_Array "wikilink")、および互換モニター |
+| その他                                    | マイクロソフト互換マウス推奨\[52\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+**Windows 3.0（英語版） システム要件**
+
+Windows 3.1ではリアルモードが廃止されたため、8086/8088プロセッサ搭載機種は動作対象外になった\[53\]。
+
+### Windows 3.1へのアップグレード
+
+Windows 3.1には、Windows 3.0からアップグレードすることができる。また、インストール先ディレクトリを変更すれば旧バージョンと共存することもできる。Windows 2.11以前の場合は新規セットアップを行うことになる。\[54\]
+
+### Windows 3.1から新しいバージョンへのアップグレード
+
+Windows 3.1からは、[Windows 95か](../Page/Microsoft_Windows_95.md "wikilink")[Windows 98](https://ja.wikipedia.org/wiki/Microsoft_Windows_98 "wikilink")(Second Editionも含む)にのみアップグレードできる\[55\]。その後継である[Windows Meや](https://ja.wikipedia.org/wiki/Microsoft_Windows_Millennium_Edition "wikilink")[Windows 2000にできない](https://ja.wikipedia.org/wiki/Microsoft_Windows_2000 "wikilink")\[56\]\[57\]。また、Windows 95かWindows 98のどちらにアップグレードしても、後にそのバージョンを[アンインストール](https://ja.wikipedia.org/wiki/アンインストール "wikilink")してWindows 3.1に戻せる。
+
+## 開発とリリース
+
+### Windows 3.0
+
+Windows 3.0は25人で構成された開発グループ「Win3チーム」によって2年半の期間で開発された。画面デザインはWindows 2.1のユーザーの意見を取り入れ、旧バージョンの赤と青の組み合わせからビジネス環境に適した落ち着きのある色彩に変更された。\[58\]
+
+1990年5月22日、Windows 3.0はで正式に発表された。この模様は米国7都市の会場と[ロンドン](https://ja.wikipedia.org/wiki/ロンドン "wikilink")や[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")といった世界各地の12都市の会場にテレビの生中継で報道された。これには300万ドルという多額の宣伝費が投入され、さらに広告や25万枚の体験版ディスク配布、デモンストレーション、セミナーに700万ドルの予算が組まれていた。\[59\]
+
+日本では1991年1月23日（日本時間）に[日本電気](../Page/日本電気.md "wikilink")より[PC-9800シリーズ](https://ja.wikipedia.org/wiki/PC-9800シリーズ "wikilink")用が発売され\[60\]、それに追随して約20社のパソコンメーカーからも発売された\[61\]。[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")で動作する[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")対応版は[日本IBMより](https://ja.wikipedia.org/wiki/日本アイ・ビー・エム "wikilink")1991年3月13日に発売された\[62\]。
+
+### Windows 3.1
+
+Windows 3.1（コードネーム: Janus）\[63\]\[64\]\[65\]は1992年4月6日に[シカゴ](../Page/シカゴ.md "wikilink")で開催されたWindows Worldで正式に発表された\[66\]\[67\]\[68\]。マイクロソフトはWindows 3.1の出荷にあたって125万本を用意。世界中の9カ所のマイクロソフト製造工場が[一日三交替でディスクを生産し](https://ja.wikipedia.org/wiki/シフト勤務 "wikilink")、最初の1ヶ月で800万枚以上のディスクが生産され、英語版と同時に6言語がリリースされた\[69\]。
+
+マイクロソフト日本法人は1991年10月にWindows 3.1日本語版の開発に着手した。Windows 3.0日本語版はセットアップの方法やメニューが難しいという声が上がっていた。また、Windows 3.0日本語版はOEM先によって別々の[日本語入力システム](https://ja.wikipedia.org/wiki/日本語入力システム "wikilink")、プリンター[ドライバ](https://ja.wikipedia.org/wiki/デバイスドライバ "wikilink")、[フォント](https://ja.wikipedia.org/wiki/フォント "wikilink")が供給されていたため、同じWindowsアプリケーションでも機種間の完全な互換性を保証できないという問題が生じた。そこでWindows 3.1日本語版では標準で日本語入力システム「[MS-IME](https://ja.wikipedia.org/wiki/Microsoft_IME "wikilink")」を供給。また、Windows標準の日本語フォントを[リコー](https://ja.wikipedia.org/wiki/リコー "wikilink")と共同開発し、プリンタードライバについては各メーカーの開発をサポートして公開前に互換性を確認していた。Windows 3.1日本語版の[ベータ版](https://ja.wikipedia.org/wiki/ベータ版 "wikilink")は3回で累計6000本出荷され、ユーザーのフィードバックを基に1600の改善が施された。発売は当初の予定であった1992年5月から1992年秋、1993年5月となり、大幅に遅れることになった。開発には5億円が費やされた。\[70\]\[71\]
+
+日本語版開発の遅れに対して、世間では「PC-9800シリーズへの移植作業に手間取っているため。」「Windows 3.0日本語版の開発者が引き抜かれたため。」といった憶測が飛び交った\[72\]。[コンパック](https://ja.wikipedia.org/wiki/コンパック "wikilink")は1992年10月に低価格[486機のProLinea](../Page/Intel486.md "wikilink") 4/25sをDOS/Vパソコンとして発売したが、後のインタビューでは「Windows 3.1と登場するはずだった。」とコメントした\[73\]。
+
+1993年5月12日に日本電気からPC-9800シリーズ用、5月18日にマイクロソフトからPC-9800シリーズ用とMS-DOS 5.0/V用が発売された\[74\]。その直後の5月19日より[東京国際見本市会場](https://ja.wikipedia.org/wiki/東京国際見本市会場 "wikilink")で開催された[ビジネスシヨウ](https://ja.wikipedia.org/wiki/ビジネスシヨウ "wikilink")や、6月16日より[幕張メッセ](https://ja.wikipedia.org/wiki/幕張メッセ "wikilink")で開催されたWindows World Expo Tokyoでは、パソコンメーカー各社がこぞってWindows 3.1プリインストールパソコンを展示し、多くの一般参加者で賑わった\[75\]。
+
+Windows 3.0からの主な変更点は、動作の高速化やセットアップの簡便化に加え、以下の点が挙げられる。\[76\]\[77\]\[78\]
+
+  - [TrueType](https://ja.wikipedia.org/wiki/TrueType "wikilink")フォント
+    マイクロソフトはアップルが開発したアウトラインフォント仕様「TrueType」のライセンスを受け\[79\]、と共同でTrueTypeフォントを開発してWindowsに標準搭載した\[80\]。日本語版にはマイクロソフトが[リコー](https://ja.wikipedia.org/wiki/リコー "wikilink")と2年かけて共同開発した[MS ゴシックと](https://ja.wikipedia.org/wiki/MS_ゴシック "wikilink")[MS 明朝の](https://ja.wikipedia.org/wiki/MS_明朝 "wikilink")2書体が追加で付属した\[81\]。これにより[WYSIWYG](https://ja.wikipedia.org/wiki/WYSIWYG "wikilink")に一歩近づいた。
+  - マルチメディア機能
+    「[サウンド レコーダー](https://ja.wikipedia.org/wiki/サウンド_レコーダー "wikilink")」や「[メディア プレーヤー](https://ja.wikipedia.org/wiki/Windows_Media_Player "wikilink")」など、Windows 3.0用の拡張ソフト「[Multimedia Extensions](https://ja.wikipedia.org/wiki/Windows_Multimedia_Extensions "wikilink")」に収録されていた機能の一部を統合した。
+  - [OLE](https://ja.wikipedia.org/wiki/Object_Linking_and_Embedding "wikilink")
+    アプリケーション間で情報を共有するOLE機能をサポートした。例えば、文書作成ソフトで作成した文書ファイルに表計算ソフトで作成した表データをOLEを利用して埋め込むと、表計算ソフトで作成した表データファイルへの変更は文書作成ソフトで作成した文書にも自動で反映されるようになる。
+  - [ドラッグ・アンド・ドロップ](https://ja.wikipedia.org/wiki/ドラッグ・アンド・ドロップ "wikilink")の機能を拡張
+    ファイルマネージャからファイルをアプリケーションのアイコンやウィンドウにドラッグ・アンド・ドロップ入力する操作をサポートした。また、ファイルマネージャ内で複数のウィンドウを開き、項目をウィンドウ間でドラッグ・アンド・ドロップすることで異なるディレクトリへファイルを移動・コピーできるようになった。
+  - リアルモードを廃止
+    Windows 3.0にてWindows 2.xや古いシステムとの互換性を目的に実装されていたリアルモードが廃止された。もっとも、リアルモードに対応するWindowsアプリケーションを作ることは開発者にとって「難題」であり、リアルモードの廃止を惜しむ者はいなかった\[82\]。これにより8086プロセッサは動作対象外となった。
+  - [MS-IME](https://ja.wikipedia.org/wiki/Microsoft_IME "wikilink") 日本語入力システム（日本語版）
+    Windows 3.0以前では日本語入力システムはアプリケーションインターフェイスのみが実装され、各OEM先メーカーによって異なる日本語入力システムが使われていた。Windows 3.1日本語版では標準で日本語入力システムの Microsoft IME (MS-IME) が付属した。
+  - 用語の見直し（日本語版）
+    「了解」→「OK」、「取り消し」→「キャンセル」、「複写」→「コピー」など。Windows 3.1ベータ版のユーザー調査を基にメニューやマニュアルなどで使われる用語が変更された。
+  - マイクロソフト自社ブランドでの発売（PC/AT互換機・PC-9800シリーズ用日本語版）
+    日本においてはWindows 3.0以前は各パソコンメーカー毎にそれぞれのパソコン向けに[OEM](https://ja.wikipedia.org/wiki/OEM "wikilink")供給されていた。その結果、ソフトウェアメーカーはいずれかのパソコンメーカーのWindowsに合わせてWindowsソフトを開発することになり、機種に依存しないはずのWindowsソフトが動作機種を限定して発売される場合が出てきた。そのため、マイクロソフトがリファレンスとして自社ブランドのWindowsを販売することで、機種を限定しないWindowsソフトの開発を促した。その一方で前バージョンに引き続きOEM供給によるパソコンメーカー（日本IBM・NEC・セイコーエプソン）からの販売も行われ、これらは付属するアプリケーションや日本語入力システムなどに一部独自要素があった。一方、シェアの少ないPC-9800シリーズ用英語版\[83\]、[富士通](../Page/富士通.md "wikilink")[FMRシリーズ](../Page/FMRシリーズ.md "wikilink")・[FM TOWNS版](../Page/FM_TOWNS.md "wikilink")・[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")[J-3100シリーズ](https://ja.wikipedia.org/wiki/J-3100シリーズ "wikilink")版は各メーカーによるOEM版のみの発売となった。
+
+### その他のバージョン
+
+日本向けにローカライズされなかったものも含め、以下のものが存在した。
+
+  - Windows for Workgroups 3.1
+    1992年10月27日リリース\[84\]。Windows 3.1 にファイル共有などのネットワーク機能を追加するアドオンパッケージ。[NetBIOS上の](https://ja.wikipedia.org/wiki/NetBEUI "wikilink")[SMBプロトコルを利用するものであった](https://ja.wikipedia.org/wiki/Server_Message_Block "wikilink")\[85\]。Windows for Workgroupsの日本語版は発売されなかった。1994年に次期Windows（[Windows 95](../Page/Microsoft_Windows_95.md "wikilink")）が発売される見込みであったことから、米国のマイクロソフト本社が開発しない決定を下したためと推測された\[86\]。Windows 3.1とは別のフルパッケージとして発売されている。
+  - Windows 3.11
+    1992年12月31日リリース\[87\]。Windows 3.1 のアップデート版（今で言うところのサービスパック適用版）であり、Windows 3.1のパッケージを小変更した形で発売された。この修正ファイルは[CompuServe](https://ja.wikipedia.org/wiki/CompuServe "wikilink")等の[パソコン通信](https://ja.wikipedia.org/wiki/パソコン通信 "wikilink")でも配布された\[88\]。なお、日本語版ではこれと関係なくアップデートがリリースされ、雑誌の付録CDや[ニフティサーブ](https://ja.wikipedia.org/wiki/ニフティサーブ "wikilink")等のパソコン通信で修正ファイルが配布された\[89\]\[90\]。
+  - Windows for Workgroups 3.11
+    1993年11月リリース\[91\]。P2P通信の無効化設定を追加、[IPX/SPX](https://ja.wikipedia.org/wiki/IPX/SPX "wikilink")プロトコルスタック、32ビットファイルアクセス等 [Windows 95](../Page/Microsoft_Windows_95.md "wikilink") で実装される予定のものを一部先取りで実装している\[92\]。[TCP/IPをサポートするアドオンも](https://ja.wikipedia.org/wiki/インターネット・プロトコル・スイート "wikilink")[パソコン通信](https://ja.wikipedia.org/wiki/パソコン通信 "wikilink")を通じて供給された\[93\]。日本語版は発売されなかった。Windows 3.11とは別のフルパッケージとして発売されている。
+  - Windows 3.2
+    1994年リリース。Windows 3.11 を簡体字中国語([中華人民共和国](../Page/中華人民共和国.md "wikilink")向け)へローカライズしたバージョン\[94\]。なお、簡体字中国語市場へはそれまで英語版をリリースしていた。
+
+## 反響
+
+### 売れ行きと評価
+
+#### Windows 3.0
+
+長らく期待を集めていたWindows 3.0は北米を中心に急速に普及した。1年経たずして100万本の出荷を記録し\[95\]、マイクロソフトの売上高は1990年度（1989年7月-1990年6月）の11.8億ドルから1991年度（1990年7月-1991年6月）は55.8%増の18.4億ドルとなった。ソフトウェア市場におけるWindowsアプリケーションの売上はDOSアプリケーション市場の40%に相当するとされた\[96\]。1990年末には数々の主要なコンピュータ雑誌から賞賛を浴びた。
+
+Windows 3.0のインターフェイスやファイルマネージャはMacintoshに及ばないが使いやすくなったと評価された\[97\]。メモリ管理やDOSとの互換性の改善も複数の雑誌で良い評価を得た\[98\]。一方で、多数のユーザーが所有するIntel 80286機では満足する動作は見込めず、比較的新しい386以上のシステムが必要だという点が最大の問題として指摘された\[99\]。これに対しマイクロソフト側は「プラットフォームにかかわらずユーザーはWindows 3.0の恩恵を得られる。386ベースのシステムで最も性能を発揮するが、最小システムではタスクスイッチャーとして働く。また、ユーザーはDOSのグラフィカルインターフェイスを獲得する。」と回答した\[100\]。
+
+日本においてWindows 3.0は米国ほど広がりを見せなかった。要因として以下の問題が挙がった。
+
+  - [一太郎](https://ja.wikipedia.org/wiki/一太郎 "wikilink")などWindows 3.0にネイティブに対応するソフトウェアがまだ十分に出揃っていなかった。\[101\]
+  - 当時の日本ではPC-9800シリーズがパソコン市場の50%以上を占めていた。英語版では複数のDOSアプリケーションをウィンドウで並べ、従来の資産も有効に活用できることをセールスポイントにしていたが、PC-9800シリーズ版では旧バージョンと同様に全画面での排他利用しかできなかった。そのため、販売店側も販促デモの展示にあたってウィンドウ表示を活用することに苦慮した。\[102\]
+  - Windows上でDOSアプリケーションを使用するには[PIFエディタ](https://ja.wikipedia.org/wiki/PIFエディタ "wikilink")であらかじめ環境設定を行う必要があったが、MS-DOSのメモリ管理は複雑化しており、初心者には難しい作業であった。多くのソフトウェアメーカーは設定方法を公開したが、[ロータスや](https://ja.wikipedia.org/wiki/ロータス_\(ソフトウェア\) "wikilink")[アスキーなどサポートの都合から設定方法を公開しないメーカーも存在した](https://ja.wikipedia.org/wiki/アスキー_\(企業\) "wikilink")。\[103\]
+  - PC-9800シリーズを含め、Windowsを快適に動作させるために必要なハードウェアを揃えるとなると多額な投資が必要になった。\[104\]
+
+[スティーブ・バルマー](https://ja.wikipedia.org/wiki/スティーブ・バルマー "wikilink")（当時、マイクロソフト上級副社長）も翌1992年の来日記者会見にて同様の見解を示した。
+
+PC-9800シリーズ版の発売当初は受注に生産が追いつかない状況が続いた。これについて日本電気は、受注が予想を上回っているためメディアやマニュアルの生産が追いついていないことを説明した\[105\]。これに対してソフトハウスの間では「機種の違いで画面に現れるフォント（書体）が異なったり、印刷が狂うなどの不具合を見つけて出荷を止めているのでは。」という推測が流れた\[106\]。
+
+日本IBMの[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")版はMS-DOSアプリケーションの複数ウィンドウ表示に対応していたが、PC-9800シリーズ対応ソフトが約1万本であったことに比べ、1990年に発売されたばかりのDOS/Vに対応するアプリケーションは約200本と少なく、こちらも旧資産の継承という訴求材料だけでは不十分であった\[107\]。
+
+#### Windows 3.1
+
+[サムネイル調べ](https://ja.wikipedia.org/wiki/ファイル:Japanese_PC_Shipments_and_Revenue.svg "wikilink")）\]\] Windows 3.1に対する雑誌の反応は使い勝手や信頼性が向上したという好意的なものであった。米国のPC Magazine誌はレビュー記事に「[UAE](https://ja.wikipedia.org/wiki/UAE "wikilink")（修復不可能なアプリケーションエラー）の終わり、新しい印刷エンジン、賢くなったSMARTDriveなど。マイクロソフトはWindowsを安定した豊かな環境にするために磨きをかけた。」という序文を付け\[108\]、日本の[日経パソコン](https://ja.wikipedia.org/wiki/日経パソコン "wikilink")誌は「ドラマチックな変化はないものの、信頼性が低い、処理速度が遅いなど、Windows 3.0での不満点を改良した。」と評した\[109\]。
+
+マイクロソフト日本法人は自社のWindows対応ソフトの売り込みを強化し、Windowsの普及を推進した。例えば、表計算ソフトの[Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink") 4.0は1993年5月に98000円から58000円へと40%の値下げ。6月25日から他社の日本語文書作成ソフトを使用しているユーザーを対象に、58000円の[Word](https://ja.wikipedia.org/wiki/Microsoft_Word "wikilink") 5.0を25000円で販売する「乗り換え・アップグレード・サービス」を開始した。これは1993年4月に発売された[一太郎](https://ja.wikipedia.org/wiki/一太郎 "wikilink") Ver.5（4年ぶりとなる新バージョン）に対抗したものと思われた\[110\]。同日にWordとExcelをセットにした、日本語版で最初のバージョンとなる[Microsoft Officeを発売](https://ja.wikipedia.org/wiki/Microsoft_Office "wikilink")\[111\]。翌1994年2月のOffice 1.5発表までに8万本を出荷し\[112\]、1994年後半になると月20万本ペースの出荷になる\[113\]。オフィスソフト市場におけるマイクロソフトのシェアは急拡大することになった。
+
+Windows 3.1のマルチメディア機能は個人市場の開拓を促し、ExcelやOfficeは企業にWindowsの導入を促した\[114\]。
+
+後年の評価としては、日本でのWindows 3.1はWindowsがパソコンユーザーに受け入れられた期間であったものの、パソコンが本当に一般に普及し始めたのは[Windows 95からとされている](../Page/Microsoft_Windows_95.md "wikilink")\[115\]\[116\]。しかしWindows 3.1の広がりは、日本メーカーの国内向けパソコンを独自開発から世界標準の[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")に転換させ、「鎖国状態」を解消したことで競争力が上がり、パソコンの低価格化が進んだことで普及を後押しすることになった\[117\]\[118\]。
+
+### OS/2とIBMとの対立
+
+マイクロソフトとIBMが共同開発していた[OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")との関係について、Windows 3.0発売当初は両者が明確な立場を示さなかったため、このことはマスコミや公衆の間で物議を醸した。Windowsはユーザーのニーズに対応したことで多数のユーザーを獲得しているが、ふたを開けるとそこには旧態依然のDOSが存在する。業界では、技術的にはOS/2の方が上回っており、長い目で見ればOS/2や[UNIX](../Page/UNIX.md "wikilink")の方が有利であるという意見で一致した\[119\]\[120\]\[121\]。
+
+1990年9月17日、マイクロソフトとIBMは共同声明を出して、マイクロソフトはDOSとWindows、IBMはOS/2の開発に専念することを明らかにした\[122\]\[123\]。日本IBMは1991年5月7日付けのOS/2 J2.0の発表資料で、Windowsを個人ユーザー向けのエントリーGUIシステム、OS/2を企業ユーザー向けの統合プラットフォームとして位置づけ\[124\]、OS/2 2.0はDOS 5.0とWindows 3.0を統合したエンタープライズ向けシステムとして紹介していた\[125\]。IBMはOS/2を情報システムを構成するものとして企業ユースに考えていたのに対し、マイクロソフトはスタンドアロンで使用する個人ユースを想定していたため、営業戦略の不一致が決別の一因となった。別の要因として、開発体制や社風の違いで生じた企業間の壁も指摘された。\[126\]\[127\]
+
+マイクロソフトとIBMの対立は1992年にかけて深まっていった。1991年10月21日、IBMがOS/2 2.0を12月31日までに出荷すると発表すると、マイクロソフトの[スティーブ・バルマー](https://ja.wikipedia.org/wiki/スティーブ・バルマー "wikilink")は「12月31日までに、IBMがOS/2 2.0を出荷できたら、[フロッピー・ディスクを食べてみせる](https://ja.wikipedia.org/wiki/フロッピーディスク "wikilink")」と公言した。結局OS/2 2.0の出荷は1992年3月31日に延期されたが、この出来事はマイクロソフトとIBMの対立を印象づけるものになった\[128\]。同時期に発売されたWindows 3.1はさらに勢いを付け、1993年にはWindowsの圧勝の様相となった\[129\]。これについてOS/2の共同開発に参加したマイクロソフトの開発者は次のように語っている。
+
+なお、マイクロソフト日本法人と日本IBMはDOS/Vの営業で協力関係にあり\[130\]、1993年12月にもMS-DOS 6.2/VとPC DOS J6.1/Vを共同記者会見で発表するなど\[131\]、良好な関係をアピールした。
+
+### 日本でのPC/AT互換機市場
+
+[サムネイル折りしも発売時期が](https://ja.wikipedia.org/wiki/ファイル:PC98_and_domestic_PC_shipments_in_Japan_1990-1998.svg "wikilink")[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")の登場とマニア間で起きたDOS/Vブームが重なったこともあり、日本でのIBM PC/AT互換機市場の形成に大いに貢献した。
+
+1991年当時、日本でのパーソナルコンピュータ (PC) 市場は国内メーカーで市場をほぼ独占していた。さらに言えばNECのPC-9800シリーズで[寡占](https://ja.wikipedia.org/wiki/寡占 "wikilink")状態にあった。PC/AT互換機は世界中で販売されるため開発コストは日本市場でしか販売できない国内専用製品と比べ物にならないほど安価だったが\[132\]、日本語という障壁のため参入できない状態にあった。NECの製品展開は同社の[オフィスコンピュータ](https://ja.wikipedia.org/wiki/オフィスコンピュータ "wikilink")（オフコン）などとの兼ね合いから同時期のPC/AT互換機よりも低い性能レベルに据え置かれ、価格も引き下げられなかった。しかし、安価かつ高性能なPC/AT互換機で日本語が扱え国産PCとも共通の[アプリケーションが利用できるWindowsの事実上の完成により](https://ja.wikipedia.org/wiki/アプリケーションソフトウェア "wikilink")、国内におけるPC/AT互換機市場は1994年にかけて急拡大することになった\[133\]。NECも同社のPC向けにWindowsを提供していたが、MS-DOS環境において存在していたアプリケーションの優位性が失われる結果となった。
+
+DOS/V版Windows 3.0では、標準[VGAでも](https://ja.wikipedia.org/wiki/Video_Graphics_Array "wikilink")640\*480/16色表示が可能で当時の主力機NECの[PC-9800シリーズ](https://ja.wikipedia.org/wiki/PC-9800シリーズ "wikilink")の640\*400/16色を上回っていたうえ、当時すでにほとんどのDOS/V機では[SVGAモードを備えていた](https://ja.wikipedia.org/wiki/Super_VGA "wikilink")（もしくはグラフィック回路が拡張ボードとして独立しており交換が容易だった）ことから、市販の[ドライバで](https://ja.wikipedia.org/wiki/デバイスドライバ "wikilink")800\*600の高解像度をWindowsから利用することができた\[134\]。一部の英語版ディスプレイドライバではさらに高解像度・多色（640\*480/256色、800\*600/256色、1024\*768/16色など）のGUI表示を行うためのパッチファイルや英語版ドライバで日本語表示を行う DDD (Display Dispatch Driver) が販売されて上級ユーザを中心にPC-9800シリーズよりも[ハードウェア](../Page/ハードウェア.md "wikilink")価格が安くて高性能なPC/AT互換機を求めるケースが増え、市場が立ち上がり始めた。\[135\]\[136\]
+
+次のDOS/V版Windows 3.1では多くの英語版ディスプレイドライバを直接使用しても高解像度・多色のGUI表示ができるようになる。また発売にあわせてTVCMも放映され、[本木雅弘](https://ja.wikipedia.org/wiki/本木雅弘 "wikilink")が「Windows\!」を連呼するというインパクトのあるもので\[137\]、国内においてWindowsの名前を広く知らしめたことにより、PC-9800シリーズにこだわる必要がないというユーザーが増えていった。日本語版Windows 3.1からアウトラインフォント [TrueType](https://ja.wikipedia.org/wiki/TrueType "wikilink") および、マイクロソフト版においてはかな漢字変換ソフト [Microsoft IME](https://ja.wikipedia.org/wiki/Microsoft_IME "wikilink") が標準として採用され\[138\] 、各アーキテクチャ向けにて相違があった日本語の入出力環境の統一を図った。\[139\]\[140\]\[141\]\[142\]さらに[PCパーツ店による組み立てPCや外国のPCメーカーによるこの組み合わせでの新規参入も相次ぎ](https://ja.wikipedia.org/wiki/BTO#パソコン業界におけるBTO "wikilink")、市場ニーズがPC/AT互換機へシフトするきっかけとなる。 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Readers_interested_PC_by_machines_in_Japan_1993.png "wikilink") とは言え、まだこの段階では[PC-9800シリーズも強力だった](https://ja.wikipedia.org/wiki/PC-9821シリーズ "wikilink")。オープンであるがゆえに規格の統一が今ひとつの[OADG規格とその派生製品はこれらのオプション類の利用にPC](https://ja.wikipedia.org/wiki/PCオープン・アーキテクチャー推進協議会 "wikilink")-98シリーズより手間を要した。当然、日本のパソコン周辺機器メーカーはPC-9821シリーズのWindows3.1用の周辺機器も発売し、量販効果ですぐに値下がりした。企業ユースやゲーム市場では、PC-98用ソフトの互換性を求めるユーザーもまだ相当数存在していた。更に、製造元であるNECやPC-98互換機メーカーである[セイコーエプソン](https://ja.wikipedia.org/wiki/セイコーエプソン "wikilink")による価格引き下げなどの対抗策もあり、1995年まで50%のシェアを確保し続けた\[143\]\[144\]\[145\]。この流れが本格化するのは、機器の相違をデバイス仮想化などの方法によってOS側で吸収した[Windows 95以降である](../Page/Microsoft_Windows_95.md "wikilink")。
+
+### 後継バージョンへの移行
+
+1995年8月に発売された[Windows 95はそれまでパソコンに興味を持たなかった人々の関心を集め](../Page/Microsoft_Windows_95.md "wikilink")、個人市場の開拓に成功した。企業でもWindows 95を要望する従業員の声を聞き入れて買い換えを支援する動きが見られた。日経パソコンが1996年2月に日本の企業110社に対して行った調査では、Windows 95の「導入予定あり」が64%、「未定」が42%、「導入予定なし」が4%となった。「Windows 95の導入をどのように進めていくか」の問いに対して、「新規に導入したパソコンを中心に徐々に移行する」が30%となったものの、「既存のパソコンを含めて積極的に切り替える」はわずか8%に留まり、既存環境の移行には慎重な姿勢が見られた。「Windows 95の導入で、特に問題が多かった項目は」の問いに対しては、「MS-DOS対応やWindows 3.1対応ソフトの動作」（39%）、「既存のネットワークやデータベースとの接続」（35%）、「インストール関連」（32%）となった。\[146\]
+
+マイクロソフトは[Office 95や](https://ja.wikipedia.org/wiki/Office_95 "wikilink")[Visual Basic](https://ja.wikipedia.org/wiki/Microsoft_Visual_Basic "wikilink") 4.0など、自社製品のWindows 3.1に対するサポートをまもなく打ち切った。しかし、1996年度にIDCが行ったデスクトップOS選択率の調査では、Windows 95が62.9%、Windows 3.1/3.11が17.4%となり、データクエストが米国の大企業を対象に行った調査では、マイクロソフト社製OS利用者のうち86%がWindows 3.1/3.11を使用していると報告した。あるソフトウェア・エンジニアは「マイクロソフトはまだ多くの3.1が使われていることを把握しているが、早くすべてを移行してそれを忘れることを望んでいる。」とコメントした。\[147\]
+
+1999年に日経パソコンが日本の企業を中心に行った調査では、Windows 95の使用率が79.7%にのぼり、Windows 3.1の使用率は6.2%となった。\[148\]
+
+### 出荷本数の推移
+
+  - Windows3.0（全世界）
+      - 1990年5月22日発売
+      - 1990年6月22日 - 40万本
+      - 1990年12月30日 - 100万本
+      - 1991年5月 - 300万本以上\[149\]
+      - 1992年4月 - 900万本\[150\]\[151\]
+  - Windows3.0（日本）
+      - 1991年1月23日 - NEC版発売
+      - 1991年3月13日 - 日本IBM版発売
+      - 1991年5月 - 日本電気版、受注累計6万本\[152\]
+      - 1993年5月 - 44万本\[153\]\[154\]
+  - Windows3.1（全世界）
+      - 1992年4月6日発売 - 受注100万本\[155\]
+      - 初日出荷100万本\[156\]
+      - 1992年4月12日 - 1週間で100万本販売\[157\]
+      - 1993年5月 - 2500万本\[158\]
+      - 1994年1月末 - 4000万本
+      - 1995年1月 - 6000万本
+      - 1995年8月 - 1億本\[159\]
+  - Windows3.1（北米）
+      - 1995年5月26日 - 発売から50日で100万本販売\[160\]
+  - Windows3.1（日本）
+      - 1993年5月12日 - 日本電気版発売
+      - 1993年5月14日 - 日本電気版、受注6.5万本\[161\]
+      - 1993年5月18日 - マイクロソフト版発売
+      - 1993年6月末 - 40万本\[162\]
+      - 1994年5月17日 - 146万本\[163\]
+      - 1995年2月 - 300万本突破\[164\]
+      - 1995年5月末 - 402万本\[165\]
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+[Category:MS-DOS・Windows3.x・9x系](https://ja.wikipedia.org/wiki/Category:MS-DOS・Windows3.x・9x系 "wikilink") [Category:DOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:DOSのソフトウェア "wikilink") [Category:1990年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1990年のソフトウェア "wikilink")
+
+1.  Windows 3.1から[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")を名乗った。
+2.
+3.  『MS-Windowsとは何か - ウィンドウがパソコンを変える』、第4章 ウィンドウズとメモリの戦い、108-147頁。
+4.
+5.
+6.
+7.
+8.  Windows 3.0からアップグレードインストールした場合はリバーシも引き続き利用できる。
+9.
+10.
+11. 「特集 Windows 3.0とは何か - ついに日本語版が発売となるWin3を解剖する」、Windows 3の動作モードは選べるの？、 245頁。
+12.
+13.
+14. 「特集 Windows 3.0とは何か - ついに日本語版が発売となるWin3を解剖する」、Part3 どんなアプリが使えるのか : 米国ソフトでアプリケーション環境を見る、 pp.248-250
+15. 『MS-Windowsとは何か - ウィンドウがパソコンを変える』、96頁。
+16. 「特集 Windows 3.0とは何か - ついに日本語版が発売となるWin3を解剖する」、Part1 どんな環境になるのか、 230-241頁。
+17. ただし、MS-DOSアプリケーションが応答しなくなったときの最終手段として、コントロールメニューから「設定」ダイアログを開き、「強制終了」ボタンで終了することができる。
+18. 「第6章 MS-DOSアプリケーション」『Microsoft Windows Operating System Version 3.1 機能ガイド』、318-356頁。
+19. 「1章 : はじめに」『Microsoft Windows Operating System Version 3.1 お使いになる前に』、2-4頁。
+20. Windows 3.1付属のマニュアル『Microsoft Windows Operating System Version 3.1 機能ガイド』にはほとんどの操作手順にマウスとキーボードの両方の手順が記載されている。
+21.
+22.
+23. 「特集 Windows 3.0とは何か - ついに日本語版が発売となるWin3を解剖する」 p.235
+24.
+25.
+26.
+27. Windowsの背景画面のこと。Windows 3.0ではデスクトップという名称であったが、Windows 3.1ではデスクトップの名称は使用されていない。
+28.
+29. 「第五章 ウィンドウズでマルチメディア」『WINDOWSの時代 - マイクロソフトはパソコンをどう変えるか』 pp.141-162
+30.
+31.
+32.
+33. 「98は本当にMacに追いついたか？」、月刊ソフマップワールド1994年4月号（Vol.56）、p11。
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43. 「第4章 初期化ファイルの設定内容」『Windows 3.1 リソースキット』、 pp.243-331
+44. 「第11章 OLEの設定と利用方法」『Windows 3.1 リソースキット』、 pp.488-503
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54. 「2章 : セットアップを始めよう」『Microsoft Windows Operating System Version 3.1 お使いになる前に』、6-57頁。
+55.
+56.
+57.
+58.
+59.
+60. 「日電、次世代主流OS発売―高級パソコン向け、初の日本語化、追随も。」『日本経済新聞』 1991年1月24日朝刊、13面。
+61.
+62. 「日本IBM、パソコン拡張の基本ソフトも発売。」『日経産業新聞』 1991年3月14日、6面。
+63.
+64.
+65.
+66.
+67. 「Part.1 パソコンの標準OSとなったウィンドウズ」『マイクロソフト・ウィンドウズ戦略のすべて - 新情報ネットワーク時代への挑戦』 pp.34-65
+68.
+69.
+70.
+71. 「特集 : Windows 3.1の実力」、ダブル・インタビュー 古川会長・成毛社長、116-117頁。
+72.
+73.
+74.
+75.
+76.
+77. 「特集 : Windows 3.1の実力」、96-117頁。
+78.
+79. 「アウトラインフォント生成、変換ソフト、リコー開発―業界標準自動的に」『日経産業新聞』1993年2月20日、1面。
+80.
+81. 「リコー、マイクロソフトと提携―パソコン向け漢字ソフトを供給。」『日経産業新聞』1993年5月17日、1面。
+82.
+83. 要求される性能がPC/AT版より高く、486SX（25MHz）以上のCPUと3.6MB以上（推奨5.6MB以上）のメモリを必要とし、ノーマル（スタンダード）モードでしか使用できなかった。
+84.
+85.
+86. 「第三章 WFW、ウィンドウズNT、シカゴ、カイロ」『WINDOWSの時代 - マイクロソフトはパソコンをどう変えるか』 pp.75-98
+87.
+88.
+89.
+90.
+91.
+92.
+93.
+94.
+95.
+96.
+97.
+98.
+99.
+100.
+101. 「パソコンOS「W3.0」、次世代の「窓」開かず―使いこなしに難点。」『日本経済新聞』1991年4月4日朝刊、13面。
+102.
+103.
+104.
+105.
+106.
+107. 「「W3.0に窓がない」日本IBM 、日電などに挑戦状―互換機戦略が背景。」『日経産業新聞』1991年2月18日、7面。
+108.
+109. 「特集 : Windows 3.1の実力」、98頁。
+110. 「Part.6 ウィンドウズの本格的普及で急成長する日本法人・マイクロソフトKK」『マイクロソフト・ウィンドウズ戦略のすべて - 新情報ネットワーク時代への挑戦』 pp.174-230
+111. 「マイクロソフト、ウィンドウズ3.1対応ソフト―パッケージを投入」『日経産業新聞』1993年6月17日、6面。
+112. 「マイクロソフト、ワープロ、表計算ソフト合体―「オフィス」新バージョン。」『日経産業新聞』1994年2月28日、7面。
+113. 「マイクロソフト、「オフィス」「ワード」増産―倍の月20万本に。」『日経産業新聞』1994年10月18日、6面。
+114.
+115.
+116.
+117.
+118.
+119.
+120.
+121.
+122. 「第二章 巨人IBMとマイクロソフト帝国の戦い」『WINDOWSの時代 - マイクロソフトはパソコンをどう変えるか』 pp.37-73
+123.
+124.
+125.
+126. 「Part.4 使いやすいグラフィカル・ユーザー・インターフェースを持つ"ウィンドウズ"の開発」『マイクロソフト・ウィンドウズ戦略のすべて - 新情報ネットワーク時代への挑戦』 pp.122-157
+127.
+128.
+129.
+130.
+131. 「マイクロソフト、MS-DOS最新版、自社ブランドで発売。」『日経産業新聞』 1993年12月7日、6面。
+132. 香港への旅費と現地で購入したPC/AT互換機の金額を足しても、日本で同等スペックの機種を購入するより安く収まったという記事。
+133.
+134. [ソフマップ](https://ja.wikipedia.org/wiki/ソフマップ "wikilink")タイムス1992年1月号News flash「快適なWindows 3.0を目指して」
+135.
+136.
+137. 「大歓迎のIBM互換機メーカー」『マイクロソフト・ウィンドウズ戦略のすべて』 p.24
+138. なお、NEC版ではNEC独自のIME「NECAI」が採用されていた。IBM版ではMS-IMEとIASインタフェースかな漢字変換プログラムが切替可能だった。セイコーエプソン版ではMicrosoft IMEと同一ながら名称が開発元のエーアイ・ソフトによる「WXA-WIN」の名称で採用され、東芝版では当時市販されていなかった[ATOK](https://ja.wikipedia.org/wiki/ATOK "wikilink")7（[ジャストシステム](https://ja.wikipedia.org/wiki/ジャストシステム "wikilink")）のWindows版が採用されていた。
+139. 岩淵明男『マイクロソフト・ウインドウズ戦略のすべて』TBSブリタニカ、1993年10月7日初版、ISBN 4484932288、44-45頁。
+140. 戸内順一『Windows3.1マスターマニュアル』HBJ出版局、1994年3月29日初版、ISBN 4-8337-4501-1、96ページ
+141. 海老原浩之、川俣晶共著『Windows3.1スペシャル』技術評論社、1993年9月15日初版、ISBN 4-87408-573-3、120ページ
+142. 高橋良明『すぐに使えるWindows3.1』ソフトバンク、1993年10月15日初版、ISBN 4-89052-455-X、138ページ
+143.
+144.
+145. 「96年度パソコン国内出荷台数、前年度比29.7%増―マルチメディア総研。」『日経産業新聞』 1997年4月24日、9面。
+146.
+147.
+148.
+149. 「OS/2、最大62%値下げ、日本アイ・ビー・エム。」『[日経産業新聞](https://ja.wikipedia.org/wiki/日経産業新聞 "wikilink")』1991年5月8日、5面。
+150.
+151.
+152. 「日本電気、W3.0の販売目標年20万本に上方修正。」『日本経済新聞』1991年5月2日朝刊、11面。
+153.
+154. 「日本でも売上急増のマイクロソフト」『マイクロソフト・ウィンドウズ戦略のすべて』 pp.26-28
+155. 「マイクロソフト、ウィンドウズ改訂版を出荷」『日経産業新聞』1992年4月7日、3面。
+156. 脇英世『Windows入門』岩波書店、1995年12月20日第1刷、1996年1月6日第3刷、ISBN 4-00-430420-2、74頁。
+157. 「IBM、「OS/2」出荷40万本―年間で200万本―400万本。」『日経産業新聞』1992年5月18日、3面。
+158. 「ウィンドウズ3.0初の改訂版、マイクロソフトあす発売。」『日本経済新聞』1993年5月17日夕刊、3面
+159.
+160. 「ウィンドウズ95、出走から"大物"ぶり発揮―わずか4日で100万本を販売。」『[日本経済新聞](https://ja.wikipedia.org/wiki/日本経済新聞 "wikilink")』1995年8月30日夕刊、3面。
+161.
+162.
+163. 「マイクロソフト、ウィンドウズ3.1、販売140万本達成。」『日経産業新聞』1994年6月9日、6面。
+164. 「マイクロソフト、ウィンドウズの国内出荷400万本に。」『日本経済新聞』1995年6月20日朝刊、11面。
+165.

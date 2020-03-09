@@ -1,0 +1,55 @@
+> この記事は[SP](https://ja.wikipedia.org/wiki/SP)から翻訳されています。
+
+
+**SPレコード**（78 [rpm](https://ja.wikipedia.org/wiki/rpm_\(単位\) "wikilink") disc）は、[1948年](../Page/1948年.md "wikilink")頃に[プラスチック](https://ja.wikipedia.org/wiki/プラスチック "wikilink")を材料に[micro grooveで溝を刻んだ](https://ja.wikipedia.org/wiki/micro_groove "wikilink")[LPレコード](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")（long playing：LP）が登場して以降、それ以前の[蓄音機](../Page/蓄音機.md "wikilink")用レコードを “standard playing” と呼んで区別するようになり、これを略した呼び名で、[レトロニム](https://ja.wikipedia.org/wiki/レトロニム "wikilink")である。
+
+すなわち、[1887年](../Page/1887年.md "wikilink")に[エミール・ベルリナー](https://ja.wikipedia.org/wiki/エミール・ベルリナー "wikilink")が開発した円盤状の蓄音機用[レコード](../Page/レコード.md "wikilink")の総称（商標では「[グラモフォン](https://ja.wikipedia.org/wiki/グラモフォン "wikilink")」という\[1\]）といってよく、初期の縦溝レコードや片面レコードなども含まれる。[1950年代](../Page/1950年代.md "wikilink")後半まで生産されその後はLPレコードに完全に移行した。
+
+SPレコードという呼称は日本ではよく通用する言い方だが、国際的には “78s” または “78rpm record” と呼ばれることの方が多い。
+
+## 概要
+
+大きさは、直径がほぼ12インチ（吋）のものとほぼ10インチのものが最も一般的である。LPレコードのように直径の規格が精密に守られているわけではなく、わずかながらばらつきがある。
+
+12インチ盤の片面の最大収録時間はおよそ5分前後で、[テープ録音をもとにした](https://ja.wikipedia.org/wiki/磁気テープ#用途 "wikilink")[カッティング技術](https://ja.wikipedia.org/wiki/カッティング技術 "wikilink")であるvariable-pitch groove（VG）が[1950年](../Page/1950年.md "wikilink")頃に導入されて以降は、片面6分以上の収録も可能となった。
+
+国際的には “78s” または “78rpm record” と呼ばれることが多いが、これは多くのSPレコードが78 rpmを標準の回転速度としているからである。しかし、SPレコードの回転速度は厳密には標準化されておらず80 rpmのものも多い。また、VG導入以前に、収録時間を伸ばす目的で回転速度を76 rpm以下まで落としている例も多く見られる。このため再生音を聞いて速度を調整する必要があり、これがSPレコードの規格上の大きな問題である（LPレコードでは、[RIAA](https://ja.wikipedia.org/wiki/RIAA "wikilink")により例外なく rpmに統一されている）。
+
+SPレコードは、[酸化アルミニウム](https://ja.wikipedia.org/wiki/酸化アルミニウム "wikilink")や[硫酸バリウム](../Page/硫酸バリウム.md "wikilink")などの微粉末を[シェラック](https://ja.wikipedia.org/wiki/シェラック "wikilink")（[カイガラムシ](https://ja.wikipedia.org/wiki/カイガラムシ "wikilink")の分泌する[天然樹脂](../Page/天然樹脂.md "wikilink")）で固めた混合物を主原料としており、針圧が120g前後の鉄針のトレースに耐えられる硬度を持つ一方、非常にもろく落下や衝撃に大変弱い。また、天然有機物を原料に含むため[カビ](../Page/カビ.md "wikilink")の発生を防ぐことが難しい。レコードを製造する国や時期によって材質にばらつきがあり、再生音やスクラッチ・ノイズ（surface noise）に大きな違いが見られる。
+
+## 録音方式の変遷
+
+### 機械式吹き込み
+
+SPレコード初期の頃は、集音器（ラッパ）の奥に取り付けられた振動板で直接針を振動させてレコード原盤にカッティングする、「[機械式吹き込み](../Page/アコースティック録音.md "wikilink")」（「アコースティック録音」あるいは「旧吹き込み」とも呼ばれる）で録音された。機械式吹込みでは、演奏者がラッパの近くに集合し、[レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")の指示に従って演奏中にラッパとの距離を調整したり、大音量を発する[シュトローヴァイオリン](https://ja.wikipedia.org/wiki/シュトローヴァイオリン "wikilink")を使って演奏するなど、演奏者にとって不自由が多かった。
+
+旧吹き込み時代の録音は電気録音以降に再録音されたケースが多い。しかし、旧吹き込み時代に死去したり、あるいは旧吹き込み時代に全盛期であったミュージシャンや演奏家の録音には優れたものも多い。また、機械式吹き込み最後期の[1924年](../Page/1924年.md "wikilink")頃にはそれなりに技術が完成されており、最初期の電気録音よりも良い成果を挙げている例もある。
+
+### 電気録音
+
+[1925年](../Page/1925年.md "wikilink")に[マイクロフォン](../Page/マイクロフォン.md "wikilink")を使用し[アンプで音声信号を電気的に増幅し](../Page/アンプ_\(音響機器\).md "wikilink")、カッターヘッドを電気駆動してワックス盤にカッティングする「[電気録音](https://ja.wikipedia.org/wiki/電気録音 "wikilink")」が実用化されると、各社ともにいっせいに電気録音に移行した。電気録音は、再生音の[ダイナミックレンジ](https://ja.wikipedia.org/wiki/ダイナミックレンジ "wikilink")、楽器間の音の分離に優れていただけでなく、演奏者が普段どおりの楽器と立ち位置で演奏できる点で圧倒的に優れており、録音史上の一大革命であった。特にオーケストラの録音数は電気録音開始後飛躍的に増えた。
+
+電気録音初期は、アメリカの社製のによる録音と[ウェスタン・エレクトリック](https://ja.wikipedia.org/wiki/ウェスタン・エレクトリック "wikilink")（Western Electric）社製の録音技術が競合したが、ウェスタン・エレクトリックの[音質](https://ja.wikipedia.org/wiki/音質 "wikilink")が圧倒的に優れているという評価に傾き、[1927年](../Page/1927年.md "wikilink")に[ポリドール・レコード](https://ja.wikipedia.org/wiki/ポリドール・レコード "wikilink")（Polydor）社がウェスタン・エレクトリック方式に完全移行したことをきっかけに、light-ray方式は急速に廃れていった。このため、[1925年](../Page/1925年.md "wikilink") - 1927年の間にlight-ray方式で録音されたものを、わざわざ[1928年](../Page/1928年.md "wikilink")以降にウェスタン・エレクトリック方式で再録音した事例も多く見られる。
+
+## 日本での生産
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:JapaneseColumbia_sudare.jpg "wikilink") 日本でも戦時期を除けば良質なレコードが作られていた。しかし、[日中戦争](../Page/日中戦争.md "wikilink")長期化後の日本プレス盤の材質の劣化は激しく、とりわけ[1939年](../Page/1939年.md "wikilink") - [1943年](../Page/1943年.md "wikilink")頃のSP盤は材料の悪さを反映したスクラッチ・ノイズが強く、ぶつぶつとした突起状プレス斑（むら）も散見される。いわゆる「[コロムビア](../Page/日本コロムビア.md "wikilink")（戦争後期に[ニッチク](https://ja.wikipedia.org/wiki/ニッチク "wikilink")に改称）のすだれレーベル」の時期がこれに該当し、インクの質も悪くレーベルの印刷まで不鮮明である。しかし、この時代にのみ発売された流行歌のレコードなどは、いかに再生音が悪くても非常に貴重な日本の文化遺産として重要である。
+
+[1950年代](../Page/1950年代.md "wikilink")になるとビニール盤に取って代わられるようになり、コロムビアによって最後にSP盤が生産されたのは[1962年](../Page/1962年.md "wikilink")である\[2\]。
+
+一般市場で新品として販売されているSP対応[レコードプレーヤー](../Page/レコードプレーヤー.md "wikilink")は少なく、対応機でも[カートリッジ](https://ja.wikipedia.org/wiki/カートリッジ "wikilink")を対応品に交換しないとSP盤を再生出来ない機種もある。
+
+なお、[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")に程近い場所にある[昭和館](https://ja.wikipedia.org/wiki/昭和館 "wikilink")において、日本で発売されたSPレコードを体系的に蒐集・整理・保管し、いつでも検索・視聴可能にしようとするプロジェクトが政府主導により進められつつある。
+
+## 脚注
+
+<references />
+
+## 外部リンク
+
+  - [www.78rpm.net](http://www.78rpm.net/) - ピアノSPレコード歴史的録音のホームページ
+
+[Category:オーディオディスク](https://ja.wikipedia.org/wiki/Category:オーディオディスク "wikilink") [Category:レトロニム](https://ja.wikipedia.org/wiki/Category:レトロニム "wikilink")
+
+1.  [1877年](../Page/1877年.md "wikilink")に[トーマス・エジソン](../Page/トーマス・エジソン.md "wikilink")が発明した円筒型レコードは商標を「フォノグラフ」といい、当初グラモフォンはフォノグラフと競合したが、プレスによる量産が可能でありまた保管にも幅をとらないという利便性からグラモフォンの人気が高まり、フォノグラフは衰退していった。
+2.  [ＳＰレコードレーベルに見る　日蓄－日本コロムビアの歴史](http://w3.kcua.ac.jp/jtm/archives/gallery/1008ohnishi/#sp)

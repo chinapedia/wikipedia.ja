@@ -1,0 +1,612 @@
+> この記事は[PC](https://ja.wikipedia.org/wiki/PC)から翻訳されています。
+
+
+**PCエンジン**（**PC Engine**）とは、[ハドソン](../Page/ハドソン.md "wikilink")と[日本電気ホームエレクトロニクス](https://ja.wikipedia.org/wiki/日本電気ホームエレクトロニクス "wikilink")（NECホームエレクトロニクス、**以下NEC-HE**）により共同開発され、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月30日](https://ja.wikipedia.org/wiki/10月30日 "wikilink")にNEC HEから発売されたHE-SYSTEM規格に基づく[家庭用ゲーム機](../Page/ゲーム機.md "wikilink")。当時の[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")[希望小売価格](https://ja.wikipedia.org/wiki/希望小売価格 "wikilink")は24,800円。
+
+## 概要
+
+[任天堂](../Page/任天堂.md "wikilink")の[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")が発売され数年が経過し、[ハドソン](../Page/ハドソン.md "wikilink")社内におけるより高性能の[ハードウェア](../Page/ハードウェア.md "wikilink")を望む声から開発が始まった。同時期に[日本電気](https://ja.wikipedia.org/wiki/日本電気 "wikilink")（NEC）社内において計画されていたCD-ROM機開発の思惑と合致したため、ハドソンとNEC-HEとの共同開発により市場に投入されたゲーム機である\[1\]。
+
+発売当初はファミリーコンピュータや[セガ・マークIII](https://ja.wikipedia.org/wiki/セガ・マークIII "wikilink")と競合し、後に[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")や[メガドライブ](../Page/メガドライブ.md "wikilink")とも競合した。
+
+1987年当時の家庭用ゲーム機の常識を覆す高速・高性能であり\[2\]、任天堂のシェアを崩すには至らなかったが、新規ハードとして一定の普及に成功し国内市場では1992年時点でスーパーファミコンに次ぐ24.7％のシェアを占めていた\[3\]。1990年代前半の日本市場において、PCエンジンの周辺機器である[CD-ROM<sup>2</sup>](https://ja.wikipedia.org/wiki/CD-ROM2 "wikilink")（シーディーロムロム）は最も普及していた[CD-ROM](../Page/CD-ROM.md "wikilink")ゲーム機であり、NECの後藤富雄 (当時) は、「他のメーカーに先駆けてCD-ROMを採用したことに対しては、私としてはそれなりの自負がある」と述べている\[4\]。
+
+コア構想に基づき多くの本体・周辺機器が発売された。多人数での対戦・協力プレイを想定し、最大5個のパッド（[コントローラ](https://ja.wikipedia.org/wiki/コントローラ "wikilink")）が接続可能な[マルチタップが本体と同時に発売され](https://ja.wikipedia.org/wiki/マルチタップ_\(コンピュータゲーム\) "wikilink")、家庭用ゲーム機として世界で初めてCD-ROMをゲーム媒体に使用するなど、進歩的な設計であり\[5\]、PCエンジンが世に送り出したCD-ROMゲーム機の思想はその後のゲーム機にも受け継がれていった\[6\]。
+
+2019年には、ゲームソフトを内蔵した小型復刻版「[PCエンジン mini](https://ja.wikipedia.org/wiki/PCエンジン_mini "wikilink")」の販売が、[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")\[7\]より正式発表された\[8\]。
+
+## 開発経緯
+
+### チップの開発
+
+当時、ハドソンの目指す高度な表現に対してファミコンやパソコンの「性能の限界が見えてきた」という状況に直面していた。この問題に対して「自分たちが欲しいものを自分たちの手で作り上げる」という目的でハドソン社長[工藤浩をはじめとしたハドソン技術者たちが動き出した](https://ja.wikipedia.org/wiki/工藤浩_\(ハドソン\) "wikilink")（ハドソンはシステム開発も行っており、また半導体技術者も擁していた）。ハドソン技術者の山村喜美夫は「ハードを作るという発想ではなく、ソフトを作る発想で開発が始まったんです。ハードメーカーがハードを作ってくれないなら、性能を上げるためのチップを作ってみようということになったわけです。最初から新しいハードを作ろうとしていたわけではなく、あくまでチップの開発だったんです」と語っている。
+
+この時点ではビジネスのことは考えておらず、単純に「自分たちの夢を追いかけただけ」である 。
+
+しかし、半導体メーカーではないハドソン単体ではチップを作ることができない。開発者（岡田節男・山村喜美夫、他1名）が仕様書を書き、半導体メーカーに持ち込んでも「北海道から来た訳のわからない会社」では信用されない。NECを含む国内の主な半導体メーカーには断られた\[9\]。
+
+最後に訪問した[セイコーエプソン](https://ja.wikipedia.org/wiki/セイコーエプソン "wikilink")（以下エプソン）で、ようやく工藤の話をまともに聞いてくれた。ここで工藤は「別に売るつもりはないから、とにかく一個作ってほしいんだ」「自分の机にファミコンより性能のいいゲーム機があればいいんです」という話をしている。対するエプソン担当者が開発には相当な額がかかると言うと、工藤は「お金はいくらでも用意します。何なら、いまここに積みますから」と返した。この時点で相手もあきれていたと後に工藤は言っている。
+
+こうしてチップの開発はスタートした。ハドソン、エプソン双方のメンバーがほぼ同年代で、細かい点ではよく話し合って決めた部分もあるので山村は「一緒に作ったという感覚が強い」と証言している。そして完成したのが『Hu-7（工藤の証言より。山村の証言ではHu6270と呼んでいる）』と呼ばれるチップである（山村はHu6270の開発スタートが1985年春、Hu6270の完成のめどがつき、次の段階に進んだのが1985年末から1986年初め頃と証言している）。費用は2億円、数量として「1000個だか10000個だか（工藤の証言より）」が作られた。
+
+（出典\[10\]\[11\]）
+
+### ゲーム機の開発
+
+完成したHu-7（Hu6270）の画像処理能力はファミコンのCPUを上回る性能を見せ、独自の新ハードの野望を抱かせるようになった。
+
+ハドソンは、これをまずシャープに持ち込んだ（「思ったよりもいいものができたというか、画像の処理能力なんかファミコンのCPUよりも数段いい。これを使って何かできるんじゃないかと思って、とりあえずパソコンの関係でおつき合いのあったシャープさんにそれを見せたわけです。そうしたら『これは商売になる！』というんで話が一気に盛り上がって…」と工藤は証言している）。結局シャープとは話がまとまらなかった。任天堂と協力関係にあり、それがネックになったといわれている。
+
+次に工藤が向かったのがNECである。ここで幸運なことに「ちょうどゲーム機を作りたいと思っていたんだ」という対応を受け、話がスムーズに進んでいった。
+
+一方のNECも任天堂のファミコンの急速な普及に触発され、1983年末頃から後藤富雄を中心とした若手社員により、社内で「パソコン以外の何か」を作るための議論が続いていた。1985年に「記録メディアにCD-ROMを使ったゲーム機」という結果となった\[12\]。目標価格を10万円以下に設定したが、ゲーム機用の安価なチップ（CPU）を内製化する設計力がNECには当時無かった。そのため計画が頓挫していた。NECの[多部田俊雄](https://ja.wikipedia.org/wiki/多部田俊雄 "wikilink")も当時から家庭用のCD-ROMの企画書を提出していたが価格の問題があり却下されていた\[13\]。
+
+工藤が完成品のチップと一緒にNECを訪問したのはちょうどその頃で「[PC-8801](https://ja.wikipedia.org/wiki/PC-8801 "wikilink")の後継機としてCD-ROMを搭載したマシンを作りたいNEC」と「スプライトに強いチップを売り込みたいハドソン」という二者の利害が一致した\[14\]。
+
+その後チップの開発とツール開発が同時進行して、チップはエプソン、製品化はNEC、Huカードは当時の[三菱樹脂](https://ja.wikipedia.org/wiki/三菱樹脂 "wikilink")とハドソンが共同開発することでPCエンジンは誕生した。
+
+（出典\[15\]\[16\]）
+
+### CD-ROM<sup>2</sup>の開発
+
+[thumbとROM](https://ja.wikipedia.org/wiki/ファイル:ROM²アンプ.jpg "wikilink")<sup>2</sup>アンプ\]\] 上記の通りNECからハドソンにもたらされたCD-ROM機開発計画であるが、PCエンジン発売後1年でCD-ROM<sup>2</sup>本体として発売されることになった。当時パソコン用のCD-ROMドライブは本体接続用の[インターフェース](https://ja.wikipedia.org/wiki/インターフェース "wikilink")と合わせて25万円もしていたが、価格を5万7800円に落とすことで、家庭用ゲームへの採用を可能にした\[17\]。開発にはCD-ROMの規格の一つ「[CD-I](https://ja.wikipedia.org/wiki/CD-I "wikilink")」に詳しい[岩崎啓眞](https://ja.wikipedia.org/wiki/岩崎啓眞 "wikilink")も参加し、BIOSの段階から関与している。搭載されたRAMの容量はメイン64KB、ADPCM用64KBだった。このため大きなデータを一度に取り込めず、凝った演出を行うために頻繁なロードが必要だったが、この問題点は後にスーパーCDROM<sup>2</sup>、アーケードカードへとRAM容量が拡張されることで解決していった。
+
+シークに片道で3秒、往復で最大6秒かかるため、複数のファイルをバラバラに読ませる、読み取り時にエラーが発生するなどの状況下では実用性に問題が出るほど時間がかかった\[18\]\[19\]。ゲームの進行などで一部のデータだけが変更される事象が起こった場合、差分をバラバラに読むのではなく「それらをひとまとめにしたファイルを進行毎に用意してシークをなるべくさせないで一度に読み込む」方式を採用した。\[20\]データの二重保存と合わせてCD-ROM内でデータトラックが占める割合が大幅に増すことになったが、CD-ROM自体が大容量であったのでこのような対処が可能であった。
+
+CD-ROM<sup>2</sup>の発売以前、ハドソンの朝礼の時に[中本伸一](https://ja.wikipedia.org/wiki/中本伸一 "wikilink")がCDを持ってきて「お前ら、この中にゲームが入るから」と発言したがハドソンの他の開発者たちは当時「CD=音楽CD」という知識しか無く、中本が何を言っているのか分からなかったという。\[21\]このようにハドソン社内でも具体的な形になるまでは開発情報の公開に制限がかかっていたという話がある。
+
+システムカードがバージョン2.0以降の物からは[CD-G](https://ja.wikipedia.org/wiki/CD+G "wikilink") (CDグラフィック)に対応する様になり、カラオケ用の再生プレーヤーとしても利用が可能となった。
+
+## 設計思想
+
+### HE-SYSTEM
+
+NEC-HEとハドソンによって提唱された[規格](https://ja.wikipedia.org/wiki/標準化 "wikilink")。[ライセンス](https://ja.wikipedia.org/wiki/ライセンス "wikilink")商品の証明としてPCエンジンに関連する本体と[ソフトウェア](../Page/ソフトウェア.md "wikilink")には必ず[ロゴが記載されている](https://ja.wikipedia.org/wiki/ロゴタイプ "wikilink")。なお、「HE-SYSTEM」（エイチイーシステム）の「HE」は**H**ome **E**ntertainmentの略であり、『**ホーム・エンターテイメント・システム**』という意味である。
+
+そのPCエンジンのブランドロゴはNECが販売する日本国内向けのHE-SYSTEMのハードで用いられているため、他社製品の[レーザーアクティブ](https://ja.wikipedia.org/wiki/レーザーアクティブ "wikilink")に関しては、NECからもOEM供給することによってPCエンジンのロゴを使用できたのに対し、X1twinに関しては、NECの製品ではないが、ハドソンが開発に関与しているため、HE-SYSTEMのロゴだけを使用しており、PCエンジンのロゴは一切使用していない。
+
+CD-ROM<sup>2</sup>用のディスクをCDプレーヤーで再生した時の警告音声に関しては、標準メッセージからではあるが、「HE-SYSTEMのCD-ROMディスクです」と言っており、PCエンジンの名称は一言も発していない。これは、登場キャラクターが担当するタイトルも同様の措置である。
+
+### コア構想
+
+PCエンジンは「コア構想」という拡張思想を持ち、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")のようにコア（[核](https://ja.wikipedia.org/wiki/核 "wikilink")）の役割を持たせ、様々な周辺機器を接続することでゲーム以外にも対応させる\[22\]。そのためDUO系統を除く本体にはゲーム機としては最小限の機能しか無く、他社ゲーム機では標準装備もしくはカートリッジに内蔵されるような機能も別売りの[周辺機器](https://ja.wikipedia.org/wiki/周辺機器 "wikilink")で補完していく必要があった。
+
+構想の要であった拡張バスは初代PCエンジンから始まり、コアグラフィックス系統などの本体後部に標準装備\[23\]されており、周辺機器の接続は主にこれを使う。多くの周辺機器が発売されたが、拡張バスを用いる機器は排他仕様であり、またLTやスーパーグラフィックスなどハードの形状が統一されておらず接続できない代物もあった。この問題を解決するために「周辺機器を接続するための周辺機器」も発売された。拡張バスは機能を追加するものであったが、性能を向上するためのものではなかったためPCエンジンをスーパーグラフィックス相当にする周辺機器は発売されず、専用ソフトをプレイするにはスーパーグラフィックス自体を別途購入する必要があった。
+
+PCエンジン専門誌の一つ「マルカツPCエンジン」でも1989年10月号の116頁では天の声2をAV出力へ対応させるための改造記事を掲載したり、PCエンジンSGについて1989年12月でに記事を組んだものの19頁で「みんな自分のマシンが旧機種になってしまうという不安を感じているようだ。しかし価格設定や販売方針を考えると、この新機種が主流になることはまずないと言ってよさそうだ」と記載しており、ユーザーへの余計な出費をさせないような配慮も行っている。
+
+#### ソフトウェア媒体と規格
+
+PCエンジンは時期によりパソコンのように拡張を繰り返し、1つのハードに2つの媒体で計5つの規格のソフトが流通した\[24\]。
+
+  - [HuCARD](https://ja.wikipedia.org/wiki/HuCARD "wikilink")：[ICカード](https://ja.wikipedia.org/wiki/ICカード "wikilink")型の[ROMカートリッジ](https://ja.wikipedia.org/wiki/ROMカートリッジ "wikilink")。小型なメディアだったので[携帯型ゲーム機](https://ja.wikipedia.org/wiki/携帯型ゲーム機 "wikilink")の[PCエンジンGT](https://ja.wikipedia.org/wiki/PCエンジンGT "wikilink")が発売された。
+      - HuCARD
+      - [PCエンジンスーパーグラフィックス](https://ja.wikipedia.org/wiki/PCエンジンスーパーグラフィックス "wikilink")専用HuCARD
+
+HuCARDのパッケージはCDアルバムの様な大きさ、太さのケースに収納されていて、ケースの背面にはメーカーシールのみのソフトも多数あり、どのようなゲームなのかが確認し難い要素があった。
+
+  - CD-ROM
+      - [CD-ROM<sup>2</sup>](https://ja.wikipedia.org/wiki/CD-ROM2 "wikilink")：家庭用ゲーム機としては[世界初の](https://ja.wikipedia.org/wiki/世界初の一覧 "wikilink")[CD-ROM](../Page/CD-ROM.md "wikilink")の採用例である\[25\]。
+      - [SUPER CD-ROM<sup>2</sup>](https://ja.wikipedia.org/wiki/SUPER_CD-ROM2 "wikilink")
+      - [アーケードカード](https://ja.wikipedia.org/wiki/アーケードカード "wikilink")専用CD-ROM<sup>2</sup>
+
+#### バックアップについて
+
+Huカードには[バックアップ](https://ja.wikipedia.org/wiki/バックアップ "wikilink")機能がなかったため、初期のソフトはゲーム再開時に[パスワードを手動で入力する必要があった](https://ja.wikipedia.org/wiki/パスワード_\(コンピュータゲーム\) "wikilink")。
+
+やがて天の声2やバックアップブースターなど周辺機器が発売されると[セーブデータ](https://ja.wikipedia.org/wiki/セーブ_\(コンピュータ\) "wikilink")・バックアップが可能になった。1つで複数のソフトに対応する必要からファミコンなどの[カートリッジ内蔵式のものよりは容量が大きい](https://ja.wikipedia.org/wiki/ロムカセット "wikilink")。CD-ROM<sup>2</sup>が発売されると本体の機能として統合された。DUOの登場で拡張バスが廃止され、またゲームのデータの肥大化に伴いHuCARDスロットやコントローラーポートで接続する機器も発売された。
+
+#### コントロールパッドについて
+
+標準パッドは見た目を変えているものの、ボタンの配置と大きさはファミコンのIコンと同等のものとなっている。十字ボタンのみ形状が変更されており、ボタン類は名称が異なるものの、「START→RUN」「A/Bボタン→I/IIボタン」と位置関係上それぞれ対応している。[PCエンジンコアグラフィックス](https://ja.wikipedia.org/wiki/PCエンジンコアグラフィックス "wikilink")以降の機種ではそれぞれ色調を合わせた連射パッドが標準装備されている。その後ボタン数（3/6ボタン仕様）を変えたものが発売されている。
+
+また「RUNボタン」を押しながら「SELECTボタン」を押すことでリセットをかける機能が基本的にソフト側に搭載されている（『妖怪道中記』など、[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")製のソフトでは例外的に「SELECT」→「RUN」でもリセットを行える場合がある）。この操作はマルチタップ経由でも可能なので、1プレイヤーのみが可能な機能には留まらない。
+
+パッドは脱着式だが本体にはコントローラー端子が1つしか無く、2人以上の同時プレイには別売りのマルチタップを購入し、端子を増設する必要がある。マルチタップは5人用の他に、3人用・2人用等、ゲームの用途に合わせて発売されている\[26\]。
+
+## NECとハドソンの戦略
+
+### 国内展開
+
+1987年にPCエンジン（初代機）が発売され、初年度で60万台の出荷を行った\[27\]。 メディア展開としてテレビの専門番組にハドソンが提供・協力、一部は日本電気ホームエレクトロニクスも提供をしている。それに加え広報の一つとしてPCエンジン発売に合わせファミコンソフトのイベントだった[ハドソン全国キャラバンの課題ゲームをPCエンジン用に切り替えており](https://ja.wikipedia.org/wiki/ハドソン#ハドソン全国キャラバン "wikilink")、『[コロコロコミック](https://ja.wikipedia.org/wiki/月刊コロコロコミック "wikilink")』の[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")記事や『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』の読者コーナー\[28\]など、影響下にあるメディアでPCエンジンの話題を多く取り上げた。
+
+1987年に設立された[NECアベニュー](https://ja.wikipedia.org/wiki/NECアベニュー "wikilink")がゲームソフトの開発と販売を行っている（NEC-HEはハードウェア製造メーカーだった）。また、ハドソンが初期のラインナップを充実させている。 この時期ファミコンソフトの製造での優遇措置停止で任天堂とのトラブルになっていた[ナムコ（後のバンダイナムコエンターテインメント）が参入](../Page/バンダイナムコエンターテインメント.md "wikilink")。ハドソン・NECアベニューと共に初期の三本柱に\[29\]、参入社数過多により飽和状態になっていたファミコン市場から新たな市場を求めたサードパーティがPCエンジンへと参入した、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")・[アイレム](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")・[データイースト](https://ja.wikipedia.org/wiki/データイースト "wikilink")・[日本物産](https://ja.wikipedia.org/wiki/日本物産 "wikilink")などが参入。ファミコンでは実現が難しかった[アーケードゲーム](https://ja.wikipedia.org/wiki/アーケードゲーム "wikilink")が移植された。これにより任天堂のファミリーコンピュータが独占状態であった国内家庭用ゲーム機市場では任天堂に次ぐ二番手となった。
+
+[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")\[30\]や[コンパイル](https://ja.wikipedia.org/wiki/コンパイル_\(企業\) "wikilink")\[31\]などはソフトのOEM供給などをしていたが、参入して自社ブランドで販売することはなかった。
+
+1988年11月に[CD-ROM<sup>2</sup>を発売](https://ja.wikipedia.org/wiki/CD-ROM2 "wikilink")\[32\]。CD-ROM<sup>2</sup>は1989年の『天外魔境 ZIRIA』『イースI・II』、1990年の『スーパーダライアス』といった[キラーソフト](https://ja.wikipedia.org/wiki/キラーソフト "wikilink")の登場により普及が加速していった。
+
+1989年末にはテレビへの出力端子を従来の[RF端子](https://ja.wikipedia.org/wiki/RF端子 "wikilink")から[AV端子](https://ja.wikipedia.org/wiki/AV端子 "wikilink")に変更して色はダークグレーになり、コントローラーのI・IIボタンに連射機能が搭載されたものに変わった[PCエンジンコアグラフィックス](https://ja.wikipedia.org/wiki/PCエンジンコアグラフィックス "wikilink")、拡張バスを削除してCD-ROM<sup>2</sup>や天の声などは繋げなくHuカードのみ専用にした廉価版\[33\]の[PCエンジンシャトル](https://ja.wikipedia.org/wiki/PCエンジンシャトル "wikilink")、Hu6270を2個に増量しVRAMを2倍、メインメモリを4倍に強化した[PCエンジンスーパーグラフィックス](https://ja.wikipedia.org/wiki/PCエンジンスーパーグラフィックス "wikilink")、本体の拡張バスから繋ぎPCエンジンを使って画面に絵を描け、アーティストツールで印刷をすることも可能なプリント&イラストブースタという4種類のハードを発売している。
+
+1991年6月にコアグラフィックスと性能は同じだが、価格を5000円ダウンさせたコアグラフィックスIIが19800円で発売された。ハードの色はSUPER CD-ROM<sup>2</sup>システムと同色となる。12月にSUPER CD-ROM<sup>2</sup>を発売している。またこの時期に[コナミ](../Page/コナミホールディングス.md "wikilink")（その後ゲーム事業はコナミデジタルエンタテインメントへ移管）も参入し、NEC HEも日本市場（それまで当社は米国市場のみでゲームソフトを発売する程度だった）でゲームソフトを販売するようになり、後期以降の主要ソフトメーカーにまで発展した\[34\]。翌1992年3月にはCD-ROMが100万台を突破し、ソフト供給はCD-ROM中心になる\[35\]。この時期にPCエンジンの主力メディアはHuカードからCD-ROMへ移行が進み、本体も[PCエンジンDuo](https://ja.wikipedia.org/wiki/PCエンジンDuo "wikilink")シリーズが主力になっていった。しかしながらHuカードもコンパクトサイズハードであるPCエンジンGT、PCエンジンLTなどで依然として意義はあり、供給を継続していた。国内市場では1992年時点でスーパーファミコンに次ぐ24.7％のシェアを占めていたとする調査結果が雑誌に掲載された\[36\]。 この時期に『天外魔境II』『スナッチャー』といったSUPER CD-ROM<sup>2</sup>を代表するキラーソフトが発売されている。CD-ROMの普及に伴い、[日本ファルコム](https://ja.wikipedia.org/wiki/日本ファルコム "wikilink")・[アートディンク](https://ja.wikipedia.org/wiki/アートディンク "wikilink")・[システムソフト](https://ja.wikipedia.org/wiki/システムソフト "wikilink")・[リバーヒルソフト](https://ja.wikipedia.org/wiki/リバーヒルソフト "wikilink")・[ブレイングレイ](https://ja.wikipedia.org/wiki/ブレイングレイ "wikilink")・[マイクロキャビン](https://ja.wikipedia.org/wiki/マイクロキャビン "wikilink")・[コーエー](https://ja.wikipedia.org/wiki/コーエー "wikilink")（後の[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）・[日本テレネットといった](https://ja.wikipedia.org/wiki/日本テレネット_\(ゲーム会社\) "wikilink")[PCゲームのソフトハウスが参入](https://ja.wikipedia.org/wiki/パソコンゲーム "wikilink")。
+
+1994年春に[アーケードカード](https://ja.wikipedia.org/wiki/アーケードカード "wikilink")が発売。RAMは18Mbitへ増強され[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")で人気を博していた『餓狼伝説2』『龍虎の拳』が目玉ソフトとして発売された。この年の末にPCエンジンの次世代機[PC-FX](https://ja.wikipedia.org/wiki/PC-FX "wikilink")が発売される。
+
+[PC-FX](https://ja.wikipedia.org/wiki/PC-FX "wikilink")が発売以降もPCエンジン市場は継続され、1999年6月に[メッセサンオー](https://ja.wikipedia.org/wiki/メッセサンオー "wikilink")と[ソフマップ](https://ja.wikipedia.org/wiki/ソフマップ "wikilink")専売で発売された『[デッド・オブ・ザ・ブレイン 1&2](https://ja.wikipedia.org/wiki/デッド・オブ・ザ・ブレイン "wikilink")』を最後にソフトの供給は終了した\[37\]。
+
+### 日本国外展開
+
+[NEC-TurboGrafx-16-CD-FL.jpg](https://ja.wikipedia.org/wiki/File:NEC-TurboGrafx-16-CD-FL.jpg "fig:NEC-TurboGrafx-16-CD-FL.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:TurboGrafx_HuCard_adapters.png "wikilink") [北米市場では](https://ja.wikipedia.org/wiki/北アメリカ "wikilink")**[TurboGrafx-16](https://ja.wikipedia.org/wiki/w:TurboGrafx-16 "wikilink")**（ターボグラフィックス16）の商品名で発売され、NECの米国法人から販売された。HE-SYSTEMの北米仕様であり、HE-SYSTEMのロゴだけは使用している。CD-ROM<sup>2</sup>にあたる[TurboGrafx-CD](https://ja.wikipedia.org/wiki/w:TurboGrafx-CD#TurboGrafx-CD "wikilink")（HES-CDR-01 TurboGrafx-16と同時発売）やPCエンジンGTと同機能の[TurboExpress](https://ja.wikipedia.org/wiki/w:TurboExpress "wikilink")（HES-EXP-01 1990年11月発売）、PCエンジンDuoと同機能の[TurboDuo](https://ja.wikipedia.org/wiki/w:TurboDuo "wikilink")（HES-DUO-01 1992年10月発売）なども発売された。
+
+  - TurboGrafx-16は本体の大きさが国内版に比べ横幅が倍になっているが、これは本体が小さくて価格が高いと割高感が出て敬遠されるという海外の消費者心理を考慮したためである。またCD-ROMユニットは本体後部に接続する形式を取っているが、CD-ROMユニットの大きさは国内版と同じのため、組み合わせると、さらに特異な形状（真上から見ると『凸』型）となる。
+  - TurboGrafx-16の名称はPCエンジンは画像処理周りなど一部の処理を16ビットで行っていたため、[Sega Genesis](https://ja.wikipedia.org/wiki/w:Sega_Genesis "wikilink")（北米版[メガドライブ](../Page/メガドライブ.md "wikilink")）及び[Super Nintendo Entertainment System](https://ja.wikipedia.org/wiki/w:Super_Nintendo_Entertainment_System "wikilink")（北米版[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")）が搭載していた16ビットCPUの話題性に対抗する意味でつけられた。
+  - 北米では1992年4月より、取り扱いがNECテクノロジー社とハドソンの共同出資であるターボ・テクノロジー社に変更され、そのキャンペーンとして発売予定のTurboDuo（価格$299.99）に250ドル相当の特典（[イースI・II](https://ja.wikipedia.org/wiki/イースI・II#PCエンジン版 "wikilink")、[PC原人](https://ja.wikipedia.org/wiki/PC原人_\(1989年のゲーム\) "wikilink")、[PC原人2](https://ja.wikipedia.org/wiki/PC原人2 "wikilink")、[ゲート オブ サンダー](https://ja.wikipedia.org/wiki/ゲート_オブ_サンダー "wikilink")、[ダンジョンエクスプローラー](https://ja.wikipedia.org/wiki/ダンジョンエクスプローラー "wikilink")、専門誌『TURBO FORCE』、$50のソフト購入割引券）を添付させる「Add $250 Value」を実施。また1992年のサマー[CESに合わせてTurboGrafx](https://ja.wikipedia.org/wiki/コンシューマー・エレクトロニクス・ショー "wikilink")-16の本体価格を$69.99に引き下げた。TurboDuo発売後、既存のTurboGrafx-CDユーザ向けにスーパーシステムカードと3-in-1 CD（PC原人、PC原人2、ゲートオブサンダー）と$50のソフト購入割引券をセットにしたバリューパックが$95で販売された。ちなみに旧来のシステムカードは起動画面がTurboGrafx-CDのロゴになっていたが、スーパーシステムカードは国内版と同じ「SUPER CD-ROM<sup>2</sup> SYSTEM」の起動ロゴになっている。
+
+TurboGrafx-16は参入業者が少なかったために、販売面で苦労した。また日本ではCD-ROMのゲーム環境としてヒットしたDuoを含むTurboGrafx-CD関連、1993年中には市場からほぼ淘汰されたとされている。晩年は慢性的なソフト不足を補うため国内向けのソフトを輸入販売し、PCエンジンのHuCARDのピンアサインをTurboGrafx-16向けに変換するアダプタも非公式に流通した。
+
+[欧州市場では](../Page/ヨーロッパ.md "wikilink")[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")を除いて正式販売は行われなかった。フランス版HE-SYSTEMは、当時日本で販売されていた本体を[RGB](https://ja.wikipedia.org/wiki/RGB "wikilink")仕様に改造したのみで、本体の形状や商品名称などは日本と同様PC Engineとなっていた。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")では[NTSC](https://ja.wikipedia.org/wiki/NTSC "wikilink")出力のままの米国モデルが[Telegames社より極少数販売された実績がある](https://ja.wikipedia.org/wiki/:en:Telegames "wikilink")。
+
+[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")市場では[大韓民国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")でも発売され、韓国版HE-SYSTEMは、[大宇電子がZemmix](https://ja.wikipedia.org/wiki/東部大宇電子ジャパン "wikilink") PC Shuttle（CPG-100）として[Zemmix](https://ja.wikipedia.org/wiki/Zemmix "wikilink") のラインナップの一部でPCエンジンシャトルを輸入し、その後はPCエンジンシャトル自体が生産を終了したということもあり、[ヘテ](https://ja.wikipedia.org/wiki/ヘテ "wikilink")電子からも『スーパーコン バイスター』の名称でハドソンとの共同開発によるオリジナルの本体で発売されていた（こちらもHE-SYSTEMのロゴだけは使用していた）。ただ、NEC-HEは一切関与していなかった。ソフトのラインナップは、基本的に日本や北米からHuカードのみを輸入し、パッケージを独自に制作したものだった。そのため、コナミのタイトル全般や、[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")のゲームなど、北米で発売されていないタイトルも含まれていた。
+
+### PCエンジンが与えた影響と評価
+
+ハドソンの[中本伸一](https://ja.wikipedia.org/wiki/中本伸一 "wikilink")はPCエンジン発売前のインタビューで「**任天堂との共存、共栄を目指す**」と発言しており、PCエンジンと並行して任天堂のファミリーコンピュータやスーパーファミコンへのソフト供給を続けた。当時任天堂の一強状態であった家庭用ゲーム機市場において初めて二番手市場を築き、それまで家庭用ゲーム機ではファミコンにしか参入していなかったサードパーティがPCエンジンに数多く参入し、任天堂ハードと共存できる市場を作り上げた。
+
+  - コア構想の一環として、NEC-HEより本体と同時に発売されたマルチタップを使用することにより、対応するゲームでは最大5人まで遊べるようになる。ハドソンからは5人同時プレイ対応のアクションRPG『[ダンジョンエクスプローラー](https://ja.wikipedia.org/wiki/ダンジョンエクスプローラー "wikilink")』が発売された他、[日本コンピュータシステム](https://ja.wikipedia.org/wiki/日本コンピュータシステム "wikilink")からはレースゲームの『[モトローダー](https://ja.wikipedia.org/wiki/モトローダー "wikilink")』が発売され、ナムコの『[プロテニス ワールドコート](https://ja.wikipedia.org/wiki/プロテニス_ワールドコート "wikilink")』ではファミコンの『[ファミリーテニス](https://ja.wikipedia.org/wiki/ファミリーテニス "wikilink")』では実現しなかった4人同時プレイによるダブルス対戦が可能になった。その後、ハドソンの代表作となる[ボンバーマンシリーズ](https://ja.wikipedia.org/wiki/ボンバーマンシリーズ "wikilink")や[桃太郎電鉄シリーズ](https://ja.wikipedia.org/wiki/桃太郎電鉄シリーズ "wikilink")はマルチタップに対応することでパーティゲームとしてのジャンルを確立させ、「パーティゲームの定番」として21世紀初頭現在に至るまで新作が発売され続けている。ハドソンの中本伸一はボンバーマンシリーズについて「本当にラッキーだったのが、PCエンジンにマルチタップがあったことです」「5人プレイが出来るハードに移植された段階で全く新しいボンバーマンの歴史がスタートした」と、PCエンジン版の『[ボンバーマン](https://ja.wikipedia.org/wiki/ボンバーマン_\(PCエンジン\) "wikilink")』とマルチタップを評している\[38\]。
+  - PCエンジンは家庭用ゲーム機として世界で初めてCD-ROMを採用したゲーム機であり\[39\]、PCエンジンが世に送り出したCD-ROMゲーム機の思想はその後のゲーム機にも受け継がれていった\[40\]。元NECアベニューの[多部田俊雄](https://ja.wikipedia.org/wiki/多部田俊雄 "wikilink")は後に、「CD-ROMシステムは200万台近く売れた。PCエンジンがなければ全世界規模でCD-ROMの普及が1年は遅れていたでしょう\[41\]」と語っている\[42\]。
+  - ハドソンの工藤浩社長(当時)は「成功か失敗か？成功と言えば成功ですよね『PCエンジン』シリーズはトータルで450万台くらい売れて、ソフトも何千万本か売れたんだから。だけど市場から姿を消してしまったし、今ではもう作っていないわけですから、そういう意味で失敗したということもできるかもしれない。少なくともNECにとっては失敗だったかも。ハドソンとしては成功だったように思うけど、本当のことをいうと自分でも成功したのか失敗だったのかよくわからないね\[43\]」、同じ書籍でNEC(当時)の後藤富雄は「他のメーカーに先駆けてCD-ROMを採用したことに対しては、私としてはそれなりの自負がある\[44\]」と述べている。
+  - PCエンジン専門誌のPCエンジンファンでは『「R-TYPE」や「ドラゴンスピリット」。ほんとうにほしいゲームがよくそろっていました。その後、「[ドラゴンナイト](https://ja.wikipedia.org/wiki/ドラゴンナイト "wikilink")II」「卒業 」「[ときめきメモリアル](https://ja.wikipedia.org/wiki/ときめきメモリアル "wikilink")」が登場。こういった今はギャルゲーと呼ばれるソフトがゲーム機で遊べるようになったのもPCエンジンの功績です。』という評価を受けている\[45\]。
+
+### 販売台数
+
+  - ファミコン、スーパーファミコン、プレステ、プレステ2、Wiiの日本国内出荷台数は1987年度から1995年度まで 84万台である\[46\]。
+
+<!-- end list -->
+
+  - 海外のウェブサイトGamePro[The 10 Worst-Selling Consoles of All Time](http://web.archive.org/web/20080905175406/http://www.gamepro.com/article/features/111822/the-10-worst-selling-consoles-of-all-time/)の推計によると最終的な出荷台数は世界で合計1000万台、北米での約250万台750万台 としている。
+  - NEC-HEの事業部長の本庄、NEC社長（インタビュー時は相談役）の関本のインタビューと資料を基にした[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")2001年12月1日（夕刊）「ウィークエンド経済 第765号 あの失敗がこう生きた」にて「だが、PCエンジンは世界で580万台売るヒットになる」と書かれている。
+  - 元NECアベニューの[多部田俊雄](https://ja.wikipedia.org/wiki/多部田俊雄 "wikilink")は「CD-ROMシステムは200万台近く売れた。PCエンジンがなければ全世界規模でCD-ROMの普及が1年は遅れていたでしょう」と語っている。
+  - NEC-HE取締役支配人の小林淳二は日経BP社『新世代ゲームビジネス』の117ページで「PC-FXは新世代のゲーム機であるが、従来のPCエンジンを190万台普及させてきた延長線上で地道に売っていく」と発言している。
+
+## 仕様
+
+[右](https://ja.wikipedia.org/wiki/ファイル:HuC6280A_01.jpg "wikilink") [右](https://ja.wikipedia.org/wiki/ファイル:HuC6270A_01.jpg "wikilink") [右](https://ja.wikipedia.org/wiki/ファイル:HuC6260A_01.jpg "wikilink")
+
+  - CPU：HuC6280（音源内蔵）
+
+:\* CPU部：[6502互換](https://ja.wikipedia.org/wiki/MOS_6502 "wikilink")
+
+:: クロック：1.79MHz/7.16MHz （ソフトウェアで選択可能）
+
+:: ファミリーコンピュータや[コモドール](https://ja.wikipedia.org/wiki/コモドール "wikilink")社のパソコン等に搭載されたMOS 6502互換CPUに、独自に命令を追加したカスタムCPUを採用。クロック周波数は7.16MHzで、1.79MHzのファミリーコンピュータに対して4倍の動作周波数を実現\[47\]。
+
+:\*音源部：[波形メモリ](https://ja.wikipedia.org/wiki/波形メモリ音源 "wikilink")6音または波形メモリ4音+ノイズ2音（1周期32アドレス波形メモリ方式、[LFO内蔵](https://ja.wikipedia.org/wiki/LFO_\(電子楽器\) "wikilink")）。Ch.0とCh.1はLFOで合成させて[FM音源](https://ja.wikipedia.org/wiki/FM音源 "wikilink")のような変調音を作ることが可能。
+
+  -
+
+      -
+        波形メモリを使わずに直接CPUの値を出力するDirect D/Aモード有り。タイマー割り込みで同期を取って値を書き換えることで[サンプリング](https://ja.wikipedia.org/wiki/サンプリング "wikilink")周波数7kHz相当の5bit[PCM音声が再生可能](https://ja.wikipedia.org/wiki/パルス符号変調 "wikilink")（それ相応のCPU負荷を要する）。サンプリング音再生時、波形メモリ4音+ノイズ1音+サンプリング1音\[48\]
+
+  - VDC (Video Display Controller)：HuC6270
+    VCE (Video Color Encoder) ：HuC6260
+    ※ *CPU・VDC・VCEの詳細*は[HuC62](https://ja.wikipedia.org/wiki/HuC62 "wikilink")を参照。
+
+  - メモリ
+
+:\* メイン[RAM](https://ja.wikipedia.org/wiki/Random_Access_Memory "wikilink")：8KB\[49\]
+
+:\* [VRAM](https://ja.wikipedia.org/wiki/VRAM "wikilink")：64KB（32KB＋32KB）
+
+  -
+
+      -
+        RAMには高速な[SRAMを使用](https://ja.wikipedia.org/wiki/Static_Random_Access_Memory "wikilink")\[50\]
+
+  - 表示解像度（単位は[画素](https://ja.wikipedia.org/wiki/ピクセル "wikilink")）
+
+:\*256×240
+
+:\*320×240(N/A)
+
+:\*336×240
+
+:\*512×240\[51\]
+
+  -
+    TV の表示範囲に入るのは 224 ライン程。横方向の画素数は256、336、512の3種類から任意で切り替え可能。
+    VDC（[HuC62](https://ja.wikipedia.org/wiki/HuC62 "wikilink")70）に16ビットの[レジスタがあり](https://ja.wikipedia.org/wiki/レジスタ_\(コンピュータ\) "wikilink")、横512の座標も問題なく扱える。
+    画素単位で制作したグラフィックを横512画素で表示するには[VRAM](https://ja.wikipedia.org/wiki/VRAM "wikilink")の容量が不足するが、BG画面（後述）を使うことで表示可能。\[52\]
+  - 同時発色数
+    最大512色\[53\]
+    パレット スプライト16+1、BG側はパレット無し。スプライト16×16ドット内256色中15色+透明色、BG：8×8ドット内256色中16色
+    NTSC信号出力の際に、カラーバースト信号を切ってモノクロ表示にすることが可能。
+
+<!-- end list -->
+
+  - [スプライト](https://ja.wikipedia.org/wiki/スプライト_\(映像技術\) "wikilink")
+
+:\* 最大64個（1個のスプライトサイズは16×16から最大32×64 カラー指定256色中15色+透明色）
+
+:\* 横方向へ16×16のサイズを最大16個（横320ドットモード時は14個に制限される。これはスプライトを横に16個並ぶ設定にするとオーバークロック状態になり（VRAMのアクセスタイムを超える駆動をする）、PCエンジン本体の動作保証が出来ないことから、NECのガイドラインにより設定された。※初期に発売されたR-TYPEなどは例外的に使用\[54\]
+
+  -
+
+  - バックグラウンド（BG画面）
+    1画面（1キャラクタ8×8画素固定で最大2048個定義 カラー指定256色中16色）\[55\]
+
+## 本体バリエーション
+
+  - NEC製
+
+| 型番        | 名称                                                                              | 発売日         | 拡張バス                             | 備考                                                                                                                                                                                                                                                           |
+| --------- | ------------------------------------------------------------------------------- | ----------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| PI-TG001  | PCエンジン                                                                          | 1987年10月30日 | 有                                | 初代機。この機種のみ映像出力がRF端子となっている。                                                                                                                                                                                                                                   |
+| PC-KD863G | PC-KD863G                                                                       | 1988年9月27日  | 無                                | PCエンジンを[CRT](https://ja.wikipedia.org/wiki/ブラウン管 "wikilink")[ディスプレイに内蔵させたもの](https://ja.wikipedia.org/wiki/ディスプレイ_\(コンピュータ\) "wikilink")。RGB接続により画面が鮮明に映る。そのためゲーム雑誌では[画面撮影の用途に使われたという](https://ja.wikipedia.org/wiki/スクリーンショット "wikilink")。発売当時の価格は138,000円。 |
+| PI-TG2    | [PCエンジンシャトル](https://ja.wikipedia.org/wiki/PCエンジンシャトル "wikilink")               | 1989年11月22日 | 無\[56\]                          | 拡張バスを省いた廉価版。                                                                                                                                                                                                                                                 |
+| PI-TG3    | [PCエンジンコアグラフィックス](https://ja.wikipedia.org/wiki/PCエンジンコアグラフィックス "wikilink")     | 1989年12月8日  | 有                                | 初代PCエンジンの[モデルチェンジ](https://ja.wikipedia.org/wiki/モデルチェンジ "wikilink")版。映像出力を[RF信号から](https://ja.wikipedia.org/wiki/RF接続 "wikilink")[コンポジット映像信号](https://ja.wikipedia.org/wiki/コンポジット映像信号 "wikilink")にしたもの。                                                    |
+| PI-TG4    | [PCエンジンスーパーグラフィックス](https://ja.wikipedia.org/wiki/PCエンジンスーパーグラフィックス "wikilink") | 有           | グラフィックチップを2つ搭載して、表示能力を2倍にした上位機種。 |                                                                                                                                                                                                                                                              |
+| PI-TG6    | [PCエンジンGT](https://ja.wikipedia.org/wiki/PCエンジンGT "wikilink")                   | 1990年12月1日  | 無                                | PCエンジンの[携帯型ゲーム](https://ja.wikipedia.org/wiki/携帯型ゲーム "wikilink")機。                                                                                                                                                                                           |
+| PI-TG7    | [PCエンジンコアグラフィックス](https://ja.wikipedia.org/wiki/PCエンジンコアグラフィックス "wikilink")II   | 1991年6月21日  | 有                                | コアグラフィックスのモデルチェンジ版。                                                                                                                                                                                                                                          |
+| PI-TG8    | [PCエンジンDuo](https://ja.wikipedia.org/wiki/PCエンジンDuo "wikilink")                 | 1991年9月21日  | 無                                | SUPER CD-ROM<sup>2</sup>本体との一体型。システムカードが内蔵され本体だけで起動する。CD蓋部のロック機構や専用バッテリー端子など独特の機能がある。[CDグラフィックスの再生機能搭載](https://ja.wikipedia.org/wiki/CD+G "wikilink")                                                                                                       |
+| PI-TG9    | [PCエンジンLT](https://ja.wikipedia.org/wiki/PCエンジンLT "wikilink")                   | 1991年12月13日 | 有                                | 従来のPCエンジンと同様の筐体に、開閉式の液晶モニター、スピーカー、TVチューナー、コントローラー等を内蔵したもの。本体をCD-ROM²システムに着用可能。                                                                                                                                                                               |
+| PI-TG10   | [PCエンジンDuo](https://ja.wikipedia.org/wiki/PCエンジンDuo "wikilink")-R               | 1993年3月25日  | 無                                | PCエンジンDuoの廉価版。[ヘッドフォン](https://ja.wikipedia.org/wiki/ヘッドフォン "wikilink")端子や[バッテリー端子等を省いた](https://ja.wikipedia.org/wiki/組電池 "wikilink")。                                                                                                                      |
+| PCE-LD1   | [レーザーアクティブ](https://ja.wikipedia.org/wiki/レーザーアクティブ "wikilink")                 | 1993年12月1日  | 無                                | パイオニア製レーザーアクティブのOEM。                                                                                                                                                                                                                                         |
+| PCE-DUORX | [PCエンジンDuo](https://ja.wikipedia.org/wiki/PCエンジンDuo "wikilink")-RX              | 1994年6月25日  | 無                                | Duo-Rのマイナーチェンジ版。                                                                                                                                                                                                                                             |
+|           |                                                                                 |             |                                  |                                                                                                                                                                                                                                                              |
+
+  - 他社製
+
+| 型番         | 名称                                                                          | 発売日        | 拡張バス | 備考                                                                                                                                                              |
+| ---------- | --------------------------------------------------------------------------- | ---------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CZ-830C-BK | [X1 twin](https://ja.wikipedia.org/wiki/X1_\(コンピュータ\)#X1シリーズの系譜 "wikilink") | 1987年12月   | 無    | PCエンジンを[シャープ](../Page/シャープ.md "wikilink")が開発していた[パソコン](../Page/パーソナルコンピュータ.md "wikilink")、[X1に内蔵させたもの](https://ja.wikipedia.org/wiki/X1_\(コンピュータ\) "wikilink")。 |
+| CLD-A100   | [レーザーアクティブ](https://ja.wikipedia.org/wiki/レーザーアクティブ "wikilink")             | 1993年8月20日 | 無    | パイオニア製。                                                                                                                                                         |
+| CPG-100    | Zemmix PC Shuttle                                                           | 1990年      | 不明   | HE-SYSTEMの専売版にあたり、[Zemmix](https://ja.wikipedia.org/wiki/Zemmix "wikilink")ブランドで発売された。                                                                          |
+|            |                                                                             |            |      |                                                                                                                                                                 |
+
+## 周辺機器
+
+発売された本体が多岐にわたるため、それぞれの本体に対応する周辺機器は以下のページを参照すること。
+
+  - CD-ROM<sup>2</sup> - [CD-ROM2\#周辺機器](https://ja.wikipedia.org/wiki/CD-ROM2#周辺機器 "wikilink")
+  - SUPER CD-ROM<sup>2</sup> - [SUPER CD-ROM2\#周辺機器](https://ja.wikipedia.org/wiki/SUPER_CD-ROM2#周辺機器 "wikilink")
+  - PCエンジンDuo - [PCエンジンDuo\#周辺機器](https://ja.wikipedia.org/wiki/PCエンジンDuo#周辺機器 "wikilink")
+  - PCエンジンシャトル - [PCエンジンシャトル\#周辺機器](https://ja.wikipedia.org/wiki/PCエンジンシャトル#周辺機器 "wikilink")
+  - PCエンジンコアグラフィックス - [PCエンジンコアグラフィックス\#周辺機器](https://ja.wikipedia.org/wiki/PCエンジンコアグラフィックス#周辺機器 "wikilink")
+  - PCエンジンGT - [PCエンジンGT\#周辺機器](https://ja.wikipedia.org/wiki/PCエンジンGT#周辺機器 "wikilink")
+  - PCエンジンLT - [PCエンジンLT\#周辺機器](https://ja.wikipedia.org/wiki/PCエンジンLT#周辺機器 "wikilink")
+  - PCエンジンスーパーグラフィックス - [PCエンジンスーパーグラフィックス\#周辺機器](https://ja.wikipedia.org/wiki/PCエンジンスーパーグラフィックス#周辺機器 "wikilink")
+
+### CD-ROM
+
+| 型番     | 名称                                                                                 | 発売日         | 備考                           |
+| ------ | ---------------------------------------------------------------------------------- | ----------- | ---------------------------- |
+| CDR-30 | [CD-ROM<sup>2</sup>](https://ja.wikipedia.org/wiki/CD-ROM2 "wikilink")             | 1988年12月4日  | PCエンジンのCD-ROMドライブ。           |
+| PI-CD1 | [SUPER CD-ROM<sup>2</sup>](https://ja.wikipedia.org/wiki/SUPER_CD-ROM2 "wikilink") | 1991年12月13日 | 上位規格のCD-ROM<sup>2</sup>システム。 |
+|        |                                                                                    |             |                              |
+
+### セーブ用外部メモリ
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:PC_Engine_Tennokoe2.jpg "wikilink")
+
+<table>
+<thead>
+<tr class="header">
+<th><p>型番</p></th>
+<th><p>名称</p></th>
+<th><p>発売日</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>HC66-6</p></td>
+<td><p>天の声2</p></td>
+<td><p>1989年8月8日</p></td>
+<td><p>拡張バスに接続するセーブ用外部メモリでハドソンが発売。内容保持に単3電池を使用するため電池が切れたらデータも消失する。本体通電中なら電池交換してもデータは保持される。AVブースターと併用はできないため初代PCエンジンよりも1989年12月8日に発売された<a href="https://ja.wikipedia.org/wiki/PCエンジンコアグラフィックス" title="wikilink">コアグラフィックス向きである</a>。価格・流通量の多さにより利用者数はバックアップブースターより多い。名前の由来はハドソンのRPG『<a href="https://ja.wikipedia.org/wiki/桃太郎伝説" title="wikilink">桃太郎伝説</a>』の<a href="https://ja.wikipedia.org/wiki/パスワード_(コンピュータゲーム)" title="wikilink">パスワードが</a>「天の声」という名称だったことによる。</p></td>
+</tr>
+<tr class="even">
+<td><p>PI-AD7</p></td>
+<td><p>バックアップブースター</p></td>
+<td><p>1989年11月12日</p></td>
+<td><p>天の声2とAVブースターの機能を併せ持つため、<a href="https://ja.wikipedia.org/wiki/CD-ROM2" title="wikilink">IFU-30と同様にRF出力しかない初代PCエンジンでAV出力とセーブ機能を両立できる</a>。天の声2よりは高価だが、IFU-30に比べると機能を絞り込んだ分値段が安い。</p></td>
+</tr>
+<tr class="odd">
+<td><p>PI-AD8</p></td>
+<td><p>バックアップブースターII</p></td>
+<td><p>1989年12月8日</p></td>
+<td><p>バックアップ用電源がキャパシタ（<a href="https://ja.wikipedia.org/wiki/コンデンサ" title="wikilink">コンデンサ</a>）に変更され、本体使用中に充電されるようになった。同時発売のコアグラフィックスでの使用が前提でAVブースター機能を削除し価格も下げられた。</p></td>
+</tr>
+<tr class="even">
+<td><p>HC692</p></td>
+<td><p>天の声BANK</p></td>
+<td><p>1991年9月6日</p></td>
+<td><p>HuCARD型のセーブ用外部メモリ。言わばPCエンジン用<a href="https://ja.wikipedia.org/wiki/SRAMカード" title="wikilink">SRAMカード</a>。それまでの外部記憶ユニットのセーブデータを4台分バックアップできる。<a href="https://ja.wikipedia.org/wiki/バンク切り換え" title="wikilink">バンク切り換え</a>式でゲームタイトルごとの管理はできない。電池は内蔵<a href="https://ja.wikipedia.org/wiki/リチウム電池" title="wikilink">リチウム電池</a>で長寿命であったが交換不可能。隠し要素としてハドソンの人気ゲームのデータが初めから記録されていた。</p></td>
+</tr>
+<tr class="odd">
+<td><p>PI-AD19</p></td>
+<td><p>メモリーベース128</p></td>
+<td><p>1993年3月</p></td>
+<td><p>パッド端子に接続して使用するセーブ用外部メモリ。後期ソフトのセーブデータの肥大化に対応し容量は128KBと非常に大きいが、対応ソフト以外は使用不可能。<a href="https://ja.wikipedia.org/wiki/コーエー" title="wikilink">コーエー</a>発売の同機能の周辺機器「セーブくん」もある（『<a href="https://ja.wikipedia.org/wiki/信長の野望・武将風雲録" title="wikilink">信長の野望・武将風雲録</a>』・『<a href="https://ja.wikipedia.org/wiki/三國志III" title="wikilink">三國志III</a>』などの一部に同梱）。<br />
+対応ソフトのうち、『<a href="https://ja.wikipedia.org/wiki/エメラルドドラゴン" title="wikilink">エメラルドドラゴン</a>』・『<a href="https://ja.wikipedia.org/wiki/リンダキューブ" title="wikilink">リンダキューブ</a>』・『<a href="https://ja.wikipedia.org/wiki/プライベート・アイ・ドル" title="wikilink">プライベート・アイ・ドル</a>』・『<a href="https://ja.wikipedia.org/wiki/ぽっぷるメイル" title="wikilink">ぽっぷるメイル</a>』の4本には本体のバックアップメモリとの間でセーブデータをコピーするなどの操作が出来る管理ユーティリティを内蔵。『エメラルドドラゴン』・『リンダキューブ』は共通のツールでデータの互換性があるが、『プライベート・アイ・ドル』と『ぽっぷるメイル』は両者との互換性はない。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 映像/音声出力
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:NEC-PC-Engine-AC-Adapter.jpg "wikilink")
+
+| 型番      | 名称              | 発売日                                                                                                    | 備考                                                                                                                                                                                                                                                      |
+| ------- | --------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PAD-105 | ACアダプタ          | 1987年10月30日                                                                                            |                                                                                                                                                                                                                                                         |
+| PAD-106 | ACアダプタ          |                                                                                                        |                                                                                                                                                                                                                                                         |
+| PI-AD2  | AVブースター         | 1988年4月8日                                                                                              | 拡張バスに接続する[コンポジット映像信号](https://ja.wikipedia.org/wiki/コンポジット映像信号 "wikilink")出力用の機器。初代PCエンジンでの使用が前提の商品。専用のDIN5ピンコネクタで本体と接続するコアグラフィックスと違い、汎用のAVケーブルをダイレクトに挿すことができる。                                                                                         |
+| PI-AN2  | AVケーブル          | 1989年11月22日                                                                                            | 初代PCエンジン以外で使用可能なステレオAVケーブル。                                                                                                                                                                                                                             |
+| PI-AN3  | RFユニット          | AVブースターとは逆に[コンポジット映像信号](https://ja.wikipedia.org/wiki/コンポジット映像信号 "wikilink")出力のマシンに使用し、RF信号を出力するための機器。 |                                                                                                                                                                                                                                                         |
+| PI-AD20 | バーチャルクッション      | 1992年12月18日                                                                                            | エアークッションに[サブウーファー](https://ja.wikipedia.org/wiki/サブウーファー "wikilink")を内蔵。音声が出力されるとクッション内の空気が振動する機器。アンプ・エアークッション本体・カバーに別れている。AVブースター等が付いたPCエンジンと直接接続するのは困難で、TV側の外部出力端子から接続されるのが一般的。発想は先進的だが本体価格が高く、長期間使用するとエアークッションの空気が漏れる・接触不良で音声や振動が出ない等の影響か普及には至らなかった。 |
+| CA-54   | PCエンジンコネクターケーブル |                                                                                                        | NEC製テレビ専用の接続ケーブル。一部のNECのTVに「PCエンジン端子」があり、ケーブル一本で映像/音声の入力・電源供給が可能。                                                                                                                                                                                       |
+|         |                 |                                                                                                        |                                                                                                                                                                                                                                                         |
+
+### パッド関連
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:PC_Engine_Controller.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NEC-PC-Engine-Controller-Plug.jpg "wikilink")
+
+| 型番        | 名称                                                                      | 発売日                         | 備考                                                                                                                                                                                   |
+| --------- | ----------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| PI-PD001  | PCエンジンパッド                                                               | 1987年10月30日                 | 初代PCエンジンに同梱されていたパッド。                                                                                                                                                                 |
+| PI-PD002  | ターボパッド                                                                  | PI-PD001に連射機能を付けたもの。        |                                                                                                                                                                                      |
+| PI-PD003  | [マルチタップ](https://ja.wikipedia.org/wiki/マルチタップ_\(コンピュータゲーム\) "wikilink") | 1987年10月30日                 | パッドを5つまで接続できる純正機器。本体のみではパッドを1つしか接続できなかった弱点が逆に普及を促し、ファミコン以上に多人数同時プレイソフトを登場させることとなった。2人用や4人用のサードパーティ製のものもあった。                                                                          |
+| PI-PD4    | ターボスティック                                                                | 1988年10月1日                  | NEC-HE純正では唯一のジョイスティック型コントローラ。                                                                                                                                                        |
+| HC63-8    | ジョイタップ3                                                                 | 1988年10月4日                  | 純正品。マルチタップの廉価版で、3つまでしかパッドを接続できない。                                                                                                                                                    |
+| PI-PD5    | ターボパッドII                                                                | 1989年11月22日                 | PCエンジンシャトルの形状に合わせたターボパッド。                                                                                                                                                            |
+| PI-PD06   | ターボパッド(ブラック)                                                            | 1989年12月8日                  | コアグラフィックスの色調に合わせたターボパッド。初代PCエンジンでは別売りだったが、PCエンジンコアグラフィックス以降の機種ではそれぞれ色調を合わせた連射パッドが標準装備されることとなった。                                                                                      |
+| NAPD-1001 | アベニューパッド3                                                               | 1991年1月31日                  | 3ボタン操作の[フォーゴットンワールドの発売に合わせて登場](https://ja.wikipedia.org/wiki/ロストワールド_\(ゲーム\) "wikilink")。IIIボタンはSELECTかRUNボタンのいずれかに設定して使用する、連射もできるのでRUNボタンに設定してスローモーション（ポーズの連射）をかけることも可能。            |
+| PI-PD08   | ターボパッド(グレー)                                                             | 1991年6月21日                  | コアグラフィックスIIの色調に合わせたターボパッド。                                                                                                                                                           |
+| PI-PD10   | PCエンジンマウス                                                               | 1992年11月27日                 | 後期、PCから移植等の一部ゲームに対応。親指で押せるセレクトボタン・ランボタンも付いており、当時としては珍しい4ボタンマウスだった。                                                                                                                   |
+| PI-PD11   | コードレスマルチタップセット                                                          | 1992年12月18日                 | PCエンジンDuoに合わせたデザインの純正品。パット信号を[赤外線](https://ja.wikipedia.org/wiki/赤外線 "wikilink")で伝達することでコントローラのコードレス化を実現。コードレスマルチタップ自体はPCエンジン本体のパッド端子に接続する。コードレスパットを5本揃えれば5人同時プレイ可能である。受信可能距離は約3mまで。 |
+| PI-PD12   | コードレスパッド                                                                | コードレスマルチタップ用のパッド。単四乾電池4本必要。 |                                                                                                                                                                                      |
+| PCE-TP2   | ターボパッド(ホワイト)                                                            | 1993年3月25日                  |                                                                                                                                                                                      |
+| NAPD-1002 | アベニューパッド6                                                               | 1993年5月28日                  | 6ボタンパッド。[ストリートファイターII](https://ja.wikipedia.org/wiki/ストリートファイターII "wikilink")の移植に対応する形で登場。                                                                                           |
+| PCE-TP1   | アーケードパッド6                                                               | 1994年6月25日                  | 6ボタンパッド。PC-FXの標準パッドとデザインがほぼ同じ。                                                                                                                                                       |
+|           |                                                                         |                             |                                                                                                                                                                                      |
+
+### グラフィック
+
+| 型番     | 名称        | 発売日                                                                                                                                               | 備考                                           |
+| ------ | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| PI-AS1 | アーティストツール | 1989年9月29日                                                                                                                                        | グラフィックソフト。イラストブースターがなくてもパッドで描画可能。画像の保存機能は無し。 |
+| PI-AD3 | プリントブースター | 本体に接続できるプリンター。ペンを差し込んで使う[ペンプロッター式](https://ja.wikipedia.org/wiki/プロッター "wikilink")。                                                               |                                              |
+| PI-AD4 | イラストブースター | 専用[ペンタブレット](https://ja.wikipedia.org/wiki/ペンタブレット "wikilink")。透明なので下絵をなぞることができる。                                                                  |                                              |
+| PI-AD5 | フォトリーダー   | ペン型[モノクロ](https://ja.wikipedia.org/wiki/モノクローム "wikilink")[イメージスキャナ](https://ja.wikipedia.org/wiki/イメージスキャナ "wikilink")。プリントブースターのリーダ端子に接続して使用する。 |                                              |
+|        |           |                                                                                                                                                   |                                              |
+
+### 発売中止
+
+  - 通信ブースター
+    通信ツールというソフトと併用し、NECが運営していたテキストベースの[パソコン通信](https://ja.wikipedia.org/wiki/パソコン通信 "wikilink")「[PC-VAN](https://ja.wikipedia.org/wiki/PC-VAN "wikilink")」に接続出来るというもの。[キーボードも発売されて](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")[BASIC](../Page/BASIC.md "wikilink")の[プログラミングなども可能になる予定もあった](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")\[57\]。モニタ試験も行っていたが、開発期間が長引き性能が陳腐化した等の理由で発売中止となる。
+  - XPE-1RGB(仮称)
+    [マイコンソフト](https://ja.wikipedia.org/wiki/マイコンソフト "wikilink")より発売予定だった。本体をRGB接続に対応させる外部接続アダプタ。CD-ROM2との互換性を維持するため、PCエンジン本体の下に積むという独特の接続方法になる。形状の合致しない[スーパーグラフィックス](https://ja.wikipedia.org/wiki/PCエンジンスーパーグラフィックス "wikilink")、専用バックアップユニット接続端子のみ対応の[シャトル](https://ja.wikipedia.org/wiki/PCエンジンシャトル "wikilink")、拡張バスの無い[Duoには非対応](https://ja.wikipedia.org/wiki/PCエンジンDuo "wikilink")\[58\]。
+
+## PCエンジンのソフトをプレイする環境
+
+### 各ソフトの規格に対応する機器
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:PC_Engine_CD-ROM2_Interface_Unit.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Super_CD-ROM2_with_CoreGrafx_II_\(3-4_right_view\).jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:PCEngine_SuperGrafx_with_SuperCDRom2.jpg "wikilink")
+
+一般に多く流通したソフトを遊ぶにはSUPER CD-ROM<sup>2</sup>が可動する環境があれば良いが、本体、周辺機器共に多くのバリエーションが存在するため、システムの組み合わせパターンは数多い。分類すると下記のようになる。なお下記では、初代PCエンジン・PCエンジンコアグラフィックス・PCエンジンコアグラフィックスIIを合わせ「**コアマシン**」と称する。
+
+  - **発売されたソフトの規格**
+      - 動作可能な本体、ハード、システムの組み合わせ
+  - HuCARD
+      - 全PCエンジンハード
+  - HuCARD（[PCエンジンスーパーグラフィックス](https://ja.wikipedia.org/wiki/PCエンジンスーパーグラフィックス "wikilink")専用）
+      - PCエンジンスーパーグラフィックスのみ
+  - [CD-ROM<sup>2</sup>](https://ja.wikipedia.org/wiki/CD-ROM2 "wikilink")
+      - コアマシン + CD-ROM<sup>2</sup> + 各種システムカード
+      - コアマシン + SUPER CD-ROM<sup>2</sup>
+      - PCエンジンスーパーグラフィックス + ROM<sup>2</sup> Adapter + CD-ROM<sup>2</sup> + 各種システムカード
+      - PCエンジンスーパーグラフィックス + SUPER CD-ROM<sup>2</sup>
+      - [PCエンジンLT](https://ja.wikipedia.org/wiki/PCエンジンLT "wikilink") + SUPER ROM<sup>2</sup> ADAPTER + SUPER CD-ROM<sup>2</sup>
+      - [PCエンジンDuo](https://ja.wikipedia.org/wiki/PCエンジンDuo "wikilink")系列機（R・RXを含む。以下同様）
+      - レーザーアクティブ＋LDRom<sup>2</sup>パック
+  - [SUPER CD-ROM<sup>2</sup>](https://ja.wikipedia.org/wiki/SUPER_CD-ROM2 "wikilink")
+      - コアマシン + CD-ROM<sup>2</sup> + システムカードVer.3.00（SUPER SYSTEM CARD） or [アーケードカード](https://ja.wikipedia.org/wiki/アーケードカード "wikilink")PRO
+      - コアマシン + SUPER CD-ROM<sup>2</sup>
+      - PCエンジンスーパーグラフィックス + ROM<sup>2</sup> Adapter + CD-ROM<sup>2</sup> + システムカードVer.3.00（SUPER SYSTEM CARD）or アーケードカードPRO
+      - PCエンジンスーパーグラフィックス + SUPER CD-ROM<sup>2</sup>
+      - PCエンジンLT + SUPER ROM<sup>2</sup> ADAPTER + SUPER CD-ROM<sup>2</sup>
+      - PCエンジンDuo系列機
+      - レーザーアクティブ＋LDRom<sup>2</sup>パック（パック内蔵のスーパーシステムカード機能の場合不具合が出るソフトが有るので、その場合スーパーシステムカードをHuカードスロットに挿すことで回避可能）
+  - [アーケードカード](https://ja.wikipedia.org/wiki/アーケードカード "wikilink")専用CD-ROM
+      - コアマシン + CD-ROM<sup>2</sup> + アーケードカードPRO
+      - コアマシン + SUPER CD-ROM<sup>2</sup> + アーケードカードDUO or アーケードカードPRO
+          - 以下も含め、SUPER CD-ROM<sup>2</sup>上（Duo系列機含む）でのアーケードカードPROの使用は公式にはサポート外
+      - PCエンジンスーパーグラフィックス + ROM<sup>2</sup> Adapter + CD-ROM<sup>2</sup> + アーケードカードPRO
+      - PCエンジンスーパーグラフィックス + SUPER CD-ROM<sup>2</sup> + アーケードカードDUO or アーケードカードPRO
+      - PCエンジンLT + SUPER ROM<sup>2</sup> ADAPTER + SUPER CD-ROM<sup>2</sup> + アーケードカードDUO or アーケードカードPRO
+      - PCエンジンDuo系列機 + アーケードカードDUO or アーケードカードPRO
+      - レーザーアクティブ＋LDRom<sup>2</sup>パック＋ アーケードカードDUO or アーケードカードPRO
+
+### ダウンロード販売サービス
+
+  - ドリームライブラリ
+
+<!-- end list -->
+
+  -
+    2000年6月1日、セガとの提携により[ドリームライブラリ](https://ja.wikipedia.org/wiki/ドリームライブラリ "wikilink")向けに配信された（2003年1月31日にサービス終了）。
+
+<!-- end list -->
+
+  - [プロジェクトEGG](https://ja.wikipedia.org/wiki/プロジェクトEGG "wikilink")
+
+<!-- end list -->
+
+  -
+    Windows PC向けのレトロゲーム配信サービス。2003年よりラインナップが追加されている。
+
+<!-- end list -->
+
+  - バーチャルコンソール
+
+<!-- end list -->
+
+  -
+    2006年12月2日、任天堂との提携により[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")のダウンロード販売サービスである[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")向けに配信されている、2013年12月25日からは[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")向け、[Wii U向けも配信を開始](https://ja.wikipedia.org/wiki/Wii_U "wikilink")。3DSとWii Uの場合、ソフトにカーソルを合わせるとコナミのサウンドロゴが流れる。Wii版は2019年1月31日14時59分を以ってサービス終了予定。
+
+<!-- end list -->
+
+  - PCエンジンアーカイブス
+
+<!-- end list -->
+
+  -
+    2009年7月15日、ソニー・コンピュータエンタテインメントとの提携により[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[PlayStation Vitaのダウンロード販売サービスである](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")にて配信されている\[59\]（[PlayStation Portable向けは](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")2016年3月31日に、[Media Goからのダウンロードも](https://ja.wikipedia.org/wiki/Media_Go "wikilink")2017年12月にサービス終了、以降はPlayStation 3を介してのダウンロードとなる）。
+
+<!-- end list -->
+
+  - PC Engine GameBox
+
+<!-- end list -->
+
+  -
+    2010年12月20日、[iOS用ソフト](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[PC Engine GameBox](https://ja.wikipedia.org/wiki/PC_Engine_GameBox "wikilink")（発売元：ハドソン）のダウンロード配信が始まった。『パワースポーツ』以外のゲームはアドオン購入となる。
+
+<!-- end list -->
+
+  - PCエンジンライブラリー
+
+<!-- end list -->
+
+  -
+    2014年4月より[Windowsストア](https://ja.wikipedia.org/wiki/Windowsストア "wikilink")にてダウンロード販売が始まった。
+
+### クラウドサービス
+
+  - PCエンジンライブラリー
+
+<!-- end list -->
+
+  -
+    2013年6月20日に発売された[クラウドゲーム](https://ja.wikipedia.org/wiki/クラウドゲーム "wikilink")機「[G-cluster](https://ja.wikipedia.org/wiki/ブロードメディア#G-cluster "wikilink")」向けのサービスとして開始。数本を一つにまとめたセット購入となる。
+
+## その他
+
+  - 「PCEngine」という商標名は2019年現在、コナミデジタルエンタテインメント（KDE）及び[ビッグローブの](https://ja.wikipedia.org/wiki/BIGLOBE "wikilink")[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")（第2272123号ほか）となっている\[60\]\[61\]\[62\]（「PCエンジン」では商標登録されていない）。発売当時はハドソン及びNEC-HEが商標等諸権利を保持していたのが、ハドソンは2012年にKDEに吸収合併され、NEC-HEは2001年の会社解散に伴い権利関係が親会社のNECを経て、2006年にNECから分社したビッグローブ\[63\]が承継したためである。なお、「PCエンジン mini」の著作権表記にはKDE及びビッグローブの2社が表示されていた\[64\]が、その後ビッグローブのみ削除された\[65\]（理由は不明）。
+  - [PC-88VAの](https://ja.wikipedia.org/wiki/PC-8801 "wikilink")[OSを](../Page/オペレーティングシステム.md "wikilink")「PC-Engine」と呼ぶが、PCエンジンとの関係はない。
+  - 映像出力方法は[RF接続](https://ja.wikipedia.org/wiki/RF接続 "wikilink")と[RCA端子](https://ja.wikipedia.org/wiki/RCA端子 "wikilink")のみだが、拡張バスには[RGB](https://ja.wikipedia.org/wiki/RGB "wikilink")出力が含まれている\[66\]。[電波新聞社](https://ja.wikipedia.org/wiki/電波新聞社 "wikilink")は、ここからRGB信号を取り出すコネクターの発売を予定していたが企画倒れとなった\[67\]ため、正規の方法で[S端子](https://ja.wikipedia.org/wiki/S端子 "wikilink")やRGB端子への接続は出来ない。
+  - 同様のコンセプトを持つ品として、テクナート（業務用基板を取り扱う会社）より「PCメイト」と言うRGB出力/業務用筐体に接続出来る機能を持つ基板が当時販売されていた。ゲーメストに広告が載っていたが、価格が2万円と高価だった。この基板をさらに改造して、業務用として設置できるようクレジット機能（コインの投入数分だけRUNボタンの押下を受け付ける）を搭載したものも存在した。
+  - [2020年](https://ja.wikipedia.org/wiki/2020年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")上旬に[コロンバスサークル](https://ja.wikipedia.org/wiki/コロンバスサークル "wikilink")より無改造でポータブル化できる外付け[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")が発売する\[68\]。これによって安価に[PCエンジンLT](https://ja.wikipedia.org/wiki/PCエンジンLT "wikilink")を再現することが可能になった。
+  - [富士見ファンタジア文庫](https://ja.wikipedia.org/wiki/富士見ファンタジア文庫 "wikilink")から1990年2月に刊行された『悪の江ノ島大決戦』（[とまとあき](https://ja.wikipedia.org/wiki/とまとあき "wikilink")・塚本裕美子著）では、当時発売直後のシャトルやスーパーグラフィックスなどが作中のアイテムとして登場し、ゲーム機本体と[ライトノベル](https://ja.wikipedia.org/wiki/ライトノベル "wikilink")という、[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")が行われた。
+  - 1996年創刊の雑誌『ユーズド・ゲームズ』（後の『[GAME SIDE](https://ja.wikipedia.org/wiki/GAME_SIDE "wikilink")』）では、PCエンジンの熱狂的な[ユーザ](https://ja.wikipedia.org/wiki/ユーザ "wikilink")のことを「PCエンジニア」と呼んでいた。この言葉は同誌2号のメガドライブ特集記事で誕生したものである。
+  - PCエンジンのパッド端子は汎用のミニDIN8pinコネクタを採用している。同じミニDIN8pinコネクタを採用しているPC-9801用のキーボード延長ケーブル(2016年時点の現行品の例としては KB-K98-3K、KB-K98K)をPCエンジンのパッド延長ケーブルとして使える。
+
+## 専門誌
+
+  - [月刊PCエンジン](https://ja.wikipedia.org/wiki/月刊PCエンジン "wikilink")（[小学館](https://ja.wikipedia.org/wiki/小学館 "wikilink")）
+  - [マル勝PCエンジン](https://ja.wikipedia.org/wiki/マル勝PCエンジン "wikilink")（[角川書店](https://ja.wikipedia.org/wiki/角川書店 "wikilink")）
+  - [電撃PCエンジン](https://ja.wikipedia.org/wiki/電撃G's_magazine#雑誌の沿革 "wikilink")（[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")）
+  - [PC Engine FAN](https://ja.wikipedia.org/wiki/PC_Engine_FAN "wikilink")（[徳間書店インターメディア](https://ja.wikipedia.org/wiki/徳間書店インターメディア "wikilink")）
+  - [ファミコン通信増刊](https://ja.wikipedia.org/wiki/ファミ通 "wikilink") PCエンジン通信（[アスキー](https://ja.wikipedia.org/wiki/アスキー_\(企業\) "wikilink")）
+
+## テレビ番組
+
+  - [さきどり\!PC遊び塾](https://ja.wikipedia.org/wiki/さきどり!PC遊び塾 "wikilink")
+  - [大竹まことのただいま\!PCランド](https://ja.wikipedia.org/wiki/大竹まことのただいま!PCランド "wikilink")
+  - [聖PCハイスクール](https://ja.wikipedia.org/wiki/聖PCハイスクール "wikilink")
+  - [そのまんま東のバーチャル情報局](https://ja.wikipedia.org/wiki/そのまんま東のバーチャル情報局 "wikilink")
+  - [ダウンタウンのゆーたもん勝ち](https://ja.wikipedia.org/wiki/ダウンタウンのゆーたもん勝ち "wikilink")
+  - [そのまんま東のバーチャルZ](https://ja.wikipedia.org/wiki/そのまんま東のバーチャルZ "wikilink")
+
+## 脚注
+
+## 関連項目
+
+### ソフト一覧
+
+  - [:Category:PCエンジン用ソフト](https://ja.wikipedia.org/wiki/Category:PCエンジン用ソフト "wikilink") - 日本語版ウィキペディアに記事の作成されているタイトルのリスト（タイトルでの五十音順）
+      - [PCエンジンのソフトウェア一覧](https://ja.wikipedia.org/wiki/PCエンジンのソフトウェア一覧 "wikilink")
+      - [PCエンジンのゲームタイトル一覧](https://ja.wikipedia.org/wiki/PCエンジンのゲームタイトル一覧 "wikilink") - 日本で公式発売された全タイトルのリスト（発売日順）
+
+### その他の関連項目
+
+  - [PC Engine Best Collection](https://ja.wikipedia.org/wiki/PC_Engine_Best_Collection "wikilink")
+  - [PC Engine GameBox](https://ja.wikipedia.org/wiki/PC_Engine_GameBox "wikilink")
+  - [PCエンジン mini](https://ja.wikipedia.org/wiki/PCエンジン_mini "wikilink")
+
+## 外部リンク
+
+  -
+  -   -
+  - [ゲームアーカイブス なつかしの名作ゲームソフトを楽しもう！ プレイステーションR オフィシャルサイト](https://www.jp.playstation.com/psn/store/gamestore/archives/)
+
+  - [電子ゲーム NEC PCEngine PI-TG001 受賞対象一覧 Good Design Award](https://www.g-mark.org/award/describe/14421)
+
+  - [PCエンジン mini 公式サイト](https://www.konami.com/games/pcemini/)
+
+[Category:PCエンジン](https://ja.wikipedia.org/wiki/Category:PCエンジン "wikilink") [Category:ゲーム機](https://ja.wikipedia.org/wiki/Category:ゲーム機 "wikilink") [Category:1987年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1987年のコンピュータゲーム "wikilink") [Category:ハドソン](https://ja.wikipedia.org/wiki/Category:ハドソン "wikilink") [Category:1980年代の玩具](https://ja.wikipedia.org/wiki/Category:1980年代の玩具 "wikilink") [Category:グッドデザイン賞](https://ja.wikipedia.org/wiki/Category:グッドデザイン賞 "wikilink") [Category:アセンブリ言語](https://ja.wikipedia.org/wiki/Category:アセンブリ言語 "wikilink")
+
+1.  NECはチップ単位では任天堂や[エポック社](https://ja.wikipedia.org/wiki/エポック社 "wikilink")の[スーパーカセットビジョン](https://ja.wikipedia.org/wiki/スーパーカセットビジョン "wikilink")や[カシオ](https://ja.wikipedia.org/wiki/カシオ "wikilink")の[PV-1000](https://ja.wikipedia.org/wiki/PV-1000 "wikilink")への供給を行っていたものの、完成品としてのコンシューマゲーム機としては[NECグループ](https://ja.wikipedia.org/wiki/NECグループ "wikilink")では初参入である。
+2.
+3.  週刊ファミ通700号 『ゲームの歴史』、p.127
+4.  「ゲーム大国ニッポン 神々の興亡」滝田誠一郎 2000年、p.187,188
+5.
+6.
+7.  2012年にハドソンは[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")に吸収合併されたため、その後は同社が権利を保有した。
+8.  [コナミ、「PCエンジン mini」を正式発表。1987年に生まれた世界初のCD-ROM対応ゲーム機が現代に蘇る](https://news.denfaminicogamer.jp/news/190612k),電ファミニコゲーマー,2019年6月12日
+9.  時期は明記されていないがNECより前にソニーへも持ち込んだことがあるという証言もある[平林久和](https://ja.wikipedia.org/wiki/平林久和 "wikilink")「[急にハドソンのことが語りたくなった -](http://hisakazuhirabayashi.blog95.fc2.com/blog-entry-970.html)」 [Hisakazu Hirabayashi Official Blog](http://hisakazuhirabayashi.blog95.fc2.com/) 2011年1月21日
+10.
+11. 滝田誠一郎『ゲーム大国ニッポン 神々の興亡 2兆円市場の未来を拓いた男たち』青春出版社、2000年、p.180.181.182
+12. [PCエンジンにまつわる当事者の想いを保存する](https://www.gamepres.org/2016/02/26/pcengine/)ゲーム保存協会
+13. エンターブレイン「ファミ通」2006年6月16日号、PAGE23より
+14. ドリマガ 2003年10月10・24日号、PAGE117
+15.
+16. 滝田誠一郎『ゲーム大国ニッポン 神々の興亡 2兆円市場の未来を拓いた男たち』青春出版社、2000年、p.183.184.185.186
+17. ユーゲーNo.06 2003年6号 『特集 PCエンジン回顧録』、p.128
+18. ドリマガ 2003年10月10・24日号、PAGE121
+19. [「続・PCエンジンのCDROMのプロテクト」](http://www.highriskrevolution.com/gamelife/index.php?e=424)
+20. ドリマガ 2003年10月10・24日号、PAGE121
+21.
+22. いわば周辺機器の[エンジンに見立たものであり](https://ja.wikipedia.org/wiki/機関_\(機械\) "wikilink")「PCエンジン」の命名はここが由来である。
+23. ただしCD-ROM<sup>2</sup>本体により占有されたりDUOシリーズで一体化された結果消滅した。
+24. パイオニア製の[レーザーアクティブ](https://ja.wikipedia.org/wiki/レーザーアクティブ "wikilink")によるLD-ROM2もあるが、ここでは省略する
+25.
+26. 最大5人で協力・対戦が可能なゲームには『[ボンバーマン](https://ja.wikipedia.org/wiki/ボンバーマン_\(PCエンジン\) "wikilink")』『[スーパー桃太郎電鉄II](https://ja.wikipedia.org/wiki/スーパー桃太郎電鉄II "wikilink")』『[ダンジョンエクスプローラー](https://ja.wikipedia.org/wiki/ダンジョンエクスプローラー "wikilink")』『[モトローダー](https://ja.wikipedia.org/wiki/モトローダー "wikilink")』がある。
+27. [テレビゲーム機の変遷--ファミコン、スーパーファミコン、プレステ、プレステ2、Wiiまで](http://id.nii.ac.jp/1060/00000012/)
+28. [さくまあきら](https://ja.wikipedia.org/wiki/さくまあきら "wikilink")が担当。
+29. [多根清史](https://ja.wikipedia.org/wiki/多根清史 "wikilink")『日本を変えた10大ゲーム機』ソフトバンク新書、2008年、p.100
+30. [サイドアーム](https://ja.wikipedia.org/wiki/サイドアーム_\(シューティングゲーム\) "wikilink")、[サイドアーム・スペシャル](https://ja.wikipedia.org/wiki/サイドアーム_\(シューティングゲーム\) "wikilink")、[F1ドリーム](https://ja.wikipedia.org/wiki/F1ドリーム "wikilink")、[ソンソン](https://ja.wikipedia.org/wiki/ソンソン "wikilink")2、ポンピングワールド、[ストリートファイターII](https://ja.wikipedia.org/wiki/ストリートファイターII "wikilink")ダッシュなど
+31. [エイリアンクラッシュ](https://ja.wikipedia.org/wiki/エイリアンクラッシュ "wikilink")、[デビルクラッシュ](https://ja.wikipedia.org/wiki/デビルクラッシュ "wikilink")、[サイバーナイト](https://ja.wikipedia.org/wiki/サイバーナイト "wikilink")、[GUNHED](https://ja.wikipedia.org/wiki/ガンヘッド_\(PCエンジン\) "wikilink")、[精霊戦士スプリガン](https://ja.wikipedia.org/wiki/精霊戦士スプリガン "wikilink")、[スプリガン mark2](https://ja.wikipedia.org/wiki/スプリガン_mark2 "wikilink")、[シルフィア](https://ja.wikipedia.org/wiki/シルフィア "wikilink")など
+32.
+33.
+34. 後継機のPC-FXではNEC HEが大半のソフトを販売している一方、開発元のハドソンのソフトは少数派で、初期の間しか販売しなかった。
+35. [多根清史](https://ja.wikipedia.org/wiki/多根清史 "wikilink")『日本を変えた10大ゲーム機』ソフトバンク新書、2008年、p.117
+36. 週刊ファミ通700号 『ゲームの歴史』、p.127
+37.
+38. 『スーパーボンバーマン公式ガイドブック』小学館 P.107
+39.
+40.
+41.
+42. 「週刊ファミ通」、エンターブレイン、2006年6月16日号23ページ
+43.
+44.
+45. [PC Engine FAN](https://ja.wikipedia.org/wiki/PC_Engine_FAN "wikilink")1996年10月号、134ページ『「月刊PCエンジンファン」刊行変更のごあいさつ』
+46. 小川純生、「[テレビゲーム機の変遷--ファミコン、スーパーファミコン、プレステ、プレステ2、Wiiまで](http://id.nii.ac.jp/1060/00000012/)」『経営論集』 2011年 77号 p.1-17, 東洋大学経営学部
+47. 多根清史『日本を変えた10大ゲーム機』ソフトバンククリエイティブ・ソフトバンク新書、2008年、p.98
+48. ゼビウスファードラウト伝説、ガンヘッド等では主にドラムパートを、源平討魔伝等ではボイス再生に使用された。スーパースターソルジャー以降は波形メモリを制御することでドラム音が再現可能となり、処理速度の向上と再生チャンネルを稼ぐことが可能となっている）
+49. [ポピュラス](https://ja.wikipedia.org/wiki/ポピュラス "wikilink")（HuCARD版）のみカード側にメイン[RAM](https://ja.wikipedia.org/wiki/Random_Access_Memory "wikilink")：32KBを増設。
+50.
+51. HuCARDの「TVスポーツバスケットボール」の選手選択画面や、CD-ROM<sup>2</sup>の「シャーロックホームズ」の全編、「シャドウオブザビースト」のOPデモで使用。縦スクロールシューティングゲームで縦画面仕様のアーケードゲームの雰囲気に似せた、通称「縦画面モード」をオプション・裏技で選択可能。
+52. 高解像度なソフトが少ない理由は、画素単位で制作したグラフィックをフル画面表示しづらい・[スプライトが複数並び易く](https://ja.wikipedia.org/wiki/スプライト_\(映像技術\) "wikilink")、横並び制限による[スプライト欠けが生じ易いからである](https://ja.wikipedia.org/wiki/スプライト_\(映像技術\) "wikilink")。
+53. 512色全てを使えるという設計は、ハドソンの「全部使えたほうが開発しやすい」という発想から生まれたもの。
+54. [岩崎啓眞](https://ja.wikipedia.org/wiki/岩崎啓眞 "wikilink")「[PCエンジン版R-TYPEのコト](http://www.highriskrevolution.com/gamelife/index.php?e=53)」[Colorful Pieces of Game](http://www.highriskrevolution.com/gamelife/) 2010年10月4日
+55. この仕様により[多重スクロールは苦手である](https://ja.wikipedia.org/wiki/スクロール "wikilink")。そのため背景の一部をスプライトにする・[バックグラウンドのキャラクタを複数用意してアニメーションさせる](https://ja.wikipedia.org/wiki/背景 "wikilink")、横方向ではそれに加え[ラスタースクロール](https://ja.wikipedia.org/wiki/ラスタースクロール "wikilink")を併用することで対応している。なお、これらは他のゲーム機でも使われるテクニックである。
+56. 専用のバックアップユニットのみ接続可能
+57. [Japanese Secrets\! - The Tsushin Booster Page](http://www.chrismcovell.com/secret/sp_tsushinbooster.html)
+58.  -
+59.
+60. [特許庁](https://ja.wikipedia.org/wiki/特許庁 "wikilink")の「特許情報プラットフォーム」\[[https://www.j-platpat.inpit.go.jp/web/all/top/BTmTopSearchPage.action\]において](https://www.j-platpat.inpit.go.jp/web/all/top/BTmTopSearchPage.action%5Dにおいて)、「PCEngine」を「商標を探す」で検索した結果（2015年6月21日閲覧）
+61.
+62.
+63. 2014年3月まではNECビッグローブ。同年、[日本産業パートナーズ](https://ja.wikipedia.org/wiki/日本産業パートナーズ "wikilink")に売却された後、2016年に[KDDI](https://ja.wikipedia.org/wiki/KDDI "wikilink")が買収した。
+64.
+65. [PCエンジン mini 公式サイト](https://www.konami.com/games/pcemini/jp/ja/)（2019年8月25日閲覧）
+66. [●PCエンジン（PCEngine）](http://dempa.jp/rgb/heaven/g_pce.html)
+67.
+68. [4.3インチ液晶パネルを採用！PCエンジンをどこでも楽しむことができる「ポータブルモニター」が登場！](https://game.watch.impress.co.jp/docs/news/1225409.html) - GAME Watch

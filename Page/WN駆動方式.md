@@ -1,0 +1,90 @@
+> この記事は[WN](https://ja.wikipedia.org/wiki/WN)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:WN_Drive_01.gif "wikilink") **WN駆動方式**（WNくどうほうしき、WN Drive）は、[電車](../Page/電車.md "wikilink")の駆動方式の一種である。
+
+## 概要
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:WN_Coupling_01.gif "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:KD-70-Chichibu-Railway-5000series-02.jpg "wikilink") 高速運転に適した電車用駆動システムとして、[アメリカの大手電機メーカーである](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ウェスティングハウス・エレクトリック](https://ja.wikipedia.org/wiki/ウェスティングハウス・エレクトリック "wikilink")（WH）社が、傘下の機械・歯車メーカーであるナタル社(Natal Co.Ltd)と[1925年](../Page/1925年.md "wikilink")以降共同開発を実施、実用化した。「WN」とは開発に携わった両社の頭文字 (Westinghouse - Natal) にちなむ。もっとも、現在の米国では単に「gear coupling」と呼称される方が多い。
+
+駆動系全体は[主電動機](https://ja.wikipedia.org/wiki/主電動機 "wikilink")を車軸と平行に台車枠に固定し、小さな偏位を許容する「WN継手」を介して電動機の出力軸と駆動歯車を接続する。一般的には主電動機の荷重を全てばね上の弾性支持とした電車用の車軸無装架駆動方式全般を[カルダン駆動方式](https://ja.wikipedia.org/wiki/カルダン駆動方式 "wikilink")と呼称するため、「WN継手」を使った「平行軸カルダン駆動」の一種とされる。
+
+「WN継手」自体の仕組みは、二組の遊びの大きなスライドスプラインで構成される。スライドスプラインは歯車と異なり全ての歯が噛み合っているので小さくても大きな力を伝達でき、信頼性も高い。ただし[公差](../Page/公差.md "wikilink")を利用する角度変化の許容度はわずか5度以内である。
+
+### 歴史
+
+主電動機を小型、軽量化しつつ駆動力を発揮するには、高速電動機と減速歯車が必要になる。
+
+過去に電気鉄道で使用されていた[吊り掛け駆動方式](https://ja.wikipedia.org/wiki/吊り掛け駆動方式 "wikilink")は、主電動機に取り付けられた主歯車と動力を伝達される車軸に取り付けられた大歯車を一体のギアボックスに納め、そのギアボックスが主電動機の重量の約半分を支え、残る半分はばねで台車枠が弾性支持する単純な構造の駆動系だった。
+
+吊り掛け駆動は、その単純さ故に欠点もあった。
+
+  - 主電動機重量の約半分が車軸にかかり、ばね下重量が大きくなる構造により、軌道への負担が多く、かつ軌道と車輪の追従性が悪く、乗り心地が悪い。
+  - レールの継ぎ目や[分岐器](https://ja.wikipedia.org/wiki/分岐器 "wikilink")で車軸に加わった衝撃が、ギアボックスを介して主電動機に直接伝わるため、軸受やモーターケースに損傷を生じる負担があった。[整流子電動機](../Page/整流子電動機.md "wikilink")の弱点である[フラッシュオーバー](https://ja.wikipedia.org/wiki/フラッシュオーバー "wikilink")を考慮すると、モーター回転数の引き上げも困難になるなど\[1\]、更なる高速化に向けての性能向上は頭打ちの状況であった。
+
+この問題を克服する方法として、1920年代には、[スイス](../Page/スイス.md "wikilink")などで[ブフリ式駆動方式](https://ja.wikipedia.org/wiki/ブフリ式駆動方式 "wikilink")が、アメリカや欧州で[クイル式駆動方式](https://ja.wikipedia.org/wiki/クイル式駆動方式 "wikilink")が実用化された。しかし、いずれも大型であるため[電気機関車](../Page/電気機関車.md "wikilink")用であり、電車用としては普及しなかった。
+
+こうして電車の性能向上のため、当時アメリカで有数の鉄道用電動機メーカーであったWH社は1925年から、傘下のナタル社と共同で、小型の車軸無装架駆動方式と低電圧高回転電動機を開発した。
+
+平行軸WN駆動は10年以上の長期にわたる実用試験を経て信頼性や性能が確認された後、[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")に[シカゴ・ノースショア・アンド・ミルウォーキー鉄道](https://ja.wikipedia.org/wiki/シカゴ・ノースショア・アンド・ミルウォーキー鉄道 "wikilink")(ノースショアー線)の[エレクトロライナー](https://ja.wikipedia.org/wiki/エレクトロライナー "wikilink")と呼ばれる軽量構造の4車体連接車に採用されて成功を収め、さらに1948年には[ニューヨーク市地下鉄](https://ja.wikipedia.org/wiki/ニューヨーク市地下鉄 "wikilink")用R12形電車に大量に採用され、以後アメリカと[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")で普及した。
+
+## 採用事例
+
+### 日本
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Hitachi-HS32534-03RB.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:WN-Drive-Gearbox-Seibu-Railway.jpg "wikilink") 構造的に高出力に耐える継手の特性から、古くから[地下鉄](https://ja.wikipedia.org/wiki/地下鉄 "wikilink")や[私鉄](../Page/私鉄.md "wikilink")各社で用いられてきた。また高速運転を行う[新幹線](../Page/新幹線.md "wikilink")でも、開業以来長く標準駆動システムとして使用され続けているが、700系やN700系の一部グリーン車では例外がある（後述）。
+
+日本におけるWNドライブは、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")6月に完成した[京阪電気鉄道](https://ja.wikipedia.org/wiki/京阪電気鉄道 "wikilink")[1800型](https://ja.wikipedia.org/wiki/京阪1800系電車_\(初代\) "wikilink")1802\[2\]\[3\]\[4\]に搭載された、アメリカからの技術情報に基づき[住友金属工業](https://ja.wikipedia.org/wiki/住友金属工業 "wikilink")(現：[日本製鉄](https://ja.wikipedia.org/wiki/日本製鉄 "wikilink"))が独自開発したWN継手\[5\]が最初の実用化例となり、これと同様の継手を用いた[東京都電](https://ja.wikipedia.org/wiki/東京都電 "wikilink")[5500形](https://ja.wikipedia.org/wiki/東京都交通局5500形電車_\(軌道\) "wikilink")5502\[6\]、さらにWH社のライセンスに基づく駆動装置を備え、[営団丸ノ内線開業に備えて](../Page/東京メトロ丸ノ内線.md "wikilink")30両が一気に製造された[300形電車](https://ja.wikipedia.org/wiki/営団500形電車 "wikilink")\[7\]、と続いた。
+
+丸ノ内線をはじめ、米国の鉄道と同等の1,435mm軌間（[標準軌](../Page/標準軌.md "wikilink"))を採用した路線のほとんど（[営団地下鉄](https://ja.wikipedia.org/wiki/帝都高速度交通営団 "wikilink")（現：[東京メトロ](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")）の[銀座線](https://ja.wikipedia.org/wiki/東京メトロ銀座線 "wikilink")・[丸ノ内線](../Page/東京メトロ丸ノ内線.md "wikilink")、[近畿日本鉄道](https://ja.wikipedia.org/wiki/近畿日本鉄道 "wikilink")の[奈良線](https://ja.wikipedia.org/wiki/近鉄奈良線 "wikilink")・[大阪線などの標準軌線区](https://ja.wikipedia.org/wiki/近鉄大阪線 "wikilink")、京阪神急行電鉄（現：[阪急電鉄](../Page/阪急電鉄.md "wikilink")）の[神宝線](https://ja.wikipedia.org/wiki/神宝線 "wikilink")）においては、継手の耐久性が高く大出力化に有利なWNドライブは早くから導入された。
+
+一方、[軌間](../Page/軌間.md "wikilink")1,067mmの[狭軌](../Page/狭軌.md "wikilink")路線では、装置の幅が広くなるため、WNドライブの導入には継手だけではなく主電動機の小型化、あるいはその外枠形状の工夫が必要であった。この過程では、主電動機の軸方向長さの短縮とWN継手の小型化に加え、これを補うための主電動機直径の増大も図られている。[1956年](../Page/1956年.md "wikilink")に富士山麓電気鉄道（現：[富士急行](https://ja.wikipedia.org/wiki/富士急行 "wikilink")）[3100形で](https://ja.wikipedia.org/wiki/富士山麓電気鉄道3100形電車 "wikilink")、主電動機の1時間定格出力は55kWと低出力であったものの初の狭軌用WN継手が実用化され、次いで翌年に登場した[長野電鉄2000系電車](https://ja.wikipedia.org/wiki/長野電鉄2000系電車 "wikilink")で75kW級電動機へ対応する継手が実用化された\[8\]。
+
+しかし当時既に[直角カルダンでは](https://ja.wikipedia.org/wiki/直角カルダン駆動方式 "wikilink")110kW（[東急5000系電車](../Page/東急5000系電車_\(初代\).md "wikilink")）、[中空軸平行カルダンでは](../Page/中空軸平行カルダン駆動方式.md "wikilink")100kW（[国鉄101系電車](https://ja.wikipedia.org/wiki/国鉄101系電車 "wikilink")）といった、より大出力の主電動機への対応を実現し、これにより付随車を組み込んだ経済的な編成での運用を可能にしていた。このため、当方式を採用した狭軌私鉄は全長15 - 18m級の小柄な車両を運用する事業者が大半を占めていた。この点、国鉄と同じ20m級車を運行する各社では、各モーターの出力が制限されるこの方式で所要の性能を確保するには、全電動車方式とせねばならないことがネックとなった\[9\]。このためWNドライブの日本における本格的普及は、[1960年](../Page/1960年.md "wikilink")代に入り狭軌向けでも定格出力が100kWを超える大出力電動機が製造可能になってからであり、[南海電気鉄道](../Page/南海電気鉄道.md "wikilink")（三菱電機製主電動機装備車両）、[小田急電鉄](../Page/小田急電鉄.md "wikilink")などにその例を見ることができる。
+
+国鉄の在来線用電車においては、中空軸カルダンが標準とされたために、WNドライブの使用実績はない\[10\]が、電気機関車では1台車1モーター2軸駆動方式を採用し継手寸法の制約が事実上なかった[EF30形に採用されている](https://ja.wikipedia.org/wiki/国鉄EF30形電気機関車 "wikilink")。分割民営化後は、JR西日本においては、大出力高速回転型のモーターを使用するために駆動系の高い耐久性が求められたことから、整流子が無い分スペースに余裕を確保しやすい、[VVVFインバータ制御の](https://ja.wikipedia.org/wiki/可変電圧可変周波数制御 "wikilink")[交流](../Page/交流.md "wikilink")[かご形三相誘導電動機](../Page/かご形三相誘導電動機.md "wikilink")を使用する[207系以降の在来線電車において](../Page/JR西日本207系電車.md "wikilink")、一部例外を除き\[11\]WN継手を標準採用しており、特に[223系](https://ja.wikipedia.org/wiki/JR西日本223系電車 "wikilink")・[225系新快速電車をはじめとする新型電車群の高速運転に威力を発揮している](https://ja.wikipedia.org/wiki/JR西日本225系電車 "wikilink")。また、日本唯一のコンテナ貨物電車である[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）の[M250系電車でもWNドライブが採用されている](https://ja.wikipedia.org/wiki/JR貨物M250系電車 "wikilink")。[車体装架カルダン駆動方式](https://ja.wikipedia.org/wiki/車体装架カルダン駆動方式 "wikilink")が過半数を占めている[超低床路面電車](https://ja.wikipedia.org/wiki/超低床電車 "wikilink")（100%超低床）では[鹿児島市交通局](https://ja.wikipedia.org/wiki/鹿児島市交通局 "wikilink")の[7500形電車](https://ja.wikipedia.org/wiki/鹿児島市交通局7500形電車 "wikilink")（[リトルダンサー](https://ja.wikipedia.org/wiki/リトルダンサー "wikilink")タイプX）で[東洋電機製造](https://ja.wikipedia.org/wiki/東洋電機製造 "wikilink")が新設計したWN継手が採用されている。
+
+WN継手は基本的に等速継手であり、変位を与えた状態で回転しても回転角速度変動は発生しない。ただし「たわみ板式継手」や「TD継手」ほど滑らかではない。
+
+現在での国内での生産数は、ウェスティングハウスとの技術提携の経緯や金属加工技術の制約などから、[三菱電機](https://ja.wikipedia.org/wiki/三菱電機 "wikilink")製主電動機と[日本製鉄](https://ja.wikipedia.org/wiki/日本製鉄 "wikilink")（前身の[住友金属工業](https://ja.wikipedia.org/wiki/住友金属工業 "wikilink")を含む）製継手の組み合わせが半数以上を占めている\[12\]\[13\]。
+
+### 海外
+
+海外では[クイル式駆動方式](https://ja.wikipedia.org/wiki/クイル式駆動方式 "wikilink")と並んで最も一般的に用いられる駆動方式となっており、[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")や[北米などで主流となった](../Page/北アメリカ.md "wikilink")。[欧米](https://ja.wikipedia.org/wiki/欧米 "wikilink")ではクイル式駆動方式が主流であるが、近年ではWN駆動方式も増えつつある。
+
+## 問題点
+
+### 惰性走行時の騒音
+
+WN継手では、継手に力が掛かっていない惰性走行時、構造上、内部にある歯車の[公差](../Page/公差.md "wikilink")により騒音が発生してしまう。このため、一定以上の速度域では惰性走行時に極僅かに[回生ブレーキ](https://ja.wikipedia.org/wiki/回生ブレーキ "wikilink")をかけ、継手に負荷をかけて騒音を抑制するよう制御を行う車両\[14\]も存在する。また近年の車両では、歯車の設計において低[バックラッシュ化を行い](../Page/バックラッシュ_\(機械\).md "wikilink")、製造時に内部の歯車の公差を出来るだけ少なくして騒音を抑える努力をしているが、歯車の経年劣化により騒音が徐々に大きくなるため、根本的な解決には至っていない。 本方式の場合、内歯は単なる直歯インターナルギアであるが、外歯は芯ずれ変位を許容するため非常に大きな[クラウニング](https://ja.wikipedia.org/wiki/クラウニング "wikilink")を付与する必要があり、このような非常に大きなクラウニングを有する外歯ギヤは現在の技術をもってしても研磨盤が開発されておらず、あくまでも歯切り→焼き入れ→すり合わせという工程しかとれず、歯車の高精度化によるバックラッシュの縮小は困難であり、現在はモジュールの縮小による歯型の小型化により行われている、また無闇なバックラッシュの縮小は焼きつきの可能性を増加させるため難しい状態である。
+
+[東海道](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")・[山陽新幹線](https://ja.wikipedia.org/wiki/山陽新幹線 "wikilink")では、[700系JR東海所属編成](../Page/新幹線700系電車.md "wikilink")（C編成）のC19編成以降およびJR西日本所属編成を含む[N700系Z・N編成の](https://ja.wikipedia.org/wiki/新幹線N700系電車 "wikilink")[グリーン車](https://ja.wikipedia.org/wiki/グリーン車 "wikilink")にのみ[TD継手を採用するように変更し](https://ja.wikipedia.org/wiki/TD平行カルダン駆動方式 "wikilink")、騒音を抑制している\[15\]。
+
+## 脚注
+
+## 関連項目
+
+  - [吊り掛け駆動方式](https://ja.wikipedia.org/wiki/吊り掛け駆動方式 "wikilink")
+  - [カルダン駆動方式](https://ja.wikipedia.org/wiki/カルダン駆動方式 "wikilink")
+
+## 外部リンク
+
+  - [日本製鉄：製品情報/交通産機品/鉄道車両品](https://www.nipponsteel.com/product/railway-automotive-machinery-parts/list/02.html)
+
+[Category:機械](https://ja.wikipedia.org/wiki/Category:機械 "wikilink") [Category:歯車](https://ja.wikipedia.org/wiki/Category:歯車 "wikilink") [Category:鉄道車両における動力の伝達方式](https://ja.wikipedia.org/wiki/Category:鉄道車両における動力の伝達方式 "wikilink")
+
+1.  吊り掛け式のモーターは一般に定格回転数800 - 1,300rpm程度であったが、WN駆動に代表される新しい駆動方式では1,500 - 2,000rpm以上の高速モーターが多用される。
+2.  1953年7月22日竣工。営業運転は翌23日から開始された。
+3.  『京阪車輌竣工図集（戦後編\~S40）』、レイルロード、1990年、pp.63-66。
+4.  沖中忠順「京阪特急物語 -京阪特急を眺め,乗り,50年あれこれ-」『鉄道ピクトリアル No.695 2000年12月臨時増刊号』、電気車研究会、2000年、p.122。
+5.  福原俊一 『日本の電車物語 旧性能電車編 創業時から初期高性能電車まで』、JTBパブリッシング、2007年、pp.128・153 - 154
+6.  1953年11月21日竣工。
+7.  1953年10月完成。323を除き1954年1月5日竣工。
+8.  三菱電機の75kW主電動機とこれに対応するWN継手のセットの場合、長野電鉄向け狭軌セットの軸方向長さは同級出力の標準軌用に比して約300mmもの縮小で958mmに短縮されている（一方主電動機直径は55mm増大した）。またWH社原型の標準軌用WN継手が継手の許容軸偏位・駆動力伝達容量に相当な余裕を持っていることも割り出し、実用に問題のない範囲で偏位許容度を削る構造マージン切り詰めで小型化に振り向けた設計とした。三菱電機の技術者は、1955年当時、台車技術の発達で電車用新型台車の軸ばね剛性が比較的大きくなり、これによって車軸の変位が小さくなっていたことが、WN駆動への適性化ともなったことを指摘している（真鍋裕司「わが国におけるWN駆動の発達過程」『鉄道史学』第14号　[鉄道史学会](https://ja.wikipedia.org/wiki/鉄道史学会 "wikilink")1995年12月　p.41-p.48）。
+9.  全電動車とすると、車両製造コストの上昇や、変電所の負荷過大などの問題が伴う。
+10. 国鉄時代の車両すべて（[207系900番台を除く](../Page/国鉄207系電車.md "wikilink")）が直流直巻整流子式電動機を装架していたため、継手に割り当てられるスペースが限られていた。
+11. 在来線営業用車両では223系5000番台が該当。
+12. ただし、三菱電機との取引のない一部事業者（阪急電鉄、京王電鉄他）や、公開入札により資材を調達している[大阪市交通局](https://ja.wikipedia.org/wiki/大阪市交通局 "wikilink")などでは[日立製作所](../Page/日立製作所.md "wikilink")や[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")といった三菱電機以外の国内各電機メーカーが製作した電動機がWN継手と組み合わせて使用されている。
+13. 石本隆一「私鉄車両めぐり150 大阪市交通局」『鉄道ピクトリアル No.585 1993年12月臨時増刊号』、電気車研究会、1993年、pp.165 - 168。
+14. [JR西日本223系1000番台など](https://ja.wikipedia.org/wiki/JR西日本223系電車#1000番台 "wikilink")。
+15. JR西日本所属の700系B編成はグリーン車を含め全車WN継手を使用する。また、[九州新幹線](https://ja.wikipedia.org/wiki/九州新幹線 "wikilink")用の[800系や山陽](https://ja.wikipedia.org/wiki/新幹線800系電車 "wikilink")・九州直通用の[N700系7000番台](https://ja.wikipedia.org/wiki/新幹線N700系電車#山陽・九州新幹線（鹿児島ルート）直通用 "wikilink")（JR西日本所属のS編成）および[N700系8000番台](https://ja.wikipedia.org/wiki/新幹線N700系電車#山陽・九州新幹線（鹿児島ルート）直通用 "wikilink")（JR九州所属のR編成）でも全車WN継手を使用する。

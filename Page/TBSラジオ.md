@@ -1,0 +1,686 @@
+> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+
+
+[TBS_RADIO_company_rogo.gif](https://ja.wikipedia.org/wiki/File:TBS_RADIO_company_rogo.gif "fig:TBS_RADIO_company_rogo.gif")
+
+**株式会社TBSラジオ**（ティービーエスラジオ、）は、[東京放送ホールディングス](https://ja.wikipedia.org/wiki/東京放送ホールディングス "wikilink")（TBSHD）の[連結子会社](https://ja.wikipedia.org/wiki/連結子会社 "wikilink")で、[関東広域圏を](https://ja.wikipedia.org/wiki/広域放送#中波放送 "wikilink")[放送対象地域](../Page/放送対象地域.md "wikilink")とする[中波放送](https://ja.wikipedia.org/wiki/中波放送 "wikilink")（AMラジオ放送）事業を行っている[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。
+
+略称は厳密には存在してはいるが、[ラテ兼営時代の通称かつラジオ分社以降の呼出名称](https://ja.wikipedia.org/wiki/ラテ兼営#日本 "wikilink")（コールネーム）でもある現社名かグループ会社（兄弟会社）の[テレビ](../Page/テレビ.md "wikilink")単営局[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")共々**TBS**と表記される場合が多いため、略称が用いられる場合は滅多にない。
+
+AM周波数が954kHzであることから[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")向けには**TBSラジオ954**または**954 TBSラジオ**という呼称も使用されていたが、2015年12月7日より[FM補完中継局](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")が周波数90.5MHzで開始したことからジングル等の変更が行われた。
+
+[コーポレートメッセージは](https://ja.wikipedia.org/wiki/キャッチコピー#コーポレートスローガン "wikilink")「**聞けば、見えてくる。**」「**何かが始まる音がする**」。
+
+本項では、法人としての『株式会社TBSラジオ』、および放送局としての『TBSラジオ』について述べる。
+
+## 概要
+
+[1950年](../Page/1950年.md "wikilink")（昭和25年）、[電波監理委員会](https://ja.wikipedia.org/wiki/電波監理委員会 "wikilink")はラジオ民間放送への門戸開放について、当面は東京二局、その他一局に対し認可を認めることとした。これに対して個別に民間放送の準備を進めていた朝日放送、ラジオ日本、読売放送、東京放送といった新聞会社を母体とする四社は、[原安三郎](https://ja.wikipedia.org/wiki/原安三郎 "wikilink")らの仲介により合同を模索。開局申請を一本化することとし、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）1月10日に株式会社ラジオ東京（資本金一億五千万円）として電波監理委員会に申請書を提出した\[1\]。同年、[12月25日](../Page/12月25日.md "wikilink")に全国で6番目、東日本初の[民間放送](../Page/民間放送.md "wikilink")局として開局。当時の局名は**ラジオ東京**（ラジオとうきょう・社名も同じ）。後に[テレビジョン放送](https://ja.wikipedia.org/wiki/テレビジョン放送 "wikilink")事業に参入、[1960年](../Page/1960年.md "wikilink")（昭和35年）に社名を**東京放送**（とうきょうほうそう）に、ラジオ部門は**TBSラジオ**に改めた。
+
+[2000年](../Page/2000年.md "wikilink")（平成12年）[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")、東京放送の合理化の一環として、同局の[ラジオ番組](../Page/ラジオ番組.md "wikilink")の制作と、[広告](../Page/広告.md "wikilink")営業を主とするラジオ事業の現業全般を行う子会社として『**株式会社TBSラジオ&コミュニケーションズ**』（ティービーエスラジオ アンド コミュニケーションズ、*TBS Radio & Communications, Inc.* 略称 **TBS R\&C**）が設立され、翌[2001年](../Page/2001年.md "wikilink")（平成13年）[10月1日](../Page/10月1日.md "wikilink")、東京放送から中波放送の免許（[周波数](../Page/周波数.md "wikilink")954kHz、[コールサインJOKR](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊R "wikilink")）を承継し、[一般放送事業者](https://ja.wikipedia.org/wiki/一般放送事業者 "wikilink")（現・民間特定地上基幹放送事業者）に事業転換した。しかし、この時点で既に「TBSラジオ」の名の方が広く浸透していたためにその社名と略称はあまり用いられず、[2016年](../Page/2016年.md "wikilink")（平成28年）[4月1日](../Page/4月1日.md "wikilink")にその名に揃えて『株式会社TBSラジオ』に社名変更した。以降は**TBS R**を略称としているがそれすら同じ理由で全く定着していない\[2\]。結局のところ「TBS R\&C」「TBS R」共にTBSテレビと当社を厳密に区別するためだけに用いられるのが実態であり、[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")の放送局記号も本来はTBSテレビを意味する「TBS」、そのTBSテレビすら[JNN・JRN共同災害募金](https://ja.wikipedia.org/wiki/JNN・JRN共同災害募金 "wikilink")のウェブページで「**TBSをキーステーションとするJNN・JRN**」と記載する、自社で展開する[住宅展示場](https://ja.wikipedia.org/wiki/住宅展示場 "wikilink")も「[TBSハウジング](https://ja.wikipedia.org/wiki/TBSハウジング "wikilink")」等、その運営体系も手伝い分社後も東京放送時代からの流れで往々にしてTBSテレビと、ともすればTBSHDをもひとまとめにされる形で「TBS」と略記されるのが常であるまま現在に至る。
+
+その後、TBSグループの再編があり、東京放送から社名変更した[東京放送ホールディングス](https://ja.wikipedia.org/wiki/東京放送ホールディングス "wikilink")傘下に、テレビ放送事業者である[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")（当社同様、テレビ番組制作会社から事業転換）と、ラジオ放送事業者である当社が置かれる体制へ移行した。実際はテレビ・ラジオ両社は勿論[BS-TBS](https://ja.wikipedia.org/wiki/BS-TBS "wikilink")\[3\]もTBS放送センター内に本社・演奏所を置く、アナウンサーが後述の理由で3波共通、スタジオも一部共有するなど、事実上ラジオ東京がテレビに参入して以来相変わらずのラテ兼営局同然の運営体系を取っている。それでも会社が別に存在している以上、3社それぞれが[日本民間放送連盟](https://ja.wikipedia.org/wiki/日本民間放送連盟 "wikilink")の会員となっており、民放連でも「TBSテレビ＝TV単営」「TBSラジオ＝AM単営」「BS-TBS＝BS単営」（「TBSHD≠放送事業者→会員資格なし」）として扱われてはいる。
+
+[ラジオネットワーク](https://ja.wikipedia.org/wiki/ラジオネットワーク "wikilink")、[JRN（Japan Radio Network）の](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")であり、対抗となる[全国ラジオネットワーク](../Page/全国ラジオネットワーク.md "wikilink")（NRN）のキー局である[ニッポン放送](../Page/ニッポン放送.md "wikilink")や[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")とは異なり、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）秋の改編における『[ハローナイト](https://ja.wikipedia.org/wiki/ハローナイト "wikilink")』から、一時期ぶれこそあったものの、聴取者層の年齢をやや高めに設定した[アダルト](https://ja.wikipedia.org/wiki/アダルト "wikilink")路線をとってきた。年に6回実施されている[聴取率](../Page/聴取率.md "wikilink")調査（[レーティング](https://ja.wikipedia.org/wiki/レーティング "wikilink")）において、TBSラジオは「首都圏で一番聴かれているラジオ局」として、[2001年](../Page/2001年.md "wikilink")（平成13年）8月調査分以来[2016年](../Page/2016年.md "wikilink")（平成28年）4月調査分に至るまで、[首都圏におけるラジオ](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")[聴取率](../Page/聴取率.md "wikilink")では14年10ヶ月間・89期連続でトップを誇る\[4\]。連続首位を達成している背景として聴取率の調査対象者が[2001年](../Page/2001年.md "wikilink")（平成13年）10月期より69歳まで引き上げられたことが挙げられる\[5\]。
+
+[広報](https://ja.wikipedia.org/wiki/広報 "wikilink")[活動](https://ja.wikipedia.org/wiki/活動 "wikilink")の一環として、TBSラジオ番組パーソナリティの[インタビュー](https://ja.wikipedia.org/wiki/インタビュー "wikilink")や[イベント](../Page/イベント.md "wikilink")情報、[横浜ベイスターズ情報](../Page/横浜DeNAベイスターズ.md "wikilink")\[6\]や[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")などが掲載された[フリーペーパー](https://ja.wikipedia.org/wiki/フリーペーパー "wikilink")「TBSラジオPRESS」（2015年10月まで「954press」）を偶数月1回発行（[都営地下鉄](../Page/都営地下鉄.md "wikilink")駅や[イトーヨーカドー店舗](../Page/イトーヨーカ堂.md "wikilink")（東京都・埼玉県・神奈川県・千葉県）、TBSハウジングなどで配布）しており、郵送による取り寄せも受け付けている\[7\]。2018年からは「**TBSラジオfam（ファム）**」の名称で同誌の配布サービスを行う施設を募集している\[8\]。過去にはラジオ編成部による直出情報にて構成された[メールマガジン](../Page/メールマガジン.md "wikilink")「954プレスメール\!」\[9\]を毎週金曜日に配信していた。
+
+長期安定路線を歩みながら（2019年夏時点で、パーソナリティとして[森本毅郎](https://ja.wikipedia.org/wiki/森本毅郎 "wikilink")、[毒蝮三太夫](https://ja.wikipedia.org/wiki/毒蝮三太夫 "wikilink")など、番組としては『[歌のない歌謡曲](https://ja.wikipedia.org/wiki/歌のない歌謡曲 "wikilink")』が残る）、他のラジオ局から移籍してきたパーソナリティの起用（[ニッポン放送](../Page/ニッポン放送.md "wikilink")から移籍した[伊集院光](../Page/伊集院光.md "wikilink")や、[TOKYO FMにレギュラー出演していた](https://ja.wikipedia.org/wiki/エフエム東京 "wikilink")[ライムスター](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")[宇多丸](https://ja.wikipedia.org/wiki/宇多丸 "wikilink")など）、番組のゲストやコメンテーターなどからのパーソナリティ起用（[荻上チキ](https://ja.wikipedia.org/wiki/荻上チキ "wikilink")、[ジェーン・スー](https://ja.wikipedia.org/wiki/ジェーン・スー "wikilink")など）を行い、新しい血を取り入れている。
+
+ロゴマークは企業ロゴと放送局ロゴで分かれる。企業ロゴはグループ共通の「TBS」ロゴの右に「ラジオ」\[10\]（社名変更前は「RADIO &(改行) COMMUNICATIONS」）と書かれた青色のもので、放送局ロゴは「TBSラジオ」と書かれたオレンジ色のもの。うち放送局ロゴは現行のが「TBSラジオ AM954 + FM90.5」で「ジ」の濁音が「オ」の上部につながっている。先代のは「TBSラジオ 954kHz」で、「ラ」の上部にアンテナが描かれていた。
+
+[2000年代](../Page/2000年代.md "wikilink")後半以降では改編ごとに、20年以上続いた長寿番組でも終了を躊躇しない番組編成を行っている（下記参照）\[11\]。2017年秋には関東地区のAMラジオ局および在京キー局では初となる[プロ野球中継](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")からの撤退を発表した\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]。
+
+  - [2002年](../Page/2002年.md "wikilink")（平成14年） 秋終了…昼の話題→[秋山ちえ子の談話室](https://ja.wikipedia.org/wiki/秋山ちえ子の談話室 "wikilink")（後継で3年間続いた『[秋山ちえ子の日曜談話室](https://ja.wikipedia.org/wiki/秋山ちえ子の日曜談話室 "wikilink")』を含めると48年）
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年） 春終了…[牟田悌三・あなたのための税金相談](https://ja.wikipedia.org/wiki/牟田悌三・あなたのための税金相談 "wikilink")（24年半。『牟田悌三の税金相談』時代から半年間の中断期間を経て、このタイトルに変更）
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年） 秋終了…[全国こども電話相談室](https://ja.wikipedia.org/wiki/全国こども電話相談室 "wikilink")（約45年、内容が大きく変わるリニューアル、2015年（平成27年）3月を以ってリニューアル版である『[全国こども電話相談室・リアル\!](https://ja.wikipedia.org/wiki/全国こども電話相談室・リアル! "wikilink")』も終了。『リアル\!』も含めた場合通算約52年）
+  - [2009年](../Page/2009年.md "wikilink")（平成21年） 春終了…[バックグラウンド・ミュージック](https://ja.wikipedia.org/wiki/バックグラウンド・ミュージック "wikilink")（44年半）、[コサキンシリーズ](https://ja.wikipedia.org/wiki/コサキンDEワァオ! "wikilink")（27年半）
+  - 2009年（平成21年） 秋終了…[味の素 ハート・オブ・ポップス](https://ja.wikipedia.org/wiki/味の素_ハート・オブ・ポップス "wikilink")（23年半）、週末のプロ野球中継（終了時の番組名は『[TBSラジオ エキサイトベースボール](https://ja.wikipedia.org/wiki/TBSラジオ_エキサイトベースボール "wikilink")』。聴取率調査週間など不定期の放送に）
+  - [2012年](../Page/2012年.md "wikilink")（平成24年） 春終了…[ズバリ快答\!テレフォン身の上相談](https://ja.wikipedia.org/wiki/ズバリ快答!テレフォン身の上相談 "wikilink")（42年）
+  - 2012年（平成24年） 冬終了…[小沢昭一の小沢昭一的こころ](https://ja.wikipedia.org/wiki/小沢昭一の小沢昭一的こころ "wikilink")（40年。[小沢昭一](https://ja.wikipedia.org/wiki/小沢昭一 "wikilink")本人の逝去による[打ち切り](https://ja.wikipedia.org/wiki/打ち切り "wikilink")）
+  - [2013年](../Page/2013年.md "wikilink")（平成25年） 秋終了…[永六輔の誰かとどこかで](https://ja.wikipedia.org/wiki/永六輔の誰かとどこかで "wikilink")（46年9ヶ月。[永六輔](https://ja.wikipedia.org/wiki/永六輔 "wikilink")の体調を考慮したレギュラー放送の打ち切りで、その後は原則年4回の[特番として継続したが](https://ja.wikipedia.org/wiki/特別番組 "wikilink")、2016年7月に永本人が逝去した為、**2016年千秋楽**をもって完全完結。特番を含めると49年9ヶ月）
+  - [2015年](../Page/2015年.md "wikilink")（平成27年） 秋終了…[土曜ワイドラジオTOKYO 永六輔その新世界](https://ja.wikipedia.org/wiki/土曜ワイドラジオTOKYO_永六輔その新世界 "wikilink")（24年半。以後は『[六輔七転八倒九十分](https://ja.wikipedia.org/wiki/六輔七転八倒九十分 "wikilink")』として[月曜日](../Page/月曜日.md "wikilink")夜に放送していたが、永の体調が芳しくないため2016年夏に終了。その後、前述の通り永が逝去）
+  - [2016年](../Page/2016年.md "wikilink")（平成28年） 春終了…[大沢悠里のゆうゆうワイド](https://ja.wikipedia.org/wiki/大沢悠里のゆうゆうワイド "wikilink")（30年。以後は[土曜日版の週](https://ja.wikipedia.org/wiki/大沢悠里のゆうゆうワイド土曜日版 "wikilink")1回で放送）
+  - [2017年](../Page/2017年.md "wikilink")（平成29年） 秋終了…平日のプロ野球中継（59年6ヶ月。不定期の中継を含めると65年8ヶ月。先述のとおり週末の中継は2009年に撤退しているため、野球中継から全面撤退）
+  - [2019年](../Page/2019年.md "wikilink")（平成31年）春終了……[荒川強啓 デイ・キャッチ\!](https://ja.wikipedia.org/wiki/荒川強啓_デイ・キャッチ! "wikilink")（24年）
+
+### 聴取率
+
+TBSラジオの[聴取率](../Page/聴取率.md "wikilink")は長年ライバル局の[ニッポン放送](../Page/ニッポン放送.md "wikilink")や[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")の後塵を拝していたが、前述の通り、2001年以降は在京ラジオにおける聴取率単独首位を維持している。2018年2月26日から同年3月4日の個人聴取率調査でトップになり、2001年8月から100期連続1位を獲得したと伝えられた\[18\]\[19\]。
+
+その一方で、[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")を通してリアルタイムの聴取者数が把握できるようになった背景を理由として、調査週間における「スペシャルウィーク」の呼称、および期間内における特別な編成を2018年12月から取りやめるという方針を11月28日の定例会見において発表した。今後は改編期を中心として特別編成を行う予定としている\[20\]。
+
+## 放送局概要
+
+  - 開局 - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）[12月25日](../Page/12月25日.md "wikilink")（当時の局名は「ラジオ東京」。表記違いで番組名にも使用された）
+  - 免許継承 - [2001年](../Page/2001年.md "wikilink")（平成13年）[10月1日](../Page/10月1日.md "wikilink")（東京放送から継承）
+  - [呼出符号（コールサイン）](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊R "wikilink") - **JOKR**
+  - [呼出名称（コールネーム）](https://ja.wikipedia.org/wiki/識別信号#民間放送 "wikilink") - てぃいびいえすらじお
+  - 取締役会長 - 入江清彦\[21\]
+  - 代表取締役社長 - 三村孝成
+
+### 演奏所
+
+  - 本社演奏所 〒107-8001 [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂](https://ja.wikipedia.org/wiki/赤坂_\(東京都港区\) "wikilink")5丁目3番6号 [TBS放送センター](https://ja.wikipedia.org/wiki/TBSテレビ#TBS放送センター_\(ビッグハット\) "wikilink")
+  - 5:00起点の24時間放送であるが、[日曜日](../Page/日曜日.md "wikilink")深夜（[月曜日](../Page/月曜日.md "wikilink")午前1時）に[メンテナンス](https://ja.wikipedia.org/wiki/メンテナンス "wikilink")のため[放送休止](https://ja.wikipedia.org/wiki/放送休止 "wikilink")となる。
+
+### 支社・支局
+
+  - 横浜支局 〒231-0062 [横浜市](https://ja.wikipedia.org/wiki/横浜市 "wikilink")[中区](https://ja.wikipedia.org/wiki/中区_\(横浜市\) "wikilink")[桜木町](https://ja.wikipedia.org/wiki/桜木町_\(横浜市\) "wikilink")1丁目1番7号 [ヒューリックみなとみらい](https://ja.wikipedia.org/wiki/ヒューリックみなとみらい "wikilink")10階
+  - 大宮支局 〒330-8669 [さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[大宮区](https://ja.wikipedia.org/wiki/大宮区 "wikilink")[桜木町](https://ja.wikipedia.org/wiki/桜木町_\(さいたま市\) "wikilink")1丁目7番5号 [大宮ソニックシティ](https://ja.wikipedia.org/wiki/大宮ソニックシティ "wikilink")ビル28階
+  - 関西支社 〒530-0001 [大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[北区](../Page/北区_\(大阪市\).md "wikilink")[梅田](../Page/梅田.md "wikilink")2丁目5番25号 [ハービスOSAKA](https://ja.wikipedia.org/wiki/ハービスOSAKA "wikilink")11階
+  - 名古屋支局 〒460-0033 [名古屋市](../Page/名古屋市.md "wikilink")[中区](../Page/中区_\(名古屋市\).md "wikilink")[錦](https://ja.wikipedia.org/wiki/錦_\(名古屋市\) "wikilink")3丁目24番17号 [日本生命栄町ビル](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink")4階
+
+<!-- end list -->
+
+  -
+    ※横浜・大宮支局はTBSラジオ単独\[22\]、関西支社、名古屋支局はTBSHD・TBSテレビと同居。過去に広島支局を置いていた（1970年代〜1980年代）
+
+### 聴取手段
+
+#### 戸田送信所
+
+[TBS_Toda_transmitting_station_transmitting_antenna1.JPG](https://ja.wikipedia.org/wiki/File:TBS_Toda_transmitting_station_transmitting_antenna1.JPG "fig:TBS_Toda_transmitting_station_transmitting_antenna1.JPG")
+
+<table>
+<thead>
+<tr class="header">
+<th><p>周波数</p></th>
+<th><p>空中線電力</p></th>
+<th><p>所在地</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>954kHz</p></td>
+<td><p>100kW</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/埼玉県" title="wikilink">埼玉県</a><a href="../Page/戸田市.md" title="wikilink">戸田市</a><a href="https://ja.wikipedia.org/wiki/氷川町_(戸田市)" title="wikilink">氷川町</a>3丁目3番51号<br />
+（<a href="https://ja.wikipedia.org/wiki/戸田競艇場" title="wikilink">戸田競艇場</a>前）</p></td>
+<td><p>AM<a href="https://ja.wikipedia.org/wiki/モノラル放送" title="wikilink">モノラル放送</a><br />
+送信所の土地・建物はTBSHDの所有。送信設備の保守は自社で行っている[23]。</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 聴取可能エリア
+      - 同社が公表している聴取可能エリアは、関東地方の1都6県を完全にカバーしており、周辺県の50%（福島・長野50%、静岡70%、山梨100%、新潟5%各人口比）も良好〜実用上聴取可能な範囲としている\[24\]。
+      - [東京都島嶼部](https://ja.wikipedia.org/wiki/東京都島嶼部 "wikilink")（大島地区除く）では、送信所からの距離の関係で、一部の限られた狭い地域を除き、電波が[電離層](../Page/電離層.md "wikilink")に反射して届く夜間のみの受信に限られるが、2010年3月15日以降はradikoを利用することで、[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")回線必須ではあるが、安定して聴取可能となっている。
+      - [スピルオーバー](https://ja.wikipedia.org/wiki/スピルオーバー "wikilink")によって、終日北は[福島県](../Page/福島県.md "wikilink")[郡山市](https://ja.wikipedia.org/wiki/郡山市 "wikilink")、西は[山梨県](../Page/山梨県.md "wikilink")[富士吉田市](../Page/富士吉田市.md "wikilink")近辺、[静岡県](../Page/静岡県.md "wikilink")[中部まで聴取可能で](https://ja.wikipedia.org/wiki/静岡県の地域 "wikilink")、海上伝搬という特性により佐渡島南岸や能登半島東岸も比較的良好に受信できる。夜間は日本国内・近隣諸国を含めて他に954kHzを使用している中波放送が無いため全国的に聴取可能である。
+      - 但し、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[室蘭市](https://ja.wikipedia.org/wiki/室蘭市 "wikilink")、[滋賀県](../Page/滋賀県.md "wikilink")[彦根市](https://ja.wikipedia.org/wiki/彦根市 "wikilink")、[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[徳島市](https://ja.wikipedia.org/wiki/徳島市 "wikilink")、[長崎県](../Page/長崎県.md "wikilink")[五島市](https://ja.wikipedia.org/wiki/五島市 "wikilink")、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[青森市](https://ja.wikipedia.org/wiki/青森市 "wikilink")、[鳥取県](../Page/鳥取県.md "wikilink")[米子市](../Page/米子市.md "wikilink")、[山口県](../Page/山口県.md "wikilink")[萩市](../Page/萩市.md "wikilink")、[愛媛県](../Page/愛媛県.md "wikilink")[松山市](../Page/松山市.md "wikilink")、[佐賀県](../Page/佐賀県.md "wikilink")[佐賀市](https://ja.wikipedia.org/wiki/佐賀市 "wikilink")周辺では、[NHKラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")の周波数（945kHzまたは963kHz）が近いため、夜間でもやや聴取困難。
+  - 当地が使用不能になった場合に備え、赤坂社屋屋上に予備送信所（1kW）がある\[25\]。
+
+#### 墨田FM補完中継局
+
+2015年12月7日 13:00より、[FM補完中継局](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")からの放送を開始した\[26\]\[27\]\[28\]\[29\]。戸田送信所被災時に放送できなくなった時の対策や、都心部での[高層建築物](https://ja.wikipedia.org/wiki/高層建築物 "wikilink")による難聴取や雑音などの解消を目的として放送を行う。AM放送での補完目的で放送されるため、[AMと](../Page/振幅変調.md "wikilink")[FMの](../Page/周波数変調.md "wikilink")[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")となる。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>周波数</p></th>
+<th><p>空中線電力</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/実効輻射電力" title="wikilink">ERP</a></p></th>
+<th><p>所在地</p></th>
+<th><p>聴取可能エリア</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>90.5MHz</p></td>
+<td><p>7kW</p></td>
+<td><p>57kW[30]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="../Page/墨田区.md" title="wikilink">墨田区</a><a href="https://ja.wikipedia.org/wiki/押上" title="wikilink">押上</a>1丁目1番13号<br />
+（<a href="https://ja.wikipedia.org/wiki/東京スカイツリー" title="wikilink">東京スカイツリー</a>）</p></td>
+<td><p>東京都23区<br />
+埼玉県・千葉県・神奈川県の主要都市<br />
+および周辺</p></td>
+</tr>
+</tbody>
+</table>
+
+#### [radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")
+
+パソコン・スマートフォン向けに地上波放送と同じ番組やCMをサイマル配信するサービス。2010年3月15日の試験配信開始より参加しており、当初は南関東1都3県（東京・神奈川・埼玉・千葉）が配信エリアだったが、同年12月1日の本サービス以降は北関東3県（群馬・栃木・茨城）でも配信されている。音声はモノラルに変更された地上波とは異なり、引き続きステレオで実施\[31\]。
+
+放送局記号は前述の通りTBSテレビの略称である「TBS」。
+
+##### radikoプレミアム
+
+2014年4月1日開始。radiko公式サイトのプレミアム会員登録（有料）を行う事で、前述の通常配信対象地域である関東1都6県外の日本国内でもradikoを利用した聴取を可能にするもの。ただし、エリアフリー配信許諾の都合上、2014年4月から2018年4月まで、以下のレギュラー番組放送中は1都6県外での聴取を遮断、休止していた。
+
+  - [たまむすび](https://ja.wikipedia.org/wiki/たまむすび "wikilink")内『おもしろい大人・月刊[ニッキ](https://ja.wikipedia.org/wiki/錦織一清 "wikilink")』（第1水曜 15:00 - 15:30）
+      - 放送当日の13:00 - 15:00はエリアフリーでも配信。コーナー自体は15:20過ぎまでであるが、当日のエンディング、その後のCMまで休止し、15:30の『[荒川強啓 デイ・キャッチ\!](https://ja.wikipedia.org/wiki/荒川強啓_デイ・キャッチ! "wikilink")』開始と同時に配信を再開。タイムフリー配信においても同じ扱い。ただし、TBSラジオクラウドでは、音楽をカットした上で放送終了から1週間配信は行われていた。
+  - これ以外にも、[ジャニーズ事務所](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")所属タレントが各番組にゲスト出演する場合、出演部分及びその前後（ワイド番組の場合は基本的に15分区切り、箱番組の場合は全編）の配信を休止する他、特別番組に出演する場合も全編配信を休止していた（『たまむすび』など、ラジオクラウドでの配信がある番組の場合、通常通り配信は行われる）。
+
+なお、以下の番組は当初プレミアムでの配信が行われていなかったが、許諾処理を行った上で順次配信されるようになった。
+
+  - [林原めぐみのTokyo Boogie Night](../Page/林原めぐみのTokyo_Boogie_Night.md "wikilink") - 2014年6月以降配信。
+  - [今晩は 吉永小百合です](https://ja.wikipedia.org/wiki/今晩は_吉永小百合です "wikilink") - 2014年夏以降配信、ただし、2016年10月現在もほとんどのネット局でプレミアム配信が行われていない。
+  - [橋幸夫の地球楽団](https://ja.wikipedia.org/wiki/橋幸夫の地球楽団 "wikilink") - 2016年10月2日以降配信\[32\]。
+
+#### J:COMケーブルネットワーク
+
+2014年5月27日から[J:COMのケーブルネットワーク](https://ja.wikipedia.org/wiki/ジュピターテレコム "wikilink")（J:COMテレビのデータ放送の音声送信機能）を通じてのAMラジオ音声の再送信が行われている\[33\]。
+
+  - 聴取可能エリア 東京都、神奈川県、千葉県、埼玉県、群馬県、茨城県の各J:COMサービスエリア。2014年10月以降は[旧JCNエリアでも順次送信開始](https://ja.wikipedia.org/wiki/ジャパンケーブルネット "wikilink")。
+
+## 沿革
+
+[ラジオ東京放送開始.jpg](https://ja.wikipedia.org/wiki/File:ラジオ東京放送開始.jpg "fig:ラジオ東京放送開始.jpg") [RADIO_TOKYO_rogo.jpg](https://ja.wikipedia.org/wiki/File:RADIO_TOKYO_rogo.jpg "fig:RADIO_TOKYO_rogo.jpg")
+
+  - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）
+      - [4月21日](../Page/4月21日.md "wikilink") - 郵政省（現：総務省）より、ラジオ放送の予備免許が交付される。\[34\]
+      - [5月17日](../Page/5月17日.md "wikilink") - **株式会社ラジオ東京**設立。
+      - [12月15日](../Page/12月15日.md "wikilink") - 本免許交付（[コールサイン](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊R "wikilink")：**JOKR**、[周波数](../Page/周波数.md "wikilink")：**1130[kc](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")**、出力：**50[k](../Page/キロ.md "wikilink")[W](https://ja.wikipedia.org/wiki/ワット "wikilink")**）。
+      - [12月24日](../Page/12月24日.md "wikilink") - 開局式典を挙行。また、[新橋演舞場](https://ja.wikipedia.org/wiki/新橋演舞場 "wikilink")より開局前夜祭を挙行し、生中継で放送。
+      - [12月25日](../Page/12月25日.md "wikilink") - 6時30分、東京都千代田区[有楽町](https://ja.wikipedia.org/wiki/有楽町 "wikilink")1丁目（現在「[新有楽町ビルヂング](https://ja.wikipedia.org/wiki/新有楽町ビルヂング "wikilink")」がある位置）\[35\]の[毎日新聞東京本社](https://ja.wikipedia.org/wiki/毎日新聞東京本社 "wikilink")新館内のスタジオ\[36\]より全国6番目、[東日本](https://ja.wikipedia.org/wiki/東日本 "wikilink")で初の民間[中波ラジオ放送の](https://ja.wikipedia.org/wiki/中波放送 "wikilink")**本放送開始**。
+  - [1952年](../Page/1952年.md "wikilink")（昭和27年）[4月1日](../Page/4月1日.md "wikilink") - 23時、日本初の[深夜放送](https://ja.wikipedia.org/wiki/深夜放送 "wikilink")とされる占領軍\[37\]将兵及びその家族のための英語番組『イングリッシュ・アワー』開始\[38\]。
+  - [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")（昭和28年）
+      - [8月](../Page/8月.md "wikilink") - **周波数を950kcに変更**。1130kcは財団法人日本文化放送協会（現：[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")）に譲渡される。
+      - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - "KRT"を略称とする（「**K**abusikigaisha **R**adio **T**okyo」から由来するが、テレビ放送開始をにらんだ「JO**KR**-**T**V」にも因むといわれる。実際、TBSテレビの源流となるラジオ東京テレビはこのコールサインで開業しているが、世間一般にはほとんど浸透していなかった。最終的にJOKR-TVのコールサインは後述の理由で返上したため「JOKR-DTV」は存在しない）。
+  - [1954年](../Page/1954年.md "wikilink")（昭和29年）[10月26日](../Page/10月26日.md "wikilink") - [浪曲](https://ja.wikipedia.org/wiki/浪曲 "wikilink")の素人のど自慢番組『[浪曲天狗道場](https://ja.wikipedia.org/wiki/浪曲天狗道場 "wikilink")』開始。人気を博す。（翌30年以降の聴取率調査では20％前後を保ち、放送終了までの6年間、民放首位の座にあった\[39\]）
+  - [1955年](../Page/1955年.md "wikilink")（昭和30年）
+      - 1月 - 民放初のCM効果調査を実施\[40\]。
+      - 4月1日 - テレビ本放送開始\[41\]。
+  - [1956年](../Page/1956年.md "wikilink")（昭和31年）
+      - 11月 - [メルボルンオリンピック](https://ja.wikipedia.org/wiki/メルボルンオリンピック "wikilink")の中継を実施（民放初の五輪中継）\[42\]。
+  - [1958年](../Page/1958年.md "wikilink")（昭和33年） - [東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")を[冠スポンサー](https://ja.wikipedia.org/wiki/冠スポンサー "wikilink")に迎え『東芝ナイター』として日曜日夜の[プロ野球中継](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")を開始。『[TBSラジオ エキサイトベースボール](https://ja.wikipedia.org/wiki/TBSラジオ_エキサイトベースボール "wikilink")』の前身。
+  - [1960年](../Page/1960年.md "wikilink")（昭和35年）[11月29日](../Page/11月29日.md "wikilink") - 株式会社ラジオ東京が「**株式会社東京放送**」と商号変更し、略称を「**TBS**」とする\[43\]。当時の新聞の番組表には、「**東京ラジオ**」と表記されていた。
+  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Tokyo_Broadcasting_System_cursive_logo.svg "wikilink")
+
+:\* 8月 - 業務用マーク制定（原案：当時の社長 今道潤三、制作：市川景）。電波のイメージと筆記体の「TBS」をアレンジしたもので、CI導入の1991年まで長く使用された。ラジオ用としてはこのロゴの横に斜体で「ラジオ」、さらに周波数のロゴを付け加えていた。 [thumb](https://ja.wikipedia.org/wiki/ファイル:TBS_\(JOKR\)_headquarters_1961.jpg "wikilink")
+
+:\* [10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") - 東京都港区赤坂一ツ木町（現在の**赤坂5丁目**）のテレビスタジオ隣に、**本社社屋**（初代TBS本社、後の「[赤坂メディアビル](https://ja.wikipedia.org/wiki/赤坂メディアビル "wikilink")」）**完成**。ラジオスタジオおよび、本社機構を**有楽町の毎日新聞社から移転**。
+
+:\* [12月1日](../Page/12月1日.md "wikilink") - 社名呼称を「**TBS**」に統一（公用文等を除き、原則「東京放送」を使用しない）。 [TBS_RADIO_old_rogo.jpg](https://ja.wikipedia.org/wiki/File:TBS_RADIO_old_rogo.jpg "fig:TBS_RADIO_old_rogo.jpg")
+
+  - [1962年](../Page/1962年.md "wikilink")（昭和37年） - 日本初のラジオ1波による、[AMステレオ](https://ja.wikipedia.org/wiki/AMステレオ "wikilink")放送の実験放送をコールサイン「**JO2KR**」で放送終了後の深夜で行う（[1964年](../Page/1964年.md "wikilink")（昭和39年）まで。AM/FM方式）。
+  - [1965年](../Page/1965年.md "wikilink")（昭和40年）[5月2日](../Page/5月2日.md "wikilink") - ラジオネットワーク[「JRN」（Japan Radio Network）を結成](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")。
+  - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）[11月](../Page/11月.md "wikilink") - **ラジオの出力を100kWに増力**。
+  - [1974年](../Page/1974年.md "wikilink")（昭和49年）4月1日 - それまでの[読売新聞社](https://ja.wikipedia.org/wiki/読売新聞グループ本社 "wikilink")・[朝日新聞社](https://ja.wikipedia.org/wiki/朝日新聞社 "wikilink")・[毎日新聞社](https://ja.wikipedia.org/wiki/毎日新聞社 "wikilink")3社の交互提供による、『[3社ニュース](https://ja.wikipedia.org/wiki/読売・朝日・毎日3社ニュース#ラジオ版 "wikilink")』を取り止め、TBS報道部の自主編集による『[TBSニュース](https://ja.wikipedia.org/wiki/TBSニュース#ラジオ "wikilink")』の放送を開始。
+
+[TBS_RADIO_cursive_rogo.jpg](https://ja.wikipedia.org/wiki/File:TBS_RADIO_cursive_rogo.jpg "fig:TBS_RADIO_cursive_rogo.jpg")
+
+  - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）[11月23日](../Page/11月23日.md "wikilink") - [国際電気通信連合](../Page/国際電気通信連合.md "wikilink")（ITU）の取り決めで、ラジオの周波数が9[kHzステップへ移行](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")。それに伴い、午前5時をもって周波数をこれまでの「**950kHz**」から「**954kHz**」に変更。なお、受信機の指針の位置はほとんどズレなかった。
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）[12月2日](../Page/12月2日.md "wikilink") - 創立40周年事業として、宇宙特派員・[秋山豊寛](https://ja.wikipedia.org/wiki/秋山豊寛 "wikilink")を乗せた宇宙船（[ソユーズ](https://ja.wikipedia.org/wiki/ソユーズ "wikilink")）を[ソ連](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")・[カザフスタン](../Page/カザフスタン.md "wikilink")の[バイコヌール宇宙基地](https://ja.wikipedia.org/wiki/バイコヌール宇宙基地 "wikilink")から打ち上げる（「[TBS宇宙プロジェクト](https://ja.wikipedia.org/wiki/日本人初!宇宙へ "wikilink")」）。打ち上げの様子をラジオでの生放送による実況中継を行った。
+
+[Tokyo_Broadcasting_System_logo_1991-1994.jpg](https://ja.wikipedia.org/wiki/File:Tokyo_Broadcasting_System_logo_1991-1994.jpg "fig:Tokyo_Broadcasting_System_logo_1991-1994.jpg")
+
+  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")（平成3年）[9月30日](../Page/9月30日.md "wikilink")、[新CI](https://ja.wikipedia.org/wiki/コーポレートアイデンティティ "wikilink")（ミクロコスモス）導入。ラジオ用としては併用のゴシック体で「TBS RADIO 954」と表記。これに伴い、[筆記体](https://ja.wikipedia.org/wiki/筆記体 "wikilink")マークを廃止。
+  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")（平成4年）[3月15日](../Page/3月15日.md "wikilink") - 午前9時、ラジオの**[AMステレオ放送](https://ja.wikipedia.org/wiki/AMステレオ放送 "wikilink")の本放送を開始**\[44\]。
+  - [1994年](../Page/1994年.md "wikilink")（平成6年） [thumb](https://ja.wikipedia.org/wiki/ファイル:TBS_logo.svg "wikilink")
+      - [1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink") - 新放送センター完成を前に、VI委員会が新しいロゴの採用を決定。1991年に路線転換されたCIの象徴であった「ミクロコスモス」によるシンボルマークは廃止された。新たなロゴはTBSビジョンデザイン部・小河原義一原案による[Times New Romanの](https://ja.wikipedia.org/wiki/タイムズ・ニュー・ローマン "wikilink")[太字](https://ja.wikipedia.org/wiki/太字 "wikilink")\[45\]が採用された。放送局ロゴ制定までは企業ロゴをラジオ用に使用。
+      - [10月3日](../Page/10月3日.md "wikilink") - **現社屋の「[TBS放送センター](https://ja.wikipedia.org/wiki/TBSテレビ#TBS放送センター_\(ビッグハット\) "wikilink")」（愛称：ビッグハット）に移転**。
+  - [2000年](../Page/2000年.md "wikilink")（平成12年）3月21日 - 東京放送の完全子会社として、「**株式会社ティ・ビー・エス・ラジオ・アンド・コミュニケーションズ**」（TBS R\&C）設立。手始めに東京放送よりラジオ放送事業の送信・経理部門を除く現業全般を業務委託される。
+
+[TBS_RADIO_rogo_2001-2006.jpg](https://ja.wikipedia.org/wiki/File:TBS_RADIO_rogo_2001-2006.jpg "fig:TBS_RADIO_rogo_2001-2006.jpg")
+
+  - [2001年](../Page/2001年.md "wikilink")（平成13年）10月1日 - 東京放送から中波放送局の免許を承継。これに伴い、[呼出名称だった](https://ja.wikipedia.org/wiki/識別信号#民間放送 "wikilink")「とうきょうほうそう」を廃止。TBS R\&Cが一般放送事業者に事業転換して呼出符号「**JOKR**」を継承、呼出名称は「てぃいびいえすらじお（TBSラジオ）」を付与された。これに伴い逆にテレビ単営局に事業転換した東京放送は呼出符号「JOKR-TV」を廃止・返上、新たに呼出符号「**JORX-TV**」（後「JORX-DTV」）、呼出名称「TBSテレビジョン」が付与された（その免許もその後、2009年の東京放送の[持株会社化の際にTBSテレビ](https://ja.wikipedia.org/wiki/放送持株会社 "wikilink")\[46\]が承継して一般放送事業者に事業転換している）。
+  - [2003年](../Page/2003年.md "wikilink")（平成15年）
+
+<!-- end list -->
+
+  -   - [10月10日](../Page/10月10日.md "wikilink") - [デジタルラジオ](https://ja.wikipedia.org/wiki/デジタルラジオ "wikilink")の実用化試験放送開始\[47\]
+
+  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）[6月20日](../Page/6月20日.md "wikilink") - [メールアドレス](https://ja.wikipedia.org/wiki/メールアドレス "wikilink")の[ドメイン名](https://ja.wikipedia.org/wiki/ドメイン名 "wikilink")が「@best.tbs.co.jp」から「@tbs.co.jp」へ変更された\[48\]。
+
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）
+
+      - 4月1日 - 会社法令の改正で英字を社名に使えるようになったことから「**株式会社TBSラジオ&コミュニケーションズ**」に商号変更。
+      - [10月3日](../Page/10月3日.md "wikilink") - [ポッドキャスティングサービス](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")「[TBS RADIO podcasting954](https://ja.wikipedia.org/wiki/TBS_RADIO_podcasting954 "wikilink")」を開始。
+
+[TBS_RADIO_rogo_2006-2015.png](https://ja.wikipedia.org/wiki/File:TBS_RADIO_rogo_2006-2015.png "fig:TBS_RADIO_rogo_2006-2015.png")
+
+  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）4月1日 - クラシック音楽専門のデジタルラジオ放送局「[OTTAVA](https://ja.wikipedia.org/wiki/OTTAVA "wikilink")」（オッターヴァ）を、デジタルラジオ放送9202chで、放送開始。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[9月29日](../Page/9月29日.md "wikilink") - デジタルラジオ放送9203ch（203ch）「[TBSラジオデジタル](https://ja.wikipedia.org/wiki/TBSラジオデジタル "wikilink")」にて、AM放送のサイマル放送を開始\[49\]\[50\]。
+  - [2009年](../Page/2009年.md "wikilink")（平成21年）4月1日 - TBSグループの[放送持株会社](https://ja.wikipedia.org/wiki/放送持株会社 "wikilink")化移行により、親会社の社名が「株式会社[東京放送ホールディングス](https://ja.wikipedia.org/wiki/東京放送ホールディングス "wikilink")」（TBSHD）となる。
+
+<!-- end list -->
+
+  -
+    同時に、デジタルラジオ事業の運営がTBS R\&CからTBSHDへ移管される\[51\]。
+    また、同日より、デジタルラジオでのサイマル放送「[TBSラジオデジタル](https://ja.wikipedia.org/wiki/TBSラジオデジタル "wikilink")」が24時間放送に拡大\[52\]。
+
+<!-- end list -->
+
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）
+      - [3月15日](../Page/3月15日.md "wikilink") - 他の在京ラジオ6局と共同で、インターネットのIPサイマル放送「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」の試験配信を開始（[南関東](https://ja.wikipedia.org/wiki/南関東 "wikilink")-1都3県限定）\[53\]\[54\]。
+      - 12月1日 - 他の在京ラジオ6局と同時に、インターネットのIPサイマル放送「radiko」の正式配信を開始。同時に、それまでの南関東-1都3県から、サービスエリアを、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")・[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")・[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")を含む、関東地方全域-1都6県に拡大\[55\]\[56\]。
+  - [2011年](../Page/2011年.md "wikilink")（平成23年）
+      - [1月31日](../Page/1月31日.md "wikilink")（1月30日） - 1月30日放送分の[クロージング](https://ja.wikipedia.org/wiki/#オープニング・クロージング "wikilink")、1:33（1月30日深夜25:33）を以って、19年間に渡って実施された**[AMステレオ放送](https://ja.wikipedia.org/wiki/AMステレオ放送 "wikilink")を終了**\[57\]。関東地方での転換局としては初めての廃止\[58\]。その際、AMステレオ終了に関する告知は行われなかった。その直後から試験放送に入り、ステレオとモノラルの両方で行われていたが、最終的に午前3時3分をもって、AMステレオによる試験放送は終了となった。3時5分より完全にモノラル音声の試験放送となり、午前4時前の[オープニングから](https://ja.wikipedia.org/wiki/#オープニング・クロージング "wikilink")、従来のモノラル放送に戻った。この転換は在京局では初の事例となった。なお、[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")については引き続き、ステレオ配信を行っている\[59\]。
+      - [3月11日](../Page/3月11日.md "wikilink") - [東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）発生。他の在京ラジオ局と共に、史上初の「[ラジオ災害情報交差点](https://ja.wikipedia.org/wiki/ラジオ災害情報交差点 "wikilink")」発動。
+  - [2012年](../Page/2012年.md "wikilink")（平成24年）10月1日 - 関連会社の番組制作会社「[ティーエーシー](https://ja.wikipedia.org/wiki/ティーエーシー "wikilink")」と「[テレコムサウンズ](https://ja.wikipedia.org/wiki/テレコムサウンズ "wikilink")」が合併して「[TBSプロネックス](https://ja.wikipedia.org/wiki/TBSプロネックス "wikilink")」となった。
+  - [2013年](../Page/2013年.md "wikilink")（平成25年） - 4月改編にて日曜早朝4:00 - 5:00が放送休止となり、月曜未明と合わせ週2回休止時間が生じることになった（週間番組表・radiko番組表上では「**フィラー音楽放送**」と表記\[60\]）。これは10月改編まで続いた（10月より[万田発酵 presents 朝ドレ情報いちばんをこの時間帯に放送しフィラー状態は解消](https://ja.wikipedia.org/wiki/万田発酵_presents_朝ドレ情報いちばん "wikilink")）。
+  - [2014年](../Page/2014年.md "wikilink")（平成26年）
+      - 4月1日 - 「radiko.jpプレミアム」サービス開始と同時に参加。プレミアム会員登録（有料）によりほとんどの番組を日本全国から聴取する事が可能になる。
+      - [9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink") - 総務省より**[FM補完中継局](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")の予備免許を付与される**。周波数**90.5MHz**、出力**7kW**\[61\]\[62\]\[63\]。
+  - [2015年](../Page/2015年.md "wikilink")（平成27年）
+      - [7月13日](../Page/7月13日.md "wikilink") - FMサイマル放送開始を見据え、新ロゴマークを発表。当日より順次新ロゴへの移行を開始\[64\]。
+      - [10月5日](../Page/10月5日.md "wikilink") - FM補完放送の試験電波発射開始\[65\]\[66\]。
+      - [12月7日](../Page/12月7日.md "wikilink") - 13:00から[東京スカイツリー](https://ja.wikipedia.org/wiki/東京スカイツリー "wikilink")の墨田FM補完中継局より、**FMによるサイマル放送開始**\[67\]\[68\]。これを記念して在京3局合同記念特番『[FMでもキキマス\!ゴールデンたまむすび](https://ja.wikipedia.org/wiki/FMでもキキマス!ゴールデンたまむすび "wikilink")』を東京スカイツリー天望デッキから生放送\[69\]。
+  - [2016年](../Page/2016年.md "wikilink")（平成28年）
+      - [3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")・[7日](../Page/3月7日.md "wikilink") - 翌月の社名変更に先駆けて公式サイトの全面リニューアルを実施。TBSテレビ（新サイトでは「TBSテレビ」と「TBS」のいずれでもなく「TBS TV」と表記）のサブページから独立した（「tbs.co.jp/radio/」 → 「tbsradio.jp」\[70\]）。なお、新サイトのコピーライト表記は社名変更前から「TBS Radio & Communications, Inc.」から「TBS RADIO, Inc.」に変更されていた。また、企業情報のページは社名変更後もTBSテレビのサーバーに引き続き置かれている\[71\]。メールサーバーも新設せずTBSテレビのそれを共用し続けているため、社名変更後に放送を開始した番組のメールアドレスも「（番組名等）@tbs.co.jp」を維持\[72\]。
+      - 4月1日 - 社名・商号を「**株式会社TBSラジオ**」に変更\[73\]。これにより、対外呼称、呼出名称、社名が統一。
+      - [6月6日](../Page/6月6日.md "wikilink") - クラウド型ラジオサービス「[TBSラジオクラウド](https://ja.wikipedia.org/wiki/ラジオクラウド "wikilink")」を開始。これに合わせる形で同月30日をもってポッドキャスティングサービスを終了すると発表。これまでポッドキャストで提供してきたコンテンツはTBSラジオクラウドに移行する\[74\]。
+  - [2017年](../Page/2017年.md "wikilink")（平成29年） [11月30日](../Page/11月30日.md "wikilink") - [プロ野球中継](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")を本年限りで止める旨発表\[75\]\[76\]。プロ野球中継が60年の歴史に幕を下ろした。
+  - [2018年](../Page/2018年.md "wikilink")（平成30年） [12月8日](../Page/12月8日.md "wikilink") - AM放送を送信する戸田送信所の使用電力を、100％再生可能エネルギーに切り替える。\[77\]
+  - [2020年](../Page/2020年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")2年） 4月1日 - 開局70周年を控え、TBSのグループ会社で用いるコーポレートロゴを一新する予定\[78\]。それに伴い、企業ロゴ・放送局ロゴが変更されるかは不明。
+
+### 補足
+
+TBSラジオ（東京放送）の新聞[ラ・テ等番組表のおける表記は](https://ja.wikipedia.org/wiki/番組表 "wikilink")、ラジオ東京時代（1951年12月25日 - 1960年11月28日）は「**ラジオ東京**」（コールサインの「JOKR」、または「KR」を併記）、東京放送に商号変更後の1960年11月29日 - 1961年11月30日までは「**東京ラジオ**」（東京放送ラジオ）\[79\]としていたが、「TBS」に対外呼称を統一した1961年12月1日以降は「**TBSラジオ**」となっている。
+
+## スタジオ
+
+TBS放送センターの9階に集約されており、第2 - 第8スタジオの計7つのラジオスタジオを構える。
+
+  - 第2・第3・第4スタジオ： 収録番組で使用する録音スタジオ。
+  - 第5スタジオ： ラジオCM専用の録音スタジオ。
+  - 第6スタジオ：生放送・録音スタジオ。
+  - 第7・第8スタジオ： 生放送スタジオ。
+
+<!-- end list -->
+
+  -
+    TBSラジオの多くの生番組は、第6・7・8スタジオを交互に使用している。隣接している第7・8の両スタジオは仕切りガラスで区切られているのみの為放送中のクロストークもしばしば行われる（『[ジェーン・スー 生活は踊る](https://ja.wikipedia.org/wiki/ジェーン・スー_生活は踊る "wikilink")』と『[たまむすび](https://ja.wikipedia.org/wiki/たまむすび "wikilink")』、『[土曜ワイドラジオTOKYO ナイツのちゃきちゃき大放送](https://ja.wikipedia.org/wiki/土曜ワイドラジオTOKYO_ナイツのちゃきちゃき大放送 "wikilink")』と『[久米宏 ラジオなんですけど](https://ja.wikipedia.org/wiki/久米宏_ラジオなんですけど "wikilink")』など）。このガラスは通常カーテンが閉められているが、クロストークの時に開けている。
+
+スタジオのマイクは、文化放送・ニッポン放送・TOKYO FMなど大概のラジオ局で見られる卓上式ではなく、天井から吊るされたものが使われている。またレール式になっており、マイクの位置を左右に動かすことも可能である。この形のマイクは各スタジオに4本ずつあり、増設するときは卓上式のものを追加して使用する。また、TBSラジオでは大概のラジオ局に見られる[カフスイッチ](https://ja.wikipedia.org/wiki/カフスイッチ "wikilink")が存在せず、マイクのオン・オフをミキサーが行っている。そのため、ブースのテーブルには時刻確認用の時計の上にオンかどうかを知らせるタリーランプがついており、パーソナリティはそれを注視する\[80\]。ただし、咳が出そうなときのために時計に付属される形で「ミュートスイッチ」が設置されており、それを押し下げることで一時的に放送上に乗らないようにすることができるシステムとなっている。この時計には社名変更後もTBS R\&C時代の企業ロゴがそのまま描かれている\[81\]。
+
+### 過去に使用していたスタジオ
+
+  - 第1スタジオ： 8階にある公開放送や公開収録が可能な大型スタジオだった。増加しているスタジオ需要に対応するため、2018年にマルチユーススタジオに改修。名称を「Gスタジオ」に改めた。テレビ・ラジオ・インターネット配信などに対応しているが、改修時にTBSテレビへ運用を移管したためTBSラジオの手からは離れている\[82\]。これにより、ラジオフロアが9階に集約された。
+
+## 番組
+
+## アナウンサー
+
+TBSラジオは自社でアナウンサーを雇用しておらず、会社法上、番組毎に兄弟会社のTBSテレビから出向してきている。[BS-TBS](https://ja.wikipedia.org/wiki/BS-TBS "wikilink")も同様の体制を採っているためにTBSグループのアナウンサーは地上波テレビ・地上波ラジオ・BSの3波で共通になっている。
+
+この「ラテ兼営局から分社したラジオ単営局では原則アナウンサーを自社雇用せずに関連会社のテレビ単営局から番組毎に出向してくる」体制は、後に同じくラジオを分社化した[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（親会社・[札幌テレビ放送](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")から）\[83\]・[CBCラジオ](https://ja.wikipedia.org/wiki/CBCラジオ "wikilink")（兄弟会社・[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")から）・[朝日放送ラジオ](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink")（兄弟会社・[朝日放送テレビ](https://ja.wikipedia.org/wiki/朝日放送テレビ "wikilink")から。更には[スカイ・エー](https://ja.wikipedia.org/wiki/スカイ・エー "wikilink")も同様の体制で[朝日放送グループのアナウンサーはTBSグループ同様](../Page/朝日放送グループホールディングス.md "wikilink")3波共通）も採用したことで、[事実上のラテ兼営局共通の特徴と化している](https://ja.wikipedia.org/wiki/ラテ兼営#同一の認定放送持株会社傘下で運営されているもの "wikilink")。
+
+## TBSラジオキャスター
+
+**TBSラジオキャスター**（旧称：TBS954キャスタードライバー→TBS954情報キャスター）は、主に各番組内で街中からのリポート、[交通情報](https://ja.wikipedia.org/wiki/交通情報 "wikilink")を担当している。（＊は交通情報担当経験者、楠葉は現役）また、時折『[クラブ954](https://ja.wikipedia.org/wiki/クラブ954スペシャル "wikilink")』などの番組や土日を中心としたニュース読みを担当するほか、稀にレギュラー[パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")（おもにアシスタント）の代役として出演することもある。なお所属はTBSラジオではなく、関連会社の番組制作会社[TBSグロウディア](https://ja.wikipedia.org/wiki/TBSグロウディア "wikilink")（旧[ティーエーシー](https://ja.wikipedia.org/wiki/ティーエーシー "wikilink")→[TBSプロネックス](https://ja.wikipedia.org/wiki/TBSプロネックス "wikilink")）である。
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+  - [加藤奈央](https://ja.wikipedia.org/wiki/加藤奈央 "wikilink")＊（神奈川）
+  - [楠葉絵美](https://ja.wikipedia.org/wiki/楠葉絵美 "wikilink")＊（千葉→警視庁）
+
+</div>
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+  - [久保絵理紗](https://ja.wikipedia.org/wiki/久保絵理紗 "wikilink")
+  - [田中ひとみ](https://ja.wikipedia.org/wiki/田中ひとみ "wikilink")
+
+</div>
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+  - [柳沢怜](https://ja.wikipedia.org/wiki/柳沢怜 "wikilink")＊（神奈川）
+
+</div>
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+</div>
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+</div>
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+</div>
+
+## 交通情報
+
+「**TBSラジオ交通情報**」と呼称。ワイドFM開始前は「**954 TBSラジオ交通情報**」。90年代の「[岸谷五朗の東京RADIO CLUB](https://ja.wikipedia.org/wiki/岸谷五朗の東京RADIO_CLUB "wikilink")」内に限り「**東京トラフィック・ナウ**」とも呼称した。
+
+[日本道路交通情報センター](https://ja.wikipedia.org/wiki/日本道路交通情報センター "wikilink")から情報提供を受けている他局とは違い、TBSラジオは曜日を問わずほぼすべての回で[警視庁](https://ja.wikipedia.org/wiki/警視庁 "wikilink")交通管制センターTBSスタジオの専属キャスター（女性のみ）より情報提供されている。日本道路交通情報センターによる情報は平日の14時台後半の1回のみである（首都高速道路会社本部内の首都高速センターと中継\[84\]）。放送時間は概ね20分台と50分台、日曜の場合は『[爆笑問題の日曜サンデー](https://ja.wikipedia.org/wiki/爆笑問題の日曜サンデー "wikilink")』開始前の12時59分から時報CM開始までスポット枠で交通情報が入る。交通情報は、パーソナリティーからの呼びかけに「はい」または「はい、お伝えします」の一言で始まり、その直後に時間帯に応じて「こんにちは」などの挨拶を言う場合がある。アナウンス終了時はキャスター本人の名前は名乗らず「以上です」または「警視庁から以上です」で締める。生ワイド番組の場合は最後に「今日も一日よろしくお願いします。」とパーソナリティーに挨拶する場合もある。時間がある時はスタジオのパーソナリティーと前後に掛け合いが入ることもある。なお、スポット枠のように、呼びかける人がいない場合でも、名乗らずに終わる。スポット枠の場合はパーソナリティの代わりに次の放送時間を告知する。
+
+　さらに、2019年（令和元年）9月27日までの平日\[85\]昼間\[86\]の毎時1回目の交通情報では隣接県（[神奈川県](https://ja.wikipedia.org/wiki/神奈川県警察 "wikilink")・[埼玉県](https://ja.wikipedia.org/wiki/埼玉県警察 "wikilink")・[千葉県](https://ja.wikipedia.org/wiki/千葉県警察 "wikilink")）の県警の交通管制センターにも専属キャスターまたはTBSラジオキャスターを配置し、警視庁からの報告に続ける形で放送を行っていた。原則的には、警視庁→神奈川→埼玉→千葉の順で放送されていたが、例外的に2017年度に放送されていた[都市型生活情報ラジオ 興味Rでは変則的な順番で放送されることも多かった](https://ja.wikipedia.org/wiki/都市型生活情報ラジオ_興味R "wikilink")。なお、県警発がある番組のうちほとんど\[87\]は、パーソナリティーが「警視庁から続けてお願いします、警視庁の○○さん。」と警視庁担当者のみ呼びかけ、警視庁以外の担当者は最後に「（神奈川/埼玉/千葉）から○○でした」と名乗っていた。最後になる千葉のキャスターは「◯◯さん（パーソナリティ名）さんどうぞ」などとスタジオに返すこともある\[88\]。なお、『アフター6ジャンクション』内の18時15分頃の交通情報では警視庁の後はその都度、一旦スタジオに戻してから神奈川・埼玉・千葉を呼びかけ、最後に警視庁・神奈川・埼玉・千葉をもう一度繋いで、スタジオの計らいで運転中のドライバーへのメッセージを言って終わるという他時間帯とは異なるフォーマットになっていた。
+
+BGMは番組によって異なる\[89\]。交通情報開始時のジングルは同局内で統一されたメロディーではあるものの、各番組によってステレオ音声の左右のチャンネルが異なっている。また、全国ネットの生番組ではジングルは無く、各番組独自のBGMに乗って始まる\[90\]。
+
+限られた時間内により多くの情報を伝えるため、キャスターによるアナウンスは言葉の簡潔化が図られている。例えば、通常の日本道路交通情報センターの場合「中央自動車道上り線、相模湖と八王子の間の小仏トンネルで20キロの渋滞です。渋滞通過に90分かかっております」というところ、TBSラジオでは「中央道上り小仏トンネル20キロ、通過に90分」と短く、また、[高速道路のインターチェンジを言う場合](../Page/日本の高速道路.md "wikilink")、「○○インター」の「インター」を飛ばしてアナウンスする傾向が強い。[3桁国道の場合](../Page/国道.md "wikilink")、頻繁に出てくる[国道246号](../Page/国道246号.md "wikilink")、[国道254号](../Page/国道254号.md "wikilink")、[国道298号](https://ja.wikipedia.org/wiki/国道298号 "wikilink")、[国道357号](https://ja.wikipedia.org/wiki/国道357号 "wikilink")などは数字のみで（ニーヨンロク・ニーゴーヨンなど）呼ぶ場合もある。
+
+警視庁管轄なので建物火災による交通規制や渋滞を伝える場合、火災現場の住所や出動した消防車の台数、怪我人の数など、交通事故の場合は具体的な事故現場の住所、事故車輌の数、怪我人の数などを詳細に伝える。[三社祭](https://ja.wikipedia.org/wiki/三社祭 "wikilink")などイベント等で交通規制がある場合、それも伝える。キャスターのアナウンスには各個人に個性があり、例えば[阿南京子](https://ja.wikipedia.org/wiki/阿南京子 "wikilink")においては頻度は少ないが渋滞中の通行車輌の速度や、都内で行われるデモ行進の情報を織り込んで伝える場合がある。
+
+『[伊集院光とらじおと](https://ja.wikipedia.org/wiki/伊集院光とらじおと "wikilink")』『[有馬隼人とらじおと山瀬まみと](https://ja.wikipedia.org/wiki/有馬隼人とらじおと山瀬まみと "wikilink")』では、一般道での事故や[首都高速道路](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")の入口閉鎖の情報が入った場合、規定の放送時間とは別にスポット交通情報が入る。また、『[森本毅郎・スタンバイ\!](https://ja.wikipedia.org/wiki/森本毅郎・スタンバイ! "wikilink")』では道路の情報の前に、鉄道の遅れの情報をパーソナリティーの[遠藤泰子](https://ja.wikipedia.org/wiki/遠藤泰子 "wikilink")が伝える。なお、他の番組では交通情報のタイミングとは関係なく遅延や運転見合わせが発生した場合に、パーソナリティから伝えられる。
+
+**2019年（平成31年）4月現在の各担当キャスター**
+
+【**警視庁**】（2018年4月2日より、出演時間は平日の場合朝番が5時25分 - 10時、昼番が10時 - 15時30分、夜番が15時30分 - 19時40分に変更\[91\]。土・日曜日は時間が異なる\[92\]。いずれも[シフト制](https://ja.wikipedia.org/wiki/シフト制 "wikilink")となっている。
+
+  - [碓氷浩子](https://ja.wikipedia.org/wiki/碓氷浩子 "wikilink")（1980年代より出演。以前は神奈川の担当だった。元・宮崎放送アナウンサー）
+  - [長谷川万希子](https://ja.wikipedia.org/wiki/長谷川万希子 "wikilink")（2004年10月、11月、2015年2月−。1990年代 − 2015年2月までは埼玉担当。元954キャスタードライバー）
+  - [白井京子](https://ja.wikipedia.org/wiki/白井京子_\(ラジオリポーター\) "wikilink")（2005年12月 - 。2005年12月までは埼玉の担当だった。元954情報キャスター）
+  - [中村愛美](https://ja.wikipedia.org/wiki/中村愛美_\(キャスター\) "wikilink")（2006年10月 - 2010年12月、2012年4月 - 。2005年12月 - 2006年10月までは埼玉の担当だった。元954情報キャスター　2019年5月 - 同年7月いっぱいは産休。）
+  - [飯島純](https://ja.wikipedia.org/wiki/飯島純 "wikilink")（2015年4月 - 。2013年9月 - 2015年3月までは神奈川の担当、1999年頃に旧姓の『山内純』名義で、警視庁での担当をしていた。元954キャスタードライバー）
+  - [楠葉絵美](https://ja.wikipedia.org/wiki/楠葉絵美 "wikilink")（2016年8月 - 。2007年9月 - 2016年6月は千葉の担当。TBSラジオキャスター）
+  - [桜井園子](https://ja.wikipedia.org/wiki/桜井園子 "wikilink")（2016年10月 - 。元954情報キャスター）
+
+【**各県警**】　2019年（令和元年）9月27日をもって、**神奈川県警・埼玉県警・千葉県警へのキャスターの配置を廃止**した\[93\]。同日の『アフター6ジャンクション』が最後の放送となった。以下は廃止時点での担当者。
+
+  - [酒井良子](https://ja.wikipedia.org/wiki/酒井良子 "wikilink")＜神奈川＞（1980年代より出演）
+  - [柳沢怜](https://ja.wikipedia.org/wiki/柳沢怜 "wikilink")＜神奈川＞（2000年より出演。TBSラジオキャスター）
+  - [加藤奈央](https://ja.wikipedia.org/wiki/加藤奈央 "wikilink")＜神奈川＞（2015年9月 - 。TBSラジオキャスター）
+  - [斉藤裕子](https://ja.wikipedia.org/wiki/斉藤裕子 "wikilink")＜埼玉＞（2014年12月 - 。1990年代 - 2014年9月は警視庁担当、2014年12月 - 2015年3月までは千葉も兼任。それ以前は埼玉の担当だった時期もあり。元954キャスタードライバー）
+  - [海老原美代子](https://ja.wikipedia.org/wiki/海老原美代子 "wikilink")＜埼玉＞（2017年1月 - 。気象予報士。2013年7月まで気象予報士として、TBSラジオに出演）
+  - [河瀬やよひ](https://ja.wikipedia.org/wiki/河瀬やよひ "wikilink")＜千葉＞
+  - [成宮千晴](https://ja.wikipedia.org/wiki/成宮千晴 "wikilink")＜千葉＞（2016年7月 - 。元[チバテレビ](https://ja.wikipedia.org/wiki/チバテレビ "wikilink")交通情報担当）
+
+【**過去の担当キャスター**】
+
+  - [坂井志満](https://ja.wikipedia.org/wiki/坂井志満 "wikilink")＜警視庁＞（ - 2004年9月）
+  - [池田亜希子](https://ja.wikipedia.org/wiki/池田亜希子 "wikilink")＜警視庁＞（ - 2005年12月。元954情報キャスター）
+  - [大島洋子](https://ja.wikipedia.org/wiki/大島洋子 "wikilink")＜警視庁＞（ - 2006年8月。元954情報キャスター）
+  - [宮脇花織](https://ja.wikipedia.org/wiki/宮脇花織 "wikilink")＜警視庁＞（ - 2007年8月。元954情報キャスター）
+  - [阿南京子](https://ja.wikipedia.org/wiki/阿南京子 "wikilink")＜警視庁＞（1980年代 - 2015年1月。以前は埼玉の担当だった。中咽頭がん治療の為、降板\[94\]。）
+  - [恩田美穂子](https://ja.wikipedia.org/wiki/恩田美穂子 "wikilink")＜警視庁＞（2004年12月 - 2005年12月、2014年10月 - 2016年9月。以前は埼玉の担当だった。元[954情報キャスター](https://ja.wikipedia.org/wiki/954情報キャスター "wikilink")）
+  - [山崎景子](https://ja.wikipedia.org/wiki/山崎景子 "wikilink")＜警視庁＞（2008年7月 - 2014年12月。）2006年10月 - 2008年7月までは埼玉の担当だった。元954情報キャスター）
+  - [平井麻枝子](https://ja.wikipedia.org/wiki/平井麻枝子 "wikilink")＜神奈川＞（ - 2008年12月。元954情報キャスター）
+  - [新崎真倫](https://ja.wikipedia.org/wiki/新崎真倫 "wikilink")＜神奈川＞（2008年12月 - 2010年3月。元954情報キャスター、現フリーアナウンサー）
+  - [小西杏奈](https://ja.wikipedia.org/wiki/小西杏奈 "wikilink")＜神奈川＞（2015年4月 - 6月。元954情報キャスター）
+  - [綾部峰雪](https://ja.wikipedia.org/wiki/綾部峰雪 "wikilink")＜埼玉＞（ - 2006年9月。元954情報キャスター）
+  - [一場麻美](https://ja.wikipedia.org/wiki/一場麻美 "wikilink")＜埼玉＞（2007年4月 - 2010年9月。元954情報キャスター）
+  - [野村麻美](https://ja.wikipedia.org/wiki/野村麻美 "wikilink")＜埼玉＞（2008年2月 - 2009年3月。元954情報キャスター）
+  - [波岡陽子](https://ja.wikipedia.org/wiki/波岡陽子 "wikilink")＜埼玉＞（2010年6月 - 2015年8月（途中、休養期間あり）。元954情報キャスター）
+  - [佐藤しほ里](https://ja.wikipedia.org/wiki/佐藤しほ里 "wikilink")＜埼玉＞（ - 2011年4月。元954情報キャスター）
+  - [安井衣里](https://ja.wikipedia.org/wiki/安井衣里 "wikilink")＜埼玉＞（2011年5月 - 2012年2月。元954情報キャスター）
+  - [村山亜希子](https://ja.wikipedia.org/wiki/村山亜希子 "wikilink")＜埼玉＞（2011年12月 - 2013年5月。元954情報キャスター）
+  - [大澤瞳](https://ja.wikipedia.org/wiki/大澤瞳 "wikilink")＜埼玉＞（2013年6月 - 2014年3月。元954情報キャスター）
+  - [阿部文音](https://ja.wikipedia.org/wiki/阿部文音 "wikilink")＜埼玉＞（2013年7月 - 2016年3月。TBSラジオキャスター）
+  - [岡本祥子](https://ja.wikipedia.org/wiki/岡本祥子 "wikilink")＜埼玉＞（2015年2月 - 2017年5月。2009年12月 − 2013年8月は神奈川担当だった。2017年6月から産休のため降板。元954情報キャスター）
+  - [小島明子](https://ja.wikipedia.org/wiki/小島明子 "wikilink")＜千葉＞（ - 2007年8月。元954情報キャスター）
+  - [泉貴子](https://ja.wikipedia.org/wiki/泉貴子_\(キャスター\) "wikilink")＜千葉＞ ( - 2009年2月。元954情報キャスター）
+  - [多田のり](https://ja.wikipedia.org/wiki/多田のり "wikilink")＜千葉＞（1980年代 - 2017年3月）
+  - [楠本有美](https://ja.wikipedia.org/wiki/楠本有美 "wikilink")＜千葉＞（2017年4月 - 2018年1月）
+  - [石井美江](https://ja.wikipedia.org/wiki/石井美江 "wikilink")＜千葉＞（2018年2月 - 2019年1月。TBSラジオキャスター（当時）、現[NHK金沢放送局](https://ja.wikipedia.org/wiki/NHK金沢放送局 "wikilink")契約キャスター）
+
+## 時報
+
+[時報](https://ja.wikipedia.org/wiki/時報 "wikilink")は[2000年](../Page/2000年.md "wikilink")（平成12年）3月以前はTBSテレビ（アナログ）と同じものを使用しており、正時の2秒前からのカウントされる2点時報\[95\]で「ピ（[ハ低音](https://ja.wikipedia.org/wiki/ハ_\(音名\) "wikilink")）、ピ（ハ低音）、ポーン（ハ高音）」であった（TBSテレビの時報は地上デジタル放送完全移行により、現在は放送されていない）。
+
+2000年（平成12年）[4月1日](../Page/4月1日.md "wikilink")からはこの時報に音楽をかぶせて、「ピポパポパ、ポーン」（ハ高音）となっている。時報の音楽はラジオのコールサインJO**KR**をモチーフにしたもの\[96\]。[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")では時報が流れず無音となっているが、『[荻上チキ・Session-22](https://ja.wikipedia.org/wiki/荻上チキ・Session-22 "wikilink")』放送中など、番組によっては薄らかに聴こえる事がある\[97\]。
+
+[ラジオ時報CM](https://ja.wikipedia.org/wiki/ラジオ時報CM "wikilink")のスポンサーの変遷は以下の通り。
+
+  - 不明 - [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")（昭和51年）頃：[シチズン時計](https://ja.wikipedia.org/wiki/シチズン時計 "wikilink")
+  - 1976年（昭和51年）頃 - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")（平成3年）[9月](../Page/9月.md "wikilink")：[カルビー](https://ja.wikipedia.org/wiki/カルビー "wikilink")
+  - 1991年（平成3年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [1994年](../Page/1994年.md "wikilink")（平成6年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：[商工中金](https://ja.wikipedia.org/wiki/商工組合中央金庫 "wikilink")
+  - 1994年（平成6年）：サッポロビール飲料（後の[サッポロ飲料](https://ja.wikipedia.org/wiki/サッポロ飲料 "wikilink")→[ポッカサッポロフード&ビバレッジ](https://ja.wikipedia.org/wiki/ポッカサッポロフード&ビバレッジ "wikilink")）、いすゞ自動車「エルフトラック、SUVのビッグホーンの宣伝」一部時間帯のみ。それ以外は番組宣伝並びに当時のテレビ・ラジオのキャッチコピーだった「-yes,TBS」のサウンドロゴ）
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年） - [2002年](../Page/2002年.md "wikilink")（平成14年）3月：[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")
+  - 2002年（平成14年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink")：[ファミリーマート](../Page/ファミリーマート.md "wikilink")
+  - [2003年](../Page/2003年.md "wikilink")（平成15年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - 9月：[ヤクルト本社](https://ja.wikipedia.org/wiki/ヤクルト本社 "wikilink")
+  - 2003年（平成15年）10月 - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）3月：[新光証券](https://ja.wikipedia.org/wiki/新光証券 "wikilink")（現：[みずほ証券](https://ja.wikipedia.org/wiki/みずほ証券 "wikilink")）
+  - 2004年（平成16年）4月 - [2013年](../Page/2013年.md "wikilink")（平成25年）3月：[セブン&アイ・ホールディングス](https://ja.wikipedia.org/wiki/セブン&アイ・ホールディングス "wikilink")（各社:[セブン-イレブン・ジャパン](https://ja.wikipedia.org/wiki/セブン-イレブン・ジャパン "wikilink")、[イトーヨーカドー](../Page/イトーヨーカ堂.md "wikilink")、[セブン銀行](../Page/セブン銀行.md "wikilink")、[デニーズ](https://ja.wikipedia.org/wiki/デニーズジャパン "wikilink")、[アイワイ・カード・サービス](https://ja.wikipedia.org/wiki/アイワイ・カード・サービス "wikilink")、[セブン&アイ出版](https://ja.wikipedia.org/wiki/セブン&アイ出版 "wikilink")）
+      - アイワイカードは7日除く月 - 金14時のみの時報スポンサーである。7日はセブン&アイ出版の「saita」発売日であることから、それが1時・3時 - 24時のスポンサーになる。
+      - 平日深夜（火曜 - 土曜）2時およびナイター時間内（19時 - 21時、中継が延長した場合22時・23時も）は番組中に時報が入るためスポンサーは付かず時報音のみの放送。ナイター中継時はCM中でも時報を流す。また、日曜深夜（月曜未明）2, 3時は定期放送でない為（通常は1時 - 1時半で終了）、この時間に放送があって、時報を流すときはノンスポンサーとなり「聞けば、見えてくる」のサウンドロゴとなる。また、環境キャンペーン特番の時はCMを挿入せず、そのまま時報に入る（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）11月から）。
+      - [2011年](../Page/2011年.md "wikilink")（平成23年）[3月11日](../Page/3月11日.md "wikilink")以降は[東日本大震災の影響で時報CMの自粛が行われており](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")、代わりにTBSラジオのジングルが流れていた。
+      - [2012年](../Page/2012年.md "wikilink")（平成24年）3月11日にも東日本大震災発生日から1年のため、時報CMが自粛され、TBSラジオのジングルが流れた。
+  - 2013年（平成25年）4月 - 6月：セブン&アイ・ホールディングスが3月で撤退したため、[遊学舎](https://ja.wikipedia.org/wiki/遊学舎でいこう! "wikilink")\[98\]、[TBSハウジング](https://ja.wikipedia.org/wiki/TBSハウジング "wikilink")渋谷
+  - 2013年（平成25年）7月 - 現在：ホールセールではなく、各時ごとに個別のスポンサーがつく形に\[99\]。4月 - 6月までの間も含めスポンサーがつかない場合はTBSによる『[Radiko](https://ja.wikipedia.org/wiki/Radiko "wikilink")』PRや[コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")（JOKR）告知が流れる。
+
+※たまに、TBSラジオからのお知らせ→時報の場合もあり（平日22時の時報は、TBS制作映画や舞台の告知が多い）
+
+## オープニング・クロージング
+
+TBSテレビジョンのオープニング・クロージングは[TBSテレビ\#オープニング・クロージング](https://ja.wikipedia.org/wiki/TBSテレビ#オープニング・クロージング "wikilink")を参照のこと。 放送開始・終了時には[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")（[QRソング](https://ja.wikipedia.org/wiki/QRソング "wikilink")）や[ラジオ大阪](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")（[OBCソング](https://ja.wikipedia.org/wiki/ラジオ大阪の歌 "wikilink")）と同様に歌が流れる。その歌はキャッチフレーズの変更と共に過去に2回変えられた。
+
+  - 開局 - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年） 室内オーケストラによるオリジナルの放送開始曲を使用。管弦楽にアコーディオンが加わった独特の編成。それにつづいて開始アナウンス。終了時は山田耕筰歌曲「この道」をハープの伴奏によるフルートで演奏。それをBGMに放送終了の挨拶が放送された。その後「おききのTBSラジオは周波数950kHz、出力100kWでお送りしました。JOKR」というアナウンスに続いて、弦楽とビブラフォンによる静かな短い終了音楽（開始曲と同じメロディのオリジナル曲）が演奏された。
+  - 1978年（昭和53年）頃 - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）3月 「YOU ARE NOT ALONE」。歌は[来栖アンナ](https://ja.wikipedia.org/wiki/来栖アンナ "wikilink")、作詞は兼城昌昭（TBS社員）、作曲は[小杉保夫](https://ja.wikipedia.org/wiki/小杉保夫 "wikilink")\[100\] 。歌詞の一節から周波数が954kHzになった[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）（開局の[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）から27年後）から使用され始めたと推測される。
+  - 1990年（平成2年）4月 - [2000年](../Page/2000年.md "wikilink")（平成12年）9月 「きいたら、ききたい」。歌は[森川由加里](https://ja.wikipedia.org/wiki/森川由加里 "wikilink")、作詞は[伊藤アキラ](https://ja.wikipedia.org/wiki/伊藤アキラ "wikilink")、作曲は[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")\[101\]。終了時の曲は2番のカラオケ部分が短縮された時もある（カットの場合は音楽がモノラル音声（放送波はステレオのまま）になり、アナウンスも別の人になっていた）。[ジャンクション時](https://ja.wikipedia.org/wiki/局名告知 "wikilink")（朝5時前）は、ステブレに使われるTBSコーラスと同じ曲をバイオリンによる編曲にしたものを使っていた（アナウンスは[吉川美代子](https://ja.wikipedia.org/wiki/吉川美代子 "wikilink")アナウンサー）。
+  - 2000年（平成12年）10月 - 「聞けば、見えてくる。」。歌は[高尾直樹](https://ja.wikipedia.org/wiki/高尾直樹 "wikilink")による[ア・カペラ](https://ja.wikipedia.org/wiki/ア・カペラ "wikilink") 。[2001年](../Page/2001年.md "wikilink")（平成13年）[10月1日](../Page/10月1日.md "wikilink")からは分社化されたためアナウンスが変更された\[102\]。なお、ジャンクション時（朝5時前。ただし、月曜日のみ4時前のオープニング直後）の音楽はこの歌の[ピアノ](../Page/ピアノ.md "wikilink")バージョンが使われている。ジャンクション時のアナウンスは[堀井美香](https://ja.wikipedia.org/wiki/堀井美香 "wikilink")アナウンサー（言い回しは[2001年](../Page/2001年.md "wikilink")（平成13年）[10月1日](../Page/10月1日.md "wikilink")から「お聞きの放送は、\[103\]TBSラジオです。周波数954kHz、出力100kWでお送りしています。J、O、K、R。TBSラジオです」）。
+
+※ 以前、毎月1日は[緊急警報信号の試験発射のため無しだった](../Page/緊急警報放送.md "wikilink")（月曜日を除く）。現在は緊急警報信号が第2週目の日曜放送終了後（試験が無い場合もある）に移動したため放送されている。
+
+  - 放送終了時の放送
+    アナウンスは2015年12月6日のクロージングおよび7日のオープニングまでが、堀井美香アナウンサー。ワイドFM開始後に録音された2015年12月20日のクロージングおよび21日のオープニングから が、[笹川友里](https://ja.wikipedia.org/wiki/笹川友里 "wikilink")アナウンサー。
+
+<!-- end list -->
+
+  -
+    高尾直樹による歌が流れ、1番終了後「今夜も遅くまで、TBSラジオにお付き合い下さいまして、ありがとうございました。まもなく、お別れの時間です」とアナウンスが入り、2番に入る。2番の後「TBSラジオはこの後しばらく放送をお休みして、朝の放送は午前4時\[104\]からお送りいたします。それでは、お休みなさい」と再びアナウンス。サビの繰り返し後「お聞きの放送は、\[105\]TBSラジオです。AMは周波数954kHz、出力100kW。FMは周波数90.5MHz、出力7kWでお送りいたしました\[106\]。J、O、K、R。TBSラジオ」と入る。（月曜＜原則＞1時に放送）
+
+<!-- end list -->
+
+  - 放送開始時の放送
+
+<!-- end list -->
+
+  - 2015年12月7日のオープニングまで
+
+<!-- end list -->
+
+  -
+    堀井美香アナウンサーの[試験電波](https://ja.wikipedia.org/wiki/試験電波 "wikilink")送信開始告知\[107\]を行ったのち、「Fairytale（[エンヤ](../Page/エンヤ.md "wikilink")）」、「A Summer Long Since Past（Virginia Astly）」、「The Top of the Morning（Mike Oldfield）」の3曲を流す。それぞれの曲の末尾に[試験電波](https://ja.wikipedia.org/wiki/試験電波 "wikilink")告知を同時に行う。そして、「The Top of the Morning」の最後に送信終了の告知放送をかぶせて行ったのち、高尾直樹による歌が入る。その際、イントロに「J、O、K、R。TBSラジオです」のアナウンスが入る。1番の後「おはようございます、TBSラジオです。この放送は、周波数954kHz、出力100kWでお送りしています」と入り、2番の後「おはようございます、いつもTBSラジオをお聞き下さいまして、ありがとうございます。今日も1日元気にお過ごし下さい。これより、今日の放送を開始いたします」と放送開始のアナウンスが入り、サビの繰り返し後「J、O、K、R。TBSラジオ」が入る。その後ジャンクション時のアナウンスが入る。（月曜4時前に放送）
+
+<!-- end list -->
+
+  - 2015年12月21日のオープニングから
+
+<!-- end list -->
+
+  -
+    高尾直樹による歌が入る。その際、イントロに「J、O、K、R。TBSラジオです」のアナウンスが入る。1番の後「AMは周波数954kHz、出力100kW。FMは周波数90.5MHzでお送りしています」と入り、2番の後「おはようございます、いつもTBSラジオをお聞き下さいまして、ありがとうございます。今日も1日元気にお過ごし下さい。これより、今日の放送を開始いたします」と放送開始のアナウンスが入り、サビの繰り返し後「J、O、K、R。TBSラジオ」が入る。その後ジャンクション時のアナウンスが入る。（月曜4時(5時)前に放送）
+
+<!-- end list -->
+
+  - 短縮版の放送開始・終了
+    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[11月6日](../Page/11月6日.md "wikilink")、歌が省略されアナウンスのみで放送が終了/開始された（なお、アナウンス内容は同一）。試験電波の発射もこの日に限り行われなかった。
+  - その他
+    [2013年](../Page/2013年.md "wikilink")4月から9月まで土曜深夜（日曜未明）4時から5時を名目上放送休止とみなし「**フィラー音楽放送**」としていたが、特に4時の休止開始前、5時の放送再開後のアナウンスは行われていない。4時の時報後音楽が流れだし、4時59分にピアノ演奏によるジャンクションアナウンスが入る。
+    放送中に流れる局の[サウンドロゴ（ジングル、サウンドステッカー）](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")（正確はTBSラジオの公式ページ案内ソング）は男性ボーカルグループの[Baby Booが歌っている](https://ja.wikipedia.org/wiki/Baby_Boo "wikilink")。また、2015年12月から使用されている、AM・FM両周波数を織り込んだサウンドステッカーは、クラウドソーシングサイト「アーティストクラウド」を通じてTBSラジオが募集、声優の[小岩井ことり](https://ja.wikipedia.org/wiki/小岩井ことり "wikilink")が制作・応募した作品が採用され使用されている\[108\]\[109\]。
+
+### 完全分社化に伴う告知放送
+
+[2001年](../Page/2001年.md "wikilink")（平成13年）[9月30日](../Page/9月30日.md "wikilink")の23:59から[10月1日](../Page/10月1日.md "wikilink")の0:01にかけて、完全分社化（正式には放送事業・免許を東京放送（その後テレビ専業を経て現在は放送持株会社の東京放送ホールディングス）から当社に継承）に伴う告知放送が行われた。
+
+  - まず9月30日23:59に東京放送のラジオ放送局事業としての締めくくりとしてサウンドロゴをバックに「お聞きの放送は、**東京放送が周波数954kHzで**お送りしました。**TBS東京放送、JOKR**」という[堀井美香](https://ja.wikipedia.org/wiki/堀井美香 "wikilink")アナウンサーのアナウンスが行われ、その後時報CM（[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")提供）を放送した。
+  - 時報に続き10月1日0:00に[宮内鎮雄](https://ja.wikipedia.org/wiki/宮内鎮雄 "wikilink")アナウンサーから「JOKR TBSラジオ。…お届けしている放送はただいまの時刻をもちまして、**TBS東京放送より放送免許を引き継いだティ・ビー・エス・ラジオ・アンド・コミュニケーションズ**からの放送になります…。」という内容で分社化放送開始のアナウンスが行われた\[110\]。分社化最初の放送は『[林原めぐみのTokyo Boogie Night](../Page/林原めぐみのTokyo_Boogie_Night.md "wikilink")』。
+
+## 歴代コーポレートメッセージ
+
+ここでは、「[ラジオ東京スピリッツ〜TBSラジオ開局60周年](http://www.tbs.co.jp/radio/radiotokyo/)」内の過去の番組表より確認できたものを示す。なお、一部使用期間が重なるものもある。
+
+  - リゾナンス編成のTBSラジオ（1973年4月 - 9月）
+  - 聞きごたえのあるTBSラジオ（1973年10月 - 不明）
+  - 新しい発見（不明 - 1977年3月）
+  - 街コミュニケーション（1977年4月 - 1978年3月）
+  - もうひとりの友だち（1978年4月 - 1979年3月）
+  - プラス4の魅力（1978年10月、周波数が950kHzから954kHzへ変更した事に伴う告知）
+  - 954 ラジオははずむTBS（1979年4月 - 1983年3月）
+  - あなたのラジオお元気ですか（1983年4月 - 1989年9月）
+  - 信頼と共感のTBSラジオ（1984年4月 - 9月）
+  - きょう心にひびくことば（1985年4月 - 9月）
+  - "今"がきこえる（1987年4月 - 1990年9月）
+  - もっと素敵に。TBS。（1988年4月 - 1991年3月、TBSテレビと共通）
+  - フィーリングの時代からメッセージの時代に（1991年4月 - 9月）
+  - YES,TBS（1994年4月 - 1996年9月、TBSテレビと共通）
+  - いま大切なこと伝えます〜Live & Lifeライン（1995年4月 - 9月）
+  - いま、GET\!（1995年10月 - 1996年3月）
+  - ホット れぃでぃお TBS\!\!〜本音でトーク（1996年10月 - 2000年3月）
+  - 聞けば、見えてくる（現行、2000年10月 - ）
+  - 何かが始まる音がする（現行、2020年1月 -）
+
+## その他のメディア
+
+以下はTBSラジオが制作する、中波放送・FM補完放送・radiko以外のマスメディア。
+
+### 現在運営中
+
+  - TBSラジオクラウド - [2016年](../Page/2016年.md "wikilink")（平成28年）7月1日放送開始。同年6月まで行っていたポッドキャストをストリーミング配信の形態に移行したもの。[2017年](../Page/2017年.md "wikilink")（平成29年）1月30日より、全国の民放ラジオ11社（中波8・短波1・FM2）と[博報堂DYメディアパートナーズ](https://ja.wikipedia.org/wiki/博報堂DYメディアパートナーズ "wikilink")と共同でスマホ用ネットラジオアプリ「ラジオクラウド」のサービスを開始。
+
+### 放送終了
+
+  - [BS-iラジオ](https://ja.wikipedia.org/wiki/BS-TBS "wikilink") - [BS-iにて](https://ja.wikipedia.org/wiki/BS-TBS "wikilink")[BSデジタル音声放送](https://ja.wikipedia.org/wiki/BSデジタル音声放送 "wikilink")（通称 BSデジタルラジオ）の番組制作を担当していた。[2000年](../Page/2000年.md "wikilink")（平成12年）[12月1日](../Page/12月1日.md "wikilink")開局。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[9月30日](../Page/9月30日.md "wikilink")終了。
+  - [TBSラジオデジタル](https://ja.wikipedia.org/wiki/TBSラジオデジタル "wikilink") - 地上デジタル音声放送にて行っていたAMラジオのサイマル放送。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[9月29日](../Page/9月29日.md "wikilink")開始。[2011年](../Page/2011年.md "wikilink")（平成23年）[3月31日](../Page/3月31日.md "wikilink")終了。
+  - [OTTAVA](https://ja.wikipedia.org/wiki/OTTAVA "wikilink")（オッターヴァ） - [地上デジタル音声放送](https://ja.wikipedia.org/wiki/地上デジタル音声放送 "wikilink")とインターネットラジオによるクラシック音楽専門のラジオ局。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）4月開局。[2009年](../Page/2009年.md "wikilink")4月1日、TBSの持株会社移行と同時にデジタルラジオ事業がTBSラジオ&コミュニケーションズから東京放送ホールディングス（TBSHD）へ移管。『OTTAVA』の運営もTBSHDが担うこととなる。デジタルラジオの放送は全局廃止により[2011年](../Page/2011年.md "wikilink")（平成23年）[3月31日](../Page/3月31日.md "wikilink")終了。インターネットラジオ放送は、[2014年](../Page/2014年.md "wikilink")7月に東京放送ホールディングスからナクソス・ジャパン株式会社傘下(当時)のOTTAVA株式会社に事業譲渡され、現在も放送は継続中である。現在ではTBS、またその関係会社との関係はない。
+  - [TBS RADIO WEB RADIO](https://ja.wikipedia.org/wiki/TBS_RADIO_WEB_RADIO "wikilink") - AMラジオの一部コーナーをインターネットにて[オンデマンド](https://ja.wikipedia.org/wiki/オンデマンド "wikilink")配信を行っている。[1999年](../Page/1999年.md "wikilink")（平成11年）「[小沢昭一の小沢昭一的こころ](https://ja.wikipedia.org/wiki/小沢昭一の小沢昭一的こころ "wikilink")」を皮切りにスタート。事実上TBSラジオクラウドに吸収された。
+  - [TBS RADIO podcasting954](https://ja.wikipedia.org/wiki/TBS_RADIO_podcasting954 "wikilink") - [ポッドキャスティング](https://ja.wikipedia.org/wiki/ポッドキャスティング "wikilink")による[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")局。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）10月開設、[2016年](../Page/2016年.md "wikilink")（平成28年）6月30日サービス終了。
+
+## 著名な在籍者
+
+### 在籍中
+
+  - [池田卓生](https://ja.wikipedia.org/wiki/池田卓生 "wikilink")（編成局制作センター制作部部次長、番組プロデューサー、通称「池Ｐ」）
+  - [橋本吉史](https://ja.wikipedia.org/wiki/橋本吉史 "wikilink")（編成局編成部企画デスク兼制作部プロデューサー、通称「橋Ｐ」）
+  - [小桧山雅仁](https://ja.wikipedia.org/wiki/小桧山雅仁 "wikilink")（営業統括局営業部所属・横浜支局長兼務、元プロ野球選手）
+  - [崎山敏也](https://ja.wikipedia.org/wiki/崎山敏也 "wikilink")（編成局制作センター所属、報道記者）
+  - [武田一顯](https://ja.wikipedia.org/wiki/武田一顯 "wikilink")（編成局制作センター所属、報道記者）
+
+### 過去の在籍者
+
+## トラブルによる放送休止
+
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）頃に送信所トラブルが発生し、『[宮川賢の誰なんだお前は?\!](https://ja.wikipedia.org/wiki/宮川賢の誰なんだお前は?! "wikilink")』放送中（夜11時前の時報CMに入る直前）に、予備送信設備へ切り替えを行った。これは放送音声（AMステレオ音声の左チャンネル）に、断続的な雑音が発生していたためである。切替後、予備機からのため音量が普段より小さい状態が続いたが、約1週間後に送信所が復旧し通常の送信に戻った。
+  - [2001年](../Page/2001年.md "wikilink")（平成13年）[8月](../Page/8月.md "wikilink")に[台風](../Page/台風.md "wikilink")が原因で送信所にトラブルが生じ、数日間放送事故が多発していたため、[8月22日](../Page/8月22日.md "wikilink")に『[コサキンDEワァオ\!](https://ja.wikipedia.org/wiki/コサキンDEワァオ! "wikilink")』を東京のみ1時間に短縮放送し、深夜2時から翌朝4時まで放送を休止して送信所の点検・調整を行った（放送予定の『[Ride on music\!](https://ja.wikipedia.org/wiki/Ride_on_music! "wikilink")』は中止）。この時、『コサキンDEワァオ\!』の前後に、放送休止に関してのお詫びコメントを約1分間アナウンサーが伝えた。
+      - しかし、上記点検の後も不安定な状態が続いたため、[9月2日](../Page/9月2日.md "wikilink")深夜に再び放送を休止して深夜1時から点検・調整を行った（放送予定の『[ラジオパステルコレクション](https://ja.wikipedia.org/wiki/ラジオパステルコレクション "wikilink")』、『[量産型アリtoキリギリス](https://ja.wikipedia.org/wiki/量産型アリtoキリギリス "wikilink")』は中止）。上記同様に放送を終了する際、約1分間の放送休止のお詫びコメントをアナウンサーが伝えた。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [東京放送ホールディングス](https://ja.wikipedia.org/wiki/東京放送ホールディングス "wikilink")（TBSHD）
+  - [ジャパン・ラジオ・ネットワーク](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")
+  - [TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")
+  - [在京AMラジオ局送信所](https://ja.wikipedia.org/wiki/在京AMラジオ局送信所 "wikilink") - 他局も含めた送信所の情報
+  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（TBS同様に[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[10月1日](../Page/10月1日.md "wikilink")に中波ラジオを分社化し、放送免許を[札幌テレビ放送](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")から承継。[NRN](../Page/全国ラジオネットワーク.md "wikilink")[シングルネット局](https://ja.wikipedia.org/wiki/ネットワーク_\(放送\) "wikilink")）
+  - [CBCラジオ](https://ja.wikipedia.org/wiki/CBCラジオ "wikilink")（TBS同様に[2013年](../Page/2013年.md "wikilink")（平成25年）[4月1日](../Page/4月1日.md "wikilink")に[中部日本放送](../Page/中部日本放送.md "wikilink")から免許を含むラジオ部門を承継。旧社名は「テクノビジョン」。JRNシングルネット局）
+  - [NBCソシア](https://ja.wikipedia.org/wiki/NBCラジオ佐賀 "wikilink")（[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")ラジオ部門の業務全般を担う子会社。2013年4月に佐賀放送局のラジオ業務を行っていた「NBC P\&S→NBCラジオ佐賀」と合併して長崎本局のラジオ業務も移管。JRN\&NRNクロスネット局）
+  - [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")（TBS同様に中波ラジオを[社内カンパニー](https://ja.wikipedia.org/wiki/社内カンパニー "wikilink")で分割。JRNシングルネット局）
+  - [TBS RADIO podcasting954](https://ja.wikipedia.org/wiki/TBS_RADIO_podcasting954 "wikilink")
+  - [TBSラジオ環境キャンペーン](https://ja.wikipedia.org/wiki/TBSラジオ環境キャンペーン "wikilink")
+  - [TBSハウジング](https://ja.wikipedia.org/wiki/TBSハウジング "wikilink")
+  - [TBSラジオ珍プレー好プレー大賞](https://ja.wikipedia.org/wiki/TBSラジオ珍プレー好プレー大賞 "wikilink")
+  - [TBSラジオ平日夜ワイド番組](https://ja.wikipedia.org/wiki/TBSラジオ平日夜ワイド番組 "wikilink")
+  - [TBSラジオ平日深夜ワイド番組](https://ja.wikipedia.org/wiki/TBSラジオ平日深夜ワイド番組 "wikilink")
+
+## 外部リンク
+
+  - [TBSラジオFM90.5+AM954〜聞けば、見えてくる〜](https://www.tbsradio.jp/)
+
+  - （番宣班の運営）
+
+  -
+[Category:TBSラジオ](https://ja.wikipedia.org/wiki/Category:TBSラジオ "wikilink") [Category:JRN](https://ja.wikipedia.org/wiki/Category:JRN "wikilink") [Category:2000年設立の企業](https://ja.wikipedia.org/wiki/Category:2000年設立の企業 "wikilink") [Category:日本のAMラジオ局](https://ja.wikipedia.org/wiki/Category:日本のAMラジオ局 "wikilink") [Category:日本民間放送連盟会員](https://ja.wikipedia.org/wiki/Category:日本民間放送連盟会員 "wikilink") [Category:日本ラジオ広告推進機構加盟局](https://ja.wikipedia.org/wiki/Category:日本ラジオ広告推進機構加盟局 "wikilink") [Category:東京都のマスメディア](https://ja.wikipedia.org/wiki/Category:東京都のマスメディア "wikilink") [Category:関東地方のラジオ局](https://ja.wikipedia.org/wiki/Category:関東地方のラジオ局 "wikilink") [Category:赤坂](https://ja.wikipedia.org/wiki/Category:赤坂 "wikilink")
+
+1.  「新たにラジオ東京 新聞関係一本で申請」『朝日新聞』昭和26年1月11日
+2.  2016年11月30日現在、企業情報のページでは「株式会社TBSラジオ」の略称を「TBSラジオ」としている。TBS R\&C時代はそれが略称としても機能していたが現社名では社名そのもののため略称としての意味をなしていない。
+3.  TBSグループの放送持株会社移行時点では既にTBS放送センターに入居済み。
+4.  [TBSラジオは、おかげさまで連続首位を14年10ヶ月間継続！](http://www.tbsradio.jp/37617) 株式会社TBSラジオ 2016年5月23日
+5.  [TBSラジオ 10月聴取率調査でもトップ 2期連続単独首位 男女35才〜49才でも平日平均、土曜、週平均でトップ](http://www.tbs.co.jp/pressreleases/20011108.html) - TBSラジオ&コミュニケーションズ 編成局編成部 2001年11月7日
+6.  [DeNAへの球団譲渡に伴い](https://ja.wikipedia.org/wiki/ディー・エヌ・エー "wikilink")、2011年12月発行号限りで終了。同号および翌2012年2月発行号での終了案内は行われなかった。
+7.  [TBSラジオのフリーマガジン『TBSラジオPRESS』](http://www.tbsradio.jp/1409)
+8.  [“TBSラジオ fam（ファム）” 大募集！](https://www.tbsradio.jp/233013) - TBSラジオ 2018年3月12日。
+9.  [954プレスメール](http://archive.fo/Q3R2) - archive.isによるウェブアーカイブ
+10. TBSHD・TBSテレビと異なりフォントはほぼ同じ。
+11. [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）春改編では新規リスナーを獲得すべく、改編率約32%とする TBSテレビ総務局広報部 2010年2月24日
+12. なお、中継撤退後も[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")JRN系列局への[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")制作は2018年以降も継続している。DeNA主催試合以外の関東圏の試合については、[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")主催試合を[アール・エフ・ラジオ日本](https://ja.wikipedia.org/wiki/アール・エフ・ラジオ日本 "wikilink")が、パシフィックリーグ各球団主催試合を[ニッポン放送](../Page/ニッポン放送.md "wikilink")および[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")が、系列の枠を越えてJRN 系列局へ向けての制作を担当している。
+13. 在京局以外では[ラジオ大阪が](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")2007年に、JRNの系列局ではTBSと同時に[RBC iラジオも撤退している](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")（但し、2018年以降も沖縄開催の公式戦・オープン戦は自社で制作・放送している）。
+14. [TBSラジオ　プロ野球中継から撤退「多様なニーズに応える」と社長](https://www.daily.co.jp/gossip/2017/11/29/0010774200.shtml) - 『デイリースポーツオンライン』2017年11月29日付
+15. [TBSラジオ、プロ野球中継撤退を発表「リスナーの皆様、長年ありがとうございました」](http://www.hochi.co.jp/entertainment/20171129-OHT1T50136.html) - 『スポーツ報知』電子版 2017年11月29日15時24分付
+16.
+17. [TBSラジオ、ナイター中継終了へ　来年から新番組](https://www.nikkansports.com/entertainment/news/201711290000549.html) - 『nikkansports,com』（日刊スポーツ電子版）2017年11月29日19時11分付
+18.
+19.
+20.
+21.
+22. [組織図:会社情報](http://www.tbs.co.jp/radio/company/outline/soshikizu.html) - TBSラジオ
+23. かつてはTBSテレビに委託していた。
+24. [TBSラジオのCMについて（TBSラジオ営業情報）](http://www.tbs.co.jp/radio/sales/cm/howmany.html)
+25. [総務省 無線局免許状等情報](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000033254&DD=1&styleNumber=01)
+26. [災害対策・難聴対策のためのFM補完中継局の予備免許取得〜TBSラジオがFMラジオでも聴けるようになります\!](http://www.tbs.co.jp/radio/jokr_fm/) TBSラジオ
+27. [AMラジオをFM波で聴ける「FM補完放送」、ニッポン放送など3局が今秋〜今冬に本放送開始](http://www.phileweb.com/news/d-av/201501/14/36232.html),Phile-web,2015年1月14日
+28. [在京AM3局の「ワイドFM」12月開始予定 TBS、文化放送、ニッポン放送](http://www.sankei.com/entertainments/news/150908/ent1509080008-n1.html),産業経済新聞社,2015年9月8日
+29. [在京ラジオ3局　ワイドFMは12月7日開始](http://www.sponichi.co.jp/entertainment/news/2015/11/17/kiji/K20151117011526370.html),スポーツニッポン,2015年11月17日
+30. [総務省 電波利用ホームページ 無線局免許状等情報](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0003785271&DD=1&styleNumber=01)
+31.
+32. 2017年3月で放送終了
+33. [J:COMテレビでTBSラジオ、文化放送、ニッポン放送が聴ける\!\! 〜コミュニティチャンネルでAMラジオを同時再放送　関東約441万世帯に〜](http://www.tbs.co.jp/radio/topics/201405/002624051400.html) TBSラジオ
+34. この日は、日本初の民間放送のラジオ放送の予備免許が全国の16局に対して一斉に交付された。その内の1局である。
+35. 毎日新聞東京本社は[1966年](../Page/1966年.md "wikilink")（昭和41年）にここを離れて東京都千代田区[一ツ橋](https://ja.wikipedia.org/wiki/一ツ橋 "wikilink")1丁目1番1号の[現本社ビルに移転](https://ja.wikipedia.org/wiki/パレスサイドビルディング "wikilink")。当時のニュースは毎日・[朝日](https://ja.wikipedia.org/wiki/朝日新聞東京本社 "wikilink")・[読売の](https://ja.wikipedia.org/wiki/読売新聞東京本社 "wikilink")[全国紙](https://ja.wikipedia.org/wiki/全国紙 "wikilink")最大手3社の出資があったため、この3社による曜日ごとのローテーションでニュースを提供していた。
+36. かつて、[東日天文館](https://ja.wikipedia.org/wiki/東日天文館 "wikilink")が所在していたフロアーの一角をスタジオとして改装した。
+37. [日本国との平和条約](../Page/日本国との平和条約.md "wikilink")が締結され占領が解除されたのは月末の28日なので、この時点ではまだ「在日米軍」ではない。
+38.
+39. 唯二郎『実録 浪曲史』より。作者の唯二郎は、元NHK演芸プロデューサー。
+40.
+41.
+42.
+43.
+44. ステレオ放送の最初の番組は『TBSポップスベスト10』、提供スポンサーはYKKで、最初に放送されたステレオCMは同社の「補助スキーゴーゴー」だった。
+45.
+46. ラジオ分社化の時点ではテレビ番組制作会社のTBSエンタテインメント。この3年後（2004年同日）にTBSライブとTBSスポーツを合併してTBSテレビに社名変更。
+47. チャンネル92、[FM YOKOHAMA](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")、[BAY FM78](https://ja.wikipedia.org/wiki/ベイエフエム "wikilink")、[ラジオNIKKEIと共同](../Page/日経ラジオ社.md "wikilink")。
+48. ただし、[テレビの](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「朝の情報番組([はなまるマーケット](https://ja.wikipedia.org/wiki/はなまるマーケット "wikilink")→[いっぷく\!](https://ja.wikipedia.org/wiki/いっぷく! "wikilink")→[ビビット](https://ja.wikipedia.org/wiki/ビビット_\(テレビ番組\) "wikilink")→[グッとラック\!](https://ja.wikipedia.org/wiki/グッとラック! "wikilink"))」及び選挙特番や改編期特番などでは、現在でも「（番組名等）@**best.**tbs.co.jp」が使用されている。地方局向けの「**[ドライバーズ・リクエスト](https://ja.wikipedia.org/wiki/ドライバーズ・リクエスト "wikilink")**」では、その後も、2009年3月まで「dr@**best.**tbs.co.jp」が使用されていたが、同年4月から「dr@tbs.co.jp」へ変更された。
+49. [TBSラジオデジタル](http://www.tbs.co.jp/radio/format/d-radio.html)
+50. サイマル放送開始当初の放送時間帯は月-土曜日は6:00から27:00まで、日曜日は6:00から25:00に限られた。
+51. [TBS、デジタルラジオ事業などをホールディングス傘下に（Impress Watch - ケータイ Watch）](http://k-tai.impress.co.jp/cda/article/news_toppage/44742.html)
+52. 日曜日深夜 1:00 - 5:00はメンテナンスのため、放送休止。
+53. [『ラジオ:ネットで同時放送 在京、在阪13局が本格参入』](http://mainichi.jp/enta/geinou/news/20100213dde041200020000c.html) - [毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink") [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[2月13日](../Page/2月13日.md "wikilink")
+54. [『在京・在阪の民放13局が3月からネット配信解禁へ』](http://japan.cnet.com/news/media/story/0,2000056023,20408565,00.htm) - [CNET Japan](https://ja.wikipedia.org/wiki/CNET "wikilink") 2010年[2月15日](../Page/2月15日.md "wikilink")
+55. [新会社radikoを12月1日に設立、IPサイマルラジオ放送が本格始動](http://www.asahi.com/digital/bcnnews/BCN201011250014.html) - [朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink") [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[11月25日](../Page/11月25日.md "wikilink")
+56. [株式会社radikoが12月1日発足、区域の拡大や新局の参加を2011年春までに](http://itpro.nikkeibp.co.jp/article/NEWS/20101125/354573/) - NIKKEI BP 2010年[11月25日](../Page/11月25日.md "wikilink")
+57. [TBSラジオ954 AMラジオ放送モノラル化について](http://www.tbs.co.jp/radio/topics/200912/000110120900.html) - TBSラジオ トピックス&ニュース
+58. NHKとアール・エフ・ラジオ日本は従来からモノラルのまま。
+59.
+60. 4時の時報までは通常通り放送し、そのあとはクラシックなどの音楽を放送、4:59にジャンクション音源を流して日曜の編成に入っていく流れであった。そのため「放送をお休みする」などのアナウンスは一切なかった。
+61. [AMラジオ3局にFM補完中継局の予備免許。FM放送が可能に](http://av.watch.impress.co.jp/docs/news/20140902_664824.html),AV Watch,2014年9月2日
+62. [関東広域AMラジオ3社のFM補完中継局に予備免許](http://www.soumu.go.jp/soutsu/kanto/press/26/0902ho.html),総務省関東総合通信局,2014年9月2日
+63. [対応ラジオやエリアは? 関東広域AM3社がFM補完放送を説明](http://av.watch.impress.co.jp/docs/news/20140903_665077.html),AV Watch,2014年9月3日
+64. [TBSラジオ＆コミュニケーションズ　新ロゴマーク決定](http://www.tbs.co.jp/radio/topics/201507/001314071515.html) - TBSラジオ ニュース＆トピックス
+65.
+66. [V-Low 受信対策センター（東京地区）](http://www.vlow-wfm.jp/index.html)
+67.
+68.
+69. [在京AM3局の「ワイドFM」12月7日開局　スカイツリーから合同特番](http://www.sankei.com/entertainments/news/151117/ent1511170008-n1.html),産経ニュース,2015年11月17日
+70. 元はpodcasting954で使用していたドメイン名。
+71. 営業情報のページもしばらくはTBSテレビのサーバーに置かれていた。
+72. 文字数が若干ながらTBSテレビのドメインの方が少ないため（テレビ：9文字、ラジオ：11文字）。
+73. [東証への開示のお知らせ](http://www.tbsholdings.co.jp/pdf/news/201603101700.pdf) 東京放送ホールディングス 2016年3月10日
+74. [TBSラジオ、ポッドキャスト終了　10年超の歴史に幕　「収益化のめどが立たないため」](http://www.itmedia.co.jp/news/articles/1606/06/news112.html),ITmedia,2016年6月6日
+75.
+76.
+77. [TBSラジオホームページ「TBSラジオ クリーン・パワー・キャンペーン『電気の明日を考える』2018年12月2～8日」](https://www.tbsradio.jp/clean-power-campaign/approach/)に記載。2020年1月29日閲覧。
+78. [TBSグループ、企業理念及びブランドプロミスを制定 ブランドロゴを刷新](https://www.tbsholdings.co.jp/pdf/news/202001061630.pdf)東京放送ホールディングス 2020年1月6日
+79. 同様にTBSテレビは「東京テレビ」（東京放送テレビ）としていたが、こちらは「Tokyo Broadcasting System Television, Inc.」というTBSテレビの英文社名に形を変えて残っている。
+80. ラジオ読本2017（洋泉社）p.122 - 129 「ラジオを聴いているだけじゃわからない\!スタジオ超見学」
+81. 『[別冊TV Bros. TBSラジオ全力特集](https://ja.wikipedia.org/wiki/テレビブロス "wikilink")』（2018年4月14日発行）pp.114
+82. [お客様の声｜池上通信機株式会社](https://www.ikegami.co.jp/global/ikegami_casestudy/detail_14.html) 2019年5月19日閲覧。
+83. 2019年7月に[木村洋二](https://ja.wikipedia.org/wiki/木村洋二 "wikilink")がSTVラジオエグゼクティブアナウンサーに就任したが、同年10月31日の定年退職まで社籍は札幌テレビ放送（本社）のままだった。
+84. [ニッポン放送](../Page/ニッポン放送.md "wikilink")の交通情報でパーソナリティが「首都高の○○さん」と呼び掛けている担当キャスターと同じである。ただし、ニッポン放送とは異なりTBSではTOKYO FMと同様に最後に担当キャスターが名前を名乗らない。TBSから警視庁・各県警に派遣しているキャスターと異なり男性も出演。
+85. 2009年（平成21年）3月28日までは土曜日にも放送、その後も大型連休やお盆休み、年末年始などの交通集中時期は、臨時に土曜日・日曜日にも放送されていた。
+86. 2016年度までは12時台から17時台、2017年度は月曜日のみ18時台まで、2018年度からは火曜 - 金曜でも18時台まで、いずれの期間も15時台を除き、2019年度は17時台も除く。なお、交通集中時期には放送時間帯を10時台からに拡大し、土曜日・日曜日においては、10時台からTBSラジオ以外へのネットのある番組（2019年8月時点では、[久米宏 ラジオなんですけど](https://ja.wikipedia.org/wiki/久米宏_ラジオなんですけど "wikilink")・[爆笑問題の日曜サンデー](https://ja.wikipedia.org/wiki/爆笑問題の日曜サンデー "wikilink")の13時台・14時台が該当）を除いて、16時台まで出演。
+87. 2019年9月の終了時点では、警視庁・各県警ごとに一旦スタジオに戻してから呼びかけていたのは、後述の『アフター6ジャンクション』のみ
+88. [室井昌也](https://ja.wikipedia.org/wiki/室井昌也 "wikilink")『交通情報の女たち』 p.129 - 130 [論創社](https://ja.wikipedia.org/wiki/論創社 "wikilink") ISBN 978-4-8460-1385-1
+89. 『[森本毅郎・スタンバイ\!](https://ja.wikipedia.org/wiki/森本毅郎・スタンバイ! "wikilink")』内で7:10頃・7:57頃に放送する交通情報、土日の59分のスポット枠のようにBGMなしになる場合もある（『スタンバイ\!』ではBGMが入る交通情報もある）。
+90. ネット局では独自に放送エリアの交通情報（局によっては天気予報なども）を流すため、BGMのみをネット局に送る。
+91. 20時台の交通情報廃止に伴う時間割変更
+92. 土曜朝番が6:45-13:00、土曜午後が13:00-17:00、日曜朝番が6:45-12:00、午後が13:00-17:00　2020年1月に土曜19時台の交通情報は廃止。
+93.
+94. [阿南京子さん中咽頭がん治療　ラジオ交通情報で人気](http://www.nikkansports.com/entertainment/news/1515664.html) - [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")、2015年7月31日
+95. 他の予告のある時報を使用する放送局（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")・[ニッポン放送](../Page/ニッポン放送.md "wikilink")など）よりは予告は1秒短い。これは現在の音楽がついたものも同様である。
+96. “ケイアール”と言っているように聞かせる。[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")の「[QRソング](https://ja.wikipedia.org/wiki/QRソング "wikilink")」を用いた時報に倣ったようだが未詳
+97. 2世代前の『[BATTLE TALK RADIO アクセス](https://ja.wikipedia.org/wiki/BATTLE_TALK_RADIO_アクセス "wikilink")』時代からネット局ではよく聴かれた現象。ネット局によっては23時の時報を流さないが、TBSラジオのスタジオのスピーカから流れる時報音が出演者のマイクを通じて乗ってしまうため。
+98. TBSラジオが主催・運営するコミュニティ・サークル
+99. [「龍角散から11時です」　TBSラジオ、時報ばら売り](http://www.asahi.com/national/update/1005/TKY201310050025.html) - 朝日新聞デジタル2013年10月5日（全文表示は会員登録が必要）
+100. NIFTY-ServeのFRADIO(NIFTY ラジオハウス)内「AM放送会議室」での1994年9月23日00時13分付け、高林徹TBSラジオ編成制作局放送部技術デスク（当時）の投稿による。
+101. NIFTY-ServeのFRADIO（NIFTY ラジオハウス）内「AM放送会議室」での1995年8月4日18時24分付け、伊藤アキラ本人の投稿による 。
+102. ただし、アナウンス自体は「東京放送」の名称や「T、B、S」というアナウンスを外し、2015年から FM補完放送の技術情報を入れた以外は「YOU ARE NOT ALONE」「きいたら、ききたい」からほぼ変わっていない。
+103. 分社化前はこの間に「**東京放送**」とアナウンスしていた。
+104. かつて5時開始だった時代は「いつものように、午前5時から」となっていた。
+105. 放送開始時と同様、分社化前はこの間に「**東京放送**」とアナウンスしていた。
+106. 堀井アナ時代は、「周波数954kHz、出力100kWでお送りいたしました」。
+107. 言い回しは「J、O、K、R。こちらは、TBSラジオです。周波数954kHz、出力100kWで試験電波を送信いたします。」
+108. [【竹ガム１発解決】♪エーフエームキューマルゴー♪って歌ってるの誰！？](https://www.tbsradio.jp/296089)
+109. [TBSラジオ「たまむすび」生出演でした！](https://ameblo.jp/koiwai-kotori/entry-12407309500.html)
+110. 関連情報：[TBSテレビコールサイン変更、TBSラジオ免許人変更モニター](http://konsu.sakura.ne.jp/special/tbschange.html)

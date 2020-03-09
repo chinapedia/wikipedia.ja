@@ -1,0 +1,223 @@
+> この記事は[YOZAN](https://ja.wikipedia.org/wiki/YOZAN)から翻訳されています。
+
+
+**株式会社YOZAN**（ヨーザン、**YOZAN Inc.**）は、かつて[電気通信事業](https://ja.wikipedia.org/wiki/電気通信事業 "wikilink")を行う子会社を保有していた企業。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")に**株式会社鷹山**から商号変更。社名は[上杉鷹山に由来する](https://ja.wikipedia.org/wiki/上杉治憲 "wikilink")。
+
+## 会社概要
+
+設立当初は[第三世代携帯電話](https://ja.wikipedia.org/wiki/第3世代移動通信システム "wikilink") ([W-CDMA](../Page/W-CDMA.md "wikilink")) 用の[集積回路](../Page/集積回路.md "wikilink")設計・研究開発などを行っていたが、第三世代携帯電話のサービス開始の遅れや需要の伸び悩みへの不安から、電気通信事業者へ業態転換を行うことになる。
+
+[2001年](../Page/2001年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")に[無線呼び出し](../Page/無線呼び出し.md "wikilink")（ポケベル）事業の「東京ウェブリンク」（旧[東京テレメッセージ](https://ja.wikipedia.org/wiki/東京テレメッセージ "wikilink")、後のマジックメール）をボーダフォングループ（当時）の日本テレコム（現[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")）から譲受、[2002年](../Page/2002年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に[PHS](../Page/PHS.md "wikilink")事業の「[アステル](../Page/アステル.md "wikilink")東京」を東京通信ネットワーク（後の[パワードコム](https://ja.wikipedia.org/wiki/パワードコム "wikilink")、現在は[KDDI](../Page/KDDI.md "wikilink")に[吸収合併](https://ja.wikipedia.org/wiki/合併_\(企業\)#会社の合併の種類 "wikilink")）から譲受。
+
+当初の計画では、譲受したインフラをPHSと電力系通信事業者の[光ファイバー](https://ja.wikipedia.org/wiki/光ファイバー "wikilink")・[無線LAN](../Page/無線LAN.md "wikilink")を組み合わせた無線IPネットワークに改良することにより、事業拡大を目指そうとした。しかし、事業に対する見通しの甘さに加え、主たる回線調達元となっていた電力系通信事業者・パワードコムが競合他社へ吸収合併されたため当初の計画は頓挫した。承継した時点でアステル東京のPHS事業は行き詰っており、買収後も毎期大赤字が続いた。さらに買収直後の2002年11月に[アステル九州](https://ja.wikipedia.org/wiki/アステル九州 "wikilink")が新規受付を終了した（2003年11月にサービス終了）のを皮切りにアステルグループ他社で新規受付終了、サービス終了が相次いだことも追い討ちをかけた。
+
+2005年2月には、アステルPHS[基地局](https://ja.wikipedia.org/wiki/基地局 "wikilink")の設置場所を転用し、[WiMAX](https://ja.wikipedia.org/wiki/WiMAX "wikilink")による無線定額通信および[IP電話サービスを](https://ja.wikipedia.org/wiki/日本のIP電話 "wikilink")2005年末に開始すると発表し、それに伴い、アステル事業は同年11月30日をもって終了した。また、ボイススポットフォンも[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")限りで終了、テレメトリング（専ら計器の遠隔読み出し等に用いる通信回線を提供するサービス）も同年[6月30日](../Page/6月30日.md "wikilink")限りで終了し、PHS事業からは完全撤退した。[電波法](../Page/電波法.md "wikilink")では事業撤退後、速やかに[空中線](https://ja.wikipedia.org/wiki/空中線 "wikilink")（基地局及びアンテナ）を撤去すべきとされており、YOZANは巨額の撤去費用を引当として計上した。 結局、PHS事業をアステル東京から譲受したことがYOZANを事実上の破綻に追い込む結果となった。事業撤退後も東京電力の電柱などに共架されているPHS基地局の撤去は進んでいない。基地局の撤去には数十億の資金が必要であるとYOZANは公式発表している。
+
+WiMAX事業も2007年12月31日に事業を凍結、2008年6月30日をもって同事業の廃止が公表された。
+
+唯一、自治体向けの地域情報配信サービスとして期待された無線呼出しもPHS事業の大幅赤字の影響で事業の拡大は果たせなかった。[新株予約権付社債](https://ja.wikipedia.org/wiki/新株予約権付社債 "wikilink")の発行を繰り返すなどして資金手当てをしていたが、本業は売上減少が続き大幅赤字経営から脱却できなかった。
+
+2008年3月期には100億円の[債務超過](https://ja.wikipedia.org/wiki/債務超過 "wikilink")となり、[監査報告書](https://ja.wikipedia.org/wiki/監査報告書 "wikilink")において、継続企業の前提に関する重要な疑義に関する注記が[監査法人](https://ja.wikipedia.org/wiki/監査法人 "wikilink")より出され[経営破綻](https://ja.wikipedia.org/wiki/経営破綻 "wikilink")も時間の問題と見られた。資金繰りが行き詰まったYOZANは沖縄でのWiMAX事業の開始と、無線呼出し事業の継続のために、同事業をPHS事業などから分離するため2008年10月1日付けで[会社分割](../Page/会社分割.md "wikilink")により切り分け、社名を｢東京テレメッセージ｣に戻した。それまでYOZANの資金を支えてきた米系ヘッジ[ファンド](https://ja.wikipedia.org/wiki/ファンド "wikilink")のDKRオアシスは、新設された東京テレメッセージの株式を担保とし新たに数億円の貸付を行った。この資金は沖縄でのWiMAX事業の立ち上げに使われた模様だが収益には貢献しなかった。また会社分割された東京テレメッセージも事業展開に成果もなく、分割後も大幅赤字が続き結局DKRオアシスの関係者が立ち上げたMTSキャピタルに引き取られた。YOZANには100億円を超す債務と未撤去のPHS基地局だけが残ったが、PHS電柱局のメガキャリアへの譲渡と[債権放棄](https://ja.wikipedia.org/wiki/債権放棄 "wikilink")などで債務超過を解消できる可能性はまだあったため、MTSキャピタルは譲渡予定先のメガキャリアとの交渉を続けた。しかしYOZANのPHS局を承継しなくとも東京電力が所有の電柱利用に応じてくれるとして承継交渉は打ち切られ、YOZANは完全に息絶えた。
+
+末期は[事業持株会社](https://ja.wikipedia.org/wiki/事業持株会社 "wikilink")と称していたが、主要な展開事業はなかった。数少ない収入源の一つであった『[着メロ](https://ja.wikipedia.org/wiki/着メロ "wikilink")』の[商標](../Page/商標.md "wikilink")権も、都税の滞納により差し押さえられ、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月に[東京都主税局](https://ja.wikipedia.org/wiki/東京都主税局 "wikilink")により[Yahoo\! オークションに出品され](https://ja.wikipedia.org/wiki/Yahoo!_オークション "wikilink")(効力範囲別に2件\[1\]\[2\])双方ともゲームソフトメーカーの[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")が落札した\[3\]。
+
+のちに債権者から破産を申し立てられ、2017年9月20日に[東京地方裁判所](https://ja.wikipedia.org/wiki/東京地方裁判所 "wikilink")から破産手続開始決定を受けた\[4\]。
+
+## 年表
+
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[8月24日](../Page/8月24日.md "wikilink") - **株式会社イーゼルロボットビジョン**設立。
+  - [1996年](../Page/1996年.md "wikilink")1月 - 商号を**株式会社イーアールブイ**に変更。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")11月 - 株式会社イーゼルと合併し、商号を**株式会社イーゼル**に変更する。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")9月 - [第三世代携帯電話の](https://ja.wikipedia.org/wiki/第3世代移動通信システム "wikilink")[集積回路](../Page/集積回路.md "wikilink")設計を主として行っていた**株式会社鷹山**から営業の一部を譲渡され、商号を**株式会社鷹山**に変更。株式会社イーゼルに営業の一部を譲渡した旧鷹山は、商号を株式会社高取育英会に変更。
+  - [2000年](../Page/2000年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - 株式をJASDAQ市場（現 [ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")）に登録。
+  - [2001年](../Page/2001年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink") - 日本テレコム（現[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")）から[無線呼び出し](../Page/無線呼び出し.md "wikilink")事業の**「東京ウェブリンク株式会社」**（旧[東京テレメッセージ](https://ja.wikipedia.org/wiki/東京テレメッセージ "wikilink")）を譲り受け、[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")化。その際同社は、商号を**株式会社マジックメール**に変更する。
+  - [2002年](../Page/2002年.md "wikilink")
+      - [8月1日](../Page/8月1日.md "wikilink") - **東京通信ネットワーク**（後の[パワードコム](https://ja.wikipedia.org/wiki/パワードコム "wikilink")）から[PHS](../Page/PHS.md "wikilink")事業（東京電話アステル）を譲り受け、「アステル東京」サービスを開始。（実際の運営は子会社のマジックメールが行う。）
+      - [10月1日](../Page/10月1日.md "wikilink") - 100%子会社の株式会社マジックメールを[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")。
+  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")
+      - [4月1日](../Page/4月1日.md "wikilink") - ボイススポットフォン（VSフォン）サービス開始。
+      - [9月13日](../Page/9月13日.md "wikilink") - DDIポケット（現[ウィルコム](../Page/ウィルコム.md "wikilink")→ソフトバンク）網を利用した「全国コール」サービス開始。
+      - [11月30日](../Page/11月30日.md "wikilink") - 他地域のアステル網との[ローミング](../Page/ローミング.md "wikilink")を終了。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+      - [2月10日](../Page/2月10日.md "wikilink") - WiMAX方式による定額通信サービスへの参入を発表。
+      - [2月15日](../Page/2月15日.md "wikilink") - PHSによるテレメトリングサービスの新規受付を終了。
+      - [4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - PHSサービスの新規受付を終了。
+      - 7月1日 - 商号を**株式会社鷹山**（ようざん）から**株式会社YOZAN**に変更し、サービスブランドと統一。
+      - [7月26日](../Page/7月26日.md "wikilink") - [沖縄テレメッセージ](https://ja.wikipedia.org/wiki/沖縄テレメッセージ "wikilink")に出資。
+      - 11月30日 - 「アステル東京」ブランドでのPHS音声サービスを終了。
+      - [12月25日](../Page/12月25日.md "wikilink") - 無線ブロードバンドサービス「YOZAN [WiMAX](https://ja.wikipedia.org/wiki/WiMAX "wikilink")」開始。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+      - [3月13日](../Page/3月13日.md "wikilink") - [ジャレコ](../Page/ジャレコ.md "wikilink")と業務・資本提携することが発表された。相互の株式を持ち合うことになる。
+      - [4月17日](../Page/4月17日.md "wikilink") - [ソフィア総合研究所](https://ja.wikipedia.org/wiki/ソフィア総合研究所 "wikilink")とWiMAX関連の合弁会社設立を発表。[MVNO](https://ja.wikipedia.org/wiki/MVNO "wikilink")事業者向けサービス、一般ユーザー向けサービスの提供を行うとした。
+      - [5月31日](../Page/5月31日.md "wikilink") - ボイススポットフォン（VSフォン）サービスを終了。
+      - 6月30日 - テレメトリングサービスとPHS網を利用した児童見守りサービスを終了。PHS事業から完全撤退。
+  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")
+      - 4月 - [出版社](../Page/出版社.md "wikilink")の[飛鳥新社](https://ja.wikipedia.org/wiki/飛鳥新社 "wikilink")と[キティ・フィルム](https://ja.wikipedia.org/wiki/キティ・フィルム "wikilink")の[議決権を持つキティライツ](https://ja.wikipedia.org/wiki/株主の議決権 "wikilink")&エンターテインメントを[株式交換](../Page/株式交換.md "wikilink")によって完全[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")化。
+      - 12月 - WiMAX事業を一時凍結。WiMAXサービスを終了。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
+      - [2月12日](../Page/2月12日.md "wikilink") - 本社が、旧本社ビル（東京都[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")北沢3-5-18）に移転。従来の本社（東京都[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[神田美土代町](https://ja.wikipedia.org/wiki/神田美土代町 "wikilink")7番地 住友不動産神田ビル16階）が、家賃滞納により家主の[住友不動産](https://ja.wikipedia.org/wiki/住友不動産 "wikilink")から契約解除を申し立てられたため。
+      - [2月13日](../Page/2月13日.md "wikilink") - 資金調達の一環として、取締役会で株主総会に100株を1株に併合する付議を提出する決議を行う。これに対し翌14日、ジャスダック証券取引所が注意喚起のための公表措置を取る。
+      - [3月1日](../Page/3月1日.md "wikilink") - パーソナルセキュリティシステムを[ソフトバンクテレコム](../Page/ソフトバンクテレコム.md "wikilink")へ譲渡。
+      - [3月31日](../Page/3月31日.md "wikilink") - 飛鳥新社株式をすべて売却。
+      - [4月15日](../Page/4月15日.md "wikilink") - ジャスダック取引所によって[監理ポスト](https://ja.wikipedia.org/wiki/監理ポスト "wikilink")に割り当て。
+      - [4月22日](../Page/4月22日.md "wikilink") - キティライツ&エンターテイメントの株式をすべて売却。
+      - [6月30日](../Page/6月30日.md "wikilink") - WiMAX事業を廃止。
+      - [7月31日](../Page/7月31日.md "wikilink") - 同年8月1日付でJASDAQ市場において株式を[整理ポスト](https://ja.wikipedia.org/wiki/整理ポスト "wikilink")に割り当て、9月1日付で[上場廃止](https://ja.wikipedia.org/wiki/上場廃止 "wikilink")を決定。有価証券報告書を期限までに[関東財務局](https://ja.wikipedia.org/wiki/関東財務局 "wikilink")に提出出来なかったため。
+      - 10月1日 - 無線呼び出し事業について[会社分割](../Page/会社分割.md "wikilink")を行い、新設法人「**[東京テレメッセージ](https://ja.wikipedia.org/wiki/東京テレメッセージ "wikilink")株式会社**」を設立。その後2011年に東京テレメッセージはMTSキャピタルの100％出資子会社になりYOZANの手から離れた。
+  - [2011年](../Page/2011年.md "wikilink") - 世田谷区東北沢の本社ビルが競売される。本社を同区上北沢へ移転。
+  - [2013年](../Page/2013年.md "wikilink")7月 - 本社を[港区新橋に移転](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")。
+  - [2017年](../Page/2017年.md "wikilink")9月20日 - [東京地方裁判所](https://ja.wikipedia.org/wiki/東京地方裁判所 "wikilink")より[破産手続開始の決定](https://ja.wikipedia.org/wiki/破産手続開始の決定 "wikilink")を受ける\[5\]。
+  - 2018年
+      - 5月14日 - 破産手続費用の不足を原因とした破産手続廃止の決定を受ける。
+      - 6月15日 - 清算結了により登記簿閉鎖。
+
+## 株価の推移
+
+  - 2000年9月の新規上場時の初値は1600万円だった。公開価格は400万円\[6\]。
+  - 同年9月26日に1株を3株に分割。同年10月4日に分割後の高値である803万円まで上昇。
+  - 2001年11月27日に1株を10株に分割。しかしその後株価は下落する。
+  - 2008年5月1日に100株を1株に併合。上場廃止決定前である同年7月31日の終値は2070円。
+  - 最終売買日である8月29日の終値はストップ高である235円。最安値は8月22日につけた159円。
+
+## 株式数・分割・併合・増資
+
+  - [2000年](../Page/2000年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - 上場 発行済株数 **14,008**株 株価 16,000,000円
+
+:\*公開株数 1250株（新株発行 400株、売出し 850株）公募価格 4,000,000円
+
+  - 2000年[9月26日](../Page/9月26日.md "wikilink") - 株式分割 1 → 3
+
+:\*発行済株数 **42,026**株（2001年3月31日）株価 2,750,000円（3月30日）
+
+  - [2001年](../Page/2001年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink") - 株式分割 1 → 10
+
+:\*発行済株数 **420,594**株（2002年3月31日）株価 153,000円（3月29日）
+
+:\*発行済株数 **421,164**株（2003年3月31日）株価 24,000円
+
+  - [2003年](../Page/2003年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink") - 転換社債（1回）6,500,000,000円 転換価格 23,000円 修正条項あり 利息なし
+
+:\*発行済株数 **421,264**株（2004年3月31日）株価 54,200円
+
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月31日](../Page/1月31日.md "wikilink") - 新株発行 50,000株
+
+:\*発行済株数 **754,851**株（2005年3月31日）株価 50,800円
+
+  - 2005年[4月19日](../Page/4月19日.md "wikilink") - 転換社債（鷹）7,000,000,000円 当初行使価格 45,540円
+  - 2005年[8月24日](../Page/8月24日.md "wikilink") - 転換社債（2回）6,000,000,000円 当初行使価格 26,880円
+  - 2005年8月24日 - 転換社債（3回）6,000,000,000円
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月13日](../Page/3月13日.md "wikilink") - 転換社債（4回）6,000,000,000円 行使価格 19,450円 時価-10%に修正されるMSCB
+
+:\*発行済株数 **1,398,351**株（2006年3月31日）株価 20,580円
+
+  - 2006年[3月29日](../Page/3月29日.md "wikilink") - 新株発行 22,800株 簡易株式交換で（株）新総企 買収
+  - 2006年[7月21日](../Page/7月21日.md "wikilink") - 転換社債（7月）5,000,000,000円 行使価格 8,500円 時価-8%に修正されるMSCB
+  - 2006年[11月10日](../Page/11月10日.md "wikilink") - 新株発行 374,000株 価格 4,354円 総額 1,628,396,000円
+  - 2006年[12月28日](../Page/12月28日.md "wikilink") - 転換社債（12月）2,000,000,000円 行使価格 2,579円 時価-10%に修正されるMSCB
+  - 2006年12月28日 - 新株予約権 行使価格 2,579円 時価-10%に修正されるMSワラント 2,000,000,000円分の権利
+  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月29日](../Page/3月29日.md "wikilink") - 転換社債（5回）500,000,000円 転換価格 1,224円 利息なし
+
+:\*発行済株数 **3,025,565**株（2007年3月31日）株価 1,337円（3月30日）
+
+  - 2007年[4月9日](../Page/4月9日.md "wikilink") - 新株発行 290,143株 簡易株式交換で（株）キティライツ&エンターテイメント 買収
+  - 2007年[4月29日](../Page/4月29日.md "wikilink") - 新株発行 146,544株 簡易株式交換で（株）飛鳥新社 買収
+  - 2007年[7月30日](../Page/7月30日.md "wikilink") - 転換社債（6回）3,700,000,000円 転換価格 937円 時価-8.5%に修正されるMSCB 利息なし
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月28日](https://ja.wikipedia.org/wiki/2月28日 "wikilink") - 新株予約権（1回）行使価格 115円 19,130,343株（2,222,000,000円分）の権利 価格修正なし
+  - 2008年2月28日 - 転換社債（7回）735,000,000円 転換価格 115円 価格修正なし 潜在株数 6,391,304株
+  - 2008年2月28日 - 転換社債（8回）286,000,000円 転換価格 115円 価格修正なし 潜在株数 2,486,956株
+  - 2008年2月28日 - 転換社債（9回）1,500,000,000円 転換価格 115円 価格修正なし 潜在株数 13,043,478株
+
+:\*発行済株数 **7,395,399**株（2008年3月31日）株価 203円
+
+  - 2008年[5月1日](../Page/5月1日.md "wikilink") - 株式併合 100 → 1
+
+:\*発行済株数 **80,543**株（2008年5月2日）株価 11,300円
+
+## かつて行っていた事業
+
+### マジックメール
+
+**マジックメール**は、YOZANが提供する[無線呼び出し](../Page/無線呼び出し.md "wikilink")（ポケットベル）サービスのブランド名称。この名称は、使用される 280[MHz帯が建物内や](../Page/周波数.md "wikilink")[地下鉄](https://ja.wikipedia.org/wiki/地下鉄 "wikilink")などでも到達可能な電波伝達力に由来する。ただしこれは理論値であり、実際のサービスでは地下には別途基地局の設置が必要で、主要駅でも、圏外になるほうが多い。
+
+[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")一都三県内に16か所の[基地局](https://ja.wikipedia.org/wiki/基地局 "wikilink")を設置、[国道16号](../Page/国道16号.md "wikilink")線内側を中心とした東京近郊地域でサービスを展開中。2007年2月末現在の契約者数は14万7532人\[7\]。
+
+もともとは[東京テレメッセージ](https://ja.wikipedia.org/wiki/東京テレメッセージ "wikilink")（初代）が展開していた事業である。無線呼び出し利用者の急激な減少により同社が破綻し、[日本テレコム](https://ja.wikipedia.org/wiki/日本テレコム "wikilink")（当時）の子会社となっていたものの事業を引き継いだ。
+
+当初は、FLEX-TD 方式と POCSAG 方式の 2種類の規格によりサービスを提供していたが、事業合理化のため、2003年4月より POCSAG 方式に一本化。FLEX-TD 方式によるサービスは2004年[11月30日](../Page/11月30日.md "wikilink")に新規受付を終了し、翌年3月31日にサービス停止している。
+
+2007年3月末に[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")グループがこの部門から撤退したため、YOZANとその関連会社である[沖縄テレメッセージ](https://ja.wikipedia.org/wiki/沖縄テレメッセージ "wikilink")が国内における唯一の[無線呼び出し](../Page/無線呼び出し.md "wikilink")（ポケットベル）事業者となった。
+
+2008年10月に、会社分割により280MHz関連事業は新設法人の「東京テレメッセージ(2代目)」に承継された。
+
+### アステル東京
+
+**アステル東京**は、[2002年](../Page/2002年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に[東京通信ネットワークより譲受したPHSサービスのブランド名称である](https://ja.wikipedia.org/wiki/パワードコム "wikilink")。
+
+旧アステル東京からの流れを受け、「[着メロ](../Page/着信メロディ.md "wikilink")」の商標権（[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")日本第4194385号ほか\[8\]）を保持していたが、前述の通り東京都によりオークションにかけられ所有権を失った。
+
+### ボイススポットフォン（VSフォン）サービス
+
+**ボイススポットフォン（VSフォン）サービス**は、PHSを用いた屋内向けワイヤレス電話サービスのブランド名称である。
+
+### YOZAN WiMAX
+
+**YOZAN WiMAX**（よーざん わいまっくす）は、[WiMAX](https://ja.wikipedia.org/wiki/WiMAX "wikilink")を利用した無線[ブロードバンドインターネット接続](https://ja.wikipedia.org/wiki/ブロードバンドインターネット接続 "wikilink")サービスのブランド名称。
+
+#### 概要
+
+PHS事業継承で得た[インフラを活用し](https://ja.wikipedia.org/wiki/インフラストラクチャー "wikilink")、WiMAXによる無線ブロードバンドインターネット接続を構築すると表明していた。
+
+サービス開始時点では、移動端末を想定した[モバイルWiMAX](https://ja.wikipedia.org/wiki/モバイルWiMAX "wikilink") ([IEEE802.16e](https://ja.wikipedia.org/wiki/IEEE802.16e "wikilink")) が実用化されていないため、"BitStand" と呼ばれる [Wi-Fi](../Page/Wi-Fi.md "wikilink")[アクセスポイントのバックボーン](../Page/アクセスポイント_\(無線LAN\).md "wikilink")（基地局と交換局などを結ぶ基幹となる通信回線）に WiMAX (IEEE 802.16-2004) を利用した[公衆無線LAN](https://ja.wikipedia.org/wiki/公衆無線LAN "wikilink")サービスのみを提供していた。BitStandサービスのプロトコルにはIEEE 802.11b/g方式が使用され、通信速度は上り下りともに9Mbpsである。
+
+当初、2006年5月までに基地局を1500カ所\[9\]、BitStandを6000局設置するとしていた。しかし、2006年10月23日の時点では基地局は関東112局・近畿2局、BitStandは関東144局、2007年7月10日の時点で基地局は関東127局・中京3局・近畿8局、BitStandは関東179局・中京2局・近畿4局にとどまった。双方の設置の遅れが顕著で設置のペースもあがらず、面的なサービス展開には至らなかった。
+
+総務省がMobile WiMAX向け周波数とした2.5GHz帯については、免許申請を行わず、他の事業者との提携を検討するとした\[10\]。
+
+しかし、同社の2008年3月期中間決算短信\[11\]によれば、2007年9月30日現在の契約数は0千（500契約未満）、2007年4月1日 - 9月30日半年間の売上高323万3千円に対し営業費用9億3044万4千円で、9億2721万0千円の営業損失となっている。そのため、WiMAX事業を一時凍結するとし、同社が2008年2月13日深夜発表した「当社の業績低迷に至る経緯と今後の再生方針について」\[12\]内で2007年12月31日にBitStandサービス、WiMAXサービスは終了して2008年3月末までに売上原価の解約を全て済ませ、関連コストは無くなる予定とされていた。そして同年6月18日に発表した「WiMAX事業の廃止に関するお知らせ」\[13\]により、同年6月30日をもって事業を廃止する旨発表された。
+
+#### 料金体系
+
+BitStandサービス（公衆無線LANサービス）が使い放題になるAコース、BitStandサービス使い放題と無線LANルータ ("Web Distributor") レンタルがセットになったBコースの2種類が用意されていた。契約の際には別途事務手数料として3,150円（税込）が発生する。
+
+  - Aコース - 年間パッケージ料 7,560円（税込）／半年パッケージ料 4,410円（税込）
+  - Bコース - 年間パッケージ料 11,340円（税込）
+
+なお、Web Distributorは自宅の[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")回線に接続し、自宅 (Web Distributor) ・外出先 (YOZAN WiMAX) ともにワイヤレス環境を整えるための製品で、実態は一般的な無線LAN機能付き[ブロードバンドルータ](https://ja.wikipedia.org/wiki/ブロードバンドルータ "wikilink")である。なお、このWeb Distributor（[LINKSYS](https://ja.wikipedia.org/wiki/LINKSYS "wikilink")製）だが、サービス終了時期と前後した2007年末、秋葉原の中古パソコン販売店で放出品として大量に安価に販売された\[14\]ことがある。
+
+### パーソナルセキュリティシステム
+
+[GPSなどの位置情報確認技術を利用し](../Page/グローバル・ポジショニング・システム.md "wikilink")、本サービス専用端末の位置データなどをセンターから相互に通知・確認させるためのシステム。現在は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")の児童の緊急通報システムとして採用されている。
+
+以前は児童見守りサービスと呼ばれていたが、ネットワークがYOZANのPHS網からボーダフォン（当時）の[第二世代携帯電話ネットワークに変更になるのに伴い](https://ja.wikipedia.org/wiki/第2世代移動通信システム "wikilink")、名称が変更された。2008年3月1日に、ソフトバンクテレコムへ事業譲渡された。
+
+### ケータイ・セービング
+
+## 脚注
+
+## 関連項目
+
+  - [東京テレメッセージサービス](https://ja.wikipedia.org/wiki/東京テレメッセージサービス "wikilink")
+  - [D-FAX](https://ja.wikipedia.org/wiki/D-FAX "wikilink")
+  - [WiMAX](https://ja.wikipedia.org/wiki/WiMAX "wikilink")
+  - [アステル](../Page/アステル.md "wikilink")
+
+## 外部リンク
+
+  - [D-FAX](http://www.d-fax.ne.jp/)
+
+[Category:PHS_(アステル)](https://ja.wikipedia.org/wiki/Category:PHS_\(アステル\) "wikilink") [Category:かつて存在した日本の電気通信事業者](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の電気通信事業者 "wikilink") [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:経営破綻した企業(東京都)](https://ja.wikipedia.org/wiki/Category:経営破綻した企業\(東京都\) "wikilink") [Category:1990年設立の企業](https://ja.wikipedia.org/wiki/Category:1990年設立の企業 "wikilink") [Category:2018年廃止の企業](https://ja.wikipedia.org/wiki/Category:2018年廃止の企業 "wikilink")
+
+1.  [第086号 商標権 「着メロ（チャクメロ）」](http://koubai.auctions.yahoo.co.jp/auction/auction?pid=tokyo&oid=1263539455488579&aid=i11213020) - Yahoo\! オークション
+2.  [第087号 商標権「着メロ（チャクメロ、キメロ）」](http://koubai.auctions.yahoo.co.jp/auction/auction?pid=tokyo&oid=1263539455488579&aid=i11215356) - Yahoo\! オークション
+3.  [「着メロ」商標権2550万円　都の公売で落札](http://www.asahi.com/national/update/0309/TKY201003080454.html) asahi.com2010年3月9日。
+4.  [TSR速報 （株）YOZAN（旧：（株）鷹山）](http://www.tsr-net.co.jp/news/tsr/20170927_01.html)東京商工リサーチ 2017年9月27日
+5.  [YOZANが破産　「国内初のWiMAX商用サービス」提供も……](http://www.itmedia.co.jp/news/articles/1709/27/news074.html) - [ITmedia](https://ja.wikipedia.org/wiki/ITmedia "wikilink")　NEWS（2017年09月27日 12時41分 公開/2017年9月27日閲覧）
+6.  <http://www.jasdaq.co.jp/list/presentation_02_05a_01.jsp>
+7.  <http://www.zakzak.co.jp/top/2007_04/t2007040928.html>
+8.  他社も同じ商標で登録されている。
+9.  <http://k-tai.impress.co.jp/cda/article/event/27843.html>
+10. <http://bb.watch.impress.co.jp/cda/event/18852.html>
+11.
+12. <http://www.yozan.co.jp/ir/dl.php?id=233&dl=0&la=news_jp>
+13. <http://www.yozan.co.jp/ir/dl.php?id=530&dl=0&la=news_jp>
+14. [日経トレンディネット・価格情報2007年12月27日調べ](http://trendy.nikkeibp.co.jp/article/column/20071227/1005747/?P=3&rt=nocnt)

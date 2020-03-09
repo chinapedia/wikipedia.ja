@@ -1,0 +1,335 @@
+> この記事は[ITER](https://ja.wikipedia.org/wiki/ITER)から翻訳されています。
+
+
+[ITER_participants.png](https://ja.wikipedia.org/wiki/File:ITER_participants.png "fig:ITER_participants.png") **ITER**（イーター）は、国際協力によって[核融合](https://ja.wikipedia.org/wiki/核融合 "wikilink")エネルギーの実現性を研究するための実験施設である。この核融合実験炉は核融合炉を構成する機器を統合した装置であり、[ブランケット](https://ja.wikipedia.org/wiki/ブランケット "wikilink")や[ダイバータ](https://ja.wikipedia.org/wiki/ダイバータ "wikilink")などの[プラズマ対向機器](https://ja.wikipedia.org/wiki/プラズマ対向機器 "wikilink")にとって総合試験装置でもある。計画が順調に行けば原型炉、実証炉または商業炉へと続く。名称は、過去には*International Thermonuclear Experimental Reactor*の略称と説明された時期もあったが、現在は公式には*iter*（[羅](../Page/ラテン語.md "wikilink")：道）に由来する、とされている。
+
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では「**国際熱核融合実験炉**（こくさいねつかくゆうごうじっけんろ）」または「**イーター**（後述する協定の和文正文等における呼称）」と呼ばれている。
+
+建設候補地として[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[六ヶ所村](https://ja.wikipedia.org/wiki/六ヶ所村 "wikilink")（日本）と[カダラッシュ](https://ja.wikipedia.org/wiki/カダラッシュ "wikilink")（[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")）が挙げられていたが、2005年6月、カダラッシュに建設することが決定された。2006年11月にはプロジェクトの実施主体となる[国際機関](https://ja.wikipedia.org/wiki/国際機関 "wikilink")を設立する[国際協定である](https://ja.wikipedia.org/wiki/条約 "wikilink")「イーター事業の共同による実施のためのイーター国際核融合エネルギー機構の設立に関する協定(Agreement on the Establishment of the ITER International Fusion Energy Organization for the Joint Implementation of the ITER Project)」に対する署名が行われた後、2007年10月24日に協定の効力が発生し、イーター国際核融合エネルギー機構が国際機関として正式に設立された。
+
+## ITERの目的
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:ITER-img_0237_II.jpg "wikilink") 21世紀初頭の現在、[核融合](https://ja.wikipedia.org/wiki/核融合 "wikilink")に関する研究は世界各国で活発に行われており、装置の方式についても様々な種類のものが検討されている。しかし、これまでの研究装置では、実用化するに足る規模のエネルギー（数十万kW程度）を継続的に発生させた例はなく、瞬間値としても欧州連合のJET（Joint European Torus）が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に記録した1万6千kWが最大である。実用規模の核融合エネルギーが生じる条件下での[プラズマ](https://ja.wikipedia.org/wiki/プラズマ "wikilink")の物理は未知の領域であり、プラズマ物理における課題の解明が大きく期待されている。また、その解明は核融合エネルギーの実用化に不可欠な課題の一つである。ITERでは最大で50 - 70万kWの出力（熱出力）が見込まれており、実用規模のエネルギーを発生させる初の核融合装置となる。さらに、ITERではエネルギー発生プラントとしてのエネルギー収支も大きく向上され、運転維持に必要となるエネルギー（入力エネルギー）と核融合により生成されるエネルギー（出力エネルギー）との比（[エネルギー増倍率](https://ja.wikipedia.org/wiki/エネルギー増倍率 "wikilink")）が従来装置では1程度であったところ、5 - 10を目標値としている。
+
+また、核融合による発電を行う場合、長時間連続して核融合反応を生じさせる必要があるが、実用可能な程度に高い圧力の[プラズマ](https://ja.wikipedia.org/wiki/プラズマ "wikilink")を保持するまでには至っておらず、韓国の[KSTAR](https://ja.wikipedia.org/wiki/KSTAR "wikilink")が55秒を達成したのが最長である（低い圧力のプラズマについては、[九州大学](../Page/九州大学.md "wikilink")の[TRIAM](https://ja.wikipedia.org/wiki/TRIAM "wikilink")が5時間16分の記録を保持）。ITERではこれを超えて、[エネルギー増倍率](https://ja.wikipedia.org/wiki/エネルギー増倍率 "wikilink")が10以上の場合でも300 - 500秒の長時間運転を達成できることに加え、[エネルギー増倍率](https://ja.wikipedia.org/wiki/エネルギー増倍率 "wikilink")が5の場合には定常運転（連続運転）が可能となることを目標としている。
+
+さらに、核融合装置はプラズマ閉じ込め用の超伝導コイル、プラズマ加熱用の加速器、保守のための遠隔ロボット等、高度な技術の集大成でもあり、ITERにおいてこれらの機器を統合的に運用して、核融合装置という特殊な環境においてもお互いに悪影響を及ぼさず、正常に運転するという経験を積むことは、核融合の実用化にあたって貴重な機会であり、これもITERの大きな目的の一つである。
+
+一方で、核融合の実用化には、高い中性子照射に耐えるとともに、放射性物質に変化しにくい材料の開発が必要不可欠であるが、ITERは材料開発に用いるためには中性子の発生量が不十分であり、これを主な目的とはしていない。したがってITERと並行して核融合材料の開発を行う必要があり、**[IFMIF](https://ja.wikipedia.org/wiki/IFMIF "wikilink")計画**という、国際協力により材料開発のための照射設備の建設計画が、日本の青森県六ヶ所村で進行中である。
+
+このように、ITERのみで核融合の実用化が達成されるわけではないが、ITERが実用化に向けての重要な一歩であることは間違いない。
+
+## 参加国
+
+  - :[JT-60](https://ja.wikipedia.org/wiki/JT-60 "wikilink"), 1960年代
+
+  - :[JET](https://ja.wikipedia.org/wiki/Joint_European_Torus "wikilink")
+
+  - :
+
+  - :
+
+  - : (; )
+
+  - :[KSTAR](https://ja.wikipedia.org/wiki/KSTAR "wikilink")
+
+  - :
+
+## 日本の位置
+
+第二次世界大戦に敗れた後の日本は、核兵器や航空機、宇宙ロケットなどの軍事に関わる分野での研究と開発で大きく規制がかけられ、世界の第一線から大きく取り残されることとなった。一方、核融合と高温プラズマに関わる研究は、軍事兵器利用の可能性の余地がなかったため、比較的自由に進めることができた。1960年代からは、日本の核融合研究者が世界の研究者と共同して高温プラズマの研究に従事するようになった。1972年にはJFT-2という[トカマク型](https://ja.wikipedia.org/wiki/トカマク型 "wikilink")の研究装置が日本で完成し、これは西側世界での本格的なトカマク装置としては世界で最初であった。これにより、高温プラズマと核融合技術では日本が世界をリードしてゆくことになった。1978年に始まり約10年間のINTOR計画（国際トカマク炉計画）が終了した1988年からIAEAの後援の下でITERの概念設計活動が、1992年からは工学設計活動が開始された。ITERの建設地は2006年にフランス・カダラッシュへ決まったが、日本はITER計画の当初からの計画設立国であり、たとえばプラズマ中の断熱層の発見によってITERの建設費を約半分にする提案を行い、1998年以降に設計変更まで成し遂げるなど、大きな成果を挙げてきた。現在は、日本がITER計画の主導権をとって推進しているといえる。まだ計画の域から実行段階の最初に差し掛かったIFMIF計画も、六ヶ所村での建設計画がゆっくりと進められている。
+
+その後の展開としては、基礎科学としての慣性核融合装置「[激光](https://ja.wikipedia.org/wiki/大阪大学レーザーエネルギー学研究センター#施設 "wikilink")」を始めとして、ヘリカル型装置「ヘリオトロン」等の基礎的研究も進めながら、ITER後の核融合実証炉実現に向けて基礎から応用まで含んだ研究基盤整備を続ける予定であり、[原子力委員会](https://ja.wikipedia.org/wiki/原子力委員会 "wikilink")核融合専門部会や[文部科学省](../Page/文部科学省.md "wikilink")研究計画・評価分科会核融合研究作業部会などの審議会や、民間団体である核融合フォーラムの「社会と核融合クラスター」などで議論が行われている。どの方式が最良の解になるのか現時点ではわからないが、エネルギー問題を解決する一つの解として、研究を進めることになる予定である。原子力委員会は、「[第三段階核融合研究開発基本計画における今後の核融合研究開発の推進方策について](http://www.aec.go.jp/jicst/NC/iinkai/teirei/siryo2005/kettei/kettei051101.pdf)」（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）11月1日原子力委員会決定）において、トカマク方式とそれ以外について、「(1)トカマク方式については、 ITERの建設に必要な研究開発において我が国が主要な役割を果たして、ITERの工学設計が確定するとともに、次段階につながる研究開発計画を具体化するための基盤が形成された、(2)トカマク方式以外（ヘリカル方式とレーザー慣性閉じ込め方式等）においては学術研究として研究が着実に進展した」と評価している。また、原型炉段階への移行については、核融合専門部会の報告書である「今後の核融合研究開発の推進方策について」において「実用化を見据えることや民間事業者の参画を得ることも重要」としており、電力各社の判断も含まれることを示唆しているとされる。\[1\]
+
+[2013年](../Page/2013年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")超電導型核融合実験装置「JT-60SA」の建設が[日本原子力研究開発機構](https://ja.wikipedia.org/wiki/日本原子力研究開発機構 "wikilink")の那珂核融合研究所で始まった\[2\]。2020年に完成し、2022年に本格稼働する見通しだ。[1](https://www.sankei.com/life/news/190120/lif1901200005-n1.html)
+
+## 建設候補地 決定までの経緯
+
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[ジュネーヴ](../Page/ジュネーヴ.md "wikilink")において行われた米ソ首脳会談において、[レーガン大統領と](../Page/ロナルド・レーガン.md "wikilink")[ゴルバチョフ書記長は平和利用のための核融合研究の重要性を認め](../Page/ミハイル・ゴルバチョフ.md "wikilink")、核融合エネルギー実用化のための国際協力について合意した。これを契機として、核融合研究において先行していた[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ソ連](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")および[欧州原子力共同体](https://ja.wikipedia.org/wiki/欧州原子力共同体 "wikilink")の代表者が協力の形態について[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から協議を開始した。その後、[IAEAの後援の下](../Page/国際原子力機関.md "wikilink")、これら4ヶ国によってITERの概念設計活動(Conceptual Design Activity, CDA)が[1988年](../Page/1988年.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで行われた。
+
+概念設計活動の終了後、より詳細な設計と、建設に必要な研究開発を行うことを目的として、上記4ヶ国（[ソ連は](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")に崩壊したため、[ロシア](../Page/ロシア.md "wikilink")が継承）は工学設計活動(Engineering Design Activity, EDA)を開始することに合意し、「国際熱核融合実験炉のための工学設計活動における協力に関する欧州原子力共同体、日本国政府、ロシア連邦及びアメリカ合衆国の間の協定（EDA協定）」を[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")に締結した。当初の有効期間は6年間で、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に最終設計報告書が提出されたが、各国の財政事情から建設費用を軽減する必要が生じ、再設計のために工学設計活動の期間は3年間延長された。その後、財政上の問題や建設地選定の遅延等を理由として[1999年](../Page/1999年.md "wikilink")に米国が離脱したが、他の3参加国により活動は継続され、延長後の最終設計報告書は[2001年](../Page/2001年.md "wikilink")7月に完成した。
+
+EDAの終了後、ITERの建設・運転等、計画の実施に必要となる国際協定について議論するために「ITER政府間協議(ITER Negotiations Meeting)」が開始された。[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")は[2001年](../Page/2001年.md "wikilink")6月に[オンタリオ州](../Page/オンタリオ州.md "wikilink")[クラリントン](https://ja.wikipedia.org/wiki/クラリントン "wikilink")を建設候補地として提案していたため、EDAに参加した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")、[ロシア](../Page/ロシア.md "wikilink")の3ヶ国と並んで政府間協議に当初から参加した。第1回政府間協議は[2001年](../Page/2001年.md "wikilink")11月に[トロント](../Page/トロント.md "wikilink")において行われた。[2003年](../Page/2003年.md "wikilink")2月に開催された第8回政府間協議において、[米国が計画に復帰し](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、また、[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")が新規に参加した。さらに[2003年](../Page/2003年.md "wikilink")6月には[韓国が](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月には[インド](../Page/インド.md "wikilink")が新規に参加したが、一方で[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")が[2003年](../Page/2003年.md "wikilink")12月に離脱し、現在の参加国は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")、[ロシア](../Page/ロシア.md "wikilink")、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")、[韓国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")、[インド](../Page/インド.md "wikilink")の7ヶ国である。
+
+建設候補地については、カナダが[2001年](../Page/2001年.md "wikilink")6月に[オンタリオ州](../Page/オンタリオ州.md "wikilink")クラリントンを提案した他、[2002年](../Page/2002年.md "wikilink")6月に日本が[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[六ヶ所村](https://ja.wikipedia.org/wiki/六ヶ所村 "wikilink")を、[欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")がカダラッシュ（[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")）とバンデヨス（[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")）をそれぞれ提案し、4候補地が誘致を競っていた。これらの候補地を参加国が共同で調査することを目的として、「サイト共同評価(Joint Assessment for Specific Site, JASS)」が[2002年](../Page/2002年.md "wikilink")9月から12月にかけて実施され、が[2003年](../Page/2003年.md "wikilink")2月の第8回政府間協議において承認された。報告書は、差異はあるものの技術的にはどの候補地に建設することも可能としており、候補地間の総合的な優劣については言及しなかったため、候補地の決定は政治的な判断に委ねられた。その後、欧州連合は11月に候補地をカダラッシュに一本化し、また、カナダが連邦政府から財政的な支援を受けられなかったために12月に提案を取り下げたため、六ヶ所村とカダラッシュのみが候補地として残った。候補地の最終的な選定のために、参加国の閣僚級の代表による会合が12月に行われたが、日欧共に誘致を主張し、また参加国のうち米韓が日本支持、露中が欧州支持と拮抗したため、決定には至らなかった。その後、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")5月にジュネーブにて日本とEUとの間で次官級協議が行われ、建設地決定に際して誘致国と非誘致国が合意すべき条件が話し合われた。後に発表された[共同文書](http://www.mext.go.jp/a_menu/shinkou/iter/016.htm)によれば、協議における合意内容は以下の通り。
+
+1.  誘致国は誘致できなかった国に対してITER建設費の10%分の調達枠を譲る
+2.  誘致国は誘致できなかった国にITER職員枠の10％を譲る
+3.  誘致国は誘致できなかった国が推薦するITER機構長候補を支持する
+4.  誘致できなかった国にITER関連施設を建設し、誘致国が建設費の50%を負担する
+
+これを受けて6月に再度閣僚級会合が開催され、建設地はカダラッシュに決定された。また、この合意に従い、11月に開催された次官級会合において池田駐クロアチア大使が機構長候補として承認された。
+
+プロジェクトの実施主体となる国際機関として「イーター国際核融合エネルギー機構（仮称）」の設立が予定されており、その設立根拠となる国際協定である「[イーター事業の共同による実施のためのイーター国際核融合エネルギー機構の設立に関する協定](http://www.mofa.go.jp/mofaj/gaiko/treaty/shomei_19.html)」に対する署名が2006年11月21日に[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")の[エリゼ宮](https://ja.wikipedia.org/wiki/エリゼ宮 "wikilink")において行われた。2007年10月24日、同協定の発効とともにイーター国際核融合エネルギー機構（イーター機構、ITER International Fusion Energy Organization）が正式設立され、初代機構長には[池田要](https://ja.wikipedia.org/wiki/池田要 "wikilink")元駐クロアチア大使が就任した。また、調達枠と職員枠については、上記合意に基づき日本がEUから割譲を受け、EU、日本、その他５か国が4:2:各1の分担となっている。
+
+## アメリカの誤算
+
+1990年代初め、アメリカ合衆国は核融合の技術開発計画に関して2つの大きな選択肢を持っていた。1つは磁場閉じ込め方式であり、もう1つは慣性閉じ込め方式のひとつの[レーザー核融合](../Page/レーザー核融合.md "wikilink")であった。当然これら2つは米国のみならず先進国の間では既知のアイデアであり、各国の核融合技術に関する研究者達も磁場閉じ込め方式の[トカマク型](https://ja.wikipedia.org/wiki/トカマク型 "wikilink")がいいか[ヘリカル型](https://ja.wikipedia.org/wiki/ヘリカル型 "wikilink")がいいか、それとも[慣性閉じ込め方式](https://ja.wikipedia.org/wiki/慣性閉じ込め方式 "wikilink")のレーザー核融合がいいかで検討がなされていたが、米国は1942年に始まる原子爆弾開発からの半世紀に渡る核物理学の研究実績の結果、水素爆弾の開発に関連した最高度の軍事機密であるコンピュータ・シミュレーションによって水素の核融合時の挙動を解き明かしたとの自負から、1990年半ばに他国に研究内容を一切明かさぬまま[ローレンス・リバモア国立研究所](https://ja.wikipedia.org/wiki/ローレンス・リバモア国立研究所 "wikilink")内でレーザー核融合に関する実験施設の建設、つまり軍事研究としての性格を帯びた**[NIF計画](https://ja.wikipedia.org/wiki/国立点火施設 "wikilink")**(National Ignition Facility)を開始した。この秘密計画が順調に運んだため、米国は1999年にITER計画より離脱した。しかし、その年の末に設計上の大きな問題が隠蔽されていたことが判明し、必要予算は膨らみ、建設は大幅に遅れることが明らかとなり、計画は根本から見直されることとなった。全てをNIF計画に賭けていた米政府も、2003年2月にITER計画に復帰した\[3\]。 NIF計画は当初での建設費用は7億ドル以下であったが、1997年には21億ドルまで上昇し、2000年には33億ドルに増えて、完成予定も結局7年遅れる事となった。関連費用まで含めると50億ドルに届くとNIFの反対派は主張している。\[4\] この誤算以前は米国も磁場閉じ込め方式で世界のトップの位置を日仏と争っていたが、ITER計画に再加入した時点では大きく遅れをとっており、計画の主導的地位には戻れそうにない。今もレーザー核融合のNIF計画は継続している。\[5\]
+
+## ITERの目標
+
+公式のITERの目標は「平和的目的のための核融合エネルギーの科学的・技術的な実現性のデモンストレーション」となっている。ITERではいくつか個別の目標があるが、すべて実際に役立つ核融合動力炉の開発についての事柄である。
+
+  - 短時間、外部入力エネルギーより10倍の融合熱によるエネルギーを発生させる（Q値＝エネルギー増倍率:10）
+  - Q値を5を超えて安定したプラズマを発生させる
+  - 最大8分間の融合パルスを維持する
+  - 「燃焼」（自己維持）プラズマを点火する
+  - 核融合発電所に必要な科学技術と技法を開発する ― 超伝導磁石とロボットによる遠隔操作技術を含む
+  - トリチウムの生産構想を立証する
+  - 中性子を遮蔽し熱を生み出す技術を向上させる（D+T核融合反応での多くのエネルギーが高速中性子の形で得られる）
+
+## 反応炉の原理と概要
+
+[重水素](../Page/重水素.md "wikilink")と[三重水素](../Page/三重水素.md "wikilink")（トリチウム）を融合させると、[ヘリウム](https://ja.wikipedia.org/wiki/ヘリウム "wikilink")4原子核（[アルファ粒子](../Page/アルファ粒子.md "wikilink")）と高エネルギー[中性子](../Page/中性子.md "wikilink")が生じる。
+
+\[{}^{2}_{1}\mbox{H} + {}^{3}_{1}\mbox{H}  \rightarrow {}^{4}_{2}\mbox{He} + {}^{1}_{0}\mbox{n} + 17.6 \mbox{ MeV}\]
+
+鉄より原子番号の小さな元素の安定[同位体](../Page/同位体.md "wikilink")は、融合する事でエネルギーを発生させる。重水素と三重水素は水素の同位体であり、最小のエネルギーで融合を実現できる、最も魅力的なエネルギー源である。
+
+すべての初期・中期の恒星は、核融合反応により莫大なエネルギーを得て夜空に輝いている。重水素―三重水素核融合反応は、ウラニウム235の核分裂反応の約3倍のエネルギーを発生する。石炭を燃やすことで得られる化学反応のエネルギーと比べれば数百万倍の違いがある。核融合発電プラントの目的は、このエネルギーを発電に利用することにある。
+
+互いに正電荷を持つ核内の陽子同士が強く反発し合うため、核融合に必要なエネルギーは非常に大きい。おおざっぱに見積もると、[トンネル効果](../Page/トンネル効果.md "wikilink")によって[静電気力](https://ja.wikipedia.org/wiki/静電気力 "wikilink")の壁を越え、さらに[核力](https://ja.wikipedia.org/wiki/核力 "wikilink")と静電気力がバランスする距離まで近づいて融合するには、原子核同士は100フェムトメートル（1×10\({}^-\)\({}^1\)\({}^3\)m）以下にまで接近しなければならない。ITERでは、これを高温と磁気による閉じ込めによって実現する計画である。
+
+高温は、原子核同士の静電気斥力を超える十分なエネルギーを与える（[マクスウェル分布](https://ja.wikipedia.org/wiki/マクスウェル分布 "wikilink")を参照）。 重水素―三重水素核融合の反応率を最適化するには、1億K（[ケルビン](../Page/ケルビン.md "wikilink")）台の高温が必要である。 プラズマを高温に熱するには[ジュール熱](https://ja.wikipedia.org/wiki/ジュール熱 "wikilink")を用いる。この場合はプラズマ中に電流を流して発生させる。さらなる加熱には中性粒子ビーム入射(Neutral Beam Injection, NBI)加熱法と高周波(Radio Frequency、RF)加熱法を用いる。
+
+このような高温では、粒子は極めて大きな運動エネルギーをもつ。これらの粒子は、束縛しなければエネルギーを保持したまま直ちに拡散してしまい、反応を起こす最低の温度以下にまでプラズマが冷えてしまう。核融合炉の設計を成功させるためには、プラズマが核融合を行なうよう、十分に小さなスペースに必要な高温の粒子を詰め込んだまま、必要な時間だけ維持する必要がある。ITERを含む磁気閉じ込め式の反応炉の多くは、プラズマ、つまり荷電粒子のガスを磁力で閉じ込めるよう設計されている。粒子は[トロイダル磁場によって進行方向と垂直な中心方向に加速され](https://ja.wikipedia.org/wiki/トカマク型 "wikilink")、内部に閉じ込められることになる。
+
+高熱と強力な光子・粒子から磁石とその他の機器を守り、同時に真空に近いプラズマを保持し、確実に密閉する格納容器も必要である。
+
+格納容器は激しい粒子の衝突にさらされる。表面は電子、イオン、陽子、アルファ粒子、中性子の間断ない攻撃にさらされ、構造が劣化してゆく。このような厳しい環境でも、経済的な意味で十分な長期に渡り発電プラントとして存続できるよう、適切な材料が選ばれる。ITERと国際核融合材料照射施設(International Fusion Materials Irradiation Facility, IFMIF)では、今後それらの材料の試験が実施される。
+
+核融合反応が開始すると、プラズマの反応領域から高エネルギー中性子が放射される。中性子は電荷を持たないため、磁界の影響を受けずに自由に運動できる（[中性子束](https://ja.wikipedia.org/wiki/中性子束 "wikilink")(neutron flux)参照）。 これにより、ITERでは主に中性子がエネルギーを外部に運ぶ。理論上はアルファ粒子がプラズマ中でエネルギーを放出することで温度を保つ働きをする。
+
+格納容器の内壁の内側には、数種のテスト・ブランケット・モジュールのうちの一つが置かれる。 これらのモジュールは、信頼性と効率性に配慮した方法で中性子を減速・吸収し、構造物へのダメージを限定しつつ、リチウムと入射してくる中性子とから新たな燃料となる三重水素を生産するよう設計されている。
+
+エネルギーは、高速中性子が一次冷却液を通り抜ける過程で吸収される。発生した熱エネルギーは、実際の発電所では発電タービンを回す力として使われることになるが、ITERでは科学的興味の対象ではないため、取り出されて捨てられる。
+
+## 反応炉の構成
+
+ITERの反応炉は主に以下の装置類から構成される。 [thumb](https://ja.wikipedia.org/wiki/ファイル:ITER_VacuumVessel.JPG "wikilink")
+
+  - 炉壁
+      - [ブランケット](https://ja.wikipedia.org/wiki/ブランケット "wikilink"): 炉壁の最前線で冷却・燃料生産・遮蔽の役割を担う400-700個ほどのセグメントと呼ばれるタイル状のコンテナ
+      - ダイバータ: 炉壁の最前線下部でプラズマ中の不純物を捕らえる
+      - 真空容器: ブランケットやダイバータの背後に控える壁 超高真空を保つ
+      - ポート: 炉壁に開けられた開口部 ブランケットやダイバータの交換装置やテスト装置の出入り口となる
+  - 超伝導電磁石
+      - センターソレノイドコイル: 6個が鉛直に重なって1本のコイルとなる
+      - トロイダルフィールドコイル: 300トンx18基。D字形のコイルで、1基ごとの高さ16.5メートル、幅9メートル。製造費は1基あたり約100億円。2020年、[三菱重工](https://ja.wikipedia.org/wiki/三菱重工 "wikilink")明石工場で製作されてフランスに輸出された\[6\]。
+      - ポロイダルフィールドコイル: 6本の円形コイル 最大直径24.7m
+  - プラズマ加熱装置
+      - 高周波加熱装置:
+      - 中性粒子入射装置（負イオンビーム入射装置）:
+  - 支持体
+  - 電力供給システム（超伝導電磁石、プラズマ加熱装置、冷却システム、その他）
+  - 冷却システム（炉壁関連、超伝導電磁石）
+  - 燃料供給システム
+  - 燃料回収システム
+  - 超高真空排気装置
+  - 各種センサー類 および 制御機器類
+  - 遠隔操作炉壁交換装置又はロボット
+  - 建物
+
+## 反応炉の諸元
+
+（1998年度設計値）
+
+  - 直径: 26m
+  - 高さ: 14.5m
+  - 大半径: 8.1m
+  - 断面の幅: 8.9m
+  - 体積: 4,250m<sup>3</sup>
+  - 表面積: 1,430m<sup>2</sup>
+  - 重量: 〜9,000トン（遮蔽体を含む）
+  - 使用温度: 1×10<sup>-7</sup>Pa
+  - 真空性能: 10μΩ以上
+  - 寸法精度
+      - 工場制作時: ±5nm
+      - 現場組立時: ±20nm
+
+（出典:「核融合工学概論」関昌弘編 日刊工業新聞社 ISBN 4-526-04799-6）
+
+**プラズマの計画値**
+\* プラズマ大半径: 6.2m
+
+  - プラズマ小半径: 2.0m
+  - プラズマ体積: 840m<sup>3</sup>
+  - プラズマ電流: 15.0MA
+  - 軸でのトロイダル磁場強度: 5.3T（テスラ）
+  - 核融合出力: 500MW
+  - プラズマ保持時間: \>400秒
+  - エネルギー増倍率（Q値）: \>10
+
+（出典:www.iter.org）
+
+## フランスの建設予定地
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Cadarache_\(red_dot\)_CIA_World_Factbook_map.png "wikilink")
+
+ITERの建設地選びはとても長引いた。フランスの[プロヴァンス＝アルプ＝コート・ダジュール地域圏](https://ja.wikipedia.org/wiki/プロヴァンス＝アルプ＝コート・ダジュール地域圏 "wikilink")の[カダラッシュ](https://ja.wikipedia.org/wiki/カダラッシュ "wikilink")と日本の青森県六ヶ所村が有力であった。カナダのクラリントンが2001年5月に名乗りを挙げてきたが、2003年には引き下がった。2002年4月にスペインがヴァンデロスで立候補してきたが、2003年11月にEUはフランス単独で集中して応援することに決めたので、候補地選びは日本とフランスとの戦いとなった。
+
+2005年5月3日にEUと日本は7月にこの件について話し合うことに合意した。2005年の6月28日、モスクワでの最後の会議において、参加各国はフランスのカダラッシュを建設地とする事で合意した。 ITERの建設は2008年より始められる予定となり、トカマク炉の組立は2011年よりと決まった。
+
+## 建設に関わる国と機関
+
+今のところ7つの国と地域がITER計画に関わっている。EU、インド、日本、中国、ロシア、韓国、そして、アメリカ合衆国である。EUの一つのポルトガルがブラジルをプロジェクトに加えたがっている。
+
+カナダは当初は正式メンバーであったが、連邦政府の予算不足でメンバーから抜けることとなった。2003年の建設地レースからカナダが抜けたのも予算不足が原因であった。ITER参加国ではカザフスタンの参加を認めるか協議中である。
+
+## 事業スケジュール
+
+事業期間35年（建設10年、運転20年、密閉隔離5年）
+
+  - 2025年12月　運転開始
+  - 2035年12月　核融合運転\[7\]
+
+<table>
+<thead>
+<tr class="header">
+<th><p>日時</p></th>
+<th><p>できごと</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>7 <a href="https://ja.wikipedia.org/wiki/ITER#参加国" title="wikilink">参加国</a> が正式に核融合炉への出資に合意</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>ITERサイトの整備開始 [8]</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>ITERサイトの整地完了 [9]</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/トカマク" title="wikilink">トカマク</a>建屋の工事が開始</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>組立建屋の屋根据付完了[10]</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>トカマク据え付け完了。 <a href="../Page/トーラス.md" title="wikilink">トーラス</a>真空排気開始[11]</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>初<a href="https://ja.wikipedia.org/wiki/プラズマ" title="wikilink">プラズマ</a>達成（予定）[12]</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>重水素-トリチウム運転開始（予定）</p></td>
+</tr>
+</tbody>
+</table>
+
+## 資金拠出
+
+現状では、ITERの開発、建設と運用に関わる総資金は100億ユーロ（約1.6兆円）と見積もられている。2005年6月のモスクワでの会議で、ITER機構の参加メンバーは以下の比率での資金拠出に合意した。建設国であるフランスは50%を、EUとその他のメンバー国は10%をそれぞれ拠出する。伝えられるところでは、韓国の[済州島](https://ja.wikipedia.org/wiki/済州島 "wikilink")で行なわれたITERの会議では非建設国メンバー6カ国は総費用の6/11、合わせて半分を少し超える拠出を行ない、EUは残る5/11を拠出する。工業的な協力でいうと他の5カ国、韓国、中国、インド、ロシア、アメリカの拠出はそれぞれ1/11で、合わせて5/11となる。日本は2/11でEUは4/11を拠出する。 なお、大韓民国に対しては経済的な支援ではなく知的な面での貢献が求められており、現在韓国内で稼働中の核融合実験施設[KSTAR](https://ja.wikipedia.org/wiki/KSTAR "wikilink")で培われるであろう[超電導磁石](https://ja.wikipedia.org/wiki/超電導磁石 "wikilink")などの高度な技術の提供が予定されているとのことである\[13\]。
+
+日本の資金面での協力は非建設国としての総額の1/11であったが、EUは特殊な状況を考慮して、日本が建設契約の2/11を負担する代わりに、カダラッシュの研究者の2/11を占めることに同意した。これにより、EUの人員と建設に関わる費用拠出の割合は5/11から4/11となった。また、その他にEUと日本共同で[幅広いアプローチ](https://ja.wikipedia.org/wiki/幅広いアプローチ "wikilink")という関連研究プロジェクトを行い、その拠点を日本に置くことになった。
+
+## 国際的批判
+
+国際グリーンピースのジャン・バンデ・プット(Jan Vande Putte)は「各国政府は、使えるエネルギーを一度も産み出したことがない危険なオモチャに、われわれの金をむだにするべきではない。その代わりに彼らは2080年ではなく今、豊富に存在する再生可能なエネルギーに投資すべきだ。」と発言した。\[14\]
+
+コストで考えればITERは、米軍が開発している新型戦闘機のひとつ ジョイント・ストライク・ファイター(Joint Strike Fighter,JSF、[統合打撃戦闘機](../Page/F-35_\(戦闘機\).md "wikilink"))のプロジェクト費のおよそ5分の1である。\[15\]
+
+フランスの環境団体は、プロジェクトITERは「危険」で「金がかかる」それでいて「雇用は産まない」といっている。およそ700の反核団体からなるフランスの協会「Sortir du nucléaire（核エネルギーは出て行け）」は、ITERは科学者がいまだ融合過程で扱う高エネルギーの重水素とトリチウム水素同位体を扱う方法を知らないので危険である、といっている。\[16\]
+
+ITERプロジェクトは多くの技術的な挑戦課題に直面している。フランスのノーベル物理学賞受賞者、[ピエール＝ジル・ド・ジャンヌ](https://ja.wikipedia.org/wiki/ピエール＝ジル・ド・ジャンヌ "wikilink")(Pierre-Gilles de Gennes)（融合の専門家ではない）は「我々は太陽を箱に入れると言っている。これはすばらしい。問題は、我々がその箱の作り方を知らないことだ」と述べている。
+
+技術的な懸念として核融合反応によって生じる 14MeV（1,400万[電子ボルト](../Page/電子ボルト.md "wikilink")）もの高エネルギー中性子が、<span style="text-decoration:underline;">製造された</span>時点から障害を与える。\[17\] 猛烈な中性子の爆撃に曝される中にあって、十分に長期間に渡って商業動力炉として成長しうるような炉壁の設計が行なえるか、それが可能ならばどうやって実現するか、[国際核融合材料照射施設](https://ja.wikipedia.org/wiki/国際核融合材料照射施設 "wikilink")(IFMIF)において開発が進められている。 障害は主として高エネルギー中性子が結晶格子中の原子を正しい位置から叩き出すことで発生する。 未来の商業融合炉プラントでの関連する問題は、中性子の爆撃が反応炉自体の中の放射性を誘発することである。 商業炉の保守と廃棄は困難で高価なものとなるだろう。また中性子束による超伝導電磁石の障害も問題である。
+
+欧州議会の工業・研究・エネルギー委員会のGreen/EFA(European Greens ? European Free Alliance)のメンバーのレベッカ・ハームス(Rebecca Harms)は「今後50年間、核融合は気象変動を止めることはできないし、エネルギー供給の安定化を保障することもない」と主張。EUのエネルギー研究はどこか他の方向へ集中するべきだとするレベッカは「Green/EFAグループはそれらの予算をエネルギー開発に使うよりも、未来のために当を得た使い方を要求する。今こそ再生可能エネルギーに集中すべきである」とも述べている。フランスの緑の党の弁護士 [ノエル・マメール](https://ja.wikipedia.org/wiki/ノエル・マメール "wikilink")は、現在の地球温暖化との戦いにさらに集中すべきなのに、ITERの結果によって無視されることになるとし、「これは温室効果との戦いにとっていいニュースではない。効果がないと判明するまでの30-50年間に総額100億ユーロの予算が1つのプロジェクトにつぎ込まれようとしている」とコメントしている\[18\]。 ロバートバサード(Robert Bussard)やエリック・ラーナー(Eric Lerner)のような幾人かのトカマクでないシステムで作業している研究者は、よりリーズナブルでより費用対効果の高い核融合動力プラントの設計に予算を振り換えるべきだとITERを批判し、また「批判はいつもITER支持者の抵抗にぶつかる。彼らを潜在的な技術的・経済的問題に目を向けさせようとしても、多くの科学者の仕事がトカマク研究にかかっているのだ」とも述べている。
+
+## 国際的批判への反論
+
+ITER賛成派は、ITER反対派の実験にまつわる「根源的な危険」という典型的な主張に含まれる多くの批判は、誤解であり不正確であるとしている。商業融合動力ステーション設計に関する公表された目標は、分裂炉に比べて数百分の一以下の総放射性廃棄物しか出さず、それらは長命な放射性廃棄物ではなく、また分裂炉のような大規模な核分裂の連鎖反応によるメルトダウンの危険も存在していない。 プラズマが炉壁に直接ふれただけで不純物が混じったプラズマは冷えてしまい、融合反応が止まってしまうからだ。 さらに、分裂炉が数年持続するのに比べれば、融合炉の中に投入される燃料、総量わずか0.5グラムの重水素/三重水素で反応が長くても1時間持続できるだけである。\[19\] 賛成者たちは、もし完成したら、巨大な核融合炉で実用的な電気が生み出せて、なおかつ一切のCO<sub>2</sub> / SO<sub>2</sub> / NO<sub>x</sub>ガスを排出しないですむ点を強調している。
+
+日本のデモンストレーション炉の調査員によれば、核融合発電所はおそらく2030年には実現可能としており、どんなに遅くとも2050年には可能であるとしている。日本はさまざまに実際的な角度から独自の研究プログラムをいくつかの研究施設で進めている。\[20\]
+
+科学的または工学的なプロジェクトのコストは、それから得られる利益によって慎重に計られねばならない。アメリカ合衆国だけでも年間の電気料金の総額は2,100億ドルであった。\[21\] アジア地域への1990年から1999年までの電力産業への企業投資額の総額は930億ドルであった。 \[22\]
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:世界の原油価格の推移予想グラフ1980-2030.JPG "wikilink") これらの数字は単に現在の価格で計っているに過ぎない。[原油価格](https://ja.wikipedia.org/wiki/原油価格 "wikilink")は上昇してゆき、二酸化炭素の排出に圧力がかかり、今後も電力需要は伸び続ける限り、この数字は疑いなく増えてゆく。賛成派は、経済的に見ても現在の研究への投資が近い将来の大きな利益に結びつくと主張している。そして、世界中集めても年間10億ドル以下のITERへの投資が見合うだけの、他に代わりうる発電に関する同じような研究は存在しない。 批判派の話と正反対に、ITERの推進派はこのプロジェクトが大きな雇用の機会を生み出すと主張している。ITERは数百の物理学者、エンジニア、物性科学者、建設作業者、技術者を短期的に雇用する。また、融合炉発電所が完成すればそれを中心とした大きな雇用を生むこととなることが予想される。 [thumb](https://ja.wikipedia.org/wiki/ファイル:世界のエネルギー消費の予測1980-2030.JPG "wikilink")
+
+ITERを支持する人達は、猛烈な中性子束に耐えるという、考えを納得させ立証する唯一の方法は、その耐ええる被験材料を実験に基づいて示すことである、と強調する。 そしてそれは、2つの実験施設にとって、実際のD-T燃焼プラズマとIFMIFで得られるものとの中性子のパワー分布の違いは、極めて重要な目的である。\[23\]
+
+ITERの目的は、将来適切に発電プラントが建設できるように、核融合発電に関する科学的で工学的な疑問を解明することである。 材質の特性に関して、理論どおりの結果を得るには、あまりにも強力な中性子束のためにほとんど不可能に近い。また、実際のプラズマは外部で加熱して作ったプラズマとは全く違った特性を持つ。
+
+支持する人達によれば、ITERの実験によって融合炉に関するこれらの疑問が解決した時、経済的な研究投資に対して、途方もなく大きな利益が得られるという。
+
+最後に、支持派の人達は、現在の[化石燃料](../Page/化石燃料.md "wikilink")資源の使用を何か選択肢へと切り替えることは、我々自身の環境問題であると指摘している。 [太陽光発電](../Page/太陽光発電.md "wikilink")、[風力発電](../Page/風力発電.md "wikilink")、[水力発電](../Page/水力発電.md "wikilink") などはすべて面積あたりの発電効率が低い点で劣っている。ITERの次の**DEMO**では5,000MWを発電する予定であり、これは大きな核分裂発電プラントを超える規模となる。\[24\] もし融合技術が商業的に成功すれば、火力発電などからの温室効果ガスの発生が完全に抑えられるので、環境に与える影響は最小限になり、同時に長命な核廃棄物の問題は消滅する。
+
+## 脚注
+
+<references/>
+
+## 関連項目
+
+  - [国際核融合材料照射施設](https://ja.wikipedia.org/wiki/国際核融合材料照射施設 "wikilink") - **IFMIF**
+  - [原子核融合](https://ja.wikipedia.org/wiki/原子核融合 "wikilink") - 主に原子核融合の核物理学的な説明
+  - [核融合炉](https://ja.wikipedia.org/wiki/核融合炉 "wikilink") - 主に原子核融合炉の工学的な説明
+  - [トカマク型](https://ja.wikipedia.org/wiki/トカマク型 "wikilink") - トカマク型核融合炉の物理学的・工学的な説明
+  - [プラズマ対向機器](https://ja.wikipedia.org/wiki/プラズマ対向機器 "wikilink") - 核融合炉の内壁（第一壁）
+  - [ブランケット](https://ja.wikipedia.org/wiki/ブランケット "wikilink") - 核融合炉の内壁の主構成装置
+  - [スウェリング (核物理学)](https://ja.wikipedia.org/wiki/スウェリング_\(核物理学\) "wikilink") - 核反応炉に発生する核種変換による障害
+  - [国際原子力機関](../Page/国際原子力機関.md "wikilink") - **IAEA**
+  - [六ヶ所村](https://ja.wikipedia.org/wiki/六ヶ所村 "wikilink")
+
+## 外部リンク
+
+### 公式サイト
+
+  - [Welcome to the ITER WWW site](http://www.iter.org/)（ITER国際チームによる公式サイト、英語）
+  - [ITER計画推進検討会](http://www.mext.go.jp/a_menu/shinkou/iter/suishin/index.htm)（文部科学省）
+  - [ITER（国際熱核融合炉実験炉）計画について](http://www.mofa.go.jp/mofaj/gaiko/technology/takoku/iter.html)（外務省）
+  - [核融合関連研究者のための六ヶ所紹介サイト](http://www.pref.aomori.lg.jp/fusion/)（青森県）
+  - [ITER・国際熱核融合実験炉](http://www.naka.jaea.go.jp/ITER/index.html)（[独立行政法人](../Page/独立行政法人.md "wikilink")[日本原子力研究開発機構](https://ja.wikipedia.org/wiki/日本原子力研究開発機構 "wikilink")）
+  - [EFDA - EUROPEAN FUSION DEVELOPEMENT AGREEMENT](http://www.efda.org/)（欧州核融合開発協定）
+  - [Cadarache - The European site for ITER](http://www.itercad.org/)（フランス・カダラッシュ、英語）
+
+### 反対派
+
+  - [ITERの安全性と被曝](http://www1.odn.ne.jp/hibaku-hantai/iter.htm)
+  - [フランス緑の党](http://www.les-verts.org/)による[ITER反対声明等](http://www.lesverts.fr/recherche.php3?recherche=ITER)（フランス語）
+
+### 最新情報
+
+  - [情報ステーション](http://jspf.nifs.ac.jp/news/)（プラズマ・核融合学会）
+  - [国際熱核融合実験炉(ITER)](http://dailynews.yahoo.co.jp/fc/science/iter/)（Yahoo\!ニュース）
+  - [特集／ITER誘致](http://www.toonippo.co.jp/tokushuu/iter/index.html)（東奥日報）
+  - [The FIRE Place](http://fire.pppl.gov/)（米国・プリンストンプラズマ物理研究所、英語）
+  - [Fusion Program Notes](http://aries.ucsd.edu/fpa/)（米国・核融合協会、英語）
+  - [「臨時ITER理事会結果概要」](http://www.aec.go.jp/jicst/NC/iinkai/teirei/siryo2010/siryo43/siryo2-1.pdf) 文部科学省2010年8月17日
+  - [「ITER:日本の負担、180億円増 資材高騰受け」](http://mainichi.jp/select/science/archive/news/2010/08/18/20100818ddm008040060000c.html) 毎日新聞2010年8月18日
+
+[Category:核融合炉](https://ja.wikipedia.org/wiki/Category:核融合炉 "wikilink") [Category:原子核物理学](https://ja.wikipedia.org/wiki/Category:原子核物理学 "wikilink") [Category:物性物理学](https://ja.wikipedia.org/wiki/Category:物性物理学 "wikilink") [Category:固体物理学](https://ja.wikipedia.org/wiki/Category:固体物理学 "wikilink") [Category:材料工学](https://ja.wikipedia.org/wiki/Category:材料工学 "wikilink") [Category:表面物理学](https://ja.wikipedia.org/wiki/Category:表面物理学 "wikilink") [Category:原子力発電](https://ja.wikipedia.org/wiki/Category:原子力発電 "wikilink") [Category:原子力関連の国際組織](https://ja.wikipedia.org/wiki/Category:原子力関連の国際組織 "wikilink") [Category:原子力研究所](https://ja.wikipedia.org/wiki/Category:原子力研究所 "wikilink") [Category:原子力施設](https://ja.wikipedia.org/wiki/Category:原子力施設 "wikilink") [Category:エネルギー政策](https://ja.wikipedia.org/wiki/Category:エネルギー政策 "wikilink") [Category:研究プロジェクト](https://ja.wikipedia.org/wiki/Category:研究プロジェクト "wikilink") [Category:国際開発](https://ja.wikipedia.org/wiki/Category:国際開発 "wikilink") [Category:エネルギー開発](https://ja.wikipedia.org/wiki/Category:エネルギー開発 "wikilink") [Category:量子科学技術研究開発機構](https://ja.wikipedia.org/wiki/Category:量子科学技術研究開発機構 "wikilink")
+
+1.
+2.
+3.  [w:en:National Ignition Facility](https://ja.wikipedia.org/wiki/w:en:National_Ignition_Facility "wikilink")
+4.  <http://hotwired.goo.ne.jp/news/technology/story/20050530306.html>
+5.  ブルーバックス 新核融合への挑戦 狐崎晶雄 吉川庄一 ISBN 4-06-257404-7
+6.
+7.  <http://www.mext.go.jp/a_menu/shinkou/iter/021/005.htm>
+8.
+9.
+10.
+11.
+12. <http://www.fusion.qst.go.jp/ITER/images/page/63/recruit95_Q&A.pdf>
+13. 대덕 시험용 핵융합로 ‘KSTAR’ 가동 『중앙 데일리 뉴스』2011.04.02
+14. <http://www.greenpeace.org/international/press/releases/ITERprojectFrance>
+15. <http://www.washingtonpost.com/wp-dyn/articles/A38236-2005Mar15.html>
+16. <http://www.dw-world.de/dw/article/0,1564,1631650,00.html>
+17.
+18. <http://www.euractiv.com/Article?tcmuri=tcm:29-141693-16&type=News>
+19. <http://www.stpnoc.com/FYI.htm> 1/3 の核燃料棒は18ヶ月ごとに交換される
+20. <http://www.iop.org/EJ/abstract/0029-5515/45/2/004> Nucl. Fusion 45 (2005) 96?109 "Demonstration tokamak fusion power plant for early realization of net electric power generation"
+21. <http://www.eia.doe.gov/cneaf/electricity/chg_str_fuel/html/frontintr.html>
+22. <http://www.findarticles.com/p/articles/mi_qa3650/is_200207/ai_n9093799>
+23.
+24. <http://www.eia.doe.gov/cneaf/nuclear/page/at_a_glance/states/statesaz.html>

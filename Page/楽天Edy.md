@@ -1,0 +1,520 @@
+> この記事は[Edy](https://ja.wikipedia.org/wiki/Edy)から翻訳されています。
+
+
+**楽天Edy**（らくてんエディ）とは、[楽天Edy株式会社が提供するプリペイド](https://ja.wikipedia.org/wiki/楽天Edy_\(企業\) "wikilink")（前払い）方式の[電子マネー](../Page/電子マネー.md "wikilink")である。
+
+## 概要
+
+2001年に[ソニーグループ](https://ja.wikipedia.org/wiki/ソニーグループ "wikilink")、[エヌ・ティ・ティ・ドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[さくら銀行](../Page/さくら銀行.md "wikilink")（現・[三井住友銀行](../Page/三井住友銀行.md "wikilink")）、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")、[デンソー](https://ja.wikipedia.org/wiki/デンソー "wikilink")、ディーディーアイ（現・[KDDI](../Page/KDDI.md "wikilink")）、[三和銀行](../Page/三和銀行.md "wikilink")・[東京三菱銀行](../Page/東京三菱銀行.md "wikilink")（いずれも現在の三菱東京UFJ銀行）など11社の出資により設立された「ビットワレット株式会社」が導入した、日本で初めて全国規模で導入された[非接触型決済](https://ja.wikipedia.org/wiki/非接触型決済 "wikilink")による電子マネーである。ソニーが開発した非接触ICチップ[FeliCa](../Page/FeliCa.md "wikilink")を搭載した[カード](../Page/カード.md "wikilink")や、[携帯電話](../Page/携帯電話.md "wikilink")（[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")）等で利用できる。名称は[ユーロ](../Page/ユーロ.md "wikilink") (**E**uro) ・[アメリカドル](https://ja.wikipedia.org/wiki/アメリカドル "wikilink") (**D**ollar) ・[円](../Page/円_\(通貨\).md "wikilink") (**Y**en) に次ぐ第四の基軸[通貨](../Page/通貨.md "wikilink")になってほしいとの願いから、各々の頭文字を取る形で付けられた。決済音は特徴的な「シャリーン」という音である。
+
+2009年12月に運営会社のビットワレットが[楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")に対して[第三者割当増資](https://ja.wikipedia.org/wiki/第三者割当増資 "wikilink")を行い、楽天が発行済み株式の過半数を取得して傘下に収め、2012年6月1日に名称が「**楽天Edy**」に変更されている\[1\]。2013年8月時点の[普及状況は](https://ja.wikipedia.org/wiki/電子マネー#普及状況 "wikilink")、発行数が累計で約7,550万枚、利用可能店舗数が36万店である。その後、2016年11月1日時点で発行数が1億枚を超え、2017年9月1日時点での利用可能箇所数は50万箇所を超えている。\[2\]
+
+他社[電子マネー](../Page/電子マネー.md "wikilink")（[Suica](../Page/Suica.md "wikilink")、[PASMO](https://ja.wikipedia.org/wiki/PASMO "wikilink")、[WAON](https://ja.wikipedia.org/wiki/WAON "wikilink")、[nanaco](https://ja.wikipedia.org/wiki/nanaco "wikilink")など）と異なり、サービス開始以降一貫して、Edyカード等の紛失・盗難時に価値再発行を認めていない。ただし、モバイルタイプについては利用停止措置とそれ以降の残高の再発行が可能になった\[3\]。
+
+## Edyの種類
+
+Edyカード、おサイフケータイには1枚（台）ごとに16桁の固有番号が付与されている。
+
+### カード型
+
+  - プロパーカード
+    [2018年](../Page/2018年.md "wikilink")10月現在、「プロパーカード」と呼べるカードは発行母体である「[楽天Edy株式会社](https://ja.wikipedia.org/wiki/楽天Edy_\(企業\) "wikilink")」自身が楽天Edyオフィシャルショップで販売している「Edy-楽天ポイントカード」（[楽天ポイントカード機能付き](https://ja.wikipedia.org/wiki/楽天スーパーポイント#楽天ポイントカード "wikilink")）である（通常時の販売額は税抜300円だが、キャンペーン実施により100円で販売されることや当カードの購入に限ってポイント10倍対象となるなど、購入時のタイミングによりさまざまな対応がなされている）。4代目となる、2018年10月時点でのデザインは、3代目の楽天Edyロゴが現行の4代目の楽天Edyロゴに、楽天ポイントのロゴが現行の3代目の楽天ポイントロゴに同時に変更されたもの（初代と2代目は、Rポイントロゴが楽天ポイントロゴに変更された点、2代目と3代目は、2代目の楽天Edyロゴが3代目の楽天Edyロゴに変更された点がそれぞれ異なる）。
+    かつてのビットワレット時代には、表面に「Edy」の旧ロゴとブルーを基調としたデザインが施されたシンプルなカード（裏面は白無地）があった。また、過去に日本国内に存在したコンビニの[am/pm](https://ja.wikipedia.org/wiki/am/pm "wikilink")にて2010年2月28日まで販売されていた旧ロゴのカードが存在した。これらの旧カードは、現在は販売を終了している。なお、この旧am/pmのカードは、バリューイシュアの一社である「株式会社ソニーファイナンスインターナショナル」が発行元となっていた。
+  - POSA派生型
+    [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")と[沖縄県](../Page/沖縄県.md "wikilink")の一部[ファミリーマート](../Page/ファミリーマート.md "wikilink")では、ギフトカードにも利用可能な[POSA方式の](../Page/プリペイドカード.md "wikilink")「お買いものパンダ Edy-楽天ポイントカード」を3000円で販売しており、レジで支払い後に[Famiポート](https://ja.wikipedia.org/wiki/Famiポート "wikilink")で操作すれば、購入金額と同額となる3000円分のバリューがチャージ（後述の[Edyギフトの方法を利用](https://ja.wikipedia.org/wiki/#Edyギフト "wikilink")）され、その後は一般の「お買いものパンダ Edy-楽天ポイントカード」として利用可能である。無論、それ以上のバリューチャージは、通常のカードと同じ方法で行うことができる。
+  - 会員証一体型
+    [会員証や](../Page/会員カード.md "wikilink")[ポイントカードに楽天Edy機能を付加したもの](../Page/ポイントプログラム.md "wikilink")。
+    代表的なものとしては、株式会社[ファミリーマート](https://ja.wikipedia.org/wiki/ファミリーマート_\(企業\) "wikilink")（旧・株式会社サークルKサンクス）の「+K Edy-楽天ポイントカード」（旧「+K Edy-Rポイントカード」。会員カードとしては、ファミリーマート店舗では[2019年](../Page/2019年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")まで利用不可（Edy決済は可能で、決済ポイントのつくカードの利用は、通常通り税込200円毎に1ポイント付与される）であったが、翌[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")より楽天ポイントの付与が開始されている。このため、株式会社ファミリーマートでのポイント付与は、[2017年](../Page/2017年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")から2019年11月25日まではポイント付与されなかった（会員サービスそのものは、2018年[11月30日](../Page/11月30日.md "wikilink")に終了）が、以降も楽天Edyでの決済は可能であり、他の楽天ポイントカード加盟店でのポイントカードとしての利用は、引き続き原則は可能）や、[プロントコーポレーション](https://ja.wikipedia.org/wiki/プロントコーポレーション "wikilink")の「プロン党Edy-楽天ポイントカード」（旧「プロン党Edy-Rポイントカード」）、[ポプラの](../Page/ポプラ_\(コンビニエンスストア\).md "wikilink")「ポプラEdy-楽天ポイントカード」（旧「ポプラEdy-Rポイントカード」）、[山崎製パン](https://ja.wikipedia.org/wiki/山崎製パン "wikilink")他2社の「デイリーヤマザキEdy-楽天ポイントカード」、[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")の「[ANAマイレージクラブ](https://ja.wikipedia.org/wiki/ANAマイレージクラブ "wikilink") 楽天Edyカード」（2017年[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")受付分を以て発行終了）、[第一興商](../Page/第一興商.md "wikilink")の「ビッグエコー クラブダムカード」、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の「タイトーステーションカード」、[相鉄ホテルマネジメント](https://ja.wikipedia.org/wiki/相鉄ホテルマネジメント "wikilink")の「[サンルートクラブポイントカード](https://ja.wikipedia.org/wiki/サンルートホテルチェーン "wikilink") Edy」、[島根県農業協同組合](https://ja.wikipedia.org/wiki/島根県農業協同組合 "wikilink")の「JAしまね総合ポイントカード おサイフカード」など。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:AMC_mileage_card.jpg "wikilink")
+
+  -
+    その他、楽天Edyの公式サイト上には、2018年時点では公開されていないが、[楽天ポイントカード](https://ja.wikipedia.org/wiki/楽天ポイントカード "wikilink")機能のないもの、あるいはEdy決済でも楽天ポイントの付与がされない楽天Edyカードを各加盟店の独自発行（ポイントも、各加盟店独自のサービス）などで行ってるケースもある（加盟店の在庫等によっては、4代目楽天Edyロゴとなった2018年10月時点でも、初代Edyロゴの入ったカードとなるケースもある）。
+    [東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")
+    約半数のJリーグに所属しているサッカークラブ の年間チケットは、[ワンタッチパス](https://ja.wikipedia.org/wiki/ワンタッチパス "wikilink")の一環として、カードに年間チケットの機能を持たせるとともに、全ての試合会場でこのカードを読取装置にかざすと来場履歴が残るようになっている。なお、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")との関係が深い[ジェフユナイテッド市原・千葉](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")（[Suica](../Page/Suica.md "wikilink")）や、[広島電鉄](../Page/広島電鉄.md "wikilink")との関係がある[サンフレッチェ広島](https://ja.wikipedia.org/wiki/サンフレッチェ広島 "wikilink")（[PASPY](https://ja.wikipedia.org/wiki/PASPY "wikilink")）などのように、母体との関係上他の電子マネーを採用しているところもある。
+  - 社員証一体型
+    社員証にEdy機能を付加したもの。
+    [ソニー](../Page/ソニー.md "wikilink")、[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")、[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")、[大和証券グループ本社](../Page/大和証券グループ本社.md "wikilink")、[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink") などで導入。
+  - 学生証一体型
+    [学生証](../Page/学生証.md "wikilink")にEdy機能を付加したもの。
+    [高知工科大学](https://ja.wikipedia.org/wiki/高知工科大学 "wikilink")、[広島工業大学](https://ja.wikipedia.org/wiki/広島工業大学 "wikilink")、[目白大学](https://ja.wikipedia.org/wiki/目白大学 "wikilink")、[愛知大学](../Page/愛知大学.md "wikilink")、[神奈川工科大学](https://ja.wikipedia.org/wiki/神奈川工科大学 "wikilink")、[金沢学院大学](https://ja.wikipedia.org/wiki/金沢学院大学 "wikilink")、[京都先端科学大学](https://ja.wikipedia.org/wiki/京都先端科学大学 "wikilink")、[大阪経済法科大学](https://ja.wikipedia.org/wiki/大阪経済法科大学 "wikilink")、[北海道科学大学](https://ja.wikipedia.org/wiki/北海道科学大学 "wikilink")、[九州工業大学](../Page/九州工業大学.md "wikilink")、[中部大学](https://ja.wikipedia.org/wiki/中部大学 "wikilink")などで導入。
+    また、大学院大学では[北陸先端科学技術大学院大学](../Page/北陸先端科学技術大学院大学.md "wikilink")が2007年9月26日より切り替え、導入を始めた。[大阪工業大学](../Page/大阪工業大学.md "wikilink")や[摂南大学](https://ja.wikipedia.org/wiki/摂南大学 "wikilink")、[常翔学園中学校・高等学校](https://ja.wikipedia.org/wiki/常翔学園中学校・高等学校 "wikilink")では2008年度より学生証がこの形式に切り替わり、授業の出席確認や学内にある端末を利用して様々なサービスを受けることができる。
+  - クレジットカード一体型
+    最も多くの発行体によって発行されているタイプであり、クレジットカードにEdy機能を付加したもの。代表的なものとしては、[楽天カード](https://ja.wikipedia.org/wiki/楽天カード "wikilink")が発行するほとんどのクレジットカードや、全日空の「[ANAカード](https://ja.wikipedia.org/wiki/ANAカード "wikilink")」などがある。プロパーカードで発行費用や入会金が必要とされるような場合であっても、クレジットカード一体型の方はEdy発行手数料無料で加入できるようになっている発行体が多い。
+  - キャッシュカード一体型
+    （旧）[みずほ銀行](../Page/みずほ銀行.md "wikilink")法人口座や[大垣共立銀行](../Page/大垣共立銀行.md "wikilink")、[楽天銀行](../Page/楽天銀行.md "wikilink")（旧・イーバンク銀行）、[スルガ銀行](../Page/スルガ銀行.md "wikilink")ANA支店などで発行されていた。
+    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月からは、[ゆうちょICキャッシュカード](https://ja.wikipedia.org/wiki/ゆうちょ銀行 "wikilink")（当時は、[郵便貯金](../Page/郵便貯金.md "wikilink")ICキャッシュカード）にEdy機能が搭載されるようになったが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月26日の申込書受付分をもって発行・再発行を終了した。また、三菱東京UFJ銀行（現：[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）でも「[スーパーICカード](https://ja.wikipedia.org/wiki/三菱UFJ-VISA "wikilink")」の名称で、キャッシュカード・クレジットカード・Edy機能の3つが一枚に収まったカードを発行していたが、2010年6月20日をもって発行・再発行を終了した。
+  - キャッシングカード一体型
+    [プロミスで発行されていた](https://ja.wikipedia.org/wiki/SMBCコンシューマーファイナンス "wikilink")。
+  - チケット一体型
+    ICカード型チケットにEdy機能を付加したもの。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")から[横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")の年間チケットICカードで導入されていた。[2009年](../Page/2009年.md "wikilink")の「[ワンタッチパス](https://ja.wikipedia.org/wiki/ワンタッチパス "wikilink")」導入に伴い他クラブでも年間チケットICカードが導入されており、Edy搭載としているクラブも増えた。
+
+### モバイル型
+
+[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")・[au](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")・[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")（[SoftBankブランド](../Page/SoftBank_\(携帯電話\).md "wikilink")、[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")ブランド）各社の[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")では、『電子マネー「Edy」アプリ』をダウンロードしてから初期設定すればEdyを利用できる。おサイフケータイの機種によっては、あらかじめ『電子マネー「Edy」アプリ』がプリインストールされているものもある。その場合は初期設定を行うだけでEdyを使うことができる。
+
+2016年12月13日からは、[Android](https://ja.wikipedia.org/wiki/Android "wikilink")端末に[Android Pay](https://ja.wikipedia.org/wiki/Android_Pay "wikilink")（現[Google Pay](https://ja.wikipedia.org/wiki/Google_Pay "wikilink")）アプリをインストールし、アプリ内から楽天Edyを登録して連携することによって、アプリ内からチャージ、および対応店舗にて楽天Edyでの支払いを行う事が可能となった\[4\]。
+
+iPhoneの場合は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")は、おサイフケータイ ジャケット01（[パナソニック モバイルコミュニケーションズ製](https://ja.wikipedia.org/wiki/パナソニック_モバイルコミュニケーションズ "wikilink")）を利用することで対応させており、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")の[SoftBankブランドでは](../Page/SoftBank_\(携帯電話\).md "wikilink")、[iPhone 4と](https://ja.wikipedia.org/wiki/iPhone_4 "wikilink")[iPhone 4Sにおいて](https://ja.wikipedia.org/wiki/iPhone_4S "wikilink")、[ソフトバンクBB](../Page/ソフトバンクBB.md "wikilink")（現在、当該事業は[ソフトバンクコマース&サービス](https://ja.wikipedia.org/wiki/ソフトバンクコマース&サービス "wikilink")に移管され、現在の同社の法人格上は、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")）が「SoftBank SELECTION（ソフトバンクセレクション）」ブランドで発売されていた「Edy用電子マネーシール for iPhone 4」を装着することで対応できる\[5\]。wena wristという[ソニー](../Page/ソニー.md "wikilink")製の腕時計型リーダーを使用すればスタンドアロンで使用可能である（但し電子マネー機能を使う際、leatherを除き初期設定にiOS端末が必要）。2018年7月現在、初期型のwristの他にactive,wrist pro,leatherと複数タイプあり、ソニーの直営店・[ソニーストア等で販売されている](https://ja.wikipedia.org/wiki/ソニーマーケティング "wikilink")。この腕時計型FeliCaリーダーは、ドコモのおサイフケータイジャケットと同じ部品が腕時計のバンドの中に入っているだけなので、iPhone用アプリはおサイフケータイジャケットと全く同じであり、対応サービスもおサイフケータイジャケットと全く同じである。
+
+### 変わり種
+
+各種[キャンペーン](https://ja.wikipedia.org/wiki/キャンペーン "wikilink")の一環で、[フィギュア](../Page/フィギュア.md "wikilink")型のEdyが発行されたことがあり、フィギュアの台座部分にFeliCaが埋め込まれている。使い勝手はカード型のものとおよそ同じである。
+
+  - [ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")
+    2004年2月25日より、[NTT東日本は](../Page/東日本電信電話.md "wikilink")[パソコンと](../Page/パーソナルコンピュータ.md "wikilink")[無線LAN](../Page/無線LAN.md "wikilink")キットをセットにした「DisneyBB プレミアムパック」を300台限定で25万円で販売。購入者は、同封の葉書を返信すれば、「Edy機能搭載 DisneyBB ICフィギュア」がプレゼントされた。
+    [キャラクター](../Page/キャラクター.md "wikilink")は[ミッキー](../Page/ミッキーマウス.md "wikilink")、[ミニー](../Page/ミニーマウス.md "wikilink")、[ドナルドダック](https://ja.wikipedia.org/wiki/ドナルドダック "wikilink")、コグ、フリッピーの5種。
+  - [ポケットモンスター](https://ja.wikipedia.org/wiki/ポケットモンスター "wikilink")
+    2005年8月15日より、ANAカード会員向けに[ピカチュウ](https://ja.wikipedia.org/wiki/ピカチュウ "wikilink")のEdyフィギュアが先着2万個限定で販売された（1,050円+送料630円=1,680円） 。
+    2006年4月15日より、ANAのオンラインショップ「astyle」にて、映画『[ポケモンレンジャーと蒼海の王子マナフィ](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_アドバンスジェネレーション_ポケモンレンジャーと蒼海の王子_マナフィ "wikilink")』のキャンペーンの一環として、同映画の前売り券とピカチュウ、[プラスル](https://ja.wikipedia.org/wiki/プラスル "wikilink")、[マイナン](https://ja.wikipedia.org/wiki/マイナン "wikilink")のEdyフィギュア3体を先着6,000セット限定（6,400円）で販売された（フィギュア3体のみは4,100円）。
+    いずれもANAの発行であるが、マイレージクラブの機能は付帯せず、マイルは積算されない。
+  - 増田ジゴロウ
+    2005年1月、K-touch カードのキャンペーンで、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")の番組『[saku saku](https://ja.wikipedia.org/wiki/saku_saku "wikilink")』に登場するキャラクター「[増田ジゴロウ](https://ja.wikipedia.org/wiki/増田ジゴロウ "wikilink")」の「増田ジゴロウおさいふフィギュア」が抽選で1,000名に配布された。
+  - [リストバンド](https://ja.wikipedia.org/wiki/リストバンド "wikilink")形
+    2009年4月にフィットネスクラブ「[ティップネス](https://ja.wikipedia.org/wiki/ティップネス "wikilink")」会員向けに"TIP GEAR"の名称で登場。[ロッカー](https://ja.wikipedia.org/wiki/ロッカー "wikilink")のFelica電子キーにEdy機能を付加したもの。
+    2010年9月には玩具メーカー・ハシートップインが" イーマネーバンド "の名称でリストバンド型Edyを一般向けに発売した。デザインはシリコン製のチープな腕時計に類似している。
+  - Edyストラップ
+    Edyオフィシャルショップにて販売中。2011年6月21日販売分から、専用サイトで登録することで、楽天スーパーポイントが貯まるようになった。
+
+## チャージ方法
+
+[Edy_Charger.JPG](https://ja.wikipedia.org/wiki/File:Edy_Charger.JPG "fig:Edy_Charger.JPG") 楽天Edyは前払い型のいわゆる「電子サイフ」であり、カードに通貨価値（バリュー、Edyバリュー）を[チャージ](https://ja.wikipedia.org/wiki/チャージ "wikilink")する必要がある。1つ（おサイフケータイを含む）のEdyにチャージできる最大金額は50,000円である。なお、チャージされている通貨価値を払い戻したり、換金することは規約で制限されている。
+
+  - 現金によるチャージ
+    現金を直接チャージする場合は、対応店舗に設置されている据え置き型の専用入金機（Edyチャージャー）や[POSレジで行う](https://ja.wikipedia.org/wiki/販売時点情報管理#POSレジスタ "wikilink")。入金額は1,000円以上が多いが入金単位は店舗によって異なる。
+    [2018年](../Page/2018年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")より、[セブン銀行](../Page/セブン銀行.md "wikilink")ATMでのチャージ対応が開始され、1,000円、2,000円、3,000円、5,000円、10,000円、20,000円からの選択または25,000円までの任意金額（1,000円単位で指定可能）の指定によるチャージが可能となった。併せて、お釣りとなる紙幣の出金も可能。
+  - オンラインチャージ
+    金融機関口座またはクレジットカード決済（楽天Edy社と契約しているクレジットカード会社発行のカード\[6\]）、および一部のデビッドカードによりチャージする方法。
+    [PaSoRi](https://ja.wikipedia.org/wiki/PaSoRi "wikilink")（FeliCaリーダ/ライタ）を接続したパソコンから楽天Edyのサイトで利用登録を行い、サイト上でチャージを行う方法と、携帯電話アプリを用いてチャージを行う方法（[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")搭載の楽天Edyに限る）がある。なお、2019年3月1日をもって、一部のカードについてはクレジットカードによるチャージができなくなった\[7\]。
+
+かつて[ソニーファイナンスインターナショナル](https://ja.wikipedia.org/wiki/ソニーファイナンスインターナショナル "wikilink")と株式会社[エーエム・ピーエム・ジャパン (am/pm)](https://ja.wikipedia.org/wiki/am/pm "wikilink") との提携で発行された「am/pm Earth Edy Card」が、Edyの[オートチャージ](https://ja.wikipedia.org/wiki/オートチャージ "wikilink")に対応していた。しかし2008年12月、両社の提携終了が発表され、「am/pm Earth Edy Card」の全てのサービスは2009年3月31日に終了している。一方、なお、2015年6月16日から「Edyつき楽天カード」を対象にファミリーマートでの「Edyオートチャージ」を開始した。携帯用アプリでは、2011年4月18日より[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の[Android](https://ja.wikipedia.org/wiki/Android "wikilink")用Edyアプリで、オートチャージ機能の提供を開始した。
+
+なお、楽天市場のサイトに、5つまで楽天Edyの番号を登録することが可能となっており、楽天ポイントをEdyのチャージに変換することができる。
+
+2020年3月18日フィーチャーフォン向け楽天Edyアプリでのクレジットカード、楽天ID、銀行口座からのチャージ（入金）がサービスの停止により行えなくなり 終了の予定。なおスマートフォン、Androidフィーチャーフォン（ガラホ）は対象外。
+
+## 利用方法
+
+店頭（特に[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")では対応しているチェーン店が多い）や[自動販売機](../Page/自動販売機.md "wikilink")での支払いや、[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")上での決済に利用できる。
+
+### 店頭など
+
+店頭で支払う際は、店員にEdyで支払う旨を伝えると、POSレジまたは決済端末に金額が表示されるので、これを確認の上、端末にEdyを触れさせれば決済完了となる。その際「シャリーン」という決済音が鳴る機器が多い。端末機器によってはほかの電子マネーによる誤決済防止のため、利用する電子マネーのボタンを利用者自身が選択しないと決済が進まないものがある。
+
+残高不足の場合は、差額を現金で支払うほか、複数のEdy（合計5つまで）を用いて残金を充当することも可能である。ただし、加盟店によってはEdyと現金の併用や複数枚のEdyでの支払いを認めていない場合もあるため、利用前に確認が必要である（一部店舗は残高不足の場合は、iDも含むクレジットカードと併用して差額を支払うことが可能）。
+
+自動販売機の場合も、同様にリーダ・ライタ部に金額が表示され、Edyを触れさせれば決済完了となるが、残高不足の場合、現金や複数個のEdy併用ができない機器もある。
+
+### インターネット上での利用
+
+  - パソコン
+    Felicaポート搭載のPC、またはPaSoRi本体を接続し専用ソフト「Edy Viewer」をインストールしたPCで対応する。
+    PaSoRiにEdyを置き、Edy決済を指定すると、Edy Viewerが起動して決済金額の画面が表示され、その確認を以て決済完了となる。ちなみにこのネット決済の方法は[eLIOのそれを転用したものである](https://ja.wikipedia.org/wiki/ソニーファイナンスインターナショナル#eLIOカード "wikilink")。
+  - Mobile Edy（おサイフケータイ）
+    サイト上で決済に「Mobile Edy」を指定し、携帯電話のメールアドレスを入力すると、決済内容を記したメールが送付されてくる。これを確認・了承しメールからEdyアプリを起動すると、更に「決済完了メール」が送付されてきて、完了となる。
+    なお、2007年5月までに発売された[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")（前身のボーダフォンを含む）の端末では本サービスは利用不可となっていた。この件に関して、当時のビットワレット側からは対応不可の理由など詳細は一切発表されなかったが、「ボーダフォン時代の[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")ではメールやウェブからのEdyアプリの起動ができなかったため」と推察されている\[8\]。
+
+## Edyでポイント
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月8日より、おサイフケータイでのEdy利用200円ごとに提携先のさまざまなポイントをためることができる「Edyでポイント」サービスが開始された。あらかじめ、Edyアプリでためたい提携先を設定しておくことにより、3日後のEdy利用分よりポイントをためることができる。ただし現在では初回設定時に限り、設定完了直後からポイントを貯めることが出来る。
+
+1台のおサイフケータイで、複数の提携先ポイントをためることはできない。なお「Edyでポイント」と提携していない一部のポイントは貯めること（ポイントの二重取り）ができる。
+
+利用している携帯電話会社により一部提携先に制限がある。またポイントの付与は利用から提携会社によって異なるが約2-4週間後に行われる。
+
+「Edyでポイント」サービス開始以前から、モバイルAMCアプリをEdyに紐付け設定している場合には、従来通りANAマイルがたまる。
+
+  - [ANAマイレージクラブ](https://ja.wikipedia.org/wiki/ANAマイレージクラブ "wikilink")<sup>※2</sup>
+  - [Tポイント](https://ja.wikipedia.org/wiki/Tポイント "wikilink")
+  - [ヤマダ電機ポイント](https://ja.wikipedia.org/wiki/ヤマダ電機#ポイントサービス "wikilink")<sup>※2※4</sup>
+  - [ベルメゾン](https://ja.wikipedia.org/wiki/千趣会 "wikilink")・ポイント
+  - [楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")スーパーポイント<sup>※2</sup>
+  - au WALLETポイント （auのみ）
+  - [中日本高速道路](https://ja.wikipedia.org/wiki/中日本高速道路 "wikilink")（プレミアムドライバーズカード）<sup>※2</sup>
+  - [ヨドバシカメラゴールドポイント](https://ja.wikipedia.org/wiki/ヨドバシカメラ#ゴールドポイントカード_\(GPC\) "wikilink")<sup>※2</sup>
+  - [ビックカメラ](https://ja.wikipedia.org/wiki/ビックカメラ "wikilink")ポイント
+  - [Ponta](https://ja.wikipedia.org/wiki/Ponta "wikilink")ポイント
+  - エポスポイント（[エポスカード](https://ja.wikipedia.org/wiki/エポスカード "wikilink")）<sup>※3</sup>
+  - [GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")のコイン（Edyでコイン）
+  - [博多大丸](https://ja.wikipedia.org/wiki/博多大丸 "wikilink")（大丸福岡天神店）<sup>※2※4</sup>
+  - [マツモトキヨシ](../Page/マツモトキヨシ.md "wikilink")現金ポイント
+  - [エディオン](https://ja.wikipedia.org/wiki/エディオン "wikilink")ポイント
+
+<!-- end list -->
+
+  -
+    （※2） カード型Edyでもポイントが貯まるサービス。ただし博多大丸のみ、[2011年](../Page/2011年.md "wikilink")[9月](../Page/9月.md "wikilink")時点でカード型専用。
+    （※3） これに限り、月間利用額を基準とし、1000円ごとに1ポイントたまる。
+    （※4） スマートフォンでは設定不可。
+
+### 楽天Edy移行後
+
+従来のサービスも一部受け付けつつ、[楽天ポイントカード](https://ja.wikipedia.org/wiki/楽天ポイントカード "wikilink")のついた楽天Edyカードを含む、指定したカード(一部、フィギュア型を含む)については、税込200円の決済あたり1楽天ポイントが後日（通常は、毎月5日から翌月4日までの決済分からポイントを算出し、直後の10日ごろに1ヶ月分まとめて加算される）付加されるようになっており、事前に、楽天のログインサイトに、該当する楽天Edy番号を登録する必要がある。[楽天カード](https://ja.wikipedia.org/wiki/楽天カード "wikilink")が発行する[クレジットカード](../Page/クレジットカード.md "wikilink")に付加された楽天Edyの場合は、発行時点で会員登録にひも付けされるため、改めての番号登録は不要となる。
+
+[2019年](../Page/2019年.md "wikilink")12月現在、対応している楽天Edyカード（フィギュア型を含む）は、次の通り。
+
+  - Edy-楽天ポイントカード各種
+      - Edy-楽天ポイントカード（旧Rポイントカード名のものを含む）
+      - お買いものパンダ Edy-楽天ポイントカード（POSA方式のカードを含む）
+      - キャラクター Edy-楽天ポイントカード
+      - \+K Edy-楽天ポイントカード（旧Rポイントカード名のものを含む）
+      - ポプラEdy-楽天ポイントカード（旧Rポイントカード名のものを含む）
+      - プロン党Edy-楽天ポイントカード（旧Rポイントカード名のものを含む）
+      - くしろスキップ 楽天ポイントカード（旧Rポイントカード名のものを含む）
+      - 松源Edy-楽天ポイントカード
+      - ふくやま未来応援隊会員証
+      - 大阪屋ショップEdy-楽天ポイントカード
+      - デイリーヤマザキEdy-楽天ポイントカード
+
+<!-- end list -->
+
+  - 楽天ポイントクラブEdyカード
+  - キャラクターEdyカード
+  - 【楽天イーグルス】 Edyキーホルダー
+  - 【ヴィッセル神戸】 Edyキーホルダー
+  - 楽天Edyストラップ
+  - Stadium Edy Card
+  - プロン党Edyカード（Rポイント登場前の旧カード）
+  - サンルートクラブポイントカードEdy
+  - 出雲大社Edyカード
+  - 楽天イーグルスキャラクターEdyカード
+  - 楽天Edyファイテンリストバンド
+  - Edy腕時計（RISNY）
+  - 八丈島Edyカード
+  - ワン・ダイレクションEdyカード
+  - ルノアールEdyカード（初代Edyロゴのカードは不可）
+  - WUG Edyカード
+  - タイトーステーションメンバーズカード
+  - 松江市職員ユニオンEdyカード
+  - 飛騨市ファンクラブ会員証
+  - wena wrist leather
+  - GoBe2 Edyバンド
+  - discord Edyカード
+  - VELDT TOUCHWEAR
+  - ひょうごe-県民証
+  - ジャイアントコーンハッピーチャージキー
+  - 都城市ファンクラブ会員証
+  - 　
+
+## EdyスマイルクーポンとEdyハッピー優待
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")6月から、すべてのEdyで利用できるEdyスマイルクーポンとEdyハッピー優待のサービスが開始されていたが、すでにサービスは終了している。
+
+  - Edyスマイルクーポン
+    対象店舗で特定の期間内にクーポンのように利用できる。サイトであらかじめEdy番号を登録することにより、対象店舗で後日[Edyギフトによる還元などの特典を受けられた](https://ja.wikipedia.org/wiki/#Edyギフト "wikilink")。2009年03月25日に終了。
+  - Edyハッピー優待
+    あらかじめパソコンやおサイフケータイでサービス登録をすると、すべての対象店舗で特典を受けられた。スマイルクーポンとは違って、一度サービス登録をするとすべてのハッピー優待対象店舗でEdyギフトの還元などの特典を受けられた。登録時には、カード型の場合[PaSoRi](https://ja.wikipedia.org/wiki/PaSoRi "wikilink")かFelicaポート搭載のパソコンが必要だった。2008年10月15日に終了。
+
+## Edyギフト
+
+EdyスマイルクーポンやEdyハッピー優待、キャンペーン、ポイントサイトなどの特典として受け取れるものに、Edyギフトがある。Edyギフトが届いている場合、PaSoRiやおサイフケータイで操作することにより、受け取りと同時に直接チャージすることができる。なお、日本全国の[ファミリーマート](../Page/ファミリーマート.md "wikilink")に設置されている[ファミポート](https://ja.wikipedia.org/wiki/ファミポート "wikilink")、同社の[サークルK](../Page/サークルK.md "wikilink")および[サンクス](https://ja.wikipedia.org/wiki/サンクス "wikilink")設置の[Kステーション](https://ja.wikipedia.org/wiki/Kステーション "wikilink")と[DAMステーション](https://ja.wikipedia.org/wiki/DAMステーション "wikilink")の設置されているカラオケ店、空港内などに設置されているANAの端末（ANA web KIOSKかANA SKY KIOSK）でもEdyギフトが受け取れる。
+
+一部の高速道路（主として[中日本高速道路](https://ja.wikipedia.org/wiki/中日本高速道路 "wikilink")）の[サービスエリア](../Page/サービスエリア.md "wikilink")でも、インフォメーションセンターにEdyギフト受け取り用端末の設置例がある。あらかじめ送付元にEdy番号を申告しておく必要があるが、Edy番号が間違っている場合や、受け取り期限（最長60日）を過ぎてしまうと受け取りができない。
+
+## バリューイシュア
+
+楽天Edyは、[資金決済に関する法律](https://ja.wikipedia.org/wiki/資金決済に関する法律 "wikilink")に定める第三者型前払式支払手段であるため、同法に定める第三者型発行者が発行する。これをバリューイシュアと呼ぶ。カードの券面には、「Edy発行元」ないしは「楽天Edy発行元」として、各バリューイシュアの企業名が表示されている。バリューイシュアは以下の通り。
+
+  - [楽天Edy株式会社](https://ja.wikipedia.org/wiki/楽天Edy_\(企業\) "wikilink")
+
+<!-- end list -->
+
+  - 株式会社[三井住友銀行](../Page/三井住友銀行.md "wikilink")
+  - [三井住友カード](../Page/三井住友カード.md "wikilink")株式会社
+  - 株式会社[セディナ](https://ja.wikipedia.org/wiki/セディナ "wikilink")
+  - 株式会社[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")
+  - [三菱UFJニコス](https://ja.wikipedia.org/wiki/三菱UFJニコス "wikilink")株式会社
+  - [ユーシーカード](https://ja.wikipedia.org/wiki/ユーシーカード "wikilink")株式会社
+  - 株式会社[ジェーシービー](../Page/ジェーシービー.md "wikilink")
+  - [ライフカード株式会社](https://ja.wikipedia.org/wiki/ライフ_\(信販\) "wikilink")
+  - 株式会社[第一興商](../Page/第一興商.md "wikilink")
+  - [楽天カード](https://ja.wikipedia.org/wiki/楽天カード "wikilink")株式会社
+  - [山陰信販](https://ja.wikipedia.org/wiki/山陰信販 "wikilink")株式会社
+  - [飛騨市](../Page/飛騨市.md "wikilink")
+  - [福山市](../Page/福山市.md "wikilink")
+  - [兵庫県](../Page/兵庫県.md "wikilink")
+  - [都城市](https://ja.wikipedia.org/wiki/都城市 "wikilink")
+
+## コンビニエンスストアでの対応状況
+
+<table>
+<thead>
+<tr class="header">
+<th><p>チェーン名</p></th>
+<th><p>導入時期</p></th>
+<th><p>代行収納（お振込み）対応</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/セブン-イレブン.md" title="wikilink">セブン-イレブン</a></p></td>
+<td><p>2009年<a href="../Page/10月7日.md" title="wikilink">10月7日</a>全店対応<br />
+2009年11月29日チャージ対応</p></td>
+<td><p>導入以来非対応</p></td>
+<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/6月.md" title="wikilink">6月</a>導入発表[9][10]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/ローソン.md" title="wikilink">ローソン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a>9月4日支払いのみ全店導入<br />
+2007年11月29日チャージ対応</p></td>
+<td><p>導入以来非対応</p></td>
+<td><p>「2007年8月23日から順次全店で」と発表</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/ファミリーマート.md" title="wikilink">ファミリーマート</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/沖縄ファミリーマート" title="wikilink">沖縄と</a><a href="https://ja.wikipedia.org/wiki/南九州ファミリーマート" title="wikilink">鹿児島・宮崎の一部店舗で先行導入</a><br />
+2007年7月10日全店対応</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a>限りで終了</p></td>
+<td><p>Edyつき楽天カードでオートチャージ対応<br />
+<a href="../Page/西武鉄道.md" title="wikilink">西武鉄道</a>の駅構内店舗「<a href="https://ja.wikipedia.org/wiki/TOMONY" title="wikilink">TOMONY</a>」では使用不可　</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/サークルKサンクス" title="wikilink">サークルKサンクス</a>（現・<a href="../Page/ファミリーマート.md" title="wikilink">ファミリーマート</a>）の<a href="../Page/サークルK.md" title="wikilink">サークルK</a>及びサンクス店舗</p></td>
+<td><p>2005年4月開始</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/6月.md" title="wikilink">6月</a>限りで終了</p></td>
+<td><p>サークルK、サンクスともに対応</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ミニストップ" title="wikilink">ミニストップ</a></p></td>
+<td><p>2005年8月より一部の<a href="../Page/Suica.md" title="wikilink">Suica</a>対応店舗にて開始<br />
+<a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/9月.md" title="wikilink">9月</a>全店対応</p></td>
+<td><p>導入以来非対応</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/デイリーヤマザキ.md" title="wikilink">デイリーヤマザキ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/4月7日.md" title="wikilink">4月7日</a>以降順次導入<br />
+2011年2月16日チャージ対応（秋田・青森エリアは後日対応となった）</p></td>
+<td><p>導入以来非対応</p></td>
+<td><p>　</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/セイコーマート.md" title="wikilink">セイコーマート</a></p></td>
+<td><p>当初は全日空ホテル店（札幌市）でのみの取り扱い<br />
+<a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/6月1日.md" title="wikilink">6月1日</a>全店対応</p></td>
+<td><p>導入以来非対応</p></td>
+<td><p>　</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/ポプラ_(コンビニエンスストア).md" title="wikilink">ポプラグループ</a></p></td>
+<td><p>2005年11月開始</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/4月" title="wikilink">4月</a>限りで終了</p></td>
+<td><p>（ローソンの店舗と同じ扱いとされる）<a href="https://ja.wikipedia.org/wiki/ローソン・ポプラ" title="wikilink">ローソン・ポプラ</a>を除く、ポプラ・生活彩家・スリーエイト・くらしハウスの全てで対応</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/スリーエフ.md" title="wikilink">スリーエフ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/四国地方" title="wikilink">四国で先行導入</a><br />
+2010年2月15日全店対応</p></td>
+<td><p>　</p></td>
+<td><p>（ローソンの店舗と同じ扱いとされる）<a href="https://ja.wikipedia.org/wiki/ローソン・スリーエフ" title="wikilink">ローソン・スリーエフ</a>を除く</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/セーブオン.md" title="wikilink">セーブオン</a></p></td>
+<td><p>2012年11月以降、群馬・埼玉の計243店舗にて順次導入</p></td>
+<td><p>導入以来非対応</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 提携関係など
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:A_NTT_DoCoMo's_green_pay_phone_in_the_Hankyu_Ferry.jpg "wikilink")（この[阪九フェリー](https://ja.wikipedia.org/wiki/阪九フェリー "wikilink")内では非対応）\]\] 前項の通り、複数の[クレジットカード](../Page/クレジットカード.md "wikilink")にも、Edyが搭載されている。この場合、Edyバリューのオンラインチャージは、そのEdyと一体のクレジットカードからのみ可能（いわゆる「自己チャージ」）である。
+
+[FeliCa](../Page/FeliCa.md "wikilink")の特性を生かし、Edyカード一体型の社員証や学生証を発行することで、[身分証明書](https://ja.wikipedia.org/wiki/身分証明書 "wikilink")として付加価値を高める試みも行われている。この社員証・学生証では、カードをドア脇のカードリーダーにかざすことで個人認証を行い解施錠したり、食堂や売店、自動販売機での支払いにEdyを用いたりすることができる。
+
+また、FeliCa を採用した電子マネー（[nanaco](https://ja.wikipedia.org/wiki/nanaco "wikilink")や[WAON](https://ja.wikipedia.org/wiki/WAON "wikilink")など）やIC乗車カード（[Suica](../Page/Suica.md "wikilink")など）とは電子マネーとしての互換性はないものの、[PaSoRi](https://ja.wikipedia.org/wiki/PaSoRi "wikilink")や業務用のリーダ・ライタは共通の物が利用できるなどハードウエア面で一定の互換性がある。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月、JR東日本と[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")が共同開発している「Suica と [iD](https://ja.wikipedia.org/wiki/ID_\(クレジット決済サービス\) "wikilink") の共同決済インフラ」に対し、ビットワレットでもEdyを [QUICPay](https://ja.wikipedia.org/wiki/QUICPay "wikilink") と共に利用できるようにすると発表。例としては[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月22日](../Page/2月22日.md "wikilink")より、[ラゾーナ川崎プラザ](https://ja.wikipedia.org/wiki/ラゾーナ川崎プラザ "wikilink")にてEdy・Suica・iDの共用端末の運用を開始した\[11\]\[12\]。2011年4月には[エディオン](https://ja.wikipedia.org/wiki/エディオン "wikilink")グループで楽天Edy以外のiDとQUICpayの3種類の電子マネーを使えるようになり、[すかいらーく](../Page/すかいらーく.md "wikilink")では2012年の店舗システム更新によるクレジットカードの決済と同時にiDと交通系電子マネー（JR系等）が使えるようになっている。三井住友カードが中心となって楽天EdyとiD等の複数電子マネーが1つの端末で決済できる動きは加速している。
+
+## 自治体による楽天Edyの発行
+
+[2016年](../Page/2016年.md "wikilink")には、[飛騨市](../Page/飛騨市.md "wikilink")が同市の[ファンクラブ](https://ja.wikipedia.org/wiki/ファンクラブ "wikilink")の[会員証](https://ja.wikipedia.org/wiki/会員証 "wikilink")として、楽天Edyが搭載されたカード（「飛騨市ファンクラブ会員証」）を発行開始し、この会員証での楽天Edyでの決済により、決済額に応じた一定の割合の額を[企業版ふるさと納税](https://ja.wikipedia.org/wiki/企業版ふるさと納税 "wikilink")として、楽天が飛騨市に寄付する形をとる。ファンクラブの会員の費用負担は、カード発行手数料を含めて生じない。また、楽天Edyの番号を楽天に登録すれば、決済額200円で1ポイントの楽天ポイントも付与される（[楽天ポイントカード](https://ja.wikipedia.org/wiki/楽天ポイントカード "wikilink")の機能はないため、楽天ポイントの対象店舗では別途ポイントカードの提示が必要）。
+
+[2017年](../Page/2017年.md "wikilink")以降は、全国各地の他の自治体でも類似したカードの発行が検討されており、[2018年](../Page/2018年.md "wikilink")3月に[福山市](../Page/福山市.md "wikilink")が「ふくやま未来応援隊」の募集を開始し、先着3000名の申し込みに対し、公募したオリジナルデザインの「ふくやま未来応援隊会員証」となる「Edy-[楽天ポイントカード](https://ja.wikipedia.org/wiki/楽天ポイントカード "wikilink")」の発行を開始した他、その後も、他の自治体でも同様のものを発行することを検討している。
+
+## 紛失等の対応
+
+### 不正使用の場合
+
+**不正使用**（横領、詐欺など）の場合については、事業者側は**対応しない**（他社の[電子マネー](../Page/電子マネー.md "wikilink")でも同様）。
+
+### 盗難・紛失の場合（カード型）
+
+**楽天Edyの規定上、**特定一部のイシュアを除き、カード型の場合は、**盗難・紛失による再発行には対応しない。よって、チャージ残高は補償されず、返金されない**。（2019年4月時点）
+
+[クレジットカード](../Page/クレジットカード.md "wikilink")一体型のものや[オートチャージ](https://ja.wikipedia.org/wiki/オートチャージ "wikilink")の設定を行っているカードの場合は、その設定を速やかに止める必要があるため、ネット上（スマホ/ガラホ/PC限定）でできる場合はその手続きを行う。ネット環境がない場合は、[楽天Edyが開設する](https://ja.wikipedia.org/wiki/楽天Edy_\(企業\) "wikilink")、「楽天Edyカスタマーデスク」でも、ある程度の対応を行える。
+
+またクレジットカード等一体型の場合は、クレジットカード等会社への届け出も併せて行う。
+
+### 障害等の場合（カード型）
+
+カード型の**故障・破損等**については、クレジットカード等一体型も含めて、原則、カードに書かれたコールセンターに問い合わせて指示をあおぐことになる。当該サービスの変更や終了で、記載されている連絡先に電話がかけられず、その後継先がない場合や連絡先自体がカードに記載されていない場合は、原則として「楽天Edyカスタマーデスク」が受付となる。
+
+カード型の故障・破損等について利用者に重大な過失がない場合は、Edy発行元となっている各企業が対応する。
+
+代替カードを使用する場合は、代替カードの提供に関しては、無料、有料、送料を含め各企業ごとに対応が異なる（代替カードを提供せず新規再発行とする企業もある）。
+
+故障したカード型チャージ分の返金対応とする場合は、故障カードをEdy発行元へ送付する際に同封する申請書に記載した口座宛の銀行振込での返金手続きをとる。
+
+### 盗難・紛失・故障の場合（モバイル型）
+
+2019年3月15日以降、モバイルタイプについては、利用停止措置とそれ以降の残高の再発行が可能になった\[13\]\[14\]\[15\]。
+
+ただし、盗難・紛失・故障より前に、**楽天Edyマイページへの**当該モバイルタイプの**Edy番号の登録が必須**である\[16\]。該当楽天Edyにつき楽天IDで楽天ポイントサービスを利用している場合は既に登録済みの場合が多いが、再度確認すると良い（なお、再発行時に名義が一致しない場合、再発行できない）。
+
+おサイフケータイジャケットの場合は、個別ユーザー登録が必要となり、再発行は個別対応となる（上記、おサイフケータイの設定とは異なる設定である）。\[17\]
+
+オートチャージ設定をしていた場合は、その設定を速やかに止める必要があるため、カード型と同様に手続きをする（「[\#盗難・紛失の場合（カード型）](https://ja.wikipedia.org/wiki/#盗難・紛失の場合（カード型） "wikilink")」）。
+
+携帯電話、[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")（おサイフケータイジャケットを含む）自体の盗難・紛失については、大手キャリアの場合は携帯電話オペレータまたはキャリアホームページへの届け出も併せて行う。大手キャリア以外のMVNO等は個別対応となる（事前適用の保険制度がある場合もある）。大手キャリア・MVNO等のいずれでも、おサイフケータイで他社電子マネーを併用している場合は、他社電子マネーについては復旧できる余地がある（おサイフケータイのサービス登録が前提として必要である）。
+
+### 過去の対応 (参考)
+
+#### モバイルタイプの故障等の場合 (2019年3月14日以前)
+
+モバイルタイプ（[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")、おサイフケータイジャケット）の**故障・障害等**（水没を含む）については、「Edyレスキューサービス」が利用できた\[18\]。盗難・紛失等では利用できなかった。なお、機種変更についてはEdyレスキューサービスの対象外であった（自分で操作し、あるいは携帯電話ショップ等に依頼等する）。
+
+Edy番号が変更となるため、オートチャージ設定等は再登録等、見直す必要がある。
+
+なお、「Edyレスキューサービス」は終了している\[19\]。
+
+携帯電話、[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")（おサイフケータイジャケットを含む）の自体の故障等対応については、前「[\#盗難・紛失の場合](https://ja.wikipedia.org/wiki/#盗難・紛失の場合 "wikilink")」と同様であった。
+
+## 沿革
+
+### 1999年 - 2001年
+
+[1999年](../Page/1999年.md "wikilink")から[2000年](../Page/2000年.md "wikilink")秋ごろまで、[ソニー](../Page/ソニー.md "wikilink")と[ソニーファイナンスインターナショナル](https://ja.wikipedia.org/wiki/ソニーファイナンスインターナショナル "wikilink")は、[さくら銀行](../Page/さくら銀行.md "wikilink")（現[三井住友銀行](../Page/三井住友銀行.md "wikilink")）・[三井不動産](../Page/三井不動産.md "wikilink")などと合同で、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")内の[ゲートシティ大崎](https://ja.wikipedia.org/wiki/ゲートシティ大崎 "wikilink")のビル内に入居する企業（主に[ソニーグループ](https://ja.wikipedia.org/wiki/ソニーグループ "wikilink")・三井不動産など）の従業員を対象に、同ビル内の売店や[社員食堂](../Page/社員食堂.md "wikilink")・[自動販売機](../Page/自動販売機.md "wikilink")で扱える、[FeliCa](../Page/FeliCa.md "wikilink") を用いた電子マネーオペレーションのモニターテストを実施した。
+
+第1フェーズは1999年[7月26日](../Page/7月26日.md "wikilink")から[12月24日](../Page/12月24日.md "wikilink")迄で、電子マネー機能の実証を実施。2000年[2月10日](../Page/2月10日.md "wikilink")からの第2フェーズ開始時に名称を「Edy\!」に決定。ゲートシティ大崎内の取扱店を拡大した上で、一般の来訪（利用）者も対象にして「Edy\!カード」の発行と「さくら[キャッシュカード](../Page/キャッシュカード.md "wikilink")一体型Edy\!カード」の発行も開始した。
+
+また、Edy\!に社員証・[カード](../Page/カード.md "wikilink")[キー機能を搭載する実験や](https://ja.wikipedia.org/wiki/鍵 "wikilink")、さくらキャッシュカード（Edy\!一体型のみ）・クレジットカード（[さくらカード](https://ja.wikipedia.org/wiki/さくらカード "wikilink")[JCB](../Page/ジェーシービー.md "wikilink")）でのEdy\!への入金（チャージ）に対応した[現金自動預け払い機](../Page/現金自動預け払い機.md "wikilink")型の入金機の設置も行われた。
+
+2000年12月に名称を現在の「Edy」に改め、[2001年](../Page/2001年.md "wikilink")初めに運営会社「[ビットワレット](https://ja.wikipedia.org/wiki/ビットワレット "wikilink")」（現・「[楽天Edy株式会社](https://ja.wikipedia.org/wiki/楽天Edy_\(企業\) "wikilink")」）を設立、[ソニースタイル](https://ja.wikipedia.org/wiki/ソニースタイル "wikilink")などによる[インターネットショッピング上の決済実証試験なども行われた](../Page/電子商取引.md "wikilink")。
+
+[2001年](../Page/2001年.md "wikilink")[11月](../Page/11月.md "wikilink")、[am/pm](https://ja.wikipedia.org/wiki/am/pm "wikilink")やゲートシティ大崎の一部店舗・ソニースタイルなどが加盟店となり、実用サービスを開始した。これは[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）の[Suica](../Page/Suica.md "wikilink")の正式サービス開始の[11月18日](../Page/11月18日.md "wikilink")と同時期となった。ただし、この時点ではSuicaはまだIC乗車券としての使用のみで、電子マネーとしての使用は2004年まで待つこととなる。
+
+### 2002年 - 2006年
+
+[2002年](../Page/2002年.md "wikilink")4月に、ソニーファイナンスが[eLIO](https://ja.wikipedia.org/wiki/eLIO "wikilink")・Edy搭載の[クレジットカード](../Page/クレジットカード.md "wikilink")「My Sony Card」（現「Sony Card」）の一般向け発行を開始した。なお、ソニー社員向けには2001年11月から開始していた。2002年7月にam/pmの[関東圏](https://ja.wikipedia.org/wiki/関東圏 "wikilink")店舗で一斉に取扱が始まると、発行枚数や取扱高が大きく増えた。
+
+同年9月に[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")で催された「Sony Dream World 2002」では、My Sony IDを用いた[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")での事前入場申込者に特別[デザイン](../Page/デザイン.md "wikilink")のEdyカードを無料頒布し、Edy決済対応の売店や、[自動販売機](../Page/自動販売機.md "wikilink")・現金を用いたEdyチャージャー（入金機）が多数設置された。
+
+[2003年](../Page/2003年.md "wikilink")には[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")と提携し、「ANAマイレージクラブEdyカード」およびクレジットカード一体型の「ANAカード（→[提携カード](https://ja.wikipedia.org/wiki/提携カード#航空系 "wikilink")）」を発行開始。これらのカードでEdyを使用すると、原則として200円あたり1マイルが付与され、また逆にマイレージからEdyバリューへの交換も可能となった。ただし、一部の加盟店やコンビニでの収納代行、金券購入はマイル付与対象外。
+
+[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")には、JR東日本が[Suica](../Page/Suica.md "wikilink")の開始に合わせて[ペンギンキャラクターを導入したのと同じように](https://ja.wikipedia.org/wiki/ペンギン_\(Suicaキャラクター\) "wikilink")、[ソニー・クリエイティブプロダクツ](https://ja.wikipedia.org/wiki/ソニー・クリエイティブプロダクツ "wikilink")によるEdyオリジナルキャラクター、「おさいふ犬\[20\]」が登場している。
+
+Edyは、更に提携企業・加盟店を増やし、各種のキャンペーンを催すなどして、日々利用者数・発行枚数が増大している\[21\] 。
+
+2004年7月10日にはNTTドコモ携帯電話が[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")機能の一つとしてEdyを導入。
+
+2005年には、Edyオフィシャルフリーマガジン「[EdyNAVI](https://ja.wikipedia.org/wiki/EdyNAVI "wikilink")」が発刊される。2005年9月9日には、au携帯電話のおサイフケータイでもEdyが利用可能に。また、2005年11月11日には、ボーダフォン（現ソフトバンクモバイル）携帯電話のおサイフケータイでもEdyが利用可能になった。
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月には、マイカル桑名駐車場(桑名市)と中部国際空港(常滑市)を結ぶ三重交通株式会社の[高速バス](../Page/高速バス.md "wikilink")でEdyが利用できるようになった\[22\]\[23\]\[24\]。なお、この路線は一旦廃止され、後に復活したが、以降はEdy使用不可である。
+
+また、高速道路会社各社も、Edyおよびポストペイ決済導入には積極的で、[サービスエリア](../Page/サービスエリア.md "wikilink")等の売店や自動販売機へのカードリーダー搭載も行っている。
+
+### 2007年以降
+
+  - 2007年
+      - [1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - [PLAYSTATION 3のオンラインショップ](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[PLAYSTATION Storeへのチャージに使用可能になった](https://ja.wikipedia.org/wiki/PlayStation_Store "wikilink")。なお、Edyカードリーダーが必要。
+      - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - Edyオフィシャルフリーマガジン「EdyNAVI九州版」が発刊。
+      - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - ネット通販大手の[Amazon.co.jp](https://ja.wikipedia.org/wiki/Amazon.co.jp "wikilink")での決済に利用できるようになった。
+      - [6月](../Page/6月.md "wikilink") - ハッピー優待とEdyスマイルクーポンの2つのサービスを開始した。
+      - 7月10日 - [ファミリーマート](../Page/ファミリーマート.md "wikilink")全店で、8月23日から8月31日にかけて[ローソン](../Page/ローソン.md "wikilink")全店で、取り扱いを開始。
+  - 2008年
+      - 3月21日 - [ユニー](../Page/ユニー.md "wikilink")・[アピタ](https://ja.wikipedia.org/wiki/アピタ "wikilink")の中京エリア各店、関東エリア（ユニー大口店）、北陸エリア（アピタ金沢店）で利用可能になった。4月10日までには全店へ拡大。
+      - 3月31日 - am/pm・ファミリーマートでの「代行収納（お振込み）」対応が終了。
+      - 4月30日 - ポプラでの「代行収納（お振込み）」対応が終了。
+      - 6月30日 - サークルK・サンクスでの「代行収納（お振込み）」対応が終了。
+      - 7月8日 - おサイフケータイ対応機種で利用可能な「Edyでポイント」がスタート。
+      - 9月 - Edyオフィシャルフリーマガジン「EdyNAVI@TOKYO（東京版）」が発刊。
+      - 9月1日 - [ミニストップ](https://ja.wikipedia.org/wiki/ミニストップ "wikilink")での利用が可能になる。
+      - 12月5日 - [マクドナルドでの利用が可能になる](../Page/日本マクドナルド.md "wikilink")。
+  - 2009年
+      - 2月19日 - [ウィルコムICサービス](https://ja.wikipedia.org/wiki/ウィルコムICサービス "wikilink")に対応したPHS端末のおサイフケータイで、Edyサービス開始。
+      - 3月 - Jリーグに所属している全クラブで、ファンクラブ会員証と年間チケットを1枚のカードにまとめるシステムである[ワンタッチパス](https://ja.wikipedia.org/wiki/ワンタッチパス "wikilink")を導入。ほとんどのクラブではEdyを採用している。
+      - 6月16日 - [ヤマト運輸](../Page/ヤマト運輸.md "wikilink")の全国**直営店**での利用が可能になる。ただし、一部商品はEdyでの支払い不可で、かつ店頭でのチャージは出来ず、Edyと現金の併用も出来ない。
+      - 9月14日 - [アメリカン・エキスプレス](../Page/アメリカン・エキスプレス.md "wikilink")カードでのクレジットバリューチャージが可能になる\[25\]。
+      - 10月7日 - 午前7時より[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")での利用が可能になる\[26\]。
+  - 2010年
+      - [6月17日](../Page/6月17日.md "wikilink") - [ヤマト運輸](../Page/ヤマト運輸.md "wikilink")で、Edyと現金の併用と、セールスドライバーの集荷での使用が、それぞれ可能となった。なお、Edyと現金併用する場合の条件がある。
+  - 2011年
+      - 1月31日 - [Android](https://ja.wikipedia.org/wiki/Android "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の対応端末でEdyサービス開始。
+      - 2月18日 - [ソフトバンクBB](../Page/ソフトバンクBB.md "wikilink")が [iPhone 4](https://ja.wikipedia.org/wiki/iPhone#iPhone_4 "wikilink") 向けのEdyシールを発売\[27\]。
+      - 8月4日 - auの携帯電話ならびにスマートフォンにインストールしたアプリのみ限定でauかんたん決済によるチャージに対応\[28\]。携帯電話料金と合算での支払いが可能になる。
+  - 2012年
+      - 6月1日 - サービスの名称を「楽天Edy」に変更。また、運営会社の名称も、同時に「ビットワレット」から「[楽天Edy株式会社](https://ja.wikipedia.org/wiki/楽天Edy_\(企業\) "wikilink")」に改名された。これに伴い店頭表示用のポップ・シールなども従来の青系統三色でデザインされたロゴから、上部に「楽天」下部にEdyとデザインロゴを取り入れた新しいものに一新された。ファミリーマートは楽天Edy変更後にPOSレジと端末のタッチ部分のロゴを変更した。ただし、[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")や[ローソン](../Page/ローソン.md "wikilink")等のコンビニは従来の青系統三色のロゴの使用を継続している\[29\]\[30\]。
+      - 8月12日 - [トミーウォーカー](https://ja.wikipedia.org/wiki/トミーウォーカー "wikilink")が運営する[PBW形式の](https://ja.wikipedia.org/wiki/プレイバイウェブ "wikilink")[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")『**[サイキックハーツ](https://ja.wikipedia.org/wiki/サイキックハーツ "wikilink")**』サービスインに伴い使用可能。
+  - 2013年
+      - 3月16日 - 同日開業の[やんばる急行バス](https://ja.wikipedia.org/wiki/沖縄本島のバス路線#やんばる急行バス "wikilink")（沖縄県）において楽天Edyの利用が可能になる。
+      - 7月1日 - ANA国内線の機内販売で楽天Edyの利用が可能になる。システムは[キヤノンマーケティングジャパン](https://ja.wikipedia.org/wiki/キヤノンマーケティングジャパン "wikilink")と共同で開発した。\[31\]なお、全日空によれば、飛行機の中での電子マネー決済は世界でも前例がないとのこと\[32\]。
+  - 2014年
+      - 4月14日 - 全国の[ロイヤルホスト](https://ja.wikipedia.org/wiki/ロイヤルホスト "wikilink")で使用可能となる。
+      - 10月1日 - 楽天Rポイントカード(2015年11月5日以降は、[楽天ポイントカード](https://ja.wikipedia.org/wiki/楽天ポイントカード "wikilink"))開始にともない、楽天Edy-Rポイントカード(同、Edy-楽天ポイントカード)の発行を開始。Rポイント提携企業の楽天Edy-Rポイントカードについても、以降順次発行開始された。
+  - 2015年
+      - 8月16日 - トミーウォーカー運営のPBW形式のオンラインゲームである『**サイキックハーツ**』に続き『**[ケルベロスブレイド](https://ja.wikipedia.org/wiki/ケルベロスブレイド "wikilink")**』でも使用可能。
+  - 2017年
+      - 4月1日 - ロゴマークを変更（楽天の文字が消え、丸にRとEdyのみ）。ホームページや加盟店などのアプセスタンスマークは順次変更された。
+  - 2018年
+      - 10月1日 - ロゴマークを再変更（Rの下に線が引かれた楽天新統一ロゴのRとEdyのみ）。なお、ホームページや加盟店などのアプセスタンスマークは順次変更される。
+      - 12月14日 - トミーウォーカー運営のPBW形式のオンラインゲームである『**ケルベロスブレイド**』に続き『**[第六猟兵](https://ja.wikipedia.org/wiki/第六猟兵 "wikilink")**』でも使用可能。
+  - 2019年
+      - 3月15日 - モバイル型の盗難・紛失・故障の際、楽天Edy残高の再発行に条件付きで対応\[33\]。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [電子マネー](../Page/電子マネー.md "wikilink")
+  - [ソニーファイナンスインターナショナル](https://ja.wikipedia.org/wiki/ソニーファイナンスインターナショナル "wikilink")
+  - [PaSoRi](https://ja.wikipedia.org/wiki/PaSoRi "wikilink")
+  - [BitCash](https://ja.wikipedia.org/wiki/BitCash "wikilink")
+  - [楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")
+  - [楽天ポイントカード](https://ja.wikipedia.org/wiki/楽天ポイントカード "wikilink")
+
+## 外部リンク
+
+  -
+  -
+  -
+  -
+[Category:電子マネー](https://ja.wikipedia.org/wiki/Category:電子マネー "wikilink") [Category:楽天](https://ja.wikipedia.org/wiki/Category:楽天 "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink")
+
+1.  [「楽天Edy」誕生記念プレキャンペーン](http://www.edy.jp/campaign/2012/0201_rakuten-edycam/index.html)
+2.  [楽天Edy、利用可能箇所数が 50 万箇所を突破\!](https://edy.rakuten.co.jp/company/press/2017/pdf/20171002.pdf)
+3.
+4.  [楽天、「楽天ポイントカード」と「楽天Ｅｄｙ」が「Android Pay™」に対応](http://corp.rakuten.co.jp/news/press/2016/1213_01.html)
+5.  [Edy用電子マネーシール for iPhone 4](http://www.softbankselection.jp/products/ProductDetail.aspx?sku=4580152982578&cd=F1000183)ソフトバンク コマース&サービス(2016年2月15日閲覧)
+6.  [登録できるクレジットカード](http://www.edy.jp/howto/charge/credit/registration.html) - Edy公式サイト
+7.
+8.
+9.  日本経済新聞 2009年6月9日朝刊 25面記事
+10.  - 株式会社セブン-イレブン・ジャパン、ビットワレット株式会社 2009年6月9日
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20. [おさいふ犬](http://www.sonymusic.co.jp/MoreInfo/Chekila/osaifuken/) - ソニー・クリエイティブプロダクツ
+21. [ANAマイレージクラブ × 電子マネー“Edy” サービス連携5周年 マイル2倍サービス「Edy マイルプラス」を本格展開](http://www.edy.jp/press/2008/20080530_2.html) 電子マネー「Edy（エディ）」 プレスリリース 2008年5月30日
+22. [日本で初めてバスに電子マネー“Edy”を導入\!](http://www.edy.jp/press/2006/20061004.html) - ビットワレット 2006年10月4日
+23.
+24. [バスの料金をEdyで支払い――セントレアへの空港線で](http://www.itmedia.co.jp/news/articles/0610/05/news048.html) - ITmediaニュース 2006年10月05日 15時15分
+25. [『アメリカン・エキスプレス・カードでもEdyチャージができます\!\!』](http://www.edy.jp/whatsnew/2009/new_0914.html) - ビットワレット 2009年9月14日
+26.
+27. [「電子マネーシール for iPhone 4」を発売](http://www.softbankmobile.co.jp/ja/news/press/2010/20101227_02/) - ソフトバンクモバイル　プレスリリース
+28. [auかんたん決済でチャージ](http://www.edy.jp/howto/charge/au/index.html) - Edy公式サイト
+29. [1](http://www.sej.co.jp/services/cash.html)
+30. [2](http://www.lawson.co.jp/service/counter/settlement/)
+31. [- 全日空プレスリリース](http://www.ana.co.jp/pr/13_0103/13-ana-canon-edy0328.html) 2013年3月28日
+32. 日経産業新聞2013年6月14日付
+33.

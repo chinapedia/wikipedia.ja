@@ -1,0 +1,41 @@
+> この記事は[H-II8](https://ja.wikipedia.org/wiki/H-II8)から翻訳されています。
+
+
+**H-IIロケット8号機**は、[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")（NASDA）が打上げた[H-IIロケット](../Page/H-IIロケット.md "wikilink")のうち7番目に打ち上げた機体。 [1999年](../Page/1999年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")に[種子島宇宙センター](https://ja.wikipedia.org/wiki/種子島宇宙センター "wikilink")から[運輸多目的衛星1号（MTSAT-1）を搭載して打ち上げたが](https://ja.wikipedia.org/wiki/MTSAT#運輸多目的衛星1号 "wikilink")、1段目エンジンの[LE-7](https://ja.wikipedia.org/wiki/LE-7 "wikilink")が破損し推力を失ったため地上からの指令で破壊、残骸とペイロードは[父島](https://ja.wikipedia.org/wiki/父島 "wikilink")の北西約380kmの海中に落下した。打上げ順番の変更で、6号機→5号機→8号機の順番で打ち上げ、8号機はH-IIの最終号機体であった。
+
+## 失敗の原因
+
+[200px](https://ja.wikipedia.org/wiki/ファイル:H-IIRocket_F8_LE-7engine.jpg "wikilink") [テレメトリ](https://ja.wikipedia.org/wiki/テレメトリ "wikilink")情報の解析から、LE-7の液体燃料の供給系に何らかのトラブルが発生し燃料の供給が止まったことが推力喪失の原因と考えられた。具体的な原因を調査するため[海洋科学技術センター](https://ja.wikipedia.org/wiki/海洋研究開発機構 "wikilink")（現JAMSTEC）に依頼して、11月19日から深海調査船による捜索を実施した。この第1次調査でロケットの残骸の一部が発見できたため12月20日から第2次調査を行い、[12月24日](../Page/12月24日.md "wikilink")にLE-7エンジン本体を発見、翌2000年1月に3000mの深海からの回収に成功した。太平洋の海底3000mから僅か3m四方の物体を発見し回収できたことは奇跡的と言える。なお、回収されたLE-7エンジンは現在[角田宇宙センター](https://ja.wikipedia.org/wiki/角田宇宙センター "wikilink")で展示されている。
+
+引き上げたエンジン本体の解析の結果、[液体水素](../Page/液体水素.md "wikilink")ターボポンプ入り口のインデューサの羽車が疲労破壊で折損していることがわかった。このためインデューサの動作試験を行った結果、インデューサから液体水素供給パイプ上流に向かって旋回[キャビテーション](https://ja.wikipedia.org/wiki/キャビテーション "wikilink")が発生、これによりパイプ内の動圧変動が誘起されてインデューサの羽根車を振動させ疲労破壊に至ったと推定された。この破壊により供給配管の圧力が瞬時に過大になって破損、液体水素が漏出したためエンジン燃焼室への燃料供給がとまりエンジンが停止したのである。
+
+開発過程で旋回キャビテーションの発生の可能性は予期できたものの、複合的要因によってインデューサ等が破壊することまでは予見できなかったという。
+
+[H-IIAロケット](https://ja.wikipedia.org/wiki/H-IIAロケット "wikilink")で用いられる[LE-7A](https://ja.wikipedia.org/wiki/LE-7A "wikilink")エンジンではこの失敗経験を生かし、旋回キャビテーション対策を施すとともに、通常動作外の動作環境でも異常が見られないよう設計変更を行い、高信頼性を確保することができた。
+
+## 失敗の影響
+
+[H-IIロケット5号機](https://ja.wikipedia.org/wiki/H-IIロケット5号機 "wikilink")では2段目のエンジンで失敗し、2段目をH-IIAロケットの2段目に取り替えた8号機では1段目のエンジンで失敗したため、次に打ち上げる予定だった7号機は、製作済みであったが打上げをキャンセルされH-IIロケットの運用が終了することになった。
+
+失われたペイロードである運輸多目的衛星 MTSAT-1は、航空管制用通信衛星・気象観測衛星などの機能を統合した[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")であり、特に設計寿命を2000年に迎える[気象衛星ひまわり](https://ja.wikipedia.org/wiki/ひまわり_\(気象衛星\) "wikilink")5号の後継衛星でもあった（同衛星の静止位置に置かれる予定だった）。このためひまわり5号はそのまま寿命を超えて使われることになった。 [2003年](../Page/2003年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")からは、2005年のMTSAT-1R（後のひまわり6号）打ち上げ・運用開始までの間、[米国NOAAからGOES](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")-9を借用して観測が続けられた。
+
+また、この事故によりH-IIAロケットはヒューズ社やESAを始めとする顧客の受注を失い、ロケットの商業打ち上げ計画に大きな影響がでた。また間接的には、日本の宇宙開発諸機関の統合化が促進されて宇宙開発事業団（NASDA）・文部省[宇宙科学研究所](../Page/宇宙科学研究所.md "wikilink")（ISAS）・[航空宇宙技術研究所](https://ja.wikipedia.org/wiki/航空宇宙技術研究所 "wikilink")（NAL）の3機関の統合が決定し、後の[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")（JAXA）の誕生に繋がった。加えてH-IIAロケットは開発終了後早期に民間企業に移管することになった。
+
+## 関連記事
+
+  - [宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")
+  - [H-IIロケット](../Page/H-IIロケット.md "wikilink")
+  - [H-IIロケット5号機](https://ja.wikipedia.org/wiki/H-IIロケット5号機 "wikilink")
+  - [H-IIAロケット6号機](https://ja.wikipedia.org/wiki/H-IIAロケット6号機 "wikilink")
+  - [ロケット](../Page/ロケット.md "wikilink")
+  - [宇宙開発](https://ja.wikipedia.org/wiki/宇宙開発 "wikilink")
+  - [ディープ・トウ](https://ja.wikipedia.org/wiki/ディープ・トウ "wikilink")
+
+## 外部リンク
+
+  - [H-IIロケット8号機の事故原因とH-IIAロケットへの対策について【要約版】](http://www.jaxa.jp/press/nasda/2000/h28_000414_j.html) NASDAが宇宙開発委員会に提出した報告書
+  - [「Ｈ―IIロケット8号機」の第１段ロケットの３次調査について](http://www.jamstec.go.jp/jamstec-j/H2topic3/) JAMSTECの報告書
+  - [H-2ロケット8号機打ち上げ失敗](http://www.shippai.org/fkd/cf/CB0011004.html) - 失敗データベース
+  - [【WLP】失敗に学ぶ-泡が機械を破壊- 「Ｈ－Ⅱロケット８号機の墜落」](https://www.youtube.com/watch?v=k4dc-H4fwII) - [科学技術振興機構](https://ja.wikipedia.org/wiki/科学技術振興機構 "wikilink")公式ムービー
+
+[Category:日本のロケット](https://ja.wikipedia.org/wiki/Category:日本のロケット "wikilink")

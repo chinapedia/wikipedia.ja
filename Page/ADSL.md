@@ -1,0 +1,307 @@
+> この記事は[ADSL](https://ja.wikipedia.org/wiki/ADSL)から翻訳されています。
+
+
+**ADSL**（エーディーエスエル、**A**symmetric **D**igital **S**ubscriber **L**ine：非対称[デジタル加入者線](https://ja.wikipedia.org/wiki/デジタル加入者線 "wikilink")）とは[デジタル加入者線](https://ja.wikipedia.org/wiki/デジタル加入者線 "wikilink")（DSL）の1つであり、[ツイストペアケーブル](https://ja.wikipedia.org/wiki/ツイストペアケーブル "wikilink")[通信線路](https://ja.wikipedia.org/wiki/通信線路 "wikilink")（一般のアナログ電話回線）を使用する上り（アップリンク・受信）と下り（ダウンリンク・送信）の速度が非対称（Asymmetric）な、高速[デジタル](../Page/デジタル.md "wikilink")[有線通信](https://ja.wikipedia.org/wiki/有線通信 "wikilink")[技術](https://ja.wikipedia.org/wiki/技術 "wikilink")、ならびに[電気通信役務](https://ja.wikipedia.org/wiki/電気通信役務 "wikilink")のこと。
+
+## 技術
+
+### 概要
+
+ADSLの技術は1990年代に[スタンフォード大学](https://ja.wikipedia.org/wiki/スタンフォード大学 "wikilink")とベルコア社が提案したメタリックケーブルを利用した高速デジタルアクセス技術である\[1\]。
+
+ADSLは複数あるxDSL規格の1つである。xDSLの技術は大きく分けて上り信号と下り信号が同じだけの帯域幅を持つ**SDSL**（Symmetric Digital Subscriber Line、対称デジタル加入者線）と上りと下りで帯域幅が異なる**ADSL**（Asymmetric Digital Subscriber Line、非対称デジタル加入者線）に分けられ、またそれぞれの中でも細かな変調方式の違いやモデムチップメーカーの技術的な思惑の違い、技術革新による性能向上規格の登場、各国独自の既存電話事情、等によって多くの規格が乱立した。たとえば日本でのみ普及していたISDNの周波数帯とのノイズ干渉を避けるG.992（G.dmt/G.Lite）Annex C等が代表的である。
+
+2010年頃から、ヨーロッパを中心に複数のSDSL回線を束ねて使用する**EFM**（Ethernet in the First Mile）という専用線サービスが普及しつつある。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:ADSL_frequency_plan.svg "wikilink") ADSLの特徴として、一方の通信帯域を削ることでもう一方により大きな通信帯域を割り当てている（非対称）。通常は下り（ダウンリンク）の速度が上り（アップリンク）の速度よりも高速に設定されている。これは一般家庭などでの[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")利用では[Webアクセスなどの用途が主となるため](../Page/World_Wide_Web.md "wikilink")、ダウンリンクデータの容量がアップリンクデータに比べて遥かに多く、ダウンリンクを優先することで総合的に[データ通信](https://ja.wikipedia.org/wiki/データ通信 "wikilink")速度を高速化するためである。
+
+既設の[ツイストペアケーブル](https://ja.wikipedia.org/wiki/ツイストペアケーブル "wikilink")[通信線路](https://ja.wikipedia.org/wiki/通信線路 "wikilink")でアナログ[固定電話](https://ja.wikipedia.org/wiki/固定電話 "wikilink")による通話と同時に信号を伝送するため、[音](https://ja.wikipedia.org/wiki/音 "wikilink")声[周波数](https://ja.wikipedia.org/wiki/周波数 "wikilink")帯域（0.3 - 3.4[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")）を避けたより高く広い周波数帯域を使用し、複数の搬送波を利用した[OFDMなどの](https://ja.wikipedia.org/wiki/直交周波数分割多重方式 "wikilink")[デジタル変調](https://ja.wikipedia.org/wiki/デジタル変調 "wikilink")を使用しADSLモデムで[誤り検出訂正](../Page/誤り検出訂正.md "wikilink")や回線にあわせた通信速度調整を行っている。そのため、従来の[電話回線](https://ja.wikipedia.org/wiki/電話回線 "wikilink")用[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")や低速仕様の[ISDN](../Page/ISDN.md "wikilink")などと比べて高速なデータ通信が可能である。
+
+### 通信規格
+
+次の2種類の規格から提供が始まった。
+
+  - G.992.1（G.dmt）
+    ダウンリンク8M[bps](https://ja.wikipedia.org/wiki/ビット毎秒 "wikilink")（148〜1104kHzの帯域を利用）・アップリンク1Mbps（26〜138kHzの帯域を利用）
+  - G.992.2（G.Lite）
+    ダウンリンク1.5Mbps（148〜552kHzの帯域を利用）・アップリンク512kbps（26〜138kHzの帯域を利用）
+
+次のようなものが拡張規格として定められている。
+
+  - Annex A
+    北米向け。
+  - Annex B
+    [ヨーロッパ](../Page/ヨーロッパ.md "wikilink")のエコーキャンセラ方式の[Euro-ISDNと同時使用が可能](https://ja.wikipedia.org/wiki/ISDN#Euro-ISDN "wikilink")。
+  - Annex C
+    [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[時分割複信](https://ja.wikipedia.org/wiki/時分割複信 "wikilink")の[TCM-ISDNとの干渉を抑えるため](https://ja.wikipedia.org/wiki/ISDN#TCM-ISDN "wikilink")、2つの伝送マップを持ち、ISDNの伝送方向に同期して切り替える。
+
+以下のような技術を用いることによりダウンリンク12, 24, 40Mbps、アップリンク3, 5Mbpsなどと高速化されていった。
+
+  - S=1/2 1/4 1/8 1/16
+    誤り訂正ビット列を効率化する。
+  - フルビットローディング（full-bit loading）
+    1つの搬送波の1回の変調で送信するビット数を11〜12から15ビットへと拡張する。
+  - ハイビットローディング（high-bit loading）
+    1つの搬送波の1回の変調で送信するビット数を15ビット以上とする。
+  - ダブルスペクトラム方式（Double Spectrum）
+    使用する周波数帯域を倍（最大2.2MHz）に拡張する。
+  - クワドラプルスペクトラム方式（Quadruple Spectrum）
+    使用する周波数帯域を約4倍（最大3.75MHz）に拡張する。
+
+また、アップリンクを低周波数側、ダウンリンクを高周波数側とすることで、送受信の分離（[周波数分割複信](https://ja.wikipedia.org/wiki/周波数分割複信 "wikilink")）をしているものが多い。さらに、[エコーキャンセラ](https://ja.wikipedia.org/wiki/エコーキャンセラ "wikilink")（Echo Canceller）を使用し、アップリンクとダウンリンクの周波数をオーバーラップ（Over Lap）させ、ダウンリンクの安定化・高速化と共にアップリンクを高速化しているものもある。
+
+## 機器
+
+### ADSLモデム
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:NTT_East_ADSL_modem-NVIII.jpg "wikilink") ADSL[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")は、ADSL通信に用いられる[データ回線終端装置](https://ja.wikipedia.org/wiki/データ回線終端装置 "wikilink")である。ADSL通信経路の両端末である利用場所と収容局双方に設置される装置で、一般的には利用場所側の装置をADSLモデムと称する。収容局側の装置は複数のADSLモデムの集合体で、DSLAMと称する。
+
+モデムによっては[IP電話用のアダプターと](https://ja.wikipedia.org/wiki/VoIP#VoIPゲートウェイ "wikilink")[ブロードバンドルーター機能を内蔵しているものもあり](https://ja.wikipedia.org/wiki/ルーター#ブロードバンドルーター "wikilink")、ADSL信号で[IP電話](https://ja.wikipedia.org/wiki/IP電話 "wikilink")を利用することが可能な契約もある。
+
+### スプリッタ
+
+[スプリッタ](https://ja.wikipedia.org/wiki/スプリッタ "wikilink")は通話と[データ通信](https://ja.wikipedia.org/wiki/データ通信 "wikilink")を同時に可能にするため、音声周波数帯を[電話機](https://ja.wikipedia.org/wiki/電話機 "wikilink")・[電話交換機](https://ja.wikipedia.org/wiki/電話交換機 "wikilink")へ、データ通信用の高周波数帯をADSLモデム・DSLAMへ、それぞれ周波数分割して接続するために用いられる機器で[分波器](https://ja.wikipedia.org/wiki/分波器 "wikilink")と[混合器](https://ja.wikipedia.org/wiki/混合器 "wikilink")の役割を持つ。こちらも利用場所と収容局双方に設置される。
+
+3つの接続口を持ち、[加入者線](https://ja.wikipedia.org/wiki/加入者線 "wikilink")からの配線をLINE端子、電話機をPHONE端子、ADSLモデムをMODEM端子に接続するのが一般的である。また、ADSLモデムに内蔵されている場合もある。
+
+## 欧米諸国での状況
+
+### アメリカ合衆国
+
+北米では積極的なADSLの導入により2000年には140万回線を超える普及となった\[2\]。
+
+アメリカでブロードバンド接続を提供している事業者は主に大手通信事業者とケーブルテレビ事業者である\[3\]。ケーブルテレビ事業者がケーブルモデムを提供しているのに対し、大手通信事業者はADSL接続や光ファイバー、衛星接続を提供している\[4\]。
+
+OECDの統計によると、2015年6月現在、固定ブロードバンドの接続数（約1億252万回線）のうち、56.5％がケーブルモデム、29.7％がADSL、9.4％が光ファイバーであった\[5\]。
+
+### フランス
+
+2015年6月末現在、ブロードバンド加入者数（約2,626万）のうち、83.6%がADSLで、14.6%が超高速ブロードバンド（最大通信速度30Mbps以上）、残りが幹線が光化されていないケーブルや衛星回線等であった\[6\]。ADSL加入者数は2014年第3四半期をピークに減少傾向にある\[7\]。
+
+## 日本国内での状況
+
+日本では2000年代前半に既設のメタリック通信線が利用できることで急速に普及した。従来の公衆交換電話網を経由したダイヤルアップ接続による従量制通信料金ではなく、月額定額料金で提供される場合がほとんどで、常時接続という利用形態が普及した。しかし、2000年代後半になると、携帯電話に代表される高速な移動系通信サービスの普及と、光ファイバー（FTTH）による高速通信が主流になるにつれて利用者が減少しており、さらに[PSTNの将来的な](https://ja.wikipedia.org/wiki/公衆交換電話網 "wikilink")[NGN](https://ja.wikipedia.org/wiki/NGN "wikilink")へのマイグレーションに伴ってサービスの廃止が検討されるようになり、[NTT東日本](https://ja.wikipedia.org/wiki/NTT東日本 "wikilink")と[NTT西日本](https://ja.wikipedia.org/wiki/NTT西日本 "wikilink")は2017年11月30日、**FTTHサービス「フレッツ光」提供エリアで、ADSLサービス「フレッツ・ADSL」の提供を2023年1月31日に終了する**と発表した。
+
+既設の[公衆交換電話網](https://ja.wikipedia.org/wiki/公衆交換電話網 "wikilink")のメタリック通信線によるアナログ[固定電話](https://ja.wikipedia.org/wiki/固定電話 "wikilink")回線にデジタル情報を[重畳](https://ja.wikipedia.org/wiki/重畳 "wikilink")して家庭や小規模事業所からの[ブロードバンドインターネット接続](https://ja.wikipedia.org/wiki/ブロードバンドインターネット接続 "wikilink")に使用される。アナログ電話回線に重畳させて提供するものをタイプ1、重畳させずに提供するものをタイプ2という。
+
+アナログ電話回線を使用するがデジタル情報による通信であるため、法的にはデジタル伝送路として扱われる。このため工事には[電気通信設備工事担任者](https://ja.wikipedia.org/wiki/電気通信設備工事担任者 "wikilink")のDD種もしくは総合種が必要となる。
+
+### 実験～サービス開始
+
+[1999年](../Page/1999年.md "wikilink")4月に、[伊那市有線放送農業協同組合](https://ja.wikipedia.org/wiki/伊那市有線放送農業協同組合 "wikilink")にパラダイン製のADSLモデムを同社の従業員が持ち込み、[有線放送電話](https://ja.wikipedia.org/wiki/有線放送電話 "wikilink")網での接続実験を行った。同年[8月27日](../Page/8月27日.md "wikilink")に伊那xDSL利用実験連絡会が記者会見を行い、8月から9月にかけて[伊那市有線放送農業協同組合](https://ja.wikipedia.org/wiki/伊那市有線放送農業協同組合 "wikilink")でのxDSLの公開実験をすると発表した。その時の主な参加企業は、長野県のプロバイダー事業者として[富士通長野システムエンジニアリング](https://ja.wikipedia.org/wiki/富士通長野システムエンジニアリング "wikilink")及び[長野県協同電算](https://ja.wikipedia.org/wiki/長野県協同電算 "wikilink")、システム構築を担当した企業は[KDDI研究所](https://ja.wikipedia.org/wiki/KDDI研究所 "wikilink")、[数理技研](https://ja.wikipedia.org/wiki/数理技研 "wikilink")、[SunMicrosystems](https://ja.wikipedia.org/wiki/SunMicrosystems "wikilink")、xDSLの機材提供を行ったのは[住友電気工業](https://ja.wikipedia.org/wiki/住友電気工業 "wikilink")、[住友電設](https://ja.wikipedia.org/wiki/住友電設 "wikilink")、ソネット、パラダインジャパン、[NECであった](../Page/日本電気.md "wikilink")。[Place_of_origin_"ADSL"_in_Japan.jpg](https://ja.wikipedia.org/wiki/File:Place_of_origin_"ADSL"_in_Japan.jpg "fig:Place_of_origin_\"ADSL\"_in_Japan.jpg")
+
+同年[9月1日](../Page/9月1日.md "wikilink")にJANISネット（株式会社[長野県協同電算](https://ja.wikipedia.org/wiki/長野県協同電算 "wikilink")）が[長野市](https://ja.wikipedia.org/wiki/長野市 "wikilink")の川中島町有線放送農業協同組合の有線放送電話網を使って下り最高1.5Mbps・上り最高272kbpsのサービスを始めたのが商業ADSLサービスの始めとされる\[8\]\[9\]。
+
+東京めたりっく通信（後に[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")へ吸収）は、1999年[12月24日](../Page/12月24日.md "wikilink")に[新宿新南口のユースビル一階で](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")、ADSL/SDSL接続サービスのデモ・センター「新宿めたりっくバー」を開設した。NTT電話網を利用した商用ADSLサービスは1999年12月に[コアラが](https://ja.wikipedia.org/wiki/コアラ_\(企業\) "wikilink")[大分市](https://ja.wikipedia.org/wiki/大分市 "wikilink")の一部を対象に、次いで[2000年](../Page/2000年.md "wikilink")1月に東京めたりっく通信によって[東京23区内の一部を対象に開始](https://ja.wikipedia.org/wiki/特別区 "wikilink")（申し込みは1999年10月頃から）された。
+
+### 普及
+
+[2001年](../Page/2001年.md "wikilink")はブロードバンド元年といわれた。[Yahoo\!BB](https://ja.wikipedia.org/wiki/Yahoo!BB "wikilink")と組み合わせて使う[IP電話の](https://ja.wikipedia.org/wiki/日本のIP電話 "wikilink")[BBフォンがサービス開始となり](https://ja.wikipedia.org/wiki/Yahoo!BB#BBフォン "wikilink")、同事業者間で無料通話ができることからIP電話が広く認知されるようになった。2003年にIP電話で050番号が付番され、主にISP系のITSPの新規参入が顕著になる。
+
+NTTが[フレッツ](https://ja.wikipedia.org/wiki/フレッツ "wikilink")ブランドでFTTHとADSLの2本立てでブロードバンド対応を進めた。[イー・アクセス・アッカ・ネットワークス・Yahoo\!BBなど主要な](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")[電気通信事業者](https://ja.wikipedia.org/wiki/電気通信事業者 "wikilink")も利用可能な地域を拡大した。[総務省](../Page/総務省.md "wikilink")の発表によると2001年1月の時点では16,194回線だったのが、2001年12月の時点で1,524,348回線になり、[2003年](../Page/2003年.md "wikilink")12月末には1000万回線を突破した。
+
+2000年後半以降、ISP間でキャッシュバックや料金値下げなどで顧客を争奪する価格競争が発生しISPとADSL回線料金の合計（電話回線の基本料が別途必要）が月額3000円台前後へと低価格化が進み、ブロードバンド回線の主流となった。当初、電話局から1km以内ぐらいの地域であれば、下り公称帯域1.5Mbps、実効帯域でも1Mbps程度であった。その後、技術の向上により2005年には、電話局から数百Mという好条件であれば、下り帯域は100Mbpsを測定可能な場合があるまでに上昇している。
+
+### 終焉
+
+ADSLの利用者は2006年3月末の1452万件をピークに\[10\]、FTTHの普及や携帯電話のインターネット接続の高速化および[WiMAX](https://ja.wikipedia.org/wiki/WiMAX "wikilink")などの高速無線インターネット接続の普及に伴って減少に転じ、2006年の後半以降10年以上にわたって連続して四半期ごとに5%程度のペースで一貫して減少を続けており、最盛期の12％程度の173万件（2019年3月末現在）にまで減少している\[11\]。固定系ブロードバンドサービスの契約数が4025万件にまで拡大する中で、DSLのシェアは最盛期には75％にまでなったものがもはや4.3%にまで低下している。設備の老朽化と規模の縮小による採算性の悪化から、サービス提供業者の統廃合が進んでいる。NTT系は2016年6月30日新規受付を終了し、2023年1月31日までに順次終了していくことを発表している。最後まで新規受付を継続していた大手のソフトバンクグループも、「Yahoo\! BB ADSL」などの各種ADSLサービスについて、新規契約の受付については2019年2月28日で受付終了し\[12\]、2020年3月より順次終了していき2024年3月末で提供終了することを発表している\[13\]。
+
+#### フレッツ・ADSLの機器製造停止による新規受付停止
+
+  -
+    フレッツ・ADSLでは、モデム製造を[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")をもって終了しており、保守物品の在庫の枯渇が見込まれることから、[FTTH](https://ja.wikipedia.org/wiki/FTTH "wikilink")提供可能地域で、フレッツ・ADSLの新規申し込みの受付を2016年6月30日をもって終了した\[14\]\[15\]。
+    2023年1月31日を以って、「フレッツ光」提供エリアにおいてフレッツ・ADSLをサービス提供を終了する。\[16\]\[17\]
+    おそらく、プロバイダによるサービスの終了により、「フレッツ光」提供エリアでなくともサービスが終了すると見込まれる。
+
+#### ADSLサービスに関する注意事項
+
+  -
+    NTTはPSTNのマイグレーションを行っており、2025年までにメタルIP電話に切り替える予定で計画を進行させている。ただし、電話局までのメタル回線そのものは残る予定なので、ADSLのサービスを提供している企業が技術的な問題や経営的な理由によりADSLサービスを終了しない限り、ADSLのサービスが提供され続ける可能性は残っている。
+
+<!-- end list -->
+
+  -
+    もっとも、NTT東西のメタル回線による固定電話は、利用頻度の激減と老朽化により、毎年1000億円規模の赤字を出している状況である。契約件数で1997年から2016年で6割以上の減少、通信回数で2000年から2015年で93％の減少、通信時間で2000年から2015年で97％の減少となっている\[18\]。もはや、「固定電話市場は、事業者間の競争を促進するフェーズから、いかにコストをかけずにサービスを維持していくかというフェーズに移⾏した」と、NTTは宣言している。このまま採算が悪化していった場合には、新たな支援策が行われなければ、10～20年という長期のスパンで見れば、必要な法改正をしたうえでメタル回線そのものが廃止される可能性がある点には留意が必要である。既に老朽化や災害で新規に回線設備を引き直す場合には、メタル回線で敷設する義務はなくなっており、FTTHや無線による提供に切り替えられる可能性があり、その場合にはその地域でのADSLの提供は終了する。
+
+<!-- end list -->
+
+  -
+    現在ADSLでも使用されているメタル回線そのものは整理統合を推進するものの、原則としてNTTは光ケーブルへの変更の強制は行っていない。これは、光ケーブルに変更することが物理的に困難なケースや、採算が取れないケースがあるためである。それらに対応するために、電話局側に電話交換機の代わりにIP電話のゲートウェイを設置することで、現在使用しているメタル回線と電話機をそのまま使用して、無償でNTTが自己都合に行う電話局内部の工事だけでIP電話に変更することになっている。課金の前提となるネットワークの形態の変更に伴って2024年頃に電話料金の体系の変更が予定されている。
+
+<!-- end list -->
+
+  -
+    光ケーブルへの変更の強制は、NTTを騙る悪徳代理店によるものなので注意が必要である。確かに、ADSLのサービスの終了そのものは、サービスを提供している企業の撤退により発生している。しかし、基本的にサービスの終了については文書による通知を行っている。よって、電話による光ケーブルへの変更の勧誘やサービス終了の通告は、詐欺や悪徳代理店による虚偽を疑った方が良い。**電話による勧誘は、文書による証拠を残さないために行われる悪徳商法の常套手段である**。
+
+<!-- end list -->
+
+  -
+    不安な場合は、電話回線についてはNTTに、ADSLのサービスについてはADSLサービスを提供している企業のサポートに直接問い合わせるのが良い。
+    悪質な勧誘行為への注意喚起がNTT東西より広報されている\[19\]。古い回線の切り替え、アナログ回線がデジタル回線になる、回線が使用できなくなるといった虚偽内容のセールストークに注意するよう呼び掛けている。
+
+## サービス提供上の問題点
+
+### 未提供地域の存在による格差
+
+ADSLを始めとした[ブロードバンドは](https://ja.wikipedia.org/wiki/ブロードバンドインターネット接続 "wikilink")[基礎的電気通信役務](https://ja.wikipedia.org/wiki/基礎的電気通信役務 "wikilink")として位置付けられておらず、あまねく全域（全ての[市・町・村](https://ja.wikipedia.org/wiki/市町村 "wikilink")）で提供することが法的に義務づけられていないため、[過疎地](https://ja.wikipedia.org/wiki/過疎地 "wikilink")（[町](https://ja.wikipedia.org/wiki/町 "wikilink")・[山村](https://ja.wikipedia.org/wiki/山村 "wikilink")・[離島](https://ja.wikipedia.org/wiki/離島 "wikilink")など）で利用できない状況と、それに伴う料金の地域格差拡大の恐れもある。
+
+また、対応[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")においても地域格差が生じている。例えばADSLを加入者接続に利用する場合、NTTなどのアクセスライン提供事業者が設置する相互接続点に[専用線](https://ja.wikipedia.org/wiki/専用線 "wikilink")でサービス提供用[サーバ](../Page/サーバ.md "wikilink")などを接続しなければならない。これらの機器・回線を他の事業者の社屋に有料で設置するなど高額な費用が掛かる為、都市圏のプロバイダ以外の新規参入がしにくいという問題も抱えている。
+
+### 通信速度
+
+[加入者線路は音声などの低周波伝送を満たすシールドなし](https://ja.wikipedia.org/wiki/通信線路#加入者線路 "wikilink")[ツイストペアケーブル](https://ja.wikipedia.org/wiki/ツイストペアケーブル "wikilink")を使用しており、これを高周波伝送に転用しているためその伝送特性が保証されておらず、速度や安定性などが設置条件によって大きく左右され、通信品質を保障することができない（[ベストエフォート](https://ja.wikipedia.org/wiki/ベストエフォート "wikilink")）。実際のところ、通常の使用環境では最良でも理論値の70〜80%程度となる。
+
+ADSLの速度低下の主な要因としては次のものがある。影響が大きい場合は、速度低下のみならずADSL通信そのものを確立できない（「リンクアップ」しない）状況に至る。
+
+  - [通信線路](https://ja.wikipedia.org/wiki/通信線路 "wikilink")の損失
+
+<!-- end list -->
+
+  - 収容局に設置された端末装置（[DSLAM](https://ja.wikipedia.org/wiki/DSLAM "wikilink")）からの延長距離
+
+<!-- end list -->
+
+  -
+    利用場所から局内端末装置までの距離が長いほど損失が大きくなり、通信速度が低下する。周波数の高い帯域ほど距離による影響が大きく、クワドラプルスペクトラム方式の場合は局内端末装置から1kmで理論値の半分にまで速度が落ちる。
+    端末装置が置かれた電話局を[GC局というが](https://ja.wikipedia.org/wiki/公衆交換電話網#デジタル化時代の電話網 "wikilink")、ある利用場所からの[加入者線路を収容している電話局](https://ja.wikipedia.org/wiki/通信線路#加入者線路 "wikilink")（[端局またはEO局という](https://ja.wikipedia.org/wiki/公衆交換電話網#自動交換化時代のアナログ電話網 "wikilink")）が必ずしもGC局であるとは限らない。ADSLの普及が遅れている地域ではEO局からGC局までNTT東西によって内部中継されており、利用場所から局内端末装置までの総延長が長くなる傾向がある。なおEO局からGC局までの内部中継が光回線で行われている場合は後述の問題点「[光収容](https://ja.wikipedia.org/wiki/#光収容 "wikilink")」に該当する。
+
+<!-- end list -->
+
+  - 「ブリッジタップ」など、分岐接続の存在による信号減衰
+  - [主配線盤](https://ja.wikipedia.org/wiki/主配線盤 "wikilink")・[端子函](https://ja.wikipedia.org/wiki/端子函 "wikilink")などでの接触不良による[電気抵抗](https://ja.wikipedia.org/wiki/電気抵抗 "wikilink")増大
+
+<!-- end list -->
+
+  - 外来[ノイズ](../Page/ノイズ.md "wikilink")
+
+<!-- end list -->
+
+  - [送電](https://ja.wikipedia.org/wiki/送電 "wikilink")線・幹線[道路](../Page/道路.md "wikilink")・[鉄道](../Page/鉄道.md "wikilink")の[架線](https://ja.wikipedia.org/wiki/架線 "wikilink")などから放射される[電磁波](https://ja.wikipedia.org/wiki/電磁波 "wikilink")
+  - [中波放送](../Page/ラジオ.md "wikilink")（AMラジオ）や[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")などの「[周波数](https://ja.wikipedia.org/wiki/周波数 "wikilink")が競合する[電波](../Page/電波.md "wikilink")」（専用の[ノイズフィルター](https://ja.wikipedia.org/wiki/ノイズフィルター "wikilink")が市販されている。この問題は後の[PLC通信において](https://ja.wikipedia.org/wiki/電力線搬送通信 "wikilink")[中波放送と競合する周波数帯を使用しない事に反映されている](../Page/ラジオ.md "wikilink")）
+  - [ツイストペアケーブル](https://ja.wikipedia.org/wiki/ツイストペアケーブル "wikilink")の同一クワッドの[TCM-ISDNとADSLの周波数帯域重複](https://ja.wikipedia.org/wiki/ISDN#TCM-ISDN "wikilink")（いわゆる「ISDNからのノイズ干渉」）
+  - 電話回線への物理的接触（木の枝など）
+
+しかしながら線路情報開示システム\[20\]にアクセスして電話番号を入力すれば、電話局からの距離や回線損失などの回線の状況を知ることはできるものの（回線が光収容の場合はエラーになる）、実際には「契約可能区域」となっているにも係わらず、地方など交換局が疎になっている地域やノイズの多い地点などでは速度が大きく低下する、または接続できない地点が存在することもある。
+
+ただ回線の通信速度が遅い問題や接続できない（リンクできない）問題はモデムの技術水準向上や各種の技術開発により、普及開始当初よりは大きく改善している。ADSLという技術自体が[2000年代](../Page/2000年代.md "wikilink")に入ってから実用化された通信方式として歴史が浅いこともあり、ADSLモデムの[ファームウェア](https://ja.wikipedia.org/wiki/ファームウェア "wikilink")を最新のバージョンに入れ替えることで、通信状況が改善されることも多い。
+
+業者の中には通信速度が上がらない、通信できないにも係わらず解約に応じないと問題視されている事例もあり[国会](https://ja.wikipedia.org/wiki/国会 "wikilink")などでも取り上げられた。現在に於いても半ば強引な契約と顧客の知識不足が重なり、開通後に「速度が上がらない」などの苦情が絶えない。また広告での「最大速度は理論値であり、必ずしも仕様通りの速度が出ない」ことへの注意書きの扱いが小さいとして、業界へ[公正取引委員会](https://ja.wikipedia.org/wiki/公正取引委員会 "wikilink")からの指導も入った。
+
+数Mbpsといった高速での接続は収容局の周辺数kmに限定されることや、古いパソコンや初心者ユーザにとってはオーバースペック（過剰性能）の場合もあり、[2003年](../Page/2003年.md "wikilink")頃から下り1Mbps・上り512kbps程度の低速ながら低価格なサービスも登場した。
+
+### 保安器
+
+ADSLはFTTHと異なり電話線を利用するため、[保安器](https://ja.wikipedia.org/wiki/保安器 "wikilink")がADSLに適合していないと電話やFAXを利用する時に一度回線が切断されてしまう。保安器を新しいものに替えれば問題はない。
+
+### ISDNからADSLへの切り替えに伴う通話サービス低下
+
+日本方式の[ISDN](../Page/ISDN.md "wikilink")（INS64）にはADSLを[重畳](https://ja.wikipedia.org/wiki/重畳 "wikilink")して使用出来ないため、INS64をアナログ[固定電話](https://ja.wikipedia.org/wiki/固定電話 "wikilink")に切り替える必要がある。インターネット回線の速度向上を主眼に切り替えを行なう利用者が多いが、[音声通話](https://ja.wikipedia.org/wiki/音声通話 "wikilink")の面でサービス低下が顕在化する場合が多い。代表例は[i・ナンバー](https://ja.wikipedia.org/wiki/i・ナンバー "wikilink")にて複数番号を利用していた場合でアナログ固定電話へ切り替えた後も回線数を維持する場合は[ダイヤルイン](https://ja.wikipedia.org/wiki/ダイヤルイン "wikilink")を契約する、[IP電話](https://ja.wikipedia.org/wiki/IP電話 "wikilink")を契約するなどの追加費用が必要となる。
+
+アナログ固定電話に比してINS64は提供される[付加サービスが高機能であることや](https://ja.wikipedia.org/wiki/電気通信役務 "wikilink")[漏話](https://ja.wikipedia.org/wiki/漏話 "wikilink")と呼ばれる現象（他の電話線との間で、干渉により通話音声が互いに漏れる）が生じにくいなどの通話品質が高いため、アナログ固定電話への切り替えを避け、タイプ2というADSL専用の回線を引き込む場合もある。
+
+なお、NTTはISDNの廃止時期を[2025年](https://ja.wikipedia.org/wiki/2025年 "wikilink")としている\[21\]。
+
+### 光収容
+
+[光収容](https://ja.wikipedia.org/wiki/光収容 "wikilink")とは[利用場所から収容局へ到るまでの伝送路において](https://ja.wikipedia.org/wiki/通信線路#加入者線路 "wikilink")、電線そのままではなく途中で電話用の[光ケーブル](https://ja.wikipedia.org/wiki/光ケーブル "wikilink")へ変換（収容）されていることを表す用語。対語はメタル収容。ADSLは音声通話帯域よりも高い周波数帯域をデジタル情報伝送に利用する技術であるが、電話用光ケーブルでの音声伝送は、光収容の機器が設計上その高い周波数帯域の伝送に配慮しておらず、光収容（音声多重化）の際には音声通話帯域のみを変換しそれ以外は不要帯域としてカットされてしまう。このため、伝送路の途中や電話局側末端で光収容されている加入者回線はADSL信号を局舎のDSLAMまで透過させることが出来ず、通信が成立しない。ただし、伝送路の途中で光ケーブルに変換される地点にDSLAMを設置することができればADSL通信が可能となる。
+
+光収容加入者は残置されている空きの[ツイストペアケーブル](https://ja.wikipedia.org/wiki/ツイストペアケーブル "wikilink")（メタル回線）があった場合にのみ、加入者負担で収容替え工事を行った後でADSLの工事が可能である。しかしコンテナタイプの簡易局舎などで遠隔多重加入者線伝送装置（RT：Remote Terminal, RSBM：Remote SuBscriber Module）に接続されていたり、[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")などの[集合住宅](https://ja.wikipedia.org/wiki/集合住宅 "wikilink")で[主配線盤](https://ja.wikipedia.org/wiki/主配線盤 "wikilink")に光ケーブルのみが引き込まれているなど切り替えが不可能でADSLが利用できない場合もある。
+
+[2000年代](../Page/2000年代.md "wikilink")に入り幹線部分のメタル[通信線路](https://ja.wikipedia.org/wiki/通信線路 "wikilink")の新設が停止されているため、光収容加入者はさらに増加するものと考えられる。
+
+ただし都市部などでは以前より普及している[CATVのインターネットサービスや](https://ja.wikipedia.org/wiki/ケーブルテレビ "wikilink")、[2004](https://ja.wikipedia.org/wiki/2004年 "wikilink")〜[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")辺りからの光ファイバー回線（[FTTH](https://ja.wikipedia.org/wiki/FTTH "wikilink")/[FTTx](https://ja.wikipedia.org/wiki/FTTx "wikilink")）の本格的展開普及により、[ブロードバンド回線が引けない問題はおおむね解消されつつある](https://ja.wikipedia.org/wiki/ブロードバンドインターネット接続 "wikilink")（しかし集合住宅など、一部には依然としてその問題は残っている）。
+
+### 複雑な利用者契約
+
+アクセスラインのみ提供の電気通信事業者が行う回線サービスである場合（2006年現在、[NTT東西のフレッツのみ](https://ja.wikipedia.org/wiki/NTTグループ "wikilink")）、あくまで加入者と電話局との端末装置同士で高速通信を実現するものである。この為、インターネットへの接続には[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")との契約も必要である。また、プロバイダがADSL接続業も兼ねている契約形態でも加入者回線を使用するために、当然NTTなどの通信回線を保有する電気通信事業者と契約をしている必要がある。従って、計2種類の事業者と契約する必要があることになる。この煩雑さは、通信回線の保有とプロバイダ事業を合わせて行う[CATVには無い部分である](https://ja.wikipedia.org/wiki/ケーブルテレビ "wikilink")。ただしプロバイダ側がISPサービスの申し込みと同時にフレッツの申し込みを代行受付し、料金請求も合算して行っている場合もある（しかし契約はあくまでも2箇所である）。
+
+ユーザー側から見た場合には、この契約の手続きを少しでも簡略化するためと、プロバイダ側のユーザー囲い込みも目的に、プロバイダがADSL接続業も兼ねている契約形態（Yahoo\! BBやTNC「ADSLパワーライン」）やプロバイダが窓口となってADSL契約も一括して行う形態（ADSL提供業者がイー・アクセスやアッカ・ネットワークスの場合。ホールセール（wholesale=[卸売](https://ja.wikipedia.org/wiki/卸売 "wikilink")）とも言う）もあり利用可能な地区の場合には「フレッツ・ADSL」料金+プロバイダ料金より総額料金が安く設定されているが、この場合にはADSL接続で複数のプロバイダを切り替えて利用できない欠点がある。
+
+直収電話に変更した場合には、系列企業のADSLサービスしか利用できないなどの制限がある。
+
+## 日本国内でのサービス提供事業者
+
+サービス提供事業者は、最盛期には数十社にも及んだが、2017年現在、フレッツADSLを利用しているISPと、ソフトバンク系列とその業務提携先とその他数社を除けば、事実上それらの大半はサービスを終了している。シェア的には、フレッツADSLの利用が3割、ソフトバンク系列が約6割で、全体の利用者が減少する中で、業界再編の影響とフレッツADSLの利用者の減少の方が比較的多いことから、ソフトバンク系列の利用者の割合が大きくなっている。既存業者のサービス終了などにより他社との契約でADSLの利用を継続しようとすると、事実上ソフトバンク系列のサービスしか選択肢がなくなってたが、ついに、ソフトバンク系列も2024年3月末までにサービスを順次終了する。
+
+### ADSLアクセスラインのみ提供
+
+  - [NTT東日本](https://ja.wikipedia.org/wiki/東日本電信電話 "wikilink")・[西日本](https://ja.wikipedia.org/wiki/西日本電信電話 "wikilink") - [フレッツ・ADSL](https://ja.wikipedia.org/wiki/フレッツ#フレッツ・ADSL "wikilink")。山村部、離島を除く管轄地区のほぼ全域。ADSL接続サービスのみ提供。プロバイダとは別途契約が必要。NTTは2016年6月末をもって新規受付を終了した\[22\]\[23\]。NTTはFTTH未提供地域での受付を継続したいとしているが、フレッツ・ADSLを利用しているプロバイダ側も同時期に新規受付を終了したところがほとんどなので、事実上全域で新規受付を終了している。同様に、NTTはFTTH未提供地域でのサービスを継続する予定だが、フレッツ・ADSLを利用するプロバイダがその時期にサービスを終了すると予想され2023年1月31日までには事実上全域でサービスが終了する見込み。
+
+### プロバイダがADSL回線事業者の窓口となる一括契約型
+
+アクセスライン（接続サービス）を提供する業者は「ホールセール」（wholesale、卸売）とも言い、ADSL回線事業者が各プロバイダと提携し提携先プロバイダの一括サービスとしてプロバイダを窓口に契約する方式。
+
+  - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")
+      - [イー・アクセス](https://ja.wikipedia.org/wiki/イー・アクセス "wikilink") - 東京、名古屋、大阪周辺および全国主要都市周辺を中心とした地区に限定。2013年1月よりソフトバンクの完全子会社。
+      - [アッカ・ネットワークス](https://ja.wikipedia.org/wiki/アッカ・ネットワークス "wikilink") - 東京、名古屋、大阪周辺および全国主要都市周辺を中心とした地区に限定。後にイー・アクセスに吸収合併。アッカ・ネットワークス系のADSL接続サービスについては、2017年3月31日までに順次サービス終了。
+      - [東北インテリジェント通信](https://ja.wikipedia.org/wiki/東北インテリジェント通信 "wikilink") - 東北地方を中心とした地区に限定。2009年4月、イー・アクセスにADSL事業を譲渡。
+  - [エネルギア・コミュニケーションズ](https://ja.wikipedia.org/wiki/エネルギア・コミュニケーションズ "wikilink") - 中国地方を中心とした地区に限定。2015年3月31日までに順次サービス終了。
+  - [STNet](https://ja.wikipedia.org/wiki/STNet "wikilink") - 四国地方を中心とした地区に限定。2014年5月ごろ終了。
+
+### プロバイダとADSL回線事業を兼ねている形態
+
+  - ソフトバンク
+      - [Yahoo\! BB](https://ja.wikipedia.org/wiki/Yahoo!_BB "wikilink") - 自社でADSL接続サービスとプロバイダサービスを合わせて提供する。一部の山村部、離島（沖縄をのぞく）を除く全国。
+      - [東京めたりっく通信](https://ja.wikipedia.org/wiki/東京めたりっく通信 "wikilink")（現・[ソフトバンクBB](https://ja.wikipedia.org/wiki/ソフトバンクBB "wikilink")） - [1999年](../Page/1999年.md "wikilink")7月、日本で初めて電話線を利用したADSLサービスを提供（東京都内）。その後、ソフトバンクBBへ吸収合併された。
+      - [平成電電](https://ja.wikipedia.org/wiki/平成電電 "wikilink") - 電光石火。自社プロバイダ契約とセット。直収ADSLもある。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に日本テレコム（現・[ソフトバンクテレコム](https://ja.wikipedia.org/wiki/ソフトバンクテレコム "wikilink")）に事業譲渡された。
+      - JDSL - 日本テレコムが[2001年](../Page/2001年.md "wikilink")から東京、名古屋、大阪周辺を対象に自社でADSL接続サービスとプロバイダ（[ODN](https://ja.wikipedia.org/wiki/ODN "wikilink")）サービスを合わせて提供していた。[2002年](../Page/2002年.md "wikilink")に接続サービスはイー・アクセスに移管。
+  - 直収ADSL
+      - Yahoo\! BB おとくラインタイプ - アクセスラインが直収電話のソフトバンクテレコム「おとくライン」となる。050番号のIP電話サービスは利用できない。
+      - [au one net](https://ja.wikipedia.org/wiki/au_one_net "wikilink")（旧・DION）（メタルプラスネットDION ADSL50/10） - アクセスラインが[直収電話](https://ja.wikipedia.org/wiki/直収電話 "wikilink")の[KDDI](../Page/KDDI.md "wikilink")「メタルプラス」となる。050番号のIP電話サービスも利用可能。ただしKDDIはADSLサービスは未実施であり、イー・アクセス（現・[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）の設備を利用している。2015年9月30日サービス終了済み。
+  - 地域ADSL事業者
+      - 北海道
+      - 東北
+      - 関東
+          - [TOKAIコミュニケーションズ](https://ja.wikipedia.org/wiki/TOKAIコミュニケーションズ "wikilink")（@TCOM） - 旧名ビック東海。自社でADSL接続サービスとプロバイダサービスを合わせて提供する（提供は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")限定）。
+      - 信越
+          - JANISネット（株式会社[長野県協同電算](https://ja.wikipedia.org/wiki/長野県協同電算 "wikilink")） - 自社でADSL接続サービスとプロバイダサービスを合わせて提供する（提供は[長野県](../Page/長野県.md "wikilink")限定）。
+      - 東海
+          - [TOKAI](https://ja.wikipedia.org/wiki/TOKAI "wikilink")（TNC「ADSLパワーライン」） - 自社でADSL接続サービスとプロバイダサービスを合わせて提供する（提供は[静岡県](../Page/静岡県.md "wikilink")限定）。
+      - 関西
+          - [関西ブロードバンド](https://ja.wikipedia.org/wiki/関西ブロードバンド "wikilink")（h555.net） - 兵庫情報ハイウェイを利用したADSLサービスを提供する（提供は[兵庫県](../Page/兵庫県.md "wikilink")限定）。
+          - [みさとインターネット](https://ja.wikipedia.org/wiki/みさとインターネット "wikilink") - 美里町ブロードバンド整備事業として、[紀美野町](https://ja.wikipedia.org/wiki/紀美野町 "wikilink")（旧・[美里町](https://ja.wikipedia.org/wiki/美里町_\(和歌山県\) "wikilink")）と[株式会社IMS](https://ja.wikipedia.org/wiki/株式会社IMS "wikilink")が共同でADSLサービスを提供する（提供は美里町限定）。
+      - 中国・四国
+      - 九州・沖縄
+          - [コアラ](https://ja.wikipedia.org/wiki/コアラ_\(企業\) "wikilink")（コアラADSL） - [大分市](https://ja.wikipedia.org/wiki/大分市 "wikilink")および[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")の一部でサービスを提供。大分市では現在新規受付を停止中。自社ADSLの他、NTT西日本地域全域のフレッツ・ADSLにも対応。
+
+## 脚注・出典
+
+## 関連項目
+
+  - [ブロードバンドインターネット接続](https://ja.wikipedia.org/wiki/ブロードバンドインターネット接続 "wikilink")
+  - [情報格差](https://ja.wikipedia.org/wiki/情報格差 "wikilink")
+  - [FTTR](https://ja.wikipedia.org/wiki/FTTx "wikilink")
+  - [通信線路](https://ja.wikipedia.org/wiki/通信線路 "wikilink") - [光収容](https://ja.wikipedia.org/wiki/光収容 "wikilink") - [主配線盤](https://ja.wikipedia.org/wiki/主配線盤 "wikilink") - [端子函](https://ja.wikipedia.org/wiki/端子函 "wikilink") - [保安器](https://ja.wikipedia.org/wiki/保安器 "wikilink") - [ラストワンマイル](https://ja.wikipedia.org/wiki/ラストワンマイル "wikilink")
+  - [ドライカッパ](https://ja.wikipedia.org/wiki/ドライカッパ "wikilink")
+
+## 外部リンク
+
+  - [通信利用動向調査](https://www.soumu.go.jp/johotsusintokei/statistics/index.html)（総務省）
+
+[sv:Digital Subscriber Line\#ADSL](https://ja.wikipedia.org/wiki/sv:Digital_Subscriber_Line#ADSL "wikilink")
+
+[Category:インターネット接続](https://ja.wikipedia.org/wiki/Category:インターネット接続 "wikilink") [Category:有線通信](https://ja.wikipedia.org/wiki/Category:有線通信 "wikilink") [Category:頭字語](https://ja.wikipedia.org/wiki/Category:頭字語 "wikilink")
+
+1.  [「高速メタリックIPアクセスシステム:ADSL」（雑誌「FUJITSU 2000-11月号」）](http://img.jp.fujitsu.com/downloads/jp/jmag/vol51-6/paper13.pdf) 富士通
+2.
+3.  [アメリカ合衆国 通信](http://www.soumu.go.jp/g-ict/country/america/pdf/001.pdf) 総務省
+4.
+5.
+6.  [世界情報通信事情 フランス](http://www.soumu.go.jp/g-ict/country/french/detail.html#internet) 総務省
+7.
+8.  [長野県で国内初の商用ADSLインターネット接続サービス開始](http://internet.watch.impress.co.jp/www/article/1999/0804/adsl.htm)
+9.  [日本の商用ADSL、9月1日で10周年](http://internet.watch.impress.co.jp/docs/special/20090902_312429.html)
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.  お知らせ・報道発表 {{\!}} 企業情報 {{\!}} NTT東日本|url=[https://www.ntt-east.co.jp/info/detail/171017_01.html|website=www.ntt-east.co.jp|accessdate=2019-08-13](https://www.ntt-east.co.jp/info/detail/171017_01.html%7Cwebsite=www.ntt-east.co.jp%7Caccessdate=2019-08-13)}}
+20. [線路情報開示NTT東日本](http://www.ntt-east.co.jp/line-info/index.html)・[線路情報開示NTT西日本](http://www.ntt-west.co.jp/open/senro/senro_user_info.html)
+21.
+22.
+23.

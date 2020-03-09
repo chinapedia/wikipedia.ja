@@ -1,0 +1,63 @@
+> この記事は[DHMO](https://ja.wikipedia.org/wiki/DHMO)から翻訳されています。
+
+
+[200px](https://ja.wikipedia.org/wiki/ファイル:Water_molecule_3D.svg "wikilink") **DHMO**（ディー・エイチ・エム・オー、=**ジヒドロゲンモノオキシド**）とは、化学式 H<sub>2</sub>O で表される[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")と[酸素](../Page/酸素.md "wikilink")の化合物であり、和訳すれば**一酸化二水素**（いっさんかにすいそ）、すなわち**[水](../Page/水.md "wikilink")**そのものである。
+
+これは水であることを敢えて分かりにくくして危険な[化学物質](https://ja.wikipedia.org/wiki/化学物質 "wikilink")であるかのように錯覚させるため、元素の構成に基づく化合物名として表現したものである。科学論文などでこの表現が使われることはまずなく、[心理](https://ja.wikipedia.org/wiki/心理 "wikilink")実験や[ジョーク](https://ja.wikipedia.org/wiki/ジョーク "wikilink")のひとつとして使われる。
+
+## 概要
+
+水を難解な言い方で相手を煙に巻くような表現は昔から存在する。例えば1965年に公開された日米合作映画『[怪獣大戦争](https://ja.wikipedia.org/wiki/怪獣大戦争 "wikilink")』の中には、「酸化水素？なんだ、水のことじゃないか」との台詞がある。
+
+DHMOの名称は、1990年に[カリフォルニア大学サンタクルーズ校](https://ja.wikipedia.org/wiki/カリフォルニア大学サンタクルーズ校 "wikilink")のルームメイトだったエリック・レヒナーとラース・ノーフェン、マシュー・カウフマンらによって考えられた。さらに1994年に同校の学生だったクレイグ・ジャクソンによって改訂され、DHMOについての最初のジョークサイト「`DHMO.org`」が作られた。
+
+その後、1997年にアメリカ合衆国[アイダホ州](https://ja.wikipedia.org/wiki/アイダホ州 "wikilink")の当時14歳の中学生だったネイサン・ゾナーが「人間はいかにだまされやすいか?」\[1\]という調査に用いたことがきっかけで世界中に広まったとされる。この調査では「DHMOは、水酸の一種であり、常温で液体の物質である」「DHMOは、溶媒や冷媒などによく用いられる」などのように、被験者にとって非日常的な科学技術用語を用いて水を解説し、さらに毒性や性質について否定的かつ感情的な言葉で説明を加える。その後、「この物質は法で規制すべきか」と50人に質問をすると、43人が賛成してしまい、6人が回答を留保したのを除き、DHMOが水であることを見抜いたのは1人だけだった。
+
+その後ウェブ上にはDHMOの危険性をもっともらしく訴えるウェブサイトが数多く作成され、2003年にはアメリカの[アリソ・ビエホ市の議会で](https://ja.wikipedia.org/wiki/アリソ・ビエホ_\(カリフォルニア州\) "wikilink")、ウェブサイトのジョークを真に受けた担当者らがDHMO規制の決議を試みるという出来事が起きた。決議自体は、用語がジョークであることが判明したために中止された\[2\]。
+
+2013年にはフロリダ州のラジオ局がエイプリルフールのジョーク企画で水道管に満たされているDHMOの危険性について放送したところ、水道局に問合せが殺到。ラジオ局は謝罪し、番組のDJ二人を謹慎処分とする事態となった\[3\]。
+
+## DHMOの説明の例
+
+DHMOの説明は、視点をかなり限定して水についての性質を並べ立てることで、聞き手に否定的な印象を与えるよう工夫されている。
+
+ジャクソンによって初めてWebに投稿されたジョークの内容は次の通りである\[4\]。（原文は[英語](../Page/英語.md "wikilink")）
+
+他に「吸引すると死亡する」（水死のこと）などの文言\[5\]が付け加えられることもある。これらの説明は全て真実であるが、それが水であることに気づかなければ、そのような危険な物質は規制すべきであると考えてしまいがちである。
+
+## 類似のジョーク
+
+類似のジョークとして「パンは危険な食べ物」というものがある。以下の説明は、パン食が一般的である地域にしか当てはまらないものもあるが、パンについて誤ったことは言っておらず、パンは危険な食べ物という印象を与える。
+
+  - 犯罪者の98%はパンを食べている。
+  - パンを日常的に食べて育った子供の約半数は、テストが平均点以下である。
+  - 暴力的犯罪の90%は、パンを食べてから24時間以内に起きている。
+  - パンは中毒症状を引き起こす。被験者に最初はパンと水を与え、後に水だけを与える実験をすると、2日もしないうちにパンを異常にほしがる。
+  - 新生児にパンを与えると、のどをつまらせて苦しがる。
+  - 18世紀、どの家も各自でパンを焼いていた頃、平均寿命は50歳だった。
+
+## 脚注
+
+<references/>
+
+## 関連項目
+
+  - [水害](https://ja.wikipedia.org/wiki/水害 "wikilink")
+  - [水中毒](https://ja.wikipedia.org/wiki/水中毒 "wikilink") - 水の過剰摂取によって生ずる中毒症状
+  - [風評被害](https://ja.wikipedia.org/wiki/風評被害 "wikilink")
+  - [フードファディズム](https://ja.wikipedia.org/wiki/フードファディズム "wikilink")
+  - [ココナッツによる死](https://ja.wikipedia.org/wiki/ココナッツによる死 "wikilink")
+  - [詭弁\#含みのある言葉 (loaded language)](https://ja.wikipedia.org/wiki/詭弁#含みのある言葉_\(loaded_language\) "wikilink")
+
+## 外部リンク
+
+  - [DHMOに反対しよう](http://www.komazawa-u.ac.jp/~kazov/Nis/etc/DHMO.html)
+  - [オキシダン関連調査の一例](http://tanukiyama.fc2web.com/Oxidane-chousa01.HTM)
+
+[Category:水](https://ja.wikipedia.org/wiki/Category:水 "wikilink") [Category:ジョーク](https://ja.wikipedia.org/wiki/Category:ジョーク "wikilink") [Category:ユーモア](https://ja.wikipedia.org/wiki/Category:ユーモア "wikilink") [Category:情報教育](https://ja.wikipedia.org/wiki/Category:情報教育 "wikilink") [Category:メディア問題](https://ja.wikipedia.org/wiki/Category:メディア問題 "wikilink") [Category:科学啓蒙](https://ja.wikipedia.org/wiki/Category:科学啓蒙 "wikilink") [Category:科学的懐疑主義](https://ja.wikipedia.org/wiki/Category:科学的懐疑主義 "wikilink")
+
+1.
+2.
+3.
+4.  [snopes.com: Dihydrogen Monoxide](http://www.snopes.com/science/dhmo.asp) (英語、1997年収集)
+5.

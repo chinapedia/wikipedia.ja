@@ -1,0 +1,308 @@
+> この記事は[IV](https://ja.wikipedia.org/wiki/IV)から翻訳されています。
+
+
+**IV号戦車**（よんごうせんしゃ、Panzerkampfwagen IV、略称：Pz.Kpfw.IV）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[ナチス・ドイツ](https://ja.wikipedia.org/wiki/ナチス・ドイツ "wikilink")の[中戦車](https://ja.wikipedia.org/wiki/中戦車 "wikilink")（25トン級）である。
+
+## 概要
+
+[ナチスが政権をとる以前から](https://ja.wikipedia.org/wiki/国家社会主義ドイツ労働者党 "wikilink")、[ドイツ国防軍](https://ja.wikipedia.org/wiki/ドイツ国防軍 "wikilink")は[ヴェルサイユ条約](https://ja.wikipedia.org/wiki/ヴェルサイユ条約 "wikilink")下で密かに再軍備を見据えた新型戦車の開発を行っていた。1934年、[NbFz(ノイバウファールツォイク)と呼ばれる](https://ja.wikipedia.org/wiki/NbFz_\(戦車\) "wikilink")[多砲塔戦車](https://ja.wikipedia.org/wiki/多砲塔戦車 "wikilink")の試作車が作られたが、大きく重いことから新たな戦車の開発が求められた。
+
+[装甲部隊](https://ja.wikipedia.org/wiki/装甲部隊 "wikilink")の創設者[ハインツ・グデーリアン](https://ja.wikipedia.org/wiki/ハインツ・グデーリアン "wikilink")により求められた戦車の仕様は二種類で、一つがツークフューラーヴァーゲン（Zugführerwagen; Z.W.=小隊長車）と呼ばれ、37mm砲搭載の15トン級の「主力戦車」として開発された「[III号戦車](https://ja.wikipedia.org/wiki/III号戦車 "wikilink")」、もう一つがベグライトヴァーゲン（Begleitwagen; B.W.=随伴車）と呼ばれ、75mm砲搭載の20トン級の「支援戦車」として開発された「IV号戦車」（当初「7.5cm砲装甲車」という名称であったが、1937年から「IV号戦車」に変更された）である。
+
+IV号は、4社による競作が行われた結果、1936年4月に完成したクルップ社の「B.W.I」を元に、増加試作車的なA型に次いでB・C型が作られ、1939年からD型が本格的に量産された。その後も戦局に対応するため改良が加えられ、最終型は長砲身の75mm砲を搭載したJ型である。
+
+IV号は、ドイツ戦車の中で最も生産数が多く（ただし、[装甲戦闘車両](https://ja.wikipedia.org/wiki/装甲戦闘車両 "wikilink")という大きな括りで見た場合、[III号突撃砲](https://ja.wikipedia.org/wiki/III号突撃砲 "wikilink")が最多生産数となる）、大戦中期ごろには改良が限界に達していたものの、敗戦時まで主力として使用され続け、ドイツ戦車部隊のワークホースとして機能した。また、同時期に開発され、50mm砲の搭載を想定したIII号戦車に比べ、75mm砲の搭載を前提に設計されたこともあり、ターレットリング（回転式砲塔）の直径が大きいため、長砲身の75mm砲に設計変更が可能であり、既存車両でも長砲身に換装することが容易であった。そのため、戦訓による武装強化にも対応し、変化する戦況の中で様々な要求に応じるべく車体部分を流用した多種多様な派生型を生み出した。
+
+[left](https://ja.wikipedia.org/wiki/ファイル:Pz-IVG-latrun-2.jpg "wikilink") 同盟国などにも輸出され、G型以降が[イタリア王国](https://ja.wikipedia.org/wiki/イタリア王国 "wikilink")、[ルーマニア王国](https://ja.wikipedia.org/wiki/ルーマニア王国 "wikilink")、[ハンガリー](https://ja.wikipedia.org/wiki/ハンガリー王国_\(1920年-1946年\) "wikilink")、[ブルガリア](https://ja.wikipedia.org/wiki/ブルガリア王国_\(近代\) "wikilink")、[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/フランコ体制下のスペイン "wikilink")、[トルコ](../Page/トルコ.md "wikilink")の各軍に配備され、戦後も暫く使用されていた。[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")が保有していた中古、及び[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の接収品を購入した[シリア](../Page/シリア.md "wikilink")軍のIV号戦車が、[中東戦争](../Page/中東戦争.md "wikilink")で[イスラエル国防軍](https://ja.wikipedia.org/wiki/イスラエル国防軍 "wikilink")の[センチュリオンと交戦した記録がある](https://ja.wikipedia.org/wiki/センチュリオン_\(戦車\) "wikilink")。
+
+## 設計
+
+### 車体
+
+車体構成は保守的で、[リーフスプリング](https://ja.wikipedia.org/wiki/リーフ式サスペンション "wikilink")・ボギー式懸架装置を採用していた。この方式はIII号戦車のトーションバー式に比べストロークの移動範囲が少ないため地形追従性が低く路外機動性で劣ってはいるものの、確立された技術でもあるため、耐久性や信頼性が確保されており、車体の底に脱出ハッチを設置可能な利点がある。
+
+当初から3人が搭乗するバスケット式の砲塔を搭載。戦車長は砲塔後部に位置し、キューポラ（砲塔上部の司令塔）から周囲を監視しながら指揮に専念出来、装填手以外の全員はタコホーン（喉頭マイク）と[ヘッドセット](https://ja.wikipedia.org/wiki/ヘッドセット "wikilink")を装着し、インターコム（車内通話装置）で騒音の中でも対話可能となっている。また、撃破された際の素早い脱出のため、乗降用ハッチは全員分の数が設置されている。
+
+### 兵装
+
+支援戦車として設計されたこともあり、当初は榴弾火力を重視して、[短砲身24口径75mm砲が搭載され](https://ja.wikipedia.org/wiki/7.5_cm_KwK_37 "wikilink")、戦車部隊の中では火力支援任務に当たっていた。だが、[イギリス軍](https://ja.wikipedia.org/wiki/イギリス軍 "wikilink")の[マチルダII歩兵戦車](https://ja.wikipedia.org/wiki/マチルダII歩兵戦車 "wikilink")など装甲の厚い戦車との対戦で、より強力な火力が必要とされ、1941年2月にヒトラーによって60口径50mm砲の搭載が命じられた。これを受けD型を元に1両が試作されたが、それよりも対戦車能力が付加できる長砲身の75mm砲への設計変更が検討された。当初は40口径で設計されていたものを、車体より前にはみ出ないよう求められたため、34.5口径の新型砲の試作が決定された。
+
+しかし、[独ソ戦](../Page/独ソ戦.md "wikilink")の影響で、34.5口径の新型砲の完成を待てない状況となり、F型の生産途中から[7.5 cm PaK 40をベースに開発された](https://ja.wikipedia.org/wiki/7.5_cm_PaK_40 "wikilink")[7.5 cm KwK 40](https://ja.wikipedia.org/wiki/7.5_cm_KwK_40 "wikilink") L/43（43口径）が搭載された。長砲身の75mm砲となったことにより、対戦車能力は向上し、支援戦車だったIV号戦車はIII号戦車に代わる主力戦車となった。その後、H型（厳密にはG後期型）からL/43より砲身長の長いL/48（48口径）に変更され、更なる火力の強化が図られた。
+
+## 運用
+
+III号戦車が新機軸を採用し、E型で設計が確立するまで、配備が少数になってしまったのに対して、既存の技術で設計されていたIV号は第二次世界大戦の開戦となる[ポーランド侵攻](https://ja.wikipedia.org/wiki/ポーランド侵攻 "wikilink")の段階でまとまった数を配備されており、この関係でポーランド侵攻の時だけはIII号よりIV号の方が配備数が多かった\[1\]。 その後、III号の生産が本格化し始めたため、[フランス侵攻が始まるころにはIII号の数も増えていたが](https://ja.wikipedia.org/wiki/ナチス・ドイツのフランス侵攻 "wikilink")、全体で見れば、当時主力と定められていたIII号は必要量を満たすことが出来ず、支援戦車の地位であったはずのIV号も実質的には主力として扱われている状況であった。
+
+1941年6月、[独ソ戦](../Page/独ソ戦.md "wikilink")が開始され、ドイツ軍はソ連国内への侵攻を開始する。そこで[赤軍](https://ja.wikipedia.org/wiki/赤軍 "wikilink")の[T-34](../Page/T-34.md "wikilink")（30トン級）に対して全てのドイツ対戦車兵器の威力不足が露呈するという事態（いわゆる「T-34ショック」）に遭遇する。そのため、T-34などの戦車に対抗できるよう主砲を短砲身から長砲身に設計変更したG型が登場する（資料によっては最初の長砲身型はF2型とも表記される）。 この型式あたりから、IV号は支援戦車から主力戦車の地位を務めるようになる。[北アフリカ戦線](https://ja.wikipedia.org/wiki/北アフリカ戦線 "wikilink")に送られた長砲身型のIV号は、この戦線に派遣されたドイツ軍のなかではティーガ―Iに次ぐ強力な戦車であり、全体で見れば少数しか配備されていなかったものの、大きな戦果を上げており、連合軍からはマークIVスペシャルとして恐れられた\[2\]。
+
+1943年、性能向上としては最終型とも言えるH型が登場する。同じころ、[V号戦車パンター](https://ja.wikipedia.org/wiki/V号戦車パンター "wikilink")（45トン級）が登場し、生産も開始されて配備も始まっていたが、パンターの生産が伸び悩んだこともあり、敗戦時までIV号が主力の地位を務めている部隊が少なくはなかった。
+
+ドイツ陸軍兵器局は、[T-34-85](https://ja.wikipedia.org/wiki/T-34-85 "wikilink")との算定で、IV号戦車はあらゆる比較項目で圧倒されるという結論に至っていたが\[3\]、全ての生産ラインをパンターに切り替える余裕は無く、グデーリアンの強い反対もあって本車の生産を中止するという選択肢はなかった。ただし、想定される敵戦車でも主力である中戦車のM4シャーマン（30トン級）やT-34であれば撃破することは可能であり、重戦車でなければ、兵器局が言うような一方的に撃破される状況となっていたわけではなかった。
+
+## バリエーション
+
+  - A型
+    プロトタイプであるB.W.I（随伴車両I型）をベースにした先行量産型。当時としては強力な短砲身24口径75mm砲を搭載していたが、ニッケルを含まない圧延装甲板は車体前面が20mm、砲塔前面が16mm、その他が14.5mmと不十分で、小銃・機関銃用の7.92mm弾を防げる程度であった。最後の5両のみB型車体を流用したため、車体前面装甲板が30mmになっており、後にそれ以前の車両にも30mm厚の増加装甲が追加された。
+    エンジンはマイバッハHL108TR(230hp)で最大速度は32.4km/h、車長用キューポラはIII号戦車B型と共通である。慢性的な戦車不足の状況で、[バルバロッサ作戦](https://ja.wikipedia.org/wiki/バルバロッサ作戦 "wikilink")当時にもまだ少数が配備されていた。生産期間は1937年10月から翌年3月まで、シャーシナンバーは80101 - 80135（35両）全て[クルップ](https://ja.wikipedia.org/wiki/クルップ "wikilink")社で生産された。
+  - B型、C型
+    [thumb](https://ja.wikipedia.org/wiki/ファイル:Bundesarchiv_Bild_183-J08365,_Ausbildung,_Überrollen_durch_Panzer.jpg "wikilink")
+    続くB型とC型では砲塔・車体装甲板が前面30mmに強化され、車体前方機銃が無くなり、ピストルポートが設置されている。また、キューポラはIII号戦車C/D型と同じ物に変更、C型の生産31号車からはIII号戦車E型と同じ物になった。両タイプは砲塔側面のクラッペ、主砲外防盾開口部の形、C型の途中からエンジンがHL120TRMに変更されるなど、各部に違いが見られる。生き残った車両は大戦後期になっても二線級部隊に配備されており、編成表ではまとめて「IV号戦車クルツ（短砲身）」と呼称されていた。
+    B型は[ノルマンディー上陸作戦](https://ja.wikipedia.org/wiki/ノルマンディー上陸作戦 "wikilink")当時フランスに配備されていたのが確認できる。これらはIII号戦車ほどではないが、まだ設計の基礎が確立していない時期でもあり、細かい変更が重ねられた。
+    C型は本来、B.Wと同時期に開発されていた、それより若干軽量な15トン級のZ.W（小隊長用車両、後のIII号戦車）との共通型シャーシに変更する予定であったものが、開発の遅れとIV号戦車増産の要求により、B型の改良型となったものであった。
+    シャーシナンバーはB型80201 - 80242（42両）、C型80301 - 80400（134両・6両は架橋戦車に）で、全て[クルップ](https://ja.wikipedia.org/wiki/クルップ "wikilink")社で生産された。
+    {{-}}
+  - D型
+    [thumb仕様のD型](https://ja.wikipedia.org/wiki/ファイル:PzKpfwIVD.Aberdeen.000a0gpe.jpeg "wikilink")\]\]
+    車体前方機銃が復活、側面と後面の装甲厚が15mm→20mmへ強化されているが防御力は不十分で、1940年7月以降から増加装甲が取り付けられるようになった。熱帯用にエンジングリルを改造されたり、残存車両の主砲は全て1942年7月以降に48口径に改修された。
+    対戦車戦闘能力を高めるため5 cm KwK L/60を搭載した1両が1941年の[ヒトラーの](https://ja.wikipedia.org/wiki/アドルフ・ヒトラー "wikilink")[誕生日に披露され](https://ja.wikipedia.org/wiki/4月20日 "wikilink")、8月から80両生産する計画もあったが中止されている。シャーシナンバーは80501 - 80748（戦車型232両の内48両が潜水戦車、30両が熱帯仕様、16両が架橋戦車）で、生産は全てクルップ社。
+    {{-}}
+  - E型
+    D型と比較すると砲塔やハッチなどの形状に細かい変更がなされた。車体前面装甲は50mmに強化され、その他の部位にもD型の後期型と同様に増加装甲が取り付けられたため防御力は向上した。また、キューポラの前に設置されていた横長の換気用ハッチに代わり電動式の換気扇(ベンチレーター)が装備された。
+    1941年3月からは製造段階で砲塔後部の雑具箱（ゲペックカステン）が装備されるようになった。生産終了後の7月には残存車輌の長砲身化、また1943年5月にはシェルツェンの追加が命じられている。
+    シャーシナンバーは80801 - 81006。1940年9月から1941年4月に223両がクルップ社に発注されたが、後に206両に減らされ、内6両は架橋戦車や実験車両として完成した。
+  - F型
+    [thumb](https://ja.wikipedia.org/wiki/ファイル:Bundesarchiv_Bild_146-1979Anh.-001-10,_Panzer_IV,_Ausf._F-1.jpg "wikilink")
+    車体の形状を変更し増加装甲を廃止した代わりに基本装甲が全体的に強化され（前面:50mm、側面:30mm）、重量増加に合わせて履帯幅が400mmに、転輪の厚みがゴム部分で90mmに増加した。砲塔上面前部装甲板の角度も微妙に変化している。生産途中から長砲身の75mm砲が搭載されたF2型に代わったため、短砲身としては最後の型になる。また、長砲身型と識別するため、短砲身型をF1型と表記されることもある。
+    F2型を含むシャーシナンバーは82001 - 82613。1941年4月から1942年2月の間で当初500両が発注されたが、1941年7月からニーベルンゲンヴェルケ（13両）とフォマーク社（64両）が参加して、結局クルップ社での生産数は393両であった。
+
+{{-}}
+
+  - F2型（後にG初期型）
+
+[thumbに展示中のアフリカ軍団仕様のG型](https://ja.wikipedia.org/wiki/ファイル:SdKfz161-1-1.jpg "wikilink")。砲塔左右にクラッペが残る、F2型とも呼ばれた初期型である\]\]
+
+  -
+    1942年3月から175両だけ生産され、IV号戦車として初めて長砲身の75mm KwK 40 L/43を搭載した。ドイツ・アフリカ軍団に配備された僅か9両のF2型は対戦車戦闘に威力を発揮、10月までに送られた37両のG型（[エル・アラメイン戦以降の増援でもG型が更に](https://ja.wikipedia.org/wiki/エル・アラメインの戦い "wikilink")26両追加されたに過ぎない）と併せ、イギリス軍から「マークIVスペシャル」と呼ばれ、ドイツ軍の報告書にも「IV号スペツィアル」と記述されている。
+
+    なお本型式は当初7./B.W-Umbau（支援戦車改造第7シリーズ）と呼ばれ、1942年3 - 5月の間のみF2型と呼称された。その後、生産中の長砲身型をG型に改称、翌月から既に生産済みのF2型も正式にG型に改称され、F2型の呼称は当時印刷された2種のマニュアルに残されるだけとなった。日本でも1990年代末にこの事実が明らかになって以降、F2型をG初期型と呼称することが多くなったが、初めて長砲身を装備した型として有名なことから、あえてF2型と表記されることもある。
+
+    {{-}}
+
+  - G型
+    F2型が改称されたもの。主砲は生産開始から1943年3月までは43口径だったが、同年の4月（いわゆる後期生産型）から、より砲身長の長い75 mm KwK 40 L/48に変更され、更なる火力の強化が図られた。他にも砲塔側面や前面右側のクラッペ（視察口）が廃止されるなど生産途中に何度も改良が加えられている。1942年5月から一部車両で車体前面に30mm増加装甲の溶接を始め、翌年4月から[ボルト留めによる装着に変更し](https://ja.wikipedia.org/wiki/ボルト_\(部品\) "wikilink")、これは、12月から全車に装着されるようになった。5月には右フェンダー上にエアフィルターを設置するなど、最後期型は併行生産されていたH初期型に酷似した外見となった。
+
+    なお「シュルツェン」と呼ばれる[対戦車銃](https://ja.wikipedia.org/wiki/対戦車銃 "wikilink")から側面装甲やハッチを防御する外装式の補助装甲板も1943年4月から標準装備となった。これは後に[成形炸薬弾](https://ja.wikipedia.org/wiki/成形炸薬弾 "wikilink")に対し有効であることも判明した。
+
+    シャーシナンバーは82394 - 84400、（F2型が名称変更されたため、初期の番号が重複）1942年5月から翌年6月までの間にクルップ社で907両、ニーベルンゲンヴェルケで587両、フォマーク社で436両が生産された。
+
+  - H型
+
+[thumbの装備となり](https://ja.wikipedia.org/wiki/ファイル:Pz_IV_turret_zoomed.jpg "wikilink")、現在は博物館に展示されるH型\]\]
+
+  -
+    新型の変速機を搭載（最初のフォマーク社製の30両には間に合わず旧型のまま）、車体前面装甲を1943年6月から80mmの1枚装甲に、砲塔上面装甲を前部16mm、後部25mmに変更した。また、シュルツェンが邪魔で使えなくなった車体側面のクラッペを廃止、10月にはゴムタイヤ付きだった上部支持転輪を全金属製に変更、翌年2月にエアフィルターを廃止などの細かい改良が加えられ続けた。当初は砲塔旋回装置を電動から油圧に変更したBW40型に変更する予定であったが実現していない。
+
+    また、G型と違い、生産初期から主砲は75 mm KwK 40 L/48となっている。
+
+    シャーシナンバーは84401 - 89540、1943年4月から1944年2月までの間に、クルップ社で379両（以降、[IV号突撃砲](https://ja.wikipedia.org/wiki/IV号突撃砲 "wikilink")を生産）、ニーベルンゲンヴェルケで約1,250両、フォマーク社で693両が生産されたが、車台が突撃砲や対空戦車などに流用されているので、シャーシナンバーが生産数と一致しない。
+
+    {{-}}
+
+  - J型
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:PzIV.Saumur.000a5s6s.jpg "wikilink")</ref>\]\]
+
+  -
+    H型からの変更点は生産の簡略化が主で、特に最初期のタイプはH型から砲塔旋回モーターと発電機用補助エンジンを廃止しただけであり、これにより旋回装置はギア比2段切り替えの手動式に変更された。これは、乗員に不評であったとする資料が多いが、車体が傾いた状態での旋回が容易になったり、装填手が別のハンドルで旋回を手伝うことができることもあり、平地ではむしろ旋回速度が向上したとする資料もある。これにより発電機用補助エンジンのマフラーが廃止されているため、車体後部を見ることでH型との識別が可能である。
+    後に、主エンジン用のマフラーも消音効果の無い単純な管2本のタイプに省略されている。1944年7月から車体上面装甲の16mmへの増厚とベンチレーターカバーの大型化、材質が表面硬化処理装甲から均質鋼に変更、シャーシナンバー91949から補助発電機のあった所への200リットル燃料タンクの増設が行われた。しかし、燃料漏れの欠陥がありすぐに廃止、9月より改良された燃料タンクが標準装備となった。
+    同時期に車体のシュルツェンが対HEAT弾防御専用の金網製となった「トーマ・シールド」も生産開始され、翌月には車長キューポラのハッチが横旋回で開くタイプに変り、12月からは上部支持転輪が片側3個に減らされた。後期には車体前面下部に付く牽引具が省略され、車体側面装甲版の前方を延長して穴をあけてシャックルを通すことで代用した。T-34のように履帯の抜けかけたピンを押し戻す脱落防止板のようなものが付く車両もあるが、これは、後部の履帯がよれて、車体側面とピンの頭が擦れて摩耗するのを防止するための物であり、同様の物が突撃砲や自走砲の一部にも見られる。
+    1944年2月から終戦までニーベルンゲンヴェルケにより約2,970両（以前の資料ではH型とされた2-5月の生産分がJ型に訂正されたので、IV号戦車シリーズ中最多となった）、フォマーク社でも約180両（以降、[IV号駆逐戦車](https://ja.wikipedia.org/wiki/IV号駆逐戦車 "wikilink")を生産）が生産された。
+    1950年代半ば、[シリア](../Page/シリア.md "wikilink")がフランス、チェコスロバキアから入手し自国軍機甲兵力に組み入れたIV号戦車はこのJ型である。
+
+{{-}}
+
+## 派生型
+
+  - IV号[潜水戦車](https://ja.wikipedia.org/wiki/水陸両用戦車 "wikilink")
+    Tauchpanzer IV
+    [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")本土上陸作戦・[ゼーレーヴェ用に](https://ja.wikipedia.org/wiki/アシカ作戦 "wikilink")、D型およびE型をベースに1940年に42両（48両とする資料もあり）が改造されて製作された。各ハッチ、銃器、主砲などのマウント部分、砲塔のターレットリング部などに防水シールを施し、エンジンの吸気・排気は逆流防止弁のついたチューブを水面のフロートまで伸ばして行い、水面下15mの海底を5km/hで進むことが出来た。ゼーレーヴェ作戦が中止となり、後に[バルバロッサ作戦](https://ja.wikipedia.org/wiki/バルバロッサ作戦 "wikilink")でのブーク川渡河で実戦投入された。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Bundesarchiv_Bild_101I-155-2112A-38A,_Russland,_Panzer_IV.jpg "wikilink")
+
+  - IV号[指揮戦車](https://ja.wikipedia.org/wiki/指揮戦車 "wikilink")
+    Panzerbefehlswagen IV
+    中隊長以上向けの仕様。修理のため工場に戻された長砲身型に長距離用無線機やアンテナ、各種周辺機器を追加した代わりに砲弾の搭載数が15発減らされている。1944年3月から88両が改造された他、17両が新品のJ型をベースに作られた。
+    {{-}}
+  - IV号観測戦車
+    Panzerbeobachtungswagen IV
+    自走砲部隊の着弾観測を行うIII号観測戦車の後継車。キューポラが突撃砲用の物に代わり、閉めたままのハッチ前端の小ハッチを開けて砲兵鏡（シザースペリスコープ）を突き出し、観測任務を行うことができた。無線機は3基搭載され、砲塔同軸機銃は撤去されている。1944年7月から133両が改造または新造された。
+  - [IV号突撃戦車 ブルムベア](https://ja.wikipedia.org/wiki/ブルムベア "wikilink")
+    Sturmpanzer IV, Brummbär
+    IV号戦車の車体に大型の戦闘室を設け15cm榴弾砲を備え、歩兵部隊への直接火力支援を目的として作られた。
+  - [IV号突撃砲](https://ja.wikipedia.org/wiki/IV号突撃砲 "wikilink")
+    Sturmgeschütz IV
+    III号突撃砲の生産工場であるベルリンのアルケット社が空爆によって破壊されたことから、代用としてIV号戦車の車体にIII号突撃砲の戦闘室を据え付けたもの。
+  - [IV号駆逐戦車](https://ja.wikipedia.org/wiki/IV号駆逐戦車 "wikilink")
+    48口径75mm砲を搭載した[駆逐戦車](https://ja.wikipedia.org/wiki/駆逐戦車 "wikilink")。
+  - [IV号戦車 L70(V) ラング](https://ja.wikipedia.org/wiki/IV号駆逐戦車 "wikilink")
+    IV号駆逐戦車に70口径7.5cm砲を搭載したもの。
+  - [IV号戦車 L70(A)](https://ja.wikipedia.org/wiki/IV号駆逐戦車 "wikilink")
+    IV号戦車J型の車台にIV号戦車/70(V)の物に似た戦闘室を搭載した[駆逐戦車](https://ja.wikipedia.org/wiki/駆逐戦車 "wikilink")。
+  - [ホルニッセ / ナースホルン](https://ja.wikipedia.org/wiki/ナースホルン "wikilink")
+    Hornisse / Nashorn
+    III/IV号自走砲車台（III号戦車とIV号戦車の部品を組み合わせたもの）に8.8cm砲を据え付けた対戦車[自走砲](https://ja.wikipedia.org/wiki/自走砲 "wikilink")。
+  - [フンメル](https://ja.wikipedia.org/wiki/フンメル_\(自走砲\) "wikilink")
+    Hummel
+    III / IV号自走砲車台に15cm砲を据え付けた自走榴弾砲。
+  - [メーベルワーゲン](https://ja.wikipedia.org/wiki/メーベルワーゲン "wikilink")
+    Möbelwagen
+    IV号戦車をベースとし3.7cm対空機関砲 (3.7cm FlaK 43/1）1門を搭載した対空戦車。後継の開発が遅れたため終戦まで主力[対空戦車](https://ja.wikipedia.org/wiki/対空戦車 "wikilink")の地位にあった。
+  - [ヴィルベルヴィント](https://ja.wikipedia.org/wiki/ヴィルベルヴィント "wikilink")
+    Wirbelwind
+    専用の砲塔に[Flakvierling38](https://ja.wikipedia.org/wiki/2cm_Flakvierling38 "wikilink") 2cm対空機関砲を搭載した対空戦車。専用車体で新造されたメーベルワーゲンとは異なり、全車が修理のために戻ってきたIV号戦車から改造された。
+  - [オストヴィント](https://ja.wikipedia.org/wiki/オストヴィント "wikilink")
+    Ostwind
+    ヴィルベルヴィントに似た設計だが、より火力の大きい3.7cm対空機関砲 (3.7cm FlaK 43/1）1門を搭載している。
+  - [クーゲルブリッツ](https://ja.wikipedia.org/wiki/クーゲルブリッツ "wikilink")
+    Kugelblitz
+    機関砲を収容した部分だけが上下する特殊構造（揺動式）の砲塔に強力な3cm [MK 103 機関砲を連装で搭載した対空戦車](https://ja.wikipedia.org/wiki/MK_103_機関砲 "wikilink")。ごく少数の生産に終わった。
+  - 8.8cm高射砲搭載試作対空戦車IV号C型
+    Panzer Selbstfahrlafette IVc
+    [マジノ線](https://ja.wikipedia.org/wiki/マジノ線 "wikilink")攻略に備えて機甲部隊防空用に開発された[8.8 cm FlaK 18/36/37搭載の試作対空戦車](https://ja.wikipedia.org/wiki/8.8_cm_FlaK_18/36/37 "wikilink")。変速機などの駆動系トラブルから開発が遅れ、連合軍の空襲による生産計画見直しにより、運用に適さないと判断され試作3両のみに止まった。
+    2号車は開発中止後に放置され、試験の後スクラップとなった。1号車と3号車はどちらかが第304高射砲大隊に配属され[イタリア戦線に投入された以外は資料消失に消息も含めて不明である](https://ja.wikipedia.org/wiki/イタリア戦線_\(第二次世界大戦\) "wikilink")。
+
+[Karl23.jpg](https://ja.wikipedia.org/wiki/File:Karl23.jpg "fig:Karl23.jpg")
+
+  - [カール自走臼砲](https://ja.wikipedia.org/wiki/カール自走臼砲 "wikilink")砲弾給弾車
+    Munitionsträger fuir Karl-Gerät
+
+    IV号戦車D・E・F型の車台を利用し13両が改造された。砲塔を取り去り4発の60cm砲弾または54cm砲弾を運搬できる装備と、専用のクレーンを設置したものであった。カール自走臼砲1両につき2両のMunitionsträgerが割り当てられ、1両の予備車両があった。
+
+    {{-}}
+
+  - IV号弾薬運搬車
+
+    砲塔を取り外してターレットリング部分を大型のハッチのついた装甲板で塞ぎ、戦闘室内に弾薬ラックを設置した弾薬運搬車。D・F・G型の余剰車輌から改造して製作され、[第653重戦車駆逐大隊](https://ja.wikipedia.org/wiki/第653重戦車駆逐大隊 "wikilink")や[IV号突撃戦車](https://ja.wikipedia.org/wiki/IV号突撃戦車 "wikilink")（[ブルムベア](https://ja.wikipedia.org/wiki/ブルムベア "wikilink")）を装備する第216突撃戦車大隊他で運用された。
+
+  - IV号回収戦車
+
+    1944年10月から12月にかけて21台（資料によっては36台とされている）がF・G型の車体を流用して製作された、砲塔を取り外した車体に組み立て式のクレーンを搭載し、各種回収機材を搭載した[戦車回収車](https://ja.wikipedia.org/wiki/戦車回収車 "wikilink")（[回収戦車](https://ja.wikipedia.org/wiki/回収戦車 "wikilink")）。[ベルゲパンターとは異なり車内に](https://ja.wikipedia.org/wiki/V号戦車パンター#派生型 "wikilink")[ウィンチ](https://ja.wikipedia.org/wiki/ウィンチ "wikilink")は搭載されていない。
+
+    開発・試作段階では、[III号回収戦車と同様に](https://ja.wikipedia.org/wiki/III号戦車#派生型 "wikilink")、大型大重量の車輌の回収作業には移動時には1軸2輪のトレーラーとして牽引する大型の[錨](https://ja.wikipedia.org/wiki/錨 "wikilink")(\[4\]を使用する方式（これを地面に喰い込ませて牽引力を増加させる）としていたが、Sd.Ah.40は量産車には装備されず、実戦での使用例もなかった。
+
+{{-}}
+
+  - IV号架橋戦車
+
+    1940年2月から5月にかけて、クルップ社とマギウス社によって製作された[架橋戦車](https://ja.wikipedia.org/wiki/架橋戦車 "wikilink")。砲塔を外した車体に繰り出し式の展開装置と全長最大9m、最大通過重量28トンの金属製橋梁を搭載している。B型から20両が、C型から4両が製造された。
+
+  - IV号突撃橋戦車
+
+    1940年にC型から4両が製造された[架橋戦車](https://ja.wikipedia.org/wiki/架橋戦車 "wikilink")の一種。IV号架橋戦車と同じく砲塔を外した車体に歩兵用の伸縮式突撃橋を搭載した。突撃橋は最大伸長時には50mまで伸ばすことができ、架橋車輌というよりは“[はしご車](https://ja.wikipedia.org/wiki/日本の消防車#はしご自動車各種 "wikilink")”というべきものである。
+
+## 登場作品
+
+### アニメ
+
+  - 『[ガールズ&パンツァー](https://ja.wikipedia.org/wiki/ガールズ&パンツァー "wikilink")』『[ガールズ&パンツァー 劇場版](https://ja.wikipedia.org/wiki/ガールズ&パンツァー_劇場版 "wikilink")』『ガールズ&パンツァー 最終章』
+    主人公たちのあんこうチームが搭乗。最初はD型だったが、テレビアニメ版にて中盤でF2型仕様に改造され、さらに終盤でH型仕様へと改造される。劇場版および最終章では当初からH型仕様。
+  - 『[終末のイゼッタ](https://ja.wikipedia.org/wiki/終末のイゼッタ "wikilink")』
+    ゲール帝国の[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")としてD型相当の型（[操縦手および](https://ja.wikipedia.org/wiki/運転者 "wikilink")[通信](../Page/通信.md "wikilink")手の搭乗ハッチが両方とも同じ向きの物）が登場する。
+  - 『[マジンガーZ](https://ja.wikipedia.org/wiki/マジンガーZ "wikilink")』
+    オープニングに登場。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の戦車として機械獣に[砲撃](https://ja.wikipedia.org/wiki/砲撃 "wikilink")を行うが返り討ちにされ、更に担ぎ上げられたところをZの光子力ビームで機械獣ごと葬り去られてしまう。
+
+### 漫画
+
+  - 『[ククルカン 史上最大の作戦](https://ja.wikipedia.org/wiki/ククルカン_史上最大の作戦 "wikilink")』
+    敵軍の4型戦車としてGもしくはH型が登場。ノインツェーン側のM1戦車（形状は[M4中戦車](https://ja.wikipedia.org/wiki/M4中戦車 "wikilink")そっくり）に破壊される。
+  - 『[砂漠の獅子](https://ja.wikipedia.org/wiki/砂漠の獅子 "wikilink")-ドイツ軍4号戦車1942』
+    [北アフリカ戦線](https://ja.wikipedia.org/wiki/北アフリカ戦線 "wikilink")のIV号戦車が主役。[短砲身型から改造された各種車両が登場](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")。
+  - 『[パンプキン・シザーズ](https://ja.wikipedia.org/wiki/パンプキン・シザーズ "wikilink")』
+    [ジャガーノート](https://ja.wikipedia.org/wiki/ジャガーノート "wikilink")[部隊](https://ja.wikipedia.org/wiki/部隊 "wikilink")がH型を使用。
+  - 『[宮崎駿の妄想ノート](../Page/宮崎駿の雑想ノート.md "wikilink")』
+    「ハンスの帰還」において主人公一行がJ型を操る。
+
+### ゲーム
+
+  - 『[R.U.S.E.](https://ja.wikipedia.org/wiki/R.U.S.E. "wikilink")』
+    [ドイツの](https://ja.wikipedia.org/wiki/ドイツ国防軍 "wikilink")[中戦車](https://ja.wikipedia.org/wiki/中戦車 "wikilink")として登場。
+
+  - 『[War Thunder](https://ja.wikipedia.org/wiki/War_Thunder "wikilink")』
+    [ドイツ陸軍の中戦車としてC型](https://ja.wikipedia.org/wiki/ドイツ陸軍_\(国防軍\) "wikilink")・E型・F1型・F2型・G型・H型・J型・Pz.Bfw.IVが登場。また、[駆逐戦車](https://ja.wikipedia.org/wiki/駆逐戦車 "wikilink")としてIV号戦車/70(A)・IV号戦車/70(V)が登場。
+
+  - 『[World of Tanks](https://ja.wikipedia.org/wiki/World_of_Tanks "wikilink")』
+    ドイツ中戦車Pz.Kpfw. IV Ausf. A・Pz.Kpfw. IV Ausf. D・Pz.Kpfw. IV Ausf. H・Pz.Kpfw. III/IV（III/IV号車台を具備）が登場。
+
+    シュマールトゥルム（小型[砲塔](https://ja.wikipedia.org/wiki/砲塔 "wikilink")）型・Pz.Kpfw. IV hydrostat.（[油圧](https://ja.wikipedia.org/wiki/油圧 "wikilink")駆動システム搭載型）も登場。
+
+    Pz.Sfl. IVc（装甲自走砲IV号c型、「8.8cm高射砲搭載試作対空戦車IV号C型」参照）
+
+    Pz.Sfl.IVb (装甲自走砲IV号b型)などの派生車両も複数種類登場する。
+
+  - 『[コール オブ デューティシリーズ](https://ja.wikipedia.org/wiki/コール_オブ_デューティシリーズ "wikilink")』
+
+:; 『[CoD](https://ja.wikipedia.org/wiki/コール_オブ_デューティ "wikilink")』
+
+:: ドイツ軍の戦車として[シュルツェンを装着し](https://ja.wikipedia.org/wiki/装甲#鋼鉄製増加装甲板 "wikilink")、[迷彩](https://ja.wikipedia.org/wiki/迷彩 "wikilink")を施された車両が登場する。
+
+:; 『[CoD:UO](https://ja.wikipedia.org/wiki/コール_オブ_デューティ:ユナイテッド_オフェンシブ "wikilink")』
+
+:: マルチプレイでのみ使用可能なドイツ軍戦車として登場する。
+
+:; 『[CoD:FH](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ファイネストアワー "wikilink")』
+
+:: ドイツ軍の戦車として登場する。
+
+:; 『[CoD2:BRO](https://ja.wikipedia.org/wiki/コール_オブ_デューティ2_ビッグ_レッド_ワン "wikilink")』
+
+:; 『[CoD3](https://ja.wikipedia.org/wiki/コール_オブ_デューティ3 "wikilink")』
+
+:: ドイツ軍の戦車として登場する。
+
+:; 『[CoD:WaW](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ワールド・アット・ウォー "wikilink")』
+
+  -
+
+      -
+        ドイツ軍の戦車として砲塔にシュルツェンを装着したH型が登場する。
+
+  - 『[鋼鉄の騎士](https://ja.wikipedia.org/wiki/鋼鉄の騎士 "wikilink")シリーズ』
+    各型が登場する。
+
+  - 『[鋼鉄の虹 パンツァーメルヒェンRPG](https://ja.wikipedia.org/wiki/鋼鉄の虹_パンツァーメルヒェンRPG "wikilink")』『ネットゲーム95 鋼鉄の虹 〜Die Eisenglorie〜』
+    グリューネラント軍の[重戦車](https://ja.wikipedia.org/wiki/重戦車 "wikilink")「マルダー」として登場。
+
+  - 『[コンバットチョロQ](https://ja.wikipedia.org/wiki/コンバットチョロQ "wikilink")』
+    さまざまなIV号戦車を収録。[8.8cm高射砲搭載](https://ja.wikipedia.org/wiki/8.8_cm_FlaK_18/36/37 "wikilink")[試作](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")[対空戦車](https://ja.wikipedia.org/wiki/対空戦車 "wikilink")IV号C型も、[高射砲](https://ja.wikipedia.org/wiki/高射砲 "wikilink")車台として収録している。
+
+  - 『[バトルフィールド1942](https://ja.wikipedia.org/wiki/バトルフィールド1942 "wikilink")』
+
+:; 『[バトルフィールドV](https://ja.wikipedia.org/wiki/バトルフィールドV "wikilink")』
+
+  -
+
+      -
+        ドイツ軍の中戦車として登場する。
+
+  - 『[パンツァーフロント](https://ja.wikipedia.org/wiki/パンツァーフロント "wikilink")』
+    H型が登場。bisではG型も登場する。
+
+      - 『[パンツァーフロント Ausf.B](https://ja.wikipedia.org/wiki/パンツァーフロント#PANZER_FRONT_Ausf.B "wikilink")』
+        D型・E型・F2型が登場。
+
+  - 『[虫けら戦車](https://ja.wikipedia.org/wiki/GUILD_SERIES#虫けら戦車 "wikilink")』
+    H型が登場。
+
+  - 『[SIMPLE1500シリーズ Vol.90 THE 戦車](https://ja.wikipedia.org/wiki/SIMPLEシリーズ "wikilink")』
+    IV号戦車J型が最初から使える戦車として登場。
+
+## 脚注
+
+<references />
+
+## 参考資料
+
+  - 大日本絵画 世界の戦車イラストレイテッド12 IV号中戦車 1936-1945 （ディヴィッド・E・スミス、ジム・ローリエ 著）
+  - 大日本絵画 世界の戦車イラストレイテッド25 IV号中戦車G/H/J型 1942-1945 （ヒラリー・ドイル、トム・イェンツ著）
+  - デルタ出版 グランドパワー'99/5（No.060）、'99/6（No.061）、'02/12（No.103）、他
+
+## 関連項目
+
+  - [中戦車](https://ja.wikipedia.org/wiki/中戦車 "wikilink")
+
+[Category:IV号戦車](https://ja.wikipedia.org/wiki/Category:IV号戦車 "wikilink") [Category:ドイツ国防軍の戦車](https://ja.wikipedia.org/wiki/Category:ドイツ国防軍の戦車 "wikilink") [Category:中戦車](https://ja.wikipedia.org/wiki/Category:中戦車 "wikilink")
+
+1.  ドイツ戦車発達史　P.113-115
+2.
+3.  大日本絵画 世界の戦車イラストレイテッド25 IV号中戦車G/H/J型 1942-1945　P.38
+4.  [Kfz der Wehrmacht＞](http://www.kfzderwehrmacht.de/Homepage_english/Trailers/Special_trailers/Sd__Ah__40/sd__ah__40.html) ※2019年8月3日閲覧

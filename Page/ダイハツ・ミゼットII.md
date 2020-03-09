@@ -1,0 +1,92 @@
+> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+
+
+**ミゼットII**（*Midget II*）は、[1996年](../Page/1996年.md "wikilink")から[2001年](../Page/2001年.md "wikilink")まで[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")から製造・販売されていた軽[貨物自動車](../Page/貨物自動車.md "wikilink")である。
+
+## 概要
+
+[1957年](../Page/1957年.md "wikilink")8月から[1972年](../Page/1972年.md "wikilink")1月まで販売された軽貨物自動車[ミゼットは](https://ja.wikipedia.org/wiki/ダイハツ・ミゼット "wikilink")3輪であるが、ミゼットIIは安全性を考慮して4輪車となっている。
+
+車体の大きさは全長2,790[mm](../Page/ミリメートル.md "wikilink")、全幅1,335mm、全高1,705mmで、当時の[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")の寸法制限である全長3,300mm、全幅1,400mm、全高2,000mmを大幅に下回り**360cc時代の軽自動車**に近く、車内スペースの関係からスペアタイヤを[ボンネットに装着して](https://ja.wikipedia.org/wiki/ボンネット_\(自動車\) "wikilink")、愛嬌のある外観が特徴的である。初代[ミゼットと同様に小口配達に特化して](https://ja.wikipedia.org/wiki/ダイハツ・ミゼット "wikilink")、最小回転半径は3.6mである。
+
+企画当初から少量生産車として企画され、ダイハツ本社池田工場内に新設された専用施設ミゼット工房において手作業で組み立てが行われた。コストの低減を図るため、既存の軽貨物自動車である8代目[ハイゼットS](https://ja.wikipedia.org/wiki/ダイハツ・ハイゼット "wikilink")100型系と多くの部品を共用する。なお、ミゼット工房は後にエキスパートセンターと名称を変更し、[コペンの生産が行われた](https://ja.wikipedia.org/wiki/ダイハツ・コペン "wikilink")。
+
+## 歴史
+
+### 型式 K100P/100C型（1996年-2001年)
+
+  - [1993年](../Page/1993年.md "wikilink") - 第30回[東京モーターショー](https://ja.wikipedia.org/wiki/東京モーターショー "wikilink")に参考出品。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - 第31回東京モーターショーに参考出品。
+  - [1996年](../Page/1996年.md "wikilink")4月 - 発売
+      - キャッチコピーは「**ミゼットを[飼おう](../Page/ペット.md "wikilink")。**」、および「**夢は大きいよ。**」。ちなみに当時オンエアされたテレビCMはミゼットIIが[ライオン](../Page/ライオン.md "wikilink")に襲われたり、[スカンク](https://ja.wikipedia.org/wiki/スカンク "wikilink")に[屁](https://ja.wikipedia.org/wiki/屁 "wikilink")をかけられたりするなどと全体を通しコミカルな内容だった。
+      - トラック型・1人乗り・最大積載量150kg・4速[MT仕様のみが存在](https://ja.wikipedia.org/wiki/マニュアルトランスミッション "wikilink")。
+      - 廉価型のBタイプ、標準型のDタイプ、ドレスアップが施されたRタイプが用意された。
+      - 全長2,790mm（Rタイプは2,865mm）・全幅1,295mm・全高1,650mm。ホイールベースは1,840mm。
+      - エンジンは、全車型とも直列3気筒659cc・ロッカーアーム式[SOHC](../Page/SOHC.md "wikilink")の[EF-CK型](https://ja.wikipedia.org/wiki/ダイハツ・EF型エンジン "wikilink")。燃料供給は[キャブレター](../Page/キャブレター.md "wikilink")を使用し、最高出力31馬力、最大トルク5.1kgmで、[触媒コンバーターは装着されていない](https://ja.wikipedia.org/wiki/三元触媒 "wikilink")。[10・15モード燃費](https://ja.wikipedia.org/wiki/10・15モード燃費 "wikilink")は15.8km/L。
+      - [タイヤ](../Page/タイヤ.md "wikilink")および[ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink")は全車10インチ\[1\]で[ブレーキ](../Page/ブレーキ.md "wikilink")は全車総輪[ドラムブレーキ](https://ja.wikipedia.org/wiki/ドラムブレーキ "wikilink")（前輪・2リーディングドラム、後輪・リーディングトレーリングドラム）を採用\[2\]。
+      - 左側ドアのガラスウィンドウは、非開閉式であった。
+      - 計器類は[速度計](https://ja.wikipedia.org/wiki/速度計 "wikilink")と[燃料計](https://ja.wikipedia.org/wiki/燃料計 "wikilink")のみで[水温計](https://ja.wikipedia.org/wiki/水温計 "wikilink")（または水温表示灯）すら付いていない。なお[速度計](https://ja.wikipedia.org/wiki/速度計 "wikilink")は120[km/h](https://ja.wikipedia.org/wiki/km/h "wikilink")スケールである(一般的な軽自動車は140[km/h](https://ja.wikipedia.org/wiki/km/h "wikilink")スケール)
+
+[Daihatsu_Midget_II_Cargo_001.JPG](https://ja.wikipedia.org/wiki/File:Daihatsu_Midget_II_Cargo_001.JPG "fig:Daihatsu_Midget_II_Cargo_001.JPG")
+
+  - 1996年9月
+      - 車体色の追加がある。
+      - 限定車としてRリミテッドが登場する。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")1月
+      - 箱型の荷室を設けた[バン](https://ja.wikipedia.org/wiki/バン "wikilink")型の「カーゴ」Dタイプ・Rタイプを追加。キャッチコピーは「**ふたりで飼おう。**」、および「**夢がふくらむ。**」。従来からのトラック型は「ピック」として区別される。
+      - 2人乗り・3速[AT仕様車が](../Page/オートマチックトランスミッション.md "wikilink")、カーゴ・ピックのDタイプ・Rタイプに設定された。燃料消費は、10・15モード　15.0km/L。
+      - 3AT・ピックRタイプのAC付車に触媒コンバーターが追加される。
+      - カーゴはピックよりも全長・全幅を40mm、全高を55mm拡大し、全長2,830mm（Rタイプは2,905mm）・全幅1,335mm・全高1,705mm。
+      - 2人乗りの設定が出来たために、ピックの左側ドアのガラスウィンドウも非開閉式から、カーゴ同様の手回し式レギュレーター付きガラスウィンドウに変更された。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月
+      - ピックおよびカーゴのDタイプ・2人乗り・3速AT車を元に、ツートーン塗装が施され、革巻きハンドル・プロテインレザー張りシートなどを装備した[特別仕様車](https://ja.wikipedia.org/wiki/特別仕様車 "wikilink")「アメリカンカスタム」が発売される。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")09月
+      - 特別仕様車だった「カスタム」が通常モデルとして設定され、Rタイプが廃止される。
+      - Dタイプ・カスタムは[エアコンが標準装備となるなどの](../Page/エア・コンディショナー.md "wikilink")、仕様変更も行われた。
+  - [1999年](../Page/1999年.md "wikilink")9月
+      - 1998年10月に施行された、軽自動車規格の改定および衝突安全基準の強化に適合させるために1年遅れでマイナーチェンジを行う。
+      - 車体前面にあったスペアタイヤを運転席背後の荷台（ピック）・荷室（カーゴ）に移動。マイナーチェンジ前にスペアタイヤが設置されていた場所には、ダイハツCIマーク付きのボタンの様な凹型のカバーが装着されている。
+      - 前バンパーを大幅に延長し、衝突吸収構造を採り入れることで安全基準を満たした。
+      - 衝撃吸収ハンドル・運転席シートベルトへのフォースリミッター機構追加、8インチブレーキブースターを全車に採用し、2人乗り・3速AT車には運転席[エアバッグ](https://ja.wikipedia.org/wiki/エアバッグ "wikilink")がオプション設定された。
+      - エンジンおよびギア比の変更（若干のハイギアード化）により燃費を改善。当時は低燃費自動車の優遇税制が適用された。
+      - カスタムの特徴でもあった[ナルディ](https://ja.wikipedia.org/wiki/ナルディ "wikilink")製 革巻きハンドルはウレタン、プロテインレザー張りシートは布張りになった。
+      - 全長は105mm拡大され、ピックで2,895mm、カーゴは2,935mmとなった。
+      - 平成10年アイドリング規制への適合を含む[自動車排出ガス規制](../Page/自動車排出ガス規制.md "wikilink")の強化に伴い、エンジンが[EFIと](https://ja.wikipedia.org/wiki/燃料噴射装置#各自動車メーカーでの呼称 "wikilink")[DLIを採用した](https://ja.wikipedia.org/wiki/ダイレクトイグニッション "wikilink")[EF-SE型に変更された](https://ja.wikipedia.org/wiki/ダイハツ・EF型エンジン "wikilink")。
+      - [10・15モード燃費](https://ja.wikipedia.org/wiki/10・15モード燃費 "wikilink") 20.0km/L（4速MT車）、18.0km/h（3速AT車）。
+  - [2001年](../Page/2001年.md "wikilink")3月
+      - 生産終了。在庫対応分のみの販売となる。
+  - 2001年7月\[3\]
+      - 既存の9代目（S200型系）ハイゼットシリーズに統合される形で販売終了。
+
+## 構造
+
+基本的に1人乗り 4速MT、2人乗り3速AT の設定であるが、[トランスミッション](https://ja.wikipedia.org/wiki/トランスミッション "wikilink")関連部品の改造により、変速レバーのコラムシフト化と助手席追加による2人乗りの4速MT車化、さらには部品追加により4速MTを5速MTにできたりと改造の幅も広い。 これは走行系の部品を7代目（S80型系）および8代目（S100型系）、9代目（S200型系\[4\]）ハイゼットと共用しているために可能な技である。5速MTにすることによって燃料消費が従来の4速MTより向上する可能性もある。
+
+## ミゼットIII
+
+1995年開催の第31回東京モーターショーに、ミゼットIIとともに参考出品された乗用版。前1席+後ろ2席のトライアングルシートポジションと、非対称ドア（右が前席、左が後席のアクセス用）を特徴としていた。こちらは市販に至らなかった。
+
+このシートレイアウトはフットスペースの確保がしやすく、パッセンジャーの視界が広くなる等のメリットがあり、1990年代に[BMW・Z13](http://wikicars.org/en/BMW_Z13)をはじめ盛んに試作検討されたが、量産されたものはなかった。
+
+## 注釈
+
+<references />
+
+## 関連項目
+
+  - [ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")
+  - [セミキャブオーバー](https://ja.wikipedia.org/wiki/セミキャブオーバー "wikilink")
+  - [ダイハツ・ミゼット](https://ja.wikipedia.org/wiki/ダイハツ・ミゼット "wikilink")
+  - [ダイハツ・ハイゼット](https://ja.wikipedia.org/wiki/ダイハツ・ハイゼット "wikilink")（トラック・カーゴ）
+  - [ダイハツ・ハイゼットジャンボ](https://ja.wikipedia.org/wiki/ダイハツ・ハイゼットジャンボ "wikilink")
+  - [ダイハツ・ハイゼットデッキバン](https://ja.wikipedia.org/wiki/ダイハツ・ハイゼットデッキバン "wikilink")
+  - [ダイハツ・ハイゼットキャディー](https://ja.wikipedia.org/wiki/ダイハツ・ハイゼットキャディー "wikilink")
+
+[de:Daihatsu Midget\#Midget II](https://ja.wikipedia.org/wiki/de:Daihatsu_Midget#Midget_II "wikilink") [en:Daihatsu Midget\#Midget II](https://ja.wikipedia.org/wiki/en:Daihatsu_Midget#Midget_II "wikilink") [es:Daihatsu Midget\#Midget II](https://ja.wikipedia.org/wiki/es:Daihatsu_Midget#Midget_II "wikilink")
+
+[Category:ダイハツの車種](https://ja.wikipedia.org/wiki/Category:ダイハツの車種 "wikilink") [Category:軽トラック](https://ja.wikipedia.org/wiki/Category:軽トラック "wikilink") [Category:軽自動車](https://ja.wikipedia.org/wiki/Category:軽自動車 "wikilink")
+
+1.  タイヤは全車**145/95R10 79/77L**のサイズのラジアルタイヤを用いる。
+2.  ちなみに1993年の第30回東京モーターショーに参考出品された[プロトタイプ](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")のミゼットIIでは12インチのタイヤ（135SR12のサイズのラジアルタイヤ）とホイールが、前輪側のブレーキには[ディスクブレーキ](https://ja.wikipedia.org/wiki/ディスクブレーキ "wikilink")がそれぞれ用いられていた。
+3.
+4.  ただしトラックのみ。

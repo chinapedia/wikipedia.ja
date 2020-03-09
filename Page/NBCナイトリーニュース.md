@@ -1,0 +1,70 @@
+> この記事は[NBC](https://ja.wikipedia.org/wiki/NBC)から翻訳されています。
+
+
+『**NBC Nightly News**』（ナイトリー・ニュース）は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")で放送されている[NBCニュース](https://ja.wikipedia.org/wiki/NBCニュース "wikilink")製作の[報道番組](../Page/報道番組.md "wikilink")。放送時間は6:30-7:00pm/（ET/PT）。Podcastで無料配信されている。
+
+## 沿革
+
+番組は1970年に、ジョン・チャンセラーをアンカーに据えて放送開始（一時デビット・ブリンクリーなどが共同アンカーを務めた）。1982年、『[トゥデイ](https://ja.wikipedia.org/wiki/トゥデイ_\(テレビ番組\) "wikilink")』で人気を博した[トム・ブロコウ](https://ja.wikipedia.org/wiki/トム・ブロコウ "wikilink")（Tom Brokaw）が平日の放送を担当する。その後、[ベルリンの壁](../Page/ベルリンの壁.md "wikilink")崩壊のニュースをアメリカメディアでいち早く現地で伝えるなど、スクープや速報性などで評価されるようになった。
+
+1990年代後半からはライバルの報道番組より視聴率で優位に立ち、その状態の中2002年、ブロコウの勇退および後任をそれまで休暇時の代役を務めていた[ブライアン・ウィリアムズ](https://ja.wikipedia.org/wiki/ブライアン・ウィリアムズ_\(ジャーナリスト\) "wikilink")（Brian Williams）とする内容を明らかにした。そして、2004年の大統領選挙報道に一区切りついた12月1日にブロコウの出演は終わり、翌日からウィリ アムズが正式に平日のアンカーとなる。また、週末のアンカーはレスター・ホールトが担当。ブライアン・ウィリアムズが出演できない場合は[アン・カリー](https://ja.wikipedia.org/wiki/アン・カリー "wikilink")と[レスター・ホルト](https://ja.wikipedia.org/wiki/レスター・ホルト "wikilink")、ホワイトハウス担当記者[デビッド・グレゴリー](https://ja.wikipedia.org/wiki/デビッド・グレゴリー "wikilink")が臨時で担当する。
+
+なお、週末版の代理アンカーについては、主に週末のTODAYアンカー、もしくは日曜朝の[ミート・ザ・プレス](https://ja.wikipedia.org/wiki/ミート・ザ・プレス "wikilink")の司会でもあるデビット・グレゴリーが担当する（ごく稀にではあるが、CNBC担当のキャスターが務めることもある）。
+
+2007年3月26日放送分から全米ニュース番組としては初の[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作になった。
+
+2008年11月1日までは、[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")でも放送されていた。
+
+## 番組オープニング
+
+ウィリアムズがヘッドラインを読み上げたあと、「Nightly News begins now」と言ってタイトル画面となる。
+
+テーマ音楽は[ジョン・ウィリアムズ](https://ja.wikipedia.org/wiki/ジョン・ウィリアムズ_\(作曲家\) "wikilink")。曲名は「使命」（The Mission）であり、この曲をアレンジしたものは同ネットワークの看板番組である『[トゥデイ](https://ja.wikipedia.org/wiki/トゥデイ_\(テレビ番組\) "wikilink")』などでも使われている。NBCナイトリーニュースのタイトルコールは、1980年よりNBCのアナウンサー、[ハワード・リング](https://ja.wikipedia.org/wiki/ハワード・リング "wikilink")が担当していた。2005年に彼が定年退職したが、退職直前に録音したタイトルコールの音声を視聴者の要望により2007年12月14日まで使用していた。その後、2007年12月17日放送分よりハリウッド俳優でアカデミー賞を受賞した[マイケル・ダグラス](https://ja.wikipedia.org/wiki/マイケル・ダグラス "wikilink")がタイトルコールのナレーターを担当することになり、話題になった。
+
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では提携関係にある[日本テレビ系列の](../Page/日本テレビ放送網.md "wikilink")[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")と[BS日テレで](../Page/BS日本.md "wikilink")[火曜日](../Page/火曜日.md "wikilink") - [土曜日](../Page/土曜日.md "wikilink")の10:30 - 11:00（録画）に2008年11月1日まで放送されていた（4:3SDでの放送、同時通訳有り）。また、[AFN](../Page/AFN.md "wikilink")の*AFN│prime PACIFIC*でも[火曜日](../Page/火曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink")の12:00から放送。なお、かつて[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の『[TXNニュースワイド11](https://ja.wikipedia.org/wiki/TXNニュースワイド11 "wikilink")』でもオープニングつきで一部が放送されていたことがある。また、日本では週末版は放送されていない（以上、時刻は日本時間）。
+
+ヨーロッパでは[CNBC Europeで平日の放送分が視聴可能](https://ja.wikipedia.org/wiki/CNBC "wikilink")（同時放送）。
+
+## 特派員・レポーター
+
+  - ピーター・アレグサンダー - アメリカ国内担当
+  - ロン・アラン - アメリカ国内担当
+  - ジェーン・アラフ - 中東特派員
+  - ロバート・バゼル - NBCニュースチーフ科学担当記者
+  - トム・ブロコウ - 前アンカー、NBCニュースの特別顧問として不定期出演
+  - ケヴィン・コーク - アメリカ国内担当
+  - トム・コステロ - アメリカ国内担当
+  - リー・コワン - アメリカ国内担当
+  - トム・コステロ - アメリカ国内担当
+  - リチャード・エンゲル - NBCニュース・中東特派員およびベイルート支局長
+  - ボブ・フォウ - アメリカ国内担当
+  - マーティン・フレッチャー - 中東特派員およびイスラエル支局長
+  - ドーン・フラタンジェロ- アメリカ国内担当
+  - デヴィッド・グレゴリー - ホワイトハウス主任担当記者
+  - クリス・ジャンシング - ロサンゼルス特派員
+  - ミッシェル・コスキンスキ - アメリカ国内担当
+  - ジョージ・ルイス - アメリカ国内担当およびロサンゼルス支局長
+  - ジム・ミクラゼフスキ - 国防総省主任担当
+  - アンドレア・ミッチェル - 外交問題主任特派員
+  - ロン・モット - アメリカ国内担当
+  - リサ・マイヤーズ - 上級調査担当
+  - マイケル・オクウ - 西海岸/カリフォルニア担当
+  - ロジャー・オニール - アメリカ国内担当
+  - [ティム・ラサート](https://ja.wikipedia.org/wiki/ティム・ラサート "wikilink") - NBCワシントン支局長兼[ミート・ザ・プレス](https://ja.wikipedia.org/wiki/ミート・ザ・プレス "wikilink")アンカー
+  - マーティン・サヴィッジ - ニューオーリンズ支局長
+  - ジャネット・シャムリアン - アメリカ国内担当
+  - ナンシー・スナイダーマン博士 - NBCニュース主任医学エディター
+  - ドン・テーグ - アメリカ国内担当
+  - ケヴィン・ティブルス - アメリカ国内担当
+  - アン・トムプソン - NBCニュース主任環境報道担当
+  - ピート・ウィリアムス - 最高裁判所長官特派員
+  - ジョン・ヤン - NBCニュース・ホワイトハウス担当
+  - レスター・ホールト - アンカー、ナイトリーニュース土日アンカー、『トゥデイ』週末版アンカー
+
+## 脚注
+
+## 外部リンク
+
+  - [NBC Nightly News with Brian Williams](http://www.msnbc.msn.com/id/3032619/)
+
+[Category:1970年代のテレビ番組](https://ja.wikipedia.org/wiki/Category:1970年代のテレビ番組 "wikilink") [Category:アメリカ合衆国のニュース番組](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のニュース番組 "wikilink") [Category:NBC](https://ja.wikipedia.org/wiki/Category:NBC "wikilink")

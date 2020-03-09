@@ -1,0 +1,115 @@
+> この記事は[XF2Y-1 \(\)](https://ja.wikipedia.org/wiki/XF2Y-1_\(\))から翻訳されています。
+
+
+{{ Infobox 航空機 | 名称=F2Y / YF-7A シーダート | 画像=[File:XF2Y-1_off_San_Diego_1954-55_NAN1-81.jpg|250px](File:XF2Y-1_off_San_Diego_1954-55_NAN1-81.jpg%7C250px) | キャプション=飛行するXF2Y-1 137634号機([1954年](../Page/1954年.md "wikilink")撮影) | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[水上戦闘機](https://ja.wikipedia.org/wiki/水上戦闘機 "wikilink") | 設計者= | 製造者=[コンソリデーテッド・ヴァルティー社](../Page/コンベア.md "wikilink") | 運用者=（予定） | 初飛行年月日=
+\*\*[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[1月14日](../Page/1月14日.md "wikilink")（XF2Y）
+
+  -   - [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[4月9日](../Page/4月9日.md "wikilink")（YF2Y）
+
+| 生産数=5機 | 生産開始年月日=[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink") | 運用開始年月日= | 退役年月日=[1957年](../Page/1957年.md "wikilink")（試験終了） | 運用状況=未就役 | ユニットコスト= }}
+
+**F2Y シーダート**（*Convair F2Y Sea Dart* ）は[コンヴェア社が開発した水上ジェット戦闘機の試験機である](../Page/コンベア.md "wikilink")。緩降下時ではあったが音速を超えることが可能な唯一の水上機であった。
+
+愛称の「**シーダート** (Sea Dart)」とは、海の[ダーツ](../Page/ダーツ.md "wikilink")の意である。海軍による制式名は**XF2Y-1**および**YF2Y-1**であり、XF2Y-1は初期試作機である1号機の呼称である。本機は[1962年](../Page/1962年.md "wikilink")のアメリカ三軍の[制式名称統一の際にも降着装置のテストベッドとして残存していたため](https://ja.wikipedia.org/wiki/軍用機の命名規則_\(アメリカ合衆国\) "wikilink")、計画中止後6年近く経っていたにもかかわらず**YF-7A**の制式名称が与えられ、アメリカ軍戦闘機の制式名称統一後の**F**番号の7番目は、当機となっている。
+
+## 概要
+
+[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")は[水上戦闘機](https://ja.wikipedia.org/wiki/水上戦闘機 "wikilink")をジェット化することを計画した。大戦中より開発されていた各種のジェット艦上戦闘機は一応の成功を収めてはいたが、レシプロ機と比べると離着陸（艦）能力と航続距離が不足していたのは否めない事実であった。そして今後のジェット機の発展を考えるに、機体の大型化・大重量化・高速化は必須の状況であった。それは当然ながらスペースが限られる[航空母艦](../Page/航空母艦.md "wikilink")上での運用の大きな障壁となり、また離着艦能力がさらに悪化する事を意味した。以上から、来たるべき超音速ジェット艦上機（世界初の超音速機、[ベル X-1の音速突破は](https://ja.wikipedia.org/wiki/ベル_X-1 "wikilink")[1947年](../Page/1947年.md "wikilink")のことである）の就役時には、既存の航空母艦での運用は困難になると考えられた。
+
+それを解決するひとつの方法は、航空母艦をより大型化する事であるが、予算、技術的困難が大きいと考えられていたため、第2次大戦後に計画された[超大型空母建造計画の実現が危ぶまれる情勢となった](https://ja.wikipedia.org/wiki/ユナイテッド・ステーツ_\(空母\) "wikilink")。
+
+このような状況において（実際その後も、アメリカ海軍の艦載機は[1950年代](../Page/1950年代.md "wikilink")に入っても[レシプロ](https://ja.wikipedia.org/wiki/レシプロ "wikilink")戦闘機が現役として新規生産・運用が続けられ、レシプロ攻撃機は[1960年代](../Page/1960年代.md "wikilink")まで現役であったほどである）現状を危惧したアメリカ海軍は[1948年](../Page/1948年.md "wikilink")に超音速ジェット水上戦闘機についての研究を開始した。運用に際して[飛行甲板](https://ja.wikipedia.org/wiki/飛行甲板 "wikilink")を必要としないジェット水上機には大きな期待が寄せられていた。
+
+## 開発
+
+[1948年](../Page/1948年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")にアメリカ海軍は国内の航空機メーカー各社に対して「超音速飛行も可能なジェット水上戦闘機」の要求案を提示した。コンベア社は水上機の性能上の欠点である[フロート](https://ja.wikipedia.org/wiki/フロート "wikilink")を使用せず、水上スキーの原理を用いた離着水を行う水上航空機を構想していた。これに基づきコンベア社は要求案に対して社内名称**Model 2-2**という[デルタ翼形状の設計案を提示し](https://ja.wikipedia.org/wiki/翼平面形#デルタ翼 "wikilink")、アメリカ海軍はこれを採用、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")[1月19日](../Page/1月19日.md "wikilink")より**F2Y**として開発計画が開始された。コンベア社及びアメリカ海軍は、デルタ翼機の開発に当たって[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[リピッシュ博士の協力を得ている](https://ja.wikipedia.org/wiki/アレクサンダー・リピッシュ "wikilink")。
+
+[1952年](../Page/1952年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に完成した試作1号機は**XF2Y-1**と名付けられ、同年[12月14日](../Page/12月14日.md "wikilink")より水上滑走テストが行われた。[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[1月14日](../Page/1月14日.md "wikilink")には高速滑走テスト中に機体が浮き上がり、およそ1000フィートに渡って空中を飛行しているが、公式な初飛行とは認定されなかった。当初搭載されていたJ34[ターボジェットエンジン](https://ja.wikipedia.org/wiki/ターボジェットエンジン "wikilink")は[アフターバーナー](../Page/アフターバーナー.md "wikilink")が装備されていないこともあって推力が不足しており、要求された性能を満たすことは到底困難であったため、アフターバーナー付のXJ46試作ターボジェットエンジンに換装された。また、水上滑走時の振動が想定以上に激しかったため、離着水装置部の再設計が行われている。
+
+[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[4月9日](../Page/4月9日.md "wikilink")には正式な離水テストに成功し、初飛行に成功したと認められた。[1954年](../Page/1954年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")にはXJ46の正式量産型であるJ46-WE-2を搭載したXF2Y-1が、緩降下時ではあるが[音速](../Page/音速.md "wikilink")突破に成功した。これは現在に至るまで[水上機](../Page/水上機.md "wikilink")としては唯一のものとなっている。
+
+### 結果
+
+こうして当初の目的である音速を突破すること自体には成功したものの、予定していた水平飛行時[マッハ](https://ja.wikipedia.org/wiki/マッハ "wikilink")1.5の高速性能を発揮するには機体形状が水上機として要求されるものとは両立し得ないこと、水上滑走中の衝撃が設計時の想定以上に大きく改善する方法が見当たらないこと、といった機体開発上の困難に直面した。さらに、水面を高速で滑走するというジェット水上機としての特性上対波性が低く、離着水には穏やかな水面が必要であり、外洋での実戦運用には天候的・海面状況的困難が大きく、既存の艦上機に比べて遥かに運用の制限が大きい、という根本的問題に行き当たり、計画を発案したアメリカ海軍自身によって「超音速ジェット水上戦闘機」という存在自体に疑問が呈される事態となった。
+
+[Convair_XF2Y-1_disintegrates_in_November_1954.jpg](https://ja.wikipedia.org/wiki/File:Convair_XF2Y-1_disintegrates_in_November_1954.jpg "fig:Convair_XF2Y-1_disintegrates_in_November_1954.jpg")
+
+[1954年](../Page/1954年.md "wikilink")[11月4日](../Page/11月4日.md "wikilink")にはXF2Y-1試作1号機がデモフライト中に空中分解を起こし墜落、テストパイロットが死亡するという事故が発生し、計画の再検討（事実上の縮小）が行われた。当初予定10機の生産数はXF2Yも含めた5機に減数され、[プラット・アンド・ホイットニー](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー "wikilink")社製のJ75ターボジェットエンジン（推力 77.8kN）1基を搭載した能力向上型の**F2Y-2**の製造も中止された。
+
+[1955年](../Page/1955年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に完成した**YF2Y-1**と名付けられた試作2号機からは離着水装置のスキー板を2枚から1枚に替えて試験が行われたが、水上滑走時の安定性は逆に悪化した。その後も様々な試験が行われたものの、[スチーム・カタパルトと](../Page/カタパルト.md "wikilink")[アングルド・デッキ](https://ja.wikipedia.org/wiki/アングルド・デッキ "wikilink")の実用化により空母への離着艦が従来より飛躍的に容易になった事と、海軍がジェット機の運用が困難無く可能な[超大型空母の建造に踏み切ったことから水上機の必要性が薄れ](https://ja.wikipedia.org/wiki/フォレスタル級航空母艦 "wikilink")、F2Yの開発は[1956年](../Page/1956年.md "wikilink")に中止された。総数5機の生産機のうち、飛行可能な状態で製作されたのは事故で失われたXF2YとYF2Y-1 2機の計3機のみであるが、YF2Y-1は生産そのものは4機分行われ、飛行可能な状態で製作された2機のYF2Y-1は開発中止後もスキッド（橇）式降着装置の試験に用いられた。
+
+開発当時、YF2Y-1を3機搭載する原子力潜水空母を開発する構想があったが、本機の開発失敗により構想のみで終わった\[1\]。
+
+試験に使用された後は保管機となり、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")現在、3機がアメリカ各地で展示されている。
+
+## 機体
+
+[F2Y_Sea_Dart_2.jpg](https://ja.wikipedia.org/wiki/File:F2Y_Sea_Dart_2.jpg "fig:F2Y_Sea_Dart_2.jpg") 無尾翼[デルタ翼形状の双発](https://ja.wikipedia.org/wiki/翼平面形#デルタ翼 "wikilink")[ジェット機](../Page/ジェット機.md "wikilink")で、主翼の後退角は60度であった。機体下面はV字型の艇体となっており、2基のエンジンの空気取り入れ口は水を吸い込まないように胴体中ほどの上面に設けられていた。また、エンジンに付いた塩分洗浄用に真水タンクを搭載している。
+
+水上機であるが既述のように[フロート](https://ja.wikipedia.org/wiki/フロート "wikilink")を持たず、引き込み式の[水上スキー](https://ja.wikipedia.org/wiki/水上スキー "wikilink")板型離着水装置を使って水上を滑水し離着水を行う。スキー板は開発当初は2枚であったが、後期には1枚のものに変更された。後にこの機構は陸上滑走用の降着装置に換装され、2枚式の[スキッドが装備されている](https://ja.wikipedia.org/wiki/ソリ "wikilink")。降着装置は普段は機体に格納されており、滑走前は機体は水上に浮揚しているが、滑走を開始するとスキー板を展開し徐々に浮上、離水直前の段階では水上スキー装置のみで水上を滑走する。着水時には逆に水上スキー装置を展開した状態で着水、減速後に収納し艇体による浮揚に移行する。離着水装置には油圧式の衝撃緩衝装置が装備されており、着水時の衝撃を吸収する設計となっていた。また、小型の車輪を装備し、自力で水面より陸上へ揚陸することができた。ただし、車輪はあくまで補助装備であり、陸上の滑走路や航空母艦の飛行甲板から離着陸（艦）することは不可能である。
+
+XF2Y及びYF2Yは兵装搭載試験を実施していないために武器及び火器管制装置等の電子機器を装備した機体は存在していないが、量産の際には20mm機関砲4門の搭載が予定されていた。
+
+## 各型
+
+  - XF2Y-1
+    試作型。1機製作。当初はJ34エンジンであったが、後にJ46エンジンに換装。
+  - YF2Y-1
+    第2次試作型。4機製作。J46エンジンを搭載。飛行可能な状態で完成したものは2機のみ。
+  - F2Y
+    量産型。計画のみ。
+      - F2Y-2
+        エンジンをP\&W J75ターボジェットエンジン　1基に変更した能力向上型。計画のみ。
+
+## 諸元
+
+**YF2Y-1**
+
+  - 全長：16m
+  - 全幅：10.3m
+  - 全高：4.9m
+  - 自重：
+      - 空虚重量：5,730 kg
+      - 運用重量：7,480 kg
+      - 最大離陸重量9,750 kg
+  - エンジン：
+      - [ウエスティングハウス](https://ja.wikipedia.org/wiki/ウェスティングハウス・エレクトリック "wikilink") J34-WE-32 [ターボジェットエンジン](https://ja.wikipedia.org/wiki/ターボジェットエンジン "wikilink") (15.11 kN) 2基 (XF2Y-1)
+      - [ウェスティングハウス](https://ja.wikipedia.org/wiki/ウェスティングハウス・エレクトリック "wikilink") J46-WE-02 [ターボジェットエンジン](https://ja.wikipedia.org/wiki/ターボジェットエンジン "wikilink") (26.68 kN) 2基
+  - 最大速度：1,120 km/h
+  - 航続距離：2460 km
+      - 戦闘半径：820 km
+  - 最大運用高度：16,700 m
+  - 上昇率：5,200 m/min
+  - 乗員：1名
+  - 武装：20mm機関砲 4門（予定）
+
+## 現存する機体
+
+  - XF2Y-1 1機、YF2Y-1 4機が製造されたが、そのうち空中分解事故で失われたYF2Y-1 135762号機を除く4機が現存している。
+  - 番号は海軍航空局番号(BuNo.)である。
+
+| 型名     | 番号     | 機体写真                                                                                                                                                                                                                                                                                                                         | 国名             | 所有者                                                                                                                                        | 公開状況 | 状態   | 備考                                                                                                                         |
+| ------ | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---- | ---- | -------------------------------------------------------------------------------------------------------------------------- |
+| XF2Y-1 | 137634 |                                                                                                                                                                                                                                                                                                                              | アメリカ ワシントンD.C. | [国立航空宇宙博物館](https://ja.wikipedia.org/wiki/国立航空宇宙博物館 "wikilink")[1](https://airandspace.si.edu/)                                            | 非公開  | 修復待ち | [2](https://airandspace.si.edu/collection-objects/convair-xf2y-1-sea-dart)[3](https://www.si.edu/object/nasm_A19730275000) |
+| YF2Y-1 | 135763 | [Palisades,_San_Diego,_CA_92101,_USA_-_panoramio_(6).jpg](https://ja.wikipedia.org/wiki/File:Palisades,_San_Diego,_CA_92101,_USA_-_panoramio_\(6\).jpg "fig:Palisades,_San_Diego,_CA_92101,_USA_-_panoramio_(6).jpg")                                                                                                | アメリカ カリフォルニア州  | [サンディエゴ航空宇宙博物館](https://ja.wikipedia.org/wiki/サンディエゴ航空宇宙博物館 "wikilink")[4](http://sandiegoairandspace.org/)                                | 公開   | 静態展示 | [5](http://sandiegoairandspace.org/collection/item/convair-yf2y-1-sea-dart)                                                |
+| YF2Y-1 | 135764 | [写真](https://cdn.jetphotos.com/full/2/97234_1144262272.jpg)                                                                                                                                                                                                                                                                  | アメリカ ペンシルヴェニア州 | [ウィングス・オブ・フリーダム航空博物館](https://ja.wikipedia.org/wiki/:en:Wings_of_Freedom_Aviation_Museum "wikilink")[6](https://wingsoffreedommuseum.org/) | 公開   | 静態展示 | [7](https://wingsoffreedommuseum.org/wp/aircraft/convair-yf-2y-sea-dart/)                                                  |
+| YF2Y-1 | 135765 | [Convair_YF2Y-1_Sea_Dart_135765_LSide_SNF_Setup_FLAirMuse_15March2014_(14563297246).jpg](https://ja.wikipedia.org/wiki/File:Convair_YF2Y-1_Sea_Dart_135765_LSide_SNF_Setup_FLAirMuse_15March2014_\(14563297246\).jpg "fig:Convair_YF2Y-1_Sea_Dart_135765_LSide_SNF_Setup_FLAirMuse_15March2014_(14563297246).jpg") | アメリカ フロリダ州     | [フロリダ航空博物館](https://ja.wikipedia.org/wiki/:en:Florida_Air_Museum "wikilink")[8](https://www.flysnf.org/ace/)                               | 公開   | 静態展示 |                                                                                                                            |
+|        |        |                                                                                                                                                                                                                                                                                                                              |                |                                                                                                                                            |      |      |                                                                                                                            |
+
+## 脚注
+
+<references />
+
+## 関連項目
+
+  - [水上機](../Page/水上機.md "wikilink")
+  - [飛行艇](../Page/飛行艇.md "wikilink")
+
+<!-- end list -->
+
+  - [マーチン P6M](https://ja.wikipedia.org/wiki/P6M_\(航空機\) "wikilink"):[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の大型ジェット飛行艇
+  - [XF10F](https://ja.wikipedia.org/wiki/XF10F_\(航空機\) "wikilink"):[可変後退翼によって空母への離着艦の問題を解決しようとしたが](https://ja.wikipedia.org/wiki/可変翼 "wikilink")、XF2Y-1同様にスチームカタパルトとアングルド・デッキの実用化によってその意義を失い、開発が中止された。
+
+[Category:アメリカ合衆国の戦闘機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の戦闘機 "wikilink") [Category:水上機](https://ja.wikipedia.org/wiki/Category:水上機 "wikilink") [Category:アメリカ合衆国の試作機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の試作機 "wikilink") [Category:コンベアの航空機](https://ja.wikipedia.org/wiki/Category:コンベアの航空機 "wikilink")
+
+1.  『[世界の駄っ作機](https://ja.wikipedia.org/wiki/世界の駄っ作機 "wikilink")』7 著：[岡部ださく](https://ja.wikipedia.org/wiki/岡部ださく "wikilink") p206

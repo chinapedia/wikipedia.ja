@@ -1,0 +1,126 @@
+> この記事は[Y](https://ja.wikipedia.org/wiki/Y)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Human_male_karyotpe_high_resolution_-_Chromosome_Y.png "wikilink")（男性）の染色体構造におけるY染色体\]\] **Y染色体**（ワイせんしょくたい、）は[性染色体](https://ja.wikipedia.org/wiki/性染色体 "wikilink")の一つ。正常な[雄](https://ja.wikipedia.org/wiki/雄 "wikilink")[個体](https://ja.wikipedia.org/wiki/個体 "wikilink")では[X染色体](https://ja.wikipedia.org/wiki/X染色体 "wikilink")と同時に存在し、正常な[雌](https://ja.wikipedia.org/wiki/雌 "wikilink")個体には存在しない性染色体を**Y染色体**という。
+
+X染色体とY染色体が同時に関与する[性決定](https://ja.wikipedia.org/wiki/性決定 "wikilink")様式を、雄がX染色体とY染色体との組を持つ[ヘテロ型であるため](https://ja.wikipedia.org/wiki/ヘテロ接合型 "wikilink")、雄ヘテロ型、さらに限定してXY型と呼ぶ。雄ヘテロ型性決定にはY染色体が関与しないXO型もあり、他に雌ヘテロ型の性染色体・性決定様式（ZW型・ZO型）も存在する。
+
+## 概論
+
+Y染色体は、[ネッティー・マリア・スティーヴンス](https://ja.wikipedia.org/wiki/ネッティー・マリア・スティーヴンス "wikilink")が[ミールワーム](https://ja.wikipedia.org/wiki/ミールワーム "wikilink")（[コメノゴミムシダマシ](https://ja.wikipedia.org/wiki/コメノゴミムシダマシ "wikilink"), *Tenebrio*の幼虫）において発見し、1905年に報告した\[1\]。Y染色体は、定義上、[植物](../Page/植物.md "wikilink")を含むXY型性決定をする全ての生物に存在する。また、[カモノハシ](https://ja.wikipedia.org/wiki/カモノハシ "wikilink")のように一組となって行動する複数のY染色体を持つ生物も存在する\[2\]。
+
+[哺乳類](https://ja.wikipedia.org/wiki/哺乳類 "wikilink")および[被子植物](../Page/被子植物.md "wikilink")[ヒロハノマンテマでは](https://ja.wikipedia.org/wiki/マツヨイセンノウ "wikilink")、Y染色体上にある雄性化因子（哺乳類では*[SRY](https://ja.wikipedia.org/wiki/SRY "wikilink")*[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")）によって、Y染色体を持つ個体は雄へと分化する。しかしながら、Y染色体の存在がすなわち雄性への分化を意味するとは限らない。[ショウジョウバエ](../Page/ショウジョウバエ.md "wikilink")および[スイバ](https://ja.wikipedia.org/wiki/スイバ "wikilink")もXY型性決定を行うが、これらの種ではY染色体は性決定に関与せず、X染色体の数と常染色体のセット比率(X/A)が 0.5以下で雄、1.0以上で雌へと分化する\[3\]\[4\]。
+
+Y染色体とX染色体は、一対の祖先型[常染色体](https://ja.wikipedia.org/wiki/常染色体 "wikilink")に性決定に関する遺伝子が成立したことによって、異なる性染色体に分化したと考えられている\[5\]\[6\]\[7\]。X染色体は、雌においては[ホモ型となり](https://ja.wikipedia.org/wiki/ホモ接合型 "wikilink")、相同染色体の間での[組換え](https://ja.wikipedia.org/wiki/遺伝的組換え "wikilink")\[8\]を起こすことができるため、[突然変異](https://ja.wikipedia.org/wiki/突然変異 "wikilink")などの影響を比較的に受けにくく、遺伝情報を維持しやすい。これに対して、Y染色体は正常な個体では雄に1本単独で存在するため、突然変異などで遺伝情報を失い、形態的にも小型化する傾向がある\[9\]\[10\]\[11\]。しかしながら、その小型化については生物種によって差があり、植物ではX染色体よりも大きなY染色体も観察されている（[写真例](http://www.nature.com/hdy/journal/v102/n6/fig_tab/hdy200936f1.html#figure-title)\[12\]）。哺乳類の[ネズミ](https://ja.wikipedia.org/wiki/ネズミ "wikilink")の一部には、Y染色体の遺伝情報消失の極端な形としてY染色体自体を失ってしまった種も存在する。このような種はSRYも同時に失われているが、雌雄の性別は保たれており、Y染色体とSRYに依存しない新たな性別の決定方法が生じているものと考えられている\[13\]\[14\]。
+
+哺乳類のY染色体とX染色体にある相同性が残されている領域は、擬似常染色体領域(PAR, pseudoautosomal region)と呼ばれており、この領域でのX染色体とY染色体の組換えも起きることが知られている。PAR以外のY染色体部分は、MSY (male specific region of Y chromosome) と呼ばれる[反復配列](https://ja.wikipedia.org/wiki/反復配列 "wikilink")を多く含む領域である。
+
+## ヒトのY染色体
+
+[thumbのY染色体模式図](https://ja.wikipedia.org/wiki/ファイル:Chromosome_Y.svg "wikilink")
+上部が短腕、くびれが[セントロメア](https://ja.wikipedia.org/wiki/セントロメア "wikilink")、下部が長腕である。上端からYp11.31までが擬似常染色体領域PAR1、その下の黒い部分(Yp11.2)からYq12までがMSY(male specific regions of Y chromosome)である。最下端のPAR2は縮尺上表示できないほど小さいので省略してある。Yq12がキナクリン染色領域である。\]\]
+
+以下に[ヒト](https://ja.wikipedia.org/wiki/ヒト "wikilink")のY染色体について述べるが、他の生物では該当しない事項が多数あることに留意が必要である。
+
+### 構成
+
+**ヒトのY染色体**はおよそ5,100万[塩基対](https://ja.wikipedia.org/wiki/塩基対 "wikilink")であり\[15\]、MSY内部の反復配列の影響で塩基構成が[チミン](../Page/チミン.md "wikilink")・[アデニン](../Page/アデニン.md "wikilink")を多く含むように偏っている(AT rich)。長腕部分には、"TTCCA" 5塩基の反復が続き[蛍光](https://ja.wikipedia.org/wiki/蛍光 "wikilink")[色素](https://ja.wikipedia.org/wiki/色素 "wikilink")キナクリンでよく染色される領域「キナクリン染色領域」がある（右図Yq12部分）。この境域には有効な遺伝子が存在しないと考えられるため、遺伝子不毛地帯と呼ぶものもいる\[16\]。
+
+この領域は[ヘテロクロマチン](https://ja.wikipedia.org/wiki/ヘテロクロマチン "wikilink")構造をとり、[細胞分裂](../Page/細胞分裂.md "wikilink")の[間期でも観察可能である](https://ja.wikipedia.org/wiki/間期_\(細胞分裂\) "wikilink")。この構造物を、X染色体のヘテロクロマチン構造である「Xクロマチン」（=[バー小体](https://ja.wikipedia.org/wiki/X染色体の不活性化 "wikilink")）と対比して、Yクロマチンと呼ぶ。Yクロマチンは、ヒトおよび[ゴリラ](https://ja.wikipedia.org/wiki/ゴリラ "wikilink")に特異的であり、比較的近縁な[チンパンジー](../Page/チンパンジー.md "wikilink")や[オランウータン](../Page/オランウータン.md "wikilink")でも観察されない\[17\]。
+
+擬似常染色体領域(PAR)はX染色体・Y染色体の両端に2か所あり、短腕端のものをPAR1（270万塩基対）、長腕端のものをPAR2（33万塩基対）と呼んでいる\[18\]。二つのPARには少なくとも29個の[遺伝子座](https://ja.wikipedia.org/wiki/遺伝子座 "wikilink")が存在している\[19\]。MSYはY染色体の約94%（約4,800万塩基対）を占める（右図）。
+
+ヒト性染色体上の遺伝子数については資料によって異なることがあるが、Y染色体上の遺伝子数は78、X染色体上の遺伝子数は1,098とする報告がある\[20\]。ヒトY染色体はX染色体に比べて遺伝子の密度が極端に低い\[21\]。
+
+### 遺伝的組換え
+
+男性では、PARを除いて、X染色体とY染色体相互間の[遺伝的組換え](https://ja.wikipedia.org/wiki/遺伝的組換え "wikilink")が起こりにくい。しかしながら、Y染色体は[回文](https://ja.wikipedia.org/wiki/回文 "wikilink")配列（パリンドローム構造）を内部に多く含むため、同一染色体内部で高い頻度の組換えを起こすことが可能である。
+
+Y染色体短腕末端部のPAR1の近傍には、性決定遺伝子*[SRY](https://ja.wikipedia.org/wiki/SRY "wikilink")* (sex-determining region Y)\[22\]が存在している\[23\]。X染色体との[不等乗換えによって](https://ja.wikipedia.org/wiki/乗換え_\(生物学\)#不等乗換え "wikilink")、*SRY*がX染色体上に[転座することが稀にある](https://ja.wikipedia.org/wiki/突然変異#染色体突然変異 "wikilink")。このとき、*SRY*を含むX染色体と*SRY*を含まないY染色体ができる。これら異常を含む性染色体を持つ[精子](../Page/精子.md "wikilink")によって[受精](https://ja.wikipedia.org/wiki/受精 "wikilink")が行われると、*SRY*遺伝子を持つXXの男性、*SRY*遺伝子を持たないXYの女性が誕生する。彼らは*SRY*の有無以外の突然変異を併せ持たない場合、外見上は正常な男性・女性となるが[配偶子](https://ja.wikipedia.org/wiki/配偶子 "wikilink")は生殖能力を欠く\[24\]。
+
+### *SRY*遺伝子
+
+[哺乳類](https://ja.wikipedia.org/wiki/哺乳類 "wikilink")[獣亜綱](https://ja.wikipedia.org/wiki/獣亜綱 "wikilink")動物は、一般にY染色体上の*SRY*\[25\]よって性別が決定される\[26\]。*SRY*は、未分化の[生殖腺](https://ja.wikipedia.org/wiki/生殖腺 "wikilink")を[精巣](../Page/精巣.md "wikilink")に分化させる遺伝子であり、その後の性分化は精巣から分泌される男性ホルモン[アンドロゲン](https://ja.wikipedia.org/wiki/アンドロゲン "wikilink")によって支配される。*SRY*が発現しないとき未分化の生殖腺は[卵巣](https://ja.wikipedia.org/wiki/卵巣 "wikilink")に分化し、その後、他の器官も女性として分化する。これは哺乳類特有の機構であり、他の脊椎動物では*SRY*に相当する遺伝子は発見されていない\[27\]。性決定遺伝子*DM-W*が雌への性決定をするアフリカツメガエルの例も知られている\[28\]。
+
+*SRY*はHMGボックスと呼ばれる[DNA結合](../Page/デオキシリボ核酸.md "wikilink")[ドメインを持っており](https://ja.wikipedia.org/wiki/タンパク質ドメイン "wikilink")、DNAに結合することで、精巣誘導を制御していると考えられている\[29\]。
+
+### 伴性遺伝
+
+PAR以外のX染色体の遺伝子は、女性では対立遺伝子2種類が存在するのに対して、男性では1本のX染色体上の1種類しか存在しない。したがって、男性の場合、それらのX染色体の遺伝子によって支配される形質は劣性形質であっても表現型となって現れる。一方、一般にY染色体のMSY上に存在する遺伝子は男性のみで発現することになり、このような遺伝を限性遺伝という。限性遺伝する遺伝子は、*SRY*以外に精子形成に関わる*DAZ*遺伝子などがある\[30\]。
+
+PAR1に存在する低身長[ホメオボックス](../Page/ホメオボックス.md "wikilink")遺伝子(*SHOX*, short status homeobox containing gene)\[31\]は、通常は男性(XY)・女性(XX)どちらでも2コピーが発現している。X染色体が1本しかない[ターナー症候群](https://ja.wikipedia.org/wiki/ターナー症候群 "wikilink")女性(XO)では、*SHOX*の不足による低身長症がおきることがある。一方、MSYであるY染色体長腕の[セントロメア](https://ja.wikipedia.org/wiki/セントロメア "wikilink")付近には「Y成長遺伝子」と呼ばれる遺伝子がある。この遺伝子はY染色体限性遺伝であるため、男女の身長差の一因となっていると考えられている。前述の染色体異常（転座）による*SRY*遺伝子欠失XY型女性は、このY成長遺伝子を持つため、XX型女性より平均9cmほど身長が高くなる\[32\]。
+
+### Y染色体の消失
+
+Y染色体が男性のみに1本単独で存在するため、突然変異などで遺伝情報を失い、形態的にも小型化する傾向にあるのはヒトも例外ではないが、Y染色体自体を失っても雌雄の性別が保たれている種も存在しており、Y染色体の消失が即ち性別や種の存続に関わるかは別の問題である。現在、Y染色体の遺伝情報を修復するために[サイトカイニン](https://ja.wikipedia.org/wiki/サイトカイニン "wikilink")水溶液などの薬物を精子に添加する（種無し植物の要領）など、方法がいくつか検討されているが、「失敗した時のリスクが大きすぎる。」という意見と、「人類の存続には犠牲はやむを得ない。」という意見とが対立している状況にある。
+
+### Y染色体ハプログループ
+
+父系で[遺伝](../Page/遺伝.md "wikilink")するY染色体の[ハプログループ](https://ja.wikipedia.org/wiki/ハプログループ "wikilink")（＝[ハプロタイプ](https://ja.wikipedia.org/wiki/ハプロタイプ "wikilink")の[集団](https://ja.wikipedia.org/wiki/集団 "wikilink")）を[Y染色体ハプログループ](https://ja.wikipedia.org/wiki/Y染色体ハプログループ "wikilink")という。Y染色体ハプログループを人類全体について調べることで、世界各地の民族の由来を調べることができる。
+
+### Y染色体過剰症群
+
+[XYY症候群](https://ja.wikipedia.org/wiki/XYY症候群 "wikilink")、などが知られている。XYY症候群では通常の男性となんら変わりのない表現系を示し顕著な障害は発見されていないが、XXYY症候群の男性は[クラインフェルター症候群](https://ja.wikipedia.org/wiki/クラインフェルター症候群 "wikilink")様の症状を示す。
+
+[フィクション](../Page/フィクション.md "wikilink")で描かれた映画[エイリアン3](https://ja.wikipedia.org/wiki/エイリアン3 "wikilink")では、冒頭に「Y染色体を過剰にもつ人間を集めた囚人星」という設定がある。Y染色体を過剰にもつ人間は通常の男性より破壊や闘争の本能が強いというのは1960年代に間違って流布された説で、現在は否定されている。
+
+## 脚注
+
+## 参考文献
+
+  - 小野知夫「高等植物の性決定と分化」（駒井卓、[木原均](https://ja.wikipedia.org/wiki/木原均 "wikilink")編『最近の生物学』第4巻）培風館、30-47ページ、1951年。
+  - 黒岩麻里「Y染色体を失った哺乳類，トゲネズミ」『生物の科学 遺伝』[2009年1月号](http://www.nts-book.co.jp/item/detail/summary/bio/20051225_42bk.html)、特集I「性決定の遺伝学」、15-19ページ、2009年、TNS。
+  - 東京農工大学農学部[蚕学研究室](http://www.tuat.ac.jp/~kaiko/)『[昆虫の性染色体](http://www.tuat.ac.jp/~kaiko/Adv.I.G.D/08.10.20.sex%20chromosome.pdf)』『[性決定](http://www.tuat.ac.jp/~kaiko/Adv.I.G.D/08.10.22.sex%20det.pdf)』（昆虫以外の多様な動物の性決定についても詳しい）。
+  - 西田千鶴子「鳥類の性染色体進化」『生物の科学 遺伝』2009年1月号、20-25ページ、2009年、TNS。
+  - [福岡伸一](https://ja.wikipedia.org/wiki/福岡伸一 "wikilink")「できそこないの男たち」[光文社新書](https://ja.wikipedia.org/wiki/光文社新書 "wikilink") 371、ISBN 978-4334034740、2008年。
+  - デイヴィッド・ベインブリッジ『X染色体：男と女を決めるもの』長野敬、小野木明恵(翻訳)、青土社 、2004年、ISBN 978-4791761524。
+  - 諸橋憲一郎ほか「性を決めるカラクリ『X・Y染色体』」『[Newton](https://ja.wikipedia.org/wiki/ニュートン_\(雑誌\) "wikilink")』2006年2月号、34-43, 56-83, 90-112ページ、2006年、ニュートンプレス。
+  - 八杉竜一ほか編『岩波生物学辞典（第4版）』 岩波書店、1996年、ISBN 4-00-080087-6。
+
+## 関連項目
+
+  - [性染色体](https://ja.wikipedia.org/wiki/性染色体 "wikilink") / [X染色体](https://ja.wikipedia.org/wiki/X染色体 "wikilink")
+  - [性決定](https://ja.wikipedia.org/wiki/性決定 "wikilink")
+  - [ハプロタイプ](https://ja.wikipedia.org/wiki/ハプロタイプ "wikilink")
+  - [Y染色体ハプログループ](https://ja.wikipedia.org/wiki/Y染色体ハプログループ "wikilink")
+  - [Y染色体ハプログループの分布 (東アジア)](https://ja.wikipedia.org/wiki/Y染色体ハプログループの分布_\(東アジア\) "wikilink")
+  - [サイアーライン](https://ja.wikipedia.org/wiki/サイアーライン "wikilink")、[ファミリーライン](https://ja.wikipedia.org/wiki/ファミリーライン "wikilink")
+
+## 外部リンク
+
+  - バイオポータルサイト [Jabion](http://www.bioportal.jp/index.html) - コラム「[ヒトとチンパンジーで差の大きいＹ染色体、詳細に解析される！](http://www.bioportal.jp/columns/34/)」
+
+[Category:遺伝学](https://ja.wikipedia.org/wiki/Category:遺伝学 "wikilink") [Category:染色体](https://ja.wikipedia.org/wiki/Category:染色体 "wikilink") [Category:性決定システム](https://ja.wikipedia.org/wiki/Category:性決定システム "wikilink") [Category:生物学における性差](https://ja.wikipedia.org/wiki/Category:生物学における性差 "wikilink") [Category:男性病学](https://ja.wikipedia.org/wiki/Category:男性病学 "wikilink")
+
+1.
+2.
+3.  東京農工大学農学部蚕学研究室『性決定』
+4.  小野知夫「高等植物の性決定と分化」（『最近の生物学』第4巻）
+5.
+6.
+7.  諸橋憲一郎ほか（2006年）「性を決めるカラクリ『X・Y染色体』」『Newton』2006年2月号、106ページには**「Y染色体はX染色体から進化した」**との見出しがあるが不正確である。性染色体としてX染色体のみ持つ生物は、全個体がXX個体またはXO個体となるが、XO型生物からXY型生物が進化したとする報告はない。64-66ページの説明文は常染色体からの性染色体の進化が起こったことを説明する文章となっている。当該106ページの説明も研究者の談話はX染色体からY染色体ができたとは述べておらず、編集者による地の文章で不正確な記述となっている。
+8.  （遺伝的）組換え - [遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の組合せが入れ替わること。同じ現象を[染色体](../Page/染色体.md "wikilink")の間の可視現象として捉えると染色体の[乗換え](https://ja.wikipedia.org/wiki/乗換え_\(生物学\) "wikilink")（染色体交差）となる。
+9.
+10.
+11. デイヴィッド・ベインブリッジ『X染色体：男と女を決めるもの』83-92ページ。
+12.
+13. 黒岩麻里「Y染色体を失った哺乳類，トゲネズミ」『生物の科学 遺伝』2009年1月号
+14. 『X染色体：男と女を決めるもの』80-83ページ。
+15. 「性を決めるカラクリ『X・Y染色体』」『Newton』、34-35ページ。
+16. 「性を決めるカラクリ『X・Y染色体』」『Newton』、59ページ。
+17. 八杉竜一ほか編「Yクロマチン」『岩波生物学辞典（第4版）』1516ページ
+18. 「性を決めるカラクリ『X・Y染色体』」『Newton』、58-61ページ。
+19.
+20. 「性を決めるカラクリ『X・Y染色体』」『Newton』、35,58-61ページ。
+21.
+22.
+23. 「性を決めるカラクリ『X・Y染色体』」『Newton』、39ページ。
+24. 「性を決めるカラクリ『X・Y染色体』」『Newton』、82-83ページ。
+25.
+26. Y染色体と共に*SRY*を失ったトゲネズミも存在する（黒岩麻里「Y染色体を失った哺乳類，トゲネズミ」『生物の科学 遺伝』）。
+27. 西田千鶴子「鳥類の性染色体進化」『生物の科学 遺伝』2009年1月号
+28.
+29.
+30.
+31.
+32. 「性を決めるカラクリ『X・Y染色体』」『Newton』、42-43ページ。

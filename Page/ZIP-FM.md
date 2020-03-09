@@ -1,0 +1,730 @@
+> この記事は[ZIP-FM](https://ja.wikipedia.org/wiki/ZIP-FM)から翻訳されています。
+
+
+**株式会社ZIP-FM**（ジップエフエム、*ZIP-FM Inc.*）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")を[放送対象地域](https://ja.wikipedia.org/wiki/放送対象地域 "wikilink")として[超短波放送](https://ja.wikipedia.org/wiki/超短波放送 "wikilink")（FM放送）をする[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。旧社名は株式会社**エフエム名古屋**（エフエムなごや）。[コールサインはJOQV](https://ja.wikipedia.org/wiki/識別信号 "wikilink")-FM。[JAPAN FM LEAGUE](https://ja.wikipedia.org/wiki/JAPAN_FM_LEAGUE "wikilink")(JFL)加盟局。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Higashiyama_Tower_110125.jpg "wikilink")
+
+## 概要
+
+1993年10月に開局した愛知県で2番目の県域FM局。開局に際して、[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")で編成を担当し、東京の[J-WAVE](../Page/J-WAVE.md "wikilink")、京都の[エフエム京都](https://ja.wikipedia.org/wiki/エフエム京都 "wikilink")（α-STATION）の開局を手がけた常行邦夫を編成部長としてヘッドハントする。さらに、その下に神戸の旧[Kiss FM KOBE](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")、[静岡エフエム放送](https://ja.wikipedia.org/wiki/静岡エフエム放送 "wikilink")、α-STATION、[東海ラジオ放送](https://ja.wikipedia.org/wiki/東海ラジオ放送 "wikilink")などのスタッフ、[世界デザイン博覧会](https://ja.wikipedia.org/wiki/世界デザイン博覧会 "wikilink")の臨時FM局[FM DEPOに携わったスタッフなどがプロデューサーとして参加した](https://ja.wikipedia.org/wiki/FM_DEPO "wikilink")。
+
+局名である「ZIP」は「Zippy & Intelligent Power」の頭文字や、元気、快活といった意味、矢や弾丸が飛ぶ音を表すことからつけられた\[1\]。
+
+当初は[AOR](../Page/AOR.md "wikilink")や[コンテンポラリー](https://ja.wikipedia.org/wiki/コンテンポラリー "wikilink")を中心にオンエアーし、トーク・インフォメーションは極力減らす「モア・ミュージック〜レス・トーク」をコンセプトとしていた。
+
+また、FM局としては類を見ない数のコンピレーションCDを開局当初から発売しており、その中でも人気コンピレーションシリーズ、『[Dancemania](https://ja.wikipedia.org/wiki/Dancemania "wikilink")』とタッグを組んで発売した『ZIP mania』シリーズ（発売元は[東芝EMI](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）はFM局のコンピレーションCDとしては異例ともいえる30万枚のセールスを記録。
+
+聴取エリア外での販売も好調で『ダンスミュージックに強いZIP-FM』の名を売り込むことに成功した。このヒットと時期を同じくして選曲は[ダンスミュージック](https://ja.wikipedia.org/wiki/ダンスミュージック "wikilink")や[ポップス中心へシフト](../Page/ポピュラー音楽.md "wikilink")。さらに他局に先駆けてインターネットを導入・活用したり、イベントやキャンペーンを増やすなど変貌を遂げた。
+
+2020年現在のキャッチコピーは、“Always beside you”とし、ZIP-FMにしかできない番組作りを目指している。
+
+## 周波数・出力
+
+<table>
+<thead>
+<tr class="header">
+<th><p>親局</p></th>
+<th><p>周波数</p></th>
+<th><p>空中線電力</p></th>
+<th><p>所在地</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/東山タワー" title="wikilink">名古屋</a></p></td>
+<td><p>77.8MHz</p></td>
+<td><p>10kW</p></td>
+<td><p>東山タワー（<a href="https://ja.wikipedia.org/wiki/中京テレビ放送" title="wikilink">中京テレビ放送</a>旧社屋内）<br />
+（名古屋市<a href="https://ja.wikipedia.org/wiki/昭和区" title="wikilink">昭和区</a>高峯町）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>中継局</p></td>
+<td><p>周波数</p></td>
+<td><p>空中線電力</p></td>
+<td><p>所在地</p></td>
+<td><p>備考</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/豊橋中継局" title="wikilink">豊橋</a></p></td>
+<td><p>77.1MHz</p></td>
+<td><p>50W</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/本宮山_(岡崎市・豊川市・新城市)" title="wikilink">本宮山山頂</a>（<a href="../Page/岡崎市.md" title="wikilink">岡崎市</a>）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 可聴エリア
+
+愛知県を放送対象地域とする県域放送であるが、東海4県の大部分をカバーしている。ZIP-FMの発表では、[岐阜県](../Page/岐阜県.md "wikilink")[美濃地方](../Page/美濃国.md "wikilink")・[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")北中部地方・[静岡県](../Page/静岡県.md "wikilink")西部地方のそれぞれほぼ全域を公式のサービスエリアとしている\[2\]。
+
+[USEN](https://ja.wikipedia.org/wiki/USEN "wikilink")の衛星放送[サウンドプラネットを介し](https://ja.wikipedia.org/wiki/SOUND_PLANET "wikilink")、I-60chにて東海3県で、またインターネット配信サービスの[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")（プレミアム含む）でも聴取可能。
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")より[2009年](../Page/2009年.md "wikilink")3月31日まで、[モバHO\!](https://ja.wikipedia.org/wiki/モバHO! "wikilink")の483chで[再送信](https://ja.wikipedia.org/wiki/再送信 "wikilink")を実施した（モバHO\!のサービス終了に伴い再送信も終了した）。
+
+[2017年](../Page/2017年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")からインターネットテレビサービス[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")の[AbemaRADIO](https://ja.wikipedia.org/wiki/AbemaRADIO "wikilink")チャンネルでも、当局の一部番組が聴取可能である（後述）。
+
+## 特徴
+
+ZIP-FMでは[J-POP](../Page/J-POP.md "wikilink")を**Z-POP**（ジーポップ）と呼称する（**Z**は、「日本」を表す"Zipangu"（[ジパング](https://ja.wikipedia.org/wiki/ジパング "wikilink")）の頭文字であること、そしてZIP-FMの**Z**であることから）。開局当時、Z-POP（J-POP）の放送比率は低く、全体の2割程度であったが、現在はZ-POP専門番組やアーティストが出演する番組、イベントも増えている。
+
+一方、[ジャニーズ事務所](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")所属歌手や[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")・[AKB48グループ](https://ja.wikipedia.org/wiki/AKB48グループ "wikilink")などのアイドル曲\[3\]や[アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")などは原則放送しない方針を開局当初から持っており、このことをナビゲーターである[ジェイムス・ヘイブンス](https://ja.wikipedia.org/wiki/ジェイムス・ヘイブンス "wikilink")が他局の番組で間接的に批判していた\[4\]\[5\]\[6\]が、開局20年目にあたる2013年4月の番組改編から、若年層（16 - 34歳）の[ラジオ離れ](https://ja.wikipedia.org/wiki/ラジオ離れ "wikilink")の食い止め、新規聴取者層開拓のため、アイドル楽曲の音楽性の高さなどを理由に、解禁する方針があった。ただし、これまでの局内にあった洋楽中心・最先端の音楽を紹介する放送局というイメージを大切にしたいため、21時以降という時間限定での解禁となり、2015年3月までは主に『[WOW\!](https://ja.wikipedia.org/wiki/WOW! "wikilink")』と『DIG IT\! DIG IT\!』が担った\[7\]\[8\]。2017年4月現在では、『DIG IT\! DIG IT\!』を担当していた[YO\!YO\!YOSUKE](https://ja.wikipedia.org/wiki/YO!YO!YOSUKE "wikilink")の番組『SCK』にコンセプトが受け継がれている。『Z-POP STREET』では、ジャニーズのメドレーを流すコーナーがあったものの、2017年4月の改編で終了している。また、2016年10月から開始した『NAGOYA GRANDBOWL OODAKA BASE』では[鉄平とアイドルゲストのトークコーナーやアイドルの曲を放送することがあったものの](https://ja.wikipedia.org/wiki/鉄平_\(タレント\) "wikilink")、こちらも2017年4月の改編で終了した。この改編以降、公式アナウンスがないものの、上述に属するアイドルグループの楽曲は原則放送しない方針に戻った。但し、『SCK』など、サブカルをコンセプトにした番組では引き続き放送されているほか、『WOW\!』の後番組として放送されている『Groover's Dive』や『PEEPS\!』、ジェイムスがナビゲートする『J-BREAK』ではオンエアされることがある。
+
+また、当放送局では、リスナー（聴取者）のことを通称「ZIPPIE（ジッピー）」と呼ぶ（"ZIP"+「-される者」の接尾語である"ee"）。また聴取エリアを『ZIP CITY』（ジップシティ）もしくは『ZIP AREA』（ジップエリア）と称している。局の方針により、リクエスト・エントリー・プレゼントの応募の際に、[ラジオネーム](https://ja.wikipedia.org/wiki/ラジオネーム "wikilink")の使用を一切認めていない（唯一の例外として2014年8月14日放送の『STARTS\!』内限定という条件で解禁された事がある）。ただし、匿名は可能である。
+
+不定期に、早朝（5:00）から深夜（25:00）まで、特定の曲だけをかける「○○DAY」（デイ、[日](../Page/日.md "wikilink")の意味の英語）を行うことがある。ただし特定の曲とは、アーティストだけでなく、音楽ジャンルの場合や音楽以外の場合（映画作品など）もある。過去には[クラシック音楽](../Page/クラシック音楽.md "wikilink")やアニメソングを対象に行っている。
+
+### 24時間ワンフォーマット編成による放送
+
+2002年4月1日から2004年3月31日まで、日本の民間放送局では[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")、[セント・ギガ](https://ja.wikipedia.org/wiki/セント・ギガ "wikilink")（[BS](https://ja.wikipedia.org/wiki/衛星放送 "wikilink")）、[α-STATIONに次ぐ](https://ja.wikipedia.org/wiki/エフエム京都 "wikilink")、ワンフォーマット編成による放送を行っていた。この期間中は原則ZIP HOT 100と特別番組以外は番組名が無く、7時から（平日は、2003年4月からは6時から）6時間毎にZONE1、ZONE2、ZONE3、ZONE4と名称を設定し（但し、日曜はZONE2にあたるZIP HOT 100が4時間番組のため、ZONE3は17時から、ZONE4は23時から）、各時間帯は1人のミュージックナビゲーターが進行を行った。なお、このZONEという名称は新聞のラテ欄やプレゼントの発送などに利用された。
+
+### K-POP
+
+2001年5月31日には、[韓国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[KBSのスタジオから](https://ja.wikipedia.org/wiki/韓国放送公社 "wikilink")、史上初めて日本の放送局の生放送を実施した。[KARA](https://ja.wikipedia.org/wiki/KARA "wikilink")や[少女時代の楽曲のオンエアにも積極的であるが](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink")、一方で日本のアイドル楽曲はほとんどオンエアされないために、ジェイムス・ヘイブンスが番組内で疑問を投げかけている（前述）。
+
+## 編成
+
+放送時間は月曜日から日曜日まで、1日の起点を5:00とした24時間放送（開局当初は5:00起点、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは4:00起点、[2013年](../Page/2013年.md "wikilink")3月までは6:00起点）だが、月に2-3回程度、日曜深夜（月曜未明）の数時間は放送を休止する。0:00終了になる以前は、その時放送すべきだった番組は翌曜日の深夜帯に放送されることがあった。なお、クロージングのアナウンスを行っているのは[橋本美穂](https://ja.wikipedia.org/wiki/橋本美穂 "wikilink")。
+
+## タイムシグナル（時報）
+
+ZIP-FMではBEEP（ビープ）音（ピッ・ピッ・ピッ・ポーン）を入れた時報を一切使用せず、各番組（各放送番組開始前）の区切れを中心に『タイム・シグナル』と呼ばれるものを入れている。但し、「High\! MORNING\!」内の8時の時報・「PEEPS\!」内の午前0時の時報はビープ音が例外として使われている。
+
+通常は、タイムシグナルが使われていて、歌に乗せてスポンサー名と、[堀田和則](https://ja.wikipedia.org/wiki/堀田和則 "wikilink")（開局時から担当）によるアナウンスが入る。スポンサーダイヤは[ZIP-FM HEAD LINE NEWS、WEATHER INFORMATION、TRAFFIC INFORMATIONと同じく平日](https://ja.wikipedia.org/wiki/ZIP-FM_HEAD_LINE_NEWS、WEATHER_INFORMATION、TRAFFIC_INFORMATION "wikilink")・金曜および土日と分かれており、平日と金曜は時間帯でスポンサーが異なるが、土日は一部を除き一日を通して同一のスポンサーである。また、時間帯によってノンスポンサーのときがある。
+
+初期の土曜・日曜は違う人が担当していた。なお、平日版は1998年、2004年、2013年、2018年改編の4回、土日版は2008年、2013年、2018年改編の計3回バック音楽が変更されている。
+
+2019年10月現在、月曜 - 木曜の7時・12時、金曜7時・11時・12時・14時・17時・18時、土曜9時・17時、日曜9時に番組の区切れ以外でのタイムシグナルを入れている。
+
+例えば15時の場合、タイムシグナルは14時59分30秒から音楽が鳴り始める。「〇〇が3時をお知らせします。」と言い終わったところで丁度15時になる。
+
+## 資本構成
+
+企業・団体は当時の名称。出典：\[9\]\[10\]\[11\]
+
+### 2015年3月31日 - 2016年3月31日
+
+| 資本金  | 発行済株式総数 |
+| ---- | ------- |
+| 12億円 | 24,000株 |
+
+<table>
+<thead>
+<tr class="header">
+<th><p>株主</p></th>
+<th><p>株式数</p></th>
+<th><p>比率</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/中日新聞社" title="wikilink">中日新聞社</a></p></td>
+<td><p>2,400株</p></td>
+<td><p>10.0%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/北海道新聞社" title="wikilink">北海道新聞社</a></p></td>
+<td><p>2,400株</p></td>
+<td><p>10.0%</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/トヨタ自動車" title="wikilink">トヨタ自動車</a></p></td>
+<td><p>2,400株</p></td>
+<td><p>10.0%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/名古屋鉄道" title="wikilink">名古屋鉄道</a></p></td>
+<td><p>2,400株</p></td>
+<td><p>10.0%</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/ナゴヤドーム.md" title="wikilink">ナゴヤドーム</a></p></td>
+<td><p>2,160株</p></td>
+<td><p>9.0%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/フジ・メディア・ホールディングス" title="wikilink">フジ・メディア・ホールディングス</a></p></td>
+<td><p>1,032株</p></td>
+<td><p>4.3%</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/日本経済新聞社" title="wikilink">日本経済新聞社</a></p></td>
+<td><p>960株</p></td>
+<td><p>4.0%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/スターキャット・ケーブルネットワーク" title="wikilink">スターキャット・ケーブルネットワーク</a></p></td>
+<td><p>960株</p></td>
+<td><p>4.0%</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/朝日新聞社" title="wikilink">朝日新聞社</a></p></td>
+<td><p>720株</p></td>
+<td><p>3.0%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/読売新聞社.md" title="wikilink">読売新聞社</a></p></td>
+<td><p>720株</p></td>
+<td><p>3.0%</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ナゴヤキャッスル" title="wikilink">ナゴヤキャッスル</a></p></td>
+<td><p>720株</p></td>
+<td><p>3.0%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/サンデーフォーク" title="wikilink">サンデーフォーク</a>プロモーション</p></td>
+<td><p>720株</p></td>
+<td><p>3.0%</p></td>
+</tr>
+</tbody>
+</table>
+
+### 過去の資本構成
+
+<div class="NavFrame">
+
+<div class="NavHead" style="text-align: left">
+
+2003年3月31日
+
+</div>
+
+<div class="NavContent" style="text-align: left">
+
+| 資本金  | 発行済株式総数 | 株主数 |
+| ---- | ------- | --- |
+| 12億円 | 24,000株 | 61  |
+
+<table>
+<thead>
+<tr class="header">
+<th><p>株主</p></th>
+<th><p>株式数</p></th>
+<th><p>比率</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/トヨタ自動車" title="wikilink">トヨタ自動車</a></p></td>
+<td><p>2,076株</p></td>
+<td><p>8.65%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/名古屋鉄道" title="wikilink">名古屋鉄道</a></p></td>
+<td><p>2,076株</p></td>
+<td><p>8.65%</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/中日新聞社" title="wikilink">中日新聞社</a></p></td>
+<td><p>1,920株</p></td>
+<td><p>8.00%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/産業経済新聞社.md" title="wikilink">産業経済新聞社</a></p></td>
+<td><p>960株</p></td>
+<td><p>4.00%</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/日本経済新聞社" title="wikilink">日本経済新聞社</a></p></td>
+<td><p>960株</p></td>
+<td><p>4.00%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/朝日新聞社" title="wikilink">朝日新聞社</a></p></td>
+<td><p>720株</p></td>
+<td><p>3.00%</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ナゴヤキャッスル" title="wikilink">ナゴヤキャッスル</a></p></td>
+<td><p>720株</p></td>
+<td><p>3.00%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/UFJ銀行.md" title="wikilink">UFJ銀行</a></p></td>
+<td><p>720株</p></td>
+<td><p>3.00%</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ヘラルドグループ" title="wikilink">ヘラルドコーポレーション</a></p></td>
+<td><p>720株</p></td>
+<td><p>3.00%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/サンデーフォーク" title="wikilink">サンデーフォーク</a>プロモーション</p></td>
+<td><p>720株</p></td>
+<td><p>3.00%</p></td>
+</tr>
+<tr class="odd">
+<td><p>水野金平</p></td>
+<td><p>720株</p></td>
+<td><p>3.00%</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+## 歴史
+
+  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[12月21日](../Page/12月21日.md "wikilink") - 株式会社エフエム名古屋設立。J-WAVE、[α-STATIONで特色ある編成を手がけた常行邦夫をヘッドハントし編成部長に迎える](https://ja.wikipedia.org/wiki/エフエム京都 "wikilink")。
+  - [1993年](../Page/1993年.md "wikilink")
+      - [8月2日](../Page/8月2日.md "wikilink") - 午前2時10分、無変調の試験電波発射、午前4時過ぎに代表取締役社長（当時）の局名アナウンスが第一声として流れ、午前7時より音楽を流す試験電波が始まった。1曲目は[イーグルス](https://ja.wikipedia.org/wiki/イーグルス "wikilink")の「Take it easy」。
+      - [9月6日](../Page/9月6日.md "wikilink") - 試験放送開始。
+      - [10月1日](../Page/10月1日.md "wikilink") - 午前0時、民放FMでは全国43番目、愛知県で2番目に開局。開局特別番組の1曲目は[レニー・クラビッツ](https://ja.wikipedia.org/wiki/レニー・クラビッツ "wikilink")の「Are You gonna go my way（自由への疾走）」。DJは小林克也。開局当時はPRのために名古屋に[二階建てバスが走り](../Page/2階建車両.md "wikilink")、TVCMも放送された。
+  - [1996年](../Page/1996年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink") - [中区](../Page/中区_\(名古屋市\).md "wikilink")[栄の](https://ja.wikipedia.org/wiki/栄_\(名古屋市\) "wikilink")[JETRO輸入車ショールーム](https://ja.wikipedia.org/wiki/JETRO輸入車ショールーム "wikilink")「フィエラ」内に[サテライトスタジオ](https://ja.wikipedia.org/wiki/サテライトスタジオ "wikilink")「FIERA ZIP CORNER」を開設、公開生放送で使用される。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - この日の早朝から[4月1日](../Page/4月1日.md "wikilink")未明まで同年度（4月度）から大幅な番組改定を実施するため、[3月24日](../Page/3月24日.md "wikilink")までで実質[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")度の定時番組を終了し、この期間中は「REBORN WEEK」というテーマで、DJによるコメントは1998年度の番組改定に伴う新編成の説明のみで、他はフィラー音楽だけを1週間通して流すという試みが行われた。
+  - [2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - 「24時間ワンフォーマット」編成を導入、日本では他に京都のα-STATIONにおいて同様の施策を導入した例がある。（[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、後述）。
+  - [2003年](../Page/2003年.md "wikilink")10月1日 - 開局10周年を記念し新ロゴマークを発表。
+  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")
+      - 4月1日 - スローガンを開局以来の「FOR ACTIVE URBAN LIFE」から「DESIGN YOUR FUTURE」に改める。
+      - 10月1日 - 開局11周年を迎え、商号を株式会社ZIP-FMに変更する。
+
+[STUDIO_LACHIC.jpg](https://ja.wikipedia.org/wiki/File:STUDIO_LACHIC.jpg "fig:STUDIO_LACHIC.jpg")
+
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+      - [3月9日](../Page/3月9日.md "wikilink") - 中区栄に[LACHICがオープン](https://ja.wikipedia.org/wiki/ラシック "wikilink")。そのラシック1階大津通側に[サテライトスタジオ](https://ja.wikipedia.org/wiki/サテライトスタジオ "wikilink")「STUDIO LACHIC」がオープンした。
+      - [12月25日](../Page/12月25日.md "wikilink") - JETRO輸入車ショールームが閉鎖されるのに伴い、「FIERA ZIP CORNER」も閉鎖。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") - 看板番組『ZIP HOT 100』を11年半担当していた[小林克也](https://ja.wikipedia.org/wiki/小林克也 "wikilink")が降板。
+  - 1995年から「[F.C.C.](https://ja.wikipedia.org/wiki/エフ・シー・シー "wikilink") [TSR](https://ja.wikipedia.org/wiki/テクニカル・スポーツ "wikilink") ZIP-FM Racing Team」として参戦（エントリーナンバーは周波数から\#778）している[鈴鹿8時間耐久ロードレース](https://ja.wikipedia.org/wiki/鈴鹿8時間耐久ロードレース "wikilink")において、2003年から4年連続ポールポジション、2006年に初優勝を達成。
+  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[10月31日](https://ja.wikipedia.org/wiki/10月31日 "wikilink") - 名古屋市中区栄の「STUDIO LACHIC」から公開生放送番組『BEATNIK JUNCTION』を1年半担当していた[宮本絢子](https://ja.wikipedia.org/wiki/宮本絢子 "wikilink")が降板。
+  - [2011年](../Page/2011年.md "wikilink")3月25日 - [CBCラジオ](https://ja.wikipedia.org/wiki/CBCラジオ "wikilink")・[東海ラジオ](https://ja.wikipedia.org/wiki/東海ラジオ放送 "wikilink")・[ぎふチャン](https://ja.wikipedia.org/wiki/岐阜放送ラジオ "wikilink")（[岐阜放送](https://ja.wikipedia.org/wiki/岐阜放送 "wikilink")）・[FM愛知](https://ja.wikipedia.org/wiki/エフエム愛知 "wikilink")・[レディオキューブ FM三重と同時に](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")の試験放送を開始。対象は東海3県\[12\]。
+  - [2012年](../Page/2012年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") - [NHK名古屋放送局](https://ja.wikipedia.org/wiki/NHK名古屋放送局 "wikilink")の[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")『[サタテン](https://ja.wikipedia.org/wiki/サタテン "wikilink")』（東海・北陸地方向け）との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")ライブを[Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp "wikilink")（名古屋市[中村区](../Page/中村区.md "wikilink")）で開催\[13\]。[鉄平がZIP](https://ja.wikipedia.org/wiki/鉄平_\(タレント\) "wikilink")-FM代表として出演し、3組のアーティストが出演した。
+  - [2013年](../Page/2013年.md "wikilink")
+      - [4月1日](../Page/4月1日.md "wikilink") - 開局20周年を機に、全体の65％の大幅な改編が行われた。またキャッチコピーを「DESIGN YOUR FUTURE」から「MORE FUN, MORE ZIP\!」に変更、さらに『WOW\!』の放送開始を以って、21時以降という時間制限がありながらも、開局20年目にして初めてアイドル楽曲を解禁した。
+      - [4月5日](../Page/4月5日.md "wikilink") - [4月7日](../Page/4月7日.md "wikilink") - 開局20周年を機に、[鶴舞公園](https://ja.wikipedia.org/wiki/鶴舞公園 "wikilink")で「ZIP SPRING SQUARE」を初開催（以降毎年「鶴舞公園桜まつり」と同じ時期に開催）。
+      - [4月15日](../Page/4月15日.md "wikilink") - 解禁後『WOW\!』に、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の[譜久村聖](https://ja.wikipedia.org/wiki/譜久村聖 "wikilink")と[生田衣梨奈](https://ja.wikipedia.org/wiki/生田衣梨奈 "wikilink")がインタビュー出演。
+
+## オフィシャルチャート
+
+  - **ZIP HOT 100** - オンエア、リクエストデータなどを基にした洋邦混合チャート。
+
+<!-- end list -->
+
+  -
+
+    SUN 13:00 - 17:00 鉄平ナビゲート
+
+## 番組
+
+### 現在
+
+**2019年12月現在** ◆ があるのは[J-WAVE](../Page/J-WAVE.md "wikilink")発のネット番組、☆ があるのは[AbemaRADIO](https://ja.wikipedia.org/wiki/AbemaRADIO "wikilink")チャンネル配信番組（一部ディレイ配信）。
+
+  - [Twitter](https://ja.wikipedia.org/wiki/Twitter "wikilink")は「[J-BREAK](https://ja.wikipedia.org/wiki/J-BREAK "wikilink")」を除く全番組に実施。
+  - 随時、生活情報を伝える[ZIP-FM HEAD LINE NEWS、WEATHER INFORMATION、TRAFFIC INFORMATIONを挿入する](https://ja.wikipedia.org/wiki/ZIP-FM_HEAD_LINE_NEWS、WEATHER_INFORMATION、TRAFFIC_INFORMATION "wikilink")[報道](https://ja.wikipedia.org/wiki/報道番組 "wikilink")[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")を放送。
+  - 下記ワイドプログラムでは[サーフボードプログラム](https://ja.wikipedia.org/wiki/サーフボードプログラム "wikilink")及びショートプログラムと呼ばれる番組を内包している。
+  - 冬季限定で、平日昼間に「ZIP WINTER WONDERLAND」および平日と土曜日の夕方に「ZIP-FM SNOW INFORMATION」を放送する。
+  - 祝日は「ZIP-FM HOLIDAY SPECIAL」を放送（月 - 木の場合 9:00 - 17:00 or 19:00 - 23:00、金の場合は 9:00 - 16:00 or 16:30 - 23:00）する事があるため、同時間帯に放送されているレギュラー番組は休止となる事がある。しかし、近年は祝日も通常編成となる事が多くなっている。
+
+|                                                                                           |                                                                                                                                                                                                 |                                                                                                                                               |                                                                                                                                                                                                             |                                                                              |    |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -- |
+| 時                                                                                         | 月 - 水曜                                                                                                                                                                                          | 木曜                                                                                                                                            | 金曜                                                                                                                                                                                                          | 土曜                                                                           | 日曜 |
+| 5                                                                                         | **Rolling Out\!** - [成田真美](https://ja.wikipedia.org/wiki/成田真美 "wikilink")                                                                                                                       | **[MUSIC FLOW](https://ja.wikipedia.org/wiki/MUSIC_FLOW "wikilink")**                                                                         |                                                                                                                                                                                                             |                                                                              |    |
+| 6                                                                                         | **High\! MORNING\!** - [MEGURU](https://ja.wikipedia.org/wiki/MEGURU "wikilink")                                                                                                                | **STEP6** - 中川大輔                                                                                                                              |                                                                                                                                                                                                             |                                                                              |    |
+| 7                                                                                         | **WAKEY WAKEY** - [IRENE](https://ja.wikipedia.org/wiki/IRENE "wikilink")                                                                                                                       | **otonationary** - [AZUSA](https://ja.wikipedia.org/wiki/AZUSA_\(ディスクジョッキー\) "wikilink")                                                      |                                                                                                                                                                                                             |                                                                              |    |
+| 8                                                                                         |                                                                                                                                                                                                 |                                                                                                                                               |                                                                                                                                                                                                             |                                                                              |    |
+| 9                                                                                         | '''[BRUNCH STYLE](https://ja.wikipedia.org/wiki/BRUNCH_STYLE "wikilink") ''' - [永田レイナ](https://ja.wikipedia.org/wiki/永田レイナ "wikilink")                                                          | **[GOODY](https://ja.wikipedia.org/wiki/GOODY "wikilink")** - 高木マーガレット                                                                        |                                                                                                                                                                                                             |                                                                              |    |
+| 10                                                                                        | **SATURDAY ON FLEEK** - [デイル](https://ja.wikipedia.org/wiki/DALE "wikilink")                                                                                                                    | '''[RADIO ORBIT](https://ja.wikipedia.org/wiki/RADIO_ORBIT "wikilink") ''' - [クリス・グレン](https://ja.wikipedia.org/wiki/クリス・グレン "wikilink")、花上裕香 |                                                                                                                                                                                                             |                                                                              |    |
+| 11                                                                                        | **[J-BREAK](https://ja.wikipedia.org/wiki/J-BREAK "wikilink")** - [ジェイムス・ヘイブンス](https://ja.wikipedia.org/wiki/ジェイムス・ヘイブンス "wikilink")                                                           |                                                                                                                                               |                                                                                                                                                                                                             |                                                                              |    |
+| 12                                                                                        |                                                                                                                                                                                                 |                                                                                                                                               |                                                                                                                                                                                                             |                                                                              |    |
+| 13                                                                                        | **bloomy\*** - 月・火/ [高樹リサ](https://ja.wikipedia.org/wiki/高樹リサ "wikilink") 水・木/ [高木マーガレット](https://ja.wikipedia.org/wiki/高木萌香 "wikilink")                                                        | **[JOYFUL](https://ja.wikipedia.org/wiki/JOYFUL_\(ZIP-FMのラジオ番組\) "wikilink")** - [SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")、堀江美穂 | ☆ **[FUNNY BUDDY](https://ja.wikipedia.org/wiki/FUNNY_BUDDY "wikilink")** - 荒戸完、清里千聖                                                                                                                        | **[ZIP HOT 100](https://ja.wikipedia.org/wiki/ZIP_HOT_100 "wikilink")** - 鉄平 |    |
+| 14                                                                                        |                                                                                                                                                                                                 |                                                                                                                                               |                                                                                                                                                                                                             |                                                                              |    |
+| 15                                                                                        | **tTime** - [小林拓一郎](https://ja.wikipedia.org/wiki/小林拓一郎 "wikilink")                                                                                                                             |                                                                                                                                               |                                                                                                                                                                                                             |                                                                              |    |
+| 16                                                                                        | ◆ **[DRIVE IN JAPAN](https://ja.wikipedia.org/wiki/DRIVE_IN_JAPAN "wikilink")** - [山口智充](https://ja.wikipedia.org/wiki/山口智充 "wikilink")、[浦浜アリサ](https://ja.wikipedia.org/wiki/浦浜アリサ "wikilink") | **[SATURDAY GO AROUND](https://ja.wikipedia.org/wiki/SATURDAY_GO_AROUND "wikilink")** - 南城大輔                                                  |                                                                                                                                                                                                             |                                                                              |    |
+| 16:30 '''HOORAY HOORAY FRIDAY ''' - [白井奈津](https://ja.wikipedia.org/wiki/白井奈津 "wikilink") |                                                                                                                                                                                                 |                                                                                                                                               |                                                                                                                                                                                                             |                                                                              |    |
+| 17                                                                                        | **[BEATNIK JUNCTION](https://ja.wikipedia.org/wiki/BEATNIK_JUNCTION "wikilink")** - [MISATO](https://ja.wikipedia.org/wiki/MISATO "wikilink")                                                   | **SUNDAY HAPPY HOUR** - [空木マイカ](https://ja.wikipedia.org/wiki/空木マイカ "wikilink")                                                               |                                                                                                                                                                                                             |                                                                              |    |
+| 18                                                                                        | ◆ **[LIFESTYLE COLLEGE](https://ja.wikipedia.org/wiki/LIFESTYLE_COLLEGE "wikilink")** - [吉岡里帆](https://ja.wikipedia.org/wiki/吉岡里帆 "wikilink")                                                   |                                                                                                                                               |                                                                                                                                                                                                             |                                                                              |    |
+| 19                                                                                        | ☆ **[bestie](https://ja.wikipedia.org/wiki/bestie "wikilink")** - 石川舜一郎、[神原真理](https://ja.wikipedia.org/wiki/神原真理 "wikilink")                                                                   | **JOIN US\!** - 堀江美穂                                                                                                                          | ◆ **[DRIVE TO THE FUTURE](https://ja.wikipedia.org/wiki/DRIVE_TO_THE_FUTURE "wikilink")** - [ピストン西沢](https://ja.wikipedia.org/wiki/ピストン西沢 "wikilink")、[松嶋初音](https://ja.wikipedia.org/wiki/松嶋初音 "wikilink") |                                                                              |    |
+| 20                                                                                        | **[DANCEMAN](https://ja.wikipedia.org/wiki/DANCEMAN "wikilink")** - [南城大輔](https://ja.wikipedia.org/wiki/南城大輔 "wikilink")                                                                       | ☆ **[FIND OUT](https://ja.wikipedia.org/wiki/FIND_OUT "wikilink")** - 白井奈津                                                                    |                                                                                                                                                                                                             |                                                                              |    |
+| 21                                                                                        | **[Groover's Dive](https://ja.wikipedia.org/wiki/GROOVER'S_DIVE "wikilink")** - [荒戸完](https://ja.wikipedia.org/wiki/荒戸完 "wikilink")                                                             | **MYSTERIOUS RADIO CULT** - [鉄平](https://ja.wikipedia.org/wiki/鉄平_\(タレント\) "wikilink")、上野智子                                                   |                                                                                                                                                                                                             |                                                                              |    |
+| 22                                                                                        | **MUSIC MASTER** - デイル                                                                                                                                                                          |                                                                                                                                               |                                                                                                                                                                                                             |                                                                              |    |
+| 23                                                                                        | **[PEEPS\!](https://ja.wikipedia.org/wiki/PEEPS! "wikilink")** - 月/ 花上裕香 火/ 川村茉由 水/ 清里千聖 木/ [上野智子](https://ja.wikipedia.org/wiki/上野智子_\(ラジオDJ\) "wikilink")                                     | **ARTIST PROGRAM**（後述）                                                                                                                        | **RADIO SNEAKER'Z** - [落合健太郎](https://ja.wikipedia.org/wiki/落合健太郎 "wikilink")                                                                                                                               | **ARTIST PROGRAM**（30min.×3、後述）                                              |    |
+| 23:30 **DIRECT** - BANTY FOOT                                                             |                                                                                                                                                                                                 |                                                                                                                                               |                                                                                                                                                                                                             |                                                                              |    |
+| 0                                                                                         | **SATURDAY NIGHT SPECIAL**                                                                                                                                                                      |                                                                                                                                               |                                                                                                                                                                                                             |                                                                              |    |
+| 0:30 **FLYING BED** - [呂布カルマ](https://ja.wikipedia.org/wiki/呂布カルマ "wikilink")             |                                                                                                                                                                                                 |                                                                                                                                               |                                                                                                                                                                                                             |                                                                              |    |
+| 1                                                                                         | **ARTIST PROGRAM**（後述）                                                                                                                                                                          | **ARTIST PROGRAM**（30min.×2、後述）                                                                                                               | **SCK** - [YO\!YO\!YOSUKE](https://ja.wikipedia.org/wiki/YO!YO!YOSUKE "wikilink")                                                                                                                           |                                                                              |    |
+| 1:30 **[MUSIC FLOW](https://ja.wikipedia.org/wiki/MUSIC_FLOW "wikilink")**                |                                                                                                                                                                                                 |                                                                                                                                               |                                                                                                                                                                                                             |                                                                              |    |
+| 2                                                                                         | **[MUSIC FLOW](https://ja.wikipedia.org/wiki/MUSIC_FLOW "wikilink")**                                                                                                                           | ☆ **Leftfield** - [真鍋大度](https://ja.wikipedia.org/wiki/真鍋大度 "wikilink")                                                                       | **[MUSIC FLOW](https://ja.wikipedia.org/wiki/MUSIC_FLOW "wikilink")**                                                                                                                                       |                                                                              |    |
+| 3                                                                                         | **[MUSIC FLOW](https://ja.wikipedia.org/wiki/MUSIC_FLOW "wikilink")**                                                                                                                           | **[REAL ROCKS](https://ja.wikipedia.org/wiki/REAL_ROCKS "wikilink")** - [澤田修](https://ja.wikipedia.org/wiki/澤田修 "wikilink")'''                |                                                                                                                                                                                                             |                                                                              |    |
+| 4                                                                                         |                                                                                                                                                                                                 |                                                                                                                                               |                                                                                                                                                                                                             |                                                                              |    |
+|                                                                                           |                                                                                                                                                                                                 |                                                                                                                                               |                                                                                                                                                                                                             |                                                                              |    |
+
+### ARTIST PROGRAM
+
+<table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>月曜</p></td>
+<td><p>火曜</p></td>
+<td><p>水曜</p></td>
+<td><p>木曜</p></td>
+<td><p>金曜</p></td>
+</tr>
+<tr class="even">
+<td><p>翌1:00 - 翌1:30</p></td>
+<td><p>Midnight Getaway<br />
+【遥海】</p></td>
+<td><p>E:d-EYES<br />
+【<a href="https://ja.wikipedia.org/wiki/IDEA_(歌手)" title="wikilink">IDEA</a>】</p></td>
+<td><p>MIDNIGHT CHROME<br />
+【<a href="https://ja.wikipedia.org/wiki/Cellchrome" title="wikilink">Cellchrome</a>】</p></td>
+<td><p>BUTTAMAGE</p></td>
+<td><p>!<br />
+【<a href="https://ja.wikipedia.org/wiki/リアクション_ザ_ブッタ" title="wikilink">リアクション ザ ブッタ</a>】</p></td>
+</tr>
+<tr class="odd">
+<td><p>翌1:30 - 翌2:00</p></td>
+<td><p>---</p></td>
+<td><p>Nothing's Carved In Stone<br />
+【Silver Sun Radio】</p></td>
+<td><p>WEAR MUSIC<br />
+【Cool-X】/【センチミリメンタル】<br />
+※週替わり</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>金曜</p></td>
+<td><p>日曜</p></td>
+</tr>
+<tr class="even">
+<td><p>23:00 - 23:30</p></td>
+<td><p>URBAN BREEZE<br />
+【<a href="https://ja.wikipedia.org/wiki/平井大" title="wikilink">平井大</a>】</p></td>
+<td><p>POP STEP JUMP<br />
+【JUNKYPOP】</p></td>
+</tr>
+<tr class="odd">
+<td><p>23:30 - 翌0:00</p></td>
+<td><p>---</p></td>
+<td><p>ON THE ROCK<br />
+【岡本隆根】</p></td>
+</tr>
+<tr class="even">
+<td><p>翌0:00 - 翌0:30</p></td>
+<td><p>MIDNIGHT RUNWAY<br />
+【加藤ヒロ、白山治輝（<a href="https://ja.wikipedia.org/wiki/Brian_the_Sun" title="wikilink">Brian the Sun</a>）】</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### その他単発番組
+
+  - [RUN WITH THE WIND:ALL JAPAN INTER-UNIVERSITY EKIDEN CHAMPIONSHIP](https://ja.wikipedia.org/wiki/全日本大学駅伝対校選手権大会 "wikilink")（単発・11月。全日本大学駅伝対校選手権大会の生中継で放送時間は8:00 - 14:00\[14\]。駅伝中継部分は[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")の制作。通常この時間に放送しているサーフボードプログラムは休まずこの番組内で放送している）なお、この日に限り13時のタイムシグナルはこの番組が終了する14時に移動する。
+
+### 過去
+
+「24時間ワンフォーマット」時代は番組名が存在しないため、ここでは省略。括弧内は担当したナビゲーター。
+
+<div class="NavFrame" style="clear: both; border:0">
+
+<div class="NavHead">
+
+過去の番組
+
+</div>
+
+<div class="NavContent" style="text-align: left">
+
+  - ZIP MORNING CALL（竹石ソニア）
+  - ZIP MORNING BUZZ（[ジェイムス・ヘイブンス](https://ja.wikipedia.org/wiki/ジェイムス・ヘイブンス "wikilink")）
+  - ZIP URBAN STREAM（林舞）
+  - UPTOWN ZIP（うえだひろこ）
+  - Z-CALL 77.8（[間宮優希](https://ja.wikipedia.org/wiki/間宮優希 "wikilink")）
+  - ZIP CONTEMPORARY NIGHT（[クリス・グレン](https://ja.wikipedia.org/wiki/クリス・グレン "wikilink")）
+  - ZIP MIDNIGHT PARTNER（クリスハート／チャーリーエスピナ）
+  - Z-POP DREAMIN'（ジェフ松尾）
+  - SATURDAY ZIP MORNING（中村真子）
+  - MEETING THE EUROPIAN（[ジョン・カビラ](../Page/ジョン・カビラ.md "wikilink")）
+  - ZIP SOUND GALLERY（村上美樹）
+  - MOTOWN FREEWAY（チャールスグラバー）
+  - ZIP LOVERS TIME（[南美布](https://ja.wikipedia.org/wiki/南美布 "wikilink")/スコットモリス）
+  - ZIP NIGHT BOUND（クリフリチャーズ/[小林克也](https://ja.wikipedia.org/wiki/小林克也 "wikilink")）
+  - ZIP PALMTREE STUDIO（ダニエルブルックス）
+  - AICHI COCO PARADISE（ウィリーモク）
+  - ZIP URBAN FREEWAY（奈利子ジェニィー）
+  - OST GALLERY（[KYOYA](https://ja.wikipedia.org/wiki/KYOYA "wikilink")）
+  - SUNDAY ZIP NIGHT（ダンカンハミルトン）
+  - ROMANTIC PROMENADE（ボブボルケス）
+  - SWEET SOUL TIME（キャラジョーンズ）
+  - WEEKEND BREEZE（[ユキ・ラインハート](https://ja.wikipedia.org/wiki/ユキ・ラインハート "wikilink")）
+  - HIT SERVER 77.8（田邉香菜子）
+  - Z CONTACT 77.8（[デイル](https://ja.wikipedia.org/wiki/DALE "wikilink")）
+  - MEGA HIT RADIO（岩本三千代）
+  - URBAN FREEWAY（[ケン・マスイ](https://ja.wikipedia.org/wiki/ケン・マスイ "wikilink")）
+  - ZIP DANCETERIA（[ケン・マスイ](https://ja.wikipedia.org/wiki/ケン・マスイ "wikilink") → [MARCO](https://ja.wikipedia.org/wiki/MARCO "wikilink")）
+  - SKY COAST FRIDAY（ジェフリー・ジェムズ）
+  - FRIDAY DANCE PARTY（[クリス・グレン](https://ja.wikipedia.org/wiki/クリス・グレン "wikilink")）
+  - ZIP STREET BEAT（[パトリック・ユウ](https://ja.wikipedia.org/wiki/パトリック・ユウ "wikilink")）
+  - ZIP SATURDAY JUNGLE（[ターザン山下](https://ja.wikipedia.org/wiki/ターザン山下 "wikilink")）
+  - WHAT'S UP SATURDAY（[石川實](https://ja.wikipedia.org/wiki/石川實 "wikilink")）
+  - ZIP POWER MIX（[MARCO](https://ja.wikipedia.org/wiki/MARCO "wikilink")）
+  - EVENING ZOO（[MARCO](https://ja.wikipedia.org/wiki/MARCO "wikilink")）
+  - [J-FORCE R.E.D.](https://ja.wikipedia.org/wiki/J-FORCE_R.E.D. "wikilink")（[ジェイムス・ヘイブンス](https://ja.wikipedia.org/wiki/ジェイムス・ヘイブンス "wikilink")）
+  - ZIP MORNING PRESS（[ケン・マスイ](https://ja.wikipedia.org/wiki/ケン・マスイ "wikilink")）
+  - DAYTIME PARTY（田邉香菜子）
+  - HOT MISSION 77.8（[ジェイムス・ヘイブンス](https://ja.wikipedia.org/wiki/ジェイムス・ヘイブンス "wikilink")）
+  - [EVENING DRIVE](https://ja.wikipedia.org/wiki/EVENING_DRIVE "wikilink")（[南城大輔](https://ja.wikipedia.org/wiki/南城大輔 "wikilink") 他）
+  - [RADIMO FREAK](https://ja.wikipedia.org/wiki/RADIMO_FREAK "wikilink")（[カルテット](https://ja.wikipedia.org/wiki/カルテット_\(ユニット\) "wikilink") 他）
+  - HANDS UP\!（[宮本絢子](https://ja.wikipedia.org/wiki/宮本絢子 "wikilink")）
+  - [McDonald's](https://ja.wikipedia.org/wiki/日本マクドナルド "wikilink") [ZIP REAL-EYES](https://ja.wikipedia.org/wiki/REAL-EYES "wikilink")（鈴木冨美子→[澤田修](https://ja.wikipedia.org/wiki/澤田修 "wikilink")）
+  - CLUB Z-SATURDAY（[YO\!YO\!YOSUKE](https://ja.wikipedia.org/wiki/YO!YO!YOSUKE "wikilink")）
+  - SUNDAY GLOCAL AVENUE（[ナディア・ギフォード](https://ja.wikipedia.org/wiki/ナディア・ギフォード "wikilink")）
+  - RADIO TWISTER（[杉田芳尚](https://ja.wikipedia.org/wiki/杉田芳尚 "wikilink")）
+  - [J-FRIDAY](https://ja.wikipedia.org/wiki/J-FRIDAY "wikilink")（[ジェイムス・ヘイブンス](https://ja.wikipedia.org/wiki/ジェイムス・ヘイブンス "wikilink")）
+  - [MORNING JACK](https://ja.wikipedia.org/wiki/MORNING_JACK "wikilink")（[落合健太郎](https://ja.wikipedia.org/wiki/落合健太郎 "wikilink")/[都竹悦子](https://ja.wikipedia.org/wiki/都竹悦子 "wikilink")）
+  - DAYTIME MUSIC（[デイル](https://ja.wikipedia.org/wiki/DALE "wikilink")）
+  - AFTERNOON MUSE（[岡本祐佳](https://ja.wikipedia.org/wiki/岡本祐佳 "wikilink")）
+  - SMILE DELI（[空木マイカ](https://ja.wikipedia.org/wiki/空木マイカ "wikilink")）
+  - [BANG\! BANG\! ZIP\!](https://ja.wikipedia.org/wiki/BANG!_BANG!_ZIP! "wikilink")（[落合健太郎](https://ja.wikipedia.org/wiki/落合健太郎 "wikilink")）
+  - [RADIO KICK](https://ja.wikipedia.org/wiki/RADIO_KICK "wikilink")（[南城大輔](https://ja.wikipedia.org/wiki/南城大輔 "wikilink")・[ヒライユミカ](https://ja.wikipedia.org/wiki/ヒライユミカ "wikilink")）
+  - COLORFUL BEAT（[紗羅マリー](https://ja.wikipedia.org/wiki/紗羅マリー "wikilink")）
+  - Channel Route 21（[cinema staff](https://ja.wikipedia.org/wiki/cinema_staff "wikilink")）
+  - EX-BEAT（矢口清治）
+  - [J-MIX](https://ja.wikipedia.org/wiki/J-MIX "wikilink")（[ジェイムス・ヘイブンス](https://ja.wikipedia.org/wiki/ジェイムス・ヘイブンス "wikilink")）
+  - BIG FRIDAY（[ケン・マスイ](https://ja.wikipedia.org/wiki/ケン・マスイ "wikilink")）
+  - FRI.MASTER（[YO\!YO\!YOSUKE](https://ja.wikipedia.org/wiki/YO!YO!YOSUKE "wikilink")）
+  - REGGAE REVOLUTION（[RYO the SKYWALKER](https://ja.wikipedia.org/wiki/RYO_the_SKYWALKER "wikilink")）
+  - RADIO ROOTS（[MEGURU](https://ja.wikipedia.org/wiki/MEGURU "wikilink")）
+  - BREEZY SATURDAY（渡辺麻耶）
+  - MOTION & EMOTION（[成田真美](https://ja.wikipedia.org/wiki/成田真美 "wikilink")）
+  - SPICE UP（[ヒライユミカ](https://ja.wikipedia.org/wiki/ヒライユミカ "wikilink")）
+  - [WOW\!](https://ja.wikipedia.org/wiki/WOW! "wikilink")（磯谷祐介・[白井奈津](https://ja.wikipedia.org/wiki/白井奈津 "wikilink") 他）
+  - OPENER（[都竹悦子](https://ja.wikipedia.org/wiki/都竹悦子 "wikilink")）
+  - DIG IT\! DIG IT\!（[YO\!YO\!YOSUKE](https://ja.wikipedia.org/wiki/YO!YO!YOSUKE "wikilink")・大脇愛）
+  - CLUB MUSIC FREAKS（SHUNYA）
+  - SPOTMUSIC（ヒライユミカ）
+  - STARTS\!（田口絵未花・花上裕香 他）
+  - SONIC FUN RADIO（[デイル](https://ja.wikipedia.org/wiki/DALE "wikilink")）
+  - CU-T NOTE（上野智子）
+  - STIR UP\!（上野智子）
+  - GOLDEN Z（[ジェイムス・ヘイブンス](https://ja.wikipedia.org/wiki/ジェイムス・ヘイブンス "wikilink")）
+  - BIG TIME（[ケン・マスイ](https://ja.wikipedia.org/wiki/ケン・マスイ "wikilink")）
+  - [FUN★TASTIC](https://ja.wikipedia.org/wiki/FUN★TASTIC "wikilink")（[矢口清治](https://ja.wikipedia.org/wiki/矢口清治 "wikilink")）
+  - NAGOYA GRANDBOWL OODAKA BASE（[鉄平](https://ja.wikipedia.org/wiki/鉄平_\(タレント\) "wikilink")）
+  - SUPERNOVA（[MEGURU](https://ja.wikipedia.org/wiki/MEGURU "wikilink")）
+  - WEEKEND MASTER（磯谷祐介）
+  - Z-POP STREET（[荒戸完](https://ja.wikipedia.org/wiki/荒戸完 "wikilink") 他）
+  - [MORNING CHARGE](https://ja.wikipedia.org/wiki/MORNING_CHARGE "wikilink")（[小林拓一郎](https://ja.wikipedia.org/wiki/小林拓一郎 "wikilink")）
+  - PEACHY.（[橋本みのり](https://ja.wikipedia.org/wiki/橋本みのり "wikilink")）
+  - SMILE HEART BEAT（[MISATO](https://ja.wikipedia.org/wiki/MISATO "wikilink")）
+  - [FABULOUS RIDE](https://ja.wikipedia.org/wiki/FABULOUS_RIDE "wikilink")（[MEGURU](https://ja.wikipedia.org/wiki/MEGURU "wikilink")）
+  - [SWAG \#41](https://ja.wikipedia.org/wiki/SWAG41 "wikilink")（[南城大輔](https://ja.wikipedia.org/wiki/南城大輔 "wikilink")）
+      - ZIP DANCE HITS 20 （[南城大輔](https://ja.wikipedia.org/wiki/南城大輔 "wikilink")）
+  - STEP5（中川大輔）
+  - LOVELY（[空木マイカ](https://ja.wikipedia.org/wiki/空木マイカ "wikilink")）
+  - [Z-POP COUNTDOWN 30](https://ja.wikipedia.org/wiki/Z-POP_COUNTDOWN_30 "wikilink")（[IRENE](https://ja.wikipedia.org/wiki/IRENE "wikilink")）
+  - BEAUTIFUL LOUNGE（[AZUSA](https://ja.wikipedia.org/wiki/AZUSA_\(ディスクジョッキー\) "wikilink")）
+  - P-H-A-T\!（[デイル](https://ja.wikipedia.org/wiki/DALE "wikilink")）
+  - SUNDAY ROOKIE（石川舜一郎）
+  - THE MUSIC MAN（[ケン・マスイ](https://ja.wikipedia.org/wiki/ケン・マスイ "wikilink")）
+  - ZDM（[南城大輔](https://ja.wikipedia.org/wiki/南城大輔 "wikilink")）
+  - casual, usual（[AZUSA](https://ja.wikipedia.org/wiki/AZUSA_\(ディスクジョッキー\) "wikilink")）
+  - POWER JAM（G.O.T.O・SOCKS）
+
+など
+
+</div>
+
+</div>
+
+#### 改編
+
+  - これまで、「ZIP HOT 100」以外の全番組を変更する（改編率97%）という大改編を3度行っている（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[2002年](../Page/2002年.md "wikilink")、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")。ともに[4月1日](../Page/4月1日.md "wikilink")から）。
+      - 最初の大改編前の1998年3月25日 - 31日までの間、「ZIP HOT 100」を含む全ての番組を休止し、1週間ずっと音楽と新番組の告知だけを流す、「REBORN WEEK」と題した[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")放送も行われた（似たようなことを[RADIO-iでも行っていた](https://ja.wikipedia.org/wiki/愛知国際放送 "wikilink")）。
+  - 前述の「24時間ワンフォーマット」を行っていた時期は、ゾーン1、ゾーン2、ゾーン3、ゾーン4といった感じで新聞に掲載されていた（当時の日曜日のゾーン2に当たる「ZIP HOT 100」のみ番組名が掲載されていた）。
+  - 6か月毎にミュージックナビゲーター異動などのマイナーチェンジが行われることがある（無い場合もある）。改編期を待たずに引退するDJもいた。
+
+## ミュージック・ナビゲーター
+
+### 現在
+
+ZIP-FMではDJをミュージック・ナビゲーター (MUSIC NAVIGATOR) と呼ぶ。J-WAVE同様、日本語と英語のバイリンガルDJが多い。[ジェイムス・ヘイブンス](https://ja.wikipedia.org/wiki/ジェイムス・ヘイブンス "wikilink")は開局時から在籍している唯一のナビゲーターで、[クリス・グレン](https://ja.wikipedia.org/wiki/クリス・グレン "wikilink")は開局時のナビゲーターおよび[デイルは史上最高齢のナビゲーターで](https://ja.wikipedia.org/wiki/DALE "wikilink")、[高樹リサ](https://ja.wikipedia.org/wiki/高樹リサ "wikilink")は年齢・在籍共に史上最年少のナビゲーターである。
+
+  - [ジェイムス・ヘイブンス](https://ja.wikipedia.org/wiki/ジェイムス・ヘイブンス "wikilink")
+  - [デイル](https://ja.wikipedia.org/wiki/DALE "wikilink")
+  - [落合健太郎](https://ja.wikipedia.org/wiki/落合健太郎 "wikilink")
+  - [澤田修](https://ja.wikipedia.org/wiki/澤田修 "wikilink")
+  - [南城大輔](https://ja.wikipedia.org/wiki/南城大輔 "wikilink")
+  - [YO\!YO\!YOSUKE](https://ja.wikipedia.org/wiki/YO!YO!YOSUKE "wikilink")
+  - [小林拓一郎](https://ja.wikipedia.org/wiki/小林拓一郎 "wikilink")
+  - [鉄平](https://ja.wikipedia.org/wiki/鉄平_\(タレント\) "wikilink")
+  - [空木マイカ](https://ja.wikipedia.org/wiki/空木マイカ "wikilink")
+  - [AZUSA](https://ja.wikipedia.org/wiki/AZUSA_\(ディスクジョッキー\) "wikilink")
+  - [成田真美](https://ja.wikipedia.org/wiki/成田真美 "wikilink")
+  - 堀江美穂
+  - [IRENE](https://ja.wikipedia.org/wiki/IRENE "wikilink")
+  - [クリス・グレン](https://ja.wikipedia.org/wiki/クリス・グレン "wikilink")\[15\]
+  - [白井奈津](https://ja.wikipedia.org/wiki/白井奈津 "wikilink")
+  - [MEGURU](https://ja.wikipedia.org/wiki/MEGURU "wikilink")
+  - 花上裕香
+  - [MISATO](https://ja.wikipedia.org/wiki/MISATO "wikilink")
+  - [荒戸完](https://ja.wikipedia.org/wiki/荒戸完 "wikilink")
+  - [上野智子](https://ja.wikipedia.org/wiki/上野智子_\(ラジオDJ\) "wikilink")
+  - 川村茉由
+  - [SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")
+  - [永田レイナ](https://ja.wikipedia.org/wiki/永田レイナ "wikilink")
+  - 石川舜一郎
+  - [清里千聖](https://ja.wikipedia.org/wiki/清里千聖 "wikilink")
+  - 中川大輔
+  - [神原真理](https://ja.wikipedia.org/wiki/神原真理 "wikilink")
+  - [高木マーガレット](https://ja.wikipedia.org/wiki/高木萌香 "wikilink")
+  - [高樹リサ](https://ja.wikipedia.org/wiki/高樹リサ "wikilink")
+
+### 過去
+
+  - [小林克也](https://ja.wikipedia.org/wiki/小林克也 "wikilink")
+      - 「ZIP HOT 100」を担当。2015年3月現在、[NACK5で](https://ja.wikipedia.org/wiki/エフエムナックファイブ "wikilink")「[ファンキーフライデー](https://ja.wikipedia.org/wiki/ファンキーフライデー "wikilink")」を担当。
+  - キャプテン・ジョージ
+      - 現・[ケビン・クローン](https://ja.wikipedia.org/wiki/ケビン・クローン "wikilink")。ZIPから去る時、「キャプテン・ジョージの名は名古屋に残す」と言って芸名を封印した。
+  - [佐野瑛厘](https://ja.wikipedia.org/wiki/佐野瑛厘 "wikilink")
+      - ZIP-FMミュージック・ナビゲーター当時は佐野恵里、2010年4月、RADIO-iのiJとして「Briliant Wave」・「Twilight Breeze」を担当。2016年1月現在、[Radio NEOで](https://ja.wikipedia.org/wiki/Radio_NEO "wikilink")「MUSIC GARAGE」などにて番組を担当中。
+  - [ターザン山下](https://ja.wikipedia.org/wiki/ターザン山下 "wikilink")
+      - 2016年1月現在、[Kiss FM KOBEなどで番組を担当](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")。
+  - [MARCO](https://ja.wikipedia.org/wiki/MARCO "wikilink")
+      - マルコ石本として、2009年4月より[＠FMで](https://ja.wikipedia.org/wiki/エフエム愛知 "wikilink")「モーニング・グルーブ」・「RADIO SPLASH」を担当。2015年4月現在、「Radio Freaks」を担当。
+  - [パトリック・ユウ](https://ja.wikipedia.org/wiki/パトリック・ユウ "wikilink")
+      - 現在は主に[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")オフィシャル[スタジアムDJ](https://ja.wikipedia.org/wiki/スタジアムDJ "wikilink")として活動。
+  - [石川實](https://ja.wikipedia.org/wiki/石川實 "wikilink")
+      - 2016年1月現在、[InterFM](https://ja.wikipedia.org/wiki/InterFM "wikilink")のDJとして「Flashpoint」を担当。
+  - 田邉香菜子
+  - [辻麻衣](https://ja.wikipedia.org/wiki/辻麻衣 "wikilink")
+  - 池山文
+  - 池田なみ子
+      - 2016年1月現在、[FM COCOLOのDJとして](https://ja.wikipedia.org/wiki/FM_COCOLO "wikilink")「FRIDAY AMUSIC MORNING」・「SATURDAY AMUSIC MORNING」・「君と焚き火とAOR」を担当。
+  - 荻田ゆみこ
+  - [宮本絢子](https://ja.wikipedia.org/wiki/宮本絢子 "wikilink")
+  - 杉田芳尚
+  - Ulee
+  - [Nadia](https://ja.wikipedia.org/wiki/ナディア・ギフォード "wikilink")
+  - [岡本祐佳](https://ja.wikipedia.org/wiki/岡本祐佳 "wikilink")
+  - [RIO](https://ja.wikipedia.org/wiki/RIO_\(ディスクジョッキー\) "wikilink")
+  - [服部愛子](https://ja.wikipedia.org/wiki/服部愛子 "wikilink")
+  - [秀島史香](https://ja.wikipedia.org/wiki/秀島史香 "wikilink")
+      - 2019年9月現在、[Fm yokohamaで](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")「SHONAN by the Sea」、コンビニエンスストア [ファミリーマート](../Page/ファミリーマート.md "wikilink") インストア放送などを担当。
+  - [金子奈緒](https://ja.wikipedia.org/wiki/金子奈緒 "wikilink")
+      - 2019年9月現在、[NHK Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")『[クラシック音楽館](https://ja.wikipedia.org/wiki/クラシック音楽館 "wikilink")』ナレーションなどを担当。
+  - [今泉圭姫子](https://ja.wikipedia.org/wiki/今泉圭姫子 "wikilink")
+      - 2016年1月現在、[Fm yokohamaのDJとして](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")「Radio HITS Radio」を担当。
+  - [渡辺麻耶](https://ja.wikipedia.org/wiki/渡辺麻耶 "wikilink")
+      - 2016年1月現在、InterFMのDJとして「[Lazy Sunday](https://ja.wikipedia.org/wiki/Lazy_Sunday "wikilink")」を担当。
+  - [RYO the SKYWALKER](https://ja.wikipedia.org/wiki/RYO_the_SKYWALKER "wikilink")
+  - 羽田沙織
+  - SHUNYA
+  - [都竹悦子](https://ja.wikipedia.org/wiki/都竹悦子 "wikilink")
+  - [ヒライユミカ](https://ja.wikipedia.org/wiki/ヒライユミカ "wikilink")
+  - [矢口清治](https://ja.wikipedia.org/wiki/矢口清治 "wikilink")
+  - 磯谷祐介
+  - 田口絵未花
+  - [ケン・マスイ](https://ja.wikipedia.org/wiki/ケン・マスイ "wikilink")
+  - [橋本みのり](https://ja.wikipedia.org/wiki/橋本みのり "wikilink")
+
+### 番外
+
+  - ロボ丸
+      - 開局当時、ZIP CONTEMPORARY NIGHTにて、当時ナビゲーターだったクリス・グレンのアシスタントをしていた。この時の声の主はボビー宇野（最終回にボビー宇野自身の生声で出演）。その後、2005年にスタートした「[J-FRIDAY](https://ja.wikipedia.org/wiki/J-FRIDAY "wikilink")」の6時台を「担当」していたが（これ以降の声は、[ジェイムス・ヘイブンス](https://ja.wikipedia.org/wiki/ジェイムス・ヘイブンス "wikilink")自身が行なっていた）、1年で「降板」。ちなみに同局の公式タイムテーブルには一切クレジットされておらず、局としては「**ロボ丸はジェイムスのお遊び**」と考えていた可能性大。かつてはJフォースDの先生役の担当だった。つまりは1人で2役こなしていたということである。現在、「ZIPうた♪RADIMO」（携帯の[着うた](https://ja.wikipedia.org/wiki/着うた "wikilink")サイト）のCMに出演中。
+  - [J-FORCE R.E.D.](https://ja.wikipedia.org/wiki/J-FORCE_R.E.D. "wikilink")
+      - 2000年前後にRが13:30 - 14:00、Eが17:30 - 18:00、Dが21:30 - 22:00に放送された。コマンダと称すジェイムス・ヘイブンスとアニーと称す女性がジェイムスに突っ込みを入れる（ジェイムスのアシスタント的な存在だったが番組終盤で**軍曹**であることが判明）。Dではロボ丸と称すロボット先生と生徒と称すジェイムスとで構成。RとEは情報トーク番組、Dはコント番組のような感じで音楽よりも話す時間が多かった。いかにも3人で放送しているように聞こえるが、実はスタジオにいろいろな声が保存されて、ジェイムス1人がこれを操作していた。1年で放送が終わってしまった。
+
+## ミュージック・ナビゲーター コンテスト
+
+開局以来毎回開催。受賞者や出身者から多くのZIP-FMのミュージック・ナビゲーターや全国のラジオDJらを輩出している。
+
+### 歴代グランプリ受賞者
+
+  - 第1回（1994年度）：[金子奈緒](https://ja.wikipedia.org/wiki/金子奈緒 "wikilink")
+  - 第2回（1995年度）：平瀬マミ
+  - 第3回（1996年度）：平井貴子
+  - 第4回（1997年度）：加藤昌子(SHOKO)
+  - 第5回（1998年度）：原口雅子\[16\]\[17\]
+  - 第6回（1999年度）：[藤田琢己](https://ja.wikipedia.org/wiki/藤田琢己 "wikilink")（準グランプリ：落合健太郎）
+  - 第7回（2000年度）：[RIO](https://ja.wikipedia.org/wiki/RIO_\(ディスクジョッキー\) "wikilink")
+  - 第8回（2001年度）：[澤田修](https://ja.wikipedia.org/wiki/澤田修 "wikilink")
+  - 第9回（2002年度）：堀江美穂
+  - 第10回（2003年度）：鈴木冨美子
+  - 第11回（2004年度）：[小林拓一郎](https://ja.wikipedia.org/wiki/小林拓一郎 "wikilink")
+  - 第12回（2005年度）：栗林俊行
+  - 第13回（2006年度）：ナディア・ギフォード([Nadia](https://ja.wikipedia.org/wiki/ナディア・ギフォード "wikilink"))
+  - 第14回（2007年度）：[二階堂裕太](https://ja.wikipedia.org/wiki/二階堂裕太 "wikilink")
+  - 第15回（2008年度）：長洲あきな
+  - 第16回（2009年度）：[IRENE](https://ja.wikipedia.org/wiki/IRENE "wikilink")（準グランプリ：[白井奈津](https://ja.wikipedia.org/wiki/白井奈津 "wikilink")）
+  - 第17回（2010年度）：[MEGURU](https://ja.wikipedia.org/wiki/MEGURU "wikilink")（準グランプリ：クオン麻衣）
+  - 第18回（2011年度）：[橋本みのり](https://ja.wikipedia.org/wiki/橋本みのり "wikilink")（準グランプリ：神保公亮）
+  - 第19回（2012年度）
+  - 第20回（2013年度）：（優秀賞：[小林千鶴](https://ja.wikipedia.org/wiki/小林千鶴_\(1987年生のアナウンサー\) "wikilink")）
+  - 第21回（2014年度）：行天貴之（準グランプリ：酒井エレナ）
+  - 2015年度ミュージックナビゲーターオーディション：[永田レイナ](https://ja.wikipedia.org/wiki/永田レイナ "wikilink")、川村茉由
+  - 2016年度ミュージックナビゲーターオーディション：清里千聖、石川舜一郎、中川大輔
+  - 2017年度ミュージックナビゲーターオーディション：[神原真理](https://ja.wikipedia.org/wiki/神原真理 "wikilink")
+  - 2018年度ミュージックナビゲーターオーディション：[高木マーガレット](https://ja.wikipedia.org/wiki/高木萌香 "wikilink")
+
+## タイムテーブル
+
+番組の情報やイベント情報などを載せた小冊子「TimeTable」を毎月末に発行している。発行場所は[LACHICや東海地区主要CDショップ](https://ja.wikipedia.org/wiki/ラシック "wikilink")（[HMV](../Page/HMV.md "wikilink")、[タワーレコード](../Page/タワーレコード.md "wikilink")、[ソフマップ](https://ja.wikipedia.org/wiki/ソフマップ "wikilink")、[TSUTAYA](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")、愛曲楽器、音楽堂、[ディスクステーション](https://ja.wikipedia.org/wiki/エイデン "wikilink")、サウンドベイ、[夢屋書店](https://ja.wikipedia.org/wiki/夢屋書店 "wikilink")など）。また、郵送でも受け付けている（送料は発注者負担）。
+
+## 聴取率
+
+[聴取率](../Page/聴取率.md "wikilink")（16 - 34歳）で最新調査でも在名FM局中ナンバー1を記録している\[18\]。
+
+## SAKAE SP-RING
+
+名古屋市の繁華街、[栄の](https://ja.wikipedia.org/wiki/栄_\(名古屋市\) "wikilink")[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")で同時に行うライブイベントの**[SAKAE SP-RING](https://ja.wikipedia.org/wiki/SAKAE_SP-RING "wikilink")**（サカエスプリング、略称はサカスプ）が、ZIP-FM主催で2006年から毎年開催されている。
+
+## 脚注
+
+## 関連項目
+
+  - [FM DEPO](https://ja.wikipedia.org/wiki/FM_DEPO "wikilink") - [世界デザイン博覧会](https://ja.wikipedia.org/wiki/世界デザイン博覧会 "wikilink")限定イベント局。この局が後に当局の開局のきっかけとなる。
+  - [RADIO ON THE GO\!〜ラジオといっしょに出かけよう〜](https://ja.wikipedia.org/wiki/RADIO_ON_THE_GO!〜ラジオといっしょに出かけよう〜 "wikilink")
+  - [FM LOVEARTH](https://ja.wikipedia.org/wiki/FM_LOVEARTH "wikilink") - 愛・地球博期間限定イベント局。FM DEPOを運営した[中部日本放送](../Page/中部日本放送.md "wikilink")との共同運営。
+  - [O-Zone](https://ja.wikipedia.org/wiki/O-Zone "wikilink")
+  - [Power Of Music](https://ja.wikipedia.org/wiki/Power_Of_Music "wikilink") - JFLが毎年9月に実施したキャンペーン企画。
+
+## 外部リンク
+
+  - [ZIP-FMホームページ](https://zip-fm.co.jp)
+
+  -
+  -
+  -
+[Category:ZIP-FM](https://ja.wikipedia.org/wiki/Category:ZIP-FM "wikilink") [Category:日本民間放送連盟会員](https://ja.wikipedia.org/wiki/Category:日本民間放送連盟会員 "wikilink") [Category:日本ラジオ広告推進機構加盟局](https://ja.wikipedia.org/wiki/Category:日本ラジオ広告推進機構加盟局 "wikilink") [Category:名古屋市中区の企業](https://ja.wikipedia.org/wiki/Category:名古屋市中区の企業 "wikilink") [Category:日本のFMラジオ局](https://ja.wikipedia.org/wiki/Category:日本のFMラジオ局 "wikilink") [Category:愛知県のマスメディア](https://ja.wikipedia.org/wiki/Category:愛知県のマスメディア "wikilink") [Category:東海・北陸地方のラジオ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のラジオ局 "wikilink") [Category:1992年設立の企業](https://ja.wikipedia.org/wiki/Category:1992年設立の企業 "wikilink")
+
+1.  [ZIP-FM 公式Twitter 2019年1月22日19時19分(JST)投稿分](https://twitter.com/zip_special/status/1087912560228069376)
+2.  [「2011年個人聴取率調査報告」内「16〜34歳ZIP-FMの週間聴取人口と聴取分数 1週間98万人がZIP-FMリスナー」](http://www.zip-fm.co.jp/eigyou/Files/MARKET1041.pdf)より。
+3.  [BOYS AND MEN](https://ja.wikipedia.org/wiki/BOYS_AND_MEN "wikilink")・[MAG\!C☆PRINCE](https://ja.wikipedia.org/wiki/MAG!C☆PRINCE "wikilink")・[Da-iCE](https://ja.wikipedia.org/wiki/Da-iCE "wikilink")および[スターダスト系の一部などは除く](https://ja.wikipedia.org/wiki/スターダストプロモーション "wikilink")
+4.  作詞・作曲者による[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")などを非アイドル・サブカルチャー系扱いとしてオンエアした例はある。
+5.  また[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")のような非アイドルでありながらアイドル性の高いユニットも例外。
+6.  例外として2005年1月に発売された[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")のシングル『[友だちへ〜Say What You Will〜](https://ja.wikipedia.org/wiki/友だちへ〜Say_What_You_Will〜 "wikilink")』は[愛・地球博関連ソングということもあり](https://ja.wikipedia.org/wiki/2005年日本国際博覧会 "wikilink")、発売時に集中的にオンエアされた経緯がある。また、「アニソン ONE DAY」などでアニメソングやアニソンアーティストがゲスト出演することが稀にあった。
+7.  このこともあり、『WOW\!』では「ZIP-FM初の」という触れ込みがある。
+8.  2013年4月3日付[中日新聞](https://ja.wikipedia.org/wiki/中日新聞 "wikilink")夕刊7面（芸能）「ZIP-FMでアイドルの曲 若者へ「ワウ！」「ディギディギ」」より。
+9.
+10.
+11.
+12. 『ラジコ、東海でも配信開始』「中日新聞」朝刊15面（芸能面）2011年2月21日より。
+13. [2/15(水)サタテン×ZIP-FM コラボライブ決定\!\!](http://www.nhk.or.jp/nagoya-ds-blog/010/107496.html) - NHK名古屋放送局「でじめも。」 2012年1月31日
+14. 2016年は8:30 - 9:00を中断時間として、『ROYCE' SWEET MUSIC』（[エフエム・ノースウェーブ](../Page/エフエム・ノースウェーブ.md "wikilink")制作）を放送。
+15. 2011年4月に復帰した。
+16.
+17.
+18. [聴取率調査レポート](http://zip-fm.co.jp/company/rating.asp) - 公式ホームページ

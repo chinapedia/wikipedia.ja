@@ -1,0 +1,803 @@
+> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+
+
+**ニンテンドーDS**（ニンテンドーディーエス、*Nintendo DS*、略称：**DS**）は、[任天堂](../Page/任天堂.md "wikilink")が開発して[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）に発売した[携帯型ゲーム](../Page/携帯型ゲーム.md "wikilink")機。
+
+## 概要
+
+画面を2つ持つことや、[タッチスクリーン](https://ja.wikipedia.org/wiki/タッチパネル "wikilink")・[マイクによる](../Page/マイクロフォン.md "wikilink")[音声認識](../Page/音声認識.md "wikilink")などの操作方法（[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")）、[すれちがい通信](https://ja.wikipedia.org/wiki/すれちがい通信 "wikilink")といった通信機能を持っており、それらを利用した「[Touch\! Generations](https://ja.wikipedia.org/wiki/Touch!_Generations "wikilink")」という一連のシリーズを発売した\[1\]。
+
+[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")までの[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")（[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")）業界では、特に映像表現に関わる[ハードウェア](../Page/ハードウェア.md "wikilink")技術の発達に伴って 全体的に[ゲーム](../Page/ゲーム.md "wikilink")が画一的、マンネリ化状態に陥っており、ゲーム人口も減少傾向（[ゲーム離れ](https://ja.wikipedia.org/wiki/ゲーム離れ "wikilink")）にあったため、それを打開することが課題になっていた\[2\]。また、[マスコミなどで](../Page/マスメディア.md "wikilink")[非行](https://ja.wikipedia.org/wiki/非行 "wikilink")、[引きこもり](https://ja.wikipedia.org/wiki/引きこもり "wikilink")、[ゲーム脳](https://ja.wikipedia.org/wiki/ゲーム脳 "wikilink")など[ゲーマー](https://ja.wikipedia.org/wiki/ゲーマー "wikilink")やテレビゲームの[ネガティブ・キャンペーン](https://ja.wikipedia.org/wiki/ネガティブ・キャンペーン "wikilink")も行われていた\[3\]\[4\]\[5\]\[6\]。
+
+ニンテンドーDSは斬新な方法で新たな層の獲得にも成功した。任天堂が進めた「ゲーム人口の拡大」によって、教育や教材への活用\[7\]\[8\]や、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の誕生にも影響を与えた\[9\]\[10\]。
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月に日本国内の累計販売台数が3,000万台を突破し、[2014年](../Page/2014年.md "wikilink")現在、全世界での累計販売台数は1億5,000万台以上に及ぶ\[11\]。
+
+ニンテンドーDSで発売された一部のゲームは[Wii Uの配信サービスである](https://ja.wikipedia.org/wiki/Wii_U "wikilink")[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")で配信されている。
+
+### “DS”という名前
+
+“DS”とは“**D**ual **S**creen”の略で、折りたたみ式の本体の両側に「2つの液晶画面を持っている」という意味がある。またニンテンドーDSが最初に発表された[E3](https://ja.wikipedia.org/wiki/Electronic_Entertainment_Expo "wikilink") 2004では “**D**evelopers' **S**ystem”（開発者のためのシステム）という意味も示された\[12\]。 [開発コードは](../Page/コードネーム.md "wikilink")「**Nitro**」（ニトロ）。そのことから本体ならびに関連製品の品番には「**NTR**」が付けられている。なお、ニトロ以前に「**アイリス**」というコードネームで[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")の次の世代のゲーム機が検討されていた\[13\]。
+
+当初「DS」はあくまで仮称とされていたが、後に正式名称となった。
+
+### デザイン
+
+外見はかつての同社のゲーム機『[ゲーム&ウオッチ](../Page/ゲーム&ウオッチ.md "wikilink") マルチスクリーン』を彷彿とさせる。2画面になった理由は、[山内溥](https://ja.wikipedia.org/wiki/山内溥 "wikilink")の「2画面にしてくれ」という強いこだわりやリクエスト\[14\]。下側の液晶画面はタッチスクリーンになっている他、[マイク](https://ja.wikipedia.org/wiki/マイク "wikilink")が付き、ボタンも[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")と同様の物に加えXYボタンが追加されるなど、インターフェイス面で数多くの機能を持つ。
+
+### 互換性
+
+[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")の[CPU](../Page/CPU.md "wikilink")に使われている[ARM7TDMIをサブCPUとして搭載することで](https://ja.wikipedia.org/wiki/:en:ARM7TDMI "wikilink")、ゲームボーイアドバンス用[ソフトとの](../Page/ゲームソフト.md "wikilink")[互換性](https://ja.wikipedia.org/wiki/互換性 "wikilink")を実現している。それまでの歴代[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")シリーズにあった[Z80](../Page/Z80.md "wikilink")系の[プロセッサ](../Page/プロセッサ.md "wikilink")は搭載しておらず、ゲームボーイ用のソフトが使用できない。そのため、ゲームボーイアドバンスカートリッジスロットの内部には突起があり、[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")以前の[カートリッジを物理的に挿入できない構造になっている](../Page/ロムカセット.md "wikilink")（[ゲームボーイミクロ](https://ja.wikipedia.org/wiki/ゲームボーイミクロ "wikilink")も同様）、動きセンサーカートリッジでもプレイできる。
+
+ゲームボーイアドバンスにあった通信コネクタが装備されておらず、ゲームボーイアドバンス用ソフトの通信機能を使うことができない。同様に、ゲームボーイアドバンス用の周辺機器も基本的に使用できない。DSの[ワイヤレス通信は](../Page/無線通信.md "wikilink")、[ゲームボーイアドバンス専用ワイヤレスアダプタ](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス専用ワイヤレスアダプタ "wikilink")との通信規格が異なり、アドバンス用ソフトのワイヤレスプレイも不可能となる。
+
+ライセンス商品では、充電端子に接続する[ゲームボーイアドバンスSP](../Page/ゲームボーイアドバンスSP.md "wikilink")用の[ACアダプタ](https://ja.wikipedia.org/wiki/ACアダプタ "wikilink")と[ヘッドホン変換プラグ](https://ja.wikipedia.org/wiki/ヘッドフォン "wikilink")、そしてゲームボーイアドバンススロットに挿入する『PLAY-YAN micro』や『[プレイやん](https://ja.wikipedia.org/wiki/プレイやん "wikilink")』、『[カードe](../Page/カードe.md "wikilink")リーダー（旧型）』のみが使用可能。DS Liteのみ『カードeリーダー+』を使用できるが、通信機能は使えない。ニンテンドーDS本体に通常のヘッドホン端子があるので、ニンテンドーDSのACアダプタ用端子にゲームボーイアドバンスSP用変換プラグ経由で接続したヘッドホンと併用が可能。説明書にも「本体にヘッドホンのプラグが上手く刺さらない場合は、ゲームボーイアドバンスSP用変換プラグを使用するように」と記載されている。変換プラグとDS本体のヘッドフォン端子へ同時接続しても、多少音量が小さくなるが音は出せる。
+
+後述の後継モデルだとACアダプタのプラグ形状が異なるので、その端子を用いる機器の使用が不可能となる。
+
+<table>
+<caption>任天堂携帯用ゲーム機の互換性<br />
+（○：対応　△：限定的に対応　▲:バーチャルコンソール対応　×：非対応）</caption>
+<thead>
+<tr class="header">
+<th></th>
+<th><p><a href="../Page/ゲームボーイ.md" title="wikilink">GB</a><br />
+<a href="../Page/ゲームボーイポケット.md" title="wikilink">GBポケット</a><br />
+<a href="https://ja.wikipedia.org/wiki/ゲームボーイライト" title="wikilink">GBライト</a><br />
+<a href="https://ja.wikipedia.org/wiki/スーパーゲームボーイ" title="wikilink">スーパーGB</a></p></th>
+<th><p><a href="../Page/ゲームボーイカラー.md" title="wikilink">GBC</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/ゲームボーイアドバンス" title="wikilink">GBA</a><br />
+<a href="../Page/ゲームボーイアドバンスSP.md" title="wikilink">GBASP</a><br />
+<a href="https://ja.wikipedia.org/wiki/ゲームボーイプレーヤー" title="wikilink">GBプレーヤー</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/ゲームボーイミクロ" title="wikilink">GBM</a></p></th>
+<th><p><strong>DS</strong><br />
+<a href="https://ja.wikipedia.org/wiki/ニンテンドーDS_Lite" title="wikilink">Lite</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/ニンテンドーDSi" title="wikilink">DSi/LL</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/ニンテンドー3DS" title="wikilink">3DS/LL</a><br />
+<a href="https://ja.wikipedia.org/wiki/ニンテンドー2DS" title="wikilink">2DS</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/Newニンテンドー3DS" title="wikilink">New3DS/LL</a><br />
+<a href="https://ja.wikipedia.org/wiki/Newニンテンドー2DS_LL" title="wikilink">New2DS LL</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>GB用・GBC共通ソフト</p></td>
+<td><p>○</p></td>
+<td><p>○</p></td>
+<td><p>○</p></td>
+<td><p>×</p></td>
+<td><p>×</p></td>
+<td><p>×</p></td>
+<td><p>▲</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>GBC専用ソフト</p></td>
+<td><p>×</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>GBA用ソフト</p></td>
+<td><p>×</p></td>
+<td><p>○</p></td>
+<td><p>△</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>DS用ソフト</p></td>
+<td><p>×</p></td>
+<td><p>○</p></td>
+<td><p>△</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>DS用・DSi共通ソフト</p></td>
+<td><p>○</p></td>
+<td><p>○</p></td>
+<td><p>○</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>DSi用ソフト</p></td>
+<td><p>△</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ニンテンドーDSiウェア" title="wikilink">DSiウェア</a></p></td>
+<td><p>×</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3DS用ソフト</p></td>
+<td><p>×</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3DS・New3DS共通ソフト</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>New3DS用ソフト</p></td>
+<td><p>×</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### シリーズ
+
+[200px](https://ja.wikipedia.org/wiki/ファイル:Nintendods_series_ds_dslite_dsi.jpg "wikilink") DSシリーズには下記の3種類の互換機を含めて、全部で4種類のバリエーションが存在する。
+
+  - [ニンテンドーDS Lite](https://ja.wikipedia.org/wiki/ニンテンドーDS_Lite "wikilink")
+    日本では[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[3月2日](../Page/3月2日.md "wikilink")に発売。
+    一回り小型軽量化が図られ、バックライトの輝度も4段階に調整可能となった。性能や動作するソフトは従来のDSと変わらない。[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")に対する[ゲームボーイアドバンスSP](../Page/ゲームボーイアドバンスSP.md "wikilink")と同様の位置付けである。
+  - [ニンテンドーDSi](https://ja.wikipedia.org/wiki/ニンテンドーDSi "wikilink")
+    日本では[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[11月1日](../Page/11月1日.md "wikilink")（この日は初めて赤外線受発光部が付いたDSソフト『[歩いてわかる 生活リズムDS](https://ja.wikipedia.org/wiki/歩いてわかる_生活リズムDS "wikilink")』の発売日でもある。）、北米・欧州では[2009年](../Page/2009年.md "wikilink")（平成21年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")では**iQue DSi**という名称で2009年（平成21年）[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")では[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[4月15日](../Page/4月15日.md "wikilink")に発売。
+    新たに2つのカメラや[SDメモリーカード](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")スロット、容量が256MBの[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")を搭載。フラッシュメモリを搭載したことで、[ニンテンドーDSiウェア](https://ja.wikipedia.org/wiki/ニンテンドーDSiウェア "wikilink")と呼ばれるツールソフトやゲームソフトをインターネットを利用して本体に追加できるようになった。[CPU](../Page/CPU.md "wikilink")の性能が向上し、[メインメモリの容量も増加した](../Page/主記憶装置.md "wikilink")。液晶サイズの拡大、スピーカーの音質向上、無線通信機能の高速化など細かい点も強化された。[GBAスロットが廃止され](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")、液晶画面のサイズが3インチから3.25インチに変更された。大きさ・重さも変わり、バッテリー持続時間が全体的に2 - 3割減となった。
+    なお、カメラなど以前のDSでは搭載していなかったものが追加され、CPUの性能などの内部仕様が変わったため、以前のDSではプレイできない「**ニンテンドーDSi専用**ソフト」や、DSi（3DS・2DS・New 3DS）でないと使えないモード（カメラなど）が含まれている「*ニンテンドーDSi対応*ソフト」が登場した（従来のDSでもプレイは可能）。[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")（ポケット・ライト含む）に対する[スーパーゲームボーイ](https://ja.wikipedia.org/wiki/スーパーゲームボーイ "wikilink")と[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")の位置付けに似ている。
+    一方でGBAスロットが廃止された関係で、GBAスロットを拡張スロットとして外部周辺機器を併用していた一部のDSソフトがプレイ不可能になった。仕様の変更によって旧来のソフトが使用できなくなるというのは任天堂ハードでは非常に珍しい事例である。
+  - [ニンテンドーDSi LL](https://ja.wikipedia.org/wiki/ニンテンドーDSi "wikilink")
+    日本では2009年（平成21年）[11月21日](../Page/11月21日.md "wikilink")、欧州では[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[3月5日](../Page/3月5日.md "wikilink")、北米では2010年（平成22年）[3月28日](../Page/3月28日.md "wikilink")に発売された。
+    ニンテンドーDSiに比べて、液晶画面と本体のサイズが大きくなったモデルであり、ニンテンドーDSiの追加ラインナップという位置付けである。性能や機能はニンテンドーDSiと変わらないため、ニンテンドーDSiで使用できるソフトや機能は全て利用可能。
+
+### ゲームボーイシリーズとの関連
+
+[thumbのスロット比較](https://ja.wikipedia.org/wiki/ファイル:GBAandDS_SlotCompare.jpg "wikilink")。DSの方には突起がある\]\] DSは[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")（以下GBA）の「後継機」ではなく、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、GBAに次ぐ、当時の任天堂の**第3の柱**をうたい、全く一から開発され、系図でも完全に一から立ち上がった全く新しいゲーム機である。しかし後にGBAの後継機案から派生したものだということも明かされている。
+
+だがDSが瞬く間に普及し、DSの後に発売されたGBAの互換機である[ゲームボーイミクロ](https://ja.wikipedia.org/wiki/ゲームボーイミクロ "wikilink")の売り上げも伸びず、任天堂を含む多くのメーカーはDSに注力する結果となった。また、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）の[E3で](https://ja.wikipedia.org/wiki/Electronic_Entertainment_Expo "wikilink")「GBAの後継機（新型ゲームボーイ）はしばらく無い」との発表がされた。DS発売前より開発がすすめられていた『[MOTHER3](https://ja.wikipedia.org/wiki/MOTHER3 "wikilink")』『[リズム天国](https://ja.wikipedia.org/wiki/リズム天国 "wikilink")』など、末期のGBA用ソフトの店頭POPなどでは、DSでも使用可能であることが表記されていたり、CMなどでも該当ソフトをDSでプレイしているシーンを挿入したりして、DSでもプレイ可能であることを示していた。
+
+その後、2006年（平成18年）[11月30日](../Page/11月30日.md "wikilink")発売の『[ファイナルファンタジーVI](https://ja.wikipedia.org/wiki/ファイナルファンタジーVI "wikilink")アドバンス』以後、日本ではGBA用ソフトの新作は発売されていない。また日本以外でもGBAからDSへユーザーをシフトさせる旨を明確にしている。結果的にGBAの市場は急速に縮小し、DSは実質上「新型ゲームボーイ」「GBAの後継機」のような形となった。その後DSの直系の後継機となる[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")も発売され、任天堂の携帯ゲーム機市場は完全にDSの系列に一本化されることになった。
+
+## 機能
+
+ニンテンドーDSには次のような機能がある。
+
+### 入力・出力関連
+
+  - ダブルスクリーン
+    [バックライト](https://ja.wikipedia.org/wiki/バックライト "wikilink")付きの26万色表示可能な3インチ[液晶](../Page/液晶.md "wikilink")画面が2つ搭載されており、今までのゲームでは画面やモードを切り替えないと見ることができなかった情報を別の画面に表示できるなど、様々なことが可能となる。ちなみにDSiでは画質の向上はなかったが、画面サイズを3.25型に変更した。
+    [インタレース表示のため](https://ja.wikipedia.org/wiki/インターレース "wikilink")、表示内容（スクロールや点滅など）によっては縞模様が見えることがある。なお、DSiでは縞模様が見えないようになっている。
+  - タッチスクリーン
+    下画面にのみ抵抗膜方式透明アナログタッチスクリーン（[タッチパネル](https://ja.wikipedia.org/wiki/タッチパネル "wikilink")）機能がついており、附属のタッチペンやタッチストラップ、指などで画面に直接触れることで操作ができる。ただし、指でのタッチは画面に指紋や傷がつく恐れがあるため、公式には止めたほうがよいとされている。また、シャープペンシル、ボールペンなどでのタッチも避けた方がよい。『[タッチ\!カービィ](https://ja.wikipedia.org/wiki/タッチ!カービィ "wikilink")』や[ゼルダの伝説シリーズ](../Page/ゼルダの伝説シリーズ.md "wikilink")の『[夢幻の砂時計](https://ja.wikipedia.org/wiki/ゼルダの伝説_夢幻の砂時計 "wikilink")』『[大地の汽笛](https://ja.wikipedia.org/wiki/ゼルダの伝説_大地の汽笛 "wikilink")』など、すべてタッチペンのみで操作するゲームも存在する。なおこのタッチスクリーン自体にはTSC2046という温度センサーを内蔵しているが、ゲーム内容に利用されることはない。
+  - 音声認識
+    DS本体に内蔵された[マイクによって](../Page/マイクロフォン.md "wikilink")、音声を発してゲームに反映させることも可能である。『[東北大学未来科学技術共同研究センター川島隆太教授監修 脳を鍛える大人のDSトレーニング](https://ja.wikipedia.org/wiki/東北大学未来科学技術共同研究センター川島隆太教授監修_脳を鍛える大人のDSトレーニング "wikilink")』では音声を使用するトレーニングが可能。『[ポケットモンスター ダイヤモンド・パール](https://ja.wikipedia.org/wiki/ポケットモンスター_ダイヤモンド・パール "wikilink")』などではボイスチャットが可能。
+    また、『[New スーパーマリオブラザーズ](https://ja.wikipedia.org/wiki/New_スーパーマリオブラザーズ "wikilink")』など、マイクに息を吹きかける時の音を拾って操作に取り入れているソフトもある。
+
+### 通信関連
+
+  - ネットワーク通信
+    [IEEE 802.11対応の](https://ja.wikipedia.org/wiki/IEEE_802.11 "wikilink")[無線LAN](../Page/無線LAN.md "wikilink")が内蔵されており、市販の[無線LANアクセスポイントや](../Page/アクセスポイント_\(無線LAN\).md "wikilink")[ニンテンドーWi-Fi USBコネクタを使用して](https://ja.wikipedia.org/wiki/ニンテンドーWi-Fi_USBコネクタ "wikilink")、任天堂の[ニンテンドーWi-Fiコネクション](https://ja.wikipedia.org/wiki/ニンテンドーWi-Fiコネクション "wikilink")が利用可能である。暗号化はWEPのみ対応。ただし[Wi-Fi](../Page/Wi-Fi.md "wikilink")認証はされていない\[15\]。
+  - ワイヤレス通信
+    [通信ケーブルや](https://ja.wikipedia.org/wiki/通信ケーブル_\(ゲームボーイ\) "wikilink")[ワイヤレスアタプタなどの周辺機器を使わずに多人数の通信プレイ](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス専用ワイヤレスアダプタ "wikilink")「**DSワイヤレスプレイ**」が可能。最高で通信可能な人数はソフトによって異なり、中でも『[大合奏\!バンドブラザーズ](https://ja.wikipedia.org/wiki/大合奏!バンドブラザーズ "wikilink")』は人数分の本体とソフトがあれば参加可能な人数は無制限となっている。
+    またソフトによっては、ゲームボーイアドバンスと同様にソフト1つだけで遊ぶ「**[DSダウンロードプレイ](https://ja.wikipedia.org/wiki/ゲームシェアリング "wikilink")**」が可能。
+    対戦・協力プレイの他、**[ピクトチャット](https://ja.wikipedia.org/wiki/ピクトチャット "wikilink")**という内蔵チャットでの通信も可能。また、**[すれちがい通信](https://ja.wikipedia.org/wiki/すれちがい通信 "wikilink")**という通信機能も持っている。
+  - [赤外線](../Page/赤外線.md "wikilink")通信
+    赤外線通信に対応したソフトでは、DSカードに搭載された赤外線ポートによって同梱の周辺機器とデータなどをやり取りすることができる。
+
+### その他の機能
+
+  - 時計機能
+    ソフト交換型の任天堂の携帯ゲーム機としては初めて、[時計](../Page/時計.md "wikilink")機能を内蔵している。それまで[カートリッジに搭載されていた](../Page/ロムカセット.md "wikilink")[RTC機能を省くことが可能となり](https://ja.wikipedia.org/wiki/リアルタイムクロック "wikilink")、長期間の使用によるRTC用バッテリー切れによる時計機能の停止という不安要素が取り除かれた。
+    前回プレイ時からの経過時間や時刻などで異なったメッセージ表示を行うソフトがある。また、誕生日には開始アラーム音が高めの音になる。なお、内蔵ソフトにはアラーム機能もあるが、[ネオジオポケット](https://ja.wikipedia.org/wiki/ネオジオポケット "wikilink")シリーズのような指定時刻に自動的に電源ONを行う機能はない。
+  - 設定保存機能
+    本体内にいくつかの設定データが保存されるようになっている。ユーザー名や誕生日、タッチ位置補正、ソフトの起動方法などのほか上記の無線LANの設定も本体に保存され、一度設定すれば他のソフトを使った際も再設定の必要なく接続ができるようになる。ソフトによってはユーザー名や[誕生日](https://ja.wikipedia.org/wiki/誕生日 "wikilink")などの設定もゲーム内で活用される。
+  - パワーマネジメント機能
+    本体の開閉に連動した省電力機能が用意されていて、電源ONの状態でも本体を閉じるとバックライトが消灯する 。ABXYボタンの中央にセンサーがあり、スピーカーの磁気で開閉を検知している。
+    本体開閉はソフトからも感知できるので、それに合わせてSEを出したり、動作を休止することも可能。ただしバックライト消灯以外の対応はソフト側に任されており、非対応の（本体を閉じても動き続ける）ものもある。また、本体開閉の感知を省電力以外の目的に用いるソフトも存在する。
+    また、ソフトによってはプレイ中でもバックライトの消灯が可能。
+  - ダブルスロット
+    DS専用ソフトと[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")（GBA）専用ソフトの2つのスロットがある。タイトルによってはGBA用ソフトが挿入されていることを認識して、DS用ソフト内のROMに記憶された特定のデータが使用できたり、DSソフトとGBAソフトとの間でデータのやりとりをしたりすることができる。
+    また、GBA用スロットに挿入するDS専用の周辺機器も存在する。データ追加やメモリ拡張のほか、『[オシャレ魔女 ラブandベリー DSコレクション](https://ja.wikipedia.org/wiki/オシャレ魔女_ラブandベリー#オシャレ魔女♥ラブandベリー〜DSコレクション〜 "wikilink")』のカードリーダーや『[ニンテンドーDSブラウザー](https://ja.wikipedia.org/wiki/ニンテンドーDSブラウザー "wikilink")』の拡張カートリッジのような、プレイに不可欠な周辺機器がソフトに附属している場合もある。
+    DSでGBA用のソフトをプレイする際、上下どちらの画面に表示するかを選ぶことができる。GBA専用ソフトのスロットは[ゲームボーイアドバンスSP](../Page/ゲームボーイアドバンスSP.md "wikilink")同様プレイヤーから見て本体手前側にあるため、『[ヨッシーの万有引力](https://ja.wikipedia.org/wiki/ヨッシーの万有引力 "wikilink")』や『コロコロパズル ハッピィパネッチュ\!』では特定のコマンド\[16\]によりゲームボーイアドバンスSP用の設定にしておく必要がある。また、『[ポケットモンスター ダイヤモンド・パール・プラチナ](https://ja.wikipedia.org/wiki/ポケットモンスター_ダイヤモンド・パール "wikilink")』と『[ポケットモンスター ハートゴールド・ソウルシルバー](https://ja.wikipedia.org/wiki/ポケットモンスター_ハートゴールド・ソウルシルバー "wikilink")』では[ダブルスロット機能を使ってGBA版シリーズから各作品にポケモンを送ることもできる](https://ja.wikipedia.org/wiki/ポケットモンスター_\(ゲーム\)#パルパーク "wikilink")。
+    なおDSi、DSiLL、3DSではGBA専用スロットが廃止されたため、ダブルスロットおよびGBA専用スロットを用いた周辺機器には対応していない。
+
+## 仕様
+
+  - [CPU](../Page/CPU.md "wikilink")：[ARM](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")946E-S　 67 MHz（メイン） ＋ ARM7TDMI　 33 MHz（サブ [ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")向けソフトとの互換にも用いられる）
+  - [メモリ](../Page/記憶装置.md "wikilink")：4MB
+  - [VRAM](../Page/VRAM.md "wikilink")：656KB（0.65MB）
+  - 画面：3インチ（対角）半透過反射型バックライト付き[TFTカラー](https://ja.wikipedia.org/wiki/薄膜トランジスタ "wikilink")[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink") × 2枚
+      - 解像度：256×192、26万色表示
+      - 下画面に抵抗膜方式透明アナログタッチパネル付
+  - ROM：[メガチップス](https://ja.wikipedia.org/wiki/メガチップス "wikilink")社製の独自規格マスクROMとゲームデータ記録用の[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")。現在市販されているDSカードで最大容量のものは4Gbit（512MB）。
+  - 3D描画：120,000[ポリゴン](../Page/ポリゴン.md "wikilink")/秒
+      - [ジオメトリエンジン](https://ja.wikipedia.org/wiki/ジオメトリエンジン "wikilink")
+      - 16bit[Zバッファ](https://ja.wikipedia.org/wiki/Zバッファ "wikilink")
+      - Wバッファ
+      - 1bitステンシルバッファ
+      - [アルファブレンディング](https://ja.wikipedia.org/wiki/アルファブレンド "wikilink")
+      - [アンチエイリアシング](https://ja.wikipedia.org/wiki/アンチエイリアス "wikilink")
+      - [フォグ](https://ja.wikipedia.org/wiki/フォグ "wikilink")
+      - [テクスチャマッピング](https://ja.wikipedia.org/wiki/テクスチャマッピング "wikilink")
+          - パースペクティブ補正
+          - [環境マッピング](https://ja.wikipedia.org/wiki/環境マッピング "wikilink")
+          - バイリニア・フィルタリング
+          - トライリニア・フィルタリング
+          - シャドウマッピング／シャドウボリューム
+          - [ミップマップ](https://ja.wikipedia.org/wiki/ミップマップ "wikilink")
+          - ライトマッピング
+      - [フラットシェーディング](https://ja.wikipedia.org/wiki/シェーディング "wikilink")／[グーローシェーディング](https://ja.wikipedia.org/wiki/グーローシェーディング "wikilink")／[フォンシェーディング](https://ja.wikipedia.org/wiki/フォンシェーディング "wikilink")
+      - [セルシェーディング](https://ja.wikipedia.org/wiki/トゥーンレンダリング "wikilink")
+  - 2D描画：30,000,000[ドット](https://ja.wikipedia.org/wiki/ドット "wikilink")/秒
+      - [スプライト](../Page/スプライト_\(映像技術\).md "wikilink")：8×8、16×16、32×32、64×64ドットのいずれか2種類を選択。画面上に最大128枚表示可能。垂直または水平反転、拡大縮小、回転機能付き。
+      - [BG面](../Page/背景.md "wikilink")
+      - [ラスタースクロール](https://ja.wikipedia.org/wiki/ラスタースクロール "wikilink")
+  - 入力：十字キー+6ボタン（A/B/X/Y/L/R）+START/SELECTボタン+[タッチスクリーン](https://ja.wikipedia.org/wiki/タッチパネル "wikilink")+[マイク](../Page/マイクロフォン.md "wikilink")（音声入力用）
+  - 通信機能：[IEEE 802.11および任天堂独自プロトコルに対応](https://ja.wikipedia.org/wiki/IEEE_802.11 "wikilink")
+      - 無線通信による1カートリッジ対戦プレイ可能
+      - 内蔵ソフト[ピクトチャット](https://ja.wikipedia.org/wiki/ピクトチャット "wikilink")使用で最大16台のDS間で文字や絵をワイヤレスでやり取りすることが可能
+      - [ワイヤレスLAN接続ポイントへ接続することにより](../Page/無線LAN.md "wikilink")[ネットワーク通信も可能](https://ja.wikipedia.org/wiki/#ネットワーク通信 "wikilink")。
+  - 電源：内蔵[リチウムイオンバッテリー](https://ja.wikipedia.org/wiki/リチウムイオン二次電池 "wikilink")（3.7V/850mAh）、附属ACアダプタ（[ゲームボーイアドバンスSP](../Page/ゲームボーイアドバンスSP.md "wikilink")附属のACアダプタも使用可能）、パワーマネジメント機能搭載（DS用ソフト使用時のみ）
+  - サウンド：[ステレオ](../Page/ステレオ.md "wikilink")スピーカー内蔵
+      - 最大同時発音数16音
+      - ソフトによりバーチャルサラウンドが使用可能
+      - サンプリング周波数は32,730Hz程度
+  - サイズ：84.7×148.7×28.9mm
+  - 重量：約275g
+
+## 売上・変遷
+
+### 2003年
+
+  - [2003年](../Page/2003年.md "wikilink")（平成15年）[8月](../Page/8月.md "wikilink")、任天堂は今までとは異なる異質な商品を開発していることを発表した。
+
+### 2004年・2005年
+
+  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）[9月20日](../Page/9月20日.md "wikilink")、任天堂により発売日の発表が行われた。北米では2004年（平成16年）[11月21日](../Page/11月21日.md "wikilink")に149.99ドル\[17\]、日本では2004年（平成16年）[12月2日](../Page/12月2日.md "wikilink")に15,000円、オーストラリアでは[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に199.95豪ドル\[18\]。
+  - 日本での発売前は、当初は多数の販売店で予約終了が見られるなど良好な前評判とともに品薄の様相を見せたが、その後初期出荷分が増産されて十分な台数が揃い発売される。10日後の[12月12日](../Page/12月12日.md "wikilink")に発売されたライバル機[PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")（PSP）の生産体制が遅れたのも重なり、年末商戦でも好調な売り上げを見せ、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）4月中期までに200万台を突破するという順調な滑り出しを見せた。米国では発売後1か月で100万台を出荷、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）12月末時点で日米の累計は280万台となった。
+  - 2005年（平成17年）[11月23日](../Page/11月23日.md "wikilink")、「ニンテンドーWi-Fiコネクション」対応ソフトの第1弾『[おいでよ どうぶつの森](https://ja.wikipedia.org/wiki/おいでよ_どうぶつの森 "wikilink")』が日本で発売。
+    祝日発売だったこともあり、2日で35万本を売り上げ、本体の売り上げも前週の6万台から16万台にまで押し上げる大ヒットとなった。その後『おいでよ どうぶつの森』は234万本売り上げ、2005年度（平成17年度）ゲームソフト販売数トップとなった。
+    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）の時点で出荷数は300万本を突破し、[1994年](../Page/1994年.md "wikilink")（平成6年）の『[スーパードンキーコング](https://ja.wikipedia.org/wiki/スーパードンキーコング "wikilink")』以降、[ドラゴンクエストシリーズ](../Page/ドラゴンクエストシリーズ.md "wikilink")、[ファイナルファンタジーシリーズ](https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズ "wikilink")、[ポケットモンスター](https://ja.wikipedia.org/wiki/ポケットモンスター "wikilink")シリーズ以外のタイトルで久々の300万本突破を達成した。同年7月には実売で300万本を突破。前記の3シリーズ以外では『[テトリス](https://ja.wikipedia.org/wiki/テトリス "wikilink")』以来の実売300万本突破タイトルとなった。
+  - 2005年（平成17年）[12月8日](../Page/12月8日.md "wikilink")、第2弾『[マリオカートDS](https://ja.wikipedia.org/wiki/マリオカートDS "wikilink")』が日本で発売され、平日にも関わらず初日で16万本を売り上げる大ヒットとなり、DSの売り上げを週販約29万台まで押し上げることになった。
+  - 2005年（平成17年）[12月26日](../Page/12月26日.md "wikilink")、任天堂は「ニンテンドーDS Touch\!Generations新作ソフト記者発表会」を行い、その中で日本でのDS販売台数が500万台を突破したと発表した。さらに『[nintendogs](https://ja.wikipedia.org/wiki/nintendogs "wikilink")』『[東北大学未来科学技術共同研究センター川島隆太教授監修 脳を鍛える大人のDSトレーニング](https://ja.wikipedia.org/wiki/東北大学未来科学技術共同研究センター川島隆太教授監修_脳を鍛える大人のDSトレーニング "wikilink")』『[やわらかあたま塾](https://ja.wikipedia.org/wiki/やわらかあたま塾 "wikilink")』『おいでよ どうぶつの森』『マリオカートDS』の5本が共に100万本を越える販売本数に達したとも発表した。
+    これは14か月強の[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")（GBA）、17か月の[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（PS2）を抜いて史上最速の500万台突破である。
+  - 2005年（平成17年）12月末時点で日本での出荷台数は544万台、全世界での販売台数は2005年（平成17年）末時点で1300万台に達した。特に2005年末から2006年（平成18年）始めにかけて日本ではクリスマス・お年玉商戦の好調を反映して品切れする店舗が続出し、12月の第4週と1月の第1週の間に100万台の売り上げを記録。これらは世界的に見ても驚異的なハイペースで、ゲーム機史上空前の大ヒットとなっている。2005年度（平成17年度）の日本での実販売数は432万台（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")調べ）となっている。
+
+### 2006年
+
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")のカンファレンスで、日本での販売台数が600万台を突破し、ミリオンセラータイトルが7本になったと発表。
+  - [3月2日](../Page/3月2日.md "wikilink")の[ニンテンドーDS Lite発売に際しては](https://ja.wikipedia.org/wiki/ニンテンドーDS_Lite "wikilink")、前日深夜から行列に並ぶ人が出るなど客が殺到しニュースにもなった。DS自体の品不足が響き、数をそろえられない店や入荷自体が出来ない店、便乗値上げをして販売する店や大量に入手して[インターネットオークション](https://ja.wikipedia.org/wiki/インターネットオークション "wikilink")などに出品し荒稼ぎする者などが続出した。
+    この事態を重く見た任天堂はウェブサイトに「3月分のDSの出荷量を20万台、DS Liteの出荷量を45万台、計65万台とする」という告知を行い顧客の品薄への理解を求め、さらに本体と同時購入が予想される『Touch\! Generations』シリーズの一部の発売を4月下旬まで延期して需要の分散を狙う処置を執った。
+    4月中に出荷したDS Liteの台数は80万台、その後はさらに出荷台数を上げている。なお、北米では6月に発売された。
+  - DS Lite発売後も、従来型のDSは並行して販売される予定となっていたが、慢性的な日本での品不足および、北米・欧州などでもDS Liteの発売が始まったことも有り、生産ラインのほとんどはDS Liteにシフトされ、従来のDSの出荷台数は大幅に減少した。そして2006年（平成18年）夏ごろから従来型のDSの生産は行われていない。
+  - 任天堂の予想を上回る勢いの販売数で、2006年（平成18年）6月時点で日本で900万台を突破。7月末、発売後20か月で日本実売数1,000万台を突破した。これはGBAの30か月、PS2の32か月を大幅に上回り、同国のゲーム機史上最短記録である。
+  - 2006年（平成18年）8月末には、DS Liteの実売数が、2004年（平成16年）12月12日に発売されたPSPの実売数を、発売後26週で上回った。
+  - 2006年（平成18年）[9月28日](../Page/9月28日.md "wikilink")に日本で発売された『[ポケットモンスター ダイヤモンド・パール](https://ja.wikipedia.org/wiki/ポケットモンスター_ダイヤモンド・パール "wikilink")』は、発売4日で158万本の売り上げを記録（2バージョンの合計）し、当時のDSソフト史上最速のミリオンセラーを達成した\[19\]。これによってDS本体の品薄にさらに拍車をかける要因となった。
+  - メディアクリエイトによると、[PlayStation 3の発売週には](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、PS3が81,639台に対してDSが148,174台販売したとされ、次世代据え置きハードにも週間販売数で勝り、一部で話題となった。これはPS3の生産数自体が少なかったことも原因ではあるが、それ以上にDS人気の安定した強さを示した結果といえる（と同時に、PS3の立ち上げに多大なる悪影響を及ぼすことにもなった）。
+  - 2006年（平成18年）12月、[スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")は[ドラゴンクエストシリーズ](../Page/ドラゴンクエストシリーズ.md "wikilink")のナンバリングタイトル作品『[ドラゴンクエストIX 星空の守り人](https://ja.wikipedia.org/wiki/ドラゴンクエストIX_星空の守り人 "wikilink")』を、DS対応で発売すると発表。同社は同シリーズを「最も普及しているハードで出す」とコメントしており、従来据え置き機でしか発売されてこなかったビッグタイトルを携帯機で発表したことは、DS人気の高さと、携帯型が据え置き型以上に普及していることを示している。
+  - 「[日経トレンディ](https://ja.wikipedia.org/wiki/日経トレンディ "wikilink")」が選ぶ "2006年ヒット商品ベスト30" の1位にDS Liteおよび鍛脳ゲームが選ばれ、新聞・テレビなど各メディアでも取り上げられた。
+  - 2006年度（平成18年度）の日本での販売台数は930万台（エンターブレイン調べ）となった。
+
+### 2007年
+
+  - 『[nintendogs](https://ja.wikipedia.org/wiki/nintendogs "wikilink")』の売り上げが全世界で1,000万本を突破し、全世界でDSブームが起こっていることを証明した。
+  - エンターブレインは[3月2日](../Page/3月2日.md "wikilink")、DSの日本での販売台数が1,500万台を突破したことを発表した。発売から115週での達成はPS2の発売220週目の約2倍のペースで、改めて好調ぶりが浮き彫りとなった。
+  - 129週で日本での販売台数が1,700万台を突破をしたことが明らかになった\[20\]。
+  - 前年の年末商戦から生産体制を月産160万台から過去に例のない月産250万台に引き上げを維持して、それでもこの時点の需要に追いつかなかった\[21\]。
+  - 前年までの日本では、DSは任天堂製ソフトが売上の大部分を占めていたが、この年からサードパーティー製ソフトも売り上げが伸び始めてシェア4割を突破した\[22\]。
+
+### 2008年
+
+  - エンターブレインの[1月7日](../Page/1月7日.md "wikilink")の発表によれば、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）11月下旬から12月までの約1か月間のDS Liteの販売台数は100万台を突破、旧型DSを合わせた日本での累計販売台数が2,110万台となった。これは同時点でのPS2の累計販売台数2,106万台を上回り、日本では現時点で[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")に次いでDSが2番目に売れたゲーム機となった。なお、任天堂の[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）3月期の決算短信によれば、世界累計で7,060万台を販売している。
+  - 『[マリオカートDS](https://ja.wikipedia.org/wiki/マリオカートDS "wikilink")』、『[おいでよ どうぶつの森](https://ja.wikipedia.org/wiki/おいでよ_どうぶつの森 "wikilink")』、『[New スーパーマリオブラザーズ](https://ja.wikipedia.org/wiki/New_スーパーマリオブラザーズ "wikilink")』など、発売から2年以上の月日が経過しているにも関わらず、売り上げ本数を着実に伸ばしているソフトも数多く見られる。
+  - 2008年（平成20年）になってからは市場に行き渡ってきたためか、本体の販売台数がやや鈍化し、週間販売台数が『[モンスターハンター](https://ja.wikipedia.org/wiki/モンスターハンター "wikilink")』シリーズなどで販売台数が増加したPSPを下回っていたが、夏ごろからはDSが再逆転し、年間販売台数403万台で首位の座を維持した\[23\]。
+  - 11月1日に発売された[ニンテンドーDSi](https://ja.wikipedia.org/wiki/ニンテンドーDSi "wikilink")の初回出荷分20万台は多くの店では1 - 2日、最長でもわずか4日で完売し、8週目にして販売数100万台を突破した。
+  - この頃より日本では、前述した『モンスターハンター』シリーズの件もあって、Wiiとその他の据え置き型ハードの構図と同様に、新規参入ユーザーや大学生や社会人、20歳代以上の従来層ユーザー・ヘビーユーザーなどはニンテンドーDS、主に10歳代はPSPの傾向という構図が携帯ゲーム市場でも出来上がってくる。
+  - 米国では2008年（平成20年）12月に304万台を売り上げ、ゲーム史上最高の月間販売台数を記録した。また2008年（平成20年）年間販売台数は995万台を記録し、2007年（平成19年）に自身が記録した852万台を超えた。しかしWiiが1,022万台を売上げたため、年間販売台数2位となった\[24\]。
+  - 欧州では米国をさらに上回る売り上げとなった。年間販売台数830万台を記録し欧州市場での据置型ゲーム機の年間販売台数史上最多となったWiiをさらに上回る1,120万台を記録し、欧州のゲーム機年間販売台数の最高記録を更新した\[25\]。
+
+### 2009年
+
+  - 1月に、発売から4年で日本での販売数が2,500万台を突破したことが発表された\[26\]。1月29日には、3月末には世界累計1億台を突破する見通しである事が発表された\[27\]。
+  - 2008年（平成20年）で述べた『マリオカートDS』などロングランとなったタイトルが尚も売り上げを伸ばし続ける。特に『おいでよ どうぶつの森』はWiiで発売された続編『[街へいこうよ どうぶつの森](https://ja.wikipedia.org/wiki/街へいこうよ_どうぶつの森 "wikilink")』よりも売り上げが勝る週が多いという状態となり、2月には売上500万本を突破した。
+  - 3月6日には上記の予想よりも早く、また家庭用ビデオゲーム機としては4年3か月と2週間という最速ペースで、世界累計1億台を突破した事を発表した\[28\]\[29\]。その後も売り上げを伸ばし、2009年（平成21年）末には累計1億2,513万台を記録、ニンテンドーDSは世界市場でも史上もっとも多く売れたハードとなった。
+  - 上半期のゲーム市場は世界的に見ても携帯・据置を通してヒット作に恵まれずニンテンドーDSも鈍化を余儀なくされたが、それでもハード売り上げで首位を維持し、ゲームも上半期の国内売上1位が『[マリオ&ルイージRPG3\!\!\!](https://ja.wikipedia.org/wiki/マリオ&ルイージRPG3!!! "wikilink")』になるなど、市場でなお存在感を見せる。
+  - 2006年（平成18年）に発表されていた『ドラゴンクエストIX 星空の守り人』が一回の延期を挟みながらも[7月11日](../Page/7月11日.md "wikilink")に発売される。出荷は2日間で300万本で、売り上げは234万本というシリーズ最高のペースを記録（DS用ソフトとしても、1バージョンのみのタイトルで最高記録となる）。その後も好調に売れ続け12月には出荷本数が415万本を突破し、同シリーズ最高記録を達成した\[30\]。同時期に出た『[トモダチコレクション](https://ja.wikipedia.org/wiki/トモダチコレクション "wikilink")』や約2か月後に出た『[ポケットモンスター ハートゴールド・ソウルシルバー](https://ja.wikipedia.org/wiki/ポケットモンスター_ハートゴールド・ソウルシルバー "wikilink")』のヒット（発売初週2日間で約140万本の売り上げを記録）なども重なって、ニンテンドーDSiの売り上げ増加も見られた。最終的にこれらのタイトルは日本での年間売り上げ本数の第1位、4位、2位となっている。なお、3位は『[New スーパーマリオブラザーズ Wii](https://ja.wikipedia.org/wiki/New_スーパーマリオブラザーズ_Wii "wikilink")』である。
+  - ニンテンドーDSiの新バリエーションである[ニンテンドーDSi LLが](https://ja.wikipedia.org/wiki/ニンテンドーDSi#ニンテンドーDSi_LL "wikilink")[11月21日](../Page/11月21日.md "wikilink")に発売された。売り上げは2日で約10万4,000台を記録した\[31\]。
+  - 最終的な日本での年間販売台数は、DSの全バリエーション合計でおよそ402万台（エンターブレイン調べ）となり、5年連続してハード販売台数首位となった。
+      - 北米では更に売り上げの増加が進み、最終的な年間販売台数はおよそ1,122万台となり、前年のWiiをも上回る北米ゲーム市場で史上最高の年間販売台数を記録した\[32\]。欧州では2007年（平成19年）、2008年（平成20年）よりも減少したが、それでも優勢を維持した。一方でソフトは同年の日本市場と異なり、一定の売り上げはあったものの記録的な大ヒットは登場せず、ソフト売り上げの大幅な増加は無かった 。
+
+### 2010年
+
+  - 3月に日本国内の累計売り上げ台数が3,000万台を突破する（エンターブレイン調べ）\[33\]。日本でのゲームハードの3,000万台越えはゲームボーイシリーズ以来となる。
+  - [3月23日](../Page/3月23日.md "wikilink")、次世代型携帯ゲーム機となる「[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")」が発表される。詳細は当該記事を参照。
+  - 3月末時点の全世界累計販売台数が1億2,889万台となり、ゲームボーイを抜いて携帯型ゲーム機売り上げ世界歴代1位になったことが発表された\[34\]。
+  - 6月19日にDSiLLの新カラーが発売されるとともに、DSiとDSiLLの価格がそれぞれ15,000円と18,000円に値下げされる\[35\]。それまではLite・i・iLLと上位機種発売によって事実上の値上げが続いていたニンテンドーDSシリーズで値下げとなる。
+  - 9月18日に発売された『[ポケットモンスター ブラック・ホワイト](https://ja.wikipedia.org/wiki/ポケットモンスター_ブラック・ホワイト "wikilink")』が2日間で約263万本（任天堂の発表では255万本）の売り上げを記録、シリーズ最高であると共に日本国内のゲームソフト初週売り上げ歴代最高記録となった\[36\]。
+  - 前年のような記録的ヒットが少なかったことや次世代型携帯ゲーム機のニンテンドー3DSがすでに発表されていたことでそれまでの年からハード販売台数がかなり減少したが、最終的な年間売り上げ台数はエンターブレイン発表で296万3,709台となり、売り上げ2位のPSP（289万476台）をわずかに上回り、同社調査では6年間続いて国内の年間ハード売り上げ首位となっている\[37\]。ただし備考として、同じく集計機関でもメディアクリエイトでの調査ではPSPが若干上回っていると発表されている。
+
+### 2011年
+
+  - [2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink")にニンテンドー3DSが日本で発売され（北米・欧州・豪州では3月発売）、ゲームハードとしての世代交代を迎える。
+  - [3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に累計販売台数が3,254万台に達し、これまでの携帯型ゲーム機国内1位の売り上げだったゲームボーイの累計出荷台数3,247万台を上回った。
+
+### 2012年
+
+  - [6月25日](../Page/6月25日.md "wikilink") 、[6月23日](../Page/6月23日.md "wikilink")に発売された『[ポケットモンスターブラック2・ホワイト2](https://ja.wikipedia.org/wiki/ポケットモンスター_ブラック・ホワイト#ポケットモンスター_ブラック2・ホワイト2 "wikilink")』がわずか2日間でミリオンセラーを達成。3DS発売後において唯一のミリオンセラーとなった。
+  - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に『[特命戦隊ゴーバスターズ](https://ja.wikipedia.org/wiki/特命戦隊ゴーバスターズ "wikilink")』を最後に国内での新作DSパッケージソフトの供給を終了した。
+  - [12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")にニンテンドーDSi LL／DSi本体機能最後の更新が行われ、バージョン1.4.5となった。
+
+### 2015年
+
+  - [7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")にニンテンドーDSiウェアに[G.Gシリーズ](https://ja.wikipedia.org/wiki/G.Gシリーズ "wikilink")から7作品が追加された。これがDSiウェア最後のソフトとなった。
+
+### 2016年
+
+  - [3月31日](../Page/3月31日.md "wikilink")、「[ニンテンドーDSiショップ](https://ja.wikipedia.org/wiki/ニンテンドーDSiショップ "wikilink")」サービス終了のお知らせが発表。\[38\]。
+  - [4月30日](../Page/4月30日.md "wikilink")、最初期モデルであるニンテンドーDS \[NTR-001\]の修理受付が終了\[39\]。
+  - [9月30日](../Page/9月30日.md "wikilink")、「ニンテンドーDSiショップ」のDSiポイントの追加が終了。
+
+### 2017年
+
+  - [3月31日](../Page/3月31日.md "wikilink")、「ニンテンドーDSiショップ」のDSiウェアの購入手続きが終了。
+  - [4月4日](../Page/4月4日.md "wikilink")、「ニンテンドーDSiショップ」の残高の払い戻しが開始。
+  - [4月30日](../Page/4月30日.md "wikilink")、ニンテンドーDS Lite \[USG-001\]の修理受付が終了。\[40\]
+  - 8月中頃、ニンテンドーDSi \[TWL-001\]、ニンテンドーDSi LL \[UTL-001\]の修理受付が終了。
+  - [9月29日](../Page/9月29日.md "wikilink")、「ニンテンドーDSiショップ」残高の払い戻し申し込み受付が終了\[41\]。
+
+## 周辺機器
+
+以下のリストはニンテンドーDS専用として任天堂から発売されている物である。DSシリーズ共通で使えるものもある。[ゲームボーイアドバンスSP用周辺機器も](https://ja.wikipedia.org/wiki/ゲームボーイアドバンスSP#周辺機器 "wikilink")、GBAスロットや充電端子に接続するものは使用可能である。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>型番</p></th>
+<th><p>名称</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>NTR-001</p></td>
+<td><p>ニンテンドーDS 本体</p></td>
+<td><p>DSカードとGBAカートリッジが使用可能。</p></td>
+</tr>
+<tr class="even">
+<td><p>NTR-002</p></td>
+<td><p>ACアダプタ</p></td>
+<td><p>本体同梱。<br />
+店頭での販売も行っており、希望小売価格は税込1500円。不具合についての情報は<a href="https://ja.wikipedia.org/wiki/#その他" title="wikilink">こちらを参照</a>。</p></td>
+</tr>
+<tr class="odd">
+<td><p>NTR-003</p></td>
+<td><p>バッテリーパック</p></td>
+<td><p>本体同梱のほか、任天堂ホームページからも購入できる。</p></td>
+</tr>
+<tr class="even">
+<td><p>NTR-004</p></td>
+<td><p>タッチペン</p></td>
+<td><p>本体同梱のほか、任天堂ホームページや一般のゲームショップで購入できる。</p></td>
+</tr>
+<tr class="odd">
+<td><p>NTR-005</p></td>
+<td><p>DSカード</p></td>
+<td><p>カードのみの販売はない。色はグレー（DSi専用ソフトの色はホワイト）。<br />
+DS専用ソフトは<a href="https://ja.wikipedia.org/wiki/リージョンコード" title="wikilink">リージョンコード</a>が設定されておらず、世界共通で使用可能。DSi対応／専用ソフトはリージョンコードが設定され、<a href="https://ja.wikipedia.org/wiki/ニンテンドーDSi" title="wikilink">ニンテンドーDSi</a>（またはDSi LL）および<a href="https://ja.wikipedia.org/wiki/ニンテンドー3DS" title="wikilink">ニンテンドー3DS</a>本体とのリージョンコードが異なるとニンテンドーDSiおよびニンテンドー3DSメニューでソフトとしての認識ができない。</p></td>
+</tr>
+<tr class="even">
+<td><p>NTR-006</p></td>
+<td><p>DSカードケース</p></td>
+<td><p>ソフトに附属。DVDケースと同じような形状・素材。DSカード1枚の他、ゲームボーイアドバンス用カートリッジ1個が収納できるようになっている。縦横の長さは一般的な12cmCDのケースと同じ。厚さはCDケース2枚分。ちなみにクラブニンテンドーの景品「DSカードケース 18」はNTR-006-2であり、DSカードケースと同サイズであり18本のソフトを収納できる。<br />
+また、海外版のDSカードケースは型番は同じだが日本版とは異なる仕様となっている。</p></td>
+</tr>
+<tr class="odd">
+<td><p>NTR-008</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/DS振動カートリッジ" title="wikilink">DS振動カートリッジ</a></p></td>
+<td><p>『<a href="https://ja.wikipedia.org/wiki/メトロイドプライム_ピンボール" title="wikilink">メトロイドプライム ピンボール</a>』に同梱。<br />
+単体販売は任天堂ホームページにてオンライン販売のみ。</p></td>
+</tr>
+<tr class="even">
+<td><p>NTR-009</p></td>
+<td><p>タッチストラップ</p></td>
+<td><p>DS本体のみ同梱。指にはめて使うことで、液晶を汚さず指先をタッチペンの代わりとして使うことが出来る。<br />
+一部のゲームではこちらの使用を推奨されることがある。また落下防止にも活用できる。</p></td>
+</tr>
+<tr class="odd">
+<td><p>NTR-010</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ニンテンドーWi-Fi_USBコネクタ" title="wikilink">ニンテンドーWi-Fi USBコネクタ</a></p></td>
+<td><p><a href="../Page/無線LAN.md" title="wikilink">無線LAN</a>環境が無い家庭で、<a href="https://ja.wikipedia.org/wiki/ニンテンドーWi-Fiコネクション" title="wikilink">ニンテンドーWi-Fiコネクション</a>に接続をするための機器。DSではなく<a href="../Page/Microsoft_Windows_XP.md" title="wikilink">Windows XP</a>、<a href="https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista" title="wikilink">Windows Vista</a><a href="../Page/パーソナルコンピュータ.md" title="wikilink">パソコンの</a><a href="../Page/ユニバーサル・シリアル・バス.md" title="wikilink">USB端子に接続する</a>。<a href="../Page/ADSL.md" title="wikilink">ADSL</a>などの<a href="https://ja.wikipedia.org/wiki/ブロードバンドインターネット接続" title="wikilink">ブロードバンド環境が必要</a>。<br />
+一部大手量販店や任天堂ホームページ、その他インターネット上の通販サイトからのみ購入可能。任天堂ホームページで購入の場合、価格は税込み3,500円（送料別）。</p></td>
+</tr>
+<tr class="even">
+<td><p>NTR-011</p></td>
+<td><p>DSメモリー拡張カートリッジ</p></td>
+<td><p>『<a href="https://ja.wikipedia.org/wiki/ニンテンドーDSブラウザー" title="wikilink">ニンテンドーDSブラウザー</a>』に同梱（必須）。<br />
+単体販売はされておらず、また同ブラウザー以外の対応ソフトもない。</p></td>
+</tr>
+<tr class="odd">
+<td><p>NTR-012</p></td>
+<td><p>スライドコントローラ</p></td>
+<td><p>『<a href="https://ja.wikipedia.org/wiki/スライドアドベンチャー_マグキッド" title="wikilink">スライドアドベンチャー マグキッド</a>』に同梱。GBAスロットに接続、光学式マウスと同様に机上などに置きスライドさせて操作する。振動機能もあるが、振動カートリッジ対応ソフトで使っても反応しない。</p></td>
+</tr>
+<tr class="even">
+<td><p>NTR-014</p></td>
+<td><p>顔認識カートリッジ<br />
+フェイスニングスキャン</p></td>
+<td><p>『<a href="https://ja.wikipedia.org/wiki/フェイスニングで表情豊かに印象アップ_大人のDS顔トレーニング" title="wikilink">フェイスニングで表情豊かに印象アップ 大人のDS顔トレーニング</a>』に同梱。GBAスロットに接続する。DSで使用すると全体が本体内に収まるが、カメラ部分を引き出すことが可能。</p></td>
+</tr>
+<tr class="odd">
+<td><p>NTR-015</p></td>
+<td><p>DSクリーナー</p></td>
+<td><p>DSカード端子をクリーニングするための道具。<br />
+「ニンテンドーDSシリーズ専用 クリーナーセット」に同梱。</p></td>
+</tr>
+<tr class="even">
+<td><p>NTR-016</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ワンセグ受信アダプタ_DSテレビ" title="wikilink">ワンセグ受信アダプタ DSテレビ</a></p></td>
+<td><p>DSシリーズで<a href="https://ja.wikipedia.org/wiki/ワンセグ" title="wikilink">ワンセグ</a>放送が見られる。DSテレビ本体の他、DSテレビ専用カバー、DSテレビ専用外部アンテナが同梱される。<br />
+<a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/11月20日.md" title="wikilink">11月20日</a>に任天堂ホームページでオンライン販売開始。2008年7月より店頭販売開始。価格は税込6,800円（オンラインの場合送料無料）。</p></td>
+</tr>
+<tr class="odd">
+<td><p>NTR-017</p></td>
+<td><p>DSテレビ専用カバー</p></td>
+<td><p>DSテレビに附属。取り外して収納する際に用いる。</p></td>
+</tr>
+<tr class="even">
+<td><p>NTR-019</p></td>
+<td><p>イヤホンマイク</p></td>
+<td><p>ボイスチャット用。ボイスチャット以外の音声認識機能では正常に作動しない場合もある。<br />
+ニンテンドー3DSではマイク接続端子が廃止されたため、使用できない。</p></td>
+</tr>
+<tr class="odd">
+<td><p>NTR-020</p></td>
+<td><p>クリーナーケース</p></td>
+<td><p>DSクリーナーとGBAクリーナーを収納することができる。<br />
+「ニンテンドーDSシリーズ専用 クリーナーセット」に同梱。</p></td>
+</tr>
+<tr class="even">
+<td><p>NTR-022</p></td>
+<td><p>マグネットスタンド</p></td>
+<td><p>マグネット付きのスタンド。GBAコネクタを用いて固定する。</p></td>
+</tr>
+<tr class="odd">
+<td><p>NTR-023</p></td>
+<td><p>筆型タッチペン「美文字筆」</p></td>
+<td><p>『<a href="https://ja.wikipedia.org/wiki/DS美文字トレーニング" title="wikilink">DS美文字トレーニング</a>』に同梱。筆の形をしたタッチペン。</p></td>
+</tr>
+<tr class="even">
+<td><p>NTR-024</p></td>
+<td><p>ひも付きタッチペン</p></td>
+<td><p>マグネットスタンド附属のタッチペン。</p></td>
+</tr>
+<tr class="odd">
+<td><p>NTR-025</p></td>
+<td><p>DSテレビ専用外部アンテナ</p></td>
+<td><p>DSテレビに附属。受信感度を向上させる。窓ガラスなどに固定するための吸盤付き。</p></td>
+</tr>
+<tr class="even">
+<td><p>NTR-027</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/歩いてわかる_生活リズムDS#生活リズム計" title="wikilink">生活リズム計</a></p></td>
+<td><p>『<a href="https://ja.wikipedia.org/wiki/歩いてわかる_生活リズムDS" title="wikilink">歩いてわかる 生活リズムDS</a>』に2個同梱（『<a href="https://ja.wikipedia.org/wiki/キャロル・ボーダマン" title="wikilink">Active Health With Carol Vorderman</a>』（イギリスのみ発売）の場合1個同梱）の他、単品も発売されている。<br />
+ショックセンサーによる<a href="../Page/歩数計.md" title="wikilink">歩数測定機能を搭載し</a>、1分ごとの歩数データを約1週間・1時間または1日ごとの総歩数データを約30日間記憶可能。<br />
+<a href="../Page/赤外線.md" title="wikilink">赤外線</a>通信により、赤外線受発光部付きDSカードを介してDSとデータを送受信する。</p></td>
+</tr>
+<tr class="odd">
+<td><p>NTR-028</p></td>
+<td><p>スタンド（ベース）</p></td>
+<td><p>『フェイスニングで表情豊かに印象アップ 大人のDS顔トレーニング』に同梱。DS本体を置く他、波状の段差にタッチペンを置くためにも使用する。</p></td>
+</tr>
+<tr class="even">
+<td><p>NTR-029</p></td>
+<td><p>スタンド（パネル）</p></td>
+<td><p>同上。こちらはDS本体を立て掛ける部分。</p></td>
+</tr>
+<tr class="odd">
+<td><p>NTR-030</p></td>
+<td><p>DS方位センサーカード</p></td>
+<td><p>『星空ナビ』に使用されている特殊形状のDSカード。通常のDSカードの1.5倍程の長さとなっており、本体からはみ出る形となる。加速度によるX,Y,Zの3軸に地磁気X,Y,Zの3軸を搭載した6軸センサーカードで、ソフトを起動することによって方角や角度などを自動的に算出することが出来る。</p></td>
+</tr>
+<tr class="even">
+<td><p>NTR-031</p></td>
+<td><p>赤外線受発光部付きDSカード</p></td>
+<td><p>赤外線ポート搭載のDSカード。『歩いてわかる 生活リズムDS』、『Active Health With Carol Vorderman』（イギリスのみ発売）、『<a href="https://ja.wikipedia.org/wiki/ポケットモンスター_ハートゴールド・ソウルシルバー" title="wikilink">ポケットモンスター ハートゴールド・ソウルシルバー</a>』及び『<a href="https://ja.wikipedia.org/wiki/ポケットモンスター_ブラック・ホワイト" title="wikilink">ポケットモンスター ブラック・ホワイト</a>』、『ポケットモンスター ブラック2・ホワイト2』の各作品に使用されている。<br />
+赤外線を通す半透明のプラスチックが使われているため、通常のDSカードと異なり黒っぽい色である。</p></td>
+</tr>
+<tr class="odd">
+<td><p>NTR-032</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ポケットモンスター_ハートゴールド・ソウルシルバー#ポケウォーカー" title="wikilink">ポケウォーカー</a></p></td>
+<td><p>『ポケットモンスター ハートゴールド・ソウルシルバー』に同梱。フックの付いた電池カバーが附属。<br />
+赤外線通信で同作品のDSカード、もしくは他のポケウォーカーと通信できる。詳細は<a href="https://ja.wikipedia.org/wiki/ポケットモンスター_ハートゴールド・ソウルシルバー#ポケウォーカー" title="wikilink">ポケウォーカー</a>。</p></td>
+</tr>
+<tr class="even">
+<td><p>NTR-034</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/バトル&amp;ゲット!_ポケモンタイピングDS#ニンテンドー_ワイヤレスキーボード" title="wikilink">ワイヤレスキーボード</a></p></td>
+<td><p>『<a href="https://ja.wikipedia.org/wiki/バトル&amp;ゲット!_ポケモンタイピングDS" title="wikilink">バトル&amp;ゲット! ポケモンタイピングDS</a>』に同梱。<a href="https://ja.wikipedia.org/wiki/Bluetooth" title="wikilink">Bluetooth</a>内蔵<a href="https://ja.wikipedia.org/wiki/キーボード_(コンピュータ)" title="wikilink">キーボード</a>。単三乾電池が2本必要。</p></td>
+</tr>
+<tr class="odd">
+<td><p>NTR-035</p></td>
+<td><p>DSコンパクトスタンド</p></td>
+<td><p>『バトル&amp;ゲット! ポケモンタイピングDS』に同梱。折りたたみ式で、内部にはDSカード1枚を収納することができる。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## バリエーション
+
+本体のみの販売の他、DS本体に独自のマーキングがされているものなどゲームソフトに本体同梱限定版が存在するものもある。
+
+### オリジナルカラー
+
+  - プラチナシルバー（2004年12月2日 - ）
+  - グラファイトブラック（2005年3月24日 - ）
+  - ピュアホワイト（2005年3月24日 - ）
+  - ターコイズブルー（2005年4月21日 - ）
+  - キャンディピンク（2005年4月21日 - ）
+  - レッド（2005年8月8日 - 2006年1月）
+      - 同日発売のソフト『[ジャンプスーパースターズ](https://ja.wikipedia.org/wiki/ジャンプスーパースターズ "wikilink")』のイメージ色とされ、発売は期間限定だった。
+
+### 限定モデル
+
+  - ポケパークバージョン（[ポケパークオリジナル](https://ja.wikipedia.org/wiki/Pokémon_The_Park_2005 "wikilink")・2005年5月1日 - 9月25日）
+  - ミュウエディション（[ポケモンセンター](https://ja.wikipedia.org/wiki/ポケモンセンター "wikilink")オリジナル・2005年7月8日 - ）
+  - トイザらスゴールド（[トイザらス](../Page/トイザらス.md "wikilink")オリジナル・2005年11月16日 - ）
+
+### キャンペーン限定モデル
+
+  - [ペプシオリジナルデザイン](../Page/ペプシコーラ.md "wikilink")
+      - ペプシキャンペーンプレゼント。キャリングケース・ヘッドホン付属。
+
+### 日本未発売カラー
+
+  - エレクトリックブルー（2005年6月12日 - ）
+      - 日本ではゲームセンターのプライズ（景品）でたびたび出回っている。
+  - ホットロッドレッド（2007年8月20日 - ）
+      - 赤×シルバーのツートン。アメリカとカナダで、北米版マリオカート、カスタムリストストラップ、デコレーションシール付属のパックで限定発売された。
+
+### 時雨殿なび
+
+[小倉百人一首](https://ja.wikipedia.org/wiki/小倉百人一首 "wikilink")のテーマパーク「[時雨殿](https://ja.wikipedia.org/wiki/時雨殿 "wikilink")」で、ニンテンドーDSからボタン、カートリッジ・DSカードスロット、その他の端子を取り除いた端末「時雨殿なび」が利用されている。
+
+## ソフトウェア
+
+日本で発売されたゲームタイトル数は1,800を超えて、これは日本の携帯ゲーム機の最多タイトル数である。
+
+上記の「[売上・変遷 2008年](https://ja.wikipedia.org/wiki/#2008年 "wikilink")」の項でも述べたように、ゲームハードの多大な普及数に対して任天堂以外のソフトメーカー（[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")）製タイトルの売上は芳しくない場合が多かったとされる。これは、ニンテンドーDSを所持するユーザーの大部分が[カジュアルユーザーや](https://ja.wikipedia.org/wiki/ゲーマー#ライトゲーマー "wikilink")[ミドルユーザー以下](https://ja.wikipedia.org/wiki/ゲーマー#ミドルゲーマー "wikilink")、もしくは『[Touch\! Generations](https://ja.wikipedia.org/wiki/Touch!_Generations "wikilink")』の影響でハードを購入した従来の非ゲームユーザーであり、[コアユーザーなどの熟練者](https://ja.wikipedia.org/wiki/ゲーマー#コアゲーマー "wikilink")・マニア層向けのタイトルが主となっていた従来どおりのゲームタイトルでは、ユーザーの[ニーズ](https://ja.wikipedia.org/wiki/ニーズ "wikilink")に合わなかったためとされる。ニンテンドーDSとその後継機の市場で成功を収めた[レベルファイブ](https://ja.wikipedia.org/wiki/レベルファイブ "wikilink")の[日野晃博](https://ja.wikipedia.org/wiki/日野晃博 "wikilink")代表は、そのことを分析してニーズに合うようなタイトル開発を行った為にうまくいったことを語っている\[42\]。
+
+海外市場ではやや事情が異なり、ハードメーカーである任天堂の存在感が強いのは日本と同様であるものの、初期の頃からサードパーティー中心としたソフト市場が構成されている\[43\]。
+
+### 同時発売ソフト
+
+#### 任天堂タイトル
+
+  - [ピクトチャット](https://ja.wikipedia.org/wiki/ピクトチャット "wikilink")（ニンテンドーDS本体に内蔵）
+  - [さわるメイド イン ワリオ](https://ja.wikipedia.org/wiki/さわるメイド_イン_ワリオ "wikilink")
+  - [スーパーマリオ64DS](https://ja.wikipedia.org/wiki/スーパーマリオ64#スーパーマリオ64DS "wikilink")
+  - [ポケモンダッシュ](https://ja.wikipedia.org/wiki/ポケモンダッシュ "wikilink")
+  - [大合奏\!バンドブラザーズ](https://ja.wikipedia.org/wiki/大合奏!バンドブラザーズ "wikilink")
+  - [直感ヒトフデ](https://ja.wikipedia.org/wiki/直感ヒトフデ "wikilink")
+
+#### サードパーティタイトル
+
+  - [ZOO KEEPER](https://ja.wikipedia.org/wiki/ZOO_KEEPER_\(ゲーム\) "wikilink")
+  - [きみのためなら死ねる](https://ja.wikipedia.org/wiki/きみのためなら死ねる "wikilink")
+  - [ザ・アーブズ シムズ イン ザ シティ](https://ja.wikipedia.org/wiki/シムピープル "wikilink")
+  - [ミスタードリラー](../Page/ミスタードリラー.md "wikilink")ドリルスピリッツ
+  - [研修医 天堂独太](https://ja.wikipedia.org/wiki/研修医_天堂独太 "wikilink")
+  - 頭脳に汗かくゲームシリーズ\! Vol.1 COOL104JOKER & SETLINE
+  - [麻雀大会](https://ja.wikipedia.org/wiki/麻雀大会 "wikilink")
+
+### 日本で100万本以上を販売したソフト
+
+DSのミリオンセラー作品の数は37本（2012年6月）で、ゲームハードとしては[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")（42本）に次いで2番目に多い。
+
+特記が無いものは[任天堂](../Page/任天堂.md "wikilink")から発売。
+
+  - **800万本超**
+      - [ポケットモンスター ダイヤモンド・パール・プラチナ](https://ja.wikipedia.org/wiki/ポケットモンスター_ダイヤモンド・パール "wikilink")（[ポケモン](https://ja.wikipedia.org/wiki/ポケモン_\(企業\) "wikilink")、3バージョンの合計）
+  - **600万本超**
+      - [New スーパーマリオブラザーズ](https://ja.wikipedia.org/wiki/New_スーパーマリオブラザーズ "wikilink")
+  - **500万本超**
+      - [おいでよ どうぶつの森](https://ja.wikipedia.org/wiki/おいでよ_どうぶつの森 "wikilink")
+      - [もっと脳を鍛える大人のDSトレーニング](https://ja.wikipedia.org/wiki/東北大学未来科学技術共同研究センター川島隆太教授監修_もっと脳を鍛える大人のDSトレーニング "wikilink")
+      - [ポケットモンスター ダイヤモンド・パール](https://ja.wikipedia.org/wiki/ポケットモンスター_ダイヤモンド・パール "wikilink")（[ポケモン](https://ja.wikipedia.org/wiki/ポケモン_\(企業\) "wikilink")、2バージョンの合計）
+      - [ポケットモンスター ブラック・ホワイト](https://ja.wikipedia.org/wiki/ポケットモンスター_ブラック・ホワイト "wikilink")（ポケモン、2バージョンの合計）
+  - **400万本超**
+      - [ドラゴンクエストIX 星空の守り人](https://ja.wikipedia.org/wiki/ドラゴンクエストIX_星空の守り人 "wikilink")（[スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")）
+  - **300万本超**
+      - [脳を鍛える大人のDSトレーニング](https://ja.wikipedia.org/wiki/東北大学未来科学技術共同研究センター川島隆太教授監修_脳を鍛える大人のDSトレーニング "wikilink")
+      - [マリオカートDS](https://ja.wikipedia.org/wiki/マリオカートDS "wikilink")
+      - [トモダチコレクション](https://ja.wikipedia.org/wiki/トモダチコレクション "wikilink")
+      - [ポケットモンスター ハートゴールド・ソウルシルバー](https://ja.wikipedia.org/wiki/ポケットモンスター_ハートゴールド・ソウルシルバー "wikilink")（ポケモン、2バージョンの合計）
+      - [ポケットモンスター ブラック2・ホワイト2](https://ja.wikipedia.org/wiki/ポケットモンスター_ブラック・ホワイト#ポケットモンスター_ブラック2・ホワイト2 "wikilink")（ポケモン、2バージョンの合計）
+  - **200万本超**
+      - [nintendogs](https://ja.wikipedia.org/wiki/nintendogs "wikilink")（3バージョンの合計）
+      - [英語が苦手な大人のDSトレーニング えいご漬け](https://ja.wikipedia.org/wiki/英語が苦手な大人のDSトレーニング_えいご漬け "wikilink")
+      - [マリオパーティDS](https://ja.wikipedia.org/wiki/マリオパーティDS "wikilink")
+      - [ポケットモンスター プラチナ](https://ja.wikipedia.org/wiki/ポケットモンスター_ダイヤモンド・パール#プラチナ "wikilink")（ポケモン）
+  - **100万本超**
+      - [さわるメイド イン ワリオ](https://ja.wikipedia.org/wiki/さわるメイド_イン_ワリオ "wikilink")
+      - [スーパーマリオ64DS](https://ja.wikipedia.org/wiki/スーパーマリオ64#スーパーマリオ64DS "wikilink")
+      - [やわらかあたま塾](https://ja.wikipedia.org/wiki/やわらかあたま塾 "wikilink")
+      - [たまごっちのプチプチおみせっち](https://ja.wikipedia.org/wiki/たまごっちのプチプチおみせっち "wikilink")（[バンダイ](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）
+      - [テトリスDS](https://ja.wikipedia.org/wiki/テトリスDS "wikilink")
+      - [しゃべる\!DSお料理ナビ](https://ja.wikipedia.org/wiki/しゃべる!DSお料理ナビ "wikilink")
+      - [ファイナルファンタジーIII](https://ja.wikipedia.org/wiki/ファイナルファンタジーIII_\(リメイク版\) "wikilink")（スクウェア・エニックス）
+      - [大人の常識力トレーニングDS](https://ja.wikipedia.org/wiki/監修_日本常識力検定協会_いまさら人には聞けない_大人の常識力トレーニングDS "wikilink")
+      - [星のカービィ 参上\! ドロッチェ団](https://ja.wikipedia.org/wiki/星のカービィ_参上!_ドロッチェ団 "wikilink")
+      - [オシャレ魔女♥ラブandベリー〜DSコレクション〜](https://ja.wikipedia.org/wiki/オシャレ魔女_ラブandベリー#オシャレ魔女♥ラブandベリー〜DSコレクション〜 "wikilink")（[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")）
+      - [ドラゴンクエストモンスターズ ジョーカー](https://ja.wikipedia.org/wiki/ドラゴンクエストモンスターズ_ジョーカー "wikilink")（スクウェア・エニックス）
+      - [ドラゴンクエストIV 導かれし者たち](../Page/ドラゴンクエストIV_導かれし者たち.md "wikilink")（スクウェア・エニックス）
+      - [レイトン教授と不思議な町](https://ja.wikipedia.org/wiki/レイトン教授と不思議な町 "wikilink")（[レベルファイブ](https://ja.wikipedia.org/wiki/レベルファイブ "wikilink")）
+      - [ヨッシーアイランドDS](https://ja.wikipedia.org/wiki/ヨッシーアイランドDS "wikilink")
+      - [ポケモン不思議のダンジョン 時の探検隊・闇の探検隊](https://ja.wikipedia.org/wiki/ポケモン不思議のダンジョン_時の探検隊・闇の探検隊 "wikilink")（ポケモン、2バージョンの合計）
+      - [ドラゴンクエストV 天空の花嫁](https://ja.wikipedia.org/wiki/ドラゴンクエストV_天空の花嫁 "wikilink")（スクウェア・エニックス）
+      - [リズム天国ゴールド](https://ja.wikipedia.org/wiki/リズム天国ゴールド "wikilink")
+      - [星のカービィ ウルトラスーパーデラックス](https://ja.wikipedia.org/wiki/星のカービィ_ウルトラスーパーデラックス "wikilink")
+      - [イナズマイレブン2 脅威の侵略者 ファイア・ブリザード](https://ja.wikipedia.org/wiki/イナズマイレブン2_脅威の侵略者 "wikilink")（レベルファイブ、2バージョンの合計）
+      - [ドラゴンクエストVI 幻の大地](../Page/ドラゴンクエストVI_幻の大地.md "wikilink")（スクウェア・エニックス）
+      - [ドラゴンクエストモンスターズ ジョーカー2](https://ja.wikipedia.org/wiki/ドラゴンクエストモンスターズ_ジョーカー2 "wikilink")（スクウェア・エニックス）
+      - [イナズマイレブン3 世界への挑戦\!\! スパーク・ボンバー](https://ja.wikipedia.org/wiki/イナズマイレブン3_世界への挑戦!! "wikilink")（レベルファイブ、2バージョンの合計）
+
+## その他
+
+  - 本体の強度
+    歴代の任天堂のゲーム機同様、例えば1.5mの高さから10回落として稼働するかどうか確かめる落下試験\[44\]など、開発段階で厳しい製品試験を行っており、ゲーム機としては非常に頑丈である。ニール・ミューラーは[エベレスト](../Page/エベレスト.md "wikilink")山頂に持っていった電子機器の内、3つのMP3プレイヤーとパソコン、[CBラジオ](https://ja.wikipedia.org/wiki/市民ラジオ "wikilink")、PSPは壊れたが、DSは壊れなかったと報告した\[45\]。またルー・マイヤーズ達は4人で[スカイダイビング](https://ja.wikipedia.org/wiki/スカイダイビング "wikilink")をしながらワイヤレス対戦を行うことに成功した\[46\]。
+
+  - 擬音の採用
+
+    。
+
+  - ユーザー分布
+    [テクモ](../Page/テクモ.md "wikilink")の[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）春のプレスカンファレンスでの発表によると、DSのユーザー分布は、低年齢層が15%、未成年層が25%、成年層が30%、そして中高年層が30%とのこと\[47\]。
+
+  - プロモーション
+
+    宇多田を起用したCMは2004年9月18日より放映が始まった。CMはシリーズもので"登場編"や"実感編"などの種類がある\[48\]。CMソングには宇多田作の「easy breezy」が使用された。
+
+  - ACアダプターの一部リコール
+    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）1月-6月出荷のニンテンドーDS用および同年7月-10月出荷の[ニンテンドーDS Lite用の](https://ja.wikipedia.org/wiki/ニンテンドーDS_Lite "wikilink")[ACアダプター](https://ja.wikipedia.org/wiki/ACアダプター "wikilink")の一部に不具合があることが、2006年（平成18年）[12月15日](../Page/12月15日.md "wikilink")に報道された。該当するACアダプターを使用し続けるとDS本体が故障する可能性があり、稀に過熱によりやけどや発煙の危険性があるとして、任天堂は同日、DSのアダプターを8万個、DS Lite用のアダプターを12万個、合計20万個のACアダプターを[リコールすると発表した](https://ja.wikipedia.org/wiki/リコール_\(一般製品\) "wikilink")。リコール対象は[長野日本無線](https://ja.wikipedia.org/wiki/長野日本無線 "wikilink")で製造された物で、ACアダプターのプラグ側の警告文（英語とフランス語の2か国語）の右下に「**JRC**」という刻印が入っており、不具合の無いACアダプターと容易に見分けることが可能。なお、「**M**」（[ミツミ電機](https://ja.wikipedia.org/wiki/ミツミ電機 "wikilink")製）、または「**ZEBRA**」（[田淵電機](https://ja.wikipedia.org/wiki/田淵電機 "wikilink")製）の刻印のあるACアダプターは交換対象ではない。任天堂の発表によると、「故障により修理依頼のあったDSを調査したところ、この不具合が発見された」とのこと\[49\]。
+
+  - トロイの木馬
+
+    このトロイの木馬は、トロイを含んだROMイメージをPC経由でフラッシュカートリッジに書き込み、DS上で実行した場合にのみ起こるものであり、通常の利用方法を守れば影響を受けることは無い。
+
+  - マジコン
+    ユーザーの中には違法[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")した[ゲームソフト](../Page/ゲームソフト.md "wikilink")を[マジコン](https://ja.wikipedia.org/wiki/マジコン "wikilink")と呼ばれる機械を使って遊ぶ者がおり、その被害額は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）12月現在で3000億円以上に上る\[50\]。
+
+  - 意外な遊びへの活用法
+    2008年（平成20年）には、DSに内蔵された「[ピクトチャット](https://ja.wikipedia.org/wiki/ピクトチャット "wikilink")」を活用した「[鬼ごっこ](../Page/鬼ごっこ.md "wikilink")」を行う子供達も現れている\[51\]。
+
+    この話題に対して、任天堂広報部は「DSのコンセプトに基づいた新しい遊びの可能性の一つとして大いに歓迎したい。」とコメントしている。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [ニンテンドーDSのゲームタイトル一覧](https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧 "wikilink")
+  - [:Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink")
+  - [ニンテンドーDSブラウザー](https://ja.wikipedia.org/wiki/ニンテンドーDSブラウザー "wikilink")
+  - [DS振動カートリッジ](https://ja.wikipedia.org/wiki/DS振動カートリッジ "wikilink")
+  - [ワンセグ受信アダプタ DSテレビ](https://ja.wikipedia.org/wiki/ワンセグ受信アダプタ_DSテレビ "wikilink")
+  - [ニンテンドーWi-Fiコネクション](https://ja.wikipedia.org/wiki/ニンテンドーWi-Fiコネクション "wikilink")
+  - [DSステーション](https://ja.wikipedia.org/wiki/DSステーション "wikilink")
+  - [DSステーション\#ニンテンドーWi-Fiステーション](https://ja.wikipedia.org/wiki/DSステーション#ニンテンドーWi-Fiステーション "wikilink")
+  - [ゲームボーイ](../Page/ゲームボーイ.md "wikilink")
+
+## 外部リンク
+
+  - [ニンテンドーDS公式サイト](https://www.nintendo.co.jp/ds/)
+  - [N.O.M 2004年11月号 任天堂のあらたなる挑戦 「ニンテンドーDS」総力特集！](http://www.nintendo.co.jp/nom/0411/index.html)
+
+[Category:ニンテンドーDS](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS "wikilink") [Category:任天堂のハードウェア](https://ja.wikipedia.org/wiki/Category:任天堂のハードウェア "wikilink") [Category:任天堂](https://ja.wikipedia.org/wiki/Category:任天堂 "wikilink") [Category:携帯型ゲーム機](https://ja.wikipedia.org/wiki/Category:携帯型ゲーム機 "wikilink") [Category:2004年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2004年のコンピュータゲーム "wikilink") [Category:音声認識](https://ja.wikipedia.org/wiki/Category:音声認識 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11. 任天堂 “[ハード・ソフト販売実績](http://www.nintendo.co.jp/ir/sales/hard_soft/index.html)”. 任天堂. 2015年2月3日閲覧。
+12.
+13. 「[社長が訊く『メイドイン俺』](http://www.nintendo.co.jp/ds/interview/uorj/vol1/index.html)」より。
+14. <https://www.nintendo.co.jp/3ds/interview/hardware/vol1/index4.html>
+15. <http://www.wi-fi.org/certified-products-results?category=11>
+16. 「[「コロコロパズル　ハッピィパネッチュ！」について](http://www.nintendo.co.jp/n08/hardware/gbasp/panechu.html)」 [任天堂](http://www.nintendo.co.jp/)。2008年1月20日閲覧
+17.
+18.
+19. 「[DS『ポケットモンスター ダイヤモンド・パール』の販売本数が早くも150万本突破\!](http://eg.nttpub.co.jp/news/20061003_03.html)」 [eg](http://eg.nttpub.co.jp/)、2006年10月。
+20. [毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink") 2007年6月6日記事。
+21. [東京新聞](https://ja.wikipedia.org/wiki/東京新聞 "wikilink") 2007年7月3日記事。
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37. [ファミ通.com　2010年国内家庭用ゲーム市場規模は約4936億円―もっとも売れたソフトは『ポケットモンスターブラック・ホワイト』に](http://www.famitsu.com/news/201101/05037551.html)
+38.
+39.
+40.
+41.
+42. [社長が訊く『ニンテンドー3DS』ソフトメーカークリエーター篇 第1回：『レイトン教授と奇跡の仮面』 4.「これはゲームじゃなくていい」](http://www.nintendo.co.jp/3ds/interview/creators/vol1/index4.html)
+43. [任天堂　2009年5月8日（金）決算説明会 任天堂株式会社 社長 岩田聡 講演内容](http://www.nintendo.co.jp/ir/library/events/090508/06.html)
+44. [任天堂で働くということ/製品技術編](http://www.nintendo.co.jp/jobs/work_at_nintendo/interview05/contents01.html)
+45. [DS Survives Everest: Expedition Update](https://archive.is/20120709122401/kotaku.com/gaming/oddities/ds-survives-everest-expedition-update-107779.php)
+46. [スカイダイブしながら『ニンテンドーDS』ワイヤレス対戦 | WIRED.jp](http://wired.jp/wv/archives/2005/04/27/%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%80%E3%82%A4%E3%83%96%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E3%80%8E%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%BCds%E3%80%8F%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC/)
+47. 「[テクモプレスカンファレンス2007Spring](https://game.watch.impress.co.jp/docs/20070330/tecmo114.htm)」 [GAME Watch](https://ja.wikipedia.org/wiki/Impress_Watch "wikilink")。
+48.
+49. 「[「ニンテンドーDS」および「ニンテンドーDS Lite」専用ACアダプタの一部不良発生についてのお詫びとお願い](http://www.nintendo.co.jp/n10/news/061215_2.html)」 [任天堂](http://www.nintendo.co.jp/)、2006年12月15日。
+50. 「[ニンテンドーＤＳ　被害は３０００億円超との試算も](http://sankei.jp.msn.com/affairs/crime/090227/crm0902271336020-n1.htm)」 [産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")、2009年2月27日。
+51.

@@ -1,0 +1,40 @@
+> この記事は[TONTODAY](https://ja.wikipedia.org/wiki/TONTODAY)から翻訳されています。
+
+
+『**メガTONニュースTODAY**』（メガトンニューストゥデイ）は、[テレビ東京系列局ほかで放送された](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")（1981年9月まで東京12チャンネル）製作の夕方の[報道番組](https://ja.wikipedia.org/wiki/報道番組 "wikilink")。製作局のテレビ東京では[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（[昭和](../Page/昭和.md "wikilink")55年）[9月29日](../Page/9月29日.md "wikilink")から[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[3月31日](../Page/3月31日.md "wikilink")まで放送。
+
+## 概要
+
+他局が夕方のニュースを18時台に据える中、テレビ東京では同時間帯が子供向け番組の時間帯となっている関係上、17時台後半に放送のこの番組が唯一のニュースワイドとして定着していた。当初は毎週月曜から金曜の17:30 - 17:45 ([JST](../Page/日本標準時.md "wikilink")) に放送されていたが、後に17:50までに延長した。また、番組タイトルも当初は無冠の『**ニュースTODAY**』だったが、1982年4月にメガTONネットワーク（当時のテレ東系列ネットワーク網）が発足するのに伴い、以後はネットワーク名の「メガTON」を冠するようになった。
+
+番組はその後、ネットワーク名が[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")に変更されるのを機に終了。以後の後継番組群は、1989年放送開始の『[TXNニュース THIS EVENING](https://ja.wikipedia.org/wiki/TXNニュース_THIS_EVENING "wikilink")』から2005年終了の『[TXNニュースアイ](../Page/TXNニュースアイ.md "wikilink")』まで全てタイトルに「TXN」を冠していた。
+
+## 歴代キャスター
+
+| 期間                      | 月・水・金曜                                                                                                        | 火・木曜                                                                                                        |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 1980年9月29日 - 1983年2月28日 | [高田晃](https://ja.wikipedia.org/wiki/高田晃 "wikilink")                                                           |                                                                                                             |
+| 1983年3月1日 - 1985年9月30日  | [平光淳之助](https://ja.wikipedia.org/wiki/平光淳之助 "wikilink")、[宮崎絢子](https://ja.wikipedia.org/wiki/宮崎絢子 "wikilink") | 平光淳之助、[川島真理子](https://ja.wikipedia.org/wiki/川島真理子 "wikilink")                                               |
+| 1985年10月1日 - 1988年4月1日  | [鶴岡巍](https://ja.wikipedia.org/wiki/鶴岡巍 "wikilink")、中村真理                                                      | [岡野忠元](https://ja.wikipedia.org/wiki/岡野忠元 "wikilink")、[外所優子](https://ja.wikipedia.org/wiki/外所優子 "wikilink") |
+| 1988年4月4日 - 1989年3月31日  | [土居壮](https://ja.wikipedia.org/wiki/土居壮 "wikilink")、[東海林克江](https://ja.wikipedia.org/wiki/東海林克江 "wikilink")   |                                                                                                             |
+
+  - 土居と東海林は『[TXNニュース THIS EVENING](https://ja.wikipedia.org/wiki/TXNニュース_THIS_EVENING "wikilink")』でも続投。
+
+## 歴代オープニング
+
+  - 初代：1980年9月29日 - 1983年2月28日
+  - 2代目：1983年3月1日 - 1985年9月30日
+      - タイトル表示は、放送局によって別々に表示。
+      - オープニングテーマは、[喜多郎](https://ja.wikipedia.org/wiki/喜多郎 "wikilink")の曲が編集され使われていた。
+  - 3代目:「メガTON (TXN) ニューステーマ曲 1985 - 1990」（1985年10月1日 - 1989年3月31日）
+      - CG。音楽は末期では微妙にアレンジされていた。
+
+## 備考
+
+  - 放送開始当初は[サンテレビと近畿放送](../Page/サンテレビジョン.md "wikilink")（現：[京都放送](../Page/京都放送.md "wikilink")、KBS京都）でも放送されていたが、後にテレビ東京系列の[テレビ大阪](../Page/テレビ大阪.md "wikilink")が開局したことにより、この2局での放送は途中で終了した（すぐに終了したのではなく、テレビ大阪の開局後しばらくしてからである）。
+  - [岐阜放送](../Page/岐阜放送.md "wikilink")や[びわ湖放送](../Page/びわ湖放送.md "wikilink")、[奈良テレビや](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")でも放送されていた。このため、テレビ東京はこれらメガTON非加盟の局のために2代目オープニングではタイトルテロップを入れずに送出（映像は当日のニュース内容）し、テレビ愛知やテレビ大阪も自社でタイトルを入れていた。岐阜放送は2代目ロゴ時代『**GBSニュースTODAY**』（「ニュースTODAY」ロゴは字体はメガTONと同じだが影なし）というタイトルで放送していたが、1983年10月以降は17時42分15秒で飛び降り17:55までローカルニュースを放送していたほか、3代目オープニングからタイトルロゴを変えないままヘッドラインまでを自社オープニング映像に差し替えていた（この間、音声のみテレビ東京からネットしていた。この映像はTXNがニュースTHIS EVENINGになってからも使われた。なお、スポンサークレジット部分は全面差し替えられていた）。なお岐阜放送は、土日にも同じタイトル・同じロゴ（[ブルーバック](https://ja.wikipedia.org/wiki/ブルーバック "wikilink")）で5分間のローカルニュースを放送していた。
+  - なおびわ湖放送は、この時間のニュースが「[TXNニュース THIS EVENING](https://ja.wikipedia.org/wiki/TXNニュース_THIS_EVENING "wikilink")」に改題後も、当番組の第2代めのタイトルを使用して、タイトルも「BBCニュースTODAY」を継続して放送していた。
+  - 1986年夏、岐阜放送が高校野球岐阜県大会中継のため当番組を18:00から放送し、この枠内で通常通りテレビ東京からのニュースパートも放送したことがある（中継延長ではなく当初からの予定通り）。当時スタジオセットにアナログ時計があり、当然岐阜放送のオンエアでは30分前の時刻を指していることになるが、お断わりテロップ等もなくそのまま放送された。
+  - 1988年4月にスタートした『[NHKニュースTODAY](../Page/NHKニュースTODAY.md "wikilink")』とタイトルが似ており、番組を混同される恐れがあると[NHKにクレームを付けたが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、1年後（1989年3月）にこの『メガTONニュースTODAY』が終了したことで一応の決着を見た。NHK側は、番組名冒頭に『NHKニュース』が付いていることから問題ないとした。
+
+[Category:TXN番組の歴史](https://ja.wikipedia.org/wiki/Category:TXN番組の歴史 "wikilink") [Category:テレビ東京の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の帯番組の歴史 "wikilink") [Category:1980年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1980年のテレビ番組_\(日本\) "wikilink")

@@ -1,0 +1,58 @@
+> この記事は[NHK21](https://ja.wikipedia.org/wiki/NHK21)から翻訳されています。
+
+
+『**NHKニュース21**』（エヌエイチケイ ニュース・トゥエンティーワン）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")までにかけて[平日](https://ja.wikipedia.org/wiki/平日 "wikilink")21:00 - 22:00（[JST](../Page/日本標準時.md "wikilink")）に放送された、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[総合テレビジョンの大型](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。[NHK衛星第2テレビでも](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")していた（衛星第2テレビで特別編成が組まれる場合は[衛星第1テレビで代替放送](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")。後継番組『NHKニュース9』以降は、原則としてBSでのサイマル放送を実施していない）。
+
+## 概略・その他
+
+  - この番組から、スタジオが変更された。
+    それまで使用していた放送センター5階の「CT-510スタジオ」から、新築され本格稼働した北館「ニュースセンター」のAフロアへ移転、こちらに常設セットが組まれた。（朝のワイドニュースもこのセットを使用。同時に報道局や関連設備のほとんどが北館に移転しているほか、ニュースのテロップ送出が完全電子化された ）。
+
+<!-- end list -->
+
+  -
+    なお、祝日と重なる日は（原則として）30分に短縮して放送していた。
+
+## キャスター
+
+| 期間        | メインキャスター  | サブキャスター                                                 | スポーツキャスター                                               |
+| --------- | --------- | ------------------------------------------------------- | ------------------------------------------------------- |
+| 1990.4.2  | 1991.3.29 | [高島肇久](https://ja.wikipedia.org/wiki/高島肇久 "wikilink")☆  | [森田美由紀](https://ja.wikipedia.org/wiki/森田美由紀 "wikilink") |
+| 1991.4.1  | 1991.5.24 | [野瀬正夫](https://ja.wikipedia.org/wiki/野瀬正夫 "wikilink")   |                                                         |
+| 1991.5.27 | 1992.3.27 | [園田矢](https://ja.wikipedia.org/wiki/園田矢 "wikilink")☆    |                                                         |
+| 1992.3.30 | 1993.4.2  | [刈屋富士雄](https://ja.wikipedia.org/wiki/刈屋富士雄 "wikilink") |                                                         |
+
+  - ☆-NHK記者。それ以外はNHKアナウンサー（福島敦子は[局契約](https://ja.wikipedia.org/wiki/局契約 "wikilink")）
+  - 高島は報道局長就任のため降板。後に外務省外務報道官、現在は[日本国際放送](https://ja.wikipedia.org/wiki/日本国際放送 "wikilink")社長。
+  - 園田は高島が報道局長就任のため降板したため登板。
+  - 福島は『[NHKニュースTODAY](../Page/NHKニュースTODAY.md "wikilink")』から続投。
+
+## オープニング
+
+  - テーマ曲
+
+<!-- end list -->
+
+  - 作曲：[蒔田尚昊](https://ja.wikipedia.org/wiki/蒔田尚昊 "wikilink")（[冬木透](https://ja.wikipedia.org/wiki/冬木透 "wikilink")）
+  - 演奏：[桐朋学園](https://ja.wikipedia.org/wiki/桐朋学園 "wikilink")[音楽学部](https://ja.wikipedia.org/wiki/音楽学部 "wikilink")
+
+<!-- end list -->
+
+  - タイトルロゴ・CG
+
+<!-- end list -->
+
+  - 初代：1990.4 - 1991.3
+  - 2代目：1991.4 - 1993.3
+
+## 番組終了後
+
+1993年3月で放送が終了し、同年4月以後は番組を『**[NHKニュース9](https://ja.wikipedia.org/wiki/NHKニュース9 "wikilink")**』と『**[クローズアップ現代](https://ja.wikipedia.org/wiki/クローズアップ現代 "wikilink")**』（それぞれ30分ずつ）に変更したため、21時台の1時間全体に亘るワイドニュース枠はここで途絶えた（代わってはそれまで19時にて放送された『[7時のニュース](https://ja.wikipedia.org/wiki/NHKニュース_\(午後7時\) "wikilink")』をリニューアルし当時間帯の1時間大型ニュース枠はこの時間帯へ移動し『[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")』として放送されていた。その後全曜日の放送時間を30分に統一し、月曜～木曜の後半に『クローズアップ現代』を放送した）が、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")からの番組編成の抜本改革の一環として、13年ぶりに『[NHKニュース10](../Page/NHKニュース10.md "wikilink")』に代る21時台の新ワイドニュース番組『[ニュースウオッチ9](https://ja.wikipedia.org/wiki/ニュースウオッチ9 "wikilink")』がスタートした。
+
+## 拡大版「ニュースセンター特集」
+
+重大なニュースがある日などについては放送枠を拡大し、20:00からこのタイトルで放送された。この場合、通常21:00前に放送される県域ニュースが休止になるため、番組終了直後に5分間の県域ニュース枠を設けていた。
+
+この場合、番組タイトルは変更されているが、スポーツコーナーでは通常通り「21」ロゴ入りのものが使われる（BGMも通常通り）。また、エンディングテーマも通常と同じになっているが、終了時のクレジットが「NHKニュース21　終」ではなく「**この後は各地のニュース**」となっている。
+
+[Category:NHK総合テレビジョンの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの帯番組の歴史 "wikilink") [Category:NHK総合テレビジョンのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのニュース・報道番組の歴史 "wikilink") [Category:1990年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のテレビ番組_\(日本\) "wikilink")

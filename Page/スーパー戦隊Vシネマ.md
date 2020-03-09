@@ -1,0 +1,168 @@
+> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+
+
+**スーパー戦隊Vシネマ**（スーパーせんたいブイシネマ）は、[特撮テレビドラマシリーズ](../Page/特撮テレビ番組一覧.md "wikilink")「[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")」の[オリジナルビデオ](../Page/オリジナルビデオ.md "wikilink")作品シリーズ。
+
+## 概要
+
+[1996年](../Page/1996年.md "wikilink")、『[超力戦隊オーレンジャー](https://ja.wikipedia.org/wiki/超力戦隊オーレンジャー "wikilink")』の本放送終了後に[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")の放送20周年記念として、オリジナルビデオ『[超力戦隊オーレンジャー オーレVSカクレンジャー](https://ja.wikipedia.org/wiki/超力戦隊オーレンジャー_オーレVSカクレンジャー "wikilink")』が発売されたのが、本シリーズの始まりである。当時、スーパー戦隊シリーズの劇場版上映枠だった「[東映まんがまつり](https://ja.wikipedia.org/wiki/東映まんがまつり "wikilink")」が「[東映アニメフェア](https://ja.wikipedia.org/wiki/東映アニメフェア "wikilink")」に移行し、別枠で「[東映スーパーヒーローフェア](https://ja.wikipedia.org/wiki/東映スーパーヒーローフェア "wikilink")」があったとはいえ映画化作品の上映機会が減っていた一方、スーパー戦隊シリーズのビデオ販売やレンタルの成績は好調であった。そのような中で東映と[小学館](../Page/小学館.md "wikilink")が共同で実施した『[恐竜戦隊ジュウレンジャー](https://ja.wikipedia.org/wiki/恐竜戦隊ジュウレンジャー "wikilink")』のオリジナルビデオプレゼントには、東映側の予想を大幅に上回る10万本近い応募が集まり、これがきっかけとなって映画ではないビデオ作品制作の企画が立てられることになった。
+
+当初、シリーズ名称は**スーパー戦隊OVシリーズ**であったが、『星獣戦隊ギンガマンVSメガレンジャー』以降は**スーパー戦隊Vシネマ**に改称された。また、発売は基本的にテレビシリーズ終了後の3月だったが、これはテレビシリーズの放送局であるテレビ朝日と東映の契約上、本放送中作品のオリジナルビデオを発売できなかったためである。[2003年](../Page/2003年.md "wikilink")以降はテレビシリーズ本放送期間中にテレビシリーズのDVD発売と劇場版の公開、テレビシリーズ終了後に劇場版のDVDとVシネマ版が発売される形式が定着している。ただし、『救急戦隊ゴーゴーファイブ 激突！新たなる超戦士』（本放送中の7月）や『百獣戦隊ガオレンジャーVSスーパー戦隊』（本放送中の8月）のように変則的なリリースもあった。『帰ってきた侍戦隊シンケンジャー 特別幕』以降の作品はテレビシリーズ終了後の6月に発売されている。『10 YEARS AFTER』シリーズの発売時期は固定されておらず、『特捜戦隊デカレンジャー 10 YEARS AFTER』は初めて秋（10月）の発売となった。
+
+『宇宙戦隊キュウレンジャーVSスペース・スクワッド』と『ルパンレンジャーVSパトレンジャーVSキュウレンジャー』は、VSシリーズと帰ってきたシリーズが一本化され、Vシネマ作品を劇場先行公開する[Vシネクスト](https://ja.wikipedia.org/wiki/Vシネクスト "wikilink")枠で公開されている。
+
+過去にはテレビ朝日系列でも一部の作品が放送されたこともあり、2010年には『[スーパー戦隊VSシリーズ劇場](https://ja.wikipedia.org/wiki/スーパー戦隊VSシリーズ劇場 "wikilink")』と銘打ち、『オーレンジャー』から『[獣拳戦隊ゲキレンジャー](https://ja.wikipedia.org/wiki/獣拳戦隊ゲキレンジャー "wikilink")』までのVシネマ作品が放映された。
+
+## シリーズ
+
+  - VSシリーズ
+    発売年の当年度および前年度のスーパー戦隊の共演が主な内容となっている。映画作品に移行した『[劇場版 炎神戦隊ゴーオンジャーVSゲキレンジャー](https://ja.wikipedia.org/wiki/劇場版_炎神戦隊ゴーオンジャーVSゲキレンジャー "wikilink")』以後もシリーズとして扱われている。
+    各テレビシリーズのヒーローが2作品ずつに登場する形で発売されているが、『[忍者戦隊カクレンジャー](../Page/忍者戦隊カクレンジャー.md "wikilink")』『[未来戦隊タイムレンジャー](../Page/未来戦隊タイムレンジャー.md "wikilink")』『[魔法戦隊マジレンジャー](https://ja.wikipedia.org/wiki/魔法戦隊マジレンジャー "wikilink")』『[天装戦隊ゴセイジャー](https://ja.wikipedia.org/wiki/天装戦隊ゴセイジャー "wikilink")』『[動物戦隊ジュウオウジャー](https://ja.wikipedia.org/wiki/動物戦隊ジュウオウジャー "wikilink")』は1作品のみの登場となっている。また『[救急戦隊ゴーゴーファイブ](../Page/救急戦隊ゴーゴーファイブ.md "wikilink")』では前述のものとは別に、単独のオリジナル作品もリリースされている。
+    シリーズ節目の作品にあたる『[百獣戦隊ガオレンジャー](../Page/百獣戦隊ガオレンジャー.md "wikilink")』（25作品目）と『[轟轟戦隊ボウケンジャー](https://ja.wikipedia.org/wiki/轟轟戦隊ボウケンジャー "wikilink")』（30作品目）では、歴代作品から選抜された戦士と共演する『-VSスーパー戦隊』と呼ばれる作品が制作された。脚本や監督は新旧戦隊の両方に携わったサブライターや監督が担当する場合がほとんどである。
+    単独の『ゴーゴーファイブ』を除き、タイトルはほぼ全て『○○戦隊△△（新戦隊）VS□□（旧戦隊）』となっている。
+    両戦隊が一時的に対立することはあるものの、基本的に両戦隊が協力して共通の敵に立ち向かう物語が描かれる。現戦隊側はテレビシリーズの終了前、共演する前の戦隊は終了後の設定であるが、『ギンガマンVSメガレンジャー』のように現戦隊側も放送終了後という例外も存在する。
+    タイトルバック映像は、初期の作品では前者側戦隊のテレビシリーズのOP映像をそのまま使用し、後者側戦隊のメンバーは全員テロップのみでの一括紹介となっていたが、『ゴーゴーファイブVSギンガマン』以降はVシネマオリジナルの映像が使用され、後者側の戦士も1人ずつの紹介となった。また、『アバレンジャーVSハリケンジャー』以降はタイトルバック自体が使用されないことも多くなっているが、『ゲキレンジャーVSボウケンジャー』と『ゴーオンジャーVSゲキレンジャー』では戦隊メンバー\[1\]のクレジット映像が独自に制作され、旧戦隊側も本人が登場している。シリーズ初期は、名乗りの際に前戦隊の変身や名乗りの時のBGMが流れており、戦闘に入ってからは現戦隊のOPもしくは挿入歌が流れていた。
+  - 帰ってきたシリーズ
+    2010年の『帰ってきた侍戦隊シンケンジャー』以降のスーパー戦隊Vシネマは、劇場版での公開となった「VSシリーズ」に替わり\[2\]、番組終了後に展開する戦隊スペシャルプログラムとして制作されるようになった。題名に「帰ってきた」を冠し、[小学館](../Page/小学館.md "wikilink")の[てれびくん](https://ja.wikipedia.org/wiki/てれびくん "wikilink")編集部による書籍[超全集](https://ja.wikipedia.org/wiki/超全集 "wikilink")が付属。超全集には、[プレックス](https://ja.wikipedia.org/wiki/プレックス "wikilink")のデザイン画とスタッフやキャストへのインタビューが収録されている。
+    劇場公開されるVSシリーズと異なり保護者層や大人のファン層が購入するため、内容はテレビシリーズよりも大人向けを意識したものとなっている。
+  - 10 YEARS シリーズ
+    テレビシリーズのキャスト陣の熱意で実現した2013年の『忍風戦隊ハリケンジャー 10 YEARS AFTER』は、「その後のスーパー戦隊」を描くという、それまでにない潮流を生み出した。2018年にリリースされる第3弾『炎神戦隊ゴーオンジャー 10 YEARS GRANDPRIX』より、公式なシリーズ名として「10 YEARS シリーズ」の表記が用いられるようになった\[3\]\[4\]。
+
+## 発売メディア
+
+当初は[VHS](../Page/VHS.md "wikilink")と[レーザーディスク](../Page/レーザーディスク.md "wikilink")を中心にリリースされていたが、[2000年](../Page/2000年.md "wikilink")の『ゴーゴーファイブVSギンガマン』でレーザーディスクでの、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の『デカレンジャーVSアバレンジャー』でVHSでのリリースをそれぞれ終了。[2001年](../Page/2001年.md "wikilink")にはそれまでの全作品を[DVD](../Page/DVD.md "wikilink")メディアで再リリースした。DVDで再リリースされたVSシリーズのうち、Vシネマとして制作された作品のパッケージでは、背表紙の部分に「東映V<small>CINEMA</small>」の表記があり、[東映Vシネマ](https://ja.wikipedia.org/wiki/東映Vシネマ "wikilink")のシリーズという扱いとなっている。ただし一部の作品では「スーパー戦隊OVシリーズ」という表記が使われているものもある。
+
+また[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")にはこれらの全作品がレンタル解禁され、スーパー戦隊Vシネマは全作品のDVDがレンタル可能となった。この他、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の『マジレンジャーVSデカレンジャー』ではDVD以外に[UMDメディアでのリリースも行われた](https://ja.wikipedia.org/wiki/ユニバーサル・メディア・ディスク "wikilink")。
+
+[Blu-ray Disc](../Page/Blu-ray_Disc.md "wikilink")（BD）としては2013年の『忍風戦隊ハリケンジャー 10 YEARS AFTER』からリリースを開始。それ以前のシリーズ作品については、2016年3月・4月に2つのBOXに分割収録した「スーパー戦隊 V CINEMA & THE MOVIE Blu-ray BOX」がリリースされた。
+
+## 作品一覧
+
+### VSシリーズ
+
+  - [超力戦隊オーレンジャー オーレVSカクレンジャー](https://ja.wikipedia.org/wiki/超力戦隊オーレンジャー_オーレVSカクレンジャー "wikilink")
+  - [激走戦隊カーレンジャーVSオーレンジャー](https://ja.wikipedia.org/wiki/激走戦隊カーレンジャーVSオーレンジャー "wikilink")
+  - [電磁戦隊メガレンジャーVSカーレンジャー](https://ja.wikipedia.org/wiki/電磁戦隊メガレンジャーVSカーレンジャー "wikilink")
+  - [星獣戦隊ギンガマンVSメガレンジャー](https://ja.wikipedia.org/wiki/星獣戦隊ギンガマンVSメガレンジャー "wikilink")
+  - [救急戦隊ゴーゴーファイブ 激突\!新たなる超戦士](https://ja.wikipedia.org/wiki/救急戦隊ゴーゴーファイブ_激突!新たなる超戦士 "wikilink")
+  - [救急戦隊ゴーゴーファイブVSギンガマン](https://ja.wikipedia.org/wiki/救急戦隊ゴーゴーファイブVSギンガマン "wikilink")
+  - [未来戦隊タイムレンジャーVSゴーゴーファイブ](https://ja.wikipedia.org/wiki/未来戦隊タイムレンジャーVSゴーゴーファイブ "wikilink")
+  - [百獣戦隊ガオレンジャーVSスーパー戦隊](https://ja.wikipedia.org/wiki/百獣戦隊ガオレンジャーVSスーパー戦隊 "wikilink")
+  - [忍風戦隊ハリケンジャーVSガオレンジャー](https://ja.wikipedia.org/wiki/忍風戦隊ハリケンジャーVSガオレンジャー "wikilink")
+  - [爆竜戦隊アバレンジャーVSハリケンジャー](https://ja.wikipedia.org/wiki/爆竜戦隊アバレンジャーVSハリケンジャー "wikilink")
+  - [特捜戦隊デカレンジャーVSアバレンジャー](https://ja.wikipedia.org/wiki/特捜戦隊デカレンジャーVSアバレンジャー "wikilink")
+  - [魔法戦隊マジレンジャーVSデカレンジャー](https://ja.wikipedia.org/wiki/魔法戦隊マジレンジャーVSデカレンジャー "wikilink")
+  - [轟轟戦隊ボウケンジャーVSスーパー戦隊](https://ja.wikipedia.org/wiki/轟轟戦隊ボウケンジャーVSスーパー戦隊 "wikilink")
+  - [獣拳戦隊ゲキレンジャーVSボウケンジャー](https://ja.wikipedia.org/wiki/獣拳戦隊ゲキレンジャーVSボウケンジャー "wikilink")
+
+### 帰ってきたシリーズ
+
+  - [帰ってきた侍戦隊シンケンジャー 特別幕](https://ja.wikipedia.org/wiki/帰ってきた侍戦隊シンケンジャー_特別幕 "wikilink")
+  - [帰ってきた天装戦隊ゴセイジャー last epic](https://ja.wikipedia.org/wiki/帰ってきた天装戦隊ゴセイジャー_last_epic "wikilink")
+  - [帰ってきた特命戦隊ゴーバスターズVS動物戦隊ゴーバスターズ](https://ja.wikipedia.org/wiki/帰ってきた特命戦隊ゴーバスターズVS動物戦隊ゴーバスターズ "wikilink")
+  - [帰ってきた獣電戦隊キョウリュウジャー 100 YEARS AFTER](https://ja.wikipedia.org/wiki/帰ってきた獣電戦隊キョウリュウジャー_100_YEARS_AFTER "wikilink")
+  - [行って帰ってきた烈車戦隊トッキュウジャー 夢の超トッキュウ7号](https://ja.wikipedia.org/wiki/行って帰ってきた烈車戦隊トッキュウジャー_夢の超トッキュウ7号 "wikilink")
+  - [帰ってきた手裏剣戦隊ニンニンジャー ニンニンガールズVSボーイズ FINAL WARS](https://ja.wikipedia.org/wiki/帰ってきた手裏剣戦隊ニンニンジャー_ニンニンガールズVSボーイズ_FINAL_WARS "wikilink")
+  - [帰ってきた動物戦隊ジュウオウジャー お命頂戴\!地球王者決定戦](https://ja.wikipedia.org/wiki/帰ってきた動物戦隊ジュウオウジャー_お命頂戴!地球王者決定戦 "wikilink")
+
+### 10 YEARS シリーズ
+
+  - [忍風戦隊ハリケンジャー 10 YEARS AFTER](https://ja.wikipedia.org/wiki/忍風戦隊ハリケンジャー_10_YEARS_AFTER "wikilink")
+  - [特捜戦隊デカレンジャー 10 YEARS AFTER](https://ja.wikipedia.org/wiki/特捜戦隊デカレンジャー_10_YEARS_AFTER "wikilink")
+  - [炎神戦隊ゴーオンジャー 10 YEARS GRANDPRIX](https://ja.wikipedia.org/wiki/炎神戦隊ゴーオンジャー_10_YEARS_GRANDPRIX "wikilink")
+
+### スピンオフ
+
+  - [宇宙戦隊キュウレンジャー Episode of スティンガー](https://ja.wikipedia.org/wiki/宇宙戦隊キュウレンジャー#Vシネマ "wikilink")
+
+### VSシリーズ（Vシネクスト）
+
+  - [宇宙戦隊キュウレンジャーVSスペース・スクワッド](https://ja.wikipedia.org/wiki/スペース・スクワッド#『宇宙戦隊キュウレンジャーVSスペース・スクワッド』 "wikilink")
+  - [ルパンレンジャーVSパトレンジャーVSキュウレンジャー](https://ja.wikipedia.org/wiki/ルパンレンジャーVSパトレンジャーVSキュウレンジャー "wikilink")
+
+## 関連作品
+
+  - [ジャッカー電撃隊VSゴレンジャー](https://ja.wikipedia.org/wiki/ジャッカー電撃隊VSゴレンジャー "wikilink")
+    戦隊同士の共演の元祖。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")3月公開。作中では、[仮面ライダー](../Page/仮面ライダー.md "wikilink")や[キカイダー](https://ja.wikipedia.org/wiki/キカイダー "wikilink")も存在する世界観であることが明言されている。
+  - [スーパー戦隊ワールド](https://ja.wikipedia.org/wiki/スーパー戦隊ワールド_\(映画\) "wikilink")
+    [忍者戦隊カクレンジャー](../Page/忍者戦隊カクレンジャー.md "wikilink")、[五星戦隊ダイレンジャー](https://ja.wikipedia.org/wiki/五星戦隊ダイレンジャー "wikilink")、[恐竜戦隊ジュウレンジャー](https://ja.wikipedia.org/wiki/恐竜戦隊ジュウレンジャー "wikilink")、[鳥人戦隊ジェットマン](../Page/鳥人戦隊ジェットマン.md "wikilink")、[地球戦隊ファイブマン](https://ja.wikipedia.org/wiki/地球戦隊ファイブマン "wikilink")の5戦隊の共演を描いた作品。
+  - [スーパー戦隊VSシリーズ劇場](https://ja.wikipedia.org/wiki/スーパー戦隊VSシリーズ劇場 "wikilink")
+    スーパー戦隊VSシリーズのうち、Vシネマ作品を30分枠に収まる形で分割の上テレビ放送。
+  - [海賊戦隊ゴーカイジャー](https://ja.wikipedia.org/wiki/海賊戦隊ゴーカイジャー "wikilink")
+    ゴーカイジャーが変身する形で過去34戦隊が総出演。過去34作品からのゲストとして過去の戦士（変身前）も複数登場している。また、パチャカマックやアカレッドなど本シリーズに関連したキャラクターも登場する。
+  - [ゴーカイジャー ゴセイジャー スーパー戦隊199ヒーロー大決戦](https://ja.wikipedia.org/wiki/ゴーカイジャー_ゴセイジャー_スーパー戦隊199ヒーロー大決戦 "wikilink")
+    スーパー戦隊Vシネマや[スーパー戦隊祭の流れを汲む作品](https://ja.wikipedia.org/wiki/#スーパー戦隊祭 "wikilink")。ゴーカイジャーとゴセイジャーを中心とした35戦隊が共演する。
+  - スーパーヒーロー大戦シリーズ（[仮面ライダー×スーパー戦隊 スーパーヒーロー大戦](https://ja.wikipedia.org/wiki/仮面ライダー×スーパー戦隊_スーパーヒーロー大戦 "wikilink")、[仮面ライダー×スーパー戦隊×宇宙刑事 スーパーヒーロー大戦Z](https://ja.wikipedia.org/wiki/仮面ライダー×スーパー戦隊×宇宙刑事_スーパーヒーロー大戦Z "wikilink")、[仮面ライダー×スーパー戦隊 超スーパーヒーロー大戦](https://ja.wikipedia.org/wiki/仮面ライダー×スーパー戦隊_超スーパーヒーロー大戦 "wikilink")）
+    いずれも、[先に公開された『ゴーカイジャーVSギャバン』と同様に戦隊以外のシリーズとのクロスオーバー作品](https://ja.wikipedia.org/wiki/#スーパー戦隊祭 "wikilink")。第1作目では[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")と共演、第2作目では更に[宇宙刑事シリーズ](https://ja.wikipedia.org/wiki/宇宙刑事シリーズ "wikilink")が加わっている。
+
+### スーパー戦隊祭
+
+スーパー戦隊Vシネマからの派生企画で、2017年まで連年制作された。いずれも上映時間が60分前後と短めであり、公開から早期の映像ソフト化を前提としているため、鑑賞料金が従来より安価の特別料金に設定されている。
+
+『[劇場版 炎神戦隊ゴーオンジャーVSゲキレンジャー](https://ja.wikipedia.org/wiki/劇場版_炎神戦隊ゴーオンジャーVSゲキレンジャー "wikilink")』を除き、放送開始前の最新戦隊もゲスト出演する。ただし、タイトル表記の2戦隊とは直接共闘及び対面はしない。登場も変身後の姿のみだが、声はオリジナルキャストが担当しており、これが戦隊としての初アフレコとなる。
+
+2018年は上記「帰ってきたシリーズ」も含めて制作されていないが、その理由について[白倉伸一郎](https://ja.wikipedia.org/wiki/白倉伸一郎 "wikilink")は「新戦隊VS新戦隊（次作『快盗戦隊ルパンレンジャーVS警察戦隊パトレンジャー』）と前戦隊VS前々戦隊（『キュウレンジャー』と『ジュウオウジャー』）もあるとワケ分からないです。他にも理由はあるが同じフォーマット同士で成立するVSは、従来のフォーマット崩しを意図するキュウレンには合わないと感じる」と、自身のTwitterアカウントで語っている\[5\]。
+
+  - [劇場版 炎神戦隊ゴーオンジャーVSゲキレンジャー](https://ja.wikipedia.org/wiki/劇場版_炎神戦隊ゴーオンジャーVSゲキレンジャー "wikilink")
+    スーパー戦隊祭第1作目。当初はVシネマとして制作されたが、映画『[ふうけもん](https://ja.wikipedia.org/wiki/ふうけもん "wikilink")』の公開中止に伴い、その穴埋めとして劇場公開され、以後のVSシリーズも劇場版として制作されるきっかけとなった。
+  - [侍戦隊シンケンジャーVSゴーオンジャー 銀幕BANG\!\!](https://ja.wikipedia.org/wiki/侍戦隊シンケンジャーVSゴーオンジャー_銀幕BANG!! "wikilink")
+    スーパー戦隊祭第2作目。同作品より劇場公開を前提に制作される。
+  - [天装戦隊ゴセイジャーVSシンケンジャー エピックon銀幕](https://ja.wikipedia.org/wiki/天装戦隊ゴセイジャーVSシンケンジャー_エピックon銀幕 "wikilink")
+    スーパー戦隊祭第3作目。前作『シンケンジャーVSゴーオンジャー』にゴセイジャーが登場した際の状況から、同作品でもゴセイジャー側はシンケンジャーの存在を認知している描写がなされている。
+  - [海賊戦隊ゴーカイジャーVS宇宙刑事ギャバン THE MOVIE](https://ja.wikipedia.org/wiki/海賊戦隊ゴーカイジャーVS宇宙刑事ギャバン_THE_MOVIE "wikilink")
+    スーパー戦隊祭第4作目。シリーズ初の戦隊以外のキャラクター（同作品では[メタルヒーロー](https://ja.wikipedia.org/wiki/メタルヒーローシリーズ "wikilink")）との共演作として制作された。
+  - [特命戦隊ゴーバスターズVS海賊戦隊ゴーカイジャー THE MOVIE](https://ja.wikipedia.org/wiki/特命戦隊ゴーバスターズVS海賊戦隊ゴーカイジャー_THE_MOVIE "wikilink")
+    スーパー戦隊祭第5作目。シリーズ中では唯一、2大戦隊の正式タイトルを含む形の作品。『スーパーヒーロー大戦』で表題の2大戦隊が対面済みである設定が受け継がれている。
+  - [獣電戦隊キョウリュウジャーVSゴーバスターズ 恐竜大決戦\! さらば永遠の友よ](https://ja.wikipedia.org/wiki/獣電戦隊キョウリュウジャーVSゴーバスターズ_恐竜大決戦!_さらば永遠の友よ "wikilink")
+    スーパー戦隊祭第6作目。2大戦隊だけでなく、キョウリュウジャーと同じ恐竜モチーフのジュウレンジャーとアバレンジャーが登場。次年度のトッキュウジャーは本編終了後に登場する。
+  - [烈車戦隊トッキュウジャーVSキョウリュウジャー THE MOVIE](https://ja.wikipedia.org/wiki/烈車戦隊トッキュウジャーVSキョウリュウジャー_THE_MOVIE "wikilink")
+    スーパー戦隊祭第7作目。同作品をもって『VSシリーズ』が20年目を迎えた\[6\]。
+  - [手裏剣戦隊ニンニンジャーVSトッキュウジャー THE MOVIE 忍者・イン・ワンダーランド](https://ja.wikipedia.org/wiki/手裏剣戦隊ニンニンジャーVSトッキュウジャー_THE_MOVIE_忍者・イン・ワンダーランド "wikilink")
+    スーパー戦隊祭第8作目。
+  - [劇場版 動物戦隊ジュウオウジャーVSニンニンジャー 未来からのメッセージ from スーパー戦隊](https://ja.wikipedia.org/wiki/劇場版_動物戦隊ジュウオウジャーVSニンニンジャー_未来からのメッセージ_from_スーパー戦隊 "wikilink")
+    スーパー戦隊祭第9作目。
+
+### スーパー戦隊MOVIEパーティー
+
+2020年より展開されている、上記「スーパー戦隊祭」に代わる劇場公開企画。
+
+  - [劇場版 騎士竜戦隊リュウソウジャーVSルパンレンジャーVSパトレンジャー](https://ja.wikipedia.org/wiki/劇場版_騎士竜戦隊リュウソウジャーVSルパンレンジャーVSパトレンジャー "wikilink")
+    [魔進戦隊キラメイジャー エピソードZERO](https://ja.wikipedia.org/wiki/魔進戦隊キラメイジャー_エピソードZERO "wikilink")
+    スーパー戦隊MOVIEパーティー第1作目。
+
+### スペース・スクワッド
+
+[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")と[メタルヒーローシリーズ](https://ja.wikipedia.org/wiki/メタルヒーローシリーズ "wikilink")のクロスオーバー作品。『特捜戦隊デカレンジャー 10 YEARS AFTER』と『[宇宙刑事 NEXT GENERATION](https://ja.wikipedia.org/wiki/宇宙刑事_NEXT_GENERATION "wikilink")』の好評を受けて制作された企画である\[7\]。『キュウレンジャーVSスペース・スクワッド』はこの一編としても制作された。
+
+  - [スペース・スクワッド ギャバンVSデカレンジャー](https://ja.wikipedia.org/wiki/スペース・スクワッド#『スペース・スクワッド_ギャバンVSデカレンジャー』 "wikilink")
+  - [ガールズ・イン・トラブル スペース・スクワッド エピソードゼロ](https://ja.wikipedia.org/wiki/スペース・スクワッド#『ガールズ・イン・トラブル_スペース・スクワッド_エピソードゼロ』 "wikilink")
+  - 宇宙戦隊キュウレンジャーVSスペース・スクワッド
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  -
+  -
+  -
+  -
+## 外部リンク
+
+  - [DVD スーパー戦隊Vシネマ特集](http://www.toei-video.co.jp/DVD/sp21/sentai-ov.html)（東映ビデオ内サイト）
+  - スーパー戦隊VSシリーズ劇場
+      - [テレビ朝日内公式サイト](http://www.tv-asahi.co.jp/sentaivs/)
+      - [東映内公式サイト](http://www.toei.co.jp/tv/sentaivs/)
+
+[Category:スーパー戦隊シリーズのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:スーパー戦隊シリーズのクロスオーバー作品 "wikilink") [Category:スーパー戦隊シリーズオリジナルビデオ作品](https://ja.wikipedia.org/wiki/Category:スーパー戦隊シリーズオリジナルビデオ作品 "wikilink") [Category:スーパー戦隊Vシネマ](https://ja.wikipedia.org/wiki/Category:スーパー戦隊Vシネマ "wikilink")
+
+1.  両作品とも『[獣拳戦隊ゲキレンジャー](https://ja.wikipedia.org/wiki/獣拳戦隊ゲキレンジャー "wikilink")』の敵幹部である理央とメレも含む。
+2.
+3.
+4.
+5.
+6.  [『烈車戦隊トッキュウジャーVSキョウリュウジャー THE MOVIE』初日舞台挨拶　レポート！ 東映［映画］](http://www.toei.co.jp/release/movie/1204942_979.html)
+7.  『スペース・スクワッド ギャバンVSデカレンジャー/ガールズ・イン・トラブル スペース・スクワッド エピソードゼロ』パンフレット 2017年6月17日発行 編集・執筆：用田邦憲 発行所：東映ビデオ

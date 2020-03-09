@@ -1,0 +1,138 @@
+> この記事は[P.A.](https://ja.wikipedia.org/wiki/P.A.)から翻訳されています。
+
+
+『**P.A.**』（プライベート・アクトレス）は[赤石路代](../Page/赤石路代.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[小学館](../Page/小学館.md "wikilink")発行の『[プチコミック](https://ja.wikipedia.org/wiki/プチコミック "wikilink")』に1991年4月号から1999年2月号まで連載された。[フラワーコミックス](https://ja.wikipedia.org/wiki/フラワーコミックス "wikilink")全8巻+特別編全1巻。小学館文庫全4巻。
+
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[榎本加奈子](https://ja.wikipedia.org/wiki/榎本加奈子 "wikilink")の主演でドラマ化された。同年、[野原広子により](https://ja.wikipedia.org/wiki/野原広子_\(フリーライター\) "wikilink")[ノベライズ](https://ja.wikipedia.org/wiki/ノベライズ "wikilink")されている\[1\]。
+
+## あらすじ
+
+女子高生・[小早川志緒は](https://ja.wikipedia.org/wiki/#小早川志緒 "wikilink")、学校には内緒でアルバイトを行っていた。そのアルバイトとは「P.A.（プライベート・アクトレス）」、依頼者と契約を結んで依頼者の要望に応じた『役』（愛人整理のための恋人役や結婚式の友人役など）を演じるというもの。数多いP.A.の中でも、志緒は本物と錯覚させるほどの優れた演技力を持っていたが、大女優・[永沢さゆりの隠し子であることから](https://ja.wikipedia.org/wiki/#永沢さゆり "wikilink")、女優にならず現実世界で演じることを選んでいた。
+
+P.A.の仕事を通じて志緒は、様々な人と出会い、依頼の背景にある様々な愛憎劇を垣間見る。基本的に一話完結で、タイトルにはある有名人の名前が入っている。
+
+## 登場人物
+
+  -
+    主人公（ヒロイン）。大女優・永沢さゆりの一人娘だが、世間にその事実を知られないようにするため別居しており一人暮らし。
+    通常は高校生として生活しながら、[芸能プロダクション](https://ja.wikipedia.org/wiki/芸能プロダクション "wikilink")・日青プロに所属し、通常のエキストラ業務などをこなしつつ、依頼人の求めに応じて様々なP.A.を演じる。P.A.の依頼内容によっては、年齢を偽装し中学校に潜入したりもする。
+    原作の終盤では羽村、両親の説得、十文字との演技対決を経て本格的に女優デビュー。デビュー後数年で若手実力派女優としての評価を確立し、[アカデミー賞](../Page/アカデミー賞.md "wikilink")にもノミネートされるまでに成長した。
+
+<!-- end list -->
+
+  -
+    日本を代表する大女優。モデルは[吉永小百合](../Page/吉永小百合.md "wikilink")。
+    かつて緒方正和と付き合っていた際に妊娠し志緒を産むが、志緒の存在を世間一般はもちろんのこと緒方にもひた隠しにしていた。
+    原作では、[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")での映画ロケの最中に、撮影のため乗船していた豪華客船が沈没する事故に巻き込まれる。何とか一命は取り留めたものの、顔の左半分に[ケロイド](https://ja.wikipedia.org/wiki/ケロイド "wikilink")状の傷が残る重傷を負ってしまったため、女優復帰は困難として引退を発表した。ただ本人や周囲の人間は、整形外科の世界的権威の診断を仰ぐなど、女優復帰の道を模索している。
+
+<!-- end list -->
+
+  -
+    日本を代表する俳優の一人。既婚者で妻と息子がいるが、既に結婚していたにもかかわらずさゆりと[不倫](https://ja.wikipedia.org/wiki/不倫 "wikilink")していた過去を持つ。
+    原作では息子の京介が「母を精神錯乱寸前まで追い込んだ父への復讐」として志緒をP.A.として雇ったことで、志緒との面識を持つ。この際はあくまでP.A.として「緒方正和と永沢さゆりの娘」を演じた志緒だったが、後にさゆりがフィンランドで事故に巻き込まれた際に、志緒が本当に二人の間の子供であることを悟る。そのため最終的には妻と離婚した上でさゆりと再婚し、志緒が二人の間の娘であることも公表した。
+
+<!-- end list -->
+
+  -
+    志緒の彼氏。当初は別の芸能プロダクションに所属するP.A.として登場したが、間もなく志緒と同棲を始める。
+    実は大財閥・羽村コンツェルンの総帥が愛人に生ませた末っ子。原作後半ではその父親が亡くなり、知臣が遺言で後継者として指名されてしまったため、志緒の元を離れコンツェルンの経営を引き継ぐことになる。総帥が亡くなった直後に一時経営が傾きかけたコンツェルンを見事に立て直し、経営者としても一目置かれる存在となった。
+
+<!-- end list -->
+
+  - （両堂沙都香）
+    初回登場時は、とある全寮制の女子校に通う中学生。その学校で謎の死亡事故が相次ぎ、その被害者の一人（花菜の同級生）の両親が、事件の真相を探るべく志緒にP.A.として学校への潜入を依頼したことから知り合う。
+    潜入調査の結果、実はそれらの死亡事故の被害者は全て花菜との間で何らかの問題を起こした人間で、事故に見せかけて花菜とその仲間によって殺されていたことが判明。事件の真相が明るみにでた結果、花菜は警察に連行され、問題は解決したかに見えた。
+    しかしその数年後、花菜は整形手術で容貌を一変させ、「両堂沙都香」と名前も変えた上で、今度は女優として再び志緒の前に現れる。志緒は女優として演技での戦いを見せる一方で、沙都香サイドが仕掛けてくる様々なスキャンダルにも立ち向かうことになる。
+
+## ドラマ
+
+1998年10月17日から1998年12月12日に、[日本テレビ系列の](../Page/日本テレビ放送網.md "wikilink")[土曜ドラマの枠](https://ja.wikipedia.org/wiki/土曜ドラマ_\(日本テレビ\) "wikilink")（毎週土曜日21時～21時54分）にて放送された[榎本加奈子](https://ja.wikipedia.org/wiki/榎本加奈子 "wikilink")が主演のテレビドラマ。
+
+志緒の実父に関する設定が原作と異なっている。1999年5月21日 - 6月21日に全5巻でVHSが発売されているが、DVDは発売されていない。
+
+### キャスト
+
+  - 小早川志緒（演：[榎本加奈子](https://ja.wikipedia.org/wiki/榎本加奈子 "wikilink")）
+  - 二階堂義孝（演：[岩城滉一](https://ja.wikipedia.org/wiki/岩城滉一 "wikilink")）
+  - 永沢さゆり（演：[萬田久子](https://ja.wikipedia.org/wiki/萬田久子 "wikilink")）
+  - 江川真奈美（演：[黒田福美](https://ja.wikipedia.org/wiki/黒田福美 "wikilink")）
+  - 羽村知臣（演：[池内博之](https://ja.wikipedia.org/wiki/池内博之 "wikilink")）
+  - 高村敬子（演：[原千晶](https://ja.wikipedia.org/wiki/原千晶 "wikilink")）
+  - 高円寺るい（演：[加藤あい](https://ja.wikipedia.org/wiki/加藤あい "wikilink")）
+  - 久保田亜美（演：[森下涼子](https://ja.wikipedia.org/wiki/森下涼子 "wikilink")）
+  - 相田イサム（演：[原田龍二](https://ja.wikipedia.org/wiki/原田龍二 "wikilink")）
+  - 早乙女もえ（演：[酒井若菜](https://ja.wikipedia.org/wiki/酒井若菜 "wikilink")）
+  - 十文字あや（演：槙野愛弓）
+  - 村上貴志（演：[池田政典](https://ja.wikipedia.org/wiki/池田政典 "wikilink")）
+  - 結城忠久（演：[篠井英介](https://ja.wikipedia.org/wiki/篠井英介 "wikilink")）
+  - 笹本勇太（演：[森廉](https://ja.wikipedia.org/wiki/森廉 "wikilink")）
+  - 田所なつき（演：[野波麻帆](https://ja.wikipedia.org/wiki/野波麻帆 "wikilink")）
+  - 川村雅江（演：[結城しのぶ](https://ja.wikipedia.org/wiki/結城しのぶ "wikilink")）
+  - 宗方ひろみ（演：[喜多嶋舞](https://ja.wikipedia.org/wiki/喜多嶋舞 "wikilink")）
+  - 宗方修造（演：[勝部演之](https://ja.wikipedia.org/wiki/勝部演之 "wikilink")）
+  - 牧村杏（演：[三浦理恵子](https://ja.wikipedia.org/wiki/三浦理恵子 "wikilink")）
+      - 大学病院勤務のナース。交際していた三沢の嗾しで病院から薬品などを盗み出していた。対立した志緒に本心を打ち明けた直後、口封じの為に三沢に殺害されかかる。
+  - 葉村しずか（演：[水野美紀](https://ja.wikipedia.org/wiki/水野美紀 "wikilink")）
+      - 大学病院医局長の娘。父の勧めで三沢と見合いをするが、のちに志緒などから彼の本性を伝えられ、激怒。三沢に平手打ちを食らわして去ってゆく。
+  - 響野鈴香（演：[水川あさみ](https://ja.wikipedia.org/wiki/水川あさみ "wikilink")）
+  - 三沢竜太郎（演：[高知東生](https://ja.wikipedia.org/wiki/高知東生 "wikilink")）
+      - 大学病院の勤務医。女癖が悪かったが、政略結婚をする事になったとして志緒に新しい恋人役を依頼。次々に諦めさせようとする。のちに志緒に本心と悪事を知られ、懲らしめられる。
+  - 杉浦正人（演：[大竹まこと](https://ja.wikipedia.org/wiki/大竹まこと "wikilink")）
+  - 杉浦遊人（演：[天本英世](../Page/天本英世.md "wikilink")）
+  - 千堂一馬（演：[マイク真木](https://ja.wikipedia.org/wiki/マイク真木 "wikilink")）
+  - 町田環（演：[角替和枝](https://ja.wikipedia.org/wiki/角替和枝 "wikilink")）
+  - 町田正春（演：[デビット伊東](https://ja.wikipedia.org/wiki/デビット伊東 "wikilink")）
+  - 大地瑠璃子（演：[かとうかず子](https://ja.wikipedia.org/wiki/かとうかず子 "wikilink")）
+  - 青木亘（演：[羽場裕一](https://ja.wikipedia.org/wiki/羽場裕一 "wikilink")）
+  - 森真紀子（演：[森公美子](https://ja.wikipedia.org/wiki/森公美子 "wikilink")）
+  - 香坂みさき（演：[鰐淵晴子](https://ja.wikipedia.org/wiki/鰐淵晴子 "wikilink")）
+  - 権藤徹　(演：[加藤久仁彦](https://ja.wikipedia.org/wiki/加藤久仁彦 "wikilink"))
+  - オープニングナレーション：[赤坂泰彦](https://ja.wikipedia.org/wiki/赤坂泰彦 "wikilink")
+
+### スタッフ
+
+  - チーフプロデューサー：重松修
+  - プロデューサー：[田中芳樹](https://ja.wikipedia.org/wiki/田中芳樹_\(プロデューサー\) "wikilink")
+  - 原作：[赤石路代](../Page/赤石路代.md "wikilink")
+  - 脚本：[野依美幸](https://ja.wikipedia.org/wiki/野依美幸 "wikilink")
+  - 演出：[佐藤東弥](https://ja.wikipedia.org/wiki/佐藤東弥 "wikilink")、金田和樹、萩野哲弘
+  - 音楽：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+  - 制作協力：[5年D組](https://ja.wikipedia.org/wiki/5年D組 "wikilink")
+  - 製作著作：日本テレビ
+
+### 主題歌
+
+  - 「[Perfume of love](https://ja.wikipedia.org/wiki/Perfume_of_love "wikilink")」 [globe](https://ja.wikipedia.org/wiki/globe "wikilink")
+
+### 受賞歴
+
+  - 第19回[ザテレビジョンドラマアカデミー賞](https://ja.wikipedia.org/wiki/ザテレビジョンドラマアカデミー賞 "wikilink")
+      - **ザテレビジョン特別賞**
+
+### サブタイトル
+
+| 各話                                                                             | 放送日         | サブタイトル         | 演出                                     | 視聴率                                   |
+| ------------------------------------------------------------------------------ | ----------- | -------------- | -------------------------------------- | ------------------------------------- |
+| P.A.1                                                                          | 1998年10月17日 | 制服を脱いだ17才      | 佐藤東弥                                   | <span style="color:red;">18.7%</span> |
+| P.A.2                                                                          | 1998年10月24日 | 復讐はナース姿で       |                                        | 16.2%                                 |
+| P.A.3                                                                          | 1998年10月31日 | 生存率50%の勇気\!    | 金田和樹                                   | 14.6%                                 |
+| P.A.4                                                                          | 1998年11月7日  | 百万円で売られた娘      | <span style="color:blue;">14.1%</span> |                                       |
+| P.A.5                                                                          | 1998年11月14日 | チャイナドレス作戦      | 佐藤東弥                                   | 17.3%                                 |
+| P.A.6                                                                          | 1998年11月21日 | 幻の秘技\!紅一文字     | 荻野哲弘                                   | 15.5%                                 |
+| P.A.7                                                                          | 1998年11月28日 | 成功率0%命がけのバレリーナ | <span style="color:blue;">14.1%</span> |                                       |
+| P.A.8                                                                          | 1998年12月5日  | 純愛のフルマラソン      | 14.7%                                  |                                       |
+| P.A.9                                                                          | 1998年12月12日 | 最終回            | No.1の女優は私よ\!                           | 佐藤東弥                                  |
+|                                                                                |             |                |                                        |                                       |
+| 平均視聴率 15.7% （[ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")、関東地区） |             |                |                                        |                                       |
+
+### 補足
+
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月24日](../Page/9月24日.md "wikilink")に放送された『[秋のスーパークイズスペシャル](https://ja.wikipedia.org/wiki/スーパークイズスペシャル "wikilink")』に出演。優勝決定バトルで、巨大水槽に潜って正解の物をとってくるという企画が行われ、チーム代表として榎本が参加した。衣装着用のまま巨大水槽に潜って正解の物を採るというルールだった。
+
+榎本も開始と同時に真っ先に向かい、『P.A. プライベート・アクトレス』の衣装である春秋用セーラー服を着用した恰好のまま巨大水槽に潜った。最後は正解の物を手にして優勝をつかみ取った。
+
+## 脚注
+
+[Category:赤石路代](https://ja.wikipedia.org/wiki/Category:赤石路代 "wikilink") [Category:漫画作品_ふ](https://ja.wikipedia.org/wiki/Category:漫画作品_ふ "wikilink") [Category:プチコミック](https://ja.wikipedia.org/wiki/Category:プチコミック "wikilink") [Category:俳優を題材とした作品](https://ja.wikipedia.org/wiki/Category:俳優を題材とした作品 "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:土曜ドラマ_(日本テレビ)](https://ja.wikipedia.org/wiki/Category:土曜ドラマ_\(日本テレビ\) "wikilink") [Category:1998年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1998年のテレビドラマ "wikilink")
+
+1.

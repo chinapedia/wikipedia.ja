@@ -1,0 +1,196 @@
+> この記事は[WILD ADAPTER](https://ja.wikipedia.org/wiki/WILD_ADAPTER)から翻訳されています。
+
+
+『**WILD ADAPTER**』（ワイルドアダプター）は、[峰倉かずや](../Page/峰倉かずや.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
+
+## 概要
+
+2000年より隔月少女漫画雑誌『[Chara](https://ja.wikipedia.org/wiki/Chara_\(雑誌\) "wikilink")』（[徳間書店](../Page/徳間書店.md "wikilink")）で連載していた作品。2011年に[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")『[コミックZERO-SUM増刊WARD](https://ja.wikipedia.org/wiki/コミックZERO-SUM増刊WARD "wikilink")』へ移籍が発表され、2011年10月から2012年3月まで徳間書店版と同内容の新装版を刊行。連載は休止していたが、2013年春から連載再開が決まった。また、単行本に収録されていなかったエピソードを『[ゼロサムオンライン](https://ja.wikipedia.org/wiki/ゼロサムオンライン "wikilink")』にて加筆修正したリメイク版を2012年秋に公開したのち、2015年からはゼロサムオンラインにて連載。
+
+謎のドラッグ「W.A」をめぐる久保田誠人と時任稔、二人の現実と絆を描いた作品。物語は1990年代の横浜を舞台に、「W.A」を狙う出雲会、東条組をはじめとするヤクザも絡みながら進行してゆく。『[私立荒磯高等学校生徒会執行部](https://ja.wikipedia.org/wiki/私立荒磯高等学校生徒会執行部 "wikilink")』と本作は全く繋がっていない（[スターシステム](https://ja.wikipedia.org/wiki/スター・システム_\(小説・アニメ・漫画\) "wikilink")）。
+
+## 発刊リスト
+
+  - 単行本
+    キャラコミックス及びゼロサムコミックスから発刊されている。括弧内は作中の時間軸。
+
+<!-- end list -->
+
+1.  2001年6月発行 ISBN 4-19-960161-9 （1995年5月 - 1996年1月22日）
+2.  2002年6月発行 ISBN 4-19-960190-2 （1997年1月16日 - 1月23日）
+3.  2003年10月25日発行 ISBN 4-19-960233-X
+4.  2005年6月25日発行 ISBN 4-19-960289-5
+5.  2006年6月24日発行 ISBN 4-19-960319-0 （1996年2月11日 - 6月2日）
+6.  2008年2月25日発行 ISBN 978-4-19-960367-9 （1998年）
+7.  2015年7月25日発行
+
+<!-- end list -->
+
+  - 画集
+
+<!-- end list -->
+
+1.  「Sugar coat」 2004年3月25日 ISBN 4-19-960247-X
+2.  「Sugar coat excess」 2012年7月25日
+
+## 登場人物
+
+### 主要人物
+
+  - 久保田誠人（くぼた まこと）
+    声 - [森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
+    主人公。昭和54年[8月24日](../Page/8月24日.md "wikilink")生まれ、身長184cm、体重74kg、O型。
+    出雲会の年少組リーダーとして7か月所属し、信夫の死をきっかけに脱会する。その際、東条組の横浜支部事務所を1人で壊滅させる。また時任が誘拐されたときには、出雲会の事務所と年少組を殲滅している。趣味は[麻雀](../Page/麻雀.md "wikilink")を始めとする賭け事。対人間の[ゲームが得意](../Page/コンピュータゲーム.md "wikilink")。パチンコなどは苦手らしい。電車に乗って新商品の出た[コンビニに通うほど](../Page/コンビニエンスストア.md "wikilink")、新しいものと甘いものが好き。辛いものや[セブンスター](https://ja.wikipedia.org/wiki/セブンスター "wikilink")も好き。かつてはアンナの元彼を[鉄パイプ](https://ja.wikipedia.org/wiki/鉄パイプ "wikilink")で半殺しにした。親の愛情を知らない[ヤンデレ](https://ja.wikipedia.org/wiki/ヤンデレ "wikilink")。
+    父親は宗方誠治、母親は本家黙認の愛人（葛西の姉）であり、宗方家で育てられ、見えない存在として扱われていた。時任に対して執着し、依存している。時任が自分の意志で出て行ったなら咎めない反面、それ以外は手放す気はない。鵠とは中学の頃からの知り合い。
+    作中に登場するときは細目であるが、一枚絵では目が開く（※[最遊記](https://ja.wikipedia.org/wiki/最遊記 "wikilink")においても同様）。
+  - 時任稔（ときとう みのる）
+    声 - [石川英郎](../Page/石川英郎.md "wikilink")
+    もう1人の主人公。昭和52年[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")生 、身長168cm、体重58kg、B型。
+    アキラに“何か”をされ、逃げ回っている最中に路地裏で行き倒れていた少年。少々生意気だが、根は真っ直ぐで繊細な性格。右手が獣のようになっている\[1\]。その右手は時々激痛が走り、徐々に侵食が進んでいる模様。関谷や真田からは関心を持たれ、狙われている。当初は記憶を失っていたが、ときおり夢などで突然[フラッシュバックのように幼い頃の記憶を垣間見ている](https://ja.wikipedia.org/wiki/フラッシュバック_\(心理現象\) "wikilink")\[2\]。姓の由来は[時任三郎](https://ja.wikipedia.org/wiki/時任三郎 "wikilink")、名前は足首についていたプレートから。甘ったるい食べ物は苦手。薬全般は拒否反応を起こす。
+    素性はベトナム外交官・潮正久の次男「**潮稔（うしお みのる）**」。15年前のベトナムにおけるバス転落事故で母親と兄・咲弥（さくや）を喪ったと同時に行方不明になり、本編より5年前（1993年）に死亡届が提出された。
+  - 鵠（コウ）
+    声 - [関俊彦](https://ja.wikipedia.org/wiki/関俊彦 "wikilink")
+    身長171cm、体重58kg。
+    [中華街](https://ja.wikipedia.org/wiki/中華街 "wikilink")の片隅にある、薬品取り扱い店兼雑貨屋「薬店 東湖畔」の店主。落ち着いた物腰の男性。医療行為のサービスも行うが、[医師免許は持っていない](https://ja.wikipedia.org/wiki/医師国家試験 "wikilink")。隠語で一般人が手に入れられないような物も取り扱っている。[中華鍋や](../Page/拳銃.md "wikilink")[具材を購入することに関しては](https://ja.wikipedia.org/wiki/弾 "wikilink")、前払いをする。時任の主治医。
+  - 葛西蛍一郎（かさい けいいちろう）
+    声 - [辻親八](https://ja.wikipedia.org/wiki/辻親八 "wikilink")
+    身長170cm、体重68kg、O型。
+    雀荘に出入りしている昔気質の不良刑事。久保田の叔父であり、中学校時代の彼を自宅に引き取って育てていた（もっと放任主義ではあったが）。
+    W.Aに関する情報を追いながら甥と時任の事を可愛がっていた。ある日、週刊誌で偶然にも時任の素性の手がかりを掴み、彼が行方不明だった15年間の間に国際犯罪を嗅ぎ取った。その後2人にその情報を伝えに向かった道中で、真田の手配により殺される（※その後なぜか捜査が打ち切られた）。
+  - 新木（あらき）
+    声 - [坪井智浩](https://ja.wikipedia.org/wiki/坪井智浩 "wikilink")
+    葛西の後輩刑事。新米呼ばわりを嫌がっていたが、本心では葛西を慕っている様子。葛西の死に際して、彼を意識した髪型と格好をするようになり、その遺志を継いでいく。
+  - 滝沢亮司（たきざわ りょうじ）
+    声 - [松本保典](https://ja.wikipedia.org/wiki/松本保典 "wikilink")
+    身長174cm、体重65kg、B型、28歳～。
+    3巻から登場。アサニチの記者→フリーライター。愛称は**滝さん**。
+    姉の動向を探るべく独自で調査をしている途中で久保田・時任と出会い、W.Aについての調査も始める。以後彼らとは独特な距離感で協力関係を結んだ。
+
+### 出雲会
+
+  - 真田（さなだ）
+    声 - [小杉十郎太](https://ja.wikipedia.org/wiki/小杉十郎太 "wikilink")
+    出雲会支部長→代行。久保田誠人がお気に入りだった模様。[アークロイヤルが好きであり](https://ja.wikipedia.org/wiki/アーク・ロイヤル_\(たばこ\) "wikilink")、愛犬にも同じ名前を付けている。時任にも興味を持っている。
+  - 小宮信夫（こみや のぶお）
+    声 - [千葉進歩](https://ja.wikipedia.org/wiki/千葉進歩 "wikilink")
+    身長172cm、体重61kg、O型。[1996年](../Page/1996年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")没。
+    出雲会年少組の（元）副リーダー。薬物中毒の母親がW.A事件に巻き込まれ、独自に探っていた時、東条組（?）に襲われ命を落とす。
+  - 木場治（きば おさむ）
+    声 - [近藤隆](https://ja.wikipedia.org/wiki/近藤隆 "wikilink")
+    身長172cm、体重61kg、A型。
+    6巻から登場。出雲会年少組リーダー。愛称ちゃむ\[3\]。ヤクザ世界で生きていくため、表向きには真田に従順な態度を取っている。愛称の由来は、「おちゃむ君のちゃむ」。
+  - 神田龍之介（かんだ りゅうのすけ）\[4\]
+    声 - [伊藤健太郎](https://ja.wikipedia.org/wiki/伊藤健太郎_\(声優\) "wikilink")
+    身長175cm、体重66kg、O型。
+    出雲会年少組に所属する。治とは幼なじみで、通称・龍（たつ、りゅう）、たっちゃん。叔父が[ヤクザ](../Page/ヤクザ.md "wikilink")世界の人間であり、そっちの世界に憧れていた。実直で愛想が良い。女友達が教師に強姦まがいの事をされたと知って、その教師を半殺しにしたために停学処分を食らった。作者いわく「6巻は治編だけど、彼の方が人気がある」。6巻最後に登場する[的屋](https://ja.wikipedia.org/wiki/的屋 "wikilink")のおっちゃんは、40歳の彼である。
+  - 修司（しゅうじ）
+    声 - [勝杏里](https://ja.wikipedia.org/wiki/勝杏里 "wikilink")
+    故人。W.Aがらみの事件に巻き込まれる。治・龍之介とよくつるんでいた。4巻収録の番外編では、彼視点の話がある。1巻から登場し、4巻冒頭では既に故人扱い、6巻では彼の四十九日を迎えた。
+
+### 東条組
+
+  - 関谷純（せきや じゅん）
+    声 - [三木眞一郎](https://ja.wikipedia.org/wiki/三木眞一郎 "wikilink")
+    東条組代行。普段はオネエ言葉を話し、キレると乱暴口調になる。銃が苦手で、ナイフを使用。紅茶をこよなく愛し、組員には室内禁煙を言い含めている。一人称は「アタシ」。時任の右手を疑問に思っている。
+  - 矢崎（やざき）
+    声 - [千葉一伸](https://ja.wikipedia.org/wiki/千葉一伸 "wikilink")
+    関谷の運転手。スキンヘッドにサングラスを着用。
+  - 宇崎広重（うざき ひろしげ）
+    東条組の（前）代行で、久保田に殺される。享年51。
+  - 佐藤義郎（さとう よしろう）
+    1998年4月まで殺人罪により拘置所にいた男。無骨実直な性格。関谷に気に入られて以降、彼の通訳兼英語圏の取引係兼[愛人](https://ja.wikipedia.org/wiki/愛人 "wikilink")となる。
+    幼少時に[横須賀ベースに出入りしており](https://ja.wikipedia.org/wiki/横須賀海軍施設 "wikilink")、海軍兵と性関係を持っていた。筋金入りの[ゲイ](https://ja.wikipedia.org/wiki/ゲイ "wikilink")であり、女性には一切興味を持たず、そのことに対してコンプレックスと、差別迫害に対する鬱憤を溜め込んでいる。
+
+### その他
+
+  - 大久保沙織（おおくぼ さおり）
+    声 - [野田順子](https://ja.wikipedia.org/wiki/野田順子 "wikilink")
+    2巻のゲストキャラクター。
+    親元から家出し、彼氏（声 - [泰勇気](https://ja.wikipedia.org/wiki/泰勇気 "wikilink")）と同棲していたものの、彼が獣化し死亡したことで東条会のいざこざに巻き込まれる。妊娠していたが、決別のためか事件後に堕胎した。
+  - 三ツ橋佳代（みつはし かよ）
+    声 - [田中敦子](https://ja.wikipedia.org/wiki/田中敦子_\(声優\) "wikilink")
+    3巻のゲストキャラクター。
+    カルト教団『解幸の牙』のリーダーで、亮司の姉。彼女の組織もW.Aの事を追っている。両親の離婚後は生きる為に何でもやっていた。最後は麻薬所持や施設放火の現行犯として逮捕された。旧姓：滝沢。
+  - アンナ
+    声 - [鶴ひろみ](https://ja.wikipedia.org/wiki/鶴ひろみ "wikilink")
+    4巻のゲストキャラクター。
+    ヘルス「キャンキャンチェリー」1番人気の風俗嬢。久保田の[初めての人であって](https://ja.wikipedia.org/wiki/筆下ろし "wikilink")、恋人ではない。[彼氏から何度も暴力を振るわれていたらしい](https://ja.wikipedia.org/wiki/ドメスティック・バイオレンス "wikilink")。薬に手をつけたリカ（声 - [西原久美子](https://ja.wikipedia.org/wiki/西原久美子 "wikilink")）の事を案じていた。
+  - 飯塚翔太（いいづか しょうた）
+    声 - [松元恵](https://ja.wikipedia.org/wiki/松元恵 "wikilink")
+    5巻のゲストキャラクター、かつ主役。
+    とあるマンション402号室に住んでいた小学生。時任が怯えずに接した最初の人間で、彼の右手を見ても動じなかった。久保田と時任がモデルの漫画を描いている。趣味は漫画を描くこととゲーム。後に引っ越す。
+  - 佐藤義壱（さとう ぎいち）
+    7巻のゲストキャラクター。
+    とある町の防衛長を務める元横須賀ベース関係者の老人。愛犬はミナト。佐藤義郎の父親。気骨あふれる性格で、ふとしたことで知り合った時任とともに時間を過ごす。
+  - 宗方誠治（むなかた せいじ）
+    名前のみ登場。警察の上層部にまで影響を与えられる大物であるようだが、素性は一切謎。
+  - アキラ
+    声 - ?
+    時任の記憶のなかにたびたび登場する人物。時任を「自分だけの物」と見なしている男で、薬物投与や虐待などを行い、しかも何らかの関係を持っていた様子。彼も謎が多い。
+
+## ドラマCD
+
+2015年現在、6巻まで発売されている。ジャケットは全て作者の描き下ろしイラスト。レーベルは[マリン・エンタテインメント](https://ja.wikipedia.org/wiki/マリン・エンタテインメント "wikilink")。収録内容は原作に忠実だが、実在する商品名や人物名は若干変更されている。トラックの順番は、作者書下ろしショートストーリー（前編）→本編→曲→ショートストーリー（後編）。また単行本（一迅社版）の各限定版には、作者書き下ろしのミニドラマCDが付属している。テーマは「七つの大罪」。
+
+### 収録曲
+
+作詞：峰倉かずや、作曲：西岡和哉、歌：森川智之&石川英郎。
+
+  - WILD ADAPTER 『Knockout drops』
+  - WILD ADAPTERII 『零唄\~Love song』
+  - WILD ADAPTER 03 『常夜灯』
+  - Sound Drama CD WILD ADAPTER 04 『wandering』
+  - Sound Drama CD WILD ADAPTER 05 『泡沫』
+  - Sound Drama CD WILD ADAPTER 06 『エソラゴト』
+
+『Knockout drops』は、OVA版執行部第2巻に収録された本作のPVに、「アニメイト ガールズ・フェスタ 2011」にて公開されたPVでは『wandering』『エソラゴト』が使用された。
+
+## OVA
+
+2014年3月26日に上巻（禅 -ZEN-）が発売。下巻（航 -KOU-）は、2015年9月30日（※限定版）と2015年11月26日（※通常版）の2種発売である\[5\]。
+
+上下巻ともに、内容は単行本第6巻をベースとしている。
+
+### スタッフ
+
+  - 原作 - [峰倉かずや](../Page/峰倉かずや.md "wikilink")（[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")「[ゼロサムWARD](https://ja.wikipedia.org/wiki/コミックZERO-SUM増刊WARD "wikilink")」）
+  - 監督・絵コンテ・演出 - 葛谷直行
+  - シリーズ構成・脚本 - 星野尚
+  - キャラクターデザイン・総作画監督・作画監督 - 原田峰文
+  - 美術監督 - 海野よしみ
+  - 色彩設計 - 後藤恵子
+  - 撮影監督 - 森下誠一（上巻）、武原健二（下巻）
+  - 音響監督 - 菅原三穂
+  - 編集 - 瀬山武司
+  - 音楽 - [藤澤健至](https://ja.wikipedia.org/wiki/藤澤健至 "wikilink")
+  - 音楽制作 - [フロンティアワークス](https://ja.wikipedia.org/wiki/フロンティアワークス "wikilink")
+  - プロデューサー - 今優子、白石容子
+  - アニメーションプロデューサー - 野田直彦（全巻）、[ひらさわひさよし](https://ja.wikipedia.org/wiki/ひらさわひさよし "wikilink")（下巻）
+  - 制作 - Anpro（上巻）、[Creators in Pack](https://ja.wikipedia.org/wiki/クリエイターズインパック "wikilink") / Anpro（下巻）
+  - 製作 - WILD ADAPTER製作委員会
+
+### 主題歌
+
+  - オープニングテーマ「漂流者」
+    作詞 - [峰倉かずや](../Page/峰倉かずや.md "wikilink") / 作曲・編曲 - [西岡和哉](https://ja.wikipedia.org/wiki/西岡和哉 "wikilink") / 歌 - [森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")&[石川英郎](../Page/石川英郎.md "wikilink")
+  - エンディングテーマ「カレイドスコープ」
+    作詞 - 峰倉かずや / 作曲・編曲 - 西岡和哉 / 歌 - 森川智之&石川英郎
+
+## 注釈
+
+## 関連項目
+
+  - [私立荒磯高等学校生徒会執行部](https://ja.wikipedia.org/wiki/私立荒磯高等学校生徒会執行部 "wikilink")
+
+## 外部リンク
+
+  - [WILD ADAPTER - 一迅社](http://www.ichijinsha.co.jp/special/wild_adapter/)
+  - [OVA「WILD ADAPTER」公式サイト](http://wild-adapter.com/)
+
+[Category:漫画作品_わ](https://ja.wikipedia.org/wiki/Category:漫画作品_わ "wikilink") [Category:2000年の漫画](https://ja.wikipedia.org/wiki/Category:2000年の漫画 "wikilink") [Category:アニメージュ](https://ja.wikipedia.org/wiki/Category:アニメージュ "wikilink") [Category:コミックZERO-SUM](https://ja.wikipedia.org/wiki/Category:コミックZERO-SUM "wikilink") [Category:ゼロサムオンライン](https://ja.wikipedia.org/wiki/Category:ゼロサムオンライン "wikilink") [Category:ボーイズラブ漫画](https://ja.wikipedia.org/wiki/Category:ボーイズラブ漫画 "wikilink") [Category:犯罪を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:犯罪を題材とした漫画作品 "wikilink") [Category:ハードボイルド](https://ja.wikipedia.org/wiki/Category:ハードボイルド "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:アニメ作品_わ](https://ja.wikipedia.org/wiki/Category:アニメ作品_わ "wikilink") [Category:2014年のOVA](https://ja.wikipedia.org/wiki/Category:2014年のOVA "wikilink") [Category:ボーイズラブアニメ](https://ja.wikipedia.org/wiki/Category:ボーイズラブアニメ "wikilink") [Category:犯罪を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:犯罪を題材としたアニメ作品 "wikilink") [Category:クリエイターズインパック](https://ja.wikipedia.org/wiki/Category:クリエイターズインパック "wikilink") [Category:フロンティアワークスのアニメ作品](https://ja.wikipedia.org/wiki/Category:フロンティアワークスのアニメ作品 "wikilink") [Category:NBCユニバーサル・ジャパンのアニメ作品](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンのアニメ作品 "wikilink") [Category:ZERO-SUMコミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ZERO-SUMコミックスのアニメ作品 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink") [Category:神奈川県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:神奈川県を舞台とした作品 "wikilink")
+
+1.  それは組織自体が人間と異なり、[道路標識](https://ja.wikipedia.org/wiki/道路標識 "wikilink")を引き千切ったり、[コントローラーも何度か破損させたりしている](https://ja.wikipedia.org/wiki/ゲームコントローラ "wikilink")。また熱い鍋を触っても熱いと感じない。
+2.  その記憶は心地のよいものではない
+3.  本人は嫌がっている
+4.  cf.画集『sugar coat excess』
+5.  当初は2014年[11月27日](../Page/11月27日.md "wikilink")発売予定だった

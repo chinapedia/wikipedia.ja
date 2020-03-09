@@ -1,0 +1,1297 @@
+> この記事は[AC](https://ja.wikipedia.org/wiki/AC)から翻訳されています。
+
+
+**公益社団法人ACジャパン**（エーシージャパン、**）は、様々な[メディア](../Page/メディア.md "wikilink")を通した[公共広告](https://ja.wikipedia.org/wiki/公共広告 "wikilink")により[啓発活動を行っている](https://ja.wikipedia.org/wiki/:wikt:啓発 "wikilink")[公益社団法人](https://ja.wikipedia.org/wiki/公益社団法人 "wikilink")である\[1\]。ロゴ表記は「AC JAPAN」。
+
+## 概要
+
+[公共広告](https://ja.wikipedia.org/wiki/公共広告 "wikilink")によって、国民の[公共](../Page/公共.md "wikilink")意識を高めることを目的に活動している民間の団体である。[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")「広告協議会（、以下『アメリカAC』と表記）」を見本として、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）に[大阪](../Page/大阪.md "wikilink")で前身である[任意団体の](../Page/権利能力なき社団.md "wikilink")「**関西公共広告機構**（かんさいこうきょうこうこくきこう）」が発足。公共広告を実施する団体としては日本初のものであった。[1974年](../Page/1974年.md "wikilink")（昭和49年）、これを引き継ぐ形で「[社団法人](https://ja.wikipedia.org/wiki/社団法人 "wikilink")**公共広告機構**（こうきょうこうこくきこう）」を設立し、全国放送されるようになった。[2009年](../Page/2009年.md "wikilink")（平成21年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")には現名称である**ACジャパン**へ改称。[2011年](../Page/2011年.md "wikilink")（平成23年）には[公益社団法人](https://ja.wikipedia.org/wiki/公益社団法人 "wikilink")化された。
+
+運営は[会員](https://ja.wikipedia.org/wiki/会員 "wikilink")による会費制で成り立っており、公的な資金は受け取っていない。会員には正会員、賛助会員、個人会員がおり、それぞれ企業、正会員社の事業所、個人からなる。主な活動内容は様々なメディアを通した公共広告の発信であり、制作は正会員である広告会社により行われている。広告は[無料](https://ja.wikipedia.org/wiki/無料 "wikilink")で流されているが、正規料金に換算した場合の広告費は日本国内の広告主でトップクラスの規模である。
+
+## 組織
+
+前述の通り、組織の運営は会員からの会費により成り立っている。会員は「正会員」「賛助会員」「個人会員」に分けられる。正会員は[広告](../Page/広告.md "wikilink")を取り扱う[企業](../Page/企業.md "wikilink")であり、広告主となる一般企業のほか[放送](../Page/放送.md "wikilink")業界\[2\]\[3\]・新聞業界・広告業界などの企業が含まれ、正会員社数は約1000社（[2011年](../Page/2011年.md "wikilink")（平成23年）度現在）にのぼる。会員企業からは1口12万円\[4\]の年会費という形で資金を集めている。賛助会員は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）度から設けられた会員であり、当初はACジャパンの活動に賛同する個人を対象にした会員であった。現在、賛助会員は名称が「個人会員」と改められ、「賛助会員」は正会員社の事業所である会員を指している。賛助会員（現在の意味における）の会費は1口6万円、個人会員の会費は年6000円である。
+
+現在、主たる事務所を[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[中央区に置いて](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、全体の年間実行計画の統括事務を行う一方、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区](../Page/中央区_\(札幌市\).md "wikilink")・[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")[青葉区](../Page/青葉区_\(仙台市\).md "wikilink")・東京都中央区・[名古屋市](../Page/名古屋市.md "wikilink")[中区](../Page/中区_\(名古屋市\).md "wikilink")・[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[西区](../Page/西区_\(大阪市\).md "wikilink")・[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[中区](../Page/中区_\(広島市\).md "wikilink")・[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中央区](../Page/中央区_\(福岡市\).md "wikilink")・[那覇市](../Page/那覇市.md "wikilink")の全国8か所に事務局が設置されている。
+
+現理事長は[ライオン](../Page/ライオン_\(企業\).md "wikilink")[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[相談役](https://ja.wikipedia.org/wiki/相談役 "wikilink")の藤重貞慶。なお、副理事長の[一力雅彦](https://ja.wikipedia.org/wiki/一力雅彦 "wikilink")は、[河北新報社](https://ja.wikipedia.org/wiki/河北新報社 "wikilink")の[代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink")社長である。
+
+## 設立背景と経緯
+
+前身である関西公共広告機構が設立される背景となった時代は、[高度経済成長期である](https://ja.wikipedia.org/wiki/高度経済成長#日本の高度経済成長 "wikilink")。この時代は人々の生活水準が向上した一方で様々な社会問題が生じており、いわゆる[テクノロジーアセスメント](https://ja.wikipedia.org/wiki/テクノロジーアセスメント "wikilink")、[ソーシャル・マーケティング](https://ja.wikipedia.org/wiki/ソーシャル・マーケティング "wikilink")といった概念の登場で『[企業の社会的責任](https://ja.wikipedia.org/wiki/企業の社会的責任 "wikilink")』が問われるようになった。この点は植条則夫が指摘しているほか\[5\]、「関西公共広告機構設立趣意書」においても記載されている\[6\]。
+
+このような時代の中で[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）の[日本万国博覧会](https://ja.wikipedia.org/wiki/日本万国博覧会 "wikilink")（大阪万博）開催を控え、当時[サントリー](https://ja.wikipedia.org/wiki/サントリー "wikilink")（現・[サントリーホールディングス](https://ja.wikipedia.org/wiki/サントリーホールディングス "wikilink")）の社長だった[佐治敬三](https://ja.wikipedia.org/wiki/佐治敬三 "wikilink")は大阪の人々の社会的マナーについて、訪問してくる多くの外国人を前に「恥ずかしいことが多すぎる」と問題視しており、解決できないかと考えていた\[7\]。1969年11月、佐治はアメリカの広告会社であるケッチャム社を訪れ、そこでアメリカACの存在を知り「同じような活動を日本でもできないか」と考えた。これが関西公共広告機構設立のきっかけである\[8\]。佐治が注目したアメリカACの作品は「愛…それはあらゆる人種を超えて」である\[9\]。また、佐治は「広告は人を説得するための最も強力な手段」と考えており、広告を手段に商売をしてきた大企業の社長として、公共の問題について社会に訴えていくことで広告に「お返し」をしたいと思っていたことも、設立のきっかけの一つにつながっている\[10\]。
+
+帰国した佐治は、1970年1月29日に大阪広告協会で公共広告を実施する機関の設立を提唱し、その約1年半後となる1971年7月7日に発起人会・設立総会が実施され、関西公共広告機構が設立された\[11\]。
+
+設立に至るには、会員となる企業がその活動に賛成し、さらに金銭面で協力することが必要であった。植条によると、日本人はアメリカ人と違って公共意識が低いため協力が得にくいのではないか、という意見があったというが、関西においては広告関係者の協力が問題なく得られた\[12\]。
+
+これに関して、加藤良雄（1992年当時、公共広告機構政策実行委員会副委員長）は、大阪人には佐治や[芦原義重](https://ja.wikipedia.org/wiki/芦原義重 "wikilink")（関西公共広告機構会長）を中心としたまとまりがあり、ボランティア精神や素早い問題意識もある、ということを発言している\[13\]。さらに加藤は金銭面での協力について、当時は「万博景気の後」ということで、広告主や媒体社に多少の余裕があったのが幸運であった、との旨を発言している\[14\]。植条は設立された時期について、前述の社会的な背景を踏まえて「公共広告を受け入れるには、まことにタイムリーな時代でもあった」と述べている\[15\]。
+
+## 歴史
+
+  - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）
+      - [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - 任意団体「**関西公共広告機構**」として設立され、[近畿(関西)地方を中心に活動している](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")。
+      - 11月 - 初の新聞広告を掲載。
+  - [1972年](../Page/1972年.md "wikilink")（昭和47年）2月 - [淀川長治](https://ja.wikipedia.org/wiki/淀川長治 "wikilink")を起用した初のテレビCMを放送。
+  - [1974年](../Page/1974年.md "wikilink")（昭和49年） - [社団法人](https://ja.wikipedia.org/wiki/社団法人 "wikilink")化。同時に団体名を「**公共広告機構**」（こうきょうこうこくきこう)と改称（｢**関西**｣の冠が取れた）。本部の[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")を中心やはじめとする全国組織となる。同時に英語名を「*JAPAN ADVERTISING COUNCIL*」、略称を｢**ACジャパン**｣の、「**AC**」とする。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年） - この年の青少年非行防止キャンペーンで[鈴木啓示](https://ja.wikipedia.org/wiki/鈴木啓示 "wikilink")（出演当時[近鉄バファローズ投手](../Page/大阪近鉄バファローズ.md "wikilink")）が発したフレーズ「**投げたらアカン**」が、第1回[新語・流行語大賞](https://ja.wikipedia.org/wiki/新語・流行語大賞 "wikilink")の大衆賞を受賞。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年） - 設立15周年。その事業の一環で腎臓バンクキャンペーンから、[ロゴタイプ](https://ja.wikipedia.org/wiki/ロゴタイプ "wikilink")を変更。詳細は[「AC」ロゴ・サウンドロゴの概要を参照](https://ja.wikipedia.org/wiki/#「AC」ロゴ・サウンドロゴの概要 "wikilink")。
+  - [1993年](../Page/1993年.md "wikilink")（平成5年） - アメリカACと共同で「水質資源の保全」をテーマに共同制作したCMが日米で放送される。後の[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）・[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）にも同様のキャンペーンを実施（日米共同キャンペーン）。
+  - [1999年](../Page/1999年.md "wikilink")（平成11年）[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") - 設立者で初代理事長の[佐治敬三](https://ja.wikipedia.org/wiki/佐治敬三 "wikilink")逝去。新理事長に息子の[佐治信忠](https://ja.wikipedia.org/wiki/佐治信忠 "wikilink")が就任。
+  - [2000年](../Page/2000年.md "wikilink")（平成12年） - この年のキャンペーンに登場した「**ジコ虫**」（ジコチュー）が新語・流行語大賞のトップ10に入賞する。
+  - [2001年](../Page/2001年.md "wikilink")（平成13年）7月7日 - 設立30周年を迎える。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年） - KOBACO（[韓国放送広告公社](https://ja.wikipedia.org/wiki/韓国放送広告公社 "wikilink")）と日韓共同キャンペーンで「親子のコミュニケーション」をテーマにCMを共同制作。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年） - 設立35周年を記念して、ウェブサイトをリニューアルする。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年） - 団体名を「ACジャパン」へ再改称することを発表。それに伴い、ロゴの下にあった「公共広告機構」の文字を「よりよい社会をめざす民間の広告ネットワーク」に変更。
+      - 改称の理由は、「公共広告機構」という官庁の組織のような名称によって生じる「公共広告機構は[日本国政府](https://ja.wikipedia.org/wiki/日本国政府 "wikilink")の機関である」という誤解を払拭するためである\[16\]。
+      - 第2回日韓共同環境キャンペーンを実施。「環境」をテーマにCMを共同制作。
+  - [2009年](../Page/2009年.md "wikilink")（平成21年）[7月1日](../Page/7月1日.md "wikilink") - 団体名を前述の「**ACジャパン**」、英語名を「*ADVERTISING COUNCIL JAPAN*」へ再改称。
+  - [2011年](../Page/2011年.md "wikilink")（平成23年）
+      - [4月1日](../Page/4月1日.md "wikilink") - [公益社団法人](https://ja.wikipedia.org/wiki/公益社団法人 "wikilink")に移行する。
+      - [7月1日](../Page/7月1日.md "wikilink") - 登記上本部を[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[西区から](../Page/西区_\(大阪市\).md "wikilink")[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[中央区に移転](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")。
+      - [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - 設立40周年を迎える。
+      - [12月1日](../Page/12月1日.md "wikilink") - 2010年度の東京地域キャンペーンで使われたフレーズ「**こだまでしょうか**」（[金子みすゞ](https://ja.wikipedia.org/wiki/金子みすゞ "wikilink")の詩「こだまでせうか」 \[17\] より）が、新語・流行語大賞のトップ10に入賞する。
+  - [2016年](../Page/2016年.md "wikilink")（平成28年）
+      - [7月1日](../Page/7月1日.md "wikilink") - 新理事長に[ライオン株式会社相談役の藤重貞慶が就任](../Page/ライオン_\(企業\).md "wikilink")。
+      - [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - 設立45周年を迎える。
+
+## スローガン
+
+団体としてのスローガンには、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に採用された「人と人とを結ぶ、思いやり」（1985年度\[18\]の同名新聞広告が由来）と、[2001年](../Page/2001年.md "wikilink")（平成13年）に新たに採用された「明日のために、いま始めよう。」がある\[19\]。スローガンはテレビCMにおいても最後に表示されるロゴマークに付記されていたが（付記のないCMや別のスローガンのCMも存在した（1991年度の「家庭排水・人魚」（スローガンは「ここから始めなければ。」）など））、異なる文言が表示されていたCMもある（例として1994年度の[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")激励CMでは「人を救うのは、人しかいない。」、2007年度のテレビCMにおける支援キャンペーンでは「未来につながる活動を支援しています。」と表示）。[2009年](../Page/2009年.md "wikilink")（平成21年）度以降はテレビCMの最後にスローガンが表示されなくなり、代わりに以下のような文言がロゴマークに付記されている\[20\]。
+
+  - よりよい社会をめざす民間の広告ネットワーク（2009年度。ただし2008年度にもスローガンとともに付記されていた）
+  - 民間の広告ネットワーク（2010年度、2012年度）
+  - 民間から。公共広告40年（2011年度）
+      - 2009年度から2012年度まではロゴマークの下に「会員社のご支援で活動しています」が付記されていた。
+  - 企業のCSR活動（2015年度-現在 但し支援キャンペーンには表示されない）
+  - ADVERTISING COUNCIL JAPAN（2018年度全国キャンペーン「オモイデはニッポンの人」、2019年度全国キャンペーン「認め合うことが、チカラになる。」に限定）
+      - 2013年度以降の支援キャンペーンは文言の代わりにロゴマークの下に「この活動を支援しています」が付記されるようになった。また、広告学生賞受賞作品に限り2019年度からロゴマークの下に「ACジャパンは、広告学生賞を主催しています。」と付記される。
+
+## 事務局
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Dentsu_Ginza_bldg.jpg "wikilink")\]\]
+
+  - 本部・東京事務局
+
+<!-- end list -->
+
+  - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")7-4-17 [電通](https://ja.wikipedia.org/wiki/電通 "wikilink")銀座ビル
+
+<!-- end list -->
+
+  -
+    管轄地域：[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")、東京都、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")、[新潟県](../Page/新潟県.md "wikilink")、[長野県](../Page/長野県.md "wikilink")、[山梨県](../Page/山梨県.md "wikilink")、[静岡県](../Page/静岡県.md "wikilink")
+
+  - 大阪事務局
+
+<!-- end list -->
+
+  - [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[西区江戸堀](../Page/西区_\(大阪市\).md "wikilink")1-3-3 肥後橋レックスビル
+
+<!-- end list -->
+
+  -
+    管轄地域：[滋賀県](../Page/滋賀県.md "wikilink")、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")、大阪府、[兵庫県](../Page/兵庫県.md "wikilink")、[奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")、[和歌山県](../Page/和歌山県.md "wikilink")
+
+  - 北海道事務局
+
+<!-- end list -->
+
+  - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区](../Page/中央区_\(札幌市\).md "wikilink")[大通西](https://ja.wikipedia.org/wiki/大通西_\(札幌市\) "wikilink")5-11-1 電通北海道内
+
+<!-- end list -->
+
+  -
+    管轄地域：北海道
+
+  - 東北事務局
+
+<!-- end list -->
+
+  - [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")[青葉区](../Page/青葉区_\(仙台市\).md "wikilink")[五橋](https://ja.wikipedia.org/wiki/五橋 "wikilink")1-2-28 [河北新報社](https://ja.wikipedia.org/wiki/河北新報社 "wikilink")内
+
+<!-- end list -->
+
+  -
+    管轄地域：[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")、[岩手県](../Page/岩手県.md "wikilink")、宮城県、[秋田県](../Page/秋田県.md "wikilink")、[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")、[福島県](../Page/福島県.md "wikilink")
+
+  - 名古屋事務局
+
+<!-- end list -->
+
+  - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中区](../Page/中区_\(名古屋市\).md "wikilink")[栄](https://ja.wikipedia.org/wiki/栄_\(名古屋市\) "wikilink")4-16-8 栄メンバーズオフィスビル
+
+<!-- end list -->
+
+  -
+    管轄地域：[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")、[福井県](../Page/福井県.md "wikilink")、[岐阜県](../Page/岐阜県.md "wikilink")、愛知県、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")
+
+  - 中四国事務局
+
+<!-- end list -->
+
+  - [広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[中区](../Page/中区_\(広島市\).md "wikilink")[土橋町](https://ja.wikipedia.org/wiki/十日市町・土橋 "wikilink")7-1 [中国新聞社](https://ja.wikipedia.org/wiki/中国新聞社 "wikilink")内
+
+<!-- end list -->
+
+  -
+    管轄地域：[鳥取県](../Page/鳥取県.md "wikilink")、[島根県](../Page/島根県.md "wikilink")、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")、広島県、[山口県](../Page/山口県.md "wikilink")、[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")、[香川県](../Page/香川県.md "wikilink")、[愛媛県](../Page/愛媛県.md "wikilink")、[高知県](../Page/高知県.md "wikilink")
+
+  - 九州事務局
+
+<!-- end list -->
+
+  - [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中央区](../Page/中央区_\(福岡市\).md "wikilink")[赤坂](https://ja.wikipedia.org/wiki/赤坂_\(福岡市\) "wikilink")1-16-10 電通福岡ビル
+
+<!-- end list -->
+
+  -
+    管轄地域：福岡県、[佐賀県](../Page/佐賀県.md "wikilink")、[長崎県](../Page/長崎県.md "wikilink")、[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")、[大分県](../Page/大分県.md "wikilink")、[宮崎県](../Page/宮崎県.md "wikilink")、[鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")
+
+  - 沖縄事務局
+
+<!-- end list -->
+
+  - [沖縄県](../Page/沖縄県.md "wikilink")[那覇市](../Page/那覇市.md "wikilink")[久茂地](https://ja.wikipedia.org/wiki/久茂地 "wikilink")3-21-1 電通沖縄内
+
+<!-- end list -->
+
+  -
+    管轄地域：沖縄県
+
+## マスコット
+
+団体創立20周年記念の際に[マスコットキャラクター](https://ja.wikipedia.org/wiki/マスコットキャラクター "wikilink")「**めばえちゃん**」\[21\]が登場した。公式サイト上では2006年度のリニューアルから登場しており、同時に「**みのりちゃん**」「**いくえちゃん**」が加わった。この3人は[姉妹](../Page/姉妹.md "wikilink")関係で、みのりちゃんが長女、いくえちゃんが次女、めばえちゃんが末っ子とされている。
+
+2017年7月現在、テレビCMへの登場は無いが、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）の[新聞広告](https://ja.wikipedia.org/wiki/新聞広告 "wikilink")では[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")の[検索エンジン](../Page/検索エンジン.md "wikilink")の[検索窓](https://ja.wikipedia.org/wiki/検索窓 "wikilink")に「 AC」と入力してあるその右に「検索」ボタンが描かれているという内容の広告がある\[22\]。他に創立40周年を記念した新聞広告に3姉妹で出ている。
+
+2008年より、公式サイトのめばえちゃんのコーナーで新たに[4コマ漫画](../Page/4コマ漫画.md "wikilink")のページが設けられている。
+
+## NHKとの関係
+
+企業広告を放送しない[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")(NHK)も会員企業であり、それ以前から関連会社である[NHK出版](https://ja.wikipedia.org/wiki/NHK出版 "wikilink")のテキストに広告を出す程度だが、[2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）には、NHKとの共同による啓発キャンペーンとして公共広告を放送した実績がある。最初に放送されたのはACジャパン制作の「捨てる世紀」とNHK制作の「地球の声 環境汚染」。この活動は現在も継続中であり、公共広告の共同キャンペーンとしては異例の長寿展開となっている。
+
+基本的にテレビCMのみの放送で、ラジオCMに関してはACジャパンが製作した一部キャンペーンのみ行っていたが、現在は実施していない。初期の頃はNHKとACジャパン制作のCMを同時に流用していたが、数年でNHK制作のCMのみに一本化されている。
+
+NHK制作のCMは開始時から2011年度まで環境問題、2012年からは公共マナーなどの様々なテーマを取り上げる。なお、NHKでCMを放送する場合は、通常AC JAPANのロゴは「[公共放送](../Page/公共放送.md "wikilink") NHK」や「NHK環境キャンペーン」などに差し替えられるか、カットされる。しかし、NHK放送分も稀にそのまま「ACジャパン」ロゴやサウンドロゴが放送されたこともある。
+
+このキャンペーンは、2001年度から2005年度まで、[NHKオンライン](https://ja.wikipedia.org/wiki/NHKオンライン "wikilink")には紹介されなかった。NHKで放送されているCMは、[ハイビジョン制作](https://ja.wikipedia.org/wiki/ハイビジョン制作 "wikilink")になっている。ACジャパン（民放）で放送されるCMは、2011年度までサイドカットまたはレターボックスになっていたが、[地デジ化完了後の](https://ja.wikipedia.org/wiki/日本の地上デジタル放送 "wikilink")2012年度からは、NHK同様ハイビジョンでCMが放送されている。
+
+## 広告キャンペーン
+
+### 概要
+
+広告キャンペーンは毎年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に更新され、7月から翌6月までの1年間（年度）にわたって実施される。公共広告を展開するメディアは[テレビ](../Page/テレビ.md "wikilink")・[ラジオ](../Page/ラジオ.md "wikilink")・[新聞](../Page/新聞.md "wikilink")・[雑誌](../Page/雑誌.md "wikilink")のほか、[映画館](../Page/映画館.md "wikilink")（[映画](../Page/映画.md "wikilink")の上映前）や[スタジオアルタ](../Page/スタジオアルタ.md "wikilink")などの[オーロラビジョン](https://ja.wikipedia.org/wiki/オーロラビジョン "wikilink")（街頭ビジョン）、インターネット広告なども利用している。
+
+取り扱うテーマは、その年度ごとに日本社会が必要としている事柄であり、[環境問題](../Page/環境問題.md "wikilink")・[公共](../Page/公共.md "wikilink")[マナー](https://ja.wikipedia.org/wiki/マナー "wikilink")・[薬物](https://ja.wikipedia.org/wiki/薬物 "wikilink")・[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")・[家庭](https://ja.wikipedia.org/wiki/家庭 "wikilink")問題・啓発活動など多岐にわたる。テレビおよびラジオCMについては、各局の7月1日の放送開始以降、起点の午前5時以降、あるいは午前0時以降から、新しいCMが放送される。
+
+テレビCMに関しては、2011年度からは一部の作品が、翌年からは全て[ハイビジョン制作](https://ja.wikipedia.org/wiki/ハイビジョン制作 "wikilink")となり、2015年度からは一部の作品でテレビCMの[日本語字幕](../Page/日本語字幕.md "wikilink")放送を開始した。また、2015年度まではACジャパン公式サイトでラジオCMを聴けなかったが、2016年度からは、40秒版のみ聴ける様になった\[23\]。
+
+新聞広告、ポスターなどの枠は会員社によって無償で提供されており、広告代理店などの加盟企業が[コンペティション](https://ja.wikipedia.org/wiki/コンペティション "wikilink")形式で制作している。その広告実績は正規の広告料金に換算すると797億円（2009年度）にものぼり、これは日本で展開される1広告主の広告としては、最大規模のものとなっている。2010年度の実績は2800億円と大きく伸びており、ACジャパンは、これを東日本大震災後における自身のCMの大量放送（[後述](https://ja.wikipedia.org/wiki/#東日本大震災に伴う特別措置 "wikilink")）によるものとしている\[24\]。
+
+### キャンペーンの種類
+
+「全国キャンペーン」「地域キャンペーン」「支援キャンペーン」の3つを主としており、ACジャパンはこれを「3つの柱」としている。
+
+  - 全国キャンペーン
+    その名の通り日本全国で展開されるキャンペーン。日本全体にとっての問題がテーマとなる。2018年度からは、一部の作品に限り、手話や外国人向けの字幕に対応している（サウンドロゴ含む）。
+  - 地域キャンペーン
+    日本全国を北海道・東北・東京\[25\]・名古屋\[26\]・大阪\[27\]・中四国・九州・沖縄の8つに区切り、それぞれの地域のみで2年間展開されるキャンペーン\[28\]。その地域にとっての問題がテーマとなる。
+    地域キャンペーンは基本的に自分の住んでいる地域のものしか見られないが、テレビ・ラジオにおいて、別の地域の放送局で制作された番組が放送されている場合、その放送局が位置する地域のキャンペーンのCMが流れることがある。たとえば東京にある放送キー局で制作した番組が地上波全国ネットまたはBSで放送されている場合、東京地域キャンペーンのCMが全国で見られる。同様に大阪にある放送キー局で制作した番組が地上波全国ネットまたはBSで放送されている場合、大阪地域キャンペーンのCMが全国で見られる。2005年度の大阪地域キャンペーン「一人にならない。一人にさせない。」のように放送時期の途中から全国展開に変わった例や、2006年度の大阪地域キャンペーン「車内は部屋ではありません」、2007年度の名古屋地域キャンペーン「日課のスライド」のようにテレビCMのみが全国展開されて他のメディアが当該地域のみで展開された例もある。
+    なお、東京地域キャンペーンは、地域の共通のテーマが見いだせないという理由から\[29\]、2013年度以降は2015年度の「約束の場所」と2018年度の「会いにいこうょ ほくほく、とうほく」（2017年度東北地域キャンペーンの「ほくほく、とうほく」を2018年度は東京地域にも拡大したもの）を除き休止しているが、その他の地域キャンペーンは従来通り展開されている。
+  - 支援キャンペーン
+    公共福祉活動を行う非営利団体の活動を支援するキャンペーン。但し、支援対象となる団体は「支援キャンペーン実施諸規則」を満たす必要がある。この支援を受けたことのある団体は[支援団体一覧を参照](https://ja.wikipedia.org/wiki/#支援団体一覧 "wikilink")。
+    このキャンペーンの広告は当初は支援団体の表現は無かったが、90年代中盤ごろに支援団体を表現しなければならなくなり、実質二重宣伝に近い形となっていた。これに伴い、日本赤十字社による[献血](../Page/献血.md "wikilink")の支援キャンペーンは行われなくなり、日本赤十字社の自社製作に移行した。
+  - 環境映像
+    動物や植物、自然などの映像。2010年度と2018年度に放送。2018年度は2010年度の震災時以来約7年ぶりに製作された。2010年度は普通の字体で文言と社名が表示されていた（ロゴマークは表示されていない）。2018年度は文言があるものとないものとがある。ロゴマークは青か白で右上か右下に表示されている。
+
+このほか、団体そのものを紹介する広報キャンペーンや、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")・アメリカAC・[韓国放送広告公社](https://ja.wikipedia.org/wiki/韓国放送広告公社 "wikilink")と共同で行うキャンペーンもある（それぞれ「ACジャパン・NHK共同キャンペーン」<上記参照>、「日米共同キャンペーン」、「日韓共同キャンペーン」）。
+
+BS放送においては、大学や専門学校の学生が制作し、応募した作品の中から選ばれた「ACジャパン広告学生賞」の作品も放送される。
+
+大災害発生などの緊急時には、7月の更新時期に関係なく臨時キャンペーン（下記参照）が企画、制作される。
+
+### テレビ・ラジオCMが放送される事例
+
+ACジャパンのCMは、CM枠に空きが生じた場合に放送される。空きが生じるケースとして、番組のスポンサーである企業（[クライアント](https://ja.wikipedia.org/wiki/クライアント_\(広告\) "wikilink")）が深刻な事情によりその番組へのCMの出稿を自粛した場合（放送・広告業界において「AC差し替え」と呼ばれる）や、生放送においてCMをはさまずに放送することが技術上困難なためにCM枠が入る場合のような例がある\[30\]。これらの事情がない場合でも、テレビ局がCM枠を確保できないことがあり、その枠を埋めるためにもACジャパンのCMが放送される\[31\]。ちなみに、[JRN制作のラジオ番組のネットワークセールスのCM枠においてACジャパンのCMが放送される場合は](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")、ネット局によって別の内容のCMが放送される。
+
+CMの出稿を自粛するのは企業側の都合による場合が多い。企業が不祥事を起こしてCM出稿を差し控えるのはその例である\[32\]。それに対し、皇室の慶弔や大災害の発生時などにおいて多くの企業が一斉にCMの出稿を自粛することがある。この場合、CM枠の多くが空くためACジャパンのCMが大量に放送される。例として、[昭和天皇](https://ja.wikipedia.org/wiki/昭和天皇 "wikilink")崩御時および[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")発生時には大規模なCM出稿の自粛が起こった\[33\]。2011年3月の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")発生時はACジャパンのCMがとりわけ多く放映され、反響を呼んだ（[後述](https://ja.wikipedia.org/wiki/#東日本大震災に伴う特別措置 "wikilink")）。2016年4月の[熊本地震においても同様に](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")、ACジャパンのCMへの差し替えが増加した\[34\]。
+
+企業ではなくテレビ局や番組出演者の不祥事を理由として、企業がCM出稿を取りやめる場合がある。前者の事例としては、 [2003年](../Page/2003年.md "wikilink")（平成15年）8月放送の[フジテレビ制作のテレビバラエティ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[水10\!](https://ja.wikipedia.org/wiki/水10! "wikilink")』の『[ワンナイR\&R](https://ja.wikipedia.org/wiki/ワンナイR&R "wikilink")』の通販コントコーナー「ジャパネットはかた」で[王貞治](../Page/王貞治.md "wikilink")の顔モデルを使った[ウォシュレット](https://ja.wikipedia.org/wiki/ウォシュレット "wikilink")（王シュレット）を放送したことにより、[王シュレット事件](https://ja.wikipedia.org/wiki/王シュレット事件 "wikilink")に発展した影響で、翌週から9月末まで1ヶ月間に渡り番組スポンサー全社がCM放送を取りやめるだけでなく、ウォシュレットの製造元かつ商標権者でもある東陶機器株式会社（現：[TOTO株式会社](https://ja.wikipedia.org/wiki/TOTO_\(企業\) "wikilink")）とコーナーのネタ元である[ジャパネットたかた](https://ja.wikipedia.org/wiki/ジャパネットたかた "wikilink")もスポンサーだった『[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")』などのCM放送を取りやめ、AC公共広告機構のCMに差し替えられた。 [2011年](../Page/2011年.md "wikilink")（平成23年）8月に『[ぴーかんテレビ](https://ja.wikipedia.org/wiki/ぴーかんテレビ "wikilink")』（[東海テレビ制作](../Page/東海テレビ放送.md "wikilink")）で起きた「[セシウムさん騒動](https://ja.wikipedia.org/wiki/セシウムさん騒動 "wikilink")」の際、[JAグループがCM出稿を東海テレビをはじめとする在名民放局の放送エリアに限り取りやめ](../Page/農業協同組合.md "wikilink")、その分がACジャパンのCMに差しかわったというケースがある\[35\]。また類例として、[2014年](../Page/2014年.md "wikilink")（平成26年）放送の[日本テレビ制作のテレビドラマ](../Page/日本テレビ放送網.md "wikilink")『[明日、ママがいない](https://ja.wikipedia.org/wiki/明日、ママがいない "wikilink")』では、児童養護施設の団体等から内容改善を求められるなどの影響を受け、最終的に番組スポンサーの8社すべてがCM放送を取りやめ、ACジャパンのCMが連続して放送された\[36\]。後者の事例としては、。6月に[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")所属芸人による[闇営業問題が発覚した事に伴い](https://ja.wikipedia.org/wiki/お笑い芸人による闇営業問題 "wikilink")、該当芸人がレギュラー出演していた『[ロンドンハーツ](https://ja.wikipedia.org/wiki/ロンドンハーツ "wikilink")』と『[雨上がり決死隊のトーク番組アメトーーク\!](https://ja.wikipedia.org/wiki/雨上がり決死隊のトーク番組アメトーーク! "wikilink")』（両番組共に[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")制作）の番組スポンサー数社がCM出稿を取り止めた為、その分の差し替えとしてACジャパンのCMが流れたケースがある\[37\]\[38\]。
+
+番組の放送休止によって生じる代替番組におけるCMとして、ACジャパンのCMが放送される場合もある。たとえば、前述の『ぴーかんテレビ』のケースでは、同番組の休止によって放送された代替番組ではACジャパンのCMが多く放送されていた、ということがインターネット上の「実況」で伝えられていた\[39\]。
+
+### 「AC」ロゴ・サウンドロゴの概要
+
+#### ロゴマーク
+
+関西公共広告機構時代から1986年度までのロゴマークは、鳥とハートを掛け合わせた、ハートマークの左側にくちばしのような尖った部分があるものだった。鳥は「社会と自然の融合とやさしさ」を象徴し、ハートは「人の社会への思いやり」を形にしたものである。このロゴマークは、大阪万博のシンボルを担当した[大高猛](https://ja.wikipedia.org/wiki/大高猛 "wikilink")がデザインしている\[40\]。当時はロゴの色や大きさ、「公共広告機構」の部分の書体、表示様式などが統一されておらず、CMにより様々なバリエーションが存在していた。
+
+1987年2月の団体創立15周年記念事業において、ロゴマークが変更された。デザインは[東急エージェンシー](https://ja.wikipedia.org/wiki/東急エージェンシー "wikilink")によるものである\[41\]。新しいロゴマークは、「Motter Ombra」という[フォント](../Page/フォント.md "wikilink")を元にした青色の「<span style="color:#0000FF; font-family:serif;">AC</span>」という文字がデザインされたものである。またこれに伴い、「公共広告機構」の部分の書体も角ゴシック体のものに統一されるようになった\[42\]。
+
+2008年度、団体名改称に先立ちロゴマークも変更され\[43\]、「<span style="color:#0000FF; font-family:serif;">AC</span>」の文字の下部または右側にあった「公共広告機構」の文字が「よりよい社会をめざす民間の広告ネットワーク」に変わった。翌2009年度の団体名改称時には、「<span style="color:#0000FF; font-family:serif;">AC</span>」のロゴが若干丸みを帯びた形になり、下にゴシック体で「JAPAN」の文字が書かれる現行タイプに再度変更されている。
+
+ロゴマークは公式サイトで見られるほか、広告作品においても表示される。テレビCMでは最後に表示されるが、必ずしも青色のロゴマークが白色の背景に表示されるわけではなく、異なる色や大きさのロゴマーク、異なる背景が使用されているCMがこれまで存在している\[44\]\[45\]。ちなみに初代のロゴマークが使われていた頃は、CMの最後で白色の背景に鳥のアニメーションが描かれ、その鳴き声と共にロゴマークと融合するかロゴマークに変身する演出を取り入れたもの（1979年度「蛇口ひとひねり」、1980年度「自ら老人に-私のK2」、1981年度「私たちの敵は無関心です」など）も存在した。
+
+#### サウンドロゴ
+
+初代ロゴマーク時代は[サウンドロゴ](https://ja.wikipedia.org/wiki/サウンドロゴ "wikilink")も統一されていなかったが、1987年度のロゴマーク変更と同時に、女声による「♪AC{{～}}」というサウンドロゴが正式に導入され、テレビCM・ラジオCMの最後に使用されていた\[46\]。サウンドロゴに関しても2009年度の団体名改称とともに\[47\]、男女混声による音声のものに変わった。ただし、2009年度以降のCMでも初代サウンドロゴを使用しているものがある（2010年度の「見える気持ちに。」と「オシムの言葉」）。また、ロゴマークの色と同様サウンドロゴの使用に関しても統一されているわけではなく、使用していないCMも存在する（一例として2010年度の「こだまでしょうか」）。2006年度までのCMでは、サウンドロゴの有無にかかわらず、ロゴ表示時に「公共広告機構です」または「明日のために、いま始めよう。」（2001年度以降）のナレーションが流れるCMも一部存在していた（一例として2006年度の「はっけよいエコライフ」）。90年代後半以降はテレビの15秒バージョンを中心にサウンドロゴが無いものも増やされた（一例として、2001年度の「死後の意思」、同年度の地域キャンペーンを除くテレビCMの全バージョンなど）が、2007、2008年度は全てのCMにサウンドロゴが使用された。
+
+2010年度は、2011年3月に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響によるCMの大量放送と視聴者からの苦情を受け、サウンドロゴの削除措置が実施された（後述の[東日本大震災に伴う特別措置を参照](https://ja.wikipedia.org/wiki/#東日本大震災に伴う特別措置 "wikilink")）。この措置は、テレビCMでは2010年度CMの放送終了まで行われたが、ラジオCMではまもなく一部で使用が再開された。また、その翌年度である2011年度のCMでは、テレビCMにおいてサウンドロゴの使用が見合わせられた\[48\]ものの、ラジオCMでは一部を除き従来通り使用された。2012年度のCMではテレビ・ラジオ共にサウンドロゴが使用されず、ロゴの表示の際に「ACジャパン」とのナレーション（声はCMごとに異なる）がなされた\[49\]。翌2013年度においても、ACジャパンのアンケート調査で「地震を連想させる」という意見が多く、サウンドロゴは使用されずナレーション（声は[林田尚親](https://ja.wikipedia.org/wiki/林田尚親 "wikilink")）のみとなった\[50\]。
+
+3年間にわたり使用が見合わせられていたサウンドロゴは、2014年度のCMにおいて新たに復活した。ACジャパンによると、調査の結果3人に2人がサウンドロゴの使用に肯定的であり、「♪ACジャパン」という正式名称による新しいサウンドロゴが使用される様になった\[51\]。但し、2013年度からの支援キャンペーンはサウンドロゴを使用せず、「ACジャパンは、この活動を支援しています」のナレーション（声は林田尚親）を使用している\[52\]。
+
+2016年4月14日に発生した[熊本地震の際](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")、東日本大震災時の教訓から翌15日の放映分よりサウンドロゴの使用を自粛していたが、同年5月以降は不定期ながら使用を再開している。これ以外でも、2018年の[北海道胆振東部地震](https://ja.wikipedia.org/wiki/北海道胆振東部地震 "wikilink")や2019年の[台風19号の際など](https://ja.wikipedia.org/wiki/令和元年台風第19号 "wikilink")、テレビCMが大量に放送される事態が発生した場合や番組内容とそぐわない場合などに、任意でサウンドロゴの削除措置が実施されることがある。
+
+### 支援団体一覧
+
+#### 今年度の支援団体
+
+2019年度の支援団体は以下の8団体である。記載順序はACジャパン公式サイトに従う。☆は新しく支援団体になる団体、★は数年振りに支援団体に復帰した団体。
+
+  - 日本心臓財団
+  - [日本対がん協会](https://ja.wikipedia.org/wiki/日本対がん協会 "wikilink")
+  - [日本臓器移植ネットワーク](https://ja.wikipedia.org/wiki/日本臓器移植ネットワーク "wikilink")
+  - [セーブ・ザ・チルドレン・ジャパン](https://ja.wikipedia.org/wiki/セーブ・ザ・チルドレン・ジャパン "wikilink")
+  - [ウォーターエイド](https://ja.wikipedia.org/wiki/ウォーターエイド "wikilink")ジャパン
+  - [日本盲導犬協会](https://ja.wikipedia.org/wiki/日本盲導犬協会 "wikilink") ★
+  - [ジャパンハート](https://ja.wikipedia.org/wiki/ジャパンハート "wikilink") ☆
+  - 日本動物愛護協会 ☆
+
+#### かつての支援団体
+
+  - [あしなが育英会](https://ja.wikipedia.org/wiki/あしなが育英会 "wikilink")/[交通遺児育英会](https://ja.wikipedia.org/wiki/交通遺児育英会 "wikilink")
+  - [エイズ予防財団](https://ja.wikipedia.org/wiki/エイズ予防財団 "wikilink")
+  - [結核予防会](https://ja.wikipedia.org/wiki/結核予防会 "wikilink")
+  - [国際連合開発計画](../Page/国際連合開発計画.md "wikilink") (UNDP)
+  - [国連WFP協会](https://ja.wikipedia.org/wiki/国際連合世界食糧計画WFP協会 "wikilink")
+  - [国連UNHCR協会](https://ja.wikipedia.org/wiki/国連UNHCR協会 "wikilink")
+  - [国境なき医師団日本](https://ja.wikipedia.org/wiki/国境なき医師団日本 "wikilink")
+  - [世界の医療団](https://ja.wikipedia.org/wiki/世界の医療団 "wikilink")
+  - [世界の子どもにワクチンを日本委員会](https://ja.wikipedia.org/wiki/世界の子どもにワクチンを日本委員会 "wikilink")
+  - [WWFジャパン](../Page/世界自然保護基金.md "wikilink")
+  - [AAR Japan](https://ja.wikipedia.org/wiki/難民を助ける会 "wikilink")
+  - [日本骨髄バンク](https://ja.wikipedia.org/wiki/骨髄バンク_#日本の機関 "wikilink")
+  - [日本自閉症協会](https://ja.wikipedia.org/wiki/日本自閉症協会 "wikilink")
+  - [日本赤十字社](https://ja.wikipedia.org/wiki/日本赤十字社 "wikilink")/[赤十字血液センター](https://ja.wikipedia.org/wiki/赤十字血液センター "wikilink")
+  - [日本ユニセフ協会](https://ja.wikipedia.org/wiki/日本ユニセフ協会 "wikilink")
+  - [メイク・ア・ウィッシュ オブ ジャパン](https://ja.wikipedia.org/wiki/メイク・ア・ウィッシュ "wikilink")
+
+など。
+
+### CM出演者
+
+テレビCMに限る。また、ナレーションの担当者も含む。カッコ内はテレビCM出演者・ナレーション担当者の職業を表す。
+
+#### 現在のCM出演
+
+2019年度広告キャンペーン
+
+  - [桂三輝](https://ja.wikipedia.org/wiki/桂三輝 "wikilink")（落語家）、スザーン・ロス（[輪島塗](https://ja.wikipedia.org/wiki/輪島塗 "wikilink")[漆芸](https://ja.wikipedia.org/wiki/漆芸 "wikilink")作家）、アート・リー（和太鼓奏者）
+      - 2019年度全国キャンペーン「認め合うことが、チカラになる。」に出演。
+  - [下川佳代](https://ja.wikipedia.org/wiki/下川佳代 "wikilink")（作曲家、編曲家、音楽プロデューサー）
+      - 2019年度 - 2020年度北海道地域キャンペーン「やらなくちゃ\!は、ちゃんとやらなくちゃ。」に「tuLaLa」名義で楽曲を担当。曲名は「Aqua（feet. [成山剛](https://ja.wikipedia.org/wiki/sleepy.ab "wikilink")）」。
+  - [夏川りみ](https://ja.wikipedia.org/wiki/夏川りみ "wikilink")（歌手）
+      - 2019年度 - 2020年度沖縄地域キャンペーン「1日1チムグクル」でCMソングとナレーションを担当。
+  - [岸部一徳](https://ja.wikipedia.org/wiki/岸部一徳 "wikilink")（俳優）
+      - 2019年度日本心臓財団支援キャンペーン「まごまごするより、まず検診。」に出演。
+  - [鈴木京香](https://ja.wikipedia.org/wiki/鈴木京香 "wikilink")（女優）
+      - 2019年度セーブ・ザ・チルドレン・ジャパン支援キャンペーン「子供たちの惑星」でナレーションを担当。
+          - 2016年度の鎮守の森のプロジェクト支援キャンペーン「鎮守の森から」のナレーションも担当。
+  - [夏木マリ](https://ja.wikipedia.org/wiki/夏木マリ "wikilink")（声優・女優）
+      - 2019年度ウォーターエイドジャパン支援キャンペーン「妹の命を奪った水」でナレーションを担当。CMのBGMは音楽家のharuka nakamuraが担当。
+          - 2005年度の「乳がん年齢」（日本対がん協会支援キャンペーン）のナレーションも担当。「家族篇」と「オフィス篇」の2種類が制作された。
+  - [斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink")（シンガーソングライター・ギタリスト）
+      - 2019年度日本盲導犬協会支援キャンペーン「きみと一緒だから」でCMソングを担当。
+  - 福長実咲（シンガーソングライター）
+      - 同上、「きみと一緒だから」でナレーションを担当。
+  - [吉岡秀人](https://ja.wikipedia.org/wiki/吉岡秀人 "wikilink")（[小児外科](https://ja.wikipedia.org/wiki/小児外科 "wikilink")医師・ジャパンハート代表）
+      - 2019年度ジャパンハート支援キャンペーン「日本の心」に登場。
+  - [さだまさし](../Page/さだまさし.md "wikilink")（歌手）
+      - 2019年度日本動物愛護協会支援キャンペーン「にゃんぱく宣言」でCMソングを担当。
+          - 2001年度の全国キャンペーン「ちょボラ」のCMソングも担当。曲名は「木を植えた男」。
+  - [遠藤さくら](https://ja.wikipedia.org/wiki/遠藤さくら "wikilink")（アイドルグループ・[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")のメンバー）
+      - 2019年度NHK共同キャンペーン「2019生きもの命」に出演。\[53\]
+
+#### 過去のCM出演
+
+放送時期の順に記述。
+
+  - [淀川長治](https://ja.wikipedia.org/wiki/淀川長治 "wikilink")（映画評論家）
+      - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）度の「公共心の喚起」に出演。当時関西公共広告機構だったACの初のCMである。
+  - [戸谷公次](https://ja.wikipedia.org/wiki/戸谷公次 "wikilink")（声優・ナレーター）
+      - [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")（昭和51年）度の「食糧問題（卵）」でナレーションを担当。
+  - [君原健二](https://ja.wikipedia.org/wiki/君原健二 "wikilink")（マラソン選手）
+      - [1977年](../Page/1977年.md "wikilink")（昭和52年）度の「あの街角まで、あの電柱まで」、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）度の「全レース棄権ゼロ」、「すててはいけない君の人生」に出演。「すててはいけない君の人生」は1979年の[ACC秀作賞](https://ja.wikipedia.org/wiki/全日本シーエム放送連盟 "wikilink")（テレビ部門）を受賞した。
+  - [蟹江栄司](https://ja.wikipedia.org/wiki/蟹江栄司 "wikilink")（声優・ナレーター）
+      - [1977年](../Page/1977年.md "wikilink")（昭和52年）度の「あの街角まで、あの電柱まで」、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）度の「全レース棄権ゼロ」、「すててはいけない君の人生」でナレーションを担当。
+  - [早乙女勝元](https://ja.wikipedia.org/wiki/早乙女勝元 "wikilink")（作家・児童文学作家）
+      - [1979年](../Page/1979年.md "wikilink")（昭和54年）度の「物はケチるが、文化は」（ラジオCM・新聞広告）に出演。
+  - [古谷三敏](https://ja.wikipedia.org/wiki/古谷三敏 "wikilink")（漫画家）
+      - 1979年度の家庭教育キャンペーン「言葉は、凶器になる」では、キャラクターデザインを担当。翌1980年度の「言葉が、励みになる」、「お父さんは、ケチじゃないッ」、1980年代の新聞・雑誌広告「家庭教育、おたくでは」のイラストも担当。また、2014年度日本脳卒中協会支援キャンペーン「3つのヘン」ではキャラクターデザインを担当。
+  - [此島愛子](https://ja.wikipedia.org/wiki/此島愛子 "wikilink")（女優）
+      - 1979年度の家庭教育キャンペーン「言葉は、凶器になる」にて、冬子（オニババ）の声を担当。
+  - [岸田森](../Page/岸田森.md "wikilink")（俳優）
+      - 1979年度の家庭教育キャンペーン「言葉は、凶器になる」にて、ナレーションとCM演出を担当。
+  - [りりィ](https://ja.wikipedia.org/wiki/りりィ "wikilink")（歌手）
+      - 1979年度の「児童に笑顔−ユニセフ」（日本ユニセフ協会の支援CM）でCMソングを担当。曲名は「愛」。
+  - [古今亭志ん朝](../Page/古今亭志ん朝.md "wikilink")（落語家）・[金原亭馬の助](https://ja.wikipedia.org/wiki/金原亭馬の助 "wikilink")（落語家）
+      - 1979年度の「蛇口ひとひねり」でナレーションを担当。
+  - [柳生博](https://ja.wikipedia.org/wiki/柳生博 "wikilink")（俳優）
+      - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）度の「水資源」・1996年度の「世界の子どもにワクチンを」・1997年度の「世界の子どもにワクチンを『こんにちは、さようなら』」でナレーションを担当。
+  - [吉沢一郎](https://ja.wikipedia.org/wiki/吉沢一郎 "wikilink")（登山家）
+      - 1980年度の「自ら老人に-私のK2」に出演。CMは1980年のACC秀作賞（テレビ部門）を受賞した。
+  - [城達也](https://ja.wikipedia.org/wiki/城達也 "wikilink")（ナレーター）
+      - 同上、「自ら老人に-私のK2」・1993年度の第1回日米共同キャンペーン「北斎の波」でナレーションを担当。同CMでは[葛飾北斎](../Page/葛飾北斎.md "wikilink")の名画「[神奈川沖浪裏](https://ja.wikipedia.org/wiki/神奈川沖浪裏 "wikilink")」が題材となっている。
+  - [前畑秀子](https://ja.wikipedia.org/wiki/前畑秀子 "wikilink")（水泳選手）、[タケカワユキヒデ](https://ja.wikipedia.org/wiki/タケカワユキヒデ "wikilink")（シンガーソングライター）、[ジミー原田](https://ja.wikipedia.org/wiki/ジミー原田 "wikilink")（ジャズドラマー）&オールドボーイズ・オールスターズ、[新井春美](https://ja.wikipedia.org/wiki/新井晴み "wikilink")（女優・画家）
+      - 1980年度の「お年寄りの幸せって」に出演。
+  - [篠沢秀夫](https://ja.wikipedia.org/wiki/篠沢秀夫 "wikilink")（フランス文学者・学習院大学名誉教授）、[小野清子](https://ja.wikipedia.org/wiki/小野清子 "wikilink")（体操選手・政治家）、[畑正憲](../Page/畑正憲.md "wikilink")（小説家・エッセイスト・ナチュラリスト・動物研究家）
+      - 1980年度の「家庭教育シリーズ」（ラジオCM・新聞広告)に出演。
+  - [野田昌宏](../Page/野田昌宏.md "wikilink")（作家・のちに[日本テレワーク](https://ja.wikipedia.org/wiki/日本テレワーク "wikilink")社長）
+      - [1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")（昭和56年）度の「子供は、あなたのコピーです」に出演。
+  - [滝口順平](https://ja.wikipedia.org/wiki/滝口順平 "wikilink")（声優・ナレーター）
+      - 同上、「子供は、あなたのコピーです」でナレーションを担当。
+  - [大林宣彦](../Page/大林宣彦.md "wikilink")（映画監督）
+      - 同上、「子供は、あなたのコピーです」で演出を担当。1998年度の「1972年と1999年」でナレーションを担当。2001年度の「喜んで鳴いている」（九州地域のみ）に出演。
+  - [マザー・テレサ](../Page/マザー・テレサ.md "wikilink")（修道女）
+      - 1981年度の「私たちの敵は無関心です」に出演。
+  - [北浜晴子](https://ja.wikipedia.org/wiki/北浜晴子 "wikilink")（声優・ナレーター）
+      - 1981年度の「私たちの敵は無関心です」でナレーションを担当。
+  - [王貞治](../Page/王貞治.md "wikilink")（プロ野球監督）
+      - 1981年度の「考えてみてください」に出演。同CMは視覚障害者をテーマにしたCMであり、[名球会](https://ja.wikipedia.org/wiki/名球会 "wikilink")の協力の下制作された。
+  - [金田正一](https://ja.wikipedia.org/wiki/金田正一 "wikilink")（プロ野球選手・名球会会長）
+      - 1981年度の「考えてみてください」に出演。王が出演したものの続編であり、名球会の協力の下制作された。
+  - [黒沢良](https://ja.wikipedia.org/wiki/黒沢良 "wikilink")（声優・ナレーター）
+      - 1981年度の「考えてみてください」、1982年度の「[アイバンク](https://ja.wikipedia.org/wiki/アイバンク "wikilink")」でナレーションを担当。
+  - [作間功](https://ja.wikipedia.org/wiki/作間功 "wikilink")（声優・ナレーター）
+      - 1981年度の「空き缶（サッカー編）」で実況アナウンサーの声を担当。
+  - [二代目コロムビア・ローズ](https://ja.wikipedia.org/wiki/コロムビア・ローズ#二代目コロムビア・ローズ "wikilink")（演歌歌手）
+      - 1981年度の「空き缶（演歌編）」でCMソング\[54\]を担当。作詞は[船村徹](https://ja.wikipedia.org/wiki/船村徹 "wikilink")。
+  - [野田圭一](https://ja.wikipedia.org/wiki/野田圭一 "wikilink")（声優・ナレーター）
+      - 1981年度の「人影なし（軍艦島）」でナレーションを担当。
+  - [矢口高雄](../Page/矢口高雄.md "wikilink")（漫画家）
+      - [1982年](../Page/1982年.md "wikilink")（昭和57年）度の「川の見張り番」に出演。
+  - [桂米朝](https://ja.wikipedia.org/wiki/桂米朝_\(3代目\) "wikilink")（落語家）
+      - 1982年度の「[アイバンク](https://ja.wikipedia.org/wiki/アイバンク "wikilink")」に出演。
+  - [市原悦子](../Page/市原悦子.md "wikilink")（女優・声優）・[常田富士男](https://ja.wikipedia.org/wiki/常田富士男 "wikilink")（俳優・ナレーター）
+      - 1982年度 - 1986年度の「[もったいないお化け](https://ja.wikipedia.org/wiki/もったいないお化け "wikilink")」シリーズでナレーションを担当。「[まんが日本昔ばなし](https://ja.wikipedia.org/wiki/まんが日本昔ばなし "wikilink")シリーズ」を題材にしたCMで、年度ごとのCMの題名は「もったいないお化け（1982年度）」や「ツンツン娘（1983年度）」「お手伝いタヌキ（1984年度）」「仲よし地蔵（1985年度）」「ごめんの鐘（1986年度）」。なお常田は1986年度の「ドン松五郎」のナレーションも担当している。
+  - [尾藤イサオ](https://ja.wikipedia.org/wiki/尾藤イサオ "wikilink")（俳優）
+      - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）度の「一年たったら『歩く』目になる」でナレーションを担当。
+  - 盲導犬コルナス号（[盲導犬](../Page/盲導犬.md "wikilink")）
+      - 同上、「一年たったら『歩く』目になる」に登場。
+  - [森本レオ](https://ja.wikipedia.org/wiki/森本レオ "wikilink")（タレント・ナレーター・俳優）
+      - 1983年度の「食卓コミュニケーション」でナレーションを担当。
+  - [鈴木啓示](https://ja.wikipedia.org/wiki/鈴木啓示 "wikilink")（プロ野球選手）
+      - [1984年](../Page/1984年.md "wikilink")（昭和59年）度の「投げたらアカン」に出演。持論「草魂人生」を用い、中高生に「投げたらアカン\!」と呼びかけた。CMで鈴木が言ったこの言葉は流行語大衆賞を獲得、その他数多くの賞を受賞した。
+  - [劇団櫂](https://ja.wikipedia.org/wiki/劇団櫂 "wikilink")のメンバー（[松田重治](https://ja.wikipedia.org/wiki/松田重治 "wikilink")、[兼本新吾](https://ja.wikipedia.org/wiki/兼本新吾 "wikilink")、[名和慶子](https://ja.wikipedia.org/wiki/名和慶子 "wikilink")、大谷秀芳、[松尾銀三](https://ja.wikipedia.org/wiki/松尾銀三 "wikilink")、[西村知道](https://ja.wikipedia.org/wiki/西村知道 "wikilink")、[小粥よう子](https://ja.wikipedia.org/wiki/小粥よう子 "wikilink")、他）
+      - 1984年度の「迷惑の輪」に出演。公共マナーをテーマにしたテレビCMであり、自分の迷惑が連鎖反応的に次々と他人に及んでいくという内容。
+  - [水島裕](https://ja.wikipedia.org/wiki/水島裕_\(声優\) "wikilink")（声優・ナレーター）
+      - 1984年度の「迷惑の輪」でナレーションを担当。
+  - [山下泰裕](../Page/山下泰裕.md "wikilink")（柔道家）
+      - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）度の「人生投げたらイカン」に出演。前年度の「投げたらアカン」の続編。
+  - [広中雅志](https://ja.wikipedia.org/wiki/広中雅志 "wikilink")（声優・ナレーター）
+      - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）度の「人生投げたらイカン」でナレーションを担当。
+  - [武田鉄矢](https://ja.wikipedia.org/wiki/武田鉄矢 "wikilink")（歌手・俳優）
+      - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）度の「いじめ解消」に出演。CM曲は自身の作詞・歌唱によるキャンペーンソング「浪漫」である。
+  - ドン松五郎（キャラクター）
+      - 1986年度の「ドン松五郎」に登場。[井上ひさし](../Page/井上ひさし.md "wikilink")の小説「[ドン松五郎の生活](https://ja.wikipedia.org/wiki/ドン松五郎の生活 "wikilink")」の登場キャラクター。
+  - [本田美奈子.](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")（歌手）
+      - 1986年度の「しらんぷりもいじめ・いじめ解消（仮面）」編で『[HELP](https://ja.wikipedia.org/wiki/HELP_\(本田美奈子.の曲\) "wikilink")』が使用される。また、本田の死後に放送された2006年度の「本田美奈子.」（骨髄バンクキャンペーン）に登場。同CMは、遺族や生前の所属事務所の承諾を得て制作された。
+  - [山田太一](https://ja.wikipedia.org/wiki/山田太一_\(タレント\) "wikilink")（俳優・タレント・ナレーター・作詞家）
+      - 1986年度の「小さな親切（在校生編）」に出演。
+  - [宮川大助・花子](https://ja.wikipedia.org/wiki/宮川大助・花子 "wikilink")（漫才師）
+      - 1986年度の「迷惑駐車」（大阪地域のみ）に出演。「つくりましょ、ええ街大阪。」のスローガンで、妻の花子と共演、翌年1987年度の大阪地域キャンペーン「迷惑駐車 大助・花子(1)ピッピッピー (2)車の会話 (3)50万台 」（ラジオCM・新聞広告）にも出演。また2008年度の日本脳卒中協会支援キャンペーン「脳卒中の症状」では、宮川大助の脳卒中発症体験をCM化した。
+  - [鈴木孝政](https://ja.wikipedia.org/wiki/鈴木孝政 "wikilink")（野球選手）
+      - 1986年度の「しめるぞっ」（名古屋地域のみ）に出演。
+  - [柳沢慎吾](https://ja.wikipedia.org/wiki/柳沢慎吾 "wikilink")（俳優）
+      - 1986年度の「車で性格がわかる」（名古屋地域のみ）にラジオCMのみ出演。
+  - [中嶋悟](https://ja.wikipedia.org/wiki/中嶋悟 "wikilink")（レーサー）
+      - 1986年度の「スピード」（名古屋地域のみ）にラジオCMのみ出演。
+  - [矢島正明](https://ja.wikipedia.org/wiki/矢島正明 "wikilink")（声優・ナレーター）
+      - [ロゴタイプ](https://ja.wikipedia.org/wiki/ロゴタイプ "wikilink")を変更し、[サウンドロゴ](https://ja.wikipedia.org/wiki/サウンドロゴ "wikilink")を導入した1987年2月期以降、[サウンドロゴ](https://ja.wikipedia.org/wiki/サウンドロゴ "wikilink")の直後の「公共広告機構です」のナレーションを担当。また1981年度の「空き缶」、1987年度の「しつけこそ人間（チンパンジー）」のテレビCMのナレーションを担当、さらに1993年度キャンペーンとして交差点「全赤3秒」のラジオCMのナレーションを担当していた。
+  - [松尾文人](https://ja.wikipedia.org/wiki/松尾文人 "wikilink")（俳優）・[林いちこ](https://ja.wikipedia.org/wiki/林いちこ "wikilink")（女優）・[大西良和](https://ja.wikipedia.org/wiki/大西良和 "wikilink")（子役）・ジュリー（チンパンジー）
+      - 1987年度の「しつけこそ人間（チンパンジー）」に出演。
+  - [オール阪神・巨人](https://ja.wikipedia.org/wiki/オール阪神・巨人 "wikilink")（漫才師）
+      - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）度の「アイバンク」に出演。巨人は以前、眼を怪我したことからアイバンクに登録している。キャンペーンソング「瞳の中で愛せたら」も巨人が歌唱し、レコードシングルがリリースされた。
+  - [今井美樹](https://ja.wikipedia.org/wiki/今井美樹 "wikilink")（歌手）
+      - 1987年度の「献血」に出演。
+  - [近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")（歌手・俳優・タレント・レーシングドライバー・実業家）
+      - 1987年度の名古屋地域キャンペーン「僕はスピードを卒業した」（ラジオCM・新聞広告・ポスター）に出演。このキャンペーンは後に全国展開された。
+  - [槇大輔](https://ja.wikipedia.org/wiki/槇大輔 "wikilink")（声優・ナレーター）
+      - 1987年度の「献血」でナレーションを担当。また1989年度の「清掃犬ロン物語」のテレビCMでは、サウンドロゴの直前の「公共広告機構です」のナレーションも担当していた（30秒版のみ、15秒版はなし）。
+  - [星野仙一](https://ja.wikipedia.org/wiki/星野仙一 "wikilink")（元プロ野球選手・プロ野球監督・野球解説者）
+      - 1987年度の「交通ルールを守ろう」（名古屋地域のみ）・2004年度の「星野前監督と谷口さんの約束」（骨髄バンクキャンペーン）に出演。前者のラジオ版にはプロゴルファーの[森口祐子](https://ja.wikipedia.org/wiki/森口祐子 "wikilink")が出演していた。
+  - [谷沢永一](https://ja.wikipedia.org/wiki/谷沢永一 "wikilink")（文芸評論家・書誌学者）
+      - 1987年度の大阪地域キャンペーン「迷惑駐車 谷沢永一です（3タイプ）」（ラジオCM・新聞広告）に出演。
+  - [三木のり平](https://ja.wikipedia.org/wiki/三木のり平 "wikilink")（俳優）
+      - [1988年](../Page/1988年.md "wikilink")（昭和63年）度の「私の運命人まかせです」でナレーションを担当。
+  - [麻生美代子](https://ja.wikipedia.org/wiki/麻生美代子 "wikilink")（声優・ナレーター）
+      - 1988年度の「留学生インタビュー」のラジオCMでナレーションを担当。
+  - [ルートヴィヒ・ヴァン・ベートーヴェン](../Page/ルートヴィヒ・ヴァン・ベートーヴェン.md "wikilink")（作曲家）
+      - 1988年度の「名曲も迷惑曲」に登場。
+  - [サーブ](https://ja.wikipedia.org/wiki/サーブ_\(盲導犬\) "wikilink")（盲導犬）
+      - 1988年度の名古屋地域キャンペーン「サーブはもっと歩きたかった」（ラジオCM・新聞広告・雑誌広告）に登場。翌年1989年度からは、新聞・雑誌広告のみ全国展開された。
+  - [川村龍一](../Page/川村龍一.md "wikilink")（ラジオパーソナリティ）
+      - 1988年度の大阪地域キャンペーン「迷惑駐車 ことわざ(1)明日は我が身 (2)論語読みの論語知らず」（ラジオCMのみ）に出演。
+  - [キダ・タロー](https://ja.wikipedia.org/wiki/キダ・タロー "wikilink")（作曲家・タレント・ラジオパーソナリティ）
+      - 同上、「迷惑駐車 ことわざ(1)ひとごと言うより (2)天に恥じず (3)我が身つねって」（ラジオCMのみ）に出演。
+  - 井口ひろこ（第32代ミス東京）・楠木尚子（'89ミス大阪）
+      - 1989年度の「アイバンク」に出演。
+  - [工藤夕貴](https://ja.wikipedia.org/wiki/工藤夕貴 "wikilink")（女優）
+      - 1989年度の「わたしはこうして自然保護」に出演。
+  - [黒柳徹子](https://ja.wikipedia.org/wiki/黒柳徹子 "wikilink")（タレント・エッセイスト・ユニセフ親善大使）
+      - 1989年度の「ユニセフ・カード」に出演。
+  - [山野忠彦](https://ja.wikipedia.org/wiki/山野忠彦 "wikilink")（樹医）
+      - 1989年度の「樹のお医者さん」に出演。同CMの撮影は[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[太宰府市](../Page/太宰府市.md "wikilink")内で行われた。
+  - [西司](https://ja.wikipedia.org/wiki/西司 "wikilink")（シンガーソングライター）
+      - 同上、「樹のお医者さん」でCMソングを担当。曲名は、「ON THE WAY TO HOMETOWN」。
+  - ロン（清掃犬）
+      - 1989年度の「清掃犬ロン物語」に登場。同CMは'90ACC、ACC賞（テレビ部門）30秒を受賞している。
+  - [上岡龍太郎](https://ja.wikipedia.org/wiki/上岡龍太郎 "wikilink")（元タレント・司会者）
+      - 同上、「清掃犬ロン物語」でナレーションを担当。
+  - [山田五十鈴](https://ja.wikipedia.org/wiki/山田五十鈴 "wikilink")（女優）
+      - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）度の「たった2羽からの提言」でナレーションを担当。同CMは野生の[トキ](../Page/トキ.md "wikilink")を取り上げており、当時日本にいた野生のトキは2羽のみだった。のちに日本の野生のトキは絶滅している。
+  - [野茂英雄](../Page/野茂英雄.md "wikilink")（プロ野球選手）
+      - 1990年度の「献血」に出演。
+  - [酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink")（女優・歌手）
+      - 1990年度の「愛情運転」に出演。父親を交通事故で失った直後で、雨天時の交通マナーについて、このCMで「ハンドルを握る時、あなたの大事な人をしっかり守ってほしい。忘れないで、愛情運転。」と訴えた。
+  - [ピーコ](https://ja.wikipedia.org/wiki/ピーコ "wikilink")（服飾評論家・タレント）
+      - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")（平成3年）度の「アイバンク登録」（新聞・雑誌広告）に登場。
+  - [ジミー佐古田](https://ja.wikipedia.org/wiki/ジミー佐古田 "wikilink")（捜査官）
+      - 1991年度 - 1995年度の「麻薬撲滅」にラジオCMのみ出演。このCMにのみ最後のACのサウンドロゴが途中から自粛された。
+  - [北野大](https://ja.wikipedia.org/wiki/北野大 "wikilink")（化学者・タレント・コメンテーター）・[荻原弘子](https://ja.wikipedia.org/wiki/荻原弘子 "wikilink")（アナウンサー）
+      - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")（平成4年）度の「もったいないを捨てたくない」に出演。
+  - [伊藤みどり](https://ja.wikipedia.org/wiki/伊藤みどり "wikilink")（元フィギュアスケート選手）
+      - 1992年度の「安全運転」にラジオCMのみ出演。
+  - [牟田悌三](https://ja.wikipedia.org/wiki/牟田悌三 "wikilink")（俳優）
+      - 1992年度の「学校のないタルパ村に小学校が建った」でナレーションを担当。
+  - サラ・スタインハーゲン
+      - 1992年度の「家庭排水 人魚」に出演。
+  - [バーバラ・ブッシュ](https://ja.wikipedia.org/wiki/バーバラ・ブッシュ "wikilink")（第41代アメリカ大統領[ジョージ・H・W・ブッシュ](../Page/ジョージ・H・W・ブッシュ.md "wikilink")の妻）
+      - [1993年](../Page/1993年.md "wikilink")（平成5年）度の「骨髄バンク登録」に出演。テレビCMではアメリカ骨髄バンクの協力の元CMを使用している旨のテロップ表示がされている。
+  - [芦屋雁之助](https://ja.wikipedia.org/wiki/芦屋雁之助 "wikilink")（喜劇俳優・歌手）
+      - 同上、「骨髄バンク登録」でナレーションを担当。
+  - [毛利衛](../Page/毛利衛.md "wikilink")（宇宙飛行士）
+      - 1993年度の「地球のために始めよう」に出演。同CMは第33回 消費者のためになった広告コンクールテレビ広告16秒以上 銅賞を受賞。
+  - [出久根達郎](https://ja.wikipedia.org/wiki/出久根達郎 "wikilink")（小説家・随筆家）
+      - [1994年](../Page/1994年.md "wikilink")（平成6年）度の「アイバンク登録（出久根達郎）」（新聞・雑誌広告）に登場。
+  - [中野浩一](https://ja.wikipedia.org/wiki/中野浩一 "wikilink")（元自転車競技選手）・[増田明美](https://ja.wikipedia.org/wiki/増田明美 "wikilink")（元マラソン選手）
+      - 1994年度の「もっとマナーもっとリサイクル」に出演。公共マナーの改善や環境美化、資源リサイクルをテーマにしたCM。元自転車競技選手の中野が自転車に乗り、元マラソンランナーの増田がジョギングで空き缶拾いをするという内容。阪神淡路大震災時に大量に流されたこともあり、このCMで中野が発するセリフが、当時の関西でちょっとした流行語となった。CM曲は[NAOMI](https://ja.wikipedia.org/wiki/NAOMI_\(歌手\) "wikilink")（中野の妻）が歌う「あの日のように」というオリジナル曲で、この曲に関する問い合わせも多かったという（この曲は同年[8月10日](../Page/8月10日.md "wikilink")に[トーラスレコード](https://ja.wikipedia.org/wiki/トーラスレコード "wikilink")よりリリースされた）。
+  - [イッセー尾形](../Page/イッセー尾形.md "wikilink")（俳優）
+      - 1994年度の「バレなきゃいい、が見えている」に出演。
+  - [瀬戸内寂聴](https://ja.wikipedia.org/wiki/瀬戸内寂聴 "wikilink")（作家）・[森毅](https://ja.wikipedia.org/wiki/森毅 "wikilink")（数学者・評論家）
+      - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）度の[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")臨時キャンペーン「阪神・淡路大震災激励」に出演。
+  - [蛭子能収](../Page/蛭子能収.md "wikilink")（タレント・漫画家）
+      - 1995年度の第2回日米共同キャンペーン「DROP BY DROP」でナレーションを担当。
+  - [辰吉丈一郎](https://ja.wikipedia.org/wiki/辰吉丈一郎 "wikilink")（辰𠮷𠀋一郎）\[55\]\[56\]（プロボクサー）
+      - 1995年度の「[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")、許さん」に出演。同CMでは辰吉が子供の頃にいじめにあっていたことが取り上げられ、「いじめ、許さん」と訴えた。テレビCMは30秒版・15秒版ともに4種類のCMが放映されていた。
+  - [桂南光](https://ja.wikipedia.org/wiki/桂南光_\(3代目\) "wikilink")（落語家・タレント）
+      - 1995年度のAPEC'95大阪会議開催支援「ウエルカム関西」（大阪地域のみ）でナレーションを担当。
+  - 藤川斎・伊藤一二三・Kevan Osuma Ahmed
+      - 同上、「ウエルカム関西」（大阪地域のみ）に出演。
+  - [西村知美](https://ja.wikipedia.org/wiki/西村知美 "wikilink")（タレント・歌手）
+      - [1996年](../Page/1996年.md "wikilink")（平成8年）度の「これだけおぼえてください」に出演。同CMは手話をテーマにしており、西村は当時手話歴3年だった。
+  - [前園真聖](../Page/前園真聖.md "wikilink")（プロサッカー選手）
+      - 1996年度の「いじめ、カッコ悪い」に出演。辰吉の後任。
+  - [小松正一](https://ja.wikipedia.org/wiki/小松正一 "wikilink")（俳優）
+      - 1996年度の第3回日米共同キャンペーン「WATER MAN『水・排水口のぼやき』」にラジオCMで出演。
+  - 大川泰樹（声優）
+      - 同上、「WATER MAN『水・排水口のぼやき』」でナレーションを担当
+  - 加藤雷也（子役）
+      - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）度の「吸い殻のポイ捨て『少年の眼』」（街は、ゴミ箱じゃない）に出演。
+  - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（歌手・俳優）
+      - 1997年度の「覚せい剤撲滅 DRUGS KILL TEENS」に出演。その後、2008年度の日韓共同キャンペーン「エコライバルになろう」（チェ・ジウとの共演）、2011年東日本大震災臨時キャンペーン「日本の力を、信じてる篇」（SMAPのメンバー4人と共演）に出演。さらに2001年度の「手紙」（骨髄バンクキャンペーン）、2004年度の「ごはんの教科書」（国際連合世界食糧計画〔WFP〕支援キャンペーン）、2018年度全国キャンペーン「その危険見えてますか」ではナレーションを担当。SMAPとしての出演を含め6回の出演は最多である。
+  - [TOSHI](https://ja.wikipedia.org/wiki/TOSHI "wikilink")（ミュージシャン）
+      - 1997年（平成9年）度の「いじめ問題『いじめバイバイ』編」のCMソングを担当。曲名は「LOVE SONG」。
+  - [吉永小百合](../Page/吉永小百合.md "wikilink")（女優）
+      - 1997年度の「骨髄バンク登録『親子』編」とその続編にあたる1999年度の「もえチャンのお願い」、続く2000年度には、2000年が「[こども読書年](https://ja.wikipedia.org/wiki/国民読書年 "wikilink")」であることを受けて実施されたキャンペーン「いっしょ。」でナレーションを担当。
+  - [北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")（演歌歌手）
+      - 1997年度の「交通事故死ワーストワン返上」（北海道地域のみ）に出演。当時、北海道は交通事故による死者数が全国ワースト1だった。
+  - [関根勤](../Page/関根勤.md "wikilink")（タレント）
+      - 1997年度の「携帯電話による交通事故防止」（名古屋地域のみ）のナレーションを担当。
+  - [倉本聰](https://ja.wikipedia.org/wiki/倉本聰 "wikilink")（演出家・脚本家）
+      - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）度の「森のニングルが消えた星」でナレーションを担当。同CMは自身の物語に登場する森の住人「ニングル」をメインキャラクターとし、自然環境問題をテーマにしている。
+  - [与勇輝](https://ja.wikipedia.org/wiki/与勇輝 "wikilink")(人形作家)
+      - 同上、「森のニングルが消えた星」でメインキャラクターである森の住人「ニングル」の人形を担当。
+  - [下條アトム](https://ja.wikipedia.org/wiki/下條アトム "wikilink")（声優・俳優・ナレーター）
+      - 1998年度の「指1本でできるボランティア」・2002年度の「80年ぶりに、アユが遠賀川に帰ってきました。」（九州地域のみ）でナレーションを担当。前者のCM使用曲は[亜波根綾乃](https://ja.wikipedia.org/wiki/亜波根綾乃 "wikilink")の「小さな勇気」。
+  - [小嶺麗奈](https://ja.wikipedia.org/wiki/小嶺麗奈 "wikilink")（女優）
+      - 1998年度の「DRUGS KILL TEENS〈同級生の誘い〉」に出演。
+  - [篠原ともえ](https://ja.wikipedia.org/wiki/篠原ともえ "wikilink")（歌手・タレント・女優・デザイナー・音楽プロデューサー）
+      - 1998年度の「いじめバイバイ・みんなの勇気（男子生徒編）」のCMソングを担当。使用曲は「ハロー・スティーヴン」（1998年8月5日発売の2ndアルバム「MEGAPHONE SPEAKS」に収録）。
+  - 川口康夫（俳優）・[松戸俊二](https://ja.wikipedia.org/wiki/松戸俊二 "wikilink")（俳優）・高木まみこ（女優）
+      - 1998年度の「WATCH OUR CHILDREN〈catch ball〉」に出演。
+  - [町田康](https://ja.wikipedia.org/wiki/町田康 "wikilink")（小説家・ミュージシャン）
+      - 同上、「WATCH OUR CHILDREN〈catch ball〉」でナレーションを担当。
+  - [真野きりな](https://ja.wikipedia.org/wiki/真野きりな "wikilink")（女優）・富田靖広（俳優）
+      - 1998年度の「骨髄バンク『二十歳の登録』」に出演。同CMは女性バージョンと男性バージョンの2種類が放映されていた。
+  - [ドリアン助川](https://ja.wikipedia.org/wiki/ドリアン助川 "wikilink")（作家）
+      - 同上、「骨髄バンク『二十歳の登録』」でナレーションを担当。
+  - [寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink")（歌手）
+      - 同上、「骨髄バンク『二十歳の登録』」でCMソングを担当。曲は[PANTAの書き下ろした](https://ja.wikipedia.org/wiki/パンタ_\(歌手\) "wikilink")「スコア」。
+  - [安藤優子](https://ja.wikipedia.org/wiki/安藤優子 "wikilink")（ニュースキャスター）
+      - 1998年度の「『プッシュホーン』たった3分の電話で救える命」（世界の子どもにワクチンを日本委員会の支援キャンペーン）でナレーションを担当。
+  - [葉加瀬太郎](https://ja.wikipedia.org/wiki/葉加瀬太郎 "wikilink")（バイオリニスト）
+      - 同上、「『プッシュホーン』たった3分の電話で救える命」でCM音楽を担当。なおこのCMで使用されている曲「エトピリカ」は後に[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『[情熱大陸](https://ja.wikipedia.org/wiki/情熱大陸 "wikilink")』のテーマ曲にも使用された。
+  - [オユンナ](https://ja.wikipedia.org/wiki/オユンナ "wikilink")（シンガーソングライター）
+      - 1998年度の名古屋地域キャンペーン「アジア・アフリカの田んぼ」でCMソングを担当。
+  - [役所広司](https://ja.wikipedia.org/wiki/役所広司 "wikilink")（俳優）
+      - 同上、「アジア・アフリカの田んぼ」でナレーションを担当。
+  - [福寿淳](https://ja.wikipedia.org/wiki/福寿淳 "wikilink")（俳優・声優）
+      - 1998年度の大阪地域キャンペーン「なにわのタブー」でナレーションを担当。また2000年度の大阪地域キャンペーン「歩きタバコ」をナレーションを担当。
+  - 木川知子（女優）
+      - [1999年](../Page/1999年.md "wikilink")（平成11年）度の「人生を粉々にします。」に出演。
+  - [岩崎宏美](https://ja.wikipedia.org/wiki/岩崎宏美 "wikilink")（歌手）
+      - 同上、「人生を粉々にします。」のCMソングを担当。『[アメイジング・グレイス](../Page/アメイジング・グレイス.md "wikilink")』をアカペラで歌った。
+  - [西田敏行](../Page/西田敏行.md "wikilink")（俳優）
+      - 1999年度の「恩返し」（世界の子どもにワクチンを日本委員会の支援キャンペーン）に出演。同CMは第53回 広告電通賞 公共広告優秀賞を受賞した。また、2010年度の「今、わたしにできること・呼びかけ篇A」（震災臨時キャンペーン）にも出演。
+  - 松川信（俳優）
+      - 1999年度の東北地域キャンペーン「バス・STOP\!」でナレーションを担当。
+  - [古谷徹](../Page/古谷徹.md "wikilink")（声優・ナレーター）
+      - 1999年度の名古屋地域キャンペーン「富士山の見えない富士見町」でナレーションを担当。
+  - [水木しげる](../Page/水木しげる.md "wikilink")（漫画家）
+      - 1999年度の中四国地域キャンペーン「妖怪たちが泣いている」でイラストを担当。
+  - 蔵田哲雄（俳優）
+      - 同上、「妖怪たちが泣いている」でナレーションを担当。
+  - [ばってん荒川](https://ja.wikipedia.org/wiki/ばってん荒川 "wikilink")（役者）
+      - 1999年度の「あんた、バッテン\!」（九州地域のみ）に出演。同CMは第40回 ACC全日本CMフェスティバルACC奨励賞（地域テレビCM部門）・第39回 福岡広告協会賞 銅賞（テレビCM16秒以上部門）を受賞した。
+  - [ジョン・レノン](../Page/ジョン・レノン.md "wikilink")（歌手）
+      - [2000年](../Page/2000年.md "wikilink")（平成12年）度の「ジョン・レノン」で、在りし日のポートレートやイラストが使用された（CM放送時にはすでに死去）。
+  - [中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")（タレント・俳優）
+      - 2000年度の「ゆめのつづき」（世界の子どもにワクチンを日本委員会の支援キャンペーン）に出演。CM曲は自身が歌う「心の地図」。
+  - [アンディ・フグ](https://ja.wikipedia.org/wiki/アンディ・フグ "wikilink")（格闘家）
+      - 2000年度の「アンディ・フグ」で登場（CM放送時にはすでに死去）。骨髄バンクへの登録を呼びかける同CMは、アンディの遺族とK-1の承諾を得て制作された。
+  - [大杉漣](https://ja.wikipedia.org/wiki/大杉漣 "wikilink")（俳優）
+      - 同上、「アンディ・フグ」でナレーションを担当。
+  - [大滝秀治](https://ja.wikipedia.org/wiki/大滝秀治 "wikilink")（俳優）
+      - 2000年度の「生きていたマゴコロ」・2001年度の「まちは、もう一つの学校」（どちらも中四国地域のみ）に出演。後者ではナレーションも担当。
+  - [宮地佑紀生](https://ja.wikipedia.org/wiki/宮地佑紀生 "wikilink")（タレント）
+      - 2000年度の「名古屋が『本場』？」（名古屋地域のみ）でナレーションを担当。
+  - [畑中フー](https://ja.wikipedia.org/wiki/畑中フー "wikilink")（ナレーター）
+      - 2000年度の「セクハラ、関西から考えましょ」（大阪地域のみ）でラジオCMのみ出演。また2010年度のラジオCM「おせっかい」（広報キャンペーン）でナレーションを担当。
+  - [木村恭子](https://ja.wikipedia.org/wiki/木村恭子 "wikilink")（歌手・作曲家）・[中矢由紀](https://ja.wikipedia.org/wiki/中矢由紀 "wikilink")（声優）・[福井玲子](https://ja.wikipedia.org/wiki/福井玲子 "wikilink")（声優）
+      - 同上、ラジオCMのみ出演。
+  - [平岩毅](https://ja.wikipedia.org/wiki/平岩毅 "wikilink")（アナウンサー）
+      - 2000年度の「列島ジコ虫だより」（ジコ虫キャンペーン第二弾）に出演。
+  - [小林研二](https://ja.wikipedia.org/wiki/小林研二 "wikilink")（声優・ナレーター）
+      - 同上、「列島ジコ虫だより」でナレーションを担当。
+  - [平泉成](https://ja.wikipedia.org/wiki/平泉成 "wikilink")（俳優）
+      - [2001年](../Page/2001年.md "wikilink")（平成13年）度の「あなたのマナーを見てください」の「電車の男」篇に出演。
+  - [小日向しえ](https://ja.wikipedia.org/wiki/小日向しえ "wikilink")（歌手）
+      - 同上、「あなたのマナーを見てください」の「交差点の女」篇に出演。
+  - [八名信夫](https://ja.wikipedia.org/wiki/八名信夫 "wikilink")（俳優）
+      - 2001年度・2002年度の「大人を逃げるな。」（新聞・雑誌は「悪役になろう。」）に出演。
+  - [川原和久](https://ja.wikipedia.org/wiki/川原和久 "wikilink")（俳優）
+      - 同上、「大人を逃げるな。」でナレーションを担当。
+  - [大塚寧々](https://ja.wikipedia.org/wiki/大塚寧々 "wikilink")（女優）
+      - 2001年度の「ママ ヘルプ ママ」（世界の子どもにワクチンを日本委員会の支援キャンペーン）に出演。
+  - [平良とみ](../Page/平良とみ.md "wikilink")（女優）
+      - 2001年度の「死後の意思」（日本臓器移植ネットワークの支援キャンペーン）でナレーションを担当。
+  - 伊藤友寿（女優）・[浅野麻衣子](https://ja.wikipedia.org/wiki/浅野麻衣子 "wikilink")（女優）・斉藤勉（俳優）・一倉万里子（女優）・[志賀廣太郎](https://ja.wikipedia.org/wiki/志賀廣太郎 "wikilink")（俳優）・林孝一（俳優）・[伊藤聖子](https://ja.wikipedia.org/wiki/伊藤聖子 "wikilink")（女優）
+      - 2001年度の「IMAGINATION」で出演。同CMは第42回 ACCCMフェスティバルACC銅賞（テレビCM部門）・アジア太平洋広告祭 グランプリ/The Best Director賞/金賞・クレスタ賞を受賞した。
+  - 動夢舞（どんまい）（車椅子よさこいソーランチーム）
+      - 2001年度の北海道地域キャンペーン「その夢に、壁はない。」に登場。
+  - [ミヤコ蝶々](https://ja.wikipedia.org/wiki/ミヤコ蝶々 "wikilink")（女優・漫才師）
+      - 2001年度の「蝶々さん、大阪を叱る。」（大阪地域のみ）に出演（CM放送時にはすでに死去）。過去に出演した映画や講演会のテープを使用して制作。
+  - 藤ジニー（山形県・[銀山温泉](https://ja.wikipedia.org/wiki/銀山温泉 "wikilink")の旅館若女将〔当時〕）
+      - [2002年](../Page/2002年.md "wikilink")（平成14年）度の全国キャンペーン「ニッポン人」に出演。
+  - [山口達也](https://ja.wikipedia.org/wiki/山口達也 "wikilink")（歌手・タレント・俳優）
+      - 2002年度の「300円でできること」（世界の子どもにワクチンを日本委員会の支援キャンペーン）に出演。
+  - [渡辺いっけい](https://ja.wikipedia.org/wiki/渡辺いっけい "wikilink")（俳優）
+      - 2002年度の「[藤前干潟](https://ja.wikipedia.org/wiki/藤前干潟 "wikilink")」（名古屋地域のみ）でナレーションを担当。
+  - [西本智実](https://ja.wikipedia.org/wiki/西本智実 "wikilink")（指揮者）
+      - 2002年度の「関西活性化『指揮者篇』」（大阪地域のみ）に出演。
+  - [松田悟志](https://ja.wikipedia.org/wiki/松田悟志 "wikilink")（俳優）
+      - 2002年度の「なんで？気持ちいいんだ。」（中四国地域のみ）に出演。
+  - [ロナウド](../Page/ロナウド.md "wikilink")（サッカー選手）・[ジネディーヌ・ジダン](../Page/ジネディーヌ・ジダン.md "wikilink")（サッカー選手）
+      - 2002～2003年度の国際連合開発計画（UNDP）による支援キャンペーンに出演。2人はUNDPの親善大使も務めている。ジダンは2009年度の国際連合開発計画臨時支援キャンペーン「ハイチ地震支援」にも出演。
+  - [パパイヤ鈴木](../Page/パパイヤ鈴木.md "wikilink")（ダンサー・タレント・俳優）
+      - 2002年度のNHK共同キャンペーン「ペットボトルのリサイクル」に出演。ペットボトルはキャップを取りラベルを剥がし、潰して捨てると呼びかけるものが放送された。実際はペットボトルの捨て方は自治体によって異なり、ラベルは剥がさず潰さないで捨てると定めている地域もある。後の2010年度に放送された3R推進団体連絡会の支援CM「ちょっとだけバイバイ」には、「地域の分別ルールにしたがってください」というテロップを表示している。
+  - [相築あきこ](https://ja.wikipedia.org/wiki/相築あきこ "wikilink")（女優）
+      - [2003年](../Page/2003年.md "wikilink")（平成15年）度の全国キャンペーン「抱きしめる、という会話」に出演。
+  - [鈴木英一郎](https://ja.wikipedia.org/wiki/鈴木英一郎 "wikilink")（声優・ナレーター）
+      - 同上、「抱きしめる、という会話」でナレーションを担当。
+  - [大山のぶ代](../Page/大山のぶ代.md "wikilink")（声優）
+      - 2003年度の「ドラえもん」と2004年度の「宣誓、2005年ポリオ撲滅。」に登場した[ドラえもんの声を担当](https://ja.wikipedia.org/wiki/ドラえもん_\(キャラクター\) "wikilink")。いずれも世界の子供にワクチンを日本委員会の支援キャンペーンで、テレビアニメの声優陣が入れ替わった2005年4月以降もCMは2004年度の活動が終了する6月まで放送されていた。
+  - [夏目雅子](https://ja.wikipedia.org/wiki/夏目雅子 "wikilink")（女優・故人）
+      - 2003年度の「夏目雅子編」に登場。骨髄バンクキャンペーンCM。同CMは遺族の承諾を得て制作された。
+  - [小林薫](https://ja.wikipedia.org/wiki/小林薫 "wikilink")（俳優）・[谷啓](https://ja.wikipedia.org/wiki/谷啓 "wikilink")（俳優）
+      - 2003年度の「うみがめ課」（九州地域のみ）でナレーションを担当。
+  - [川満聡](https://ja.wikipedia.org/wiki/川満聡 "wikilink")（タレント）
+      - 2003年度の「マナー守らんでどうするべき」（沖縄地域のみ）に出演。
+  - [ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")（音楽ユニット）
+      - 2003年度のNHK共同キャンペーン「買い物袋」に出演。
+  - [野口英世](https://ja.wikipedia.org/wiki/野口英世 "wikilink")（理学博士）
+      - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）度の「シカの愛」（東北地域のみ）に登場。この年、[千円紙幣](https://ja.wikipedia.org/wiki/千円紙幣 "wikilink")の肖像が野口になった。CMで取り上げられたのは英世ではなく、彼の母親・シカだった。
+  - [TARAKO](../Page/TARAKO.md "wikilink")（声優）
+      - 2004年度の九州地域キャンペーン「海の男たちは、山の男たちになった」でナレーションを担当。
+  - [津波信一](https://ja.wikipedia.org/wiki/津波信一 "wikilink")（タレント）
+      - 2004年度の「大人もがんばろう」（沖縄地域のみ）に出演。
+  - [冨永愛](https://ja.wikipedia.org/wiki/冨永愛 "wikilink")（ファッションモデル）
+      - 2004年度のNHK共同キャンペーン「スイッチＯＦＦ」に出演。
+  - [岩沢幸矢](https://ja.wikipedia.org/wiki/岩沢幸矢 "wikilink")（フォークデュオ「[ブレッド&バター](https://ja.wikipedia.org/wiki/ブレッド&バター "wikilink")」ボーカル、シンガーソングライター）
+      - 国連世界食糧計画（WFP）の[2004年スマトラ沖地震臨時支援キャンペーン](https://ja.wikipedia.org/wiki/スマトラ島沖地震_\(2004年\) "wikilink")「スマトラ沖地震災害支援篇」でナレーションを担当。\[57\]
+  - [栗山千明](https://ja.wikipedia.org/wiki/栗山千明 "wikilink")（女優）
+      - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）度の全国キャンペーン「あなたが大切だ。」に出演。
+  - [アニマル浜口](https://ja.wikipedia.org/wiki/アニマル浜口 "wikilink")（元プロレスラー）・望月カオル（タレント）
+      - 2005年度の「アニマル浜口の親子論」（九州地域のみ）に出演。
+  - [井原正巳](https://ja.wikipedia.org/wiki/井原正巳 "wikilink")（元プロサッカー選手）
+      - 2005年度の「メンバーが、足りない。」（骨髄バンクキャンペーン）に出演。
+  - [石田ゆり子](../Page/石田ゆり子.md "wikilink")（女優）
+      - 2005年度の「いのちの枝」（[国際連合世界食糧計画](https://ja.wikipedia.org/wiki/国際連合世界食糧計画 "wikilink")〔WFP〕の支援キャンペーン）でナレーションを担当。
+  - [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")（音楽グループ）
+      - 2005年度のNHK共同キャンペーン「アイドリング・ストップ」に出演。
+  - [野原しんのすけ](https://ja.wikipedia.org/wiki/野原しんのすけ "wikilink")（キャラクター）
+      - 2005年度の広報キャンペーン「AC（公共広告機構）って、なに？」（新聞広告のみ）に登場。漫画「クレヨンしんちゃん」の主人公で、アニメの画が使用された。
+  - [岩鶴恒義](https://ja.wikipedia.org/wiki/岩鶴恒義 "wikilink")（俳優）
+      - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）度と2007年度の広報キャンペーン「人のココロにタネをまく。」でナレーションを担当。
+  - [琴欧洲勝紀](https://ja.wikipedia.org/wiki/琴欧洲勝紀 "wikilink")（大相撲力士）
+      - 2006年度の「はっけよいエコライフ」に出演。
+  - [岩尾万太郎](https://ja.wikipedia.org/wiki/岩尾万太郎 "wikilink")（俳優・声優・ナレーター）
+      - 同上、「はっけよいエコライフ」でナレーションを担当。
+  - [梶芽衣子](https://ja.wikipedia.org/wiki/梶芽衣子 "wikilink")（女優・歌手）
+      - 2006年度の「逆・授業参観」でナレーションを担当。
+  - [松崎駿司](https://ja.wikipedia.org/wiki/松崎駿司 "wikilink")（俳優）
+      - 同上、「逆・授業参観」に出演。
+  - [伊藤淳史](https://ja.wikipedia.org/wiki/伊藤淳史 "wikilink")（俳優）
+      - 2006年度の「エレベーター」（東京地域のみ）に出演。
+  - [佐々木麻緒](https://ja.wikipedia.org/wiki/佐々木麻緒 "wikilink")（女優）
+      - 2006年度の「言葉でできる地震対策」（名古屋地域のみ）に出演。
+  - [関川太郎](https://ja.wikipedia.org/wiki/関川太郎 "wikilink")（俳優）
+      - 2006年度の「車内は部屋ではありません。」（大阪地域のみ）に出演。同CMは、後に全国展開された。
+  - [田中哲司](https://ja.wikipedia.org/wiki/田中哲司 "wikilink")（俳優）
+      - 2006年度の骨髄バンク支援キャンペーン「本田美奈子.」ではナレーションを担当。2014年度ウイルス肝炎研究財団支援キャンペーン「あなたのカンゾウさんも、無口です。」にも出演。
+  - [和田毅](https://ja.wikipedia.org/wiki/和田毅 "wikilink")（プロ野球選手）
+      - 2006年度の「僕のルール」・2007年度の「僕は、つづける。」に出演。いずれも世界の子どもにワクチンを日本委員会の支援キャンペーン。
+  - [ポール・テルガト](https://ja.wikipedia.org/wiki/ポール・テルガト "wikilink")（マラソン選手）
+      - 2006年度の「給食で世界記録」（[国際連合世界食糧計画](https://ja.wikipedia.org/wiki/国際連合世界食糧計画 "wikilink")〔WFP〕の支援キャンペーン）に出演。
+  - [内藤剛志](../Page/内藤剛志.md "wikilink")（タレント・俳優）
+      - 同上、「給食で世界記録」でナレーションを担当。
+  - [劉亦菲](https://ja.wikipedia.org/wiki/劉亦菲 "wikilink")（女優・歌手）
+      - 2006年度の「生命を咲かせるカード」（日本臓器移植ネットワークの支援キャンペーン）に出演。
+  - [奥貫薫](https://ja.wikipedia.org/wiki/奥貫薫 "wikilink")（女優・ナレーター）
+      - 同上、「生命を咲かせるカード」でナレーションを担当。
+  - [宮崎ますみ](../Page/宮崎萬純.md "wikilink")（女優）
+      - 2006年度の「宮崎ますみ、乳がんを語る」（日本対がん協会の支援キャンペーン）に出演。
+  - [パペットマペット](https://ja.wikipedia.org/wiki/パペットマペット "wikilink")（芸人）
+      - 2006年度の「うしくんのエイズ検査体験レポート」（[エイズ予防財団](https://ja.wikipedia.org/wiki/エイズ予防財団 "wikilink")の支援キャンペーン）に出演。
+  - [坂上二郎](https://ja.wikipedia.org/wiki/坂上二郎 "wikilink")（コメディアン・俳優・歌手）
+      - 2006年度の日本脳卒中協会支援キャンペーン「坂上二郎さん出演」（新聞広告のみ）に登場。
+  - [大島麻衣](https://ja.wikipedia.org/wiki/大島麻衣 "wikilink")、[小嶋陽菜](https://ja.wikipedia.org/wiki/小嶋陽菜 "wikilink")、[佐藤由加理](https://ja.wikipedia.org/wiki/佐藤由加理 "wikilink")、[篠田麻里子](https://ja.wikipedia.org/wiki/篠田麻里子 "wikilink")、[峯岸みなみ](https://ja.wikipedia.org/wiki/峯岸みなみ "wikilink")（女性アイドル、当時は全員が音楽ユニット・[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")のメンバー）
+      - 2006年度の「3Rで地球を救おう」（NHK共同キャンペーン）に出演。
+  - [瓜生美咲](https://ja.wikipedia.org/wiki/瓜生美咲 "wikilink")（女優）
+      - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）度の「まぜるな、資源。」（東京地域のみ）に出演。
+  - [天田暦](https://ja.wikipedia.org/wiki/天田暦 "wikilink")（俳優）
+      - 2007年度の「日課のスライド」（名古屋地域のみ）に出演。テレビCMのみ全国で放送された。
+  - [内村麻美](https://ja.wikipedia.org/wiki/内村麻美 "wikilink")（タレント・モデル・女優）
+      - 2007年度の「ドナーリレー」（骨髄バンクの支援キャンペーン）に出演。
+  - [二宮和也](https://ja.wikipedia.org/wiki/二宮和也 "wikilink")（歌手・タレント・俳優）
+      - 2007年度の「ビスケット」（[国際連合世界食糧計画](https://ja.wikipedia.org/wiki/国際連合世界食糧計画 "wikilink")〔WFP〕の支援キャンペーン）でナレーションを担当。
+          - 2011年東日本大震災臨時キャンペーン「今、わたしにできること・呼びかけ篇B」では、嵐のメンバー4人と共演。
+  - [能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink")（声優・ナレーター）
+      - 2007年度の「乳がん意識を高めてください。」（日本対がん協会の支援キャンペーン）でナレーションを担当。
+  - [TERU](https://ja.wikipedia.org/wiki/TERU "wikilink")（ミュージシャン）
+      - 2007年度の「TERU登場」・2008年度の「検査に行くということ」に出演。いずれも[エイズ予防財団](https://ja.wikipedia.org/wiki/エイズ予防財団 "wikilink")の支援キャンペーンである。
+  - [藤井千夏](https://ja.wikipedia.org/wiki/藤井千夏_\(声優\) "wikilink")（声優・ナレーター）
+      - 2007年度の「TERU登場」・2008年度の「検査に行くということ」でラジオCMのナレーションを担当。
+  - [Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")（音楽ユニット）
+      - 2007年度の「リサイクルマークがECOマーク。」（NHK共同キャンペーン）に出演。同CMのCMソングは、彼女たちが歌う「[ポリリズム](https://ja.wikipedia.org/wiki/ポリリズム_\(Perfumeの曲\) "wikilink")」である。
+  - [加賀美幸子](../Page/加賀美幸子.md "wikilink")（元NHKアナウンサー）
+      - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）度の「三丁目の夕日」でナレーションを担当。同上CMは漫画『[三丁目の夕日](https://ja.wikipedia.org/wiki/三丁目の夕日 "wikilink")』を題材にしている。
+  - [西島秀俊](https://ja.wikipedia.org/wiki/西島秀俊 "wikilink")（俳優）
+      - 2008年度の「生きている証」・2011年度の「宮沢賢治・明日を信じる」でナレーションを担当。
+  - [チェ・ジウ](https://ja.wikipedia.org/wiki/チェ・ジウ "wikilink")（女優）
+      - 2008年度の日韓共同キャンペーン「エコライバルになろう」に出演。草彅剛との共演。
+  - [なぎら健壱](https://ja.wikipedia.org/wiki/なぎら健壱 "wikilink")（俳優・漫談家）
+      - 2008年度の「自転車って、もっと素敵になれるはず。」（東北地域のみ）に出演。同CMはNHKでも放送された。
+  - [森田直幸](https://ja.wikipedia.org/wiki/森田直幸 "wikilink")（俳優）
+      - 2008年度の「追いかけてくる手」（大阪地域のみ）に出演。
+  - [永井貴也](https://ja.wikipedia.org/wiki/永井貴也 "wikilink")（俳優）
+      - 2008年度の「5秒でできる、思いやり」（中四国地域のみ）に出演。
+  - [川崎宗則](https://ja.wikipedia.org/wiki/川崎宗則 "wikilink")、[松田宣浩](https://ja.wikipedia.org/wiki/松田宣浩 "wikilink")、[山崎勝己](https://ja.wikipedia.org/wiki/山崎勝己 "wikilink")、[大場翔太](https://ja.wikipedia.org/wiki/大場翔太 "wikilink")（プロ野球選手）
+      - 2008年度の「川﨑選手、キーパーになる。」（九州地域のみ）に出演。
+  - [豊川悦司](https://ja.wikipedia.org/wiki/豊川悦司 "wikilink")（俳優）
+      - 2008年度の「hope」（[国際連合世界食糧計画](https://ja.wikipedia.org/wiki/国際連合世界食糧計画 "wikilink")〔WFP〕の支援キャンペーン）でナレーションを担当。
+  - [山田邦子](https://ja.wikipedia.org/wiki/山田邦子 "wikilink")（タレント）
+      - 2008年度の「邦ちゃんのメッセージ」（日本対がん協会の支援キャンペーン）に出演。
+  - [藤村俊二](https://ja.wikipedia.org/wiki/藤村俊二 "wikilink")（タレント・俳優・声優・ナレーター）
+      - 2008年度の「地球の咳」（結核予防会の支援キャンペーン）で医者役の声を担当。
+  - [女鹿伸樹](https://ja.wikipedia.org/wiki/女鹿伸樹 "wikilink")（ナレーター）
+      - 2008年度の「なくなるといいな、『ごみ』という言葉。」（3R推進団体連絡会の支援キャンペーン）でナレーションを担当。
+  - [大後寿々花](https://ja.wikipedia.org/wiki/大後寿々花 "wikilink")（女優）・[森岡龍](https://ja.wikipedia.org/wiki/森岡龍 "wikilink")（俳優）
+      - 2008年度の「コエだしてエコ」（NHK共同キャンペーン）に出演。CMソングは[Yum\!Yum\!ORANGE](https://ja.wikipedia.org/wiki/Yum!Yum!ORANGE "wikilink")の「Merry Go Round」。
+  - [はな](https://ja.wikipedia.org/wiki/はな "wikilink")（モデル）
+      - [2009年](../Page/2009年.md "wikilink")（平成21年）度の広報キャンペーン「公共広告をあきらめない。」（ラジオCM・新聞広告）に出演。2014年度のセーブ・ザ・チルドレン・ジャパン支援キャンペーン「Save」ではナレーションを担当。
+  - [堤隆博](https://ja.wikipedia.org/wiki/堤隆博 "wikilink")（俳優）
+      - 2009年度の「きちんとしかろう」に出演。
+  - [韓英恵](https://ja.wikipedia.org/wiki/韓英恵 "wikilink")（女優）
+      - 2009年度の「あなたでいいのだ。」に出演。
+  - [ハンバートハンバート](https://ja.wikipedia.org/wiki/ハンバートハンバート "wikilink")（ミュージシャン）
+      - 同上、「あなたでいいのだ。」のBGMの作曲と演奏を担当、またメンバーの一人である佐藤良成がナレーションを担当。
+  - 新海なつ（女優）・中井敬二（俳優）
+      - 2009年度の「したたかおばあさん（ごきげんうかがい）」に出演。
+  - [成金屋清富](https://ja.wikipedia.org/wiki/成金屋清富 "wikilink")（声優）
+      - 同上、「したたかおばあさん（ごきげんうかがい）」でナレーションを担当。
+  - [遠藤保仁](https://ja.wikipedia.org/wiki/遠藤保仁 "wikilink")（サッカー選手・[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")所属）
+      - 2009年度の「ルールブックにはないルール」（大阪地域のみ）に出演。
+  - [鶴田真由](../Page/鶴田真由.md "wikilink")（女優）
+      - 2009年度の「hopeを消さないで」（[国際連合世界食糧計画](https://ja.wikipedia.org/wiki/国際連合世界食糧計画 "wikilink")〔WFP〕の支援キャンペーン）でナレーションを担当。
+  - [江守徹](https://ja.wikipedia.org/wiki/江守徹 "wikilink")（俳優・演出家）
+      - 2009年度の「脳卒中の症状か。ただの疲れか。」（日本脳卒中協会の支援キャンペーン）に出演。
+  - [ビートたけし](../Page/ビートたけし.md "wikilink")（タレント・映画監督）
+      - 2009年度の「立ち止まって考えてみよう。」（結核予防会の支援キャンペーン）に出演。
+  - [石川紗彩](https://ja.wikipedia.org/wiki/石川紗彩 "wikilink")（女優）・[小林正宗](https://ja.wikipedia.org/wiki/小林正宗 "wikilink")（子役）
+      - 2009年度の「リサイクルの夢」（3R推進団体連絡会の支援キャンペーン）に出演。
+  - 山岡亮太（俳優）
+      - 2009年度の「コトバダイブしよう。」（文字・活字文化推進機構の支援キャンペーン）に出演。同CMのCMソングは[HiGE](https://ja.wikipedia.org/wiki/HiGE "wikilink")の「青空」。
+  - 村上哲夫、美保子夫妻（旅館「朝日館」館主）
+      - 2009年度の「最後の親孝行」（日本アイバンク協会の支援キャンペーン）に出演。
+  - [豊田エリー](https://ja.wikipedia.org/wiki/豊田エリー "wikilink")（モデル）
+      - 2009年度の「ぱなしのはなし」（NHK共同キャンペーン）に出演。NHKでも放送されていたが、エンドクレジットの関係でNHKの方が本編より少し長めである。
+  - [大和田健介](https://ja.wikipedia.org/wiki/大和田健介 "wikilink")（俳優）
+      - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）度の「[見える気持ちに。](https://ja.wikipedia.org/wiki/見える気持ちに。 "wikilink")」、「ちょっとだけバイバイ」（3R推進団体連絡会の支援CM）に出演。
+  - [岡本玲](https://ja.wikipedia.org/wiki/岡本玲 "wikilink")（ファッションモデル、女優）
+      - 2010年度の「見える気持ちに。」でナレーションを担当。
+  - [小林星蘭](https://ja.wikipedia.org/wiki/小林星蘭 "wikilink")（女優）
+      - 2010年度の3R推進団体連絡会支援キャンペーン「ちょっとだけバイバイ」に出演。
+  - [鈴木さえ子](https://ja.wikipedia.org/wiki/鈴木さえ子 "wikilink")（作曲家）
+      - 2010年度の「あなたの手当て」でナレーションを担当。
+  - [高田秋](https://ja.wikipedia.org/wiki/高田秋 "wikilink")（モデル）
+      - 2010年度の「見方を変えよう。」（北海道地域）に出演。
+  - [UA](https://ja.wikipedia.org/wiki/UA_\(歌手\) "wikilink")（歌手）
+      - 2010年度の「こだまでしょうか」（東京地域）でナレーション（[金子みすゞ](https://ja.wikipedia.org/wiki/金子みすゞ "wikilink")の詩「こだまでせうか」の朗読）を担当。「こだまでしょうか」は2011年度の[新語・流行語大賞](https://ja.wikipedia.org/wiki/新語・流行語大賞 "wikilink")でトップ10入りした。
+  - [赤星憲広](https://ja.wikipedia.org/wiki/赤星憲広 "wikilink")（元プロ野球選手）
+      - 2010年度の「ボランティアは生涯現役」（大阪地域）に出演。
+  - [イビチャ・オシム](https://ja.wikipedia.org/wiki/イビチャ・オシム "wikilink")（元サッカー監督）
+      - 2010年度の「オシムの言葉」（日本脳卒中協会の支援CM）に出演。
+  - 響大祐（俳優・ナレーター）
+      - 同上、「オシムの言葉」でナレーションを担当。
+  - [城南海](https://ja.wikipedia.org/wiki/城南海 "wikilink")（歌手）
+      - 2010年度の「国境を越えた医者」（国境なき医師団日本の支援CM）でCMソングを担当。
+  - [五十嵐麗](https://ja.wikipedia.org/wiki/五十嵐麗 "wikilink")（声優）
+      - 2010年度の同上CMに出演する女性医師の吹き替えを担当。
+  - [市川知宏](https://ja.wikipedia.org/wiki/市川知宏 "wikilink")（俳優）
+      - 2010年度の「知層」（文字・活字文化推進機構の支援CM）に出演。
+  - [仁科亜季子](https://ja.wikipedia.org/wiki/仁科亜季子 "wikilink")（女優）・[仁科仁美](https://ja.wikipedia.org/wiki/仁科仁美 "wikilink")（タレント）
+      - 2010年度の「大切なあなたへ」（日本対がん協会の支援CM）に親子で出演。
+  - [手嶌葵](https://ja.wikipedia.org/wiki/手嶌葵 "wikilink")（歌手）
+      - 2010年度の「難民のふるさと」（国連UNHCR協会の支援CM）ではナレーションを担当。CMのBGMは唱歌の「[故郷](https://ja.wikipedia.org/wiki/故郷_\(唱歌\) "wikilink")」であり、演奏は[川井郁子](../Page/川井郁子.md "wikilink")が担当している。2013年度のあしなが育英会支援キャンペーン「進学できた。前に進めた。」ではCMソングを担当。CMソングは「I've Been Working on the Railroad（[線路は続くよどこまでも](https://ja.wikipedia.org/wiki/線路は続くよどこまでも "wikilink")）」。
+  - [相川結](https://ja.wikipedia.org/wiki/相川結 "wikilink")（女優）
+      - 2010年度の「ありがとう あしながさん」（あしなが育英会の支援CM）に出演。遺児となったため進学を諦めていたが育英会の支援により進学が叶った高校生役。
+  - [長島瑞穂](https://ja.wikipedia.org/wiki/長島瑞穂_\(タレント\) "wikilink")（タレント）、平田咲（タレント）
+      - 同上、「ありがとう あしながさん」に出演。
+  - [中嶋朋子](https://ja.wikipedia.org/wiki/中嶋朋子 "wikilink")（女優）
+      - 同上、「ありがとう あしながさん」でナレーションを担当。
+  - [アヤカ・ウィルソン](https://ja.wikipedia.org/wiki/アヤカ・ウィルソン "wikilink")（歌手・女性子役・ファッションモデル）
+      - 2010年度の「命のかげ」（NHK共同キャンペーン）に出演。同CMに登場する影絵は[劇団かかし座](https://ja.wikipedia.org/wiki/劇団かかし座 "wikilink")が担当している。
+  - [NMB48](https://ja.wikipedia.org/wiki/NMB48 "wikilink")（音楽ユニット）
+      - [2011年](../Page/2011年.md "wikilink")（平成23年）度の「KANSAIできること48」（大阪地域のみ）に出演。
+  - [光岡湧太郎](https://ja.wikipedia.org/wiki/光岡湧太郎 "wikilink")（声優）
+      - 2011年度の「希望の5文字 UNHCR」（国連UNHCR協会の支援CM）でナレーションを担当。
+  - 川東眞央（学生）
+      - 2011年度の「あしながさんがくれた愛」（あしなが育英会の支援CM）に出演。
+  - [紺野美沙子](../Page/紺野美沙子.md "wikilink")（女優）
+      - 2011年から2013年までのあしなが育英会支援キャンペーン「あしながさんがくれた愛(2011)」、「面倒くさいこと(2012)」、「進学できた。前に進めた。(2013)」で、ナレーションを担当。
+          - 2002～2003年度の国際連合開発計画（UNDP）による支援キャンペーンにも日本語版のナレーションで出演。自身もUNDPの親善大使を務めている。
+  - [おちあやこ](https://ja.wikipedia.org/wiki/おちあやこ "wikilink")（タレント・女優）
+      - 2011年度の骨髄バンク支援キャンペーン「あなたしか治せない白血病があります。」に出演。彼女自身も骨髄ドナー経験者。
+  - [青木菜摘](https://ja.wikipedia.org/wiki/青木菜摘 "wikilink")（元アイドル・AV女優）、小松吾芸（モデル）、[中村譲](https://ja.wikipedia.org/wiki/中村譲 "wikilink")（俳優・モデル）、栗栖理緒（女優）
+      - 2011年度のエイズ予防財団支援キャンペーン「断言できない」に出演。BGMは[BOOM BOOM SATELLITESの](https://ja.wikipedia.org/wiki/BOOM_BOOM_SATELLITES "wikilink")「BLEED」。
+  - [北乃きい](https://ja.wikipedia.org/wiki/北乃きい "wikilink")（女優）
+      - 2011年度の「北乃きいの意思表示」（日本臓器移植ネットワークの支援CM）に出演。
+  - [浅沼晋太郎](https://ja.wikipedia.org/wiki/浅沼晋太郎 "wikilink")（俳優・声優）
+      - 同上、「北乃きいの意思表示」でナレーションを担当。
+  - [矢野健夫](https://ja.wikipedia.org/wiki/矢野健夫 "wikilink")（飛行撮影家）
+      - 2011年度の日本ナショナル・トラスト協会支援キャンペーン「美しい自然を、残そう。」に出演。テレビCMでは日本を代表するトラスト地を空中から撮影し、日本の[ナショナル・トラスト](https://ja.wikipedia.org/wiki/ナショナル・トラスト "wikilink")活動の理解・参加を呼びかけた。
+  - [高梨臨](https://ja.wikipedia.org/wiki/高梨臨 "wikilink")（タレント）・ [我妻三輪子](https://ja.wikipedia.org/wiki/我妻三輪子 "wikilink")（ファッションモデル）
+      - 2011年度の「やさしい森」（NHK共同キャンペーン）に出演。高梨は同作のCMソングも歌っている。
+  - [佐々木蔵之介](https://ja.wikipedia.org/wiki/佐々木蔵之介 "wikilink")（俳優）
+      - 2011年度の「魔法使いの少年」でナレーションを担当。
+  - [森喜行](https://ja.wikipedia.org/wiki/森喜行 "wikilink")（俳優）
+      - 2011年度の「魔法使いの少年」にドライバー役で出演。
+  - [秋月成美](https://ja.wikipedia.org/wiki/秋月成美 "wikilink")（女優）
+      - 2011年度の「ささえあったら、人になる。」に出演。
+  - [ムッシュかまやつ](https://ja.wikipedia.org/wiki/ムッシュかまやつ "wikilink")（ミュージシャン）
+      - 同上、「ささえあったら、人になる。」のCMソングを担当。
+  - [多部未華子](https://ja.wikipedia.org/wiki/多部未華子 "wikilink")（女優）
+      - 2011年度の「蜂と神さま」（中四国地域のみ）でナレーション（[金子みすゞ](https://ja.wikipedia.org/wiki/金子みすゞ "wikilink")の詩の朗読）を担当。
+  - [キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")（音楽ユニット）
+      - 2011年度の「笑顔の花」（東北地域のみ）に出演。
+  - [栗城史多](https://ja.wikipedia.org/wiki/栗城史多 "wikilink")（登山家）、[鈴木章](https://ja.wikipedia.org/wiki/鈴木章 "wikilink")（化学者、[北海道大学](../Page/北海道大学.md "wikilink")名誉教授）、[高梨沙羅](https://ja.wikipedia.org/wiki/高梨沙羅 "wikilink")（女子スキージャンプ選手）、[初音ミク](https://ja.wikipedia.org/wiki/初音ミク "wikilink")（キャラクター）、[三國清三](https://ja.wikipedia.org/wiki/三國清三 "wikilink")（シェフ）、宮嶋望（酪農家）
+      - 2011年度の「このチカラ、この地から」（北海道地域のみ）に登場。
+  - 小山颯（子役）
+      - [2012年](../Page/2012年.md "wikilink")（平成24年）度の全国キャンペーン「ハイ！」に出演。
+  - 平野航平（子役）
+      - 2012年度の全国キャンペーン「今の自分より、少し前へ」に出演。
+  - [和合亮一](https://ja.wikipedia.org/wiki/和合亮一 "wikilink")（詩人）
+      - 2012年度の地域キャンペーン（東北地域）「明日への一歩」に出演・詩朗読を担当。
+  - [ピーター・バラカン](https://ja.wikipedia.org/wiki/ピーター・バラカン "wikilink")（ブロードキャスター）
+      - 2012年度の地域キャンペーン（東京地域）「この国の思いやりは、世界遺産」に出演。
+  - [鈴木福](https://ja.wikipedia.org/wiki/鈴木福 "wikilink")（子役）、[鈴木夢](https://ja.wikipedia.org/wiki/鈴木夢 "wikilink")（子役）、[川藤幸三](https://ja.wikipedia.org/wiki/川藤幸三 "wikilink")（元プロ野球選手、野球解説者）
+      - 2012年度の地域キャンペーン（大阪地域）「いっちょcomingダンス」に出演。
+          - 鈴木福は2011年度の全国キャンペーン「ささえあったら、人になる。」にも出演。
+  - [木島杏奈](https://ja.wikipedia.org/wiki/木島杏奈 "wikilink")（モデル）
+      - 2012年度のあしなが育英会支援キャンペーン「面倒くさいこと」に出演。
+  - [本田望結](https://ja.wikipedia.org/wiki/本田望結 "wikilink")（子役）
+      - 2012年度の日本対がん協会支援キャンペーン「みんな大好きだから」に出演。
+  - [知花くらら](https://ja.wikipedia.org/wiki/知花くらら "wikilink")（ファッションモデル、タレント、国連WFPオフィシャルサポーター）
+      - 2012年度の国連WFP協会支援キャンペーン「みんなの未来」に出演。
+  - [川島海荷](https://ja.wikipedia.org/wiki/川島海荷 "wikilink")（女優、歌手）
+      - 2012年度の骨髄バンク支援キャンペーン「18歳からできること」に出演。
+  - [柄本明](https://ja.wikipedia.org/wiki/柄本明 "wikilink")（俳優・コメディアン）、[角替和枝](https://ja.wikipedia.org/wiki/角替和枝 "wikilink")（女優）、[柄本佑](https://ja.wikipedia.org/wiki/柄本佑 "wikilink")（俳優）、[柄本時生](https://ja.wikipedia.org/wiki/柄本時生 "wikilink")（俳優）
+      - 2012年度の日本臓器移植ネットワーク支援キャンペーン「柄本家、話し合う」に一家で出演。
+  - [八千草薫](https://ja.wikipedia.org/wiki/八千草薫 "wikilink")（女優）
+      - 2012年度の日本ナショナル・トラスト協会支援キャンペーン「リレーしよう 自然のままの自然を」に出演。
+  - [滝川クリステル](https://ja.wikipedia.org/wiki/滝川クリステル "wikilink")（タレント、フリーアナウンサー、世界の医療団親善大使）
+      - 2012年度の世界の医療団支援キャンペーン「原点」でナレーションを担当。翌2013年度の「対話」では、世界の医療団日本理事で[形成外科医の寺島左和子と共演](https://ja.wikipedia.org/wiki/形成外科学 "wikilink")。2014年度の「誰もが」にも出演。
+  - [竹下景子](https://ja.wikipedia.org/wiki/竹下景子 "wikilink")（女優・タレント・ナレーター・ワクチン大使）
+      - 2012年度の世界の子供にワクチンを日本委員会支援キャンペーン「親からのありがとう」にナレーションで出演（ラジオCM（20秒）のみ、2013年度以降もラジオ番組「[司馬遼太郎短篇傑作選](https://ja.wikipedia.org/wiki/司馬遼太郎短篇傑作選 "wikilink")」内に限り放送されていた）。
+  - [板東晴](https://ja.wikipedia.org/wiki/板東晴 "wikilink")（モデル）
+      - 2012年度のNHK共同キャンペーン「キレイな姉」に出演。
+          - 2014年度日本臓器移植ネットワーク支援キャンペーン「私のヒーローは、ここにいます。」にも出演。
+  - [星野みなみ](https://ja.wikipedia.org/wiki/星野みなみ "wikilink")（女性アイドル・[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")のメンバー）
+      - 同上、「キレイな姉」に出演。\[58\]
+  - [青葉市子](https://ja.wikipedia.org/wiki/青葉市子 "wikilink")（シンガーソングライター）
+      - [2013年](../Page/2013年.md "wikilink")（平成25年）度と2014年度の広報キャンペーン「みんなで考えましょう。」では、CMソングを担当。
+  - [高嶋琴羽](https://ja.wikipedia.org/wiki/高嶋琴羽 "wikilink")（子役）、中川江奈（子役）
+      - 2013年度の全国キャンペーン「となりの先生」に出演。
+  - [AKIRA](https://ja.wikipedia.org/wiki/AKIRA_\(ダンサー\) "wikilink")（ダンサー、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")のメンバー）
+      - 2013年度のエイズ予防財団支援キャンペーン「スタートライン」に出演。
+  - [有村架純](https://ja.wikipedia.org/wiki/有村架純 "wikilink")（女優）
+      - 2013年度のNHK共同キャンペーン 「ながらスマホにマナーを。」 に出演。
+  - [大島洋平](https://ja.wikipedia.org/wiki/大島洋平 "wikilink")（プロ野球選手）
+      - 2013年度の「防災・減災の鉄則」（名古屋地域のみ）に出演。
+  - [くいだおれ太郎](https://ja.wikipedia.org/wiki/くいだおれ太郎 "wikilink")（キャラクター）
+      - 2013年度の大阪地域キャンペーン「親子のひみつコトバ」に出演。なお、同CMには「くいだおれ太郎のお母さん」役で、[株式会社くいだおれの女将も登場](https://ja.wikipedia.org/wiki/くいだおれ "wikilink")。
+  - 華月綾香（タレント）、[竹村翔](https://ja.wikipedia.org/wiki/竹村翔 "wikilink")（俳優）、大貫真代（女優）
+      - 2013年度のあしなが育英会支援キャンペーン「進学できた、前に進めた。」に出演。
+  - [津田寛治](https://ja.wikipedia.org/wiki/津田寛治 "wikilink")（俳優）
+      - 2013年度の国連WFP協会支援キャンペーン「給食でエベレスト」のナレーションを担当。
+  - 寺島左和子（形成外科医、世界の医療団日本理事）
+      - 2013年度の世界の医療団支援キャンペーン「対話」で、滝川クリステルと共演。
+  - [永松文太](https://ja.wikipedia.org/wiki/永松文太 "wikilink")（俳優）
+      - 2013年度の日本骨髄バンク支援キャンペーン「キミじゃなきゃ」に出演。
+  - [西田尚美](https://ja.wikipedia.org/wiki/西田尚美 "wikilink")（女優）
+      - 2013年度のWWFジャパン支援キャンペーン「子どもたちの資源も大切に」で、ナレーションを担当。
+  - 酒瀬川真世（女優）
+      - 2013年度の世界の子供にワクチンを日本委員会支援キャンペーン「未来をありがとう」でナレーションを担当。
+  - [温水洋一](https://ja.wikipedia.org/wiki/温水洋一 "wikilink")（俳優、タレント）
+      - 2013年度のウイルス肝炎研究財団支援キャンペーン「カンゾウさんは、無口です。」、翌2014年度の「あなたのカンゾウさんも、無口です。」で、キャラクター「カンゾウさん」の声を担当。
+  - [安めぐみ](https://ja.wikipedia.org/wiki/安めぐみ "wikilink")（タレント）
+      - 2013年度の日本臓器移植ネットワーク支援キャンペーン「私はしてるよ。」に出演。
+  - [安藤輪子](https://ja.wikipedia.org/wiki/安藤輪子 "wikilink")（女優）、[角南範子](https://ja.wikipedia.org/wiki/角南範子 "wikilink")（女優）、[岡田吉弘](https://ja.wikipedia.org/wiki/岡田吉弘 "wikilink")（俳優）
+      - [2014年](../Page/2014年.md "wikilink")（平成26年）度の全国キャンペーン「おとなもほめよう」に出演。
+  - 稲山琴美（愛知県犬山市の[木曽川うかい](https://ja.wikipedia.org/wiki/木曽川うかい "wikilink")鵜匠）
+      - 2014年度の名古屋地域キャンペーン「挑戦。それは誰かを元気にする。」に出演。
+  - [小澤征爾](../Page/小澤征爾.md "wikilink")（指揮者）
+      - 2014年度日本盲導犬協会支援キャンペーン「パートナーのいる幸せ」では、ボランティアで出演。（テレビCMのみ）\[59\]BGMで使われている楽曲は、[ベルリオーズ作曲](../Page/エクトル・ベルリオーズ.md "wikilink")・[幻想交響曲 第2楽章「舞踏会」](../Page/幻想交響曲.md "wikilink")。
+  - 神田朝香（女優）
+      - 2014年度認知症サポーターキャラバン支援キャンペーン「帰宅」に出演。
+  - [佐藤真海](https://ja.wikipedia.org/wiki/佐藤真海 "wikilink")（パラリンピック女子陸上競技選手)
+      - 2014年度東北地域キャンペーン「夢へ、跳ぶ力。」に出演。
+  - [高畑充希](https://ja.wikipedia.org/wiki/高畑充希 "wikilink")（女優）
+      - 2014 - 2015年度の全国キャンペーン「やさしさは、想像力でひろがる」でナレーションを担当。
+  - [中川家礼二](https://ja.wikipedia.org/wiki/中川礼二 "wikilink")（お笑い芸人）
+      - 2014年度大阪地域キャンペーン「ATMおばちゃん」に出演。
+  - [バカリズム](https://ja.wikipedia.org/wiki/バカリズム "wikilink")（ピン芸人、ナレーター、俳優、脚本家、作詞家）
+      - 2014年度WWFジャパン支援キャンペーン「2つの地球」でナレーションを担当。
+  - [林家たい平](https://ja.wikipedia.org/wiki/林家たい平 "wikilink")（落語家）
+      - 2014年度日本脳卒中協会支援キャンペーン「3つのヘン」でナレーションを担当。
+  - [松田龍平](https://ja.wikipedia.org/wiki/松田龍平 "wikilink")（俳優）
+      - 2014年度エイズ予防財団支援キャンペーン「受ける、理由。」に出演。
+  - [植木祥平](https://ja.wikipedia.org/wiki/植木祥平 "wikilink")（俳優）、[上間凜子](https://ja.wikipedia.org/wiki/上間美緒 "wikilink")（タレント・女優・ファッションモデル）
+      - [2015年](../Page/2015年.md "wikilink")（平成27年）度全国キャンペーン「やわらかいこころをもちましょう」に出演。
+  - [上原浩治](https://ja.wikipedia.org/wiki/上原浩治 "wikilink")（プロ野球選手・[レッドソックス所属](https://ja.wikipedia.org/wiki/ボストン・レッドソックス "wikilink")）
+      - 2015年度日本骨髄バンク支援キャンペーン「登板」に出演。
+  - [片岡愛之助](https://ja.wikipedia.org/wiki/片岡愛之助_\(6代目\) "wikilink")（歌舞伎俳優）
+      - 2015年度日本脳卒中協会支援キャンペーン「写楽」でナレーションを担当。本キャンペーンのビジュアルには[東洲斎写楽](../Page/東洲斎写楽.md "wikilink")の「三代目大谷鬼次の奴江戸兵衛」を、さらにTVCMで[喜多川歌麿](https://ja.wikipedia.org/wiki/喜多川歌麿 "wikilink")の「ビードロを吹く娘」、「[熈代勝覧](https://ja.wikipedia.org/wiki/熈代勝覧 "wikilink")」も使用した。
+  - 上地竜司、小渡俊彰、ナツコ、比嘉恭平（沖縄の演劇グループ『[TEAM SPOT JUMBLE](https://ja.wikipedia.org/wiki/TEAM_SPOT_JUMBLE "wikilink")』のメンバー）
+      - 2015年度沖縄地域キャンペーン「応援しよう\!働くパパ＆ママ」に出演。
+  - [JOY](https://ja.wikipedia.org/wiki/JOY_\(ファッションモデル\) "wikilink")（ファッションモデル・タレント）
+      - 2015年度結核予防会支援キャンペーン「JOYと偉人」に出演。
+  - 鈴木加奈子（トロンボーン奏者）
+      - 2015年度日本盲導犬協会支援キャンペーン「削り絵」に出演。彼女は実際の盲導犬ユーザーで、パートナーは盲導犬のナンシー（メス・撮影当時9歳）。
+  - [間寛平](../Page/間寛平.md "wikilink")（お笑いタレント）・[間慎太郎](https://ja.wikipedia.org/wiki/間慎太郎 "wikilink")（シンガーソングライター・間寛平の息子）
+      - 2015年度大阪地域キャンペーン「災害を考える・間寛平さん親子の忘災会議」で親子共演。
+  - [吹石一恵](https://ja.wikipedia.org/wiki/吹石一恵 "wikilink")（女優）
+      - 2015年度全国キャンペーン「やわらかいこころをもちましょう」でナレーションを担当。
+          - 2011年東日本大震災大阪地域臨時キャンペーン「こいのぼり篇」のナレーションも担当。
+  - [柳生みゆ](https://ja.wikipedia.org/wiki/柳生みゆ "wikilink")（ファッションモデル・女優・タレント）・[高杉真宙](https://ja.wikipedia.org/wiki/高杉真宙 "wikilink")（俳優）
+      - 2015年度NHK共同キャンペーン「もったいないで明日は変わる」に出演。本キャンペーンはアニメ作品で、柳生みゆは女子高生の声を、高杉真宙は男子高校生の声をそれぞれ担当。
+  - [山口まゆ](https://ja.wikipedia.org/wiki/山口まゆ_\(女優\) "wikilink")（女優）
+      - 2015年度の「笑顔に変わる時」と続編で2016年度の「お父さんへの報告」に出演。いずれも交通遺児育英会支援キャンペーン。
+  - [植木等](https://ja.wikipedia.org/wiki/植木等 "wikilink")（俳優・コメディアン・歌手・ギタリスト・タレント）
+      - [2016年](../Page/2016年.md "wikilink")（平成28年）度全国キャンペーン「ライバルは、1964年」に写真・過去映像で登場。
+  - [久保陽香](https://ja.wikipedia.org/wiki/久保陽香 "wikilink")（女優・タレント）、江波戸勇（俳優）
+      - 2016年度の日本骨髄バンク支援キャンペーン「ヒーロー引退」に出演。
+  - [佐藤秀峰](https://ja.wikipedia.org/wiki/佐藤秀峰 "wikilink")（漫画家）
+      - 2016年度結核予防会支援キャンペーン「日本だけがなぜ」に自身の作品である漫画「[ブラックジャックによろしく](../Page/ブラックジャックによろしく.md "wikilink")」を使用。自身の画で主人公、斉藤英二郎がメッセージの発信者に起用されたが、英二郞の声を担当した人は不明。
+  - 川西健太（障がい者サッカー選手）・[中村俊輔](https://ja.wikipedia.org/wiki/中村俊輔 "wikilink")（サッカー選手）
+      - 2016年度メイク・ア・ウィッシュ オブ ジャパン支援キャンペーン「夢のサプライズ企画」に出演。
+  - [すっちー](https://ja.wikipedia.org/wiki/すっちー "wikilink")（芸人・[吉本新喜劇](https://ja.wikipedia.org/wiki/吉本新喜劇 "wikilink")座長）・[福本愛菜](https://ja.wikipedia.org/wiki/福本愛菜 "wikilink")（タレント・吉本新喜劇座員）
+      - 2016年度の大阪地域キャンペーン「歩きスマホやめ代」に出演。テレビCMのみNHKでも全国で放送されていた。
+          - すっちーは2018年度の日本臓器移植ネットワーク支援キャンペーン「意思表示すんのかいせんのかい」では同じ吉本新喜劇の吉田裕と子役の花城凛音と共演。
+  - [平手友梨奈](https://ja.wikipedia.org/wiki/平手友梨奈 "wikilink")（アイドル・[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")のメンバー）\[60\]・[八木莉可子](https://ja.wikipedia.org/wiki/八木莉可子 "wikilink")（モデル）
+      - 2016年度NHK共同キャンペーン「フリする女の子」に出演。
+  - [星野源](https://ja.wikipedia.org/wiki/星野源 "wikilink")（俳優・ミュージシャン・文筆家）
+      - 2016年度全国キャンペーン「ライバルは、1964年」で楽曲とナレーションを担当。BGMの「Hello Song」は後に自身のアルバム「[POP VIRUS](https://ja.wikipedia.org/wiki/POP_VIRUS "wikilink")」にフルで収録され、2019年1月に放映された[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")のCMにも使用された。
+  - 宮城恵輔（飲酒運転事故経験者）
+      - 2016年度沖縄地域キャンペーン「ボクを見てください。〜宮城恵輔さんの告白〜」に出演。
+  - [KenKen](https://ja.wikipedia.org/wiki/KenKen "wikilink")（ベーシスト）
+      - [2017年](../Page/2017年.md "wikilink")（平成29年）度全国キャンペーン「TOKYOだけじゃない」でBGMを担当。
+  - [美輪明宏](https://ja.wikipedia.org/wiki/美輪明宏 "wikilink")（シンガーソングライター・俳優・タレント）
+      - 2017年度全国キャンペーン「苦情殺到！桃太郎」でナレーションを担当。
+  - [木下ほうか](https://ja.wikipedia.org/wiki/木下ほうか "wikilink")（俳優）
+      - 2017年度日本骨髄バンク支援キャンペーン「僕が卒業しても」に出演。自身もドナーに登録。
+  - [矢崎希菜](https://ja.wikipedia.org/wiki/矢崎希菜 "wikilink")（女優）
+      - 2017年度交通遺児育英会支援キャンペーン「満点の答案用紙」に出演。\[61\]
+  - 林祐樹（診療放射線技師）
+      - 2017年度メイク・ア・ウィッシュ オブ ジャパン支援キャンペーン「夢の実現が、僕の人生を変えた」に出演。
+  - [サンドウィッチマン](https://ja.wikipedia.org/wiki/サンドウィッチマン_\(お笑いコンビ\) "wikilink")（お笑いコンビ・漫才師）
+      - 2017年度日本心臓財団支援キャンペーン「謙信と信玄、検診の進言」で声の出演。[上杉謙信](https://ja.wikipedia.org/wiki/上杉謙信 "wikilink")役を[富澤たけし](https://ja.wikipedia.org/wiki/富澤たけし "wikilink")、[武田信玄](../Page/武田信玄.md "wikilink")役を[伊達みきお](https://ja.wikipedia.org/wiki/伊達みきお "wikilink")が担当。
+  - [草笛光子](https://ja.wikipedia.org/wiki/草笛光子 "wikilink")（女優）
+      - 2017年度全国被害者支援ネットワーク支援キャンペーン「被害は解決していない」でナレーションを担当。
+  - 宗本智之（ウェブ解析者）
+      - 2017年度日本筋ジストロフィー協会支援キャンペーン「『ありがとう』を言えた」に出演。
+  - [川平慈英](../Page/川平慈英.md "wikilink")（サッカー解説者・俳優）
+      - 2017 - 2018年度の沖縄地域キャンペーン「飲酒運転は『ムムム』！」にアニメーションで出演。
+  - [飯豊まりえ](https://ja.wikipedia.org/wiki/飯豊まりえ "wikilink")（ファッションモデル・女優）
+      - 2017年度NHK共同キャンペーン「わたしのおばあちゃん」に出演。
+  - [竹原ピストル](https://ja.wikipedia.org/wiki/竹原ピストル "wikilink")（歌手）
+      - [2018年](../Page/2018年.md "wikilink")（平成30年）度の全国キャンペーン「オモイデはニッポンの人」でCMソングを担当。曲名は「ひまわりさくまであとすこし」。
+  - [中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")（バラエティアイドル・女優）
+      - 2018年度日本骨髄バンク支援キャンペーン「『生きたい』と願う人がいる」に出演。
+          - 2011年東日本大震災臨時キャンペーン「今、わたしにできること・呼びかけ篇C」にも出演。
+  - [中川勝彦](https://ja.wikipedia.org/wiki/中川勝彦 "wikilink")（中川翔子の父・ミュージシャン・故人）
+      - 同上、「『生きたい』と願う人がいる」に生前の頃の写真で登場。
+  - [箭内夢菜](https://ja.wikipedia.org/wiki/箭内夢菜 "wikilink")（女優・モデル）
+      - 2018年度交通遺児育英会支援キャンペーン「56,000人の先輩たちからのエール」に出演。
+  - [田中卓志](https://ja.wikipedia.org/wiki/田中卓志 "wikilink")（芸人・お笑いコンビ「[アンガールズ](https://ja.wikipedia.org/wiki/アンガールズ "wikilink")」のツッコミ担当）
+      - 2018年度の日本心臓財団支援キャンペーン「心臓の『叫び』」で[ムンク作](https://ja.wikipedia.org/wiki/エドヴァルド・ムンク "wikilink")・「[叫び](https://ja.wikipedia.org/wiki/叫び_\(エドヴァルド・ムンク\) "wikilink")」の声を担当。
+  - [清水みさと](https://ja.wikipedia.org/wiki/清水みさと "wikilink")（女優）
+      - 同上、「心臓の『叫び』」でナレーションを担当。
+  - [浅野温子](../Page/浅野温子.md "wikilink")（女優）
+      - 2018年度全国被害者支援ネットワーク支援キャンペーン「話すことは、つらい思いを放つこと」でナレーションを担当。
+  - [吉田裕](https://ja.wikipedia.org/wiki/吉田裕_\(お笑い芸人\) "wikilink")（お笑いタレント・吉本新喜劇座員）・花城凛音（子役）
+      - 2018年度日本臓器移植ネットワーク支援キャンペーン「意思表示すんのかいせんのかい」に吉本新喜劇座長のすっちーと共演。
+  - 古賀小由実（シンガーソングライター）
+      - 2018年度ウォーターエイドジャパン支援キャンペーン「ランドセルとポリタンク」でCMソングを担当。曲名は「ヒカリ」。
+
+## 東日本大震災に伴う特別措置
+
+[2011年](../Page/2011年.md "wikilink")（平成23年）[3月11日](../Page/3月11日.md "wikilink")に[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）が発生した際、当初CM抜きで[報道特別番組](https://ja.wikipedia.org/wiki/報道特別番組 "wikilink")を放送していた民放各局は、徐々にCMを入れた通常編成に戻したが、多くのスポンサー企業はCM放送を自粛した。ACジャパンの担当者がテレビ局の人物から聞いた話によると、クライアントである一般企業の約70%以上が自粛したという\[62\]。これにより、ACジャパンのCMは民放各局で繰り返し放送され、世間から注目を集めることになった。
+
+### 震災直後のCMの本数と割合
+
+地震発生前におけるACジャパンのCMの本数は、2011年3月5日から3月11日14:50過ぎまでの期間において32本であった（関東の民放キー局5局を対象にした調査。CM総合研究所調べ）\[63\]。それ以降、地震に関する特番によりCMが放送されなくなり、CMが復帰した3月12日以降、ACジャパンのCMが激増した。3月12日から3月19日までの1週間におけるACジャパンのCMの本数は19,972本にのぼっており（調査対象、調査会社は同じ）、CM総合研究所によると、この本数は[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が1年間で放送するCMの本数に相当するという\[64\]\[65\]。
+
+CM全体に対してACジャパンのCMが占めた割合も、地震直後は非常に高くなった。地震後にCM放送を再開してから3月16日早朝までに放送した8,173本のCMのうち、77%がACジャパンのCMであり\[66\]、3月22日まででは全体の約8割がACジャパンのCMであったという\[67\]。また、1日におけるACジャパンのCMの割合は、3月15日が「8割超」\[68\]、3月16日が「約86%」\[69\]と発表されている。3月下旬には徐々にCMを再開する企業が増え、4月以降になると割合は全体の15%程度に減少し、5月の[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")の時期には全体の1%未満（1日あたり約20本）に落ち着いた\[70\]（いずれも関東の民放キー局5局を対象にした調査。CM総合研究所調べ）。
+
+### 視聴者の反応
+
+このように、ACジャパンのCMは非常に多く流された。さらに、放送回数の多さに対してCMの種類が少ないために同じCMが繰り返し流され、これにより視聴者からの反感を生み出してしまった\[71\]。また、CMの内容についても、震災時に流されることが考慮されたものではない。これらの点について、ACジャパンには視聴者から「同じCMばかり流れてしつこい」「内容が地震にそぐわない」といった旨の苦情が殺到した\[72\]。後のACジャパンの2010年度事業報告によると、非常時を意識していないCMの内容に対する違和感の声が多かったのは支援キャンペーンであり、一方で全国キャンペーンに対する批判は少なかった\[73\]。なお、ACジャパンの専務理事である草川衛によると、苦情は被災地以外に住む視聴者から先に寄せられ、被災地の視聴者からの苦情はやや遅れて寄せられたという\[74\]。
+
+苦情はCMの放送回数や内容に関するものばかりではなく、サウンドロゴに対するものや的外れな苦情、脅迫もあった。サウンドロゴに対しては「不快だ」\[75\]「地震速報と間違える」\[76\]といった旨の苦情が寄せられた。的外れな苦情の例としては、「企業の自粛であまったCM枠を買いあさっているのか」\[77\]「そんなCMを流すのに税金を使うなら、少しでも被災地に回せ」\[78\]といったものがあった（実際、CMは無料で放送されており、どれだけ大量に放送してもACジャパンと各放送局の間に金銭のやりとりは一切生じない。またACジャパンは先述のように国や地方公共団体とは無関係であり、それらの自治体などからの援助を受けていない）。このほか、刃物を持って押しかけるという脅迫電話をかけた者もいた\[79\]。
+
+このように、ACジャパンへの反感を持った視聴者による苦情が殺到したという事実がある一方で、雑誌『[CM NOW](https://ja.wikipedia.org/wiki/CM_NOW "wikilink")』は地震直後におけるACジャパンの広告に関する肯定的な一面に言及している。それは、テレビを通して地震による災害を見守ってきた視聴者が感じた「言い知れない、解消の出来ない心のざわつき」を「一瞬、冷静にさせ、ある意味では癒してくれた」という一面である\[80\]。さらに同誌では、ACジャパンの作品には「他人（ひと）を想う気持ち」を考えたという意味での共通点があり、それが震災に立ち向かう人々の心情と重なったのかもしれない、という見解が述べられている\[81\]。また、CM総合研究所調べによる銘柄別CM好感度ランキングでは、震災直後である2011年3月度後期の調査において、ACジャパンが1位となった。その後4月度前期・4月度後期と3期連続で1位を保っており、ACジャパンに対する世間の関心の高さが示されている。同社調べによる2010年度の年間企業別CM好感度ランキングにおいても前年度の59位から8位まで浮上した\[82\]。また、インターネット上では、動画投稿サイトなどに「あいさつの魔法。」などのCMから作られた二次創作が多く投稿された。
+
+### ACジャパンの対応
+
+ACジャパンは3月16日\[83\]、視聴者に不快な思いをさせたとしてお詫びの文章\[84\]を発表した。また同日\[85\]、テレビ各局にサウンドロゴの削除を依頼し、それにテレビ局が対応する形でサウンドロゴなしのCMが放映されるようになった\[86\]\[87\]。しかし依頼以降も非常にまれだがサウンドロゴがそのまま流れたこともあった。依頼が行われたテレビ局は全国160局以上に及んでいる\[88\]。
+
+また、ACジャパンお詫びに先がけて、被災している状況において内容のそぐわない6本のCMの放送中止をテレビ局に依頼した。ただし、対象のCMのうち「ありがとう あしながさん」は後に放送を再開したほか、依頼以降もまれにこれらのCMが放送されたこともあった。これらのCMの放送中止依頼が行われた日付（以下依頼日）については雑誌『[日経エンタテインメント\!](https://ja.wikipedia.org/wiki/日経エンタテインメント! "wikilink")』の記事\[89\]、依頼理由については雑誌『[FLASH](https://ja.wikipedia.org/wiki/FLASH_\(写真週刊誌\) "wikilink")』の記事\[90\]を出典とする。また、過去の事例とは違い、前年度以前のCMを流さなかった\[91\]。
+
+  - 子供たちが描いたもの（日本アイバンク協会支援CM）
+    依頼日：3月14日
+    依頼理由：CMに出演している子供の1人が地震の被災地である[岩手県](../Page/岩手県.md "wikilink")[大船渡市](https://ja.wikipedia.org/wiki/大船渡市 "wikilink")出身であり、地震発生当初その子供の安否確認ができなかったため。
+    この子供はのちに無事が確認されたとACジャパンの広報担当者は語っている。どの子供が該当するのか、という点は非公表とされているが、『日経エンタテインメント\!』の記事ではこの子供について「少年」という表現がされている（特定はしていない）。
+  - 知層（文字・活字文化推進機構支援CM）
+    依頼日：3月15日
+    依頼理由：「地層」をもじったCMのタイトルが、地震を引き起こす[活断層を連想させる可能性があるため](https://ja.wikipedia.org/wiki/断層#活断層 "wikilink")。
+  - 命のかげ（NHK共同キャンペーン）
+    依頼日：3月15日
+    依頼理由：CM中にある「命が消える」という表現が、震災で多数の死者・行方不明者が出ている状況には、ふさわしくないため。
+  - ありがとう あしながさん（あしなが育英会支援CM）
+    依頼日：3月15日
+    依頼理由：CM中に「親を亡くした」という表現があるため。
+    このCMはのちに当該表現を含むナレーションを差し替え、あしなが育英会の東日本大震災における活動についての部分を追加したうえで放送が再開された。
+  - ちょっとだけバイバイ（3R推進団体連絡会支援CM）
+    依頼日：3月15日
+    依頼理由：[瓦礫](https://ja.wikipedia.org/wiki/瓦礫 "wikilink")の山が残る場所で頑張っている被災者がいる中、ごみの分別を呼びかけている場合ではないため。
+    このCMの自粛については、行き過ぎたものであるという見方がある\[92\]。
+  - 国境を越えた医者（国境なき医師団支援CM）
+    依頼日：3月15日
+    依頼理由：CMのキャッチコピーが「国の境目が、生死の境目であってはならない」であり、地震で安否不明の人がいる状況で放送するにはふさわしくないため。被災者の窮状を連想させるため、との説明もある\[93\]。
+
+CMの一部が放送中止されたことにより、残ったCMの放送頻度はさらに高まり、視聴者の苦情にあった「同じCMばかり流れてしつこい」という状況が悪化することになった。これにより、CM自体だけでなくその出演者にも批判が向けられるという事態に至った。これについてACジャパンのクリエイティブディレクターである尾形敏朗は「普段なら良いと思うメッセージでも、あまりに何度も見せられて、押し付けに感じられてしまったようだ」と述べている\[94\]。
+
+当初は中止の対象になっていなかった「オシムの言葉」「大切なあなたへ」（それぞれ日本脳卒中協会、日本対がん協会支援CM）に関しても、放送頻度の増加により中止された\[95\]。この影響で国境なき医師団日本は東日本大震災という書き入れ時というときに広告展開を中止したということもあり、2010年度のみの展開だけでACジャパンによる支援を打ち切り、広告は国境なき医師団日本そのものの独自制作に移行した。最終的には放送できるCMが震災から3週間で「あいさつの魔法。」「見える気持ちに。」「あなたの手当て」「こだまでしょうか」の4本に絞られることになった\[96\]。
+
+### 各キャンペーンへの反響
+
+CMの大量放送により、1つ1つのキャンペーンも注目された。全国キャンペーン「[あいさつの魔法。](https://ja.wikipedia.org/wiki/あいさつの魔法。 "wikilink")」は、インターネット上を中心にブームになるなど話題になった。同じく全国キャンペーン「[見える気持ちに。](https://ja.wikipedia.org/wiki/見える気持ちに。 "wikilink")」、および地域キャンペーン「こだまでしょうか」（東京地域。ただし東京[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")制作の全国ネット番組内、および放送局の所在地が東京である民放各局のBS放送ではそのまま全国で放送された。）に関しては、それぞれで引用されている詩「行為の意味」（[宮澤章二](https://ja.wikipedia.org/wiki/宮澤章二 "wikilink")）、「こだまでせうか」（[金子みすゞ](https://ja.wikipedia.org/wiki/金子みすゞ "wikilink")\[97\]）が反響を呼び、それぞれを収録している詩集が[Amazon.co.jp](https://ja.wikipedia.org/wiki/Amazon.co.jp "wikilink")のベストセラーランキングで上位を獲得した\[98\]。また、[山口県](../Page/山口県.md "wikilink")[長門市](../Page/長門市.md "wikilink")にある金子みすゞ記念館においては、2011年3月20日から4月8日にかけての入場者数が前年同期と比べて20.6%増加しており、[読売新聞](https://ja.wikipedia.org/wiki/読売新聞 "wikilink")は「こだまでしょうか」による影響があると推測している\[99\]。
+
+### 震災臨時キャンペーン
+
+ACジャパンは地震発生後、被災者を応援する臨時CM「震災臨時キャンペーン」を企画した。CM情報誌『[CM NOW](https://ja.wikipedia.org/wiki/CM_NOW "wikilink")』によると、地震が発生した2011年3月11日にはACジャパンが2011年度に展開するキャンペーンの最終決定が行われており、地震によって交通機関が止まったことで、集まった役員たちは事務所に泊まって震災臨時CM制作の相談をしたといわれている\[100\]。3月14日に会員企業へ臨時CMの企画募集について連絡し、翌15日までに10社から提案があった\[101\]。最初に制作・放送されたのは「文字篇」である\[102\]。15日の夜に持ち寄られた臨時CM案の検討をし、すぐにできるものという条件で「文字篇」の制作を開始し\[103\]、3月18日に放送局へ送り\[104\]、3月19日から放送が始まった\[105\]。その後は3月23日から「サッカー篇」、24日から「日本の力を、信じてる篇」、26日から「今、わたしにできること・呼びかけ篇」、31日から「日本の力を、信じてる篇」の新作が放送開始された\[106\]。なお、これらのCMではサウンドロゴは使用していない。
+
+『CM NOW』はこのように、臨時CM制作の話が地震発生後すぐに出ていることを伝えている一方で、同じCMが繰り返し流されて逆効果を生み出したことへの「対策」として臨時CMが急遽制作されたとも書いている\[107\]。ほかにも同様の趣旨の報道がある。たとえば[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")では「視聴者の不満の声に早急に対応した形だ」と書かれており\[108\]、[サーチナ](https://ja.wikipedia.org/wiki/サーチナ "wikilink")の報道では「同社ではその対策（苦情の対策）にCM最後のロゴの音声を削除したり、今回の臨時CMを制作することを発表していた」と書かれている\[109\]。逆に[まんたんウェブ](https://ja.wikipedia.org/wiki/まんたんウェブ "wikilink")（＝[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")）の報道では、臨時CMが苦情への対応であるということをACジャパンが否定した上で「ACジャパンとして、いま、国民のみなさんに伝えるべきこととして制作した」と話していたことが述べられている\[110\]。ただし、展開を中止したCMに代わる素材に関する要望は視聴者の苦情とは別にメディア側から寄せられており、ACジャパンの2010年度事業報告では、臨時CMの全国展開について「支援キャンペーンの多くが中断したために、それに代わる素材をというメディアの要望に応えました」と記されている\[111\]。
+
+臨時CMの開始により放送できるCMの本数は増えたが、臨時CMに関しても否定的な見方が出るようになった。たとえば、ACジャパンの常務理事である高島邁によると、地震発生直後は物資が不足したため買い占めを控えるべき旨をCMで呼びかけたが、それが解消すると「復興のために経済活動を活発にすべき」と批判される、というような事例があったという\[112\]。また、広告においては出演しているタレントにプロモーションの意図があるという誤解を受ける可能性が避けられず\[113\]、実際にこの種の批判があった。そのため臨時CMの放送は短期間で終了した\[114\]。
+
+臨時CMは「文字篇」「サッカー篇」「日本の力を、信じてる篇」「今、わたしにできること・呼びかけ篇」の4タイトル以外にも制作された。大阪地域においては「こいのぼり篇」をテレビ・新聞で展開し、「選手宣誓篇」「ひとつひとつ篇」を新聞で展開したほか、環境映像をテレビで5タイプ展開した。東京地域および岩手・宮城・福島の東北3県においては「同じ空の下篇」を2011年5月末からテレビ・ラジオで展開した（前出の「こだまでしょうか」と同様、東京キー局制作全国ネット番組や民放各局のBS放送ではそのまま全国に流れた）。また、ACジャパンのサイトではのちに「今、わたしにできること・呼びかけ篇」および「日本の力を、信じてる篇」のCMタイトルがそれぞれ「タレント篇A・B」「タレント篇C・D」と変更されている\[115\]（前者はA・Bの2タイプとされているが、30秒版と15秒版で出演芸能人が異なる。次の「CM出演者」の節ではこの違いを考慮するため4タイプとして扱う）。
+
+#### 臨時キャンペーンの出演者
+
+「文字篇」「日本の力を、信じてる篇」「今、わたしにできること・呼びかけ篇」は同タイトルで異なるタイプのCMが存在する。それらの区別について、「文字篇」はサイト「[曲名探偵団](http://kyokutan.jp/searchCompany.php?searchWithCompanyId=ON&companyId=2727&companyName=AC%20JAPAN\(AC%83W%83%83%83p%83%93\)&kyokutan=%B6%CA%CC%BE%C3%B5%C4%E5%C3%C4)」および『CM NOW』\[116\]に従う（『CM NOW』では「文字篇B」の内容が紹介されている）。「日本の力を、信じてる篇」は2バージョンのうち後から放送開始されたものを（新作）とする。「今、わたしにできること・呼びかけ篇」は「曲名探偵団」に従う。
+
+  - [野間口徹](https://ja.wikipedia.org/wiki/野間口徹 "wikilink")（俳優）
+      -
+        「文字篇A」でナレーションを担当。
+  - [土岐麻子](https://ja.wikipedia.org/wiki/土岐麻子 "wikilink")（歌手）
+      -
+        「文字篇B」でナレーションを担当。
+  - [岡崎慎司](https://ja.wikipedia.org/wiki/岡崎慎司 "wikilink")（[SDウエスカ](https://ja.wikipedia.org/wiki/SDウエスカ "wikilink")所属サッカー選手、当時は[VfBシュトゥットガルト](https://ja.wikipedia.org/wiki/VfBシュトゥットガルト "wikilink")所属）
+  - [長友佑都](https://ja.wikipedia.org/wiki/長友佑都 "wikilink")（[ガラタサライSK所属サッカー選手](https://ja.wikipedia.org/wiki/ガラタサライSK_\(サッカー\) "wikilink")、当時は[インテル・ミラノ所属](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")）
+  - [内田篤人](https://ja.wikipedia.org/wiki/内田篤人 "wikilink")（[鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")所属サッカー選手、当時は[シャルケ04](https://ja.wikipedia.org/wiki/シャルケ04 "wikilink")所属）
+      -
+        「サッカー篇」に出演。3名の声は[国際電話](../Page/国際電話.md "wikilink")を通して、または車の中で録音されている\[117\]。
+  - [ジョン・カビラ](../Page/ジョン・カビラ.md "wikilink")（ナレーター・タレント）
+      -
+        「サッカー篇」でナレーションを担当。
+  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")（[中居正広](../Page/中居正広.md "wikilink")、[木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")、[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")、[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")）（タレント・歌手）
+  - [トータス松本](https://ja.wikipedia.org/wiki/トータス松本 "wikilink")（歌手・[ウルフルズ](https://ja.wikipedia.org/wiki/ウルフルズ "wikilink")メンバー）
+      -
+        「日本の力を、信じてる篇」に出演。
+  - [HIRO](https://ja.wikipedia.org/wiki/五十嵐広行 "wikilink")（パフォーマー、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")メンバー）
+  - [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")（ヒップホップMC、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")メンバー）
+      -
+        「日本の力を、信じてる篇」（新作）に出演。
+  - [西田敏行](../Page/西田敏行.md "wikilink")（俳優）
+  - [三浦知良](../Page/三浦知良.md "wikilink")（[横浜FC](../Page/横浜FC.md "wikilink")所属サッカー選手）
+  - [高橋みなみ](https://ja.wikipedia.org/wiki/高橋みなみ "wikilink")・[前田敦子](https://ja.wikipedia.org/wiki/前田敦子 "wikilink")・[大島優子](https://ja.wikipedia.org/wiki/大島優子 "wikilink")（タレント・歌手、当時は全員が[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")メンバー）
+  - [アントニオ猪木](../Page/アントニオ猪木.md "wikilink")（元プロレスラー）
+  - [松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")（女優）
+      -
+        「今、わたしにできること・呼びかけ篇A」に出演。
+  - [ベッキー](https://ja.wikipedia.org/wiki/ベッキー "wikilink")（タレント・歌手）
+  - [三谷幸喜](../Page/三谷幸喜.md "wikilink")（脚本家）
+  - [片岡仁左衛門](https://ja.wikipedia.org/wiki/片岡仁左衛門_\(15代目\) "wikilink")（歌舞伎役者）
+  - [大竹しのぶ](https://ja.wikipedia.org/wiki/大竹しのぶ "wikilink")（女優・タレント）
+  - [嵐](https://ja.wikipedia.org/wiki/嵐_\(グループ\) "wikilink")（[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")、[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")、[相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")、[二宮和也](https://ja.wikipedia.org/wiki/二宮和也 "wikilink")、[松本潤](../Page/松本潤.md "wikilink")）（タレント・歌手）
+      -
+        「今、わたしにできること・呼びかけ篇B」に出演。
+  - [中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")（タレント・歌手）
+  - [野口健](https://ja.wikipedia.org/wiki/野口健 "wikilink")（アルピニスト）
+  - [テリー伊藤](https://ja.wikipedia.org/wiki/テリー伊藤 "wikilink")（タレント・コメンテーター）
+      -
+        「今、わたしにできること・呼びかけ篇C」に出演。
+  - [江口洋介](https://ja.wikipedia.org/wiki/江口洋介 "wikilink")（俳優）
+  - [内田恭子](https://ja.wikipedia.org/wiki/内田恭子 "wikilink")（フリーアナウンサー）
+  - [為末大](https://ja.wikipedia.org/wiki/為末大 "wikilink")（陸上選手）
+      -
+        「今、わたしにできること・呼びかけ篇D」に出演。
+  - [浅沼晋太郎](https://ja.wikipedia.org/wiki/浅沼晋太郎 "wikilink")（俳優・声優）
+      -
+        「同じ空の下篇」（東京地域・東北3県のみ）でナレーションを担当。
+  - [吹石一恵](https://ja.wikipedia.org/wiki/吹石一恵 "wikilink")（女優）
+      -
+        「こいのぼり篇」（大阪地域のみ）でナレーションを担当。
+
+## 広告学生賞
+
+### TVCM部門
+
+  - 第15回 - 「ハートをください」[日本大学芸術学部](https://ja.wikipedia.org/wiki/日本大学芸術学部・大学院芸術学研究科 "wikilink")
+      - 準グランプリBS民放賞 - 「ウミガメ家の食卓」[東京工芸大学](https://ja.wikipedia.org/wiki/東京工芸大学 "wikilink")
+  - 第14回 - 「きれいな言葉、きれいな心」[武蔵野美術大学](../Page/武蔵野美術大学.md "wikilink")
+      - 準グランプリ - 「就活の地域格差」[梅花女子大学](https://ja.wikipedia.org/wiki/梅花女子大学 "wikilink")
+  - 第13回 - 「3809円」[大阪芸術大学](../Page/大阪芸術大学.md "wikilink")
+      - 準グランプリ - 「チキンの一生」[京都精華大学](../Page/京都精華大学.md "wikilink")
+
+### 新聞広告部門
+
+  - 第3回 - 「[もう二度と、消えません。](https://www.ad-c.or.jp/campaign/cm/pdf/np-grandprix.pdf)」日本大学芸術学部
+      - 準グランプリ - 「[見落とした?見過ごした?](https://www.ad-c.or.jp/campaign/cm/pdf/np-semi-grandprix.pdf)」[東北芸術工科大学](https://ja.wikipedia.org/wiki/東北芸術工科大学 "wikilink")
+  - 第2回 - 「命も、権利も捨てないで。」東北芸術工科大学
+      - 準グランプリ - 「ぼくらの学校」[静岡デザイン専門学校](https://ja.wikipedia.org/wiki/静岡デザイン専門学校 "wikilink")
+  - 第1回 - 「野良猫クレーン」[京都造形芸術大学](https://ja.wikipedia.org/wiki/京都造形芸術大学 "wikilink")
+      - 準グランプリ - 「変わらないこと」京都造形芸術大学
+
+### CM学生賞（2005年度～2016年度）
+
+  - 第12回 - 「プラスチックについて」[東京藝術大学](https://ja.wikipedia.org/wiki/東京藝術大学 "wikilink")
+      - 準グランプリBS民放賞 - 「左ききの人と」[同志社女子大学](../Page/同志社女子大学.md "wikilink")
+  - 第11回 - 「音漏れテスト」武蔵野美術大学
+      - 準グランプリ - 「人にやさしく」武蔵野美術大学
+  - 第10回 - 「誰かの一食」日本大学芸術学部
+      - 準グランプリ - 「1の大切さ 」日本大学芸術学部
+  - 第9回 - 「ながらスマホ二宮金次郎」東京工芸大学
+      - 準グランプリ - 「子どものこころをダブルクリック」[文星芸術大学](https://ja.wikipedia.org/wiki/文星芸術大学 "wikilink")
+  - 第8回 - 「誰でも縦並びマナー」武蔵野美術大学
+      - 準グランプリ - 「しつけと虐待はちがう」京都精華大学
+  - 第7回 - 「渡る世間はみな先パイ」[目白大学](https://ja.wikipedia.org/wiki/目白大学 "wikilink")
+      - 準グランプリ - 「音漏れ」日本大学芸術学部
+  - 第6回 - 「つられ迷惑」東京藝術大学
+  - 第5回 - 「ひとつあいさつくださいな」東京工芸大学
+      - 準グランプリ - 「かばんの指定席」[長岡造形大学](https://ja.wikipedia.org/wiki/長岡造形大学 "wikilink")
+  - 第4回 - 「TRAIN SOS」武蔵野美術大学
+      - 準グランプリ - 「笑顔はどんどん連鎖して」東京藝術大学
+  - 第3回 - 「ありがとうは無限大」[武庫川女子大学](https://ja.wikipedia.org/wiki/武庫川女子大学 "wikilink")
+  - 第2回 - 「食べきれない」武蔵野美術大学
+  - 第1回 - 「2004.10.23 その時僕らは（おにぎり篇）」長岡造形大学
+
+## 脚注
+
+## 参考文献
+
+  - 植条則夫『公共広告の研究』（日経広告研究所、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[6月](../Page/6月.md "wikilink")） ISBN 4-532-64061-X
+  - 公共広告機構20周年事業実行委員会 20年史編集部会編『公共広告機構20年史』（公共広告機構、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")（平成4年）[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")）
+
+## 関連項目
+
+  - [電通](https://ja.wikipedia.org/wiki/電通 "wikilink") - 当団体の情報を公表している企業。
+  - [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[西区](../Page/西区_\(大阪市\).md "wikilink") - 発祥の地。
+  - [ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink") - [2009年](../Page/2009年.md "wikilink")（平成21年）[4月28日](../Page/4月28日.md "wikilink")、サイト内に「ACチャンネル」という公式チャンネルを設置。テレビCMをアップロードしている。
+  - [もったいないお化け](https://ja.wikipedia.org/wiki/もったいないお化け "wikilink") - [1982年](../Page/1982年.md "wikilink")（昭和57年）度教育キャンペーンの作品
+  - [あいさつの魔法。](https://ja.wikipedia.org/wiki/あいさつの魔法。 "wikilink") - 2010年度全国キャンペーンの作品。同作品に流れるフレーズ「ポポポポ〜ン」が2011年度[ネット流行語大賞](https://ja.wikipedia.org/wiki/ネット流行語大賞 "wikilink")金賞（1位）を受賞した。
+  - [神戸新聞](https://ja.wikipedia.org/wiki/神戸新聞 "wikilink") - 関西公共広告機構として設立された当初から[1980年代](../Page/1980年代.md "wikilink")頃まで「ボランティアの窓」と題した広報広告を掲載していた。
+  - [環境映像](https://ja.wikipedia.org/wiki/環境映像 "wikilink")
+  - その他の公共広告
+      - [日本広告審査機構](../Page/日本広告審査機構.md "wikilink")（JARO）
+      - [放送番組センター](https://ja.wikipedia.org/wiki/放送番組センター "wikilink") - 2015年現在は放映終了。
+      - [政府広報](https://ja.wikipedia.org/wiki/政府広報 "wikilink")
+      - [日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink")（民放連）
+      - [放送倫理・番組向上機構](https://ja.wikipedia.org/wiki/放送倫理・番組向上機構 "wikilink")（BPO）
+      - [日本財団](https://ja.wikipedia.org/wiki/日本財団 "wikilink")（旧：日本船舶振興会）
+      - [日本広告業協会](https://ja.wikipedia.org/wiki/日本広告業協会 "wikilink")（JAAA）
+      - クリーンジャパン
+      - 各[地方自治体](https://ja.wikipedia.org/wiki/地方自治体 "wikilink") - ローカル放送が中心
+
+## 外部リンク
+
+  - [公益社団法人ACジャパン](http://www.ad-c.or.jp/)
+      - [広告キャンペーン](http://www.ad-c.or.jp/campaign/)
+
+[Category:ACジャパン](https://ja.wikipedia.org/wiki/Category:ACジャパン "wikilink") [Category:公益社団法人_(内閣総理大臣認定)](https://ja.wikipedia.org/wiki/Category:公益社団法人_\(内閣総理大臣認定\) "wikilink") [Category:東京都中央区の公益法人](https://ja.wikipedia.org/wiki/Category:東京都中央区の公益法人 "wikilink") [Category:1971年設立の組織](https://ja.wikipedia.org/wiki/Category:1971年設立の組織 "wikilink") [Category:広告](https://ja.wikipedia.org/wiki/Category:広告 "wikilink") [Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink") [Category:啓発活動](https://ja.wikipedia.org/wiki/Category:啓発活動 "wikilink") [Category:銀座](https://ja.wikipedia.org/wiki/Category:銀座 "wikilink") [Category:西区_(大阪市)](https://ja.wikipedia.org/wiki/Category:西区_\(大阪市\) "wikilink")
+
+1.  商標登録番号・第5311114号（法人名）、第5325925号（[ロゴマーク](https://ja.wikipedia.org/wiki/ロゴマーク "wikilink")）
+2.  民放テレビ・ラジオ局や衛星放送の事業者のみならず、ケーブルテレビ局や、公共放送の[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、インターネットテレビの[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")も会員になっている。
+3.
+4.
+5.  植条則夫「公共広告機構20年の変遷とその成果」（『公共広告機構20年史』pp.8-13）
+6.  『公共広告機構20年史』p.20
+7.  記念座談会「公共広告機構創立の精神と今後の役割」（『公共広告機構20年史』pp.14-19）
+8.
+9.  『公共広告機構20年史』p.21
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17. 「こだまでせうか」の「**せう**か」は[歴史的仮名遣](../Page/歴史的仮名遣.md "wikilink")で、[現代仮名遣い](../Page/現代仮名遣い.md "wikilink")にすると「**しょう**か」になる
+18. ACジャパンでの「[年度](https://ja.wikipedia.org/wiki/年度 "wikilink")」は、7月開始で6月終了。
+19. 2001年度は「公共広告機構」の下に「設立30周年」も表示された。
+20. 2013年度から2014年度の全国キャンペーンと地域キャンペーンは文言なしでロゴマークのみの表記だった。また、2018年度にも一部ロゴマークのみのCMがある。
+21. [ACマスコットめばえちゃん](http://www.ad-c.or.jp/about_ac/mebae.html)(ACジャパン、2014.7閲覧)
+22. [5/10（土） : 福島「狂人」日記](http://fuku2319.exblog.jp/7096386/)(2008.5.10 福島「狂人」日記)
+23. 但し、字幕説明は、以前から公開されている。
+24.
+25. [関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")および[新潟県](../Page/新潟県.md "wikilink")、[山梨県](../Page/山梨県.md "wikilink")、[長野県](../Page/長野県.md "wikilink")、[静岡県](../Page/静岡県.md "wikilink")の1都10県。
+26. [東海3県と](../Page/東海地方.md "wikilink")[北陸3県](../Page/北陸地方.md "wikilink")。
+27. [近畿2府4県](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")。
+28. 広告テーマをより地域に根付かせるため、2017年 - 2018年度のキャンペーンから、基本的に2年間継続して展開される。[2018（平成30）年度事業計画](https://www.ad-c.or.jp/outline/pdf/2018/plan_18.pdf)
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40. 『公共広告機構20年史』p.75
+41. 『公共広告機構20年史』pp.68-69
+42. 当初、「公共広告機構」の部分は白色の背景に黒色のロゴマークだったが、「明日のために、いま始めよう。」のスローガンが使用されてからは、「AC」の部分と同様、白色の背景に青色のロゴマークになったバージョンもあった（後述のように例外あり）。
+43.
+44. 2006年度の「生命を咲かせるカード」などで使われた黒色の背景に表示される白色のロゴマーク、2010年度の東日本大震災発生後に制作された「サッカー篇」の黒色ロゴマーク（背景は他と同様で白色）、同じく「文字篇」の茶色ロゴマークなど。1989年度の「樹のお医者さん」、2003年度の「抱きしめる、という会話。」（白色、15秒・30秒篇のみ、60秒篇は黒色背景に白色ロゴマーク）、2004年度の「宣誓、2005年ポリオ撲滅」、2012年度の「希望の種」（沖縄地域キャンペーン、青色）、2018年度の環境映像（青色か白色）などでは映像中にロゴマークが挿入される。また1992年度の「マナーは守ってくだサイな」、1997年度の「吸い殻のポイ捨て『少年の眼』」（街は、ゴミ箱じゃない）などは映像中に白い背景と青いロゴが挿入される。
+45. なお、ACジャパンへの改称後は、臨時キャンペーンと環境映像など一部を除き、必ず青色のロゴマークが白色の背景に表示されている。
+46. 1995年度の「流しや川にも捨てないで」と2008年度の九州限定の「川﨑選手、キーパーになる」（30秒のみ）のテレビCMのようにサウンドロゴ後も映像が続く例や、2006年度の「人のココロにタネをまく。」のラジオCMのように冒頭と最後でサウンドロゴを2度流したものも存在する。1999年度の「ジコ虫、増えてます\!」のテレビCMではロゴの一部が虫によってかじられるという特殊な演出がなされていた。
+47.
+48.
+49.
+50.
+51.
+52. 2015年度からは、支援キャンペーンでもテレビCMの15秒版に限りサウンドロゴが使用される様になった為、テレビCMの15秒版は全てのCMにサウンドロゴが使用されている。
+53. [「乃木坂46の遠藤さくらさん出演「2019生きもの命」 （ACジャパン・NHK共同キャンペーン）」](https://ameblo.jp/momokohime7/entry-12490027783.html)
+54. 元々は「どうせひろった恋だもの」の替え歌で、オリジナルでは[初代コロムビア・ローズが歌っていた](https://ja.wikipedia.org/wiki/コロムビア・ローズ#初代コロムビア・ローズ "wikilink")。
+55. 辰吉の「吉」の正確な表記は「[14x14ピクセル](https://ja.wikipedia.org/wiki/ファイル:Tsuchiyoshi.svg "wikilink")」（「土」の下に「口」、つちよし）である。[Unicode](../Page/Unicode.md "wikilink")ではU+20BB7「」。
+56. 丈一郎の「丈」の正確な表記は「丈」の右上に点がある「𠀋」である。UnicodeではU+2000B,[JIS X 0213では](../Page/JIS_X_0213.md "wikilink")1面14区1点〈第3水準〉。
+57. [1](https://web.archive.org/web/20050909093101/http://www.ad-c.or.jp:80/)
+58.
+    CMタイトルはACジャパン公式サイトの記載と異なり、本項目では公式サイトのタイトルを優先する。
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+76.
+77.
+78.
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+87. なお、サウンドロゴ部分のみを無音とするのではなく、CMの最後で音をフェードアウトさせるという対処がとられた（当初よりサウンドロゴがないCMはそのまま）。このため、一部のCMではサウンドロゴ直前のBGMが小さくなったり、わずかにサウンドロゴが聞こえる例もあった。
+88.
+89.
+90.
+91. 2009年7月に社名変更したことから、2008年度以前のCMは流せないため、流せるCMが2009年度のものに限られてしまったことが理由と思われる。
+92.
+93.
+94.
+95.
+96.
+97. のちの2011年度では同作者の詩「蜂と神さま」（中四国地域キャンペーン）が流されている。
+98.
+99.
+100.
+101.
+102.
+103.
+104.
+105.
+106.
+107.
+108.
+109.
+110.
+111.
+112.
+113.
+114.
+115.
+116.
+117.

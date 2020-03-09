@@ -1,0 +1,132 @@
+> この記事は[TIM \(\)](https://ja.wikipedia.org/wiki/TIM_\(\))から翻訳されています。
+
+
+**TIM**（ティーアイエム）は、レッド吉田とゴルゴ松本からなる[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")所属。コンビ名の由来は「タイム・イズ・マネー」から。
+
+## メンバー
+
+  - **レッド 吉田**（レッド よしだ、**吉田 永憲**（よしだ ながのり）、[1965年](../Page/1965年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink") - ） [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身。[東山高等学校](https://ja.wikipedia.org/wiki/東山中学校・高等学校 "wikilink")、[佛教大学](https://ja.wikipedia.org/wiki/佛教大学 "wikilink")[文学部](../Page/文学部.md "wikilink")卒。既婚で子供もいる。
+      - 主にツッコミ。照れ屋で赤面症だったことに由来する芸名通り当初は目立たないキャラだったが、『[内村プロデュース](https://ja.wikipedia.org/wiki/内村プロデュース "wikilink")』で、五文字の言葉やニセ[英語](../Page/英語.md "wikilink")を擁する「レッド語」を駆使した「レッドワールド」を確立。
+      - 主なレッド語：「ありがトントン・ワシントン （カンカン・アメリカン）」「ウェスポン」「チェベックス」「パンパン、ココJAPAN（ポンポン、ココ日本）」「父ちゃん、母ちゃん、ロドリゲス\!\!」「[サナダムシ](https://ja.wikipedia.org/wiki/サナダムシ "wikilink")」「ファーイナルジャケッツ\!」「オオサキのカットメン\!」「このあたりがロッカッケー\!\!」「ジ・コンパクト\!」「ギリギリのファイブミニッツ\!」など。
+      - 競馬情報番組への出演が多いが実は昔から無類のギャンブル好きで、引越し直後に年下のゴルゴ松本に金を借りに行ったり、ロケ後の打ち上げに来ないと思ったら[大井競馬場](../Page/大井競馬場.md "wikilink")に1レースだけ馬券を買いに行っていた（ラジオでの[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")の話）などの一面を持つ。
+  - **ゴルゴ 松本**（ゴルゴ まつもと、本名：**松本 政彦**（まつもと まさひこ）、[1967年](../Page/1967年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink") - ） [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")出身。[埼玉県立熊谷商業高等学校](https://ja.wikipedia.org/wiki/埼玉県立熊谷商業高等学校 "wikilink")卒。既婚。
+      - 主にボケ。ブレイク当時の人文字芸（後述）に加え、猫の物真似「にゃぁー\!\!」、ヒーローものの変身のポーズから変形する「[へんー差値](../Page/偏差値.md "wikilink")7\!\!」「へんー桃腺腫れちゃった\!\!」など、一発芸に長ける。
+      - 以前は[葉巻](https://ja.wikipedia.org/wiki/葉巻 "wikilink")がトレードマークだったが、実は煙草が大の苦手。飲み会等ではヘビースモーカーに「吸い過ぎはよくないよ\!\!」と説教する程だという。几帳面で、独身時代に住んでいた自宅は一人暮らしながら整理整頓が行き届いていた。「（親戚の）おじさん」キャラに染まりつつある。
+      - チョビヒゲをトレードマークにしている。
+      - 葉巻をくわえるキャラはボキャブラの初回収録時に[ヒロミ](../Page/ヒロミ.md "wikilink")から「スーツやタキシード着て葉巻でも加えてやった方がいいぞ」と言われて実行し、チョビヒゲは[ネプチューンの](../Page/ネプチューン_\(お笑いトリオ\).md "wikilink")[堀内健](../Page/堀内健.md "wikilink")に勧められて行った。
+
+## 略歴
+
+  - レッドは3年夏の[甲子園](https://ja.wikipedia.org/wiki/第65回全国高等学校野球選手権大会 "wikilink")、ゴルゴは3年春の[選抜にてベンチ入りした経験を持つ](https://ja.wikipedia.org/wiki/第57回選抜高等学校野球大会 "wikilink")。それぞれ役者を目指して上京後、たまたまアパートで隣同士になったのをきっかけに意気投合し、[1994年](../Page/1994年.md "wikilink")にコンビ結成。
+      - 後から引っ越してきたレッドがゴルゴの部屋に挨拶に行ったのが初対面。その際、レッドがノックすると中から「空いてるよ\!」という声がし、中に入ってみると上半身裸のゴルゴが鉄アレイでトレーニングしていた。
+      - すぐに意気投合した2人は、連れだって行動することが多く、ベッドも同じものを購入した。
+  - ネタはコントと一発ギャグが中心でそれぞれ持ちネタを持っている。舞台でコントを披露する際は、コントに互いの一発ギャグをネタに用いるなどしている。なお、コントと一発ギャグで人気が出たため、漫才は基本的に行っていない。
+  - TIMは「**T**ime **I**s **M**oney（時は金なり）」を略して名付けた\[1\]。芸人としてのデビューは遅いため、「時間を大切にしたい」という思いが込められているらしい。
+  - 先輩にあたる、ネプチューンや[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")や[雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink")などにはタメ口で接している。本来は、許されることではないが、彼らと[おぎやはぎ](../Page/おぎやはぎ.md "wikilink")は特別であると[土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")は言っている。しかし、[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")には共に同い年であるのに何故か敬語で接している。ちなみに当初のコンビ名の表記は「**T・I・M**」だったが後に現在の表記になる。自己紹介の「俺たちTIM\!\!」を始め、「[命](https://ja.wikipedia.org/wiki/命 "wikilink")」「火（メラメラ…）→炎」「ﾈ（しめすへん）+兄→祝」「[シャネル](https://ja.wikipedia.org/wiki/シャネル "wikilink")」等、人文字[ネタ](https://ja.wikipedia.org/wiki/ネタ "wikilink")でブレイク。以後、コンスタントに活動している。
+  - [ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")・さまぁ〜ず・[よゐこ](https://ja.wikipedia.org/wiki/よゐこ "wikilink")・[出川哲朗](../Page/出川哲朗.md "wikilink")・キャイ〜ン・ネプチューンらと共にウンナンファミリーと呼ばれている。ウンナンファミリーとは共演が比較的多く、特にさまぁ〜ずの2人と仲が良い。
+  - 一方で、[ダウンタウンや](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")、[ビートたけし](../Page/ビートたけし.md "wikilink")との共演がほとんどない。
+  - 非常にファン層が広く、トークライブ等、TIM関連のイベントには子供から高齢者まで参加している。
+  - 競馬を共通の趣味としており、競馬番組出演だけでなく、（中央競馬の開催のある）土日は家族が留守にしている方の家で競馬観戦するのが常になっていた。フリーク度も高く、レッドはもとより（前述）、ゴルゴも『[内村プロデュース](https://ja.wikipedia.org/wiki/内村プロデュース "wikilink")』DVDの特典映像内での持ち物チェックの時に鞄の中から馬券購入用マークシートが大量に出てきたほどである。他にも[グリーンチャンネル](https://ja.wikipedia.org/wiki/グリーンチャンネル "wikilink")の番組に出演したりしていたが、[2011年](../Page/2011年.md "wikilink")1月よりついに『[BSイレブン競馬中継](https://ja.wikipedia.org/wiki/BSイレブン競馬中継 "wikilink")』の司会に起用されることになった。
+
+## 出演
+
+TIMとしての出演を記載。個人での出演は[レッド吉田](https://ja.wikipedia.org/wiki/レッド吉田#出演 "wikilink")、[ゴルゴ松本を参照](https://ja.wikipedia.org/wiki/ゴルゴ松本#出演 "wikilink")。
+
+### テレビ番組
+
+#### 現在の出演番組
+
+  - うまのこTIM2018（グリーンチャンネル、2018年10月1日 - ）
+
+#### 過去の出演番組
+
+  - レギュラー番組
+
+<!-- end list -->
+
+  - [UN FACTORY カボスケ](https://ja.wikipedia.org/wiki/UN_FACTORY_カボスケ "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、1995年4月 - 9月）
+  - [芸能界大ボケだらけの天才クイズ王決定戦](https://ja.wikipedia.org/wiki/芸能界大ボケだらけの天才クイズ王決定戦 "wikilink")（フジテレビ、1996年1月） - エキシビジョン若手戦
+  - [加トちゃんの全国タダになる店\!お笑い激食ツアー\!\!](https://ja.wikipedia.org/wiki/加トちゃんの全国タダになる店!お笑い激食ツアー!! "wikilink")（日本テレビ、1996年10月）
+  - [突撃\!お笑い風林火山](https://ja.wikipedia.org/wiki/突撃!お笑い風林火山 "wikilink")（フジテレビ、1997年5月 - 9月）
+  - [ボキャブラ天国](https://ja.wikipedia.org/wiki/ボキャブラ天国 "wikilink")（フジテレビ、1997年11月18日 - 1998年9月18日） - キャッチコピーは「爆裂ボディ･ソニック」
+  - [空飛ぶ\!ネプTビビ](https://ja.wikipedia.org/wiki/空飛ぶ!ネプTビビ "wikilink")（フジテレビ、1998年10月13日 - 1999年3月30日）
+  - [ヒメゴト](https://ja.wikipedia.org/wiki/ヒメゴト_\(テレビ番組\) "wikilink")（テレビ朝日、1999年10月 - 2001年3月）
+  - [力の限りゴーゴゴー\!\!](https://ja.wikipedia.org/wiki/力の限りゴーゴゴー!! "wikilink")（フジテレビ、2000年4月12日 - 2002年9月11日）
+  - [S-FIELD THEサバイバル](https://ja.wikipedia.org/wiki/S-FIELD "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")、2000年5月 - 9月） - **MC**
+  - [内村プロデュース](https://ja.wikipedia.org/wiki/内村プロデュース "wikilink")（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")、2001年1月27日 - 2005年9月26日） - 準レギュラー
+  - [ちゃんネプ](https://ja.wikipedia.org/wiki/ちゃんネプ "wikilink")（テレビ朝日、2001年4月2日 - 2002年3月25日）
+  - [Mr.マリック☆魔法の時間](https://ja.wikipedia.org/wiki/Mr.マリック☆魔法の時間 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2001年10月4日 - 2002年6月27日）
+  - [王様のお夜食](https://ja.wikipedia.org/wiki/王様のお夜食 "wikilink")（[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")、2001年10月12日 - 2004年10月1日） - **MC**（月1回放送）
+  - [東京I指令](https://ja.wikipedia.org/wiki/東京I指令 "wikilink")（テレビ朝日、2002年10月7日 - 2003年3月17日） - **MC**
+  - [エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、2003年4月 - 2004年5月） - 「パロディスト」名義
+  - [天才てれびくんMAX](https://ja.wikipedia.org/wiki/天才てれびくんMAX "wikilink")（[NHK教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")、2003年4月 - 2007年3月） - **6代目MC**
+  - [遊ワク☆遊ビバ\!](https://ja.wikipedia.org/wiki/遊ワク☆遊ビバ! "wikilink")（日本テレビ、2003年4月6日 - 2004年3月28日）
+  - [TIM神様の宿題](https://ja.wikipedia.org/wiki/TIM神様の宿題 "wikilink")（[中国放送](../Page/中国放送.md "wikilink")、2003年7月10日 - 2009年3月19日） - **MC**
+  - [あしたのG](https://ja.wikipedia.org/wiki/あしたのG "wikilink")（フジテレビ、2003年9月 - 2004年12月）
+  - [F2-X](../Page/F2-X.md "wikilink") → [F2スマイル](https://ja.wikipedia.org/wiki/F2スマイル "wikilink")（フジテレビ、2004年4月1日 - 2005年9月30日）
+  - [ポケモン☆サンデー](https://ja.wikipedia.org/wiki/ポケモン☆サンデー "wikilink") → [ポケモンスマッシュ\!](https://ja.wikipedia.org/wiki/ポケモンスマッシュ! "wikilink")（テレビ東京、2004年10月3日 - 2013年9月29日） - **MC**
+  - 音ぱつ（テレビ東京、2005年10月 - 12月） - **MC**
+  - [Odds On TV\! ダートチャンネル](https://ja.wikipedia.org/wiki/Odds_On_TV! "wikilink")「馬の子TIM」（[グリーンチャンネル](https://ja.wikipedia.org/wiki/グリーンチャンネル "wikilink")、2006年7月 - 全13回 第2シリーズ 2007年4月2日 - 2007年6月25日 第3シリーズ 2008年1月 - 2008年3月 第4シリーズ 2009年7月 - 2009年9月）
+  - メルヘンプロダクション（[三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")・[奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")、2008年4月 - 2009年1月） - **MC**
+  - [新感覚ゲーム クエスタ](https://ja.wikipedia.org/wiki/新感覚ゲーム_クエスタ "wikilink")（[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")、2010年4月1日 - 2011年4月14日）
+  - [BSイレブン競馬中継](https://ja.wikipedia.org/wiki/BSイレブン競馬中継 "wikilink")（[BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")、2011年1月 - 2016年12月25日）
+  - [うまナビ\!イレブン](https://ja.wikipedia.org/wiki/うまナビ!イレブン "wikilink")（BS11、2011年1月 - 2016年12月25日）
+  - [うまのこTIM](https://ja.wikipedia.org/wiki/うまのこTIM "wikilink")（グリーンチャンネル、2017年4月 - 2017年6月）
+
+<!-- end list -->
+
+  - スペシャル番組
+
+<!-- end list -->
+
+  - [ザ・メモリーハンター\!](https://ja.wikipedia.org/wiki/ザ・メモリーハンター! "wikilink")（TBSテレビ、2004年・2005年） - **MC**
+  - [夢対決\!とんねるずのスポーツ王は俺だ\!スペシャル](https://ja.wikipedia.org/wiki/夢対決!とんねるずのスポーツ王は俺だ!スペシャル "wikilink")（テレビ朝日、2004年1月 - 2013年1月） - 「[リアル野球BAN](https://ja.wikipedia.org/wiki/夢対決!とんねるずのスポーツ王は俺だ!スペシャル#リアル野球BAN "wikilink")」レギュラー\[2\]
+  - 『全日本我が家のお風呂大賞』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")2019年3月27日）リポーター
+
+### ラジオ
+
+  - [炎のTIM学院〜ゴルゴ先生 レッド先生](https://ja.wikipedia.org/wiki/炎のTIM学院〜ゴルゴ先生_レッド先生 "wikilink")（[ABCラジオ](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")）
+
+### 映画
+
+  - [ピーナッツ](https://ja.wikipedia.org/wiki/ピーナッツ_\(映画\) "wikilink")（2006年）
+  - [トリック劇場版 ラストステージ](https://ja.wikipedia.org/wiki/トリック劇場版_ラストステージ "wikilink")（2014年）
+
+### インターネット配信
+
+  - [TIMのゲーム命\!\!](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_最強家族カスカベキング_うぃ〜#TIMのゲーム命!! "wikilink")（インターネット番組、2006年12月 - 配信終了）
+
+### オリジナルビデオ
+
+  - [天外魔境 電々の伝 電脳電撃カブキ伝](https://ja.wikipedia.org/wiki/天外魔境_風雲カブキ伝#ビデオ "wikilink")（[ハドソン](../Page/ハドソン.md "wikilink")） - ゲームの販促用。TIM結成前の2人が役者として出演
+
+### テレビアニメ
+
+  - [こちら葛飾区亀有公園前派出所](https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所_\(アニメ\) "wikilink")（フジテレビ） - 本人役
+
+### 劇場アニメ
+
+  - [クレヨンしんちゃん 嵐を呼ぶ\!夕陽のカスカベボーイズ](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_嵐を呼ぶ!夕陽のカスカベボーイズ "wikilink")（2004年） - [NO PLANメンバーとして出演](../Page/NO_PLAN.md "wikilink")
+  - [劇場版ポケットモンスター ダイヤモンド&パール ギラティナと氷空の花束 シェイミ](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_ダイヤモンド&パール_ギラティナと氷空の花束_シェイミ "wikilink")（2008年）
+
+### パチンコ・パチスロ
+
+  - CRあっ命（[平和](https://ja.wikipedia.org/wiki/平和_\(パチンコ\) "wikilink")、2004年）
+  - TIMという名のパチスロ機（平和、2007年）
+
+## 脚注
+
+<div class="references-small">
+
+<references />
+
+</div>
+
+## 外部リンク
+
+  - [ワタナベエンターテインメント 公式プロフィール](https://www.watanabepro.co.jp/mypage/3000003/)
+
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:渡辺プロ系列所属者](https://ja.wikipedia.org/wiki/Category:渡辺プロ系列所属者 "wikilink") [Category:日本の競馬に関する人物](https://ja.wikipedia.org/wiki/Category:日本の競馬に関する人物 "wikilink")
+
+1.  『[黄金ボキャブラ天国](https://ja.wikipedia.org/wiki/ボキャブラ天国 "wikilink")』1997年12月2日放送分。チャレンジャー紹介のナレーションより
+2.  2013年6月以降は、ゴルゴのみ単独出演。2013年夏（2013年6月30日放送）で、レッドが2013年正月の成績不振のため[戦力外通告](https://ja.wikipedia.org/wiki/戦力外通告 "wikilink")。以降はゴルゴのみ出演で、レッドは一度も出演していない。

@@ -1,0 +1,550 @@
+> この記事は[PHS](https://ja.wikipedia.org/wiki/PHS)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:IMGP0127_1.jpg "wikilink") [633S](https://ja.wikipedia.org/wiki/633S "wikilink")（シャープ）・[ウィルコム](https://ja.wikipedia.org/wiki/ウィルコム "wikilink") [AH-K3001V](https://ja.wikipedia.org/wiki/AH-K3001V "wikilink")（京セラ）・同 [WX310SA](https://ja.wikipedia.org/wiki/WX310SA "wikilink")（三洋電機）\]\] **PHS**（ピーエイチエス、\[1\]）とは、小型の[電話機](https://ja.wikipedia.org/wiki/電話機 "wikilink")を携帯し、移動した先で長距離間の[通信](https://ja.wikipedia.org/wiki/通信 "wikilink")を行うシステム、またその電話機自体や、それによる[移動体通信](https://ja.wikipedia.org/wiki/移動体通信 "wikilink")[サービスのことを指す](https://ja.wikipedia.org/wiki/電気通信役務 "wikilink")。
+
+## 概要
+
+### 概略
+
+通信手段として、電話機（端末）と[基地局](https://ja.wikipedia.org/wiki/基地局 "wikilink")との間は[有線通信](https://ja.wikipedia.org/wiki/有線通信 "wikilink")の[通信線路](https://ja.wikipedia.org/wiki/通信線路 "wikilink")（[電話線](https://ja.wikipedia.org/wiki/電話線 "wikilink")など）を用いずに[電波](https://ja.wikipedia.org/wiki/電波 "wikilink")による[無線通信](https://ja.wikipedia.org/wiki/無線通信 "wikilink")を利用する。[マルチチャネルアクセス無線](https://ja.wikipedia.org/wiki/マルチチャネルアクセス無線 "wikilink")技術の一種でもある。
+
+PHSは基本的に、屋外で[事業者の](https://ja.wikipedia.org/wiki/電気通信事業者 "wikilink")[基地局](https://ja.wikipedia.org/wiki/基地局 "wikilink")に接続し、移動先で[電話](https://ja.wikipedia.org/wiki/電話 "wikilink")として利用可能なほか、企業や家庭の[内線で](https://ja.wikipedia.org/wiki/内線電話 "wikilink")[コードレス電話](https://ja.wikipedia.org/wiki/コードレス電話 "wikilink")の子機として利用可能である。ただし、子機を親機やシステムに登録する必要がある 。
+
+開発当初から[デジタル](https://ja.wikipedia.org/wiki/デジタル "wikilink")無線方式を採用し、[第二世代携帯電話と](https://ja.wikipedia.org/wiki/第2世代移動通信システム "wikilink")[無線アクセス](https://ja.wikipedia.org/wiki/無線アクセス "wikilink")との間の中間的な性能を持つ。開発名称は第二世代デジタルコードレス電話であり、[第三者](https://ja.wikipedia.org/wiki/第三者 "wikilink")が[受信機](https://ja.wikipedia.org/wiki/受信機 "wikilink")で通話の内容を聞くことが難しいデジタル方式とし、企業や家庭では内線コードレス電話の子機として、屋外では簡易な[基地局](https://ja.wikipedia.org/wiki/基地局 "wikilink")により[公衆交換電話網](https://ja.wikipedia.org/wiki/公衆交換電話網 "wikilink")に接続する発想で作られた日本発の規格である。
+
+開発当初は「」の略で**PHP**と呼ばれたが、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")の関連会社である[PHP研究所](https://ja.wikipedia.org/wiki/PHP研究所 "wikilink")と紛らわしいことから、1994年4月22日に呼称をPHSに変更すると発表。PHPからPHSに呼称が変更された際に、PHSを「ピーエイチエス」や簡略化して「フォス」と呼ぶとする発表があった。前者は事業者や報道関係でも広く知られ広まったが後者は全く定着しなかった。のちに若者、特に[女子高生](https://ja.wikipedia.org/wiki/女子高生 "wikilink")らに「**ピッチ**」の呼び方が広がり始め、その影響を受けて、1999年以降には[移動体通信事業者](https://ja.wikipedia.org/wiki/移動体通信事業者 "wikilink")も[コマーシャルメッセージ](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")や[パンフレット](https://ja.wikipedia.org/wiki/パンフレット "wikilink")でこの呼称を用いるようになった。
+
+1990年代後半から、[中国のほか](https://ja.wikipedia.org/wiki/中華人民共和国 "wikilink")[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[タイ](https://ja.wikipedia.org/wiki/タイ王国 "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")など[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")の[中進国各国でも一定の普及を見せた](https://ja.wikipedia.org/wiki/新興工業経済地域 "wikilink")（全世界で2006年10月時点で約1億台とされた[1](http://www.willcom-inc.com/ja/corporate/press/2006/11/08/index.html)）。PHS以外の現地名も多数付いており、小霊通、[PAS](https://ja.wikipedia.org/wiki/PAS "wikilink")（Personal Access System）、CityPhone などとも呼ばれている。
+
+一部の[中進国](https://ja.wikipedia.org/wiki/新興工業経済地域 "wikilink")・[発展途上国の](https://ja.wikipedia.org/wiki/開発途上国 "wikilink")[電話回線が導入されていない地域では](https://ja.wikipedia.org/wiki/通信線路 "wikilink")、[固定電話](https://ja.wikipedia.org/wiki/固定電話 "wikilink")の代替としてPHSが普及したり、[無線による固定電話回線](https://ja.wikipedia.org/wiki/無線通信 "wikilink")（[PHS FWA](https://ja.wikipedia.org/wiki/無線アクセス#PHS_FWA "wikilink")、TDD-TDMAを採用）として導入された。
+
+2003年4月にDDIポケットと台湾のPHS事業者「[大衆電信](https://ja.wikipedia.org/wiki/大衆電信 "wikilink")」（[FITEL](https://ja.wikipedia.org/wiki/FITEL "wikilink")）との間で相互[ローミング](https://ja.wikipedia.org/wiki/ローミング "wikilink")サービスが開始された。後に、タイの「Asia Wireless Communication」（[true](https://ja.wikipedia.org/wiki/トゥルー・コーポレーション "wikilink")）や、ベトナムの「Hanoi Telecommunications」（[VNPT](https://ja.wikipedia.org/wiki/VNPT "wikilink")）\[2\]との間でも開始された。
+
+日本では2018年3月31日に、全事業者で公衆PHSサービスの新規契約受付を終了した\[3\]。サービス提供中の[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")・[ウィルコム沖縄](https://ja.wikipedia.org/wiki/ウィルコム沖縄 "wikilink")）は、法人向けテレメトリング以外の既存契約者へのサービス提供を2020年7月31日に終了する予定であると発表した\[4\]\[5\]\[6\]\[7\]。また、2019年4月24日に法人向けテレメトリングのサービスを2023年3月31日に終了することが発表された\[8\]。
+
+[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")では2013年4月にPHSサービスが終了・停波し、2016年5月10日から日本製を含むPHS端末の所持または使用に対しては2年以下の禁錮または5万香港ドル以下の罰金に処される。[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")でも2015年3月にPHSサービスが終了して停波している。[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")は「小霊通」サービスが2014年12月31日をもってサービス終了している\[9\]。
+
+PHS端末に限らず無線機器の利用は各国毎に無線の帯域や仕様が異なっており、許可制であるため、無線機器を不用意に国外へ持ち出し、または国外から持ち込んで使用すると、その国の法令により処罰される恐れがある\[10\]\[11\]。
+
+なお、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")におけるPHS相当の移動体通信規格としては、[DECT](https://ja.wikipedia.org/wiki/DECT "wikilink")が主流である。DECT規格は「デジタル[コードレス電話](https://ja.wikipedia.org/wiki/コードレス電話 "wikilink")の新方式」として日本国内にも導入済み。
+
+### 主な特長
+
+PHSの主な特長を列挙。
+
+  - 屋外でPHS[事業者の基地局と接続し](https://ja.wikipedia.org/wiki/電気通信事業者 "wikilink")、[移動体通信](https://ja.wikipedia.org/wiki/移動体通信 "wikilink")として利用（公衆モード、[後述](https://ja.wikipedia.org/wiki/#利用者端末 "wikilink")）。
+  - [音声](https://ja.wikipedia.org/wiki/音声 "wikilink")の[符号化方式](https://ja.wikipedia.org/wiki/符号化方式 "wikilink")として32k[bpsの](https://ja.wikipedia.org/wiki/ビット毎秒 "wikilink")[ADPCM](https://ja.wikipedia.org/wiki/ADPCM "wikilink")を採用し、[無線](https://ja.wikipedia.org/wiki/無線 "wikilink")条件が良好であれば[固定電話](https://ja.wikipedia.org/wiki/固定電話 "wikilink")並みの音声通話品質を提供。
+  - 家庭用のデジタル[コードレス電話](https://ja.wikipedia.org/wiki/コードレス電話 "wikilink")として、親機経由で[固定電話](https://ja.wikipedia.org/wiki/固定電話 "wikilink")に接続。また事業所向けの[内線電話](https://ja.wikipedia.org/wiki/内線電話 "wikilink")として、自営[基地局](https://ja.wikipedia.org/wiki/基地局 "wikilink")システムを設置して使用。
+  - いくつかの無線チャネルを束ねて[無線アクセス](https://ja.wikipedia.org/wiki/無線アクセス "wikilink")に利用。[第3世代移動通信システム](https://ja.wikipedia.org/wiki/第3世代移動通信システム "wikilink")と比較して、低速ながらも安価で大容量の通信が可能。
+  - PHSの国際[ローミング](https://ja.wikipedia.org/wiki/ローミング "wikilink")。日本国外では[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")とPHSのデュアルモード通信端末も存在した。
+  - 端末同士の直接通話（[トランシーバー](https://ja.wikipedia.org/wiki/トランシーバー_\(無線機\) "wikilink")。[特定小電力無線](https://ja.wikipedia.org/wiki/特定小電力無線 "wikilink")の特定小電力10m[W型と同等の利用法](https://ja.wikipedia.org/wiki/ワット "wikilink")）が可能。
+  - 規格に互換性があるため、基本的な[音声通話](https://ja.wikipedia.org/wiki/音声通話 "wikilink")やデータ通信（PIAFS）は原則、端末を問わずいずれのPHS事業者（公衆モード、[後述](https://ja.wikipedia.org/wiki/#利用者端末 "wikilink")）にも登録して利用可能。
+  - 通話需要の少ない地域で[公衆交換電話網](https://ja.wikipedia.org/wiki/公衆交換電話網 "wikilink")の代替（PHS WLL/FWA、日本国外）。
+  - いわゆる電子ガジェット的な多機能化（ケータイ、[携帯機器](https://ja.wikipedia.org/wiki/携帯機器 "wikilink")）。
+
+## 技術
+
+日本国内においては、[携帯電話](../Page/携帯電話.md "wikilink")と比較した場合、以下の特徴がある。
+
+基地局の[送信出力が携帯電話で最大](https://ja.wikipedia.org/wiki/空中線電力 "wikilink")25[Wに対し](https://ja.wikipedia.org/wiki/ワット "wikilink")、PHSは公衆用基地局で最小20mW - 最大500mWと小さい。そのため、基地局を多数設置して、利用可能なエリアを確保する方法が取られる。
+
+基地局の出力が小さく、設置コストが安価なことから、[地下街](https://ja.wikipedia.org/wiki/地下街 "wikilink")や[地下鉄](https://ja.wikipedia.org/wiki/地下鉄 "wikilink")の[駅構内など](https://ja.wikipedia.org/wiki/鉄道駅 "wikilink")、地上と比較して狭い空間へのエリア展開が、1995年のサービス開始当初から実施されている（携帯電話が[日本の地下鉄](https://ja.wikipedia.org/wiki/日本の地下鉄 "wikilink")駅構内で利用可能になり始めたのは、2000年頃からである）。
+
+PHSと概ね[3.5Gまでの携帯電話の最大の違いは](https://ja.wikipedia.org/wiki/第3.5世代移動通信システム "wikilink")、一つの基地局がカバーするエリアの広さの違いである。おおむね[3.5Gまでの携帯電話は一つの基地局で半径数km以上をカバーしており](https://ja.wikipedia.org/wiki/第3.5世代移動通信システム "wikilink")「マクロセル」と呼ばれていたが、PHSは当初、半径100m以下 - 最大でも500m程度であり「マイクロセル」と呼ばれていた\[12\]。鉄塔の建設を行うなど、大掛かりな携帯電話の基地局に対して、PHSの基地局は、電柱や構内の天井や壁面などに小型の基地局装置を設置するだけなので工事が容易・低コストである。反面、基地局あたりのカバーエリアが狭いので多数の基地局を設置する必要がある\[13\]。
+
+このマイクロセル方式により周波数の空間的再利用が可能であり、1基地局当たりのカバーエリアを小さくして、同一周波数の再利用が容易になるため、周波数の利用効率が高い特長を持つ。[3G以降の携帯電話でも](https://ja.wikipedia.org/wiki/第3世代移動通信システム "wikilink")、都市部の高トラフィックエリアでは、マイクロセル方式を採用している場合がある。この方式により基地局一台あたりの[トラフィック](https://ja.wikipedia.org/wiki/トラフィック "wikilink")は携帯電話に比べ余裕があり、早い時期から[パケット](https://ja.wikipedia.org/wiki/パケット "wikilink")定額や音声通話定額などのサービスを開始できた。
+
+端末の出力も携帯電話で最大200mW程度に対し、PHSはバースト内平均電力で80mW（送信平均電力は10mW）。よって基地局側に高い[利得の](https://ja.wikipedia.org/wiki/利得_\(電気工学\) "wikilink")[アンテナ](https://ja.wikipedia.org/wiki/アンテナ "wikilink")が要求される一方で、端末側の[消費電力](https://ja.wikipedia.org/wiki/消費電力 "wikilink")は抑えられている。これにより、待受け・通信（通話）時ともに[電池](https://ja.wikipedia.org/wiki/電池 "wikilink")はより長持ちするとされていた。近年は、PHS端末の高機能化に伴う消費電力の増加や携帯電話の通信規格改良による進んだため、音声端末での差はかなり小さくなっている。
+
+1995年のサービス開始当時において、当初主流の[第二世代携帯電話](https://ja.wikipedia.org/wiki/第2世代移動通信システム "wikilink")（[PDC](https://ja.wikipedia.org/wiki/PDC "wikilink")）方式との比較では、音質が良い、データの転送速度が速いとされた。なおその後、第三世代携帯電話では転送速度の高速化が図られた。また音質の改良がされたものもある。対して、PHSにおいても高度化PHS、次世代PHS等（後述）による高速化が図られている。
+
+現行PHS方式においては、[音](https://ja.wikipedia.org/wiki/音 "wikilink")声の[符号化方式](https://ja.wikipedia.org/wiki/符号化方式 "wikilink")には32k[bpsの](https://ja.wikipedia.org/wiki/ビット毎秒 "wikilink")[ADPCMを使用する](https://ja.wikipedia.org/wiki/Adaptive_Differential_Pulse_Code_Modulation "wikilink")。なお、[高度化PHS](https://ja.wikipedia.org/wiki/高度化PHS "wikilink")であるY\!mobileの[W-OAM](https://ja.wikipedia.org/wiki/W-OAM "wikilink")方式において、低速だがエラーに強い[BPSKによる通話時は](https://ja.wikipedia.org/wiki/デジタル変調#位相偏移変調 "wikilink")、[音声符号化](https://ja.wikipedia.org/wiki/音声符号化 "wikilink")方式は13 - 16kADPCMとなる。[周波数](https://ja.wikipedia.org/wiki/周波数 "wikilink")帯は1.9GHz帯を使用する。なお、[高度化PHS](https://ja.wikipedia.org/wiki/高度化PHS "wikilink")においては1.8GHz帯（1884.65 - 1893.65MHz）を追加で使用する。通話用キャリアは、同帯域内において[FDMである](https://ja.wikipedia.org/wiki/周波数分割多重化 "wikilink")。1つの通話用キャリア上に、[複信](https://ja.wikipedia.org/wiki/複信 "wikilink")・[多元接続](https://ja.wikipedia.org/wiki/多元接続 "wikilink")方式として[TDD](https://ja.wikipedia.org/wiki/時分割複信 "wikilink")-[TDMAを採用する](https://ja.wikipedia.org/wiki/時分割多元接続 "wikilink")。1フレームを5msとし、これを625μsのスロット8つに分割する。TDDとして、前半4つのスロットを下り（送信、基地局→端末）、後半4つを上り（受信、端末→基地局）、として独立して使用するので、多重数は4となる。また、8スロットの内2スロットは制御スロットとして使用するので、1つの周波数（1つの通話用キャリア）で同時に使用できるのは3通話となる。1通話スロットあたりのトラフィックチャネル（通話チャネル）のデータレートは32kbpsなので、64kbpsのデータ通信を行う場合には、送受信スロットを2つずつ束ねて使用する。
+
+### データ通信
+
+PHSを利用した[データ通信](https://ja.wikipedia.org/wiki/データ通信 "wikilink")に関しては、サービス開始当初は、アナログ[電話回線](https://ja.wikipedia.org/wiki/電話回線 "wikilink")における[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")と同様に、PHSの音声通話チャネルに対してモデムによる変復調を適用する、いわゆる「みなし音声」と言う規格により無線データ通信が行われていた。これは、データをモデムによりアナログ音声に変復調したあと、再度その音声をADPCMにより変復調して伝送するというオーバーヘッドがあり、非効率で概ね14400bps程度と低速だった。
+
+のちにデータを直接PHSの通信チャネルに対し伝送する方式として[PIAFS仕様が策定された](https://ja.wikipedia.org/wiki/Personal_Handyphone_System_Internet_Access_Forum_Standard "wikilink")。詳細は同項目を参照。各事業者のPIAFS規格採用状況は、日本国内の全PHS事業者が採用するPIAFS1.0 、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")が採用するPIAFS2.0、ウィルコムと旧[アステル](https://ja.wikipedia.org/wiki/アステル "wikilink")系事業者の一部が採用するPIAFS2.1、ウィルコムが採用するPIAFS2.2、となっている。
+
+PIAFSは基本的に[回線交換](https://ja.wikipedia.org/wiki/回線交換 "wikilink")方式であり日本国内および国際的にも各PHS事業者で共通事項が多く、互換性も高い。一方、ウィルコムの「[AIR-EDGE](https://ja.wikipedia.org/wiki/エアーエッジ "wikilink")」の[パケット通信](https://ja.wikipedia.org/wiki/パケット通信 "wikilink")は、[W-OAM](https://ja.wikipedia.org/wiki/W-OAM "wikilink")を含む独自方式により高速化を図っている。*詳細は[エアーエッジ](https://ja.wikipedia.org/wiki/エアーエッジ "wikilink")の項目を参照。*なお、エアーエッジのパケット通信についてはPIAFS策定事項に含まれていないが、2004年に国際展開を目的として同社がライセンス契約による仕様公開を行った。
+
+### 周波数帯域利用状況
+
+通信チャネルとして1884.65 - 1919.75MHzを使用。制御チャネルは、1915.85 - 1918.55MHzを使用していたが、2012年に1906.25 - 1908.35MHzへずらされた\[14\]。
+
+通信チャネルを旧3グループで共有していたため、携帯電話とは事情が異なりアステル・ドコモ撤退によるウィルコム（現・ソフトバンク）への周波数の追加割り当てなどは発生していない。[高度化PHS](https://ja.wikipedia.org/wiki/高度化PHS "wikilink")用帯域（W-OAM向け）も名目上は各社共有である。
+
+<table>
+<caption>日本のPHSの周波数帯域利用状況</caption>
+<thead>
+<tr class="header">
+<th><p>周波数（<a href="https://ja.wikipedia.org/wiki/メガヘルツ" title="wikilink">MHz</a>）</p></th>
+<th><p>日本</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1884.65 - 1893.65</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/W-OAM" title="wikilink">W-OAM</a>（<a href="https://ja.wikipedia.org/wiki/高度化PHS" title="wikilink">高度化PHS</a>）:<a href="https://ja.wikipedia.org/wiki/ソフトバンク" title="wikilink">ソフトバンク</a>・<a href="https://ja.wikipedia.org/wiki/ウィルコム沖縄" title="wikilink">ウィルコム沖縄</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1893.65 - 1906.25</p></td>
+<td><p>PHS:ソフトバンク・ウィルコム沖縄<br />
+<a href="https://ja.wikipedia.org/wiki/コードレス電話#デジタルコードレス電話" title="wikilink">第2世代ディジタルコードレス電話</a>（自営PHS・<a href="https://ja.wikipedia.org/wiki/DECT" title="wikilink">DECT</a>など）</p></td>
+</tr>
+<tr class="odd">
+<td><p>1906.25 - 1915.55</p></td>
+<td><p>PHS:ソフトバンク・ウィルコム沖縄</p></td>
+</tr>
+</tbody>
+</table>
+
+### 利用者端末
+
+電話機は携帯電話と異なり、次の3つの基本動作モードがある。通常PHSという場合は「公衆モード」を指す。なお、2003年頃以降発売された端末では「自営モード」「トランシーバーモード」の動作モードの一部または全部を持たない物が主流になっている。
+
+  - 公衆モード：PHS事業者の基地局を直接接続するモード。
+  - 自営モード：コードレス電話の子機として使用するモード。企業における内線電話システムとして多数の自営基地局を設置して使用する場合が多い。
+      - [NTTパーソナル](https://ja.wikipedia.org/wiki/NTTパーソナル "wikilink")プロトコル
+      - [アステル](https://ja.wikipedia.org/wiki/アステル "wikilink")[松下プロトコル](https://ja.wikipedia.org/wiki/パナソニック "wikilink")
+      - α-PHS
+      - 自営第2版
+      - 自営第3版
+      - 家庭第2版
+  - トランシーバーモード：予め登録された2台の電話機同士で、公衆基地局やコードレス親機を経由せずに直接通話ができるもの。いわゆるトランシーバーのように送話と受話を交互に行う単信方式ではなく、通常の電話と同じく、同時に送受話できる（複信方式）。なお、トランシーバーモードの方式には、共通のコードレス親機に登録が必要なものと、不要なものがある。登録不要の方式はグループモードと呼ばれ、トランシーバー通話の他に、電話帳転送なども可能である。
+
+端末によっては、上記3モードのうちの一部または全部を同時に（モード切替をせずに）待ち受けできる物もある。
+
+PHSは規格に互換性があるため、例えばA事業者用のPHS端末をB事業者の公衆PHSサービスに登録して利用すると言ったことも原則は可能である。ただし、この場合は基本的な音声通話やデータ通信（PIAFS）などにサービスが限定され、事業者独自や仕様の異なるサービス（インターネット接続サービス、高速ハンドオーバー）などの機能は有効にならないのが通例である。自営モードは自営規格が適合すれば、端末・自営基地局のメーカーに関わらず接続利用可能である。
+
+屋内で電波が微弱となった場合に、中継用の簡易型基地局（いわゆるホームアンテナなど）を窓際などに設置して利用することもある。中継用基地局は、端末からの無線接続を受け入れると同時に、公衆用基地局に対して無線接続を行い、電波の中継（再生中継方式）を行う。このうち、端末からの無線接続を公衆モードで行うものと、自営モードで行うものに分かれる。前者は中継用基地局の設置者以外の端末から利用される場合もある。
+
+近年のPHS端末は携帯電話端末と同様に、着信の際、発信者が非通知設定・通知不可能・公衆電話発信の回線などでなければ、[ディスプレイに発信者番号が表示される](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")（固定電話の[ナンバーディスプレイ](https://ja.wikipedia.org/wiki/ナンバーディスプレイ "wikilink")と同等の機能）。端末の[電話帳](https://ja.wikipedia.org/wiki/電話帳 "wikilink")機能に登録している番号に合致した場合は、登録した名前も表示できる。
+
+日本国内における携帯電話端末の多機能化と前後する形で、2001年頃からPHS端末も多機能化しており、[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")に接続できる機種（H"LINK、[mopera](https://ja.wikipedia.org/wiki/mopera "wikilink")、[ドットi](https://ja.wikipedia.org/wiki/ドットi "wikilink")、[CLUB AIR-EDGE](https://ja.wikipedia.org/wiki/エアーエッジ "wikilink") など）や、[カメラ付き携帯電話](https://ja.wikipedia.org/wiki/カメラ付き携帯電話 "wikilink")よりやや遅れる形で[ディジタルカメラ](https://ja.wikipedia.org/wiki/ディジタルカメラ "wikilink")を内蔵して静止画を撮影可能な[機種も出た](https://ja.wikipedia.org/wiki/カメラ付き携帯電話 "wikilink")。なお動画撮影やテレビ電話に対応した機種は、PHSでは限定的である。また、2005年以降は[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")に特化したPHS端末が発売されている。詳細は[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")を参照。
+
+### 事業者ネットワーク
+
+[200px](https://ja.wikipedia.org/wiki/ファイル:WILLCOM_PHS_Mobile_phone_tower.jpg "wikilink") 公衆モードのネットワークの基盤は、日本国内は[NTT東日本](https://ja.wikipedia.org/wiki/東日本電信電話 "wikilink")・[NTT西日本の](https://ja.wikipedia.org/wiki/西日本電信電話 "wikilink")[ISDN](https://ja.wikipedia.org/wiki/ISDN "wikilink")を基盤にしている活用型（依存型）事業者と、独自に構築した接続型（独自型）事業者の2つがある。[アステル](https://ja.wikipedia.org/wiki/アステル "wikilink")北海道・東北・北陸・中部・四国が接続型で、その他の事業者は全て活用型である。旧アステル関西・中国各地方の音声サービスは上述のように活用型だったが、定額制PHSデータ通信サービス「eo64エア」・「MEGA EGG 64」はいずれも接続型であった。
+
+活用型PHSはNTT地域会社の加入者[電話交換機](https://ja.wikipedia.org/wiki/電話交換機 "wikilink")にPHS接続装置（PSM：PHS Setsuzoku Mojuru）を接続し、PSMと[基地局](https://ja.wikipedia.org/wiki/基地局 "wikilink")（CS）の間の通信にISDN回線が使用される。乱暴な言い方をすれば、既存のISDN網の末端にPSMやCSなどの設備を取り付けてシステムを構築したものである。自前のネットワークを構築するよりも短期間でサービスエリアを広げることが可能で初期の投資も抑えることができるが、回線やPSMの使用料が事業者に毎月発生する。その後全国的にNTTのISDN交換機へのPSM機能の統合がなされ、PSMの廃棄費用と引き替えにPSM使用料はなくなった。
+
+活用型PHSは、システムがディジタル[電話交換機](https://ja.wikipedia.org/wiki/電話交換機 "wikilink")に完全に依存しているため、[公衆交換電話網](https://ja.wikipedia.org/wiki/公衆交換電話網 "wikilink")自体の[Internet Protocolを利用した](https://ja.wikipedia.org/wiki/Internet_Protocol "wikilink")[NGNへの更改に伴い](https://ja.wikipedia.org/wiki/Next_Generation_Network "wikilink")、活用型PHS事業者はPHSサービスの提供に重要な影響を及ぼす予定である\[15\]。
+
+接続型PHSは活用型PHSとは異なり、ISDN網ではなく地域系通信事業者の網を経由してNTT地域会社の市外系交換機（IC）または加入者交換機（GC）に接続する。NTTのネットワークを利用する部分が少なくて済み、PSMも不要である。NTTへの依存コストはない分、自前のネットワークの構築・維持コストが掛かる。他の通信事業者との[ローミング](https://ja.wikipedia.org/wiki/ローミング "wikilink")の整備も必要となる。
+
+近年の動向として、市中の末端ネットワークを[光回線として](https://ja.wikipedia.org/wiki/光ケーブル "wikilink")、低コスト、高スループットを実現するもの（eo64エア、W-OAM typeG）や、基本は活用型でありながら、電話局間の幹線網を[VoIP](https://ja.wikipedia.org/wiki/VoIP "wikilink")でバイパスし、コスト削減・高スループットを実現するもの（ウィルコム）も出てきている。
+
+### PHSの改良規格
+
+#### 高度化PHS
+
+高度化PHSは、現行PHS規格の改良型で、高速[無線アクセス](https://ja.wikipedia.org/wiki/無線アクセス "wikilink")システム的性能を持つ。
+
+#### 次世代PHS
+
+次世代PHS（XGP：*neXt Generation PHS*）は「高度化PHS」とは別に、PHSのマイクロセル・自律分散などコンセプトを引き継ぎつつ、新たに策定された規格である。従来のPHSとの互換性はまったくなく、略称XGPの正式名称が、*neXt Generation PHS*から*eXtended Global Platform*に改められている。XGP方式自体は、2012年1月31日をもって終了。XGPを推進していた[ソフトバンクグループ](https://ja.wikipedia.org/wiki/ソフトバンクグループ "wikilink")傘下の[Wireless City Planningは後継方式として](https://ja.wikipedia.org/wiki/Wireless_City_Planning "wikilink")[Advanced eXtended Global Platform](https://ja.wikipedia.org/wiki/Long_Term_Evolution#TD-LTEの「互換」とされているサービス "wikilink")（AXGP）を採用、2011年11月1日からサービス開始している。
+
+#### ターボPHS
+
+日本国外ではデータ通信より通話がメインの利用者が多いため、日本とは方向性の違う高度化PHS規格である「ターボPHS」が提案され検討がなされている。主な変更点として新制御チャンネルの設定、[SMSの容量拡大](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")、音声コーデックに[AMRを追加](https://ja.wikipedia.org/wiki/Adaptive_Multi-Rate "wikilink")、端末出力の高出力化などがあげられる\[16\]。
+
+### 制御チャネル移行およびIMT-2000側のガードバンド
+
+[高度化PHS](https://ja.wikipedia.org/wiki/高度化PHS "wikilink")に関する2001年6月25日の総務省情報通信審議会の答申においては同時に、従来のPHS帯と[IMT-2000](https://ja.wikipedia.org/wiki/IMT-2000 "wikilink")帯域（日本における[第三世代携帯電話用の帯域](https://ja.wikipedia.org/wiki/第3世代移動通信システム "wikilink")、2.0GHz帯）との干渉問題の解決のためPHSの公衆用共通制御キャリア（BCCH、単に制御チャネルとも呼ばれる）を低い周波数の方にずらす対策を取ることも示された。
+
+なおIMT-2000側は、PHS帯と隣接するIMT-2000帯内の5MHz分がガードバンドとされ、相互の干渉抑止のため使用不可とされた。この部分は[KDDI](https://ja.wikipedia.org/wiki/KDDI "wikilink")（[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")）帯域だったが、IMT-2000・2.0GHz帯参加2社（NTTドコモ・ソフトバンク）も当初は、公平を期するため同様に各社の5MHz分とも使用不可とされた。後にこれら2社のガードバンド帯域は外されている\[17\]。前述のPHSの制御チャネル移行後に、KDDI（au）分の5MHzの帯域が使用可能となった。
+
+具体的には、現行の公衆制御キャリア1915.85 - 1918.55MHzが、移行後は1906.25 - 1908.35MHzとなり、1915.85 - 1919.75MHzは移行期限後に使用できなくなる。
+
+移行期限は2012年5月31日である。移行期限後は、制御キャリア移行に対応していない古いPHS端末は公衆モード端末としては使用できなくなる。旧[アステル](https://ja.wikipedia.org/wiki/アステル "wikilink")グループ、ドコモPHSの端末はガードバンド移行非対応のため公衆モードにする事はできない（電波法違反となる）。
+
+なお、制御キャリア移行対応が必要となるのは、移行期限後も存続する計画がある事業者の基地局および端末に限られる。2011年現在でPHS事業を行なっている事業者は、以下の対応である。
+
+  - [ウィルコム](https://ja.wikipedia.org/wiki/ウィルコム "wikilink")・ウィルコム沖縄
+    移行は2012年3月1日から5月25日に行われ、制御キャリアの移行に対応しない機種（主に、2003年以前の機種など、ウィルコムブランドで発売されなかった端末が中心）については、アップデート対応や代替サービスのないケースを除き、[巻き取りが実施され](https://ja.wikipedia.org/wiki/巻き取り_\(携帯電話\) "wikilink")、その上で対応出来ない端末を継続使用した場合は2012年4月30日をもってサービスが終了となる\[18\]。
+  - [ケイ・オプティコム](https://ja.wikipedia.org/wiki/ケイ・オプティコム "wikilink")（[eo64エア](https://ja.wikipedia.org/wiki/eo64エア "wikilink")）
+    移行期限以前の2011年9月30日をもってサービスが終了した\[19\]ため、移行は行われない。
+
+## 日本におけるPHS
+
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では、[電気通信役務](https://ja.wikipedia.org/wiki/電気通信役務 "wikilink")の区分など法令上や公的な資料・統計で、PHSは[携帯電話](../Page/携帯電話.md "wikilink")と明確に区別されている。両者は相違点よりも類似点の方が大きいため、本項目のほか[日本における携帯電話](https://ja.wikipedia.org/wiki/日本における携帯電話 "wikilink")の項目も併せて参照のこと。
+
+法令上の呼称は当初は、本来の用途からすると不適切な「**簡易型携帯電話**」だったが、1998年11月に、郵政省（当時）により「**PHS**」に改められた\[20\]。ただし、一部のマスメディアや電話会社の契約約款などの文面では、依然として「簡易型携帯電話」が使われている。例として[NTT東日本・電話サービス契約約款における当社が別に定める内容（別紙1）](http://www.ntt-east.co.jp/tariff/html/eb01s01.html)内に、「簡易型携帯電話に係るもの」と記載がある。
+
+電話端末は当初より長らくストレートタイプが多かったが、2000年以降は携帯電話のように、大画面化に有利な折りたたみ式が主流となっていた。
+
+日本の法令では、[携帯電話](../Page/携帯電話.md "wikilink")と同様に1999年11月から[自動車](https://ja.wikipedia.org/wiki/自動車 "wikilink")・[オートバイ](https://ja.wikipedia.org/wiki/オートバイ "wikilink")を運転中の使用が禁止され、2004年11月から[交通反則通告制度](https://ja.wikipedia.org/wiki/交通反則通告制度 "wikilink")により[反則金](https://ja.wikipedia.org/wiki/反則金 "wikilink")の罰則対象となり、運転者は停車中を除いては通話したり、電話機の表示画面を見てはならない。ただし[ハンズフリー通話などは対象外である](https://ja.wikipedia.org/wiki/ハンズフリー・マイクロフォン "wikilink")。運転中に通話やボタン操作などを行うことは非常に危険である。2019年12月1日、[ながら運転](https://ja.wikipedia.org/wiki/ながら運転 "wikilink")の防止を視野に運転中にPHSを使用した場合の罰則がさらに強化される\[21\]。なお自転車でも同様の規制があり、例として東京都では公安委員会遵守事項違反により5万円以下の罰金となる\[22\]。
+
+2005年5月に、[携帯電話不正利用防止法](https://ja.wikipedia.org/wiki/携帯電話不正利用防止法 "wikilink")の施行により、携帯電話とPHSに関し、契約者の本人性確認の義務付けや、不正な譲渡の禁止などが行われた。
+
+PHP端末は[使用済小型電子機器等の再資源化の促進に関する法律](https://ja.wikipedia.org/wiki/使用済小型電子機器等の再資源化の促進に関する法律 "wikilink")（小型家電リサイクル法）の対象品目とされている\[23\]。
+
+### 電話サービスの内容
+
+サービス上の料金制度として、月額基本料に無料通話分を含んだ、通話の状況に合わせたパック料金がある。料金前払いのプリペイド式PHSとして過去に「プチペイド」が存在した。
+
+[特殊簡易公衆電話](https://ja.wikipedia.org/wiki/特殊簡易公衆電話 "wikilink")（いわゆるピンク電話）、および[新幹線](https://ja.wikipedia.org/wiki/新幹線 "wikilink")[公衆電話](https://ja.wikipedia.org/wiki/公衆電話 "wikilink")（回線が自動車公衆電話に切り替わる[秋田](https://ja.wikipedia.org/wiki/秋田新幹線 "wikilink")・[山形新幹線](https://ja.wikipedia.org/wiki/山形新幹線 "wikilink")を除く）からPHSに発信はできない。また、[電報](https://ja.wikipedia.org/wiki/電報 "wikilink")・[コレクトコール](https://ja.wikipedia.org/wiki/コレクトコール "wikilink")・[ダイヤルQ2](https://ja.wikipedia.org/wiki/ダイヤルQ2 "wikilink")・[ナビダイヤル](https://ja.wikipedia.org/wiki/ナビダイヤル "wikilink")・[テレドーム](https://ja.wikipedia.org/wiki/テレドーム "wikilink")等は利用不可。また、[フリーダイヤル](https://ja.wikipedia.org/wiki/フリーダイヤル "wikilink")等は掛ける先（着信）側での契約がされていないと掛けられない。
+
+[留守番電話](https://ja.wikipedia.org/wiki/留守番電話 "wikilink")・[転送電話](https://ja.wikipedia.org/wiki/転送電話 "wikilink")機能を備えたサービス・端末が一般的である。[キャッチホン](https://ja.wikipedia.org/wiki/キャッチホン "wikilink")機能は提供されないことが多い。
+
+PHS事業者の[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")（旧・[ワイモバイル](https://ja.wikipedia.org/wiki/ワイモバイル "wikilink")←[ウィルコム](https://ja.wikipedia.org/wiki/ウィルコム "wikilink")←[DDIポケット](https://ja.wikipedia.org/wiki/DDIポケット "wikilink")）は、音声通話定額制サービスを提供している。詳細は[音声通話定額制](https://ja.wikipedia.org/wiki/音声通話定額制 "wikilink")を参照。
+
+### 事業者の変遷
+
+[thumb](https://ja.wikipedia.org/wiki/画像:Telecom_history_in_Japan.png "wikilink") 日本では当初、PHSや携帯電話の事業者は、地域ごとに別の会社でなければならなかった。このためDDIポケット（当時）も発足当初から北海道・東北・北陸・東京（関東・中央）・東海・関西・中国・四国・九州と会社が分かれていたが、後に地域会社の規制が廃止され、2000年にDDIポケットは地域会社を全国統合した。のちに、[アステル沖縄](https://ja.wikipedia.org/wiki/アステル沖縄 "wikilink")の契約利用者受け皿として沖縄地域会社を再分割し、沖縄の地域事業者は[ウィルコム沖縄](https://ja.wikipedia.org/wiki/ウィルコム沖縄 "wikilink")とした。これは沖縄を除いた全国事業者としてのウィルコム発足に先立つものだった。
+
+やがてウィルコムは会社更生法の適用によりソフトバンク主導下での経営再建を経て、[イー・アクセス](https://ja.wikipedia.org/wiki/イー・アクセス "wikilink")と経営統合し[ワイモバイル](https://ja.wikipedia.org/wiki/ワイモバイル "wikilink")に改称。さらに[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")のブランドを残しつつ[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")モバイルに吸収合併された。ウィルコム沖縄はそのまま存続したが、PHS事業は段階的に縮小し2018年3月31日に新規契約受付を終了、2020年7月末で法人向けテレメトリング以外のサービス提供を終了する予定を発表した\[24\]\[25\]\[26\]。
+
+  - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")グループ（[ドコモPHS](https://ja.wikipedia.org/wiki/ドコモPHS "wikilink")）：2008年1月7日にサービス終了\[27\]。
+      - 1998年12月1日 - NTTパーソナル通信網グループ各社が、NTTドコモグループ9社（当時）に営業譲渡。
+  - [アステル](https://ja.wikipedia.org/wiki/アステル "wikilink")グループ：2004年12月1日に全国ローミングサービス終了、2006年12月20日にアステル東北がサービス終了した時点で完全消滅。
+      - アステル九州（[アステル九州](https://ja.wikipedia.org/wiki/アステル九州 "wikilink")→[九州通信ネットワーク](https://ja.wikipedia.org/wiki/九州通信ネットワーク "wikilink")）
+      - アステル北海道（[アステル北海道](https://ja.wikipedia.org/wiki/アステル北海道 "wikilink")→[北海道総合通信網](https://ja.wikipedia.org/wiki/北海道総合通信網 "wikilink")）
+      - アステル北陸（[アステル北陸](https://ja.wikipedia.org/wiki/アステル北陸 "wikilink")→[北陸通信ネットワーク](https://ja.wikipedia.org/wiki/北陸通信ネットワーク "wikilink")）
+      - アステル関西（[アステル関西](https://ja.wikipedia.org/wiki/アステル関西 "wikilink")→[ケイ・オプティコム](https://ja.wikipedia.org/wiki/ケイ・オプティコム "wikilink")）
+      - アステル中国（[アステル中国](https://ja.wikipedia.org/wiki/アステル中国 "wikilink")→[中国情報システムサービス](https://ja.wikipedia.org/wiki/中国情報システムサービス "wikilink")→[エネルギア・コミュニケーションズ](https://ja.wikipedia.org/wiki/エネルギア・コミュニケーションズ "wikilink")）
+      - [アステル沖縄](https://ja.wikipedia.org/wiki/アステル沖縄 "wikilink")（[ウィルコム沖縄](https://ja.wikipedia.org/wiki/ウィルコム沖縄 "wikilink")に事業譲渡）
+      - アステル四国（[アステル四国](https://ja.wikipedia.org/wiki/アステル四国 "wikilink")→[四国情報通信ネットワーク](https://ja.wikipedia.org/wiki/四国情報通信ネットワーク "wikilink")→[STNet](https://ja.wikipedia.org/wiki/STNet "wikilink")）
+      - アステル中部（[アステル中部](https://ja.wikipedia.org/wiki/アステル中部 "wikilink")→[中部テレコミュニケーション](https://ja.wikipedia.org/wiki/中部テレコミュニケーション "wikilink")）
+      - アステル東京（[アステル東京](https://ja.wikipedia.org/wiki/アステル東京 "wikilink")→[東京通信ネットワーク](https://ja.wikipedia.org/wiki/東京通信ネットワーク "wikilink")→[YOZAN](https://ja.wikipedia.org/wiki/YOZAN "wikilink")）
+      - アステル東北（[アステル東北](https://ja.wikipedia.org/wiki/アステル東北 "wikilink")→[東北インテリジェント通信](https://ja.wikipedia.org/wiki/東北インテリジェント通信 "wikilink")）
+
+単なる社名変更や地域統合、法人格の変動に止まるものは扱わない。法人格としては、旧アステル東京と旧アステル中部は吸収合併により消滅し、それら以外のアステルグループ8社とNTTパーソナルグループ9社は事業譲渡後に会社清算している。ウィルコムも法人格としてはDDIポケット時代の2004年10月に[新旧分離](https://ja.wikipedia.org/wiki/新旧分離 "wikilink")がなされている。
+
+### 日本における歴史
+
+  - 1993年 - [札幌と東京で実験開始](https://ja.wikipedia.org/wiki/札幌市 "wikilink")。
+  - 1995年 - [NTTパーソナル](https://ja.wikipedia.org/wiki/NTTパーソナル "wikilink")（現・[NTTドコモ](https://ja.wikipedia.org/wiki/ドコモPHS "wikilink")）、DDIポケット（現・[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")）（共に7月1日）、[アステル](https://ja.wikipedia.org/wiki/アステル "wikilink")（10月1日）各グループが本サービス事業を開始。
+  - 1997年4月1日 - PHS各事業者、PHSによる32Kbpsデータ通信サービスを開始。
+  - 1998年12月1日 - NTTパーソナル、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")に営業譲渡。
+  - 1999年1月1日2時 - 携帯電話とともに電話番号11桁化（050-XXX→070-5XXX・060-XXX→070-6XXXへ変更）。
+  - 1999年 - 2000年 - アステル各社が清算され、電力系子会社への事業譲渡が行われる。
+  - 2000年 - アステル、初のオープンインターネットサービス、ドットiのサービス開始。32kbpsによるモバイルデータ通信定額制も一部地方で、次のAIR-EDGE（AirH"）に先行して開始。
+  - 2001年 - DDIポケット、定額制モバイルデータ通信サービス「[AirH"](https://ja.wikipedia.org/wiki/エアーエッジ "wikilink")」開始。同回線の[MVNOも提供も開始](https://ja.wikipedia.org/wiki/仮想移動体通信事業者 "wikilink")（[日本通信](https://ja.wikipedia.org/wiki/日本通信 "wikilink")のb-mobile）
+  - 2002年 - 東京電話アステルが東京通信ネットワークから通信ベンチャーの鷹山（現・[YOZAN](https://ja.wikipedia.org/wiki/YOZAN "wikilink")）に事業譲渡（ブランドもアステル東京に戻る）。アステル九州が新規受付終了、アステルグループの一角の崩壊が始まる。
+  - 2003年 - アステル九州が事業を停止。
+  - 2004年 - アステル北海道・北陸、関西・中国（後2者は音声のみ）が事業を停止。全国ローミングも停止し、アステルグループはこの時点で事実上崩壊。DDIポケット、新会社へ移行されKDDIグループから離脱。
+  - 2005年1月25日 - [アステル沖縄](https://ja.wikipedia.org/wiki/アステル沖縄 "wikilink")、[ウィルコム沖縄](https://ja.wikipedia.org/wiki/ウィルコム沖縄 "wikilink")へ事業譲渡。
+  - 2005年2月2日 - DDIポケットは[ウィルコム](https://ja.wikipedia.org/wiki/ウィルコム "wikilink")へ社名変更。AirH"も[AIR-EDGE](https://ja.wikipedia.org/wiki/AIR-EDGE "wikilink")へ名称変更。
+  - 2005年2月28日 - NTTドコモ、ドコモPHS事業の将来的なサービス停止、及び2005年4月30日に新規受付を終了することを正式発表。
+  - 2005年4月20日 - 鷹山（アステル東京）、新規受付を終了
+  - 2005年5月1日 - ウィルコム・ウィルコム沖縄、[音声通話定額制](https://ja.wikipedia.org/wiki/音声通話定額制 "wikilink")サービス「ウィルコム定額プラン」を開始。
+  - 2005年5月26日 - アステル四国が事業を停止。
+  - 2005年5月27日 - アステル中部が事業を停止。
+  - 2005年7月28日 - アステル東北が新規受付終了。アステルグループの音声PHSサービスは新規受付が全て終了となる。
+  - 2005年10月27日 - [J:COMが](https://ja.wikipedia.org/wiki/ジュピターテレコム "wikilink")2006年3月1日からウィルコムと提携して、[MVNOとしてPHS事業に参入すると発表](https://ja.wikipedia.org/wiki/仮想移動体通信事業者 "wikilink")。
+  - 2005年11月30日 - アステル東京が音声サービスを停止。
+  - 2006年1月31日 - NTTドコモが2007年秋頃にPHSサービス終了予定と発表。
+  - 2006年2月23日 - ウィルコム・ウィルコム沖縄、高度化PHS「[W-OAM](https://ja.wikipedia.org/wiki/W-OAM "wikilink")」を開始。
+  - 2006年6月30日 - アステル東京がテレメトリングサービス・児童見守りサービスを停止。これにより、アステル東京の事業は停止となった。
+  - 2006年12月20日 - アステル東北が事業を停止。アステルグループの音声PHSサービスは全て終了となる。
+  - 2007年2月28日 - [エネルギア・コミュニケーションズ](https://ja.wikipedia.org/wiki/エネルギア・コミュニケーションズ "wikilink")がPHSデータ通信サービス「MEGA EGG 64」のサービス新規受付を終了。
+  - 2007年9月30日 - エネルギア・コミュニケーションズがPHSデータ通信サービス「MEGA EGG 64」のサービスを終了。
+  - 2008年1月7日 - NTTドコモPHSがサービスを終了\[28\]。
+  - 2008年4月 - [NTTコミュニケーションズ](https://ja.wikipedia.org/wiki/NTTコミュニケーションズ "wikilink")が、ウィルコム回線を使い、NTTコミュニケーションズや無料通話先プロバイダの050[IP電話を通話相手とした](https://ja.wikipedia.org/wiki/日本のIP電話 "wikilink")[音声通話定額制](https://ja.wikipedia.org/wiki/音声通話定額制 "wikilink")のモバイルIP電話「.Phoneユビキタス」を法人向けに開始した。
+  - 2010年2月18日 - ウィルコムが会社更生手続開始の申立を決議。東京地方裁判所に[会社更生法](https://ja.wikipedia.org/wiki/会社更生法 "wikilink")適用申立を行う。直ちに同裁判所より保全処分、監督命令兼調査命令等の諸命令の発令を受けた。
+  - 2010年8月31日 - [ケイ・オプティコム](https://ja.wikipedia.org/wiki/ケイ・オプティコム "wikilink")がPHSデータ通信サービス「eo64エア」のサービス新規受付を終了。
+  - 2010年12月1日 - 会社更生手続に基づき、ウィルコムがソフトバンク傘下の事業者としての事業を開始。
+  - 2011年9月30日 - ケイ・オプティコムがPHSデータ通信サービス「eo64エア」のサービスを停波。
+  - 2012年3月1日 - 新制御チャネル発射開始。一部機種は引き続き使用するためのバージョンアップが必要。
+  - 2012年4月30日 - 新制御チャネルに対応していない端末は使用終了となる。
+  - 2012年5月25日 - 旧制御チャネルの停波により制御チャネル移行完了。
+  - 2013年11月1日 - [NTTコミュニケーションズ](https://ja.wikipedia.org/wiki/NTTコミュニケーションズ "wikilink")、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")テレコムおよび[フュージョン・コミュニケーションズが](https://ja.wikipedia.org/wiki/楽天コミュニケーションズ "wikilink")、[NTT東西](https://ja.wikipedia.org/wiki/NTT東西 "wikilink")[加入電話](https://ja.wikipedia.org/wiki/加入電話 "wikilink")からPHSあての選択中継制による[中継電話](https://ja.wikipedia.org/wiki/中継電話 "wikilink")を開始。詳細は[マイライン\#マイライン参加企業と事業者識別番号](https://ja.wikipedia.org/wiki/マイライン#マイライン参加企業と事業者識別番号 "wikilink")を参照。
+  - 2014年
+  - 2014年6月1日 - ウィルコムが[イー・アクセス](https://ja.wikipedia.org/wiki/イー・アクセス "wikilink")に吸収合併され解散、イー・アクセスが存続会社としてPHS事業を継承。
+  - 2014年8月1日 - 7月1日にイー・アクセスが[ワイモバイル](https://ja.wikipedia.org/wiki/ワイモバイル "wikilink")株式会社に社名を変更した上で、同日ウィルコムPHS事業のブランド名を「[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")」（ワイモバイル）に変更した。
+  - 2014年10月1日 - PHSも[番号ポータビリティ](https://ja.wikipedia.org/wiki/番号ポータビリティ "wikilink")の対象になり、PHSから携帯電話に番号ポートアウト可能となった。ただし、他社携帯電話からY\!mobileのPHSへと番号ポートインする場合には、[SMSに対応したPHS端末に限定される](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")（2014年10月時点で4機種\[29\]）。
+  - 2015年4月1日 - ワイモバイルおよび他2社\[30\]がソフトバンクモバイルに吸収合併され解散、ソフトバンクモバイルが存続会社として「Y\!mobile」ブランドのPHS事業を継承。
+  - 2015年7月1日 - ソフトバンクモバイルがソフトバンクに商号変更。
+  - 2018年3月31日 - ソフトバンク・ウィルコム沖縄がPHSの新規契約受付を終了\[31\]\[32\]\[33\]\[34\]。
+
+#### 概略
+
+当初は携帯電話よりも料金が安価な簡易型携帯電話と言う位置付けでサービス販売がなされた。
+
+[Pメール](https://ja.wikipedia.org/wiki/Pメール "wikilink")サービスが日本国内での[SMSの先駆けとして](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")1996年11月20日に開始。[ポケベルの代替として](https://ja.wikipedia.org/wiki/無線呼び出し "wikilink")、また[絵文字](https://ja.wikipedia.org/wiki/絵文字 "wikilink")が使えることもあり、通称「**ピッチ**」として[女子高生](https://ja.wikipedia.org/wiki/女子高生 "wikilink")を中心に一時ヒットした。
+
+それ以降、サービスと料金の面で携帯電話との競争が激化し、PHS側でも弱点だった切れやすい音声通話の改良や、データ通信への特化等が、営業施策として行われる。携帯電話も対抗としてメールサービス等の強化、料金の低廉化が図られた。その中でサービス改善が難しく単に安価な簡易型携帯電話と言うモデルから抜け出せなかった[ドコモPHS](https://ja.wikipedia.org/wiki/ドコモPHS "wikilink")（旧[NTTパーソナル](https://ja.wikipedia.org/wiki/NTTパーソナル "wikilink")グループ）と[アステル](https://ja.wikipedia.org/wiki/アステル "wikilink")グループが相次いでPHSから撤退する。
+
+各社はデータ通信への特化等の営業施策として、通話機能のない通信カード型PHS端末の提供、当時は日本国内初の128kbpsでの通信や、[モバイルデータ通信定額制](https://ja.wikipedia.org/wiki/モバイルデータ通信定額制 "wikilink")などの提供を実施。これにより、後年に[Wi-Fiスポットや](https://ja.wikipedia.org/wiki/公衆無線LAN "wikilink")[モバイルWiMAX](https://ja.wikipedia.org/wiki/モバイルWiMAX "wikilink")等の[無線アクセス](https://ja.wikipedia.org/wiki/無線アクセス "wikilink")手段が普及するまでの期間、ノートパソコンや[PDAに接続して行うモバイル利用を普及](https://ja.wikipedia.org/wiki/携帯情報端末 "wikilink")、促進させた。
+
+さらに、当時日本国内初の[音声通話定額制](https://ja.wikipedia.org/wiki/音声通話定額制 "wikilink")を開始。、通話・通信性能も[高度化PHS](https://ja.wikipedia.org/wiki/高度化PHS "wikilink")（[W-OAM](https://ja.wikipedia.org/wiki/W-OAM "wikilink")）として改善が図られる。普段は携帯電話を利用し、特定の相手との長電話などにPHSを用いる「2台目」の需要を喚起し、音声端末の契約数も復調する。
+
+後年に携帯電話事業者も、[3Gの導入以降](https://ja.wikipedia.org/wiki/第3世代移動通信システム "wikilink")、部分的または完全定額制の料金プランなどを開始し、サービス品質、料金両面で徐々に追随。データ通信分野においても、携帯電話、Wi-FiスポットやモバイルWiMAX等の[無線アクセス](https://ja.wikipedia.org/wiki/無線アクセス "wikilink")手段の普及、データ通信の高速化や一部の定額プランの導入によってそれらの利点は徐々に失われた。
+
+さらに後年になると[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")および[LTE等の](https://ja.wikipedia.org/wiki/Long_Term_Evolution "wikilink")[3.9G](https://ja.wikipedia.org/wiki/第3.9世代移動通信システム "wikilink")/[4G](https://ja.wikipedia.org/wiki/4G "wikilink")携帯電話が普及。高度化PHSでも実効速度256kbps前後であったためデータ通信の分野でも存在意義を失った。スマートフォンでの[Skype](https://ja.wikipedia.org/wiki/Skype "wikilink")や[LINEなどの](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")[インターネット電話](https://ja.wikipedia.org/wiki/インターネット電話 "wikilink")の普及も併せ、PHSは完全にアドバンテージを喪失した。
+
+2018年3月31日をもって全事業者で公衆PHSサービスの新規契約受付を終了した。法人向けテレメトリング以外の、既存契約者へのサービス提供を2020年7月31日で終了する予定を発表した\[35\]\[36\]\[37\]。
+
+#### 創業期
+
+PHSが開始された当初の売りは、[携帯電話](../Page/携帯電話.md "wikilink")が使えない[地下鉄](https://ja.wikipedia.org/wiki/地下鉄 "wikilink")駅や[地下街](https://ja.wikipedia.org/wiki/地下街 "wikilink")でも使え、基本料金や通話料金が安いと言う点である。
+
+1994年に、携帯電話にデジタルホン（現・ソフトバンク）と[ツーカー](https://ja.wikipedia.org/wiki/ツーカー "wikilink")（現・KDDI）が新規参入し、携帯電話間で激しいシェア争いや価格競争が始まったものの、まだ高額だったのに対して、PHSは本体価格・基本料金・市内通話料金が携帯電話に比べて格段に安いことから、初年度の1995年度に総計で150万台に達した。
+
+その後、通話エリアの拡大や本体機能の充実、本体及び新規手数料を無料とした契約促進キャンペーンや[販促用景品やクイズなどの賞品への利用なども頻繁に使われたためにPHS加入者は急激に増加し](https://ja.wikipedia.org/wiki/懸賞 "wikilink")、1996年末に総計600万台を突破する。
+
+当時は携帯電話よりも費用が安価であったため1990年代後半から2000年代初頭までの日本国内の中学・高校生からの需要はそれなりにあり\[38\]、一部のユーザーではポケベルとPHSを併用し、PHSを使ってポケベルにメッセージを送信するという使い方もされた。
+
+利用者から見ると、PHSは料金が安いが、田舎や山間部で利用できない、通話が途切れやすい、高速移動時に通話できない\[39\]、などが携帯電話との当初の違いであった。PHSの黎明期は、料金の安さから（本体価格が無料の物も多かった）特に首都圏で[ポケベル](https://ja.wikipedia.org/wiki/ポケベル "wikilink")からPHSに移行する者も見られ、急速に契約数を伸ばした。
+
+#### 携帯電話との競争激化
+
+しかしサービス開始当時は価格競争による値下げで普及し始めた携帯電話との相互通話が不可能な問題を抱えていたほかに、携帯電話に比べて利用可能なエリアが狭い、通話が途中で切れ易い問題が生じていた。
+
+当初、基地局の設置が急速な契約者数の増大になかなか追いつかず、都市部では繋がるが郊外や地方に行くと繋がらないと言うような地域格差が広がった。都市部であっても、基地局からの電波が届かない場所に移動すると通話が途切れる現象が多発した。これは一部事業者の20mWの小出力基地局が災いしていた面もある。また各事業者で通話エリアの面的拡大が、エリア面内での通話可能エリア高密度化よりも優先されていたこともある。さらにある基地局から他の基地局へと通信を切り替える[ハンドオーバー](https://ja.wikipedia.org/wiki/ハンドオーバー "wikilink")処理の改良が遅れ、これらの通話品質が改善されるまでにかなりの期間を要した。
+
+携帯電話との接続もようやく1996年10月に、接続センターを介する暫定接続の形でPHS・携帯電話間の相互通話が可能になったが、接続センターを介するため、特殊なダイヤル操作が必要で、料金が5.5秒10円プラス1通話あたり20円と高額だった。
+
+料金の安さや手頃感から契約増加が見込まれたものの、1997年始めから携帯電話の本体価格や料金の値下げが急激に進んでPHSとの価格差が縮まり、携帯電話に[ショートメッセージサービス](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")機能が搭載されPHSの優位性は薄れた。しかも当時通話エリアの広さで携帯電話と勝負にならなかったPHSは、解約が相次いだ。結果、PHSの契約数は1997年9月の総計約710万台をピークに以降は減少に転じた。
+
+一方、[病院](https://ja.wikipedia.org/wiki/病院 "wikilink")など医療現場の出力の大きな[携帯電話](../Page/携帯電話.md "wikilink")の電波が使えない場所では、医療用PHSが使われている。かつて医療用[ポケベル](https://ja.wikipedia.org/wiki/ポケベル "wikilink")が使われたが現在はPHSが主流である。医療用は出力160mW（平均出力20mW）以下に限られ、内線専用のものが主流である。
+
+#### 音声通話の改良
+
+各事業者はこれらの問題点への対応策として、1998年のPHS・携帯電話間の直接接続の開始による通話料金の値下げ、基地局の大幅な増設（各事業者とも1 - 2年間で基地局を2 - 3倍に増加）による通話エリアの拡大と高密度化、[ハンドオーバー](https://ja.wikipedia.org/wiki/ハンドオーバー "wikilink")処理の改良\[40\]などを相次いで実施。当時の携帯電話より通話音質が良かった点などをアピールして対抗したものの功を奏せず、契約者数の減少傾向に歯止めは掛からなかった。
+
+結果、PHS各社は黒字転換ができず、旧[NTTパーソナル](https://ja.wikipedia.org/wiki/NTTパーソナル "wikilink")グループはNTTドコモへの事業譲渡、DDIポケットは親会社の[DDIセルラーグループ](https://ja.wikipedia.org/wiki/DDIセルラーグループ "wikilink")（現・[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")、[KDDI](https://ja.wikipedia.org/wiki/KDDI "wikilink")・[沖縄セルラー電話](https://ja.wikipedia.org/wiki/沖縄セルラー電話 "wikilink")）による財務支援を受け、アステル各社は出資元の電力系通信事業者へ吸収されるなどの救済策がとられた\[41\]。
+
+PHSによる当時世界初の移動体電話による[テレビ電話](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")や、[文字電話](https://ja.wikipedia.org/wiki/文字電話 "wikilink")と言う手書き文字による通信端末など、意欲的な試みもなされたが、いずれも普及しなかった。
+
+#### データ通信への特化
+
+音声端末低迷への抜本的な打開策として、高速な通信速度を生かした[データ通信](https://ja.wikipedia.org/wiki/データ通信 "wikilink")を前面に打ち出し、携帯電話（第2世代[PDC](https://ja.wikipedia.org/wiki/PDC "wikilink")式）との差別化を図る方針に切り替えた。
+
+1997年4月、各社が[PIAFS回線交換方式により](https://ja.wikipedia.org/wiki/Personal_Handyphone_System_Internet_Access_Forum_Standard "wikilink")、最大通信速度（理論値）32K[bps](https://ja.wikipedia.org/wiki/ビット毎秒 "wikilink")（実効理論値29.2Kbps）で開始。続いてその後、各社とも64Kbps（PIAFS、実効理論値58.4Kbps）サービスを開始した。
+
+2000年に入り、定額制モバイルデータ通信サービスとして、旧・アステルグループの各サービス（北海道「定額ダイヤルアップ接続サービス」、北陸・四国「ねっとホーダイ」、東北「おトーク・どっと・ネット」、関西「eo64エア」、中国「MEGA EGG 64」）、DDIポケットの「Air H"（現・[AIR-EDGE](https://ja.wikipedia.org/wiki/エアーエッジ "wikilink")）」やNTTドコモの「[@FreeD](https://ja.wikipedia.org/wiki/アットフリード "wikilink")」、などのサービスが各事業者により開始され、モバイル通信分野で利用が増加した。音声端末単体でもインターネット接続可能な端末が、アステルのドットiを皮切りにして、NTTドコモの「ブラウザホン」、DDIポケットの「Air H" フォン（現・[AIR-EDGE PHONE](https://ja.wikipedia.org/wiki/エアーエッジ "wikilink")）」などの登場を見た。
+
+DDIポケットは、他社へのPHS網の再販事業（[仮想移動体通信事業者](https://ja.wikipedia.org/wiki/仮想移動体通信事業者 "wikilink")=MVNO）に乗り出し、[日本通信](https://ja.wikipedia.org/wiki/日本通信 "wikilink")など他社にデータ通信用として自社PHS網を再販した。
+
+それでもなお、音声通話ユーザによる解約を主としたPHS全体契約数の減少には太刀打ちできず、2004年中に契約総数500万台を割ることとなった。
+
+#### 業界動向
+
+2000年代前半は低迷が目立ったが、以前からの[PIAFS](https://ja.wikipedia.org/wiki/PIAFS "wikilink")や[AIR-EDGE](https://ja.wikipedia.org/wiki/AIR-EDGE "wikilink")などの強みであるデータ通信分野を活かし、公衆[無線LAN](https://ja.wikipedia.org/wiki/無線LAN "wikilink")と比べて市中の広いエリアで利用できること、また日本国外でも幾つかの国で「[ラストワンマイル](https://ja.wikipedia.org/wiki/ラストワンマイル "wikilink")を繋ぐ手頃な無線技術」としての強みが注目されることになった。
+
+基地局からの通話可能範囲が狭いことを逆手に取って、端末所持者の高精度な現在位置を確認できるようにした、NTTドコモの「いまどこサービス」、ウィルコム（旧・DDIポケット、現・ソフトバンクの[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")部門）の「位置情報サービス」といった「位置情報確認サービス」の提供や、安価で高速なデータ通信を利用して[自動販売機](https://ja.wikipedia.org/wiki/自動販売機 "wikilink")などの販売機器や監視システムを遠隔管理可能する「テレメトリング（テレメタリング）」など、PHSの安価・小型・簡単なシステムを活用した運用がなされている。
+
+またPHS無線通信部分を切手サイズにまとめたウィルコムの[W-SIM](https://ja.wikipedia.org/wiki/W-SIM "wikilink")により、無線通信技術を持たない会社の新規参入が容易になったため、従来にない多種多様な端末が登場し始めている。*詳細は[W-SIM](https://ja.wikipedia.org/wiki/W-SIM "wikilink")の項目を参照*。
+
+#### 公衆サービスの終了へ
+
+ウィルコムは会社更生法の適用によりソフトバンクの指導下での経営再建を経て、イー・アクセスと経営統合しワイモバイルに改称。ウィルコム沖縄はそのまま存続したが、PHS事業は段階的に縮小し2018年3月31日に契約新規受付を終了、2020年7月末で法人向けテレメトリング以外のサービス提供を終了する予定を発表した\[42\]\[43\]\[44\]。
+
+## 中国におけるPHS
+
+### 電話サービスの内容
+
+[中国ではPHSは](https://ja.wikipedia.org/wiki/中華人民共和国 "wikilink")「**小霊通**」（しょうれいつう / ショオリントン、、、）という中国語名が用いられ\[45\]\[46\]、2006年6月末時点で9300万台と一時は爆発的な普及を見せたが、その後は端末生産台数の急減が報じられ\[47\]、加入者数は頭打ちとなり減少を続けて、2007年9月末には9000万台を割り込んだ\[48\]。安価な音声端末がほとんどで、[電気通信](https://ja.wikipedia.org/wiki/電気通信 "wikilink")会社の「[中国電信](https://ja.wikipedia.org/wiki/中国電信 "wikilink")」および[中国網通](https://ja.wikipedia.org/wiki/中国網通 "wikilink")の事業を譲受した「[中国聯通](https://ja.wikipedia.org/wiki/中国聯通 "wikilink")」が主要PHS事業者としてPHSを固定電話の延長として展開していた。
+
+### 中国における歴史
+
+#### 黎明期
+
+1982年7月1日、上海市で中国で初めてとなる商業化された携帯電話サービスが開始されたが初期の利用者は20人であった\[49\]。一方、小霊通のサービスは1996年に試験が開始され、1999年から本格的に開始された\[50\]。
+
+小霊通のサービスは固定通信事業者の中国電信社の浙江省余杭市電信支局によって実験的に始められた\[51\]。中国電信浙江省余杭市電信支局長の[徐福新](https://ja.wikipedia.org/wiki/徐福新 "wikilink")は、日本のPHSの雑誌記事を見てこの技術を中国の固定通信網に組み合わせることができないか1994年から自主的に研究しており、1996年に中国電信の親会社と信息産業部に申請しないまま余杭市で試験運転を始めた（後に徐福新は「小霊通の父」と呼ばれるようになった）\[52\]。
+
+中国電信社は1999年から業務別の事業改編（一次改組）により移動通信、衛星通信、ページャー事業など数社に分割され、固定通信部門は「中国電信」が事業業務を行うことになっていた\[53\]。しかし、中国電信社ではそれまで主な収入源であった移動通信事業がなくなるため、一部の地方会社が「無線市内電話」や「移動市内電話」と称してデジタル無線電話のPHS用周波数帯域の使用を各地方都市で申請した\[54\]。小霊通のサービスエリアは携帯電話より狭いものの、移動通信の一種を固定通信事業者が事業運営するものであったため、1999年の内部規定に反しているとして2000年5月に浙江省余杭市電信支局に対して信息産業部から小霊通サービスの禁止令が出された\[55\]。しかし6月には信息産業部より「関与規範PHS無線市話建設与経営的通知」が公布され、PHSは固定市内電話システムを補完する低速移動無線システムとしてサービスエリアの限定を条件に制度化された\[56\]。一次改組で中国電信社の収入の約3割を占める移動通信事業を中国移動社として事業化したため、赤字が続く固定通信業務のみでは運営が極めて困難とする中国電信側の苦情に配慮した政策といわれている\[57\]。
+
+2001年からは固定通信事業者の中国網絡通信集団公司も参入した\[58\]。
+
+#### 発展期
+
+中国では携帯電話の利用料金に発信側も受信側も同額を負担する「発着分離課金」制度を実施していたが、小霊通は発信側のみ課金される「発信課金」制度を採用した\[59\]。小霊通サービスが低廉な料金設定を可能にした理由は、基地局への投資費用が携帯電話より著しく小さく、固定通信事業者が事業運営したため基幹通信網の維持費を固定電話利用者にも転化できたことでサービス開始当初から料金を低廉にすることができたからである\[60\]。
+
+小霊通サービスが信息産業部に正式に認められたのは2003年である\[61\]。2003年5月17日には、北京、上海、天津、重慶及び広州で小霊通のサービスが一斉に解禁された\[62\]。2004年末の小霊通利用者数は中国電信集団公司（CHINATELECOM）で4,603万人、中国網絡通信集団公司（CHINANETCOM）で2,201万人であった\[63\]。
+
+中国のPHSは都市単位（日本の県単位くらい）の地域別電話番号が割り振られ、他地域では使えない不便さがあった。しかし、小霊通PIMカードに電話番号を書き込む方式に2005年5月17日に統一され、各都市の電話番号が書き込まれた[PIMカード](https://ja.wikipedia.org/wiki/PIMカード "wikilink")を差し替えることにより、同一端末を他地域でも使えるようになった。これは[PIMカード](https://ja.wikipedia.org/wiki/PIMカード "wikilink")として国際展開されている。中国国外での展開として、[UTStarcom](https://ja.wikipedia.org/wiki/UTStarcom "wikilink")社のベトナムでのIPベースの無線用インフラなどが見られる。
+
+#### サービスの終了
+
+[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")では、1997年にサービスイン。近年は利用者が大幅に減少し、PHSの無線周波数帯を開放する目的で、2013年4月にライセンス免除の撤廃を決定。約3年間は猶予期間で所有と使用が認められたが、2016年5月9日でこの期間が終了するため、冒頭のとおり、2016年5月10日以降は使用および所有が禁止（電波法令違反）となる。[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")でも2015年3月にPHSサービスが終了し停波。[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")は当初2011年にサービス終了する予定であったが\[64\]、「小霊通」ユーザーの反発に会い2014年以降まで延期。2014年12月31日をもってサービス終了した\[65\]。
+
+## その他
+
+  - 端末販売時の[インセンティブモデル](https://ja.wikipedia.org/wiki/インセンティブ_\(携帯電話\) "wikilink")（[縛り](https://ja.wikipedia.org/wiki/縛り_\(携帯電話\) "wikilink")）、[固定電話](https://ja.wikipedia.org/wiki/固定電話 "wikilink")・[公衆電話](https://ja.wikipedia.org/wiki/公衆電話 "wikilink")などへの影響などは[携帯電話](../Page/携帯電話.md "wikilink")の記事も参照のこと。
+  - ウィルコムの一部端末（[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")搭載端末）は、ウィルコム提供による[災害用伝言板サービス](https://ja.wikipedia.org/wiki/災害用伝言板サービス "wikilink")が利用できる。ドコモPHSからは、iモード災害用伝言板のメッセージの登録ができなかった。[アステル](https://ja.wikipedia.org/wiki/アステル "wikilink")グループは災害伝言板サービスが日本国内で普及を見る前に音声事業が終息した。
+  - 平時の混雑する利用場所においても、基地局がマイクロセルであるため、元々[輻輳](https://ja.wikipedia.org/wiki/輻輳 "wikilink")しにくい。加えて、PHS利用者数が比較的少ないので、携帯電話ほどに混雑輻輳の問題が深刻ではない。しかし、災害時や年末年始などには携帯電話と同様に通話規制が行われる。
+  - 端末はスマートフォンを除けば携帯電話事業者のそれに比べると機能的に見劣りするものが多かった。例えば「ワンセグ」受信機能の付いた端末は、スマートフォンを除けば殆ど無く、カメラにオートフォーカス機能のある通常型端末は少数であった。その後、携帯電話事業者でもフィーチャーフォン（ガラケー）の衰退と共にスマートフォンが主流となった。
+  - PHSは[携帯電話番号ポータビリティの対象外であったが](https://ja.wikipedia.org/wiki/番号ポータビリティ "wikilink")、一部のPHS事業者では、PHS事業継承や廃止の際に、存続する他PHS事業者への同番移行サービスが行われ、利用者の便宜が図られたこともあった。のちに2013年11月より、携帯電話にも「070-AXXX」（A≠0・5・6）が割り当てられ、2014年10月より携帯電話・PHS相互間の番号ポータビリティが開始された（詳細は[番号ポータビリティ\#PHS電話番号ポータビリティ](https://ja.wikipedia.org/wiki/番号ポータビリティ#PHS電話番号ポータビリティ "wikilink")を参照） 。
+  - 2004年9月頃から[名古屋市営地下鉄](https://ja.wikipedia.org/wiki/名古屋市営地下鉄 "wikilink")では、[W-CDMA](https://ja.wikipedia.org/wiki/W-CDMA "wikilink")方式のものを除き、[携帯電話](../Page/携帯電話.md "wikilink")各社端末が[プラットホーム](https://ja.wikipedia.org/wiki/プラットホーム "wikilink")で圏外となるような対策が行われた（改札口付近は利用可）。名古屋市交通局は、[総務省](https://ja.wikipedia.org/wiki/総務省 "wikilink")の「電波の医用機器等への影響に関する調査結果」（2002年7月2日）に基づく処置であるとしている。
+  - NTT東日本・NTT西日本が提供する[固定電話](https://ja.wikipedia.org/wiki/固定電話 "wikilink")回線からPHSに発信する場合は、携帯電話に発信する場合と違い、[中継電話](https://ja.wikipedia.org/wiki/中継電話 "wikilink")サービス（相互接続方式による選択中継制）は提供されていなかったが、2013年より[NTTコミュニケーションズ](https://ja.wikipedia.org/wiki/NTTコミュニケーションズ "wikilink")、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")テレコムおよび[フュージョン・コミュニケーションズが提供開始している](https://ja.wikipedia.org/wiki/楽天コミュニケーションズ "wikilink")。詳細は「[マイライン\#マイライン参加企業と事業者識別番号](https://ja.wikipedia.org/wiki/マイライン#マイライン参加企業と事業者識別番号 "wikilink")」参照。
+  - 固定電話や、携帯電話\[66\]の通話時間ごとに課金する料金体系と異なり、PHSは「接続料」として「1通話あたり10円（税抜）」と、[アクセスチャージ](https://ja.wikipedia.org/wiki/アクセスチャージ "wikilink")のうちセットアップ料金を課金する方式が一般的である。携帯電話は全国どこからどこへ掛けても通常は一律料金だが、PHSからPHSへの通話、固定とPHS間の場合は、固定電話同士の場合と同様に、距離・曜日・時間帯に応じた料金設定が一般的である。これらは、一般[加入電話](https://ja.wikipedia.org/wiki/加入電話 "wikilink")や[ひかり電話](https://ja.wikipedia.org/wiki/ひかり電話 "wikilink")からPHS宛に掛ける場合も同様である\[67\]。
+      - ウィルコムは同事業者間PHSの通話を無料とした「[ウィルコム定額プラン](https://ja.wikipedia.org/wiki/ウィルコム定額プラン "wikilink")」開始以後に設定された料金プランは、接続料の設定はなく、全国一律の料金設定である。
+      - 前述の2013年に開始したNTT東西加入電話からPHSあての選択中継制による中継電話は、全国一律の料金設定や、接続料の設定がない事業者もある\[68\] 。
+
+## PHS端末開発メーカー
+
+  - 現行メーカー
+      - [京セラ](https://ja.wikipedia.org/wiki/京セラ "wikilink")
+      - [日本無線](https://ja.wikipedia.org/wiki/日本無線 "wikilink")
+      - [ネットインデックス](https://ja.wikipedia.org/wiki/ネットインデックス "wikilink")（旧・本多エレクトロン、現・ネクス）
+      - セイコーソリューションズ（旧・[セイコーインスツル](https://ja.wikipedia.org/wiki/セイコーインスツル "wikilink")）
+      - [NECプラットフォームズ](https://ja.wikipedia.org/wiki/NECプラットフォームズ "wikilink")（旧・日通工→NECインフロンティア）
+      - [エイビット](https://ja.wikipedia.org/wiki/エイビット "wikilink")
+      - [ユーティースターコムジャパン](https://ja.wikipedia.org/wiki/ユーティースターコムジャパン "wikilink")
+      - [中興通訊](https://ja.wikipedia.org/wiki/中興通訊 "wikilink")
+      - [インベンテック・アプライアンシズ](https://ja.wikipedia.org/wiki/英華達#英華達 "wikilink")
+      - [WNC](https://ja.wikipedia.org/wiki/Wistron_NeWeb "wikilink")
+      - [日立製作所](https://ja.wikipedia.org/wiki/日立製作所 "wikilink")（旧・日立コミュニケーションテクノロジー）
+      - [OKI](https://ja.wikipedia.org/wiki/沖電気工業 "wikilink")
+      - [岩崎通信機](https://ja.wikipedia.org/wiki/岩崎通信機 "wikilink")
+      - [パナソニック システムネットワークス](https://ja.wikipedia.org/wiki/パナソニック_システムネットワークス "wikilink")
+      - [大井電気](https://ja.wikipedia.org/wiki/大井電気 "wikilink")
+      - [アイホン](https://ja.wikipedia.org/wiki/アイホン "wikilink")（業務用のみ製造）
+  - WILLCOM SIM STYLEメーカー
+      - [シャープ](../Page/シャープ.md "wikilink")
+      - [バンダイ](https://ja.wikipedia.org/wiki/バンダイ "wikilink")
+      - [ハギワラシスコム](https://ja.wikipedia.org/wiki/ハギワラシスコム "wikilink")
+      - [パナソニック コミュニケーションズ](https://ja.wikipedia.org/wiki/パナソニック_コミュニケーションズ "wikilink")（現・パナソニック システムネットワークス）
+      - [バッファロー](https://ja.wikipedia.org/wiki/バッファロー "wikilink")
+  - 過去にPHS端末を製造したメーカー
+      - [ソニー](https://ja.wikipedia.org/wiki/ソニー "wikilink")
+      - [ユニデン](https://ja.wikipedia.org/wiki/ユニデン "wikilink")
+      - [モトローラ](https://ja.wikipedia.org/wiki/モトローラ "wikilink")
+      - [カシオ計算機](https://ja.wikipedia.org/wiki/カシオ計算機 "wikilink")
+      - [日立製作所](https://ja.wikipedia.org/wiki/日立製作所 "wikilink")
+      - [三菱電機](https://ja.wikipedia.org/wiki/三菱電機 "wikilink")
+      - [デンソー](https://ja.wikipedia.org/wiki/デンソー "wikilink")（旧・日本電装）
+      - [日本アイビーエム](https://ja.wikipedia.org/wiki/IBM "wikilink")
+      - [ミヨシ電子](https://ja.wikipedia.org/wiki/ミヨシ電子 "wikilink")
+      - [TDK](https://ja.wikipedia.org/wiki/TDK "wikilink")
+      - [アイワ](https://ja.wikipedia.org/wiki/アイワ "wikilink")\[69\]
+      - [ケンウッド](https://ja.wikipedia.org/wiki/ケンウッド "wikilink")
+      - [日本ビクター](https://ja.wikipedia.org/wiki/日本ビクター "wikilink")
+      - [エプソン](https://ja.wikipedia.org/wiki/セイコーエプソン "wikilink")
+      - 鳥取三洋電機（現・[三洋電機コンシューマエレクトロニクス](https://ja.wikipedia.org/wiki/三洋電機コンシューマエレクトロニクス "wikilink")）
+      - [日本電気](https://ja.wikipedia.org/wiki/日本電気 "wikilink")
+      - 松下通信工業（現・[パナソニック モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/パナソニック_モバイルコミュニケーションズ "wikilink")）
+      - 九州松下電器（現・パナソニック システムネットワークス）
+      - [テクノソーシング](https://ja.wikipedia.org/wiki/テクノソーシング "wikilink")
+      - [アスモ](https://ja.wikipedia.org/wiki/アスモ_\(通信機器メーカー\) "wikilink")（旧・ケーイーエス）
+      - [三洋電機](https://ja.wikipedia.org/wiki/三洋電機 "wikilink")
+      - [東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")\[70\]
+      - [アルテル](https://ja.wikipedia.org/wiki/アルテル "wikilink")\[71\]
+      - [富士通](../Page/富士通.md "wikilink")\[72\]
+
+## PHS基地局開発メーカー
+
+  - [エヌテクス](https://ja.wikipedia.org/wiki/エヌテクス "wikilink")（現・NECプラットフォームズ）
+  - [大井電気](https://ja.wikipedia.org/wiki/大井電気 "wikilink")
+  - [沖電気工業](https://ja.wikipedia.org/wiki/沖電気工業 "wikilink")
+  - 九州松下電器（現・パナソニック システムネットワークス）
+  - 京セラ
+  - 三洋電機
+  - [住友電気工業](https://ja.wikipedia.org/wiki/住友電気工業 "wikilink")
+  - ダイヘン
+  - デンソー
+  - 東芝
+  - 日本電気
+  - 日立製作所
+  - 富士通
+  - 松下通信工業（現・パナソニック モバイルコミュニケーションズ）
+  - 松下電工（現・[パナソニック電工](https://ja.wikipedia.org/wiki/パナソニック電工 "wikilink")）
+  - 三菱電機
+  - 明星電気
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")
+  - [高度化PHS](https://ja.wikipedia.org/wiki/高度化PHS "wikilink")
+  - [移動体通信](https://ja.wikipedia.org/wiki/移動体通信 "wikilink") - [技術](https://ja.wikipedia.org/wiki/技術 "wikilink")・方式間比較・[電話網](https://ja.wikipedia.org/wiki/電話網 "wikilink")構成・課金方式など
+  - [携帯電話](../Page/携帯電話.md "wikilink") - 社会への影響など
+  - [携帯機器](https://ja.wikipedia.org/wiki/携帯機器 "wikilink") - いわゆる電子ガジェットとしての携帯端末の多機能化など
+  - [ディジタル変調](https://ja.wikipedia.org/wiki/ディジタル変調 "wikilink") - [変調方式](https://ja.wikipedia.org/wiki/変調方式 "wikilink")など
+  - [マルチチャネルアクセス無線](https://ja.wikipedia.org/wiki/マルチチャネルアクセス無線 "wikilink") - チャネルアクセス制御方式など
+  - [DECT](https://ja.wikipedia.org/wiki/DECT "wikilink") - [ヨーロッパ](../Page/ヨーロッパ.md "wikilink")等における類似規格。日本では、[固定電話](https://ja.wikipedia.org/wiki/固定電話 "wikilink")用の[コードレス電話](https://ja.wikipedia.org/wiki/コードレス電話 "wikilink")機の通信規格として採用されている。
+  - [通信機能抑止装置](https://ja.wikipedia.org/wiki/通信機能抑止装置 "wikilink") - [劇場](https://ja.wikipedia.org/wiki/劇場 "wikilink")等の着信音防止。[振り込め詐欺](https://ja.wikipedia.org/wiki/振り込め詐欺 "wikilink")被害防止。
+  - [ND16問題](https://ja.wikipedia.org/wiki/ND16問題 "wikilink") - PHS/[DECT](https://ja.wikipedia.org/wiki/DECT "wikilink")コードレス親機の電波と、東経110度CSデジタル放送の特定チャンネルが干渉する問題。
+
+## 外部リンク
+
+  - [ARIB RCR STD-28 第二世代コードレス電話システム](http://www.arib.or.jp/tyosakenkyu/kikaku_tushin/tsushin_std-028.html)
+  - [XGP FORUM](http://www.xgpforum.com/)
+
+[Category:携帯電話](https://ja.wikipedia.org/wiki/Category:携帯電話 "wikilink") [Category:携帯電話_(PHS)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(PHS\) "wikilink") [Category:携帯電話の通信規格](https://ja.wikipedia.org/wiki/Category:携帯電話の通信規格 "wikilink") [Category:モバイルネットワーク](https://ja.wikipedia.org/wiki/Category:モバイルネットワーク "wikilink")
+
+1.  通商産業省機械情報産業局 監修、データベース振興センター 編『データベース白書 1999』データベース振興センター、1999年、434頁
+2.  ベトナムは、2010年11月30日にVNPTのサービス自体が停波・事業終了となるため、ローミング申し込みが同年10月30日をもって、ローミングサービスそのものは11月30日をもってにそれぞれ終了となる。
+3.  基本的に、公衆サービス以外の自営用PHS端末（[コードレス電話](https://ja.wikipedia.org/wiki/コードレス電話 "wikilink")の1種に該当）については、公衆PHS事業者の動向の影響は及ばない。つまり、自営用端末は、総務省により「免許を要しない無線局」としての認可が廃止されるまでは利用可能である。
+4.
+5.
+6.
+7.  ただし公衆サービスの終了とは**無関係に**、[コードレス電話](https://ja.wikipedia.org/wiki/コードレス電話 "wikilink")に関してはその技術基準の改正により、2005年11月30日までに技術基準適合証明を受けた小電力コードレス電話とデジタルコードレス電話は、**技適マークがあっても2022年12月1日以降は使用できない（電波法違反）**。PHS端末（自営モード）や自営PHS親機、アナログコードレス電話、その他PHS方式によるビジネスホン親機や集合装置などの一部が使用不可となる。（平成17年総務省令第119号改正の無線設備規則の改正附則第5条第1項による。平成17年12月1日施行）
+8.
+9.
+10.
+11.
+12. なお、[3.9G携帯電話においてはこの程度のサイズは](https://ja.wikipedia.org/wiki/第3.9世代移動通信システム "wikilink")「[フェムトセル](https://ja.wikipedia.org/wiki/フェムトセル "wikilink")」と呼ばれている。
+13. [PHSの歴史＜携帯電話の歴史＜歴史＜木暮仁](http://www.kogures.com/hitoshi/history/keitai-phs/index.html)、木暮仁：「経営と情報」に関する教材と意見
+14.
+15. ただし前述のとおり2020年7月31日をもって公衆PHSサービスはほぼ終息予定である。
+16.
+17. [2](http://www.soumu.go.jp/s-news/2003/031226_8.html) [3](http://www.soumu.go.jp/s-news/2004/040319_3.html) [4](http://www.soumu.go.jp/s-news/2004/040528_3.html)（総務省リンク）
+18. [WILLCOM |制御チャネル移行に伴う重要なお知らせ](http://www.willcom-inc.com/ja/cch/index.html) 2011年3月1日（2012年4月29日閲覧）
+19. [「eo64エア」のサービス提供終了について](http://www.k-opti.com/press/2010/press28.html) ケイ・オプティコム、2010年10月19日（2011年6月23日閲覧）
+20. [1998年11月20日付けの、「PHS」への呼称変更の旧郵政省のニュースリリース](http://www.soumu.go.jp/joho_tsusin/pressrelease/japanese/denki/981120j606.html)
+    セルホン、モバイルホンとも言われている。
+21.
+22. 東京都道路交通規則第8条第4項
+23.
+24.
+25.
+26.
+27.  お知らせ {{\!}} NTTドコモ|accessdate=2018-10-18|website=www.nttdocomo.co.jp|language=ja}}
+28.
+29. 法人向けの301JRを含めれば5機種（ただし、2015年3月時点ではアップデート対応待ちで、この時点での移行はできない）。
+30. [ソフトバンクBB](https://ja.wikipedia.org/wiki/ソフトバンクBB "wikilink")、[ソフトバンクテレコム](https://ja.wikipedia.org/wiki/ソフトバンクテレコム "wikilink")
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38. 2000年代の初頭まで日本国内においては携帯電話の購入費と使用料金が高く、各社とも現在のように様々な料金プランも無かったため、中学・高校生がおいそれと携帯電話を所有できる状況では無かった。また、出費が多額であるため携帯電話を持たせない親も当時は多数存在した。
+39. 後に[W-OAM](https://ja.wikipedia.org/wiki/W-OAM "wikilink")のBPSK通信によりある程度改善された。
+40. ハンドオーバー処理高速化などの改良。また当初は[電話交換局を跨ぐハンドオーバーができなかったが](https://ja.wikipedia.org/wiki/電話交換機 "wikilink")、1999年2月頃に各事業者とも対応した。
+41. なお関東地方は電力系と無関係な企業（[YOZAN](https://ja.wikipedia.org/wiki/YOZAN "wikilink")）へ再売却された。
+42.
+43.
+44.
+45.
+46. PHS自体の正式名称は「個人手持式電話系統」（、）もしくは「個人電話存取系統」（、）である。
+47. [小霊通の生産台数が激減、2月の減少幅は32%](http://news.searchina.ne.jp/disp.cgi?y=2006&d=0417&f=it_0417_001.shtml) 中国情報局
+    [小霊通の生産台数35%減、3年後に撤退との噂も](http://news.searchina.ne.jp/disp.cgi?y=2005&d=0829&f=it_0829_002.shtml) 中国情報局
+48. [小霊通契約数8958.3万件、単月で最大の減少に](http://news.searchina.ne.jp/disp.cgi?y=2007&d=0927&f=it_0927_003.shtml)
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64. [5](https://internetcom.jp/amp/allnet/20090209/27.html)
+65.
+66. ごく初期を除く。
+67.
+68. [その他の通信料](http://www.ymobile.jp/plan/others/tld/charge/index.html)ソフトバンク株式会社Y\!mobile部門（2016年5月1日閲覧）
+69. 初代法人は2002年にソニーに吸収合併されている。
+70. 現在は、富士通東芝モバイルコミュニケーションズ（現・[富士通モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/富士通モバイルコミュニケーションズ "wikilink")）へ、当該事業を譲渡しており、東芝は撤退している。
+71. 販売・サポート業務のみを手がけており、開発・製造自体は[エイビット](https://ja.wikipedia.org/wiki/エイビット "wikilink")が担当していた。現在は、販売・サポート業務もエイビットが手がけているため、企業としてのアルテル自体はPHS関連から撤退している。
+72. 2016年2月より、同月に設立された[富士通コネクテッドテクノロジーズ](https://ja.wikipedia.org/wiki/富士通コネクテッドテクノロジーズ "wikilink")へ[吸収分割](https://ja.wikipedia.org/wiki/吸収分割 "wikilink")により、当該事業を譲渡。

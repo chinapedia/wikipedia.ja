@@ -1,0 +1,84 @@
+> この記事は[Live5](https://ja.wikipedia.org/wiki/Live5)から翻訳されています。
+
+
+『**Live5**』（ライヴ・ファイブ）は、[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[KBS京都テレビで平日夕方に放送されていた](../Page/京都放送.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")・[報道番組](../Page/報道番組.md "wikilink")。全1028回。
+
+## 概要
+
+それまで21時台に放送されていた『[ニュースきっちん](https://ja.wikipedia.org/wiki/ニュースきっちん "wikilink")』と14時台に放送されていた『[京都新聞きらり夕刊](https://ja.wikipedia.org/wiki/京都新聞きらり夕刊 "wikilink")』が夕方枠へ移動し、これらが統合されたことによって誕生した番組である。
+
+2006年3月までは放送枠が1時間近くあり、番組は[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")内の旬の情報と観光情報を毎日[中継で伝えていた](https://ja.wikipedia.org/wiki/中継放送 "wikilink")。また、中継先の募集もしていた。ほかにも話題の人物をゲストに招いたり、夕方の番組であることから料理コーナーを設けたりと、情報番組色の強い企画を中心に据えていた。
+
+2006年4月に放送枠が縮小してからは、京都府内および[滋賀県](../Page/滋賀県.md "wikilink")内のニュースとニュース関連のコーナーが中心になり、情報番組色は薄まっていった。しかしながら、その後も地域情報を伝え続けていたためか、番組公式サイトでは最後まで「フレッシュで家庭的な情報番組」を標榜していた（本項最下段の外部リンク参照）。
+
+番組の終了後、再度情報番組色を強めた後継番組『[京プラス](https://ja.wikipedia.org/wiki/京プラス "wikilink")』がスタートした。
+
+## 放送時間
+
+  - 月曜 - 金曜 17:00 - 17:50 （2003年3月31日 - 2003年10月1日）
+  - 月曜 - 金曜 16:56 - 17:50 （2003年10月2日 - 2006年3月31日） - [京都府議会](https://ja.wikipedia.org/wiki/京都府議会 "wikilink")や[京都市](../Page/京都市.md "wikilink")議会の中継がある日には17:00から放送。
+  - 月曜 - 金曜 17:00 - 17:30 （2006年4月3日 - 2006年9月） - 『きらり夕刊』を分離。
+  - 月曜 - 金曜 17:00 - 17:35 （2006年10月 - 2007年3月） - 『きらり夕刊』を再内包。
+
+## 出演者
+
+### キャスター
+
+  - [竹内弘一](https://ja.wikipedia.org/wiki/竹内弘一 "wikilink")（KBSアナウンサー）
+  - [堀川節子](https://ja.wikipedia.org/wiki/堀川節子 "wikilink")（KBSアナウンサー） - 2005年3月まで出演。
+
+### スタジオ担当
+
+  - [平野智美](https://ja.wikipedia.org/wiki/平野智美 "wikilink")（KBSアナウンサー） - 2005年4月から出演。同年3月までは中継担当。
+
+### 中継担当
+
+  - 平野智美（KBSアナウンサー） - 2005年3月まで出演。同年4月からはスタジオ担当。
+  - [平野明子](https://ja.wikipedia.org/wiki/マコーマック明子 "wikilink")（フリーアナウンサー） - 2005年4月から2006年3月まで出演。月曜 - 木曜担当。
+  - [伴真理子](https://ja.wikipedia.org/wiki/伴真理子 "wikilink") - 2005年4月から2006年3月まで出演。金曜担当。
+
+### 「cook de トントン」担当
+
+  - [岩崎心平](https://ja.wikipedia.org/wiki/岩崎心平 "wikilink")（当時KBSアナウンサー） - 2005年3月まで出演。
+  - [内谷佐和子](https://ja.wikipedia.org/wiki/内谷佐和子 "wikilink") - 2005年4月から2006年3月まで隔週出演。
+  - [池田淳子](https://ja.wikipedia.org/wiki/池田淳子 "wikilink") - 2005年4月から2006年3月まで隔週出演。
+
+### 天気予報担当
+
+  - [小原由美子](https://ja.wikipedia.org/wiki/小原由美子 "wikilink")（気象予報士） - 金曜担当。月曜 - 木曜にはスタジオ担当者が天気予報を伝えていた。
+
+### その他の出演者
+
+このほか、日替わりのコメンテーターとゲストも出演していた。
+
+## 主なコーナー
+
+  - 中継 - 京都府内のみならず、KBS京都受信可能エリアであればどこにでも[中継車](https://ja.wikipedia.org/wiki/中継車 "wikilink")を向かわせていた。[福井県](../Page/福井県.md "wikilink")[敦賀市](https://ja.wikipedia.org/wiki/敦賀市 "wikilink")からの生中継を行ったこともある。2006年3月までは毎日実施していたが、同年4月以降は定期的な中継を行わなくなり、それに伴って中継リポーターもいなくなった。
+  - cook de トントン - 夕食にもう一品加えたい料理のレシピを紹介していたコーナー。2006年3月まで実施。
+  - 光で結ぶあの街この町 - [光ファイバー](https://ja.wikipedia.org/wiki/光ファイバー "wikilink")ネットワーク「京都デジタル疏水ネットワーク」を使った中継映像を見ながら府内各地の住民たちと対話するコーナー。
+  - 平野目線
+  - ペット特派員
+  - [京都新聞きらり夕刊](https://ja.wikipedia.org/wiki/京都新聞きらり夕刊 "wikilink")
+  - 京の残像
+
+<!-- end list -->
+
+  - [茂山千三郎](https://ja.wikipedia.org/wiki/茂山千三郎 "wikilink")の気になるニュース（月曜）
+  - 梅山克啓公認会計士のビジネスニュース（火曜）
+  - ゴリラ博士の人間トピックス（水曜）
+  - 山崎弁護士のリーガルニュース（木曜）
+  - 面白漢字塾（木曜）
+  - 気象予報士・小原由美子のお天気（金曜）
+
+## 関連項目
+
+  - [京都新聞ニュース](https://ja.wikipedia.org/wiki/京都新聞ニュース "wikilink")
+  - [ニュースきっちん](https://ja.wikipedia.org/wiki/ニュースきっちん "wikilink")
+  - [京都新聞きらり夕刊](https://ja.wikipedia.org/wiki/京都新聞きらり夕刊 "wikilink")
+  - [夕刊NEWSワイド](https://ja.wikipedia.org/wiki/夕刊NEWSワイド "wikilink")
+
+## 外部リンク
+
+  - [Live5](http://web.archive.org/web/20060427081658/http://www.kbs-kyoto.jp/tv/live5/) - KBS京都（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
+
+[Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:KBS京都のテレビ帯番組](https://ja.wikipedia.org/wiki/Category:KBS京都のテレビ帯番組 "wikilink") [Category:近畿地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビの情報・ワイドショー番組 "wikilink") [Category:近畿地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのニュース・報道番組の歴史 "wikilink")

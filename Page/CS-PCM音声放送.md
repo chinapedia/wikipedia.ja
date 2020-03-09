@@ -1,0 +1,41 @@
+> この記事は[CS-PCM](https://ja.wikipedia.org/wiki/CS-PCM)から翻訳されています。
+
+
+**CS-PCM音声放送**は、かつて[通信衛星](../Page/通信衛星.md "wikilink")を使用して放送されていた[デジタル音声放送のことであり](https://ja.wikipedia.org/wiki/デジタルラジオ "wikilink")、衛星デジタルラジオの一種であった。
+
+## 概要
+
+1992年6月に放送開始。開始当初は、2衛星6社、各局3チャンネルの合計18チャンネルで放送されていた。チューナは放送開始と同時期に[NECホームエレクトロニクスより発売されたNE](../Page/日本電気ホームエレクトロニクス.md "wikilink")-PCM9000が18万円であった。日本においては最終的に、[ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink")で10チャンネルを使用して放送が行われていたが、2011年7月31日をもって放送を終了した。音声の[サンプリング周波数](../Page/サンプリング周波数.md "wikilink")は、48kHz、または、32kHzである。[スクランブル](https://ja.wikipedia.org/wiki/スクランブル "wikilink")方式は[コアテック](https://ja.wikipedia.org/wiki/コアテック "wikilink")方式であった。
+
+## 再編から終焉に至るまで
+
+  - バブル経済崩壊不況による売り上げ低迷や加入数自体の低迷があったことから、1年後の1993年6月にPCMジャパン及びPCMセントラルが廃局したのを機に、他事業者が相次いで合併し1996年10月にはミュージックバードのみとなってしまう。
+  - そのミュージックバードも2011年7月31日をもって、PCM音声放送の終了が発表されて、その後予定通り放送は終了された。理由は暗号用チップの生産終了にともなうチューナー追加生産不能と委託先（財団法人放送セキュリティーセンター）の暗号化業務終了のためである<ref>[PCM放送サービス終了のお知らせ](http://www.musicbird.jp/20100802.html)
+
+「株式会社ミュージックバード」2010年8月</ref>。これにより全てのCS-PCM音声放送が消滅した。奇しくも日本での[アナログBS放送終了と同時期である](https://ja.wikipedia.org/wiki/日本における衛星放送#BS放送 "wikilink")。（ミュージックバードは現在、SPACE DiVAにて放送を継続中。）
+
+## 沿革
+
+  - 1992年6月〜 [委託放送事業者](../Page/委託放送事業者.md "wikilink")6社が順次3チャンネルずつの本放送を開始。
+
+| 会社名                                                                 | 愛称            | 使用衛星     | 使用チャンネル番号 | 放送開始年月日                                                      | 備考                                                                                              |
+| ------------------------------------------------------------------- | ------------- | -------- | --------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| 株式会社ピーシーエムジャパン                                                      | SOUND AIR P.J | スーパーバードB | S-10      | [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")6月15日 | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")                                                        |
+| 株式会社ピーシーエムジパングコミュニケーションズ                                            | PCM-ZIPANG    | JC-SAT2  | J-6       | 1992年6月18日                                                   | [TBS系](https://ja.wikipedia.org/wiki/東京放送ホールディングス "wikilink")                                   |
+| 株式会社[ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink") | MUSIC BIRD    | JC-SAT2  | J-8       | 1992年8月3日                                                    | [TOKYO FM系](../Page/エフエム東京.md "wikilink")                                                       |
+| 株式会社サテライトミュージック                                                     |               | JC-SAT2  | J-8       | 1992年8月3日                                                    | [大映](../Page/大映.md "wikilink")（現・[角川映画](https://ja.wikipedia.org/wiki/角川映画_\(企業\) "wikilink")）系 |
+| ニッポンミュージックコングレス株式会社                                                 | RADIO SKY     | JC-SAT2  | J-6       | 1992年8月18日                                                   | [日本ヘラルド映画](https://ja.wikipedia.org/wiki/角川ヘラルド・ピクチャーズ "wikilink")（現・角川映画）系                     |
+| ピーシーエムセントラル株式会社                                                     | PCMセントラル      | スーパーバードB | S-10      | 1992年9月1日                                                    | [中部日本放送](../Page/中部日本放送.md "wikilink")系                                                         |
+
+  - 1993年6月4日　PCMジャパン、PCMセントラルが放送終了、7月1日付で事業廃止。スーパーバードBでの放送が消滅。
+  - 1994年10月1日　PCMジパングコミュニケーションズとニッポンミュージックコングレスが合併、株式会社ジパングアンドスカイコミュニケーションズ（PCM Z-SKY）として開局。
+  - 1995年7月1日　サテライトミュージックがミュージックバードに吸収合併。
+  - 1996年10月1日　ジパングアンドスカイコミュニケーションズがミュージックバードに吸収合併。
+  - 2002年6月1日　ミュージックバード、PCM音声放送につき電気通信役務利用放送事業へ移行。
+  - 2011年7月31日　ミュージックバード、PCM音声放送を停止。同日で日本でのPCM音声放送は全て消滅した。
+
+（使用衛星は2002年6月からJC-SAT2A）
+
+## 脚注
+
+[Category:日本の衛星ラジオ放送](https://ja.wikipedia.org/wiki/Category:日本の衛星ラジオ放送 "wikilink") [Category:デジタルラジオ](https://ja.wikipedia.org/wiki/Category:デジタルラジオ "wikilink") [Category:日本テレビの歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの歴史 "wikilink") [Category:TBSの歴史](https://ja.wikipedia.org/wiki/Category:TBSの歴史 "wikilink") [Category:TOKYO_FMの歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの歴史 "wikilink") [Category:KADOKAWAの歴史](https://ja.wikipedia.org/wiki/Category:KADOKAWAの歴史 "wikilink") [Category:中部日本放送の歴史](https://ja.wikipedia.org/wiki/Category:中部日本放送の歴史 "wikilink")

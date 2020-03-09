@@ -1,0 +1,230 @@
+> この記事は[FMR](https://ja.wikipedia.org/wiki/FMR)から翻訳されています。
+
+
+**FMRシリーズ**（エフエムアールシリーズ） は、[富士通](../Page/富士通.md "wikilink")が販売していた独自仕様のビジネス向け[パーソナルコンピューター](https://ja.wikipedia.org/wiki/パーソナルコンピューター "wikilink")（パソコン）のシリーズ名である。
+
+## 概要
+
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")2月に発売開始。
+
+同社が販売していた[FM-16β](https://ja.wikipedia.org/wiki/FM-16β "wikilink")の後継機にあたり、富士通のビジネス向けパソコンの主力を担った。
+
+複数のパーテーションへ異なるOSをインストールでき、マルチブートも可能であり、又、SCSI接続したHDD間の任意のパーテーションの複製を簡単に行う事ができた。
+
+[1993年](../Page/1993年.md "wikilink")に[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")を採用した[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")、[FMV](https://ja.wikipedia.org/wiki/FMV "wikilink")シリーズが登場してラインナップの縮小が始まり、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[Windows95が出るまで](https://ja.wikipedia.org/wiki/Microsoft_Windows_95 "wikilink")（最終機種は1998年4月発売の[FMR-280A4/L4・FMR-250L4](http://www.fmworld.net/biz/fmv/product/former/rdt9804/index.html)）販売された。
+
+[アーキテクチャはFM](../Page/コンピュータ・アーキテクチャ.md "wikilink")-16βから引き続き[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")系[CPU](https://ja.wikipedia.org/wiki/CPU "wikilink")を採用し、[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")（OS）は[MS-DOS](https://ja.wikipedia.org/wiki/MS-DOS "wikilink")系を標準採用。MS-DOSのメモリ空間は他機種の640KBより若干多い768KBを連続して確保できた（前機種FM-16βは当初[CP/M-86](https://ja.wikipedia.org/wiki/CP/M-86 "wikilink")を標準OSとしたため、ソフトウェアの品揃えに恵まれなかった。その後[MS-DOS](https://ja.wikipedia.org/wiki/MS-DOS "wikilink")も発売されている）。
+
+他に[OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")、[Microsoft Windows 3.xなどが動作した](https://ja.wikipedia.org/wiki/Microsoft_Windows_3.x "wikilink")（FMR-280には[Windows95も移植された](https://ja.wikipedia.org/wiki/Microsoft_Windows_95 "wikilink")）。
+
+同社の[ワープロ専用機](https://ja.wikipedia.org/wiki/ワープロ専用機 "wikilink")、[OASYS](../Page/OASYS.md "wikilink")シリーズで実績のあるかな漢字変換機能「[OAK](https://ja.wikipedia.org/wiki/OAK "wikilink")」を全シリーズで採用。ソフトウェア開発支援を行うなどラインナップの充実を図り、ビジネス向けの国産[16ビット](https://ja.wikipedia.org/wiki/16ビット "wikilink")パソコンとしては健闘した。最終的に[日本電気](https://ja.wikipedia.org/wiki/日本電気 "wikilink") (NEC) の[PC-9800シリーズ](https://ja.wikipedia.org/wiki/PC-9800シリーズ "wikilink")の地位を揺るがすほどではなかったものの、「イコールNEC」のイメージが強い日本の官公庁、特に国公立の教育機関に一定のシェアを確保していた（教育市場向けのモデルも発売されていた）。また同社大型[汎用機や](https://ja.wikipedia.org/wiki/メインフレーム "wikilink")[スーパーコンピュータ](https://ja.wikipedia.org/wiki/スーパーコンピュータ "wikilink")の端末（F6680互換エミュレータ端末）としてかなりの数が納品された。また、今は無き[チケットセゾン](https://ja.wikipedia.org/wiki/チケットセゾン "wikilink")では店頭設置端末として使われていた。その他の使用例として、全銀協プロトコル対応のファームバンキング端末や[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")の開発機としても使用されていた。
+
+[松下電器の](https://ja.wikipedia.org/wiki/パナソニック "wikilink")[Panacom](https://ja.wikipedia.org/wiki/Panacom "wikilink") Mシリーズは本機の[OEM](https://ja.wikipedia.org/wiki/OEM "wikilink")。
+
+## シリーズ
+
+各シリーズ間の互換性はハードウェアではなくOSの[システムコール](https://ja.wikipedia.org/wiki/システムコール "wikilink")(FBIOS)によって吸収できるようになっていた。一部機種については松下電器(現パナソニック)へOEMされた。
+
+### FMR-30系
+
+液晶ディスプレイ一体型の省スペースデスクトップの系列。
+
+640×400ドット モノクロ2階調の表示性能を基本とする。
+
+FMR-30BX以降はキーボードの一体化収納が可能な構造となり、キャリングハンドル(移動用の取っ手)が付いていたが、デスクからデスクへの移動といった目的のためのものでありバッテリー駆動が可能な機種は存在しない。
+
+#### 機種
+
+  - FMR-30FD/HD
+  - FMR-50FD/HD、FMR-60FD/HDと同時に発表されたFMR-30系の最初の機種グループ。
+      - 逆T字型の液晶一体型の筐体にワイヤレスキーボードという独特なスタイルで登場した。
+      - 本体にタッチパネル機能を持ったサブディスプレイを内蔵可能(オプション)。
+      - CPUは8086のCMOS版である80C86。
+  - 逆T字型の筐体は斬新ではあったが、キーボードを含めると設置面積の点であまり省スペースとは言えず、次モデル以降は箱形の筐体となった。
+  - FMR-30BX
+      - 筐体は、液晶前面部にキーボードを収納可能な「トランスポータブル」と呼ばれる箱形。
+      - FMR-30FD/HDで逆T字形の土台部にあったサブディスプレイ搭載機能は廃止された。
+      - FDDモデルのみで、ハードディスクの内蔵は不可能。
+      - CPUはFMR-30FD/HD同様、80C86。
+  - FMR-30HX
+      - FMR-30BXと同様のキーボード収納可能な箱形の筐体で、本体上部にカラー熱転写プリンタ(FMPR-204W)を一体化して搭載することが可能。
+      - ハードディスクの内蔵が不可能であったFMR-30BXに対して、本モデルはハードディスク内蔵モデルのみのラインナップとなった。
+      - このモデルより、CPUが80286相当の80C286となった。
+      - 液晶画面がバックライト内蔵の白色液晶となり、視認性が大幅に向上した。
+
+### FMR-50系
+
+640×400ドットのグラフィック表示機能を持つ、FMRシリーズの中核となる系列。
+
+当初のデスクトップから、ラップトップ機やノート機、派生形である超軽量ノートFMR-CARD系が発売されたほか、コンシューマー市場向けのマルチメディアパソコン[FM TOWNSシリーズもテキストVRAM等をソフトウェアでエミュレーションするという形で本系列との互換性を持っていた](../Page/FM_TOWNS.md "wikilink")。
+
+#### デスクトップ機
+
+  - FMR-50FD/HD
+      -
+        FMR-30FD/HD、FMR-60FD/HDと共に発表された、FMR-50/250系列の初代機種。
+          - FDはフロッピーディスクのみ搭載、HDはハードディスクを搭載したモデル。
+          - CPUは80286 8MHz。
+  - FMR-50FX/HX
+      -
+        CPUが80286 12MHzに高速化されたモデル。
+  - FMR-50SFX/SHX/SIIFX/SIIHX
+      -
+        SのCPUは80286 8MHz、SIIはi386SX 16MHz。
+  - FMR-50HE
+      -
+        CPUにi386SX 16MHzを搭載。
+  - FMR-50HE2/3
+      -
+        CPUにi386SX 20MHzを搭載。
+
+#### ラップトップ機
+
+ノートブック型の台頭により比較的短命であったが、デスクトップ型FMRシリーズより小型化された拡張カード規格は、ノートブック機のI/O拡張ユニットや、汎用拡張スロットを持つ[FM TOWNSシリーズにも継承された](../Page/FM_TOWNS.md "wikilink")(FM TOWNSでは純正オプションの「LTカード接続アダプタ」経由)。
+
+  - FMR-50LT
+      -
+        単色16階調表示プラズマディスプレイ採用したラップトップ機。CPUは[80286](../Page/Intel_80286.md "wikilink")(8MHz)。標準で1MB(MAX 3MB)のRAM搭載。本体内に拡張スロットを2つ持つ。3.5インチFDD(1MB)x2のLT2とFDDx1+20MBHDDのLT5、各々JISと親指シフトのキーボードA,Bタイプあり。
+
+#### トランスポータブル機
+
+液晶ディスプレイ一体型の省スペース・可搬型デスクトップ機で、液晶ディスプレイ前面にキーボードの収納が可能な箱形筐体を持つ。拡張カード類はラップトップ機と共通。
+
+  - FMR-50TX
+
+#### ノートブック機
+
+同時期の他社のノートブックパソコンではフロッピーディスクドライブ(FDD)1機とFDD互換のRAMディスクによる2ドライブ運用が一般的であったが、本系列ではそれに加えてICカードスロットも装備しており、ROMカードによって供給されるアプリケーションソフトを使用すれば、フロッピーディスク2台で運用しにくい大規模なアプリケーションソフトでも実用的に使用することができた。JISと親指シフトキーボードの2タイプあり、本体内蔵で後から取り替えは出来ない。
+
+  - FMR-50NB1
+      -
+        FMRシリーズ初のノートパソコン。CPUは[80C286](../Page/Intel_80286.md "wikilink")(8MHz)。A4ファイルサイズで2.5kg。標準で2MB(MAX 4MB)搭載(RAMディスク分1.25MBを含)。16階調FLバックライト付液晶。
+  - FMR-50NBX
+      -
+        CPUは[i386SX(16MHz)](https://ja.wikipedia.org/wiki/Intel_80386#80386SX "wikilink")。メモリーは標準2MB搭載。ハードディスクドライブ(20MB)を搭載。拡張メモリースロット、ICメモリーカードスロット装備。
+  - FMR-50NB2/NBX2
+      -
+        CPUは80C286(12MHz)/i386SX(20MHz)。標準で2MB(MAX 10MB)搭載(RAMディスク分1.25MBを含)。特徴として専用拡張スロットが2つあり(1つは増設バッテリ専用)、最大で標準x1+増設x2のバッテリ搭載可能。NB2はFDDx1のみ、NBX2はFDDx1,FDDx1+40MHDD,FDDx1+60MBHDDの3タイプで、HDDは専用パック形式で脱着可能で共通。
+  - FMR-50NL
+  - FMR-50NE
+  - FMR-50NE/T
+  - FMR-50CARD
+      -
+        FDDとHDDを搭載しながらも他のノートブックシリーズより大幅に薄い28mmの薄さを実現した。主に開発を担当したのは松下電器であったと言われており、同社のPanacom Mシリーズとしても同等機種が発売された。
+        CPUはi386SX(16MHz)。標準で2MB(MAX 10MB)搭載(RAMディスク分1.25MBを含)。ICカードがJEIDA Ver.4準拠になる。FDDx1とFDDx1+40MBHDDの2タイプ。HDDは専用パック形式で脱着可能。
+
+### FMR-60/70/80系
+
+1120×750ドットのグラフィック解像度を持つハイレゾリューション機の系列。
+
+文字キャラクターが24×24ドットで構成されるため、当時は24ドット機とも呼ばれた。
+
+そのままではFMR-50系との互換性を持たないが、オプションの16ドット表示カードを搭載する事によりFMR-50系列との互換性を持つことができるようになっていた。
+
+FMR-50系列がCPUが変更されてもシリーズ名を踏襲していたのと対照的に、本系列では基本アーキテクチャは同一ながらもCPUが80386,80486と変更される度にFMR-60→70→80とシリーズ名が変更された。
+
+#### 機種
+
+  - FMR-60FD/HD
+      -
+        FMR-50FD/HD、FMR-30FD/HDと共に発表された、FMR-60/70/80/280系列の初代機種。
+          - CPUは80286 8MHz。
+  - FMR-60FX/HX
+    :\*CPUが80286-12MHzに高速化された。
+  - FMR-60HE
+    :\*CPUに80386SX-16MHzを搭載。
+    :\*この世代より、この系列にはFDDのみ搭載のモデルは用意されなくなった。
+  - FMR-60HE2/3
+    :\*CPUに80386SX-20MHzを搭載。
+    :\*HE2とHE3の違いは内蔵HDDの容量による(HE2 40MB、HE3 120MB)。
+  - FMR-70HD
+      -
+        FMRシリーズとして初めてCPUに32bitの80386を搭載した。
+          - CPUは80386DX-16MHz。
+          - ハードディスク搭載モデルのみでFDモデルは用意されなかった。また、FMR-50系列との互換性確保のための16ドット表示カードには非対応となった。
+  - FMR-70HL
+    :\*CPUに80386DX-20MHzを搭載。
+  - FMR-70HL2/3
+  - FMR-80
+      -
+        FMRシリーズとして初めてCPUに80486を搭載した。基本アーキテクチャはFMR-70と変わらない。
+  - FMR-80HL
+    :\*CPUにi486SX-25MHzを搭載。
+  - FMR80HL2/3
+    :\*CPUにi486DX2-50MHzを搭載。
+    :\*HL2/3の違いは内蔵HDDの容量。
+
+FMR-80HL3 (front) 2013-02-08.JPG|FMR-80HL3の正面 FMR-80HL3 (rear) 2013-02-08.JPG|FMR-80HL3の背面 FMR-80HL3 keyboard 2013-02-08.JPG|FMR-80HL3のキーボード
+
+### FMR-CARD系
+
+質量990g、厚さ26.5mm、単3乾電池2本での長時間駆動を実現したA4ジャストサイズのノートPCで、[80C286を搭載するMS](../Page/Intel_80286.md "wikilink")-DOS機として当時としては画期的であった。基本的にFMR-50系と互換がある。
+
+磁気記録メディアは内蔵されていないが、MS-DOSや漢字変換辞書といった基本動作に必要なソフトウェアは本体のROMに搭載されていた。加えて、小容量ながら不揮発性RAMディスク領域があり、本体のみで漢字変換の学習内容なども保持することが可能。
+
+外部記憶媒体としてはJEIDA Ver.4準拠のICカードスロットを2機搭載しており、FM-OASYS、MS-Works(統合オフィスソフト)、MS Quick BASIC・MS Quick C(統合開発環境)、ジャストシステム シンフォニー(統合オフィスソフト)、Lotus 1-2-3+4word(表計算)などの主要アプリケーションソフトが同規格のROMカードで提供された。書き換え可能な媒体としては同規格のSRAMカードに対応。フラッシュメモリーには対応していない。
+
+グラフィックス表示機能に関しては、FMR-50シリーズが4096色中16色表示が可能であるのに対し本系列はVRAMを1プレーン分しか持たず、性能上はモノクロ2階調表示だが、BIOS等でハードウェアの差異を吸収することによってFMR-50シリーズとのソフトウェア互換性を実現していた。内蔵ディスプレイは反射型STN液晶で、FMR-50シリーズと同じく解像度は640×400ドット。
+
+インターフェース類はICカードスロット2機と[RS-232C](https://ja.wikipedia.org/wiki/RS-232C "wikilink") 1ポート、拡張I/O 1ポート、DC入力のみだが、拡張装置として、FMR-50LT系のオプションカードを使用できる拡張ボックス(据え置き型)、DSLINK([イーサネット](https://ja.wikipedia.org/wiki/イーサネット "wikilink"))アダプター、2MB増設メモリー、モデム、増設電池ボックス(以上外付け一体型)等が用意され、可搬性は損なうものの、通常のパソコンとしての利用にも充分な機能の拡張が可能であった。
+
+#### 機種
+
+  - FMR-CARD
+      -
+        上述の通りCPUは[80C286で](../Page/Intel_80286.md "wikilink")、動作クロックは8MHzと4MHzで切り替え可能。内蔵RAMディスクは640KB。
+        本系列は単3形乾電池2本で約8時間の稼働が可能であるが、RS-232Cポート使用時は電源電圧(乾電池駆動時3.0V)からRS-232Cレベルに昇圧する必要があるため、駆動時間が約4時間と半減するという制約がある。
+        内部で本体基板と液晶ディスプレイを接続しているフレキシブルケーブルが断線するという故障が頻発し、対策部品への無償での回収修理が実施された。
+        本体ROMに不具合があり、対策品への交換修理が実施された。ROMは本体底面から着脱可能なモジュールとなっているため、希望すれば、対策版のROMモジュールを郵送で受け取りユーザー自身で交換するという方法での対策も可能であった。
+  - FMR-CARD/E
+      -
+        FMR-CARDの改良機。FMR-CARDと外寸や形状、質量はほぼ同一であるが、主に下記の点が改良・強化された。
+          - 本体RAMの増加(標準1MB、最大3MB)
+          - RS-232C使用時のバッテリー駆動時間の延長
+          - フラッシュメモリーカードのサポート(ただし、書き込みには外付FDDのサポートユーティリティが必要)
+
+### FMR-250系
+
+FMR-50系列に、Windows対応強化としてグラフィックアクセラレーターを搭載した系列。
+
+#### 機種
+
+  - FMR-250L
+  - FMR-250L2
+  - FMR-250L3
+  - FMR-250L4
+
+### FMR-280系
+
+FMR-250系同様、FMR-60/70/80系列にグラフィックアクセラレーターを搭載した系列。
+
+#### 機種
+
+  - FMR-280H
+  - FMR-280H2
+  - FMR-280M
+  - FMR-280E
+  - FMR-280L
+  - FMR-280L2
+  - FMR-280L3
+  - FMR-280L4
+  - FMR-280P
+  - FMR-280P2
+  - FMR-280P3
+  - FMR-280P4
+  - FMR-280A
+  - FMR-280A2
+  - FMR-280A3
+  - FMR-280A4
+
+## 脚注
+
+## 関連項目
+
+  - [FM TOWNS](../Page/FM_TOWNS.md "wikilink")
+
+## 外部リンク
+
+  - [eFMR-50 FMR-50 emulator](http://takeda-toshiya.my.coocan.jp/fmr50/index.html)
+
+[Category:富士通のパーソナルコンピュータ](https://ja.wikipedia.org/wiki/Category:富士通のパーソナルコンピュータ "wikilink")

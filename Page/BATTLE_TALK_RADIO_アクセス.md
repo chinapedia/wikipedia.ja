@@ -1,0 +1,259 @@
+> この記事は[BATTLE TALK RADIO ](https://ja.wikipedia.org/wiki/BATTLE_TALK_RADIO_)から翻訳されています。
+
+
+**BATTLE TALK RADIO アクセス**（バトルトークラジオ アクセス）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月〜[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キーステーションとして放送していた](https://ja.wikipedia.org/wiki/キー局 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+
+## 概要
+
+その日起きた注目のニュースなどを紹介したり、旬の話題や社会現象などから日替わりのテーマを決めて、ナビゲーター（司会者）、トークパーソナリティ（レギュラー[コメンテーター](../Page/コメンテーター.md "wikilink")）、[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")、時には[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")を交えて[討論](../Page/ディベート.md "wikilink")（番組では「バトル」という）したりする[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")番組。ただし年末年始の数日間は録音放送になり、過去の放送のハイライトや「[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")対談「蔵出しスペシャル」と題して、[ポッドキャスト](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")配信した対談の中から数本ずつ放送したり、宮崎哲弥と[宮台真司](https://ja.wikipedia.org/wiki/宮台真司 "wikilink")による「M2のテレビじゃ聞けない[J-POP](../Page/J-POP.md "wikilink")批評」を行ったりもした。番組中にパーソナリティやスタッフがセレクトした曲が合間に流れる構成になっている。
+
+最初の半年間はTBSラジオのみの放送だったが、好評だったのか、番組開始年後のHBCラジオを皮切りに各地でネットされるようになった。
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月のマスコミ各紙の世論調査で「[民主党の](https://ja.wikipedia.org/wiki/民主党_\(日本_1998-2016\) "wikilink")[小沢一郎](https://ja.wikipedia.org/wiki/小沢一郎 "wikilink")幹事長は辞職するべきか?」という質問に70%以上の回答が「辞めるべき」というものだったにもかかわらず、当番組内のアンケートでは「続投すべき」という回答が70%に達し、マスコミの世論調査の信憑性に一石を投じる結果となった。
+
+### 関西圏でのネットがなかった理由
+
+[JRNに属する報道番組の側面があるため](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")、テレビが[JNN系列の兼営局では](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")による拘束がラジオも対象になるという解釈により[近畿広域圏の局においては事実上](../Page/広域放送.md "wikilink")[毎日放送](../Page/毎日放送.md "wikilink")（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")。以下「MBS」）しかネットを受けることができないとされた。これは後継番組の『[Dig](https://ja.wikipedia.org/wiki/ニュース探究ラジオ_Dig "wikilink")』でも同様であった。
+
+結局MBSはネット受けせず、関西圏でのネットはなかった。
+
+### 番組の終了
+
+[JRN系全国ネットだったとはいえ](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")、TBSラジオはネットワークセールスをせず任意ネットとしたため、[NRNとクロスネットしている多くの局は](../Page/全国ラジオネットワーク.md "wikilink")『[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")』以来の協賛社\[1\]によるネットワークセールス収入が見込めるニッポン放送制作番組を選択するか自社制作のローカル夜ワイドを継続、JRN単独局以外へのネットは広がらなかった。このためTBSR\&Cは番組公式サイトで[ストリーミング](../Page/ストリーミング.md "wikilink")配信を行い、全国での受信を可能にした。当初はスペシャル ウィーク（聴取率調査週間）限定だったが、後に常時、行われるようになった。ただし、[著作権](../Page/著作権.md "wikilink")の関係からCM・[BGMなどは流れない](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")。
+
+番組はリスナーの支持こそ得たものの、企業的には採算を確保できるほどのスポンサーを獲得できなかった\[2\]。この結果、[リーマン・ショック](https://ja.wikipedia.org/wiki/リーマン・ショック "wikilink")後の企業の広告費削減やスポンサー離れの影響を受け、2010年4月2日の放送をもって、11年半の放送に幕を閉じる旨が発表された\[3\]。
+
+## 放送時間
+
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")初回から1999年3月まで：月曜〜金曜 22:00-23:30。
+  - [1999年](../Page/1999年.md "wikilink")4月より2009年3月まで：月曜〜金曜 22:00-23:40。
+  - [2009年](../Page/2009年.md "wikilink")4月より2009年9月まで：月曜〜金曜 22:00-24:00。
+  - 2009年10月より最終回[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")まで：月曜〜金曜 22:00-23:55。
+
+TBSラジオ以外のネット局は、23時27分30秒までの放送（「バトルトーク」の途中でネット終了（2009年4月より））。その後、ナビゲーターによる宛先の案内（録音）が流される。TBSラジオではこのあと「交通情報」が放送され、バトルトークが続く。
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[8月27日](../Page/8月27日.md "wikilink")から[8月31日](../Page/8月31日.md "wikilink")までは、TBSラジオで『熱戦\!\![世界陸上ダイジェスト](https://ja.wikipedia.org/wiki/2007年世界陸上競技選手権大会 "wikilink")』を放送したため、ネット局と同様に23:30までの放送となった。
+
+## タイムテーブル
+
+2009年4月（放送時間22:00〜24:00）頃のもの
+
+  - 22:00:00　オープニング　きょうのバトルトーク・テーマ発表
+  - 22:15頃 　カウントダウン・トゥディ
+  - 22:33頃 　各局ローカル枠（TBSラジオでは[交通情報](https://ja.wikipedia.org/wiki/交通情報 "wikilink")）
+  - 22:35頃 　番組からのお知らせ
+  - 22:40頃 　バトルトーク
+
+<!-- end list -->
+
+  -
+    ここまでは、時刻確定のコーナーが無いため、その日のトークの展開で、コーナー開始時刻は大幅に変わることがある
+
+<!-- end list -->
+
+  - 23:27:30　ネット局飛び降り（TBSラジオでは[交通情報](https://ja.wikipedia.org/wiki/交通情報 "wikilink")・[CM](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")）
+  - 23:40頃 　アクセス特集
+  - 23:48頃　 [TBSニュース](https://ja.wikipedia.org/wiki/TBSニュース "wikilink")・交通情報\[4\]
+  - 23:54:00　終了
+
+## 主なコーナー
+
+### カウントダウン・トゥデイ
+
+  - 番組開始前に放送当日のニュースを10本ピックアップして、アクセスピープル（この番組の登録会員。番組開始当初は[FAX](https://ja.wikipedia.org/wiki/FAX "wikilink")会員のみだったが、その後[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")からも参加できるようになった。略称アクピー）や番組サイトから投票を募り、その結果をもとに[ランキング](https://ja.wikipedia.org/wiki/ランキング "wikilink")を作成し、[カウントダウン](https://ja.wikipedia.org/wiki/カウントダウン "wikilink")形式で紹介する。
+  - バトルトークのテーマについて一定の意見が出揃うまでのつなぎとして設定されたコーナーと思われるが、つなぎと感じさせない作りをしていた。
+  - 重大ニュースの場合、専門家やTBSラジオの記者、他の曜日のトークパーソナリティ（二木啓孝ら）に意見を聞くこともある。[JRN発の音源を用いる場合もある](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")。
+  - TBSラジオでのナイター中継が延長されたときは、短縮されることがある。
+
+### ローカル枠（22:33）各局放送状況
+
+  - 上述「カウントダウントゥデイ」コーナー終了後22:33頃にローカル枠が設けられていた（コーナーの進み具合により時間は多少ずれる。また夏期は野球中継延長の場合、当枠が休止となる場合あり）。
+  - 但し多くのネット局ではTBSラジオからのBGMのみ放送していた。キー局TBSラジオではこの時間を道路情報に充てていた。ネット当初のHBCは当枠を[道内](https://ja.wikipedia.org/wiki/北海道 "wikilink")[天気枠に充てていたが](../Page/天気予報.md "wikilink")、その後はBGMのみ放送に切り替えた。
+  - 2008年9月30日よりネット開始のTBCは、当枠を「[河北新報スポットニュース](https://ja.wikipedia.org/wiki/河北新報ニュース "wikilink")」に充当していた。
+
+### バトルトーク
+
+  - 番組のメインコーナー。ナビゲーター、トークパーソナリティ、リスナー、時にはゲストを交えて討論する。
+  - 毎回の討論テーマは2択または3択の設問であることが多い。討論が始まる前に、通行人へのアンケート結果（スタッフが東京、[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")沿線の[ターミナル](../Page/ターミナル.md "wikilink")駅周辺で行うことが多い）、アクセスピープルからの集計結果、これまでに寄せられたリスナーからの集計結果が発表される。なお、最終的な集計結果はエンディングで発表される。ただし、ここで言うエンディングとはTBSラジオのみ流れるもので、TBSラジオ以外で聴取しているリスナーが集計結果を知る場合、公式サイトもしくは翌日（金曜日の結果に関しては月曜日）の放送、雑音の中TBSラジオを聴取（遠距離受信）することでしか確認できない。
+  - リスナーの意見は電話とFAXでは当日22時から、番組サイトでは当日19時30分ごろから受け付ける。電話出演するリスナーは意見を送ったアクセスピープルの中から選ばれる。なおアクセスピープルに加入していると、当日20時頃にバトルトークの内容が指定したアドレスに向けてメール配信される。
+  - 番組後期はリスナーからの集計に関してのみ、途中経過が発表されることもあった（番組オープニングトーク時・カウントダウントゥデイ中）。
+  - このコーナーでは初期はTBSラジオローカルで「時代にアクセス正義のダウト」というコーナー名がついていた。TBSラジオでは[アサヒビール](../Page/アサヒビール.md "wikilink")が筆頭提供だったほか独自オープニングまで存在し、CMを経て「ダウト」というサウンドステッカーを以て本編に入っていた。ネット局が出来てからは、このオープニングとCMは全国共通のCM枠の中でローカル放送されたため、ネット局はサウンドステッカーの「ダウト」以降のみ聴けた格好となった。
+
+### アクセス特集
+
+日替わりコーナー。その日のナビゲーターとトークパーソナリティで進行していた。TBSラジオのみの放送。しかし、一部を除いてTBSラジオの番組サイトにて[ポッドキャスト](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")配信がされており、ネットされていない地域でも聴くことが可能であった。
+
+  - 月曜日「田中が言いたい\!」（田中担当日）、「ガガンボン・トピックス」（えのきど担当日）
+  - 火曜日「誠二と真理のコレを見た\!」　
+  - 水曜日［神足健康プロジェクト」　
+  - 木曜日は、スポンサーが付くことがあり、内容がしばしば変更されている（番組最末期は、「[NEC](../Page/日本電気.md "wikilink")　Wisdom　ビジネスの知恵袋」）。
+  - 金曜日「二木啓孝の取材ノート」
+
+## 出演者
+
+### ナビゲーター
+
+| 期間      | 月・火     | 水・木                                                   | 金                                                       |
+| ------- | ------- | ----------------------------------------------------- | ------------------------------------------------------- |
+| 1998.10 | 2002.12 | [小島慶子](https://ja.wikipedia.org/wiki/小島慶子 "wikilink") | [麻木久仁子](https://ja.wikipedia.org/wiki/麻木久仁子 "wikilink") |
+| 2003.1  | 2004.3  | [長野智子](https://ja.wikipedia.org/wiki/長野智子 "wikilink") | [蓮舫](../Page/蓮舫.md "wikilink")                          |
+| 2004.4  | 2005.12 | [長峰由紀](../Page/長峰由紀.md "wikilink")                    | [伊藤聡子](https://ja.wikipedia.org/wiki/伊藤聡子 "wikilink")   |
+| 2006.1  | 2006.9  | [山本モナ](https://ja.wikipedia.org/wiki/山本モナ "wikilink") |                                                         |
+| 2006.10 | 2010.3  | [渡辺真理](../Page/渡辺真理.md "wikilink")                    |                                                         |
+
+#### 代理ナビゲーター
+
+  - 山本モナ（2005年、長峰の代理）
+  - [久保田智子](https://ja.wikipedia.org/wiki/久保田智子 "wikilink")（2005年、伊藤の代理）
+  - [唐橋ユミ](https://ja.wikipedia.org/wiki/唐橋ユミ "wikilink")（2006年7月31日、山本の代理）
+  - [長岡杏子](https://ja.wikipedia.org/wiki/長岡杏子 "wikilink")（2006年8月1日、山本の代理）
+  - [山内あゆ](https://ja.wikipedia.org/wiki/山内あゆ "wikilink")（2006年8月2日・3日、山本の代理）
+  - [柴山延子](https://ja.wikipedia.org/wiki/柴山延子 "wikilink")（2006年9月18日・19日、山本→渡辺の繋ぎ）
+  - [前場美保子](https://ja.wikipedia.org/wiki/前場美保子 "wikilink")（2006年9月20日・21日、山本→渡辺の繋ぎ）
+
+### トークパーソナリティ
+
+<table>
+<thead>
+<tr class="header">
+<th><p>期間</p></th>
+<th><p>月曜</p></th>
+<th><p>火曜</p></th>
+<th><p>水曜</p></th>
+<th><p>木曜</p></th>
+<th><p>金曜</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1998.10</p></td>
+<td><p>1999.3</p></td>
+<td><p><a href="../Page/田中康夫.md" title="wikilink">田中康夫</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮崎哲弥" title="wikilink">宮崎哲弥</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/神足裕司" title="wikilink">神足裕司</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/二木啓孝" title="wikilink">二木啓孝</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1999.4</p></td>
+<td><p>2000.9</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/崔洋一" title="wikilink">崔洋一</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2000.10</p></td>
+<td><p>2003.9</p></td>
+<td><p>田中康夫<br />
+<a href="https://ja.wikipedia.org/wiki/えのきどいちろう" title="wikilink">えのきどいちろう</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2003.10</p></td>
+<td><p>2005.12</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤井誠二" title="wikilink">藤井誠二</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2006.1</p></td>
+<td><p>2008.3</p></td>
+<td><p>藤井誠二</p></td>
+<td><p>宮崎哲弥</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/井上トシユキ" title="wikilink">井上トシユキ</a></p></td>
+<td><p>二木啓孝</p></td>
+</tr>
+<tr class="even">
+<td><p>2008.4</p></td>
+<td><p>2009.3</p></td>
+<td><p>宮崎哲弥</p></td>
+<td><p>藤井誠二</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2009.4</p></td>
+<td><p>2009.12</p></td>
+<td><p>藤井誠二</p></td>
+<td><p>宮崎哲弥</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2010.1</p></td>
+<td><p>2010.3</p></td>
+<td><p>（週代わり）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 備考
+
+  - 田中は2000年10月以降、えのきどと1週交代で出演。自身の選挙期間中は出演せず、その際はえのきどが出演した。二木は田中欠席時の月曜も担当したことがある。
+  - パーソナリティの降板の際には必ず報告が行われていたが、そのうち2004年3月に降板した蓮舫と長野智子の2人については降板の挨拶が一切行われず突然降板という異例の交代となり、トークパーソナリティなど番組側は翌週以降これに一切触れておらず、後任の長峰由紀と伊藤聡子の2人も新たな担当の挨拶にとどまるに至った（蓮舫・長野2人に関する言及なし）。これについてTBSラジオ側は降板理由を公表していないが、蓮舫はその後の[民主党議員](https://ja.wikipedia.org/wiki/民主党_\(日本_1998-2016\) "wikilink")・[政治家](https://ja.wikipedia.org/wiki/政治家 "wikilink")転身への準備のため、長野は[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")への専属契約局移籍が背景にあるとされる。
+  - 2008年4月に宮崎と藤井の担当曜日が交換されたのは宮崎の都合による。宮崎に関しては、2009年4月以降の担当曜日変更後も火曜もしくは木曜に変更するケースがしばしばあった。
+  - [聴取率](../Page/聴取率.md "wikilink")調査期間中は「ダブルトークパーソナリティスペシャル」と題して、トークパーソナリティ各1名が他の曜日に特別出演する場合があった。えのきどに関しては番組最終週の[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")にゲスト出演した。
+  - 宮崎は降板後、番組最終週の2010年4月1日に一度だけ乱入の形でゲスト出演している。
+
+#### 代理トークパーソナリティ
+
+  - [小西克哉](../Page/小西克哉.md "wikilink")
+  - [松原聡](https://ja.wikipedia.org/wiki/松原聡 "wikilink")
+  - [宇多丸](https://ja.wikipedia.org/wiki/宇多丸 "wikilink")　ほか
+
+## ネット局
+
+  - 最終回放送時点のネット局
+
+<!-- end list -->
+
+  - TBS R\&C [TBSラジオ](../Page/TBSラジオ.md "wikilink")&コミュニケーションズ（現：TBSラジオ、キー局）
+  - HBC [北海道放送](../Page/HBCラジオ.md "wikilink")（1999年10月-）
+  - TBC [東北放送](../Page/東北放送.md "wikilink")（2008年9月30日-、火〜金曜日のみネット。以前は自社制作番組を放送）
+  - BSN [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（2000年10月-）
+  - SBS [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（2008年3月31日-、以前はニッポン放送の番組を同時ネット）
+  - CBC [中部日本放送](../Page/CBCラジオ.md "wikilink")（2000年10月-）
+  - KNB [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（2005年4月-、以前はニッポン放送の番組を同時ネット）
+  - RNB [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（2008年9月29日-、中四国地方のAMラジオ局では山陽放送でのネット打ち切り以来2年半ぶりのネットとなる。以前は自社制作番組を放送、さらにそれ以前はニッポン放送の番組を同時ネット）
+  - RKK [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（2009年10月5日-、以前はニッポン放送の番組を同時ネット）
+
+<!-- end list -->
+
+  - かつてのネット局
+
+<!-- end list -->
+
+  - SBC [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（当時[長野県知事であった田中康夫が出演していた月曜のみ](https://ja.wikipedia.org/wiki/長野県#民選知事 "wikilink")、2000年[11月](../Page/11月.md "wikilink")から2005年3月まで放送。それ以降は月曜日も含め[ニッポン放送](../Page/ニッポン放送.md "wikilink")の番組をネット）
+  - RSK [山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")（[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")4月から2006年3月まで放送。[プロ野球シーズン中や](../Page/日本プロ野球.md "wikilink")[日本シリーズでは延長の場合最大](../Page/日本選手権シリーズ.md "wikilink")22時50分まで野球の中継を優先し、22時以降も延長の場合は中継終了後に『[山陽新聞ニュース](https://ja.wikipedia.org/wiki/山陽新聞ニュース "wikilink")』を挟んでネットしていた。野球中継がTBSラジオ同時ネットの場合でも例外ではなかった）
+  - MBC [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（2000年10月から2006年3月まで。[2003年](../Page/2003年.md "wikilink")4月から9月までは金曜に『[長渕剛のオールナイトニッポンフライデースペシャル・今夜もバリサン](https://ja.wikipedia.org/wiki/長渕剛のオールナイトニッポンフライデースペシャル・今夜もバリサン "wikilink")』を放送していたため月曜〜木曜の放送だった）
+  - RBC [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")（2000年10月から2001年3月および2001年10月から2007年3月まで放送）
+  - ABS [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")（2000年10月から2009年12月まで放送。ネット打ち切り後は[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")の『[レコメン\!](../Page/レコメン!.md "wikilink")』をフルネット）
+
+## 脚注
+
+<references />
+
+## 関連項目
+
+  - [宮川賢の誰なんだお前は?\!](https://ja.wikipedia.org/wiki/宮川賢の誰なんだお前は?! "wikilink")（同枠の前番組）
+  - [荒川強啓 デイ・キャッチ\!](https://ja.wikipedia.org/wiki/荒川強啓_デイ・キャッチ! "wikilink")（TBSラジオ、2009年まで16時台にニュースランキングに加え、リスナーとの電話討論コーナーを放送）
+  - [ラジオ局ローカルニュースタイトル一覧](https://ja.wikipedia.org/wiki/ラジオ局ローカルニュースタイトル一覧 "wikilink")
+  - [高田純次・河合美智子の東京パラダイス](../Page/高田純次・河合美智子の東京パラダイス.md "wikilink")（[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")製作で、当番組と同じく同時ネット局全てが飛び降りする番組）
+  - [JOMOプレゼンツ 渡辺真理のコトバ遺産](https://ja.wikipedia.org/wiki/JOMOプレゼンツ_渡辺真理のコトバ遺産 "wikilink")
+
+## 外部リンク
+
+  - [TBS BATTLE TALK RADIO アクセス](http://tbs954.jp/ac/)
+
+[Category:TBSラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSラジオの帯番組の歴史 "wikilink") [Category:TBSラジオのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:TBSラジオのニュース・報道番組 "wikilink") [Category:TBSラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:TBSラジオの情報・ワイドショー番組 "wikilink") [Category:1998年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のラジオ番組_\(日本\) "wikilink")
+
+1.  スポンサー。同番組ではスポンサーが企画に関与することが開始以来一貫して認められていないため「提供」ではなく「協賛」としている。
+2.  「Dig」2010年8月27日放送分より
+3.  [アクセス公式サイト「番組からのお知らせ」より](http://tbs954.jp/CGI/ac/info/info.cgi)
+4.  2009年3月までは独立番組

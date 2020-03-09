@@ -1,0 +1,223 @@
+> この記事は[VHS](https://ja.wikipedia.org/wiki/VHS)から翻訳されています。
+
+
+**VHS**（ブイ・エイチ・エス、Video Home System：ビデオ・ホーム・システム）は、[日本ビクター](https://ja.wikipedia.org/wiki/日本ビクター "wikilink")（現・[JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")）が[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")（昭和51年）に開発した家庭用[ビデオ規格で](https://ja.wikipedia.org/wiki/ビデオテープレコーダ "wikilink")、同社の登録商標（日本第1399408号ほか）である。
+
+当初は記録方式を表現した**Vertical Helical Scan**（バーチカル・ヘリカル・スキャン）の略称だったが、後に**Video Home System**の略称として再定義された。
+
+## 概要
+
+VHSの特徴として、ビデオの規格を原則として変えないことがあり、発売当初録画されたテープは現在流通している最新機種でも再生できる。テープは幅が1/2インチのカセットタイプで、標準録画時間が2時間だった。この形は現在では当たり前となったが、開発当時のVTRにはテープのリールが1つだけの[カートリッジ](https://ja.wikipedia.org/wiki/カートリッジ "wikilink")タイプがあったり、テープ幅やカセットのサイズもさまざまだったり、と互換性のない規格が氾濫していた。
+
+技術の進歩によりテープの長尺化が進んだ結果、DF480を利用したときの現在は240分が最長となった。また、規格の範囲を大きく逸脱しないかたちでの改良を続けており、HQや[Hi-Fi](https://ja.wikipedia.org/wiki/Hi-Fi "wikilink")オーディオ対応、ビデオカメラ規格の[VHS-C](https://ja.wikipedia.org/wiki/VHS-C "wikilink")、[水平解像度](https://ja.wikipedia.org/wiki/水平解像度 "wikilink")400本以上の高画質機種[S-VHS](https://ja.wikipedia.org/wiki/S-VHS "wikilink")とそのビデオカメラ規格[S-VHS-C](https://ja.wikipedia.org/wiki/S-VHS-C "wikilink")、衛星放送などのPCMデジタルオーディオを劣化なく記録できるS-VHS DA（DigitalAudio）、アナログハイビジョン対応の[W-VHS](https://ja.wikipedia.org/wiki/W-VHS "wikilink")、[デジタル放送](https://ja.wikipedia.org/wiki/デジタル放送 "wikilink")対応の[D-VHS](https://ja.wikipedia.org/wiki/D-VHS "wikilink")など幅広く展開している。全ての規格においてVHSテープの再生は基本的には対応している。なお、S-VHSの登場後は従来のVHSを識別のため「**ノーマルVHS**」または「コンベンショナルVHS」と呼ぶ場合がある。なお、上位規格であるデジタル記録の[D-VHS](https://ja.wikipedia.org/wiki/D-VHS "wikilink")では[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタル放送 "wikilink")・[BSデジタル放送](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")・[CSデジタル放送](https://ja.wikipedia.org/wiki/CSデジタル放送 "wikilink")などの無劣化記録が可能となっている。
+
+[ベータ](https://ja.wikipedia.org/wiki/ベータマックス "wikilink")、[8ミリ](https://ja.wikipedia.org/wiki/8ミリビデオ "wikilink")、[LD](https://ja.wikipedia.org/wiki/レーザーディスク "wikilink")、[VHD](https://ja.wikipedia.org/wiki/VHD "wikilink")などさまざまなメディアとの競争の結果、家庭用ビデオ方式として[デファクトスタンダード](https://ja.wikipedia.org/wiki/デファクトスタンダード "wikilink")となった。特に、[DVD-Video](https://ja.wikipedia.org/wiki/DVD-Video "wikilink")の普及以前は単に「ビデオ」といえば通常はVHSのことを指すものであり、関連企業も商品説明等でVHSの意でビデオという単語を用いていた（「ビデオ版とDVD版の内容は同一です」という表記や、VHSデッキを指して「ビデオデッキ」と称するなど）。
+
+VHSの[ハードの普及台数は全世界で約](../Page/ハードウェア.md "wikilink")9億台以上、テープに至っては推定300億巻以上といわれている。このことを称え、VHS規格発表から30周年の[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）には[IEEE](https://ja.wikipedia.org/wiki/IEEE "wikilink")によってVHSの開発が「電気電子技術分野の発展に貢献した歴史的業績」として『[IEEEマイルストーン](https://ja.wikipedia.org/wiki/IEEEマイルストーン "wikilink")』に認定された\[1\]。
+
+## 歴史
+
+[1956年](https://ja.wikipedia.org/wiki/1956年 "wikilink")（昭和31年）に開発された[アンペックス](https://ja.wikipedia.org/wiki/アンペックス "wikilink")社の巨大な業務用[2インチVTR](https://ja.wikipedia.org/wiki/2インチVTR "wikilink")を始まりとして、[NTSC](https://ja.wikipedia.org/wiki/NTSC "wikilink")方式をそのまま録画可能な回転2ヘッドヘリカルスキャン方式が開発された。ヘリカルスキャン技術は1955年（昭和30年）に東芝が基本特許を出願。1959年（昭和34年）に放送用ヘリカルスキャン方式VTRを東芝が発表\[2\]。回転2ヘッドヘリカルスキャンは同年に日本ビクターが開発している。それ以降、各社は比較的コンパクトな[オープンリール](https://ja.wikipedia.org/wiki/オープンリール "wikilink")式のVTRを発売するが、方式は各社バラバラで統一規格は制定されていなかった。
+
+[松下電器産業](https://ja.wikipedia.org/wiki/松下電器産業 "wikilink")・[日本ビクター](https://ja.wikipedia.org/wiki/日本ビクター "wikilink")・[ソニー](https://ja.wikipedia.org/wiki/ソニー "wikilink")の3社は家庭用VTRも見据え、テープがカセットに収められたビデオレコーダー（VCR）の統一規格（[Uマチック](https://ja.wikipedia.org/wiki/Uマチック "wikilink")）に合意。発売したが高価なこともあり、オープンリール式と同様に企業の研修用途や教育機関、旅館・ホテルの館内有料放送などが主な販売先だった。
+
+家庭用VTR機器が本格的に普及する時代を狙い、ソニーが各社に規格統一を呼びかけ先行して開発・発売された[ベータマックス](https://ja.wikipedia.org/wiki/ベータマックス "wikilink")が、[Uマチックの小型化を目指して開発された経緯から録画時間の延長よりカセットの小型化を優先し](https://ja.wikipedia.org/wiki/U規格 "wikilink")、最長60分の録画時間でU規格と同等の操作性を確保すべく開発されたのに対し、ビクターは[民生用](https://ja.wikipedia.org/wiki/民生用 "wikilink")途としての実用性を重視し、カセットが若干大きくなることを承知で録画時間を最長120分として基本規格を開発。またメカ構造も[U規格](https://ja.wikipedia.org/wiki/U規格 "wikilink")にとらわれずより量産化に適した構造を目指し、家庭用VTRというコンセプトを明確にして開発・発売された。
+
+先に発表・発売されたのはソニーのベータマックス（1号機・SL-6300）で、[1975年](../Page/1975年.md "wikilink")（昭和50年）[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")に発表、同年[5月10日](https://ja.wikipedia.org/wiki/5月10日 "wikilink")に発売されている。
+
+ビクターは親会社の松下電器産業（現：[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）にVHS方式への参加を要請したが、[1973年](../Page/1973年.md "wikilink")（昭和48年）に[オートビジョン方式](https://ja.wikipedia.org/wiki/オートビジョン方式 "wikilink")の家庭用VTR機器を発売したが失敗したこと\[3\]、[1974年](https://ja.wikipedia.org/wiki/1974年 "wikilink")（昭和49年） - [1975年](../Page/1975年.md "wikilink")（昭和50年）に子会社の松下寿電子工業（現・[PHC](https://ja.wikipedia.org/wiki/PHCホールディングス "wikilink")）が開発した[VX方式](https://ja.wikipedia.org/wiki/VX方式 "wikilink")のデッキを販売していたこと、さらにベータ方式を支持する社内意見もあるなど、いくつかの要因が重なった社内事情により松下の態度は不鮮明であった。
+
+[NHK総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビ "wikilink")『[プロジェクトX〜挑戦者たち〜](https://ja.wikipedia.org/wiki/プロジェクトX〜挑戦者たち〜 "wikilink")』の第2話では、1975年9月3日に[松下幸之助](https://ja.wikipedia.org/wiki/松下幸之助 "wikilink")がビクター横浜工場でVHS試作機を見学し、「ベータマックスは100点満点の製品だ、しかしこのVHSは150点だ」「ええもん造ってくれたな」と発言したと、試作機を覗き込む松下幸之助の写真つきで紹介されている。では、当時日本ビクターには松下電器から平田雅彦氏（後の松下電器副社長）が出向しており、VHS開発終了の情報が松下電器へもたらされ、ビデオ開発の中心にいた高橋氏がビクターを訪問しVHS試作機を見学、続いて松下幸之助氏が訪問、『プロジェクトX〜挑戦者たち〜』が伝えるところでは、VHS1号機の発売前にすでに松下電器はVHS採用を決めていたとしている。
+
+のちに「VHSの父」と呼ばれる[高野鎭雄が](https://ja.wikipedia.org/wiki/高野鎮雄 "wikilink")[松下幸之助](https://ja.wikipedia.org/wiki/松下幸之助 "wikilink")に直訴。[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")（昭和51年）末、松下電器本社で松下幸之助および松下・ソニー・ビクター各社社員らが出席し、両社のビデオデッキを見比べる会議（直接対決）が開かれた。その席で幸之助は「ベータは100点（満点）、しかしVHSは150点。部品点数が少ないので（VHSは）安く造ることができ、後発組に有利」と見解を示した。[通商産業省が規格分裂に対し難色を示していたこともあり](https://ja.wikipedia.org/wiki/経済産業省 "wikilink")、新規格での規格統一も提案したが両社とも自社規格を引っ込める気がないために幻となり、松下はVHS方式への参加を決めた。幸之助がVHSを選んだ決め手になったのは前述に挙げた理由の他に、VHSデッキのほうが軽かったこともあった。「ベータだと販売店の配送を待たなければならないが、VHSはギリギリ持ち帰れる重さで、購入者が自分で自宅に持ち帰りすぐ見られる」といった幸之助らしい基準だった\[4\]\[5\]。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:JVC-HR-3300U.jpg "wikilink") [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")（昭和51年）[10月31日](https://ja.wikipedia.org/wiki/10月31日 "wikilink")、日本ビクターがVHS第1号[ビデオデッキ](https://ja.wikipedia.org/wiki/ビデオテープレコーダ "wikilink")（品番：HR-3300）を発売、当時の金額で定価25万6000円。留守番録画のできる時計内蔵の専用取付式タイマーは別売1万円で、VHSの録画[テープも当初は](https://ja.wikipedia.org/wiki/磁気テープ "wikilink")120分が6000円となっていた。また、[シャープ](../Page/シャープ.md "wikilink")、[三菱電機](https://ja.wikipedia.org/wiki/三菱電機 "wikilink")も当初は日本ビクターの第1号機を[OEM](https://ja.wikipedia.org/wiki/OEM "wikilink")で発売していた。翌[1977年](https://ja.wikipedia.org/wiki/1977年 "wikilink")（昭和52年）にビクターが現在の[ロゴ](https://ja.wikipedia.org/wiki/ロゴ "wikilink")の使用を開始したため、VHSの1号機であるHR-3300の最前期に生産された[ロット](https://ja.wikipedia.org/wiki/ロット "wikilink")は戦前から使ってきた（書体は微妙に違う）旧ロゴ（「**V<small>ICTOR</small>**」ロゴ）をつけた唯一のデッキとなった。なお後期生産分は現ロゴとなっていた。
+
+[1977年](https://ja.wikipedia.org/wiki/1977年 "wikilink")（昭和52年）には松下電器産業が普及型のVHSビデオデッキ「ナショナル**[マックロード](https://ja.wikipedia.org/wiki/マックロード "wikilink")**」を発売し、VHSヒットのきっかけにもなった。
+
+長時間録画のユーザーのニーズにも応えるため、[1977年](https://ja.wikipedia.org/wiki/1977年 "wikilink")（昭和52年）に[米国市場向けの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")2倍モード（LP）が、日本国内向け機器にも[1979年](../Page/1979年.md "wikilink")（昭和54年）に3倍モード（EP）が開発され、幅広い機種に搭載された。また規格外ではあるが標準モードで2つの番組を同時に録画できる機種も存在しており、VTR普及期にはメーカーから様々な提案がなされた。その後は5倍モードも開発され一部の機種に搭載された。
+
+[1972年](https://ja.wikipedia.org/wiki/1972年 "wikilink")（昭和47年）に松下電器のビデオ事業部長になった[谷井昭雄](https://ja.wikipedia.org/wiki/谷井昭雄 "wikilink")（元社長）によると、VHS普及の最大の山場は1977年2月の[RCA](https://ja.wikipedia.org/wiki/RCA "wikilink")との提携だった。条件が付いて8月の出荷までに録音時間を2倍の4時間にすることも求められ、[村瀬通三](https://ja.wikipedia.org/wiki/村瀬通三 "wikilink")（元松下電器副社長）などの技術陣が達成した\[6\]。松下電器ではOEM供給していたアメリカのRCAより、[アメリカンフットボール](https://ja.wikipedia.org/wiki/アメリカンフットボール "wikilink")の録画のためさらに長い録画時間が必要という要望があり、2倍（LP）モードをつけたVHSデッキを開発。OEM供給したが日本ビクターの了承を得ないものだった。VHS標準（SP）モードより画質・音質が低下し、さらにVHS規格の互換性からも外れる事から日本ビクターは松下電器の勝手なふるまいに怒り、2倍（LP）モード録画対応機種を絶対に日本国内で発売しないよう松下電器へ強く要請していた。日本国内のVHS陣営各社も、標準（SP）モードの2時間もあれば十分で、4時間録画の2倍（LP）モード採用には、日本国内にはアメリカンフットボールのような長時間録画需要が当時は無かったため否定的で、VHS規格の互換性からも外れているために採用する動きは無かった\[7\]。
+
+当初、VHSの音声トラックはテープの隅に固定ヘッドで[モノラル](https://ja.wikipedia.org/wiki/モノラル "wikilink")録音するものだったが、その幅は[コンパクトカセット](https://ja.wikipedia.org/wiki/コンパクトカセット "wikilink")より狭く、テープスピードは3/4だった。3倍モードではテープスピードが標準モードの1/3になり、[S/N比](https://ja.wikipedia.org/wiki/S/N比 "wikilink")の劣化（[ヒスノイズ](https://ja.wikipedia.org/wiki/ヒスノイズ "wikilink")の増加）および周波数特性の劣化が顕著となる。なお[ワウフラッター](https://ja.wikipedia.org/wiki/ワウフラッター "wikilink")はビデオではテープ走行は同期の乱れとなるために厳格に管理されていた。上位機種では音声トラックを[ステレオ](https://ja.wikipedia.org/wiki/ステレオ "wikilink")化していたこともあり、各メーカーでは少しでも高音質化すべく[ドルビーノイズリダクションシステム](https://ja.wikipedia.org/wiki/ドルビーノイズリダクションシステム "wikilink")（ドルビーB）、[dbx](https://ja.wikipedia.org/wiki/dbx "wikilink")などの音声信号の圧縮伸張処理技術を採用していたが、S/N比の劣化に対しては若干の改善が見られたものの周波数特性には対応できなかった。その時代のノーマル固定ヘッドでステレオ再生可能なデッキを現在、持っていないと、ノーマル音声でステレオ録音されたVHSテープをステレオで聴くことは当然だが不可能である。さらに問題なのがノーマル音声トラックに2ヶ国語の洋画を録画した場合であり、日本語と外国語が同時に再生される。当然のことながら[スピーカー](https://ja.wikipedia.org/wiki/スピーカー "wikilink")の左右バランスを調整しても解決はしない。
+
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）1983年3月、谷井昭雄と高野鎮雄、RCAのジャック・ソーター副社長の3人の写真が、当時の世界最大の国際[週刊誌](https://ja.wikipedia.org/wiki/週刊誌 "wikilink")『[タイム](https://ja.wikipedia.org/wiki/タイム_\(雑誌\) "wikilink")』の表紙を飾った。
+
+同1983年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、ソニーがステレオ[Hi-Fi](https://ja.wikipedia.org/wiki/Hi-Fi "wikilink")音声記録方式（ベータHi-Fi）を採用した「SL-HF77」を家庭用1/2インチビデオとしては世界で初めて発売した。ベータHi-Fiは従来ベータ機と輝度信号が4.4MHzから4.8MHzへ高域へのキャリアシフトも伴っており厳密な意味で互換性が失われたが、ベータHi-Fi録画されたテープを従来ベータ機で再生してもほとんど問題にならなかった。
+
+ベータ陣営のHi-Fi化に対抗し、同1983年[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")には松下電器が音声専用ヘッドを搭載し、磁性体への深層帯記録を使用し、ノーマルVHSと互換性のあるHi-Fiステレオオーディオ機能を追加した「NV-800」を発売。この機能はVHS Hi-Fiステレオ標準規格として採用された。松下の独自規格によるVHS Hi-Fi機「NV-800」はHi-Fi音声トラックの信号処理に[dbx](https://ja.wikipedia.org/wiki/dbx "wikilink")を使っていた。「NV-800」が採用したHi-Fi音声の磁性体への深層帯記録を用いたHi-Fi方式をVHS規格化するにあたりdbx、[ドルビー](https://ja.wikipedia.org/wiki/ドルビー "wikilink")社の[ライセンス](https://ja.wikipedia.org/wiki/ライセンス "wikilink")料回避のため、両社の特許に抵触しない信号処理技術が開発され採用された。そのため「NV-800」で録画されたビデオカセットを、ビクター「HR-D725」以降発売された正式なVHS Hi-Fi規格ビデオデッキで再生すると、厳密には正式なVHS Hi-Fi規格との互換性が無いため、音声が多少歪む可能性がある。
+
+同1983年秋には、ビクターから初めて正式なVHS Hi-Fi規格に対応した「HR-D725」が発売されている。このD725などの機種は前述のノーマル音声方式での録画・再生も可能でドルビーBにも対応していた。[ダイナミックレンジ](https://ja.wikipedia.org/wiki/ダイナミックレンジ "wikilink")は当初80dB以上、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）以降の機種では90dB以上に向上した。[周波数特性](https://ja.wikipedia.org/wiki/周波数特性 "wikilink")は20 - 20,000Hz。
+
+これにともない、ノンHi-Fiのステレオ機器は[1980年代](../Page/1980年代.md "wikilink")には生産終了した。国内メーカーによるノンHi-Fiの[モノラル](https://ja.wikipedia.org/wiki/モノラル "wikilink")VCRは単体機は[1990年代](../Page/1990年代.md "wikilink")後半に生産を終了。[テレビデオ](https://ja.wikipedia.org/wiki/テレビデオ "wikilink")はしばらくノンHi-Fi機の生産が続いたが、2000年代初頭には終了した。
+
+[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")（[平成](https://ja.wikipedia.org/wiki/平成 "wikilink")4年）に高野鎮雄が68歳で死去したとき、VHSビデオデッキの普及台数は3.7億台であった。
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）、日本ビクターの初代VHSデッキ「HR-3300」が、[国立科学博物館](https://ja.wikipedia.org/wiki/国立科学博物館 "wikilink")の定めた[重要科学技術史資料](https://ja.wikipedia.org/wiki/重要科学技術史資料 "wikilink")（通称:未来技術遺産）の第0020号に登録された。
+
+[2016年](https://ja.wikipedia.org/wiki/2016年 "wikilink")（平成28年）、[船井電機](https://ja.wikipedia.org/wiki/船井電機 "wikilink")（日本国内では「**[DX BROADTEC](https://ja.wikipedia.org/wiki/DXアンテナ "wikilink")**」ブランドとして展開）が7月末日をもってVHSビデオテープレコーダーの生産を終了\[8\]\[9\]。VHSビデオテープに関しては複数メーカーが引き続き生産・販売している。主な理由として、一般家庭での編集や再生、小売量販店などの防犯カメラに使われているケースが多く、そのような顧客のニーズに応えるためである。
+
+## ベータマックスとの規格争い
+
+VHSは、[1975年](../Page/1975年.md "wikilink")（昭和50年）に[ソニー](https://ja.wikipedia.org/wiki/ソニー "wikilink")が開発・発売した家庭用ビデオ[ベータマックス](https://ja.wikipedia.org/wiki/ベータマックス "wikilink")の対抗規格として脚光を浴びた。約10年間も続いた[規格争い](https://ja.wikipedia.org/wiki/規格争い "wikilink")（[ビデオ戦争](https://ja.wikipedia.org/wiki/ビデオ戦争 "wikilink")）を制してVHSが生き残った。その要因としてはいくつかある。
+
+VHS陣営はファミリー形成を重視した展開を行った\[10\]。これが功を奏し、VHSを採用するメーカーを多数獲得して、共同で規格の充実を図る体制を確立した。また、家電メーカーを獲得したことによりその販売網を利用できた。特に[松下電器産業をグループに引き込んだことが大きい](https://ja.wikipedia.org/wiki/パナソニック "wikilink")。ベータマックス陣営には家電販売網を持つ[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")などの存在もあったが、松下の販売網の規模と緻密さは大きく影響したと言われている。
+
+その他、VHSは量産に適した構造で、普及期に廉価機の投入など戦略的な商品ラインナップを実現できた\[11\]。ベータはUマチックと同じUローディング方式をそのまま用いたのに対し、VHSは開発が難航したものの部品点数が少なく生産もしやすいMローディングを採用した。記録時間を最初から実用的な2時間に設定しその後も長時間化に成功したこと、欧州・米国市場での[OEM](https://ja.wikipedia.org/wiki/OEM "wikilink")供給先を獲得することに成功したこと\[12\]、などが要因として挙げられる。
+
+ベータ規格主幹のソニーによる広告戦略の失敗もあった。[1984年](../Page/1984年.md "wikilink")（昭和59年）[1月25日](https://ja.wikipedia.org/wiki/1月25日 "wikilink")から4日間、ソニーが主要新聞各紙に広告を連続で掲載し、見出しは「ベータマックスはなくなるの?」「ベータマックスを買うと損するの?」「ベータマックスはこれからどうなるの?」となっており、最終日に「ますます面白くなるベータマックス\!」と締めくくる展開であった\[13\]。これは当時の新製品を告知する逆説的アプローチだったのだが、消費者には理解されず『ベータ終了』と短絡的に捕らえ、これを機にベータ離れが加速された\[14\]。
+
+VHSは高画質化よりも長期耐久性や再生互換性を最重要視する設計の規格で、[レンタルビデオ](https://ja.wikipedia.org/wiki/レンタルビデオ "wikilink")市場やセルビデオ市場を創造した。また関連会社の資金提供で映画やAV作品などのタイトルを豊富に作らせ、セルビデオソフト店が無かった黎明期は大手電器販売店の近所に作った[アンテナショップ](https://ja.wikipedia.org/wiki/アンテナショップ "wikilink")で販売した。
+
+ビデオソフトのシェアは、1980年にVHSがベータを上回った。[1989年](../Page/1989年.md "wikilink")（平成元年）頃まではメーカーはVHSとベータを併売していた（一部メーカーは8mmビデオソフトも供給）が、ベータファミリーが崩壊し各社がVHSへと移行した。ソニーも1988年（昭和63年）にVHS/Beta/8mmビデオデッキを併売するようになり、ベータは市場シェアを徐々に落としたことから、ビデオソフトメーカーはビデオソフトをVHSのみで発売するようになり、レンタルビデオ店でもVHSが標準となった。家電量販店などでもビデオデッキはVHSやS-VHSが主流となった。より高画質を求めたベータユーザーはベータソフト供給打ち切り前後を境に[レーザーディスク](https://ja.wikipedia.org/wiki/レーザーディスク "wikilink")（LD）へと流れて行った。
+
+セルビデオやレンタルビデオのソフトの再生互換性を鑑みて、各社独自仕様のVHSビデオデッキの発売は基本的には許されなかったが、1996年にシャープがダブルチューナを搭載し同時二番組録画・再生対応した「VC-BF80」を発売した。同時二番組録画・再生はVHS方式には規格されておらずVHS方式とは互換性が無く、当該機種で録画されたテープはシャープ製を含め他社VHS機種での再生も当然不可能であった。S-VHS搭載機でも、VHSの録画・再生は可能である。
+
+ベータでは、βI・βIs(5.6MHz Hi-Band)・βIsSHB（6.0MHz Hi-Band）・βII（X2）・βIII各モード、Hi-BandBeta（5.6MHz／βII・βIII)、BetaHi-Fi、ED-Betaなどの規格があったが、VHSでもSP（標準）・LP（2倍／日本国内仕様では再生のみ対応）・EP（3倍）・5倍各モード、VHS-C、VHSHi-Fi、S-VHS、S-VHS-C、S-VHS-ET、S-VHSDigitalAudio、W-VHS、D-VHSが乱立しており、VHS・ベータともに最初期の標準モード・βIモード専用機種等では、後に開発された長時間モードや高画質・高音質規格で録画されたテープが再生できない環境にあった。
+
+ベータのビデオソフトではハイグレードテープを使用して、磁気保持力が強い総メタルテープのマスターをスレーブのテープに超高速磁気転写プリントする方式をソニーが1980年代に開発したが、VHSでは高速磁気転写プリント方式の技術開発そのものが遅れたため、等速でのソフトウェア生産作業を余儀なくされることとなり、結果としてLDやVHD等のビデオディスクよりも高価なビデオソフト価格であった。1990年代に入り、[OTARI](https://ja.wikipedia.org/wiki/OTARI "wikilink")がTMD高速熱転写方式による「T-710ビデオ・デュプリケーター」を開発し、VHS・SP（標準）モードで300倍速の高速プリントを実現しソフト製造の高速化が図られ、VHSビデオソフトの低価格化に貢献した\[15\]。
+
+VHS対ベータ戦争の火ぶたが切られたとき、ビクターはVHSファミリーの中で技術的問題や生産能力でまだVHSデッキを製造できないメーカーに[OEM](https://ja.wikipedia.org/wiki/OEM "wikilink")供給していた。ときには自社ブランドよりOEM供給向けの生産を優先していたこともあるという。それは様々なメーカーで販売することにより他社の販売網を活用できる上、VHSが多数派であるという印象を持たせる狙いもあったと言われる。なお、ソニーもベータファミリー各社の生産体制が整わないうちには自社製品をOEM供給していた。
+
+VHS対ベータ戦争では負けたといわれるソニーだが、VHSで使われる技術にもソニーの保有する特許が多数使われているため、少なからぬ[ライセンス](https://ja.wikipedia.org/wiki/ライセンス "wikilink")収入があった。これは[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）の[U規格](https://ja.wikipedia.org/wiki/U規格 "wikilink")策定時にソニー/日本ビクター/松下電器の3社が結んだクロスライセンス契約が関係している。
+
+ソニーはテープローディング技術を始めとする非常に多数のVTR特許技術を保有していたため、ソニーとクロスライセンスを契約を結んでいなかった日立製作所、三菱電機、シャープ、赤井電機などのVHS陣営各社がVHSビデオデッキを発売した際、ソニーと特許利用契約を結ぶ必要があった\[16\]。また、磁性材料から含め約28,000件にも達するビデオカセットテープに関する特許技術もソニーがほぼ掌握しており、ソニーとクロスライセンス契約を結んだ松下電器、日本ビクターはVHS方式発売当初、自社によるビデオカセットテープ生産設備を保有をしていなかったため、TDK・富士フイルム・住友スリーエムなどからのOEM供給で凌いでいた。ソニーと特許利用契約を結んだ日立製作所は日立マクセルのOEM供給によりVHSビデオカセットテープを発売。1978年（昭和53年）にソニーがクロスライセンス契約を結んでいないテープメーカーに対しても有償で特許を公開する方針としたため、テープメーカーが独自でVHSおよびBetaビデオカセットテープの発売が可能となった\[17\]。
+
+ビデオ戦争の末期には、ソニー製のVHSビデオデッキを望む声が市場から上がっていた。このことがソニーがVHS方式に参入する一つのきっかけとなっており、VHS・ベータ・8ミリのフルラインナップで「VTRの総合メーカー」を目指す方針に転換した。[1988年](../Page/1988年.md "wikilink")（昭和63年）にソニーがVHS方式へ参入した際、障壁となるものは全くなかった。松下電器・日本ビクターとはクロスライセンス契約を結んでいたため、VHS参入時、松下電器・日本ビクターへVHS発売の了解を得る必要性すらなかった。前述の通りVHSはソニーの自社特許技術が多数採用された方式であったからである。また、当時ソニーの子会社だった[アイワ](https://ja.wikipedia.org/wiki/アイワ "wikilink")（初代法人）は親会社に先行してVHSに参入していた。
+
+## VHSの需要低下
+
+[21世紀](https://ja.wikipedia.org/wiki/21世紀 "wikilink")に入ると[DVD](../Page/DVD.md "wikilink")や[ハードディスクレコーダ](https://ja.wikipedia.org/wiki/ハードディスクレコーダ "wikilink")、[パソコンの普及](../Page/パーソナルコンピュータ.md "wikilink")、高精細テレビ放送や[Blu-ray Discの登場](https://ja.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、多くの国での[デジタルテレビ放送](https://ja.wikipedia.org/wiki/デジタルテレビ放送 "wikilink")の開始といった「デジタル時代」「[ハイビジョン](https://ja.wikipedia.org/wiki/ハイビジョン "wikilink")時代」の中で、それに対応できないVHSカセットやVHS単体機は次第に売れなくなっていった。デジタルレコーダーとの複合機も、過去のライブラリーをデジタル化することに重点が移り、テレビ番組の録画ができないタイプのものが増えた。
+
+[ビデオ判定](https://ja.wikipedia.org/wiki/ビデオ判定 "wikilink")にも用いられたこともあったが、水平解像度が240本とアナログテレビ放送の330本より低いことから、正確な判定ができないケースも見受けられた。[2012年](https://ja.wikipedia.org/wiki/2012年 "wikilink")[5月19日](https://ja.wikipedia.org/wiki/5月19日 "wikilink")に[横浜スタジアム](https://ja.wikipedia.org/wiki/横浜スタジアム "wikilink")で開催された[横浜DeNAベイスターズ](https://ja.wikipedia.org/wiki/横浜DeNAベイスターズ "wikilink")対[千葉ロッテマリーンズ](https://ja.wikipedia.org/wiki/千葉ロッテマリーンズ "wikilink")では、[アレックス・ラミレス](https://ja.wikipedia.org/wiki/アレックス・ラミレス "wikilink")の[本塁打](https://ja.wikipedia.org/wiki/本塁打 "wikilink")性の飛球の判定に家庭用VHSデッキが使用され、映像では本塁打であることが分からなかったために[ファウル](https://ja.wikipedia.org/wiki/ファウル "wikilink")と判定されたケースがあった\[18\]。
+
+こうした状況も重なり、日本ビクターは[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）[5月30日](https://ja.wikipedia.org/wiki/5月30日 "wikilink")、経営不振による事業再建策として、VHSビデオ事業からの[撤退](https://ja.wikipedia.org/wiki/撤退 "wikilink")・[清算](https://ja.wikipedia.org/wiki/清算 "wikilink")を発表した\[19\]。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[1月15日](https://ja.wikipedia.org/wiki/1月15日 "wikilink")にS-VHS単体機を全機種生産終了したと発表し\[20\]、同年[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink")にはVHS方式単体機の生産を終了した。
+
+ビクターの撤退により、日本国内メーカーのVHSビデオ単体機の製造は[船井電機](https://ja.wikipedia.org/wiki/船井電機 "wikilink")（以下、フナイ）のみとなったが、やがてフナイも完全撤退した\[21\]。以降はDVD、HDDなどの複合機として展開されていたが、大幅に縮小された\[22\]。
+
+各社はテレビの完全デジタル化を睨み、販売の主力をHDD併用の[ブルーレイ](https://ja.wikipedia.org/wiki/Blu-ray_Disc "wikilink")[レコーダーに移しており](https://ja.wikipedia.org/wiki/BDレコーダー "wikilink")、商品ラインナップは縮小の一途をたどった。これにあわせ録画用ビデオテープから撤退する事業者も相次いでおり、有力メーカーとしては製造を続けているS-VHS用テープは既に販売終了となっており、2014年12月末で日立マクセル（現・[マクセル](https://ja.wikipedia.org/wiki/マクセル "wikilink")）も生産終了。2015年2月には[TDK](https://ja.wikipedia.org/wiki/TDK "wikilink")（←[イメーション](https://ja.wikipedia.org/wiki/イメーション "wikilink")のTDK <small>Life on Record</small>ブランド）も生産終了となり、2015年6月には録画用テープの在庫切れが目立ってきた。
+
+[2010年代](https://ja.wikipedia.org/wiki/2010年代 "wikilink")に入っても、VHS一体型の[DVDレコーダー](https://ja.wikipedia.org/wiki/DVDレコーダー "wikilink")ないし[BDレコーダー](https://ja.wikipedia.org/wiki/BDレコーダー "wikilink")が製造されていたが、各社とも[2011年](https://ja.wikipedia.org/wiki/2011年 "wikilink")末までに生産完了となった。2011年末までVHS一体型のDVDレコーダーを発売していたのは、フナイとDXアンテナ以外ではパナソニックの[DIGA](https://ja.wikipedia.org/wiki/DIGA "wikilink")「DMR-XP25V」（パナソニック自社生産）と[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")「D-VDR9K」（フナイのOEM）であった。[2012年](https://ja.wikipedia.org/wiki/2012年 "wikilink")2月10日、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")が「VHSデッキの日本国内向け生産を2011年限りで完全終了した」旨を公式発表した\[23\]。
+
+**2016年4月時点で新品流通していたVHSデッキ（録画再生機・再生専用機）は以下の通り。**
+
+  - DXR170V（VHS一体型DVDレコーダー）
+    [2014年](https://ja.wikipedia.org/wiki/2014年 "wikilink")[7月1日](https://ja.wikipedia.org/wiki/7月1日 "wikilink")に[DXアンテナ](https://ja.wikipedia.org/wiki/DXアンテナ "wikilink")（DX BROADTEC）から発売された。製造元は当時同社の親会社であったフナイ。
+    [2012年](https://ja.wikipedia.org/wiki/2012年 "wikilink")5月に「お客様のご要望にお応えして新発売\!」と発売された「DXR160V」の後継。2016年7月末で生産終了\[24\]。
+
+<!-- end list -->
+
+  - RVP-100（再生専用VHSプレーヤー）
+    [2013年](https://ja.wikipedia.org/wiki/2013年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")中旬に[ドウシシャ](https://ja.wikipedia.org/wiki/ドウシシャ "wikilink")（[SANSUIブランド](https://ja.wikipedia.org/wiki/山水電気 "wikilink")）から発売された。
+    4ヘッドHi-Fi音声対応でデジタルトラッキングを搭載した「再生専用」のVHS機であり、家庭に眠るVHS資産のDVD化やBD化、データ化に寄与する目的で商品化された\[25\]。生産・販売終了。
+
+## 規格一覧
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:VHS_cassette_tape_12.JPG "wikilink")
+
+  - 記録方式：[ヘリカルスキャンアジマス方式](https://ja.wikipedia.org/wiki/ヘリカルスキャン方式 "wikilink")
+  - 記録ヘッド数：2
+  - ヘッドドラム径：62mm
+  - ヘッドドラム回転数
+      - [NTSC](https://ja.wikipedia.org/wiki/NTSC "wikilink")：29.97Hz（約1800[rpm](https://ja.wikipedia.org/wiki/rpm "wikilink")）
+      - [PAL](https://ja.wikipedia.org/wiki/PAL "wikilink") / [SECAM](https://ja.wikipedia.org/wiki/SECAM "wikilink")：25Hz（1500rpm）
+  - カセットテープサイズ: 188×104×25mm
+  - テープ幅：12.65mm
+  - テープ送り速度：約33.34mm/s（SP）/16.76mm/s（LP）/11.18mm/s（EP）
+  - 記録トラック幅：約58μm（SP）/29μm（LP）/19μm（EP） ※LPモード対応機種は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内ではほとんど普及していない。
+  - 音声トラック
+      - ノーマル1トラック（モノラル音声）
+      - ノーマル2トラック（ステレオ音声。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）の[音声多重放送](https://ja.wikipedia.org/wiki/音声多重放送 "wikilink")開始に対応するために追加された。[ヒスノイズ](https://ja.wikipedia.org/wiki/ヒスノイズ "wikilink")が増加したため、対策として[ドルビーノイズリダクションシステム](https://ja.wikipedia.org/wiki/ドルビーノイズリダクションシステム "wikilink")Bタイプを搭載した。なお、対応する製品は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）・日本ビクターのHR-S10000以降生産されていない）
+      - Hi-Fi2トラック（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）に開発されたHi-Fi規格が主流になるまでは、ノーマル2トラック対応機種が各社から発売されていた）
+      - S-VHS DA（DigitalAudio・ [リニアPCM](https://ja.wikipedia.org/wiki/パルス符号変調#リニアPCM "wikilink"))過去には[日本ビクター](https://ja.wikipedia.org/wiki/日本ビクター "wikilink")製の[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）発売の「HR-Z1」、パナソニック製「NV-DX1」、日立製作所製「VT-PCM1」、三菱電機製「HV-V3000」に対応する外付式DAプロセッサ「CX-P3000」など、国内のメーカーから対応する製品が発売された。[衛星放送](https://ja.wikipedia.org/wiki/衛星放送 "wikilink")の[エアチェック](https://ja.wikipedia.org/wiki/エアチェック "wikilink")[ファン](https://ja.wikipedia.org/wiki/ファン "wikilink")などから[DAT](https://ja.wikipedia.org/wiki/DAT "wikilink")並みの高音質と高く評価されたが、1台30万円〜40万円前後の高価格が災いし、わずか1世代で生産が終了した。
+
+<!-- end list -->
+
+  -   - CDやHi-Fi規格もない[1980年代](../Page/1980年代.md "wikilink")前半、VHSカセットを用いた高音質・非圧縮PCMデジタルオーディオデッキ[テクニクス](https://ja.wikipedia.org/wiki/テクニクス "wikilink")「SV-P100」が60万円。日立製作所[Lo-D](https://ja.wikipedia.org/wiki/Lo-D "wikilink")「PCM-V300」が498,000円と高額ではあるが発売されオーディオマニア層を中心に愛好されていた。1986年(昭和61年）に東芝より「A-900PCM」が248,000円で発売され[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")を受賞している。\[26\]
+
+<!-- end list -->
+
+  - 信号方式
+      - 映像信号：[周波数変調](https://ja.wikipedia.org/wiki/周波数変調 "wikilink")（FM）シンクチップ：3.4MHz／白ピーク：4.4MHz：クロマ信号：低域変換方式（VHS方式）
+      - 映像信号：周波数変調（FM）シンクチップ：5.4MHz／白ピーク：7.0MHz：クロマ信号：低域変換方式（S-VHS方式）
+      - 音声信号：2チャンネル長手方向記録（ノーマル音声トラックの場合）
+
+## VHSテープを利用したシステム
+
+### コンピュータ用ストレージ
+
+VHSが普及するにつれ量産効果が上がり、テープ価格が大幅に値段を下げた。[オープンリール](https://ja.wikipedia.org/wiki/オープンリール "wikilink")を多用していたコンピュータ業界はテープの安さからデータカートリッジとしての利用を推し進めた。[富士通](../Page/富士通.md "wikilink")などは大型コンピュータの[補助記憶装置](https://ja.wikipedia.org/wiki/補助記憶装置 "wikilink")として用い、数百本のVHSテープを筐体内ラックに納め、コンピューター制御により[ジュークボックス](https://ja.wikipedia.org/wiki/ジュークボックス "wikilink")さながらのオートローディングを行わせ大型[磁気ディスク装置](https://ja.wikipedia.org/wiki/磁気ディスク装置 "wikilink")のバックアップ装置として活用した。この際使用したテープは市販のビデオ用テープと同じ規格の物を使用した。
+
+### 家庭用オーディオ
+
+『PCMプロセッサー』(ソニーSONY PCM-501ESなど)を使いCD等のデジタル音声をコンポジットビデオ信号に変換し画像として記録する事もできた。記録時間は通常のVHSの長さと同じで三倍モードにも対応している。
+
+### プロオーディオユース
+
+[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")（平成3年）、米ALESIS社がS-VHSテープに8トラックのデジタル録音を可能にした[MTR](https://ja.wikipedia.org/wiki/マルチトラックレコーダー "wikilink")、ADAT（ALESIS DIGITAL AUDIO TAPE）を発売。機器ばかりでなくメディアも安価、かつ、16台までの同期動作も可能ということで、中小のスタジオやホームスタジオで急速に広まった。いくつかのメーカーから互換機も発売されるなど、この規格は一定の普及を見、adat（エーダット）として、Hi8テープに同様の録音ができる[ティアック](https://ja.wikipedia.org/wiki/ティアック "wikilink")社の[DTRS](https://ja.wikipedia.org/wiki/DTRS "wikilink")規格とともに、ユーザーの根強い支持を得ている。
+
+初期の機種ではデジタルがゆえに事前にフォーマット作業が必要だった（後に録音と同時フォーマットが可能になる）。120分の録画テープに対し、約41分の録音が可能。デジタル記録はヘッドとの物理的接触などによる損耗に弱いため、ベース・フィルムを強化したADATロゴ入りの推奨S-VHSテープも存在する。当初のTypeIフォーマットでは、サンプリングレートは44.1kHzや48kHz、サンプリングビット16bitsであったが、後のTypeIIフォーマットで24bitsにも対応した。さらに、1チャンネルにつき通常の2トラック分を使って96kHzの記録・伝送を実現するS/MUXという規格もある。 一方、デジタル入出力インターフェイスは、これも普及している角型オプティカル（[TOS-Link](https://ja.wikipedia.org/wiki/トスリンク "wikilink")）のジャックとケーブルを用いて、8チャンネルまでの同時伝送が可能なものを搭載していた（ADAT Optical Interface：こちらも後にレコーディング機器のディジタル入出力用として一定の地位を築いた）。もちろん、民生機で広く普及しているデジタル音声インターフェイスである[S/PDIF](https://ja.wikipedia.org/wiki/S/PDIF "wikilink")とは、論理フォーマット上の互換性はない。
+
+## エピソード
+
+  - VHSカセットから派生されたものとして、PVC（Premium Video Cassette）がある。プレミアムボックスという開閉できる透明な蓋がカセットの背ラベル部分に付いている。ここには[セルビデオ](https://ja.wikipedia.org/wiki/セルビデオ "wikilink")の特典物の小物（模型やキーホルダーなど、重量40[gまで](https://ja.wikipedia.org/wiki/グラム "wikilink")）を収納することができる。ジャケットの背ラベルにも穴がくり抜かれていて、ボックス内が少し見えるようになっている。ボックスの開閉に支障となる物、その他同梱に不適当な物（粉類、水、油、磁気性のあるもの、溶けやすいもの、膨張するもの、液漏れしやすいもの、食品や菓子類、電池、壊れやすいもの）は収納できない。
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）に[任天堂](../Page/任天堂.md "wikilink")が発売した家庭用ゲーム機「[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")」は、そのゲームソフトのパッケージ寸法がVHSテープと全く同じであった。この時点ではすでに多くの一般家庭にVHSが普及しており、VHSのビデオテープ収納棚（ビデオラック）においても安価なものが出回っていたため、ゲームカセットの保管場所としてVHSのビデオラックが好まれた。
+  - 1980年代〜1990年代にかけて、映画や音楽ビデオテープの[ダビング](https://ja.wikipedia.org/wiki/ダビング "wikilink")サービスが商売として横行していたが、現在は[著作権](../Page/著作権.md "wikilink")の問題からそれらのダビングをしている。
+  - 1990年代後半にDVDが発売された際、VHSをそのままDVDにしている作品が多かった。
+  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")は2000年から2004年まではVHSとDVDを同時リリースしていた。
+
+## 関連映像
+
+  - 映画『[陽はまた昇る](https://ja.wikipedia.org/wiki/陽はまた昇る_\(映画\) "wikilink")』
+  - NHK [プロジェクトX](https://ja.wikipedia.org/wiki/プロジェクトX〜挑戦者たち〜 "wikilink") - 『窓際族が世界規格を作った〜VHS・執念の逆転劇〜』
+  - フジテレビ [カノッサの屈辱](https://ja.wikipedia.org/wiki/カノッサの屈辱_\(テレビ番組\) "wikilink") - 『関ヶ原ビデオ合戦史 VHS対ベータ、そして8ミリへ』
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+## 参考文献
+
+  - ジェームズ・ラードナー、西岡幸一『ファースト・フォワード　――アメリカを変えてしまったVTR』ISBN 4-89362-039-8
+  - 中川靖造『ドキュメント 日本の磁気記録開発　――オーディオとビデオに賭けた男たち』
+  - [JIS C 5581](https://ja.wikipedia.org/wiki/JIS_C_5581 "wikilink") VHS方式12.65mm(0.5in)磁気テープヘリカル走査ビデオカセットシステム
+
+## 外部リンク
+
+  - [株式会社JVCケンウッド](https://www.jvckenwood.com/)
+  - [日本ビクター「VHS博物館」](https://web.archive.org/web/20051231035019/http://www.vhs-std.com/jpn/museum/museumTop.htm) [インターネットアーカイブ](https://ja.wikipedia.org/wiki/インターネットアーカイブ "wikilink")
+
+[Category:VHS](https://ja.wikipedia.org/wiki/Category:VHS "wikilink") [Category:ビデオテープ](https://ja.wikipedia.org/wiki/Category:ビデオテープ "wikilink") [Category:コンポジットビデオフォーマット](https://ja.wikipedia.org/wiki/Category:コンポジットビデオフォーマット "wikilink") [Category:日本の発明](https://ja.wikipedia.org/wiki/Category:日本の発明 "wikilink") [Category:日本ビクター](https://ja.wikipedia.org/wiki/Category:日本ビクター "wikilink") [Category:パナソニック](https://ja.wikipedia.org/wiki/Category:パナソニック "wikilink")
+
+1.  [権威ある「IEEEマイルストーン」に認定](http://www.jvc-victor.co.jp/press/2006/ieee.html) 日本ビクター [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[10月11日](https://ja.wikipedia.org/wiki/10月11日 "wikilink")
+2.  激突\!ソニー対松下 ビデオに賭ける総力戦 日本経済新聞社 編　p.159
+3.   [立命館経営学](https://ja.wikipedia.org/wiki/立命館大学 "wikilink") 第45巻 第5号 [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（[平成](https://ja.wikipedia.org/wiki/平成 "wikilink")19年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")
+    [第6回シンポジゥム『研究開発と企業競争力』/ 大曽根収「VHS世界制覇への道」](http://www.toyo.ac.jp/rcm/sympo6-osone.html) [東洋大学](https://ja.wikipedia.org/wiki/東洋大学 "wikilink")経営力創成研究センター [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")
+4.  [さよならベータ！日本の黒物家電を変えたVHSとの「ビデオ戦争」の顛末](http://news.mynavi.jp/news/2015/11/13/466/)
+5.  [1](http://bizacademy.nikkei.co.jp/top-management/resume14/article.aspx?id=MMAC4i002030092015&page=2)
+6.  「どん底事業部、世界一を生み出す」日本経済新聞2014年11月13日夕刊14面
+7.  激突\!ソニー対松下 ビデオに賭ける総力戦 日本経済新聞社 編　p.85
+8.
+9.
+10. [Sony History 第2部 第2章 規格戦争に巻き込まれた秘蔵っ子](http://www.sony.co.jp/SonyInfo/CorporateInfo/History/SonyHistory/2-02.html)、ソニー
+11.
+12.
+13.
+14.
+15. \[[http://www.otari.co.jp/support/vintage/t710/index.html\]オタリ株式会社](http://www.otari.co.jp/support/vintage/t710/index.html%5Dオタリ株式会社) 製品情報
+16. 激突\!ソニー対松下 ビデオに賭ける総力戦 日本経済新聞社 編　p.64
+17. 激突\!ソニー対松下 ビデオに賭ける総力戦 日本経済新聞社 編　p.180～p.184
+18.
+19.  日本ビクター 2007年5月30日
+20. [S-VHSビデオデッキ販売終了のご案内](http://www.jvc-victor.co.jp/dvd/info.html) 日本ビクター 2008年1月15日
+21.
+22. [日本ビクター、ビデオデッキの生産終了](http://it.nikkei.co.jp/digital/news/index.aspx?n=NN001Y370%2024102008&landing=Nex) [NIKKEI NET](https://ja.wikipedia.org/wiki/NIKKEI_NET "wikilink")・[日経産業新聞](https://ja.wikipedia.org/wiki/日経産業新聞 "wikilink") 2008年10月27日
+    [ビクター、単体VHSビデオデッキの生産を終了 -DVD/VHS複合機などを継続展開](http://av.watch.impress.co.jp/docs/20081027/victor.htm) [AV Watch](https://ja.wikipedia.org/wiki/Impress_Watch "wikilink") 2008年10月27日
+23.
+24. [VHSビデオ機生産に幕](http://www.nikkei.com/article/DGXLZO04817850T10C16A7TI1000/)日本経済新聞 2016年7月14日
+25. [RVP-100の公式発表リリースPDF](http://prw.kyodonews.jp/prwfile/release/M101005/201312036724/_prw_OR1fl_k3578QjQ.pdf)
+26.

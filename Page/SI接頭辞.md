@@ -1,0 +1,207 @@
+> この記事は[SI](https://ja.wikipedia.org/wiki/SI)から翻訳されています。
+
+
+**SI接頭辞**（エスアイせっとうじ、）は、[国際単位系](https://ja.wikipedia.org/wiki/国際単位系 "wikilink") (SI) において、SI単位の十進の倍量・分量単位を作成するために、単一記号で表記するSI単位（ただし、質量の単位は例外であってSI基本単位でない「g（グラム）」に適用する。）の前につけられる[接頭辞](https://ja.wikipedia.org/wiki/接頭辞 "wikilink")である。
+
+国際単位系 (SI) 国際文書第8版（2006年）日本語版や[理科年表](https://ja.wikipedia.org/wiki/理科年表 "wikilink")、[日本産業規格](../Page/日本産業規格.md "wikilink")（[JIS Z](https://ja.wikipedia.org/wiki/JIS_Z_8203 "wikilink") 8000-1、他多数）では**SI接頭語**（エスアイせっとうご）と言う。また、計量単位令\[1\]（[政令](https://ja.wikipedia.org/wiki/政令 "wikilink")）や計量単位規則\[2\]（[省令](https://ja.wikipedia.org/wiki/省令 "wikilink")）では単に**接頭語**と言う。
+
+SI接頭辞は、SIの構成要素として[国際度量衡総会](https://ja.wikipedia.org/wiki/国際度量衡総会 "wikilink") (CGPM) によって決定されている。
+
+## 概要
+
+各物理量に[メートル](../Page/メートル.md "wikilink")、[秒](../Page/秒.md "wikilink")、[ワット](https://ja.wikipedia.org/wiki/ワット "wikilink")など基準となる1つの単位だけを定義し、それに10の累乗倍の数を示す[接頭辞](https://ja.wikipedia.org/wiki/接頭辞 "wikilink")を付けることで、大きな量や小さな量を表す。例えば、接頭辞「キロ」は1000倍を表すので、「キロ」メートルは1000[メートル](../Page/メートル.md "wikilink")に、「キロ」ワットは1000[ワット](https://ja.wikipedia.org/wiki/ワット "wikilink")になる。接頭辞「ミリ」は1000分の1を表すので、「ミリ」メートルは1000分の1メートルに（すなわち1メートルは1000ミリメートル）、「ミリ」リットルは1000分の1[リットル](../Page/リットル.md "wikilink")になる。
+
+例:
+
+  - 5 cm = 5 × 10<sup>−2</sup> m = 5 × 0.01 m = 0.05 m
+  - 3 MW = 3 × 10<sup>6</sup> W = 3 × 1 000 000 W = 3 000 000 W
+
+「**SI**接頭辞」となっているが、SIにしか使えないということではない。名前の異なる多くの単位を使う代わりに1つの単位にさまざまな接頭辞をつけるという発想は、SIの導入よりも早く[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")で[メートル法](../Page/メートル法.md "wikilink")が施行された[1793年](../Page/1793年.md "wikilink")にまでさかのぼるものであり、慣例としてSI接頭辞は多くのSIに属さない単位にも使用される。
+
+なお日本の[計量法](https://ja.wikipedia.org/wiki/計量法 "wikilink")では、SI接頭辞を付けることを禁止する単位を明示している（後述）。
+
+一方、SI単位にSI接頭辞をつけた単位は、1以外の比例定数を伴う単位であるため、SI単位ではあるが「[一貫性のあるSI単位](https://ja.wikipedia.org/wiki/一貫性_\(単位系\) "wikilink")」ではない。
+
+## 一覧
+
+以上のSI接頭辞には、以下のような規則が見られる。
+
+  - 倍量の接頭辞は最後が a で終わり、記号は大文字
+  - 分量の接頭辞は最後が o で終わり、記号は小文字
+
+ただし、メートル法の初期に作られた、までの接頭辞は、このルールに従っていない。
+
+記号はほぼ全て[ラテン文字](../Page/ラテン文字.md "wikilink")1文字だが、デカ (da) とマイクロ ([µ](https://ja.wikipedia.org/wiki/µ "wikilink")) だけが例外である。ただし [ギリシャ文字](https://ja.wikipedia.org/wiki/ギリシャ文字 "wikilink")が使えない場合にマイクロを [u](https://ja.wikipedia.org/wiki/u "wikilink") で表すことが [ISO 2955](https://ja.wikipedia.org/wiki/ISO_2955 "wikilink") で認められている。
+
+## 利点
+
+ある物理量について1種類の単位（例えば長さについてのメートル）しかなかったら、非常に大きな数字や小さな数字を扱わなければならなくなる。[尺貫法](../Page/尺貫法.md "wikilink")、[ヤード・ポンド法](../Page/ヤード・ポンド法.md "wikilink")などの伝統的な単位系では、異なる値の複数の単位（例えば[里](../Page/里.md "wikilink")、[尺](../Page/尺.md "wikilink")、[寸](../Page/寸.md "wikilink")）を用意し、それらを組み合わせて値を表現していた。これで、扱う数字を小さくするという目的は達せられたが、色々な単位を覚えなければならない。
+
+メートル法はこれに対し、同じ接頭辞を様々な単位につけるだけで単位を様々な大きさにすることができ、伝統的な単位系のような大きさによって全く別の単位を覚える必要がない。
+
+また、十進法なので計算のための換算も簡単にできる（尺貫法のように接頭辞を使わずとも部分的に十進法を採用していた度量衡もあるが、全面的に採用することは難しい）。これはメートル法の大きな利点の1つである。
+
+## 欠点
+
+単位名称が長くなりがちである。加えてそれらはしばしば接頭辞だけで呼称されることがあるために紛れることがある。例えば、キロメートル、キログラム、キロパスカルのように、様々な「キロ○○」が単に「キロ」と呼ばれると、誤解を生む元になる。
+
+体積など次元に高い次数（体積では3）を持つ物理量の単位では、桁が開きすぎてしまう。たとえば、キロは1000倍なので、立方キロメートルは10億 (10<sup>9</sup>) 立方メートルになる。このため、1万立方メートル - 1億立方メートル程度の体積が、立方メートル単位では桁が大きくなりすぎて、使いづらいという問題が起こる。
+
+従来の度量衡に比べれば広い範囲の値を表せるが、それでも原子・素粒子や宇宙についての物理定数に関しては接頭辞が足りない。そのため、これらの分野では[指数表記](../Page/指数表記.md "wikilink")や特別な単位が使われることが多い。そういった単位のいくつかは[SI併用単位](https://ja.wikipedia.org/wiki/SI併用単位 "wikilink")に指定されている。
+
+これらの分野で特別な単位が使われるのには、桁が違いすぎるという理由のほか、その物理量が特定の分野の計量の基準として使われてきたという事情がある。例えば、[天文単位](../Page/天文単位.md "wikilink")、[太陽質量](https://ja.wikipedia.org/wiki/太陽質量 "wikilink")、[地球質量](https://ja.wikipedia.org/wiki/地球質量 "wikilink")は[天文学](https://ja.wikipedia.org/wiki/天文学 "wikilink")の分野での距離や質量の基準となっている。[統一原子質量単位](https://ja.wikipedia.org/wiki/統一原子質量単位 "wikilink")は物理学における質量の基準となっている。
+
+## 使用法
+
+### 計量法による使用制限
+
+日本の計量法は、以下に列挙する計量単位にSI接頭辞をつけることを禁止している（計量法 第5条第1項\[3\]、計量単位令 第4条第1号\[4\]）\[5\]。
+
+  - 質量：キログラム（「キロ」そのものが接頭辞であるため）
+  - 密度：[キログラム毎立方メートル](https://ja.wikipedia.org/wiki/キログラム毎立方メートル "wikilink")（「キロ」そのものが接頭辞であるため）
+  - 時間：分、時
+  - 角度 (平面角)：[度](https://ja.wikipedia.org/wiki/度_\(角度\) "wikilink")、[分](https://ja.wikipedia.org/wiki/分_\(角度\) "wikilink")、[秒](https://ja.wikipedia.org/wiki/秒_\(角度\) "wikilink")
+  - 音圧レベルなど：[デシベル](../Page/デシベル.md "wikilink")（「デシ」そのものが接頭辞であるため）
+  - 圧力：気圧
+
+<!-- end list -->
+
+  - 質量流量：[キログラム毎秒](https://ja.wikipedia.org/wiki/キログラム毎秒 "wikilink")、キログラム毎分、キログラム毎時 （「キロ」そのものが接頭辞であるため）
+  - 流量：立方メートル毎秒、立方メートル毎分、立方メートル毎時
+  - 回転速度：回毎分、回毎時
+
+濃度
+
+  - [ピーエッチ](../Page/水素イオン指数.md "wikilink")
+  - 質量百分率、質量千分率、質量百万分率、質量十億分率、質量一兆分率、質量千兆分率
+  - 体積百分率、体積千分率、体積百万分率、体積十億分率、体積一兆分率、体積千兆分率
+
+その他
+
+  - [平方メートル](../Page/平方メートル.md "wikilink")、[立方メートル](../Page/立方メートル.md "wikilink")（以下のように接頭辞が常に[累乗](https://ja.wikipedia.org/wiki/累乗 "wikilink")に優先するため）
+  - 毎メートル、平方メートル毎秒
+  - 毎秒、毎分、毎時
+
+### 接頭辞の優先
+
+接頭辞は常に**[累乗](https://ja.wikipedia.org/wiki/累乗 "wikilink")に優先する**。例えば “km<sup>2</sup>” は「平方キロメートル」であって「キロ平方メートル」ではない。3 km<sup>2</sup> は  であって 3000 m<sup>2</sup> ではないし、もちろん  ではない。SI接頭辞は通常は1000倍ごとのステップとなるが、2の累乗を伴う場合は （100万）倍ごと、3の累乗を伴う場合は （10億）倍ごとのステップとなる。そのため、このような場合には、大きな数字を使わなければならなくなる。
+
+### 10<sup>3</sup>毎の倍数の推奨
+
+SI接頭辞は10<sup>3</sup>毎の倍数となっているものを使用することが推奨される。したがって 1 hm（ヘクトメートル）よりも 100 m とする方がよい。この原則の例外として実用的に使われている単位には[センチメートル](../Page/センチメートル.md "wikilink")、[立方センチメートル](../Page/立方センチメートル.md "wikilink")（これはミリリットルと等しい）、[ヘクトパスカル](../Page/ヘクトパスカル.md "wikilink")、[ヘクタール](../Page/ヘクタール.md "wikilink") (hect-are)、[デシリットル](https://ja.wikipedia.org/wiki/デシリットル "wikilink")、デシベル、立方デシメートル（これはリットルと等しい）がある。
+
+日本では上記の例以外でヘクト・デシ・センチの接頭辞を使うことは科学や技術の分野を含めてほとんどないが、国によっては[デシメートル](https://ja.wikipedia.org/wiki/デシメートル "wikilink")・[センチリットル](https://ja.wikipedia.org/wiki/センチリットル "wikilink")などがよく使用されている。
+
+### 二重接頭辞の禁止
+
+かつては二重接頭辞、すなわち複数の接頭辞を同時に使用する（「合成接頭語」という。）ことが行われていた。しかしSI導入の際に廃止されたため現在では二重以上の接頭辞の使用は禁止されており、それらの接頭辞を単独で用いなければならないようになった。かつての使用例に次のものがある。1番右のものが現在使われる単位である。
+
+  - 1 µmm（マイクロミリメートル）または 1 mμ（ミリ[ミクロン](https://ja.wikipedia.org/wiki/マイクロメートル#ミクロン "wikilink")）→ 1 nm（ナノメートル）
+  - 1 µµF（マイクロマイクロ[ファラド](https://ja.wikipedia.org/wiki/ファラド "wikilink")）→ 1 pF ([ピコファラド](https://ja.wikipedia.org/wiki/ピコファラド "wikilink"))
+  - 1 hkm（ヘクトキロメートル）→ 100 km (100キロメートル)
+  - 1 kMc （キロメガ[サイクル](https://ja.wikipedia.org/wiki/サイクル_\(単位\) "wikilink")）または1 Gc （ギガサイクル）→ 1 GHz（[ギガヘルツ](../Page/ギガヘルツ.md "wikilink")）
+  - 1 mmm（ミリミリメートル）または 1 μ（ミクロン）→ 1 µm（マイクロメートル）
+
+### キログラムの特例
+
+[キログラム](https://ja.wikipedia.org/wiki/キログラム "wikilink")は[SI基本単位](../Page/SI基本単位.md "wikilink")の中で唯一接頭辞がついており、グラムはその質量の1000分の1として定義されている。しかし、SIでは二重接頭辞（合成接頭語）は認めていないので、接頭辞はキログラムではなく**グラムに対して**付けられる。
+
+### 使われなくなった接頭辞
+
+かつて使われていた接頭辞に「[ミリア](https://ja.wikipedia.org/wiki/ミリア "wikilink")」(myria, 10<sup>4</sup>) があったが、SIが導入される以前の[1935年](../Page/1935年.md "wikilink")に廃止された（さらに[ミリオ](https://ja.wikipedia.org/wiki/ミリオ "wikilink") (myrio, ) があったとも言われる）。それは、これらの接頭辞が3の倍数の累乗のパターンに入っていないことや、これらの接頭辞に割り当てられる記号がない（m は既に使われており、のちに M, µ も使われた）こと、そしてあまり用いられていなかったことのためである。
+
+### 実際に使用される接頭辞の例
+
+  - 質量: ヘクトグラム、グラム、ミリグラム、マイクログラム、およびそれよりも小さいものが使用される。しかし、[メガグラム](https://ja.wikipedia.org/wiki/メガグラム "wikilink")や[ギガグラム](https://ja.wikipedia.org/wiki/ギガグラム "wikilink")およびそれ以上に大きいものが使用されるのはまれであり(しかしながら国際単位系ではそれを優先して使用することを推奨しているが)、現状では代わりに併用を認めている[トン](../Page/トン.md "wikilink")や指数表記が使用される。その理由は、トンの方が歴史的長く使用され、しかも幅広く認知されているためである。一方、トンと等しいメガグラムは、非SIのトンとSIに基づくトンを明確に区別するために用いられることがある。しかしながらグラムにSI接頭辞をつけて「ギガグラム」や「テラグラム」のように使うことができるものの、トンには、本来はSI接頭辞をつけて「メガトン」のように使うことはできない。そのためには、例えばというならばのほうが正しい。
+  - リットルによる体積: リットル、デシリットル、センチリットル、ミリリットル、マイクロリットル、およびそれよりも小さいものは使用される。大きなものでは、キロリットル、メガリットル、ギガリットルが使用される。
+  - 長さ: キロメートル、メートル、[デシメートル](https://ja.wikipedia.org/wiki/デシメートル "wikilink")、センチメートル、ミリメートル、およびそれ以下のものが使用される。しかし[メガメートル](https://ja.wikipedia.org/wiki/メガメートル "wikilink")、[ギガメートル](https://ja.wikipedia.org/wiki/ギガメートル "wikilink")、およびそれ以上のものが使用されるのはまれである。その大きな長さ（距離）を示すときには[天文単位](../Page/天文単位.md "wikilink")(150Gm弱)、[光年](../Page/光年.md "wikilink")(9.46Pm強)、[パーセク](../Page/パーセク.md "wikilink")(約30.9Pm)が使用されている。天文単位は非SI単位であるがSIと併用して良い単位とされている。
+  - 時間: [秒](../Page/秒.md "wikilink")、ミリ秒、マイクロ秒、およびそれより小さなものは使用される。秒よりも大きな時間には通常は[分](../Page/分.md "wikilink")、[時などや](../Page/時間_\(単位\).md "wikilink")[指数表記](../Page/指数表記.md "wikilink")が使用される。また、秒にSI接頭辞を付けて「キロ秒」、「メガ秒」のように使うことはできるが、分や時間にSI接頭辞を付けて「キロ分」のように使うことはできない（[SI接頭辞\#計量法による使用制限](https://ja.wikipedia.org/wiki/SI接頭辞#計量法による使用制限 "wikilink")）。そのため、例えばとせず、とするのが正しい。
+
+### デカの綴り
+
+「[デカ](../Page/デカ.md "wikilink")」の英語表記は、SI公式文書によれば、decaのみである\[6\]。しかし、アメリカ合衆国においては[NIST](https://ja.wikipedia.org/wiki/NIST "wikilink")がその表記をdekaに定めており\[7\]、同国においてのみ用いられている表記である。
+
+## 歴史
+
+[1793年](../Page/1793年.md "wikilink")に制定された最初の[メートル法](../Page/メートル法.md "wikilink")では、10倍刻みでまでのデカ、デシ、ヘクト、センチ、キロ、ミリの6つの接頭辞が定められた。名称は、倍量接頭辞は[ギリシャ語](https://ja.wikipedia.org/wiki/ギリシャ語 "wikilink")の「10」「100」「1000」、分量接頭辞は[ラテン語](../Page/ラテン語.md "wikilink")の「0.1（10とも）」「100」「1000」から作られた。
+
+[1795年](../Page/1795年.md "wikilink")、[ミリア](https://ja.wikipedia.org/wiki/ミリア "wikilink") () が導入された。ミリアはギリシャ語の「10000」から作られた。しかしそれ以上の接頭辞は作られず、デシミリ (dm = )、ヘクトキロ (hk = )、センチミリ (cm = ) などの二重接頭辞が使われた。なおミリアと同時に[ミリオ](https://ja.wikipedia.org/wiki/ミリオ "wikilink") () が導入されたとも言われるがはっきりしない。
+
+[1873](../Page/1873年.md "wikilink")–[1874年](../Page/1874年.md "wikilink")、[英国科学振興協会](https://ja.wikipedia.org/wiki/英国科学振興協会 "wikilink") (BAAS) は[CGS単位系](https://ja.wikipedia.org/wiki/CGS単位系 "wikilink")に、接頭辞としてミリアを含む7つに加え、を表すメガとマイクロを導入した。ただしメガとマイクロは[MKS単位系](https://ja.wikipedia.org/wiki/MKS単位系 "wikilink")やMKSA単位系ではなかなか使われなかった。メガとマイクロは、ギリシャ語の「大きい」「小さい」から作られた。なお、この後に作られる接頭辞は、メガとマイクロのように、倍量接頭辞は‐a、分量接頭辞は‐oで終わるようになる。
+
+[1935年](../Page/1935年.md "wikilink")、[国際度量衡委員会](https://ja.wikipedia.org/wiki/国際度量衡委員会 "wikilink") (CIPM) はメガを採用し、代わりにミリアを廃止した。
+
+[1960年](../Page/1960年.md "wikilink")の第11回[国際度量衡総会](https://ja.wikipedia.org/wiki/国際度量衡総会 "wikilink") (CGPM) でSIが定められたときには、メガ・マイクロまでの8つの接頭辞（ミリアは除く）に加え、さらに新しくのギガとナノ、のテラとピコを加えた12の接頭辞を導入した。ギガ、ナノ、テラはギリシャ語の「巨人」「小人」「怪物」、ピコはイタリア語の「小さい」から作られた。また同時に、二重接頭辞が廃止された。
+
+[1964年](../Page/1964年.md "wikilink")の第12回CGPMでのフェムトとのアト、[75年の第](../Page/1975年.md "wikilink")15回CGPMでのペタとのエクサが導入された。ペタとエクサはギリシャ語の「5」と「6」（1000・1000なので）、フェムトとアトは[デンマーク語](https://ja.wikipedia.org/wiki/デンマーク語 "wikilink")・[ノルウェー語](https://ja.wikipedia.org/wiki/ノルウェー語 "wikilink")の「15」と「18」から作られた。
+
+[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")の第19回CGPMでのゼタとゼプト、のヨタとヨクトが導入された。ゼタとヨタはイタリア語の「7」と「8」、ゼプトとヨクトはギリシャ語の「7」と「8」から作られた。元は同系の語であるため、とは語形が似ており、記号は大文字・小文字の違いのみになった。なおこのとき初めて、「倍量接頭辞はギリシャ語」という慣習が崩れた。
+
+## SI以外での使用
+
+### メートル法
+
+までの接頭辞はSI以前からあり、当然、SI以外の単位に対しても普通に使われる（[ヘクタール](../Page/ヘクタール.md "wikilink")、[ミリリットル](https://ja.wikipedia.org/wiki/ミリリットル "wikilink")、ミリ[ダイン](../Page/ダイン.md "wikilink")、[ミリバール](https://ja.wikipedia.org/wiki/ミリバール "wikilink")など）。
+
+SI以降にできた以上の接頭辞が使われることは希であるが、従来の二重接頭辞を1つのSI接頭辞に置き換える場合もある（ピコ[キュリー](https://ja.wikipedia.org/wiki/キュリー "wikilink")など）。
+
+### その他の物理単位
+
+特殊な分野でSI単位に代わって使われる、[パーセク](../Page/パーセク.md "wikilink") (pc)、[電子ボルト](../Page/電子ボルト.md "wikilink") (eV)、[ダルトン](https://ja.wikipedia.org/wiki/統一原子質量単位 "wikilink") (Da)、[年](https://ja.wikipedia.org/wiki/ユリウス年 "wikilink") (a)、[塩基対](https://ja.wikipedia.org/wiki/塩基対 "wikilink") (bp) 等には、倍量接頭辞がよく使われる。しかし、分量接頭辞がよく使われる単位は少ない。
+
+[ビット](../Page/ビット.md "wikilink") (b) と[バイト](../Page/バイト_\(情報\).md "wikilink") (B) にも倍量接頭辞がよく使われる。[2進接頭辞](https://ja.wikipedia.org/wiki/2進接頭辞 "wikilink") (1000の代わりに1024の冪) の意味で使われていることもある。SIでは、例えばキロ（k）を1024倍として用いることを厳しく禁じているので、[キビ](https://ja.wikipedia.org/wiki/キビバイト "wikilink") (Ki = 1024) の意味の「キロ」の記号は大文字の K を使う。
+
+[尺貫法](../Page/尺貫法.md "wikilink")など伝統的な度量衡の単位に使用されることはない。ただし、[ヤード・ポンド法](../Page/ヤード・ポンド法.md "wikilink")の単位にはごく希に使われる（マイクロ[インチ](../Page/インチ.md "wikilink")、キロ[フィート](../Page/フィート.md "wikilink")など）。
+
+にマイクロ[フォートナイト](https://ja.wikipedia.org/wiki/半月_\(期間\) "wikilink")（2[週間](https://ja.wikipedia.org/wiki/週間 "wikilink")の100万分の1、1.2096秒）や[アトパーセク](https://ja.wikipedia.org/wiki/アトパーセク "wikilink")（パーセクの分の1。約3.1センチメートル）などがある。また、[SFの未来社会の設定などで](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、地球に依拠した分や時といった単位を使わず、キロ秒やメガ秒を使っている、といったものがある（[ヴァーナー・ヴィンジ](https://ja.wikipedia.org/wiki/ヴァーナー・ヴィンジ "wikilink")『最果ての銀河船団』、1キロ秒は約17分弱、1メガ秒は約11.6日程度）。[メートル時間](https://ja.wikipedia.org/wiki/メートル時間 "wikilink")を参照。
+
+### 物理単位以外
+
+「キロ」を表す記号 “k” は、しばしば物理単位以外の単位についても上記のように1000倍の意味で用いられる。例えば40000円を40k円のように表現したり、[2000年問題](../Page/2000年問題.md "wikilink")を “Y2k” と略記したりする。
+
+このような場合、kは大文字で “K” と書かれることもあるが、メートル法の単位について使用する場合は大文字のKを使うことは間違った表記である（[キロ\#小文字を使う理由](https://ja.wikipedia.org/wiki/キロ#小文字を使う理由 "wikilink")を参考のこと）。
+
+冗談で使用される単位にも、接頭辞が付けられることがある。
+
+## 脚注
+
+<references />
+
+## 参考文献
+
+  -
+## 関連項目
+
+  - [2進接頭辞](https://ja.wikipedia.org/wiki/2進接頭辞 "wikilink")
+
+  - [指数表記](../Page/指数表記.md "wikilink")
+
+  -
+  - [数量の比較](../Page/数量の比較.md "wikilink")
+
+  - [非SI接頭辞](https://ja.wikipedia.org/wiki/非SI接頭辞 "wikilink")
+
+  - [倍数接頭辞](https://ja.wikipedia.org/wiki/倍数接頭辞 "wikilink") ：mono-、di-、tri-、tetra-等の接頭辞に関する項目。
+
+## 外部リンク
+
+  - [SI prefixes](http://www.bipm.fr/en/si/prefixes.html) - [国際度量衡局](https://ja.wikipedia.org/wiki/国際度量衡局 "wikilink")のサイト内にあるSI接頭辞の説明ページ
+
+  - [Proposal for an extension of the SI-prefix system to even larger and smaller units](http://jimvb.home.mindspring.com/unitsystem.htm)
+
+  -
+  - [計量標準総合センター：国際単位系 (SI)](http://www.nmij.jp/library/units/si/) - 産業技術総合研究所
+
+  - [NUMERICANA.com「Measurements & Units」](http://www.numericana.com/answer/units.htm)
+
+[fi:Kansainvälinen yksikköjärjestelmä\#Kerrannaisyksiköt](https://ja.wikipedia.org/wiki/fi:Kansainvälinen_yksikköjärjestelmä#Kerrannaisyksiköt "wikilink")
+
+[Category:SI接頭辞](https://ja.wikipedia.org/wiki/Category:SI接頭辞 "wikilink")
+
+1.
+2.
+3.
+4.   キログラム、分、時、度（平面角・角度の計量単位の度に限る。）、秒（平面角・角度の計量単位の秒に限る。）、[平方メートル](../Page/平方メートル.md "wikilink")、[立方メートル](../Page/立方メートル.md "wikilink")、毎秒、毎分、毎時、毎メートル、[キログラム毎立方メートル](https://ja.wikipedia.org/wiki/キログラム毎立方メートル "wikilink")、平方メートル毎秒、キログラム毎秒、キログラム毎分、キログラム毎時、立方メートル毎秒、立方メートル毎分、立方メートル毎時、[デシベル](../Page/デシベル.md "wikilink")、回毎分、回毎時、[気圧](../Page/気圧.md "wikilink")、質量[百分率](https://ja.wikipedia.org/wiki/百分率 "wikilink")、質量[千分率](https://ja.wikipedia.org/wiki/千分率 "wikilink")、質量[百万分率](https://ja.wikipedia.org/wiki/百万分率 "wikilink")、質量[十億分率](https://ja.wikipedia.org/wiki/十億分率 "wikilink")、質量[一兆分率](https://ja.wikipedia.org/wiki/一兆分率 "wikilink")、質量[千兆分率](https://ja.wikipedia.org/wiki/千兆分率 "wikilink")、体積百分率、体積千分率、体積百万分率、体積十億分率、体積一兆分率、体積千兆分率および[ピーエッチを](../Page/水素イオン指数.md "wikilink")**除く**。
+5.   (PDF) 通商産業省、SI単位等普及推進委員会、p.12、1999年3月発行
+6.  の94ページ以降、
+7.  , NIST Special Publication 330, 2008 Edition, p.iii, 第3段落

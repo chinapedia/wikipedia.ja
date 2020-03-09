@@ -1,0 +1,92 @@
+> この記事は[TK \(\)](https://ja.wikipedia.org/wiki/TK_\(\))から翻訳されています。
+
+
+**TK**(**TK-3**)と**TKS**は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")期に活躍した[ポーランド](../Page/ポーランド.md "wikilink")の偵察用[豆戦車](https://ja.wikipedia.org/wiki/豆戦車 "wikilink")である。
+
+TK（TK-3の名で知られる）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[カーデン・ロイド豆戦車](https://ja.wikipedia.org/wiki/カーデン・ロイド豆戦車 "wikilink")Mk.VIをもとにポーランドが開発した[豆戦車](https://ja.wikipedia.org/wiki/豆戦車 "wikilink")で、[1931年](../Page/1931年.md "wikilink")に生産が開始された。TKSはTKから出力の高いエンジンに換装し、最大装甲厚を2mm厚くしたものである（TKの装甲は8mm）。
+
+[1939年](../Page/1939年.md "wikilink")には主砲を20mm機関砲にしたTKSの生産が始まったが、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の侵攻を受けたため、24輌しか生産できなかった。
+
+## 構造
+
+車体は装甲板を[ボルト止めで繋げた構造で](../Page/ボルト_\(部品\).md "wikilink")、表から見える部分のボルトの頭は[三角錐](../Page/三角錐.md "wikilink")状に加工されボルトは車内側から止められている。
+
+車体内部はエンジンと変速機を中央に配置し、その両側に乗員が乗る構造で、乗員のすぐ隣にエンジンが直接置いてある。
+
+エンジンから変速機、ブレーキに至るまで走行装置は[フォードA型の部品を流用していた](https://ja.wikipedia.org/wiki/フォード・モーター "wikilink")。そのため低コストで製造することが可能だった。
+
+走行装置は、左右にフォードA型の[ドラムブレーキ](https://ja.wikipedia.org/wiki/ドラムブレーキ "wikilink")がそのまま付いており、右に曲がるときには右側のブレーキをかけると右側の回転速度が遅くなって左右の速度差で曲がる方式だった。この方式は曲がるときにブレーキをかけるため、曲がろうとすると減速してしまうという欠点があった。そのため、運転手は曲がるときにアクセルを噴かして速度を上げてから曲がるという操作を行った。変速機もフォードA型そのままの前進三段変速だった。
+
+自動車用の非力なエンジンではあったが、車体重量1トンあたり16馬力強あるため、十分な走行能力があった。
+
+## バリエーション
+
+[right](https://ja.wikipedia.org/wiki/ファイル:TK-3.jpg "wikilink")
+
+  - TK（TK-3）
+    TKシリーズ最初の量産型。改修されたプロトタイプTK-2を原型として、国営工廠（*PZInż*）\[1\]傘下のウルスス製作所において1931年に量産が始まり、軟鉄製の増加試作型15輌を含め、300輌が生産された。軍の登録車両ナンバーは1154-1353（増加試作型および第1・第2生産ロット）、1362-1461（第3生産ロット）。軟鉄製の増加試作型は訓練および後の試作型のベース車体として活用された。1939年の[ドイツによる侵攻時には](https://ja.wikipedia.org/wiki/ポーランド侵攻 "wikilink")、TKSとともにポーランド陸軍AFVの（数量的には）主力として実戦に参加した。
+  - TKF
+    [1933年](../Page/1933年.md "wikilink")に製作されたTK-3の馬力強化型。フォードのエンジンに換えて、TKSと同じ[フィアット](https://ja.wikipedia.org/wiki/フィアット "wikilink")122B型46馬力6気筒ガソリンエンジンを搭載する。生産台数は18輌か、それを若干上回る程度で、登録車両ナンバーはTK-3第3ロットに含まれる。TKFの名称は「TK、フィアット（F）エンジン付き」を示す。[セルビア](https://ja.wikipedia.org/wiki/セルビア "wikilink")、[ベオグラード](https://ja.wikipedia.org/wiki/ベオグラード "wikilink")の軍事博物館（カレメグダン城）に現存するTKはTK-3の車体形状を持つものの、足回りはTKSと同じ小改修型になっており、TKFである可能性が考えられる。
+  - TKS
+    1933年に試作され、翌年から量産されたTKシリーズの後期主量産型。生産数は資料により多少の差異があるが、軍の登録車両ナンバーは1492-1594、1597-1682、1702-1764、1799-1814（このほかにシャーシナンバー8890-8910、途中抜けがある可能性あり）で、280輌程度と思われる。比較的単純な形状だったTK-3に比べ、銃架部のみ突出した複雑な面構成の戦闘室となった。車長席上には、[ルドルフ・グンドラフ](https://ja.wikipedia.org/wiki/ルドルフ・グンドラフ "wikilink")技師設計による360度回転可能な[ペリスコープ](https://ja.wikipedia.org/wiki/ペリスコープ "wikilink")が装着された。プロトタイプ（登録ナンバー1160）は水冷スリーブ付きの[ブローニング7.92mm/wz.30だが](https://ja.wikipedia.org/wiki/ブローニングM1917重機関銃 "wikilink")、量産型はTK-3同様[オチキス7.92mm/wz.25が搭載された](https://ja.wikipedia.org/wiki/ホッチキス_Mle1914重機関銃 "wikilink")。エンジンは[ポルスキ・フィアット](https://ja.wikipedia.org/wiki/ポルスキ・フィアット "wikilink")122AC/42hp（前期型）または同BC/45hp（後期型）。エンジン換装に伴い、起動輪形状、転輪/誘導輪用ブーム細部形状など、足回りも小改修され、履帯幅も広げられた。重量増加、履帯換装により最大速度はTK-3よりわずかに落ちたが、不整地走行能力は向上している。
+  - TKS（[20mmFK model A/wz.38機関砲搭載型](https://ja.wikipedia.org/wiki/Nkm_wz.38_FK "wikilink")）
+    20mm機関砲が搭載された対戦車用TKS。[ゾロトゥルン20mm砲を搭載したプロトタイプの試験の後](https://ja.wikipedia.org/wiki/ゾロターン_S-18/100 "wikilink")、さらに長砲身で強力な国産20mmFK model A/wz.38機関砲を搭載する車両が既存のTKSを改修する形で、1939年に生産された。計画では、[1940年](../Page/1940年.md "wikilink")1月までに150輌のTK-3／TKSが20mm装備型に改修されるはずだったが、1939年9月の開戦時までに24輌（あるいは20輌、18輌など諸説あり）の20mm砲型TKSが完成したのみだった。車体基本形状は機銃装備型と変わらないが、20mmFK機関砲搭載に伴い、戦闘室上面のレイアウトが若干変更になっている。
+  - C2P
+    TKシリーズをベースに開発された、[ボフォース40mm/wz.36対空機関砲用](https://ja.wikipedia.org/wiki/ボフォース_40mm機関砲 "wikilink")（もしくはその弾薬トレーラー用）の牽引車（非装甲）。[1937年](../Page/1937年.md "wikilink")以降、200輌以上が生産された。もともとTKシリーズの（片側にブレーキを掛けるだけという）プリミティブな操向装置は牽引車向きではなく、このために新型の[トランスミッション](https://ja.wikipedia.org/wiki/トランスミッション "wikilink")が開発された。これに伴い、足回りのデザインも、誘導輪が大型になり接地するようになるなど改められている。
+
+## 試作型
+
+  - TK-1、TK-2
+    初期試作型。起動輪が後ろ側にあるTK-1（シリアルNr.6006）と、前側にあるTK-2（シリアルNr.6007）の2種が作られて比較審査された。ともに初期はオープントップだったが、後に密閉式に改められた。この戦闘室形状は、後のTK-3に受け継がれた。TK-1は車体前部右側にラジエーターを装着しており、前面に[ラジエーター](https://ja.wikipedia.org/wiki/ラジエーター "wikilink")グリルを持つ。TK-2は、さらに足回りも改装強化され、生産型TK-3の原型となった。TK-1は審査終了後、モドリンの装甲部隊訓練センターでモニュメントになっていたことが写真で確認できる。
+  - TKD
+    TK-3をベースに、試作47mm砲wz.25（1925年式）を搭載したオープントップ式の自走砲。[1932年](../Page/1932年.md "wikilink")に4輌が試作された。新設された戦闘室装甲は（砲防盾を除き）軟鉄製だった。砲そのものが不採用になったことなどから、車両も量産には移されなかった。[1938年](../Page/1938年.md "wikilink")の[チェコ](../Page/チェコ.md "wikilink")解体に際してのZaolzie地方への進駐作戦では、後述のTKS-Dとともに1個小隊が編成されて投入されているが、戦闘は経験していない。
+  - TKW
+    回転砲塔を備えた軽偵察戦車。試作1輌のみ。固定式戦闘室しか持たず射角が限られるTKの戦闘力向上のため、1933年、TKの1輌を利用して試作された。砲塔は戦闘室右側にオフセットして搭載され、左側には操縦手のための[キューポラ](https://ja.wikipedia.org/wiki/キューポラ "wikilink")がある。このキューポラに遮られるため、砲塔は360°回転はできなかった。砲塔形状は、途中でマウント部が前方に突き出した形状のものに変わっている。右側に砲塔を搭載したことによる重量バランスの悪さ、砲塔の車長と操縦手との意思疎通の難しさなどデザイン的に難点があり、採用にはならなかった。
+  - TKS（ゾロトゥルン20mm砲搭載型）
+    1輌のみの試作。TKシリーズの対戦車能力向上のため、[1935年](../Page/1935年.md "wikilink")から[36年にかけて](../Page/1936年.md "wikilink")1輌がゾロトゥルン20mm砲を搭載してテストされた。TKシリーズへの砲搭載は有効と判断されたが、ゾロトゥルン20mmは搭載には不適とされ、国産機関砲が開発・搭載されることになった。
+  - TK-3（FK-A wz.38 20mm機関砲搭載型）
+    TKSへのFK-A wz.38 20mm機関砲搭載とともに、旧型のTK-3へも同砲の搭載計画が進められ、1938年、1輌のTK-3が改装された。TK-3/20mm砲型は搭載に際して戦闘室右側前面に大きな張り出しを設けてある。この結果、車体前部上面左右にあった点検ハッチは、左側のみに減じている。戦闘室の基本形状をいじる必要がなかったTKSに比べ、改装が大がかりになるせいか、ドイツの侵攻までに、結局試作車1輌以外は完成しなかったものと思われる。
+  - TKS（Puteaux 37mm砲搭載型）
+    TKSの武装を、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[ルノー FT-17 軽戦車に搭載されていたのと同じ](https://ja.wikipedia.org/wiki/ルノー_FT-17_軽戦車 "wikilink")、[プトー37mm半自動砲に換装したもの](https://ja.wikipedia.org/wiki/M1916_37mm歩兵砲 "wikilink")。FT-17は戦間期のポーランドで多く使われており、プトー37mm砲はポーランド製の[wz.29装甲車](https://ja.wikipedia.org/wiki/wz.29装甲車 "wikilink")、[wz.34装甲車](https://ja.wikipedia.org/wiki/wz.34装甲車 "wikilink")にも搭載された、ポーランドではごくありふれた武装だった。少なくとも1輌の存在が写真で確認できる。おそらく武装強化の試験として通常のTKSから改装・テストされたものと思われるが、詳細は不明。
+  - TKS-B
+    C2P牽引車向けの新型トランスミッションと、大型の接地式誘導輪など改修された足回りを持つ、TKSの改良型。1936年に既存のTKSから1輌が改装された（軍登録番号1510）。試験では走行性能の大幅な向上が確認されたものの、TKシリーズ自体が時代遅れになってきていたこと、TKSの生産も[1937年](../Page/1937年.md "wikilink")には終了したことで、TKS-Bの計画も放棄された。試作TKS-Bの車台は後にTKS-D[自走砲](../Page/自走砲.md "wikilink")に流用された。
+  - TKS-D
+    [ボフォース 37mm対戦車砲を積んだ対戦車自走砲](https://ja.wikipedia.org/wiki/ボフォース_37mm対戦車砲 "wikilink")。2輌試作された。ボフォース 37mm対戦車砲は[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")が産んだ傑作対戦車砲で、ポーランド軍の標準対戦車火器として採用され、ポーランド国内でライセンス生産も行われていた。TKS-Dは当初、砲を降ろして牽引することも可能な、後のドイツのホイッシュレッケと同様のコンセプトを持つ装甲[トラクター](https://ja.wikipedia.org/wiki/トラクター "wikilink")という構想だったが、試作車両は積み降ろしできない通常形式のオープントップの自走砲であったらしい。試作車2輌のうち1輌はTKS-Bから、もう1輌はTKSから（TKS-Bに準じた足回りに改修された上で）、1937年に製作された。側面装甲板は前部のみ高いもの、前部と同じ高さで後部まで続いているものの2種が写真で確認できるが、後者の写真は修正されているらしき形跡があり、異なる装甲板形状のものが1輌ずつ作られたのか、写真の修正で描き改められたのか、はっきりしない。試作車2輌はTKDとともに1938年のZaolzie地方への進駐作戦に参加。1939年のドイツの侵攻時にも使われたとの説があるがはっきりしない。
+
+## 戦歴
+
+[right](https://ja.wikipedia.org/wiki/ファイル:Drezyna_pancerna_typu_TKS.jpg "wikilink")
+
+第二次世界大戦以前、ポーランドの装甲戦闘車輌の主力はTKシリーズであり、その大多数が機銃のみを装備し、対戦車戦闘能力を持たなかった。しかし、ポーランドの軍事史研究家ヤヌシュ・マグスヌキの研究によれば、1939年9月のドイツ軍の[ポーランド侵攻](https://ja.wikipedia.org/wiki/ポーランド侵攻 "wikilink")作戦において、1939年9月17日から18日の戦闘で[71装甲部隊に所属する当時](https://ja.wikipedia.org/wiki/:pl:71_Dywizjon_Pancerny "wikilink")19歳だった[エドモンド・ローマン・オルリック](https://ja.wikipedia.org/wiki/エドモンド・ローマン・オルリック "wikilink")見習士官の乗るわずか1輌の20mm機関砲装備のTKSが、待ち伏せ攻撃で[35(t)戦車装備の部隊に損害を与え](https://ja.wikipedia.org/wiki/LT-35 "wikilink")13輌を撃破する活躍を見せたと言われている。
+
+ポーランドの降伏後、TKシリーズは弾薬運搬や砲の牽引用としてドイツ軍に捕獲使用された。
+
+## 登場作品
+
+  - 『[World of Tanks](https://ja.wikipedia.org/wiki/World_of_Tanks "wikilink")』
+    20mm機関砲搭載型のTKSが、[ポーランド](../Page/ポーランド.md "wikilink")[軽戦車](https://ja.wikipedia.org/wiki/軽戦車 "wikilink") TKS z n.k.m. 20 mm として配布された。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  - 上田 暁「ポーランドの豆戦車シリーズ」、アルゴノート社『PANZER』2005年8月号 No.400　p94～p97
+  - ヤヌシュ・マグヌスキ「ポーランド機甲部隊史」第3-4回、大日本絵画『モデルグラフィックス』1988年7、8月号
+  - スティーブ・ザロガ「ポーランド軍戦車部隊 1930-39」、戦車マガジン社『戦車マガジン』1990年11月号
+  - "The PIBWL military site" <http://derela.republika.pl/armcarpl.htm#tk>
+  - Jan Tarczyński, Krzysztof Barbarski, Adam Jońca, "Pojazdy w Wojsku Polskim - Polish Army Vehicles - 1918-1939", Ajaks, Pruszków 1995
+  - Adam Jońca, Rajmund Szubański, Jan Tarczyński, "Wrzesień 1939 POJAZDY WOJSKA POLSKIEGO Barwa i broń", WKŁ, Warszawa 1990
+  - Janusz Magnuski "KARALUCHY PRZECIW PANZEROM" PELTA, Warszawa 1995
+  - Militaria / kwartalnik historyczno-modelarski vol.1/no.3, no.4, no.5
+
+## 関連項目
+
+  - [戦車一覧](../Page/戦車一覧.md "wikilink")
+
+[Category:ポーランドの戦車](https://ja.wikipedia.org/wiki/Category:ポーランドの戦車 "wikilink") [Category:豆戦車](https://ja.wikipedia.org/wiki/Category:豆戦車 "wikilink")
+
+1.  正式名称は、[Państwowe Zakłady Inżynieryjne](https://ja.wikipedia.org/wiki/w:Państwowe_Zakłady_Inżynieryjne "wikilink")（国営技術工廠）。[軍需産業](https://ja.wikipedia.org/wiki/軍需産業 "wikilink")の再編成と近代化のため、[1928年](../Page/1928年.md "wikilink")に国有の工場と科学研究所を統括する組織として設立され、傘下の工場は軍需産業と軍用・民用[車両](../Page/車両.md "wikilink")の製造を担っていた。[1944年](../Page/1944年.md "wikilink")の[ワルシャワ蜂起](https://ja.wikipedia.org/wiki/ワルシャワ蜂起 "wikilink")時に本部組織が破壊されたが、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後に国有工場は各工場の独自生産態勢に切り替えられたため、PZInżはそのまま消滅した。

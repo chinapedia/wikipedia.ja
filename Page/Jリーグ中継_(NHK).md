@@ -1,0 +1,518 @@
+> この記事は[J \(NHK\)](https://ja.wikipedia.org/wiki/J_\(NHK\))から翻訳されています。
+
+
+この項目では、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") (NHK) が[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）の試合を中継して放送する[テレビ番組](../Page/テレビ番組.md "wikilink")（[スポーツ中継](https://ja.wikipedia.org/wiki/スポーツ中継 "wikilink")）について述べる。
+
+## 概要
+
+NHKはJリーグ発足以前の[日本サッカーリーグ](../Page/日本サッカーリーグ.md "wikilink") (JSL) の実況中継を行っていた実績を踏まえて、[1993年](../Page/1993年.md "wikilink")のJリーグ発足当初から毎年公式戦（リーグ戦・ポストシーズンマッチ）の中継放送を[NHK BS1](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")、[総合テレビで放送している](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")。また、これらとは別に、各地域放送局制作で、対戦チームのホームタウン向けに随時ローカル中継が行われている（詳細は[Jリーグ中継\#ローカル放送](https://ja.wikipedia.org/wiki/Jリーグ中継#ローカル放送 "wikilink")の項を参照）。年1-2回程度、複数の試合を多元生中継する「**Jリーグスペシャル**」が行われるのも特徴の一つである（詳細後述）。
+
+NHKが共催として名を連ねている[天皇杯の独占放送権も有しており](https://ja.wikipedia.org/wiki/天皇杯_JFA_全日本サッカー選手権大会 "wikilink")、都道府県の決勝をローカルで、3回戦以降の注目カード（Jリーグ所属クラブの試合が中心）をBS1で、決勝を総合テレビで放送している。この場合はオープニングやテーマ曲は独自のものが用いられ、エンディングテーマは「[日本サッカーの歌](https://ja.wikipedia.org/wiki/日本サッカーの歌 "wikilink")」のインストゥルメンタルバージョン（[坂本龍一](../Page/坂本龍一.md "wikilink")作曲・[門倉聡](https://ja.wikipedia.org/wiki/門倉聡 "wikilink")編曲）が用いられる。
+
+なお、同じ公式戦ながら、カップ戦である[YBCルヴァンカップと](../Page/Jリーグカップ.md "wikilink")、[スーパーカップ](https://ja.wikipedia.org/wiki/スーパーカップ "wikilink")である[FUJI XEROX SUPER CUPについては民放](https://ja.wikipedia.org/wiki/FUJI_XEROX_SUPER_CUP "wikilink")（[2016年](../Page/2016年.md "wikilink")時点では、前者が[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、後者が[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")）が地上波・衛星波の独占放映権を有しているため、NHKでは中継を行っていない。いずれも冠スポンサー大会であり、NHKでは[放送法](../Page/放送法.md "wikilink")第83条で禁止されている[広告放送とみなされる事から](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")、基本的に前者を「Jリーグカップ」「カップ戦」、後者を「スーパーカップ」と表記・呼称している。
+
+[2011年](../Page/2011年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")（天皇杯決勝）より、本編オープニングの前に、サッカー番組用の共通[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")が新設された。これは画面右中央部分にサッカーボールのデザインに使われる六角形のイメージと、その下に「FOOTBALL」という文字、画面左下に「SOCCER NHK SPORTS」のロゴが入ったもの。その後サッカーボールを蹴るイメージのイラストが画面右上から中央、そして再び右側に消え、六角形がパネルのように回転するというもの。[2014年](../Page/2014年.md "wikilink")にはアイキャッチが新調された。また[2017年](../Page/2017年.md "wikilink")度からは「サッカー見たい\!\!」をスローガンにサッカー中継PRキャンペーンを実施。これに伴い、[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")\[1\] を起用したアイキャッチが新調され、サッカー中継・Jリーグタイムのオープニング以外にBS1のスポット枠でも放映されている。
+
+### BS1
+
+リーグ戦は毎節1・2試合をBS1で中継している。シーズン中は土曜日の19:00-21:00がJリーグ中継用の放送枠として確保されており、基本的にはこの時間帯の試合（19時キックオフ）を生中継する。BS1の定時ニュースである[NHK BSニュースは試合中継のハーフタイム中に挿入される](https://ja.wikipedia.org/wiki/NHK_BSニュース "wikilink")。なお、放映権を持つJリーグ側との調整により放送対象が土曜日のナイトマッチとならないケースも増えてきている。2012年からは放映権が更新され、土曜日のデイマッチの中継が増加しナイトマッチと合わせ2試合中継する節が増加した。また、19:00放送開始ながら録画放送となるケースもあり（試合開始が変更になった場合や、ほかのスポーツの生中継との兼ね合いによる）、この場合はハーフタイム等を編集することにより放送終了時間は20:50となる。
+
+どの試合を中継するかはリーグ開始当初にあらかじめ割り当てられているが、終盤の各節についてはNHKに中継試合の選択権がある程度与えられている模様で、前節の終了時点で優勝争いに絡む試合（ただし、優先権契約を持っている[スカパーJSAT](../Page/スカパーJSAT.md "wikilink")が独占中継権を行使しない試合に限られる）を中継することとしている。このため、終盤数節はBSでの中継試合が前もって決まっていないことが多い。この場合はデイマッチの生中継（地上波との平行放送）になることも多く、19時台には中継されない。
+
+NHKが優先権契約を行っていた2006年まではBS1で毎節2・3試合を放送していた。この場合、試合日が分散される場合は各日1試合ずつの放映が基本であった。
+
+[2011年](../Page/2011年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")の2011年J1開幕節（[柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")vs[清水エスパルス](../Page/清水エスパルス.md "wikilink")・[日立柏サッカー場](../Page/日立柏サッカー場.md "wikilink")）までは旧・衛星第1テレビジョンからの放送で、デジタル放送も含めて標準画質（[レターボックス16:9](https://ja.wikipedia.org/wiki/レターボックス_\(映像技術\) "wikilink")）となっていたが、[2011年](../Page/2011年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")の2011年J1第7節（[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")vs[ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")・[等々力陸上競技場](../Page/等々力陸上競技場.md "wikilink")）からは新・BS1に移行し、デジタル放送はハイビジョンにて放送されている。
+
+BS1では原則としてJ1の試合のみ放送するが、まれにJ2の試合を放送する場合がある。浦和レッズがJ2に降格していた[2000年](../Page/2000年.md "wikilink")は、J2のリーグ戦のうち、浦和の絡む3試合をBS1で放送、[2003年](../Page/2003年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")には当時J2のアルビレックス新潟の昇格決定となった試合（vs[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")）をBS1で放送している。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")以降は毎年J2の試合が数試合放送されていて、[2013年](../Page/2013年.md "wikilink")以降は11月に行われる終盤の試合を放送している。[2012年](../Page/2012年.md "wikilink")からは[J1昇格プレーオフ](https://ja.wikipedia.org/wiki/J1昇格プレーオフ "wikilink")決勝（2018年より[J1参入プレーオフ](https://ja.wikipedia.org/wiki/J1参入プレーオフ "wikilink")決定戦）を生中継している。
+
+### 総合テレビ・BS hi
+
+リーグ戦期間中は開幕節を始めとして、平均月1回のペースで総合テレビで中継している。土曜日のデイマッチの生中継が基本。この場合、[NHKワールド](https://ja.wikipedia.org/wiki/NHKワールド "wikilink")・プレミアムでも同時放送の場合があるほか、かつては[BSハイビジョン (BShi)でも同時放送が行われていた](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")。
+
+このうち、開幕節については、総合テレビで1試合を生中継している（開幕カードでも一部の試合で地域向け放送として地元J2クラブの試合の差し替え放送が行われている）。また、優勝決定の可能性のある節ではその節開始時点での首位チームの試合を総合テレビで中継し（リーグ開始当初には与えられていなかった放映権が与えられる）、優勝決定となった場合にはそのまま引き続き優勝セレモニーまでが中継されることが通例となっている。2015年から行われている[Jリーグチャンピオンシップ](https://ja.wikipedia.org/wiki/Jリーグチャンピオンシップ "wikilink")は準決勝と決勝第2戦を総合テレビで生中継している（Jリーグ公式戦が[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")に地上波で全国中継されたのは11年ぶり\[2\]）。
+
+Jリーグクラブのある地域では全国中継放送時にカードを差し替えて地元Jリーグクラブの試合を放送する場合がある。全国中継がない場合でも通常番組を別日に移動させて放送する場合もある。なお、総合テレビとBS1で同じ試合を同時に全国中継することはない（地上波ローカル中継とBS1の同時中継は「Jリーグスペシャル」時に数回ある。後述参照）。
+
+2012年以降のローカル中継では、全国放送枠でローカル中継により差し替えを行う場合には、デジタル放送の[マルチ編成を活用し](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送#マルチ編成 "wikilink")、メインチャンネルでローカル中継による試合を、サブチャンネルで全国放送枠の試合を中継し、2試合同時中継を行う場合がある。
+
+かつてのBShiにおける中継は[2011年](../Page/2011年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")に予定されていたJ1第2節の中継が最後となる予定だったが、前日発生した東北地方太平洋沖地震（東日本大震災）の関係で試合が7月2日に順延となり、[3月31日](../Page/3月31日.md "wikilink")にBShiが放送終了となったため、BShiでの放送は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")が最後となり、以後BS1に統合された。
+
+### 放送されない場合
+
+[夏季オリンピック](../Page/夏季オリンピック.md "wikilink")\[3\] などと並行開催となる場合は編成上、及びアナウンサー・解説者を含むスタッフの人員配置および放送枠の都合で放送されない場合がある。過去の事例として夏季五輪では[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[北京](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")、[2012年](../Page/2012年.md "wikilink")[ロンドン](https://ja.wikipedia.org/wiki/ロンドンオリンピック_\(2012年\) "wikilink")、[2016年](../Page/2016年.md "wikilink")[リオの各大会](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック "wikilink")\[4\]。五輪以外では[2011年](../Page/2011年.md "wikilink")の[ナデシコパ。](https://ja.wikipedia.org/wiki/ナデシコパ。 "wikilink")特別編成（[2011 FIFA女子ワールドカップと](https://ja.wikipedia.org/wiki/2011_FIFA女子ワールドカップ "wikilink")[コパ・アメリカ2011](https://ja.wikipedia.org/wiki/コパ・アメリカ2011 "wikilink")\[5\]）がある。
+
+## テーマ曲
+
+NHKにおけるJリーグの中継では、中継の終了時に流される[テーマ曲](https://ja.wikipedia.org/wiki/テーマ曲 "wikilink")が用意されており、曲名とアーティスト名が[クレジット入りで紹介されている](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")。近年のNHKのスポーツ中継ではクレジット入りの「[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")」が用意される事例はここ数年NHKのほかのスポーツ中継でも見られるが、このような形で「テーマ曲」が用意されるのは、[オリンピック中継や](../Page/近代オリンピック.md "wikilink")[サッカーワールドカップ中継を除けば唯一となっている](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")。このテーマ曲はBS1で放送されている[Jリーグタイム](https://ja.wikipedia.org/wiki/Jリーグタイム "wikilink")でもエンディングに使用されている。
+
+なお、オープニング映像もJリーグ中継オリジナルのもので、通常NHKのスポーツ中継のテーマ曲となっている「[スポーツショー行進曲](https://ja.wikipedia.org/wiki/スポーツショー行進曲 "wikilink")」（NHKスポーツテーマ）は用いられない。
+
+2010年後期以降は「NHKサッカー放送テーマソング」として、Jリーグ以外を含めたサッカー中継共通のテーマ曲として扱われており、Jリーグタイムのオープニングにも使われている。
+
+## 解説者一覧
+
+※2016年時点。五十音順。他局（スカパー\!や民放のローカル中継）のサッカー中継でも解説者として出演する人物もいる。（☆はヨーロッパのサッカー中継解説も担当する）
+
+  - [加茂周](../Page/加茂周.md "wikilink")（現在では登場頻度は低く、関西地方のローカル中継担当がほとんど）
+  - ☆[木村和司](../Page/木村和司.md "wikilink")（2010年に横浜F・マリノス監督就任のため一時降板→2012・13年は主に海外サッカーを中心とした「ゲスト解説」扱い→2014年より本格的にレギュラー復帰）
+  - ☆[小島伸幸](https://ja.wikipedia.org/wiki/小島伸幸 "wikilink")
+  - ☆[戸田和幸](https://ja.wikipedia.org/wiki/戸田和幸 "wikilink")
+  - ☆[名良橋晃](https://ja.wikipedia.org/wiki/名良橋晃 "wikilink")（2009年より出演　「ゲスト解説」扱い。海外サッカーを担当することが多く、Jリーグは担当が少ない）
+  - ☆[早野宏史](https://ja.wikipedia.org/wiki/早野宏史 "wikilink")
+  - ☆[福西崇史](https://ja.wikipedia.org/wiki/福西崇史 "wikilink")（2009年より出演　但し、2009年は「ゲスト解説」扱いだった）
+  - [宮澤ミシェル](https://ja.wikipedia.org/wiki/宮澤ミシェル "wikilink")
+  - [森島寛晃](https://ja.wikipedia.org/wiki/森島寛晃 "wikilink")（2010年より出演　主に関西での試合を担当）
+  - [山野孝義](https://ja.wikipedia.org/wiki/山野孝義 "wikilink")（関西以西で行われる試合の中継で登場することが多い）
+  - ☆[山本昌邦](https://ja.wikipedia.org/wiki/山本昌邦 "wikilink")
+
+### 元解説者一覧
+
+Jリーグ中継の解説を退いた後も、欧州サッカー中継や[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")中継で『ゲスト解説』の扱いで出演するケースがある。
+
+  - [井原正巳](https://ja.wikipedia.org/wiki/井原正巳 "wikilink")（2009年より[柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")コーチ→2015年より[アビスパ福岡](../Page/アビスパ福岡.md "wikilink")監督）
+  - [岡田武史](../Page/岡田武史.md "wikilink")（2007年より[サッカー日本代表](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")監督→[WOWOW](../Page/WOWOW.md "wikilink")専属解説者→[杭州緑城足球倶楽部](https://ja.wikipedia.org/wiki/杭州緑城足球倶楽部 "wikilink")監督→[FC今治](https://ja.wikipedia.org/wiki/FC今治 "wikilink")オーナー）
+  - [川勝良一](https://ja.wikipedia.org/wiki/川勝良一 "wikilink")（2010年-2012年[東京ヴェルディ監督](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")）
+  - ☆[長谷川健太](https://ja.wikipedia.org/wiki/長谷川健太 "wikilink")（2005年-2010年[清水エスパルス](../Page/清水エスパルス.md "wikilink")監督　2013年-2017年[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")監督　2018年-[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")監督）
+  - ☆[原博実](https://ja.wikipedia.org/wiki/原博実 "wikilink")（2009年よりJFA技術委員長（強化担当）、JFA特任理事及び国際マッチメイク委員）
+  - [三浦泰年](https://ja.wikipedia.org/wiki/三浦泰年 "wikilink")（2011年-2012年[ギラヴァンツ北九州](https://ja.wikipedia.org/wiki/ギラヴァンツ北九州 "wikilink")監督→2013-2014年途中東京ヴェルディ監督→2016年[カターレ富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")監督→2017年[鹿児島ユナイテッドFC](https://ja.wikipedia.org/wiki/鹿児島ユナイテッドFC "wikilink")監督。その数年前から出演頻度が減少していた）
+  - [山口素弘](https://ja.wikipedia.org/wiki/山口素弘 "wikilink")（2009年より『[すぽると\!](../Page/すぽると!.md "wikilink")』（フジテレビ）土曜日のJリーグキャスター→[横浜FC](../Page/横浜FC.md "wikilink")監督→2015年『すぽると\!』Jリーグキャスター復帰）
+  - ☆[平野孝](https://ja.wikipedia.org/wiki/平野孝 "wikilink")（2011年より出演 主に東海地区ローカル中継やプレミアリーグ中継に「ゲスト解説」扱いで担当していたが、2013年よりスカパー\!の『[Jリーグマッチデーハイライト](https://ja.wikipedia.org/wiki/Jリーグマッチデーハイライト "wikilink")』キャスター就任のため降板。ただし海外サッカー中継では引き続き担当している）
+
+## 担当アナウンサー
+
+NHKのJリーグ中継の場合、全国中継の場合は多くは[NHKグローバルメディアサービス](https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス "wikilink") (G-Media NHK) に出向中のサッカー担当アナウンサーもしくは[NHK放送センター](../Page/NHK放送センター.md "wikilink")（東京アナウンス室）および各地域拠点局所属のスポーツ担当アナウンサーが担当する。ローカル放送の場合は、基本的に各放送局のアナウンサーが担当している（各放送局の項を参考のこと）。
+
+東京アナウンス室とG-Media出向のアナウンサーは[中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink")とBS 1『[Jリーグタイム](https://ja.wikipedia.org/wiki/Jリーグタイム "wikilink")』を進行することがある。
+
+## Jリーグスペシャル
+
+[2003年](../Page/2003年.md "wikilink")と[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")の5月の大型連休に「**Jリーグスペシャルデー**」と題し、当日のテレビの放送時間を統一・調整した上で（Jリーグは試合日程の編成には基本的に関与していない）、JリーグのホームタウンにあるNHKの各放送局が地元チームの試合に特化して実況放送を行っている。[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")は11月6日にもスペシャルデーを実施した。
+
+[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")以降は全国放送カードが行われる日にローカル差し替えが行われる試合があり、これを生かした多元中継が行われる場合がある。
+
+近年は放映権の問題や土日分散開催もあって行われていなかったが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に6年ぶりに「**Jリーグスペシャル**」としての多元中継が行われている。主に開幕節や大型連休中に放送を行っている。
+
+総合テレビの放送では、メイン会場（あるいは東京のスタジオ）と全国各地の地域ごとの差し替え放送が行われるスタジアムを結び、試合前・ハーフタイム・試合終了後の3回に分けて全国共通パートを送り、それぞれの会場の試合の様子を刻々伝えていく。
+
+### 第1回
+
+[2003年](../Page/2003年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink")放送。全試合15時30分開始。
+
+  - 全国放送
+
+<!-- end list -->
+
+  - 総合テレビ（下記地域放送カード対象地区除く）・衛星ハイビジョンテレビ　J1・[鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink") - [横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")（[カシマスタジアム](https://ja.wikipedia.org/wiki/カシマサッカースタジアム "wikilink")）
+  - 衛星第1テレビ　J1・[浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink") - [清水エスパルス](../Page/清水エスパルス.md "wikilink")（[埼玉スタジアム](../Page/埼玉スタジアム2002.md "wikilink")）
+
+<!-- end list -->
+
+  - 地域放送（いずれも総合テレビ）
+
+<!-- end list -->
+
+  - J1
+      - [東海地方](../Page/東海地方.md "wikilink")、[大分県](../Page/大分県.md "wikilink")　[名古屋グランパスエイト](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink") - [大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")（[瑞穂陸上競技場](../Page/名古屋市瑞穂公園陸上競技場.md "wikilink")）
+      - [近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")　[京都パープルサンガ](../Page/京都サンガF.C..md "wikilink") - [ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")（[西京極陸上競技場](https://ja.wikipedia.org/wiki/西京極総合運動公園陸上競技場兼球技場 "wikilink")）
+  - J2
+      - [山梨県](../Page/山梨県.md "wikilink")、[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")　[ヴァンフォーレ甲府](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")-[モンテディオ山形](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")（[小瀬陸上競技場](../Page/山梨県小瀬スポーツ公園陸上競技場.md "wikilink")）
+      - [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")　[アビスパ福岡](../Page/アビスパ福岡.md "wikilink") - [サンフレッチェ広島](https://ja.wikipedia.org/wiki/サンフレッチェ広島 "wikilink")（[東平尾公園博多の森球技場](https://ja.wikipedia.org/wiki/東平尾公園博多の森球技場 "wikilink")）\[6\]
+
+### 第2回
+
+[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[5月5日](../Page/5月5日.md "wikilink")放送。全試合15時30分開始。
+
+  - 全国放送
+
+<!-- end list -->
+
+  - 総合テレビ（下記地域放送カード対象地区除く）・衛星ハイビジョンテレビ　J1・浦和レッドダイヤモンズ－鹿島アントラーズ（埼玉スタジアム）
+  - 衛星第1テレビ　J1・[東京ヴェルディ1969](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")－[ジェフユナイテッド市原](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")（[味の素スタジアム](../Page/東京スタジアム_\(多目的スタジアム\).md "wikilink")）
+
+<!-- end list -->
+
+  - 地域放送（いずれも総合テレビ）
+
+<!-- end list -->
+
+  - J1
+      - 東海地方、[新潟県](../Page/新潟県.md "wikilink")　名古屋グランパスエイト－[アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")（瑞穂陸上競技場）
+      - 近畿地方、広島県　[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")－サンフレッチェ広島（[長居スタジアム](../Page/長居陸上競技場.md "wikilink")）
+  - J2
+      - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")　[コンサドーレ札幌](https://ja.wikipedia.org/wiki/北海道コンサドーレ札幌 "wikilink")－[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")（[厚別競技場](../Page/札幌厚別公園競技場.md "wikilink")）
+      - [東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")　モンテディオ山形－ベガルタ仙台（[山形県陸上競技場](../Page/山形県総合運動公園.md "wikilink")）
+
+### 第3回
+
+2004年[11月6日](../Page/11月6日.md "wikilink")放送。全試合14時開始。
+
+  - 全国放送
+
+<!-- end list -->
+
+  - 総合テレビ（下記地域放送カード対象地区除く）、衛星ハイビジョンテレビ　J1・浦和レッドダイヤモンズ-清水エスパルス（埼玉スタジアム）
+  - 衛星第1テレビ　J1・[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")-[アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")[万博記念競技場](../Page/万博記念競技場.md "wikilink")）\[7\] \[8\]
+
+<!-- end list -->
+
+  - 地域放送（いずれも総合テレビ）
+
+<!-- end list -->
+
+  - J1
+      - 東海地方、広島県　名古屋グランパスエイト-サンフレッチェ広島（※2　瑞穂陸上競技場）\[9\]
+      - 近畿地方、新潟県　ガンバ大阪-アルビレックス新潟（※1、2　万博記念競技場）\[10\] \[11\]
+  - J2
+      - 北海道　コンサドーレ札幌-[サガン鳥栖](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")（[札幌ドーム](../Page/札幌ドーム.md "wikilink")）
+      - 山形県　モンテディオ山形-[湘南ベルマーレ](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")（山形県陸上競技場）
+      - [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")、宮城県　[水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")-ベガルタ仙台（[笠松競技場](../Page/笠松運動公園陸上競技場.md "wikilink")）\[12\]
+      - 福岡県　アビスパ福岡-川崎フロンターレ（東平尾公園・博多の森球技場）
+
+### 第4回
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月13日](../Page/3月13日.md "wikilink")放送。「Jリーグスペシャル」として6年振りの放送だが、前回までと放送体制が若干異なる。
+
+  - NHKが優先放送権を手放したこともあり、地上波（総合テレビ）と衛星放送との同時放送は行われない\[13\]。
+  - 全体の進行役として[山岸舞彩](https://ja.wikipedia.org/wiki/山岸舞彩 "wikilink")（[Jリーグタイム](https://ja.wikipedia.org/wiki/Jリーグタイム "wikilink")MC）が出演する（この日は試合前後とハーフタイムにNHK放送センターから出演）。
+
+同時中継では以下の4試合を放送した\[14\]。各試合16時キックオフ。
+
+  - 全国放送
+
+<!-- end list -->
+
+  - 総合テレビ（下記地域放送カード対象地区除く）　J1・名古屋グランパスエイト-川崎フロンターレ（[豊田スタジアム](../Page/豊田スタジアム.md "wikilink")）
+
+<!-- end list -->
+
+  - 地域放送（いずれも総合テレビ）
+
+<!-- end list -->
+
+  - J1
+      - 東北地方　[ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")-[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")（[ユアテックスタジアム仙台](../Page/仙台スタジアム.md "wikilink")）
+  - J2
+      - 北海道、福岡県　コンサドーレ札幌-アビスパ福岡（札幌ドーム）
+      - [山梨県](../Page/山梨県.md "wikilink")、茨城県（※2）　[ヴァンフォーレ甲府](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")-水戸ホーリーホック（[山梨県小瀬スポーツ公園陸上競技場](../Page/山梨県小瀬スポーツ公園陸上競技場.md "wikilink")）\[15\]
+      - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")　[ファジアーノ岡山](https://ja.wikipedia.org/wiki/ファジアーノ岡山FC "wikilink")-[横浜FC](../Page/横浜FC.md "wikilink")（[kankoスタジアム](https://ja.wikipedia.org/wiki/岡山県総合グラウンド陸上競技場 "wikilink")）
+
+### 第5回
+
+2010年[5月5日](../Page/5月5日.md "wikilink")放送。放送時間は13:55-16:05。全体進行役の山岸と[一橋忠之](https://ja.wikipedia.org/wiki/一橋忠之 "wikilink")（NHKアナウンサー）は浦和-名古屋の行われる埼玉スタジアムからの出演。いずれも14時試合開始。
+
+なお、[京都局では](../Page/NHK京都放送局.md "wikilink")13:00-15:15に[京都サンガFC](https://ja.wikipedia.org/wiki/京都サンガFC "wikilink")-清水エスパルス（[西京極陸上競技場](https://ja.wikipedia.org/wiki/西京極総合運動公園陸上競技場兼球技場 "wikilink")、13時試合開始）を放送し、Jリーグスペシャルには参加しなかった。また、前回同様、地上波（総合テレビ）と衛星放送との同時放送は行われない\[16\]。
+
+  - 全国放送
+
+<!-- end list -->
+
+  - 総合テレビ（下記地域放送対象カード地区除く）　J1・浦和レッドダイヤモンズ-名古屋グランパスエイト（埼玉スタジアム）
+
+<!-- end list -->
+
+  - 地域放送（いずれも総合テレビ）
+
+<!-- end list -->
+
+  - J1
+      - 近畿地方（京都府は除く）　[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")-鹿島アントラーズ（長居スタジアム）
+  - J2
+      - 北海道　コンサドーレ札幌-東京ヴェルディ（[札幌ドーム](../Page/札幌ドーム.md "wikilink")）
+      - 山梨県　ヴァンフォーレ甲府-[柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")（小瀬スポーツ公園陸上競技場）
+      - 福岡県、[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")　アビスパ福岡-[ロアッソ熊本](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")（レベルファイブスタジアム福岡）
+
+### 第6回
+
+「Jリーグ開幕スペシャル」として2011年[3月5日](../Page/3月5日.md "wikilink") 13:50-16:05に放送。シーズン開幕戦での実施は初。[東京の特設スタジオに](../Page/NHK放送センター.md "wikilink")[香川真司](https://ja.wikipedia.org/wiki/香川真司 "wikilink")（[ボルシア・ドルトムント](https://ja.wikipedia.org/wiki/ボルシア・ドルトムント "wikilink")所属。骨折の治療・リハビリのため日本に一時帰国していた）をゲスト解説として迎え、全体進行役をアナウンサーの[松野靖彦](https://ja.wikipedia.org/wiki/松野靖彦 "wikilink")と2011年度Jリーグタイムキャスターの[伊藤友里](https://ja.wikipedia.org/wiki/伊藤友里 "wikilink")が務めた。
+
+この日、BS1ではJ1・柏レイソル-清水エスパルス（[日立柏サッカー場](../Page/日立柏サッカー場.md "wikilink")）を放送したが、19時キックオフであり、「開幕スペシャル」とは別枠で放送された。
+
+  - 全国放送
+
+<!-- end list -->
+
+  - 総合テレビ（下記地域放送対象カード地区除く）　J1・名古屋グランパスエイト-横浜F・マリノス（豊田スタジアム）
+  - 衛星第1テレビ　柏レイソル-清水エスパルス（[日立柏サッカー場](../Page/日立柏サッカー場.md "wikilink")）\[17\]
+
+<!-- end list -->
+
+  - 地域放送（いずれも総合テレビ）
+
+<!-- end list -->
+
+  - J1
+      - 山梨県、[静岡県](../Page/静岡県.md "wikilink")　ヴァンフォーレ甲府-ジュビロ磐田（山梨中銀スタジアム）
+      - 近畿地方　ガンバ大阪-セレッソ大阪（万博記念競技場）
+      - 広島県・宮城県　サンフレッチェ広島-ベガルタ仙台（広島ビッグアーチ）
+  - J2
+      - 愛媛県・北海道　[愛媛FC](https://ja.wikipedia.org/wiki/愛媛FC "wikilink")-コンサドーレ札幌（[ニンジニアスタジアム](https://ja.wikipedia.org/wiki/愛媛県総合運動公園陸上競技場 "wikilink")）
+
+### 第7回
+
+2011年[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")実施。今回は当日行われるJ1第9節7試合（鹿島vsC大阪・G大阪vs名古屋はACLの関係で8月に実施、J2第10節は翌[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")に開催）のうち5試合を中継した。全試合14時開始。全体進行役はアナウンサーの野地俊二、Jリーグタイムキャスターの伊藤友里、解説の[長谷川健太](https://ja.wikipedia.org/wiki/長谷川健太 "wikilink")。
+
+BS1では、山形県域で放送したモンテディオ山形-柏レイソルを19:00-20:50に録画中継（生放送時より放送時間が10分短い）を行った。
+
+  - 全国放送
+
+<!-- end list -->
+
+  - 総合テレビ（下記地域放送対象カード地区除く）　浦和レッドダイヤモンズ-横浜F・マリノス（埼玉スタジアム）
+
+<!-- end list -->
+
+  - 地域放送（いずれも総合テレビ・J1）
+
+<!-- end list -->
+
+  - 宮城県・福岡県　ベガルタ仙台-アビスパ福岡（ユアテックスタジアム仙台）
+  - 山形県　モンテディオ山形-柏レイソル（[NDソフトスタジアム](../Page/山形県総合運動公園陸上競技場.md "wikilink")）\[18\]
+  - 山梨県　ヴァンフォーレ甲府-大宮アルディージャ（山梨中銀スタジアム）
+  - 新潟県・[兵庫県](../Page/兵庫県.md "wikilink")　アルビレックス新潟-ヴィッセル神戸（東北電力ビッグスワン）
+
+### 第8回
+
+「Jリーグ開幕スペシャル」として[2012年](../Page/2012年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink") 13:55-16:05に放送\[19\]。J1・J2が原則分散開催となったため、対象試合はすべてJ1開幕節の試合となる。全国放送対象となる[ユアテックスタジアム仙台をメイン会場として放送](../Page/仙台スタジアム.md "wikilink")。全体進行役は[吉松欣史](https://ja.wikipedia.org/wiki/吉松欣史 "wikilink")で、ゲストに[足立梨花](https://ja.wikipedia.org/wiki/足立梨花 "wikilink")（Jリーグ特命PR部女子マネージャー）を迎えた\[20\]。
+
+今回は下記地域放送対象地区ではデジタル放送の[マルチ編成を活用し](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送#マルチ編成 "wikilink")、地域別の試合をメインチャンネルで、全国放送対象試合（仙台-鹿島）をサブチャンネルで並列放送を行った\[21\]。他地域ではマルチ編成を行わず全国放送分のみ。なお仙台対鹿島戦の中継は、3月10・11日にNHK総合が実施した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連の特別編成「[明日へ〜支えあおう〜](https://ja.wikipedia.org/wiki/明日へ〜支えあおう〜 "wikilink")」の関連番組として放送された\[22\]。
+
+なお、広島県域では同時刻にサンフレッチェ広島-浦和レッズ（広島ビッグアーチ）の中継を行ったが、「Jリーグ開幕スペシャル」の中継には参加しておらず\[23\]、実質的に全国放送の差し替えとなっている（広島県域でもマルチ編成放送を実施）。
+
+  - 全国放送
+
+<!-- end list -->
+
+  - 総合テレビ、NHKワールド・プレミアム　ベガルタ仙台-鹿島アントラーズ（ユアテックスタジアム仙台）
+
+<!-- end list -->
+
+  - 地域放送（いずれも総合テレビ［メインチャンネル］・J1）
+
+<!-- end list -->
+
+  - 北海道　コンサドーレ札幌-ジュビロ磐田（札幌ドーム）
+  - 愛知県・岐阜県・三重県・静岡県　名古屋グランパス-清水エスパルス（豊田スタジアム）
+  - 近畿地方　ガンバ大阪-ヴィッセル神戸（万博記念競技場）
+  - 九州・沖縄地方　サガン鳥栖-セレッソ大阪（[ベストアメニティスタジアム](../Page/鳥栖スタジアム.md "wikilink")）
+
+### 第9回（J2スペシャル）
+
+「J2スペシャル」として[2012年](../Page/2012年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")に放送。当日行われるJ2第11節のうち3試合を生中継する。
+
+通常の「Jリーグスペシャル」と異なり、地上波での多元生中継ではなく、キックオフ時間の異なる3試合をBS1で連続中継するというもので、[NHK BSニュースを挟み](https://ja.wikipedia.org/wiki/NHK_BSニュース "wikilink")6時間連続生放送となる。
+
+全体進行役は[山岸舞彩](https://ja.wikipedia.org/wiki/山岸舞彩 "wikilink")と足立梨花。山岸は三ツ沢から中継に参加の後、松本での試合中に横浜から調布に移動し、味の素スタジアムから中継を行った\[24\]。足立は松本からの中継参加。
+
+  - 13:00-14:55 [横浜FC](../Page/横浜FC.md "wikilink") - [FC町田ゼルビア](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")（[ニッパツ三ツ沢球技場](../Page/三ツ沢公園球技場.md "wikilink")）
+  - 15:00-16:55 [松本山雅FC](https://ja.wikipedia.org/wiki/松本山雅FC "wikilink") - [京都サンガF.C.](../Page/京都サンガF.C..md "wikilink")（[長野県松本平広域公園総合球技場](https://ja.wikipedia.org/wiki/長野県松本平広域公園総合球技場 "wikilink")）
+  - 17:00-18:55 [東京ヴェルディ](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink") - [モンテディオ山形](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")（[味の素スタジアム](../Page/東京スタジアム_\(多目的スタジアム\).md "wikilink")）
+
+### 第10回
+
+「Jリーグ開幕スペシャル」として、[2013年](../Page/2013年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")（土曜日）の 13:55 - 16:05に総合テレビで生放送\[25\]。前年（第8回）に続き対象試合は全てJ1開幕節の試合となる。進行役は[松野靖彦](https://ja.wikipedia.org/wiki/松野靖彦 "wikilink")と[杉浦友紀](https://ja.wikipedia.org/wiki/杉浦友紀 "wikilink")（いずれも東京アナウンス室所属のアナウンサー、杉浦は同年4月から『[サタデースポーツ](../Page/サタデースポーツ.md "wikilink")』・『[サンデースポーツ](../Page/サンデースポーツ.md "wikilink")』キャスター）\[26\] で、[エディオンスタジアム広島ピッチサイドの特設ブースから放送した](../Page/広島広域公園陸上競技場.md "wikilink")。なお、一部の地域では[マルチ編成を使わず](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送#マルチ編成 "wikilink")、地域放送対象カードのみ中継している。
+
+なお、BS1で同日夜に放送されたナイトゲーム・大分トリニータ - FC東京（[大分銀行ドーム](../Page/大分スポーツ公園総合競技場.md "wikilink")）については、NHKの電子番組表上で「Jリーグ中継」とだけ扱われていた\[27\]。翌日開催のJ2開幕節の試合については、全国向けの中継ではなく、一部のカードをホームタウンの地域放送局が「Jリーグ中継」のタイトルで放送した。
+
+  - 全国放送
+
+<!-- end list -->
+
+  - 総合テレビ（下記地域放送対象カード地区除く）　サンフレッチェ広島-浦和レッズ（エディオンスタジアム広島）
+
+<!-- end list -->
+
+  - 地域放送（いずれも総合テレビ・J1）
+
+<!-- end list -->
+
+  - 宮城県・山梨県　ベガルタ仙台 - ヴァンフォーレ甲府（ユアテックスタジアム仙台）
+  - 愛知県・岐阜県・三重県・静岡県　名古屋グランパス - ジュビロ磐田（豊田スタジアム）
+  - 近畿地方・新潟県　セレッソ大阪 - アルビレックス新潟（長居スタジアム）
+  - 佐賀県・福岡県（[福岡局エリア](https://ja.wikipedia.org/wiki/NHK福岡放送局 "wikilink")＜[福岡都市圏](../Page/福岡都市圏.md "wikilink")のみ＞\[28\]・茨城県　サガン鳥栖 - 鹿島アントラーズ（ベストアメニティスタジアム）
+
+### 第11回
+
+「Jリーグ開幕スペシャル」として、[2014年](../Page/2014年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")（土曜日）の13:55 - 16:05に総合テレビで生放送\[29\]。「開幕スペシャル」としての放送は3年連続。進行役は[鳥海貴樹](https://ja.wikipedia.org/wiki/鳥海貴樹 "wikilink")と[森花子](https://ja.wikipedia.org/wiki/森花子 "wikilink")（[水戸局所属](../Page/NHK水戸放送局.md "wikilink")）で、全国中継カードのセレッソ大阪 - サンフレッチェ広島に解説者として出演する[福西崇史](https://ja.wikipedia.org/wiki/福西崇史 "wikilink")を交えながら、[ヤンマースタジアム長居スタンド上段の特設スタジオから放送した](../Page/長居陸上競技場.md "wikilink")。一部の地域では、[マルチ編成を使わず](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送#マルチ編成 "wikilink")、地域放送対象カードのみ中継した。
+
+なお、BS1で同日夜に放送されたナイトゲーム・ガンバ大阪 - 浦和レッズ（[万博記念競技場](../Page/万博記念競技場.md "wikilink")）については、NHKの電子番組表上で「Jリーグ中継」とだけ扱われていた\[30\]。翌日開催分のカード（J1開幕節の一部およびJ2開幕節の全試合）については、全国向けの中継ではなく、一部のカードをホームタウンの地域放送局が「Jリーグ中継」のタイトルで放送する。
+
+  - 全国放送
+
+<!-- end list -->
+
+  - 総合テレビ（下記地域放送対象カード地区除く）　セレッソ大阪 - サンフレッチェ広島（ヤンマースタジアム長居）
+
+<!-- end list -->
+
+  - 地域放送（いずれも総合テレビ・J1）
+
+<!-- end list -->
+
+  - 宮城県・新潟県　ベガルタ仙台 - アルビレックス新潟（ユアテックスタジアム仙台）
+  - 愛知県・岐阜県・三重県・静岡県・長野県　名古屋グランパス - 清水エスパルス（豊田スタジアム）
+  - 山梨県・茨城県　ヴァンフォーレ甲府 - 鹿島アントラーズ（国立競技場）\[31\]
+  - 佐賀県・四国地方　サガン鳥栖 - [徳島ヴォルティス](../Page/徳島ヴォルティス.md "wikilink")（ベストアメニティスタジアム）
+
+### 第12回
+
+「Jリーグ開幕スペシャル」として、[2015年](../Page/2015年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")（土曜日）の13:55 - 16:05に総合テレビで生放送\[32\]\[33\]。「開幕スペシャル」としての放送は4年連続。進行役は[小宮山晃義](https://ja.wikipedia.org/wiki/小宮山晃義 "wikilink")と[赤木野々花](https://ja.wikipedia.org/wiki/赤木野々花 "wikilink")（[徳島局所属](../Page/NHK徳島放送局.md "wikilink")\[34\]）で、全国中継カードのガンバ大阪 - FC東京戦に解説者として出演する[福西崇史](https://ja.wikipedia.org/wiki/福西崇史 "wikilink")を交えながら、[万博記念競技場](../Page/万博記念競技場.md "wikilink")ピッチサイドの特設ブースから放送した。前年同様、一部の地域では、[マルチ編成を使わず](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送#マルチ編成 "wikilink")、地域放送対象カードのみ中継した。
+
+なお、BS1で同日夜に放送されたナイトゲーム・湘南ベルマーレ - 浦和レッズ（[Shonan BMWスタジアム平塚](../Page/平塚競技場.md "wikilink")）については、NHKの電子番組表上で「Jリーグ中継」とだけ扱われていた。翌日開催分のJ2開幕節では、大宮アルディージャ - [ツエーゲン金沢](https://ja.wikipedia.org/wiki/ツエーゲン金沢 "wikilink")（[NACK5スタジアム大宮](https://ja.wikipedia.org/wiki/さいたま市大宮公園サッカー場 "wikilink")）BS1で生中継するほかは、全国向けの中継ではなく、一部のカードをホームタウンの地域放送局が「Jリーグ中継」のタイトルで放送する。
+
+  - 全国放送
+
+<!-- end list -->
+
+  - 総合テレビ（下記地域放送対象カード地区除く）　ガンバ大阪 - FC東京（万博記念競技場）
+
+<!-- end list -->
+
+  - 地域放送（いずれも総合テレビ・J1）
+
+<!-- end list -->
+
+  - 東北地方　ベガルタ仙台 - モンテディオ山形（ユアテックスタジアム仙台）
+  - 愛知県・岐阜県・三重県・長野県　名古屋グランパス - 松本山雅FC（豊田スタジアム）
+  - 広島県・山梨県　サンフレッチェ広島 - ヴァンフォーレ甲府（エディオンスタジアム広島）
+  - 佐賀県・新潟県　サガン鳥栖 - アルビレックス新潟（ベストアメニティスタジアム）\[35\]
+
+### 第13回
+
+「Jリーグ開幕スペシャル」として、[2016年](../Page/2016年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")（土曜日）の13:50 - 16:05に総合テレビで生放送\[36\]。「開幕スペシャル」としての放送は5年連続だが、過去最少の3会場同時中継となる。
+
+なお、BS1で同日夜に放送されるナイトゲーム・FC東京 - 大宮アルディージャ（[味の素スタジアム](../Page/東京スタジアム_\(多目的スタジアム\).md "wikilink")）については、NHKの電子番組表上で「Jリーグ中継」とだけ扱われている。翌日開催分のJ2開幕節では、2試合をホームタウンの地域放送局が「Jリーグ中継」のタイトルで放送する。
+
+  - 全国放送
+
+<!-- end list -->
+
+  - 総合テレビ（下記地域放送対象カード地区除く）　J1・サンフレッチェ広島 - 川崎フロンターレ（エディオンスタジアム広島）
+
+<!-- end list -->
+
+  - 地域放送（いずれも総合テレビ・J1）
+
+<!-- end list -->
+
+  - 静岡県・愛知県・岐阜県・三重県・長野県　ジュビロ磐田 - 名古屋グランパス（ヤマハスタジアム）
+  - 佐賀県・福岡県　サガン鳥栖 - アビスパ福岡（ベストアメニティスタジアム）
+
+### 第14回
+
+第14回も「Jリーグ開幕スペシャル」と題して[2017年](../Page/2017年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")13:50-16:05に総合テレビで、また14:00-16:00にはBS1で次のカードを生放送する。総合テレビでは佐藤美希と杉岡英樹の進行でカシマスタジアムをキーステーションとして地域差し替え・BS1での放送を含む4試合の会場をリレー中継した。
+
+  - 全国放送（いずれもJ1）
+
+<!-- end list -->
+
+  - 総合テレビ（下記地域放送対象カード地区除く）　鹿島アントラーズ対FC東京（カシマスタジアム）
+  - BS1　清水エスパルス対ヴィッセル神戸（IAIスタジアム日本平）
+
+<!-- end list -->
+
+  - 地域放送（いずれも総合テレビ・J1）
+
+<!-- end list -->
+
+  - 北海道・宮城県　ベガルタ仙台対北海道コンサドーレ札幌（ユアテックスタジアム仙台）
+  - 広島県・新潟県　サンフレッチェ広島対アルビレックス新潟（エディオンスタジアム広島）
+  - 佐賀県　サガン鳥栖対柏レイソル（ベストアメニティスタジアム）
+
+## NHKの他のサッカー中継との関連
+
+  - NHKが放映権を持つ海外サッカーリーグ中継\[37\] の中継は主に本番組を担当する解説者・アナウンサー\[38\] が担当する。
+  - NHKが放送するサッカーの国際大会においては、Jリーグスペシャルと同様に東京のスタジオに人員（主に女性キャスター\[39\] と男性のサッカー実況担当アナウンサー\[40\] 各1名、解説者1名、日本代表戦など場合によってはゲスト）を配置してハイライト映像などを放送する。
+
+## 中継スタイル
+
+ハーフタイムに当日のベンチレポーターのアナウンサーが監督に前半戦を振り返ってインタビューをする。BS1での放送の場合、どちらかの監督のインタビューをBSニュースの前に、もう一方の監督インタビューを後半開始直後に放送する。
+
+スポーツニュース番組ではリーグそのものを紹介する場合「サッカーのJリーグ1部・J1」（ないしは「Jリーグ2部・J2」）とアナウンスされてきたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")から「サッカーのJ1（J2）」のみの表現に留めるようになった。
+
+## エピソード
+
+  - [1993年](../Page/1993年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink")の[Jリーグオープニングマッチである](https://ja.wikipedia.org/wiki/1993年Jリーグ開幕節 "wikilink")[ヴェルディ川崎vs](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")[横浜マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")（[国立競技場](https://ja.wikipedia.org/wiki/国立霞ヶ丘陸上競技場 "wikilink")）のキックオフが19:30となったのは、[ニュースに引き続き](https://ja.wikipedia.org/wiki/NHKニュース_\(午後7時\) "wikilink")19:27からNHK総合テレビで生中継を行うためのものであった（当日の実況担当は[山本浩](https://ja.wikipedia.org/wiki/山本浩 "wikilink")）。以後、NHKでも何度か総合テレビでゴールデンタイムの生放送が行われた。
+  - 創設当初はNHKに放映権の優先権があったことから、旧BS1にて1日で3-4試合放送した節もあった。中には土曜日の試合で日中からゴールデンタイムにかけてのほぼ午後全体がJリーグ中継で集中編成された日や、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に放送衛星がこれまでの「ゆり2号」から「B-SAT」になって以後、春季と秋季の「食」による深夜放送中断がなくなったことを利用して、深夜の録画放送（1試合）を組んだものがあった。
+  - 上述のとおりステージ優勝決定試合は基本的に地上波で中継を行うが、編成の都合で地上波で放送されないケースもあった（例・[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")第2ステージの[鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")や[1999年](../Page/1999年.md "wikilink")第1ステージ、[2002年](../Page/2002年.md "wikilink")第2ステージの[ジュビロ磐田](../Page/ジュビロ磐田.md "wikilink")など。但し、ジュビロが優勝した1999年第1ステージと2002年第2ステージは、仮に最終節まで優勝が決まらなければという前提で、総合テレビでの生放映予定が予め組まれていた）。また、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")のステージ優勝の試合（第1ステージ・鹿島、第2ステージ・磐田）については、BSでの生放送をそのまま総合テレビで深夜（[ミッドナイトチャンネル](../Page/ミッドナイトチャンネル.md "wikilink")）に録画中継したこともあった。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")に行われた[J1最終節](https://ja.wikipedia.org/wiki/2005年J1最終節 "wikilink")（第34節）では、優勝の可能性のあった5チームがそれぞれ同時刻に別のチームと戦い、これら5試合の結果次第で優勝が左右されることから、放映権を持たない試合を含む以下の5試合すべてに中継車・アナウンサーを派遣し、平行して随時ゴールシーンを流すなどして同時中継を行った（**太字**が優勝の可能性のあったチーム）。なお、放映権を持たない試合では、ゴールシーン以外は試合前・ハーフタイム時のみ中継を行った。この年は、最終的にガンバ大阪が優勝となったため、試合終了後は総合テレビでもガンバ大阪の優勝セレモニーが放映された（この間だけ総合テレビとBS1のサイマル放送となった）。
+      - 総合テレビ（新潟を除く）　**セレッソ大阪** - [FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")（長居スタジアム）
+      - 衛星第1テレビ　川崎フロンターレ - **ガンバ大阪**（[等々力陸上競技場](../Page/等々力陸上競技場.md "wikilink")）
+      - 総合テレビ（新潟県）　アルビレックス新潟 - **浦和レッドダイヤモンズ**（[新潟スタジアム](../Page/新潟スタジアム.md "wikilink")）
+      - （放映権なし）　**鹿島アントラーズ** - [柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")（カシマスタジアム）
+      - （放映権なし）　**ジェフユナイテッド市原・千葉** - 名古屋グランパスエイト（[フクダ電子アリーナ](https://ja.wikipedia.org/wiki/フクダ電子アリーナ "wikilink")）
+  - 事件・事故・災害等の報道特別番組を放送する場合や、その他の重要なスポーツイベント（プロ野球の優勝決定戦など）を中継する場合には、そちらの放送を優先させ、Jリーグ中継は放送中止または放送時間等の変更を行う場合がある。BSでの中継に於いては、2011年以降はBS1サブチャンネルの102チャンネル（標準画質）にて生放送し、放送中止となるケースは減少している。
+      - [2003年](../Page/2003年.md "wikilink")の開幕カードのうち、[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")の[ジュビロ磐田](../Page/ジュビロ磐田.md "wikilink")vs[横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")（[静岡スタジアム エコパ](../Page/静岡県小笠山総合運動公園スタジアム.md "wikilink")）は当初総合テレビで、[3月22日](../Page/3月22日.md "wikilink")の[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")vs[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")（[長居スタジアム](../Page/長居陸上競技場.md "wikilink")）は当初BS1でそれぞれ放送予定だったが、直前に勃発した[イラク戦争](../Page/イラク戦争.md "wikilink")関連報道を優先させるため、2試合とも[BS2での放送となった](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")。
+      - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[10月23日](../Page/10月23日.md "wikilink")は、16時から総合テレビで[鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")vs[浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")（[茨城県立カシマサッカースタジアム](../Page/茨城県立カシマサッカースタジアム.md "wikilink")）の生中継を行っていたが、試合終了とほぼ同時に[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")が発生。中継を打ち切り、報道特別番組に切り替えとなった。
+      - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")は、19時から[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")vs[大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")（[万博記念競技場](../Page/万博記念競技場.md "wikilink")）を生中継する予定だったが、[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")のリーグ優勝がかかる[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")戦（[千葉マリンスタジアム](../Page/千葉マリンスタジアム.md "wikilink")、18時試合開始）の生放送に切り替え、Jリーグ中継（直後放送予定だった[Jリーグタイム](https://ja.wikipedia.org/wiki/Jリーグタイム "wikilink")を含む）は当日夜の中継録画とした。
+      - [2009年](../Page/2009年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")の浦和レッドダイヤモンズvsガンバ大阪（[埼玉スタジアム2002](../Page/埼玉スタジアム2002.md "wikilink")）は、当初総合テレビとNHKワールド･プレミアムで放送される予定だったが、同日行われる[民主党](https://ja.wikipedia.org/wiki/民主党_\(日本_1998-2016\) "wikilink")[代表選挙関連の特別編成](https://ja.wikipedia.org/wiki/民主党代表選挙 "wikilink")（BS1も含む）のため、生放送はBS2での放送に、総合テレビは同日深夜（翌日未明）の録画放送に、NHKワールド・プレミアムでは同日22時10分からの録画放送にそれぞれ変更された。BS2でJリーグ放送が行われるのは上述の2003年以来6年ぶりのこと。
+      - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")は、19時から横浜F・マリノスvs[ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")（[日産スタジアム](../Page/横浜国際総合競技場.md "wikilink")）を生中継する予定だったが、この日にリーグ優勝する可能性があった[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")の試合（[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")戦、[札幌ドーム](../Page/札幌ドーム.md "wikilink")、18時試合開始）の生放送に切り替え、Jリーグ中継は当日深夜に録画中継の対応をとった（Jリーグタイムは野球中継の後に放送）。
+      - [2015年](../Page/2015年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")の[J1・1stステージ第](https://ja.wikipedia.org/wiki/2015年のJ1リーグ "wikilink")14節・[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")vs[柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")（[味の素スタジアム](../Page/東京スタジアム_\(多目的スタジアム\).md "wikilink")）は、66分（後半21分）に発生した地震のニュース（試合も一時中断した）を放送するため、途中で中継終了となった（Jリーグタイムは21:25から放送）。なおこの試合の模様は[5月31日](../Page/5月31日.md "wikilink")（[6月1日](../Page/6月1日.md "wikilink")未明）の深夜1時に再放送された。
+      - [2016年](../Page/2016年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")の[J1・1stステージ第](https://ja.wikipedia.org/wiki/2016年のJ1リーグ "wikilink")7節・[サガン鳥栖](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")vs[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")（[ベストアメニティスタジアム](../Page/鳥栖スタジアム.md "wikilink")）は、[4月14日](../Page/4月14日.md "wikilink")に発生した[平成28年熊本地震](https://ja.wikipedia.org/wiki/平成28年熊本地震 "wikilink")の影響で試合中止・順延となった。同試合は[6月3日](../Page/6月3日.md "wikilink")に代替試合が行われたが、放送はされなかった。
+  - 2013年[5月11日](../Page/5月11日.md "wikilink")の[J1第](https://ja.wikipedia.org/wiki/2013年のJリーグ_ディビジョン1 "wikilink")11節・浦和レッドダイヤモンズvs鹿島アントラーズ（[埼玉スタジアム2002](../Page/埼玉スタジアム2002.md "wikilink")）は「Jリーグ20thアニバーサリーマッチ」として開催され、通常のナイター開催時より1時間繰り上げて18時から21時まで放送された。この放送では副音声の特別ゲスト解説者として、1993年のJリーグ開幕時に現役選手・監督として、また引退後もNHKのJリーグ解説に携わった[木村和司](../Page/木村和司.md "wikilink")（当時横浜マリノス選手）と[加茂周](../Page/加茂周.md "wikilink")（当時[横浜フリューゲルス](../Page/横浜フリューゲルス.md "wikilink")監督）、進行に開幕戦実況を担当した当時NHKスポーツアナウンサーの[山本浩](https://ja.wikipedia.org/wiki/山本浩 "wikilink")を迎えた。\[41\]
+  - [2015年](../Page/2015年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink")のJ1・2ndステージ第7節・鹿島アントラーズvsベガルタ仙台（カシマスタジアム）の中継では、新たな試みとしてリアルタイムデータを活用した中継が実施された\[42\]。これは、BS1のマルチチャンネル編成を活用し、メインチャンネル (101ch・ハイビジョン画質) では通常の実況放送（解説・早野宏史、実況・杉岡英樹）を放送する一方で、サブチャンネル (102ch・SD画質) では『必見\!データがサッカー中継を変える』（解説・山本昌邦、司会・内山俊哉）と題して、画面上半分にメインスタンド中央からピッチ全体を俯瞰した映像を表示、画面下半分には走行距離やスプリント回数等のトラッキングデータやポゼッション率などの各種スタッツデータをリアルタイムで表示、さらには注目選手を追いつづけるカメラの画像を据え、データ分析や画面上にペンを使ったマークアップ表示を行うなどの試みが行われた。
+  - [2017年](../Page/2017年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")のデーゲーム・FC東京vs浦和レッズ戦（味の素スタジアム）では101で通常の実況放送（解説・早野、実況・鳥海）を行いつつ、102では「徹底マーク\!\!ゴールキーパー」というテーマで、[ゴールキーパーの動きに特化した映像を小島と山本](https://ja.wikipedia.org/wiki/ゴールキーパー_\(サッカー\) "wikilink")（司会・曽根）が分析し、視聴者からの質問にも答えるという体裁で放送が行われた。この内容のダイジェスト版が2017年5月28日にBS1で放送された『[スポーツイノベーション](https://ja.wikipedia.org/wiki/スポーツイノベーション "wikilink")』「サッカーの守備の要・GK」と題し、浦和・西川の動きを通して、小島が分析するという内容で放送された。
+
+## 脚注
+
+  - 注釈
+
+<!-- end list -->
+
+  - 出典
+
+## 関連項目
+
+  - [Jリーグタイム](https://ja.wikipedia.org/wiki/Jリーグタイム "wikilink") - BS1で試合直後に放送されるダイジェスト番組。2003年～2005年は「速報Jリーグ」として放送。
+  - [茨城Jリーグアワー](https://ja.wikipedia.org/wiki/茨城Jリーグアワー "wikilink") - [NHK水戸放送局](../Page/NHK水戸放送局.md "wikilink")[デジタル総合テレビでの茨城県域中継](https://ja.wikipedia.org/wiki/NHK総合テレビジョン#デジタル総合テレビ（デジタル放送） "wikilink")
+  - [Jリーグ中継](https://ja.wikipedia.org/wiki/Jリーグ中継 "wikilink")（民放での中継）
+      - [J-LEAGUE WIDE](https://ja.wikipedia.org/wiki/J-LEAGUE_WIDE "wikilink") - [BS-TBS](../Page/BS-TBS.md "wikilink")および[JNN](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")（[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）による全国中継
+
+## 外部リンク
+
+  - [「Jリーグ中継(NHK)」メイキングインタビュー（テレビコ）](http://www.tvco.tv/interview/index.php?action=detail&id=154)
+
+[Category:NHK_BS1の番組](https://ja.wikipedia.org/wiki/Category:NHK_BS1の番組 "wikilink") [Category:NHK_BShiの番組](https://ja.wikipedia.org/wiki/Category:NHK_BShiの番組 "wikilink") [Category:NHK_BSのスポーツ番組](https://ja.wikipedia.org/wiki/Category:NHK_BSのスポーツ番組 "wikilink") [Category:NHK総合テレビジョンのスポーツ番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのスポーツ番組 "wikilink") [Category:NHK総合テレビジョンの地域番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの地域番組 "wikilink") [Category:テレビのサッカー番組_(日本)](https://ja.wikipedia.org/wiki/Category:テレビのサッカー番組_\(日本\) "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+
+1.  2017年度は[白石麻衣](https://ja.wikipedia.org/wiki/白石麻衣 "wikilink")、[松村沙友理](https://ja.wikipedia.org/wiki/松村沙友理 "wikilink")、[高山一実](https://ja.wikipedia.org/wiki/高山一実 "wikilink")、[桜井玲香](https://ja.wikipedia.org/wiki/桜井玲香 "wikilink")、[星野みなみ](https://ja.wikipedia.org/wiki/星野みなみ "wikilink")。
+    2018年度は白石麻衣、桜井玲香、[西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")、[若月佑美](https://ja.wikipedia.org/wiki/若月佑美 "wikilink")、[山下美月](https://ja.wikipedia.org/wiki/山下美月 "wikilink")
+2.
+3.  この場合、[Jリーグタイム](https://ja.wikipedia.org/wiki/Jリーグタイム "wikilink")も休止となることがある
+4.  [2020年](../Page/2020年.md "wikilink")の[東京五輪期間中は](https://ja.wikipedia.org/wiki/2020年東京オリンピック "wikilink")[Jリーグ（J1・J2・J3）](https://ja.wikipedia.org/wiki/2020年のJリーグ "wikilink")・[JFLとも休会する予定となっている](https://ja.wikipedia.org/wiki/第22回日本フットボールリーグ "wikilink")
+5.  2011年の事例は本来なら7月中のJ1リーグは休催となる予定だったが、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")のため[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")・[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に予定された第2-6節が[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に延期されたため。この期間は当初の日程では放送予定だった試合を含めBS1・総合テレビともJリーグ中継が行われない（但し、第6節の[柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")vs[鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")戦（[国立霞ヶ丘陸上競技場](https://ja.wikipedia.org/wiki/国立霞ヶ丘陸上競技場 "wikilink")）はBS1で中継された）。なおコパ・アメリカ2011に出場予定だった日本代表はこれを辞退している
+6.  福岡 - 広島戦は[広島県](../Page/広島県.md "wikilink")では当日深夜（正式には6日未明）に録画中継され、日中の生中継は鹿島 - 横浜FM戦を中継した
+7.  G大阪-新潟戦は衛星第1テレビと近畿地方、新潟県の総合テレビでの同時サイマル中継。
+8.  G大阪-新潟、名古屋-広島の2試合の総合テレビでの中継はアナログ放送のみ。[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタル放送 "wikilink")では浦和-清水戦を中継した。
+9.
+10.
+11.
+12. 水戸\-仙台戦の茨城県での放送は[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタル放送 "wikilink")のみ。アナログ（茨城県は[東京の中継局扱い](../Page/NHK放送センター.md "wikilink")）では浦和-清水戦を中継した。
+13. この日はBS1でJ1・清水エスパルス-モンテディオ山形（[アウトソーシングスタジアム日本平](../Page/静岡市清水日本平運動公園球技場.md "wikilink")）が行われたが、14時キックオフであり、地上波より先に放送された。
+14. 他に同一節の中継としては、翌3月14日に行われたJ2・[ギラヴァンツ北九州](https://ja.wikipedia.org/wiki/ギラヴァンツ北九州 "wikilink")-[徳島ヴォルティス](../Page/徳島ヴォルティス.md "wikilink")（[北九州市立本城陸上競技場](https://ja.wikipedia.org/wiki/北九州市立本城陸上競技場 "wikilink")・福岡県域のNHK総合で放送）、J2・[大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")-[FC岐阜](https://ja.wikipedia.org/wiki/FC岐阜 "wikilink")（[大分銀行ドーム](../Page/大分スポーツ公園総合競技場.md "wikilink")・大分県域のNHK総合で放送）の2試合を県域放送向けに中継している。
+15. 甲府-水戸の茨城県向けの放送は地上デジタル・サブチャンネルのみ。アナログと地上デジタル・メインチャンネルは名古屋-川崎を放送した。
+16. 衛星第1テレビでは16時試合開始のJ1・アルビレックス新潟-横浜F・マリノス（[東北電力ビッグスワン](../Page/新潟スタジアム.md "wikilink")）を別枠で放送している。
+17. 19時試合開始。他の試合は全部14時開始
+18. 本来「山形対柏」は19時開始のナイターで開催すると当初は発表されていたが、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")による節電・省エネに伴い5月中は東北・関東はデーゲーム開催とすることから14時開始に変更されたものである。このため、当初予定されていなかった山形県での地上波放送が行われた。
+19. [NHKスポーツオンライン番組放送予定](http://www.nhk.or.jp/sports2/olpg/biko/biko_110076.html) より。
+20.
+21.
+22. 両チームのホームタウン・ホームスタジアムは東日本大震災で甚大な被害を受けており、放送内でもその点を取り上げられた。
+23.
+24. [スポーツ中継もお楽しみに](http://www.nhk.or.jp/sports2/sunsat/message/message_d120502.html) - NHK[サタデースポーツ](../Page/サタデースポーツ.md "wikilink")・[サンデースポーツ](../Page/サンデースポーツ.md "wikilink")キャスターブログ2012年5月2日
+25. [NHKスポーツオンライン番組放送予定](http://www.nhk.or.jp/sports2/olpg/biko/biko_114649.html)
+26.
+27. [Jリーグ「大分トリニータ」対「FC東京」～大分銀行ドームから中継～](http://www2.nhk.or.jp/hensei/program/p.cgi?area=501&date=2013-03-02&ch=11&eid=21911) - NHK番組表2013年2月28日閲覧
+28. [北九州局](https://ja.wikipedia.org/wiki/NHK北九州放送局 "wikilink")（[北九州都市圏](https://ja.wikipedia.org/wiki/北九州都市圏 "wikilink")）は広島対浦和を放送。鳥栖対鹿島のマルチ放送はなかった。
+29. [Jリーグ開幕スペシャル「セレッソ大阪」対「サンフレッチェ広島」](http://www2.nhk.or.jp/hensei/program/p.cgi?area=001&date=2014-03-01&ch=21&eid=20285&f=467) - NHK番組表、2014年3月2日閲覧。
+30. [Jリーグ「ガンバ大阪」対「浦和レッズ」～万博記念競技場から中継～](http://www2.nhk.or.jp/hensei/program/p.cgi?area=001&date=2014-03-01&ch=11&eid=14760&f=467) - NHK番組表、2014年3月2日閲覧。
+31. [豪雪に伴う](https://ja.wikipedia.org/wiki/平成26年豪雪 "wikilink")[山梨中銀スタジアムからの会場変更で](../Page/山梨県小瀬スポーツ公園陸上競技場.md "wikilink")、放送予定は当初から変更なし。
+32. [Jリーグ開幕スペシャル「ガンバ大阪」対「FC東京」](http://www2.nhk.or.jp/hensei/program/p.cgi?area=001&date=2015-03-07&ch=21&eid=17862&f=467) - NHK番組表、2015年3月7日閲覧。
+33.
+34. 春の異動で[大阪局勤務になることが明らかになっている](../Page/NHK大阪放送局.md "wikilink")。
+35. 試合が長引き、全国放送に戻る前に終了できなかった。
+36. [Jリーグ開幕スペシャル「サンフレッチェ広島」対「川崎フロンターレ」](http://www2.nhk.or.jp/hensei/program/p.cgi?area=406&date=2016-02-27&ch=21&eid=10477&f=467) - NHK番組表、2016年2月23日閲覧。
+37. 2010-11シーズンはイングランド[プレミアリーグ](https://ja.wikipedia.org/wiki/プレミアリーグ "wikilink")とイタリア[セリエA](../Page/セリエA_\(サッカー\).md "wikilink")
+38. 東京のスタジオで収録するため、主に東京アナウンス室もしくはG-mediaのアナウンサーが担当(但し時折かつて東京アナウンス室に所属していた基幹局アナウンサーが担当する事もある)。
+39. Jリーグタイム担当のキャスターもしくはNHKの女性アナウンサー（東京アナウンス室以外からの応援派遣の場合もあり）
+40. 東京アナウンス室以外からの応援派遣の場合もあり
+41. [NHK番組表2013年5月11日「Ｊリーグ　２０周年　アニバーサリーマッチ「浦和レッズ」対「鹿島アントラーズ」」参照](http://www2.nhk.or.jp/hensei/program/p.cgi?area=200&date=2013-05-11&ch=11&eid=7959)
+42.

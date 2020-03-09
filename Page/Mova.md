@@ -1,0 +1,794 @@
+> この記事は[Mova](https://ja.wikipedia.org/wiki/Mova)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:N502it.jpg "wikilink") **mova**（ムーバ）は、かつて[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[携帯電話](../Page/携帯電話.md "wikilink")会社[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")が提供していた、[800MHz帯](https://ja.wikipedia.org/wiki/800MHz帯 "wikilink")（一部[1.5GHz帯](https://ja.wikipedia.org/wiki/1.5GHz帯 "wikilink")）を利用した[第1世代](https://ja.wikipedia.org/wiki/第1世代移動通信システム "wikilink")（アナログ[NTT大容量方式](https://ja.wikipedia.org/wiki/NTT大容量方式 "wikilink")）および[第2世代](https://ja.wikipedia.org/wiki/第2世代移動通信システム "wikilink")（デジタル[PDC](../Page/PDC.md "wikilink")）携帯電話無線機または同社による同無線機向けサービスの総称。
+
+[第三世代携帯電話](https://ja.wikipedia.org/wiki/第3世代移動通信システム "wikilink")（[W-CDMA](../Page/W-CDMA.md "wikilink")）サービス「[FOMA](../Page/FOMA.md "wikilink")」への移行がかなり進んだことから、2008年12月から新規の利用申込ができなくなり、2012年3月31日限りでサービスが終了、[停波](https://ja.wikipedia.org/wiki/停波 "wikilink")した。
+
+## 概説
+
+[NTT](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink") は、[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に[DDIセルラーグループ](../Page/DDIセルラーグループ.md "wikilink")が採用した[TACS](https://ja.wikipedia.org/wiki/TACS "wikilink")方式（JTACS）による携帯電話サービスで提供された[モトローラ](../Page/モトローラ.md "wikilink")社製小型機（容積約300[cc](../Page/立方センチメートル.md "wikilink")）に対抗するため、日本の主要通信機器メーカー、松下通信工業（現：[パナソニック モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/パナソニック_モバイルコミュニケーションズ "wikilink")）、[日本電気](../Page/日本電気.md "wikilink")（NEC、現：[NECカシオ モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/NECカシオ_モバイルコミュニケーションズ "wikilink")）、[三菱電機](../Page/三菱電機.md "wikilink")および[富士通](../Page/富士通.md "wikilink")の4社と共同で容積200ccを目指したTZ-804型無線機を開発、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")（平成3年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から提供。当時、世界最軽量・最小であり\[1\]、自動車電話及びショルダーホンと区別するため「携帯電話」という商品名で提供していた既存商品TZ-802・TZ-803型無線機と区別する「超小型携帯電話・ムーバ（mova）」と呼称する商品群とした。「mova」の名称は英語の**mova**ble（動かせる、移動する）の最初の4文字から採ったもので、携帯のしやすさ、移動のしやすさを表現したものである。DDIセルラーグループ・日本移動通信のデジタル網は、IDOはセルラー・ドコモ、セルラーはIDO・ドコモというようにmovaにローミングした。なお、端末は当初はレンタルで、販売は[1994年](../Page/1994年.md "wikilink")（平成6年）4月の売り切り制解禁からである。
+
+[1993年](../Page/1993年.md "wikilink")（平成5年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")の第2世代[デジタル方式サービス開始により](../Page/PDC.md "wikilink")、同サービス対応の携帯電話無線機を「デジタル・ムーバ」として従来の[アナログ](../Page/アナログ.md "wikilink")無線機と区別したが、1999年（平成11年）3月に[アナログ方式サービスが終了し](https://ja.wikipedia.org/wiki/NTT大容量方式 "wikilink")、[2001年](../Page/2001年.md "wikilink")（平成13年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")には第3世代デジタル方式の新サービス「[FOMA](../Page/FOMA.md "wikilink")（フォーマ）」に対応する無線機も発売されたことから、同年[11月](../Page/11月.md "wikilink")発売の211シリーズ以降は再び「ムーバ」に戻された。
+
+「ムーバ」とは、登場以来長くドコモが販売した携帯電話無線機（例外機種あり）の商標であったが、同社契約約款を[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）4月にFOMAサービスを除く「携帯自動車電話契約」を「movaサービス契約」と名称を改正したことから、同社の第2世代携帯自動車電話サービスの総称を意味することとなった。なお、ドコモは2004年度（平成16年度）後半頃より、本来のカタカナ「ムーバ」はあまり用いず、ロゴなどでしか目にすることのなかった英字「mova」を契約約款での使用に準じて常用するようになっている。
+
+2004年あたりから「FOMA」のサービスエリアの拡大、新機能の導入などで「FOMA」の普及が進むに連れ、「mova」加入者数の減少が急速に進み、2007年度末に1000万件を、2008年11月末には700万件を割り込んだ。2008年8月7日には、同年11月をもって「mova」新規加入の受付終了と、翌8月8日より、「FOMA」への契約変更手数料¥2,100を無料にする発表があった\[2\]。2009年1月30日のニュースリリースで、2012年3月31日限りでのmova（およびこれを利用した[DoPa](https://ja.wikipedia.org/wiki/DoPa "wikilink")などの）サービス提供の終了が正式に発表された。
+
+## mova端末
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:NTTDoCoMo_Mova_N.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NTT_DoCoMo_SONY_SO101.JPG "wikilink") アナログ式時代は、まずNTT時代の[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")初登場のTZ-804型携帯無線電話機を「ムーバ x」（x=メーカ記号）とした。[1993年](../Page/1993年.md "wikilink")に無線局免許証票の貼付を廃し、若干の改良（収納状態でも着信できるアンテナ、機器の発熱から耳を保護するイヤーパッドなど）を施したが、愛称に変更はない（厳密には名称は「 x1」となった）。 NTTドコモ譲受後の後継機種は「ムーバ x2」となり、「TZ-」系の型式番号は廃止された。
+
+デジタル（[PDC](../Page/PDC.md "wikilink")）方式が開始されると、これに対応した端末は「デジタル・ムーバ」となり、最初のものは各メーカごとに「デジタル・ムーバ x」から開始され、次いで「デジタル・ムーバ x2」となり、9.6kbpsデータ通信に対応したものは末尾に「HYPER」が付加された。その後は「デジタル・ムーバ xyyy」（y=型番数字）となり、型番は101から開始され、100番台および200番台で進められた。
+
+iモード対応のものは501iから始まり、1.5GHz（シティフォン・シティオ）のものは151から始まっている。200番台のシリーズは209iからiモード対応となり、ドコモの800MHz端末は全部iモード対応に切り替わった。
+
+高級仕上げや防水、高齢者向けなどの特殊仕様として、600番台がある。
+
+なお、当初はドコモ標準ソフトを採用する端末メーカーであるP（[松下通信工業](https://ja.wikipedia.org/wiki/パナソニック_モバイルコミュニケーションズ "wikilink")）、N（[日本電気](../Page/日本電気.md "wikilink")）、D（[三菱電機](../Page/三菱電機.md "wikilink")）、F（[富士通](../Page/富士通.md "wikilink")）、R（[日本無線](https://ja.wikipedia.org/wiki/日本無線 "wikilink")）、M（[モトローラ](../Page/モトローラ.md "wikilink")）製のものにだけ「ムーバ」の商品名が付けられており、[ソニー](../Page/ソニー.md "wikilink")や[シャープ](../Page/シャープ.md "wikilink")など他社製の端末や変則的納入を行うメーカー、ドコモ標準ソフトを採用していない機種は2001年まで「ムーバ」を名乗れず、「DoCoMo by Sony SO502i」「DoCoMo NOKIA NM207」のような型番となっており、「byシリーズ」と呼ばれていた、2001年以降はムーバで統一された為に区別はされなくなった。
+
+HYPERは9.6kbpsでデータ通信ができるものにつけられていたが、全ての端末でその機能が実装され、1999年に廃止された第1世代と区別する「[デジタル](../Page/デジタル.md "wikilink")」という言葉も必要がなくなったため、211i（2001年10月）以降、「ムーバ xyyyi」となった。
+
+## メーカー名
+
+  - P（松下通信工業、現：[パナソニック モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/パナソニック_モバイルコミュニケーションズ "wikilink")）
+  - N（[日本電気](../Page/日本電気.md "wikilink")、現：[NECカシオ モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/NECカシオ_モバイルコミュニケーションズ "wikilink")）
+  - D（[三菱電機](../Page/三菱電機.md "wikilink")）※現在携帯端末からは撤退。
+  - F（[富士通](../Page/富士通.md "wikilink")）
+  - M（[モトローラ](../Page/モトローラ.md "wikilink")）本来は「by」メーカーだが、基本設計をドコモ標準（P101基本）としてあり次世代携帯で技術があり、変則的にムーバメーカーとなる。提携。
+  - R（[日本無線](https://ja.wikipedia.org/wiki/日本無線 "wikilink")）※現在携帯端末からは撤退（[ウィルコム](../Page/ウィルコム.md "wikilink")向けPHSのみ手がけている）。
+
+以下は、「ムーバ」の名が冠された実績のある他社メーカーを挙げる。
+
+  - SH（[シャープ](../Page/シャープ.md "wikilink")）※[SH505i](https://ja.wikipedia.org/wiki/SH505i "wikilink")、[SH251i](https://ja.wikipedia.org/wiki/SH251i "wikilink")以降
+  - SO（[ソニー](../Page/ソニー.md "wikilink")、現：[ソニーモバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニーモバイルコミュニケーションズ "wikilink")）※[SO503iS](https://ja.wikipedia.org/wiki/SO503iS "wikilink")、[SO210i](https://ja.wikipedia.org/wiki/SO210i "wikilink")以降は、ソニー・エリクソン時代に発表。
+  - KO（国際電気、現[日立国際電気](https://ja.wikipedia.org/wiki/日立国際電気 "wikilink")）※[KO210i](https://ja.wikipedia.org/wiki/KO210i "wikilink")のみ。現在携帯端末からは撤退。
+
+「ムーバ」の名は冠されなかったが、過去にドコモ向け800MHzPDC端末を製造したメーカーとしては
+
+  - SA（[三洋電機](../Page/三洋電機.md "wikilink")）※現在携帯端末からは撤退し、部門を京セラへ譲渡。
+  - ER（[エリクソン](https://ja.wikipedia.org/wiki/エリクソン "wikilink")、現：ソニーモバイルコミュニケーションズ）
+  - NM（[ノキア](https://ja.wikipedia.org/wiki/ノキア "wikilink")）　「ムーバ」とも「by」とも名乗らない、変則納入メーカーなので本来はbyとなるが、次世代携帯で技術提携があり、「ムーバ」メーカーと「by」メーカーとの中間に位置していて、「DoCoMo NOKIA NM207」という風に「by」ともつかなかった。
+  - DE（[デンソー](https://ja.wikipedia.org/wiki/デンソー "wikilink")）※現在携帯端末からは撤退
+  - TS（[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")、[FOMA](../Page/FOMA.md "wikilink")ではT）※現在の[富士通モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/富士通モバイルコミュニケーションズ "wikilink")へ部門を譲渡。富士通モバイルはKDDI向けをメインとし、ドコモではTを冠した端末を含めて富士通本体が担当する体制となった（その例が[T-01D](https://ja.wikipedia.org/wiki/T-01D "wikilink")と[T-02D](https://ja.wikipedia.org/wiki/T-02D "wikilink")）。
+  - KY（[京セラ](../Page/京セラ.md "wikilink")）
+
+がある。
+
+## サービスの歴史
+
+FOMAへのユーザーの移行が進むにつれ、[2003年](../Page/2003年.md "wikilink")9月からmovaユーザー数は逓減していた。最終的には第3世代携帯電話である[FOMA](../Page/FOMA.md "wikilink")に集約する方針であったため、サービス終了数年前からは各種サービスもFOMA利用を前提としたものに改められていった。
+
+### ユーザー数
+
+ユーザー数については断りが無い限り業界団体（[電気通信事業者協会](https://ja.wikipedia.org/wiki/電気通信事業者協会 "wikilink")）の[まとめ](http://www.tca.or.jp/database/)によるものである。
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")6月18日付で、FOMAユーザー数がmovaユーザー数を上回り、ドコモユーザー全体に占める割合も過半数に達した\[3\]。また、2008年5月末の段階で、movaユーザーの契約者が900万件を割り込み（約872万5千件）、FOMAユーザーの5分の1未満となった。
+
+その後、FOMA新機種の投入などもあり、2008年度末には、ユーザー数が前月末の約600万件を大幅に割り込み、556万件余りにまで減った。2009年5月末の段階で、FOMAユーザー数が5,000万件に迫る一方、movaユーザー数は500万件を割り込み、movaユーザー数がFOMAユーザー数の1割未満となった。
+
+その後、2010年12月末時点で約163万件となり、サービス終了を間近に控えた2012年2月末時点での残存契約数は約34.5万件であった。
+
+### 端末
+
+[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")11月の報道で、507iシリーズを発売しない方針が示されたが、その後FOMA基地局の整備の遅れから、movaの新機種を再投入する計画が上がり、N506iSII（NECが開発・生産）、P506iCII（パナソニック モバイルコミュニケーションズが開発・生産）が発売された。2006年[5月26日](../Page/5月26日.md "wikilink")には、2007年度までに端末販売を終了するとの一部報道がなされたが、その時点では否定した\[4\]。
+
+  - AMラジオと携帯電話を組み合わせた「**ラジデン**」（機種名：[SO213iWR](https://ja.wikipedia.org/wiki/SO213iWR "wikilink")）はFOMAでは不可能なためmovaでの発売となったが、テレビ放送のデジタル化進展により、ドコモでも[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")に対応したFOMA機種の販売強化に乗り出している。
+  - 50xシリーズは、FOMA90xシリーズに移行した（なお、506iC/506iSシリーズでは[SH506iC](https://ja.wikipedia.org/wiki/SH506iC "wikilink")が最も早く2005年半ばを持って生産を終了しmovaのSH端末は消滅した）。
+  - 25xシリーズは、最も早く（最終機種は2006年に生産終了した[P253i](https://ja.wikipedia.org/wiki/P253i "wikilink")、[N253i](https://ja.wikipedia.org/wiki/N253i "wikilink")、[D253i](https://ja.wikipedia.org/wiki/D253i "wikilink")及びコンセプト系の[P253iS](https://ja.wikipedia.org/wiki/P253iS "wikilink")、[D253iWM](https://ja.wikipedia.org/wiki/D253iWM "wikilink")。最後まで掲載されたのはP253iSである）FOMA70xシリーズへの移行を完了。FOMA702iSシリーズの発表とほぼ同時の生産終了である。
+  - カメラなしの薄型軽量モデルである21xシリーズも最後まで残ったものの、「μ」シリーズを中心にFOMAの小型化・薄型化が進んだことから販売を縮小していた。
+  - 「[らくらくホン](https://ja.wikipedia.org/wiki/らくらくホン "wikilink")」シリーズも、FOMAへの移行が進められた。当初はmovaしか無かったカメラ非搭載モデルもその後[らくらくホンベーシック](https://ja.wikipedia.org/wiki/らくらくホンベーシック "wikilink")としてFOMAからも発売された。
+
+FOMAへの技術移行が完了したこともあって、最後まで残っていた5機種（[P213i](https://ja.wikipedia.org/wiki/Prosolid "wikilink")、[P506iC](https://ja.wikipedia.org/wiki/P506iC "wikilink")/P506iCII、[N506iS](https://ja.wikipedia.org/wiki/N506iS "wikilink")II及び[らくらくホンIII(F672i)](https://ja.wikipedia.org/wiki/F672i "wikilink")）も2007年末に製造・出荷が中止され在庫限りとなっており\[5\]、グループ会社の統合に先立ち[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月13日](../Page/6月13日.md "wikilink")には公式サイトから完全にmova端末の紹介が消えた。ただし、2008年8月時点でまだ上記機種の当分の在庫はあり、既存ユーザーの機種変更などは当分可能としている。
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月11日に在庫限りで新規契約受付、機種変更を終了すると新聞各紙で相次いで報道がなされたが、決定したものではないとしている\[6\]。なお、同月時点で端末は約23万台の在庫がある（[参照](http://mainichi.jp/select/biz/news/20080312ddm008020108000c.html)）。
+
+### サービス
+
+同業他社は世代交代の動きを加速させており、[KDDI](../Page/KDDI.md "wikilink")（連結子会社の[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")を含む）は第3世代への移行をほぼ完了。[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")も、免許の有効期限となる2009年度末で世代交代を完了させた。
+
+こうした流れを受け、ドコモは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月31日、2008年度内に終了時期を確定すると表明した。サービス終了に向け、サービス面でFOMAシフトを加速させている。
+
+  - FOMAにおいて遅れていた離島や山間部などの過疎地域におけるエリア拡大については、mova周波数帯の一部を利用する「[FOMAプラスエリア](https://ja.wikipedia.org/wiki/FOMAプラスエリア "wikilink")」を活用し、2007年に人口カバー率100%を達成し、movaのサービスエリアと遜色のないレベルとなっている。
+      - 更に[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")には、当時の[ドコモ北陸が](https://ja.wikipedia.org/wiki/NTTドコモ北陸 "wikilink")[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[立山](../Page/立山.md "wikilink")[室堂](https://ja.wikipedia.org/wiki/室堂 "wikilink")地区でのFOMAプラスエリアサービス開始に伴い電波転用でmovaサービスを終了。全国初のmovaサービス終了である。
+  - 2007年3月で、[クイックキャスト](../Page/無線呼び出し.md "wikilink")（旧ポケットベル）サービスが、2008年1月で[PHSサービスが終了したのに加え](https://ja.wikipedia.org/wiki/ドコモPHS "wikilink")、2008年6月末で1.5GHz帯を使用したPDC方式の[シティフォン](https://ja.wikipedia.org/wiki/シティフォン "wikilink")・シティオサービスが終了した。
+  - ドコモを含む各社が、通信速度をさらに速めた「第4世代」携帯電話システムの開発に力を入れており、その技術の一部を取り入れた第3.5世代の機種が既に発売されている（「[FOMAハイスピード](https://ja.wikipedia.org/wiki/FOMAハイスピード "wikilink")」参照）。
+  - movaのネットワークを使用した法人向け位置情報サービス「DLPサービス」（DLPは*Docomo Location Platform*）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")に新規受け付けを終了し、2009年3月31日限りでサービス終了した\[7\]。
+  - DoPaシングルパケットサービスの新規受付を[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")限りで終了した。\[8\]
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月から、「ファミ割MAX50」契約者を対象とした家族間通話無料サービスを開始したが、対象はFOMAユーザーのみであり、movaは対象外である。
+  - [2009年](../Page/2009年.md "wikilink")3月いっぱいで、movaの一部富士通機種で提供していた[GPS機能のサービス提供を終了した](../Page/グローバル・ポジショニング・システム.md "wikilink")。\[9\]
+
+以上の点から、ドコモとしてもFOMAと[「第4世代」携帯電話に経営資源を集中させたい意向とみられており](https://ja.wikipedia.org/wiki/第4世代移動通信システム "wikilink")、2008年以降、今後早い時期にmovaサービス終了についての言及がなされるとの見方が多くあった。ライバル会社は、新規ユーザー開拓のターゲットを、自社のメリットをアピールしやすいmovaユーザーに絞りつつあり、ドコモが今後どのようにしてmovaサービスを終了させていくかに、注目が集まっていた。
+
+### 新規受付終了・終焉へ
+
+上述したように様々な形でFOMAへの移行を促してきたドコモであるが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月30日](../Page/11月30日.md "wikilink")限りでmovaサービスの新規受付を終了、同時に[自動車電話](../Page/自動車電話.md "wikilink")サービスの新規受付も終了した\[10\]。新規受付終了に伴い、movaサービスからFOMAサービスへ変更する際の事務手数料を2008年8月8日から無料とする移行促進策もあわせて発表されている。
+
+そして[2009年](../Page/2009年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")、[2012年](../Page/2012年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")限りで[自動車電話](../Page/自動車電話.md "wikilink")サービスともども終了することが正式に発表された。サービス終了時刻は同日の24時00分となった。これによりmova、そしてPDCは19年の歴史を終えた。その後もmovaの800MHzの電波は送出されているが「圏外」と表示される。4月2日午後3時頃から、電話番号が消去されていない端末のみ、アンテナピクトが復活している。ただし、通話及びiモード通信は不可能。また、movaのシステムを利用していた一般列車、バス内に設置されていた[列車電話](https://ja.wikipedia.org/wiki/列車電話 "wikilink")も同日をもってサービスを終了した。（しばらくは「使用不可」と貼られていたが撤去された）
+
+なお、一括請求や割引サービスの代表回線にmova（DoPa）がなっている場合、代表回線の強制解約に伴い、一括請求や割引サービスの適用もなくなってしまううえ、ドコモポイントもすべて失効するため、ドコモでは注意を呼びかけている。
+
+### テレビジョン放送完全デジタル化との関係
+
+UHF 470MHz - 770MHzの帯域は、現在アナログテレビジョン放送13ch - 62chに使用されているが、2011年7月25日以降は、デジタルテレビジョン放送用に転用される。ただし、このうち53ch以降となる710MHz - 770MHzの帯域については、それから1年以内に、テレビジョン放送用としては使えなくなる。mova無線局の免許期限は、この最終期限にあたる。
+
+電波は、[国際電気通信連合](../Page/国際電気通信連合.md "wikilink")によって国ごとに使える周波数帯を決められており、各国はその限られた枠内においてさらに目的別割当を行っている。movaサービス終了やテレビジョン放送の完全デジタル化は、[国の電波利用高度化政策に基づいて行われていて](https://ja.wikipedia.org/wiki/電波利用高度化政策_\(日本\) "wikilink")、テレビデジタル化は最終的に、地上波において[VHF](../Page/超短波.md "wikilink")70MHz分、[UHF](../Page/極超短波.md "wikilink")60MHz分の、合わせて130MHz分を解放し、他の目的に利用することを理由としている。
+
+UHFのうちテレビジョン放送用として使えなくなる帯域は、movaが使用する通称「[800MHz帯](https://ja.wikipedia.org/wiki/800MHz帯 "wikilink")」（770MHz - 960MHz）と連続しており、最終期限の後は、710MHz以上の帯域が再編成され、新たな用途に割り振られることとなるが、具体的な用途についてはまだ決まっていない。なお、「[FOMAプラスエリア](https://ja.wikipedia.org/wiki/FOMAプラスエリア "wikilink")」は、再編後を見越して周波数帯が割り当てられている。
+
+## 帯域確保のための工夫
+
+ユーザーの増加のため、以下のように様々な方法の帯域確保が行われた。結果として、今ではFOMAへの移行の方針に至っている。
+
+  - ハーフレート化
+    ドコモでは他キャリアよりも早くハーフレート化を行っている。ビットレートを11.2kbpsから5.6kbpsへ半減する\[11\]ことで、使用する帯域を半分にする。2倍のユーザーを収容できるが、音質は劣化する。音質改善のため、通話相手が固定電話・PHS・ハイパートーク対応端末であり、帯域に余裕がある場合は、新しいCODECを用いてフルレートでデータ転送をする[ハイパートーク](http://k-tai.impress.co.jp/cda/article/keyword/5813.html)が使われている。
+  - 他社買収による帯域確保
+    [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[テレターミナル](https://ja.wikipedia.org/wiki/無線パケット通信 "wikilink")（双方向通信に対応した[ポケベルに似たもの](../Page/無線呼び出し.md "wikilink")）業者の「[日本シティメディア](https://ja.wikipedia.org/wiki/日本シティメディア "wikilink")」の経営移譲を受けている。そのシティメディアが免許を受けていた5MHzをmova用に帯域転換している。ただし関東圏のみ。
+  - アナログ波の早期終了（1999年3月限り）
+    アナログ波運用中より、デジタル波用に転用を開始し、アナログ波終了後は、デジタル波用に転用されている。
+  - 1.5GHz帯デュアルバンド化
+    211i・504i以降に発売された端末は一部（213iシリーズ・25xシリーズ・F505iGPS）を除き800MHz・1.5GHzデュアルバンド端末である。[シティフォン](https://ja.wikipedia.org/wiki/シティフォン "wikilink")・[シティオ](https://ja.wikipedia.org/wiki/シティオ "wikilink")サービスを行っているドコモ・ドコモ東海・ドコモ関西のエリアで、800MHz帯が混雑している場合、1.5GHz帯が利用可能であれば優先的に使われるようになっている。1.5GHz帯ではパケット通信網が構築されていないため、音声通話のみである。また、末期にはシティフォンとは異なる1.5GHz帯が追加で割り当てられており、一部の端末（505iS、506iシリーズ）に対応していた。なお、シティフォンの終了に伴い、movaのデュアルバンド用途も同時に終了した。
+
+## 料金
+
+以下本項目全体において、日本国[消費税法](https://ja.wikipedia.org/wiki/消費税法 "wikilink")の規定に基づき、価格表記は原則として消費税（5%）課税後の価格を優先する。また、「本体価格」とあるのは、消費税額を除いた金額である。
+
+### 新料金プラン
+
+FOMAと同一のプランかつ時間帯・曜日毎の通話料を一律とし、分かりやすさを重視した料金プラン。2005年11月1日より開始された。それ以降にFOMA・movaに新規加入した場合、従来の料金プランは選択出来ず、以下の新料金プランの中から選択する。
+
+「無料通話分」は利用料金の先払い分であり、プランごとの単価に基づいて利用料金が精算され、無料通信分を使い切った後、利用料金が加算される。
+
+無料通話分はパケット通信料としても利用が可能。また余った無料通話分は2か月先まで繰り越し利用ができる。また、2005年2月より、2か月先まで使い切れなかった分は、ファミリー割引を契約している家族で共有できるようになった。なお、割引サービスが適用されても、無料通話分が減ることはないため、高額の料金プランでは、割引適用状況によっては基本料金より無料通話分が上回ることがある。
+
+  -
+    {| class="wikitable" style="text-align:right;"
+
+|- \!colspan=7|基本料金プラン （価格）は本体価格 |- \!rowspan=2|料金プラン\!\!colspan=3|基本料金\!\!rowspan=2|音声通話料
+単価（/30秒）\!\!rowspan=2|備考 |- \!基本支払額\!\!うち
+無料通信分\!\!実質基本料金 |- \!タイプSS |3,780円
+（3,600円）||1,050円
+（1,000円）||2,730円
+（2,600円）||21円
+（20円）|| |- \!タイプS |4,830円
+（4,600円）||2,100円
+（2,000円）||2,730円
+（2,600円）||18.9円
+（18円）|| |- \!タイプM |6,930円
+（6,600円）||4,200円
+（4,000円）||2,730円
+（2,600円）||14.7円
+（14円）|| |- \!タイプL |10,080円
+（9,600円）||6,300円
+（6,000円）||3,780円
+（3,600円）||10.5円
+（10円）|| |- \!タイプLL |15,330円
+（14,600円）||11,550円
+（11,000円）||3,780円
+（3,600円）||7.875円
+（7.5円）|| |- \!タイプリミット |4,410円
+（4,200円）
+**+上限分**||2,310円
+（2,200円）||2,100円
+（2,000円）||21円
+（20円）||style="text-align:left;"|上限額については下記を参照。 |- \!タイプビジネス |10,290円
+（9,800円）||5,775円
+（5,500円）||4,515円
+（4,300円）||style="text-align:center;"|時間により異なる||colspan=2 style="text-align:left;"|平日昼間の通話料を割安にしたプラン |- \!ファミリーワイド |3,150円
+（3,000円）||無し||3,150円
+（3,000円）||26.25円
+（25円）||style="text-align:left;"|各種制限事項あり。
+下記参照 |- \!ファミリーワイド
+リミット |3,360円
+（3,200円）
+**+上限分**||無し||3,360円
+（3,200円）||26.25円
+（25円）||style="text-align:left;"|2006年3月に開始。
+各種制限事項あり。下記参照 |}
+
+  - 備考
+
+:\* タイプリミットの上限分は以下のとおり。無料通話分、通話・通信料以外の課金と無料通話分を超えた通話・通信料の合計が利用可能額を超えると自動的に発信停止。
+
+  -
+    {| class="wikitable" style="text-align:right;"
+
+|- \!上限額コース
+（本体価格） |840円
+（800円）||2,940円
+（2,800円）||5,040円
+（4,800円）||8,190円
+（7,800円）||13,440円
+（12,800円） |- \!利用可能額
+（本体価格） |3,150円
+（3,000円）||5,250円
+（5,000円）||7,350円
+（7,000円）||10,500円
+（10,000円）||15,750円
+（15,000円） |}
+
+:\* ファミリーワイド・ファミリーワイドリミットに関する制限事項は以下のとおり。
+
+:\*\* 利用できる年齢は中学生以下及び60歳以上。中学校卒業後は、4月より自動的に「ファミリーワイド」は「タイプSS」に、「ファミリーワイドリミット」は「タイプリミット・上限額800円」に、それぞれ契約が変更される。
+
+:\*\* 当該プラン単独で契約することはできず、「（新）いちねん割引」とセットで契約するか（自動適用）、障がい者の場合は「ハーティ割引」とセットで契約（「（新）いちねん割引」は利用不可）する形となる。「（新）いちねん割引」の当初割引率は25%。
+
+:\*\* ファミリー割引とのセット契約は任意。
+
+:\*\* ファミリーワイドリミットのオプション上限額は一律で1,050円（本体1,000円）。発信停止に関する規定は「タイプリミット」に準じる。
+
+  -
+    2010年3月31日をもって、ファミリーワイド、ファミリーワイドリミットの申し込みは終了している。
+
+<!-- end list -->
+
+  - 新料金プラン制度への移行により、新プラン契約者は以下のサービスが適用対象外となった。
+      - [ボリュームディスカウント](https://ja.wikipedia.org/wiki/ボリュームディスカウント "wikilink")
+      - ドンドンコール
+      - 度数表示サービス
+      - グループ内番号サービス
+      - 「[ゆうゆうコール](https://ja.wikipedia.org/wiki/ゆうゆうコール "wikilink")」の無料通話プレゼント
+
+### 旧料金プラン
+
+新料金プラン導入後は、それまで加入していた利用者のみ継続して利用できる。旧料金プランは、地域会社ごとに異なっていたので、ここではドコモ（中央）契約の場合の料金で説明し、通信料単価については地域会社・利用時間帯によって異なっていたため省略する。他の地域会社の契約の場合は、基本料・無料通信分が異なるプランもある。（価格）は本体価格。
+
+  -
+    {| class="wikitable" style="text-align:right;"
+
+|- \!プラン\!\!基本使用料\!\!無料通話分\!\!実質基本料金\!\!備考 |- \!プランA |4,725円
+（4,500円）||630円
+（600円）||4,095円
+（3,900円）||rowspan=2 style="text-align:left;"|サービス開始当初からのオリジナルプラン |- \!プランB |3,675円
+（3,500円）||525円
+（500円）||3,150円
+（3,000円） |- \!おはなしプラスM |4,305円
+（4,100円）||1,365円
+（1,300円）||2,940円
+（2,800円）|| |- \!おはなしプラスL |6,195円
+（5,900円）||3,570円
+（3,400円）||rowspan=2|2,625円
+（2,500円）|| |- \!おはなしプラスBIG |9,555円
+（9,100円）||6,930円
+（6,600円）|| |- \!長得プラン |4,725円
+（4,500円）||630円
+（600円）||4,095円
+（3,900円）||style="text-align:left;"|課金が分単位で「1分まで」「1分 - 2分」「2分以降」の3段階の単位があり、
+段階的に分単位の単価が安くなっている |- \!ビジネスプラン |10,290円
+（9,800円）||5,460円
+（5,200円）||4,830円
+（4,600円）||style="text-align:left;"|平日昼間の通話料を割安にしたプラン |- \!リミットプラス |4,515円
+（4,300円）
+**+上限分**||2,310円
+（2,200円）||2,205円
+（2,100円）||style="text-align:left;"|上限額については下記を参照。
+**各種割引対象適用外** |}
+
+  - 備考
+
+<!-- end list -->
+
+  - リミットプラスの上限分は以下のとおり。無料通話分、通話・通信料以外の課金と無料通話分を超えた通話・通信料の合計が利用可能額を超えると自動的に発信停止。
+
+<!-- end list -->
+
+  -
+    {| class="wikitable" style="text-align:right;"
+
+|- \!上限額コース
+（本体価格） |840円
+（800円）||2,940円
+（2,800円）||5,040円
+（4,800円）||8,190円
+（7,800円）||13,440円
+（12,800円） |- \!利用可能額
+（本体価格） |3,150円
+（3,000円）||5,250円
+（5,000円）||7,350円
+（7,000円）||10,500円
+（10,000円）||15,750円
+（15,000円） |}
+
+### それ以外のプラン
+
+  - ドニーチョ
+    名前の由来は「土・日・夜」で、その名のとおり土日と祝日、1月2・3日および夜間のみの利用。1990年代中頃までは基本料金・通話料金共に現在と比較するとかなり高額だった。そこで、平日日中（8時 - 19時）に発着信ともできない代わりに[基本料金を下げたのがこのプランであった](https://ja.wikipedia.org/wiki/携帯電話の基本料金 "wikilink")。基本料金の引き下げで役目を終え、[1999年](../Page/1999年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")に新規受付を終了している。ドニーチョ契約では[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")が契約できないうえ、ファミリー割引が対象外であるほか、ネットワークサービスの利用に制約があるため、movaのサービス終了まで注意書きが残されていた。
+
+### パケット料金
+
+1パケットは128バイトで、2004年6月1日現在の価格。FOMA転換を進めていることもあり、movaにはパケット料金の割引が設定されていない。
+
+  - 10万パケットまで 0.315円（本体0.3円）/パケット
+  - 10万パケット超 0.21円（本体0.2円）/パケット
+
+なお、旧料金プランを利用している契約者には、iモードを利用している場合月あたり400パケットまでは課金されない特典がついていた。これは、迷惑メールの受信によりパケット料金が発生することへの批判に対応したものである。しかし、新料金プラン利用者はその対象となっていない。
+
+## 主なラインナップ
+
+ここでは、iモード対応である501i以降に登場した端末を挙げる。
+
+### 50xシリーズ
+
+movaのフラッグシップ。主に2000年代前半におけるドコモのフラッグシップだったが、FOMAが普及してフラッグシップの座を譲った。
+
+そのおかげで、当時のFOMA対応端末と比べて、505と506で実売で1万円程度安くなっていた。503i以降は[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")、504iS以降は[カメラ対応である](../Page/デジタルカメラ.md "wikilink")。
+
+#### 501i
+
+1999年2月より発売開始。日本初の[ブラウザ付き](../Page/ウェブブラウザ.md "wikilink")「iモード」対応端末である。その当時、[液晶は全て](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")[モノクロだった](../Page/モノクローム.md "wikilink")。N、P、F、Dが発売された。 Pは遅れて発売されたので1999年5月発売で、501iとしてはモノクロながら待ち受けダウンロードができた。 サントリー缶コーヒーの[BOSSの懸賞用にボス電](https://ja.wikipedia.org/wiki/BOSSコーヒー "wikilink")（NTTDoCoMo i-mode P501i）がある。
+
+#### 502i
+
+1999年12月より発売開始。第2世代に当たる。N、P、F、D、[SO](https://ja.wikipedia.org/wiki/SO502i "wikilink")、NMが発売された。F502iは初のカラー液晶端末である。次にカラー液晶としてD502i、F502it、N502it、SO502iWMが発売された。N機種が爆発的ヒットしたのはN502i・N502itの登場によるものである。 これまで501iシリーズは各207シリーズにimode機能を搭載したようなものだったが、502iより、ハイパートークが搭載された。
+
+#### 502it
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:NEC_N502it_DoCoMo.jpg "wikilink") 型番の末尾にtがつく機種は、iナビリンク（対応するカーナビと接続すれば、カーナビの画面にiナビリンクサイトとよばれるサイトから現在位置に関係した情報や、現在iモードで接続しているサイトを表示できる機能）を搭載している。F502it（2000年6月発売）、N502it（2000年9月発売）の2機種がある。
+
+なお、N502itの登場前、NECは[九州・沖縄サミット](https://ja.wikipedia.org/wiki/九州・沖縄サミット "wikilink")の関係者向けにカラー液晶を搭載した折りたたみ型の機種を製作し、貸し出した。
+
+itの型番ではないがP502iも同等の機能を持つ。
+
+#### 502iWM
+
+2000年12月発売。[メモリースティックオーディオ](https://ja.wikipedia.org/wiki/メモリースティックオーディオ "wikilink")による[音楽再生機能が付属する携帯電話だった](../Page/デジタルオーディオプレーヤー.md "wikilink")。型番末尾のWMは「With Music」の略で、音楽再生機能を搭載した機種に付けられる。SO502iWMのほかは[Music PORTER](https://ja.wikipedia.org/wiki/Music_PORTER "wikilink")（D[253iWM](https://ja.wikipedia.org/wiki/#253ix "wikilink")）,[Music Porter II](https://ja.wikipedia.org/wiki/Music_Porter_II "wikilink")（D701iWM）,[MUSIC PORTER X](https://ja.wikipedia.org/wiki/MUSIC_PORTER_X "wikilink")（D851iWM）等がある。
+
+#### 503i
+
+2001年1月より発売開始。日本初の携帯アプリ「[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")」対応端末である。全ての端末の液晶がカラー化された。 2xxシリーズがiモード化したために50xシリーズはアプリ対応機の意味になった。
+
+  - [F503i](https://ja.wikipedia.org/wiki/F503i "wikilink")
+    2001年1月発売。ストレート式。77g。
+  - [P503i](https://ja.wikipedia.org/wiki/P503i "wikilink")
+    2001年1月発売。ストレート式。74g。
+  - [N503i](https://ja.wikipedia.org/wiki/N503i "wikilink")
+    2001年3月発売。折りたたみ式。98g。
+  - [SO503i](https://ja.wikipedia.org/wiki/SO503i "wikilink")
+    2001年3月発売。折りたたみ式。115g。ジョグダイヤル採用モデル。
+  - [D503i](https://ja.wikipedia.org/wiki/D503i "wikilink")
+    2001年3月発売。フリップ式。81g。文字変換にATOKを利用。
+
+#### 503iS
+
+2001年5月より発売開始。503の2ndシリーズである。先のNの成功で全ての端末が折りたたみになった。
+
+  - [P503iS](https://ja.wikipedia.org/wiki/P503iS "wikilink")
+    2001年5月発売。この機種より折りたたみ式になった。98g。背面液晶を搭載。
+  - [F503iS](https://ja.wikipedia.org/wiki/F503iS "wikilink")
+    2001年8月発売。この機種より折りたたみ式になった。97g。背面液晶を搭載。
+  - [N503iS](https://ja.wikipedia.org/wiki/N503iS "wikilink")
+    2001年8月発売。折りたたみ式。105g。背面液晶を搭載。
+  - [D503iS](https://ja.wikipedia.org/wiki/D503iS "wikilink")
+    2001年9月発売。この機種より折りたたみ式になった。105g。
+  - [SO503iS](https://ja.wikipedia.org/wiki/SO503iS "wikilink")
+    2001年9月発売。折りたたみ式。115g。
+
+#### 504i
+
+2002年5月より発売開始。シティフォンで使用している1.5GHzとのデュアルバンドに対応。iアプリ待ち受け画面など503iよりiアプリが拡張された。通信速度が28.8kbpsに対応。赤外線通信も導入された。
+
+  - [D504i](https://ja.wikipedia.org/wiki/D504i "wikilink")
+    2002年5月発売。折りたたみ式。110g。背面液晶を搭載。
+  - [F504i](https://ja.wikipedia.org/wiki/F504i "wikilink")
+    2002年5月発売。折りたたみ式。105g。背面に[有機ELディスプレイを搭載](https://ja.wikipedia.org/wiki/有機エレクトロルミネッセンス "wikilink")
+  - [N504i](https://ja.wikipedia.org/wiki/N504i "wikilink")
+    2002年5月発売。折りたたみ式。105g。T9入力に対応した。
+  - [SO504i](https://ja.wikipedia.org/wiki/SO504i "wikilink")
+    2002年6月発売。折りたたみ式。120g。この端末を元にiモードFeliCa試験端末のSO504iCが開発された。
+  - [P504i](https://ja.wikipedia.org/wiki/P504i "wikilink")
+    2002年6月発売。折りたたみ式。99g。prosolid発売まで折りたたみ最薄の厚み16.8mmだった。その後のPシリーズに受け継がれることとなるワンプッシュオープンボタンを採用。
+
+#### 504iS
+
+2002年11月より発売開始。251iに次いで[カメラ付き携帯電話](https://ja.wikipedia.org/wiki/カメラ付き携帯電話 "wikilink")になった。
+
+  - [P504iS](https://ja.wikipedia.org/wiki/P504iS "wikilink")
+    2002年11月発売。折りたたみ式。110g。外部メモリーは非対応。P504iにカメラを追加した。厚みは18.8mmと薄い。カメラ性能はCCD11万画素。
+  - [N504iS](https://ja.wikipedia.org/wiki/N504iS "wikilink")
+    2002年11月発売。折りたたみ式。105g。外部メモリーは非対応。N504iにカメラを追加した。カメラ性能はCMOS32万画素。
+  - [F504iS](https://ja.wikipedia.org/wiki/F504iS "wikilink")
+    2002年12月発売。折りたたみ式。105g。F504iにカメラを追加した。カメラ性能はCCD11万画素。
+
+#### 504iC
+
+2003年10月より試験サービス開始。[iモードFeliCa](https://ja.wikipedia.org/wiki/iモードFeliCa "wikilink")実験用に作られた端末である。登場時期が既に505iに移行していた2003年10月だったが、端末の安定性などを考慮して504ベースになったと思われる。SOとNが作られ、SOが504iベースなのでカメラ無し、Nが504iSベースのためカメラ付きである。各5000台ずつ作られ、一般向けに市販はされず、iモードFeliCaサービスの提供業者などで各種試験に使われた。
+
+  - [SO504iC](https://ja.wikipedia.org/wiki/SO504iC "wikilink")
+    2003年10月より配布。折りたたみ式。SO504iをベースに開発。
+  - [N504iC](https://ja.wikipedia.org/wiki/N504iC "wikilink")
+    2003年10月より配布。折りたたみ式。N504iSをベースに開発。
+
+#### 505i
+
+2003年5月より発売開始iアプリ領域がさらに拡張された、[iアプリDX](https://ja.wikipedia.org/wiki/iアプリDX "wikilink")に対応。液晶が[QVGA](https://ja.wikipedia.org/wiki/QVGA "wikilink")化された。カメラ機能を強化した機種もあり、PとN以外はメガピクセルカメラを搭載する。以後、通信面に関しては機能強化はされていない。
+
+  - [D505i](https://ja.wikipedia.org/wiki/D505i "wikilink")
+    2003年5月発売。折りたたみ式。115g。外部メモリーは[メモリースティックDuo](https://ja.wikipedia.org/wiki/メモリースティックDuo "wikilink")対応。スピンアイ機能で、カメラ部が回転する。デジタルカメラ機能が重視されている。カメラ性能はハニカムCCD63万画素で記録画素は123万画素。
+  - [SO505i](https://ja.wikipedia.org/wiki/SO505i "wikilink")
+    2003年6月発売。詳しくは[SO505i](https://ja.wikipedia.org/wiki/SO505i "wikilink")を参照の事。
+  - [SH505i](https://ja.wikipedia.org/wiki/SH505i "wikilink")
+    2003年6月発売。折りたたみ式。125g。外部メモリーは[miniSDカード対応](https://ja.wikipedia.org/wiki/SDメモリーカード#miniSDカード "wikilink")。シャープはこの機種で初めて50xシリーズに参入した。カメラ性能はCCD100万画素。
+  - [N505i](https://ja.wikipedia.org/wiki/N505i "wikilink")
+    2003年7月発売。折りたたみ式。115g。外部メモリーはminiSD対応。カメラ性能はCMOS32万画素。
+  - [F505i](https://ja.wikipedia.org/wiki/F505i "wikilink")
+    2003年7月発売。折りたたみ式。105g。外部メモリーはminiSD対応。携帯初の指紋認識機能を搭載した。カメラ性能はCCD128万画素。
+  - [P505i](https://ja.wikipedia.org/wiki/P505i "wikilink")
+    2003年8月発売。
+
+#### 505iS
+
+2003年10月より発売開始。全ての機種がメガピクセルカメラ搭載になった。
+
+  - [D505iS](https://ja.wikipedia.org/wiki/D505iS "wikilink")
+    2003年10月発売。折りたたみ式。113g。外部メモリーはメモリースティックDuo対応。D505i譲りのスピンアイ機能が特徴である。カメラ性能はハニカムCCD100万画素で記録画素は200万画素。
+  - [P505iS](https://ja.wikipedia.org/wiki/P505iS "wikilink")
+    2003年11月発売。折りたたみ式。123g。外部メモリーはminiSD対応。P2102Vに次ぎ、2軸回転機構を搭載した。カメラ性能はCCD128万画素。オートフォーカス対応。
+  - N505iS
+    2003年12月発売。折りたたみ式。117g。外部メモリーはminiSD対応。N伝統の形状でメガピクセル対応した。カメラ性能はCCD130万画素。
+  - SO505iS
+    2003年12月発売。回転式。133g。外部メモリーはメモリースティックDuo対応。SO505iを元に軽量・薄型化された。また、ATRAC3対応音楽プレーヤー機能も搭載している。カメラ性能はCCD130万画素。なお、SO505iのジョグダイヤルにかわり、円盤状のジョグを回して項目を選択する「ディスクジョグ」が搭載された。
+  - SH505iS
+    2003年12月発売。折りたたみ式。123g。外部メモリーはminiSD対応。デジタルカメラスタイルでの撮影が出来る様になった。カメラ性能はCCD202万画素。
+
+#### F505iGPS
+
+2003年12月より発売開始。折りたたみ式。115g。外部メモリーはminiSD対応。F661iに次いで[GPS機能が搭載された](../Page/グローバル・ポジショニング・システム.md "wikilink")。ドコモではGPS携帯はFOMAの登場からかなり経った2000年代後半まで主流に成りきれなかった。カメラ性能はCCD123万画素。
+
+#### 506i、506iC
+
+2004年5月より発売開始。506iCは「[iモードFeliCa](https://ja.wikipedia.org/wiki/iモードFeliCa "wikilink")」対応端末である。また、506iより、[DoPa](https://ja.wikipedia.org/wiki/DoPa "wikilink")に対応しない。2004年11月の報道で507iシリーズを開発しない方針が示されている。
+
+  - [D506i](https://ja.wikipedia.org/wiki/D506i "wikilink")
+    2004年5月発売。折りたたみ式。115g。外部メモリーはメモリースティックDuo対応。D505iSを洗練・薄型化させている。カメラ性能はハニカムCCD100万画素で記録画素は200万画素。
+  - [F506i](https://ja.wikipedia.org/wiki/F506i "wikilink")
+    2004年5月発売。折りたたみ式。116g。外部メモリーはminiSD対応。F505iのカメラ機能を強化した様な端末である。カメラ性能はCCD204万画素。
+  - [N506i](https://ja.wikipedia.org/wiki/N506i "wikilink")
+    2004年6月発売。折りたたみ式。126g。外部メモリーはminiSD対応。カタログデータ上はN505iSと変わらないが、N伝統の形状を捨てリバーススタイル（2軸回転機構）になった。カメラ性能はCCD130万画素。
+  - [P506iC](https://ja.wikipedia.org/wiki/P506iC "wikilink")、P506iCII
+    2004年7月発売。折りたたみ式。128g。外部メモリーはminiSD対応。P505iSをiモードFeliCa対応にした端末。サブディスプレイは廃止されている。カメラ性能はCCD200万画素、ストロボ搭載。2006年4月8日にカラーバリエーション追加で、P506iCIIが発売された。2007年末にメーカー出荷が終了し、これが最後のmova端末となった。
+  - [SH506iC](https://ja.wikipedia.org/wiki/SH506iC "wikilink")
+    2004年7月発売。折りたたみ式。123g。外部メモリーはminiSD対応。SH505iSをiモードFeliCa対応にし、ビューアースタイル（2軸回転機構）に出来る様になった。カメラ性能はCCD202万画素。
+  - [SO506iC](https://ja.wikipedia.org/wiki/SO506iC "wikilink")
+    2004年7月発売。スライド回転式。140g。外部メモリーはメモリースティックDuo対応。SO505iSをiモードFeliCa対応にした端末。スライド回転の開閉をアシストする機能もついた。カメラ性能はCCD130万画素。
+  - premini-II（[SO506i](https://ja.wikipedia.org/wiki/SO506i "wikilink")）
+    2005年2月発売。ストレート式。97g。外部メモリーはメモリースティックDuo対応。SO506iCよりiモードFeliCaを外し、軽量化した端末（すなわちSO505iSを軽量化した端末）。カメラ性能はCCD130万画素。
+
+#### 506iS
+
+2005年2月より発売開始。
+
+  - [N506iS](https://ja.wikipedia.org/wiki/N506iS "wikilink")
+    2005年2月発売。折りたたみ式。130g。外部メモリーはminiSD対応。NEC製パソコンにも搭載された技術である、液晶画面より音を鳴らすSoundVu（サウンドビュー）を搭載（端末の広告では、Flat Panel Speaker（フラットパネルスピーカ）といわれる）。それ以外はN506iとほとんど同じである。カメラ性能はCCD130万画素。
+  - premini-IIS（[SO506iS](https://ja.wikipedia.org/wiki/SO506iS "wikilink")）
+    2005年5月発売。ストレート式。97g。外部メモリーはメモリースティックDuo対応。premini-II（SO506i）のマイナーチェンジ端末。premini、premini-Sの関係と同じくPOPな外観になっている。カメラ性能はCCD130万画素。
+  - N506iSII
+    2006年3月10日発売。折りたたみ式。128g。外部メモリーはminiSD対応。スピーカはフラットパネルスピーカではなく、通常のものである。本機を最後にmova端末の新規開発はなくなった。
+
+### 20x・21xシリーズ
+
+200番台のシリーズは、[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")登場以前はmovaのメインストリームであり、1997年発売の203シリーズより[ショートメール](https://ja.wikipedia.org/wiki/ショートメール "wikilink")に対応している。501iシリーズ登場後の209iよりiモードが搭載され、movaの普及ラインとされたが、2005年に普及ラインが[FOMA 7シリーズへ移行したため](https://ja.wikipedia.org/wiki/FOMA#70xシリーズ\(7シリーズ\) "wikilink")、それ以後に発売された213系統はデザイン・機能特化型となっている。iアプリ非対応、カメラ無しである。
+
+#### 209i
+
+2000年6月 - 12月に発売。[P](https://ja.wikipedia.org/wiki/P209i "wikilink")、[F](https://ja.wikipedia.org/wiki/F209i "wikilink")、[N](https://ja.wikipedia.org/wiki/N209i "wikilink")、[D](https://ja.wikipedia.org/wiki/D209i "wikilink")、KO、ERが発売された。このシリーズからドコモ800MHzPDC端末は、すべてiモード対応となる。500番台のシリーズに対し、このシリーズはiモードの入門・普及機として位置付けられた。全機種にメールキーがある。F, D, KOは256色カラー液晶、P, Nはモノクロ4階調液晶、ERはモノクロ液晶を搭載している。502iとの違いは、単にiモードボタンの有無だけである（ただし、P502iにはiモードボタンはない）。
+
+#### 209iS
+
+2000年8月に発売されたP209iSのみ。P209iSは一般向けmovaの折りたたみ型として初めてカラー液晶と背面液晶（モノクロ）を搭載した小型携帯電話で、ヒットした。また、サントリーの缶コーヒーBOSSの懸賞賞品としてBOSS仕様のP209iS（通称 : ボス電2）が出た。背面液晶は今後の携帯に広まっていく。
+
+#### 210i
+
+2001年4月より発売開始。P、F、N、SO、D、KOが発売された。KO210iを最後に[日立国際電気](https://ja.wikipedia.org/wiki/日立国際電気 "wikilink")は携帯電話事業から撤退。
+
+#### 211i
+
+2001年11月より発売開始。シティフォンで使用している1.5GHzを活用する為デュアルバンドに対応。P、F、N、SO、D、Rが発売された。このうちD、Rは[プリペイド式携帯電話](https://ja.wikipedia.org/wiki/プリペイド式携帯電話 "wikilink")の[ぷりコール](https://ja.wikipedia.org/wiki/ぷりコール "wikilink")対応機種である。
+
+#### 211iS
+
+2003年4月より発売開始。基本スペックは211iでそれに[ワン切り](https://ja.wikipedia.org/wiki/ワン切り "wikilink")対策をした端末である。212iよりも後で登場した。PとNが発売された。
+
+#### 212i
+
+2002年11月より発売開始。SO212i、F212iがそれに相当する。
+
+  - SO212i
+    着せ替え携帯
+  - F212i
+    詳しくは[F212i](https://ja.wikipedia.org/wiki/F212i "wikilink")を参照の事。薄型ストレートである。
+
+#### 213i
+
+2004年7月より発売開始。preminiとprosolidがそれに相当する。個性派携帯モデルである。
+
+  - premini（[SO213i](https://ja.wikipedia.org/wiki/SO213i "wikilink")）
+    ストレート式。カメラつき携帯全盛の2004年7月に発売された。機能は、通話関連の一般的な機能、メール、iモード、簡易ツール（スケジュール、メモ、電卓）に絞り込み、カメラは付いていない。超軽量（約69g）・超小型のボディでニュースにもなった。「スロープキー」を採用しているため小型にもかかわらずボタンが押しやすい。
+
+<!-- end list -->
+
+  - [prosolid](https://ja.wikipedia.org/wiki/prosolid "wikilink")（P213i）
+    詳細は当該項目を参照。
+
+#### 213iS
+
+2004年11月より発売開始。preminiのマイナーチェンジモデルpremini-S（SO213iS）が相当する。
+
+  - premini-S（[SO213iS](https://ja.wikipedia.org/wiki/SO213iS "wikilink")）
+
+<!-- end list -->
+
+  - preminiのマイナーチェンジバージョン。
+
+#### RADIDEN
+
+型番：[SO213iWR](https://ja.wikipedia.org/wiki/SO213iWR "wikilink")。2005年10月発売開始。preminiをベースにAM/FM/TV（音声のみ）チューナーを搭載した。WRはWith Radioの略。AMラジオの搭載は業界初（にして唯一）となった。AM/FMラジオ機能はmovaを解約またはサービス終了以降も充電式ポケットラジオとして利用可能である。
+
+### 25xシリーズ
+
+Jフォン（現 [ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）の影響を受け、21xシリーズにカメラを追加したmova初の[カメラ付き携帯電話](https://ja.wikipedia.org/wiki/カメラ付き携帯電話 "wikilink")で[iショット](https://ja.wikipedia.org/wiki/iショット "wikilink")対応機種。21xシリーズに代わるmovaの普及機である。504i-506iシリーズとの差別化のために、画素数は30万画素に抑えられ、iアプリ非対応。しかし50xシリーズの廉価販売により、存在意義が薄らいだ。現在はFOMA 70xシリーズへの移行を完了し、製造・販売ともに打ち切られた。
+
+#### 251i
+
+2002年6月より発売開始。シャープが最初にカメラ機能付き機種としてSH251iを発売した。D251iはドコモ初の外部メモリースロット対応機である。
+
+  - [SH251i](https://ja.wikipedia.org/wiki/SH251i "wikilink")
+    2002年6月発売。折りたたみ式。115g。外部メモリーは非対応。カメラ性能はCCD31万画素。
+  - [D251i](https://ja.wikipedia.org/wiki/D251i "wikilink")
+    2002年7月発売。折りたたみ式。115g。外部メモリーは[メモリースティックDuo](https://ja.wikipedia.org/wiki/メモリースティックDuo "wikilink")対応。カメラ性能はCCD11万画素。
+  - F251i
+    2002年7月発売。折りたたみ式。110g。外部メモリーは非対応。カメラ性能はCCD11万画素。
+  - N251i
+    2002年10月発売。折りたたみ式。98g。外部メモリーは非対応。カメラ性能はCMOS11万画素。
+
+#### 251iS
+
+2003年1月より発売開始。
+
+  - SH251iS
+    2002年11月発売。折りたたみ式。110g。外部メモリーは非対応。カメラ性能はCCD31万画素。
+  - [D251iS](https://ja.wikipedia.org/wiki/D251iS "wikilink")
+    2003年1月発売。折りたたみ式。120g。外部メモリーはメモリースティックDuo対応。カメラ性能は[ハニカムCCD](https://ja.wikipedia.org/wiki/ハニカムCCD "wikilink")（[富士フイルム](../Page/富士フイルム.md "wikilink")が開発）17万画素。
+  - P251iS
+    2003年1月発売。折りたたみ式。95g。外部メモリーは非対応。カメラ性能はCCD31万画素。
+  - N251iS
+    2003年4月発売。折りたたみ式。99g。外部メモリーは非対応。カメラ性能はCMOS11万画素。
+
+#### 252i
+
+2003年9月より発売開始。通信速度が28.8Kbpsに対応。
+
+  - [D252i](https://ja.wikipedia.org/wiki/D252i "wikilink")
+    2003年9月発売。折りたたみ式。99g。外部メモリーはメモリースティックDuo対応。カメラ性能はハニカムCCD17万画素。
+  - SH252i
+    2003年10月発売。折りたたみ式。98g。外部メモリーは非対応。カメラ性能はCCD31万画素。
+  - N252i
+    2003年10月発売。折りたたみ式。97g。外部メモリーは非対応。カメラ性能はCMOS31万画素。このシリーズで唯一赤外線通信に対応。
+  - P252i
+    2003年10月発売。折りたたみ式。114g。外部メモリーはminiSD対応。カメラ性能はCCD31万画素。
+
+#### 252iS
+
+一機種のみ。
+
+  - P252iS
+    2004年4月発売。折りたたみ式。95g。外部メモリーはminiSD対応。カメラ性能はCCD31万画素。発売時に小さい端末と話題になった。
+
+#### 253i
+
+  - [D253i](https://ja.wikipedia.org/wiki/D253i "wikilink")
+    2004年9月発売。スライド式。96g。外部メモリーは非対応。カメラ性能はCCD31万画素。
+  - N253i
+    2004年10月発売。折りたたみ式。95g。外部メモリーは非対応。カメラ性能はCMOS31万画素。
+  - [P253i](https://ja.wikipedia.org/wiki/P253i "wikilink")
+    2004年11月発売。折りたたみ式。92g。外部メモリーはminiSD対応。カメラ性能はCMOS31万画素。アニメ「[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")」にも登場した。
+
+#### 253ix
+
+2004年12月より発売。個性派携帯モデルであるMusic PORTER（D253iWM、FMラジオ内蔵、音楽再生機能を充実）、ボディに合成皮革を使用した女性向けデザイン携帯Lechiffon（ルシフォン、P253iS）が発売される。
+
+  - [Music PORTER](https://ja.wikipedia.org/wiki/Music_PORTER "wikilink")（D253iWM）
+    2004年12月発売。折りたたみ式。100g。外部メモリーはメモリースティックDuo対応。カメラ性能はCCD32万画素。液晶画面は横長で、MDプレーヤーのような外観である。64MBのメモリースティック、イヤホン、リモコンを同梱している。
+  - [Lechiffon](https://ja.wikipedia.org/wiki/Lechiffon "wikilink")（P253iS）
+    2005年2月発売。詳細は当該項目を参照。
+
+### 6xxシリーズ
+
+iモード登場前から、600番台はmovaの特殊モデルに割り当てられている。個性的な機能を搭載。
+
+今では6xxにはFOMAの国際ローミング対応兼廉価モデル（[SIMPURE](https://ja.wikipedia.org/wiki/SIMPURE "wikilink")）が位置づけられている。
+
+N601wg
+
+GSMデュアルモード端末、N207同等
+
+P601wk
+
+cdmaOneデュアルモード端末、P207同等、韓国国際ローミング端末。
+
+韓国しか対応しない国際ローミング端末。
+
+  - [D601ps](https://ja.wikipedia.org/wiki/D601ps "wikilink"),[P601ps](https://ja.wikipedia.org/wiki/P601ps "wikilink"),[F601ps](https://ja.wikipedia.org/wiki/F601ps "wikilink"),[SO601ps](https://ja.wikipedia.org/wiki/SO601ps "wikilink"),[N601ps](https://ja.wikipedia.org/wiki/N601ps "wikilink"),[P651ps](https://ja.wikipedia.org/wiki/P651ps "wikilink")
+    [ぷりコール](https://ja.wikipedia.org/wiki/ぷりコール "wikilink")専用端末（[206シリーズ](https://ja.wikipedia.org/wiki/206シリーズ "wikilink")や[207シリーズ](https://ja.wikipedia.org/wiki/207シリーズ "wikilink")を[ぷりコール](https://ja.wikipedia.org/wiki/ぷりコール "wikilink")向けにマイナーチェンジしたもの）。P651psについては[P209i](https://ja.wikipedia.org/wiki/P209i "wikilink")の[リファイン](https://ja.wikipedia.org/wiki/リファイン "wikilink")で一般契約に移行でP209iと同等の機能となった。
+
+<!-- end list -->
+
+  - [F601ev](https://ja.wikipedia.org/wiki/F601ev "wikilink")
+
+F207の高級機でハモリメロディ搭載、くっきりと見やすいフォント。F207ベースだが着信音が違う
+
+  - [P601ev](https://ja.wikipedia.org/wiki/P601ev "wikilink")
+
+P207の高級機でマグネシウムボディで背面ドコモロゴはバッジ、P207ベースだが着信音の一部の曲が違う。
+
+  - [SH601em](https://ja.wikipedia.org/wiki/SH601em "wikilink")
+
+PDA機能付きでPDAとして使えた、タッチパネル式、単体でEメールが使える。
+
+  - F661i
+    [GPS機能が搭載された](../Page/グローバル・ポジショニング・システム.md "wikilink")。iアプリなし、カメラなし。
+
+#### らくらくホン
+
+高年齢層向けに、シンプルさ、使いやすさに特化した機種。
+
+  - らくらくホン（[P601es](https://ja.wikipedia.org/wiki/P601es "wikilink")）
+    1999年10月発売。フリップ式。iモード・iアプリなし、カメラなし、P207ベース。
+  - [らくらくホンII](https://ja.wikipedia.org/wiki/らくらくホンII "wikilink")（[F671i](https://ja.wikipedia.org/wiki/F671i "wikilink")）
+    2001年9月発売。フリップ式。iモード対応。iアプリなし、カメラなし。
+  - [らくらくホンIIS](https://ja.wikipedia.org/wiki/らくらくホンIIS "wikilink")（[F671iS](https://ja.wikipedia.org/wiki/F671iS "wikilink")）
+    2002年9月発売。F671iSより折りたたみ型になった。iモード対応。iアプリなし、カメラなし。
+  - [らくらくホンIII](https://ja.wikipedia.org/wiki/らくらくホンIII "wikilink")（[F672i](https://ja.wikipedia.org/wiki/F672i "wikilink")）
+    2003年9月発売。折りたたみ型。F672iは[歩数計](../Page/歩数計.md "wikilink")機能が搭載されている。iモード対応。iアプリなし、カメラなし。
+
+#### GEOFREE
+
+対衝撃、防水性能に特化した機種。詳しくは[GEOFREE](https://ja.wikipedia.org/wiki/GEOFREE "wikilink")参照。
+
+  - R691i GEOFREE
+    2001年2月発売。iアプリ、カメラは無い。詳しくは[R691i](https://ja.wikipedia.org/wiki/R691i "wikilink")参照。
+  - R692i GEOFREE II
+    2002年8月発売。R691iをカラー化したもの。iアプリ、カメラは無い。[日本無線](https://ja.wikipedia.org/wiki/日本無線 "wikilink")が最後に発表した端末でもある。詳しくは[R692i](https://ja.wikipedia.org/wiki/R692i "wikilink")参照。
+
+### 8xxシリーズ（ドッチーモ）
+
+800番台のシリーズは「**ドッチーモ**」（**Doccimo**）の商品名が付けられた、mova（PDC方式）と[ドコモPHS](https://ja.wikipedia.org/wiki/ドコモPHS "wikilink")との複合端末である。1998年12月に[NTTパーソナル](../Page/NTTパーソナル.md "wikilink")のPHS事業を譲受したドコモが、半年余りで自社の携帯電話事業にPHS事業を融合させた端末として売り出したことで限定的に注目を浴びた。
+
+mova+ドコモPHSの契約を行うと、1台の端末で携帯の090と、PHSの070の二つの電話番号を使えた。発売当初はmovaのプランA通話料金が高めであり、対[固定電話](https://ja.wikipedia.org/wiki/固定電話 "wikilink")間においては通話料が廉価であったPHSで費用を抑える事ができたため長電話をするユーザーや、構内[PHS](../Page/PHS.md "wikilink")端末として共用できる点から一部の法人には限定的に受け入れられたと見られる。
+
+しかし、端末がmova準拠のためPHSのデータ通信（[PIAFS](https://ja.wikipedia.org/wiki/PIAFS "wikilink")）・パルディオEメールなど当時PDCよりも優位にあったPHS側の一部サービスが利用不可であり、機種自体も発売時点で一世代前のmovaを基にしておりiモード非搭載などスペックに見劣りしていた点、PHSから携帯電話・他社PHSへの通話では[アクセスチャージ](https://ja.wikipedia.org/wiki/アクセスチャージ "wikilink")が加算されてmovaよりも高くつく状況が発生するなど、一般ユーザーに対してはデメリットが多かった。
+
+料金プランについては、movaとパルディオ（ドコモPHS）それぞれ単独機種としてのプランを選べるほか、重畳契約時の割引プランとして「ドッチーモプラン」（無料通話3800円相当含み月8400円→2001年3月から8100円）が用意されたが、PHS回線分の費用が上乗せされているため、単純比較でmovaの「おはなしプラスM」（2000年時点で無料通話3100円相当含み5900円）よりも割高であった。
+
+2000年夏に[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")機能を搭載した「スーパードッチーモ」端末を発売してテコ入れを図ったが、以後後継機種が発売されること無く2002年前半までカタログに掲載続けられた後、販売を終了した。ドコモPHSが2008年1月でサービス終了し、アフターサービスも打ち切り、2012年3月31日を以てmovaがサービス終了したため、現在は利用できない。
+
+[2003年](../Page/2003年.md "wikilink")にFOMAの[デュアルネットワークサービス](https://ja.wikipedia.org/wiki/デュアルネットワークサービス "wikilink")を使用したN2501ベースのFOMAとmovaの複合端末「[N2701](https://ja.wikipedia.org/wiki/N2701 "wikilink")」が発売されたが、その後は代替でFOMAプラスエリアが始まるため、後継機は出されず、FOMAプラスエリア端末を普及させて対応した。また、ドッチーモ以前には[テレメッセージ](https://ja.wikipedia.org/wiki/テレメッセージ "wikilink")が[アステル](../Page/アステル.md "wikilink")のPHSや[IDOのPDC端末に](../Page/日本移動通信.md "wikilink")[ポケットベルを組み込んだ端末を発売していた](../Page/無線呼び出し.md "wikilink")。[ウィルコム](../Page/ウィルコム.md "wikilink")→[ワイモバイル](../Page/ワイモバイル.md "wikilink")も[WS027SH](https://ja.wikipedia.org/wiki/WS027SH "wikilink")や[WX04K](https://ja.wikipedia.org/wiki/WX04K "wikilink")など、PHSと3Gのデュアル機を発売していた。
+
+8xxという型番は後にFOMAの企画端末につけられている。
+
+  - SH811
+    1999年4月発売。ストレート式。
+  - P811
+    1999年4月発売。ストレート式。
+    松下の最初で最後のドッチーモ端末、携帯・PHS同時待受けが出来ない、
+    P207同等の端末であるがP206と似ていた。
+  - N811
+    1999年4月発売。折りたたみ式。
+  - [SH821i](https://ja.wikipedia.org/wiki/SH821i "wikilink")
+    2000年6月発売。「スーパードッチーモ」。ストレート式、カラー液晶。
+  - N821i
+    2000年7月発売。「スーパードッチーモ」。デュアル端末である事以外はN502iによく似ている。
+  - P821i
+    2000年9月発売。「スーパードッチーモ」。ストレート式。NECによるOEMである。
+  - N831
+    2000年2月発売。mova部分は[ぷりコール](https://ja.wikipedia.org/wiki/ぷりコール "wikilink")対応、それ以外はN811と同じ。
+
+## 沿革
+
+  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")4月 - 最初の「ムーバ」TZ-804（P,N,F,D）販売
+  - [1993年](../Page/1993年.md "wikilink") - ムーバR、デジタル・ムーバP,N,F販売
+  - [1994年](../Page/1994年.md "wikilink") - ムーバ（P2,N2,F2,D2,R2）、デジタル・ムーバD販売
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - デジタル・ムーバ（P,N,F,D,M）101HYPER販売
+  - 1996年 - デジタル・ムーバ（P,N,F,D）201HYPER販売
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - デジタル・ムーバ（P,N,F,D）203HYPER販売
+  - 1997年 - KO201,SO201,SA201,SH201,KY201,NM201発売
+  - 1997年2月 - 携帯・自動車電話サービス1000万契約突破
+  - 1997年12月26日 - 同日限りでアナログ方式の新規契約申し込み受付を終了。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - デジタル・ムーバ（P,N,F,D,M）206HYPER販売
+  - 1998年 - KO206,TS206,SO206,SH206販売
+  - 1998年 - デジタル・ムーバ（P,N,F,D,R）207HYPER販売
+  - 1998年8月 - 携帯・自動車電話サービス2000万契約突破
+  - 1998年〜[1999年](../Page/1999年.md "wikilink") - DE207,SA207,KO207,NM207,ER207発売
+  - 1999年2月 - F501i,F601ev N207S発売 [iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")サービス開始
+  - 1999年3月 - N501i,D501i発売 アナログ方式サービス終了。
+  - 1999年4月 - P601ev,P157,N811,P811,SH811発売 iモードサービス10万契約突破
+  - 1999年5月 - P501i発売
+  - 1999年6月 - NM157発売 携帯・自動車電話サービス2500万契約突破
+  - 1999年8月 - iモードサービス100万契約突破
+  - 1999年10月 - P601es発売
+  - 1999年11月 - D208,F208,N208,P208,R208,N208S発売 ハイパートーク開始
+  - 1999年12月 - F502i,SO601ps発売 ドニーチョ新規受付終了
+  - [2000年](../Page/2000年.md "wikilink")1月 - D502i,KO208発売
+  - 2000年2月 - N502i発売 iモードサービス500万契約突破
+  - 2000年3月 - P502i,P158,D601ps発売
+  - 2000年4月 - NM502i発売 携帯・自動車電話サービス3000万契約突破
+  - 2000年6月 - F502it,SO502i,F209i,N209i,P209i,SH821i発売
+  - 2000年7月 - N158,D209i,N821i発売
+  - 2000年8月 - P209iS発売 iモードサービス1000万契約突破
+  - 2000年9月 - N502it,P821i発売
+  - 2000年10月 - R209i発売
+  - 2000年12月 - SO502iWM,KO209i,ER209i発売
+  - [2001年](../Page/2001年.md "wikilink")1月 - P503i,F503i,P651ps発売
+  - 2001年2月 - R691iGEOFREE発売 携帯・自動車電話サービス3500万契約突破
+  - 2001年3月 - N503i,SO503i,D503i発売 iモードサービス2000万契約突破
+  - 2001年4月 - N210i,D210i,F210i発売
+  - 2001年5月 - P503iS,P210i発売 [FOMA](../Page/FOMA.md "wikilink")試験サービス開始
+  - 2001年7月 - iモードサービス2500万契約突破（FOMA含む）
+  - 2001年8月 - F503iS,N503iS,SO210i発売
+  - 2001年9月 - F671i,D503iS,SO503iS発売
+  - 2001年10月 - FOMA本格サービス開始
+  - 2001年11月 - F211i,D211i発売
+  - 2001年12月 - N211i発売 iモードサービス3000万契約突破（FOMA含む）
+  - [2002年](../Page/2002年.md "wikilink")1月 - P211i発売 携帯・自動車電話サービス4000万契約突破（FOMA含む）
+  - 2002年2月 - SO211i発売
+  - 2002年5月 - D504i,F504i,N504i,SO504i発売
+  - 2002年6月 - P504i,SH251i発売 [iショット](https://ja.wikipedia.org/wiki/iショット "wikilink")サービス開始
+  - 2002年7月 - D251i,F251i発売
+  - 2002年8月 - R692i発売
+  - 2002年9月 - F671iS発売
+  - 2002年10月 - N251i発売
+  - 2002年11月 - P504iS,N504iS,SO212i,F212i,SH251iS発売
+  - 2002年12月 - F504iS発売
+  - [2003年](../Page/2003年.md "wikilink")1月 - D251iS,P251iS発売
+  - 2003年4月 - N211iS,P211iS,N251iS,F661i発売
+  - 2003年5月 - D505i発売
+  - 2003年6月 - SO505i,SH505i発売
+  - 2003年7月 - N505i,F505i発売
+  - 2003年8月 - P505i発売 movaサービス約4440万契約のピークに達し、9月以降減少が始まる。
+  - 2003年9月 - F672i,D252i発売
+  - 2003年10月 - D505iS,N505iS,SH252i,N252i,P252i発売、N504iC、SO504iC試験開始
+  - 2003年11月 - P505iS発売
+  - 2003年12月 - SH505iS,SO505iS,F505iGPS発売
+  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")4月 - P252iS発売
+  - 2004年5月 - D506i,F506i発売
+  - 2004年6月 - N506i発売
+  - 2004年7月 - P506iC,SH506iC,SO506iC,premini発売
+  - 2004年10月 - D253i,N253i発売
+  - 2004年11月 - P253i、premini-S発売
+  - 2004年12月 - MUSIC PORTER、prosolid発売
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月 - Lechiffon、N506iS、premini-II発売
+  - 2005年5月 - premini-IIS発売
+  - 2005年10月 - RADIDEN発売
+  - 2005年11月 - FOMAおよびmovaサービス共通で全国一律の新基本料金プラン導入 携帯・自動車電話サービス5000万契約突破（FOMA含む）
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月 - N506iSII発売。これをもって端末の新規開発を中止。
+  - 2006年4月 - P506iCII発売。これがmovaの最終機種となる。
+  - 2006年6月 - FOMA契約数がmova契約数を上回る
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月 - 2G端末出荷台数が0台を記録。2007年末で生産・出荷が終了したことが明らかになる。
+  - 2008年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")-[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[立山](../Page/立山.md "wikilink")[室堂](https://ja.wikipedia.org/wiki/室堂 "wikilink")地区で全国で初めてmovaサービスを終了。
+  - 2008年4月 - 2007年度末におけるmova契約数が1000万契約を下回ったことが明らかになる。
+  - 2008年8月7日 - 同年11月末で新規契約受付を終了することを正式に発表。翌日から移行促進のためFOMAへ切り替える際の事務手数料を廃止。
+  - 2008年11月30日 - 同日限りで新規契約申し込み受付を終了。
+  - 2008年12月5日 - 新規契約終了日時点において契約数が700万件を割り込んだことが明らかとなる。
+  - 2009年3月31日 - 同日限りでF505iGPS、movaF661iで提供していたGPS機能を終了。
+  - 2009年4月 - 2008年度末におけるmova契約数が556万件余りとなったことが判明。減少数もそれまでに比べ大きくなった。
+  - [2012年](../Page/2012年.md "wikilink")3月 - サービス終了。[停波](https://ja.wikipedia.org/wiki/停波 "wikilink")。
+
+## 外部リンク
+
+  - [NTTドコモ](http://www.nttdocomo.co.jp/)
+      - 本文記述の通り、現在、公式サイトからmova機種に関する記述は削除された。サービス・料金・利用約款を調べるには検索機能を使う必要がある。
+
+## 脚注
+
+[Category:携帯電話_(NTTドコモ)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(NTTドコモ\) "wikilink") [Category:2012年廃止](https://ja.wikipedia.org/wiki/Category:2012年廃止 "wikilink")
+
+1.
+2.  [movaサービス新規お申込み受付終了のお知らせ](http://www.nttdocomo.co.jp/info/notice/page/080807_01_m.html)
+3.  [FOMA契約数比率が50％を突破](http://www.nttdocomo.co.jp/info/news_release/page/20060619.html)
+4.  [ドコモ、「ムーバ2007年終了」報道にコメント](http://k-tai.impress.co.jp/cda/article/news_toppage/29341.html)
+5.  [JEITA携帯電話出荷台数集計](http://www.jeita.or.jp/japanese/stat/cellular/2007/index.htm)。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月には他事業者分を含む2Gの出荷台数が初めて0台を記録している。
+6.  [弊社に関する一部報道について](http://www.nttdocomo.co.jp/info/notice/page/080311_01_m.html)
+7.  [法人向け位置情報サービス「DLPサービス」の終了について](http://www.nttdocomo.co.jp/info/news_release/page/20070201.html)
+8.  [DoPaサービスの新規申し込み受付終了のお知らせ](http://www.nttdocomo.co.jp/info/notice/page/080407_00_m.html)
+9.  [F505iGPS、F661i (mova)におけるGPS機能終了のお知らせ](http://www.nttdocomo.co.jp/info/notice/page/090108_00_m.html)
+10. [movaサービス新規お申込み受付終了のお知らせ](http://www.nttdocomo.co.jp/info/notice/page/080807_01_m.html)
+11. [アンテナ・基地局・移動局～14.音声CODEC](http://www.nttdocomo.co.jp/corporate/technology/rd/tech/bn/base_and_mobile_stations/14/)

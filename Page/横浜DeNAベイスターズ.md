@@ -1,0 +1,1719 @@
+> この記事は[DeNA](https://ja.wikipedia.org/wiki/DeNA)から翻訳されています。
+
+
+**横浜DeNAベイスターズ**（よこはまディー・エヌ・エーベイスターズ、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロ野球球団](../Page/日本プロ野球.md "wikilink")。[セントラル・リーグ](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")に所属する。略称は**「横浜」「DeNA」**。
+
+[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")を[保護地域とし](https://ja.wikipedia.org/wiki/プロ野球地域保護権 "wikilink")、同県[横浜市](https://ja.wikipedia.org/wiki/横浜市 "wikilink")[中区にある](https://ja.wikipedia.org/wiki/中区_\(横浜市\) "wikilink")[横浜スタジアム](https://ja.wikipedia.org/wiki/横浜スタジアム "wikilink")を[専用球場](https://ja.wikipedia.org/wiki/専用球場 "wikilink")（本拠地）としている。また、[二軍](../Page/横浜DeNAベイスターズ_\(ファーム\).md "wikilink")\[1\]（[イースタン・リーグ](https://ja.wikipedia.org/wiki/イースタン・リーグ "wikilink")所属）の本拠地は同県[横須賀市](../Page/横須賀市.md "wikilink")にある[横須賀スタジアム](https://ja.wikipedia.org/wiki/横須賀スタジアム "wikilink")である。更にその他には球団全体の練習場と合宿所が[追浜公園](https://ja.wikipedia.org/wiki/追浜公園 "wikilink")内に設けられている。
+
+## 球団の歴史
+
+林兼商店（後の[大洋漁業](https://ja.wikipedia.org/wiki/マルハ "wikilink")、現・[マルハニチロ](https://ja.wikipedia.org/wiki/マルハニチロ "wikilink")）の実業団チームとして[1929年](../Page/1929年.md "wikilink")5月に設立\[2\] され、翌1930年の[第4回全日本都市対抗野球大会](https://ja.wikipedia.org/wiki/第4回全日本都市対抗野球大会 "wikilink")では、初挑戦ながら全国大会出場を果たした（初戦敗退）。翌年は中国大会でベスト4に入るなどの成績を残したが、[世界恐慌](https://ja.wikipedia.org/wiki/世界恐慌 "wikilink")の影響などで1932年の[第6回全日本都市対抗野球大会](https://ja.wikipedia.org/wiki/第6回全日本都市対抗野球大会 "wikilink")前に休止状態となり、[軟式野球](https://ja.wikipedia.org/wiki/軟式野球 "wikilink")部だけが[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")開始前後まで存在していた\[3\]。戦後、1946年6月に大洋漁業（1945年12月に改称）軟式野球部として復活、同年11月（一説には1947年3月）には硬式野球部へ変更された。その後の都市対抗野球では全国大会の常連となり、[1948年](../Page/1948年.md "wikilink")には[国体で優勝し一躍名をあげる](https://ja.wikipedia.org/wiki/国民体育大会 "wikilink")\[4\]。
+
+[1949年](../Page/1949年.md "wikilink")プロ野球シーズンオフ、リーグ拡張方針で各企業がプロ野球参加に名乗りを上げ、大洋漁業野球部からは、[戸倉勝城](https://ja.wikipedia.org/wiki/戸倉勝城 "wikilink")・[河内卓司](https://ja.wikipedia.org/wiki/河内卓司 "wikilink")・[徳網茂](https://ja.wikipedia.org/wiki/徳網茂 "wikilink")ら主力選手が新球団の[毎日オリオンズに引き抜かれた](../Page/千葉ロッテマリーンズ.md "wikilink")。野球部に情熱を注いでいた前社長[中部兼市](https://ja.wikipedia.org/wiki/中部兼市 "wikilink")\[5\] は憤慨し、自社野球部のプロ参加方針を打ち出す。
+
+1949年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に「株式会社まるは球団」を設立し、球団名を暫定的に**まるは球団**とした。[セントラル・リーグ](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")に加盟。[山口県](../Page/山口県.md "wikilink")[下関市](https://ja.wikipedia.org/wiki/下関市 "wikilink")を[フランチャイズ](https://ja.wikipedia.org/wiki/プロ野球地域保護権 "wikilink")、[下関市営球場](https://ja.wikipedia.org/wiki/下関市営球場 "wikilink")（[下関球場](https://ja.wikipedia.org/wiki/下関球場 "wikilink")とは別）を本拠地球場とした。本来、大洋の[社章](https://ja.wikipedia.org/wiki/社章 "wikilink")と同じ「（は）=はを丸囲みしてマルハと読ませる」とすべきだが、新聞の活字にそれがないため、「まるは」と表記していたといわれている\[6\]。
+
+社会人野球としての大洋漁業野球部は、まるは球団設立によって1949年11月30日をもって解散したが、社会人野球時代の選手には拘らないという中部兼市の方針でまるは球団に移籍出来なかった選手のために、大洋漁業が呼びかける形で「全下関」チームが結成され、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")まで活動していた\[7\]。
+
+### 下関時代（旧・大洋ホエールズ時代）
+
+  - [1950年](https://ja.wikipedia.org/wiki/1950年の大洋ホエールズ "wikilink")-[1952年](https://ja.wikipedia.org/wiki/1952年の大洋ホエールズ "wikilink")
+
+1950年シーズン開幕後に**大洋ホエールズ**（たいようホエールズ）に球団名を改称（3月に会社名を株式会社大洋球団に変更）し、[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")からベテランの[中島治康](https://ja.wikipedia.org/wiki/中島治康 "wikilink")と[平山菊二](https://ja.wikipedia.org/wiki/平山菊二 "wikilink")、大陽ロビンスから[藤井勇](https://ja.wikipedia.org/wiki/藤井勇 "wikilink")と[林直明](https://ja.wikipedia.org/wiki/林直明 "wikilink")を譲り受け、[宇高勲](https://ja.wikipedia.org/wiki/宇高勲 "wikilink")のスカウト活動により、[東急フライヤーズから](../Page/北海道日本ハムファイターズ.md "wikilink")[大沢清](https://ja.wikipedia.org/wiki/大沢清 "wikilink")や[長持栄吉](https://ja.wikipedia.org/wiki/長持栄吉 "wikilink")、[片山博](https://ja.wikipedia.org/wiki/片山博 "wikilink")らを、[阪急ブレーブスからは](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")[宮崎剛や](https://ja.wikipedia.org/wiki/宮崎剛_\(野球\) "wikilink")[今西錬太郎](https://ja.wikipedia.org/wiki/今西錬太郎 "wikilink")らを補強してスタートしたものの、投手力の弱さはいかんともしがたく、リーグ参戦1年目は5位に終わり、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")は6位、[1952年](../Page/1952年.md "wikilink")は4位と伸び悩んだ。
+
+1951年、不採算から経営悪化した[広島カープ](https://ja.wikipedia.org/wiki/広島カープ "wikilink")を吸収合併することも検討されたが、広島球団関係者や地元市民らの必死の存続運動もあって広島との合併の話は立ち消えになった。1952年、9月7日の対松竹ロビンス戦（[京都市西京極総合運動公園野球場](https://ja.wikipedia.org/wiki/京都市西京極総合運動公園野球場 "wikilink")）は、当時のセ・リーグ最長イニング記録である延長20回を戦い抜いたが、チームはサヨナラ負けを喫した。同年度から[保護地域（フランチャイズ）制度が正式導入となり](https://ja.wikipedia.org/wiki/プロ野球地域保護権 "wikilink")、山口県を保護地域と定めるも、下関での主催は18試合（年間ホームゲームは60試合）に留まり、残りの試合は[徳山市](https://ja.wikipedia.org/wiki/徳山市 "wikilink")毛利球場、[防府市](https://ja.wikipedia.org/wiki/防府市 "wikilink")市設野球場の他、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")・[佐賀県](../Page/佐賀県.md "wikilink")など北部九州エリアでも開催した事例がある\[8\]。
+
+### 大阪時代（ロビンス時代）
+
+  - [1953年](https://ja.wikipedia.org/wiki/1953年の大洋松竹ロビンス "wikilink")、[1954年](https://ja.wikipedia.org/wiki/1954年の洋松ロビンス "wikilink")
+
+1953年[1月10日](../Page/1月10日.md "wikilink")、「シーズン勝率3割未満の球団に対して処罰をおこなう」という前年の取り決め\[9\] の該当球団となった[松竹ロビンス](https://ja.wikipedia.org/wiki/松竹ロビンス "wikilink")\[10\] と対等合併に合意、セ・リーグは6球団体制となる。**大洋松竹ロビンス**（たいようしょうちくロビンス）に改称し、翌1954年には通称名の洋松が入る**洋松ロビンス**（ようしょうロビンス）に改称した。
+
+1953年シーズンは球団の合併・統合が決まりながらも運営会社の完全合併が間に合わず、フランチャイズも大洋球団の下関市と松竹球団の[京都市](../Page/京都市.md "wikilink")で並立。球団運営も2社で1つの球団を運営すると言う変則的な形となり、選手の給与もそれぞれの前所属球団から支給された。主催試合は興行面の利点から[大阪スタヂアム](https://ja.wikipedia.org/wiki/大阪スタヂアム "wikilink")で行われた。1年目のシーズン終了後（[12月16日](../Page/12月16日.md "wikilink")）に球団運営会社が[新設合併で正式統合され](https://ja.wikipedia.org/wiki/合併_\(企業\) "wikilink")（当時の会社名は株式会社大洋松竹球団）、球団事務所も大阪スタヂアム内に置かれた。
+
+大阪時代の球団成績は1953年は5位。翌1954年は32勝96敗2分で最下位となり、優勝した[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")とは55ゲーム離され、5位の[国鉄スワローズに](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")23ゲームの大差を付けられる大惨敗であった。
+
+### 川崎時代（新・大洋ホエールズ時代）
+
+  - 1954年
+
+[12月11日](../Page/12月11日.md "wikilink")限りで[松竹](https://ja.wikipedia.org/wiki/松竹 "wikilink")は球団経営から撤退し、[中部謙吉](https://ja.wikipedia.org/wiki/中部謙吉 "wikilink")がオーナーとなる。球団名を**大洋ホエールズ**に戻し、[保護地域を](https://ja.wikipedia.org/wiki/プロ野球地域保護権 "wikilink")[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")へ移転した。
+
+  - [1955年](https://ja.wikipedia.org/wiki/1955年の大洋ホエールズ "wikilink")
+
+[川崎市](../Page/川崎市.md "wikilink")の[川崎球場](https://ja.wikipedia.org/wiki/川崎球場 "wikilink")を本拠とする新生ホエールズとして再スタートしたが、成績は31勝99敗。首位・巨人と61.5ゲーム差も離され、5位・国鉄にも大差をつけられての最下位。
+
+  - [1956年](https://ja.wikipedia.org/wiki/1956年の大洋ホエールズ "wikilink")
+
+[明治大学](https://ja.wikipedia.org/wiki/明治大学 "wikilink")から[秋山登](https://ja.wikipedia.org/wiki/秋山登 "wikilink")、[土井淳](https://ja.wikipedia.org/wiki/土井淳 "wikilink")、[岩岡保宏](https://ja.wikipedia.org/wiki/岩岡保宏 "wikilink")、[黒木弘重](https://ja.wikipedia.org/wiki/黒木弘重 "wikilink")、[沖山光利](https://ja.wikipedia.org/wiki/沖山光利 "wikilink")の5名が入団。同一校の選手が同一球団へ同時に5人も入団するのは極めて珍しく、彼らは「**明大五人衆**」と呼ばれて注目を集めた。エース・秋山登が毎年の酷使に耐え抜き、巨人から移籍した[青田昇](https://ja.wikipedia.org/wiki/青田昇 "wikilink")が三度の[本塁打王を獲得](https://ja.wikipedia.org/wiki/最多本塁打_\(日本プロ野球\) "wikilink")。
+
+  - [1959年](https://ja.wikipedia.org/wiki/1959年の大洋ホエールズ "wikilink")
+
+ロビンス時代の1954年から6年連続最下位。
+
+  - [1960年](https://ja.wikipedia.org/wiki/1960年の大洋ホエールズ "wikilink")
+
+前年まで[西鉄ライオンズの監督だった](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")[三原脩](https://ja.wikipedia.org/wiki/三原脩 "wikilink")を招聘。三原は新人の[近藤昭仁](https://ja.wikipedia.org/wiki/近藤昭仁 "wikilink")と、シーズン中に[近鉄バファローから獲得した](../Page/大阪近鉄バファローズ.md "wikilink")[鈴木武](https://ja.wikipedia.org/wiki/鈴木武 "wikilink")で二遊間を固め、秋山や[島田源太郎](https://ja.wikipedia.org/wiki/島田源太郎 "wikilink")を中心とした投手力を前面に押し出して[水原茂](https://ja.wikipedia.org/wiki/水原茂 "wikilink")監督率いる巨人と優勝争いを演じ、前年最下位からのリーグ優勝を果たす。[日本シリーズでも](https://ja.wikipedia.org/wiki/1960年の日本シリーズ "wikilink")[毎日大映（大毎）オリオンズ相手に全て](../Page/千葉ロッテマリーンズ.md "wikilink")1点差勝利で4連勝。日本一に輝いた。
+
+  - [1962年](https://ja.wikipedia.org/wiki/1962年の大洋ホエールズ "wikilink")-[1964年](https://ja.wikipedia.org/wiki/1964年の大洋ホエールズ "wikilink")
+
+1962年・1964年も阪神と激しく優勝を争うもあと一歩及ばず、1963年は、最下位・広島と1ゲーム差の5位。
+
+  - [1965年](https://ja.wikipedia.org/wiki/1965年の大洋ホエールズ "wikilink")-[1972年](https://ja.wikipedia.org/wiki/1972年の大洋ホエールズ "wikilink")
+
+1965年以降チームの勝率は1969年から1971年の3年間を除いて本拠地移転まで5割を超えなかった。三原は1967年に監督を退任。 1965年から1973年にかけての巨人の[9連覇中](https://ja.wikipedia.org/wiki/V9_\(読売ジャイアンツ\) "wikilink")、大洋は強力打線で巨人の投手陣を粉砕するものの、貧弱な投手陣が同様に打ち込まれ、大味な打撃合戦に発展することが多かった。当時の巨人に打ち合いで勝てるチームの筆頭は大洋で、それも両翼89メートル、中堅118メートルという本拠地・川崎球場の狭さも少なからず関係していた。
+
+  - [1973年](https://ja.wikipedia.org/wiki/1973年の大洋ホエールズ "wikilink")
+
+開幕から6月頃までは混戦のセ・リーグで広島とともに首位争いの主導権を握っていた。ところが7月頃から徐々に低迷、結果的に巨人のV9を許し、優勝争いに最後まで加われなかったヤクルトにも抜かれて前年と同じく5位に終わった。[青田昇](https://ja.wikipedia.org/wiki/青田昇 "wikilink")が成績不振の責任をとって監督辞任。
+
+  - [1974年](https://ja.wikipedia.org/wiki/1974年の大洋ホエールズ "wikilink")
+
+チームは3年連続5位。[松原誠](https://ja.wikipedia.org/wiki/松原誠 "wikilink")が初めて打率3割をマーク、最多安打を獲得。
+
+  - [1975年](https://ja.wikipedia.org/wiki/1975年の大洋ホエールズ "wikilink")
+
+4年連続5位に終わる。
+
+  - [1976年](https://ja.wikipedia.org/wiki/1976年の大洋ホエールズ "wikilink")
+
+15年ぶり最下位。川崎から[横浜への移転計画を画策していた大洋球団は](https://ja.wikipedia.org/wiki/横浜市 "wikilink")、横浜での新球場建設の資金を捻出するため[飛鳥田一雄](https://ja.wikipedia.org/wiki/飛鳥田一雄 "wikilink")横浜市長の斡旋で[国土計画](https://ja.wikipedia.org/wiki/コクド "wikilink")（現[プリンスホテル](https://ja.wikipedia.org/wiki/プリンスホテル "wikilink")）の出資を受け入れる。これにより、大洋球団の[株式](../Page/株式.md "wikilink")保有率は、大洋漁業55%、国土計画45%となる。
+
+  - [1977年](https://ja.wikipedia.org/wiki/1977年の大洋ホエールズ "wikilink")
+
+2年連続最下位。オーナーだった中部謙吉が1月に死去。親会社の大洋漁業は長男の[中部藤次郎](https://ja.wikipedia.org/wiki/中部藤次郎 "wikilink")が、大洋球団オーナーは三男の[中部新次郎](https://ja.wikipedia.org/wiki/中部新次郎 "wikilink")がそれぞれ継承した。松原や[米田慶三郎](https://ja.wikipedia.org/wiki/米田慶三郎 "wikilink")といった守備の名手に加え、[クリート・ボイヤー](https://ja.wikipedia.org/wiki/クリート・ボイヤー "wikilink")、[ジョン・シピン](https://ja.wikipedia.org/wiki/ジョン・シピン "wikilink")、[フェリックス・ミヤーン](https://ja.wikipedia.org/wiki/フェリックス・ミヤーン "wikilink")ら好守備を誇る外国人選手の活躍もあり、1970年代の大洋内野陣は堅守を誇った。1980年代に入っても[山下大輔](https://ja.wikipedia.org/wiki/山下大輔 "wikilink")、[基満男](https://ja.wikipedia.org/wiki/基満男 "wikilink")、[高木豊](https://ja.wikipedia.org/wiki/高木豊 "wikilink")に受け継がれた。
+
+### 横浜時代
+
+#### 横浜大洋ホエールズ時代
+
+##### 別当監督時代
+
+  - [1978年](https://ja.wikipedia.org/wiki/1978年の横浜大洋ホエールズ "wikilink")
+
+国土計画の主導で横浜市[中区](https://ja.wikipedia.org/wiki/中区_\(横浜市\) "wikilink")に建設した[横浜スタジアム](https://ja.wikipedia.org/wiki/横浜スタジアム "wikilink")に移転\[11\]、都市名を入れた**横浜大洋ホエールズ（よこはまたいようホエールズ）**に改称。横浜の小学生が入り易いファンクラブの設置\[12\] など営業体制の改革を伴った改変によりファンが増加した。この年、国土計画が[福岡野球](https://ja.wikipedia.org/wiki/福岡野球 "wikilink")株式会社（[クラウンライターライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")）を買収したため、[野球協約に抵触することとなり](https://ja.wikipedia.org/wiki/日本プロフェッショナル野球協約 "wikilink")、同社が持つ大洋球団の株式は[ニッポン放送](https://ja.wikipedia.org/wiki/ニッポン放送 "wikilink")と[東京放送へ](https://ja.wikipedia.org/wiki/東京放送ホールディングス "wikilink")2:1の割合で売却された。これより先2002年初めまで、球団株式保有率は大洋漁業（のちにマルハ）55%、ニッポン放送30%、TBS15%となった。
+
+序盤は巨人と、6月からはヤクルトも交えた三つ巴の首位争いを展開する。移転初年度の年は4位に終わるが、7年ぶりに勝ち越し、観客動員は143万7千人となり、球団史上初めて100万人を突破している。
+
+  - [1979年](https://ja.wikipedia.org/wiki/1979年の横浜大洋ホエールズ "wikilink")
+
+8年ぶりAクラスの2位に躍進。この年をもって別当は監督を退任。翌年、大洋球団の常務取締役・球団代表に就任した。
+
+##### 土井監督時代
+
+  - [1980年](https://ja.wikipedia.org/wiki/1980年の横浜大洋ホエールズ "wikilink")
+
+[土井淳](https://ja.wikipedia.org/wiki/土井淳 "wikilink")が監督就任。初年度は4位。この年の[ドラフト会議では地元](https://ja.wikipedia.org/wiki/1980年度新人選手選択会議_\(日本プロ野球\) "wikilink")[東海大学の](https://ja.wikipedia.org/wiki/東海大学硬式野球部 "wikilink")[原辰徳](https://ja.wikipedia.org/wiki/原辰徳 "wikilink")を1位指名したが交渉権を獲得できなかった。
+
+  - [1981年](https://ja.wikipedia.org/wiki/1981年の横浜大洋ホエールズ "wikilink")
+
+キャンプでは野球用具が盗難に遭ってしまう。 開幕の広島戦が雨で2試合とも流れたため、開幕はホームでの巨人戦となったが、その巨人に8連敗。5月下旬に最下位に低迷し、6月に[山下大輔](https://ja.wikipedia.org/wiki/山下大輔 "wikilink")が月間MVPを受賞して成績を勝ち越し、復調するかに見えたが、7月以降は連敗を繰り返して最下位脱出に至らず、土井はシーズン中の9月24日をもって休養。優勝した巨人から31.5ゲーム差、5位・中日にも15.5ゲーム差も離された最下位に終わる。
+
+##### 関根監督時代
+
+  - [1982年](https://ja.wikipedia.org/wiki/1982年の横浜大洋ホエールズ "wikilink")
+
+[長嶋茂雄](https://ja.wikipedia.org/wiki/長嶋茂雄 "wikilink")を監督に招聘する布石として長嶋と親交のある[関根潤三](https://ja.wikipedia.org/wiki/関根潤三 "wikilink")を監督に迎えたが、長嶋の招聘には失敗した。また、ジュニアと呼ばれた[関根浩史](https://ja.wikipedia.org/wiki/関根浩史 "wikilink")入団について[日産野球部との交渉が破談した](https://ja.wikipedia.org/wiki/日産自動車硬式野球部 "wikilink")。この年は5位に終わる。
+
+  - [1983年](https://ja.wikipedia.org/wiki/1983年の横浜大洋ホエールズ "wikilink")
+
+4月は最下位で折り返すが、その後、次第に浮上していき、3位と4年ぶりのAクラスになる。
+
+  - [1984年](https://ja.wikipedia.org/wiki/1984年の横浜大洋ホエールズ "wikilink")
+
+最下位に転落。この年限りで[平松政次](https://ja.wikipedia.org/wiki/平松政次 "wikilink")が引退。同年限りで関根は辞任。
+
+##### 近藤貞雄監督時代
+
+  - [1985年](https://ja.wikipedia.org/wiki/1985年の横浜大洋ホエールズ "wikilink")
+
+[近藤貞雄](https://ja.wikipedia.org/wiki/近藤貞雄 "wikilink")が監督に就任。[高木豊](https://ja.wikipedia.org/wiki/高木豊 "wikilink")、[加藤博一](https://ja.wikipedia.org/wiki/加藤博一 "wikilink")、[屋鋪要](https://ja.wikipedia.org/wiki/屋鋪要 "wikilink")の**[スーパーカートリオ](https://ja.wikipedia.org/wiki/スーパーカートリオ "wikilink")**を売り出し注目された。しかし、[遠藤一彦](https://ja.wikipedia.org/wiki/遠藤一彦 "wikilink")、[斉藤明夫頼みの投手陣は改善されず](https://ja.wikipedia.org/wiki/斉藤明雄 "wikilink")、チーム成績は振るわず4位。
+
+  - [1986年](https://ja.wikipedia.org/wiki/1986年の横浜大洋ホエールズ "wikilink")
+
+年明けに[レオン・リー](https://ja.wikipedia.org/wiki/レオン・リー "wikilink")を解雇、[カルロス・ポンセ](https://ja.wikipedia.org/wiki/カルロス・ポンセ "wikilink")と[ダグ・ローマン](https://ja.wikipedia.org/wiki/ダグ・ローマン "wikilink")を獲得。ポンセ、ローマンは活躍し、日本ハムから移籍の[木田勇](https://ja.wikipedia.org/wiki/木田勇 "wikilink")、近藤の若手起用もあったが、加藤、[田代富雄](https://ja.wikipedia.org/wiki/田代富雄 "wikilink")の離脱で薄さを露呈し\[13\]、4位に終わり、近藤は2年で監督を退任。
+
+##### 古葉監督時代
+
+  - [1987年](https://ja.wikipedia.org/wiki/1987年の横浜大洋ホエールズ "wikilink") - [1989年](https://ja.wikipedia.org/wiki/1989年の横浜大洋ホエールズ "wikilink")
+
+広島を4度の優勝に導いた[古葉竹識](https://ja.wikipedia.org/wiki/古葉竹識 "wikilink")を監督に迎えるが、5位、4位、最下位と3年間で1度もAクラス入り出来ないなど成績は振るわず、1989年にシーズン5年ぶりの最下位の責任をとり監督を辞任した。古葉は5年契約ながら3年目で辞めたことについて、成績不振と開幕から低迷したことで、スポーツ紙等で進退問題に関する記事が出て、球団からの辞任勧告につながったのだろうと述べている\[14\]。しかしこの間、の優勝時の主力選手を多数獲得するなど、スカウティングの面では成功したといえる。古葉の後任監督にはOBでは元監督の土井淳、[山下大輔](https://ja.wikipedia.org/wiki/山下大輔 "wikilink")、外部招聘では[高田繁](https://ja.wikipedia.org/wiki/高田繁 "wikilink")の名が挙がっていたが大洋で2年間二軍監督の経験のある[須藤豊](https://ja.wikipedia.org/wiki/須藤豊 "wikilink")が監督に就任し、投手コーチには[小谷正勝](https://ja.wikipedia.org/wiki/小谷正勝 "wikilink")が3年ぶりに復活した\[15\]。
+
+##### 須藤・江尻監督時代
+
+  - [1990年](https://ja.wikipedia.org/wiki/1990年の横浜大洋ホエールズ "wikilink")
+
+序盤は巨人との熾烈な首位争いを見せた。その後、失速し、最後は広島にも抜かれて3位に終わるも、9年ぶりに中日に勝ち越して7年ぶりのAクラスを果たす。
+
+  - [1991年](https://ja.wikipedia.org/wiki/1991年の横浜大洋ホエールズ "wikilink")
+
+4月は首位に立つもその後失速し、5位転落。同年オフの12月25日には前年から2年連続で開幕投手を務めていた主力投手・[中山裕章](https://ja.wikipedia.org/wiki/中山裕章 "wikilink")が横浜市内で女児への連続強制わいせつ事件を起こしたとして[神奈川県警察](https://ja.wikipedia.org/wiki/神奈川県警察 "wikilink")（[捜査一課](https://ja.wikipedia.org/wiki/刑事部 "wikilink")・[金沢警察署](https://ja.wikipedia.org/wiki/金沢警察署 "wikilink")）に[強制わいせつ](https://ja.wikipedia.org/wiki/強制わいせつ罪 "wikilink")・[公然わいせつ容疑で逮捕され](https://ja.wikipedia.org/wiki/公然わいせつ罪 "wikilink")\[16\]、年明け後の1992年1月7日に球団を解雇された\[17\]。またこの事件に伴い[川島廣守](https://ja.wikipedia.org/wiki/川島廣守 "wikilink")セ・リーグ会長はNPB全12球団に対し「中山の更生が確認されるまで無期限に選手契約を自粛することを要望する」と声明を出したが\[18\]、この声明は2年後（1993年12月）に撤回され、中山は[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")で球界復帰を果たした\[19\]。
+
+  - [1992年](https://ja.wikipedia.org/wiki/1992年の横浜大洋ホエールズ "wikilink")
+
+前述の事件で中山を欠いた状態で開幕を迎えたチームは低迷し5月に須藤監督が休養・辞任し、ヘッドコーチの[江尻亮](https://ja.wikipedia.org/wiki/江尻亮 "wikilink")が監督代行。のちに監督昇格し、閉幕まで采配を振る。[盛田幸妃](https://ja.wikipedia.org/wiki/盛田幸妃 "wikilink")と[佐々木主浩](https://ja.wikipedia.org/wiki/佐々木主浩 "wikilink")のダブルストッパーが確立されチームも復調し混戦だったリーグ戦で7年ぶりに広島に勝ち越し、優勝したヤクルトにも勝ち越す健闘を見せたが5位に終わり江尻の来シーズンの契約更新はなかった。
+
+[1993年の](https://ja.wikipedia.org/wiki/1993年の横浜ベイスターズ "wikilink")[4月1日](../Page/4月1日.md "wikilink")、親会社の大洋漁業が[コーポレートアイデンティティ](https://ja.wikipedia.org/wiki/コーポレートアイデンティティ "wikilink")実施によりマルハに改称することに伴い、ホエールズも地域に密着した市民球団を目指し、球団名を**横浜ベイスターズ**（横浜ベイスターズ）に改称した。翌年4月に会社名も従来の株式会社大洋球団から株式会社横浜ベイスターズに変更。球団名から企業名「大洋」を外し、都市名の「横浜」のみを冠するという方針は[CI導入決定時に決まっていたが](https://ja.wikipedia.org/wiki/コーポレートアイデンティティ "wikilink")、改称後の球団名は社内外では当初、愛称をそのまま使った「横浜ホエールズ」になるという憶測があった。しかし、中部慶次郎オーナーは、かつて大洋漁業の主力事業だった[商業捕鯨の規制が強まっていることを指摘し](https://ja.wikipedia.org/wiki/捕鯨 "wikilink")「ウチの会社はもうこれ以上、クジラばかりに頼るわけにはいかなくなった。だから愛称も変更しなければならない」と、社内に新愛称を検討するよう指示。その結果、愛称は「[横浜ベイブリッジ](https://ja.wikipedia.org/wiki/横浜ベイブリッジ "wikilink")」から取った**ベイスターズ**となった。また、ベイスターズの選手がマルハのCMには一切出演しないことが確約された\[20\]。
+
+#### 横浜ベイスターズ時代
+
+##### 近藤昭仁監督時代
+
+  - 1993年
+
+チーム生え抜きの[近藤昭仁](https://ja.wikipedia.org/wiki/近藤昭仁 "wikilink")が監督に就任。球団名変更に伴い、ユニホーム・[球団旗](https://ja.wikipedia.org/wiki/球団旗 "wikilink")・[ペットマーク](https://ja.wikipedia.org/wiki/ペットマーク "wikilink")・マスコットキャラクターを一新。ベイスターズ初年度は5位に終わるが巨人には8年ぶりに勝ち越した。この年限りで斉藤明夫が引退。この年のオフから始まった[フリーエージェント制度により](https://ja.wikipedia.org/wiki/フリーエージェント_\(日本プロ野球\) "wikilink")、シーズン終了後に巨人の[駒田徳広](https://ja.wikipedia.org/wiki/駒田徳広 "wikilink")を獲得。長年チームを支えた[高木豊](https://ja.wikipedia.org/wiki/高木豊 "wikilink")や[屋鋪要](https://ja.wikipedia.org/wiki/屋鋪要 "wikilink")、[山崎賢一](https://ja.wikipedia.org/wiki/山崎賢一 "wikilink")、[市川和正](https://ja.wikipedia.org/wiki/市川和正 "wikilink")ら主力選手が大量解雇された。
+
+  - [1994年](https://ja.wikipedia.org/wiki/1994年の横浜ベイスターズ "wikilink")
+
+獲得した駒田の他、[佐伯貴弘](https://ja.wikipedia.org/wiki/佐伯貴弘 "wikilink")や[波留敏夫](https://ja.wikipedia.org/wiki/波留敏夫 "wikilink")などを起用してチームの若返りを図るが、混戦のシーズンの中、結果的に5年ぶりの最下位に終わるが優勝した巨人に唯一勝ち越した。
+
+  - [1995年](https://ja.wikipedia.org/wiki/1995年の横浜ベイスターズ "wikilink")
+
+結果的に4位に終わるも5年ぶりに中日に勝ち越して12年ぶりのシーズン勝率5割台を果たす。のちに[首位打者となる](https://ja.wikipedia.org/wiki/首位打者_\(日本プロ野球\) "wikilink")[鈴木尚典](https://ja.wikipedia.org/wiki/鈴木尚典 "wikilink")が3番レフトに定着するなど若手が台頭した。この年限りで任期満了により退任となった。
+
+##### 第1次大矢監督時代
+
+  - [1996年](https://ja.wikipedia.org/wiki/1996年の横浜ベイスターズ "wikilink")
+
+バッテリーコーチの[大矢明彦](https://ja.wikipedia.org/wiki/大矢明彦 "wikilink")が監督に就任。4月を首位で折り返し、**「セ・リーグの台風の目」**と評されながらも5月以降失速し、全球団に負け越して5位に終わる。
+
+  - [1997年](https://ja.wikipedia.org/wiki/1997年の横浜ベイスターズ "wikilink")
+
+[権藤博](https://ja.wikipedia.org/wiki/権藤博 "wikilink")を一軍バッテリーチーフコーチに迎える。シーズン序盤は下位に低迷していたが、選手の実績より好調を優先した起用をし始めるとチームは浮上しシーズン後半に首位のヤクルトを脅かす急追を見せたもののあと一歩及ばず、広島に5年ぶりに勝ち越しながらも巨人と阪神に負け越して2位で終わったが7年ぶりのAクラス入りを果たし貯金持ちでのAクラスは1979年以来であった。大矢は2年契約を終えてオフに監督を辞任。
+
+##### 権藤監督時代
+
+  - [1998年](https://ja.wikipedia.org/wiki/1998年の横浜ベイスターズ "wikilink")
+
+権藤が監督に昇格。抑えの[佐々木主浩](https://ja.wikipedia.org/wiki/佐々木主浩 "wikilink")を不動の中心とする投手陣と一度打ち始めると止まらない**「[マシンガン打線](https://ja.wikipedia.org/wiki/マシンガン打線 "wikilink")」**がかみ合い、阪神に5年ぶりに勝ち越して[10月8日](../Page/10月8日.md "wikilink")の対阪神戦(阪神甲子園球場)に勝利し38年ぶりのリーグ優勝\[21\] を果たした\[22\]。[日本シリーズでは](https://ja.wikipedia.org/wiki/1998年の日本シリーズ "wikilink")[西武ライオンズと対戦した](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")。下馬評は西武有利と予想されたが\[23\]、4勝2敗で日本一となる。ベストナインに6選手、ゴールデングラブ賞に5人が選出される。また前年怪我のため一軍登板がなかった[斎藤隆が復活を果たし](https://ja.wikipedia.org/wiki/斎藤隆_\(野球\) "wikilink")[カムバック賞](https://ja.wikipedia.org/wiki/カムバック賞_\(日本プロ野球\) "wikilink") を獲得。シーズンオフにはドラフトで、この年の目玉選手・地元[横浜高校の](https://ja.wikipedia.org/wiki/横浜中学校・高等学校 "wikilink")[松坂大輔](https://ja.wikipedia.org/wiki/松坂大輔 "wikilink")を1位指名したが獲得できなかった。
+
+  - [1999年](https://ja.wikipedia.org/wiki/1999年の横浜ベイスターズ "wikilink")
+
+[ローズが](https://ja.wikipedia.org/wiki/ロバート・ローズ "wikilink")153打点を記録し二冠王に輝く活躍を見せるなどこの年もマシンガン打線が絶好調で、チームはシーズン通算打率.294と当時のチーム打率の日本記録\[24\] を更新する。しかし投手陣は[川村丈夫](https://ja.wikipedia.org/wiki/川村丈夫 "wikilink")が17勝\[25\] を挙げる活躍するものの、[三浦大輔](https://ja.wikipedia.org/wiki/三浦大輔 "wikilink")の不調や[野村弘樹](https://ja.wikipedia.org/wiki/野村弘樹 "wikilink")、佐々木主浩の故障などで頭数がそろわず、3位に終わる。オフには、佐々木が大リーグ・[シアトル・マリナーズ](https://ja.wikipedia.org/wiki/シアトル・マリナーズ "wikilink")に移籍。
+
+  - [2000年](https://ja.wikipedia.org/wiki/2000年の横浜ベイスターズ "wikilink")
+
+ロッテから[小宮山悟](https://ja.wikipedia.org/wiki/小宮山悟 "wikilink")が入団。[金城龍彦](https://ja.wikipedia.org/wiki/金城龍彦 "wikilink")が[新人王と首位打者の二冠に輝くものの](https://ja.wikipedia.org/wiki/最優秀新人_\(日本プロ野球\) "wikilink")、投打共に不調や故障者等で優勝争いには届かず2年連続の3位。オフに権藤が監督を勇退。主力打者のローズ、駒田も退団。この年よりファーム組織を**湘南シーレックス**と改称し、独立採算を目指した活動を開始する。
+
+##### 森監督時代
+
+  - [2001年](https://ja.wikipedia.org/wiki/2001年の横浜ベイスターズ "wikilink")
+
+西武を8度のリーグ優勝に導いた[森祇晶](https://ja.wikipedia.org/wiki/森祇晶 "wikilink")が監督に就任。この年のみ順位決定方式が異なり、5年連続のAクラス（3位）となった（この年の順位に関しては[後述](https://ja.wikipedia.org/wiki/#2001年と2005年の順位 "wikilink")）。シーズンオフには、正捕手の[谷繁元信](https://ja.wikipedia.org/wiki/谷繁元信 "wikilink")が、森との確執もあり、\[26\][FA権を行使して中日に移籍した](https://ja.wikipedia.org/wiki/フリーエージェント_\(日本プロ野球\) "wikilink")。また、チーム最多勝投手の小宮山もメジャーリーグに挑戦するために退団した。
+
+  - [2002年](https://ja.wikipedia.org/wiki/2002年の横浜ベイスターズ "wikilink")
+
+[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に親会社（筆頭株主）がマルハから[ニッポン放送](https://ja.wikipedia.org/wiki/ニッポン放送 "wikilink")に変更される予定だった。しかし、そのニッポン放送の当時の関連会社だった[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（現・[フジ・メディア・ホールディングス](https://ja.wikipedia.org/wiki/フジ・メディア・ホールディングス "wikilink")）が[ヤクルト球団株を](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")20%強保有していたため、一転して[東京放送](https://ja.wikipedia.org/wiki/東京放送ホールディングス "wikilink")\[27\]への移行がプロ野球オーナー会議で承認された。球団オーナーは当時の東京放送社長[砂原幸雄](https://ja.wikipedia.org/wiki/砂原幸雄 "wikilink")となった（詳細は[マルハから東京放送への筆頭株主交代の節を参照](https://ja.wikipedia.org/wiki/#マルハから東京放送への筆頭株主交代 "wikilink")）\[28\]。これに際し、1978年以降ニッポン放送が独占中継権を押さえていたために喪失していた、[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ "wikilink")の中継権が復活。横浜スタジアムからの[ナイター中継の他](https://ja.wikipedia.org/wiki/TBSラジオ_エキサイトベースボール "wikilink")、巨人戦以外の週末のデーゲームを「THEベースボール・ベイスターズ」と題して放送を開始した。この年を境に、フジテレビ系列での横浜スタジアムの野球中継は年々減少していった。
+
+チームは開幕から記録的な低迷を続け\[29\]、9月25日に森がシーズン終了を待たずして休養を余儀なくされる。このシーズンでの最終勝率は.363だった。投手コーチには[森繁和](https://ja.wikipedia.org/wiki/森繁和 "wikilink")、内野守備走塁コーチには[辻発彦](https://ja.wikipedia.org/wiki/辻発彦 "wikilink")と森の西武時代の教え子が就任したが、チーム防御率は3.75から4.09で、チーム防御率はセリーグ中で5位だった。チーム失策も68から81に悪化した。チーム打率、得点、安打、本塁打はリーグ最下位に終わり、投手・打撃・守備すべてにおいて低迷した。3年契約の2年目だったが、この年限りで事実上の解任となる。 2つあった[応援団](https://ja.wikipedia.org/wiki/応援団 "wikilink")が統合し、[全国星覇会が発足](https://ja.wikipedia.org/wiki/横浜DeNAベイスターズの応援団#全国星覇会 "wikilink")。
+
+##### 山下監督時代
+
+  - [2003年](https://ja.wikipedia.org/wiki/2003年の横浜ベイスターズ "wikilink")
+
+チーム生え抜きの[山下大輔](https://ja.wikipedia.org/wiki/山下大輔 "wikilink")が監督に就任。現役メジャーリーガーの[スティーブ・コックス](https://ja.wikipedia.org/wiki/スティーブ・コックス "wikilink")を移籍金100万ドル、年俸275万ドルの3年契約で、ダイエーから[若田部健一](https://ja.wikipedia.org/wiki/若田部健一 "wikilink")をFAで獲得するなど大型補強を試みるが、コックスらは怪我などで戦力にならず、若手重視、攻撃重視の采配もことごとく空回りする。新外国人の[タイロン・ウッズ](https://ja.wikipedia.org/wiki/タイロン・ウッズ "wikilink")や新人の[村田修一](https://ja.wikipedia.org/wiki/村田修一 "wikilink")、若手の[多村仁ら野手陣の活躍はあったものの](https://ja.wikipedia.org/wiki/多村仁志 "wikilink")、勝率も前年を下回る.324を記録。5位・広島からも22.5ゲーム以上離され（2003年シーズン優勝・阪神と5位・広島のゲーム差は20）、優勝した阪神には開幕戦で白星後は16連敗を喫するなど大きく苦しみ6勝22敗と大きく負け越した。45勝94敗1分という惨憺たる成績で、シーズン90敗到達は日本プロ野球では[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")のヤクルト以来実に33年ぶりだった。
+
+  - [2004年](https://ja.wikipedia.org/wiki/2004年の横浜ベイスターズ "wikilink")
+
+佐々木主浩が年俸6億5000万円の2年契約を結び5年ぶりにマリナーズからチームに復帰。打撃陣が好調で4月終了時点で首位に立つが、その後投手陣の不振により徐々に失速し、シーズン終了目前まで広島との5位争いを続けるが、最終戦に敗れて広島と勝率0.001（1厘）差という僅差で45年ぶりの3年連続最下位が確定した。一方で前年大きく負け越した阪神には15勝13敗で勝ち越し、3位の巨人には9月下旬の横浜スタジアムの3連戦で3連勝して14勝14敗のタイとなるなど一定の成績は残した。山下はこの年、監督を退任した。シーズンオフに[一場靖弘](https://ja.wikipedia.org/wiki/一場靖弘 "wikilink")への金銭授受の問題の責任をとってオーナーの砂原幸雄が辞任し、TBS副社長の[若林貴世志](https://ja.wikipedia.org/wiki/若林貴世志 "wikilink")が新オーナーに就任。
+
+##### 牛島監督時代
+
+  - [2005年](https://ja.wikipedia.org/wiki/2005年の横浜ベイスターズ "wikilink")
+
+[牛島和彦](https://ja.wikipedia.org/wiki/牛島和彦 "wikilink")が監督に就任。主砲のウッズが中日に移籍するも不調だった三浦をはじめ投手陣が復活し、4年ぶりのAクラスとなる3位に浮上した。また、巨人には[東京ドーム](https://ja.wikipedia.org/wiki/東京ドーム "wikilink")で同一カード3連勝を記録するなど一度も負け越しがなく16勝6敗と大きく勝ち越した。エグゼクティブ・アドバイザーとして牛島の友人である[石橋貴明](https://ja.wikipedia.org/wiki/石橋貴明 "wikilink")（[とんねるず](../Page/とんねるず.md "wikilink")）を抜擢、監督・選手とファンとのパイプ役を担わせるなど新しいファンサービスを試みた。
+
+  - [2006年](https://ja.wikipedia.org/wiki/2006年の横浜ベイスターズ "wikilink")
+
+投手陣や主力野手陣の相次ぐ不調・故障などで4、5月に低迷。6月以降は村田の4番打者定着や[吉村裕基](https://ja.wikipedia.org/wiki/吉村裕基 "wikilink")ら若手野手の台頭があったものの、最下位に終わる。球団側は続投を希望したものの、牛島は最下位の責任を取り、シーズン途中の[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")にこの年限りの監督退任を発表。[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")、スポーツ活動を通じて地域貢献を目指す[NPO法人](https://ja.wikipedia.org/wiki/特定非営利活動法人 "wikilink")[横浜ベイスターズ・スポーツコミュニティを](https://ja.wikipedia.org/wiki/ベイスターズ・ベースボールアカデミー "wikilink")、理事長を球団[OBの](https://ja.wikipedia.org/wiki/OB・OG "wikilink")[平松政次](https://ja.wikipedia.org/wiki/平松政次 "wikilink")として設立した。[7月1日](../Page/7月1日.md "wikilink")、子会社の株式会社ベイスターズソフトを[吸収合併する](https://ja.wikipedia.org/wiki/合併_\(企業\) "wikilink")。 [12月1日](../Page/12月1日.md "wikilink")、資本金を6億5000万円から1億円へ減資する。「チーム運営統括」という[ゼネラルマネージャー](https://ja.wikipedia.org/wiki/ゼネラルマネージャー "wikilink")的ポジションの幹部として[日産自動車硬式野球部](https://ja.wikipedia.org/wiki/日産自動車硬式野球部 "wikilink")で監督を務めた[村上忠則](https://ja.wikipedia.org/wiki/村上忠則 "wikilink")が就任。この年チーム唯一の2桁勝利の[門倉健](https://ja.wikipedia.org/wiki/門倉健 "wikilink")が年俸査定に不満を持ち、FA宣言をして巨人に移籍した。
+
+##### 第2次大矢監督時代
+
+  - [2007年](https://ja.wikipedia.org/wiki/2007年の横浜ベイスターズ "wikilink")
+
+大矢明彦が10年ぶりに監督に復帰。[ソフトバンクの若手投手](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")・[寺原隼人](https://ja.wikipedia.org/wiki/寺原隼人 "wikilink")を主砲・多村仁との大型トレードで獲得し、また巨人の正二塁手だった[仁志敏久](https://ja.wikipedia.org/wiki/仁志敏久 "wikilink")を1選手プラス金銭のトレードで獲得した。また、FA移籍した門倉の人的保障として[工藤公康](https://ja.wikipedia.org/wiki/工藤公康 "wikilink")が入団。移籍組やベテラン勢の活躍で、前半戦は一時首位に立つなど上位を猛追し3位で折り返す。最終戦に敗れシーズン勝ち越しを逃して4位に終わるが、1999年以来8年振りに70勝に到達し、村田修一が球団日本人選手としては[桑田武](https://ja.wikipedia.org/wiki/桑田武 "wikilink")以来31年ぶりの本塁打王と球団初の2年連続100打点を達成し、三浦大輔も35イニング連続無失点、寺原隼人も2試合連続完封を記録するなど主力選手の活躍が目立ち、翌年へ希望を持たせた。[1月15日](../Page/1月15日.md "wikilink")、[産業能率大学](https://ja.wikipedia.org/wiki/産業能率大学 "wikilink")と業務提携することになり、調印する。ファームの湘南シーレックスの取り組みを、スポーツビジネスの授業に取り入れていくことが決まった。
+
+  - [2008年](https://ja.wikipedia.org/wiki/2008年の横浜ベイスターズ "wikilink")
+
+開幕投手最有力で阪神キラーの三浦が出遅れ、開幕カードの阪神戦を3連敗すると3・4月に連勝なし、7月までに5連敗以上を4度記録し、4連敗を7月は2度、8月も1度記録し、9月14日から10月3日まで1つの引き分けと7連敗2度の15試合勝ちなしと低迷を続けた一方でスウィープ（同一カード3連勝）は8月の北京五輪と夏の甲子園期間中に京セラドーム大阪で行われた阪神との3連戦の1度だけで連勝は最も長くて3止まり。この年に飛躍し首位打者\[30\]と[最多安打を獲得した](https://ja.wikipedia.org/wiki/最多安打_\(日本プロ野球\) "wikilink")[内川聖一](https://ja.wikipedia.org/wiki/内川聖一 "wikilink")、本塁打王を獲得した村田、30本塁打を記録した吉村といったリーグ屈指の強力なクリーンアップを擁したが、四球を12球団ワーストの314個しか選べず、四球が少ない為チーム打率.2655の割には出塁率が低く、前年の日本シリーズを戦った中日と北海道日本ハムと並んで.316と12球団ワースト\[31\]。またセ・リーグで2番目に喫した広島の594失点から110点以上も離れて706失点、168被本塁打とセ・リーグどころか12球団断トツで少なかった阪神（85被本塁打）の倍近くホームランを打たれたのに加え、与四死球492（与四球がリーグ5位の412、与死球が12球団ワーストの80）はセ・リーグワースト止まりだったがチーム防御率4.74（先発防御率が5.09と12球団ワースト、救援防御率が4.25とセ・リーグワースト）に858奪三振と12球団ワーストを記録。セーブも在籍3年間で84セーブを挙げた[マーク・クルーン](https://ja.wikipedia.org/wiki/マーク・クルーン "wikilink")が巨人へ移籍した事で前年はリーグ4位の35セーブだったのが27セーブに減少とセ・リーグワースト。9回の失点も52とセ・リーグワーストを記録する等初回に102失点、4回100失点と序盤で失点を重ねて後手後手の展開を余儀なくされ、四死球で余計なランナーを出塁させては本塁打を浴び、尚且つ三振の奪えない投手陣がセ・リーグ又は12球団のワースト記録を量産し2年ぶりの最下位に沈み、2003年以来5年ぶりの90敗を記録した。シーズンオフには一軍ヘッド兼打撃コーチの[弘田澄男](https://ja.wikipedia.org/wiki/弘田澄男 "wikilink")、一軍投手コーチの[斉藤明雄](https://ja.wikipedia.org/wiki/斉藤明雄 "wikilink")など4コーチが解任され、[石井琢朗](https://ja.wikipedia.org/wiki/石井琢朗 "wikilink")、鈴木尚典ら、チームを長年支えてきたベテランが退団した。また、正捕手の[相川亮二](https://ja.wikipedia.org/wiki/相川亮二 "wikilink")がFA権を行使してヤクルトに移籍。
+
+  - [2009年](https://ja.wikipedia.org/wiki/2009年の横浜ベイスターズ "wikilink")
+
+[ワールド・ベースボール・クラシック](https://ja.wikipedia.org/wiki/ワールド・ベースボール・クラシック "wikilink")での村田の故障などによって、開幕6連敗を喫するなど序盤から低迷。[5月18日](../Page/5月18日.md "wikilink")に大矢監督の無期限休養（事実上の解任）が発表された。二軍監督の[田代富雄](https://ja.wikipedia.org/wiki/田代富雄 "wikilink")が翌日から監督代行を務めたが、チームを浮上させることができず93敗喫し、2年連続の最下位に終わる。前年同様一度も貯金はなく、田代は一軍の監督代行の職が解かれ、シーズン終了後に二軍監督に再任された。投手コーチの[杉本正は一年で解任された](https://ja.wikipedia.org/wiki/杉本正_\(野球\) "wikilink")。チーム防御率・失点\[32\]、打率・得点\[33\] はリーグ最下位に終わった。[11月11日](../Page/11月11日.md "wikilink")、後任監督としてこの年まで巨人の投手コーチを務めていた[尾花高夫](https://ja.wikipedia.org/wiki/尾花高夫 "wikilink")を迎え入れ、[横浜港](https://ja.wikipedia.org/wiki/横浜港 "wikilink")を周遊する「[マリーンルージュ](https://ja.wikipedia.org/wiki/マリーンルージュ "wikilink")」で就任記者会見を行った。
+
+##### 尾花監督時代
+
+  - [2010年](https://ja.wikipedia.org/wiki/2010年の横浜ベイスターズ "wikilink")
+
+ロッテのエース[清水直行](https://ja.wikipedia.org/wiki/清水直行 "wikilink")を複数人とのトレードで獲得し、同じくFA宣言をしたロッテの[橋本将](https://ja.wikipedia.org/wiki/橋本将 "wikilink")、日本ハムを自由契約となった[ターメル・スレッジ](https://ja.wikipedia.org/wiki/ターメル・スレッジ "wikilink")を獲得するなど大規模な補強を行った。当初の構想では、前年途中から抑えを務めた[山口俊](https://ja.wikipedia.org/wiki/山口俊 "wikilink")を先発に転向させ、新外国人投手の[クリス・ブーチェック](https://ja.wikipedia.org/wiki/クリス・ブーチェック "wikilink")を抑えに起用する予定だったが、ブーチェックは[オープン戦](https://ja.wikipedia.org/wiki/オープン戦 "wikilink")で成績を残せなかったことから、開幕直前に山口が抑えに再び戻った。また、[三浦大輔](https://ja.wikipedia.org/wiki/三浦大輔 "wikilink")が開幕前のオープン戦で大乱調だったことから急遽二軍落ちとなった。3月31日の巨人戦の勝利で順位を3位タイとし、同時に広島が単独最下位となったが、この横浜の「最下位からの脱出」は2008年4月5日以来284試合目（725日ぶり）であり、これまでの記録（楽天、2005年4月9日 - 2007年3月24日、262試合）を大幅に更新してのストップとなった。しかし、開幕当初の構想から外れた戦いを強いられたため、交流戦以降は低迷し、最下位に転落した。一度も浮上することもなく[9月7日](../Page/9月7日.md "wikilink")の対巨人戦の敗戦で5年連続のBクラスが確定し、[9月25日](../Page/9月25日.md "wikilink")の対中日戦の敗戦で3年連続の最下位が確定。[9月28日](../Page/9月28日.md "wikilink")の対ヤクルト戦で敗れてプロ野球史上初の3年連続90敗、[10月6日](../Page/10月6日.md "wikilink")の対阪神戦の敗戦で130試合制だった[1955年](../Page/1955年.md "wikilink")以来55年ぶりのシーズン95敗を喫した。前述の構想から外れた戦いを強いられたことや、エース三浦がシーズンでも成績を残すことができなかったことが要因である。一軍ヘッドコーチの[島田誠](https://ja.wikipedia.org/wiki/島田誠 "wikilink")が不振の責任を取り1年で辞任。オフに内川聖一がFAでソフトバンクに移籍した。8月、2010年シーズン終了をもって、二軍の「湘南シーレックス」の名称を一軍と同じ「横浜ベイスターズ」に戻すことがプロ野球実行委員会で承認された。
+
+[9月30日](../Page/9月30日.md "wikilink")、[東京放送ホールディングス](https://ja.wikipedia.org/wiki/東京放送ホールディングス "wikilink")が保有している横浜ベイスターズの株式を住生活グループ（現・[LIXILグループ](https://ja.wikipedia.org/wiki/LIXILグループ "wikilink")）との間で売却交渉を進めている旨がメディアで報じられ\[34\]、10月5日になって住生活グループ幹部がTBSHDとの交渉の事実を認めた。球団も10月4日に若林オーナー（東京放送副社長）が交渉に関し“大筋で合意しており10月中に正式決定”とコメントしていた\[35\] が、実際の交渉は難航。結局10月下旬、東京放送ホールディングスは住生活グループとの交渉を打ち切り\[36\]、同月27日TBSHDが2011年度も球団を保有することを発表するに至った\[37\]。交渉決裂の理由としてはTBSHDおよび住生活グループそれぞれが「条件面での不一致」としている\[38\] ものの、同月28日加地隆雄球団社長は、秋季練習中の選手らへの事情説明に際して「一番大きな問題はフランチャイズ。横浜から出て、[新潟](https://ja.wikipedia.org/wiki/新潟県立野球場 "wikilink")、[草薙](https://ja.wikipedia.org/wiki/静岡県草薙総合運動場硬式野球場 "wikilink")（[静岡](https://ja.wikipedia.org/wiki/静岡市 "wikilink")）、[京都と違うところでやりたいと](https://ja.wikipedia.org/wiki/京都市西京極総合運動公園野球場 "wikilink")（住生活側は）主張し続けていた」と明らかにした\[39\]。また同日潮田洋一郎住生活グループ会長も「それを含めていろいろあった。（球団運営など）すべてをゼロからやりたかったが、ゼロからできなかった」と理由を述べた\[40\]。
+
+  - [2011年](https://ja.wikipedia.org/wiki/2011年の横浜ベイスターズ "wikilink")
+
+FAで日本ハムの[森本稀哲](https://ja.wikipedia.org/wiki/森本稀哲 "wikilink")を獲得。[3月11日](../Page/3月11日.md "wikilink")の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")発生時は横浜は横浜スタジアムで対ヤクルトオープン戦の試合中だったが、球場全体が揺れて試合は打ち切り、選手や観客がグラウンドに避難している\[41\]。当初[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")の公式戦開幕予定が、この震災の影響により[4月12日](../Page/4月12日.md "wikilink")に延期された。4年ぶりに本拠地での開幕となり、中日と対戦し3連戦を勝ち越し、2000年以来11年ぶりに開幕カードを勝ち越したが、5月以降低迷状態に陥り、交流戦ではロードで1勝（9敗2分）しかできず、7勝13敗の11位に終わり\[42\]、7月は一度も連勝できないまま\[43\]、オールスターまでの前半戦を25勝44敗6分、借金19で折り返す\[44\]。後半戦も浮上することなく、9月27日の対巨人戦（横浜）に敗れたことでBクラスが確定し\[45\]、10月9日の対阪神戦（横浜）に敗れたことで4年連続の最下位が決定している\[46\]。最終的に47勝86敗11分で首位から27.5、5位広島と11.5ゲーム差がついた\[47\]。チーム防御率は6年ぶりに3点台だったが2年連続で最下位、勝率も1957年から1961年の近鉄以来50年ぶりの4年連続で3割台と低迷した\[48\]。オフに村田修一がFAで巨人に移籍。
+
+10月19日、東京放送ホールディングスが保有している横浜ベイスターズ株の大半を[ディー・エヌ・エー](https://ja.wikipedia.org/wiki/ディー・エヌ・エー "wikilink")（DeNA）へ譲渡することで大筋において合意\[49\]。10月22日、最終戦終了後に監督の尾花と一軍コーチ陣の休養が発表された\[50\]。11月4日、東京放送ホールディングスが所有する株式の一部（東京放送ホールディングスの保有する640,000株（議決権割合 49.23%）、[BS-TBS](https://ja.wikipedia.org/wiki/BS-TBS "wikilink")の保有する230,000株（議決権割合 17.69%））を12月2日付で、日本プロフェッショナル野球機構の実行委員会およびオーナー会議の承認を得ることを条件として、DeNAへ譲渡することで、両社の間で正式合意（取得価格1株あたり7,471円、総額65億円）\[51\]。また、球団名は「横浜DeNAベイスターズ」として申請される。11月22日、監督の尾花をはじめ6人のコーチの解任が発表された\[52\]。12月1日、日本プロ野球オーナー会議並びに実行委員会にてDeNAによる横浜ベイスターズ買収とオーナー会社変更が承認された\[53\]。翌2日球団株式が譲渡され、商号変更により**横浜DeNAベイスターズ**として新たにスタートを切った。球団GMには巨人OBの[高田繁](https://ja.wikipedia.org/wiki/高田繁 "wikilink")が就任したが、一方で監督人事は難航した。当初は[新庄剛志](https://ja.wikipedia.org/wiki/新庄剛志 "wikilink")や[工藤公康](https://ja.wikipedia.org/wiki/工藤公康 "wikilink")らの名が候補に挙がったが、最終的に横浜OBでもある工藤公康が候補とされた。だが、一軍ヘッドコーチ・一軍投手コーチ・二軍監督等の人事を巡って工藤と球団が対立し、[12月5日](../Page/12月5日.md "wikilink")に高田GMが破談になったことを会見で述べている。翌6日には当初からの候補であった[中畑清](https://ja.wikipedia.org/wiki/中畑清 "wikilink")の名前が挙がり、[12月9日](../Page/12月9日.md "wikilink")に監督就任会見が行われ、合わせて新球団ロゴマークも発表されている\[54\]。
+
+東京放送ホールディングス時代は**11年間で8回最下位**という戦績を残して幕をおろした。これは、プロ野球市場で一定期間以上参入した親会社としては他に類例のない惨憺たるものである。しかも**5年間連続Aクラスという好調から一転しての暗黒時代**であり、親会社としての経営能力に強い疑問符がつけられた\[55\]。
+
+#### 横浜DeNAベイスターズ時代
+
+##### 中畑監督時代
+
+[Yokohama_Stadium_fans_20150315.JPG](https://ja.wikipedia.org/wiki/File:Yokohama_Stadium_fans_20150315.JPG "fig:Yokohama_Stadium_fans_20150315.JPG") [thumb](https://ja.wikipedia.org/wiki/ファイル:Yokohama-stadium-2014-08-19.jpeg "wikilink")
+
+  - [2012年](https://ja.wikipedia.org/wiki/2012年の横浜DeNAベイスターズ "wikilink")
+
+親会社変更に伴いユニホーム・球団旗・ペットマーク・マスコットキャラクターを一新。[1月29日](../Page/1月29日.md "wikilink")、クイーンズスクエア横浜「クイーンズサークル」において「新ユニホーム発表セレモニー」を行う。[3月18日](../Page/3月18日.md "wikilink")には、これまでの球団マスコット、ホッシー・ホッシーナ・ホッシーゾの卒業と新マスコット・DBスターマンの就任を発表。
+
+[3月30日](../Page/3月30日.md "wikilink")の開幕戦でDeNAとしての初陣となった対阪神戦（京セラドーム）は5対5で引き分けとし\[56\]、[4月1日](../Page/4月1日.md "wikilink")の同カードにおいて6対2で球団名称変更後初勝利を挙げるが\[57\]、続く4月4日から10日、同月22日から5月1日にかけて2度に渡り6連敗するなどした。交流戦は9勝14敗の10位に終わり、7月7日の対中日戦に敗れ借金20として、自力優勝が消滅している\[58\]。前半戦最後の3連戦の対ヤクルト戦（横浜）で今季初の同一カード3連勝するものの\[59\]、前半戦を最下位で終える。後[9月15日](../Page/9月15日.md "wikilink")の対ヤクルト戦（神宮）に敗れ、Bクラスが決定。9月29日の対巨人戦（横浜）に勝利して今季初の5連勝（2分含む）するものの\[60\]、136試合目の[9月30日](../Page/9月30日.md "wikilink")の対中日戦（横浜）に敗れ、5年連続の最下位が決定した\[61\]。10月7日、対巨人戦（東京ドーム）で敗れたことで、対巨人戦のロードでは1勝も出来ずに終わり\[62\]、東京ドームにおいてはセ・リーグ初の記録となった\[63\]。最終的に首位巨人とは40ゲーム、5位阪神に9.5ゲーム差、46勝85敗13分、セ5球団に全て負け越している\[64\]。
+
+  - [2013年](https://ja.wikipedia.org/wiki/2013年の横浜DeNAベイスターズ "wikilink")
+
+中日を自由契約になった[トニ・ブランコ](https://ja.wikipedia.org/wiki/トニ・ブランコ "wikilink")\[65\]、[エンジェルベルト・ソト](https://ja.wikipedia.org/wiki/エンジェルベルト・ソト "wikilink")、[ホルヘ・ソーサ](https://ja.wikipedia.org/wiki/ホルヘ・ソーサ "wikilink")の3人を獲得した。またかつてのチームの主力打者であったソフトバンクの多村仁志を含む3選手が、吉村裕基、[山本省吾](https://ja.wikipedia.org/wiki/山本省吾 "wikilink")ら3選手とのトレードで入団。多村は7年ぶりの古巣復帰となった\[66\]。交流戦は7勝17敗で最下位に終わる\[67\]。[9月24日](../Page/9月24日.md "wikilink")の対阪神戦（甲子園）に1対6で敗れ、[クライマックスシリーズ進出の可能性が消滅し](https://ja.wikipedia.org/wiki/2013年のセントラル・リーグクライマックスシリーズ "wikilink")、8年連続のBクラスが確定\[68\] したが、[10月1日](../Page/10月1日.md "wikilink")にヤクルトが巨人に敗れたことで、6年ぶりの最下位脱出が決定\[69\]。最終成績は5位に終わったものの、ヤクルト・阪神・中日の3球団に勝ち越し。セ3球団に勝ち越したのは実に12年ぶりのことであった\[70\]。オフに阪神の[久保康友](https://ja.wikipedia.org/wiki/久保康友 "wikilink")をFAで獲得。
+
+  - [2014年](https://ja.wikipedia.org/wiki/2014年の横浜DeNAベイスターズ "wikilink")
+
+シーズン途中に大砲の[ユリエスキ・グリエル](https://ja.wikipedia.org/wiki/ユリエスキ・グリエル "wikilink")をキューバから獲得。シーズンは4月に7勝18敗 勝率.280と開幕ダッシュに失敗してしまったものの、5月に[井納翔一](https://ja.wikipedia.org/wiki/井納翔一 "wikilink")、6月に[山口俊](https://ja.wikipedia.org/wiki/山口俊 "wikilink")、8月に[三浦大輔](https://ja.wikipedia.org/wiki/三浦大輔 "wikilink")と球団史上初めて1シーズン3度の月間MVPを獲得し\[71\]（9月にも山口が獲得し最終的に1シーズン4度\[72\]）、5月から8月まで勝率を5割以上をキープし9月までクライマックスシリーズ進出の可能性を残していたが、勝負の9月にチームは失速[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")にAクラス入りの可能性がなくなり\[73\]、[10月6日](../Page/10月6日.md "wikilink")の対ヤクルト戦（神宮）に敗れ5位が確定した\[74\]。結果は2年連続で5位。オフに巨人から[ホセ・ロペス](https://ja.wikipedia.org/wiki/ホセ・ロペス_\(野球\) "wikilink")、グリエルの弟、[ルルデス・グリエル・ジュニア](https://ja.wikipedia.org/wiki/ルルデス・グリエル・ジュニア "wikilink")を獲得した。また、ドラフトでは、後に「小さな大魔神」と呼ばれるようになる、[山崎康晃](https://ja.wikipedia.org/wiki/山崎康晃 "wikilink")（[亜細亜大学](https://ja.wikipedia.org/wiki/亜細亜大学 "wikilink")）を1位指名した。
+
+  - [2015年](https://ja.wikipedia.org/wiki/2015年の横浜DeNAベイスターズ "wikilink")
+
+[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")に球団オーナーが[春田真](https://ja.wikipedia.org/wiki/春田真 "wikilink")から親会社・DeNAの創業者でもある[南場智子](https://ja.wikipedia.org/wiki/南場智子 "wikilink")に交代したことを発表、[NPB初の女性球団オーナーが誕生した](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")\[75\]\[76\]。また、ユニフォームも濃紺から、青色**（通称：横浜ブルー）**に変わった。[4月9日](../Page/4月9日.md "wikilink")、対阪神戦（甲子園）で勝利し、前日まで同率首位だった中日が敗れたため、12試合消化時点で単独首位となる。10試合以上消化後の単独首位は、横浜ベイスターズ時代の[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")以来約8年、2898日ぶり、DeNAが親会社となってからは初の単独首位につく\[77\] など、序盤好調な滑り出しを見せた。しかし、交流戦では、全6カードをすべて負け越し\[78\]、球団では2008年以来の10連敗（1引き分け挟む）を喫するなど、3勝14敗1分で12球団中最下位。勝率・176は交流戦歴代ワースト記録\[79\]。交流戦後の広島3連戦（3戦目は雨で中止）でも連敗は止まらず、連敗を「12」に伸ばしてしまう\[80\]。しかし、6月23日の巨人戦で2-7で勝利し、連敗を12で止めた\[81\]。7月に、元メジャーリーガーの[デュアン・ビロウ](https://ja.wikipedia.org/wiki/デュアン・ビロウ "wikilink")を獲得した。交流戦後の混戦の中6月・7月と阪神や巨人の後塵を拝することが多かったが、前半戦最後のカードである対巨人3連戦で3連勝し、巨人から首位を奪還。前回優勝の1998年以来となる、前半戦首位ターンとなった\[82\]。しかし、後半戦に入るとじわりじわりと順位を下げ、8月下旬にはとうとう最下位に転落。[期制直後に最下位を脱出するも](https://ja.wikipedia.org/wiki/2シーズン制#日本プロ野球 "wikilink")、終盤は中日との最下位争いとなり、[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")の中日戦に敗れ自力でのクライマックスシリーズ進出の可能性が消滅\[83\]。[10月3日](../Page/10月3日.md "wikilink")、シーズン最終戦（巨人戦）で敗れ3年ぶりの最下位が決定した\[84\]。前半戦を首位で折り返しながら、シーズンを最下位で終えるのはプロ野球史上初（2期制時のパは除く）の記録となった\[85\]。また本塁打数こそリーグ最多の112だったものの、リーグワーストのチーム防御率3.80、総失点598、ワイルドピッチに至っては1990年の[ロッテオリオンズの日本プロ野球タイに並ぶ](../Page/千葉ロッテマリーンズ.md "wikilink")68個を記録するほどだった。また、[黒羽根](https://ja.wikipedia.org/wiki/黒羽根利規 "wikilink")、[嶺井](https://ja.wikipedia.org/wiki/嶺井博希 "wikilink")、[高城を起用するなど捕手も固定されず](https://ja.wikipedia.org/wiki/高城俊人 "wikilink")、11個のパスボールも記録。観客動員数は好調で球団側は監督契約延長を申し出たが、中畑監督は低迷の責任を取る形で退任。これにより4年間に及ぶ中畑政権は幕を閉じた\[86\]。後任監督には球団史上初の外国人監督となる[アレックス・ラミレス](https://ja.wikipedia.org/wiki/アレックス・ラミレス "wikilink")が就任することが発表された\[87\]。神宮球場では三浦大輔が登板した2試合の2勝しかできなかった。
+
+[10月21日](../Page/10月21日.md "wikilink")、ラミレス新監督の就任が正式に発表された\[88\]。合わせて、2年契約で背番号80に決まったことも発表\[89\]。ドラフトでは、即戦力として期待された左投手の[今永昇太](https://ja.wikipedia.org/wiki/今永昇太 "wikilink")（[駒澤大学](https://ja.wikipedia.org/wiki/駒澤大学 "wikilink")）を1位指名。課題であった捕手にも[NTT西日本の](https://ja.wikipedia.org/wiki/NTT西日本硬式野球部 "wikilink")[戸柱恭孝](https://ja.wikipedia.org/wiki/戸柱恭孝 "wikilink")を迎えた。
+
+##### ラミレス監督時代
+
+  - [2016年](https://ja.wikipedia.org/wiki/2016年の横浜DeNAベイスターズ "wikilink")
+
+前年[11月](../Page/11月.md "wikilink")に開始されていた、本拠地である[横浜スタジアム](https://ja.wikipedia.org/wiki/横浜スタジアム "wikilink")の運営会社・[株式会社横浜スタジアムの](https://ja.wikipedia.org/wiki/横浜スタジアム#管理・運用者 "wikilink")[友好的TOBがひと段落し](https://ja.wikipedia.org/wiki/株式公開買付け "wikilink")、[1月20日](../Page/1月20日.md "wikilink")付けで[横浜スタジアム](https://ja.wikipedia.org/wiki/横浜スタジアム "wikilink")運営会社の株式を議決権所有割合の過半数（71.12%）に該当する普通株を、総額74億2500万円で取得した。このため、運営会社は同月28日付で、横浜DeNAベイスターズの子会社（[ディー・エヌ・エー](https://ja.wikipedia.org/wiki/ディー・エヌ・エー "wikilink")の孫会社）に名義を変更。
+
+キャンプ前に新外国人として[ジェイミー・ロマック](https://ja.wikipedia.org/wiki/ジェイミー・ロマック "wikilink")、[ザック・ペトリック](https://ja.wikipedia.org/wiki/ザック・ペトリック "wikilink")を獲得するも、 キャンプ中から開幕前にかけて故障者が続発。[山崎憲晴](https://ja.wikipedia.org/wiki/山崎憲晴 "wikilink")が左膝靱帯断裂で今季絶望\[90\]。となったほか、[梶谷隆幸](https://ja.wikipedia.org/wiki/梶谷隆幸 "wikilink")、[石川雄洋](https://ja.wikipedia.org/wiki/石川雄洋 "wikilink")、[山口俊](https://ja.wikipedia.org/wiki/山口俊 "wikilink")といった主力選手が故障により開幕に間に合わず、開幕直後に[藤岡好明](https://ja.wikipedia.org/wiki/藤岡好明 "wikilink")と[マイク・ザガースキー](https://ja.wikipedia.org/wiki/マイク・ザガースキー "wikilink")を相次いで獲得したが、4月は投打に渡り戦力不足の結果9勝18敗と大きく負け越した。5月に入ると梶谷など怪我で離脱していた主力選手も戻り、[石田健大](https://ja.wikipedia.org/wiki/石田健大 "wikilink")、[今永昇太](https://ja.wikipedia.org/wiki/今永昇太 "wikilink")が揃って月間4戦全勝（石田は26イニング連続無失点を記録）と活躍するなど[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")時点で11あった負け越しを[5月28日](../Page/5月28日.md "wikilink")には完済した。交流戦は負け越したものの[エリアン・エレラ](https://ja.wikipedia.org/wiki/エリアン・エレラ "wikilink")が加入し、7月には[筒香嘉智](https://ja.wikipedia.org/wiki/筒香嘉智 "wikilink")が月間16本塁打の歴代日本人最多記録、月間6度の複数本塁打と3戦連続複数本塁打という2つのプロ野球記録を樹立するなど大爆発。[7月11日](../Page/7月11日.md "wikilink")には[三浦大輔](https://ja.wikipedia.org/wiki/三浦大輔 "wikilink")が世界記録となるプロ野球投手としての24年連続安打を達成（[ギネス世界記録](https://ja.wikipedia.org/wiki/ギネス世界記録 "wikilink")に認定され、[8月22日](../Page/8月22日.md "wikilink")、[横浜スタジアム](https://ja.wikipedia.org/wiki/横浜スタジアム "wikilink")で認定証が授与）するなど勢いを取り戻し、17年ぶりとなる2年連続の前半戦Aクラスターンを決める。すると後半戦は[8月25日](../Page/8月25日.md "wikilink")に4位阪神に0.5差まで詰められるも最後までAクラスを守り抜き、[9月19日](../Page/9月19日.md "wikilink")、[広島東洋カープ](https://ja.wikipedia.org/wiki/広島東洋カープ "wikilink")25回戦にて勝利、11年ぶりのAクラスが確定し、チーム初のクライマックスシリーズ（CS）進出を決めた。最終結果は69勝71敗3分。CS進出を決めた翌日に三浦大輔が現役引退を表明し、[9月29日](../Page/9月29日.md "wikilink")の対[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")25回戦（レギュラーシーズン最終戦）が引退試合として行われた。三浦大輔の引退により、大洋ホエールズ時代に在籍した選手と、1998年のリーグ優勝・日本一を経験した選手が全員引退した。[CSでは公式戦](https://ja.wikipedia.org/wiki/2016年のセントラル・リーグクライマックスシリーズ "wikilink")2位の巨人と対戦し、2勝1敗でファイナルステージ進出を決めて公式戦1位の[広島東洋カープ](https://ja.wikipedia.org/wiki/広島東洋カープ "wikilink")と対戦、第3戦で借金チームとして初のファイナルステージでの勝利を挙げたものの1勝4敗で敗退した。DeNAがCSに進出しファイナルステージまで進んだことにより、CS制度導入後10年目にして、12球団すべてがCSに出場するとともに\[91\]、セ・リーグ全球団がCSファイナルステージ（第2ステージ）に出場した。 シーズンオフ、新外国人選手に[アウディ・シリアコ](https://ja.wikipedia.org/wiki/アウディ・シリアコ "wikilink")、[フィル・クライン](https://ja.wikipedia.org/wiki/フィル・クライン "wikilink")、[ジョー・ウィーランド](https://ja.wikipedia.org/wiki/ジョー・ウィーランド "wikilink")、[スペンサー・パットン](https://ja.wikipedia.org/wiki/スペンサー・パットン "wikilink")の4名を獲得。ヤクルトを自由契約となった[田中浩康](https://ja.wikipedia.org/wiki/田中浩康 "wikilink")と、FAで[山口俊](https://ja.wikipedia.org/wiki/山口俊 "wikilink")が巨人へ移籍した[人的補償として](https://ja.wikipedia.org/wiki/フリーエージェント_\(日本プロ野球\)#国内FAにおける制約・補償 "wikilink")[平良拳太郎](https://ja.wikipedia.org/wiki/平良拳太郎 "wikilink")を獲得した。
+
+  - [2017年](https://ja.wikipedia.org/wiki/2017年の横浜DeNAベイスターズ "wikilink")
+
+5月30日の交流戦初戦で3位に浮上する\[92\]。8月22日から同月24日の対広島3連戦。22日の第1戦は9回裏2対5の劣勢から[筒香嘉智](https://ja.wikipedia.org/wiki/筒香嘉智 "wikilink")（2ラン）、[ホセ・ロペス](https://ja.wikipedia.org/wiki/ホセ・ロペス_\(野球\) "wikilink")、[宮﨑敏郎](https://ja.wikipedia.org/wiki/宮﨑敏郎 "wikilink")の3者連続本塁打でサヨナラ勝利。本塁打3連発のサヨナラゲームはプロ野球史上初の事であった。翌23日も5-6で迎えた9回裏2死からのロペスのソロ本塁打で同点にし延長戦に突入、10回裏に[梶谷隆幸](https://ja.wikipedia.org/wiki/梶谷隆幸 "wikilink")のサヨナラタイムリーで連勝。24日の第3戦は9回、二死二塁から打者[倉本寿彦](https://ja.wikipedia.org/wiki/倉本寿彦 "wikilink")の詰まった打球がイレギュラーバウンドを生みサヨナラ勝ち。同一カード全てリードされている状況からの逆転サヨナラでスイープを達成した。3試合連続サヨナラ勝利はベイスターズ前身のホエールズが1960年に達成して以来57年ぶり、同一カードとしては史上初である\[93\]。9月に入り巨人が持ち直してきたため、巨人との間で激しい3位争いとなり順位が入れ替わることもあったが、10月1日の対広島戦で勝利し3位を確定させた\[94\]。73勝65敗5分で公式戦を終え、2001年以来16年ぶりのシーズン勝ち越しを決めた。
+
+[クライマックスシリーズ（CS）では](https://ja.wikipedia.org/wiki/2017年のセントラル・リーグクライマックスシリーズ "wikilink")、1stステージで2位阪神を2勝1敗で破り、ファイナルステージでは第1戦を落としたのちに4連勝し4勝2敗（広島へのアドバンテージ1敗含む）で1位広島を破り日本シリーズに進出した。3位からの日本シリーズ進出はセ・リーグとしては初。またこれにより、セ・リーグでは2010年代で、CS制度導入後11年目にして全球団が日本シリーズに進出した。ソフトバンクとの[日本シリーズでは](https://ja.wikipedia.org/wiki/2017年の日本シリーズ "wikilink")3連敗で王手をかけられたのち2連勝するが、6戦目で延長戦の末に敗れた。前身含め3度目となる日本シリーズで初めて敗退し、日本一を逃した。これに従い、1950年に出場し、1952年に消滅した松竹ロビンスと、2004年に消滅した[大阪近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")を含む日本シリーズの参加経験のある[20世紀](../Page/20世紀.md "wikilink")・[昭和](../Page/昭和.md "wikilink")誕生の13球団が日本シリーズを敗退したことになる。
+
+オフの補強の目玉として、阪神から[FA宣言した](https://ja.wikipedia.org/wiki/フリーエージェント_\(日本プロ野球\) "wikilink")[大和を獲得した他](https://ja.wikipedia.org/wiki/前田大和 "wikilink")、元ソフトバンクの[エディソン・バリオス](https://ja.wikipedia.org/wiki/エディソン・バリオス "wikilink")、自由契約となった選手では中日から[武藤祐太](https://ja.wikipedia.org/wiki/武藤祐太 "wikilink")、楽天から[中川大志を獲得](https://ja.wikipedia.org/wiki/中川大志_\(野球\) "wikilink")。新外国人では[ネフタリ・ソト](https://ja.wikipedia.org/wiki/ネフタリ・ソト "wikilink")が加入した。
+
+  - [2018年](https://ja.wikipedia.org/wiki/2018年の横浜DeNAベイスターズ "wikilink")
+
+2011年以来、球団が横浜DeNAになってからは初めて本拠地での開幕を迎えた。開幕投手は2年連続で[石田健大](https://ja.wikipedia.org/wiki/石田健大 "wikilink")が務めたが試合は3-7で敗れ、5試合で1勝4敗と波に乗れずにいたが、4月6日から同8日の対広島3連戦で今季初のカード勝ち越し、続く対巨人3連戦を3連勝した。翌4月13日の対中日1回戦で逆転勝利を収め、単独首位に浮上すると\[95\]、[4月7日](../Page/4月7日.md "wikilink")から[15日にかけて](../Page/4月15日.md "wikilink")[2001年](../Page/2001年.md "wikilink")以来17年振りとなる8連勝を記録した。しかしここから急降下を見せ、7月、8月と2ヶ月連続で負け越し最下位に沈む。9月に13勝8敗と持ち直したが、ラミレス政権では初のBクラスとなる4位でシーズンを終え、12球団で唯一[平成](../Page/平成.md "wikilink")のクライマックスシリーズの球団の主催試合を開催せずに平成を終えた\[96\]。[後藤武敏](https://ja.wikipedia.org/wiki/後藤武敏 "wikilink")、[加賀繁](https://ja.wikipedia.org/wiki/加賀繁 "wikilink")が現役を引退、ウィーランドや[荒波翔](https://ja.wikipedia.org/wiki/荒波翔 "wikilink")が自由契約となり退団した。トレードで7月に[中後悠平](https://ja.wikipedia.org/wiki/中後悠平 "wikilink")や[伊藤光](https://ja.wikipedia.org/wiki/伊藤光 "wikilink")、[赤間謙](https://ja.wikipedia.org/wiki/赤間謙 "wikilink")が、オフには[巨人](https://ja.wikipedia.org/wiki/巨人 "wikilink")を[戦力外通告](https://ja.wikipedia.org/wiki/戦力外通告 "wikilink")となった[中井大介](https://ja.wikipedia.org/wiki/中井大介 "wikilink")、かつてDeNAに所属した[古村徹](https://ja.wikipedia.org/wiki/古村徹 "wikilink")が加入した。また7月18日、[オーストラリアン・ベースボールリーグ](https://ja.wikipedia.org/wiki/オーストラリアン・ベースボールリーグ "wikilink")の[キャンベラ・キャバルリー](https://ja.wikipedia.org/wiki/キャンベラ・キャバルリー "wikilink")と戦略的パートナシップを締結したことを発表した\[97\]。
+
+  - [2019年](https://ja.wikipedia.org/wiki/2019年の横浜DeNAベイスターズ "wikilink")
+
+大洋ホエールズ誕生から70周年を記念し、この年に限り球団ロゴに「70th」が加えられた。
+
+1月にアレックス・ラミレス監督の日本国籍取得が認められた\[98\]。
+
+3月14日、[MLBの](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[アリゾナ・ダイヤモンドバックス](https://ja.wikipedia.org/wiki/アリゾナ・ダイヤモンドバックス "wikilink")と業務提携を締結した。
+
+4月に約4年ぶりの10連敗を喫したが、その後は復調。5月30日の中日戦に勝利し最下位を脱出し、オールスター前には首位巨人と9.5ゲーム差の2位で折り返す。一時は首位巨人との差を0.5ゲーム差まで縮める猛追を見せたが、直接対決で二度の逆転負けを許したことなどが響き、結局一度も首位に立つことなく優勝を許した。9月24日の中日戦に勝利したことでシーズン2位が確定し、CSでは初の本拠地開催を決めた。これにより全球団がCSを本拠地で開催した経験を持つことになった。2位以上でシーズンを終えたのは優勝した1998年以来21年振り。
+
+[ソトが](https://ja.wikipedia.org/wiki/ネフタリ・ソト "wikilink")43本塁打を放ち、二年連続の本塁打王を獲得。
+
+CSファーストステージで3位の阪神と対戦。初戦は中盤まで7-1とリードするも、終盤に7失点し逆転を許し、敗戦。2戦目も9回までリードするも福留にホームランを打たれて同点。その裏に乙坂のサヨナラホームランで五分とした。3戦目は先制を許し、一時は同点に追いつくも、8回にミスが絡んで決勝点を挙げられて敗戦でファーストステージで敗退となった。
+
+10月29日、[筒香嘉智](https://ja.wikipedia.org/wiki/筒香嘉智 "wikilink")が[ポスティングシステム](https://ja.wikipedia.org/wiki/ポスティングシステム "wikilink")を利用しての[米大リーグ挑戦を正式に発表した](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。\[99\]
+
+  - [2020年](https://ja.wikipedia.org/wiki/2020年の横浜DeNAベイスターズ "wikilink")
+
+1月25日、筒香嘉智の米大リーグ・[タンパベイ・レイズ](https://ja.wikipedia.org/wiki/タンパベイ・レイズ "wikilink")への移籍に伴って空席となっていたキャプテンに[佐野恵太](https://ja.wikipedia.org/wiki/佐野恵太 "wikilink")が就任することが発表された\[100\]。
+
+春季キャンプでは、過去にMLBで[ゴールドグラブ賞](https://ja.wikipedia.org/wiki/ゴールドグラブ賞 "wikilink")を11度受賞した守備の名手である[オマー・ビスケル](https://ja.wikipedia.org/wiki/オマー・ビスケル "wikilink")を特別コーチとして招聘し\[101\]\[102\]、戦略的パートナーシップを締結しているアリゾナ・ダイヤモンドバックスより[バリー・エンライト](https://ja.wikipedia.org/wiki/:en:Barry_Enright "wikilink")\[103\]と[ブレイク・ラリー](https://ja.wikipedia.org/wiki/:en:Blake_Lalli "wikilink")\[104\]がコーチ研修目的で参加し\[105\]、キャンベラ・キャバルリーよりジョッシュ・ワーナーと[スティーブン・チェンバース](https://ja.wikipedia.org/wiki/スティーブン・チェンバース "wikilink")が2月6日から2月14日の期間限定で練習参加することを受け入れた\[106\]。
+
+## 所属選手・監督・コーチ
+
+## チーム成績・記録
+
+[Yokohama_BayStars_Ranking.svg](https://ja.wikipedia.org/wiki/File:Yokohama_BayStars_Ranking.svg "fig:Yokohama_BayStars_Ranking.svg")
+
+  - リーグ優勝 2回
+
+<!-- end list -->
+
+  -
+    （1960年、1998年）
+
+<!-- end list -->
+
+  - クライマックスシリーズ優勝　1回
+
+<!-- end list -->
+
+  -
+    （2017年）
+
+<!-- end list -->
+
+  - 日本一 2回
+
+<!-- end list -->
+
+  -
+    （1960年、1998年）
+
+<!-- end list -->
+
+  - Aクラス 18回
+
+<!-- end list -->
+
+  -
+    （1960年、1962年、1964年、1969年 - 1971年、1979年、1983年、1990年、1997年 - 2001年、2005年、2016年 - 2017年、2019年）※1
+
+<!-- end list -->
+
+  - Bクラス 52回
+
+<!-- end list -->
+
+  -
+    （1950年 - 1959年、1961年、1963年、1965年 - 1968年、1972年 - 1978年、1980年 - 1982年、1984年 - 1989年、1991年 - 1996年、2002年 - 2004年、2006年 - 2015年、2018年）
+
+<!-- end list -->
+
+  - 最多勝 80勝（1964年）
+  - 最多敗 99敗（1955年）
+  - 最多引分 17分（1979年）
+  - 最高勝率 .585（1998年）
+  - 最低勝率 .238（1955年）
+  - 最多連勝 10 （[1964年](https://ja.wikipedia.org/wiki/1964年の大洋ホエールズ "wikilink")、[1967年](https://ja.wikipedia.org/wiki/1967年の大洋ホエールズ "wikilink")、[1968年](https://ja.wikipedia.org/wiki/1968年の大洋ホエールズ "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年の横浜ベイスターズ "wikilink")、[1999年](https://ja.wikipedia.org/wiki/1999年の横浜ベイスターズ "wikilink")）※1967年、1968年、1998年のものは引き分けを挟む。
+  - 最多連敗 14 （1955年、2008年）※2008年のものは1引き分け挟む。
+  - 最長試合時間 6時間13分（1998年8月9日対広島戦）
+  - 連続イニング無得点 46（2012年）
+  - 連続Aクラス入り最長記録 5年（1997年 - 2001年）
+  - 連続Bクラス最長記録 10年（1950年 - 1959年、2006年 - 2015年）
+  - 通算4500敗 （2012年8月24日の対巨人戦で、2リーグ制発足後最速の記録）
+
+<!-- end list -->
+
+  -
+    ※1 2001年のセ・リーグの順位は、勝率順ではなく、勝利数順のため、勝率の場合はBクラス（4位）になっていた。
+
+### その他の記録
+
+  - 最小ゲーム差 1.0ゲーム（1964年）
+  - 最大ゲーム差 61.5ゲーム（1955年）
+  - 最多本塁打 194本（2004年）
+  - 最小本塁打 51本（1955年）
+  - 最高打率 .294（1999年）
+  - 最低打率 .208（1956年）
+  - 最高防御率 2.31（1971年）
+  - 最低防御率 4.94（1977年）
+  - 68暴投（2015年、ロッテオリオンズ〈1990年〉と並びプロ野球タイ記録）
+
+## チームの特徴
+
+### 球団名
+
+1993年から2011年までの間、12球団では唯一の正式名称に企業名を冠しない球団であった。1949年末の2リーグ分裂以降では他に広島カープ（1950年 - 1967年、現・広島東洋カープ）\[107\]、東京オリオンズ（1964年 - 1968年、現・[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")）の事例が存在する。
+
+前身の大洋ホエールズと第二次世界大戦中に存在した[大洋軍は名前が同じだけで](https://ja.wikipedia.org/wiki/西鉄軍 "wikilink")、繋がりは全くない。以前の愛称「ホエールズ」は当時の親会社・大洋漁業が[捕鯨](https://ja.wikipedia.org/wiki/捕鯨 "wikilink")を主要業務にしていたことに由来する。現在の愛称「ベイスターズ」は「横浜ベイブリッジ」と「星」とを組み合わせた造語である。日本人が発案した造語であるため、英語の母語話者には通じないらしく『[ジャパンタイムズ](https://ja.wikipedia.org/wiki/ジャパンタイムズ "wikilink")』等の国内発行の英字新聞ではしばしば「'Stars」と略して表記される。アメリカのプロスポーツチームの本拠地では[タンパ](https://ja.wikipedia.org/wiki/タンパ "wikilink")ベイ（[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")）や[グリーンベイ](https://ja.wikipedia.org/wiki/グリーンベイ_\(ウィスコンシン州\) "wikilink")（[ウィスコンシン州](https://ja.wikipedia.org/wiki/ウィスコンシン州 "wikilink")）のように湾を意味する“ベイ”が入っている地名があるため、一部のアメリカメディアではチーム名が「ヨコハマ・ベイスターズ」ではなく「ヨコハマベイ・スターズ」として認識されることもしばしばある。
+
+大洋・洋松時代は略称をパ・リーグの[大映スターズや後身の大毎オリオンズとの重複を避けるため](https://ja.wikipedia.org/wiki/大映ユニオンズ "wikilink")「大」でなく「洋」とし、大毎が東京オリオンズとなって以降も1992年まで引き続き使用していた。2012年以降は通称が「横浜」から「DeNA」に変更される。略称については「D」では中日ドラゴンズのアルファベット略称と紛らわしくなるため、**従来通り「横」を使用することが承認された**が\[108\]、NPBの公式サイトでは「横」でなく「**ディ**」あるいは「**デ**」との表記も使用されている\[109\]。また、[共同通信社](https://ja.wikipedia.org/wiki/共同通信社 "wikilink")\[110\]、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")\[111\] では「D」と表記している（中日は「中」）。テレビ中継では球団名を変更した2012年時点ではNHKが「D」、地元[tvkが](https://ja.wikipedia.org/wiki/テレビ神奈川 "wikilink")「横」、[サンテレビが](https://ja.wikipedia.org/wiki/サンテレビジョン "wikilink")「ディ」、CSで全試合中継するTBSが「De」、阪神の公式映像の[Tigers-ai](https://ja.wikipedia.org/wiki/Tigers-ai "wikilink")が「デ」、[J SPORTSの自社制作では](https://ja.wikipedia.org/wiki/J_SPORTS "wikilink")「DB」などと混在していたが、2015年現在ではNHK、サンテレビ、Tigers-aiも「De」の表記を使用しており、ある程度統一されつつある。
+
+1993年シーズンに「ベイスターズ」へ改称した時点でアルファベットの略称が「B」で始まる球団が既に[オリックス・ブルーウェーブ](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")（略称・BW）と[近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")（略称・Bu）の2球団存在していたため「**Y**okohama **B**ayStars」の「**YB**」を略称としていた。なお2012年シーズンより「Yokohama **D**eNA **B**ayStars」を略した「**DB**」へ変更された\[112\]。オリックスと近鉄は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")シーズンより合併しオリックス・バファローズ（略称・Bs → B）となっているため、アルファベットの略称が「B」で始まる球団の重複状態は現在も続いている。
+
+### マスコット
+
+球団[マスコット](https://ja.wikipedia.org/wiki/マスコット "wikilink")は、「**DB.スターマン**」。チームの象徴である星（スター）と“ハマ（横浜）”と“スター”にちなんだ[ハムスター](https://ja.wikipedia.org/wiki/ハムスター "wikilink")がモチーフ。ずんぐりむっくり\[113\] としたユニホーム姿の[ゆるキャラ](https://ja.wikipedia.org/wiki/ゆるキャラ "wikilink")。元は1993年からマスコットとして活躍してきた前任者のホッシーファミリーに飼われていたペット。2012年3月18日のオープン戦・対ソフトバンクでファンにお披露目された。
+
+また、「DeNAの勝利のために、そしてスタジアムの治安を保つために、あらゆる敵と戦う」ため、球場内のスタンドや横浜公園などでファンサービスやスタジアム観戦マナーの啓蒙（けいもう）活動を独自に行っていたヒーロー「DB.ライダー」。球団は、これらの活動に敬意を払い、球団のシンボルマークのついた新コスチュームを贈ったうえで、球団キャラクターとして公認。2012年の本拠地最終戦である9月28日の対巨人戦でファンにお披露目された。
+
+翌2013年には親会社の交代後初の女性マスコット「**DB.キララ**」が登場した
+
+尚、2015年以降関東圏球団以外のマスコット交流がオールスター以外ではなくなった。
+
+  - DB.スターマン（通称・スターマン）
+    年齢不詳。横浜市生まれ。ハムスター（モンスター）族で、性別は♂（オス）。チャームポイントは☆形の顔、肉球も☆形。性格は食いしん坊でおちゃめ。趣味はボール集めと「食っちゃ寝」。好きなものは丸いもの・美味しいもの・[モバゲー](https://ja.wikipedia.org/wiki/Mobage "wikilink")。身長はボール5個分、体重はボール10個分（理想は5個分）。横浜スタジアム在住。背番号は「☆（1スター）」だが、[2016年](../Page/2016年.md "wikilink")に限りDeNAベイスターズ5周年記念として「5☆」(数字の5の右上に小さい☆・DeNAベイスターズ5周年記念ロゴと同じ)となっていた。
+    名前の「DB.」は「DeNA BayStars」のイニシャルであると同時に「大好き・ぼくらの（Daisuki・Bokurano）」の意味も込められている\[114\]。ベルトには後述の「Bibon」が付いている。
+  - DB.ライダー
+    性別：男、年齢：非公開、血液型：非公開、身長・体重：非公開、出身地：非公開、活動場所：横浜スタジアム内、およびその周辺
+    「球場の守り神」として横浜スタジアムの内外で活動していたキャラクター。2012年8月から球場内のスタンドやコンコースなどに出没し、ファンが快適に試合を観戦できるよう自主的にパトロールを実施し、観戦マナーの啓蒙活動を続けた。この事に敬意を払い、DeNAは球団のシンボルマークのついた新コスチュームを贈ったうえで、球団キャラクターとして公認した。2016年4月6日、球団公認キャラクターとしての契約の終了を発表し、今後は再び「球場の守り神」に戻るとのこと\[115\]。
+  - DB.キララ（通称・キララ）
+    年齢不詳。横浜市生まれ。性別は女の子。チャームポイントは大きなリボン。性格は明るくて元気いっぱい。趣味はキラキラしたもの集め。好きなものはキラキラしたもの・[ポップコーン](https://ja.wikipedia.org/wiki/ポップコーン "wikilink")。身長はポンポン5個分、体重はポンポン10個分。背番号はなし。
+    「横浜DeNAベイスターズの応援に横浜スタジアムへ通い、グラウンドやステージでキラキラ輝くdianaにいつも憧れていました。いつしか憧れは目標に変わり、夢を叶えるために、自分もキラキラ輝くために！ダンスを一生懸命練習しました。そして2013年、見事横浜DeNAベイスターズを応援する仲間として加わることになった」設定。スターマンから想いを寄せられているが、当の本人は全く興味が無い。
+
+[20140915_'diana'_cheer_team_of_the_Yokohama_DeNA_BayStars_at_Yokohama_Stadium.JPG](https://ja.wikipedia.org/wiki/File:20140915_'diana'_cheer_team_of_the_Yokohama_DeNA_BayStars_at_Yokohama_Stadium.JPG "fig:20140915_'diana'_cheer_team_of_the_Yokohama_DeNA_BayStars_at_Yokohama_Stadium.JPG") [20151128_'diana'_cheer_team_of_the_Yokohama_DeNA_BayStars_at_Yokohama_Stadium.JPG](https://ja.wikipedia.org/wiki/File:20151128_'diana'_cheer_team_of_the_Yokohama_DeNA_BayStars_at_Yokohama_Stadium.JPG "fig:20151128_'diana'_cheer_team_of_the_Yokohama_DeNA_BayStars_at_Yokohama_Stadium.JPG")
+
+#### 過去
+
+  - ホエールズ時代
+
+<!-- end list -->
+
+  - クジラに乗った少年 - 川崎を本拠地にしていた時のペットマーク。グッズの他、ジャンパーやユニフォームの袖にワッペンが縫い付けられていた。
+  - マリン君（1978 - 1992） - 横浜に本拠地を移転した時に、[ペットマーク](https://ja.wikipedia.org/wiki/ペットマーク "wikilink")として登場。以来、1992年までペットマークとして使用。2016年にDeNAベイスターズの5周年企画の一環として復刻\[116\]\[117\]\[118\]。なお、復刻版は帽子のマークが大洋時代の「W」からDeNAの「B」に、帽子横の「★(大洋時代のホームランシール)」が「5th（DeNAベイスターズ5周年記念マーク）」に変更されている。
+
+<!-- end list -->
+
+  -
+
+  - ベイスターズ時代
+
+<!-- end list -->
+
+  - ホッシーファミリー（1993 - 2011） - 球団名を「横浜ベイスターズ」と一新したことに伴い誕生。以降約20年にわたり、ベイスターズのマスコットとして活躍してきたが、2012年「横浜DeNAベイスターズ」の誕生に伴いホッシーファミリーが故郷の星に帰ることになり、ペットとして飼われていたスターマンに後を託すことで表舞台から姿を消すことになった。2012年3月18日のオープン戦・対ソフトバンクでホッシーファミリーの「卒業セレモニー」が行われた。
+      - ホッシー (hosshey) - 三兄弟の長兄でリーダー的存在。[ペットマーク](https://ja.wikipedia.org/wiki/ペットマーク "wikilink")を含め球団のシンボルとして数多くの場所で採用されている。
+          - 優しげな口調で喋る良い子キャラ。[ホッシー_(hosshey)_in_2010.08.08.JPG](https://ja.wikipedia.org/wiki/File:ホッシー_\(hosshey\)_in_2010.08.08.JPG "fig:ホッシー_(hosshey)_in_2010.08.08.JPG")
+      - ホッシーナ (hossiena) - ホッシーの妹で三兄弟の真ん中。
+          - 明るい口調で喋る元気な女の子。
+      - ホッシーゾ (hossiezo) - ホッシーの弟で三兄弟の末っ子。
+          - 語尾に「YO\!\!」（あるいは本人の名前に引っ掛けて「ZO\!\!」）を付けた言葉を多用する[ヒップホップ](../Page/ヒップホップ.md "wikilink")系キャラ。
+  - ブラックホッシー - 黒いユニフォームの背中に「マスコット命」、サングラスの下に充血した目という謎のキャラクター。TBSの野球番組『好プレー珍プレー』の番組内企画で生まれたジョークマスコット。中の人（[スーツアクター](https://ja.wikipedia.org/wiki/スーツアクター "wikilink")）は以前に[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")マスコットの「[トラッキー](https://ja.wikipedia.org/wiki/トラッキー "wikilink")」のアクターとして派手なパフォーマンスが人気を集めており、「流星ジャンプ」に代表されるハチャメチャなアクションで絶大な人気を得た。球団としてもグッズ製作に乗り出そうとした矢先の2004年オフ、「[中の人](https://ja.wikipedia.org/wiki/中の人 "wikilink")」が[楽天の](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")「非公認」マスコット[Mr.カラスコ](https://ja.wikipedia.org/wiki/Mr.カラスコ "wikilink")の「中の人」として引き抜かれたことで消えた。この時「ブラックホッシー獲られちゃったよ…」と肩を落とした横浜の峰岸球団社長だけでなく、[佐伯貴弘](https://ja.wikipedia.org/wiki/佐伯貴弘 "wikilink")（トラッキー時代から交流があり、解任直後の中の人に横浜入りを勧めたとも言われている）や[三浦大輔](https://ja.wikipedia.org/wiki/三浦大輔 "wikilink")、若林オーナーまでもが失意のコメントを残している。その後、横浜スタジアムで開催された[2008年のオールスター第](https://ja.wikipedia.org/wiki/2008年のオールスターゲーム_\(日本プロ野球\) "wikilink")2戦、公式戦では[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")の本拠地開幕戦（対巨人）、[4月18日](../Page/4月18日.md "wikilink")の対阪神戦や6月12日の対オリックス戦（京セラドーム大阪）で復活を果たしている。また横浜スタジアム開門直後に流れる球場マナーについてのお願いのVTRにはマナーの悪いファンとして出演している。
+  - ニューホッシー - 正式名称は「2001年ニューホッシー」。文字どおり2001年シーズンに登場。視線が常に本人から見て左側を向いているが、これは球団公式イラストのホッシーとデザインを合わせたため。以前からのホッシーと比較して、顔が着ぐるみでない（同時に登場した湘南シーレックスのマスコット・レックの人形と同じ材質）うえに大きさも小さいため、体型がシャープで、既存ホッシーに比べると多少アクロバティックな動きもこなせる。2001年から2004年頃にかけて度々登場していたが、既存ホッシーほどの支持を得られなかったため、数年で姿を消すことになった。背番号2001。
+
+球団のマスコットではないが、[TBSが親会社の頃は](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")、横浜スタジアムと交流戦のビジター球場ではTBSのマスコットである「[BooBo](https://ja.wikipedia.org/wiki/BooBo "wikilink")（ブーブ）」と[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ "wikilink")『[エキサイトベースボール](https://ja.wikipedia.org/wiki/TBSラジオ_エキサイトベースボール "wikilink")』のマスコットである「エキベ〜」が登場した。
+
+また、[カネシゲタカシ](https://ja.wikipedia.org/wiki/カネシゲタカシ "wikilink")がスポナビブログで連載している漫画『ベイスたん』\[119\] の主人公・ベイスたんは、球団の「公認“非公式”キャラクター」として位置づけられ、球団からコラボグッズも発売されている\[120\]\[121\]。
+
+2014年より横浜を愛する人々を対象にプロ野球をきっかけとしたまちづくりを推進していくプロジェクト[I☆YOKOHAMA](https://ja.wikipedia.org/wiki/I☆YOKOHAMA "wikilink")を掲げ、シンボルキャラクターのBART \&CHAPY（バート アンド チャピー）が誕生した。
+
+### 応援スタイル
+
+トランペット・ドラム（太鼓）・選手別応援歌・ユニフォーム着用などは他球団の多くと同様だが、トランペットなどの楽器は応援には珍しい二重奏を用いている。応援メガホンの使用は他球団のファンと比較し非常に少なく、手拍子と声による応援が中心となっている。また、一部ファンにおいて[ゲートフラッグ](https://ja.wikipedia.org/wiki/ゲートフラッグ "wikilink")の掲揚が行われている。
+
+また、2012年の親会社交代に伴い、新たな応援スタイル2種が球団側より提示された。一つは「Bibon（ビボン）」でタオルに代わり使用されるもので、専用の振りがある\[122\]。イベント時に随時配布される他、選手・監督名の入ったものも販売されている。もう1つは5回裏終了時やチームの勝利時「[シャボン玉](https://ja.wikipedia.org/wiki/シャボン玉 "wikilink")」を飛ばすことである。これは横浜スタジアムにおいて、当時[ジェット風船](https://ja.wikipedia.org/wiki/ジェット風船 "wikilink")の使用が禁止されていたため（理由は下記注を参照）、代替として編み出されたものである。球場でシャボン液とストローのセットが販売されている。
+
+  - 以下は現時点（2013年 - ）のもの
+
+<!-- end list -->
+
+  - 横浜主催ゲームの多く（主として本拠地・[横浜スタジアム](https://ja.wikipedia.org/wiki/横浜スタジアム "wikilink")）では、試合前イベントの時間を確保する都合上、スターティングメンバー発表時の応援団による応援歌演奏\[123\] は、球場アナウンスの選手発表（選手名コール）に続けて、各選手個別に演奏している（選手名→応援歌→選手名→応援歌の繰り返し）。このスタイルは相手チームも同様に行う。
+  - 得点時には「熱き星たちよ」が演奏される。
+  - 相手投手交代時には応援団主導のもと、タオルマフラー・フェイスタオルを広げながら[布袋寅泰](https://ja.wikipedia.org/wiki/布袋寅泰 "wikilink")作の「勇者の遺伝子」を歌う。
+  - 代打登場時には1回だけ「代打のテーマ」が演奏される。応援歌前のファンファーレが存在する選手（かつて在籍した[アレックス・ラミレス](https://ja.wikipedia.org/wiki/アレックス・ラミレス "wikilink")、[佐伯貴弘](https://ja.wikipedia.org/wiki/佐伯貴弘 "wikilink")、[村田修一](https://ja.wikipedia.org/wiki/村田修一 "wikilink")、[筒香嘉智](https://ja.wikipedia.org/wiki/筒香嘉智 "wikilink")など）については、代打で登場した場合でもファンファーレが優先される。ただしコールが固有のものである[乙坂智](https://ja.wikipedia.org/wiki/乙坂智 "wikilink")については、固有のコールが優先される。
+  - 投手の打席では投手用応援歌が演奏されるが、過去には[三浦大輔](https://ja.wikipedia.org/wiki/三浦大輔 "wikilink")、[斎藤隆](https://ja.wikipedia.org/wiki/斎藤隆_\(野球\) "wikilink")、[野村弘樹](https://ja.wikipedia.org/wiki/野村弘樹 "wikilink")、[ライアン・グリン](https://ja.wikipedia.org/wiki/ライアン・グリン "wikilink")などに対しては専用の応援歌が演奏された。この内、野村の応援歌は新たに左投げ投手用の汎用応援歌として使われている。
+  - 以前はプロの作詞家・作曲家により製作され、ポップス調やロック調の編曲で収録された選手別応援歌CDが発売されており、球場でのトランペット演奏でもこれらの応援歌を用いていた。しかし、2000年頃以降に新規製作された楽曲は諸々の事情により、実際に球場で使用されることは少なくなった\[124\] ことから2003年を最後に制作されなくなった。2000年頃以降に応援歌が設定された選手では、応援団が新規に製作した楽曲や、過去に他の選手用として製作された応援歌\[125\] を流用している。
+  - 7回の攻撃時には、ホームでは「熱き星たちよ」の映像が流され、ビジターでは「[WINNING](https://ja.wikipedia.org/wiki/横浜Boy_Style "wikilink")」が応援団により演奏される。多くの球団で行われている[ジェット風船](https://ja.wikipedia.org/wiki/ジェット風船 "wikilink")は2012年まで通常時は[横浜スタジアム](https://ja.wikipedia.org/wiki/横浜スタジアム "wikilink")で使用禁止\[126\] であったため、原則として長らく使用されることはなかった。
+  - 2013年から「スタージェット」（球場外へ飛び出す可能性が低く、球場周辺の[横浜公園](https://ja.wikipedia.org/wiki/横浜公園 "wikilink")の環境面やポイ捨て禁止条例遵守、近くを走る電車への影響という安全面でも優れた風船）のみ使用可能となった\[127\]。同年より横浜ファンも風船の使用を開始し、7回表終了後に青色の風船、勝利時には水色の風船を飛ばしたが、2015年より発売されているものには青色のみが入っており、水色のものは使われなくなった。
+      - ただしこの以前にも他球場において、例外的に横浜ファンが大々的にジェット風船飛ばしを行った事例がある。2006年5月27日の[スカイマークスタジアムでの](https://ja.wikipedia.org/wiki/神戸総合運動公園野球場 "wikilink")[オリックス・バファローズ](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")戦でスポンサーの神戸トヨペットが先着2万人に配った創立50周年記念のジェット風船を横浜ファンも飛ばしていた。2011年6月12日の[札幌ドーム](../Page/札幌ドーム.md "wikilink")（当時同球場でジェット風船の使用は禁止されていたが、この試合のみ実験的に解禁。問題がなかったことが判明し、2012年シーズンより全面使用解禁）での[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")戦において、横浜ファンも青色のジェット風船を飛ばした。
+  - 2007年より試合時、初回先頭打者に対して「勝利の輝き ファンファーレ」が演奏されるようになった（初期はビジターのみ）。
+  - [東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")の本拠地・[楽天生命パーク宮城ではトランペットおよび笛の使用が禁止されているため](https://ja.wikipedia.org/wiki/宮城球場 "wikilink")、メロディー部の口ラッパを含め応援歌の歌唱をアカペラで行う。ヒットによる出塁や盗塁時に「いいぞ いいぞ ○○（人名）」を、四死球や野手選択など相手のミスによる出進塁時に「Let's Go Let's Go ○○（人名）」を通常の三三七拍子に変えてコールする。宮城球場以外でも、鳴り物応援を自粛する22時以降にはこの応援を行う。
+  - ヒットでの出塁の際はファンファーレ（三三七拍子）の後に、ヒットを打った選手の名前をスリーコールする。
+  - 2010年、2011年に在籍した[ターメル・スレッジ](https://ja.wikipedia.org/wiki/ターメル・スレッジ "wikilink")には、交流戦でのみ日本ハム時代の応援歌と横浜での応援歌\[128\] を交互に演奏することがあった。
+  - 2010年7月に、当時在籍していた[内川聖一](https://ja.wikipedia.org/wiki/内川聖一 "wikilink")の応援歌（過去1993年に[高木豊](https://ja.wikipedia.org/wiki/高木豊 "wikilink")の応援歌として製作し使用されたもの）をサビに使用した楽曲「[頑張って いつだって 信じてる](https://ja.wikipedia.org/wiki/頑張って_いつだって_信じてる "wikilink")」が、同年5月にデビューしたアイドルグループ・[東京女子流](https://ja.wikipedia.org/wiki/東京女子流 "wikilink")によりリリースされた。同曲は、内川本人の登場曲として、実際に球場で使用されたことがあった。
+  - 2016年より、四球、ホームラン、勝利時のファンファーレに[横浜市歌](https://ja.wikipedia.org/wiki/横浜市歌 "wikilink")の一部のメロディが使用されている。
+
+#### 私設応援団
+
+DeNA球団では[NPB特別応援許可を受けた以下の団体が応援を指揮する](https://ja.wikipedia.org/wiki/特別応援許可 "wikilink")。
+
+1.  [横浜ベイスターズを愛する会](https://ja.wikipedia.org/wiki/横浜DeNAベイスターズの応援団#横浜ベイスターズを愛する会 "wikilink")
+2.  [全国星覇会](https://ja.wikipedia.org/wiki/横浜DeNAベイスターズの応援団#全国星覇会 "wikilink")
+
+以下の2つの団体は、現存しない応援団である。
+
+1.  湘南海坊主 (SHONAN SEABOSE)\[129\]
+2.  横浜ベイスターズ下関ファン集いの会
+
+### 戦いぶり
+
+  - [1998年の日本シリーズ](https://ja.wikipedia.org/wiki/1998年の日本シリーズ "wikilink")で横浜スタジアムでの胴上げ（[1960年の日本シリーズ](https://ja.wikipedia.org/wiki/1960年の日本シリーズ "wikilink")は毎日大映オリオンズの本拠地・[後楽園球場](https://ja.wikipedia.org/wiki/後楽園球場 "wikilink")）を果たしているが、リーグ優勝はいずれもビジターでの達成（1960年・1998年ともに[阪神甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")）である\[130\]。
+  - 2017年終了時点で日本シリーズ出場は3回で現存するセ・リーグ6球団の中では最少だが、2016年まで敗退がなく、2005年発足で敗退のない楽天を除けば現存11球団で最も日本シリーズの敗退が遅かった。また、試合勝率.625は出場全球団のうち最高の記録である。また、[2017年の日本シリーズ](https://ja.wikipedia.org/wiki/2017年の日本シリーズ "wikilink")の第3戦の黒星は日本シリーズで本拠地での初黒星となった。それまでは一度も本拠地で負けたことがなかった\[131\]。
+  - 現存するセ・リーグ6球団の中で唯一、球団OB（選手としての在籍経験者）監督の下でのリーグ優勝・日本シリーズ制覇を一度も達成していない。優勝監督の[三原脩](https://ja.wikipedia.org/wiki/三原脩 "wikilink")と[権藤博](https://ja.wikipedia.org/wiki/権藤博 "wikilink")はいずれも本球団に選手として在籍した経験はない。2017年に日本シリーズ出場した時の監督であるアレックス・ラミレスはDeNAのOBであるが、レギュラーシーズンは3位である。
+  - 現存するセ・リーグ5球団全てに対して通算対戦成績が負け越している。現存するセ・リーグ6球団の中ではAクラス入り回数が最少（2019年終了時点で18回）。3シーズン連続90敗を唯一記録している球団であり（2008年 - 2010年）、他に2シーズン連続90敗を記録している（1954年 - 1955年）。2シーズン連続90敗は現存する12球団では唯一の記録である（解散球団では過去に[トンボユニオンズ・高橋ユニオンズや](https://ja.wikipedia.org/wiki/高橋ユニオンズ "wikilink")[近鉄パールス・近鉄バファローが記録](../Page/大阪近鉄バファローズ.md "wikilink")）。3シーズン連続90敗はこれまで延べ5チームが喫した2シーズン連続を上回るプロ野球ワースト記録。また、この球団のシーズン90敗以上は6回。2008年から2012年まで5年連続で勝率.399以下を記録し、これは1957年から1961年までの近鉄パールス以来50年ぶりの記録である。シーズン最下位23回は、消滅した球団も含めて日本プロ野球全球団で最多。
+  - 2007年シーズンから導入された[クライマックスシリーズ](https://ja.wikipedia.org/wiki/クライマックスシリーズ "wikilink")に2016年に初出場を果たしたが、これは12球団で最も遅いCS初出場であった。また、同年のファイナルステージ進出および2017年のCS初突破はセ・リーグでは一番遅い\[132\]。また、2019年で初めてCSを主催ゲームで開催したが、こちらも12球団で一番遅い。
+  - セ・リーグ6球団では唯一[シーズンMVPに選ばれた野手が](https://ja.wikipedia.org/wiki/最優秀選手_\(日本プロ野球\) "wikilink")1人もいない球団である。
+  - 打者有利な横浜スタジアムをホームにしているため、伝統的に打線は98年のマシンガン打線に代表されるようにバントや盗塁等の小技が苦手でヒットやホームランで打ちまくり、投手は先発勝ち投手の権利を得ると5～7回で降板し中継ぎに託す大味な戦いが得意なチームだったが、親会社がDeNAになってからはチームカラーを一新し、GMに[高田繁](https://ja.wikipedia.org/wiki/高田繁 "wikilink")を招聘し日本ハム時代に採用した「BOS」（ベースボール・オペレーション・システム）を本にしたチーム作成、スカウトに着手している。\[133\] BOSについて詳しくは[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")を参照。
+
+### 営業・ファンサービス
+
+  - レフト側外野指定席の一部を対戦カード別年間指定席として発売している。2007年は三塁側内野指定席の一部についても「ビジターシート」として対戦カード別年間指定席が発売された。
+  - 2005年から、エグゼクディブ・アドバイザーの[石橋貴明](https://ja.wikipedia.org/wiki/石橋貴明 "wikilink")（[とんねるず](../Page/とんねるず.md "wikilink")）\[134\] の意向で、[横浜スタジアム](https://ja.wikipedia.org/wiki/横浜スタジアム "wikilink")の可動席前（一・三塁付近）にあったネットが撤去された。選手とファンとの距離感が縮まり、試合前や勝利時には選手とのコミュニケーションが取れるようになっている。この付近の席に人気が集中したため、2006年からFA席・FB席新設という形で事実上のチケット値上げが行われた。
+  - 試合前や試合中に行われるイベントの種類と回数がかなり多く、試合以外のイベントも楽しめることができる。
+  - [2012年](../Page/2012年.md "wikilink")から[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")・[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")との合同で『**[GSDBプロジェクト](https://ja.wikipedia.org/wiki/セントラル・リーグ首都圏3球団合同企画_GSDB〜Get_Stamp&DeKA_Badge! "wikilink")**』を立ち上げ、ファンクラブ会員限定イベントの実施の他該当試合の前売りチケット優先販売や球場DJ・チアチーム・マスコットキャラクターの相互訪問やファンクラブ会員に限り巨人・ヤクルト主催のDeNA戦で来場ポイントの付与を行っている。
+      -
+        *以下は2016年時点のもの*
+
+<!-- end list -->
+
+  -   - スピードガンコンテスト（試合ごとに異なる募集形式で選ばれた10名がマウンドから投げる、ホーム最終戦はマスコミ記者対抗戦が行われるのが恒例[読売新聞グループ](https://ja.wikipedia.org/wiki/読売新聞グループ "wikilink")各社（読売新聞・日本テレビ・スポーツ報知）の記者には必ず[ブーイング](https://ja.wikipedia.org/wiki/ブーイング "wikilink")または野次が飛ぶ）。
+      - BAYスマイルショット（オーロラビジョンを使用した写真撮影、試合前と試合中に数回ずつ）
+      - ベイスターズスーパーバズーカ（客席に子供向けのシャツやカラーボールを発射、試合中に2回）
+      - ドッカーン\!FLY CATCH（試合によって異なるが1名か2名がフライキャッチに挑戦、成功すればホットドッグのトッピング量2倍などの特典）
+
+<!-- end list -->
+
+  -   - ハッピースターダンスコンテスト（5回裏終了後。オーロラビジョンを使用したダンスコンテスト、一番多く映った人に賞品が送られる。賞品は2006年がグローブ、2007年が[デサント](https://ja.wikipedia.org/wiki/デサント "wikilink")提供の年間指定席ペア招待券、2016年が[アットホーム](https://ja.wikipedia.org/wiki/アットホーム "wikilink")提供のベイブルーシートペア招待券）
+      - サインボールの投げ入れ（ヒーローインタビューに出た選手のもの）
+      - 横浜スタジアムでは交流戦と相手チームのマスコットが来場している時、そして（本球場での）同一カードシーズン最終戦に限り、7回にビジターの応援歌が流れる。
+
+### 株主構成
+
+  -
+    *2016年3月31日現在*
+
+<!-- end list -->
+
+1.  株式会社[ディー・エヌ・エー](https://ja.wikipedia.org/wiki/ディー・エヌ・エー "wikilink") 127万株（97.69%）\[135\]
+2.  株式会社[東京放送ホールディングス](https://ja.wikipedia.org/wiki/東京放送ホールディングス "wikilink") 3万株（2.31%）\[136\]\[137\]
+
+#### マルハから東京放送への筆頭株主交代
+
+[2001年](../Page/2001年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")、経営が悪化していた当時の親会社・[マルハ](https://ja.wikipedia.org/wiki/マルハ "wikilink")（現：[マルハニチロ](https://ja.wikipedia.org/wiki/マルハニチロ "wikilink")）が球団株の第2位の株主だった[ニッポン放送](https://ja.wikipedia.org/wiki/ニッポン放送 "wikilink")への球団株譲渡（身売り）を発表し、[NPBも一旦はこれを認めた](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")。ところが10日以上も経ったところで[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の[渡邉恒雄](https://ja.wikipedia.org/wiki/渡邉恒雄 "wikilink")オーナーが「ニッポン放送の持分法適用関連会社である[フジテレビが](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ヤクルトスワローズの球団株を所有しており](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")、横浜球団のニッポン放送への売却は野球協約に抵触する」と異議を申し立て、これをきっかけにニッポン放送への球団株売却は頓挫。最終的に第3位株主の[東京放送に譲渡された](https://ja.wikipedia.org/wiki/東京放送ホールディングス "wikilink")。この際、東京放送がもともとベイスターズの株主企業のひとつだったことから「筆頭株主の交代」という判断が下された。この判断により当時の野球協約に規定されている球団譲渡を受ける際の加盟料30億円の支払いは不要とされた。
+
+それまでの球団の身売りは球団名からユニホームまで一新されるケースばかりだったが、マルハ→東京放送のケースは球団名もユニホームもそのまま残された。唯一変わったところは、ユニホームの袖についたTBSのロゴマークが入ったワッペンだけである。横浜ファンでもある[コラムニスト](https://ja.wikipedia.org/wiki/コラムニスト "wikilink")の[綱島理友](https://ja.wikipedia.org/wiki/綱島理友 "wikilink")は「ファンを悲しませない最もスマートなやり方。球団の身売りはこうあるべきだ」と高く評価している。
+
+2005年10月、[楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")が東京放送の株式を大量購入して筆頭株主となった。しかし、楽天がすでに[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")を運営していることから野球協約違反になる可能性が再浮上した。11月に楽天側は経営統合を撤回、資本・業務提携となったが、東京放送が[認定放送持株会社東京放送ホールディングスに移行したことから楽天は買収を断念して反対株主の](https://ja.wikipedia.org/wiki/放送持株会社 "wikilink")[株式買取請求権](https://ja.wikipedia.org/wiki/株式買取請求権 "wikilink")を使い、東京放送ホールディングスに保有全株式の買取請求を行ったことで問題は収束した。
+
+#### 東京放送ホールディングス時代以降の放映権
+
+東京放送ホールディングスが筆頭株主（事実上のオーナーと目される）であった時代も、傘下（[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")）の放送局である[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")・[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ "wikilink")では、週末午後に行っていた対巨人戦以外の中継は、大洋漁業からマルハ保有時代よりも減少し、散発的に行われた程度だった。巨人戦以外は[視聴率](../Page/視聴率.md "wikilink")と[聴取率](https://ja.wikipedia.org/wiki/聴取率 "wikilink")が取れないことにも起因していた。テレビ中継は通常[テレビ神奈川](https://ja.wikipedia.org/wiki/テレビ神奈川 "wikilink")が単独放送し\[138\] 、同局で放送しないデーゲーム分のみ、自社か[テレビ東京系列](https://ja.wikipedia.org/wiki/TXNネットワーク "wikilink")（対中日戦は[テレビ愛知](https://ja.wikipedia.org/wiki/テレビ愛知 "wikilink")、対阪神戦は[テレビ大阪](https://ja.wikipedia.org/wiki/テレビ大阪 "wikilink")）の中継で補っていた。フジテレビもニッポン放送との資本関係上放映権は保有しているが、2006年以降自社での放送から撤退し、対戦相手の地元系列局（対阪神戦は[関西テレビ](https://ja.wikipedia.org/wiki/関西テレビ放送 "wikilink")、対ソフトバンク戦は[テレビ西日本](https://ja.wikipedia.org/wiki/テレビ西日本 "wikilink")）制作中継のために使っていた。
+
+CS放送については、2002年にマルハから東京放送ホールディングスに譲渡されてからも、しばらくは巨人戦のTBS系列全国中継実施時のみ[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")で放送するも、当時フジテレビ系のCSであった[J SPORTS](https://ja.wikipedia.org/wiki/J_SPORTS "wikilink")（のちに[スポーツ・アイ ESPNとの合併の際](https://ja.wikipedia.org/wiki/スポーツ・アイ_ESPN "wikilink")、東京放送も資本参加）で中継していたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")以後TBSニュースバードに放送チャンネルが移行している。[2014年](../Page/2014年.md "wikilink")シーズンより[TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")2に移行された\[139\]\[140\]。
+
+ラジオ中継はTBSラジオが[基幹局](https://ja.wikipedia.org/wiki/基幹局 "wikilink")を務める[JRN](https://ja.wikipedia.org/wiki/JRN "wikilink")系列、ニッポン放送が基幹局を務める[NRN系列で裏送りも含めて中継していた](https://ja.wikipedia.org/wiki/全国ラジオネットワーク "wikilink")。主に対巨人戦が雨天中止になった時の予備カードや、対巨人戦がないときに放送された\[141\]。東京放送ホールディングスは親会社でなくなった2012年以降もベイスターズの株を保有しており、TBSテレビ・TBSラジオでの中継を継続してきた。しかし、TBSラジオの中継は、2017年シーズン限りで撤退し（JRN系列局向け裏送りのみ継続）、現在はTBSテレビのみ中継している。
+
+DeNAが親会社となった2012年以降は、上記放送のほか、各[ライブ配信](https://ja.wikipedia.org/wiki/ライブ配信 "wikilink")サービスでの主催試合生中継も展開している。展開状況は以下のとおり。
+
+  - [ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")（2012年～　）
+  - [SHOWROOM](https://ja.wikipedia.org/wiki/SHOWROOM_\(ストリーミングサービス\) "wikilink")（2015～2018年）\[142\]
+  - [DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink")（2016年途中～　）※入会有料
+  - [スポナビライブ](https://ja.wikipedia.org/wiki/スポナビライブ "wikilink")（2017年）※入会有料
+  - [AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")（2017～2018年）\[143\]
+  - [Paravi](https://ja.wikipedia.org/wiki/Paravi "wikilink")（2019年～　）※入会有料
+
+### その他
+
+  - 球団関連会社からファンマガジン『[月刊ベイスターズ](https://ja.wikipedia.org/wiki/月刊ベイスターズ "wikilink")』を発売（毎月25日）していた。2010年12月号を持って休刊。
+  - 東京放送時代まで横浜スタジアム側から、選手強化費用として毎年3億円を球団に還元していた\[144\]。
+  - 株式会社煙草屋安兵衛が展開する食料品店チェーン「ベイスターズマート（旧名：ホエールズマート）」が神奈川県内に40店ほど存在する。
+
+## ユニフォームの変遷
+
+### 一軍
+
+#### 下関時代（旧・大洋ホエールズ時代）
+
+  - [1950年](../Page/1950年.md "wikilink") - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink") 白は「WHALES」。グレーは「Whales」と「WHALES」を併用。白とグレーの「WHALES」は球団ロゴが左胸についた[サンフランシスコ・シールズ](https://ja.wikipedia.org/wiki/サンフランシスコ・シールズ "wikilink")型\[145\]。
+  - 1951年 ロゴが筆記体の「W」に変更される。同時にビジター用の定番となる「TAIYO」の印が初登場。
+  - [1952年](../Page/1952年.md "wikilink") 胸に「TAIYO WHALES」と書かれたビジター用が登場。この年監督に就任した[小西得郎](https://ja.wikipedia.org/wiki/小西得郎 "wikilink")が当時の[ピッツバーグ・パイレーツ](https://ja.wikipedia.org/wiki/ピッツバーグ・パイレーツ "wikilink")のビジター用ユニフォームを参考にしたものである\[146\]。このフルレターユニフォームはシーズンオフに[松竹ロビンス](https://ja.wikipedia.org/wiki/松竹ロビンス "wikilink")と合併したため1年間しか使われなかったが、[1959年](../Page/1959年.md "wikilink")に1年間だけ復活している。
+
+<file:20190321> Daisuke Nakai infielder of the Yokohama DeNA BayStars, at Yokohama Stadium.jpg|1950年 - 1951年のホームユニフォーム（復刻版）
+
+#### 大阪時代（ロビンス時代）
+
+  - [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink") 松竹ロビンスと合併し、球団名が大洋松竹ロビンスに変更。帽子は黒地にTとSの組み合わせ（Tが銀糸、Sが金糸）。黒いロゴと赤いロゴはホーム用で春・秋用。ノースリーブで赤いロゴのユニフォームは夏用であった。ビジター用は「Taiyo Shochiku Robins」の頭文字を取って筆記体で「TSR」。
+  - [1954年](../Page/1954年.md "wikilink") 球団名が洋松ロビンスに変更。ホーム用とビジター用は同じデザイン。
+
+#### 川崎時代（新・大洋ホエールズ時代）
+
+  - [1955年](../Page/1955年.md "wikilink") 松竹が球団経営から撤退し、球団名が大洋ホエールズに戻る。同時にロゴの中に線が入ったユニフォームが登場。左袖に「KANAGAWA」の印が入る。
+      - 左袖のマークはK・N・G・Wの4文字がAを取り囲む形となっている。この年に新しい本拠地に定めた[神奈川（かながわ）の](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")4文字がいずれも「あ」を[母音](https://ja.wikipedia.org/wiki/母音 "wikilink")とする点に着目したもので、神奈川に対する思いを表現したものとなっている\[147\]。
+  - 1955年 - [1958年](../Page/1958年.md "wikilink") [ブルックリン・ドジャース（現在のロサンゼルス・ドジャース）を参考にしたユニフォームに変更](https://ja.wikipedia.org/wiki/ロサンゼルス・ドジャース "wikilink")。左袖のワッペンは最初は「KANAGAWA」だったが、[1957年](../Page/1957年.md "wikilink")から親会社・大洋漁業の[社章](https://ja.wikipedia.org/wiki/社章 "wikilink")「まるはマーク」に変更。
+  - 1959年 - [1962年](../Page/1962年.md "wikilink") クリーム地に橙色の「Whales」ロゴ。1959年のみ帽子マークは「T」と「W」を重ね合わせたものを使用し、ビジター用は「TAIYOWHALES」とチーム名を全て表記したものを使用。翌[1960年](../Page/1960年.md "wikilink")から帽子マークは「T」となり、ビジター用は再び「TAIYO」表記に。この1960年から白地となり、胸番号が入る。[1960年の日本シリーズ](https://ja.wikipedia.org/wiki/1960年の日本シリーズ "wikilink")および[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")には左袖にチャンピオンマークが入る。
+  - [1963年](../Page/1963年.md "wikilink") 1年間だけ白地に赤の「Whales」ロゴ（黒い縁取り入り）。ビジター用の「TAIYO」のロゴが太くなり、線がオレンジ色から赤に変更される。
+  - [1964年](../Page/1964年.md "wikilink") - [1972年](../Page/1972年.md "wikilink") 白地に黒の「Whales」ロゴ（赤い縁どり入り、レターが逆転）。[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に帽子の印が筆記体の「W」となる。この「W」の書体は、[当時のワシントン・セネタース（現在のテキサス・レンジャーズ）の帽子と同じ](https://ja.wikipedia.org/wiki/テキサス・レンジャーズ "wikilink")\[148\]。背中に名前が入るのもこのユニフォームからである。ホーム用は「KAWASAKI」と本拠地の[川崎市](../Page/川崎市.md "wikilink")を意味する英文字が、ビジター用は選手の名前を英文字でそれぞれ使われた\[149\]。その後、ホーム用は選手名のものと併用される\[150\]。
+  - [1973年](../Page/1973年.md "wikilink") 白地でオレンジ色のロゴが1シーズンだけ復活。背番号の上の「KAWASAKI」（ビジター用のみ。ホーム用は選手名）もこれが最後。
+      - 帽子の色は黒にオレンジ色のW。アンダーシャツ・ストッキング・スパイクシューズの色は黒。（スパイクシューズはラインなし）ユニフォームはホーム用の地色が白でビジター用がライトグレー。ホーム用の筆記体のWhalesロゴとビジター用のTAIYOロゴ、胸背番号、背番号の上のネームがオレンジを黒で囲んだものとなり襟袖ズボンラインもオレンジを黒で囲んだものとなる。帽子のWマークはそれまでの筆記体から斜体がかったデザインに変更。左袖に○はマーク。
+  - [1974年](../Page/1974年.md "wikilink") - [1977年](../Page/1977年.md "wikilink") 基本色が[湘南電車](../Page/湘南電車.md "wikilink")カラーと呼ばれたものになる（経緯については[後述](https://ja.wikipedia.org/wiki/横浜DeNAベイスターズ#湘南電車カラーのユニフォーム "wikilink")）。
+      - 帽子はグリーン地にツバ・天ボタン・空気穴がオレンジ。マークはオレンジに白で囲われた「W」。
+      - ホーム用は、白地でないものを採用。オレンジ色地に緑の「Whales」ロゴ（白い縁取り入り）が入ったユニフォームを使用。
+      - ビジター用は緑地に橙色「TAIYO」ロゴ（白い縁取り入り）となっている。
+      - パンツはホーム用・ビジター用ともベルトレス。
+          - [1977年](../Page/1977年.md "wikilink")後半から、袖の「丸に『は』（まるは）」マークが「鯨に乗った少年」のイラストに変更。また、ビジター用の胸マーク、背番号、背ネームの白縁取りがなくなり、背番号が若干小さくなる。
+
+#### 横浜時代
+
+##### 横浜大洋時代
+
+  - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink") 本拠地が川崎から横浜へ移転し、球団名が横浜大洋ホエールズに変更され、チームカラーが紺一色になる。帽子は紺色でマークは白で「W」。
+      - ホーム用は、白地にマリンブルー（紺色）のライン。胸に本拠地名のロゴ「YOKOHAMA」（紺色）、左袖に「TAIYO」（同）。
+      - ビジター用は、上着が紺色に白（ホーム用と逆）で「TAIYO」、左袖に「WHALES」。「TAIYO」、「WHALES」のロゴはこれが最後。パンツはグレー\[151\]。
+      - スパイクは、[ローリングス](https://ja.wikipedia.org/wiki/ローリングス "wikilink")（日本での発売元は[アシックス](https://ja.wikipedia.org/wiki/アシックス "wikilink")）を使用し、当時の12球団では唯一の採用であった。
+      - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、ヘルメットの横に自分が打ったホームランの数だけ星印のシール（通称：ホームランスター）を貼る制度を導入。
+
+##### 横浜ベイスターズ時代
+
+  - [1993年](../Page/1993年.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 球団名が横浜ベイスターズに変更され、ユニフォームも一新。チームカラーのマリンブルーと呼ばれる青\[152\] を基調とし、スパイクも青地に白線となる。ユニホームは第3ボタンまで脱着可能（後は飾りボタン）のプルオーバータイプとなる。背番号、胸番号、選手名は日本球界で初めて[カッパー・プレート・ゴシック](https://ja.wikipedia.org/wiki/カッパー・プレート・ゴシック "wikilink")と呼ばれる製版業で使われる書体を採用。途中若干のマイナーチェンジはあったが、球団史上最長の16シーズン採用されたデザインとなった。帽子は、青地に白の「β」、後ろに☆が3つ。
+      - ホーム用は白地に青のピンストライプ。青地に白の縁取りの「**BayStars**」のロゴ。胸番号、背番号は黒、選手名は青となる。
+      - ビジター用は上着が青、パンツが白で、袖とパンツに2本線（上着は白、パンツは青）が入る。胸ゴロは白ので「YOKOHAMA」の文字と**β**の印、選手名、背番号、胸番号は白。
+          - [1996年](../Page/1996年.md "wikilink") - [大矢明彦](https://ja.wikipedia.org/wiki/大矢明彦 "wikilink")監督就任と同時に、帽子のマークの☆の数が3つから1つに変更（デザインは、☆の中にβが入る。色は白）。
+          - [2001年](../Page/2001年.md "wikilink") - スパイクの色が白地に青線になる。
+          - [2003年](../Page/2003年.md "wikilink") - パンツの2本線が細くなる。
+          - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink") - 袖の2本線が細くなる。
+          - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - ビジター用の左胸の***β***の後ろにある星のマークが消え、「YOKOHAMA ***β***」のみとなる。ホーム用の白地が明るくなり、ピンストライプ部分が刺繍からプリントになる。
+  - [2009年](../Page/2009年.md "wikilink") - [2011年](../Page/2011年.md "wikilink") 横浜開港150周年に合わせてホーム・ビジターとも一新。胸元にyokohamaの頭文字にちなみ「Yネック」を採用。プロ野球では2001年の[オリックス・ブルーウェーブ以来となる前開きでないプルオーバータイプを採用する](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")。胸番号・背番号がゴシック体のような書体になる。アンダーシャツ、ベルト、スパイクの色が紺。帽子のマークから☆マークが消え、「β」のみになる。
+      - ホーム用はピンストライプがなくなり、左胸に「β」の印、右腹部に背番号。両肩に銀色の星マークが入る。「BAYSTARS」の大文字ロゴがパンツの左側線に入る。背ネームは幅狭。
+      - ビジター用はグレー地、白のピンストライプ、前面に筆記体の「Yokohama」の文字、左腹部に背番号。ビジター用のみ帽子のツバの色が青色。背ネームはホームに比べて幅広。
+          - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") 主催ゲームの初戦に限り、ホーム用の両肩の星マークの色を「金星をつかむ」という意味を込めて金色に変更。ただし、実際には初戦以外でも使われ、事実上「金星タイプ」がデフォルトとなった。
+          - [2011年](../Page/2011年.md "wikilink") 主将の[村田修一](https://ja.wikipedia.org/wiki/村田修一 "wikilink")のユニフォームに「C」と「[錨](https://ja.wikipedia.org/wiki/錨 "wikilink")」を組み合わせたキャプテンマークをつけた。ホーム用は右袖、ビジター用は左胸に装着。
+
+Michiomi Yoshihara in 2007.03.21.JPG|1993年～2008年のホームユニフォーム Naoyuki Shimizu on May 5, 2010.jpg|2009年～2011年のホームユニフォーム YB-Shigeru-Morikasa.jpg|2009年～2011年のビジターユニフォーム
+
+##### 横浜DeNA時代
+
+  - [2012年](../Page/2012年.md "wikilink") - [2014年](../Page/2014年.md "wikilink") 球団名が横浜DeNAベイスターズに変更され、新しい球団としてスタートしたことに伴い、ユニフォームのデザインを一新。新しいユニフォームのデザインコンセプトは、チームロゴ、プライマリーマークと同様に、「継承と革新」。「ワクワク感」「強さ・かっこ良さ」等、ファンが球団に期待する要素をイメージしてデザイン。帽子のマークがホーム用とビジター用で違うなど、斬新なアイデアが盛り込まれた。
+      - ホーム用は「継承と革新」をコンセプトに1993年から2008年まで使われたデザインを踏襲、4季ぶりに縦じまが採用され、1998年に日本一に輝いた当時のユニホームを彷彿とさせるデザインとなった。白を基調にライトブルーの縦線で、上下縦じまを採用。胸には新球団のロゴを据えられたほか、脇下には濃紺、袖口・首回りにはライトブルーのラインがそえられた。帽子は濃紺を地色にチームのシンボルマークの「B」。
+      - ビジター用の上は濃紺がベースとした単一カラーで袖口や首回り、ラケットラインには薄い青。ズボンは白と濃紺の二種類を用意、上下とも濃紺のユニホームを着用することもある。背番号・胸番号と胸の「BAYSTARS」の文字は「横浜の海」をイメージし、白と水色のグラデーションがかかったデザインとなった。帽子には濃紺を地色にチームの象徴でもある「星」をあしらった。
+          - 主将に任命された[石川雄洋](https://ja.wikipedia.org/wiki/石川雄洋 "wikilink")のユニフォーム左胸上部には、キャプテンマークの「C（ホーム用は白縁に赤、ビジター用は黒縁に金色）」の文字が入る。
+          - 7月3日から5日の対巨人戦では、本拠地の横浜スタジアムでビジター用ユニフォームを着用するイベントを開催。ただし、ソックスはイベント用に作られたもの（紺色地にブルーの二本線）を使用。
+  - [2013年](../Page/2013年.md "wikilink") - 現在使用しているホーム用・ビジター用ユニフォームに加えて、新たに「第3のユニフォーム（サードユニフォーム）」が登場。3月29日の中日戦から年間を通して週末のビジターゲームを中心に着用する（月曜日の試合も着用）。
+      - デザインは1993年から2008年まで使用していたビジターユニフォームを彷彿とさせる「ベイスターズブルー」をメインカラーに採用、首回りと袖口に水色が据えられた。左袖にチームロゴ、胸に「**YOKOHAMA :DeNA**」のロゴ、:DeNAの文字の下に胸番号。ロゴ・胸番号・背番号・背ネームは、白字でネイビーと水色で縁取り。ズボンは白で、水色の線が入る。帽子は青地に白字で「**:De**」（ネイビーと水色で縁取り）\[153\]。
+      - なお、現在使用しているユニフォームの背ネームに関して、[井納翔一](https://ja.wikipedia.org/wiki/井納翔一 "wikilink") (INOH) や[大原慎司](https://ja.wikipedia.org/wiki/大原慎司 "wikilink") (S.OHHARA) のように[ヘボン式ローマ字表記とは別に](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")、[大田阿斗里](https://ja.wikipedia.org/wiki/大田阿斗里 "wikilink") (ŌTA) のように[訓令式ローマ字](https://ja.wikipedia.org/wiki/ローマ字#日本国内規格 "wikilink")（かつて、[阪急ブレーブスが採用した](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")）表記が混在していた。
+  - 2014年 - 前年使用したサードユニフォームの勝率が.575のハイアベレージを記録し、2014年はより多くの試合で日本一当時のブルーを継承して試合に臨み、更なる躍進を目指して、ビジターユニフォームとして導入。デザインは、胸ロゴが「**:DeNA**」に変更になり右袖に「**YOKOHAMA**」で、それ以外は前年のサードユニフォームと同じ\[154\]。
+  - [2015年](../Page/2015年.md "wikilink") - ホームユニフォームを変更。
+      - デザインは前年まで使用したホームユニフォームと同じで、メインカラーを「海と港の街」横浜をイメージした鮮やかな「横浜ブルー」に変更。また、ユニフォームの首元の裏に選手自身が大事にしているスローガンや目標を言葉にした「Personal slogan」が記される。帽子は「横浜ブルー」にチームのシンボルマークの「B」。[ヘルメット](https://ja.wikipedia.org/wiki/ヘルメット "wikilink")が星に照らされて輝く海をイメージした「横浜ブルーメタリック」。
+  - [2016年](../Page/2016年.md "wikilink") - 親会社がDeNAとなって5周年を記念しビジターユニフォームを変更。
+      - 「海と港の街、横浜」をコンセプトに、これまで、ビジターユニフォームの胸に配していた「DeNA」のロゴを「横浜に根づき、横浜と共に歩む」という想いから「YOKOHAMA」に変更。球団のメインカラー「横浜ブルー」をベースに、青色の濃淡のストライプを使って、横浜の澄み渡る青い空と海を表現したデザイン\[155\]。
+  - [2018年](../Page/2018年.md "wikilink") - ビジターゲーム用のキャップデザインを変更。”YOKOHAMA”に対する皆様の想い・誇りと共に敵地で戦うという強い意志を込め、従来の｢:De｣から、ビジターユニフォーム胸部の｢YOKOHAMA｣の「Y」と同じデザインに変更した\[156\]。
+  - [2019年](../Page/2019年.md "wikilink") - ホームユニフォーム、ビジターユニフォームの袖についているプライマリーマークを2019年シーズン限定で70thプライマリーロゴに変更\[157\]。
+
+[2020年](../Page/2020年.md "wikilink") - ビジターユニフォームを一新。コンセプトは、「より青く、より強く。」。 カラーは、球団のメインカラーである「横浜ブルー」を中心に、港町・横浜の海のように鮮やかな4種類の青色を使い、全て青色で構成。さらに、上部へ大きく拡がる「ストライプ」の動きを加えることで、選手の力強さを引き立て、無限に広がる可能性を表現した\[158\]。
+
+20140309 Tsutsugo Yoshitomo, infielder of the Yokohama BayStars, at Yokohama Stadium.JPG|2012年～2014年のホームユニフォーム 20120310 Taketosi Goto,infielder of the Yokohama BayStars, at Seibu Dome.JPG|2012年～2013年のビジターユニフォーム 横浜DeNAベイスターズ投手の今永昇太。横浜スタジアムにて。.jpeg|ホームユニフォーム（2016年） 180518 Edison Barrios.jpg|ビジターユニフォーム（2018年）
+
+### 二軍
+
+  - 2000年 - 2010年 二軍の独立採算化と一軍との差別化を目的に、二軍の球団名を「**湘南シーレックス**」に変更し、ユニフォームも独自のものを使用。帽子は紺色を地色に白の「S」マーク、ツバはエメラルドグリーン。
+      - ホーム用：シャツは白地にエメラルドグリーンの首元から胸にかけてのラケットラインと袖口のラインが入り、胸にエメラルドグリーンで筆記体の「Searex」ロゴ、胸番号・背ネーム・背番号は黒、パンツは白地に横に青緑色のライン、アンダーシャツは青緑色。
+      - ビジター用：シャツはエメラルドグリーン（ラインなし）、胸に白で筆記体の「Shonan」ロゴ、胸番号・背ネーム・背番号は白、パンツは白地に横にエメラルドグリーンのライン、アンダーシャツは青。
+  - 日本のプロ野球球団のユニフォームの多くは、背番号・背ネーム部分をユニフォームの生地に直付け（刺繍もしくはプリント）しているが、湘南のユニフォームの背ネーム部分は、アーチ状の生地にネームをプリントしたものをユニフォームの生地に縫い付けている。これは「シーレックスに定着されては困る」という励ましの意味で、2012年現在、日本のプロ野球球団に於いては唯一のケースである。
+
+### 交流戦限定ユニフォーム
+
+  - 2005年 - 2006年 ホーム用はピンストライプがなくなって左胸には「β」の印、右袖に背番号。左袖にTBSのロゴのワッペン。ビジター用は灰色の下地に前面に筆記体で「Yokohama」の文字、ホーム用と同じく右袖にも背番号。
+  - 2007年 - 2008年 ホーム用のみとなり、チームカラーの青を一切使わない紺基本のユニフォーム。左胸には「β」の印、右胸に背番号が紺に金の縁取り。両脇には[横浜赤レンガ倉庫](https://ja.wikipedia.org/wiki/横浜赤レンガ倉庫 "wikilink")をイメージした臙脂色が用いられる\[159\]。
+  - 2009年以降は登場していない。
+
+### 夏季限定ユニフォーム
+
+[20130803_Shuichirou_Osada,_pitcher_of_the_Yokohama_DeNA_BayStars,_at_Yokohama_Stadium.JPG](https://ja.wikipedia.org/wiki/File:20130803_Shuichirou_Osada,_pitcher_of_the_Yokohama_DeNA_BayStars,_at_Yokohama_Stadium.JPG "fig:20130803_Shuichirou_Osada,_pitcher_of_the_Yokohama_DeNA_BayStars,_at_Yokohama_Stadium.JPG")）\]\]
+
+  - 横浜時代
+
+[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")から毎年原則で、夏季限定ユニフォームを採用しており、いずれも8月の主催ゲームで行われるのみである。交流戦・夏季限定ともに、2年ごとにデザインが変更されている\[160\]。
+
+  - 2004年 - 2005年は白の下地の前面に「BayStars」のロゴが入り、脇下が青で当時の[西武ライオンズのデザインとよく似ていた](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")。両年とも期間終了後に選手のサインをいれてファンにプレゼントされる。背番号の氏名ローマ字は記載されていない。
+  - 2006年 - 2007年は白地の前面にブロック体で「BAYSTARS」の刺繍、その左上の方に背番号、左肩に「yokohama」、背中には背番号のみで首周りは青色で肩付近にかけてマリンブルーにし、帽子はマリンブルー地に「B」のみ。「ベータ・キャップ」と称される。
+  - 2010年は3年ぶりに夏季限定ユニフォームが登場した（2011年も同デザイン）。デザインは通常ホーム用をベースに、ラグランスリーブ部はグラデーション入りの青として背番号にも金の縁取りが入る。キャップは通常ビジター用をベースに、マーク部が金文字となる。
+
+<!-- end list -->
+
+  - 横浜DeNA時代
+
+親会社がDeNAに変更されてからは、毎年夏に『YOKOHAMA STAR☆NIGHT（ヨコハマスターナイト）』というイベントが行われており、2013年からはその期間中に選手および監督・コーチはスペシャルユニフォームを着用。
+
+  - 2013年8月2日からの対中日3連戦にて、選手プロデュースのスペシャルユニフォームを着用\[161\]。「横浜の街もチームも星のように輝いて」という選手の思いから青を基調に空に輝く星空をイメージして肩や胸、背中などにかけて白い星がちりばめられたデザイン。胸には「YOKOHAMA」の文字が入る。帽子はサードユニフォームと同じもので、青地に白字で「**:De**」（ネイビーと水色で縁取り）。
+  - 2014年8月8日からの対ヤクルト3連戦にて、夜空を彩る流れ星をイメージしたデザインのユニフォームを着用。プロ野球で一番輝く星になりたいという選手・ファンの思いを表現して青を基調にチームカラーの青や勝利の白星を意味する白で描かれた星をデザインし、キャップはビジター仕様のものを用いた。
+  - 2015年8月18日からの対ヤクルト3連戦にて、「海と港の街・横浜」を象徴する港の光きらめく水面をモチーフとしたデザインで、水色、青、濃紺の爽やかな迷彩柄で、小さく12選手のシルエットも描かれている。キャップには、この3試合限定で勝利を意味する「白星」が刺繍されたものを用いた。
+  - 2016年8月5日からの対中日3連戦にて、夜の横浜に輝く星空をモチーフとしたデザインで、横浜ブルーの夜空に煌めく星を幾何学模様のグラデーションで表現したものとなった。キャップには通常のホームゲームで着用するものの左つばにDeNAへの球団移管5周年に合わせ「5th ANNIVERSARY」と刺繍されたものを用いた。
+  - 2017年8月1日からの対中日3連戦にて、「“星空の煌めき”×“横浜の街並み”」をテーマとしたユニフォームを着用。夜の横浜を空から見下ろした、きらめく街明かりをモチーフとし、横浜ブルーをメインカラーに星空の煌めきをドット表現による幾何学デザインで表した。「横浜スタジアム」や2017年3月にオープンした球団の複合施設「[THE BAYS](https://ja.wikipedia.org/wiki/THE_BAYS "wikilink")」をはじめ、横浜の名所がデザインの中に隠されている。キャップはホームユニフォームと同じ物を使用。
+  - 2018年7月31日からの対巨人3連戦では、「スパンコールのように輝く横浜の星空」をテーマとしたユニフォームを着用。きらきらとスパンコールのように輝く横浜の星空を、“横浜ブルー”を基調に濃淡をつけた青色で表した。また、レプリカユニフォームにはより輝きを表現するために、光沢感と凹凸のある素材を球団として初めて採用し凹凸を活かしたテクスチャーにこだわり、本物のスパンコールがついているような立体感のあるデザインとなった。キャップは通常のビジターゲーム時の物を使用。
+  - 2019年7月30日からの対ヤクルト3連戦にて、「宇宙への航海」をテーマとしたユニフォームを着用。左胸を中心に球団ロゴに含まれる様々な青色を同心円状の楕円にあしらったデザインで宇宙を表し袖は紺色とし、STAR☆NIGHTシリーズで初めてテーマデザインに合わせたマークとして楕円形のデザインを取り入れたYのマークを左胸の楕円中心部とキャップにあしらい宇宙の中心である横浜を表した。
+
+### 復刻ユニフォーム
+
+  - 2010年8月にセ・リーグにおける球団の主催で行われた「[オールド・ユニフォーム・シリーズ](https://ja.wikipedia.org/wiki/「GREAT_CENTRAL」〜オールドユニホームシリーズ2010〜 "wikilink")」では横浜大洋時代のホーム用ユニフォームを使用した\[162\]。
+  - 2012年8月 - 9月にセ・リーグにおける球団の主催で行われた「[レジェンド・ユニフォーム・シリーズ](https://ja.wikipedia.org/wiki/「GREAT_CENTRAL」〜レジェンドユニフォームシリーズ2012〜 "wikilink")」では横浜ベイスターズ時代の1993年 - 2008年まで使用され、1998年の優勝・日本一時のビジター用ユニフォームを使用した\[163\]。
+  - 2016年、DeNA球団5周年記念の一環として5月10日 - 12日の中日戦、6月15日・20日\[164\] の北海道日本ハム戦を対象に横浜大洋ホエールズ時代のホームユニフォームを選手たちが着用して戦う「We☆YOKOHAMA DAY」を開催した\[165\]。横浜DeNAベイスターズとなってからは初の大洋ホエールズ復刻ユニフォームである\[166\]。
+  - 2019年3月10日にオーヴィジョンスタジアム下関で開催される予定だった「球団創設70周年記念試合」の広島東洋カープとのオープン戦では、1950年のホーム用ユニフォームを復刻したものを着用\[167\]して試合をする予定だったが、試合開始直前の降雨により中止となった。この記念試合と復刻ユニフォームの着用は、改めて2019年3月21日の北海道日本ハムとのオープン戦（横浜スタジアム）にて行われた。
+
+<!-- end list -->
+
+  -
+    この他、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")のファン感謝デーには、大洋・横浜大洋時代の復刻ユニフォームを着用してアトラクションをこなしている。
+
+### その他
+
+  - 2019年4月12・13日の対広島戦、6月22・23日の対楽天戦、8月10・11日の対中日戦を対象に球団創設70周年を記念した「70th ANNIVERSARY GAME」にて、横浜ベイスターズ時代の初代ビジターユニフォームを踏襲した青色とロゴ配置、大洋ホエールズ時代の初代「W」マークを横にしたBマーク、袖とパンツ横に1959年の二本線を踏襲した上で1974年からの湘南電車カラーのオレンジと緑、右胸と背の「YOKOHAMA」を初代大洋ユニフォームをイメージしたフォント、横浜大洋時代を踏襲した背番号ロゴタイプとショルダーデザインといった歴代のユニフォームデザインをモチーフとした「70th ANNIVERSARY UNIFORM」を着用。
+
+## ユニフォームのスポンサー
+
+  - いずれもホーム用。太斜字は現在掲出中のスポンサー。
+
+### 左胸
+
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - [2011年](../Page/2011年.md "wikilink") [ノジマ](https://ja.wikipedia.org/wiki/ノジマ "wikilink")\[168\]
+
+### 袖部分
+
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")・[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") TBS（[東京放送](https://ja.wikipedia.org/wiki/東京放送ホールディングス "wikilink")。[ジ〜ン](https://ja.wikipedia.org/wiki/ジ〜ン "wikilink")マーク入り）
+  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink") [アサヒ飲料](https://ja.wikipedia.org/wiki/アサヒ飲料 "wikilink")「アサヒ富士山のバナジウム天然水」
+  - [2012年](../Page/2012年.md "wikilink") - ノジマ
+
+### ズボン
+
+  - 2007年 TBS（ジ〜ンマーク入り）
+  - 2008年 [マイナビ](https://ja.wikipedia.org/wiki/マイナビ "wikilink")（[毎日コミュニケーションズ](https://ja.wikipedia.org/wiki/毎日コミュニケーションズ "wikilink")）
+  - [2009年](../Page/2009年.md "wikilink") - 2011年 TBS（[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")〈2009年4月より旧東京放送からTBSの略称を引き継ぐ〉。[ブーブと](https://ja.wikipedia.org/wiki/BooBo "wikilink")[ピンクリボン](https://ja.wikipedia.org/wiki/ピンクリボン "wikilink")活動との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")）
+  - 2012年、2015年 [リスト](https://ja.wikipedia.org/wiki/リスト_\(不動産\) "wikilink")'''''
+  - 2013年 - 2014年、2018年 [DeNA](https://ja.wikipedia.org/wiki/ディー・エヌ・エー "wikilink")
+  - 2019年 [Paravi](https://ja.wikipedia.org/wiki/プレミアム・プラットフォーム・ジャパン "wikilink")
+  - 2020年 - '''''[マルハニチロ](https://ja.wikipedia.org/wiki/マルハニチロ "wikilink")
+
+### ヘルメット
+
+  - 2007年 - 2008年、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - 2011年 、2013年 - 2014年 リスト
+  - 2009年 TBS、[開国博Y150](https://ja.wikipedia.org/wiki/開国博Y150 "wikilink")
+  - 2012年 [Mobage](https://ja.wikipedia.org/wiki/Mobage "wikilink")
+  - **'' 2015年 - [Paloma](https://ja.wikipedia.org/wiki/パロマ_\(企業\) "wikilink")**''
+
+## 球団旗の変遷
+
+### 一軍
+
+  - 1950年 - 1953年：白地に赤文字で大洋漁業の[社章](https://ja.wikipedia.org/wiki/社章 "wikilink")（通称・まるはマーク）。
+  - 1954年：球団名が洋松ロビンスに変更され、紫地に赤字で大洋漁業のまるはマークと松竹の社章を合体。
+      - 上半分がまるはマーク、下半分が松竹の社章。
+  - 1955年 - 1963年：球団名が大洋ホエールズに戻り、合併前のデザインに大洋の社名が入る。「大（は）洋」
+  - 1964年 - 1977年：漢字を「TAIYOWHALES」とアルファベットに変更。「TAIYO（は）WHALES」
+      - 初期にはKAWASAKI（川崎）という文字が入るバージョンも存在した。「KAWA（は）SAKI」
+  - 1978年 - 1992年：紺色地に白文字で「W」。その下に同じく白文字で小さく「YOKOHAMA TAIYO」
+  - 1993年 - 2011年：中央に「YOKOHAMA BayStars」ロゴ、その下に小さく「REACH FOR THE STARS」（慣用句で“トップを目指せ”）。ホーム用は白地に青文字、ビジター用は青地に白文字。文字の後ろには☆のグラデーション。
+  - 2012年 - ：上下に青・青緑色のツートンカラーのライン、白地に青の横ストライプ、青いリボンが巻き付いた星形（☆の中央に「BAYSTARS」、巻きついたリボンの上に「DeNA」、下に「YOKOHAMA」）のプライマリーマークを使用。
+
+### 二軍
+
+  - 2000年 - 2010年：湘南シーレックス時代のもの。白地に渦潮を模したグラデーション、中央に「SHONAN Searex」ロゴ、その下に一軍のものと同様に「REACH FOR THE STARS」のスローガンが入る。
+
+## 歴代本拠地
+
+  - 1950年 - 1952年 [下関球場](https://ja.wikipedia.org/wiki/下関球場 "wikilink")
+  - 1953年 - 1954年 [大阪スタジアム](https://ja.wikipedia.org/wiki/大阪スタジアム "wikilink")
+
+<!-- end list -->
+
+  -
+    ※本来は[松竹ロビンス](https://ja.wikipedia.org/wiki/松竹ロビンス "wikilink")の本拠地であった[衣笠球場](https://ja.wikipedia.org/wiki/衣笠球場 "wikilink")と大洋ホエールズの本拠地であった下関球場のダブルフランチャイズであったが、実質的には松竹ロビンスの準本拠地とされていた大阪スタヂアムの方が集客能力が高いということで、使用頻度が多くなった。
+
+<!-- end list -->
+
+  - 1955年 - 1977年 [川崎球場](https://ja.wikipedia.org/wiki/川崎球場 "wikilink")\[169\]
+  - 1978年 - [横浜スタジアム](https://ja.wikipedia.org/wiki/横浜スタジアム "wikilink")
+
+なお、2020年は[東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック "wikilink")/[東京パラリンピックの開催により](https://ja.wikipedia.org/wiki/2020年東京パラリンピック "wikilink")、横浜スタジアムは、硬式野球（男子）とソフトボール（女子）の試合会場として使われ、その準備などの都合により、6-9月の一部試合の開催ができないため、[東京ドーム](https://ja.wikipedia.org/wiki/東京ドーム "wikilink")で6試合、[新潟県立野球場](https://ja.wikipedia.org/wiki/新潟県立野球場 "wikilink")や、[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")の本拠地[千葉マリンスタジアム](https://ja.wikipedia.org/wiki/千葉マリンスタジアム "wikilink")での代替開催も予定している\[170\]。
+
+## 歴代監督
+
+※**太字**はリーグ優勝、◎は日本一
+
+<table>
+<thead>
+<tr class="header">
+<th><p>!代</p></th>
+<th><p>氏名</p></th>
+<th><p>就任[171]</p></th>
+<th><p>退任[172]</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/渡辺大陸" title="wikilink">渡辺大陸</a></p></td>
+<td><p>1950年</p></td>
+<td><p>1950年</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中島治康" title="wikilink">中島治康</a></p></td>
+<td><p>1951年</p></td>
+<td><p>1951年6月30日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/選手兼任監督" title="wikilink">選手兼任監督</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/有馬義一" title="wikilink">有馬義一</a></p></td>
+<td><p>1951年7月18日</p></td>
+<td><p>1951年</p></td>
+<td><p>当時の球団専務（選手・指導者歴なし）</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小西得郎" title="wikilink">小西得郎</a></p></td>
+<td><p>1952年</p></td>
+<td><p>1953年</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/永沢武夫" title="wikilink">永沢武夫</a></p></td>
+<td><p>1954年</p></td>
+<td><p>1954年</p></td>
+<td><p>ここから<strong>洋松ロビンス</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>6</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤井勇" title="wikilink">藤井勇</a></p></td>
+<td><p>1955年</p></td>
+<td><p>1955年</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/迫畑正巳" title="wikilink">迫畑正巳</a></p></td>
+<td><p>1956年</p></td>
+<td><p>1958年</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/森茂雄" title="wikilink">森茂雄</a></p></td>
+<td><p>1959年</p></td>
+<td><p>1959年</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/三原脩" title="wikilink">三原脩</a></strong>◎</p></td>
+<td><p>1960年</p></td>
+<td><p>1967年</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/別当薫" title="wikilink">別当薫</a>（第1次）[173]</p></td>
+<td><p>1968年</p></td>
+<td><p>1972年8月30日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/青田昇" title="wikilink">青田昇</a></p></td>
+<td><p>1973年</p></td>
+<td><p>1973年</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮崎剛_(野球)" title="wikilink">宮崎剛</a></p></td>
+<td><p>1974年</p></td>
+<td><p>1974年</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/秋山登" title="wikilink">秋山登</a></p></td>
+<td><p>1975年</p></td>
+<td><p>1976年</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>別当薫（第2次）</p></td>
+<td><p>1977年</p></td>
+<td><p>1979年</p></td>
+<td><p>ここから<strong>横浜大洋ホエールズ</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/土井淳" title="wikilink">土井淳</a> [174]</p></td>
+<td><p>1980年</p></td>
+<td><p>1981年9月24日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/関根潤三" title="wikilink">関根潤三</a></p></td>
+<td><p>1982年</p></td>
+<td><p>1984年</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/近藤貞雄" title="wikilink">近藤貞雄</a></p></td>
+<td><p>1985年</p></td>
+<td><p>1986年</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/古葉竹識" title="wikilink">古葉竹識</a></p></td>
+<td><p>1987年</p></td>
+<td><p>1989年</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/須藤豊" title="wikilink">須藤豊</a></p></td>
+<td><p>1990年</p></td>
+<td><p>1992年5月2日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/江尻亮" title="wikilink">江尻亮</a></p></td>
+<td><p>1992年5月3日</p></td>
+<td><p>1992年</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>21</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/近藤昭仁" title="wikilink">近藤昭仁</a></p></td>
+<td><p>1993年</p></td>
+<td><p>1995年</p></td>
+</tr>
+<tr class="even">
+<td><p>22</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大矢明彦" title="wikilink">大矢明彦</a>（第1次）</p></td>
+<td><p>1996年</p></td>
+<td><p>1997年</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>23</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/権藤博" title="wikilink">権藤博</a></strong>◎</p></td>
+<td><p>1998年</p></td>
+<td><p>2000年</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>24</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/森祇晶" title="wikilink">森祇晶</a> [175]</p></td>
+<td><p>2001年</p></td>
+<td><p>2002年9月25日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>25</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山下大輔" title="wikilink">山下大輔</a></p></td>
+<td><p>2003年</p></td>
+<td><p>2004年</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>26</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/牛島和彦" title="wikilink">牛島和彦</a></p></td>
+<td><p>2005年</p></td>
+<td><p>2006年</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>27</p></td>
+<td><p>大矢明彦（第2次）[176]</p></td>
+<td><p>2007年</p></td>
+<td><p>2009年5月17日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>28</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/尾花高夫" title="wikilink">尾花高夫</a></p></td>
+<td><p>2010年</p></td>
+<td><p>2011年</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>29</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中畑清" title="wikilink">中畑清</a></p></td>
+<td><p>2012年</p></td>
+<td><p>2015年</p></td>
+</tr>
+<tr class="even">
+<td><p>30</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アレックス・ラミレス" title="wikilink">アレックス・ラミレス</a></p></td>
+<td><p>2016年</p></td>
+<td></td>
+<td><p>球団初の<a href="https://ja.wikipedia.org/wiki/日本のプロ野球監督一覧#外国人監督" title="wikilink">外国人監督</a>（2019年に日本国籍取得）</p></td>
+</tr>
+</tbody>
+</table>
+
+## 歴代オーナー
+
+  - [中部謙市](https://ja.wikipedia.org/wiki/中部謙市 "wikilink")（1950年 - 1953年）
+  - [中部謙吉](https://ja.wikipedia.org/wiki/中部謙吉 "wikilink")（1953年 - 1977年）
+  - [中部新次郎](https://ja.wikipedia.org/wiki/中部新次郎 "wikilink")（1977年 - 1990年）
+  - [中部慶次郎](https://ja.wikipedia.org/wiki/中部慶次郎 "wikilink")（1990年 - 2001年）
+  - [砂原幸雄](https://ja.wikipedia.org/wiki/砂原幸雄 "wikilink")（2001年 - 2004年）
+  - [若林貴世志](https://ja.wikipedia.org/wiki/若林貴世志 "wikilink")（2004年 - 2011年）
+  - [春田真](https://ja.wikipedia.org/wiki/春田真 "wikilink")（2012年 - 2015年）
+  - [南場智子](https://ja.wikipedia.org/wiki/南場智子 "wikilink")（2015年 - ）
+
+## 永久欠番
+
+球団の[永久欠番は次の通り](https://ja.wikipedia.org/wiki/野球界の永久欠番 "wikilink")。
+
+  - なし
+      - マルハ経営時代の1997年より、**100**を**永久欠番**として**球団に対して貢献のある複数の著名人**に与えていたが、[2013年](../Page/2013年.md "wikilink")に育成ドラフト1位で入団した[今井金太](https://ja.wikipedia.org/wiki/今井金太 "wikilink")が着用した。
+
+### 準永久欠番
+
+  - **18**：[三浦大輔](https://ja.wikipedia.org/wiki/三浦大輔 "wikilink")
+      - 横浜大洋ホエールズ時代の[1993年](../Page/1993年.md "wikilink")から[2016年](../Page/2016年.md "wikilink")にかけて横浜一筋で活躍した投手（番号は1998年より着用）。球団は引退に際し、「背番号18」を「**プレー・振る舞いの両面でチームを牽引するとともに、チームの象徴となるべき選手がつける番号**」（通称「**横浜ナンバー**」）とした。ふさわしい後継者が現れるまでは「横浜ナンバー」は欠番とし、ふさわしいと思われる選手が現れた場合には三浦と球団が協議したうえで決定するとしている\[177\]。ただし現在は、2019年からチームの投手コーチ（2020年からは二軍監督）となった三浦が背番号「18」を着用している。
+  - **25**：[筒香嘉智](https://ja.wikipedia.org/wiki/筒香嘉智 "wikilink")
+      - 入団3年目の[2012年](../Page/2012年.md "wikilink")から[2019年](../Page/2019年.md "wikilink")まで着用。同年オフの[MLB挑戦の際に](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")「彼が帰ってくるまで空けておく。現役の間は、ほかの選手がつけることはない」（三原球団代表）として準永久欠番として扱うことを決めた\[178\]。
+
+## 顕彰
+
+DeNA球団では、[日本プロ野球名球会](https://ja.wikipedia.org/wiki/日本プロ野球名球会 "wikilink")の入会条件である通算2000本安打、通算200勝、通算250セーブを記録した選手を、球団の貢献者として顕彰している。現在7人が顕彰されており、その功績を讃えるレリーフが、横浜スタジアムの右翼外野席最上段の手すり（[2012年](../Page/2012年.md "wikilink")以降。それ以前は現在リボンビジョンが設置されている外野フェンス上部の右翼部分）に設置されている。現在の対象者は以下の通り（背番号は条件達成当時、通算成績は条件を達成したもののみ）。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>背番号</p></th>
+<th><p>選手名</p></th>
+<th><p>守備位置</p></th>
+<th><p>選手歴</p></th>
+<th><p>通算成績</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>25</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/松原誠" title="wikilink">松原誠</a></strong></p></td>
+<td><p>一塁手</p></td>
+<td><ul>
+<li>大洋 (1962 - 1980)</li>
+<li><a href="https://ja.wikipedia.org/wiki/読売ジャイアンツ" title="wikilink">巨人</a> (1981)</li>
+</ul></td>
+<td><p>2095安打</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>27</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/平松政次" title="wikilink">平松政次</a></strong></p></td>
+<td><p>投手</p></td>
+<td><ul>
+<li>大洋 (1967 - 1984)</li>
+</ul></td>
+<td><p>201勝</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>10</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/駒田徳広" title="wikilink">駒田徳広</a></strong></p></td>
+<td><p>一塁手</p></td>
+<td><ul>
+<li>巨人 (1981 - 1993)</li>
+<li>横浜 (1994 - 2000)</li>
+</ul></td>
+<td><p>2006安打</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>22</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/佐々木主浩" title="wikilink">佐々木主浩</a></strong></p></td>
+<td><p>投手</p></td>
+<td><ul>
+<li>大洋・横浜 (1990 - 1999)</li>
+<li><a href="https://ja.wikipedia.org/wiki/シアトル・マリナーズ" title="wikilink">SEA</a> (2000 - 2003)</li>
+<li>横浜 (2004 - 2005)</li>
+</ul></td>
+<td><p>381セーブ[179]</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>5</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/石井琢朗" title="wikilink">石井琢朗</a></strong></p></td>
+<td><p>遊撃手</p></td>
+<td><ul>
+<li>大洋・横浜 (1989 - 2008)</li>
+<li><a href="https://ja.wikipedia.org/wiki/広島東洋カープ" title="wikilink">広島</a> (2009 - 2012)</li>
+</ul></td>
+<td><p>2432安打</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>3</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/アレックス・ラミレス" title="wikilink">アレックス・ラミレス</a></strong></p></td>
+<td><p>左翼手</p></td>
+<td><ul>
+<li><a href="https://ja.wikipedia.org/wiki/クリーブランド・インディアンス" title="wikilink">CLE</a> (1998 - 2000)</li>
+<li><a href="https://ja.wikipedia.org/wiki/ピッツバーグ・パイレーツ" title="wikilink">PIT</a> (2000)</li>
+<li><a href="https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ" title="wikilink">ヤクルト</a> (2001 - 2007)</li>
+<li>巨人 (2008 - 2011)</li>
+<li>DeNA (2012 - 2013)</li>
+<li><a href="https://ja.wikipedia.org/wiki/群馬ダイヤモンドペガサス" title="wikilink">群馬</a> (2014)[180]</li>
+</ul></td>
+<td><p>2103安打[181]</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>99</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/中村紀洋" title="wikilink">中村紀洋</a></strong></p></td>
+<td><p>三塁手</p></td>
+<td><ul>
+<li><a href="../Page/大阪近鉄バファローズ.md" title="wikilink">近鉄</a> (1992 - 2004)</li>
+<li><a href="https://ja.wikipedia.org/wiki/ロサンゼルス・ドジャース" title="wikilink">LAD</a> (2005)</li>
+<li><a href="https://ja.wikipedia.org/wiki/オリックス・バファローズ" title="wikilink">オリックス</a> (2006)</li>
+<li><a href="https://ja.wikipedia.org/wiki/中日ドラゴンズ" title="wikilink">中日</a> (2007 - 2008)</li>
+<li><a href="https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス" title="wikilink">楽天</a> (2009 - 2010)</li>
+<li>横浜・DeNA (2011 - 2014)</li>
+</ul></td>
+<td><p>2106安打[182]</p></td>
+</tr>
+</tbody>
+</table>
+
+## 主な歴代の球団歌・応援歌
+
+  - [熱き星たちよ](https://ja.wikipedia.org/wiki/熱き星たちよ "wikilink")（球団歌）
+      -
+        1993年、球団名が「横浜ベイスターズ」となったのを機に製作。メインボーカルは、横浜出身の歌手・[高尾直樹](https://ja.wikipedia.org/wiki/高尾直樹 "wikilink")、作曲・朝倉紀幸（[朝倉紀行](https://ja.wikipedia.org/wiki/朝倉紀行 "wikilink")）、作詞・秋谷銀四郎。
+        本拠地横浜スタジアムの最寄駅である[関内駅](https://ja.wikipedia.org/wiki/関内駅 "wikilink")では、JRは2011年6月2日から\[183\]、横浜市営地下鉄は2012年4月3日から、それぞれ[発車メロディ](https://ja.wikipedia.org/wiki/発車メロディ "wikilink")として使用されている。みなとみらい線[日本大通り駅](https://ja.wikipedia.org/wiki/日本大通り駅 "wikilink")では2013年4月2日から2019年3月28日まで使用されていた。
+        DeNAベイスターズとなった2012年、歌詞のうち球団名部分が「横浜ベイスターズ」から「DeNAベイスターズ」に変更され、中畑清監督以下5選手（三浦大輔・A.ラミレス・森本稀哲・高崎健太郎・石川雄洋）がヴォーカルを担当した「熱き星たちよ・2012年ヴァージョン」を発表。曲調は以前のものとは大きく異なるものとなった。なお、ベイスターズの得点時・勝利時にも応援団によりトランペット演奏が行われるが、この際の歌詞は従来通り「横浜ベイスターズ」のままである。
+        2014年の新バージョンでは、中畑監督、三浦、金城、久保、ブランコ、[バルディリス](https://ja.wikipedia.org/wiki/アーロム・バルディリス "wikilink")、石川、黒羽根、三嶋の9名が参加。旧バージョンで、ラミレスがアドリブでコールしたセリフは、ブランコとバルディリスによるスペイン語のコールとして継承されている。
+        2015年以降は毎年のように新バージョンが制作されている。
+    \*:2015年-中畑監督、山崎憲晴、ロペス、梶谷、黒羽根、山口、三浦、筒香、[モスコーソ](https://ja.wikipedia.org/wiki/ギジェルモ・モスコーソ "wikilink")、バルディリス\[184\]
+    \*:2016年-A.ラミレス監督、山口、三浦、石川、梶谷、筒香、山﨑康晃、嶺井\[185\]
+    \*:2017年-A.ラミレス監督、筒香、石田、山﨑康晃、今永、倉本、戸柱、桑原\[186\]
+  - 勝利の輝き（応援歌）
+  - 横浜ベイスターズ球団テーマ（公式テーマ。[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")曲）
+      -
+        1998年の優勝を記念して製作。主に横浜主催ゲームでの、横浜のスタメン選手発表時にBGMとして使用されていたが、横浜DeNAとなってからは一軍戦のスタメン発表では使用されていない模様。なお、二軍戦のスタメン発表時には従来通り使用されている。
+  - 勇者の遺伝子
+      -
+        [2013年](../Page/2013年.md "wikilink")3月に作詞・[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")、作曲・[布袋寅泰](https://ja.wikipedia.org/wiki/布袋寅泰 "wikilink")によって制作された応援歌。この応援歌のレコーディングには抽選で選ばれたDeNAファン50人が参加した。[2019年](../Page/2019年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")からは、横浜スタジアムの最寄り駅である[日本大通り駅](https://ja.wikipedia.org/wiki/日本大通り駅 "wikilink")の発車メロディに使用されている\[187\]。
+
+### 過去
+
+  - 大洋・横浜大洋時代
+
+<!-- end list -->
+
+  - [行くぞ大洋](https://ja.wikipedia.org/wiki/行くぞ大洋 "wikilink")（球団歌）（歌：[三鷹淳](https://ja.wikipedia.org/wiki/三鷹淳 "wikilink")とチャッピーズ）
+  - 勝利花（応援歌）（歌：三鷹淳とチャッピーズ）
+
+<!-- end list -->
+
+  - 横浜時代
+
+<!-- end list -->
+
+  - [横浜Boy Style](https://ja.wikipedia.org/wiki/横浜Boy_Style "wikilink")（イメージソング）（歌:[CoCo](https://ja.wikipedia.org/wiki/CoCo_\(アイドルグループ\) "wikilink")）
+  - WINNING（応援歌）（歌:CoCo）
+      -
+        「横浜Boy Style」のカップリング曲。コーラスには当時現役だった[佐々木主浩](https://ja.wikipedia.org/wiki/佐々木主浩 "wikilink")・[盛田幸妃](https://ja.wikipedia.org/wiki/盛田幸妃 "wikilink")・[野村弘樹](https://ja.wikipedia.org/wiki/野村弘樹 "wikilink")・[谷繁元信](https://ja.wikipedia.org/wiki/谷繁元信 "wikilink")・[進藤達哉](https://ja.wikipedia.org/wiki/進藤達哉 "wikilink")・[石井琢朗](https://ja.wikipedia.org/wiki/石井琢朗 "wikilink")の6選手が参加していた。CoCoの解散や選手の退団・移籍が重なり公式ではほとんど使われなくなったが、2019年現在でも応援団により演奏されている。
+  - BayStarsを観にいこうよ（イメージソング）（詞・曲・歌:[ダ・カーポ](https://ja.wikipedia.org/wiki/ダ・カーポ_\(歌手グループ\) "wikilink")）
+  - BE A HERO（公式ソング）（歌:[クレイジーケンバンド](https://ja.wikipedia.org/wiki/クレイジーケンバンド "wikilink") feat.小野瀬雅生）※2006年まで
+
+<!-- end list -->
+
+  - 湘南シーレックス
+
+<!-- end list -->
+
+  - 若き王者たち（公式ソング）
+  - Searex Horizon（公式テーマ。インストゥルメンタル曲）
+
+## 主なキャンプ地
+
+  - 山口県・[下関球場](https://ja.wikipedia.org/wiki/下関球場#歴史 "wikilink")：1950、1952
+  - 兵庫県・神戸銀行グラウンド：1951
+  - 兵庫県・[明石球場](https://ja.wikipedia.org/wiki/兵庫県立明石公園第一野球場 "wikilink")：1953、1960 - 1961
+  - 長崎県・[大橋球場](https://ja.wikipedia.org/wiki/長崎市営大橋球場 "wikilink")：1954
+  - 鹿児島県・[鴨池球場](https://ja.wikipedia.org/wiki/鹿児島県立鴨池野球場 "wikilink")：1955、1957 - 1958
+  - 千葉県・銚子球場：1956、1962
+  - 岡山県・[岡山球場](https://ja.wikipedia.org/wiki/岡山県野球場 "wikilink")：1956
+  - 静岡県・三保東海大グラウンド：1959 - 1961
+  - 愛媛県・[松山球場](https://ja.wikipedia.org/wiki/松山市営球場 "wikilink")：1959
+  - 静岡県・島田球場：1972 - 1973
+  - [静岡市](https://ja.wikipedia.org/wiki/静岡市 "wikilink")・[草薙球場](https://ja.wikipedia.org/wiki/静岡県草薙総合運動場硬式野球場 "wikilink")：1963 - 1971、1974 - 1979、1981 - 1986の一軍キャンプ、（1981・1987 - 1989の二軍キャンプ）、他
+  - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")[メサ市](https://ja.wikipedia.org/wiki/メサ_\(アリゾナ州\) "wikilink")・[ホホカム球場](https://ja.wikipedia.org/wiki/:en:HoHoKam_Stadium "wikilink")：1980 - 1981\[188\]
+  - 静岡県・熱海スタジアム：1980年代、秋季キャンプとして使用
+  - [宜野湾市](https://ja.wikipedia.org/wiki/宜野湾市 "wikilink")・[宜野湾市立野球場](https://ja.wikipedia.org/wiki/宜野湾市立野球場 "wikilink")：1987 -（春季キャンプ。2020年に全面[人工芝](https://ja.wikipedia.org/wiki/人工芝 "wikilink")の屋内練習場を新設\[189\]）
+  - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")・[横浜DeNAベイスターズ総合練習場](https://ja.wikipedia.org/wiki/横浜DeNAベイスターズ総合練習場 "wikilink")：1990 - 2019
+  - [横須賀市](../Page/横須賀市.md "wikilink")・[DOCK OF BAYSTARS YOKOSUKA](https://ja.wikipedia.org/wiki/DOCK_OF_BAYSTARS_YOKOSUKA "wikilink")：2020 -（秋季キャンプ。2020年新設\[190\]）
+  - [沖縄県](../Page/沖縄県.md "wikilink")・[嘉手納町営球場](https://ja.wikipedia.org/wiki/嘉手納町営球場 "wikilink")：二軍キャンプ
+  - [鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")[奄美市](https://ja.wikipedia.org/wiki/奄美市 "wikilink")・名瀬運動公園野球場：2010 - 2019（秋季キャンプ。2020年、ファーム練習場の新設に伴い終了\[191\])
+
+## 歴代開幕投手
+
+| 年度   | 開幕投手                                                           | 勝敗 | スコア  | 対戦相手 |
+| ---- | -------------------------------------------------------------- | -- | ---- | ---- |
+| 1950 | [今西錬太郎](https://ja.wikipedia.org/wiki/今西錬太郎 "wikilink")        | ○  | 2-0  | 国鉄   |
+| 1951 | [高野裕良](https://ja.wikipedia.org/wiki/高野裕良 "wikilink")          | ○  | 4-2  | 名古屋  |
+| 1952 | 高野裕良                                                           | ○  | 4-2  | 阪神   |
+| 1953 | 江田貢一                                                           | △  | 1-1  | 名古屋  |
+| 1954 | [権藤正利](https://ja.wikipedia.org/wiki/権藤正利 "wikilink")          | ○  | 9-2  | 阪神   |
+| 1955 | 権藤正利                                                           | ●  | 2-8  | 広島   |
+| 1956 | [江田孝](https://ja.wikipedia.org/wiki/江田孝 "wikilink")            | ●  | 2-11 | 中日   |
+| 1957 | [大石正彦](https://ja.wikipedia.org/wiki/大石正彦 "wikilink")          | ●  | 0-4  | 広島   |
+| 1958 | 大石正彦                                                           | ●  | 6-7  | 阪神   |
+| 1959 | [鈴木隆](https://ja.wikipedia.org/wiki/鈴木隆_\(投手\) "wikilink")     | ●  | 1-3  | 中日   |
+| 1960 | [幸田優](https://ja.wikipedia.org/wiki/幸田優 "wikilink")            | ●  | 3-4  | 中日   |
+| 1961 | [秋山登](https://ja.wikipedia.org/wiki/秋山登 "wikilink")            | ○  | 8-7  | 広島   |
+| 1962 | [島田源太郎](https://ja.wikipedia.org/wiki/島田源太郎 "wikilink")        | ●  | 1-3  | 国鉄   |
+| 1963 | [稲川誠](https://ja.wikipedia.org/wiki/稲川誠 "wikilink")            | ●  | 1-4  | 広島   |
+| 1964 | 稲川誠                                                            | ○  | 7-4  | 中日   |
+| 1965 | 稲川誠                                                            | ○  | 1-0  | 国鉄   |
+| 1966 | 秋山登                                                            | ○  | 6-3  | 巨人   |
+| 1967 | [森中千香良](https://ja.wikipedia.org/wiki/森中千香良 "wikilink")        | ○  | 3-2  | 中日   |
+| 1968 | 森中千香良                                                          | ○  | 8-5  | 巨人   |
+| 1969 | [平岡一郎](https://ja.wikipedia.org/wiki/平岡一郎 "wikilink")          | ○  | 1-0  | 阪神   |
+| 1970 | [平松政次](https://ja.wikipedia.org/wiki/平松政次 "wikilink")          | ●  | 2-3  | 広島   |
+| 1971 | 平松政次                                                           | ●  | 1-2  | ヤクルト |
+| 1972 | [山下律夫](https://ja.wikipedia.org/wiki/山下律夫 "wikilink")          | ●  | 3-6  | 広島   |
+| 1973 | 平松政次                                                           | ○  | 3-1  | 阪神   |
+| 1974 | 平松政次                                                           | ●  | 1-2  | 阪神   |
+| 1975 | 平松政次                                                           | ○  | 8-4  | 巨人   |
+| 1976 | 平松政次                                                           | ●  | 0-1  | 中日   |
+| 1977 | [渡辺秀武](https://ja.wikipedia.org/wiki/渡辺秀武 "wikilink")          | ○  | 15-7 | 広島   |
+| 1978 | 平松政次                                                           | ○  | 3-1  | 中日   |
+| 1979 | 平松政次                                                           | ○  | 9-0  | ヤクルト |
+| 1980 | 平松政次                                                           | ○  | 4-3  | 巨人   |
+| 1981 | [斉藤明雄](https://ja.wikipedia.org/wiki/斉藤明雄 "wikilink")          | ●  | 1-2  | 巨人   |
+| 1982 | 斉藤明夫                                                           | ○  | 3-2  | 阪神   |
+| 1983 | [遠藤一彦](https://ja.wikipedia.org/wiki/遠藤一彦 "wikilink")          | ●  | 2-5  | 巨人   |
+| 1984 | 遠藤一彦                                                           | ●  | 3-9  | ヤクルト |
+| 1985 | 遠藤一彦                                                           | ○  | 12-6 | 巨人   |
+| 1986 | 遠藤一彦                                                           | ○  | 8-7  | 阪神   |
+| 1987 | 遠藤一彦                                                           | ○  | 5-1  | 広島   |
+| 1988 | [欠端光則](https://ja.wikipedia.org/wiki/欠端光則 "wikilink")          | ○  | 2-1  | 中日   |
+| 1989 | 斉藤明夫                                                           | ○  | 4-3  | 中日   |
+| 1990 | [中山裕章](https://ja.wikipedia.org/wiki/中山裕章 "wikilink")          | △  | 5-5  | 中日   |
+| 1991 | 中山裕章                                                           | ○  | 4-3  | 阪神   |
+| 1992 | [野村弘樹](https://ja.wikipedia.org/wiki/野村弘樹 "wikilink")          | ●  | 4-6  | 中日   |
+| 1993 | [有働克也](https://ja.wikipedia.org/wiki/有働克也 "wikilink")          | ●  | 2-5  | 巨人   |
+| 1994 | 有働克也                                                           | ○  | 4-3  | 中日   |
+| 1995 | 野村弘樹                                                           | ●  | 0-4  | 広島   |
+| 1996 | [盛田幸希](https://ja.wikipedia.org/wiki/盛田幸妃 "wikilink")          | ●  | 1-2  | ヤクルト |
+| 1997 | 盛田幸希                                                           | ●  | 2-3  | 中日   |
+| 1998 | [川村丈夫](https://ja.wikipedia.org/wiki/川村丈夫 "wikilink")          | ○  | 8-0  | 阪神   |
+| 1999 | [三浦大輔](https://ja.wikipedia.org/wiki/三浦大輔 "wikilink")          | ●  | 5-10 | ヤクルト |
+| 2000 | 川村丈夫                                                           | ○  | 7-6  | 阪神   |
+| 2001 | [小宮山悟](https://ja.wikipedia.org/wiki/小宮山悟 "wikilink")          | ●  | 4-6  | ヤクルト |
+| 2002 | 三浦大輔                                                           | ●  | 1-2  | 広島   |
+| 2003 | [吉見祐治](https://ja.wikipedia.org/wiki/吉見祐治 "wikilink")          | ○  | 4-2  | 阪神   |
+| 2004 | 三浦大輔                                                           | ●  | 1-3  | ヤクルト |
+| 2005 | 三浦大輔                                                           | ●  | 0-4  | 中日   |
+| 2006 | 三浦大輔                                                           | ●  | 2-12 | 巨人   |
+| 2007 | 三浦大輔                                                           | ●  | 2-3  | 巨人   |
+| 2008 | [寺原隼人](https://ja.wikipedia.org/wiki/寺原隼人 "wikilink")          | ●  | 2-4  | 阪神   |
+| 2009 | 三浦大輔                                                           | ●  | 1-4  | 中日   |
+| 2010 | [ランドルフ](https://ja.wikipedia.org/wiki/スティーブン・ランドルフ "wikilink") | ●  | 3-7  | 阪神   |
+| 2011 | [山本省吾](https://ja.wikipedia.org/wiki/山本省吾 "wikilink")          | ○  | 5-4  | 中日   |
+| 2012 | [高崎健太郎](https://ja.wikipedia.org/wiki/高崎健太郎 "wikilink")        | △  | 5-5  | 阪神   |
+| 2013 | [藤井秀悟](https://ja.wikipedia.org/wiki/藤井秀悟 "wikilink")          | ○  | 4-3  | 中日   |
+| 2014 | [三嶋一輝](https://ja.wikipedia.org/wiki/三嶋一輝 "wikilink")          | ●  | 1-9  | ヤクルト |
+| 2015 | [久保康友](https://ja.wikipedia.org/wiki/久保康友 "wikilink")          | ●  | 2-3  | 巨人   |
+| 2016 | [井納翔一](https://ja.wikipedia.org/wiki/井納翔一 "wikilink")          | ○  | 2-1  | 広島   |
+| 2017 | [石田健大](https://ja.wikipedia.org/wiki/石田健大 "wikilink")          | ●  | 2-9  | ヤクルト |
+| 2018 | 石田健大                                                           | ●  | 3-7  | ヤクルト |
+| 2019 | |[今永昇太](https://ja.wikipedia.org/wiki/今永昇太 "wikilink")         | ○  | 8-1  | 中日   |
+
+## 主なエピソード
+
+### 荒川事件
+
+### 湘南電車カラーのユニフォーム
+
+1974年から1977年のシーズンに使われたユニフォームのこと。ホーム用は橙色、帽子とビジター用は緑色を使っていたため、[湘南電車](../Page/湘南電車.md "wikilink")を髣髴とさせる配色から「湘南電車カラー（湘南カラー）」と言われた。
+
+このユニフォームが採用される契機になったのは[山下大輔](https://ja.wikipedia.org/wiki/山下大輔 "wikilink")の入団である。当時の大洋は[静岡県草薙総合運動場硬式野球場](https://ja.wikipedia.org/wiki/静岡県草薙総合運動場硬式野球場 "wikilink")でキャンプを行うなど、静岡県とのつながりがあった。そこに静岡県出身の山下がドラフト1位で入団したため、ヘッドコーチの[秋山登](https://ja.wikipedia.org/wiki/秋山登 "wikilink")が「（静岡名産の）ミカンとお茶を題材にしたユニフォームは出来ないものか」とオーナーの[中部謙吉](https://ja.wikipedia.org/wiki/中部謙吉 "wikilink")に提案したところ、中部も「食品会社としてイメージアップにつながる」と了承。その結果、橙色と緑を使ったユニフォームが完成した。具体的なデザインは、[オークランド・アスレチックス](https://ja.wikipedia.org/wiki/オークランド・アスレチックス "wikilink")の当時のユニフォームを参考にしている。
+
+### 2001年と2005年の順位
+
+[セ・リーグでは](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")[2000年](../Page/2000年.md "wikilink")以前まで勝率順で順位を決定していたが\[192\]、[2001年](../Page/2001年.md "wikilink")は勝利数順で順位を決定する方法が採用された\[193\]。
+
+2001年、横浜は69勝67敗4分け、[広島は](https://ja.wikipedia.org/wiki/広島東洋カープ "wikilink")68勝65敗7分けでそれぞれシーズンを終えた。勝率は横浜.507、広島.511であり、前年までの順位決定方式なら広島が上位になっていたところだが、上述の通りこの年は「勝利数順」で順位を決めていたため、勝利数で広島を上回った横浜が3位となり、5年連続のAクラス入りを果たした。
+
+しかし、この順位決定方式は、シーズン途中では試合を早く消化したチームが上位になりやすく、実態が分かりづらいという理由から、わずか1年で順位決定方式が「勝利数順」から「勝率順」に戻された\[194\]。
+
+[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にも勝率順位と勝利数順位が異なる事態が起こったが、今度は勝率順で順位を決定する規定になっていたため、[ヤクルトよりも勝利数の少ない横浜が](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")（横浜**69勝**70敗7分け、ヤクルト**71勝**73敗2分け）、勝率でヤクルトを上回り（横浜の勝率は.496、ヤクルトの勝率は.493）、最終順位は横浜が3位、ヤクルトが4位となった。
+
+なお、セ・リーグでは[2002年](../Page/2002年.md "wikilink")以降、現在に至るまで勝率順で順位を決定している。
+
+### 地方球場での開催
+
+大洋時代は初代本拠地の下関のほか、春季キャンプを行っていた草薙球場を始め、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")、[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")などで、1980年代後半からは神奈川県内の[平塚球場](https://ja.wikipedia.org/wiki/平塚球場 "wikilink")（バッティングパレス相石スタジアムひらつか）や[相模原球場（サーティーフォー相模原球場）や北関東の](https://ja.wikipedia.org/wiki/相模原市立相模原球場 "wikilink")[宇都宮清原球場](https://ja.wikipedia.org/wiki/宇都宮清原球場 "wikilink")、[ひたちなか市民球場](https://ja.wikipedia.org/wiki/ひたちなか市民球場 "wikilink")でも開催したことがある。
+
+[2016年](../Page/2016年.md "wikilink")以降は地方開催を[新潟県立鳥屋野潟公園野球場](https://ja.wikipedia.org/wiki/新潟県立野球場 "wikilink")（HARD OFF ECOスタジアム新潟）での1試合のみに縮小し、沖縄や平塚・相模原など保護地域の神奈川県内での地方開催も中断している。2020年は新潟の他に前述の通り、[東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック "wikilink")/[パラリンピックで横浜スタジアムが使用できない都合による兼ね合いで](https://ja.wikipedia.org/wiki/2020年東京パラリンピック "wikilink")、東京ドーム、ZOZOマリンスタジアムでも開催が予定されている\[195\]。
+
+#### 沖縄で公式戦
+
+横浜時代の[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月29日・6月30日の2日間、同年全面改築が竣工した[那覇市営奥武山野球場](https://ja.wikipedia.org/wiki/那覇市営奥武山野球場 "wikilink")（沖縄セルラースタジアム那覇）で対[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")2連戦を主催開催した。大洋ホエールズ時代の[1975年](../Page/1975年.md "wikilink")5月17日・5月18日に改築前の県営奥武山野球場（当時）で対[広島東洋カープ](https://ja.wikipedia.org/wiki/広島東洋カープ "wikilink")2連戦を主催開催したが、[沖縄県](../Page/沖縄県.md "wikilink")ではこの試合以来35年ぶりのプロ野球公式戦となった。また、この2試合は沖縄県でのプロ野球一軍公式戦\[196\] としては史上初のナイター（19時開始）となった。それ以降も同球場では[2011年](../Page/2011年.md "wikilink")、[2012年](../Page/2012年.md "wikilink")、[2014年](../Page/2014年.md "wikilink")、[2015年](../Page/2015年.md "wikilink")に横浜／横浜DeNA主催による公式戦が毎年2試合組まれ、最低でも年1試合は開催された。
+
+[2013年](../Page/2013年.md "wikilink")は[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")が同球場で公式戦を開催したため沖縄遠征は行わなかったが、2014年は[巨人を帯同し](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")、2年ぶりに沖縄遠征を実施した。ただ、7月8日と7月9日の2連戦（平年より30分早い18時30分試合開始）での開催を予定していた。しかし、7月8日の試合については[平成26年台風第8号](https://ja.wikipedia.org/wiki/平成26年台風第8号 "wikilink")が最大級の勢力を保ったまま沖縄に直撃する恐れがあり試合の開催が困難であることと、観客の来場時の安全を考慮して、前日（7日）午後の段階で開催取りやめを発表した\[197\]。またこの影響で、当初沖縄遠征に参加する予定だった[ユリエスキ・グリエル](https://ja.wikipedia.org/wiki/ユリエスキ・グリエル "wikilink")は、台風による飛行機の揺れへの不安から参加を辞退したことも判明した。グリエルは飛行機恐怖症との診断を受け、球団と協議したうえで沖縄遠征への参加を見送ったとしている\[198\]。
+
+なお、ベイスターズ主催試合から撤退した2016年以降の沖縄での公式戦は[パ・リーグの球団が持ち回りで主催試合を行っている](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")。
+
+#### 新潟との関係
+
+[HARD OFF ECOスタジアム新潟では開業した](https://ja.wikipedia.org/wiki/新潟県立野球場 "wikilink")2009年から毎シーズン主催試合を開催している。DeNAへ親会社が代わった後は南場オーナーが[新潟出身という事もあり](../Page/新潟県.md "wikilink")、一時は、集客の見込める土曜・日曜の開催や対巨人戦の開催を行ったり、2016年には日本ハムを帯同して、同球場初となる[セ・パ交流戦](https://ja.wikipedia.org/wiki/セ・パ交流戦 "wikilink")を1試合行うなど、新潟への配慮は大きい。
+
+先述の通り2016年以降は地方開催を縮小しており、上記沖縄、並びに神奈川県内の平塚、相模原などでの一軍公式戦開催からは撤退したものの、新潟での開催は毎年平日1試合のみであるが唯一継続している。ただし2020年は上述の理由で、新潟では土日を含む3連戦が行われる\[199\]。
+
+他にも新潟に関連するイベントを開催しており、関係を継続している。
+
+  - 球団公認ファンクラブ**B☆Spirit Niigata**の創設\[200\]
+  - 新潟県の野球少年へ5周年ロゴ入り野球帽の贈呈\[201\]
+  - 「うまさぎっしり新潟」DAY in ハマスタBAYガーデンの開催\[202\]
+
+#### 下関開催の復活
+
+初代本拠地である下関市にある下関球場（現・オーヴィジョンスタジアム）においては[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")を最後として公式戦開催が途絶えており、将来的な公式戦の復活開催実現へ向けて同市が中心となって「下関プロ野球招致実行委員会」\[203\]を設立し、その手始めとして[2019年](../Page/2019年.md "wikilink")、当球団創設70周年を迎えるにあたっての記念試合として、[広島東洋カープ](https://ja.wikipedia.org/wiki/広島東洋カープ "wikilink")との[オープン戦](https://ja.wikipedia.org/wiki/オープン戦 "wikilink")を誘致、球団最初の試合日に合わせて同年[3月10日](../Page/3月10日.md "wikilink")にデーゲームで開催することを決めた。
+
+しかし、試合開始直前の降雨によりこのオープン戦の開催は中止となり、下関での記念試合は幻に終わった。この試合では1950年3月10日に行われた国鉄スワローズ戦で着用した初代ユニフォームを復刻して選手が着用する予定でもあった（この復刻版ユニフォームは[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")に横浜スタジアムで行われた北海道日本ハムファイターズ戦で改めて着用された）。将来的には公式戦開催を目指して取り組んでいる\[204\]が、[2020年](../Page/2020年.md "wikilink")は公式戦開幕が[東京オリンピックの関係により通常より早まるため](https://ja.wikipedia.org/wiki/2020年東京オリンピック "wikilink")、オープン戦は2019年12月の発表段階\[205\]では予定されていない。
+
+### アツいぜ\! チケット
+
+2012年5月1日から6日までの5戦で「全額返金\!?アツいぜ\!チケット」を1枚4000円・50席限定で販売した。このチケットは観客の満足度によって、試合内容が気に入らなければ勝ち・引き分けの場合は半額の2000円まで、負けた場合は全額の4000円を上限に返金するものであった。この企画の初日にあたる5月1日にチームが敗戦した際は全員が返金を要求。金額にして9割に及ぶ返金額となったが、勝利した試合でも半数以上の人間が返金を求め\[206\]、5試合での売上100万円のうち半数近い47万円が返金となってしまった。この結果に当時の監督・中畑清はショックを受け、「ひどい負け方をしたならともかく、最高のプレーをして『金返せ\!』じゃ選手のモチベーションを下げるだけ」とし、同じような企画を二度と実施しないように求めた\[207\]。
+
+なお、2012年度のレギュラーシーズン最終戦（10月8日・広島戦）において、「新・熱いぜ\!チケット」が企画・発売された。これは、内野SS席ペアチケット（通常2人分で1万1000円）に2000円分（1人1000円）を追加で負担すれば、2016年度までにDeNAがレギュラーシーズンで2位以上の成績を収め、[クライマックスシリーズ](https://ja.wikipedia.org/wiki/クライマックスシリーズ "wikilink")（CS）の主管権を確保した場合、その主管試合の内野指定席での観戦ができる権利を得るというものであったが、この期間中にCSに進出できなかったり、進出してもレギュラーシーズン3位で主管権を得られなかった場合、またはCSが廃止となって権利失効となった場合には、追加負担分は神奈川県のアマチュア野球の振興に役立てるという企画であった\[208\]。実際には2016年の3位が期間内のレギュラーシーズンでの最高順位であり、DeNAはCSを主催することはできなかったため、観戦権は成立せず、全額が神奈川県の野球振興の寄附金となった\[209\]。2019年にレギュラーシーズンで2位の成績を収め、CSの主管権を確保したことを受けて、球団は権利を特別に復活させた上でチケット購入者50組100人を同年10月5日のCSファーストステージ初戦に招待することとなった\[210\]。
+
+## キーワード
+
+### 明大五人衆
+
+[1956年](../Page/1956年.md "wikilink")に[明治大学](https://ja.wikipedia.org/wiki/明治大学 "wikilink")から[秋山登](https://ja.wikipedia.org/wiki/秋山登 "wikilink")、[土井淳](https://ja.wikipedia.org/wiki/土井淳 "wikilink")、[岩岡保宏](https://ja.wikipedia.org/wiki/岩岡保宏 "wikilink")、[黒木弘重](https://ja.wikipedia.org/wiki/黒木弘重 "wikilink")、[沖山光利](https://ja.wikipedia.org/wiki/沖山光利 "wikilink")の5名が入団。同一校の選手が同一球団へ同時に5名も入団するのは極めて珍しく、彼らは「**明大五人衆**」と呼ばれて注目を集めた。
+
+### スーパーカートリオ
+
+### マシンガン打線
+
+### ハマの大魔神
+
+### クアトロK
+
+### 横浜大洋銀行
+
+1980年代、横浜大洋ホエールズに対し、本拠地の横浜を主な営業エリアとする[横浜銀行](https://ja.wikipedia.org/wiki/横浜銀行 "wikilink")や当時存在した[太陽神戸銀行](https://ja.wikipedia.org/wiki/太陽神戸銀行 "wikilink")（現在の[三井住友銀行](../Page/三井住友銀行.md "wikilink")）をもじった**「横浜大洋銀行」**という呼び名が付けられていた\[211\]\[212\]。これは当時長年にわたって低迷し、毎年のように他球団に勝利を配給し続けてきた様を、勝敗数や勝率を預金や融資になぞらえて揶揄したもので、この不名誉な呼び名はいつしか定着してしまった。特に巨人ファンが「貯金をするなら横浜大洋銀行」へという合言葉とともに当球団を煽るなどしていたが\[213\]、そのほかにも巨人以外の球団のファンが大洋や大洋ファンを嘲る際のみならず、大洋ファンも自嘲の念を込めて使い、特に連敗が込んだ時やテレビでの露出機会が多い巨人戦の対戦成績が著しく悪いシーズンにはマスメディアでも頻繁に使われた\[214\]\[215\]。また、最近では、同じく相性の悪い阪神戦においても、この名称が使用されることがある\[216\]。一方で、その阪神とひっくるめて、セ・リーグで特に弱い球団として、「大洋神戸銀行」と揶揄することもあったという\[217\]。巨人戦で負けが続くと「\*\*銀行」と揶揄する事例も見られる（例として2014年に当時の監督の名前から「中畑銀行」と呼んだ見出し\[218\]）。
+
+1993年から球団名が横浜ベイスターズに改称されてからは「**横浜銀行**」と呼ばれるケースが多いものの\[219\]、実際には球団と同行の間には直接的な関係はなかったが、2014年8月に行われる「YOKOHAMA STAR☆NIGHT 2014 第1弾」に横浜銀行が初めて協賛することとなった\[220\]。詳細は[横浜銀行\#その他](https://ja.wikipedia.org/wiki/横浜銀行#その他 "wikilink")を参照のこと。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+### 人物（架空人物を含む）関連
+
+  - [横浜55年会](https://ja.wikipedia.org/wiki/横浜55年会 "wikilink")
+  - [大堀隆](https://ja.wikipedia.org/wiki/大堀隆 "wikilink")
+  - [池杉昭次郎](https://ja.wikipedia.org/wiki/池杉昭次郎 "wikilink")（かつての名物応援団長）
+  - [清岡千穂](https://ja.wikipedia.org/wiki/清岡千穂 "wikilink")（かつての応援歌作曲担当）
+  - [石橋貴明](https://ja.wikipedia.org/wiki/石橋貴明 "wikilink")（[とんねるず](../Page/とんねるず.md "wikilink")）（2005年 - 2006年頃まで球団のエグゼクティブ・アドバイザーを務めた）
+  - [みのもんた](https://ja.wikipedia.org/wiki/みのもんた "wikilink")（2007年、TBS内でのチーム応援団長）
+  - [萩本欽一](https://ja.wikipedia.org/wiki/萩本欽一 "wikilink")（2011年、萩本と球団の合同による「欽ちゃん\!\!横浜ベイスターズ応援プロジェクト」を展開）
+  - [スタジアムDJ](https://ja.wikipedia.org/wiki/スタジアムDJ "wikilink")
+      - [栗原治久](https://ja.wikipedia.org/wiki/栗原治久 "wikilink")
+      - [ケチャップ](https://ja.wikipedia.org/wiki/ケチャップ_\(タレント\) "wikilink")（2003年 - 2011年）
+      - [南隼人](https://ja.wikipedia.org/wiki/南隼人 "wikilink")（2012年 - 2015年）
+  - オフィシャルリポーター
+      - 長澤百代（2001年 - 2003年）
+      - [大矢陽子](https://ja.wikipedia.org/wiki/大矢陽子 "wikilink")（2003年 - 2006年）
+      - [吉岡さちこ](https://ja.wikipedia.org/wiki/吉岡さちこ "wikilink")（2006年 - 2009年）
+      - [芦崎愛](https://ja.wikipedia.org/wiki/芦崎愛 "wikilink")（2010年 - 2011年）
+  - [diana](https://ja.wikipedia.org/wiki/diana "wikilink")（球団の公式チアリーディングチーム、[TBSトライメディア](https://ja.wikipedia.org/wiki/TBSトライメディア "wikilink")が運営）
+
+### 漫画・アニメ・ドラマ・ゲーム関連
+
+野球中継番組については後述。
+
+  - 作品
+
+<!-- end list -->
+
+  - [ササキ様に願いを](https://ja.wikipedia.org/wiki/ササキ様に願いを "wikilink")：佐々木主浩を主人公とする漫画。
+
+<!-- end list -->
+
+  - 登場人物
+
+<!-- end list -->
+
+  - [左門豊作](https://ja.wikipedia.org/wiki/左門豊作 "wikilink") - 『[巨人の星](../Page/巨人の星.md "wikilink")』に登場する大洋の選手。1976年から1979年までの『新・巨人の星』では、最終章で球団名が横浜大洋となり、[大リーグボール](https://ja.wikipedia.org/wiki/大リーグボール "wikilink")右1号（蜃気楼魔球）を打った場所も横浜スタジアムであり、飛雄馬と初めて会った場所も横浜である。
+  - [土門剛介](https://ja.wikipedia.org/wiki/土門剛介 "wikilink") - 『[ドカベン](https://ja.wikipedia.org/wiki/ドカベン "wikilink")』
+  - [海王神人](https://ja.wikipedia.org/wiki/野球狂の詩#他球団のライバル "wikilink") - 『[野球狂の詩](https://ja.wikipedia.org/wiki/野球狂の詩 "wikilink")』
+  - [橘英雄](https://ja.wikipedia.org/wiki/H2の登場人物#主要人物 "wikilink") - 『[H2](https://ja.wikipedia.org/wiki/H2〜君といた日々 "wikilink")』。ドラマ版では横浜を経由し、[MLBへ進んだ](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。ちなみに、ドラマ版の制作局は当時の親会社・TBSである。
+  - パウラ・ドード - 『[ミラクルジャイアンツ童夢くん](https://ja.wikipedia.org/wiki/ミラクルジャイアンツ童夢くん "wikilink")』に登場する大洋の選手。
+
+### 記録関連
+
+  - [1960年の日本シリーズ](https://ja.wikipedia.org/wiki/1960年の日本シリーズ "wikilink")
+  - [1998年の日本シリーズ](https://ja.wikipedia.org/wiki/1998年の日本シリーズ "wikilink")
+  - [2017年の日本シリーズ](https://ja.wikipedia.org/wiki/2017年の日本シリーズ "wikilink")
+
+### 試合関連
+
+  - [横浜DeNAベイスターズ主催試合の地方球場一覧](https://ja.wikipedia.org/wiki/横浜DeNAベイスターズ主催試合の地方球場一覧 "wikilink")
+
+### 放送・新聞関連
+
+  - [プロ野球中継](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")
+  - [放映権 (日本プロ野球)\#横浜DeNAベイスターズ](https://ja.wikipedia.org/wiki/放映権_\(日本プロ野球\)#横浜DeNAベイスターズ "wikilink")
+  - [TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")・[BS-TBS](https://ja.wikipedia.org/wiki/BS-TBS "wikilink")・[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ "wikilink")・[東通](https://ja.wikipedia.org/wiki/東通 "wikilink")・[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")（2013年まで）・[TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")（2014年 - ）
+      - [ハマスタWAVE](https://ja.wikipedia.org/wiki/ハマスタWAVE "wikilink")（TBS経営時代のインターネット中継）
+      - [ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")（2012年以降、DeNA売却後のインターネット中継。映像はTBSから配信され、実況は独自）
+      - [SAMURAI BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")（2008年から2013年までは[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")で、2014年からは[TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")にて完全放送中。TBS地上波で放送がない場合はtvkで放送される場合もある。当初tvk向けは外部所属のフリーアナウンサーの実況による同時放送だったが、2011年から独自実況になり、2012年以降はテロップも独自に）
+      - 教えて\!EA（2005年 シーズン（4月上旬～9月下旬）中にのみ毎週日曜日の17時25分にTBS地上波で放送されていた。同年就任の[牛島和彦](https://ja.wikipedia.org/wiki/牛島和彦 "wikilink")監督に同学年の高校球児として憧れていた[石橋貴明](https://ja.wikipedia.org/wiki/石橋貴明 "wikilink")（[とんねるず](../Page/とんねるず.md "wikilink")）がエグゼクティブ・アドバイザー（EA）を務めた。）
+      - お願い\!EA（2006年 シーズン（4月上旬～9月下旬）中にのみ毎週日曜日の17時25分にTBS地上波で放送されていた。）
+      - [move on ベイスターズ](http://www.tbs.co.jp/sports/baseball/moveon/)（2008年 シーズン（4月上旬～9月下旬）中にのみ毎週日曜日の早朝にTBS地上波で放送されていた。）
+      - [Love BayStars](https://ja.wikipedia.org/wiki/Love_BayStars "wikilink")（2009年 - 2011年 シーズン（4月上旬～9月下旬）中にのみ毎週日曜日の早朝にTBS地上波で放送されていた）
+      - [Oh\!ベイスターズ](http://www.tbs.co.jp/program/oh-bay-stars.html#midokoro)（2012年 - シーズン（4月上旬～9月下旬）中にのみ毎週日曜日の早朝（2012年）、金曜日の深夜（2013年以降）にTBS地上波で放送。なお2013年以降タイトルには西暦が入る。）
+      - [TBSラジオ エキサイトベースボール](https://ja.wikipedia.org/wiki/TBSラジオ_エキサイトベースボール "wikilink")（1978年以降主催ゲームを中継できなかったが、1993年 - 2001年は、ヤクルトと巨人が対戦している際の裏カードのみ対広島戦を[RCCに](https://ja.wikipedia.org/wiki/中国放送 "wikilink")、対中日戦を[CBCに](https://ja.wikipedia.org/wiki/CBCラジオ "wikilink")、対阪神戦を[ABC](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")・[MBSにネットしないという条件付で中継可能となり](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")〔前記各局にはCBCも含めて[LFが](https://ja.wikipedia.org/wiki/ニッポン放送 "wikilink")[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")したが、RCCの土・日曜は[QRの場合もあり](https://ja.wikipedia.org/wiki/文化放送 "wikilink")〕、2002年から裏送りも含め再度完全に可能となった。また、2002年は日曜デーゲームを中継し、「ベースボールベイスターズ」のタイトルで放送。2004年から2006年まではナイターでも「ベイスターマン」と称したチーム担当レポーターを配していた。）
+      - [アッコにおまかせ\!](https://ja.wikipedia.org/wiki/アッコにおまかせ! "wikilink")（2002年 - 2006年 「横浜ベイスターズ応援プロジェクト」コーナー）
+      - [MLB主義](https://ja.wikipedia.org/wiki/MLB主義 "wikilink")（2004年 - 2006年「ベイスターズ主義」コーナー）
+      - [みのもんたの朝ズバッ\!](https://ja.wikipedia.org/wiki/みのもんたの朝ズバッ! "wikilink")（2009年 - 2013年　毎週火曜に「週刊みのVP」を選出）
+  - [ニッポン放送](https://ja.wikipedia.org/wiki/ニッポン放送 "wikilink")
+      - [ニッポン放送ショウアップナイター](https://ja.wikipedia.org/wiki/ニッポン放送ショウアップナイター "wikilink")（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に横浜大洋主催試合の独占放送権を取得し、[2002年](../Page/2002年.md "wikilink")の筆頭株主交代までヤクルト主催試合と共に中継の目玉であった）。現在も、対巨人戦のNRN全国中継を中心に試合を放送することがある。
+      - [ヒーローインタビュー](https://ja.wikipedia.org/wiki/ヒーローインタビュー_\(映画\) "wikilink")（映画）
+  - [文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")
+      - [文化放送ホームランナイター](https://ja.wikipedia.org/wiki/文化放送ホームランナイター "wikilink")（土曜に放送されるが、主催試合は対巨人戦を除き自社で放送されることは少なく、系列局向けの裏送り（主に2001年までと2012年の対広島戦のRCC）や技術協力の場合が多かった。2011年以降は巨人主催試合の週末デーゲーム増加により、年数試合程度が自社でも放送されている）
+      - [文化放送ライオンズナイター](https://ja.wikipedia.org/wiki/文化放送ライオンズナイター "wikilink")（平日の交流戦・横浜DeNA対[西武戦で中継](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")）
+  - [J SPORTS](https://ja.wikipedia.org/wiki/J_SPORTS "wikilink")
+      - [J SPORTS STADIUM](https://ja.wikipedia.org/wiki/J_SPORTS_STADIUM "wikilink")（1998年から2007年まで放送。[ジュピターテレコム](https://ja.wikipedia.org/wiki/ジュピターテレコム "wikilink")（J:COM）・[フジテレビなどが主要株主](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（2005年[スポーツ・アイ ESPN合併後はTBSもわずかながら出資](https://ja.wikipedia.org/wiki/スポーツ・アイ_ESPN "wikilink")）だが、ベイスターズがTBS傘下に入ってからも引き続き放送された。TBS傘下入り後はTBSのアナウンサー・解説者の出演が多かった他、TBSのアナウンサーと大洋・横浜OBのフジテレビ・tvkの解説者の組み合わせとなる場合もあった）
+  - [神奈川新聞](https://ja.wikipedia.org/wiki/神奈川新聞 "wikilink")
+  - [tvk](https://ja.wikipedia.org/wiki/テレビ神奈川 "wikilink")
+      - [tvkプロ野球中継 横浜DeNAベイスターズ熱烈LIVE](https://ja.wikipedia.org/wiki/tvkプロ野球中継_横浜DeNAベイスターズ熱烈LIVE "wikilink")
+      - [ベイスターズくらぶ](https://ja.wikipedia.org/wiki/ベイスターズくらぶ "wikilink")
+  - [イッツ・コミュニケーションズ](https://ja.wikipedia.org/wiki/イッツ・コミュニケーションズ "wikilink")・[横浜ケーブルビジョン](https://ja.wikipedia.org/wiki/横浜ケーブルビジョン "wikilink")・[YOUテレビ](https://ja.wikipedia.org/wiki/YOUテレビ "wikilink")・ジュピターテレコム（J:COM）
+      - move on ベイスターズ\!（2007年 イッツ・コミュニケーションズと横浜ケーブルビジョンで、横浜スタジアムでのナイター試合開始直前の平日17：30 - 17：45に生放送された番組）
+      - [今日から！ベイスターズ](http://www.itscom.net/ch/program/%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%EF%BC%81%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA)（地元少年野球チームが出演してベイスターズ選手との交流を描く）
+  - [月刊ベイスターズ](https://ja.wikipedia.org/wiki/月刊ベイスターズ "wikilink")
+  - 『[ダグアウトの向こう －今を生きるということ。](https://ja.wikipedia.org/wiki/ダグアウトの向こう "wikilink")』（プロ野球球団として、初の試みである球団公式ドキュメンタリー映画であり、[2012年](../Page/2012年.md "wikilink")から、毎年公開している）
+
+### 本拠地の所在地である横浜市及び神奈川県関連
+
+  - [横浜熱闘倶楽部](https://ja.wikipedia.org/wiki/横浜熱闘倶楽部 "wikilink")
+      - [横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")
+      - [横浜FC](../Page/横浜FC.md "wikilink")
+      - [横浜ビー・コルセアーズ](https://ja.wikipedia.org/wiki/横浜ビー・コルセアーズ "wikilink")
+  - [ベイスターズ・ベースボールアカデミー](https://ja.wikipedia.org/wiki/ベイスターズ・ベースボールアカデミー "wikilink")
+  - [日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")
+  - [神奈川大学](https://ja.wikipedia.org/wiki/神奈川大学 "wikilink")
+  - [産業能率大学](https://ja.wikipedia.org/wiki/産業能率大学 "wikilink")
+  - [ベイスターズ横浜会](https://ja.wikipedia.org/wiki/横浜商工会議所#ベイスターズ横浜会 "wikilink")
+  - [横浜シミズ](https://ja.wikipedia.org/wiki/シミズオクト "wikilink")（主催ゲームで、球場と折半で運営業務・施設管理を委託している）
+  - [京浜急行電鉄](../Page/京浜急行電鉄.md "wikilink")（大々的に宣伝している）
+  - [横浜フリューゲルス](../Page/横浜フリューゲルス.md "wikilink")
+  - [川崎ブレイブサンダース](https://ja.wikipedia.org/wiki/川崎ブレイブサンダース "wikilink")（2018-19シーズンよりDeNAが親会社）
+
+### 応援団関連
+
+  - [全国星覇会](https://ja.wikipedia.org/wiki/横浜DeNAベイスターズの応援団#全国星覇会 "wikilink")
+  - [横浜ベイスターズを愛する会](https://ja.wikipedia.org/wiki/横浜DeNAベイスターズの応援団#横浜ベイスターズを愛する会 "wikilink")（横浜・北海道・関西・九州）
+
+## 外部リンク
+
+  -
+  -
+  -
+  -
+[Category:横浜DeNAベイスターズ](https://ja.wikipedia.org/wiki/Category:横浜DeNAベイスターズ "wikilink") [Category:横浜市中区の企業](https://ja.wikipedia.org/wiki/Category:横浜市中区の企業 "wikilink") [Category:1950年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1950年設立のスポーツチーム "wikilink") [Category:1953年設立の企業](https://ja.wikipedia.org/wiki/Category:1953年設立の企業 "wikilink") [Category:ディー・エヌ・エー](https://ja.wikipedia.org/wiki/Category:ディー・エヌ・エー "wikilink") [Category:マルハニチログループの歴史](https://ja.wikipedia.org/wiki/Category:マルハニチログループの歴史 "wikilink")
+
+1.  [2000年](../Page/2000年.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")までは、二軍の独立採算化と、長嶋茂雄差別化を目的に、二軍独自の球団名として「**湘南シーレックス**」という名称が使用されていた。[2011年](../Page/2011年.md "wikilink")からは再び一軍と同じ球団名となっている。
+2.  『東京日日新聞』1930年7月28日付。
+3.
+4.
+5.  中部兼市は1947年8月から1950年11月まで次男の謙吉副社長とともに[公職追放](https://ja.wikipedia.org/wiki/公職追放 "wikilink")され、長男の謙吉が社長を務めていたが、実質は兼市が経営を掌握しており、プロ球団化も彼の意向によるものであった。
+6.
+7.
+8.  [日本プロ野球記録・1952年大洋ホエールズ](http://2689web.com/1952/whales.html)
+9.  具体的に「解散」などの処罰内容を決めていたわけではなかったが、下位球団を整理する意図は背景に存在した。
+10. 球団史では傍系扱いとなり、
+    大東京軍（社名：大日本野球連盟・東京協会、経営：[國民新聞社](https://ja.wikipedia.org/wiki/國民新聞社 "wikilink")・1936年 - 1937年）
+    →ライオン軍（経営：[共同印刷](https://ja.wikipedia.org/wiki/共同印刷 "wikilink")→[田村駒商店](https://ja.wikipedia.org/wiki/田村駒商店 "wikilink")、スポンサー：[ライオン歯磨本舗](https://ja.wikipedia.org/wiki/ライオン_\(企業\) "wikilink")・1937年-1940年）
+    →朝日軍（社名：朝日野球倶楽部・1941年 - 1945年）
+    →パシフィック（1946年）
+    →太陽ロビンス（スポンサー：[太陽レーヨン](https://ja.wikipedia.org/wiki/帝国繊維 "wikilink")・1947年）
+    →大陽ロビンス（1948年 - 1949年）
+    →松竹ロビンス（スポンサー：[松竹](https://ja.wikipedia.org/wiki/松竹 "wikilink")・1950年 - 1952年）
+    の球団史や結成年度・優勝回数・その他記録は一切カウントされない。このため、本球団は初代セ・リーグ優勝球団の後身でありながら「初代セ・リーグ優勝チーム」と名乗ることができなくなっている。
+11. このほかに[第3セクター](https://ja.wikipedia.org/wiki/第3セクター "wikilink")である（株）横浜スタジアムとの間に契約を交わし、20年契約で入場料収入の29%、シーズン席の収入の30%と販売経費を球団から球場へ払い、球場内広告に対して5,000万円、物販協力金として350万円を球場から球団へ支払うというものだった。1978年（初年度）の横浜スタジアムは広告収入5億3,300万円、物販収入9億2000万円。1993年は、球場収入13億9200万円、広告収入13億9,300万円、物販収入15億6500万円で、経常利益は13億9600億円、資産は現金・預金・有価証券で64億3800万円であった。この契約は現在も延長されていると思われる。
+12. 横浜大洋友の会。球団営業部主導の横浜ベイスターズ全国ファンクラブ→B☆SPIRITとは別組織。友の会はのちに横浜ベイスターズ友の会→横浜DeNAベイスターズ友の会と名称を変更し、2013年にはB☆SPIRITと統合し「B☆SPIRIT友の会」となった。
+13. 【セ・パ誕生70年記念特別企画】よみがえる1980年代のプロ野球 Part.2 \[1986年編\] (週刊ベースボール別冊冬桜号)[ベースボール・マガジン社](https://ja.wikipedia.org/wiki/ベースボール・マガジン社 "wikilink")、2019年、85頁
+14. [スポーツニッポン](https://ja.wikipedia.org/wiki/スポーツニッポン "wikilink")、古葉竹識の我が道、2016年11月28日
+15. 日刊スポーツ　1989年10月24日7版
+16. 『[神奈川新聞](https://ja.wikipedia.org/wiki/神奈川新聞 "wikilink")』1991年12月26日B版第一社会面23頁「大洋・中山投手が“暴投” 金沢区で2少女にいたずら 県警逮捕 婚約中、練習帰りに 張り込み、ベンツで出没」
+17. 『神奈川新聞』1992年1月8日B版第一スポーツ面31頁「横浜大洋 中山投手を『解雇』 監督戒告、社長ら減俸」
+18. 『[中日新聞](https://ja.wikipedia.org/wiki/中日新聞 "wikilink")』1992年1月8日朝刊第一スポーツ面23頁「解説／ 中山投手解雇 『失格』避け復帰に細道 更生が条件 厳しさの中に温情も」（記者：[会田豊彦](https://ja.wikipedia.org/wiki/会田豊彦 "wikilink")）
+19. 『神奈川新聞』1993年12月28日A版第一スポーツ面17頁「中山元投手が再出発 中日で二軍打撃投手に」
+20. 翌年訪米した[宮澤喜一](https://ja.wikipedia.org/wiki/宮澤喜一 "wikilink")[首相](../Page/首相.md "wikilink")が、捕鯨の規制強化を求める[ビル・クリントン](https://ja.wikipedia.org/wiki/ビル・クリントン "wikilink")[大統領に対して](../Page/アメリカ合衆国大統領.md "wikilink")「かつての日本の商業捕鯨の中心だった大洋漁業も**ホエールズ**という球団名を捨てました」と、この大洋の球団名変更を話の種にしていたエピソードがある。
+21. 37年間リーグ優勝ができなかったのは日本球界最長記録である。
+22. 首位で全日程を終えるのも1964年以来34年ぶり。同年は全日程終了後阪神に逆転され優勝を逃したのでくしくもその雪辱を果たす格好となった。
+23. [ベースボールマガジン](https://ja.wikipedia.org/wiki/ベースボールマガジン "wikilink")2009年3月号、91頁
+24. 2003年に[ダイエーの](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink").297に抜かれ、現在はセ・リーグ記録。
+25. 川村を最後に、15勝以上挙げた投手が途絶えている（2017年シーズン終了時点）。
+26.
+27. TBSの略称は、2009年4月の東京放送ホールディングスへの社名変更に伴い、子会社の[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")に引き継がれた。
+28. 東京放送がスポーツ団体の経営をするのは[国際プロレス](https://ja.wikipedia.org/wiki/国際プロレス "wikilink")以来である。
+29. この年は全日程最下位でシーズンを終えた。セ・リーグ全日程最下位は65年サンケイ、1980年中日、1985年ヤクルト、1991年阪神に次いで5度目。横浜は12球団で唯一サヨナラ勝ちがなく、サヨナラ試合は0勝6敗。セ・リーグでサヨナラ勝ちなしは1978年広島以来24年ぶり。また球団ワーストタイ目前となる13連敗も喫している。
+30. 選手の打率（内川の.378）が99年の[ロバート・ローズ](https://ja.wikipedia.org/wiki/ロバート・ローズ "wikilink")がもっていた右打者シーズン最高打率.369を塗り替えたのと同時にチーム勝率（.338）を上回るという2リーグ分裂後では初となる珍記録も記録された。
+31. 厳密には中日が.31623、北海道日本ハムが.31573だったのに対し、チームの出塁率は.31552の為12球団ワーストである。
+32. [2009年度セントラル・リーグ　チーム投手成績](http://npb.jp/bis/2009/stats/tmp_c.html)
+33. [2009年度セントラル・リーグ　チーム打撃成績](http://npb.jp/bis/2009/stats/tmb_c.html)
+34. [横浜ベイスターズ売却を打診 TBS、住生活G軸に](http://www.asahi.com/business/update/0930/TKY201009300525.html)朝日新聞2010年10月1日
+35. [ベイ売却、来週にも「横浜残留」で住生活グループと合意へ](http://news.kanaloco.jp/localnews/article/1010050010/) [神奈川新聞](https://ja.wikipedia.org/wiki/神奈川新聞 "wikilink")2010年10月5日
+36. TBSテレビの会見にて財津敬三社長は、[交渉打ち切りについて「私どもが決断した。あちらも言いたいことがあるだろうけど」と説明](http://news.kanaloco.jp/localnews/article/1010280012/) カナロコ(神奈川新聞) 2010年10月28日閲覧。
+37.
+38. [横浜ベイスターズ：TBS、住生活ともに交渉の破談認める](http://mainichi.jp/select/today/news/20101028k0000m050007000c.html) 毎日.jp 2010年10月27日
+39.
+40. [住生活G会長「ゼロから出発したかった」](http://www.yomiuri.co.jp/atmoney/enterprises/manda/20101028-OYT8T00784.htm) 読売新聞 2010年10月28日
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55. 近年プロ野球チームを短期保有した会社においても、西鉄ライオンズを3年連続最下位から引き継いだ太平洋クラブは4年間で4位、4位、3位、最下位、これを継いだクラウンライターも2年間で最下位、5位、直近で5位、5位、4位だった東映フライヤーズを1年間だけ引き継いだ日拓も5位と、東京放送ホールディングスよりは遥かに良い数字を残している
+56.
+57.
+58.
+59.
+60.
+61.
+62. 東京ドーム9敗1分、鹿児島1敗、宇都宮1分け。
+63. [中畑監督 屈辱の東京ドーム0勝「記録と負けっぷりを忘れない」](http://www.sponichi.co.jp/baseball/news/2012/10/08/kiji/K20121008004280450.html) スポーツニッポン 2012年10月8日
+64.
+65.
+66. [古巣ベイ復帰の多村「正直驚いています」2012.11.5 21:22サンケイスポーツ](http://www.sanspo.com/baseball/news/20121105/haw12110521230002-n1.html)
+67.
+68. [がら空き三塁へ…DeNA・加賀美が痛恨エラー 2013.9.25 05:00サンケイスポーツ](http://www.sanspo.com/baseball/news/20130925/den13092505000000-n1.html)
+69.
+70. [【DeNA】12年ぶり3球団に勝ち越し\!](http://hochi.yomiuri.co.jp/baseball/npb/news/20131005-OHT1T00198.htm?from=sns) スポーツ報知2013年10月5日配信
+71.
+72.
+73.
+74.
+75.
+76.
+77.
+78.
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+87.
+88.
+89.
+90.
+91.
+92. [ＤｅＮＡ３位浮上！ドラ１浜口が新人トップ３勝「これをきっかけに」](http://www.sponichi.co.jp/baseball/news/2017/05/31/kiji/20170530s00001173251000c.html) - スポニチアネックス、2017年5月31日
+93. [DeNAが3戦連続サヨナラ勝ち！球団57年ぶり、同一カードでは初の快挙（2017年8月25日・SANSPO.COM）](http://www.sanspo.com/baseball/news/20170825/den17082505070001-n1.html)
+94. [ＤｅＮＡ２年連続ＣＳ進出！乱打戦制し３位確定](https://www.nikkansports.com/baseball/news/201710010000585.html) - 日刊スポーツ、2017年10月1日
+95. [DeNA、6連勝で首位浮上\!](http://www.sanspo.com/baseball/news/20180413/den18041321310005-n1.html) - サンスポ、4月13日閲覧
+96. 平成19年（2007年）から平成30年（2018年）までの平成のクライマックスシリーズを開催しなかった球場は旧[広島市民球場](https://ja.wikipedia.org/wiki/広島市民球場 "wikilink")（平成20年（2008年）までの広島東洋カープの球場。）と横浜スタジアム。
+97.
+98. [DeNAラミレス監督が日本国籍取得 日本人で開幕（2019年1月24日・日刊スポーツ）](https://www.nikkansports.com/baseball/news/201901240000174.html)
+99.
+100.
+101.
+102.
+103. [シングルA](https://ja.wikipedia.org/wiki/マイナーリーグ "wikilink") [ケーンカウンティ・クーガーズ](https://ja.wikipedia.org/wiki/ケーンカウンティ・クーガーズ "wikilink")投手コーチ。
+104. アリゾナ・ダイヤモンドバックス フィールドコーディネーター兼ダブルA [ジャクソン・ジェネラルズ](https://ja.wikipedia.org/wiki/ジャクソン・ジェネラルズ "wikilink")監督。
+105.
+106.
+107. 「広島東洋カープ」の「東洋」は球団の筆頭株主である[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")の旧社名・東洋工業に由来する。
+108.
+109. 、
+110. [共同通信プロ野球速報](http://www.47news.jp/sports/baseball/baseball_headline.html)（[47NEWS](https://ja.wikipedia.org/wiki/47NEWS "wikilink")）
+111. [プロ野球 日程&結果](http://www.nikkansports.com/baseball/professional/schedule/top-schedule.html)（nikkansports.com）
+112.
+113. ただ、あまりにもずんぐりした体型のおかげで、転ぶと自力で立ち上がれなくなることが多々ある。
+114.
+115. [DB.ライダー 球団公認キャラクターとしての活動終了のお知らせ](http://sp.baystars.co.jp/news/2016/04/0406_03.php) - 横浜DeNAベイスターズ公式サイト、2016年4月6日
+116. [横浜移転時に誕生したマスコットキャラクター“マリンくん”が限定復刻](https://www.baystars.co.jp/news/2016/02/0205_03.php)
+117. [DeNA、マスコットキャラクターの“マリンくん”を限定復刻へ](http://full-count.jp/2016/02/05/post25399/)
+118. [【ＤｅＮＡ】大洋時代の「マリンくん」復刻！球団５周年で“再登板”](http://www.hochi.co.jp/baseball/npb/20160131-OHT1T50047.html) スポーツ報知、2016年1月31日
+119.
+120.
+121.
+122. ただしマフラータオルも引き続き販売されている。
+123. 俗に1-9と呼ばれる、当日のスタメン選手の応援歌をメドレー形式で演奏するもので、スタメン発表時や試合勝利後に行われる。
+124. 2000年頃以降に製作された楽曲は、製作者（作曲・作詞・編曲など）や曲調などが従来までと異なり、球場での演奏に不適なものが多くなったため、応援団側がこれらの使用を拒んだことも要因にある。
+125. 例として[金城龍彦](https://ja.wikipedia.org/wiki/金城龍彦 "wikilink")（[市川和正](https://ja.wikipedia.org/wiki/市川和正 "wikilink")より流用）、[村田修一](https://ja.wikipedia.org/wiki/村田修一 "wikilink")（大洋時代の[谷繁元信](https://ja.wikipedia.org/wiki/谷繁元信 "wikilink")より流用）、[内川聖一](https://ja.wikipedia.org/wiki/内川聖一 "wikilink")（[高木豊](https://ja.wikipedia.org/wiki/高木豊 "wikilink")より流用）、[内藤雄太](https://ja.wikipedia.org/wiki/内藤雄太 "wikilink")（[駒田徳広](https://ja.wikipedia.org/wiki/駒田徳広 "wikilink")より流用）など
+126. 横浜市[ポイ捨て](https://ja.wikipedia.org/wiki/ポイ捨て "wikilink")・喫煙禁止条例に違反することや、球場すぐ近隣を走行する[JR](../Page/東日本旅客鉄道.md "wikilink")[京浜東北](https://ja.wikipedia.org/wiki/京浜東北線 "wikilink")・[根岸線](https://ja.wikipedia.org/wiki/根岸線 "wikilink")の架線に引っ掛かり、電車の運行を妨害する危険があるため。
+127.
+128. かつて在籍した[デーブ・ドスター](https://ja.wikipedia.org/wiki/デーブ・ドスター "wikilink")のCD収録版応援歌のメロディを流用したもので、歌詞は新規。ドスター在籍時には実際に演奏されることはなかった。
+129. 球団の二軍を専門に応援する団体であった。
+130. 横浜ベイスターズ記録サイトあと何?大洋ホエールズ60年全試合http://www.kernelsupport.co.jp/atonan/nenndobetuseiseki/zen60nen.htm
+131. [1960年のシリーズは](https://ja.wikipedia.org/wiki/1960年の日本シリーズ "wikilink")4勝無敗で日本一、[1998年のシリーズでは第](https://ja.wikipedia.org/wiki/1998年の日本シリーズ "wikilink")3戦と第4戦で黒星を喫したが、いずれも[西武球場だった](../Page/西武ドーム.md "wikilink")。
+132. パ・リーグでは[オリックス・バファローズ](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")がファイナルステージ進出およびCS突破を経験したことがない。
+133. [“常識破り”の球団改革 ～密着・DeNAベイスターズ～](http://www.nhk.or.jp/gendai/articles/3670/index.html) 2017年2月17日閲覧。
+134. 牛島和彦監督（当時）がテレビ番組で頼み込んでの就任
+135. 株式会社ディー・エヌ・エー2013年3月期以降の有価証券報告書【企業の概況】4【関係会社の状況】参照
+136. 「横浜ベイスターズ株の譲渡完了　ＴＢＳからＤｅＮＡ」[日本経済新聞](https://ja.wikipedia.org/wiki/日本経済新聞 "wikilink")12月2日付　[1](http://www.nikkei.com/article/DGXNASDD020JL_S1A201C1TJ1000/) 2017年1月29日閲覧
+137. 株式会社ディー・エヌ・エー2012年3月期の有価証券報告書記載内容には日本経済新聞12月2日付記事の記載通り持株比率が66.9%と記載されているので、少なくとも2013年3月までにディー・エヌ・エーは第二位株主だった[ニッポン放送](https://ja.wikipedia.org/wiki/ニッポン放送 "wikilink")より30.79%を取得し、買い増している。
+138. 2000年代後半頃、番組名が[tvkプロ野球中継 横浜DeNAベイスターズ熱烈LIVEであっても](https://ja.wikipedia.org/wiki/tvkプロ野球中継_横浜DeNAベイスターズ熱烈LIVE "wikilink")、TBSテレビでの地上波中継の無い主催試合の場合、テレビ神奈川制作の中継ではなく、BS-TBS・TBSニュースバードの[BANG BANG BASEBALLを購入して同時放送を行う傾向にあった](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")。
+139. ただし完全移行は2014年6月からで、4・5月はTBSチャンネル2が視聴できない[ケーブルテレビ局](https://ja.wikipedia.org/wiki/ケーブルテレビ局 "wikilink")への配慮を含めた視聴者保護と、円滑なチャンネル移行が行えるようにするための経過処置として、TBSテレビ・[BS-TBS](https://ja.wikipedia.org/wiki/BS-TBS "wikilink")での放送がない16試合を対象に、ニュースバードとTBSチャンネル2の並列放送を実施した。
+140. [お知らせ](http://www.tbs.co.jp/tbs-ch/oshirase/201312091043.html) TBSチャンネル公式サイト（2014年3月13日閲覧）・[プロ野球中継に関するプレスリリース CS放送「TBSニュースバード」と「TBSチャンネル2」で4月・5月の横浜DeNAベイスターズ主催16試合を同時完全生中継決定](http://www.tbs.co.jp/newsbird/nb_baseball_release.pdf) TBSテレビ 2014年3月14日。9月6日閲覧
+141. 他に[フジ・メディア・ホールディングス](https://ja.wikipedia.org/wiki/フジ・メディア・ホールディングス "wikilink")の主要株主であり、ニッポン放送とともにNRN基幹局を務めるラジオ局でもある[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")の[文化放送ライオンズナイター](https://ja.wikipedia.org/wiki/文化放送ライオンズナイター "wikilink")、[文化放送ホームランナイター](https://ja.wikipedia.org/wiki/文化放送ホームランナイター "wikilink")、同社が技術協力する[NACK5 SATURDAY\&SUNDAY LIONS](https://ja.wikipedia.org/wiki/NACK5_SATURDAY&SUNDAY_LIONS "wikilink")（[NACK5](https://ja.wikipedia.org/wiki/エフエムナックファイブ "wikilink")）、[RFラジオ日本の](https://ja.wikipedia.org/wiki/アール・エフ・ラジオ日本 "wikilink")[ラジオ日本ジャイアンツナイター](https://ja.wikipedia.org/wiki/ラジオ日本ジャイアンツナイター "wikilink")で主催試合を中継する場合があった。
+142. 2015年5月までは無料。以降は試合の3回終了まで無料、4回以降の視聴は有料チャンネル入会要。[横浜DeNAベイスターズ SHOWROOM PASS](https://www.showroom-live.com/campaign/baystars)
+143.
+144.
+145. [綱島理友](https://ja.wikipedia.org/wiki/綱島理友 "wikilink")『日本プロ野球ユニフォーム大図鑑 中』[ベースボール・マガジン社](https://ja.wikipedia.org/wiki/ベースボール・マガジン社 "wikilink")、2013年、26頁。
+146. 綱島、28頁。
+147. 綱島、35頁。
+148. [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[ワシントン・ナショナルズ](https://ja.wikipedia.org/wiki/ワシントン・ナショナルズ "wikilink")の帽子として復活した。
+149. 綱島、40 - 41頁。
+150.
+151. ビジター用のユニフォームはスリムなデザインが受けて全国の草野球チームでこれを模倣したユニフォームが使われるほどであった。
+152. ブルーアズール=藍青色
+153.
+154.
+155.
+156.
+157.
+158.
+159. 当時使用された楽天の交流戦ユニフォーム（ホーム用）とよく似ている。
+160. 2008年は[夏季オリンピック北京大会開催のため](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")8月の主催ゲームが8カード21試合中13試合と少ないため、夏季限定ユニフォームの着用はなく、2009年も登場していない。
+161.
+162. [【プロ野球】セ・リーグ6球団が復刻版ユニフォームで対戦 産経新聞 2010年7月25日](http://sankei.jp.msn.com/sports/baseball/100725/bbl1007251828013-n1.htm)
+163. 復刻ユニフォームには「ノジマ」や「リスト」の広告が入る。
+164. 当初は6月16日予定だったが雨天中止のためこの日に振替となった。
+165.
+166.
+167.
+168. 2010年の「オールドユニホームシリーズ」では広告を右袖に掲示。
+169. 川崎球場は大洋が本拠地とした当初、1954年に参入した[高橋ユニオンズ](https://ja.wikipedia.org/wiki/高橋ユニオンズ "wikilink")（1955年はトンボユニオンズ）も本拠地としていた。そのため大洋の川崎移転初年の1955年と高橋が消滅した翌1956年の2年間は大洋と高橋が川崎球場を掛け持ちしていた。
+170.
+171. 日付はシーズン途中で就任した場合のみ記載。
+172. 日付はシーズン途中で退任した場合のみ記載（休養は含まない）。その他は原則として年度末退任。
+173. 1972年8月30日まで指揮、残り試合は[青田昇](https://ja.wikipedia.org/wiki/青田昇 "wikilink")と[宮崎剛が代行](https://ja.wikipedia.org/wiki/宮崎剛_\(野球\) "wikilink")。
+174. 1981年9月24日まで指揮、残り試合は[山根俊英](https://ja.wikipedia.org/wiki/山根俊英 "wikilink")が代行。
+175. 2002年9月25日まで指揮、残り試合は[黒江透修](https://ja.wikipedia.org/wiki/黒江透修 "wikilink")が代行。
+176. 2009年5月17日まで指揮、残り試合は[田代富雄](https://ja.wikipedia.org/wiki/田代富雄 "wikilink")が代行。
+177. [三浦の背番号18は半永久欠番「横浜ナンバー」に](http://www.sponichi.co.jp/baseball/news/2016/09/21/kiji/K20160921013395330.html) - スポーツニッポン、2016年9月21日、2016年11月14日閲覧
+178.
+179. 日米通算。[NPBでは](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")252セーブ、[MLBでは](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")129セーブ。
+180. ここでの通算成績には、群馬での成績は含まれていない。
+181. 日米通算。[独立リーグ](https://ja.wikipedia.org/wiki/独立リーグ "wikilink")（[ベースボール・チャレンジ・リーグ](https://ja.wikipedia.org/wiki/ベースボール・チャレンジ・リーグ "wikilink")）・[群馬ダイヤモンドペガサス](https://ja.wikipedia.org/wiki/群馬ダイヤモンドペガサス "wikilink")での成績（58安打）は含まず。[MLBは](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")86安打、[NPBでは](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")2017安打。
+182. 日米通算。[NPBでは](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")2101安打、[MLBは](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")5安打。
+183. 2012年までは公式戦が実施されている期間のみの使用となっていた。
+184. [3/31（火）横浜DeNAベイスターズ球団歌CD『熱き星たちよ ～2015～』発売決定！（2015年3月22日）](https://www.baystars.co.jp/news/2015/03/0322_02.php)
+185. [ラミレス監督 & 筒香選手など7選手が歌う『熱き星たちよ-2016-』発売（2016年3月17日）](https://www.baystars.co.jp/news/2016/03/0317_04.php)
+186. [CD『熱き星たちよ-2017-』、ハマスタ限定『応援歌フェイスタオル』、NEW ERAキャップなどの新商品3/18(土)発売\!\!（2017年3月17日）](https://www.baystars.co.jp/news/2017/03/0317_02.php)
+187. [祝！プロ野球開幕！今年もみなとみらい線に乗って横浜DeNAベイスターズを応援しよう！](http://www.mm21railway.co.jp/info/news/uploads/press%20release_20190322_1.pdf)
+188. 1980年はメサ市ホホカム球場のみでのキャンプ開催であったが、1981年は第一次キャンプを静岡・草薙球場で、第二次キャンプをメサ市ホホカム球場で実施した。
+189.
+190.
+191.
+192. [2000年](../Page/2000年.md "wikilink")以前は、勝率が同率となった場合はプレーオフで順位を決定するという規定だった。
+193. 勝利数の順位と勝率の順位が異なる場合は、勝利数を優先して順位を決定し、勝率1位のチームと勝利数1位のチームが異なる場合はその両チームによる[プレーオフでリーグ優勝チームを決めるという方式であった](https://ja.wikipedia.org/wiki/プレーオフ制度_\(日本プロ野球\) "wikilink")。
+194. ただし、勝率1位チームと勝利数1位チームが異なる場合に優勝決定プレーオフを行うとする規定は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")まで存在していた。
+195.
+196. これに先駆けて[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[巨人対](https://ja.wikipedia.org/wiki/読売ジャイアンツ_\(ファーム\) "wikilink")[阪神の二軍公式戦が](https://ja.wikipedia.org/wiki/阪神タイガース_\(ファーム\) "wikilink")18時から同じ沖縄セルラースタジアム那覇でナイターで行われている
+197.
+198. [横浜ＤｅＮＡ：グリエル「飛行機怖い」　沖縄遠征の帯同見送り](http://www.kanaloco.jp/article/74160/cms_id/90128)（神奈川新聞2014年7月8日）
+199.
+200. <http://www.ohbsn.com/contents/b-spirit-niigata/index.php>
+201. <https://www.baystars.co.jp/news/2016/03/0310_01.php>
+202. <http://www.baystars.co.jp/news/2016/07/0706_01.php>
+203. [（記者発表資料）第1回下関プロ野球招致実行委員会の開催について](http://www.city.shimonoseki.lg.jp/www/contents/1548131386257/index_k.html)
+204. [ベイスターズ、雨うらめし　下関「帰郷」戦が中止　公式戦誘致へ期待](https://www.sankei.com/region/news/190311/rgn1903110017-n1.html)（2019年3月11日　産経新聞）
+205. [春季非公式試合（オープン戦）](http://npb.jp/preseason/2020/schedule_detail.html)
+206. [DeNA「アツいぜ！チケット」勝っても半数以上が返金要求](http://sportsnavi.yahoo.co.jp/baseball/npb/team/baystars/headlines/20120508-00000015-dal-base.html) -スポーツナビ
+207.
+208.
+209.
+210.
+211.
+212. 『プロ野球70年から掘り起こす迷・珍言語録』　著：山口純一　出版元：朱鳥社　
+213. [１６・ラストチャンス](http://www.sponichi.co.jp/baseball/special/yakyu-jin/yutaka-sudou/KFullNormal20070511141.html)　（スポーツニッポン　2007年5月11日）
+214. 巨人に連敗し続けたあるシーズンのこと。大洋（横浜）が久々に巨人に勝った夜には、『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系列）で放送されていた名物企画「プロ野球1分勝負」で同カードの結果を報じるVTRの最後に「今後の融資はお断りいたします」というテロップでオチを付けたほどだった。また、同番組では大洋が巨人に負けた場合、司会の久米宏がスポーツのコーナーを「CMの後は横浜大洋銀行です」と告知することも頻繁にあったという。
+215.
+216. 該当例とするなら、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、[2003年](../Page/2003年.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[2014年](../Page/2014年.md "wikilink")のシーズンがあり、DeNAは阪神に大きく負け越していた。
+217.
+218.
+219. [横浜DeNA：強力援軍で借金完済？横浜銀行がイベント協賛](http://www.kanaloco.jp/article/73275/cms_id/87159) - 2014年6月20日 神奈川新聞
+220.

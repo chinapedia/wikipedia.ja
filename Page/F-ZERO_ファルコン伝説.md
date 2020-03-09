@@ -1,0 +1,689 @@
+> この記事は[F-ZERO ](https://ja.wikipedia.org/wiki/F-ZERO_)から翻訳されています。
+
+
+『**F-ZERO ファルコン伝説**』（エフゼロ ファルコンでんせつ、英名：*F-ZERO The Legend of Falcon*）は、[任天堂](../Page/任天堂.md "wikilink")の[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")『[F-ZERO](https://ja.wikipedia.org/wiki/F-ZEROシリーズ "wikilink")』シリーズを原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")と[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")用ゲーム、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、及び[玩具](../Page/玩具.md "wikilink")からなる[メディアミックス](../Page/メディアミックス.md "wikilink")作品。
+
+一部の登場人物が同一であるなどにもかかわらず、時代設定が23世紀であり、これは他の『F-ZERO』シリーズと異なっている。
+
+## あらすじ
+
+[2051年](../Page/2051年.md "wikilink")、**リュウ スザク**は凶悪犯罪者ゾーダを追っていた際に事故で重傷を負い、150年間[コールドスリープ](https://ja.wikipedia.org/wiki/コールドスリープ "wikilink")されていた。[2201年](https://ja.wikipedia.org/wiki/2201年 "wikilink")に目覚めたリュウは、時を同じくしてゾーダがダークミリオンの元で目覚めたことを知り、因縁に決着を付けるため高機動小隊に参加し、ダークミリオンとの戦いに身を投じる…。
+
+## テレビアニメ
+
+[テレビ東京系列で](https://ja.wikipedia.org/wiki/TXN "wikilink")[2003年](../Page/2003年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで放送されていた。全51話。
+
+### 概要
+
+「明確なストーリーが無いゲーム」、「[アメコミ](https://ja.wikipedia.org/wiki/アメコミ "wikilink")調でアクの強いキャラクター」、「レースが全てを決める世界」など、アニメには受け入れにくい要素が多く含まれている原作を大幅にアレンジし、SFチックで比較的にシリアスな世界観のもと、個性溢れる登場人物達の挫折や成長を描写した人間ドラマ、ギャグやユーモアの効いたコメディ要素、回の見せ場である白熱のレースシーンなどが描かれる、子供から大人まで楽しめるストーリー展開が特徴である。
+
+なお、F-ZEROマシンを始めとするメカのほとんどはCGで描かれており、作中にはゲームと同じコースも登場する\[1\]。
+
+[音響監督](https://ja.wikipedia.org/wiki/音響監督 "wikilink")の[松浦典良](https://ja.wikipedia.org/wiki/松浦典良 "wikilink")が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月15日](../Page/1月15日.md "wikilink")に亡くなったため、今作が彼の遺作となった。
+
+### 世界観
+
+基本的な世界観については[F-ZEROシリーズ](https://ja.wikipedia.org/wiki/F-ZEROシリーズ "wikilink")及び[F-ZEROの登場人物](../Page/F-ZEROの登場人物.md "wikilink")を参照。ここでは原作との違いや特徴的な設定について述べる。
+
+舞台は西暦[2201年](https://ja.wikipedia.org/wiki/2201年 "wikilink")（第13話からは[2202年](https://ja.wikipedia.org/wiki/2202年 "wikilink")）、100年前に異文明との[ファーストコンタクト](https://ja.wikipedia.org/wiki/ファーストコンタクト "wikilink")があり、現在では地球に住む3割の人が異星人となっている。またミュートシティはかつての[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")であり、高機動小隊の本部やファルコンハウスなどが存在する物語の中心地である。第一回F-ZEROグランプリは70年前で、若い頃のシルバー ニールセンなどが参加している。なお、ミスター ゼロもその頃からいる模様。
+
+一般的なF-ZEROレースの場合、1レースの出場台数は24台で、周回は10周。また、レース直前には出場者全員によるフリー走行があり、出場者や観客がコースの概要を把握できる。
+
+F-ZEROマシンの切り札であるブーストは単なる加速ではなく、周囲の空間にフィールドを形成する力がある。それにより、不安定なマシンをフィールドに取り込んで自爆させたり、強力なものになると亜空間に穴を開けたり、[ワープ](https://ja.wikipedia.org/wiki/ワープ "wikilink")まがいのこともできる。F-ZEROマシン以外の一般車も全てタイヤが無く、宙に浮いている（ただし、宙に浮く原理はF-ZEROマシンとは違う）。そんな中で、リュウが150年前に乗っていたようなタイヤのある車は「[クラシックカー](https://ja.wikipedia.org/wiki/クラシックカー "wikilink")」と呼ばれ、高値で取引されている。
+
+「高機動小隊」と「ダークミリオン」の二大組織の対立が物語の主軸の一つで、両組織に所属していないF-ZEROパイロットはサブキャラあるいはゲストキャラの扱いになっている。1話（1度）しか登場しないキャラも多い。その回に登場しないキャラでも、話には絡まないが、マシンだけならレースの背景キャラとして参加している場合がある（色違いを含む）。
+
+[キャプテン・ファルコン](https://ja.wikipedia.org/wiki/キャプテン・ファルコン "wikilink")は特定の個人の名前ではなく、その時代を守るために存在している「正義の象徴」ともいえる人物の名前。またブラック シャドーも同様に「悪の象徴」である。両者は遥か昔から対立しており、その戦いは現代まで受け継がれてきた。
+
+### 登場人物
+
+※一部のキャストは、民間人などの端役も担当している事がある。
+
+  - **リュウ スザク** （[声](../Page/声優.md "wikilink")：[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")）
+  - **[キャプテン・ファルコン](https://ja.wikipedia.org/wiki/キャプテン・ファルコン "wikilink")** / **バート レミング** （声：[田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")）
+  - **ジョディ サマー** （声：[井上喜久子](https://ja.wikipedia.org/wiki/井上喜久子 "wikilink")）
+  - **ジャック レビン** （声：[矢尾一樹](https://ja.wikipedia.org/wiki/矢尾一樹 "wikilink")）
+  - **ドクター スチュワート** （声：[飛田展男](https://ja.wikipedia.org/wiki/飛田展男 "wikilink")）
+  - **ルーシー リバティ** （声：[水樹奈々](../Page/水樹奈々.md "wikilink")）
+  - **クラッシュ**、**ジョン タナカ** （声：[千葉一伸](https://ja.wikipedia.org/wiki/千葉一伸 "wikilink")）
+  - **ミス キラー** / **ミサキ ハルカ** （声：[吉田小百合](https://ja.wikipedia.org/wiki/吉田小百合 "wikilink")）
+  - **クランク ヒューズ** （声：[小松里賀](https://ja.wikipedia.org/wiki/小松里歌 "wikilink")、千葉一伸〈5年後の姿〉）
+  - **ブラック シャドー** （声：[若本規夫](../Page/若本規夫.md "wikilink")）
+  - **ゾーダ** （声：[辻親八](https://ja.wikipedia.org/wiki/辻親八 "wikilink")）
+  - **サムライ ゴロー**、**EAD** （声：[岩田安宣](https://ja.wikipedia.org/wiki/岩田安宣 "wikilink")）
+  - **オクトマン**、**ババ** （声：[大和武志](https://ja.wikipedia.org/wiki/大和武志 "wikilink")）
+  - **バイオレックス** （声：[藤本隆行](https://ja.wikipedia.org/wiki/藤本隆行 "wikilink")）
+
+### 用語
+
+  - 高機動小隊
+    銀河連邦警察に設置された特殊部隊で、リュウ達が所属している。一般の警察では手に負えない事件などを担当し、また犯罪者も多く集まるF-ZEROレースに参加し優勝することで、賞金を悪用されないようにするのが主な任務。直接の上司にタナカ本部長がいるが、実質的指揮官は小隊長のジョディである。その性質上、隊員は全員がF-ZEROパイロットであり、表向きの肩書きもそのようにして活動している（ただし、レースで優勝しても賞金は個人のものにならず、全て銀河警察の手に渡る。隊員は給料しか貰っていない）。移動及び戦闘用の巨大宇宙船「ギャラクシーランナー」を所有している。
+  - マグレット
+    高機動小隊のメンバーが所有する通信機。また、高機動小隊のF-ZEROマシンを起動するためのデバイスとしても使用されており、ジャック曰く「命の次に大事な物」とのこと。これをかざすことで銀河警察の電子ロックも解除できる。一度だけリサ ブリリアントに奪われたことがある。
+  - ダークミリオン
+    ブラック シャドーを首領とする悪の犯罪組織。F-ZEROレースに参加するのは資金稼ぎの一環であり、F-ZEROレースのチケット転売や非ライセンス商品販売なども行っているらしい（ゲーム版カードe+参照）。
+    部下達の忠誠心は必ずしも高いとは言えず、利用されていたり金に困っていたりで仕方なく悪事を行っている者も多く、またゾーダは常にシャドーの地位を狙っている。なお、シャドーの趣味なのか組織の傾向なのか、過去の人間や生物などを蘇らせることが度々行われ、バイオレックスやザ スカルはダークミリオンの力で現代に生まれ、そのまま組織に組み込まれている。
+  - ファルコンハウス
+    ミュートシティの一角でバート レミングが経営する喫茶店。大のF-ZEROファンであるバートはレースの日に店を休むこともあるが、バートの人柄やコーヒーの味に惹かれてやってくる常連客は多い。リュウやルーシーなど、若者達の憩いの場でもあり、物語中で多くのF-ZEROレーサーが訪れる。
+  - リアクター マイト
+    第25話で初登場した、物語の鍵となる超物質。莫大なエネルギーを秘めており、マシンに組み込むことでブーストファイア（スピンブースター）が可能になる。ゾーダはその肉体に埋め込まれ、大量のブラッドファルコンを吸収したことでハイパーゾーダへと進化し、ブラッド ファルコンはこの力とドクター スチュワートの遺伝子工学を盗んだブラック シャドーの手によって作られたクローンである。宇宙に6個存在しており、ドラゴンバードとブルーファルコンに1個ずつ、ブラックブルには2個搭載されている。後にドラゴンバードも2個になる。使い込むことで更にエネルギーが上がり、最大限に高められたリアクター マイトが6個集まれば[ビッグバン](../Page/ビッグバン.md "wikilink")を起こすことも可能である。
+  - ブーストファイア
+    リアクター マイトを搭載したマシンの切り札。マシンにかかる負担の考慮から、通常は1レースに一度しか使えない。通常のブーストを遥かに上回る加速に加え、マシンの周囲には回転する特殊なフィールドが展開される。ドラゴンバードとブルーファルコンが協力した時には、ワープゲートの異常を止めるほどのエネルギーを放出した。使用の際にはマシンの制御装置を外さなければならず、ブーストの発動タイミングもシビア。バランスを失うと命の危険性を伴うため、使いこなすには慣れが必要。リアクター マイトの数が多いほど強力になり、それによって空間を切り裂くことも出来る。当初、リュウ スザクやキャプテン ファルコン、ブラック シャドーしか使用出来なかったと思われたが、肉体に直接埋め込まれてハイパーゾーダ化したゾーダや、キャプテン ファルコンと同等のマシン操縦技術を持っていたブラッド ファルコン（30話の発動時にはリアクター マイトは未所有）も発動した。
+    なお、ゾーダ（41話、50話。但し32話でリュウやファルコンと共同で発動した際は「ブーストファイア」と叫んでいた）は「デスファイア」、ブラッド ファルコン（30話、38話）やブラック シャドー（26話、32話、47話、50話、最終話）は「ブラックファイア」、と叫んでからブーストファイアを発動する。
+    毎週の[次回予告](https://ja.wikipedia.org/wiki/次回予告 "wikilink")の最後には、リュウが**「キミの心に、ブーストファイア\!」**と叫ぶ。
+  - サンドイッチバースト
+    第16話で初登場した、スーパー アローが命名および実践した特殊技術。二台のマシンが極めて接近した状態で並走しながらブーストすると、間に強力なフィールドが発生し、その間をブースト発動中の三台目のマシンが走り抜けることで、弾かれるように莫大な加速が得られる。
+    当初はアローとリュウ、そして話を持ちかけたミス キラーくらいしか知らなかった技術だったが、22話や45話で高機動小隊が同じ名前で使用している場面がある。
+  - レディースレース
+    第21話で開催された、年に一度の女性限定F-ZEROレース（男子禁制）。優勝者には「ミス銀河宇宙連邦」の称号が与えられる。去年（即ち2201年）の優勝者はジョディだったが、今年（即ち2202年）はミス キラー、ケイト アレン、ミセス アロー以外のパイロットによる凄まじい妨害行為（ミサイルなどの武器を使用するなど）が多発したためにレース続行不可能になり、中止にされた。あまりの恐ろしさに、男性陣（ブラック シャドー含む）は引き気味であった。
+    なお、ミス キラーに大きい顔をされたくなかったゾーダは女装して参加するも、すぐにバレてしまい「[おしおきよ\!](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン "wikilink")」と言いながら宇宙船で攻撃した。その際のゾーダの衣装デザインは[タダノカズコ](https://ja.wikipedia.org/wiki/只野和子 "wikilink")。
+  - ファルコンパンチ
+    第51話（最終話）でキャプテン ファルコンが放った。元々『[大乱闘スマッシュブラザーズ](../Page/大乱闘スマッシュブラザーズシリーズ.md "wikilink")』シリーズでのファルコンの必殺技。最後の最後にブラック シャドーが逃亡するのを阻止して銀河規模の爆発に釘付けにした。
+
+### バートのF-ZERO教室
+
+毎週の[次回予告](https://ja.wikipedia.org/wiki/次回予告 "wikilink")の後に行われるCパートにあたるおまけコーナーで、バート・レミングが子供向け[教育番組](https://ja.wikipedia.org/wiki/教育番組 "wikilink")の[マリオネット](https://ja.wikipedia.org/wiki/マリオネット "wikilink")を思わせる造形の「**バート先生**」に扮して（先生曰く「動かしている人なんていません」）、『F-ZERO』の世界観やキャラクター紹介、視聴者からの質問（第8話から募集開始）に答えたりする。始まりの**「やあ、今日の『F-ZERO ファルコン伝説』は面白かったかな?」**と、終わりの**「それでは、ごきげんよう」**が決まり文句。
+
+膨大な設定を持つ『F-ZERO』の世界を本編だけでは追い切れない人向けへの説明コーナーだが、回を重ねるごとに内容が変わる。後述のファルコン関連の話題だけでなく、次第にシリアスになっていく本編に対して常にマイペースを維持する先生（ファルコンの正体が判明しようが、行方不明になろうがいつも通りだった）、映像や台詞と無関係にカクカク動く先生の人形で珍妙な質問をするが、なぜ顔に傷があるのかは頑なに隠そうとする姿勢がある。また第40話の予告では、ギャグメインの話だったこともあり、バート先生風のリュウとジャックが現れて、同様の口調で予告をするといったセルフパロディも行われた。
+
+なお、ファルコン関連の話題が出ると褒めるが、逆にライバルであるブラックシャドーに対しては異常なまでの敵対心を見せ、シャドーが死んだかに思われた41話では大はしゃぎで進行していた（ゲーム版『ファルコン伝説』のストーリーモードではブラックシャドーが死んだと思われた場面を見ても影武者だとすぐに見抜く場面がある）。
+
+また、質問に答えるだけではなく、キャラクターの誕生日にプレゼントを送ってくれた人達に感謝の言葉を述べたり\[2\]、終盤には「『[F-ZERO CLIMAX](https://ja.wikipedia.org/wiki/F-ZERO_CLIMAX "wikilink")』の[ソフト](../Page/ゲームソフト.md "wikilink")」、「1/1バート先生人形\[3\]」、「ジャックのアイドル時代のアルバムジャケット（非売品）」を視聴者にプレゼントしたりもしていた。
+
+### 商品展開について
+
+試作品まで完成していたF-ZEROマシンの[ポピニカも未発売に終わったが](https://ja.wikipedia.org/wiki/超合金_\(玩具\) "wikilink")、マシンとシューターがセットになった「ブーストダッシュ\!」が数種類発売されている。
+
+DVD版は[マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスエンターテイメント "wikilink")より全13巻が発売されている。
+
+### 日本国外の放送
+
+本放送終了後、アメリカのネットワーク局『FOX』のアニメ専門枠「4KIDS.TV」で『**F-Zero: GP Legend**』というタイトルで2004年9月から2005年3月まで放送された。しかし視聴率が4Kids枠内でも最下位の状態が続いていたため全51話は放送されず、第15話「スナイパー・ピコ」を最後に放送が打ち切られた。DVDに関してもアメリカ国内で発売されないままの状態が続いている。
+
+### スタッフ
+
+  - 原案 - 『[F-ZERO](https://ja.wikipedia.org/wiki/F-ZEROシリーズ "wikilink")』シリーズ（[任天堂](../Page/任天堂.md "wikilink")）
+  - 監督 - [知吹愛弓](https://ja.wikipedia.org/wiki/知吹愛弓 "wikilink")
+  - 監修 - [宮本茂](https://ja.wikipedia.org/wiki/宮本茂 "wikilink")、[今村孝矢](https://ja.wikipedia.org/wiki/今村孝矢 "wikilink")
+  - シリーズ構成 - [酒井あきよし](https://ja.wikipedia.org/wiki/酒井あきよし "wikilink")
+  - キャラクターデザイン - [芦田豊雄](https://ja.wikipedia.org/wiki/芦田豊雄 "wikilink")
+  - メカニックデザインワークス - 大河広行、小原渉平
+  - F-ZEROカーデザイン - [村上克司](https://ja.wikipedia.org/wiki/村上克司 "wikilink")
+  - コンポジットデザイナー - 早川哲司
+  - 総作画監督 - 吉田大輔
+  - 美術監督 - 武藤正敏
+  - 色彩設計 - 梅田祐樹
+  - 撮影監督 - 澤口幸一
+  - 編集 - 山森重之
+  - 音響監督 - [松浦典良](https://ja.wikipedia.org/wiki/松浦典良 "wikilink")
+  - 音楽 - [根岸貴幸](https://ja.wikipedia.org/wiki/根岸貴幸 "wikilink")
+  - 3D-CGI監督 - 林秀則
+  - 3D-CGI協力 - [円谷プロダクション](../Page/円谷プロダクション.md "wikilink")、[discreet](https://ja.wikipedia.org/wiki/discreet "wikilink")
+  - 3Dディレクター - 祖父江威則
+  - プロデューサー - [東不可止](https://ja.wikipedia.org/wiki/東不可止 "wikilink")、[杉山豊](https://ja.wikipedia.org/wiki/杉山豊 "wikilink")、平瀬清範
+  - 製作プロデューサー - 増田光弘、正木直幸
+  - 製作 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[電通](../Page/電通.md "wikilink")、[葦プロダクション](https://ja.wikipedia.org/wiki/葦プロダクション "wikilink")
+
+### 主題歌
+
+  - オープニングテーマ「THE MEANING OF TRUTH」（第1話 - 第50話）
+    作詞 - [青木裕光](https://ja.wikipedia.org/wiki/HIRO-X "wikilink") / 作曲・編曲 - 中山崇史 / 歌 - [HIRO-X](https://ja.wikipedia.org/wiki/HIRO-X "wikilink")
+    第5話からは効果音が付くようになり、第40話からは映像も変更された。
+    最終話ではクライマックスのシーンに挿入歌として使われた（最終話オープニングは歌なし）。
+  - エンディングテーマ「Resolution」（第1話 - 第50話）
+    作詞 - [ai](../Page/前田愛_\(声優\).md "wikilink") / 作曲・編曲 - 丸茂心吾 / 歌 - [AiM](../Page/前田愛_\(声優\).md "wikilink")
+    最終話エンディングは歌なし。
+  - 挿入歌「Forever」
+    作詞 - Fortuna/川鍋ゆみ / 作曲 - Fortuna/chaos / 編曲 - 森山輝一 / 歌 - AiM
+    歌手のAiMはすなわちケイト アレン役の[前田愛であり](../Page/前田愛_\(声優\).md "wikilink")、この挿入歌はケイトのコンサートのシーンなどで使われていた。
+
+### 各話リスト
+
+数え方は「LAPxx」である。ただし、第1話は「OPENING LAP」、最終話は「FINAL LAP」とされていた。なお、通常は青のバックにタイトルが出るだけの簡素なものだが、一部の回では特殊演出付きでサブタイトルが入っていた。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話数</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>脚本</p></th>
+<th><p>絵コンテ</p></th>
+<th><p>演出</p></th>
+<th><p>作画監督</p></th>
+<th><p>放送日</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>伝説・スタート</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/酒井あきよし" title="wikilink">酒井あきよし</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/知吹愛弓" title="wikilink">知吹愛弓</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高橋美香" title="wikilink">高橋美香</a></p></td>
+<td><p><strong>2003年</strong><br />
+10月7日</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>キャプテン ファルコン</p></td>
+<td><p>酒井あきよし<br />
+薗田正弘</p></td>
+<td><p>長尾粛</p></td>
+<td><p>井上善勝</p></td>
+<td><p>10月14日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>見習い隊員ルーシー</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/竹田裕一郎" title="wikilink">竹田裕一郎</a></p></td>
+<td><p>犬川犬夫</p></td>
+<td><p>金城真司</p></td>
+<td><p>10月21日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>サムライ ゴロー参上!</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/静谷伊佐夫" title="wikilink">静谷伊佐夫</a></p></td>
+<td><p>箕ノ口克己</p></td>
+<td><p>宮司好文</p></td>
+<td><p>10月28日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>ブリリアントな罠</p></td>
+<td><p>市野奈美</p></td>
+<td><p>桝井剛</p></td>
+<td><p>重松しんいち<br />
+相坂直紀</p></td>
+<td><p>11月4日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>歌姫・ケイト アレン</p></td>
+<td><p>薗田正弘</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/善聡一郎" title="wikilink">善聡一郎</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮本幸裕" title="wikilink">宮本幸裕</a></p></td>
+<td><p>嶋津郁雄</p></td>
+<td><p>11月11日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>マイケル チェーンの罠</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小山高生" title="wikilink">小山高生</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/奥田誠治_(アニメーション演出家)" title="wikilink">奥田誠治</a></p></td>
+<td><p>大関雅幸</p></td>
+<td><p>高橋美香</p></td>
+<td><p>11月18日</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>謎の女・ミス キラー</p></td>
+<td><p>高橋孝之介</p></td>
+<td><p>長尾粛</p></td>
+<td><p>井上善勝</p></td>
+<td><p>11月25日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>ジョディの秘密</p></td>
+<td><p>酒井あきよし</p></td>
+<td><p>奥田誠治</p></td>
+<td><p>犬川犬夫</p></td>
+<td><p>菅井嘉浩</p></td>
+<td><p>12月2日</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>ロジャー&amp;ドラク</p></td>
+<td><p>小山高生</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/牧野吉高" title="wikilink">マキノ吉高</a></p></td>
+<td><p>宮司好文</p></td>
+<td><p>12月9日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>惑星ヘルから来た少年</p></td>
+<td><p>高橋孝之介</p></td>
+<td><p>玉井公子</p></td>
+<td><p>清水一伸</p></td>
+<td><p>荒川たまお<br />
+尹善奎</p></td>
+<td><p>12月16日</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>笑うブラック シャドー</p></td>
+<td><p>薗田正弘</p></td>
+<td><p>奥田誠治</p></td>
+<td><p>まつもとよしひさ</p></td>
+<td><p>高橋美香</p></td>
+<td><p>12月23日</p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>仁義</p></td>
+<td><p>高橋孝之介</p></td>
+<td><p>福島一三</p></td>
+<td><p>長尾粛</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/須田正己" title="wikilink">須田正己</a></p></td>
+<td><p><strong>2004年</strong><br />
+1月6日</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>鉄人ニールセン</p></td>
+<td><p>市野奈美</p></td>
+<td><p>浅見松雄</p></td>
+<td><p>宮本幸裕</p></td>
+<td><p>高橋昇</p></td>
+<td><p>1月13日</p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>スナイパー・ピコ</p></td>
+<td><p>酒井あきよし<br />
+薗田正弘</p></td>
+<td><p>まつもとよしひさ</p></td>
+<td><p>犬川犬夫</p></td>
+<td><p>川畑エルキン</p></td>
+<td><p>1月20日</p></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p>スーパーアローにお任せ!</p></td>
+<td><p>柳川茂</p></td>
+<td><p>マキノ吉高</p></td>
+<td><p>宮司好文</p></td>
+<td><p>1月27日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p>リュウの華麗な休日</p></td>
+<td><p>奥田誠治</p></td>
+<td><p>桝井剛</p></td>
+<td><p>杉本光司</p></td>
+<td><p>2月3日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p>クランクの冒険</p></td>
+<td><p>薗田正弘</p></td>
+<td><p>宮本幸裕</p></td>
+<td><p>高橋昇</p></td>
+<td><p>2月10日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
+<td><p>ルーシーのゴマシオ大作戦</p></td>
+<td><p>市野奈美</p></td>
+<td><p>玉井公子</p></td>
+<td><p>清水一伸</p></td>
+<td><p>白土理徳</p></td>
+<td><p>2月17日</p></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+<td><p>消えたミセス アロー</p></td>
+<td><p>柳川茂</p></td>
+<td><p>加藤洋人</p></td>
+<td><p>まつもとよしひさ</p></td>
+<td><p>加藤洋人</p></td>
+<td><p>2月24日</p></td>
+</tr>
+<tr class="odd">
+<td><p>21</p></td>
+<td><p>熱き女たちのバトル</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/江夏由結" title="wikilink">江夏由結</a></p></td>
+<td><p>福島一三</p></td>
+<td><p>須田正己</p></td>
+<td><p>3月2日</p></td>
+</tr>
+<tr class="even">
+<td><p>22</p></td>
+<td><p>リュウとファルコン</p></td>
+<td><p>薗田正弘</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤原良二" title="wikilink">藤原良二</a></p></td>
+<td><p>石川敏浩</p></td>
+<td><p>川畑エルキン<br />
+金城真司</p></td>
+<td><p>3月9日</p></td>
+</tr>
+<tr class="odd">
+<td><p>23</p></td>
+<td><p>駆け抜けろ! スピンブースター</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/玉井豪" title="wikilink">玉井☆豪</a></p></td>
+<td><p>マキノ吉高</p></td>
+<td><p>宮司好文</p></td>
+<td><p>3月16日</p></td>
+</tr>
+<tr class="even">
+<td><p>24</p></td>
+<td><p>オクトマン・ドリーム</p></td>
+<td><p>小山高生</p></td>
+<td><p>桝井剛</p></td>
+<td><p>杉本光司</p></td>
+<td><p>3月23日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>25</p></td>
+<td><p>超物質リアクター・マイト!</p></td>
+<td><p>江夏由結</p></td>
+<td><p>奥田誠治</p></td>
+<td><p>岡崎幸男</p></td>
+<td><p>白土理徳</p></td>
+<td><p>3月30日</p></td>
+</tr>
+<tr class="even">
+<td><p>26</p></td>
+<td><p>ゾーダの野望</p></td>
+<td><p>まつもとよしひさ</p></td>
+<td><p>吉川博明</p></td>
+<td><p>4月6日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>27</p></td>
+<td><p>ビーストハンター</p></td>
+<td><p>酒井あきよし</p></td>
+<td><p>宮本幸裕</p></td>
+<td><p>高橋昇</p></td>
+<td><p>4月13日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>28</p></td>
+<td><p>ブラック シャドーからの招待状</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/竹内浩志" title="wikilink">竹内浩志</a></p></td>
+<td><p>山崎茂</p></td>
+<td><p>高田三郎</p></td>
+<td><p>4月20日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>29</p></td>
+<td><p>マイティ ガゼル!</p></td>
+<td><p>柳川茂</p></td>
+<td><p>福島一三</p></td>
+<td><p>須田正己</p></td>
+<td><p>4月27日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>30</p></td>
+<td><p>もう一人のファルコン</p></td>
+<td><p>薗田正弘</p></td>
+<td><p>奥田誠治</p></td>
+<td><p>濁川敦</p></td>
+<td><p>菅野智之</p></td>
+<td><p>5月4日</p></td>
+</tr>
+<tr class="odd">
+<td><p>31</p></td>
+<td><p>おもかげ</p></td>
+<td><p>柳川茂</p></td>
+<td><p>藤原良二</p></td>
+<td><p>石川敏浩</p></td>
+<td><p>石井和彦<br />
+川畑エルキン</p></td>
+<td><p>5月11日</p></td>
+</tr>
+<tr class="even">
+<td><p>32</p></td>
+<td><p>暗黒からの叫び</p></td>
+<td><p>江夏由結</p></td>
+<td><p>桝井剛</p></td>
+<td><p>杉本光司</p></td>
+<td><p>5月18日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>33</p></td>
+<td><p>ジェームズ マクラウド</p></td>
+<td><p>野中幸人</p></td>
+<td><p>マキノ吉高</p></td>
+<td><p>高瀬言</p></td>
+<td><p>5月25日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>34</p></td>
+<td><p>クランクとガゼル</p></td>
+<td><p>酒井あきよし</p></td>
+<td><p>奥田誠治</p></td>
+<td><p>粟井重紀</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/長森佳容" title="wikilink">長森佳容</a></p></td>
+<td><p>6月1日</p></td>
+</tr>
+<tr class="odd">
+<td><p>35</p></td>
+<td><p>ファルコンの告白</p></td>
+<td><p>小山高生</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/石山タカ明" title="wikilink">石山タカ明</a></p></td>
+<td><p>宮本幸裕</p></td>
+<td><p>嶋津郁雄</p></td>
+<td><p>6月8日</p></td>
+</tr>
+<tr class="even">
+<td><p>36</p></td>
+<td><p>ハルカ</p></td>
+<td><p>酒井あきよし</p></td>
+<td><p>桝井剛</p></td>
+<td><p>宮司好文</p></td>
+<td><p>6月15日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>37</p></td>
+<td><p>死神ジャック レビン</p></td>
+<td><p>野中幸人</p></td>
+<td><p>福島一三</p></td>
+<td><p>須田正己</p></td>
+<td><p>6月22日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>38</p></td>
+<td><p>ファルコンの紅い花</p></td>
+<td><p>柳川茂</p></td>
+<td><p>藤原良二</p></td>
+<td><p>山崎茂</p></td>
+<td><p>工藤柾揮</p></td>
+<td><p>6月29日</p></td>
+</tr>
+<tr class="odd">
+<td><p>39</p></td>
+<td><p>高機動小隊、解散!</p></td>
+<td><p>酒井あきよし</p></td>
+<td><p>マキノ吉高</p></td>
+<td><p>高瀬言</p></td>
+<td><p>7月6日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>40</p></td>
+<td><p>コーヒーブレイク</p></td>
+<td><p>知吹愛弓<br />
+江夏由結<br />
+大河広行</p></td>
+<td><p>知吹愛弓</p></td>
+<td><p>宮司好文</p></td>
+<td><p>7月13日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>41</p></td>
+<td><p>消滅! ブラック シャドー</p></td>
+<td><p>江夏由結</p></td>
+<td><p>奥田誠治</p></td>
+<td><p>石川敏浩</p></td>
+<td><p>池下博紀<br />
+石井和彦</p></td>
+<td><p>7月20日</p></td>
+</tr>
+<tr class="even">
+<td><p>42</p></td>
+<td><p>ドン ジーニーの城</p></td>
+<td><p>柳川茂</p></td>
+<td><p>桝井剛</p></td>
+<td><p>杉本光司</p></td>
+<td><p>7月27日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>43</p></td>
+<td><p>目覚め</p></td>
+<td><p>酒井あきよし</p></td>
+<td><p>石山タカ明</p></td>
+<td><p>宮本幸裕</p></td>
+<td><p>嶋津郁雄</p></td>
+<td><p>8月3日</p></td>
+</tr>
+<tr class="even">
+<td><p>44</p></td>
+<td><p>ブラック シャドーの企て</p></td>
+<td><p>薗田正弘</p></td>
+<td><p>福島一三</p></td>
+<td><p>須田正己</p></td>
+<td><p>8月10日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>45</p></td>
+<td><p>ゾーダ</p></td>
+<td><p>野中幸人</p></td>
+<td><p>濁川敦</p></td>
+<td><p>菅野智之</p></td>
+<td><p>8月17日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>46</p></td>
+<td><p>伝説の男</p></td>
+<td><p>酒井あきよし</p></td>
+<td><p>奥田誠治</p></td>
+<td><p>桝井剛</p></td>
+<td><p>宮司好文</p></td>
+<td><p>8月24日</p></td>
+</tr>
+<tr class="odd">
+<td><p>47</p></td>
+<td><p>運命 -さだめ-</p></td>
+<td><p>江夏由結</p></td>
+<td><p>マキノ吉高</p></td>
+<td><p>高瀬言</p></td>
+<td><p>8月31日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>48</p></td>
+<td><p>暗黒のリアクター</p></td>
+<td><p>柳川茂</p></td>
+<td><p>藤原良二</p></td>
+<td><p>石川敏浩</p></td>
+<td><p>寺尾洋之</p></td>
+<td><p>9月7日</p></td>
+</tr>
+<tr class="odd">
+<td><p>49</p></td>
+<td><p>150年の決着</p></td>
+<td><p>酒井あきよし</p></td>
+<td><p>桝井剛</p></td>
+<td><p>杉本光司</p></td>
+<td><p>9月14日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>50</p></td>
+<td><p>ブラック シャドー</p></td>
+<td><p>石山タカ明</p></td>
+<td><p>宮本幸裕</p></td>
+<td><p>嶋津郁雄</p></td>
+<td><p>9月21日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>51</p></td>
+<td><p>ファルコン伝説</p></td>
+<td></td>
+<td><p>知吹愛弓</p></td>
+<td><p>山崎茂</p></td>
+<td><p>宮司好文</p></td>
+<td><p>9月28日</p></td>
+</tr>
+</tbody>
+</table>
+
+### 放送局
+
+  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")・[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")系
+      - 毎週[火曜日](../Page/火曜日.md "wikilink") 18時30分 - 19時00分
+  - [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")
+      - 毎週[水曜日](../Page/水曜日.md "wikilink") 18時55分 - 19時25分
+
+## ゲーム
+
+同名のゲームは[2003年](../Page/2003年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")より[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")で発売された。『[F-ZERO](https://ja.wikipedia.org/wiki/F-ZEROシリーズ "wikilink")』シリーズの第5作目。
+
+新しいモードとして、ゲーム中で要求されるさまざまな操作を習得するためのゼロテストが追加された。コースの一部分もしくは1周を走ったタイムにより3段階の評価がなされる。
+
+[2014年](../Page/2014年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に[Wii U](https://ja.wikipedia.org/wiki/Wii_U "wikilink")[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")で配信された。内容は当時のままだが、こちらはカードe+には対応していない。
+
+### カードe対応
+
+ゲーム版は[カードe](../Page/カードe.md "wikilink")+に対応しており、マシンやコースを追加したり、ゴーストを読み込むことによって上級者の走りを鑑賞したり、その記録に挑戦したりすることができる。[カードダス](https://ja.wikipedia.org/wiki/カードダス "wikilink")と店頭販売の袋売りの2種類のパッケージが存在し、カードダス（1回につきマシン (4) ・コース (8) ・チャレンジ (8) のカードe+合計20枚の中から2枚と、登場人物の紹介のみのキャラクターカード18枚の中から1枚の計3枚）が全20枚（キャラクターカードを含まず）、袋売り（1袋につきマシン (8) 1枚、コース (16) 2枚、チャレンジ (16) 2枚の計5枚）が全40枚であるが、うち10枚（マシン2枚、コース4枚、チャレンジ4枚）は重複している。この重複している物については絵柄は異なる（ただし描かれているキャラクターは同じ）が互換性があり、両パッケージのカードを混ぜて使用することも可能である。
+
+マシンカードでは入手条件の厳しいマシンや通常では出現しないマシンを追加することができる。一方の長辺にマシンを記録したeコードが、他方の長辺にはパイロットを記録したeコードが記録されており、両方のデータをそれぞれ転送することでマシンが追加される。なお、カードe+限定マシンであるソニックファントム、ナイトサンダー、エレガンスリバティ、ムーンシャドーの4台は対戦では使用できない。ちなみに、先述の4台とそれ以外のカードではデータ転送にかかる時間が異なる（後者はほぼ一瞬で終わる）。
+
+コースカードではタイムアタックモードにおいて新しいコースを追加することができる。2本の長辺にeコードが記録されており、この2つのeコードを組にしてデータを転送することでコースを追加する。なお、追加したコースはタイムアタックとトレーニングでのみ出現し、対戦では選択できない。
+
+チャレンジカードには上級者の走りが記録されている。2本の長辺にeコードが記録されているのは他のカードと同じであるが、チャレンジカードは4枚で1組となっており、8本のeコードを読み込ませることで機能する。転送されたデータはその場でリプレイとして鑑賞することができ、ゴーストとして保存することによりタイムアタックモードでその記録に挑戦することも可能。
+
+### ルール
+
+  - 最初から使用可能なマシンは5台。さらにグランプリなどのクリア状況及び[カードe](../Page/カードe.md "wikilink")+からのデータダウンロードにより、最終的に34台まで増える。そこから自分が選んだマシンを除く相手マシン29台との5コース5周勝負。ブロンズカップ、シルバーカップ、ゴールドカップ、プラチナカップの4シリーズがあり、プラチナカップでは8レース5周勝負となっている。尚、ゴールドカップの5レース目は2種類のコースがランダムで選ばれ、ブロンズカップからゴールドカップまでのEXPERTクラスはコースが他のクラスで登場したコースをアレンジしたものとなる。
+  - 5周完走者はその順位に応じてポイントが与えられる。この合計得点で総合順位が決定される。
+  - ブーストは2周目以降、エネルギーを一定量消費して使用する。エネルギーが一定量以上ある限り何回でも使用可能。
+  - 路外転落、クラッシュ時はスペアマシンを1台（初期状態は4台）消費して再レース可能。ただし、EXPERTのPLATINUM CUPのみ初期のスペアマシンが0台なので再レース不可。
+
+## コミック
+
+  - [F-ZERO小学校 伝説のファルコン先生](https://ja.wikipedia.org/wiki/F-ZERO小学校_伝説のファルコン先生 "wikilink")（作者：[矢高鈴央](https://ja.wikipedia.org/wiki/矢高鈴央 "wikilink")）
+      -
+        [別冊コロコロコミック](https://ja.wikipedia.org/wiki/別冊コロコロコミック "wikilink")にて連載されていた漫画。単行本化されていない。
+
+## 脚注・出典
+
+## 関連項目
+
+  - [テレビ東京系アニメ](https://ja.wikipedia.org/wiki/テレビ東京系アニメ "wikilink")
+
+## 外部リンク
+
+  - [アニメ公式サイト](http://www.tv-tokyo.co.jp/anime/f-zero/)（テレビ東京）
+
+  - [アニメ公式サイト](http://www.mxtv.co.jp/fzero/) (TOKYO MX)
+
+  - [ゲーム版公式サイト](http://www.nintendo.co.jp/n08/bfzj/)（任天堂）
+
+  -
+[en:F-Zero\#Anime](https://ja.wikipedia.org/wiki/en:F-Zero#Anime "wikilink")
+
+[Category:F-ZERO](https://ja.wikipedia.org/wiki/Category:F-ZERO "wikilink") [Category:アニメ作品_え](https://ja.wikipedia.org/wiki/Category:アニメ作品_え "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:カーレースアニメ](https://ja.wikipedia.org/wiki/Category:カーレースアニメ "wikilink") [Category:ギャグアニメ](https://ja.wikipedia.org/wiki/Category:ギャグアニメ "wikilink") [Category:葦プロダクション](https://ja.wikipedia.org/wiki/Category:葦プロダクション "wikilink") [Category:電通のアニメ作品](https://ja.wikipedia.org/wiki/Category:電通のアニメ作品 "wikilink") [Category:任天堂原作・原案のアニメ作品](https://ja.wikipedia.org/wiki/Category:任天堂原作・原案のアニメ作品 "wikilink") [Category:マーベラスのアニメ作品](https://ja.wikipedia.org/wiki/Category:マーベラスのアニメ作品 "wikilink") [Category:2003年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2003年のテレビアニメ "wikilink") [Category:ゲームボーイアドバンス用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイアドバンス用ソフト "wikilink") [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink")
+
+1.  GXに登場したエアロポリス「マルチプレックス」（13話）や、AXに登場したアウタースペース「メテオストリーム」（12話）、ライトニング「サンダーロード」（30話）など
+2.  バートの誕生日には、送られたエプロンやカップを用いた描き下ろしイラストも公開され、二期のEDアニメーションにそのカップを出している。
+3.  非売品で、先生曰く身長は40cm。[監督](https://ja.wikipedia.org/wiki/知吹愛弓 "wikilink")、3D監督、メカデザイナー、シナリオライター、[プロデューサーが夜なべして](https://ja.wikipedia.org/wiki/東不可止 "wikilink")（というのは大袈裟だろうが）作ったという限定品。

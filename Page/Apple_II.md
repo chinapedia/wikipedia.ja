@@ -1,0 +1,178 @@
+> この記事は[Apple II](https://ja.wikipedia.org/wiki/Apple_II)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Apple_iieuroplus.jpg "wikilink")
+
+（アップル ツー）は、[アップルが](../Page/アップル_\(企業\).md "wikilink")[1977年](../Page/1977年.md "wikilink")に発表した[パーソナルコンピューター](https://ja.wikipedia.org/wiki/パーソナルコンピューター "wikilink")（ないし[ホームコンピューター](https://ja.wikipedia.org/wiki/ホームコンピューター "wikilink") ([:en:Home computer](https://ja.wikipedia.org/wiki/:en:Home_computer "wikilink"))）。当時の分類としては[マイクロコンピューター](https://ja.wikipedia.org/wiki/マイクロコンピューター "wikilink")）である。「Apple \]\[」と表記されることもあるが、これは実機の筐体蓋の金属プレートのロゴの形状を模したもの。また、起動時にもディスプレイ上にこのように表示された。
+
+## 概要
+
+[Apple Iの成功でそのようなコンピュータの潜在的な市場が存在することを確信した](https://ja.wikipedia.org/wiki/Apple_I "wikilink")[スティーブ・ジョブズ](https://ja.wikipedia.org/wiki/スティーブ・ジョブズ "wikilink")らにより、専門の技術者ではない一般的な愛好家などでも使えるコンピュータとして製造された（ アップルはApple IIを、他の当時の[マイクロコンピュータ](../Page/マイクロコンピュータ.md "wikilink")と差別化すべく、ホームコンピュータ ([:en:Home computer](https://ja.wikipedia.org/wiki/:en:Home_computer "wikilink")) として宣伝した）。名前こそApple Iの後継という形態だが、完全な完成品として出荷されたApple IIとは異なり、Apple Iは（当時の他のキットとは異なり、プリント基板上の部品こそ完全に実装されてはいたものの）購入者が組立てる必要があり、基本的には別種の商品ジャンルのものとされている。
+
+コンピュータの愛好家に受け入れられ、また多数の[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")が開発されたため、よりホームユーザに支持されるようになり、教育現場などでも用いられ、米国ではホームコンピュータ（[:en:Home computer](https://ja.wikipedia.org/wiki/:en:Home_computer "wikilink")）というジャンルは受け入れられ定着したものとなった。
+
+Apple IIの大成功は、[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")ドライブである [diskII](https://ja.wikipedia.org/wiki/:en:Disk_II "wikilink")（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")7月発売）が極めて早い段階で非常に安価に提供された事がその要因の一つであり、普及における[キラーアプリケーション](https://ja.wikipedia.org/wiki/キラーアプリケーション "wikilink")となった[表計算](https://ja.wikipedia.org/wiki/表計算 "wikilink")ソフト「[VisiCalc](https://ja.wikipedia.org/wiki/VisiCalc "wikilink")」（ビジカルク、[1979年](../Page/1979年.md "wikilink")10月発売）も[ディスクベースで発売された](https://ja.wikipedia.org/wiki/ディスクメディア "wikilink")。米国ではサラリーマンであっても[確定申告](https://ja.wikipedia.org/wiki/確定申告 "wikilink")が必須なため、会計事務所だけではなく一般のユーザにも受け入れられた。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")頃の出荷ベースのおよそ7割が、この確定申告のためのVisiCalcが目的であったと言われている。
+
+世界での販売台数は [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に7,600台、1979年に35,100台、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に78,100台、[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")には約18万、[1982年](../Page/1982年.md "wikilink")に約30万台と毎年倍々に増加し、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")の普及に貢献すると共にアップルの礎を築いた。生産は[1993年](../Page/1993年.md "wikilink")まで続き、総計500万台が生産された。日本への輸出台数は1979年の1年間に約5,200台\[1\]。1980年に[東レ](https://ja.wikipedia.org/wiki/東レ "wikilink")が販売総代理店になってから、Apple II J-plusと合わせて1982年までに約2万台を販売した\[2\]。
+
+## 特徴
+
+[Apple_iie.jpg](https://ja.wikipedia.org/wiki/File:Apple_iie.jpg "fig:Apple_iie.jpg") と [Monitor II](https://ja.wikipedia.org/wiki/:en:Apple_Monitor_II "wikilink")\]\]  と同様、[スティーブ・ウォズニアック](https://ja.wikipedia.org/wiki/スティーブ・ウォズニアック "wikilink")がソフト・ハード共に、ほぼ独力で開発した。
+
+それまでのや[IMSAIと異なり](https://ja.wikipedia.org/wiki/Altair_8800#IMSAI_8080 "wikilink")、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")、[CPU](../Page/CPU.md "wikilink")、[メモリ](../Page/記憶装置.md "wikilink")、画像出力装置、音声出力装置、外部記憶装置との[インタフェース](https://ja.wikipedia.org/wiki/インタフェース_\(情報技術\) "wikilink")、[プログラム用言語などを単一のパッケージとして内蔵した](https://ja.wikipedia.org/wiki/プログラム_\(コンピュータ\) "wikilink")「最初の[オールインワン](https://ja.wikipedia.org/wiki/オールインワン "wikilink")タイプのコンピュータ製品」であった。誰でも買ってきて電源スイッチを入れさえすればコンピュータとして使え、機械語等コンピュータ言語の知識も必要なかった。現在のパーソナルコンピュータの要素が初めて単一のパッケージとして集約された原型の一つと言って良いだろう。
+
+本体は[キーボードと一体化した形状で](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")、後に[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")の標準的な形態となったキーボードと本体が分離しているセパレートタイプ（当時はデタッチャブルタイプと呼ばれた）ではない。 この形状は[オリベッティ](https://ja.wikipedia.org/wiki/オリベッティ "wikilink")のポータブル[タイプライター](https://ja.wikipedia.org/wiki/タイプライター "wikilink")をイメージしたという。
+
+では、画像出力用の[NTSC](https://ja.wikipedia.org/wiki/NTSC "wikilink")[ビデオ出力から家庭用](../Page/コンポジット映像信号.md "wikilink")[テレビ](../Page/テレビ.md "wikilink")にカラー表示することが標準構成で可能だった。
+
+それまでの個人向けコンピュータでは、[テレタイプ端末](../Page/テレタイプ端末.md "wikilink")やビデオ[ターミナルなどを使用してキャラクタ](../Page/端末.md "wikilink")（文字）入出力を行うものが普通であり、標準的な構成でグラフィック表現力を持つ製品はほとんど存在しなかった。これらの環境でグラフィックを利用するには、高価なフレームバッファを別途に購入し、後付けで機能を追加できるケースもあったが、フレームバッファの製品が異なると互換性が無く、絶対数も乏しかったため、利用するには自分でプログラムコードを書くことを要求された。
+
+標準でグラフィック表示が可能な  の登場は、当時の[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")ファンを惹き付け、また、ゲームI/Oという2つの[A/Dコンバータを備えた入力端子が一系統](../Page/アナログ-デジタル変換回路.md "wikilink")、標準で実装されており、これを利用して[ゲームパドルや](https://ja.wikipedia.org/wiki/パドルコントローラ "wikilink")[ジョイスティック](../Page/ジョイスティック.md "wikilink")を簡単に接続できたこともあって、多くのゲームが  上で開発された（ゲームパドルと  という[ブロック崩し](https://ja.wikipedia.org/wiki/ブロック崩し "wikilink")ゲームが標準添付品だった）。
+
+後にスタンダードモデルと呼ばれる初期型モデルはCPUは[6502で](../Page/MOS_6502.md "wikilink")[クロック](https://ja.wikipedia.org/wiki/クロック "wikilink")は1[MHz](https://ja.wikipedia.org/wiki/MHz "wikilink")、[ROMは](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")8[キロバイト](https://ja.wikipedia.org/wiki/キロバイト "wikilink")、[インタプリタ](../Page/インタプリタ.md "wikilink")である （6K  とも言われ、数値は整数型のみ扱える）、モニタプログラム、[アセンブラ](https://ja.wikipedia.org/wiki/アセンブラ "wikilink")、16ビットCPUエミュレータ が内蔵され、 以外のモニタ部分の[ソースコード](../Page/ソースコード.md "wikilink")は公開されていた。[マイクロソフト](../Page/マイクロソフト.md "wikilink")製の （10K とも言われ、数値は[浮動小数点型も扱える](../Page/浮動小数点数.md "wikilink")）を搭載し、電源投入時にモニタプログラムではなくインタプリタが起動する、さらに日本向けにカタカナ表示を可能としたも発売された。後継機種のが登場しても、しばらくは3機種とも併売されていた。
+
+### 画像表示
+
+画像表示は次の3つのモードがある。
+
+  - テキストモード 40文字×24行 モノクロ（反転表示、点滅表示あり）
+  - 低解像度グラフィック 40[ドット](https://ja.wikipedia.org/wiki/ドット "wikilink")×48ドット 15色
+  - 高解像度グラフィック 280ドット×192ドット 6色（初期モデルは4色）
+
+グラフィックモードは、現在のグラフィック表示ボードのように[ピクセル](https://ja.wikipedia.org/wiki/ピクセル "wikilink")やバイト単位の[プレーン](https://ja.wikipedia.org/wiki/プレーン "wikilink")、[RGB](https://ja.wikipedia.org/wiki/RGB "wikilink")順などに独立して実装されてはおらず、[ビデオメモリの](../Page/VRAM.md "wikilink")1[ビット](../Page/ビット.md "wikilink")が画面上の1ピクセルに対応する。基本的には1ピクセル＝1ビットの情報量しか持たないが、ビデオメモリ1[バイト中の](../Page/バイト_\(情報\).md "wikilink")7ビットをピクセルとして使用し、最上位ビットは色セットの指定に使われた。色指定は、最上位ビットと画面上の隣り合ったピクセルのオン・オフの組み合わせで行なう。隣り合ったビットを同時にオンにすると白、同時にOFFにすると黒となり、どちらかだけをオンにするとビットの位置に応じた特定の色が表示される。
+
+また、ビデオメモリの実装アドレスは連続しておらず、1ラスタごとに先頭アドレスは二進数の桁上がりで切りの良いアドレスに配置され、飛び石状に配置されている。これは、[CRTCの実装を容易なものとした際の副作用である](https://ja.wikipedia.org/wiki/CRTC_\(LSI\) "wikilink")（手抜きとも言える）が、二進数で演算を行うCPUがビデオメモリ上の参照アドレスを演算する際にも（二進数で）切りの良い数字で桁合わせが可能となる（桁合わせの際に、数ステートの命令を省略できうる）というメリットを生じた。
+
+なお、ビデオメモリが1バイトあたり7ピクセルとなっているのは、本体のマスタークロックである14MHzの分周に処理を合わせるためで、4色しか表示できない初期モデルでは、色指定用のビットは未使用ビットとなっていた。
+
+| 色  | ビットパターン  |
+| -- | -------- |
+| 黒  | ○○○○○○○○ |
+| 白  | ○○○●●○○○ |
+| 色1 | ○○○●○○○○ |
+| 色2 | ○○○○●○○○ |
+| 色3 | ●○○●○○○○ |
+| 色4 | ●○○○●○○○ |
+
+色とビットパターンの関係
+
+●オン ○オフ
+
+低解像度グラフィック、高解像度グラフィックにおいては、画面の下4行のみをテキストモードとして表示することもできた（その分、グラフィックの表示領域は狭くなる）。このモードを効果的に活用して一世を風靡したのが、『[ミステリーハウス](https://ja.wikipedia.org/wiki/ミステリーハウス "wikilink")』を嚆矢とする[グラフィックアドベンチャーゲームである](https://ja.wikipedia.org/wiki/アドベンチャーゲーム#グラフィックアドベンチャーの登場 "wikilink")。
+
+## 拡張性
+
+[Micromodem_II_in_Apple_II.jpg](https://ja.wikipedia.org/wiki/File:Micromodem_II_in_Apple_II.jpg "fig:Micromodem_II_in_Apple_II.jpg")を接続した 。内部構造が確認できる。\]\] 本体後方に[エッジ・コネクタ](https://ja.wikipedia.org/wiki/エッジ・コネクタ "wikilink")を備えた8個のスロットが設けられており、そこに拡張カードを挿入することにより、様々な周辺機器と接続することができた 。フロッピーディスク用やプリンタ用など、各種の拡張インタフェースカードがアップルから発売された。各スロットには専用のI/O空間とプログラム領域が割り当てられており、カードを挿すことでカード上に持っている[デバイスドライバ](../Page/デバイスドライバ.md "wikilink")がアドオンされ、即使用可能となる作りになっていた。
+
+8つある拡張スロットは0番と7番が特殊な仕様になっており、スロット0番は内蔵のROMエリアと切り替えができ、内蔵のインタプリタと切り替えて別の言語を使用したり、RAMに置き換えて64KBのメモリエリアを全てRAMにする場合に使用された。スロット7番はカラーリファレンスと同期信号が出力されており、標準のNTSCビデオ出力ではなく[PAL](https://ja.wikipedia.org/wiki/PAL "wikilink")やRGBで映像信号を取り出す際に使用された。スロット1 - 6番は特別な仕様の違いはないが、本体起動時にオートスタートROMがスロット7から降順でFDDのコントローラカードを探しにいく仕様のため、最初のFDDコントローラカードは（7番をリザーブして）スロット6番に挿すのが半固定となっていた。また厳密な決まりではないが1番スロットは[パラレルI](https://ja.wikipedia.org/wiki/パラレル通信 "wikilink")/F、2番スロットは[シリアルI](https://ja.wikipedia.org/wiki/シリアル通信 "wikilink")/F、3番スロットはコンソール出力に使うのが暗黙のルールになっており、Apple IIeではメモリを増設してPR\#3と入力することで80桁表示に切り替えることができた。
+
+に続いて他社から発売されたパーソナルコンピュータの一部には、このような拡張インタフェースを持たないものや、内部をユーザには公開していないものもあったが、では回路図が公開されていたため、ユーザが拡張インタフェースカードを自作することが可能で、様々な拡張インタフェースカードが作られた。[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")からも多種のカードが販売された。中には本体のCPUをバイパスし、拡張カード上の他のCPU（[Z80](../Page/Z80.md "wikilink")や[6809](../Page/MC6809.md "wikilink")、[8088や](../Page/Intel_8088.md "wikilink")[MC68008](../Page/MC68000.md "wikilink")）を動作させるものなどもあった。他の機械装置と手軽に接続できるこの拡張性の高さと柔軟性が、 にさらに多くのホビイストをひきつけた。
+
+### 純正オプション
+
+以下は、のカタログに記載されているオプション群である。表記はカタログ記載に準じた\[3\]。
+
+  - アップル・ディスクII フロッピーディスクサブシステム
+  - アップル・グラフィック・タブレット
+  - アップル・インターフェイス・カード
+      - シリアル・インターフェイス・カード
+      - パラレル・プリンター・インターフェイス・カード
+      - コミュニケーションズ・インターフェイス・カード
+  - アップル・ランゲージ・システム
+      -
+      -
+      -
+  - 整数  カード
+  - アプリケーションプログラム
+      - アップル・ライター
+      - アップル・プロット
+      - アップル・ポスト
+      - シェル・ゲーム
+  - サイレンタイプ（サーマル・プリンター）
+
+## の後継機種と戦略
+
+ユーザに支持されたは、、、などの後継機種を生み出すにいたったが、アップルは必ずしもこれを好ましく思わず、後にビジネス向けに開発されるに尽力するようになるが、は失敗し、3億ドルの損失が出たと言われる。
+
+## キーボード
+
+といえば、本体とキーボードが一体化した姿が代表的であるが、は本体とキーボードが分離しており、また見た目も シリーズよりはシリーズに似ている。
+
+### のアップルキーとマッキントッシュのコマンドキーの関係
+
+[Apple_iigs.jpg](https://ja.wikipedia.org/wiki/File:Apple_iigs.jpg "fig:Apple_iigs.jpg") 以降ののキーボードには、アップルマークが表示された[アップルキー](https://ja.wikipedia.org/wiki/アップルキー "wikilink")という[修飾キー](https://ja.wikipedia.org/wiki/修飾キー "wikilink")がある。
+
+また、マッキントッシュ用のキーボードには[コマンドキー](https://ja.wikipedia.org/wiki/コマンドキー "wikilink")という修飾キーがある。 このコマンドキーは「」「」のような文字表示はなく、アップルマークと四葉のクローバー似のコマンドマークが並んでいる珍しい表示になっている（初代の  はアップルマークが無くコマンドマークのみ）。このようになった理由は、以下のようなものである。
+
+マッキントッシュの第2世代に位置づけられる「」および「」では、キーボードが (ADB) で接続できるよう仕様変更された。これに先立ち、におけるキーボードの接続にもADBが採用されていたため、マッキントッシュとで共通のキーボードが利用できるようになった。そこで、使用時にはアップルキー、マッキントッシュ使用時にはコマンドキーとして両ユーザが判別できるよう、2つのマークが併記されることになったのである。
+
+この当時、マッキントッシュではキーボードが本体に付属しておらず、別途16,000円ほどのを購入する必要があったが、マッキントッシュユーザの間ではに付属するキーボードの評判が高く、中古のキーボードを買い求める人が少なくなかった。中古市場においては、用キーボードが欠品する現象も発生した。後にが登場した際、専用のキーボードはという廉価な製品に置き換えられたが、この時もキーボードにこだわりを持つユーザ層は、前モデルのや付属キーボードを探し歩くこととなった。
+
+マッキントッシュユーザの間では、コマンドキーのことを「アップルキー」と呼ぶことも多い。しかし、アップルキーとはあくまでの修飾キーの名称であり、マッキントッシュの修飾キーを指す名称ではない。なお、2つのマークを並べる表示は、近年のマッキントッシュシリーズのキーボードにも伝統的に継続されていた。しかし、2007年8月に販売開始されたにおいて、ついにアップルマークの表示が廃止されることになった。コマンドマークと「」の併記となった変更は、からの経緯を知る一部の古参ユーザの間で物議をかもした。
+
+## バリエーション
+
+Apple II Plus.jpg|Apple II Plus Apple II J-Plus.jpg|Apple II J-Plus Apple IIe.jpg|Enhanced Apple IIe Apple Platinum IIe.jpg|テンキー付き Apple IIe Apple IIc Plus (front).jpg| Apple IIe Card.jpg|Apple IIe Card。中央にあるのがMEGA II チップ Bell and Howell Apple II.jpg|Bell & Howell Apple II Plus
+
+  - Apple II
+    最初のApple II。電源を入れてもBASICがホットスタートせず、モニタからCtrl+Bを入力する必要があった。リビジョン0と呼ばれた最初期のApple IIはパワーオンリセット機能もなく、電源を入れてRESETボタンを押すことでリセットがかかりモニタが起動した。
+  - Apple II plus
+    オートスタートROMが搭載されて、FDDが接続されていればFDDから、接続されていなければ内蔵のBASICが自動でブートするようになった。キーボード左下のパワーランプが埋め込み型になり左シフトキーを押す際に邪魔にならなくなった。後期モデルではキーボードがスカルプチャータイプになっている。
+  - Apple II J-plus
+    Apple II plusをベースに、日本向けにカナ文字が表示できるようにしたもの。東レがアップルと代理店契約を結び、1980年9月8日に発売した\[4\]。カナ文字を表示させるためにキャラクターセットの一部とモニタROMが変更されており、その為、ソフトによっては文字化けを起こしたり動かなかったりとコンパチビリティに問題があった。キーボードはキーのフロント部分にカナ文字が刻印されていた。マニュアルはESDラボラトリが翻訳した日本語版が付属した。
+    カナ文字自体はDOS Tool Kitのハイレゾ・キャラクタージェネレーターを使用することで、J-plus以外でもHIRES画面を用いて描画することができた。市販のプログラムでもカナ文字はソフトウェアでHIRES画面に直接描画されることが多く、J-plusのカナ表示機能を必要としたのはデータベースなど、ごく一部のビジネスソフトに限られた。
+  - Apple II europlus
+    欧州でも動くように電源ユニットが220V対応になったもの。ビデオ信号も欧州向けに50Hzに変更されている（基板上のジャンパーで切り替えられる）がモノクロ出力で、カラーで表示するには7番スロットにPALカードを挿す必要があった（7番スロットは「PALカード専用」と書かれたシールで封印が施されていた）。ROMは書き換えられていないので、ソフトのコンパチビリティは高かった。
+  - Apple II Arabic-plus
+    スロット0番に[アラビア語](../Page/アラビア語.md "wikilink")を出力するためのボードが挿ささったもの。このボードをオンにして起動するとアラビア語モードとなり、キャラクターセットがアラビア文字になり、タイプした文字が『右→左』で出力されるようになる。キートップにはアルファベットと一緒にアラビア文字がシルク印刷されていた。
+  - Apple IIe
+    Apple III が商業的に失敗したことを受けて製造された拡張版Apple II。0番スロットがAUXスロットに変わり、メモリボードを挿すことで1行80文字のテキストと、ダブルハイレゾ（560×192ドット、16色）のグラフィックが表示できるようになった。またキーボードがフルASCIIセットとなり、アルファベットの小文字が直接入力できるようになった他、上下のカーソルキーやアップルキーも新設された。
+  - Apple IIc
+    必要なインターフェースを全て内蔵させる代わりに拡張スロットを廃して小型化させたApple II。ただし外付けでかなり大きなACアダプタが付くので全体ではコンパクトにならない。内蔵の5インチFDDは薄型化によりドライブの機構が変わり、そのためプロテクトのきついソフトは正常動作しない確率が高く、メーカーはIIc対応版のソフトを新たにリリースして対応することとなった。マウスインターフェースを標準装備していて、マウスを直接繋いで使うことができた。
+  - Enhanced Apple IIe
+    IIcで拡張された機能が取り込まれたIIe。CPUがIIcと同じCMOSタイプに変更され、ROMもIIcと同じものになった。ノーマルのApple IIeをEnhancedモデルへアップグレードするキットも発売された。
+  - Apple IIGS
+    CPUに[65816を載せた](../Page/65816_\(コンピュータ\).md "wikilink")16ビット版のApple II。グラフィックとサウンドが大幅に強化されている。本体はキーボード分離型となり、一見すると[Macintosh LCのような外観となった](https://ja.wikipedia.org/wiki/Macintosh_LC "wikilink")。メモリを4MBに拡張することで[GS/OSというGUIベースのOSが使用できた](https://ja.wikipedia.org/wiki/:en:Apple_GS/OS "wikilink")。Apple IIのソフトは[MEGA IIという専用のチップで動作した](https://ja.wikipedia.org/wiki/:en:Mega_II "wikilink")。
+    Apple IIeをGSにアップグレードするコンバージョンキットも販売された。ただしマザーボードと底板がそっくり交換となり、流用できるのはケースとキーボードと電源程度となる。
+  - テンキー付き Apple IIe
+    本体ケースがMacと同じ材質のプラチナホワイトカラーとなったモデル。キー配列がGSと同じになり、テンキーも新設された。メモリは標準でオンボード128KB。
+  - Apple IIc plus
+    内蔵のFDDがMacの800KBフォーマットに対応した3.5インチのドライブに変更された。また電源が内蔵されACアダプタが不要になり本来の意図でのコンパクトモデルになった。
+  - Apple IIe Card
+    Macintosh上でApple II のソフトウェアを動かすためのカード。Macintosh LCのLCカードスロットに挿して使う。FDDはMacintosh内蔵のドライブが使えたが、5インチのFDDを動かしたい場合は、付属のケーブルでApple II 用のドライブを接続して使うこともできた。またMacintoshのハードディスクにディスクをコピーして使うこともできた。
+    オプション設定でカラーバースト信号を切り替えたり、クロック数を上げて[オーバークロック](https://ja.wikipedia.org/wiki/オーバークロック "wikilink")で動作させることもできた。
+  - Bell & Howell Micro Computer
+    Bell & Howell社向けに出荷したApple IIのOEM品。本体ケースが黒色になっているのと、背面にAV関係をコントロールする各種アウトレットが増設されている違いがある。
+
+## 互換機
+
+は多数の互換機（クローン）も出現したが、大半は[知的財産権](../Page/知的財産権.md "wikilink")的に問題があり消滅した。しかし当時も[クリーンルーム設計](https://ja.wikipedia.org/wiki/クリーンルーム設計 "wikilink")で問題を回避した[Laser 128のような機種もあった](https://ja.wikipedia.org/wiki/:en:Laser_128 "wikilink")。同機は日本の[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")でも見られた。
+
+|Агат-4（ソ連製） ファイル:Laser128 1.jpg|Laser 128（香港製） ファイル:ITT2020-front-view2.jpg|[ITT 2020](https://ja.wikipedia.org/wiki/ITT_2020 "wikilink")（アメリカ製） ファイル:Ivel Ultra Model 2.jpg|Ivel Ultra Model 2（台湾製） ファイル:Mpf-III.jpg|Microprofessor III（台湾製） ファイル:Taiwanese Apple II clone Cosmo.jpg|SPS-109（台湾製）
+
+## 脚注
+
+## 関連項目
+
+  -
+  -
+  -
+  -
+  - [AppleWin](https://ja.wikipedia.org/wiki/AppleWin "wikilink")
+
+  - [スティーブ・ウォズニアック](https://ja.wikipedia.org/wiki/スティーブ・ウォズニアック "wikilink")
+
+  - [:Category:Apple II用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Apple_II用ゲームソフト "wikilink")
+
+## 外部リンク
+
+  - [](http://www.apple2world.jp/)
+  - [ 進化の系譜](http://harumac.client.jp/macos_history.html)
+  - [ 実機の写真画像](http://www.8bit-museum.de/?page=docs/apple3b.htm)
+
+[Category:アップルのパソコン](https://ja.wikipedia.org/wiki/Category:アップルのパソコン "wikilink") [Category:スティーブ・ジョブズ](https://ja.wikipedia.org/wiki/Category:スティーブ・ジョブズ "wikilink") [Category:アセンブリ言語](https://ja.wikipedia.org/wiki/Category:アセンブリ言語 "wikilink")
+
+1.
+2.
+3.  東レ発行  カタログより
+4.

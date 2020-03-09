@@ -1,0 +1,413 @@
+> この記事は[vs](https://ja.wikipedia.org/wiki/vs)から翻訳されています。
+
+
+『**ゴジラvsデストロイア**』（ゴジラたいデストロイア、または、ゴジラ ブイエス デストロイア）は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月9日](../Page/12月9日.md "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")で、「[ゴジラ](../Page/ゴジラ.md "wikilink")シリーズ」の第22作である。観客動員数は400万人。[配給収入](https://ja.wikipedia.org/wiki/配給収入 "wikilink")は20億円。キャッチコピーは「**ゴジラ死す**」。
+
+## 概要
+
+**ゴジラの死を描いた作品**として公開された、平成vsシリーズの完結編。
+
+1954年公開のシリーズ第1作『[ゴジラ](https://ja.wikipedia.org/wiki/ゴジラ_\(1954年の映画\) "wikilink")』への[オマージュ](https://ja.wikipedia.org/wiki/オマージュ "wikilink")色が濃く、第1作に登場した山根恵美子が再登場し、回想シーンでも第1作の映像が使用されている他、タイトルコールにも第1作のメインタイトルを引用するなどの演出が盛り込まれている。
+
+この作品は1954年のシリーズ第1作から製作に携わっていた[田中友幸](https://ja.wikipedia.org/wiki/田中友幸 "wikilink")の名前がクレジットされる最後のゴジラ映画となっており、また、音楽担当の[伊福部昭](../Page/伊福部昭.md "wikilink")・特技監督の[川北紘一](https://ja.wikipedia.org/wiki/川北紘一 "wikilink")・ゴジラのスーツアクターの[薩摩剣八郎](https://ja.wikipedia.org/wiki/薩摩剣八郎 "wikilink")などもゴジラシリーズ最後の参加となった。
+
+本作のゴジラの鳴き声は前作までと違い、甲高い鳴き声の中にうめき声のようなものが強調されている。
+
+主要襲撃地点は、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")（[羽田空港](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")、[有明](https://ja.wikipedia.org/wiki/有明_\(江東区\) "wikilink")）。また、ゴジラは[愛媛県](../Page/愛媛県.md "wikilink")の[伊方発電所](https://ja.wikipedia.org/wiki/伊方発電所 "wikilink")に接近したが寸前で阻止され、四国（伊方町）上陸は果たされなかった。
+
+観客動員数は400万人、[配給収入](https://ja.wikipedia.org/wiki/配給収入 "wikilink")は20億円で1996年の邦画配給収入第1位を記録している。また、前売り券がゴジラシリーズとしては初めて10万枚以上を売り上げた\[1\]。
+
+エンディングのスタッフロールの背景は第1作、及びそれまでに製作された平成vsシリーズ作品の映像が使われているほか、音楽は有名なゴジラのメインテーマを筆頭に据えた伊福部昭による『[SF交響ファンタジー](https://ja.wikipedia.org/wiki/SF交響ファンタジー "wikilink")』をアレンジしたものになっており、その曲中にはシリーズ最高の動員を記録した『[キングコング対ゴジラ](https://ja.wikipedia.org/wiki/キングコング対ゴジラ "wikilink")』の音楽も含まれる。
+
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7月4日にフジテレビ系の[ゴールデン洋画劇場](https://ja.wikipedia.org/wiki/ゴールデン洋画劇場 "wikilink")にて地上波初放送された。
+
+## ストーリー
+
+ゴジラと[MOGERAが共闘した](https://ja.wikipedia.org/wiki/モゲラ#『ゴジラvsスペースゴジラ』のモゲラ_\(MOGERA\) "wikilink")[スペースゴジラ](https://ja.wikipedia.org/wiki/スペースゴジラ "wikilink")との戦いから1年後、[バース島が消滅し](https://ja.wikipedia.org/wiki/ゴジラvsスペースゴジラ#バース島 "wikilink")、[ゴジラと](https://ja.wikipedia.org/wiki/ゴジラ_\(架空の怪獣\) "wikilink")[リトルゴジラが姿を消した](https://ja.wikipedia.org/wiki/ゴジラジュニア#リトルゴジラ "wikilink")。その1ヶ月後、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")に全身を燃えるように発光させたゴジラが出現し、赤い熱線を吐きながら香港の町を蹂躙していった。バース島消滅は、その地下の高純度の天然[ウラン](../Page/ウラン.md "wikilink")が[熱水](https://ja.wikipedia.org/wiki/熱水 "wikilink")に反応した結果の爆発であり、その影響を受け体内炉心の核エネルギー反応が不安定になったゴジラは、いつ核爆発を起こしてもおかしくない状態であった。
+
+同じ頃、青海トンネルの工事現場で工事用パイプが溶解するトラブルが相次いで発生。[しながわ水族館](https://ja.wikipedia.org/wiki/しながわ水族館 "wikilink")では魚が突然水に食われるかのように白骨化する怪事件が起きる。その原因は、かつて[オキシジェン・デストロイヤーを使用してゴジラを抹殺した際](https://ja.wikipedia.org/wiki/東宝特撮映画の登場兵器#オキシジェン・デストロイヤー "wikilink")、海底に眠っていた[古生代](https://ja.wikipedia.org/wiki/古生代 "wikilink")の微小生命体が無酸素環境下で復活し、異常進化を遂げた恐るべき生物・[デストロイア](https://ja.wikipedia.org/wiki/デストロイア "wikilink")であった。デストロイアは急速に巨大化し、人間大の大きさとなって[臨海副都心](https://ja.wikipedia.org/wiki/臨海副都心 "wikilink")で[警視庁](../Page/警視庁.md "wikilink")の[特殊部隊](../Page/特殊部隊.md "wikilink")と交戦、さらには[自衛隊](../Page/自衛隊.md "wikilink")の攻撃に対して集合・合体し、40メートルの成長体と化して破壊の限りを尽くす。
+
+そんな折、[御前崎](https://ja.wikipedia.org/wiki/御前崎 "wikilink")沖にゴジラに酷似した怪獣が出現した。それは行方不明となっていたリトルゴジラが、天然ウランの影響を受け急成長した[ゴジラジュニア](https://ja.wikipedia.org/wiki/ゴジラジュニア "wikilink")であった。バース島を失ったジュニアは、自らの故郷であるアドノア島へ帰ろうとしていたのだった。
+
+ゴジラは[四国電力](https://ja.wikipedia.org/wiki/四国電力 "wikilink")・[伊方発電所](https://ja.wikipedia.org/wiki/伊方発電所 "wikilink")の寸前で、[スーパーXIIIの放った](https://ja.wikipedia.org/wiki/スーパーX#スーパーXIII（『ゴジラvsデストロイア』） "wikilink")[カドミウム](../Page/カドミウム.md "wikilink")弾により体内の核分裂が制御され始めた。これにより核爆発の危機は回避されたが、体内炉心の温度上昇には歯止めが掛からず、[メルトダウン寸前の状態となっていた](https://ja.wikipedia.org/wiki/炉心溶融 "wikilink")。もはやゴジラを抹殺できるのは、オキシジェン・デストロイヤー＝デストロイアしかいない。ゴジラとデストロイアを戦わせるため、ゴジラジュニアを囮としてデストロイアに向かわせる作戦が提案される。臨海副都心、羽田空港を舞台に、ゴジラの最終決戦が始まろうとしていた。
+
+## 登場怪獣
+
+  - [ゴジラ](https://ja.wikipedia.org/wiki/ゴジラ_\(架空の怪獣\)#『ゴジラvsキングギドラ』以降 "wikilink")
+      -
+        作中の出現地点・進行ルート：バース島→香港→[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")沖→[沖縄](https://ja.wikipedia.org/wiki/沖縄 "wikilink")沖→[豊後水道](https://ja.wikipedia.org/wiki/豊後水道 "wikilink")→[東京湾](../Page/東京湾.md "wikilink")→[羽田空港](https://ja.wikipedia.org/wiki/羽田空港 "wikilink")→[有明](../Page/有明.md "wikilink")
+  - [デストロイア](https://ja.wikipedia.org/wiki/デストロイア "wikilink")
+      -
+        作中の出現地点・進行ルート：臨海副都心青海トンネル工事現場→しながわ水族館→有明プレミアムビル→有明クリーンセンター→[品川駅](https://ja.wikipedia.org/wiki/品川駅 "wikilink")周辺→[天王洲アイル](https://ja.wikipedia.org/wiki/天王洲アイル "wikilink")→[品川火力発電所](https://ja.wikipedia.org/wiki/品川火力発電所 "wikilink")→羽田空港→有明
+        英文スペルはDestoroyahでありDestroyerではない。
+  - [ゴジラジュニア](https://ja.wikipedia.org/wiki/ゴジラジュニア "wikilink")
+      -
+        作中の出現地点・進行ルート：バース島→[四国](../Page/四国.md "wikilink")沖（？）\[2\]→御前崎沖→東京湾→[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")→天王洲アイル→羽田空港→有明
+
+## 登場人物
+
+※ここでは『東宝SF特撮映画シリーズVOL.10 ゴジラVSデストロイア』で「主な登場人物」として掲載されている人物のみを挙げる。
+
+  - 伊集院 研作
+    国立物理化学研究所所属の[物理学者](https://ja.wikipedia.org/wiki/物理学者 "wikilink")。36歳。[酸素](../Page/酸素.md "wikilink")研究の過程で偶然ミクロオキシゲンを発見・発明し、国際物理学賞を受賞したことでマスコミから注目を集め始めている。芹沢博士に心酔しており、40年前にオキシジェン・デストロイヤーによって無酸素状態となった東京湾岸周辺の地質が[先カンブリア紀の謎を解くヒントになると考え](https://ja.wikipedia.org/wiki/先カンブリア時代 "wikilink")、トンネル工事事故調査の際、現場の土を密かに持ち帰った。ゆかりからはその行動が「悪魔の発明」の再来につながるのではないかと危惧されるが、本人は芹沢の遺志も強く尊重し、オキシジェン・デストロイヤーの再開発にも反対の立場を貫いている。劇中ではデストロイアに襲われたゆかりを捨て身で救い、さらにゴジラとデストロイア撃退に冷凍兵器使用を提案するなど、肩書きにとどまらない活躍を見せた。ちなみに特殊部隊の火器攻撃を中止させるために警告をした警官とのやりとりは第1作「ゴジラ」の山根博士のオマージュである。
+  - 山根 ゆかり
+    ニュースキャスター。28歳。山根家の養子となった少年・新吉（故人）の娘。歯に衣着せないストレートなスタイルを売りにしており、そのせいで自身の番組にゲスト出演していた伊集院の不興を買ってしまう。だが恵美子の依頼で、伊集院と個人的にコンタクトを取っていくこととなる。当初はミクロオキシゲンを楽観視する伊集院の言動に反発していたが、彼の誠実な内面を知るに従い、徐々に感情を変化させていく。臨海副都心でのデストロイア幼体群と特殊部隊の戦闘を生中継中、デストロイアの幼体に襲われるという壮絶な経験をする。その後も臨海副都心や報道ヘリから中継を続け、伊集院らとともに戦場に残された未希と芽留を救出した。愛車は[エスクード・ノマド](https://ja.wikipedia.org/wiki/スズキ・エスクード "wikilink")。
+  - 山根 健吉
+    新吉の息子で、ゆかりの弟。東都大学の大学生。22歳。ゴジラの独自研究を趣味としている落ち着いた青年だが、ゴジラの異常に関する卒業論文が「不真面目」として認められず留年中。その論文をアメリカのGサミットに送ったところマービンの目に留まり、国友から協力を依頼される。また、未希の大ファンでもあり、彼女も参加していると知ると一度断った依頼をすんなり了承しGサミットに加わった。当初は興味本位程度での参加だったが、世界的な危機に接する中でゴジラに対する心境も変化し、ゴジラの抹殺にはデストロイアと戦わせる以外にないと訴える。
+  - 三枝 未希
+    平成VSシリーズの主要人物。超能力者でサイキックセンター主任を務める。24歳。前作以後もバース島のゴジラとリトルの監視任務に就いていたため、最初にバース島消滅の事実を知ることとなる。本作では超能力でジュニアの捜索を行うものの、見つけ出すことが出来ず、能力が低下しているのではないかと自信を失いかける一幕もあった。芽留と共にテレパシーでジュニアを誘導し、ゴジラの最期を見守った。
+  - 小沢 芽留
+    未希と同様の超能力者。Gサミット・アメリカ情報官。20歳。アメリカで能力開発訓練を受けた後、恐竜化石の発掘などへの参加を経てGサミットに加わった。未希と同様に、基本的にはゴジラとゴジラジュニアを案じているが、ゴジラのメルトダウンを避けて地球全体を救うためにジュニアを囮にしようと提案するなど少々ドライな一面も持ち、未希と比べると自身の超能力を快く思っていないようで、また健吉の意見に肯定的である。
+    一部書籍などでは『[ゴジラvsメカゴジラ](https://ja.wikipedia.org/wiki/ゴジラvsメカゴジラ "wikilink")』に登場した精神開発センターの女性職員と同一人物ではないかという言及があるが、本編中では未希に対して自らの過去の経歴を語るなど、本作まで面識がなかったことをうかがわせる演出も見られる。
+  - 速見 惣一郎
+    TV局ディレクター。45歳。ゆかりの同僚。序盤に登場し、TVでミクロオキシゲンの危険性を感じた恵美子からの連絡をゆかりに伝えた。
+  - 南条
+    TV局カメラマン。ゆかりの同僚で、ゆかりと共に怪獣たちの死闘を中継した。
+  - 上田
+    [内閣調査室室長](../Page/内閣情報調査室.md "wikilink")。Gサミットの参加メンバー。
+  - 岡崎
+    陸上自衛隊陸佐。
+  - 村田
+    陸上自衛隊陸佐。クリーンセンターでのデストロイア攻撃臨時司令部に参加。
+  - 田山 孝夫
+    しながわ水族館警備員。深夜の警備中にデストロイアの微小体によって観賞用の魚達が溶かされる場面に遭遇し絶叫するが、翌日その画像を伊集院たちが検証する場に氷枕を額に乗せながら立ち会った。
+    上田は前2年、Gフォース中佐の兵藤巌役として出演していたが、今作では『[ゴジラvsモスラ](https://ja.wikipedia.org/wiki/ゴジラvsモスラ "wikilink")』以来別人役として出演。
+  - 黒木 翔
+    防衛庁特殊戦略作戦室室長、三等特佐。核爆発及びメルトダウンの危険性があるゴジラに対してスーパーXIIIの出動が決定したため、自ら指揮官として搭乗し、6年ぶりにゴジラ攻撃の指揮を執ることとなる。
+    『[ゴジラvsビオランテ](https://ja.wikipedia.org/wiki/ゴジラvsビオランテ "wikilink")』では[高嶋政伸](https://ja.wikipedia.org/wiki/高嶋政伸 "wikilink")が演じていたが、スケジュールの都合がつかず『ゴジラVSメカゴジラ』で主人公・青木一馬役として出演した実兄の政宏が演じている\[3\]。
+  - 山根 恵美子
+    山根恭平博士（故人）の娘で、ゆかりと健吉の叔母。62歳。前半に登場し、ミクロオキシゲンにオキシジェン・デストロイヤーの危険性を重ね、更に地球全体の危機をゴジラの核爆発から救うためにオキシジェン・デストロイヤーを使おうと提案する健吉に反対した。第1作『ゴジラ』で恋人だった尾形秀人とは結婚しておらず、独身である\[4\]。
+  - 麻生 孝昭
+    [Gフォース大佐](https://ja.wikipedia.org/wiki/東宝特撮映画の怪獣対策組織#Gフォース "wikilink")、司令官。47歳。前2年の大連敗をまだ引きずっているのか、司令官としての威厳が少々感じられなくなっているが、それでもゴジラ対策への熱意は失っていない。
+  - 後藤
+    陸上自衛隊陸将。臨海副都心・クリーンセンターに集結した冷凍レーザータンク部隊を指揮し、デストロイア攻撃に臨む。
+    後藤指令役の[神山繁](https://ja.wikipedia.org/wiki/神山繁 "wikilink")は東宝映画では海軍軍人の役が多く、僅かな登場でありながら陸自の将校役を演じた本作は特に印象に残っているという。
+  - 国友 満
+    国連G対策センター2代目長官、Gサミット議長。54歳。興味深い意見を持つ者と感じれば、民間人でもゴジラ対策のメンバーに招き入れる柔軟さを持ち、健吉に協力を依頼する際も自ら自宅へ赴く。東京の真ん中でゴジラとデストロイアを戦わせようという健吉の案には当初反対するが、地球全体の危機を考慮し了承する。
+    当初は[細川俊之](https://ja.wikipedia.org/wiki/細川俊之 "wikilink")が演じていたが、クランクイン後に急病により途中降板。細川の出演カットを使用した特報も存在する。
+
+## 登場兵器・メカニック
+
+### 架空
+
+  - [スーパーXIII](https://ja.wikipedia.org/wiki/スーパーX#スーパーXIII（『ゴジラvsデストロイア』） "wikilink")
+  - [95式冷凍レーザータンク](https://ja.wikipedia.org/wiki/メーサー兵器#95式冷凍レーザータンク "wikilink")
+  - [92式メーサー戦車改](https://ja.wikipedia.org/wiki/メーサー兵器#92式メーサー戦車 "wikilink")
+  - [93式自走高射メーサー砲改](https://ja.wikipedia.org/wiki/メーサー兵器#93式自走高射メーサー砲 "wikilink")
+  - レーダー車輌
+
+### 実在
+
+  - 自衛隊
+
+<!-- end list -->
+
+  - [90式戦車](../Page/90式戦車.md "wikilink")
+  - [74式戦車](../Page/74式戦車.md "wikilink")
+  - [89式装甲戦闘車](https://ja.wikipedia.org/wiki/89式装甲戦闘車 "wikilink")
+  - [87式偵察警戒車](https://ja.wikipedia.org/wiki/87式偵察警戒車 "wikilink")
+  - [82式指揮通信車](https://ja.wikipedia.org/wiki/82式指揮通信車 "wikilink")
+  - [73式装甲車](https://ja.wikipedia.org/wiki/73式装甲車 "wikilink")
+  - [74式特大型トラック](https://ja.wikipedia.org/wiki/74式特大型トラック "wikilink")
+  - [高機動車](https://ja.wikipedia.org/wiki/高機動車 "wikilink")
+  - [88式地対艦誘導弾](https://ja.wikipedia.org/wiki/88式地対艦誘導弾 "wikilink")
+  - [81式短距離地対空誘導弾](https://ja.wikipedia.org/wiki/81式短距離地対空誘導弾 "wikilink")
+  - [はつゆき型護衛艦](https://ja.wikipedia.org/wiki/はつゆき型護衛艦 "wikilink")「[しらゆき](https://ja.wikipedia.org/wiki/しらゆき_\(練習艦\) "wikilink")」
+  - [はるしお型潜水艦](https://ja.wikipedia.org/wiki/はるしお型潜水艦 "wikilink")「[なつしお](https://ja.wikipedia.org/wiki/なつしお_\(潜水艦・2代\) "wikilink")」（名称のみ）
+  - [ゆうしお型潜水艦](https://ja.wikipedia.org/wiki/ゆうしお型潜水艦 "wikilink")「[あきしお](https://ja.wikipedia.org/wiki/あきしお_\(潜水艦\) "wikilink")」（名称のみ）
+  - [AH-64A](../Page/AH-64_アパッチ.md "wikilink")[戦闘ヘリコプター](../Page/攻撃ヘリコプター.md "wikilink")
+  - [UH-1H](https://ja.wikipedia.org/wiki/UH-1_\(航空機\)#日本 "wikilink")[多用途ヘリコプター](https://ja.wikipedia.org/wiki/汎用ヘリコプター "wikilink")
+  - [HSS-2B](https://ja.wikipedia.org/wiki/三菱-シコルスキー_S-61#HSS-2B "wikilink")[哨戒ヘリコプター](https://ja.wikipedia.org/wiki/対潜哨戒機#哨戒ヘリコプター "wikilink")
+  - [64式7.62mm小銃](https://ja.wikipedia.org/wiki/64式7.62mm小銃 "wikilink")
+  - [M16](https://ja.wikipedia.org/wiki/M16自動小銃 "wikilink")[自動小銃](https://ja.wikipedia.org/wiki/自動小銃 "wikilink")
+
+<!-- end list -->
+
+  - 警察
+
+<!-- end list -->
+
+  - [大型輸送車](https://ja.wikipedia.org/wiki/人員輸送車#大型輸送車 "wikilink")
+  - [マツダ・プロシードマービー](https://ja.wikipedia.org/wiki/マツダ・プロシード#3代目_UF型（1985_-_2000年） "wikilink")
+  - [パトロールカー](https://ja.wikipedia.org/wiki/パトロールカー#日本 "wikilink")
+  - [M72 LAW](https://ja.wikipedia.org/wiki/M72_LAW "wikilink")[対戦車ロケット弾](../Page/対戦車ロケット弾.md "wikilink")
+  - [M16A3自動小銃](https://ja.wikipedia.org/wiki/M16自動小銃#M16A3_\(モデル646\) "wikilink")
+  - [UZI](https://ja.wikipedia.org/wiki/UZI_\(SMG\) "wikilink")[短機関銃](../Page/短機関銃.md "wikilink")
+  - [フランキ・スパス12](https://ja.wikipedia.org/wiki/フランキ・スパス12 "wikilink")[散弾銃](../Page/散弾銃.md "wikilink")
+  - [レミントンM31](https://ja.wikipedia.org/wiki/レミントンM31 "wikilink")散弾銃
+  - [ベレッタ 92F](https://ja.wikipedia.org/wiki/ベレッタ_92#バリエーション "wikilink")[自動拳銃](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")
+  - [ニューナンブM60](https://ja.wikipedia.org/wiki/ニューナンブM60 "wikilink")[回転式拳銃](https://ja.wikipedia.org/wiki/拳銃#回転式拳銃 "wikilink")
+  - [M67破片手榴弾](https://ja.wikipedia.org/wiki/M67破片手榴弾 "wikilink")
+  - [火炎放射器](https://ja.wikipedia.org/wiki/火炎放射器 "wikilink")
+  - [ガス筒発射器](https://ja.wikipedia.org/wiki/機動隊#個人装備 "wikilink")（[催涙ガス筒](https://ja.wikipedia.org/wiki/催涙剤 "wikilink")）
+
+<!-- end list -->
+
+  - Gフォース
+
+<!-- end list -->
+
+  - [P-3C](https://ja.wikipedia.org/wiki/P-3_\(航空機\) "wikilink")[対潜哨戒機](https://ja.wikipedia.org/wiki/対潜哨戒機#地上配備固定翼哨戒機 "wikilink")
+  - [ヒューズ 369E](https://ja.wikipedia.org/wiki/ヒューズ_369 "wikilink")
+
+## 設定
+
+  - 国連G対策センター
+
+      - Gサミット
+        具体的な概要は、前作『ゴジラvsスペースゴジラ』のG対策協議会とほぼ同じだが、議長をG対策センターの新長官・国友が務めている。また、インターネットによるテレビ電話で海外にいるメンバーとも連絡を取りながら情報交換も行っている。
+
+      - Gフォース
+
+  - 国立物理化学研究所
+    伊集院が勤務している研究機関。監視カメラの映像から写った対象の立体構造を[CGで生成する](../Page/コンピュータグラフィックス.md "wikilink")「3Dスキャンシステム」などの超高性能技術を誇る設備を持つ。ここでミクロオキシゲンとデストロイアに関する解析・実験各種が行われる。
+
+  - ミクロオキシゲン
+    伊集院が発見し研究開発を行った酸素原子を微小化したもので、酸素の性質と生物の成長促進効果性質を有する。反面、その分子の細かさから、物体を形作る原子の隙間に侵入し破壊する作用がある。零下183.2度で液化し、その性質を喪失する。
+
+    これをより大きく拡張したものが[オキシジェン・デストロイヤーである](https://ja.wikipedia.org/wiki/東宝特撮映画の登場兵器#オキシジェン・デストロイヤー "wikilink")。
+
+    伊集院はこの発明がエネルギー・食料問題を大きく改善すると考えており、オキシジェン・デストロイヤーに到達寸前のところまで研究開発したと語っている（しかし、そこからオキシジェン・デストロイヤーに至るまでは容易でないとも断言している）。
+
+  - JBS
+    ゆかりや速水、南条らが勤めているテレビ局。
+
+      - ニュース・ジャーナル
+        ゆかりがメインキャスターを務める夕方の情報番組。この番組の1コーナーで伊集院をゲストに招き、ミクロオキシゲンを取り上げた。
+
+  - SUMP（サンプ）
+    Special Unit of Metropolitan Policeの略で、警視庁の「特殊部隊」。部隊内での各班の隊員は「シグマ7（セブン）」や「オメガ3（スリー）」といった[ギリシア文字](../Page/ギリシア文字.md "wikilink")と数字を組み合わせたコードネーム（各班の責任者は「○（ギリシア文字）リーダー」）を持ち、灰色の突入服と[タクティカルベスト](https://ja.wikipedia.org/wiki/タクティカルベスト "wikilink")、ヘルメットを着用。アサルトライフルや手榴弾の他に、火炎放射器・ロケットランチャーと言った数多くの銃火器で武装している。
+
+    謎の生物（デストロイア幼体群）目撃の通報を受けて臨海副都心に専用車両8台で出動。幼体群が立て籠もったプレミアムビルの地下搬入口と正面西玄関から突入し、直後に遭遇した幼体群と一進一退の激しい戦闘を繰り広げた。
+
+    当時この組織に相当する実在の組織が存在しなかったため\[5\]、架空の組織が設定されている。対怪獣における出動も想定されているためか、上述のように警察の特殊部隊としてはかなりの重武装である。
+
+## キャスト
+
+  - 伊集院研作：[辰巳琢郎](../Page/辰巳琢郎.md "wikilink")
+  - 山根ゆかり：[石野陽子](https://ja.wikipedia.org/wiki/いしのようこ "wikilink")
+  - 山根健吉：[林泰文](https://ja.wikipedia.org/wiki/林泰文 "wikilink")
+  - 三枝未希：[小高恵美](../Page/小高恵美.md "wikilink")
+  - 小沢芽留：[大沢さやか](https://ja.wikipedia.org/wiki/大沢さやか "wikilink")
+  - 速見惣一郎：[村田雄浩](https://ja.wikipedia.org/wiki/村田雄浩 "wikilink")
+  - 南条：[斉藤暁](https://ja.wikipedia.org/wiki/斉藤暁 "wikilink")
+  - 上田：[平泉成](https://ja.wikipedia.org/wiki/平泉成 "wikilink")
+  - 岡崎：[藤巻潤](https://ja.wikipedia.org/wiki/藤巻潤 "wikilink")
+  - 村田：[小野武彦](https://ja.wikipedia.org/wiki/小野武彦 "wikilink")
+  - 田山孝夫：[上田耕一](https://ja.wikipedia.org/wiki/上田耕一 "wikilink")
+  - 中村：[二瓶鮫一](https://ja.wikipedia.org/wiki/二瓶鮫一 "wikilink")
+  - 野村：[荻原賢三](https://ja.wikipedia.org/wiki/荻原賢三 "wikilink")
+  - スーパーXIIIパイロット：[青島健介](https://ja.wikipedia.org/wiki/青島健介 "wikilink")
+  - スーパーXIIIナビゲーター：[川崎博司](https://ja.wikipedia.org/wiki/川崎博司 "wikilink")
+  - JSBテレビのAD：[脇浜紀子](https://ja.wikipedia.org/wiki/脇浜紀子 "wikilink")
+  - マービン：[ロナルド・ヘアー](https://ja.wikipedia.org/wiki/ロナルド・ヘアー "wikilink")
+  - メーサータンク隊員：[石川実](https://ja.wikipedia.org/wiki/石川実 "wikilink")
+  - Gフォース司令室要員：[鳥木元博](https://ja.wikipedia.org/wiki/鳥木元博 "wikilink")、[桜井勝](https://ja.wikipedia.org/wiki/桜井勝 "wikilink")、[細野哲弘](https://ja.wikipedia.org/wiki/細野哲弘 "wikilink")
+  - Gフォース通信士：[安食剛](https://ja.wikipedia.org/wiki/安食剛 "wikilink")
+  - ペンダゴン所員：[シェリー・スゥエニー](https://ja.wikipedia.org/wiki/シェリー・スゥエニー "wikilink")
+  - 国家公安委員：[小寺大介](https://ja.wikipedia.org/wiki/小寺大介 "wikilink")
+  - 警察責任者：[菅野達也](https://ja.wikipedia.org/wiki/菅野達也 "wikilink")
+  - 路上の警官：[江連健司](https://ja.wikipedia.org/wiki/江連健司 "wikilink")
+  - 警官：[佐藤太三夫](https://ja.wikipedia.org/wiki/佐藤太三夫 "wikilink")
+  - しながわ水族館職員：[木下徳和](https://ja.wikipedia.org/wiki/木下徳和 "wikilink")
+  - 特殊部隊隊員：[森岡隆見](https://ja.wikipedia.org/wiki/森岡隆見 "wikilink")、[清水進一](https://ja.wikipedia.org/wiki/清水進一 "wikilink")、[高市好幸](https://ja.wikipedia.org/wiki/高市好幸 "wikilink")、[遠藤晃生](https://ja.wikipedia.org/wiki/遠藤晃生 "wikilink")、[鎌田栄治](https://ja.wikipedia.org/wiki/鎌田栄治 "wikilink")、[小田島隆](https://ja.wikipedia.org/wiki/小田島隆 "wikilink")、[増島剛之](https://ja.wikipedia.org/wiki/増島剛之 "wikilink")、[辻井啓嗣](https://ja.wikipedia.org/wiki/辻井啓伺 "wikilink")、[中村美睦](https://ja.wikipedia.org/wiki/中村美睦 "wikilink")、[小林靖永](https://ja.wikipedia.org/wiki/小林靖永 "wikilink")、[中川弘](https://ja.wikipedia.org/wiki/中川弘 "wikilink")、[石川秀昭](https://ja.wikipedia.org/wiki/石川秀昭 "wikilink")、[藤田亮](https://ja.wikipedia.org/wiki/藤田亮 "wikilink")、[木下隆康](https://ja.wikipedia.org/wiki/木下隆康 "wikilink")、[吾妻丈](https://ja.wikipedia.org/wiki/吾妻丈 "wikilink")、[河合伸之](https://ja.wikipedia.org/wiki/河合伸之 "wikilink")、[狩野宗城](https://ja.wikipedia.org/wiki/狩野宗城 "wikilink")、[梶田圭介](https://ja.wikipedia.org/wiki/梶田圭介 "wikilink")、[中川雄介](https://ja.wikipedia.org/wiki/中川雄介 "wikilink")、[越智賢治](https://ja.wikipedia.org/wiki/越智賢治 "wikilink")
+  - 臨時司令部隊員：[二反田雅澄](https://ja.wikipedia.org/wiki/二反田雅澄 "wikilink")
+  - 台場の海底トンネル現場主任：[菅原大吉](https://ja.wikipedia.org/wiki/菅原大吉 "wikilink")
+  - 台場の海底トンネル班長：[中沢青六](https://ja.wikipedia.org/wiki/中沢青六 "wikilink")
+  - レポーター：[三井三太郎](https://ja.wikipedia.org/wiki/三井三太郎 "wikilink")、[植村なおみ](https://ja.wikipedia.org/wiki/植村なおみ "wikilink")
+  - KA1079便操縦士：[ジョン・ギャロック](https://ja.wikipedia.org/wiki/ジョン・ギャロック "wikilink")
+  - KA1079便副操縦士：[方洛奇](https://ja.wikipedia.org/wiki/方洛奇 "wikilink")
+  - 啓徳国際空港管制官：[張紹興](https://ja.wikipedia.org/wiki/張紹興 "wikilink")
+  - 放射能科学者：[岡田和子](https://ja.wikipedia.org/wiki/岡田和子 "wikilink")
+  - 科学技術庁原子力局長：[秋元榮治郎](https://ja.wikipedia.org/wiki/秋元榮治郎 "wikilink")
+  - 防衛局長：[坂井義雄](https://ja.wikipedia.org/wiki/坂井義雄 "wikilink")
+  - 防衛庁警察官：[名倉得二](https://ja.wikipedia.org/wiki/名倉得二 "wikilink")
+  - 国土庁防災局長：[笠原鉄郎](https://ja.wikipedia.org/wiki/笠原鉄郎 "wikilink")
+  - 環境大気保全局長：[井上千恵子](https://ja.wikipedia.org/wiki/井上千恵子 "wikilink")
+  - 伊集院研究室助手：[村上順子](https://ja.wikipedia.org/wiki/村上順子 "wikilink")、[結城豊弘](https://ja.wikipedia.org/wiki/結城豊弘 "wikilink")\[6\]
+  - 地球環境学者：[ヒサクニヒコ](https://ja.wikipedia.org/wiki/ヒサクニヒコ "wikilink")
+  - 黒木翔：[高嶋政宏](https://ja.wikipedia.org/wiki/高嶋政宏 "wikilink")
+  - 山根恵美子：[河内桃子](https://ja.wikipedia.org/wiki/河内桃子 "wikilink")
+  - 麻生孝昭：[中尾彬](../Page/中尾彬.md "wikilink")
+  - 後藤：[神山繁](https://ja.wikipedia.org/wiki/神山繁 "wikilink")
+  - 国友満：[篠田三郎](https://ja.wikipedia.org/wiki/篠田三郎 "wikilink")
+
+## スタッフ
+
+  - 製作 - [田中友幸](https://ja.wikipedia.org/wiki/田中友幸 "wikilink")、[富山省吾](https://ja.wikipedia.org/wiki/富山省吾 "wikilink")
+  - 脚本 - [大森一樹](../Page/大森一樹.md "wikilink")
+  - 音楽監督 - [伊福部昭](../Page/伊福部昭.md "wikilink")
+  - 撮影 - [関口芳則](https://ja.wikipedia.org/wiki/関口芳則 "wikilink")
+  - 照明 - [望月英樹](https://ja.wikipedia.org/wiki/望月英樹 "wikilink")
+  - 美術 - [鈴木儀雄](https://ja.wikipedia.org/wiki/鈴木儀雄 "wikilink")
+  - 録音 - 宮内一男
+  - 効果 - 佐々木英世（[東洋音響](https://ja.wikipedia.org/wiki/東洋音響 "wikilink")）
+  - 編集 - 長田千鶴子
+  - 助監督 - [三好邦夫](https://ja.wikipedia.org/wiki/三好邦夫 "wikilink")
+  - 技斗 - [宇仁貫三](https://ja.wikipedia.org/wiki/宇仁貫三 "wikilink")
+  - 製作担当者 - 前田光治
+  - アソシエイトプロデューサー - 鈴木律子
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  - 特殊技術
+      - 撮影 - [江口憲一](https://ja.wikipedia.org/wiki/江口憲一 "wikilink")、[大根田俊光](https://ja.wikipedia.org/wiki/大根田俊光 "wikilink")
+      - 美術 - [大澤哲三](https://ja.wikipedia.org/wiki/大澤哲三 "wikilink")
+      - 照明 - 斉藤薫
+      - 特殊効果 - 渡辺忠昭
+      - 造型 - [小林知己](https://ja.wikipedia.org/wiki/小林知己 "wikilink")、[若狭新一](https://ja.wikipedia.org/wiki/若狭新一 "wikilink")
+      - 操演 - 三橋和夫
+      - 助監督 - [鈴木健二](https://ja.wikipedia.org/wiki/鈴木健二_\(特撮監督\) "wikilink")
+      - 製作担当者 - 篠田啓助、小島太郎
+      - [ゴジラ](https://ja.wikipedia.org/wiki/ゴジラ_\(架空の怪獣\) "wikilink") - [薩摩剣八郎](https://ja.wikipedia.org/wiki/薩摩剣八郎 "wikilink")
+      - デストロイアII - [播谷亮](https://ja.wikipedia.org/wiki/播谷亮 "wikilink")
+      - デストロイア - 柳田英一
+      - ゴジラジュニア - [破李拳竜](https://ja.wikipedia.org/wiki/破李拳竜 "wikilink")
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  - 協力 - [防衛庁](../Page/防衛省.md "wikilink")、[東京都港湾局](https://ja.wikipedia.org/wiki/東京都港湾局 "wikilink")、[東海大学](../Page/東海大学.md "wikilink")情報技術センター
+  - 協賛 - [アップルコンピュータ](../Page/アップル_\(企業\).md "wikilink")、[エースヘリコプター](https://ja.wikipedia.org/wiki/エースヘリコプター "wikilink")、[カテナ](https://ja.wikipedia.org/wiki/システナ "wikilink")、[タビックスジャパン](https://ja.wikipedia.org/wiki/タビックスジャパン "wikilink")、[SONY](https://ja.wikipedia.org/wiki/SONY "wikilink")
+  - 制作協力 - [東宝映像美術](https://ja.wikipedia.org/wiki/東宝映像美術 "wikilink")、東宝サウンドスタジオ、東宝ミュージック、[東京現像所](https://ja.wikipedia.org/wiki/東京現像所 "wikilink")、[東宝スタジオ](https://ja.wikipedia.org/wiki/東宝スタジオ "wikilink")
+  - 特技監督 - [川北紘一](https://ja.wikipedia.org/wiki/川北紘一 "wikilink")
+  - 監督 - [大河原孝夫](https://ja.wikipedia.org/wiki/大河原孝夫 "wikilink")
+  - [東宝映画作品](https://ja.wikipedia.org/wiki/東宝映画_\(企業\) "wikilink")
+  - 配給 - [東宝](../Page/東宝.md "wikilink")
+
+## 企画から製作までの経緯
+
+以前より製作が発表されながらも延期となっていたハリウッド版『[GODZILLA](https://ja.wikipedia.org/wiki/GODZILLA "wikilink")』が1997年に公開される見通しが立ったことから\[7\]、平成ゴジラシリーズ最終作として製作された\[8\]。
+
+当初の仮タイトルは『ゴジラ死す』で、特技監督の[川北紘一](https://ja.wikipedia.org/wiki/川北紘一 "wikilink")はそれまでの『ゴジラVS○○』という命名法から脱却し、この作品をシリーズ最終作とする意気込みを体現するつもりであった\[9\]。その後、特報では『ゴジラ7』の仮タイトルで発表され、最終的に現在の題名となる。
+
+本作の初期案は、初代ゴジラの生体エネルギーが幽霊のような「ゴーストゴジラ」として出現。ゴジラと戦い、ゴジラは倒されるが、ゴーストゴジラはジュニアによって倒される、というものだった。実体のない怪獣という面白い見せ方も考えられた。元々ゴジラのバリエーションが割と成功していたために企画されたが、やはり3作もゴジラとゴジラのバリエーション怪獣が戦う作品が連続するのはよろしくない\[10\]うえ、実体のないものに感情移入はしにくいのではないかということで不採用となっている。この脚本を持ってきたのは、川北曰くプロデューサーの[富山省吾](https://ja.wikipedia.org/wiki/富山省吾 "wikilink")だったらしい。
+
+ゴジラのメルトダウンと、デストロイアに相当する新怪獣「[バルバロイ](https://ja.wikipedia.org/wiki/バルバロイ "wikilink")」が登場する企画は、川北組のとある人物が考えたとされる。川北側ではゴーストゴジラ案が没案となったことを受け、それなら「ゴジラを死なせる」ことを考え、唯一ゴジラを葬り去った兵器「オキシジェン・デストロイヤー」でも死ななかった最強の生物・デストロイアと戦わせるというプロットが生まれたという。プロデューサーの[田中友幸](https://ja.wikipedia.org/wiki/田中友幸 "wikilink")はゴジラを死なせることに反対したそうだが、また復活することを前提に「ゴジラ死す」という企画が認められたとのこと\[11\]。このため、公開当時のパンフレット冒頭にある田中の挨拶文には「またゴジラは必ずスクリーンに帰ってきます」との言葉が記されている。このインタビュー記事で川北は、『[ゴジラvsスペースゴジラ](https://ja.wikipedia.org/wiki/ゴジラvsスペースゴジラ "wikilink")』でゴジラを死なせた方がいいと考えていたことも明かしている。
+
+ゴーストゴジラ案だった頃には、ゲスト怪獣として[アンギラス](https://ja.wikipedia.org/wiki/アンギラス "wikilink")の登場が検討されており、デザイン画も描かれていた。また、デストロイアがバルバロイと呼ばれていた頃には、その一形態としてアンギラス型の怪獣の登場も検討されていた\[12\]\[13\]。
+
+『[ゴジラvsビオランテ](https://ja.wikipedia.org/wiki/ゴジラvsビオランテ "wikilink")』から『[ゴジラvsモスラ](https://ja.wikipedia.org/wiki/ゴジラvsモスラ "wikilink")』まで監督や脚本に参加していたがそれ以降はシリーズに関わらなかった[大森一樹](../Page/大森一樹.md "wikilink")は、ゴジラで描けることがある限りは参加すると表明しており、今回は川北と監督の[大河原孝夫](https://ja.wikipedia.org/wiki/大河原孝夫 "wikilink")に口説かれ、ゴジラの死を描くことに賛同して再参加を決めた。プロットのやり取りは、大森が海外に滞在中でも[FAXによって続けられた](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")。大森は[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")に被災した経験から、火災鎮火のために冷凍レーザーを考案したという。
+
+## 撮影
+
+シリーズ第1作『[ゴジラ](https://ja.wikipedia.org/wiki/ゴジラ_\(1954年の映画\) "wikilink")』へのオマージュとして、山根恭平博士の娘・山根恵美子（演じるのは第1作と同じく河内桃子）や[オキシジェン・デストロイヤーの再登場以外にも](https://ja.wikipedia.org/wiki/東宝特撮映画の登場兵器#オキシジェン・デストロイヤー "wikilink")、オープニングが海上を走るカット\[14\]、[臨海副都心](https://ja.wikipedia.org/wiki/臨海副都心 "wikilink")に[デストロイア](https://ja.wikipedia.org/wiki/デストロイア "wikilink")が出現した際に伊集院が警察官から「生命の保証はできませんので、お通しすることはできません\!」と言われるシーン\[15\]や、それぞれ怪獣への対応を注意する点が共通している。山根博士の書斎は第1作に登場したものを再現したセットであるが、当時の図面などは残っていなかったため、映像から間取りを想定して製作した\[16\]。第1作で山根博士の書斎にも飾られていた[ステゴサウルス](https://ja.wikipedia.org/wiki/ステゴサウルス "wikilink")の骨格模型も、新規に製作されたものである。予告編では、第1作の映像をデジタル処理でカラー化したものが使われている部分がある。
+
+デストロイアの幼体群と人間の戦闘シーンは、本作までのシリーズには見られなかったホラー映画のような恐怖映像に演出されており、特に戦闘シーンには『[エイリアン2](https://ja.wikipedia.org/wiki/エイリアン2 "wikilink")』や『[ジュラシック・パーク](https://ja.wikipedia.org/wiki/ジュラシック・パーク "wikilink")』などの影響が散見される。
+
+VSシリーズでは初の海外ロケとなる香港でのロケが行われたが、ゴジラの登場シーンや人物は合成によるものである\[17\]。プロデューサーの富山はゴジラの海外上陸展開に慎重な意見であったが、未制作企画『ミクロスーパーバトル ゴジラvsギガモス』（1991年）の頃から海外上陸案を検討していた特技監督の川北はこれを押し切る形で実現させた\[18\]。
+
+初代の映画で時計塔を破壊されて関係が悪化した東宝と[和光が和解したため](https://ja.wikipedia.org/wiki/和光_\(商業施設\) "wikilink")、41年ぶりにゴジラ映画に登場する。
+
+### 特殊撮影
+
+本作のゴジラは、核エネルギーの暴走により身体の所々が赤く光り輝き、蒸気を噴き出すという設定である。それを再現するに当たり、光学合成で光らせる、蛍光塗料で塗装して[ブラックライト](https://ja.wikipedia.org/wiki/ブラックライト "wikilink")で光らせるなど、さまざまなアイデアが出された。しかし結局は、実際に光らせるのが一番リアルであるとの判断がされた。そこで発光部分の胸、腿、肩などのパーツは[FRPとクリア](https://ja.wikipedia.org/wiki/繊維強化プラスチック "wikilink")[レジンで型抜きされ](../Page/レジンキャスト.md "wikilink")、電飾には860個もの電球、体内からの蒸気には水蒸気がそれぞれ使用された結果、スーツの重量は100キログラムを越えた。スーツに埋め込まれた装置を作動させるための電源ケーブルを引きずっており\[19\]、ただでさえ重いスーツの動きがさらに緩慢となったため、普通は撮影した内容に重量感を出すべくスローで再生するところを、本作では早送り再生する場合もあったという。蒸気には[炭酸ガス](https://ja.wikipedia.org/wiki/炭酸ガス "wikilink")が使用されたが、撮影テスト中にはゴジラを演じた[薩摩剣八郎](https://ja.wikipedia.org/wiki/薩摩剣八郎 "wikilink")がスーツ内に充満したガスで倒れて[不整脈](../Page/不整脈.md "wikilink")を起こすという事故もあり、それ以降は常に酸素ボンベを着用しての演技となった\[20\]。
+
+ゴジラの死亡が明確に描写された作品は本作と1954年公開のシリーズ第1作『ゴジラ』の2つのみであるが、ゴジラの肉体能力（原子炉）が暴走して自爆\[21\]とも取れる映像が描かれているのは、本作のみである。
+
+体内で核エネルギーが暴走しているゴジラには通常兵器による攻撃は核爆発を誘発する危険性が高いため、前2作の[Gフォースに代わり](https://ja.wikipedia.org/wiki/東宝特撮映画の怪獣対策組織#Gフォース "wikilink")、冷凍系の兵器で武装した[自衛隊](../Page/自衛隊.md "wikilink")が活躍した。なお、本作でデストロイアにとどめを刺したのはゴジラではなく、[スーパーXIII率いる自衛隊の冷凍兵器部隊である](https://ja.wikipedia.org/wiki/スーパーX#スーパーXIII（『ゴジラvsデストロイア』） "wikilink")\[22\]。
+
+[スーパーX](https://ja.wikipedia.org/wiki/スーパーX "wikilink")シリーズの兵器が、『[ゴジラvsビオランテ](https://ja.wikipedia.org/wiki/ゴジラvsビオランテ "wikilink")』以来6年ぶりに復活した作品でもある。初期段階では、スーパーXIIIとして『[海底軍艦](../Page/海底軍艦_\(映画\).md "wikilink")』の[轟天号](https://ja.wikipedia.org/wiki/轟天号 "wikilink")が登場する案も存在した\[23\]。
+
+VSシリーズではミニチュアセットを50分の1サイズで製作することが普通だったが、本作でゴジラジュニアとデストロイア集合体が戦う[天王洲アイル](https://ja.wikipedia.org/wiki/天王洲アイル "wikilink")のセットは、怪獣の身長に合わせて25分の1サイズで製作された。
+
+## 映像ソフト化
+
+  - DVDは2002年8月21日発売。
+      - 2005年4月22日発売の「GODZILLA FINAL BOX」に収録されている。
+      - 2008年5月23日発売のトールケース版「ゴジラ DVDコレクションV」に収録されており、単品版も同時発売。
+      - 2014年5月14日には「ゴジラ60周年記念版」として期間限定の廉価版が発売。
+      - 2016年6月15日、＜東宝DVD名作セレクション＞版発売。
+  - [Blu-rayディスクは](../Page/Blu-ray_Disc.md "wikilink")2010年1月22日発売。
+
+## 漫画
+
+  - [別冊コロコロコミックスペシャル](https://ja.wikipedia.org/wiki/別冊コロコロコミックスペシャル "wikilink") 1995年12月号 作画：[坂井孝行](https://ja.wikipedia.org/wiki/坂井孝行 "wikilink")
+
+ドラマパート（人間関係）は映画とは全く別の作品であり、黒木翔が主人公を務めており、青木一馬や結城昇が主要人物として登場している。
+
+## その他
+
+  - プロモーションは大規模に行われたが、この作品の特徴として「本編や登場怪獣の詳細を極力伏せる」という徹底的なシークレット主義を貫いていた。コピーこそ「ゴジラ死す」であり、第1作のオキシジェン・デストロイヤーが深く関わる作品であることは初期段階から語られていたが、敵怪獣デストロイアの詳細や、ゴジラジュニアの登場は公開当日まで秘密となっており、「ゴジラがいかなる最期を遂げるか」については、出演者、スタッフら関係者全員に徹底した緘口令が敷かれていた\[24\]。そのため、予告編もこれまでの6作と比べると劇場で流れた回数は少なめであるが、終映間近となった時期にはテレビ用の予告編ではゴジラのメルトダウンシーンが一部放送されていた。
+  - デストロイアの形態に関して、完全体だけゴジラに類似する二足歩行のオーソドックスな怪獣の姿なのは、製作サイドの事情としてはスポンサー[バンダイ](../Page/バンダイ.md "wikilink")の「最終形態だけは怪獣の姿にして欲しい」という要請によるものである（集合体時のゴジラジュニアとの戦闘時にゴジラ細胞を吸収したため、節足動物型から二足歩行の怪獣型に進化したとも解釈できる）。バンダイは作品自体には発光する「バーニングゴジラ」の着ぐるみのための透明素材やデストロイア集合体のソフトビニール人形（群れのシーンに使われている）を大量に提供している。
+  - 羽田空港でのバトルシーンでは駐機場に映っているのは架空の航空会社の飛行機（模型）ばかりだが、シーンラストのデストロイアがゴジラを滑走路に引きずる部分になると一転して実在する[全日空や](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")[日本航空](../Page/日本航空.md "wikilink")の飛行機が映る（この部分だけ実写との合成のため）。
+  - タイアップイベントとして1995年12月3日に[有明コロシアム](https://ja.wikipedia.org/wiki/有明コロシアム "wikilink")にて**ゴジラ告別式**が催された\[25\]\[26\]。
+  - 本作でのシリーズ終了を惜しまれて、1995年度第33回[ゴールデン・アロー賞](https://ja.wikipedia.org/wiki/ゴールデン・アロー賞 "wikilink")で「特別賞」を贈られた（受賞者は「ゴジラ」名義）。
+  - 『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン "wikilink")』の第13巻の表紙において、東京港湾部の自衛隊vsデストロイア（幼体）の撮影ミニチュアが掲載されているが、これは作者の[青山剛昌](../Page/青山剛昌.md "wikilink")が東宝に使用要請を行い許可が下りたためである。要請理由は、コナン作中の『大怪獣ゴメラ』（ゴジラと[ガメラ](https://ja.wikipedia.org/wiki/ガメラ "wikilink")を掛け合わせた風貌のパロディ怪獣）製作現場で発生する殺人事件と表紙を関連させるためであったとアシスタントが語っている。
+  - 2017年～2018年公開のアニメ『[GOZIRA](https://ja.wikipedia.org/wiki/GODZILLA_\(アニメ映画\) "wikilink")』三部作でハルオ・サカキを演じた[宮野真守](https://ja.wikipedia.org/wiki/宮野真守 "wikilink")は子供のころに本作の「ゴジラを死す」のキャッチフレーズに衝撃を受けたと『GODZILLA 怪獣惑星』アニメーション公式サイトで語っている。
+
+## 関連グッズ
+
+  - ヒートアップゴジラ
+    温めると赤く変色するミニフィギュア。全15種。
+    入場者プレゼントとして配布されたほか、[ガシャポン](https://ja.wikipedia.org/wiki/ガシャポン "wikilink")商品としても販売された\[27\]。
+    一部は『[ゴジラvsメカゴジラ](https://ja.wikipedia.org/wiki/ゴジラvsメカゴジラ "wikilink")』の入場者プレゼントであった「光るゴジラ！」と同じ型を使用している\[28\]。
+    2014年12月、[プレイステーション3](https://ja.wikipedia.org/wiki/プレイステーション3 "wikilink")用ゲームソフト『ゴジラ -GODZILLA-』の初回特典として復刻された。
+  - 劇場オリジナル バーニングゴジラ
+    [バンダイ](../Page/バンダイ.md "wikilink")から発売されていた[ソフビ人形](https://ja.wikipedia.org/wiki/ソフトビニール "wikilink")「[ゴジラシリーズ](https://ja.wikipedia.org/wiki/ムービーモンスターシリーズ#ゴジラシリーズ（東宝怪獣シリーズ） "wikilink")」の仕様変更品。クリアーオレンジの成型色の上に赤い塗装を施して燃えている様を表現している\[29\]。
+    以降定番となる劇場限定ソフビの先駆けとなった\[30\]。
+    2005年1月にバンダイより限定発売された「ゴジラ50周年メモリアルボックス」にて、縮小サイズで復刻された（2001年12月発売のムービーモンスターシリーズ・バーニングゴジラと同型）。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  -
+  -
+  -
+  -
+## 外部リンク
+
+  - [ゴジラvsデストロイア - 東宝WEB SITE](https://viewer.kintoneapp.com/public/0a3f41a74b8bb9e879c82e5240035410e01df4c27f0dfc1d2ef44495962b1f44#/detail/def50200b189522806a397ac96aa7371d5a3815cb69ea9b92743944f8ca3ae2b96e7fe1bfbad0e11485944257c582b1059844dafaea80f2c46253691c3a753ca699ce56fdd066cc5a8e790f6cf242a8925f4fd3c88672440e5c06b276bbb10b83e5140975d9dafbe1dff602b39f579123fe69f70c323ed7888aa0ec81da8984f6fa65982a77b262a69ec1e71f7980f8901d5ccc5419ef23826)
+
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+[Category:ゴジラシリーズの映画作品](https://ja.wikipedia.org/wiki/Category:ゴジラシリーズの映画作品 "wikilink") [Category:1995年の映画](https://ja.wikipedia.org/wiki/Category:1995年の映画 "wikilink") [Category:1990年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1990年代の特撮作品 "wikilink") [Category:自衛隊映画](https://ja.wikipedia.org/wiki/Category:自衛隊映画 "wikilink") [Category:東京を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした映画作品 "wikilink") [Category:東京臨海副都心を舞台とした作品](https://ja.wikipedia.org/wiki/Category:東京臨海副都心を舞台とした作品 "wikilink") [Category:香港を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:香港を舞台とした映画作品 "wikilink") [Category:静岡県を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:静岡県を舞台とした映画作品 "wikilink") [Category:愛媛県を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:愛媛県を舞台とした映画作品 "wikilink") [Category:茨城県を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:茨城県を舞台とした映画作品 "wikilink") [Category:大河原孝夫の監督映画](https://ja.wikipedia.org/wiki/Category:大河原孝夫の監督映画 "wikilink") [Category:伊福部昭の作曲映画](https://ja.wikipedia.org/wiki/Category:伊福部昭の作曲映画 "wikilink") [Category:甲殻類を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:甲殻類を題材とした映画作品 "wikilink")
+
+1.  『[日本経済新聞](../Page/日本経済新聞.md "wikilink")』1995年12月8日付朝刊、19頁。
+2.  ここを進行した可能性が示唆されただけで、断定はされていない。
+3.   「平成ゴジラバーニング・コラム」No.007。
+4.  この理由について劇中では触れていないが、本作のパンフレットで河内が「恵美子は命をかけてオキシジェンデストロイヤーの秘密を守った芹沢博士の死に打たれて、結婚せず山根博士と花を作りながらひっそりと生きてきたんです」と語っている
+5.  [特殊急襲部隊](https://ja.wikipedia.org/wiki/特殊急襲部隊 "wikilink")ことSAPが相当するのだが、この時期には公になっていなかった。翌[1996年](../Page/1996年.md "wikilink")にSATとして正式に発足した。
+6.  [読売テレビアナウンサー](../Page/讀賣テレビ放送.md "wikilink")（当時）で、後輩女性アナの植村、脇浜、徳山と共に出演。
+7.  実際の公開は日米共に1998年であった。
+8.
+9.   「ゴジラVSデストロイアのポイント」。
+10. 前作と前々作はそれぞれ[スペースゴジラ](https://ja.wikipedia.org/wiki/スペースゴジラ "wikilink")と[メカゴジラという](https://ja.wikipedia.org/wiki/メカゴジラ#『ゴジラvsメカゴジラ』のメカゴジラ "wikilink")、いずれもゴジラのバリエーション怪獣との対決ものになっていた。
+11.
+12.
+13.  「平成ゴジラバーニング・コラム」。
+14. 第1作でも同じようなシーンから物語が始まる。
+15. 『[ゴジラ](https://ja.wikipedia.org/wiki/ゴジラ_\(1954年の映画\) "wikilink")』では山根博士がゴジラの東京上陸の際、防衛隊員に同じ台詞を言われる。
+16. 劇場パンフレットより。
+17.
+18.  「幻の平成ゴジラストーリー」。
+19. 足元や尻尾からケーブルを逃がし、手前に建物のセットを置く、がれきをケーブルに被せる、それでも映る場合は映像処理で消している。
+20. それでも「首が膨らむ」という理由で、マスクは口ではなく演じた薩摩の首付近に固定した状態であった。
+21. 原子力発電所などにおいて、原子炉が耐熱限界を上回る高熱によって[炉心溶融](https://ja.wikipedia.org/wiki/炉心溶融 "wikilink")を起こすようなもの。
+22. 不採用となったが、デストロイアが自衛隊の攻撃でも倒れず、ゴジラと最後の死闘を繰り広げた末に倒された後、ゴジラも死んでいくというエンディングがある。DVDの特典映像で、未公開シーンとしてその一部始終を見ることができる。
+23.  p.96 「ゴジラVSデストロイアアートワークス」。
+24.
+25.
+26.
+27.  「Memories of ゴジラVSデストロイア」。
+28.
+29.
+30.

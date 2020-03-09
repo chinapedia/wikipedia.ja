@@ -1,0 +1,71 @@
+> この記事は[tRNA](https://ja.wikipedia.org/wiki/tRNA)から翻訳されています。
+
+
+**アミノアシルtRNA合成酵素** (アミノアシルtRNAごうせいこうそ、aminoacyl-tRNA synthetase) とは、特定の[アミノ酸](https://ja.wikipedia.org/wiki/アミノ酸 "wikilink") (またはその前駆体)を、その対応する[tRNA](https://ja.wikipedia.org/wiki/tRNA "wikilink")に[エステル](../Page/エステル.md "wikilink")結合させて[アミノアシルtRNA](https://ja.wikipedia.org/wiki/アミノアシルtRNA "wikilink")を合成する[酵素](../Page/酵素.md "wikilink")である。英語の略号として**aaRS**や**ARS**が用いられる。
+アミノアシルtRNAは、[リボソーム](../Page/リボソーム.md "wikilink")に運ばれてtRNA部分の3塩基からなる[アンチコドン](https://ja.wikipedia.org/wiki/アンチコドン "wikilink")が、[mRNA](https://ja.wikipedia.org/wiki/mRNA "wikilink")の[コーディング領域](https://ja.wikipedia.org/wiki/コーディング領域 "wikilink")の[コドン](../Page/コドン.md "wikilink")と対合し、[タンパク質](../Page/タンパク質.md "wikilink")合成に用いられる。従って、3塩基のコドンと1アミノ酸の対応づけが行われる場はリボソームであっても、実際にコドンとアミノ酸の対応関係を示す[遺伝暗号](https://ja.wikipedia.org/wiki/遺伝暗号 "wikilink")はaaRSの特異性にもとづいて規定されていることになる。
+通常の生物では翻訳に使用されるアミノ酸20種類に対し、それぞれ対応するaaRSをもっている。例えば、[アルギニン](../Page/アルギニン.md "wikilink")を認識してアルギニンtRNAにエステル結合する反応を触媒するaaRSはアルギニルtRNA合成酵素 (arginyl-tRNA synthetase) のように表記される。略号はArgRSのようにアミノ酸3文字表記+RSで表される。
+
+## 起源
+
+[RNAワールド](https://ja.wikipedia.org/wiki/RNAワールド "wikilink")においては、tRNA様のアダプター分子にRNA ([リボザイム](https://ja.wikipedia.org/wiki/リボザイム "wikilink")) がアミノ酸を結合させていたと考えられている。
+現在の生物はほとんど共通する遺伝暗号を持っており、プロテインワールドの始原生物がリボザイムをタンパク質に置き換えつつ、アミノ酸とtRNAの対応関係は固定されたまま分子進化したと考えられる。そのため、aaRSは基質特異性を厳密に維持しつつも、最古のタンパク質として多様な進化を遂げている。その結果、3つの生物界 ([真核生物](../Page/真核生物.md "wikilink")、[真正細菌](https://ja.wikipedia.org/wiki/真正細菌 "wikilink")、[古細菌](https://ja.wikipedia.org/wiki/古細菌 "wikilink")) の間で一次配列上の特徴が分かれていることが多い。
+
+## 反応機構
+
+### 主反応
+
+aaRSは2段階の反応で[ATP](https://ja.wikipedia.org/wiki/ATP "wikilink")の加水分解と共役してアミノ酸をtRNAに結合させる。
+(1) ATPと対応するアミノ酸 (またはその前駆体) がaaRSの基質結合部位に結合すると、アミノ酸のカルボキシ基がアデノシンのα-リン酸基を攻撃し、中間体であるアミノアシルAMP (アミノアシルアデニレート;aminoacyl-adenylate とも) が形成され、ピロリン酸 (PPi) が遊離する。
+アミノ酸 + ATP → アミノアシルAMP + PPi
+(2) アミノアシルAMP-aaRS複合体に適切なtRNAが結合すると、アミノ酸のカルボキシ基がtRNAの3'末端のアデノシン (A76) の2'-または3'-OHとエステル結合を形成し、[アデノシン一リン酸](https://ja.wikipedia.org/wiki/アデノシン一リン酸 "wikilink") (AMP) が遊離して反応が終結する。
+アミノアシルAMP + tRNA → アミノアシルtRNA + AMP
+まとめると、アミノ酸 + ATP + tRNA → アミノアシルtRNA + AMP + PPi という反応式になる。
+
+### 校正機構
+
+タンパク質合成に用いられるアミノ酸の中には、側鎖の大きさが似たアミノ酸が多く、単純にaaRS基質結合部位の形状を対応するアミノ酸をちょうど受け入れる形状にするだけでは十分な選択性が確保されない場合がある。この場合、本来特定のコドンに対応するアミノ酸ではないアミノ酸に翻訳されたタンパク質が一定割合で作られることになり、生物の生存に不都合である。
+そこで、tRNAに本来とは異なるアミノ酸が結合 (ミスチャージ) した場合に、そのアミノアシルtRNAを加水分解する機構 (校正機構、editing) を有するaaRSが存在する。校正反応は多くの場合基質結合部位とは独立したドメイン (校正ドメイン) に加水分解に働く別の結合部位 (ミスチャージしたアミノ酸の側鎖と親和性が高い) で行われる。校正ドメインが別のポリペプチド鎖としてコードされている例も存在する。
+
+## 分類
+
+aaRSは大きく2つのクラスに分けられる。それぞれのクラスはさらにIa、Ib、IcおよびIIa、IIb、IIcに分けられる。
+
+### クラスI
+
+  - クラスIは[αヘリックス](https://ja.wikipedia.org/wiki/αヘリックス "wikilink")と平行[βシート](https://ja.wikipedia.org/wiki/βシート "wikilink")で構成される[ロスマンフォールド](https://ja.wikipedia.org/wiki/ロスマンフォールド "wikilink")からなる触媒ドメインにHis-Ile-Gly-His (HIGH) モチーフを有し、さらにC末端側のドメインとの間にLys-Met-Ser-Lys-Ser (KMSKS) モチーフを有する。
+
+<!-- end list -->
+
+  - 多くの生物においては、[システイン](../Page/システイン.md "wikilink")、[グルタミン酸](../Page/グルタミン酸.md "wikilink")、[イソロイシン](https://ja.wikipedia.org/wiki/イソロイシン "wikilink")、[ロイシン](../Page/ロイシン.md "wikilink")、[メチオニン](https://ja.wikipedia.org/wiki/メチオニン "wikilink")、[グルタミン](../Page/グルタミン.md "wikilink")、[アルギニン](../Page/アルギニン.md "wikilink")、[バリン](../Page/バリン.md "wikilink")、[トリプトファン](../Page/トリプトファン.md "wikilink")、[チロシン](../Page/チロシン.md "wikilink")に対応するaaRSがこのクラスに属する。
+  - クラスIのリジルtRNA合成酵素 (LysRS) を有する真正細菌、古細菌が存在する。
+  - 反応の第二段階において、tRNAの2'-OHにアミノ酸を結合させる。
+
+### クラスII
+
+  - クラスIIは3つの特徴的なモチーフ (motif 1, 2, 3) を含む逆平行βシートを触媒ドメインとする。
+  - 多くの生物においては、[アラニン](../Page/アラニン.md "wikilink")、[アスパラギン酸](../Page/アスパラギン酸.md "wikilink")、[フェニルアラニン](../Page/フェニルアラニン.md "wikilink")、[グリシン](../Page/グリシン.md "wikilink")、[ヒスチジン](../Page/ヒスチジン.md "wikilink")、[リジン](https://ja.wikipedia.org/wiki/リジン "wikilink")、[アスパラギン](../Page/アスパラギン.md "wikilink")、[プロリン](../Page/プロリン.md "wikilink")、[セリン](../Page/セリン.md "wikilink")、[トレオニン](https://ja.wikipedia.org/wiki/トレオニン "wikilink")に対応するaaRSがこのクラスに属する。
+  - 反応の第二段階において、tRNAの3'-OHにアミノ酸を結合させる。
+
+## アミノアシルtRNA合成酵素と遺伝暗号の拡張
+
+### 遺伝暗号の拡張の始まり
+
+始原生物が獲得した遺伝暗号に基づき、通常生物は20種類のアミノ酸 (標準アミノ酸) を翻訳で用いることができる。しかし、化学的に20種類以外のアミノ酸 ([非天然型アミノ酸](https://ja.wikipedia.org/wiki/非天然型アミノ酸 "wikilink")) をエステル結合したtRNAを試験管内翻訳系に加えると、リボソームは非天然型アミノ酸をタンパク質合成に使用し、tRNAのアンチコドンに対応するコドンに非天然型アミノ酸が対応付けられることが知られていた。このことから、既存のコドンに非天然型アミノ酸を対応付ける研究が行われるようになり、遺伝暗号の拡張 (Expansion of genetic code) と呼ばれるようになった。
+
+### 遺伝暗号の拡張におけるaaRSの使用
+
+aaRSはアミノ酸とコドンの対応づけを行う酵素であるため、遺伝暗号の拡張のためにaaRSの基質特異性の改変を行うことが行われた。
+1998年にFurterは*p*-フルオロフェニルアラニン(*p*-F-Phe)が[酵母](../Page/酵母.md "wikilink")のフェニルアラニルtRNA合成酵素 (PheRS) にミスチャージされること、変異型PheRSを持つ大腸菌は*p*-F-Pheを翻訳に使いにくいことを利用した。すなわち酵母のPheRSと終止コドンの一つのアンバーコドン (UAG) に対応するアンチコドンを有するアンバーサプレッサーtRNA<sup>Phe</sup>をその大腸菌に導入することで、アンバーコドンに*p*-F-Pheが対応付けられ、一方で通常のフェニルアラニンに対応するコドンには*p*-F-Pheが導入されない生物系を人為的に作製した。しかし、実際には外界から*p*-F-Pheを過剰に加えても、酵母のPheRSがフェニルアラニンをチャージする、などの理由により、アンバーコドンには2割以上の*p*-F-Phe以外の標準アミノ酸が対応付けられた不十分なものであり、真の遺伝暗号の拡張とみなされていない。
+一方、[スクリプス研究所](https://ja.wikipedia.org/wiki/スクリプス研究所 "wikilink")の[ピーター・シュルツ](https://ja.wikipedia.org/wiki/ピーター・シュルツ "wikilink")らは2001年に同様の発想のもと、古細菌のチロシルtRNA合成酵素 (TyrRS) とアンバーサプレッサーtRNA<sup>Tyr</sup>を大腸菌内に導入し、大腸菌を用いた大規模スクリーニング法によって、古細菌TyrRSの基質特異性を*O*-メチルチロシンに高度に特異的なものにすることに成功した。これにより、その大腸菌の遺伝暗号はアンバーコドンに*O*-メチルチロシンが対応する遺伝暗号へと拡張したこととなる。
+このスクリーニング法を用いることで、TyrRS変異体の中から種々の非天然型アミノ酸を特異的に認識するaaRSが選択され、一気にアミノ酸側から見た遺伝暗号の拡張が進んだ。
+
+### 現在までの広がり
+
+さらに多くのaaRS-tRNAの組み合わせが同様の方法で遺伝暗号の拡張に用いることができることがわかっていった。特に近年では、ある古細菌で「22番目のアミノ酸」の[ピロリジン](https://ja.wikipedia.org/wiki/ピロリジン "wikilink")を認識し、アンバーコドンに対応するtRNAに結合させるピロリジルtRNA合成酵素 (PylRS) の基質認識が厳密でなく拡張容易なことを利用して、アセチルリジンやメチルリジンなど、生物の[翻訳後修飾](https://ja.wikipedia.org/wiki/翻訳後修飾 "wikilink")で生み出される側鎖を含む多くのアミノ酸の導入に成功している。その結果、遺伝暗号の拡張は従来の20種類のアミノ酸だけではできなかった細かなタンパク質の構造のチューニングや翻訳後修飾の遺伝子コード化など、実用性を増すこととなった。
+コドンにおいてはアンバーコドンを利用するケースが多いが、他の終止コドンであるオパール (UGA) を利用する例や、4文字コドンを利用するケースも報告されている。
+
+## 関連項目
+
+  - [リガーゼ](https://ja.wikipedia.org/wiki/リガーゼ "wikilink")
+
+[Category:酵素](https://ja.wikipedia.org/wiki/Category:酵素 "wikilink")

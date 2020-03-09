@@ -1,0 +1,131 @@
+> この記事は[JREF200](https://ja.wikipedia.org/wiki/JREF200)から翻訳されています。
+
+
+**EF200形電気機関車**（EF200がたでんききかんしゃ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（[平成](../Page/平成.md "wikilink")2年）から製作した[直流](../Page/直流電化.md "wikilink")[電気機関車](../Page/電気機関車.md "wikilink")である。
+
+## 概要
+
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[昭和](../Page/昭和.md "wikilink")62年）の[JR移行で](https://ja.wikipedia.org/wiki/国鉄分割民営化 "wikilink")、JR貨物は多数の機関車を承継した。直流電化区間では[EF65形](https://ja.wikipedia.org/wiki/国鉄EF65形電気機関車 "wikilink")・[EF66形などを主として用いることとなったが](https://ja.wikipedia.org/wiki/国鉄EF66形電気機関車 "wikilink")、[景気拡大局面にあって輸送需要が増大していたことや](../Page/バブル景気.md "wikilink")、将来の車両取替えをも考慮し、機関車の製作を検討することとした。
+
+輸送力増強は喫緊の課題であり、国鉄形式のEF66形・[EF81形を一部改良の上で新造して賄いながら](https://ja.wikipedia.org/wiki/国鉄EF81形電気機関車 "wikilink")、並行して新型機関車の開発が進められ、1990年（平成2年）3月に[試作機が](https://ja.wikipedia.org/wiki/プロトタイプ#鉄道車両 "wikilink")[日立製作所](../Page/日立製作所.md "wikilink")で完成した。これが**EF200形**である。
+
+以降の機関車開発の基本方針検討を目的に、[VVVFインバータ制御の採用など各種の新技術を盛り込み](https://ja.wikipedia.org/wiki/可変電圧可変周波数制御 "wikilink")、国鉄・JRの機関車では最高となる 6,000 [kW](../Page/ワット.md "wikilink") の出力で 1,600 [t](../Page/トン.md "wikilink") 牽引を可能としたほか、補機類や操作系にも各種の新しい試みがなされた。交直流機の[EF500形と同時試作され](../Page/JR貨物EF500形電気機関車.md "wikilink")、双方に異なる機構や操作系を採用して比較試験が行われた。
+
+[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")（平成4年）から量産され、輸送力増強が特に要求された[東海道](https://ja.wikipedia.org/wiki/東海道本線 "wikilink")・[山陽本線](https://ja.wikipedia.org/wiki/山陽本線 "wikilink")で使用を開始した。当初計画された 1,600 t 牽引は[変電所](https://ja.wikipedia.org/wiki/変電所 "wikilink")の構造上の問題が顕在化したことから実現せず、本形式は出力を制限して運用することとなった。製作は21両で終了し、以後の製作は運用コストの最適化を図った[EF210形に移行している](https://ja.wikipedia.org/wiki/JR貨物EF210形電気機関車 "wikilink")。
+
+新機軸の積極的な採用により、[鉄道友の会](https://ja.wikipedia.org/wiki/鉄道友の会 "wikilink")[1993年](../Page/1993年.md "wikilink")第33回[ローレル賞](../Page/ローレル賞.md "wikilink")を受賞している。愛称は「INVERTER HI-TECH LOCO(インバーターハイテクロコ)」。
+
+## 構造
+
+[1992-8-23-ef200-4.JPG](https://ja.wikipedia.org/wiki/File:1992-8-23-ef200-4.JPG "fig:1992-8-23-ef200-4.JPG") 車体は直線を基調とした[意匠で](../Page/デザイン.md "wikilink")、上面が傾斜した高[運転台式非貫通の前面をもつ](../Page/操縦席.md "wikilink")。機器室通路は片側に寄せられ、公式側と非公式側では側面の窓配置が異なる。落成時の外部塗色は、運転台部が濃淡ブルーの塗り分け、側面はライトグレー、乗務員室扉はカラシ色（黄緑色）である。この塗装はヨーロッパの機関車を参考にしたとされる。車体側面には**"INVERTER HI-TECH LOCO"**の[ロゴマークを付す](https://ja.wikipedia.org/wiki/ロゴタイプ "wikilink")。機関車の[車軸上重量に余裕があれば](https://ja.wikipedia.org/wiki/活荷重#輪荷重・軸重・分布荷重 "wikilink")、通常は[粘着力向上のために余裕上限まで](https://ja.wikipedia.org/wiki/粘着式鉄道#粘着現象 "wikilink")[死重を搭載するが](https://ja.wikipedia.org/wiki/重し#死重 "wikilink")、本形式は事故対策の車体強化\[1\]に伴う重量増加に対応させている。
+
+制御方式は、[GTOサイリスタ](../Page/ゲートターンオフサイリスタ.md "wikilink")[素子式VVVFインバータ制御で](../Page/半導体素子.md "wikilink")、1基の[インバータ](../Page/インバータ.md "wikilink")で1台の[三相交流](../Page/三相交流.md "wikilink")[誘導電動機を駆動する](../Page/かご形三相誘導電動機.md "wikilink")1C1M方式である。
+
+[主電動機](https://ja.wikipedia.org/wiki/主電動機 "wikilink")には1時間定格出力が1,000kWであるFMT2[かご形三相誘導電動機](../Page/かご形三相誘導電動機.md "wikilink")を6基搭載し、定格出力は 6,000 kW（1時間）で、10 [‰](../Page/パーミル.md "wikilink") 勾配での 1,600 t 牽引 (90 [km/h](https://ja.wikipedia.org/wiki/キロメートル毎時 "wikilink"))・25 ‰ 勾配で 1,100 t の引き出しが可能である。設計最高速度は 120 km/h、定格速度は 81.2 km/h（1時間）である。従来のEF66形を大きく上回る駆動性能とされた理由は、最大 1,600 t の重量列車牽引と、[旅客列車](../Page/旅客列車.md "wikilink")の高速高頻度運転を妨げない高加速とを両立させるためである。[運転台で操作する](../Page/操縦席.md "wikilink")[主幹制御器は無段階連続制御が可能であるが](../Page/マスター・コントローラー.md "wikilink")、従来の機関車と操作をあわせ、便宜的に25ノッチ刻みとされた。連続制御を活かして主幹制御器脇に[定速制御ボタンが設けられた](https://ja.wikipedia.org/wiki/定速運転 "wikilink")。
+
+[集電装置](https://ja.wikipedia.org/wiki/集電装置 "wikilink")は、国鉄・JRの機関車では初めて、日本でも[大阪市交通局70系電車](https://ja.wikipedia.org/wiki/大阪市交通局70系電車 "wikilink")に次いで2例目の採用となったシングルアーム式のFPS2[パンタグラフを装備した](https://ja.wikipedia.org/wiki/集電装置#パンタグラフ "wikilink")。空気上昇バネ降下式であり、大電流が流れるため舟体1つ当たりすり板が7枚取り付けられている。パンタグラフは関節部を両端に向けて搭載する。
+
+補機類や計器類の電源を供給する電動発電機には、190kVAの容量を備えたFDM1ブラシレス発電機を使用し、床下に搭載する。
+
+空気ブレーキなどで使用される圧縮空気を供給する電動空気[圧縮機](https://ja.wikipedia.org/wiki/圧縮機 "wikilink")は、C3000形式を2基搭載する。これとは別に、パンタグラフ上昇用として制御バッテリーを電源としたMH99-AK18補助電動圧縮機（ベビコン）が搭載されている。
+
+電動機などの冷却に使用する電動送風機は、FMH3010A-FFK10A形を電動機・インバータ用として3基、フィルター排塵用が3基、ブレーキ抵抗器用が4基である。
+
+[台車は](../Page/鉄道車両の台車.md "wikilink")[ボルスタレス式のFD](https://ja.wikipedia.org/wiki/鉄道車両の台車史#ボルスタレス台車 "wikilink")3形（両端）FD4形（中間）で、台車から車体への牽引力伝達は一本リンク（両端台車）および 対角リンク（中間台車）により行われる。主電動機は従来の[吊り掛け式を廃し台車装架としてバネ下重量を軽減](../Page/吊り掛け駆動方式.md "wikilink")、動力伝達方式は[リンク式である](https://ja.wikipedia.org/wiki/クイル式駆動方式#リンク式駆動方式 "wikilink")。ブレーキ装置は国鉄・JR機関車で初となる[電気指令式ブレーキ](https://ja.wikipedia.org/wiki/電気指令式ブレーキ "wikilink")であり、26 km/h 以上では発電制動が有効となり、20 km/h以下では失効して空気ブレーキに切り替わる。編成ブレーキシステムはノッチ式のハンドル操作により、各ノッチで設定された圧力までブレーキ管圧力を減圧する[自動空気ブレーキ](https://ja.wikipedia.org/wiki/自動空気ブレーキ "wikilink")であり、高速貨車牽引用に電磁ブレーキ指令装置を装備する。FD3形にはバネ式[留置ブレーキを備える](../Page/パーキングブレーキ.md "wikilink")\[2\]。
+
+## 形態区分
+
+### 試作機（901号機）
+
+[JRF_EF200_901.jpg](https://ja.wikipedia.org/wiki/File:JRF_EF200_901.jpg "fig:JRF_EF200_901.jpg") - [倉敷](../Page/倉敷駅.md "wikilink")）\]\] 1990年（平成2年）6月に製作された、本形式の試作機である。落成後[新鶴見機関区](https://ja.wikipedia.org/wiki/新鶴見機関区 "wikilink")に配置され、各種試験に供された。
+
+運転台屋根が前方に向かってわずかに傾斜し、取付屋根は大型で、屋根側面を濃青色と灰白色に塗り分けている。前面下部の灯火類設置箇所は濃灰色で、[空調用の風道が設けられた](../Page/エア・コンディショナー.md "wikilink")。取付屋根の塗り分けは更新工事の実施時に廃止されている。
+
+中間台車に設置される引張棒は、側面から見て傾斜した状態で装備される。
+
+性能確認試験の過程で[山陽本線](https://ja.wikipedia.org/wiki/山陽本線 "wikilink")の[瀬野](../Page/瀬野駅.md "wikilink") - [八本松](../Page/八本松駅.md "wikilink")（[瀬野八](https://ja.wikipedia.org/wiki/瀬野八 "wikilink")）の等価査定勾配 25.3 ‰ 区間で 1,100 t 列車の起動試験に成功している\[3\]。{{-}}
+
+### 量産機（1 - 20号機）
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:JRF_EF200_11.jpg "wikilink") 1992年（平成4年） - [1993年](../Page/1993年.md "wikilink")（平成5年）に日立製作所で20両が製作され、落成後は新鶴見機関区に配置された。試作機の運用成果を基に各部を改良している。
+
+インバータ装置を小型化して容積を抑え、取付屋根の高さを 210mm 低くした\[4\]。運転台屋根は室内計器の配置を変更して水平とされ、試作機とは印象が大きく異なる。前面下部の灯火類設置部は青色とされ、空調用風道は床下に移された\[5\]。
+
+台車は、ユニットブレーキ装置に[駐車用ブレーキシリンダを内蔵して構造を簡素化した](https://ja.wikipedia.org/wiki/留置ブレーキ "wikilink")\[6\]。また、中間台車の引張棒は車体の取付部を延長し、レール面に水平となる位置で装備する\[7\]。これらの改良のため、台車形式はFD3A（中間）、FD4A（両端）に改められた。{{-}}
+
+## 運用
+
+本形式の目的は、東海道・山陽本線系統など主要幹線において列車単位を上げ、輸送力増強を達成することである。量産車登場当時の1992年秋から1,300t列車への充当が、1,600t列車に関しては地上設備の増強後に充当が予定され\[8\]、本形式を当初計画に沿って運用するため、変電所の増設など電力供給設備の増強が検討された。しかし[景気後退](https://ja.wikipedia.org/wiki/景気後退 "wikilink")下で貨物輸送量が伸び悩み、設備を保有する旅客会社との調整も合意に至らず、変電設備の改良は実施を見送られた。このため、本形式は定格出力での運用は[過剰性能](https://ja.wikipedia.org/wiki/過剰性能 "wikilink")となり、運用出力（≒機関車の受電電流）をEF66形と同程度の15ノッチ相当に制限して運用された。
+
+山陽本線においては、[2002年](../Page/2002年.md "wikilink")（平成14年）から開始された[国庫](https://ja.wikipedia.org/wiki/国庫 "wikilink")[補助による鉄道貨物輸送力増強事業](https://ja.wikipedia.org/wiki/補助金 "wikilink")\[9\]が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）に完了した。これは輸送の隘路となっていた同区間の電力供給能力を強化する他、線内の各[貨物駅の荷役方式を改善するものであったが](https://ja.wikipedia.org/wiki/鉄道駅#貨物駅 "wikilink")、この事業により運転可能な列車重量が1,200tから1,300tに拡大された。これを受け、2007年3月18日のダイヤ改正から同区間で1,300t列車の運転が開始され、本形式も当該運用には重点的に充当された。
+
+本形式は、全21両が1999年4月1日付で新鶴見機関区から[吹田機関区](https://ja.wikipedia.org/wiki/吹田機関区 "wikilink")に転属した\[10\]。
+
+[車両検査は](https://ja.wikipedia.org/wiki/日本の鉄道車両検査 "wikilink")、新鶴見区所属時代である1998年度までは[大宮車両所](https://ja.wikipedia.org/wiki/大宮車両所 "wikilink")\[11\]\[12\]、吹田区転属後は[広島車両所](https://ja.wikipedia.org/wiki/広島車両所 "wikilink")で実施されており、1999年から2001年にかけて初[全検](https://ja.wikipedia.org/wiki/日本の鉄道車両検査#全般検査 "wikilink")、2006年から2010年にかけて二全検を施工している\[13\]。初全検では塗料の品質向上を理由に塗装工程が省略されたが、二全検にあわせて[EF210形に準じた外部塗装の灰色基調配色への変更が逐次実施され](https://ja.wikipedia.org/wiki/JR貨物EF210形電気機関車 "wikilink")、2009年4月22日に出場した2号機を最後に全車両の塗色変更が完了した\[14\]\[15\]\[16\]。
+
+また特筆されるものとして、2001年1月には1号機が[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")の[神戸](../Page/神戸市.md "wikilink")[復興](https://ja.wikipedia.org/wiki/復興 "wikilink")記念事業の一環として、車体に[イラストを施した](../Page/イラストレーション.md "wikilink")「[ラッピング機関車](https://ja.wikipedia.org/wiki/ラッピング車両 "wikilink")」として運用されたことがある。イラストは[ルーマニア](../Page/ルーマニア.md "wikilink")出身の[画家](../Page/画家.md "wikilink")であるアレキサンドラ・ニキータによるもので、ポートタワーと震災によって犠牲となった少女をモチーフとした[ひまわりの絵画と](../Page/ヒマワリ.md "wikilink")、「神戸からありがとう」のメッセージがあしらわれたものとなっていた。同車は約1年間にわたり、特別に用意された[ヘッドマークを装備し](https://ja.wikipedia.org/wiki/方向幕#ヘッドマーク "wikilink")、通常運用に充当された\[17\]。
+
+量産車トップナンバーである1号機は2008年に復旧工事が見送られて[部品取り](https://ja.wikipedia.org/wiki/部品取り "wikilink")車として広島車両所に留置されていたが、2011年度に廃車、2013年1月に解体されている\[18\]\[19\]。主要部品確保が困難であることから三全検は見送られ、検査切れの車両から運用離脱していくこととなった\[20\]。2016年3月のダイヤ改正で定期運用は[大阪貨物ターミナル駅](https://ja.wikipedia.org/wiki/大阪貨物ターミナル駅 "wikilink")以西のみとなり関東圏への定期運用乗り入れはこのダイヤ改正をもって消滅した\[21\]。そして2018年3月ダイヤ改正で定期運用を終了し吹田機関区のEF66形やEF210形の代走運用のみとなっている\[22\]。
+
+2017年3月1日時点では2・4-7・10・17-20の10両が吹田機関区に配置されている\[23\]。
+
+2019年3月28日をもって全車が[運用から離脱した](https://ja.wikipedia.org/wiki/運用離脱 "wikilink")。最終運行は18号機の幡生操車場〜吹田貨物ターミナル駅間での運用であった\[24\]。
+
+2号機は11月16日から24日にかけて[京都鉄道博物館](https://ja.wikipedia.org/wiki/京都鉄道博物館 "wikilink")で[国鉄シキ800形貨車](https://ja.wikipedia.org/wiki/国鉄シキ800形貨車 "wikilink")とともに特別展示され、24日に引退セレモニーが行われた。
+
+## 保存機
+
+  - EF200 901
+
+所在地：[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[ひたちなか市](../Page/ひたちなか市.md "wikilink")「[日立製作所](../Page/日立製作所.md "wikilink")水戸事業所」 [thumb](https://ja.wikipedia.org/wiki/ファイル:EF200-901_\(No_1_end\)_Hitachi_Mito_Factory_20170603.jpg "wikilink") 2016年10月には既に廃車、除籍されていた試作車である901号機が[静態保存](../Page/静態保存.md "wikilink")のため[新鶴見信号場](https://ja.wikipedia.org/wiki/新鶴見信号場 "wikilink")から製造元である日立製作所水戸事業所に向けて[甲種輸送され](https://ja.wikipedia.org/wiki/車両輸送#甲種輸送 "wikilink")\[25\]、2017年に登場当初の塗色、形態に復元された上で展示されている\[26\]。
+
+{{-}}
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  -
+  -
+  -
+  -
+  - 電気車研究会 『鉄道ピクトリアル』 2000年1月号 No.680　特集：貨物輸送
+
+  - 鉄道ジャーナル社 『鉄道ジャーナル』 2005年5月号 No.463　特集：鉄道貨物輸送の現状　
+
+  - 誠文堂新光社 『鉄道画報』 2005年夏季号 No.2　特集：JRFの機関車たち
+
+## 関連項目
+
+[Category:日本貨物鉄道の電気機関車](https://ja.wikipedia.org/wiki/Category:日本貨物鉄道の電気機関車 "wikilink") [Category:日立製作所製の電気機関車](https://ja.wikipedia.org/wiki/Category:日立製作所製の電気機関車 "wikilink") [Category:1990年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1990年製の鉄道車両 "wikilink")
+
+1.  運転台構体には、9mm厚の鉄板が使用されている。
+2.  [『鉄道ファン』通巻376号、p.121](https://ja.wikipedia.org/wiki/#鉄道ファン376 "wikilink")
+3.  [『鉄道ファン』通巻376号、p.120](https://ja.wikipedia.org/wiki/#鉄道ファン376 "wikilink")
+4.
+5.  『鉄道ジャーナル』2012年10月号、鉄道ジャーナル社、2012年、p.32
+6.
+7.
+8.  [『鉄道ファン』通巻376号、p.122](https://ja.wikipedia.org/wiki/#鉄道ファン376 "wikilink")
+9.  第三セクターの[水島臨海鉄道](../Page/水島臨海鉄道.md "wikilink")が事業主体となっている。
+10. 『鉄道ファン』1999年7月号、p.82
+11. [『鉄道ピクトリアル』通巻712号、p.67](https://ja.wikipedia.org/wiki/#鉄道ピクトリアル712 "wikilink")
+12. 全般検査期限が来る前に吹田に転属したため、大宮車両所では重要部検査のみ施工実績がある。
+13. [『鉄道ジャーナル』通巻585号、p.91](https://ja.wikipedia.org/wiki/#鉄道ジャーナル585 "wikilink")
+14.
+15. [『鉄道ジャーナル』通巻585号、p.92](https://ja.wikipedia.org/wiki/#鉄道ジャーナル585 "wikilink")
+16. 19号機は最初に塗装変更された機体であるが、初全検後の休車期間中に塗装変更が行われたため、2010年の二全検時入場時には塗装変更がなされた後であった。
+17. 同時に[EF81形501号機にもラッピングが施された](https://ja.wikipedia.org/wiki/国鉄EF81形電気機関車#500番台 "wikilink")。
+18. [『電気機関車EX』通巻7号、p.50](https://ja.wikipedia.org/wiki/#ELEX07 "wikilink")
+19. [『電気機関車EX』通巻7号、p.54](https://ja.wikipedia.org/wiki/#ELEX07 "wikilink")
+20.
+21.
+22.
+23. 『2017貨物時刻表』鉄道貨物協会 p.222
+24.
+25. [EF200-901が日立へ](http://railf.jp/news/2016/10/16/204500.html) - railf.jp 2016年10月16日
+26. [EF200-901が登場時の姿で展示される](http://railf.jp/news/2017/06/04/201000.html) - railf.jp 2017年6月4日

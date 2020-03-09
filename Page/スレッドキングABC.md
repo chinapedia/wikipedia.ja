@@ -1,0 +1,189 @@
+> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+
+
+『**スレッドキングABC**』は、[2000年](../Page/2000年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2009年](../Page/2009年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")まで、大阪・[ABCラジオ（朝日放送）で放送された](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink")、[松竹芸能](../Page/松竹芸能.md "wikilink")所属の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")、[アメリカザリガニが](../Page/アメリカザリガニ_\(お笑いコンビ\).md "wikilink")[パーソナリティを務める番組である](../Page/ラジオパーソナリティ.md "wikilink")。
+
+## 概要
+
+ABCラジオの放送エリアは[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")だが、ABCラジオのインターネットラジオ「**Webio**」で番組の一部を聴くことが可能で、ハガキ職人は全国にまで広がっている。
+
+正式な番組タイトルには「**アメリカザリガニ**」の名前は入っていないが、オープニングのタイトルコールでは「**アメザリの**スレッドキングABC」と言っている。
+
+ABCラジオの日曜深夜の人気番組「[誠のサイキック青年団](https://ja.wikipedia.org/wiki/誠のサイキック青年団 "wikilink")」を手がけた[板井昭浩](https://ja.wikipedia.org/wiki/板井昭浩 "wikilink")が、朝日放送ラジオ局編成制作部在籍時（現在は他部署に異動）に手がけたこともあって、サイキックの姉妹番組という位置づけもされている。
+
+2009年7月4日をもって番組終了。8年9ヶ月の放送に幕を降ろした。
+
+## 放送時間
+
+  - 2000年10月〜2002年10月1日　毎週火曜日25:00〜26:00
+  - 2002年10月8日〜2003年3月25日　毎週火曜日25:00〜25:30
+  - 2003年4月1日〜2005年9月27日　毎週火曜日25:00〜26:00
+
+<!-- end list -->
+
+  -
+    (2005年7月31日未明〜9月3日未明に行われた高石送信所の施設更新工事期間中は火曜24:30〜25:00に移動)
+
+<!-- end list -->
+
+  - 2005年10月4日〜2008年3月25日　毎週火曜日25:00〜25:30
+  - 2008年4月1日〜9月23日　毎週火曜日24:00〜24:30
+  - 2008年9月30日〜2009年7月4日　毎週土曜日26:00〜26:30
+
+## コーナー一覧
+
+### ネットで見つけたおもしろニュース
+
+内容はだいたい題名の通り。
+
+### ハリケンポエマー
+
+心に染みるハートフルなポエムをリスナーに考えてもらうコーナー。
+
+コーナー名は[破裏拳ポリマー](https://ja.wikipedia.org/wiki/破裏拳ポリマー "wikilink")からきている。
+
+### アニソンキング
+
+毎週リスナーから「アニソン（[アニメ](../Page/アニメ.md "wikilink")ソング）」を送ってもらうコーナー。アニメであればジャンルは問わず（[特撮](../Page/特撮.md "wikilink")モノもOK）、その曲を取り扱ったアニメについてアメザリの二人が熱く語る。
+
+曲は基本的には毎週2曲ずつだが1曲目のアニメについての話が盛り上がりすぎて2曲目をかけられないこともしばしば。
+
+逆にアメザリの二人がよく知らないアニメのことや、知っているアニメではあるが曖昧な記憶だけでしゃべったために、間違った知識を披露してしまい、その度にリスナーからの鋭い指摘がくる。
+
+### 映画の小窓
+
+平井が、（斜めから見て楽しめる）映画等を紹介するコーナー。毎週のようにやっていたが、現在では平井が映画、ビデオを見る時間が無いため、スペシャルの時のみに行われる。過去に紹介された作品は以下の通り。
+
+  - ヘリコップ
+  - ジュラシックウォーズ
+  - [悪魔を憐れむ歌](https://ja.wikipedia.org/wiki/悪魔を憐れむ歌_\(映画\) "wikilink")
+  - [グリーン・デスティニー](https://ja.wikipedia.org/wiki/グリーン・デスティニー "wikilink")
+  - [ミッション:インポッシブル2](https://ja.wikipedia.org/wiki/ミッション:インポッシブル2 "wikilink")
+  - [猿の惑星](../Page/猿の惑星.md "wikilink")
+  - [トゥームレイダー](https://ja.wikipedia.org/wiki/トゥームレイダー "wikilink")
+  - DEAD OR ALIVE
+  - [少林サッカー](https://ja.wikipedia.org/wiki/少林サッカー "wikilink")
+  - [チャーリーズ・エンジェル](https://ja.wikipedia.org/wiki/チャーリーズ・エンジェル_\(映画\) "wikilink")
+  - 忍者vs少林寺
+  - [プロジェクトX〜挑戦者たち〜](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink") 「通勤ラッシュを退治せよ」
+  - [トリプルX](https://ja.wikipedia.org/wiki/トリプルX "wikilink")
+  - [ジェイソンX](https://ja.wikipedia.org/wiki/13日の金曜日_\(映画\) "wikilink")
+  - ミラクル・サッカー
+  - 三頭魔人
+  - バカ拳
+  - [花とアリス](../Page/花とアリス.md "wikilink")
+  - ボラット 栄光ナル国家カザフスタンのためのアメリカ文化学習 (2007年5月29日レギュラー放送で紹介)
+
+### 終了したコーナー
+
+  - アニメじゃない
+  - 星に願いを
+  - 朝礼！
+  - SE・Ζガンダム
+  - スレ-1グランプリ
+  - 巷のヨーコ
+  - お〜い無茶
+  - アメザリ算
+  - うめだのホラー
+  - 低俗華撃団
+  - 父からの手紙
+  - ジーク、ジオン\!
+  - 未来少年コナン・ザ・グレート
+  - SEガンダム\!
+  - 試してバッテン
+  - ネットでジェスチャー
+  - 外タレCMグランプリ
+  - オークションKING
+  - ネット漫才\!
+  - ドップラー兄弟\!
+
+## ポイント
+
+番組の各コーナでネタが採用されると1〜10までのポイントが付き、獲得したポイント数により賞品と交換できる。
+
+5万ポイントたまるとベンツがもらえると謳っていたが、番組終了時に最も獲得している人で1100ポイント程度で、当然のことながらそこまで届くことはなかった。後に、[オタクの電脳街](http://otagai.jp/)にある賞品と1ポイント=100円のレートで交換するというオプションが追加された。
+
+  - 賞品一覧
+
+<!-- end list -->
+
+  - 5：ジーク・アメザリ缶バッジ
+  - 20：[クオカード](../Page/クオカード.md "wikilink")(2000円分)
+  - 35：アメザリ単独ライブ「侵略と愛」DVD
+  - 50,000：[ベンツC](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")180
+  - 1,000,000:アメザリ単独ライブ「侵略と愛」ポスター
+
+上記の他、おたくの電脳街で買えるものなら、1ポイント100円換算で交換（限定品を除く）。
+
+  - 過去の賞品
+
+<!-- end list -->
+
+  - 45：DSソフト「レイトン教授と悪魔の箱」or PSPソフト「モンスターハンターポータブル2ndG」
+  - 75：PS3ソフト「龍が如く見参！」
+  - 100：ポータブル[MDプレーヤー](../Page/ミニディスク.md "wikilink")
+  - 150：[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")
+  - 150：[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")
+  - 200：[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink") nano(2G)
+  - 200：ニンテンドーDS Lite or [PSP](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink") or [iPod](https://ja.wikipedia.org/wiki/iPod "wikilink") nano(4G)
+  - 300：iPod(80G) or [Xbox 360 コアシステム](https://ja.wikipedia.org/wiki/Xbox_360#Xbox_360_コアシステム "wikilink")
+  - 300：[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")
+  - 300：iPod(30G)
+  - 380：[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")
+  - 450：[Xbox 360](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")
+  - 500：[デジタルビデオカメラ](https://ja.wikipedia.org/wiki/デジタルビデオカメラ "wikilink")
+
+以前は、PlayStation 2は200ポイント、ベンツC180は1,000,000ポイントでの獲得であった。
+
+## 主なハガキ職人
+
+  - 大阪府…ウノT、亀大名、かりんとうボーイ、おっぱい革命、駿速馬
+  - 兵庫県…牛8号、珍獣動物園
+  - 奈良県…いっちょかみ in NewYork、N
+  - 北海道…おしりパワー
+  - 宮城県…炭酸水
+
+（主に獲得ポイントが多い方）
+
+## 特番
+
+[ABCラジオが](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink")「14days（聴視率週間の名前）」の時に特番が放送されることがある。基本的に長めのフリートーク、普通のお便り、アニソンキングスペシャル、映画の小窓、スペシャル企画で構成される。
+
+  - 『アメザリのスレッドキングff』（[2002年](../Page/2002年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")）
+
+終了した「低俗華撃団」「ジーク、ジオン\!」が一夜限りの復活。
+
+  - 『アメザリのスレッドキングDX』（[2003年](../Page/2003年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")）
+
+リスナー公募の「[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")名台詞ランキング」が行われ、[孫悟空](../Page/孫悟空.md "wikilink")の「地球の皆、オラに元気を分けてくれ」が一位を獲得。また「懐かしゲームサウンドイントロクイズ」でポイント上では柳原が勝利するが、台詞あてクイズが盛り上がり過ぎたため、放送上ではどちらの勝ちというアナウンスはなかった。
+
+  - 『アメザリのスレッドキングXL』（[2003年](../Page/2003年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")）
+
+前回に続き「懐かしゲームサウンドイントロクイズ」が行われ、平井が勝利。
+
+  - 『アメザリのスレッドキングadvance』（[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[6月20日](../Page/6月20日.md "wikilink")）
+
+・「[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")名台詞ランキング」が行われる。一位はハート様の「ひでぶっ！」
+
+  - 『アメザリのスレッドキング or Not?\!』』（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月11日](../Page/12月11日.md "wikilink")）
+
+約1年半ぶりのスペシャル。番組タイトルは、柳原がレギュラー放送で数週に渡って解説した[FOXチャンネル](https://ja.wikipedia.org/wiki/FOXチャンネル "wikilink")の番組「GAY or NOT?」から。恒例の名台詞ランキングは「[機動戦士ガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム "wikilink")」。30分に短縮後休止中であるアニソンキング中心の編成であった。
+
+  - 『アメザリのM-1スペシャル』（[2002年](../Page/2002年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")）
+
+スレキンのスペシャルではないが、2002年の[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")の総括として、司会を務めた[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")をゲストに迎え放送された。
+
+## スポンサー
+
+  - [ミネルヴァ・ホールディングス](https://ja.wikipedia.org/wiki/ナチュラム "wikilink")
+
+<!-- end list -->
+
+  -
+    オタクの電脳街の商品とポイントを交換するサービスはスポンサーの好意によるもの。
+
+## 外部リンク
+
+  - [スレッドキングABC](http://www.abc1008.com/king/frame.html)
+
+[Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink") [Category:朝日放送ラジオ番組の歴史](https://ja.wikipedia.org/wiki/Category:朝日放送ラジオ番組の歴史 "wikilink") [Category:朝日放送ラジオの深夜番組](https://ja.wikipedia.org/wiki/Category:朝日放送ラジオの深夜番組 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink")

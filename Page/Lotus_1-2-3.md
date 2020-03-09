@@ -1,0 +1,141 @@
+> この記事は[Lotus 1-2-3](https://ja.wikipedia.org/wiki/Lotus_1-2-3)から翻訳されています。
+
+
+[Lotus_1-2-3_on_PC-98_DOS_chart.jpg](https://ja.wikipedia.org/wiki/File:Lotus_1-2-3_on_PC-98_DOS_chart.jpg "fig:Lotus_1-2-3_on_PC-98_DOS_chart.jpg") **Lotus 1-2-3**（ロータス ワン・ツー・スリー）は、[ロータスソフトウェア](../Page/ロータス_\(ソフトウェア\).md "wikilink")（旧ロータス・デベロップメント、現在は[IBM](../Page/IBM.md "wikilink")傘下）が開発・販売していた[パソコン用](../Page/パーソナルコンピュータ.md "wikilink")[表計算ソフト](https://ja.wikipedia.org/wiki/表計算ソフト "wikilink")である。
+
+本ソフトウェアは、ロータス・デベロップメント社を代表する商品のひとつであった。日本においては単に「**ロータス**」または「**1-2-3**」（ワン・ツー・スリー、もしくは[日本語](../Page/日本語.md "wikilink")でイチ・ニ・サン）と呼称されることも多い。
+
+名称の「1-2-3」は、1.表計算機能、2.グラフ機能、3.データベース機能 の3つの機能を併せ持つことに由来する。
+
+Lotus 1-2-3は、MS-DOS用表計算ソフトの代名詞的存在となり、当時世界で最も売れたパソコン用[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")となった。特に北米市場では[IBM PC/ATおよび](https://ja.wikipedia.org/wiki/PC/AT "wikilink")[その互換機の](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")[キラーアプリケーション](https://ja.wikipedia.org/wiki/キラーアプリケーション "wikilink")となり、日本市場においても一時期は[ワープロソフト](https://ja.wikipedia.org/wiki/ワープロソフト "wikilink")における[ジャストシステム](../Page/ジャストシステム.md "wikilink")の[一太郎](https://ja.wikipedia.org/wiki/一太郎 "wikilink")と同様に、[PC-9800シリーズ](https://ja.wikipedia.org/wiki/PC-9800シリーズ "wikilink")を中心とするMS-DOSパソコン向け表計算ソフトのシェアトップを占めた。しかし、[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")プラットフォームにおける主要な[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")がMS-DOSからMicrosoft Windowsへ移行するに従い、早期にWindowsに対応した[Microsoft Excelの攻勢の前に劣勢に立たされ](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")、シェアを失った。
+
+2006年12月時点での最終バージョンは「release 9.8」（日本では「2001」）であり、その後バージョンアップは行われていない。また[ロータス・スーパーオフィス](../Page/ロータス・スーパーオフィス.md "wikilink")も含め、[Microsoft Windows Vista以降のWindows](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink") OSには対応しなかった\[1\]。[マイクロソフト](../Page/マイクロソフト.md "wikilink")による[Microsoft Windows XPのサポート終了にともない](../Page/Microsoft_Windows_XP.md "wikilink")、単品販売のMillennium Editionとスーパーオフィスは営業活動を2013年9月11日には終了し、2014年9月30日にサポートも終了した\[2\]。
+
+日本では、2003年10月より[ソースネクスト](https://ja.wikipedia.org/wiki/ソースネクスト "wikilink")から価格を1980円に引き下げて販売されたが、2008年時点で既に単品販売は終了しており、その後はロータス・スーパーオフィスの形で2970円で発売されていた（サポートは引き続きIBMが行う）。
+
+最終的な累計出荷本数は、全世界で500万本以上とされる\[3\]。
+
+## 歴史
+
+[Lotus-123-3.0-MSDOS.png](https://ja.wikipedia.org/wiki/File:Lotus-123-3.0-MSDOS.png "fig:Lotus-123-3.0-MSDOS.png")用MS-DOS版Lotus 1-2-3\]\] Lotus 1-2-3 は[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、[ミッチ・ケイパー](https://ja.wikipedia.org/wiki/ミッチ・ケイパー "wikilink")発案のもと、[ジョナサン・ザックス](https://ja.wikipedia.org/wiki/ジョナサン・ザックス "wikilink")により開発された。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")においては、家庭におけるパソコンの用途のひとつとして、表計算ソフトが普及していた。Lotus 1-2-3（以下1-2-3）以前には[Apple II等で利用できる](https://ja.wikipedia.org/wiki/Apple_II "wikilink")[ビジコープ](https://ja.wikipedia.org/wiki/ビジコープ "wikilink")社の [VisiCalc](https://ja.wikipedia.org/wiki/VisiCalc "wikilink") がベストセラーとなっており、16ビットパソコンである[IBM PCにおいても同様のアプリケーションが期待されていた](https://ja.wikipedia.org/wiki/IBM_PC "wikilink")。 マイクロソフトはIBM PC対応、すなわちPC DOS上で動作するアプリケーションとして [Microsoft Multiplan](https://ja.wikipedia.org/wiki/Microsoft_Multiplan "wikilink") を開発、販売しており、また[8ビットパソコン](https://ja.wikipedia.org/wiki/8ビットパソコン "wikilink")において人気のあった VisiCalc や [SuperCalc](https://ja.wikipedia.org/wiki/SuperCalc "wikilink") などの移植も行われていたことから、IBM PCプラットフォームにおける先行ソフトは既に存在していた。
+
+ロータス・デベロップメント（以下ロータス）は先行ソフトに対し優位に立つ為、他を圧倒する性能を追求し、1-2-3を開発した。1-2-3は豊富な機能、高速な再計算、強力な[マクロ](https://ja.wikipedia.org/wiki/マクロ言語 "wikilink")、[アドイン](https://ja.wikipedia.org/wiki/アドイン "wikilink")による拡張性をセールスポイントに掲げ、先行していた他の表計算ソフトを圧倒してMS-DOS用アプリケーションソフトウェアのスタンダードとなることに成功した。
+
+同ソフトの人気はIBM PC/ATとその互換機の売り上げを押し上げ、パソコン市場をIBM一色に塗り替えることに寄与した。高機能であるがゆえにメモリは256KBを要求されたが、1-2-3の人気はむしろ標準的なPC環境の高性能化を後押しした。マイクロソフトがIBM PCにバンドルされる「PC DOS」と同様のOSを「MS-DOS」として互換機メーカーに供給、および市販したことから、互換機上でも1-2-3を使うことができた。MS-DOSが[CP/M-86](https://ja.wikipedia.org/wiki/CP/M-86 "wikilink")との競争に勝利した理由の一つには、間違いなく1-2-3の存在があった。また、1-2-3の人気は、IBM純正機よりも、互換機の売り上げをより押し上げ、IBMのシェアは徐々に低下していった。当時、「PC/AT互換機」よりも「1-2-3互換機」（*1-2-3 compatible*）という呼称の方が一般的であったほどである。
+
+また、Macintosh版もリリースされたが、ミッチ・ケイパーは Symphony や [Jazz](https://ja.wikipedia.org/wiki/Lotus_Jazz "wikilink") のような[統合ソフト](https://ja.wikipedia.org/wiki/ソフトウェアスイート "wikilink")（integrated software）に期待しており1-2-3の将来性に否定的で、移植にも消極的であった。移植が行われてからもMS-DOS版との互換性の低さや[GUIに適合しないインターフェースが利用者の不評を買い](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")、Macintosh市場では存在感を示すまでに至らなかった。
+
+マイクロソフトは、MS-DOS市場におけるMultiplanの敗北の反省に立ち、新規デザインの表計算ソフト [Microsoft Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink") （以下Excel）を開発し、来るべき[OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")時代での捲土重来を期した。次期プラットフォームはOS/2ではなくMicrosoft Windows（以下Windows）となったが、ExcelはWindowsの普及と歩調を合わせて販売本数を順調に増やしていった。しかし、1-2-3はWindowsへの対応が遅れ、プラットフォームを移してからもExcelとの性能差は開き続けた。特に初期のWindows版及びMacintosh版は、一見するとGUIアプリケーションにも関わらず、マウスによる操作はほぼ行えず、キーボードによる操作を要求するなどの致命的な問題を抱えていた。そんな中、ロータスがグループウェア [Lotus Notes](https://ja.wikipedia.org/wiki/Lotus_Notes "wikilink") を主力に据えたこともあり、Windows版の開発は停滞、Macintosh版の開発は中止と、Excelとの差は埋めようがないほどにまで広がっていった。
+
+ロータスは[Microsoft Officeに対抗すべく](../Page/Microsoft_Office.md "wikilink")、オフィススイート Lotus SmartSuite（日本国内向けは「[スーパーオフィス](../Page/ロータス・スーパーオフィス.md "wikilink")」）をリリースしたり、価格を引き下げたりして対抗したものの、オープンソースや他社の安価なソフトとの狭間で埋没し存在感を出せず、2013年6月11日に販売が終了した。年間継続サポート用のパーツに関しては2013年9月11日で提供が終了し、2014年9月30日に全製品のサポートが終了した\[4\]。
+
+## 特徴
+
+MS-DOS時代においては、他のソフトに比べて先進的な機能を有していた。本項ではMS-DOS版のみについて述べる。
+
+### 処理速度
+
+処理速度を向上させる為、[アセンブリ言語](../Page/アセンブリ言語.md "wikilink")で開発されていた。アセンブリ言語は、個々のハードウェアへの依存度が高く扱いも難しいが、コードは小さく、処理は速くすることができる。互換機メーカーや周辺機器メーカーの方が1-2-3に合わせて設計を行い、むしろIBM純正機との互換性確保の基準として扱われたこともあり、機種依存はほとんど問題とはならなかった。
+
+また、Multiplanは旧機種との互換性にこだわっていた分、性能が犠牲になっていた。1-2-3はPC/AT以降(日本市場では加えてPC-9801)に特化することにより、描画スピードやメモリの利用効率の面で他の表計算ソフトを圧倒していた。特筆すべきは再計算の速さで、一説によると、環境にもよるがMultiplanの10倍程度であったともいわれている。
+
+### 機能
+
+本体のみでデータベース作成やグラフ描画が可能だった。ミッチ・ケイパーはこれ以前に VislCalc を拡張する VisiPlot や VisiTrend を開発しており、それらの機能を一本のアプリケーションに統合することで利便性を高めたのである。[マルチタスク](../Page/マルチタスク.md "wikilink")でないMS-DOS環境において、アプリケーションを終了することなくワークシート表示とグラフ描画を同時に行えるなどの利点があった。文章の表示にも優れていたため簡易な[ワープロ](https://ja.wikipedia.org/wiki/ワープロ "wikilink")としても使用可能で、表を含む様な文書の場合、ワープロソフトより文書作成が楽な場合さえあった。（ただしジョナサン・ザックスは、世界初の統合ソフトである Context MBA の動作の遅さの原因がワープロ機能にあると看破し、あえてワープロに要求される機能を盛り込まなかった）
+
+その上、アドインにより様々な機能を追加することができ、更に強力なマクロ機能も有しており、応用範囲の広さに対する評価が非常に高かった。アドインやマクロは利用者自らによる作成にとどまらず、第三者の手によって開発され、商用ソフトとして市販されたり、[PDSや](https://ja.wikipedia.org/wiki/パブリックドメインソフトウェア "wikilink")[シェアウェア](../Page/シェアウェア.md "wikilink")の形で配布されることが多く、ユーザーにとっては更に利便性が高まり、それが1-2-3の人気をより押し上げる結果にもつながった。ユーザーはそれらにより独自の環境を構築することができ「1-2-3さえあれば他のアプリケーションは必要ない」とまで言われるほどだった。 後に1-2-3を模倣し、性能面で上回り、付加価値となる独自機能をも有していたアプリケーションも現れたが、既に高い信頼を得ていた1-2-3の牙城を崩すには至らなかった。
+
+### インターフェース
+
+基本的なインターフェースはVisiCalcを模倣していた為、VisiCalcのユーザーは、ルックアンドフィールの違いに戸惑うことなく利用することができた。ワンキーメニュー呼び出し、ポップアップメニュー、F1キーによるヘルプ呼び出しなど、他のアプリケーションの標準的な操作方法は1-2-3により固まったといってよい。また、グラフィック機能を積極的に利用し、グラフを美しく描画することができた。IBM標準のグラフィックカードは、高解像度だがテキストしか扱えない[MDAと](https://ja.wikipedia.org/wiki/Monochrome_Display_Adapter "wikilink")、カラーグラフィックを扱えるが解像度の低い[CGAだったが](https://ja.wikipedia.org/wiki/Color_Graphics_Adapter "wikilink")、1-2-3を快適に利用する為、解像度の高い[Herculesが広く利用されていた](https://ja.wikipedia.org/wiki/Hercules_Graphics_Card "wikilink")。
+
+## 日本語版のバージョン履歴
+
+### DOS版
+
+  - 1986年9月5日 - 「1-2-3 リリース2J」（NEC PC-98用）を発売\[5\]。（以下、「リリース」を「R」とする。）日本語版独自の機能として、MS-DOS無償再販許諾の制度を利用したMS-DOS 2.0、および日本語入力ソフト「[松茸86](https://ja.wikipedia.org/wiki/松_\(ワープロ\) "wikilink")」をバンドル。また、罫線による作表、[ローソク足チャート](https://ja.wikipedia.org/wiki/ローソク足チャート "wikilink")などのグラフの追加がある\[6\]。同年10月、IBM [5550用発売](https://ja.wikipedia.org/wiki/マルチステーション5550 "wikilink")。
+  - 1987年10月 - 「1-2-3 R2.1J」（PC-98用）発売\[7\]。同年11月、IBM [PS/55](https://ja.wikipedia.org/wiki/PS/55 "wikilink")用発売。翌年、富士通[FMR](https://ja.wikipedia.org/wiki/FMR "wikilink")、松下[Panacom](https://ja.wikipedia.org/wiki/Panacom "wikilink")M、東芝[J-3100](https://ja.wikipedia.org/wiki/J-3100 "wikilink")、日立B16シリーズ用発売。
+  - 1989年2月 - 「1-2-3 R2.1J plus」発売\[8\]。
+  - 1990年2月 - 「1-2-3 R2.2J」発売\[9\]。
+  - 1991年9月 - 「1-2-3 R2.3J」発売\[10\]。
+  - 1993年9月 - 「1-2-3 R2.4J」発売\[11\]。
+  - 1995年7月 - 「1-2-3 R2.5J MS-DOS対応版」発売\[12\]。
+
+### OS/2版
+
+  - 1990年6月 - 「1-2-3 R3J」発売\[13\]\[14\]。PS/55用OS/2 J1.0対応。
+  - 1993年12月24日 - 「1-2-3 OS/2対応」発売\[15\]。OS/2 J2.0以上対応。
+
+### Windows版
+
+  - 1991年11月15日 - 「1-2-3/Windows R1.0J」発売\[16\]。[Windows 3.0日本語版に対応](https://ja.wikipedia.org/wiki/Windows_3.0 "wikilink")。
+  - 1992年6月2日 - 「1-2-3/Windows R1.1J」発売\[17\]。
+  - 1993年7月16日 - 「1-2-3 R4J Windows対応版」発売\[18\]。Windows 3.1日本語版に対応。
+  - 1994年9月22日 - 「1-2-3 R5J Windows対応版」発売\[19\]。
+  - 1995年12月23日 - 「1-2-3 R5J Windows95対応版」発売\[20\]。
+  - 1997年4月11日 - 「1-2-3 97」発売\[21\]。
+  - 1998年6月5日 - 「1-2-3 98」発売\[22\]。
+  - 1999年7月2日 - 「1-2-3 2000」発売。
+  - 2001年7月27日 - 「1-2-3 2001」発売。
+
+## 出荷本数
+
+  - 全世界
+      - 1983年1月 - アメリカ合衆国にて発売。初年度6万本販売\[23\]。
+      - 1987年1月 - 200万本\[24\]。
+      - 1996年7月 - 2200万本\[25\]。
+  - 日本
+      - 1986年9月 - 日本にて発売。
+      - 1989年8月 - 20万本\[26\]。
+      - 1991年7月 - 50万本\[27\]。
+      - 1993年2月 - 100万本\[28\]。
+      - 1996年1月 - 400万本\[29\]。
+      - 1996年7月 - 500万本\[30\]。
+
+## 参考文献
+
+  - ダニエル・イクビア/スーザン・L・ネッパー著、椋田直子訳（1992）『マイクロソフト－ソフトウェア帝国誕生の軌跡－』ISBN 978-4756101181, アスキー
+  - 相田洋、大墻敦著（1996）『新・電子立国 第3巻 世界を変えた実用ソフト』ISBN 978-4140802731, 日本放送出版協会
+  - 脇英世（1994）『ビル・ゲイツの野望 マイクロソフトのマルチメディア戦略』ISBN 978-4062072618, 講談社
+
+## 脚注
+
+## 関連項目
+
+  - [ロータス・スーパーオフィス](../Page/ロータス・スーパーオフィス.md "wikilink")
+  - [HP200LX](https://ja.wikipedia.org/wiki/HP200LX "wikilink")（[ROM化された](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")1-2-3を搭載した[PC/XT](https://ja.wikipedia.org/wiki/PC/XT "wikilink")互換ハンドヘルドコンピュータ）
+  - [ダイナブック (東芝)](https://ja.wikipedia.org/wiki/ダイナブック_\(東芝\) "wikilink")（シリーズ内のDynabook EZにおいてROM化された1-2-3を搭載していた）
+  - [管理工学研究所](https://ja.wikipedia.org/wiki/管理工学研究所 "wikilink")（リリース2の日本語化を担当）
+
+[Category:IBMのソフトウェア](https://ja.wikipedia.org/wiki/Category:IBMのソフトウェア "wikilink") [Category:表計算ソフト](https://ja.wikipedia.org/wiki/Category:表計算ソフト "wikilink") [Category:DOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:DOSのソフトウェア "wikilink") [Category:Windowsのソフトウェア](https://ja.wikipedia.org/wiki/Category:Windowsのソフトウェア "wikilink") [Category:1983年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1983年のソフトウェア "wikilink") [Category:アセンブリ言語](https://ja.wikipedia.org/wiki/Category:アセンブリ言語 "wikilink")
+
+1.
+2.
+3.  [“さよならロータス1-2-3”…全世界累計500万本出荷からの転落](http://trendy.nikkeibp.co.jp/article/pickup/20130704/1050560/?P=2)、[日経トレンディ](https://ja.wikipedia.org/wiki/日経トレンディ "wikilink")ネット、2013年7月10日。
+4.
+5.
+6.
+7.
+8.
+9.
+10. 「ロータス、「1-2-3」強化版を発売。」『日経産業新聞』 1991年7月6日、5面。
+11. 「ロータスが新版、「MS-DOS」対応ソフト―表計算のシート上で。」『日経産業新聞』 1993年8月4日、6面。
+12.
+13. 「ロータスが発売、表計算ソフト1-2-3―日本語OS/2版。」『日経産業新聞』 1990年6月29日、6面
+14.
+15. 「ロータスが発売、「OS/2」対応表計算ソフト」『日経産業新聞』 1993年11月24日、7面。
+16. 「ロータス、「1-2-3」発表、日本語版W3.0対応。」『日経産業新聞』 1991年9月19日、9面。
+17. 「ロータス、「1-2-3」最新版―書体設定など多様に。」『日経産業新聞』 1992年6月2日、6面。
+18. 「ロータス、ウィンドウズ3.1対応ソフト4製品を投入―「表計算」など対象。」『日経産業新聞』 1993年6月16日、6面。
+19. 「ロータス、「オフィス」改良版2種―ソフト間の連携を強化。」『日経産業新聞』 1994年8月24日、6面
+20. 「ロータス、「95」対応版、来月に―32ビット構造にし高速化。」『日経産業新聞』 1995年11月16日、8面
+21.
+22.
+23.
+24.
+25. 「「ロータス1-2-3」、累計500万本突破。」『日経産業新聞』 1996年7月17日、9面。
+26.
+27. 「ロータス、「1-2-3」強化版を発売。」『日経産業新聞』 1991年7月6日、5面。
+28.
+29.
+30.

@@ -1,0 +1,120 @@
+> この記事は[FM-8](https://ja.wikipedia.org/wiki/FM-8)から翻訳されています。
+
+
+**FM-8**（エフ・エム・エイト）は、[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")に[富士通](../Page/富士通.md "wikilink")が初めて発売した8[ビット](../Page/ビット.md "wikilink")[パソコンである](../Page/パーソナルコンピュータ.md "wikilink")。正式名はFUJITSU MICRO 8\[1\]。
+
+## 概要
+
+[モトローラ](../Page/モトローラ.md "wikilink")社の[CPU](../Page/CPU.md "wikilink") [MC6809](../Page/MC6809.md "wikilink")をメインCPUとグラフィックを独立制御するディスプレイサブシステムへそれぞれ搭載する2CPUのアーキテクチャを採用。メインCPUとサブシステムは、ホストCPUとグラフィック端末の関係にあたり、サブプロセッサが、グラフィックス処理など、当時のハードウェアにとって大きな処理を肩代わりすることで、メインCPUの処理を軽減し、全体としてのパフォーマンス向上を目指した。このアーキテクチャは後の[FM-7](../Page/FM-7.md "wikilink")シリーズ、[FM-11](https://ja.wikipedia.org/wiki/FM-11 "wikilink")シリーズ、[FM-16β](https://ja.wikipedia.org/wiki/FM-16β "wikilink")シリーズまで引き継がれてゆく。
+
+富士通の発表\[2\]によれば世界で初めてパソコンに当時の[大型機並みの](https://ja.wikipedia.org/wiki/汎用コンピュータ "wikilink")64Kビット[DRAMを採用し](../Page/Dynamic_Random_Access_Memory.md "wikilink")\[3\]、640×200ドット8色の表示機能、アナログ入力や[RS-232](../Page/RS-232.md "wikilink")Cの標準装備など当時としては画期的な機能を搭載し、218,000円という戦略的価格で発売した。オプションには[漢字](../Page/漢字.md "wikilink")ROMや[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")ドライブ（5インチ、8インチ）、[バブルカセット](https://ja.wikipedia.org/wiki/磁気バブル#磁気バブルメモリ "wikilink")（32KB、128KB）などの補助記憶装置のほか、[GP-IB](https://ja.wikipedia.org/wiki/GP-IB "wikilink")（[IEEE 488](https://ja.wikipedia.org/wiki/IEEE_488 "wikilink")）ボード、I/O制御ボードなど計測機器との接続や外部機器制御を目的とした拡張ボードや、FM-8を大型コンピュータのオンライン端末やオフラインのデータ入力端末として利用するソフトも提供され、パーソナルユースに加え富士通の得意とするビジネスユースを強く意識した商品でもあった。また[Z80](../Page/Z80.md "wikilink")カードを搭載することで[CP/M](https://ja.wikipedia.org/wiki/CP/M "wikilink")の動作も可能で、海外製の各種言語や開発ソフト、データベースを提供した事もコンピュータソフト開発関係者の需要を見込んだものである。後に[8088カードと](../Page/Intel_8088.md "wikilink")128KBの増設メモリーも発売された。Z80カードコネクタにはメインCPUのバスが接続されており、ここに接続するPSG音源カードがサードパーティから発表されている\[4\]。
+
+内蔵する電源からの発熱が大きく、筐体の電源上部にあたる部分にスリットが設けられた事から、発表資料と製品カタログでは外観が異なる。また、製品が潤沢に供給されるようになったのは1981年末頃からであった。
+
+後に、姉妹機種として一部機能を割愛、高速化した廉価版である[FM-7](../Page/FM-7.md "wikilink")と、上位機種である[FM-11](https://ja.wikipedia.org/wiki/FM-11 "wikilink")シリーズが発売された。FM-7発表後は、メインCPU・サブCPUの高速化やカードスロットの外付けなど、FM-7との互換性を確保する改造がホビーユーザを中心に流行した。
+
+[イメージキャラクター](https://ja.wikipedia.org/wiki/イメージキャラクター "wikilink")は[伊藤麻衣子](https://ja.wikipedia.org/wiki/いとうまい子 "wikilink")。女性アイドル起用の先駆けでもあった。
+
+## オプション
+
+  - 本体内蔵オプション:
+      - MB22002 非漢字キャラクタセットROM（本体基板上のソケットに装着）
+      - MB22003 漢字キャラクタセットROM
+      - MB22401 Z80カード
+      - MB28011 8088カード（5.25"版 CP/M-86とのセット）
+      - MB28012 8088カード（5.25"版 CP/M-86、拡張RAMモジュールとのセット）
+      - MB28013 8088カード（8"版 CP/M-86とのセット）
+      - MB28014 8088カード（8"版 CP/M-86、拡張RAMモジュールとのセット）
+      - MB22601 32KBバブルホルダユニット
+          - 空き部分には鉄製の箱が取り付けられており、俗に小物入れと呼ばれた。
+  - 外部オプション:
+      - MB27603 標準フロッピーディスクドライブ（8"）
+      - MB27605/MB27607 ミニフロッピーディスクドライブ（5.25"）
+      - MB27606/MB27608 増設用薄型ミニフロッピーディスクドライブ（5.25"）
+      - MB22605 128KBバブルホルダユニット
+      - MB26001 システム拡張ユニット
+          - MB22203A 計測制御IFモジュール（FM-7/77可）
+          - MB22204A RS-232C IFモジュール（FM-7/77可）
+          - MB22206 8088用拡張RAMモジュール
+          - MB22207 ユニバーサルモジュール（FM-7/77可）
+          - MB22209 音声入出力モジュール（FM-7/77可）
+          - MB22210 汎用IFモジュール（FM-7/77可）
+          - MB22213 ライトペンIFモジュール（FM-7可）
+
+　　　ほか
+
+  - 動作する主要[OS](../Page/オペレーティングシステム.md "wikilink"):
+      - SM07217-F023 F-BASIC Ver.2.0（いわゆるDISK BASICだが、本体ROMを使用せずRAM上で動作する）
+      - SM07217-F061 F-BASIC Ver.2.2（128KBバブルカセット）
+      - SM07217-M041 [OS-9](../Page/OS-9.md "wikilink")/6809 Level 1（5.25"版）
+      - SM07217-M042 OS-9/6809 Level 1（8"版）
+      - SM07217-M021 FLEX（5.25"版）
+      - SM07217-M022 FLEX（8"版）
+      - SM07217-M033 [UCSD Pascal](https://ja.wikipedia.org/wiki/UCSD_Pascal "wikilink")（5.25"版）
+      - SM07217-M034 UCSD Pascal（8"版）
+      - SM07217-M011 [CP/M](https://ja.wikipedia.org/wiki/CP/M "wikilink")-80（5.25"版 Z80カード装着時）
+      - SM07217-M012 CP/M-80（8"版 Z80カード装着時）
+      - [CP/M-86](https://ja.wikipedia.org/wiki/CP/M-86 "wikilink")（8088カード装着時）
+
+## BUBCOM80
+
+同時期に、富士通の技術者だった渡辺昭雄が創業したベンチャー企業のシステムズフォーミュレート社（[PET2001](https://ja.wikipedia.org/wiki/PET2001 "wikilink")の日本総代理店でもあった）が、FM-8と外観や[磁気バブルメモリなど類似点が多い](https://ja.wikipedia.org/wiki/磁気バブル#磁気バブルメモリ "wikilink")「BUBCOM80」を開発して、1981年9月から168,000円で発売。生産は富士通（須坂工場\[5\]）が請け負っていた。BUBCOM80は[Z80](../Page/Z80.md "wikilink")を搭載したCP/Mマシンで、意欲的な設計であったものの営業的には奮わず、1983年4月上旬の同社の自己破産とともに短命に終った\[6\]\[7\]。
+
+  - 仕様
+
+<!-- end list -->
+
+  - 本体
+      - 450mm×320mm×100mm　4.0kg　キーボード一体型
+      - 価格: 掲載資料によるばらつきがあるが、概ね以下の通り　バブル・ホルダ無し\[RN型\] 168,000円、バブル・ホルダ1台仕様\[RS型\] 258,000円（カタログ）268,000円（雑誌広告）、バブル・ホルダ2台仕様\[RD型\] 296,000円（カタログ）306,000円（雑誌広告）
+      - CPU: Z80A 4MHz
+      - RAM: メイン64KB（16Kbit/chip×16、システムはRAM上にロード）、キャラクタージェネレーター用2KB（システム同様にロード）、VRAM（オプション）48KB
+      - ROM: ブートローダ 2KB（起動時のシステムロード時のみ使用）
+      - CRTコントローラ: μPD3301
+      - テキスト表示: 80×25、40×25 デジタル8色カラー
+      - グラフィック表示: 160x100dot デジタル8色カラー、 640x200dot デジタル8色カラー（オプション）
+      - OS: マイクロソフトBASIC、CP/M
+  - オプション
+      - 外部オプション
+          - BC-861 コンパクトプリンタ（5×7dot、最大8インチ幅、80字印字/1行、30字/秒、W330mm×D170mm×H130mm 2.5kg）80,500円
+          - BC-862 パーソナルプリンタ（9×9dot、最大10インチ幅、80 or 132字印字/1行、80字/秒、W380mm×D310mm×H110mm 5.5kg）158,000円
+          - BC-863 ビジネスプリンタ（9×9dot、最大15.5インチ幅、136字印字/1行、80字/秒、W590mm×D390mm×H130mm 約10kg）208,000円
+          - BC-892 ロール式アイテムキー（160キー×20ページ＝3,200項目、ページ自動切換1.3秒、寸法 W500mm×D350mm）
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  -
+## 関連項目
+
+  - [FM-7](../Page/FM-7.md "wikilink")シリーズ - FM-8の廉価版後継機種
+  - [FM-11](https://ja.wikipedia.org/wiki/FM-11 "wikilink")シリーズ - FM-8の大幅機能強化版機種
+  - [FM-X](../Page/FM-X.md "wikilink")
+  - [FM-77シリーズ](https://ja.wikipedia.org/wiki/FM-7#FM-77 "wikilink")
+  - [FM-16β](https://ja.wikipedia.org/wiki/FM-16β "wikilink")シリーズ
+  - [FM-16π](https://ja.wikipedia.org/wiki/FM-16π "wikilink")
+  - [FM77AVシリーズ](https://ja.wikipedia.org/wiki/FM-7#FM77AV "wikilink")
+  - [FMRシリーズ](../Page/FMRシリーズ.md "wikilink")
+  - [FM TOWNSシリーズ](../Page/FM_TOWNS.md "wikilink")
+  - [FMV](https://ja.wikipedia.org/wiki/FMV "wikilink")シリーズ
+  - [伊藤麻衣子](https://ja.wikipedia.org/wiki/いとうまい子 "wikilink") - 初代イメージキャラクター
+
+## 外部リンク
+
+  - [富士通ミュージアム FM-8](http://jp.fujitsu.com/museum/products/computer/personalcomputer/fm8.html)
+  - [コンピュータ博物館：日本のコンピュータ：パーソナルコンピュータ：富士通：FM-8（エフエム エイト）](http://museum.ipsj.or.jp/computer/personal/0007.html)
+
+[Category:富士通のパーソナルコンピュータ](https://ja.wikipedia.org/wiki/Category:富士通のパーソナルコンピュータ "wikilink")
+
+1.
+2.
+3.  パリティチェック用のDRAMを搭載する空きパターンも基板上にあるが、製品では使われていない。パリティエラーが発生するとNMI割り込みが発生し、F-BASICではその時点でのCPUのレジスタ内容を表示して動作を停止する。
+4.  姉妹機の位置づけで発売された[FM-7](../Page/FM-7.md "wikilink")にも物理形状は異なるもののほぼ同様の回路が実装されたため、FM-7用で音源を使用するソフトがFM-8でもそのまま動作した。
+5.  株式会社システムズフォーミュレート『パーソナルコンピュータBUBCOM80カタログ』
+6.  毎日新聞社経済部編『これがベンチャーだ すご～い会社 もうかるビジネス』毎日新聞社、1983年、pp.53-54
+7.  [関口和一](https://ja.wikipedia.org/wiki/関口和一 "wikilink")『パソコン革命の旗手たち』日本経済新聞社、2000年、p.262

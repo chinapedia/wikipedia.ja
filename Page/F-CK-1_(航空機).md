@@ -1,0 +1,95 @@
+> この記事は[F-CK-1 \(\)](https://ja.wikipedia.org/wiki/F-CK-1_\(\))から翻訳されています。
+
+
+**F-CK-1** (經國號戰機) (**IDF**) は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の民間企業の技術協力を受け、[中華民国](https://ja.wikipedia.org/wiki/中華民国 "wikilink")（[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")）が開発した国産[戦闘機](../Page/戦闘機.md "wikilink")。愛称は**経国**（、、、[英語](../Page/英語.md "wikilink"): Ching-kuo、チンクォ）で、**経国号戦闘機**（****）と呼ばれる。IDFは国産防衛戦闘機（）の略である。
+
+## 概要
+
+当初、老朽化した[F-5A/B フリーダムファイターと](https://ja.wikipedia.org/wiki/F-5_\(戦闘機\) "wikilink")[F-104 スターファイター戦闘機を更新するため](https://ja.wikipedia.org/wiki/F-104_\(戦闘機\) "wikilink")、[台湾総統府はアメリカ合衆国に](https://ja.wikipedia.org/wiki/中華民国 "wikilink") [F-16戦闘機の輸入を打診したが](https://ja.wikipedia.org/wiki/F-16_\(戦闘機\) "wikilink")、[アメリカ議会が](https://ja.wikipedia.org/wiki/アメリカ合衆国議会 "wikilink")[大陸中国を刺激するとして一度これを拒否した](../Page/中華人民共和国.md "wikilink")。その代替案として、アメリカ側はF-16のダウングレード版のF-16/79（当時の最新鋭機材ゆえに輸出規制対象だった[P\&W](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー "wikilink") [F100ではなく](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー_F100 "wikilink")、旧式ながら輸出実績のある[GE](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック "wikilink") [J79にエンジンを換装](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_J79 "wikilink")）、あるいは[F-5の後継機](https://ja.wikipedia.org/wiki/F-5_\(航空機\) "wikilink")[F-20を台湾に提案する](https://ja.wikipedia.org/wiki/F-20_\(戦闘機\) "wikilink")。しかし、これらは[空軍の要求を満たさないとして拒否され](https://ja.wikipedia.org/wiki/中華民国空軍 "wikilink")、結局、台湾は戦闘機の自主開発を決定した。開発主契約者は航空工業発展中心（、現・[漢翔航空工業](https://ja.wikipedia.org/wiki/漢翔航空工業 "wikilink")股份有限公司：AIDC）であり、またアメリカ政府のもとでアメリカ軍事産業による技術的支援に関しては容認された。その結果、F-16の開発元である[ジェネラル・ダイナミクス](https://ja.wikipedia.org/wiki/ジェネラル・ダイナミクス "wikilink")航空機部門（現[ロッキード・マーティン](https://ja.wikipedia.org/wiki/ロッキード・マーティン "wikilink")）をはじめ、ギャレット（現[ハネウェル](https://ja.wikipedia.org/wiki/ハネウェル "wikilink")）や[ウェスティングハウスが開発協力することとなった](https://ja.wikipedia.org/wiki/ウェスティングハウス・エレクトリック "wikilink")。
+
+開発は[1982年](../Page/1982年.md "wikilink")より開始され、F-16レベルの戦力を目指した。そのため、機体はどことなくF-16の雰囲気があるが、おおむね当時の各国で開発された小型戦闘機・軽戦闘機と共通したスタイルとなっている。[1988年](../Page/1988年.md "wikilink")（[民国](https://ja.wikipedia.org/wiki/中華民国暦 "wikilink")77年）、当年の年初に世を去った[蒋経国](../Page/蒋経国.md "wikilink")中華民国総統を偲んで「経国」と名づけられた。この「経国」という彼の名は魏の文帝[曹丕](https://ja.wikipedia.org/wiki/曹丕 "wikilink")の「[文章経国](https://ja.wikipedia.org/wiki/文章経国 "wikilink")」から取られており、「国を経（おさ）める」という意味もある。[1989年](../Page/1989年.md "wikilink")（民国78年）[5月28日](../Page/5月28日.md "wikilink")に初飛行を達成し、[1994年](../Page/1994年.md "wikilink")（民国83年）に軍が制式採用した。
+
+当初は256機が生産・配備される計画であったが、その後の情勢が変わりアメリカ議会が純正F-16の輸出を許可したため、この機体の製造数は約半数の130機に減らされることとなった。また、アメリカ政府との協定により、台湾がF-CK-1を他の国や地域に輸出することは不可能である。しかし、自国での兵器開発・生産能力を保持し、外国製品を輸入する際も相手側に完全な主導権を取られない実力を得たという点で、本機の存在意義は大きかったといえる。
+
+## 仕様
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:IDF_F-CK-1A_Single_Front_View.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:IDF_F-CK-1B_1622_Display_in_Chiayi_AFB_20120811c.jpg "wikilink") [right](https://ja.wikipedia.org/wiki/ファイル:F-CK-1_cockpit.jpg "wikilink") 経国の全体の設計は、ジェネラル・ダイナミクスが協力したこともあってF-16に類似している点が多く見られる。[ブレンデッド・ウィング・ボディ](https://ja.wikipedia.org/wiki/ブレンデッド・ウィング・ボディ "wikilink")、大型の[ストレーキ](https://ja.wikipedia.org/wiki/ストレーキ "wikilink")、[クリップド・デルタ形主翼が採用されている](https://ja.wikipedia.org/wiki/翼平面形#クリップド・デルタ翼 "wikilink")。
+
+フライトコントロールはF-16と同様に[デジタル・フライ・バイ・ワイヤで](https://ja.wikipedia.org/wiki/フライ・バイ・ワイヤ "wikilink")、操縦桿の配置もパイロットの脇に置かれるサイドスティック方式が採用されている。フラッペロン、全遊動式の[水平尾翼](https://ja.wikipedia.org/wiki/水平尾翼 "wikilink")、フルスパン前縁[フラップ](https://ja.wikipedia.org/wiki/フラップ "wikilink")など、ほかにも特徴的な点でF-16の技術を取り入れている。アメリカ議会の圧力により大推力エンジンを採用できなかったため、アメリカ企業との合弁会社によって生産されているビジネス機用の[TFE731をベースに開発したハネウェル](https://ja.wikipedia.org/wiki/ハネウェル_TFE731 "wikilink")/ の[アフターバーナー](../Page/アフターバーナー.md "wikilink")装備型であるF125[ターボファンエンジン](https://ja.wikipedia.org/wiki/ターボファンエンジン "wikilink") (A/B推力 41.14kN)を2基搭載し、デジタル制御により高い整備性を誇る。双発機であることもあって、エアインテークはF-16とは異なり、楕円形のものがストレーキ下に一対ある。
+
+一般的には小型になるほどジェットエンジンの[推力重量比](https://ja.wikipedia.org/wiki/推力重量比 "wikilink")は高い傾向にある（[二乗三乗の法則](https://ja.wikipedia.org/wiki/二乗三乗の法則 "wikilink")）が、民間機用エンジンを半ば強引に軍事転用したF125は、当時最新鋭の軍用エンジンである[GE製F404よりも推重比では逆に劣っており](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_F404 "wikilink")、パワープラントの基本性能ではF-20のほうが勝っている。それでもコンパクトな設計により十分な動力性能が与えられているとされるが、自重・最大離陸重量・エンジン推力量ともにF-20を多少は上回っているものの大して変わらず、カタログスペック上は有意な差があるわけではない。あえてアメリカ側の提案を「要求性能を満たさない」として採用せず本機を開発した意義は、少なくともF-20との比較における純粋な機体性能の面では疑われる。しかし自国での開発・生産を実現した意義は大きく、F-16A/Bや[ミラージュ2000の採用が決定して以降も](https://ja.wikipedia.org/wiki/ミラージュ2000_\(戦闘機\) "wikilink")、双発エンジンが評価されて引き続き本機の開発と生産が続行されることとなった。
+
+コクピットには、[HUDと左右両側に](https://ja.wikipedia.org/wiki/ヘッドアップディスプレイ "wikilink")[多機能ディスプレイ](https://ja.wikipedia.org/wiki/多機能ディスプレイ "wikilink")が装備されている。[FCSレーダーはF](https://ja.wikipedia.org/wiki/射撃管制装置 "wikilink")-20用のロッキード・マーチン[AN/APG-67](https://ja.wikipedia.org/wiki/AN/APG-67 "wikilink")（もともとは[F-20](https://ja.wikipedia.org/wiki/F-20 "wikilink")専用に開発されたもの）をもとに開発されたマルチモード・[パルス・ドップラー形式の金龍](https://ja.wikipedia.org/wiki/ドップラー・レーダー#航空機用レーダー "wikilink")53型（GD-53/チンロン53）が装備される、このレーダーは[ルックダウン](https://ja.wikipedia.org/wiki/ルックダウン能力 "wikilink")・[シュートダウン能力を備え](https://ja.wikipedia.org/wiki/ルックダウン能力#シュートダウン能力 "wikilink")、対空と対水上の2モードを有しており、複数目標の同時追跡能力と、その中の1目標に対する攻撃能力を持つ。捜索距離は約150kmといわれている。
+
+## 兵装
+
+兵装は短射程AAM（TC-1、）と、[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")では初めてのアクティブ・レーダー誘導の中射程AAMだった[天剣二型](https://ja.wikipedia.org/wiki/TC-2_\(ミサイル\) "wikilink")（TC-2、）を装備、[視程外距離](https://ja.wikipedia.org/wiki/空対空ミサイル#運用術 "wikilink")（BVR）戦闘も可能になっている。
+
+天剣一型は[AIM-9C サイドワインダーを元に開発した国産のAAMで](https://ja.wikipedia.org/wiki/サイドワインダー_\(ミサイル\) "wikilink")、主翼両端に専用のランチャーがあり、主翼下のハードポイントにも装備できる。天剣二型は、射程や外観は同じ中射程型の[AIM-7 スパローに酷似しているが](https://ja.wikipedia.org/wiki/スパロー_\(ミサイル\) "wikilink")、ターミナル誘導にアクティブ・レーダーを使用できる点でスパローよりも優れているAAMであり、胴体下に2発装備できる。
+
+対地攻撃兵装は通常爆弾、[クラスター爆弾](../Page/クラスター爆弾.md "wikilink")、[ロケット弾](https://ja.wikipedia.org/wiki/ロケット弾 "wikilink")ポッドの搭載が可能。
+
+また独自開発の[対艦ミサイル](https://ja.wikipedia.org/wiki/対艦ミサイル "wikilink")[雄風II型](https://ja.wikipedia.org/wiki/雄風II型_\(ミサイル\) "wikilink")（HF-2）ASMを最大3発搭載する事ができる。これは中間飛翔に慣性誘導、ターミナル誘導にアクティブ・レーダーと画像赤外線を使用し最大射程は80kmである。このほか固定武装として[M61A1 20mmバルカン砲を](../Page/M61_バルカン.md "wikilink")1門装備する。
+
+## 近代化改修
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:AIDC_F-CK-1_Brave_Hawk.jpg "wikilink") F-CK-1A/Bの生産を行っていたAIDCはIDF-Cと仮称されるF-CK-1A/Bの近代化改修型を提案、空軍は2000年に70億台湾ドルの研究開発予算を計上し、「翔昇専案」の計画名で開発を開始した。主な改修点は以下の通り。
+
+  - コクピットの表示装置をカラー液晶多機能ディスプレイへ換装
+  - ミッションコンピューター換装
+  - GD-53 FCSレーダーに地形追随モード追加、空対空及び空対地探知能力改善
+  - 胴体後部に[コンフォーマル・フューエル・タンク](https://ja.wikipedia.org/wiki/コンフォーマル・フューエル・タンク "wikilink")追加
+  - 最大離陸重量増大（12.53t→18.0t）に伴う脚部強化
+  - 主翼ハードポイントを2基追加（6→8）。これにより「天剣2型」の最大搭載数が4発に倍増
+  - 電子戦システム、敵味方識別装置改修
+
+[第4世代ジェット戦闘機](https://ja.wikipedia.org/wiki/第4世代ジェット戦闘機 "wikilink")相当のマルチロール機としては不足していたエンジン推力の強化が本来の目的であったが、予算の制約等からエンジンの換装は行われず、アビオニクス、射撃管制システムの改修が主となった。開発開始から7年後の[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")、[台中](https://ja.wikipedia.org/wiki/台中 "wikilink")の清泉崗空軍基地において新造されたF-CK-1C試作一号機が公開され、5日後に初飛行が行われた。2007年3月16日にやはり新造されたF-CK-1D試作一号機も初飛行し、3月27日に陳水扁総統はこの改修型F-CK-1を「雄鷹」号（[英語](../Page/英語.md "wikilink")では）と命名した。アップグレード型の英語名称はF-CK-1C/D(単座型/複座型)であり、中国語名称は「経国 雄鷹」。
+
+空軍がF-16C/D 66機の新規導入を優先していた関係もあり、試作機の完成後もF-CK-1A/Bの近代化改修はなかなか着手されなかったが、空軍は2008年にF-CK-1A/Bの近代化改修計画を「翔展」案と改名、コンフォーマル・フュエール・タンクの追加を見送った上で、一個連隊分（第443連隊の71機）の改修予算を計上し、改修を担当するAIDCは2009年に8機のF-CK-1を改修することを発表した。近代化改修を行わないF-CK-1については、高等訓練機や対地攻撃機としての運用が予定された。2011年6月30日、最初の「翔展」改修型F-CK-1 6機が空軍に引き渡された。
+
+2011年9月28日、「翔展2号」案の計画名称で「翔展」案で改修対象から外れた56機のF-CK-1A/Bを2013年から2017年にかけて106億台湾ドルをかけて近代化改修を行う事が公表された。また「翔展」案改修と並行して機体寿命延長改修と「天剣2A型」対レーダーミサイル、「万剣」対地ミサイル等の運用能力付与も行われている事も明らかにされた。
+
+## 派生型
+
+2011年6月30日、「翔展」改修型F-CK-1の引渡し式典に参加した馬英九総統は、F-CK-1を原型とした高等[練習機](https://ja.wikipedia.org/wiki/練習機 "wikilink")の研究を進めていることを明らかにした。2016年3月28日、台中のAIDCを視察した蔡英文次期総統（当時）は、[AT-3の後継となる空軍の次期練習機として](https://ja.wikipedia.org/wiki/AT-3_\(航空機\) "wikilink")、F-CK-1からアフターバーナーやレーダー等を取り外し、[複合材料](https://ja.wikipedia.org/wiki/複合材料 "wikilink")を一部に使用して軽量化を図った機体を自国で開発・製造する考えを示した\[1\]。
+
+## 配備基地
+
+  - 台南飛行場 第1戦術戦闘航空団
+      - 第1戦術戦闘飛行隊
+      - 第3戦術戦闘飛行隊
+      - 第9戦術戦闘飛行隊
+  - 台中清泉崗飛行場 第3戦術戦闘航空団
+      - 第7戦術戦闘飛行隊
+      - 第28戦術戦闘飛行隊
+
+<!-- end list -->
+
+  - かつて運用していた部隊
+      - 第8戦術戦闘飛行隊 (2005年に解隊)
+
+## スペック
+
+  - 全長：14.5m
+  - 全幅：8.5m
+  - 全高：4.6m
+  - 翼面積：24.3[m<sup>2</sup>](../Page/平方メートル.md "wikilink")
+  - 空虚重量：6,486kg
+  - 最大離陸重量：12,247kg
+  - エンジン：[ハネウェル](https://ja.wikipedia.org/wiki/ハネウェル "wikilink")/  [ターボファンエンジン](https://ja.wikipedia.org/wiki/ターボファンエンジン "wikilink") (A/B出力 41.1kN) ×2
+  - 最高速度：[M1.8](../Page/マッハ数.md "wikilink")
+  - 固定武装：[M61 バルカン砲](../Page/M61_バルカン.md "wikilink") ×1
+
+## 脚注
+
+## 外部リンク
+
+  - [F-CK-1戦闘機「経国」/「雄鷹」](http://wiki.livedoor.jp/namacha2/d/F%2dCK%2d1%c0%ef%c6%ae%b5%a1%a1%d6%b7%d0%b9%f1%a1%d7/%a1%d6%cd%ba%c2%eb%a1%d7) - 日本周辺国の軍事兵器
+  - [IDF經國號戰鬥機](http://www.aidc.com.tw/tw/services-1-1.asp?NumberID=s101) -AIDC（漢翔航空工業股份有限公司）による紹介
+  - [F-CK-1 C/D雄鷹戰機](http://www.aidc.com.tw/tw/services-1-1.asp?NumberID=s101) -AIDC（漢翔航空工業股份有限公司）による紹介
+  - [GlobalSecurity.org](http://www.globalsecurity.org/military/world/taiwan/idf.htm)
+  - [TaiwanAirPower.org](http://www.taiwanairpower.org/af/idf.html)
+
+[Category:戦闘機](https://ja.wikipedia.org/wiki/Category:戦闘機 "wikilink") [Category:台湾の軍用機](https://ja.wikipedia.org/wiki/Category:台湾の軍用機 "wikilink")
+
+1.  [蔡英文次期総統、空軍の次世代練習機は「自国で開発・製造」](http://japan.cna.com.tw/news/aeco/201603290010.aspx)

@@ -1,0 +1,240 @@
+> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+
+
+『**独眼竜政宗**』（どくがんりゅうまさむね）は、[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[昭和](../Page/昭和.md "wikilink")62年）[1月4日](../Page/1月4日.md "wikilink")から[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に放送した[大河ドラマ](../Page/大河ドラマ.md "wikilink")。 NHKの行ったアンケート調査では、最も好きな大河ドラマに輝いている。大河ドラマ絶頂期の代表作の一つである。
+
+原作は[山岡荘八](../Page/山岡荘八.md "wikilink")の小説『伊達政宗』で、[伊達家を題材にした大河ドラマとしては](../Page/伊達氏.md "wikilink")[江戸時代](../Page/江戸時代.md "wikilink")の[伊達騒動](https://ja.wikipedia.org/wiki/伊達騒動 "wikilink")を描いた『[樅ノ木は残った](https://ja.wikipedia.org/wiki/樅ノ木は残った_\(NHK大河ドラマ\) "wikilink")』（[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")）以来17年ぶりとなる。己の知恵と才覚によって[仙台藩](../Page/仙台藩.md "wikilink")62万[石の礎を一代で築いた](https://ja.wikipedia.org/wiki/石_\(単位\) "wikilink")[奥州の](../Page/陸奥国.md "wikilink")[戦国](../Page/戦国時代_\(日本\).md "wikilink")[武将](https://ja.wikipedia.org/wiki/武将 "wikilink")・[伊達政宗](../Page/伊達政宗.md "wikilink")の生涯を描いた。
+
+## 制作の前段
+
+[1984年](../Page/1984年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")59年）の『[山河燃ゆ](https://ja.wikipedia.org/wiki/山河燃ゆ "wikilink")』、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）の『[春の波涛](https://ja.wikipedia.org/wiki/春の波涛 "wikilink")』、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）の『[いのち](https://ja.wikipedia.org/wiki/いのち_\(NHK大河ドラマ\) "wikilink")』と、大河ドラマは三年連続で近代路線シリーズが続いていた。時代劇路線の視聴者のためには「[NHK新大型時代劇](https://ja.wikipedia.org/wiki/大河ドラマ#NHK新大型時代劇 "wikilink")」が水曜日の枠でつくられた。
+
+近代路線シリーズの[視聴率](../Page/視聴率.md "wikilink")は、『山河燃ゆ』21.1%、『春の波涛』18.2%、『いのち』29.3%であった\[1\]。 『いのち』は視聴率的には近代路線シリーズ中で唯一成功し、ドラマ性も評価も高かったものの、登場人物に歴史上の人物が全く登場しない異色作で「大河ドラマではなく、連続テレビ小説の延長線だ」という意見もあった。その一方で「NHK新大型時代劇」は良作が続き評判がよく、視聴者は時代劇を求めていると判断したNHKは『いのち』以降の近代路線シリーズを白紙とし、『[徳川家康](https://ja.wikipedia.org/wiki/徳川家康_\(NHK大河ドラマ\) "wikilink")』以来4年ぶりに時代劇路線シリーズの大河ドラマが復活した。
+
+## 特徴
+
+### 大河ドラマ最大のヒット作
+
+平均[視聴率](../Page/視聴率.md "wikilink")39.7%は、大河ドラマの歴代トップを誇っており、主人公伊達政宗の最期を描いた最終回の最高視聴率47.8%は、『[赤穂浪士](https://ja.wikipedia.org/wiki/赤穂浪士_\(NHK大河ドラマ\) "wikilink")』（53%）、『[武田信玄](https://ja.wikipedia.org/wiki/武田信玄_\(NHK大河ドラマ\) "wikilink")』（49.2%）に次ぐ第3位の記録である（2019年8月現在）\[2\]。
+
+[不動明王](../Page/不動明王.md "wikilink")について教えられた梵天丸（政宗の幼名）がその養育係である喜多に語った「**梵天丸もかくありたい**」という台詞は[流行語](../Page/流行語.md "wikilink")となった。ただし本編でこのセリフを言うのはこのシーンと、第11回「八百人斬り」で政宗が刀に映った自分の顔を見て、少年時代を回想したのち、刀を振るいながらこのセリフを繰り返す場面のみである。先述の梵天丸のシーンは、この第11回や26回「絶体絶命」など、政宗が幼少期を回想する場面で使用された。
+
+[2003年](../Page/2003年.md "wikilink")（[平成](../Page/平成.md "wikilink")15年）、NHKがテレビ放送開始50年を記念して行なった「もう一度見たいあの番組」という一般視聴者によるテレビ番組のリクエストでは、総合部門の第9位、大河ドラマ部門の第1位に輝いた。また、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）に行われた好きな大河ドラマは?というアンケートで第1位を獲得し、放送から31年経った後でも人気は根強い。なお[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）[1月3日](../Page/1月3日.md "wikilink")・4日に総合テレビで、同年7月26日〜30日に衛星第2テレビで総集編が本放送当時の完全ノーカット版で再放送された。
+
+2014年4月5日より[BSプレミアム](https://ja.wikipedia.org/wiki/BSプレミアム "wikilink")で当時の放送をアバンタイトルも含めたノーカット版で全編が再放送された。
+
+2016年2月19日にTBSラジオの番組『[荻上チキ・Session-22](https://ja.wikipedia.org/wiki/荻上チキ・Session-22 "wikilink")』内で「今夜決定！最高の大河ドラマ」という特集が放送され、同番組リスナーや出演者が１人１票で投票した順位の結果が発表された。この時点まで発表された全ての大河ドラマ全54作が対象で総投票数1,000票以上の大規模なものであったが\[3\]、本作は2位（88票）となった。1位『[平清盛](https://ja.wikipedia.org/wiki/平清盛_\(NHK大河ドラマ\) "wikilink")』（2012年放送）が209票で本作とは大差をつけた結果ではあったが\[4\]、3位『[新選組\!](../Page/新選組!.md "wikilink")』（2004年放送）4位『[龍馬伝](https://ja.wikipedia.org/wiki/龍馬伝 "wikilink")』（2010年放送）等と、2000年代以降の作品が上位にある中で80年代の本作がこの順位になった事を考慮しても、未だ根強い人気があることが伺える。
+
+### オープニング解説
+
+オープニング前に史実の解説などを行う手法は『[獅子の時代](https://ja.wikipedia.org/wiki/獅子の時代 "wikilink")』に前例があるが、本作を期として以降の大河ドラマの恒例となった。
+
+NHKでの本放送では[アバンタイトル](https://ja.wikipedia.org/wiki/アバンタイトル "wikilink")としてオープニング前に1987年（昭和62年）当時の世相などを絡めて史実の解説などが行われていた。以下に具体例を挙げる。
+
+  - [秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "wikilink")・[家康](../Page/徳川家康.md "wikilink")・[政宗の年齢差を](../Page/伊達政宗.md "wikilink")[長嶋](https://ja.wikipedia.org/wiki/長嶋茂雄 "wikilink")・[王](../Page/王貞治.md "wikilink")・[清原に置き換えて説明した](https://ja.wikipedia.org/wiki/清原和博 "wikilink")。
+  - 梵天丸役の[藤間遼太が](https://ja.wikipedia.org/wiki/藤間勘十郎_\(8世\) "wikilink")[米沢城](https://ja.wikipedia.org/wiki/米沢城 "wikilink")の[間取り](https://ja.wikipedia.org/wiki/間取り "wikilink")を、藤次郎役の[嶋英二](https://ja.wikipedia.org/wiki/嶋英二 "wikilink")が[聚楽第](../Page/聚楽第.md "wikilink")の間取りを紹介した。
+  - [本能寺の変](../Page/本能寺の変.md "wikilink")の説明を、過去の大河ドラマの映像から[信長が自刃する場面を交えて行った](../Page/織田信長.md "wikilink")\[5\]。
+  - 小田原攻めでの解説では、CGを使い豊臣軍20万の兵が北条軍が立てこもる[小田原城](https://ja.wikipedia.org/wiki/小田原城 "wikilink")を包囲している様子を詳しく説明\[6\]。
+  - 本物の[花押](https://ja.wikipedia.org/wiki/花押 "wikilink")にしか入れていないと政宗が主張した[鶺鴒](https://ja.wikipedia.org/wiki/鶺鴒 "wikilink")（せきれい）の眼で有名なエピソードでは、当時の内閣総理大臣[中曽根康弘](https://ja.wikipedia.org/wiki/中曽根康弘 "wikilink")の花押を紹介。
+  - 秀吉の[臨終](https://ja.wikipedia.org/wiki/臨終 "wikilink")の回では、政宗や家康を始めとする豊臣大名の[石高](https://ja.wikipedia.org/wiki/石高 "wikilink")を1～１０位までランキング形式で紹介した。
+  - 46話では[ジェームス三木](https://ja.wikipedia.org/wiki/ジェームス三木 "wikilink")が仙台城大広間のセットに登場し、政宗の有名な五言絶句・「馬上少年過ぐ」の解説を行った。
+
+しかし現在では権利上の問題が絡むため、CSなどでのNHK以外での放送ではともにカットされている。なお、DVDなどで販売されている「完全版」に関しては、このオープニング前の紹介・解説も完全に収録されている。
+
+### オープニング映像
+
+またオープニング映像自体も大河ドラマの常識を変えた作品であった。それまでの大河ドラマのオープニングは、風景などの単純な映像が中心であった。
+
+本作のオープニングはアバンタイトルの映像に被せてテーマ音楽が流れ、それと共に題字が現れる。映像には終始、青色を基調としたトンネル風の背景と、「黒漆五枚胴具足 伊達政宗所用」の兜を着用し、馬に騎乗した姿の政宗に扮した渡辺謙が登場。[レーザー](https://ja.wikipedia.org/wiki/レーザー "wikilink")光線や、[逆光](https://ja.wikipedia.org/wiki/逆光 "wikilink")撮影によるシルエットや合成といった特殊効果を駆使した映像が使われた。映像に登場する変わり兜はすべてレプリカではない本物が使われ、ラストで[スポットライト](https://ja.wikipedia.org/wiki/スポットライト "wikilink")を浴びて政宗が佇む姿は、[仙台城](../Page/仙台城.md "wikilink")址の騎馬像とほぼ同じ構図になっている。
+
+[オンド・マルトノ](../Page/オンド・マルトノ.md "wikilink")を効果的に用いた独特のテンポと、重厚で壮大な曲調が特徴の[池辺晋一郎](../Page/池辺晋一郎.md "wikilink")作曲のテーマ音楽は、他のテレビ局も含めてテーマ音楽を「伊達政宗」や「[仙台](https://ja.wikipedia.org/wiki/仙台 "wikilink")」に関する映像を流すときに[BGMとする例が現在でも多々見られる](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")。
+
+なお、宣伝用のポスターにも特殊効果を用いたり、あるいはタキシード姿の渡辺謙に兜を持たせ眼帯を着けさせるなど、時代劇の枠を超える様々な工夫が施された。
+
+### 遺骨映像
+
+最も斬新な演出の一つとして、伊達政宗本人の遺骨が映像として紹介された。政宗墓所・[瑞鳳殿](https://ja.wikipedia.org/wiki/瑞鳳殿 "wikilink")は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時の[仙台空襲](https://ja.wikipedia.org/wiki/仙台空襲 "wikilink")で焼失、[1979年](../Page/1979年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")54年）に再建されたが、それに先立ち[1974年](../Page/1974年.md "wikilink")（昭和49年）に行われた発掘調査で発見されたもので、年月が経過していたにも拘らず、奇跡的に残っており、科学的鑑定により生前の政宗の容貌・体格・血液型なども推定できた。本作ではそれらを第1話のアバンタイトルで紹介し、最終回ラストで発掘調査の映像と政宗本人の頭蓋骨を再び映して物語は幕を閉じる。
+
+### 登場人物のイメージを重視した俳優陣
+
+主演俳優については、当初[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")を起用する構想があったが西城サイドがNHKからのオファーを辞退したことで実現しなかったことが後年明らかにされている\[7\]。
+
+最終的には新進気鋭の俳優の1人であった渡辺が起用されるが、このドラマをきっかけに一躍国民的な俳優の仲間入りを果たすことになった。渡辺は[1984年](../Page/1984年.md "wikilink")（昭和59年）の『[山河燃ゆ](https://ja.wikipedia.org/wiki/山河燃ゆ "wikilink")』以来、2度目の大河ドラマ出演であり、本作の前年（1986年）に同じNHKで放映されていた[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[はね駒](https://ja.wikipedia.org/wiki/はね駒 "wikilink")』出演中に「眼がいい」と言われ、抜擢されたという。ただ、はまり役となったために、「渡辺謙=伊達政宗 」の固定イメージが定着してしまい、彼はその後役者としては苦労したようである。十数年後、渡辺は映画『[ラストサムライ](../Page/ラストサムライ.md "wikilink")』で[アカデミー賞](../Page/アカデミー賞.md "wikilink")助演男優賞候補に挙げられるが、その時の記者会見でも「これでようやく伊達政宗から卒業できるかな」と発言している。
+
+渡辺の出演は実際に右目を閉じた状態で行われたため所作には苦労し、西郷輝彦によると、入室の場面で頭を下げていたら大きな音がしたので面を上げると、渡辺がひっくり返っていたという。ただし、第11回「八百人斬り」での夢の中のシーンにて、かつ鏡に映った姿でのみ両目を開いた状態で登場している。最終話の脚本段階では、政宗臨終の幻想シーンで両目が開かれるという演出が盛り込まれていたが、本編では用いられなかった。
+
+また、豊臣秀吉役を演じた[勝新太郎](https://ja.wikipedia.org/wiki/勝新太郎 "wikilink")は、『[座頭市](../Page/座頭市.md "wikilink")』シリーズなど数多くの時代劇に主演した名優であるが本作が生涯唯一の大河ドラマ出演であった(NHK制作のドラマとしても同様)。『[影武者](https://ja.wikipedia.org/wiki/影武者_\(映画\) "wikilink")』での勝の降板劇を踏まえ、勝が降板しても良いように秀吉役の候補も[三國連太郎](https://ja.wikipedia.org/wiki/三國連太郎 "wikilink")、[仲代達矢](https://ja.wikipedia.org/wiki/仲代達矢 "wikilink")、[山崎努](../Page/山崎努.md "wikilink")、[緒形拳](https://ja.wikipedia.org/wiki/緒形拳 "wikilink")に検討されていた。本作での「渡辺=知名度の高くない若手」、「勝=衆目の知るところの大御所」という図式が、そのまま「政宗=奥羽の若き大名」、「秀吉=老成した天下人」にも当てはまる。配役決定後、渡辺は勝のクランクイン前に一度挨拶したのみで、初共演のシーン本番まで顔を合わせることがなかった\[8\]。これは「小田原で政宗が秀吉と初めて出会うのなら、そのシーンの撮影まで渡辺と会うべきでない」という勝のアイデアによるもので、収録は渡辺と勝が会うことがないよう調整して行われた\[9\]。初共演となる小田原参陣での対面シーンはリハーサル無しで収録され\[10\]、2人の楽屋も隔離されており収録シーン本番で初めて対面することとなった\[11\]。このシーンの収録後、渡辺は勝から「いい眼をしていたぞ…」との声をかけてもらったという。
+
+また、終生のライバルのひとり[最上義光](https://ja.wikipedia.org/wiki/最上義光 "wikilink")役には当初、[松田優作](https://ja.wikipedia.org/wiki/松田優作 "wikilink")がキャスティングされていたが実現しなかった（奇しくも後年、[2009年](../Page/2009年.md "wikilink")の大河ドラマ『[天地人](https://ja.wikipedia.org/wiki/天地人_\(NHK大河ドラマ\) "wikilink")』では優作の長男である[龍平が政宗役を演じ](https://ja.wikipedia.org/wiki/松田龍平 "wikilink")、渡辺の娘である[杏が愛姫役だった](https://ja.wikipedia.org/wiki/杏_\(女優\) "wikilink")）。
+
+錚々たる豪華出演陣にジェームス三木は「嬉しい悲鳴」と前置きしつつ「勝さんと岩下さんの[クレジットの優劣をつけられないから](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")、二人が同じ回に登場しないように書き分けた」と語っている\[12\]。他誌のインタビューでも「トメは秀吉役の勝新太郎。北大路欣也、岩下志麻をどうするかでモメた。その結果、勝、岩下の2人が出る放送回がなくなった」と語っている\[13\]。
+
+実際のクレジットでは、勝は全出演回で（助演出演陣の中で最高位とされる）[トメ](https://ja.wikipedia.org/wiki/トメ "wikilink")に位置され、勝と同じ回に出演した時の岩下はトメのひとつ手前の位置（トメ前）であり、ハッキリと勝優位の序列がなされている（渡辺が登場する第8回までは北大路がトップ、岩下がトメであった。渡辺が登場後は渡辺がトップに位置された）。
+
+### 大河バブルの先駆け
+
+また、本作の大ヒットの結果、[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")を初めとした縁の地には、[東北新幹線](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")（[1982年](../Page/1982年.md "wikilink")開業）により観光客が殺到し、渡辺謙や桜田淳子が参加した[仙台・青葉まつり](https://ja.wikipedia.org/wiki/仙台・青葉まつり "wikilink")も前年比３倍の過去最高の観光客数となって「大河バブル」のさきがけとなった。この作品以降、各地の自治体は地元でインフラを整備したり、オープンセットを作ったりしてでも、大河ドラマの舞台地の誘致をするようになる。
+
+しかし、本作は[バブル景気](../Page/バブル景気.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")〜[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")）初期に放送され、[好景気](https://ja.wikipedia.org/wiki/好景気 "wikilink")による国民の高揚感と、受け入れ側の仙台市の[政令指定都市](../Page/政令指定都市.md "wikilink")化（[1989年](../Page/1989年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")）前の関連インフラ整備（[仙台市営地下鉄南北線開通など](https://ja.wikipedia.org/wiki/仙台市地下鉄南北線 "wikilink")）、各種イベントの開催（「[SENDAI光のページェント](https://ja.wikipedia.org/wiki/SENDAI光のページェント "wikilink")」開始、「['87未来の東北博覧会](https://ja.wikipedia.org/wiki/'87未来の東北博覧会 "wikilink")」開催など）、そして、政宗没後350年関連事業（「[瑞鳳殿](https://ja.wikipedia.org/wiki/瑞鳳殿 "wikilink")」再建、「仙台・青葉まつり」再開、「[仙台市博物館](../Page/仙台市博物館.md "wikilink")」新築）等々が重なった結果であり、降って湧いたような「バブル」であった。
+
+一方、政宗にとって最大の敵役となる[最上義光](https://ja.wikipedia.org/wiki/最上義光 "wikilink")があくどく描かれてしまったことや、意図の有無にかかわらず各種イベントが用意されていた仙台市や宮城県側に観光客が集中してしまったことなどに、[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")の関係者らからは不満が上がった。ただし、当時は[山形新幹線](../Page/山形新幹線.md "wikilink")も[山形自動車道](../Page/山形自動車道.md "wikilink")も開通しておらず、特に[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")以外からの観光客には山形県へのアクセスが悪かった背景もある。
+
+また、伊達政宗の江戸時代での領国である宮城県は観光客で賑わったものの、戦国時代の伊達政宗の版図であり、作中の前半期の舞台である山形県や福島県は大河バブルとはほぼ無縁であった。例えば[米沢市](https://ja.wikipedia.org/wiki/米沢市 "wikilink")は江戸時代の[米沢藩](https://ja.wikipedia.org/wiki/米沢藩 "wikilink")ゆかりの[上杉景勝](../Page/上杉景勝.md "wikilink")や[上杉鷹山に代表される](https://ja.wikipedia.org/wiki/上杉治憲 "wikilink")「上杉の町」をアピールしており、伊達政宗をはじめ伊達家については全くアピールしなかった（もっとも本作の放送期間中・直後は、戦国時代の伊達政宗の本拠であった事をアピールしている）。
+
+### その他
+
+先述の通り、「梵天丸もかくありたい」という台詞が流行語となり、ドラマの人気に拍車をかけた。手応えを得た脚本のジェームス三木は、その後の作品でも流行語を作り出そうとするも、当作ほどの反響は得られていない。例として『[八代将軍吉宗](https://ja.wikipedia.org/wiki/八代将軍吉宗 "wikilink")』でも[江守徹](https://ja.wikipedia.org/wiki/江守徹 "wikilink")演じる[ナビゲーター](https://ja.wikipedia.org/wiki/ナビゲーター "wikilink")役の[近松門左衛門](../Page/近松門左衛門.md "wikilink")に「さればでござる」という台詞を連発させたが、流行語にはならなかった\[14\]（ドラマ自体はヒットしている）。
+
+本作は幼少・幼年期のエピソードを8話中盤まで取り上げるため、それまで本来の主演である[渡辺謙](https://ja.wikipedia.org/wiki/渡辺謙 "wikilink")は出演しない（オープニングは除く）。そのため1話〜7話までの出演のトップクレジットは[渡辺謙](https://ja.wikipedia.org/wiki/渡辺謙 "wikilink")ではなく、伊達輝宗役の[北大路欣也](https://ja.wikipedia.org/wiki/北大路欣也 "wikilink")が挙げられている。このように本作以後作品でも、本来の主演が登場しない回では主役の幼年期やそれに準ずる武将などが演じる俳優が出演のトップクレジットになるケースもある（例として『[毛利元就](https://ja.wikipedia.org/wiki/毛利元就_\(NHK大河ドラマ\) "wikilink")』の3話〜5話、『[おんな城主 直虎](https://ja.wikipedia.org/wiki/おんな城主_直虎 "wikilink")』の2・3話）。
+
+## キャスト・登場人物
+
+## スタッフ
+
+  - 脚本：[ジェームス三木](https://ja.wikipedia.org/wiki/ジェームス三木 "wikilink")
+  - 原作：[山岡荘八](../Page/山岡荘八.md "wikilink")『伊達政宗』
+  - 音楽：[池辺晋一郎](../Page/池辺晋一郎.md "wikilink")
+  - 演奏：[東京コンサーツ](https://ja.wikipedia.org/wiki/東京コンサーツ "wikilink")
+  - テーマ音楽演奏：[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")
+  - テーマ音楽指揮：[岩城宏之](../Page/岩城宏之.md "wikilink")
+  - オンド・マルトノ演奏：[原田節](https://ja.wikipedia.org/wiki/原田節 "wikilink")
+  - 監修：[伊達泰宗](https://ja.wikipedia.org/wiki/伊達泰宗 "wikilink")
+  - 時代考証：[鈴木敬三](https://ja.wikipedia.org/wiki/鈴木敬三 "wikilink")
+  - 風俗考証：[磯目篤郎](https://ja.wikipedia.org/wiki/磯目篤郎 "wikilink")
+  - 衣装考証：[小泉清子](https://ja.wikipedia.org/wiki/小泉清子 "wikilink")
+  - 殺陣：[林邦史朗](https://ja.wikipedia.org/wiki/林邦史朗 "wikilink")
+  - タイトル刻字：[長揚石](https://ja.wikipedia.org/wiki/長揚石 "wikilink")
+  - タイトル協力：[日本甲冑武具研究保存会](https://ja.wikipedia.org/wiki/日本甲冑武具研究保存会 "wikilink") / [矢崎芳博](https://ja.wikipedia.org/wiki/矢崎芳博 "wikilink")
+  - 資料提供：[仙台市博物館](../Page/仙台市博物館.md "wikilink") / [中央公論社](https://ja.wikipedia.org/wiki/中央公論社 "wikilink") / [飯田勝彦](https://ja.wikipedia.org/wiki/飯田勝彦 "wikilink") / [松田栄吉](https://ja.wikipedia.org/wiki/松田栄吉 "wikilink") / [瑞鳳殿](https://ja.wikipedia.org/wiki/瑞鳳殿 "wikilink") / [青龍山瑞厳寺](https://ja.wikipedia.org/wiki/青龍山瑞厳寺 "wikilink") / [高台寺](https://ja.wikipedia.org/wiki/高台寺 "wikilink") / [日光東照宮](../Page/日光東照宮.md "wikilink")宝物館 / [宝珠山慈徳寺](https://ja.wikipedia.org/wiki/慈徳寺 "wikilink") / [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[亘理町](https://ja.wikipedia.org/wiki/亘理町 "wikilink") / [大雄寺](https://ja.wikipedia.org/wiki/大雄寺_\(亘理町\) "wikilink") / [耕徳寺](https://ja.wikipedia.org/wiki/耕徳寺 "wikilink") / [岩国歴史美術館](https://ja.wikipedia.org/wiki/岩国美術館+柏原コレクション "wikilink") / [櫻井成廣](https://ja.wikipedia.org/wiki/櫻井成廣 "wikilink") / [三井文庫](https://ja.wikipedia.org/wiki/三井記念美術館 "wikilink") / [京都市歴史資料館](https://ja.wikipedia.org/wiki/京都市歴史資料館 "wikilink") / [長興寺](https://ja.wikipedia.org/wiki/長興寺_\(豊田市\) "wikilink") / [韓国MBC](https://ja.wikipedia.org/wiki/文化放送_\(韓国\) "wikilink") / [最上山専称寺](https://ja.wikipedia.org/wiki/専称寺_\(山形市\) "wikilink") / [毛利博物館](https://ja.wikipedia.org/wiki/毛利博物館 "wikilink") / [大阪歴史博物館](../Page/大阪歴史博物館.md "wikilink") / [松浦史料博物館](https://ja.wikipedia.org/wiki/松浦史料博物館 "wikilink") / [奥平神社](https://ja.wikipedia.org/wiki/中津城 "wikilink") / [永青文庫](https://ja.wikipedia.org/wiki/永青文庫 "wikilink") / [片倉重信](https://ja.wikipedia.org/wiki/片倉重信 "wikilink")
+  - 協力：[仙台藩志会](https://ja.wikipedia.org/wiki/仙台藩志会 "wikilink") / 仙台市博物館 / [福島県](../Page/福島県.md "wikilink")[猪苗代町](../Page/猪苗代町.md "wikilink") / [原町市](https://ja.wikipedia.org/wiki/原町市 "wikilink") / [相馬野馬追](https://ja.wikipedia.org/wiki/相馬野馬追 "wikilink")執行委員会 / 日本甲冑武具研究保存会 / [東工大](https://ja.wikipedia.org/wiki/東北工業大学 "wikilink") 平井研究室
+  - 文書考証：[白井孝昌](https://ja.wikipedia.org/wiki/白井孝昌 "wikilink")
+  - 茶道指導：[渡辺潤](https://ja.wikipedia.org/wiki/渡辺潤\(茶道家\) "wikilink")
+  - 能楽指導：[喜多六平太](https://ja.wikipedia.org/wiki/喜多六平太_\(16世\) "wikilink")\[15\]
+  - 振付：[藤間康嗣](https://ja.wikipedia.org/wiki/藤間康嗣 "wikilink") / [田中泯](https://ja.wikipedia.org/wiki/田中泯 "wikilink")
+  - 作調：[杵屋正邦](https://ja.wikipedia.org/wiki/杵屋正邦 "wikilink") / [福原百之助](https://ja.wikipedia.org/wiki/福原百之助 "wikilink")
+  - 邦楽作曲：杵屋正邦
+  - 笛・太鼓指導：福原百之助
+  - 鼓指導：[堅田喜三久](https://ja.wikipedia.org/wiki/堅田喜三久 "wikilink")
+  - 琴指導：[米川敏子](https://ja.wikipedia.org/wiki/米川敏子 "wikilink")
+  - 華道指導：[杉浦共漱](https://ja.wikipedia.org/wiki/杉浦共漱 "wikilink")
+  - 香道指導：[三条西堯雲](https://ja.wikipedia.org/wiki/三条西堯雲 "wikilink")
+  - 禅指導：[細川景一](https://ja.wikipedia.org/wiki/細川景一 "wikilink")
+  - 民謡指導：[さいとう武若](https://ja.wikipedia.org/wiki/さいとう武若 "wikilink")
+  - 砲術指導：[名和弓雄](../Page/名和弓雄.md "wikilink")
+  - 料理指導：[永山久夫](https://ja.wikipedia.org/wiki/永山久夫 "wikilink")
+  - イラストレーション：Mayumi Kagawa
+  - 語り：[葛西聖司](https://ja.wikipedia.org/wiki/葛西聖司 "wikilink")
+  - 制作：[中村克史](https://ja.wikipedia.org/wiki/中村克史 "wikilink")
+  - 演出：[樋口昌弘](https://ja.wikipedia.org/wiki/樋口昌弘 "wikilink") / [吉村芳之](https://ja.wikipedia.org/wiki/吉村芳之 "wikilink") / [西村与志木](https://ja.wikipedia.org/wiki/西村与志木 "wikilink") / [木田幸紀](https://ja.wikipedia.org/wiki/木田幸紀 "wikilink") / [諏訪部章夫](https://ja.wikipedia.org/wiki/諏訪部章夫 "wikilink")
+
+## 放送
+
+特記が無い限り\[<http://www.nhk.or.jp/archives/chronicle/>　NHKクロニクルのNHK番組表ヒストリー\]で確認。
+
+### 通常放送時間
+
+  - [NHK総合テレビジョン](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")、[衛星第1放送](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")\[16\]、[NHK衛星第2テレビジョン](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")\[17\]：毎週日曜 20時00分 - 20時45分
+  - （再放送）NHK総合テレビジョン、衛星第1放送\[18\]：毎週土曜 13時25分 - 14時10分\[19\]
+
+### 放送日程
+
+  - 第1回は40分繰り上げかつ23分拡大で放送。
+
+| 放送回                                                                                                                                         | 放送日         | 題        | 演出    | 視聴率\[20\] |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------- | ----- | --------- |
+| 第1回                                                                                                                                         | 1987年1月4日   | 誕生       | 樋口昌弘  | 28.7％     |
+| 第2回                                                                                                                                         | 1987年1月11日  | 不動明王     | 36.9％ |           |
+| 第3回                                                                                                                                         | 1987年1月18日  | 親ごころ     | 吉村芳之  | 40.7％     |
+| 第4回                                                                                                                                         | 1987年1月25日  | 元服       | 37.9% |           |
+| 第5回                                                                                                                                         | 1987年2月1日   | 愛姫       | 樋口昌弘  | 42.0%     |
+| 第6回                                                                                                                                         | 1987年2月8日   | 侍女成敗     | 45.8% |           |
+| 第7回                                                                                                                                         | 1987年2月15日  | 初陣       | 吉村芳之  | 43.0%     |
+| 第8回                                                                                                                                         | 1987年2月22日  | 若武者      | 45.2% |           |
+| 第9回                                                                                                                                         | 1987年3月1日   | 野望       | 樋口昌弘  | 43.4%     |
+| 第10回                                                                                                                                        | 1987年3月8日   | 男の器量     | 43.7% |           |
+| 第11回                                                                                                                                        | 1987年3月15日  | 八百人斬り    | 吉村芳之  | 46.9％     |
+| 第12回                                                                                                                                        | 1987年3月22日  | 輝宗無残     | 43.1% |           |
+| 第13回                                                                                                                                        | 1987年3月29日  | 人取橋      | 西村与志木 | 41.2%     |
+| 第14回                                                                                                                                        | 1987年4月5日   | 勝ち名乗り    | 樋口昌弘  | 36.5%     |
+| 第15回                                                                                                                                        | 1987年4月12日  | めごとねこ    | 吉村芳之  | 35.9%     |
+| 第16回                                                                                                                                        | 1987年4月19日  | 南北の敵     | 35.1% |           |
+| 第17回                                                                                                                                        | 1987年4月26日  | 宮仕え      | 木田幸紀  | 40.3%     |
+| 第18回                                                                                                                                        | 1987年5月3日   | お東、居座る   | 樋口昌弘  | 36.9%     |
+| 第19回                                                                                                                                        | 1987年5月10日  | 大移動      | 西村与志木 | 35.0%     |
+| 第20回                                                                                                                                        | 1987年5月17日  | 決戦、摺上原   | 吉村芳之  | 44.7%     |
+| 第21回                                                                                                                                        | 1987年5月24日  | 修羅の母     | 36.5% |           |
+| 第22回                                                                                                                                        | 1987年5月31日  | 弟を斬る     | 樋口昌弘  | 38.6%     |
+| 第23回                                                                                                                                        | 1987年6月7日   | 小田原へ     | 39.9% |           |
+| 第24回                                                                                                                                        | 1987年6月14日  | 天下人      | 吉村芳之  | 39.2%     |
+| 第25回                                                                                                                                        | 1987年6月21日  | 人質、めご    | 37.2% |           |
+| 第26回                                                                                                                                        | 1987年6月28日  | 絶体絶命     | 西村与志木 | 39.7%     |
+| 第27回                                                                                                                                        | 1987年7月5日   | 黄金の十字架   | 37.1% |           |
+| 第28回                                                                                                                                        | 1987年7月12日  | 知恵くらべ    | 樋口昌弘  | 45.5%     |
+| 第29回                                                                                                                                        | 1987年7月19日  | 左遷       | 41.0% |           |
+| 第30回                                                                                                                                        | 1987年7月26日  | 伊達者      | 吉村芳之  | 35.1%     |
+| 第31回                                                                                                                                        | 1987年8月2日   | 子宝       | 36.3% |           |
+| 第32回                                                                                                                                        | 1987年8月9日   | 秀次失脚     | 西村与志木 | 35.2%     |
+| 第33回                                                                                                                                        | 1987年8月16日  | 濡れ衣      | 樋口昌弘  | 37.5%     |
+| 第34回                                                                                                                                        | 1987年8月23日  | 太閤の死     | 吉村芳之  | 36.8%     |
+| 第35回                                                                                                                                        | 1987年8月30日  | 成実失踪     | 36.6% |           |
+| 第36回                                                                                                                                        | 1987年9月6日   | 天下分け目    | 西村与志木 | 36.9%     |
+| 第37回                                                                                                                                        | 1987年9月13日  | 幻の百万石    | 諏訪部章夫 | 43.0%     |
+| 第38回                                                                                                                                        | 1987年9月20日  | 仙台築城     | 木田幸紀  | 39.7%     |
+| 第39回                                                                                                                                        | 1987年9月27日  | 五郎八、嫁ぐ   | 吉村芳之  | 38.8%     |
+| 第40回                                                                                                                                        | 1987年10月4日  | 大船造り     | 32.9% |           |
+| 第41回                                                                                                                                        | 1987年10月11日 | 海外雄飛     | 樋口昌弘  | 41.3%     |
+| 第42回                                                                                                                                        | 1987年10月18日 | 大坂攻め     | 42.3% |           |
+| 第43回                                                                                                                                        | 1987年10月25日 | ねこ、宇和島へ  | 木田幸紀  | 43.7%     |
+| 第44回                                                                                                                                        | 1987年11月1日  | 大坂夏の陣    | 吉村芳之  | 40.8%     |
+| 第45回                                                                                                                                        | 1987年11月8日  | ふたりの父    | 諏訪部章夫 | 44.1%     |
+| 第46回                                                                                                                                        | 1987年11月15日 | 離縁状      | 樋口昌弘  | 41.5%     |
+| 第47回                                                                                                                                        | 1987年11月22日 | 天下の副将軍   | 木田幸紀  | 38.9%     |
+| 第48回                                                                                                                                        | 1987年11月29日 | 伊達流へそ曲がり | 吉村芳之  | 40.7%     |
+| 第49回                                                                                                                                        | 1987年12月6日  | 母恋い      | 44.2% |           |
+| 最終回                                                                                                                                         | 1987年12月13日 | 大往生      | 樋口昌弘  | 47.8％     |
+| 平均視聴率 39.7%（視聴率は[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")社調べ）\[21\] |             |          |       |           |
+
+### 総集編
+
+1.  「梵天丸もかくありたい」 1987年12月27日、19:20-20:35
+2.  「男は一生、父とたたかう」 1987年12月28日、 19:30-20:45
+3.  「母の愛は海より深く」 1987年12月29日、19:20-20:35
+4.  「難波のことも夢のまた夢」 1987年12月30日、19:20-20:35
+5.  「楽しまずんばこれいかん」 1987年12月31日、19:20-20:35
+
+## メディア
+
+  - 独眼竜政宗 奥州の覇者 (VHS、30分のハイライト集、発売日:1987年10月21日、販売元:ポニーキャニオン)
+  - 総集編： 全5巻 (VHS)、3枚組 (DVD)
+  - 完全版： DVD-BOX全2集、13枚、50話 (DVD)
+
+## 脚注
+
+## 外部リンク
+
+  - [番組エピソード 大河ドラマ「独眼竜政宗」-NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=taiga007)
+  - [大河ドラマ　独眼竜政宗 - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010339_00000)
+
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1987年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1987年のテレビドラマ "wikilink") [Category:文学を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:文学を原作とするテレビドラマ "wikilink") [Category:仙台市の歴史](https://ja.wikipedia.org/wiki/Category:仙台市の歴史 "wikilink") [Category:米沢市の歴史](https://ja.wikipedia.org/wiki/Category:米沢市の歴史 "wikilink") [Category:NHK仙台](https://ja.wikipedia.org/wiki/Category:NHK仙台 "wikilink") [Category:仙台市を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:仙台市を舞台としたテレビドラマ "wikilink") [Category:山形県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:山形県を舞台とした作品 "wikilink") [Category:福島県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:福島県を舞台とした作品 "wikilink") [Category:戦国時代_(日本)を舞台とした作品](https://ja.wikipedia.org/wiki/Category:戦国時代_\(日本\)を舞台とした作品 "wikilink") [Category:安土桃山時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:安土桃山時代を舞台とした作品 "wikilink") [Category:江戸時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸時代を舞台としたテレビドラマ "wikilink") [Category:山岡荘八](https://ja.wikipedia.org/wiki/Category:山岡荘八 "wikilink") [Category:ジェームス三木脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:ジェームス三木脚本のテレビドラマ "wikilink") [Category:伊達政宗](https://ja.wikipedia.org/wiki/Category:伊達政宗 "wikilink") [Category:渡辺謙](https://ja.wikipedia.org/wiki/Category:渡辺謙 "wikilink")
+
+1.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)
+2.
+3.  2016年02月19日（金）「今夜決定！最高の大河ドラマ」[\[1\]](https://www.tbsradio.jp/ss954/2016/02/20160219-1.html)2018年2月19日閲覧
+4.  各作品ごとの投票数は、放送時にアシスタント・南部宏美によって口頭で発表されたのみ。番組ホームページなどには記載なし。
+5.  これらの映像は総集編でも見られる。
+6.
+7.
+8.
+9.
+10.
+11.
+12. 『週刊現代』2012年10月13日号166頁 「『独眼竜政宗』を語ろう」のジェームス三木、北大路欣也、吉村芳之の対談
+13. [名作ドラマ＆漫画「最終回のヒミツ」（１）平均視聴率40％「独眼竜政宗」が変えた大河の歴史](http://www.asagei.com/12610)
+14.
+15. 第1回時は喜多長世名義。また本編にも出演した。
+16. 第26回まで
+17. 第27回から
+18. 第25回まで
+19. 一部放送日時の変更あり
+20. 「テレビ視聴率季報（関東地区）」ビデオリサーチ。
+21.

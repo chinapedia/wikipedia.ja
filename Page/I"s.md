@@ -1,0 +1,507 @@
+> この記事は[Is --variable=cfmurl=Is](https://ja.wikipedia.org/wiki/)から翻訳されています。
+
+
+『**I"s**』 （アイズ）は、[桂正和](https://ja.wikipedia.org/wiki/桂正和 "wikilink")の日本の漫画およびこれを原作とした[メディアミックス](https://ja.wikipedia.org/wiki/メディアミックス "wikilink")作品。
+
+## 概要
+
+『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（WJ、[集英社](../Page/集英社.md "wikilink")）誌上において[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")19号から[2000年](../Page/2000年.md "wikilink")24号まで連載されていた。単行本は[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")より全15巻。[完全版が](https://ja.wikipedia.org/wiki/完全版コミックス "wikilink")[ヤングジャンプ・コミックス](https://ja.wikipedia.org/wiki/ヤングジャンプ・コミックス "wikilink")より全12巻。累計発行部数は1000万部以上\[1\]。
+
+デビュー以来『WJ』編集部から[恋愛漫画](https://ja.wikipedia.org/wiki/恋愛漫画 "wikilink")の執筆を要請されていた桂が初めて編集部の意向を汲み\[2\]、自身の嗜好である[SF的な要素を排して執筆した作品であるため](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")\[3\]、桂正和らしからぬ作品と言える。単行本全15巻と最長の連載作品である（『[電影少女](../Page/電影少女.md "wikilink")』も全15巻だが、13巻の「あい編」と2巻の「恋編」に分かれる）。
+
+同じ[恋愛](../Page/恋愛.md "wikilink")作品であっても、登場人物全員の気持ちを綿密に書き出し\[4\]、全員を上から見下ろす様な視点で描かれた『電影少女』とは異なり、「[エム](https://ja.wikipedia.org/wiki/M_エム "wikilink")」において用いられた一人称表現を使い、主人公である一貴1人の視点のみで物語が描かれている\[5\]。このため、一貴以外の心理描写や一貴が見ていない状況は原則として描かれておらず（例外有り）\[6\]、一貴以外の気持ちについては想像はできても、相手がその言葉を口にするまでは決して知る事は出来ない。読者はあくまで一貴として[ロールプレイング的にこの作品を読み進める事となる](https://ja.wikipedia.org/wiki/役割演技 "wikilink")。
+
+[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")より刊行された完全版では新たに表紙イラストが描き下ろされた他、新たに彩色がなされたページが存在する。[小説化](https://ja.wikipedia.org/wiki/小説化 "wikilink")・2度の[OVA](../Page/OVA.md "wikilink")化・[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")化と様々な形で[メディアミックス](https://ja.wikipedia.org/wiki/メディアミックス "wikilink")が行われており、[1999年](../Page/1999年.md "wikilink")にはボックスセット『**I"s BOX**』が販売されている。
+
+[2017年](../Page/2017年.md "wikilink")10月、[BSスカパー\!](https://ja.wikipedia.org/wiki/BSスカパー! "wikilink")・[スカパー\!オンデマンド](https://ja.wikipedia.org/wiki/スカパー!オンデマンド "wikilink")にて実写ドラマ化が決定されたことが明らかになった。俳優の[岡山天音](https://ja.wikipedia.org/wiki/岡山天音 "wikilink")を主演に迎え、オリジナル連続ドラマ『I”s』として2018年春より放送・配信を開始する\[7\]。
+
+## あらすじ
+
+### 高校2年
+
+[私立湾田高校に通う高校](https://ja.wikipedia.org/wiki/私立学校 "wikilink")2年生**瀬戸一貴**は同じクラスの**葦月伊織**に1年生の頃から恋心を抱いていた。そんな彼に葦月と二人で「新入生ようこそパーティ」の実行委員をやるという幸運が訪れる。徐々に葦月と打ち解けてきた頃、突然に彼を想う幼馴染み**秋葉いつき**が現れる。「葦月への想い」と「いつきの想い」の間で一貴は揺れ動く事となった。
+
+### 高校3年
+
+高校生最後の夏休み。一貴は寺谷の親戚の経営する旅館へと合宿に行き、そこで傷心旅行中の**磯崎泉**と出会い、ひょんな事からひと夏の恋人として一日を共にする事となった。二度と会う事のないひと夏の思い出のはずであったが、何と泉は湾田高の生徒（1年生）であり、学校近くで再会する事となる。泉の猛烈なアタックにひるむ事がありながらも、伊織への想いを持ち続けた一貴はついにクリスマス・イヴに告白を果たし、晴れて伊織と付き合う事となった。
+
+しかし、年が明けて伊織が芸能事務所に所属した為に2人が付き合っている事は秘密にしなければならなくなる。
+
+### 高校卒業後
+
+大学受験に失敗した一貴は、安アパートでの一人暮らしを始め、隣に住む伊織に似た大学生**麻生藍子**と親しくなる。会えない恋人を持つ二人は互いに惹かれはじめるが、やはり一貴の気持ちは伊織にあった。
+
+そんなある日、すっかりアイドルとなった伊織を付け狙う怪しげで危険なインターネットサイトの存在を偶然知った一貴は、そこに聞き覚えのある言葉が書かれている事に悪い予感を覚え、再び彼女を守る決心をする。
+
+越苗に護身術を習い事務所の前で張り込みをするが、熱狂的なファンにM・Kと間違えて暴行を受ける、そこへカミノギイサイから電話がかかる。寺谷や越苗の言葉を受け、イサイに立ち向かう決心をする。しかし、「彼女の為に別れてくれ、君が彼女の才能の目覚めを邪魔しているんだ」というカミノギイサイの言葉で、ついに一貴は伊織に別れの言葉を口にする。自分の気持ちに嘘を付いてしまった事に自身でも深く傷つく一貴。12月24日（クリスマス・イヴ）の公開放送の日、友人たちに励まされ伊織に会いに行き、そこでM・Kに暴行を受けながらも撃退する。しかし、頭を強く打った衝撃で一貴は倒れ病院に運ばれる。寺谷たちは一貴を助けようと伊織に病院へ来てもらおうと試みるが古川の抵抗で失敗する。しかし、伊織からの電話で一貴は意識を取り戻した。
+
+一貴の退院後寺谷の家で祝福される（コミックス）そこで、伊織に自分の気持ちを伝えることに成功し、二人は再び結ばれることになった。
+
+## 登場人物
+
+### I"s
+
+  - 瀬戸 一貴（せと いちたか）
+    本作の[主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")生まれ（天秤座）。血液型はA型。
+    湾田高等学校の2年生。ごく普通の少年であり、自身のことを「平凡で、将来の夢がない人間」と称している。思いやりのある性格だが、優柔不断が玉に瑕。
+    入学時、同じクラスになった葦月伊織に一目惚れし、それ以来、彼女のことを想い続けている。しかし、恋愛に対しては奥手であり臆病な面がある。これは小学生の頃、片思いをしていた同級生の少女・美代子に気持ちを悟られてしまい、人知れず傷ついてしまったことが大きい。密かに思いを寄せている時の幸せな状態を失った…とトラウマになってしまい「永遠に片想いのままの方がいい」と感じている。以来、好きな女の子に対して素直な言動を示すことが出来ず、緊張するほどに思っていることと逆の行動を取ってしまう傾向がある。
+  - 葦月 伊織（よしづき いおり）
+    本作の[ヒロイン](https://ja.wikipedia.org/wiki/ヒロイン "wikilink")。[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")生まれ。身長162センチメートル。3サイズはB87（E）/W57/H88。血液型はA型。
+    一貴の同級生。湾田高校演劇部（劇団「わんだこ」）に所属。将来は役者になることを志しており、部活動に熱心に打ち込んでいる。雑誌の[グラビアに取り上げられたり](https://ja.wikipedia.org/wiki/グラビアページ "wikilink")、学校内にファンクラブも出来るほどの容姿端麗であるが、それゆえに暴漢に狙われることも多い。性格は明るい方だが、普段は大人しく控え目である。
+    物語初期の時点で一貴に好意を持っていたが、彼の「逆走」もあり、自分は嫌われていると思っていた（付き合い始めた後には笑い話になった）。 高校卒業後は、芸能事務所の劇団に所属し、舞台だけでなくCM出演などもする。
+  - 秋葉 いつき（あきば いつき）
+    一貴の1歳下の幼馴染。4年前にアメリカへ渡っていたが最近帰国したばかりの帰国子女。アメリカで造形に親しんだこともあり、造形家志望。幼なじみ以上恋人未満という微妙な関係の一貴に淡い恋心を抱く。性格はボーイッシュで天真爛漫 。
+    連載前の予告ページでは「いさき」という名前が仮につけられていた。連載開始時に「いつき」に変更された。
+    原作でのみ、カラオケでは[PUFFY](../Page/PUFFY.md "wikilink")の曲が得意な設定であり「[これが私の生きる道](https://ja.wikipedia.org/wiki/これが私の生きる道 "wikilink")」を歌っている。
+  - 磯崎 泉（いそざき いずみ）
+    一貴の高校の2年後輩。[1982年](../Page/1982年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")生まれ。血液型はB型。一貴・伊織以外で唯一生年月日が判明している。
+    物語中盤、一貴と海辺で出会う。伊織似の容姿であり、いつき似の性格をしている。付き合っていた男と別れてまで一途に一貴を想い、一貴のためならどんな事でもする。葦月とは反対に積極的な性格で、自分から抱きついたり、キスしたりと大胆な言動を仕掛けて一貴を誘惑する。
+  - 麻生 藍子（あそう あいこ）
+    一貴より1歳年上の住人。一貴がアパートで一人暮らしを始めた際、隣の部屋に住んでいた。星座は双子座。非常に天然だが、純粋な性格。顔にホクロがあるほかは伊織にそっくりであるが、髪の分け方が伊織とは異なっている。
+    [秋田県](../Page/秋田県.md "wikilink")出身。恋人が郷里におり、遠距離恋愛中。誕生日を迎えた恋人に会うため、一貴と共に[こまち号に乗って秋田まで行ったが振られてしまう](../Page/秋田新幹線.md "wikilink")。その時力になってくれた一貴に想いを寄せるようになる。しかし一貴が伊織と付き合っているため自ら身を引いた。
+
+### 一貴のクラスメート
+
+  - 寺谷 靖雅（てらたに やすまさ）
+    恋愛論を助言する、一貴の親友。女性に目がなく、ナンパやデートにかけては無数の戦略を持っているらしい。得意の戦略を一貴に授け、葦月との関係を見守る良き相談相手。しかし、彼自身はその軽薄な性格もあってか、彼女ゲットには失敗の連続であり、いつきを狙ったこともあったがあえなく撃沈した。エロが絡んだ時には一貴は「**エロ大王**」・「**[どぶねずみ色の心](https://ja.wikipedia.org/wiki/ドブネズミ "wikilink")**」などと思うことも多い。
+    親戚が[熱海と](https://ja.wikipedia.org/wiki/熱海温泉 "wikilink")[伊豆で宿泊施設を経営しているので一貴たちは旅行の時の宿には不自由しなかった](../Page/伊豆半島.md "wikilink")\[8\]。
+  - 越苗 純（こしなえ じゅん）
+    一貴のクラスメート。女性のような顔立ちで大人しい性格。祖父に習った[武術](https://ja.wikipedia.org/wiki/武術 "wikilink")の使い手であるが、その優しい性格ゆえに普段はその事を隠している（一貴曰く「存在感ゼロの男」）。一貴のクラスの担任である男性教諭を慕っている同性愛者である。
+    最初の頃は一貴の勘違いと思い込みによりあまり仲がいいとは言えなかったが、誤解が解けた後は寺谷とは違う一面で一貴のよき相談相手となる。
+  - 森崎 祐加（もりさき ゆうか）
+    一貴のクラスメートで伊織の親友。性格は平凡で、どこにでもいそうな普通の子。
+    寺谷に片想いするも振られてしまうが、単行本最終回ではお互いまんざらでもないような描写が見られる。
+
+<!-- end list -->
+
+  - ナミ
+    伊織の親友。男勝りで気の強い、まさに姉御肌と言える性格。
+    一貴のクラスメートの中では恋愛経験が多い人物で、芸能人となった伊織に対し劣等感を抱く一貴の姿勢にダメ出しをした。
+  - 川崎 美代子（かわさき みよこ）
+    一貴のクラスメートで、伊織達の友人。ナミや森崎に比べると伊織と行動を共にしているシーンや出番は少ないが、ナミの家での合宿や、卒業旅行には誘われ、頻繁に登場する。
+    高校卒業後は専門学校に進学し、ヘアースタイルをベリーショートに変えてイメージチェンジした。
+  - 木田 茂吉（きだ もきち）
+    一貴のクラスメート。伊織がアイドルになった途端突然彼女を意識するようになり、そのことで仲間たちから気味悪がられ、卒業旅行のメンバーからも外されてしまう。
+  - 田中（たなか）
+    一貴のクラスメート。メンバーの中では木田と行動を共にすることが多い。
+
+### イサイプロ
+
+  - 古川 リエ（ふるかわ リエ）
+    イサイプロの社員。伊織の担当マネージャー。伊織と一貴の仲を引き裂くために、2人の交際を厳しく規制し、伊織が一貴に宛てたプレゼントや手紙を内密に処分したりした。
+  - カミノギ イサイ
+    伊織が尊敬する天才舞台演出家。伊織の演技と将来の為、彼女と別れるよう一貴に迫った。
+  - 石川 賛吾（いしかわ さんご）
+    自分の名前を売るため、伊織とのスキャンダルを起こした。
+
+### 湾田高等学校の教師
+
+  - 竹沢 隆志（たけざわ たかし）
+    それまで美術を担当していた教師が病気で倒れたため、臨時で一貴達の授業を受け持つことになった造形師。いつきは彼を造形の「師匠」と呼びしたっている。
+    造形師としての腕は一流で、ハリウッドの大作からのオファーを受け、湾田校を去った後、アメリカへ旅立つ。
+  - 花園 広巳（はなぞの ひろみ）
+    一貴のクラスの担任。ひげを生やしていることから、生徒達からは「ヒゲミちゃん」の愛称で親しまれている。越苗から想いを寄せられている。
+
+### 湾田高等学校の生徒
+
+  - 田村 剣助（たむら けんすけ）
+    一貴の2年後輩で、泉の元カレ。クラスは1年B組でサッカー部に所属している。ケンカが強い。
+    泉への想いは本気だったが、女癖が悪く、浮気を繰り返したため泉にフラれてしまう。泉が一貴の事を好きだと知った後もヨリを戻そうと彼女に接近する。
+
+### その他
+
+  - 京子（きょうこ）
+    一貴が高2の夏、伊織、いつき、寺谷と共に行った海で、寺谷がナンパした2人の女の子の内の一人。
+    寺谷が彼女の友達の友子を狙っていたため、一貴は彼女と行動を共にすることになる。その夜に再び彼女は一貴と二人きりで会うが、伊織の事を忘れられない彼はやはり旅館に帰ることを彼女に告げる。京子は今度どこかで一貴に会ったら本気でアタックすることを宣言して二人は別れたが、その後二人が再会することはなかった。
+  - 田中 翔太（たなか しょうた）
+    藍子が遠距離恋愛で付き合っていた相手。藍子が彼に会うため秋田に帰ってきた時、彼女に別れを告げる。
+  - 鮫島（さめじま） / マリオネット・キング
+    当初は湾田高の生徒だったが、女子生徒の着替えを覗いていた事が伊織によって露顕したため退学を余儀なくされる。そのことで伊織を逆恨みし、執拗に付け狙いっていた。写真撮影と称して伊織を廃ビルに誘い出し、暴行を働こうとするが、これは越苗と一貴の活躍によって阻止される。
+    その後も自らをマリオネット・キングと名乗り、半ば錯乱状態に陥った状態でネットで犯罪予告をした後、三度伊織に襲い掛かろうとする。だがビルの上で一貴と闘い、越苗に習った武術を身に着けた彼のひじ打ちを食らってビルから落下し、動けなくなったところを伊織のガードマンに捕まった。
+    鮫島という名前はOVA版I"s Pureで初めて明らかになった。
+
+## タイトルの由来
+
+タイトルの『I"s』（アイズ）は[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")の「[I](../Page/I.md "wikilink")」の[複数形からきており](https://ja.wikipedia.org/wiki/数_\(文法\) "wikilink")、「**I**」（**アイ**）達の**[愛](../Page/愛.md "wikilink")**や**[哀](https://ja.wikipedia.org/wiki/悲しみ "wikilink")**の物語という意味が込められている\[9\]\[10\]。このため、[恋愛](../Page/恋愛.md "wikilink")に直接絡む登場人物は一貴（**I**chitaka）、伊織（**I**ori）、いつき（**I**tsuki）、泉（**I**zumi）、藍子（**アイ**コ）と全員「アイ」を踏まえた名前になっている。また、この「I」には[英語](../Page/英語.md "wikilink")の[一人称](https://ja.wikipedia.org/wiki/一人称 "wikilink")[代名詞](https://ja.wikipedia.org/wiki/代名詞 "wikilink")としての「I」の意味もかけられており、前述した「主人公・一貴1人の視点で物語が進む」事も示している\[11\]。
+
+本来「I」の複数形は「I's」（アイズ）であるが、作者がアメリカ人から「アルファベットに複数形はなく、無理矢理複数形にしても読みは『アイス』になる」との指摘を受けたことにより、現在の形のタイトルが生まれる\[12\]。この指摘を受けた桂が「アイス」では印象が冷たいとの理由から、「s」に[濁点](https://ja.wikipedia.org/wiki/濁点 "wikilink")を振って「アイズ」と読ませる事とし、タイトルロゴに見られる様な「s」の真上に点を二つ振る形で表記する事としたからである\[13\]。
+
+この「sの上に点を振る」という表記は[テキスト](../Page/テキスト.md "wikilink")では不可能なため、[クォーテーション等で代用される事となるが](https://ja.wikipedia.org/wiki/引用符 "wikilink")、命名の経緯からか点が2つ振られてさえいればよく、「I"s」・「I''s」・「I”s」・「I¨s」等と様々な表記が見られる。作者の公式サイト（『I''s』シングルクォーテーション2つ）\[14\]と集英社の公式サイト（『I"s』ダブルクォーテーション）\[15\]でさえ異なる表記となっている。さらには作中で伊織が命名したチーム名「チームI's」（こちらはアポストロフィーが1個で正しい）と混同した「I's」で書かれる事も多い他、何も入れない「Is」と言った表記もしばしば使われる。「s」の大小も単行本奥付では[大文字](https://ja.wikipedia.org/wiki/大文字 "wikilink")、公式サイトでは[小文字](https://ja.wikipedia.org/wiki/小文字 "wikilink")と曖昧な所があり、インターネット上をはじめ、テキストによる表記方法には激しい揺れが見られる。なお本稿においては『I"s 完全版』の公式サイトに倣い、ダブルクォーテーションと小文字の「s」で統一している。
+
+## 舞台のモデル
+
+この作品は[京王井の頭線](https://ja.wikipedia.org/wiki/京王井の頭線 "wikilink")沿線が主な舞台となっており、実在する場所が数多く登場する。その殆どは広告や看板まで正確に表現されており、細かいところ（背景に小さく写るだけの物など）まで実在している場合がある。ただし、慰徒寺（『I"s Pure』では慰徒神社）について作者が「実在しないので探さないでください」とコメントしている\[16\]。また、現在の西永福駅・明大前駅は大規模な改築工事により当時の姿とは大きく異なっている（奇しくも時を同じくして電影少女に登場した三鷹・武蔵境両駅も当時の姿を失っている）。
+
+  - [西永福駅](https://ja.wikipedia.org/wiki/西永福駅 "wikilink")及び駅周辺（一貴の住まい）
+  - [明大前駅](https://ja.wikipedia.org/wiki/明大前駅 "wikilink")（伊織の下車駅）
+  - [渋谷駅](https://ja.wikipedia.org/wiki/渋谷駅 "wikilink")周辺
+  - [京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")
+  - [東松原駅](https://ja.wikipedia.org/wiki/東松原駅 "wikilink")（OVのみ森崎の下車駅。ただし、原作では電車が明大前駅に着いた時に森崎も乗っていたため、永福町以西に住んでいたと予測出来る）
+  - [富士見ヶ丘駅](../Page/富士見ヶ丘駅.md "wikilink")（以下全て原作のみ。湾田高校最寄駅）
+  - [東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink")丸の内口
+  - [秋田駅](https://ja.wikipedia.org/wiki/秋田駅 "wikilink")及び駅前バスターミナル
+  - [新宿](../Page/新宿.md "wikilink")[京王モール](https://ja.wikipedia.org/wiki/京王モール "wikilink")の喫茶店（「楡 NIRE」）
+  - 京都[地主神社](https://ja.wikipedia.org/wiki/地主神社 "wikilink")（扉絵にのみ登場）
+  - 登場人物が通う高校は京王線沿線の[専修大学附属高等学校](https://ja.wikipedia.org/wiki/専修大学附属高等学校 "wikilink")がモデルとなっている。とくに屋上や自動販売機前などは忠実に再現されていた。現在このモデルになった校舎は新しく建て替えられているため、旧校舎をみることはできない。
+
+## その他
+
+  - 上述の通り、一貴の恋愛に直接関わる人間は「I」から始まる名前になっているが、一貴の恋愛には直接関わってこない人物の名前は「I」からは始まらない名前となっている。唯一の例外として、終盤に登場したイサイプロの2人（イサイ（**I**sai）・石川（**I**shikawa））がいるが、イサイは「2人の仲を引き裂く」、石川は「伊織の恋愛に関わっている」事により間接的に一貴の恋愛問題に関わっている。
+  - 雑誌連載時、登場人物の心理状態などを綿密に追うよう描いていたこともあり、当初予定した話数では話を完結しきれない事態になった。しかし、既に連載回数は確定していたため、無理矢理その話数で話を終了させた。連載時に描ききれなかった部分は、単行本にディレクターズ・カットとして補足・描き足されたため、連載時と単行本では、最終話を含む数話の内容が異なっている\[17\]。『WJ』掲載時の最終回では、いつきから送られてきたビデオレターの設定が微妙に異なっている。
+  - 単行本第1巻の表紙は6回以上も描き直された他\[18\]、3巻・8巻・11巻も複数回書き直されている。この為これらの巻は版によって表紙絵が異なる。
+  - 雑誌連載時は掲載誌が[少年雑誌](https://ja.wikipedia.org/wiki/少年雑誌 "wikilink")であったためヒロインの[乳首](https://ja.wikipedia.org/wiki/乳首 "wikilink")等は描かれなかったが、単行本では追加されている。
+      - また完全版の11巻の、一貴が夢で藍子とツイスターをして水着をずらすシーンでは、単行本では空白で何も書かれていなかった藍子の股関節部分に、股の裂け目にトーンが張られた状態で書き足されていた。
+  - ヒロイン伊織の命名について、本来、伊織と言う名は[東百官](https://ja.wikipedia.org/wiki/東百官 "wikilink")に由来する男子の名である（[宮本伊織](https://ja.wikipedia.org/wiki/宮本伊織 "wikilink")や[榊原伊織など](https://ja.wikipedia.org/wiki/榊原勝直 "wikilink")）。作者自身はこの事に長く気付いていなかった。
+
+## 小説
+
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に、[ジャンプ ジェイ ブックスより発売された](https://ja.wikipedia.org/wiki/ジャンプ_ジェイ_ブックス "wikilink")[ノベライズ作品で](https://ja.wikipedia.org/wiki/小説化 "wikilink")、著者は『[電影少女](../Page/電影少女.md "wikilink")』のノベライズも担当した[富田祐弘](https://ja.wikipedia.org/wiki/富田祐弘 "wikilink")が務めている。
+
+完全オリジナルのストーリーで、一貴・伊織・いつき・寺谷のほか、新キャラとして金子功と朝霧可奈子が登場する。
+
+## I"s BOX
+
+[1999年](../Page/1999年.md "wikilink")に集英社より発売されたボックスセット。予約限定の販売品で、連載最終回時にキャンセル分が販売された以外は再発売もなされていない。
+
+  - 伊織フィギュア
+    [マックスファクトリー](https://ja.wikipedia.org/wiki/マックスファクトリー "wikilink")の[渡辺誠監修の元](https://ja.wikipedia.org/wiki/MAX渡辺 "wikilink")、造形師・[智恵理](https://ja.wikipedia.org/wiki/智恵理 "wikilink")が造形。
+  - イラスト集
+    書き下ろし2点を含む、52点の『I"s』イラストを収録。
+  - スペシャルコミックスカバー
+    新たにデザインされた1〜11巻までのコミックカバー。折り返しには桂正和のジャンプ目次コメントを収録。
+  - トレーディングカード
+    5枚入り。1枚はホロカード。
+  - ポストカードカレンダー
+    カレンダー部分とイラスト部分が別々にめくれる様になっているカレンダー。イラストは切り離せばポストカードに。
+  - ピンズ
+    伊織、いつき、泉の顔のピンズ。
+  - 「アイズ」登場券
+    漫画の『I"s』に[キャラクター](../Page/キャラクター.md "wikilink")として登場する為の応募券。当選者は3人であり、最終回に医師・看護師役で登場した。
+
+## OVA
+
+### フロム アイズ
+
+『**フロム I"s アイズ 〜もうひとつの夏の物語〜**』（フロムアイズ もうひとつのなつのものがたり）のタイトルで[2002年](../Page/2002年.md "wikilink")に前編、[2003年](../Page/2003年.md "wikilink")に後編が、日本初の[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")専用[OVA](../Page/OVA.md "wikilink")として[デジキューブ](https://ja.wikipedia.org/wiki/デジキューブ "wikilink")より[DVD](../Page/DVD.md "wikilink")で販売。[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")には前後編に、メイキング映像を収録したディスクを合わせた3枚組DVD『**フロムアイズ デラックス・エディション**』が[h.m.p](https://ja.wikipedia.org/wiki/h.m.p "wikilink")より販売。DVDとしては破格的な低価格（2500円）も話題となった。
+
+原作とは全く異なるオリジナルストーリー。本職の[声優](../Page/声優.md "wikilink")による通常音声の他、DVDのマルチ音声機能を生かしたアイドルによる副音声も収録されている。制作は[ぴえろ](https://ja.wikipedia.org/wiki/ぴえろ "wikilink")が手掛けた。
+
+#### 声の出演
+
+※メイン / サブで表記。
+
+  - 葦月 伊織 - [佐久間紅美](https://ja.wikipedia.org/wiki/佐久間紅美 "wikilink") / [仲根かすみ](https://ja.wikipedia.org/wiki/仲根かすみ "wikilink")
+  - 瀬戸 一貴 - [櫻井孝宏](https://ja.wikipedia.org/wiki/櫻井孝宏 "wikilink") / [吉岡美穂](../Page/吉岡美穂.md "wikilink")
+  - 秋葉 いつき - [仲西環](https://ja.wikipedia.org/wiki/仲西環 "wikilink") / [磯山さやか](https://ja.wikipedia.org/wiki/磯山さやか "wikilink")
+  - 寺谷靖雅 - [私市淳](https://ja.wikipedia.org/wiki/私市淳 "wikilink")
+  - 越苗 純 - [石田彰](../Page/石田彰.md "wikilink")
+  - ナミ - [小林沙苗](../Page/小林沙苗.md "wikilink")
+  - 森崎祐加 - [河原木志穂](https://ja.wikipedia.org/wiki/河原木志穂 "wikilink")
+  - 市村洋介 - [一条和矢](../Page/一条和矢.md "wikilink")
+
+#### スタッフ
+
+  - 監督・絵コンテ - [杜野幼青](https://ja.wikipedia.org/wiki/影山楙倫 "wikilink")
+  - 構成・脚本 - [影山楙倫](https://ja.wikipedia.org/wiki/影山楙倫 "wikilink")
+  - 演出 - 内田祐司
+  - キャラクターデザイン - [りんしん](https://ja.wikipedia.org/wiki/りんしん "wikilink")
+  - 作画監督 - 高木信一郎
+  - 美術監督 - 伊藤聖
+  - 色彩設計 - 中田亮大
+  - 撮影監督 - [白井久男](https://ja.wikipedia.org/wiki/白井久男 "wikilink")
+  - 編集 - [瀬山武司](https://ja.wikipedia.org/wiki/瀬山武司 "wikilink")
+  - 音響監督 - [本田保則](https://ja.wikipedia.org/wiki/本田保則 "wikilink")
+  - 音楽 - Torsten Rasch
+  - プロデューサー - 津野竜之輔、越中おさむ
+  - 制作協力 - [アームス](https://ja.wikipedia.org/wiki/アームス "wikilink")
+  - アニメーション制作 - [ぴえろ](https://ja.wikipedia.org/wiki/ぴえろ "wikilink")
+  - 製作 - [h.m.p](https://ja.wikipedia.org/wiki/h.m.p "wikilink")、[デジキューブ](https://ja.wikipedia.org/wiki/デジキューブ "wikilink")
+
+### I"s Pure
+
+[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")よりDVDで販売開始され、1巻につき各30分で全6巻の構成。『フロム アイズ』とは異なり原作に沿った内容となっている。但し、エピソードは大幅に省略されており、原作に登場した藍子・越苗・竹沢先生・田中・木田・美代子は登場しないため、原作のシノプシスだけを抽出したような作品になっている。また、磯崎泉は第4話のみ登場し、原作とは異なり妄想日記を含め全シーンともロングヘアになっている。映像特典として、OVA化の際にストーリーから外された、いわゆる「エッチシーン」が「一貴の妄想日記」として収録（第6話を除く）されている。そのため、映像特典には前作より内容は過激な部分もあるが18禁やR-15にはされていない。
+
+原作では寺谷が森崎の告白を断った理由が不明だったが、I"s Pureでは寺谷が「森崎が本気で自分の事を好きだと知ったが、自分にとって彼女は友達としか思えないから、その気持ちに応えることが出来ない」と発言している。
+
+各キャラの誕生日は原作と同じ日であるが、設定は2005年のため原作の時代には存在しない物、あるいは僅かしか登場しなかったものも登場している（「一貴が最初から[携帯電話](../Page/携帯電話.md "wikilink")を持っている〈原作では第10巻から所持〉」・「駅の広告に[パスネット](https://ja.wikipedia.org/wiki/パスネット "wikilink")カード〈作中では「パースネット」〉がある〈京王線でのパスネットの使用開始は連載終了直後の同年10月から〉」など。また西永福駅の売店も当時の[京王観光](https://ja.wikipedia.org/wiki/京王観光 "wikilink")から[京王リテールサービス](https://ja.wikipedia.org/wiki/京王リテールサービス "wikilink")運営の「A LoT」に変わっている）。
+
+プロモーション映像等を収録した『**VOL.0 アイズピュア特別版**』、サウンドトラックCDも販売されている。発売は[リバプール](https://ja.wikipedia.org/wiki/リバプール_\(企業\) "wikilink")、制作は『フロムアイズ』と同じくぴえろ。
+
+2009年6月に同作品のDVD BOXが発売される。
+
+このOVAを元とし同名の『I"s Pure』のタイトルでゲーム化もされている（[後述](https://ja.wikipedia.org/wiki/#I"s_Pure_2 "wikilink")）。
+
+#### 声の出演
+
+  - 瀬戸一貴 - [野村勝人](https://ja.wikipedia.org/wiki/野村勝人 "wikilink")
+  - 葦月伊織 - [伊藤静](https://ja.wikipedia.org/wiki/伊藤静 "wikilink")
+  - 秋葉いつき - [中世明日香](https://ja.wikipedia.org/wiki/中世明日香 "wikilink")
+  - 寺谷靖雅 - [小伏伸之](https://ja.wikipedia.org/wiki/こぶしのぶゆき "wikilink")
+  - 森崎祐加 - [後藤邑子](https://ja.wikipedia.org/wiki/後藤邑子 "wikilink")
+  - ナミ - [鈴木菜穂子](https://ja.wikipedia.org/wiki/鈴木菜穂子 "wikilink")
+  - 磯崎 泉 - [門脇舞](https://ja.wikipedia.org/wiki/門脇舞以 "wikilink")
+  - 古川リエ - [勝生真沙子](https://ja.wikipedia.org/wiki/勝生真沙子 "wikilink")
+  - カミノギ イサイ - [諸角憲一](https://ja.wikipedia.org/wiki/諸角憲一 "wikilink")
+  - 鮫島/マリオネットキング -[成瀬誠](https://ja.wikipedia.org/wiki/成瀬誠 "wikilink")
+  - 花園広巳 - [江川央生](https://ja.wikipedia.org/wiki/江川央生 "wikilink")
+  - 瀬戸貴子 - [湯屋敦子](https://ja.wikipedia.org/wiki/湯屋敦子 "wikilink")
+
+#### スタッフ
+
+  - 監督 - [神戸守](https://ja.wikipedia.org/wiki/神戸守 "wikilink")
+  - シリーズ構成・脚本 - [大石哲也](https://ja.wikipedia.org/wiki/大石哲也 "wikilink")
+  - キャラクターデザイン - [りんしん](https://ja.wikipedia.org/wiki/りんしん "wikilink")
+  - 美術監督 - 常盤庄司
+  - 色彩設計 - 中田亮大
+  - 撮影監督 - 山口則和
+  - 編集 - [瀬山武司](https://ja.wikipedia.org/wiki/瀬山武司 "wikilink")
+  - 音響監督 - [清水勝則](https://ja.wikipedia.org/wiki/清水勝則 "wikilink")
+  - 音楽 - 小西香葉、[近藤由紀夫](https://ja.wikipedia.org/wiki/近藤由紀夫 "wikilink")
+  - アニメーションプロデューサー - 津野竜之輔、越中おさむ
+  - アニメーション制作 - [アームス](https://ja.wikipedia.org/wiki/アームス "wikilink")
+  - 制作 - [ぴえろ](https://ja.wikipedia.org/wiki/ぴえろ "wikilink")
+  - 製作 - [リバプール](https://ja.wikipedia.org/wiki/リバプール_\(企業\) "wikilink")
+
+#### 主題歌
+
+  - オープニングテーマ「二人のI"s 〜i will follow you〜」
+    作詞 - 松尾康冶 / 作曲 - Kacky / 編曲 - [大石憲一郎](https://ja.wikipedia.org/wiki/大石憲一郎 "wikilink") / 歌 - Mizuho
+  - エンディングテーマ「小さな翼 〜eyes for you〜」
+    作詞 - 松尾康冶 / 作曲 - Kacky / 編曲 - 桑田衛 / 歌 - Mizuho
+
+#### 各話リスト
+
+| 話数 | サブタイトル                  | 絵コンテ                                                | 演出                                                    | 作画監督                                                    |
+| -- | ----------------------- | --------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
+| 1  | au commencement（始まり）    | [神戸守](https://ja.wikipedia.org/wiki/神戸守 "wikilink") | 小高義規                                                  | [宮田奈保美](https://ja.wikipedia.org/wiki/宮田奈保美 "wikilink") |
+| 2  | souvenir（回想）            | 岩永彰                                                 | [りんしん](https://ja.wikipedia.org/wiki/りんしん "wikilink") |                                                         |
+| 3  | adieu（別れ）               | 小高義規                                                | EUM IK HYUN                                           |                                                         |
+| 4  | vertige（めまい）            | 岩永彰                                                 | 嶋田俊彦                                                  |                                                         |
+| 5  | declaration d'amour（告白） | 小高義規                                                | 白石涼子                                                  |                                                         |
+| 6  | ensemble（一緒に）           | 岩永彰                                                 | りんしん                                                  |                                                         |
+
+## 実写ドラマ
+
+2018年12月21日から「[BSスカパー\!](https://ja.wikipedia.org/wiki/BSスカパー! "wikilink")」「[スカパー\!オンデマンド](https://ja.wikipedia.org/wiki/スカパー!オンデマンド "wikilink")」にて[岡山天音](https://ja.wikipedia.org/wiki/岡山天音 "wikilink")の主演で実写ドラマ化\[19\]\[20\]\[21\]。
+
+### キャスト
+
+  - 瀬戸一貴 - [岡山天音](https://ja.wikipedia.org/wiki/岡山天音 "wikilink")
+  - 葦月伊織 - [白石聖](https://ja.wikipedia.org/wiki/白石聖 "wikilink")\[22\]
+  - 秋葉いつき - [柴田杏花](https://ja.wikipedia.org/wiki/柴田杏花 "wikilink")
+  - 磯崎泉 - [萩原みのり](https://ja.wikipedia.org/wiki/萩原みのり "wikilink")
+  - 麻生藍子 - [加藤小夏](https://ja.wikipedia.org/wiki/加藤小夏 "wikilink")
+  - 寺谷靖雅 - [伊島空](https://ja.wikipedia.org/wiki/伊島空 "wikilink")
+  - 越苗純 - [小越勇輝](https://ja.wikipedia.org/wiki/小越勇輝 "wikilink")
+  - 木田茂吉 - [冨田佳輔](https://ja.wikipedia.org/wiki/冨田佳輔 "wikilink")
+  - 鮫島 - [水石亜飛夢](https://ja.wikipedia.org/wiki/水石亜飛夢 "wikilink")
+  - 花園広巳 - [宇梶剛士](https://ja.wikipedia.org/wiki/宇梶剛士 "wikilink")
+  - 竹沢隆志 - [竹財輝之助](https://ja.wikipedia.org/wiki/竹財輝之助 "wikilink")
+  - ナミ - [春花](https://ja.wikipedia.org/wiki/春花 "wikilink")
+  - 森崎祐加 - [須藤叶希](https://ja.wikipedia.org/wiki/須藤叶希 "wikilink")
+  - 古川リエ - [安達祐実](https://ja.wikipedia.org/wiki/安達祐実 "wikilink")
+  - カミノギイサイ - [堀部圭亮](https://ja.wikipedia.org/wiki/堀部圭亮 "wikilink")
+
+### スタッフ
+
+  - 原作 - [桂正和](https://ja.wikipedia.org/wiki/桂正和 "wikilink") 「I"s」
+  - 監督 - [豊島圭介](https://ja.wikipedia.org/wiki/豊島圭介 "wikilink")、[安里麻里](https://ja.wikipedia.org/wiki/安里麻里 "wikilink")
+  - 音楽 - [渡邊崇](https://ja.wikipedia.org/wiki/渡邊崇 "wikilink")
+  - 主題歌 - [竹澤汀](https://ja.wikipedia.org/wiki/竹澤汀 "wikilink") 「[yesterdays](https://ja.wikipedia.org/wiki/yesterdays_\(チャーミースマイル&グリーンヘッドの曲\)#竹澤汀によるカバー "wikilink")」（ストロボレコード）
+  - エンディングテーマ - [Mrs.GREEN APPLE](https://ja.wikipedia.org/wiki/Mrs.GREEN_APPLE "wikilink") 「[Coffee](https://ja.wikipedia.org/wiki/ENSEMBLE "wikilink")」（[EMI Records](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）
+  - 制作プロダクション - [ダブ](https://ja.wikipedia.org/wiki/ダブ_\(企業\) "wikilink")
+  - 制作 - [スカパー\!](https://ja.wikipedia.org/wiki/スカパーJSAT "wikilink")
+
+### 放送日程
+
+<table>
+<thead>
+<tr class="header">
+<th><p>各話</p></th>
+<th><p>放送日</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>演出</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第1話</p></td>
+<td><p>2018年12月21日</p></td>
+<td><p>接近</p></td>
+<td><p>豊島圭介</p></td>
+</tr>
+<tr class="even">
+<td><p>第2話</p></td>
+<td><p>12月28日</p></td>
+<td><p>3つのI</p></td>
+<td><p>豊島圭介</p></td>
+</tr>
+<tr class="odd">
+<td><p>第3話</p></td>
+<td><p>2019年1月4日</p></td>
+<td><p>素直な涙</p></td>
+<td><p>安里麻里</p></td>
+</tr>
+<tr class="even">
+<td><p>第4話</p></td>
+<td><p>1月11日</p></td>
+<td><p>くずれた思い出</p></td>
+<td><p>安里麻里</p></td>
+</tr>
+<tr class="odd">
+<td><p>第5話</p></td>
+<td><p>1月18日</p></td>
+<td><p>笑顔の違い</p></td>
+<td><p>豊島圭介</p></td>
+</tr>
+<tr class="even">
+<td><p>第6話</p></td>
+<td><p>3月8日</p></td>
+<td><p>ノーコントロール</p></td>
+<td><p>豊島圭介</p></td>
+</tr>
+<tr class="odd">
+<td><p>第7話</p></td>
+<td><p>3月15日</p></td>
+<td><p>第4のI</p></td>
+<td><p>安里麻里</p></td>
+</tr>
+<tr class="even">
+<td><p>第8話</p></td>
+<td><p>3月22日</p></td>
+<td><p>キミに……</p></td>
+<td><p>豊島圭介</p></td>
+</tr>
+<tr class="odd">
+<td><p>第9話</p></td>
+<td><p>3月29日</p></td>
+<td><p>世界一のバカ</p></td>
+<td><p>安里麻里</p></td>
+</tr>
+<tr class="even">
+<td><p>第10話</p></td>
+<td><p>4月5日</p></td>
+<td><p>新次元へ</p></td>
+<td><p>豊島圭介</p></td>
+</tr>
+<tr class="odd">
+<td><p>第11話</p></td>
+<td><p>4月12日</p></td>
+<td><p>藍子</p></td>
+<td><p>豊島圭介</p></td>
+</tr>
+<tr class="even">
+<td><p>第12話</p></td>
+<td><p>4月19日</p></td>
+<td><p>信じる痛み</p></td>
+<td><p>安里麻里</p></td>
+</tr>
+<tr class="odd">
+<td><p>最終話</p></td>
+<td><p>4月26日</p></td>
+<td><p>夢をつかむ</p></td>
+<td><p>豊島圭介</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## ゲーム
+
+### I"s Pure
+
+[PlayStation 2用ソフトとして](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")2006年11月9日に[タカラトミー](https://ja.wikipedia.org/wiki/タカラトミー "wikilink")より発売された[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛ゲーム_\(ゲームジャンル\) "wikilink")。同名のOVA『[I"s Pure](https://ja.wikipedia.org/wiki/#I"s_Pure "wikilink")』をさらに発展させた物であり、オープニング・エンディングもOVAと同じ曲が使用されている（BGMは殆どが新たに作曲された新曲を使用）。
+
+アニメ（OVA）では省略された原作のエピソードも含まれ、DVDよりもさらに原作に忠実に沿った流れとなった。設定は1980年生まれ（ゲームは1997年からスタートし1999年で終了、その数年後が登場する場合あり）に戻っている。また、プレーヤーしだいで原作とは全く異なる展開も用意されており、エンディングは6種類（伊織・いつき・泉・藍子と結ばれるグッドエンドが5種、誰とも結ばれないバッドエンドが1種）ある。バッドエンドではエンディングが流れないため一応はクリアとされているものの、実際には[ゲームオーバー](https://ja.wikipedia.org/wiki/ゲームオーバー "wikilink")に近い。
+
+声優はアニメと同じであり、OVAで登場しなかった麻生藍子や越苗純も登場する（声優は藍子は[小松里歌](https://ja.wikipedia.org/wiki/小松里歌 "wikilink")が、越苗は[鈴木千尋が担当](https://ja.wikipedia.org/wiki/鈴木千尋_\(声優\) "wikilink")）。ただし、今作品で声が収録されているのは一貴・伊織・いつき・寺谷・越苗・泉・森崎・ナミと初登場の藍子のみであり、他のキャラクターは無声優で映像のみの登場となる。グッドエンドの結末では伊織1は原作と同じであり、他は新たに作られたストーリーとなっている。
+
+### ジャンプアルティメットスターズ
+
+『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』連載作品のキャラクターを使った[対戦アクションゲーム](https://ja.wikipedia.org/wiki/対戦アクションゲーム "wikilink")。[ニンテンドーDS](https://ja.wikipedia.org/wiki/ニンテンドーDS "wikilink")用ソフトとして[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月23日](../Page/11月23日.md "wikilink")発売された。本作のキャラクターのうち葦月伊織、秋葉いつき、瀬戸一貴、磯崎泉が登場している。
+
+## 書誌情報
+
+特記のない限り著者は全て[桂正和](https://ja.wikipedia.org/wiki/桂正和 "wikilink")、発行は[集英社](../Page/集英社.md "wikilink")。
+
+  - 『I"s』〈[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")〉
+    1.  1997年9月9日 ISBN 4-08-872411-9
+    2.  1997年11月9日 ISBN 4-08-872412-7
+    3.  1997年12月29日 ISBN 4-08-872506-9
+    4.  1998年3月9日 ISBN 4-08-872531-X
+    5.  1998年5月6日 ISBN 4-08-872553-0
+    6.  1998年8月9日 ISBN 4-08-872592-1
+    7.  1998年10月7日 ISBN 4-08-872617-0
+    8.  1998年12月8日 ISBN 4-08-872639-1
+    9.  1999年3月9日 ISBN 4-08-872681-2
+    10. 1999年6月8日 ISBN 4-08-872727-4
+    11. 1999年8月9日 ISBN 4-08-872747-9
+    12. 1999年11月9日 ISBN 4-08-872791-6
+    13. 2000年2月7日 ISBN 4-08-872821-1
+    14. 2000年4月9日 ISBN 4-08-872846-7
+    15. 2000年7月9日 ISBN 4-08-872887-4
+
+<!-- end list -->
+
+  - 完全版『I"s』〈[ヤングジャンプ・コミックス](https://ja.wikipedia.org/wiki/ヤングジャンプ・コミックス "wikilink")〉
+    1.  2005年12月19日 ISBN 4-08-877009-9
+    2.  2005年12月19日 ISBN 4-08-877010-2
+    3.  2006年1月19日 ISBN 4-08-877011-0
+    4.  2006年1月19日 ISBN 4-08-877012-9
+    5.  2006年2月17日 ISBN 4-08-877013-7
+    6.  2006年2月17日 ISBN 4-08-877014-5
+    7.  2006年3月17日 ISBN 4-08-877015-3
+    8.  2006年3月17日 ISBN 4-08-877016-1
+    9.  2006年4月19日 ISBN 4-08-877017-X
+    10. 2006年5月19日 ISBN 4-08-877018-8
+    11. 2006年6月19日 ISBN 4-08-877019-6
+    12. 2006年7月19日 ISBN 4-08-877020-X
+  - 小説版『I"s』（著者：[富田祐弘](https://ja.wikipedia.org/wiki/富田祐弘 "wikilink")）〈[ジャンプ ジェイ ブックス](https://ja.wikipedia.org/wiki/ジャンプ_ジェイ_ブックス "wikilink")〉 1998年10月8日 ISBN 4-08-703071-7
+
+## 参考文献
+
+  - 桂正和「桂正和インタビュー」『4C R-side \<R-side\> Katsura Masakazu Illustrations 2』集英社、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")8月9日発行、ISBN 4-08-782762-3、69 - 84頁
+
+## 脚注
+
+## 関連項目
+
+  - [SHADOW LADY](../Page/SHADOW_LADY.md "wikilink") - 前の連載作品。
+  - [ZETMAN](https://ja.wikipedia.org/wiki/ZETMAN "wikilink") - 次の連載作品。
+
+## 外部リンク
+
+  - [I"s](https://web.archive.org/web/20170809075203/http://annex.s-manga.net/is/) - 完全版発売に伴い開設された公式ページ（2017年8月9日時点のアーカイブ）
+  - [OVA I"s Pure 〈アイズ ピュア〉](https://web.archive.org/web/20160605180706/http://www.liverp.co.jp/dvdbox/is.html) - OVA公式ページ（2016年6月5日時点のアーカイブ）
+
+真人化 <https://www.bs-sptv.com/is/>
+
+[Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:大学を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:大学を舞台とした漫画作品 "wikilink") [Category:恋愛漫画](https://ja.wikipedia.org/wiki/Category:恋愛漫画 "wikilink") [Category:東京を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした漫画作品 "wikilink") [Category:桂正和](https://ja.wikipedia.org/wiki/Category:桂正和 "wikilink") [Category:ジャンプ_ジェイ_ブックス](https://ja.wikipedia.org/wiki/Category:ジャンプ_ジェイ_ブックス "wikilink") [Category:2018年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2018年のテレビドラマ "wikilink") [Category:スカパー\!の番組](https://ja.wikipedia.org/wiki/Category:スカパー!の番組 "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:高等学校を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたテレビドラマ "wikilink") [Category:恋愛ドラマ](https://ja.wikipedia.org/wiki/Category:恋愛ドラマ "wikilink") [Category:東京を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:東京を舞台としたテレビドラマ "wikilink")
+
+1.  <https://mainichi.jp/articles/20171030/dyo/00m/200/006000c>
+2.  『4C R-side \<R-side\> Katsura Masakazu Illustrations 2』72頁。
+3.  桂正和『I"s 12巻』集英社〈ジャンプ・コミックス〉表紙そで。
+4.  桂正和「GOKURAKU CLUB 6」『電影少女 13巻』集英社〈ジャンプ・コミックス〉1992年9月9日、ISBN 4-08-871703-1、191頁。
+5.  桂正和『I"s 6巻』集英社〈ジャンプ・コミックス〉表紙そで。
+6.
+7.
+8.  ゲーム版では後半に進むにつれ越苗と共に行動することが多い。そのため泉エンドでナミから「越苗の結婚相手」と言われたほど。
+9.  桂正和『I"s 1巻』集英社〈ジャンプ・コミックス〉表紙そで。
+10. 桂正和『I"s 4巻』集英社〈ジャンプ・コミックス〉表紙そで。
+11.
+12.
+13.
+14. 「[+ 桂正和プロフィール +](http://k2r.main.jp/prof.html)」『[+ 桂正和公式サイト K2R村 +](http://k2r.main.jp/index)』 2013年1月4日閲覧。
+15. 『[I"s公式サイト](http://annex.s-manga.net/is/)』 2013年1月4日閲覧。
+16. 『週刊少年ジャンプ 1997年51号』集英社。
+17. 桂正和『I"s 15巻』〈ジャンプ・コミックス〉表紙そで。
+18. 『4C R-side <HEROES-side> Katsura Masakazu Illustrations 2』74 - 75頁。
+19.
+20.
+21.
+22.

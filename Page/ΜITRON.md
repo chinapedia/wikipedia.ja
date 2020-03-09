@@ -1,0 +1,136 @@
+> この記事は[ITRON](https://ja.wikipedia.org/wiki/ITRON)から翻訳されています。
+
+
+**μITRON**（マイクロアイトロン、**Micro Industrial TRON**、**ΜITRON**）は、[ITRON](https://ja.wikipedia.org/wiki/ITRON "wikilink")の仕様の一系統である。
+
+当初は、フルセットが大きなものとなったITRON2に対し、[ワンチップマイコン等への実装を対象としたサブセットといった位置付けでまとめられた仕様であった](https://ja.wikipedia.org/wiki/マイクロコントローラ "wikilink")。
+
+その次の世代以降では、全機能を引き継ぐ形で、仕様名としてはμITRON3.0、μITRON4.0という名前になっている。また、当初の目的であった省資源のサブセット化については、仕様中に実装水準の規定を設けて対応している。
+
+[2011年](../Page/2011年.md "wikilink")時点の最新版はVer.4.03.03である。システムの大規模化・複雑化に対応するため、メモリ保護機能拡張を備えたμITRON4.0/PX仕様も公開している。また、[Nucleus RTOSにμITRON](https://ja.wikipedia.org/wiki/Nucleus_RTOS "wikilink")4.0準拠のAPIを実装した「Nucleus μiPLUS」や、[eCos](https://ja.wikipedia.org/wiki/eCos "wikilink")など、ITRONとして設計実装されたRTOS以外でも、μITRON互換のAPIが用意されていることがある。
+
+## 主な機能
+
+### タスク管理機能
+
+μITRONにおける[タスク](https://ja.wikipedia.org/wiki/タスク "wikilink")は、他の多くの[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")における[スレッドと等価であり](../Page/スレッド_\(コンピュータ\).md "wikilink")、[アプリケーション内における](../Page/アプリケーションソフトウェア.md "wikilink")[プログラムが並列実行する単位である](https://ja.wikipedia.org/wiki/プログラム_\(コンピュータ\) "wikilink")。μITRON[カーネル](../Page/カーネル.md "wikilink")上で動作するアプリケーションは、少なくとも0個以上のタスクから構成する。
+
+### タスク例外処理機能
+
+タスク例外処理機能はタスク上で発生した例外事象を処理するための機能である。割り込みやCPU例外がタスクとは異なる[コンテキスト](https://ja.wikipedia.org/wiki/コンテキスト "wikilink")（非タスクコンテキスト）で処理するのに対し、タスク例外処理はタスクと同じコンテキスト（タスクコンテキスト）で処理する点が異なる。タスク例外処理[ルーチン](https://ja.wikipedia.org/wiki/ルーチン "wikilink")では、タスクコンテキストで呼び出し可能な全サービスコールを使用することができる。
+
+### 同期通信機能
+
+同期通信機能は複数のタスクの実行順序の制御やデータの送受信を行うための機能である。μITRON4.0仕様の同期通信機能には、次の7種類が存在する。
+
+  - [セマフォ](https://ja.wikipedia.org/wiki/セマフォ "wikilink") \[S\]\[A\]
+  - [イベントフラグ](https://ja.wikipedia.org/wiki/イベントフラグ "wikilink") \[S\]\[A\]
+  - [データキュー](https://ja.wikipedia.org/wiki/データキュー "wikilink") \[S\]\[A\]
+  - [メールボックス](https://ja.wikipedia.org/wiki/メールボックス "wikilink") \[S\]
+  - [ミューテックス](https://ja.wikipedia.org/wiki/ミューテックス "wikilink")
+  - [メッセージバッファ](https://ja.wikipedia.org/wiki/メッセージバッファ "wikilink")
+  - [ランデブ](https://ja.wikipedia.org/wiki/ランデブ "wikilink")
+
+このうち\[S\]の付くサービスコールはスタンダード[プロファイルでも対応している](https://ja.wikipedia.org/wiki/プロファイル_\(工学\) "wikilink")。また、\[A\]の付くサービスコールは自動車制御プロファイルでも対応する。
+
+### メモリプール管理機能
+
+メモリプール機能はメモリブロックを動的に割付け・解放を行うための機能であり、概ね[C言語](../Page/C言語.md "wikilink")におけるmalloc/free関数の機能に相当する。μITRON4.0仕様のメモリプール管理機能には、次の2種類が存在する。
+
+  - 固定長メモリプール \[S\]
+  - 可変長メモリプール
+
+このうち固定長メモリプールはスタンダードプロファイルでも対応する。自動車制御プロファイルではメモリプール管理機能は対応しない。
+
+### 時間管理機能
+
+時間管理機能はカーネルが管理する時間に依存した処理を行うための機能である。 μITRON4.0仕様の時間管理機能には、次の4種類が存在する。
+
+  - システム時刻管理 \[S\]\[A\]
+  - 周期ハンドラ \[S\]\[A\]
+  - アラームハンドラ
+  - オーバーランハンドラ
+
+このうち\[S\]の付くサービスコールはスタンダードプロファイルでも対応する。また、\[A\]の付くサービスコールは自動車制御プロファイルでも対応する。時間管理機能が管理する各種ハンドラは、タスクとは異なるコンテキスト（非タスクコンテキスト）で処理する。
+
+### システム状態管理機能
+
+システム状態管理機能は、タスクの優先順位の回転、CPUロック状態や[ディスパッチ](https://ja.wikipedia.org/wiki/ディスパッチ "wikilink")禁止状態の制御等を行うための機能である。
+
+### 割り込み管理機能
+
+割り込み管理機能は、外部割込みが起動する[割り込みハンドラ](https://ja.wikipedia.org/wiki/割り込みハンドラ "wikilink")および割り込みサービスルーチンを管理するための機能である。スタンダードプロファイルおよび自動車制御プロファイルでは、割り込みハンドラまたは割り込みサービスルーチンのいずれか一方のみを対応する。
+
+割り込みハンドラおよび割り込みサービスルーチンは、タスクとは異なるコンテキスト（非タスクコンテキスト）で処理する。
+
+### サービスコール管理機能
+
+サービスコール管理機能は、ユーザ定義の拡張サービスコールの定義と呼び出しを管理するための機能である。
+
+### システム構成管理機能
+
+システム構成管理機能は、CPU例外ハンドラの定義、コンフィギュレーション情報、バージョン情報の取得、および初期化ルーチンの登録を行うための機能である。
+
+### 静的API
+
+[組み込みシステム](../Page/組み込みシステム.md "wikilink")では、[オブジェクト](https://ja.wikipedia.org/wiki/オブジェクト "wikilink")の生成を静的に（[コンパイル](https://ja.wikipedia.org/wiki/コンパイル "wikilink")～[リンク](../Page/リンク.md "wikilink")時に解決できる方式で）解決できる機能が要求される場合が多くある。μITRON4.0仕様では、静的APIと呼ばれる一種の[スクリプト](https://ja.wikipedia.org/wiki/スクリプト "wikilink")を、コンフィギュレーション[ファイルに記述することで](https://ja.wikipedia.org/wiki/ファイル_\(コンピュータ\) "wikilink")、静的にオブジェクトを生成することが可能になる。
+
+## プロファイル
+
+### スタンダードプロファイル
+
+スタンダードプロファイルは、主としてソフトウェアの移植性の向上を目的とした機能集合である。スタンダードプロファイルでは、使用可能なオブジェクトの種類を制限したほか、オブジェクトの生成は静的APIによる方法に制限している。TRON全体に共通して言えることであるが、μITRONは仕様のみを提供するものである。その実装は各ベンダに任されている。そのため、同じμITRONであっても実装間の差が大きく、ソフトウェア資産の再利用性に問題があった。μITRON4.0仕様ではスタンダードプロファイルを規定することで、各実装に最低限の互換性を持たせることを試みている。
+
+### 自動車制御プロファイル
+
+[自動車](../Page/自動車.md "wikilink")制御プロファイルは、カーネルの[オーバーヘッド](https://ja.wikipedia.org/wiki/オーバーヘッド "wikilink")や[メモリ](https://ja.wikipedia.org/wiki/メモリ "wikilink")使用量の削減を目的とした、主に自動車制御アプリケーションを対象とした機能セットである。自動車制御プロファイルでは、使用可能なサービスコールを、スタンダードプロファイルより更に制限し、かつ、待ち状態への遷移不可・優先度変更不可といった特徴を持つ制約タスクが導入されている。
+
+同様の目的を持ったOS仕様に、[OSEK](https://ja.wikipedia.org/wiki/OSEK "wikilink")がある。
+
+## 保護機能拡張（μITRON4.0/PX仕様）
+
+保護機能拡張は、昨今のソフトウェアの大規模化・複雑化、および開発期間短縮の要求の中で、ソフトウェアの品質・信頼性の向上を維持するために検討した。
+
+### 拡張の目的
+
+保護機能拡張の目的は次の3点である。
+
+  - セキュリティ確保
+  - 信頼性の向上
+  - デバッグ支援
+
+### 主な追加・変更点
+
+保護機能拡張では、保護ドメインを単位としたメモリアクセス制御を中心として、以下の点が追加・変更している。
+
+  - アクセス許可ベクタによる保護ドメインごとのアクセス制御
+  - 可変長メモリプール機能のサポート廃止
+  - 保護メモリプール機能のサポート
+  - 保護メールボックス機能のサポート
+  - メモリオブジェクトのサポート
+
+## 最近の動向
+
+最近ではμITRONの実装を統合するための試みも開始している。[高田広章](https://ja.wikipedia.org/wiki/高田広章 "wikilink")教授（[名古屋大学](../Page/名古屋大学.md "wikilink")）が開始した[TOPPERS](https://ja.wikipedia.org/wiki/TOPPERS "wikilink")プロジェクトでは、[オープンソース](../Page/オープンソース.md "wikilink")の実装を開発・公開し、μITRONの決定版を目指している。
+
+[T-Engine](https://ja.wikipedia.org/wiki/T-Engine "wikilink")プロジェクトは、μITRONからT-Kernelへの移行を呼びかけている。[T-Kernel](https://ja.wikipedia.org/wiki/T-Kernel "wikilink")は、仕様上はμITRON3.0と酷似しておりいくつかの機能拡張を施したものとみなすことができる。2013年9月に打ち上げられた国産ロケット[イプシロンと](https://ja.wikipedia.org/wiki/イプシロンロケット "wikilink")、それに搭載された観測衛星[ひさき](https://ja.wikipedia.org/wiki/ひさき "wikilink")に、μITRONとT-Kernelがそれぞれ使われた\[1\]。
+
+2017年3月に発売された家庭用ゲーム機[Nintendo Switchの](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")[Joy-Conコントローラーの](https://ja.wikipedia.org/wiki/Nintendo_Switch#Joy-Con "wikilink")[NFC制御用OSにイーソル株式会社が開発したμITRON](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink")4.0準拠のOSが採用されている\[2\]。
+
+## 参考文献
+
+  - 坂村健 監修 『μITRON4.0標準ガイドブック』 パーソナルメディア ISBN 4893621912 2001年11月
+
+## 脚注
+
+<references/>
+
+## 外部リンク
+
+  - [TRON関連資料](https://www.tron.org/ja/specifications/)
+  - [μITRON4.0仕様](http://www.ertl.jp/ITRON/SPEC/mitron4-j.html)
+
+[Category:TRONプロジェクト](https://ja.wikipedia.org/wiki/Category:TRONプロジェクト "wikilink") [Category:組み込みOSの製品](https://ja.wikipedia.org/wiki/Category:組み込みOSの製品 "wikilink") [Category:OSのカーネル](https://ja.wikipedia.org/wiki/Category:OSのカーネル "wikilink")
+
+1.  [\[T-Engine Forum Japan](http://www.t-engine.org/ja/2014/mail-magazine-201401-1.html/)【2014.1】トロンプロジェクト30周年\]
+2.

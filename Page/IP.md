@@ -1,0 +1,34 @@
+> この記事は[IP](https://ja.wikipedia.org/wiki/IP)から翻訳されています。
+
+
+**IP**
+
+  - [Internet Protocol](https://ja.wikipedia.org/wiki/Internet_Protocol "wikilink") - [インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")を実現しているネットワーク・プロトコル
+      - [IPアドレス](../Page/IPアドレス.md "wikilink") (Internet Protocol Address) の略
+          - [リモートホスト](https://ja.wikipedia.org/wiki/リモートホスト "wikilink")の[ホスト名](https://ja.wikipedia.org/wiki/ホスト名 "wikilink")。[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")名が書かれている文字列についてはそちら。
+  - [知的財産権](https://ja.wikipedia.org/wiki/知的財産権 "wikilink") (Intellectual Property) - [特許権](https://ja.wikipedia.org/wiki/特許権 "wikilink")、[実用新案権](https://ja.wikipedia.org/wiki/実用新案権 "wikilink")、[商標権](https://ja.wikipedia.org/wiki/商標権 "wikilink")、[著作権](../Page/著作権.md "wikilink")などを総称する知的財産権
+      - [IPコア](https://ja.wikipedia.org/wiki/IPコア "wikilink") (Intellectual Property Core) の略 - 大規模[論理回路](https://ja.wikipedia.org/wiki/論理回路 "wikilink")の設計において、知的財産権のある特定機能回路の設計データを他のメーカに[ライセンス供与するときの](https://ja.wikipedia.org/wiki/ライセンス生産 "wikilink")、設計データ自体を指す。ソフトウェアにおけるライブラリに相当する。
+      - IPコンテンツ - [漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、[アニメ](../Page/アニメ.md "wikilink")、[ゲームといった分野で](../Page/コンピュータゲーム.md "wikilink")、[キャラクター](https://ja.wikipedia.org/wiki/キャラクター "wikilink")の著作権などのIPの利用を中心とした派生作品を指す。「IPもの」とも。[メディアミックス](https://ja.wikipedia.org/wiki/メディアミックス "wikilink")を参照。
+  - Instruction Pointer（インストラクションポインタ） - [中央演算処理装置](https://ja.wikipedia.org/wiki/中央演算処理装置 "wikilink") (CPU) の[レジスタの一つで](https://ja.wikipedia.org/wiki/レジスタ_\(コンピュータ\) "wikilink")、次に実行する機械語コードのアドレスを示す。プログラムカウンタ (PC) と呼んでいる CPU もある。
+  - Information Provider - 情報提供者、[広告](https://ja.wikipedia.org/wiki/広告 "wikilink")主
+  - [腸腰筋](https://ja.wikipedia.org/wiki/腸腰筋 "wikilink")（Iliopsoas）の略
+  - [間質性肺炎](https://ja.wikipedia.org/wiki/間質性肺炎 "wikilink") (Interstitial Pneumonitis)
+  - Identified Patient - 患者と見なされた人 →[家族療法](https://ja.wikipedia.org/wiki/家族療法 "wikilink")
+  - [International Protection](https://ja.wikipedia.org/wiki/International_Protection "wikilink") - [国際電気標準会議](https://ja.wikipedia.org/wiki/国際電気標準会議 "wikilink")が標準化した電気機器などの[エンクロージャによる](https://ja.wikipedia.org/wiki/筐体 "wikilink")（異物混入・防水などの）保護等級。[電気機械器具の外郭による保護等級\#IPコード](https://ja.wikipedia.org/wiki/電気機械器具の外郭による保護等級#IPコード "wikilink")も参照。
+  - [石原プロモーション](https://ja.wikipedia.org/wiki/石原プロモーション "wikilink") - [芸能事務所](https://ja.wikipedia.org/wiki/芸能事務所 "wikilink")のひとつ
+  - International Procurement - 国際調達
+  - JOIP/JOIP-DTV - [NHK大分放送局](https://ja.wikipedia.org/wiki/NHK大分放送局 "wikilink")ラジオ第1放送/総合テレビジョン
+  - [iP\!](https://ja.wikipedia.org/wiki/iP! "wikilink") - [晋遊舎](https://ja.wikipedia.org/wiki/晋遊舎 "wikilink")から発売されているPC・IT関連の情報雑誌
+  - [International Paper](https://ja.wikipedia.org/wiki/International_Paper "wikilink")
+  - [保険証券](https://ja.wikipedia.org/wiki/保険証券 "wikilink") (Insurance Policy)
+  - [インタープリタのこと](https://ja.wikipedia.org/wiki/インタープリタ_\(曖昧さ回避\) "wikilink")
+  - [免疫沈降法](https://ja.wikipedia.org/wiki/免疫沈降法 "wikilink") (Immunoprecipitation) - [生化学](https://ja.wikipedia.org/wiki/生化学 "wikilink")分野の実験手法の一種で、[抗原](https://ja.wikipedia.org/wiki/抗原 "wikilink")を検出・分離・精製する方法
+  - [イメージングプレート](https://ja.wikipedia.org/wiki/イメージングプレート "wikilink")の略称。[放射線](https://ja.wikipedia.org/wiki/放射線 "wikilink")の定量的な観測に用いるフィルム状の検出機。
+  - [野球](../Page/野球.md "wikilink")における[投球回](https://ja.wikipedia.org/wiki/投球回 "wikilink")の略称。"Innings pitched"から。
+  - IPハンドリング（Identity Preserved Handling）。 日本語では「分別生産流通管理」と訳され、[遺伝子組み換え食品の表示制度において](https://ja.wikipedia.org/wiki/遺伝子組み換え作物 "wikilink")、原材料の農作物に非組み換えのものがきちんと分けられて流通されてきたかどうか（組み換えのものが混ざっていないかどうか）を証明する根拠のこと。
+  - [ソニー](../Page/ソニー.md "wikilink")製の[ビデオカメラ](https://ja.wikipedia.org/wiki/ビデオカメラ "wikilink")で[MICROMV](https://ja.wikipedia.org/wiki/MICROMV "wikilink")モデルを指す共通記号。[ソニーのビデオカメラ製品一覧](https://ja.wikipedia.org/wiki/ソニーのビデオカメラ製品一覧 "wikilink")を参照。
+  - [IntelligentPad](https://ja.wikipedia.org/wiki/IntelligentPad "wikilink")の略
+  - 日本の国家試験である[ITパスポート試験](https://ja.wikipedia.org/wiki/ITパスポート試験 "wikilink")の略語。
+  - [イオンプレーティング](https://ja.wikipedia.org/wiki/イオンプレーティング "wikilink") (**I**on **P**lating) の略称。
+  - 情報処理（information processing）
+  - [整数計画問題](https://ja.wikipedia.org/wiki/整数計画問題 "wikilink") (Integer Programming problem) の略 - [線形計画問題](https://ja.wikipedia.org/wiki/線形計画問題 "wikilink")のうち、解ベクトルの各要素を整数に限定したもの。

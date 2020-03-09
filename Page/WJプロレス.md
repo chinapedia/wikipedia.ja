@@ -1,0 +1,138 @@
+> この記事は[WJ](https://ja.wikipedia.org/wiki/WJ)から翻訳されています。
+
+
+**WJプロレス**（ダブリュー・ジェー・プロレス、ワールド・ジャパン・プロレス）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](https://ja.wikipedia.org/wiki/団体 "wikilink")。運営はファイティング・オブ・ワールド・ジャパン。キャッチフレーズは「目ん玉飛び出るような[ストロングスタイル](https://ja.wikipedia.org/wiki/ストロングスタイル "wikilink")」。
+
+## 歴史
+
+### 旗揚げ前
+
+[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")で現場監督を務めていた[長州力](https://ja.wikipedia.org/wiki/長州力 "wikilink")だったが[2002年](../Page/2002年.md "wikilink")2月、[武藤敬司](https://ja.wikipedia.org/wiki/武藤敬司 "wikilink")らが[全日本プロレス](https://ja.wikipedia.org/wiki/全日本プロレス "wikilink")に事実上引き抜かれた責任を取らされ監督の任から降ろされて、これと前後して企画宣伝部長で長州の盟友であった[永島勝司](https://ja.wikipedia.org/wiki/永島勝司 "wikilink")も退社。永島は他団体のアングルなどを企画する永島企画を立ち上げた。この永島企画に[2002年](../Page/2002年.md "wikilink")5月に新日本プロレスの体制を批判し、新日本プロレスを退社した長州が合流して社名をリキ・ナガシマ企画へ名称変更。
+
+その後、永島と長州は、新団体設立のためにスポンサーを探しをはじめ、長州のタニマチである[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を中心に活動する企業家の[福田政二](https://ja.wikipedia.org/wiki/福田政二 "wikilink")の協力が得られることとなり、[2002年](../Page/2002年.md "wikilink")11月にファイティング・オブ・ワールド・ジャパン（以下「WJプロレス」）を設立して福田が代表取締役社長、永島が専務取締役、長州が取締役に就任した。なおWJプロレスの設立によりリキ・ナガシマ企画は事実上の活動停止になった。
+
+旗揚げ興行前から2億円の資本金、道場の開設、巡業バスや社長専用車の購入、著名人を招いての忘年会などが話題となった。また所属選手の確保についても、前年10月に新日本プロレス退団を表明していた[佐々木健介](https://ja.wikipedia.org/wiki/佐々木健介 "wikilink")、[鈴木健想](https://ja.wikipedia.org/wiki/KENSO_\(プロレスラー\) "wikilink")、[プロレスリング・ノア](https://ja.wikipedia.org/wiki/プロレスリング・ノア "wikilink")の[大森隆男](https://ja.wikipedia.org/wiki/大森隆男 "wikilink")を引き抜いたほか、[谷津嘉章](https://ja.wikipedia.org/wiki/谷津嘉章 "wikilink")、[越中詩郎](https://ja.wikipedia.org/wiki/越中詩郎 "wikilink")らフリーのベテラン勢、またインディー団体のレスラーを対象に入団者を募り、旗揚げの体制を整えた。
+
+長州はWJプロレス旗揚げに当たってマスコミを通じて「プロレス界のど真ん中を行く」と発言していた。「プロレス界のど真ん中を行く」の意味について、全日本プロレス所属ながら長州の弟子筋にあたり旗揚げ戦への参加が決定していた[衆議院議員](https://ja.wikipedia.org/wiki/衆議院議員 "wikilink")の[馳浩](https://ja.wikipedia.org/wiki/馳浩 "wikilink")は自身のインターネットサイトで、福田が「どんぶり勘定の世界を企業会計の通用する社会にすることであり、また中国へと事業展開するための契機」としてWJプロレスを設立したと推測した上で「WJの企業目標が、プロレス界の構造改革（[猪木世界の排除](../Page/アントニオ猪木.md "wikilink")）と社会貢献とアジアへの事業展開のとっかかりと考えるとなるほど｢ど真ン中を行く」という意味が理解できる」と解説。
+
+### 旗揚げ
+
+[2003年](../Page/2003年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")、[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で旗揚げ戦を開催。同日、プロレスリング・ノア[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")大会や[K-1 WORLD MAX](https://ja.wikipedia.org/wiki/K-1 "wikilink")[有明コロシアム](https://ja.wikipedia.org/wiki/有明コロシアム "wikilink")大会が開催されており、人気のある他団体のビッグマッチとバッティングした強気な日程で話題を呼んだ（この日は、その他にも女子プロレスなど合計11のプロレス団体と格闘技団体が[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")で興行を開催していた）。これについて永島は著書で、旗揚げ興行の開催日と会場に関しては他団体のビッグマッチを意識したものではなく、2003年3月中に旗揚げ興行を開催できる大会場が3月1日の横浜アリーナしか空いていなかったというのが真相だったとしている\[1\]。 また永島はWJの設立発表（2002年11月）から2か月以内に旗揚げ興行を開催したいという意向を持っていたが他団体から移籍する選手たちの契約切れを待っていたため意向通りに旗揚げ興行を開催できず、これ以上旗揚げ興行を先延ばしできなかったという事情があった\[2\]。この旗揚げ興行の模様は[TBSの番組](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[深夜の星](https://ja.wikipedia.org/wiki/深夜の星 "wikilink")」枠で録画中継されて同局にとっては[UWFインターナショナル](https://ja.wikipedia.org/wiki/UWFインターナショナル "wikilink")以来のプロレス放送となった。
+
+旗揚げ興行を含む最初の巡業については予定されていた長州vs[天龍源一郎](https://ja.wikipedia.org/wiki/天龍源一郎 "wikilink")の6連戦が天龍の負傷欠場により3戦で取りやめになり長州も負傷により欠場して当時国会議員だった[大仁田厚](https://ja.wikipedia.org/wiki/大仁田厚 "wikilink")もイラク戦争により、議員会館での待機を余儀なくされて欠場となるなど成功とは言い難いものだった。
+
+### 旗揚げ以降
+
+[7月20日](../Page/7月20日.md "wikilink")、フラッグシップタイトルとしてWMGヘビー級が制定されて両国国技館で行われたWJ最強決定トーナメントの優勝者が初代王者に認定されたが当日までに[チャンピオンベルト](https://ja.wikipedia.org/wiki/チャンピオンベルト "wikilink")の完成が間に合わずチャンピオンベルト不在での新王座お披露目となった。
+
+[7月28日](../Page/7月28日.md "wikilink")、プロレスへの転向を希望していた総合格闘家の[ジャイアント落合](https://ja.wikipedia.org/wiki/ジャイアント落合 "wikilink")がWJ道場での練習中に意識を失い、急性硬膜下血腫により死去した。なお、練習に立ち会っていた長州は[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")のインタビューに「前方回転の受け身を取ったあと足元がふらついて倒れた」と証言しているが、落合の師匠格にあたる[佐竹雅昭](https://ja.wikipedia.org/wiki/佐竹雅昭 "wikilink")は「受け身でそんな大きな事故にはならない」と[格闘技通信](https://ja.wikipedia.org/wiki/格闘技通信 "wikilink")にコメントしている。これに対して永島は自身の著書の中で「（落合は前日に徹夜でアルバイトを終えてから道場にやってきて）『気分が悪い』と言っていたので見学させていて、ほとんど練習はしていない。このことは警察の実況検分でもこちらの言い分がすべて認められている」「佐竹のマネージャーに経緯を説明して佐竹にもちゃんと伝えるように頼んでおいたのにある時を境に向こうからの連絡が一切来なくなり挙句の果てに一方的にWJに責任を押し付けようとした」と反論をしている\[3\]。
+
+### 相次ぐトラブル - 所属選手の退団
+
+WJプロレスは、旗揚げ当初から観客動員に苦戦して見込んでいた利益を上げることができなかった。このためギャラ未払いが生じて8月に[鈴木健想](https://ja.wikipedia.org/wiki/鈴木健想 "wikilink")が9月に[谷津嘉章](https://ja.wikipedia.org/wiki/谷津嘉章 "wikilink")が相次いで退団。WJで営業を担当していた谷津は[東京スポーツ](https://ja.wikipedia.org/wiki/東京スポーツ "wikilink")の取材に対して「長州をはじめとするWJフロント陣はインディー団体を分かってない」とし、給料未払い等を暴露\[4\]、WJの苦しい経営状況が表面化。この給与未払い問題は[越中詩郎](https://ja.wikipedia.org/wiki/越中詩郎 "wikilink")らによるユニット「レイバーユニオン」が結成される[ギミックとして利されて長州や天龍との抗争が展開された](https://ja.wikipedia.org/wiki/ギミック_\(プロレス\) "wikilink")。
+
+[総合格闘技](../Page/総合格闘技.md "wikilink")イベント[PRIDEが人気を博していたことを背景に興行の不振の打開策として](https://ja.wikipedia.org/wiki/PRIDE_\(格闘技イベント\) "wikilink")[9月6日](../Page/9月6日.md "wikilink")総合格闘技イベント「[X-1](https://ja.wikipedia.org/wiki/X-1_\(総合格闘技\) "wikilink")」開催。[中嶋勝彦](https://ja.wikipedia.org/wiki/中嶋勝彦 "wikilink")が異例の若さでプロ格闘技デビューすることもあって一定の注目を集めた。しかしレフェリーや選手が未熟でレベルが低かったことから観客から酷評された。さらに金網マッチ中に金網が外れてスタッフが手で金網を押さえて試合を続行する事態となり、観客の失笑を買うことになった。
+
+同大会のプロデューサーであった長州力は興行について一言もコメントをしないまま大会の終了を待たずに帰宅してしまい佐々木や永島を激怒させた\[5\]。
+
+WJプロレスでは1度発表された興行が中止となる事態が多発していた。永島は興行が中止となった原因についてフロントが興行の予定されていた会場に対して契約を交わさない、電話確認をしない、手付金を払わないなどの不手際を起こして試合会場が使えなくなったためだと述べている\[6\]。最も話題になった興行中止は、永島が自著で「[後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")ダブルブッキング事件」\[7\]と称している興行中止である。WJプロレスは[10月22日](../Page/10月22日.md "wikilink")、後楽園ホール大会を開催することを発表したが直後にネット上で同日にボクシング興行が予定されているのを指摘されてフロントが後楽園ホールに確認したところ実際には後楽園ホールが押さえられておらず急遽お詫びと興行中止を発表する。その代わりとして首都圏の試合会場でビッグマッチを行うと発表するも結局行われることはなかった。
+
+### 所属選手の契約解除 - リキプロへの移行
+
+11月以降、所属選手であった越中や大森が他団体に参戦するようになり長州も[プロレスリングZERO-ONE](https://ja.wikipedia.org/wiki/プロレスリングZERO-ONE "wikilink")を主戦場に[ハッスルなどにも参戦するようになった](https://ja.wikipedia.org/wiki/ハッスル_\(プロレス\) "wikilink")。越中らの他団体参戦については永島の著作によれば、所属選手に対して経営不振によるギャラの40％カットと引き換えに専属契約の解除を行ったためとされている。佐々木も12月に退団。
+
+2004年1月、中嶋勝彦のプロレスデビュー戦を行った。このとき15歳9か月であり男子では史上最年少デビューのプロレスラーとなったが、3月に中嶋は保障上の不安から退団する。5月に社長は[轡田浩二](https://ja.wikipedia.org/wiki/轡田浩二 "wikilink")へと変更し、興行以外での新規事業での再建を図るも頓挫。その後も不定期に単独興行を打っていたが、8月13日に所属選手がWJから分離して設立された[リキプロ](https://ja.wikipedia.org/wiki/リキプロ "wikilink")へ移籍。長州自身はWJに残留する（ただし一部のメディアではリキプロ所属とされる）もWJとしての活動停止。活動停止に至った詳細は金銭面の問題やその他理由は多々挙げられるも不明である。
+
+## タイトル
+
+  - [WMG王座](https://ja.wikipedia.org/wiki/WMG王座 "wikilink")
+
+<!-- end list -->
+
+  -
+    WMGの正式名称はWorld Magma the Greatest。WMG王座については、王座決定トーナメントを制した佐々木健介が初代王者として認定されるが、王者が決定した時点でベルトの完成が間に合わず、チャンピオンベルト不在のまま王者が認定されるというトラブルが発生している。その後、1度の防衛戦を行った後、健介が退団し王座を返上。新王者を決定しないまま実質的に王座は封印されている。
+
+<!-- end list -->
+
+  - [WMGタッグ王座](https://ja.wikipedia.org/wiki/WMGタッグ王座 "wikilink")
+
+<!-- end list -->
+
+  -
+    タッグ王座についてはシングル同様に王座決定トーナメントを行い天龍&長州組が王者となったが、防衛戦を行わないまま天龍が離脱したため王座は宙に浮いた存在となった。後に[リキプロ](https://ja.wikipedia.org/wiki/リキプロ "wikilink")の興行で2代目王者の決定戦が行われて[金村キンタロー](https://ja.wikipedia.org/wiki/金村キンタロー "wikilink")＆[BADBOY非道](https://ja.wikipedia.org/wiki/BADBOY非道 "wikilink")組が勝利して2代目王者となるが、非道と金村との抗争が勃発したため非道がパートナーに[黒田哲広](https://ja.wikipedia.org/wiki/黒田哲広 "wikilink")を指名し3代目ではなく、そのまま『2代目』王者を名乗るものの、その後は防衛戦も行われず、有耶無耶なままの状態となっている。
+
+  - リーグ戦
+
+<!-- end list -->
+
+  - [ヤングマグマ杯](https://ja.wikipedia.org/wiki/ヤングマグマ杯 "wikilink")
+
+## 所属選手
+
+  - [長州力](https://ja.wikipedia.org/wiki/長州力 "wikilink")
+  - [石井智宏](https://ja.wikipedia.org/wiki/石井智宏 "wikilink")
+  - [宇和野貴史](https://ja.wikipedia.org/wiki/宇和野貴史 "wikilink")
+  - [和田城功](https://ja.wikipedia.org/wiki/和田城功 "wikilink")
+
+## スタッフ
+
+### レフェリー
+
+  - [保永昇男](https://ja.wikipedia.org/wiki/保永昇男 "wikilink")
+
+## 役員
+
+### 代表取締役社長
+
+  - [福田政二](https://ja.wikipedia.org/wiki/福田政二 "wikilink")（初代）
+  - [轡田浩二](https://ja.wikipedia.org/wiki/轡田浩二 "wikilink")（2代目）
+
+### 専務取締役
+
+  - [永島勝司](https://ja.wikipedia.org/wiki/永島勝司 "wikilink")
+
+### 取締役
+
+  - [長州力](https://ja.wikipedia.org/wiki/長州力 "wikilink")
+
+## 過去の所属選手
+
+  - [佐々木健介](https://ja.wikipedia.org/wiki/佐々木健介 "wikilink")
+  - [谷津嘉章](https://ja.wikipedia.org/wiki/谷津嘉章 "wikilink")
+  - [越中詩郎](https://ja.wikipedia.org/wiki/越中詩郎 "wikilink")
+  - [大森隆男](https://ja.wikipedia.org/wiki/大森隆男 "wikilink")
+  - [鈴木健想](https://ja.wikipedia.org/wiki/鈴木健想 "wikilink")
+  - [中嶋勝彦](https://ja.wikipedia.org/wiki/中嶋勝彦 "wikilink")
+  - [高智政光](https://ja.wikipedia.org/wiki/高智政光 "wikilink")
+  - [福田力](https://ja.wikipedia.org/wiki/福田力 "wikilink")
+
+## 来日外国人選手
+
+  - [ベイダー](https://ja.wikipedia.org/wiki/レオン・ホワイト "wikilink")
+  - [スティーブ・ウィリアムス](https://ja.wikipedia.org/wiki/スティーブ・ウィリアムス "wikilink")
+  - [ダン・ボビッシュ](https://ja.wikipedia.org/wiki/ダン・ボビッシュ "wikilink")
+  - [ビッグ・ビトー](https://ja.wikipedia.org/wiki/ヴィトー・ログラッソ "wikilink")
+  - [レックス・メイヤー](https://ja.wikipedia.org/wiki/レックス・メイヤー "wikilink")
+  - [スティーブ・マディソン](https://ja.wikipedia.org/wiki/スティーブ・マディソン "wikilink")
+  - [ホーク・ウォリアー](https://ja.wikipedia.org/wiki/ロード・ウォリアー・ホーク "wikilink")
+  - [アニマル・ウォリアー](https://ja.wikipedia.org/wiki/ロード・ウォリアー・アニマル "wikilink")
+  - [トッド・シェーン](https://ja.wikipedia.org/wiki/トッド・シェーン "wikilink")
+  - [マイク・シェーン](https://ja.wikipedia.org/wiki/マイク・シェーン "wikilink")
+  - [ジョエル・マキシモ](https://ja.wikipedia.org/wiki/ジョエル・マキシモ "wikilink")
+  - [ホセ・マキシモ](https://ja.wikipedia.org/wiki/ホセ・マキシモ "wikilink")
+
+## 脚注
+
+## 関連項目
+
+  - [X-1](https://ja.wikipedia.org/wiki/X-1_\(総合格闘技\) "wikilink")
+
+[Category:WJプロレス](https://ja.wikipedia.org/wiki/Category:WJプロレス "wikilink") [Category:現在活動していない日本のプロレス団体](https://ja.wikipedia.org/wiki/Category:現在活動していない日本のプロレス団体 "wikilink") [Category:リキプロ](https://ja.wikipedia.org/wiki/Category:リキプロ "wikilink") [Category:長州力](https://ja.wikipedia.org/wiki/Category:長州力 "wikilink")
+
+1.  永島勝司 『地獄のアングル プロレスのどん底を味わった男の告白』 2004年12月 ISBN 4-87257-524-5
+2.
+3.
+4.
+5.
+6.
+7.

@@ -1,0 +1,118 @@
+> この記事は[Advanced Comprehensive Operating System](https://ja.wikipedia.org/wiki/Advanced_Comprehensive_Operating_System)から翻訳されています。
+
+
+**ACOS**（**エイコス**）は[日本電気](../Page/日本電気.md "wikilink")の[メインフレーム](../Page/メインフレーム.md "wikilink")およびその[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")（OS）の名称である。ハードウェアとOSの双方に同じ名称を用いている、ないし、システムとしての全体の総称である。「」および「」の頭文字に由来する\[1\]。
+
+## 概要
+
+ACOSは[NEAC](https://ja.wikipedia.org/wiki/NEAC "wikilink")-シリーズ2200の置き換えを狙って新たに開発されたメインフレームおよびOSで、1974年5月に**ACOSシリーズ77**としてシステム200、300、400の3機種を発表、同年12月に出荷が開始された。
+
+NEAC-シリーズ2200では処理単位は可変長な[キャラクタ単位であったが](https://ja.wikipedia.org/wiki/キャラクタマシン "wikilink")、ACOSでは小型機・中型機は8ビット・[バイト単位](https://ja.wikipedia.org/wiki/バイトマシン "wikilink")、大型機は36ビット・[ワード単位に統一した](https://ja.wikipedia.org/wiki/ワードマシン "wikilink")。ソフトウェアで行っていた複雑な処理やハードウェアで制御していた部分は[ROMの中に組み込んで](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")[ファームウェア](../Page/ファームウェア.md "wikilink")化した。また、新たに[仮想記憶](../Page/仮想記憶.md "wikilink")と[プロセス](../Page/プロセス.md "wikilink")の概念を持ち込み、1台のコンピュータを時間的・空間的に共有する[TSSを導入した](https://ja.wikipedia.org/wiki/タイムシェアリングシステム "wikilink")（この機能は[GCOS](https://ja.wikipedia.org/wiki/GCOS "wikilink")に由来する）。[主記憶装置](../Page/主記憶装置.md "wikilink")は[磁気コアメモリ](../Page/磁気コアメモリ.md "wikilink")から[MOSメモリに変更し](https://ja.wikipedia.org/wiki/MOSFET "wikilink")、論理素子に[TTL-ICを用いることで信頼性を向上しつつ高速化と小型化を実現した](../Page/Transistor-transistor_logic.md "wikilink")。
+
+NEAC-シリーズ2200の後継機種が長い間不在だったことやOSの開発が遅れたことにより、出荷当初の市場の反応は芳しくなかった。しかしその後、高性能機や価格性能比（コストパフォーマンス）が優れた新機種を投入して徐々に注目を集め、売り上げを伸ばしていった。そして1980年にメインフレームのメーカー別国内シェアで第3位、1986年には第2位にまで上り詰めた。
+
+1990年代に入って[バブルが崩壊すると性能よりも価格性能比を優先する傾向が一段と強くなった](../Page/バブル景気.md "wikilink")。そこでNECは従来の[バイポーラ素子に代わって](https://ja.wikipedia.org/wiki/バイポーラトランジスタ "wikilink")[CMOS](../Page/CMOS.md "wikilink")素子を用いて[演算プロセッサを](../Page/CPU.md "wikilink")1チップ化し、これを複数個用いて[並列処理](https://ja.wikipedia.org/wiki/並列処理 "wikilink")を行う**パラレルACOSシリーズ**を開発。1994年5月に最初の小型機 **AX7300** を発表した。パラレルACOSシリーズは現在も開発および販売が続けられている。
+
+## 開発の経緯
+
+1950年代の[パラメトロン](https://ja.wikipedia.org/wiki/パラメトロン "wikilink")コンピュータや[FONTAC](https://ja.wikipedia.org/wiki/FONTAC "wikilink")(富士通/沖/NEC共同コンピュータ)の流れの中、1960年代半ばに始まる通産省主体の大型プロジェクト超高性能電子計算機開発計画において、[IBM](../Page/IBM.md "wikilink")などの海外のコンピュータベンダに依らない日本独自のコンピュータシステムを構築すべく、NEC/[日立製作所](../Page/日立製作所.md "wikilink")/[富士通](../Page/富士通.md "wikilink")/[東京芝浦電気](https://ja.wikipedia.org/wiki/東芝 "wikilink")（東芝）/[沖電気](https://ja.wikipedia.org/wiki/沖電気 "wikilink")/[松下通信工業](https://ja.wikipedia.org/wiki/パナソニック "wikilink")（松下）/[三菱電機](https://ja.wikipedia.org/wiki/三菱電機 "wikilink")などに通産省の元でコンピュータシステムの開発を進めさせた。松下などは、コンピュータはまだ商売にならないと判断して早々と撤退を行ったが、それ以外のベンダはコンピュータの開発にしのぎを削っていく事になる。
+
+その後、日本では1971年4月に[米国からの圧力などで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")2年後のコンピュータの輸入自由化が決定された\[2\]。[通商産業省](https://ja.wikipedia.org/wiki/通商産業省 "wikilink")は、当時の国内コンピュータメーカーの体力では[IBM](../Page/IBM.md "wikilink")を初めとする海外メーカーに日本市場を席巻され打撃を受けるとして、当時6社あったコンピュータ業界の再編に乗り出した。富士通と日立、三菱電機と沖電気、それに東芝とNECの3グループにまとめ、技術研究組合を作らせて5年間にわたって補助金を支給し、各社に「IBM対抗機」の開発に当たらせた。
+
+当時NECが[ハネウェル](https://ja.wikipedia.org/wiki/ハネウェル "wikilink")社から、東芝が[ジェネラル・エレクトリック](https://ja.wikipedia.org/wiki/ジェネラル・エレクトリック "wikilink")社 (GE) から、それぞれ技術供与を受けてコンピュータを開発していた。ところが、1971年にGEはコンピュータ事業から撤退して事業をハネウェルに売却し、ハネウェルは統合したコンピュータ部門をハネウェル・インフォメーション・システムズ社 (HIS) として独立させた。このため、同社と提携するNECと東芝がグループを組むことになった。
+
+両社は共同開発にあたり、小型機と中型機をNECで、また大型機を東芝で、それぞれ開発を分担した。中型機向けのOS [ACOS-4](https://ja.wikipedia.org/wiki/ACOS-4 "wikilink") はHIS社から技術供与を受ける予定だったが、HIS社の度重なる計画変更や開発・改良の中止によりやがてNECが単独で小型機向けの[ACOS-2](https://ja.wikipedia.org/wiki/ACOS-2 "wikilink")と共に開発を進めてゆくことになった。当初システム200にはHIS社が開発したACOS-2が使用されたが、1975年10月からNECが独自に改良したACOS-2が提供された。ACOS-4は予定通り同年10月から提供された。大型機向けのOSは東芝がHIS社から提供された[GCOS](https://ja.wikipedia.org/wiki/GCOS "wikilink")-3を[ACOS-6](../Page/ACOS-6.md "wikilink")として出荷した。
+
+その後HIS社は[仮想記憶](../Page/仮想記憶.md "wikilink")機能を持つOSの改良を中止したが、東芝はHIS社とは別に仮想記憶機能をもつACOS-6の開発を進めていた。しかし1978年2月に東芝は中・大型機から撤退することになった。このためNECは[アーキテクチャが異なるOSを同時に開発](../Page/コンピュータ・アーキテクチャ.md "wikilink")・改良していくことになり、資金や技術者の不足といった問題に直面した。そこでACOS-2/4とACOS-6の両OSを共通化することで費用削減を図る一方、多くの人員を営業部門に配転し販売力を強化した。こうしてHIS社への依存から離脱して自主開発体制を確立した。
+
+このような経緯により出荷当初の市場の反応はよくなかった。しかし、IBMのメインフレームの新機種 [IBM 4331](https://ja.wikipedia.org/wiki/System/370 "wikilink") の発表に対抗して1週間後に発表された**システム250**、当時世界最高速の15[MIPS](https://ja.wikipedia.org/wiki/MIPS "wikilink")の演算能力を持った**システム1000**といった新機種を投入して注目を集め、売り上げを伸ばしていった。そして1980年にメインフレームのメーカー別国内シェアで第3位に、1981年に念願の黒字化を達成し、1986年にはシェアで[富士通](../Page/富士通.md "wikilink")に次ぐ第2位にまで回復した。
+
+ACOS-2とACOS-4は[バイトマシン](https://ja.wikipedia.org/wiki/バイトマシン "wikilink")、ACOS-6は[ワードマシン](https://ja.wikipedia.org/wiki/ワードマシン "wikilink")と互いに大きく異なるアーキテクチャのシステムになったため、部分共通化を図った後もその差異は大きかった。それが両OS間でのソフトウェア資産の移行を難しくしたほか、ソフトウェア開発にも大きな負担をかけることになった。
+
+## ハードウェア
+
+### ACOSシリーズ(販売終了)
+
+  - **ACOS-2系**：小型機
+      - **システム200**（1974年5月）：ACOS-4系との互換性を維持しつつ[LSI](https://ja.wikipedia.org/wiki/LSI "wikilink")などを使用して小型化。
+      - **システム250**（1979年2月）：機能分散プロセッサ構成。LSIを全面採用して価格性能比を向上させ、ベストセラーとなった。
+      - **システム410**（1983年4月）：システム250の後継
+      - **システム3300**（1987年7月）：システム410の後継
+  - **ACOS-4系**：ハネウェルの技術による32bit・バイトマシン。中型機からスタートして次第に大型機・超大型機に発展。
+      - **システム300、400**（1974年5月）：[マルチタスク](../Page/マルチタスク.md "wikilink")、[セグメント方式](../Page/セグメント方式.md "wikilink")の導入。
+      - **システム500**（1975年6月）：上位機。[Bull](https://ja.wikipedia.org/wiki/Bull "wikilink")（当時、ハネウェルの子会社）との共同開発が中止され、発売が遅れた。
+      - **システム350、450、550**（1979年10月）：システム300、400、500の後継。[マルチプロセッサ](https://ja.wikipedia.org/wiki/マルチプロセッサ "wikilink")、[ページング方式](https://ja.wikipedia.org/wiki/ページング方式 "wikilink")。
+      - **システム750**（1981年6月）：BullへOEM供給
+      - **システム950**（1983年5月）
+      - **システム430**（1984年2月）：システム350の後継
+      - **システム610、630**（1985年4月）：システム450、550の後継
+      - **システム1500**（1985年2月）：当時、世界最高速の130MIPS。
+      - **システム910**（1987年1月）：システム750の後継
+      - **システム3400**（1988年7月）：システム430の後継
+      - **システム3600**（1990年2月）：システム610、630の後継
+      - **システム3800**（1990年7月）：当時、世界最高速の500MIPS。
+      - **システム3500**（1992年10月）：システム3400の後継
+  - **ACOS-6系**：GEの技術による36bit・ワードマシン。大型～超大型機
+      - **システム600、700**（1974年11月）：[TOSBAC-5600](https://ja.wikipedia.org/wiki/TOSBAC-5600 "wikilink")互換でアーキテクチャを強化。[仮想記憶](../Page/仮想記憶.md "wikilink")方式。[キャッシュメモリ](../Page/キャッシュメモリ.md "wikilink")を使用したマルチプロセッサ。
+      - **システム800、900**（1976年）：プロセッサの二重化。900ではさらに[浮動小数点演算を強化](../Page/浮動小数点数.md "wikilink")。当初、ハネウェルとの共同開発だったが、設計方針の違いから日本電気独自で開発。
+      - **システム1000**（1980年9月）：当時、世界最高速の15MIPS。また、初めて日本電気からハネウェルへOEM供給した（ただし、契約が締結された翌年にハネウェルはコンピュータ事業から撤退）。
+      - **システム650**（1981年6月）：システム600の後継
+      - **システム850**（1982年1月）：システム800の後継
+      - **システム2000**（1986年2月）：当時、世界最高速の170MIPS。液冷方式を採用。
+      - **システム830、930**（1987年1月）：システム650、850の後継
+      - **システム3700**（1991年3月）：システム830の後継
+      - **システム3900**（1991年3月）：システム930、2000の後継
+
+### パラレルACOSシリーズ(現行機種)
+
+  - i-PX7300シリーズ: [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")[Xeon](https://ja.wikipedia.org/wiki/Xeon "wikilink")プロセッサによるACOS-2系対応の小型機
+  - i-PX7600シリーズ: 独自CMOSプロセッサ(NOAH-4)によるACOS-4系OS対応の中型機
+  - i-PX7800シリーズ: 独自64ビットCMOSプロセッサ(NOAH-5)によるACOS-4系OS対応の大型機
+  - i-PX9000シリーズ: [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") [Itanium 2プロセッサによるACOS](https://ja.wikipedia.org/wiki/Itanium_2 "wikilink")-4系OS対応の中小規模向け機から大型機
+  - PX-7900シリーズ: 独自CMOSプロセッサ(NOAH-3)によるACOS-6系OS対応の大型機
+
+#### IPF版ACOS
+
+2004年8月に発表されたNECのサーバ戦略によれば、ACOS-4系のCPUを独自CMOSプロセッサ（NOAHシリーズ）からIPF(インテルのItaniumプロセッサファミリ）に転換し、従来版ACOS-4のバイナリをエミュレーションにより、また[Itanium](https://ja.wikipedia.org/wiki/Itanium "wikilink")ネイティブのACOS-4のほか、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")、[HP-UX](../Page/HP-UX.md "wikilink")を実行できるシリーズを2004年度に発表した。これにより従来のACOSソフトウェア資産を生かしつつ現代の業界標準のソフトウェアに徐々に移行可能であるとしている。なお、このサーバー戦略を実現する機種として、i-PX9000シリーズを2004年10月07日に発表している。
+
+#### 独自プロセッサへの再転換
+
+2012年6月、NECは、大型機においてそれまでのItaniumによる実装から、独自プロセッサNOAH-6に切り替えた新モデルi-PX9800/A100を発表した。\[3\]
+
+## OS
+
+初期の版を発売後、版を重ねるにつれて名称の変更や派生版を生じている。
+
+  - [ACOS-2](https://ja.wikipedia.org/wiki/ACOS-2 "wikilink")系：小型機向け、ACOS-4のサブセット（8ビットバイト・32ビットワード という点は共通）
+  - [ACOS-4](https://ja.wikipedia.org/wiki/ACOS-4 "wikilink")系：中型機向け、8ビットバイト・32ビットワード
+  - [ACOS-6](../Page/ACOS-6.md "wikilink")系：大型機向け、9ビットバイト・36ビットワード
+
+詳細はそれぞれの記事を参照。
+
+## その他
+
+以前は日電東芝情報システム(通称 NTIS)も販売していたが、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")が提携を解消したため(会社名は広く知れ渡っているNTISを活かす形でNECトータルインテグレーションサービス株式会社に変更、その後2009年10月に日本電気とNECネクサソリューションズに全事業を譲渡して事実上吸収される)、現在は日本電気のみが販売を行なっている。
+
+## 関連項目
+
+  - [GCOS](https://ja.wikipedia.org/wiki/GCOS "wikilink")
+  - [NEAC](https://ja.wikipedia.org/wiki/NEAC "wikilink")
+  - [三大コンピューターグループ](https://ja.wikipedia.org/wiki/三大コンピューターグループ "wikilink")
+
+## 脚注・出典
+
+## 参考文献
+
+  -
+## 外部リンク
+
+  - [ACOSシリーズポータルサイト](http://www.nec.co.jp/products/acosclub/index.html) - NEC
+      - [次世代大型メインフレームサーバACOSシリーズ「i-PX9000」の発売について](http://www.nec.co.jp/press/ja/0410/0701.html) - プレスリリース(2004年10月7日付)
+      - [オープン系OS対応を強化した基幹サーバ「i-PX9000／SXモデル」の発売](http://www.nec.co.jp/press/ja/0512/0602.html) - プレスリリース(2005年12月6日付)
+  - [日本電気メインフレーム用OSの系譜図](http://museum.ipsj.or.jp/computer/os/nec/genealogy.html) - コンピュータ博物館（[情報処理学会](https://ja.wikipedia.org/wiki/情報処理学会 "wikilink")）
+
+[Category:メインフレームのオペレーティングシステム](https://ja.wikipedia.org/wiki/Category:メインフレームのオペレーティングシステム "wikilink") [Category:メインフレーム](https://ja.wikipedia.org/wiki/Category:メインフレーム "wikilink") [Category:日本電気の製品](https://ja.wikipedia.org/wiki/Category:日本電気の製品 "wikilink") [Category:1974年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1974年のソフトウェア "wikilink")
+
+1.  『日本電気株式会社百年史』, p514.
+2.
+3.  <http://www.itmedia.co.jp/enterprise/articles/1206/28/news082.html>

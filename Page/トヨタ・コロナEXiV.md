@@ -1,0 +1,75 @@
+> この記事は[EXiV](https://ja.wikipedia.org/wiki/EXiV)から翻訳されています。
+
+
+**コロナEXiV**（*CORONA EXiV* - エクシヴ）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が生産・販売していた[乗用車](https://ja.wikipedia.org/wiki/乗用車 "wikilink")。
+
+## 歴史
+
+### 初代\[1\] T18\#型（1989年 - 1993年）
+
+元モデルは[セリカをベースにした](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")[コロナクーペであり](https://ja.wikipedia.org/wiki/トヨタ・コロナクーペ "wikilink")、[姉妹車](https://ja.wikipedia.org/wiki/姉妹車 "wikilink")には、同じくセリカの[プラットフォームベースの初代](https://ja.wikipedia.org/wiki/プラットフォーム_\(自動車\) "wikilink")[カリーナEDが存在したが](../Page/トヨタ・カリーナED.md "wikilink")、カリーナEDのヒットによりコロナの[フルモデルチェンジ後](https://ja.wikipedia.org/wiki/モデルチェンジ_\(自動車\) "wikilink")[クーペ](https://ja.wikipedia.org/wiki/クーペ "wikilink")は消滅、コロナEXiVとしてスタイリッシュな4ドアピラーレスハードトップになり登場する。
+
+セリカ/カリーナEDと共通のプラットフォームで、背の低いボディーのためセダンとしての居住性（ラグジュアリー性能）と実用性に関してはあまり高くない。カリーナED同様、流麗なスタイリングは熟年層向けなイメージであったコロナセダン・カリーナセダンとは違い、若年層に大いに受け入れられた。
+
+駆動方式は[前輪駆動](https://ja.wikipedia.org/wiki/前輪駆動 "wikilink")で、排気量は1,800cc、2,000ccの2種類の[エンジンをラインナップしており](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")、四輪操縦と二輪操縦の切替可能な世界初デュアルモード[4WSを搭載した](https://ja.wikipedia.org/wiki/四輪操舵 "wikilink")。なお、同時期のセリカに搭載されていた[アクティブサスペンション](https://ja.wikipedia.org/wiki/アクティブサスペンション "wikilink")、[4WD](../Page/四輪駆動.md "wikilink")[ターボモデルは設定されていなかった](../Page/ターボチャージャー.md "wikilink")。
+
+  - [1989年](../Page/1989年.md "wikilink")9月6日 - 初代登場。
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")8月 - 一部変更。ハイメカツインカム車は全車EFI化され出力向上が図られた。
+  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")8月 - マイナーチェンジが実施された。フロントグリルのエンブレムは、コロナの「太陽冠」から「Exiv」に変更され、リヤのトランクリッドにはトヨタのCIマークが取り付けられた。シャーシ面でも2WS車のリアトレッドが拡大され、1,800cc車もフロントブレーキの拡大に伴い14インチ5穴ホイール化された。
+  - [1993年](../Page/1993年.md "wikilink")9月\[2\] - 生産終了。在庫対応分のみの販売となる。
+  - [1993年](../Page/1993年.md "wikilink")10月 - 2代目と入れ替わる形で販売終了。
+
+{{-}}
+
+### 2代目\[3\] T20\#型（1993年 - 1998年）
+
+2代目からは4ドアピラードハードトップクーペ（こちらも実質的にはセダン扱い）となり、[姉妹車](https://ja.wikipedia.org/wiki/姉妹車 "wikilink")であるセリカやカリーナEDと共にボディーの大型化と安全性で3ナンバーとなる。この代からセンターピラーが他のハードトップ車と同様に付くようになる。
+
+[全日本ツーリングカー選手権](https://ja.wikipedia.org/wiki/全日本ツーリングカー選手権_\(1994年-1998年\) "wikilink")(JTCC)に参戦した事でスポーティーさをアピールしていたが、時代はハイソカーや[スポーツカー](../Page/スポーツカー.md "wikilink")から[RV等の大型の車両に移ってゆくことと](https://ja.wikipedia.org/wiki/レクリエーショナル・ビークル "wikilink")、サイズアップによりEXiVの取り扱い店である[トヨペット店](https://ja.wikipedia.org/wiki/トヨペット店 "wikilink")では3ナンバーの[マークIIと競合したことで人気は下火となってしまった](https://ja.wikipedia.org/wiki/トヨタ・マークII "wikilink")。マイナーチェンジ時にグレード構成において「GT」等のスポーツ色の強いものが追加されつつも、その低いルーフが影響する居住性を悪化させ、販売台数は下降線をたどった。
+
+CM出演者は[本木雅弘](https://ja.wikipedia.org/wiki/本木雅弘 "wikilink")で、後に[プログレや](https://ja.wikipedia.org/wiki/トヨタ・プログレ "wikilink")3代目[アルファードのCMにも出演する](https://ja.wikipedia.org/wiki/トヨタ・アルファード "wikilink")。過去ではマークIIのライバルである[日産・ローレル](https://ja.wikipedia.org/wiki/日産・ローレル "wikilink")のCMに出演していた。
+
+前輪駆動の3S-GE型搭載モデルにおいては、前期モデルでオプションだった[スーパーストラットサスペンション](https://ja.wikipedia.org/wiki/スーパーストラットサスペンション "wikilink")が後期モデルでは標準装備になる。姉妹車のEDでは、後期モデルでもオプションである。
+
+  - [1993年](../Page/1993年.md "wikilink")10月8日 - [モデルチェンジ](https://ja.wikipedia.org/wiki/モデルチェンジ "wikilink")し2代目となる。
+  - [1994年](../Page/1994年.md "wikilink")5月 - 3S-GE型エンジン搭載車にフルタイム[4WD車を追加](../Page/四輪駆動.md "wikilink")。EXiVとしては、最初で最後の4WD車である。4WDの駆動方式は[MT車はセリカGT](https://ja.wikipedia.org/wiki/マニュアルトランスミッション "wikilink")-FOURと同じビスカスカップリング式。[AT車がコロナセダン](https://ja.wikipedia.org/wiki/オートマチックトランスミッション "wikilink")4WDと同じECハイマチック式。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")9月 - マイナーチェンジを行うと同時に、運転席[エアバッグ](https://ja.wikipedia.org/wiki/エアバッグ "wikilink")が全車標準装備となった。コスト削減において前ドアのステップランプ、集中ドアロックの車速オート機能、キー穴照明が廃止され、3S-FE型搭載車以外は[エアコンがマニュアル式に変更された](../Page/エア・コンディショナー.md "wikilink")。　
+  - [1996年](../Page/1996年.md "wikilink")6月 - [ABSと助手席エアバッグを全車標準装備とした](https://ja.wikipedia.org/wiki/アンチロック・ブレーキ・システム "wikilink")。[マルチAVステーションをオプション設定](../Page/カーナビゲーション.md "wikilink")。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月 - [オーダーストップ](https://ja.wikipedia.org/wiki/オーダーストップ "wikilink")に伴う生産終了。以後は在庫のみの対応となる。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")12月\[4\] - 折からのハードトップモデル縮小傾向の影響を受け、後期型コロナプレミオに統合される形で姉妹車のカリーナEDとともに販売終了。
+
+{{-}}
+
+## 車名の由来
+
+  - コロナ - [英語](../Page/英語.md "wikilink")で[皆既日食](https://ja.wikipedia.org/wiki/皆既日食 "wikilink")の時に見られる[光環](https://ja.wikipedia.org/wiki/光環 "wikilink")のこと。
+  - EXiV - Extra Impressive（際立って印象的な）を略した造語。キャッチコピーは**「かつてない印象」**
+  - 「エクシブ」や「エキシブ」と誤表記([V音の表記ゆれ](https://ja.wikipedia.org/wiki/ゔ "wikilink"))される事があるが、正式なカナ表記は**「エクシヴ」**である。
+  - 車名のアルファベット表記は「EXiV」とされる事が多く実車カタログにおいても「Exiv」とともに使われているが、実車エンブレムの表記を見ると実は全て小文字の**「exiv」**で構成されている(**e**の横棒が突き出てるのは筆記書体を元にした小文字の特徴でもある)
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")
+  - [トヨタ・コロナ](https://ja.wikipedia.org/wiki/トヨタ・コロナ "wikilink")
+  - [トヨタ・カリーナED](../Page/トヨタ・カリーナED.md "wikilink")
+  - [トヨタ・セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")
+  - [トヨタ・カレン](https://ja.wikipedia.org/wiki/トヨタ・カレン "wikilink")
+  - [全日本ツーリングカー選手権](https://ja.wikipedia.org/wiki/全日本ツーリングカー選手権_\(1994年-1998年\) "wikilink")(JTCC)
+
+## 外部リンク
+
+  - [トヨタ コロナEXiV（初代）](https://www.toyota.co.jp/jpn/company/history/75years/vehicle_lineage/car/id60008587/) - [トヨタ自動車公式企業サイト](https://www.toyota.co.jp/)内のページ。
+  - [トヨタ コロナEXiV（2代目）](https://www.toyota.co.jp/jpn/company/history/75years/vehicle_lineage/car/id60008611/) - 同上。
+
+[Category:トヨタの車種](https://ja.wikipedia.org/wiki/Category:トヨタの車種 "wikilink") [Category:セダン](https://ja.wikipedia.org/wiki/Category:セダン "wikilink") [Category:4ドアクーペ](https://ja.wikipedia.org/wiki/Category:4ドアクーペ "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink") [Category:アクロニムを使用したブランド](https://ja.wikipedia.org/wiki/Category:アクロニムを使用したブランド "wikilink")
+
+1.  コロナシリーズ全体としては通算**9代目**
+2.
+3.  コロナシリーズ全体としては通算**10代目**
+4.

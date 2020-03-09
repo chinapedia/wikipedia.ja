@@ -1,0 +1,644 @@
+> この記事は[IPod](https://ja.wikipedia.org/wiki/IPod)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:IPod_classic_6G_80GB_packaging-2007-09-22.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:IPod_shuffle_4G_silver.jpg "wikilink") （アイポッド）は、[アップルが開発](../Page/アップル_\(企業\).md "wikilink")・販売する[携帯型](https://ja.wikipedia.org/wiki/携帯音楽プレーヤー "wikilink")[デジタル音楽プレイヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")。本体に搭載されている記憶装置に数百から数万曲の音楽を保存することができる。
+
+現在、アップルより発売されているはのみである。
+
+## バリエーション
+
+アップルは2017年7月までは3種類のiPodを販売しており、モデルによって容量やデザインが異なっていたが、同年7月27日にiPod shuffleとiPod nanoのアップルストアでの取り扱いを終了した。
+
+2017年7月現在アップルストアで販売されているのはiPod touchのみである。
+
+  - （32GB・128GB、ブラック&スレート/ホワイト&シルバー/ブルー/ピンク/ゴールド/スペースグレイ/）
+
+[iPod classicは初代iPodからの流れを汲むシリーズであったが](https://ja.wikipedia.org/wiki/iPod_classic "wikilink")、[2014年](../Page/2014年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")にアップルストアでの取り扱いを終了した。
+
+はの登場に伴い生産中止された。「は第5世代の登場に伴って一旦生産中止されたが、2006年6月6日、第5世代の30GBモデルをベースに、背面のステンレススチールまで黒いオールブラックの筐体で再登場した。
+
+第一世代を発売した時期に他のメーカーは数十MBのSDカード等を音楽ファイルのストレージにしており、突然5GBの音楽プレイヤーを発売したことは大きな衝撃であった。
+
+はその時期に応じて投入される新しい世代の存在が牽引力になり、2001年にオリジナルモデル（第1世代）が登場して以来、市場の中で高い地位を確保し続けている。なお、多くのハードディスク型[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")と同様に、現在のドライブ容量は音楽、画像向けに利用されていて、データストレージといった用途ではほとんど宣伝されていない。
+
+[300px](https://ja.wikipedia.org/wiki/ファイル:IPod_family.png "wikilink")
+
+### （オリジナルからの流れをくむ）
+
+ハードディスク内蔵タイプ。系列で最大の保存容量を有している。2014年9月に販売終了。
+
+###
+
+1インチハードディスクを内蔵し、オリジナルのよりも小型軽量。2005年9月に販売終了。
+
+###
+
+液晶画面を廃し、シャッフル再生に特化したタイプ。衣服等に付けるためのクリップを備えており、機能により再生している楽曲を合成音声で読み上げる。2017年7月に販売終了。
+
+VoiceOverとはアップルのmacOS、iOS、iPodに内蔵されているスクリーンリーダーである。VoiceOverを使うことでユーザーは音声説明でMacintoshやiOSデバイスを使用することができる。Macの場合はキーボードでのタイプを読み上げる。この機能はディスレクシアなど盲目、弱視のユーザー向けである。(詳しくは、[VoiceOver](https://ja.wikipedia.org/wiki/VoiceOver "wikilink")を参照)
+
+###
+
+フラッシュメモリを使い、よりもさらに小型化したシリーズ。の後継機種にあたる。第5世代のみカメラ採用。第6世代よりカメラ不採用だが、タッチスクリーン採用。2017年7月に販売終了。
+
+###
+
+全面タッチパネルによるユーザインターフェースをもち、[無線LAN](../Page/無線LAN.md "wikilink")によるウェブブラウズ、アプリケーションの追加などが可能。シリーズで唯一を採用し、に準じた仕様である。 iPod史上最高ストレージの[256GB](https://ja.wikipedia.org/wiki/256GB "wikilink")だ。(2019年モデル[iPod touch (第7世代)のみ](https://ja.wikipedia.org/wiki/iPod_touch_\(第7世代\) "wikilink")) 未だに、[Apple Storeで販売中](https://ja.wikipedia.org/wiki/Apple_Store "wikilink")。(2020/02/23現在)
+
+## 特徴
+
+[150px](https://ja.wikipedia.org/wiki/ファイル:IPod_wheel.svg "wikilink") は光沢のある白または黒、金属的な銀を基調としたシンプルなデザインで、および第1、第3世代のの裏面は鏡面加工された[ステンレスを用いて高級感を演出している](../Page/ステンレス鋼.md "wikilink")。
+
+最初のは「四角と丸で表す事ができる」デザインで、後の世代や、もそれを踏襲している。大きな液晶画面を備え、その下にはの象徴とも言うべきホイールがある。このホイールを用いて選曲、音量調整、早送り、巻き戻し、画像・動画閲覧などすべての操作を直感的に行える。このデザインは、液晶のないですらホイールとよく似た形のコントロールパッドを備えるほどに一貫していた。ただし、2014年9月の販売終了以降、このデザインを採用しているモデルはない。は従来のとは異なり、表面全体を液晶画面とし、それに触れることで直観的な操作を実現している。
+
+には1G、2G、3Gというように明確な世代が存在する。なお、これらの数字の後ろにある「G」は、「世代」を意味する英単語である「ジェネレーション」\[1\]の略である。日本語においては第1世代などと称されることもある。
+
+へ音楽・動画やそのプレイリスト、写真などを転送するには、もしくはなどのアプリケーションを使用する。開発元のアップルではを使用することを推奨している。
+
+### ユーザインタフェース
+
+「アーティスト」「アルバム」「ジャンル」等で管理される階層的な[検索](../Page/検索.md "wikilink")システムを持つ。これは [クリエイティブテクノロジー](https://ja.wikipedia.org/wiki/クリエイティブテクノロジー "wikilink")の持つ、「特許」とも呼ばれている\[2\]ユーザインターフェース関連の特許に該当し、他社製プレイヤーにも同様のユーザーインターフェースを持つ物がある。なお、[Appleはクリエイティブテクノロジー訴訟に対し](../Page/アップル_\(企業\).md "wikilink")1億ドルの和解金を支払い、和解した\[3\]。
+
+（のちの）、第5世代までの、の[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")は、中央の[スクロールホイール](https://ja.wikipedia.org/wiki/スクロールホイール "wikilink")を使って操作し、階層構造をたどって選曲するタイプのものである。この方法により、何千曲ものライブラリがあったとしても、ユーザは容易に選曲をすることが可能である。また、再生中の曲の頭出しや早送り、音量調整、収録されているゲームの操作や写真・動画の閲覧も、全てスクロールホイールによって行うことができる。このデザインは第1世代から踏襲されており、スクロールホイール（その後、[クリックホイール](https://ja.wikipedia.org/wiki/クリックホイール "wikilink")に改良されている）はの象徴ともなっている。
+
+や、、（第6世代以降）などは、タッチパネルでの入力となっており、こちらも直感的な操作ができるように工夫されている。
+
+また、[GUIの言語は](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")同様、21言語を切り替えて使用できる。
+
+モノクロディスプレイの液晶表示の[書体](../Page/書体.md "wikilink")は、英数字フォントに「」、日本語フォントに「」を採用している。これは9.X以前のにおいて表示用全般として使われていたフォントである。第4世代以降のカラーは、書体として英数字に「」、日本語にはゴシック体の「[ヒラギノ](https://ja.wikipedia.org/wiki/ヒラギノ "wikilink")」を採用している。「」以外はいずれも[アンチエイリアス](https://ja.wikipedia.org/wiki/アンチエイリアス "wikilink")処理がなされている。ただし、第4世代以降のでもディスクモードにしたときのフォントはになる。
+
+### USBストレージ
+
+を除く現行モデルのはUSB大容量記憶装置としても利用できる。過去のモデルでは接続の外付けディスクとして利用できるものもあったが、2005年9月発表の以降のモデルでは接続には対応していない。マッキントッシュは接続の外付けディスクを起動ディスクとすることも可能だが、アップル社はの起動ディスクとしての利用を推奨していない\[4\]。
+
+### ソフトウェア
+
+にはさまざまなソフトウェアが搭載されていて、またパソコン側のを通して、バックアップもとれる。
+
+  - ミュージック
+
+    は、[WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")、[AAC](../Page/AAC.md "wikilink")/[M4A](https://ja.wikipedia.org/wiki/w:MPEG-4_Part_3#*.m4a "wikilink")、/M4P、[AIFF](https://ja.wikipedia.org/wiki/AIFF "wikilink")、/AA/M4B、[音声ファイルフォーマット](../Page/音声ファイルフォーマット.md "wikilink")/M4AおよびM4Vの再生に対応する。ただし、はには対応していない。また、第5世代のではこれに加えて [H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")、の再生にも対応する。では、[コピーガード](https://ja.wikipedia.org/wiki/コピーガード "wikilink")が無いWMAファイルをAAC、MP3、WAVの各形式に変換し、に取り込めるようにもできる。
+
+    アップルはメディア・ライブラリー・ソフトウェアと連携して利用することを前提としてを設計した。はコンピュータおよび上の音楽ライブラリを扱うためのソフトウェアである。は特定のプレイリストまたは音楽ライブラリ全体の内容を、ホスト・コンピュータとを接続するたびに自動同期することができる。もちろん、上で作成した スマートプレイリスト を、そのままに転送することや、上で自動的に更新させることも可能である。また、自動同期を行わず、全ての曲とプレイリスト、あるいは一部のプレイリストのみを手動管理することもできる。
+
+    ユーザーはないし上で音楽のレーティングをつけることもでき、0〜5つ星まで指定可能である。
+
+  -
+    再生している楽曲を合成音声で読み上げる機能。とに搭載。 液晶を持たないを除くは、音楽再生機能に加えて簡易な[PDA的な機能を備えていて](https://ja.wikipedia.org/wiki/携帯情報端末 "wikilink")、PDAの初心者には便利である。最新の 64GBを例にとって見ると、
+
+  - メモ、連絡先
+    「メモ」では簡単なメモを入力して、各メモの最初の行をリスト名として、あとで見ることができる。ただし、リストは作成日時の逆順に表示されるだけで、アルファベット・五十音順、または分類項目順などにはできない。なお、「連絡先」もすべてアルファベット・五十音順になり、分類項目順（親類、知人、同僚など）にはできない。
+
+  - 写真アルバム
+    「写真」では、で指定したパソコン側のフォルダーまたは（[アドビは](../Page/アドビシステムズ.md "wikilink") 2.0.1までを出荷して、その後販売を中止）のコレクションから同期の時にへダウンロードして、写真アルバムを見ることができる。リストはフォルダー名またはコレクション名の五十音順・アルファベット順になる。
+
+  - 多言語処理
+    「設定」の「一般」から「言語環境」で、世界の30に渡る言語環境から自分の好きな言語を選ぶことができる。また同様に「キーボード」から「各国のキーボード」で、43の各国語のキーボードから日本語、英語（米国）、ロシア語、簡体字中国語など複数を自由に選ぶことができ、これらは入力の際にはキーボードのシフトキーの横の地球マークを押すたびに入れ変わり、外国語ができる人には大変便利である。ただし、英語にはプレディクター機能\[5\]（例えば「」までを入れた段階で「」、「」などを選択できる機能）はなく、またロシア語を英語キーボード方式で入れるような機能もない。
+
+  - での同期（パソコン側）
+
+    パソコン側のソフトは音楽データをに送るだけでなく、[PDA機能であるカレンダー](https://ja.wikipedia.org/wiki/携帯情報端末 "wikilink")、連絡先、メモ機能などをまたはパソコン上の最新情報をお互いに同期させる機能がある。これはあらかじめパソコンにを接続したときに自動的に同期するように指定しておくか、同期させたいときにそのつど「ファイル」から「iPodを同期する」を選んでできる。マッキントッシュの利用者は、での連絡先データ・アプリケーションでのスケジュールデータの同期を行える。パソコンの利用者は、にある予定表、連絡先、メモと同期できるが、には初歩的なPDA機能しかなく、のカレンダーはすでにある項目の更新は同期されず、また[旧暦](../Page/旧暦.md "wikilink")などのデータも同期はなくて、連絡先は分類項目別（家族、友人など）には側では表示されず、メモもやはり分類項目別に表示されるわけではない。
+
+### ゲーム
+
+ではちょっとした待ち時間等をつぶす、という目的で使えるゲームも搭載されている。
+
+第1世代および第2世代のには[ブロック崩しゲーム](https://ja.wikipedia.org/wiki/ブロック崩しゲーム "wikilink")の「」が収録されている。
+
+第3世代および第4世代の、、（第1世代および第2世代）にはBrickの他に3つのゲームが含まれる。
+
+  -
+    ユーザーが砲塔を操作し、降下兵やヘリコプターを撃墜するゲーム。このゲームはマーク・アレンによるゲーム『』を移植したもの。最高は1,000点であり、それを越すと降下兵やヘリコプターは出てこなくなる。稀に降下兵がパラシュートを付けずに落ちてくることがある。手足をじたばたさせながら急降下するが、1秒以内にパラシュートを開く。パラシュートを狙って撃つと降下兵のみが地面に降りてくる。地面にすでに降下兵がいた場合、その降下兵もセットで消える。降下兵が降りると同時にヘリを破壊すると、ヘリの残骸が飛んできて前述のような事が起こることがある。降下兵が下に降りてきた状態で終了すると、爆弾を投げられ、砲塔が爆発する。だが砲塔から飛んでくる残骸で残りの兵士も死ぬ。
+  -
+    [クロンダイク](https://ja.wikipedia.org/wiki/クロンダイク "wikilink")トランプのソリティアのような簡単なカードゲーム。
+  -
+    ユーザー自身の音楽の一部を使用する対話形式の音楽クイズ。最初は選択肢が5つで、時間経過と共に選択肢が減っていく。もちろん選択肢が多いうちに答えるとより高い得点が得られる。100問出題されるとループする仕組みになっている。曲を途中停止する事も可能だが、現在のソフトウェアでは曲を途中停止して答えるとペナルティとしてポイントが与えられない仕組みとなっている。ただし途中停止を解除して答えるとペナルティにならず通常の正解扱い。なお100万点以上ポイントを獲得した場合、途中停止してもタイムゲージが進んでしまう機能があるため、100万点以上の点のときに曲の再生を停止してもあまり意味は無い。
+
+またメモ機能を利用して、簡単な\[6\]を上で楽しんだり、\[7\]を入れておいたりといった使い方がされていた。
+
+第5世代は当初第3世代および第4世代同様の4つのゲームが添付されているのみだったが、2006年9月12日に公開されたソフトウェア1.2から、からダウンロード購入したゲームを追加できるようになった。ゲームは1タイトル600円である。具体的には[{{Langを参照のこと](https://ja.wikipedia.org/wiki/iPodのゲームタイトル一覧 "wikilink")。
+
+および（第3世代）には以下の3つのゲームが含まれるほか、からダウンロード購入したゲームも追加できたが、2011年10月に取り扱いを終了している\[8\]。とは第5世代向けにからダウンロード販売されているものである。
+
+  -
+    360°型のブロック崩しゲーム。クリックホイールを使って行う。
+  -
+    カードゲーム。上記「Solitaire」の強化版。
+  -
+    クイズゲーム。上記「」の強化版の他、海外芸能・音楽理論についてのカルトクイズ等含まれる。ただし「」以外は英語版のみ。
+
+はファームウエア2.0以降でのからゲームやそのほかのアプリケーションを入れることが可能である。
+
+### ハードウェア
+
+のデータ転送は、現在販売されている全てのモデルにおいて高速[USB](../Page/ユニバーサル・シリアル・バス.md "wikilink") 2.0、そして転送速度は遅いがUSB 1.1に対応している。
+
+第2世代まではのみに対応、第3・第4世代のとはUSBおよびに対応をしていたが、第5世代のおよびではは充電専用となり、データの転送を行うことは出来なくなった。なおでパソコン等と接続すると転送できない旨が表示される。あまり意味の無い裏技として、端子を持つと接続しても表示される。
+
+の内蔵バッテリへの充電は、コンピュータや[ACアダプタ](https://ja.wikipedia.org/wiki/ACアダプタ "wikilink")の端子（以外の全モデル）またはUSB端子（第4世代およびそれ以降のモデル）に接続することで行う。アップル社純正のACアダプタは、USB接続に対応するものと接続に対応するものの2種類のアダプタがある。、および第3世代以降のは、コンピュータのまたはUSBポートにケーブルを介して接続する際に30ピン [{{Lang](https://ja.wikipedia.org/wiki/Dockコネクタ "wikilink") を使用する。なおコネクタ自体は[日本航空電子工業](https://ja.wikipedia.org/wiki/日本航空電子工業 "wikilink")のDD1を用いている。
+
+なお、第1世代のの充電及びデータ転送はコンピュータやUSBハブのUSB端子を介して行うことができ、接続にはUSB端子に直接差し込むほかに、[USB延長ケーブル](https://ja.wikipedia.org/wiki/USB延長ケーブル "wikilink")や向けに用意されたを用いることもできる。第2世代では専用のを介し USB 端子へ接続して行う。また、第5世代以降のiPod touch、第7世代のiPod nanoでは、外部接続端子として[Lightning](https://ja.wikipedia.org/wiki/Lightning "wikilink")コネクタを使用している。
+
+の第1世代から第3世代には、心臓部であるCPUとして2つの[ARM](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink") 7TDMI（動作周波数90MHz）が使われた。それに対して、後期モデルは同じバッテリー容量でより長時間駆動させるために、CPU使用率に応じて周波数が動的に変化するスピード・チップ（最高周波数80MHz）が使われた。最新の第5世代で使用されているCPUは、ポータルプレイヤー社製のPP5021というデジタルプレイヤー向けのチップである。このチップにはインターフェイス機能が内蔵されていないが、次期チップであるPP5022ではインターフェイス機能が内蔵されている。 また、PP5022はPP5020に比べて低電圧低電流で稼働するので、バッテリーでの駆動時間を延ばす事にも寄与することが期待される。
+
+は[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")の1.8インチATAハードディスクドライブが使われ、IDE規格でないコネクターによって接続されている。では[日立の](../Page/日立製作所.md "wikilink")1インチ・ハードドライブが、ではのフラッシュメモリが、では8GBモデルが[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")、4GBモデルが[サムスン](https://ja.wikipedia.org/wiki/サムスン電子 "wikilink")、2GBモデルがハイニックス社のフラッシュメモリがそれぞれ記憶媒体として使われている。
+
+にはケースの中の[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")からオペレーティングシステムを読み込む装置に命じるプログラム、[ブートローダを含む](https://ja.wikipedia.org/wiki/ブート#ブートローダ "wikilink")32[MiBフラッシュ](https://ja.wikipedia.org/wiki/メビバイト "wikilink")[ROMチップが内蔵されている](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")。全てのiPodには、32MiB [RAM](../Page/Random_Access_Memory.md "wikilink")（第5世代iPodの60GBモデルに限り64MiB RAM）を内蔵している。このRAMの主な用途は、[ファームウェア](../Page/ファームウェア.md "wikilink")から読み込まれた用のオペレーティングシステムを動作させ、同時に音楽データをキャッシュしてHDDやメモリーからの読み込み回数を軽減し、電池の持続時間を延ばすことである。
+
+第4世代までのは曲の間隔無しに音楽を再生するギャップレス再生機能を搭載していなかったが、第5世代以降のモデルではほぼギャップレス再生に対応した。
+
+既に、携帯型音楽プレーヤー市場では、外部マイクや[ライン入力からの本格的な](https://ja.wikipedia.org/wiki/ライン_\(音響機器\) "wikilink")[生録が](../Page/録音.md "wikilink")[非圧縮で行えるなど](https://ja.wikipedia.org/wiki/PCM "wikilink")、との差別化を図った製品が発売されており、そうした製品は、音楽演奏などの収録に活用されている。
+
+の光沢のあるステンレス部分は[新潟県](../Page/新潟県.md "wikilink")の[東陽理化学研究所](https://ja.wikipedia.org/wiki/東陽理化学研究所 "wikilink")（いわゆる磨き屋シンジケートを含む）や台湾の[フォクスコンブランドを持つ](https://ja.wikipedia.org/wiki/Foxconn "wikilink")[ホン・ハイ社などが製造を担当している](https://ja.wikipedia.org/wiki/Hon-Hai "wikilink")。ホン・ハイはの製造を行っているが、検査以外は鏡面仕上げを含め全自動であるという。
+
+#### イヤフォン
+
+すべてのにはのデザイン色に合わせた、白いコードのインナーイヤーイヤフォンが付属しており、この白いイヤフォンはブランドのシンボルとなっている。この影響を受け、白いコードのインナーイヤーヘッドフォンが各社から多数発売されるといった状況になっている。
+
+他社の音質を追求したモデル（ライバルの[ソニー](../Page/ソニー.md "wikilink")のウォークマン、東芝のギガビートなど）を除く、比較的廉価な携帯型音楽プレーヤーと似て、に付属するイヤフォンは決して良い音質を実現しているわけではない。は全モデルで一般的にステレオミニジャックと呼ばれる3.5mmイヤホンジャックを採用しているため、プラグ部分が3.5mm規格もしくはそれに変換できるたいていのイヤフォン・ヘッドフォンを使用することができる。一部のサードパーティからは、向けの代替イヤフォンとして白色のイヤフォン、例えば、ソニー社製EX71の白色モデルや[エティモティック・リサーチ](https://ja.wikipedia.org/wiki/エティモティック・リサーチ "wikilink")社製ER-6i、シューレ社のE4c、クリプシュ社の等が販売されている。なお、付属のイヤフォンは左右のコードの長さが同じY型であり、イヤーパッド部分も左右のチャンネルの頭文字の「L」「R」の文字は入っているものの色分けはされていないため、慣れるまで扱いづらいことがある。
+
+またなどの[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")人気の恩恵を受けて、[ゼンハイザー](https://ja.wikipedia.org/wiki/ゼンハイザー "wikilink")社、[シュア社](https://ja.wikipedia.org/wiki/シュア_\(音響機器メーカー\) "wikilink")、[エティモティック・リサーチ](https://ja.wikipedia.org/wiki/エティモティック・リサーチ "wikilink")社、[アルティメット・イヤーズ](https://ja.wikipedia.org/wiki/アルティメット・イヤーズ "wikilink")社などが販売している、1万円を超えるような高価なイヤフォンの売り上げが好調となっている。
+
+新第5世代、第2世代、第2世代のカラーバリエーション増加後からは、全体が丸みを帯び、音質を向上させた新しいイヤフォンが付属している。
+
+白いイヤフォンを装着している人がすなわちの利用者である、という認識が広まる一方で、米国では白いイヤフォンで音楽を聴いているユーザーからを強奪するという事件が近年しばしば発生\[9\]しており、死者が出た例もある。
+
+このイヤフォンは日本の[フォスター電機](https://ja.wikipedia.org/wiki/フォスター電機 "wikilink")が単独供給している。
+
+### 互換性
+
+第1世代はまたはが動作するマッキントッシュでのみ使用できたが、2002年7月17日にアップルはオリジナルの[HFS](https://ja.wikipedia.org/wiki/HFS "wikilink")+フォーマットの代わりに[{{Langでフォーマットされた内蔵型HDDを持つ](https://ja.wikipedia.org/wiki/File_Allocation_Table "wikilink")互換の販売を開始した\[10\]。
+
+アップル社は2003年10月16日にの版をリリースした\[11\]。それ以前は、ユーザーがを使うには、[{{Lang](https://ja.wikipedia.org/wiki/MUSICMATCH_MP3_Jukebox "wikilink")、またはといったサードパーティ製ソフトウェアが必要だった。の版が公開されるまで向けには、が同梱されていた。
+
+初代はマッキントッシュでしか使えなかった。これは、HFS+でフォーマットされた記憶装置をで認識することが特別な追加ドライバソフトウェア無しには不可能だからである。第2世代はマッキントッシュ用がHFS+、用が32でフォーマットされて出荷された。第3世代はHFS+フォーマットで出荷され、これをへ接続した場合32フォーマットに初期化するかどうかの確認メッセージが表示される。なお、32フォーマットのをマッキントッシュに接続して使うこともできる。マッキントッシュは、32でフォーマットされた記憶装置を認識し、互換性を保ったまま使用できるからである。現在では、旧世代のマッキントッシュのみに対応しているも、で復元することで両オペレーティングシステムに対応させる事ができるが、アップル社の保証外動作のため保証は受けられなくなる。
+
+2004年1月8日に、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")社はをベースとしたHPブランド・デジタル音楽プレイヤーの製作のためアップル社からのライセンスを受けたと発表した。次の日、当時のヒューレット・パッカード社のチェアマン兼CEOのは2004年に[コンシューマー・エレクトロニクス・ショー](https://ja.wikipedia.org/wiki/コンシューマー・エレクトロニクス・ショー "wikilink")でベースの青色の装置を披露した。この「青色」はアップル社の製品ではないが、アップル社製のと全く同等の機能を有しているOEMである。実際に販売されたヒューレット・パッカード社版は青色ではなかったが、本体金属面にアップル社のロゴとヒューレット・パッカード社のロゴの刻印がある。2005年8月、「デジタルエンターテインメント戦略に合致しない」ことを理由に販売打ち切りを表明。同年9月末頃に販売を終了したものと見られる。
+
+プロジェクトはで動作するの[ARMバージョンの移植に成功している](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")。これはという仮想メモリの扱えない機器類への組み込み用に設計されたをベースとしており、現在第1世代（スクロールホイール）から第3世代までをサポートし、公式にはサポートされていないが、第4および第5世代、第1および第2世代の、第1世代上でも利用できる。及び上からインストールするためのインストーラが利用できる。をマウントできれば他のオペレーティングシステムからでもインストールできる。内にこのプロジェクトのウェブページ\[12\]が存在し、多くの関連文書がオンライン上に存在する\[13\]。また、同じようなものではプロジェクトというオープンソース・ファームウェアも存在し、音質向上、多機能化を実現する。現時点でiPod 1世代から5.5世代、、1世代、2世代まで互換性をサポートしている。また、は開発中である。これらやは設定次第ではマルチブートして併用可能である。そのほかには[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")および[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")に対応したエミュレーターや[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")を動かす技術などが開発されている。市販されたゲームでは[ボンバーマン](https://ja.wikipedia.org/wiki/ボンバーマン "wikilink")や[ソニック・ザ・ヘッジホッグ](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグ "wikilink")などが既に公式のゲームとして販売されている。
+
+## デザイン
+
+本体デザインは同社のマッキントッシュ・シリーズと同様、[ジョナサン・アイブ](https://ja.wikipedia.org/wiki/ジョナサン・アイブ "wikilink")が中心のデザインチームが担当している。マッキントッシュ・シリーズと同じく、光沢のあるプラスチックやカラーアルマイト、磨き上げられたステンレスなどの質感を重視した素材を使用し、可能な限りシンプルな形状にデザインされているのがシリーズ共通の特徴と言える。
+
+公開までの全てのの[GUIには](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")、マッキントッシュで使用されていたと言うフォントが使用されていた。
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Ipod-internals.jpg" title="wikilink">thumb</a></p></td>
+</tr>
+<tr class="even">
+<td><p>左から右へ：</p>
+<ul>
+<li><p>の表面ケース。</p></li>
+<li>グリーン色の<a href="../Page/プリント基板.md" title="wikilink">プリント基板</a>はを制御し、その下にある暗いグリーン基板はタッチ・スクロール・ホイール及びボタンを制御する。</li>
+<li><a href="https://ja.wikipedia.org/wiki/リチウムイオン二次電池" title="wikilink">リチウムイオン二次電池</a>。第4世代までは電池が基板とコネクタ接続されており素人でも容易に電池交換出来るキットなどが販売されていた。</li>
+<li><a href="https://ja.wikipedia.org/wiki/ハードディスクドライブ" title="wikilink">ハードディスクドライブ</a>、プリント基板から絶縁するためにソフト<a href="../Page/ゴム.md" title="wikilink">ゴム</a>の層によって保護されている。ゴムの層はを持ち運ぶ際に発生する衝撃から、動作中のハードディスクを保護する役割も担っている。</li>
+<li>ステンレス製の筐体背面部。</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## 非純正アクセサリー
+
+[thumbnail](https://ja.wikipedia.org/wiki/ファイル:録音アダプターが接続されたipod_nano.JPG "wikilink") [thumbnail](https://ja.wikipedia.org/wiki/ファイル:Fmtrancemitter&iPod_classic.jpg "wikilink") はアクセサリー産業の二次市場を大きく成長させる発端となり、2005年のマックワールド基調演説でアップル社CEOスティーブ・ジョブズはそれを「経済」と呼んだ。一般的には、[生態系](https://ja.wikipedia.org/wiki/生態系 "wikilink")になぞらえてエコシステムと呼ばれることもある。
+
+のアクセサリーにはメモリーカードリーダー、FMトランスミッター、及びボイスレコーダモジュールなどが存在する。それらのコネクターは音の信号を通し電源をまたはアクセサリーに送ると同時に制御及び情報を提供する。これらのアクセサリー（ケース類などは除く）について2005年10月にアップル社がロイヤリティ料を徴収する旨の記事が出たが、現在ロイヤリティ料を徴収する決定はアップル社で出されていない。また、[{{Lang](https://ja.wikipedia.org/wiki/吉田カバン "wikilink")（吉田カバン）や[プラダ](https://ja.wikipedia.org/wiki/プラダ "wikilink")、[グッチ](https://ja.wikipedia.org/wiki/グッチ "wikilink")、[コーチ](https://ja.wikipedia.org/wiki/コーチ_\(企業\) "wikilink")、[ポール・スミス](../Page/ポール・スミス.md "wikilink")、[ルイ・ヴィトン](https://ja.wikipedia.org/wiki/ルイ・ヴィトン "wikilink")、[ダンヒル](https://ja.wikipedia.org/wiki/ダンヒル "wikilink")など各種ファッションブランドの専用ケース等も存在し、アップル社でも、[靴下](https://ja.wikipedia.org/wiki/靴下 "wikilink")をモチーフにした靴下を販売している。
+
+<table>
+<caption>をサポートする非純正ツール</caption>
+<thead>
+<tr class="header">
+<th><p>名前</p></th>
+<th><p>概要</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>[14]プラグインをオプションとしてインストールしてを管理できる、向け音楽プレイヤー。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>完全にをサポートしている<a href="../Page/KDE.md" title="wikilink">KDE</a>向け音楽プレイヤー。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="../Page/GNOME.md" title="wikilink">GNOME</a>上で動作するクローン。</p></td>
+</tr>
+<tr class="even">
+<td><p>[15]</p></td>
+<td><p>を目標とした GTK上のGTKツールキットを使用したシステム向け管理プログラム。</p></td>
+</tr>
+<tr class="odd">
+<td><p>[16]</p></td>
+<td><p>をサポートするために加えられた向け<a href="../Page/オープンソース.md" title="wikilink">オープンソース</a>・プラグイン。</p></td>
+</tr>
+<tr class="even">
+<td><p>[17]</p></td>
+<td><p>多くのの特徴を備えたアプリケーション。はからコンピューターへ音楽のコピーもできる。</p></td>
+</tr>
+<tr class="odd">
+<td><p>プロジェクト</p></td>
+<td><p>上でを利用できる。現在は1G、2G、および3Gのサポートを提供。これはも含めて、他の世代のでも利用できるが、プロジェクトでは、導入方法等に関しての言及はあるが、公式なサポートは行わない、としている。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>上で<a href="https://ja.wikipedia.org/wiki/Windows_Media_Audio" title="wikilink">WMAや</a>などの音楽ファイルを再生したり、<a href="../Page/MP3.md" title="wikilink">MP3</a>などのギャップレス再生を可能にする<a href="../Page/オープンソース.md" title="wikilink">オープンソース</a>のファームウェア。2007年11月15日現在、（第5.5世代以前）、、（第1世代のみ）に対応。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>のファームウェア内の画像を入れ替える用ソフトウェア。</p></td>
+</tr>
+</tbody>
+</table>
+
+グリフィン・テクノロジー社\[18\]は、、、およびを含む、いくつかのアクセサリーを作成している。テン・テクノロジー社による\[19\]はアップル向け5ボタン赤外線リモート・コントローラーである。[ソニー](../Page/ソニー.md "wikilink")や[クリエイティブテクノロジー](https://ja.wikipedia.org/wiki/クリエイティブテクノロジー "wikilink")は、シリーズと競合するデジタルオーディオプレーヤーを製造しているが、同時に、専用のハードウェアも生産している。
+
+## iPodシリーズの歴史
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Lightmatter_ipodvsmini.jpg "wikilink") 最初のはマッキントッシュ専用の[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")として2001年10月23日に発表され、2002年発売の第2世代でにも対応した。「のライブラリに収めた音楽を外へ持ち出す」というコンセプトで開発されており「まずありき」である点が、先行していた他のデジタル音楽プレイヤーとははっきり異なる。これは発表時の惹句「iTunes to go」によく現れている。この惹句は発表時の「iMac to go」にかけたもの。日本では「Goodbye MD」という惹句で[ミニディスク](../Page/ミニディスク.md "wikilink")市場からの占有率獲得を目指した。はとの同期機能を備えることにより、自宅での環境をそのまま外へ持ち出すというコンセプトをより鮮明にした。
+
+発売された初期の頃は電池の消耗・劣化が激しく、更に電池の交換費用が高額だったために、米国では購入者から電池交換費用を安くするよう運動やデモを起こされ、集団訴訟にまで発展した。この訴訟でアップル社が応じた和解の条件は以下の通りである。2004年5月31日までに第3世代までのを米国で購入した米国の居住者に対して、バッテリの無償交換もしくは50ドルの商品券を渡すこと、あるいはその期間までにの電池交換を有償で受けた購入者には最大で50パーセントの有償交換金額の返金に応じる、の2点である。また、イギリスの国会でもの電池劣化問題が話題となったが、2004年6月以降からは電池も改良され、更にサポートとしてAppleCare Protection Planが発売されて解決している。2005年10月14日には、電池交換サービスの料金が従来の15,750円から半額以下の6800円に改訂された。
+
+の新製品は発表直後に発売開始されるため、初期出荷数と需要のバランスが悪く、人気が集中する発売から数か月は購入が難しくなる状況に陥る場合が多い。やの場合がそれに該当し、店舗で入手困難な状況が数ヶ月間は続いた。
+
+が普及する要因になったのは、使いやすいUIとシンプルなデザインもあるが、多くのユーザによるネット上での[トラブルシューティング](https://ja.wikipedia.org/wiki/トラブルシューティング "wikilink")の多さが、をデジタル音楽プレイヤーのスタンダードの地位に押し上げ、今なおユーザを増やしている。そのため、2007年現在日本の総売上の約5割がシリーズである。米国では8割近い。
+
+日本ではが2003年に、が2004年に、更にが2005年に揃って[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")を受賞した。ちなみにが金賞を、はグッドデザイン賞ベスト15に選ばれた。更に[ロジクール](https://ja.wikipedia.org/wiki/ロジクール "wikilink")社が出した用のワイヤレスヘッドホンも同様に2005年グッドデザイン賞に選出された。
+
+2005年10月12日、動画の再生に対応した第5世代のが発表され、同時に動画転送のためのツールであるを発表した。
+
+また、2006年1月11日に「iPod Radio Remote」という名でサードパーティからは既に発売され、以降も公式な対応が求められていた[FMラジオチューナー機能付きのワイヤードリモコンが発表され](https://ja.wikipedia.org/wiki/ラジオ#FM放送（超短波放送） "wikilink")、第5世代以降発表のを除くモデルでのラジオ受信が可能となった。また、ファームウェア上ではRadio Data Systemを標準に準拠したデータが送られ、ラジオ局の情報や聞いている曲、ミュージシャンの名前などの情報が表示される仕様となっている。北米などを中心にRDSは既に開始されているものの、日本のFMラジオ放送ではこのRDSを送信しておらず、現在は特に何も表示されない。また、日本の見えるラジオなどのFM[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")には対応していない。第5世代発表から11か月後の2006年9月12日にはマイナーチェンジが行われ、新たに80GBモデルが投入された。主な改良点は液晶ディスプレイの高輝度化（従来比160%）、動画再生機能の強化、iTunes Storeからのゲームダウンロードに対応、等。同時に映画コンテンツ（2006年9月現在日本では開始されていない）・5G向けゲームのダウンロードに対応したが発表された。なお、この際第1世代からリクエストされてきた[ギャップレス再生](https://ja.wikipedia.org/wiki/ギャップレス再生 "wikilink")機能をサポート。
+
+2007年2月8日、アメリカ合衆国[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")のカール・クルーガー上院議員がなどの電子機器を操作しながら横断歩道を渡ることを禁じる法案を同州議会に提出した。同州ではなどの電子機器を操作しながら横断歩道を歩いていた住民が車に轢かれ死亡する事件が3件発生し、そのうち1件は「危ない」と叫んでいたのにもかかわらず気付かずに轢かれて死亡した。
+
+[2014年](../Page/2014年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")に開かれたAppleスペシャルイベントの終了後、公式サイトの[アップルストア](https://ja.wikipedia.org/wiki/アップルストア "wikilink")でのiPod classicの取り扱いがなくなり、各メディアにおいて販売が終了したことが報道された。これにより2001年から続いた特徴的なスクロールホイールを搭載した全てのiPodがラインナップから姿を消したこととなる。
+
+## 広告
+
+広告方法も斬新なもので、ビビッドカラーの背景に人物のシルエットが踊りまくる広告を大量に投入し、そのCMに採用された曲がヒットすることも多い。2004年10月に放送が開始されたバージョンの広告\[20\]ではBGMに[U2](../Page/U2.md "wikilink")の『[ヴァーティゴ](https://ja.wikipedia.org/wiki/ヴァーティゴ_\(曲\) "wikilink")』が採用され、メンバーたちが微妙に顔が判別できる程度のシルエットの形で出演した。ちなみに[U2](../Page/U2.md "wikilink")はそれまで広告等のタイアップに決して応じることが無いと言われていたが、今回は無料で出演している。これ以降、楽曲と共に本人達によるシルエット出演が行われたのは[エミネム](https://ja.wikipedia.org/wiki/エミネム "wikilink")、[ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink")、[ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink")、[コールドプレイ](https://ja.wikipedia.org/wiki/コールドプレイ "wikilink")等である。
+
+U2と同様に広告等のタイアップに今まで応じたことが無かった[エミネム](https://ja.wikipedia.org/wiki/エミネム "wikilink")の起用にあたっては、当初、米国で放送された広告において自身の楽曲『[ルーズ・ユアセルフ](https://ja.wikipedia.org/wiki/ルーズ・ユアセルフ "wikilink")』の無断使用が発覚したため、エミネムのレーベル会社である「エイト・マイル・スタイル」がアップル社と広告を制作した広告代理店に対する著作権侵害を訴える裁判沙汰に発展した。2004年2月に始まった訴訟は翌年5月に和解が成立したため、晴れて同10月からのiPodの広告としてエミネム本人のシルエット出演と共にタイアップされることになった。
+
+また一方で、[カンセイ・ジ・セール・セクシー](https://ja.wikipedia.org/wiki/カンセイ・ジ・セール・セクシー "wikilink")（CSS）の『Music Is My Hot, Hot Sex』をタイアップしたバージョンが[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")10月に放映されたが、これは元々、イギリスの大学生が、アップル社サイトからとってきたビデオ・クリップを組み合わせた映像にCSSの楽曲を乗せて編集した、云わば風の自作コマーシャルであった。作成した大学生がこのクリップを[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")に投稿していたところ、アップル社の目に留まり、本物のコマーシャルとして採用されて放映されることになったという。
+
+<table>
+<caption>広告リスト</caption>
+<thead>
+<tr class="header">
+<th><p>作曲者</p></th>
+<th><p>曲名</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/プロペラヘッズ" title="wikilink">プロペラヘッズ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ブラック・アイド・ピーズ" title="wikilink">ブラック・アイド・ピーズ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ジェット_(バンド)" title="wikilink">ジェット</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/N.E.R.D" title="wikilink">N.E.R.D</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/フューチャーキャスト" title="wikilink">フューチャーキャスト</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ザ・ヴァインズ" title="wikilink">ザ・ヴァインズ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ステリオグラム" title="wikilink">ステリオグラム</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/オゾマトリ" title="wikilink">オゾマトリ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/U2.md" title="wikilink">U2</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/シーザーズ" title="wikilink">シーザーズ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ゴリラズ" title="wikilink">ゴリラズ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ダフト・パンク" title="wikilink">ダフト・パンク</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ザ・リソース" title="wikilink">ザ・リソース</a>、<a href="https://ja.wikipedia.org/wiki/ジミー・ネイプス" title="wikilink">ジミー・ネイプス</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/プロトタイプス" title="wikilink">プロトタイプス</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/U2.md" title="wikilink">U2</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/エミネム" title="wikilink">エミネム</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ウィントン・マルサリス" title="wikilink">ウィントン・マルサリス</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ライノセラス" title="wikilink">ライノセラス</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ウルフマザー" title="wikilink">ウルフマザー</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/ボブ・ディラン.md" title="wikilink">ボブ・ディラン</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/カット・ケミスト" title="wikilink">カット・ケミスト</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/クンビア・キングス" title="wikilink">クンビア・キングス</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ザ・フラテリス" title="wikilink">ザ・フラテリス</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Nickodemus &amp; Quantic、Tempo</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/ポール・マッカートニー.md" title="wikilink">ポール・マッカートニー</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/レスリー・ファイスト" title="wikilink">ファイスト</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/カンセイ・ジ・セール・セクシー" title="wikilink">カンセイ・ジ・セール・セクシー</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/メアリー・J._ブライジ" title="wikilink">メアリー・J. ブライジ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ブレンダン・ベンソン" title="wikilink">ブレンダン・ベンソン</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ザ・ティン・ティンズ" title="wikilink">ザ・ティン・ティンズ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/コールドプレイ" title="wikilink">コールドプレイ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/アステロイズ・ギャラクシー・ツアー" title="wikilink">アステロイズ・ギャラクシー・ツアー</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/チェアーリフト" title="wikilink">チェアーリフト</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/フランツ・フェルディナンド_(バンド)" title="wikilink">フランツ・フェルディナンド</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ミス・リー" title="wikilink">ミス・リー</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ケイク" title="wikilink">ケイク</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/シャッポ" title="wikilink">シャッポ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ザ・ビートルズ" title="wikilink">ザ・ビートルズ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/グループラヴ" title="wikilink">グループラヴ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ザ・ポリフォニックスプリー" title="wikilink">ザ・ポリフォニックスプリー</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フォルクスワーゲン" title="wikilink">フォルクスワーゲン</a>との合作。<a href="https://ja.wikipedia.org/wiki/フォルクスワーゲン・ニュービートル" title="wikilink">ニュービートルの広告でもある</a>。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/グリーン・デイ" title="wikilink">グリーン・デイ</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ペプシコーラ" title="wikilink">ペプシコーラ</a>との合作。</p></td>
+</tr>
+</tbody>
+</table>
+
+## 保証での交換・修理を減らす技術
+
+2008年4月、アップル社はに関し、液体の侵入や極端な温度、過度の衝撃、不正改造したなどの場合、それをメモリーに記録する技術を開発し特許を取得した。一見しただけでは故障原因がわからないような故障の原因を特定することにより、元来であれば無償でしていたような修理交換を有償でできるようにすることに狙いがある\[21\]。
+
+## 著作権料に関する論争
+
+  - [カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")ではiPodから著作権料を課金する行為が違法であるとした司法判決が2005年7月に最高裁で下った。
+  - [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")ではiPodなどの価格に「著作権者への補償金」が含まれている。2005年には、iPod nanoなどのフラッシュメモリプレイヤーに対する料率が引き下げられる見込みである。
+
+### 日本における状況
+
+2005年4月28日に行われた[文化庁](../Page/文化庁.md "wikilink")文化審議会[著作権](../Page/著作権.md "wikilink")分科会法制問題小委員会の第3回審議において、[私的録音補償金制度](https://ja.wikipedia.org/wiki/私的録音補償金制度 "wikilink")の見直しについての意見書が[JASRACなどの権利団体から提出され](../Page/日本音楽著作権協会.md "wikilink")、「ハードディスク内蔵型レコーダーと[Blu-ray Disc録画機器およびディスクを私的録音補償金制度の対象に含めるべき](../Page/Blu-ray_Disc.md "wikilink")」と課金対象を具体的に示した。これはまず間違いなくiPodを始めとするハードディスク内蔵型音楽プレイヤーに対してのものである。
+
+しかし、音楽CDなどのデータソースに対する著作権使用料に加えてプレイヤーに対する著作権使用料も徴収される事になってしまうために、「これは著作権料の二重取りになるものだ」といった非難の声が、消費者からはもちろんの事、審議参加議員らからも上がった。そのため、審議は一般人の声にも対応する為に2005年9月以降までに延期されることになり、この課金制度適用については2年先送りすることで決定した。その期間中に寄せられた意見は、iPodなどのハードディスク内蔵型音楽プレイヤーに対して著作権使用料を取得することに対する反対意見が、賛成意見の4倍以上となる結果となった\[22\]。
+
+また、[知的財産推進計画](https://ja.wikipedia.org/wiki/知的財産推進計画 "wikilink")2007\[23\]の策定に際して行われた「知的財産推進計画2006」の見直しに関する意見募集\[24\]では、日本法人であるアップルジャパン株式会社名で「私的使用複製について結論を得る」に関する意見として、著作物の私的複製による権利侵害には科学的且つ客観的証拠は存在せず、仮に私的複製により権利侵害を被ったと主張するなら、原因は複製防止技術を備えていない著作物パッケージを製造販売しているレーベルに有り、ハードウェア会社に対して責任転嫁するのは無責任且つ自己中心的な姿勢であるとし、「科学的且つ客観的証拠に基づかない理由に依る私的録音録画補償金制度は即時撤廃すべきである」と主張する意見が掲載されたが、後に提出者からの要請で撤回された。アップルジャパンは、この意見が同社が提出したものかどうかについてコメントを避けている\[25\]。
+
+## 難聴論争
+
+[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")ではiPodが[難聴](https://ja.wikipedia.org/wiki/難聴 "wikilink")（[音響難聴](https://ja.wikipedia.org/wiki/難聴#音響難聴 "wikilink")）を引き起こす原因になるという論争が持ち上がり、訴訟に発展している。
+
+件の訴訟は[ルイジアナ州](https://ja.wikipedia.org/wiki/ルイジアナ州 "wikilink")の男性によって2006年1月31日に起こされた。訴状によれば、は115[デシベル](../Page/デシベル.md "wikilink")以上の音量を再生することが可能であり、この音量で1日28秒以上聴き続けると、難聴を引き起こすおそれがあるとのこと。には「115デシベル以上を再生できるという、設計上の致命的欠陥」があり、これにより正常な聴覚を失う可能性に関してアップルは適切な警告と対策、補償を十分に行なっていないとされている。
+
+この訴訟は[集団訴訟と認定されることが請求されており](https://ja.wikipedia.org/wiki/訴訟 "wikilink")、被害に対する賠償と、iPodを安全なものにする改善を要求している。
+
+但し、件の男性は2005年にを購入したとされているが、実際にで難聴になったかどうかは[訴状](https://ja.wikipedia.org/wiki/訴状 "wikilink")では明らかにされていない。男性の[弁護士](https://ja.wikipedia.org/wiki/弁護士 "wikilink")によると、実際にで難聴になったかは重要ではなく、が取り返しのつかない難聴を引き起こす可能性が問題なのだという。
+
+ただ、の騒音性難聴を引き起こす「性能」が他のプレーヤーと比較して高いかに関しては疑問の余地が残る。同様の問題点は[ウォークマン](https://ja.wikipedia.org/wiki/ウォークマン "wikilink")など携帯音楽プレーヤーが普及し始めた1980年代より言われていた問題で、他の携帯音楽プレーヤー全てに対して言えることでもあり、危険性はユーザー次第、ユーザーが用いる音量次第であり、自己責任との声もある\[26\]。
+
+現在には、「イヤホンやヘッドホンを大音量で使用すると、[聴覚](https://ja.wikipedia.org/wiki/聴覚 "wikilink")を損なうおそれがあります」という警告文が添えられ、アップルからは最高音量の半分以下で使用することが推奨されている。なお、他プレーヤーでもこのような警告文が添えられている。また、最新版の[ソフトウェア](../Page/ソフトウェア.md "wikilink")では、第5世代、、向けに、ある一定以上の音量が出ないように設定する機能が提供されている。但し、この機能は旧世代機（第4世代以前の、）には提供されていない。
+
+ちなみに、米国のとある大学で行われた調査によると音量を80パーセント以上で1日90分以上イヤホンやヘッドホンで音楽を聴くと難聴になりやすくなり、音量を100パーセントで1日5分以上聞くと難聴になる危険性が高いとの結論となった。逆に、音量を10パーセントから50パーセントで1日90分以上聞く場合は難聴になる問題は無いとされている。ただし、個々のイヤホンのインピーダンスや感度の違いにより、同じ音量設定でも耳に入る音の大きさは違う。
+
+## 競合製品
+
+<table>
+<thead>
+<tr class="header">
+<th><p>メーカー</p></th>
+<th><p>製品名</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/アイリバー.md" title="wikilink">アイリバー</a></p></td>
+<td><p>MP3プレイヤー</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ケンウッド" title="wikilink">ケンウッド</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/クリエイティブ・テクノロジー" title="wikilink">クリエイティブ・テクノロジー</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>クリエイティブ・テクノロジー</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/ソニー.md" title="wikilink">ソニー</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/デル" title="wikilink">デル</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/東芝" title="wikilink">東芝</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/トランセンド" title="wikilink">トランセンド</a></p></td>
+<td><p>MP3プレーヤー</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/パナソニック" title="wikilink">パナソニック</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/マイクロソフト.md" title="wikilink">マイクロソフト</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 脚注
+
+## 関連項目
+
+  - [トニー・ファデル](https://ja.wikipedia.org/wiki/トニー・ファデル "wikilink") - iPod生みの親\[27\]
+
+  - [ジェームス比嘉](https://ja.wikipedia.org/wiki/ジェームス比嘉 "wikilink") - iPod開発と[iTunes Store設立のキーマン](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")\[28\]
+
+  -
+  - [{{Lang](https://ja.wikipedia.org/wiki/iPodのゲームタイトル一覧 "wikilink")
+
+  - [{{Lang](https://ja.wikipedia.org/wiki/iPod管理ソフト "wikilink")
+
+  - [{{Lang](https://ja.wikipedia.org/wiki/TBWA/CHIAT/DAY "wikilink")
+
+  - [{{Lang](https://ja.wikipedia.org/wiki/TBWA/HAKUHODO "wikilink")
+
+  - [ユーリ・ポドラドチコフ](https://ja.wikipedia.org/wiki/ユーリ・ポドラドチコフ "wikilink") - ニックネームが、**Iouri Podladtchikov**というスペルから**IPod**となっている[スイス](../Page/スイス.md "wikilink")の[スノーボード](../Page/スノーボード.md "wikilink")選手。
+
+## 外部リンク
+
+  - [iPod - Apple（日本）](http://www.apple.com/jp/ipod/)
+
+[Category:IPod](https://ja.wikipedia.org/wiki/Category:IPod "wikilink")
+
+1.
+2.  [米国特許庁 特許番号6,928,433](http://patft.uspto.gov/netacgi/nph-Parser?TERM1=6%2C928%2C433&Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=0&f=S&l=50)
+3.  [1](http://www.watch.impress.co.jp/av/docs/20060824/zenipod.htm)
+4.  \[<http://docs.info.apple.com/jarticle.html?artnum=93739>を起動ディスクとして使用しないでください\] - アップル サポート情報記事（Knowledge Base）
+5.
+6.  [xoplay.com](http://www.xoplay.com/)
+7.  [pipod.sliceny.com](http://pipod.sliceny.com/)
+8.  [2](http://japanese.engadget.com/2011/10/01/ipod-classic/)
+9.  [iPod利用者へ：強盗に注意\!（iPod強奪事件の報告）](http://www.ny.us.emb-japan.go.jp/jp/h/86.html) - 在ニューヨーク日本国総領事館
+10. [3](http://www.apple.com/pr/library/2002/jul/17ipod.html)
+11. [4](http://www.apple.com/pr/library/2003/oct/16itms.html)
+12. [5](http://ipodlinux.sourceforge.net/)
+13. [6](http://www.ipodlinux.org/Documentation)
+14. [yuo.be/ipod.php](http://yuo.be/ipod.php)
+15. [gtkpod.sourceforge.net](http://gtkpod.sourceforge.net/)
+16. [mlipod.sourceforge.net](http://mlipod.sourceforge.net/)
+17. [7](http://www.ephpod.com/)
+18. [griffintechnology.com](http://www.griffintechnology.com/)
+19. [8](http://www.tentechnology.com/)
+20. \[<http://www.apple.com/jp/itunes/u2/ad/>\] \[<http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewVideo?b=a&videoId=26755547>\]
+21. [、ユーザーの「不適切使用」を検出する特許を出願](http://www.itmedia.co.jp/news/articles/0908/10/news004.html)
+22. [「iPod課金すべきではない」が80件〜文化審議会が意見募集の中間集計](http://internet.watch.impress.co.jp/cda/news/2005/10/03/9332.html) [インプレス](https://ja.wikipedia.org/wiki/インプレス "wikilink") インターネットWatch
+23. [知的財産推進計画2007の策定](http://www.kantei.go.jp/jp/singi/titeki2/keikaku2007.html)
+24. [「知的財産推進計画2006」の見直しに関する意見募集 団体からの意見（PDF）](http://www.kantei.go.jp/jp/singi/titeki2/070531/iken1.pdf)
+25. [知的財産推進計画へのアップルジャパンの意見を削除](http://www.watch.impress.co.jp/av/docs/20070815/kantei.htm)
+26. [ロック難聴、音響外傷・笠井耳鼻咽喉科クリニック自由が丘診療室](http://www.linkclub.or.jp/~entkasai/onkyougaishou.html)
+27.
+28.

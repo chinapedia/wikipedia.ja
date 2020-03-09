@@ -1,0 +1,41 @@
+> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+
+
+**タイプR**（タイプアール、）は、[ホンダの](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")[自動車](../Page/自動車.md "wikilink")のスポーツグレードに用いられる名称である。
+
+## 概要
+
+ホンダの車種に設定されたスポーツモデルにおける最上位グレードであり、ホンダのスポーツ車全体の代名詞ともいえる\[1\]。該当車種の標準グレード車に比べ、より高性能なエンジンやブレーキ、[サスペンション](../Page/サスペンション.md "wikilink")などを搭載し、さらに車体の一部をアルミや[CFRPへと置き換えることによる軽量化](https://ja.wikipedia.org/wiki/炭素繊維強化プラスチック "wikilink")、それらに加え、ボディにも剛性向上のため補強がされている。これらによって高い走行性能を持つ反面、軽量化のためにカーオーディオや遮音材、エアコンなどの快適装備を省略、またはオプション設定し、サスペンションもスポーツ走行向けに硬く設定されており、乗り心地や快適性を犠牲にしている側面も持つ。なお、他社のスポーツ車種のエンジンが[過給機](../Page/過給機.md "wikilink")の装着により高出力を得る例が多いことに対し、タイプRでは超高回転型の[自然吸気](https://ja.wikipedia.org/wiki/自然吸気 "wikilink")エンジンを採用し高出力を得ていたが、FK2型シビックからは過給器を搭載している。現在に至るまで全車種が[MT仕様のみの設定であり](https://ja.wikipedia.org/wiki/マニュアルトランスミッション "wikilink")、[AT仕様は販売されていない](../Page/オートマチックトランスミッション.md "wikilink")。設定車種は現在まですべてに専用ボディカラーとしてチャンピオンシップホワイトが設定され、イメージカラーにもなっている\[2\]。また、タイプR独特の装備として赤いエンブレムが装着されている。
+
+## 盗難問題
+
+タイプRは、車種に限らず[車両盗難に遭うケースが非常に多い](https://ja.wikipedia.org/wiki/自動車盗 "wikilink")。そのため[NSX・タイプR（NA2型）の後期型](../Page/ホンダ・NSX.md "wikilink")、[インテグラ・タイプR（DC5型）の後期型](https://ja.wikipedia.org/wiki/ホンダ・インテグラタイプR "wikilink")、[シビック・タイプR（EP3型）の後期型](https://ja.wikipedia.org/wiki/ホンダ・シビックタイプR "wikilink")、[シビック・タイプR（FD2型）においては](https://ja.wikipedia.org/wiki/ホンダ・シビックタイプR "wikilink")[イモビライザー](https://ja.wikipedia.org/wiki/イモビライザー "wikilink")が標準装備されている。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にはこれらを専門にして盗難を繰り返していた[窃盗団](https://ja.wikipedia.org/wiki/窃盗団 "wikilink")が[栃木県警によって逮捕され](https://ja.wikipedia.org/wiki/栃木県警察 "wikilink")、詳細が報じられている\[3\]。
+
+## タイプRがラインナップされた車種
+
+発売時期は日本国内でのもの。欧州製のシビック等、海外での発売時期は多少異なる。
+
+  - [NSXタイプR](https://ja.wikipedia.org/wiki/ホンダ・NSX#タイプR "wikilink")
+      - NA1型（1992-1995）
+      - NA2型（2002-2005）
+  - [インテグラタイプR](https://ja.wikipedia.org/wiki/ホンダ・インテグラタイプR "wikilink")：DC2型は北米でACURA Integra typeR（丸目4灯）としても販売されていた。
+      - DC2型/DB8型（1995-2001）
+      - DC5型（2001-2006）
+  - [アコードタイプR](../Page/ホンダ・アコード.md "wikilink")：欧州のみ設定。日本国内では「[ユーロR](https://ja.wikipedia.org/wiki/ホンダ・アコードユーロR "wikilink")」として販売されていた。
+      - CF型（1997-2002）
+      - CL型（2002-2008）
+  - [シビックタイプR](https://ja.wikipedia.org/wiki/ホンダ・シビックタイプR "wikilink")
+      - EK9型（1997-2000）
+      - EP3型（2001-2005）欧州製。
+      - FD2型（2007-2010）
+      - FN2型（2007-2012）欧州製。
+      - FK2型（2015-2016）欧州製。
+      - FK8型（2017-）欧州製。
+
+## 脚注
+
+[Category:ホンダの車種](https://ja.wikipedia.org/wiki/Category:ホンダの車種 "wikilink")
+
+1.  基本的にカタログはベース車とは別にされており、タイプRのみを取り扱う専門誌、中古専門店も存在する。
+2.  レーシングドライバーの[木下隆之](https://ja.wikipedia.org/wiki/木下隆之 "wikilink")は自身の連載コラムで『おそらくタイプRの8割以上はこのカラーリングなのだろうと思わせるほどの定番である。』と述べている。（第30回クルマ・スキ・トモニ）
+3.  2008年2月20日14時42分『インテグラ・タイプR100台盗難､男7人逮捕』[読売新聞](https://ja.wikipedia.org/wiki/読売新聞 "wikilink")

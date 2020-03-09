@@ -1,0 +1,100 @@
+> この記事は[NIGHT!!](https://ja.wikipedia.org/wiki/NIGHT!!)から翻訳されています。
+
+
+**東京っ子NIGHTお遊びジョーズ\!\!**（とうきょうっこナイトおあそびジョーズ）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[1989年](../Page/1989年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")に[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
+
+## 概要
+
+『東京っ子NIGHT - 』時代は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[海岸](https://ja.wikipedia.org/wiki/海岸_\(東京都港区\) "wikilink")3丁目の[オンワード樫山](../Page/オンワード樫山.md "wikilink")芝浦第2ビル7階にあった『**TOKYO BAY STUDIO**』から放送されていた。当時、メインパーソナリティの[関秀章](https://ja.wikipedia.org/wiki/関秀章 "wikilink")は毎週月曜日に『[ファンキートマト](https://ja.wikipedia.org/wiki/ファンキートマト "wikilink")』（[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")、19:00 - 21:00）の生放送もあり、[横浜から港区海岸のスタジオまでわずか](https://ja.wikipedia.org/wiki/横浜市 "wikilink")30分で移動しなければならなかったため、毎週時間内に入れるかどうかが話題となっていた。そのような中で、1987年[5月5日](../Page/5月5日.md "wikilink")の放送では間に合わず、あらかじめスタジオに待機していたもう一人のパーソナリティ・[太田英明](https://ja.wikipedia.org/wiki/太田英明 "wikilink")が途中まで進行し、関が入って来たところからその日は最後まで二人で進行した、ということがあった\[1\]。
+
+『東京っ子NIGHT - 』時代のオープニングテーマ曲は、[スウィング・アウト・シスター](https://ja.wikipedia.org/wiki/スウィング・アウト・シスター "wikilink")の曲『[ブレイクアウト](https://ja.wikipedia.org/wiki/ブレイクアウト_\(スウィング・アウト・シスターの曲\) "wikilink")』をアレンジして製作したオリジナルヴァージョンの曲\[2\]。
+
+[1988年](../Page/1988年.md "wikilink")4月のリニューアル後はタイトルから「東京っ子NIGHT」が取れて「お遊びジョーズ\!\!」のみとなり、同時にTOKYO BAY STUDIOを離れて東京・[四谷](../Page/四谷.md "wikilink")の本社スタジオ（当時）からの生放送に変更となった。
+
+## パーソナリティ
+
+### 1987年4月 - 1988年3月
+
+  - 月 - 木曜：[関秀章](https://ja.wikipedia.org/wiki/関秀章 "wikilink")（当時「[ニュースステーション](../Page/ニュースステーション.md "wikilink")」の[金曜チェック](https://ja.wikipedia.org/wiki/金曜チェック "wikilink")などの構成を務めていた[放送作家](../Page/放送作家.md "wikilink")）
+  - 金曜：[太田英明](https://ja.wikipedia.org/wiki/太田英明 "wikilink")（文化放送アナウンサー）
+
+### 1988年4月 - 1989年9月
+
+  - 月 - 木曜：[ちびっこギャング](https://ja.wikipedia.org/wiki/ちびっこギャング "wikilink")
+  - 金曜：[桑野信義](https://ja.wikipedia.org/wiki/桑野信義 "wikilink")（正式タイトルは「RATS FAMILY 桑野信義のお遊びジョーズ\!\!」）
+
+## 放送時間
+
+  - 1987年4月 - 1988年3月 月 - 金曜 21:30 - 24:00
+  - 1988年4月 - 1989年3月 月 - 金曜 21:40 - 24:00
+  - 1989年3月 - 1989年9月 月 - 金曜 22:00 - 24:00 （「WAI WAI PARTY」の単独番組化により）
+
+## 番組構成
+
+### 1987年当時のタイムテーブル
+
+  - 21:30 オープニング
+  - 21:35 **東京奇々怪界**：番組のメインコーナー。東京のさまざまな超常現象をネタに、トークを展開していく。その日のテレビ[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")や[ヒットチャート](https://ja.wikipedia.org/wiki/ヒットチャート "wikilink")から出題するクイズなどもあった。なお、コーナースポンサーの[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")のゲーム『[奇々怪界](https://ja.wikipedia.org/wiki/奇々怪界 "wikilink")』（当時、[ファミコン版が発売された](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")）に由来するタイトル。
+  - 21:45 **異文化見聞録　コロンブスのゆで卵**：語り・[久米明](../Page/久米明.md "wikilink")。日本のあらゆる[異文化コミュニケーション](https://ja.wikipedia.org/wiki/異文化コミュニケーション "wikilink")を独自解析していく。前番組「[新てるてるワイド 吉田照美のふッかいあな](https://ja.wikipedia.org/wiki/吉田照美のてるてるワイド "wikilink")」の1コーナーだったが、唯一継続された。1988年4月からは、21:30 - 21:40の独立した番組となる（1989年3月まで）。
+  - 21:55 文化放送　スポットニュース、スポーツニュース
+  - 22:00 **私鉄沿線お遊びジョーズ**：東京の話題や珍情報、各路線の沿線のヒロイン、気になる駅員などを紹介していたコーナー。不定期で、東京ならではのCMソングなどを特集したりもしていた。「私鉄沿線バカ息子」の企画があり、当時16歳の高橋栄君(仮名)が出演していた。
+  - 22:10 **今週の歌**：1週間通しで、歌を紹介するコーナー。
+  - 22:15 **[味の素](https://ja.wikipedia.org/wiki/味の素 "wikilink")TEENS枠**：アイドル番組枠。味の素の炭酸飲料「TEENS」とのタイアップ。現在、同商品は販売していない。
+      - 1987.4-9 **Teen'sギャング[男闘呼組](https://ja.wikipedia.org/wiki/男闘呼組 "wikilink")**：歌手デビュー前の[男闘呼組](https://ja.wikipedia.org/wiki/男闘呼組 "wikilink")が担当していた番組。前期は月 - 木は、オリジナルラジオドラマ。金曜はハガキ紹介などのトーク中心の構成だった。後期はラジオドラマが廃され、メンバー独自の感性を生かした企画となる。
+      - 1987.10-1988.9 **TEENS BURI<sup>2</sup>CLUB\!**：当時「[スケバン刑事III 少女忍法帖伝奇](https://ja.wikipedia.org/wiki/スケバン刑事III_少女忍法帖伝奇 "wikilink")」の風間三姉妹役で人気だった[大西結花](https://ja.wikipedia.org/wiki/大西結花 "wikilink")と[中村由真](https://ja.wikipedia.org/wiki/中村由真 "wikilink")のトーク番組。1988年のリニューアル後も継続された。1988年10月からは[渡辺満里奈](../Page/渡辺満里奈.md "wikilink")と[小沢なつき](../Page/小沢なつき.md "wikilink")（1989年4月からは小沢に代わり[今井麻起子](https://ja.wikipedia.org/wiki/今井麻起子 "wikilink")）が、同番組の[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")。
+  - 22:25 **ROOM1025**：ゲストを招いてのトークコーナー。このコーナーのみ、1週遅れで、[ラジオ大阪にもネットしていた](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")。
+  - 22:34 **TOKYO ELEGANT WAVE**：パーソナリティは歌手で、[モデルの](https://ja.wikipedia.org/wiki/モデル_\(職業\) "wikilink")[ジャッキー・リン](https://ja.wikipedia.org/wiki/ジャッキー・リン "wikilink")が担当していた。
+  - 22:49 **TOKYO BAYエイリアン**：リスナー参加型のクイズコーナー　
+      - **タルリュウの冒険**（1987.4-7）…「ジュラシック・パーク」調のRPG型クイズ。敗退時のBGMもシュールだった。
+      - **BACK TO THE SHOCK**（1987.8-11）…歴史上の人物、歴史的事件を紐解くクイズ。
+      - **ジョーズが出てきてこんばんわ\!\!**（1987.12-1988.3）
+  - 23:00 トーク部分
+  - 23:02 **[SCHOOL'S OUT](https://ja.wikipedia.org/wiki/SCHOOL'S_OUT "wikilink")**（出演:[大友康平](https://ja.wikipedia.org/wiki/大友康平 "wikilink")、[千倉真理](https://ja.wikipedia.org/wiki/千倉真理 "wikilink") [NRN全国](../Page/全国ラジオネットワーク.md "wikilink")33局ネット
+  - 23:30 **東京っ子NIGHTちょっと頭が太りすぎ\!?**　リスナー投稿型のハガキネタコーナー
+  - 23:40 **[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の太田君頑張って\!**：中森明菜が、全国の太田さんにエールを送るコーナー。後から金曜に登場した[ゴキブリ](https://ja.wikipedia.org/wiki/ゴキブリ "wikilink")の「ゴキちゃん」（声：[京田尚子](https://ja.wikipedia.org/wiki/京田尚子 "wikilink")）は、強烈毒舌キャラだった。
+  - 23:50 **GIVE ME CHOCOLATE\!?**：番組ラストの5分英会話コーナー（1988年4月からは「**英語探偵団**」に改題）
+  - 23:55 エンディング
+
+<!-- end list -->
+
+  -   - その他：「木曜チェック」、「ミュージックズバコン」など。
+
+### 1988年以降の主なコーナー
+
+  - **WAI WAI PARTY**（約30分でひと枠のコーナー。ゲストと共に電話でリスナーと遊んだり、毎日違う内容で行われていた。1989年4月からは単独番組枠に）
+  - **クイズマシンガン**（リスナー参加型クイズ）
+  - **POP OF THE WORLD**（ちょっと落ち着いたトークと音楽のコーナー）
+  - **GAG ROOM 1134**（ハガキネタのコーナー）
+  - **なんもかんもNIGHT 笑ってギャグトピア**（1989年4月からのハガキネタコーナー）
+  - ☆**ワイルドKNIGHTS男闘呼組**（『[15はドキドキ ピンクコング](https://ja.wikipedia.org/wiki/15はドキドキ_ピンクコング "wikilink")』から移動）
+  - ☆**[ペンタックス](../Page/ペンタックス.md "wikilink") [西村知美](https://ja.wikipedia.org/wiki/西村知美 "wikilink")の今夜もパジャマ気分**
+  - ☆**[田村英里子](https://ja.wikipedia.org/wiki/田村英里子 "wikilink")のマシュマロワンダーランド**
+  - ☆**[From C Side](https://ja.wikipedia.org/wiki/From_C_Side "wikilink")** （1989年4月から。出演:[徳永英明](https://ja.wikipedia.org/wiki/徳永英明 "wikilink")、[太田英明](https://ja.wikipedia.org/wiki/太田英明 "wikilink") [NRN全国](../Page/全国ラジオネットワーク.md "wikilink")33局ネット）
+
+\*:（☆ - は内包番組）
+
+\*:（出典：『[ラジオ番組表](https://ja.wikipedia.org/wiki/ラジオ番組表 "wikilink")』[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")）
+
+## 野球中継との兼ね合い
+
+文化放送では[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）から、平日夜に他局と同様のスタイルの[野球中継](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")『[文化放送ライオンズナイター](../Page/文化放送ライオンズナイター.md "wikilink")』を投入した。しかし、当時は[プロ野球](../Page/日本プロ野球.md "wikilink")[パシフィック・リーグ](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")の試合時間が試合開始後3時間を超えて新たなイニングに入らないというルールだったため、18時開始の[西武ライオンズ球場](../Page/西武ドーム.md "wikilink")[西武主催ゲームを中継することを前提に](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")、ライオンズナイターは21時30分までで延長なしと設定された。このため、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）シーズンは前番組の『ふッかいあな』と同様、当番組はナイターシーズン中でも定時スタートできた。
+
+[1988年](../Page/1988年.md "wikilink")（昭和63年）シーズンは、パ・リーグの試合時間制限が前年よりも1時間長い延長12回かつ試合開始後4時間を超えて新たなイニングに入らないとされたが、文化放送は引き続き21時30分での放送打ち切りを継続した。しかし、優勝決定試合となった[10月19日の](https://ja.wikipedia.org/wiki/10.19 "wikilink")[ロッテオリオンズ対](../Page/千葉ロッテマリーンズ.md "wikilink")[近鉄バファローズのダブルヘッダーはリスナーの抗議が殺到したため第](../Page/大阪近鉄バファローズ.md "wikilink")1試合途中で緊急特番放送が決まり、第2試合終了まで放送して当番組がその分短縮されるという、当時の文化放送では極めて異例の対応がなされた。
+
+[1989年](../Page/1989年.md "wikilink")（平成元年）シーズンは、前年10月31日に開局した[NACK5が筆頭株主になったライオンズの親会社](../Page/エフエムナックファイブ.md "wikilink")[西武鉄道](../Page/西武鉄道.md "wikilink")の意向を受けて、国内FM局初の本格的なスポーツ中継に取り組むことになった。ライオンズナイターは21時30分での打ち切りを維持したものの、それ以降試合が続く場合はNACK5で試合終了までリレー放送する形とした。
+
+文化放送での平日ナイター中継延長が実現するのは、当番組の後継となった『[ラジオバカナリヤ](https://ja.wikipedia.org/wiki/今夜もBREAK_OUT_ラジオバカナリヤ "wikilink")』まで待つことになる。試合終了までの完全中継はさらに遅く、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")（平成4年）の『[サスケの夜はこんびんば\!](https://ja.wikipedia.org/wiki/サスケの夜はこんびんば! "wikilink")』まで実現しなかった。
+
+## 関連項目
+
+  - [15はドキドキ ピンクコング](https://ja.wikipedia.org/wiki/15はドキドキ_ピンクコング "wikilink")
+  - [港区海岸一丁目](https://ja.wikipedia.org/wiki/港区海岸一丁目 "wikilink")（当時、同じ港区海岸のスタジオ（ただし本番組のスタジオがあったのは3丁目で、こちらは1丁目）から日曜朝に放送されていた)
+
+## 脚注
+
+<references />
+
+[Category:1987年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のラジオ番組_\(日本\) "wikilink") [Category:文化放送の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:文化放送の帯番組の歴史 "wikilink") [Category:文化放送のバラエティ番組](https://ja.wikipedia.org/wiki/Category:文化放送のバラエティ番組 "wikilink") [Category:東京都港区の歴史](https://ja.wikipedia.org/wiki/Category:東京都港区の歴史 "wikilink")
+
+1.  出典：『月刊[ラジオパラダイス](https://ja.wikipedia.org/wiki/ラジオパラダイス "wikilink")』1987年8月号 24ページ「中波四十七局全国行脚記録帳 文化放送の巻」より。
+2.  月刊ラジオパラダイス 1987年8月号 p.115「テーマ曲Q\&A」

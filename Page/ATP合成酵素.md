@@ -1,0 +1,137 @@
+> この記事は[ATP](https://ja.wikipedia.org/wiki/ATP)から翻訳されています。
+
+
+**ATP合成酵素**（ATPごうせいこうそ）とは、[呼吸鎖複合体](https://ja.wikipedia.org/wiki/呼吸鎖複合体 "wikilink")によって形成された[プロトン濃度勾配と](https://ja.wikipedia.org/wiki/水素イオン "wikilink")[膜電位](https://ja.wikipedia.org/wiki/膜電位 "wikilink")からなる[プロトン駆動力](https://ja.wikipedia.org/wiki/プロトン駆動力 "wikilink")を用いて、[ADPと](https://ja.wikipedia.org/wiki/アデノシン二リン酸 "wikilink")[リン酸](../Page/リン酸.md "wikilink")から[アデノシン三リン酸](../Page/アデノシン三リン酸.md "wikilink") (ATP) の合成を行う[酵素](../Page/酵素.md "wikilink")である。別名**ATPシンターゼ**、**呼吸鎖複合体V**、複合体Vなど。 なお、[シンテターゼ](https://ja.wikipedia.org/wiki/シンテターゼ "wikilink")はATPなどの高エネルギー化合物の分解と共役する反応を触媒する酵素を指すが、ATP合成に他のエネルギー化合物を用いることはないので、「ATPシンテターゼ」という呼称は正しくない。
+
+## ATPアーゼにおける位置づけ
+
+一部の酵素が正反応と逆反応の両方を触媒できるように、ATP合成酵素は普通**ATPアーゼ活性も持ち合わせている**\[1\]。
+
+ATPアーゼのうちイオン輸送性ATPアーゼの一群がATP合成酵素を含んでいる。イオン輸送性ATPアーゼは以下のように分類される。
+
+  - F型ATPアーゼ – ほとんどの生物がATP合成に用いている
+  - P型ATPアーゼ – [イオン](../Page/イオン.md "wikilink")の[能動輸送](https://ja.wikipedia.org/wiki/能動輸送 "wikilink")に用いられる、ATP消費型
+  - V型ATPアーゼ – [液胞](https://ja.wikipedia.org/wiki/液胞 "wikilink") (**v**acuole) に存在する、能動輸送に用いられる
+  - A型ATPアーゼ – [古細菌](https://ja.wikipedia.org/wiki/古細菌 "wikilink")の用いるATP合成酵素
+
+すべてのイオン輸送性ATPアーゼは電気化学的ポテンシャルを用いてATPを合成できる。ただし、以上のイオン輸送性ATPアーゼの中で、生物がATPの合成に普段用いているのはF型およびA型である。
+
+F型ATPアーゼはほぼ全生物が所持するATP合成酵素の代表的なものであり、[αプロテオバクテリア](https://ja.wikipedia.org/wiki/αプロテオバクテリア "wikilink")のATPアーゼがその起源といわれている。A型ATPアーゼは古細菌に特有なATP合成酵素であり、その後[真核細胞](https://ja.wikipedia.org/wiki/真核細胞 "wikilink")の中でV型ATPアーゼに変化したと言われている。A型ATPアーゼはそのためV型ATPアーゼに分類されることも多い。
+
+## ATP合成酵素の所在
+
+ATP合成酵素は[真核生物](../Page/真核生物.md "wikilink")は[ミトコンドリア](../Page/ミトコンドリア.md "wikilink")内膜、[原核生物](../Page/原核生物.md "wikilink")は[細胞膜](https://ja.wikipedia.org/wiki/細胞膜 "wikilink")にそれぞれ位置している。呼吸鎖複合体の近傍に位置していると考えられている。[電子顕微鏡](https://ja.wikipedia.org/wiki/電子顕微鏡 "wikilink")を用いると[生体膜](../Page/生体膜.md "wikilink")の内側（細胞内側）にキノコ状の構造体が確認できるが、この構造体がATP合成酵素である。
+
+## ATP合成酵素の構造
+
+[ATP合成酵素.png](https://ja.wikipedia.org/wiki/File:ATP合成酵素.png "fig:ATP合成酵素.png") 現在、その構造が良くわかっているのはF型ATPアーゼのみである。F型ATPアーゼは F<sub>o</sub> （エフオー）と F<sub>1</sub> （エフワン）の2つの部位からなる。それぞれの部位のサブユニット名およびその数は以下の通りである（原核生物型）。
+
+  - F<sub>1</sub>部位 – α（3個）、β（3個）、γ（1個）、δ（1個）、ε（1個）
+  - F<sub>o</sub>部位 – a（1個）、b（2個）、c（9–12個、cサブユニットの数は不定）
+
+真核生物のF型ATPアーゼはF<sub>1</sub>部位のサブユニット種類数は同じだが、F<sub>o</sub> 部位は最大で8種類存在するといわれている。
+
+F<sub>1</sub> 部位はεサブユニットを基部としてγサブユニットが幹状に結合し、その周囲をαおよびβサブユニットが囲うように交互に配置されている（γサブユニットを幹とすればα、βは葉の部分）。δサブユニットはα、βサブユニットの頂点に位置しており、F<sub>1</sub>部位の安定化に寄与していると思われる。F<sub>1</sub>部位は活性を保ったまま[界面活性剤](../Page/界面活性剤.md "wikilink")で可溶化することが可能であり、実験が行いやすい。F<sub>1</sub>部位は立体構造が[1994年](../Page/1994年.md "wikilink")にWalkerらによって決定されており、その反応機構も明らかになっている。
+
+F<sub>o</sub> 部位は膜貫通型であり、cサブユニットがリング状に配置され、aサブユニットがその横に結合して、bサブユニットの基部となっている。bサブユニットは F<sub>1</sub> 部位のδサブユニットと結合し F<sub>1</sub> 部位の安定に寄与していると考えられている。F<sub>o</sub> 部位は膜貫通型であるために活性型が得られにくく、可溶化しても元の正常を保てないことが多い。いまだ立体構造およびサブユニット構成は不定である。
+
+## ATP合成酵素の反応
+
+F<sub>1</sub> 部位はATPの反応に寄与しており、それは以下の式で表される。
+
+  -
+    [ATP](../Page/アデノシン三リン酸.md "wikilink") <ce>\<=\></ce> [ADP](https://ja.wikipedia.org/wiki/アデノシン二リン酸 "wikilink")+Pi（[リン酸](../Page/リン酸.md "wikilink")）
+
+F<sub>1</sub> 部位ではATPの合成および消費を両方向触媒することが可能である。
+
+一方、F<sub>o</sub>部位は[プロトンを透過させる機能があり](https://ja.wikipedia.org/wiki/水素イオン "wikilink")、以下の式で表される。
+
+  -
+    <ce>H^+in\\ \<=\> H^+out</ce>
+
+プロトン電気化学的ポテンシャルを用いたATP合成の反応は以下の収支式で表される。
+
+  -
+    <ce>ADP\\ + Pi\\ + 3 H^+out -\> ATP\\ + 3H^+in</ce>
+
+プロトンが3分子通過するごとに、1分子のATPの合成が行われる。この反応は逆反応も可能であり、ATPの分解エネルギー（[アデノシン三リン酸](../Page/アデノシン三リン酸.md "wikilink")の項を参照）を用いて、H<sup>+</sup> を膜外に能動輸送することも可能である。
+
+## 回転触媒説
+
+ATP合成酵素がATPの合成を生物体内で行っていることは古くから知られていたが、その反応素過程は[分子生物学](../Page/分子生物学.md "wikilink")など生物学的発展の目覚しいごく最近に明らかになりつつある。ATP合成酵素の反応素過程に革新的な説として、[ポール・ボイヤー](https://ja.wikipedia.org/wiki/ポール・ボイヤー "wikilink")と[吉田賢右](https://ja.wikipedia.org/wiki/吉田賢右 "wikilink")による「回転触媒仮説」があげられる。
+
+これはATP合成酵素は位相をずらしながらATPの合成を行っているのではないかとする説であり、当初ボイヤーの提案した説は「振り子運動」であった。しかしながら吉田によってβサブユニットがATP合成酵素に3個含まれることが証明されると、振り子運動ではなく「回転している」と言うイメージが強まった。
+
+1994年、[ジョン・ウォーカーらによってウシATP合成酵素](https://ja.wikipedia.org/wiki/ジョン・E・ウォーカー "wikilink") F<sub>1</sub> 部位の立体構造が決定されると回転触媒仮説を支持する結果が得られた。F<sub>1</sub>部位の3つのβサブユニットにそれぞれATP、ADP、カラの状態、が交互になっていることが判明した。これは回転触媒説を十分に支持する結果ではあったが、現実の回転を直視する結果とはいえなかった。
+
+1997年、[ネイチャー](https://ja.wikipedia.org/wiki/ネイチャー "wikilink") (vol. 386, pp. 299–302) に[野地](https://ja.wikipedia.org/wiki/野地博行 "wikilink")、[吉田らの研究による](https://ja.wikipedia.org/wiki/吉田賢右 "wikilink") "Direct observation of the rotation of F1-ATPase" という題の論文が掲載された。これはATP合成酵素の F<sub>1</sub> 部位の回転を実際に観察したという画期的な実験法を述べた論文であり、この論文を通じて「ATP合成酵素は回転している」というボイヤーの説が現実のものとなった。この観察は[一分子細胞生物学](https://ja.wikipedia.org/wiki/一分子細胞生物学 "wikilink")の基礎となりうる歴史的なものであった。同年、ボイヤー、ウォーカー、[スコウ](https://ja.wikipedia.org/wiki/イェンス・スコウ "wikilink")（イオン輸送ATPアーゼの発見）が、ATP合成酵素の研究に寄与したとして[ノーベル化学賞](../Page/ノーベル化学賞.md "wikilink")を受賞した。
+
+## ATP合成酵素の一分子観測\[2\]
+
+回転触媒説を実証したこの実験は、アイディアに富んだ面白い実験である。以下にプロセスを示す。
+
+1.  [ヒスチジン](../Page/ヒスチジン.md "wikilink")タグを付けた[組み換え](https://ja.wikipedia.org/wiki/組み換えタンパク "wikilink") F<sub>1</sub> 部位を作成する。
+2.  [ヒスチジン](../Page/ヒスチジン.md "wikilink")タグを特異的に吸着するガラス表面に タグ付きのF<sub>1</sub> 部位を固定する。
+3.  F<sub>1</sub> 部位のγサブユニットに蛍光標識した[アクチン](../Page/アクチン.md "wikilink")フィラメントをストレプトアビジンを用いて接着する。
+4.  溶媒中にATPを添加する。
+5.  [蛍光顕微鏡](https://ja.wikipedia.org/wiki/蛍光顕微鏡 "wikilink")でガラスの表面を観察する。
+6.  アクチンフィラメントの回転がATPの[加水分解](../Page/加水分解.md "wikilink")によって引き起こされる現象が観察できる。
+
+少々乱暴ながらも比喩的に説明すると、回転していると思われる部分に、回転方向と水平方向に顕微鏡で動画が観測できる大きさの細長い[付箋](https://ja.wikipedia.org/wiki/付箋 "wikilink")を貼り付けて、その付箋が回転しているかどうかを観測したのである。この方法を用いると回転のみならず、アクチンの長さを変化させることによって発生トルクも測定することができる。この方法で測定したATP合成酵素は、生体内で毎秒100回転していることがわかった。また[エネルギー変換効率](https://ja.wikipedia.org/wiki/エネルギー変換効率 "wikilink")は 100% 近く、これほど効率の高いATP利用系は生物体内ですらこの他に見つかっていない（例えば[ミオシン](https://ja.wikipedia.org/wiki/ミオシン "wikilink")は 20%、[ダイニン](https://ja.wikipedia.org/wiki/ダイニン "wikilink")は 50% 程度）。
+
+## ATP合成ステップのモデル
+
+ATP合成の素過程は、以下のようなモデルが提唱されている。
+
+1.  カラ型βサブユニットは「開いた」構造をとっている。
+2.  1個目のプロトンが F<sub>o</sub> 部位を通過する (out→in)。
+3.  F<sub>o</sub> 部位は細胞内側から見て 120° 左回転を行う。
+4.  それに伴い、F<sub>o</sub> 部位に結合した F<sub>1</sub> 部位も 120° の左回転を行う。
+5.  そのときADPがβサブユニットに入ることにより「閉じた」構造へ変化する。
+6.  2個目のプロトンが F<sub>o</sub> 部位を通過し、さらに左120° 回転する。
+7.  回転した F<sub>1</sub> 部位にてβサブユニットに入ったADPにリン酸化反応が起きる。
+8.  3個目のプロトンが F<sub>o</sub> 部位を通過し、さらに左120° 回転する。
+9.  βサブユニットは「開いた」構造をとり、ATPを放出してカラ型に戻る。1. に戻る。
+
+このように、3個のプロトンが F<sub>o</sub> 部位を out→in 通過するごとに、F<sub>1</sub> 部位がADPのリン酸化を行う。現時点では F<sub>1</sub> 部位の回転は直視されており確実性はあるが、F<sub>o</sub> 部位の回転はいまだ確認されていない。しかしながらcサブユニットの立体構造から回転子であることが提案されており、おそらく回転していると考えられている。また、逆反応については、F<sub>1</sub> 部位の右回転（細胞内側から見て）が F<sub>o</sub> 部位に伝わり、ATP合成酵素全体が右回転する仕組みとなっていると考えられている。
+
+120° の回転を行うことは一分子観測の実験でも確認されており、低濃度 (20 nmol/L) のATP存在下ではアクチンフィラメントが 120° ごとに回転している様子が観察されている。また、ADPがつっかえてATP合成酵素が動かなくなったり、ATP合成酵素が「間違えて逆回転する」現象も観察されている。
+
+## 今後の課題
+
+ATP合成酵素への理解は極めて進んだとされているが、いくつかの点が明らかになっていない。F<sub>o</sub> 部位の構造解析、反応素過程が現時点での課題ともいえる。
+
+また、こうした[構造生物学](../Page/構造生物学.md "wikilink")的な疑問とは異なり、「なぜATP合成に使用されるATPアーゼのみが回転をしているのか」と言う疑問も残っている。上記、生体内でATP合成に用いられるのはF型およびA型であるが、F型については回転していることがほぼ確実となり、A型についてもおそらく回転しているだろう、との予測がなされている。
+
+また、A型ATPアーゼを起源とするV型ATPアーゼもサブユニット構成から回転しているだろうと予測されている。P型ATPアーゼは構造が単純で（[分子量](../Page/分子量.md "wikilink")10万前後）エネルギー効率も決して悪くは無いが生体内でATPの合成に用いられている例は存在しない。複雑極まりないF型ATPアーゼ（分子量50万以上）はほぼ全生物共通してATP合成に用いられる普遍的な酵素であり、[進化](../Page/進化.md "wikilink")の痕跡が垣間見られない。こうしたことも、現時点の課題と言える。
+
+また、[メタン菌](../Page/メタン菌.md "wikilink")はF型およびA型の二つのATP合成酵素を所持しているが、F型は[ナトリウム](https://ja.wikipedia.org/wiki/ナトリウム "wikilink")イオン駆動型のATPアーゼであることが判明している。プロトン濃度勾配に拠らない、新規なイオン輸送型のATP合成酵素の存在も示唆されている。
+
+## 歴史
+
+ATP合成の研究の歴史はATP合成酵素の研究の歴史にほぼ重なると言っても過言ではない。
+
+  - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink") – [アルバート・レーニンジャー](https://ja.wikipedia.org/wiki/アルバート・レーニンジャー "wikilink")によって[呼吸鎖複合体](https://ja.wikipedia.org/wiki/呼吸鎖複合体 "wikilink")の電子伝達およびATPの合成は共役しているという「[酸化的リン酸化](https://ja.wikipedia.org/wiki/酸化的リン酸化 "wikilink")」が提唱された。
+  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") – [ピーター・ミッチェル](https://ja.wikipedia.org/wiki/ピーター・ミッチェル "wikilink")によってプロトンの電気化学的ポテンシャルがATPの合成に寄与していると言う「[化学浸透圧](https://ja.wikipedia.org/wiki/化学浸透圧 "wikilink")仮説」が提唱された。
+  - [1963年](../Page/1963年.md "wikilink") – モーデイ・アヴロン (Mordhay Avron) によって[葉緑体](https://ja.wikipedia.org/wiki/葉緑体 "wikilink")の[チラコイド](https://ja.wikipedia.org/wiki/チラコイド "wikilink")膜上に球状突起が見出され、この構造体がATP合成に関係した[酵素](../Page/酵素.md "wikilink")であると推定された。
+  - [1966年](../Page/1966年.md "wikilink") – アンドレイ・ヤーゲンドルフ (André T. Jagendorf) らによって葉緑体での [pH](../Page/水素イオン指数.md "wikilink") ジャンプによるATP合成系のモデルが提唱された。
+  - [1975年](../Page/1975年.md "wikilink") – エフレイム・ラッカー (Efraim Racker) とワルサー・ステッケニウス (Walther Stoeckenius) によって、[脂質二重層](../Page/脂質二重層.md "wikilink")を用いた**ATP合成酵素**および[バクテリオロドプシン](../Page/バクテリオロドプシン.md "wikilink")の実験によってATP合成が電気化学的ポテンシャルによって行われることを明らかにした。
+  - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") – 化学浸透圧説を唱えたミッチェルが[ノーベル化学賞](../Page/ノーベル化学賞.md "wikilink")を受賞した。
+  - [1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink") – ボイヤーがATP合成酵素の「回転触媒仮説」を提唱した。
+  - [1994年](../Page/1994年.md "wikilink") – ウォーカーらによってウシATP合成酵素の F<sub>1</sub> サブユニットのX線結晶構造が明らかになった。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") – ボイヤー、ウォーカーらがATP合成酵素の反応素過程を解明したことによりノーベル化学賞を受賞した。
+
+## 脚注
+
+<references />
+
+## 関連項目
+
+  - [アデノシン三リン酸](../Page/アデノシン三リン酸.md "wikilink")
+  - [電子伝達系](../Page/電子伝達系.md "wikilink")
+  - [一分子細胞生物学](https://ja.wikipedia.org/wiki/一分子細胞生物学 "wikilink")
+
+[Category:分子生物学](https://ja.wikipedia.org/wiki/Category:分子生物学 "wikilink") [Category:酵素](https://ja.wikipedia.org/wiki/Category:酵素 "wikilink") [Category:光合成](https://ja.wikipedia.org/wiki/Category:光合成 "wikilink") [Category:細胞呼吸](https://ja.wikipedia.org/wiki/Category:細胞呼吸 "wikilink")
+
+1.
+2.

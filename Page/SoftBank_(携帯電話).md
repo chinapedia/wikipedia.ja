@@ -1,0 +1,671 @@
+> この記事は[SoftBank \(\)](https://ja.wikipedia.org/wiki/SoftBank_\(\))から翻訳されています。
+
+
+**SoftBank**（ソフトバンク）は、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")が展開する[携帯電話](../Page/携帯電話.md "wikilink")のサービスブランドの一つである。
+
+デジタルホン/[デジタルツーカー](https://ja.wikipedia.org/wiki/デジタルツーカー "wikilink")→J-PHONE→[ボーダフォン](https://ja.wikipedia.org/wiki/ボーダフォン "wikilink")の流れを汲む。
+
+## 事業展開
+
+1991年 - 1992年に日本テレコム株式会社が主体となり、[東名阪にデジタルホンを設立](https://ja.wikipedia.org/wiki/三大都市圏 "wikilink")。
+
+1994年から[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")（以下「日産」）が主体の[ツーカー](https://ja.wikipedia.org/wiki/ツーカー "wikilink")グループと同時に、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[DDIセルラー](https://ja.wikipedia.org/wiki/DDIセルラーグループ "wikilink")/IDOグループ（現[KDDI](../Page/KDDI.md "wikilink")の[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")）に次ぐ携帯電話事業の第3勢力として事業開始。東名阪以外の地区は日産と日本テレコムとの共同出資で、旧[デジタルツーカー](https://ja.wikipedia.org/wiki/デジタルツーカー "wikilink")を設立し、1996年1月より、ツーカーグループと合同で全国展開が行われた。
+
+### デジタルホン
+
+  - 1991年
+      - [7月6日](https://ja.wikipedia.org/wiki/7月6日 "wikilink") - 東京デジタルホン
+      - [11月25日](https://ja.wikipedia.org/wiki/11月25日 "wikilink") - 関西デジタルホン ： イメージキャラクターに[千葉真一](https://ja.wikipedia.org/wiki/千葉真一 "wikilink")と[クエンティン・タランティーノ](https://ja.wikipedia.org/wiki/クエンティン・タランティーノ "wikilink")を起用した[CMや](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")[広告](https://ja.wikipedia.org/wiki/広告 "wikilink")を展開する
+  - 1992年[3月7日](../Page/3月7日.md "wikilink") - 東海デジタルホン
+
+### デジタルツーカー
+
+  - 1994年
+      - [3月15日](../Page/3月15日.md "wikilink") - デジタルツーカー九州
+      - [10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") - デジタルツーカー中国
+  - 1995年
+      - [4月28日](https://ja.wikipedia.org/wiki/4月28日 "wikilink") - デジタルツーカー東北
+      - [7月28日](https://ja.wikipedia.org/wiki/7月28日 "wikilink") - デジタルツーカー北海道
+      - [9月4日](../Page/9月4日.md "wikilink") - デジタルツーカー北陸
+      - [10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - デジタルツーカー四国
+
+### J-PHONE
+
+[Jan14_01.JPG](https://ja.wikipedia.org/wiki/File:Jan14_01.JPG "fig:Jan14_01.JPG")
+
+  - 1997年
+      - 2月 ： 東京デジタルホンがコミュニケーションネーム「**J-PHONE**」を使用開始。イメージキャラクターに[永瀬正敏](https://ja.wikipedia.org/wiki/永瀬正敏 "wikilink")とキャシー・チャウを起用した[CMや](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")[広告](https://ja.wikipedia.org/wiki/広告 "wikilink")を展開する。ロゴマークは斜体で、***J-PHONE***
+      - 11月 ： 携帯電話での[Eメール](https://ja.wikipedia.org/wiki/Eメール "wikilink")送受信サービスとしては日本初となるSky Walker（スカイウォーカー）を開始
+  - 1998年3月 ： イメージキャラクターに[藤原紀香](https://ja.wikipedia.org/wiki/藤原紀香 "wikilink")（当初は旧J-フォン東京地区のみ、後に東海地区を除く全国）や[優香](https://ja.wikipedia.org/wiki/優香 "wikilink")（東海地区のみ）や[フェイ・ウォン](https://ja.wikipedia.org/wiki/王菲 "wikilink")（関西地区のみ）を起用したCMや広告が流れ、[OL](https://ja.wikipedia.org/wiki/OL "wikilink")など女性を中心にブームが起こる
+  - 1999年
+      - 8月 ： 日産の経営悪化で、携帯電話事業など[自動車](../Page/自動車.md "wikilink")との関連が薄い事業から撤退する事になり、日産が保有していたデジタルツーカー6社の株式を、デジタルホン3社を有する日本テレコムに譲渡
+      - 10月 ： デジタルツーカー各社が「J-フォン」を冠した商号に変更し、全国統一ブランドとなった（デジタルツーカーの合弁相手であった[ツーカー](https://ja.wikipedia.org/wiki/ツーカー "wikilink")3社は、第二電電（現[KDDI](../Page/KDDI.md "wikilink")）に譲渡）
+      - 12月 ： J-スカイサービス（現[Yahoo\!ケータイ](https://ja.wikipedia.org/wiki/Yahoo!ケータイ "wikilink")）開始
+  - 2000年
+      - 10月 ： 9地域会社のうち8社が東日本・西日本の2社へ統合。東海のみそのまま存続し、全国3社体制となる
+      - 11月 ： 現在の[カメラ付き携帯電話](https://ja.wikipedia.org/wiki/カメラ付き携帯電話 "wikilink")の定礎になる機種（[J-SH04](https://ja.wikipedia.org/wiki/J-SH04 "wikilink")）発売
+  - 2001年
+      - 6月 ： [写メール](https://ja.wikipedia.org/wiki/写メール "wikilink")キャンペーン開始
+      - 11月 ： 東日本・東海・西日本の3社が持株会社に統合され、全国1社体制となる
+  - 2002年3月 ： 契約者数が、事業開始後初めてauを上回る
+  - 2003年10月 ： ブランド・会社名をJ-PHONEからVodafoneへ変更
+
+### ボーダフォン
+
+[Vodafone_Mobile_SHOP_ikebukuro_japan.jpg](https://ja.wikipedia.org/wiki/File:Vodafone_Mobile_SHOP_ikebukuro_japan.jpg "fig:Vodafone_Mobile_SHOP_ikebukuro_japan.jpg")
+
+  - 2001年10月 ： 筆頭株主である日本テレコムが英ボーダフォングループの傘下となった事に伴い、J-フォンもVodafoneグループとなった。これにより、2003年のブランド名変更まで、J-PHONEロゴの下にVodafoneロゴを並べる形のロゴマークへ変更した。
+  - 2002年12月 ： [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")や[エリクソン](https://ja.wikipedia.org/wiki/エリクソン "wikilink")等が中心となって開発した、[W-CDMA](https://ja.wikipedia.org/wiki/W-CDMA "wikilink")方式（別名：UMTS）による第三世代携帯電話サービスVodafone Global Standard（略称VGS、2004年末発売シリーズから「Vodafone 3G」に名称変更）を開始。エリアは小型[基地局](https://ja.wikipedia.org/wiki/基地局 "wikilink")を中心として急速に広めたが、一部の地域では最高速度が64k[bpsに制限され](https://ja.wikipedia.org/wiki/ビット毎秒 "wikilink")、屋内や地下鉄のカバレッジにも問題があった。さらに、初期の端末は[ボーダフォンライブ](https://ja.wikipedia.org/wiki/ボーダフォンライブ "wikilink")の機能が使えないなど、競合するNTTドコモの[FOMA](https://ja.wikipedia.org/wiki/FOMA "wikilink")、auの[CDMA 1Xに劣り](https://ja.wikipedia.org/wiki/CDMA_1X "wikilink")、見通しに暗雲が垂れ込めていた。その間ボーダフォンは第2世代PDC方式サービスを主力とし、2004年末から発売のVodafone 3Gより第三世代へ注力することが発表された。
+  - 2003年10月1日 ： 商号、ブランド名共にJ-フォンから**ボーダフォン**に変更した。当初は社名に「J-フォン」を残したままボーダフォンブランドを導入する予定であったが、親会社の意向もあり、[社長](https://ja.wikipedia.org/wiki/社長 "wikilink")のダリル・E・グリーン（当時）の決断で社名も含めて変更することになった。なおボーダフォングループでは、通常社名がボーダフォン××と地域名が付く。これに倣うとボーダフォンジャパンとなるが、グループ内では「ボーダフォンK.K.」と定義された。また登記簿上の名称も（地域名を付けない）ボーダフォン株式会社とし、他地域のボーダフォン事業会社（OpCo: オプコという）にない名称となった。
+  - 2004年
+      - 4月 ： 前年のブランド名変更の際掲げられた**「[ボーダフォンから10の約束](https://ja.wikipedia.org/wiki/ソフトバンク#ボーダフォンから10の約束 "wikilink")」**を、自社[ウェブサイト](../Page/ウェブサイト.md "wikilink")上から削除し、以下のようなサービスの改定が発表された。
+          - 「[ハッピータイム](https://ja.wikipedia.org/wiki/ハッピータイム_\(ソフトバンクモバイル\) "wikilink")」（土日祝日はVodafone端末に電話をすると終日1分5円）は「[ハッピータイム2](https://ja.wikipedia.org/wiki/ハッピータイム_\(ソフトバンクモバイル\)#ハッピータイム2 "wikilink")」（土日祝日のVodafone端末への電話は5分話せばその後の30分間が無料）となり、「[TVコール](https://ja.wikipedia.org/wiki/TVコール "wikilink")」（テレビ電話）の通話料を[音声通話](https://ja.wikipedia.org/wiki/音声通話 "wikilink")と同額から1.8倍へと改定前の料金に戻すなど、迷走する姿が明らかになる。「[ハッピーボーナス](https://ja.wikipedia.org/wiki/ハッピーボーナス "wikilink")」（2年契約することで[基本料金が安くなるなどの特典が受けられるオプション契約](https://ja.wikipedia.org/wiki/携帯電話の基本料金 "wikilink")）などで顧客を集めた後の改定にユーザーから反感の声が上がった。ボーダフォンは料金改定の措置として「[年間割引](https://ja.wikipedia.org/wiki/年間割引 "wikilink")」や「ハッピーボーナス」の解除料を一時的に無料にした\[1\]。
+          - 第三世代携帯電話サービスの遅れや料金制度の変更に対する強い不満を感じた契約者の解約などで、契約数は低迷。2004年3月期連結[決算](https://ja.wikipedia.org/wiki/決算 "wikilink")では減収減益。日本テレコム売却の影響もでて[赤字](https://ja.wikipedia.org/wiki/赤字 "wikilink")に転落した。NTTドコモやKDDI(au)が増収増益で過去最高の最終利益を記録する中で対照的な結果となった。
+      - [6月23日](https://ja.wikipedia.org/wiki/6月23日 "wikilink") ： 社長のダリル・E・グリーンは役員改選の[取締役会](https://ja.wikipedia.org/wiki/取締役会 "wikilink")直前にして「一身上の都合」を理由に辞任（J.ブライアン・クラークが暫定的に社長を務める）。その後、[インド](../Page/インド.md "wikilink")の通信会社・TETEの社長に就任したが、2007年5月に退任。翌6月、日本にまた戻りマンパワージャパンの代表取締役社長に就任した。
+      - 7月 ： 解約者数が新規契約者数を上回る（純減）になった。この状況を巻き返すため、8月、NTTドコモで[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")や[FOMA](https://ja.wikipedia.org/wiki/FOMA "wikilink")の開発で中心的な役割を担ったNTTドコモ前副社長の[津田志郎](https://ja.wikipedia.org/wiki/津田志郎 "wikilink")を社長に迎え入れることを発表した。
+      - [11月21日](https://ja.wikipedia.org/wiki/11月21日 "wikilink") ： Vodafone 3GシリーズおよびVGSシリーズ限定で[パケット定額制](https://ja.wikipedia.org/wiki/パケット定額制 "wikilink")サービス「[パケットフリー](https://ja.wikipedia.org/wiki/デュアルパケット定額 "wikilink")」を開始した。
+      - [12月1日](../Page/12月1日.md "wikilink") ： 津田が社長に就任。また、2005年より[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ・[浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")のユニフォームスポンサーになる。
+      - オンネットグループ内の通話が無料になる[ボーダフォンモバイルオフィス](https://ja.wikipedia.org/wiki/ソフトバンクモバイルオフィス "wikilink")（通称: 社員間通話定額）を開始（2005年改定）。
+      - 3G端末の出遅れや3G冬モデルで採用された「世界共通[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")」への馴染みの無さからの敬遠、犯罪に悪用されるなどの[プリペイド携帯へのネガティブイメージにより](https://ja.wikipedia.org/wiki/ボーダフォンプリペイドサービス "wikilink")、2005年1月 - 3月に再び純減を記録。2005年4月より、津田が会長へ退き英ボーダフォン社長で元日本テレコム社長でもあり、日本の携帯ユーザーの志向や市場を知る、ウィリアム・T・モロー（通称: ビル・モロー）を社長に迎え入れることとなった。その後、国内市場のニーズに合わせた端末の導入などの梃入れを行い、加入者の激減に多少歯止めがかかった。
+  - 2005年
+      - [4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") ： 新たに3つの料金定額サービス（通称：ボーダフォン3つの定額、後に「LOVE定額」が加わり「ボーダフォン[4つの定額](https://ja.wikipedia.org/wiki/#4つの定額 "wikilink")」）を追加発表\[2\]。
+      - [10月11日](https://ja.wikipedia.org/wiki/10月11日 "wikilink") ： 携帯電話業界初、料金定額の新サービス[LOVE定額](https://ja.wikipedia.org/wiki/LOVE定額 "wikilink")を発表\[3\]。
+  - 2006年
+      - [3月17日](../Page/3月17日.md "wikilink") ： 英ボーダフォンはボーダフォン日本法人をソフトバンクに1兆7,500億円で譲渡することを決定。今後は日本法人の社名変更をする方針である事が明らかになった。
+      - [4月4日](https://ja.wikipedia.org/wiki/4月4日 "wikilink") ： 津田ほか6人の取締役の退任予定とソフトバンク側からの役員派遣予定が発表された（モローは留任）。
+      - [9月1日](../Page/9月1日.md "wikilink") ： 家族向け割引サービス「[家族割引](https://ja.wikipedia.org/wiki/家族割引 "wikilink")」改定。請求先名義や契約者名義の異なる回線で加入できるように改定され、また地域が異なる回線同士でも加入できるようになり、副回線も4回線から9回線に拡大される。これにより、[単身赴任](https://ja.wikipedia.org/wiki/単身赴任 "wikilink")などでも加入でき、支払口座を個別にすることもできるようになった。
+          - 日本初の携帯電話端末の[割賦](https://ja.wikipedia.org/wiki/割賦 "wikilink")支払制度[スーパーボーナス](https://ja.wikipedia.org/wiki/スーパーボーナス "wikilink")を開始。
+      - [9月13日](https://ja.wikipedia.org/wiki/9月13日 "wikilink") ： [iPod nanoと携帯電話のセット販売](https://ja.wikipedia.org/wiki/iPod_nano "wikilink")「スーパーボーナス + iPod nano」を開始。
+      - 10月1日 ： 商号を「ソフトバンクモバイル株式会社」へ変更。社名変更と同時にブランド名も「SoftBank」に変更。日本における「Vodafone」ブランドはわずか3年で消滅した。
+
+<!-- end list -->
+
+  - <span id="4つの定額">4つの定額</span>
+    **[家族通話定額](https://ja.wikipedia.org/wiki/家族通話定額 "wikilink")**
+      -
+        [家族割引加入者を対象に](https://ja.wikipedia.org/wiki/家族割引サービス "wikilink")、家族間の通話を月額315円の定額で利用できるプラン。
+    **[メール定額](https://ja.wikipedia.org/wiki/メール定額 "wikilink")**
+      -
+        3G端末を対象に、国内の[SMS](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")、[MMS](https://ja.wikipedia.org/wiki/マルチメディアメッセージングサービス "wikilink")、VGSメールの送受信を月額840円の定額で利用できるプラン。
+    **[デュアルパケット定額](https://ja.wikipedia.org/wiki/デュアルパケット定額 "wikilink")**
+      -
+        3G端末を対象に1,050円から4,095円の2段階で[パケット通信](https://ja.wikipedia.org/wiki/パケット通信 "wikilink")を定額で利用できるプラン\[4\]。
+    **[LOVE定額](https://ja.wikipedia.org/wiki/LOVE定額 "wikilink")**
+      -
+        全加入者（プリペイド式を含むがプリペイド式の電話からの発信は適用外）を対象に、登録した1件のボーダフォン携帯電話への、国内のSMS・MMS・[スカイメール](https://ja.wikipedia.org/wiki/スカイメール "wikilink")・ロングメールの送受信、通話（発信）を月額315円の定額で利用できるプラン（TVコールは2006年5月度までは定額の対象、その後は通常料金の半額）。
+
+### SoftBank
+
+[SoftBank_Hankyu-Ibaraki.JPG](https://ja.wikipedia.org/wiki/File:SoftBank_Hankyu-Ibaraki.JPG "fig:SoftBank_Hankyu-Ibaraki.JPG") [ソフトバンク今宿.jpg](https://ja.wikipedia.org/wiki/File:ソフトバンク今宿.jpg "fig:ソフトバンク今宿.jpg") [Softbank_in_Sendai_&_the_decorations_of_Sendai_Star_Festival.JPG](https://ja.wikipedia.org/wiki/File:Softbank_in_Sendai_&_the_decorations_of_Sendai_Star_Festival.JPG "fig:Softbank_in_Sendai_&_the_decorations_of_Sendai_Star_Festival.JPG")[クリスロード](https://ja.wikipedia.org/wiki/クリスロード "wikilink")と[仙台七夕](https://ja.wikipedia.org/wiki/仙台七夕 "wikilink")飾り\]\]
+
+  - 2006年
+      - 10月 ： ソフトバンクモバイルへの社名変更およびブランド名の変更にあたり、10月以降変更または新規登録したメールアドレスに対しては新しいドメイン "softbank.ne.jp" を設定するが、それ以前に設定したアドレスについてドメインの変更をしない旨が告知された。
+      - ボーダフォン時のサービス名称が変更された。下記は例。
+          - 「[Vodafone live\!](https://ja.wikipedia.org/wiki/Vodafone_live! "wikilink")」→「**[Yahoo\!ケータイ](https://ja.wikipedia.org/wiki/Yahoo!ケータイ "wikilink")**」（Y\!ケータイ）（インターネット接続サービス）
+          - メインページがポータルサイト[Yahoo\! JAPANのソフトバンク携帯専用版](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN "wikilink")（[Yahoo\!モバイル](https://ja.wikipedia.org/wiki/Yahoo!モバイル "wikilink")（他キャリア向けには現在も提供中）とは異なる）
+          - 「Vアプリ」→「**[S\!アプリ](https://ja.wikipedia.org/wiki/S!アプリ "wikilink")**」（アプリサービス）
+          - 「ボーダフォンライブ\!基本使用料」」→「**[S\!ベーシックパック](https://ja.wikipedia.org/wiki/S!ベーシックパック "wikilink")**」
+          - 「Vodafone 3G」→「**[SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")**」
+          - 携帯電話端末「V6-2シリーズ」→「**[SoftBank 6-2](https://ja.wikipedia.org/wiki/SoftBank_6-2 "wikilink")**」
+      - [10月23日](https://ja.wikipedia.org/wiki/10月23日 "wikilink") ： ソフトバンク携帯電話同士の通話料とSMSの利用が無料（翌24日にMMS無料も発表）となる新料金プランの「**[ゴールドプラン](https://ja.wikipedia.org/wiki/ゴールドプラン_\(SoftBank\) "wikilink")**」、割賦契約の「**[新スーパーボーナス](https://ja.wikipedia.org/wiki/スーパーボーナス "wikilink")**」及び2007年[1月15日](https://ja.wikipedia.org/wiki/1月15日 "wikilink")までに契約すると基本料がずっと70%オフやオプション、基本使用料が一定期間無料になる「ソフトバンク大創業祭キャンペーン」の3つから成る「[予想外割](https://ja.wikipedia.org/wiki/予想外割 "wikilink")」を発表。同時に、[「ブループラン」・「オレンジプラン」の](https://ja.wikipedia.org/wiki/オレンジ/ブループラン "wikilink")2つの新料金プラン、全機種購入料金（頭金）「0円」も発表。
+      - 10月24日 ： [番号ポータビリティ](https://ja.wikipedia.org/wiki/番号ポータビリティ "wikilink") (MNP) では、ソフトバンクへの転入はSoftBank 3G契約のみ受け付け、SoftBank 6-2の契約は受け付けない。
+      - [10月31日](https://ja.wikipedia.org/wiki/10月31日 "wikilink") ： 新しく打ち出した全機種の通話料・メール代「0円」広告に対し、0円となる条件がわかりにくかったことから[公正取引委員会](https://ja.wikipedia.org/wiki/公正取引委員会 "wikilink")が[景品表示法違反の疑いがあるとして調査を開始](https://ja.wikipedia.org/wiki/不当景品類及び不当表示防止法 "wikilink")\[5\]。
+      - [11月1日](../Page/11月1日.md "wikilink") ： 公正取引委員会の指導により、ソフトバンクモバイルは「0円」広告を修正することを発表\[6\]。
+      - [11月2日](../Page/11月2日.md "wikilink") ： ソフトバンクモバイルのサイトに『「0円」への質問にお答えします。』と題した、質問集などを掲載。
+      - [12月12日](https://ja.wikipedia.org/wiki/12月12日 "wikilink") ： 「景品表示法第4条第1項第2号（有利誤認）の規定に違反するおそれがある表示を行っていた」として、公正取引委員会から警告を受ける（⇒[広告・テレビCMに関する問題](https://ja.wikipedia.org/wiki/#広告・テレビCMに関する問題 "wikilink")）。
+  - 2007年
+      - [1月](https://ja.wikipedia.org/wiki/1月 "wikilink") ： 1月課金分の料金から[ユニバーサルサービス料が設定](https://ja.wikipedia.org/wiki/基礎的電気通信役務 "wikilink")。
+      - [1月5日](https://ja.wikipedia.org/wiki/1月5日 "wikilink") ： 月額基本使用料980円の新料金プラン「**[ホワイトプラン](https://ja.wikipedia.org/wiki/ホワイトプラン "wikilink")**」を発表。
+      - [1月25日](https://ja.wikipedia.org/wiki/1月25日 "wikilink") ： ホワイトプラン専用の割引サービス「**[Wホワイト](https://ja.wikipedia.org/wiki/Wホワイト "wikilink")**」を発表。
+      - [5月10日](https://ja.wikipedia.org/wiki/5月10日 "wikilink") ： ホワイトプラン加入者に対して、追加料金なしで家族割引加入回線間の通話が24時間無料になるサービス「**ホワイト家族24**」を発表。
+      - [9月28日](https://ja.wikipedia.org/wiki/9月28日 "wikilink") ： ボーダフォン時代から展開していた[S\!CAST](https://ja.wikipedia.org/wiki/S!CAST "wikilink")と[S\!ケータイ動画](https://ja.wikipedia.org/wiki/S!ケータイ動画 "wikilink")のサービスを終了。ケータイ動画はYahoo\!動画β版へ移行する。
+      - [10月5日](https://ja.wikipedia.org/wiki/10月5日 "wikilink") ： auの新サービス「[シンプルコース](https://ja.wikipedia.org/wiki/シンプルコース "wikilink")」の各料金プランに対抗する「[シンプルオレンジS](https://ja.wikipedia.org/wiki/シンプルオレンジS "wikilink")」「[シンプルオレンジL](https://ja.wikipedia.org/wiki/シンプルオレンジL "wikilink")」を発表。auの場合と異なり、特にコース分けはされず、その代わりに「新スーパーボーナス」による端末購入を条件とし、さらにシンプルオレンジ選択時のスーパーボーナス特別割引額を減額することで対応した。
+      - [12月6日](../Page/12月6日.md "wikilink") ： CM好感度調査『2007年度消費者のCM-Branding評価best10』にて、ソフトバンクモバイルが年間首位（2009年まで3年連続1位）に選ばれる。\[7\]
+  - 2008年
+      - [1月10日](https://ja.wikipedia.org/wiki/1月10日 "wikilink") ： [ソフトバンク呼び出し音](https://ja.wikipedia.org/wiki/ソフトバンク呼び出し音 "wikilink")が全国でサービス開始。
+      - [1月22日](https://ja.wikipedia.org/wiki/1月22日 "wikilink") ： [ウォルト・ディズニー・ジャパン](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・ジャパン "wikilink")が、ソフトバンクモバイルとの協業で行う[ディズニー・モバイル](https://ja.wikipedia.org/wiki/ディズニー・モバイル "wikilink")のサービス内容について発表。[3月1日](../Page/3月1日.md "wikilink")にサービス開始。
+      - [1月28日](https://ja.wikipedia.org/wiki/1月28日 "wikilink") ： S\!キャストの後継サービスとして、[S\!情報チャンネル](https://ja.wikipedia.org/wiki/S!情報チャンネル "wikilink")を開始。また、[ティファニー](https://ja.wikipedia.org/wiki/ティファニー "wikilink")と提携し[823SH](https://ja.wikipedia.org/wiki/823SH "wikilink")をベースとした[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")モデルを制作することを発表。同時に、着せ替えパネル「JAPAN TEXTURE」も発表。[京友禅](https://ja.wikipedia.org/wiki/京友禅 "wikilink")の木村染匠が制作する「友禅」と[京漆器](https://ja.wikipedia.org/wiki/京漆器 "wikilink")の象彦が制作する「漆」2タイプが用意される。
+          - [パソコンの](../Page/パーソナルコンピュータ.md "wikilink")[メールがケータイメールと同様に使える](../Page/電子メール.md "wikilink")「[PCメール](https://ja.wikipedia.org/wiki/PCメール "wikilink")」の導入を発表。
+      - [2月1日](../Page/2月1日.md "wikilink") ： 一般的な[学校](https://ja.wikipedia.org/wiki/学校 "wikilink")に通学し、かつ[新規契約する](https://ja.wikipedia.org/wiki/新規契約_\(携帯電話\) "wikilink")[学生](https://ja.wikipedia.org/wiki/学生 "wikilink")[ユーザー](https://ja.wikipedia.org/wiki/ユーザー "wikilink")の基本使用料を3年間無料にする「**[ホワイト学割](https://ja.wikipedia.org/wiki/ホワイト学割 "wikilink")**」受付、提供開始。
+      - [2月4日](../Page/2月4日.md "wikilink") ： 3G[プリペイドサービス](https://ja.wikipedia.org/wiki/プリペイド式携帯電話 "wikilink")「[プリモバイル](https://ja.wikipedia.org/wiki/プリモバイル "wikilink")」を開始。
+      - [2月14日](../Page/2月14日.md "wikilink") ： [週刊新潮](https://ja.wikipedia.org/wiki/週刊新潮 "wikilink")2月21日号記事より[在日韓国人](https://ja.wikipedia.org/wiki/在日韓国人 "wikilink")だけが安いという割引サービスについて報道される。なお、韓国人以外にも同様のプランがeLifeTimeや[光通信](https://ja.wikipedia.org/wiki/光通信_\(企業\) "wikilink")（法人向け）などから提供されている。
+      - [2月22日](../Page/2月22日.md "wikilink") ： 最大10回線まで社員同士の通話が24時間無料となる「ホワイト法人24」を発表。また[2月28日](https://ja.wikipedia.org/wiki/2月28日 "wikilink")には「ホワイト法人24+」を発表。
+      - [3月31日](https://ja.wikipedia.org/wiki/3月31日 "wikilink") ： 「パケットし放題」での「PCサイトダイレクト」利用時の上限額の値下げとブループラン用「パケット定額Biz」「パケット定額フル」の新規申し込み受付終了。
+      - [4月15日](https://ja.wikipedia.org/wiki/4月15日 "wikilink") ： 既存加入者の「ホワイト学割」申し込み受付開始。2008年3月31日時点でSoftBank携帯電話利用者かつ学生だった者が対象で、この日以降最初の機種変更時に申し込み可能。
+      - [4月24日](https://ja.wikipedia.org/wiki/4月24日 "wikilink") ： ソフトバンクと[チャイナモバイル](https://ja.wikipedia.org/wiki/チャイナモバイル "wikilink")、ボーダフォンが合弁会社「ジョイント・イノベーション・ラボ(JIL)」を同年夏をめどに設立すると発表。JILは携帯電話向けインターネットサービスの高度化を目指して新技術やサービスを開発することを目的とする。
+      - [5月8日](https://ja.wikipedia.org/wiki/5月8日 "wikilink") ： BBフォンとの通話が24時間無料となる「[ホワイトコール24](https://ja.wikipedia.org/wiki/ホワイトコール24 "wikilink")」と、「おとくライン」を利用する法人向けの同様のサービス「ホワイトライン24」を発表。
+      - [6月3日](https://ja.wikipedia.org/wiki/6月3日 "wikilink") ： 「[ダブルナンバー](https://ja.wikipedia.org/wiki/ダブルナンバー "wikilink")」などの新サービスを発表。
+      - [6月4日](../Page/6月4日.md "wikilink") ： 「[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")（アイフォーン）」の日本国内販売に関する契約を、米Apple社と締結したことを発表\[8\]。
+      - [7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink") ： 2010年3月31日第2世代携帯電話(PDC)サービスを終了すると発表。
+      - [7月11日](https://ja.wikipedia.org/wiki/7月11日 "wikilink") ： 「iPhone 3G」の販売を開始。
+      - [11月21日](https://ja.wikipedia.org/wiki/11月21日 "wikilink") ： ソフトバンク初のカシオ製端末[830CA](https://ja.wikipedia.org/wiki/830CA "wikilink")発売。
+      - [12月5日](https://ja.wikipedia.org/wiki/12月5日 "wikilink") ： ソフトバンク初のシエラ･ワイヤレス製端末[C01SW](https://ja.wikipedia.org/wiki/C01SW "wikilink")発売。
+  - 2009年
+      - [3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") ： イー・モバイル網利用のパソコン向けモバイルデータ通信サービス開始。
+      - [4月1日](../Page/4月1日.md "wikilink") ： 新たに[ベライゾン・ワイヤレス](https://ja.wikipedia.org/wiki/ベライゾン・ワイヤレス "wikilink")がJILに参画することを発表。また、最初の実績としてウィジェットの稼働環境などが2010年3月末をめどに提供される見通し\[9\]。
+      - [6月26日](https://ja.wikipedia.org/wiki/6月26日 "wikilink") ： 「iPhone 3GS」の販売を開始。
+  - 2010年
+      - [3月28日](https://ja.wikipedia.org/wiki/3月28日 "wikilink") ： 「電波改善宣言」と称して、基地局の増設、自宅・店舗用小型基地局の提供、Wi-Fiルータ提供を発表\[10\]。
+      - [3月31日](https://ja.wikipedia.org/wiki/3月31日 "wikilink") ： Softbank 6-2のサービスが終了。
+      - [5月28日](../Page/5月28日.md "wikilink") ： 「[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")」の日本国内独占販売開始。
+      - [6月24日](https://ja.wikipedia.org/wiki/6月24日 "wikilink") ： 「[iPhone 4](https://ja.wikipedia.org/wiki/iPhone_4 "wikilink")」の販売を開始。
+      - [6月28日](https://ja.wikipedia.org/wiki/6月28日 "wikilink") ： 一部の国・地域への国際ローミング時の通信割引サービス「[海外パケットし放題](https://ja.wikipedia.org/wiki/海外パケットし放題 "wikilink")」の提供を[7月21日](https://ja.wikipedia.org/wiki/7月21日 "wikilink")より開始すると発表\[11\]。
+      - [12月15日](https://ja.wikipedia.org/wiki/12月15日 "wikilink") : 「ソフトバンクかんたん保険」の提供を開始。
+  - 2011年
+      - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink") : 1.5GHz帯による高速データ通信サービス「[ULTRA SPEED](https://ja.wikipedia.org/wiki/ULTRA_SPEED "wikilink")」を法人向けに提供開始。
+      - [7月1日](../Page/7月1日.md "wikilink") : PSコミュニケーションズ株式会社が提供する「ほっと電報」の、ソフトバンク携帯電話からの送信受付サービスを開始。
+      - [10月14日](https://ja.wikipedia.org/wiki/10月14日 "wikilink") : 「[iPhone 4S](https://ja.wikipedia.org/wiki/iPhone#iPhone_4S "wikilink")」を販売開始。
+  - 2012年
+      - [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") : [Wireless City PlanningのAXGP](https://ja.wikipedia.org/wiki/Wireless_City_Planning "wikilink")(TD-LTE)及びULTRA SPEEDを組み合わせたサービス「[SoftBank 4G](https://ja.wikipedia.org/wiki/SoftBank_4G "wikilink")」を開始。
+      - [2月29日](../Page/2月29日.md "wikilink") : [900MHz帯](https://ja.wikipedia.org/wiki/900MHz帯 "wikilink")(15MHz幅×2)がソフトバンクモバイルへ割り当てられる事が決定\[12\]。
+      - [3月1日](../Page/3月1日.md "wikilink") : ソフトバンクモバイルに割り当てられる事が決定した900MHz帯によるサービスが総務省により認可され、その後行われた会見において900MHz帯によるサービスを[プラチナ電波とする事を発表](https://ja.wikipedia.org/wiki/プラチナバンド_\(ソフトバンク\) "wikilink")\[13\]。
+      - [7月25日](https://ja.wikipedia.org/wiki/7月25日 "wikilink") : 新規に獲得した900MHz帯の一部（5MHz幅×2）を使用してW-CDMA (HSPA+) 方式によるサービスを開始。
+      - [9月21日](https://ja.wikipedia.org/wiki/9月21日 "wikilink") : 「[iPhone 5](https://ja.wikipedia.org/wiki/iPhone_5 "wikilink")」の取り扱いを開始。
+      - [10月1日](../Page/10月1日.md "wikilink") : [イー・モバイル](https://ja.wikipedia.org/wiki/イー・モバイル "wikilink")を運営する[イー・アクセス](https://ja.wikipedia.org/wiki/イー・アクセス "wikilink")と業務提携する。親会社の[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")による完全子会社に伴うもので、[1.7GHz帯](https://ja.wikipedia.org/wiki/1.7GHz帯 "wikilink")の[テザリング](https://ja.wikipedia.org/wiki/テザリング "wikilink")の総量規制緩和や実施時期の前倒しが行われる\[14\]。
+  - [2013年](https://ja.wikipedia.org/wiki/2013年 "wikilink")[4月2日](../Page/4月2日.md "wikilink") : [ダブルナンバー](https://ja.wikipedia.org/wiki/ダブルナンバー "wikilink")の新規受付終了\[15\]\[16\]。既存契約者へのサービスもその後2014年3月31日に終了した。
+
+<!-- end list -->
+
+  - 2014年
+      - [6月7日](https://ja.wikipedia.org/wiki/6月7日 "wikilink") : 国内通話無料の新料金プラン「**[スマ放題](https://ja.wikipedia.org/wiki/スマ放題 "wikilink")**」を発表。
+      - [7月](https://ja.wikipedia.org/wiki/7月 "wikilink") : W-CDMA方式を運用していない残りの900MHz帯（10MHz幅×2）にてLTE方式によるサービスを開始。
+  - [2015年](https://ja.wikipedia.org/wiki/2015年 "wikilink")
+      - [4月1日](../Page/4月1日.md "wikilink") : [ソフトバンクBB](https://ja.wikipedia.org/wiki/ソフトバンクBB "wikilink")株式会社、[ソフトバンクテレコム](https://ja.wikipedia.org/wiki/ソフトバンクテレコム "wikilink")株式会社、[ワイモバイル](https://ja.wikipedia.org/wiki/ワイモバイル "wikilink")株式会社を吸収合併\[17\]。
+
+<!-- end list -->
+
+  -
+
+      -
+        Y\!mobileブランドの回線が、従来からの当社の回線使用分についても自社回線となり、SoftBankブランドと[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")ブランドのAXGP回線とウィルコム3Gネットワークのうち、[インターネットイニシアティブ](https://ja.wikipedia.org/wiki/インターネットイニシアティブ "wikilink")に譲渡して同社からサポート委託を受けている契約を除き、すべてがソフトバンクモバイルの自社回線で行う体制となった。なおブランドとしては会社の合併後も過去の経緯上の名残により、現在も「ソフトバンク」と[「ワイモバイル」のデュアルブランドとして併存しており](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")、それぞれの加入者サービスも引き続いて継続している。
+
+<!-- end list -->
+
+  - [2016年](https://ja.wikipedia.org/wiki/2016年 "wikilink")：3月「パ・リーグLIVE」サービス終了（2月発表）\[18\]
+  - [2019年](https://ja.wikipedia.org/wiki/2019年 "wikilink")11月12日：フォトビジョン・みまもりカメラ・みまもりホームセキュリティ・スマート体組成計の各専用プラン、シンプルスタイル（3Gケータイ／3Gスマートフォン）の新規受付終了\[19\]。
+
+## 現行のサービス
+
+### 料金プラン
+
+  - 2018年9月5日時点で新規契約が可能なプラン
+
+<!-- end list -->
+
+  - ウルトラギガモンスター＋（データ定額50GB＋）
+      -
+        最大50ギガバイトまでのデータ通信が可能。一部の動画・SNSサイトに対する通信をデータ通信料から除外する（カウントフリー）。当プラン契約の場合[月月割](https://ja.wikipedia.org/wiki/月月割 "wikilink")の適用対象外となる。
+        ※3日間で3GB以上を通信した場合は、翌日が速度制限の対象となる。
+        ※動画や音楽等のコンテンツのストリーミング時は通信制御にて500kbpsに変換されるため、本来の品質より劣化したコンテンツしか鑑賞できない場合がある。
+  - データ定額ミニモンスター
+      -
+        データ通信量に応じて料金が変動するプラン（閾値は1GB・2GB・4GB）。当プラン契約の場合月月割の適用対象外となる。
+  - 通話基本プラン
+      -
+        「ウルトラギガモンスター＋」「データ定額ミニモンスター」とセットで契約する通話料金プラン。1回5分以内の通話が無料になる「準定額オプション」およびほぼ全ての通話が無料になる「定額オプション」を別途付加することができる。
+  - [スマ放題](https://ja.wikipedia.org/wiki/スマ放題 "wikilink")・スマ放題ライト
+      -
+        2014年7月受付を開始した料金プラン。2018年9月以降は、携帯・[タブレット](https://ja.wikipedia.org/wiki/タブレット "wikilink")機種のみ契約可能。
+  - [シンプルスタイル](https://ja.wikipedia.org/wiki/シンプルスタイル_\(ソフトバンク\) "wikilink")
+      -
+        2008年2月4日新規受付開始した、料金先払い([プリペイド](https://ja.wikipedia.org/wiki/プリペイド "wikilink"))制プラン。2019年11月13日以降は4Gのみ。
+
+<!-- end list -->
+
+  - 2018年9月までに新規契約受付を終了したプラン
+
+<!-- end list -->
+
+  - [ホワイトプラン](https://ja.wikipedia.org/wiki/ホワイトプラン "wikilink")
+      -
+        申込時期によりサービス内容に相違があるが、広告等ではすべて「ホワイトプラン」表記である。
+  - ホワイトプランR
+      -
+        2012年11月1日から受付を開始した料金プランである。ホワイトプランNとの違いは、基本料が無料になる月がなくなったことと、初回の契約更新月が25ヶ月目のみになったことである。
+  - ホワイトプランN
+      -
+        2010年4月27日から[2012年](https://ja.wikipedia.org/wiki/2012年 "wikilink")[10月31日](https://ja.wikipedia.org/wiki/10月31日 "wikilink")まで受け付けていた料金プランである。旧ホワイトプランに違約金（9500円（税抜）、更新月除く）付きの2年契約（2年ごとに自動更新）が付加された。障害者向けのハードフレンド割引が適用されている場合は、違約金付きの2年契約は免除される。ソフトバンクオンラインショップで新規契約で携帯電話端末を買うとホワイトプランNになる（旧ホワイトプランで利用している場合の機種変更の場合はそのまま）。
+  - 旧ホワイトプラン
+      -
+        2007年1月に登場した、ソフトバンクの主力料金プラン。2010年4月26日をもって新規受付終了。
+  - [ゴールドプラン](https://ja.wikipedia.org/wiki/ゴールドプラン_\(SoftBank\) "wikilink")
+      -
+        2006年10月に登場。[ホワイトプラン](https://ja.wikipedia.org/wiki/ホワイトプラン "wikilink")の登場で存在価値が薄れている。2015年8月31日をもって新規受付終了。
+  - [オレンジプラン](https://ja.wikipedia.org/wiki/オレンジ/ブループラン "wikilink")
+      -
+        2006年10月に登場した、[auの](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")[CDMA 1X](https://ja.wikipedia.org/wiki/CDMA_1X "wikilink")、[CDMA 1X WINの](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")2つの料金プランより基本使用料が200円安い料金プラン。2015年8月31日をもって新規受付終了。
+  - [ブループラン](https://ja.wikipedia.org/wiki/オレンジ/ブループラン "wikilink")
+      -
+        2006年10月に登場した、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[FOMA](https://ja.wikipedia.org/wiki/FOMA "wikilink")・[mova](https://ja.wikipedia.org/wiki/mova "wikilink")の新・料金プランより基本使用料が200円安い料金プラン。2015年8月31日をもって新規受付終了。
+  - [レッドプラン](https://ja.wikipedia.org/wiki/レッドプラン "wikilink")
+      -
+        [ボーダフォン](https://ja.wikipedia.org/wiki/ボーダフォン "wikilink")時代の料金プランで、2007年3月で新規受付終了。
+
+### 主なオプション
+
+  - [ウェブ使用料](https://ja.wikipedia.org/wiki/ウェブ使用料 "wikilink")
+    Web、[S\!メール](https://ja.wikipedia.org/wiki/S!メール "wikilink")(MMS)などの基本サービス。月額300円（税抜）。
+  - [S\!メール（MMS）どこでもアクセス](https://ja.wikipedia.org/wiki/S!メール（MMS）どこでもアクセス "wikilink")
+    S\!メール（@\*.vodafone.ne.jp、@softbank.ne.jp）をブラウザー経由で利用できる。月額300円（税抜）。
+  - [あんしん保証パックプラス](https://ja.wikipedia.org/wiki/あんしん保証パックプラス "wikilink")
+    あんしん保証パックとの違いは、ケータイなんでもサポート（単品での加入の場合、月額500円（税抜）。）が付くこと。月額650円（税抜）。
+  - [あんしん保証パック](https://ja.wikipedia.org/wiki/あんしん保証パック "wikilink")
+    修理無料になるパック。1年後の電池無料提供の特典や、機種変更時の特典等もある。月額500円（税抜）。
+    ***いかなる現象でも水濡れの痕跡を発見したら原因は水濡れ故障として扱われる***（ソフトバンク本社より回答）[1](http://faq.softbank.jp/faq/sbm/app/servlet/qadoc?010644)
+  - [ケータイ基本パック](https://ja.wikipedia.org/wiki/ケータイ基本パック "wikilink")（旧・スーパー便利パック→旧・[基本オプションパック](https://ja.wikipedia.org/wiki/基本オプションパック "wikilink")）
+    機能強化版の留守番電話や紛失時の遠隔ロック（対応機のみ）などのサービスをひとまとめにしたオプションパック。月額500円（税抜）。
+  - [スマートフォン基本パック](https://ja.wikipedia.org/wiki/スマートフォン基本パック "wikilink")
+    ケータイ基本パックのスマートフォン版で、ウイルス対策ソフトの[マカフィー](https://ja.wikipedia.org/wiki/マカフィー "wikilink")など、パッケージ内容が一部スマートフォン向けに変更されたオプションパック。月額500円（税抜）。ただし、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")の場合は[iPhone基本パック](https://ja.wikipedia.org/wiki/iPhone基本パック "wikilink")となり、内容も別となる（金額は同一）。
+  - [S\!電話帳バックアップ](https://ja.wikipedia.org/wiki/S!電話帳バックアップ "wikilink")（旧・S\!アドレスブック）
+    電話帳のデータをサーバへ預けておき、機種変更時の移行や迷惑メール対策に利用できる。パソコンからの編集も可能。基本オプションパックに含まれ、単独で付与した場合は月額100円（税抜）。
+  - [パケットし放題](https://ja.wikipedia.org/wiki/パケットし放題 "wikilink")
+    パケット定額制サービス。
+  - 請求書オプション
+    請求書を紙面で受け取りたい場合に付加するオプション。請求先ごとに月額100円（税抜）。「[ハートフレンド割引](https://ja.wikipedia.org/wiki/障害者割引 "wikilink")」加入回線を含む請求先など、手数料が無料となる場合がある。
+
+### サービス
+
+  - [Yahoo\!ケータイ](https://ja.wikipedia.org/wiki/Yahoo!ケータイ "wikilink")
+  - [位置ナビ](https://ja.wikipedia.org/wiki/位置ナビ "wikilink")（旧・イチなび）([3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink"))
+  - [S\!速報ニュース](https://ja.wikipedia.org/wiki/S!速報ニュース "wikilink")（旧・ライブモニター）(3G) - 2018年3月13日サービス終了予定。
+  - [S\!情報チャンネル](https://ja.wikipedia.org/wiki/S!情報チャンネル "wikilink")(3G)
+  - [ちかチャット](https://ja.wikipedia.org/wiki/ちかチャット "wikilink")(3G)
+  - [S\!FeliCa](https://ja.wikipedia.org/wiki/S!FeliCa "wikilink")(3G)
+  - [PCサイトブラウザ](https://ja.wikipedia.org/wiki/フルブラウザ "wikilink")(3G)
+  - [PCサイトダイレクト](https://ja.wikipedia.org/wiki/PCサイトダイレクト "wikilink")（[Xシリーズ](https://ja.wikipedia.org/wiki/SoftBank_X "wikilink")）
+  - [ソフトバンクワイヤレスアシスタント](https://ja.wikipedia.org/wiki/ソフトバンクワイヤレスアシスタント "wikilink")
+  - [データ通信](https://ja.wikipedia.org/wiki/データ通信 "wikilink")
+  - [アクセスインターネット](https://ja.wikipedia.org/wiki/アクセスインターネット "wikilink") - [プロバイダ契約をせずに](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")に接続できるサービス
+  - [TVコール](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")（3G、Xシリーズ）
+  - [各種テレホンサービス](https://ja.wikipedia.org/wiki/各種テレホンサービス "wikilink")
+  - [情報知っ得ダイヤル](https://ja.wikipedia.org/wiki/情報知っ得ダイヤル "wikilink")
+  - [ソフトバンクモバイルグルメ](https://ja.wikipedia.org/wiki/ソフトバンクモバイルグルメ "wikilink")
+  - [きせかえアレンジ](https://ja.wikipedia.org/wiki/きせかえアレンジ "wikilink")(3G)
+  - [S\!まとめて支払い](https://ja.wikipedia.org/wiki/S!まとめて支払い "wikilink")(3G)
+  - [ダブルナンバー](https://ja.wikipedia.org/wiki/ダブルナンバー "wikilink")(3G) - [2013年](https://ja.wikipedia.org/wiki/2013年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")で新規加入受付終了\[20\]\[21\]。既存加入者は継続。
+  - [世界対応ケータイ](https://ja.wikipedia.org/wiki/世界対応ケータイ "wikilink")（旧・国際ローミング）（3G、Xシリーズ）
+
+#### コンテンツ
+
+  - [タダデコ](https://ja.wikipedia.org/wiki/タダデコ "wikilink")(3G)
+  - [タダコミ](https://ja.wikipedia.org/wiki/タダコミ "wikilink")(3G)
+  - [タダゲーム](https://ja.wikipedia.org/wiki/タダゲーム "wikilink")(3G)
+  - [タダ歌ばん](https://ja.wikipedia.org/wiki/タダ歌ばん "wikilink")(3G)
+  - [電子コミック](https://ja.wikipedia.org/wiki/電子コミック "wikilink")(3G)
+  - [S\!アプリ](https://ja.wikipedia.org/wiki/S!アプリ "wikilink")
+  - [着うた](https://ja.wikipedia.org/wiki/着うた "wikilink")（6-5及び3G）
+  - [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")(3G)
+  - [コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink")（旧・レコメール）(3G)
+  - [S\!GPSナビ](https://ja.wikipedia.org/wiki/S!GPSナビ "wikilink")(3G)
+
+#### メール
+
+  - [S\!メール](https://ja.wikipedia.org/wiki/S!メール "wikilink")
+  - [SMS](https://ja.wikipedia.org/wiki/S!メール "wikilink")
+
+## 提供を終了したサービス
+
+  - スカイウェブ（デジタルホン/J-PHONE時代に提供されていた、スカイメールを利用した情報サービスおよびWWW閲覧サービス） - 2002年3月27日終了
+  - スカイファックス（携帯電話から[ファックスへ文字や写真を送信できるサービス](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")） - 2007年6月30日終了
+  - オープンコンテンツ情報料課金サービス（非公式サイトの情報料集金サービス） - 2007年7月31日終了
+  - [S\!CAST](https://ja.wikipedia.org/wiki/S!CAST "wikilink")(3G) - 2007年9月28日終了（2008年1月28日に類似サービス[S\!情報チャンネル](https://ja.wikipedia.org/wiki/S!情報チャンネル "wikilink")を開始）
+  - [S\!ケータイ動画](https://ja.wikipedia.org/wiki/S!ケータイ動画 "wikilink")(3G) - 2007年9月30日終了
+  - 写メールカード - 2008年8月31日終了
+  - ソフトバンクワイヤレスアシスト(3G) - 2008年10月31日終了
+  - [S\!ミュージックコネクト](https://ja.wikipedia.org/wiki/S!ミュージックコネクト "wikilink")（3G、Xシリーズ） - 2009年3月31日終了
+  - [S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")(3G) - 2009年3月31日終了
+  - 第二世代携帯電話向けナンバーロック(6-2) - 2009年3月31日終了
+  - [S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")(3G) - 2009年9月30日終了
+  - [S\!おなじみ操作](https://ja.wikipedia.org/wiki/S!おなじみ操作 "wikilink")(3G) - 2009年10月31日終了（ただし、ダウンロード済みのファイルを対応端末で利用することは可能）
+  - [Yahoo\! mocoa](https://ja.wikipedia.org/wiki/Yahoo!_mocoa "wikilink")(3G) - 2009年12月2日終了
+  - [S\!一斉トーク](https://ja.wikipedia.org/wiki/S!一斉トーク "wikilink")（旧・サークルトーク）(3G) - 2011年9月30日終了
+  - S\!ともだち状況（旧・ホットステータス）(3G) - 2011年9月30日終了
+  - [着デコ](https://ja.wikipedia.org/wiki/着デコ "wikilink")(3G) - 2011年9月30日終了
+  - [SoftBank 6-2](https://ja.wikipedia.org/wiki/SoftBank_6-2 "wikilink")
+      - [第2世代携帯電話](https://ja.wikipedia.org/wiki/第2世代携帯電話 "wikilink")（[PDC](https://ja.wikipedia.org/wiki/PDC "wikilink")方式）サービス。かつてのJフォン・ボーダフォン時代の主力サービス。2010年3月31日終了。
+  - [ソフトバンクプリペイドサービス](https://ja.wikipedia.org/wiki/ソフトバンクプリペイドサービス "wikilink")・Pj
+      - SoftBank2シリーズ（V1-2シリーズ）端末による料金先払い制。2008年3月で新規受付停止。2010年3月31日終了。
+  - [スカイメロディ](https://ja.wikipedia.org/wiki/スカイメロディ "wikilink")・[スカイメール](https://ja.wikipedia.org/wiki/スカイメール "wikilink")（ロングメール・ロングEメール）・[ステーション](https://ja.wikipedia.org/wiki/ステーション_\(ソフトバンクモバイル\) "wikilink")
+      - いずれもSoftBank 6-2と同じく2010年3月31日終了。
+
+## 信用情報機関への誤登録事件
+
+### 概要
+
+[2013年](https://ja.wikipedia.org/wiki/2013年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")、ソフトバンクは携帯端末を買った一部顧客の支払い情報を「未入金」と[信用情報](https://ja.wikipedia.org/wiki/信用情報 "wikilink")機関に誤登録したと発表した\[22\]。携帯電話端末の分割支払いを適切に行っている利用者情報が、信用情報機関である[CIC](https://ja.wikipedia.org/wiki/信用情報#シー・アイ・シー "wikilink")（シー・アイ・シー）および[日本信用情報機構](https://ja.wikipedia.org/wiki/日本信用情報機構 "wikilink")に、誤って「携帯端末料金未払い利用者」として登録された。誤って登録された利用者情報は63,133件である。信用情報機関に加盟する企業が、それらの誤った情報を参照した回数は16,827件である。最大で3ヶ月間の支払い滞納者として登録された。利用者によっては、[クレジットカード](https://ja.wikipedia.org/wiki/クレジットカード_\(日本\) "wikilink")・ローン・家賃保証会社の与信審査に落ちるなどの弊害が発生している。
+
+### 問題点
+
+  - 利用者から指摘された後、6ヶ月間公表を控えたこと。信用情報機関の加盟企業が機関に情報を照会した記録（申込情報）は6ヶ月で消去されるため、それ以前に誤った情報が参照されたことを調べることができない。
+  - 発覚した時点で早期の[情報公開](https://ja.wikipedia.org/wiki/情報公開 "wikilink")を行うことで、被害が最小限にとどまった可能性があるにもかかわらず、調査を優先して6ヶ月の遅れを来たしたことである。
+  - 6万件超の列挙方法が未公開である。
+  - [コンピュータシステム](https://ja.wikipedia.org/wiki/コンピュータシステム "wikilink")の不具合と発表したが、engadgetの取材には「人為的な設定ミス」が原因であり、2回ミスがあったと回答した。
+  - [9月30日](https://ja.wikipedia.org/wiki/9月30日 "wikilink")のソフトバンクの冬春モデル発表会において、事実を把握しているにもかかわらず、「[総務省](../Page/総務省.md "wikilink")に報告すべき通信の重大な事故は850日以上ない」と[孫正義](https://ja.wikipedia.org/wiki/孫正義 "wikilink")は発表した。
+  - ソフトバンクとしては個別対応するとしているが、実際には信用情報が照会された先の企業が取得した情報への修正は、現実的に不可能であり、利用者の不利益を取り戻すことは出来無い。
+
+### ソフトバンクにおける個人情報の取り扱い
+
+ソフトバンクにおける[個人情報](https://ja.wikipedia.org/wiki/個人情報 "wikilink")の取り扱いが、公式[ウェブサイト](../Page/ウェブサイト.md "wikilink")によって提示されている\[23\]。
+
+1.  個人情報保護
+2.  電気通信事業等における個人情報の取り扱い
+3.  割賦販売・個別信用購入あっせん等における個人情報の取り扱い
+4.  保険関連サービスにおける個人情報の取り扱い
+5.  ソフトバンク携帯サイト向け広告事業の個人情報の取り扱い
+6.  ソフトバンク携帯サイト向けインターネット検索サービス事業における個人情報の取り扱い
+7.  発電事業における個人情報の取り扱い
+8.  古物取引における個人情報の取り扱い
+9.  社員等個人情報の取り扱い
+
+## 番号ポータビリティに関する問題
+
+### 概要
+
+[番号ポータビリティ](https://ja.wikipedia.org/wiki/番号ポータビリティ "wikilink") (MNP) 開始前日の10月23日に新プランなどの発表を行った影響で、さまざまな出来事が発生した。ソフトバンクは[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")15時頃から[10月30日](https://ja.wikipedia.org/wiki/10月30日 "wikilink")20時にかけて、[ゴールドプランへの申し込み殺到によりソフトバンクの登録業務システムにトラブルが生じたと発表した](https://ja.wikipedia.org/wiki/ゴールドプラン_\(SoftBank\) "wikilink")。NTTドコモおよびKDDI (au) はホームページ上において、ソフトバンクモバイルに対して厳重に抗議したと発表した。また、一部店頭では「お客様各位 NTTドコモとKDDI(au)においてシステム障害が発生しております」との誤った説明がなされたと言われ（「[ZAKZAK](https://ja.wikipedia.org/wiki/ZAKZAK "wikilink")」による報道）、当時の混乱ぶりがうかがえる。このトラブルについて11月11日付[ゲンダイネットの報道では](https://ja.wikipedia.org/wiki/日刊ゲンダイ "wikilink")、実際はソフトバンクから他社へのキャリア変更（転出）が殺到したのではないかとの推測がなされた。しかし減少数は少なかったので、MNPによる転出者が多すぎたというのも定かでない。また新規契約がかなり多く、ゴールドプランによる影響とも考えられる。別の報道では、家族割引契約の主副回線を決定するプログラムに問題があったとされる。家族まるごとMNPを利用して他事業者に引っ越しした場合、集約すべき主回線契約がなくなるため無限ループに陥ったと説明された。
+
+なお時期は違えど、同様のMNP情報交換に関するトラブルがツーカーを含む携帯事業者4社全てで起こったことから、システムの拡充を急ぐことが各社に求められた。
+
+### 経過
+
+  - 2006年[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") - 新プラン発表と大々的なキャンペーンが功を奏し、さらに週末という条件が重なり新規加入・機種変更・契約変更ユーザーが殺到した。同日17時30分頃、予想外の集客に契約に関するシステムがダウン、全登録業務を停止し、通常21時頃まで営業している受け付け時間を切り上げた\[24\]。
+  - 2006年[10月29日](https://ja.wikipedia.org/wiki/10月29日 "wikilink") - システムを回復させ営業を再開したが、MNP登録に関する遅延が発生していたため他キャリアへの転出・他キャリアからの転入業務を停止\[25\]。それ以外の契約業務については引き続き営業中であったが、その後事務処理能力が限界に達する恐れが出てきたため、同日12時10分に再停止した。
+  - 同日 - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")内の一部の「ソフトバンクショップ」にて「NTTドコモ、KDDIにてシステム障害が発生している」という、事実と異なる説明の張り紙を行っていた事が判明。企業姿勢を問われる報道が10月30日になされた。
+  - 同日 - NTTドコモ、KDDIは連名で、MNPに関する障害によって商機を逸したとしてソフトバンクへ強く抗議。さらに障害の原因究明と対策、そしてキャリア三社連携の必要性をソフトバンクに求めた\[26\]。
+  - 2006年[10月30日](https://ja.wikipedia.org/wiki/10月30日 "wikilink") - 8時にシステムを復旧。他キャリアへの転出・他キャリアからの転入業務を再開。しかし、今後またシステムが停止する恐れがあるとし、[11月5日](https://ja.wikipedia.org/wiki/11月5日 "wikilink")までは新規加入及びMNPに関するもののみの受付とし機種変更は停止状態になっていた\[27\]。
+  - 同日 - 社長の孫正義は記者会見を開き、顧客・NTTドコモ・KDDIに対して「ご迷惑をおかけしたことをお詫びしたい」とコメントした\[28\]。
+  - 2006年[11月6日](https://ja.wikipedia.org/wiki/11月6日 "wikilink") - 当初全業務完全復旧の予定であったが、既存客からの携帯電話の機種変更や料金プラン変更の受付を停止した。通常の平日より申し込みが多く、システムへの負荷を軽くするためとされる。同日中に処理できる分に限って申し込みを受け付け、東海から関西地域以西は16時、他の地域も18時で受付中止。6日は再開待ちの客の受付が増えたためとみられる。[11月7日](https://ja.wikipedia.org/wiki/11月7日 "wikilink")から[11月10日](https://ja.wikipedia.org/wiki/11月10日 "wikilink")までの既存客からの受付時間を19時までに早めることに決定した\[29\]。
+  - 2006年[12月17日](https://ja.wikipedia.org/wiki/12月17日 "wikilink") - KDDIが番号ポータビリティの受付を停止、ソフトバンクモバイルおよびドコモに影響が出た。
+
+## 諸問題
+
+**契約時に通信速度の制御について“不利益の不告知”の疑い**
+
+通信契約締結時に通信速度の制御について がある場合に説明をしない、消費者に対して消費者関連法の“不利益の不告知”の疑いがある。 通信速度の制御については、 4G/4G LTEパケット定額サービス・料金プランでの通信制御実施条件\[30\]において、 “パケットし放題フラット for 4G LTE”等の料金プランが、データ通信量が過去3日間で約3GB以上の場合は、速度制限が約3GB以上ご利用した翌日の午前6時から24時間に実施される。2019年11月2日の行政の公開イベントにて、消費者団体が無線電波の国民共有財産の観点から、各社の通信条件の比較表を公開説明したことにより、来場した消費者がソフトバンクに対する従来のイメージや説明等と異なる事に気づいた。
+
+### 広告・テレビCMに関する問題
+
+2006年12月に放送されたゴールドプラン紹介の[テレビ](../Page/テレビ.md "wikilink")[CMでは](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")、[ラクロス](https://ja.wikipedia.org/wiki/ラクロス "wikilink")の女子学生同士の会話を、他携帯ユーザーに対する[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")を助長するものだと受け取った視聴者からの苦情が、[JAROに対して](https://ja.wikipedia.org/wiki/日本広告審査機構 "wikilink")1日約250件寄せられた。広報部は「ゴールドプランの便利さを紹介したいがために制作したものであり、いじめを助長するために作ったものではない」とコメントしている。なお、当該CMの放送は同年12月24日に終了している（ソフトバンクは「予定通りの終了」としている）。
+
+「通話料、メール代0円」と大きく書かれたゴールドプラン（予想外割）の新聞広告が掲載されたが、「ソフトバンク以外の通話、メールは有料」といった注意文言の文字が小さくわかりにくかった。こうした広告は[景品表示法](https://ja.wikipedia.org/wiki/景品表示法 "wikilink")違反（有利誤認）にあたるおそれがあるとして、公正取引委員会はソフトバンクモバイルに対して警告した。また同時にドコモ、KDDIも広告が同規定に違反するおそれがあるとして注意を受けている\[31\]。
+
+#### iPhoneの自動通信機能に関する広告表示問題
+
+iPhoneの3G通信機能をONにしている場合、アプリケーションを追加しない初期状態で利用者がアプリケーションやメールを利用していなくても、利用者が認識しない自動通信によりパケット定額の下限額（1029円）を上回る通信料が発生することが確認された。そのため2011年5月、総務省はソフトバンクモバイルの広告表示が不適正であったと同社に対し、下限額を越える通信料が発生した原因と不適正な広告表示となった原因を究明するとともに広告表示の適正化などの改善措置を行い、それらの報告を求める行政指導を行った\[32\]。
+
+### 本人確認を怠った問題
+
+2006年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")、ソフトバンクショップを運営する株式会社エムデジが[携帯電話不正利用防止法](https://ja.wikipedia.org/wiki/携帯電話不正利用防止法 "wikilink")に基づく譲渡時本人確認を行っておらず、同法第5条第1項の違反で総務省が是正を命じた。またソフトバンクに対しては再発防止措置の徹底を要請した\[33\]。
+
+しかし2007年[4月12日](https://ja.wikipedia.org/wiki/4月12日 "wikilink")、ソフトバンクショップを運営している代理店2店舗（有限会社ウエスタン・有限会社アイシーエス）が、携帯電話購入時に個人確認を怠ったとして、総務省が代理店2店舗と監督元であるソフトバンクモバイルに対し再発防止措置の徹底を行なうよう行政指導を行なった。ソフトバンクモバイルはこの代理店2店舗に対し、販売促進支援およびショップ支援を3カ月間停止を決定し、ソフトバンクショップ全代理店に対し、携帯電話を販売する際の個人確認を徹底するように指導した\[34\]。
+
+さらに2007年[6月12日](https://ja.wikipedia.org/wiki/6月12日 "wikilink")には、ソフトバンクモバイルの携帯電話販売代理店を運営するケアアンドコミュニケーションが、契約者の本人確認を怠ったとして、総務省は同社に是正命令を出した。ソフトバンクモバイルにも代理店に対する監督を徹底するよう再度行政指導を行った\[35\]。
+
+### 振り込め詐欺対策
+
+2008年1月から6月に[振り込め詐欺](https://ja.wikipedia.org/wiki/振り込め詐欺 "wikilink")・[オレオレ詐欺](https://ja.wikipedia.org/wiki/オレオレ詐欺 "wikilink")で使用された携帯電話約2,300台のうち約7割がソフトバンク携帯だった\[36\]との報道が12月にあった。[警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink")では、同社を含む携帯電話各社に本人確認の徹底を再度要請した。その後同社は、2008年度下期決算報告において、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")割賦販売開始当初は[信用情報](https://ja.wikipedia.org/wiki/信用情報 "wikilink")調査を十分に行わなかったため、割賦代金を支払わない契約が続出し、累積で500億円の負債焦げ付きも発生していたが、その後購入時の審査を強化し、このような事態は概ね防ぐことができているとした\[37\]。
+
+### 通信障害
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月9日](https://ja.wikipedia.org/wiki/4月9日 "wikilink")、[5月5日](../Page/5月5日.md "wikilink")、[5月6日](https://ja.wikipedia.org/wiki/5月6日 "wikilink")に音声通話不可・パケット通信不可等の事故が3件発生した。これらの事故は影響が大規模かつ長時間にわたったことから重大な事故として取り扱われた。また、いずれの事故も予備系の設備が設置されていたにもかかわらず適切に機能せず、大規模なサービス停止に至ったと判明している。重大な事故が相次いだことを受けて総務省は5月14日、改善を行うようソフトバンクモバイルに指導した。なお、その後も同年10月に[鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")で約71,000人、2009年1月に[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")で約49,000人、2月には[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")で約54,000人が、携帯電話の音声通話ができなくなる通信障害が発生している。
+
+[2009年](../Page/2009年.md "wikilink")[4月19日](https://ja.wikipedia.org/wiki/4月19日 "wikilink")にはYahoo\!ケータイ、S\!メールが1570万以上の端末で最大7時間近く利用ができない事故が発生した。当初は[東日本](https://ja.wikipedia.org/wiki/東日本 "wikilink")のみの障害としていたが、翌日、softbank.ne.jpドメインのS\!メールの送受信について全国で障害が発生していたと訂正。また、[4月23日](https://ja.wikipedia.org/wiki/4月23日 "wikilink")にソフトバンクモバイルのコーポレートサイトにおいてこの事故についてのプレスリリースを発行した\[38\]。この事故の発生を受け、総務省はソフトバンクモバイルに対し再発防止策や（他の設備も含む）設備の点検を求める行政指導を行った。また、利用者への周知が不十分であったとして、利用者への障害周知方法の改善策も求めた\[39\]\[40\]。それに伴い、ソフトバンクモバイルでは2009年[5月25日](https://ja.wikipedia.org/wiki/5月25日 "wikilink")付けで総務省へ報告書を提出。再発防止策として、ネットワークが不通に至った事象を防止する新たな機能を実装したことや故障検出機能の強化をしたこと、事故情報をホームページの見やすい位置に掲載するなど、利用者への告知性を向上したと報告した\[41\]。
+
+2009年[7月18日](../Page/7月18日.md "wikilink")に、午前7時ごろから約10時間にわたって、約14万6000人が第2世代の携帯電話機での通信通話が行えなくなるという、当年4度目の重大な事故が生じた。第2世代携帯電話機の使用者のうち、東北6県と新潟県での契約者および、障害発生時にこの地域にいた人が影響を受けた。
+
+2010年3月9日、沖縄県を含む九州エリアで緊急通報番号（110番・119番・118番）への発信ができない状態が11時20分ごろから5時間弱にわたり発生（118番への発信障害は山口県も影響を受けた）。ネットワーク設備の不具合が原因。復旧した16時35分近くまで不具合の状況を把握できておらず、利用者への通知もなされていなかった\[42\]。
+
+2010年[7月4日](https://ja.wikipedia.org/wiki/7月4日 "wikilink")、午前5時58分ごろから北海道・東北・関東・東海地区でSoftBank 3G端末からのWeb接続ができなくなった。また、一部機種とiPhoneではMMS（S\!メール）の利用ができない状態となった。障害は4時間半後に一部コンテンツサービスの利用を除き復旧、午後1時53分に完全復旧と発表された\[43\]\[44\]。同年7月15日、この障害の原因と対策について報告された\[45\]。原因はハードウェアの故障と、予備サーバーへの自動切り替えが適切に機能しなかったことによると発表している。
+
+2010年[9月17日](https://ja.wikipedia.org/wiki/9月17日 "wikilink")、19時37分頃からメールの送受信・Webへの接続がつながりにくいといった障害が発生した。発生エリアは日本全国であった。発生から3時間後の21時35分に復旧の発表がされたが、影響人数、原因等は発表されていない\[46\]。
+
+2011年[5月25日](https://ja.wikipedia.org/wiki/5月25日 "wikilink")、[近畿](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")2府3県（[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")・[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")・[兵庫県](../Page/兵庫県.md "wikilink")・[奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")・[滋賀県](../Page/滋賀県.md "wikilink")）の一部地域で、ソフトバンクモバイルの契約者約7万2,000人について、携帯電話の通話や電子メールの送受信が困難になる障害が発生した。同社は、人為的に障害が引き起こされたとして、[6月](../Page/6月.md "wikilink")に[大阪府警に](https://ja.wikipedia.org/wiki/大阪府警察 "wikilink")[被害届](https://ja.wikipedia.org/wiki/被害届 "wikilink")を提出。[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")に同府警は、同社の大阪府内の事務所内にある[通信機器](https://ja.wikipedia.org/wiki/通信機器 "wikilink")端末の[データ](https://ja.wikipedia.org/wiki/データ "wikilink")を、[不正プログラムを仕込むことで破壊し](https://ja.wikipedia.org/wiki/マルウェア "wikilink")、[基地局](https://ja.wikipedia.org/wiki/基地局 "wikilink")からの電波発信を不可能にさせることで通信障害を引き起こしたとして、同社の業務委託先の元社員の男性を、[電子計算機損壊等業務妨害罪で逮捕した](https://ja.wikipedia.org/wiki/信用毀損罪・業務妨害罪#電子計算機損壊等業務妨害罪 "wikilink")\[47\]\[48\]。
+
+2018年12月6日、午後1時39分ごろから全国でデータ通信や通話ができなくなったり、インターネット事業の「おうちのでんわ」および「SoftBank Air」で通信障害が発生した。この障害は同日午後6時4分復旧した\[49\]\[50\]。原因は[エリクソン](https://ja.wikipedia.org/wiki/エリクソン "wikilink")製のパケット交換機全台にソフトウェア異常が発生し、4Gネットワークに問題が発生、3Gネットワークにも輻輳が起こって通信障害が起きたとしている。また、この障害はイギリスのO2などエリクソン製の交換設備を使用する海外11カ国の通信事業者でもほぼ同時刻に発生したことも明らかにされた\[51\]\[52\]。
+
+### その他の問題
+
+#### MNO事業者によるMVNO
+
+2009年3月よりソフトバンクモバイルは、イー・モバイル網を使った[MVNO](https://ja.wikipedia.org/wiki/MVNO "wikilink")におけるデータ通信サービスを実施した。これらのようなMNOによるMVNOに対し、社団法人テレコムサービス協会 MVNO協議会は次のように反対をしている\[53\]。
+
+> 本行為は違法ではなくガイドラインにも反してはいないが、第1種通信免許をもつ事業者(MNO)が他のMNOの通信網を利用するMVNO事業を行うことは、第1種通信事業者としてのモバイル通信網の拡大に対する怠慢であり、有限な周波数の公平な利用に反するにとどまらず、事業者の多様化にもつながらず、移動体通信の競争を阻害する。
+
+これに対し孫社長は、周波数を有効利用するものであり問題はないと反論をしている。
+
+これをふまえ、総務省は同問題に対し、総務省情報通信審議会電気通信事業政策部会および接続政策委員会において調査審議の上、抑制を踏まえた答申が取りまとめられる予定であると発表している。なおPHS事業者の[ウィルコム](https://ja.wikipedia.org/wiki/ウィルコム "wikilink")もNTTドコモおよびMVNO協議会議長である[日本通信](https://ja.wikipedia.org/wiki/日本通信 "wikilink")の設備を利用し、MVNOサービスを実施している。これをふまえ、総務省は2009年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")、「情報通信審議会 電気通信事業政策部会 接続政策委員会」の第7回会合を開催し、ソフトバンクとイー・モバイルのようなMNOのMVNOは「MNOは自ら基地局などの設備投資を行うのが義務である」という考え方に基づき原則禁止にする方向性をうちだした。ただし、NTTドコモとWILLCOMのMVNOのように異なる市場のサービスを提供する場合や、新規参入したMNOが基地局を全国展開するまで暫定的に利用する場合、MNOによるMVNO化は許容できるとした\[54\]。
+
+なお、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")より、[ウィルコム](https://ja.wikipedia.org/wiki/ウィルコム "wikilink")のMVNOサービス、[WILLCOM CORE 3Gのラインナップに](https://ja.wikipedia.org/wiki/WILLCOM_CORE_3G "wikilink")、ソフトバンクモバイル・[3G ハイスピード網が追加された](https://ja.wikipedia.org/wiki/3G_ハイスピード "wikilink")（同日には法人向けデータ通信プランのみ、同年[10月8日](https://ja.wikipedia.org/wiki/10月8日 "wikilink")より[PHSとのデュアルプランが開始されるが](https://ja.wikipedia.org/wiki/新ウィルコム定額プランGS "wikilink")、個人向けのデータ通信プランは用意されない）。これに伴って、同年[9月30日](https://ja.wikipedia.org/wiki/9月30日 "wikilink")を以って、従前のドコモ網を利用したサービスの新規受付は終了された。
+
+#### 「らくらくホン」問題
+
+ソフトバンクモバイルから発売された[かんたん携帯 821Tに関して](https://ja.wikipedia.org/wiki/SoftBank_821T "wikilink")、NTTドコモと[富士通](../Page/富士通.md "wikilink")はソフトバンクモバイルおよび[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")に対して、[不正競争防止法](https://ja.wikipedia.org/wiki/不正競争防止法 "wikilink")の[模倣品](https://ja.wikipedia.org/wiki/模倣品 "wikilink")販売の条項に基づき同端末の製造・販売などの差し止めを求め、[東京地方裁判所](https://ja.wikipedia.org/wiki/東京地方裁判所 "wikilink")に仮処分申請を申し立てた\[55\]。ドコモおよび[富士通](../Page/富士通.md "wikilink")は、NTTドコモから販売されている富士通製端末[FOMAらくらくホンIII](https://ja.wikipedia.org/wiki/FOMAらくらくホンIII "wikilink")のボタンレイアウト、[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")など複数の項目でデザインなどが酷似していると主張。NTTドコモおよび富士通は、ソフトバンクモバイルおよび東芝に対し警告してきたが、満足のいく回答が得られなかったために仮処分申請に踏み切ったと記者会見で述べた。本件は2009年4月に和解が成立した。なお、和解金等の条件は非公表\[56\]。
+
+#### 緊急地震速報対応の遅延
+
+2007年5月30日、ソフトバンクモバイルも他社と同様の[緊急地震速報](https://ja.wikipedia.org/wiki/緊急地震速報 "wikilink")配信システムの開発を表明した\[57\]。このとき、提供時期は「2008年度中」とアナウンスされた\[58\]。NTTドコモは2007年11月発売の[FOMA 905iシリーズ全機種から](https://ja.wikipedia.org/wiki/FOMA#905iシリーズ "wikilink")、auは2008年1月以降発売の2008年春モデル10機種中6機種が対応し、以降は全機種が対応したが、ソフトバンクは2009年9月18日発売の[SoftBank 831N一機種のみと出遅れた](https://ja.wikipedia.org/wiki/SoftBank_831N "wikilink")。同年5月19日に当端末が発表された際、サービス開始時期は、「今秋」\[59\]とアナウンスされたが、端末発売二日前の同年9月16日には「2009年11月下旬以降」に繰り下げられ\[60\]、開始当時のサービスエリアも[佐賀県](../Page/佐賀県.md "wikilink")・[長崎県](../Page/長崎県.md "wikilink")・[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")・[宮崎県](../Page/宮崎県.md "wikilink")・[鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")の九州5県に限定された\[61\]。同年10月27日になってサービスエリアが長崎, 熊本, 宮崎, 鹿児島の4県に縮小され、予告されていた開始予定時期の直前の同年12月24日になって、九州4県でのサービス開始も撤回された。サービス開始時期は「2010年夏以降」に延期され、サービス提供エリアについても白紙となった。
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月7日](https://ja.wikipedia.org/wiki/10月7日 "wikilink")に全国対応完了を告知した\[62\]。最初の対応機種は、[SoftBank 831Nのみだったが](https://ja.wikipedia.org/wiki/SoftBank_831N "wikilink")、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")後の2011年7月に[SoftBank 840Nがソフトウェア更新後](https://ja.wikipedia.org/wiki/SoftBank_840N "wikilink")、利用可能になり、また、既に発売されていたAndroidプラットフォームのスマートフォンが緊急地震速報の受信に対応するようになったが既存のフィーチャーフォン(いわゆるガラケー)には対応しない(対応できない)と明言している。
+
+#### NPO法人から犯罪組織に携帯電話端末が流出
+
+横浜市に拠点を置き、慈善事業を展開していた2つの[NPO法人は](https://ja.wikipedia.org/wiki/特定非営利活動法人 "wikilink")、ソフトバンクモバイルの携帯電話端末約2,000台を法人名義（会員向け）で契約していたが、そのうちの一部が法人以外の組織に流失していた。また、うち約100台の端末は、[薬物の密売や](https://ja.wikipedia.org/wiki/薬物乱用 "wikilink")[振り込め詐欺](https://ja.wikipedia.org/wiki/振り込め詐欺 "wikilink")などの犯罪に悪用されていた。NPO法人はこれらの端末を使う目的がなく、利用料金は代理店が負担していた\[63\]。
+
+## 現在の端末ラインアップ
+
+  - [SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink") - [第3世代携帯電話](https://ja.wikipedia.org/wiki/第3世代携帯電話 "wikilink")（[W-CDMA](https://ja.wikipedia.org/wiki/W-CDMA "wikilink")方式）サービス。
+  - [3G ハイスピード](https://ja.wikipedia.org/wiki/3G_ハイスピード "wikilink") - HSPAサービス。
+  - [第3.5世代携帯電話](https://ja.wikipedia.org/wiki/第3.5世代移動通信システム "wikilink")（[HSDPA](https://ja.wikipedia.org/wiki/HSDPA "wikilink")方式）サービス。全国の主な都市圏で利用できるサービス。
+  - [SoftBank X](https://ja.wikipedia.org/wiki/SoftBank_X "wikilink")/[SoftBank スマートフォン](https://ja.wikipedia.org/wiki/SoftBank_スマートフォン "wikilink")
+      -
+        前者は、第3.5世代携帯電話（HSDPA方式）サービス。基本的に3Gと変わらないが、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")及び[Pocket PCでの呼称](https://ja.wikipedia.org/wiki/Pocket_PC "wikilink")。ただし、2010年冬モデル以降は、型番ルールを SoftBank 3G と共通化するとともに、専用の[USIMカード](https://ja.wikipedia.org/wiki/USIMカード "wikilink")を採用した上で、呼称も「SoftBank スマートフォン」に改めた。後者は、2015年時点での主力サービス。
+        後者は、第3.5世代携帯電話（HSDPA方式）サービス。2010年冬モデル以降の端末の新型番方式の導入に伴い、上述のXシリーズに代わり[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")及び[タブレットデバイスの呼称となった](https://ja.wikipedia.org/wiki/タブレット_\(コンピュータ\) "wikilink")。
+  - [4Gケータイ](https://ja.wikipedia.org/wiki/4Gケータイ "wikilink") - [Android](https://ja.wikipedia.org/wiki/Android "wikilink") OSを採用した、[フィーチャー・フォン](https://ja.wikipedia.org/wiki/フィーチャー・フォン "wikilink")。ただし、[SoftBank 501SHのように](https://ja.wikipedia.org/wiki/SoftBank_501SH "wikilink")、LTEはおろか3Gネットワークにしか対応していないものも、便宜上含まれる。
+  - [ULTRA SPEED](https://ja.wikipedia.org/wiki/ULTRA_SPEED "wikilink") - 実質的な逼迫対策バンドである、[UMTS](https://ja.wikipedia.org/wiki/UMTS "wikilink")バンド11を利用した、[HSPA+](https://ja.wikipedia.org/wiki/HSPA+ "wikilink")（データ専用端末は[DC-HSDPA](https://ja.wikipedia.org/wiki/DC-HSDPA "wikilink")を含む）サービス。
+  - [ULTRA PHONE](https://ja.wikipedia.org/wiki/ULTRA_PHONE "wikilink") - データ通信方式は[3G ハイスピード](https://ja.wikipedia.org/wiki/3G_ハイスピード "wikilink")、[ULTRA SPEEDの併用で](https://ja.wikipedia.org/wiki/ULTRA_SPEED "wikilink")、音声通話は従来の[SoftBank 3Gの方式で採用したサービス](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")。
+  - [SoftBank 4G](https://ja.wikipedia.org/wiki/SoftBank_4G "wikilink") - [Wireless City Planningの](https://ja.wikipedia.org/wiki/Wireless_City_Planning "wikilink")[MVNO](https://ja.wikipedia.org/wiki/MVNO "wikilink")としての[AXGP](https://ja.wikipedia.org/wiki/AXGP "wikilink")サービスのブランド名。
+  - [SoftBank 4G LTE](https://ja.wikipedia.org/wiki/SoftBank_4G_LTE "wikilink") - FDD-LTE方式による高速データ通信サービス。なお、旧[ワイモバイル](https://ja.wikipedia.org/wiki/ワイモバイル "wikilink")網を併用するものについては、別途[ダブルLTE](https://ja.wikipedia.org/wiki/ダブルLTE "wikilink")と称する。
+  - [Hybrid 4G LTE](https://ja.wikipedia.org/wiki/Hybrid_4G_LTE "wikilink") - 上記4Gと4G LTEのデュアルモード。
+  - ソフトバンクコネクトUSB・ソフトバンクコネクトカード
+      -
+        W-CDMA方式またはHSDPA方式によるデータ通信専用端末。現行商品は、HSDPA方式による高速データ通信端末のほか、ULTRA SPEEDに対応した、DC-HSDPA対応端末もある。
+  - [デジタルフォトフレーム](https://ja.wikipedia.org/wiki/デジタルフォトフレーム "wikilink")
+  - [みまもりシリーズ](https://ja.wikipedia.org/wiki/みまもりシリーズ "wikilink")
+
+## 主な携帯電話端末納入メーカー
+
+## ツーカーとの提携
+
+前述の「デジタルツーカー」提携以降、[ツーカー](https://ja.wikipedia.org/wiki/ツーカー "wikilink")は「スカイメッセージ」などソフトバンクに準じたサービスも併せ持っていた（「スカイメッセージ」はソフトバンクと相互送受信可能だった）。また、ツーカーの営業区域外（旧「デジタルツーカー」区域）では、同一の通信方式のソフトバンクにローミングしていた。
+
+## 専売取扱店
+
+## 地域会社時代の各社の業務区域
+
+  - 2000年10月にジェイフォン東日本となった会社
+
+:\* 東京デジタルホン(TDP) → ジェイフォン東京(JPT) → ジェイフォン東日本(JPE/存続、エリアとしてはJET)
+
+:\*\* [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")、[山梨県](../Page/山梨県.md "wikilink")及び[長野県](../Page/長野県.md "wikilink")
+
+:\* デジタルツーカー北海道(DTD) → ジェイフォン北海道「JPD」(東日本会社時代の、支社略号はJED)
+
+:\*\* [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")
+
+:\* デジタルツーカー東北(DTT) → ジェイフォン東北「JPH」(東日本会社時代の、支社略号はJEH)
+
+:\*\* [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")、[岩手県](../Page/岩手県.md "wikilink")、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")、[秋田県](../Page/秋田県.md "wikilink")、[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")、[福島県](../Page/福島県.md "wikilink")及び[新潟県](../Page/新潟県.md "wikilink")
+
+  - 2000年10月にジェイフォン西日本となった会社
+
+:\* 関西デジタルホン(KDP) → ジェイフォン関西(JPK) → ジェイフォン西日本(JPW/存続、エリアとしてはJWK)
+
+:\*\* [滋賀県](../Page/滋賀県.md "wikilink")、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")、[兵庫県](../Page/兵庫県.md "wikilink")、[奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")及び[和歌山県](../Page/和歌山県.md "wikilink")
+
+:\* デジタルツーカー北陸(DTH) → ジェイフォン北陸「JPR」(西日本会社時代の、支社略号はJWR)
+
+:\*\* [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")及び[福井県](../Page/福井県.md "wikilink")
+
+:\* デジタルツーカー中国(DTC) → ジェイフォン中国「JPN」(西日本会社時代の、支社略号はJWN)
+
+:\*\* [鳥取県](../Page/鳥取県.md "wikilink")、[島根県](../Page/島根県.md "wikilink")、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")、[広島県](../Page/広島県.md "wikilink")及び[山口県](../Page/山口県.md "wikilink")
+
+:\* デジタルツーカー四国(DTS) → ジェイフォン四国「JPS」(西日本会社時代の、支社略号はJWS)
+
+:\*\* [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")、[香川県](../Page/香川県.md "wikilink")、[愛媛県](../Page/愛媛県.md "wikilink")及び[高知県](../Page/高知県.md "wikilink")
+
+:\* デジタルツーカー九州(DTQ) → ジェイフォン九州「JPQ」(西日本会社時代の、支社略号はJWQ)
+
+:\*\* [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")、[佐賀県](../Page/佐賀県.md "wikilink")、[長崎県](../Page/長崎県.md "wikilink")、[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")、[大分県](../Page/大分県.md "wikilink")、[宮崎県](../Page/宮崎県.md "wikilink")、[鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")及び[沖縄県](../Page/沖縄県.md "wikilink")
+
+  - 全国1社体制になるまで存続した会社
+
+:\* 東海デジタルホン(CDP) → ジェイフォン東海「JPC」
+
+:\*\* [岐阜県](../Page/岐阜県.md "wikilink")、[静岡県](../Page/静岡県.md "wikilink")、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")及び[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")
+
+  - 各社名の後に記載されているアルファベット（大文字）はグループ内で呼称されていた略称。他事業社の内部資料でも使用されていた。
+  - デジタルツーカーからジェイフォンへの各社の変更は1999年10月。
+  - 2000年5月に全ての会社の筆頭株主をつとめる親会社となった「ジェイフォン株式会社」が、ボーダフォンの経営参入に際し2001年11月に上記の全社を合併・統合し、地域分割の形は終了した。
+
+なお、カスタマーオペレーションセンター（コールセンター含む）は、統合の過程で[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[黒川郡](https://ja.wikipedia.org/wiki/黒川郡 "wikilink")富谷町（現・[富谷市](https://ja.wikipedia.org/wiki/富谷市 "wikilink")）、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")内、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")内、[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[早良区](https://ja.wikipedia.org/wiki/早良区 "wikilink")の4箇所に集約された。富谷市は旧東日本会社と北陸エリアを、早良区は北陸・関西を除く旧西日本会社のエリアと[ディズニー・モバイル](https://ja.wikipedia.org/wiki/ディズニー・モバイル "wikilink")利用者を、それぞれ管轄している。愛知県内設置分は旧東海エリア、大阪府内設置分は旧関西エリアをそれぞれ管轄しているが、出納関係は、早良区のオペレーションセンターが管轄する。
+
+## イメージキャラクター
+
+## ヤフーおよびウォルト・ディズニー・ジャパンとの協業による移動体通信事業
+
+## 固定通信事業
+
+## 関連項目
+
+### 端末関連
+
+  - [SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")（旧・ボーダフォングローバルスタンダード→Vodafone 3G）
+      - [3G ハイスピード](https://ja.wikipedia.org/wiki/3G_ハイスピード "wikilink")
+  - [SoftBank X シリーズ](https://ja.wikipedia.org/wiki/SoftBank_X_シリーズ "wikilink")
+  - [SoftBank スマートフォン](https://ja.wikipedia.org/wiki/SoftBank_スマートフォン "wikilink")
+  - [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")
+  - [SoftBank 6-2 シリーズ](https://ja.wikipedia.org/wiki/SoftBank_6-2_シリーズ "wikilink")（旧・J-5X/J-0Xシリーズ→V3/V4/V5/V6シリーズ）
+  - [写メール](https://ja.wikipedia.org/wiki/写メール "wikilink")
+  - [デルモジ表示](https://ja.wikipedia.org/wiki/デルモジ表示 "wikilink")
+  - [S\!アプリ](https://ja.wikipedia.org/wiki/S!アプリ "wikilink")
+
+### 料金・サービス関連
+
+  - [SoftBank 4G](https://ja.wikipedia.org/wiki/SoftBank_4G "wikilink")
+  - [SoftBank 4G LTE](https://ja.wikipedia.org/wiki/SoftBank_4G_LTE "wikilink")
+  - [S\!ミュージックコネクト](https://ja.wikipedia.org/wiki/S!ミュージックコネクト "wikilink")
+  - [ULTRA SPEED](https://ja.wikipedia.org/wiki/ULTRA_SPEED "wikilink")
+  - [Yahoo\!ケータイ](https://ja.wikipedia.org/wiki/Yahoo!ケータイ "wikilink")
+      - [S\!ケータイ動画](https://ja.wikipedia.org/wiki/S!ケータイ動画 "wikilink")/[S\!情報チャンネル](https://ja.wikipedia.org/wiki/S!情報チャンネル "wikilink")/[S\!GPSナビ](https://ja.wikipedia.org/wiki/S!GPSナビ "wikilink")/[S\!FeliCa](https://ja.wikipedia.org/wiki/S!FeliCa "wikilink") /[S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")
+  - [オレンジ/ブループラン](https://ja.wikipedia.org/wiki/オレンジ/ブループラン "wikilink")
+  - [SoftBankカード](https://ja.wikipedia.org/wiki/クレディセゾン "wikilink")
+  - [ゴールドプラン](https://ja.wikipedia.org/wiki/ゴールドプラン_\(SoftBank\) "wikilink")
+  - [スーパー安心パック](https://ja.wikipedia.org/wiki/スーパー安心パック "wikilink")
+  - [スーパーボーナス](https://ja.wikipedia.org/wiki/スーパーボーナス "wikilink")
+  - [ステーション](https://ja.wikipedia.org/wiki/ステーション_\(ソフトバンクモバイル\) "wikilink")
+  - [スマート一括](https://ja.wikipedia.org/wiki/スマート一括 "wikilink")
+  - [ソフトバンクプリペイドサービス](https://ja.wikipedia.org/wiki/ソフトバンクプリペイドサービス "wikilink")
+  - [パケットし放題](https://ja.wikipedia.org/wiki/パケットし放題 "wikilink")
+  - [パケット定額](https://ja.wikipedia.org/wiki/パケット定額 "wikilink")
+  - [ハッピーボーナス](https://ja.wikipedia.org/wiki/ハッピーボーナス "wikilink")
+  - [プラチナバンド](https://ja.wikipedia.org/wiki/プラチナバンド_\(ソフトバンク\) "wikilink")
+  - [プリモバイル](https://ja.wikipedia.org/wiki/プリモバイル "wikilink")
+  - [ホワイトプラン](https://ja.wikipedia.org/wiki/ホワイトプラン "wikilink")
+      - [Wホワイト](https://ja.wikipedia.org/wiki/Wホワイト "wikilink")
+  - [スマ放題](https://ja.wikipedia.org/wiki/スマ放題 "wikilink")
+
+## 脚注
+
+## 外部リンク
+
+### SoftBankブランド移動体通信関連
+
+  - [ソフトバンク - サービスサイト](https://www.softbank.jp/mobile/)
+
+  - [ソフトバンク チャンネル](https://www.youtube.com/user/SoftBank) - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")
+
+  - [ソフトバンク チャンネル](https://ch.nicovideo.jp/ch1000) - [ニコニコチャンネル](https://ja.wikipedia.org/wiki/ニコニコチャンネル "wikilink")
+
+  -
+  -
+  -
+  -
+  -
+### SoftBankブランド固定系通信関連
+
+  - [個人のお客様向けサービス(固定系) - サービスサイト](http://tm.softbank.jp/consumer/)
+  - [インターネット - サービスサイト](https://www.softbank.jp/ybb/)
+  - [eAccess,ADSL・モバイル通信サービス](http://www.eaccess.net/service/)
+  - [eAccess,ACCAサービス](http://www.eaccess.net/acca/)
+  - [AOL](http://www.aol.jp/)
+
+### Y\!mobileブランド関連
+
+  - [Y\!mobile - サービスサイト](http://www.ymobile.jp/)
+
+  -
+[Category:日本の電気通信事業者](https://ja.wikipedia.org/wiki/Category:日本の電気通信事業者 "wikilink") [Category:日本の携帯電話事業者](https://ja.wikipedia.org/wiki/Category:日本の携帯電話事業者 "wikilink") [Category:ソフトバンクグループ](https://ja.wikipedia.org/wiki/Category:ソフトバンクグループ "wikilink") [Category:携帯電話_(ソフトバンク)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(ソフトバンク\) "wikilink") [Category:携帯電話_(ワイモバイル)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(ワイモバイル\) "wikilink") [Category:PHS_(ワイモバイル)](https://ja.wikipedia.org/wiki/Category:PHS_\(ワイモバイル\) "wikilink")
+
+1.  [ボーダフォン、ハッピーボーナスなどの解除料を条件付きで無料に](http://k-tai.impress.co.jp/cda/article/news_toppage/19378.html)
+2.  [ITmedia：ボーダフォン「メール定額」「家族間通話定額」を発表](http://www.itmedia.co.jp/mobile/articles/0504/20/news044.html)
+3.  [ボーダフォン、4つ目の定額「LOVE定額」導入](http://k-tai.impress.co.jp/cda/article/news_toppage/26010.html)
+4.  既に「パケットフリー」という定額プランがあったが、利用できる料金プランの制限があった。「デュアルパケット定額」では料金プランの関係なしに加入できる。「パケットフリー」加入者は自動的に「デュアルパケット定額」への移行となった。
+5.  [公取、「0円」についてソフトバンクに説明求める](http://k-tai.impress.co.jp/cda/article/news_toppage/31749.html)
+6.  [ソフトバンク、「0円」広告を修正へ](http://k-tai.impress.co.jp/cda/article/news_toppage/31782.html)。
+7.  [今年のCM好感度1位は“あの一家”〜CM総研がCM-Branding評価best10を発表〜 - 日経トレンディネット](http://trendy.nikkeibp.co.jp/article/pickup/20071207/1005135/?ST=digital)
+8.  [「iPhone」について](http://www.softbankmobile.co.jp/ja/news/press/2008/20080604_01/)
+9.  [JILの活動が本格化，2010年3月末をメドにウィジェット利用環境を提供](http://itpro.nikkeibp.co.jp/article/COLUMN/20090508/329682/)
+10. [ソフトバンク電波改善宣言](http://www.softbankmobile.co.jp/ja/news/press/2010/20100328_03/index.html)
+11. [海外向けパケット定額サービス登場！](http://www.softbankmobile.co.jp/ja/news/press/2010/20100628_02/index.html)
+12. [“プラチナバンド”900MHz帯はソフトバンクへ、電監審が答申 - ケータイ Watch](http://k-tai.impress.co.jp/docs/news/20120229_515372.html)
+13. [新規周波数900MHz帯 使用基地局の認定について：サービスエリア ソフトバンクモバイル](http://mb.softbank.jp/mb/service_area/900mhz/?cid=gntp_cmtp_900m_stlw20120301a)
+14. [ソフトバンク株式会社による株式交換を通じてのイー・アクセス株式会社の完全子会社化に関するお知らせ 兼 ソフトバンクモバイル株式会社とイー・アクセス株式会社の業務提携のお知らせ](http://webcast.softbank.co.jp/ja/pdf/20121001_01/20121001_01.pdf) - ソフトバンク株式会社 2012年10月1日
+15. [ダブルナンバー新規受け付けの終了について](http://mb.softbank.jp/mb/news/contents/201303131003530000/)：ソフトバンクモバイル2013年3月19日
+16. [ソフトバンクの「ダブルナンバー」、新規受付を終了](http://k-tai.impress.co.jp/docs/news/20130319_592320.html)ケータイwatch2013年3月19日
+17. [合併に関するお知らせ](http://www.softbank.jp/corp/group/sbm/news/press/2015/20150123_01/)ITmedia、2015年1月23日
+18. [「パ・リーグLIVE」サービス終了のご案内](http://www.softbank.jp/mobile/info/personal/news/service/20160216a/)
+19. [一部料金プランの新規受付終了のご案内](https://www.softbank.jp/mobile/info/personal/news/service/20191011a/)
+20. [ダブルナンバー新規受け付けの終了について](http://mb.softbank.jp/mb/news/contents/201303131003530000/)：ソフトバンクモバイル2013年3月19日
+21. [ソフトバンクの「ダブルナンバー」、新規受付を終了](http://k-tai.impress.co.jp/docs/news/20130319_592320.html)ケータイwatch2013年3月19日
+22.
+23.
+24. [10/28（土）の各種申し込み受付時間の繰上げについて](https://megalodon.jp/2008-1028-2246-37/mb.softbank.jp/scripts/japanese/information/kinkyu/detail.jsp?oid=537164471)、ソフトバンクモバイル、2006年10月28日。
+25. [携帯電話番号ポータビリティ(MNP)への申し込み一時停止について](http://web.archive.org/web/20130523153959/http://mb.softbank.jp/scripts/japanese/information/kinkyu/detail.jsp?oid=537164448)、ソフトバンクモバイル、2006年10月29日。
+26.
+27. [携帯電話番号ポータビリティ(MNP)の登録受付再開について](http://web.archive.org/web/20130403175336/http://mb.softbank.jp/scripts/japanese/information/kinkyu/detail.jsp?oid=537164485)、ソフトバンクモバイル、2006年10月30日。
+28.
+29. [受付業務時間について](http://mb.softbank.jp/mb/information/details/061106.html)
+30.  スマートフォン・携帯電話|url=[https://www.softbank.jp/mobile/support/procedure/data_traffic/about/|website=ソフトバンク|accessdate=2019-11-19|language=ja](https://www.softbank.jp/mobile/support/procedure/data_traffic/about/%7Cwebsite=ソフトバンク%7Caccessdate=2019-11-19%7Clanguage=ja)}}
+31. [携帯電話事業者3社に対する警告等について](https://web.archive.org/web/20130120133921/http://www.jftc.go.jp/pressrelease/06.december/06121202.html)、[公正取引委員会](https://ja.wikipedia.org/wiki/公正取引委員会 "wikilink")、2006年12月12日。
+32. [ソフトバンクモバイル株式会社に対する iPhoneに適用される二段階パケット定額プランに関する広告表示に係る措置（指導）](http://www.soumu.go.jp/menu_news/s-news/01kiban08_01000029.html)、総務省、2011年5月10日。
+33.
+34. [携帯電話不正利用防止法違反事案等に対する措置](http://warp.da.ndl.go.jp/info:ndljp/pid/3193264/www.soumu.go.jp/menu_news/s-news/2007/070411_5.html)、総務省、2007年4月11日。
+35. [携帯電話不正利用防止法違反事案に対する措置](http://warp.da.ndl.go.jp/info:ndljp/pid/3193264/www.soumu.go.jp/menu_news/s-news/2007/070612_1.html)、総務省、2007年6月12日。
+36. [ソフトバンク「悪用携帯」No.1…本人確認「甘い」](https://web.archive.org/web/20081205080219/http://www.zakzak.co.jp/top/200812/t2008120201_all.html)、ZAKZAK（[夕刊フジ](https://ja.wikipedia.org/wiki/夕刊フジ "wikilink")）、2008年12月2日。
+37.
+38. 。
+39.
+40.
+41.
+42.
+43. [ソフトバンク携帯、一時ネット接続などに障害](http://web.archive.org/web/20100708020109/www.yomiuri.co.jp/national/news/20100704-OYT1T00540.htm) 、[読売新聞](https://ja.wikipedia.org/wiki/読売新聞 "wikilink")（YOMIURI ONLINE）、2010年7月4日。
+44.
+45.
+46.
+47. [7万2千人の携帯に通信障害起こす、31歳逮捕](http://web.archive.org/web/20110713035720/http://www.yomiuri.co.jp/national/news/20110708-OYT1T00916.htm) 読売新聞（YOMIURI ONLINE）、 2011年7月8日。
+48.
+49.  モバイル|accessdate=2018-12-06|website=ソフトバンク|language=ja}}
+50.
+51.
+52.
+53. [社団法人テレコムサービス協会　MVNO協議会MNOのMVNO事業進出に対する意見表明について](http://www.telesa.or.jp/consortium/mvno/20090204_mno.html)
+54. [総務省が「MNOのMVNO化は原則禁止」の方向性での議論を提示、接続政策委員会から](http://itpro.nikkeibp.co.jp/article/NEWS/20090707/333362/)
+55.
+56.
+57.
+58.
+59.
+60. [使いやすさにこだわったケータイ「831N」、9月18日発売](http://www.softbankmobile.co.jp/ja/news/press/2009/20090916_01/)
+61.
+62.
+63. [犯罪グループに携帯100台流出　詐欺、薬物密売に使用](https://web.archive.org/web/20120902040429/http://www.47news.jp/CN/201208/CN2012082701001959.html) 47NEWS（共同通信） 2012年8月27日

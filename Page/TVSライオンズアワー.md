@@ -1,0 +1,348 @@
+> この記事は[TVS](https://ja.wikipedia.org/wiki/TVS)から翻訳されています。
+
+
+**TVSライオンズアワー**は、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")（TVS、テレ玉）の制作する、[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")主催及び2軍埼玉西武ライオンズ主催試合の[プロ野球中継](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")番組。
+
+## 番組概要
+
+徹底した[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")びいき放送で、開始当初は西武担当のスポーツ新聞記者（1979年のみ）や[醍醐猛夫](https://ja.wikipedia.org/wiki/醍醐猛夫 "wikilink")（1980年より）他の解説と[上野晃](../Page/上野晃.md "wikilink")他の実況で、1987年からスポーツ中継では珍しくアナウンサーによる実況のみの時期もあったが、2005年からは再度解説者がついた。基本放送時間は18:30-21:30（2007年度までは試合開始と同時に中継開始、2008年度までは22:00までの延長オプションがあった）。2007年度までは4:3の標準画質で放送していたが、2008年度の開幕戦よりハイビジョン制作で放送している。アナログ放送では、2010年度から2011年のアナログ放送終了までレターボックスで放送が行われていた。なお、後述するサブチャンネルSV2では仕様により16:9標準画質となる。
+
+ライオンズびいきは顕著で、80年代〜90年代前半にかけては主音マイクを一塁側スタンド\[1\]に設置し、ライオンズのファン一人一人の声が聞こえるほどであったが、反対に[ビジター](https://ja.wikipedia.org/wiki/ビジター "wikilink")チームの応援はかすかに聞こえる程度という、あたかも一塁側スタンドにいる感覚を演出していた。またベンチの中の声もよく聞こえ、選手一人一人の声も響き渡っていた。近年はマイク位置を変更して音声に関しては中立的となっている。その他、ライオンズの選手が本塁打を放つとピースマークのレオを表示させ、翌日も放送がある場合はその選手が打席に立つと本塁打シーンをハイライトで流していた。さらに当時はビジターチームのヒーローインタビューを映さなかったり、デーゲームの録画中継では放送時間が押している場合にビジターチームの得点イニングをカットすることもあった。
+
+なお、中継映像に関しては、かつては本拠地の西武ライオンズ球場開催では[TBSビジョン](https://ja.wikipedia.org/wiki/TBSビジョン "wikilink")と\[2\]、旧本拠地での平和台球場での開催時は[テレビ西日本](https://ja.wikipedia.org/wiki/テレビ西日本 "wikilink")（TNC、[フジテレビ系](https://ja.wikipedia.org/wiki/フジネットワーク "wikilink")）と\[3\]提携して制作、その後球団と[テレテック](https://ja.wikipedia.org/wiki/テレテック "wikilink")による制作体制が整ったことにより、球団制作のものに移行している\[4\]、番組の制作著作は埼玉西武ライオンズとテレビ埼玉である。エンディングの製作著作のクレジットは2007年度までは「テレ玉・西武ライオンズ」とテレビ埼玉が冒頭に来ていたが、2008年度からは「埼玉西武ライオンズ・テレ玉」\[5\]と逆に西武球団が冒頭に来ている。
+
+以前は、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")などの在京民放キー局がライオンズ戦を中継する日以外の西武ライオンズ球場（現・[西武ドーム](../Page/西武ドーム.md "wikilink")）での全試合を生中継していた。また、土・日デーゲームの場合は18:00から録画中継されていた。近年は30試合程度中継しており、2010年シーズンは大宮や前橋での主催試合を含め30試合を中継した。なお、[NHK BS1では](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")1990年代までテレビ埼玉制作の実況音声がない映像をスコアテロップも含めて使用し、そこからNHKの解説と実況を新たに追加していた。\[6\]その為、テレビ埼玉放送分の[CMがNHKに流れたハプニングが起こった事例もある](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")。
+
+2008年度より、長年使われてきていたスコア（ボールカウント）表示・選手表示・試合経過表示などのデザインが一新（スコア表示は球団の公式映像で、2011年までは[ルービックキューブ](../Page/ルービックキューブ.md "wikilink")を模したデザイン、2012年からは一般的なスコアテロップになった\[7\]）され、CM入りの際のBGMやレオのアニメーション（バッティング・ピッチング）が消滅した。なお、1990年ごろまでは、スコア（ボールカウント）表示を残したままスポーツニュースやTBSの[レッツゴー\!ライオンズ](https://ja.wikipedia.org/wiki/レッツゴー!ライオンズ "wikilink")で映像が使われていた。
+
+球団製作映像のスコア表示に協賛スポンサーが入った場合は、テレビ埼玉側で独自のスコア表示に差し替えることがある（球団製作映像のカウント表示に『[オレンジリボン](https://ja.wikipedia.org/wiki/オレンジリボン "wikilink")運動デー×[じぶん銀行](https://ja.wikipedia.org/wiki/じぶん銀行 "wikilink")』のクレジットが入った2019年8月21日など）\[8\]。
+
+オープニングは長年にわたり試合当日の生中継の映像、エンディングはブルーバックの字幕を使っていたが、[2009年](../Page/2009年.md "wikilink")以後は予め録画された過去の試合の映像が採用されている。またテーマソングは[1996年](../Page/1996年.md "wikilink")以降、球団歌「吼えろライオンズ」が当初は歌詞入りで使われていたが、後にカラオケ版が使用されていた。2011年からは、アーティストの楽曲が使用されている。\[9\] 試合後のハイライトのBGMとして80年代から長きにわたり[T-SQUARE](https://ja.wikipedia.org/wiki/T-SQUARE "wikilink")の「PRIME」を使用していたが、現在は使用されていない。
+
+CM枠では、回によって西武グループの催事案内を行う「西武レジャー情報」というインフォマーシャルが放送されている。かつては球場からの生CM形式で行っていたが、現在はVTRとなっている。
+
+[滋賀県](../Page/滋賀県.md "wikilink")を視聴対象地域とする[びわ湖放送](https://ja.wikipedia.org/wiki/びわ湖放送 "wikilink")でも、ライオンズアワーという番組名で中継している。詳細やその他の放送局でのネット受けに関しては、[\#他局へのネット](https://ja.wikipedia.org/wiki/#他局へのネット "wikilink")を参照。
+
+なお、2017年現在はライオンズ戦であってもビジターの試合を中継する場合（[2003年](../Page/2003年.md "wikilink")までのTVS自社制作\[10\]の[東京ドーム](../Page/東京ドーム.md "wikilink")での日本ハム戦も含めて）は、西武グループの協賛が付かない『[TVSヒットナイター](https://ja.wikipedia.org/wiki/TVSヒットナイター "wikilink")』の名義で放送が行われている\[11\]。
+
+1979年の野球中継開始当初は、ナイター時は西武主催・ビジターとも『ヒットナイター』として放送し、『ライオンズアワー』はホーム・ビジター共通の西武が関与するデーゲーム中継のタイトルだった。1980年から『ヒットナイター』と『ライオンズアワー』双方で日本ハム戦主催試合の放送を開始し、1987年から西武ホームゲームのみ『ライオンズアワー』その他の試合は『ヒットナイター』となったが、1990年のみ西武が関与する試合はホーム・ビジターとも『ライオンズアワー』として放送し、1991年から改めて現在のタイトル使い分けとなった。
+
+2018年からは数試合、『[LIONS BASEBALL L\!VE](https://ja.wikipedia.org/wiki/LIONS_BASEBALL_L!VE "wikilink")』をネット受けしている。特にテレ玉で放送されることについて触れることはなく提供クレジットもテレ玉側でイニング間に独自に挿入しており、放送時間内に中継しきれない際は画面上部にそのことを伝えるテロップが表示されるだけで飛び降りポイントも設けていない。そのためぶつ切りで提供クレジットを挿入し通常のED→次回の放送予定そして放送終了後に『ライオンズチャンネル』の番宣CMが流れて放送を終了する。
+
+## 放送時間
+
+原則的に[プロ野球の開催される](../Page/日本プロ野球.md "wikilink")[火曜日](../Page/火曜日.md "wikilink")から[金曜日](../Page/金曜日.md "wikilink")・[土曜日](../Page/土曜日.md "wikilink")・[日曜日](../Page/日曜日.md "wikilink")に放送される。（木曜日はテレ玉制作の「[カラオケ1ばん](https://ja.wikipedia.org/wiki/カラオケ1ばん "wikilink")」があるため、他の曜日に比べ中継数が少ない。また、土曜・日曜は[中央競馬ワイド中継](https://ja.wikipedia.org/wiki/中央競馬ワイド中継 "wikilink")→[JRA競馬中継があり](https://ja.wikipedia.org/wiki/BSイレブン競馬中継 "wikilink")、競馬中継が優先されるため、試合をナイターで行う夏季のみ中継を行う\[12\]。まれに、[スーパーJリーグマッチ](https://ja.wikipedia.org/wiki/スーパーJリーグマッチ "wikilink")=埼玉勢の[Jリーグ中継](https://ja.wikipedia.org/wiki/Jリーグ中継 "wikilink")を編成し、プロ野球が放送されない場合もある）
+
+2007年度までは試合開始の18:00より放送していたが、2008年度から2012年度は放送開始時間が18:30に、2013年度は19:00に変更となった。また、2008年度までは最大30分間の延長が設定されていたが、2009年度以降は延長なしに変更された。\[13\]
+
+  - 火曜日-金曜日　18:15-19:00（地上デジタル放送032ch）、19:00-21:30（地上デジタル放送031ch）21:30以後試合が続いている場合でもマルチ編成も含めて延長放送は行われないことが多い。\[14\]
+
+2011年5月20日より2012年度まで、[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")において18:00より中継を開始していた。\[15\]なお、従来のようなオープニングはなく、イニング間のCMもない。2013年4月よりSV2（地上デジタル放送の032ch）で18:00より中継を行うようになりワンセグでは通常番組（031chと同内容）を放送する。
+
+## 放送試合数
+
+<table>
+<caption>ライオンズアワー放送試合数[16][17]</caption>
+<thead>
+<tr class="header">
+<th><p>年度</p></th>
+<th><p>公式戦</p></th>
+<th><p>クライマックスシリーズ</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2007年</p></td>
+<td><p>29</p></td>
+<td><p>-</p></td>
+<td><p>CS出場せず</p></td>
+</tr>
+<tr class="even">
+<td><p>2008年</p></td>
+<td><p>31</p></td>
+<td><p>2</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2009年</p></td>
+<td><p>30</p></td>
+<td><p>-</p></td>
+<td><p>CS出場せず</p></td>
+</tr>
+<tr class="even">
+<td><p>2010年</p></td>
+<td><p>30</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2011年</p></td>
+<td><p>28</p></td>
+<td><p>-</p></td>
+<td><p>3位のためCS主催試合なし</p></td>
+</tr>
+<tr class="even">
+<td><p>2012年</p></td>
+<td><p>29</p></td>
+<td><p>3</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2013年</p></td>
+<td><p>29</p></td>
+<td><p>3</p></td>
+<td><p>[18][19]</p></td>
+</tr>
+<tr class="even">
+<td><p>2014年</p></td>
+<td><p>28</p></td>
+<td><p>-</p></td>
+<td><p>CS出場せず</p></td>
+</tr>
+<tr class="odd">
+<td><p>2015年</p></td>
+<td><p>28</p></td>
+<td><p>-</p></td>
+<td><p>CS出場せず</p></td>
+</tr>
+<tr class="even">
+<td><p>2016年</p></td>
+<td><p>28</p></td>
+<td><p>-</p></td>
+<td><p>CS出場せず</p></td>
+</tr>
+<tr class="odd">
+<td><p>2017年</p></td>
+<td><p>28</p></td>
+<td><p>3</p></td>
+<td><p>[20][21]</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
+<td><p>30</p></td>
+<td><p>2</p></td>
+<td><p>[22]<ref><a href="http://www.teletama.jp/newsrelease/pdf/18100901.pdf">祝パリーグ優勝・埼玉西武ライオンズ! CSファイナルステージ2試合を試合終了まで生中継</a></p>
+<p><code>テレ玉 News Release 2018年10月9日</code></ref></p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>31</p></td>
+<td><p>2</p></td>
+<td><p>[23][24]</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+ライオンズビジターの放送試合数は[TVSヒットナイターを参照](https://ja.wikipedia.org/wiki/TVSヒットナイター#放送試合数 "wikilink")。
+
+## 解説者
+
+基本的には解説を交互に担当する（ヒットナイター・西武ビジター戦の「カラ出張」も兼務）。2018年から『LIONS Baseball LIVE」を数試合ネット受けするようになったためテレ玉専属の解説者の出番が激減した。2019年8月20日放送から8月25日放送分はテレ玉放送40周年記念ウィークとしてテレ玉制作として放送する。
+
+  - [鈴木健](https://ja.wikipedia.org/wiki/鈴木健_\(内野手\) "wikilink") （2008年 - ）
+  - [松沼雅之](https://ja.wikipedia.org/wiki/松沼雅之 "wikilink")（1990年 -1999年、2004年 -。西武球団制作中継・文化放送解説者兼）
+  - [森本稀哲](https://ja.wikipedia.org/wiki/森本稀哲 "wikilink")（2018年 - 、本数契約として出演。在札各局・[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")・[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")・[BS-TBS](https://ja.wikipedia.org/wiki/BS-TBS "wikilink")・[TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")解説者兼）
+  - [長田秀一郎](https://ja.wikipedia.org/wiki/長田秀一郎 "wikilink")（2018年 -。西武球団制作中継解説者兼）※西武球団職員（ライオンズアカデミーコーチ）
+  - [高木大成](https://ja.wikipedia.org/wiki/高木大成 "wikilink") (2019年 - 。本数契約として出演) ※西武球団職員（球団事務所勤務）
+
+### スペシャルゲスト解説者(テレ玉40周年記念として)
+
+  - [G.G.佐藤](https://ja.wikipedia.org/wiki/佐藤隆彦 "wikilink") (2019年8月20日放送に出演。[東日本放送](https://ja.wikipedia.org/wiki/東日本放送 "wikilink")・千葉ロッテ球団制作中継解説者兼)
+  - [新谷博](https://ja.wikipedia.org/wiki/新谷博 "wikilink") (2019年8月21日放送に出演。[HBCテレビ](https://ja.wikipedia.org/wiki/HBCテレビ "wikilink")・[HBCラジオ](https://ja.wikipedia.org/wiki/HBCラジオ "wikilink")解説者兼)
+  - [石毛宏典](https://ja.wikipedia.org/wiki/石毛宏典 "wikilink") (2019年8月22日放送に出演)
+  - [平野謙](https://ja.wikipedia.org/wiki/平野謙_\(野球\) "wikilink") (2019年8月24日放送に出演。[J SPORTS](https://ja.wikipedia.org/wiki/J_SPORTS "wikilink")・[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")解説者兼)
+  - [松沼博久](https://ja.wikipedia.org/wiki/松沼博久 "wikilink") (2019年8月25日放送に出演。西武球団制作中継・文化放送解説者兼)
+
+### ゲスト
+
+  - [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink") (2019年8月23日放送に出演)
+
+### 過去
+
+  - 安藤清光（[スポーツ報知](../Page/スポーツ報知.md "wikilink")）
+  - 石川照次（[スポーツニッポン](https://ja.wikipedia.org/wiki/スポーツニッポン "wikilink")）
+  - 石田康博（[共同通信](https://ja.wikipedia.org/wiki/共同通信 "wikilink")）
+  - 遠藤豊（[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")）
+  - 塩原義雄（[サンケイスポーツ](https://ja.wikipedia.org/wiki/サンケイスポーツ "wikilink")）
+  - 堀江康亘（[東京中日スポーツ](https://ja.wikipedia.org/wiki/東京中日スポーツ "wikilink")）
+  - 宮崎晶（[西日本スポーツ](https://ja.wikipedia.org/wiki/西日本スポーツ "wikilink")）
+  - [石井貴](https://ja.wikipedia.org/wiki/石井貴 "wikilink")（2014年 - 2018年）
+  - [岩下光一](https://ja.wikipedia.org/wiki/岩下光一 "wikilink")（1985年）
+  - [江島巧](https://ja.wikipedia.org/wiki/江島巧 "wikilink")（1986年）
+  - [佐藤孝夫](https://ja.wikipedia.org/wiki/佐藤孝夫 "wikilink")（2000年 - 2004年）
+  - [鈴木葉留彦](https://ja.wikipedia.org/wiki/鈴木葉留彦 "wikilink")（1985年 - 1986年）
+  - [醍醐猛夫](https://ja.wikipedia.org/wiki/醍醐猛夫 "wikilink")（1980年 - 1983年）
+  - [辻発彦](https://ja.wikipedia.org/wiki/辻発彦 "wikilink")（2005年 - 2006年, 2012年 - 2013年）
+  - [土井正博](https://ja.wikipedia.org/wiki/土井正博 "wikilink")（1982年 - 1984年, 1990年 - 1991年, 2000年 - 2003年）
+  - [平尾博嗣](https://ja.wikipedia.org/wiki/平尾博嗣 "wikilink")（2013年 - 2018年）
+  - [広橋公寿](https://ja.wikipedia.org/wiki/広橋公寿 "wikilink")（2004年）
+  - [三浦政基](https://ja.wikipedia.org/wiki/三浦政基 "wikilink")（1984年 - 1988年）
+  - [山下律夫](https://ja.wikipedia.org/wiki/山下律夫 "wikilink")（1983年 - 1984年）
+  - [渡辺久信](https://ja.wikipedia.org/wiki/渡辺久信 "wikilink")（2002年 - 2003年）
+  - [土肥義弘](https://ja.wikipedia.org/wiki/土肥義弘 "wikilink")（2013年 - 2014年）
+  - [大友進](https://ja.wikipedia.org/wiki/大友進 "wikilink")（2006年 - 2018年）
+  - [豊田清](https://ja.wikipedia.org/wiki/豊田清 "wikilink") (2019年)
+  - [小関竜也](https://ja.wikipedia.org/wiki/小関竜也 "wikilink") (2019年)
+
+<!-- end list -->
+
+  -
+    このうち、各新聞記者は1979年のみ担当。岩下、江島、醍醐、土井、三浦、山下はヒットナイターのうち日本ハム主催試合、佐藤と渡辺と辻はヒットナイターの西武ビジター戦の「カラ出張解説」も兼務していた。
+    2014年5月20日、5月21日の対巨人戦は松沼雅之に加え、ゲストとして松沼博久も登場し、兄弟解説が実現した。
+
+## 実況担当アナウンサー・リポーター
+
+  - 2007年度の実況は上野・坂の2人でほとんどの試合を担当し、その他のアナウンサー（加藤・節丸・矢野・渡邊）は基本的にはリポーターとして登場した。
+  - 2008年度の実況は大澤が実況として加わり、4人体制となる。担当回数は上野が多く、坂・加藤・大澤がほぼ同じ回数となっている。リポーターはアナウンサーではなく、同局の[ライオンズチャンネルを担当している](https://ja.wikipedia.org/wiki/LIONS_CHANNEL "wikilink")[半田あい](https://ja.wikipedia.org/wiki/半田あい "wikilink")に変更した。
+  - 2010年度はリポーターが半田から[菊田かなえ](https://ja.wikipedia.org/wiki/菊田かなえ "wikilink")に変更した。（ライオンズチャンネルのリポーター変更に伴うもの。）
+  - 2011年度の実況は、加藤が抜け、新たに小笠原・山田が加わる。（加藤は本人の意向により、西武主催のテレビ中継実況をテレ玉から[J SPORTSへ変更](https://ja.wikipedia.org/wiki/J_SPORTS "wikilink")。小笠原はチバテレの[マリーンズナイター](https://ja.wikipedia.org/wiki/CTCマリーンズナイター "wikilink")、山田はテレ玉のJリーグ中継[アルディージャエキサイトマッチを担当している](https://ja.wikipedia.org/wiki/スーパーJリーグマッチ "wikilink")。）
+  - 2012年度の実況は加藤が1年ぶり、矢野が4年ぶりにライオンズアワーの実況に復帰したため7人体制となる。また、リポーターは菊田から[永田怜奈](https://ja.wikipedia.org/wiki/永田怜奈 "wikilink")に変更。
+  - 2013年度はリポーターが永田から土肥義弘に変更。また坂を除く実況担当アナウンサーがリポートを兼任するようになる（基本は土肥がメインであるが、土肥が放送ブース担当の時はアナウンサー持ち回りとなる）。
+  - 2014年度は元文化放送の菅野と上野智広が実況アナに加わり、8人体制となる。リポーターは前年同様。
+  - 2015年度はリポーターが[栗山麗美](https://ja.wikipedia.org/wiki/栗山麗美 "wikilink")に変更。
+  - 2017年度はリポーターが[堀口文宏](https://ja.wikipedia.org/wiki/堀口文宏 "wikilink")、[淡輪ゆき](https://ja.wikipedia.org/wiki/淡輪ゆき "wikilink")、[野牛あかね](https://ja.wikipedia.org/wiki/野牛あかね "wikilink")の3人体制になる。
+
+### 現在の担当者
+
+  - [上野晃](../Page/上野晃.md "wikilink")（元・[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")アナウンサー。）
+  - [上野智広](https://ja.wikipedia.org/wiki/上野智広 "wikilink")（元・[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")アナウンサー。2014年 - ）
+  - [小笠原聖](https://ja.wikipedia.org/wiki/小笠原聖 "wikilink")（元・[秋田朝日放送](https://ja.wikipedia.org/wiki/秋田朝日放送 "wikilink")アナウンサー。）
+  - [加藤暁](https://ja.wikipedia.org/wiki/加藤暁 "wikilink")（元・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")アナウンサー。2011年は実況担当せず。）
+  - [矢野吉彦](https://ja.wikipedia.org/wiki/矢野吉彦 "wikilink")（元・文化放送アナウンサー。2008年 - 2011年は実況担当せず。）
+  - [大門雅明](https://ja.wikipedia.org/wiki/大門雅明 "wikilink")（元・エフエム群馬、長崎放送アナウンサー。2018年 - ）
+
+### 過去の担当者
+
+  - [渡邊哲夫](https://ja.wikipedia.org/wiki/渡邊哲夫 "wikilink")（2007年まで 元・[静岡朝日テレビ](https://ja.wikipedia.org/wiki/静岡朝日テレビ "wikilink")アナウンサー。）
+  - [節丸裕一](https://ja.wikipedia.org/wiki/節丸裕一 "wikilink")（2007年まで）
+  - [榎本猛](https://ja.wikipedia.org/wiki/榎本猛 "wikilink")（元・[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")→[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")→[NET〔現・テレビ朝日〕アナウンサー](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")。）
+  - [川原恵輔](https://ja.wikipedia.org/wiki/川原恵輔 "wikilink")（元・NHKアナウンサー。）
+  - [倉敷保雄](https://ja.wikipedia.org/wiki/倉敷保雄 "wikilink")（元・文化放送記者）
+  - [柄沢晃弘](https://ja.wikipedia.org/wiki/柄沢晃弘 "wikilink")（元・TBSアナウンサー。現・[WOWOW](../Page/WOWOW.md "wikilink")）
+  - [四家秀治](../Page/四家秀治.md "wikilink")（元・RKB毎日放送。1987〜1989年[TBSビジョン](https://ja.wikipedia.org/wiki/TBSビジョン "wikilink")に在籍した当時出演。その後[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")に移籍し、現在フリー）
+  - [小早川正昭](https://ja.wikipedia.org/wiki/小早川正昭 "wikilink")（元・日本テレビアナウンサー。現・フリー）
+  - [斉藤政夫](https://ja.wikipedia.org/wiki/斉藤政夫 "wikilink")（開局時ごく初期）
+  - [小川真人](https://ja.wikipedia.org/wiki/小川真人 "wikilink")（同上。現・[熊本県民テレビ](https://ja.wikipedia.org/wiki/熊本県民テレビ "wikilink")）
+  - [辻豊人](https://ja.wikipedia.org/wiki/辻豊人 "wikilink")（元[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")→[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")）
+  - [山形美房](https://ja.wikipedia.org/wiki/山形美房 "wikilink")
+  - [野沢祐一](https://ja.wikipedia.org/wiki/野沢祐一 "wikilink")
+  - [山田泰三](https://ja.wikipedia.org/wiki/山田泰三 "wikilink")（元・[名古屋テレビ](https://ja.wikipedia.org/wiki/名古屋テレビ "wikilink")放送アナウンサー。2012年まで）
+  - [菅野詩朗](https://ja.wikipedia.org/wiki/菅野詩朗 "wikilink")（元・文化放送アナウンサー。2014年）
+  - [大澤幹朗](https://ja.wikipedia.org/wiki/大澤幹朗 "wikilink")（元・[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")アナウンサー。2016年まで）
+  - [坂信一郎](https://ja.wikipedia.org/wiki/坂信一郎 "wikilink")（元・文化放送アナウンサー。2016年まで）
+
+<!-- end list -->
+
+  -
+    このうち、上野晃、坂、渡邊、矢野、榎本、川原、小早川、斉藤、小川の各氏は後楽園・東京ドームを本拠地としていた時代のファイターズ主催試合（ヒットナイター）の実況も担当した。
+
+<!-- end list -->
+
+  - [半田あい](https://ja.wikipedia.org/wiki/半田あい "wikilink")（リポーター。2008年 - 2009年。ライオンズチャンネルリポーター兼務。）
+  - [菊田かなえ](https://ja.wikipedia.org/wiki/菊田かなえ "wikilink")（リポーター。2010年 - 2011年。ライオンズチャンネルリポーター兼務。）
+  - [永田怜奈](https://ja.wikipedia.org/wiki/永田怜奈 "wikilink")（リポーター。2012年。ライオンズチャンネルリポーター兼務。）
+  - 土肥義弘（リポーター。2013年 - 2014年。解説兼務。）
+  - [栗山麗美](https://ja.wikipedia.org/wiki/栗山麗美 "wikilink")（元・[北海道文化放送](../Page/北海道文化放送.md "wikilink")アナウンサー。2015年 - 2016年。ベンチサイドレポーターのみ）
+
+<!-- end list -->
+
+  - [TBSビジョン](https://ja.wikipedia.org/wiki/TBSビジョン "wikilink")と制作提携していた関係上、[TBSスポーツ部所属アナウンサーも出演していたこともあった](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")。
+
+<!-- end list -->
+
+  - [宮澤隆](https://ja.wikipedia.org/wiki/宮澤隆 "wikilink")
+  - [中村秀昭](https://ja.wikipedia.org/wiki/中村秀昭 "wikilink")
+  - [小笠原亘](https://ja.wikipedia.org/wiki/小笠原亘 "wikilink")
+  - [初田啓介](https://ja.wikipedia.org/wiki/初田啓介 "wikilink")
+
+## 他局へのネット
+
+  - [西武グループ](https://ja.wikipedia.org/wiki/西武グループ "wikilink")の[近江鉄道](../Page/近江鉄道.md "wikilink")が大株主の関係にあるびわ湖放送は、2002年頃までは本番組のネットおよび本番組の中継がない場合は、[1990年代](../Page/1990年代.md "wikilink")のごく一部に[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")製作の試合があればANBからのラインネットによる中継を同時放送、また[パーフェクTV\!→スカイパーフェクTV\!開始当初は当時J](https://ja.wikipedia.org/wiki/スカパー! "wikilink") SPORTSで放送されていた球団制作中継の『[J SPORTS STADIUM](https://ja.wikipedia.org/wiki/J_SPORTS_STADIUM "wikilink")』をネットすることによって、西武主催のほぼ全試合を放送していた。また、放送時間も最大23時まで延長していた。2003年以降は中継試合数減や延長オプションの削減が行われた。
+  - [渡辺久信](https://ja.wikipedia.org/wiki/渡辺久信 "wikilink")の出身地である群馬の、群馬テレビは2010年まで年10試合程度を中継していた。2013年は、再度本番組のネット受けを再開。
+  - サンテレビの完全中継など一部のネット局はテレ玉よりも中継時間の設定が長いため、一時的に[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")状態になることがある。
+  - 各局飛び乗り時は挨拶と球場名及び実況・解説・リポーターのテロップが表示される。放送局名を読み上げることはない。飛び降り時は「（放送局名）をご覧の皆さんとはこの辺でお別れとなります。」というアナウンスと実況・解説・リポーターのテロップが表示される。
+  - 他局への販売をチバテレなど周辺の独立局よりも積極的に行っている。
+
+<!-- end list -->
+
+  -
+    2009年6月10日の阪神戦は、群馬テレビ・びわ湖放送・KBS京都・サンテレビにネット。テレ玉を含め5局ネットで中継した。
+    2013年6月3日の巨人戦は、群馬テレビ・三重テレビ・ぎふチャン・びわ湖放送へネット。テレ玉を含め5局ネットで中継した。
+    2015年5月29日の阪神戦は、三重テレビ・びわ湖放送・KBS京都・サンテレビにネット。テレ玉を含め5局ネットで中継した。
+
+### ネット局（2014・2015年実績）
+
+◆:2014年にネット受けした局、◇:2015年シーズンにネット受けした局
+
+  - [とちぎテレビ](https://ja.wikipedia.org/wiki/とちぎテレビ "wikilink")◆
+  - [群馬テレビ](https://ja.wikipedia.org/wiki/群馬テレビ "wikilink")◆
+  - [チバテレ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")◆◇（[CTCマリーンズナイター](https://ja.wikipedia.org/wiki/CTCマリーンズナイター "wikilink")　[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")戦のみ。）
+  - [ぎふチャン](https://ja.wikipedia.org/wiki/岐阜放送 "wikilink")◆（[ダイナミックナイター](https://ja.wikipedia.org/wiki/ぎふチャン_ダイナミックナイター "wikilink")）
+  - [三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")◆◇（[三重テレビナイター](https://ja.wikipedia.org/wiki/三重テレビナイター "wikilink")　交流戦・[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")戦中心。2008年及び2013年以降は中日戦以外も中継。）
+  - [びわ湖放送](https://ja.wikipedia.org/wiki/びわ湖放送 "wikilink")◆◇（BBCライオンズアワー）\[25\]
+  - [KBS京都](../Page/京都放送.md "wikilink")◆◇（[KBS京都エキサイトナイター](https://ja.wikipedia.org/wiki/KBS京都エキサイトナイター "wikilink")）
+  - [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")◆（タイムリーナイター）
+  - [サンテレビ](../Page/サンテレビジョン.md "wikilink")◇（[サンテレビボックス席](https://ja.wikipedia.org/wiki/サンテレビボックス席 "wikilink")　交流戦・[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")戦のみ。ただし過去に阪急→オリックス戦とダイエー戦\[26\]が放送された事例がある）
+
+### 過去のネット局（-2013年）
+
+  - [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")（[MXスタジアム](https://ja.wikipedia.org/wiki/MXスタジアム "wikilink")）
+  - [tvk](../Page/テレビ神奈川.md "wikilink")（[tvkプロ野球中継 熱烈ベイスターズLIVE\!\!](https://ja.wikipedia.org/wiki/tvkプロ野球中継_横浜DeNAベイスターズ熱烈LIVE "wikilink")　交流戦・[横浜ベイスターズ戦のみ](../Page/横浜DeNAベイスターズ.md "wikilink")。）
+  - [テレビ愛知](../Page/テレビ愛知.md "wikilink")
+  - [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")
+
+## 在阪準キー局からのネット
+
+  - 1980年代には、土曜・日曜開催の在阪球団主催・在阪準キー局制作の対西武戦中継を、在京キー局が同時ネットしない場合に限り、テレ玉が同時ネットする事があり、在阪局での放送終了後も、裏送りで中継を続行する事があった。番組名については、西武主催と同様に「ライオンズアワー」名義だった。
+  - また、ネット局の[びわ湖放送](https://ja.wikipedia.org/wiki/びわ湖放送 "wikilink")で、[朝日放送（現：朝日放送テレビ）が放送しない](https://ja.wikipedia.org/wiki/朝日放送テレビ "wikilink")[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")制作の、主に[近鉄](../Page/大阪近鉄バファローズ.md "wikilink")・[オリックスとの対戦など数試合が](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")「ライオンズアワー」として放送されたことがあった。近鉄・オリックス側のレポーターは[朝日放送アナウンサーが担当した場合もある](https://ja.wikipedia.org/wiki/朝日放送テレビのアナウンサー一覧 "wikilink")。
+
+## 関連項目
+
+  - [TVSヒットナイター](https://ja.wikipedia.org/wiki/TVSヒットナイター "wikilink")
+  - [LIONS BASEBALL L\!VE](https://ja.wikipedia.org/wiki/LIONS_BASEBALL_L!VE "wikilink")
+  - [プロ野球完全中継 ライオンズ](https://ja.wikipedia.org/wiki/プロ野球完全中継_ライオンズ "wikilink")
+  - [文化放送ライオンズナイター](https://ja.wikipedia.org/wiki/文化放送ライオンズナイター "wikilink")
+  - [NACK5 SATURDAY\&SUNDAY LIONS](https://ja.wikipedia.org/wiki/NACK5_SATURDAY&SUNDAY_LIONS "wikilink")
+  - [LIONS CHANNEL](https://ja.wikipedia.org/wiki/LIONS_CHANNEL "wikilink")
+
+## 脚注
+
+## 外部リンク
+
+  - [テレ玉プロ野球中継スケジュール](http://www.teletama.jp/sports/baseball.html)
+
+[Category:テレビ埼玉の番組](https://ja.wikipedia.org/wiki/Category:テレビ埼玉の番組 "wikilink") [Category:関東・甲信越地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/Category:埼玉西武ライオンズ "wikilink")
+
+1.  当時は一塁側がホーム側のベンチ・応援団席だった。[2009年](../Page/2009年.md "wikilink")からはホーム側のベンチ・応援団席は3塁側に変更
+2.  TBSは[横浜ベイスターズの親会社になるまでは](../Page/横浜DeNAベイスターズ.md "wikilink")「[レッツゴー\!ライオンズ](https://ja.wikipedia.org/wiki/レッツゴー!ライオンズ "wikilink")」を放送するなどしていた。
+3.  ビジター扱いの『TVSヒットナイター』時も同様にTNCと提携した。なお、TNCは[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")が開局するまで[テレビ東京系の中継でも技術協力していた](https://ja.wikipedia.org/wiki/TXN "wikilink")。
+4.  2011年までは『[J SPORTS STADIUM](https://ja.wikipedia.org/wiki/J_SPORTS_STADIUM "wikilink")』(J SPORTS)、2012年からは『[プロ野球完全中継 全力\!ライオンズ](https://ja.wikipedia.org/wiki/プロ野球中継_骨太!ライオンズイズム "wikilink")』([朝日ニュースター](https://ja.wikipedia.org/wiki/朝日ニュースター "wikilink"))と同一のもの
+5.  同局のキャッチフレーズ『あなたにカンケイあるテレビ』付きのロゴが使われている。2009年にはテレビ埼玉開局30周年記念ロゴが使用されていた。
+6.  現在は、球団制作の公式映像とNHKのカメラを織り交ぜて放送している。
+7.  これは[J SPORTS](https://ja.wikipedia.org/wiki/J_SPORTS "wikilink")「[J SPORTS STADIUM野球好き](https://ja.wikipedia.org/wiki/J_SPORTS_STADIUM "wikilink")」の西武主管試合でも[2009年](../Page/2009年.md "wikilink")まで一部試合を除き使われていた。2010年からはBS朝日の西武戦中継で使用されている。2012年からCS中継の放映権が[朝日ニュースター](https://ja.wikipedia.org/wiki/朝日ニュースター "wikilink")に移行し、球団映像にテレビ朝日が関与するようになったため、カウント表示がテレビ朝日と類似のものになった（ランナーテロップやチーム名(テレビ朝日は日本語頭文字だが、球団映像は帽子のマーク)等の細部のデザインが微妙に異なる）。それ以外の選手名テロップなどはほぼ前年と同じ
+8.  BS12トゥエルビではそのままスポンサー名入りのスコア表示放送された。
+9.  詳しい楽曲は[LIONS CHANNELを参照](https://ja.wikipedia.org/wiki/LIONS_CHANNEL#エンディング曲 "wikilink")。
+10. [東京ケーブルネットワーク](https://ja.wikipedia.org/wiki/東京ケーブルネットワーク "wikilink")協力
+11. この場合でもびわ湖放送がネットする試合であれば「BBCライオンズアワー」名義で放送
+12. ただし、2011年から、16時台の競馬中継の[LIVE\&REPORT 中央競馬中継が任意ネットに格下げになったため](https://ja.wikipedia.org/wiki/LIVE&REPORT_中央競馬中継 "wikilink")、[tvkは](../Page/テレビ神奈川.md "wikilink")2011年は土曜・日曜のデーゲームの野球中継を拡大した。テレ玉は2011年6月11日の対阪神戦に唯一土曜日デーゲームの中継を行う。
+13. 2012年10月15日放送の[クライマックスシリーズ](https://ja.wikipedia.org/wiki/クライマックスシリーズ "wikilink")ファーストステージ第3戦は最大30分間（22:00まで、実際は21:40終了）の延長が設定された。2013年10月8日のレギュラーシーズン最終戦は試合終了まで放送（試合は21:30より前に終了したが、セレモニーを最後まで中継したため22:00終了）。2012年以降クライマックスシリーズファーストステージは031chの放送枠終了後SV2で延長する場合がある。
+14. 前述したCS以外でも2018年6月15日中日戦など不定期にSV2で延長放送する場合もある。
+15. テレ玉ニュースリリース [明日20日(金)から西武主催試合をワンセグ独立放送でも中継](http://www.teletama.jp/newsrelease/pdf/11051901.pdf)（PDFファイル）
+16. [2007年の中継番組サイト保存キャッシュ](http://web.archive.org/web/20070317053407/http://www.teletama.jp/sports/lions07.htm)
+17. [2008年以降の中継番組サイト保存キャッシュ一覧](http://web.archive.org/web/*/http://www.teletama.jp/sports/baseball.html)
+18. 雨天中止により放送中止となった8月23日の試合は含まない。
+19. 10月8日の[千葉ロッテ](https://ja.wikipedia.org/wiki/千葉ロッテ "wikilink")とのシーズン最終戦は当初放送予定がなかったが、CS1stステージの本拠地開催を賭けた直接対決となったことから18時から緊急生中継した。[緊急生放送！！！！！！！！: テレ玉印の広報ブログ](http://teletama.seesaa.net/article/376855029.html)
+20. CS第1・2戦はテレ玉第2チャンネルのみ、第3戦はメイン→第2チャンネルの中継。
+21. [埼玉西武ライオンズ CS 本拠地開催決定！ 西武 VS 楽天 ファーストステージ３連戦を生中継！](http://www.teletama.jp/newsrelease/pdf/17100501.pdf) テレ玉 News Release 2017年10月5日
+22. CS第1・3戦共にメイン→第2チャンネルの中継。
+23. CS第3・4戦共にメイン→第2チャンネルの中継。
+24. [祝パリーグ優勝 埼玉西武ライオンズ\! CSファイナルステージ2試合 緊急生中継決定\!](http://www.teletama.jp/newsrelease/pdf/19092501.pdf)　テレ玉 News Release 2019年9月25日
+25. 西武がビジターとなる試合であっても、テレ玉とは異なりBBCは「ライオンズアワー」名義で放送する。1990年頃は[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")制作のデーゲームの西武戦も同時ネット（[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")では編成の関係上放送されていなかったため。その場合でも朝日放送アナウンサーがベンチレポートを担当した場合もあった）した。2012年の[皇子山球場](https://ja.wikipedia.org/wiki/皇子山球場 "wikilink")での試合は[朝日ニュースター](https://ja.wikipedia.org/wiki/朝日ニュースター "wikilink")からのネット受けを行った。
+26. [1989年](../Page/1989年.md "wikilink")-[1994年](../Page/1994年.md "wikilink")ごろ。当時サンテレビはダイエーと資本関係があった

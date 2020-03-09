@@ -1,0 +1,185 @@
+> この記事は[ X](https://ja.wikipedia.org/wiki/_X)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/画像:Sikorsky_X-wing_diagonal_view.jpg "wikilink") **シコルスキー S-72　Xウイング** (Sikorsky S-72 X-Wing) は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")から[1988年](../Page/1988年.md "wikilink")にかけて、[NASA](../Page/アメリカ航空宇宙局.md "wikilink") と [国防高等研究計画局](../Page/国防高等研究計画局.md "wikilink") (DARPA) の資金協力を得て、[シコルスキー・エアクラフト](https://ja.wikipedia.org/wiki/シコルスキー・エアクラフト "wikilink")社が開発した[ヘリコプター](../Page/ヘリコプター.md "wikilink")と[固定翼機](../Page/固定翼機.md "wikilink")を混合させた ローター・システム検証（研究）航空機 ( Rotor Systems Research Aircraft, **RSRA**) である。
+
+## 概要
+
+[シングルローター式ヘリコプターの胴体に固定翼機と同様の規模の主翼](https://ja.wikipedia.org/wiki/ヘリコプター#シングルローター式 "wikilink")〔 [小翼](https://ja.wikipedia.org/wiki/小翼 "wikilink") 〕がついた形状をしており、高速水平飛行時には主翼の揚力を用い、胴体脇の[ターボファンエンジン](https://ja.wikipedia.org/wiki/ターボファンエンジン "wikilink")で前進する。この[複合ヘリコプター](https://ja.wikipedia.org/wiki/複合ヘリコプター "wikilink")機能を有する為に追加された推進専用の TF-34 ターボファンエンジンは、純粋な回転翼のみの空力特性の計測などが必要な場合には分離作業により取り外すことも可能\[1\]だが、当然ながら前進推力の低下により速度性能は低下してしまう。（ “諸元”の「**推進専用補助エンジン（ TF34 x 2 基 ）を装備しない場合**」の性能値を参照。）
+
+乗員定数は [機長](https://ja.wikipedia.org/wiki/機長 "wikilink")（正操縦士）、[副操縦士](https://ja.wikipedia.org/wiki/副操縦士 "wikilink") 、電子機器操作（観測）員の3名だが、3人目の電子機器操作員は[ダグラス・エアクラフト](https://ja.wikipedia.org/wiki/ダグラス・エアクラフト "wikilink")が開発した[A-3 スカイウォーリアの例にならい](https://ja.wikipedia.org/wiki/A-3_\(航空機\) "wikilink")、2名の操縦士とは[操縦区画内部の隔壁で遮られ](https://ja.wikipedia.org/wiki/コックピット "wikilink")、機体の後方を向いた（飛行方向に対して反対向きの）座席に位置する。\[2\]\[3\] 通常の試験飛行の運用想定で、約12年間の運用寿命\[4\]を持つ。
+
+初号機は1976年に [SH-3 シーキング（ 社内名称：S-61 ）](https://ja.wikipedia.org/wiki/S-61 "wikilink") の回転翼と動力系統を流用して完成、2号機は固定翼と補助推進エンジンを胴体左右に追加装備した複合ヘリコプターとして翌1977年6月に完成した。\[5\]
+
+この固定翼は[迎え角](https://ja.wikipedia.org/wiki/迎え角 "wikilink")を飛行中に変更可能で、さらには[エルロン](https://ja.wikipedia.org/wiki/エルロン "wikilink")や[フラップ](https://ja.wikipedia.org/wiki/フラップ "wikilink")の機能を備え、固定翼のみでの完全な自立飛行が可能だった。\[6\]\[7\] この固定翼に加えて揚力を増すために、機体上部の主回転翼（メイン・ローター）を停止・固定することが可能だが、この回転翼の固定位置と形状を平面形で俯瞰（ふかん）した際に[翼型](https://ja.wikipedia.org/wiki/翼型 "wikilink")が[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")の“X”の文字を連想させることが、後述の「Xウイング」の名称の由来となった。
+
+離着陸時には X字型翼の固定を解除し、4枚羽根の回転翼を有する従来型の[回転翼機](https://ja.wikipedia.org/wiki/回転翼機 "wikilink") （ヘリコプター）として垂直離着陸が可能である。
+
+またヘリコプター形態（モード）における操縦機能に関しては、主回転翼の羽根角度（ローターブレードのピッチ）を制御する一般的な手法ではなく、ローター駆動用の 2基の T58-GE-5 [ターボシャフトエンジン](https://ja.wikipedia.org/wiki/ターボシャフトエンジン "wikilink")から抽気し、回転翼の羽根の翼端から圧縮空気を噴出して仮想的な翼形を生成し、それを用いるというものであった。\[8\]
+
+圧縮空気の流量と各翼への配分はコンピュータ制御され、各ブレード翼端から適切な比率で噴出される。飛行原理的には[ホットサイクル式ローター](https://ja.wikipedia.org/wiki/ホットサイクル式ローター "wikilink")の考え方を更に推し進めたものと捉えることも出来る。\[9\]
+
+## 形態変更
+
+[thumb](https://ja.wikipedia.org/wiki/画像:NASA_RSRA_in_flight.jpg "wikilink")
+
+以下の３形態の各々の飛行形態の変換に関して、最大２時間程度の地上整備作業により“組み換え変形”が可能である。\[10\]
+
+1.  「純ヘリコプター形態」：T字型尾翼（頂部の小型水平尾翼）、同・垂直尾翼の中央左側に尾部の対トルク用・副回転翼（テイルローター）を設置。
+2.  「複合ヘリコプター形態」〔[ジャイロダイン (Gyrodyne)](https://ja.wikipedia.org/wiki/:en:Gyrodyne "wikilink") 形態〕：T字型尾翼の頂部にある“小型水平尾翼”を小型版のものに交換、上下に可変迎角の大型水平安定板を追加。
+3.  「固定翼機形態」：主・回転翼、尾部の対トルク用・副回転翼を撤去（**撤去しなくても最大速度は低下するが飛行は可能、画像を参照**）、T字型尾翼の頂上部にある“小型水平尾翼”を標準版のものに交換、上下の可変迎角の大型水平安定板は必要に応じて撤去。
+
+## ローター・システム検証／研究航空機（RSRA）
+
+[308px](https://ja.wikipedia.org/wiki/画像:X-Wing_EC86-33555-2_NASA.jpg "wikilink")
+
+ローター・システム検証／研究航空機 ( 回転翼機構・検証／研究航空機、 The Rotor Systems Research Aircraft , RSRA ) は、[アメリカ航空宇宙局](../Page/アメリカ航空宇宙局.md "wikilink")（NASA）と[アメリカ陸軍](https://ja.wikipedia.org/wiki/アメリカ陸軍 "wikilink")の要求によりシコルスキー社によって、ヘリコプターの回転翼特性の飛行中の許容範囲の測定値のデータを取得するために2.5億ドルの予算を提供され開発された。\[11\]\[12\]
+
+機体は、既存の シコルスキー [S-61](https://ja.wikipedia.org/wiki/S-61 "wikilink")の主回転翼、同じく S-61 の“ローラー・ギアボックス”、加えて大幅な改造変更を施した [シコルスキー S-67 「ブラックホーク」の機体を流用して開発された](https://ja.wikipedia.org/wiki/シコルスキー_S-67 "wikilink")。\[13\]\[14\]
+
+ローター・システム検証／研究航空機は、[複合ヘリコプター](https://ja.wikipedia.org/wiki/複合ヘリコプター "wikilink")としての機体システム構成による 300ノット（560km/h）までの速度の実験的調査を許容するために、[ゼネラル・エレクトリック TF34/CF34](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_TF34/CF34 "wikilink")・[ターボファンエンジン](https://ja.wikipedia.org/wiki/ターボファンエンジン "wikilink")と従来型ヘリコプターの標準だった操縦機能を持たない[小翼](https://ja.wikipedia.org/wiki/小翼 "wikilink")ではなく、完全な操縦翼面を備えた固定翼を装備することが可能だった。 この本格的な操縦翼面と当初より予定された機体設計によりこの機体は、*' 回転翼を取り外し、固定翼航空機として飛行可能*'だった。\[15\]
+
+## 回転翼機として稀有な脱出機構
+
+また、同時代の回転翼航空機として特異な特徴として乗員のみを座席から切り離す、後の時代の[カモフ](https://ja.wikipedia.org/wiki/カモフ "wikilink")・[Ka-50](https://ja.wikipedia.org/wiki/Ka-50 "wikilink")の[射出座席](https://ja.wikipedia.org/wiki/射出座席 "wikilink")とも異なる「スタンリー・ヤンキー摘出システム」\[16\]と呼ばれた非常脱出装置一式を備えていた。 脱出手順は、主回転翼の羽根を切断する為に活性化（アクティベーション）された[分離ボルト](https://ja.wikipedia.org/wiki/分離ボルト "wikilink")が発火し分離が開始されるのと連動し、適切な時機〔タイミング〕に航空機の操縦室の天井の脱出口パネルもまた同様に火薬の爆発作用により吹き飛ばされ、2名ないし3名の乗員はこの Yankee （ヤンキー）システムと呼ばれたロケット装置により、[コックピットの座席から](https://ja.wikipedia.org/wiki/操縦席 "wikilink")“乗員のみを”引き抜かれた。 したがって、乗員は背負い式の[落下傘](../Page/パラシュート.md "wikilink") を身に付けることが前提になる。
+
+## 計画の推移
+
+ローター・システム検証／研究航空機 (RSRA) は、回転翼航空機の設計分析、風洞試験と飛行結果の間の測定値が存在しない間隙（かんげき）を満たすために開発された特異な「回転翼と固定翼の相互関係と両者間の遷移飛行に関する純粋な研究航空機」だった。
+
+アメリカ航空宇宙局（NASA）とアメリカ陸軍の共同開発研究計画は、1970年12月より開始され、1979年2月11日までの必着期限付きでシコルスキー社からアメリカ航空宇宙局 (NASA) に到着・領収する契約であった2機の試作機により、期限より約2年4ヶ月早く、1976年10月12日に初飛行した。 このローター・システム検証／研究航空機で実行された1件の著名な飛行試験の項目は、機体の垂直面の空力抵抗を定義設定し、中立点を規定する為の、主回転翼および尾部回転翼の搭載可能荷重の測定システムの使用だった。
+
+1981年に、NASAとアメリカ陸軍は、後にX字翼（Ｘウイング）と呼ばれた、4枚羽根の主回転翼をローター・システム検証／研究航空機（RSRA）に取り付けることをシコルスキー社に提案要求した。 シコルスキー社は、自社の提案でローターシステム研究航空機 (RSRA)に [UH-60](https://ja.wikipedia.org/wiki/UH-60 "wikilink")A の主回転翼を適合させることを提案し、[ヒューズ・ヘリコプターズ](https://ja.wikipedia.org/wiki/ヒューズ・ヘリコプターズ "wikilink")社は、Y[AH-64](https://ja.wikipedia.org/wiki/AH-64 "wikilink")A の主回転翼を適合させることを提案し、更に、[ボーイング・バートル社は](https://ja.wikipedia.org/wiki/ボーイング・ロータークラフト・システムズ "wikilink") [YUH-61A](https://ja.wikipedia.org/wiki/YUH-61_\(航空機\) "wikilink") か、“Model 347”( 4枚羽根・主回転翼構成の [CH-47](https://ja.wikipedia.org/wiki/CH-47 "wikilink")の社内名称 )の 主回転翼を適合させることを提案したが結局、この計画は継続されることは無かった。
+
+X字型翼・循環制御・概念は1970年代中頃であった1976年10月に[アメリカ国防高等研究計画局 (DARPA)](../Page/国防高等研究計画局.md "wikilink") 投資下の[デイビッド W. テイラー・海軍技術研究所](https://ja.wikipedia.org/wiki/:en:Carderock_Division_of_the_Naval_Surface_Warfare_Center "wikilink") によって発展し、[ロッキード](../Page/ロッキード.md "wikilink")社は概念を実証試験する為に大規模な回転翼を開発するというアメリカ国防高等研究計画局 (DARPA)間との確定契約を獲得した。
+
+1983年後半にシコルスキー社は、X字型・回転翼システムの為の概念実証（デモンストレーション）試験機として既存の試作機から1機（ 第2号機、アメリカ航空宇宙局 登録番号 N-741 NA , 民間機登録番号 cn 72002 ） を改造母体として選出し、S-72 ローター・システム検証／研究航空機 (RSRA)を改修する契約を受けた。改修された機体は1986年に生産されたが、1988年に計画が中止されるまでの間に一度も飛行することは無かった。 計画に基づく継続的な飛行は1983年から1988年までのわずか5年間で終了し、設計運用寿命の12年間を全うすることなく終了した。
+
+## 財政問題による計画の終焉
+
+回転翼の空力データ入手という研究機としての機能とは別に、将来的な実用機の開発への試金石としての[青写真](https://ja.wikipedia.org/wiki/青写真 "wikilink")をも意図した「Ｘウイング」だったが、複合ヘリコプター故の必要性とはいえ、エンジンを4基も搭載する無駄に加え、抽気による回転翼制御システムとエンジン数の相乗作用もあり、燃費は通常のヘリコプターより劣った。\[17\] シコルスキー社とアメリカ陸軍は、将来の実用機開発への費用増大を避ける（[リスクマネジメント](https://ja.wikipedia.org/wiki/リスクマネジメント "wikilink")による危険分散）意図を以て、同海軍にも対しても、本機の特性を活かした実用機\[18\]を開発することで、戦術（写真）偵察機、空対地任務の[観測機](https://ja.wikipedia.org/wiki/観測機 "wikilink")、[早期警戒機](https://ja.wikipedia.org/wiki/早期警戒機 "wikilink")、[電子戦機](../Page/電子戦機.md "wikilink")、[対潜水艦戦向けの](https://ja.wikipedia.org/wiki/対潜戦 "wikilink")[対潜哨戒機](https://ja.wikipedia.org/wiki/対潜哨戒機 "wikilink")、[捜索救難](https://ja.wikipedia.org/wiki/捜索救難 "wikilink")等の任務に対する X字型・回転/固定翼機 の適性があることを働きかけたが、海軍の関心は得られなかった。
+
+思ったよりも固定翼形態での速度が出ないという運用結果もあり、[ティルトローター](../Page/ティルトローター.md "wikilink")の方が片方のエンジン停止時の安全性 (双方の発動機の回転軸の間の長大な距離を変速機を介し、分割された複数の駆動軸とその間の自在接手で連結した最新の機体と比較して) や、遷移飛行に関する困難（ ヘリコプター形態から固定翼機、あるいはその逆など、“垂直離着陸 - 水平飛行”相互移行時に不安定になる ）があるとはいえ、速度や燃費、航続能力でＸウイングを上回り、構造の簡便さや整備性でも本機を上回る[ベル・ヘリコプター](https://ja.wikipedia.org/wiki/ベル・ヘリコプター "wikilink")の[XV-15や実用機](https://ja.wikipedia.org/wiki/XV-15_\(航空機\) "wikilink") [V-22 オスプレイが登場すると](https://ja.wikipedia.org/wiki/V-22 "wikilink")、Xウイングという複合ヘリコプターに対するアメリカ陸軍や、アメリカ航空宇宙局 (NASA) の関心も薄れ、1987年にアメリカ合衆国政府は優先順位の高い研究に対して資金提供を行い、他は資金提供を中止することで予算を節約することを決定し、本計画に関して契約を終了することに決定した。このため、契約終了時点でも技術開発中であった本計画は、技術的な問題ではなく資金の不足のために終了させられることになった。\[19\]
+
+1988年に計画は正式には中止（キャンセル）されている。\[20\]
+
+アメリカ陸軍が手を引いたその後も、アメリカ航空宇宙局（NASA）は地上における風洞試験やごく稀に短時間の試験飛行を仕様上の理由、つまり「肝心の X字翼自体の技術的な未熟〔資金提供の中止による開発途上での開発停止であり、技術そのものの欠陥では無かったが〕による飛行危険性」から、主として“初号機”を用いて行ったが、1997年の試験飛行を最後として同機が二度と飛行することは無く用途廃止となり、シコルスキー社が本機のデータを取り入れた実用型を開発する余地は遂に生じることは無かった。
+
+## 本計画の遺産
+
+第2号機（アメリカ航空宇宙局 登録番号 N-741 NA , 民間機登録番号 cn 72002 ）に装備された4枚羽根のX字型の主回転翼の始動および駆動制御と停止機能のために、高出力対応クラッチおよびブレーキの両方が装備され、このうちクラッチは[アリソン・エンジン](https://ja.wikipedia.org/wiki/アリソン・エンジン "wikilink")により開発された。この高出力を吸収可能なクラッチ概念は、最終的には「統合打撃戦闘機」（英: Joint Strike Fighter）である[X-35](https://ja.wikipedia.org/wiki/X-35_\(航空機\) "wikilink") および [F- 35](../Page/F-35_\(戦闘機\).md "wikilink") のリフトファンを管理するために使用されたクラッチ設計の基礎となった。 \[21\]
+
+## シコルスキー Xウイングを機体デザイン原型とした作品
+
+なお[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")・[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")にも 「シコルスキー S-72 Xウイング」をモチーフとした機体が登場する。
+
+日本のテレビアニメーションシリーズ『[超時空騎団サザンクロス](https://ja.wikipedia.org/wiki/超時空騎団サザンクロス "wikilink")』（1984年）に登場する [惑星グロリエ](https://ja.wikipedia.org/wiki/惑星グロリエ "wikilink")の[開拓惑星軍](../Page/屯田兵.md "wikilink")「サザンクロス軍」 ( Army of the Southern Cross , ASC ） の航空宇宙局 ( Aeronautics and Space Administration , ASA ）所属、戦術機甲宇宙軍団〔宇宙機甲隊〕 ( **T**actical **A**rmored **S**pace **C**orps , **TASC** ) 配備の[可変戦闘機](https://ja.wikipedia.org/wiki/可変戦闘機_\(マクロスシリーズ\) "wikilink")「オーロラン」の[複合ヘリコプター](https://ja.wikipedia.org/wiki/複合ヘリコプター "wikilink")〔ジャイロダイン〕形態は、同じく複合ヘリコプターである本機「シコルスキー S-72 Xウイング」をモチーフとした機体であり、一方で [制式名称・型式番号](../Page/軍用機の命名規則.md "wikilink") VFH-10 オーロラン は[二重反転式ローター](https://ja.wikipedia.org/wiki/二重反転式ローター "wikilink")を持ち、[熱核タービンエンジンにより燃費の問題を事実上無視可能となり実現した](https://ja.wikipedia.org/wiki/オーバーテクノロジー・オブ・マクロス#熱核タービンエンジン "wikilink") [ホットサイクル式ローター](https://ja.wikipedia.org/wiki/ホットサイクル式ローター "wikilink") を実用化しているが、その複合ヘリコプター形態は、シコルスキー S-72の独特な回転翼の[翼型](https://ja.wikipedia.org/wiki/翼型 "wikilink")設計に多大な影響を受けてデザインされたものである。
+
+### 商品化
+
+国内で唯一無二の立体化（模型化）商品である[ビッグワンガム](https://ja.wikipedia.org/wiki/ビッグワンガム "wikilink")〔デラックス〕 1983年（昭和58年）7月発売の第3弾 (区分記号 E ) では、この従来型の S-61（ SH-3 シーキング ）から回転翼と動力系統を流用した第2号機（ アメリカ航空宇宙局 登録番号 N-741 NA , 民間機登録番号 cn 72002 ） の従来型の主回転翼（メイン・ローター）の改造前の状態の「回転翼機構・検証／研究航空機」仕様（“RSRA仕様”）を模型化している。\[22\]
+
+## 要目
+
+  - **〔　〕内の数値は、主回転翼 装備状態で、かつ T字尾翼の頂部「副水平尾翼」を小型化されたものに換装した「複合ヘリコプター形態」での値。**
+
+<!-- end list -->
+
+  - 出典
+
+<!-- end list -->
+
+1.  [アメリカ航空宇宙局・技術報告書保管庫 - 回転翼システム検証／研究航空機の概念実証 ( 英語, PDF, 6.5 MB )](http://hdl.handle.net/2060/19720025371)\[23\]
+2.  カバヤ 1/130 縮尺 シコルスキー S-72「回転翼機構・検証／研究航空機」,（RSRA）仕様機〔おもて面〕組み立て方、完成図【 I.複合ヘリコプター ｜ II.固定翼機 】、実機解説。／〔裏面〕： 組み立て図 1-8\[24\]\[25\]
+
+乗員： 2名、または 3名（機長 兼 正操縦士、副操縦士、電子機器操作員 兼 観測員)
+
+座席数： 3席
+
+定員： 3名
+
+胴体全長： 21.54 [m](../Page/メートル.md "wikilink")
+
+回転翼直径： 18.90 m
+
+主回転翼の頂部までの全高： 4.42 m
+
+胴体全高： 3.25 m
+
+自重： 6,572 kg 〔9,535 kg〕
+
+[空虚重量](https://ja.wikipedia.org/wiki/空虚重量 "wikilink")： 9,480〔不明〕 [kg](https://ja.wikipedia.org/wiki/キログラム "wikilink")
+
+全備最大重量 8,346 kg 〔11,884 kg〕（ **〔　〕内の値が[最大離陸重量](https://ja.wikipedia.org/wiki/最大離陸重量 "wikilink")を超えるが、主回転翼による[垂直離着陸は不可能だが滑走により離着陸が可能](../Page/垂直離着陸機.md "wikilink")。**）
+
+[最大離陸重量](https://ja.wikipedia.org/wiki/最大離陸重量 "wikilink")： 11,815 kg（ **3形態のいずれにおいても**、この値を超えないこと ）
+
+### その他の諸元
+
+〔　〕内の値は、固定翼機形態での測定値。 '''推進専用補助エンジン（ TF34 x 2 基 ）を装備しない場合の離陸重量： ''' 8,300 kg
+
+  - '''推進専用補助エンジン（ TF34 x 2 基 ）を装備しない場合の自重： ''' 6,535 kg
+  - 主エンジン： [ゼネラル・エレクトリック T58](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_T58 "wikilink")-GE-5 [ターボシャフト](https://ja.wikipedia.org/wiki/ターボシャフトエンジン "wikilink") x 2基、1,400 [shp](https://ja.wikipedia.org/wiki/軸馬力 "wikilink") （ 1,045 [kW](https://ja.wikipedia.org/wiki/キロワット "wikilink")）
+      -
+        推進用・補助エンジン： [ゼネラル・エレクトリック TF34](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_TF34 "wikilink")-GE-400A [ターボファンx](https://ja.wikipedia.org/wiki/ターボファンエンジン "wikilink") 2基、推力 4,180 [kN](../Page/ニュートン_\(単位\).md "wikilink")
+  -
+  - 最大速度： 370 [km/h](https://ja.wikipedia.org/wiki/キロメートル毎時 "wikilink")〔 555.6km/h 〕[km/h](https://ja.wikipedia.org/wiki/キロメートル毎時 "wikilink")（ 200 〔300〕[kt](../Page/ノット.md "wikilink")、 230 〔330〕[mph](https://ja.wikipedia.org/wiki/マイル毎時 "wikilink") ）
+  - **推進専用補助エンジン（TF34）を使用しない場合の最高速度：** 160 mph（ 296km/h ）'''
+  - **推進専用補助エンジン（TF34）を使用しない場合の巡航速度：** 140 kt（ 258 km/h ）'''
+      -
+        最大平均上昇率： 6003,94 [ft/min](https://ja.wikipedia.org/wiki/フィート#フィート毎秒 "wikilink")
+        海面・初期上昇率： 3,050 [m/s](../Page/メートル毎秒.md "wikilink")
+
+## 脚注
+
+## 関連項目
+
+  - [Xウイング](../Page/Xウイング.md "wikilink")
+  - [パイアセッキ X-49](https://ja.wikipedia.org/wiki/X-49_\(航空機\) "wikilink")
+  - [シコルスキー S-69](https://ja.wikipedia.org/wiki/シコルスキー_S-69 "wikilink")
+  - [シコルスキー X2](https://ja.wikipedia.org/wiki/シコルスキー_X2 "wikilink")
+  - [シコルスキー S-97 レイダー](https://ja.wikipedia.org/wiki/シコルスキー_S-97 "wikilink")
+  - [SB\>1 デファイアント](https://ja.wikipedia.org/wiki/SB-1_デファイアント "wikilink")（シコルスキー S-100 N100FV）
+  - [AH-56 シャイアン](https://ja.wikipedia.org/wiki/AH-56_シャイアン "wikilink")
+  - [カモフ Ka-50](https://ja.wikipedia.org/wiki/Ka-50_\(航空機\) "wikilink")
+  - [カモフ Ka-92(英語)](https://ja.wikipedia.org/wiki/:en:Kamov_Ka-92 "wikilink")
+  - [Mil Mi-X1(英語)](https://ja.wikipedia.org/wiki/:en:Mil_Mi-X1 "wikilink")
+  - [ユーロコプター X3](https://ja.wikipedia.org/wiki/ユーロコプター_X3 "wikilink")
+  - [フェアリー ジェット・ジャイロダイン](https://ja.wikipedia.org/wiki/フェアリー_ジェット・ジャイロダイン "wikilink")
+  - [複合ヘリコプター](https://ja.wikipedia.org/wiki/複合ヘリコプター "wikilink")
+
+## 外部リンク
+
+  - [S-72: The Rotor Systems Research Aircraft, RSRA](http://www.sikorskyarchives.com/S-72%20\(RSRA\).php)
+    （機体全般システム、回転翼の制御機構と操縦系統、機体構造などに関する英語による詳細な解説。）
+  - [Sikorsky S-72 RSRA](http://www.helis.com/70s/h_s72.php)
+  - [X-Wing 記事分類 EC86-33555-2: X-Wing Research Vehicle](http://www.dfrc.nasa.gov/Gallery/Photo/X-Wing/HTML/EC86-33555-2.html)
+    （アメリカ航空宇宙局の研究プロジェクト使用機体の本機に関する解説記事。）
+
+[Category:アメリカ合衆国の実験機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の実験機 "wikilink") [Category:アメリカ合衆国のヘリコプター](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のヘリコプター "wikilink") [Category:複合ヘリコプター](https://ja.wikipedia.org/wiki/Category:複合ヘリコプター "wikilink") [Category:翼端噴流式ヘリコプター](https://ja.wikipedia.org/wiki/Category:翼端噴流式ヘリコプター "wikilink") [Category:シコルスキーの航空機](https://ja.wikipedia.org/wiki/Category:シコルスキーの航空機 "wikilink")
+
+1.  この推進“補助エンジン”の取り外し機能を維持する為に、推進用 TF-34 ターボファンエンジンの方が高出力にも関わらず、抽気を補助エンジンから行うことが出来ず、上記エンジンに比較して低出力なローター駆動用の T58-GE-5 ターボシャフトエンジン より抽気する構造となっている。
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16. [The Ejection Site: Stanley YANKEE Extraction System](http://www.ejectionsite.com/yankee.htm)
+17.
+18. [シコルスキーエアクラフト ウェブサイト ＞ 試作機・生産機の歴史（保管庫）＞Ｘウイング](http://www.sikorskyarchives.com/X-WING.php) （英語）
+19. [Sikorsky Archives | X-Wing](https://www.sikorskyarchives.com/X-WING.php)
+20.
+21.
+22.
+23.
+24. カバヤ 1/130 縮尺 シコルスキー S-72「回転翼機構・検証／研究航空機」,（RSRA）仕様機〔おもて面〕「組み立て方」： 完成図【 I.複合ヘリコプター ｜ II.固定翼機 】
+25. カバヤ 1/130 縮尺 シコルスキー S-72「回転翼機構・検証／研究航空機」,（RSRA）仕様機〔裏面〕： 組み立て図 1-8

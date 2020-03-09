@@ -1,0 +1,227 @@
+> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+
+
+『**NHKモーニングワイド**』（エヌエイチケイ モーニングワイド）は、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")4月4日まで放送された[NHK総合テレビの](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")・[報道番組](../Page/報道番組.md "wikilink")である。総合テレビのほか、[BS2でも試験放送の時代から放送されていた](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")。
+
+## 概要
+
+それまでに放送していた『**[NHKニュースワイド](../Page/NHKニュースワイド.md "wikilink")**』と6時台に放送していた情報番組『[にっぽん列島あさいちばん](https://ja.wikipedia.org/wiki/にっぽん列島あさいちばん "wikilink")』を統合、6:00 - 8:15に時間枠を延長して誕生した。時間帯については前番組の『にっぽん列島-』と『ニュースワイド』を踏襲している。当時、民放初の大型夜ニュース『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系）が画期的な注目を集めていた頃に放送開始され、同番組のNHK朝のニュース版としても放送されていた。しかし、こちらは放送当時、平日と土曜日の放送時間が朝6時から8時15分であったため、アナウンサーがニュースを伝える姿勢を断固的に貫き通していた。
+
+### セットについて
+
+同時期にNHKで放送されていた夜9時のニュース「[NHKニュースTODAY](../Page/NHKニュースTODAY.md "wikilink")」→「[NHKニュース21](../Page/NHKニュース21.md "wikilink")」とセットを番組終了まで共通使用していた。
+
+「NHKニュースTODAY」が放送されていた頃は『ニュースステーション』のセットにも組まれていた（通称）ブーメランテーブルよりも原稿の置きやすい馬てい形テーブルが置かれていた。ただし、キャスターの背後にあった夜景の写真パネルにはブラインドが下ろされていた。
+
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の「NHKニュース21」開始よりセットが一新、馬てい形テーブルから男性アナウンサーと女性アナウンサーが揃って席に座れるブラウン色を深めたテーブルに変えられ、専門ニュースコーナーのキャスターが右側に座って伝えられるような余裕が与えられた。セットの背後の夜景は日中の写真に替えられていた。
+
+### ローカルニュース枠について
+
+各地の放送局発による地域ニュース枠も毎時設定され、平日の7時台では朝7時半から7時50分の20分編成で放送されていた。以下は各局のタイトル：
+
+:\*[札幌局](https://ja.wikipedia.org/wiki/NHK札幌放送局 "wikilink") - 『北海道モーニングワイド』
+
+:\*[秋田局](https://ja.wikipedia.org/wiki/NHK秋田放送局 "wikilink") - 『モーニングワイドあきた』
+
+:\*[盛岡局](https://ja.wikipedia.org/wiki/NHK盛岡放送局 "wikilink") - 『モーニングワイドいわて』
+
+:\*[仙台局](https://ja.wikipedia.org/wiki/NHK仙台放送局 "wikilink") - 『モーニングワイドみやぎ』
+
+:\*[福島局](https://ja.wikipedia.org/wiki/NHK福島放送局 "wikilink") - 『モーニングワイド福島』
+
+:\*[首都圏](https://ja.wikipedia.org/wiki/NHK放送センター "wikilink") - 『NHKモーニングワイド首都圏』
+
+:\*[甲府局](https://ja.wikipedia.org/wiki/NHK甲府放送局 "wikilink") - 『モーニングワイドやまなし』
+
+:\*[新潟局](https://ja.wikipedia.org/wiki/NHK新潟放送局 "wikilink") - 『モーニングワイドにいがた』
+
+:\*[長野局](https://ja.wikipedia.org/wiki/NHK長野放送局 "wikilink") - 『モーニングワイドながの』→『モーニングワイド信州』
+
+:\*[静岡局](https://ja.wikipedia.org/wiki/NHK静岡放送局 "wikilink") - 『NHKモーニングワイドしずおか』
+
+:\*[名古屋局](https://ja.wikipedia.org/wiki/NHK名古屋放送局 "wikilink") - 『NHKモーニングワイド東海』\[1\]
+
+:\*[富山局](https://ja.wikipedia.org/wiki/NHK富山放送局 "wikilink") - 『モーニングワイド富山』
+
+:\*[大阪局](https://ja.wikipedia.org/wiki/NHK大阪放送局 "wikilink") - 『NHKモーニングワイドきんき』
+
+:\*[岡山局](https://ja.wikipedia.org/wiki/NHK岡山放送局 "wikilink") - 『岡山モーニングワイド』
+
+:\*[広島局](https://ja.wikipedia.org/wiki/NHK広島放送局 "wikilink") - 『モーニングワイドひろしま』
+
+:\*[松山局](https://ja.wikipedia.org/wiki/NHK松山放送局 "wikilink") - 『モーニングワイドえひめ』・『土曜ワイド四国』
+
+:\*[高松局](https://ja.wikipedia.org/wiki/NHK高松放送局 "wikilink") - 『モーニングワイドかがわ』
+
+:\*[徳島局](https://ja.wikipedia.org/wiki/NHK徳島放送局 "wikilink") - 『モーニングワイドとくしま』
+
+:\*[高知局](https://ja.wikipedia.org/wiki/NHK高知放送局 "wikilink") - 『モーニングワイドこうち』
+
+:\*[福岡局](https://ja.wikipedia.org/wiki/NHK福岡放送局 "wikilink") - 『モーニングワイド福岡』・『モーニングワイド九州沖縄』
+
+:\*[宮崎局](https://ja.wikipedia.org/wiki/NHK宮崎放送局 "wikilink") - 『モーニングワイド宮崎』
+
+:\*[鹿児島局](https://ja.wikipedia.org/wiki/NHK鹿児島放送局 "wikilink") - 『NHKモーニングワイド鹿児島』
+
+1991年4月より、平日の地域ニュース枠は7時40分からのスタートに繰り下げられる\[2\]。土曜版については、7時台の後半の地域パートを拡大した放送スタイルをNHK各地の拠点局が制作する「ウィークエンド○○（ブロックエリア名）」を放送していた。（例：名古屋局制作の中部7県向け『[ウィークエンド中部](https://ja.wikipedia.org/wiki/ウィークエンド中部 "wikilink")』など）このスタイルは、後番組『[NHKニュースおはよう日本](https://ja.wikipedia.org/wiki/NHKニュースおはよう日本 "wikilink")』の土曜日放送分が始まっても継続して放送が続けられている。
+
+1991年4月からは、それまで放送されていた『[NHKおはようサンデー](https://ja.wikipedia.org/wiki/NHKおはようサンデー "wikilink")』を吸収した『**NHKモーニングワイド・サンデー**』（7:00 - 7:50）を開始。最後の残り5分間は各地の放送局からの地域ニュース枠であったが、それにも関わらず各地の放送局は「NHKニュース　終」の字幕表示を送出して厳かに終了していた。
+
+この時東京では7時45分からも引き続き「モーニングワイド」を放送していたが、その際[宮川泰夫](https://ja.wikipedia.org/wiki/宮川泰夫 "wikilink")キャスターがローカルニュースに差し替える各地の放送局の視聴者に配慮して「時刻は間もなく7時45分になります、お近くの放送局からお伝えします」と促し、7時45分になると同時に「それでは、関東地方のニュースです」と言ってから関東地方のニュースを伝えてエンディングを迎えていた。ただし近畿2府4県では7:45までの全国パートのみで終了し、『[サンデーワイドきんき](https://ja.wikipedia.org/wiki/サンデーワイドきんき "wikilink")』、九州地方では『[サンデー九州](https://ja.wikipedia.org/wiki/サンデー九州 "wikilink")』に接続）を開始。以後、後番組『おはよう日本』の前身となり、年末年始を除く全曜日対応帯番組となった。
+
+[NHK衛星第2テレビジョン](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")（BS2）では、一時期7:30からの拠点局製作の番組を週替わりのローテーションで放送したことがあった。
+
+## 出演者
+
+### 歴代キャスター
+
+<table>
+<thead>
+<tr class="header">
+<th><p>期間</p></th>
+<th><p>平日</p></th>
+<th><p>土曜日</p></th>
+<th><p>日曜日</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>6時台</p></td>
+<td><p>7・8時台</p></td>
+<td><p>6時台</p></td>
+<td><p>7・8時台</p></td>
+</tr>
+<tr class="even">
+<td><p>1988.4.4</p></td>
+<td><p>1989.4.1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/和田郁夫" title="wikilink">和田郁夫</a><sup>6</sup><br />
+<a href="https://ja.wikipedia.org/wiki/桜井洋子" title="wikilink">桜井洋子</a><sup>1</sup></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/川端義明" title="wikilink">川端義明</a><br />
+<a href="../Page/宮崎緑.md" title="wikilink">宮崎緑</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>1989.4.3</p></td>
+<td><p>1990.3.31</p></td>
+<td><p>川端義明</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/松平定知" title="wikilink">松平定知</a><br />
+<a href="https://ja.wikipedia.org/wiki/上田早苗" title="wikilink">上田早苗</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1990.4.2</p></td>
+<td><p>1991.3.30</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮田修" title="wikilink">宮田修</a><br />
+上田早苗</p></td>
+<td><p>石澤典夫</p></td>
+</tr>
+<tr class="odd">
+<td><p>1991.4.1</p></td>
+<td><p>1991.5.26</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐藤淳_(NHKアナウンサー)" title="wikilink">佐藤淳</a><br />
+<a href="https://ja.wikipedia.org/wiki/草野満代" title="wikilink">草野満代</a><sup>6</sup></p></td>
+<td><p>松平定知<sup>7</sup><br />
+草野満代<sup>6</sup></p></td>
+</tr>
+<tr class="even">
+<td><p>1991.5.27</p></td>
+<td><p>不明</p></td>
+<td><p>佐藤淳<sup>5</sup><br />
+草野満代<sup>6</sup></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>不明</p></td>
+<td><p>1992.3.29</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/黒沢保裕" title="wikilink">黒沢保裕</a><br />
+草野満代<sup>6</sup></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1992.3.30</p></td>
+<td><p>1993.4.4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山下信" title="wikilink">山下信</a><br />
+草野満代<sup>6</sup></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/末田正雄" title="wikilink">末田正雄</a><br />
+小谷真生子<sup>6</sup></p></td>
+</tr>
+<tr class="odd">
+<td><p><small></p>
+<ul>
+<li><sup>1</sup> 『NHKニュースワイド』から続投。</li>
+<li><sup>2</sup> <a href="https://ja.wikipedia.org/wiki/渡邊あゆみ" title="wikilink">渡邊あゆみ</a>の旧名。</li>
+<li><sup>3</sup> 7:30（首都圏ローカル枠）からの担当。その後、石澤と共にキャスター席に着いて登場するようになる。</li>
+<li><sup>4</sup> 『NHKおはようサンデー』から続投。</li>
+<li><sup>5</sup> 松平個人の不祥事に伴い、代わって登板（当初は代役）。当初は、6時台と兼任。</li>
+<li><sup>6</sup> 平日の『NHKニュースおはよう日本』も続投（和田(編集責任者として)・黒田・石澤・末田は後年再登板、草野・小谷は隔週交代で）。</li>
+<li><sup>7</sup> 松平個人の不祥事の責任を取り、1991年（平成3年）5月24日付で降板。</li>
+</ul>
+<p></small></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 道路交通情報（関東ローカル枠）
+
+関東ローカル枠の6:58頃と7:32頃東京[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[九段](https://ja.wikipedia.org/wiki/九段 "wikilink")の千代田会館1Fにある財団法人[日本道路交通情報センター](https://ja.wikipedia.org/wiki/日本道路交通情報センター "wikilink")の九段センターと専用の中継回線で繋ぎ、九段センターのキャスターが首都圏の道路交通情報を伝えた（後番組の『おはよう日本』でも放送）。BS放送にもそのまま放送されていた。
+
+**男性**
+
+  - [北久保隆一](https://ja.wikipedia.org/wiki/北久保隆一 "wikilink")
+  - [横田勝](https://ja.wikipedia.org/wiki/横田勝 "wikilink")
+  - [栗原義明](https://ja.wikipedia.org/wiki/栗原義明 "wikilink")
+  - [富永祥光](https://ja.wikipedia.org/wiki/富永祥光 "wikilink")（退社後、[時事通信](https://ja.wikipedia.org/wiki/時事通信 "wikilink")契約記者→フリー）
+  - [木南純](https://ja.wikipedia.org/wiki/木南純 "wikilink")
+  - [大浦洋](https://ja.wikipedia.org/wiki/大浦洋 "wikilink")
+  - [望月貴史](https://ja.wikipedia.org/wiki/望月貴史 "wikilink")（退社後、[FM鹿児島](https://ja.wikipedia.org/wiki/FM鹿児島 "wikilink")嘱託アナウンサー→[FM青森](https://ja.wikipedia.org/wiki/FM青森 "wikilink")アナウンサー→FMしみず番組契約パーソナリティ→フリー）
+  - [小山昌宏](https://ja.wikipedia.org/wiki/小山昌宏 "wikilink")
+
+**女性**
+
+  - [小鶴千恵子](https://ja.wikipedia.org/wiki/小鶴千恵子 "wikilink")
+  - [三輪智美](https://ja.wikipedia.org/wiki/三輪智美 "wikilink")
+  - [土屋良江](https://ja.wikipedia.org/wiki/土屋良江 "wikilink")
+  - [済藤亮子](https://ja.wikipedia.org/wiki/済藤亮子 "wikilink")（旧姓：吉沢）
+  - [谷崎朋子](https://ja.wikipedia.org/wiki/谷崎朋子 "wikilink")
+  - 吉澤ひとみ（旧姓：岡部、退社、元[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")所属のタレント・歌手の[吉澤ひとみ](https://ja.wikipedia.org/wiki/吉澤ひとみ "wikilink")とは同姓同名の別人）
+  - 鈴木裕子（退社）
+  - [西山久美子](https://ja.wikipedia.org/wiki/西山久美子 "wikilink")（退社）
+  - [干場裕子](https://ja.wikipedia.org/wiki/干場裕子 "wikilink")（退社）
+  - [浅井美佐](https://ja.wikipedia.org/wiki/浅井美佐 "wikilink")（退社）
+
+## 演出
+
+### 番組ロゴとそれに関するオープニングCGの変遷状況
+
+※ただし、6時台と7時台共々進行のコンセプトが似通ってるため、番組本編として視聴者から捉えられていた7時台のOPCGを中心に解説。
+
+  - 初代（1988年4月4日 - 1989年4月1日）
+      -
+        当時の番組名のロゴカラーは黄色。全体的に丸みを帯びたようなロゴデザインだった。
+  - 2代目（1989年4月3日 - 1991年3月30日）
+      -
+        ロゴの配置は、左上に「NHK」、中央上部分に「モーニング」、中央下部分に「ワイド」と表記されていた。この時の番組名のロゴカラーは、前期は紫色、後期は緑色であった。7時の時報をアナログ時計のCGが鳴らしたあと、3本の氷の柱が画面の中央から飛んでくるように出てきて、その3本の柱がカメラの中継映像をカーテンのように覆い隠し、それがめくれて番組ロゴが登場し右下に納まっていく。地域版に関しては、いくつもの細い菱形の物体が中継映像の右下に群れを作って動くもので、そこから番組ロゴが登場していた。\[3\]
+  - 3代目（1991年4月1日 - 1993年4月4日）
+      -
+        ロゴの配置が新しくなり、左上に「NHK」、その下に「モーニングワイド」と横一列になった。ロゴカラーは使用期間を通して緑色であった。このロゴの時の7時台のOPCGを解説してみると、第一次仕様は、アナログ時計のCGが時報を鳴らすために出現し、7時の時報が鳴ると、文字盤の部分が開いてカメラの中継映像を映し出し、画面右側から（上に）「SUN　MON　TUE　WED　THU　FRI　SAT」（放送される曜日によって、これらの曜日の単語のどれかが緑ではない色に塗りつぶされていた）と（下に）「MORNING　WIDE」と番組名を英字表記にしたタイトルロゴが登場して通過していき、そして右側からこの時の番組のタイトルロゴが登場していた。1992年3月30日のテーマ曲変更後は演出も変化し、7時の時報が鳴ると背景画面が割れてカメラの中継映像を映し出すと同時にアナログ時計から解体した数々の円形が画面の外へと消え、連れて左上から「モーニングワイド」と「NHK」の順でタイトルロゴが現れ、その下に今日の日付を出していた。
+        地域放送局仕様のものは、曜日の英単語は「SUN」がしば色、「SAT」がオレンジ色に塗りつぶされており、全国版「NHKモーニングワイド」と同じ仕様のロゴの登場の仕方であった。\[4\]
+
+### オープニングのBGM
+
+  - 初代 （1988年4月4日 - 1989年4月1日） - オーケストラ系
+  - 2代目（1989年4月3日 - 1990年3月31日）
+  - 3代目（1990年4月2日 - 1991年3月30日） - テーマ曲は変更なし
+  - 4代目（1991年4月1日 - 1992年3月29日） - テーマ曲は変更なく、ロゴのみ三代目に変更
+  - 5代目（1992年3月30日 - 1993年4月4日）
+
+なお、日曜朝6時、『NHKおはようサンデー』開始以前の日曜朝7時の『[NHKニュース](https://ja.wikipedia.org/wiki/NHKニュース "wikilink")』でも同一のテーマ曲が使用された。
+
+## 脚注
+
+[Category:NHK総合テレビジョンの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの帯番組の歴史 "wikilink") [Category:NHK総合テレビジョンのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのニュース・報道番組の歴史 "wikilink") [Category:1988年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のテレビ番組_\(日本\) "wikilink")
+
+1.  ただし、番組名は名古屋発に突入しても『NHKモーニングワイド』として放送していた。
+2.  各地の放送局からのニュースパートが7時40分からの放送開始に繰り下げられて1年後には、全国のニュースの間に7時28分から2分間ブロック別の気象情報を挿入していた。
+3.  番組ロゴ登場のためのCGの扱いに関しては、地域放送局の任意で構成をアレンジすることもある。
+4.  ただし、放送曜日の英単語の塗りつぶしは、地域放送局仕様のCGでは実施していない。「モーニングワイド・サンデー」の時のCG出しは、平日や土曜日で使われる番組タイトルの右下に「サンデー」の文字を画面の右側から出現させて「NHKモーニングワイド・サンデー」として番組タイトルを形成していた。

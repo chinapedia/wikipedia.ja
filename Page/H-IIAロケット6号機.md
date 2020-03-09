@@ -1,0 +1,55 @@
+> この記事は[H-IIA6](https://ja.wikipedia.org/wiki/H-IIA6)から翻訳されています。
+
+
+**H-IIAロケット6号機**（H2Aロケット6ごうき）は[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink") (JAXA) が開発・運用する[H-IIAロケット](../Page/H-IIAロケット.md "wikilink")の第6号機である。[2003年](../Page/2003年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")13時33分に[種子島宇宙センター](https://ja.wikipedia.org/wiki/種子島宇宙センター "wikilink")から打上げられたが、[SRB-A](https://ja.wikipedia.org/wiki/SRB-A "wikilink")（固体ロケットブースタ）の1本が分離しなかったことから打上げに失敗、[ペイロードの](https://ja.wikipedia.org/wiki/ペイロード_\(航空宇宙\) "wikilink")[情報収集衛星](../Page/情報収集衛星.md "wikilink")2機が失われた。H-IIAロケットの初失敗（また2020年2月現在唯一の失敗でもある）であると同時に、問題が山積とされていたJAXA統合直後の打上げ失敗だったため、大きな議論を巻き起こした。
+
+## ロケット諸元
+
+  - 形式: H-IIAロケット2024型（H-IIA2024)
+      - 1段目 [LE-7A](https://ja.wikipedia.org/wiki/LE-7A "wikilink")エンジン（[液体酸素](../Page/液体酸素.md "wikilink")・[液体水素](../Page/液体水素.md "wikilink")燃料ロケットエンジン）
+      - 2段目 [LE-5B](https://ja.wikipedia.org/wiki/LE-5B "wikilink")エンジン（液体酸素・液体水素燃料ロケットエンジン）
+      - 1段目 固体ロケットブースタ SRB-A×2基
+      - 1段目 固体補助ロケット SSB（[キャスターIVA-XL](https://ja.wikipedia.org/wiki/キャスター_\(ロケットモータ\)#キャスターIVA-XL "wikilink")）×4基
+
+## ペイロード
+
+  - 情報収集衛星光学2号機とレーダ2号機 (IGS-2AおよびIGS-2B)
+      - H-IIA 5号機で打上げたIGS-1A、IGS-1Bとともに、全[地球](https://ja.wikipedia.org/wiki/地球 "wikilink")をカバーする予定だった光学および[合成開口レーダー](https://ja.wikipedia.org/wiki/合成開口レーダー "wikilink")の[偵察衛星](../Page/偵察衛星.md "wikilink")。光学系の目標解像度は約1mとされる。打ち上げ失敗を受けて改めて2006年にH-IIAロケット10号機で光学2号機が、2007年にH-IIAロケット12号機でレーダ2号機が打ち上げられた。
+
+## 打上げの経過
+
+13時33分に固体ロケットブースタ（[SRB-A](https://ja.wikipedia.org/wiki/SRB-A "wikilink")）に点火、離陸開始したロケットはほぼ予定通りの1分38秒後にSRB-A 2基の燃焼を終了し、これを分離（切り離し）するシーケンスを自動的に実行したが、1基のSRB-Aが分離せずロケット機体に残ったままとなった。SRB-Aは、内蔵の燃料と酸化剤を使い切っても10tの質量がある。このため、ペイロードに与えられるべきであった増速度の不足から、所定の軌道に到達する見込みがなくなったため、2段目の燃焼開始直後の13時43分53秒（打上げ後10分53秒）に指令破壊コマンドを送信してロケットを[自爆](https://ja.wikipedia.org/wiki/自爆 "wikilink")させた。この結果ロケットはペイロードとともに太平洋上に落下した。
+
+## 失敗の原因
+
+打上げ後約62秒後から分離しなかったSRB-Aの固体ロケットノズル周辺の温度が上昇し、すぐに計測不能となった。また、ノズル周囲は固体ロケットケースの底部にあたり、ここにはSRB-Aを分離させるための[爆発ボルトの点火制御線](https://ja.wikipedia.org/wiki/分離ボルト "wikilink")（導爆線）が通っていた。これらの事象から、SRB-Aのノズルが燃焼ガスにより何らかの原因で侵食されて穴が開き、高温ガスが周囲に漏れて爆発ボルトの導爆線を溶断させ、ロケットの分離ができなかったものと推定される。
+
+SRB-Aのノズルの穴あきは開発中にも発生したため、ノズルの厚さを増やすなどの対策をとっていたが、予想を超えた侵食現象が発生したものと思われる。
+
+原因究明のため、各種再試験のほか[H-IIロケット8号機](../Page/H-IIロケット8号機.md "wikilink")の時と同様、[海洋科学技術センター](https://ja.wikipedia.org/wiki/海洋研究開発機構 "wikilink") (JAMSTEC) の協力で深海探査が可能な水中ロボットによる探索を行ったがブースターの部品は発見できなかった。
+
+## 事故の影響
+
+この事故のため情報収集衛星は1日に1回の観測体制を敷くことが不可能となった。また、H-IIAロケットの打上げ計画の中断に伴い、気象衛星「[ひまわり](../Page/ひまわり_\(気象衛星\).md "wikilink")」の後継衛星である[MTSAT](../Page/MTSAT.md "wikilink")-1Rの打上も当面延期となった。
+
+また、本機はもともと改組された[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")としての最後のロケット打ち上げとなるはずであったが、9月27日の打上げ直前になって慣性センサーユニットの一つに異常が見られたため延期されていたもの。このためJAXAとしては初仕事となったこの打上げに失敗したことで、開発管理体制に対して様々な批判が寄せられた。10月末には打上げ10ヶ月ほどしか経っていない[地球観測衛星](../Page/地球観測衛星.md "wikilink")の「[みどりII](https://ja.wikipedia.org/wiki/みどりII "wikilink")」が、電源系の異常から運用を断念せざるを得なくなったこと、12月9日には旧[宇宙科学研究所](../Page/宇宙科学研究所.md "wikilink")の[火星探査機](../Page/火星探査機.md "wikilink")「[のぞみ](https://ja.wikipedia.org/wiki/のぞみ_\(探査機\) "wikilink")」が制御系の故障から[火星](../Page/火星.md "wikilink")周回軌道への投入を断念したこととあわせ、日本の宇宙開発プログラム全体に対する信頼と支持が揺らぐ事態となった。（これらの因果関係は全くなかったが、宇宙開発低迷の象徴と一般には捉えられた。）
+
+その後、SRB-Aのノズル形状や素材、厚さ等を見直しを行い、燃焼試験を繰り返した結果、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink")にH-IIAロケットの打上げが再開された。再開後、初めに打上げられたのは「ひまわり」の後継衛星であるMTSAT-1Rを搭載した7号機で、打上げに成功した。その後、8号機、9号機、そして6号機で失ったIGS-2Aの代替機を載せた10号機と連続成功を収め信頼性回復を果たした。
+
+H-IIAロケットの能力的には[IGSの](../Page/情報収集衛星.md "wikilink")2機同時打ち上げが可能だが、この6号機失敗の影響により、以後、リスク分散の為1機ずつの打上げとなっている。
+
+## 関連項目
+
+  - [H-IIAロケット](../Page/H-IIAロケット.md "wikilink")
+  - [情報収集衛星](../Page/情報収集衛星.md "wikilink")
+  - [宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")
+  - [H-IIロケット5号機](../Page/H-IIロケット5号機.md "wikilink")
+  - [H-IIロケット8号機](../Page/H-IIロケット8号機.md "wikilink")
+
+## 外部リンク
+
+  - [JAXA公式サイト](http://www.jaxa.jp/)
+  - [JAXA H-IIAロケット6号機](http://www.jaxa.jp/projects/rockets/h2a/f6/index_j.html)
+  - [H-ⅡA ロケット打上げ再開初号機の成功](http://www.mhi.co.jp/technology/review/pdf/425/425230.pdf)三菱重工技報 Vol.42 No.5 (2005)
+
+[Category:日本のロケット](https://ja.wikipedia.org/wiki/Category:日本のロケット "wikilink")

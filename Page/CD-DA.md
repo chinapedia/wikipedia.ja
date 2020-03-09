@@ -1,0 +1,94 @@
+> この記事は[CD-DA](https://ja.wikipedia.org/wiki/CD-DA)から翻訳されています。
+
+
+**CD-DA**（**Compact Disc Digital Audio**）は、[コンパクトディスク](../Page/コンパクトディスク.md "wikilink")に[音楽](../Page/音楽.md "wikilink")などの音声を収める規格である。コンパクトディスク開発に伴って策定された。
+
+一般的な音楽CDがこれにあたり、世の中で普通に“CD”といえば、ほとんどの場合、この項目で説明するCD-DAに沿った[光ディスク](https://ja.wikipedia.org/wiki/光ディスク "wikilink")を指す。
+
+## 概要
+
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に[フィリップス](https://ja.wikipedia.org/wiki/フィリップス "wikilink")と[ソニー](../Page/ソニー.md "wikilink")によって規格化され、1982年10月1日に発売された。規格書は表紙の色が[赤](https://ja.wikipedia.org/wiki/赤 "wikilink")だったことから、「レッドブック」と呼ばれる。
+
+CD-DAの本体およびパッケージには、「」ロゴが付いている。
+
+CD-DAは最大99のトラックを納めることが可能であり、各トラックには最大99のインデックスを付与することが可能となっている。
+
+音楽用CDとして流通している、もしくはかつて流通したディスクの大部分は、CD-DAである。例外は、CD-DAに[後方互換のある](https://ja.wikipedia.org/wiki/互換性 "wikilink")[CD EXTRA](https://ja.wikipedia.org/wiki/CD_EXTRA "wikilink")（CD-DA+）と、[CCCDなどの独自規格ディスク](../Page/コピーコントロールCD.md "wikilink")（厳密にはCDではない）である。これらも、CD-DAと規格の多くが共通しており、CD EXTRAはCD-DA用のプレーヤーで再生可能である。CCCDは、プレーヤーメーカー保証外であり、一部のCD-DA用プレーヤーでは再生不可能である。
+
+## 仕様
+
+| データ形式                                                                                                                     | [リニアPCM](https://ja.wikipedia.org/wiki/パルス符号変調 "wikilink")       |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [サンプリング周波数](../Page/サンプリング周波数.md "wikilink")                                                                              | 44.1[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")        |
+| [ビットレート](https://ja.wikipedia.org/wiki/ビットレート "wikilink")                                                                 | 1411.2kbps                                                       |
+| [量子化](https://ja.wikipedia.org/wiki/量子化 "wikilink")ビット数（[ビット深度](https://ja.wikipedia.org/wiki/ビット深度_\(音響機器\) "wikilink")） | 16bit [signed](https://ja.wikipedia.org/wiki/符号付数値表現 "wikilink") |
+| チャンネル数                                                                                                                    | 2.0chステレオ                                                        |
+
+  - スピンドル穴直径 15mm
+  - プログラムエリア内周 25mm
+  - プログラムエリア外周 58mm
+
+### 回転速度
+
+それまでの[レコード](https://ja.wikipedia.org/wiki/レコード "wikilink")では一定回転（[角速度](https://ja.wikipedia.org/wiki/角速度 "wikilink")一定）により外周から内周に向けて記録信号を読み出していたのに対し、CD-DAでは逆に内周から外周に向け回転速度は落ちて行き、線速度一定で読み出される（[CLV](https://ja.wikipedia.org/wiki/CLV "wikilink")）。線速度は規格により1.2〜1.4m/sと定められている。これにはデータの先頭位置である最内周で最低459rpm、最外周で最低198rpmの回転数が必要となる。
+
+### データ転送速度
+
+音楽CD（CD-DA形式）のデータの転送速度は等倍速で1倍速（1.2Mbps=150kiB/s）であり、この1倍を基準として、転送速度を表すのに「○倍速」という言い方をする。最大記録時間は640MBのディスクで約72分、650MBのディスクで約74分、700MBのディスクで約80分となる。ただし規格上は97分まで可能。
+
+### 記録性能
+
+#### ビット深度とダイナミックレンジ
+
+16bitというビット深度は96dBのダイナミックレンジを持つ。
+
+#### サンプリング周波数と音の周波数
+
+概ね20kHz前後の周波数まで記録出来る。これは[標本化定理](https://ja.wikipedia.org/wiki/標本化定理 "wikilink")によるものである。リニアPCMは理論上[サンプリング周波数の2分の1までの周波数の音を標本化可能であるため](https://ja.wikipedia.org/wiki/ナイキスト周波数 "wikilink")、CD-DAのサンプリング周波数44,100Hzの半分の値である22,050Hzが記録可能な周波数の上限値となる。この値を超える周波数帯は[折り返し雑音](https://ja.wikipedia.org/wiki/折り返し雑音 "wikilink")となるため、通常は録音から音楽CDが作られるまでの間に[フィルターが掛けられる](https://ja.wikipedia.org/wiki/ローパスフィルタ "wikilink")。そのため22,050Hzより高い周波数、フィルターの[カットオフ周波数の領域はカット](https://ja.wikipedia.org/wiki/遮断周波数 "wikilink")・減衰され記録されていない。ちなみにサンプリング周波数が44.1kHzという一見中途半端な値なのは初期のデジタル録音に[VTRを流用していたことに起因する](https://ja.wikipedia.org/wiki/ビデオテープレコーダ "wikilink")。
+
+## リッピング
+
+[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")（パソコン）などを使用し、[CD-R](https://ja.wikipedia.org/wiki/CD-R "wikilink")や[CD-RW](https://ja.wikipedia.org/wiki/CD-RW "wikilink")などのメディアにオーディオCDとして書き込むことで一般のCDプレーヤーで再生できるディスクが作成できるが、メーカー各社では、完全な[互換性](https://ja.wikipedia.org/wiki/互換性 "wikilink")は保証していない（記録状態や機器とメディアの相性によっては、再生できない場合がある）。
+
+2010年現在発売されているCD-ROMドライブ（CD-R/CD-RWなど書き込み可能なドライブを含む。DVDドライブではできない製品がある）は、いくつかの規格によってCD-DAを読み出すことができる。CD-DAを読み出し、デジタルデータとして保存することをリッピング（Ripping）と呼ぶ。CD-DAの実体データはパソコンで閲覧できる形式のものでないため、リッピングにより[WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")等の実体ファイル形式でのデータ抽出を行う（パソコンでCD-DAを閲覧した際に表示される[CDA](https://ja.wikipedia.org/wiki/CDA "wikilink")ファイルは、実体データへのショートカットにすぎない）。かつてリッピングは著作権法的に微妙な問題を提起し、著作権保護を実施して著作権が保護されていることを明示しているものはその解除手段を供するものは違法とする（逆を言えば何も対策していないCD-DAに対する読み出し機能の存在は違法ではない）というを得るまでリッピングツールはアングラ的な存在であった。また標準化されたアクセス手段が存在しなかったため、ドライブによってできたりできなかったり、あるいはできても低品質なデータしか得られない場合があるなど、一般ユーザー向けではなかった。
+
+2008年現在、CD-DA読み出しに関する規格は、[SCSI規格で定義され](https://ja.wikipedia.org/wiki/Small_Computer_System_Interface "wikilink")、それに基づいて[ATAPI規格に反映された](https://ja.wikipedia.org/wiki/Advanced_Technology_Attachment "wikilink")。多くの携帯オーディオ機器付属のソフトウエアもリッピング機能を標準で備え、また、[アップルの](https://ja.wikipedia.org/wiki/アップル_\(企業\) "wikilink")[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")や、[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[Windows Media Player](https://ja.wikipedia.org/wiki/Windows_Media_Player "wikilink")、[ソニー](../Page/ソニー.md "wikilink")の[SonicStage](https://ja.wikipedia.org/wiki/SonicStage "wikilink")なども標準化された規格に対応した（[Windows自身もアナログオーディオをCD](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")-DA読み出しに置き換えるオプションを備えた）。
+
+なお[CD-ROM](../Page/CD-ROM.md "wikilink")とは異なり、CD-DAではセクタに対するアドレス情報が存在しない。ある瞬間ピックアップの下を通過しているセクタが物理的にどこに存在しているかを判断する方法は一つしかなく、トラックから何個目のセクタか数えることだけである。これは通常のオーディオ用プレーヤーでは問題にならない。トラック位置で指定された場所から、連続してセクタを再生していけばよいのでセクタへは物理的な位置を記す必要がないからである。
+
+しかし、リッピングではこのアドレス情報が存在しないことが問題を起こすことがある。例えば52倍速のドライブで連続して読み込もうとしたが、コンピューター側が読み込みに追従できず、一旦データ取り込みを中断してシークコマンドを発行しても、その場合に読み取れるセクタが正確な位置である保証がないためである（もっとも近いトラックから読み直すか、ドライブ自身が読み込みを中断してもセクタ位置を追従し続ける機能が必要である）。このような状態になるとセクタが不足したり重複したりする（なお、セクタが1〜2個おかしくなっても聴感上0.1秒前後の現象であるため、その不具合に気づかない場合がある）。この現象の対策として、CD-DA読み出し時には回転数を落とす措置がとられることがある。また海賊版防止の観点から、民生機のCD-DA変換機能には同じCDを実時間を超えて繰り返しリッピングできないように保護された製品が多いが、パソコン向けの機器にはこれらの保護はなされていない。
+
+また、アドレス情報が存在しないことにより、オーディオの読み込みを開始する絶対位置がドライブによって異なってしまう現象が発生する（オフセット問題）。つまり、この問題を考慮しない一般的なソフトウェアでリッピングを行うと、ディスクの先頭または末端で欠損が発生し、オリジナルよりも早く、または遅く音声が開始されるデータが生成される。ただし、これは最大でも数百サンプル（≒数十ミリ秒）程度という多くのCDでは誤差として許容できる範囲であり、先頭または末端以外の大部分には何の影響も及ぼさない。なお、この問題を解決して読み取りを行うソフトウェアの一つに[Exact Audio CopyやCueTools等がある](https://ja.wikipedia.org/wiki/Exact_Audio_Copy "wikilink")。
+
+## ソフトウェアのBGM用途
+
+パソコンや[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")用ソフトの媒体であるCD-ROMでは[BGMをCD](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")-DAで収録している作品もある。BGM演奏にCD-DAが採用された理由としては、かつてのパソコンや家庭用ゲーム機に搭載されていた[内蔵音源](https://ja.wikipedia.org/wiki/内蔵音源 "wikilink")よりもCD-DAが高音質だったことがある。例えば[PCエンジン](../Page/PCエンジン.md "wikilink")、[メガドライブ](../Page/メガドライブ.md "wikilink")でCD-ROMを使用するための周辺機器である[CD-ROM<sup>2</sup>](https://ja.wikipedia.org/wiki/CD-ROM2 "wikilink")、[メガCD](https://ja.wikipedia.org/wiki/メガCD "wikilink")が発売された際は、それまでのゲーム機よりも音質の高い音楽や効果音、人間の肉声などをゲーム内で多く用いることができる点が特長の1つとして大きく取り上げられた。
+
+こうした作品は1980年代末期以降から登場するようになり、一時は広く用いられたものの以下の理由などにより次第に少なくなった。
+
+  - ゲーム中はゲームディスクが必要となる
+  - コピーする際には1枚のディスクにゲームプログラムとCD-DAデータの両方を入れる必要があることから、一種のコピープロテクトとなりソフトの不正コピー対策として一定の効果があり、不正コピーを試みる悪質消費者から忌避された
+  - 音楽データとして収録する場合よりもCDの容量を大きく取る
+  - 仕様上の最大収録時間の関係から比較的短時間しかBGMを収録できない（[PC-98版](https://ja.wikipedia.org/wiki/PC-9800シリーズ "wikilink")『[信長の野望・天翔記](https://ja.wikipedia.org/wiki/信長の野望・天翔記 "wikilink")』ではBGMとして内蔵音源とCD-DA音源の2種類が選べるが、CD-DA音源は内蔵音源よりも曲数が少なくなっている）
+
+家庭用ゲーム機のソフト供給メディアがDVD-ROMに移行したこと、内蔵音源性能やプロテクト技術の向上、および音楽データ圧縮規格の普及などにより21世紀初頭現在、BGM演奏にCD-DAを積極的に用いる理由は薄れてきている。
+
+## 関連項目
+
+  - [コンパクトディスク](../Page/コンパクトディスク.md "wikilink")
+  - [音響機器](https://ja.wikipedia.org/wiki/音響機器 "wikilink")
+  - [コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")
+  - [Extended Resolution Compact Disc](https://ja.wikipedia.org/wiki/Extended_Resolution_Compact_Disc "wikilink")
+  - [スーパー・ハイ・マテリアルCD](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")
+  - [Super Audio CD](https://ja.wikipedia.org/wiki/Super_Audio_CD "wikilink")
+  - [ハイ・クオリティCD](https://ja.wikipedia.org/wiki/ハイ・クオリティCD "wikilink")
+  - [ブルースペックCD](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")
+  - [隠しトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")
+  - 『[ニューヨーク52番街](https://ja.wikipedia.org/wiki/ニューヨーク52番街 "wikilink")』（[ビリー・ジョエル](https://ja.wikipedia.org/wiki/ビリー・ジョエル "wikilink")、[1982年](../Page/1982年.md "wikilink")）\[1\] - 世界初の商用[CDソフト](../Page/コンパクトディスク.md "wikilink")。
+  - [PCMプロセッサー](https://ja.wikipedia.org/wiki/PCMプロセッサー "wikilink") - VTRを使ってデジタル録音をするための機械。CD-DAのサンプリング周波数はこれに由来する。
+
+## 脚注
+
+[Category:コンパクトディスク](https://ja.wikipedia.org/wiki/Category:コンパクトディスク "wikilink") [Category:オーディオストレージ](https://ja.wikipedia.org/wiki/Category:オーディオストレージ "wikilink") [Category:日本の発明](https://ja.wikipedia.org/wiki/Category:日本の発明 "wikilink")
+
+1.  [Sony Global -Sony History-](http://www.sony.net/Fun/SH/1-20/h5.html)

@@ -1,0 +1,1446 @@
+> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+
+
+『**NHK高校講座**』（エヌエイチケイこうこうこうざ）は、[NHK教育テレビジョン](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")（NHK Eテレ）および[NHKラジオ第2放送](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")で放送されている[高等学校](https://ja.wikipedia.org/wiki/高等学校 "wikilink")向けの放送講座の番組。
+
+## 概要
+
+この番組は、全国の[通信制高校](https://ja.wikipedia.org/wiki/通信制高校 "wikilink")生の自宅学習に役立つことを目的に、1953年4月にラジオ、1959年1月にはテレビで放送が始まった。そのため当初の題名は「**通信高校講座**」であり、夜間の放送だった。
+
+1982年度に全日制向け「[高等学校の時間](https://ja.wikipedia.org/wiki/高等学校の時間 "wikilink")」の放送枠が縮小されると「通信高校講座」が「高等学校講座」に改題したうえで昼間の放送を開始。その後、全日制と通信制向けの番組統廃合が進み、2003年度から高等学校向け学校放送枠が「NHK高校講座」に統一された。
+
+通信制高校生以外の高校生の学習にも役立つよう工夫されており、1年間の視聴を通して高校教育課程の基礎を学ぶことができる。
+
+授業放送であるため、高等学校[学習指導要領](https://ja.wikipedia.org/wiki/学習指導要領 "wikilink")（視覚障碍者・聴覚障害者・肢体不自由者・病弱者向けの[特別支援学校](https://ja.wikipedia.org/wiki/特別支援学校 "wikilink")高等部も含む。NHK高校講座の各番組に加え、自立活動として[ストレッチマン](https://ja.wikipedia.org/wiki/ストレッチマン "wikilink")・ゴールドと[キャラとおたまじゃくし島](https://ja.wikipedia.org/wiki/キャラとおたまじゃくし島 "wikilink")も併せて放送）に基づいて制作されている。
+
+また、授業の理解を助けるため、[NHK学園高校で使う](https://ja.wikipedia.org/wiki/日本放送協会学園高等学校 "wikilink")[教科書](https://ja.wikipedia.org/wiki/教科書 "wikilink")を基にして制作した「高校講座テキスト」が[NHK出版](../Page/NHK出版.md "wikilink")から発行されていたが、2009年度から全ての科目で休刊になり、高校用検定教科書や高校講座ホームページの各科目にある「学習メモ」を活用することになっている。
+
+講師は、大学と高校の教師が担当している。
+
+以前はテレビでは「教育セミナー」が冠されていたが、2003年度からこのタイトルで統一している。この「高校講座」にタイトルを統一してからは、テレビでの講義では専門の講師（講義により聞き手のアナウンサーも）だけで進行していたものに、タレント・俳優らが加わりバラエティーの要素を絡ませるようになった。また、夏休み期間中等に特集として[美術](https://ja.wikipedia.org/wiki/美術 "wikilink")など、通常放送されない科目も取り上げられている。これらもNHK学園高校の授業放送であり、単位取得の対象となっている。
+
+番組は指導要領の改訂・NHK学園使用教科書の変更などにより2～3年のペースで作り変えられている。それ以外にも、[冥王星](../Page/冥王星.md "wikilink")の[惑星](https://ja.wikipedia.org/wiki/惑星 "wikilink")からの除外など、教えている内容に重要な変更が生じた場合は、内容の差し替え・作り変えが行われることがある（地理・歴史科、公民科、理科でよく行われる）。[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")以降に放送された物理科目の放送で[原子力発電](https://ja.wikipedia.org/wiki/原子力発電 "wikilink")の仕組みを解説する回では「この番組は震災前に収録されたものである」とのテロップが挿入された。
+
+2008年度制作までの科目では[標準画質映像](https://ja.wikipedia.org/wiki/標準画質映像 "wikilink")で制作されていた。2009年度以降は[ハイビジョン放送に切り替わりつつあるものの](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")、本講座の放送中は原則[マルチ編成の対象枠とされており](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送#マルチ編成 "wikilink")、023chでは「[NHK高校講座ライブラリー](https://ja.wikipedia.org/wiki/#NHK高校講座ライブラリー "wikilink")」として半年遅れの再放送を実施している。ワイド画面ではあるもののハイビジョン画質で放送されることはまれである。ライブラリーが深夜放送であった時分のマルチ放送における023chではNHKの海外向け番組が放送されていた。
+
+また、アナログ放送においては2010年に[レターボックス画面が原則全番組に導入されたが](https://ja.wikipedia.org/wiki/レターボックス_\(映像技術\) "wikilink")、標準画質で制作された科目は従来通り全画面での放送となっていた。
+
+2011年度以降に制作されたテレビ番組はよりバラエティ色が強くなり有名タレントの出演番組が増えた。それまで講師とタレントが説明役と聞き役を分担し番組進行するスタイルが一般的だったが、2011年以降は番組の進行は芸人やタレントのみで最後に少しだけ講師が登場し番組のまとめをするという形式に変更された。番組によっては講師は全く出演せず番組監修だけの場合もある。番組時間は30分だったものが20分に短縮された。
+
+ラジオ放送では国語表現I、現代社会、コミュニケーション英語II、英語表現Iではゲストである高校生と講師が互いにやりとりをしつつ番組が進行し、その他は講師単独での番組進行となる。国語教科の現代文、古文、漢文は[PDF](https://ja.wikipedia.org/wiki/PDF "wikilink")で授業で使用する本文を全文参照することが可能なので教科書なしでも学習が可能である。ラジオの英語教科でも同上。
+
+高校講座の番組はインターネットで視聴可能である。過去にはテレビは[WMV](https://ja.wikipedia.org/wiki/WMV "wikilink")、ラジオは[WMA](https://ja.wikipedia.org/wiki/WMA "wikilink")での配信だったが現在は[FLV](https://ja.wikipedia.org/wiki/FLV "wikilink")での配信となっている。[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[タブレットでも配信を視聴できる](https://ja.wikipedia.org/wiki/タブレット_\(コンピュータ\) "wikilink")。テレビ放送の科目の動画は数分単位に分割され全編をまるまる試聴することができない。テレビ放送と比べると画質が著しく劣るので番組内で提示された文字を視認することが困難な場合も多い。過去の番組は「ライブラリー」として数年間提供されている。
+
+## 放送時間
+
+  - 「テレビ」はEテレ（021ch）、「ラジオ」はラジオ第2。
+  - 各番組に対応する科目は[NHK学園高等学校の募集要項](http://www.n-gaku.jp/sch/application/)に基づく目安。学習指導要領改訂等で常に変動するため、入学年次によって対象番組が決まる。
+  - 番組名中の※はNHK独自企画番組で、授業放送としては扱われないことがあるので注意。
+  - 一覧に無い科目については教育課程に入っていないか、面接・実技授業のみで行われる科目である。協力校における受け入れ態勢により、異なる場合がある。
+
+| 教科名                                                      | 番組名                                                                  | 対応する科目名 （平成28年度課程・学習指導要領に基づく）                                      | 種別                         | 放送時間          | 回数            |
+| -------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------- | ------------- | ------------- |
+| [国語](https://ja.wikipedia.org/wiki/国語_\(教科\) "wikilink") | 国語総合                                                                 | 国語総合                                                               | 必修                         | ラジオ           | 金・土           |
+| 現代文                                                      | 現代文A・現代文B                                                            |                                                                    | ラジオ                        | 月・火           | 19:30 - 19:50 |
+| 古典                                                       | 古典B                                                                  |                                                                    | ラジオ                        | 金・土           | 19:30 - 19:50 |
+| 国語表現                                                     | 国語表現                                                                 |                                                                    | テレビ                        | 火             | 14:10 - 14:30 |
+| ※ベーシック国語                                                 | ※中学校国語 基礎復習                                                          |                                                                    | テレビ                        | 火             | 14:00 - 14:10 |
+| [地理歴史](https://ja.wikipedia.org/wiki/地理歴史 "wikilink")    | 世界史                                                                  | [世界史A・世界史B](https://ja.wikipedia.org/wiki/世界史_\(科目\) "wikilink")   | NHK学園高ではAが必修               | テレビ           | 金             |
+| 日本史                                                      | [日本史A・日本史B](https://ja.wikipedia.org/wiki/日本史_\(科目\) "wikilink")     | NHK学園高では日本史Aが必修                                                    | テレビ                        | 金             | 14:00 - 14:20 |
+| 地理                                                       | [地理B](https://ja.wikipedia.org/wiki/地理_\(科目\) "wikilink")            | テレビ                                                                | 金                          | 14:40 - 15:00 | 40回           |
+| [公民](https://ja.wikipedia.org/wiki/公民_\(教科\) "wikilink") | 現代社会                                                                 | [現代社会](https://ja.wikipedia.org/wiki/現代社会 "wikilink")              | NHK学園高では現代社会が必修            | ラジオ           | 月             |
+| 倫理                                                       | 倫理                                                                   | ラジオ                                                                | 金                          | 19:50 - 20:10 | 42回           |
+| 政治・経済                                                    | [政治・経済](https://ja.wikipedia.org/wiki/政治・経済_\(科目\) "wikilink")       | ラジオ                                                                | 土                          | 19:50 - 20:10 | 42回           |
+| [数学](../Page/数学_\(教科\).md "wikilink")                    | [数学I](https://ja.wikipedia.org/wiki/NHK高校講座_数学I "wikilink")          | [数学I](https://ja.wikipedia.org/wiki/数学I "wikilink")                | 必修                         | テレビ           | 月             |
+| 数学II                                                     | [数学II](https://ja.wikipedia.org/wiki/数学II "wikilink")                |                                                                    | ラジオ                        | 水・木           | 19:50 - 20:10 |
+| ※ベーシック数学                                                 | ※中学校数学 基礎復習                                                          |                                                                    | テレビ                        | 月             | 14:00 - 14:10 |
+| [理科](../Page/理科.md "wikilink")                           | 科学と人間生活                                                              | 科学と人間生活                                                            | NHK学園高では科学と人間生活 +基礎科目1つが必修 | テレビ           | 隔週木           |
+| 物理基礎                                                     | 物理基礎                                                                 | テレビ                                                                | 水                          | 14:20 - 14:40 | 40回           |
+| 化学基礎                                                     | 化学基礎                                                                 | テレビ                                                                | 水                          | 14:00 - 14:20 | 40回           |
+| 生物基礎                                                     | 生物基礎                                                                 | テレビ                                                                | 火                          | 14:40 - 15:00 | 40回           |
+| 地学基礎                                                     | 地学基礎                                                                 | テレビ                                                                | 水                          | 14:40 - 15:00 | 40回           |
+| ※ベーシックサイエンス                                              | ※中学校理科 基礎復習                                                          |                                                                    | テレビ                        | 火             | 14:30 - 14:40 |
+| [保健体育](https://ja.wikipedia.org/wiki/体育 "wikilink")      | 保健体育                                                                 | 保健、体育                                                              | 必修だが体育実技は スクーリングにて実施       | ラジオ           | 水             |
+| ※体を動かすTV                                                 |                                                                      |                                                                    | テレビ                        | 春・夏           | 10分           |
+| [芸術](https://ja.wikipedia.org/wiki/芸術_\(教科\) "wikilink") | 音楽I                                                                  | [音楽I](https://ja.wikipedia.org/wiki/音楽_\(教科\) "wikilink")          | いずれか一つ必修。 実技の一部はスクーリングで実施  | ラジオ           | 木             |
+| 美術I                                                      | [美術I](https://ja.wikipedia.org/wiki/美術_\(教科\) "wikilink")            | テレビ                                                                | 隔週木                        | 14:20 - 14:40 | 20回           |
+| 書道I                                                      | [書道](https://ja.wikipedia.org/wiki/書道 "wikilink")I                   | テレビ                                                                | 隔週木                        | 14:20 - 14:40 | 20回           |
+| [外国語](https://ja.wikipedia.org/wiki/外国語教育 "wikilink")    | コミュニケーション英語I                                                         | [コミュニケーション英語I](https://ja.wikipedia.org/wiki/英語_\(教科\) "wikilink") | 必修                         | テレビ           | 月             |
+| コミュニケーション英語II                                            | [コミュニケーション英語II](https://ja.wikipedia.org/wiki/英語_\(教科\) "wikilink")  |                                                                    | ラジオ                        | 月・火           | 20:10 - 20:30 |
+| コミュニケーション英語III                                           | [コミュニケーション英語III](https://ja.wikipedia.org/wiki/英語_\(教科\) "wikilink") |                                                                    | ラジオ                        | 水             | 19:30 - 19:50 |
+| 英語表現I                                                    | [英語表現I](https://ja.wikipedia.org/wiki/英語_\(教科\) "wikilink")          | NHK学園高では実施せず                                                       | ラジオ                        | 火             | 19:50 - 20:10 |
+| ※ベーシック英語                                                 | ※中学校英語 基礎復習                                                          |                                                                    | テレビ                        | 月             | 14:30 - 14:40 |
+| [家庭](https://ja.wikipedia.org/wiki/家庭_\(教科\) "wikilink") | 家庭総合                                                                 | 家庭総合                                                               | 必修                         | テレビ           | 木             |
+| [情報](https://ja.wikipedia.org/wiki/情報_\(教科\) "wikilink") | 社会と情報                                                                | 社会と情報                                                              | 必修                         | テレビ           | 隔週木           |
+| [商業](https://ja.wikipedia.org/wiki/商業_\(教科\) "wikilink") | ビジネス基礎                                                               | ビジネス基礎                                                             |                            | テレビ           | 夏             |
+| 簿記                                                       | [簿記](../Page/簿記.md "wikilink")                                       |                                                                    | テレビ                        | 春・夏           | 20分           |
+| [教科外](https://ja.wikipedia.org/wiki/教科外活動 "wikilink")    | 総合的な探究の時間                                                            | 総合的な探究の時間                                                          |                            | テレビ           | 春夏冬           |
+| ※仕事の現場real                                               | [キャリア教育](../Page/キャリア教育.md "wikilink")                               |                                                                    | ラジオ                        | 木             | 19:30 - 19:50 |
+
+| 教科等                                                                   | 番組名                                                              | 種別  | 放送時間          | 回数            |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------- | --- | ------------- | ------------- |
+| 国語                                                                    | [ロンリのちから](https://ja.wikipedia.org/wiki/ロンリのちから "wikilink")      | テレビ | 木             | 25:15 - 25:25 |
+| 数学                                                                    | [大人のピタゴラスイッチ](../Page/ピタゴラスイッチ.md "wikilink")                    | テレビ | 不定期           | 不定期           |
+| [自立活動](https://ja.wikipedia.org/wiki/自立活動 "wikilink")                 | [ストレッチマン](https://ja.wikipedia.org/wiki/ストレッチマン "wikilink")・ゴールド | テレビ | 水             | 15:30 - 15:40 |
+| [キャラとおたまじゃくし島](https://ja.wikipedia.org/wiki/キャラとおたまじゃくし島 "wikilink") | テレビ                                                              | 木   | 05:55 - 06:00 | 50回           |
+
+関連番組
+
+### 特記事項
+
+  - 「ベーシック○○」シリーズは、中学校での履修内容を高等学校での履修に繋げるためのブリッジ番組として企画された。また、知的障害系の特別支援学校高等部の授業番組として放送している。
+  - 「ロンリのチカラ」は、NHKが中学生もターゲットにした番組として位置づけている。
+  - 「英語表現I」は、NHK学園高校では科目として開設していないが、他の通信制高校の一部で採用されているため放送されている。
+  - 「ストレッチマン・ゴールド」と「キャラとおたまじゃくし島」は、障害がある高校生向けに放送されている。
+
+## 現在の出演者（講師を除く）
+
+### 国語表現
+
+2018年度制作
+
+  - [足立佳奈](https://ja.wikipedia.org/wiki/足立佳奈 "wikilink")
+  - [駒井蓮](https://ja.wikipedia.org/wiki/駒井蓮 "wikilink")
+  - [高橋大翔](https://ja.wikipedia.org/wiki/高橋大翔 "wikilink")
+  - [曽根咲桜](https://ja.wikipedia.org/wiki/曽根咲桜 "wikilink")
+  - [河野晴日](https://ja.wikipedia.org/wiki/河野晴日 "wikilink")
+  - [東海林クレア](https://ja.wikipedia.org/wiki/東海林クレア "wikilink")
+  - [富田明里](https://ja.wikipedia.org/wiki/富田明里 "wikilink")
+  - [石田海翔](https://ja.wikipedia.org/wiki/石田海翔 "wikilink")
+  - ナレーション [悠木碧](https://ja.wikipedia.org/wiki/悠木碧 "wikilink")
+
+### 国語総合
+
+2017年度制作 ラジオ
+
+  - [美村里江](https://ja.wikipedia.org/wiki/美村里江 "wikilink")
+  - [春名風花](https://ja.wikipedia.org/wiki/春名風花 "wikilink")
+  - ナレーション [細谷佳正](https://ja.wikipedia.org/wiki/細谷佳正 "wikilink")
+
+### ベーシック国語
+
+2017年度制作（あらためまして）
+
+  - [滝沢カレン](https://ja.wikipedia.org/wiki/滝沢カレン "wikilink")
+  - 土屋伸之（[ナイツ](https://ja.wikipedia.org/wiki/ナイツ_\(お笑いコンビ\) "wikilink")）
+  - ナレーション [小林ゆう](https://ja.wikipedia.org/wiki/小林ゆう "wikilink")
+
+### 世界史
+
+2015年度制作
+
+  - [眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink")
+  - [永松文太](https://ja.wikipedia.org/wiki/永松文太 "wikilink")
+  - ナレーション [山田みほ](../Page/山田みほ.md "wikilink")
+
+### 日本史
+
+2019年度制作\[1\]\[2\]
+
+  - [小日向えり](https://ja.wikipedia.org/wiki/小日向えり_\(タレント\) "wikilink")
+  - 市瀬悠也
+  - 平野詩乃
+
+### 地理
+
+2018年度制作
+
+  - [石原良純](../Page/石原良純.md "wikilink")
+  - [籠谷さくら](https://ja.wikipedia.org/wiki/籠谷さくら "wikilink")
+  - ナレーション [三浦祥朗](https://ja.wikipedia.org/wiki/三浦祥朗 "wikilink")
+
+### 数学I
+
+2015年度制作
+
+  - [松本あゆ美](https://ja.wikipedia.org/wiki/松本あゆ美 "wikilink")
+  - 山﨑紗彩
+  - 小味山紗英
+  - 多堀玲央
+  - [加藤幹夫](https://ja.wikipedia.org/wiki/加藤幹夫 "wikilink")
+  - 奥井亜実
+  - ナレーション [檜山修之](../Page/檜山修之.md "wikilink")
+
+### ベーシック数学
+
+2015年度制作（お悩み解決\!）
+
+  - [けみお](https://ja.wikipedia.org/wiki/けみお "wikilink")
+  - [石丸佐知](https://ja.wikipedia.org/wiki/石丸佐知 "wikilink")
+  - [小野真弓](https://ja.wikipedia.org/wiki/小野真弓 "wikilink")
+
+### 科学と人間生活
+
+2015年度制作
+
+  - [正名僕蔵](https://ja.wikipedia.org/wiki/正名僕蔵 "wikilink")
+  - [三井理陽](https://ja.wikipedia.org/wiki/三井理陽 "wikilink")
+  - [泉川実穂](https://ja.wikipedia.org/wiki/泉川実穂 "wikilink")
+  - ナレーション 渡辺真砂子
+
+### 物理基礎
+
+2017年度制作
+
+  - [斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")（第29回まで）
+  - [佐藤信長](https://ja.wikipedia.org/wiki/佐藤信長_\(俳優\) "wikilink")
+  - [福本莉子](https://ja.wikipedia.org/wiki/福本莉子 "wikilink")
+  - ナレーション [疋田涼子](https://ja.wikipedia.org/wiki/疋田涼子 "wikilink")
+
+### 化学基礎
+
+2016年度制作
+
+  - [金子昇](https://ja.wikipedia.org/wiki/金子昇 "wikilink")
+  - [水谷駿](https://ja.wikipedia.org/wiki/水谷駿 "wikilink")
+  - [長谷川眞優](https://ja.wikipedia.org/wiki/長谷川眞優 "wikilink")
+  - ナレーション [藤田咲](https://ja.wikipedia.org/wiki/藤田咲 "wikilink")
+
+### 生物基礎
+
+2018年度制作
+
+  - ナレーション [さかなクン](https://ja.wikipedia.org/wiki/さかなクン "wikilink")
+  - ナレーション [川上まり](https://ja.wikipedia.org/wiki/川上まり "wikilink")
+
+### 地学基礎
+
+2019年度制作\[3\]
+
+  - [佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")
+  - [仁村紗和](https://ja.wikipedia.org/wiki/仁村紗和 "wikilink")
+
+### ベーシックサイエンス
+
+2016年度制作（実験\!発見\!科学体験\!B-Science\!）
+
+  - [田畑藤本](https://ja.wikipedia.org/wiki/田畑藤本 "wikilink")
+  - [Cupitron](https://ja.wikipedia.org/wiki/Cupitron "wikilink")
+  - ナレーション [久嶋志帆](https://ja.wikipedia.org/wiki/久嶋志帆 "wikilink")
+
+### 美術I
+
+2016年度制作
+
+  - [シシド・カフカ](https://ja.wikipedia.org/wiki/シシド・カフカ "wikilink")
+  - [山口智充](https://ja.wikipedia.org/wiki/山口智充 "wikilink")\[4\]
+  - ナレーション 平野史子
+
+### 書道I
+
+2015年度制作
+
+  - [皆藤愛子](https://ja.wikipedia.org/wiki/皆藤愛子 "wikilink")
+  - 鍋島稲子
+  - [古橋舞悠](https://ja.wikipedia.org/wiki/古橋舞悠 "wikilink")
+  - 栗原大河
+  - [黒木うらら](https://ja.wikipedia.org/wiki/黒木うらら "wikilink")
+  - 清水せれな
+  - 下国歩夢
+  - ナレーション [遠藤純平](https://ja.wikipedia.org/wiki/遠藤純平 "wikilink")
+
+### コミュニケーション英語I
+
+2017年度制作
+
+  - [トレンディエンジェル](https://ja.wikipedia.org/wiki/トレンディエンジェル "wikilink")
+  - [Joann](https://ja.wikipedia.org/wiki/ジョアン_\(タレント\) "wikilink")
+  - [狩野見恭兵](https://ja.wikipedia.org/wiki/狩野見恭兵 "wikilink")
+  - 犬塚しおり
+  - ナレーション Akira Daniel Duncan
+
+### コミュニケーション英語II
+
+2018年度制作 ラジオ
+
+  - 白鳥羽純
+
+### 英語表現I
+
+2017年度制作 ラジオ
+
+  - 川口ゆりな
+  - [じぇいそん](https://ja.wikipedia.org/wiki/ジェイソン・ハンコック "wikilink")
+
+### ベーシック英語
+
+2016年度制作（苦手を克服\!）
+
+  - [渡辺直美](https://ja.wikipedia.org/wiki/渡辺直美 "wikilink")
+  - [フリップ・C](https://ja.wikipedia.org/wiki/フリップ・C "wikilink")
+  - [佐伯亮](https://ja.wikipedia.org/wiki/佐伯亮_\(俳優\) "wikilink")
+  - [石崎日梨](https://ja.wikipedia.org/wiki/石崎日梨 "wikilink")
+  - ナレーション ミキ・クラーク
+
+### 家庭総合
+
+2017年度制作
+
+  - [黒沢かずこ](https://ja.wikipedia.org/wiki/黒沢かずこ "wikilink")（[森三中](https://ja.wikipedia.org/wiki/森三中 "wikilink")）
+  - [馬場裕之](https://ja.wikipedia.org/wiki/馬場裕之 "wikilink")（[ロバート](https://ja.wikipedia.org/wiki/ロバート_\(お笑いトリオ\) "wikilink")）
+  - [ブラダ](https://ja.wikipedia.org/wiki/ブラダ "wikilink")
+  - ナレーション [坂本千夏](https://ja.wikipedia.org/wiki/坂本千夏 "wikilink")
+
+### 社会と情報
+
+2019年度制作\[5\]\[6\]
+
+  - [緑川光](https://ja.wikipedia.org/wiki/緑川光 "wikilink")
+  - 柿崎芽実（[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")）\[7\]
+  - [松田好花](https://ja.wikipedia.org/wiki/松田好花 "wikilink")（日向坂46）
+  - ナレーション [戸谷公人](https://ja.wikipedia.org/wiki/戸谷公人 "wikilink")
+
+### ビジネス基礎
+
+2019年度制作\[8\]
+
+  - [前野朋哉](https://ja.wikipedia.org/wiki/前野朋哉 "wikilink")
+  - [濵尾咲綺](https://ja.wikipedia.org/wiki/濵尾咲綺 "wikilink")
+
+### 簿記
+
+2016年度制作
+
+  - [酒井瞳](https://ja.wikipedia.org/wiki/酒井瞳 "wikilink") - MC\[9\]
+  - 石井祥伍
+  - 松田莉奈
+  - わたび〜（渡部崇文） - [公認会計士](https://ja.wikipedia.org/wiki/公認会計士 "wikilink")\[10\]
+  - ナレーション おまたかな
+
+### 体を動かすTV
+
+2015年度制作
+
+  - [中岡創一](https://ja.wikipedia.org/wiki/中岡創一 "wikilink")（[ロッチ](https://ja.wikipedia.org/wiki/ロッチ "wikilink")）
+  - [敦士](https://ja.wikipedia.org/wiki/敦士_\(ファッションモデル\) "wikilink")
+  - [生田衣梨奈](https://ja.wikipedia.org/wiki/生田衣梨奈 "wikilink")（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")'15）※当時\[11\]
+  - ナレーション [勝沼紀義](https://ja.wikipedia.org/wiki/勝沼紀義 "wikilink")
+  - ナレーション [小林美奈](https://ja.wikipedia.org/wiki/小林美奈 "wikilink")
+
+### 保健体育
+
+2016年度制作 ラジオ
+
+  - [壇蜜](https://ja.wikipedia.org/wiki/壇蜜 "wikilink")
+
+### 総合的な探究の時間
+
+2018年度制作
+
+  - ナレーション [島袋美由利](https://ja.wikipedia.org/wiki/島袋美由利 "wikilink")
+
+### 仕事の現場real
+
+2016年度制作 ラジオ
+
+  - [野呂佳代](https://ja.wikipedia.org/wiki/野呂佳代 "wikilink")
+
+## 過去の出演者（講師を除く）
+
+### 国語表現
+
+2014年度- 2017年度
+
+  - [中江有里](../Page/中江有里.md "wikilink")
+  - [かもめんたる](https://ja.wikipedia.org/wiki/かもめんたる "wikilink")
+  - 梅村結衣
+  - [大野瑞生](https://ja.wikipedia.org/wiki/大野瑞生 "wikilink")
+  - 斉藤圭祐
+  - 佐藤優津季
+  - [佐奈宏紀](https://ja.wikipedia.org/wiki/佐奈宏紀 "wikilink")
+  - 薗佳波
+  - 中嶋理乃
+  - [モーガン茉愛羅](https://ja.wikipedia.org/wiki/モーガン茉愛羅 "wikilink")
+  - 遊馬萌弥
+  - [吉田秀太郎](https://ja.wikipedia.org/wiki/吉田秀太郎 "wikilink")
+  - ナレーション [田中杏沙](https://ja.wikipedia.org/wiki/田中杏沙 "wikilink")
+
+### ベーシック国語
+
+2013年度- 2016年度（きみのピンチを救う\!）
+
+  - [ゴリ](https://ja.wikipedia.org/wiki/ゴリ_\(お笑い芸人\) "wikilink")（[ガレッジセール](https://ja.wikipedia.org/wiki/ガレッジセール "wikilink")）
+  - [光浦靖子](https://ja.wikipedia.org/wiki/光浦靖子 "wikilink")（[オアシズ](https://ja.wikipedia.org/wiki/オアシズ "wikilink")）
+  - [野添義弘](https://ja.wikipedia.org/wiki/野添義弘 "wikilink")
+  - [良田麻美](https://ja.wikipedia.org/wiki/良田麻美 "wikilink")
+  - 岩澤晶範
+  - スティーブ・ワイリー
+  - [鈴木かのん](https://ja.wikipedia.org/wiki/鈴木かのん "wikilink")
+  - [福山翔大](https://ja.wikipedia.org/wiki/福山翔大 "wikilink")
+  - [夏居瑠奈](https://ja.wikipedia.org/wiki/夏居瑠奈 "wikilink")
+  - ナレーション [並木伸一](https://ja.wikipedia.org/wiki/並木伸一 "wikilink")
+
+### 世界史
+
+2004年度- 2007年度
+
+  - [吉村民](https://ja.wikipedia.org/wiki/吉村民 "wikilink")
+  - ナレーション [田中秀幸](https://ja.wikipedia.org/wiki/田中秀幸_\(声優\) "wikilink")
+
+2008年度 - 2011年度
+
+  - [寺田ちひろ](https://ja.wikipedia.org/wiki/寺田ちひろ "wikilink")
+  - ナレーション [寺瀬今日子](../Page/寺瀬今日子.md "wikilink")
+  - ナレーション [原亜弥](https://ja.wikipedia.org/wiki/一龍斎貞弥 "wikilink")
+  - ナレーション [nona](https://ja.wikipedia.org/wiki/nona "wikilink")
+  - ナレーション [柳沢三千代](https://ja.wikipedia.org/wiki/柳沢三千代 "wikilink")
+
+2012年度 - 2014年度
+
+### 日本史
+
+2005年度 - 2008年度
+
+  - [小笠原亜里沙](https://ja.wikipedia.org/wiki/小笠原亜里沙 "wikilink")
+  - ナレーション [仮屋昌伸](https://ja.wikipedia.org/wiki/仮屋昌伸 "wikilink")
+
+2009年度 - 2013年度
+
+  - [桐島里菜](https://ja.wikipedia.org/wiki/桐島里菜 "wikilink")
+  - ナレーション 吉川恵美子
+
+2014年度 - 2018年度
+
+  - [高橋英樹](https://ja.wikipedia.org/wiki/高橋英樹_\(俳優\) "wikilink")
+  - 土保瑞希（[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")）※当時
+  - [向井地美音](https://ja.wikipedia.org/wiki/向井地美音 "wikilink")（AKB48）
+  - [込山榛香](https://ja.wikipedia.org/wiki/込山榛香 "wikilink")（AKB48）
+  - ナレーション [杉村理加](https://ja.wikipedia.org/wiki/杉村理加 "wikilink")
+
+### 地理
+
+2004年度 - 2006年度
+
+  - [清水祥恵](https://ja.wikipedia.org/wiki/清水祥恵 "wikilink")
+  - ナレーション 山田美穂（現：山田みほ）
+
+2007年度 - 2010年度
+
+  - [香坂夏希](https://ja.wikipedia.org/wiki/香坂夏希 "wikilink")
+  - ナレーション [長嶝高士](https://ja.wikipedia.org/wiki/長嶝高士 "wikilink")
+  - ナレーション 山田美穂（現：[山田みほ](../Page/山田みほ.md "wikilink")）
+
+2011年度 - 2013年度
+
+  - [サンドウィッチマン](https://ja.wikipedia.org/wiki/サンドウィッチマン_\(お笑いコンビ\) "wikilink")
+  - [今野美里](https://ja.wikipedia.org/wiki/今野美里 "wikilink")
+
+2014年度 - 2017年度
+
+  - [中田敦彦](https://ja.wikipedia.org/wiki/中田敦彦 "wikilink")（[オリエンタルラジオ](https://ja.wikipedia.org/wiki/オリエンタルラジオ "wikilink")）
+  - [山田彩](https://ja.wikipedia.org/wiki/山田彩 "wikilink")
+  - [ドミニク](https://ja.wikipedia.org/wiki/ドミニク_\(タレント\) "wikilink")
+  - 田中日奈子
+  - ナレーション [安元洋貴](https://ja.wikipedia.org/wiki/安元洋貴 "wikilink")
+
+### 数学I
+
+2006年度 - 2009年度
+
+  - [高橋あゆみ](https://ja.wikipedia.org/wiki/高橋あゆみ "wikilink")
+  - 遠藤紘美
+  - 田中匡志
+  - [海宝直人](https://ja.wikipedia.org/wiki/海宝直人 "wikilink")
+  - ナレーション [久嶋志帆](https://ja.wikipedia.org/wiki/久嶋志帆 "wikilink")
+
+2010年度 - 2011年度
+
+  - [田中えみ](https://ja.wikipedia.org/wiki/田中えみ "wikilink")
+  - ナレーション [郡正夫](https://ja.wikipedia.org/wiki/郡正夫 "wikilink")
+
+2012年度 - 2014年度
+
+  - [小堺翔太](https://ja.wikipedia.org/wiki/小堺翔太 "wikilink")
+  - [長谷川真優](https://ja.wikipedia.org/wiki/長谷川真優 "wikilink")
+  - ナレーション [宮崎亜友美](https://ja.wikipedia.org/wiki/宮崎亜友美 "wikilink")
+
+### 数学基礎
+
+2006年度 - 2009年度
+
+  - [鉢嶺杏奈](https://ja.wikipedia.org/wiki/鉢嶺杏奈 "wikilink")
+  - フォーンクルック幹治
+  - ナレーション 昌子洋子
+
+2010年度 - 2012年度
+
+  - [和希沙也](https://ja.wikipedia.org/wiki/和希沙也 "wikilink")
+  - ナレーション [安達忍](https://ja.wikipedia.org/wiki/安達忍 "wikilink")
+
+### ベーシック数学
+
+2011年度 - 2014年度（チョー基礎から始めよう\!）
+
+  - [大輪教授](https://ja.wikipedia.org/wiki/大輪教授 "wikilink")
+  - [蒼あんな](https://ja.wikipedia.org/wiki/蒼あんな・れいな "wikilink")
+  - [蒼れいな](https://ja.wikipedia.org/wiki/蒼あんな・れいな "wikilink")
+  - ナレーション [倖月美和](https://ja.wikipedia.org/wiki/倖月美和 "wikilink")
+
+### 理科総合A・B
+
+2003年度 - 2005年度
+
+  - [安井まみ子](https://ja.wikipedia.org/wiki/安井まみ子 "wikilink")
+  - 目黒裕佳子（現：[近衛はな](https://ja.wikipedia.org/wiki/近衛はな "wikilink")）
+  - ナレーション [古川登志夫](https://ja.wikipedia.org/wiki/古川登志夫 "wikilink")
+
+2006年度 - 2009年度
+
+  - [高松知美](https://ja.wikipedia.org/wiki/高松知美 "wikilink")
+  - [武田あかり](https://ja.wikipedia.org/wiki/武田あかり "wikilink")
+  - [中里真美](https://ja.wikipedia.org/wiki/中里真美 "wikilink")
+  - ナレーション [難波圭一](https://ja.wikipedia.org/wiki/難波圭一 "wikilink")
+
+2010年度 - 2012年度
+
+  - [麻里奈](https://ja.wikipedia.org/wiki/麻里奈 "wikilink") A担当
+  - [本間理紗](https://ja.wikipedia.org/wiki/本間理紗 "wikilink") B担当
+  - ナレーション [鈴木博紀](https://ja.wikipedia.org/wiki/鈴木博紀 "wikilink")　A担当
+  - ナレーション [住友優子](../Page/住友優子.md "wikilink")　B担当
+
+### 科学と人間生活
+
+2012年度 - 2014年度
+
+  - [アンガールズ](https://ja.wikipedia.org/wiki/アンガールズ "wikilink")
+  - [岡野真也](https://ja.wikipedia.org/wiki/岡野真也 "wikilink")
+  - ナレーション [浅野真澄](../Page/浅野真澄.md "wikilink")
+
+### 物理
+
+2002年度- 2004年度
+
+  - 礒葉子
+
+2005年度- 2008年度
+
+  - [渋谷桃子](https://ja.wikipedia.org/wiki/渋谷桃子 "wikilink")
+  - 山本薫（現：[山本かおり](https://ja.wikipedia.org/wiki/山本かおり "wikilink")）
+  - 藤本竜輔
+  - 増尾亮
+  - ナレーション [羽室満](https://ja.wikipedia.org/wiki/羽室満 "wikilink")
+
+2009年度 - 2012年度
+
+  - [義達祐未](https://ja.wikipedia.org/wiki/義達祐未 "wikilink")
+  - ナレーション [久嶋志帆](https://ja.wikipedia.org/wiki/久嶋志帆 "wikilink")
+
+### 物理基礎
+
+2013年度 - 2016年度
+
+  - [黒田有彩](https://ja.wikipedia.org/wiki/黒田有彩 "wikilink")
+  - [熊谷知博](https://ja.wikipedia.org/wiki/熊谷知博 "wikilink")
+  - ナレーション [葛谷知花](https://ja.wikipedia.org/wiki/葛谷知花 "wikilink")
+
+### 化学
+
+2004年度 - 2007年度
+
+  - [友田安紀](https://ja.wikipedia.org/wiki/友田安紀 "wikilink")
+  - ナレーション [郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")
+
+2008年度 - 2012年度
+
+  - [鈴木あきえ](https://ja.wikipedia.org/wiki/鈴木あきえ "wikilink")
+  - ナレーション [坂口哲夫](https://ja.wikipedia.org/wiki/坂口哲夫 "wikilink")
+
+### 化学基礎
+
+2013年度 - 2015年度
+
+  - 横畠加奈子
+  - [高田里穂](https://ja.wikipedia.org/wiki/高田里穂 "wikilink")
+  - 吉田奈央
+  - ナレーション [伊倉一恵](https://ja.wikipedia.org/wiki/伊倉一恵 "wikilink")
+
+### 生物
+
+2004年度 - 2006年度
+
+  - [梅田陽子](https://ja.wikipedia.org/wiki/梅田陽子 "wikilink")
+  - 三浦圭祐
+  - [桜木睦子](https://ja.wikipedia.org/wiki/桜木睦子 "wikilink")
+  - ナレーション [銀河万丈](../Page/銀河万丈.md "wikilink")
+
+2007年度 - 2010年度
+
+  - ナレーション [前田沙耶香](https://ja.wikipedia.org/wiki/前田沙耶香 "wikilink")
+
+2011年度 - 2013年度
+
+  - [鈴木ちなみ](https://ja.wikipedia.org/wiki/鈴木ちなみ "wikilink")
+  - [ハマカーン](https://ja.wikipedia.org/wiki/ハマカーン "wikilink")
+  - ナレーション [中村尚子](https://ja.wikipedia.org/wiki/中村尚子 "wikilink")
+
+### 生物基礎
+
+2014年度 - 2017年度
+
+  - [八田亜矢子](https://ja.wikipedia.org/wiki/八田亜矢子 "wikilink")
+  - [東京アヴァンギャルド](https://ja.wikipedia.org/wiki/東京アヴァンギャルド "wikilink")
+  - ナレーション [増谷康紀](https://ja.wikipedia.org/wiki/増谷康紀 "wikilink")
+
+### 地学
+
+2005年度 - 2008年度
+
+  - [平野麻樹子](https://ja.wikipedia.org/wiki/平野麻樹子 "wikilink")
+  - ナレーション [堀秀行](https://ja.wikipedia.org/wiki/堀秀行 "wikilink")
+
+2009年度 - 2012年度
+
+  - [大澤亜季子](https://ja.wikipedia.org/wiki/大澤亜季子 "wikilink")
+  - ナレーション [遠藤武](https://ja.wikipedia.org/wiki/遠藤武_\(声優\) "wikilink")
+
+### 地学基礎
+
+2013年度 - 2018年度
+
+  - [関口知宏](https://ja.wikipedia.org/wiki/関口知宏 "wikilink")
+  - [垣内彩未](https://ja.wikipedia.org/wiki/垣内彩未 "wikilink")
+  - ナレーション [市川展丈](https://ja.wikipedia.org/wiki/市川展丈 "wikilink")
+
+### 美術I
+
+2006年度 - 2010年度
+
+  - [村井美樹](https://ja.wikipedia.org/wiki/村井美樹 "wikilink")
+  - ナレーション [宮本充](https://ja.wikipedia.org/wiki/宮本充 "wikilink")
+
+2011年度 - 2015年度
+
+  - [KIKI](https://ja.wikipedia.org/wiki/KIKI_\(女優\) "wikilink")
+  - ナレーション [落合弘治](https://ja.wikipedia.org/wiki/落合弘治 "wikilink")
+  - ナレーション [雨蘭咲木子](https://ja.wikipedia.org/wiki/雨蘭咲木子 "wikilink")
+  - ナレーション [小宮和枝](https://ja.wikipedia.org/wiki/小宮和枝 "wikilink")
+
+### 書道I
+
+2006年度 - 2010年度
+
+  - [浜口順子](https://ja.wikipedia.org/wiki/浜口順子 "wikilink")
+
+2011年度 - 2014年度
+
+  - [日笠陽子](https://ja.wikipedia.org/wiki/日笠陽子 "wikilink")
+  - ナレーション [西脇保](https://ja.wikipedia.org/wiki/西脇保 "wikilink")
+
+### 英語I
+
+2007年度 - 2009年度
+
+  - 平野正和
+  - 林祥子
+  - ウィスナー・ブライアン
+  - スノードン・エミリ
+  - ナレーション [中山さら](../Page/中山さら.md "wikilink")
+
+2010年度 - 2012年度
+
+  - スノードン・エミリ
+  - [小池唯](https://ja.wikipedia.org/wiki/小池唯 "wikilink")
+  - [本庄正季](https://ja.wikipedia.org/wiki/本庄正季 "wikilink")
+  - [優菜](https://ja.wikipedia.org/wiki/優菜 "wikilink")
+  - フォーンクルック幹治
+  - 大中耀洋
+  - 儀賀沙柚
+  - ナレーション [久嶋志帆](https://ja.wikipedia.org/wiki/久嶋志帆 "wikilink")
+
+### コミュニケーション英語I
+
+2013年度 - 2016年度
+
+  - [LiLiCo](https://ja.wikipedia.org/wiki/LiLiCo "wikilink")
+  - [桑代貴明](https://ja.wikipedia.org/wiki/桑代貴明 "wikilink")
+  - 松田梨紗子
+  - [段文凝](https://ja.wikipedia.org/wiki/段文凝 "wikilink")
+
+### ベーシック英語
+
+2012年度 - 2015年度（チョー基礎から始めよう\!）
+
+  - [篠原ともえ](https://ja.wikipedia.org/wiki/篠原ともえ "wikilink")
+  - [マーティ・フリードマン](https://ja.wikipedia.org/wiki/マーティ・フリードマン "wikilink")
+  - [副島淳](https://ja.wikipedia.org/wiki/副島淳 "wikilink")
+  - [高嶋香帆](https://ja.wikipedia.org/wiki/高嶋香帆 "wikilink")
+  - [U字工事](https://ja.wikipedia.org/wiki/U字工事 "wikilink")
+
+### 英語表現I
+
+2014年度 - 2016年度 ラジオ
+
+  - [KABA.ちゃん](../Page/KABA.ちゃん.md "wikilink")
+
+### 家庭総合
+
+2005年度 - 2007年度
+
+  - [チョイチャック](https://ja.wikipedia.org/wiki/チョイチャック "wikilink")
+      - 伊佐陶太
+      - 川合鉄平
+  - [小林大祐](https://ja.wikipedia.org/wiki/小林大祐 "wikilink")
+  - 宮本武瑠
+  - 渕脇玲奈
+  - 渡辺香織
+  - ナレーション [磯部弘](https://ja.wikipedia.org/wiki/磯部弘 "wikilink")
+
+2008年度 - 2010年度
+
+  - [鈴木コウタ](https://ja.wikipedia.org/wiki/鈴木コウタ "wikilink")
+  - [虎南有香](https://ja.wikipedia.org/wiki/虎南有香 "wikilink")
+  - [池田純](https://ja.wikipedia.org/wiki/池田純矢 "wikilink")
+  - ナレーション [北島美穂](https://ja.wikipedia.org/wiki/北島美穂 "wikilink")
+
+2011年度 - 2013年度
+
+  - [千原せいじ](https://ja.wikipedia.org/wiki/千原せいじ "wikilink")
+  - [May](https://ja.wikipedia.org/wiki/Sweet_Vacation "wikilink")
+  - 麻生千恵
+  - 五百旗頭沙希
+  - 表更紗
+  - [小野木里奈](https://ja.wikipedia.org/wiki/小野木里奈 "wikilink")
+  - 若林春花
+  - 中澤耀介
+  - [安倍龍太郎](https://ja.wikipedia.org/wiki/安倍龍太郎_\(タレント\) "wikilink")
+  - [糟谷健二](https://ja.wikipedia.org/wiki/糟谷健二 "wikilink")
+  - 安岡聖雨
+  - [チアキ・レイシー](https://ja.wikipedia.org/wiki/チアキ・レイシー "wikilink")
+  - ナレーション [岩見聖次](https://ja.wikipedia.org/wiki/岩見聖次 "wikilink")
+
+2014年度 - 2016年度
+
+  - [パパイヤ鈴木](../Page/パパイヤ鈴木.md "wikilink")
+  - [青木さやか](../Page/青木さやか.md "wikilink")
+  - 足立成
+  - [尾崎千瑛](https://ja.wikipedia.org/wiki/尾崎千瑛 "wikilink")
+  - ナレーション [沖田愛](https://ja.wikipedia.org/wiki/沖田愛 "wikilink")
+
+### 情報A
+
+2003年度 - 2004年度
+
+  - [鈴木史華](https://ja.wikipedia.org/wiki/鈴木史華 "wikilink")
+  - [IKKAN](https://ja.wikipedia.org/wiki/IKKAN "wikilink")
+  - ナレーション [宮本充](https://ja.wikipedia.org/wiki/宮本充 "wikilink")
+
+2005年度 - 2008年度
+
+  - 浅沼コリン
+  - [塩山みさこ](https://ja.wikipedia.org/wiki/塩山みさこ "wikilink")
+  - ナレーション [石川悦子](https://ja.wikipedia.org/wiki/石川悦子 "wikilink")
+
+2009年度 - 2013年度
+
+  - [河合優](https://ja.wikipedia.org/wiki/河合優 "wikilink")
+  - ナレーション [根本泰彦](https://ja.wikipedia.org/wiki/根本泰彦 "wikilink")
+
+### 社会と情報
+
+2013年度 - 2015年度
+
+  - [麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")
+  - [池澤あやか](https://ja.wikipedia.org/wiki/池澤あやか "wikilink")
+  - ナレーション [五味真由子](https://ja.wikipedia.org/wiki/五味真由子 "wikilink")
+  - キャラクター　うさぎさん
+
+2016年度 - 2018年度
+
+  - [古関れん](https://ja.wikipedia.org/wiki/古関れん "wikilink")
+  - [大関れいか](https://ja.wikipedia.org/wiki/大関れいか "wikilink")
+  - [スーパー・ササダンゴ・マシン](https://ja.wikipedia.org/wiki/マッスル坂井 "wikilink")
+  - ナレーション [竹内良太](https://ja.wikipedia.org/wiki/竹内良太 "wikilink")
+
+### ビジネス基礎
+
+2015年度 - 2018年度
+
+  - [ブレイク・クロフォード](https://ja.wikipedia.org/wiki/ブレイク・クロフォード "wikilink")
+  - ゼガ
+  - ナレーション [川本克彦](https://ja.wikipedia.org/wiki/川本克彦 "wikilink")
+
+## 番組枠の変遷
+
+  - 1953年4月
+    ラジオ第2で『NHK高等学校講座』放送開始
+  - 1959年1月
+    教育テレビ（Eテレ）開局によりテレビでも放送開始
+  - 1963年4月
+    『通信高校講座』に改題。
+  - 1982年4月
+    『高等学校講座』に改題。
+  - 1990年4月
+    テレビのみ 『NHK高校講座』に改題。
+  - 1991年4月
+    ラジオも『NHK高校講座』に改題、テレビは『教育セミナー（NHK高校講座）』に改題。
+  - 2003年4月
+    テレビを『NHK高校講座』に戻す。
+
+## 講座一覧
+
+### 国語
+
+| 種別  | 講座名   | 年度          |
+| --- | ----- | ----------- |
+| ラジオ | 国語    | 1953        |
+| ラジオ | 国語初級  | 1954 - 1958 |
+| ラジオ | 国語上級  | 1954 - 1961 |
+| ラジオ | 国語甲   | 1959        |
+| ラジオ | 国語甲一  | 1960 - 1961 |
+| ラジオ | 国語甲二  | 1960 - 1961 |
+| ラジオ | 国語一   | 1962        |
+| ラジオ | 国語二   | 1962 - 1963 |
+| テレビ | 現代国語1 | 1963 - 1975 |
+| ラジオ | 現代国語1 | 1963 - 1981 |
+| テレビ | 現代国語2 | 1965 - 1975 |
+| ラジオ | 現代国語2 | 1965 - 1982 |
+| テレビ | 現代国語3 | 1966 - 1975 |
+| ラジオ | 現代国語3 | 1966 - 1983 |
+| テレビ | 国語I   | 1982 - 1984 |
+| ラジオ | 国語I   | 1982 - 2002 |
+| ラジオ | 国語II  | 1983 - 2003 |
+| ラジオ | 国語表現I | 2004 - 2014 |
+| ラジオ | 現代文   | 1984 - 2016 |
+| ラジオ | 国語総合  | 2003 - 2016 |
+| テレビ | 国語表現  | 2014 - 2016 |
+
+| 種別  | 講座名    | 年度          |
+| --- | ------ | ----------- |
+| ラジオ | 国語古典   | 1962 - 1963 |
+| ラジオ | 古典乙I古文 | 1964 - 1974 |
+| テレビ | 古典乙I古文 | 1964 - 1974 |
+| テレビ | 古典乙I漢文 | 1965 - 1972 |
+| ラジオ | 古典乙I漢文 | 1965 - 1974 |
+| ラジオ | 古典I乙漢文 | 1975 - 1981 |
+| ラジオ | 古典I乙古文 | 1975 - 1981 |
+| テレビ | 古典I乙古文 | 1975 - 1983 |
+| テレビ | 古典     | 1984        |
+| テレビ | 古典への招待 | 1985 - 2002 |
+| ラジオ | 古典     | 2004 - 2016 |
+
+古典
+
+| 種別  | 講座名                                                         | 年度          |
+| --- | ----------------------------------------------------------- | ----------- |
+| テレビ | ベーシック国語                                                     | 2013 - 2016 |
+| テレビ | [ロンリのちから](https://ja.wikipedia.org/wiki/ロンリのちから "wikilink") | 2014 - 2016 |
+
+その他
+
+### 地理歴史
+
+| 種別  | 講座名     | 年度          |
+| --- | ------- | ----------- |
+| ラジオ | 世界史B    | 1965 - 1973 |
+| テレビ | 世界史B    | 1965 - 1973 |
+| ラジオ | 世界史     | 1974 - 1981 |
+| テレビ | 世界史     | 1974 - 1984 |
+| テレビ | 世界の歴史   | 1985 - 1989 |
+| テレビ | 歴史で見る世界 | 1990 - 2003 |
+| テレビ | 世界史     | 2004 - 2016 |
+
+世界史
+
+| 種別  | 講座名     | 年度          |
+| --- | ------- | ----------- |
+| ラジオ | 日本史     | 1960 - 1963 |
+| ラジオ | 日本史     | 1966 - 1981 |
+| テレビ | 日本史     | 1966 - 1984 |
+| テレビ | 日本の歴史   | 1985 - 1989 |
+| テレビ | 歴史で見る日本 | 1990 - 2004 |
+| テレビ | 日本史     | 2005 - 2016 |
+
+日本史
+
+| 種別  | 講座名      | 年度          |
+| --- | -------- | ----------- |
+| テレビ | 人文地理     | 1960 - 1963 |
+| ラジオ | 地理B      | 1964 - 1981 |
+| テレビ | 地理B      | 1964 - 1982 |
+| テレビ | 地理       | 1983 - 1984 |
+| テレビ | 世界・人とくらし | 1985 - 1989 |
+| テレビ | 世界くらしの旅  | 1990 - 2003 |
+| テレビ | 地理       | 2004 - 2016 |
+
+地理
+
+### 公民
+
+| 種別  | 講座名   | 年度          |
+| --- | ----- | ----------- |
+| ラジオ | 一般社会  | 1953        |
+| テレビ | 政治・経済 | 1966 - 1972 |
+| テレビ | 倫理・社会 | 1966 - 1972 |
+| ラジオ | 政治・経済 | 1966 - 1981 |
+| ラジオ | 倫理・社会 | 1966 - 1981 |
+| ラジオ | 現代社会  | 1982 - 2016 |
+| ラジオ | 倫理    | 1984 - 2016 |
+| ラジオ | 政治・経済 | 2009 - 2016 |
+
+### 数学
+
+| 種別  | 講座名                                                           | 年度          |
+| --- | ------------------------------------------------------------- | ----------- |
+| ラジオ | [数学初級](https://ja.wikipedia.org/wiki/NHK高校講座_数学I "wikilink")  | 1954 - 1955 |
+| ラジオ | [数学I](https://ja.wikipedia.org/wiki/NHK高校講座_数学I "wikilink")   | 1956 - 1982 |
+| テレビ | [数学I](https://ja.wikipedia.org/wiki/NHK高校講座_数学I "wikilink")   | 1958 - 2016 |
+| ラジオ | [数学基礎](https://ja.wikipedia.org/wiki/NHK高校講座_数学基礎 "wikilink") | 2003 - 2005 |
+| テレビ | [数学基礎](https://ja.wikipedia.org/wiki/NHK高校講座_数学基礎 "wikilink") | 2006 - 2012 |
+
+| 種別  | 講座名   | 年度          |
+| --- | ----- | ----------- |
+| テレビ | 数学II  | 1959 - 1962 |
+| ラジオ | 数学II  | 1962 - 1963 |
+| テレビ | 数学IIA | 1964 - 1981 |
+| ラジオ | 数学IIA | 1964 - 1982 |
+| ラジオ | 数学II  | 1983 - 2016 |
+
+数学II
+
+| 種別  | 講座名    | 年度          |
+| --- | ------ | ----------- |
+| ラジオ | 数学上級   | 1954 - 1955 |
+| ラジオ | 数学III  | 1956 - 1961 |
+| テレビ | 数学III  | 1959 - 1962 |
+| テレビ | 数学演習   | 1959 - 1964 |
+| テレビ | 数学総合研究 | 1962 - 1964 |
+
+上級・実力養成
+
+| 種別  | 講座名     | 年度          |
+| --- | ------- | ----------- |
+| ラジオ | 数学I入門   | 1964 - 1966 |
+| テレビ | 数学I入門   | 1964 - 1966 |
+| ラジオ | 高校数学入門  | 1982 - 2002 |
+| テレビ | ベーシック数学 | 2011 - 2016 |
+
+中学復習
+
+### 理科
+
+| 種別  | 講座名      | 年度          |
+| --- | -------- | ----------- |
+| テレビ | 理科I      | 1982 - 1984 |
+| テレビ | 科学と人間    | 1985 - 1989 |
+| テレビ | ハローサイエンス | 1990 - 1994 |
+| テレビ | 理科総合A・B  | 2003 - 2012 |
+| テレビ | 科学と人間生活  | 2012 - 2016 |
+
+理科総合
+
+| 種別  | 講座名  | 年度          |
+| --- | ---- | ----------- |
+| テレビ | 理科   | 1959 - 1961 |
+| ラジオ | 物理A  | 1966 - 1972 |
+| テレビ | 物理A  | 1966 - 1974 |
+| テレビ | 物理I  | 1975 - 1983 |
+| テレビ | 物理   | 1984 - 2012 |
+| テレビ | 物理基礎 | 2013 - 2016 |
+
+物理
+
+| 種別  | 講座名  | 年度          |
+| --- | ---- | ----------- |
+| テレビ | 化学   | 1960 - 1963 |
+| ラジオ | 化学A  | 1965 - 1972 |
+| テレビ | 化学A  | 1965 - 1973 |
+| テレビ | 化学I  | 1974 - 1982 |
+| テレビ | 化学   | 1983 - 2012 |
+| テレビ | 化学基礎 | 2013 - 2016 |
+
+化学
+
+| 種別  | 講座名  | 年度          |
+| --- | ---- | ----------- |
+| テレビ | 生物   | 1961 - 1972 |
+| ラジオ | 生物   | 1964 - 1972 |
+| テレビ | 生物I  | 1973 - 1982 |
+| テレビ | 生物   | 1983 - 2013 |
+| テレビ | 生物基礎 | 2014 - 2016 |
+
+生物
+
+| 種別  | 講座名  | 年度          |
+| --- | ---- | ----------- |
+| ラジオ | 地学   | 1964 - 1972 |
+| テレビ | 地学   | 1964 - 1974 |
+| テレビ | 地学I  | 1975 - 1981 |
+| テレビ | 地学   | 1995 - 2012 |
+| テレビ | 地学基礎 | 2013 - 2016 |
+
+地学
+
+| 種別  | 講座名        | 年度   |
+| --- | ---------- | ---- |
+| テレビ | ベーシックサイエンス | 2016 |
+
+中学復習
+
+### 保健体育
+
+| 種別  | 講座名     | 年度          |
+| --- | ------- | ----------- |
+| ラジオ | 体育      | 1963 - 1972 |
+| テレビ | 体育      | 1963 - 1972 |
+| テレビ | 保健      | 1964 - 1972 |
+| ラジオ | 保健      | 1964 - 1972 |
+| ラジオ | 保健体育    | 1973 - 1981 |
+| ラジオ | 保健体育    | 1994 - 2016 |
+| テレビ | 体を動かすTV | 2015 - 2016 |
+
+### 芸術
+
+| 種別  | 講座名 | 年度          |
+| --- | --- | ----------- |
+| テレビ | 音楽I | 1964 - 1972 |
+| ラジオ | 音楽I | 1964 - 2016 |
+
+音楽
+
+| 種別  | 講座名 | 年度          |
+| --- | --- | ----------- |
+| テレビ | 美術I | 1966 - 1972 |
+| テレビ | 美術I | 2006 - 2016 |
+
+美術
+
+| 種別  | 講座名 | 年度          |
+| --- | --- | ----------- |
+| テレビ | 書道I | 1965 - 1972 |
+| テレビ | 書道I | 2006 - 2016 |
+
+書道
+
+### 英語
+
+| 種別  | 講座名            | 年度          |
+| --- | -------------- | ----------- |
+| ラジオ | 英語             | 1953        |
+| ラジオ | 英語初級           | 1954 - 1958 |
+| ラジオ | 英語I            | 1959 - 1962 |
+| ラジオ | 英語II           | 1960 - 1963 |
+| ラジオ | 英語A1           | 1963 - 1981 |
+| テレビ | 英語A1           | 1963 - 1981 |
+| テレビ | 英語A2           | 1964 - 1981 |
+| ラジオ | 英語A2           | 1964 - 1982 |
+| テレビ | 英語A3           | 1965 - 1975 |
+| ラジオ | 英語A3           | 1965 - 1983 |
+| テレビ | 英語I            | 1982 - 2012 |
+| ラジオ | 英語II           | 1983 - 2013 |
+| ラジオ | オーラルコミュニケーションA | 1994 - 2003 |
+| ラジオ | オーラルコミュニケーションI | 2003 - 2013 |
+| テレビ | ベーシック英語        | 2012 - 2016 |
+| テレビ | コミュニケーション英語I   | 2013 - 2016 |
+| ラジオ | 英語表現I          | 2014 - 2016 |
+| ラジオ | コミュニケーション英語II  | 2014 - 2016 |
+| ラジオ | コミュニケーション英語III | 2015 - 2016 |
+
+| 種別  | 講座名    | 年度          |
+| --- | ------ | ----------- |
+| ラジオ | 英語上級   | 1954 - 1961 |
+| テレビ | 英文法    | 1959 - 1962 |
+| テレビ | 英作文    | 1959 - 1962 |
+| テレビ | 英文解釈   | 1959 - 1963 |
+| ラジオ | 英作文    | 1962        |
+| テレビ | 英語総合研究 | 1962 - 1964 |
+| テレビ | 英語演習   | 1963        |
+
+上級・実力養成
+
+### 家庭
+
+| 種別  | 講座名         | 年度          |
+| --- | ----------- | ----------- |
+| テレビ | 家庭一般        | 1963 - 1972 |
+| ラジオ | 家庭一般        | 1963 - 1981 |
+| ラジオ | 食物I         | 1966 - 1972 |
+| ラジオ | 家庭経営        | 1968 - 1972 |
+| ラジオ | 被服I         | 1968 - 1972 |
+| テレビ | 被服I         | 1968 - 1972 |
+| テレビ | おとことおんなの生活学 | 1994 - 2002 |
+| テレビ | 家庭総合        | 2003 - 2016 |
+
+### 情報
+
+| 種別  | 講座名                                                         | 年度          |
+| --- | ----------------------------------------------------------- | ----------- |
+| テレビ | [情報A](https://ja.wikipedia.org/wiki/NHK高校講座_情報A "wikilink") | 2003 - 2013 |
+| テレビ | 社会と情報                                                       | 2013 - 2016 |
+
+### その他
+
+| 種別  | 講座名  | 年度          |
+| --- | ---- | ----------- |
+| ラジオ | 農業経営 | 1966 - 1972 |
+
+農業
+
+| 種別  | 講座名  | 年度          |
+| --- | ---- | ----------- |
+| テレビ | 機械製図 | 1960        |
+| テレビ | 電気一般 | 1960 - 1972 |
+
+工業
+
+| 種別  | 講座名    | 年度          |
+| --- | ------ | ----------- |
+| ラジオ | 商業一般   | 1966 - 1972 |
+| テレビ | 商業簿記   | 1966 - 1972 |
+| テレビ | ビジネス基礎 | 2015 - 2016 |
+| テレビ | 簿記     | 2016        |
+
+商業
+
+| 種別  | 講座名       | 年度          |
+| --- | --------- | ----------- |
+| テレビ | 通信教育生の生活  | 1960 - 1962 |
+| ラジオ | 通信教育のしおり  | 1962 - 1964 |
+| ラジオ | 特別教育活動    | 1963 - 1972 |
+| テレビ | 特別教育活動    | 1963 - 1972 |
+| ラジオ | ホームルーム    | 1965 - 1967 |
+| ラジオ | 仕事の現場real | 2016        |
+
+特別活動
+
+| 種別  | 講座名       | 年度          |
+| --- | --------- | ----------- |
+| テレビ | ストレッチマン・V | 2013 - 2018 |
+
+自立活動
+
+## NHK高校講座ライブラリー
+
+2000年10月から「NHK高校講座ライブラリー」として、各年度の放送を10月スタート（半年遅れ）で再放送している。これは秋季に入学・進学する生徒が多い通信制や定時制の高校生へ向けての対策として行われている。
+
+放送機器のメンテナンス（保守）期間（通常は9-10月と2-3月のそれぞれ特定の2週間）があるときは休止。また放送ストックの調整の関係で、年末年始の特別編成期間\[12\]、および教育テレビでは3月一杯と7月下旬から8月中旬、ラジオ第2では8月中旬からメンテナンス期間である10月上旬の一定期間も放送休止となり、この間の1日の放送終了も早まる。（この期間中、教育テレビでは24時間放送が実施されていたころは代わりに[映像散歩](https://ja.wikipedia.org/wiki/映像散歩 "wikilink")が放送されたが、後に放送休止枠（[テストパターンなど](https://ja.wikipedia.org/wiki/テストパターン_\(放送\) "wikilink")）になっている。）
+
+2012年4月からは、テレビ放送のみ、本放送と同時間帯での[マルチ編成](https://ja.wikipedia.org/wiki/マルチ編成 "wikilink")とし**Eテレ3**（023ch、教育テレビのサブチャンネル3）にて放送されるようになった（これによりEテレの通常の放送時間も原則として1:25までに終了する形となった）。ラジオ放送は従来通り深夜帯である。
+
+### 教育テレビ
+
+  -
+    2006年度までは日曜深夜（月曜未明）除く毎夜2本分ずつ行われたが、2007年度からは月曜から木曜の週4日（3本ずつ）になる。金曜・土曜の放送がなくなるため、教育テレビの放送そのものも短縮となる。2012年からは完全デジタル化のための深夜放送短縮処置に伴い、日中のマルチ編成に時間帯を変更し、金曜の放送が5年ぶりに再開された。（[後述参照](https://ja.wikipedia.org/wiki/#放送時間短縮との関連 "wikilink")）
+
+<!-- end list -->
+
+  - 月曜、水曜、木曜　14:00 - 15:00（3本分）
+  - 火曜　14:00 - 15:00（4本分）
+  - 金曜　14:00 - 15:30（4本分）
+      - 月曜:化学基礎、物理基礎、地学基礎
+      - 火曜:ベーシック数学、数学I、ベーシック英語、英語I
+      - 水曜:ベーシック国語、日本史、科学と人間生活
+      - 木曜:地理、世界史、生物
+      - 金曜:社会と情報、芸術（美術・書道）、家庭総合、情報A
+
+### ラジオ第2放送
+
+  -
+    2000年の開始当初から2007年3月までは、多くの中波放送送信所が放送設備点検を行う日曜・月曜の深夜（月曜・火曜未明）は行わず、火曜-土曜深夜（水曜-日曜未明）に1日当たり5本（火曜日は4本で、25:20-35は[日本語センター制作の話し言葉講座の番組だった](https://ja.wikipedia.org/wiki/NHK放送研修センター・日本語センター "wikilink")）を放送したが、2007年4月から原則として1日3本分を24:00-25:00（日曜・月曜深夜は24:40までで2本）とするスタイルを定着させるようになった。
+
+    その後2007年10月-2009年3月までは火曜-金曜が3本分、土曜-次週月曜までが2本分、2009年4月以後は水曜・木曜が2本分、他の曜日が3本分（1週間全体では19枠）という体裁となった。2010年4月からは定時放送の終了時間繰り上がりのため、最初の番組は日付変更20分前の23:40開始となったが、[2017年](../Page/2017年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より再び深夜1:00終了に戻ったため、日付が変わった0:00-1:00に放送時間が戻った。（従前どおり日曜日付けは除く）
+
+    2013年10月から実施するライブラリーの放送では、日曜日\[13\]の放送が廃止され、その分水曜・木曜の放送も3本分の編成（1週間全体では18枠で1枠削減）に変更した。
+
+  - 2013年9月まで（2012年度放送分まで）
+
+<!-- end list -->
+
+  - 月 - 火、金 - 日曜深夜　23:40 - 0:40（3本分）
+  - 水 - 木曜深夜　23:40 - 0:20（2本分）
+      - 月曜・火曜:現代文、現代社会、英語II
+      - 水曜・木曜:保健体育、数学II
+      - 金曜:古典、倫理、国語総合
+      - 土曜:古典、政治経済、国語総合
+      - 日曜:オーラルI、音楽I、国語表現I
+
+<!-- end list -->
+
+  - 2013年10月以後（2013年度放送分以後）
+
+<!-- end list -->
+
+  - 月-土曜深夜23:40-0:40（3本分）
+      - 月曜:現代文、現代社会、英語II
+      - 火曜:現代文、オーラルコミュニケーションⅠ、英語Ⅱ
+      - 水曜:保健体育、数学Ⅱ、国語表現Ⅰ
+      - 木曜:保健体育、数学Ⅱ、音楽Ⅰ
+      - 金曜:古典、倫理、国語総合
+      - 土曜:古典、政治経済、国語総合
+    <!-- end list -->
+      -
+        **※日曜日のライブラリー放送廃止。**
+
+### 放送早見表
+
+  - Eテレ3（023ch）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>月</p></th>
+<th><p>火</p></th>
+<th><p>時間</p></th>
+<th><p>水</p></th>
+<th><p>木</p></th>
+<th><p>金</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>科学と人間生活<br />
+社会と情報</p></td>
+<td><p>日本史</p></td>
+<td><p>14:00-14:10</p></td>
+<td><p>ベーシック数学</p></td>
+<td><p>ベーシック国語</p></td>
+<td><p>化学基礎</p></td>
+</tr>
+<tr class="even">
+<td><p>14:10-14:20</p></td>
+<td><p>数学I</p></td>
+<td><p>国語表現</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>芸術</p></td>
+<td><p>世界史</p></td>
+<td><p>14:20-14:30</p></td>
+<td><p>物理基礎</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>14:30-14:40</p></td>
+<td><p>ベーシック英語</p></td>
+<td><p>ロンリのちから</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>家庭総合</p></td>
+<td><p>地理</p></td>
+<td><p>14:40-14:50</p></td>
+<td><p>コミュニケーション<br />
+英語I</p></td>
+<td><p>生物基礎</p></td>
+<td><p>地学基礎</p></td>
+</tr>
+<tr class="even">
+<td><p>14:50-15:00</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - ラジオ第2
+
+| 月    | 火               | 水     | 時間          | 木    | 金    | 土     |
+| ---- | --------------- | ----- | ----------- | ---- | ---- | ----- |
+| 現代文  | 現代文             | 保健体育  | 23:40-24:00 | 保健体育 | 古典   | 古典    |
+| 現代社会 | オーラル・コミュニケーションI | 数学II  | 24:00-24:20 | 数学II | 倫理   | 政治・経済 |
+| 英語II | 英語II            | 国語表現I | 24:20-24:40 | 音楽I  | 国語総合 | 国語総合  |
+
+### 放送時間短縮との関連
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月、当時NHK会長だった[福地茂雄](https://ja.wikipedia.org/wiki/福地茂雄 "wikilink")は定例会見で、環境問題に配慮して教育テレビの更なる放送時間短縮を検討していることを明言した。4月の段階で既に二酸化炭素排出量削減を目的として実施することを番組で明らかにしていた。
+
+それに呼応するかのように、番組のサイトで一般向けにも放送内容のストリーミング配信を行っている（著作権の関係で一部は改変）。午前の学校放送もデジタルコンテンツ化の影響により放送時間が削減されたことから、2007年度分の放送（2008年9月までで終了）を以ってライブラリー終了になるのではとの見方もあったが、2008年10月以降も経過措置として放送を継続していた。
+
+しかしNHKは、テレビデジタル化によるメディア体系・コンテンツ提供手段の抜本的見直しを打ち出しており、“[NHKオンライン](https://ja.wikipedia.org/wiki/NHKオンライン "wikilink")”や“[NHKオンデマンド](https://ja.wikipedia.org/wiki/NHKオンデマンド "wikilink")”などによるストリーミング配信を更に強化。ワンセグ放送対応の第三世代携帯電話が徐々に普及していることを受け、ワンセグ放送による独自番組としての提供も選択肢となっており、打ち切りの可能性が消えたわけではなかった。
+
+  - 実際に、『[ベーシック10](https://ja.wikipedia.org/wiki/NHK高校講座ベーシック10 "wikilink")』については、デジタル12セグ・アナログではなく、“NHK[ワンセグ2](https://ja.wikipedia.org/wiki/ワンセグ2 "wikilink")”でのアンコール放送となった。
+  - 小学校向けの『[学校デジタルライブラリー](https://ja.wikipedia.org/wiki/学校デジタルライブラリー "wikilink")』は、時間短縮のあおりで教育テレビでの放送が2008年9月で終わっている。BS 2での放送は継続されていた。
+
+そして地上テレビのアナログ放送完全終了に伴い、2012年度改編で遂にテレビの深夜放送は打ち切られ、デジタル放送における本枠をマルチ編成化して12セグデジタルマルチ3チャンネル（デジタル023）における放送へ完全に移行した（基本的に14時台、木曜と金曜は15時台前半も。なおラジオ第2は従来どおり23:40-24:40で維持する）。なお、2011年度はそのテストとして1日の放送開始直後にマルチ編成を利用した裏放送が行われた。ネット利用拡大についても引き続き検討を進める。
+
+  - NHKでは3大都市圏以外でもデジタル放送の深夜完全停波実施を検討しており、その場合連日少なくとも3時間は電波が出ない時間帯が発生することとなり、その分の電力消費が抑えられる計算となる。なおアナログ放送については大半の局で深夜完全停波を実施していた。
+
+## 高校講座オリエンテーション
+
+2007年度から高校講座とホームページの活用法について紹介する番組**「高校講座オリエンテーション」**が放送されている。通信制高校についてや番組の内容などを紹介する。
+
+### 出演者（講師を除く）
+
+#### 2007年度
+
+  - ナビゲーター:[村井美樹](https://ja.wikipedia.org/wiki/村井美樹 "wikilink")（美術）
+
+#### 2008年度
+
+3月24日
+
+  - 司会:[鈴木コウタ](https://ja.wikipedia.org/wiki/鈴木コウタ "wikilink")（家庭総合）、[高松知美](https://ja.wikipedia.org/wiki/高松知美 "wikilink")（理科総合A・B）
+  - アシスタント:[池田純](https://ja.wikipedia.org/wiki/池田純矢 "wikilink")（家庭総合）
+  - 出演:[鈴木あきえ](https://ja.wikipedia.org/wiki/鈴木あきえ "wikilink")（化学）、[寺田ちひろ](https://ja.wikipedia.org/wiki/寺田ちひろ "wikilink")（世界史）、[虎南有香](https://ja.wikipedia.org/wiki/虎南有香 "wikilink")（家庭総合）
+
+#### 2009年度
+
+3月27日
+
+  - 司会:[鈴木コウタ](https://ja.wikipedia.org/wiki/鈴木コウタ "wikilink")（家庭総合）
+  - マスコットキャラ:チャレベー
+  - 出演:[桐島里菜](https://ja.wikipedia.org/wiki/桐島里菜 "wikilink")（日本史）、[義達祐未](https://ja.wikipedia.org/wiki/義達祐未 "wikilink")（物理）、[大澤亜希子](https://ja.wikipedia.org/wiki/大澤亜希子 "wikilink")（地学）
+
+4月10日・4月17日
+
+  - 司会:[山田五郎](https://ja.wikipedia.org/wiki/山田五郎 "wikilink")、[林家きく姫](https://ja.wikipedia.org/wiki/林家きく姫 "wikilink")
+  - 出演:[河合優](https://ja.wikipedia.org/wiki/河合優 "wikilink")（情報A）
+
+#### 2010年度
+
+4月1日・4月2日・4月9日・4月16日
+
+  - 出演:[大沢あかね](https://ja.wikipedia.org/wiki/大沢あかね "wikilink")、[麻里奈](https://ja.wikipedia.org/wiki/麻里奈 "wikilink")（理科総合A）
+
+#### 2011年度
+
+3月30日・4月1日・4月15日
+
+  - 司会:[サンドウィッチマン](https://ja.wikipedia.org/wiki/サンドウィッチマン_\(お笑いコンビ\) "wikilink")（地理）
+  - 出演：[千原せいじ](https://ja.wikipedia.org/wiki/千原せいじ "wikilink")（家庭総合）、[ハマカーン](https://ja.wikipedia.org/wiki/ハマカーン "wikilink")（生物）、[蒼あんな](https://ja.wikipedia.org/wiki/蒼あんな・れいな "wikilink")（ベーシック数学）、[蒼れいな](https://ja.wikipedia.org/wiki/蒼あんな・れいな "wikilink")（ベーシック数学）、[大輪教授](https://ja.wikipedia.org/wiki/大輪教授 "wikilink")（ベーシック数学）、[鈴木ちなみ](https://ja.wikipedia.org/wiki/鈴木ちなみ "wikilink")（生物）、[今野美里](https://ja.wikipedia.org/wiki/今野美里 "wikilink")（地理）、五百旗頭沙希（家庭総合）、[安倍龍太郎](https://ja.wikipedia.org/wiki/安倍龍太郎_\(タレント\) "wikilink")（家庭総合）
+
+#### 2012年度
+
+3月27日・3月28日・3月29日・4月3日・4月5日・4月6日・4月12日・4月13日
+
+  - 司会:[アンガールズ](https://ja.wikipedia.org/wiki/アンガールズ "wikilink")（科学と人間生活）
+  - 出演・ナレーション：[日笠陽子](https://ja.wikipedia.org/wiki/日笠陽子 "wikilink")（書道）
+
+#### 2013年度
+
+3月27日・4月1日・4月10日
+
+  - 司会:[ハマカーン](https://ja.wikipedia.org/wiki/ハマカーン "wikilink")（生物）
+
+#### 2014年度
+
+3月26日・3月31日・4月1日・4月10日
+
+  - 司会:[かもめんたる](https://ja.wikipedia.org/wiki/かもめんたる "wikilink")（国語表現）
+  - 出演：土保瑞希（[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")）※当時、[向井地美音](https://ja.wikipedia.org/wiki/向井地美音 "wikilink")（AKB48）、[込山榛香](https://ja.wikipedia.org/wiki/込山榛香 "wikilink")（AKB48）（日本史）
+
+#### 2015年度
+
+3月25日・4月10日
+
+  - 出演:[けみお](https://ja.wikipedia.org/wiki/けみお "wikilink")（ベーシック数学）、佐藤優津季（国語表現）、清水せれな（書道I）、大塚麻美、永井美夕
+
+#### 2016年度
+
+##### 高校講座 オリエンテーション2016
+
+3月31日・4月4日・4月8日
+
+  - 出演:[渡辺直美](https://ja.wikipedia.org/wiki/渡辺直美 "wikilink")（ベーシック英語）、[中岡創一](https://ja.wikipedia.org/wiki/中岡創一 "wikilink")（[ロッチ](https://ja.wikipedia.org/wiki/ロッチ "wikilink")）（体を動かすTV）、[Cupitron](https://ja.wikipedia.org/wiki/Cupitron "wikilink")（ベーシックサイエンス）
+
+##### 高校講座 学び方ガイド
+
+3月31日・4月8日
+
+  - 出演:[田畑藤本](https://ja.wikipedia.org/wiki/田畑藤本 "wikilink")（ベーシックサイエンス）、[Cupitron](https://ja.wikipedia.org/wiki/Cupitron "wikilink")（ベーシックサイエンス）
+
+#### 2017年度
+
+##### いつでもどこでも高校講座2017
+
+3月27日・4月3日・4月7日
+
+  - 出演:[トレンディエンジェル](https://ja.wikipedia.org/wiki/トレンディエンジェル "wikilink")（コミュニケーション英語I）
+
+##### いつでもどこでも高校講座2017「NHK高校講座学び方ガイド」
+
+3月27日・4月7日
+
+  - 出演:[春名風花](https://ja.wikipedia.org/wiki/春名風花 "wikilink")（国語総合）
+
+#### 2018年度
+
+##### いつでもどこでも高校講座2018
+
+3月30日・4月2日・4月6日
+
+  - 出演:[石原良純](../Page/石原良純.md "wikilink")（地理）・[足立佳奈](https://ja.wikipedia.org/wiki/足立佳奈 "wikilink")（国語表現）
+
+##### いつでもどこでも高校講座2018「NHK高校講座学び方ガイド」
+
+3月30日・4月6日
+
+  - 出演：石原良純（地理）
+
+#### 2019年度
+
+##### いつでもどこでも高校講座2019
+
+3月26日・4月5日
+
+  - 出演:[佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")（地学基礎）・[緑川光](https://ja.wikipedia.org/wiki/緑川光 "wikilink")\[14\]（社会と情報）
+
+##### NHK高校講座学び方ガイド「NHK高校講座のウワサに迫る\!\!」
+
+3月26日・4月5日
+
+  - 出演:[関暁夫](https://ja.wikipedia.org/wiki/関暁夫 "wikilink")
+  - ナレーション:緑川光（社会と情報）
+
+## 過去番組
+
+  - 番組枠
+      - [高等学校の時間](https://ja.wikipedia.org/wiki/高等学校の時間 "wikilink")（1951年度 - 1996年度）
+      - [定時制高校の時間](https://ja.wikipedia.org/wiki/定時制高校の時間 "wikilink")（1960年度 - 1988年度）
+      - [高等学校特別シリーズ](https://ja.wikipedia.org/wiki/高等学校特別シリーズ "wikilink")（1981年度 - 1989年度）
+      - [ステップ&ジャンプ](https://ja.wikipedia.org/wiki/ステップ&ジャンプ "wikilink")（1990年度 - 1996年度）
+      - [スクール五輪の書](https://ja.wikipedia.org/wiki/スクール五輪の書 "wikilink")（1997年度 - 1999年度）
+      - [ティーンズTV](https://ja.wikipedia.org/wiki/ティーンズTV "wikilink")（2000年度 - 2007年度）
+  - NHK高校講座 関連番組
+      - [NHK高校講座2.0](https://ja.wikipedia.org/wiki/NHK高校講座2.0 "wikilink")（2007年度 - 2009年度）
+      - [NHK高校講座 ベーシック10](https://ja.wikipedia.org/wiki/NHK高校講座_ベーシック10 "wikilink")（2009年度 - 2011年度）
+
+## 脚注
+
+<references />
+
+## 関連項目
+
+  - [学校放送](https://ja.wikipedia.org/wiki/学校放送 "wikilink")
+  - [10min.ボックス](https://ja.wikipedia.org/wiki/10min.ボックス "wikilink")
+  - [アクティブ10](https://ja.wikipedia.org/wiki/アクティブ10 "wikilink")
+  - [NHK for School](https://ja.wikipedia.org/wiki/NHK_for_School "wikilink")
+  - [日本放送協会学園高等学校](https://ja.wikipedia.org/wiki/日本放送協会学園高等学校 "wikilink")
+  - [NHK全国学校音楽コンクール](https://ja.wikipedia.org/wiki/NHK全国学校音楽コンクール "wikilink")
+  - [NHK杯全国高校放送コンテスト](https://ja.wikipedia.org/wiki/NHK杯全国高校放送コンテスト "wikilink")
+
+## 外部リンク
+
+  - [NHK高校講座](http://www.nhk.or.jp/kokokoza/)
+
+[Category:NHK高校講座](https://ja.wikipedia.org/wiki/Category:NHK高校講座 "wikilink") [Category:NHK教育テレビジョンの帯番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの帯番組 "wikilink") [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:サンドウィッチマン](https://ja.wikipedia.org/wiki/Category:サンドウィッチマン "wikilink") [Category:NHKラジオ第2の帯番組](https://ja.wikipedia.org/wiki/Category:NHKラジオ第2の帯番組 "wikilink") [Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+
+1.  [高校講座 オリエンテーション2019](http://www.nhk.or.jp/kokokoza/tv/sp_orien/) - 公式サイト
+2.  [出演者紹介](http://www.nhk.or.jp/kokokoza/tv/nihonshi/intro.html) - 公式サイト
+3.
+4.  [声のみの出演](../Page/声優.md "wikilink")
+5.  [4月18日（木）～ＮＨＫ Eテレ（教育テレビ）高校講座 「社会と情報 」 に柿崎芽実と松田好花のレギュラー出演が決定！](https://www.hinatazaka46.com/s/official/news/detail/M00036?ima=0000) - 日向坂46公式サイト、2019年3月19日
+6.
+7.  2019年8月11日に卒業した為降板。番組内では柿崎が日向坂46の卒業に関して触れなかった。
+8.
+9.  [「NHK高校講座」で簿記の講座がスタート](https://www.kentei.ne.jp/11998) - 日本商工会議所
+10. [世界一わかりやすい簿記講座をつくる](https://www.kentei.ne.jp/interview/13637) - 日本商工会議所
+11. 翌年度以降も表記を変更せずに再放送
+12. 但し、ラジオ第2放送については2012年12月24日-2013年1月6日まで、新学習指導要領のカリキュラムによる「数学II」の年末年始集中講義（第1-56回分を連日23:40-25:40。12月31日-1月3日は休止、1月5・6日については5日は23:55-25:15、6日は23:40-25:00）を行う。[詳細ページ](http://www.nhk.or.jp/kokokoza/2012_kikan_suugaku2.pdf)
+13. [英会話タイムトライアル](https://ja.wikipedia.org/wiki/英会話タイムトライアル "wikilink")の再放送がこれまでの20分から50分に拡大になったため（2013年4-9月までは「対話カラオケ編」＜木・金曜分＞のみだったが、2013年10月以後は「SPR編」＜月-水曜分＞も含めた5日分全部再放送されることになった）
+14. ナレーションも兼務

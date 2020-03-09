@@ -1,0 +1,1061 @@
+> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+
+
+<div class="pathnavbox">
+
+  -
+  -
+
+</div>
+
+**JR神戸線**（ジェイアールこうべせん）は、[西日本旅客鉄道](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")（JR西日本）[東海道本線](https://ja.wikipedia.org/wiki/東海道本線 "wikilink")のうち、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[北区の](https://ja.wikipedia.org/wiki/北区_\(大阪市\) "wikilink")[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")から[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[中央区の](https://ja.wikipedia.org/wiki/中央区_\(神戸市\) "wikilink")[神戸駅までの区間](https://ja.wikipedia.org/wiki/神戸駅_\(兵庫県\) "wikilink")、および[山陽本線](https://ja.wikipedia.org/wiki/山陽本線 "wikilink")のうち、神戸駅から兵庫県[姫路市](https://ja.wikipedia.org/wiki/姫路市 "wikilink")の[姫路駅](https://ja.wikipedia.org/wiki/姫路駅 "wikilink")までの区間に付けられた[愛称である](https://ja.wikipedia.org/wiki/鉄道路線の名称#路線の系統名称・愛称 "wikilink")。
+
+この愛称は[1988年](../Page/1988年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")から使用されている。大阪市 - 神戸市間には[阪急電鉄](../Page/阪急電鉄.md "wikilink")の[神戸線や](https://ja.wikipedia.org/wiki/阪急神戸本線 "wikilink")[阪神高速道路神戸線もあり](https://ja.wikipedia.org/wiki/阪神高速3号神戸線 "wikilink")、愛称に「JR」と付けてこれらと区別している。
+
+## 概要
+
+JR西日本の[アーバンネットワーク](../Page/アーバンネットワーク.md "wikilink")（京阪神エリア）の路線の一つであり、[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")と、[神戸市](../Page/神戸市.md "wikilink")・[明石市](https://ja.wikipedia.org/wiki/明石市 "wikilink")・[姫路市](https://ja.wikipedia.org/wiki/姫路市 "wikilink")などの兵庫県内の[瀬戸内海](https://ja.wikipedia.org/wiki/瀬戸内海 "wikilink")沿いの各都市とを結ぶ。ラインカラーは**青**（）であり、[JR京都線](https://ja.wikipedia.org/wiki/JR京都線 "wikilink")ともどもアーバンネットワークのメインラインという位置づけから、JR西日本のコーポレートカラーがそのままラインカラーとして使われている。路線記号は''' A '''\[1\]。[神戸駅を境に東側が東海道本線](https://ja.wikipedia.org/wiki/神戸駅_\(兵庫県\) "wikilink")、西側が山陽本線と異なってはいるが、当区間は途切れることなく一体的な運行がなされている。また、多くの列車が[JR京都線](https://ja.wikipedia.org/wiki/JR京都線 "wikilink")・[琵琶湖線](https://ja.wikipedia.org/wiki/琵琶湖線 "wikilink")・[湖西線](../Page/湖西線.md "wikilink")に直通運転を行なっている。
+
+[新快速](../Page/新快速.md "wikilink")は大阪駅 - [三ノ宮駅](https://ja.wikipedia.org/wiki/三ノ宮駅 "wikilink")間30.6kmを最短20分、大阪駅 - 姫路駅間87.9kmを最短60分で結ぶ。並行する私鉄各社から利用客を獲得すべく、[乗車券](../Page/乗車券.md "wikilink")のみで利用できる新快速が高速・高頻度運転を行っている。大阪駅（[大阪梅田駅](https://ja.wikipedia.org/wiki/梅田駅 "wikilink")） - 三ノ宮駅（[神戸三宮駅](https://ja.wikipedia.org/wiki/三宮駅 "wikilink")）間では[阪急神戸本線](https://ja.wikipedia.org/wiki/阪急神戸本線 "wikilink")と[阪神本線](../Page/阪神本線.md "wikilink")、三ノ宮駅 - 姫路駅間では[阪急神戸高速線](https://ja.wikipedia.org/wiki/阪急神戸高速線 "wikilink")・[阪神神戸高速線](https://ja.wikipedia.org/wiki/阪神神戸高速線 "wikilink")・[山陽電鉄本線の私鉄各線と競合している](https://ja.wikipedia.org/wiki/山陽電気鉄道本線 "wikilink")。運賃は私鉄の方が安いが、所要時間ではJRのほうが短い。大阪駅 - [元町駅間は](https://ja.wikipedia.org/wiki/元町駅_\(兵庫県\) "wikilink")[回数券や乗車券の区間分割購入により](https://ja.wikipedia.org/wiki/回数乗車券 "wikilink")、並行する私鉄利用と差のない運賃となる。
+
+全区間が[近畿統括本部の管轄であり](https://ja.wikipedia.org/wiki/西日本旅客鉄道近畿統括本部 "wikilink")、[旅客営業規則](https://ja.wikipedia.org/wiki/旅客営業規則 "wikilink")の定める「[大阪近郊区間](https://ja.wikipedia.org/wiki/大都市近郊区間_\(JR\) "wikilink")」、および[IC](../Page/ICカード.md "wikilink")[乗車カード](../Page/乗車カード.md "wikilink")「[ICOCA](../Page/ICOCA.md "wikilink")」のエリアに含まれている\[2\]。このうち大阪駅 - [西明石駅](https://ja.wikipedia.org/wiki/西明石駅 "wikilink")間は[電車特定区間](https://ja.wikipedia.org/wiki/電車特定区間 "wikilink")に含まれており、区間外より割安な旅客運賃が適用される。
+
+### 路線データ
+
+[LineMap_OsakaKobe.png](https://ja.wikipedia.org/wiki/File:LineMap_OsakaKobe.png "fig:LineMap_OsakaKobe.png") JR神戸線としてのもの。
+
+  - 管轄・路線距離（[営業キロ](https://ja.wikipedia.org/wiki/営業キロ "wikilink")）：全長87.9 km
+      - 西日本旅客鉄道（[第一種鉄道事業者](https://ja.wikipedia.org/wiki/鉄道事業者#第一種鉄道事業者 "wikilink")）：
+          - 大阪駅 - 姫路駅間 87.9 km
+      - [日本貨物鉄道](https://ja.wikipedia.org/wiki/日本貨物鉄道 "wikilink")（[第二種鉄道事業者](https://ja.wikipedia.org/wiki/鉄道事業者#第二種鉄道事業者 "wikilink")）：
+          - 尼崎駅 - 姫路駅間 (80.2 km)
+              - 尼崎駅以東は[北方貨物線](https://ja.wikipedia.org/wiki/北方貨物線 "wikilink")経由
+  - [軌間](../Page/軌間.md "wikilink")：1,067 mm
+  - 駅数：40（起終点駅・貨物駅含む）
+  - 複線区間：
+      - 複々線：大阪駅 - 西明石駅間
+      - 複線：西明石駅 - 姫路駅間
+  - 電化区間：全線電化（直流1500 V）
+  - [閉塞方式](https://ja.wikipedia.org/wiki/閉塞_\(鉄道\) "wikilink")：複線自動閉塞式
+  - 保安装置：[ATS-P](https://ja.wikipedia.org/wiki/自動列車停止装置#拠点P "wikilink")（拠点P方式）および[ATS-SW](https://ja.wikipedia.org/wiki/自動列車停止装置#ATS-S改良形（ATS-Sx形） "wikilink")
+  - [運転指令所](https://ja.wikipedia.org/wiki/運転指令所 "wikilink")：[大阪総合指令所](https://ja.wikipedia.org/wiki/大阪総合指令所 "wikilink")
+  - [列車運行管理システム](https://ja.wikipedia.org/wiki/列車運行管理システム "wikilink")：[JR京都・神戸線運行管理システム](https://ja.wikipedia.org/wiki/アーバンネットワーク運行管理システム "wikilink") (SUNTRAS)
+  - 最高速度：130 km/h
+
+## 沿線概況
+
+特に人口の多い京阪神周辺地区は、昔から「私鉄大国」といわれており、特に[東海道本線](https://ja.wikipedia.org/wiki/東海道本線 "wikilink")・[山陽本線](https://ja.wikipedia.org/wiki/山陽本線 "wikilink")（JR神戸線）では、[阪急電鉄](../Page/阪急電鉄.md "wikilink")・[阪神電気鉄道](../Page/阪神電気鉄道.md "wikilink")・[山陽電鉄などの並走する私鉄との激しい競争が繰り広げられている](https://ja.wikipedia.org/wiki/山陽電気鉄道 "wikilink")。
+
+  - [灘駅](https://ja.wikipedia.org/wiki/灘駅 "wikilink") - [元町駅間は](https://ja.wikipedia.org/wiki/元町駅_\(兵庫県\) "wikilink")、[阪急神戸本線](https://ja.wikipedia.org/wiki/阪急神戸本線 "wikilink")・[阪急神戸高速線](https://ja.wikipedia.org/wiki/阪急神戸高速線 "wikilink")と並走している。
+  - [須磨駅](https://ja.wikipedia.org/wiki/須磨駅 "wikilink") - [明石駅](https://ja.wikipedia.org/wiki/明石駅 "wikilink")間は、山陽電鉄本線と並走している。この区間にある明石駅・[垂水駅](https://ja.wikipedia.org/wiki/垂水駅 "wikilink")・[塩屋駅は](https://ja.wikipedia.org/wiki/塩屋駅_\(兵庫県\) "wikilink")、それぞれ山陽電鉄の[山陽明石駅](https://ja.wikipedia.org/wiki/山陽明石駅 "wikilink")・[山陽垂水駅](https://ja.wikipedia.org/wiki/山陽垂水駅 "wikilink")・[山陽塩屋駅](https://ja.wikipedia.org/wiki/山陽塩屋駅 "wikilink")と隣接している。明石駅のホームは、山陽明石駅のホームと隣同士にある。
+
+大阪駅 - 兵庫駅間は[方向別複々線](https://ja.wikipedia.org/wiki/複々線#方向別複々線 "wikilink")（外側線・内側線）、新長田駅 - 西明石駅間は[線路別複々線](https://ja.wikipedia.org/wiki/複々線#線路別複々線 "wikilink")（[列車線](https://ja.wikipedia.org/wiki/列車線 "wikilink")・[電車線](https://ja.wikipedia.org/wiki/電車線 "wikilink")）で、兵庫駅 - 新長田駅間で電車線（内側線）と列車線下り線（外側線）が立体交差する。新長田駅 - 朝霧駅間の列車線にはホームがない。西明石駅 - 姫路駅間は[複線](https://ja.wikipedia.org/wiki/複線 "wikilink")となっている。基本的に、複々線区間では内側線および電車線は[快速](../Page/快速列車.md "wikilink")・[普通](../Page/普通列車.md "wikilink")、外側線および列車線は朝夕の快速・新快速・[特急](https://ja.wikipedia.org/wiki/特別急行列車 "wikilink")・[貨物列車](https://ja.wikipedia.org/wiki/貨物列車 "wikilink")などが走行している。
+
+[須磨駅](https://ja.wikipedia.org/wiki/須磨駅 "wikilink") - [朝霧駅](https://ja.wikipedia.org/wiki/朝霧駅 "wikilink")間は海岸近くを走っており、[大阪湾](../Page/大阪湾.md "wikilink")・[明石海峡大橋](https://ja.wikipedia.org/wiki/明石海峡大橋 "wikilink")・[淡路島](../Page/淡路島.md "wikilink")を車窓から望むことができる。
+
+[250px](https://ja.wikipedia.org/wiki/ファイル:JRW_series223_Kobe.jpg "wikilink")
+
+## 運行形態
+
+| 種別＼駅名   | 大阪     | …      | 尼崎 | … | 須磨 | … | 西明石 | … | 加古川 | … | 姫路 |
+| ------- | ------ | ------ | -- | - | -- | - | --- | - | --- | - | -- |
+| 特急      | 0-1本   |        |    |   |    |   |     |   |     |   |    |
+| 新快速     | 4本     |        |    |   |    |   |     |   |     |   |    |
+| 快速\[3\] | 2本     |        |    |   |    |   |     |   |     |   |    |
+| 2本      |        |        |    |   |    |   |     |   |     |   |    |
+| 2本      | JR宝塚線→ |        |    |   |    |   |     |   |     |   |    |
+| 丹波路快速   | 2本     | JR宝塚線→ |    |   |    |   |     |   |     |   |    |
+| 普通      | ←JR東西線 | 4本     |    |   |    |   |     |   |     |   |    |
+| 4本      |        |        |    |   |    |   |     |   |     |   |    |
+| 4本      | JR宝塚線→ |        |    |   |    |   |     |   |     |   |    |
+
+日中1時間あたりの運転本数
+（2017年4月15日現在）
+
+[琵琶湖線](https://ja.wikipedia.org/wiki/琵琶湖線 "wikilink")・[JR京都線](https://ja.wikipedia.org/wiki/JR京都線 "wikilink")と一体化した運転系統となっている。また、尼崎駅を介して[JR東西線](../Page/JR東西線.md "wikilink")・[福知山線](https://ja.wikipedia.org/wiki/福知山線 "wikilink")（JR宝塚線）と直通運転を行っている。乗車券のみで利用できる列車は停車駅の少ない順に[新快速](../Page/新快速.md "wikilink")・[快速](../Page/快速列車.md "wikilink")・普通（[緩行電車](https://ja.wikipedia.org/wiki/京阪神緩行線 "wikilink")\[4\]）の3種別が運行され、これらによるパターンダイヤが組まれている。昼間時間帯以降は普通のうち半数はJR東西線・[片町線](https://ja.wikipedia.org/wiki/片町線 "wikilink")（学研都市線）に乗り入れる。基本的には15分サイクルの運転で、22時（土曜・休日は21時）を過ぎると20分サイクルになる。朝ラッシュ時間帯は約8分サイクルの運転である。このほか、[北近畿](https://ja.wikipedia.org/wiki/北近畿 "wikilink")・[山陰方面への特急列車が運転されている](https://ja.wikipedia.org/wiki/山陰地方 "wikilink")。
+
+[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink") - [尼崎駅間ではJR宝塚線の](https://ja.wikipedia.org/wiki/尼崎駅_\(JR西日本\) "wikilink")[丹波路快速](https://ja.wikipedia.org/wiki/丹波路快速 "wikilink")・快速・普通も運転されている。これらの列車はJR京都線と直通する普通をのぞいて外側線を走行し[塚本駅](https://ja.wikipedia.org/wiki/塚本駅 "wikilink")を通過する（ただし土休日夜の新三田発大阪行き普通1本のみ塚本駅も停車する・2019年3月16日改正時点）。
+
+以下、特急以外で特記ないものは平日ダイヤで記述する。
+
+[700px](https://ja.wikipedia.org/wiki/ファイル:TokaidoLineStops_JRW_osaka2_20180317.svg "wikilink")
+
+### 優等列車
+
+関西から山陰方面への特急列車として、大阪から[播但線](https://ja.wikipedia.org/wiki/播但線 "wikilink")経由で浜坂・鳥取方面へ特急「[はまかぜ](https://ja.wikipedia.org/wiki/はまかぜ_\(列車\) "wikilink")」、京都から[智頭急行線経由で鳥取](https://ja.wikipedia.org/wiki/智頭急行智頭線 "wikilink")・倉吉方面へ「[スーパーはくと](https://ja.wikipedia.org/wiki/スーパーはくと "wikilink")」が運転されている。いずれも京都・大阪駅 - [姫路駅](https://ja.wikipedia.org/wiki/姫路駅 "wikilink")間では130km/h運転を行っている。このほか、通勤客向けの特急として朝と夜に「[らくラクはりま](https://ja.wikipedia.org/wiki/らくラクはりま "wikilink")」、夜行列車として東京と四国・山陰を結ぶ[寝台特急列車](../Page/寝台列車.md "wikilink")「[サンライズ瀬戸](https://ja.wikipedia.org/wiki/瀬戸_\(列車\) "wikilink")」「[サンライズ出雲](https://ja.wikipedia.org/wiki/出雲_\(列車\) "wikilink")」が運転されている。
+
+JR神戸線区間では「サンライズ瀬戸」「サンライズ出雲」は下りは姫路駅、上りは姫路駅・[三ノ宮駅](https://ja.wikipedia.org/wiki/三ノ宮駅 "wikilink")・大阪駅に停車する。「スーパーはくと」・「はまかぜ」・「らくラクはりま」は、大阪駅・三ノ宮駅・[明石駅](https://ja.wikipedia.org/wiki/明石駅 "wikilink")・姫路駅に全列車が停車し、「スーパーはくと」の一部と「はまかぜ」・「らくラクはりま」は[神戸駅](https://ja.wikipedia.org/wiki/神戸駅_\(兵庫県\) "wikilink")、「スーパーはくと」・「はまかぜ」の一部と「らくラクはりま」は[西明石駅](https://ja.wikipedia.org/wiki/西明石駅 "wikilink")・[加古川駅](https://ja.wikipedia.org/wiki/加古川駅 "wikilink")にも停車する。
+
+### 新快速
+
+特急列車をのぞけば最も停車駅の少ない速達列車で、JR神戸線内の停車駅は、大阪駅・尼崎駅・芦屋駅・三ノ宮駅・神戸駅・明石駅・西明石駅・加古川駅・姫路駅である。複々線区間では外側線・列車線を走行するが、快速から格上げされた下りの最終の新快速である深夜の[西明石行き](https://ja.wikipedia.org/wiki/西明石駅 "wikilink")1本だけは、[兵庫駅](https://ja.wikipedia.org/wiki/兵庫駅 "wikilink")から電車線を走行する。大半が[姫路駅](https://ja.wikipedia.org/wiki/姫路駅 "wikilink")までの運転であるが、朝晩などの一部の列車は姫路駅から各駅に停車して[赤穂線](https://ja.wikipedia.org/wiki/赤穂線 "wikilink")の[播州赤穂駅](https://ja.wikipedia.org/wiki/播州赤穂駅 "wikilink")や、[山陽本線](https://ja.wikipedia.org/wiki/山陽本線 "wikilink")の[網干駅](https://ja.wikipedia.org/wiki/網干駅 "wikilink")、[上郡駅](https://ja.wikipedia.org/wiki/上郡駅 "wikilink")まで乗り入れている。
+
+朝夕時間帯は本数が多くなり、夕方の17時台後半 - 19時台前半は大阪始発姫路方面行きの列車が設定されている。日中時間帯は大阪駅 - 姫路駅間で1時間に4本運転されており、この時間帯の下り列車は大阪駅を毎時00・15・30・45分の15分間隔で発車する。土曜・休日ダイヤでは15分間隔（夜は20 - 25分間隔）で運転されている。原則として加古川駅で快速と接続している。また、朝ラッシュ時は神戸駅で快速と接続しているが、階段での連絡となる。
+
+車両は全列車が[223系1000番台](https://ja.wikipedia.org/wiki/JR西日本223系電車#1000番台 "wikilink")・[2000番台および](https://ja.wikipedia.org/wiki/JR西日本223系電車#2000番台 "wikilink")[225系](https://ja.wikipedia.org/wiki/JR西日本225系電車 "wikilink")0番台・[100番台で運転されている](https://ja.wikipedia.org/wiki/JR西日本225系電車#100番台 "wikilink")。大阪駅 - 姫路駅間では土曜・休日は2011年3月12日のダイヤ改正から\[5\]、平日は夕方の大阪始発を除いて2017年3月4日のダイヤ改正から12両に統一されている\[6\]。播州赤穂駅・上郡駅発着の12両編成の列車については網干駅や姫路駅で[車両の連結・切り離し作業を行う](https://ja.wikipedia.org/wiki/増解結 "wikilink")。
+
+並行する私鉄路線に対抗するため、JR発足以降、JR京都線も含めてオール転換クロスシートのデラックスな設備を持つ[221系および](https://ja.wikipedia.org/wiki/JR西日本221系電車 "wikilink")223系1000番台・2000番台が充当され、車両性能の限界に近い、特に姫路駅 - 加古川駅間では特急より速い[表定速度](https://ja.wikipedia.org/wiki/表定速度 "wikilink")100km/hを超える高速運転を行っていた。[JR福知山線脱線事故](https://ja.wikipedia.org/wiki/JR福知山線脱線事故 "wikilink")に関連したアーバンネットワークの全体的なスピードダウンとなった[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月18日](../Page/3月18日.md "wikilink")のダイヤ改正で、大阪駅 - 三ノ宮駅間の所要時間は改正前19 - 22分が改正後20 - 24分にやや延びた\[7\]。それでも乗車券のみで利用できる列車としては速い部類に入る。ただし平日朝・夕ラッシュ時はやや変則的な運転体系になるために複線区間である西明石駅 - 姫路駅間での運転時分が若干伸びる。
+
+### 快速
+
+JR神戸線内の停車駅は、大阪駅・尼崎駅・西宮駅・芦屋駅・住吉駅・六甲道駅・三ノ宮駅・元町駅・神戸駅・兵庫駅・須磨駅・垂水駅・舞子駅と明石駅 - 加古川駅・姫路駅間の各駅である（後述する一部の列車を除く）。JR神戸線内では大阪駅 - 明石駅間で一部の駅を通過する運転を行うが、明石駅 - 加古川駅・姫路駅間では各駅に停車する「普通」として運転されており、網干駅・播州赤穂駅・上郡駅まで乗り入れる。京都方面行きはJR京都線の[高槻駅](https://ja.wikipedia.org/wiki/高槻駅 "wikilink")から「普通」に種別が変更される（早朝は[京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")まで快速運転）。JR東西線・学研都市線と直通する列車はない。
+
+大阪駅 - 西明石駅間では基本的に内側線・電車線を走行するが、朝ラッシュ時に運転されている大阪方面行きの快速は外側線・列車線を走行し、列車線にホームがない[舞子駅](https://ja.wikipedia.org/wiki/舞子駅 "wikilink")・[垂水駅](https://ja.wikipedia.org/wiki/垂水駅 "wikilink")・[須磨駅](https://ja.wikipedia.org/wiki/須磨駅 "wikilink")を通過する。また、平日朝ラッシュ時の姫路方面行きの快速は大阪駅 → 兵庫駅間で外側線を走行し、兵庫駅を過ぎて内側線に切り替わる。また、土曜・休日朝の大阪方面行きの快速電車が兵庫駅で外側線に移動し芦屋駅まで外側線を走行する。
+
+朝夕時間帯は本数が多くなる。朝ラッシュ時は加古川駅（対面）・神戸駅で新快速（階段連絡）、芦屋駅で普通と[相互に接続して神戸駅](https://ja.wikipedia.org/wiki/停車_\(鉄道\) "wikilink") → 大阪駅間で後続の新快速よりも先着する。また、御着駅と土山駅または東加古川駅または大久保駅で新快速の通過待ちをする。日中時間帯は1時間に4本（加古川駅 - 姫路駅・網干駅間は2本）運行されている。この時間帯の下り列車は大阪駅を毎時07・22・37・52分の15分間隔で発車する。大阪駅・芦屋駅・須磨駅で普通、加古川駅で新快速と相互に接続している。土曜・休日ダイヤでは朝の大阪行きをのぞいてすべて内側・電車線走行の15分間隔（夜は20分間隔）で運転されている。原則として尼崎駅でJR東西線 - JR宝塚線直通の快速と同じホームで相互に接続する。なお、加古川駅・神戸駅での新快速連絡および、御着駅・東加古川駅・土山駅・大久保駅での新快速通過待ちの場合は、ドア横のボタンで開閉する形をとっている。
+
+車両は221系電車と223系1000番台・2000番台と[6000番台](https://ja.wikipedia.org/wiki/JR西日本223系電車#6000番台 "wikilink")（[網干総合車両所](https://ja.wikipedia.org/wiki/網干総合車両所 "wikilink")所属車）および、[225系](https://ja.wikipedia.org/wiki/JR西日本225系電車 "wikilink")0番台・100番台が充当されている。平日朝ラッシュ時の大阪方面行きは外側線を走行し130km/h運転を行う関係上、一部をのぞき223系（6000番台をのぞく）・225系に統一されている。それ以外の時間帯の快速は使用車両を問わず最高速度120km/hである。
+
+姫路・加古川方面からの大阪方面への列車は始発駅から西明石駅到着まで車内では「**普通（西明石から快速）**」と表記・案内され、姫路駅 - 大久保駅間の各駅の[発車標](https://ja.wikipedia.org/wiki/発車標 "wikilink")および自動放送でも「**西明石から快速**」、この区間の駅の時刻表では三ノ宮・大阪方面は「**西明石まで各駅停車、西明石から快速**\[8\]」として案内されている。列車の種別幕は、加古川・姫路方面への列車は明石駅で「快速」から「普通」に変わるが、大阪方面への列車は西明石駅で「普通」から「快速」に変わる。
+
+[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")3月15日までは、日中時間帯の半数が西明石駅発着であり、2004年10月15日までは朝ラッシュ明け、2009年3月13日までは深夜にそれぞれ西明石行きの列車が設定されていた。2013年3月16日の改正で、平日の朝ラッシュ明けの快速1本が西明石行きに変更された。[2000年](../Page/2000年.md "wikilink")3月10日までは大阪方面から赤穂線[備前片上駅](https://ja.wikipedia.org/wiki/備前片上駅 "wikilink")まで運転する列車があった（姫路方面は外側線を運転）。2013年3月16日のダイヤ改正で夕方の新快速が増発されたことにより、この時間帯の外側線で運行する快速列車が廃止された。
+
+### 普通
+
+各駅に停車する種別である。ただし大阪駅 - 姫路駅間直通で各駅に停車する列車はなく、大阪駅 - 西明石駅・加古川駅間において[通勤形電車](https://ja.wikipedia.org/wiki/通勤形車両_\(鉄道\) "wikilink")（片側4ドア）によって運転される列車（緩行電車\[9\]）と、明石駅 - 姫路駅・網干駅間で[近郊形電車](https://ja.wikipedia.org/wiki/近郊形車両 "wikilink")（片側3ドア）によって運転されている列車の2種類がある。
+
+#### 大阪駅 - 西明石駅・加古川駅間
+
+内側線・電車線を走行し、尼崎駅 - 須磨駅・西明石駅間の列車の半数はJR東西線・学研都市線に乗り入れる。基本的に神戸方面からは西明石駅までの運転である。学研都市線内で区間快速として運転する西明石駅発着の列車も設定されている。この場合は西明石行きが京橋駅で、北新地・京橋・四条畷方面行きが尼崎駅で列車番号が変更になる。
+
+朝夕時間帯は本数が多くなる。毎日早朝5時台には神戸始発の系統が京都行き・西明石行きで運転されている。朝ラッシュ時の上りは加古川・大久保・神戸・[甲子園口](https://ja.wikipedia.org/wiki/甲子園口駅 "wikilink")・尼崎始発の系統が設定されている。芦屋駅で新快速・快速と相互に接続しており、神戸市内の各駅から大阪駅への速達性が図られている。尼崎始発の系統はJR東西線直通系統から接続している。
+
+日中時間帯は1時間に8本（須磨駅 - 西明石駅間は4本）が運転されている。日中はJR京都線直通系統が須磨駅で折り返すため、西明石駅発着の列車はJR東西線・学研都市線直通系統のみとなる。毎日夜間には甲子園口行きと神戸行きがそれぞれ1本ずつ設定されている。芦屋駅・須磨駅で快速と接続する電車と須磨駅・西明石駅で折り返す電車は、停車時間が長いためドア横のボタンで開閉する形をとっている。
+
+15分・20分サイクルの時間帯は尼崎駅でJR宝塚線・JR東西線直通列車同士が相互に接続している。土曜・休日ダイヤではほぼ終日約7分半間隔（夜は10分間隔）で運転されている。
+
+下り最終列車の京都発西明石行きの西明石駅到着時刻は1時38分であり、JR西日本の[京阪神エリアの路線で最も到着時刻が遅い](../Page/アーバンネットワーク.md "wikilink")。
+
+車両は[207系と](https://ja.wikipedia.org/wiki/JR西日本207系電車 "wikilink")[321系が使用されており](https://ja.wikipedia.org/wiki/JR西日本321系電車 "wikilink")、7両編成で運転されている。
+
+1972年3月15日のダイヤ改正で日中15分間隔の基本形が完成し、1時間あたり大阪駅 - 甲子園口駅間が8本、甲子園口駅 - 西明石駅間が4本であった。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に加古川駅発着の普通が設定され、本数は大阪駅 - 西明石駅間の直通が4本と甲子園口駅折り返しが2本で、加古川駅発着は朝ラッシュ時は2本、日中・夕方は1本で運行されていた。
+
+1986年11月1日に日中の神戸駅折り返し系統が設定され、阪神・淡路大震災を経て1996年7月20日に須磨駅折り返しに延長、明石海峡大橋開通を機に1998年10月3日に西明石駅発着に統一された。2006年3月17日までは毎日午前中に大久保駅発着の設定があった。2006年3月18日の改正では輸送実態に合わせたダイヤ見直しで大阪方面・京都駅発着系統が須磨駅折り返しに変更され、須磨駅 - 西明石駅間の1時間あたりの本数は8本から4本（JR東西線直通系統のみ乗り入れ）に変更された。2008年3月15日の改正で日中の大阪方面（京都駅発着）の半数の列車が西明石駅発着に変更され、西明石駅発着が6本、須磨駅折り返しが2本になった。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月13日](../Page/3月13日.md "wikilink")の改正で日中の半数の系統が須磨駅折り返しに戻され、この時間帯の運転系統が再編された。
+
+加古川駅発着列車は1991年3月16日に快速が加古川駅発着になったときに朝のみに縮小され、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")に5本に増発された。甲子園口駅発着の列車は、2007年8月27日から同駅の[バリアフリー](https://ja.wikipedia.org/wiki/バリアフリー "wikilink")化工事のため尼崎駅発着や芦屋発に変更され\[10\]、工事が終了した2009年3月14日のダイヤ改正で再び毎日早朝・深夜（深夜の列車は西明石行きから変更）に設定。2010年3月13日の改正では朝6時台と夜23時台（[宮原操車場](https://ja.wikipedia.org/wiki/宮原総合運転所#宮原操車場 "wikilink") - 甲子園口駅間は回送）に縮小された。
+
+##### 女性専用車
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>女性専用車</p></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>4</p></td>
+<td><p>5</p></td>
+<td><p>6</p></td>
+<td><p>7</p></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+大阪駅 - 西明石駅・加古川駅間を運転する普通のうち、207系の京都側から3両目と321系の5号車には、平日・休日にかかわらず毎日、始発から終電まで[女性専用車が設定されている](https://ja.wikipedia.org/wiki/女性専用車両 "wikilink")。乗車位置には女性専用車の案内が表示されている。なお、ダイヤが乱れた際は女性専用車の設定が解除されることがある。
+
+JR神戸線では2002年12月2日から女性専用車を導入し、始発から9時00分と17時00分から21時00分まで設定されていた\[11\]が、2011年4月18日からは平日・休日にかかわらず毎日、始発から終電まで女性専用車が設定されるようになった\[12\]。
+
+#### 明石駅 - 加古川駅・姫路駅間
+
+この区間では、大阪駅 - 明石駅間で快速として運行される列車が「普通」となり各駅に停車するのが基本であるが、朝晩や深夜には西明石駅 - 姫路駅間の普通も運転されている。この列車はJR神戸線では数少ない4両編成の列車も運転されている。
+
+2008年3月14日までは平日朝の西明石発加古川行きの普通に7両編成の設定があった。[2002年](../Page/2002年.md "wikilink")3月22日までは朝晩に限り、岡山方面から[岡山電車区](https://ja.wikipedia.org/wiki/岡山電車区 "wikilink")の[115系使用の普通が西明石駅まで乗り入れていたが](https://ja.wikipedia.org/wiki/国鉄115系電車 "wikilink")、翌23日の改正以降は岡山方面からの乗り入れは姫路駅までとなっており、JR神戸線への乗り入れは廃止された。
+
+### 臨時列車
+
+#### 大晦日終夜運転
+
+沿線には[生田神社](https://ja.wikipedia.org/wiki/生田神社 "wikilink")や[西宮神社](https://ja.wikipedia.org/wiki/西宮神社 "wikilink")などの大きな社寺があるため、[大晦日](https://ja.wikipedia.org/wiki/大晦日 "wikilink")深夜から[元旦にかけて](https://ja.wikipedia.org/wiki/元日 "wikilink")、JR神戸線では大阪駅 - 西明石駅間（運転区間はJR京都線京都駅 - 西明石駅間）において普通のみ約30分間隔で[終夜運転](https://ja.wikipedia.org/wiki/終夜運転 "wikilink")が実施されている\[13\]。なお、西明石駅 - 姫路駅間においても普通のみ約90分間隔で2001年度から\[14\]2017年度まで\[15\]終夜運転を実施していた。かつては奈良線に乗り入れ、奈良駅 - （奈良線経由） - 京都駅 - 大阪駅 - 西明石駅間で運転されていたこともあったが、奈良線への乗り入れは1999年度限りで終了している\[16\]\[17\]。
+
+このほか、1999年度の終夜運転時には快速も運転されており、快速「初日の出須磨浦号」が大阪発西明石行きで、快速「初日の出書写山号」が大阪発姫路行きで運転され、それぞれ[須磨海岸](https://ja.wikipedia.org/wiki/須磨海岸 "wikilink")および[書写山](https://ja.wikipedia.org/wiki/書写山 "wikilink")からの初日の出を拝むために運転されていた\[18\]が、のち全区間とも普通に変更され、2004年度までに運転を終了している。
+
+#### 神戸シーサイドレジャー号
+
+[2000年](../Page/2000年.md "wikilink")と[2001年](../Page/2001年.md "wikilink")の[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - [9月](../Page/9月.md "wikilink")の土曜・休日に[四条畷駅](https://ja.wikipedia.org/wiki/四条畷駅 "wikilink")・[放出駅](https://ja.wikipedia.org/wiki/放出駅 "wikilink") - [西明石駅](https://ja.wikipedia.org/wiki/西明石駅 "wikilink")間で[臨時快速](https://ja.wikipedia.org/wiki/臨時列車 "wikilink")「**神戸シーサイドレジャー号**」が1往復運転されていた（2001年の復路は放出行き）。停車駅は、四条畷駅 - 尼崎駅間の各駅・芦屋駅・三ノ宮駅・神戸駅・須磨駅・垂水駅 - 西明石駅間の各駅であった。
+
+[神戸市](../Page/神戸市.md "wikilink")西部の[須磨海水浴場](https://ja.wikipedia.org/wiki/須磨海水浴場 "wikilink")・[マリンピア神戸](https://ja.wikipedia.org/wiki/マリンピア神戸 "wikilink")（[三井アウトレットパーク マリンピア神戸](https://ja.wikipedia.org/wiki/三井アウトレットパーク_マリンピア神戸 "wikilink")）・アジュール舞子、[明石市](https://ja.wikipedia.org/wiki/明石市 "wikilink")東部の[大蔵海岸](https://ja.wikipedia.org/wiki/大蔵海岸 "wikilink")へのアクセスとして、それらの施設の最寄駅に着くたび特別に車内放送（案内）が流されたが、宣伝不足のためあまり利用されず、その後、大蔵海岸とアジュール舞子で続けて砂浜が陥没する事故が起き、両海水浴場がともに閉鎖し、以後は運転されていない。
+
+## 使用車両
+
+### 現在の車両
+
+2017年4月1日現在、普通・快速・新快速はすべて[電車](../Page/電車.md "wikilink")で、特急は電車と[気動車](../Page/気動車.md "wikilink")で運転されている。
+
+#### 電車
+
+  - [285系](https://ja.wikipedia.org/wiki/JR西日本285系電車 "wikilink")
+      - 寝台特急「サンライズ瀬戸」「サンライズ出雲」で使用されている。
+  - [289系](https://ja.wikipedia.org/wiki/JR西日本289系電車 "wikilink")
+      - 特急「らくラクはりま」で使用されている。
+  - [223系](https://ja.wikipedia.org/wiki/JR西日本223系電車 "wikilink")（1000・2000・6000番台）・[225系](https://ja.wikipedia.org/wiki/JR西日本225系電車 "wikilink")（0・100番台）
+      - 網干総合車両所（本所）の車両が使用されている。223系は1995年8月12日から、225系は2010年12月1日\[19\]から運用を開始し、新快速・快速（明石駅以西は普通）と、西明石駅 - 姫路駅間の区間運転の普通に使用されている。225系0・100番台と223系1000・2000番台は共通運用であるが、Aシート対応改造した223系1000番台のV3編成とV4編成は固定運用とされている。223系6000番台は車両性能を221系に合わせて固定し、221系と連結して運転することを前提としているため、新快速には充当されていない。但し、沿線で花火大会が行われる場合に限り、臨時の新快速へ充当されることもある。
+  - [221系](https://ja.wikipedia.org/wiki/JR西日本221系電車 "wikilink")
+      - 網干総合車両所（本所）の車両が使用されている。快速（明石駅以西は普通）に使用され、一部の列車は223系6000番台と併結して運転することがある。
+  - [207系](https://ja.wikipedia.org/wiki/JR西日本207系電車 "wikilink")・[321系](https://ja.wikipedia.org/wiki/JR西日本321系電車 "wikilink")
+      - 網干総合車両所（明石支所）の車両を使用し、普通（京阪神緩行線）として大阪駅 - 加古川駅間で運転されている。
+
+ファイル:JRW 321 set D2 at Kishibe Station.jpg|321系 ファイル:JR West Unit V5 at Omi Hachiman 20190927 01.jpg|223系1000番台 ファイル:JR West 223-2000 Series 20190201.jpg|223系2000番台 ファイル:JR West 225-0 Series I1 Special Rapid.jpg|225系0番台 ファイル:JR West 225-100 Series I9 Special Rapid.jpg|225系100番台 ファイル:JR West 221 Series A3 20190714.jpg|221系 ファイル:JR West 207 Series F1 20190908.jpg|207系 ファイル:「らくラクはりま」運用の289系.jpg|289系（貫通車）
+
+#### 気動車
+
+  - [HOT7000系](https://ja.wikipedia.org/wiki/智頭急行HOT7000系気動車 "wikilink")
+      - [智頭急行](https://ja.wikipedia.org/wiki/智頭急行 "wikilink")の車両を使用し、特急「[スーパーはくと](https://ja.wikipedia.org/wiki/スーパーはくと "wikilink")」で使用されている。
+  - [キハ189系](https://ja.wikipedia.org/wiki/JR西日本キハ189系気動車 "wikilink")
+      - 吹田総合車両所[京都支所に所属する車両で](https://ja.wikipedia.org/wiki/京都総合運転所 "wikilink")、特急「[はまかぜ](https://ja.wikipedia.org/wiki/はまかぜ_\(列車\) "wikilink")」として全線を走行している。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")から[キハ181系に代わって運転を開始した](https://ja.wikipedia.org/wiki/国鉄キハ181系気動車 "wikilink")\[20\]。
+
+### 過去の車両
+
+#### 電車
+
+[国鉄分割民営化](https://ja.wikipedia.org/wiki/国鉄分割民営化 "wikilink")後にJR西日本で使用されていた車両を記述する。
+
+  - [113系](https://ja.wikipedia.org/wiki/国鉄113系電車 "wikilink")
+      - 網干総合車両所（本所）所属の車両を使用し、6両・7両・8両・11両で網干駅 - 大垣駅間などの快速で運転されていたが、2004年10月16日のダイヤ改正により運用を退いた\[21\]。
+  - [115系](https://ja.wikipedia.org/wiki/国鉄115系電車 "wikilink")
+  - [117系](https://ja.wikipedia.org/wiki/国鉄117系電車 "wikilink")
+      - 1980年から新快速として運用を開始し、1989年3月11日から新快速に221系が投入された後でも最高速度を115km/hに向上させて新快速に充当されていたが、1991年3月16日のダイヤ改正以降は早朝・深夜の新快速に限定して運用され、翌1992年3月14日の改正でJR神戸線での運用がいったん廃止された。1995年4月3日に臨時列車として運用を再開したが、8月12日から223系の投入が始まり、1999年5月10日のダイヤ改正から朝ラッシュ時において223系で130km/h運転が始まったのに伴い、前日の9日限りでJR神戸線の運用を終了した。
+  - [103系](https://ja.wikipedia.org/wiki/国鉄103系電車 "wikilink")
+      - 明石電車区（現：網干総合車両所明石支所）の車両を使用し、普通（京阪神緩行線）として運用していたが、高速化やJR東西線の開業を見越して207系に置き換えられ、1994年3月1日にいったん運用が廃止された。1997年9月1日にJR宝塚線 - JR京都線直通運用ができたのに伴い、宮原総合車両所所属の車両を使用し、普通列車で運用されていたが、2003年8月14日に廃止された。その後、[JR福知山線脱線事故](https://ja.wikipedia.org/wiki/JR福知山線脱線事故 "wikilink")の影響で2005年8月1日より[森ノ宮電車区](https://ja.wikipedia.org/wiki/森ノ宮電車区 "wikilink")（現：吹田総合車両所森ノ宮支所）から[宮原総合運転所](https://ja.wikipedia.org/wiki/宮原総合運転所 "wikilink")（現：網干総合車両所宮原支所）に103系を借り入れて運用に復帰、9月には[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）から購入した103系の編成が運用を開始し、321系の運用が始まる前日の2005年11月30日まで、JR神戸線では大阪駅 - 甲子園口駅で使用された\[22\]。
+      - 和田岬線で運用されている103系の入出区のため兵庫駅 - 大久保駅 - 網干総合車両所明石支所間で[回送](https://ja.wikipedia.org/wiki/回送 "wikilink")列車が運行されている。また、加古川線用の103系の検査時には加古川駅 - 網干総合車両所間で運行される。
+  - [201系](https://ja.wikipedia.org/wiki/国鉄201系電車 "wikilink")
+      - 網干総合車両所（明石支所）の車両を使用し、普通（京阪神緩行線）として運用していたが、321系を投入して普通の最高速度120km/hに統一するため、森ノ宮電車区（現：吹田総合車両所森ノ宮支所）および[奈良電車区](https://ja.wikipedia.org/wiki/奈良電車区 "wikilink")（現：吹田総合車両所奈良支所）に転属して2007年3月17日限りで運用が廃止された。
+      - 通常は7両編成であるが、阪神・淡路大震災からの復旧で西明石駅 - 灘駅間の運転が再開されたことに伴い、輸送力増強のために8両編成と12両編成に組み替えられ、快速として運転されたこともある。
+  - [205系](https://ja.wikipedia.org/wiki/国鉄205系電車 "wikilink")（0番台）
+      - 網干総合車両所（明石支所）の車両を使用し、普通（京阪神緩行線）として運用していたが、321系を投入して普通の最高速度を120km/hに統一するため、2006年2月7日限りで運用を終了し、[日根野電車区](https://ja.wikipedia.org/wiki/日根野電車区 "wikilink")（現：[吹田総合車両所](https://ja.wikipedia.org/wiki/吹田総合車両所 "wikilink")日根野支所）に転属して[阪和線](../Page/阪和線.md "wikilink")運用に就いた。その後、宮原総合車両所（現：網干総合車両所宮原支所）に転属した車両を使って2011年3月14日から運用に復帰したが、阪和線転属前のように終日運用されず、また[尼崎駅より先の神戸](https://ja.wikipedia.org/wiki/尼崎駅_\(JR西日本\) "wikilink")・西明石方面には乗り入れず、京都駅・高槻駅 - 尼崎駅間のみで平日朝ラッシュ時限定で運用された。2013年3月16日のダイヤ改正で再び運用が廃止され、日根野支所に再び転属となった\[23\]\[24\]。
+
+ファイル:JRW series103 JR-Kobe.jpg|103系（和田岬線の回送列車） ファイル:JRW series113 JR-Kobe.jpg|113系 ファイル:JNR 117-103 shinkaisoku.jpg|117系 ファイル:Jnr 201skyblue.jpg|201系 ファイル:JRW series205-Kobe.jpg|205系0番台
+
+#### 気動車
+
+  - [キハ181系](https://ja.wikipedia.org/wiki/国鉄キハ181系気動車 "wikilink")
+      - 特急「はくと」「はまかぜ」として使用され、「はくと」としては1997年11月に運転を終了、「はまかぜ」としては2010年11月6日に定期運用を終了した\[25\]。
+
+## 阪神・淡路大震災からの復旧
+
+[200px](https://ja.wikipedia.org/wiki/ファイル:Rokkomichi_Sta_j-k1.jpg "wikilink") [200px](https://ja.wikipedia.org/wiki/ファイル:Rokkomichi_Sta_b043.jpg "wikilink") [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")に発生した[兵庫県南部地震](../Page/兵庫県南部地震.md "wikilink")（[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")）は、JR神戸線にも大きな影響を与えた。
+
+[西宮駅](https://ja.wikipedia.org/wiki/西宮駅_\(JR西日本\) "wikilink") - 須磨駅間で貨物列車を含め8本が脱線したほか、[鷹取工場でも](https://ja.wikipedia.org/wiki/西日本旅客鉄道鷹取工場 "wikilink")39両が脱線、転覆した。駅施設関係では、[六甲道駅](https://ja.wikipedia.org/wiki/六甲道駅 "wikilink")を中心に高架橋や柱に大きな被害を受け、[新長田駅](https://ja.wikipedia.org/wiki/新長田駅 "wikilink")付近の[盛土](https://ja.wikipedia.org/wiki/盛土 "wikilink")が崩壊して駅設備が壊滅した。また、鷹取工場では建物が全壊したほか、検修庫や検修設備に損傷を受けたほか、土留め擁壁が倒壊するなどの被害を受けた。
+
+発生直後から全線で運転を見合わせたが震災当日に運転再開することができず、翌18日に、大阪駅 - 尼崎駅（ - 福知山線[塚口駅](https://ja.wikipedia.org/wiki/塚口駅_\(JR西日本\) "wikilink")）間の上下外側線と西明石駅 - 姫路駅間で運転を再開した。運転再開は、折り返しができる駅を活用して工事が進められたが、折り返しができない須磨駅・住吉駅では新規にポイントを設置し、灘駅ではその先の[東灘信号場の構内配線を変更して引き上げ線とすることにより折り返しができるようにした](https://ja.wikipedia.org/wiki/摩耶駅 "wikilink")。
+
+西明石方面からは、ホームのある上下電車線を優先して復旧を行ったが、[灘駅](https://ja.wikipedia.org/wiki/灘駅 "wikilink") - 兵庫駅間は方向別線路となっていたため海側2線（下り列車線・電車線）を優先して復旧作業を行った。新長田駅付近では被害が大きかったため、下り列車線と[和田岬線](https://ja.wikipedia.org/wiki/和田岬線 "wikilink")への[小運転線を活用して複線化している](https://ja.wikipedia.org/wiki/兵庫駅#小運転線・専用線 "wikilink")。当時この小運転線は非電化であったため、急遽電化して対応した。なお、新長田駅は駅舎が全壊したため、1月30日に神戸駅 - 須磨駅間の運転を再開しても停車せず、3月10日に仮駅舎ができるまで通過していた。
+
+ダイヤ面においては大阪方面から甲子園口駅までの復旧時は新快速（ただし大阪駅以西は各駅停車）と普通のみ運転され、京都方面からの快速は大阪駅で折り返し運転を行っていた。新快速は大阪方面からは芦屋駅開通時に運転を開始したが、姫路方面からは3月12日まで運転されることはなかった（ただし加古川駅 - 姫路駅間では新快速運転を行う列車は存在していた）。
+
+震災の復旧作業の進捗によって、不通区間が徐々に短縮されていったが、不通区間の東西それぞれで封じ込められた車両で運用を行わなければならず、特に不通区間の東側では車両が不足していた。そのため、播但線を迂回ルートとして車両が回送されたが、播但線は非電化のため、[パンタグラフなどの付属機器を網干電車区](https://ja.wikipedia.org/wiki/集電装置 "wikilink")（現在の網干総合車両所）で一旦撤去し、[ディーゼル機関車](https://ja.wikipedia.org/wiki/ディーゼル機関車 "wikilink")の牽引により福知山運転所（現在の[福知山電車区](https://ja.wikipedia.org/wiki/福知山電車区 "wikilink")）まで回送され、同所で取り外した機器類を取り付けて自力で宮原電車区（現在の[宮原総合運転所](https://ja.wikipedia.org/wiki/宮原総合運転所 "wikilink")）などに回送された。
+
+しかし、この再配置だけでは車両不足が解消できず、[岡山電車区](https://ja.wikipedia.org/wiki/岡山電車区 "wikilink")・[広島運転所](https://ja.wikipedia.org/wiki/広島運転所 "wikilink")から115系19両および[森ノ宮電車区](https://ja.wikipedia.org/wiki/森ノ宮電車区 "wikilink")・[日根野電車区](https://ja.wikipedia.org/wiki/日根野電車区 "wikilink")の103系が運用されたほか、震災時に鷹取工場に入場していた[奈良電車区](https://ja.wikipedia.org/wiki/奈良電車区 "wikilink")の221系も運用された。また、車両の増結を行うなどし、201系は通常7両編成で運用されているが、このうち4本を4M4Tの8両編成と、8M4Tの12両編成に組み替え、201系では最長となる12両編成で運転された。
+
+六甲道駅を含む住吉駅 - 灘駅間は、高架橋の崩落が最も大きな被害を受けたため最後まで不通区間として残ることになったが、4月1日に74日ぶりに全線が開通した。これにより震災後、阪神間の鉄道が初めて復旧することになり、この日に行われたダイヤ改正で新快速を増発している。六甲道駅復旧の模様は[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") (NHK) のテレビ番組『[プロジェクトX〜挑戦者たち〜](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink")』でも取り上げられた。開通区間が延長されるたびに、開通直後から路盤固めまでの暫定ダイヤと、路盤が固まってから次に開通区間がのびるまでの暫定ダイヤの2種類がつくられ、震災発生から全通まで18回のダイヤ改正が行われた。
+
+なお、阪神間連絡鉄道で最も早く運行を再開したことにより、並行する阪急電車や阪神電車のそれまでの固定客がJR線に移り、両社の路線の復旧後も多くの乗客がJRに留まることになった。
+
+### 開通の推移
+
+[300px](https://ja.wikipedia.org/wiki/ファイル:JR_Kobe-opened_to_traffic.png "wikilink")
+
+  - 1月18日：大阪駅 - 塚口駅間・西明石駅 - 姫路駅間が開通。大阪 - 尼崎間は上下外側線で普通のみ運転し、JR宝塚線塚口駅で折り返し。
+  - 1月19日：大阪駅 - 甲子園口駅間の上下内側線が開通。普通のみ運転。
+  - 1月23日：須磨駅 - 西明石駅間が開通\[26\]。上下電車線を使用して、快速・普通を運転。
+  - 1月25日：甲子園口駅 - 芦屋駅間の上下内側線が開通\[27\]。普通は芦屋駅、新快速（大阪駅 - 甲子園口駅間は普通）は甲子園口駅折り返し。
+  - 1月30日：神戸駅 - 須磨駅間が開通\[28\]。兵庫駅 - 須磨駅間は、上下列車線運転する新長田駅付近 - 鷹取駅付近間をのぞいて、上下内側線・電車線運転。新長田駅は通過。
+  - 2月8日：芦屋駅 - 住吉駅間の上下内側線が開通\[29\]。普通は住吉駅、新快速は芦屋駅折り返し。
+  - 2月14日：尼崎駅 - 芦屋駅間の上下外側線が開通。普通・新快速は住吉駅折り返し、快速は芦屋駅折り返し。
+  - 2月20日：灘駅 - 神戸駅間の下り内外線が運転\[30\]。他社に先駆けて[神戸市](../Page/神戸市.md "wikilink")中心部まで乗り入れるようになった。
+  - 3月10日：兵庫駅 - 鷹取駅間電車線に復帰し、新長田駅営業再開。
+  - 3月26日：神戸駅 - 灘駅間の上り内側線が開通し、上り列車は上り内側線に復帰。
+  - 3月27日：神戸駅 - 灘駅間の下り列車が下り内側線に復帰。
+
+## 歴史
+
+JR神戸線としての歴史を記述する。
+
+  - [1874年](../Page/1874年.md "wikilink")（[明治](../Page/明治.md "wikilink")7年）
+      - [5月11日](../Page/5月11日.md "wikilink")：大阪駅 - 神戸駅間（20[M](../Page/マイル.md "wikilink")27[C](https://ja.wikipedia.org/wiki/チェーン_\(単位\) "wikilink")56[L](../Page/リンク.md "wikilink")≒32.74[km](../Page/キロメートル.md "wikilink")）が旅客線として開業（三ノ宮駅 - 神戸駅間複線）。大阪駅・西ノ宮駅（現在の西宮駅）・三ノ宮駅・神戸駅が開業。
+      - [6月1日](../Page/6月1日.md "wikilink")：神崎駅（現在の尼崎駅）・住吉駅が開業。
+      - [12月1日](../Page/12月1日.md "wikilink")：大阪駅 - 神戸駅間で貨物営業が開始。
+  - [1888年](../Page/1888年.md "wikilink")（明治21年）
+      - [11月1日](../Page/11月1日.md "wikilink")：**山陽鉄道**により兵庫駅 - 明石駅間 （10M68C11L≒17.46km）が開業。兵庫駅・須磨駅・垂水駅・明石駅が開業。
+      - [12月23日](../Page/12月23日.md "wikilink")：明石駅 - 姫路駅間 （22M14C94L≒35.71km）が延伸開業。大久保駅・土山駅・加古川駅・阿弥陀駅（現在の曽根駅）・姫路駅が開業。
+  - [1889年](../Page/1889年.md "wikilink")（明治22年）
+      - 8月：垂水駅が舞子駅に改称。
+      - [9月1日](../Page/9月1日.md "wikilink")：神戸駅 - 兵庫駅間 （1M11C25L≒1.84km）が複線で延伸開業。神戸駅で官営鉄道と接続。
+  - [1894年](../Page/1894年.md "wikilink")（明治27年）[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")：西ノ宮駅 - 三ノ宮駅間が複線化。
+  - [1896年](../Page/1896年.md "wikilink")（明治29年）
+      - [3月11日](../Page/3月11日.md "wikilink")：大阪駅 - 西ノ宮駅間が複線化。
+      - [7月1日](../Page/7月1日.md "wikilink")：塩屋仮停車場（現在の塩屋駅）・舞子公園仮停車場（現在の舞子駅）が開業。
+  - [1899年](../Page/1899年.md "wikilink")（明治32年）
+      - [1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")：兵庫駅 - 姫路駅間が複線化。
+      - [4月1日](../Page/4月1日.md "wikilink")：舞子駅が垂水駅に、舞子公園仮停車場が舞子仮停車場に改称。
+  - [1900年](../Page/1900年.md "wikilink")（明治33年）
+      - 4月1日：鷹取駅が開業。
+      - [4月18日](../Page/4月18日.md "wikilink")：御着駅が開業。
+      - [5月14日](../Page/5月14日.md "wikilink")：宝殿駅が開業。
+  - 1906年（明治39年）12月1日：山陽鉄道が国有化。同時に和田岬線改マイル、0.2M（≒0.32km）延長。塩屋仮停車場・舞子仮停車場が駅に変更。
+  - [1908年](../Page/1908年.md "wikilink")（明治41年）
+      - [2月10日](../Page/2月10日.md "wikilink")：西ノ宮駅 - 住吉駅間に戎仮乗降場（初代）が開業。神崎駅 - 西ノ宮駅間に武庫川仮信号所（初代）、西ノ宮駅 - 住吉駅間に芦屋仮信号所（初代）が開設。[西宮神社](https://ja.wikipedia.org/wiki/西宮神社 "wikilink")祭典に伴う列車増発に対応するため。
+      - [2月12日](../Page/2月12日.md "wikilink")：戎仮乗降場（初代）・武庫川仮信号所（初代）・芦屋仮信号所（初代）が廃止。
+      - [2月22日](../Page/2月22日.md "wikilink")：[岡本梅林公園](https://ja.wikipedia.org/wiki/岡本梅林公園 "wikilink")への旅客輸送のため、西ノ宮駅 - 住吉駅間に岡本仮乗降場（初代）が開業。
+      - 3月16日：岡本仮乗降場（初代）が廃止。
+      - [11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")：神崎駅 - 西ノ宮駅間に武庫川仮信号所（2代目）、西ノ宮駅 - 住吉駅間に芦屋仮信号所（2代目）が開設。[神戸港](https://ja.wikipedia.org/wiki/神戸港 "wikilink")で[観艦式](https://ja.wikipedia.org/wiki/観艦式 "wikilink")開催による列車増発に対応するため開設。
+      - 11月19日：武庫川仮信号所（2代目）・芦屋仮信号所（2代目）が廃止。
+  - [1909年](../Page/1909年.md "wikilink")（明治42年）
+      - 2月8日：岡本仮乗降場（2代目）が開業。
+      - 12月21日：西宮駅 - 住吉駅間に戎仮乗降場（2代目）が開業（初代と同目的）。神崎駅 - 西ノ宮駅間に武庫川仮信号所（3代目）、西ノ宮駅 - 住吉駅間に芦屋仮信号所（3代目）が開設（両者とも廃止日不詳）。
+  - [1910年](../Page/1910年.md "wikilink")（明治43年）
+      - [3月29日](../Page/3月29日.md "wikilink")：神崎駅 - 西ノ宮駅間に水野信号所、西ノ宮駅 - 住吉駅間に打出信号所が開設。
+      - 10月1日：灘聯絡所が駅に変更され、貨物駅として灘駅（初代）が開業。
+  - [1913年](../Page/1913年.md "wikilink")（[大正](../Page/大正.md "wikilink")2年）8月1日：打出信号所が駅に変更され、芦屋駅が開業。
+  - [1915年](../Page/1915年.md "wikilink")（大正4年）2月24日：戎仮乗降場（2代目）・岡本仮乗降場（2代目）が廃止。
+  - [1917年](../Page/1917年.md "wikilink")（大正6年）
+      - 5月15日：明石駅 - 大久保駅間に小久保信号所が開設。
+      - 12月1日：[灘駅](https://ja.wikipedia.org/wiki/灘駅 "wikilink")（2代目）が開業。貨物駅の灘駅（初代）が東灘駅に改称。
+  - [1918年](../Page/1918年.md "wikilink")（大正7年）5月15日：大阪駅 - 神崎駅間に歌島仮信号所が開設。
+  - [1922年](../Page/1922年.md "wikilink")（大正11年）
+      - 4月1日：信号所が信号場に改称。
+      - 4月15日：大久保駅 - 土山駅間に魚住信号所、土山駅 - 加古川駅間に平岡信号場が開設。
+  - [1926年](../Page/1926年.md "wikilink")（大正15年）11月15日：歌島信号場 - 東灘駅間が複々線化。歌島信号場が廃止。
+  - [1930年](../Page/1930年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")5年）4月1日：営業距離の単位をマイルからメートルに変更。
+  - [1931年](../Page/1931年.md "wikilink")（昭和6年）10月10日：兵庫駅 - 鷹取駅間が3線化。神戸駅 - 鷹取駅間が高架化。
+  - [1934年](../Page/1934年.md "wikilink")（昭和9年）
+      - 5月25日：大阪駅 - 神崎駅間に歌島信号場が開設。
+      - [7月20日](../Page/7月20日.md "wikilink")：大阪駅 - 須磨駅間が電化され、電車運転開始。塚本駅・立花駅・甲子園口駅・六甲道駅・元町駅が開業。歌島信号場が廃止。
+      - [9月20日](../Page/9月20日.md "wikilink")：須磨駅 - 明石駅間が電化。
+  - [1936年](../Page/1936年.md "wikilink")（昭和11年）[9月9日](../Page/9月9日.md "wikilink")：魚住信号場・平岡信号場が廃止。
+  - [1937年](../Page/1937年.md "wikilink")（昭和12年）
+      - [5月23日](../Page/5月23日.md "wikilink")：東灘駅 - 兵庫駅間が複々線化。
+      - 10月10日：大阪駅 - 塚本駅間複々線化。
+  - [1938年](../Page/1938年.md "wikilink")（昭和13年）[9月22日](../Page/9月22日.md "wikilink")：兵庫駅 - 鷹取駅間が5線化。
+  - [1944年](../Page/1944年.md "wikilink")（昭和19年）4月1日：明石操車場が駅に変更され、西明石駅が開業。明石駅 - 西明石駅間が電化。
+  - [1949年](../Page/1949年.md "wikilink")（昭和24年）1月1日：神崎駅が尼崎駅に改称。
+  - [1954年](../Page/1954年.md "wikilink")（昭和29年）4月1日：新長田駅が開業。
+  - [1958年](../Page/1958年.md "wikilink")（昭和33年）4月10日：西明石駅 - 姫路駅間が電化。
+  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）10月1日：魚住駅・東加古川駅が開業。
+  - [1965年](../Page/1965年.md "wikilink")（昭和40年）[3月28日](../Page/3月28日.md "wikilink")：鷹取駅 - 西明石駅間が複々線化。垂水駅付近が高架化。
+  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）6月20日：朝霧駅が開業。
+  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）11月19日：塚本駅付近が高架化。
+  - [1972年](../Page/1972年.md "wikilink")（昭和47年）10月1日：東灘駅が操車場に変更され、東灘操車場が開設。
+  - [1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")（昭和56年）4月1日：東灘操車場が信号場に変更され、東灘信号場が開設。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）4月1日：[国鉄分割民営化](https://ja.wikipedia.org/wiki/国鉄分割民営化 "wikilink")。
+  - [1988年](../Page/1988年.md "wikilink")（昭和63年）[3月13日](../Page/3月13日.md "wikilink")：大阪駅 - 姫路駅間で**JR神戸線**の愛称が使用開始。
+  - [1994年](../Page/1994年.md "wikilink")（[平成](../Page/平成.md "wikilink")6年）[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")：JR貨物の姫路貨物駅が開業。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）
+      - [1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")：阪神・淡路大震災により、全線が不通になる。
+      - [1月18日](../Page/1月18日.md "wikilink")：一部区間で運転再開（以後段階的に開通し、不通区間を解消）。
+      - [4月1日](../Page/4月1日.md "wikilink")：最後まで不通であった住吉駅 - 灘駅間が復旧したことにより全通\[31\]。
+  - [1996年](../Page/1996年.md "wikilink")（平成8年）
+      - 3月8日：日中の快速が全列車221系化\[32\]。
+      - 10月1日：甲南山手駅が開業。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）
+      - [2月16日](../Page/2月16日.md "wikilink")：各駅に[接近メロディ](https://ja.wikipedia.org/wiki/#接近メロディ "wikilink")「さざなみ」が導入（大阪駅と、当時は未開業であったさくら夙川駅、摩耶駅、須磨海浜公園駅、ひめじ別所駅、東姫路駅は除く）。
+      - 3月8日：ダイヤ改正により、日中の223系による新快速が30分間隔になり、すべての快速が221系での運転になる\[33\]。すべての新快速・快速が尼崎駅に停車するようになる。
+      - [9月4日](../Page/9月4日.md "wikilink")：大阪駅に接近メロディ導入。
+  - [2002年](../Page/2002年.md "wikilink")（平成14年）
+      - [7月29日](../Page/7月29日.md "wikilink")：大阪駅 - 西明石駅間で「[JR京都・神戸線運行管理システム](https://ja.wikipedia.org/wiki/アーバンネットワーク運行管理システム "wikilink")」が導入\[34\]。
+      - [11月6日](../Page/11月6日.md "wikilink")：塚本駅 - 尼崎駅間で、別の[人身事故で救助を行っていた救急隊員が死傷する人身事故](https://ja.wikipedia.org/wiki/鉄道人身障害事故 "wikilink")（[東海道線救急隊員死傷事故](https://ja.wikipedia.org/wiki/日本の鉄道事故_\(2000年以降\)#東海道線救急隊員死傷事故 "wikilink")）が発生。
+      - [12月2日](../Page/12月2日.md "wikilink")：女性専用車が導入される\[35\]。
+  - [2003年](../Page/2003年.md "wikilink")（平成15年）
+      - [5月12日](../Page/5月12日.md "wikilink")：加古川駅下り線が高架化。
+      - [5月26日](../Page/5月26日.md "wikilink")：加古川駅上り線高架化され、山陽本線部分の高架化が完成\[36\]。
+      - [10月1日](../Page/10月1日.md "wikilink")：全駅のコンコースの喫煙コーナーが廃止\[37\]。
+      - [11月1日](../Page/11月1日.md "wikilink")：全区間で「ICOCA」の利用サービスが開始\[38\]。
+      - [12月1日](../Page/12月1日.md "wikilink")：JR貨物の鷹取駅が神戸貨物ターミナル駅に改称。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）3月1日：ひめじ別所駅が開業\[39\]。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）
+      - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")：姫路駅付近の山陽本線部分の高架化が完成\[40\]。
+      - 10月1日：西明石駅 - 播州赤穂駅・上郡駅間で「JR京都・神戸線運行管理システム」が導入\[41\]。
+  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）[3月18日](../Page/3月18日.md "wikilink")：さくら夙川駅が開業\[42\]。西ノ宮駅が西宮駅に改称\[43\]。各駅で[駅自動放送](https://ja.wikipedia.org/wiki/駅自動放送 "wikilink")を更新。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[3月15日](../Page/3月15日.md "wikilink")：須磨海浜公園駅が開業。
+  - [2009年](../Page/2009年.md "wikilink")（平成21年）7月1日：駅ホームが終日禁煙になる\[44\]。
+  - [2011年](../Page/2011年.md "wikilink")（平成23年）4月18日：女性専用車が毎日、終日設定される\[45\]。
+  - [2016年](../Page/2016年.md "wikilink")（平成28年）3月26日：摩耶駅、東姫路駅が開業\[46\]\[47\]\[48\]。
+  - [2018年](../Page/2018年.md "wikilink")（平成30年）[3月17日](../Page/3月17日.md "wikilink")：各駅に[駅ナンバリング](https://ja.wikipedia.org/wiki/駅ナンバリング "wikilink")が導入され、使用を開始する。
+  - [2019年](../Page/2019年.md "wikilink")（平成31年）[3月18日](../Page/3月18日.md "wikilink")：平日限定で姫路駅 - 大阪駅間に特急「[らくラクはりま](https://ja.wikipedia.org/wiki/らくラクはりま "wikilink")」が運行開始\[49\]\[50\]。
+
+## 駅一覧
+
+以下では、JR神戸線の停車場（駅・信号場）と営業キロ、停車列車、接続路線などを一覧表で示す。廃駅・廃止信号場については「[東海道本線\#廃駅](https://ja.wikipedia.org/wiki/東海道本線#廃駅 "wikilink")」および「[山陽本線\#廃駅・廃止信号場](https://ja.wikipedia.org/wiki/山陽本線#廃駅・廃止信号場 "wikilink")」を参照。
+
+  - （貨）＝貨物専用駅
+  - [特定都区市内](https://ja.wikipedia.org/wiki/特定都区市内 "wikilink")制度適用範囲の駅：＝大阪市内、＝神戸市内
+  - \#：待避可能駅
+  - 停車駅
+      - 普通：すべての旅客駅に停車（表中省略）
+      - 快速・新快速：●印の駅は全列車停車、▲印の駅は朝の上りの一部を除いて停車、｜印の駅は全列車通過
+          - 快速は、明石駅から姫路方面は普通として運転
+      - 特急（[はまかぜ](https://ja.wikipedia.org/wiki/はまかぜ_\(列車\) "wikilink")・[スーパーはくと](https://ja.wikipedia.org/wiki/スーパーはくと "wikilink")・[らくラクはりま](https://ja.wikipedia.org/wiki/らくラクはりま "wikilink")・[サンライズ瀬戸](https://ja.wikipedia.org/wiki/瀬戸_\(列車\) "wikilink")・[サンライズ出雲](https://ja.wikipedia.org/wiki/出雲_\(列車\) "wikilink")）：各列車記事参照
+  - 接続路線：駅名が異なる場合は⇒印で駅名を示す。
+  - [駅ナンバーは](https://ja.wikipedia.org/wiki/駅ナンバリング "wikilink")2018年3月17日より導入\[51\]、北陸本線・琵琶湖線・JR京都線からの通し番号となっている。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>正式路線名</p></th>
+<th><p>駅<br />
+ナンバー[52]</p></th>
+<th><p>駅名</p></th>
+<th><p>駅間<br />
+営業キロ</p></th>
+<th><p>累計営業キロ</p></th>
+<th><p>快速</p></th>
+<th><p>新快速</p></th>
+<th><p>接続路線</p></th>
+<th><p>線路</p></th>
+<th><p>所在地</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>神戸<br />
+から</p></td>
+<td><p>大阪<br />
+から</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/米原駅" title="wikilink">米原</a><br />
+から</p></td>
+<td><p>|<a href="https://ja.wikipedia.org/wiki/東京駅" title="wikilink">東京</a><br />
+から</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/東海道本線" title="wikilink">東海道本線</a></p></td>
+<td><p>JR-A47</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大阪駅" title="wikilink">大阪駅</a></p></td>
+<td><p>-</p></td>
+<td><p>33.1</p></td>
+<td><p>0.0</p></td>
+<td><p>110.5</p></td>
+<td><p>556.4</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A48</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/塚本駅" title="wikilink">塚本駅</a></p></td>
+<td><p>3.4</p></td>
+<td><p>29.7</p></td>
+<td><p>3.4</p></td>
+<td><p>113.9</p></td>
+<td><p>559.8</p></td>
+<td><p>｜</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="even">
+<td><p>JR-A49</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/尼崎駅_(JR西日本)" title="wikilink">尼崎駅</a></p></td>
+<td><p>4.3</p></td>
+<td><p>25.4</p></td>
+<td><p>7.7</p></td>
+<td><p>118.2</p></td>
+<td><p>564.1</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+<td><p>西日本旅客鉄道： <a href="../Page/JR東西線.md" title="wikilink">JR東西線</a>（JR-H49）・ <a href="https://ja.wikipedia.org/wiki/福知山線" title="wikilink">福知山線</a>（JR宝塚線）（JR-G49）・東海道本線貨物支線（<a href="https://ja.wikipedia.org/wiki/北方貨物線" title="wikilink">北方貨物線</a>）</p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A50</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/立花駅" title="wikilink">立花駅</a></p></td>
+<td><p>3.0</p></td>
+<td><p>22.4</p></td>
+<td><p>10.7</p></td>
+<td><p>121.2</p></td>
+<td><p>567.1</p></td>
+<td><p>｜</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="even">
+<td><p>JR-A51</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/甲子園口駅" title="wikilink">甲子園口駅</a></p></td>
+<td><p>2.2</p></td>
+<td><p>20.2</p></td>
+<td><p>12.9</p></td>
+<td><p>123.4</p></td>
+<td><p>569.3</p></td>
+<td><p>｜</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A52</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西宮駅_(JR西日本)" title="wikilink">西宮駅</a></p></td>
+<td><p>2.5</p></td>
+<td><p>17.7</p></td>
+<td><p>15.4</p></td>
+<td><p>125.9</p></td>
+<td><p>571.8</p></td>
+<td><p>●</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="even">
+<td><p>JR-A53</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/さくら夙川駅" title="wikilink">さくら夙川駅</a></p></td>
+<td><p>1.5</p></td>
+<td><p>16.2</p></td>
+<td><p>16.9</p></td>
+<td><p>127.4</p></td>
+<td><p>573.3</p></td>
+<td><p>｜</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A54</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/芦屋駅_(JR西日本)" title="wikilink">芦屋駅</a></p></td>
+<td><p>2.3</p></td>
+<td><p>13.9</p></td>
+<td><p>19.2</p></td>
+<td><p>129.7</p></td>
+<td><p>575.6</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="even">
+<td><p>JR-A55</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/甲南山手駅" title="wikilink">甲南山手駅</a></p></td>
+<td><p>1.4</p></td>
+<td><p>12.5</p></td>
+<td><p>20.6</p></td>
+<td><p>131.1</p></td>
+<td><p>577.0</p></td>
+<td><p>｜</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A56</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/摂津本山駅" title="wikilink">摂津本山駅</a></p></td>
+<td><p>1.5</p></td>
+<td><p>11.0</p></td>
+<td><p>22.1</p></td>
+<td><p>132.6</p></td>
+<td><p>578.5</p></td>
+<td><p>｜</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="even">
+<td><p>JR-A57</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/住吉駅_(JR西日本・神戸新交通)" title="wikilink">住吉駅</a></p></td>
+<td><p>1.6</p></td>
+<td><p>9.4</p></td>
+<td><p>23.7</p></td>
+<td><p>134.2</p></td>
+<td><p>580.1</p></td>
+<td><p>●</p></td>
+<td><p>｜</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/神戸新交通" title="wikilink">神戸新交通</a>： <a href="https://ja.wikipedia.org/wiki/神戸新交通六甲アイランド線" title="wikilink">六甲アイランド線</a>（R01）</p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A58</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/六甲道駅" title="wikilink">六甲道駅</a></p></td>
+<td><p>2.2</p></td>
+<td><p>7.2</p></td>
+<td><p>25.9</p></td>
+<td><p>136.4</p></td>
+<td><p>582.3</p></td>
+<td><p>●</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="even">
+<td><p>JR-A59</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/摩耶駅" title="wikilink">摩耶駅</a></p></td>
+<td><p>1.4</p></td>
+<td><p>5.8</p></td>
+<td><p>27.3</p></td>
+<td><p>137.8</p></td>
+<td><p>583.7</p></td>
+<td><p>｜</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A60</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/灘駅" title="wikilink">灘駅</a></p></td>
+<td><p>0.9</p></td>
+<td><p>4.9</p></td>
+<td><p>28.2</p></td>
+<td><p>138.7</p></td>
+<td><p>584.6</p></td>
+<td><p>｜</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="even">
+<td><p>JR-A61</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三ノ宮駅" title="wikilink">三ノ宮駅</a></p></td>
+<td><p>2.4</p></td>
+<td><p>2.5</p></td>
+<td><p>30.6</p></td>
+<td><p>141.1</p></td>
+<td><p>587.0</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+<td><p>西日本旅客鉄道：<a href="https://ja.wikipedia.org/wiki/ファイル:Shinkansen_jrw.svg" title="wikilink">17px</a> <a href="https://ja.wikipedia.org/wiki/山陽新幹線" title="wikilink">山陽新幹線</a>（<a href="https://ja.wikipedia.org/wiki/新神戸駅" title="wikilink">新神戸駅</a>[53]）<br />
+阪急電鉄：<a href="https://ja.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kōbe_line.svg" title="fig:Number_prefix_Hankyu_Kōbe_line.svg">Number_prefix_Hankyu_Kōbe_line.svg</a> 神戸本線・<a href="https://ja.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kōbe_line.svg" title="fig:Number_prefix_Hankyu_Kōbe_line.svg">Number_prefix_Hankyu_Kōbe_line.svg</a> <a href="https://ja.wikipedia.org/wiki/阪急神戸高速線" title="wikilink">神戸高速線</a>（<a href="https://ja.wikipedia.org/wiki/三宮駅" title="wikilink">神戸三宮駅</a>:HK-16）<br />
+阪神電気鉄道：<a href="https://ja.wikipedia.org/wiki/ファイル:Number_prefix_Hanshin_line.svg" title="wikilink">15px</a> 本線（神戸三宮駅:HS 32）<br />
+神戸新交通： <a href="https://ja.wikipedia.org/wiki/神戸新交通ポートアイランド線" title="wikilink">ポートアイランド線</a>（<a href="https://ja.wikipedia.org/wiki/三宮駅" title="wikilink">三宮駅</a>:P01）<br />
+<a href="https://ja.wikipedia.org/wiki/神戸市営地下鉄" title="wikilink">神戸市営地下鉄</a>：<a href="https://ja.wikipedia.org/wiki/ファイル:Subway_KobeSeishin.svg" title="wikilink">13px</a> <a href="https://ja.wikipedia.org/wiki/神戸市営地下鉄西神・山手線" title="wikilink">西神・山手線</a>（三宮駅:S03）<br />
+神戸市営地下鉄：<a href="https://ja.wikipedia.org/wiki/ファイル:Subway_KobeKaigan.svg" title="wikilink">13px</a> <a href="https://ja.wikipedia.org/wiki/神戸市営地下鉄海岸線" title="wikilink">海岸線</a>（<a href="https://ja.wikipedia.org/wiki/三宮・花時計前駅" title="wikilink">三宮・花時計前駅</a>:K01）</p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A62</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/元町駅_(兵庫県)" title="wikilink">元町駅</a></p></td>
+<td><p>0.8</p></td>
+<td><p>1.7</p></td>
+<td><p>31.4</p></td>
+<td><p>141.9</p></td>
+<td><p>587.8</p></td>
+<td><p>●</p></td>
+<td><p>｜</p></td>
+<td><p>西日本旅客鉄道：<a href="https://ja.wikipedia.org/wiki/ファイル:Shinkansen_jrw.svg" title="wikilink">17px</a> 山陽新幹線（新神戸駅[54]）<br />
+阪神電気鉄道：<a href="https://ja.wikipedia.org/wiki/ファイル:Number_prefix_Hanshin_line.svg" title="wikilink">15px</a> 本線・<a href="https://ja.wikipedia.org/wiki/ファイル:Number_prefix_Hanshin_line.svg" title="wikilink">15px</a> <a href="https://ja.wikipedia.org/wiki/阪神神戸高速線" title="wikilink">神戸高速線</a>（HS 33）</p></td>
+</tr>
+<tr class="even">
+<td><p>JR-A63</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/神戸駅_(兵庫県)" title="wikilink">神戸駅</a></p></td>
+<td><p>1.7</p></td>
+<td><p>0.0</p></td>
+<td><p>33.1</p></td>
+<td><p>143.6</p></td>
+<td><p>589.5</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+<td><p>西日本旅客鉄道：<a href="https://ja.wikipedia.org/wiki/ファイル:Shinkansen_jrw.svg" title="wikilink">17px</a> 山陽新幹線（新神戸駅[55]）<br />
+阪神電気鉄道：<a href="https://ja.wikipedia.org/wiki/ファイル:Number_prefix_Hanshin_line.svg" title="wikilink">15px</a> 神戸高速線（<a href="https://ja.wikipedia.org/wiki/高速神戸駅" title="wikilink">高速神戸駅</a>:HS 35）<br />
+阪急電鉄：神戸高速線（高速神戸駅:HS 35）<br />
+神戸市営地下鉄：<a href="https://ja.wikipedia.org/wiki/ファイル:Subway_KobeKaigan.svg" title="wikilink">13px</a> 海岸線（<a href="https://ja.wikipedia.org/wiki/ハーバーランド駅" title="wikilink">ハーバーランド駅</a>:K04）</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/山陽本線" title="wikilink">山陽本線</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>JR-A64</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/兵庫駅" title="wikilink">兵庫駅</a></p></td>
+<td><p>1.8</p></td>
+<td><p>1.8</p></td>
+<td><p>34.9</p></td>
+<td><p>145.4</p></td>
+<td><p>591.3</p></td>
+<td><p>●</p></td>
+<td><p>｜</p></td>
+<td><p>西日本旅客鉄道：<a href="https://ja.wikipedia.org/wiki/山陽本線" title="wikilink">山陽本線</a>支線（<a href="https://ja.wikipedia.org/wiki/和田岬線" title="wikilink">和田岬線</a>）</p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A65</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/新長田駅" title="wikilink">新長田駅</a></p></td>
+<td><p>2.3</p></td>
+<td><p>4.1</p></td>
+<td><p>37.2</p></td>
+<td><p>147.7</p></td>
+<td><p>593.6</p></td>
+<td><p>｜</p></td>
+<td><p>｜</p></td>
+<td><p>西日本旅客鉄道：<a href="https://ja.wikipedia.org/wiki/ファイル:Shinkansen_jrw.svg" title="wikilink">17px</a> 山陽新幹線（新神戸駅[56]）<br />
+神戸市営地下鉄：<a href="https://ja.wikipedia.org/wiki/ファイル:Subway_KobeSeishin.svg" title="wikilink">13px</a> 西神・山手線（S09）・<a href="https://ja.wikipedia.org/wiki/ファイル:Subway_KobeKaigan.svg" title="wikilink">13px</a> 海岸線（K10）</p></td>
+</tr>
+<tr class="even">
+<td><p>JR-A66</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鷹取駅" title="wikilink">鷹取駅</a></p></td>
+<td><p>1.0</p></td>
+<td><p>5.1</p></td>
+<td><p>38.2</p></td>
+<td><p>148.7</p></td>
+<td><p>594.6</p></td>
+<td><p>｜</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="odd">
+<td><p> </p></td>
+<td><p>（貨）<a href="https://ja.wikipedia.org/wiki/神戸貨物ターミナル駅" title="wikilink">神戸貨物ターミナル駅</a></p></td>
+<td><p>｜</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>JR-A67</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/須磨海浜公園駅" title="wikilink">須磨海浜公園駅</a></p></td>
+<td><p>0.9</p></td>
+<td><p>6.0</p></td>
+<td><p>39.1</p></td>
+<td><p>149.6</p></td>
+<td><p>595.5</p></td>
+<td><p>｜</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A68</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/須磨駅" title="wikilink">須磨駅</a>#</p></td>
+<td><p>1.3</p></td>
+<td><p>7.3</p></td>
+<td><p>40.4</p></td>
+<td><p>150.9</p></td>
+<td><p>596.8</p></td>
+<td><p>▲</p></td>
+<td><p>｜</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山陽電気鉄道" title="wikilink">山陽電気鉄道</a>：<a href="https://ja.wikipedia.org/wiki/ファイル:Number_prefix_San-yo_Railway_line.png" title="wikilink">15px</a> <a href="https://ja.wikipedia.org/wiki/山陽電気鉄道本線" title="wikilink">本線</a>（<a href="https://ja.wikipedia.org/wiki/山陽須磨駅" title="wikilink">山陽須磨駅</a>:SY 06）</p></td>
+</tr>
+<tr class="even">
+<td><p>JR-A69</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/塩屋駅_(兵庫県)" title="wikilink">塩屋駅</a></p></td>
+<td><p>2.9</p></td>
+<td><p>10.2</p></td>
+<td><p>43.3</p></td>
+<td><p>153.8</p></td>
+<td><p>599.7</p></td>
+<td><p>｜</p></td>
+<td><p>｜</p></td>
+<td><p>山陽電気鉄道：<a href="https://ja.wikipedia.org/wiki/ファイル:Number_prefix_San-yo_Railway_line.png" title="wikilink">15px</a> 本線（<a href="https://ja.wikipedia.org/wiki/山陽塩屋駅" title="wikilink">山陽塩屋駅</a>:SY 08）</p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A70</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/垂水駅" title="wikilink">垂水駅</a></p></td>
+<td><p>2.9</p></td>
+<td><p>13.1</p></td>
+<td><p>46.2</p></td>
+<td><p>156.7</p></td>
+<td><p>602.6</p></td>
+<td><p>▲</p></td>
+<td><p>｜</p></td>
+<td><p>山陽電気鉄道：<a href="https://ja.wikipedia.org/wiki/ファイル:Number_prefix_San-yo_Railway_line.png" title="wikilink">15px</a> 本線（<a href="https://ja.wikipedia.org/wiki/山陽垂水駅" title="wikilink">山陽垂水駅</a>:SY 11）</p></td>
+</tr>
+<tr class="even">
+<td><p>JR-A71</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/舞子駅" title="wikilink">舞子駅</a></p></td>
+<td><p>2.0</p></td>
+<td><p>15.1</p></td>
+<td><p>48.2</p></td>
+<td><p>158.7</p></td>
+<td><p>604.6</p></td>
+<td><p>▲</p></td>
+<td><p>｜</p></td>
+<td><p>山陽電気鉄道：<a href="https://ja.wikipedia.org/wiki/ファイル:Number_prefix_San-yo_Railway_line.png" title="wikilink">15px</a> 本線（<a href="https://ja.wikipedia.org/wiki/舞子公園駅" title="wikilink">舞子公園駅</a>:SY 13）</p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A72</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/朝霧駅" title="wikilink">朝霧駅</a></p></td>
+<td><p>1.9</p></td>
+<td><p>17.0</p></td>
+<td><p>50.1</p></td>
+<td><p>160.6</p></td>
+<td><p>606.5</p></td>
+<td><p>｜</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="even">
+<td><p>JR-A73</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/明石駅" title="wikilink">明石駅</a></p></td>
+<td><p>2.4</p></td>
+<td><p>19.4</p></td>
+<td><p>52.5</p></td>
+<td><p>163.0</p></td>
+<td><p>608.9</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+<td><p>山陽電気鉄道：<a href="https://ja.wikipedia.org/wiki/ファイル:Number_prefix_San-yo_Railway_line.png" title="wikilink">15px</a> 本線 （<a href="https://ja.wikipedia.org/wiki/山陽明石駅" title="wikilink">山陽明石駅</a>:SY 17）</p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A74</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西明石駅" title="wikilink">西明石駅</a></p></td>
+<td><p>3.4</p></td>
+<td><p>22.8</p></td>
+<td><p>55.9</p></td>
+<td><p>166.4</p></td>
+<td><p>612.3</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+<td><p>西日本旅客鉄道：<a href="https://ja.wikipedia.org/wiki/ファイル:Shinkansen_jrw.svg" title="wikilink">17px</a> 山陽新幹線</p></td>
+</tr>
+<tr class="even">
+<td><p>JR-A75</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大久保駅_(兵庫県)" title="wikilink">大久保駅</a>#</p></td>
+<td><p>2.8</p></td>
+<td><p>25.6</p></td>
+<td><p>58.7</p></td>
+<td><p>169.2</p></td>
+<td><p>615.1</p></td>
+<td><p>●</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A76</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/魚住駅" title="wikilink">魚住駅</a></p></td>
+<td><p>3.5</p></td>
+<td><p>29.1</p></td>
+<td><p>62.2</p></td>
+<td><p>172.7</p></td>
+<td><p>618.6</p></td>
+<td><p>●</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="even">
+<td><p>JR-A77</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/土山駅" title="wikilink">土山駅</a>#</p></td>
+<td><p>3.1</p></td>
+<td><p>32.2</p></td>
+<td><p>65.3</p></td>
+<td><p>175.8</p></td>
+<td><p>621.7</p></td>
+<td><p>●</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A78</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東加古川駅" title="wikilink">東加古川駅</a>#</p></td>
+<td><p>3.3</p></td>
+<td><p>35.5</p></td>
+<td><p>68.6</p></td>
+<td><p>179.1</p></td>
+<td><p>625.0</p></td>
+<td><p>●</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="even">
+<td><p>JR-A79</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/加古川駅" title="wikilink">加古川駅</a>#</p></td>
+<td><p>3.6</p></td>
+<td><p>39.1</p></td>
+<td><p>72.2</p></td>
+<td><p>182.7</p></td>
+<td><p>628.6</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+<td><p>西日本旅客鉄道： <a href="https://ja.wikipedia.org/wiki/加古川線" title="wikilink">加古川線</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A80</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宝殿駅" title="wikilink">宝殿駅</a>#</p></td>
+<td><p>3.3</p></td>
+<td><p>42.4</p></td>
+<td><p>75.5</p></td>
+<td><p>186.0</p></td>
+<td><p>631.9</p></td>
+<td><p>●</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="even">
+<td><p>JR-A81</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/曽根駅_(兵庫県)" title="wikilink">曽根駅</a></p></td>
+<td><p>4.0</p></td>
+<td><p>46.4</p></td>
+<td><p>79.5</p></td>
+<td><p>190.0</p></td>
+<td><p>635.9</p></td>
+<td><p>●</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A82</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ひめじ別所駅" title="wikilink">ひめじ別所駅</a></p></td>
+<td><p>2.0</p></td>
+<td><p>48.4</p></td>
+<td><p>81.5</p></td>
+<td><p>192.0</p></td>
+<td><p>637.9</p></td>
+<td><p>●</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="even">
+<td><p> </p></td>
+<td><p>（貨）<a href="https://ja.wikipedia.org/wiki/姫路貨物駅" title="wikilink">姫路貨物駅</a></p></td>
+<td><p>｜</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A83</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/御着駅" title="wikilink">御着駅</a>#</p></td>
+<td><p>2.1</p></td>
+<td><p>50.5</p></td>
+<td><p>83.6</p></td>
+<td><p>194.1</p></td>
+<td><p>640.0</p></td>
+<td><p>●</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="even">
+<td><p>JR-A84</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東姫路駅" title="wikilink">東姫路駅</a></p></td>
+<td><p>2.4</p></td>
+<td><p>52.9</p></td>
+<td><p>86.0</p></td>
+<td><p>196.5</p></td>
+<td><p>642.4</p></td>
+<td><p>●</p></td>
+<td><p>｜</p></td>
+<td><p> </p></td>
+</tr>
+<tr class="odd">
+<td><p>JR-A85</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/姫路駅" title="wikilink">姫路駅</a>#</p></td>
+<td><p>1.9</p></td>
+<td><p>54.8</p></td>
+<td><p>87.9</p></td>
+<td><p>198.4</p></td>
+<td><p>644.3</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+<td><p>西日本旅客鉄道：<a href="https://ja.wikipedia.org/wiki/ファイル:Shinkansen_jrw.svg" title="wikilink">17px</a> 山陽新幹線・ <a href="https://ja.wikipedia.org/wiki/山陽本線" title="wikilink">山陽本線</a>〈<a href="https://ja.wikipedia.org/wiki/相生駅_(兵庫県)" title="wikilink">相生方面</a>〉・ <a href="https://ja.wikipedia.org/wiki/赤穂線" title="wikilink">赤穂線</a>[57]・ <a href="https://ja.wikipedia.org/wiki/播但線" title="wikilink">播但線</a>・ <a href="https://ja.wikipedia.org/wiki/姫新線" title="wikilink">姫新線</a><br />
+山陽電気鉄道：<a href="https://ja.wikipedia.org/wiki/ファイル:Number_prefix_San-yo_Railway_line.png" title="wikilink">15px</a> 本線（<a href="https://ja.wikipedia.org/wiki/山陽姫路駅" title="wikilink">山陽姫路駅</a>:SY 43）</p></td>
+</tr>
+</tbody>
+</table>
+
+  - さくら夙川駅・甲南山手駅・須磨海浜公園駅・塩屋駅・魚住駅・曽根駅・ひめじ別所駅・東姫路駅は[JR西日本交通サービス](https://ja.wikipedia.org/wiki/JR西日本交通サービス "wikilink")による[業務委託駅](https://ja.wikipedia.org/wiki/日本の鉄道駅#業務委託駅 "wikilink")、それ以外の旅客駅はJR西日本[直営駅である](https://ja.wikipedia.org/wiki/日本の鉄道駅#直営駅 "wikilink")。
+
+### 過去の接続路線
+
+  - 東灘信号場：[日本貨物鉄道](https://ja.wikipedia.org/wiki/日本貨物鉄道 "wikilink") 東海道本線貨物支線（[神戸臨港線](https://ja.wikipedia.org/wiki/神戸臨港線 "wikilink")） - 2003年12月1日廃止
+      - [神戸港駅](https://ja.wikipedia.org/wiki/神戸港駅 "wikilink")まで延びていた[貨物線](https://ja.wikipedia.org/wiki/貨物線 "wikilink")。鷹取駅構内の留置線を転用して[神戸貨物ターミナル駅](https://ja.wikipedia.org/wiki/神戸貨物ターミナル駅 "wikilink")が開業したのに併せて廃止された。
+  - 三ノ宮駅：[神戸市電](https://ja.wikipedia.org/wiki/神戸市電 "wikilink") ⇒[三宮阪急前駅](https://ja.wikipedia.org/wiki/三宮駅 "wikilink")
+  - 神戸駅：神戸市電 ⇒[神戸駅前駅](https://ja.wikipedia.org/wiki/神戸駅_\(兵庫県\) "wikilink")
+  - 兵庫駅：
+      - [山陽電気鉄道](https://ja.wikipedia.org/wiki/山陽電気鉄道 "wikilink")[本線](https://ja.wikipedia.org/wiki/山陽電気鉄道本線 "wikilink")
+      - 神戸市電
+  - 須磨駅：神戸市電
+  - 土山駅：[別府鉄道](https://ja.wikipedia.org/wiki/別府鉄道 "wikilink")[土山線](https://ja.wikipedia.org/wiki/別府鉄道土山線 "wikilink")
+  - 加古川駅：[高砂線](https://ja.wikipedia.org/wiki/高砂線 "wikilink")
+  - 姫路駅：[姫路市営モノレール](https://ja.wikipedia.org/wiki/姫路市営モノレール "wikilink")
+
+### 接近メロディ
+
+1997年（平成9年）2月16日から各駅には専用の[接近メロディである](https://ja.wikipedia.org/wiki/発車メロディ "wikilink")「さざなみ」が導入されている。このメロディは本来JR神戸線の区間には入らない姫路駅 - [上郡駅](https://ja.wikipedia.org/wiki/上郡駅 "wikilink")間の各駅に加え、[赤穂線](https://ja.wikipedia.org/wiki/赤穂線 "wikilink")の[相生駅](https://ja.wikipedia.org/wiki/相生駅_\(兵庫県\) "wikilink") - 播州赤穂駅間の各駅でも使用されている（前者については上郡まで[神戸支社管轄であるため](https://ja.wikipedia.org/wiki/西日本旅客鉄道神戸支社 "wikilink")）。ただし、大阪駅は[大阪環状線](../Page/大阪環状線.md "wikilink")と同様のメロディを使用している。
+
+さくら夙川駅は2007年（平成19年）3月18日の開業時から[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")の楽曲「[桜](https://ja.wikipedia.org/wiki/桜_\(コブクロの曲\) "wikilink")」をアレンジした専用メロディが使用されていたが、著作権使用料の関係で2010年（平成22年）3月2日から「さざなみ」に変更されている（到着放送も廃止、さらに2015年〈平成27年〉3月12日には「さざなみ（音質見直し版）」に再変更）\[58\]。また、[須磨海浜公園駅](https://ja.wikipedia.org/wiki/須磨海浜公園駅 "wikilink")では「[かもめの水兵さん](https://ja.wikipedia.org/wiki/かもめの水兵さん "wikilink")」をアレンジした専用メロディが使用されていたが、2014年（平成26年）7月16日から「さざなみ（音質見直し版）」に変更されている\[59\]。2015年（平成27年）3月12日からはこの音質見直し版をJR神戸線各駅ならびに山陽本線[相生駅以東](https://ja.wikipedia.org/wiki/相生駅_\(兵庫県\) "wikilink")・上郡駅、赤穂線播州赤穂駅に拡大した。
+
+## 新駅設置計画
+
+明石駅 - 西明石駅間に新駅を設置する計画がある\[60\]が、計画は停滞している。また、大久保駅 - 魚住駅間にも新駅を設置する計画がある\[61\]。
+
+## 連続立体交差事業
+
+兵庫県は、東加古川駅付近の連続立体交差事業（鉄道高架化）の事業化に向けた調査を行う方針である\[62\]。
+
+## 脚注
+
+## 参考文献
+
+  - 『よみがえれ\!線路よ街よ - 阪神・淡路大震災 JR西日本100人の証言』[交通新聞社](https://ja.wikipedia.org/wiki/交通新聞社 "wikilink")、1996年。ISBN 978-4-875130-51-2。
+  - 『阪神・淡路大震災 鉄道復旧記録誌』西日本旅客鉄道、1996年。
+  - [川島令三](https://ja.wikipedia.org/wiki/川島令三 "wikilink")『山陽・山陰ライン 全線・全駅・全配線 (1) 神戸・姫路エリア』講談社、2011年。ISBN 978-4-06-295151-7。
+
+## 関連項目
+
+  - [日本の鉄道路線一覧](https://ja.wikipedia.org/wiki/日本の鉄道路線一覧 "wikilink")
+  - [京阪神快速](https://ja.wikipedia.org/wiki/京阪神快速 "wikilink")
+  - [京阪神緩行線](https://ja.wikipedia.org/wiki/京阪神緩行線 "wikilink")
+  - [石屋川トンネル](https://ja.wikipedia.org/wiki/石屋川トンネル "wikilink")
+
+[Category:JR神戸線](https://ja.wikipedia.org/wiki/Category:JR神戸線 "wikilink") [Category:近畿地方の鉄道路線](https://ja.wikipedia.org/wiki/Category:近畿地方の鉄道路線 "wikilink") [Category:西日本旅客鉄道の鉄道路線](https://ja.wikipedia.org/wiki/Category:西日本旅客鉄道の鉄道路線 "wikilink") [Category:大阪府の交通](https://ja.wikipedia.org/wiki/Category:大阪府の交通 "wikilink") [Category:兵庫県の交通](https://ja.wikipedia.org/wiki/Category:兵庫県の交通 "wikilink") [Category:阪神間](https://ja.wikipedia.org/wiki/Category:阪神間 "wikilink")
+
+1.  [近畿エリア・広島エリアに「路線記号」を導入します](http://www.westjr.co.jp/press/article/2014/08/page_5993.html) - 西日本旅客鉄道ニュースリリース 2014年8月6日
+2.  [ご利用可能エリア｜ICOCA：JRおでかけネット](http://www.jr-odekake.net/icoca/area/map/all.html) - 西日本旅客鉄道
+3.  西明石駅 - 姫路駅間は普通
+4.  緩行電車は、旅客向けの交通新聞社刊行『JR時刻表』では「各駅停車」と表記されている。
+5.
+6.
+7.  [平成18年3月18日ダイヤ改正](http://web.archive.org/web/20060203031421/http://www.westjr.co.jp/news/newslist/article/060130b.html)（[インターネットアーカイブ](https://ja.wikipedia.org/wiki/インターネットアーカイブ "wikilink")）- 西日本旅客鉄道プレスリリース 2006年1月30日
+8.  加古川駅では普通（西明石から快速）で案内。
+9.
+10. [JR神戸線甲子園口駅2番のりばを発着する列車のダイヤ変更について](http://web.archive.org/web/20071220211158/http://www.westjr.co.jp/news/newslist/article/1173195_799.html)（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 2007年7月24日
+11. [〜より快適な車内環境をめざして〜「女性専用車」を拡大します](http://replay.waybackmachine.org/20021203004309/http://www.westjr.co.jp/news/021017a.html)（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 2002年10月7日
+12. [女性専用車の全日化･終日化について](http://www.westjr.co.jp/news/newslist/article/1175252_799.html)・[車両保守部品の不足に伴う列車運転計画の見直しについて](http://www.westjr.co.jp/news/newslist/article/1175270_799.html) - 西日本旅客鉄道プレスリリース 2011年3月4日・2011年4月6日
+13.
+14. [大晦日から元旦に『終夜臨時列車』を各方面に運転\!](http://web.archive.org/web/20020210020355/http://www.westjr.co.jp/news/011016f.html)（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 2001年10月16日
+15.
+16. [平成11年度【 冬 】の臨時列車の運転について 在来線（終夜臨時列車＆初日の出列車）](http://web.archive.org/web/20000519092121/http://www.westjr.co.jp/kou/press/4press/n991015d.html)（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 1999年10月15日
+17. [−平成12年度【 冬 】の臨時列車の運転について−（別紙詳細）](http://web.archive.org/web/20010303123917/http://www.westjr.co.jp/kou/press/4press/n001016d.html)（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 2000年10月16日
+18.
+19. [【JR西】225系営業運転開始](http://rail.hobidas.com/rmn/archives/2010/12/jr225_3.html) - 『鉄道ホビダス』[ネコ・パブリッシング](https://ja.wikipedia.org/wiki/ネコ・パブリッシング "wikilink") RMニュース 2010年12月3日
+20. [2010年7月定例社長会見](http://www.westjr.co.jp/news/newslist/article/1174899_799.html) - 西日本旅客鉄道プレスリリース 2010年7月21日
+21. 『JR気動車客車編成表 '05年版』ジェー・アール・アール、2005年。ISBN 4-88283-126-0。
+22. 『JR気動車客車編成表 '06年版』、ジェー・アール・アール、2006年。ISBN 4-88283-127-9。
+23. [205系が東海道本線から撤退](http://railf.jp/news/2013/03/16/094200.html) - 『鉄道ファン』交友社 railf.jp 鉄道ニュース、2013年3月16日
+24. [205系C4編成が日根野支所へ](http://railf.jp/news/2013/03/20/055000.html) - 『鉄道ファン』交友社 railf.jp 鉄道ニュース、2013年3月20日
+25. [キハ181系“はまかぜ”ラストラン](http://railf.jp/news/2010/11/07/123500.html) - 『[鉄道ファン](https://ja.wikipedia.org/wiki/鉄道ファン_\(雑誌\) "wikilink")』[交友社](https://ja.wikipedia.org/wiki/交友社 "wikilink") railf.jp鉄道ニュース 2010年11月7日
+26.
+27.
+28.
+29.
+30.
+31.
+32. [JR東西線の開業とアーバンネットワークのダイヤ改正について](http://web.archive.org/web/19980205212114/www.westjr.co.jp/new/1press/press_9.html)（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 1995年9月27日
+33. [平成9年3月アーバンネットワークのダイヤ改正について](http://web.archive.org/web/19980206005423/www.westjr.co.jp/new/1press/kaisei9.htm)（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 1996年12月16日
+34. 『JR気動車客車編成表 '03年版』ジェー・アール・アール、2003年。ISBN 4-88283-124-4。
+35.
+36. 『JR気動車客車編成表 '04年版』ジェー・アール・アール、2004年。ISBN 4-88283-125-2。
+37. [駅コンコースを終日全面禁煙にします](http://web.archive.org/web/20031001173208/www.westjr.co.jp/news/newslist/article/030829a.html)（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 2003年8月29日
+38. [「ICOCA」いよいよデビュー\! 〜 平成15年11月1日（土）よりサービス開始いたします 〜](http://web.archive.org/web/20040803184954/www.westjr.co.jp/news/newslist/article/030820a.html)（インターネット・アーカイブ） - 西日本旅客鉄道プレスリリース 2003年8月30日
+39. [平成17年3月ダイヤ改正出発式および記念式典の開催](http://web.archive.org/web/20050228071943/http://www.westjr.co.jp/news/newslist/article/050221a.html)（インターネット・アーカイブ）- 2005年2月21日
+40.
+41. [2006年9月定例社長会見](http://web.archive.org/web/20070312202955/www.westjr.co.jp/news/newslist/article/k060920.html)（インターネット・アーカイブ）- 西日本旅客鉄道 2006年9月20日
+42. （インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 2006年12月22日
+43. [新駅名称「さくら夙川」に　西ノ宮駅は「西宮」に改称](http://web.archive.org/web/20071120054841/http://www.asahi.com/kansai/news/OSK200611220043.html)（インターネット・アーカイブ）- [朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink") 2006年11月22日
+44. [在来線特急列車などの全席禁煙化ならびに在来線ホームの禁煙化の拡大について](http://www.westjr.co.jp/news/newslist/article/1174167_799.html) - 西日本旅客鉄道プレスリリース 2009年3月26日
+45.
+46.
+47.
+48.
+49.
+50. [“らくラクはりま”の運転開始](https://railf.jp/news/2019/03/19/150000.html) - 『鉄道ファン』交友社 railf.jp 鉄道ニュース、2019年3月19日
+51. \[<http://www.westjr.co.jp/press/article/2016/07/page_8973.html>　近畿エリアの12路線 のべ300駅に「駅ナンバー」を導入します！\] - 西日本旅客鉄道ニュースリリース 2016年7月20日
+52.  - 西日本旅客鉄道、2016年7月20日
+53. 直接的な接続ではないが、神戸市内発着の乗車券に限って地下鉄などを経由して、山陽新幹線新神戸駅との乗り換えのための[途中下車](https://ja.wikipedia.org/wiki/途中下車 "wikilink")を特別に認めている。詳細は「[新神戸駅\#JR在来線との接続](https://ja.wikipedia.org/wiki/新神戸駅#JR在来線との接続 "wikilink")」を参照。
+54.
+55.
+56.
+57. 赤穂線の正式な起点は相生駅だが、播州赤穂からの列車はすべて姫路駅へ乗り入れる
+58. [著作権料高かった? さくら夙川駅メロディー廃止](http://www.kobe-np.co.jp/news/shakai/0002873239.shtml) - 神戸新聞 2010年4月14日
+59. \[<http://www.kobe-np.co.jp/news/shakai/201407/0007177135.shtml>　消えゆく独自メロディー　ＪＲ須磨海浜公園駅「かもめの水兵さん」お別れ\] - 神戸新聞 2014年7月25日
+60. [JR西、相次ぎ新駅計画　明石―西明石駅間など](https://www.nikkei.com/article/DGXNASHD25031_V20C11A8LDA000/) - 日本経済新聞、2011年8月26日
+61. [明石に新幹線車両基地　在来線新駅、大久保－魚住間に設置](https://www.kobe-np.co.jp/news/sougou/201911/0012878003.shtml) - 神戸新聞、2019年11月15日
+62.

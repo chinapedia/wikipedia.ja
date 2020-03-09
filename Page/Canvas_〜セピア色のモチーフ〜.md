@@ -1,0 +1,161 @@
+> この記事は[Canvas ](https://ja.wikipedia.org/wiki/Canvas_)から翻訳されています。
+
+
+|- | colspan="2" style="padding: 0;"|
+
+| **アニメ** {{Infobox animanga/OVA | 監督= | シリーズ構成= | キャラクターデザイン= | れもんは〜と\]\] | 製作= | 開始=2001年 | 終了=2002年 | 話数=全2話 }} |
+| ------------------------------ | --- | ------- | ----------- | ---------- | --- | -------- | -------- | --------- |
+
+『**Canvas 〜セピア色のモチーフ〜**』（キャンバス セピアいろのモチーフ）は、2000年11月24日に[カクテル・ソフト](../Page/カクテル・ソフト.md "wikilink")より発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。
+
+## 沿革
+
+  - 2000年11月24日 - 『Canvas 〜セピア色のモチーフ〜』発売\[1\]
+  - 2001年4月5日 - [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版発売（全年齢対象、[NECインターチャネルより発売](https://ja.wikipedia.org/wiki/インターチャネル "wikilink")）\[2\]
+  - 2001年9月21日 - ファンディスク『**NAKED BLUE Canvas Wallpaper Collection**』発売（18禁、[F\&C・FC01](https://ja.wikipedia.org/wiki/F&C・FC01 "wikilink")より発売）
+  - 2001年11月22日 - 『**Canvas DVD 〜セピア色のモチーフ〜**』発売。ドリームキャスト版の追加要素を盛り込みDVDに対応。
+  - 2001年12月25日 - [OVA](../Page/OVA.md "wikilink")が発売（全2巻・15禁、[れもんは〜と](https://ja.wikipedia.org/wiki/れもんは〜と "wikilink")より）
+  - 2003年4月10日 - [PlayStation 2版発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（全年齢対象、NECインターチャネルより発売）
+  - 2005年3月3日 - PlayStation 2向け廉価版発売（[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12歳以上対象）
+  - 2006年4月6日 - 『Canvas DVD 〜セピア色のモチーフ〜』のダウンロード販売開始（萌えキュンDLより）
+  - 2007年5月25日 - [DLsite.com](https://ja.wikipedia.org/wiki/DLsite.com "wikilink")にてダウンロード販売開始。
+  - 2008年7月25日 - [DVDプレイヤーズゲーム](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")（DVD-PG）版発売（アイチェリーより）。\[3\]『Canvas DVD 〜セピア色のモチーフ〜』をベースにHシーンのオリジナル新作動画を追加。
+  - 2008年8月2日 - [Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")専用サイトのドキドキ★Canvasがオープン。ゲームアプリらが配信
+  - 2010年10月7日 - [au専用サイトの虹屋より](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")、18禁版を[携帯電話](../Page/携帯電話.md "wikilink")向けにアレンジしたゲームアプリがリリース
+  - 2011年1月17日 - この日発売の『[メガストア](https://ja.wikipedia.org/wiki/メガストア "wikilink")』2011年3月号の付録に『Canvas DVD 〜セピア色のモチーフ〜』が収録
+  - 2011年3月2日 - ソーシャルゲームとなって[mobage](https://ja.wikipedia.org/wiki/mobage "wikilink")に登場。翌3月3日より[GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")に登場。
+
+## ストーリー
+
+美術特待生として撫子学園に入学した麻生大輔は、学園に言われるままに絵を描くことに疲れ、絵に対する情熱を失っていた。そんなある日、彼は学園から、次回のコンクールで入賞しなければ特待生の資格を剥奪するという通達を受ける。絵に対する情熱を取り戻し、彼は特待生で居続けることができるのであろうか。
+
+## 登場キャラクター
+
+### 主人公
+
+  - 麻生 大輔（あそう だいすけ）
+    [声](../Page/声優.md "wikilink")：[成瀬誠](https://ja.wikipedia.org/wiki/成瀬誠 "wikilink")（OVA版）
+    撫子学園の2年生。美術部所属だが、後述の理由からゲーム開始の時点ではほぼ幽霊部員となっている。父親は[カメラマン](https://ja.wikipedia.org/wiki/カメラマン "wikilink")として世界中を飛び回っていて年に数回しか帰宅せず、母親は幼少の時他界している為現在は一人暮らし。撫子学園には美術の水彩画の特待生として入学したが学園の方針に疑問を抱き、それが原因で絵を描くことに対する情熱を失っている。口調はぶっきらぼうだが根は面倒見の良い性格をしており、ルックスもかなりの美形で女生徒からは人気がある。名前は名のみ変更可能、PS2版のみ麻生大輔でプレイした場合は名前の部分にもヒロインのボイスが補完される。
+
+### ヒロイン
+
+  - 橘 天音（たちばな あまね）
+    声：[倖月美和](https://ja.wikipedia.org/wiki/倖月美和 "wikilink")
+    誕生日：[2月22日](../Page/2月22日.md "wikilink")。血液型：AB型。身長：156cm。体重：43kg。3サイズ：80/58/82。
+    撫子学園の2年生。大輔とは小学校低学年以来の幼馴染であり、クラスメイトでもある。少し鈍臭い部分はあるものの純真無垢で優しい性格の持ち主。動物が好きで学園の動物の飼育係をしている。意外にも成績優秀で（特に理数系）、獣医を目指している。天音が引っ越してきたばかりの頃に彼女が飼っていた猫「にゃん太」の絵を描いたことがきっかけで、それ以来大輔は妹のように接してきた。甘い物全般が好物だが、特に[あんパン](../Page/あんパン.md "wikilink")は「別腹」と宣言するほどで、時として主食にもなる（実際にOVA、ドラマCDとタイアップしたキャンペーン企画であんパンが発売されたことがある）。嫌いな物は[シイタケ](../Page/シイタケ.md "wikilink")で、「シイタケは宇宙人だから食べられない」とのこと。寝起きが非常に悪く、毎朝彼女の家まで起こしに行くのが大輔の日課になっている。
+  - 七城 柚子（ななしろ ゆず）
+    声：[本山友美](https://ja.wikipedia.org/wiki/本山友美 "wikilink") / [冴原羽音](https://ja.wikipedia.org/wiki/冴原羽音 "wikilink")（OVA2巻）
+    誕生日：[12月24日](../Page/12月24日.md "wikilink")。血液型：A型。身長：152cm。体重：42kg。3サイズ：73/52/75。
+    撫子学園の2年生。小学校3年生の時に大輔と一緒のクラスでその後一時引越ししていたが、撫子学園入学時に戻ってきた（大輔はゲーム開始時まで柚子の存在に気づいていなかった）。[陸上部所属](../Page/陸上競技.md "wikilink")。真面目な努力家だが、元々の身体能力は高くないので他の部員に比べて実力では劣っている。かつて大輔が描いた天使の絵に魅せられ、空高く飛ぶことを夢見て[走り高跳び](https://ja.wikipedia.org/wiki/走り高跳び "wikilink")に情熱を燃やしている。女の子らしく料理や編み物なども一通りこなす。一人称は[「ボク」](https://ja.wikipedia.org/wiki/ボク少女 "wikilink")。怒ると（温厚な性格なので激昂するようなことはない）「ぽかぽかぽか」と音をたてながら大輔を叩くことが多い。
+  - 君影 百合奈（きみかげ ゆりな）
+    声：[藤咲かおり](https://ja.wikipedia.org/wiki/藤咲かおり "wikilink")
+    誕生日：[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")。血液型：AB型。身長：163cm。体重：45kg。3サイズ：79/54/80。
+    撫子学園の3年生。母親は病死しており、自身も[心臓](../Page/心臓.md "wikilink")に持病がある。名前が影→黒い、[百合](https://ja.wikipedia.org/wiki/百合 "wikilink")→黒百合（[花言葉](https://ja.wikipedia.org/wiki/花言葉 "wikilink")は「[呪い](https://ja.wikipedia.org/wiki/呪い "wikilink")」）であることから、これらの不幸は呪いのせいと思っており、物静かで儚げな雰囲気を漂わせている。ほとんど他人と関わろうとしないが、ある日大輔に自分の絵を描いて欲しいと依頼する。前述の理由から花言葉を信じる気持ちが非常に強いが、作中で影響のある花言葉として彼女の苗字君影（[スズラン](https://ja.wikipedia.org/wiki/スズラン "wikilink")の別名が君影草）の花言葉「幸福が訪れる」がある。また、[桔梗](https://ja.wikipedia.org/wiki/キキョウ "wikilink")（花屋で大輔が百合奈にプレゼントした）の花言葉「変わらぬ愛」は続編『Canvas2』のヒロイン桔梗霧にも活かされている。
+  - 桜塚 恋 （さくらづか れん）
+    声：[友永朱音](https://ja.wikipedia.org/wiki/友永朱音 "wikilink")
+    誕生日：[10月14日](../Page/10月14日.md "wikilink")。血液型：B型。身長：153cm。体重：43kg。3サイズ：85/54/82。
+    撫子学園の1年生。父親は3歳の時に他界し、母親の桜塚夢乃は大輔の父親のアシスタントとして世界中を飛び回っているため、アパートで一人暮らし。ある日海外の母親から大輔の父親と再婚することを伝えられ、大輔の[義妹](https://ja.wikipedia.org/wiki/義妹 "wikilink")となる（ただし正式な[入籍](https://ja.wikipedia.org/wiki/入籍 "wikilink")は済ませていない。大輔と苗字が異なるのはこのため）。学園内でも一・二を争う美貌と言われ、告白する男子は後を絶たないが（女子からの人気も高い）皆外面しか見ようとしないため、他人の言うことを素直に受け取れない性格になってしまった。いわゆる[ツンデレ](https://ja.wikipedia.org/wiki/ツンデレ "wikilink")キャラで、大輔の描いた海の絵に魅せられたことで彼と兄妹になることを喜んでいる部分もあるが、普段は憎まれ口を叩くことが多い。「死ね、害虫！」などと叫びながら大輔にたびたび[飛び蹴りを仕掛ける](https://ja.wikipedia.org/wiki/ドロップキック "wikilink")（CGとしても用意されている）乱暴な面もある。[アイスクリーム](../Page/アイスクリーム.md "wikilink")が好物でアイスクリーム屋でアルバイトをしている。
+  - 篠宮 悠（しのみや ゆう）
+    声：[原西希京](https://ja.wikipedia.org/wiki/原西希京 "wikilink")
+    誕生日：[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")。血液型：A型。身長：163cm。体重：48kg。3サイズ：84/57/88。
+    以前大輔の隣の家に住んでいた5歳年上の幼馴染で、小さい頃は大輔にとって母親代わりだった。家事全般が得意で面倒見の良い明るい性格をしているが、ドジな面もある。親の都合で遠くに引っ越して行ったが（それと入れ替わるようにして天音が転校してきた）、撫子学園で[教育実習](https://ja.wikipedia.org/wiki/教育実習 "wikilink")を行うために一時的に戻ってきて10年ぶりに大輔と再会することになる（再び大輔の家の隣に部屋を借りている）。担当科目は日本史でわかりやすい授業内容は生徒間でも好評。昔大輔と一緒によく飲んだ[ココア](https://ja.wikipedia.org/wiki/ココア "wikilink")が今でも好物。大輔の初恋の女性であるが、別れた時のある出来事が原因で大輔の心の傷にもなっている。攻略に際して若干の縛りがかけられており、天音のエンディングを一度見ていることが彼女の登場条件となっている。
+  - 美咲 彩（みさき あや）
+    声：[坂口亜梨子](https://ja.wikipedia.org/wiki/坂口亜梨子 "wikilink")（DVD版）/[榎本温子](https://ja.wikipedia.org/wiki/榎本温子 "wikilink")（家庭用）
+    誕生日：[4月19日](../Page/4月19日.md "wikilink")。血液型：A型。身長：159cm。体重：45kg。3サイズ：82/56/83。
+    ドリームキャスト版以降の追加キャラ。撫子学園の1年生。大輔の美術部の後輩で美術特待生。明るく快活で人懐っこい性格をしている、一途で健気な女の子。父親は有名画家、母親は[フルート](../Page/フルート.md "wikilink")奏者と芸術一家で育つ。自身も絵画コンクールで入賞するほどの実力を持つが、大輔には小学生の時以来コンクールで一度も勝ったことがない。そのため学園入学の時点では大輔に敵愾心を燃やしていたが、絵を描く楽しさを改めて大輔に教えられたことから彼を慕うようになり、その後絵を描く情熱を失った大輔を美術部に引き戻そうとする。続編の『[Canvas2 〜茜色のパレット〜](https://ja.wikipedia.org/wiki/Canvas2 "wikilink")』において妹の美咲菫が登場しているが、本作の時点で彼女に妹がいるという話は出てこない。
+
+### サブキャラクター
+
+  - 鷺ノ宮 藍（さぎのみや あい）
+    声：[静木亜美](https://ja.wikipedia.org/wiki/静木亜美 "wikilink")
+    誕生日：[2月14日](../Page/2月14日.md "wikilink")。血液型：O型。身長：155cm。3サイズ：83/55/84。
+    恋の[幼稚園](../Page/幼稚園.md "wikilink")以来の幼馴染で親友。鷺ノ宮財閥という[財閥](https://ja.wikipedia.org/wiki/財閥 "wikilink")の令嬢で、恋と並び学園内でも屈指の美貌の持ち主として人気が高い。性格は恋と正反対で絵に描いたような[大和撫子](https://ja.wikipedia.org/wiki/大和撫子 "wikilink")。家事から楽器の演奏、武道まで多くの分野で英才教育を受けている。大輔の絵のファンで、大輔を「お兄様」と呼ぶ。一応シナリオは用意されているが、イベントCGが1枚もない。『NAKED BLUE』で、イベントが強化されたストーリーが追加された。鷺ノ宮家の一族は続編においても度々登場しており、シリーズの名物一族となっている。
+  - 御薗 瑠璃子（みその るりこ）
+    声：[桜井みき](https://ja.wikipedia.org/wiki/桜井みき "wikilink")
+    誕生日：[8月24日](../Page/8月24日.md "wikilink")。血液型：O型。身長：165cm。3サイズ：84/56/83。
+    撫子学園3年生で百合奈の[従姉妹](https://ja.wikipedia.org/wiki/従姉妹 "wikilink")。地元では由緒ある御薗[神社](https://ja.wikipedia.org/wiki/神社 "wikilink")の娘だが、神仏の類はあまり信じていないらしい。百合奈の母が御薗家の反対を押し切り駆け落ち同然で結婚したため、百合奈とは距離を置いて「君影さん」と呼ぶ。言葉の端々に何かと棘がある。成績優秀で、学園では[華道](../Page/華道.md "wikilink")部に所属して部長を務めている。名前の一部「瑠璃」は[ワスレナグサ](https://ja.wikipedia.org/wiki/ワスレナグサ "wikilink")の別名瑠璃草に通じ、その花言葉は「私のことを忘れないで」。
+
+## スタッフ
+
+  - プロデューサー：笹岡洋光
+  - ディレクター：弥七
+  - シナリオ：雨城弘明、トノイケダイスケ、[宮村優](https://ja.wikipedia.org/wiki/宮村優 "wikilink")
+  - キャラクターデザイン・原画：[☆画野朗](https://ja.wikipedia.org/wiki/☆画野朗 "wikilink")（橘天音・桜塚恋・鷺ノ宮藍）、[魚](https://ja.wikipedia.org/wiki/魚_\(イラストレーター\) "wikilink")（君影百合奈・篠宮悠・御薗瑠璃子）、ぽん酢（七城柚子）、[植田亮](https://ja.wikipedia.org/wiki/植田亮 "wikilink")（美咲彩）
+  - グラフィック監修：藤井純生
+  - 音楽：[DOORS MUSIC ENTERTAINMENT](https://ja.wikipedia.org/wiki/DOORS_MUSIC_ENTERTAINMENT "wikilink")
+
+## 主題歌
+
+  - オープニングテーマ「**Autumn Destiny**」
+      - 作詞・作曲：吉田文 / 歌：[くにたけみゆき](https://ja.wikipedia.org/wiki/くにたけみゆき "wikilink")
+  - エンディングテーマ「**おもいで**」
+      - 作詞・作曲：吉田文 / 歌：くにたけみゆき
+
+## NAKED BLUE
+
+[2001年](../Page/2001年.md "wikilink")夏の[コミックマーケット](../Page/コミックマーケット.md "wikilink")60で発売された本作品のファンディスク。後に一般のルートでも少数ではあるが発売された。
+
+### 収録コンテンツ
+
+  - ミニADV「Canvas〜The heart not to solve〜」
+    本編のうち、桜塚恋シナリオのアナザーストーリー。恋と藍のみの登場で、鷺ノ宮藍のルートが追加された。これに伴い藍の設定も追加された。鷺ノ宮家の三男三女の末っ子で、一つ上の姉と5歳離れているという家族構成（この一つ上の姉がCanvas2のヒロインの一人、鷺ノ宮紗綾である。なお、Canvas2では紗綾が三女で五番目、藍が四女で末っ子の二男四女と設定が変更）、[ピアノ](../Page/ピアノ.md "wikilink")・[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")・[琴](../Page/琴.md "wikilink")・[フルート](../Page/フルート.md "wikilink")の名手で武道の達人（うち、ヴァイオリンと[長刀はCanvas](https://ja.wikipedia.org/wiki/薙刀 "wikilink")2の設定にも出てくる）となっている。
+  - おまけシナリオ
+    ミニADVクリア後出現。なお、おまけシナリオのうち「Canvas2予告編」というものがあり、『**Canvas2〜2nd STAGE〜**』という名の本作品発売当時はウソの作品の紹介が収録されている。後に本当に発売された『Canvas2〜茜色のパレット〜』に、「5年後の撫子学園が舞台」「主人公は新任の美術教師」という部分が活かされた。
+  - タイピングゲーム「ANPAN FIGHT」
+    ミニADVクリア後出現。
+  - 壁紙集
+    上記の「ANPAN FIGHT」をクリアしていくと数が増える。
+  - システムボイス
+    恋、藍、恋&藍のみ。Canvas本編のDVD版にも収録されており、こちらは脇役の瑠璃子も含めたすべてのキャラのシステムボイスが用意されている。
+
+### スタッフ（NAKED BLUE）
+
+  - プロデューサー：藤井純生
+  - シナリオ：宮村優
+  - 原画：[☆画野朗](https://ja.wikipedia.org/wiki/☆画野朗 "wikilink")
+
+他は本編のスタッフに同じ。
+
+## 書籍
+
+  - 『Canvas 〜セピア色のモチーフ〜 ビジュアルファンブック』
+    [エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink") 2001年9月25日初版発行 ISBN 4-7577-0565-4
+
+## 続編
+
+2004年[4月23日](../Page/4月23日.md "wikilink")には続編にあたる『[Canvas2 〜茜色のパレット〜](https://ja.wikipedia.org/wiki/Canvas2 "wikilink")』が発売された。
+
+詳細は『[Canvas2 〜茜色のパレット〜](https://ja.wikipedia.org/wiki/Canvas2 "wikilink")』の記事参照。ここでは本作品との関連性について記載。
+
+  - 舞台は同じ撫子学園だが、制服と校風は一変している。Canvas2の初回版に付属している設定資料によると、制服が変わったのは新理事長（藍）の趣味で「サギノミヤ」ブランドを作ったからであるとのこと。
+  - 本作品のキャラクターも名前だけであるが登場する。
+      - 麻生大輔：有名画家として名を成しており、伝説的なOBとなっている。
+      - 鷺ノ宮藍：撫子学園の理事長に就任。第二の大輔を生まぬよう校風を自由でのびのびとしたものに変えた。ヴァイオリニストとしても活躍。ドラマCDにも登場している。
+      - 桜塚恋：トップモデルとして活躍している（所属事務所の社長は藍）。Canvas2のヒロイン鳳仙エリスの憧れの存在になっている他、鷺ノ宮紗綾の台詞にもその名が出てくる。ドラマCDにも登場している。また、Canvas2の紗綾ルートの際の会話から本編終了後に大輔と結婚したことがわかる（他のルートでは相手が変わる）。
+      - 美咲彩：新進気鋭の画家として活躍しており、大輔と並び称されるほどになっている。ドラマCDにも登場。妹はCanvas2のヒロインの一人美咲菫。また、Canvas2の菫ルートの際、会話から大輔と付き合いがあることがわかる。
+
+『Canvas2 〜茜色のパレット〜』のアニメ版、『Canvas2 〜虹色のスケッチ〜』にも本作品のキャラクターが登場する。登場状況は[Canvas2を参照](https://ja.wikipedia.org/wiki/Canvas2#テレビアニメ "wikilink")。
+
+[2009年](../Page/2009年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")には『[Canvas3 〜白銀のポートレート〜](https://ja.wikipedia.org/wiki/Canvas3 "wikilink")』が発売された。
+
+  - 舞台は撫子学園から姉妹校の繚乱学園に変更。
+  - 学園の制服は5種類の案の中から投票で選定された。
+
+[2011年](../Page/2011年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")には『[アクロウム・エチュード Canvas4](https://ja.wikipedia.org/wiki/アクロウム・エチュード_Canvas4 "wikilink")』が発売された。
+
+  - 舞台は撫子学園に戻っている。
+  - 主人公である小松原亮とヒロインの一人・仁瀬さつきが目標にしている画家は大輔であり、メインヒロイン・青桐ことののルートでは大輔が声のみ登場している。
+  - 大輔はすでに結婚しているが、相手はプレイヤーが選択することになる（攻略ヒロイン6人＋藍の7人が選択肢となる）。
+
+## 脚注
+
+## 外部リンク
+
+  - [NAKED BLUE Canvas Wallpaper Collection](https://fandc.co.jp/catalog/pc/528)
+  - [PS2版公式サイト](https://www.gungho.jp/cgame/game/canvas/)
+
+[Category:F\&Cのゲームソフト](https://ja.wikipedia.org/wiki/Category:F&Cのゲームソフト "wikilink") [Category:2000年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2000年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:インターチャネルのゲームソフト](https://ja.wikipedia.org/wiki/Category:インターチャネルのゲームソフト "wikilink") [Category:ドリームキャスト用ソフト](https://ja.wikipedia.org/wiki/Category:ドリームキャスト用ソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:DVDPG](https://ja.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ファミ通文庫](https://ja.wikipedia.org/wiki/Category:ファミ通文庫 "wikilink") [Category:アニメ作品_き](https://ja.wikipedia.org/wiki/Category:アニメ作品_き "wikilink") [Category:学校を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:学校を舞台としたコンピュータゲーム "wikilink") [Category:絵画を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:絵画を題材としたコンピュータゲーム "wikilink") [Category:2001年の成人向けOVA](https://ja.wikipedia.org/wiki/Category:2001年の成人向けOVA "wikilink") [Category:学園アニメ](https://ja.wikipedia.org/wiki/Category:学園アニメ "wikilink") [Category:Mobage](https://ja.wikipedia.org/wiki/Category:Mobage "wikilink")
+
+1.
+2.
+3.

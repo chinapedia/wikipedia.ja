@@ -1,0 +1,147 @@
+> この記事は[MSX-BASIC](https://ja.wikipedia.org/wiki/MSX-BASIC)から翻訳されています。
+
+
+**MSX-BASIC**（エムエスエックス ベイシック）は、[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")パソコンに[ROMで搭載された](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")[マイクロソフト](../Page/マイクロソフト.md "wikilink")製の[BASIC](../Page/BASIC.md "wikilink")。他のマイクロソフト製BASICと基本的に同じ文法、[ユーザーインターフェース](https://ja.wikipedia.org/wiki/ユーザーインターフェース "wikilink")を持っていた。
+
+## 概要
+
+言語の仕様としては、変数名が最初の2文字のみ有効、行番号を抽象化するラベルの概念がなく、[`GOTO`](https://ja.wikipedia.org/wiki/Goto文 "wikilink")命令等の飛び先にラベルを指定できないなど、他機種に採用されていたマイクロソフト製BASICが拡張されていたのと比べると初期の版に近かった。
+
+[浮動小数点](https://ja.wikipedia.org/wiki/浮動小数点 "wikilink")には[BCD](https://ja.wikipedia.org/wiki/二進化十進表現 "wikilink")（仮数部は6桁または14桁）を使用していた。
+
+[Z80](../Page/Z80.md "wikilink")のメモリ空間のうち前半32KBをBIOSとBASICインタプリタのROM、後半32KBにユーザーエリアと、周辺機器の使用するものを含むワークエリアが配置される。MSX2以降の追加機能やディスクドライブを接続した際のDISK-BASICのためのROMは前半32KBのスロットを切り替える形で実装されていたが、そのワークエリアはフリーエリアの末尾に配置される。そのため、機能を拡張するにつれてフリーエリアは削減される。また、後半のユーザーエリアはページが固定であることを前提に使用されるため、BASICのVersionやハードウェアに関わらず、32KiB以上実装された機種やメモリマッパを持っている機種でもBASICのユーザーエリアは増えず、初期状態で配置されるRAM以外はRAMDISK等の拡張機能で使用する形となっている。
+
+システム部分がROMで構成されているため機能の拡張や、変更用のフックがメモリの最後部に配置されているほか、ディスクドライブなどのBIOSがワークエリアとして使用するため、ユーザーが直接メモリに書き込みを行う場合には、事前に使用可能な末尾のアドレスを確認する必要がある。BASICからの利用を前提としたハードウェアでは、カートリッジ内に制御BIOSと、拡張BASICを持っており、使用前にcall命令によって、初期化を行うことで拡張される。
+
+MSXの[BIOSは通常のパソコンのBIOSとは意味合いが異なり](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")、ハードウェアを隠蔽するために起動時だけでなくハードウェアドライバやシステムコールとして常に使われる性質が強い。MSX-BASICの内部処理もほとんどの場合BIOSを経由して処理が行われ、BIOSの中にはBASICインタプリタ向けの機能もいくつか存在している。前述のBASIC上で行われるBCD浮動小数点演算もMATHPACKと呼ばれるサブルーチンライブラリとしてBASIC内で実装されており、機械語ベースのユーザープログラムやMSX-DOSアプリケーションからの使用も可能になっていた。
+
+また、MSX規格に則ったハードウェアの持つスプライト機能、VDP命令の補助によるグラフィックス処理等によって、他の機種では難しかった高速にキャラクタが動き回るリアルタイムゲームをBASICレベルで作成することが簡単だった。また、命令単位では低級言語によるハードウェアの直接制御に肉薄する速度で動作させることが可能だったことも特徴である。ただし、グラフィックス制御に関してはアルゴリズムレベルで最適化するなどしない限り、直接ハードウェアを制御してもそれ以上の速度は望めないということでもあり、VDPの処理速度から必ずしも他の実装に対し高速なわけではない。
+
+### 拡張された命令
+
+MSXの規格にあわせた次のような命令を持っていた。
+
+  - `VPOKE`,`VPEEK`
+    [VRAM](https://ja.wikipedia.org/wiki/VRAM "wikilink")への書き込み命令と読み込み関数。MSXではVRAMはVDPが管理し、CPUのアドレス空間とは別になっているため用意された。
+  - `VDP`
+    画像コントローラ[VDPのレジスタをBASICから直接読み書きする関数](https://ja.wikipedia.org/wiki/TMS9918 "wikilink")。
+  - `ON` ～ `GOSUB`
+    割り込み命令。[ファンクションキー](https://ja.wikipedia.org/wiki/ファンクションキー "wikilink")押下（`KEY`）、インターバルタイマ（`INTERVAL`）、[スプライト衝突](https://ja.wikipedia.org/wiki/スプライト_\(映像技術\) "wikilink")（`SPRITE`）、プログラム中断操作（`STOP`）などを検知して特定の[サブルーチン](https://ja.wikipedia.org/wiki/サブルーチン "wikilink")をコール。
+  - `CALL`
+    スロットに接続されたデバイスの拡張命令を呼び出す。周辺機器の持つ拡張BIOSに`CALL`命令の処理[ルーチン](https://ja.wikipedia.org/wiki/ルーチン "wikilink")が格納されており、BASICプログラムから周辺機器をコントロールすることができた。短縮形はアンダーバー(`_`)。
+      - 例：[MSX-DOS](https://ja.wikipedia.org/wiki/MSX-DOS "wikilink")から「`BASIC`」コマンドで[DISK-BASIC](https://ja.wikipedia.org/wiki/DISK-BASIC "wikilink")を起動した場合、`CALL SYSTEM`を実行するとMSX-DOSが起動。
+  - `PUT SPRITE`
+    スプライトの表示位置・パターン・色を制御。
+  - `SPRITE$(n)`
+    スプライトのパターンを定義する関数。
+
+### DISK-BASIC
+
+本体またはカートリッジスロットに[フロッピーディスクドライブ](https://ja.wikipedia.org/wiki/フロッピーディスクドライブ "wikilink")が存在する場合、それらの内蔵ROMにより拡張された[DISK-BASIC](https://ja.wikipedia.org/wiki/DISK-BASIC "wikilink")が起動した。物理的にドライブが1台の場合でも、ワークエリアは2台分確保される。CTRLキーを押しながら起動することで1台分に制限され、空きエリアを増やすことができた。また、SHIFTキーを押しながら起動するとフロッピーディスク環境は一切無効化され、従来のROM-BASICの空きエリアを前提としたアプリケーションが実行できた。
+
+## バージョン
+
+MSX-BASICにはMSXの規格と対応するいくつかのバージョンが用意された。ローマ字入力等の一部を除けば、規格の拡張に伴い機能に対応する予約語の追加が主な変更点となる。但し、メモリについては積極的にフリーエリアや、ワークエリアとして使用するような拡張はされず、RAMDISKなど拡張ストレージとしての対応に留まっている。すべてのバージョンで文法に上位互換性があり、大幅なシステムプログラムの更新が行われたturboRを除けばスイッチ、システムの読み込みなどによるモード変更やシステムの変更などを必要とせずにそのまま旧版のソフトウェアが実行可能である。MSX turboRではプロセッサの変更やMSX-DOSの改版に伴い、起動時に「1」キーを押し続けるか、MSX-DOS1またはDISK-BASICのVersion1でフォーマットしたディスクで起動するとDISK-BASICがVersion1で[Z80](../Page/Z80.md "wikilink")ベースの互換モードで起動し、互換性を維持している。
+
+### Version1.x
+
+[MSX](https://ja.wikipedia.org/wiki/MSX_\(初代規格\) "wikilink")(1)用。 FDDを含む拡張BASICを使用しない場合、ROM-BASICのワークエリアは約4KBである。ユーザエリアは
+
+  - RAM 32KB以上の機種 28,815バイト
+  - RAM 16KBの機種 12,431バイト
+  - RAM 8KBの機種（[CASIO](https://ja.wikipedia.org/wiki/カシオ計算機 "wikilink") [PV-7](https://ja.wikipedia.org/wiki/PV-7 "wikilink")） 4,239バイト
+
+となっており、後継機と異なりRAMの拡張によってユーザーエリアを増設することが可能である。
+
+### Version2.x
+
+[MSX2](https://ja.wikipedia.org/wiki/MSX2 "wikilink")用。
+
+  - `SCREEN`命令やスプライト命令の拡張。
+  - マウスやトラックボール等の[入力機器](https://ja.wikipedia.org/wiki/入力機器 "wikilink")の情報取得。
+  - [CMOS](https://ja.wikipedia.org/wiki/CMOS "wikilink")メモリによるカレンダ時計機能や設定バックアップ機能が搭載されたことにより、設定変更のための`SET`命令を追加。
+      - カレンダ時計の設定（`SET TIME`、`SET DATE`）。
+      - カレンダ時計の取得（`GET TIME`、`GET DATE`）。
+      - 画面表示位置の補正値を設定（`SET ADJUST`）。
+      - ビープ音の音量や種類を設定（`SET BEEP`）。
+      - デフォルトの画面設定を保存（`SET SCREEN`）。
+      - 6文字以内の任意の文字列を起動ロゴ画面に表示（`SET TITLE`）、プロンプトを標準の`Ok`から6文字以内の任意の文字列に変更（`SET PROMPT`）、起動時の簡易パスワードロック機能を設定（`SET PASSWORD`）。これらは、CMOSメモリの保存領域が共通のため排他使用となる。
+  - `SET VIDEO`などグラフィックに関する`SET`命令を多数追加。
+  - ROM空間に隠された裏RAM32kバイトを擬似RAMディスクとして使用する命令（`CALL MEMINI`）。装置名`MEM:`の追加。
+      -
+        擬似RAMディスクはMSX2+まではRAMディスク、MSXturboRではメモリディスクと呼称。Disk-BASIC ver2.0で実装されたRAMディスクと異なり裏RAMを利用する性質上、インタースロットコールにより間接的にしかアクセスできない関係で転送速度はカセットテープ並に遅かった。
+  - 漢字ROM（オプション）の内容を出力する`PUT KANJI`を追加。
+  - かな文字の[ローマ字入力](https://ja.wikipedia.org/wiki/ローマ字入力 "wikilink")モードを追加。かなキーをShiftキーを押しながらONにすることにより、ローマ字入力が可能になる。
+  - [V9938](https://ja.wikipedia.org/wiki/V9938 "wikilink")のVDPコマンドを利用した`COPY`命令。
+      - 配列の形で確保したメインメモリと画面の矩形との間での転送と、画像をメインメモリを経由することなく矩形でコピーが可能。論理演算や透明色を適用でき、非常に容易にグラフィックを取り扱うことが可能となった。
+
+MSX2は全機種がRAM 64KB以上であるため、ROM-BASICのユーザエリアは28,815バイトである。2.xで拡張された命令は1.xで未使用だったワークエリアで動作する。
+
+### Version3.x
+
+[MSX2+](https://ja.wikipedia.org/wiki/MSX2+ "wikilink")用。
+
+  - `SCREEN`命令（10～12）のモード追加。
+  - `SET SCROLL`を追加。MSX2ではVDPで縦スクロールはあるものの、VDP命令から直接指示しなければならなかったが、この命令で直接、BASIC上から縦横スクロールが出来るようになった。
+  - 平仮名などのフォントを変更し、`SCREEN 0`の横6ドット表示でも識別できるようになった。
+  - 漢字BASICを標準搭載。（連文節変換機能のMSX-JEは規格上はオプション。非搭載の機種では単漢字変換となる。）ただし、漢字フォントのスタイルは本体メーカーによって違う。
+  - ファンクションキーのF7の登録命令が「`cload"`」から「`load"`」に変更。
+
+MSX2+は全機種がRAM 64KB以上であるため、ROM-BASICのユーザエリアは28,815バイトである。3.xで拡張された命令は1.x, 2.xで未使用だったワークエリアで動作する。
+
+### Version4.x
+
+[MSXturboR](https://ja.wikipedia.org/wiki/MSXturboR "wikilink")用。
+
+  - [R800](https://ja.wikipedia.org/wiki/R800 "wikilink")の高速モードに対応。
+  - [PCM](https://ja.wikipedia.org/wiki/PCM "wikilink")機能などの命令を追加。
+  - MSX-DOS2内蔵によりDISK-BASICがVersion2になり、カレントディレクトリを変更する`CALL CHDIR`命令やメモリマッパを[RAMディスク](https://ja.wikipedia.org/wiki/RAMディスク "wikilink")として使用する`CALL RAMDISK`命令などが追加。互換Z80モードではVersion1で起動。
+  - カセットテープI/Oに関する命令（`CSAVE`/`CLOAD`/`CLOAD?`/`MOTOR`）および装置名`CAS:`が削除され、実行するとエラーとなる。
+      - `CSAVE`/`CLOAD`/`CLOAD?`/`MOTOR`は*Syntax error*となり、`CAS:`は*Bad file name*となる。*Device I/O error*とはならない
+    <!-- end list -->
+      -
+        対応するBIOSのエントリは残っているものの、コールしても何もせず正常終了かエラーを返すだけになっている
+  - これまでのBASICインタプリタはPLAY文が終了する時に1カウント分余計な空白が入るバグがあり、MIDIインターフェイスが本体へ搭載される際に解消された\[1\]。
+
+## BASICコンパイラ
+
+MSX-BASICには「[MSXべーしっ君](https://ja.wikipedia.org/wiki/べーしっ君 "wikilink")」という名称でMSX独自の機能を活用できる[コンパイラ](../Page/コンパイラ.md "wikilink")も存在した。
+
+アスキーに所属していた[プログラマ](https://ja.wikipedia.org/wiki/プログラマ "wikilink")・鈴木仁志が開発した\[2\]。初版は[雑誌](../Page/雑誌.md "wikilink")に発表、1986年にアスキーから[ROMカートリッジ](https://ja.wikipedia.org/wiki/ROMカートリッジ "wikilink")で発売された。製品名は当時[ログイン誌で連載していた](https://ja.wikipedia.org/wiki/ログイン_\(雑誌\) "wikilink")4コママンガのタイトルから取られており、ソフトのパッケージにも主人公・べーしっ君のイラストが描かれ、一見するとゲームソフトのようだった。付属のフロッピーディスクにはサンプルの[マンデルブロ集合](https://ja.wikipedia.org/wiki/マンデルブロ集合 "wikilink")の描画やワイヤーフレームの[3D迷路](https://ja.wikipedia.org/wiki/3D迷路 "wikilink")自動作成のプログラムが収められていた。
+
+MSX2+が発表されると新機能に対応した「べーしっ君ぷらす」が発売されたほか、サンヨーのMSX2+であるWAVY77シリーズに同等のものが内蔵された。また、MSXturboRが発表されると[ソフトベンダーTAKERU](https://ja.wikipedia.org/wiki/ソフトベンダーTAKERU "wikilink")からディスク版で「べーしっ君たーぼ」が発売された。
+
+なお、MSX-BASICのコンパイラは、べーしっ君以外にも、ソフトウエスト、ハート電子産業がそれぞれ開発・発売していたものが存在する。
+
+### 仕様
+
+オンメモリのコンパイラで、拡張BASICとして実装されている。ROM媒体や本体内蔵のバージョンではROMカートリッジや本体内のスロットに、ディスク媒体のバージョンではメインRAMの未使用領域（裏RAM）に格納されて動作する。
+
+既存のBASICプログラムを、少しの手直しをするだけで高速化できるというコンセプトで設計されている。
+
+一般的なコンパイラと違い、中間コードや機械語オブジェクトをファイルとしては生成せず、実行のたびにその都度機械語オブジェクトを生成する仕様となっている。このため、MSXべーしっ君で書かれたプログラムはMSX-BASICのプログラムソースそのものであり、一般のBASICプログラムと同等に管理できるため、BASICの扱いの簡便さと機械語の高速さを併せ持った開発環境となっている。
+
+実行速度は最大で10倍程度も高速化される。
+
+MSX-BASICの完全互換ではなく、ディスク入出力など未サポートの命令が一部あるため、プログラム全体をコンパイルするか一部分のみをコンパイルするかを選択できるようになっている。
+
+`RUN` の代わりに拡張命令 `CALL RUN` により実行開始した場合、プログラム全体の機械語オブジェクトを生成し実行する。
+
+一部分のみをコンパイルする場合は、BASICプログラム内に拡張命令（`CALL TURBO ON`、`CALL TURBO OFF`）を組み込む。実行時にその拡張命令に処理が移ると、ワークエリアにその範囲の機械語オブジェクトが一時的に生成されて実行される仕組みとなっている。範囲外の箇所はそのままBASICで動作するため、MSXべーしっ君非対応の命令がプログラムソース中に同居できる。
+
+浮動小数点数は、MSX-BASICがBCDで実装しているのに対して効率化を理由に3バイトの2進数という独自方式で実装している\[3\]ため、非コンパイル部分と受け渡しすることはできない。
+
+## 脚注
+
+<references />
+
+## 関連項目
+
+  - [MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")
+  - [MSX-DOS](https://ja.wikipedia.org/wiki/MSX-DOS "wikilink")
+
+[Category:BASICインタプリタ](https://ja.wikipedia.org/wiki/Category:BASICインタプリタ "wikilink") [Category:MSX](https://ja.wikipedia.org/wiki/Category:MSX "wikilink")
+
+1.  [宮本拓海](https://ja.wikipedia.org/wiki/宮本拓海 "wikilink") [\#004 2003/12/14　MSXの思い出](http://takumi-cb.com/column_2/004.html)
+2.  「超速コンパイラMSXべーしっ君たーぼとR800の秘密\! 岸岡和也×鈴木仁志」『MSX MAGAZINE 永久保存版 2』アスキー書籍編集部編著、アスキー、2003年。p.68。
+3.  MSXマガジン永久保存版2 「超速コンパイラMSXべーしっ君たーぼとR800の秘密！」P.70

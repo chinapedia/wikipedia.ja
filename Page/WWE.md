@@ -1,0 +1,1037 @@
+> この記事は[WWE](https://ja.wikipedia.org/wiki/WWE)から翻訳されています。
+
+
+**WWE**（、）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](https://ja.wikipedia.org/wiki/団体 "wikilink")及び[興行](https://ja.wikipedia.org/wiki/興行 "wikilink")[会社](../Page/会社.md "wikilink")。
+
+[1979年](../Page/1979年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")以前は**WWWF**（）、[2002年](../Page/2002年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")以前は**WWF**（）という名称であったが、まったく同じ略称の （[世界自然保護基金](https://ja.wikipedia.org/wiki/世界自然保護基金 "wikilink")）に名称の改変を求める訴訟を起こされて敗訴してWWEに改めた\[1\]（ちなみに近年販売されているオフィシャルなDVD等においては過去の映像の中で「WWF」の語が発せられた場合は全て「WWE」と訳出されている。マークやロゴの場合はぼかしなどで修正していた）。[2012年](../Page/2012年.md "wikilink")に世界自然保護基金との交渉により映像や音声の修正無しでの過去の映像の使用が可能になった。ちなみに設立当初の **WWWF**の読みは「**スリー・ダブリュー・エフ**」である。
+
+[1999年](../Page/1999年.md "wikilink")より[株式](../Page/株式.md "wikilink")を公開（当初は[NASDAQ](https://ja.wikipedia.org/wiki/NASDAQ "wikilink")、現在は[ニューヨーク証券取引所](https://ja.wikipedia.org/wiki/ニューヨーク証券取引所 "wikilink")）しているが株式の約8割をオーナーであるマクマホン・ファミリーと関係者で保持しているため会社の経営権は不動となっている。なお取引所内で使われる[証券コードもWWEである](https://ja.wikipedia.org/wiki/ティッカーシンボル "wikilink")\[2\]。
+
+## 特徴
+
+### スタイル
+
+プロレス団体としてのスタイルは、完全にドラマ仕立てのショープロレスで、試合における技の美しさや流れよりも、ストーリーの流れの方が注目されることが多い。しかし試合そのものはプロレスの基本に忠実な正統な展開を好み、あまり大技を使わずに試合を構成できる実力派の選手も多い。一方では凶器有りの[デスマッチ](https://ja.wikipedia.org/wiki/デスマッチ "wikilink")を得意とする者もおり、単にストーリーだけの団体ではない。
+
+WWEが[株式](../Page/株式.md "wikilink")上場する以前は、「シナリオなど存在しない」という建前であったが、株式上場の際、事業内容を公開するにあたってシナリオ（[アングル](https://ja.wikipedia.org/wiki/アングル_\(プロレス\) "wikilink")）の存在を公式に認めた。
+
+アングルには下品、流血、色気、暴力、犯罪等ありとあらゆる悪徳が採用されており、当然そのような描写を嫌う人も多く、攻撃されることもあるが、それも肥やしにしてしまう強さがある。しかしながら、2000年以降圧力団体のクレームから過激な暴力描写を抑制せざるをえない状況にある。例えば、鉄柱、実況席を使った攻防、イス攻撃や試合外での襲撃シーンその他過激なシーンに自主規制を加えるようになっている。
+
+近年は特に過激路線からの方向転換が顕著で、テレビ番組のレーティングをPG（[映画のレイティングシステム](../Page/映画のレイティングシステム.md "wikilink")参照）に引き下げるなどファミリー路線への転換を狙っているようである。この影響で現在ブラ＆パンティマッチなどを放送することはできなくなっている。これによりストーリーも以前のような過激なものではなくなった。
+
+ちなみに過去にファミリー路線への変換を狙ったときは途中でWCWに追い抜かれ、結果としてストーンコールドなどを中心とするアティテュード路線に変更した。
+
+WWEにおいて特徴的なのは、時々経営者一族（マクマホン一家）がシナリオに絡むことであり、彼等が登場することで、スーパースター達のみの興行より盛り上がることである。ビンスはレスラーではないが60歳を超えたにもかかわらず鍛え上げた身体でスーパースター達と抗争を繰り返し、息子のシェインは10m以上の高さからのダイビングを得意としている。娘の[ステファニーに至っては自身の豊胸手術までもが番組のネタとされてしまったことがある](https://ja.wikipedia.org/wiki/ステファニー・マクマホン＝レヴェック "wikilink")。妻の[リンダも](https://ja.wikipedia.org/wiki/リンダ・マクマホン "wikilink")[CEOの地位にありながら](https://ja.wikipedia.org/wiki/最高経営責任者 "wikilink")、設定上夫の浮気に傷つき精神障害に陥ったふりをしたり、[ケインからツームストーン](https://ja.wikipedia.org/wiki/グレン・ジェイコブズ "wikilink")・パイルドライバーを受けたりしている。
+
+WWEで用いられる名称もまた特徴的で、[プロレス](../Page/プロレス.md "wikilink")リングという言葉は一切使われず、「**スポーツエンターテイメント**」という用語が使われる（シナリオの流れは「[ソープオペラ](https://ja.wikipedia.org/wiki/ソープオペラ "wikilink")（昼ドラマ）」のような、と表現されることが多い）。同様にレスラー達は「**[スーパースター](https://ja.wikipedia.org/wiki/スーパースター "wikilink")**」と呼ばれ、[プロレスラー](../Page/プロレスラー.md "wikilink")という単語は使われない。かつては男子レスラーのみを「スーパースター」と呼び、女子レスラーに関しては「**[ディーヴァ](https://ja.wikipedia.org/wiki/ディーヴァ_\(プロレス\) "wikilink")**」（マネージャーからレスリングまで幅広い活動を行う）と呼ばれていたが、2016年のWWEディーヴァズ王座が廃止された頃から使用されておらず、2017年以降はレスラーの男女を問わず「スーパースター」という呼称に統一されている。また、レスリングビジネスに関しても「この業界」（*This business*）と表現し、レスリングとは別のものであることをアピールしている。観客・ファン・視聴者などを示すものとして「**WWEユニバース**」という名称が用いられている他、ハルカマニア（[ハルク・ホーガン](https://ja.wikipedia.org/wiki/ハルク・ホーガン "wikilink")）、ジェリカホリック（[クリス・ジェリコ](https://ja.wikipedia.org/wiki/クリス・ジェリコ "wikilink")）、エッジヘッド（[エッジ](https://ja.wikipedia.org/wiki/エッジ_\(プロレスラー\) "wikilink")）、ピープス（[クリスチャン](https://ja.wikipedia.org/wiki/クリスチャン_\(プロレスラー\) "wikilink")）など特定のスーパースターのファンを指す呼称が存在する。
+
+主役級のスーパースターは善玉（[ベビーフェイス](https://ja.wikipedia.org/wiki/ベビーフェイス_\(プロレス\) "wikilink")）と悪玉（[ヒール](https://ja.wikipedia.org/wiki/ヒール_\(プロレス\) "wikilink")）がはっきりと色分けされており、悪玉は観客、地域について罵詈雑言を浴びせ、観客はそれに対して[ブーイング](https://ja.wikipedia.org/wiki/ブーイング "wikilink")で応えることを楽しんでいるが、アングルにより、ある日突然役割が入れ替わることも珍しくない。しかし最近ではWWE側がベビーフェイスと設定しプッシュの割に至らない所があるスーパースターに[ブーイング](https://ja.wikipedia.org/wiki/ブーイング "wikilink")を浴びせることもある（[ジョン・シナ](https://ja.wikipedia.org/wiki/ジョン・シナ "wikilink")など）。
+
+登場するスーパースターは[レスリングの元金メダリストや](https://ja.wikipedia.org/wiki/アマチュアレスリング "wikilink")[義足](https://ja.wikipedia.org/wiki/義足 "wikilink")のスーパースター、また近年デビューするスーパースターは有名レスラーの息子、孫等の二世、三世のスーパースターが増加傾向にある。\[3\]など、多彩である。しかし生存競争は激しく、怪我による長期休場や他団体による引き抜き、また人気がなくなると二軍落ちや解雇となり出場そのものができなくなる等、長期間連続で出演できるスーパースターは少ない。また、一部のレスラーの暴走を許したことで運営に大きな支障をきたしたWCWの教訓を生かし、たとえトップレスラーであろうともバックステージでの態度に問題があれば厳しい措置をとっている（[ランディ・オートン](https://ja.wikipedia.org/wiki/ランディ・オートン "wikilink")、[レイ・ミステリオなど](https://ja.wikipedia.org/wiki/レイ・ミステリオ・ジュニア "wikilink")）。
+
+近年はアメリカや[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")だけに留まらず、アジア諸国（日本・[韓国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")・[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")・[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")・[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")や[カタール](https://ja.wikipedia.org/wiki/カタール "wikilink")等）や中南米での興行も多く組まれている。ヨーロッパや北米でのWWE人気は高く、特に[イタリア](../Page/イタリア.md "wikilink")と[メキシコ](../Page/メキシコ.md "wikilink")ではその人気が急速に高まっている。2012年の2月には初の[ドバイ](https://ja.wikipedia.org/wiki/ドバイ "wikilink")大会\[4\]、4月にも初の[ロシア](../Page/ロシア.md "wikilink")大会を開催し\[5\]、海外進出には積極的になってきている。
+
+海外においては90年代前半はイギリスでの人気が高く、サマースラム92年大会では約8万人の大観衆を集めた。03～05年には日本人レスラーがクルーザー級を主力に複数名所属し、テレビ東京で地上波放送されていたこともありライト層のファンを多く獲得、2005年2月にはアジア初のTV収録公演を[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で開催している。近年は視聴率やPPV市場において北米が減少傾向にあるのに対して、海外でのPPV販売数は上昇しており、特にメキシコではWWEの番組は高視聴率を獲得しつつ、PPV市場においても急成長している。この様なメキシコや中南米の国々の人気もあって、2010年頃からヒスパニック系レスラーの獲得に注力し始め、2011年にはアルベルト・デル・リオがメキシコ人レスラーとして初の世界王者となった。同年にはメキシコの国民的英雄ともいわれるミスティコがシン・カラのリングネームでWWEデビューをしている。10月にはメキシコで初のTV収録公演を行った。これらの国以外ではプエルトリコやイタリア、フランスでもTV収録を行ったことがある。
+
+また、WWEフィルムズという映画会社を設立して、所属選手を主演に[ハリウッド映画界に進出したり](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")、[CDを発売したりなど](../Page/アルバム.md "wikilink")、かつてのようにレスリング以外での活動もよく見受けられる。
+
+### 政治に関する活動など
+
+[WWE_autographs_in_Iraq_1.JPG](https://ja.wikipedia.org/wiki/File:WWE_autographs_in_Iraq_1.JPG "fig:WWE_autographs_in_Iraq_1.JPG") [WWE_Stars_in_Iraq_2003.jpg](https://ja.wikipedia.org/wiki/File:WWE_Stars_in_Iraq_2003.jpg "fig:WWE_Stars_in_Iraq_2003.jpg") 大統領選の応援演説にレスラーが駆り出されたりする。また、WWE自体が社会貢献のために軍の慰問や投票率アップキャンペーン等に積極的に協力している。
+
+政治思想的には[共和党支持を掲げており](../Page/共和党_\(アメリカ\).md "wikilink")[右翼](https://ja.wikipedia.org/wiki/右翼 "wikilink")色が強く、アメリカの[イラク攻撃に賛同し](../Page/イラク戦争.md "wikilink")、アメリカ軍の駐屯地へ赴き慰問興行も行っている。アメリカに敵対する国に対する当てつけとして、その国に倣ったギミックの選手がヒールとして登場することも多い。[湾岸戦争](../Page/湾岸戦争.md "wikilink")の際は[サージェント・スローター](https://ja.wikipedia.org/wiki/サージェント・スローター "wikilink")が[フセインの友人というギミックで登場し](../Page/サッダーム・フセイン.md "wikilink")、イラク戦争の際にはイラク攻撃に反対したフランスに対する当てつけとして反米フランス人ギミックの[ラ・レジスタンス](https://ja.wikipedia.org/wiki/ラ・レジスタンス "wikilink")が登場し、数年後には同時多発テロ以降差別に苦しむアラブ系アメリカ人の[モハメド・ハッサンが登場した](https://ja.wikipedia.org/wiki/マーク・コパーニ "wikilink")。ただし、この手のギミックはアメリカではファンの憎悪を集めるが、反米感情の強い国ではある種、正論とも取れるため人気を獲得し難い。
+
+一方[リンダ・マクマホン](https://ja.wikipedia.org/wiki/リンダ・マクマホン "wikilink")がイラク戦争に当初から個人的に反対していたり、[反米](https://ja.wikipedia.org/wiki/反米 "wikilink")ユニットが番組内のディベートで事実上勝利してしまう（結局はうやむやになるが）など経営陣は決して一枚岩ではないことが伺え、どちらかといえばビジネスのため政治思想をはっきりさせる、というのが実情のようである。
+
+なお、近年は長年支持してきた共和党政権がもたらした[イラク戦争](../Page/イラク戦争.md "wikilink")の失敗、民主党政権への交代、金融危機の影響からイラク戦争開戦当初から前面に押し出してきたかつての反米ギミックの選手を公然と嘲り、アメリカを讃えるといった極端な保守色を薄めつつあり、[2010年以降の慰問興行PPVの収録は外国駐留部隊向けから国内部隊向けへと変わった](https://ja.wikipedia.org/wiki/:en:WWE_Tribute_to_the_Troops "wikilink")。
+
+2016年には、ビジネスマン時代からWWEとの関わりがあり、番組に出演、[WWE殿堂](https://ja.wikipedia.org/wiki/WWE殿堂 "wikilink")所持者でもある[ドナルド・トランプ](https://ja.wikipedia.org/wiki/ドナルド・トランプ "wikilink")が[大統領選挙に当選](https://ja.wikipedia.org/wiki/2016年アメリカ合衆国大統領選挙 "wikilink")。同年12月には、リンダ・マクマホンが[閣僚級のポストの](https://ja.wikipedia.org/wiki/アメリカ合衆国大統領顧問団 "wikilink")1つであるアメリカ中小企業庁（SBA）長官に指名された。
+
+### WWEへのデビュー
+
+新規に番組に出演する方法としてはレスリングやボディビル等の他のスポーツからのスカウト、他団体からの移籍、または[タフイナフ](https://ja.wikipedia.org/wiki/タフイナフ "wikilink")（2001年 - 2004年）や[ディーヴァサーチ](https://ja.wikipedia.org/wiki/ディーヴァサーチ "wikilink")という番組内の新人発掘コーナーや、不定期に行われる[トライアウト](https://ja.wikipedia.org/wiki/トライアウト "wikilink")で優勝または合格、もしくは才能が認められる必要がある。こうしてWWEとの契約に至っても、そのほとんどはDevelopment Deal（育成契約）であり、すぐにRAW、またはSmack Downに登場するのは稀である。ほとんどの場合[FCW](https://ja.wikipedia.org/wiki/FCW_\(プロレス\) "wikilink")（Florida Championship Wrestling）というWWEのDevelopment Systemを担っているインディー団体でトレーニングや試合を行ってからRAW、SmackDown\!での[ダーク・マッチ](https://ja.wikipedia.org/wiki/ダーク・マッチ "wikilink")（テレビ放送されない試合）に出場し、認められたらRAW、Smack Downに昇格するケースがほとんどであった。もっともDevelopment Dealにサインしたからと言って、WWEへの登場が保証されている訳ではなく、途中で解雇されることもあり得る。また育成期間もあらかじめ決まっている訳ではない。
+
+このような育成機関ともいえる団体としては、2005年8月から2007年4月までは[DSW](https://ja.wikipedia.org/wiki/DSW "wikilink")、2000年から2008年2月までは[OVW](https://ja.wikipedia.org/wiki/OVW "wikilink")があったが、契約を解消したと同時にFCWを新しく設立している。OVW出身のスーパースターは多く、バティスタ、ジョン・シナ、[ユージン等が挙げられる](https://ja.wikipedia.org/wiki/ニコラス・ディンスモア "wikilink")。また、これらの団体ではケガをしたスーパースターのリハビリやギミック（キャラ設定）がうまくはまらなかったスーパースターのギミックの練り直し等にも使われることがある。
+
+なお[FCWにはそれぞれWWEのDevelopment](https://ja.wikipedia.org/wiki/FCW_\(プロレス\) "wikilink") Systemとは関係のない独自に契約を結んでいるレスラーも存在し、彼らはNon-WWE-Talentとも呼ばれていた。
+
+また[UPW](https://ja.wikipedia.org/wiki/UPW_\(プロレス\) "wikilink")（Ultimate Pro Wrestling）というインディー団体もDevelopment Systemの一翼を担っている。この団体は前出の3団体とは異なり、Development Dealにサインしたレスラーを引き受けて育成するのではなく、WWEのオフィシャルタレントスカウトが所属レスラーからスカウトをするという方式がとられている。またペイパービューイベントなどでの重要な脇役の供給源でもあったが、2007年を持って活動を停止している。UPW出身のスーパースターは、[シルベスター・ターカイ](https://ja.wikipedia.org/wiki/ザ・プレデター "wikilink")、[マーティー・ルバルカーダ](https://ja.wikipedia.org/wiki/マーティー・ルバルカーダ "wikilink")が挙げられる。
+
+2012年8月からFCWは新人発掘番組のNXTと統合されWWE・NXTとして再スタート。Development Dealを結んだ選手は基本的にまずNXTでデビューし、経験を積み、RAWまたはSmackDown Liveへの昇格を狙う。WWEはNXTをRAW、SmackDown Liveに続く「第3のブランド」としているが、事実上は「二軍」である。
+
+### 客層
+
+WWEは現在家族揃って見ることができるファミリー路線を採用しているため、会場には家族連れや女性の観客も多い。こういったファン達（ライト層）と、プロレスに関する知識をある程度有する青年以上の層(ヘビー層)が主な客層となっているが、後者が観客の多数を占めていたアティテュード路線の時代と比べて異なるファン層が同じ会場にいるため、以前では見られない現象が起こっている。ライト層がストーリーライン上ベビーフェイスと位置づけられるレスラーを応援するのに対し、ヘビー層はそれだけではなくレスラーに試合やパフォーマンスの出来を高く求める。このため両者が声援を送るレスラーにずれが生じ、ベビーフェイスでありながらブーイング、ヒールでありながら声援を送られるという通常では考えられない現象が見られるようになった。（[ジョン・シナ](https://ja.wikipedia.org/wiki/ジョン・シナ "wikilink")、[CMパンク](https://ja.wikipedia.org/wiki/CMパンク "wikilink")を参照)
+
+## スケジュール
+
+WWEのスケジュールは、基本的には毎週月曜日に「[RAW](https://ja.wikipedia.org/wiki/WWE・ロウ "wikilink")」の生放送、金曜日に「[Smack Down](https://ja.wikipedia.org/wiki/スマックダウン "wikilink")」の生放送を行う。（海外ツアーなどが直後に開催される場合は収録になる）。また、それぞれの会場で「205 Live」の生放送、収録も行われている。「NXT」については不定期でフロリダ州フルセイル大学で収録され、毎週水曜日に放送される。この他に週に何回かのテレビ収録のない興行（[ハウス・ショー](https://ja.wikipedia.org/wiki/ハウス・ショー "wikilink")）を開催し、月に一度PPV（[ペイ・パー・ビュー](https://ja.wikipedia.org/wiki/ペイ・パー・ビュー "wikilink")）形式で特番興行を行う。
+
+PPV興行は2002年までは年12回行われていたが、2ブランド制への移行により2003年からRAW、SmackDown\!単独開催の場合と両ブランド共催の二形態になり、2005年からは14本、2006年はECWも含めて16本に増えた。しかし、その多さゆえシナリオがきちんと成り立っていなかったり、またレスラーの疲労も激しいため2007年から計15本、3ブランド共催の形になり、2008年からは計14本、2010年からは13本となっている。そのPPVの中で歴史ある4つのPPV（[Royal Rumble](https://ja.wikipedia.org/wiki/ロイヤルランブル "wikilink")、[Wrestle Mania](https://ja.wikipedia.org/wiki/レッスルマニア "wikilink")、[Summer Slam](https://ja.wikipedia.org/wiki/サマースラム "wikilink")、[Survivor Series](https://ja.wikipedia.org/wiki/サバイバー・シリーズ "wikilink")）をBig Four（ビッグ・フォー）と呼び、その中でも最大のイベントが[Wrestle Maniaであり](https://ja.wikipedia.org/wiki/レッスルマニア "wikilink")、2014年に30回目を数える大興行である。PPVはWWEにとって大きな収入源となっており、通常その様子の動画は一般放送では流されない。
+
+[ハウス・ショー](https://ja.wikipedia.org/wiki/ハウス・ショー "wikilink")はテレビショー同様、ブランド別に開催している。そのため、他のテレビショーとスケジュールを合わせる必要はなく、例えばRAW収録日にSmack Downが別の都市でハウス・ショーを開催することも一般的である。PPV興行前日、前々日もハウス・ショーを開催することも多く、また海外公演のハウス・ショー（基本的に海外公演はハウス・ショーで行なわれる）も毎月のように開催しているため、WWEのスケジュールの過密さを物語っている。ハウス・ショーではテレビショーで見られるような華やかな演出はなく淡々と進行するが、テレビショーと異なり[CMを挟む必要が無く](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")、ストーリーを進行させる必要もないため[アングルのとしてのマイクパフォーマンスも不要になり](https://ja.wikipedia.org/wiki/アングル_\(プロレス\) "wikilink")、時間配分に比較的余裕ができる。そのため入退場時にファンとのタッチやツーショットの自撮りに応じたり、テレビショーで進行するストーリーラインからある程度解放されるためテレビでは見られないようなパフォーマンスを見せてくれることもある。また、[ダーク・マッチ](https://ja.wikipedia.org/wiki/ダーク・マッチ "wikilink")同様、新人レスラーやギミックのテストの場ともなっている。ハウス・ショーは週2回（PPV除く）土曜日は必ずハウス・ショーに割り当てられ、それ以外はオフか試合以外の活動を行う。大きな休みを取れるのは、[年末](https://ja.wikipedia.org/wiki/年末 "wikilink")[年始](https://ja.wikipedia.org/wiki/年始 "wikilink")の一週間のみでその週は一年の総集編が組まれている。
+
+宿泊施設、食事、会場移動は自己に任せ、移動手段も集団でバス移動ではなく、会場入り時間を教え、厳守してもらう以外は全て自由で個人個人好きな移動手段で会場に入る。これはアメリカンプロレスでは一般的な移動手段であり、その中でアングル上対立しているスーパースター同士がプライベートでは行動を共にすると言う事も起きる。また女子スーパースターは試合前に練習を行うため、会場入りが早く設定されている。
+
+チャンピオンシップは「RAW」と「Smack Down」の各番組毎に「ヘビー級シングル王座」と「それに準ずるシングル王座」、「男子タッグ王座」と「女子シングル王座」があり、2019年に両番組にまたがるものとして「女子タッグ王座」が新設された。挑戦者が勝ち王座移動が起こると前王者には「リマッチ」の権利が与えられ一ヶ月以内に王者に挑戦する事ができたが、2018年12月にリマッチ権制度は廃止となった。
+
+先に述べたPPVはそれぞれの番組の主催、それに共催という形態をとっていたが2007年からはPPVは全て3ブランドの共催に変更された（[Backlashより](https://ja.wikipedia.org/wiki/WWE・バックラッシュ "wikilink")）。WWEが拡大していく過程でECW、WCWといった他団体を併合してきたため、所属スーパースターが多くなり過ぎたこともあり、現在ではスーパースターは「RAW」か「Smack Down」かどちらかの所属となっており、トレード、またはドラフトが行われることもある。
+
+2008年の[Royal Rumble](https://ja.wikipedia.org/wiki/ロイヤルランブル "wikilink") より映像のHD化が行われた。テレビ放送も翌日から移行。
+
+マッチメイクは「カード」よりも「興行」に価値が置かれ、特番以外の通常興行やハウス・ショーでもタイトルマッチや「黄金カード」と呼ばれるようなエース級のスーパースター同士のシングルマッチが平然と行われる（ただし、ハウス・ショーでのタイトル移動はほぼ皆無であり、「PPV等の大一番に向けての公開リハーサル」という見方もできる）。WWEでは同じカードでも「誰と試合を行うか」よりも「何処で試合を行うか」が重要視されているためであり、その最高峰としてレッスルマニアが位置付けられている。王座戦が何度も行われるので王座の価値は防衛回数ではなく、防衛期間と戴冠回数に価値を置かれている。（戴冠回数に関しては[リック・フレアー](https://ja.wikipedia.org/wiki/リック・フレアー "wikilink")の「16-time World Champion」や[ブッカーT](https://ja.wikipedia.org/wiki/ブッカーT "wikilink")の「5-times Champion」が好例と言える。）このような考え方はビッグマッチまでカードを温存する日本のプロレスとは大きく異なる。
+
+他方広大なアメリカ全土を回り、年間200試合以上という過密スケジュールをこなしながらパフォーマンス維持のトレーニングをせねばならず、特にトップレスラーはそれらに加え映画出演や地元メディアのインタビューに時間を割かねばならないなど過酷な勤務形態も問題になっている。この過酷さに退団する者や、肉体の痛みをごまかすため鎮痛剤を服用した影響とみられる死亡事故が起こっていた。
+
+2016年5月に「SmackDown」が現地時間7月19日火曜日の放送から毎週生放送になることを発表して、また「Raw」「Smackdown」は再び2ブランド制に移行することとなりドラフトを行うことも発表した\[6\]。
+
+## 歴史
+
+### 団体設立以前
+
+[ビンス・マクマホン](https://ja.wikipedia.org/wiki/ビンス・マクマホン "wikilink")（ビンセント・ケネディ・マクマホン）の祖父の[ロドリック・ジェス・マクマホンは](https://ja.wikipedia.org/wiki/:en:Roderick_McMahon "wikilink")[1925年](../Page/1925年.md "wikilink")から[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")のMSG（[マディソン・スクエア・ガーデン](https://ja.wikipedia.org/wiki/マディソン・スクエア・ガーデン "wikilink")）を拠点として[プロレス](../Page/プロレス.md "wikilink")、[ボクシング](https://ja.wikipedia.org/wiki/ボクシング "wikilink")の興行を行っていたプロモーターだった。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前後の一時期はMSGがプロレスの興行を行っていなかったために[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")を中心に活動。[1954年](../Page/1954年.md "wikilink")の彼の死後は息子でビンス・マクマホンの父、[ビンス・マクマホン・シニア](https://ja.wikipedia.org/wiki/ビンス・マクマホン・シニア "wikilink")（ビンセント・ジェームス・マクマホン）が興行会社の**キャピトル・レスリング・コーポレーション**（*Capitol Wrestling Corporation*）を引継ぎ、[1956年](../Page/1956年.md "wikilink")からMSGに再進出。激戦区ニューヨークで唯一MSGのプロレス興行権を獲得した。[アントニオ・ロッカ](https://ja.wikipedia.org/wiki/アントニオ・ロッカ "wikilink")や[バディ・ロジャース](https://ja.wikipedia.org/wiki/バディ・ロジャース "wikilink")をメインイベンターとして興行を行い、格闘技・プロレスの殿堂と呼ばれるMSGの伝統を引き継いだ。[1948年](../Page/1948年.md "wikilink")に発足した[NWA](https://ja.wikipedia.org/wiki/NWA_\(プロレス\) "wikilink")（*National Wrestling Alliance*）にも加盟して大物プロモーターとして大きな発言権を得た。
+
+### WWWF時代 - WWF時代
+
+[1963年](../Page/1963年.md "wikilink")、ビンス・マクマホン・シニアは1月に起きた自派の[バディ・ロジャース](https://ja.wikipedia.org/wiki/バディ・ロジャース "wikilink")から[サム・マソニック派の](https://ja.wikipedia.org/wiki/:en:Sam_Muchnick "wikilink")[ルー・テーズ](https://ja.wikipedia.org/wiki/ルー・テーズ "wikilink")へのNWA王座の移動を認めず、3月に試験的にWWWA（*World Wide Wrestling Association*）を、5月にはNWAを脱退して**WWWF**（*World Wide Wrestling Federation*）を設立。同時にロジャースを初代[WWWF王者に認定して](https://ja.wikipedia.org/wiki/WWE王座 "wikilink")5月14日にロジャースを破って王者となった[イタリア](../Page/イタリア.md "wikilink")系の[ブルーノ・サンマルチノ](https://ja.wikipedia.org/wiki/ブルーノ・サンマルチノ "wikilink")を新団体の絶対的な主人公とした。NWA再加盟後の[1970年代](../Page/1970年代.md "wikilink")前半には[プエルトリコ](../Page/プエルトリコ.md "wikilink")系の[ペドロ・モラレス](https://ja.wikipedia.org/wiki/ペドロ・モラレス "wikilink")、中頃には再びサンマルチノから[スーパースター・ビリー・グラハム](https://ja.wikipedia.org/wiki/スーパースター・ビリー・グラハム "wikilink")へ、1970年代終盤から[1980年代](../Page/1980年代.md "wikilink")前半にかけては[ボブ・バックランド](https://ja.wikipedia.org/wiki/ボブ・バックランド "wikilink")へと王座と主人公の座が移っていった。当時のアメリカプロレス界は北部の[AWA](https://ja.wikipedia.org/wiki/アメリカン・レスリング・アソシエーション "wikilink")（*American Wrestling Association*）、東部のWWWF、南西部のNWA加盟団体を中心に、各地区のプロモーターが暗黙の不可侵条約を結んでいた時代であり、WWWF所属だった[アンドレ・ザ・ジャイアント](https://ja.wikipedia.org/wiki/アンドレ・ザ・ジャイアント "wikilink")が各地にゲスト出場して親善大使的な役割を務めた。[1979年](../Page/1979年.md "wikilink")3月、団体名を**WWF**（*World Wrestling Federation*）に改称。[1982年](../Page/1982年.md "wikilink")6月、大学を卒業後リングアナウンサーやプロモーターをしていた[ビンス・マクマホン](https://ja.wikipedia.org/wiki/ビンス・マクマホン "wikilink")と妻[リンダが不仲であったマクマホン](https://ja.wikipedia.org/wiki/リンダ・マクマホン "wikilink")・シニアからWWFの親会社キャピトル・レスリング・コーポレーションを譲渡ではなく株式の買収という形で手に入れて、新会社**タイタン・スポーツ**（*Titan Sports, Inc.*）を設立。
+
+### 1984年以降 - WrestleMania時代
+
+ビンス・マクマホンはWWFの全米進出によるプロレス界の統一を計画、当時[AWAに在籍していた](https://ja.wikipedia.org/wiki/アメリカン・レスリング・アソシエーション "wikilink")[ハルク・ホーガン](https://ja.wikipedia.org/wiki/ハルク・ホーガン "wikilink")を筆頭に、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")から[ロディ・パイパー](https://ja.wikipedia.org/wiki/ロディ・パイパー "wikilink")、[ポール・オーンドーフ](https://ja.wikipedia.org/wiki/ポール・オーンドーフ "wikilink")など各地の有力選手を次々と引き抜いた。テレビ局からNWAの試合を放送していた枠の放送権を買い取ると、同年12月27日、いきなりNWAの本部が置かれていた[セントルイス](https://ja.wikipedia.org/wiki/セントルイス "wikilink")で興行を行った。以降も次々と他団体への[M\&A](../Page/M&A.md "wikilink")や同様のケーブルテレビ番組を利用した中継等により事業を大幅に拡大。この一連の侵略行為は旧来のプロモーターから同名の有名SF小説に準えて「**[1984](https://ja.wikipedia.org/wiki/1984年_\(小説\) "wikilink")**」と呼ばれた。
+
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")には歌手の[シンディ・ローパー](https://ja.wikipedia.org/wiki/シンディ・ローパー "wikilink")やホーガンと共に、[ロッキー3にも出演したアクションスター](https://ja.wikipedia.org/wiki/ロッキー_\(映画\) "wikilink")[ミスター・T](https://ja.wikipedia.org/wiki/ミスター・T "wikilink")を[MTV](https://ja.wikipedia.org/wiki/MTV "wikilink")のプロレス特番に出演させ注目を集めると、同年[3月19日](../Page/3月19日.md "wikilink")に[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")の[マディソン・スクエア・ガーデン](https://ja.wikipedia.org/wiki/マディソン・スクエア・ガーデン "wikilink")で[WrestleManiaを開催](https://ja.wikipedia.org/wiki/レッスルマニア "wikilink")。ローパーの他にも元[ニューヨーク・ヤンキース](https://ja.wikipedia.org/wiki/ニューヨーク・ヤンキース "wikilink")監督の[ビリー・マーチン](https://ja.wikipedia.org/wiki/ビリー・マーチン "wikilink")や元ボクシング世界王者の[モハメド・アリ](../Page/モハメド・アリ.md "wikilink")、ショー・[ピアニスト](../Page/ピアニスト.md "wikilink")の[リベラーチェ](https://ja.wikipedia.org/wiki/リベラーチェ "wikilink")らを招き、ホーガンやミスター・Tをメインで戦わせたこのイベントは約2万人の観客を集め、プロレスイベントとしては異例の400万ドルの興行収益をあげた。全米がホーガンを中心としたプロレス・ブームに沸き、この現象はマスコミから「レスリング・[ルネッサンス](../Page/ルネサンス.md "wikilink")」と称された。さらに2年後の[WrestleMania IIIではメインにホーガンvsアンドレ戦を組んで](https://ja.wikipedia.org/wiki/レッスルマニアIII "wikilink")[デトロイト](../Page/デトロイト.md "wikilink")のシルバードームに9万3173人の観衆を集め、全米マット界での圧倒的な人気を証明してみせた。
+
+ホーガンがプロレスの現場から離れがちになった[1988年](../Page/1988年.md "wikilink")から[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")頃は[ランディ・サベージ](https://ja.wikipedia.org/wiki/ランディ・サベージ "wikilink")や[アルティメット・ウォリアー](https://ja.wikipedia.org/wiki/アルティメット・ウォリアー "wikilink")、[シッド・ジャスティスや](https://ja.wikipedia.org/wiki/シッド・ビシャス "wikilink")[ジ・アンダーテイカー](https://ja.wikipedia.org/wiki/ジ・アンダーテイカー "wikilink")らが団体の主役の座を担った。また旧NWAから誕生した[WCW](https://ja.wikipedia.org/wiki/WCW "wikilink") (*World Championship Wrestling*) の[絶対王者](https://ja.wikipedia.org/wiki/絶対王者 "wikilink")、[リック・フレアー](https://ja.wikipedia.org/wiki/リック・フレアー "wikilink")の電撃移籍といった事件もあった。
+
+この頃、会社全体での[ステロイド剤流通への関与](https://ja.wikipedia.org/wiki/アナボリックステロイド "wikilink")、それに伴うレスラーたちのステロイド剤使用疑惑が発覚、[FBIによる捜査が行われるまでの事件に発展して裁判は数年続き](https://ja.wikipedia.org/wiki/連邦捜査局 "wikilink")、被告としてビンスが出廷する事態となったが最終的には証拠不十分により、無罪判決に落ち着いた。だがこの事件の影響は大きく、団体に溢れていたスーパーヘビー級の「[筋肉マン](https://ja.wikipedia.org/wiki/マッチョ "wikilink")」タイプの選手たちは一気にフェードアウトしていく。代わって主役の座を手にしたのは技巧派で体型もナチュラルな["ヒットマン" ブレット・ハートだった](https://ja.wikipedia.org/wiki/ブレット・ハート "wikilink")。
+
+[1993年](../Page/1993年.md "wikilink")には「[MONDAY NIGHT RAW](https://ja.wikipedia.org/wiki/WWE・ロウ "wikilink")」（後に「RAW IS WAR」「RAW」と改称）の放送を開始。[ディーゼル](https://ja.wikipedia.org/wiki/ケビン・ナッシュ "wikilink")、[レイザー・ラモン](https://ja.wikipedia.org/wiki/スコット・ホール "wikilink")、[ショーン・マイケルズ](https://ja.wikipedia.org/wiki/ショーン・マイケルズ "wikilink")らが台頭してブレットなどと共に**ニュー・ジェネレーション**と呼ばれた。一方、ホーガン、サベージなどかつての団体のスター選手たちの多くはWCWへと移籍してWCWは徐々にWWFに対抗するほどの人気を獲得していった。
+
+### Monday Night Wars - アティテュード時代
+
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[9月4日](../Page/9月4日.md "wikilink")、[エリック・ビショフ](https://ja.wikipedia.org/wiki/エリック・ビショフ "wikilink")が副社長に就任した[WCW](https://ja.wikipedia.org/wiki/WCW "wikilink")（オーナーは[テッド・ターナー](https://ja.wikipedia.org/wiki/テッド・ターナー "wikilink")）が「**MONDAY NIGHT RAW**」の裏番組として「**[MONDAY NITRO](https://ja.wikipedia.org/wiki/WCWマンデー・ナイトロ "wikilink")**」の放送を開始、両番組の視聴率争いが始まった。WCWはナイトロ第一回放送でいきなり前日までWWFの大会に出場していたルガーを引き抜いて登場させた。これを引き金とし、「**[月曜夜の視聴率戦争](https://ja.wikipedia.org/wiki/マンデー・ナイト・ウォーズ "wikilink")**（*Monday night wars*）」と言われる程の壮絶な視聴率合戦が繰り広げられた。
+
+一時期は人気選手の相次ぐ引き抜きや[nWoというユニットの大ヒット](https://ja.wikipedia.org/wiki/ニュー・ワールド・オーダー "wikilink")、無敵のスーパースター[ビル・ゴールドバーグ](https://ja.wikipedia.org/wiki/ビル・ゴールドバーグ "wikilink")の大ブレイクなどでWCWがリードし、[1996年](../Page/1996年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月13日](../Page/4月13日.md "wikilink")まで実に83週間連続でナイトロはロウの視聴率を上回った。それに対しWWFは[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")以降、[D-Xに代表される悪ふざけやお色気の要素を取り入れた](https://ja.wikipedia.org/wiki/D-ジェネレーションX "wikilink")**アティテュード**（*Attitude*、態度・感性という意味だが元々不愉快な、ケンカ腰の態度といった意味合いを持つ）路線に切り替え、団体オーナーのビンス・マクマホンと[ストーン・コールド・スティーブ・オースチン](https://ja.wikipedia.org/wiki/ストーン・コールド・スティーブ・オースチン "wikilink")との抗争で人気を逆転させた（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月13日](../Page/4月13日.md "wikilink")に二人の初めての直接対決が組まれていた）。
+
+なお1998年後半、格闘技色を前面に押し出した「[Brawl For All](https://ja.wikipedia.org/wiki/:en:Brawl_For_All "wikilink")」なる企画も展開していたことがある（優勝は[バート・ガン](https://ja.wikipedia.org/wiki/マイク・ポルクロペック "wikilink")）。無論、この企画は大失敗に終わり、「WWEの負の歴史」とも一部では呼ばれている（[ブラッドショーが決勝戦まで進出していたり](https://ja.wikipedia.org/wiki/ジョン・レイフィールド "wikilink")、控え室にいたスーパースター達には好評だったらしい）。
+
+プロレス史に残る抗争と呼ばれるオースチンvsマクマホン抗争に加え、WWFは[ジ・アンダーテイカー](https://ja.wikipedia.org/wiki/ジ・アンダーテイカー "wikilink")や[ショーン・マイケルズ](https://ja.wikipedia.org/wiki/ショーン・マイケルズ "wikilink")のライバルとしても活躍した[マンカインドがその](https://ja.wikipedia.org/wiki/ミック・フォーリー "wikilink")「自虐的」とも評される[ハードコア・スタイルでカルト的な人気を集める](https://ja.wikipedia.org/wiki/ハードコア・レスリング "wikilink")。マイケルズは1998年に一時引退するものの、マンカインドとの連戦を通して若手の[ザ・ロックと](https://ja.wikipedia.org/wiki/ドウェイン・ジョンソン "wikilink")[トリプルH](https://ja.wikipedia.org/wiki/トリプルH "wikilink")が次代の主役の座を掴み一気にスターダムに駆け上った。二人はすぐにオースチンと肩を並べるまでになり、WWFのストーリーはこの三人を中心として動いていく。そこに元[オリンピック](../Page/夏季オリンピック.md "wikilink")[金メダリストから転身した](https://ja.wikipedia.org/wiki/金メダル "wikilink")[カート・アングル](https://ja.wikipedia.org/wiki/カート・アングル "wikilink")、WCWから移籍した[ビッグ・ショー](https://ja.wikipedia.org/wiki/ポール・ワイト "wikilink")、[クリス・ジェリコ](https://ja.wikipedia.org/wiki/クリス・ジェリコ "wikilink")、[クリス・ベノワ](https://ja.wikipedia.org/wiki/クリス・ベノワ "wikilink")らが絡むようになる。[1999年](../Page/1999年.md "wikilink")夏からは[Smack Downの放送も開始](https://ja.wikipedia.org/wiki/スマックダウン "wikilink")、WWFの優位が徐々に確立されていった。
+
+[1999年](../Page/1999年.md "wikilink")頃からWCWはストーリーラインの迷走から視聴率が急低下し、もともと組織の統制が取れていなかったこともあり内部崩壊。奥の手としてWWFの脚本を書いていた放送作家[ビンス・ルッソーを引き抜くが](https://ja.wikipedia.org/wiki/:en:Vince_Russo "wikilink")、それは状況をさらに混沌とさせた。一時期失脚していたビショフが復権するも状況を好転させることはできなかった。[2001年](../Page/2001年.md "wikilink")1月、第三団体だった[ECW](https://ja.wikipedia.org/wiki/ECW "wikilink")が経営難から活動停止・破産し、WWFはECWの全ての権利を買い上げ債権を回収。同年[3月23日](../Page/3月23日.md "wikilink")、莫大な赤字を計上して経営破綻したWCWをも買収した。これによって「Monday night war」も終結し、米マット界は事実上WWFの独占状態となった。
+
+Monday night warsが繰り広げられた1990年代後半は全米で空前のプロレスブームが起きた。街中にプロレスTシャツを着た人が溢れかえったという逸話もある。しかしこの抗争の間には「[モントリオール事件](https://ja.wikipedia.org/wiki/モントリオール事件 "wikilink")」や[オーエン・ハート](https://ja.wikipedia.org/wiki/オーエン・ハート "wikilink")の事故死など、いくつもの後味の悪い事件も起こっている。
+
+「WCWオーナー」とされた[シェイン・マクマホン](https://ja.wikipedia.org/wiki/シェイン・マクマホン "wikilink")を中心に、WWFに合流した旧WCW、[ECW](https://ja.wikipedia.org/wiki/ECW "wikilink")の選手たちによって[WCW・ECW連合軍（アライアンス）が結成されるも](https://ja.wikipedia.org/wiki/アライアンス_\(プロレス\) "wikilink")、この抗争はWCWの中核選手不在により振るわずフェードアウトしていく。
+
+[11月18日](../Page/11月18日.md "wikilink")に[ダッドリー・ボーイズ](https://ja.wikipedia.org/wiki/ダッドリー・ボーイズ "wikilink")によりWWFタッグ王座とWCWタッグ王座が統一（初の同時王者は[ジ・アンダーテイカー](https://ja.wikipedia.org/wiki/ジ・アンダーテイカー "wikilink")&[ケイン](https://ja.wikipedia.org/wiki/グレン・ジェイコブズ "wikilink")）、[12月9日](../Page/12月9日.md "wikilink")にはクリス・ジェリコによってWWF王座とWCW王座が統一され、WWF統一王座が誕生した。
+
+### WWE時代
+
+WCW、ECWといった競争相手買収後は、競争相手不在によりWWE自体の観客動員や視聴率で苦戦したり、一回り小さいアリーナを使うことが増えた時期もあった。[2002年](../Page/2002年.md "wikilink")には長年にわたるWWF（[世界自然保護基金](https://ja.wikipedia.org/wiki/世界自然保護基金 "wikilink")）との名称を巡る裁判に敗れ、[5月6日](../Page/5月6日.md "wikilink")団体名を**WWE**へと改称\[7\]\[8\]（公式発表では「よりエンターテイメントを追求するための改称」とされる\[9\]）。ささやかな抵抗として「Get the "F" out（Fなんかいらない）」キャンペーンを展開した\[10\]。同時に親会社タイタン・スポーツの名称もWWEに統一した。
+
+[2001年](../Page/2001年.md "wikilink")末には団体の共同オーナー（[シェインと](https://ja.wikipedia.org/wiki/シェイン・マクマホン "wikilink")[ステファニーから団体の株式](https://ja.wikipedia.org/wiki/ステファニー・マクマホン＝レヴェック "wikilink")50%を購入した、という設定）として[リック・フレアー](https://ja.wikipedia.org/wiki/リック・フレアー "wikilink")が、[2002年](../Page/2002年.md "wikilink")の[WrestleMania X8前には](https://ja.wikipedia.org/wiki/レッスルマニアX8 "wikilink")[nWoのメンバーとして](https://ja.wikipedia.org/wiki/ニュー・ワールド・オーダー "wikilink")[ハルク・ホーガン](https://ja.wikipedia.org/wiki/ハルク・ホーガン "wikilink")がWWEに復帰、ストーリー上重要な登場人物となる。元WCW、ECWのレスラーを多く雇用し、ストーリーが賄いきれなくなったことから[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に開催されたRAWでビンスGMのSmack Down、[リック・フレアー](https://ja.wikipedia.org/wiki/リック・フレアー "wikilink")GMのRAWの間でドラフトを開催。両オーナーがスーパースターを一人ずつ（場合によっては1組）ずつ指名していき、それぞれの番組の専属スーパースターとさせることとなった。これ以降、RAWとSmack Downは別ブランドとしてストーリーを進行させていくことになった。
+
+時を同じくして、団体の象徴であったオースチンが怪我により事実上の引退、ザ・ロックも[映画](../Page/映画.md "wikilink")[俳優](../Page/俳優.md "wikilink")に転向を計画しリング上から離れがちになり、RAWではトリプルHを中心とした王座戦線を展開。2003年3月には、かつてのライバルWCWの最大のスターだった[ゴールドバーグをついに獲得したが](https://ja.wikipedia.org/wiki/ビル・ゴールドバーグ "wikilink")、90年代後半のようなプロレスブームの再燃にはならなかった。ゴールドバーグは世界ヘビー級王座を獲得するも2004年の3月には引退。
+
+その中で[ランディ・オートン](https://ja.wikipedia.org/wiki/ランディ・オートン "wikilink")、[バティスタ](https://ja.wikipedia.org/wiki/デビッド・バウティスタ "wikilink")、[エッジ等の有望な世代が成長し新たなメインイベンターとなる](https://ja.wikipedia.org/wiki/アダム・コープランド "wikilink")。Smack Downではレスリング出身の[ブロック・レスナー](https://ja.wikipedia.org/wiki/ブロック・レスナー "wikilink")が史上最年少でWWE王座を獲得する等大いに期待されたが、NFL挑戦のために退団。その後はWWE王座に縁の無かった[エディ・ゲレロ](https://ja.wikipedia.org/wiki/エディ・ゲレロ "wikilink")、[JBLがWWE王座を獲得](https://ja.wikipedia.org/wiki/ジョン・レイフィールド "wikilink")。[ジ・アンダーテイカー](https://ja.wikipedia.org/wiki/ジ・アンダーテイカー "wikilink")、[カート・アングル](https://ja.wikipedia.org/wiki/カート・アングル "wikilink")、[ビッグ・ショー](https://ja.wikipedia.org/wiki/ポール・ワイト "wikilink")、[レイ・ミステリオ等のベテランも活躍し](https://ja.wikipedia.org/wiki/レイ・ミステリオ・ジュニア "wikilink")、王座戦線を盛り上げた。[D-ジェネレーションX](https://ja.wikipedia.org/wiki/D-ジェネレーションX "wikilink")の復活もまた往年のファンを楽しませ、新しいファンの獲得に一役買った。そんな中、抜群のレスリングセンスとカリスマ性がある[ランディ・オートン](https://ja.wikipedia.org/wiki/ランディ・オートン "wikilink")に、女性や子供に人気のある[ジョン・シナ](https://ja.wikipedia.org/wiki/ジョン・シナ "wikilink")が徐々にメインイベンターへと上り詰めた。[クリス・ジェリコ](https://ja.wikipedia.org/wiki/クリス・ジェリコ "wikilink")や[ケインらはその安定した実力をもってして脇を固めるなどし](https://ja.wikipedia.org/wiki/グレン・ジェイコブズ "wikilink")、便利屋のポジションから大いにこの時期を支えた。後に最高位の王座前線に参戦している。
+
+[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")という年はオートン、シナ、エッジ、バティスタ等新世代の時代が始まりの年となった。この4人以外にもカリート、Mr.ケネディ、MVP等の若手がとデビューしている。それと時を同じくして、選手の出入りのペースが早まるようにもなった。
+
+### 現在
+
+アティテュード時代の雄であるオースチンらは特別な回にしか登場しないが、オートン、シナ、エッジ、バティスタ等の新世代が主力となり、90年代から出場しているトリプルH、アンダーテイカー、ショーン・マイケルズ等のベテランの力を借りながら世代交代を着実に進めている。その裏で、[ブッカー・T](https://ja.wikipedia.org/wiki/ブッカー・ハフマン "wikilink")、[カート・アングル](https://ja.wikipedia.org/wiki/カート・アングル "wikilink")等トップレスラーの大量離脱やレスラーのドラッグ使用等の課題も多く存在している。また、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の[エディ・ゲレロ](https://ja.wikipedia.org/wiki/エディ・ゲレロ "wikilink")・[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")の[クリス・ベノワ](https://ja.wikipedia.org/wiki/クリス・ベノワ "wikilink")の死去はWWEに大きなショックを与えた。
+
+[タフイナフ](https://ja.wikipedia.org/wiki/タフイナフ "wikilink")や[ディーヴァサーチ](https://ja.wikipedia.org/wiki/ディーヴァサーチ "wikilink")といった育成番組出身の[ミシェル・マクール](https://ja.wikipedia.org/wiki/ミシェル・マクール "wikilink")、[ザ・ミズ](https://ja.wikipedia.org/wiki/マイク・ミザニン "wikilink")、[ジョン・モリソンが新たな番組の中心スターとして活躍し](https://ja.wikipedia.org/wiki/ジョン・ヘニガン "wikilink")、FCW出身者や[CMパンク](https://ja.wikipedia.org/wiki/CMパンク "wikilink")、[エヴァン・ボーンや](https://ja.wikipedia.org/wiki/マット・コークラン "wikilink")[ダニエル・ブライアンなどのインディー団体出身者を活用](https://ja.wikipedia.org/wiki/ブライアン・ダニエルソン "wikilink")、[アルベルト・デル・リオのような格闘技出身者も登場している](https://ja.wikipedia.org/wiki/ドス・カラス・ジュニア "wikilink")。
+
+[シェイマス](https://ja.wikipedia.org/wiki/ステファン・ファレリー "wikilink")（アイルランド）、[ウェイド・バレット](https://ja.wikipedia.org/wiki/ウェイド・バレット "wikilink")（イングランド）など英国圏出身のスーパースターの台頭も著しい。また、[コーディ・ローデス](https://ja.wikipedia.org/wiki/コーディ・ローデス "wikilink")、[テッド・デビアス・ジュニア](https://ja.wikipedia.org/wiki/テッド・デビアス・ジュニア "wikilink")、[マイケル・マクギリカティ](https://ja.wikipedia.org/wiki/マイケル・マクギリカティ "wikilink")、[ハスキー・ハリス](https://ja.wikipedia.org/wiki/ハスキー・ハリス "wikilink")、[ウーソズ](https://ja.wikipedia.org/wiki/ウーソズ "wikilink")、[ナタリヤ](https://ja.wikipedia.org/wiki/ナッティ・ナイドハート "wikilink")、[タミーナなど](https://ja.wikipedia.org/wiki/サロナ・ライアー "wikilink")80年代〜90年代のWWFを支えたレスラーの血を引く若手スーパースターが数多く在籍し、この時代を支えてきた。
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にはWWE Filmsを設立し、第1回作品「[シー・ノー・イーヴル 肉鉤のいけにえ](https://ja.wikipedia.org/wiki/シー・ノー・イーヴル_肉鉤のいけにえ "wikilink")」を公開。映画製作に乗り出した。
+
+[2009年](../Page/2009年.md "wikilink")4月からはブランド共通で選手が登場する[WWE Superstarsが](https://ja.wikipedia.org/wiki/WWE・スーパースターズ "wikilink")、2010年2月からは新人育成番組[NXTの放送を開始した](https://ja.wikipedia.org/wiki/WWE・NXT_\(TVシリーズ\) "wikilink")。
+
+[2011年](../Page/2011年.md "wikilink")4月より、社名を「World Wrestling Entertainment」から「WWE, Inc.」に変更し、それまで「World Wrestling Entertainment」で扱われていたブランド名も全て「WWE」に統一されることになった\[11\]。各種テレビ番組の開発推進と共に、タレント開発部門（部門統括には[トリプルH](https://ja.wikipedia.org/wiki/トリプルH "wikilink")が就任）を発足させている。
+
+[2011年](../Page/2011年.md "wikilink")8月29日、RAWとSmackDownの番組としてのブランドは残しつつ、ストーリーの共通化とスーパースターの両番組への出演の柔軟化(以降ほぼ無制限に両番組に出演できるようになった)が発表され、実質的にRAWとSmackDownの再統合がなされた。各スーパースターは、その後しばらくの間はいずれかのブランドに所属していたが、後述する2016年のドラフトまで、所属ブランドという概念も無くなり、全て共通してWWE所属という扱いになっていた。 タイトルも全てWWE管理に統一され、[2013年](../Page/2013年.md "wikilink")12月15日にはこれまで最高位として存在していた世界ヘビー級王座が廃止、統合された。それまで、各ブランド独自に主催していたハウス・ショーにもブランドに関係なく全てのスーパースターが出演する様になった。
+
+[2012年](../Page/2012年.md "wikilink")、WWE下部団体であったFCWと新人発掘番組のNXTが統合され、[NXT Wrestlingとして始動](https://ja.wikipedia.org/wiki/WWE・NXT "wikilink")。[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")に位置するフルセイル大学を会場とし、数回分の収録をまとめて撮影し放送する体制を取っている。2013年にNXTと改称された。
+
+[2014年](../Page/2014年.md "wikilink")、インターネットを介して視聴可能な有料の24時間ストリーミングビデオサービス(WWE Network)を2014年2月24日から開始すると発表した。↵PPVを含む全試合のライブ中継、WWEが放映権を持つ過去の映像(WCWやECWも含む)、テレビ放映時にはカットされるような試合前後のレスラー達の動き、独自番組などをオンデマンド配信する。↵まずは北米でサービスを開始し、英語圏の国を中心にサービスを広げており、日本では[2016年](../Page/2016年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")からサービス開始となった（ただし、[日本語](../Page/日本語.md "wikilink")字幕はなし）。
+
+[2016年](../Page/2016年.md "wikilink")7月19日、RAWとSmackDownの再分割が行われる。また、その際に各スーパースター選手の所属ブランド移籍を決めるドラフトが再始動されることになり、[2017年](../Page/2017年.md "wikilink")以降はスーパースターシェイクアップという名で続いている。
+
+各番組ブランドは2017年現在WWE・NXTゼネラルマネージャーである[ウィリアム・リーガルによると](https://ja.wikipedia.org/wiki/ダレン・マシューズ "wikilink")「RAWは娯楽番組」と「SmackDownは娯楽を含むレスリング番組」、「NXTはレスリング番組」という色分けがなされている\[12\]。
+
+### ECW復活の余波
+
+2006年、Monday Night War時代にハードコア路線でWWF、WCWと興行戦争を行っていたECWがWWE傘下で復活することが決定。2004年に発売されたDVDの売り上げが好調だったのを受けて2005年に開催されたECW One Night Stand以降、ECW人気が再燃したこともあり、[6月13日](../Page/6月13日.md "wikilink")からはレギュラー放送も開始された。Monday Night War時代にECWを率いていた[ポール・ヘイマン](https://ja.wikipedia.org/wiki/ポール・ヘイマン "wikilink")が番組の指揮を執り、[ロブ・ヴァン・ダム](https://ja.wikipedia.org/wiki/ロブ・ヴァン・ダム "wikilink")（RVD）、[サブゥー](https://ja.wikipedia.org/wiki/テリー・ブルンク "wikilink")、[サンドマン等](https://ja.wikipedia.org/wiki/ジェームズ・フォリントン "wikilink")1990年代の旧ECWの人気選手が参戦したこともあり大きく注目された。しかし、番組復活直後からかつて**EC"Fuckin'"W**と評された頃の過激なECWとはまるで違った団体となってしまったことが露呈。旧ECWの名タッグであった[ダッドリー・ボーイズ](https://ja.wikipedia.org/wiki/ダッドリー・ボーイズ "wikilink")や[ライノ](https://ja.wikipedia.org/wiki/テリー・ゲリン "wikilink")、[レイヴェンがTNA移籍のため参戦不可となり](https://ja.wikipedia.org/wiki/スコット・レビー "wikilink")、人材不足からてこ入れとして旧ECWとは関係の無かった[ボビー・ラシュリー](https://ja.wikipedia.org/wiki/ボビー・ラシュリー "wikilink")、ビッグ・ショー、[テスト](https://ja.wikipedia.org/wiki/アンドリュー・マーチン "wikilink")、[CMパンク](https://ja.wikipedia.org/wiki/CMパンク "wikilink")等をメインイベンターとして起用せざるを得なくなる。こういった旧ECWとは関係のないレスラーの起用が旧ECWファンの違和感を誘発させた。エクストリームルールの試合もたまにしか行なわれず、NXTに切り替わる間際の2009年頃にはWWEに初登場する新人のためのデビューの場として、ほとんど若手育成のための番組となってしまい、ある程度芽が出てくるとRAWやSmack Downへ移籍することが多かった（CMパンク、[コフィ・キングストン](https://ja.wikipedia.org/wiki/コフィ・サーコーディエ・メンサー "wikilink")、[エヴァン・ボーンなど](https://ja.wikipedia.org/wiki/マット・コークラン "wikilink")）
+
+### アメリカにおける他団体との関係
+
+現在米マット界で独占状態になっているWWEに対抗しうる団体は[AEW](https://ja.wikipedia.org/wiki/All_Elite_Wrestling "wikilink")(オール・エリート・レスリング)、[インパクト・レスリング](https://ja.wikipedia.org/wiki/インパクト・レスリング "wikilink")（*Impact Wrestling*）、[ROH](https://ja.wikipedia.org/wiki/ROH "wikilink")（*Ring Of Honor*）などがある。
+
+団体同士の直接の交流は存在しないが、他の団体に移籍した選手が移籍といった形で移動するのは珍しくない。ジェフ・ハーディーやクリスチャンのように退団、移籍を繰り返す選手やダニエル・ブライアン、CMパンクといったROHの元世界王者もWWEに登場している。しかしながら、インパクト・レスリングが**TNA**（*Total Nonstop Action Wrestling*）として活動していた時代は、対WWE色を強くしていたためにTNAと契約した選手に対して対応を厳しくし、逆にTNAと契約しなければWWEは出戻りに対して寛容であった。
+
+ROHに関してはインパクト・レスリングのような敵対関係はなく、CMパンクやブライアンのROH時代の映像や写真の提供、WWEによる取材の受け入れるなど友好的な関係を築いている模様。
+
+[2016年](../Page/2016年.md "wikilink")、所属団体の枠を超えたクルーザー級のトーナメントである[CWC](https://ja.wikipedia.org/wiki/WWEクルーザー級クラシック "wikilink")（Cruiserweight Classic）を開催。
+
+[2017年](../Page/2017年.md "wikilink")、CWCの女子レスラー版といえるトーナメント、[メイ・ヤング・クラシックを開催](https://ja.wikipedia.org/wiki/WWEメイ・ヤング・クラシック "wikilink")。
+
+## 日本との関係
+
+[NWA内での同じ反主流派ということもあり](https://ja.wikipedia.org/wiki/NWA_\(プロレス\) "wikilink")、[1975年](../Page/1975年.md "wikilink")頃から[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")と業務提携を結び、[AWAからWWFへブッキング権の移った](https://ja.wikipedia.org/wiki/アメリカン・レスリング・アソシエーション "wikilink")[アンドレ・ザ・ジャイアント](https://ja.wikipedia.org/wiki/アンドレ・ザ・ジャイアント "wikilink")、現役王者の[スーパースター・ビリー・グラハム](https://ja.wikipedia.org/wiki/スーパースター・ビリー・グラハム "wikilink")や[ボブ・バックランド](https://ja.wikipedia.org/wiki/ボブ・バックランド "wikilink")をはじめ、当時のトップレスラー達の派遣やタイトルマッチの開催、新規王座の認定等、強固な協力関係を保っていた。後に新日本プロレスの看板外国人となる[スタン・ハンセン](https://ja.wikipedia.org/wiki/スタン・ハンセン "wikilink")や[ハルク・ホーガン](https://ja.wikipedia.org/wiki/ハルク・ホーガン "wikilink")も、大ブレイクを果たす前にWWWF / WWFからブッキングされたレスラーである。権限のない名誉職ではあったが、[新間寿](https://ja.wikipedia.org/wiki/新間寿 "wikilink")が当時のWWFの会長になったこともある。
+
+だが、[ビンス・マクマホン](https://ja.wikipedia.org/wiki/ビンス・マクマホン "wikilink")・ジュニアが実権を握り、全米マット制圧を掲げだした頃から、所属レスラーを自団体の興行へ優先させるために、トップレスラーの派遣を渋るようになり、さらに、提携継続の条件として高額な提携金を要求し、支払ったにもかかわらず、相変わらずトップレスラーの派遣を渋るなど、徐々に新日本プロレスとは疎遠となり、最終的に1985年10月末に提携は解消された。
+
+[全日本プロレス](https://ja.wikipedia.org/wiki/全日本プロレス "wikilink")に関しては、[ジャイアント馬場](../Page/ジャイアント馬場.md "wikilink")が全米で武者修行していた頃から[ビンス・マクマホン・シニア](https://ja.wikipedia.org/wiki/ビンス・マクマホン・シニア "wikilink")とは旧知の仲ということもあり、新日本プロレスがWWFと提携する以前は、馬場や海外武者修行中だった[ジャンボ鶴田](https://ja.wikipedia.org/wiki/ジャンボ鶴田 "wikilink")が単発ではあるがWWFの興行に出場するなど交流は行われていた。その後、新日本プロレスが正式にWWFと団体間の業務提携を結んでからは交流は行われなくなったが、[ブルーノ・サンマルチノ](https://ja.wikipedia.org/wiki/ブルーノ・サンマルチノ "wikilink")と馬場が親友同士ということもあり、サンマルチノは馬場との友情関係を理由に新日本への参戦を拒否し、全日本プロレスに出場し続け、[PWF](https://ja.wikipedia.org/wiki/PWF "wikilink")とのダブルタイトルマッチとして全日本プロレスのリングでWWFの防衛戦を実現させている。また、サンマルチノ以外にも[ゴリラ・モンスーン](https://ja.wikipedia.org/wiki/ゴリラ・モンスーン "wikilink")や[ドン・デヌーチなどのサンマルチノや馬場と親交の深かった当時のWWF所属レスラーたちも全日本プロレスに出場するなど](https://ja.wikipedia.org/wiki/ドミニク・デヌーチ "wikilink")、個人的な交流は存在していた。
+
+一方、女子では分裂後の[日本女子プロレス](https://ja.wikipedia.org/wiki/日本女子プロレス "wikilink")と提携した後、[全日本女子プロレス](https://ja.wikipedia.org/wiki/全日本女子プロレス "wikilink")に参戦していた[ファビュラス・ムーラ](https://ja.wikipedia.org/wiki/ファビュラス・ムーラ "wikilink")のWWF入りを機に、全女との間で選手派遣で関係を持っていた。そのラインでWWFに参戦した[ジャンピング・ボム・エンジェルス](https://ja.wikipedia.org/wiki/ジャンピング・ボム・エンジェルス "wikilink")（[立野記代](https://ja.wikipedia.org/wiki/立野記代 "wikilink")、[山崎五紀](https://ja.wikipedia.org/wiki/山崎五紀 "wikilink")）や[ブル中野](https://ja.wikipedia.org/wiki/ブル中野 "wikilink")の活躍もあり、その後も全日本女子プロレスの選手が定期的にWWFに参戦するプランもあったが、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に当時の同団体の女子王者であったアランドラ・ブレイズ（[デブラ・ミセリー](https://ja.wikipedia.org/wiki/デブラ・ミセリー "wikilink")、日本ではメドゥーサ）が、王者のままWCWへ移籍し、番組内にてWWF女子王座のベルトをゴミ箱へ捨てるパフォーマンスを行ったため、女子レスラーの出場が一時期見直された事により立ち消えになってしまい、団体としての交流は途絶えている。
+
+新日本プロレスとの提携解消後、特定の団体とは提携を結ばなかったが、1990年には新日本プロレスおよび[全日本プロレス](https://ja.wikipedia.org/wiki/全日本プロレス "wikilink")の3団体合同で東京ドーム興行「[日米レスリングサミット](https://ja.wikipedia.org/wiki/日米レスリングサミット "wikilink")」を開催。その後（1990年から1992年の間）、[SWS](../Page/SWS.md "wikilink")と提携を結び、幾度かの合同興行を開催したり、王座の認定や所属レスラーの派遣などを行っていた。
+
+この頃、単独での日本進出を目論んでいたこともあり、日本のプロレスマスコミには好意的で、アメリカのマスコミでも入ることができなかったリングサイドでの取材や、マクマホン本人が日本向けにテレビインタビューに出演する等、積極的に協力している。ただし、2007年になり番組が全て[HDTVで製作されるようになると](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")、リングサイドでの取材は突如禁止となった。
+
+1994年には「マニアツアー」として横浜・大阪・名古屋・札幌で単独興行を行ったが、当時のWWFとは関係ない日本人レスラーの出場や、バックステージの趣向を凝らさなかったこと、本場の様な豪華なセットを組まなかったこと、それにプロレスの興行を扱ったことのない興行会社がプロモートを行ったことなどがあり、直輸入を期待していたファンからの支持が得られず、興行成績も振るわず、2002年に再上陸するまで自社の手による興行は行われなかった。
+
+2005年に開催された[WrestleMania 21では元横綱の](https://ja.wikipedia.org/wiki/レッスルマニア21 "wikilink")[曙が特別出演し](../Page/曙太郎.md "wikilink")、スモー・マッチを行った。
+
+現在はWWEを解雇されたレスラーが[ジョニー・エースの斡旋等で日本のマットに上がることが多くなり](https://ja.wikipedia.org/wiki/ジョン・ロウリネイティス "wikilink")、[ジャマールと](https://ja.wikipedia.org/wiki/エディ・ファトゥ "wikilink")[チャック・パルンボ](https://ja.wikipedia.org/wiki/チャック・パルンボ "wikilink")、[ドク・ギャローズ](https://ja.wikipedia.org/wiki/ドク・ギャローズ "wikilink")のように復帰が認められるケースもある。
+
+J SPORTSでの放送以降、他のスポーツを視聴することが目的でJ SPORTSを視聴した視聴者がWWEのファンになることが多く、一般的なプロレスファンとは異なるファン層を獲得している。特に団体外の要素を団体内に持ちこむことが嫌われる傾向にあり、来日公演では、
+
+  - [シェイン・マクマホン](https://ja.wikipedia.org/wiki/シェイン・マクマホン "wikilink")の通訳を務めていた[ウォーリー山口](https://ja.wikipedia.org/wiki/ウォーリー山口 "wikilink")にブーイングを浴びせ退場させた。
+  - [フレッド・ブラッシー](https://ja.wikipedia.org/wiki/フレッド・ブラッシー "wikilink")追悼VTRの説明をしていたフジテレビの[千野志麻](https://ja.wikipedia.org/wiki/千野志麻 "wikilink")アナウンサーに「ass hole」コールを浴びせた。
+  - [ザ・ハリケーン対](https://ja.wikipedia.org/wiki/グレゴリー・ヘルムズ "wikilink")[フナキ戦で](https://ja.wikipedia.org/wiki/船木勝一 "wikilink")、ハリケーンがスーパーヒーローという立場であったため、地元日本の出身だったにも拘らずフナキとセコンドのTAKAみちのくをヒール扱いしブーイングを浴びせた。
+
+などのエピソードがある。
+
+細かい動きにも賛辞を送る日本人ファンに対するレスラーの評価は高いといわれている。来日回数が豊富な[リック・フレアー](https://ja.wikipedia.org/wiki/リック・フレアー "wikilink")も「アメリカのファンはショーとして見るが、日本のファンはスポーツとして見る」と語るほどアメリカとは別の要素が求められることを強調している。
+
+なお、放送内ではアメリカの別の団体名を挙げることはまずないが、日本で活躍してWWEにやってきたレスラーの紹介では実際に日本の団体名を挙げて紹介することがある（新日本プロレス、[DRAGON GATEなど](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")）。近年では、「IWGP」「東京ドーム」などの日本に関連する言葉も頻繁に使われるようになった。
+
+2015年8月22日に行われたNXTに[獣神サンダー・ライガー](https://ja.wikipedia.org/wiki/獣神サンダー・ライガー "wikilink")が、WWEへの移籍ではなく、新日本プロレスの所属レスラーとして出場。1985年に提携を解消して以来、約30年ぶりに新日本プロレスに所属するレスラーのWWEへの出場となった。
+
+[2016年](../Page/2016年.md "wikilink")7月から9月にかけて行われる[WWEクルーザー級クラシック](https://ja.wikipedia.org/wiki/WWEクルーザー級クラシック "wikilink")に[TAJIRI](https://ja.wikipedia.org/wiki/TAJIRI "wikilink")、[飯伏幸太](https://ja.wikipedia.org/wiki/飯伏幸太 "wikilink")、[戸澤陽](https://ja.wikipedia.org/wiki/戸澤陽 "wikilink")が参戦している。TAJIRIは10年ぶりの参戦である。
+
+[2018年](../Page/2018年.md "wikilink")9月1日に開催された、[丸藤正道](https://ja.wikipedia.org/wiki/丸藤正道 "wikilink")20周年記念試合に[ヒデオ・イタミが出場](https://ja.wikipedia.org/wiki/小林健太 "wikilink")。現在、基本的に他団体への選手の派遣や貸出を行わないWWEが特例として貸出を行っている。
+
+### 日本人所属選手
+
+  - [FUNAKI](https://ja.wikipedia.org/wiki/船木勝一 "wikilink")（1998年 - 2010年、2010年 - ） ※2010年タレント・スカウト・コンサルタントとして再契約。また、日本語版解説も担当。
+  - [アスカ](https://ja.wikipedia.org/wiki/華名 "wikilink")（2015年 - ）
+  - [中邑真輔](https://ja.wikipedia.org/wiki/中邑真輔 "wikilink")（2016年 - ）
+  - [戸澤陽](https://ja.wikipedia.org/wiki/戸澤陽 "wikilink")（2016年 - ）
+  - [カイリ・セイン](https://ja.wikipedia.org/wiki/宝城カイリ "wikilink")（2017年 - ）
+  - [紫雷イオ](https://ja.wikipedia.org/wiki/紫雷イオ "wikilink")（2018年 - ）
+  - [KUSHIDA](https://ja.wikipedia.org/wiki/KUSHIDA "wikilink")（2019年 - ）
+
+### 過去の日本人所属選手
+
+  - [ババ・ザ・ジャイアント](../Page/ジャイアント馬場.md "wikilink")（1961年 - 1962年、1964年）
+  - [ストロング小林](https://ja.wikipedia.org/wiki/ストロング小林 "wikilink")（1974年、1978年、1981年）
+  - [ザ・グレート・ヤツ](https://ja.wikipedia.org/wiki/谷津嘉章 "wikilink")（1980年 - 1981年）
+  - [キラー・カーン](https://ja.wikipedia.org/wiki/キラー・カーン "wikilink")（1980年 - 1981年、1987年）
+  - [ミスター・サイトー](https://ja.wikipedia.org/wiki/マサ斎藤 "wikilink")（1981年 - 1982年）
+  - [タイガー・チャン・リー](https://ja.wikipedia.org/wiki/タイガー戸口 "wikilink")（1983年 - 1987年）
+  - [立野記代](https://ja.wikipedia.org/wiki/立野記代 "wikilink")（1987年 - 1988年）
+  - [山崎五紀](https://ja.wikipedia.org/wiki/山崎五紀 "wikilink")（1987年 - 1988年）
+  - [サトー / 信者（シンジャ）](https://ja.wikipedia.org/wiki/佐藤昭雄 "wikilink")（1989年 - 1995年）
+  - [ブル中野](https://ja.wikipedia.org/wiki/ブル中野 "wikilink")（1993年 - 1994年）
+  - [白使](https://ja.wikipedia.org/wiki/新崎人生 "wikilink")（1995年 - 1996年）※現在も「Hakushi」のリングネームはWWE管轄。
+  - [TAKAみちのく](https://ja.wikipedia.org/wiki/TAKAみちのく "wikilink")（1997年 - 2002年）
+  - [ディック東郷](https://ja.wikipedia.org/wiki/ディック東郷 "wikilink")（1998年 - 1999年）
+  - [MEN'Sテイオー](https://ja.wikipedia.org/wiki/MEN'Sテイオー "wikilink")（1998年 - 1999年）
+  - [ヤマグチ・サン](https://ja.wikipedia.org/wiki/ウォーリー山口 "wikilink")（1998年 - 1999年） ※マネージャー
+  - [カズ・ハヤシ](https://ja.wikipedia.org/wiki/カズ・ハヤシ "wikilink")（2001年 - 2002年）
+  - [TAJIRI](https://ja.wikipedia.org/wiki/TAJIRI "wikilink")（2001年 - 2005年、2016年 - 2017年）
+  - [ウルティモ・ドラゴン](https://ja.wikipedia.org/wiki/ウルティモ・ドラゴン "wikilink")（2003年 - 2004年）
+  - [ケンゾー・スズキ](https://ja.wikipedia.org/wiki/鈴木健想 "wikilink")（2004年 - 2005年）
+  - [ヒロコ](https://ja.wikipedia.org/wiki/鈴木浩子 "wikilink")（2004年 - 2005年） ※日本人初の[ディーヴァ](https://ja.wikipedia.org/wiki/ディーヴァ_\(プロレス\) "wikilink")
+  - [ジロー](https://ja.wikipedia.org/wiki/滝澤大志 "wikilink")（2011年 - 2012年）
+  - [サカモト](https://ja.wikipedia.org/wiki/KAZMA "wikilink")（2011年 - 2013年)
+  - [ヨシ・タツ](https://ja.wikipedia.org/wiki/山本尚史 "wikilink")（2008年 - 2014年）
+  - [ヒデオ・イタミ](https://ja.wikipedia.org/wiki/小林健太 "wikilink")（2014年 - 2019年）
+
+このほか、[ビンス・マクマホン・シニア](https://ja.wikipedia.org/wiki/ビンス・マクマホン・シニア "wikilink")時代のWWWFおよびWWFには、[ジャンボ鶴田](https://ja.wikipedia.org/wiki/ジャンボ鶴田 "wikilink")、[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")、[坂口征二](https://ja.wikipedia.org/wiki/坂口征二 "wikilink")、[藤波辰巳](https://ja.wikipedia.org/wiki/藤波辰爾 "wikilink")、[長州力](https://ja.wikipedia.org/wiki/長州力 "wikilink")、[初代タイガーマスク](https://ja.wikipedia.org/wiki/佐山聡 "wikilink")、[ビンス・マクマホン](https://ja.wikipedia.org/wiki/ビンス・マクマホン "wikilink")・ジュニア（現ビンス・マクマホン）の体制期に入ってからは[ザ・コブラや](https://ja.wikipedia.org/wiki/ジョージ高野 "wikilink")[前田日明](https://ja.wikipedia.org/wiki/前田日明 "wikilink")などが檜舞台の[マディソン・スクエア・ガーデン](https://ja.wikipedia.org/wiki/マディソン・スクエア・ガーデン "wikilink")に出場している。藤波\[13\]\[14\]、タイガーマスク\[15\]、前田\[16\]は、それぞれWWFを短期間サーキットしていた。
+
+現ビンス・マクマホン体制期の日本人レスラーとしては、WWF時代に[ブル中野](https://ja.wikipedia.org/wiki/ブル中野 "wikilink")が女子王座を獲得するなどトップレスラーとして活躍。[JBエンジェルスも女子タッグ王座を](https://ja.wikipedia.org/wiki/ジャンピング・ボム・エンジェルス "wikilink")[1988年](../Page/1988年.md "wikilink")の第1回[ロイヤルランブル](https://ja.wikipedia.org/wiki/ロイヤルランブル "wikilink")の大舞台で獲得した。2000年以降、所属していたレスラーでは[TAKAみちのく](https://ja.wikipedia.org/wiki/TAKAみちのく "wikilink")が1998年に初代[ライトヘビー級王座を獲得](https://ja.wikipedia.org/wiki/WWF・ライトヘビー級王座 "wikilink")。[TAJIRI](https://ja.wikipedia.org/wiki/TAJIRI "wikilink")はシングルとタッグで王座を6度獲得した。
+
+### 日本のテレビ放送
+
+日本でのテレビ放送は[J SPORTSが担当している](https://ja.wikipedia.org/wiki/J_SPORTS "wikilink")。また、PPV特番は[スカチャン](https://ja.wikipedia.org/wiki/スカチャン "wikilink")（旧パーフェクト・チョイス）で放送されるが、いずれも約10日遅れでの放映となる。字幕翻訳は[株式会社ルミエール](http://www.lumiere-inc.jp/)が担当しているが、意訳・誤訳が多い（ただし、[ザ・ロックのようにスラングを多用するマイクパフォーマンスを得意とする選手も少なくないため](https://ja.wikipedia.org/wiki/ドウェイン・ジョンソン "wikilink")、ある程度の意訳は仕方のない部分もある）。
+
+1992年4月から1993年5月まで[WOWOW](../Page/WOWOW.md "wikilink")がPPV大会のみを1か月遅れの120分枠で「レッスルマニア8」、「サマースラム92」、「サバイバーシリーズ92」、「ロイヤルランブル93」4大会を放送した。（実況：[土居壮](https://ja.wikipedia.org/wiki/土居壮 "wikilink") 解説：[斎藤文彦](https://ja.wikipedia.org/wiki/斎藤文彦 "wikilink")。日本版ビデオシリーズのコンビが担当） また、1992年8月8日「ハルク・ホーガンスペシャル」、1992年8月15日「ヒストリー・オブ・WWF」2週にわたって特別番組が放送された。
+
+地上波では1992年9月から1994年1月まで「WWFスーパープロレス」日本オリジナル番組が[独立UHF局で放送された](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")。ストーリーのダイジェストと試合を中心に60分枠で放送。なお、試合の映像は本国から1年遅れであった。斎藤文彦と土居壮のコンビが吹き替えでもなく、全くリアルタイムで見ているかのような実況と解説を行っていたのが特徴。2001年10月から2002年12月まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")が深夜枠で放送。当初は「[ライブワイヤー](https://ja.wikipedia.org/wiki/ライブワイヤー "wikilink")」を放送していたが、本国での同番組の終了以降は「[アフターバーン](https://ja.wikipedia.org/wiki/アフターバーン "wikilink")」を放送した。マイクアピールを除く、試合の実況解説などを字幕ではなく日本語吹き替えで対応したことが大きな特徴といえる。なお、英語圏以外の国でのWWEの番組は吹き替えが一般的である。
+
+テレビ東京での放送終了後、2003年4月から2005年3月までは[フジテレビが関東ローカルの地上波で放送した](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（J SPORTS協力の元、新たに字幕スーパーや日本語ナレーションを追加。）。現在でもWWEが映像の編集を外部の会社に許可したのはフジテレビだけである。 2004年3月までは、実況に[佐野瑞樹](https://ja.wikipedia.org/wiki/佐野瑞樹_\(アナウンサー\) "wikilink")。解説に[DDTの](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")[高木三四郎](https://ja.wikipedia.org/wiki/高木三四郎 "wikilink")。 2004年4月以降は、[三村ロンド](https://ja.wikipedia.org/wiki/三村ロンド "wikilink")と「Mrビーフジャーキー」こと[ブラザートム](https://ja.wikipedia.org/wiki/ブラザートム "wikilink")が担当。 テレビ東京の放送が多くのライト層の新規ファンを獲得したが、不評だったフジテレビの放送でライト層のファンを失ってしまい、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")のWWE日本公演（後述）の観客動員数は大幅に減少、結果として[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")の日本公演は見送られたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月、日本でのマーケット強化を目的に、日本法人[WWE Japanを設立](https://ja.wikipedia.org/wiki/WWE_Japan "wikilink")。同社より2008年2月に再び日本公演が開催されることが発表された。
+
+PPVやレスラーを特集したDVDは[ユークス](https://ja.wikipedia.org/wiki/ユークス "wikilink")が発売していたが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")夏をもって生産を終了。代わってJ SPORTSからDVDが販売されるようになった（アメリカ本国では2009年からPPVの[Blu-ray Discもリリースされているが](../Page/Blu-ray_Disc.md "wikilink")、日本でのリリースされる予定は無い。）。
+
+2011年現在ではスカパー\!やケーブルテレビなどの[J SPORTSによる本放送と地上波ローカル局のダイジェスト番組が放送されている](https://ja.wikipedia.org/wiki/J_SPORTS "wikilink")。2011年10月1日には[J SPORTSがBSデジタル放送へ進出したため](https://ja.wikipedia.org/wiki/J_SPORTS "wikilink")、WWEの番組の初回放送は全て新生J SPORTS 2となり、また「[RAW](https://ja.wikipedia.org/wiki/WWE・ロウ "wikilink")」の初回放送は毎週金曜日から毎週木曜日に変更になった。映像権などの事情により日本では約10日遅れての放送となる。そのため、[ハウス・ショー](https://ja.wikipedia.org/wiki/ハウス・ショー "wikilink")が日本で行われる際にチャンピオンが違っていたり、日本の放送スケジュール上まだ登場していないスーパースターが試合をすることもある。
+
+かつては3週間遅れての放送（例として、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月4日](../Page/2月4日.md "wikilink")の[RAWさいたま大会の場合](https://ja.wikipedia.org/wiki/ROAD_TO_WRESTLEMANIA_21_JAPAN_TOUR "wikilink")、米国では[2月7日](../Page/2月7日.md "wikilink")の放送であったのに対し、日本では[2月28日](https://ja.wikipedia.org/wiki/2月28日 "wikilink")に放送された）であったが、[WWE Japanがこの](https://ja.wikipedia.org/wiki/WWE_Japan "wikilink")3週間の「ディレイ」を短縮するべく交渉し、その結果[2009年](../Page/2009年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")より日本でもハイビジョンが開始され、27日の放送より10日遅れの放送に短縮されることが発表された。それに合わせ、これまでRAWの3時間のスペシャル番組は2時間に編集されていたが、そのまま3時間番組として放送されることとなった。
+
+2009年7月12日からRAWとSmackDownの新ダイジェスト番組として独立UHF局にて「ディスウィーク」の放送が開始した。2013年3月から現地放送と同じ3時間放送へ移行した\[17\]。
+
+2014年からはRawとSmackdownに関して字幕無しではあるが米国放送に合わせて放送すること（SmackDownについては2時間のディレイ）が発表されたために[NXTは一旦打ち切りとなった](https://ja.wikipedia.org/wiki/WWE・NXT_\(TVシリーズ\) "wikilink")\[18\]が、2014年7月にWWEと契約した[ヒデオ・イタミの出場に合わせて放送を再開した](https://ja.wikipedia.org/wiki/小林健太 "wikilink")\[19\]。しかし、2016年1月J SPORTSの再改編でNXTはWWE NETWORKでの配信に完全移行した。また同月より[RAWは](https://ja.wikipedia.org/wiki/WWE・ロウ "wikilink")2時間版に戻り、Smackdownは8年ぶりに[アフターバーン](https://ja.wikipedia.org/wiki/アフターバーン "wikilink")として放送を継続\[20\]。
+
+2017年より[DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink")にてリアルタイム配信が開始。土居、斎藤のコンビで放送され、日本語実況が復活している。
+
+2017年11月よりJ SPORTSで放送している字幕版の初回放送が変更され、RAWは3日、アフターバーンは6日短縮されることが発表された。
+
+2018年12月20日にWWEとJ SPORTSが契約更新をしたことを発表し、再びRAWとSmackDownが通常版に放送が戻り、米国放送と同時刻によるリアルタイムでの放送も復活した。今回の再改編ではこれまでディレイ放送だったSmackDownもリアルタイムでの放送にラインナップされており、生放送はJ SPORTS 4とJ SPORTSオンデマンド並びに[Amazonプライム・ビデオ](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")で放送。また、DAZNで配信されていたRAWとSmackDownの1時間のハイライト番組はJ SPORTS 3にて放送されることが発表され、J SPORTSオンデマンドではPPVが数日遅れで配信されることも併せて発表された\[21\]\[22\]。
+
+### J SPORTSでの放送日程
+
+  - 「[RAW](https://ja.wikipedia.org/wiki/WWE・ロウ "wikilink")」
+
+<!-- end list -->
+
+  -
+    英語版初回放送（リアルタイム） - 毎週火曜日午前10時からJ SPORTS 4、J SPORTSオンデマンドにて放送・配信（1/1～）
+    字幕版初回放送 - 毎週月曜日午後6時からJ SPORTS 4、J SPORTSオンデマンドにて放送・配信（1/7～)
+    ハイライト（1時間短縮版）-　毎週月曜日午後10時からJ SPORTS 3、J SPORTSオンデマンドにて放送・配信（1/7～）
+
+<!-- end list -->
+
+  - 「[SmackDown](https://ja.wikipedia.org/wiki/スマックダウン "wikilink")」
+
+<!-- end list -->
+
+  -
+    英語版初回放送（リアルタイム） - 毎週水曜日午前10時からJ SPORTS 4、J SPORTSオンデマンドにて放送・配信（1/2～）
+    字幕版初回放送 - 毎週火曜日午後6時からJ SPORTS 4、J SPORTSオンデマンドにて放送・配信（1/8～）
+    ハイライト（1時間短縮版）- 毎週火曜日午後10時からJ SPORTS 3、J SPORTSオンデマンドで放送・配信（1/8～）
+
+<!-- end list -->
+
+  - 「PPV」
+
+<!-- end list -->
+
+  -
+    開催日翌週日曜日 J SPORTSオンデマンドにて配信
+
+### DAZNでの放送日程
+
+  - 「RAW」「SmackDown」共にライブ配信。日本語実況。
+  - [2017年](../Page/2017年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")から「RAW」「SmackDown」の1時間版のほか、9年ぶりとなるRAWのダイジェスト番組「[Bottom Line](https://ja.wikipedia.org/wiki/WWE・ボトムライン "wikilink")」、さらにThis Weekの派生番組として「Experience」の放送を開始した\[23\]。
+
+### GYAOでの放送日程
+
+  - 「Experience」（）毎週水曜日午前0時より最新話公開\[24\]
+
+### 地方局での放送日程
+
+  - 「[This Week](https://ja.wikipedia.org/wiki/This_Week_in_WWE "wikilink")」（ディスウィーク）- [テレビ神奈川](../Page/テレビ神奈川.md "wikilink")、[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")などで放送されている。放送時間は局によって異なる。なお、かつて年に2、3回行われていた*[Saturday Night's Main Event](https://ja.wikipedia.org/wiki/サタデー・ナイト・メイン・イベント "wikilink")*は日本では放送されていない。
+  - 本国で放送されているレギュラー番組の中で「[Main Event](https://ja.wikipedia.org/wiki/WWE・メインイベント "wikilink")」（上記のとは別）、「[Total Divas](https://ja.wikipedia.org/wiki/:en:WWE_Total_Divas "wikilink")」が日本で未放送である。また、かつて放送されていた「[サタデー・モーニング・スラム](https://ja.wikipedia.org/wiki/WWE・サタデー・モーニング・スラム "wikilink")」は日本では放送されることはなかった。
+
+### 過去に放送されていた番組
+
+  - Metal（） - RAWのダイジェストとアンダーカードを放送。[2002年](../Page/2002年.md "wikilink")に放送終了し、ヴェロシティに引き継がれた。
+  - Velocity（・「速力」の意） - スマックダウンのダイジェストとアンダーカードを放送。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に放送終了。
+  - Livewire（） - RAWとSmackDownのダイジェスト。日本では[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で[2002年](../Page/2002年.md "wikilink")まで放送され、2009年にUHFのディスウィークに引き継がれた。
+  - Confidencial（） - プライベートやリング外での活動など、スーパースターの素顔を取り上げたドキュメント番組。[ミーン・ジーン・オーカーランドがホストを務めた](https://ja.wikipedia.org/wiki/ジーン・オーカーランド "wikilink")。
+  - Bottom Line（ボトムライン） - RAWのダイジェストを放送。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで放送され、[2017年](../Page/2017年.md "wikilink")に前記のDAZNで再開。
+  - [After Burn](https://ja.wikipedia.org/wiki/アフターバーン "wikilink")（アフターバーン） - SmackDownのダイジェストを放送。[2019年](../Page/2019年.md "wikilink")からは無名ではあるがJ SPORTS 3にて放送。
+  - Heat（） - RAWのダイジェストとアンダーカードを放送。2008年まで放送された。
+  - [ECW](https://ja.wikipedia.org/wiki/ECW#ECW-WWE "wikilink")（イーシーダブリュ） - オリジナルECWのハードコア路線を引き継ぎながら若手育成、中堅どころの再浮上を目的とした第3ブランド。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に放送終了、NXTに引き継がれた。
+  - [Vintage Collection](https://ja.wikipedia.org/wiki/WWEヴィンテージ・コレクション "wikilink")（ヴィンテージ・コレクション） - 70年代～90年代の名勝負・名場面をまとめたクラシック番組。日本では[2011年](../Page/2011年.md "wikilink")1月でレギュラー放送が終了し、以降は特番前の特別番組として放送。
+  - [Superstars](https://ja.wikipedia.org/wiki/WWE・スーパースターズ "wikilink")（スーパースターズ） - 各ブランド共通のアンダーカード番組。日本では[2013年](../Page/2013年.md "wikilink")3月、日本でのRAW3時間フル放送開始により休止。2016年に[WWE 205 Liveの放送開始に伴い番組が終了](https://ja.wikipedia.org/wiki/:en:WWE_205_Live "wikilink")。
+
+### 2002年以降の日本興行
+
+[2002年](../Page/2002年.md "wikilink")の再上陸以降は、[ハウス・ショー](https://ja.wikipedia.org/wiki/ハウス・ショー "wikilink")が中心の興行である。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月4日](../Page/2月4日.md "wikilink") (RAW)・[5日](../Page/2月5日.md "wikilink") (SmackDown\!)に[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で、アジア初、世界では3カ国目となるテレビ収録での大会が開催された。通常は当日生放送（海外からの収録でも時間差で当日放送）するRAWも史上初の収録試合となった。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")を除き、[2011年](../Page/2011年.md "wikilink")まで毎年日本興行が開催されている。なお日本での大会では[消防法](https://ja.wikipedia.org/wiki/消防法 "wikilink")の関係で[パイロなどの演出は行われない](https://ja.wikipedia.org/wiki/パイロテクニクス "wikilink")、もしくは小規模なものにとどめられ、2011年以降は[福島第一原発事故の影響もあり](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")、[節電](https://ja.wikipedia.org/wiki/節電 "wikilink")にも努めている。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>開催年</p></th>
+<th><p>開催月日</p></th>
+<th><p>大会名</p></th>
+<th><p>開催地</p></th>
+<th><p>会場（正式名称）</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
+<td><p><a href="../Page/3月1日.md" title="wikilink">3月1日</a></p></td>
+<td><p>SMACKDOWN TOUR LIVE IN JAPAN</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a><a href="https://ja.wikipedia.org/wiki/横浜市" title="wikilink">横浜市</a><a href="https://ja.wikipedia.org/wiki/港北区" title="wikilink">港北区</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/横浜アリーナ" title="wikilink">横浜アリーナ</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
+<td><p><a href="../Page/1月24日.md" title="wikilink">1月24日</a><br />
+<a href="../Page/1月25日.md" title="wikilink">1月25日</a></p></td>
+<td><p>WWE FAR EAST TOUR January 2003</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/渋谷区" title="wikilink">渋谷区</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/国立代々木競技場" title="wikilink">国立代々木競技場</a>第一体育館</p></td>
+<td><p>RAW主催・SmackDown!のTAJIRIも参加</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/7月17日.md" title="wikilink">7月17日</a><br />
+<a href="../Page/7月18日.md" title="wikilink">7月18日</a></p></td>
+<td><p>SMACKDOWN UNLEASHED IN THE EAST</p></td>
+<td><p>神奈川県横浜市港北区</p></td>
+<td><p>横浜アリーナ</p></td>
+<td><p>SmackDown!主催</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/7月19日.md" title="wikilink">7月19日</a></p></td>
+<td><p><a href="../Page/兵庫県.md" title="wikilink">兵庫県</a><a href="../Page/神戸市.md" title="wikilink">神戸市</a><a href="https://ja.wikipedia.org/wiki/中央区_(神戸市)" title="wikilink">中央区</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ワールド記念ホール" title="wikilink">神戸ポートアイランドホール</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a></p></td>
+<td><p><a href="../Page/2月5日.md" title="wikilink">2月5日</a></p></td>
+<td><p>ROAD TO WRESTLEMANIA TOUR</p></td>
+<td><p><a href="../Page/広島県.md" title="wikilink">広島県</a><a href="https://ja.wikipedia.org/wiki/広島市" title="wikilink">広島市</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/広島サンプラザ" title="wikilink">広島サンプラザ</a></p></td>
+<td><p>RAW主催</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2月6日" title="wikilink">2月6日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a><a href="https://ja.wikipedia.org/wiki/大阪市" title="wikilink">大阪市</a><a href="../Page/中央区_(大阪市).md" title="wikilink">中央区</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大阪城ホール" title="wikilink">大阪城ホール</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2月7日.md" title="wikilink">2月7日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/埼玉県" title="wikilink">埼玉県</a><a href="https://ja.wikipedia.org/wiki/さいたま市" title="wikilink">さいたま市</a><a href="https://ja.wikipedia.org/wiki/中央区_(さいたま市)" title="wikilink">中央区</a></p></td>
+<td><p><a href="../Page/さいたまスーパーアリーナ.md" title="wikilink">さいたまスーパーアリーナ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/7月16日.md" title="wikilink">7月16日</a><br />
+<a href="../Page/7月17日.md" title="wikilink">7月17日</a></p></td>
+<td><p>SMACKDOWN AT THE BUDOKAN RETURN OF THE DEADMAN</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/千代田区" title="wikilink">千代田区</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本武道館" title="wikilink">日本武道館</a></p></td>
+<td><p>SmackDown!主催</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2月4日.md" title="wikilink">2月4日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ROAD_TO_WRESTLEMANIA_21_JAPAN_TOUR" title="wikilink">ROAD TO WRESTLEMANIA 21 JAPAN TOUR</a></p></td>
+<td><p>埼玉県さいたま市中央区</p></td>
+<td><p>さいたまスーパーアリーナ</p></td>
+<td><p>RAW主催TV収録</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2月5日.md" title="wikilink">2月5日</a></p></td>
+<td><p>SmackDown!主催TV収録</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/7月1日.md" title="wikilink">7月1日</a><br />
+<a href="../Page/7月2日.md" title="wikilink">7月2日</a></p></td>
+<td><p>WWE SUPERSHOW</p></td>
+<td><p>埼玉県さいたま市中央区</p></td>
+<td><p>さいたまスーパーアリーナ</p></td>
+<td><p>RAW、SmackDown!共催</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2月4日.md" title="wikilink">2月4日</a><br />
+<a href="../Page/2月5日.md" title="wikilink">2月5日</a></p></td>
+<td><p>SMACKDOWN LIVE TOUR</p></td>
+<td><p>神奈川県横浜市港北区</p></td>
+<td><p>横浜アリーナ</p></td>
+<td><p>SmackDown!主催</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/10月18日" title="wikilink">10月18日</a><br />
+<a href="../Page/10月19日.md" title="wikilink">10月19日</a></p></td>
+<td><p>WWE RAW&amp;ECW LIVE@BUDOKAN</p></td>
+<td><p>東京都千代田区</p></td>
+<td><p>日本武道館</p></td>
+<td><p>RAW&amp;ECW共催</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
+<td><p><a href="../Page/2月11日.md" title="wikilink">2月11日</a></p></td>
+<td><p>WWE RAW ROYAL RUMBLE TOUR</p></td>
+<td><p>東京都<a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/有明コロシアム" title="wikilink">有明コロシアム</a></p></td>
+<td><p>RAW主催<br />
+この大会より、日本公演の大会運営を<a href="https://ja.wikipedia.org/wiki/コネチカット州" title="wikilink">コネチカット州</a>本社から<a href="https://ja.wikipedia.org/wiki/WWE_Japan" title="wikilink">WWE Japanに移管</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2月12日.md" title="wikilink">2月12日</a></p></td>
+<td><p>東京都千代田区</p></td>
+<td><p>日本武道館</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/7月7日" title="wikilink">7月7日</a><br />
+<a href="https://ja.wikipedia.org/wiki/7月8日" title="wikilink">7月8日</a></p></td>
+<td><p>SMACKDOWN&amp;ECW LIVE TOUR</p></td>
+<td><p>東京都千代田区</p></td>
+<td><p>日本武道館</p></td>
+<td><p>SmackDown!&amp;ECW共催</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/8月20日" title="wikilink">8月20日</a><br />
+<a href="../Page/8月21日.md" title="wikilink">8月21日</a></p></td>
+<td><p>WWE RAW PRESENTS SUMMER SLAM TOUR 2010[25][26]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="../Page/墨田区.md" title="wikilink">墨田区</a></p></td>
+<td><p><a href="../Page/両国国技館.md" title="wikilink">国技館</a></p></td>
+<td><p>RAW主催<br />
+初の両国開催。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
+<td><p>7月頃予定</p></td>
+<td><p><a href="../Page/3月11日.md" title="wikilink">3月11日</a>に発生した<a href="https://ja.wikipedia.org/wiki/東北地方太平洋沖地震" title="wikilink">東北地方太平洋沖地震</a>（<a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>）及び<a href="https://ja.wikipedia.org/wiki/東京電力" title="wikilink">東京電力</a>・<a href="https://ja.wikipedia.org/wiki/福島第一原子力発電所" title="wikilink">福島第一原子力発電所</a>での<a href="https://ja.wikipedia.org/wiki/福島第一原子力発電所事故" title="wikilink">事故</a>、それに伴い発令された夏場における<a href="https://ja.wikipedia.org/wiki/電気使用制限等規則" title="wikilink">電力使用制限令により中止</a>。冬季に変更。</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/11月30日.md" title="wikilink">11月30日</a><br />
+<a href="../Page/12月1日.md" title="wikilink">12月1日</a></p></td>
+<td><p>WWE PRESENTS RAW WORLD TOUR 2011[27][28]</p></td>
+<td><p>神奈川県横浜市港北区</p></td>
+<td><p>横浜アリーナ</p></td>
+<td><p>RAW主催<br />
+夏季予定分の代替<br />
+この大会のチケット収入をはじめ各種関連イベントの収益金の一部が震災復興支援のため寄付された。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
+<td><p><a href="../Page/8月9日.md" title="wikilink">8月9日</a><br />
+<a href="../Page/8月10日.md" title="wikilink">8月10日</a></p></td>
+<td><p>WWE LIVE</p></td>
+<td><p>東京都墨田区</p></td>
+<td><p>国技館</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
+<td><p><a href="../Page/7月4日.md" title="wikilink">7月4日</a><br />
+<a href="../Page/7月5日.md" title="wikilink">7月5日</a></p></td>
+<td><p>WWE LIVE</p></td>
+<td><p>東京都墨田区</p></td>
+<td><p>国技館</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
+<td><p><a href="../Page/7月10日.md" title="wikilink">7月10日</a><br />
+<a href="../Page/7月11日.md" title="wikilink">7月11日</a></p></td>
+<td><p>WWE LIVE日本公演</p></td>
+<td><p>東京都墨田区</p></td>
+<td><p>国技館</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/7月12日.md" title="wikilink">7月12日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a><a href="https://ja.wikipedia.org/wiki/大阪市" title="wikilink">大阪市</a><a href="../Page/此花区.md" title="wikilink">此花区</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/舞洲アリーナ" title="wikilink">舞洲アリーナ</a></p></td>
+<td><p>大阪大会は<a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="https://ja.wikipedia.org/wiki/2月6日" title="wikilink">2月6日</a>（大阪城ホール）以来</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/7月3日" title="wikilink">7月3日</a><br />
+<a href="../Page/7月4日.md" title="wikilink">7月4日</a></p></td>
+<td><p>WWE LIVE</p></td>
+<td><p>東京都墨田区</p></td>
+<td><p>国技館</p></td>
+<td><p>2日目はWWEネットワークを通じて本国に同時生中継された。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
+<td><p><a href="../Page/7月1日.md" title="wikilink">7月1日</a><br />
+<a href="../Page/7月2日.md" title="wikilink">7月2日</a></p></td>
+<td><p>WWE LIVE</p></td>
+<td><p>東京都墨田区</p></td>
+<td><p>国技館</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/12月3日.md" title="wikilink">12月3日</a></p></td>
+<td><p>NXT Live Japan[29]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a><a href="https://ja.wikipedia.org/wiki/大阪市" title="wikilink">大阪市</a><a href="../Page/浪速区.md" title="wikilink">浪速区</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大阪府立体育会館" title="wikilink">大阪府立体育会館</a></p></td>
+<td><p>NXT主催</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
+<td><p><a href="../Page/6月30日.md" title="wikilink">6月30日</a><br />
+<a href="../Page/7月1日.md" title="wikilink">7月1日</a></p></td>
+<td><p>WWE Live Japan[30]</p></td>
+<td><p>東京都墨田区</p></td>
+<td><p>国技館</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/9月16日.md" title="wikilink">9月16日</a></p></td>
+<td><p>WWE Live Osaka[31]</p></td>
+<td><p>大阪府大阪市浪速区</p></td>
+<td><p>大阪府立体育会館</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a></p></td>
+<td><p><a href="../Page/6月29日.md" title="wikilink">6月29日</a><br />
+<a href="../Page/6月30日.md" title="wikilink">6月30日</a></p></td>
+<td><p>WWE Live Japan[32]</p></td>
+<td><p>東京都墨田区</p></td>
+<td><p>国技館</p></td>
+<td><p>SMACKDOWN LIVE主催</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/8月31日.md" title="wikilink">8月31日</a></p></td>
+<td><p>WWE Live Osaka[33]</p></td>
+<td><p>大阪府大阪市浪速区</p></td>
+<td><p>大阪府立体育会館</p></td>
+<td><p>RAW主催</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
+<td><p><a href="../Page/6月28日.md" title="wikilink">6月28日</a><br />
+<a href="../Page/6月29日.md" title="wikilink">6月29日</a></p></td>
+<td><p>WWE Live Tokyo[34]</p></td>
+<td><p>東京都墨田区</p></td>
+<td><p>国技館</p></td>
+<td><p>RAW主催</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><a href="../Page/7月2日.md" title="wikilink">7月2日</a></p></td>
+<td><p>WWE Live Japan[35]</p></td>
+<td><p>大阪府大阪市浪速区</p></td>
+<td><p>大阪府立体育会館</p></td>
+<td><p>RAW主催</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/7月3日" title="wikilink">7月3日</a><br />
+<a href="../Page/7月4日.md" title="wikilink">7月4日</a></p></td>
+<td><p>神奈川県横浜市港北区</p></td>
+<td><p>横浜アリーナ</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### その他
+
+2016年、[BABYMETAL](https://ja.wikipedia.org/wiki/BABYMETAL "wikilink")の曲「KARATE」が「NXT」の公式テーマ曲に採用されている。
+
+## WWEのオフィシャルCDアルバム
+
+  - WWEからオフィシャルで販売されている、または過去に販売されていたCD
+  - [The Wrestling Album](https://ja.wikipedia.org/wiki/The_Wrestling_Album "wikilink")（1985年）
+  - [Piledriver – The Wrestling Album 2](https://ja.wikipedia.org/wiki/Piledriver_–_The_Wrestling_Album_2 "wikilink")（1987年）
+  - [WrestleMania: The Album](https://ja.wikipedia.org/wiki/WrestleMania:_The_Album "wikilink")（1993年）
+  - [WWF Full Metal](https://ja.wikipedia.org/wiki/WWF_Full_Metal "wikilink")（1996年）
+  - [WWF ザ・ミュージック Vol.2](https://ja.wikipedia.org/wiki/WWF_ザ・ミュージック_Vol.2 "wikilink")（1997年）
+  - [WWF We Gotta Wrestle](https://ja.wikipedia.org/wiki/WWF_We_Gotta_Wrestle "wikilink")（1997年）
+  - [WWF ザ・ミュージック Vol.3](https://ja.wikipedia.org/wiki/WWF_ザ・ミュージック_Vol.3 "wikilink")（1998年）
+  - [WWF ザ・ミュージック Vol.4](https://ja.wikipedia.org/wiki/WWF_ザ・ミュージック_Vol.4 "wikilink")（1999年）
+  - [WWF Aggression](https://ja.wikipedia.org/wiki/WWF_Aggression "wikilink")（2000年）
+  - [WWF ザ・ミュージック Vol.5](https://ja.wikipedia.org/wiki/WWF_ザ・ミュージック_Vol.5 "wikilink")（2001年）
+  - [WWF Forceable Entry](https://ja.wikipedia.org/wiki/WWF_Forceable_Entry "wikilink")（2002年）
+  - [WWE Anthology](https://ja.wikipedia.org/wiki/WWE_Anthology "wikilink")（2002年）
+  - [WWE Originals](https://ja.wikipedia.org/wiki/WWE_Originals "wikilink")（2004年）
+  - [WWE ThemeAddict: ザ・ミュージック Vol.6](https://ja.wikipedia.org/wiki/WWE_ThemeAddict:_ザ・ミュージック_Vol.6 "wikilink")（2004年）
+  - [You Can't See Me](https://ja.wikipedia.org/wiki/You_Can't_See_Me "wikilink")（2005年）
+  - [WWE WRECKLESS INTENT](https://ja.wikipedia.org/wiki/WWE_WRECKLESS_INTENT "wikilink")（2006年）
+  - [WWE ザ・ミュージック Vol.7](https://ja.wikipedia.org/wiki/WWE_ザ・ミュージック_Vol.7 "wikilink")（2007年）
+
+<!-- end list -->
+
+  -
+    米国[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")限定で販売
+
+<!-- end list -->
+
+  - [Raw Greatest Hits:The Music](https://ja.wikipedia.org/wiki/Raw_Greatest_Hits:The_Music "wikilink")（2007年）
+  - [WWE ザ・ミュージック Vol.8](https://ja.wikipedia.org/wiki/WWE_ザ・ミュージック_Vol.8 "wikilink")（2008年）
+  - [Voices: WWE ザ・ミュージック Vol.9](https://ja.wikipedia.org/wiki/Voices:_WWE_ザ・ミュージック_Vol.9 "wikilink")（2009年）
+  - [WWE ザ・ミュージック: A New Day](https://ja.wikipedia.org/wiki/WWE_ザ・ミュージック:_A_New_Day "wikilink")（2010年）
+
+<!-- end list -->
+
+  -
+    [Amazon.com](../Page/Amazon.com.md "wikilink")限定で発売
+
+## WWEのテレビゲーム
+
+  - [エキサイティングプロレス](https://ja.wikipedia.org/wiki/エキサイティングプロレス "wikilink")シリーズ
+  - [レジェンズ・オブ・レッスルマニア](https://ja.wikipedia.org/wiki/レジェンズ・オブ・レッスルマニア "wikilink")
+
+## WWEのPPV特番
+
+現在WWEでは月に1\~2度特番を行い、テレビ放送の[RAW](https://ja.wikipedia.org/wiki/WWE・ロウ "wikilink")、[SmackDown\!の単独開催または](https://ja.wikipedia.org/wiki/スマックダウン "wikilink")2ブランド共催で行われる（2018年のレッスルマニア以降は2ブランド共催で行われることが発表された\[36\]）。そのためテレビ放送には出られてもPPVに出られないレスラーは多い。
+
+基本的に毎年行われる大会は決まっているが、特別に組まれる[PPVや現在は行われていないPPVも存在する](https://ja.wikipedia.org/wiki/ペイ・パー・ビュー "wikilink")。
+
+PPVのスケジュールは以下の通りで、日付は現地時間。
+
+### 2020年のPPVスケジュール
+
+| 日付                                                      | PPV名                                                                              | 開催地                                                                                                        | 会場                                                                                     |
+| ------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") | [Royal Rumble](https://ja.wikipedia.org/wiki/ロイヤルランブル "wikilink")                 | [テキサス州](../Page/テキサス州.md "wikilink")[ヒューストン](../Page/ヒューストン.md "wikilink")                                 | [ミニッツメイド・パーク](https://ja.wikipedia.org/wiki/ミニッツメイド・パーク "wikilink")                    |
+| [2月27日](../Page/2月27日.md "wikilink")                    | [Super ShowDown](https://ja.wikipedia.org/wiki/WWEスーパーショーダウン "wikilink")\[37\]    | [サウジアラビア](../Page/サウジアラビア.md "wikilink")・[リヤド](https://ja.wikipedia.org/wiki/リヤド "wikilink")               | [キング・ファハド国際スタジアム](https://ja.wikipedia.org/wiki/キング・ファハド国際スタジアム "wikilink")            |
+| [3月8日](../Page/3月8日.md "wikilink")                      | [Elimination Chamber](https://ja.wikipedia.org/wiki/WWEエリミネーション・チェンバー "wikilink") | [ペンシルバニア州](https://ja.wikipedia.org/wiki/ペンシルバニア州 "wikilink")[フィラデルフィア](../Page/フィラデルフィア.md "wikilink")    | [ウェルズ・ファーゴ・センター](https://ja.wikipedia.org/wiki/ウェルズ・ファーゴ・センター_\(フィラデルフィア\) "wikilink") |
+| [4月5日](../Page/4月5日.md "wikilink")                      | [WrestleMania](https://ja.wikipedia.org/wiki/レッスルマニア36 "wikilink")                | [フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[タンパ](https://ja.wikipedia.org/wiki/タンパ "wikilink") | [レイモンド・ジェームス・スタジアム](https://ja.wikipedia.org/wiki/レイモンド・ジェームス・スタジアム "wikilink")        |
+| [7月19日](../Page/7月19日.md "wikilink")                    | [Extreme Rules](https://ja.wikipedia.org/wiki/WWEエキストリーム・ルールズ "wikilink")\[38\]   | [カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンノゼ](../Page/サンノゼ.md "wikilink")                               | [SAPセンター](https://ja.wikipedia.org/wiki/SAPセンター "wikilink")                            |
+| [8月23日](../Page/8月23日.md "wikilink")                    | [SummerSlam](https://ja.wikipedia.org/wiki/サマースラム "wikilink")\[39\]               | [マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[ボストン](https://ja.wikipedia.org/wiki/ボストン "wikilink")          | [TDガーデン](https://ja.wikipedia.org/wiki/TDガーデン "wikilink")                              |
+
+| PPV名                                                                                               |
+| -------------------------------------------------------------------------------------------------- |
+| [Fastlane](https://ja.wikipedia.org/wiki/WWEファスト・レーン "wikilink")                                   |
+| [Money In The Bank](https://ja.wikipedia.org/wiki/WWEマネー・イン・ザ・バンク "wikilink")                      |
+| [Stomping Grounds](https://ja.wikipedia.org/wiki/WWEストンピング・グラウンズ "wikilink")                       |
+| [Clash of Champions](https://ja.wikipedia.org/wiki/WWEクラッシュ・オブ・チャンピオンズ "wikilink")                 |
+| [Hell In A Cell](https://ja.wikipedia.org/wiki/WWEヘル・イン・ア・セル "wikilink")                           |
+| [Crown Jewel](https://ja.wikipedia.org/wiki/WWEクラウン・ジュエル "wikilink")                               |
+| [SurvivorSeries](https://ja.wikipedia.org/wiki/サバイバー・シリーズ "wikilink")                              |
+| [Tables Ledders and Chairs](https://ja.wikipedia.org/wiki/WWE_TLC:テーブルズ・ラダーズ・アンド・チェアーズ "wikilink") |
+
+### 2021年のPPVスケジュール
+
+| 日付                                   | PPV名                                                                   | 開催地                                                                              | 会場                                                              |
+| ------------------------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [3月28日](../Page/3月28日.md "wikilink") | [WrestleMania](https://ja.wikipedia.org/wiki/レッスルマニア "wikilink")\[40\] | [カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink") | [ソフィ・スタジアム](https://ja.wikipedia.org/wiki/ソフィ・スタジアム "wikilink") |
+
+※ PPV日程参照：[List of WWE pay-per-view events](https://ja.wikipedia.org/wiki/:en:List_of_WWE_pay-per-view_events#2020 "wikilink")
+
+### かつて行われていたWWEのPPV特番
+
+  - [In Your House](https://ja.wikipedia.org/wiki/イン・ユア・ハウス "wikilink")（1995年 - 1999年）
+  - [Over the Edge](https://ja.wikipedia.org/wiki/オーバー・ジ・エッジ "wikilink")（1998年 - 1999年）
+  - [Fully Loaded](https://ja.wikipedia.org/wiki/フューリー・ローデッド "wikilink")（1998年 - 2000年）
+  - [InVasion](https://ja.wikipedia.org/wiki/WWF・インベイジョン "wikilink")（2001年）
+  - [King of the Ring](https://ja.wikipedia.org/wiki/キング・オブ・ザ・リング "wikilink")（1993年 - 2002年、2006年、2008年、2010年、2015年）
+  - [Bad Blood](https://ja.wikipedia.org/wiki/バッド・ブラッド "wikilink")（1997年、2003年 - 2004年）
+  - [Taboo Tuesday](https://ja.wikipedia.org/wiki/タブー・チューズデイ "wikilink")（2004年 - 2005年） Cyber Sundayに変更
+  - [December to Dismember](https://ja.wikipedia.org/wiki/ECW_ディセンバー・トゥ・ディスメンバー "wikilink")（2006年）
+  - [New Year's Revolution](https://ja.wikipedia.org/wiki/ニュー・イヤーズ・レボリューション "wikilink")（2005年 - 2007年）
+  - [One Night Stand](https://ja.wikipedia.org/wiki/WWEワン・ナイト・スタンド "wikilink")（2005年 - 2008年） Extreme Rulesに変更
+  - [The Great American Bash](https://ja.wikipedia.org/wiki/グレート・アメリカン・バッシュ "wikilink")（2004年 - 2008年） The Bashに変更
+  - [Unforgiven](https://ja.wikipedia.org/wiki/アンフォーギヴェン "wikilink")（1998年 - 2008年）
+  - [Cyber Sunday](https://ja.wikipedia.org/wiki/サイバー・サンデー "wikilink")（2006年 - 2008年） Bragging Rightsに変更
+  - [Armageddon](https://ja.wikipedia.org/wiki/WWE・アルマゲドン "wikilink")（1999年 - 2008年） TLCに変更
+  - [Judgement Day](https://ja.wikipedia.org/wiki/ジャッジメント・デイ "wikilink")（1998年 - 2009年） Over the Limitに変更
+  - [The Bash](https://ja.wikipedia.org/wiki/WWEザ・バッシュ "wikilink")（2009年）
+  - [Breaking Point](https://ja.wikipedia.org/wiki/WWEブレーキング・ポイント "wikilink")（2009年）
+  - [Fatal 4-Way](https://ja.wikipedia.org/wiki/WWEフェイタル・4ウェイ "wikilink")（2010年）
+  - [Capitol Punishment](https://ja.wikipedia.org/wiki/WWEキャピタル・パニッシュメント "wikilink")（2011年）
+  - [Vengeance](https://ja.wikipedia.org/wiki/WWEヴェンジェンス "wikilink")（2001年 - 2007年、2011年）
+  - [Bragging Rights](https://ja.wikipedia.org/wiki/WWEブラッギング・ライツ "wikilink")（2009年 - 2010年）
+  - [No Way Out](https://ja.wikipedia.org/wiki/ノー・ウェイ・アウト "wikilink")（1998年、2000年 - 2009年、2012年）
+  - [Over the Limit](https://ja.wikipedia.org/wiki/WWEオーバー・ザ・リミット "wikilink")（2010年 - 2012年）
+  - [Night of Champions](https://ja.wikipedia.org/wiki/WWEナイト・オブ・チャンピオンズ "wikilink")（2008年 - 2015年）Clash of Championsに変更
+  - [Roadblock: End of the Line](https://ja.wikipedia.org/wiki/WWEロードブロック "wikilink") （2016年）
+  - [Great Balls of Fire](https://ja.wikipedia.org/wiki/WWEグレート・ボールズ・オブ・ファイヤー "wikilink") （2017年）
+  - [No Mercy](https://ja.wikipedia.org/wiki/WWE・ノー・マーシー "wikilink")（1999年 - 2008年、2016年 - 2017年）
+  - [Payback](https://ja.wikipedia.org/wiki/WWEペイバック "wikilink") (2013年 - 2017年）
+  - [Battleground](https://ja.wikipedia.org/wiki/WWEバトルグラウンド "wikilink") (2013年 - 2017年）
+  - [Backlash](https://ja.wikipedia.org/wiki/WWE・バックラッシュ "wikilink") (1999年 - 2009年、2016年 - 2018年)
+
+### 日本でのPPV特番放送
+
+J SPORTSでの通常放送と同じく約10日遅れ（[2009年](../Page/2009年.md "wikilink")2月までは3週間遅れ）ての放送であった2014年からは[VOD限定](https://ja.wikipedia.org/wiki/ビデオ・オン・デマンド "wikilink")（WWE日本語公式サイト（WWE Japan Videos）、[DMM](https://ja.wikipedia.org/wiki/DMM "wikilink")、[J:COM](https://ja.wikipedia.org/wiki/J:COM "wikilink")等\[41\]）で英語版（字幕無し）を2日遅れで放送することが発表された。 スカパー！では[スカチャン](https://ja.wikipedia.org/wiki/スカチャン "wikilink")でのPPV放送。初回放送は木曜日。 ケーブルテレビ[J:COM](https://ja.wikipedia.org/wiki/J:COM "wikilink")ではJ:COMオンデマンドにて放送。配信開始は金曜日。WWE NETWORKでの配信開始に伴い放送は打ち切られた。
+
+視聴料金は4大PPVのロイヤルランブル、レッスルマニア、サマースラム、サバイバー・シリーズは2,100円/番組。その他は1,575円/番組。
+
+また、スカパー\!、スカパー\!プレミアムサービスにて上記の1年間開催されるPPVを全て視聴できるパックセットも販売されていた。（WWEスペシャルリングサイド2014:14,700円/一括払い\<4月以降は15,120円\>）。スカパー\!ではPPVを行なっていないため、WWEスペシャルリングサイドでの一括購入のみで個別大会の購入はできなかった。
+
+アルマゲドン2002までの特番はJ SPORTS（旧：J Sky SPORTS）で通常放送されており料金を払わずに視聴することができたが、WWE側の要望により、ロイヤルランブル2003より本国同様のPPV形式となった。加入しているケーブルテレビによってはPPVに対応していないため、これに伴い日本でも以降の特番はすべてDVD化されるようになった。2016年以降は日本語字幕版のPPV放送打ち切りに伴いDVD販売も無くなった。
+
+また、ロイヤルランブル2015からTLC2015までは[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")（[ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink")）で字幕なしの英語版のみの配信、視聴には番組あたり2,160ニコニコポイントが必要でタイムシフトも1回のみ可能だった。
+
+2017年現在はWWE NETWORKでのみ視聴可能。字幕版なし、日本語実況はシュン山口とFUNAKIが務めている。
+
+## PPV以外の特番
+
+時々ハウスショーが特番として[WWEネットワーク](https://ja.wikipedia.org/wiki/WWEネットワーク "wikilink")で放送されることがある。また特定の選手を集めて行うトーナメントを開催してWWEネットワークで放送されることもある。
+
+### PPV以外の特番
+
+| 年                                    | 月日                                   | イベント名                                                                                                               | 開催地                                                                                                                                             | 会場                                                                          |
+| ------------------------------------ | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [2015年](../Page/2015年.md "wikilink") | [7月4日](../Page/7月4日.md "wikilink")   | [The Beast in the East](https://ja.wikipedia.org/wiki/:en:The_Beast_in_the_East "wikilink")                         | [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[墨田区](../Page/墨田区.md "wikilink")                                                             | [両国国技館](../Page/両国国技館.md "wikilink")                                        |
+| 2015年                                | [10月3日](../Page/10月3日.md "wikilink") | [WWE Network Live Spacial in MSG](https://ja.wikipedia.org/wiki/:en:WWE_Live_from_Madison_Square_Garden "wikilink") | [ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")                                               | [マディソン・スクエア・ガーデン](https://ja.wikipedia.org/wiki/マディソン・スクエア・ガーデン "wikilink") |
+| [2016年](../Page/2016年.md "wikilink") | [3月12日](../Page/3月12日.md "wikilink") | [Roadblock](https://ja.wikipedia.org/wiki/WWEロードブロック "wikilink")                                                    | [カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[オンタリオ州](https://ja.wikipedia.org/wiki/オンタリオ州 "wikilink")[トロント](../Page/トロント.md "wikilink") | [リコー・コロシアム](https://ja.wikipedia.org/wiki/:en:Ricoh_Coliseum "wikilink")    |
+| [2019年](../Page/2019年.md "wikilink") | [7月27日](../Page/7月27日.md "wikilink") | [Smackville](https://ja.wikipedia.org/wiki/WWEスマックヴィル "wikilink")\[42\]                                             | [テネシー州](https://ja.wikipedia.org/wiki/テネシー州 "wikilink")[ナッシュビル](https://ja.wikipedia.org/wiki/ナッシュビル "wikilink")                                | [ブリヂストン・アリーナ](https://ja.wikipedia.org/wiki/ブリヂストン・アリーナ "wikilink")         |
+
+### トーナメント
+
+| 年     | イベント名                                                                                 | 開催地                                                                                                                                                                          | 会場                                                                                |
+| ----- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 2016年 | [WWEクルーザー級クラシック](https://ja.wikipedia.org/wiki/WWEクルーザー級クラシック "wikilink")             | [フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[ウィンター・パーク](https://ja.wikipedia.org/wiki/:en:Winter_Park,_Florida "wikilink")                                        | [フル・セイル大学アリーナ](https://ja.wikipedia.org/wiki/:en:Full_Sail_University "wikilink") |
+| 2017年 | [WWE英国王座トーナメント](https://ja.wikipedia.org/wiki/WWE・ユナイテッドキングダム王座 "wikilink")           | [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ランカシャー州](https://ja.wikipedia.org/wiki/ランカシャー州 "wikilink")[ブラックプール](https://ja.wikipedia.org/wiki/ブラックプール "wikilink") | [エンプレス・ボールルーム](https://ja.wikipedia.org/wiki/:en:Empress_Ballroom "wikilink")     |
+| 2017年 | [WWEメイ・ヤング・クラシック](https://ja.wikipedia.org/wiki/WWEメイ・ヤング・クラシック_\(2017年\) "wikilink") | フロリダ州ウィンター・パーク                                                                                                                                                               | フル・セイル大学アリーナ                                                                      |
+| 2018年 | [WWEメイ・ヤング・クラシック](https://ja.wikipedia.org/wiki/WWEメイ・ヤング・クラシック_\(2018年\) "wikilink") | フロリダ州ウィンター・パーク                                                                                                                                                               | フル・セイル大学アリーナ                                                                      |
+
+## 興行の特徴
+
+### 試合形式
+
+WWEでは、多彩な試合形式が行われる。WWE発祥の試合形式も存在する。
+
+#### 通常の番組でも行われる試合形式
+
+  - アンビュランス・マッチ（救急車デスマッチ）
+  - [スティール・ケージ・マッチ](https://ja.wikipedia.org/wiki/デスマッチ#金網デスマッチ "wikilink")（金網デスマッチ）
+  - チェアマッチ
+  - [テーブル・マッチ](https://ja.wikipedia.org/wiki/テーブルマッチ "wikilink")
+  - ノー・ホールズ・バード・マッチ（反則裁定無し・リング内決着）
+  - ビート・ザ・クロックマッチ（数試合行い一番短い試合時間の勝者が勝利。挑戦者決定で使われる。）
+  - [ラストマン・スタンディング・マッチ](https://ja.wikipedia.org/wiki/ラストマン・スタンディング・マッチ "wikilink")
+  - [ラダー・マッチ](https://ja.wikipedia.org/wiki/ラダー・マッチ "wikilink")
+  - [ランバージャック・デスマッチ](https://ja.wikipedia.org/wiki/デスマッチ#ランバージャック・デスマッチ "wikilink")
+
+#### PPV限定の試合形式
+
+  - [TLC](https://ja.wikipedia.org/wiki/TLC戦 "wikilink")
+  - [エリミネーション・マッチ](https://ja.wikipedia.org/wiki/タッグマッチ#エリミネーション・マッチ "wikilink")
+  - [エリミネーション・チェンバー・マッチ](https://ja.wikipedia.org/wiki/エリミネーション・チェンバー・マッチ "wikilink")
+  - [ヘル・イン・ア・セル](https://ja.wikipedia.org/wiki/ヘル・イン・ア・セル "wikilink")
+  - [マネー・イン・ザ・バンク・ラダー・マッチ](https://ja.wikipedia.org/wiki/マネー・イン・ザ・バンク・ラダー・マッチ "wikilink")
+  - [ロイヤルランブル・マッチ](https://ja.wikipedia.org/wiki/ロイヤルランブル#ロイヤルランブル戦 "wikilink")
+
+#### 過去に行われた試合形式
+
+  - アサイラム・マッチ
+  - [アイアンマン・マッチ](https://ja.wikipedia.org/wiki/アイアンマン・マッチ "wikilink")
+  - [アイ・クイット・マッチ](https://ja.wikipedia.org/wiki/アイ・クイット・マッチ "wikilink")
+  - [インフェルノ・マッチ](https://ja.wikipedia.org/wiki/デスマッチ#ファイヤー・デスマッチ "wikilink")（ファイヤー・デスマッチ）
+  - サブミッション・マッチ（決着はタップアウトのみ）
+  - [チャンピオンシップ・スクランブル](https://ja.wikipedia.org/wiki/チャンピオンシップ・スクランブル "wikilink")
+  - ファースト・ブラッド・マッチ（先に相手を流血させた方の勝ち）
+  - フォールズカウントエニウェア・マッチ（反則裁定無し・どこでも決着可）
+
+ディーヴァ関連の試合形式
+
+  - 水着、コスプレ、下着等の各種コンテスト
+  - ランジェリー・ピロー・ファイト（下着姿で枕投げ）
+  - ブラ・アンド・パンティマッチ
+  - 泥んこマッチ
+
+アンダーテイカー関連の試合形式
+
+  - キャスケット・マッチ（棺桶デスマッチ）
+  - [ベリード・アライブ・マッチ](https://ja.wikipedia.org/wiki/生き埋め戦 "wikilink")（生き埋めデスマッチ）
+
+一夜限りの試合形式
+
+  - テキサス・ブルロープ・マッチ（お互いの腕にブルロープを巻き、先に4コーナーにタッチした方が勝利、単にストラップ・マッチとも呼ばれる）
+  - [バトル・オブ・ザ・ビリオネアーズ](https://ja.wikipedia.org/wiki/バトル・オブ・ザ・ビリオネアーズ "wikilink")
+
+### 観客参加型興行
+
+WWEでは、興行の楽しみ方のキーワードとして、「観客参加型」を提唱。主に、次の4つが主流となる。
+
+1.  サインボード
+      - ボードに自己主張一杯のメッセージを書いて掲げる、最も定番の一つである。
+          - 直球型…スーパースターの名前・ニックネーム・必殺技を書いたモノ
+          - 変化球型…名前にちなんだユニークな語呂合わせを書いたモノ。下記はほんの一例。
+              - 「Randy Always Wins（ランディはいつも勝つ）」（「RAW」に引っ掛けて）
+              - 「Jbl Best Loser（JBLは偉大なる負け犬）」
+              - 「We Want Edge（みんながエッジを求めてる）」（「WWE」に引っ掛けて）
+          - デコレーション型…写真やイラストなど、オリジナリティあふれる工夫を凝らしたモノ
+2.  [チャント](https://ja.wikipedia.org/wiki/チャント "wikilink")（掛け声）
+      - スーパースターの台詞や登場曲などに合わせて大合唱
+          - [カート・アングル](https://ja.wikipedia.org/wiki/カート・アングル "wikilink")の場合…登場曲に合わせて「**You Suck**」
+          - [ロブ・ヴァン・ダム](https://ja.wikipedia.org/wiki/ロブ・ヴァン・ダム "wikilink")の場合…コールされる時、ポーズと一緒に「**Rob Van Dam**」
+          - [リック・フレアー](https://ja.wikipedia.org/wiki/リック・フレアー "wikilink")の場合…水平チョップを繰り出す時に「**Wooooo**」
+          - [D-ジェネレーションX](https://ja.wikipedia.org/wiki/D-ジェネレーションX "wikilink")の場合…[トリプルH](https://ja.wikipedia.org/wiki/トリプルH "wikilink")、[ショーン・マイケルズ](https://ja.wikipedia.org/wiki/ショーン・マイケルズ "wikilink")のマイクに合わせて「**Suck it**」
+          - [トミー・ドリーマー](https://ja.wikipedia.org/wiki/トミー・ドリーマー "wikilink")など元[ECW](https://ja.wikipedia.org/wiki/ECW "wikilink")所属選手の場合…入退場時や攻撃のあとに「**ECW ECW**」
+          - また悪役が気に入らないことを言ったり、ストーン・コールド・スティーブ・オースチンのマイクパフォーマンスの場合に「**What**」ということもある。
+3.  Tシャツバズーカ
+      - 試合の合間に客席に向かってTシャツを込めたバズーカ砲を打ち上げる。
+          - 日本公演では、主にツアータイトルが描かれたTシャツが打ち上げられる。
+4.  コスプレ
+      - スーパースターのコスチュームやギミックを真似るモノ。楽しみ方としては上級者の部類になる。
+      - よくコスプレの題材にされる選手
+          - [ザ・ロック](https://ja.wikipedia.org/wiki/ザ・ロック "wikilink")…日本公演で「代々木ロック」なる者が出現。試合開始前や休憩時間中に会場中を回り、パフォーマンスをする。
+          - [ジ・アンダーテイカー](https://ja.wikipedia.org/wiki/ジ・アンダーテイカー "wikilink")…現在のギミックどおり、白目も。
+          - [ハルク・ホーガン](https://ja.wikipedia.org/wiki/ハルク・ホーガン "wikilink")…TVショーなどで最も頻繁に見られる。ホーガンの[TNA参戦以降もその根強い人気は変わらない](https://ja.wikipedia.org/wiki/TNAレスリング "wikilink")。
+
+## 所属選手（THE WWE SUPERSTARS）
+
+## スーパースターの関係
+
+WWEでは[アングル上](https://ja.wikipedia.org/wiki/アングル_\(プロレス\) "wikilink")、スーパースターの兄弟や夫婦、親戚といった設定が出てくるがもちろん全てが真実な訳ではない。特に、1980年代後半からタッグチームの多くに兄弟、親戚のギミックが頻繁に設定された。ただし、実際の人間関係がストーリーに絡むことも多く、そこにこの団体を楽しむ醍醐味がある。
+
+  - 現実でも肉親で番組ストーリーでも、それが取り上げられた例。
+      - [ビンス・マクマホン](https://ja.wikipedia.org/wiki/ビンス・マクマホン "wikilink")一家は本当の家族。
+      - [チャボ・クラシックと](https://ja.wikipedia.org/wiki/チャボ・ゲレロ・シニア "wikilink")[エディ・ゲレロ](https://ja.wikipedia.org/wiki/エディ・ゲレロ "wikilink")は本当の兄弟。エディ・ゲレロと[チャボ・ゲレロは叔父と甥の関係](https://ja.wikipedia.org/wiki/チャボ・ゲレロ・ジュニア "wikilink")。
+      - [ランディ・オートン](https://ja.wikipedia.org/wiki/ランディ・オートン "wikilink")と[ボブ・オートンは本当の親子](https://ja.wikipedia.org/wiki/ボブ・オートン・ジュニア "wikilink")。
+      - [マット・ハーディー](https://ja.wikipedia.org/wiki/マット・ハーディー "wikilink")と[ジェフ・ハーディー](https://ja.wikipedia.org/wiki/ジェフ・ハーディー "wikilink")は本当の兄弟。
+      - [ハート・ファウンデーション](https://ja.wikipedia.org/wiki/ハート・ファウンデーション "wikilink")はハート一家および義理の兄弟がメンバーに存在。
+      - [カリートと](https://ja.wikipedia.org/wiki/カーリー・コロン "wikilink")[プリモは本当の兄弟](https://ja.wikipedia.org/wiki/エディ・コロン "wikilink")。
+      - [コーディ・ローデス](https://ja.wikipedia.org/wiki/コーディ・ローデス "wikilink")と[ゴールダストは](https://ja.wikipedia.org/wiki/ダスティン・ローデス "wikilink")[ダスティ・ローデス](https://ja.wikipedia.org/wiki/ダスティ・ローデス "wikilink")の実の息子で異母兄弟。
+      - [ジェイ・ウーソと](https://ja.wikipedia.org/wiki/ジョシュア・ファトゥ "wikilink")[ジミー・ウーソはリキシのリングネームで有名な](https://ja.wikipedia.org/wiki/ジョナサン・ファトゥ "wikilink")[ソロファ・ファトゥ](https://ja.wikipedia.org/wiki/ソロファ・ファトゥ "wikilink")の実の息子で双子の兄弟。
+  - タッグやユニットでつながりがある例
+      - [エッジと](https://ja.wikipedia.org/wiki/エッジ_\(プロレスラー\) "wikilink")[クリスチャンは小学校来の親友](https://ja.wikipedia.org/wiki/クリスチャン_\(プロレスラー\) "wikilink")。
+      - [ババ・レイ・ダッドリーと](https://ja.wikipedia.org/wiki/マーク・ロモナコ "wikilink")[ディーボン・ダッドリーは](https://ja.wikipedia.org/wiki/ディーボン・ヒューズ "wikilink")、共に[ジョニー・ロッズ](https://ja.wikipedia.org/wiki/ジョニー・ロッズ "wikilink")のジムの出身で兄弟子と弟弟子の関係である。
+  - ギミック上のみの肉親関係の例
+      - [ジ・アンダーテイカー](https://ja.wikipedia.org/wiki/ジ・アンダーテイカー "wikilink")と[ケインは本当の兄弟ではない](https://ja.wikipedia.org/wiki/ケイン_\(プロレスラー\) "wikilink")。
+      - [ジ・アンダーテイカー](https://ja.wikipedia.org/wiki/ジ・アンダーテイカー "wikilink")及び[ケインと](https://ja.wikipedia.org/wiki/ケイン_\(プロレスラー\) "wikilink")[ポール・ベアラー](https://ja.wikipedia.org/wiki/ポール・ベアラー "wikilink")は本当の親子ではない。
+      - [エッジと](https://ja.wikipedia.org/wiki/エッジ_\(プロレスラー\) "wikilink")[クリスチャンは本当の兄弟ではない](https://ja.wikipedia.org/wiki/クリスチャン_\(プロレスラー\) "wikilink")。クリスチャンがWWEに復帰してからは幼馴染みという事になっている。
+      - [エリック・ビショフ](https://ja.wikipedia.org/wiki/エリック・ビショフ "wikilink")と[ユージンは本当の親戚ではない](https://ja.wikipedia.org/wiki/ニコラス・ディンスモア "wikilink")。
+      - [ジェイミー・ノーブルと](https://ja.wikipedia.org/wiki/ジェイミー・ハワード "wikilink")[ナンジオは本当の従兄弟ではない](https://ja.wikipedia.org/wiki/ジェームズ・マリタート "wikilink")。
+      - [ババ・レイ・ダッドリーと](https://ja.wikipedia.org/wiki/マーク・ロモナコ "wikilink")[ディーボン・ダッドリーと](https://ja.wikipedia.org/wiki/ディーボン・ヒューズ "wikilink")[スパイク・ダッドリーは本当の兄弟ではない](https://ja.wikipedia.org/wiki/マット・ハイソン "wikilink")。
+      - [フィンレーと](https://ja.wikipedia.org/wiki/デイブ・フィンレー "wikilink")[ホーンスワグルは本当の親子ではない](https://ja.wikipedia.org/wiki/ディラン・ポストゥル "wikilink")。
+      - [カート・アングル](https://ja.wikipedia.org/wiki/カート・アングル "wikilink")と[ジェイソン・ジョーダンは本当の親子ではない](https://ja.wikipedia.org/wiki/ネイサン・エバーハート "wikilink")。
+  - 現実でも婚姻、または恋愛関係で、番組ストーリーでもそれが取り上げられた例
+      - [ランディ・サベージ](https://ja.wikipedia.org/wiki/ランディ・サベージ "wikilink")と[エリザベスは実際の夫婦だった](https://ja.wikipedia.org/wiki/エリザベス・ヒューレット "wikilink")。リング上で結婚式もあげているが、後離婚。後に続く「夫婦もの」の嚆矢となった。
+      - [トリプルH](https://ja.wikipedia.org/wiki/トリプルH "wikilink")と[ステファニー・マクマホンは本当に結婚している](https://ja.wikipedia.org/wiki/ステファニー・マクマホン＝レヴェック "wikilink")（ストーリー上では離婚、夫婦ストーリー終了後に結婚）。
+      - [ブッカー・Tと](https://ja.wikipedia.org/wiki/ブッカー・ハフマン "wikilink")[シャーメルは本当の夫婦](https://ja.wikipedia.org/wiki/シャーメル・サリバン・ハフマン "wikilink")。
+      - [マット・ハーディー](https://ja.wikipedia.org/wiki/マット・ハーディー "wikilink")と[リタは以前本当にプライベートでも恋愛関係にあった](https://ja.wikipedia.org/wiki/エーミィ・ダーマス "wikilink")。
+      - [エッジと](https://ja.wikipedia.org/wiki/エッジ_\(プロレスラー\) "wikilink")[リタは以前本当にプライベートでも恋愛関係にあった](https://ja.wikipedia.org/wiki/エーミィ・ダーマス "wikilink")。ただし、当時エッジは別の女性と結婚したばかりであった。そのことを自己のHP上で批判したマット・ハーディーはWWEを解雇され、その解雇に反発したファンのブーイングは一時番組収録に支障をきたすほどであった。
+      - [エディ・ゲレロ](https://ja.wikipedia.org/wiki/エディ・ゲレロ "wikilink")と[ヴィッキー・ゲレロ](https://ja.wikipedia.org/wiki/ヴィッキー・ゲレロ "wikilink")は本当の夫婦だった。（その後に展開されたヴィッキーとエッジの結婚・離婚ストーリーは番組内だけのもの）
+      - [ビリー・キッドマン](https://ja.wikipedia.org/wiki/ビリー・キッドマン "wikilink")と[トリー・ウィルソン](https://ja.wikipedia.org/wiki/トリー・ウィルソン "wikilink")（注：番組内では恋愛ストーリーのみ展開。2006年に離婚）
+      - [ゴールダストと](https://ja.wikipedia.org/wiki/ヴァージル・ラネルズ3世 "wikilink")[テリー](https://ja.wikipedia.org/wiki/テリー・ボートライト "wikilink")（注：現在は離婚）
+      - [チャーリー・ハース](https://ja.wikipedia.org/wiki/チャーリー・ハース "wikilink")と[ミス・ジャッキー](https://ja.wikipedia.org/wiki/ジャッキー・ゲイダ "wikilink")（注：番組内では恋愛ストーリーのみ展開）
+      - [ダニエル・ブライアン](https://ja.wikipedia.org/wiki/ダニエル・ブライアン "wikilink")と[ブリー・ベラ](https://ja.wikipedia.org/wiki/ブリー・ベラ "wikilink")は本当の夫婦。
+      - [タイソン・キッド](https://ja.wikipedia.org/wiki/タイソン・キッド "wikilink")と[ナタリヤは本当の夫婦](https://ja.wikipedia.org/wiki/ナッティ・ナイドハート "wikilink")。
+      - [ザ・ミズ](https://ja.wikipedia.org/wiki/ザ・ミズ "wikilink")と[マリースは本当の夫婦](https://ja.wikipedia.org/wiki/マリース・ウエレ "wikilink")。
+      - [ルセフと](https://ja.wikipedia.org/wiki/ミロスラフ・バルニャシェフ "wikilink")[ラナは本当の夫婦](https://ja.wikipedia.org/wiki/キャサリン・ペリー "wikilink")。
+      - [マイク・ケネリスと](https://ja.wikipedia.org/wiki/マイケル・ベネット_\(プロレスラー\) "wikilink")[マリア・ケネリス](https://ja.wikipedia.org/wiki/マリア・ケネリス "wikilink")は本当の夫婦。
+  - ストーリー上は関係ないが、現実に恋愛関係、または婚姻関係の例
+      - [ドリュー・マッキンタイアと](https://ja.wikipedia.org/wiki/ドリュー・ギャロウェイ "wikilink")[ティファニーは本当の夫婦](https://ja.wikipedia.org/wiki/タリン・テレル "wikilink")（注：2011年5月に離婚）
+      - [ジ・アンダーテイカー](https://ja.wikipedia.org/wiki/ジ・アンダーテイカー "wikilink")と[ミシェル・マクール](https://ja.wikipedia.org/wiki/ミシェル・マクール "wikilink")は本当の夫婦。
+      - [ジミー・ウーソと](https://ja.wikipedia.org/wiki/ジョナサン・ファトゥ "wikilink")[ナオミは本当の夫婦](https://ja.wikipedia.org/wiki/ナオミ・ナイト "wikilink")。
+      - [コーディ・ローズ](https://ja.wikipedia.org/wiki/コーディ・ローズ "wikilink")と[エデンは本当の夫婦](https://ja.wikipedia.org/wiki/ブランディ・ラネルズ "wikilink")。
+
+## 脚注
+
+## 関連項目
+
+  - [RAW](https://ja.wikipedia.org/wiki/WWE・ロウ "wikilink")
+  - [SmackDown LIVE](https://ja.wikipedia.org/wiki/スマックダウン "wikilink")
+  - [WWE 205 Live](https://ja.wikipedia.org/wiki/WWE_205_Live "wikilink")
+  - [SUPERSTARS](https://ja.wikipedia.org/wiki/WWE・スーパースターズ "wikilink")
+  - [MAINEVENT](https://ja.wikipedia.org/wiki/WWE・メインイベント "wikilink")
+  - [NXT](https://ja.wikipedia.org/wiki/WWE・NXT "wikilink")
+  - [NXT](https://ja.wikipedia.org/wiki/WWE・NXT_\(TVシリーズ\) "wikilink")（テレビ番組）
+  - [NXT UK](https://ja.wikipedia.org/wiki/NXT_UK "wikilink")
+  - [UPW](https://ja.wikipedia.org/wiki/UPW_\(プロレス\) "wikilink")
+  - [OVW](https://ja.wikipedia.org/wiki/OVW "wikilink")
+  - [DSW](https://ja.wikipedia.org/wiki/DSW "wikilink")
+  - [FCW](https://ja.wikipedia.org/wiki/FCW_\(プロレス\) "wikilink")
+  - [ECW](https://ja.wikipedia.org/wiki/ECW "wikilink")
+  - [WCW](https://ja.wikipedia.org/wiki/WCW "wikilink")
+  - [WWE殿堂](https://ja.wikipedia.org/wiki/WWE殿堂 "wikilink")
+  - [WWE王座](https://ja.wikipedia.org/wiki/WWE王座_\(世界ヘビー級\) "wikilink")
+  - [世界ヘビー級王座](https://ja.wikipedia.org/wiki/世界ヘビー級王座_\(WWE\) "wikilink")
+  - [WWEユニバーサル王座](https://ja.wikipedia.org/wiki/WWEユニバーサル王座 "wikilink")
+  - [WWEインターコンチネンタル王座](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座 "wikilink")
+  - [WWE US王座](https://ja.wikipedia.org/wiki/WWE・ユナイテッドステイツ王座 "wikilink")
+  - [WWE UK王座](https://ja.wikipedia.org/wiki/WWE・ユナイテッドキングダム王座 "wikilink")
+  - [WWEヨーロピアン王座](https://ja.wikipedia.org/wiki/WWE・ヨーロピアン王座 "wikilink")
+  - [WWE世界タッグ王座](https://ja.wikipedia.org/wiki/WWE・世界タッグチーム王座 "wikilink")
+  - [WWEロウ・タッグ王座](https://ja.wikipedia.org/wiki/WWE・ロウ・タッグチーム王座 "wikilink")
+  - [WWEスマックダウン・タッグ王座](https://ja.wikipedia.org/wiki/WWE・スマックダウン・タッグチーム王座 "wikilink")
+  - [WWEクルーザー級王座](https://ja.wikipedia.org/wiki/WWE・クルーザー級王座_\(1991-2007\) "wikilink")（旧王座）
+  - [WWEクルーザー級王座](https://ja.wikipedia.org/wiki/WWE・クルーザー級王座 "wikilink")（新設版）
+  - [WWEディーヴァズ王座](https://ja.wikipedia.org/wiki/WWE・ディーヴァズ王座 "wikilink")
+  - [WWE女子王座](https://ja.wikipedia.org/wiki/WWE・女子王座 "wikilink")
+  - [WWEロウ女子王座](https://ja.wikipedia.org/wiki/WWE・ロウ女子王座 "wikilink")
+  - [WWEスマックダウン女子王座](https://ja.wikipedia.org/wiki/WWE・スマックダウン女子王座 "wikilink")
+  - [WWE女子タッグ王座](https://ja.wikipedia.org/wiki/WWE・女子タッグチーム王座 "wikilink")
+  - [WWEハードコア王座](https://ja.wikipedia.org/wiki/WWE・ハードコア王座 "wikilink")
+  - [WWE24/7王座](https://ja.wikipedia.org/wiki/WWE・24/7王座 "wikilink")
+  - [WWFインターナショナル・ヘビー級王座](https://ja.wikipedia.org/wiki/WWFインターナショナル・ヘビー級王座 "wikilink")
+  - [WWFインターナショナル・タッグ王座](https://ja.wikipedia.org/wiki/WWFインターナショナル・タッグ王座 "wikilink")
+  - [WWF北米ヘビー級王座](https://ja.wikipedia.org/wiki/WWF北米ヘビー級王座 "wikilink")
+  - [WWFジュニアヘビー級王座](https://ja.wikipedia.org/wiki/WWFジュニアヘビー級王座 "wikilink")
+  - [WWFライトヘビー級王座](https://ja.wikipedia.org/wiki/WWF・ライトヘビー級王座 "wikilink")
+  - [WWF世界女子タッグ王座](https://ja.wikipedia.org/wiki/WWF世界女子タッグ王座 "wikilink")
+  - [WWF世界マーシャルアーツ王座](https://ja.wikipedia.org/wiki/WWF世界マーシャルアーツ王座 "wikilink")
+  - [WWWF USタッグ王座](https://ja.wikipedia.org/wiki/WWWFユナイテッドステイツ・タッグチーム王座 "wikilink")
+  - [ECW王座](https://ja.wikipedia.org/wiki/ECW王座 "wikilink")
+  - [トリプルクラウン](https://ja.wikipedia.org/wiki/トリプルクラウン_\(WWE\) "wikilink")
+  - [グランドスラム](https://ja.wikipedia.org/wiki/グランドスラム_\(WWE\) "wikilink")
+  - [WWE\&WWWF王座一覧](https://ja.wikipedia.org/wiki/WWE&WWWF王座一覧 "wikilink")
+  - [ディーヴァ](https://ja.wikipedia.org/wiki/ディーヴァ_\(プロレス\) "wikilink")
+  - [WWEネットワーク](https://ja.wikipedia.org/wiki/WWEネットワーク "wikilink")
+  - [WWE Japan](https://ja.wikipedia.org/wiki/WWE_Japan "wikilink")
+
+## 外部リンク
+
+  - [WWE公式サイト](http://www.wwe.com/)（英語）
+  - [WWE公式サイト](http://www.wwe.co.jp/)（日本語）
+
+[Category:WWE](https://ja.wikipedia.org/wiki/Category:WWE "wikilink") [Category:NWA](https://ja.wikipedia.org/wiki/Category:NWA "wikilink") [Category:アメリカ合衆国のプロレス団体](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のプロレス団体 "wikilink") [Category:NYSE上場企業](https://ja.wikipedia.org/wiki/Category:NYSE上場企業 "wikilink") [Category:ニューヨーク州のスポーツ](https://ja.wikipedia.org/wiki/Category:ニューヨーク州のスポーツ "wikilink") [Category:アメリカ合衆国の娯楽産業](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の娯楽産業 "wikilink") [Category:スタンフォード_(コネチカット州)](https://ja.wikipedia.org/wiki/Category:スタンフォード_\(コネチカット州\) "wikilink")
+
+1.
+2.  [WWE](http://www.nyse.com/about/listed/lcddata.html?ticker=WWE)
+3.  [WWEユニバース倶楽部古田新太の発言](http://www.jsports.co.jp/wwe/universe/universe_03.html)
+4.
+5.
+6.  [WWE Japan: スマックダウンが米国で火曜生放送に移動](http://www.wwe.co.jp/article/2016/05/1205.html)
+7.
+8.
+9.
+10.
+11. [WWEが新ブランド戦略　トリプルHが新人開発部門トップに就任](http://english.oricon.co.jp/news/86457/full/) - oricon English 2011年4月26日
+12. <http://www.wwe.co.jp/article/2017/06/1395.html>
+13.
+14.
+15.
+16.
+17. [WWE「ロウ」、3時間バージョンJ SPORTSで放送決定！](http://www.wwe.co.jp/news/news_detail.php?nid=10418)
+18. [ロウ生中継、スマックダウン同日放送が決定！！PPVは2日ディレイに！](http://www.wwe.co.jp/article/2013/12/651.html)
+19. [J SPORTS:KENTA、WWE契約！KENTA出場に合わせNXT放送決定！](http://www.jsports.co.jp/wwe/)
+20. [「WWE」 2016年1月以降の放送について](http://www.jsports.co.jp/press_release/20151218.html)
+21. [J SPORTS:世界がシビレる世界最強のスポーツエンターテインメント「WWE」 番組ラインアップ拡大決定！さらにJ SPORTSオンデマンドでの配信も決定。PPVも視聴可能に！](https://www.jsports.co.jp/press_release/20181220.html)
+22. [WWE.com:WWE® AND J SPORTS EXTEND LONG-STANDING PARTNERSHIP IN JAPAN](https://corporate.wwe.com/news/company-news/2018/12-20-2018)
+23. [WWE.co.jp:DAZNで新番組配信のお知らせ](http://www.wwe.co.jp/article/2017/08/1425.html)
+24. [WWE.co.jp:映像配信サービスGYAO\!でWWEダイジェスト番組「エクスペリエンス」の無料配信が決定！](http://www.wwe.co.jp/article/2017/09/1458.html)
+25. [5年ぶりに来日したシナがNEXUSに完勝！ジェリコに挑んだヨシ・タツの凱旋試合は、20分越えの熱戦に！](http://battle-news.com/battle/2010/08/000180.php) - バトル・ニュース 2010年8月20日
+26. [ヨシ・タツの好アシストでシナがジェリコに勝利！ミステリオとボーンの一戦が日本のファンを魅了！」](http://battle-news.com/battle/2010/08/000181.php) - バトル・ニュース 2010年8月21日
+27. [パンクとシナが共に勝利し、WWE日本公演の初日は大盛況！ナッシュとビッグショーはド迫力のぶつかり合い](http://battle-news.com/battle/2011/11/000851.php) - バトル・ニュース 2011年11月30日
+28. [CMパンクが2日連続でデル・リオをGTS葬！シナのZubaz姿、FUNAKIのレフェリー、リーガル出場などサプライズ満載！」](http://battle-news.com/battle/2011/12/000853.php) - バトル・ニュース 2011年12月1日
+29. [NXT Live、12/3（土）日本初上陸決定\!](http://www.wwe.co.jp/article/2016/09/1266.html) - WWE Japan ニュースリリース 2016年9月5日
+30. [2017年WWE日本公演決定\!](http://www.wwe.co.jp/article/2017/02/1338.html) - WWE Japan ニュースリリース 2017年2月17日
+31. [WWE Live Osaka、9/16開催決定\!](http://www.wwe.co.jp/article/2017/06/1392.html) - WWE Japan ニュースリリース 2017年6月6日
+32. [『WWE Live Japan』6月29日＆30日、両国国技館で開催決定\!](https://www.sportingnews.com/jp/wwe/news/wwe-live-japan6%E6%9C%8829%E6%97%A530%E6%97%A5%E4%B8%A1%E5%9B%BD%E5%9B%BD%E6%8A%80%E9%A4%A8%E3%81%A7%E9%96%8B%E5%82%AC%E6%B1%BA%E5%AE%9A/1oliegyf491xv1rk8rqi3z18ez) - Sporting News 2018年3月1日
+33. [8月31日、WWE大阪公演『WWE Live Osaka』開催決定！ 噂のロンダ・ラウジーが来日へ\!](https://www.sportingnews.com/jp/wwe/news/8%E6%9C%8831%E6%97%A5wwe%E5%A4%A7%E9%98%AA%E5%85%AC%E6%BC%94wwe-live-osaka%E9%96%8B%E5%82%AC%E6%B1%BA%E5%AE%9A-%E5%99%82%E3%81%AE%E3%83%AD%E3%83%B3%E3%83%80%E3%83%A9%E3%82%A6%E3%82%B8%E3%83%BC%E3%81%8C%E6%9D%A5%E6%97%A5%E3%81%B8/13easyy03cqbz259y57rq0l8) - Sporting News 2018年5月18日
+34. [「WWE Live Tokyo」6/28＆29両国国技館で開催決定！](https://wwe.co.jp/news-20190308-vol1/) - WWE日本公式サイト 2019年3月8日
+35. [WWE Live Japan７月に横浜、大阪で開催決定！](https://wwe.co.jp/news-20200128-vol1/) WWE日本公式サイト 2020年1月28日
+36. [WWE pay-per-views just got bigger for 2018\!](http://www.wwe.com/article/wwe-2018-pay-per-view-schedule?sf182420287=1)
+37. [WWE.com:SmackDown Tag Team Champions The New Day vs. The Miz & John Morrison](https://www.wwe.com/article/the-new-day-vs-the-miz-john-morrison-super-showdown)
+38. [Ticketmaster.com](https://www1.ticketmaster.com/wwe-extreme-rules/event/1C0058349B6A286C)
+39. [WWE.com:Boston to host SummerSlam in 2020](https://www.wwe.com/shows/summerslam/article/boston-to-host-summerslam-2020)
+40. [WWE.com:WrestleMania returns to Los Angeles in 2021](https://www.wwe.com/article/wrestlemania-returns-to-los-angeles-in-2021)
+41. [2014 WWE PPVイベント視聴環境一覧（PDFファイル）](http://www.wwe.co.jp/files/pdf/2014WWE%20PPV%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E8%A6%96%E8%81%B4%E7%92%B0%E5%A2%83%E4%B8%80%E8%A6%A7.pdf)
+42. [SMACKVILLE to feature WWE Championship Triple Threat Match live on WWE Network tonight](https://www.wwe.com/article/smackville-wwe-network-special-event-july-27)

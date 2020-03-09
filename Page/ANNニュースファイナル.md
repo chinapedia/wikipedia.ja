@@ -1,0 +1,78 @@
+> この記事は[ANN](https://ja.wikipedia.org/wiki/ANN)から翻訳されています。
+
+
+『**ANNニュースファイナル**』は、[1975年](../Page/1975年.md "wikilink")[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")（旧：NETテレビ）を[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")として[ANNで放送された](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[深夜](https://ja.wikipedia.org/wiki/深夜 "wikilink")最終便の[ニュース番組である](https://ja.wikipedia.org/wiki/報道番組 "wikilink")。
+
+## 概要
+
+開始当初は10分間のストレートニュース番組であったが、1980年9月から1982年3月までは、『[ANNニュースレーダー](../Page/ANNニュースレーダー.md "wikilink")』から[小松錬平](https://ja.wikipedia.org/wiki/小松錬平 "wikilink")が異動し、『[ANNスポーツニュース](https://ja.wikipedia.org/wiki/ANNスポーツニュース "wikilink")』を統合した25分間の報道番組となった。スポーツコーナーは[宮嶋泰子](../Page/宮嶋泰子.md "wikilink")（当時は増山泰子）が担当。
+
+しかし、1982年4月に『スポーツニュース』を再分離して再びストレートニュース番組に戻り、下記のように様々なメインキャスターが登場した。
+
+1985年10月7日、ニュースとスポーツを内包した『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』の開始に伴い、月-金曜版は同年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")放送分をもって終了し、土日のみ残るも、『[ナイトライン](https://ja.wikipedia.org/wiki/ナイトライン_\(ANN\) "wikilink")』の開始に伴い、1987年9月27日に終了した。
+
+開始から1980年代初期までは、NETテレビ→テレビ朝日放送分のみローカルテロップで「協力 朝日」がタイトル登場後に添えられていた。テレビ朝日の報道部門が[NET朝日制作→テレビ朝日映像発注によって無くなっていた時代を示すロゴだった](https://ja.wikipedia.org/wiki/テレビ朝日映像 "wikilink")。
+
+提供クレジットは、ネットセールス枠とローカルセールス枠が混在していたため、ネット各局ごとに表示していた（ローカルスポンサーの扱いがあるため）。
+
+## 歴代のキャスター
+
+### 月-金曜
+
+  - 1975年10月 - 1980年9月：テレビ朝日アナウンサーによるシフト制。
+  - 1980年9月 - 1982年3月：[小松錬平](https://ja.wikipedia.org/wiki/小松錬平 "wikilink")（月 - 木曜日）、[増山泰子](../Page/宮嶋泰子.md "wikilink")（同スポーツ担当）、不明（金曜日）
+  - 1982年4月 - 1985年9月：テレビ朝日アナウンサー・記者によるシフト制
+
+### 土日
+
+  - テレビ朝日アナウンサーによるシフト制。
+
+### 出演キャスター
+
+  - [北村元](https://ja.wikipedia.org/wiki/北村元 "wikilink")、[高井正憲](../Page/高井正憲.md "wikilink")、[三浦智和](https://ja.wikipedia.org/wiki/三浦智和 "wikilink")、[棟方宏一](https://ja.wikipedia.org/wiki/棟方宏一 "wikilink")、[山形定房](https://ja.wikipedia.org/wiki/山形定房 "wikilink")、[横舘英雄](https://ja.wikipedia.org/wiki/横舘英雄 "wikilink")、[吉岡晋也](https://ja.wikipedia.org/wiki/吉岡晋也 "wikilink")、[山崎正](https://ja.wikipedia.org/wiki/山崎正 "wikilink")、[戸谷光照](https://ja.wikipedia.org/wiki/戸谷光照 "wikilink")、[渡辺宜嗣](../Page/渡辺宜嗣.md "wikilink")、[松苗慎一郎](../Page/松苗慎一郎.md "wikilink")、[吉澤一彦](../Page/吉澤一彦.md "wikilink")ほか
+
+## 放送時間
+
+| 期間                      | 月 - 木曜日                                    | 金曜日                | 土・日曜日 |
+| ----------------------- | ------------------------------------------ | ------------------ | ----- |
+| 1975年10月13日 - 1979年4月1日 | 23:00 - 23:10（10分）                         | 23:50 - 24:00（10分） |       |
+| 1979年4月2日 - 1980年9月28日  | 23:00 - 23:10（10分）                         |                    |       |
+| 1980年9月29日 - 1982年3月28日 | 23:00 - 23:25（25分）                         | 23:00 - 23:15（15分） |       |
+| 1982年3月29日 - 1982年4月4日  | 23:50 - 24:00（10分）                         | 23:00 - 23:10（10分） |       |
+| 1982年4月5日 - 1983年10月2日  | 23:00 - 23:15（15分）                         |                    |       |
+| 1983年10月3日 - 1985年10月6日 | 23:50 - 24:05（15分）                         |                    |       |
+| 1985年10月7日 - 1987年9月27日 | （[放送なし](../Page/ニュースステーション.md "wikilink")） |                    |       |
+
+**『ANNニュースファイナル』放送時間の変遷**
+
+## オープニング
+
+25分番組だった時、まずオープニングテーマソング（薄暗いスタジオで小松と増山<宮嶋>が談笑する）が終わった後、小松と増山（宮嶋）がその日の注目ニュースを数項目述べてから、「それでは[お知らせの後](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")、今日のニュースのまとめとスポーツコーナーをお送りします」と話し、画面右下に四角囲みで「ANN」のロゴ、そしてスタジオの側面にある「ニュースファイナル」のタイトルパネルを映していた。
+
+## ネット局
+
+  - [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")（旧：NETテレビ、1977年3月31日まで旧称）
+  - [北海道テレビ](https://ja.wikipedia.org/wiki/北海道テレビ放送 "wikilink")
+  - [東日本放送](../Page/東日本放送.md "wikilink")
+  - [福島放送](../Page/福島放送.md "wikilink")（1981年10月1日開局から）
+  - 新潟総合テレビ（現：[NST新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")、1981年4月1日から1983年9月30日まで）
+      -
+        FNN・NNN・ANNの[トリプルネット](https://ja.wikipedia.org/wiki/トリプルネット "wikilink")からFNN・ANNのクロスネットになったため、『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』から変更。
+  - [新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")（1983年10月1日開局から）
+  - 静岡けんみんテレビ（現：[静岡朝日テレビ](https://ja.wikipedia.org/wiki/静岡朝日テレビ "wikilink")。1979年7月1日から）
+      -
+        ANN・NNNのクロスネットからANNの単独ネットになったため、『NNNきょうの出来事』から変更。
+  - [名古屋テレビ](../Page/名古屋テレビ放送.md "wikilink")
+  - [朝日放送](https://ja.wikipedia.org/wiki/朝日放送テレビ "wikilink")（現：朝日放送テレビ）
+      -
+        ANNに加盟した1975年3月31日から9月（すなわちこの番組が発足する前）の最終版ニュースはNETテレビからのネット受けではなく、自社制作の『[ニュースファイル23](https://ja.wikipedia.org/wiki/ニュースファイル23 "wikilink")』として23:00から23:15に放送されていた。当時のANN最終版ニュース（NETテレビ発）は『[23時ショー](https://ja.wikipedia.org/wiki/23時ショー "wikilink")』明けの23:50から24:00に行われていた。
+  - [瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")（当初は香川県のみ、1979年4月からは岡山県にも相互乗り入れ開始）
+  - [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")
+  - [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")
+  - [鹿児島放送](https://ja.wikipedia.org/wiki/鹿児島放送 "wikilink")（1982年10月1日開局から）
+
+## 関連項目
+
+  - [ANN 夜のワイドニュース](https://ja.wikipedia.org/wiki/ANN_夜のワイドニュース "wikilink") - 1967年から1971年まで放送された、日本初の深夜のニュースワイド番組。
+
+[Category:ANN番組の歴史](https://ja.wikipedia.org/wiki/Category:ANN番組の歴史 "wikilink") [Category:テレビ朝日の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日の帯番組の歴史 "wikilink") [Category:テレビ朝日の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組の歴史 "wikilink") [Category:1975年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1975年のテレビ番組_\(日本\) "wikilink")

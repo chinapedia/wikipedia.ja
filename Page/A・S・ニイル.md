@@ -1,0 +1,26 @@
+> この記事は[AS](https://ja.wikipedia.org/wiki/AS)から翻訳されています。
+
+
+[right](https://ja.wikipedia.org/wiki/ファイル:Neill_birthday.jpg "wikilink") **アレクサンダー・サザーランド・ニイル**（**ニール**、Alexander Sutherland Neill、[1883年](../Page/1883年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink") - [1973年](../Page/1973年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[新教育運動](https://ja.wikipedia.org/wiki/新教育運動 "wikilink")の教育家。[エディンバラ大学](../Page/エディンバラ大学.md "wikilink")に学び、[1912年](../Page/1912年.md "wikilink")、修士号を取得。[1914年](../Page/1914年.md "wikilink")、[スコットランド](../Page/スコットランド.md "wikilink")のグレトナ・グリーンスクールの校長になる。
+
+[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[改革教育運動](https://ja.wikipedia.org/wiki/改革教育運動 "wikilink")の影響を強く受け、[1921年](../Page/1921年.md "wikilink") ドイツ [ドレスデン](../Page/ドレスデン.md "wikilink")郊外のヘレナウで新しい学校を創立。この学校はのちに彼の妻になるノイシュタッターと共に[オーストリア](../Page/オーストリア.md "wikilink")に移り、その後、[1923年](../Page/1923年.md "wikilink") 南[イングランド](../Page/イングランド.md "wikilink")のライム・レギスに移り、そこで本格的に教育活動が始まる。[サマーヒル・スクール](https://ja.wikipedia.org/wiki/サマーヒル・スクール "wikilink")という名でこの学校は、「世界で一番自由な学校」として知られている。ニイルの「子どもを学校に合わすのではなく、学校を子どもに合わせる」という言葉は有名。彼の著作集は邦訳がある。邦訳者の[堀真一郎](https://ja.wikipedia.org/wiki/堀真一郎 "wikilink")も、[大阪市立大学](https://ja.wikipedia.org/wiki/大阪市立大学 "wikilink")の教授のポストを捨てて、自ら、きのくに子どもの村小学校（現在・[きのくに子どもの村学園](https://ja.wikipedia.org/wiki/きのくに子どもの村学園 "wikilink")）を創立している。
+
+## 教育思想
+
+ニイルは、子供の幸福こそ、子供のしつけや養育の中で最も重要なものと見なされるべきであり、この幸福への最も主要な寄与は、子供にその個人的な自由を最大限認めてやることだと考えていた。これは、当時としてはかなり議論の余地のあるところで、彼の見解はあまりにラディカルで、包括的過ぎるとして一般にはほとんど賛同を得られるものではなかった。
+
+彼は、児童期のおけるこうした自由の感覚を奪い取ったり、抑圧された子供の徹底した不幸せ感が、すべてとまではいわないものの、成人の大多数の心理的な不調の原因とになっていると考えた。
+
+ニイルは、そこで[サマーヒル・スクール](https://ja.wikipedia.org/wiki/サマーヒル・スクール "wikilink")には、子供が授業に出るように一切強要することをしない、という原則を設けた。加えて、この学校は民主的で、すべてのものごとは生徒、教師の全員参加の会議で決められ、生徒も教師と同様の一票の権利を与えられている。
+
+多くの人は、この学校がこれまで成功してきたことは、子供に試練や厳しい生き残りのチャンス、残忍さ、暴政、そして混乱を経験するための処方として自由を与えると言う[ウィリアム・ゴールディング](https://ja.wikipedia.org/wiki/ウィリアム・ゴールディング "wikilink")の『[蝿の王](https://ja.wikipedia.org/wiki/蝿の王 "wikilink")』のやり方を断固として排除してきたからだ、と考えている。
+
+ニイルの信念を持った彼のサマーヒルでの経験が教えてくれるのは、個人の自由から生まれる自己への信頼は、学業成績の遅れや自己中心性、わがままを齎すというどころか、学習への動機付けや授業への出席率が、多くの場合、権威的な教育の場合の子供達の場合と悪くても同じくらいの高さになったということである。サマーヒルの生徒たちのほかの生徒や大人たちへの態度は、現実にはかなり大人びていて、個人個人の責任をよく自覚しているように見受けられる。彼らの権威に対する態度は、素朴に度外視しているというほどではないが、敬意を表しているというよりは、やや懐疑的である。 こうした傾向は、たぶんサマーヒルが受け容れている子供たちが、しばしば問題をはらんだ背景をもった子供達が多いということも考慮に入れなくてはならないだろう。たとえば、両親の不仲とか、ネグレクトとか、それがもとで心の中に殺伐としたものを抱えていたりするといった事情である。
+
+彼は、多くの知識人、思想家などと交友を結び、その中には[ヘンリー・ミラー](https://ja.wikipedia.org/wiki/ヘンリー・ミラー "wikilink")や[ヴィルヘルム・ライヒ](https://ja.wikipedia.org/wiki/ヴィルヘルム・ライヒ "wikilink")、彼の学校をまねて自らもミニスクールを創立した[バートランド・ラッセル](../Page/バートランド・ラッセル.md "wikilink")も含まれる。
+
+## 外部リンク
+
+  - [Summerhill School](http://www.summerhillschool.co.uk/indexgo.html)
+
+[Category:イギリスの教育学者](https://ja.wikipedia.org/wiki/Category:イギリスの教育学者 "wikilink") [Category:イギリスの心理学者](https://ja.wikipedia.org/wiki/Category:イギリスの心理学者 "wikilink") [Category:教育史](https://ja.wikipedia.org/wiki/Category:教育史 "wikilink") [Category:スコットランドの学者](https://ja.wikipedia.org/wiki/Category:スコットランドの学者 "wikilink") [Category:アンガス出身の人物](https://ja.wikipedia.org/wiki/Category:アンガス出身の人物 "wikilink") [Category:1883年生](https://ja.wikipedia.org/wiki/Category:1883年生 "wikilink") [Category:1973年没](https://ja.wikipedia.org/wiki/Category:1973年没 "wikilink")

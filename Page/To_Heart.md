@@ -1,0 +1,1059 @@
+> この記事は[To Heart](https://ja.wikipedia.org/wiki/To_Heart)から翻訳されています。
+
+
+|- | colspan="2" style="padding: 0;"|
+
+<table>
+<thead>
+<tr class="header">
+<th><p><strong>アニメ</strong> {{Infobox animanga/TVAnime</p></th>
+<th><p>タイトル= ToHeart</p></th>
+<th><p>原作= <a href="https://ja.wikipedia.org/wiki/アクアプラス" title="wikilink">AQUAPLUS</a></p></th>
+<th><p>監督= <a href="https://ja.wikipedia.org/wiki/高橋ナオヒト" title="wikilink">高橋ナオヒト</a></p></th>
+<th><p>シリーズ構成= <a href="https://ja.wikipedia.org/wiki/山口宏_(脚本家)" title="wikilink">山口宏</a></p></th>
+<th><p>キャラクターデザイン= <a href="https://ja.wikipedia.org/wiki/千羽由利子" title="wikilink">千羽由利子</a></p></th>
+<th><p>アニメーション制作= <a href="https://ja.wikipedia.org/wiki/オー・エル・エム" title="wikilink">オー・エル・エム</a></p></th>
+<th><p>製作= <a href="https://ja.wikipedia.org/wiki/ケイエスエス" title="wikilink">ケイエスエス</a></p></th>
+<th><p>#放送局（第1期）]]を参照</p></th>
+<th><p>1999年]]<a href="https://ja.wikipedia.org/wiki/4月" title="wikilink">4月</a></p></th>
+<th><p>6月]]</p></th>
+<th><p>話数=全13話 }} {{Infobox animanga/TVAnime</p></th>
+<th><p>タイトル=ToHeart<br />
+Remember my memories</p></th>
+<th><p>原作= AQUAPLUS</p></th>
+<th><p>監督= <a href="https://ja.wikipedia.org/wiki/元永慶太郎" title="wikilink">元永慶太郎</a></p></th>
+<th><p>脚本= <a href="https://ja.wikipedia.org/wiki/叶希一" title="wikilink">叶希一</a></p></th>
+<th><p>キャラクターデザイン= <a href="https://ja.wikipedia.org/wiki/平山まどか" title="wikilink">平山まどか</a></p></th>
+<th><p>アニメーション制作= <a href="https://ja.wikipedia.org/wiki/オー・エル・エム" title="wikilink">OLM</a>、<a href="https://ja.wikipedia.org/wiki/アニメインターナショナルカンパニー" title="wikilink">AIC A.S.T.A.</a></p></th>
+<th><p>製作= THR Works</p></th>
+<th><p>放送局= <a href="https://ja.wikipedia.org/wiki/#放送局（第2期）" title="wikilink">#放送局（第2期）</a>を参照</p></th>
+<th><p>放送開始= <a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="https://ja.wikipedia.org/wiki/10月" title="wikilink">10月</a></p></th>
+<th><p>放送終了= <a href="https://ja.wikipedia.org/wiki/12月" title="wikilink">12月</a></p></th>
+<th><p>話数= 全13話 }}</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+『**To Heart**』（トゥ・ハート）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[Leaf](https://ja.wikipedia.org/wiki/Leaf "wikilink")から発売された[学園](https://ja.wikipedia.org/wiki/学校 "wikilink")[ラブコメ](https://ja.wikipedia.org/wiki/ラブコメディ "wikilink")[ビジュアルノベル](https://ja.wikipedia.org/wiki/ビジュアルノベル "wikilink")。
+
+## 概要
+
+本作は、[サウンドノベル](https://ja.wikipedia.org/wiki/サウンドノベル "wikilink")の手法を取り入れた「[ビジュアルノベル](https://ja.wikipedia.org/wiki/ビジュアルノベル "wikilink")」の『[雫](https://ja.wikipedia.org/wiki/雫_\(アダルトゲーム\) "wikilink")』『[痕](https://ja.wikipedia.org/wiki/痕 "wikilink")』により、マニアックな支持を集めていた[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド「[Leaf](https://ja.wikipedia.org/wiki/Leaf "wikilink")」によるシリーズ第3弾である。シナリオライターの[高橋龍也](https://ja.wikipedia.org/wiki/高橋龍也 "wikilink")によれば、本作は当時に閉塞感のあったLeafの売り上げに貢献するよう企画されたものとのことで、マニアックな色彩の強い前2作と比較して、より広い客層にアピールする作品となっている。
+
+『雫』『痕』が、サウンドノベルの元祖である『[弟切草](https://ja.wikipedia.org/wiki/弟切草_\(ゲーム\) "wikilink")』から連なる流れを色濃く反映した、グロテスクな描写を用いたサスペンス調の作風であるのに対し、本作は[ライトノベル](../Page/ライトノベル.md "wikilink")の雰囲気を取り込み、より大きなマーケットへの訴求を図った。この狙いが的中し、売り上げも増大する。PS版は10万本以上を売り上げ、普段このようなジャンルのプレイ経験を持たない当時の若年層ユーザーを大きく取り込んだパイオニアでもある。そのため、当時に若年層ユーザーだった者たちへの知名度は非常に高い。
+
+原典であるPC版のタイトルは『To Heart』だが、PS版以降の移植作品では、間のスペースがない『ToHeart』をタイトルとしている。これは当時のPSがアダルトゲームからの移植を建前上禁止していたため、わずかにタイトルを変えることで別作品として扱ったものである。本作から2年後の世界を舞台にした続編『[ToHeart2](https://ja.wikipedia.org/wiki/ToHeart2 "wikilink")』では、全年齢向け版、成人向けの移植版ともにスペースのない表記を採用している。
+
+## 内容
+
+青春恋愛群像として春休みをはさみ、主人公とその幼馴染みの学園生活を中心にして女子高校生達との触れあいが描かれている。
+
+## 歴史
+
+**1997年**
+
+  - [5月23日](../Page/5月23日.md "wikilink") - [PC版発売](../Page/パーソナルコンピュータ.md "wikilink")
+
+**1998年**
+
+  - [4月11日](../Page/4月11日.md "wikilink") - ラジオ番組『To Heart』放送開始（〜[10月3日](../Page/10月3日.md "wikilink")）
+
+**1999年**
+
+  - [3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - [PlayStation版発売](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")
+  - [4月1日](../Page/4月1日.md "wikilink") - テレビアニメ放送開始（〜[6月24日](../Page/6月24日.md "wikilink")）
+  - 10月 - [豊嶋真千子Earthly Paradiseにてラジオドラマ](https://ja.wikipedia.org/wiki/豊嶋真千子・岩田光央_アスパラFUN!! "wikilink")『Piece Of Heart』放送
+  - [10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink") - [ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")『Piece Of Heart』発売（[2000年](../Page/2000年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")再発）
+
+**2003年**
+
+  - [6月19日](../Page/6月19日.md "wikilink") - PC版のリニューアルパッケージが発売
+  - [6月27日](../Page/6月27日.md "wikilink") - 『To Heart PSE』発売
+
+**2004年**
+
+  - [10月2日](../Page/10月2日.md "wikilink") - テレビアニメ『**To Heart 〜Remember my Memories〜**』放送開始
+  - [12月28日](../Page/12月28日.md "wikilink") - この日発売の『ToHeart & ToHeart2 限定デラックスパック』に、本作の[PlayStation 2版が同梱](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")
+
+**2009年**
+
+  - [7月30日](../Page/7月30日.md "wikilink") - この日発売の『ToHeart2 PORTABLE Wパック』およびその限定版に、本作の[PlayStation Portable版が同梱](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")
+
+**2011年**
+
+  - [10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink") - 『ToHeart2 PORTABLE Wパック』で同梱されていた、本作のPlayStation Portable版が『AQUAPRICE2800』(廉価版)として単独発売
+
+## ゲーム作品
+
+  - To Heart（[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 95/98）
+    1997年5月23日発売。[ソフ倫レーティング](https://ja.wikipedia.org/wiki/コンピュータソフトウェア倫理機構 "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")。
+    LEAF VISUAL NOVEL SERIES Vol.3。
+      - To Heart（リニューアルパッケージ）(Windows 98/Me/2000/XP)
+        2003年[6月19日](../Page/6月19日.md "wikilink")発売。ソフ倫レーティング18禁。
+        Windows Me/2000/XPに正式対応し、価格を値下げしたもの。内容は95/98対応版と同一。
+  - ToHeart（PlayStation）
+    1999年3月25日発売。全年齢。
+    Windows版と比較して以下の点が変更されている。
+      - アダルトシーンの削除、それに伴い対象年齢を全年齢化。
+      - 全ヒロインのシナリオの修正および追加（修正度合いはヒロインによって様々で、数シーン追加されただけの者もいればほぼ全編に手を加えられた者もいる）。
+      - Windows版ではサブキャラだった「来栖川綾香」のシナリオを新規追加。
+      - 主人公以外フルボイス化。
+      - オープニング・エンディングの楽曲・ムービー変更（オープニングムービーはTVアニメ版の物を使用）。
+      - キャラクターの立ち絵の新規描画。
+      - Windows版に登場した曲は全曲アレンジ。新曲も追加。
+      - 放課後の行動選択時に、専用の画面を表示してどこに誰がいるのか分かるようになった。
+      - ミニゲームの追加（詳細は後述）。
+    など。
+      -
+        CD-ROM2枚組で発売されたが、DISC1とDISC2の違いは「オープニングムービーの有無（DISC1のみに有）」と「キャラクターボイスの入っている期間の違い（DISC1ではゲーム中の期間で最初から4月21日まで、DISC2では4月22日以降）」となっており、シナリオ自体は両方とも最初から最後まで収録しているため、キャラクターボイスなしでなら1枚のディスクでもプレイできる。また、あるヒロインはシナリオが4月21日で終了するため、DISC1のみで終始フルボイスでエンディングを見ることが可能。
+  - ToHeart PSE（Windows 98/Me/2000/XP）
+    2003年6月27日発売。全年齢。
+    PS版を逆移植。以下の点が変更されている。
+      - ハードの変更による画像・音声のクオリティの上昇。
+      - 一部のセリフの変更。
+      - ミニゲームがプレイできるタイミングの変更（後述）。
+      - 放課後の行動選択時のデフォルメされたキャラグラフィックが変更されている。
+      - PS版でアレンジされて収録されていた楽曲が、18禁版と同様に戻った。また、ミニゲーム「○△□×」の楽曲がアレンジされた。その他の楽曲はPS版と同様。
+      - 文章のフォントの変更。
+    など。
+    「PSE」は「PS EDITION」の略。
+    パッケージは新規描きおろしで神岸あかりと長岡志保が描かれているが、当時[水無月徹](https://ja.wikipedia.org/wiki/水無月徹 "wikilink")がすでにAQUAPLUSを退職していたため、あかりの絵も[河田優が描いている](https://ja.wikipedia.org/wiki/カワタヒサシ "wikilink")。
+      - ToHeart PSE 初回限定版
+        2003年6月27日発売。全年齢。
+        1万本限定生産。豪華ボックス付きパッケージ、シリアルナンバー付き[テレホンカード](../Page/テレホンカード.md "wikilink")、キャラクターミニスタンドポップが付属。
+  - ToHeart（PlayStation 2）
+    「ToHeart\&ToHeart2 限定デラックスパック」に同梱。
+    2004年12月28日発売。[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")15歳以上対象。（「〜限定デラックスパック」のデータ）。
+    「ToHeart」はCEROレーティング12歳以上対象。
+    基本的にはPSEの移植となっており、グラフィックや音楽などもそれに準じる。以下の点が変更されている。
+      - CEROの審査を受けた結果、12歳以上対象となる。
+      - ミニゲームのプレイできるタイミングがPS版と同様に戻る。
+      - 文章のフォントの変更。「ToHeart2」と同様になった。
+      - 志保シナリオ中でPS・PSEでは「それぞれの未来へ」のギターバージョンが流れる部分で、「それぞれの未来へ」の志保エンディングバージョンが流れる（スタッフロールにはギターバージョンのスタッフが記述されている）。
+    単品では発売されていない。
+      -
+  - ToHeart PORTABLE（PlayStation Portable）
+    「ToHeart2 PORTABLE Wパック」および「〜Wパック限定版」に同梱。
+    2009年7月30日発売。[CEROC](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")。
+    以下の点が変更されている。
+      - PSPの画面サイズ｢16:9｣に対応。｢4:3｣に変更も可。
+      - 4月29日が[みどりの日](https://ja.wikipedia.org/wiki/みどりの日 "wikilink")から[昭和の日](https://ja.wikipedia.org/wiki/昭和の日 "wikilink")に変更されている。
+    <!-- end list -->
+      -
+  - ToHeart PORTABLE AQUAPRICE2800（PlayStation Portable）
+    2011年10月27日発売。[CEROB](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")。
+    廉価版パッケージ「AQUAPRICE2800」として発売。2013年5月30日よりPlayStation Storeでのダウンロード販売が開始された。
+    「ToHeart2 PORTABLE Wパック」および「〜Wパック限定版」に同梱の「ToHeart PORTABLE」の単独販売版。
+
+## 登場キャラクター
+
+[声はPS](../Page/声優.md "wikilink")、PSE、PS2、PSP版、TVアニメ、ドラマCDのもの。PC版は声なし。
+
+主人公の呼び方について、初期状態の場合は【】内の呼び方となり、それ以外の場合はプレイヤーがつけた名前に対して「」内の法則が適用される。
+
+### メインキャラクター
+
+  - 藤田 浩之（ふじた ひろゆき）
+    声：[一条和矢](https://ja.wikipedia.org/wiki/一条和矢 "wikilink")（アニメ・CDドラマのみ）
+    [主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")。ゲームでは初期状態はこの名前だが、プレイヤーが好きな名前を付けることができる。また、PS、PSE、PS2、PSP版では名前をこのままにしておくと、他のキャラが名前と[あだ名](https://ja.wikipedia.org/wiki/あだ名 "wikilink")まで音声付で呼んでくれる。ゲーム中の選択肢の選び方によって多少変化するものの、どのような相手でも分け隔てなく対応し、嫌味を感じさせない“いい奴”であり、付き合いも広い。神岸あかり・佐藤雅史とは幼馴染で、長岡志保も中学からの付き合いであり、4人で行動することが多い。普段は何事にも無関心だが、気になる人間はどうにも放っておけない。特に迷子に関しては特別な思い入れがある。休み時間にカフェオレを買って飲むのが毎日の習慣。[Leafアミューズメントソフト](https://ja.wikipedia.org/wiki/Leafアミューズメントソフト "wikilink")「初音のないしょ\!\!」収録のゲーム「LEAF FIGHT 97」にてビジュアルが設定され、ゲーム中の描写を反映してやや目つきの悪い顔立ちとなっている。
+    本人が思っているよりずっと優秀な人物であり、幼馴染のあかりや雅史には「本気を出したら絶対に敵わない」と評価されており、ごく短期間の練習でもそれなりのボクシング技術を身に付けたりと、その才能を発揮するシーンも存在している。
+  - 神岸 あかり（かみぎし あかり）
+    声：[川澄綾子](https://ja.wikipedia.org/wiki/川澄綾子 "wikilink")
+    誕生日：[2月20日](../Page/2月20日.md "wikilink")、血液型：O型、星座：うお座、身長：157cm、年齢：16歳、3サイズ：79/59/84、主人公の呼び方：「\[名前\]ちゃん」【浩之ちゃん】、テーマ曲：「あなたの横顔」
+    ゲームのメイン[ヒロイン](https://ja.wikipedia.org/wiki/ヒロイン "wikilink")。主人公の[幼なじみであり同級生](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")。主人公のことを「ちゃん」付けで呼び、好意を寄せているが主人公は気づかないようにしている。毎日一緒に登校するのが恒例。大人しい性格だが面倒見がよく、誰からも好かれており異性からの人気も密かに高い。初めは三つ編みだが、展開によりショートヘアになる。無類の[熊好きで](https://ja.wikipedia.org/wiki/クマ "wikilink")、彼女の部屋には熊のグッズが並べられている。料理が得意。
+  - 長岡 志保（ながおか しほ）
+    声：[樋口智恵子](https://ja.wikipedia.org/wiki/樋口智恵子 "wikilink")
+    誕生日：[11月7日](../Page/11月7日.md "wikilink")、血液型：B型、星座：さそり座、身長：160cm、年齢：16歳、3サイズ：86/56/85、主人公の呼び方：「\[あだ名\]」【ヒロ】、テーマ曲：「マイ・フレンド」
+    主人公の同級生で中学からの悪友。主人公の幼なじみ・あかりとは大の仲良し。勉強が嫌いで補習常連だが、ゲームとカラオケはやたら上手い。流行に敏感であちこちに「志保ちゃん情報」という話を広めて回るが、内容はあくまで噂話に過ぎないものであることが多く、しばしば周囲のひんしゅくを買っている。そのため、「校内の歩くワイドショー」という通り名までついている。快活で天真爛漫な彼女だが、実は大の親友思い。主人公とはお互い男女を越えた付き合いで、全キャラの中で唯一主人公をあだ名で呼ぶ。作品内の投稿ラジオ番組『Heart to Heart』のリスナーであり、ラジオネームは「いちごミルク」。PS版への移植に当たり、大きくシナリオが変更されたキャラクターの一人。
+  - マルチ
+    声：[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")
+    [\#メイドロボ](https://ja.wikipedia.org/wiki/#メイドロボ "wikilink")参照
+  - 保科 智子（ほしな ともこ）
+    声：[久川綾](https://ja.wikipedia.org/wiki/久川綾 "wikilink")
+    誕生日：[9月10日](../Page/9月10日.md "wikilink")、血液型：A型、星座：おとめ座、身長：161cm、年齢：16歳、3サイズ：88/57/85、主人公の呼び方：「\[名字\]くん」【藤田くん】、テーマ曲：「彼女の憂鬱」
+    主人公の同級生で[神戸市](https://ja.wikipedia.org/wiki/神戸市 "wikilink")出身。両親が離婚し、母親とともに[関東に引っ越してきた](https://ja.wikipedia.org/wiki/関東地方 "wikilink")。[関西弁](https://ja.wikipedia.org/wiki/近畿方言 "wikilink")<ref group="注">「[初音のないしょ\!\!](https://ja.wikipedia.org/wiki/初音のないしょ!! "wikilink")」収録のスタッフコメントによれば、彼女の口調を再現するにあたってシナリオ担当の高橋龍也（[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[七尾市](https://ja.wikipedia.org/wiki/七尾市 "wikilink")出身）は神戸出身のスタッフ（音楽担当の石川真也）に実際の口調を細かく教わったとのこと。
+
+</ref>を話し、[眼鏡](https://ja.wikipedia.org/wiki/眼鏡 "wikilink")をかけ、髪をかなり緩めの三つ編みにしている。成績優秀で教師からの信頼も厚いが、周りからは浮いた存在となっていたために[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")の対象となってしまう。誰にも相談できずに思い悩んでいたが、何かにつけて話しかけてくる主人公が気になっていく。プライベートでは眼鏡を外し、三つ編みも解いている。堅いイメージがあるがファッションのセンスはよく、私服での印象は普段とかなり変わる。ゲーム中1・2を争う巨乳。そのため肩凝りが悩みの種。通称委員長（または「いいんちょ」）。「Remember〜」では、唯一、あかりとマルチ以外でアイキャッチに登場している。また両作のアニメとも彼女が心を閉ざした理由を話す場面がある。
+
+  - 来栖川 芹香（くるすがわ せりか）
+    声：[岩男潤子](https://ja.wikipedia.org/wiki/岩男潤子 "wikilink")
+    誕生日：[12月20日](../Page/12月20日.md "wikilink")、血液型：O型、星座：いて座、身長：159cm、年齢：17歳、3サイズ：84/54/87、主人公の呼び方：「\[名前\]さん」【浩之さん】、テーマ曲：「お嬢様はエレガント」
+    主人公と同じ学校に通う1年先輩の17歳。「マッチ一本からロケット開発まで」または「ゆりかごから墓場まで」と言われる、来栖川グループのお嬢様。妹に来栖川綾香がいる。妹と違い、小さいころは、まるで[皇族](https://ja.wikipedia.org/wiki/皇族 "wikilink")のような生活を送っており、常に一人ぼっちだったため、控えめな性格でぼーっとしていて、なにを考えているかわからないが、好きになった相手には控えめながらしっかりと自分の想いを伝える。またスキンシップ（頭をなでる）も大変多く、大胆なアプローチをとることが多い。
+    彼女のセリフはそのほとんどが「……」で、それを主人公が「え？○○だって？」と聞き返し、それに頷くという形で表現される。そのため無口なキャラと認識されることもあるが実際には声が小さいだけでうち解けた相手には饒舌、主人公が復唱したものも全てカウントした場合シナリオ中で発するワード数は他のヒロインに勝るとも劣らない。
+    子供の頃に、書斎で見つけた本から興味を抱いた[黒魔術](https://ja.wikipedia.org/wiki/黒魔術 "wikilink")が趣味。昼休みには中庭で昼食を済ませた後日向ぼっこをするのが習慣。主人公とは偶然ぶつかったことから交流が始まる。「Remember〜」では来栖大学の1年生となり、出番は少なめ。
+  - 宮内 レミィ（みやうち レミィ）
+    声：[笠原留美](https://ja.wikipedia.org/wiki/笠原留美 "wikilink")
+    誕生日：[12月21日](../Page/12月21日.md "wikilink")、血液型：A型、星座：いて座、身長：174cm、年齢：16歳、3サイズ：92/59/86、主人公の呼び方：「\[名前の読み（ひらがなはカタカナに変更される）\]」【ヒロユキ】、テーマ曲：「Smiling」
+    主人公の同級生で金髪碧眼の日米ハーフ娘。高校生とは思えないほど発育しているスタイルを持つ。フルネームはレミィ・クリストファー・ヘレン・宮内 (Lemmy Christopher Helen Miyauchi) 。実は幼い頃主人公と出会っていたが、当時はいじめを防ぐ意味で髪の毛を黒く染めていたため、そのことに主人公は気づいていなかった。[ファミレス](https://ja.wikipedia.org/wiki/ファミリーレストラン "wikilink")「ブルースカイ」でバイトしている。本人曰く「日本の文化のケンキュー」として高校では[弓道](https://ja.wikipedia.org/wiki/弓道 "wikilink")部に所属する。ただし猟が得意だったために、動く的は百発百中だが止まっている弓道用の的には全く当てられないという妙な特性があり、成績は芳しくない。PC版では、時々日本では狩りが出来ないことによる[ストレスから禁断症状が出て](https://ja.wikipedia.org/wiki/ストレス_\(生体\) "wikilink")、校庭の[スズメ](https://ja.wikipedia.org/wiki/スズメ "wikilink")や主人公に弓を向けることがある。ペットとして[ハムスター](https://ja.wikipedia.org/wiki/ハムスター "wikilink")の「ジョニー」や、犬の「ジュリー」を飼っている。主人公曰く、「自分を呼び捨てにする女性は母とレミィのみ、『女の子』ならレミィ一人だけ」（ただし、この発言の後に登場する来栖川綾香も主人公を呼び捨てにするので、主人公を呼び捨てにする女の子は2人になる）。PS版製作当初、野性的なキャラクターにリニューアルする案もあったが、アニメ版一期との兼ね合いなどの理由で現状のままになったという経緯がある。PS版への移植に当たり、大きくシナリオが変更されたキャラクターの一人。
+  - 松原 葵（まつばら あおい）
+    声：[飯塚雅弓](https://ja.wikipedia.org/wiki/飯塚雅弓 "wikilink")
+    誕生日：[1月19日](../Page/1月19日.md "wikilink")、血液型：A型、星座：やぎ座、身長：153cm、年齢：15歳、3サイズ：72/57/79、主人公の呼び方：「\[名字\]先輩」【藤田先輩】、テーマ曲：「晴れのちVサイン」
+    主人公の1年後輩で、[格闘技](https://ja.wikipedia.org/wiki/格闘技 "wikilink")が得意なスポーツ少女。真面目で正直な性格。しかし、周囲の「普通の女の子」と違う自分に不安も感じている。[空手](https://ja.wikipedia.org/wiki/空手 "wikilink")に打ち込んでいたが、来栖川綾香と出会い惹かれ、彼女が始めた異種格闘技「エクストリーム」の大会を目指すようになる。体格はさほど優れているわけではないが、実力はかなりのもの。また、綾香は自身を追い抜くだけの秘めた力を持っていると認めている。しかし大舞台になると緊張して実力を出せなくなると言う弱点を抱えていた。学園で同好会を設立しようとしていた時主人公とたまたま出会い、興味本位でエクストリームを始めた主人公と共に設立を目指すことになる。PC版では練習時は上が制服で下が[ブルマー](https://ja.wikipedia.org/wiki/ブルマー "wikilink")という格好だったが、PS版やアニメ版では上も体操着に変更されている。アニメ版の「Remember〜」では、エクストリームの大会にて激闘の末、ついに綾香に勝利した。
+    「Remember〜」での会話から、一度綾香と試合をして負けている模様。また、7話の描写でゲームセンターのパンチングマシーンにて218kgを記録している。
+  - 姫川 琴音（ひめかわ ことね）
+    声：[氷上恭子](https://ja.wikipedia.org/wiki/氷上恭子 "wikilink")
+    誕生日：[10月9日](../Page/10月9日.md "wikilink")、血液型：B型、星座：てんびん座、身長：156cm、年齢：15歳、3サイズ：77/54/78、主人公の呼び方：「\[名字\]さん」【藤田さん】、テーマ曲：「言えないチカラ」
+    主人公の1年後輩で北海道の函館出身。中学時代から少しずつ能力に目覚め、高校では入学早々から不思議な力を持っていると噂されるミステリアスな[超能力](https://ja.wikipedia.org/wiki/超能力 "wikilink")少女。超能力を自分の意志でコントロールすることができず、その力が原因で周りからも気味悪がられている。口数も少なく、他人には滅多に心を開こうとしないが、それは自分の力のせいで周りの人を傷つけないようにするための手段であり、元々は動物好きの心優しい少女だった。なんとか力になろうとする主人公に、徐々に惹かれ始める。のちにある程度自身の意志で使いこなせるようになった。大人しい性格だが、頑固なところもある。好物はじゃがバター。動物の中では特にイルカが好きである。PC版では「念動力」、アニメでは「予知能力」の超能力を持つ。作品内の投稿ラジオ番組『Heart to Heart』のリスナーであり、ラジオネームは「ねこっちゃ」。PS版への移植に当たり、大きくシナリオが変更されたキャラクターの一人。登場人物の中で唯一作品によって設定が異なり、アニメ版第一期では７話に初登場。浩之ではなく雅史に恋しており、雅史の試合で雅史の不幸を予知し、助けることができた。「Remember〜」ではエクストリーム同好会のマネージャーとなって葵を支えている。7話では浩之に告白するも失恋する。
+  - 雛山 理緒（ひなやま りお）
+    声：[大谷育江](https://ja.wikipedia.org/wiki/大谷育江 "wikilink")
+    誕生日：[6月3日](../Page/6月3日.md "wikilink")（PS版は[11月24日](../Page/11月24日.md "wikilink")）、血液型：B型、星座：いて座、身長：155cm、年齢：16歳、3サイズ：70/54/76、主人公の呼び方：「\[名字\]くん」【藤田くん】、テーマ曲：「エール\!」（PC版では固有のテーマ曲がなく、登場シーンでは「なんて愉快\!」が使われていた）
+    神岸あかりのシナリオクリア後にゲームに登場するキャラクター。主人公の同級生。2本の[触角と](https://ja.wikipedia.org/wiki/アホ毛 "wikilink")2つに縛った後ろ髪が特徴。1年生の頃から想っていた主人公に突然告白するなど突飛な行動をとる。家庭事情により様々なアルバイト活動に日夜励んでいる。マルチと同じくドジキャラ。作品内の投稿ラジオ番組『Heart to Heart』のリスナーであり、ラジオネームは「ラッコガール」。PC版では隠しヒロインという位置づけもあって、シナリオ量が極めて少なかったが、PS版以降ではシナリオの大幅な変更により、シナリオ量もそれなりになった。
+  - 来栖川 綾香（くるすがわ あやか）
+    声：岩男潤子
+    誕生日：[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")、血液型：O型、星座：みずがめ座、身長：161cm、年齢：16歳、3サイズ：88/56/85、主人公の呼び方：「\[名前\]」【浩之】、テーマ曲：「サザンウィンド」（PC版では固有のテーマ曲がなく、登場シーンでは「なんて愉快\!」が使われていた）
+    主人公と同学年。西音寺女学園に通う、来栖川芹香の妹。風貌はよく似ているものの、芹香とは違い性格は至って活発で、格闘技全般が得意。成績も優秀で、なおかつそのことを鼻にかけないという何から何まで完璧な人物。一見正反対に見える姉妹だが本人達は物事や男性の好み等は一緒であるとし、大変仲が良く、常に互いを思いやっている。
+    エクストリームの全日本女子チャンピオンでもある。PC版では葵・芹香シナリオに登場するのみで攻略できなかったが、PS版以降ではシナリオが用意され、主人公と格闘技で勝負することとなる。
+    小学生のころは両親とともに[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")に住んでいて、芹香とは対照的に自由な生活を送っており、その頃に出会った家庭教師の男子高校生の影響から格闘技に目覚めたが、彼よりもテクニックをつけてしまったため、彼が離れてしまう原因になった。
+    PS版以降で、エクストリームの際の右手を前に出した構えや、エンディングでの箸の持ち手で、[左利き](https://ja.wikipedia.org/wiki/左利き "wikilink")であることが分かる。「Remember〜」では立場上、セリオと共に出番が多くなり、浩之たちが通う学校によく現れる。なお、姉の芹香との相違点は押しの強めな顔つきと、少し癖のある髪質である。
+
+### サブキャラクター
+
+  - 佐藤 雅史（さとう まさし）
+    声：[保志総一朗](https://ja.wikipedia.org/wiki/保志総一朗 "wikilink")
+    誕生日：[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink")、星座：てんびん座、身長：165cm、年齢：16歳
+    主人公（藤田浩之）の幼馴染の友人。サッカー部に所属しており、成績も常に上位三十位に入る秀才で男女問わず人受けはよい。誰も攻略できない（バッドエンド）場合、「僕たちずっと友達だよね」と雅史の笑顔のシーンで終わる。現在は別居中の姉が一人いるほか、ハムスターを飼っている。『Remember〜』では、あかりに好意を抱いていること（あかりは気づいていたらしい）が判明し、あかりとマルチのことで自分の気持ちに正直になれない浩之との喧嘩を皮きりにあかりに告白するが想いは実らず、代わりに志保と行動するようになる。
+    なお、誕生日は[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")『To Heart Piece of Heart』にて判明、身長はアニメ版第一期の設定による。
+  - 佐藤 千絵美（さとう ちえみ）
+    主人公の友達、佐藤雅史の姉。昨年結婚し、お産のため雅史の家に戻ってきている。名前だけの登場のため、絵や声はない。
+  - 坂下 好恵（さかした よしえ）
+    声：[今井由香](https://ja.wikipedia.org/wiki/今井由香 "wikilink")
+    空手部の部長。葵と同じ中学で空手部の先輩に当たる。かわいがっていた葵が綾香に憧れて空手からエクストリームに転向したことを不愉快に思っており、葵シナリオで葵と対決することになる。『Remember〜』では、綾香と対峙するも敗北し、葵が綾香に勝利したことをきっかけに葵のことを認めた。また彼女の話によれば、琴音も一時期だが格闘をやっていたことが判明し、後に二人が仲良くなったこともきっかけにもなった。
+  - セリオ
+    声：[根谷美智子](https://ja.wikipedia.org/wiki/根谷美智子 "wikilink")
+    [\#メイドロボ](https://ja.wikipedia.org/wiki/#メイドロボ "wikilink")参照
+  - セバスチャン / 長瀬 源四郎 （ながせ げんしろう）
+    声：[大林隆之介](https://ja.wikipedia.org/wiki/大林隆介 "wikilink")（『Remember〜』のみ[中嶋聡彦](https://ja.wikipedia.org/wiki/中嶋聡彦 "wikilink")）
+    テーマ曲：「セバスチャン」
+    来栖川家の執事。50年間来栖川家に仕えており、常にスーツと蝶ネクタイで決めている。「セバスチャン」の呼び名は芹香によってつけられたニックネームで、彼女を毎日送り迎えしている。髭をたくわえる壮年のロマンスグレイと紳士的なイメージだが、芹香に接触しようとする主人公を一喝して退けたり、時には実力行使で捻じ伏せる豪胆さを併せ持つ。しかし幼い頃から芹香を見守っているため、心中いつも一人でいる彼女を心配している。何か叫ぶ度に顔がアップになる。戦後の混乱期にストリートファイトに明け暮れていた所を芹香の祖父に拾われた過去を持つ。
+  - 長瀬 源五郎 （ながせ げんごろう）
+    声：大林隆之介（『Remember〜』のみ中嶋聡彦）
+    テーマ曲：「長瀬開発主任」
+    来栖川重工所属。マルチ・セリオの開発主任。ロボットを単に人間の道具として扱うことを嫌っており、試作機である彼女達に“心”を持たせた張本人。本編中では明らかにはされないが、セバスチャンこと長瀬源四郎の息子である。しかし、父の源四郎と違い、主人公に一喝などはしない、極めて穏やかな人当たりのよい人物である。なお、続編『ToHeart2』において、姫百合珊瑚がイルファたちの開発の協力者として「長瀬のおっちゃん」という名をあげており、それがこのキャラクターである可能性が高い（ただし、『ToHeart2』本編中には同一人物と確定する記述はなく、公式見解も発表されてはいない）。これを受けて、『Remember〜』では珊瑚と会話するシーンがあり、アニメ版『ToHeart2』では中嶋聡彦が声をあてる「長瀬」という人物が登場している（ただし、顔が下半分しか描かれていない）。
+  - 神岸 ひかり（かみぎし ひかり）
+    声：[川澄綾子](https://ja.wikipedia.org/wiki/川澄綾子 "wikilink")（アニメ第一期のみ[星野千寿子](https://ja.wikipedia.org/wiki/星野千寿子 "wikilink")）
+    神岸あかりの母親。料理教室と着物の着付けの先生。高校生の娘を持つ母親とは思えないほど若々しい。また、声もあかりとよく似ており、主人公ですら電話越しでは注意して聞かないと間違えるほどである。なお、ゲーム中では名前が出てこない。当初発表された名前は「神岸しおり」であったが、後に訂正されて現在の名前となった。アニメ第一期では顔も出てこず、エンディングでは「あかりの母」と表記されている。また、アニメ版「Remember〜」では第12話に一度だけ登場し、顔も出てきた。スタッフロールに名前が無いが、声は川澄綾子の二役。
+  - ジョージ 宮内（ジョージ みやうち）
+    声：[桑原たけし](https://ja.wikipedia.org/wiki/桑原たけし "wikilink")
+    宮内レミィの父親。PS版以降のゲームにのみ登場。貿易会社の社長。性格は豪快で奔放。家ではいつもライフル（[M1ガーランド](https://ja.wikipedia.org/wiki/M1ガーランド "wikilink")）を持ち歩いており、話す時に相手に向ける。なお彼の名前については、上記のように表記する場合と「宮内ジョージ」のように苗字を先に表記する場合があるが、ここでは上記のように表記する。一般的には上記の表記の方がよく使われている（後述のシンディ宮内、マイケル宮内についても同様）。
+  - 宮内 あやめ（みやうち あやめ）
+    宮内レミィの母親。PS版以降のゲームにのみ登場。性格は物凄くおっとりしていてのんびり屋。
+  - シンディ 宮内（シンディ みやうち）
+    声：[園崎未恵](https://ja.wikipedia.org/wiki/園崎未恵 "wikilink")
+    宮内レミィの姉。レミィの家族の中では唯一PC版にも登場している。性格は人当たりが良く穏やかだが、PS版以降にて極端な潔癖症であることが判明。
+  - マイケル 宮内（マイケル みやうち）
+    宮内レミィの弟。PS版以降にのみ登場。普段は「マイケル」の愛称である「[ミッキー](https://ja.wikipedia.org/wiki/ミッキー "wikilink")」と呼ばれている。家の中でスケボーを乗り回すほどの腕白少年。なお、「ミッキー宮内」と表記されるケースもある。
+  - 雛山 良太（ひなやま りょうた）
+    声：[田野恵](https://ja.wikipedia.org/wiki/田野めぐみ "wikilink")
+    誕生日：[4月29日](../Page/4月29日.md "wikilink")、星座：おうし座、年齢：6歳（作品内の4月29日以降7歳）
+    雛山理緒の弟。腕白盛りの生意気な悪ガキだが、姉思いで、（不本意ながら）理緒を泣かせた主人公を退治しようと息巻く一面も見せる。
+  - 雛山 ひよこ（ひなやま ひよこ）
+    雛山理緒・良太の妹。PS版以降の作品内では理緒・良太のセリフ内でのみ存在を示唆されていたが、アニメ『〜Remember my Memories〜』のDVD第7巻の特典映像『Heart Fighters』にてその姿が披露された。
+  - 岡田（おかだ）、松本（まつもと）、吉井（よしい）
+    声：[木村亜希子](https://ja.wikipedia.org/wiki/木村亜希子 "wikilink")、[星河舞](https://ja.wikipedia.org/wiki/星河舞 "wikilink")、[園崎未恵](https://ja.wikipedia.org/wiki/園崎未恵 "wikilink")
+    主人公の2年生時のクラスメート。保科智子とは1年生の頃からのクラスメートであるが、保科の人を寄せ付けないクールな態度が気に入らずたびたび衝突したり、ときには保科のノートや教科書に落書きをするという、幼稚な手段を使う。保科を学級委員長に推薦した（というよりは押し付けた）のもこの3人。岡田は3人のリーダー格で強気な性格、松本はのんびりしていてまわりに流されやすい性格、吉井は比較的話が分かる性格。フルネームはゲームの公式設定ではない様だが、アニメ版の設定資料集では「岡田メグミ」、「松本リカ」、「吉井ユカリ」となっている。
+  - 鈴木寛子（すずきひろこ）
+    神岸あかりの友人。体育の時間に足を怪我したあかりに肩を貸す。
+  - 矢島（やじま）
+    声：[置鮎龍太郎](https://ja.wikipedia.org/wiki/置鮎龍太郎 "wikilink")
+    主人公の2年生時のクラスメート。髪型を変えた後の神岸あかりに惚れ、仲を取り持ってほしいと主人公に懇願してくる。スポーツ万能でルックスも良いため、女子から人気がある。
+  - 垣本（かきもと）
+    佐藤雅史のサッカー部の友人。来栖川綾香のファンでもある。
+  - 橋本
+    PC版にのみ登場。主人公の1年先輩にあたり、女子の間では評判の色男として知られ、長岡志保と交際をすることになるが、図書室で性的な行為に及ぼうとしたために主人公と志保に成敗されることとなる。PS版以降には登場しないが、作品内の投稿ラジオ番組『Heart to Heart』において、「はしもっち」というラジオネームで移植にあたり外されたことを愚痴っている。
+  - 広瀬 ゆかり
+    PC版にて、長岡志保が、泉南女子学院に芸能人がいると噂した新入生。実際に登場するわけではない。PS版以降では登場せず、代わりに同じシーンにて、Leaf作品の『[WHITE ALBUM](https://ja.wikipedia.org/wiki/WHITE_ALBUM "wikilink")』のヒロインのひとりである「緒方理奈」の名前が登場する。
+  - 辛島 美音子（からしま みねこ）
+    声：[豊嶋真千子](https://ja.wikipedia.org/wiki/豊嶋真千子 "wikilink")
+    PS版以降の作品内の投稿ラジオ番組『Heart to Heart』のパーソナリティ。ラジオを聴き続けると実際に主人公と出会うことになる。
+  - 内藤（ないとう） 長田（ながた）
+    PS版以降に登場した長岡志保の友人。学年では志保と3人揃って遊び人として名が知られているが、志保としては主人公や神岸あかりらと比べると付き合いにくさを感じているようである。名前だけの登場のため、絵や声はない。
+  - 藍原瑞穂（あいはらみずほ）
+    声：[後藤邑子](https://ja.wikipedia.org/wiki/後藤邑子 "wikilink")
+    アニメのオリジナルキャラである。大学の学生で「感情プログラム」を作った張本人であるが、自宅に帰る途中で交通事故で亡くなった。
+
+### メイドロボ
+
+本作の世界観においては、「メイドロボット」と呼ばれる作業用[アンドロイドが登場する](https://ja.wikipedia.org/wiki/人造人間 "wikilink")。作中では既に量産化されており1体の価格は自家用車2台程度であるとされる。ただし感情を持ち固有のキャラクターとして登場する「メイドロボ」は、量産化前の試作機2体。
+
+  - HMX-11“フィール”
+    HMX-11“フィール”は初めて「感情プログラム」を搭載しようとした試作メイドロボットである。藍原が「感情プログラム」を考え、HMX-11“フィール”に搭載したが、成功しなかった。量産型は感情がなく、命令のみ従い、来栖大学で働いている。
+    アニメ版『To Heart 〜Remember my Memories〜』に登場、ゲーム作品には登場しない。
+  - HMX-12“マルチ”
+    [3月19日](../Page/3月19日.md "wikilink")ロールアウト、星座：うお座、身長：147cm、3サイズ：68/52/73、主人公の呼び方：「\[名前\]さん」【浩之さん】、テーマ曲：「夢見るロボット」
+    HMX-12“マルチ”は来栖川重工（もしくは来栖川エレクトロニクス）で一般家庭向けメイドロボットとして開発されたアンドロイド。試作機の[AIには](../Page/人工知能.md "wikilink")「感情表現に対するフィードバック」および「人間とのコミュニケーションにおけるAIへの影響」に関する実証試験のために「[感情](https://ja.wikipedia.org/wiki/感情 "wikilink")」が試験的にインストールされているため、ロボットとは思えない行動をとるだけでなく「[夢](https://ja.wikipedia.org/wiki/夢 "wikilink")」すら見る。しかし、主人公が通う学園で実施されたこの実証試験の結果、興奮状態になった場合に[OSや機体にかかる負荷が大きく](../Page/オペレーティングシステム.md "wikilink")、場合によっては機能停止に陥ることや、量産化の際に「“作業機械”に感情は必要ない」という上層部の判断もあったことから、高性能機種であるHMX-13“セリオ”の廉価版メイドロボとして不必要な機能は排除されたため、量産型の感情表現機能はセリオと同じ程度になっている。[ロボット三原則](https://ja.wikipedia.org/wiki/ロボット三原則 "wikilink")はインストールされていない（ただし、マルチ自身、元々争い事などを好まない素直な性格なのでインストールされているのとあまり変わらない）。また、試作機には普通の人間と同じ外見の“耳”があるが、アンドロイドとしての特徴を際立たせるため「ギアレシーバー（アンテナ型のヘッドギア、『Remember〜』ではイアーレシーバーと長瀬主任は発言）」を装着させている。食事は採らず、動力源は家庭用電源からの充電に依るが、補助的に水素発電も行っており、生じた水はトイレで[排泄](https://ja.wikipedia.org/wiki/排泄 "wikilink")を行う\[1\]。
+    ドジや失敗が多いものの、健気で一生懸命なところがあり、主人公はその姿を見て興味を抱くようになる。また、[同人誌](https://ja.wikipedia.org/wiki/同人誌 "wikilink")、パロディ4コマ漫画などにもよく取り上げられ、アニメ『〜Remember my Memories〜』では物語のキーパーソンになっている。他にも、後発の同類ゲームなどを始め、内容的にもビジネスモデル的にも（[メディアミックス](https://ja.wikipedia.org/wiki/メディアミックス "wikilink")的展開、[コンシューマー機への移植](../Page/コンシューマーゲーム.md "wikilink")、アニメ化など）多大な影響を与えたとも言われる。
+    続編である『ToHeart2』の開発においても彼女の影響は強く、「メイドロボを登場させない」「ヒロインを緑髪（マルチの髪色）にしない」といった、マルチとイメージが重複するキャラクターを作らない方針が採られた。メイドロボに関しては原画の[みつみ美里](https://ja.wikipedia.org/wiki/みつみ美里 "wikilink")の強い要望によってサブキャラとして登場した\[2\]\[3\]。また、『ToHeart2』本編中においてもキャラクターのセリフ中に名前が登場しており、数少ない『2』において名前が登場する本作のキャラクターの一人となっている。容姿が松原葵と似ているがマルチのほうは後ろ髪が少し長く前髪を揃えている。
+    型式番号の「HMX」は「HomeMaid（ホームメイド）」から取られており（『Remember〜』ではHumanMaiden《ヒューマンメイデン》の略だと長瀬主任は発言）、試作機には「HM」の後に試作機であることを示す共通コード「X」が付けられている（来栖川グループ製のメイドロボに関しては全機種共通で、試作機は「HMX-○○」、量産型は「HM-○○」という型式番号が付けられることになる）。
+    好意を持つ人物に頭を撫でられることをとても好む。主人公の藤田浩之に頭を撫でられると顔がポッと赤くなり、可愛らしい表情を見せる。
+  - HMX-13“セリオ”
+    [2月12日](../Page/2月12日.md "wikilink")ロールアウト、星座：みずがめ座、身長：160cm、3サイズ：83/53/82
+    HMX-13“セリオ”は“マルチ”の競合作として開発された来栖川重工製のメイドロボット試作機でマルチの妹にあたる。「従来のメイドロボットの延長線上にある次期[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")機」を目標に、衛星通信システムを活用したデータリンク機能「サテライトサービス」などを搭載した、機能面重視の高性能機種として開発されたため、感情表現機能は必要最小限しかインストールされておらず、“マルチ”とは正対する「あくまで機械」という印象を与えるためのキャラクターとして描かれている。基本的に綾香と行動を共にしている。『Remember〜』では、暴走し苦悩し続けるマルチを探しに行く際、彼女を「姉さん」と呼んだり、動かなくなったマルチを見て涙を流すなど姉である彼女を尊敬している節が見られる。
+    3サイズは綾香のデータより3cmずつ少ない。なお身長と3サイズについて、上記のデータは『[げーむじん](https://ja.wikipedia.org/wiki/げーむじん "wikilink")』に掲載されていたQ\&Aの回答としてあげられた物であるが、アニメ（第1作）の設定では「身長：163cm、3サイズ：85/53/82」となっている。
+
+## ミニゲーム
+
+PS版以降には、以下の[ミニゲーム](https://ja.wikipedia.org/wiki/ミニゲーム "wikilink")が追加されている。特定の条件を満たすことで、タイトルメニューの『オプション』→『おまけ』に追加されてプレイでき、[ハイスコア](https://ja.wikipedia.org/wiki/ハイスコア "wikilink")をセーブすることもできる。また、本編中でプレイできるものもある。
+
+以下の『お嬢様は魔女』『Heart by Heart』『○△□×』は、PS、PS2版では本編中でゲーセンバトル（[ゲームセンター](https://ja.wikipedia.org/wiki/ゲームセンター "wikilink")での対決）で、神岸あかり・長岡志保・佐藤雅史のいずれかを相手に選択して対戦という形でプレイできる。一回プレイすると『おまけ』に追加される。PSE版では最初から『おまけ』に追加されており、またWindowsのメニューから直接起動することも出来るが、本編中でプレイ出来なくなった（ゲーセンバトルに至るまでのシナリオは同じだが、「本気を出す」「普通にやる」などの選択肢が表示され、それで結果が決まるようになっている）。
+
+### お嬢様は魔女
+
+ジャンルは横スクロールの[シューティングゲーム](https://ja.wikipedia.org/wiki/シューティングゲーム "wikilink")。箒に跨った来栖川芹香を操り、3種のショットと[ボム](https://ja.wikipedia.org/wiki/ボム_\(シューティングゲーム\) "wikilink")、ボタンを溜めて放つチャージショットを使い分けて敵を倒していく。一定時間内に連続で敵を倒すと得られる得点の倍率が上がるが、ショットの属性により攻撃が跳ね返す敵も存在するため、その都度使い分ける必要がある（逆に跳ね返させた跳弾を敵に当てることも出来る）。全3ステージで、ノーミスでクリアすると隠しボスとして来栖川綾香が出現する。チャージショットで敵の弾を打ち消すと得点を得られるアイテムが出現するなど、やりこみ度は高い。ゲーセンバトルでは、得点を競う形になる。
+
+### Heart by Heart
+
+ジャンルは[アクションゲーム](https://ja.wikipedia.org/wiki/アクションゲーム "wikilink")で、システムは[マリオブラザーズ](../Page/マリオブラザーズ.md "wikilink")と共通する部分もある。ショットを撃ち画面内の敵を全て倒すのが目的となる。一人用では全30ステージをクリアするのが目的となり、二人用では協力して一人用と同様に全30ステージをクリアする「きょうりょく」と、相手プレイヤーを倒すことが目的となる「たいせん」が選べる。
+
+プレイヤーキャラクターは以下から選択でき、キャラクターによってショットや移動能力に違いがある。
+
+  - 初期状態で使用可能 : 「神岸あかり」「長岡志保」「マルチ」「保科智子」「来栖川芹香」「宮内レミィ」「松原葵」「姫川琴音」
+  - 本編でそのキャラクターのエンディングを見ることで使用可能 : 「来栖川綾香」「雛山理緒」
+  - 「肩もみセリオ」（後述）でセリオの頭をなでると使用可能 : 「セリオ」
+  - 全キャラ使用可能な状態で[隠しコマンド](https://ja.wikipedia.org/wiki/隠しコマンド "wikilink")を入力する : 「真のヒロイン・琴音（真・琴音）」（ショットが画面中に16発出せ、移動性能が他キャラに比べ大幅にアップする。選択時には目が光り「**真のヒロイン登場です**」と言う）
+
+本編中では先述のゲーセンバトルの他、志保のシナリオ中でも主人公と志保が二人協力プレイを行うシーンがある（この時はプレイヤーはプレイできず、経緯を文章上で読むのみとなる）。
+
+Leafアミューズメントディスク『[初音のないしょ\!\!](https://ja.wikipedia.org/wiki/初音のないしょ!! "wikilink")』に収録されていたミニゲームを移植したもの（ただし、『初音のないしょ\!\!』収録版とは使用キャラや一部の操作などが異なる）。
+
+### ○△□×（まるさんかくしかくばつ）
+
+ジャンルは対戦型[パズル](../Page/パズル.md "wikilink")ゲーム（逆[落ち物パズル](https://ja.wikipedia.org/wiki/落ち物パズル "wikilink")）。下からせり上がって来る○・△・□・×・←・→ブロックを、ブロック置き場のブロックと交換して、同じブロックを3つ縦・横・斜め（難易度によっては斜めには消せなくなる）に揃えて消していく。最上段にブロックがある状態でせり上がると負けになる。消した時にブロックが落下するが、落ちた時にブロックが揃っていれば連鎖して消えていく。連鎖するほど高得点が得られるほか、2人プレイでは相手の陣地におじゃまブロックを降らせることができる。1人プレイではひたすら消して得点を競うが、2人プレイではいかに早くギブアップさせるかを競う。
+
+各ブロックはPS、PS2の[コントローラの各キーに対応しており](https://ja.wikipedia.org/wiki/ゲームコントローラ "wikilink")、（←・→はそれぞれL1・R1キーに対応）フィールドの交換したいブロックにカーソルを合わせてキーを押すと、ブロック置き場にそのブロックがあれば交換することができる。
+
+プレイヤーキャラクターは以下から選択でき、それぞれ固有の特殊能力を持つ。
+
+  - 初期状態で使用可能：「神岸あかり」「長岡志保」「マルチ」「保科智子」「来栖川芹香」「宮内レミィ」「松原葵」「姫川琴音」
+  - 本編でそのキャラクターのエンディングを見ることで使用可能：「雛山理緒」
+  - 「肩もみセリオ」（後述）でセリオの頭をなでると使用可能：「セリオ」
+
+なお、PSEでもブロックが全く同一で、[キーボードのキーと対応が割り当てられているが](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")、非常に分かりにくく混乱を招く。
+
+### ウォーターサバイバル
+
+ジャンルは[ガンシューティングゲーム](https://ja.wikipedia.org/wiki/ガンシューティングゲーム "wikilink")。固定画面のあちこちから登場する志保を、水鉄砲で撃たれる前に撃つのが目的。時々雅史が出現し、彼を撃つとライフが減ってしまう。30秒経過するかライフ3つが全てなくなるとゲームオーバーで、志保を撃った数と残りライフで得点が出る。本編中の志保シナリオでプレイでき、結果はシナリオに影響しない。本編中でプレイすると『おまけ』に追加されてプレイできる。
+
+### 肩もみマルチ
+
+マルチが肩たたきや肩もみをし、それに連動してコントローラ（[デュアルショック](https://ja.wikipedia.org/wiki/DUALSHOCK "wikilink")）の振動機能が作動して振動する。PSEでは振動機能（[フォースフィードバック](https://ja.wikipedia.org/wiki/フォースフィードバック "wikilink")）を搭載した[ゲームパッド](https://ja.wikipedia.org/wiki/ゲームパッド "wikilink")を使用しないと全く意味がない。本編でマルチのエンディングを見ると『おまけ』に追加されてプレイできる。
+
+### 肩もみセリオ
+
+上記の「肩もみマルチ」の肩をもむ役がセリオになったもの。マルチとはリアクションが異なり、また専用のCGも見ることが出来る。「肩もみマルチ」を5回プレイすると『おまけ』に追加されてプレイできる。
+
+## スタッフ
+
+Leaf伊丹（現：大阪）開発室による作品。
+
+  - シナリオ - [高橋龍也](https://ja.wikipedia.org/wiki/高橋龍也 "wikilink")、[青紫](https://ja.wikipedia.org/wiki/竹林明秀 "wikilink")（青村早紀）、[原田宇陀児](https://ja.wikipedia.org/wiki/原田宇陀児 "wikilink")（PS版、PSE、PS2版）
+  - 原画 - [水無月徹](https://ja.wikipedia.org/wiki/水無月徹 "wikilink")、[ラー・YOU](https://ja.wikipedia.org/wiki/カワタヒサシ "wikilink")（河田優）
+  - 音楽 - 石川真也、中上和英、[下川直哉](https://ja.wikipedia.org/wiki/下川直哉 "wikilink")
+
+## 主題歌
+
+  - PC版オープニングテーマ「Brand-new Heart」
+    作詞 - NEKO / 作曲 - 中上和英 / 歌 - [あっこ](https://ja.wikipedia.org/wiki/AKKO_\(Leaf\) "wikilink")
+  - PC版エンディングテーマ「あたらしい予感」
+    作詞 - NEKO / 作曲 - 下川直哉 / 歌 - あっこ
+  - PS版、PSE、PS2、PSP版オープニングテーマ「Feeling Heart」
+    作詞 - 須谷尚子 / 作曲 - 下川直哉 / 歌 - [中司雅美](https://ja.wikipedia.org/wiki/中司雅美 "wikilink")
+  - PS版、PSE、PS2、PSP版エンディングテーマ「それぞれの未来へ」
+    作詞 - 須谷尚子 / 作曲 - 中上和英 / 歌 - 中司雅美
+
+## 反響・批評
+
+本作のPlayStation版がリリースされた後、ビデオゲーム雑誌『[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』において40点中30点を獲得した\[4\]。『電撃G's magazine』は2007年に「読者が選ぶMY BESTギャルゲーランキング50」と題した人気投票企画を行っており、249のタイトルの中から本作『To Heart』は14票を獲得して19位にランクインした\[5\]。
+
+[洋泉社](https://ja.wikipedia.org/wiki/洋泉社 "wikilink")が発行した『アニソンマガジン』のゲームソングレビュー集のなかでライターの前田久は、「Feeling Heart」について「[シンセ主体のシンプルなアレンジで奏でられる美しいメロディーに](../Page/シンセサイザー.md "wikilink")、中司の落ち着いた歌声が絶妙にマッチしている」と肯定的な評価を与えている\[6\]。
+
+## アニメ作品
+
+### To Heart
+
+1999年4月2日から同年6月25日まで放送された。PS版の発売に合わせたもので、オープニングテーマとムービー、声優陣が共通となっている。
+
+キッズステーションではエンディングが[川澄綾子](https://ja.wikipedia.org/wiki/川澄綾子 "wikilink")の「Yell」だったが、第1話の初回放送1回目のみ、SPYの「Access」が使われた（2回目以降は「Yell」へ差し替えられた）。
+
+主人公と特定のヒロインの関係を進展させることが困難なギャルゲー原作物（[ハーレムアニメ](https://ja.wikipedia.org/wiki/ハーレムアニメ "wikilink")）の制約上、浩之、あかり、志保の三角関係を基本としつつ、他のヒロインを各話ごとに登場させて浩之に絡ませるという、各ヒロインキャラクターのプロモーションのような構成となった。そのため、作品の主軸はあえて激しいストーリー展開を避け、丁寧な日常描写を積み重ねることに置かれていた。それらを経た最終話では、浩之とあかりがようやく互いの恋愛感情を確認するという結末を迎えることとなる。
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")には、[DVD-BOX](https://ja.wikipedia.org/wiki/DVD-BOX "wikilink")として再発売された。
+
+#### スタッフ（第1期）
+
+  - 原作 - AQUAPLUS
+  - 企画 - 下川直哉、仁平幸男
+  - 企画協力 - AQUAPLUS、[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")、[アートプレスト](https://ja.wikipedia.org/wiki/アートプレスト "wikilink")、[ティーアイ東京](https://ja.wikipedia.org/wiki/ティーアイ東京 "wikilink")、蝦名雅人
+  - 監督 - [高橋ナオヒト](https://ja.wikipedia.org/wiki/高橋ナオヒト "wikilink")
+  - シナリオ監修 - 高橋龍也
+  - シリーズ構成 - [山口宏](https://ja.wikipedia.org/wiki/山口宏_\(脚本家\) "wikilink")
+  - キャラクター原案・監修 - 水無月徹
+  - キャラクターデザイン・総作画監督 - [千羽由利子](https://ja.wikipedia.org/wiki/千羽由利子 "wikilink")
+  - 美術監督 - [小林七郎](https://ja.wikipedia.org/wiki/小林七郎 "wikilink")、高橋久嘉
+  - 色彩設計 - 渡辺亜紀
+  - 撮影監督 - 沖野雅英
+  - 編集 - 辺見俊夫
+  - 音響監督 - [渡辺淳](https://ja.wikipedia.org/wiki/渡辺淳_\(音響監督\) "wikilink")
+  - 音響プロデューサー - [飯塚康一](https://ja.wikipedia.org/wiki/飯塚康一 "wikilink")
+  - 音響制作 - ケイエスエス
+  - 音楽 - [和田薫](https://ja.wikipedia.org/wiki/和田薫_\(作曲家\) "wikilink")
+  - 音楽プロデューサー - 横山光則
+  - アカウントエグゼクティブ - 小河信夫、村田昌志
+  - チーフプロデューサー - 浅賀孝郎、[奥野敏聡](https://ja.wikipedia.org/wiki/奥野敏聡 "wikilink")
+  - プロデューサー - [岩川広司](https://ja.wikipedia.org/wiki/大宮三郎 "wikilink")、[神田修吉](https://ja.wikipedia.org/wiki/神田修吉 "wikilink")、寺崎孝
+  - アニメーションプロデューサー - 和崎伸之
+  - アニメーション制作 - [オー・エル・エム](https://ja.wikipedia.org/wiki/オー・エル・エム "wikilink")
+  - 製作 - [ケイエスエス](https://ja.wikipedia.org/wiki/ケイエスエス "wikilink")
+
+#### 主題歌（第1期）
+
+  - オープニングテーマ「Feeling Heart」
+    作詞 - 須谷尚子 / 作曲・編曲 - [下川直哉](https://ja.wikipedia.org/wiki/下川直哉 "wikilink") / 歌 - [中司雅美](https://ja.wikipedia.org/wiki/中司雅美 "wikilink")
+  - エンディングテーマ「Access」
+    作詞 - KAZUYO / 作曲 - 長部正和 / 編曲 - HIRO / 歌 - SPY
+  - エンディングテーマ「Yell」
+    作詞 - 六ッ見純代 / 作曲 - [前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink") / 編曲 - 坂本昌之 / 歌 - [川澄綾子](https://ja.wikipedia.org/wiki/川澄綾子 "wikilink")
+    新潟放送とキッズステーション、パッケージメディアでのみ使用。
+
+#### 各話リスト（第1期）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話数</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>脚本</p></th>
+<th><p>絵コンテ</p></th>
+<th><p>演出</p></th>
+<th><p>作画監督</p></th>
+<th><p>放送日</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>新しい朝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山口宏_(脚本家)" title="wikilink">山口宏</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高橋ナオヒト" title="wikilink">高橋ナオヒト</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/千羽由利子" title="wikilink">千羽由利子</a></p></td>
+<td><p>1999年 4月2日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>放課後の出来事</p></td>
+<td><p>横田和</p></td>
+<td><p>大町繁</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小林勝利" title="wikilink">小林勝利</a></p></td>
+<td><p>4月9日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>陽だまりの中</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤田伸三" title="wikilink">藤田伸三</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/岩崎良明" title="wikilink">岩崎良明</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/村田和也" title="wikilink">村田和也</a></p></td>
+<td><p>伊藤岳史</p></td>
+<td><p>4月16日</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>輝きの瞬間</p></td>
+<td><p>山口宏</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高本宣弘" title="wikilink">高本宣弘</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/深沢幸司" title="wikilink">深沢幸司</a></p></td>
+<td><p>千羽由利子</p></td>
+<td><p>4月23日</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>青い空の下で</p></td>
+<td><p>村田和也</p></td>
+<td><p>斉藤英子</p></td>
+<td><p>4月30日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>憧れ</p></td>
+<td><p>横田和</p></td>
+<td><p>大町繁</p></td>
+<td><p>小林勝利</p></td>
+<td><p>5月7日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>揺れるまなざし</p></td>
+<td><p>藤田伸三</p></td>
+<td><p>深沢幸司</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/木宮茂" title="wikilink">木宮しげる</a></p></td>
+<td><p>平石素子</p></td>
+<td><p>5月14日</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>おだやかな時刻</p></td>
+<td><p>深沢幸司</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/沢田正人" title="wikilink">沢田正人</a></p></td>
+<td><p>5月21日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>心の在り処</p></td>
+<td><p>山口宏</p></td>
+<td><p>岩崎良明</p></td>
+<td><p>村田和也</p></td>
+<td><p>斉藤英子</p></td>
+<td><p>5月28日</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>夢見る笑顔</p></td>
+<td><p>藤田伸三</p></td>
+<td><p>村田和也</p></td>
+<td><p>斉藤英子<br />
+千羽由利子</p></td>
+<td><p>6月4日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>ぬくもりの瞳</p></td>
+<td><p>山口宏</p></td>
+<td><p>深沢幸司</p></td>
+<td><p>6月11日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>想いの季節</p></td>
+<td><p>藤田伸三</p></td>
+<td><p>高橋ナオヒト</p></td>
+<td><p>村田和也</p></td>
+<td><p>6月18日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>雪の降る日</p></td>
+<td><p>山口宏</p></td>
+<td><p>高橋ナオヒト<br />
+深沢幸司</p></td>
+<td><p>6月25日</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 放送局（第1期）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>放送地域</p></th>
+<th><p>放送局</p></th>
+<th><p>放送期間</p></th>
+<th><p>放送日時</p></th>
+<th><p>放送区分</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/兵庫県.md" title="wikilink">兵庫県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サンテレビジョン" title="wikilink">サンテレビ</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/4月1日.md" title="wikilink">4月2日</a> - <a href="../Page/6月24日.md" title="wikilink">6月25日</a></p></td>
+<td><p>木曜 24:35 - 25:05[7]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/全国独立放送協議会" title="wikilink">独立UHF局</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ北海道" title="wikilink">テレビ北海道</a></p></td>
+<td><p>木曜 25:30 - 26:00</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TXN" title="wikilink">テレビ東京系列</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/広島ホームテレビ" title="wikilink">広島ホームテレビ</a></p></td>
+<td><p>1999年<a href="https://ja.wikipedia.org/wiki/4月3日" title="wikilink">4月3日</a> - <a href="../Page/6月26日.md" title="wikilink">6月26日</a></p></td>
+<td><p>土曜 25:40 - 26:10</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/新潟放送" title="wikilink">新潟放送</a></p></td>
+<td><p>土曜 25:55 - 26:25</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/埼玉県" title="wikilink">埼玉県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ埼玉" title="wikilink">テレビ埼玉</a></p></td>
+<td><p>1999年<a href="../Page/4月4日.md" title="wikilink">4月4日</a> - <a href="../Page/6月27日.md" title="wikilink">6月27日</a></p></td>
+<td><p>日曜 24:00 - 24:30</p></td>
+<td><p>独立UHF局</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/千葉県" title="wikilink">千葉県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/千葉テレビ放送" title="wikilink">千葉テレビ</a></p></td>
+<td><p>日曜 24:30 - 25:00</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ神奈川" title="wikilink">テレビ神奈川</a></p></td>
+<td><p>1999年<a href="../Page/4月5日.md" title="wikilink">4月5日</a> - <a href="../Page/6月28日.md" title="wikilink">6月28日</a></p></td>
+<td><p>月曜 24:00 - 24:30</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TVQ九州放送" title="wikilink">TVQ九州放送</a></p></td>
+<td><p>月曜 25:35 - 26:05</p></td>
+<td><p>テレビ東京系列</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/静岡放送" title="wikilink">静岡放送</a></p></td>
+<td><p>1999年<a href="../Page/4月6日.md" title="wikilink">4月6日</a> - <a href="../Page/6月29日.md" title="wikilink">6月29日</a></p></td>
+<td><p>火曜 25:30 - 26:00</p></td>
+<td><p>TBS系列</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/京都府" title="wikilink">京都府</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/京都放送" title="wikilink">KBS京都</a></p></td>
+<td><p>1999年<a href="../Page/4月7日.md" title="wikilink">4月7日</a> - <a href="../Page/6月30日.md" title="wikilink">6月30日</a></p></td>
+<td><p>水曜 23:30 - 24:00</p></td>
+<td><p>独立UHF局</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ愛知" title="wikilink">テレビ愛知</a></p></td>
+<td><p>1999年<a href="../Page/4月12日.md" title="wikilink">4月12日</a> - <a href="../Page/7月5日.md" title="wikilink">7月5日</a></p></td>
+<td><p>月曜 26:00 - 26:30</p></td>
+<td><p>テレビ東京系列</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/全国放送" title="wikilink">日本全域</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/キッズステーション" title="wikilink">キッズステーション</a><br />
+</p></td>
+<td><p>1999年<a href="../Page/4月13日.md" title="wikilink">4月13日</a> - <a href="../Page/7月6日.md" title="wikilink">7月6日</a></p></td>
+<td><p>火曜 23:00 - 23:30<br />
+</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送" title="wikilink">CS放送</a></p></td>
+<td><p>リピート放送あり</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/アニメシアターX" title="wikilink">AT-X</a></p></td>
+<td><p>2001年<a href="../Page/5月5日.md" title="wikilink">5月5日</a> - <a href="../Page/8月1日.md" title="wikilink">8月1日</a></p></td>
+<td><p>水曜 12:30 - 13:00</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 映像特典
+
+DVD収録の映像特典。短編アニメは第2巻より収録。
+
+  - 第1巻 - 新春新人シャンソン・ショー?（対談）
+  - 第2巻 - いつもの朝（アニメ）／どっちがお好き?（対談）
+  - 第3巻 - Private Room（アニメ）
+  - 第4巻 - 時には一緒に。（アニメ）
+  - 第5巻 - MONSTER SHOCK（アニメ）
+  - 第6巻 - ちょっと…イイ話（アニメ）
+  - 第7巻 - 今日は僕らのクラスは全員出席だ（アニメ）
+
+### ToHeart 〜Remember my Memories〜
+
+2004年10月から同年12月の間、[アニメ魂](https://ja.wikipedia.org/wiki/アニメ魂 "wikilink")枠で放送された。アニメ第1期の続編ではなく、『[ToHeart2](https://ja.wikipedia.org/wiki/ToHeart2 "wikilink")』PS2版の発売に合わせてゲーム版『To Heart』からの橋渡しと位置づけられた作品であり、同作のキャラクターも一部登場している。キャラクターの設定も改変されており、レミィの帰国や雅史によるあかりへの告白などオリジナル展開が存在する。
+
+物語は、ゲーム版『To Heart』から1年後の学園が舞台。声優は同じだが、全スタッフが交代し、キャラクターデザインが原作ゲームに近いものとなった。また、他のLeaf作品の登場人物が所々で登場した（後述）。これらの理由のため、本作の回想シーンと第1期の該当シーンでは演出が異なり、矛盾する部分がある。
+
+第6話における保科智子の発言により、本作の世界でも[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")が起きていたらしいことが読み取れる\[8\]。
+
+ハートフルストーリーであったアニメ第1期と違い浩之、あかり、マルチの関係の推移に焦点を絞った非常にシリアスなストーリー構成になっている。このため作品の主軸が激しい展開となっており、マルチとの再会で浩之とあかりの関係が次第に悪化していく様子が描かれている。最終話では、和解した浩之とあかりの前で眠りについていたマルチがようやく目覚めるという結末で終わっている。
+
+#### アニメ第2期のみの登場キャラクター
+
+藍原瑞穂と長瀬祐介はLeafの過去作品『雫』にも登場しているが、その役どころは全く異なる。
+
+  - フィール
+    声 - [田上由希子](https://ja.wikipedia.org/wiki/田上由希子 "wikilink")
+    第8話で登場。来栖川重工製のメイドロボット試作機。型番はHMX-11。メイドロボットに感情を持たせるための試作機として作られるが、ソフトウェアが重すぎて起動しなかった。このため、製品版のHM-11に感情機能は搭載されていない。容姿は『雫』に登場した太田香奈子に酷似している。
+  - 藍原 瑞穂（あいはら みずほ）
+    声 - [後藤邑子](https://ja.wikipedia.org/wiki/後藤邑子 "wikilink")
+    第8話で登場。来栖大学でHMX-11の感情プログラムを作っていたが、前方不注意の車に轢かれて事故死したため、計画は中断された。
+  - 長瀬 祐介（ながせ ゆうすけ）
+    声 - [野島裕史](https://ja.wikipedia.org/wiki/野島裕史 "wikilink")
+    第9話で登場。長瀬源五郎の甥で画家。やや無愛想。藍原瑞穂と交際していた。
+
+また、上記の面々以外にも第8話と第13話で『ToHeart2』の**姫百合珊瑚**（声：[石塚さより](https://ja.wikipedia.org/wiki/石塚さより "wikilink")）と**姫百合瑠璃**（声：[吉田小南美](https://ja.wikipedia.org/wiki/吉田小南美 "wikilink")）が登場した。ただし、瑠璃は第8話では全く台詞がなく、第13話では逆に台詞はあるが姿が登場していない。また、エンディングクレジットには声優名のみが表記され、役名は表記されなかった。
+
+DVDの特典映像『Heart Fighters』の第7話では、**柚原このみ**（声：[落合祐里香](https://ja.wikipedia.org/wiki/長谷優里奈 "wikilink")）が登場した。こちらは、エンディングクレジットに役名も表記されていたが、予告では「X」と表記されていた。
+
+#### スタッフ（第2期）
+
+  - 原作 - AQUAPLUS
+  - 企画 - 福井政文、及川武、[川村明廣](https://ja.wikipedia.org/wiki/川村明廣 "wikilink")、松江正俊、下川直哉、酒匂暢彦、中村直樹、奥野敏聡
+  - 監督 - [元永慶太郎](https://ja.wikipedia.org/wiki/元永慶太郎 "wikilink")
+  - 脚本 - [叶希一](https://ja.wikipedia.org/wiki/叶希一 "wikilink")
+  - キャラクターデザイン・総作画監督 - [平山まどか](https://ja.wikipedia.org/wiki/平山まどか "wikilink")
+  - 小物デザイン・総作画監督補佐 - [堀井久美](https://ja.wikipedia.org/wiki/堀井久美 "wikilink")
+  - 美術監督 - [前田実](https://ja.wikipedia.org/wiki/スタジオちゅーりっぷ "wikilink")
+  - 色彩設計 - 花尻和子
+  - 撮影監督 - 田中浩介
+  - 編集 - 田熊純
+  - 音響監督 - [明田川仁](https://ja.wikipedia.org/wiki/明田川仁 "wikilink")
+  - 音楽 - [長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
+  - 音響プロデューサー - 吉川明
+  - 音楽制作 - [フロンティアワークス](https://ja.wikipedia.org/wiki/フロンティアワークス "wikilink")
+  - プロデューサー - 畑中利雄、中村誠、高山智子、水上高志、望月雄太郎、武智恒雄、土橋哲也、芝原靖史
+  - アニメーションプロデューサー - 渡辺欽哉、黄樹弐悠
+  - アニメーション制作 - [OLM](https://ja.wikipedia.org/wiki/オー・エル・エム "wikilink")、[AIC A.S.T.A.](https://ja.wikipedia.org/wiki/アニメインターナショナルカンパニー "wikilink")
+  - 製作 - THR Works（[IMAGICAエンタテインメント](https://ja.wikipedia.org/wiki/IMAGICAイメージワークス "wikilink")、[フロンティアワークス](https://ja.wikipedia.org/wiki/フロンティアワークス "wikilink")、[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")、[双日](https://ja.wikipedia.org/wiki/双日 "wikilink")、AQUAPLUS、[クロックワークス](https://ja.wikipedia.org/wiki/クロックワークス "wikilink")、[AT-X](https://ja.wikipedia.org/wiki/アニメシアターX "wikilink")、OLM）
+
+#### 主題歌（第2期）
+
+  - オープニングテーマ「大好きだよ（Into Your Heart）」
+    作詞・作曲・編曲 - [ジョー・リノイエ](https://ja.wikipedia.org/wiki/ジョー・リノイエ "wikilink") / 歌 - 谷咲ナオミ
+    全話に挿入歌としても使われていた。
+  - エンディングテーマ「それぞれの未来へ」
+    作詞 - 須谷尚子 / 作曲 - 中上和英 / 編曲 - 松岡純也 / 歌 - 池田春菜
+    PS版に使われた同曲のアレンジバージョン。
+
+#### 各話リスト（第2期）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話数</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>絵コンテ</p></th>
+<th><p>演出</p></th>
+<th><p>作画監督</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>新しい予感</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/元永慶太郎" title="wikilink">元永慶太郎</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/平山まどか" title="wikilink">平山まどか</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>昔と、今と</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ワタナベシンイチ" title="wikilink">ワタナベシンイチ</a></p></td>
+<td><p>秋田谷典昭</p></td>
+<td><p>田中壽之</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>そして、君は</p></td>
+<td><p>中山岳洋</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/久城りおん" title="wikilink">久城りおん</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/堀井久美" title="wikilink">堀井久美</a></p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>強さと、優しさ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/谷田部勝義" title="wikilink">谷田部勝義</a></p></td>
+<td><p>桜井木ノ実<br />
+ひのたかふみ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>越えるべき壁</p></td>
+<td><p>中村主水<br />
+椛島洋介</p></td>
+<td><p>椛島洋介</p></td>
+<td><p>青山まさのり</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>思い出の街、思い出の人</p></td>
+<td><p>別所誠人</p></td>
+<td><p>粟井重紀</p></td>
+<td><p>三崎雅也</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>一人の願い、二人の夢</p></td>
+<td><p>吉田英俊</p></td>
+<td><p>秋田谷典昭</p></td>
+<td><p>田中壽之</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>ロボットの夢</p></td>
+<td><p>川島宏</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/福本潔" title="wikilink">福本潔</a></p></td>
+<td><p>飯飼一幸<br />
+椛島洋介</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>すれ違う心</p></td>
+<td><p>別所誠人</p></td>
+<td><p>元永慶太郎</p></td>
+<td><p>大坪幸麿</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>長い夜</p></td>
+<td><p>ワタナベシンイチ</p></td>
+<td><p>長村伸治</p></td>
+<td><p>吉野真一<br />
+青山まさのり</p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>理解りあうために</p></td>
+<td><p>吉田英俊</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/政木伸一" title="wikilink">政木伸一</a></p></td>
+<td><p>田中壽之</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>わたしの、居場所</p></td>
+<td><p>福本潔</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/石倉賢一" title="wikilink">石倉賢一</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西尾公伯" title="wikilink">西尾公伯</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>それぞれの未来へ</p></td>
+<td><p>別所誠人</p></td>
+<td><p>秋田谷典昭</p></td>
+<td><p>平山まどか<br />
+堀井久美</p></td>
+</tr>
+</tbody>
+</table>
+
+#### 放送局（第2期）
+
+| 放送地域                                                | 放送局                                                                 | 放送期間                                                                                                                                    | 放送日時             | 放送区分                                                             | 備考       |
+| --------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------------------- | -------- |
+| 日本全域                                                | AT-X                                                                | [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[10月2日](../Page/10月2日.md "wikilink") - [12月25日](../Page/12月25日.md "wikilink")    | 土曜 10:00 - 10:30 | CS放送                                                             | リピート放送あり |
+| [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink") | [群馬テレビ](https://ja.wikipedia.org/wiki/群馬テレビ "wikilink")             | 2004年[10月3日](../Page/10月3日.md "wikilink") - [12月26日](../Page/12月26日.md "wikilink")                                                      | 日曜 25:00 - 25:30 | 独立UHF局                                                           |          |
+| 神奈川県                                                | tvk                                                                 | 2004年[10月8日](../Page/10月8日.md "wikilink") - [12月31日](../Page/12月31日.md "wikilink")                                                      | 金曜 23:30 - 24:00 |                                                                  |          |
+| 京都府                                                 | KBS京都                                                               | 金曜 25:25 - 25:55                                                                                                                        |                  |                                                                  |          |
+| 日本全域                                                | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")             | 2004年[10月11日](../Page/10月11日.md "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月3日](../Page/1月3日.md "wikilink") | 月曜 26:00 - 26:30 | [BS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#BS放送 "wikilink") |          |
+| [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink") | [東京MXテレビ](https://ja.wikipedia.org/wiki/東京メトロポリタンテレビジョン "wikilink") | 2004年[10月14日](../Page/10月14日.md "wikilink") - 2005年[1月6日](../Page/1月6日.md "wikilink")                                                   | 木曜 25:00 - 25:30 | 独立UHF局                                                           |          |
+| [長野県](../Page/長野県.md "wikilink")                    | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")               | 2004年[10月15日](../Page/10月15日.md "wikilink") - 2005年[1月7日](../Page/1月7日.md "wikilink")                                                   | 金曜 26:00 - 26:30 | TBS系列                                                            |          |
+| [奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink") | [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")           | 2004年[10月21日](../Page/10月21日.md "wikilink") - 2005年[1月13日](../Page/1月13日.md "wikilink")                                                 | 木曜 24:25 - 24:55 | 独立UHF局                                                           |          |
+| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink") | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")               | 2004年[10月25日](../Page/10月25日.md "wikilink") - 2005年[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")                              | 月曜 26:20 - 26:50 | TBS系列                                                            |          |
+| 日本全域                                                | [GYAO\!](https://ja.wikipedia.org/wiki/GYAO! "wikilink")            | 2005年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink") - [12月26日](../Page/12月26日.md "wikilink")                                 | 月曜 12:00 更新      | [ネット配信](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")     |          |
+
+#### Heart Fighters
+
+DVD映像特典。各巻1話収録、全7話。アニメ第2期の登場人物同士が対決するという内容で、『[聖闘士星矢](https://ja.wikipedia.org/wiki/聖闘士星矢 "wikilink")』や『[仮面ライダー剣](https://ja.wikipedia.org/wiki/仮面ライダー剣 "wikilink")』などのパロディや、巨大ロボットまで登場している。最終戦のXのみ、『ToHeart2』からの客演。
+
+  - 対戦カード
+
+:\* 第1戦「智子vsレミィ」
+
+:\* 第2戦「志保vs理緒」
+
+:\* 第3戦「葵vs綾香」
+
+:\* 第4戦「琴音vs芹香」
+
+:\* 第5戦「セリオvsマルチ」
+
+:\* 第6戦「マルチvsあかり」
+
+:\* 最終戦「あかりvsX」
+
+## ラジオ
+
+PS版の販促のため[ラジオ大阪](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")（1998年4月11日 - 10月3日）、[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")（1998年4月10日 - 10月2日）にて豊嶋真千子による『To Heart』のラジオ番組を放送。番組終了後も後番組の『豊嶋真千子Earthly Paradise』にて作品情報の提供、およびラジオドラマ『To Heart Piece of Heart』の放送を行っている。
+
+## 関連作品
+
+### コミック
+
+  - To Heart
+    [コミック電撃大王に](https://ja.wikipedia.org/wiki/月刊コミック電撃大王 "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")号から[1999年](../Page/1999年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")号まで連載。作画：[高雄右京](https://ja.wikipedia.org/wiki/高雄右京 "wikilink")
+    電撃コミックス 発行：[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink") 発売：[角川書店](https://ja.wikipedia.org/wiki/角川書店 "wikilink")（初版第1巻のみ[主婦の友社](https://ja.wikipedia.org/wiki/主婦の友社 "wikilink")）
+    1.  [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月15日](../Page/9月15日.md "wikilink")初版 ISBN 4-8402-0978-2
+    2.  1999年[6月15日](../Page/6月15日.md "wikilink")初版 ISBN 4-8402-1221-X
+    3.  [2000年](../Page/2000年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")初版 ISBN 4-8402-1460-3
+  - ToHeart 〜Remember my Memories〜
+    同名のアニメを基にしたコミカライズ。[月刊コミック電撃大王](https://ja.wikipedia.org/wiki/月刊コミック電撃大王 "wikilink")に[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[11月](../Page/11月.md "wikilink")号から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")号まで連載。作画：高雄右京
+    電撃コミックス 2005年[8月15日](../Page/8月15日.md "wikilink")初版 ISBN 4-8402-3137-0 発行：メディアワークス 発売：角川書店
+
+### コミックアンソロジー
+
+『To Heart』の[コミックアンソロジー](https://ja.wikipedia.org/wiki/コミックアンソロジー "wikilink")は、PS版発売後まもなくスタジオDNA（現：[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")）と[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現：[スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")）とT2出版の3社より出版された。スタジオDNA版は続編『[ToHeart2](https://ja.wikipedia.org/wiki/ToHeart2 "wikilink")』が出てからも刊行され、30巻まで続いた。それから数年遅れて[ラポート](https://ja.wikipedia.org/wiki/ラポート "wikilink")や[宙出版](https://ja.wikipedia.org/wiki/宙出版 "wikilink")からも出版された。
+
+  - スタジオDNA （コミックアンソロジーVol.30のみ一迅社となってから刊行）
+      - To Heart コミックアンソロジー 全30巻
+      - To Heart 4コマKings 全2巻
+  - エニックス
+      - エニックス[スーパーコミック劇場](https://ja.wikipedia.org/wiki/スーパーコミック劇場 "wikilink") To Heart 全5巻
+      - To Heart [4コママンガ劇場](https://ja.wikipedia.org/wiki/4コママンガ劇場 "wikilink") 全7巻
+      - To Heart ポストカードギャラリー 全2巻
+  - ラポート
+      - ゲームコミック To Heart 全2巻
+  - 宙出版
+      - [ツインハートコミックス](https://ja.wikipedia.org/wiki/ツインハートコミックス "wikilink") To Heart 全3巻
+      - ツインハートコミックス トゥハートメモリーズ
+      - [おおぞら笑コミックス](https://ja.wikipedia.org/wiki/おおぞら笑コミックス "wikilink") To Heart 〜Remember my Memories〜
+  - T2出版
+      - To Heart アンソロジー
+      - To Heart アンソロジー MAX
+      - To Heart アンソロジー +α
+
+### ドラマCD
+
+  - To Heart Piece of Heart
+    セリオと、クラスメートの田沢圭子の心の交流を描いた話。本編では描かれなかったセリオの心情が描かれている。
+      - 「To Heart Piece of Heart」にのみ登場のキャラクター
+    :; 田沢 圭子（たざわ けいこ）
+      -
+
+          -
+            声 - [南央美](https://ja.wikipedia.org/wiki/南央美 "wikilink")
+            西音寺女学院1年C組の生徒で、セリオのクラスメート。クラスの中で一番小さく、ドングリ目と低い鼻と大きい耳を気にしている。佐藤雅史に惚れており、雅史とセリオが一緒にいた所（藤田浩之、神岸あかり、長岡志保、来栖川綾香も一緒だったが）に居合わせ、それを目撃したセリオにそのことを聞かれたことをきっかけに、セリオに雅史と話が出来ないか持ち掛ける。
+    <!-- end list -->
+      - 初回版 - 発売：ケイエスエス 販売：[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")
+      - 再発版 - 発売：[フィックスレコード](https://ja.wikipedia.org/wiki/フィックスレコード "wikilink") 販売：[キングレコード](https://ja.wikipedia.org/wiki/キングレコード "wikilink") KICA-5051
+  - アンソロジードラマCD ToHeart 〜Remember my Memories〜 Vol.1「雨月山の鬼退治」
+    「ToHeart 〜Remember my Memories〜」を基にした話。ストーリーはギャグの要素が強く、Leafの過去作品の「痕」のパロディを盛り込んでいる。なお、Vol.1と銘打ってはいるが、Vol.2は発売されていない。
+    発売：フロンティアワークス 販売：ジェネオンエンタテインメント FCCM-0055
+
+### CD
+
+#### ゲーム関連
+
+全て 発売元：フィックスレコード、販売元：キングレコード
+
+  - Feeling Heart
+    PS版OPテーマ『Feeling Heart』とEDテーマ『それぞれの未来へ』を収録した[シングル](https://ja.wikipedia.org/wiki/シングル "wikilink")。
+  - To Heart オリジナル・サウンドトラック
+    PS版のサウンドトラック。
+  - HEART SESSION
+    作中BGMのバンドアレンジ曲を収録したアルバム。
+  - Leaf VOCAL COLLECTION Vol.1
+    To Heartと『WHITE ALBUM』、『PC版こみっくパーティー』のボーカル曲を収録したアルバム。PC版OPテーマ『Brand-New Heart』、EDテーマ『あたらしい予感』、PS版OPテーマ『Feeling Heart』、EDテーマ『それぞれの未来へ』と、神岸あかりのテーマ曲『あなたの横顔』に歌詞をつけたバージョン（歌：[美崎しのぶ](https://ja.wikipedia.org/wiki/美崎しのぶ "wikilink")）を収録。なお、『Brand-New Heart』、『あたらしい予感』、『Feeling Heart』はロングバージョンを収録しており、『Brand-New Heart』、『あたらしい予感』は美崎しのぶが歌っている。
+  - 雨
+    中司雅美のアルバム。PS版OPテーマ『Feeling Heart』とEDテーマ『それぞれの未来へ』のアレンジバージョンを収録。
+  - POWDER SNOW
+    『WHITE ALBUM』のEDテーマの英語バージョンを収録した[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。C/Wとして、PC版EDテーマの英語バージョン『I Believe 〜あたらしい予感〜』を収録している。
+  - Leaf Piano Collection Vol.1
+    To Heartと、『雫』、『痕』、『WHITE ALBUM』、『こみっくパーティー』、『[まじかる☆アンティーク](https://ja.wikipedia.org/wiki/まじかる☆アンティーク "wikilink")』の歌やBGMのピアノアレンジ曲を収録したアルバム。
+  - AQUAPLUS VOCAL COLLECTION VOL.1
+    『Leaf VOCAL COLLECTION Vol.1』の再発。
+  - AQUAPLUS VOCAL COLLECTION VOL.2
+    『まじかる☆アンティーク』、『PC版[うたわれるもの](https://ja.wikipedia.org/wiki/うたわれるもの "wikilink")』、『DC版こみっくパーティー』、『[誰彼](https://ja.wikipedia.org/wiki/誰彼 "wikilink")』のボーカル曲および、PC版EDテーマの英語バージョン『I Believe 〜あたらしい予感〜』を収録したアルバム。
+    Leaf製作のインディーズCD『Leaf VOCAL COLLECTION VOL.2』の一般向け再発版。
+  - Pure -AQUAPLUS LEGEND OF ACOUSTICS-
+    本作と『WHITE ALBUM』『うたわれるもの』『[Tears To Tiara](https://ja.wikipedia.org/wiki/Tears_To_Tiara "wikilink")』『ToHeart2』『[鎖 -クサリ-](https://ja.wikipedia.org/wiki/鎖_-クサリ- "wikilink")』の歌やBGMの、[Elements Gardenのメンバーによる](https://ja.wikipedia.org/wiki/Elements_Garden "wikilink")[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")アレンジアルバム。
+
+これ以外にも、Leaf製作による[インディーズ](https://ja.wikipedia.org/wiki/インディーズ "wikilink")のサウンドトラックやアレンジアルバムがあるが、ここでは省略する。
+
+#### アニメ関連
+
+  - Access
+    発売：[バンダイ・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/バンダイ・ミュージックエンタテインメント "wikilink")
+    TVアニメ（第1作）EDテーマ『Access』を収録したシングル。C/Wは『Dreams Come ture』。
+  - To Heart アニメーション・サウンドトラック
+    発売元：フィックスレコード、販売元：キングレコード
+    TVアニメ（第1作）のサウンドトラック。
+  - 大好きだよ（Into Your Heart）
+    発売元・販売元：フロンティアワークス、販売協力：ジェネオンエンタテインメント
+    『Remember〜』のOPテーマ『大好きだよ（Into Your Heart）』とEDテーマ『それぞれの未来へ』を収録したマキシシングル。
+  - TVアニメーション「ToHeart 〜Remember my memories〜」サウンドトラック&イメージソング
+    発売元・販売元：フロンティアワークス、販売協力：ジェネオンエンタテインメント
+    『Remember〜』のサウンドトラック。川澄綾子の歌うイメージソング『ONE\&ONLY』も収録している。
+  - AQUAPLUS VOCAL COLLECTION VOL.4
+    発売元：フィックスレコード、販売元：キングレコード
+    『Remember〜』と、『ToHeart2』、『雫（リニューアル版）』、『[アルルゥとあそぼ\!\!](https://ja.wikipedia.org/wiki/アルルゥとあそぼ!! "wikilink")』、『こみっくパーティーRevolution』のボーカル曲を集めたアルバム。OPテーマ『大好きだよ（Into Your Heart）』とEDテーマ『それぞれの未来へ』を収録。
+
+### 小説
+
+  - To Heart マルチ、がんばりますっ\!
+    本編のマルチのシナリオを基にしたノベライズ。著 : [伊達将範](https://ja.wikipedia.org/wiki/伊達将範 "wikilink")。
+    電撃G's文庫 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")初版 ISBN 4-8402-0966-9 発行：メディアワークス 発売：角川書店
+  - ToHeart アンソロジーノベル
+    著：[新井輝](https://ja.wikipedia.org/wiki/新井輝 "wikilink")、[あすか正太](https://ja.wikipedia.org/wiki/あすか正太 "wikilink")、武乃忍、氷上慧一。短編を4話収録。
+    ファミ通文庫 [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")初版 ISBN 4-7577-2039-4 発行：[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")
+
+### ゲーム
+
+  - [おでかけマルチ](https://ja.wikipedia.org/wiki/おでかけマルチ "wikilink")
+    マルチをメインキャラクターにした育成ゲーム。[P/ECE対応](https://ja.wikipedia.org/wiki/PIECE "wikilink")。
+
+<!-- end list -->
+
+  - [AQUAPAZZA](https://ja.wikipedia.org/wiki/AQUAPAZZA "wikilink") -AQUAPLUS DREAM MATCH-（アクアパッツァ アクアプラスドリームマッチ）
+    プレイヤーキャラクターとしてマルチ、サポートキャラクターとして来栖川芹香が参戦。[アーケード](https://ja.wikipedia.org/wiki/アーケード "wikilink")と[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。
+
+<!-- end list -->
+
+  - ToHeartハートフルパーティ
+    ToHeartシリーズのキャラクターが登場する[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")。『2』のキャラクターが多く登場するが、今作のヒロインも登場する。イラストは描きおろし。
+    当初の共同運営先は[インデックス](https://ja.wikipedia.org/wiki/インデックス・ホールディングス "wikilink")（旧法人）であったが、インデックスの民事再生手続に伴い2013年11月1日に[インデックス](https://ja.wikipedia.org/wiki/iXIT "wikilink")（旧：セガドリーム）へ移管され、2014年5月1日に[サミーネットワークス](https://ja.wikipedia.org/wiki/サミーネットワークス "wikilink")の子会社であるバタフライへ三度移管された\[9\]。2015年3月27日にてサービス提供が終了した\[10\]。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [リーフファイトTCG](https://ja.wikipedia.org/wiki/リーフファイトTCG "wikilink")
+  - [町田市](https://ja.wikipedia.org/wiki/町田市 "wikilink") - 作品の舞台として町田市をイメージしたとスタッフが語っている\[11\]。
+
+## 外部リンク
+
+  - [AQUAPLUS](https://aquaplus.jp/)
+
+      - [To Heart（PS版）紹介ページ](https://aquaplus.jp/th/)
+
+  - [Leaf](https://leaf.aquaplus.jp/)
+
+  -
+[Category:To_Heart](https://ja.wikipedia.org/wiki/Category:To_Heart "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:ノベルゲーム](https://ja.wikipedia.org/wiki/Category:ノベルゲーム "wikilink") [Category:Leafのゲームソフト](https://ja.wikipedia.org/wiki/Category:Leafのゲームソフト "wikilink") [Category:アクアプラスのゲームソフト](https://ja.wikipedia.org/wiki/Category:アクアプラスのゲームソフト "wikilink") [Category:UHFアニメ](https://ja.wikipedia.org/wiki/Category:UHFアニメ "wikilink") [Category:OLMのアニメ作品](https://ja.wikipedia.org/wiki/Category:OLMのアニメ作品 "wikilink") [Category:アクアプラスのアニメ作品](https://ja.wikipedia.org/wiki/Category:アクアプラスのアニメ作品 "wikilink") [Category:アニメ作品_と](https://ja.wikipedia.org/wiki/Category:アニメ作品_と "wikilink") [Category:1999年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1999年のテレビアニメ "wikilink") [Category:テレビアニメ化されたアダルトゲーム](https://ja.wikipedia.org/wiki/Category:テレビアニメ化されたアダルトゲーム "wikilink") [Category:1997年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1997年のアダルトゲーム "wikilink") [Category:1999年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1999年のコンピュータゲーム "wikilink") [Category:電撃G's文庫](https://ja.wikipedia.org/wiki/Category:電撃G's文庫 "wikilink") [Category:ファミ通文庫](https://ja.wikipedia.org/wiki/Category:ファミ通文庫 "wikilink") [Category:月刊コミック電撃大王の漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミック電撃大王の漫画作品 "wikilink") [Category:漫画作品_と](https://ja.wikipedia.org/wiki/Category:漫画作品_と "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink")
+
+1.  本作ではマルチ自身により語られるのみだが、『ToHeart2 XRATED』および『Another Days』では後継機においてこの機能にまつわるイベントが存在する。
+2.
+3.  なお、『ToHeart2』の続編である『ToHeart2 AnotherDays』においては、メインキャラクターとサブキャラクターが『ToHeart2』と逆転しており、結果として「メイドロボ」も「緑髪のキャラクター」もヒロインとして登場している。
+4.
+5.
+6.
+7.  6月のみ24:40 - 25:10
+8.  第6話は保科智子の出身地である神戸が舞台となっており、「あの大地震」という表現をしている。
+9.  [2014年5月1日より「ToHeart ハートフルパーティ」運営開始のお知らせ](https://www.butterfly-corp.jp/assets/pdf/news_press/TH140424.pdf)バタフライ 2014年4月24日
+10. [「ToHeartハートフルパーティ」サービス終了のお知らせ（～3/27）](http://blog.aquaplus.jp/archives/5027) aquaplusニュースリリース 2015/5/30閲覧
+11.

@@ -1,0 +1,87 @@
+> この記事は[!SUN](https://ja.wikipedia.org/wiki/!SUN)から翻訳されています。
+
+
+**森永卓郎の朝はモリタク\!もりだくSUN**（**もりながたくろうのあさはモリタクもりだくさん）**は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")にて2004年3月22日から2005年3月25日に放送されていた、[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。
+
+## 概要
+
+2004年、ニッポン放送の平日の朝のワイド番組において、19年間に渡り放送して来た『[高嶋ひでたけのお早よう\!中年探偵団](https://ja.wikipedia.org/wiki/高嶋ひでたけのお早よう!中年探偵団 "wikilink")』を放送してきたが、高嶋が早朝型生活に限界があり勇退を申し入れていた事と、当時、有楽町の本社建替えで港区台場に所在していた、FCGビルから再び有楽町に戻る節目の年度に、同番組の2002年1月から9月の間木曜のコメンテーターとして、同局の平日夕方のワイド番組である『[垣花正のニュースわかんない\!?](https://ja.wikipedia.org/wiki/垣花正のニュースわかんない!? "wikilink")』の出演していた、経済アナリストの森永を起用した朝の情報番組を開始する事を発表\[1\]。また、同局の2004年春のキャンペーンキャラクターとして[松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")（当時：[ニューヨークヤンキース](https://ja.wikipedia.org/wiki/ニューヨークヤンキース "wikilink")）と同時に起用された。[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[3月22日](../Page/3月22日.md "wikilink")放送開始\[2\]。
+
+森永が「難しいことを分かりやすく説明」し、経済、社会、スポーツ、芸能、家庭、健康、レジャー情報を深くかつ広く取り上げ、30分聴けば直近の話題が理解出来る事をモットーに掲げ、 2004年3月22日から番組開始。
+
+番組構成は大枠で『おは中』と変わらない構成であるが、サラリーマンの日頃の生活のボヤキをカルタに認めた、「サラリーマンぼやきカルタ」をリスナーから募っていた。しかし、リニューアル1年しか経過せず、2005年3月25日に当該番組を終了させ、新たに早朝番組枠から拡大した形で同年3月28日から番組を改題し、『ニュースわかんない\!?』時代の相方である、同局アナウンサーの[垣花正](../Page/垣花正.md "wikilink")を追加し、『森永卓郎 朝はニッポン一番ノリ\!』としてリニューアルスタートした。
+
+## 出演者
+
+### パーソナリティ
+
+  - [森永卓郎](https://ja.wikipedia.org/wiki/森永卓郎 "wikilink")（[経済アナリスト](https://ja.wikipedia.org/wiki/経済評論家 "wikilink")、当時：[UFJ総合研究所](https://ja.wikipedia.org/wiki/UFJ総合研究所 "wikilink") 経済・社会政策部部長兼主席研究員）
+
+### アシスタント
+
+  - [増田みのり](https://ja.wikipedia.org/wiki/増田みのり "wikilink")（当時：ニッポン放送アナウンサー）
+  - [鈴木芳彦](https://ja.wikipedia.org/wiki/鈴木芳彦 "wikilink")（当時：ニッポン放送アナウンサー、現：[フジテレビアナウンサー](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）※エンタメダッシュのみ担当
+
+### リポーター
+
+  - [吉田尚記](https://ja.wikipedia.org/wiki/吉田尚記 "wikilink")（ニッポン放送アナウンサー）
+
+### ニュースデスク
+
+  - [遠藤竜也](https://ja.wikipedia.org/wiki/遠藤竜也 "wikilink")（ニッポン放送 報道部記者）
+
+## 放送時間
+
+  - 平日 6:00 - 8:30 - 2004年3月22日 - 2005年3月25日
+
+### 特別番組
+
+  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[10月19日](../Page/10月19日.md "wikilink")には「森永卓郎の夜もモリタク\!もりだくSUN」として22:00 - 24:00に特別番組として放送された。垣花正がアシスタントを務めた。この二人の共演は「垣花正のニュースわかんない\!?」終了以来のことである。
+  - また[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月21日](../Page/2月21日.md "wikilink") - [2月25日](../Page/2月25日.md "wikilink")（スペシャルウィーク期間中）は5:00から「森永卓郎の5時からモリタク\!もりだくSUN」として3時間半の長丁場となり、アシスタントは従来の増田ではなく、垣花がアシスタントを務めた。増田はニュース・天気予報を担当、3人での共演は「垣花正のニュースわかんない\!?」以来であり、これが[森永卓郎 朝はニッポン一番ノリ\!に改題したきっかけとなった](https://ja.wikipedia.org/wiki/森永卓郎_朝はニッポン一番ノリ! "wikilink")。
+
+## タイムテーブル
+
+  - 6:00 - オープニング
+  - 6:05 - TODAY'S HEADLINE（ニッポン放送ニュース・天気予報・交通情報）
+  - 6:15 - 朝イチメールボックス
+  - 6:20 - よくばり健康朝いちばん（コメンテーター：吉祥寺セントラルクリニック院長・矢端正克）
+  - 6:27 - 交通情報
+  - 6:30 - TODAY'S HEADLINE（[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")ニュース ）
+  - 6:35 - 朝刊まるごとななめ読み
+  - 6:40 - 交通情報
+  - 6:42 - [飛び出せ街かど天気予報](https://ja.wikipedia.org/wiki/TOYOTA_飛び出せ街かど天気予報 "wikilink")（晴れ晴れキャスターズ：[最所千加子](https://ja.wikipedia.org/wiki/最所千加子 "wikilink")）
+  - 6:50 - 交通情報
+  - 6:54 - エンタメダッシュ
+
+<!-- end list -->
+
+  - 7:00 - TODAY'S HEADLINE（ニッポン放送ニュース・天気予報・交通情報）
+  - 7:10 - なるほどニュースネットワーク（[お早うネットワーク](https://ja.wikipedia.org/wiki/お早うネットワーク "wikilink")枠・NRN系列20局ネット）
+  - 7:25 - スポーツ人間模様
+  - 7:30 - 交通情報
+  - 7:33 - TODAY'S HEADLINE（ニッポン放送ニュース・天気予報）
+  - 7:40 - [ハッピーモーニング・黒木瞳のいってらっしゃい](https://ja.wikipedia.org/wiki/SUZUKIハッピーモーニング・いってらっしゃいシリーズ "wikilink")→ [ハッピーモーニング・鈴木杏樹のいってらっしゃい](https://ja.wikipedia.org/wiki/SUZUKIハッピーモーニング・いってらっしゃいシリーズ "wikilink")（NRN系列全国ネット）
+  - 7:45 - [ラジオナビ 痛快\!森永総研](https://ja.wikipedia.org/wiki/日産ラジオナビ "wikilink")
+  - 7:56 - 交通情報
+
+<!-- end list -->
+
+  - 8:00 - TODAY'S HEADLINE（ニッポン放送ニュース）（報道部：[岩下方彦](https://ja.wikipedia.org/wiki/岩下方彦 "wikilink")）
+  - 8:03 - お便りもりだくSUN
+  - 8:12 - サラリーマンぼやきカルタ募集
+  - 8:15 - インフォメーションダッシュ
+  - 8:20 - リクエストもりだくSUN
+  - 8:28 - サラリーマンぼやきカルタ優秀作発表、エンディング（CMなしで、そのまま次の番組に接続）
+
+## 脚注
+
+<references />
+
+## 外部リンク
+
+  - [森永卓郎の朝はモリタク\! もりだくSUN 番組Webサイト](http://www.1242.com/moritaku/)
+
+[Category:ニッポン放送の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の帯番組の歴史 "wikilink") [Category:ニッポン放送の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送の情報・ワイドショー番組 "wikilink") [Category:ニッポン放送のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のニュース・報道番組 "wikilink") [Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink")
+
+1.
+2.

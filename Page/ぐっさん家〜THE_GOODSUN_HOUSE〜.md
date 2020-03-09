@@ -1,0 +1,445 @@
+> この記事は[THE GOODSUN HOUSE](https://ja.wikipedia.org/wiki/THE_GOODSUN_HOUSE)から翻訳されています。
+
+
+『**ぐっさん家 〜THE GOODSUN HOUSE〜**』（ぐっさんち ザ・グッドサン・ハウス）は、[東海テレビほかで放送されている](../Page/東海テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。通称「**ぐっさん家**」。製作局の東海テレビでは[2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送開始。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（2007年7月から）、[ステレオ放送](../Page/ステレオ放送.md "wikilink")。
+
+## 概要
+
+「ぐっさん」こと[山口智充](https://ja.wikipedia.org/wiki/山口智充 "wikilink")が[東海3県](https://ja.wikipedia.org/wiki/東海3県 "wikilink")での生活を楽しむ模様を毎回放送している番組である。山口は[名古屋市](../Page/名古屋市.md "wikilink")内にある[アパート](../Page/アパート.md "wikilink")の一室を借りて生活しており、そのアパートを拠点に東海3県各地の名所を散策するという設定で出演している。
+
+山口が住んでいるという設定のアパートは実際に名古屋市内にある物件で、番組の収録はそこを拠点に行われている。家賃3万円のかなり年季が入ったアパートで、部屋には様々な小物が所狭しと飾ってある。山口はこの番組の収録時には、屋外ロケの際に買い漁った家財道具や生活用品を使用している。2009年頃から東海テレビ本社内のスタジオにアパートの室内を再現してゲストを招き、観覧希望者も入れて[公開収録形式で放送されることがあったが](https://ja.wikipedia.org/wiki/公開放送 "wikilink")、2016年8月現在公開放送は行われていない模様。
+
+屋外ロケにおいては、山口が飲食店で出される料理を食べたり、街をブラブラしながら道行く人と話をしたり、スポーツをしたり、ドライブをしたり、[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")の免許を取得してツーリングをしたりとその内容は至ってシンプルで、バラエティ番組らしい企画は少ない。その一方で、かなり凝った演出を入れる回もある。また、年に数回ほど遠方の名所まで旅することもある。番組制作陣もロケに参加するのがこの番組の特徴で、参加者は山口と一緒にその日の企画を楽しんでいる。ADの「石賀君」といった名物キャラクターも輩出した。
+
+この番組は、当初、製作局の東海テレビのみで放送されていたが、長寿番組化するとともに徐々にネット局を増やしていった（ネット局についての詳細は後述）。東海テレビでは当初から一貫して土曜日に放送されているが、放送時間の変動が多く、16時台 → 13時台 → 16時台と移動を繰り返していた。そして、2010年10月2日放送分からは『[発見\!わくわくMY TOWN](https://ja.wikipedia.org/wiki/発見!わくわくMY_TOWN "wikilink")』の後番組として18時30分枠で放送されることになった。ただし、東海テレビが一貫して土曜日18時30分からの放送に拘るがゆえ、キー局である[フジテレビが土曜](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")18時30分から放送するスペシャル番組については東海テレビでは19時からの短縮版で放送されることがある。
+
+なお、番組の[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")は東海テレビでのみ、日曜日の夕方に不定期で行われている。山口自身は土曜日午前の関西テレビ制作の生放送番組『[にじいろジーン](https://ja.wikipedia.org/wiki/にじいろジーン "wikilink")』に出演しているため東海テレビでは本番組と合わせ土曜日に2つの番組がレギュラーとして放送されている形となった。
+
+## 出演者
+
+### メイン
+
+  - [山口智充](https://ja.wikipedia.org/wiki/山口智充 "wikilink")（[DonDokoDon](https://ja.wikipedia.org/wiki/DonDokoDon "wikilink")）
+    名古屋市内のアパートの一室を借り、そこで日々暮らしながら東海3県での生活を楽しんでいるという設定で出演。山口はこの番組のロケを通じて様々な場所を訪れており、名古屋市内では[セントラルパーク](https://ja.wikipedia.org/wiki/久屋大通公園 "wikilink")、[名古屋テレビ塔](../Page/名古屋テレビ塔.md "wikilink")、[金山総合駅](../Page/金山駅_\(愛知県\).md "wikilink")、[大須](https://ja.wikipedia.org/wiki/大須 "wikilink")商店街、[名古屋港](../Page/名古屋港.md "wikilink")などを、市外では[豊橋市](https://ja.wikipedia.org/wiki/豊橋市 "wikilink")、[知立市](../Page/知立市.md "wikilink")、[江南市](../Page/江南市.md "wikilink")、[ラグーナ蒲郡](https://ja.wikipedia.org/wiki/ラグーナ蒲郡 "wikilink")、[日本モンキーパーク](https://ja.wikipedia.org/wiki/日本モンキーパーク "wikilink")、[鳳来町](../Page/鳳来町.md "wikilink")（現在は[新城市](https://ja.wikipedia.org/wiki/新城市 "wikilink")）、[日間賀島](https://ja.wikipedia.org/wiki/日間賀島 "wikilink")（以上[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")）、[下呂町](https://ja.wikipedia.org/wiki/下呂町 "wikilink")（現在は[下呂市](https://ja.wikipedia.org/wiki/下呂市 "wikilink")）、[高山市](../Page/高山市.md "wikilink")（以上[岐阜県](../Page/岐阜県.md "wikilink")）、[伊勢神宮](https://ja.wikipedia.org/wiki/伊勢神宮 "wikilink")、[ジャズドリーム長島](https://ja.wikipedia.org/wiki/三井アウトレットパーク_ジャズドリーム長島 "wikilink")（以上[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")）などを訪れた。また、[軽井沢町](../Page/軽井沢町.md "wikilink")（[長野県](../Page/長野県.md "wikilink")）や[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")、[高知県](../Page/高知県.md "wikilink")などの遠隔地へも訪れている。
+
+### ナレーター
+
+この番組のナレーションは、通常の音声のみのナレーションと、その回で山口が取る行動のあらすじを[講談](https://ja.wikipedia.org/wiki/講談 "wikilink")風に語るナレーションシーンによって構成されている。
+
+**現在**
+
+  - [春野恵子](https://ja.wikipedia.org/wiki/春野恵子 "wikilink")
+    神田山陽に代わり2016年[10月1日](../Page/10月1日.md "wikilink")放送分から担当。あらすじ紹介シーンでは春野の背後（画面向かって右奥）にいる曲師の[一風亭初月](https://ja.wikipedia.org/wiki/一風亭初月 "wikilink")が演奏する三味線に合わせて語っている。
+
+**過去**
+
+  - [神田山陽](https://ja.wikipedia.org/wiki/神田山陽_\(3代目\) "wikilink")
+    2003年4月5日放送分から2005年9月24日放送分まで担当した後、文化庁の文化交流使として[イタリア](../Page/イタリア.md "wikilink")へ留学。2006年11月に帰国して番組に復帰した。[2016年](../Page/2016年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")放送分をもって卒業。
+  - [国本武春](https://ja.wikipedia.org/wiki/国本武春 "wikilink")
+    2005年10月1日放送分から担当。神田が復帰してからはほぼ隔週ペースで交互にナレーションを担当していた。
+  - [高井一](https://ja.wikipedia.org/wiki/高井一_\(アナウンサー\) "wikilink")（東海テレビアナウンサー）
+    この番組のナレーションは基本的に上記の2人が担当しているが、時折高井がナレーションを担当する回がある。その際には『[FNN東海テレビスーパーニュース](https://ja.wikipedia.org/wiki/FNN東海テレビスーパーニュース "wikilink")』のニューススタジオからニュース風に紹介するシーンもある。
+
+2014年以降は国本や高井の出演は無く、ナレーターは神田1人に固定されていた模様。なお[2015年](../Page/2015年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に国本が急逝した後も、番組公式サイトでは国本がキャストの1人として挙げられていたが、2016年4月時点では削除済となっている。
+
+### 大橋さんと小橋さん
+
+名古屋市内の煙突の天辺に住んでいるという[鳥](../Page/鳥類.md "wikilink")。
+
+  - 大橋さん
+    生物学上での分類は[脊椎動物](../Page/脊椎動物.md "wikilink")鳥綱[キツツキ目](../Page/キツツキ目.md "wikilink")[オオハシ科](https://ja.wikipedia.org/wiki/オオハシ科 "wikilink")オオハシ。その回で山口が取る行動を観察し、番組の所々で視聴者にその時点までのあらすじなどを伝えている。鳴き声は「ハタハタッ\!」。
+  - 小橋さん
+    生物学上での分類は大橋さんの子供。父親と同様に山口のその日の行動を伝える役割を担っているが、父親よりも優れた着眼点でより事細かに紹介する。鳴き声は「パタパタッ\!」。
+
+長らくマスコットキャラクターとして番組に登場。2013年に『ハレルヤキッド』が登場したのを機に番組からは姿を消し、番組ホームページ等で見られるのみとなっていたが、2017年10月からオープニング及び番組途中に放送されるアニメーションに再登場。大橋さんの「ハタハタッ\!」の声も聞くことが出来る。
+
+### スリーハラペコアニマルズ
+
+[着ぐるみ](https://ja.wikipedia.org/wiki/着ぐるみ "wikilink")姿で登場する3人組。2009年現在の放送ではウサギ?とミッキー?の2人だけが出演している。3人組だった頃は山口に同行し、「腹減ったなぁ…。」のセリフを合図に背後で踊り出す。山口がフレームアウトした（画面内から外れた）のち、タヌキ?とウサギ?が何かしらの理由を付けて喧嘩をし始め、ミッキー?が「嫌だよぉ。やだやだ…。」と言って場を締める。タヌキ?の脱退後は『ハラペコアニマルズ』と改称。2014年3月現在、ウサギ?とミッキー?は番組のあらすじを紹介する神田山陽の両脇に陣取り、ハレルヤキッドと共に場を盛り上げるのが主な役目となっている。なお、それぞれの名前に「?」が付いているが、これが公式の名称。
+
+  - タヌキ?
+    演 - 山口大介（[けんだま](https://ja.wikipedia.org/wiki/けんだま_\(お笑い\) "wikilink")）
+    2006年3月に脱退。
+  - ウサギ?
+    演 - 泉聡（[オレンジ](https://ja.wikipedia.org/wiki/オレンジ_\(お笑い\) "wikilink")）
+    TEAM THE GOODSUN HOUSEメンバーとしても出演。
+  - ミッキー?
+    演 - 田中哲也（オレンジ）
+    TEAM THE GOODSUN HOUSEメンバーとしても出演。
+
+### ハレルヤキッド
+
+2013年に登場した番組の新マスコットキャラクター。山口がデザインを手がけたもので、少年の姿をしており、太陽マークの付いた白い帽子をかぶり、胴体は山口が番組内で愛用している白いジープとスイカを組み合わせたデザインになっている。番組公式サイトにあるプロフィールによると、性格は「とにかく元気いっぱい！何でも前向きな男の子　晴れた日と太陽が大好き！」、大好物は「スイカ・タコ・肉・トウモロコシ・梨・わらび餅」とある。アニメーションの他に着ぐるみもあり、着ぐるみは神田山陽のあらすじ紹介の際に神田の背後に陣取り場を盛り上げる他、「ぐっさんち なごやずかん」のコーナーでは街へ出掛けていた。しかし、2016年10月にナレーターが春野恵子に交代したのを機に着ぐるみは姿を消した。アニメーションはタイトルコールや視聴者プレゼントのコーナー等に登場し、時々「イェーイ\!」という歓声を上げる。
+
+## 主なゲスト
+
+この番組のゲストは、山口にその存在すら知らせずにドッキリで登場することが多い。また、ゲストが来るということだけは知らされているものの、誰が来るかは秘密というパターンもある。
+
+  - [高見映](https://ja.wikipedia.org/wiki/高見映 "wikilink")（[NHK教育テレビ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")『[できるかな](https://ja.wikipedia.org/wiki/できるかな "wikilink")』のノッポさん） - 少年時代の山口憧れの人。ぐっさん家への来訪を望む手紙を書く回から、実際に来訪。
+  - [木村充揮](https://ja.wikipedia.org/wiki/木村充揮 "wikilink")（ブルースバンド[憂歌団](https://ja.wikipedia.org/wiki/憂歌団 "wikilink")リードボーカル） - 番組初のシークレットゲスト。山口憧れの歌手。
+  - [渡辺美里](../Page/渡辺美里.md "wikilink") - 山口憧れの歌手。ぐっさん家に招き入れたり、軽井沢デートをしたり、ドライブデートをしたり、渡辺の[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")に山口がゲスト出演したり、逆に渡辺が山口の「ザ・グッドサンハウス ライブSHOW」に映像出演したりするなど登場頻度が高い。
+  - 山口賢浩（山口の実兄）
+  - [横山剣](https://ja.wikipedia.org/wiki/横山剣 "wikilink")（[クレイジーケンバンド](https://ja.wikipedia.org/wiki/クレイジーケンバンド "wikilink")） - 2003年8月9日放送分で、山口がアイスを食べながら市民プールから帰る途中に[オープンカー](../Page/オープンカー.md "wikilink")に乗って現れ、「夏、プール、アイス、いーねっ\!」と言い残して去っていった。このようなオープンカーに乗って一言残すパターンが横山出演時の定番になった。そのため、出演回数は多いものの山口との絡みは少なく、3度目の出演にしてようやく山口と会話をした。横山はこの番組を気に入っており、似たような番組をやりたがっている。
+  - [戸田恵子](../Page/戸田恵子.md "wikilink") - かつてはしばしばゲスト出演していた。
+  - 沢信之（[タックイン](https://ja.wikipedia.org/wiki/タックイン_\(お笑いコンビ\) "wikilink")） - 地元[名古屋吉本所属の芸人](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー東海支社 "wikilink")。特技の[ルービックキューブ](../Page/ルービックキューブ.md "wikilink")を披露するために、天体観測が趣味である沢が[名古屋市科学館](https://ja.wikipedia.org/wiki/名古屋市科学館 "wikilink")で[プラネタリウム](../Page/プラネタリウム.md "wikilink")を観ていたところをぐっさん家に呼び寄せられたのが初登場の経緯。それ以降も沢は時折番組に出演している。
+  - [笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")
+  - [山本耕史](https://ja.wikipedia.org/wiki/山本耕史 "wikilink")
+  - [ブラザートム](https://ja.wikipedia.org/wiki/ブラザートム "wikilink") - この番組を気に入っており、ある所で「トムさん家」という企画を提案したらパクリであることを指摘されたと語っている。
+  - [トータス松本](https://ja.wikipedia.org/wiki/トータス松本 "wikilink")
+  - [西川かの子](https://ja.wikipedia.org/wiki/西川かの子 "wikilink")
+  - [今いくよ・くるよ](https://ja.wikipedia.org/wiki/今いくよ・くるよ "wikilink")
+  - [ぼんちおさむ](https://ja.wikipedia.org/wiki/ぼんちおさむ "wikilink")
+  - [甲斐よしひろ](https://ja.wikipedia.org/wiki/甲斐よしひろ "wikilink")
+  - [西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")
+  - [泉谷しげる](../Page/泉谷しげる.md "wikilink")
+  - [長原成樹](https://ja.wikipedia.org/wiki/長原成樹 "wikilink")
+  - [佐藤弘道](https://ja.wikipedia.org/wiki/佐藤弘道 "wikilink")
+  - [中村あゆみ](https://ja.wikipedia.org/wiki/中村あゆみ "wikilink")
+  - [西川ヘレン](https://ja.wikipedia.org/wiki/西川ヘレン "wikilink")
+  - [木村明浩](https://ja.wikipedia.org/wiki/木村明浩 "wikilink")（[バッファロー吾郎](../Page/バッファロー吾郎.md "wikilink")） - かねてからこの番組を観ていたらしく、出演オファーも出していたという。その結果、後述の「ザ・グッドサンハウスライブSHOW」のオープニング映像クリップに出演。さらに、飛騨高山へのドライブ企画でサプライズゲストとして出演を果たした。
+  - [博多華丸・大吉](https://ja.wikipedia.org/wiki/博多華丸・大吉 "wikilink")
+  - [照英](https://ja.wikipedia.org/wiki/照英 "wikilink")
+  - [羽田美智子](https://ja.wikipedia.org/wiki/羽田美智子 "wikilink")
+  - [ベッキー](https://ja.wikipedia.org/wiki/ベッキー "wikilink")
+  - [神奈月](https://ja.wikipedia.org/wiki/神奈月 "wikilink")
+  - [田中律子](https://ja.wikipedia.org/wiki/田中律子 "wikilink")
+  - [ジョン・カビラ](../Page/ジョン・カビラ.md "wikilink")
+
+ほか
+
+## シリーズものの企画
+
+  - 行列の店へ行く
+    視聴者から寄せられた情報等を元に、飲食店へ出かける企画。グルメリポートを専門とする番組では複数軒の店を回るのが一般的だが、この番組の企画では1軒のみをたっぷり時間をかけて取材することが多い。
+  - 46分テープドライブ旅
+    山口が選曲した46分間の[カセットテープ](https://ja.wikipedia.org/wiki/カセットテープ "wikilink")を聴きながらドライブをする企画。テープが終了した時点で目的地にたどり着けなかったとしても、旅も終了となる。
+  - ドライブ
+    自動車に乗って気ままに旅をする企画。実施し始めたばかりの頃は時間切れによって旅が中途半端に終わったりもしたが、後に目的地を決めてドライブをするようになった。企画初期では[日産・サニートラック](../Page/日産・サニートラック.md "wikilink")に乗車していたが、2009年現在では[三菱・ジープ](https://ja.wikipedia.org/wiki/三菱・ジープ "wikilink")を愛車に用いている。現在のジープは相当程度車高を上げる改造をしているが、適法な手続きが取られているか明らかにされていない。
+  - 買い物
+    山口が住む部屋に置く家財道具を買いに[家電量販店](https://ja.wikipedia.org/wiki/家電量販店 "wikilink")や[アウトレットモール](https://ja.wikipedia.org/wiki/アウトレットモール "wikilink")などへ行く企画。山口はこの企画の最中に四角[フェチ](../Page/フェチ.md "wikilink")ぶりを発揮する。
+  - 建物探訪
+    名古屋の様々なマイホームを拝見する企画。山口はこの企画においても四角フェチぶりを発揮する。
+  - 男たちの旅シリーズ
+    番組の制作スタッフとともに遠隔地まで旅をする企画。[鳳来町](../Page/鳳来町.md "wikilink")（現・[新城市](https://ja.wikipedia.org/wiki/新城市 "wikilink")）の[赤引温泉](https://ja.wikipedia.org/wiki/赤引温泉 "wikilink")や岐阜県の[下呂温泉](https://ja.wikipedia.org/wiki/下呂温泉 "wikilink")などといった比較的名古屋から近く、かつそれなりに距離がある場所まで出掛けるのがメインだが、時には[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")などといった遥か遠くの土地まで出掛けることもある。
+  - 誰かさんとキャッチボール
+    公園にいる人たちと気ままにキャッチボールをする企画。サプライズゲストが登場した際には、彼らとキャッチボールをすることもある。
+  - ぐっさん車窓から
+    『[世界の車窓から](https://ja.wikipedia.org/wiki/世界の車窓から "wikilink")』のパロディ企画で、電車で目的地まで向かう途中でワンコーナーとして放送される。
+  - リアル野球盤
+    [草野球場に](https://ja.wikipedia.org/wiki/日本のアマチュア野球 "wikilink")[野球盤](../Page/野球盤.md "wikilink")をセッティングして[キックベースボール](../Page/キックベースボール.md "wikilink")をする企画。スタッフをチームメンバーに、少年草野球チームなどと対戦する。
+  - ○○部（TEAM THE GOODSUN HOUSE ; チーム ザ グッドサンハウス）
+    上記のリアル野球盤から派生した企画で、チームスポーツをする。[流しそうめんや](https://ja.wikipedia.org/wiki/素麺#食べ方 "wikilink")[わんこそば](../Page/わんこそば.md "wikilink")など真剣に取り組むのがばかばかしく感じるようなことを、スポ根アニメのようなノリで敢えて真剣に行う。他のスタッフがリアル野球盤や旅などを楽しむ中、前述の石賀君だけが[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")や[ファミコンを孤独に黙々とプレイし](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")、山口に怒られてしまうなどといった予定調和ネタが多く含まれている。なお、石賀君はその後ディレクターに昇格した。
+  - 大型二輪免許取得に挑戦 → ツーリング旅
+    山口が通常の番組収録の合間に、名古屋市内の自動車教習所でスタッフ3人とともに6か月間かけて大型バイク（大型自動二輪車）の免許を取得。そして、男4人で北海道までツーリングの旅に出掛けた。その後も[渥美半島](https://ja.wikipedia.org/wiki/渥美半島 "wikilink")の[伊良湖岬](https://ja.wikipedia.org/wiki/伊良湖岬 "wikilink")までツーリングしたり、派生企画として原チャリ（[原動機付自転車](../Page/原動機付自転車.md "wikilink")）でのツーリングを行っている。
+  - ヨコワケハンサムぐっさん
+    山口が正装で[フランス料理](../Page/フランス料理.md "wikilink")、[中華料理](../Page/中華料理.md "wikilink")、[懐石料理](https://ja.wikipedia.org/wiki/懐石料理 "wikilink")を堪能する企画。
+  - 一貫寿司巡り
+    山口が和服姿で名古屋市内の[寿司](https://ja.wikipedia.org/wiki/寿司 "wikilink")店を巡り、その店おすすめの一貫だけを食べ歩く企画。
+  - ○○時の方向へ○○km進む旅
+    初回放送で訪れた大須商店街をスタート地点とし、放送年数の数の時計の方向へ、数の分の距離を旅する。スタート時刻も年数にかけられている。元々は2012年の番組10周年企画として山口がプロデュースしたもので、2013年以降も毎年春に放送されている。
+  - 「ザ・グッドサン・ビーチハウス」プロジェクト
+    ぐっさん家の第2の拠点となる別宅を知多半島（[美浜町](../Page/美浜町_\(愛知県\).md "wikilink")）の海沿いに建てるプロジェクト。
+    2017年夏に設計段階からスタートし、2018年春時点で2基のコンテナハウスが完成している。
+
+## 演出
+
+舞台設定や毎回の企画内容に加え、その独特の演出技法もこの番組の特徴になっている。2006年3月以前と2006年4月以降とでは演出が大きく異なっている部分がある。
+
+  - オープニング
+    各回ごとに「ぐっさん、○○するの巻」などといった[サブタイトル](https://ja.wikipedia.org/wiki/サブタイトル "wikilink")が付けられる。2006年3月以前は各回のサブタイトルは[テロップで表示されるのみでナレーション等は付かなかった](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")。2006年4月からは山口自らがタイトルコールをするようになった。このタイトルコールはCM明けにも挿入されるようになった。
+  - スリーハラペコアニマルズ
+    以下は食事シーンの前によく行われていたお約束のやり取りである。
+    1.  山口が「あー、腹減ったなー」と言う。
+    2.  突然、着ぐるみ3人組（スリーハラペコアニマルズ）が現れ、山口と一緒に踊り出す。
+    3.  音楽が終わると同時にアニマルズが倒れる。
+    4.  山口が[あるあるネタ](https://ja.wikipedia.org/wiki/あるあるネタ "wikilink")を言って画面からはける。
+    5.  アニマルズのミッキー?がウサギ?に対して怒り出す。
+    6.  タヌキ?が「やだよぉ、やだやだ」と言って仲裁する。
+    7.  これらを行ってから食事シーンに入る。
+    ただし、回を重ねるごとに徐々に型から外れていき、末期では原型を留めていない状態になっていた。2006年4月からはタヌキ?が脱退して「ハラペコアマルズ」となり、このやり取りは無くなった。代わりに、番組の合間に挿入される講談風のあらすじ紹介のシーンで、神田や国本の後ろで踊ったりするようになった。
+  - 大橋さんと小橋さん
+    大橋さんと小橋さんの登場シーンは番組中の随所に挿入される。主にその回での山口の行動を語って、その時点までのあらすじを紹介するのが彼らの役割だった。2006年4月からは各回のタイトルコール時に画面の端に登場するのみとなった。2007年4月からはタイトルコールの演出が少し派手になった。しかし2013年に『ハレルヤキッド』が登場して以降、タイトルコール時には大橋さんと小橋さんに代わってハレルヤキッドのアニメーションが登場する様になり、オンエア上は大橋さんと小橋さんは一時姿を消したが、その後のリニューアルで「ぐっさん家の玄関から部屋に入る」演出が加わり、大橋さんと小橋さんも再び登場するようになった。
+  - 町歩きデジャビュ
+    山口が一度行った街にもう一度行き、スタッフは前回と全く同じ展開になるように仕込みをする。
+  - 情熱大陸
+    毎年秋頃にはなぜか[ドキュメンタリー](https://ja.wikipedia.org/wiki/ドキュメンタリー "wikilink")のような演出になり、『[情熱大陸](https://ja.wikipedia.org/wiki/情熱大陸 "wikilink")』のテーマ曲が使われる回がある。
+  - アフロヘアーズ
+    初期にはスタッフが色とりどりの[アフロヘアー](https://ja.wikipedia.org/wiki/アフロヘアー "wikilink")のカツラを被りながら撮影を行っていた。2009年現在の収録では行われていないようである。
+
+## ミニコーナー
+
+いずれも番組後半のCM前に放送される。
+
+  - ぐっさんのごきげんレディオSHOW
+    ラジオのDJに扮した山口がアパートの自室で自ら選曲した音楽をBGMに視聴者からのお便りを紹介するコーナー。
+  - ぐっさんち なごやずかん
+    2015年6月から始まった新コーナー。山口扮するキャラクター「グット兄さん」が名古屋の街にあるいろいろなものを紹介するもので、ハレルヤキッドがその現場を訪れる。
+  - 気になるぐっさん家
+    2016年9月頃から始まった新コーナー。「ぐっさんが番組中よく口にする『谷やん』\[1\]とは何者か」等、番組に関する視聴者からの素朴な疑問を解明するコーナー。
+
+## 特別企画
+
+### 東海テレビまつり
+
+2005年11月5日から11月6日まで、[久屋大通公園](https://ja.wikipedia.org/wiki/久屋大通公園 "wikilink")にて野外イベント「**やっぱイチバン\!東海テレビまつり2005 produced by ぐっさん家**」が開催された。8回目を迎えたこの回の東海テレビまつりは『ぐっさん家』によるプロデュースで、過去に山口が考案した「イカパン」\[2\]が400円で販売された。また、会場ではこの番組で山口が住むという設定のアパート「ぐっさん家」の室内を再現したブースや、番組企画の「リアル野球盤」を再現したブースがあり、来場者はぐっさん家ワールドを体感することができた。
+
+イベント開催期間中の11月5日放送分では、放送時間を17時20分までに大幅に拡大しての[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")が行われた。内容は、その日に訪れるサプライズゲストのためにぐっさん家でお手製[カレーライス](../Page/カレーライス.md "wikilink")を作ってもてなし、その後で東海テレビまつりの会場まで移動するというものだった。サプライズゲストは[名古屋駅](../Page/名古屋駅.md "wikilink")での登場時より覆面を被り、山口だけでなく視聴者にもその正体が分からないようにしていた。ゲストは名古屋駅での進行役を務めた高井一とともにオープンカーでぐっさん家まで移動した後、部屋の中で覆面を取った。その結果、ゲストは[トータス松本](https://ja.wikipedia.org/wiki/トータス松本 "wikilink")だと判明した。トータスは東海テレビまつりの会場までの移動中、山口が作ったカレーライスを一緒に食べていた。会場への到着後は2人で「バンザイ 〜好きでよかった〜」を観客たちの前で熱唱し、その日の生放送は終了した。
+
+### ザ・グッドサンハウスライブSHOW
+
+2006年7月23日、愛知県[知多郡](../Page/知多郡.md "wikilink")[美浜町の小野浦海岸にて野外イベント](../Page/美浜町_\(愛知県\).md "wikilink")「**ザ・グッドサンハウス ライブSHOW**」が開催された。これは、東海テレビが主催する「まるごと夏まつり 美浜海遊祭2006」の一企画として催されたライブコンサートで、山口がその日のゲストとともに歌やトークを披露していた。ゲスト勢は[木村充揮](https://ja.wikipedia.org/wiki/木村充揮 "wikilink")、[ぼんちおさむ](https://ja.wikipedia.org/wiki/ぼんちおさむ "wikilink")、[オレンジ](https://ja.wikipedia.org/wiki/オレンジ_\(お笑い\) "wikilink")、[ブラザートム](https://ja.wikipedia.org/wiki/ブラザートム "wikilink")、山口賢浩（山口の実兄）といった過去に番組に出演した芸能人のほか、シークレットゲストとして[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")や[泉谷しげる](../Page/泉谷しげる.md "wikilink")が訪れ、山口とのセッションを楽しんだ\[3\]。
+
+### 名古屋民放5局によるあいのり企画
+
+東海テレビほか名古屋の民放テレビ局5局が共同製作した[地上デジタル放送推進特番](../Page/地上デジタルテレビ放送.md "wikilink")『[民放5局史上最大のコラボレーション\!地デジ夏祭り2006](https://ja.wikipedia.org/wiki/Big_Wave〜波に乗れ!ナゴヤの地デジ "wikilink")』が2006年8月12日に放送されるのに先駆け、各局の人気番組の出演者が他局の人気番組にゲストで出演するというコラボレーション企画が実施された。その際にこの『ぐっさん家』が東海テレビの代表番組に選ばれ、[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")の『[そこが知りたい 特捜\!板東リサーチ](https://ja.wikipedia.org/wiki/そこが知りたい_特捜!板東リサーチ "wikilink")』で進行役を務めている[板東英二](../Page/板東英二.md "wikilink")が出演した。この当時はまだ番組の収録は4:3比の[標準画質で行われていたが](https://ja.wikipedia.org/wiki/標準画質映像 "wikilink")、この日のみハイビジョンで放送され、アナログ放送でも[レターボックス形式で放送された](https://ja.wikipedia.org/wiki/レターボックス_\(映像技術\) "wikilink")。なお、山口は[テレビ愛知](../Page/テレビ愛知.md "wikilink")の『[遊びに行こっ\!](https://ja.wikipedia.org/wiki/遊びに行こっ! "wikilink")』に出演した\[4\]。
+
+## スタッフ
+
+  - 構成 - 荻巣しぐれ、森下ゆうじ、濱田健吾 [リブー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")
+  - AP - 松永麻子
+  - ディレクター - 柳田俊介、福岡正樹、名倉大悟
+  - チーフディレクター - 久野貴史
+  - プロデューサー - 安井一人・嶋崎悠介（東海テレビ）、石井英亮（[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")）
+  - 制作・著作 - 東海テレビ
+
+## 放送局
+
+### 現在のネット局
+
+<table>
+<thead>
+<tr class="header">
+<th><p>放送対象地域</p></th>
+<th><p>放送局</p></th>
+<th><p>系列</p></th>
+<th><p>放送日時</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/東海3県" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/東海テレビ放送.md" title="wikilink">東海テレビ</a>（THK）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジネットワーク" title="wikilink">フジテレビ系列</a></p></td>
+<td><p>土曜 16:25 - 16:55 （2003年4月 - 2006年3月）<br />
+土曜 13:30 - 14:00 （2006年4月 - 2007年3月）<br />
+土曜 16:55 - 17:25 （2007年4月 - 2010年9月）<br />
+土曜 18:30 - 19:00 （2010年10月 - ）</p></td>
+<td><p><strong>製作局</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/さくらんぼテレビジョン.md" title="wikilink">さくらんぼテレビ</a>（SAY）</p></td>
+<td><p>日曜 6:25 - 6:55 （2019年2月現在）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
+<td><p><a href="../Page/富山テレビ放送.md" title="wikilink">富山テレビ</a>（BBT）</p></td>
+<td><p>木曜 1:35 - 2:05 （水曜深夜、2019年2月現在）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
+<td><p><a href="../Page/長野放送.md" title="wikilink">長野放送</a>（NBS）</p></td>
+<td><p>火曜 1:00 - 1:30 （月曜深夜、2009年4月 - 2010年3月） 火曜 1:10 - 1:40 （月曜深夜、2010年8月 - 2011年3月28日）</p>
+<p>金曜 14:50 - 15:20（2017年4月7日[5] - 2018年3月30日）</p>
+<p>金曜 16:19 - 16:49（2018年4月6日 - 2019年3月29日）</p>
+<p>金曜 1:00 - 1:30（木曜深夜、2019年4月5日[6] - ）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/兵庫県.md" title="wikilink">兵庫県</a></p></td>
+<td><p><a href="../Page/サンテレビジョン.md" title="wikilink">サンテレビ</a>（SUN）</p></td>
+<td><p><a href="../Page/独立放送局.md" title="wikilink">独立局</a></p></td>
+<td><p>火曜 20:54 - 21:24 （2010年4月 - ）</p></td>
+<td><p>プロ野球中継『<a href="../Page/サンテレビボックス席.md" title="wikilink">サンテレビボックス席</a>』の放送時は休止 （雨天など中止の時は放送あり）</p>
+<p>「名古屋にさんまさんがやって来ちゃったよSP」は2018年1月10日（9日深夜）に本来の系列局<a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a>（近畿広域圏）で放送</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
+<td><p><a href="../Page/NST新潟総合テレビ.md" title="wikilink">NST新潟総合テレビ</a>（NST）[7]</p></td>
+<td><p>フジテレビ系列</p></td>
+<td><p>木曜 15:00 - 15:31 （2012年4月12日 - 2012年10月4日）<br />
+金曜 16:22 - 16:50 （2016年2月12日 - 2016年4月1日）<br />
+金曜 16:20 - 16:50 （2016年4月8日 - 2017年3月31日）<br />
+不定期放送（2017年4月 - ）</p></td>
+<td><p>2012年3月以前は不定期放送。<br />
+以降、レギュラー放送や不定期放送の時期があり、<br />
+2017年4月より不定期放送をしている。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
+<td><p><a href="../Page/石川テレビ放送.md" title="wikilink">石川テレビ</a>（ITC）</p></td>
+<td><p>不定期放送</p></td>
+<td><p>主に平日の16時台に放送</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/島根県.md" title="wikilink">島根県</a>・<a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送" title="wikilink">山陰中央テレビ</a>（TSK）</p></td>
+<td><p>不定期放送（2015年1月25日 - ）</p></td>
+<td><p>主に日曜の13～16時に放送</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a>・<a href="../Page/香川県.md" title="wikilink">香川県</a></p></td>
+<td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a>（OHK）</p></td>
+<td><p>不定期放送</p></td>
+<td><p>主に穴埋め番組として放送</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 過去のネット局
+
+このうち、KBS京都は過去に取材で訪れた様子が放送されたことがある。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>放送対象地域</p></th>
+<th><p>放送局</p></th>
+<th><p>系列</p></th>
+<th><p>放送日時</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
+<td><p><a href="../Page/北海道文化放送.md" title="wikilink">北海道文化放送</a>（uhb）</p></td>
+<td><p>フジテレビ系列</p></td>
+<td><p>日曜 6:25 - 6:55 （ - 2019年3月）</p></td>
+<td><p>2019年3月でレギュラー放送打ち切り、以後不定期放送。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/秋田テレビ" title="wikilink">秋田テレビ</a></p></td>
+<td><p>木曜 15:00 - 15:30 （2005年頃 - 不明）<br />
+金曜 15:30 - 16:00 （2009年4月 - 2012年3月）<br />
+日曜 9:00 - 9:30 （2012年4月 - 2012年9月）<br />
+金曜 1:30 - 2:00（木曜深夜、2012年10月 - 2013年10月）<br />
+水曜 0:35 - 1:05（火曜深夜、2013年10月 - 2014年3月）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
+<td><p><a href="../Page/福島テレビ.md" title="wikilink">福島テレビ</a></p></td>
+<td><p>火曜 10:50 - 11:19（2018年4月3日 - 6月26日）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東広域圏</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a></p></td>
+<td><p>日曜 13:00 - 13:30 （2017年10月29日 - 2018年3月18日）</p></td>
+<td><p>定期放送以前は『<a href="https://ja.wikipedia.org/wiki/チャンネルα#日曜α" title="wikilink">日曜α</a>』枠で不定期放送</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
+<td><p><a href="../Page/テレビ愛媛.md" title="wikilink">テレビ愛媛</a></p></td>
+<td><p>不定期放送</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a></p></td>
+<td><p>不定期放送</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
+<td><p><a href="../Page/テレビ長崎.md" title="wikilink">テレビ長崎</a></p></td>
+<td><p>土曜 10:45 - 11:15 （2009年4月 - 2009年9月）<br />
+金曜 15:55 - 16:24 （2009年10月 - 2010年9月）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
+<td><p><a href="../Page/沖縄テレビ放送.md" title="wikilink">沖縄テレビ</a></p></td>
+<td><p>月曜 0:15 - 0:45 （日曜深夜、2004年4月 - 不明）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ大分" title="wikilink">テレビ大分</a></p></td>
+<td><p>フジテレビ系列・<a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a></p></td>
+<td><p>月曜 10:25 - 10:55 （2011年10月 - 2012年3月26日）</p></td>
+<td><p>放送休止になる場合あり。<br />
+2012年3月26日を以ってネット打ち切り。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/青森放送" title="wikilink">青森放送</a></p></td>
+<td><p>日本テレビ系列</p></td>
+<td><p>木曜 9:55 - 10:25 （2005年頃 - 2009年3月26日[8]）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/栃木県" title="wikilink">栃木県</a></p></td>
+<td><p><a href="../Page/とちぎテレビ.md" title="wikilink">とちぎテレビ</a></p></td>
+<td><p>独立局</p></td>
+<td><p>木曜 23:35 - 翌0:05 （2005年頃 - 不明）<br />
+木曜 23:35 - 翌0:05 （2008年7月 - 2009年4月）<br />
+水曜 23:35 - 翌0:05 （2009年4月 - 2010年3月）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
+<td><p><a href="../Page/テレビ神奈川.md" title="wikilink">テレビ神奈川</a></p></td>
+<td><p>不定期放送</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/京都府" title="wikilink">京都府</a></p></td>
+<td><p><a href="../Page/京都放送.md" title="wikilink">KBS京都</a></p></td>
+<td><p>木曜 22:30 - 23:00 （不明 - 2007年9月）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/全国放送.md" title="wikilink">日本全国</a></p></td>
+<td><p><a href="../Page/BSフジ.md" title="wikilink">BSフジ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本における衛星放送#デジタルによる衛星放送" title="wikilink">BS放送</a></p></td>
+<td><p>金曜 0:00 - 0:30 （木曜深夜、2004年4月 - 2009年3月26日[9]）</p></td>
+<td><p>　</p></td>
+</tr>
+</tbody>
+</table>
+
+## 脚注
+
+## 外部リンク
+
+  - [東海テレビ公式サイト内 ぐっさん家〜THE GOODSUN HOUSE〜](http://www.tokai-tv.com/gussan/) - 過去の放送内容を全て掲載している。
+
+[Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:東海テレビのバラエティ番組](https://ja.wikipedia.org/wiki/Category:東海テレビのバラエティ番組 "wikilink") [Category:東海テレビの紀行・旅番組](https://ja.wikipedia.org/wiki/Category:東海テレビの紀行・旅番組 "wikilink") [Category:吉本興業の番組](https://ja.wikipedia.org/wiki/Category:吉本興業の番組 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+
+1.  カメラマンの谷口たつみのこと。
+2.  番組では[イカ飯のご飯の部分がパンになっている物が考案されたが](https://ja.wikipedia.org/wiki/烏賊飯 "wikilink")、イベント会場で実際に売られていた物はパンにイカが乗せられたものだった。
+3.  [参照](http://www.tokai-tv.com/marugoto/mihama/index.html) 、参照の[バックアップ](http://megalodon.jp/?url=http%3A%2F%2Fwww.tokai-tv.com%2Fmarugoto%2Fmihama%2Findex.html&go=%E5%8F%96%E5%BE%97)、[参照2](http://www.tokai-tv.com/gussan/vgh/mihama/index.html)
+4.  [参照](https://web.archive.org/web/20070926215302/http://www.tv-aichi.co.jp/asobi/bk/1183739_1567.html)
+5.  2017年4月7日 信濃毎日新聞 テレビ欄
+6.  初回の4月5日は編成の都合により、1:30 - 2:00に放送。
+7.  2019年9月までは新潟総合テレビ。
+8.  当日の東奥日報テレビ欄から。
+9.

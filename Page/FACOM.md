@@ -1,0 +1,359 @@
+> この記事は[FACOM](https://ja.wikipedia.org/wiki/FACOM)から翻訳されています。
+
+
+**FACOM**（ファコム）とは、[富士通](../Page/富士通.md "wikilink")が自社製[コンピュータ](../Page/コンピュータ.md "wikilink")に使用していた[商標](../Page/商標.md "wikilink")。から（1967年の商号変更以前は ）。
+
+[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")では**フェイカム**と発音されるが、それは「ファコム」と発音すると、[英語](../Page/英語.md "wikilink")の  に似てしまうから、とも言われている。 [FACOM_logo.svg](https://ja.wikipedia.org/wiki/File:FACOM_logo.svg "fig:FACOM_logo.svg")
+
+## 100番台
+
+FACOMの番号付けは、100番台が[リレー式](../Page/継電器.md "wikilink")、200・210番台が[パラメトロン](https://ja.wikipedia.org/wiki/パラメトロン "wikilink")、以後は電子式（[トランジスタ](../Page/トランジスタ.md "wikilink")、[集積回路](../Page/集積回路.md "wikilink")）となっている。初期には、下2桁が00は試作機（100と200）、10の位は順番、1の位は計算機の桁数、という規則\[1\]や、10の位が0はパラメトロンで科学用、1はパラメトロンで事務用、2はトランジスタで大型汎用、3はトランジスタで科学用、4はトランジスタで事務用、という規則\[2\]もあったが、いずれも230シリーズより前の話である。初期には300番以降の番号もコンピュータに使われているが、後にはFACOM 603磁気テープ装置のように周辺機器にあてられている。
+
+以下で述べるFACOMの名の付いたリレー式計算機はプログラム制御方式である（という点ではコンピュータと言える）。プログラム制御方式であっても[プログラム内蔵方式](../Page/プログラム内蔵方式.md "wikilink")とするか否かは、具体的にどの程度メモリにプログラムを置けば「プログラム内蔵である」とするのかについて議論がある点だが、[高橋秀俊](https://ja.wikipedia.org/wiki/高橋秀俊 "wikilink")によれば、リレー計算機でプログラム内蔵方式を採用したものは無い、とされている（[プログラム内蔵方式](../Page/プログラム内蔵方式.md "wikilink")の記事を参照）。[情報処理学会](https://ja.wikipedia.org/wiki/情報処理学会 "wikilink")のコンピュータ博物館ウェブサイトでは、FACOM 128Aを「プログラム非内蔵」としている\[3\]。
+
+また日本ではコンピュータのことを**電算機**などと言うことがあり、「電算業務」といった形で**電算**と略しても使われているが、情報処理学会が歴史について調査した際に、学会誌『情報処理』に掲載された富士通における歴史を述べた記事\[4\]によれば、このリレーによる計算機の時代に計算サービスを開始した際に（「電子」じゃないけど、ということで）使い始めた言葉であろう、と書かれている。
+
+### 背景
+
+富士通信機製造では、1935年（昭和10年）頃から、リレーを使った装置の応用として演算回路を試作していた。1943年（昭和18年）には海軍からの委託で暗号解読装置を製作している（これらは塩川新助\[5\]、高田重男、青山鉄夫らによる\[6\]）。なお、中嶋\[7\]や[シャノンにより](../Page/クロード・シャノン.md "wikilink")、[論理回路](https://ja.wikipedia.org/wiki/論理回路 "wikilink")の理論が始まったのが、1930年代末である。
+
+戦後は、戦災で焼失した東京都の統計課のIBM製[統計会計機を代替する](https://ja.wikipedia.org/wiki/タビュレーティングマシン "wikilink")、電気式分類集計機「山下式画線統計機」\[8\]を[山下英男](https://ja.wikipedia.org/wiki/山下英男 "wikilink")の指導の下に製作、1951年5月に納入した（同機は総理府統計局には[日本電気](../Page/日本電気.md "wikilink")から納入されている）。
+
+1952年、[東証が機械化を検討し](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")、山下を通して富士通に、リレーによる株式取引高精算装置の開発が打診された。尾見半左右\[9\]、小林大祐 \[10\]の下で[池田敏雄](https://ja.wikipedia.org/wiki/池田敏雄 "wikilink")、[山本卓眞](https://ja.wikipedia.org/wiki/山本卓眞 "wikilink")らが開発し、1953年3月、試作機が完成した。受注には至らなかったが、FACOMに与えた影響は大きい。\[11\]
+
+株式取引高精算用計算機が不採用だったことについては、[山本卓眞](https://ja.wikipedia.org/wiki/山本卓眞 "wikilink")によれば\[12\]入出力が電信用紙テープだったためパンチカードマシンより遅かった、動作が不安定だった、という2点を挙げている。動作を不安定にしたエラーの原因は後に接触不良と判明\[13\]し、FACOM 100ではこの経験を生かし自己検査回路により信頼性を向上し成功させた\[14\]。\[15\]
+
+### FACOM 100
+
+**FACOM**は、[池田敏雄](https://ja.wikipedia.org/wiki/池田敏雄 "wikilink") （1970年〜1974年に役員、死後に専務）、[山本卓眞](https://ja.wikipedia.org/wiki/山本卓眞 "wikilink")（1981年〜1990年に社長\[16\]）、[山口詔規](https://ja.wikipedia.org/wiki/山口詔規 "wikilink")が1954年10月に完成させたFACOM 100から始まる。FACOM 100は、富士通が最初に製作したコンピュータであり、日本最初期\[17\]のリレー式計算機のひとつでもある。当時、使用できるデバイスとしては[真空管](https://ja.wikipedia.org/wiki/真空管 "wikilink")もあったが、真空管は寿命が短く、故障率が高かったことや、富士通が[電話交換機](https://ja.wikipedia.org/wiki/電話交換機 "wikilink")を製造していた関係でリレーが豊富に使用可能だったことからリレーが採用された\[18\]。以前から、真空管式のカウンタなど基本回路の実験も行ってはいた\[19\]が、ただちに電子計算機の開発に進むには、技術的にも経済的にも、制約条件が大きかった\[20\]ないし無理があった\[21\]、とされている。
+
+（FACOMに限らずリレー式の計算機一般について言えることであるが、こんにちのほとんど全てのコンピュータのような[クロック同期設計](https://ja.wikipedia.org/wiki/クロック同期設計 "wikilink")ではなく、その多くが非同期設計であることに注意が必要である。FACOMのリレー式計算機も非同期設計である）
+
+東証の計算機の経験からリレーの接触不良に対処するため、自己検査回路により、誤動作が起きた場合にはそれ以上動作が進まないような回路とし、誤った結果は出力しないというある種の[フェイルセーフ](https://ja.wikipedia.org/wiki/フェイルセーフ "wikilink")設計とした。FACOM 100は十進法の計算機で、演算装置の符号系には[3増し符号](https://ja.wikipedia.org/wiki/3増し符号 "wikilink")を使っているが、その冗長性を利用してパリティ的なチェックを行うものである。ノーベル賞受賞者の[湯川秀樹](../Page/湯川秀樹.md "wikilink")が「人手では2年はかかる多重積分を3日で解いた」と高く評価した\[22\]。FACOM 100は試作・実験機であり、販売されることはなかったが、計算機が他にほとんどない時代であり（日本初の真空管によるコンピュータが稼働したのは1956年の[FUJIC](https://ja.wikipedia.org/wiki/FUJIC "wikilink")である）、FACOM 100を利用した計算サービスを提供して、社内はもとより、官民学の計算需要に対して実用に供せられた\[23\]。
+
+なお、池田による『科学』1955年6月号の記事「リレー式電気計算機について I」中には、FACOM 100に引き続いて完成予定の計算機として、FACOM 118という番号が見られる\[24\]。
+
+また、この頃に電気試験所が設計したETL Mark II\[25\]の製造を依頼され、1955年11月に完成させている。
+
+### FACOM 128
+
+FACOM 128は1956年に完成した富士通最初の商用コンピュータである（1958年に改良を行ったため、1956年に完成したものはFACOM 128A、改良版はFACOM 128Bとしている）。FACOM 128は[インデックスレジスタ](https://ja.wikipedia.org/wiki/インデックスレジスタ "wikilink")が採用されていた。また、自己検査回路で誤動作を検知して停止している場合に、自動的に再計算するようになっていた\[26\]。FACOM 100の3増し符号に代えて[二五進法](https://ja.wikipedia.org/wiki/二五進法 "wikilink")を利用しているが、100と同様に符号の冗長性を利用してチェックを行っている。また、コンプリメントの回路を必ず付加して完全にチェックをとる、（リレーの）メイクの接点（リレーが働いた時に繋がる接点）のみで構成する、といった方式を取った\[27\]。
+
+インデックスレジスタのアイディアは、池田らと、前述の電気試験所で計算機にかかわっていた駒宮安男\[28\]らとのディスカッションの中から出てきたもので、海外のそれ（[:en:Index register\#Historyを参照](https://ja.wikipedia.org/wiki/:en:Index_register#History "wikilink")）とは独立に生まれたものである\[29\]。
+
+富士通沼津工場「池田敏雄記念室」に1959年製造のFACOM 128B（1970年頃まで[日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")[理工学部](https://ja.wikipedia.org/wiki/理工学部 "wikilink")で使われていた個体。電子式コンピュータ発達後の最後の頃は、主に[宇野利雄](https://ja.wikipedia.org/wiki/宇野利雄 "wikilink")が自身の[数値解析](https://ja.wikipedia.org/wiki/数値解析 "wikilink")の研究にはこれで十分だと使用していたもので、この規模のリレー式計算機としては恐らく最後まで運用されていたものと考えられている\[30\]）が保存されており、見学可能である\[31\]。動態保存されている同様の計算機としては世界最古と言われている\[32\]。2006年末に、富士通は同機を2019年まで延命させるプロジェクトを発足させていることが報じられた\[33\]。
+
+FACOM 128の1号機が納入された\[34\][統計数理研究所](https://ja.wikipedia.org/wiki/統計数理研究所 "wikilink")の資料では、同所の本機を指して「継電器式万能計算機 TSK II」\[35\]とある。
+
+### FACOM 138A
+
+1960年のリレー式計算機で\[36\]、128Aの廉価版である\[37\]。富士通川崎工場 "Fujitsu Technology Hall" にて動態保存されている\[38\]。工場の一般公開イベント時などに見学できることがある他、社会科見学なども受け入れている\[39\]\[40\]。
+
+FACOM 128B, FACOM 138Aにはレンズ計算用プログラムがありカメラメーカからの需要があった\[41\]。128Bの1号機はキヤノン、138Aの1号機はオリンパスに納入している\[42\]。
+
+### その他のリレー式FACOM
+
+顧客に応じて設計された小型の専用計算用と思われる、100番台でない、以下のようなリレー式のFACOMの記録が残っている。ハイフンを付けている資料もあるが、『池田記念論文集』巻末の機種一覧では付けていないので、ここではそれに従う。
+
+  - FACOM 415A
+
+[統計数理研究所](https://ja.wikipedia.org/wiki/統計数理研究所 "wikilink")の資料に、FACOM 128以前の計算機として、FACOM-415（415Aとも。他に「継電器式自動計算機 TSK I」とも）という名前が見られる\[43\]。
+
+  - FACOM 318A, FACOM 415A, FACOM 416A, FACOM 426A, FACOM 426B, FACOM 514A, FACOM 524A, 自己相関係数計算機
+
+『池田記念論文集』巻末の機種一覧（該当部は pp. 255～260）によれば、光学計算を主とした科学用、品質管理等の統計用、相関係数用、事務用などといったリレー式計算機として、これらの機が挙げられている。\[44\]
+
+## パラメトロン
+
+富士通はリレー式に引き続き、[パラメトロン](https://ja.wikipedia.org/wiki/パラメトロン "wikilink")を使ってコンピュータの開発を行った\[45\]。パラメトロンと富士通の関わりでは、パラメトロンの総本山である東大[高橋研究室と共同で研究開発を行い](https://ja.wikipedia.org/wiki/高橋秀俊 "wikilink")、最速のパラメトロン機FACOM 202を作ったことなどが特筆される。
+
+  - FACOM 200
+
+1958年9月完成の試作機。
+
+  - FACOM 201
+
+1959年、[MUSASINO-1](https://ja.wikipedia.org/wiki/MUSASINO-1 "wikilink")をベースに開発したMUSASINO-1Bを製品化したもの。MUSASINO-1Bの製作ではコアの機械的振動による妨害をどう防ぐかに苦心し、[後藤英一](https://ja.wikipedia.org/wiki/後藤英一 "wikilink")のアドバイスによりパラフィンを塗って防振を図ったが簡単には収まらず、各種の材料が試された\[46\]。
+
+  - FACOM 202
+
+1960年完成。高橋研究室と共同で研究開発を行ったPC-2を元に製品化したもの。通常のドーナツ型のフェライトコアではなく、パラメトロン素子専用に設計されためがね型コアを使用するなどして、動作周波数60キロヘルツとパラメトロンコンピュータとしては最速であり、当時は速度的に不利だった接合型トランジスタで作られた[ETL Mark IV Aより速かった](https://ja.wikipedia.org/wiki/ETL_Mark_III#ETL_Mark_IV "wikilink")\[47\]。高橋研究室の研究成果である[割込みを備える](../Page/割り込み_\(コンピュータ\).md "wikilink")。記憶装置にはパラメトロンコンピュータに独特の2周波式のコアメモリを使っているが、発熱が大きいため、コアにひれを付けたり油浸にしたりしている\[48\]。
+
+  - FACOM 212
+
+1959年4月出荷。FACOM 200を基に開発した1ワードが十進12桁で、パンチカード「フジカード」の入出力や印刷出力といった事務処理向けスペックの商用機。
+
+## 初期のトランジスタ機
+
+この頃、複数メーカーが[ETL Mark IVをベースに](https://ja.wikipedia.org/wiki/ETL_Mark_III#ETL_Mark_IV "wikilink")[トランジスタ機を作っているが](https://ja.wikipedia.org/wiki/トランジスタ・コンピュータ "wikilink")、富士通は作っていない。またETL Mark IV（をベースとした機）ではトランジスタ数の節約のため動的なフリップフロップによる論理回路を使っているが、富士通では必要なトランジスタ数は増えるが静的な回路を採用した。
+
+  - 貨報計算機
+
+トランジスタ式ではなく（真空管を使用）、またFACOMの名も付いていないが、富士通が製作した初期の電子計算機（唯一の真空管機である）としてここに挙げる。
+
+[国鉄は戦後](../Page/日本国有鉄道.md "wikilink")、[サイバネティックス](https://ja.wikipedia.org/wiki/サイバネティックス "wikilink")化を指向し、各現場にコンピュータの導入を図った（「[MARS](../Page/マルス_\(システム\).md "wikilink")」がよく知られている）。1956年度の技術課題として、貨車の集配用の通信系と、それを通じて集めた「貨報」（貨物日報の略。カホと読む。貨物の管理・計画用の帳票のこと）を処理する計算機として、国鉄の[鉄研が設計し](https://ja.wikipedia.org/wiki/鉄道技術研究所 "wikilink")、富士通が製造した。国鉄側の人物による述懐談によれば、一旦は富士通（当時パラメトロンに関与していた）に試作を依頼して辞退されたが、富士通の工場を訪ねて担当者に、回路設計まで国鉄でやるので、製造設計と製造だけをお願いしたいと無理を言って引き受けてもらったものと言う。マージン不足で安定化に苦労し、富士通も大変だったと思われる、としている。\[49\]
+
+1958年10月完成\[50\]。専用機だが、パラメトロン機を除けば、日本で最初の[磁気コアメモリ](../Page/磁気コアメモリ.md "wikilink")を採用した実用の電子計算機である。本機の経験として重要な点として、[クロック同期設計](https://ja.wikipedia.org/wiki/クロック同期設計 "wikilink")をはじめとする、リレーと電子計算機で異なる点についての技術の蓄積、電子計算機の高速性に対応できる周辺機器の開発促進、という点が挙げられている\[51\]。\[52\]
+
+貨報の処理についての後継機には、国鉄は沖の[OKITAC](https://ja.wikipedia.org/wiki/OKITAC "wikilink")を採用した。
+
+  - FACOM 222\[53\]\[54\]
+
+プロトタイプ機222Pが1960年10月製作終了、61年2月試験完了。商用機222Aが1961年4月製作完了、同11月納入。
+
+富士通で初めてトランジスタを採用したモデルである。222Aは1万語の[コアメモリ](https://ja.wikipedia.org/wiki/コアメモリ "wikilink")を搭載。1台1万語の[磁気ドラム](https://ja.wikipedia.org/wiki/磁気ドラム "wikilink")を最大10台まで接続可能。"222"の語呂合わせで、フ・ジ・ツーと言った。
+
+222Pから事務用には不要な部分を除き、小型化したFACOM 241(C)がある。
+
+  - FACOM 231\[55\]
+
+1963年3月完成。従来の小型機が固定長ワード指向で[主記憶に](../Page/主記憶装置.md "wikilink")[ドラムを使用していたのに対し](https://ja.wikipedia.org/wiki/磁気ドラムメモリ "wikilink")、可変長ワード指向で汎用機を目指し、主記憶には[コアを使用した](../Page/磁気コアメモリ.md "wikilink")。
+
+[IBM 1401の発表に刺激され](https://ja.wikipedia.org/wiki/IBM_1401 "wikilink")、より効率の良い可変語長機を検討して決定された仕様である\[56\]。
+
+## FACOM 230 シリーズ
+
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Facom230_family.jpg "wikilink") 1964年の4月7日（日本では翌4月8日）、IBMが[System/360](https://ja.wikipedia.org/wiki/System/360 "wikilink")を発表した。System/360は、統一された[アーキテクチャを持ち](../Page/コンピュータ・アーキテクチャ.md "wikilink")、あらゆる用途向け（360度）に設計された、上位モデルから下位モデルまでをシリーズ化したコンピュータであった。
+
+以前はIBMのコンピュータが「IBMのUNIVAC」と呼ばれるなど、IBMは後発と扱われていたが、360によりIBMは完全にリードを得た。他のコンピュータメーカのほとんどが360に影響を受け、自社のコンピュータについて「シリーズ」あるいは「ファミリー」とすることが流行のようになった。しかし、その場合多くが、360のそれとは異なり、もともとは別々に設計されたものをそのように称した、というものが多く、富士通もまた、以下で述べるように、[FONTAC](https://ja.wikipedia.org/wiki/FONTAC "wikilink")を改良して製品化する際にFACOM 230-50とし、先行機FACOM 230はFACOM 230-30とサフィックスを付け、また以降のコンピュータをFACOM 230-何々として、FACOM 230ファミリとした。
+
+FACOM 230は、中小型では可変語長方式、大型では固定語長方式を持つ独特なファミリであった\[57\]。実際のところ設計中はFACOM 230-10はFACOM 800\[58\]、FACOM 230-50はFACOM 250\[59\]であった。
+
+  - FACOM 230 / FACOM 230-30\[60\]
+
+FACOM 230は1964年5月発表。FACOM 231の機能を完全に包含、プログラムが変更なしに完全に動作する互換性を実現し、さらに高速化した。次に述べるFONTACが、製品化の際にFACOM 230-50としたのにあわせ、FACOM 230-30と改名された。
+
+  - FONTAC / FACOM 230-50\[61\]
+
+国策により、1962年にプロジェクトが発足された富士通(F)・[沖](https://ja.wikipedia.org/wiki/沖電気工業 "wikilink")(O)・[日電](../Page/日本電気.md "wikilink")(N)の共同計画によるコンピュータであるが、内実としては[CPU](../Page/CPU.md "wikilink")の「FONTAC Central」をF、周辺プロセッサをOとNが担当する、というものであった。FONTACは1964年11月に完成・納入された。富士通はFONTAC Centralを改良し、FACOM 230-50として製品化した。
+
+  - FACOM 230-10 （1965年）\[62\]
+
+シリーズ最小だが、それを補う[仮想記憶](../Page/仮想記憶.md "wikilink")（ソフト[ページング](https://ja.wikipedia.org/wiki/ページング "wikilink")方式）を搭載。かな文字[COBOL](https://ja.wikipedia.org/wiki/COBOL "wikilink")を実装。
+
+  - シリーズの発表
+
+1965年の9月に、富士通は全7機種から成る「FACOM 230 シリーズ」を発表した。
+
+  - FACOM 230-60 （1968年）\[63\]
+
+日本で初めてICを採用したベストセラー機種。主記憶装置および入出力装置を共有する本格的デュアルプロセッサ。世界で初めて[マルチプロセッサ](https://ja.wikipedia.org/wiki/マルチプロセッサ "wikilink")構成を採用。
+
+FACOM 230-60は、東大での対日立戦のリターンマッチと言える、東大に引き続き設置された京大の大型計算機センターで採用されたことが特筆される\[64\]さらに九大\[65\]でも採用された。
+
+### FACOM 230-5 シリーズ
+
+  - FACOM 230-25,230-35,230-45 （1968年）\[66\]
+
+2バイト1語の16ビットマシン。FACOM 230-25/230-35で主記憶にICメモリを採用し、仮想記憶（ソフトページング方式）も採用。
+
+  - FACOM 230-45S, 230-55 （1974年）
+
+ハードウェアによる仮想記憶（ページアドレス方式）を採用。
+
+  - FACOM 230-75\[67\]
+
+230-60の後継機。次に述べるAPUの付加が特筆される。
+
+  - FACOM 230-75 APU （1977年）\[68\]
+
+FACOM 230-75に、科学技術計算むけの[パイプライン方式](https://ja.wikipedia.org/wiki/命令パイプライン "wikilink")「アレイプロセッサ」（[ベクトル計算機](../Page/ベクトル計算機.md "wikilink")）を追加して計算能力を強化した機。22M FLOPSを達成した。[航空宇宙技術研究所](https://ja.wikipedia.org/wiki/航空宇宙技術研究所 "wikilink")（[NSシステム](https://ja.wikipedia.org/wiki/NSシステム "wikilink")）などに納入された。[Cray-1](https://ja.wikipedia.org/wiki/Cray-1 "wikilink")に遅れることたった1年であり、後のVPシリーズにつながる。
+
+## FACOM 270 シリーズ
+
+FACOM 230シリーズと平行して、科学計算・プロセス制御用としてFACOM 270シリーズを開発した。超小型のFACOM 270-10、小型のFACOM 270-20、中型のFACOM 270-30の3機種。\[69\]
+
+これらの用途にはすでに発売されていたFACOM 231も使用されていたが、さらにオンライン・リアルタイム処理にも対応した。
+
+[テンヨー](https://ja.wikipedia.org/wiki/テンヨー "wikilink")の「プラパズル」の No.345 に「FACOM」という名が付いているが（[ペントミノ\#立体ペントミノ](https://ja.wikipedia.org/wiki/ペントミノ#立体ペントミノ "wikilink")を参照）、これは当コンピュータにちなむ。それら（他にも No.783 等）のパズルの全解の数についてパズル添付の説明書に、富士通の好意により FACOM 270-20 でxx通りと計算された旨、書かれていた。\[70\]
+
+## FACOM M シリーズ
+
+FACOM Mシリーズは[日立製作所](../Page/日立製作所.md "wikilink")と技術提携して作られた、IBM [System/360](https://ja.wikipedia.org/wiki/System/360 "wikilink")・[System/370](https://ja.wikipedia.org/wiki/System/370 "wikilink")の[プラグコンパチブルの](https://ja.wikipedia.org/wiki/互換機 "wikilink")[メインフレーム](../Page/メインフレーム.md "wikilink")である。FACOM M-100シリーズ初号モデルのFACOM M-190はアムダール社との共同開発で、姉妹機にあたる[Amdahl 470V/6と共に](https://ja.wikipedia.org/wiki/Amdahl_470V/6 "wikilink")、世界初の全面的にLSIを採用したメインフレームである\[71\]。[HITAC M シリーズと共通のイニシャル](https://ja.wikipedia.org/wiki/HITAC#HITAC_M_シリーズ "wikilink")「M」は通産省（MITI）に由来する（後述）。
+
+過去のFACOMと異なるIBM互換にした理由の1つは、買い手が互換性を求めていたことである\[72\]。1960年代中盤の[東京大学大型計算機センター](https://ja.wikipedia.org/wiki/東京大学大型計算機センター "wikilink")の導入機選定（1965年設置だが、選定は1964年1Qで、System/360の発表とも被っている）の際に富士通は[FONTAC](https://ja.wikipedia.org/wiki/FONTAC "wikilink")をベースとしたマシン（のちのFACOM 230-50）の採用を目指していたが日立の[HITAC](https://ja.wikipedia.org/wiki/HITAC "wikilink") 5020に敗れ、その理由が国際互換性（実質的にIBM互換）の問題とされた\[73\]（と、田原は書いているがHITAC 5020も全くIBM互換ではない）。互換性のある[OSが必要だとされたとも科学技術計算のために](../Page/オペレーティングシステム.md "wikilink")、日本国外で開発された[FORTRAN](../Page/FORTRAN.md "wikilink")の[ライブラリ](../Page/ライブラリ.md "wikilink")が使えることが重要視されたともいう\[74\]\[75\]。選定する側の一人であった東大の[有馬朗人](https://ja.wikipedia.org/wiki/有馬朗人 "wikilink")が、『東京大学大型計算機センター10年のあゆみ』（）に寄せた「機種選定について　――個人的回想を中心に」には、互換性といった言葉は全く無く、HITAC 5020について「試作機ができ上がっていた」という語がある（情報処理学会コンピュータ博物館によれば同機の「第1次の試作が完了」は1963年5月\[76\]。一方FONTACの完成・納入は1964年11月）。アメリカ市場へ新規参入するためには、一層IBM互換が必要と考えられた\[77\]。
+
+2つ目の理由として日本の[OECD加盟などの際は例外とされていたコンピュータについても](https://ja.wikipedia.org/wiki/経済協力開発機構 "wikilink")1970年代に自由化が決定されたことである。保護政策無しでは世界市場で60%、日本市場で50%のシェアを持つIBMに対抗できないと想定した[通産省は日本の](../Page/経済産業省.md "wikilink")6社を3グループ化し、体制強化を図り、富士通は同じくIBM互換路線を取っていた[日立製作所](../Page/日立製作所.md "wikilink")と提携した（詳しくは[三大コンピューターグループ](https://ja.wikipedia.org/wiki/三大コンピューターグループ "wikilink")を参照）\[78\]。以上のような経緯によるため、FACOMと日立[HITAC](https://ja.wikipedia.org/wiki/HITAC "wikilink")の両方が副系列名に使った「Mシリーズ」の「M」には、通産省（MITI）の意向の影響があるマシンという含みがある。
+
+IBM互換機の開発に先立つ1969年、富士通の池田敏雄はIBMで[System/360](https://ja.wikipedia.org/wiki/System/360 "wikilink")を設計した[ジーン・アムダール](https://ja.wikipedia.org/wiki/ジーン・アムダール "wikilink")と会談している。この時、アムダールはIBMの後継機へ新技術の導入を検討していた。アムダールは提案が却下されると、1970年にIBMを離れ[アムダール](https://ja.wikipedia.org/wiki/アムダール "wikilink")社を設立した。富士通はアムダールと提携し、そのノウハウを得た。
+
+富士通は1970年に、先行されていた日立を抜き、日本市場で日本メーカーの売上トップを獲得していたが\[79\]、FACOM Mシリーズによって1979年にIBMを抜いてトップになった\[80\]。
+
+  - FACOM M-190 （1974年）
+
+富士通初のIBM互換機。[LSIを採用した超大型機でIBM](../Page/集積回路.md "wikilink") [System/370](https://ja.wikipedia.org/wiki/System/370 "wikilink")の2〜3倍の性能。当時、世界最大・最速。
+
+  - FACOM M-200 （1978年）
+
+M-190の1.5〜1.8倍の性能だが、最大4 CPUのマルチプロセッサ構成が可能。この時、5 CPU分の速度に達する。当時、世界最大・最速。
+
+  - FACOM M-130F, M-140F, M-150F, M-160F, M-170F （1979年）
+
+日本で初めて本格的な日本語処理機能、[JEF](https://ja.wikipedia.org/wiki/JEF漢字コード "wikilink")(Japanese processing Extended Feature)を搭載。日本語に対応したソフトウェアと、日本語入力用の[タブレットや漢字](https://ja.wikipedia.org/wiki/タブレット_\(コンピュータ\) "wikilink")[ドットインパクトプリンタ](https://ja.wikipedia.org/wiki/ドットインパクトプリンタ "wikilink")で構成。
+
+  - FACOM M-380, M-382 （1981年）
+
+31ビットアドレス空間（2Gバイト）をサポート、[ECL](https://ja.wikipedia.org/wiki/エミッタ結合論理 "wikilink")/[TTL](../Page/Transistor-transistor_logic.md "wikilink") [LSIを採用した超大型機](../Page/集積回路.md "wikilink")。最大2CPU、最大物理メモリはM-380が64Mバイト、M-382が128Mバイト。
+
+  - FACOM M-780 （1985年）
+
+10,000ゲート/チップのECL LSIを採用した超大型機。最大物理メモリ256Mバイト、最大64チャネル。水冷。
+
+## VPシリーズ
+
+[ベクトル型](../Page/ベクトル計算機.md "wikilink")[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")のシリーズである（なお、実質的には前述のFACOM 230-75 APUが富士通初のスーパコンピュータである\[81\]）。[Cray](https://ja.wikipedia.org/wiki/クレイ "wikilink")、日電の[SXシリーズ](https://ja.wikipedia.org/wiki/NEC_SX "wikilink")、日立の[Sシリーズと共に](https://ja.wikipedia.org/wiki/HITAC#スーパーコンピュータ "wikilink")、世界を舞台に激しい競争を演じた。VPという名はワンチップ化されたμVPにも使われた。後に、FACOMの名は付かないが、並列ベクトル機[VPP](https://ja.wikipedia.org/wiki/VPP "wikilink")へとつながる。
+
+  - FACOM VP-100, VP-200 （1982年）
+
+実際の[FORTRAN](../Page/FORTRAN.md "wikilink")プログラムの分析を元に設計された。最大500 MFLOPSを達成した(VP-200)。
+
+## その後の富士通コンピュータ
+
+1990年、Fujitsu M-1800が発売される。8CPU密結合で主記憶2Gバイト（システム 8Gバイト）、256チャネルという超大型機である。過去のMシリーズとも互換性はあるが、FACOMという商標は使われなくなった。
+
+社内で扱う部所が異なった（他社にも多く類似例があるが、情報部門ではなく半導体部門による。ただし富士通の場合、マイクロプロセッサL-16Aは情報部門が開発した）という経緯もあるが、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")（当時は[マイクロコンピュータ](../Page/マイクロコンピュータ.md "wikilink")と呼んでいた）では[FM-8](../Page/FM-8.md "wikilink")（Fujitsu Micro 8）に始まる「FM」という名が使われた（FACOM 9450(II)を除く）。
+
+## オフコン・ミニコン・言語マシン・ワークステーション
+
+  - FACOM α （1984年）
+    いわゆる[LISPマシン](https://ja.wikipedia.org/wiki/LISPマシン "wikilink")。単独では動作せず、Mシリーズの[バックエンド](https://ja.wikipedia.org/wiki/バックエンド "wikilink")として使用する。[人工知能](../Page/人工知能.md "wikilink")の研究や[エキスパートシステム](https://ja.wikipedia.org/wiki/エキスパートシステム "wikilink")に使用された。30台が製造され、慶應義塾大学などに納入された。
+  - FACOM R （1969年）
+    デスクトップサイズを実現した[ミニコン](https://ja.wikipedia.org/wiki/ミニコンピュータ "wikilink")。手軽に使用できる単独のコンピュータとして、また、FACOM 230シリーズの周辺機器として使用された。
+  - FACOM Mate （1975?年）
+    テープリーダなども内蔵したオールインワンのミニコンで、工業高校や専門学校など、教育機関むけ。
+  - FACOM V<sub>0</sub> （1974年）
+    [ユーザック電子工業](https://ja.wikipedia.org/wiki/PFU "wikilink")（現[PFU](https://ja.wikipedia.org/wiki/PFU "wikilink")）と共同開発したFACOM 230-15、USAC 720/90の後継機。バッチ処理、帳票出力など、ビジネスむけ。
+  - FACOM 9450 （1981年）
+    [パナファコム](https://ja.wikipedia.org/wiki/PFU "wikilink")（現PFU）と共同開発したビジネス向け[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")。24ドット漢字表示など、当時の一般的なパソコンよりハイクオリティとなっていた。OAアプリケーションのEPOCファミリが用意された。
+
+<!-- end list -->
+
+  - FACOM K-10 (1984年)
+    デスクトップ型の[オフコン](../Page/オフィスコンピュータ.md "wikilink")。i8086を採用し、5インチ/8インチフロッピーディスクも内蔵可能。EPOCファミリも用意された。
+  - FACOM K-670 モデル40 (1989年)
+    オフコンで初めて3CPU構成を採用した。主記憶40M、内蔵ディスク13.3G。ワークステーション224台まで接続可能。
+  - FACOM G-140, G-150, G-150A （1987年）
+    [ワークステーション](../Page/ワークステーション.md "wikilink")。Unix System Vを改良したSX/Gを搭載し、Unixであることを意識させないユーザーインターフェースを実現。専用ソフトウェアとしてEPOCH-Gファミリも用意された。[Mシリーズ](https://ja.wikipedia.org/wiki/FACOM_Mシリーズ "wikilink")、[Kシリーズのクライアントとしても利用された](https://ja.wikipedia.org/wiki/PRIMERGY_6000 "wikilink")。
+
+## 脚注
+
+<references />
+
+## 注釈
+
+<references group="注釈" />
+
+## 参考文献
+
+  - [田原総一朗](https://ja.wikipedia.org/wiki/田原総一朗 "wikilink") - "日本コンピュータの黎明" [文藝春秋](https://ja.wikipedia.org/wiki/文藝春秋 "wikilink")（文春文庫） 1996 ISBN 4-16-735613-9
+  - 柏原久 - "ついにIBMをとらえた - 富士通・エキサイト集団の軌跡" 日本放送出版協会 1992 ISBN 4-14-080011-9
+  - [遠藤諭](https://ja.wikipedia.org/wiki/遠藤諭 "wikilink") - "計算機屋かく戦えり" アスキー 1996 ISBN 4-7561-0607-2
+  - [相磯秀夫](https://ja.wikipedia.org/wiki/相磯秀夫 "wikilink")・[坂村健](../Page/坂村健.md "wikilink")ほか 編 - "国産コンピュータはこうして作られた" 共立出版 1985 ISBN 4-320-02278-5
+  - ハーマン H. ゴールドスタイン - "計算機の歴史" 共立出版 1979
+
+## 関連項目
+
+  - [PRIMERGY 6000](https://ja.wikipedia.org/wiki/PRIMERGY_6000 "wikilink")
+  - [GRANPOWER](https://ja.wikipedia.org/wiki/GRANPOWER "wikilink")
+
+## 外部リンク
+
+  - [富士通について - 富士通ミュージアム](https://www.fujitsu.com/jp/about/plus/museum/)
+
+  - [情報処理学会 - 日本の歴史的コンピュータ](http://museum.ipsj.or.jp/)
+
+  - [東京理科大学近代科学資料館 - 計算器具](https://www.rs.kagu.tus.ac.jp/~infoserv/museum/) (FACOM 201の写真あり)
+
+  - (元開発者による解説)
+
+  - [神田泰典 - 日本語情報システムJEFの歴史](http://www.ykanda.jp/jef.htm) (元開発者による解説、当時の資料あり)
+
+  - [大河原克行の「パソコン業界、東奔西走」- 富士通コンピュータ事業の故郷、沼津工場見学記](https://pc.watch.impress.co.jp/docs/2003/1110/gyokai76.htm)
+
+  - [System/390 Compatible Servers](http://www.ftsi.fujitsu.com/services/products/compat/) – Fujitsu Computer Systems(アムダール社を取り込んだ富士通の米国子会社)のIBM互換機のページ
+
+  - [世界最古級コンピュータが頑張っている！](https://ascii.jp/elem/000/000/138/138649/)
+
+[Category:コンピュータ_(歴代)](https://ja.wikipedia.org/wiki/Category:コンピュータ_\(歴代\) "wikilink") [Category:富士通の製品](https://ja.wikipedia.org/wiki/Category:富士通の製品 "wikilink") [Category:ミニコンピュータ](https://ja.wikipedia.org/wiki/Category:ミニコンピュータ "wikilink") [Category:ワークステーション](https://ja.wikipedia.org/wiki/Category:ワークステーション "wikilink") [Category:スーパーコンピュータ](https://ja.wikipedia.org/wiki/Category:スーパーコンピュータ "wikilink") [Category:メインフレーム](https://ja.wikipedia.org/wiki/Category:メインフレーム "wikilink")
+
+1.  『池田記念論文集』（、）p. 36
+2.  『池田記念論文集』p. 206
+3.  <http://museum.ipsj.or.jp/computer/dawn/0012.html>
+4.  『日本における計算機の歴史 : 富士通における計算機開発の歴史』§3.1
+5.  <http://museum.ipsj.or.jp/pioneer/siokawa.html>
+6.  『池田記念論文集』p. 34
+7.  <http://museum.ipsj.or.jp/pioneer/a-naka.html>
+8.  <http://museum.ipsj.or.jp/computer/dawn/0003.html>
+9.  <http://museum.ipsj.or.jp/pioneer/omi.html>
+10. <http://museum.ipsj.or.jp/pioneer/kobayasi.html>
+11. この節ここまで『日本のコンピュータの歴史』p. 223
+12. 『計算機屋かく戦えり』1996年版 p. 99
+13. 『計算機屋かく戦えり』1996年版 p. 99 下段写真キャプション
+14. 『計算機屋かく戦えり』1996年版 p. 101 下段写真キャプション
+15. 他に株式取引高精算用計算機についての参考文献として『池田記念論文集』pp. 33～35収録の山本卓眞「FACOMの誕生まで」を挙げておく。
+16.
+17. 他に、1952年の電気試験所ETL Mark Iなどがある。
+18. 田原125-126頁
+19. 『池田記念論文集』p. 202。当時、ENIACの基本的な回路の回路図が公表されたため、他に阪大などでも試作されている。
+20. 『池田記念論文集』p. 36
+21. 『日本のコンピュータの歴史』p. 223
+22. 田原 159頁
+23. 『日本のコンピュータの歴史』p. 224
+24. <http://www.ykanda.jp/comp/old/old.htm>
+25. <http://museum.ipsj.or.jp/computer/dawn/0009.html>
+26.
+27. 『池田記念論文集』p. 203
+28. <http://museum.ipsj.or.jp/pioneer/komamiya.html>
+29. 『池田記念論文集』p. 203
+30. 中公新書『電子計算機の誕生』 ([高橋秀俊](https://ja.wikipedia.org/wiki/高橋秀俊 "wikilink")) p. 33。より規模の小さいリレー式計算機については、カシオ14などがその後の時代にも使われている所があったであろう。
+31. <http://jp.fujitsu.com/museum/ikeda/>
+32.
+33. [富士通のコンピューター、延命へ](http://www.yomiuri.co.jp/net/news/20061219nt06.htm)、[読売新聞](https://ja.wikipedia.org/wiki/読売新聞 "wikilink")、2006年12月19日。
+34. 『日本のコンピュータの歴史』p. 225
+35. [統計数理研究所](https://ja.wikipedia.org/wiki/統計数理研究所 "wikilink") [計算機の歴史1962年](http://www.ism.ac.jp/computer_system/jpn/hist/Computers/1962.html)
+36. <http://jp.fujitsu.com/museum/products/computer/mainframe/facom138a.html>
+37. 『池田記念論文集』p. 258
+38. <http://ascii.jp/elem/000/000/138/138649/index-2.html>
+39. <http://jp.fujitsu.com/facilities/kawasaki/exhibition/>
+40. なお、保存されている個体は、[技本に納入されたもの](https://ja.wikipedia.org/wiki/技術研究本部 "wikilink")（展示脇の説明版にあるキャプションより）
+41. [ウェブページ 三輪修「私のコンピュータ開発史」](http://homepage2.nifty.com/Miwa/2_Fujitsu/index.html#%282%29)より。
+42. 『池田記念論文集』p. 258
+43. [統計数理研究所](https://ja.wikipedia.org/wiki/統計数理研究所 "wikilink") [計算機の歴史1957年](http://www.ism.ac.jp/computer_system/hist/Computers/1957.html) [計算機の歴史1962年](http://www.ism.ac.jp/computer_system/jpn/hist/Computers/1962.html)
+44. <http://www.ykanda.jp/comp/old/old.htm> の「FACOM一覧表」も参照
+45. <http://museum.ipsj.or.jp/computer/dawn/0062.html>
+46. [三輪修氏のウェブページ「3.2 武蔵野通研」](http://homepage2.nifty.com/Miwa/3_Parametron/index.html#%282%29)
+47. <http://museum.ipsj.or.jp/computer/dawn/0026.html>
+48. 『池田記念論文集』p. 57
+49. 『サイバネティクスと鉄道 ―小田達太郎と鉄道通信―』pp. 142～143
+50. 『池田記念論文集』p. 260
+51. 『池田記念論文集』pp. 50～52
+52. 本文中の注で挙げた参考文献の他、「国鉄技研で試作された貨報計算機について」を挙げておく。
+53. <http://museum.ipsj.or.jp/computer/dawn/0043.html>
+54. 『日本のコンピュータの歴史』pp. 228～320
+55. <http://museum.ipsj.or.jp/computer/dawn/0046.html>
+56. [「コンピュータ開発史概要と資料保存状況について」(PDF)](http://sts.kahaku.go.jp/diversity/document/system/pdf/003.pdf) p. 66
+57.
+58. 『池田記念論文集』p. 71
+59. [三輪修氏のウェブページ「5.5 FACOM230シリーズ誕生」](http://homepage2.nifty.com/Miwa/5_FONTAC/index.html#%285%29)
+60.
+61. <http://museum.ipsj.or.jp/computer/main/0005.html>
+62. <http://museum.ipsj.or.jp/computer/office/0002.html>
+63. <http://museum.ipsj.or.jp/computer/main/0016.html>
+64. [三輪修氏のウェブページ「6．FACOM230-60 システム」](http://homepage2.nifty.com/Miwa/6_F230-60/6_4%281%29.html) 東大-日立 京大-富士通 東北大-日電 といったように、大学の計算機は日本メーカで、という潮流を決定付けた。
+65. 九大への納入は[九州大学電算センターファントム墜落事故](https://ja.wikipedia.org/wiki/九州大学電算センターファントム墜落事故 "wikilink")に翻弄されることとなった。
+66. <http://museum.ipsj.or.jp/computer/main/0017.html>
+67. <http://museum.ipsj.or.jp/computer/main/0023.html>
+68. <http://museum.ipsj.or.jp/computer/super/0003.html>
+69. <http://museum.ipsj.or.jp/computer/main/0106.html>
+70. 『池田記念論文集』p. 128 に、「FACOM 270-20 とペントミノ（NHKテレビジョン番組）」というキャプションの付いた、3x4x5の直方体にペントミノを組むパズル、いくつかの周辺機器、パズルの解説をしているボードの前に立つ池田敏雄氏、の写った写真がある。
+71.
+72. 田原 249-252頁
+73. 田原 224-226頁
+74. 『計算機屋かく戦えり』p. 105 [山本卓眞](https://ja.wikipedia.org/wiki/山本卓眞 "wikilink")によれば富士通が独自に開発したOSがIBMと大きく異なることが指摘されたとしている。一方、同書 p. 300 日立でシステムプログラマであった[高橋延匡](https://ja.wikipedia.org/wiki/高橋延匡 "wikilink")によれば、HITAC 5020導入後に計算機センター用にOSを作ると約束しており、OSは採用決定後に開発されている。
+75. [三輪修は、「ユーザ・ソフトの互換性」と書いている](http://homepage2.nifty.com/Miwa/6_F230-60/6_2.html)
+76. <http://museum.ipsj.or.jp/computer/main/0003.html>
+77. 田原 243-245頁
+78. 田原 252-264頁
+79. 田原 233頁
+80. 田原 291頁
+81. 情報処理学会の博物館サイトでも、同機は「スーパーコンピュータ」の分類にある <http://museum.ipsj.or.jp/computer/super/index.html>

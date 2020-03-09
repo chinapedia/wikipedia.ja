@@ -1,0 +1,400 @@
+> この記事は[Drummania](https://ja.wikipedia.org/wiki/Drummania)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Gfv3anddmv3.jpg "wikilink") **drummania**（ドラムマニア、現在は「**DrumMania**」という表記が用いられる）は[1999年](../Page/1999年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")に[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")の第5弾として[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より発売された音楽ゲーム。その名の通り、[ドラムを演奏するものである](../Page/ドラムセット.md "wikilink")。通称は**ドラマニ**\[1\]\[2\]および**dm** (**DM**) で、2つで1つである[GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink")（またはGuitarFreaks）シリーズと一括して**[ギタドラ](https://ja.wikipedia.org/wiki/ギタドラ "wikilink")**と呼ばれることもある。名付け親は[小島秀夫](../Page/小島秀夫_\(ゲームデザイナー\).md "wikilink")。
+
+3rdMIXまでは[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")として[PlayStation 2に移植がされていたが](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、バグ発生での回収と人気の低迷からそれ以降の新作は移植されていなかった。しかし、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")にVがPlayStation 2で発売され、家庭用シリーズが復活した。
+
+海外では"mania"が語感の悪い単語だったとの理由からか10thMIXまでは"**Percussion Freaks**"（**パーカッションフリークス**）に名称を変更して発売されていた。しかしブランド名としては"drummania"の方が広く浸透していた。日本において表記が細かく変更されたV以降、日本国外でも"**DrumMania**"と表記されている。
+
+## 概要
+
+drummaniaの筐体は中央にディスプレイがあり、その手前に5色のパッド（左からハイハット、スネアドラム、ハイタム、ロータム、シンバル）が存在し、これらは左右の手に持ったスティックで叩く。またディスプレイに正対して座った時に足元にペダルが存在し、バスドラムのチップが降ってきた場合はこれを踏む。最も基本的なスタンダードセットのため、通常のドラムセット(フルセット)のハイハットペダル及びフロアタム(及びレフトクラッシュ・ライドシンバル等)に相当する部分は存在しない。右側には左右とスタートの3つのボタンが存在し、選曲画面等ではこれを使って選択を行うことになる。なお、各種選択画面ではスネアドラムのパッドが左ボタン、ロータムのパッドが右ボタン、シンバルのパッドがスタートボタンに対応している。また、7thMIX power-up ver.以降はディスプレイの左側に[e-AMUSEMENT](https://ja.wikipedia.org/wiki/e-AMUSEMENT "wikilink")の磁気カード（V3以降は[e-AMUSEMENT PASS](https://ja.wikipedia.org/wiki/e-AMUSEMENT_PASS "wikilink")）を挿入するカードリーダーが付いている。
+
+また、筐体の裏側には[GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink")および[KEYBOARDMANIA](https://ja.wikipedia.org/wiki/KEYBOARDMANIA "wikilink")と接続するためのコネクタがあり、これによって両作とのセッションプレイが可能となる。その関係上セットで設置されていることが多く、イメージも統一されている（ただし[KEYBOARDMANIA](https://ja.wikipedia.org/wiki/KEYBOARDMANIA "wikilink")の開発が事実上打ち切りとなっているため、今日では[GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink")との2台で並んでいることが多い）。
+
+  - 4thMIX〜10thMIXまではセッションボックスを搭載し、これにケーブルがつながる。特に4th/5thは[KEYBOARDMANIA](https://ja.wikipedia.org/wiki/KEYBOARDMANIA "wikilink") 3rdMIXも加えた[マルチセッションGDK](https://ja.wikipedia.org/wiki/マルチセッションGDK "wikilink")となる。
+  - V以降はシステム基板が[PlayStation 2ベースの物に変更され](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、基板上の[LANコネクタによる接続となった](../Page/Local_Area_Network.md "wikilink")。
+  - V4よりシステム基板が[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink") XP EmbeddedベースのPCに変更された。
+
+画面構成は大きく分けると左右2つのブロックに別れるシンプルな構成である。左はエキサイトゲージと6列の譜面エリア（順番はプレイヤーの前に設置されたパッド及びペダルの配置に準ずる）、右側にプレイ中の曲のアニメーション（BATTLE時は自分&対戦相手のスコア）が再生される（V以降プレイ中のムービーのクオリティが大幅に向上している）。譜面は6列のエリア内に上から下へ降ってくる形で表示される。左端にエキサイトゲージが、右端にはオプションが表示される細い領域がある。
+
+ドラムセットとしてはハイハットが低めに設置されており、画面での指示も無いため[オープンハンド](https://ja.wikipedia.org/wiki/オープンハンド "wikilink")奏法のプレーヤーも多い。また、テンポの速い8ビートの刻みに対応するために交互のストロークとパラディドルを織り交ぜてハットを刻む『427奏法』や、片手でスティック2本を持ってシンバルを上下から叩くと言ったゲームならではの奏法が生まれている。
+
+## ゲームプレイの詳細
+
+1.  クレジットを投入し、スタートボタンを押す。
+2.  セッションプレイの選択を行う
+      -
+        スタートボタンを押した後、接続されている[GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink")がプレー中でない場合は双方の筐体にセッションプレイ受付中であることを示すメッセージが表示される。セッションプレイを行う場合はこのときにギター側のプレイヤーもクレジットを投入しスタートボタンを押す。（4thMIX・5thMIXでは更に[KEYBOARDMANIA 3rdMIXもセッションに参加可能](https://ja.wikipedia.org/wiki/KEYBOARDMANIA "wikilink")）
+        セッションプレイを望まない場合は左ボタンを押しながらスタートボタンでキャンセル可能。また、右ボタンを押しながらスタートボタンを押すとモード選択の前にオプションの設定が可能で、[e-AMUSEMENT PASSを使用する場合はこの時にデフォルト設定としてカードに保存することも可能](https://ja.wikipedia.org/wiki/e-AMUSEMENT_PASS "wikilink")。
+3.  [e-AMUSEMENT PASSを挿入する](https://ja.wikipedia.org/wiki/e-AMUSEMENT_PASS "wikilink")。
+      -
+        [e-AMUSEMENT PASSをカードリーダーに挿入し](https://ja.wikipedia.org/wiki/e-AMUSEMENT_PASS "wikilink")、パスワードを入力する。drummaniaのプレーデータが記録されていないカードであった場合は名前とキャラクター、V5からはキャラとバトル情報とネームの表示、非表示(以後エントリー画面でバスを踏みながらスタートで入れる その時称号の変更もできる)の登録となる。XGからは非接触式のカードリーダーが採用され、エントリー時にリーダーにタッチすれば以降はカードを仕舞ってもよくなった。
+4.  ゲームモードを選ぶ
+      -
+        *[\#ゲームモード](https://ja.wikipedia.org/wiki/#ゲームモード "wikilink")を参照*
+5.  曲を選ぶ
+      -
+        左右ボタンで曲を選択、スタートボタンで決定する。パッドを一定の順序で叩くことでオプションの設定も可能。
+6.  プレイする
+      -
+        画面上から降ってくる6色のチップに合わせて、タイミング良く対応するパッドを叩く。タイミングが良ければエキサイトゲージが上昇し、タイミングが悪いと下がる。ただしノンストップモードではゲージは上昇しない。エキサイトゲージが0になってしまうとゲームオーバー（7thMIX power-up ver.〜10thMIXまでは[e-AMUSEMENT](https://ja.wikipedia.org/wiki/e-AMUSEMENT "wikilink")カードに回復アイテムのストックがあればそれを消費して復活できた）。
+7.  結果の表示
+      -
+        1曲を最後までプレイできた場合、各評価の数やコンボ数などのプレイ結果が表示される。規定曲数を終えていなければこの後選曲画面に戻る。
+        規定曲数を終え、平均の評価がSランク以上であった場合はEXTRA STAGEに突入する。昔は専用の曲が用意されていたが、現在は専用曲も含めた中から任意に1曲を選択する方式である。なお、EXTRA STAGE専用曲を選択してSランクを取った場合（VではPERFECT率が95%以上、V3は93%以上）、更に難易度の高い専用曲に挑戦するENCORE STAGEとなる。この際、演奏タイミングの評価でPERFECTの占める割合が98%以上（V3は96%以上）の場合はそれよりも更に難易度の高いPREMIUM ENCORE STAGE（V2とV3はPREMIUM STAGE、V4以降はPREMIUM ENCORE）となる。
+8.  ゲーム終了後
+      -
+        ゲーム終了後、各曲のスコアが表示される。7thMIX power-up ver.〜Vではこの後[e-AMUSEMENT](https://ja.wikipedia.org/wiki/e-AMUSEMENT "wikilink")のカードを使用していた場合はルーレットが出現し、16分割されたイラストのピースを獲得でき、ここでイラストを完成させると携帯電話用サイトで待ち受け画像などを取得することが可能。また、この際に前述の回復アイテム（Vでは隠し曲をプレイするためのチケット）を獲得できることもある。
+        獲得したスキルポイント（後述）もこのとき表示される。
+
+## ゲームモード
+
+### 最終バージョン（V8）で選択可能なモード
+
+  - EASY
+    初心者向けのモード。7thMIXで「**入門**モード」として搭載され、8thMIXからV5までは「**BEGINNER**モード」の名称になり、V6で現在の名称になった。BASIC譜面より難易度を下げたEASY譜面が用意されるほか、1ST STAGEのみいくらミスしてもゲームオーバーにはならない。ただしオプションは設定できない。現行バージョンにおいてプレイできる曲は一部のライセンス曲のみ(7thMIXではコナミオリジナル曲もごく一部対象であった)。3rdMIX以前にも同名のモードが存在した。XGではPRACTICEモードとして搭載。内容についてはVシリーズと差異は無い。
+  - STANDARD
+    V、XG共通\[3\]。通常のゲームモード。ロング曲はこのモードでのみ選択可(Vシリーズのみ)。V6より旧BEGINNERモードと同じく1ST STAGEのみいくらミスしてもゲームオーバーにはならなくなった。
+  - BATTLE(全国)
+    Vシリーズのみ搭載。オンライン接続されている他店舗の同筐体のプレイヤーと1対1で対戦するモード。お互いに1曲ずつ選択し、1ラウンド2曲(それぞれ同レベル)の合計ポイントを競う。1ラウンド目の勝敗に関らず2ラウンドが行われ、都合4曲のプレイが保証される。なお、オプション設定のRISKY、AUTO B+H+Cは使用不可。AUTO(B+H+C以外)、MIRRORは対戦相手がそれぞれのコマンド使用を許可していた場合のみ有効となる。
+    他の詳細は後述とする。
+  - BATTLE(店内)
+    こちらもVシリーズのみ搭載。BATTLEモードの店内対戦仕様。DrumManiaの同バージョン筐体が店舗内に2台以上あり、かつネットワーク接続されている場合のみに表示される。こちらには後述のランク制度は存在せず、XGシリーズでは登場しない。
+  - BATTLE(CPU)
+    Vシリーズのみ搭載。BATTLEモードのCPU対戦仕様。上記BATTLEモードのどちらも選択できない場合のみに表示される。
+
+### 過去に存在したモード
+
+  - PRACTICE
+    4thMIXにてBEGINNERモードに改正される形で廃止。その後V6にてEASYモード、新シリーズのXGにてPRACTICEモードと改正されていき、XG3にて削除された。
+  - NORMAL
+    REAL
+    EXPERT REAL
+    通常のゲームモード。特定のモードでしか選ぶことの出来ない楽曲も存在した。4thMIXにてSTANDARDモードとして統合される形で廃止。
+  - BONUS TRACK
+    3rdMIXから8thMIXまで搭載。通常よりも演奏時間の長いロング曲、およびメドレー曲をプレイすることが出来た。9thMIXにてSTANDARDモードに吸収され、V8でシリーズ終了およびXG3のCLASSICモード廃止で事実上全削除。
+  - NONSTOP
+    5thMIXからV3まで搭載。エキサイトゲージの回復なく4曲通しでプレイする上級者向けのモード。規定のコースのほか、任意の順序で4曲選択することができた。
+  - GRAND PRIX
+    V4、V5に搭載。一定期間内にどれだけの最高得点を得られるかを競う、全国大会専用モード。e-AMUSEMENT PASSを使用する場合のみに表示される。大会により、参加資格やルール、特典が異なり、1つの大会の開催期間は通常1〜2週間程度。いつも何らかの大会が、入れ替わりで開催されていた。
+  - QUEST
+    V6に搭載。様々な指令が用意されており、それをクリアを目指すモードである。また認定試験等もありプレイヤーの実力等を知る一つの目安となる。
+    :\*QUESTの例
+    :\*\*難易度15以上の曲をフルコンボでクリア
+    :\*\*DAYDREAMのEXTREMEをPERFECT率98%以上でクリア
+    といった指示があり比較的簡単な指示から容易に指示達成出来そうにない指示まで存在した。
+  - X-BATTLE
+    XGのみ搭載。Vシリーズに搭載されている『BATTLE(全国)』のXGバージョン。これはモードとしてではなくカスタマイズ画面で設定することによって参加することができた。
+  - CLASSIC
+    XG、XG2のみ搭載。5パット1ペダルのVシリーズ仕様譜面をXG筐体で遊べる。XG3では前作と平行して稼動していたVシリーズの終了により廃止\[4\]。
+
+## 譜面難度
+
+**EASY**、**BASIC**、**ADVANCED**、**EXTREME**の4種類が存在する。EASYのみBEGINNERモード（V6でEASYモードに改名）専用。 STANDARD、NONSTOPモードではハイハットを2回ずつ叩く事で、BASIC→ADVANCED→EXTREMEの順で難易度が上がる。ただし、曲によって存在しない難易度もある。3rdMIXまでは選曲モードに入る前にPRACTICE→EASY→NORMAL→REAL→EXPERT REALの中から難易度を選択することになっており、ゲームの途中で難易度を切り替えることは出来なかった（EXTRA STAGE、ENCORE STAGEも同様）。また、モードで譜面が固定されていた当時は各モード専用の楽曲としての位置付けがあった影響で、「愛のしるし」などの3rdMIXまでの一部楽曲ではBASIC、ADVANCED、EXTREMEの全難易度に譜面が揃っていない（V4で一部揃ったが全部の曲が対象でなく、またV5でFLY HIGH、V6でOnion manといった3譜面の揃っていない曲が復活したりしている）。
+
+  - 難度値
+    譜面の具体的な難度を表す数値。01〜99の99段階で示される(ただし10未満の数値はEASY譜面にしか存在しない)。曲の難しさを比較したり、自分の腕前に適正な曲を推測するのに役立つほか、STANDARDモードではスキルポイントにも影響を及ぼす。
+    V5にて、「Rock to Infinity」という曲のEXTREME譜面に「∞」という難度値が登場したが、それはあくまで**INFINITY STAGEにおける演出**であり、実際の難度値は99である。
+    なお、99段階難度は4thMIXからの導入で、3rdMIXまでは難易度は★の数で表されていた。
+
+## プレイスタイルメニュー
+
+プレイスタイルメニューを活用すると、ゲームを遊ぶ上で、様々な要素を自分好みにカスタマイズできる。
+
+プレイスタイルメニューは、以下の3つの方法で呼び出すことが可能。
+
+:\#エントリー画面（セッションの可否を選択する画面）で右ボタンを押しながらSTARTボタンを押す
+
+:\#曲選択画面でバスペダルを2回踏む
+
+:\#曲選択直後、画面が暗転するまでSTARTボタンを押しっぱなしにする とくにエントリー画面で呼び出した場合は、e-AMUSEMENT PASS使用時ならカードにプレイスタイルを保存でき、以降は同じプレイスタイルで遊ぶことができる。
+
+プレイスタイルメニューで設定できるのは、以下の要素。
+
+  - スクロールスピード (SPEED)
+    シーケンスが流れる速さのこと。現在(DM9以降)は×1倍速〜×10倍速まで、×0.5倍速刻みで変更が可能（DM8以前は×1倍速〜×7倍速まで×0.5倍刻み、DMは×2倍速(ハイスピード)一段階のみ、V4からスタンダードで×20.0倍、GRAND PRIXのかめ王決定戦で×0.5倍が使用可能）。
+    コマンドは2ndMix～V3までバスドラム二回連続踏み、初代DMはハイハット→スネア→ハイハット→ハイハット→スネア→ハイハット→バスドラム（モード選択、および1曲目の選曲時のみ有効）。現在はプレイスタイルメニューでのみ変更可能。
+  - TIGHT
+    プレイオプションの一つ。本来チップのないところを叩いてもミスにはならないが、このオプションをONにするとチップのないところで叩く（空打ち）とMISSになる。譜面が込み入っているところでは、とりあえず絡む全てのパッドを同じリズムで叩き続けるという攻略法も存在するが、このオプションをONにしているとそれが不可能になる。その意味で、通常に比べて難易度が上がるオプションである。
+  - RISKY
+    V5で登場した新オプション。V3まで存在したオプションHAZARDの進化版。一定回数（プレイヤーが4・2・1回から選択可能）POORもしくはMISSを出すとSTAGE FAILEDとなる（ただしHAZARDと同様に次のステージへ進む）。1人プレイ専用オプション。クリアしてもボーナスは無い。また、HAZARDはTIGHTオプションが同時に使えなかったが、RISKYは同時に設定できるので、両オプション設定時は空打ちのMISSもカウントされる。
+  - SHUTTER
+    V5で登場した新オプションで、beatmania IIDXやDanceDanceRevolutionでいう『SUDDEN+』。画面上部からシャッターを下ろすことで、プレイヤーが任意に譜面の一部を隠すことができる。隠す量は10%〜100%まで10%刻みで設定可能。
+  - AUTO
+    プレイオプションの一つ。バスドラム/ハイハット/シンバルのうちどれか1つの演奏をマシンに任せることができる。バスドラムへの適用は4th（家庭用では1st）より、それ以外は5thで初出。当初は家庭用でのプレイ時、踏むことによる騒音への対策として用意されたオプションであったと思われるが、後に難易度低下用のオプションとしてアーケードにも収録された。V5でバスドラム、ハイハット、シンバルの同時設定が可能(ただしバスとハイハット、ハイハットとシンバルのように2つの同時設定は不可)。このオプションを使うとスキルポイントおよび達成率は通常プレイと比べて半減する。また、XGシリーズでは2ペダル(レフトペダル、バスドラム)の設定も可能。
+  - REVERSE
+    通常は上から下へ移動するチップが、下から上に移動するようになる（判定ラインも画面上側に移動）。
+  - POSITION
+    タイミングの判定（「PERFECT」「POOR」など）の表示位置を、「通常（レーンの上）」「レーン下側」「消去」のいずれかに変更できる。
+  - COMBO
+    コンボ数の表示位置を「左側（デフォルト）」「中央」「右側」のいずれかに変更が可能。
+  - DARK
+    背景やエキサイトゲージ、判定ラインなどが見えなくなる。ただしエキサイトゲージが減少したときの演出は表示される。プレイが難しくなる反面、レーンの背景が見えなくなるためチップが見やすくなる効果もある。6thMIXより導入。
+    V4からは、従来のDARKは「DARK FULL」となり、そこから判定ライン・小節の区切り線などが見えるようになる「DARK HALF」という新たなスタイルが追加された。
+
+<!-- end list -->
+
+  - 過去存在したプレイスタイル
+    BRANCH
+    最初はバスペダルのチップのみが出現し、判定ラインの手前で本来の位置へ枝分かれする、「バーの数とタイミングがわかるSUDDEN」とも言えるプレイスタイル。8thMIXと7thMIXで存在。
+  - ITEM
+    「ゲームプレイの詳細」で述べた回復アイテムを使用するかどうかの設定。OFFにすると、回復アイテムを持っていてもゲージがゼロになるとゲームオーバーとなる。
+  - HAZARD
+    2回POORもしくはMISSを出すとSTAGE FAILEDとなる（ただしゲームオーバーにはならず次のステージへ進む）。1人プレイ専用オプション。クリアに成功すると8310点のボーナスが入り、曲選択画面でHAZARDクリアマークが表示される。HAZARDマークはFULL COMBOマークとは独立につく。V2とV3で存在。V4では削除された。
+
+## アンコール他ステージ
+
+3rdMIX以降は、EXTRA STAGE専用曲を選択してSランクを取った場合（V以降はPERFECT率が95%以上、V3以降は93%以上）、更に難易度の高い専用曲に挑戦するENCORE STAGEとなる。この際、演奏タイミングの評価でPERFECTの占める割合が96%以上（V3以前は98%以上）の場合は、更に難易度の高いPREMIUM ENCORE STAGE（V2〜V4はPREMIUM STAGE）となる。
+
+ENCORE STAGE以降は演奏する曲が固定され、自由に選ぶことはできない。また、EXTRA STAGEのプレイ譜面より上の難易度は選択できない。
+
+上記以外にも、作品により異なるステージが存在する。
+
+  - V4では、EXTRA STAGEに旧作での専用曲が出現し、そこでENCORE STAGEの条件を満たすとSPECIAL STAGEに、PREMIUM STAGEの条件を満たすとLEGEND STAGEに、それぞれ突入。いずれも旧作でのENCORE STAGE・PREMIUM ENCORE STAGEの楽曲が出現し、クリアするとその曲の特定パート・難度の譜面が解禁される。
+  - V5では特定条件を満たしてEXTRA STRAGEをクリアすると、INFINITY STAGEに突入。クリアすると引き続きENDINGとして、スタッフロール限定曲がプレイできる。また、V4と同じSPECIAL STAGEも存在。
+  - V6ではPREMIUM ENCORE STAGEをクリアすることで、BLAZING STAGEに突入。V5のENDINGと同じく、スタッフロール限定曲がプレイできる。
+
+## ゲーム内の企画
+
+  - ギタドランド
+    10thMIXで開催されていた陣取りゲーム式の隠し要素企画。参加資格は10thMIXで新規作成したカードで、カードの絵柄により5つのチームのいずれかに所属し、ゲーム終了時に出現するルーレットとMAXコンボ数により自分のチームにポイントが加算され、一定のポイントが蓄積されると次のエリアを取得できる。エリアによっては隠し曲が出現する場合もある。なお、GUITARFREAKSのそれとは独立している。
+  - ギタドキング
+    V以降で行われている個人戦。他機種でのインターネットランキングに相当する。[e-AMUSEMENT](https://ja.wikipedia.org/wiki/e-AMUSEMENT "wikilink")のカードを使用していれば誰でも参加できる。一定期間内に特定のテーマにより集められた5曲の成績で予選を行い、上位の一定人数が決勝戦に進む。
+    各曲の成績は、EXTREME譜面でEXCELLENTを出した時のスコアを100.00として換算される。曲によっては、HAZARDを利用することにより100.00点を超えることも可能である。
+    決勝では、隠し曲を含む3曲の成績の合計で順位を競う。隠し曲は次回のギタドキング開催の時に全員に解禁される。
+    V2の"ギタドキング2"第1回（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")開催）「LIVE2GO\!\!杯」はBEMANIトップランカー選手権の予選も兼ねていた。
+  - ギタドタワー
+    Vでの団体戦企画で、[e-AMUSEMENT](https://ja.wikipedia.org/wiki/e-AMUSEMENT "wikilink")のカードを使用していれば誰でも参加できる。5つのチームのいずれかに属し、プレイ終了後に各ステージもしくは最も成績が良かったステージのMAXコンボもしくはPERFECT数からポイントを算出するためのルーレットが回転し、止めた時の倍率でポイントを獲得するかもしくは他チームから奪うことができる。このポイントをチームで競い、一定期間ごとに所属していたチームの順位に応じてプレイヤーの所属階層が変化する。この階層に応じて隠し曲が出現する場合がある。階層が下がった場合は隠し曲が再度ロックされたりすることがある。
+  - ギタドチャンコ
+    V2での企画。初回プレイ時に[e-AMUSEMENT](https://ja.wikipedia.org/wiki/e-AMUSEMENT "wikilink")のカードにキャラクターを登録し、プレイ終了時に6種類のパラメータが成長する。ランダムで選ばれたプレイヤーのキャラクターと各パラメータを比較し、それによって勝率が決まるルーレットで勝てば階級が上がって曲が追加されたり、携帯電話用サイトで着信メロディや待ち受け画像などを獲得することが可能。
+  - 称号
+    V3より始まった企画。[e-AMUSEMENT](https://ja.wikipedia.org/wiki/e-AMUSEMENT "wikilink")のカードを使用したこれまでのシリーズにあったSPによる隠し曲の解禁やミニゲーム的企画を廃し、特定の条件を揃える事によって称号を獲得・表示できるようになった。ゲーム機内では、トータルリザルト画面でコマンドを入力した時、新称号を獲得した時のみ変更が可能である。なお、携帯電話用サイトでは、ゲームをしていない時も称号の変更が可能である。
+  - BATTLE（全国・店内）
+    V3より始まり、V8で終了したオンライン対戦専用のモード。
+      - 1人でゲームを行う場合のみ選択が可能。
+      - 店内モードは同バージョンのDrumManiaが複数台設置されている店舗でのみ表示される。
+      - プレイヤーのスキル差による圧倒的不利（有利）を防ぐため、SS〜D3（13段階）にクラス分けされ、所属するクラスにより楽曲のプレイできるレベルが制限される。また、BATTLEモード初回選択時のみ所属するクラスを選択できる。ただし店内モードでは所属するクラス分けは無効となる。
+      - 全国対戦でのマッチングは同クラスか隣接する上下1クラスから行われ、一定時間内に相手が見つからない場合はCOM戦となる。
+      - お互い1曲ずつ選択した曲（同レベル・同パート）で対戦し1曲100万点を満点とする2曲の合計ポイントを競う。
+      - ポイント加算方法は従来通りコンボ数とPERFECT数のバランス重視（**NORMAL**）、コンボが続かなくてもPERFECTの数で勝負出来る**PERFECT重視**、逆にPERFECTは少なくてもコンボさえ繋げられれば良い**COMBO重視**から曲選択時に選ぶ事ができる。
+      - 共通項目として1ラウンド2曲で都合4曲のプレイが保証される。オプション設定のRISKYは使用不可。(AUTO、RANDOMは互いに許可だった場合使用可)
+      - 全国モードにはギタドラシリーズの製作関係者達も時々ではあるが**本気で**参加している。また、台湾、香港、澳門（Macao、マカオ）、シンガポール（Singapore）からのプレイヤーも参加している。
+      - XGシリーズには1作目のXGにのみ『X-BATTLE』という名称で搭載されていた。カスタム画面から設定をONにしてSTANDARDモードをプレイするものであったが、これは全国対戦のみであり店内対戦はできなかった。
+      - 2013年3月31日でV8のオンラインサービスが終了したため、現在のGuitarFreaksおよびDrumManiaで全国対戦・店内対戦はできなくなった。
+  - EXTRA RUSH
+    V3より導入されたシステムで、GITADORAで廃止。
+    稼働開始時はLEVEL 1からスタートし、何日か（日数は不定）経過するとLEVELが上昇。それにともない、EXTRA・ENCORE専用曲の解禁条件が緩和（または無条件で解禁）されたり、ENCORE／PREMIUM専用曲が変化したりする。最高でLEVEL 15まで存在する。\[5\]
+    XGシリーズ以前のものだけだが、e-AMUSEMENTに接続されていない筐体、またはオンラインサービス終了後はLEVEL 1固定。よってe-AMUSEMENTに接続していてオンラインサービスが終了しLEVELが戻った筐体ではe-AMUSEMENT PASSを使って解禁した隠し要素も使えなくなる。
+
+## 関連ゲーム用語
+
+  - 多人数/1人多人数
+    本来は1人プレイ専用であるためGuitarFreaksでのセッション以外で2人以上でプレイすることは**不正行為**であり、beatmania IIDXでもシングルプレイやダブルプレイも二人以上ですることは禁じられている。(特にそれによるダブルプレイの**ランキング荒らし**が目立つ。)
+    『1人多人数』の意味は複数でやる多人数ではなく、1人プレイでやる凄まじい言葉であり、不正行為ではない。(beatmania IIDXのダブルプレイ時に使われる1人和尚と似ている。)
+  - マイスティック
+    筐体には基本的に2本のスティックが備え付けられているが、それを使用せず（もしくはそれと共に）プレイヤーが自ら持ち込んだスティックを使用すること、もしくはその持ち込んだスティックの事をいう。。しかし、本当の理由は備え付けのスティック以外でプレーして怪我をしたときなどの[PL法対策である](../Page/製造物責任法.md "wikilink")（公式に行われたトップランカー決定戦でも、参加者のマイスティック持参は黙認されている）。
+    備え付けのものはビニールテープによって折れたときも怪我をしにくくなっており、万が一手が滑っても飛んでいかないようにヒモをつけられている。ちなみにこのヒモがつながっている部分は本来は金属製のグリップがついているが、今日ではこれを外してねじ穴にヒモを通しているところも多い。だがしかし筐体付属のスティックは、金属グリップが付いていたり、重くて長い、叩いたときにスティックからカチカチと大きな音がする、ドラムプレイの基本テクニックであるリバウンドを利用する技術がほとんど使えないなど問題点が多くあり、これもマイスティック所有者を増やす一因となっている。
+  - ジェットスティック
+    スティックがプレイ中に滑って飛んでしまうこと。こうなってしまうとまず立て直しは不可能となる。マイスティックなど、筐体に固定されていない場合は、人にぶつかるなど危険も多いため注意を要する。
+  - スキルポイント
+    [e-AMUSEMENT](https://ja.wikipedia.org/wiki/e-AMUSEMENT "wikilink")のカードを使用してプレイし、曲を最後まで演奏することにより加算されていくポイント。SPと略される。難易度の高い曲を好成績でクリアすることでより多くのポイントを獲得できるため、プレイヤーの演奏能力の目安となる。[beatmania IIDXにおけるDJ](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink") POINTと異なり、SPの評価対象になる楽曲数はポイント上位30曲に限られる（1曲につき複数譜面のクリア履歴がある場合は、譜面難度に関係なくポイントが高いほうを優先）。V以降はノンストップモードでのポイント上位3コースの成績も加算されるようになった（V3では新曲13曲、旧曲35曲、long2曲、nonstop3曲が対象。V4、V5ではnonstopが削除されたために、新曲14曲、旧曲36曲、long3曲が対象）。そのためDJ POINTに比べ腕前の指標としての意味合いがより強い傾向にある。ただし、各曲およびコースのポイントは制作者によって譜面およびコースごとに設定された難易度の数値および計算式（公開されていない）に依存しているため、将来難易度の数値や計算式自体が変更された場合は、プレイヤーの演奏能力は変わらずとも、SPの値が変動することはありうる（実際、V2でのポイント計算式が前作のそれから若干変更されているとされる。また、V3で曲Lv自体に大幅変更が行われた）。V2以前ではSPが規定の数値に達するとEXTRA／ENCORE／PREMIUM各ステージの専用曲を通常の曲と同様に選択することが可能となっていたが、V3以降からは廃止された（V3では専用曲のEXTREMEを特定の条件でクリアすると常駐、V4以降は専用曲を特定の条件でクリアすると、条件を満たした難易度以下の譜面が常駐する）。
+  - セッションコンボ
+    9thMIX以降、セッションプレイにおいて全てのプレイヤーがミスをせずにプレイできているチップの数が集計されるようになった。これがセッションコンボで、セッションプレイの場合は10thMIXにおけるギタドランドのポイント基本値も最大セッションコンボ数となる。
+  - ギタドライフ
+    携帯電話サイトで会員登録することで利用できる、企画の状態を確認できるツール。ツール自体は[GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink")と共用で、メニューでどちらの状態を見るかを選択する。10thMIXおよびVでは団体戦企画のみ対応し、チーム内での貢献度順位を出す機能もあった。V以降は最後にプレイした店舗でバンドメンバー（セッションプレイの相方）を募集する機能も追加された。
+  - ギタドスロット
+    家庭用Vの要素。貯めたポイントで隠し曲が解禁される。ギタドスロットを使用しないようにもできる。
+
+## 歴代バージョン
+
+### アーケード版（XGシリーズ・GITADORAシリーズ）
+
+### アーケード版（旧シリーズ〈drummania〜V8〉）
+
+シリーズナンバーについては基本的には発売順と同じであるが、7thMIXにはe-AMUSEMENT関連の機能を追加した**power-up ver.**が存在する。また、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に稼働開始したバージョンではそれまでの様に数字を振るのではなく"**DrumManiaV**"というタイトルとなった。これについては、事実上同一機種であるGUITARFREAKSとのバージョンの統一を図るためのようで（実際に、番号がずれているので分かりづらかったという旨のスタッフの発言がある。）、このためか現在シリーズ全体の呼称の表記は**D**rum**M**ania、略称は**DM**となっている場合が多くなっている。2010年にXGが稼動してからは、メインがXGに移行したからか結構シンプルな構成になった。
+
+  - drummania（[1999年](../Page/1999年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")稼動開始）
+      -
+        キャッチフレーズは「**ドラムを叩け\!**」。シリーズ初作。収録曲は今となっては少ないが、この頃からのプレイヤーも多数現存する。[GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink") 2ndMIXとのセッションも可能。GOODは「HITS\!」に繋がらなかった。
+        また、このバージョンのみエキサイトゲージが画面左下にあり、横長である。
+  - drummania 2ndMIX（[2000年](../Page/2000年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")稼動開始）
+      -
+        キャッチフレーズは「**呼び覚ませ\!　魂の鼓動（リズム）\!**」。グラフィックが大幅に向上、曲選択画面やプレイ画面もフルモデルチェンジ。チップ連鎖が「HITS\!」から「COMBO」に。フィル・インは廃止。邦楽版権曲も多数収録。プレイオプションも細かく設定できるようになった。
+  - drummania 3rdMIX（[2000年](../Page/2000年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")稼動開始）
+      -
+        キャッチフレーズは「**攻撃的に**」。[GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink")との互換性が上がり、これ以降の新規追加曲は全ての曲でセッションが可能となる。また、EXTRA、ENCOREステージも初登場。
+  - drummania 4thMIX（[2001年](../Page/2001年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")稼動開始）
+      -
+        キャッチフレーズは「**“打”の衝撃を解き放て\!**」。ここから大幅にシステムが変更。曲の難易度レベルが10〜99表記に、難易度表示が前作までの「Normal、Real」など、モードでの譜面固定から「BASIC、ADVANCED、EXTREME」の途中で譜面変更可能に。選曲画面の曲バナーがなくなり、文字だけのシンプルな画面に。
+        GUITARFREAKS 5thMIX・[KEYBOARDMANIA](https://ja.wikipedia.org/wiki/KEYBOARDMANIA "wikilink") 3rdMIXとの[3機種マルチセッションが可能](https://ja.wikipedia.org/wiki/マルチセッションGDK "wikilink")。
+  - drummania 5thMIX（[2001年](../Page/2001年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")稼動開始）
+      -
+        キャッチフレーズは「**本能で叩け\!\!\!**」。NONSTOPモードが登場。オートプレイにバスだけでなくハイハット、シンバルも使えるようになった。細かな部分では、クリップ下部に曲名、選択モード等の情報が表示される様になった。
+  - drummania 6thMIX（[2002年](../Page/2002年.md "wikilink")[2月28日](https://ja.wikipedia.org/wiki/2月28日 "wikilink")稼動開始）
+      -
+        キャッチフレーズは「**Pursuing insatiable game play\! Much sophisticated and evolved. This is the NEW version\!**」。DARKオプションが使えるようになった。このバージョンで大量の曲の削除が行われ、残留曲数を遙かに上回る曲数が削除された(後に少しずつ復活していくことになる)。マルチセッションへの対応が終了。
+  - drummania 7thMIX（[2002年](../Page/2002年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")稼動開始）
+      -
+        キャッチフレーズなし。e-AMUSEMENTに対応し、自分のプレーの順位やヒットチャート等の情報が分かるようになった。本作より過去削除された曲からの復活枠が組まれるようになった。入門(BEGINNER、現在のEASY)モードが復活。選曲画面の曲バナーが既存の物もリメイクして復活。プレイオプション「Branch、Reverse」が使えるようになった。
+  - drummania 7thMIX power-up ver.（[2002年](../Page/2002年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")稼動開始）
+      -
+        キャッチフレーズなし。[e-AMUSEMENT](https://ja.wikipedia.org/wiki/e-AMUSEMENT "wikilink")の対応強化を主目的として発売されたマイナーバージョンアップ版。この作品からエントリーカードが使用できるようになった。加えて、新曲も少数だけ追加された。
+  - drummania 8thMIX（[2003年](../Page/2003年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")稼動開始）
+      -
+        キャッチフレーズは「**POWER UP over POWER UP\!\!**」。スキルポイントの全国ランキング表示やクリアした曲が一目で分かる様になった等といったカードの機能が充実した。だが、再び6thMIX並の大量の曲削除が行われる。
+  - drummania 9thMIX（[2003年](../Page/2003年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")稼動開始）
+      -
+        キャッチフレーズは「**Make a future groove\!**」。BONUS TRACKモードが廃止され、ロング曲はSTANDARDで選択できるようになった。PREMIUM ENCOREステージが登場。プレイオプション「Branch」が削除された。
+        本作から『[ee'MALL](https://ja.wikipedia.org/wiki/ee'MALL "wikilink")』に対応。同作で購入した曲アイテムで新しい曲をプレイできるようになった(クリップ部分は「曲の最初と最後に曲名を示す1枚絵+汎用ムービー」)。
+  - drummania 10thMIX（[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[4月22日](../Page/4月22日.md "wikilink")稼動開始）
+      -
+        キャッチフレーズは「**IT'S A SHOWTIME\!\!**」。ライセンス曲の新規収録曲数が歴代バージョン中最も多い(2012年現在)。V移行前のシリーズ最後のナンバリング作品である。
+  - DrumManiaV（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")稼動開始）
+      -
+        キャッチフレーズは「**yes\!\! just wanna "V"est\!\!\!**」。工場を基調としたデザインとなっている。システム基板の大幅な変更（PlayStation 2ベースでDVD-ROM＋HDDを搭載したものに変更された）により画質の向上を実現。それに伴い、モニターの画質が向上した新筐体も発売。クリップが大幅に綺麗になり、実写のムービーも扱えるようになったが、一部の既存クリップの画質が荒くなり、ガクガクになってしまったというデメリットもある(過去作品のクリップが[Flash的な実装をしていたために](../Page/Adobe_Flash.md "wikilink")、ムービーとして再エンコードしたため圧縮ノイズが乗ったためと言われている)。また、ディスク容量の向上からそれまで収録寿命の短かったロング曲枠から多くの曲が復活した。
+  - DrumManiaV2（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月24日](../Page/11月24日.md "wikilink")稼動開始）
+      -
+        キャッチフレーズは「**LIVE 2 GO\!\!**」(文字の色はグレーだが、「V」と「2」が赤で強調されている)。ライブを基調としたデザインとなっている。HAZARDオプションが使えるようになった。
+        9thMIXから続いてきた『ee'MALL』サービスの終了に伴い、それまで購入した曲をe-AMUSEMENTに接続している筐体のみでプレイできる救済措置が取られた(あくまでe-AMUSEMENT接続筐体のみなので、e-AMUSEMENTに接続していない店舗では遊ぶことができない)。
+        バグや難易度詐称が多い理由かで、不評が相次いだ。また判定も厳しめであったよう。
+  - DrumManiaV3（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月13日](../Page/9月13日.md "wikilink")稼動開始）
+      -
+        キャッチフレーズは「**Big Bang\! On Music Galaxy\!**」（文字の色は水色）。宇宙を基調としたデザインとなっている。[e-AMUSEMENT](https://ja.wikipedia.org/wiki/e-AMUSEMENT "wikilink") PASSに対応し、インターネット対戦が可能。
+        様々な条件を満たすことで、「称号」を得られる。「EXTRA RUSH」によって、一定期間ごとにEXTRA STAGEの曲が入れ替わる。
+        『ee'MALL』の収録曲が正式に[e-AMUSEMENT PASSを挿さなくとも選択できるようになり](https://ja.wikipedia.org/wiki/e-AMUSEMENT_PASS "wikilink")、家庭用MASTERPIECE SILVERに収録された3曲には新ムービーも追加されている(残りの曲はすべて従来通り「曲の最初と最後に曲名を示す1枚絵+汎用ムービー」)。
+  - DrumManiaV4 Яock×Rock（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[8月8日](../Page/8月8日.md "wikilink")稼動開始）
+      -
+        キャッチフレーズは「**Are you Ready? Experience the"DoubleRock\!\!"**」。Яock×Rockは『ダブルロック』と読む。TVショウを基調としたデザインとなっている。
+        ※このバージョンからタイトルの付け方が変化し、現バージョンの[beatmania IIDXと同様にシリーズ何作目かを示す番号の後ろに作品ごとのテーマがつけられており](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")、画面デザインもテーマに沿った造りとなっている。本作ではライブハウスを基調としたデザインになっている
+        [システム基板](https://ja.wikipedia.org/wiki/システム基板 "wikilink")もVシリーズになって2度目の大規模変更が行われ、[ギタドラ](https://ja.wikipedia.org/wiki/ギタドラ "wikilink")を除く他の[BEMANI](https://ja.wikipedia.org/wiki/BEMANI "wikilink")シリーズと同様に、組み込み機器向け[WindowsXP](https://ja.wikipedia.org/wiki/WindowsXP "wikilink") Embedded搭載のPCベース(プログラム格納部[DVD](../Page/DVD.md "wikilink")＋データ格納部[HDD](https://ja.wikipedia.org/wiki/HDD "wikilink")）となり、さらなる高画質化と大容量化を実現した。
+        今作では新曲ENCOREの他に旧曲ENCORE枠が存在し、前述の「EXTRA RUSH」システムに連動し、当時のバージョンのEXTRA曲を当時のバージョンの進出条件でクリアすると旧曲ENCORE・PREMIUM曲が出現し、クリアすると当時には存在しなかった譜面が登場する。
+        NONSTOPモード、HAZARDオプションが廃止された。
+  - DrumManiaV5 Rock to Infinity([2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月18日](../Page/6月18日.md "wikilink")稼働開始)
+      -
+        キャッチフレーズは「**What's waiting for us beyond"Infinity?"**」。無限を基調としたデザインとなっている。
+        プレミアムアンコールを超える「INFINITY STAGE」と「ENDING」登場。前述の旧曲ENCOREシステムを発展させ、特定条件を満たすと出現する。ここで登場する「Rock To Infinity」は、初めて譜面難度が99を超越し∞が登場した(この難度はDAY DREAMをも超越するものとなっている)。\[6\]また、DAY DREAM以来数年振りとなる演奏可能な形でのエンディング曲も登場した。
+        新曲に難易度詐欺が多く出た。
+  - DrumManiaV6 BLAZING\!\!\!\!([2009年](../Page/2009年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")稼動開始)
+      -
+        キャッチフレーズは「**"Join the excitement\!\!\!\!"**」。屋外ライブを基調としたデザインとなっている。
+        Vになって初めてオリジナル曲が削除された。\[7\]V5まで存在していた『グランプリモード』が廃止、その代わりに新モード『クエストモード』搭載。
+        今作は選択したモードには問わず、一曲目に限りエキサイトゲージがゼロになっても曲を最後までプレイ出来る(一曲保証)ようになった。
+        今作では詐称曲も旧曲を含め若干減っている。
+  - DrumManiaV7([2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")稼動開始)
+      -
+        キャッチフレーズは「**BEAT THE DRUM\!**」。サブタイトルは無し。これはV3以来となる。『クエストモード』が廃止された。
+        一時はXGシリーズと代替わりするかと思われたが、コナミの商談会で発売が発表された。XGより後発で稼働が開始され、先に登場したXGで搭載している「クラシックモード」とデータを共有できる。
+        2011年5月現在、メインシリーズでありながらロケテストがなかった。
+        筐体のサイズがXGよりも小さいので(V6以前と同様)店舗の大きさを考え、XGを稼動できないとした上でこちらを稼動する場合もあるが、XGに搭載される『クラシックモード』の関係もありXGとV7両方を稼動させる店舗もある。
+  - DrumManiaV8（[2011年](../Page/2011年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")稼動開始、Vシリーズ最終作）
+      -
+        今作もXGシリーズとの併用で稼動。また今作をもってVシリーズは終了。2012年からは**XGシリーズ一本のみとなる。**
+        稼動前は『前作の不評を受け、今作は盛大にシリーズを締めくくらせる』との情報があった\[8\]。
+        [2013年](../Page/2013年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")をもってe-AMUSEMENTサービスは終了。\[9\]。
+
+### コンシューマー移植版
+
+いずれも[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+
+  - drummania（[2000年](../Page/2000年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")発売）
+      -
+        PlayStation 2本体と同日発売。専用コントローラーとの同梱。セッションプレイも可能（ただし、ドラムを自動演奏にしてギターパートのみをプレイすることはできない）。唯一売上本数が10万本を超えた作品でもある。
+  - GUITARFREAKS 3rd MIX & drummania 2nd MIX（[2000年](../Page/2000年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")発売）
+      -
+        [GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink")とのカップリング。それぞれ単独でも遊べるが、プレイヤー二人によるギターとドラムのセッションプレイも可能。
+  - ギタドラ\! GUITARFREAKS 4th MIX & drummania 3rd MIX（[2001年](../Page/2001年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")発売）
+      -
+        家庭版専用の「ENDLESS」モードや、家庭用オリジナル曲も多数収録された。しかし致命的なバグ\[10\]が確認され、発売からすぐにコナミにより回収されることになってしまったためしばらく移植版が停滞していた。その後に再発売されたバグ修正版にはケースの側面の型番に・が付いている。
+        ちなみにこのソフトから[ヤマハ](../Page/ヤマハ.md "wikilink")の電子ドラム「DTXPRESS」シリーズを正式にコントローラとして使用することができるようになっていた。
+  - GuitarFreaksV & DrumManiaV（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")発売）
+      -
+        約4年半ぶりの家庭用ギタドラとなる。これに合わせてギター、ドラムの専用コントローラーも格安で再発売(初期版にあったスタンドは同梱されていない)。
+  - GuitarFreaks & DrumMania MASTERPIECE SILVER（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月31日](../Page/8月31日.md "wikilink")発売）
+      -
+        家庭移植版が存在しない4th〜10thの埋め合わせとして発売。インターネットによる人気投票とスタッフ選曲の基で、70曲以上収録。スキンのカスタマイズも可能。ee'MALL曲にはクリップも追加された。
+  - GuitarFreaksV2 & DrumManiaV2([2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")発売)
+      -
+        60曲以上収録。その中にはギタドラ最強(最凶)となる『DAY DREAM』も収録された。\[11\]。また、3rdMIX以来となる家庭用オリジナル曲も収録された。
+  - GuitarFreaks & DrumMania MASTERPIECE GOLD（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")発売）
+      -
+        MASTERPIECEシリーズの第2弾。こちらもSILVERと同じ選曲で70曲以上収録。スキンシステムにアタックエフェクトも設定可能になった。SILVERのデータを引き継げ、更に現在でも人気のある楽曲が収録されているためなくなるのが早かった作品でもある。
+  - GuitarFreaks & DrumMania V3([2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")発売)
+      -
+        家庭用オリジナル曲を含んだ、70曲以上を収録。アーケード版V4との連動機能を搭載。
+
+<!-- end list -->
+
+  -
+    家庭版では上記のV3が最後の作品だが、2019年8月現在でもシリーズ製作・移植終了は未だ発表されていない。\[12\]
+
+### 携帯電話アプリ版
+
+どちらも同社の携帯電話用コンテンツサービス「[コナミネットDX](https://ja.wikipedia.org/wiki/コナミネットDX "wikilink")」での配信（有料）。
+
+  - drummania（[au](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")・[EZアプリ](https://ja.wikipedia.org/wiki/EZアプリ "wikilink")用）
+      -
+        アーケード版「drummania 10thMIX」がベース。
+  - DrumMania（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")配信開始、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")・[i-mode](https://ja.wikipedia.org/wiki/i-mode "wikilink")用）
+      -
+        アーケード版「DrumManiaV」がベース。
+
+## 主要アーティスト
+
+  - [あさき](https://ja.wikipedia.org/wiki/あさき "wikilink")
+  - [泉陸奥彦](https://ja.wikipedia.org/wiki/泉陸奥彦 "wikilink")
+  - [小野秀幸](https://ja.wikipedia.org/wiki/小野秀幸 "wikilink")
+  - [肥塚良彦](https://ja.wikipedia.org/wiki/肥塚良彦 "wikilink")
+  - [中村康三](https://ja.wikipedia.org/wiki/中村康三 "wikilink")
+  - [桜井敏郎](https://ja.wikipedia.org/wiki/桜井敏郎 "wikilink")
+  - [桜井零士](https://ja.wikipedia.org/wiki/桜井零士 "wikilink")
+  - [佐々木博史](https://ja.wikipedia.org/wiki/佐々木博史 "wikilink")
+  - [Jimmy Weckl](https://ja.wikipedia.org/wiki/上高治巳 "wikilink")
+  - [ショッチョー](https://ja.wikipedia.org/wiki/佐伯茂治 "wikilink")
+  - 妹尾和浩
+  - [TAKA](https://ja.wikipedia.org/wiki/石川貴之 "wikilink")(colors)
+  - [Des-ROW](https://ja.wikipedia.org/wiki/右寺修 "wikilink")
+  - [Tatsh](https://ja.wikipedia.org/wiki/清水達也 "wikilink")
+  - [トーマス・リクテンスタイン](https://ja.wikipedia.org/wiki/トーマス・リクテンスタイン "wikilink")
+  - [TOMOSUKE](https://ja.wikipedia.org/wiki/舟木智介 "wikilink")(Orange Lounge)
+  - [Handsome JET Project](https://ja.wikipedia.org/wiki/Handsome_JET_Project "wikilink")
+  - 鈴木愛
+  - [Yuei](https://ja.wikipedia.org/wiki/植松斎永 "wikilink")
+  - [BeForU](https://ja.wikipedia.org/wiki/BeForU "wikilink")
+  - [古川元亮](https://ja.wikipedia.org/wiki/古川元亮 "wikilink")
+  - [TЁЯRA](https://ja.wikipedia.org/wiki/TЁЯRA "wikilink")
+  - [NAOKI](https://ja.wikipedia.org/wiki/前田尚紀_\(ミュージシャン\) "wikilink")
+  - 柴田浩之
+  - [DJ Yoshitaka](https://ja.wikipedia.org/wiki/西村宜隆 "wikilink")
+  - [wac](https://ja.wikipedia.org/wiki/脇田潤 "wikilink")
+  - [TAG](https://ja.wikipedia.org/wiki/TAG_\(作曲家\) "wikilink")
+  - [千本松仁](https://ja.wikipedia.org/wiki/千本松仁 "wikilink")
+  - [96](https://ja.wikipedia.org/wiki/黒沢ダイスケ "wikilink")
+
+歌唱参加
+
+  - [ナインゼロ](https://ja.wikipedia.org/wiki/ナインゼロ "wikilink")
+
+## 脚注
+
+<references/>
+
+## 外部リンク
+
+  - [GFdm GATEWAY](http://www.konami.jp/bemani/gfdm/)
+
+[Category:1999年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1999年のアーケードゲーム "wikilink") [Category:BEMANIシリーズ](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズ "wikilink") [Category:E-AMUSEMENT](https://ja.wikipedia.org/wiki/Category:E-AMUSEMENT "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:打楽器](https://ja.wikipedia.org/wiki/Category:打楽器 "wikilink")
+
+1.  [歴代最高に面白いゲーセンの「音ゲー」ランキング](https://news.nicovideo.jp/watch/nw3676427)ニコニコニュース
+2.  [『GuitarFreaksXG3』と『DrumManiaXG3』のサントラCD、本日発売！](https://www.famitsu.com/news/201203/21011830.html)ファミ通公式サイト
+3.  XG3ではモード自体が廃止されたため、エントリー後直接このモードに移行する。
+4.  このXG3でPRACTICEモードも廃止となったため、エントリー後は直接曲選択画面に行くようになった。
+5.  2010年のXG・V7からはXGがLEVEL 15、V7がLEVEL 14まで、XG3がLEVEL 10までとなった。
+6.  ただし通常解禁した場合は、100として表記できないためか難度は99で表示
+7.  V4で登場した『STAR OF MUSE』。
+8.  V7がXGの簡易的バージョンになってしまったのと同じく、今作もコストを削減したようなXG2の簡易的バージョンになってしまっている。XGにしか収録されていなかった楽曲が収録されたり、ENCORE STAGEに版権曲が初めて収録されるなど発展があったようだが、しかしそれでも最終的に不評がなくなるということはなかったようだ。
+9.  そのため旧シリーズとしても一番息の長いバージョンになった。
+10. 接続してあるドラムコントローラーが反応しないというもの。
+11. 『ギタドラ\! GUITARFREAKS 4th MIX & drummania 3rd MIX』にも隠し曲として収録されているため、事実上の再収録である。
+12. 版権曲の関係かと思われたが、現在BEMANIシリーズのほぼ全てが家庭用ゲーム機用としての発売を行っていない、コンシューマへの移植から身を退いていることも考えられる。

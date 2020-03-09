@@ -1,0 +1,1029 @@
+> この記事は[SPORTS](https://ja.wikipedia.org/wiki/SPORTS)から翻訳されています。
+
+
+『**ジャンクSPORTS**』（ジャンク・スポーツ）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されている](../Page/フジネットワーク.md "wikilink")[スポーツ](../Page/スポーツ.md "wikilink")を題材とした[トーク](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）[4月11日](../Page/4月11日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")までレギュラー放送され、レギュラー終了後は、[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")として不定期に放送されていたが、[2018年](../Page/2018年.md "wikilink")（平成30年）[1月28日](../Page/1月28日.md "wikilink")から毎週[日曜日](../Page/日曜日.md "wikilink")19:00 - 20:00 ([JST](../Page/日本標準時.md "wikilink")) にて再度、レギュラー放送されている。[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")、[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作を実施している。通称は『**ジャンク**』『**ジャンスポ**』。こちらでいう「ジャンク」とは英語で「中毒」のこと。
+
+## 概要
+
+毎回様々なテーマを決め、[ダウンタウンの](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")[浜田雅功](https://ja.wikipedia.org/wiki/浜田雅功 "wikilink")ら[MC陣とゲストの](https://ja.wikipedia.org/wiki/司会 "wikilink")[アスリート](https://ja.wikipedia.org/wiki/アスリート "wikilink")らが[トーク](https://ja.wikipedia.org/wiki/トーク "wikilink")を展開する。
+
+また、様々な番組オリジナル[競技](https://ja.wikipedia.org/wiki/競技 "wikilink")でアスリートが対決するなどの企画もある。[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")・[プロ野球](../Page/日本プロ野球.md "wikilink")・[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[MLB](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")・[UEFAなどの知名度の高いスポーツの選手だけでなく普段マスコミではあまり取り上げられない知名度の低いスポーツ選手も恒常的にゲストに呼ぶのが特徴](../Page/欧州サッカー連盟.md "wikilink")。また「アスリートの奥様」「スポーツマスコミ」「元アスリート芸能人」など、スポーツ関係者を広範に特集するなどとアスリート以外にもスポーツ業界の裏側が見られる事もしばしば。
+
+この番組がきっかけで浜田はフジテレビ・FNS系列の[トリノオリンピックの特別キャスターに起用された](https://ja.wikipedia.org/wiki/2006年トリノオリンピック "wikilink")\[1\]。内田と当時ダウンタウンなどの[マネージャー](../Page/マネージャー.md "wikilink")を務めていた[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")社員の木本公敏が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月に結婚した（その後木本・内田夫妻は独立し個人事務所を設立）。
+
+[2000年](../Page/2000年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")より、毎週[火曜日](../Page/火曜日.md "wikilink") 23:00 - 23:30（『[バラパラ](https://ja.wikipedia.org/wiki/バラパラ "wikilink")』枠、以下すべて[JST](../Page/日本標準時.md "wikilink")）で[深夜](https://ja.wikipedia.org/wiki/深夜 "wikilink")帯でレギュラー放送開始した。
+
+[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[1月11日](../Page/1月11日.md "wikilink")より、毎週[日曜日](../Page/日曜日.md "wikilink") 19:58 - 20:54に移動して深夜帯から[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")・[プライムタイム](https://ja.wikipedia.org/wiki/プライムタイム "wikilink")帯へ昇格した。
+
+2006年春期に、6年間レギュラー出演した俳優の[金子賢](https://ja.wikipedia.org/wiki/金子賢 "wikilink")が格闘家へ転身するために降板した。[4月23日](../Page/4月23日.md "wikilink")から俳優の[石垣佑磨](https://ja.wikipedia.org/wiki/石垣佑磨 "wikilink")がレギュラーに加入した。
+
+2006年[9月24日](../Page/9月24日.md "wikilink")は、本来のレギュラー枠はアニメスペシャル『[ONE PIECE](https://ja.wikipedia.org/wiki/ONE_PIECE_\(アニメ\) "wikilink")』となり、前枠の15:56 - 18:40で『[ベルリンマラソン](https://ja.wikipedia.org/wiki/ベルリンマラソン "wikilink")』 を予定していたが日本選手の欠場により中止となり、急遽16:00 - 18:00に『秋の大運動会 2時間スペシャル』として放送された。[2002年](../Page/2002年.md "wikilink")のスペシャル以来となる、全国28局ネットで放送される。
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月4日](../Page/2月4日.md "wikilink")の放送は、21:00からの『[発掘\!あるある大事典](https://ja.wikipedia.org/wiki/発掘!あるある大事典 "wikilink")II』がデータ捏造問題で[打ち切られたため](https://ja.wikipedia.org/wiki/打ち切り "wikilink")、『ジャンクSPORTS』は[19:58 - 21:50の枠で放送し](../Page/算木.md "wikilink")、後半部分は過去の未公開VTRなどで補填した。
+
+2007年[12月31日](../Page/12月31日.md "wikilink")の18:30 - 21:00は『[第58回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第58回NHK紅白歌合戦 "wikilink")』の裏番組として『**ジャンクSPORTS 2007大晦日スペシャル・浜田のハダカ祭り\!\!**』が放送され、[浅尾美和](https://ja.wikipedia.org/wiki/浅尾美和 "wikilink")と[西堀健実](https://ja.wikipedia.org/wiki/西堀健実 "wikilink")がビーチバレー対決第4戦を、「平成教育ジャンクSPORTS学院」と題して『[熱血\!平成教育学院](https://ja.wikipedia.org/wiki/熱血!平成教育学院 "wikilink")』のセットを流用したパロディを浜田が学院長、内田が助手、石垣は生徒、[長島一茂](https://ja.wikipedia.org/wiki/長島一茂 "wikilink")、[古閑美保](https://ja.wikipedia.org/wiki/古閑美保 "wikilink")、[土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")、[本田朋子](https://ja.wikipedia.org/wiki/本田朋子 "wikilink")らが、[内藤大助](https://ja.wikipedia.org/wiki/内藤大助 "wikilink")はボクシング対決、をそれぞれ行った。
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")に、MCの石垣が暴行容疑で逮捕されて芸能活動を自粛するため、既に収録済みの3週分は編集でカットして放送、その3ヶ月間は浜田・内田の2人体制となった\[2\]。放送では浜田のバストショットの多用、内田はあまり映さず映す際には画面の両端に帯を入れる、合成で後ろのセットを石垣に被せるなどの編集が行われた。しかしながらわずかに肩や顔が見切れてしまっているシーンもあった。
+
+[2009年](../Page/2009年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")は19:00 - 20:54に『WE LOVE SPORTSスペシャル』として、スポーツ大好き芸能人によるトークスペシャルと当日開催された「2009年[東京マラソン](https://ja.wikipedia.org/wiki/東京マラソン "wikilink")」に参加した芸能人による振り返りトークが生放送\[3\]された。また、当日の放送で新MCとして[大東俊介](https://ja.wikipedia.org/wiki/大東駿介 "wikilink")（番組に先立ち東京マラソンに参加）が紹介されたことに伴い前任の石垣はそのまま降板となった。
+
+2006年[10月15日](../Page/10月15日.md "wikilink")放送分よりタイトルロゴは従来の『ジャンクSPORTS』のままだが、一部新聞ラ・テ欄の番組名表記がロゴに存在しない「\!」を付けて「**ジャンクスポーツ\!**」に変更された。
+
+[2009年](../Page/2009年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")の2時間スペシャルは前半の時間が『[熱血\!平成教育学院](https://ja.wikipedia.org/wiki/熱血!平成教育学院 "wikilink")』の枠であるため、2番組のコラボレーションで「平成教育ジャンクSPORTS学院」を放送した。
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")の一部スポーツ紙に同年3月でレギュラー放送を終了すると報じられる。同年[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")の2時間スペシャル「ジャンクアワード マル秘映像大賞」放送を以って、深夜時代も含めた約10年間にわたるレギュラー放送は終了し、以後『[土曜プレミアム](https://ja.wikipedia.org/wiki/土曜プレミアム "wikilink")』枠などで改編期などにおける不定期での特番として制作が続けられている。
+
+[2018年](../Page/2018年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")から、毎週日曜日 19:00 - 19:57に2010年3月のレギュラー放送終了以来となる約8年ぶりにレギュラー放送が復活（再開後初回は19:00 - 21:54に3時間SP）。メインMCは、これまで通り浜田、女性MC（レギュラー3代目）には、[永島優美](https://ja.wikipedia.org/wiki/永島優美 "wikilink")（フジテレビアナウンサー）が務める。4代目のサブMCは不在になった。そして、発言テロップ等は同局の番組『[VS嵐](https://ja.wikipedia.org/wiki/VS嵐 "wikilink")』と同じ演出になった。ナレーターは[伊藤利尋](../Page/伊藤利尋.md "wikilink")（フジテレビアナウンサー）が務める。また、フジテレビ系列の日曜19時台がレギュラー放送のバラエティ番組枠になるのは『[日本語探Qバラエティ クイズ\!それマジ\!?ニッポン](https://ja.wikipedia.org/wiki/日本語探Qバラエティ_クイズ!それマジ!?ニッポン "wikilink")』以来の約3年ぶりとなる。なお『それマジ\!?』以来4年間続いた、直前番組『[サザエさん](https://ja.wikipedia.org/wiki/サザエさん_\(テレビアニメ\) "wikilink")』からの[ジャンクションは](https://ja.wikipedia.org/wiki/クロスプログラム "wikilink")、当番組より廃止された。
+
+2018年10月からは20時台の[フライングスタートが廃止されて](https://ja.wikipedia.org/wiki/フライングスタート_\(放送\) "wikilink")、20:00終了となった。
+
+2020年4月、放送開始20周年を迎える予定。
+
+## 出演者
+
+### [メインMC](https://ja.wikipedia.org/wiki/司会 "wikilink")
+
+  - [浜田雅功](https://ja.wikipedia.org/wiki/浜田雅功 "wikilink")（[ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")）
+
+<!-- end list -->
+
+  -
+    立ち位置は右側。レギュラー放送から特番まですべてに於いて出演。
+
+### サブMC
+
+立ち位置は中央。基本的にはあまり喋らない・トークに加わらないキャラクター設定となっている。
+
+  - [金子賢](https://ja.wikipedia.org/wiki/金子賢 "wikilink")（初代、2000年4月11日 - 2006年4月9日、2010年3月21日）
+  - [石垣佑磨](https://ja.wikipedia.org/wiki/石垣佑磨 "wikilink")（2代目、2006年4月23日 - 2008年11月16日、2010年3月21日）
+
+<!-- end list -->
+
+  -
+    レギュラー降板後は、最終回の2010年3月21日でクイズの回答者として久々に出演したが、MC当時同様喋らないキャラであった。
+
+<!-- end list -->
+
+  - [大東俊介](https://ja.wikipedia.org/wiki/大東駿介 "wikilink")（3代目、[2009年](../Page/2009年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink") - 2010年3月21日）
+
+<!-- end list -->
+
+  -
+    かつて同じ立ち位置にいた後述の金子や石垣はトークに殆ど参加せず、喋らないMCというキャラを確立していた（どちらかと言えば、スペシャルなどの対決モノで活躍することが多かった）。大東は稀にアスリートに質問を振る機会があり金子・石垣に比べてトークにもある程度参加しているが、スポーツファンタスティックなどのロケ企画を中心に活躍している。
+
+<!-- end list -->
+
+  - 4代目は不在。
+
+### 進行
+
+立ち位置は左側。
+
+  - [大橋マキ](https://ja.wikipedia.org/wiki/大橋マキ "wikilink")（初代、当時フジテレビアナウンサー、放送開始 - 2001年3月）
+  - [内田恭子](https://ja.wikipedia.org/wiki/内田恭子 "wikilink")（2代目、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月までフジテレビ[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")・現在は[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")、[2001年](../Page/2001年.md "wikilink")4月 - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月。)
+
+<!-- end list -->
+
+  -
+    基本の番組進行は浜田、女性アシスタント（大橋マキ → 内田恭子）、男性レギュラー（金子賢→石垣佑磨→大東俊介）の3名で行っているが**“司会”と肩書がテロップで表示されているのは番組開始以来、長らく浜田のみであった**。画面向かって中央にいる男性レギュラーには肩書なし、向かって左にいる女性アナには担当しているスポーツニュース番組のキャスターという旨の肩書（例：“『[すぽると\!](../Page/すぽると!.md "wikilink")』キャスター”）がつけられていたが内田は『すぽると\!』降板後の2006年4月9日以降肩書なしとなり、テロップのバランスが少し悪くなってしまった。
+    2006年11月頃からテロップが一新。肩書の表記が「司会」から「MC」に変更され、その肩書は浜田ではなく内田につけられた。
+    ゲストとのトークの時、司会の浜田と男性レギュラー（金子→石垣→大東）は椅子に座っているが内田は立って進行している。
+
+<!-- end list -->
+
+  - [山﨑夕貴](https://ja.wikipedia.org/wiki/山﨑夕貴 "wikilink")（フジテレビアナウンサー、2011年の特番のみ）
+  - [加藤綾子](https://ja.wikipedia.org/wiki/加藤綾子 "wikilink")（フジテレビアナウンサー、2012年9月17日、2013年2月16日）
+  - [永島優美](https://ja.wikipedia.org/wiki/永島優美 "wikilink")（3代目、フジテレビアナウンサー、[2018年](../Page/2018年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink") - ）
+
+### コーナー出演者
+
+  - [三宅正治](../Page/三宅正治.md "wikilink")（フジテレビアナウンサー、『スポーツファンタスティック』『アスリートに聞きました\!』『スポーツ奥の奥』MC、放送開始 - 特番・2018年2月18日-）不定期出演
+  - [小林麻央](../Page/小林麻央.md "wikilink")（フリーアナウンサー、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")4月 - 最終回、『ファンタスティックストーリー』ナビゲーター）
+
+## 主なコーナー
+
+### スポーツファンタスティック
+
+  - メインのトークコーナー終了後、MCに三宅アナが加わりアスリートの企画ロケVTRなどを放送する。深夜時代からの人気コーナー。
+  - スポーツ界の三面記事的なネタ紹介が中心（ジャンク WORLD SPORTSなど）。視聴者が撮影したスポーツのスクープ映像を募集しており、採用されると賞金がもらえる。
+  - かつては、番組に出演した[関口房朗](https://ja.wikipedia.org/wiki/関口房朗 "wikilink")から浜田と関口が同じ[尼崎出身ということで命名件を得た競走馬の](../Page/尼崎市.md "wikilink")[フサイチジャンク](https://ja.wikipedia.org/wiki/フサイチジャンク "wikilink")のレースが近づくと速報で伝えていた。しかし、[菊花賞](../Page/菊花賞.md "wikilink")出走後は殆ど登場することはなかった。[新馬](https://ja.wikipedia.org/wiki/新馬 "wikilink")戦を勝利したときの[ゼッケンがスタジオに飾られていた](https://ja.wikipedia.org/wiki/ゼッケン_\(競馬\) "wikilink")。
+  - BGMは映画『[80日間世界一周](https://ja.wikipedia.org/wiki/80日間世界一周 "wikilink")』のテーマ曲。
+  - 向かって左から男性レギュラー（金子→石垣→大東）・浜田・三宅アナ・女性アシスタント（大橋→内田）の順に座ったセットがメインセットに登場するところから始まる。
+  - このコーナーで金子と浜田が[ガリガリ君](https://ja.wikipedia.org/wiki/ガリガリ君 "wikilink")のCMソングの一部を歌い、製造元の[赤城乳業](https://ja.wikipedia.org/wiki/赤城乳業 "wikilink")からガリガリ君が送られたことがある。
+  - [F1などのイベントや美人女性アスリート紹介などでは浜田を模した人形](../Page/フォーミュラ1.md "wikilink")「ハマダくん」が登場し、ハマダくんがリポーターとなってリポートすることもある。
+  - このコーナーのときだけアスリートが座っていた席にいろいろな動物の着ぐるみを着た人が座っている。たまに、その人たちが手を振りながらコーナーが終わるときがある。
+  - 他番組のコーナーのパロディをする事がある（例：『[出没\!アド街ック天国](https://ja.wikipedia.org/wiki/出没!アド街ック天国 "wikilink")』等）。その度に三宅は「まさにどの番組もした事がない斬新な企画\!\!」という為、浜田から突っ込まれるのが恒例となっていた。
+
+### アスリートに聞きました\!
+
+  - 2004年1月からスタートした新コーナー。アスリートからアスリートへ質問をぶつけて見ようというコーナー。このコーナーも三宅アナの進行で送る。
+  - 三宅アナは後ろの出演者にかぶらんとする程カメラに近くに映るのだがメインセットに背を向けているため、ゲストアスリートに背を向けた状態で質問を読むことになる\[4\]。
+
+### ファンタスティックストーリー
+
+  - 1人のトップアスリートを取り上げ、2004年4月からのレギュラーの小林麻央とのインタビューを交えて素顔に迫る真面目なドキュメンタリー。
+
+2018年の復活後はクロストークの他に以下のコーナーも実施している。
+
+### ジャンクマッチ
+
+  - アスリートの驚異的な身体能力をいかした、出演者に合わせて考えた番組オリジナルの対決ゲーム。優勝者には浜田大明神金メダルが贈呈される。視聴者はデータ放送にてプレゼントが当たるアスリートの挑戦の結果を予想クイズに参加できる。
+
+#### ウォールダッシュ
+
+  - 2018年1月28日放送分に実施。[スポーツクライミング](https://ja.wikipedia.org/wiki/スポーツクライミング "wikilink")の一種目である、ウォールダッシュ。番組が用意した10mの高さの壁を\[5\]いかに速く登れるか挑戦してもらう。壁の頂上にはボタンがあり、押した時点のタイムが記録となる。そして、壁の傾斜や持ち手や足場となるホールドは競技さながら再現されている。今回は挑戦者全員初心者なので、難易度を下げたホールドを追加している。
+
+| \!挑戦者      | **タイム**                                                 |
+| ---------- | ------------------------------------------------------- |
+| デモンストレーション | [野中生萌](https://ja.wikipedia.org/wiki/野中生萌 "wikilink")   |
+| 1          | [羽根田卓也](https://ja.wikipedia.org/wiki/羽根田卓也 "wikilink") |
+| 2          | [藤光謙司](https://ja.wikipedia.org/wiki/藤光謙司 "wikilink")   |
+| 3          | [吉村真晴](https://ja.wikipedia.org/wiki/吉村真晴 "wikilink")   |
+| 4          | [槙野智章](https://ja.wikipedia.org/wiki/槙野智章 "wikilink")   |
+
+  - [カヌー](../Page/カヌー.md "wikilink")の羽根田卓也が優勝した。
+  - なお、この放送の前日の2018年1月27日の復活事前特番(関東ローカル)ではフジテレビアナウンサーの[内野泰輔](https://ja.wikipedia.org/wiki/内野泰輔 "wikilink")が挑戦した。タイムは46秒だった。
+
+#### マン振りドラコンバトル
+
+  - 2018年1月28日放送分にVTRで実施。ドライバーでゴルフボールをどれだけ遠くに飛ばせるかを競う。OBはなしのボールはどこに飛んでもOK。1人3球挑戦し、一番遠くに飛ばした人の優勝となる。
+
+なお、解説に[戸張捷](https://ja.wikipedia.org/wiki/戸張捷 "wikilink")が務めている。
+
+| **プレイヤー**                                                       | **1球目**  | **2球目**  | **3球目**  |
+| --------------------------------------------------------------- | -------- | -------- | -------- |
+| [ホラニ龍コリニアシ](https://ja.wikipedia.org/wiki/ホラニ龍コリニアシ "wikilink") | **222Y** | **108Y** | **251Y** |
+| [柏村亮太](https://ja.wikipedia.org/wiki/柏村亮太 "wikilink")           | **269Y** | **267Y** | **303Y** |
+| [山本隆弘](https://ja.wikipedia.org/wiki/山本隆弘 "wikilink")           | **256Y** | **270Y** | **246Y** |
+| [山崎武司](https://ja.wikipedia.org/wiki/山崎武司 "wikilink")           | **267Y** | **279Y** | **276Y** |
+| [石井一久](../Page/石井一久.md "wikilink")                              | **267Y** | **245Y** | **222Y** |
+| [山川穂高](https://ja.wikipedia.org/wiki/山川穂高 "wikilink")           | **249Y** | **251Y** | **268Y** |
+
+  - 優勝はハンマー投げ現役日本チャンピオンの柏村亮太だった。
+  - 6人のうち山本と山崎は前日の復活事前特番(関東ローカル)で、「前哨戦」としても放送されている。
+
+#### ラウンドシューティング
+
+  - 2018年1月28日放送分に実施。挑戦者は高台に立ち、18m離れた回転する5つのゴールに、サッカーならシュート、ゴルフならアプローチ、野球ならピッチングやバッティングでゴールを狙う。制限時間は60秒。集中力に加え高いコントロール能力が必要になってくる。なお一度ゴールに入ったボールが跳ね返って出た場合も1ゴールのとしてカウントされる。なお、ズブの素人代表として浜田も挑戦している。\[6\]
+
+<table>
+<thead>
+<tr class="header">
+<th><p><strong>プレイヤー</strong></p></th>
+<th><p><strong>ゴール数</strong></p></th>
+<th><p><strong>浜田記録</strong></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/槙野智章" title="wikilink">槙野智章</a><br />
+（サッカー）</p></td>
+<td><p><strong>3</strong></p></td>
+<td><p><strong>3</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/小平智" title="wikilink">小平智</a><br />
+（ゴルフ）</p></td>
+<td><p><strong>3</strong></p></td>
+<td><p><strong>1</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/今永昇太" title="wikilink">今永昇太</a><br />
+（野球・ピッチング）</p></td>
+<td><p><strong>6</strong></p></td>
+<td><p><strong>2</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/内川聖一" title="wikilink">内川聖一</a><br />
+（野球・ティーバッティング）</p></td>
+<td><p><strong>2</strong></p></td>
+<td><p><strong>なし</strong></p></td>
+</tr>
+</tbody>
+</table>
+
+  - 放送前日の復活事前特番(関東ローカル)ではゴルフの[永井花奈](https://ja.wikipedia.org/wiki/永井花奈 "wikilink")と野球の[桑原将志](https://ja.wikipedia.org/wiki/桑原将志 "wikilink")が挑戦している。
+
+<table>
+<thead>
+<tr class="header">
+<th><p><strong>プレイヤー</strong></p></th>
+<th><p><strong>ゴール数</strong></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>永井花奈<br />
+（ゴルフ）</p></td>
+<td><p><strong>1</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>桑原将忘<br />
+（野球・ティーバッティング）</p></td>
+<td><p><strong>2</strong></p></td>
+</tr>
+</tbody>
+</table>
+
+#### 神を止めろドリブル対決
+
+  - 2018年2月11日放送分に実施。ドリブルの神・[岡部将和](https://ja.wikipedia.org/wiki/岡部将和 "wikilink")のドリブルを止める1対1の対決ゲーム。岡部がスタートしてドリブルをしながらゴールラインに向かう際に、挑戦者はスタートラインとゴールラインの枠内で止めれば勝利となる。岡部がゴールラインを超えてしまうと挑戦者の負けとなる。
+
+| **挑戦者**                                               | **勝敗** |
+| ----------------------------------------------------- | ------ |
+| 浜田雅功                                                  | **敗北** |
+| [鈴木尚広](https://ja.wikipedia.org/wiki/鈴木尚広 "wikilink") | **敗北** |
+| [秋山翔吾](https://ja.wikipedia.org/wiki/秋山翔吾 "wikilink") | **勝利** |
+
+#### バンカー高跳び選手権
+
+  - 2018年6月10日放送分のスペシャルで実施。ゴルフ版[走り高跳び](https://ja.wikipedia.org/wiki/走り高跳び "wikilink")となっている。挑戦者は壁との距離1m50cmのところからバンカーショットを放つ。ボールが壁を超え奥にあるグリーン\[7\]に落としてカップインすればクリアとなる。なお、壁の高さは1m80cmからスタート。クリア者は次の高さに挑戦できるが、失敗すると脱落となり次の高さには挑戦できない。
+
+| **プレイヤー**                                               | **1m80cm**   | **2m**  |
+| ------------------------------------------------------- | ------------ | ------- |
+| [薗田峻輔](https://ja.wikipedia.org/wiki/薗田峻輔 "wikilink")   | **失敗**       | **―**   |
+| [小鯛竜也](https://ja.wikipedia.org/wiki/小鯛竜也 "wikilink")   | **失敗**       | **―**   |
+| [稲森佑貴](https://ja.wikipedia.org/wiki/稲森佑貴 "wikilink")   | **クリア**      | **失敗**  |
+| [深堀圭一郎](https://ja.wikipedia.org/wiki/深堀圭一郎 "wikilink") | **失敗**       | **―**   |
+| [星野隆也](https://ja.wikipedia.org/wiki/星野隆也 "wikilink")   | **失敗**       | **―**   |
+| [時松隆光](https://ja.wikipedia.org/wiki/時松隆光 "wikilink")   | **クリア**\[8\] | **失敗**  |
+| [今平周吾](https://ja.wikipedia.org/wiki/今平周吾 "wikilink")   | **クリア**      | **クリア** |
+| [石川遼](https://ja.wikipedia.org/wiki/石川遼 "wikilink")     | **失敗**       | **―**   |
+
+  - 優勝は今平周吾。
+
+その後エキシビションとして優勝した今平も含め5人が3mの壁に挑戦している（一部地域を除く）。
+
+| **プレイヤー** | **3m**       |
+| --------- | ------------ |
+| 今平周吾      | **クリア**      |
+| 小鯛竜也      | **クリア**\[9\] |
+| 深堀圭一郎     | **クリア**      |
+| 星野隆也      | **失敗**       |
+
+  - 5人のうち石川遼は壁の高さを3m50cmを自ら指定。難易度が高すぎるため壁を超えるだけでクリアとルールで行われた。3回目でクリアした。
+
+#### シュートスピードチャレンジ
+
+  - 2018年6月10日のスペシャルで実施。[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")に出場した元日本代表の方にシュートスピードがどれほどすごいのか披露してもらう。なお、ボールはワールドカップ・ロシア大会の公式球のテルスターを使用している。1人がチャレンジャーにボールをパスしてゴールに向かってシュートする。\[10\]
+
+| **チャレンジャー**                                                      | **記録**      |
+| ---------------------------------------------------------------- | ----------- |
+| [高原直泰](../Page/高原直泰.md "wikilink")                               | **80km／h**  |
+| [稲本潤一](https://ja.wikipedia.org/wiki/稲本潤一 "wikilink")            | **98km／h**  |
+| [駒野友一](https://ja.wikipedia.org/wiki/駒野友一 "wikilink")            | **105km／h** |
+| [巻誠一郎](https://ja.wikipedia.org/wiki/巻誠一郎 "wikilink")            | **108km／h** |
+| [岡野雅行](https://ja.wikipedia.org/wiki/岡野雅行_\(サッカー選手\) "wikilink") | **99km／h**  |
+
+  - 巻と岡野のチャレンジ時にはゴールキーパーの立場として[中村光宏](https://ja.wikipedia.org/wiki/中村光宏 "wikilink")(フジテレビアナウンサー)がゴール前に立ってシュートスピードを実際に体感した。
+
+### スポーツ奥の奥
+
+  - 2018年2月11日間放送分より開始。レジェンドアスリートだからこそ知る現実や現役選手ではなかなか言えないことのスポーツ界の奥の奥の裏話を赤裸々に語るコーナー。
+
+| **放送日**    | **ゲスト※50音順**                                                                                                                                                                                         | **テーマ**                                                   |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| 2018年2月11日 | 石井一久、[GG佐藤](https://ja.wikipedia.org/wiki/GG佐藤 "wikilink")、[谷繋元信](https://ja.wikipedia.org/wiki/谷繋元信 "wikilink")、[星野伸之](https://ja.wikipedia.org/wiki/星野伸之 "wikilink")                               | **プロ野球の戦力外**                                              |
+| 2018年2月18日 |                                                                                                                                                                                                      |                                                           |
+| 2018年2月25日 |                                                                                                                                                                                                      |                                                           |
+| 2018年3月11日 | 石井一久、[千葉真子](https://ja.wikipedia.org/wiki/千葉真子 "wikilink")、[長塚智広](https://ja.wikipedia.org/wiki/長塚智広 "wikilink")、[中西悠子](https://ja.wikipedia.org/wiki/中西悠子 "wikilink")                               | **[ドーピング](../Page/ドーピング.md "wikilink")**                  |
+| 2018年3月18日 |                                                                                                                                                                                                      |                                                           |
+| 2018年6月10日 | [北澤豪](../Page/北澤豪.md "wikilink")、[武田修宏](https://ja.wikipedia.org/wiki/武田修宏 "wikilink")、[土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")、[松木安太郎](https://ja.wikipedia.org/wiki/松木安太郎 "wikilink") | **[本田圭佑](https://ja.wikipedia.org/wiki/本田圭佑 "wikilink")** |
+| 2018年6月17日 | 石井一久、[高橋尚成](https://ja.wikipedia.org/wiki/高橋尚成 "wikilink")、[仁志敏久](https://ja.wikipedia.org/wiki/仁志敏久 "wikilink")、[真中満](https://ja.wikipedia.org/wiki/真中満 "wikilink")                                 | **[大谷翔平](https://ja.wikipedia.org/wiki/大谷翔平 "wikilink")** |
+
+## 浜田大明神
+
+### 概要
+
+元々、2006年に浜田が初めて[F1観戦をした](../Page/フォーミュラ1.md "wikilink")[ハンガリーグランプリ](https://ja.wikipedia.org/wiki/ハンガリーグランプリ "wikilink")で[ホンダ所属の](https://ja.wikipedia.org/wiki/ホンダF1 "wikilink")[ジェンソン・バトン](../Page/ジェンソン・バトン.md "wikilink")が優勝し「浜田が行けば奇跡がおこる」という神話がはじまりである。その後、ホンダ以外にも[トヨタ](https://ja.wikipedia.org/wiki/トヨタF1 "wikilink")、[スーパーアグリらのチームが浜田神話を信じるようになった](https://ja.wikipedia.org/wiki/スーパーアグリF1チーム "wikilink")。こうした声に応えるような形で、2007年のF1シーズンに浜田の顔を模した[地蔵](../Page/地蔵菩薩.md "wikilink")（当時は「浜田地蔵」と呼んでいた）をつくったのが始まり。このお地蔵様を、後に「浜田大明神」と呼ぶようになる。そのスーパーアグリは浜田地蔵を拝みジャンクのステッカーを車体に貼って同年の[スペイングランプリ](https://ja.wikipedia.org/wiki/スペイングランプリ "wikilink")に出場し、初のポイント獲得となった。
+
+こうしたご利益が多く生み出されたことからその後F1以外のアスリートにも広まり、これまでに多くのアスリートが浜田大明神にお願い事をしている。
+
+一般視聴者向けにも2007年末に「浜田大明神[ストラップ](https://ja.wikipedia.org/wiki/ストラップ "wikilink")」「浜田大明神ミニタオル」などのグッズを展開し、100種類以上のグッズが存在する。これらのグッズは、フジテレビのオンラインショップやフジテレビオフィシャルショップ（[お台場](../Page/お台場.md "wikilink")本社、[東京駅一番街](https://ja.wikipedia.org/wiki/東京駅一番街 "wikilink")内「[東京キャラクターストリート](https://ja.wikipedia.org/wiki/東京キャラクターストリート "wikilink")」）及び浜田大明神出張イベントなどで購入可能であった。2008年10月には期間限定で、[ファミリーマート](../Page/ファミリーマート.md "wikilink")で「浜田大明神スタミナカツ弁当」を発売した。また、フジテレビの夏イベント（[お台場冒険王](https://ja.wikipedia.org/wiki/お台場冒険王 "wikilink")、[お台場合衆国](https://ja.wikipedia.org/wiki/お台場合衆国 "wikilink")）や各種出張イベントで拝観が可能であった。
+
+2018年のレギュラー放送復活後は、MC席の右隣（かつて、前述の「フサイチジャンク」のゼッケンが飾られていた場所）に設置されている\[11\]。
+
+### 大明神からのお告げ
+
+お賽銭を入れると「**心を込めて願いなさい\!**」と浜田の声がするので、その後に願い事を言う。願い事を聞いた後、以下のようなパターンでお告げがある。願いが叶いやすいと思われるパターンから順に列挙する。
+
+  - **その願い、叶えてしんぜよう**（一番良いパターン）
+  - **よーし分かった、いつか叶えたる**
+  - **努力したか?、努力したら叶えたる**
+  - **よーし、気が向いたら叶えたろ**
+  - **6:4で叶えたる**
+  - **50:50で叶えたろ**
+  - **願いが叶うことだけが幸せと違うんやで**
+  - **叶うか叶わへんか、今はまだはっきりせえへん**
+  - **そんなん知らんわ**
+  - **その願いは無理やな**
+  - **プッ**（後ろを向いて[屁](https://ja.wikipedia.org/wiki/屁 "wikilink")をするもので、一番悪いパターン）
+
+## 番組で生まれた種目
+
+### グルグルフラッグス
+
+  - ビーチフラッグスと回転を合体させたこの種目。最初はシングル/1人だけでの挑戦だったが前[K-1](../Page/K-1.md "wikilink")会長の[石井和義](https://ja.wikipedia.org/wiki/石井和義 "wikilink")の提案でダブル/2人での対決バージョンに進化を遂げた。将来的には全国大会を実施する予定だとか。
+
+### スーパータッグオブウォー
+
+  - 規定体重の500kgの中で何人でも参加OKの[綱引き](../Page/綱引き.md "wikilink")対決。そのため、[格闘技](../Page/格闘技.md "wikilink")や[ラグビー](../Page/ラグビー.md "wikilink")等の選手がチームを組むと4人前後しか参加できないが、[ジョッキーの場合は](../Page/騎手.md "wikilink")[見習騎手](https://ja.wikipedia.org/wiki/見習騎手 "wikilink")（若手騎手）が体重50kgに満たない場合が多いため、10人以上でも参加可能である。ルールはカウントダウンのスタートの合図（特攻の噴火）と共に試合スタート。どちらかのチームの主将（最前の人）が谷底に落ちたその瞬間に試合終了となる。
+
+### レバーギブアップ
+
+  -
+    ジャンクCUP2010にお披露目されたパワー系競技。3人1組で挑むこのゲーム。スタートと同時に三つのレバーに向かって走り出して全てのレバーを倒したその瞬間に試合終了となる。
+
+### ビーチバレーボール対決
+
+  - [浅尾美和](https://ja.wikipedia.org/wiki/浅尾美和 "wikilink")と[西堀健実](https://ja.wikipedia.org/wiki/西堀健実 "wikilink")のペア（ビーチエンジェルス\[12\]）に司会の浜田を中心とした「ジャンクチーム」が激突する対決。戦績が下の通りになっている事から一部のジャンクスタッフから「**打倒\!ビーチエンジェルス**」の声がちらほらと聞こえている。
+  - 毎回、ジャンクチームは「**奥の手**」として様々なスポーツ選手の助っ人を用意するのがお約束となっている。ただし助っ人は時折[たむらけんじ](https://ja.wikipedia.org/wiki/たむらけんじ "wikilink")、[平井理央](https://ja.wikipedia.org/wiki/平井理央 "wikilink")といった芸能人やアナウンサーとなることもある。スポーツ選手もバレーボール選手に限らず、プロ野球選手・Jリーガーなど様々である。特に[チェ・ホンマン](https://ja.wikipedia.org/wiki/チェ・ホンマン "wikilink")が登場する場合は背丈の関係上、ジャンプせずともアタックやブロックができてしまうためビーチエンジェルスは苦戦する。
+  - このように毎回卑怯ともいえる「奥の手」を次々と投入し、必ず全員が[土下座](https://ja.wikipedia.org/wiki/土下座 "wikilink")して「泣きの延長1セット」を行いながらも毎回1セットも奪えずに敗れていた。しかし浅尾・西堀ペア解散に伴う最終戦となった第6戦では[楽天選手を中心としたチーム構成](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")（ユニフォームのロゴまで楽天に似せた「JUNK」の文字）で[岩隈久志](https://ja.wikipedia.org/wiki/岩隈久志 "wikilink")のスパイクが次々に決まるなど、最後にしてようやくビーチエンジェルスから1セット（3セットマッチの最終セット）を奪いついに勝利し「打倒\!ビーチエンジェルス」を叶えて見せた。
+  - 最終戦のジャンクチームに楽天軍団で挑むことについて、スタッフ陣はジャンクチームの勝利より、この年プレーオフにも進出し、楽天が話題になっていたことにあやかりたくて企画したもので、勝利を想定して考えたものではない。
+  - 助っ人でよく登場する大林素子は、「最初から私が出てれば勝てる」と助っ人として呼ばれる度、スタッフに口にしている。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>!開催時期</p></th>
+<th><p>ジャンクチーム</p></th>
+<th><p>浅尾&amp;西堀ペア<br />
+（ビーチエンジェルス）</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>2006春</p></td>
+<td><p>×</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>2007新春</p></td>
+<td><p>×</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>2007春</p></td>
+<td><p>×</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>2007大晦日</p></td>
+<td><p>×</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>2009新春</p></td>
+<td><p>×</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>2009年末</p></td>
+<td><p>○</p></td>
+</tr>
+</tbody>
+</table>
+
+### 平成教育ジャンクSPORTS学院
+
+  - ジャンクの前で放送している『[熱血\!平成教育学院](https://ja.wikipedia.org/wiki/熱血!平成教育学院 "wikilink")』とジャンクのコラボレーション企画。問題は全てスポーツに関するクイズで一番多くの正解数を出した生徒が優勝となる。
+
+| \!開催時期 | 優勝者     |
+| ------ | ------- |
+| 1      | 2007大晦日 |
+| 2      | 2009秋   |
+
+### ハイジャンプブロック
+
+  - 助走をつけてより高い所に手の先を付ければOK。測るのは手の一番先。どこまでに飛んだ高さで最も大きく飛んだ者が優勝となる。この種目は2003年の[W杯バレー前に全日本の選手達が挑戦し優勝は](https://ja.wikipedia.org/wiki/バレーボールワールドカップ "wikilink")[細川延由](https://ja.wikipedia.org/wiki/細川延由 "wikilink")だった。
+
+### 血液サラサラ選手権
+
+MCFANと呼ばれる装置に血液をセット。スタートの合図と共に一斉に流れ一番早く流れ切った者が優勝となる種目。
+
+  - [金村義明](https://ja.wikipedia.org/wiki/金村義明 "wikilink")は毎回、最下位になってしまっている。歴代優勝者は第1回がレーサーの[脇阪寿一](https://ja.wikipedia.org/wiki/脇阪寿一 "wikilink")でタイムは52秒、第2回はバレーボールの[中田久美](https://ja.wikipedia.org/wiki/中田久美 "wikilink")でタイムは58秒、第3回はK-1レフェリーの[角田信朗](https://ja.wikipedia.org/wiki/角田信朗 "wikilink")でタイムは57秒、そして第4回もK-1の[アーネスト・ホースト](https://ja.wikipedia.org/wiki/アーネスト・ホースト "wikilink")でタイムは60秒だった。又、逆に血液ドロドロ選手権と言う大会も行なわれた。第1回から第3回まで3回連続最下位の金村義明と第4回で最下位となった元・[横綱](https://ja.wikipedia.org/wiki/横綱 "wikilink")若乃花の[花田勝](https://ja.wikipedia.org/wiki/花田勝 "wikilink")が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月1日](../Page/5月1日.md "wikilink")放送分で激突。結果は花田がいち早く血液を全て流し切った為に、金村の4大会連続の最下位が決まった。
+  - そんな金村がリベンジを熱望し実現したのが、同年[10月2日](../Page/10月2日.md "wikilink")の放送で開催された「血液ドロドロ世界選手権」。スポーツコメンテーター、女性アスリート、肉体派アスリートの3組で予選を展開、その結果F1解説者[鈴木亜久里](https://ja.wikipedia.org/wiki/鈴木亜久里 "wikilink")、元バレーボール全日本代表[大林素子](https://ja.wikipedia.org/wiki/大林素子 "wikilink")、ボディビルダーの[山岸秀匡](https://ja.wikipedia.org/wiki/山岸秀匡 "wikilink")の3人が最後まで血液が流れきれず決勝で金村と対決することに。決勝は開始2分を過ぎた所で鈴木、山岸が血液を流し切り金村と大林の[一騎討ち](https://ja.wikipedia.org/wiki/一騎討ち "wikilink")となるが2分51秒、金村の血液が流れきり念願の最下位脱出。3分を過ぎても流れ切れなかった大林が世界王者となった。
+  - 2006年[10月8日](../Page/10月8日.md "wikilink")に「世界ドロドロ選手権2006」が開催。予選3組の中でトップとなった[篠原信一](https://ja.wikipedia.org/wiki/篠原信一 "wikilink")、[大菅小百合](https://ja.wikipedia.org/wiki/大菅小百合 "wikilink")、[板東英二](../Page/板東英二.md "wikilink")と前回、世界王者となった大林が対決。結果、大林は2位と最下位脱出。世界王者は3分を過ぎても流れなかった板東となった。
+  - 2007年に行われた[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")スペシャルでは「オフの間に不摂生をして血液ドロドロになっている選手は誰だ\!?」というテーマのもと、8人のゲストの中からエース[石川雅規](../Page/石川雅規.md "wikilink")・[青木宣親](https://ja.wikipedia.org/wiki/青木宣親 "wikilink")・[川島亮](https://ja.wikipedia.org/wiki/川島亮 "wikilink")・新婚の[城石憲之](https://ja.wikipedia.org/wiki/城石憲之 "wikilink")が選ばれ参加した。[古田敦也](../Page/古田敦也.md "wikilink")監督は「じゃあビリは開幕スタメン無しで」と予告したうえで、「青木は(いろんな意味で)期待に応えてくれますからね」と最下位予測した。さらに石川は「外食ばかりの青木には負けたくない」と宣言したが、川島が優勝、城石が準優勝で抜けたため、石川と青木の一騎討ちになってしまった。最終的には青木が最下位になり、青木は「開幕スタメンだけは…よろしくお願いします。」というコメントを残した。
+
+<!-- end list -->
+
+  - 歴代結果
+
+<!-- end list -->
+
+  - 第1回[血液サラサラ](https://ja.wikipedia.org/wiki/血液サラサラ "wikilink")選手権
+      - 優勝・[脇阪寿一](https://ja.wikipedia.org/wiki/脇阪寿一 "wikilink")/52秒（現在、血液サラサラ世界記録）
+      - 準優勝・[武蔵](../Page/武蔵_\(格闘家\).md "wikilink")/1分1秒
+      - 第3位・[河口正史](../Page/河口正史.md "wikilink")/1分9秒
+      - 最下位・[金村義明](https://ja.wikipedia.org/wiki/金村義明 "wikilink")/TIME OVER
+  - 第2回血液サラサラ選手権（金村の願いで、全員引退したアスリートにより開催）
+      - 優勝・[中田久美](https://ja.wikipedia.org/wiki/中田久美 "wikilink")/58秒
+      - 準優勝・[本並健治](https://ja.wikipedia.org/wiki/本並健治 "wikilink")/1分1秒
+      - 第3位・[舞の海](../Page/舞の海秀平.md "wikilink")/2分4秒
+      - 最下位・金村義明/2分16秒
+  - 第3回血液サラサラ選手権（金村の願いで、全員40代）
+      - 優勝・[角田信朗](https://ja.wikipedia.org/wiki/角田信朗 "wikilink")/57秒
+      - 準優勝・[三宅正治](../Page/三宅正治.md "wikilink")/1分3秒
+      - 第3位・[浜田雅功](https://ja.wikipedia.org/wiki/浜田雅功 "wikilink")/1分18秒
+      - 最下位・金村義明/1分30秒
+  - 第4回血液サラサラ選手権（金村挑戦権決定戦）
+      - 優勝・[アーネスト・ホースト](https://ja.wikipedia.org/wiki/アーネスト・ホースト "wikilink")/1分
+      - 準優勝・[ボブ・サップ](../Page/ボブ・サップ.md "wikilink")/1分10秒
+      - 第3位・[天田ヒロミ](https://ja.wikipedia.org/wiki/天田ヒロミ "wikilink")/1分40秒
+      - 最下位・[花田勝](https://ja.wikipedia.org/wiki/花田勝 "wikilink")/2分43秒
+  - 血液サラサラ選手権 決定\!ドロドロ血液No.1決定戦
+      - 勝ち・花田勝/1分36秒
+      - 負け・金村義明/1分47秒
+  - 血液ドロドロ世界選手権
+      - 第1位・鈴木亜久里/2分8秒
+      - 第2位・山岸秀匡/2分?秒
+      - 第3位・金村義明/2分51秒
+      - 最下位・大林素子/TIME OVER
+  - 世界ドロドロ選手権2006
+      - 第1位・大菅小百合/1分2秒
+      - 第2位・大林素子/2分28秒
+      - 第3位・篠原信一/2分45秒
+      - 最下位・板東英二/TIME OVER
+
+### アスリート　料理の鉄人
+
+  - フジテレビのかつての人気番組「[料理の鉄人](../Page/料理の鉄人.md "wikilink")」のパロディ。女性アスリート2名が料理で対決する。但し、[キッチンは普通のものを使用](../Page/台所.md "wikilink")。
+  - 審査員は3人で、1人はプロの料理人、その他は番組常連のアスリートで構成される。
+  - 全部で4回行われたが、全て結果は2-1である。
+
+| \!放送日 | **勝者**      | 敗者                                                          |
+| ----- | ----------- | ----------------------------------------------------------- |
+| 1     | 2008年11月16日 | **[古閑美保](https://ja.wikipedia.org/wiki/古閑美保 "wikilink")**   |
+| 2     | 2009年2月15日  | **[瀬間詠里花](https://ja.wikipedia.org/wiki/瀬間詠里花 "wikilink")** |
+| 3     | 2009年6月28日  | **[中野友加里](https://ja.wikipedia.org/wiki/中野友加里 "wikilink")** |
+| 4     | 2009年8月16日  | **[本橋麻里](https://ja.wikipedia.org/wiki/本橋麻里 "wikilink")**   |
+
+### グルグルフリースロー
+
+  - 大まかに言うと四段階に分かれているこのゲーム。
+  - 先ずは予選ステージ。1stは100cm・2ndは70cm・3rdは標準の45cm／其々、直径があるリングでチャンスは5球。
+  - 入る毎に決勝ステージ・成功時に貰える賞品が増える。
+  - そして決勝ステージでは先ず、グルグルマシーンに乗って[カウントダウン](https://ja.wikipedia.org/wiki/カウントダウン "wikilink")後に30回転・回る。
+  - 30回転回った後にバーが挙がった所から15秒以内にゴールを決めたら賞品獲得。失敗すると賞品不獲得となる。
+  - 決勝ステージは一発勝負でリングの大きさは2ndの70cmが採用される。
+
+### 世界の果てまで行ってP
+
+  - 番組プロデューサーが世界各国に行き豪華アスリートに番組出演を説得させるためにいろいろと挑戦する企画。第1回で朝青龍を説得すべくモンゴルに行き、現地でモンゴル相撲をして朝青龍のご機嫌をとった。年末には朝青龍が番組出演した。
+
+## エンディングテーマ
+
+  - レギュラー放送第2期、2018年5月6日放送分よりエンディングテーマ曲がついている。
+
+| OA年月       | タイトル     | アーティスト                                                                |
+| ---------- | -------- | --------------------------------------------------------------------- |
+| 2018年7月-   | まちがえた    | [SUPER BEAVER](https://ja.wikipedia.org/wiki/SUPER_BEAVER "wikilink") |
+| 2018年5月-6月 | PARALLEL | [PassCode](https://ja.wikipedia.org/wiki/PassCode "wikilink")         |
+
+## 「DANGER」マークについて
+
+この番組では放送上まずい発言についてはサイレンタイプの[放送禁止音](https://ja.wikipedia.org/wiki/放送禁止音 "wikilink")をかけて処理しているが、この際[テロップやMCの](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")[浜田雅功](https://ja.wikipedia.org/wiki/浜田雅功 "wikilink")やゲストアスリートの口にかぶせられるのが「**DANGER**」マークである。2006年[1月29日](../Page/1月29日.md "wikilink")の放送では[柔道](../Page/柔道.md "wikilink")の先輩である[古賀稔彦](../Page/古賀稔彦.md "wikilink")が独自の根性エピソードを披露したあと、後輩の[野村忠宏](https://ja.wikipedia.org/wiki/野村忠宏 "wikilink")が「**柔道家としては尊敬しているがこんなにバカだったとは思わなかった**」と発言し、「**バカ**」の部分だけこのマークと禁止音がかぶせられた\[13\]。
+
+## 特別番組
+
+### ジャンクCUP 2010（2010年）
+
+2010年[12月28日](../Page/12月28日.md "wikilink")（[火曜日](../Page/火曜日.md "wikilink")）に『スーパーアスリートが夢の対決\! ジャンクCUP 2010』（同日[19:00 - 22:50](https://ja.wikipedia.org/wiki/年の一覧 "wikilink")〈[JST](../Page/日本標準時.md "wikilink")〉）を放送。『ジャンクSPORTS』のレギュラー放送終了後初の特別番組となる。浜田雅功が考案の新競技にアスリートが対抗戦形式で対決する内容。司会は『ジャンクSPORTS』の浜田雅功、内田恭子、三宅正治、大東俊介が務めた。
+
+#### 放送内容
+
+  - 石川遼vs白鵬夢のゴルフ対決\!
+  - アスリートあるあるソング選手権
+  - トレインバランス
+  - お台場国際女子駅伝
+  - グルグルフラッグ
+  - レバーギブアップ
+
+#### スタッフ
+
+  - ナレーション: 鮎貝健、[中井和哉](https://ja.wikipedia.org/wiki/中井和哉 "wikilink")
+  - 編成企画: 渋谷謙太郎
+  - 企画・監修: 高須光聖
+  - スーパーバイザー: 香川春太郎、奥津啓治
+  - 構成: 村上卓史、宇奈月大使、遠藤みちスケ、渡辺哲夫、鮫肌文殊、一文無隼人、金森直哉、藤本昌平、[松本真一](https://ja.wikipedia.org/wiki/松本真一_\(放送作家\) "wikilink")、木村タカヒロ、原木綿子
+  - TD・SW: 石田智男
+  - SW: 塩津英史、二見健二、伊澤明男
+  - CAM: 武田篤、江藤秀一、村野哲也、若林茂人
+  - VE: 井上陽介、岡澤聡、梅川修三、大森克信、石井雅紀、渋谷岳彦、杉崎敏一
+  - LD: 大竹康裕、工藤昭仁、池田好一
+  - AUD: 石川剛、鈴木岳登、永井強、鈴木洋介、絹山幸広
+  - PA: 秋野岳夫
+  - CG: 畑野絵里、神保聡、川崎正裕
+  - 美術: 阿部知宏
+  - セットデザイン: 棈木陽次
+  - 美術進行: 荻原美樹雄、平山雄大
+  - メイク: 渋澤栄祐
+  - スタイリスト: 北田あつ子（浜田担当）、藤澤まさみ、水島依子、堀予、石橋修一
+  - 編集: 新田智伸、安田修、相澤太郎
+  - MA: 萩野賢、米山佐知子、高橋司
+  - 選曲効果: 東藤雅人、小林千尋、猪股敏昭
+  - TK: 松本理子、岡田紗代子、石井成子
+  - 編成: 大坊雄二
+  - 営業: 門脇寛至
+  - Special Thanks: 渡邊信治
+  - AD: 山嵜哲矢、戸川晃紀、ワッキー山口、前場智也、藤川勇太、佐竹優希、菅原晃子、川島英輝、石本賢司、山田圭祐、上田容史、勝田祥子
+  - AP: 山口雄人、福島愛子、栗原志帆
+  - 制作プロデューサー: 菅野貴志 (BEE BRAIN)、戸板雄明（エキスプレススポーツ）
+  - ディレクター: 阿部一志、荒木浩二、栗原真、平野幸久、神田真一、古賀智、馬場良仁、関本尚樹、大角隆文、岡島友孝、西村大介、三堂知典、高橋一也、三上圭太、中原幸司、寺野博史
+  - チーフディレクター: 升本琢也
+  - 総合演出: 栄田俊太郎
+  - プロデューサー: 宮本稔久・松岡明彦 (Y.C.A)、林敏博 (b-DASH)、村田聡子 (NET WEB)
+  - チーフプロデューサー: [熊谷太助](https://ja.wikipedia.org/wiki/熊谷太助 "wikilink")
+  - 技術協力: [八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")、[共同テレビジョン](../Page/共同テレビジョン.md "wikilink")、[FLT](https://ja.wikipedia.org/wiki/フジライティング・アンド・テクノロジイ "wikilink")、サンフォニックス、田中電設、[共立](https://ja.wikipedia.org/wiki/共立_\(照明\) "wikilink")、バンセイ、テクト、明光セレクト、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、[スウィッシュ・ジャパン](https://ja.wikipedia.org/wiki/スウィッシュ・ジャパン "wikilink")
+  - 撮影協力: [東筑波カントリークラブ](https://ja.wikipedia.org/wiki/東筑波カントリークラブ "wikilink")、[SOTETSU](https://ja.wikipedia.org/wiki/相模鉄道 "wikilink")
+  - 協力: [JOYSOUND](https://ja.wikipedia.org/wiki/JOYSOUND "wikilink")、[タバタ音楽事務所](https://ja.wikipedia.org/wiki/タバタ音楽事務所 "wikilink")、[ニシ・スポーツ](https://ja.wikipedia.org/wiki/ニシ・スポーツ "wikilink")、[アドゲイプロモーション](https://ja.wikipedia.org/wiki/アドゲイプロモーション "wikilink")、[ダンシングオフィス西条](https://ja.wikipedia.org/wiki/ダンシングオフィス西条 "wikilink")、[T-TRAVEL](https://ja.wikipedia.org/wiki/T-TRAVEL "wikilink")
+  - スタッフ協力: [b-DASH](https://ja.wikipedia.org/wiki/ビーダッシュ "wikilink")、D:COMPLEX、[BEE BRAIN](https://ja.wikipedia.org/wiki/ビー・ブレーン "wikilink")、[エキスプレススポーツ](https://ja.wikipedia.org/wiki/エキスプレススポーツ "wikilink")
+  - 制作協力: [よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")（生沼教行）、NET WEB（江間浩司）
+  - 制作: フジテレビスポーツ局スポーツ制作センター・第二スポーツ部
+  - 制作著作: フジテレビ
+
+### NEWジャンクSPORTS（2011年）
+
+2011年11月12日（[土曜日](../Page/土曜日.md "wikilink")）21:00 - 23:10に『[土曜プレミアム](https://ja.wikipedia.org/wiki/土曜プレミアム "wikilink")』内で『NEWジャンクSPORTS トーク復活祭り』が放送された。レギュラー時代から引き続いて浜田・三宅は出演したが、女性アシスタントは同局アナウンサーの[山﨑夕貴が務めた](https://ja.wikipedia.org/wiki/山崎夕貴 "wikilink")。なお、レギュラー放送時代の金子、石垣、大東らに該当する男性レギュラーはおらず、トーク部分については浜田と山崎の2人がMCを務めた。
+
+#### 放送内容
+
+放送内容としては、レギュラー時代のトーク中心であった。なお、この放送のエンディングで[内藤大助](https://ja.wikipedia.org/wiki/内藤大助 "wikilink")（ボクシング）が現役引退を発表した。
+
+#### スタッフ
+
+  - ナレーション: 鮎貝健、[佐藤賢治](https://ja.wikipedia.org/wiki/佐藤賢治_\(ナレーター\) "wikilink")
+  - 編成企画: 渋谷謙太郎
+  - 企画・監修: 高須光聖
+  - スーパーバイザー: 香川春太郎、奥津啓治
+  - 構成: 村上卓史、宇奈月大使、渡辺哲夫、一文無隼人、金森直哉、藤本昌平、岸本浩二、木村タカヒロ、原木綿子
+  - TD・SW: 石田智男
+  - CAM: 武田篤、江藤秀一
+  - VE: 井上陽介、小幡成樹
+  - AUD: 石川剛
+  - LD: 大竹康裕
+  - CG: 畑野絵里、神保聡、川崎正裕
+  - 美術: 阿部知宏
+  - セットデザイン: 棈木陽次
+  - 美術進行: 荻原美樹雄
+  - イラスト: 石井克信
+  - メイク: office MAKISE
+  - スタイリスト: 北田あつ子（office MAKISE、浜田担当）、藤澤まさみ、河西真弓、遠近浩子
+  - 編集: 新田智伸、安田修、相澤太郎、山田大輔
+  - MA: 米山佐知子、高橋司
+  - 選曲効果: 東藤雅人、小林千尋
+  - TK: 松本理子、岡田紗代子
+  - 編成: 大坊雄二
+  - 広報: 鈴木麻衣子
+  - 営業: 門脇寛至
+  - Special Thanks: 尾崎雄介、三堂知典
+  - AD: 青木修平、山嵜哲矢、戸川晃紀、グッチ原田、石本賢司、上田容史
+  - AP: 村上奈緒子、栗原志帆 (BEE BRAIN)
+  - ディレクター: 升本琢也、阿部一志、栗原真、関谷公紀、中原幸司、山田圭祐、川島英輝
+  - 演出: 栄田俊太郎、平野幸久、関本尚樹、寺野博史
+  - チーフディレクター: 木村壮
+  - 総合演出: 大谷雅和
+  - プロデューサー: 宮本稔久・松岡明彦（よしもとクリエイティブ・エージェンシー）、林敏博 (b-DASH)、江間浩司・村田聡子 (NET WEB)
+  - チーフプロデューサー: 熊谷太助
+  - 技術協力: 八峯テレビ、共同テレビジョン、FLT、サンフォニックス、[ニューテレス](https://ja.wikipedia.org/wiki/ニユーテレス "wikilink")
+  - スタッフ協力: b-DASH、D:COMPLEX、BEE BRAIN
+  - 制作協力: 吉本興業、NET WEB
+  - 制作: フジテレビスポーツ局スポーツ制作センター・第二スポーツ部
+  - 制作著作: フジテレビ
+
+### NEWジャンクSPORTS（2012年）
+
+[2012年](../Page/2012年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")（[月曜日](../Page/月曜日.md "wikilink")）19:00 - 20:54に『NEWジャンクSPORTS 浜田×五輪アスリート＝ロンドン㊙裏話大収穫祭SP』が放送された\[14\]。
+
+レギュラーの浜田と三宅が出演し、また、女性アシスタントは前半は同局アナウンサーの[加藤綾子](https://ja.wikipedia.org/wiki/加藤綾子 "wikilink")、後半は山﨑夕貴が務めた。トーク部分のMCは浜田と女性アシスタントの2人体制。内容としてはロンドンオリンピックに出場したアスリートとのトークなどを中心に構成（スタジオはロンドンオリンピックに出場したアスリートと「スポーツ大好き芸能人」のゲストが向き合う形のセットがとられた）。番組前半には「僕を試合に連れてって\!SUPERアスリートハンター」が放送された（いわゆる[フィーリングカップル](https://ja.wikipedia.org/wiki/フィーリングカップル "wikilink")、MCは浜田・加藤・三宅）。
+
+#### 放送内容
+
+  - 番組前半
+    \* MC - 浜田雅功、加藤綾子
+    \* ゲスト - [吉田沙保里](https://ja.wikipedia.org/wiki/吉田沙保里 "wikilink")、[浜口京子](https://ja.wikipedia.org/wiki/浜口京子 "wikilink")、[三宅宏実](https://ja.wikipedia.org/wiki/三宅宏実 "wikilink")、[八木かなえ](https://ja.wikipedia.org/wiki/八木かなえ "wikilink")、[清水聡](https://ja.wikipedia.org/wiki/清水聡_\(ボクサー\) "wikilink")、[松田丈志](../Page/松田丈志.md "wikilink")、[入江陵介](https://ja.wikipedia.org/wiki/入江陵介 "wikilink")、[立石諒](https://ja.wikipedia.org/wiki/立石諒 "wikilink")、[萩野公介](https://ja.wikipedia.org/wiki/萩野公介 "wikilink")、[新谷仁美](https://ja.wikipedia.org/wiki/新谷仁美 "wikilink")／[柴田理恵](https://ja.wikipedia.org/wiki/柴田理恵 "wikilink")、[天野ひろゆき](../Page/天野ひろゆき.md "wikilink")、[吉木りさ](https://ja.wikipedia.org/wiki/吉木りさ "wikilink")、[ヒデ](https://ja.wikipedia.org/wiki/ヒデ_\(お笑い芸人\) "wikilink")、[平井理央](https://ja.wikipedia.org/wiki/平井理央 "wikilink")（フジテレビアナウンサー）
+    \* ゲスト（「僕を試合に連れてって\!SUPERアスリートハンター」のコーナー） - [遠藤章造](https://ja.wikipedia.org/wiki/遠藤章造 "wikilink")、[JOY](https://ja.wikipedia.org/wiki/JOY_\(ファッションモデル\) "wikilink")、[後藤輝基](https://ja.wikipedia.org/wiki/後藤輝基 "wikilink")、[陣内智則](../Page/陣内智則.md "wikilink")、[ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")
+
+<!-- end list -->
+
+  - 番組後半
+    \* MC - 浜田雅功、山崎夕貴
+    \* ゲスト - [村田諒太](https://ja.wikipedia.org/wiki/村田諒太 "wikilink")、[竹下佳江](https://ja.wikipedia.org/wiki/竹下佳江 "wikilink")、[太田雄貴](https://ja.wikipedia.org/wiki/太田雄貴 "wikilink")、[三宅諒](https://ja.wikipedia.org/wiki/三宅諒 "wikilink")、[杉本美香](https://ja.wikipedia.org/wiki/杉本美香 "wikilink")、[蟹江美貴](https://ja.wikipedia.org/wiki/蟹江美貴 "wikilink")、[川中香緒里](https://ja.wikipedia.org/wiki/川中香緒里 "wikilink")、[早川漣](https://ja.wikipedia.org/wiki/早川漣 "wikilink")／[土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")、[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")、[設楽統](https://ja.wikipedia.org/wiki/設楽統 "wikilink")、[岡田圭右](../Page/岡田圭右.md "wikilink")、[本田朋子](https://ja.wikipedia.org/wiki/本田朋子 "wikilink")（フジテレビアナウンサー）
+
+#### スタッフ
+
+  - ナレーション: 鮎貝健
+  - 編成企画: 渋谷謙太郎
+  - 企画・監修: 高須光聖
+  - スーパーバイザー: 香川春太郎、奥津啓治
+  - 構成: 中野俊成、一文無隼人、渡辺哲夫
+  - リサーチ: 藤本昌平、岸本浩二、木村タカヒロ、原木綿子
+  - TD・SW: 石田智男
+  - CAM: 武田篤
+  - VE: 末永丈士
+  - AUD: 石川剛、斎藤由佳
+  - 照明: 大竹康裕
+  - 美術プロデュース: 副島翔太郎
+  - セットデザイン: 棈木陽次
+  - 美術進行: 荻原美樹雄
+  - 大道具: 浅見大、小林秀二
+  - アクリル装飾: 織田秀幸
+  - 生花装飾: 荒川直史
+  - 電飾: 斉藤誠二
+  - 特殊装置: 日下信二
+  - メイク: [山田かつら](https://ja.wikipedia.org/wiki/山田かつら "wikilink")
+  - CG制作: 畑野絵里、神保聡、川崎正裕
+  - スタイリスト: 北田あつ子（office MAKISE、浜田担当）、藤澤まさみ、遠近浩子
+  - ヘアメイク: 牧瀬典子（office MAKISE、浜田担当）
+  - 編集: 新田智伸、安田修、相澤太郎
+  - MA: 米山佐知子、高橋司
+  - 音効: 東藤雅人、小林千尋
+  - TK: 松本曜子
+  - イラスト: 石井克昌、青田明央
+  - 編成: 清水泰貴
+  - 広報: 鈴木麻衣子
+  - AD: 上田容史、石本賢司、山嵜哲矢、戸川晃紀、平田悠起
+  - AP: 竹原優作、上妻奈央
+  - ディレクター: 大谷雅和、山田圭祐、栗原真、平野幸久、川島英輝、池田靖、中原幸司、寺野博史、野中哲也、吉田悠太
+  - 演出：木村壮
+  - プロデューサー: 宮本稔久・松岡明彦（よしもとクリエイティブ・エージェンシー）、林敏博 (b-DASH)、江間浩司・村田聡子 (NET WEB)、菅野貴志・栗原志帆 (BEE BRAIN)
+  - チーフプロデューサー: 熊谷太助
+  - 技術協力：八峯テレビ、共同テレビジョン、FLT、サンフォニックス
+  - スタッフ協力: b-DASH、BEE BRAIN
+  - 制作協力: 吉本興業、NET WEB
+  - 制作: フジテレビスポーツ局スポーツ制作センター・第二スポーツ部
+  - 制作著作: フジテレビ
+
+### NEWジャンクSPORTS（2013年）
+
+[2013年](../Page/2013年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")の21:00 - 23:10の『[土曜プレミアム](https://ja.wikipedia.org/wiki/土曜プレミアム "wikilink")』枠にて『NEWジャンクSPORT 浜田×スーパーアスリート=噂の真相飛び出す\!SP』が放送された。
+
+レギュラーの浜田と三宅が出演し、また、女性アシスタントは同局アナウンサーの[加藤綾子](https://ja.wikipedia.org/wiki/加藤綾子 "wikilink")が務めた。トーク部分のMCは浜田と女性アシスタントの2人体制。
+
+#### 放送内容
+
+  - \* MC - 浜田雅功、加藤綾子／三宅正治
+    \* ゲスト - [村田諒太](https://ja.wikipedia.org/wiki/村田諒太 "wikilink")、[清水聡](https://ja.wikipedia.org/wiki/清水聡 "wikilink")、[川澄奈穂美](https://ja.wikipedia.org/wiki/川澄奈穂美 "wikilink")、[高瀬愛実](https://ja.wikipedia.org/wiki/高瀬愛実 "wikilink")、[金本知憲](https://ja.wikipedia.org/wiki/金本知憲 "wikilink")、[清原和博](https://ja.wikipedia.org/wiki/清原和博 "wikilink")、[新井貴浩](https://ja.wikipedia.org/wiki/新井貴浩 "wikilink")、[浅尾美和](https://ja.wikipedia.org/wiki/浅尾美和 "wikilink")、[小林可夢偉](https://ja.wikipedia.org/wiki/小林可夢偉 "wikilink")、[田中陽子](https://ja.wikipedia.org/wiki/田中陽子_\(サッカー選手\) "wikilink")、[京川舞](https://ja.wikipedia.org/wiki/京川舞 "wikilink")、[土井杏南](https://ja.wikipedia.org/wiki/土井杏南 "wikilink")、[朝原宣治](https://ja.wikipedia.org/wiki/朝原宣治 "wikilink")、[岸彩乃](https://ja.wikipedia.org/wiki/岸彩乃 "wikilink")、[渡部香生子](https://ja.wikipedia.org/wiki/渡部香生子 "wikilink")、[立石諒](https://ja.wikipedia.org/wiki/立石諒 "wikilink")、[扇原貴宏](https://ja.wikipedia.org/wiki/扇原貴宏 "wikilink")、[山口螢](https://ja.wikipedia.org/wiki/山口螢 "wikilink")、[井上尚弥](https://ja.wikipedia.org/wiki/井上尚弥 "wikilink")／[勝俣州和](../Page/勝俣州和.md "wikilink")、[土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")、[陣内智則](../Page/陣内智則.md "wikilink")、[菜々緒](https://ja.wikipedia.org/wiki/菜々緒 "wikilink")、[脇阪寿一](https://ja.wikipedia.org/wiki/脇阪寿一 "wikilink")、[三田友梨佳](https://ja.wikipedia.org/wiki/三田友梨佳 "wikilink")（フジテレビアナウンサー）
+
+#### スタッフ
+
+  - ナレーション: 鮎貝健
+  - 編成企画: 渋谷謙太郎
+  - 企画・監修: 高須光聖
+  - スーパーバイザー: 香川春太郎、奥津啓治
+  - 構成: 中野俊成、一文無隼人、渡辺哲夫
+  - リサーチ: 藤本昌平、岸本浩二、木村タカヒロ、原木綿子
+  - TD・SW: 石田智男
+  - CAM: 武田篤
+  - VE: 末永丈士
+  - AUD: 石川剛、斎藤由佳
+  - 照明: 大竹康裕
+  - 美術プロデュース: 副島翔太郎
+  - セットデザイン: 棈木陽次
+  - 美術進行: 荻原美樹雄
+  - 大道具: 浅見大、小林秀二
+  - アクリル装飾: 織田秀幸
+  - 生花装飾: 荒川直史
+  - 電飾: 斉藤誠二
+  - 特殊装置: 日下信二
+  - メイク: [山田かつら](https://ja.wikipedia.org/wiki/山田かつら "wikilink")
+  - CG制作: 畑野絵里、神保聡、川崎正裕
+  - スタイリスト: 北田あつ子（office MAKISE、浜田担当）、藤澤まさみ、遠近浩子
+  - ヘアメイク: 牧瀬典子（office MAKISE、浜田担当）
+  - 編集: 新田智伸、安田修、相澤太郎
+  - MA: 米山佐知子、高橋司
+  - 音効: 東藤雅人、小林千尋
+  - TK: 松本曜子
+  - イラスト: 石井克昌、青田明央
+  - 編成: 清水泰貴
+  - 広報: 鈴木麻衣子
+  - AD: 上田容史、石本賢司、山嵜哲矢、戸川晃紀、平田悠起
+  - AP: 竹原優作、上妻奈央
+  - ディレクター: 大谷雅和、山田圭祐、川島英輝、栗原真、寺野博史、池田靖、中原幸司、平野幸久、野中哲也、吉田悠太
+  - 演出: 木村壮
+  - プロデューサー: 宮本稔久・松岡明彦（よしもとクリエイティブ・エージェンシー）、林敏博 (b-DASH)、江間浩司・村田聡子 (NET WEB)、菅野貴志・栗原志帆 (BEE BRAIN)
+  - チーフプロデューサー: 熊谷太助
+  - 技術協力: 八峯テレビ、共同テレビジョン、FLT、サンフォニックス
+  - スタッフ協力: b-DASH、BEE BRAIN
+  - 制作協力: 吉本興業、NET WEB
+  - 制作: フジテレビスポーツ局スポーツ制作センター・第二スポーツ部
+  - 制作著作: フジテレビ
+
+### ジャンクSPORTSお宝映像大放出スペシャル（2013年）
+
+[2013年](../Page/2013年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")の19:00 - 22:54に『フジテレビ開局55周年記念 ジャンクSPORTSお宝映像大放出スペシャル』が放送された。
+
+#### 放送内容
+
+#### スタッフ
+
+  - ナレーション: [真地勇志](https://ja.wikipedia.org/wiki/真地勇志 "wikilink")、鮎貝健
+  - 企画: 清原邦夫
+  - 構成: 村上卓史、渡辺哲夫、一文無隼人、中野俊成、岸本浩二、原木綿子、藤本昌平
+  - 監修: 高須光聖
+  - リサーチ: 高森雄幸
+  - TD・SW: 石田智男
+  - CAM: 武田篤
+  - VE: 末永丈士
+  - AUD: 石川剛
+  - 照明: 大竹康裕
+  - 美術制作: 副島翔太郎
+  - セットデザイン: 棈木陽次
+  - 美術進行: 荻原美樹雄
+  - ヘアメイク: office MAKISE（浜田担当）
+  - CG制作: 畑野絵里、神保聡、川崎正裕
+  - 編集: 新田智伸、安田修、杉原丈司
+  - MA: 米山佐知子
+  - 音効: 東藤雅人・小林千尋（プロジェクト80）、星裕介 ([4-Legs](https://ja.wikipedia.org/wiki/4-Legs "wikilink"))
+  - TK: 小島陽子
+  - イラスト: 石井克昌
+  - 広報: 鈴木はるか
+  - AD: 冨山莉己、宗和慶介、榛沢祥希、高橋祥平
+  - AP: 秋元由紀子、村田聡子、中塚大悟、小笠原耕介
+  - ディレクター: 山田圭祐、川島英輝、中原幸司、寺野博史、神田真一、関本尚樹、相澤宏明、新井友和、齋藤愛、三上圭太、高橋一也、斉藤将之、荒木浩二、奥村直輝、高橋慶哉、稲山誠司、房川立樹
+  - 渉外: 太田光史、山根晋也
+  - チーフディレクター: 升本琢也
+  - 総合演出: 栄田俊太郎
+  - プロデューサー: 長谷川雅宏、宮本稔久・松岡明彦（よしもとクリエイティブ・エージェンシー）、林敏博 (b-DASH)
+  - チーフプロデューサー: 岡泰二
+  - 技術協力: [fmt](https://ja.wikipedia.org/wiki/フジ・メディア・テクノロジー "wikilink")、共同テレビジョン、サンフォニックス
+  - スタッフ協力: b-DASH、NET WEB、D:COMPLEX、FCIニューヨーク
+  - 制作協力: 吉本興業
+  - 制作: フジテレビスポーツ局
+  - 制作著作: フジテレビ
+
+### ジャンクSPORTS 〜2015注目アスリート大集合SP\!〜（2014年）
+
+[2014年](../Page/2014年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")（火曜日）[21:00 - 23:20に](https://ja.wikipedia.org/wiki/年の一覧 "wikilink")『ジャンクSPORTS 〜2015注目アスリート大集合SP\!〜』が放送された。
+
+### ジャンクSPORTS 大相撲SP（2015年）
+
+[2015年](../Page/2015年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")（土曜日）21:00 - 23:10に『土曜プレミアム』枠で『ジャンクSPORTS 大相撲SP』が放送された。
+
+### ジャンクSPORTS 〜新大関・照ノ富士も緊急出演\!SP〜（2015年）
+
+2015年[6月7日](../Page/6月7日.md "wikilink")（日曜日）[19:58 - 21:50に](https://ja.wikipedia.org/wiki/年の一覧 "wikilink")『ジャンクSPORTS 〜新大関・照ノ富士も緊急出演\!SP〜』が放送された。
+
+### ジャンクSPORTS 〜こんなの撮れました\!新撮映像 アスリートの見たことない瞬間SP〜（2015年）
+
+2015年[7月31日](../Page/7月31日.md "wikilink")（[金曜日](../Page/金曜日.md "wikilink")）21:00 - 22:52に『[金曜プレミアム](https://ja.wikipedia.org/wiki/金曜プレミアム "wikilink")』枠で『ジャンクSPORTS 〜こんなの撮れました\!新撮映像 アスリートの見たことない瞬間SP〜』が放送された。
+
+### ジャンクSPORTS 世界と戦う女子アスリートSP\!\!（2015年）
+
+2015年[8月16日](../Page/8月16日.md "wikilink")（日曜日）[19:58 - 21:50に](https://ja.wikipedia.org/wiki/年の一覧 "wikilink")『ジャンクSPORTS 世界と戦う女子アスリートSP\!\!』が放送された。
+
+## 関連番組
+
+### フジテレビ開局50周年特別企画
+
+2010年[1月10日](../Page/1月10日.md "wikilink")には、通常の『ジャンクSPORTS』にかわって『フジテレビ開局50周年特別企画 日本中が熱くなった歴史的瞬間\!\!独占\!\!スポーツ（秘）映像 今夜限りの解禁SP』（同日19:58 - 22:25（[JST](../Page/日本標準時.md "wikilink")））が放送された。この番組は直接的には『ジャンクSPORTS』のスペシャル番組ではないが通常『ジャンクSPORTS』が放送される時間帯にあわせて放送されたほかスタジオセットについても『ジャンクSPORTS』とほぼ同じ構成をとり、司会も『ジャンクSPORTS』の浜田、内田、大東が務めた。
+
+#### スタッフ
+
+  - AD：石川泰治、勝田祥子
+  - AP：村上奈緒子
+  - プロデューサー：熊谷太助
+  - ディレクター：上東 渉、陣川友裕、山崎勇平、神田真一、中原幸司、寺野博史
+  - チーフディレクター：升本琢也
+  - 総合演出：栄俊太郎
+  - 技術協力：八峯テレビ、共同テレビジョン、FLT、サンフォニックス、[ニューテレス](https://ja.wikipedia.org/wiki/ニユーテレス "wikilink")
+  - スタッフ協力：b-DASH、D:COMPLEX、BEE BRAIN
+  - 制作協力：吉本興業、NET WEB
+  - 制作：フジテレビスポーツ局スポーツ制作センター・第二スポーツ部
+  - 制作著作：フジテレビ
+
+## スタッフ
+
+### レギュラー（第1期）
+
+  - ナレーション：[鮎貝健](https://ja.wikipedia.org/wiki/鮎貝健 "wikilink")
+  - 企画・監修：[高須光聖](../Page/高須光聖.md "wikilink")
+  - スーパーバイザー：香川春太郎
+  - 構成：[村上卓史](https://ja.wikipedia.org/wiki/村上卓史 "wikilink")、[遠藤みちスケ](https://ja.wikipedia.org/wiki/遠藤みちスケ "wikilink")、[中野俊成](https://ja.wikipedia.org/wiki/中野俊成 "wikilink")、渡辺哲夫、[鮫肌文殊](https://ja.wikipedia.org/wiki/鮫肌文殊 "wikilink")、一文無隼人、金森直哉
+  - リサーチ：木村 タカヒロ、岸本浩二、[藤本昌平](https://ja.wikipedia.org/wiki/藤本昌平 "wikilink")（元[ファンキーモンキークリニック](https://ja.wikipedia.org/wiki/ファンキーモンキークリニック "wikilink")）、原木綿子
+  - TD・SW：石田智男・塩津英史（2人共フジテレビ）
+  - CAM：武田篤（フジテレビ）
+  - LD：大竹康裕（フジテレビ）
+  - VE：井上陽介（フジテレビ）
+  - AUD：石川剛
+  - CG：畑野絵里・神保聡・木本禎子（3人共フジテレビ）
+  - 美術制作：大坊雄二（フジテレビ）
+  - デザイン：棈木陽次（フジテレビ）
+  - 美術進行：堀部信行
+  - メイク：渋澤栄祐
+  - スタイリスト：北田あつ子（浜田担当）、藤澤まさみ、河西真弓
+  - 編集：新田智伸、三ツ井章文、相澤太郎、[安田修](https://ja.wikipedia.org/wiki/安田修_\(エディター\) "wikilink")
+  - MA：萩野賢、米山佐知子
+  - 音響効果：東藤雅人、小林千寿
+  - AD：関谷公紀（フジテレビ）、寺野博史、中原幸司、関本尚樹、神田真一、進通法孝
+  - ディレクター：[林敏博](https://ja.wikipedia.org/wiki/林敏博 "wikilink")（[b-DASH](https://ja.wikipedia.org/wiki/ビーダッシュ "wikilink")）、[木下智裕](https://ja.wikipedia.org/wiki/木下智裕 "wikilink")（フジテレビ）、小藤浩一、[升本琢也](https://ja.wikipedia.org/wiki/升本琢也 "wikilink")（フジテレビ）、高橋一也
+  - プロデューサー：秋元由紀子、村田聡子
+  - チーフプロデューサー：[吉村忠史](https://ja.wikipedia.org/wiki/吉村忠史 "wikilink")（フジテレビ、以前は総合演出→プロデューサー・演出）
+  - 技術協力：[共同テレビジョン](../Page/共同テレビジョン.md "wikilink")、[八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")、クラフトフィールド
+  - スタッフ協力：[D:COMPLEX](https://ja.wikipedia.org/wiki/ディ・コンプレックス "wikilink")
+  - 制作協力：[NET WEB](https://ja.wikipedia.org/wiki/ネットウエブ "wikilink")（奥津啓治、江間浩司）、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")（宮本稔久）
+  - 制作：フジテレビスポーツ局
+  - 制作著作：フジテレビ
+  - エンディングテーマ：zutto-zutto/[Pistol Valve](https://ja.wikipedia.org/wiki/ピストルバルブ "wikilink")（[R and C](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")）
+
+### レギュラー終了後の不定期特番
+
+  - 2014年9月13日放送分
+
+<!-- end list -->
+
+  - ナレーション：鮎貝健
+  - 制作協力：吉本興業
+  - 構成：村上卓史、渡辺哲夫、中野俊成、一文無隼人、金森直哉、藤本昌平、岸本浩二、原木綿子
+  - 企画・監修：高須光聖
+  - TD／SW：永野進（フジテレビ）
+  - CAM：武田篤（フジテレビ）
+  - VE：大西幸二（フジテレビ）
+  - 音声：日置健太郎
+  - 照明：大竹康裕
+  - TK：鈴木杏奈
+  - 技術協力：[fmt](https://ja.wikipedia.org/wiki/フジ・メディア・テクノロジー "wikilink")、サンフォニックス
+  - 美術制作：副島翔太郎（フジテレビ）
+  - 美術デザイン：棈木陽次（フジテレビ）
+  - 美術進行：荻原美樹雄
+  - メイク：Office MAKISE（浜田雅功担当）
+  - CG：畑野絵里・神保聡・川崎正裕（3人共フジテレビ）
+  - 編集：新田智伸、安田修、杉原丈司、近藤麻里子、櫛引芽寿美
+  - MA：米山佐知子
+  - 音響効果：星裕介・温水義成（2人共[4-Legs](https://ja.wikipedia.org/wiki/4-Legs "wikilink")）
+  - イラスト：石井克昌、青田明央、衣幡昌洋
+  - 広報：鈴木はるか（フジテレビ）
+  - リサーチ：高森雄幸
+  - 協力：ビーダッシュ、NET WEB
+  - コーディネーター：大政美奈子（BAHI TRAVEL AGENCY）
+  - AD：後藤悠太、赤石賢汰、中村梨那
+  - ディレクター：関屋公紀（フジテレビ）、中原幸司、松田裕士、大喜多高志、相澤宏明、斉藤将之、新井友和、田村海、三堂知典
+  - AP：花田真志（[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")）、中塚大悟（NET WEB）
+  - キャスティングプロデューサー：秋元由紀子、村田聡子
+  - チーフディレクター：升本琢也（フジテレビ）
+  - プロデューサー：長谷川雅宏（フジテレビ）、宮本稔久（よしもとクリエイティブ・エージェンシー）、林敏博（b-DASH）
+  - チーフプロデューサー：[清原邦夫](https://ja.wikipedia.org/wiki/清原邦夫 "wikilink")（フジテレビ）
+  - 制作：フジテレビスポーツ局
+  - 制作著作：フジテレビ
+
+#### 過去のスタッフ（第1期）
+
+  - プロデューサー：鈴木大吾
+  - ディレクター：中田三浩、[佐藤大輔](https://ja.wikipedia.org/wiki/佐藤大輔_\(映像作家\) "wikilink")
+  - 広報：[小田多恵子](../Page/小田多恵子.md "wikilink")（フジテレビ）
+  - AP：佐々木淳乃、滝澤美衣奈（フジテレビ）
+  - CAM：永野進（フジテレビ）
+  - VE：小田島健秀（フジテレビ）
+  - TK：盛ゆかり
+  - CG制作：[ケネックジャパン](https://ja.wikipedia.org/wiki/ケネックジャパン "wikilink")
+  - 美術制作：夏野展實・一色隆弘・井上明裕（全員共フジテレビ）
+  - デザイン：[山本修身](https://ja.wikipedia.org/wiki/山本修身 "wikilink")
+
+### レギュラー（第2期、2020年1月現在）
+
+  - ナレーション：[伊藤利尋](../Page/伊藤利尋.md "wikilink")（フジテレビアナウンサー）
+  - 制作統括：[中嶋優一](https://ja.wikipedia.org/wiki/中嶋優一 "wikilink")（フジテレビ）
+  - 構成：高須光聖／一文無隼人、藤本昌平、岸本浩二、森泉たつひで
+  - TP・SW：斉藤伸介
+  - カメラ：中島佑馬
+  - 音声：唐渡健夫（フジテレビ）／戸田裕生
+  - VE：関口貴久（フジテレビ）／齋藤雄一
+  - 照明：谷口明美／松田和樹（フジテレビ）
+  - 編集：粟嶋隆昌、渡邉寛樹、東川健太／渡邊実、斎（斉）藤紗矢香、山下大樹、古屋卓、藤本麻衣子、東川健太、小口夏樹
+  - MA：土屋信
+  - TK：星美香
+  - 音響効果：星裕介、温水義成／大平拓也
+  - CG：千代祥子・小倉敦之（フジテレビ）
+  - リサーチ：亀田貴誠、志土地俊【毎週】、近藤雄亮【不定期】
+  - 美術制作：三竹寛典・双川正文（フジテレビ）
+  - 美術デザイン：[鈴木賢太](https://ja.wikipedia.org/wiki/鈴木賢太 "wikilink")・杉山宏樹（フジテレビ）
+  - アートコーディネーター：内山高太郎
+  - 大道具：藤沢和雄
+  - 小道具：門間誠
+  - 電飾：時任伊織
+  - アクリル装飾：高橋瞳
+  - 花装飾：西村怜子
+  - アートフレーム：鈴木綱敏
+  - 植木装飾：後藤健
+  - メイク：Office MAKISE、[山田かつら](https://ja.wikipedia.org/wiki/山田かつら "wikilink")
+  - スタイリスト：利光英治朗(郎)
+  - 技術協力：[ニユーテレス](https://ja.wikipedia.org/wiki/ニユーテレス "wikilink")、[fmt](https://ja.wikipedia.org/wiki/フジ・メディア・テクノロジー "wikilink")、[共同テレビジョン](../Page/共同テレビジョン.md "wikilink")、サンフォニックス、[IMAGICA Lab.](https://ja.wikipedia.org/wiki/IMAGICA_Lab. "wikilink")、[4-Legs](https://ja.wikipedia.org/wiki/4-Legs "wikilink")
+  - 制作協力：吉本興業、b-DASH、ディ・コンプレックス、[NEXTEP](https://ja.wikipedia.org/wiki/ネクステップ "wikilink")、BEE BRAIN、[ABCリブラ](https://ja.wikipedia.org/wiki/ABCリブラ "wikilink")、共同テレビジョン
+  - 広報：神崎素子（フジテレビ）
+  - データ放送：岩崎祐也（フジテレビ）
+  - デスク：榎本かすみ
+  - 制作P：津野若菜・河合ちはる（フジテレビ）（共に以前はAP）
+  - AP：大賀ゆかり、高橋寿菜（ビーダッシュ）、土橋覚【週替り】／田井利可子、梶山智未、早川美沙（ビーダッシュ）
+  - FD：城山海周
+  - AD：古井絵里子（daInaRI）、佐々木華愛、岩田信歩、桑田悠司（ビーダッシュ）、植野池尋、渡辺亜美【週替り】／山田佳樹・梶山万悠子・三井翔（ビーダッシュ）、小谷拓也（ディ・コンプレックス）、大友淳、藤原麻衣、長野百里、荻原卓也
+  - ディレクター：前田匡寛、寺下洋平（daInaRI）、阪口悠樹、小野澤拓、宮原和音・金城和彦（ビーダッシュ）、池田靖、吉田悠太・山嵜哲矢・前場智也（ビー・ブレーン）、双津大地郎（[シオプロ](https://ja.wikipedia.org/wiki/シオプロ "wikilink")）、大塚隆史、鴛海剛、上松直也、舟津大雄・牛久英雄（ネクステップ）、新垣博章、高橋行広（ネクステップ）【週替り】、[宮木正悟](https://ja.wikipedia.org/wiki/宮木正悟 "wikilink")・米田唯一・間島陸（フジテレビ、間島→以前はFD）【毎週】／関屋公紀、伊豫直哉・清水悠貴・乙坂友一・海野友梨（ディ・コンプレックス）、栗城史人（ネクステップ）、青木恒介、市川良太（以前はAD）、藪原涼介（[東通企画](https://ja.wikipedia.org/wiki/東通企画 "wikilink")）、山本紗智子、西尾友里（ビーダッシュ）、中西正太（シオプロ）
+  - 演出：高橋正尚（フジテレビ、以前はディレクター）【毎週】、堀正義（ABCリブラ）、但木洋光、川本良樹（共テレ）、松田裕士（のれそれ丸）、石武士（ビー・ブレーン）、石川陽（ネクステップ）【週替り】／唐雅則（[スマイルオン](https://ja.wikipedia.org/wiki/スマイルオン "wikilink")）、夫馬教行（ディ・コンプレックス）、中田三浩（ビーダッシュ）
+  - キャスティングプロデューサー：金井由紀子（フジテレビ）、村田聡子（[passion](https://ja.wikipedia.org/wiki/パッション_\(テレビ制作会社\) "wikilink")）
+  - プロデューサー：滝澤美衣奈・橋本英司（フジテレビ、橋本→以前は編成）、星久幸（[よしもとスポーツエンタテインメント](https://ja.wikipedia.org/wiki/よしもとスポーツエンタテインメント "wikilink")）、長江康裕（吉本興業）、[林敏博](https://ja.wikipedia.org/wiki/林敏博 "wikilink")（ビーダッシュ）【毎週】、[井口毅](https://ja.wikipedia.org/wiki/井口毅 "wikilink")（ABCリブラ）、脇中滋代、[岸岡孝治](https://ja.wikipedia.org/wiki/岸岡孝治 "wikilink")（ABCリブラ）、池端強、永田浩子（ビーダッシュ）、菅野貴志（ビー・ブレーン）、白石綾子（ネクステップ）【週替り】／古賀太隆（ディ・コンプレックス）、秋葉英行（ネクステップ）、春名雄児（ABCリブラ）、鈴木美帆（ビーダッシュ）
+  - スポーツプロデューサー：吉村忠史・[小須田和彦](https://ja.wikipedia.org/wiki/小須田和彦 "wikilink")・吉田昇（フジテレビ）
+  - 総合演出：当麻晋三（フジテレビ、以前は演出）
+  - チーフプロデューサー：[蜜谷浩弥](https://ja.wikipedia.org/wiki/蜜谷浩弥 "wikilink")（フジテレビ）
+  - 制作：フジテレビ編成制作局制作センター第二制作室＆スポーツ局
+  - 制作著作：フジテレビ
+
+#### 過去のスタッフ （第2期）
+
+  - スポーツ奥の奥・監修：株式会社アトラク、遠藤敦
+  - スタイリスト：北田あつ子
+  - 編成：[稲葉直人](https://ja.wikipedia.org/wiki/稲葉直人_\(映画\) "wikilink")（フジテレビ）
+  - 営業：宮川健・福山晋司（フジテレビ）
+  - 広報：瀬田裕幸（フジテレビ）
+  - ディレクター：飛田竜平・芝俊明（フジテレビ）
+  - スポーツディレクター：木村英輔（フジテレビ）
+  - 総合演出：萬匠祐基（フジテレビ）
+
+## ご当地パロディー
+
+### ジャン九州ポーツ（ジャンクSPORTS福岡版）
+
+フジテレビ系の九州地区基幹局である[テレビ西日本](../Page/テレビ西日本.md "wikilink") (TNC) で放送されている正月[特番で](https://ja.wikipedia.org/wiki/特別番組 "wikilink")、正式な番組タイトルは「**新春恒例 博多華丸・大吉の九州アスリートーク20XX**」（『ジャン九州ポーツ』はスポーツファンタスティックに当たるコーナータイトル）。**違うのは出演者が九州出身のスポーツ選手であることのみ**（但し、野球ネタは[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")・サッカーネタは[アビスパ福岡](../Page/アビスパ福岡.md "wikilink")に偏っている）で、番組のコンセプトは全く同じ。司会は[博多華丸・大吉](https://ja.wikipedia.org/wiki/博多華丸・大吉 "wikilink")とTNCの女性アナウンサー。年が進むにつれて、セットやテロップなど本番組と同じような演出になっている。
+
+なお、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月18日](../Page/2月18日.md "wikilink")放送のジャンクSPORTS内でこのジャン九州ポーツが紹介された。この時MCの浜田は「パクリ」と発言している。またこの時点における司会だった[牧尾結衣](https://ja.wikipedia.org/wiki/牧尾結衣 "wikilink")（当時は『[とべとべHawks](https://ja.wikipedia.org/wiki/とべとべホークス "wikilink")』を担当していて、華丸・大吉と2007年の[FNSの日](https://ja.wikipedia.org/wiki/FNSの日 "wikilink")にも福岡チームとして参加していた）は『ジャン九州ポーツ』を兄弟番組として認めてもらうべく、同年[7月1日](../Page/7月1日.md "wikilink")の「女性スポーツキャスター特集」の回に[山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink")（元[F1グランプリ](https://ja.wikipedia.org/wiki/F1グランプリ "wikilink")中継進行役）らとともにジャンクSPORTSに出演した。明太子を土産に持っていったことなどが評価され、MC陣にも認めてもらった（ということになっている）。
+
+2008年も前年と同じ司会陣で制作・放送され、さらに『ジャンクSPORTS』にそっくりな作りになった。そして2009年放送には遂に三宅がTNCに乗り込む事態となったが、このときは牧尾が『[TNCスーパーニュース](https://ja.wikipedia.org/wiki/TNCスーパーニュース "wikilink")』担当となった関係で第1回のみ担当していた『[DREAM競馬](../Page/DREAM競馬.md "wikilink")』担当の[高山梨香](https://ja.wikipedia.org/wiki/高山梨香 "wikilink")が復帰する形で入った。さらにその逆に華丸・大吉と[新垣泉子](https://ja.wikipedia.org/wiki/新垣泉子 "wikilink")（高山の“子分”、『[アナ♥てな3人娘](https://ja.wikipedia.org/wiki/女子アナあわー_アナ・てな "wikilink")』の1人で2009年の『[FNSの日](https://ja.wikipedia.org/wiki/FNSの日 "wikilink")』で行なわれたFNS27局対抗\!三輪車12時間耐久レースの地元・テレビ西日本の女子アナドライバー）の3人がフジテレビへ殴り込み三宅と一緒にジャンクSPORTSのスタジオを使ってのジャン九州ポーツ版スポーツファンタスティックを実現し、その中にちゃっかりと内田恭子も参加して『ジャン九州ポーツ』を宣伝するという事態までやってのけた。
+
+なお、2017年8月9日放送の『[水曜日のダウンタウン](https://ja.wikipedia.org/wiki/水曜日のダウンタウン "wikilink")』内でこのジャン九州ポーツが紹介された。「もろパクリ企画でもMC仕事ならついつい受けちゃう説」という説の中で浜田が「華丸大吉、**俺に黙って**九州でジャンクSPORTSと全く同じことやってた」と発言している。ただ、松本の「マジで怒ってる？」という問いに対しては「怒ってない」と笑いながら応えていた。また、この説の次のプレゼンターが博多大吉でパネラーにパクリと言われた際、「ジャン九州ポーツは**パクリではない、オマージュ企画**」と弁明していた。
+
+なお『ジャンクSPORTS』同様、[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作である。
+
+### 大阪シャンクSPORTS（ジャンクSPORTS大阪版）
+
+同じくフジ系の[関西テレビ](../Page/関西テレビ放送.md "wikilink") (KTV) では、『[たかじん胸いっぱい](https://ja.wikipedia.org/wiki/たかじん胸いっぱい "wikilink")』（土曜12時放送、ローカル番組）のパロディ企画で関西のアスリートを集めて本家同様のトークをする。（席順も同様）過去5回（2011年11月26日など）放送していた。「シャンク」とはゴルフ用語でボールがクラブの変な所に当たって右方向に出てしまう事である。準レギュラーの[金村義明](https://ja.wikipedia.org/wiki/金村義明 "wikilink")など本家に出演している関西のアスリートが多く、野球ネタは[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")・[オリックスバファローズ](https://ja.wikipedia.org/wiki/オリックスバファローズ "wikilink")、サッカーネタは[京都パープルサンガ](../Page/京都サンガF.C..md "wikilink")・[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")・[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")・[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")に偏っている。2012年4月7日放送からは「**胸いっぱいスポーツ**」にタイトルが変わり、席順は通常の胸いっぱいサミットと同様になった。たかじん休養時は[増田英彦](https://ja.wikipedia.org/wiki/増田英彦 "wikilink")、金村メインで進行していた。
+
+## ネット局と放送時間
+
+表記はすべて[JSTである](../Page/日本標準時.md "wikilink")。
+
+| 放送期間                                                                                                            | 放送時間                                                  |
+| --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| 2000年4月11日 - [2003年](../Page/2003年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")                         | 毎週[火曜日](../Page/火曜日.md "wikilink") 23:00 - 23:30（30分） |
+| [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[1月11日](../Page/1月11日.md "wikilink") - 2010年3月21日        | 毎週[日曜日](../Page/日曜日.md "wikilink") 19:58 - 20:54（56分） |
+| [2018年](../Page/2018年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink") - [9月30日](../Page/9月30日.md "wikilink") | 毎週[日曜日](../Page/日曜日.md "wikilink") 19:00 - 19:57（57分） |
+| [2018年](../Page/2018年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") -                                      | 毎週[日曜日](../Page/日曜日.md "wikilink") 19:00 - 20:00（60分） |
+
+  - ゴールデン第2期の2018年4月1日放送分よりのスペシャル放送時は原則として[NST新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")・[長野放送](../Page/長野放送.md "wikilink")・[富山テレビ](../Page/富山テレビ放送.md "wikilink")・[東海テレビ](../Page/東海テレビ放送.md "wikilink")・[テレビ愛媛](../Page/テレビ愛媛.md "wikilink")・[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")・[沖縄テレビではフジテレビの放送終了時刻の](../Page/沖縄テレビ放送.md "wikilink")6分前に飛び降りとなる\[15\]。
+
+<!-- end list -->
+
+  - ゴールデンタイム第1期の時差ネット局
+
+<!-- end list -->
+
+  - [青森テレビ](../Page/青森テレビ.md "wikilink") 火曜日 0:30 - 1:30
+  - [テレビ山梨](../Page/テレビ山梨.md "wikilink") 水曜日 1:25 - 2:21
+  - [テレビ大分](https://ja.wikipedia.org/wiki/テレビ大分 "wikilink") 火曜日 14:05 - 15:00
+  - [テレビ宮崎](../Page/テレビ宮崎.md "wikilink") 日曜日 22:30 - 23:26
+
+<!-- end list -->
+
+  - ゴールデンタイム第2期の時差ネット局
+
+<!-- end list -->
+
+  - 青森テレビ 毎週土曜 13:00 - 13:57（2018年2月10日より放送開始。尚、2018年2月4日放送分から放送。）※ATV放送分2019年9月14日を持って打ち切り予定。
+  - テレビ大分 毎週水曜 0:59 - 1:59（火曜深夜。2018年4月から放送開始。なおそれ以前にも単発放送があった。）
+  - テレビ宮崎 毎週土曜 16:00 - 17:00（2018年4月から放送開始。）
+  - テレビ山梨 毎週火曜 0:25 - 1:20（月曜深夜。『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』の後番組として2018年4月から放送開始したが、同年9月で打ち切り、『[ダウンタウンなう](https://ja.wikipedia.org/wiki/ダウンタウンなう "wikilink")』のネットに切り替えた。）
+
+## 脚注・出典
+
+## 関連項目
+
+  - [すぽると\!](../Page/すぽると!.md "wikilink")
+  - [ダウンタウンのごっつええ感じ](../Page/ダウンタウンのごっつええ感じ.md "wikilink")
+  - [スポーツジャングル](https://ja.wikipedia.org/wiki/スポーツジャングル "wikilink")
+  - [ビートたけしのスポーツ大将](https://ja.wikipedia.org/wiki/ビートたけしのスポーツ大将 "wikilink")\[16\]
+
+## 外部リンク
+
+  - [ジャンクSPORTS](https://www.fujitv.co.jp/junksports/index.html) - フジテレビによる番組公式サイト
+
+  -
+
+<references />
+
+[Category:バラパラ](https://ja.wikipedia.org/wiki/Category:バラパラ "wikilink") [Category:フジテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのスポーツ番組 "wikilink") [Category:フジテレビのトーク番組](https://ja.wikipedia.org/wiki/Category:フジテレビのトーク番組 "wikilink") [Category:フジテレビのバラエティ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組 "wikilink") [Category:土曜プレミアム](https://ja.wikipedia.org/wiki/Category:土曜プレミアム "wikilink") [Category:金曜プレミアム](https://ja.wikipedia.org/wiki/Category:金曜プレミアム "wikilink") [Category:吉本興業の番組](https://ja.wikipedia.org/wiki/Category:吉本興業の番組 "wikilink") [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:2018年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2018年のテレビ番組_\(日本\) "wikilink") [Category:浜田雅功](https://ja.wikipedia.org/wiki/Category:浜田雅功 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+
+1.  フジのトリノ五輪中継の担当アナには[三宅正治](../Page/三宅正治.md "wikilink")と、同局の『[新春かくし芸大会](../Page/新春かくし芸大会.md "wikilink")』『[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")』で[内田恭子](https://ja.wikipedia.org/wiki/内田恭子 "wikilink")と共に進行役と務めた[高島彩](../Page/高島彩.md "wikilink")が担当。
+2.  [フジ「ジャンク-」が石垣佑磨場面カット](http://www.sanspo.com/geino/news/081119/gnj0811190505011-n1.htm)（サンケイスポーツ）
+3.  当番組始まって初めて
+4.  現在の『[報道ステーション](https://ja.wikipedia.org/wiki/報道ステーション "wikilink")』の前身番組として放送した『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")）の[スポーツコーナーでいう](https://ja.wikipedia.org/wiki/ニュースステーション#スポーツ "wikilink")"[角澤ポジション](../Page/角澤照治.md "wikilink")（角ポジ）"と同じ状態
+5.  本来の高さは15mだが、スタジオの高さの関係で10mとなっている。
+6.  浜田の挑戦はアスリートとの収録とは別時間に収録。オンエア上ではサッカーはナレーションによるダイジェスト、ゴルフはワンシーンのみ、野球のピッチングは写真のみという編集になっている。ちなみにバッティングはカメラスタッフから「危険だやめてくれ」ということで挑戦していない。
+7.  地面ではなく番組特製の台の上にある。カップの周りは傾斜がある。
+8.  ボールがピンに直撃して跳ね返っているが、ボールが一度カップインしていることになるためクリアとなっている。
+9.  ボールが高く上がり過ぎて照明に直撃を防止するネットにあたり地面に落下して失敗だと思われたが、バウンドしてグリーン台に乗ってそのままカップインしたためクリアとなった。
+10. パスがうまくいかないこともしばしばある。
+11. [フジテレビジュツの仕事 ジャンクSPORTS](https://www.fujitv.co.jp/bijutsu/works/variety/works_1802variety01.html) フジテレビジュツのヒミツ
+12. CS-TBSチャンネルの「[Beach Angels](https://ja.wikipedia.org/wiki/Beach_Angels "wikilink")」とは無関係。
+13. 両者の名誉にかかわると判断したためと思われるが、この発言は予告では放送されていた
+14. 関西テレビと沖縄テレビは自社制作のローカル番組などを優先して放送するためフジテレビからの裏送りで同内容を1時間に編集した短縮版として20:00 - 20:54に放送（字幕放送は非対応）。東海テレビはナイター中継2012「中日×巨人」を放送の為、9月22日の12:00 - 14:00に、テレビ西日本はBASEBALL LIVE2012〜野球道〜「福岡ソフトバンク×埼玉西武」を放送の為、9月22日の13:00 - 14:54にそれぞれ代替放送。テレビ宮崎は10月20日の13:30 - 15:25に放送
+15. 同年6月10日のスペシャル放送は同時ネット局の全局で19:00 - 21:48であり、21:48 - 21:54には本編とは別枠となる、ローカルセールスの事後枠「まだまだ」枠も別途放送。
+16. 当番組同様に2017年度からレギュラー放送が再開される[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")のスポーツ関連番組。

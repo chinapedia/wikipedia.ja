@@ -1,0 +1,83 @@
+> この記事は[Mind \(\)](https://ja.wikipedia.org/wiki/Mind_\(\))から翻訳されています。
+
+
+**Mind**（**マインド**）は、[Forth](../Page/Forth.md "wikilink")の影響を受けた、（[プログラミング言語](../Page/プログラミング言語.md "wikilink")としては）[日本語](../Page/日本語.md "wikilink")っぽい自然な見掛け（と主張されている）が特徴であるプログラミング言語で、**いわゆる**[日本語プログラミング言語](https://ja.wikipedia.org/wiki/日本語プログラミング言語 "wikilink")のひとつである。しかしあくまで「プログラミング言語としては日本語っぽい」ということであり、（時折誤解されているが）**[自然言語](../Page/自然言語.md "wikilink")プログラミング**（[w:en:Natural language programming](https://ja.wikipedia.org/wiki/w:en:Natural_language_programming "wikilink")）言語**ではない**。
+
+Forthのワードに相当する「単語」の他、全ての識別子に、日本語の[文字](https://ja.wikipedia.org/wiki/文字 "wikilink")（かな・漢字・他）が使える。Forthと同様に[逆ポーランド記法](../Page/逆ポーランド記法.md "wikilink")ベースであるが、逆ポーランド記法と日本語の語順の類似性を活用している。
+
+設計者は現在スクリプツ・ラボの片桐明で、[MS-DOS](https://ja.wikipedia.org/wiki/MS-DOS "wikilink")時代には同社の前身のリギーコーポレーションからの販売であった。MS-DOS版は今はフリーウェア扱いになっている。2013年現在、[Windows版](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")（商用。評価版ダウンロードあり）と[UNIX](https://ja.wikipedia.org/wiki/UNIX "wikilink")版（[GPL](https://ja.wikipedia.org/wiki/GNU_General_Public_License "wikilink")）があり、スクリプツ・ラボが販売・提供している。他に、第三者によりUNIX版をB-right/V（[超漢字](https://ja.wikipedia.org/wiki/超漢字 "wikilink")）で動くようにしたものがある。
+
+また、2012年4月から、2013年現在、[Android](https://ja.wikipedia.org/wiki/Android "wikilink")版の実験が進められている\[1\]。
+
+## プログラムの例
+
+外部リンク1のページより、プログラム例を引用する。
+
+    午前?とは
+    　　時刻を得て
+    　　時が　12より　小さいこと。
+
+    メインとは
+    　　午前?
+    　　　　ならば　「おはよう」を
+    　　　　　　さもなければ
+    　　　　　　　　「こんにちは」を
+    　　　　　　つぎに
+    　　表示し　改行すること。
+
+このように、基本はForthである。数値以外のほぼ全てに日本語の文字や日本語の記法を使う。たとえば、Forthでは `;` である定義の終了が「`。`」である。以下、Forthと異なる特徴の主なものを挙げる。まず、文字種の違いをトークンの認識に積極的に使う。「12より」を数値の 12 であると認識する。「時刻を得て」のうち[識別子](https://ja.wikipedia.org/wiki/識別子 "wikilink")として有効なのは「時刻得」であり、平仮名を基本的に無視することで自然な表現を助けている（おそらく助詞か活用語尾のような部分だが、単に字種に基づいて判断しているだけであり、自然言語処理的な扱いにより助詞ないし活用語尾として認識しているわけではない）。なお一方、単語の定義の「〜とは」のように、平仮名がキーワード的に重要な意味を持つ場合もある。
+
+Forthと同様に、単語を定義し、それを以降の単語の定義で使用するといったスタイルをとる。すなわち、Mindのプログラムは、Forthと同様に**単語の定義の集まり**である。また、引数が表面に表れない。他言語のプログラマが最も驚くのはこの点かもしれない。最初は違和感があるが、慣れるとForthと同様に非常に簡潔にプログラムを書くことができる。
+
+インデントなどのレイアウトには見やすさのため以上の意味はない。
+
+    4と　5を　加え　表示する。
+
+同じ外部リンク1のページのある他プログラム例のメイン部分を引用する。
+
+    メインとは
+    　　　　接続処理し
+    　　　　送信処理すること。
+
+このように、プログラムがそのまま、動作記述のドキュメントとして読めると主張される。
+
+## 解説
+
+Mindは、従来「[日本語プログラミング言語](https://ja.wikipedia.org/wiki/日本語プログラミング言語 "wikilink")」と主張されたような、既存のプログラミング言語の[予約語](https://ja.wikipedia.org/wiki/予約語 "wikilink")などを日本語化し、識別子に日本語の文字を使えるようにして、トランスレータを通すようなものとは、日本語プログラミング言語として言語仕様が設計されているという点で、一線を画している（日本語によるプログラミングは、研究レベルでは以前にもある。また、代表的なところで[なでしこなど後続も現れている](https://ja.wikipedia.org/wiki/なでしこ_\(プログラミング言語\) "wikilink")）。
+
+一見すると、[自然言語](../Page/自然言語.md "wikilink")によるプログラミングと誤解されることがあるが、[自然言語処理](../Page/自然言語処理.md "wikilink")は（その手法を取り入れている部分はあるが）おこなっていない\[2\]。たとえば基本的に[わかち書き](https://ja.wikipedia.org/wiki/わかち書き "wikilink")が必須であり、Mindのルールに従った分割が必要であることが挙げられよう（日本語の自然言語処理において、わかち書きされていない普通の自然な文字列からの[文節](https://ja.wikipedia.org/wiki/文節 "wikilink")の切り分けは一大テーマである。また、[膠着語](https://ja.wikipedia.org/wiki/膠着語 "wikilink")である日本語は、本来的には[語順](https://ja.wikipedia.org/wiki/語順 "wikilink")と意味との結びつきは弱く、逆ポーランド記法との類似性は偶々であり、類似しない構文もあることが古くに指摘されている\[3\]）。自然言語でプログラミングするのではなく、基本的には普通のプログラミングと同じようにコーディングする、[手続き型プログラミング](https://ja.wikipedia.org/wiki/手続き型プログラミング "wikilink")言語で、ただし[Forth](../Page/Forth.md "wikilink")のように[スタック](../Page/スタック.md "wikilink")指向である。
+
+[識別子](https://ja.wikipedia.org/wiki/識別子 "wikilink")には日本語の文字が使えるが、活用語尾のように見えるひらがなの部分を基本的には無視するという仕様である。これは単純に機械的にやっている。このため、識別子は漢字もしくはカタカナの部分で、識別できるようにしなければならない。ひらがなは無視されるばかりではなく、逆に、単語の定義の「〜とは」のように日本語の[助詞](https://ja.wikipedia.org/wiki/助詞 "wikilink")に「[標識](https://ja.wikipedia.org/wiki/標識_\(言語学\) "wikilink")」（言語学の用語）のような意味を持たせている場合もあり、「3から 2を 引く」と「2を 3から 引く」（こちらは標準的でないとされているが）はどちらも日本語としての直感通り 1 になる（Forthとしては、普通ではないと思えるだろう）。
+
+Mindに限らずForth系一般の特徴であるが、プログラミング中はスタックの使用状況を強く意識する必要がある。特に単語（ワード）の呼び出し前後のスタックの変化をつかんでいないと、たちまちスタックの状態を混乱させてしまう。また、プログラムを書く時ではなく読む段においては、表面上一見すっきりと見えるのとは裏腹に、その裏側でスタックの状態がどうなっているのかを把握しなければ、デバッグなどができない。Forthでよくおこなわれている、単語の定義にスタックの状態変化を説明するコメントなどは是非付けたいところだろう。
+
+低水準の操作のための単語もありシステム周りの記述も行なえる。クラシックなForthではあまり一般的でないものを、言語仕様に取り入れている点もあり、[局所変数や](https://ja.wikipedia.org/wiki/ローカル変数 "wikilink")、四則演算が中置記法で書ける数式表現などがある。
+
+Mindが発表される前に、[Fifth86](https://ja.wikipedia.org/wiki/Fifth86 "wikilink")という製品があった。Version5までのMindはFifth86で書かれていた\[4\]。Forthにはたまに見られるが、Fifthは[インラインアセンブラ](https://ja.wikipedia.org/wiki/インラインアセンブラ "wikilink")の機能を持っていた。Fifthという名称はForthの次、といったようなものである（Forthは、4番めFourthに由来する）。
+
+MS-DOS時代のVersion5までは[インタプリタ](https://ja.wikipedia.org/wiki/インタプリタ "wikilink")的な対話環境と、コマンドライン版と言語中からも使える（単語「コンパイル」でコンパイルができる）[コンパイラ](https://ja.wikipedia.org/wiki/コンパイラ "wikilink")があり、この時代のコンパイラは[機械語](https://ja.wikipedia.org/wiki/機械語 "wikilink")コードを生成していた。1989年から[OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")への移植（リリースされず）に備え、この時に「Mコード」と呼んでいる[中間表現](https://ja.wikipedia.org/wiki/中間表現 "wikilink")方式を採用した。UNIXに移植したコードネームS6では、コア部分の実装をアセンブリ言語（機械語）からC言語に変更し、同時にコンパイラの出力を機械語出力から環境非依存な中間表現のバイナリコードの出力に変更した。これらは評価版リリースであった。UNIX版のVersion7がプロダクトとしてリリースされ、ソースの多くを共通にしたWindows版も同じバージョン番号系列でリリースした\[5\]。現在は中間表現を実行するコア部分と、Mindで実装されたコンパイラ、さらにWindows版ではGUI版ランタイムと、それらのフロントエンドのGUI環境を提供している。
+
+## アプリケーション例
+
+[ぐるなび](https://ja.wikipedia.org/wiki/ぐるなび "wikilink")の全文検索に2004年5月から使われているスクリプツ・ラボのMindSearchIIはMindで開発をしている。
+
+[マイクロソフトウェアアソシエイツ](https://ja.wikipedia.org/wiki/マイクロソフトウェアアソシエイツ "wikilink")から発売されていた\[6\]MS-DOS向け日本語ワードプロセッサ「[キムラ太郎](https://ja.wikipedia.org/wiki/キムラ太郎 "wikilink")」はMindで実装されていた。（この名前は[一太郎](https://ja.wikipedia.org/wiki/一太郎 "wikilink")と木村太郎の駄洒落）
+
+[富士通](https://ja.wikipedia.org/wiki/富士通 "wikilink")から発売されていた「[FM秘書](https://ja.wikipedia.org/wiki/FM秘書 "wikilink")」の[ソースコード](https://ja.wikipedia.org/wiki/ソースコード "wikilink")はMindで記述されていた。また、日本語ワードプロセッサ専用機の『[OASYS](https://ja.wikipedia.org/wiki/OASYS "wikilink")-30シリーズ』のMS-DOS起動システムには、プログラミング言語としてMindが添付されていた。
+
+## 注釈
+
+<references/>
+
+## 外部リンク
+
+  - [日本語プログラミング言語Mind](http://www.scripts-lab.co.jp/mind/whatsmind.html)
+
+[Category:日本語プログラミング言語](https://ja.wikipedia.org/wiki/Category:日本語プログラミング言語 "wikilink")
+
+1.  [ココログ「キリーのAndroidで日本語プログラミング」](http://uemon3511.cocolog-nifty.com/nihongoprogram/) 2013年7月17日閲覧
+2.  『プログラミング言語Mind』（書籍は[翔泳社](https://ja.wikipedia.org/wiki/翔泳社 "wikilink")。「プログラミング言語Mind 基本文法」としてソフトウェアに添付）の「はじめに」で、自然言語処理の難しさに足をとられることについて「ドロ沼」という表現を作者の片桐は使っている。
+3.  [水谷静夫](https://ja.wikipedia.org/wiki/水谷静夫 "wikilink")「日本語の語順と逆ポーランド記法」
+4.  添付の s-string.docm より
+5.  README.txt より
+6.  『[Oh\!FM TOWNS](https://ja.wikipedia.org/wiki/Oh!FM "wikilink")』1993年9月号、144頁。

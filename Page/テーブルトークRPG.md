@@ -1,0 +1,375 @@
+> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+
+
+**テーブルトークRPG**、あるいは**テーブルトーク・ロールプレイングゲーム**（、）とは、[テーブルゲーム](https://ja.wikipedia.org/wiki/テーブルゲーム "wikilink")の[ジャンル](https://ja.wikipedia.org/wiki/ジャンル "wikilink")のひとつ。[ゲーム機](../Page/ゲーム機.md "wikilink")などの[コンピュータ](https://ja.wikipedia.org/wiki/コンピュータ "wikilink")を使わずに、[紙](https://ja.wikipedia.org/wiki/紙 "wikilink")や[鉛筆](https://ja.wikipedia.org/wiki/鉛筆 "wikilink")、[サイコロ](https://ja.wikipedia.org/wiki/サイコロ "wikilink")などの道具を用いて、人間同士の会話とルールブックに記載されたルールに従って遊ぶ“対話型”の[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")（RPG）を指す言葉である\[1\]。
+
+元々は[ミニチュアゲーム](https://ja.wikipedia.org/wiki/ミニチュアゲーム "wikilink")から派生したもので、[アメリカで考案された](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[テーブルトップゲームである](https://ja.wikipedia.org/wiki/テーブルゲーム "wikilink")。 [right](https://ja.wikipedia.org/wiki/ファイル:RPG-2009-Berlin-2.jpg "wikilink")』（[The Dark Eye](https://ja.wikipedia.org/wiki/:en:The_Dark_Eye "wikilink"), [Das Schwarze Auge](https://ja.wikipedia.org/wiki/:de:Das_Schwarze_Auge "wikilink")）をプレイ中の様子\]\]
+
+**TRPG**、**TTRPG**、**tRPG**などと略記されることがある。また、**会話型RPG**とも呼ばれる。なお、**TRPG**と**会話型ロールプレイングゲーム**は[ホビージャパン](https://ja.wikipedia.org/wiki/ホビージャパン "wikilink")の[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")である。
+
+## テーブルトークの意味
+
+「**テーブルトークRPG**」は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")での[造語](https://ja.wikipedia.org/wiki/造語 "wikilink")（和製英語）であり\[2\]、日本と[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")以外では通用しない。[英語圏](https://ja.wikipedia.org/wiki/英語圏 "wikilink")では、[ライブアクションRPGや](https://ja.wikipedia.org/wiki/ライブRPG "wikilink")[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")と区別するため、**Tabletop role-playing game**（テーブルトップロールプレイングゲーム）や**Pen-and-paper role-playing game**（ペンアンドペーパーロールプレイングゲーム）などと呼称する\[3\]。
+
+[1974年](https://ja.wikipedia.org/wiki/1974年 "wikilink")に世界初のロールプレイングゲームである『[ダンジョンズ&ドラゴンズ](https://ja.wikipedia.org/wiki/ダンジョンズ&ドラゴンズ "wikilink")』（以下、『D\&D』）が発売され\[4\]、[1981年](https://ja.wikipedia.org/wiki/1981年 "wikilink")には世界最初の[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")である『[ウィザードリィ](https://ja.wikipedia.org/wiki/ウィザードリィ "wikilink")』が[Apple II向けに発売された](https://ja.wikipedia.org/wiki/Apple_II "wikilink")。しかし、日本では『D\&D』よりも先に『ウィザードリィ』をはじめ、『[ハイドライド](https://ja.wikipedia.org/wiki/ハイドライド "wikilink")』『[ザ・ブラックオニキス](https://ja.wikipedia.org/wiki/ザ・ブラックオニキス "wikilink")』『[夢幻の心臓](https://ja.wikipedia.org/wiki/夢幻の心臓 "wikilink")』『[ドラゴンスレイヤー](https://ja.wikipedia.org/wiki/ドラゴンスレイヤー "wikilink")』などの国産コンピュータRPGが人気となったこと、そして[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現在の[スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")）から[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")向けに発売された『[ドラゴンクエスト](https://ja.wikipedia.org/wiki/ドラゴンクエスト "wikilink")』が大ヒットした\[5\]という経緯から、日本ではRPGと言えば[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")を指すのが一般的であるため、 *元来の*RPGをコンピュータRPGと区別する呼称としてこの言葉が普及した。
+
+日本では、[テーブルゲーム](https://ja.wikipedia.org/wiki/テーブルゲーム "wikilink")としての[ウォー・シミュレーションゲーム](https://ja.wikipedia.org/wiki/ウォー・シミュレーションゲーム "wikilink")やRPGがアメリカなどに比べるとそれほど一般化せず、それに対して、元々は派生的な存在である「コンピュータを使ったシミュレーションゲームやRPG」が急速な普及を見せた。このような状況を背景に、日本では1980年代半ば以降、「RPG」は[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")を指す言葉として普及した。本来の意味での「RPG」を愛好する人々は少数派であり、彼らの「RPG」を指し示す新しい用語が必要になったため、「テーブルトークRPG」という言葉が登場した。
+
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[ゲームブック](https://ja.wikipedia.org/wiki/ゲームブック "wikilink")雑誌『[ウォーロック](https://ja.wikipedia.org/wiki/ウォーロック "wikilink")』10号の記事において、[近藤功司](https://ja.wikipedia.org/wiki/近藤功司 "wikilink")が「テーブル・トークのRPG」という表現をした後に「僕の造語ですから初めて聞く言葉でしょうが」と述べている。この語は『ウォーロック』誌上でたびたび近藤功司によって使用され、そのうちに安田均も積極的に使うようになった。安田均は多くのTRPG関連雑誌で執筆していたため、この語は[ゲーマー](https://ja.wikipedia.org/wiki/ゲーマー "wikilink")たちの間で広く知られるようになった。しかもこの時期は日本で一気にTRPG人口が増加していた時であったので、初めから「RPG」ではなく「テーブルトークRPG」と呼ぶ人々が大きな割合を占めるに至った。
+
+## ロールプレイングの意味
+
+**ロールプレイング**（role-playing）とは、想像上のある役柄を演じることである\[6\]。
+
+ロールプレイング（roleplaying）を英和辞典で引くと、役割演技と翻訳される\[7\]。また、ロールプレイング（roleplaying）を英語で説明すると、その意味は「**pretending to be someone else（他の誰かのふりをする）**」となる\[8\]。
+
+ゲームデザイナーの[ゲイリー・ガイギャックス](https://ja.wikipedia.org/wiki/ゲイリー・ガイギャックス "wikilink")は、「ロールプレイとは、想像上のある役柄を演じること」「自分が現在（または未来永劫）決してなることができない何者かを演じること」であるとしている\[9\]。つまり、役割とはキャラクターという役柄のことであり、社会的な役目のことではない（「医者のふりをする」ことと、「医者の役割を果たす」ことには、大きな違いがある）。ゲームデザイナーの[小太刀右京](https://ja.wikipedia.org/wiki/小太刀右京 "wikilink")は、「roleplay。演技の意。しばしばrole-play（役割を演じる）と解釈するものがいるが、誤訳である」としている\[10\]。
+
+かつて、このロールプレイの意味を「役割を果たす」と解釈して、仮想の人格を演じることは抑制的であるべきで、[キャラクタークラス](https://ja.wikipedia.org/wiki/キャラクタークラス "wikilink")などの任務分担を果たすのみで足りるとする主張がネット上にあらわれたことがある。しかし、これは単なる誤訳、ないしデマにすぎないものであった\[11\]。
+
+テーブルトークRPGでは、プレイヤーは、単なる無名の「戦士」や「魔法使い」ではなく、名前や仮想の人格などが付与された[プレイヤーキャラクター](https://ja.wikipedia.org/wiki/プレイヤーキャラクター "wikilink")を担当する。ゲームによっては、「[ライフパス](https://ja.wikipedia.org/wiki/ライフパス "wikilink")」（出自や人生の遍歴を示す要素）や「性格」「属性」（あるいはシステムによっては「癖」や「趣味」といったところまで）といったルールにより、仮想の人格にシステム的な裏付けを与える工夫がなされる\[12\]。同じ「戦士」であっても、豪胆な人物、細心な人物、明朗快活な人物、謎めいた影のある人物といった千差万別な個性を表現することにより、キャラクターは差別化され、一層生き生きとし、仮想世界での冒険の楽しみを増加させるのである\[13\]。またプレイヤーが温厚で慎重な性格であるのにも拘らず、向こう見ずな戦士を演じたり、狡猾な魔術師を演じたりすることは、それがキャラクターに合致している限り、「上手なロールプレイ」であると見なされる\[14\]。
+
+## 特徴
+
+[left](https://ja.wikipedia.org/wiki/ファイル:Dungeons_and_Dragons_game.jpg "wikilink")』をプレイ中の様子\]\]
+
+### ゲームの進め方
+
+まずゲームの参加者（英語で[プレイヤー](https://ja.wikipedia.org/wiki/プレイヤー "wikilink")と呼ばれる）それぞれが自分の操るキャラクターを用意する（通常は一人ずつ）\[15\]。これを[プレイヤー・キャラクター](https://ja.wikipedia.org/wiki/プレイヤーキャラクター "wikilink")（PC）という。一般にPCは「能力値」などの数値化されたデータによって表現され、これにたとえば、戦士や魔術師といった[キャラクタークラス](https://ja.wikipedia.org/wiki/キャラクタークラス "wikilink")に代表されるような役割を表すデータやシンボルや肩書きが付随する。参加者はそれを専用の[シートか何らかの](https://ja.wikipedia.org/wiki/キャラクターシート_\(TRPG\) "wikilink")[記録媒体](https://ja.wikipedia.org/wiki/メディア_\(媒体\) "wikilink")（通常のプレイでは紙）にメモしておく。
+
+一人は通常、自分のプレイヤー・キャラクターを作らず使わず、一般に[ゲームマスター](https://ja.wikipedia.org/wiki/ゲームマスター "wikilink")（GM）と呼ばれる役を受け持つ\[16\]。ゲームマスターはゲームシステムによっては、ダンジョンマスター（DM、地下牢の主人の意）、[審判員](https://ja.wikipedia.org/wiki/審判員 "wikilink")、ジャッジ（審判）、キーパー（維持者）、[ストーリーテラー](https://ja.wikipedia.org/wiki/ストーリーテラー "wikilink")（語り部）などと呼ばれることがある。
+
+ゲームマスターは他の参加者（プレイヤー）と対話しながらゲームの舞台となる世界とそこに登場するいろいろな事件や人物を説明し、決められたルールに従って、プレイヤーが考えたキャラクターの行動が実現したか否かを裁定することでゲームを進行させる。単純化して言えば、コンピュータで遊ぶRPGでの、コンピュータ役をゲームマスターという人間が担当するのがテーブルトークRPGだといえる。
+
+しばしばテーブルトークRPGは「ルールのあるごっこ遊び」と説明されるように、プレイヤー・キャラクターの行う行動を、「何でも言っただけで認める」のではなく、各種のデータとルールに従って判定してその成否を決定する点が「ごっこ遊び」や「[なりきりチャット](https://ja.wikipedia.org/wiki/なりきりチャット "wikilink")」とは異なる。判定は、主に6から100面体までの様々な形状の[サイコロ](https://ja.wikipedia.org/wiki/サイコロ "wikilink")（ダイス）を[乱数発生装置として用いて行われるが](https://ja.wikipedia.org/wiki/擬似乱数 "wikilink")、[トランプ](../Page/トランプ.md "wikilink")など他の手段を用いる場合もある。
+
+プレイヤー達は、ゲームの舞台となる世界において、プレイヤー・キャラクターを演じながら、行動をゲームマスターに対して宣言し、戦闘や謎解きといった課題に挑戦する。これを繰り返しつつ互いに協力または競争しながらストーリーを紡ぎ出し、最終的な目標の達成を目指すことが、ゲームの目的となっている。プレイヤーとは別個の架空人格であるキャラクターを演じることが特徴であることから、「演技ゲーム」という意味の[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")という呼称が**ゲームの総称**として使われている\[17\]。
+
+1回のゲームにかかる時間はゲームマスターが用意する[シナリオにより異なるが](https://ja.wikipedia.org/wiki/シナリオ_\(TRPG\) "wikilink")、数時間単位を要することが普通である。
+
+### キャラクター、世界設定、ルール
+
+キャラクターや架空世界それ自体を表現するために、様々な世界設定やテイストやルールを持つゲームシステムが数多く発表・発売されている。
+
+ゲームマスターを除く参加者、すなわちプレイヤーは、さまざまな[種族](https://ja.wikipedia.org/wiki/種族_\(ファンタジー\) "wikilink")、人格、性質、能力、技術をもったキャラクターを演じる。それらの要素は、ゲームのルールや世界において、重要な指針となるものである。ゲームのシステムは大抵、そのゲームの世界においてどのようなキャラクターを演じることができ、世界の中でどのようなことができるのか、を定めたルールや設定がある\[18\]。例えば、[ファンタジー](https://ja.wikipedia.org/wiki/ファンタジー "wikilink")世界の設定では、種族には、[エルフ](https://ja.wikipedia.org/wiki/エルフ "wikilink")、[人間](https://ja.wikipedia.org/wiki/人間 "wikilink")、[ドワーフ](https://ja.wikipedia.org/wiki/ドワーフ "wikilink")など、[キャラクタークラス](https://ja.wikipedia.org/wiki/キャラクタークラス "wikilink")には、[戦士](https://ja.wikipedia.org/wiki/戦闘員 "wikilink")、[僧侶](https://ja.wikipedia.org/wiki/僧侶 "wikilink")、[盗賊などがある](https://ja.wikipedia.org/wiki/シーフ "wikilink")。これらのルールや設定やデータは、プレイヤーが自分のキャラクターに与えられた役割を果たし、与えられた課題に取り組んで目的を達するための、行動と判断の基盤となるものである。
+
+ミニチュア・ウォーゲームという体裁を取っていた初期のRPGにもストーリー性はあったが、物語性や世界設定を重視する風潮とともに、キャラクターの人格や会話および各世界で展開されるストーリーを重視する[プレイスタイルも登場し](https://ja.wikipedia.org/wiki/プレイスタイルの分類 "wikilink")、それに適したルールシステムも作られるようになった。
+
+#### 頒布形態
+
+テーブルトークRPGでは、基本となるゲームシステムを集約した「ルールブック」のほか、特定のテーマに沿ったデータのみを集めたデータ集やプレイを補助する小物類などが頒布されることがある。以下に主な種類を挙げる。
+
+  - ルールブック
+      - 基本ルールブック
+          -
+            そのシステムにおいて根幹となるルールを集約した書籍。一般には一冊に纏められているが、『[ダンジョンズ&ドラゴンズ](https://ja.wikipedia.org/wiki/ダンジョンズ&ドラゴンズ "wikilink")』のように分冊で発売されているものや、プレイに必要な最低限のセット一式に同梱されているものもある。
+      - 拡張ルールブック
+          -
+            「上級ルールブック」等と称される場合もある。基本セットに収録されたルールをより詳細にしたものや、より複雑な汎用ルールを追加するもの。
+      - エラッタ
+          -
+            英語で「正誤表」の意。公式サイトやサポート誌上に掲載されるほか、ルールブック版上げの際に直接修正されることがある。
+  - サプリメント
+      - ワールドガイド
+          -
+            主に世界設定を解説する書籍。特定の地域や都市の特徴、動植物や周辺地図などが収録される。プレイに必要となる数値的なデータは、世界設定の解説を補助する程度に留まる。
+      - シナリオ集
+          -
+            主にプレイヤーに与える課題（シナリオ）を集めた書籍。連続したストーリーを展開できるよう構成されたものも多い。
+      - その他追加データ集
+          -
+            プレイヤーが課題を乗り越える際の障害となる汎用性の高い動植物のデータ集が代表的だが、他にも魔法の存在する世界観で利用できる汎用の魔法データ集や、一風変わったところでは『GURPS High-Tech』のような近現代の武器を含む文明の利器のデータ集と言ったものまで存在する。
+      - 追加型サプリメント
+          -
+            「ソースブック」等と称される場合もある。特定のテーマや世界観に沿った拡張ルールやワールドガイド、追加データを収録した書籍。ただし基本ルールは収録されていない。
+      - 独立型サプリメント
+          -
+            特定のテーマや世界観に沿った拡張ルールやワールドガイド、追加データを収録した書籍。追加型サプリメントと異なり、基本ルールが簡易的に収録されているため、これ単体でプレイ可能。
+  - サポートツール
+      -
+        [テーブルトークRPGの道具](https://ja.wikipedia.org/wiki/テーブルトークRPGの道具 "wikilink")も参照のこと。
+    <!-- end list -->
+      - シート類
+          -
+            プレイの際には様々なデータを記録する必要があるため、公式があらかじめ専用の記録用紙を用意していることがある。それらの記録用紙は各ルールブックに公式に収録されている場合、公式サイトやサポート誌上で配布される場合、有志が非公式に作成する場合がある。
+        <!-- end list -->
+          - ルールサマリー
+              -
+                略して単に「サマリー」とも呼ばれる。サマリーは英語で「まとめ」「要約」等の意。基本ルールを簡易的に解説し（多くの場合は1枚の紙に）まとめた用紙で、データの記録欄はない。システムによってサマリーの有無は異なる。サマリーはあくまでサポートツールであり、詳細なデータや例外処理等は未掲載のため、サマリーとは別にルールブックの準備が推奨される。
+          - キャラクターシート
+              -
+                プレイヤーキャラクターのデータを記録する専用の用紙。基本ルールブックに含まれ、通常はデータの記録部分は白紙だが、システムによってはあらかじめデータがある程度書き込まれた「サンプルキャラクター」が用意されていることもある。
+      - カード類
+          -
+            ゲームシステムによってはそのシステムで用いる独自のカードが用意されていることがある。また判定にトランプ等の市販品を使用するシステムでも、オリジナルデザインのものが別途用意されることもある。
+      - ダイス
+          -
+            [サイコロ](https://ja.wikipedia.org/wiki/サイコロ "wikilink")のこと。ゲームシステムによっては、正六面体ではないものを用いることもある。多くのTRPGでは「（用いる個数）D（用いるサイコロの面数）」と表記する（「3D6」は6面サイコロ3個、「D20」は20面サイコロ（1個）の意味となる）。プレイに必要な最低限のセット一式に同梱されている場合と、プレイに際してユーザーが各自で用意しなければならない場合とがある。
+      - マスタースクリーン
+          -
+            ゲームマスターが、シナリオ情報等をプレイヤーから隠すために用いる携帯型の衝立。公式が専用のものを販売する場合と、手近なもの（バインダー等）で代用する場合がある。公式のものの場合、プレイの際に頻出するデータ表が印刷されているほか、公式イラストが描かれているものもある。
+      - マッピングシート
+          -
+            プレイヤーキャラクターの現在位置や、目標物や障害物との位置関係などを示すために使われる専用の用紙。白紙のものと、あらかじめ地形等が印刷されたものとがあり、またマス目の入っていないもの、正方形のマス目が入ったもの（スクエア・シート）、六角形のマス目が入ったもの（ヘクス・シート）とがある。
+      - マップタイル
+          -
+            あらかじめ地形等が印刷された（主に正方形の）小型のタイル。1枚で上述のマッピングシート1マスに相当し、複数のタイルを組み合わせてひとつのマップを構成する。タイルを組み替えることで様々な地形に対応する。
+      - ポーン
+          -
+            プレイヤーキャラクターの現在位置や、目標物や障害物との位置関係などを示すために使われる駒。上述のマッピングシートやマップタイルと併用する。イラストが描かれた紙を折り立てたものやプラスチック製フィギュアなどが主だが、手近な小物（消しゴムやコイン等）で代用されることもある。
+  - リプレイ
+      -
+        プレイ風景を文章やイラスト等で記録したもの。詳細は[後述](https://ja.wikipedia.org/wiki/#リプレイ本 "wikilink")。
+
+### コンピューターRPGとの差違
+
+[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")はテーブルトークRPGより派生したもので、ゲームマスターの役割をコンピュータに肩代わりさせ、1人で遊べるようにしたものであった\[19\]。当初、コンピュータRPGは『[ダンジョンズ&ドラゴンズ](https://ja.wikipedia.org/wiki/ダンジョンズ&ドラゴンズ "wikilink")』（以下、『D\&D』）に代表される「迷宮・秘境探検と魔物退治のゲーム」を再現するゲームであった。こういったゲームはTRPGの遊び方の中でもボードゲームや[ウォーゲームに近いもので](https://ja.wikipedia.org/wiki/ウォー・シミュレーションゲーム "wikilink")、機械的な処理に向いており、コンピュータRPGは高いレベルでこれを再現している。また、この頃はテーブルトークRPG自体、この種の製品や遊び方がほとんどであった。
+
+テーブルトークRPGは、コンピュータRPGにあるような強力な演出とは縁遠いが、早い段階でさまざまなジャンルを可能にしてきた。「迷宮・秘境探検と魔物退治のゲーム」以外にも「恒星間宇宙での冒険」「邪神の復活を阻止する[ホラーもの](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")」「犯罪事件の推理やアクション」などのジャンルは80年代にはすでに誕生している\[20\]。
+
+コンピュータRPGではプレイヤーはあらかじめプログラムされた行動しかとれないが、テーブルトークRPGでは原則的にはプレイヤーはいかなる行動宣言を行うこともできるため、無限の自由度があるとも言える\[21\]\[22\]。
+
+## 歴史
+
+「ロールプレイングゲーム」という呼称は、[職業訓練](https://ja.wikipedia.org/wiki/職業訓練 "wikilink")や[精神医学](https://ja.wikipedia.org/wiki/精神医学 "wikilink")の[臨床](https://ja.wikipedia.org/wiki/臨床 "wikilink")において行われる[ロールプレイングが由来である](https://ja.wikipedia.org/wiki/役割演技 "wikilink")。また、テーブルトークRPGの元になった、戦争シミュレーションの[ミニチュアゲーム](https://ja.wikipedia.org/wiki/ミニチュアゲーム "wikilink")や政治闘争などの[ボードゲーム](https://ja.wikipedia.org/wiki/ボードゲーム "wikilink")では、プレイヤーが自分の受け持った軍の将軍・指導者の立場にたって、この将軍・指導者が得られたであろう限定された情報を元に駒を動かす遊び方などのように、プレイヤーが指導者という一個人の視点を通して軍や団体を操る遊び方もロールプレイングと呼ばれていた。「ロールプレイングゲーム」の呼称は最初のテーブルトークRPGが登場した時点ではまだ使われておらず、1970年代後半になってから、先に挙げたボードゲームも含めて各個プレイヤーが一人の個人を担当するゲーム全般の意味で用いられた。
+
+テーブルトークRPGが最初に登場したのは[1970年代](https://ja.wikipedia.org/wiki/1970年代 "wikilink")前半の[アメリカである](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")の元祖とされるのは[1974年](https://ja.wikipedia.org/wiki/1974年 "wikilink")の『[ダンジョンズ&ドラゴンズ](https://ja.wikipedia.org/wiki/ダンジョンズ&ドラゴンズ "wikilink")』（以下、『D\&D』）である。『D\&D』は[ゲイリー・ガイギャックス](https://ja.wikipedia.org/wiki/ゲイリー・ガイギャックス "wikilink")によってデザインされ、[TSR社から発売されたが](https://ja.wikipedia.org/wiki/TSR_\(ゲーム出版社\) "wikilink")、これはガイギャックスとジェフ・ペレンが作った[ミニチュア](https://ja.wikipedia.org/wiki/ミニチュアゲーム "wikilink")・[ウォーゲーム](https://ja.wikipedia.org/wiki/ウォーシミュレーションゲーム "wikilink")『』（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")、ガイドン・ゲームズより発売）から発展したものであった（そのため、『Chainmail』は『D\&D』の原型とみなされる\[23\] ）。『D\&D』の内容は、[ドラゴン](https://ja.wikipedia.org/wiki/ドラゴン "wikilink")などの[魔物が住み危険な罠の仕掛けられた](https://ja.wikipedia.org/wiki/怪物 "wikilink")[ダンジョン](https://ja.wikipedia.org/wiki/ダンジョン "wikilink")（迷宮）の中を、武器を使う戦士、魔法使いなど、異なる能力を持ったキャラクターを組み合わせたグループ（[パーティ](https://ja.wikipedia.org/wiki/パーティ "wikilink")）を組んで探検し、様々な謎（リドル）を解き、ダンジョンの奥に眠る財宝や[魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")の物品を獲得する、というものである。また、このゲームの達成目的や進行方式を継承した『[ウィザードリィ](https://ja.wikipedia.org/wiki/ウィザードリィ "wikilink")』などの[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")が[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")初頭に誕生した。なお、『D\&D』黎明期には、この作品に対して数々の誤解や非難や陰謀論が飛び交っていた。詳細は「[ダンジョンズ&ドラゴンズに関する論争](https://ja.wikipedia.org/wiki/ダンジョンズ&ドラゴンズに関する論争 "wikilink")」の項を参照。
+
+[安田均](https://ja.wikipedia.org/wiki/安田均 "wikilink")は、『D\&D』は[ヒロイック・ファンタジー](https://ja.wikipedia.org/wiki/ヒロイック・ファンタジー "wikilink")、『[指輪物語](https://ja.wikipedia.org/wiki/指輪物語 "wikilink")』、[マイケル・ムアコック](https://ja.wikipedia.org/wiki/マイケル・ムアコック "wikilink")の「[エルリック・サーガ](https://ja.wikipedia.org/wiki/エターナル・チャンピオンシリーズ "wikilink")」といった作品の影響を受けていると指摘している。
+
+[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")代後半になると、[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、歴史、近現代を舞台にするテーブルトークRPGが登場してくる。また、特定の小説や映画などの世界を再現するものも登場する。
+
+背景世界の多様化により、「ダンジョン探索」や「怪物退治」をゲームの目的にしないものも登場してきた。例えば[1977年](https://ja.wikipedia.org/wiki/1977年 "wikilink")に発売された『[トラベラー](https://ja.wikipedia.org/wiki/トラベラー_\(TRPG\) "wikilink")』は、[科学技術が発達して自在に](https://ja.wikipedia.org/wiki/テクノロジー "wikilink")[宇宙旅行](https://ja.wikipedia.org/wiki/宇宙旅行 "wikilink")できるようになった世界を舞台に、さまざまな文明をもった惑星を旅することを目的にしている\[24\]。[1979年](https://ja.wikipedia.org/wiki/1979年 "wikilink")に発売された『[ルーンクエスト](https://ja.wikipedia.org/wiki/ルーンクエスト "wikilink")』はファンタジー世界ながら、[文化人類学](https://ja.wikipedia.org/wiki/文化人類学 "wikilink")を背景にした緻密な[カルト](https://ja.wikipedia.org/wiki/カルト "wikilink")（祭祀集団）を設定し、詳細な設定をもった背景世界（[グローランサ](https://ja.wikipedia.org/wiki/グローランサ "wikilink")）と物語を提示したことに特徴があった。このゲームではプレイヤーキャラクターが所属するカルトによって全く異なる行動規範が定められており、従来の「プレイヤーキャラクターは同じ目的を持った仲間（パーティー）である」という概念とは異なるプレイスタイルを持っていた。
+
+これらのゲームは「ある役割を課せられた仮想の人物を操演して、司会・審判役を交えて会話で進行するゲーム」という部分では『D\&D』と共通するものの、背景世界のみならず達成目的や進行方式が『D\&D』とはまったく異なるゲームとなっている。このようなゲームの登場は、テーブルトークRPGの多様性を示すことになった。
+
+また、最初期の『D\&D』をはじめ黎明期のゲームは背景世界に緻密な設定をもたなかったが、『トラベラー』や『ルーンクエスト』のような緻密な世界設定を持つゲームの登場により、後のゲームでは「ゲームシステム」と「世界背景・物語」という二分化された制作がなされるようになる。
+
+[英語圏](https://ja.wikipedia.org/wiki/英語圏 "wikilink")だけの現象であったテーブルトークRPGは、やがて他の言語圏にも紹介され、初めは英語のゲームをそのまま遊ぶという形で伝播していくが、やがて、各言語独自のゲームが作られるようになる。テーブルトークRPGが多く発表されている非英語圏の国として、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[イタリア](https://ja.wikipedia.org/wiki/イタリア "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")などがある。
+
+## 日本における歴史
+
+### 黎明期
+
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")におけるテーブルトークRPGの始まりは、[1970年代](https://ja.wikipedia.org/wiki/1970年代 "wikilink")後半に求められる。原宿キディランドなどの玩具店や模型店で、日本国外製の原語のTRPGが輸入販売されるようになり、それをプレイする人々が初期のユーザーとなった。元々は[アメリカの大学生の遊びから生まれたゲームであるため](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、ルールは全て[英語](https://ja.wikipedia.org/wiki/英語 "wikilink")で書かれており、それを読めなければゲームを始めることすらできなかった。しかし、彼らは次第にゲームの翻訳・翻案、さらには自作まで行うようになる。
+
+日本ではテーブルトークRPGよりも一足先にボードシミュレーションゲームが紹介されており、[1980年代](https://ja.wikipedia.org/wiki/1980年代 "wikilink")前半にはファン層も確立され、[日本語](../Page/日本語.md "wikilink")のゲームや日本語の専門誌もいくつか出版されていた。『[TACTICS](https://ja.wikipedia.org/wiki/タクテクス "wikilink")』『[シミュレイター](https://ja.wikipedia.org/wiki/シミュレイター "wikilink")』などの当時のボードシミュレーションゲーム雑誌では、「ボードシミュレーションゲームの兄弟のようなゲーム」として日本国外のRPGならびにその周辺の状況がたびたび紹介されている。1982年5月1日発売の『TACTICS』3号に**ロールプレイングゲーム『ドンキーコマンド』**\[25\]が掲載される。『ドンキーコマンド』はコマンド隊員をキャラクターとして作成し、秘密基地に潜入。爆破や奪取任務を行う1人プレイ用のルールであった\[26\]。
+
+日本語で書かれたTRPG製品が商業ベースで発売されるようになったのは[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")で、この年に多摩豊により『[エンタープライズ](https://ja.wikipedia.org/wiki/エンタープライズ_\(TRPG\) "wikilink")』が[ツクダホビー](https://ja.wikipedia.org/wiki/ツクダホビー "wikilink")から発売されている。また、同年にはツクダホビーや[バンダイ](https://ja.wikipedia.org/wiki/バンダイ "wikilink")から、ロールプレイングゲームの要素を持つボードゲームが日本人のゲームデザイナーにより多数発売された（ツクダホビー『[クラッシャージョウ](https://ja.wikipedia.org/wiki/クラッシャージョウ "wikilink")』、バンダイ『元禄忍者伝』など）。[1984年](../Page/1984年.md "wikilink")には日本人作による初の本格的なテーブルトークRPGである『[ローズ・トゥ・ロード](https://ja.wikipedia.org/wiki/ローズ・トゥ・ロード "wikilink")』（門倉直人著、[ツクダホビー](https://ja.wikipedia.org/wiki/ツクダホビー "wikilink")発売）が発売された。また、同年には日本国外製TRPGの初の日本語翻訳製品となる『[トラベラー](https://ja.wikipedia.org/wiki/トラベラー_\(TRPG\) "wikilink")』が[ホビージャパン](https://ja.wikipedia.org/wiki/ホビージャパン "wikilink")より発売されている。その後、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")には『[ダンジョンズ&ドラゴンズ](https://ja.wikipedia.org/wiki/クラシック・ダンジョンズ&ドラゴンズ "wikilink")』（新和）、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には『[クトゥルフの呼び声](https://ja.wikipedia.org/wiki/クトゥルフの呼び声_\(TRPG\) "wikilink")』（ホビージャパン）と、著名な日本国外作品の日本語翻訳版発売の流れが続き、後のブーム（繁盛期）の端緒を開いた。
+
+日本語のTRPG製品が発売されていった[1980年代](https://ja.wikipedia.org/wiki/1980年代 "wikilink")前半は、コンピュータRPGが日本のパソコンゲームファンに注目されだした時期でもある。『[ログイン](https://ja.wikipedia.org/wiki/ログイン_\(雑誌\) "wikilink")』『[Beep](https://ja.wikipedia.org/wiki/ゲーマガ#Beep "wikilink")』などのコンピューターゲーム誌では「『[ウィザードリィ](https://ja.wikipedia.org/wiki/ウィザードリィ "wikilink")』や『[ウルティマ](https://ja.wikipedia.org/wiki/ウルティマ "wikilink")』の元となったゲーム」として、『[D\&D](https://ja.wikipedia.org/wiki/ダンジョンズ&ドラゴンズ "wikilink")』等の紹介が始まり、コンピュータゲームをきっかけにテーブルトークRPGに興味を持つ、という流れを作り出した。なお、コンピューターゲーム誌では、コンピューターRPGに対しての「ボードRPG」という造語が盛んに用いられていた。
+
+[1980年代](https://ja.wikipedia.org/wiki/1980年代 "wikilink")後半に入ると、パソコンゲーム雑誌『[コンプティーク](https://ja.wikipedia.org/wiki/コンプティーク "wikilink")』（[角川書店](https://ja.wikipedia.org/wiki/角川書店 "wikilink")）誌上に、『D\&D』のシステムを用いた『[ロードス島戦記](https://ja.wikipedia.org/wiki/ロードス島戦記 "wikilink")』の[リプレイが掲載された](https://ja.wikipedia.org/wiki/リプレイ_\(TRPG\) "wikilink")。その後、リプレイを原案とした小説版『ロードス島戦記』が発表され大きな反響を呼び、漫画や[OVA](https://ja.wikipedia.org/wiki/OVA "wikilink")、パソコン用ゲームなど、いわゆる[マルチメディア](https://ja.wikipedia.org/wiki/マルチメディア "wikilink")展開を見せ、日本におけるテーブルトークRPG普及に一役買うことになる。
+
+### ソード・ワールドRPGの成功とテーブルトークRPGブーム到来
+
+[1989年](https://ja.wikipedia.org/wiki/1989年 "wikilink")に『[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")』が[富士見書房](https://ja.wikipedia.org/wiki/富士見書房 "wikilink")から発売されると、特に中高生を中心とした低年齢層にも広く普及した\[27\]。
+
+『ソード・ワールドRPG』が大きく普及した理由は、
+
+  - 書店で入手しやすい[文庫本](https://ja.wikipedia.org/wiki/文庫本 "wikilink")の形だったこと（それまでのシステムや[サプリメントなどのテーブルトークRPG関連商品の多くは](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")、ボードゲームメーカーによるボックス型のものが多く、価格も3500 - 5000円と高めの商品が主流であった）。
+  - 『ロードス島戦記』と同じ世界で、違う大陸を扱っていた（出版社、システムは異なる）。
+  - [メディアミックス](https://ja.wikipedia.org/wiki/メディアミックス "wikilink")展開（雑誌でのリプレイ連載、関連した冒険小説やシナリオの出版、TVゲーム化など）。
+  - 日本の環境に合ったルール（キャラクターは複数のスキルを持っていて、「魔法も使える戦士」等を容易に表現でき、また、作成したばかりのキャラクターや少人数でのパーティでも冒険ができた）。
+
+などが挙げられる。
+
+こうして、テーブルトークRPGの一大ブームが訪れた。[角川書店](https://ja.wikipedia.org/wiki/角川書店 "wikilink")、[富士見書房](https://ja.wikipedia.org/wiki/富士見書房 "wikilink")からはRPG関連書籍が数多く出版された。RPGを元にした小説作品である『[ドラゴンランス](https://ja.wikipedia.org/wiki/ドラゴンランス "wikilink")戦記』（富士見書房より翻訳刊行）や『[ロードス島戦記](https://ja.wikipedia.org/wiki/ロードス島戦記 "wikilink")』（角川書店）は日本のファンタジー小説の裾野を広げた。
+
+### ブームの終焉・冬の時代突入とその後
+
+ところが、こうしたブームは、[1990年代](https://ja.wikipedia.org/wiki/1990年代 "wikilink")半ばに落ち込んでしまうこととなる。これを俗に、「[TRPG冬の時代](https://ja.wikipedia.org/wiki/テーブルトークRPG冬の時代 "wikilink")」と呼ぶ。停滞していった原因は、ブームに乗じた粗製濫造と作品の質の低下、『[マジック:ザ・ギャザリング](https://ja.wikipedia.org/wiki/マジック:ザ・ギャザリング "wikilink")』を初めとする[トレーディングカードゲーム](https://ja.wikipedia.org/wiki/トレーディングカードゲーム "wikilink")の台頭、主要なファン年齢層の就職・進学に伴う離脱などが、よく挙げられている。
+
+[2001年](https://ja.wikipedia.org/wiki/2001年 "wikilink")、長らく冬眠状態だった『ソード・ワールドRPG』リプレイの新シリーズがスタートし、翌[2002年](https://ja.wikipedia.org/wiki/2002年 "wikilink")には、『[ナイトウィザード](https://ja.wikipedia.org/wiki/ナイトウィザード "wikilink")』の初版、『[アルシャード](https://ja.wikipedia.org/wiki/アルシャード "wikilink")』の初版、『[ダンジョンズ&ドラゴンズ第3版](https://ja.wikipedia.org/wiki/ダンジョンズ&ドラゴンズ第3版 "wikilink")』といった、その後も展開が継続していった人気システムが相次いで出版され、本格的に復調傾向を見せ始める。
+
+[2000年代](https://ja.wikipedia.org/wiki/2000年代 "wikilink")後半以降は、ルールブック、[サプリメント](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")、[リプレイ](https://ja.wikipedia.org/wiki/リプレイ_\(TRPG\) "wikilink")、アクセサリなどのTRPG関連製品が毎月10点程度は発売されるような状況となり（関連小説や定期刊行物を含めればさらに増える）、回復・安定したとみられる。TRPGは「冬の時代」を挟んで、他の[サブカルチャー](https://ja.wikipedia.org/wiki/サブカルチャー "wikilink")メディアへの露出・連携が弱まったため、若い世代への広範な普及が見られたかつての状況にまでは至っていないようである。
+
+2000年代終盤から2010年代初頭にかけて、[ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink")などの動画サイトに『[アイドルマスターシリーズ](https://ja.wikipedia.org/wiki/アイドルマスターシリーズ "wikilink")』や『[東方Project](https://ja.wikipedia.org/wiki/東方Project "wikilink")』のキャラクターを用いた初心者向け解説動画やリプレイ動画などが投稿されるようになり、中でも2012年頃から『[クトゥルフ神話TRPG](https://ja.wikipedia.org/wiki/クトゥルフの呼び声_\(TRPG\) "wikilink")』関連動画の投稿数が急増した。これに伴い『クトゥルフ神話TRPG』基本ルールブックの増版ペースも上がり\[28\]、2015年6月で第20刷となっている\[29\]。『クトゥルフ神話TRPG』関連動画の急増は、2012年4月よりテレビアニメが放送された『[這いよれ\! ニャル子さん](https://ja.wikipedia.org/wiki/這いよれ!_ニャル子さん "wikilink")』の影響と見る向きもある\[30\]。
+
+## 日本における制作・販売形態
+
+日本においては黎明期より、制作者・企画者が海外製品の翻訳やオリジナル作品の制作を行い、彼らと契約した玩具メーカーや出版社が流通販売を担う、という形態が多くを占める。しかし採算が取れず市場から撤退した玩具メーカーや出版社も少なくない。そのため、同一または同系統のルールブックが別の出版社から販売されたり、絶版作品が権利がらみで販売不可となる事例も少なからず見られる。
+
+### 文庫RPG
+
+日本独特の出版形態が「文庫（本）型」である。『[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")』や『[GURPS](https://ja.wikipedia.org/wiki/ガープス "wikilink")』（ガープス）、『[MAGIUS](https://ja.wikipedia.org/wiki/マギウス "wikilink")』（マギウス）が代表的である。それらをデザインした[グループSNE](https://ja.wikipedia.org/wiki/グループSNE "wikilink")は、その前に『[トンネルズ&トロールズ](https://ja.wikipedia.org/wiki/トンネルズ&トロールズ "wikilink")』の日本語版を文庫で出版し、[ゲームブック](https://ja.wikipedia.org/wiki/ゲームブック "wikilink")ファン層にテーブルトークRPGをアピールすることに成功している。
+
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代前半のテーブルトークRPGのブーム期にはビッグネームからマイナー製品まで数多くのタイトルが文庫で次々と発売され、文庫本という形態はテーブルトークRPGのデファクトスタンダードになっていった。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代後半以降の日本では、[A4版もしくは](https://ja.wikipedia.org/wiki/紙の寸法#A列 "wikilink")[B5版の](https://ja.wikipedia.org/wiki/紙の寸法#B列 "wikilink")*[書籍タイプ](https://ja.wikipedia.org/wiki/本 "wikilink")* の製品が主流を占めることになる（情報量も多いがその分厚くなり、文庫タイプに比べて高価格 という特徴を持つ）。過去にも、大判の書籍タイプのRPGルールブックはあった（『[パワープレイ](https://ja.wikipedia.org/wiki/パワープレイ_\(TRPG\) "wikilink")』など）。ところが、文庫タイプの代表格『ソード・ワールドRPG』『[GURPS](https://ja.wikipedia.org/wiki/ガープス "wikilink")』ですら、この時期に『完全版』としてA4版の書籍タイプで出版された（これは日本のみの現象ではなく、アメリカでも一足早く、ボックス型よりも大判の書籍タイプが主流となっていた）。
+
+しかし、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")に発売された『[アリアンロッドRPG](https://ja.wikipedia.org/wiki/アリアンロッドRPG "wikilink")』は、久しぶりに文庫タイプで出版された。この作品は基本ルールや[リプレイ](https://ja.wikipedia.org/wiki/リプレイ_\(TRPG\) "wikilink")、入門者向けの[サプリメントは文庫で出版し](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")、追加データなどの記述量が多くなるパワーユーザー向けのサプリメントはB5版書籍で出版するというスタイルをとった。こうした、両方の利点を活かす展開手法は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")発売の『[アルシャードガイア](https://ja.wikipedia.org/wiki/アルシャードガイア "wikilink")』、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")発売の『[ソード・ワールド2.0](https://ja.wikipedia.org/wiki/ソード・ワールド2.0 "wikilink")』、[2009年](https://ja.wikipedia.org/wiki/2009年 "wikilink")発売の『[ダブルクロス The 3rd Edition](https://ja.wikipedia.org/wiki/ダブルクロス "wikilink")』などにも引き継がれている。
+
+### リプレイ本
+
+日本のテーブルトークRPG市場において特徴的なものに、「[リプレイ本](https://ja.wikipedia.org/wiki/リプレイ_\(TRPG\) "wikilink")」といわれる商品の存在がある\[31\]。
+
+リプレイとはテーブルトークRPGのプレイ風景を記録したものである。一般的にはプレイヤーキャラクターとゲームマスターの発言の羅列という[戯曲](https://ja.wikipedia.org/wiki/戯曲 "wikilink")形式で記述される。リプレイは元々は、ゲームのルールをわかりやすく説明するためにルールブックに10数行程度で書かれるものでしかなかった。これは行為判定などが行われている様子を戯曲形式にして抜き出したものにすぎなかったが、日本のテーブルトークRPGの黎明期では全く未知の遊びであったテーブルトークRPGの紹介を行うためにこのリプレイという形式が好んで使われた。[ウォー・シミュレーションゲーム](https://ja.wikipedia.org/wiki/ウォー・シミュレーションゲーム "wikilink")雑誌や[パソコンゲーム](https://ja.wikipedia.org/wiki/パソコンゲーム "wikilink")雑誌では1回のゲームプレイの最初から最後までを数ページにわたるリプレイとして掲載することで、テーブルトークRPGの実態を紹介していった。さらには、[コンプティーク](https://ja.wikipedia.org/wiki/コンプティーク "wikilink")誌で[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に連載された『[ロードス島戦記](https://ja.wikipedia.org/wiki/ロードス島戦記 "wikilink")』など、数回のセッションにわたるキャンペーンプレイを全てリプレイとして掲載するという試みも行なわれた。リプレイが長文化するに従い、書き手は読み手に対して飽きさせないようにする工夫や単なる記録以上の「読み物」が求められるようになり、リプレイの文章には様々な演出や編集が行われるようになった。こうして日本独自の文化が誕生したのである。
+
+リプレイ文化はテーブルトークRPGの黎明期こそゲーム雑誌上の記事でしか見られなかったが、『ロードス島戦記』や『[ソードワールドRPG](https://ja.wikipedia.org/wiki/ソードワールドRPG "wikilink")』が[メディアミックス](https://ja.wikipedia.org/wiki/メディアミックス "wikilink")展開していくのと同時にリプレイも単品の商品として文庫本の形式で売り出されるようになる。その結果、「リプレイ本」はテーブルトークRPGをプレイしていない人の中にも[ライトノベル](https://ja.wikipedia.org/wiki/ライトノベル "wikilink")の一種として受け入れられるようになり、様々なリプレイ本が出版されていくようになっていったのである。ここに至り、ゲームの紹介として始まったリプレイが独立した一個の作品として売り出されるようになった。結果、ゲームはプレイしないがリプレイ本は読んでいるリプレイ読者という層が生み出されるようにもなった。リプレイ本は[2011年](https://ja.wikipedia.org/wiki/2011年 "wikilink")現在においてもライトノベルの一つとして出版され続けており、ライトノベル市場において独自の地位を築いている。
+
+## タイトル一覧
+
+## 日本の業界で著名な人物（五十音順）
+
+### 企画・デザイン
+
+  - [井上純弌](https://ja.wikipedia.org/wiki/井上純弌 "wikilink") - [F.E.A.R.協力](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")
+  - [遠藤卓司](https://ja.wikipedia.org/wiki/遠藤卓司 "wikilink") - [F.E.A.R.所属](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")
+  - [大貫昌幸](https://ja.wikipedia.org/wiki/大貫昌幸 "wikilink") - [ORG設立](https://ja.wikipedia.org/wiki/オーアールジー "wikilink")（故人）
+  - [河嶋陶一朗](https://ja.wikipedia.org/wiki/河嶋陶一朗 "wikilink") - [冒険企画局](https://ja.wikipedia.org/wiki/冒険企画局 "wikilink")所属
+  - [門倉直人](https://ja.wikipedia.org/wiki/門倉直人 "wikilink") - 元[遊演体](https://ja.wikipedia.org/wiki/遊演体 "wikilink")所属
+  - [菊池たけし](https://ja.wikipedia.org/wiki/菊池たけし "wikilink") - [F.E.A.R.所属](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")
+  - [北沢慶](https://ja.wikipedia.org/wiki/北沢慶 "wikilink") - [グループSNE](https://ja.wikipedia.org/wiki/グループSNE "wikilink")所属
+  - [清松みゆき](https://ja.wikipedia.org/wiki/清松みゆき "wikilink") - [グループSNE](https://ja.wikipedia.org/wiki/グループSNE "wikilink")所属
+  - [久保田悠羅](https://ja.wikipedia.org/wiki/久保田悠羅 "wikilink") - [F.E.A.R.所属](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")
+  - [黒田幸弘](https://ja.wikipedia.org/wiki/黒田幸弘 "wikilink") - [ミューズソフト株式会社](https://ja.wikipedia.org/wiki/ミューズソフト株式会社 "wikilink")代表
+  - [小太刀右京](https://ja.wikipedia.org/wiki/小太刀右京 "wikilink") - [F.E.A.R.協力](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")
+  - [小林正親](https://ja.wikipedia.org/wiki/小林正親 "wikilink") - 元[遊演体](https://ja.wikipedia.org/wiki/遊演体 "wikilink")所属
+  - [小浜智](https://ja.wikipedia.org/wiki/小浜智 "wikilink") - [F.E.A.R.所属](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")
+  - [近藤功司](https://ja.wikipedia.org/wiki/近藤功司 "wikilink") - [冒険企画局](https://ja.wikipedia.org/wiki/冒険企画局 "wikilink")代表
+  - [齋藤高吉](https://ja.wikipedia.org/wiki/齋藤高吉 "wikilink") - [冒険企画局](https://ja.wikipedia.org/wiki/冒険企画局 "wikilink")所属
+  - [芝村裕吏](https://ja.wikipedia.org/wiki/芝村裕吏 "wikilink") - 元[アルファ・システム](https://ja.wikipedia.org/wiki/アルファ・システム "wikilink")所属
+  - [鈴木銀一郎](https://ja.wikipedia.org/wiki/鈴木銀一郎 "wikilink") - [翔企画](https://ja.wikipedia.org/wiki/翔企画 "wikilink")代表
+  - [鈴吹太郎](https://ja.wikipedia.org/wiki/鈴吹太郎 "wikilink") - [F.E.A.R.代表](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")
+  - [高梨俊一](https://ja.wikipedia.org/wiki/高梨俊一 "wikilink")
+  - [高平鳴海](https://ja.wikipedia.org/wiki/高平鳴海 "wikilink") - 元[F.E.A.R.所属](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")
+  - [田中公待](https://ja.wikipedia.org/wiki/田中公待 "wikilink") - [グループSNE](https://ja.wikipedia.org/wiki/グループSNE "wikilink")所属
+  - [柘植めぐみ](https://ja.wikipedia.org/wiki/柘植めぐみ "wikilink") - [グループSNE](https://ja.wikipedia.org/wiki/グループSNE "wikilink")所属
+  - [徳岡正肇](https://ja.wikipedia.org/wiki/徳岡正肇 "wikilink")
+  - [友野詳](https://ja.wikipedia.org/wiki/友野詳 "wikilink") - [グループSNE](https://ja.wikipedia.org/wiki/グループSNE "wikilink")所属
+  - [朱鷺田祐介](https://ja.wikipedia.org/wiki/朱鷺田祐介 "wikilink") - [スザク・ゲームズ](https://ja.wikipedia.org/wiki/スザク・ゲームズ "wikilink")代表
+  - [水野良](https://ja.wikipedia.org/wiki/水野良 "wikilink") - 元[グループSNE](https://ja.wikipedia.org/wiki/グループSNE "wikilink")所属、現フラッグノーツ所属
+  - [藤浪智之](https://ja.wikipedia.org/wiki/藤浪智之 "wikilink") - 元[F.E.A.R.所属](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")
+  - [伏見健二](https://ja.wikipedia.org/wiki/伏見健二 "wikilink") - 元[F.E.A.R.](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")、現[グランペール](https://ja.wikipedia.org/wiki/グランペール "wikilink")設立
+  - [星宮すみれ](https://ja.wikipedia.org/wiki/星宮すみれ "wikilink") - [冒険企画局](https://ja.wikipedia.org/wiki/冒険企画局 "wikilink")所属
+  - [安田均](https://ja.wikipedia.org/wiki/安田均 "wikilink") - [グループSNE](https://ja.wikipedia.org/wiki/グループSNE "wikilink")代表
+  - [柳川房彦](https://ja.wikipedia.org/wiki/柳川房彦 "wikilink") - 元[遊演体](https://ja.wikipedia.org/wiki/遊演体 "wikilink")、現[エルスウェア](https://ja.wikipedia.org/wiki/エルスウェア "wikilink")所属
+  - [矢野俊策](https://ja.wikipedia.org/wiki/矢野俊策 "wikilink") - 元[F.E.A.R.所属](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")、現[フラッグノーツ](https://ja.wikipedia.org/wiki/フラッグノーツ "wikilink")設立
+  - [山北篤](https://ja.wikipedia.org/wiki/山北篤 "wikilink") - 元[F.E.A.R.所属](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")
+  - [和栗あきら](https://ja.wikipedia.org/wiki/和栗あきら "wikilink") - 元[ORG所属](https://ja.wikipedia.org/wiki/オーアールジー "wikilink")
+
+### ライター、小説家
+
+  - [秋口ぎぐる](https://ja.wikipedia.org/wiki/秋口ぎぐる "wikilink") - グループSNE所属
+  - [秋田みやび](https://ja.wikipedia.org/wiki/秋田みやび "wikilink") - [グループSNE](https://ja.wikipedia.org/wiki/グループSNE "wikilink")所属
+  - [池田朝佳](https://ja.wikipedia.org/wiki/池田朝佳 "wikilink") - [冒険企画局](https://ja.wikipedia.org/wiki/冒険企画局 "wikilink")所属
+  - [桂令夫](https://ja.wikipedia.org/wiki/桂令夫 "wikilink")
+  - [健部伸明](https://ja.wikipedia.org/wiki/健部伸明 "wikilink") - 元F.E.A.R.所属
+  - [田中天](https://ja.wikipedia.org/wiki/田中天 "wikilink") - 元[Cygames](https://ja.wikipedia.org/wiki/Cygames "wikilink")所属、現フラッグノーツ所属
+  - [多摩豊](https://ja.wikipedia.org/wiki/多摩豊 "wikilink") - [ウォーロック](https://ja.wikipedia.org/wiki/ウォーロック "wikilink")編集長（故人）
+  - [三田誠](https://ja.wikipedia.org/wiki/三田誠 "wikilink") - 元[グループSNE](https://ja.wikipedia.org/wiki/グループSNE "wikilink")所属
+  - [はせがわみやび](https://ja.wikipedia.org/wiki/はせがわみやび "wikilink")
+  - [藤澤さなえ](https://ja.wikipedia.org/wiki/藤澤さなえ "wikilink") - [グループSNE](https://ja.wikipedia.org/wiki/グループSNE "wikilink")所属
+  - [細江ひろみ](https://ja.wikipedia.org/wiki/細江ひろみ "wikilink") - 元[F.E.A.R.所属](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")
+  - [山本弘](https://ja.wikipedia.org/wiki/山本弘_\(作家\) "wikilink") - 元[グループSNE](https://ja.wikipedia.org/wiki/グループSNE "wikilink")所属
+
+### イラストレーター
+
+  - [合鴨ひろゆき](https://ja.wikipedia.org/wiki/合鴨ひろゆき "wikilink") - 元[グループSNE](https://ja.wikipedia.org/wiki/グループSNE "wikilink")所属
+  - [井上純弌](https://ja.wikipedia.org/wiki/井上純弌 "wikilink")
+  - [落合なごみ](https://ja.wikipedia.org/wiki/落合なごみ "wikilink") - [冒険企画局](https://ja.wikipedia.org/wiki/冒険企画局 "wikilink")所属
+  - [金澤尚子](https://ja.wikipedia.org/wiki/金澤尚子 "wikilink")
+  - [佐々木あかね](https://ja.wikipedia.org/wiki/佐々木あかね "wikilink") - 元[F.E.A.R.所属](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")
+  - [佐々木亮](https://ja.wikipedia.org/wiki/佐々木亮 "wikilink")
+  - [鈴木猛](https://ja.wikipedia.org/wiki/鈴木猛 "wikilink")
+  - [九月姫](https://ja.wikipedia.org/wiki/九月姫 "wikilink")
+  - [田中としひさ](https://ja.wikipedia.org/wiki/田中としひさ "wikilink")
+  - [速水螺旋人](https://ja.wikipedia.org/wiki/速水螺旋人 "wikilink") - [冒険企画局](https://ja.wikipedia.org/wiki/冒険企画局 "wikilink")協力
+  - [みかきみかこ](https://ja.wikipedia.org/wiki/みかきみかこ "wikilink")
+
+## 制作・企画会社（五十音順）
+
+  - [ウィザーズ・オブ・ザ・コースト](https://ja.wikipedia.org/wiki/ウィザーズ・オブ・ザ・コースト "wikilink")
+  - [エルスウェア](https://ja.wikipedia.org/wiki/エルスウェア "wikilink")
+  - [ORG](https://ja.wikipedia.org/wiki/オーアールジー "wikilink")
+  - [グループSNE](https://ja.wikipedia.org/wiki/グループSNE "wikilink")
+  - [翔企画](https://ja.wikipedia.org/wiki/翔企画 "wikilink")
+  - [サンセットゲームズ](https://ja.wikipedia.org/wiki/サンセットゲームズ "wikilink")
+  - [スザク・ゲームズ](https://ja.wikipedia.org/wiki/スザク・ゲームズ "wikilink")
+  - [ファーイースト・アミューズメント・リサーチ](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink") (F.E.A.R.)
+  - [冒険企画局](https://ja.wikipedia.org/wiki/冒険企画局 "wikilink")
+  - [遊演体](https://ja.wikipedia.org/wiki/遊演体 "wikilink")
+
+## 出版社（五十音順）
+
+下記は、各社から出版されたTRPG専門誌、サポート誌（休刊・廃刊されたものを含む）。
+
+  - [アークライト](https://ja.wikipedia.org/wiki/アークライト_\(企業\) "wikilink")
+  - [アスキー](https://ja.wikipedia.org/wiki/アスキー_\(企業\) "wikilink") - [LOGOUT](https://ja.wikipedia.org/wiki/LOGOUT "wikilink")
+  - [アトリエサード](https://ja.wikipedia.org/wiki/アトリエサード "wikilink") - [TRPG:サプリ](https://ja.wikipedia.org/wiki/TRPG:サプリ "wikilink")
+  - [エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink") - [AGマガジン](https://ja.wikipedia.org/wiki/AGマガジン "wikilink")
+  - [角川書店](https://ja.wikipedia.org/wiki/角川書店 "wikilink") - [コンプRPG](https://ja.wikipedia.org/wiki/コンプRPG "wikilink")、ゲームクエスト
+  - [ゲーム・フィールド](https://ja.wikipedia.org/wiki/ゲーム・フィールド "wikilink") - [ゲーマーズ・フィールド](https://ja.wikipedia.org/wiki/ゲーマーズ・フィールド "wikilink")
+  - [国際通信社](https://ja.wikipedia.org/wiki/国際通信社 "wikilink") - [RPGamer](https://ja.wikipedia.org/wiki/RPGamer "wikilink")、[季刊R・P・G](https://ja.wikipedia.org/wiki/季刊R・P・G "wikilink")
+  - [サンセットゲームズ](https://ja.wikipedia.org/wiki/サンセットゲームズ "wikilink") - [ローカルペーパー](https://ja.wikipedia.org/wiki/ローカルペーパー "wikilink")
+  - [ジャイブ](https://ja.wikipedia.org/wiki/ジャイブ "wikilink")
+  - [社会思想社](https://ja.wikipedia.org/wiki/社会思想社 "wikilink")（[2002年](https://ja.wikipedia.org/wiki/2002年 "wikilink")倒産） - [ウォーロック](https://ja.wikipedia.org/wiki/ウォーロック "wikilink")
+  - [翔企画](https://ja.wikipedia.org/wiki/翔企画 "wikilink") - [シミュレイター](https://ja.wikipedia.org/wiki/シミュレイター "wikilink")、RPGコミック
+  - [新紀元社](https://ja.wikipedia.org/wiki/新紀元社 "wikilink") - [Role\&Roll](https://ja.wikipedia.org/wiki/Role&Roll "wikilink")
+  - [主婦と生活社](https://ja.wikipedia.org/wiki/主婦と生活社 "wikilink")
+  - [大日本絵画](https://ja.wikipedia.org/wiki/大日本絵画 "wikilink") - [ゲームグラフィックス](https://ja.wikipedia.org/wiki/ゲームグラフィックス "wikilink")
+  - [ツクダホビー](https://ja.wikipedia.org/wiki/ツクダホビー "wikilink") - オペレーション
+  - [バンダイ](https://ja.wikipedia.org/wiki/バンダイ "wikilink")
+  - [富士見書房](https://ja.wikipedia.org/wiki/富士見書房 "wikilink") - [RPGドラゴン](https://ja.wikipedia.org/wiki/RPGドラゴン "wikilink")
+  - [ホビージャパン](https://ja.wikipedia.org/wiki/ホビージャパン "wikilink") - [タクテクス](https://ja.wikipedia.org/wiki/タクテクス "wikilink")、[RPGマガジン](https://ja.wikipedia.org/wiki/RPGマガジン "wikilink")、[GAME JAPAN](https://ja.wikipedia.org/wiki/GAME_JAPAN "wikilink")（旧ゲームぎゃざ）
+  - [つぎはぎ本舗](https://ja.wikipedia.org/wiki/つぎはぎ本舗 "wikilink")([パッチワークス](https://ja.wikipedia.org/wiki/パッチワークス "wikilink")) - [つぎはぎたより](https://ja.wikipedia.org/wiki/つぎはぎたより "wikilink")
+  - [メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink") - [電撃アドベンチャーズ](https://ja.wikipedia.org/wiki/電撃アドベンチャーズ "wikilink")
+  - [遊演体](https://ja.wikipedia.org/wiki/遊演体 "wikilink")
+  - [雷鳴](https://ja.wikipedia.org/wiki/雷鳴 "wikilink")
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  -
+  -
+  -
+## 関連項目
+
+  - [テーブルトークRPGの道具](https://ja.wikipedia.org/wiki/テーブルトークRPGの道具 "wikilink")
+  - [テーブルトークRPGのタイトル一覧](https://ja.wikipedia.org/wiki/テーブルトークRPGのタイトル一覧 "wikilink")
+  - [テーブルトークRPGのプレイスタイル](https://ja.wikipedia.org/wiki/テーブルトークRPGのプレイスタイル "wikilink")
+  - [テーブルトークRPG冬の時代](https://ja.wikipedia.org/wiki/テーブルトークRPG冬の時代 "wikilink")
+  - [GNS理論](https://ja.wikipedia.org/wiki/GNS理論 "wikilink")
+  - [コンベンション (TRPG)](https://ja.wikipedia.org/wiki/コンベンション_\(TRPG\) "wikilink")
+  - [オンラインセッション](https://ja.wikipedia.org/wiki/オンラインセッション "wikilink")
+  - [遊☆戯☆王](https://ja.wikipedia.org/wiki/遊☆戯☆王 "wikilink") - 原作漫画版の初期にTRPGが登場する。
+
+[ca:Joc De Rol](https://ja.wikipedia.org/wiki/ca:Joc_De_Rol "wikilink") [es:Juegos de Rol](https://ja.wikipedia.org/wiki/es:Juegos_de_Rol "wikilink") [id:Role-playing game](https://ja.wikipedia.org/wiki/id:Role-playing_game "wikilink") [lt:Vaidmenų žaidimas](https://ja.wikipedia.org/wiki/lt:Vaidmenų_žaidimas "wikilink") [nl:role playing game](https://ja.wikipedia.org/wiki/nl:role_playing_game "wikilink") [pt:RPG (jogo)](https://ja.wikipedia.org/wiki/pt:RPG_\(jogo\) "wikilink") [tr:Fantasy role-playing](https://ja.wikipedia.org/wiki/tr:Fantasy_role-playing "wikilink")
+
+[Category:テーブルトークRPG](https://ja.wikipedia.org/wiki/Category:テーブルトークRPG "wikilink") [Category:レトロニム](https://ja.wikipedia.org/wiki/Category:レトロニム "wikilink") [Category:和製英語](https://ja.wikipedia.org/wiki/Category:和製英語 "wikilink")
+
+1.  菊池たけし／F.E.A.R『アリアンロッドRPG 2E ルールブック①』[富士見書房](https://ja.wikipedia.org/wiki/富士見書房 "wikilink")、2011年、14-15頁 ISBN 978-4-8291-4631-6
+2.
+3.
+4.  「実を言えばD\&Dこそ世界最初のロールプレイング・ゲームにして、このジャンルのゲームを生み出した元祖なのだ。」　
+5.  ただし、アメリカでは1980年に「[DragonQuest](https://ja.wikipedia.org/wiki/ドラゴンクエスト_\(テーブルトークRPG\) "wikilink")」という（紙の）RPGが発売されており、日本のドラゴンクエストと商標権問題になった。詳細は該当記事を参照。
+6.  [ゲイリー・ガイギャックス](https://ja.wikipedia.org/wiki/ゲイリー・ガイギャックス "wikilink")『ロールプレイング・ゲームの達人』[教養文庫](https://ja.wikipedia.org/wiki/教養文庫 "wikilink")、1989年、18頁 ISBN 4-390-11312-7
+7.  『新英和中辞典』研究社
+8.  『ケンブリッジ英英辞典』ケンブリッジユニバーシティプレス
+9.
+10. [小太刀右京](https://ja.wikipedia.org/wiki/小太刀右京 "wikilink")『[トワイライトガンスモーク](https://ja.wikipedia.org/wiki/トワイライトガンスモーク "wikilink")』[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")、2014年、20頁 ISBN 978-4-04-729263-5
+11. [小太刀右京](https://ja.wikipedia.org/wiki/小太刀右京 "wikilink")『なぜなに未来侵略 テーブルトークRPG編』[新紀元社](https://ja.wikipedia.org/wiki/新紀元社 "wikilink")、2016年、20頁 ISBN 978-4-7753-1412-8
+12. スティーブ・ジャクソン『ガープス・ベーシック 完訳版』[富士見書房](https://ja.wikipedia.org/wiki/富士見書房 "wikilink")、1999年、15-16頁 ISBN 4-8291-7409-9
+13. 佐脇洋平、グループSNE『ガープスがよくわかる本』[角川スニーカー・G文庫](https://ja.wikipedia.org/wiki/角川スニーカー・G文庫 "wikilink")、1994年、63-64頁 ISBN 4-04-461403-2
+14. スティーブ・ジャクソン『ガープス・ベーシック 完訳版』[富士見書房](https://ja.wikipedia.org/wiki/富士見書房 "wikilink")、1999年、232-233頁 ISBN 4-8291-7409-9
+15.
+16.
+17. スティーブ・ジャクソン『ガープス・ベーシック 完訳版』[富士見書房](https://ja.wikipedia.org/wiki/富士見書房 "wikilink")、1999年、11頁より ISBN 4-8291-7409-9
+18. 山北篤、スペース・ワン・ゼロ『パワープレイ』[ホビージャパン](https://ja.wikipedia.org/wiki/ホビージャパン "wikilink")、1991年、4-9頁 ISBN 4-938461-56-0
+19. 伏見健二・広野一光『ウィザードリィⅤのすべて』JICC出版局、1993年、36頁 ISBN 4-7966-0552-5
+20. 友野詳『バカバカRPGを語る』[新紀元社](https://ja.wikipedia.org/wiki/新紀元社 "wikilink")、2007年、10頁 ISBN 978-4-7753-0541-6
+21.
+22. 遥遠志、蟷螂社『パワープレイでわかるRPG入門』[ホビージャパン](https://ja.wikipedia.org/wiki/ホビージャパン "wikilink")、1994年、10-13頁 ISBN 4-89425-050-0
+23. ロブ・ハインソー、アンディ・コリンズ、ジェームズ・ワイアット『ダンジョンズ&ドラゴンズ第4版 基本ルールブック プレイヤーズ・ハンドブック』[ホビージャパン](https://ja.wikipedia.org/wiki/ホビージャパン "wikilink")、2008年、7頁 ISBN 4-89425-798-X
+24. 友野詳『バカバカRPGを語る』[新紀元社](https://ja.wikipedia.org/wiki/新紀元社 "wikilink")、2007年、10頁 ISBN 978-4-7753-0541-6
+25. 『TACTICS』3号表紙
+26. ただし、デザイナー本人は掲載誌『TACTICS』3号にて「ロールプレイングゲームと題されているが、そのようになっていない」と断り書きをしている。
+27. 清松みゆき『ソード・ワールドRPG完全版』[富士見書房](https://ja.wikipedia.org/wiki/富士見書房 "wikilink")、1996年、314頁 ISBN 4-8291-7306-8
+28. <https://twitter.com/Howard_P_L/status/192406878138015744>
+29. <https://twitter.com/LOGiN_TRPG/status/611836848411836416>
+30. [ニコ動のTRPG動画4万本を大調査！ ネットでアナログゲームが復活\!?](http://ascii.jp/elem/000/000/935/935795/index-2.html) - ASCII.jp
+31. 『ログ・ホライズンＴＲＰＧリプレイ　ごちそうキッチンと病の典災』（ISBN 978-4-04-729929-0）、『クトゥルフ神話TRPGリプレイ るるいえあんてぃーく』（ISBN 978-4047262393）等。

@@ -1,0 +1,311 @@
+> この記事は[Memories Off](https://ja.wikipedia.org/wiki/Memories_Off)から翻訳されています。
+
+
+『**Memories Off シリーズ**』（メモリーズオフシリーズ）は、[恋愛アドベンチャーゲーム及びそれを中心とした](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")[アニメ](../Page/アニメ.md "wikilink")、[小説](../Page/小説.md "wikilink")、[CDなど派生作品を含めたシリーズの総称である](../Page/コンパクトディスク.md "wikilink")。略称は『**メモオフ**』。
+
+作品名は媒体によって『Memories Off』という[ラテン文字](../Page/ラテン文字.md "wikilink")表記と『メモリーズオフ』という[片仮名](../Page/片仮名.md "wikilink")書きが混在している。シリーズ10年分の歌曲を収録したCD-BOX『Memories Off 10th anniversary PERFECT VOCAL COLLECTION』では、[KIDによって制作された第](../Page/KID_\(ゲームブランド\).md "wikilink")1 - 5作までが『Memories Off』、[5pb.](../Page/5pb..md "wikilink")制作の第6作およびスピンオフ作品が『メモリーズオフ』と使い分けられているため、本項でもそれに倣う。
+
+[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[藤沢市](../Page/藤沢市.md "wikilink")の[江ノ島周辺を舞台のモデルにしている](../Page/江の島.md "wikilink")。シリーズのテーマは「かけがえのない想い」であり、恋愛の切なさを中心としているが単なる恋愛ゲームの域にはとどまらず、思春期に見られる人生観や価値観への悩み、家族や周囲との関わりについても重点的に表現されている。
+
+## 歴史
+
+### KID時代
+
+[1999年](../Page/1999年.md "wikilink")当時、[KIDの主力商品はPCゲームを家庭用向けに移植した作品であり](../Page/KID_\(ゲームブランド\).md "wikilink")、成功例の少ないオリジナル作品の『[Memories Off](../Page/Memories_Off.md "wikilink")』（以下『1st』）は社内でも期待されていなかった。しかしスタッフが背水の陣で臨んで発売したところ、同社のオリジナル作品で最高の評価を得ることができた。
+
+「[トラウマ](https://ja.wikipedia.org/wiki/トラウマ "wikilink")」を仮題としていた『1st』のテーマは「死んだ恋人の記憶を乗り越えて、新しい恋をする」という特異なものだったが、[2001年](../Page/2001年.md "wikilink")のシリーズ第2作『[Memories Off 2nd](https://ja.wikipedia.org/wiki/Memories_Off_2nd "wikilink")』では「現在の交際中の恋人がいるのに、新しい女の子を好きになったので、別れる」という、より現実味を持たせたテーマとなった。『2nd』の発売後には、ファーストコンサートの開催や[OVA](../Page/OVA.md "wikilink")化など、メディア展開の規模が大きくなっていった。
+
+[2002年](../Page/2002年.md "wikilink")の第3作『[想い出にかわる君 〜Memories Off〜](https://ja.wikipedia.org/wiki/想い出にかわる君_〜Memories_Off〜 "wikilink")』（以下『想君』）は大学生の物語となった。もともと『メモオフ』ファンには高校生が多く、時間の経過とともに彼らが大学生に相当する年齢になっていたからである。なお、ここまでのシリーズ3作品の主人公はみな同い年と設定されており、『想君』の主人公は先代の2人が成長した姿を想定していた。ところが、従来より上の年齢層を狙ったコンセプトは予想したほどの好評を得られなかった。アンケートに応じたユーザーの平均年齢は18歳前後と若いままであり、このことから固定ファンの加齢とともに『メモオフ』支持者の平均年齢が上がっていくのではなく、高年齢層の卒業と低年齢層の加入という激しい入れ替わりが起こっていることが判明した。
+
+一方メディア展開は好調であり、[2003年](../Page/2003年.md "wikilink")には『2nd』OVAが発売され、セカンドコンサートが開催された。ゲームでは『1st』と『2nd』のカップリングソフト『[Memories Off Duet](https://ja.wikipedia.org/wiki/Memories_Off_Duet "wikilink")』が出ており、3作品のキャラクターが総出演するファンディスク『[メモオフみっくす](https://ja.wikipedia.org/wiki/メモオフみっくす "wikilink")』も好評だった。
+
+[2004年](../Page/2004年.md "wikilink")の第4作『[Memories Off 〜それから〜](../Page/Memories_Off_〜それから〜.md "wikilink")』は、それまでの流れをすべて受け継ぐシリーズの総括として作られた。『想君』の反省から舞台を高校へと戻しており、内容も「交際中の恋人から突然フラれる」という、『2nd』に近い恋愛を基本としたものになっている。またこのころには、中国や台湾など日本国外でもシリーズ作品の販売が始まっている。反応は想定以上によかったが、KID社長・市川久祥は本格的なビジネスに発展する前の「儲けを度外視した啓蒙時期」としている。
+
+[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には**『メモオフ』5周年記念企画**として『[Memories Off After Rain](https://ja.wikipedia.org/wiki/Memories_Off_After_Rain "wikilink")』3部作が展開。同年代であることを活かして『1st』と『2nd』のキャラクターをクロスオーバーさせ、『Vol.1』では修学旅行、『Vol.2』では学園祭、『Vol.3』では卒業式と、両作品で希薄だった学校行事の描写を盛り込んだ。この時期に関して、5年後には「今思えば我々は『Memories Off After Rain』がPS2で3連作として発売された時点で、KIDの異変に気づくべきだったのかもしれない」と語られることになる。
+
+同じく2005年、再び大学が舞台となった第5作『[Memories Off \#5 とぎれたフィルム](../Page/Memories_Off_5_とぎれたフィルム.md "wikilink")』が発売。新機軸の『メモオフ』を目指した本作品ではサスペンス要素が導入され、恋愛だけでなく友情もテーマとする青春群像劇となった。主人公にもCGと音声が付いたため、プレイヤーは彼に同一化するのでなく中立の視点からドラマを見つめることになり、この点も『\#5』の物語性の強さを表している。一方でシリーズの長期化に伴う作品世界の閉塞化を防ぐため、前作までとの関係性は控えめになっている。
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にはバレンタインコンサートが開催され、『それから』の後日談『[Memories Off 〜それから again〜](../Page/Memories_Off_〜それから_again〜.md "wikilink")』が発売された。続いて『\#5』の後日談である『[Memories Off \#5 encore](https://ja.wikipedia.org/wiki/Memories_Off_5_encore "wikilink")』が[2007年](../Page/2007年.md "wikilink")2月22日発売予定と告知されたが、12月1日に債務履行不能となったKIDが[自己破産したため](../Page/破産.md "wikilink")\[1\]、開発は停止し情報は途絶えた。
+
+### サイバーフロント時代
+
+2007年2月2日、[サイバーフロント](https://ja.wikipedia.org/wiki/サイバーフロント "wikilink")が旧KIDのゲームに関連する全権利を取得し、改めて『\#5 encore』を発売する予定であることを発表\[2\]。約4か月の沈黙の末に、KID時代と同じスタッフによって開発中であることが明かされ、その後は特に支障もなく『\#5 encore』は予定通り7月12日に発売された。
+
+また7月27日には、いったんそれまでの『メモオフ』に区切りをつけるというコンセプトのもと、『Duet』から『\#5』までKID時代の8タイトルのWindow版をセットにした『[Memories Off History](https://ja.wikipedia.org/wiki/Memories_Off_History "wikilink")』が発売された。
+
+11月30日、KIDの元スタッフが所属する[5pb.](../Page/5pb..md "wikilink")がサイバーフロントより『メモオフ』シリーズを独占的・排他的に利用する権利を取得したことを発表\[3\]。これにより今後の同シリーズに関する企画・開発・販売に係わる全ての業務は5pb.が請負うこととなった。
+
+ただし携帯電話サービスだけは例外的に引き続きサイバーフロントが運営しており、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には初の携帯向けオリジナル作品『[Memories Off carta fiorato](https://ja.wikipedia.org/wiki/Memories_Off_carta_fiorato "wikilink")』が配信されたが、[2013年](../Page/2013年.md "wikilink")に同社が解散したため終了した。
+
+### 5pb.時代
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、5pb.最初の『メモオフ』としてリリースされたのは、シリーズ全体としても初の[女性向けゲーム](https://ja.wikipedia.org/wiki/乙女ゲーム "wikilink")『[ユア・メモリーズオフ〜Girl's Style〜](../Page/ユア・メモリーズオフ〜Girl's_Style〜.md "wikilink")』だった。その後、歴代作品の[PlayStation Portable版リリース開始とともに](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、シリーズの「第二期開幕」と評された第6作『[メモリーズオフ6 〜T-wave〜](https://ja.wikipedia.org/wiki/メモリーズオフ6_〜T-wave〜 "wikilink")』が発表された。原点回帰を志向した『T-wave』は『1st』と同じ高校を舞台とし、修羅場展開や登場人物の死といった旧作にまつわる要素をほぼなくして、学園生活を楽しめるように意識している。
+
+『1st』から10年が経過した[2009年](../Page/2009年.md "wikilink")には、**Memories Off 10th anniversary** と題したキャンペーンが組まれた。Web上にはテーマ曲や壁紙を配信する専用サイトが開設され\[4\]、『[井ノ上奈々のメモオフラジオ](https://ja.wikipedia.org/wiki/井ノ上奈々のメモオフラジオ "wikilink")』でも番組の題材として取り上げた。そのほか[DreamParty 2009秋への出展や](https://ja.wikipedia.org/wiki/DreamParty "wikilink")、関連書籍の刊行、CD-BOXの限定受注生産が行われた。
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、第7作『[メモリーズオフ ゆびきりの記憶](https://ja.wikipedia.org/wiki/メモリーズオフ_ゆびきりの記憶 "wikilink")』が発売された。10周年の区切りがついたこともあってロゴやキャラクターデザインを一新し、新規ユーザーが近づきやすいようにナンバリングのない題名にした。明るい雰囲気だった『6』との差別化のため、緊迫した場面が多く盛り込まれている。
+
+[2014年](../Page/2014年.md "wikilink")には **Memories Off 15th anniversary** のロゴが作られた。コミックマーケット86では『[メモリーズオフ6 Next Relation](https://ja.wikipedia.org/wiki/メモリーズオフ6_Next_Relation "wikilink")』のサブキャラクターだった嘉神川ノエルの成長した姿をあしらった商品が販売され、新作の登場をほのめかしている\[5\]。
+
+[2017年](../Page/2017年.md "wikilink")に『[メモリーズオフ -Innocent Fille-](https://ja.wikipedia.org/wiki/メモリーズオフ_-Innocent_Fille- "wikilink")』の製作が発表された。\[6\]。
+
+2018年12月、ファンディスクが、翌2019年3月28日に発売されることが発売された。\[7\]
+
+## シリーズ作品
+
+### 本編
+
+  - [Memories Off](../Page/Memories_Off.md "wikilink")
+  - [Memories Off 2nd](https://ja.wikipedia.org/wiki/Memories_Off_2nd "wikilink")
+  - [想い出にかわる君 〜Memories Off〜](https://ja.wikipedia.org/wiki/想い出にかわる君_〜Memories_Off〜 "wikilink")
+  - [Memories Off 〜それから〜](../Page/Memories_Off_〜それから〜.md "wikilink")
+  - [Memories Off \#5 とぎれたフィルム](../Page/Memories_Off_5_とぎれたフィルム.md "wikilink")
+  - [メモリーズオフ6 〜T-wave〜](https://ja.wikipedia.org/wiki/メモリーズオフ6_〜T-wave〜 "wikilink")
+  - [メモリーズオフ ゆびきりの記憶](https://ja.wikipedia.org/wiki/メモリーズオフ_ゆびきりの記憶 "wikilink")
+  - [メモリーズオフ -Innocent Fille-](https://ja.wikipedia.org/wiki/メモリーズオフ_-Innocent_Fille- "wikilink")
+
+### 外伝
+
+  - [Memories Off After Rain](https://ja.wikipedia.org/wiki/Memories_Off_After_Rain "wikilink")
+  - [Memories Off 〜それから again〜](../Page/Memories_Off_〜それから_again〜.md "wikilink")
+  - [Memories Off \#5 encore](https://ja.wikipedia.org/wiki/Memories_Off_5_encore "wikilink")
+  - [メモリーズオフ6 Next Relation](https://ja.wikipedia.org/wiki/メモリーズオフ6_Next_Relation "wikilink")
+  - [メモリーズオフ -Innocent Fille- for Dearest](https://ja.wikipedia.org/wiki/メモリーズオフ_-Innocent_Fille-_for_Dearest "wikilink")
+
+### その他
+
+  - [Memories Off Duet](https://ja.wikipedia.org/wiki/Memories_Off_Duet "wikilink")
+  - [メモオフみっくす](https://ja.wikipedia.org/wiki/メモオフみっくす "wikilink")
+  - [Memories Off History](https://ja.wikipedia.org/wiki/Memories_Off_History "wikilink")
+  - [ユア・メモリーズオフ〜Girl's Style〜](../Page/ユア・メモリーズオフ〜Girl's_Style〜.md "wikilink")
+  - [Memories Off carta fiorato](https://ja.wikipedia.org/wiki/Memories_Off_carta_fiorato "wikilink")
+
+## 登場キャラクター
+
+## 作品内における時間の経過
+
+<small>※1st=『Memories Off』、2nd=『Memories Off 2nd』、Duet=『Memories Off Duet』、想君=『想い出にかわる君 〜Memories Off〜』、それから=『Memories Off 〜それから〜』、\#5=『Memories Off \#5 とぎれたフィルム』、6=『メモリーズオフ6 〜T-wave〜』、6NR=『メモリーズオフ6 Next Relation』、ゆびきり=『メモリーズオフ ゆびきりの記憶』</small>
+
+『Memories Off』シリーズの作品はすべて世界観を共有しており、本編で新作が発表されるたびに劇中でも時間が経過していく。ただし、作品内の年代は必ずしも現実とは一致しない。
+
+シリーズ初期の作品は、その前作のメインヒロインのエンディングを前提とした内容になっていたが、旧作との関連性を抑えた『\#5』のころから結末を特定するような描写は控えられるようになった。『\#5』や『6』でディレクターを務めた相澤こたろーは「あなたの選んだヒロインが主人公と未来を歩みます。"正史" などないのです！」と発言している。
+
+以下、設定年代順に各作品の概略を述べるとともに、同時期に起きた出来事については関連人物の登場作品の略記を添えて配置する。『1st』から『6』までの設定年代は『メモリーズオフ クロニクル』の「作品内歴史年表」に拠る。『ゆびきり』の設定は錯綜しており、登場人物の年齢によれば『6』から2年経過しているが、資料では2010年とされている。そのため本項では断定を避け、参考扱いとして付記するに留める。
+
+### 1997 - 2000年
+
+  - Memories Off Pure（1997年4月）
+    『1st』の前日談。
+    智也・彩花・唯笑、藍ヶ丘第二中学2年生。みなも、別の中学の1年生。
+    幼なじみの3人が、それまでの枠から脱して恋愛関係へと踏み出す過程を描く物語。以下の作品では彩花がヒロインとなった前提で語られる。
+    【1st】12月に彩花が交通事故死する。その場に信も居合わせたが、事故への恐怖のあまり何もできなかった。
+    【6】鈴、澄空学園高校2年生。11月に教師に告白するが、振られる。
+  - （1999年9月）
+    【想君・それから】正午・カナタ・果凛・葉夜、浜咲学園高校1年生。祖母の死後、カナタは突然退学して姿を消す。
+  - Memories Off 2nd 〜雪蛍〜（2000年1月）
+    『2nd』の前日談。『Duet』に収録されたのが初出である。
+    健・ほたる、浜咲学園高校1年生。サッカーの試合中、対戦相手に飛び蹴りを食らわせた健に、観戦していたほたるは一目ぼれする。
+    【\#5】美海14歳。5月9日に事故に遭い、以後は毎年この時期になると一年分の記憶が消失する後遺症を患う。
+  - [Memories Off](../Page/Memories_Off.md "wikilink")（2000年10月）
+    シリーズ第1作。
+    智也・唯笑・信、澄空学園高校2年生。詩音は9月、かおるは10月にそれぞれ転入してくる。みなも、澄空学園高校1年生。小夜美、母の代理で澄空学園購買部に勤務。
+    今は亡き彩花との思い出を引きずったままの智也が、やがて新しい恋と出逢うまでを描く物語。以下の作品では唯笑がヒロインとなった前提で語られる。
+    【2nd】11月に澄空学園の文化祭が開かれる。健、信によって悪名高い「カキコオロギ\[8\]」を食べさせられる。希・望、みなもの描いた風景画を鑑賞する。12月には、健とほたるが交際を始める。
+    【6】鈴、喫茶店でアルバイト中。
+    【ゆびきり】織姫、澄空学園高校3年生。
+
+### 2001年
+
+  - Memories Off Brigde（2001年2月）
+    『1st』と『2nd』の橋渡しとなる物語。小説とドラマCDで展開した。
+    信の憧れの女性だった片倉ふみきが澄空学園の臨時講師となる。信はふみきに告白するも振られ、高校を中退してフリーターとなる。このとき、犬を拾ってトモヤと名づける。
+    【\#5】4月17日、映画監督の三木耕作が死亡する。彼は春人の恩師であり、瑞穂の夫でもあった。
+    【6】3月、澄空を離れていたりりすが街に戻り、祖母の家で暮らし始める。
+  - [Memories Off After Rain](https://ja.wikipedia.org/wiki/Memories_Off_After_Rain "wikilink") Vol.1 折鶴（2001年5月）
+    『1st』と『2nd』の登場人物による外伝。
+    智也・唯笑・巴、澄空学園高校3年生。澄空と浜咲は同じ日程で[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")への修学旅行を実施する。
+    唯笑と交際中にもかかわらず、いまだに彩花の件を振り切れていない智也は、弟を交通事故で亡くすという彼と似た過去を持つ巴と知り合い、心を揺らす。
+  - [Memories Off 2nd](https://ja.wikipedia.org/wiki/Memories_Off_2nd "wikilink")（2001年8月）
+    シリーズ第2作。
+    健・ほたる・鷹乃・翔太、浜咲学園高校3年生。巴、澄空学園高校3年生。希・望、澄空学園高校2年生。つばめ、浜咲学園の臨時講師となる。静流、千羽谷大学3年生。信は健と同じアパートの住人で、レストラン「ルサック」にてアルバイト中。
+    サッカー部を引退した後、将来の進路も決められずにいる健は、ピアニストとしての才能を開花させていく恋人ほたるとの間に距離を感じていた。ひとつの恋の終わりと新たな始まりを描く物語。『After Rain』を除く以下の作品では、ほたるがヒロインとなった前提で語られる。
+    【2nd】9月27日、[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")へピアノ留学に行ったほたるが突然日本に戻り、浜咲学園校庭で衆人環視の下、健とキスを交わす。2人は伝説のカップルとして澄空学園にまで知れ渡り、末永く語り継がれる。
+  - Memories Off After Rain Vol.2 想演（2001年11月）
+    『1st』と『2nd』の登場人物による外伝。本編とは設定が異なり『2nd』の巴ノーマルエンドを継承しているため、ほたるは留学せず日本に居残っている。
+    健・ほたる・鷹乃、浜咲学園高校3年生。浜咲と澄空では文化祭が開かれる。
+    ほたると交際中にもかかわらず、巴とも親しくなってしまった健は、さらに鷹乃のことも気になっていた。そのような折、文化祭の出し物をめぐって、クラスの意見は喫茶店と演劇で真っ二つに割れる。結果を決める最後の一票は健の手の中にあった。
+
+### 2002 - 2003年
+
+  - （2002年1月）
+    【想君】信、旅行先の[インド](../Page/インド.md "wikilink")で行き倒れ、キュービックカフェのテンチョーに助けられる。
+  - [ユア・メモリーズオフ〜Girl's Style〜](../Page/ユア・メモリーズオフ〜Girl's_Style〜.md "wikilink")（2002年2月）
+    女性向けのスピンオフ作品。『想君』の前日談に該当し、同じ喫茶店「キュービックカフェ」を舞台としている。
+    海・理人、浜咲学園高校3年生。俊一、千羽谷大学1年生。清孝、千羽谷大学3年生。秀巳は映画館でアルバイト中。拓、浜咲学園高校2年生。謎の青年くーたは放浪中。
+    キュービックカフェでアルバイト中の海は、俊一・清孝・秀巳が結成したバンド「ユア」のボーカルに誘われる。そこへさらに「ユア」に参加希望する拓が押しかけ、4月の「春フェス」に向けた音楽作りの模索が始まる。
+  - Memories Off After Rain Vol.3 卒業（2002年3月）
+    『1st』と『2nd』の登場人物による外伝。本編とは設定が異なり『2nd』の巴ノーマルエンドを継承しているため、ほたるは留学せず日本に居残っている。
+    智也・唯笑、澄空学園高校3年生。健・ほたる、浜咲学園高校3年生。彩花は天使のように愛する人々を見守る。
+    友人たちが次々と卒業後の進路を決めていく中、智也は大学受験に失敗し続け、悩みを抱えた健は合格を喜べずにいた。2作品の登場人物たちの未来が描かれる。
+    【6】4月、鈴は「鈴代黎音」のペンネームで作家デビューを果たす。
+  - [想い出にかわる君 〜Memories Off〜](https://ja.wikipedia.org/wiki/想い出にかわる君_〜Memories_Off〜 "wikilink")（2002年7月）
+    シリーズ第3作。
+    正午・沙子・那由多、千羽谷大学1年生。カナタはモデルとして活動中。音緒、千羽谷第一高校2年生。深歩、千羽谷第一高校1年生。響はフリーター。環は修学旅行から脱走中。信・トビー（扉）・マグローはカフェの常連。
+    キュービックカフェに入り浸る正午の前に、高校を中退して行方をくらましていた元恋人のカナタが現れる。正午はカナタの真意がつかめないままに、新しい出逢いを求めていく。過去と現在の想いが交錯する様子を描く物語。
+    【1st】唯笑、看護専門学校1年生。信の友人としてカフェに来店する。智也と交際中だが、彩花の死後にその居場所を奪うような形になったことがつらく、テンチョーに相談する。智也は大学受験浪人。小夜美、千羽谷大学4年生。
+    【2nd】静流、千羽谷大学4年生。
+    【想君】9月7日、カナタがバイクで交通事故を起こす。彼女は助かるが、同乗していたテンチョーは死亡し、キュービックカフェは閉店する。
+  - （2003年4月）
+    【想君・それから】1月から[ネパール](../Page/ネパール.md "wikilink")を旅していた信が日本に帰る。
+    【\#5】春人・雄介・香月・修司、千羽谷大学1年生。活動休止中の映画サークル「CUM研」を復活させるが、5月9日に雄介がマンションから転落死する。
+
+### 2004年
+
+  - [Memories Off 〜それから〜](../Page/Memories_Off_〜それから〜.md "wikilink")（2004年2月）
+    シリーズ第4作。
+    一蹴・いのり・雅・歩、浜咲学園高校3年生。縁・さよりん、浜咲学園高校2年生。果凛、モデルとして活動中。葉夜、カフェ「ならずや」でアルバイト中。信は一蹴と同じアパートの住人。
+    高校卒業を目前にして、一蹴は恋人のいのりから一方的に別れを告げられる。仲間たちの励ましを受けて新たな恋に踏み出すのか、いのりへの想いを貫くのか。愛するがゆえの嘘と隠された真実をめぐる物語。
+    【2nd】静流、ならずやの店長代理を務める。ほたる、コンサートのためウィーンから日本に一時帰国。
+    【想君】カナタ、モデルとして活動中。浜咲での同級生だった果凛・葉夜とは今も親しい。扉は一蹴と児童養護施設「真昼の子ども園」での同窓だが、仲は良くない。
+  - [Memories Off \#5 とぎれたフィルム](../Page/Memories_Off_5_とぎれたフィルム.md "wikilink")（2004年4月）
+    シリーズ第5作。
+    春人・香月・修司、千羽谷大学2年生。あすか・美海、綾園学院高校3年生。麻尋、レストラン「ルサック」でアルバイト中。瑞穂、ファーストフード「バーガーワック」社員。歩、千羽谷大学1年生。信は春人と同じアパートの住人。
+    千羽谷大学の映画サークル「CUM研」は、1年前にリーダーの雄介が謎の転落事故死を遂げてから活動らしい活動をできずにいた。そこへ雄介の遺稿を手にした麻尋が現れ、「これを映画にしてほしい」と依頼してくる。しかしその麻尋こそ雄介を死に追いやった張本人と言われていた。一度は諦めた夢に向かって再起する物語。
+    【それから】Karin（果凛）、人気モデルとして活動中。麻尋は彼女のファンで、自室にポスターを貼っている。
+  - [Memories Off 〜それから again〜](../Page/Memories_Off_〜それから_again〜.md "wikilink")（2004年）
+    『それから』の後日談。3人のヒロインと結ばれた後の物語を収録する。各編の内容は独立している。
+    いのり編 - 夏、破局の後に再びいのりと恋人同士となった一蹴は、幼いころを過ごした「真昼の子ども園」の閉鎖を知らされる。
+    雅編 - 3月、高校の卒業式を飛び出した勢いのままに駆け落ちした一蹴と雅が、やがて地に足のついた生活を始めるまでを描く。
+    果凛編 - 7月13日は果凛の誕生日。お嬢様にして人気モデルという彼女にふさわしいお祝いを求めて、一蹴が奮闘する。
+    【6】11月。志雄、澄空学園高校1年生。生徒会庶務に就任する。クロエ、澄空学園高校2年生。生徒会長に就任する。
+  - [Memories Off \#5 encore](https://ja.wikipedia.org/wiki/Memories_Off_5_encore "wikilink")（2004年12月）
+    『\#5』の後日談。麻尋エンドを継承している。
+    春人、千羽谷大学2年生。秋名、千羽谷第一高校2年生。あすか、綾園学院高校3年生。麻尋、レストラン「ルサック」でアルバイト中。
+    麻尋と友達以上恋人未満のあいまいな関係を続けている春人の部屋に、母親とケンカして家を飛び出したあすかが転がり込んでくる。一方CUM研には、香月にスカウトされた秋名が助っ人として加わっていた。成長したCUM研メンバーの新たな挑戦を描く物語。
+
+### 2005 - 2006年
+
+  - [メモリーズオフ6 〜T-wave〜](https://ja.wikipedia.org/wiki/メモリーズオフ6_〜T-wave〜 "wikilink")（2005年10月）
+    シリーズ第6作。
+    志雄・りりす・智紗・亨、澄空学園高校2年生。クロエ、澄空学園高校3年生。結乃、9月に澄空学園高校1年へ転入。黎音（鈴）、バイクで走行中に行き倒れて志雄に助けられる。信はりりすの祖母の小料理屋「ふみ」の常連客。
+    澄空の文化祭である「第23回 奏雲祭」の開催を間近に控えた秋。志雄は幼なじみのりりすの紹介で知り合った智紗から告白されるが、とっさに明確な返事ができず、奏雲祭までに答えを出すという約束をして結論を引き延ばす。自分にとって本当に好きな人の存在に気づいていく物語。
+    【想君】KANATA（カナタ）、ラジオ番組「KANATAのラジオ T-wave」のDJとして活動中。志雄と結乃はこの番組のファン。
+  - [メモリーズオフ6 Next Relation](https://ja.wikipedia.org/wiki/メモリーズオフ6_Next_Relation "wikilink")（2006年7月）
+    『6』の後日談。冒頭の選択によって志雄の交際相手が決まり、5つの独立したシナリオに分岐する。
+    志雄・りりす・智紗・亨、澄空学園高校3年生。クロエ、青峯学院大学1年生。結乃、澄空学園高校2年生。鈴、志雄が管理するマンションに入居中。信は龍境温泉郷の「宝樹庵」でアルバイト中。ノエルは11歳。
+    卒業したクロエの跡を継いで生徒会長に就任した志雄も、夏休みくらいは仕事から解放されたいと思っていた。しかし、りりすに新作小説の執筆を急かされた鈴が彼の部屋に逃げ込んでくる。志雄はなんとか恋人との時間を作ろうとする。
+
+### ゆびきりの記憶
+
+  - [メモリーズオフ ゆびきりの記憶](https://ja.wikipedia.org/wiki/メモリーズオフ_ゆびきりの記憶 "wikilink")（2007年5月）
+    シリーズ第7作。
+    直樹・ちなつ、市立藤林高校2年生。霞は家出中。織姫、市立藤林高校教員2年目。リサ、浜咲学園高校2年に短期留学中。詩名、市立藤林高校1年生。信、和風レストラン「風流庵」店長代理。亨、大学受験に失敗し風流庵でアルバイト。京子、風流庵キッチンリーダー。
+    元許婚だったちなつの家に同居していた直樹は、進級を機にひとり暮らしを始める。しかし家出少女の霞によって彼女を襲っている写真を捏造され、脅される形で同居を認めざるを得なくなる。
+    【それから】Karin（果凛）、人気モデルとして活動中。
+    【6NR】ノエルは中学生。
+
+### 2010年
+
+  - [メモリーズオフ -Innocent Fille-](https://ja.wikipedia.org/wiki/メモリーズオフ_-Innocent_Fille- "wikilink")（10月）
+    シリーズ第8作。
+    ノエル林鐘寺女子高校１年生15歳。信、「シーサイドカフェ・YuKuRu」マスター26歳。
+
+## スタッフ
+
+  - プロデューサー：[市川和弘](https://ja.wikipedia.org/wiki/市川和弘 "wikilink")、[亀谷恒治](https://ja.wikipedia.org/wiki/亀谷恒治 "wikilink")、[柴田太郎](https://ja.wikipedia.org/wiki/柴田太郎_\(ゲームクリエイター\) "wikilink")
+  - シリーズ監修：柴田太郎
+  - キャラクターデザイン：[ささきむつみ](https://ja.wikipedia.org/wiki/ささきむつみ "wikilink")、[松尾ゆきひろ](https://ja.wikipedia.org/wiki/松尾ゆきひろ "wikilink")、[輿水隆之](https://ja.wikipedia.org/wiki/輿水隆之 "wikilink")、[森井しづき](https://ja.wikipedia.org/wiki/森井しづき "wikilink")
+  - 音楽：[阿保剛](../Page/阿保剛.md "wikilink")、[林克洋](../Page/林克洋.md "wikilink")
+  - 音響制作：[サイトロン・デジタルコンテンツ](https://ja.wikipedia.org/wiki/サイトロン・デジタルコンテンツ "wikilink")（ - それから）、[5pb.](../Page/5pb..md "wikilink")（\#5 - ）
+
+## 関連作品
+
+各ゲームをまたがる作品のみ記載、単独のゲームに閉じた物は各作品に各項目を参照。
+
+### CD
+
+  - メモオフ・ファーストコンサート ALBUM〜表も裏も完全ノーカット版！〜（[2002年](../Page/2002年.md "wikilink")2月20日）
+  - メモオフピアノコレクション 第1集（2002年11月20日）
+  - メモオフピアノコレクション 第2集（[2003年](../Page/2003年.md "wikilink")10月22日）
+  - Memories Off Special BGM Collection BOX（[2004年](../Page/2004年.md "wikilink")11月19日）
+  - Memories Off オルゴールコレクション（2004年12月22日）
+  - Memories Off Collectors Box（「想君」と「それから」のコンプレットボックス。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月24日）
+  - Memories Off 10th anniversary PERFECT VOCAL COLLECTION（完全限定受注生産。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")7月23日）
+
+### ドラマCD
+
+  - Memories Off Bridge（2001年10月）
+  - Memories Off Conzert OP.1（2002年10月25日）
+  - Memories Off Conzert OP.2（2002年11月22日）
+  - Memories Off 想い出のパルティータ（2004年2月18日）
+
+### バラエティCD
+
+  - みんなでつくるメモオフCD\!\!（2002年5月9日）
+  - みんなで作るメモオフCD\!\! Part2（2004年9月23日）
+  - みんなでつくるメモオフCD\!\! Season3（2006年4月7日）
+
+### 小説
+
+  - メモリーズオフ Bridge ISBN 978-4-8402-2004-0
+
+### ラジオ
+
+  - [メモオフ放送部（2001）](https://ja.wikipedia.org/wiki/メモオフ放送部_\(2001年\) "wikilink")（[2001年](../Page/2001年.md "wikilink")）
+  - [みずたまメモリーズ](https://ja.wikipedia.org/wiki/みずたまメモリーズ "wikilink")（[アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")、2001年）
+  - [みずたま拡大計画](https://ja.wikipedia.org/wiki/みずたま拡大計画 "wikilink")（2001年）
+  - [みずたまフレンズ](https://ja.wikipedia.org/wiki/みずたまフレンズ "wikilink")（2002年）
+  - [みずたま乗っ取り計画](https://ja.wikipedia.org/wiki/みずたま乗っ取り計画 "wikilink")（2002年）
+  - [井戸端ネットラジオ 小さな幸せ](https://ja.wikipedia.org/wiki/井戸端ネットラジオ_小さな幸せ "wikilink")（2002 - 2006年）
+  - [メモオフ放送部（2004）](https://ja.wikipedia.org/wiki/メモオフ放送部_\(2004年\) "wikilink")（2004年）
+  - [ラジオしちゃうぞ\!メモオフ\#5](https://ja.wikipedia.org/wiki/ラジオしちゃうぞ!メモオフ5 "wikilink")（[ラジオ関西](../Page/ラジオ関西.md "wikilink")、2005 - 2006年）
+  - [井ノ上奈々のメモオフラジオ](https://ja.wikipedia.org/wiki/井ノ上奈々のメモオフラジオ "wikilink")（[HiBiKi Radio Station](https://ja.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")、[2009年](../Page/2009年.md "wikilink") - [2011年](../Page/2011年.md "wikilink")）
+  - [ちなつとまひろのメモオフラジオ\!〜ふたりで風流庵〜](https://ja.wikipedia.org/wiki/ちなつとまひろのメモオフラジオ!〜ふたりで風流庵〜 "wikilink")（[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")、[2013年](../Page/2013年.md "wikilink") - ）
+  - もっと！もっと！メモリーズオフ！（2017 -）
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  - 『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")
+
+      -
+      -
+      -
+      -
+      -
+      -
+      -
+  - 『[GAME SIDE](../Page/GAME_SIDE.md "wikilink")』[マイクロマガジン社](https://ja.wikipedia.org/wiki/マイクロマガジン社 "wikilink")
+
+      -
+      -
+  -
+  -
+  -
+  -
+  -
+  -
+## 関連項目
+
+  - [メガミエンゲイジ\!](https://ja.wikipedia.org/wiki/メガミエンゲイジ! "wikilink") - ONE-UPが運営するオンラインゲーム。さまざまな作品のキャラクターたちを駆使して自分の領土を拡大しながら、対戦で他プレイヤーの領土を獲得していく戦略シミュレーションカードバトル。
+
+## 外部リンク
+
+  -
+  - [Memories Offシリーズ（MAGES.）](http://memoriesoff.jp/)
+
+[Category:Memories_Off](https://ja.wikipedia.org/wiki/Category:Memories_Off "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink") [Category:メディアミックス作品](https://ja.wikipedia.org/wiki/Category:メディアミックス作品 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.  [かき氷](../Page/かき氷.md "wikilink")に[コオロギ](https://ja.wikipedia.org/wiki/コオロギ "wikilink")の粉末をまぶしたもの。『6』の時代に至るまで、伝説的ないたずらとして澄空学園で語り継がれている。

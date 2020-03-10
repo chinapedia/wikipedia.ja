@@ -1,0 +1,47 @@
+> この記事は[NESTAGE](https://ja.wikipedia.org/wiki/NESTAGE)から翻訳されています。
+
+
+**株式会社ネステージ**（）は、[ゲームソフト](../Page/ゲームソフト.md "wikilink")販売店の[フランチャイズチェーン](https://ja.wikipedia.org/wiki/チェーンストア "wikilink")「[TVパニック](https://ja.wikipedia.org/wiki/TVパニック "wikilink")」「[wanpaku](https://ja.wikipedia.org/wiki/wanpaku "wikilink")」を経営する[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")の企業。かつては「[COMG\!](https://ja.wikipedia.org/wiki/COMG! "wikilink")」「ギャングスター」などのチェーンも展開していた。[日本テレビゲーム商業組合](../Page/日本テレビゲーム商業組合.md "wikilink")、[日本コンパクトディスク・ビデオレンタル商業組合](https://ja.wikipedia.org/wiki/日本コンパクトディスク・ビデオレンタル商業組合 "wikilink")（CDVJ）及び[日本フランチャイズチェーン協会](https://ja.wikipedia.org/wiki/日本フランチャイズチェーン協会 "wikilink")（JFA）会員。2011年4月14日にゲオの子会社となり、2014年6月1日に[吸収合併された](../Page/合併_\(企業\).md "wikilink")。
+
+## 概要
+
+  - [1981年](../Page/1981年.md "wikilink")創業の明響社（TVパニック）と[1988年](../Page/1988年.md "wikilink")創業のアクト（wanpaku）が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、いずれも[クインランド](../Page/クインランド.md "wikilink")（[神戸市](../Page/神戸市.md "wikilink")[東灘区](../Page/東灘区.md "wikilink")）の傘下に入ったことから[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")、明響社を存続会社として合併。
+  - クインランドの経営破綻後は同グループから離脱し、2007年からは[ジェイオーグループホールディングス](https://ja.wikipedia.org/wiki/ジェイオーグループホールディングス "wikilink")株式会社（[大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")第2部上場、[証券コード](https://ja.wikipedia.org/wiki/証券コード "wikilink")1710、2009年7月1日をもって上場廃止）の連結子会社となった。その後、[DES方式による新株発行と株式交換の上](https://ja.wikipedia.org/wiki/デットエクイティスワップ "wikilink")、2008年7月1日付けでジェイオーグループホールディングス（JOGHD）への完全子会社化が予定されていた。それに伴い、2008年2月8日に監理ポストへ移行し、2008年6月25日に上場廃止となる予定だったが、ジェイオー建設（JOGHDの子会社。2008年6月[民事再生法](../Page/民事再生法.md "wikilink")申請）の経営破綻によってJOGHDの財務状況が悪化したことから上記株式交換契約が解除され、その時点での上場廃止は回避された。
+  - さらにジェイオー建設の経営破綻に際して当社から不透明な形での資金流出が行われていたことが発覚、その影響が本業に波及する形で業績が極度に悪化。決算書において「[継続企業の前提](../Page/継続企業の前提.md "wikilink")に関する注記」がされた状態が上場廃止まで続いた。そのため、新品ゲームソフトの仕入れをゲーム選隊を展開する株式会社センタイに委託している。
+  - 2009年2月に債務超過に陥ったことからジャスダックの上場廃止基準に該当したため、同年6月2日から上場廃止への猶予期間に入ることとなった。
+  - 2010年2月10日にクロスビズ株式会社に対して行われた第三者割当に不動産3件の現物出資による支払い12億が含まれており、この中に北海道層雲峡にあった「[かんぽの宿](https://ja.wikipedia.org/wiki/かんぽの宿 "wikilink")」の物件が含まれていた、この物件は日本郵政が1億7000万で[大江戸温泉物語](../Page/大江戸温泉物語.md "wikilink")に売却したが、同社は収支が合わないため開発を断念、固定資産税の支払いを逃れるため、意図的に資産価値を下げる目的で、層雲峡の施設の外壁を破壊するなどの偽装工作を行っていた。その後クロスビズに売却、不動産鑑定価格を5億1900万としてNESTAGEが取得していた\[1\]。
+  - 2010年7月、上場時価総額が上場廃止基準に該当したため、8月2日付けで上場廃止が決定した。
+  - 2010年8月12日、[大阪地方裁判所](https://ja.wikipedia.org/wiki/大阪地方裁判所 "wikilink")に民事再生法申請。負債総額は約15億円。なお同日、レンタル大手の[ゲオ](https://ja.wikipedia.org/wiki/ゲオ "wikilink")がスポンサー候補として名乗りを上げ、資本参加等の支援を行うことで基本合意している。
+  - 2011年3月26日、再生計画認可決定が確定。既存株式を100％減資\[2\]。
+  - 2011年4月14日、[第三者割当増資](https://ja.wikipedia.org/wiki/第三者割当増資 "wikilink")を実施。ゲオが全株を引受け同社の100%子会社となる\[3\]。
+  - 2011年7月13日、かんぽの宿を巡る水増し増資事件に絡み、同社前会長・[光成英一朗](https://ja.wikipedia.org/wiki/光成英一朗 "wikilink")や、コンサルタント会社・[クロスビズ](https://ja.wikipedia.org/wiki/クロスビズ "wikilink")社長の中上広志（元[壱岐国際航空](../Page/壱岐国際航空.md "wikilink")社長）らが[金融商品取引法](../Page/金融商品取引法.md "wikilink")違反容疑で逮捕された\[4\]。
+  - 2013年5月10日、上記の事件で起訴された会社の元幹部3人が執行猶予付きの有罪判決、会社に対しては罰金300万円を大阪地裁より言い渡される\[5\]。
+  - 2014年6月1日、ゲオに吸収合併\[6\]。
+
+## 脚注
+
+## 関連項目
+
+  - [新谷雄二](https://ja.wikipedia.org/wiki/新谷雄二 "wikilink") （日本テレビゲーム商業組合理事長、旧アクト創業者）
+
+## 外部リンク
+
+  - [NESTAGE](http://www.nestage.co.jp/)
+
+<!-- end list -->
+
+  - [第三者割当による新株式発行（デット・エクイティ・スワップ）に関するお知らせ](http://www.nestage.co.jp/news/pdf/200208_1.pdf)
+  - [ジェイオーグループホールディングス株式会社による株式交換を通じた株式会社NESTAGE の完全子会社化に関するお知らせ](http://www.nestage.co.jp/news/pdf/200208_2.pdf)
+  - [株式交換契約解除に関するお知らせ](http://www.nestage.co.jp/news/pdf/200604.pdf)
+  - [ジェイオーグループホールディングス株式会社との株式交換契約解除に伴う経過および今後の当社の方向性について](http://www.nestage.co.jp/news/pdf/200829_2.pdf)
+  - [当社株式の監理銘柄（確認中）の指定解除及び「債務超過」の猶予期間入りに関するお知らせ](http://www.nestage.co.jp/pdf/20090602_2_138k.pdf)
+  - [民事再生手続開始申立てに関するお知らせ](http://www.nestage.co.jp/pdf/220812.pdf)
+
+[Category:ゲームソフト販売店](https://ja.wikipedia.org/wiki/Category:ゲームソフト販売店 "wikilink") [Category:かつて存在した愛知県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した愛知県の企業 "wikilink") [Category:ゲオグループ](https://ja.wikipedia.org/wiki/Category:ゲオグループ "wikilink") [Category:1954年設立の企業](https://ja.wikipedia.org/wiki/Category:1954年設立の企業 "wikilink") [Category:2014年廃止の企業](https://ja.wikipedia.org/wiki/Category:2014年廃止の企業 "wikilink")
+
+1.
+2.  （2011年4月13日、株式会社NESTAGE）
+3.  （2011年4月14日、株式会社ゲオ・ニュースリリース）
+4.
+5.  朝日新聞 2013年5月11日大阪版朝刊
+6.

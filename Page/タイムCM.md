@@ -1,0 +1,34 @@
+> この記事は[CM](https://ja.wikipedia.org/wiki/CM)から翻訳されています。
+
+
+**タイムCM**とは、[放送広告](https://ja.wikipedia.org/wiki/放送広告 "wikilink")の一種で、放送[番組](../Page/番組.md "wikilink")中に挟んで放送される[コマーシャルメッセージ](../Page/コマーシャルメッセージ.md "wikilink")\[1\]。番組枠と一体のものとして扱われるコマーシャル枠、およびその枠内で流されるコマーシャル。番組提供[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")のコマーシャル。**番組CM**ともいう\[2\]。
+
+## タイムCMの特徴
+
+タイムCMは、[スポットCM](../Page/スポットCM.md "wikilink")の対語である。スポットCMが番組とは無関係に流されるのに対して、タイムCMはどの番組内で流されるかがあらかじめ決まっている。
+
+タイムCMには、「番組がわかっているため、[視聴者](https://ja.wikipedia.org/wiki/視聴者 "wikilink")層もだいたいわかっており、その層を狙っての広告を打つことができる」「提供スポンサーとして番組の内容に対して発言権を持つ場合もある」「前後に提供スポンサーの紹介枠（[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")枠）があり、15秒単位で流されるCM以外にも企業名などの露出効果がある」などのメリットがある。ただし、番組内容によっては広告料が割高になる場合もある。
+
+企業がどのような番組を提供しているかは、企業の評判にも影響を及ぼす。[視聴率](../Page/視聴率.md "wikilink")がよければ広告効果があるとは限らず、[低俗番組](https://ja.wikipedia.org/wiki/低俗番組 "wikilink")と名指しをされることで企業イメージのダウンにつながったという事例もある。
+
+以前はもっぱら「企業名」が[露出されていたが](https://ja.wikipedia.org/wiki/露出_\(宣伝\) "wikilink")、[2000年](../Page/2000年.md "wikilink")頃から「商品名」が露出されることも多くなってきている。また、長時間番組の場合には、30分ないし60分の[枠で提供スポンサーが切り替わっていくことも珍しくなくなってきており](../Page/テレビ放送枠.md "wikilink")（しかもその[ジャンクション部分に提供スポンサーではない会社のスポットCMが割り込むことも多く](https://ja.wikipedia.org/wiki/クロスプログラム "wikilink")）、企業と番組との関係はわかりにくくなりつつある。
+
+## 脚注
+
+<references />
+
+## 関連項目
+
+  - [スポットCM](../Page/スポットCM.md "wikilink")
+  - [パーティシペーション](https://ja.wikipedia.org/wiki/パーティシペーション "wikilink")
+  - [提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")
+  - [カウキャッチャー (放送)](../Page/カウキャッチャー_\(放送\).md "wikilink")
+  - [ヒッチハイク (放送)](https://ja.wikipedia.org/wiki/ヒッチハイク_\(放送\) "wikilink")
+  - [スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")
+  - [広告](../Page/広告.md "wikilink")
+  - [放送](../Page/放送.md "wikilink")
+
+[Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink")
+
+1.
+2.  井徳正吾、松井陽通『マーケティングコミュニケーション』すばる舎、2013年、107頁

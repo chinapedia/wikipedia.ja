@@ -1,0 +1,37 @@
+> この記事は[HOME \(\)](https://ja.wikipedia.org/wiki/HOME_\(\))から翻訳されています。
+
+
+「**HOME**」（ホーム）は、[アンジェラ・アキ](https://ja.wikipedia.org/wiki/アンジェラ・アキ "wikilink")のメジャーデビューシングル。発売元は[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。
+
+## 解説
+
+[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月14日](../Page/9月14日.md "wikilink")に発売されたメジャーデビューシングル。楽曲のキャッチコピーは『あなたの「ふるさと」はどこですか?』。
+
+ノンタイアップであるため、最初のリリース時には数えるほどの音楽ファンと地元[徳島](https://ja.wikipedia.org/wiki/徳島 "wikilink")県でわずかに取り上げられたに過ぎないが、後に話題となる歌の宅配便キャンペーンや、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』内コーナー「広人苑」での中野アナを涙させるパフォーマンス、さらには[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月11日](../Page/11月11日.md "wikilink")に[NHKで放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』のブレイクレーダーのコーナーでのピアノ弾き語りでコーナー歴代3位の92.3%の得票率などから歌そのものの評判も高まり、次回作『[心の戦士](../Page/心の戦士.md "wikilink")』のスマッシュヒットへの足掛かりとなった。また、ポップジャムで当時行われていた80%越え時に行われる福引では特賞の紅白出場権ではなく、末賞のティッシュペーパーを手に入れている（後に紅白出場権は自力で獲得している）。なお、『ポップジャム』は自身初の音楽番組出演であるが、この時から既に曲に入る前（これはカットされている）や歌い終わりの阿波弁MCは健在で現在ではほぼ見られない2番からの歌唱という珍しいバージョンが使われた。
+
+中国四国地方ではローカル番組のCMとして一時期用いられることもあった。
+
+そしてこの曲で、『[第57回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦 "wikilink")』に初出場。[DJ OZMAの](../Page/DJ_OZMA.md "wikilink")、女性バックダンサーの裸体をイメージしたボディースーツ着用パフォーマンスが問題視された最中での歌唱であったが、ピアノ弾き語りでしっとりと歌い上げた。後に[さだまさし](../Page/さだまさし.md "wikilink")がこのアンジェラのパフォーマンスを、自身の番組『[2007年新春生放送 年の初めはさだまさし](../Page/今夜も生でさだまさし.md "wikilink")』で賞賛している。さだまさしはアンジェラ・アキの直後の出場だった。
+
+比較的デビュー時からライブのラストとして演奏されることの多かった楽曲であるが、武道館ライブの前後から「HOME」ラストのスタイルを封印しつつあり、あくまでも「アンジェラライブの一曲」として扱われることも増えている。
+
+このCDは初回DVD付盤が存在しないが、プロモーション用CDには「HOME」の[プロモーションビデオが収録されているDVDが付属しており](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、しばしばネットオークションで高額で取引されることがある。
+
+## 収録曲
+
+1.  **HOME**
+      -
+        （作詞・作曲：アンジェラ・アキ　編曲：[松岡モトキ](../Page/松岡モトキ.md "wikilink")／アンジェラ・アキ）
+2.  **奇跡**
+      -
+        （作詞・作曲：アンジェラ・アキ　編曲：松岡モトキ／アンジェラ・アキ）
+3.  **Will You Dance**
+      -
+        （作詞・作曲：[ジャニス・イアン](https://ja.wikipedia.org/wiki/ジャニス・イアン "wikilink")　日本語訳詞：アンジェラ・アキ　編曲：松岡モトキ／アンジェラ・アキ）
+        [ライナーノーツ](../Page/ライナーノーツ.md "wikilink")を寄せている[ジャニス・イアン](https://ja.wikipedia.org/wiki/ジャニス・イアン "wikilink")のカヴァー。アンジェラによる日本語訳詞が付けられている。なお、この楽曲のアレンジや日本語詞について、直々にジャニスに相談したアンジェラは、「好きなようにやって良い」とお墨付きをもらったと言う。また、ジャニスの来日公演にアンジェラがゲスト出演し、2人でこの曲をセッションした。
+
+## 外部リンク
+
+  - [ORICON MUSICによるインタビュー](http://www.oricon.co.jp/music/interview/060531_03_02.html)
+
+[Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:アンジェラ・アキの楽曲](https://ja.wikipedia.org/wiki/Category:アンジェラ・アキの楽曲 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink")

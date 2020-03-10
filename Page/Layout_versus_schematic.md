@@ -1,0 +1,35 @@
+> この記事は[Layout versus schematic](https://ja.wikipedia.org/wiki/Layout_versus_schematic)から翻訳されています。
+
+
+**** (LVS) は、[集積回路](../Page/集積回路.md "wikilink")の設計に使用される[CAD](../Page/CAD.md "wikilink")ツール ([プログラム](../Page/プログラム.md "wikilink"))のひとつ。集積回路を製造するために作成した[フォトマスク](https://ja.wikipedia.org/wiki/フォトマスク "wikilink")パターンが、設計した[回路図](https://ja.wikipedia.org/wiki/回路図 "wikilink")と一致しているかを検証するために使用する。 マスクパターンから[MOSFET](../Page/MOSFET.md "wikilink")などの機能素子を抽出することにより回路図を推定し、本来の回路図データと比較する。設計の元となった回路網データと、設計後から抽出した回路網データと比較することにより、意図した設計がされたかの判断を行う。
+
+## 機能
+
+[マスクデータは](https://ja.wikipedia.org/wiki/フォトマスク "wikilink")、層 (レイヤー) に関する情報を持った多角形の集合で構成されることが多い。層は実際の物理層 (金属配線、不純物拡散層、ポリシリコン配線層など) に対応する部分と、それらを図形演算した結果としてのダミーレイヤーに分かれる。ダミーレイヤーは半導体プロセスの各工程での何かしらの作業やDRCやLVSで素子を判別するために使われる。
+
+LVSでは、これらの図形データの重なり等から素子の抽出を行い、マスクデータが表している回路図を作り出す (回路図抽出)。たとえば不純物拡散層をそれより細いポリシリコン層が横断している場合、その重なり部分をゲートとなる[MOSFET](../Page/MOSFET.md "wikilink")と判断する。
+
+その後、余剰な素子を除去し、本来の回路図との比較を行なう。その際に、素子のサイズから抵抗値や容量値、ゲート幅、ゲート長等のパラメータを抽出し、本来の回路図からのずれを確認する。あらかじめ設定された誤差より小さい場合は問題なしとし、それ以外をエラーと判定する。
+
+LVSは、[DRCのエンジンを回路図検証に特化して拡張している場合が多い](../Page/デザインルールチェック.md "wikilink")。基本的な[図形](https://ja.wikipedia.org/wiki/図形 "wikilink")同士の[論理演算](../Page/論理演算.md "wikilink")機能を有しており、素子の抽出が可能となっている。これは、どの[CAD](../Page/CAD.md "wikilink")メーカのLVSでもほぼ同じである。 LVSを行わせるための定義、すなわちルールファイルと呼ばれるものは、その様な論理演算と素子の抽出と接続関係を表した簡単なプログラムのようなものとなっている。
+
+## ルールの内容と決定
+
+通常、ルールファイルはプロセス工程を管理している部門や会社から提供される。ルールファイルは、提供されている標準的な素子の抽出を行なうが、ルールによっては[ERC](https://ja.wikipedia.org/wiki/ERC "wikilink")に相当する、[電源](https://ja.wikipedia.org/wiki/電源 "wikilink")端子や[GND](https://ja.wikipedia.org/wiki/GND "wikilink")端子の接続関係を確認するものや、簡単なDRCの判定をおこなうものまで存在する。
+
+ルールは提供されるものの、回路図は使用者が準備をしないといけない。回路図入力時点のミスを避けるため、最近の[EDA](https://ja.wikipedia.org/wiki/EDA "wikilink")ツールでは、回路シミュレータとレイアウトツールがリンクしており、設計した回路図をそのまま検証に利用することが可能である。
+
+## 著名なツール名
+
+  - Calibre ([メンター・グラフィックス](https://ja.wikipedia.org/wiki/メンター・グラフィックス "wikilink")社)
+  - Hercules LVS ([シノプシス](../Page/シノプシス.md "wikilink")社)
+  - Diva、 Dracula、 Assura ([ケイデンス・デザイン・システムズ](https://ja.wikipedia.org/wiki/ケイデンス・デザイン・システムズ "wikilink")社)
+  - Quartz LVS (社)
+
+## 関連項目
+
+  - [DRC](../Page/デザインルールチェック.md "wikilink") () - デザインルール検証するためのツール、もしくはその工程
+  - [EDA](https://ja.wikipedia.org/wiki/EDA "wikilink") () - エレクトロニクス製品の設計支援システム。
+  - [CAD](../Page/CAD.md "wikilink") () - **コンピュータ支援設計**。設計支援システム。
+
+[Category:EDAソフト](https://ja.wikipedia.org/wiki/Category:EDAソフト "wikilink")

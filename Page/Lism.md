@@ -1,0 +1,72 @@
+> この記事は[Lism](https://ja.wikipedia.org/wiki/Lism)から翻訳されています。
+
+
+**Lism**（エルイズム）はかつて発行されていた[プロ野球](../Page/プロ野球.md "wikilink")・[パシフィック・リーグ](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")の[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")の情報誌。球団運営会社の株式会社西武ライオンズが発行していた。[2015年](../Page/2015年.md "wikilink")より、それまで埼玉西武ライオンズの[フリーペーパー](https://ja.wikipedia.org/wiki/フリーペーパー "wikilink")だった[LIONS MAGAZINEと統合されて月刊誌となり](https://ja.wikipedia.org/wiki/LIONS_MAGAZINE "wikilink")\[1\]消滅した。
+
+2012年までは、[ホームゲーム時に発行される](../Page/ホーム・アンド・アウェー.md "wikilink")[マッチデープログラム](../Page/マッチデープログラム.md "wikilink")であった。（実際には1カード（基本的に2-3連戦）単位で発行されるため、プログラムには「**MATCH CARD PROGRAM**」表記されていた）。
+
+## 概要
+
+### 2012年まで
+
+  - 2006年発行開始、ライオンズのホームゲームで発行されるものであるが、2006年は本拠地であるインボイスSEIBUドーム\[2\]（現-[西武ドーム](../Page/西武ドーム.md "wikilink")）で試合を行わないカードでは発行されなかった。\[3\]
+  - 2007年から2012年まではレギュラーシーズン及び[クライマックスシリーズ](https://ja.wikipedia.org/wiki/クライマックスシリーズ "wikilink")では本拠地、地方球場問わず全ての[ホームゲームにおいて発行されていた](../Page/ホーム・アンド・アウェー.md "wikilink")。
+  - [ライオンズ・クラシック](https://ja.wikipedia.org/wiki/ライオンズ・クラシック "wikilink")などでフォトアルバム（別冊、号数はカウントされない。）として発行される場合があった。
+  - カードが連戦ではなく1試合のみの場合は直近のカードとの合併号となる場合があった。
+  - [日本シリーズおよびオープン戦では発行されなかった](../Page/日本選手権シリーズ.md "wikilink")。\[4\]
+  - 「ファン感謝の集い」開催時（例年11月23日開催）にも年度最終号として発行されていた。
+
+### 2013年・2014年
+
+  - 2013年からは季刊誌にリニューアルされ、マッチデープログラムではなくなった。\[5\]発行頻度は開幕戦3月29日に発行された第1号に「次号は5月下旬発行予定」と記載があり、5月19日に第2号が発行された\[6\]。第3号は6月21日に発行された。以後は7月26日に第4号、8月23日に第5号、9月14日に第6号、10月12日に第7号、11月23日に第8号が発行された。
+  - 4月27日に臨時増刊号としてフォトアルバムが発行されたが、通常号自体がフォトアルバム色が強くなっている。以上からシーズン中は毎月1度、何らかの形で発行されており、事実上、月刊での発行になっている。
+  - 2014年は10月に発行がなかった以外2013年と同じ発行体制であった。
+
+## 仕様
+
+### 2012年まで
+
+  - 定価100円。なお、2009年シーズン序盤の5カード(Vol.1〜Vol.5)は無料配布されていた。ただし、無料配布終了後にバックナンバーを購入する場合には無料配布されていたものについても100円で販売された。また、以下の場合は300円となる。
+      - 年度最終号
+      - 2008年・2010年・2011年・2012年のVol.1
+      - 2008年・2010年・2012年のクライマックスシリーズ特別号
+      - フォトアルバム各種
+  - B5版
+  - オールカラー16ページ（但し、定価300円の場合は32ページ）
+
+### 2013年・2014年
+
+  - 定価300円
+  - B5版フルカラー32ページ。
+
+## 主な内容
+
+### 2012年まで
+
+  - 選手インタビュー
+  - The game review (Lism Eye)
+  - Pacific League Data
+  - New Face Pick UP\!
+  - 選手トーク
+  - コーチ陣に聞くライオンズの現状
+  - ライオンズ周辺の人びと
+  - 若獅子ボイス
+  - 獅子奮迅
+  - 読者投稿欄
+
+### 2013年・2014年
+
+## 関連項目
+
+[LIONS MAGAZINE](https://ja.wikipedia.org/wiki/LIONS_MAGAZINE "wikilink") [Lions Style](https://ja.wikipedia.org/wiki/Lions_Style "wikilink")（[西武鉄道](../Page/西武鉄道.md "wikilink")の駅等で無料配布されている埼玉西武ライオンズの[フリーペーパー](https://ja.wikipedia.org/wiki/フリーペーパー "wikilink")。）
+
+## 脚注
+
+[Category:埼玉西武ライオンズの歴史](https://ja.wikipedia.org/wiki/Category:埼玉西武ライオンズの歴史 "wikilink") [Category:日本のスポーツ雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本のスポーツ雑誌_\(休廃刊\) "wikilink") [Category:2006年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2006年創刊の雑誌 "wikilink") [Category:2014年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2014年休廃刊の雑誌 "wikilink")
+
+1.  [月刊誌「LIONS MAGAZINE」が新創刊\!\!](http://www.seibulions.jp/news/detail/9908.html)
+2.  2005年-2007年までは施設命名権が導入されていた。
+3.  6月24日、25日の[長野オリンピックスタジアム](../Page/長野オリンピックスタジアム.md "wikilink")での[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")戦。一方、6月30日の[群馬県立敷島公園野球場](https://ja.wikipedia.org/wiki/群馬県立敷島公園野球場 "wikilink")での[オリックス・バファローズ](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")戦では発行されたがこの時は、7月1日、2日にインボイスSEIBUドームで同カードが組まれる3連戦シリーズであった。
+4.  日本シリーズでの発行がなかったのは、主催が[日本野球機構](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")であること並びに、[ベースボールマガジン社](https://ja.wikipedia.org/wiki/ベースボールマガジン社 "wikilink")発行の日本シリーズ公式プログラムが存在するからであると思われる。
+5.  [埼玉西武ライオンズ公式プログラム「Lism」2013開幕号発売！](http://www.seibulions.jp/news/detail/7478.html)
+6.  [Lism第2号「日本生命セ・パ交流戦 特別号」5/19発売！](http://www.seibulions.jp/news/detail/7714.html)

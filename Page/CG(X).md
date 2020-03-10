@@ -1,0 +1,65 @@
+> この記事は[CG\(X\)](https://ja.wikipedia.org/wiki/CG\(X\))から翻訳されています。
+
+
+**CG（X）**は[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が開発していた新型[ミサイル巡洋艦](https://ja.wikipedia.org/wiki/ミサイル巡洋艦 "wikilink")。[タイコンデロガ級ミサイル巡洋艦](../Page/タイコンデロガ級ミサイル巡洋艦.md "wikilink")の更新用として、2011年ごろより発注する計画であった\[1\]が、2010年度の[QDRにおいて計画はキャンセルされた](https://ja.wikipedia.org/wiki/四年ごとの国防計画見直し "wikilink")\[2\]。本計画の代替として、[アーレイ・バーク級ミサイル駆逐艦](../Page/アーレイ・バーク級ミサイル駆逐艦.md "wikilink")の改良型が建造される予定である。
+
+## 開発の経緯
+
+当初は計画名「CG-21」の下で[弾道ミサイル](../Page/弾道ミサイル.md "wikilink")迎撃能力などを重視した艦として開発が開始されていたが、[2001年](../Page/2001年.md "wikilink")11月にそれまで別計画で進行していた沿岸域での戦闘に対応した対地攻撃[駆逐艦](../Page/駆逐艦.md "wikilink")の開発計画である「DD-21」と[沿海域戦闘艦](https://ja.wikipedia.org/wiki/沿海域戦闘艦 "wikilink")の開発計画である「LCS」と「CG-21」が相互に技術と設計を共用することが決定され、これに伴ってCG-21の計画名も「CG（X）」に変更された。CG（X）は[ズムウォルト級ミサイル駆逐艦](https://ja.wikipedia.org/wiki/ズムウォルト級ミサイル駆逐艦 "wikilink")をベースとする艦となる予定であった。
+
+## 計画されていたアメリカ海軍の次世代型戦闘艦群
+
+アメリカ海軍では[タイコンデロガ級ミサイル巡洋艦](../Page/タイコンデロガ級ミサイル巡洋艦.md "wikilink")の次世代艦としてCG(X)を、[アーレイ・バーク級ミサイル駆逐艦](../Page/アーレイ・バーク級ミサイル駆逐艦.md "wikilink")の次世代艦としてDD(X)を、新たに生まれた沿岸域での戦闘能力強化の必要性に対処するためとして[沿海域戦闘艦](https://ja.wikipedia.org/wiki/沿海域戦闘艦 "wikilink")（LCS）をという風に、3種類の新たな戦闘艦群の開発計画を進めていた。
+
+このうちDD(X)計画はズムウォルト級ミサイル駆逐艦として具体化することになるが、高額な建造費のため議会等から批判を招き、2隻しか建造されないことになってしまった。このためCG(X)の開発がうまく進んで[アメリカ議会が同意すれば](https://ja.wikipedia.org/wiki/アメリカ合衆国議会 "wikilink")、CG(X)がズムウォルト級ミサイル駆逐艦の建造数を越えると考えられていた。しかしCG(X)も高額な建造費の問題から2010年度に開発中止となり、当面の間はアーレイバーク級ミサイル駆逐艦を追加建造することで老朽化したタイコンデロガ級ミサイル巡洋艦を代替することになった。
+
+また2012年3月現在では、ズムウォルト級ミサイル駆逐艦は3隻のみが建造される予定であり、将来においてアーレイ・バーク級ミサイル駆逐艦を代替する計画がどのようになるかは流動的である。LCS計画のみが[フリーダム級沿海域戦闘艦](https://ja.wikipedia.org/wiki/フリーダム級沿海域戦闘艦 "wikilink")と[インディペンデンス級沿海域戦闘艦](https://ja.wikipedia.org/wiki/インディペンデンス級沿海域戦闘艦 "wikilink")という形で実を結びつつある。
+
+## 要求、または予定された機能
+
+  - [艦隊](../Page/艦隊.md "wikilink")での防空能力
+      - [航空機](../Page/航空機.md "wikilink")とミサイルの脅威に対して長距離[艦対空ミサイル](../Page/艦対空ミサイル.md "wikilink")によって艦隊を守る。
+  - 向上型ミサイル
+      - 従来より大型・高速・長射程のミサイルによって、数百[マイル](../Page/マイル.md "wikilink")離れた陸上からの経空脅威に対処する。
+      - 沿岸域での各種作戦も実行できる。
+  - 先進[レーダー](../Page/レーダー.md "wikilink")システム
+      - より見つけにくい長距離で[低レーダー反射性の脅威を迎え撃つ](https://ja.wikipedia.org/wiki/レーダー反射断面積 "wikilink")。
+      - 航空優勢を支えるだけでなく、[大気圏](../Page/大気圏.md "wikilink")外からの弾道ミサイルを探知・追跡・誘導を行なう。
+  - [ステルス性](../Page/ステルス性.md "wikilink")を備えた船体
+      - 他の船からのレーダー探知を困難にする。
+  - 完全電気化 - DD（X）と同じく船内では[推進力](https://ja.wikipedia.org/wiki/推進力 "wikilink")も電気の力で得る統合電力システム（Integrated Power System, IPS）を搭載する。
+      - 建造コストと維持コストの削減
+      - 将来の艦載兵器への対応余力
+      - 生残性の向上
+      - 船内設計の自由度向上
+      - より大きな力を得る
+  - 技術の共用化
+      - DD（X）と共に艦内自動化技術を新たに開発し、現在の人手の掛かる作業の省人化によって駆逐艦並みの人員で[巡洋艦](../Page/巡洋艦.md "wikilink")を扱えるようにして、保守に割く労力を戦闘能力の向上に振り向ける\[3\]。
+
+### 原子力プラント
+
+[原子力プラントを主機関として採用するかどうかについては議論の的となっていた](https://ja.wikipedia.org/wiki/原子力船 "wikilink")。アメリカ海軍では2011年から11隻の巡洋艦の建造を始めたとすると1隻当り600万から800万[USドル程度の費用増加で済むとしていた](../Page/アメリカ合衆国ドル.md "wikilink")。原子力動力では燃料の頻繁な再補給が不要となるメリットに加えて、[原油価格](../Page/原油価格.md "wikilink")の上昇によって燃料経費が大幅に削減できる点についても考慮されていた\[4\]。
+
+Defense　Newsの情報によると、次期[巡洋艦](../Page/巡洋艦.md "wikilink")は[ズムウォルト級ミサイル駆逐艦](https://ja.wikipedia.org/wiki/ズムウォルト級ミサイル駆逐艦 "wikilink")をベースとする通常動力・電気推進の1万4,000トン級CG(X）で建造数は14隻、そして二つ目が新型の2万5,000トン級原子力巡洋艦CGN(X)で5隻の建造が計画されていた。
+
+2万5,000トン級原子力巡洋艦CGN(X)の主任務は洋上での[ミサイル防衛](../Page/ミサイル防衛.md "wikilink")であり、現在3隻が配備されている完全ABMD（イージス弾道ミサイル防衛）能力巡洋艦（[イージス巡洋艦の](../Page/タイコンデロガ級ミサイル巡洋艦.md "wikilink")「[レイク・エリー](https://ja.wikipedia.org/wiki/レイク・エリー_\(ミサイル巡洋艦\) "wikilink")」(CG-70）、「[ポート・ロイヤル](https://ja.wikipedia.org/wiki/ポート・ロイヤル_\(ミサイル巡洋艦\) "wikilink")」(CG-73)、「[シャイロー](https://ja.wikipedia.org/wiki/シャイロー_\(ミサイル巡洋艦\) "wikilink")」(CG-67)）の後継艦となる計画であった。ミサイル防衛能力は1万4,000トン級CG(X）より高度なシステムが採用されるという計画であった。
+
+## [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")とCG（X）
+
+CG（X）の鍵となるシステム、サブシステム及び関連技術の日米共同開発が行われていた。
+
+## 出典
+
+<references/>
+
+## 関連項目
+
+  - [ズムウォルト級ミサイル駆逐艦](https://ja.wikipedia.org/wiki/ズムウォルト級ミサイル駆逐艦 "wikilink")
+  - [沿海域戦闘艦](https://ja.wikipedia.org/wiki/沿海域戦闘艦 "wikilink")
+
+[Category:アメリカ合衆国の巡洋艦](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の巡洋艦 "wikilink") [Category:中止になった計画艦](https://ja.wikipedia.org/wiki/Category:中止になった計画艦 "wikilink")
+
+1.  [:en:CG%28X%29](https://ja.wikipedia.org/wiki/:en:CG%28X%29 "wikilink")- Navy Times: 25,000 Ton Cruiser Under Consideration
+2.  [1](http://www.defense.gov/qdr/images/QDR_as_of_12Feb10_1000.pdf)
+3.  [2](http://www.navy.com/about/shipsequipment/navyofthefuture/cgx/) - 米海軍のCG（X）に関するWebページ
+4.  [3](http://www.globalsecurity.org/military/systems/ship/cgn-x.htm) - globalsecurity.org

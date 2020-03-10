@@ -1,0 +1,165 @@
+> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+
+
+『**超ドラゴンボールZ**』（スーパードラゴンボールゼット、**超DRAGON BALL Z**）は、[鳥山明](../Page/鳥山明.md "wikilink")原作のアニメ『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』を原作とした[3D](../Page/3次元コンピュータグラフィックス.md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")である。
+
+[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")より[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として2005年9月ごろよりロケテストやイベントでの発表があり、2006年1月ごろより正式稼動開始。2006年6月29日には[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")・バンダイレーベルより追加要素・改良を加えた移植版が[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+
+## 概要
+
+対戦を重ねて[経験値](../Page/経験値.md "wikilink")を蓄積し、一定値以上になると新たなスキルを覚え、技の追加や攻撃力アップといったカスタマイズができるのが特徴。また、対戦で勝つごとに[ドラゴンボールを入手でき](../Page/ドラゴンボール_\(架空の道具\).md "wikilink")、これを7つ集めることでもカスタマイズできる。アーケード版ではデータを保存するキャラクターカードを購入して記録するが『[バーチャファイター4](../Page/バーチャファイター4.md "wikilink")』『[鉄拳5](https://ja.wikipedia.org/wiki/鉄拳5 "wikilink")』が勝敗数・称号・コスチュームを記録するだけだったのに対し、本作ではキャラクターの性能そのものが変化するのが特徴。なお、PS2版では1枚のメモリーカードに30キャラクター分のデータを記録できる。
+
+[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")で『[ストリートファイターシリーズ](https://ja.wikipedia.org/wiki/ストリートファイター_\(ゲーム\) "wikilink")』を開発していた[船水紀孝](https://ja.wikipedia.org/wiki/船水紀孝 "wikilink")・[西谷亮](https://ja.wikipedia.org/wiki/西谷亮 "wikilink")をスタッフに迎えたため『[ストリートファイターII](../Page/ストリートファイターII.md "wikilink")』の操作感で『[鉄拳シリーズ](../Page/鉄拳シリーズ.md "wikilink")』に近い3Dフィールドでの格闘アクションができるという触れ込みだが、実際の操作感覚はその二つのどちらとも大きく異なる。操作方法は『ストリートファイターII』などに準ずるが、ガードやジャンプをボタンで行うなど本作独自の基本操作もある。登場するキャラクター数はアーケード版が12人、PS2版が18人。
+
+## ゲーム内容
+
+（家庭用）
+
+  - オリジナル
+    アーケードと同じようにCPUと順番に戦っていく。
+
+<!-- end list -->
+
+  - バーサス
+    好きなキャラクターを選んで対戦。
+    1PVSCOM
+    1PVS2P
+    COMVSCOM
+
+<!-- end list -->
+
+  - Zサバイバー
+    10連続で敵と闘う。体力ゲージは1本のみで、1本勝負。勝利後にはルーレットで体力回復やドラゴンボール入手などが行える。
+
+<!-- end list -->
+
+  - トレーニング
+    好きなキャラクターを相手に練習。
+
+<!-- end list -->
+
+  - カスタマイズ
+    キャラクターカードの作成が可能。能力アップアイテム、武器や新技（スキル）などセットできる（アーケードでは利用不可）。
+
+<!-- end list -->
+
+  - 神龍召喚
+    ドラゴンボールを7つ集めると、スキルの継承、新カラー、新コスチュームの入手、新キャラクター、新ステージの解放などさまざまな願いをかなえてくれる。
+
+<!-- end list -->
+
+  - オプション
+    難易度、コントローラのボタン配置などの設定ができる。
+
+## 登場キャラクター
+
+括弧内の数字はスキルを覚えられる順番を表す。同じ番号のスキルを同時に覚えることはできない。1-1、1-2とある場合は、1-1を覚えた場合のみ1-2を覚えることができる。1-1、1'-1とある場合は、同時に覚えられない。
+
+### アーケード登場キャラクター
+
+（カッコ内に全パターン）
+
+  - [孫悟空](https://ja.wikipedia.org/wiki/孫悟空_\(ドラゴンボール\) "wikilink")
+
+スタンダードで使いやすいキャラクター。通常は山吹色の道着だが、特殊コスチュームでヤードラット星の服もある。
+
+  - [ベジータ](https://ja.wikipedia.org/wiki/ベジータ "wikilink")
+
+気弾の連射が得意なキャラクター。通常は人造人間編で着ていた戦闘服だが、特殊コスチュームでサイヤ人編の戦闘服もある。
+
+  - [クリリン](https://ja.wikipedia.org/wiki/クリリン "wikilink")
+
+気を操る技に長けた技巧派のキャラクター。通常は亀仙流の道着だが、特殊コスチュームで[ナメック星](https://ja.wikipedia.org/wiki/ナメック星 "wikilink")に行く時の私服もある。
+
+  - [ピッコロ](https://ja.wikipedia.org/wiki/ピッコロ_\(ドラゴンボール\)#ピッコロ（マジュニア） "wikilink")
+
+腕が伸びるため通常攻撃のリーチが長い。
+
+  - [孫悟飯](https://ja.wikipedia.org/wiki/孫悟飯 "wikilink")
+
+超必殺技で超サイヤ人（スパークは無いが超サイヤ人2のグラフィック）に変身することもできる。
+
+  - [フリーザ](https://ja.wikipedia.org/wiki/フリーザ "wikilink")
+
+フリーザの最終形態。
+
+  - [トランクス](https://ja.wikipedia.org/wiki/トランクス_\(ドラゴンボール\)#トランクス（未来） "wikilink")
+
+接近戦を得意とするが、リーチが短い。
+
+  - [人造人間18号](../Page/人造人間18号.md "wikilink")
+
+<!-- end list -->
+
+  - [人造人間17号](https://ja.wikipedia.org/wiki/人造人間17号 "wikilink")※
+
+<!-- end list -->
+
+  - [人造人間16号](https://ja.wikipedia.org/wiki/人造人間_\(ドラゴンボール\)#16号 "wikilink")
+
+<!-- end list -->
+
+  - [セル](../Page/セル_\(ドラゴンボール\).md "wikilink")
+
+セルの完全体。
+
+  - [チチ](../Page/チチ_\(ドラゴンボール\).md "wikilink")※
+
+牛魔王の娘。芭蕉扇や[如意棒を使う](https://ja.wikipedia.org/wiki/如意金箍棒 "wikilink")。舞空術の代わりに[筋斗雲](https://ja.wikipedia.org/wiki/筋斗雲 "wikilink")に乗る。外見は[天下一武道会](../Page/天下一武道会.md "wikilink")出場時の姿で、服装も通常はその武道家時代に着ていた[チャイナ](../Page/チャイナ.md "wikilink")風の道着だが、特殊コスチュームで幼少期に着ていたビキニ風の戦闘服もある。
+
+※人造人間17号とチチはアーケードではタイムリリースにより使用可能。
+
+### 家庭用での追加キャラクター
+
+上記に追加
+
+  - [魔人ブウ](https://ja.wikipedia.org/wiki/魔人ブウ#魔人ブウ（無邪気⇒善） "wikilink")※
+
+太っている方の魔人ブウ。
+
+  - メカフリーザ
+
+ナメック星で敗北した後、失った肉体をサイボーグ化したフリーザ。原作の姿をベースにしつつも背部に大型武器を背負っており、スキル選択次第では実際に武器で攻撃することが可能。
+
+  - [ピッコロ大魔王](https://ja.wikipedia.org/wiki/ピッコロ_\(ドラゴンボール\)#ピッコロ大魔王 "wikilink")
+
+ピッコロの父親で、息子と同じ技も使いつつ威力が異なる攻撃やピッコロが使用しない技も持つ。
+
+  - 孫悟飯（青年期）
+
+界王神界で入手したゼットソードとピッコロから譲り受けた短剣を装備した悟飯。ゼットソードを実際に武器として使用しているのが特徴。また、老界王神の潜在能力解放を受けた後なので超サイヤ人には変身しない。
+
+  - 魔人ベジータ
+
+[バビディ](../Page/バビディ.md "wikilink")の術にかかり潜在能力を引き出されたベジータ。
+
+  - [ビーデル](../Page/ビーデル.md "wikilink")
+
+悟飯との修行の後、天下一武道会に参加した時のビーデル。通常はショートカットだが、特殊コスチュームでロングヘアーのビーデルも使用可能。
+
+※魔人ブウはデフォルトで使用可能、他の5人は条件を満たした後に神龍召喚で使用可能。
+
+### その他の登場人物（PlayStation 2のみ）
+
+  - [ヤムチャ](../Page/ヤムチャ.md "wikilink")（声：[古谷徹](../Page/古谷徹.md "wikilink")）
+  - [ウーロン](https://ja.wikipedia.org/wiki/ウーロン "wikilink")（声：[龍田直樹](../Page/龍田直樹.md "wikilink")）
+  - [神龍](https://ja.wikipedia.org/wiki/神龍_\(ドラゴンボール\) "wikilink")（声：[内海賢二](../Page/内海賢二.md "wikilink")）
+
+## 主題歌
+
+「[CHA-LA HEAD-CHA-LA](https://ja.wikipedia.org/wiki/CHA-LA_HEAD-CHA-LA "wikilink")（2005 ver.）」（作詞:[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")、作曲:[清岡千穂](../Page/清岡千穂.md "wikilink")、編曲:[山本健司](https://ja.wikipedia.org/wiki/山本健司 "wikilink")、歌：[影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")）
+
+## 予約特典
+
+  -
+    アーケード用キャラクターカード
+
+## 脚注
+
+## 外部リンク
+
+  - [超ドラゴンボールZ](http://www.bandaigames.channel.or.jp/list/ps2_sdbz/)
+
+[it:Lista di videogiochi di Dragon Ball\#PlayStation 2](https://ja.wikipedia.org/wiki/it:Lista_di_videogiochi_di_Dragon_Ball#PlayStation_2 "wikilink")
+
+[Category:ドラゴンボールのゲーム](https://ja.wikipedia.org/wiki/Category:ドラゴンボールのゲーム "wikilink") [Category:3D対戦型格闘ゲーム](https://ja.wikipedia.org/wiki/Category:3D対戦型格闘ゲーム "wikilink") [Category:2005年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:2005年のアーケードゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink")

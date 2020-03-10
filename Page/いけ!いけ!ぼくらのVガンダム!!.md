@@ -1,0 +1,55 @@
+> この記事は[!!V!!](https://ja.wikipedia.org/wiki/!!V!!)から翻訳されています。
+
+
+『**いけ\! いけ\! ぼくらのVガンダム\!\!**』は、[ことぶきつかさ](https://ja.wikipedia.org/wiki/ことぶきつかさ "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[1993年](../Page/1993年.md "wikilink")から[1994年](../Page/1994年.md "wikilink")に『[MEDIA COMIX DYNE](https://ja.wikipedia.org/wiki/MEDIA_COMIX_DYNE "wikilink")』（[バンダイ](../Page/バンダイ.md "wikilink")）および『[MS SAGA](https://ja.wikipedia.org/wiki/MS_SAGA "wikilink")』（[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")）に掲載された。
+
+本項の名称は、厳密には単行本の書籍名、および単行本に収載されたアニメ『[機動戦士Vガンダム](https://ja.wikipedia.org/wiki/機動戦士Vガンダム "wikilink")』を題材にした漫画作品シリーズの呼称である。
+
+## 概要
+
+本作は、[サンライズ公認の](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")『機動戦士Vガンダム』の[コミカライズ作品にあたるが](https://ja.wikipedia.org/wiki/漫画化 "wikilink")、内容は全4話からなる[パロディ](https://ja.wikipedia.org/wiki/パロディ "wikilink")ギャグ漫画となっている。これは作者が仕事の依頼を受けた時点で原作アニメが5 - 6話しか放映されておらず、ストーリー作りに苦心した末に第1話をギャグ路線にし、最後までその路線を貫き完結させたという経緯による。
+
+単行本には、同作者の『[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")』を題材にした外伝作品が収載されており、実質的な短編集となっている。また、[2012年](../Page/2012年.md "wikilink")には、他の短編漫画を追加収載し、[角川書店](../Page/角川書店.md "wikilink")から『**ことぶきつかさ短編集 いけ\! いけ\! ぼくらのVガンダム\! \!**』と改題されて出版されている。
+
+なお、本作のファンである[庵野秀明](../Page/庵野秀明.md "wikilink")は、自作のアニメ『[トップをねらえ\!](../Page/トップをねらえ!.md "wikilink")』のCD『[トップをねらえ\! 響綜覧](https://ja.wikipedia.org/wiki/トップをねらえ!#関連作品 "wikilink")』に収録されている台詞集の中で、『V』の登場人物であるマーベット・フィンガーハット役を演じた[白石文子](../Page/白石文子.md "wikilink")に、本作品でのマーベットの台詞をオマージュとして挿入させている。
+
+## 他の収載作品
+
+単行本では以下の漫画作品が収載されている。
+
+  - 12月31日の決意
+    [一年戦争](../Page/一年戦争.md "wikilink")末期、[アナベル・ガトー](../Page/アナベル・ガトー.md "wikilink")の部隊に配属された新兵ビスレィ二等兵の戦場での葛藤を描いた作品。
+    なお、本作に登場するジオンの少女整備員ティナは、後に同作者の漫画『[機動戦士Ζガンダム デイアフタートゥモロー ―カイ・シデンのレポートより―](../Page/機動戦士Ζガンダム_デイアフタートゥモロー_―カイ・シデンのレポートより―.md "wikilink")』にて、[ディジェの建造に関わる](https://ja.wikipedia.org/wiki/リック・ディアス#ディジェ "wikilink")[アナハイム・エレクトロニクス社](../Page/アナハイム・エレクトロニクス社.md "wikilink")の技術者として再登場している。
+  - ソロモンの悪夢
+    「ソロモンの悪夢」と恐れられたアナベル・ガトーの一年戦争時代の戦いを描いた作品。
+    なお、本作に登場する試作大型ビームライフルやガトーの[ゲルググ](../Page/ゲルググ.md "wikilink")がYMS-14であるという設定は、[2003年](../Page/2003年.md "wikilink")に発売された[ガンプラ](../Page/ガンプラ.md "wikilink")「MG MS-14A ガトー専用ゲルググ」の設定として採用されている。
+  - ニュータイプ・ヒストリー
+    [ブライト・ノア](../Page/ブライト・ノア.md "wikilink")の手記という形式で、歴代ガンダム作品に登場する女性キャラクターについて描いた作品。
+  - いけ\! いけ\! ぼくらのシャイニングアッガイ\!\!
+    描き下ろし。アニメ『[機動武闘伝Gガンダム](../Page/機動武闘伝Gガンダム.md "wikilink")』のパロディ作品であり、[アッガイ](../Page/アッガイ.md "wikilink")で「[ガンダムファイト](https://ja.wikipedia.org/wiki/ガンダムファイト "wikilink")」ならぬ「アッガイファイト」を行う作品。
+
+カドカワコミックス・エース版では上記の作品に加え、以下の作品が収載されている。
+
+  - 『カイレポ』連載予告漫画（？）
+    カイ・シデンのドリーム
+    いけ\! いけ\! 僕らのシェンロンアッガイ
+    いけ\! いけ\! 僕らのウイングアッガイ
+    上記2作は『MS SAGA』vol.10及び『電撃ガンダムW』掲載。アニメ『[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")』のパロディ作品。
+
+## 単行本
+
+  - 電撃コミックス版
+
+<!-- end list -->
+
+1.  1994年10月15日刊行 ISBN 978-4073018131
+
+<!-- end list -->
+
+  - カドカワコミックス・エース版
+
+<!-- end list -->
+
+1.  2012年11月26日刊行 ISBN 978-4041205174
+
+[Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:宇宙世紀](https://ja.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:漫画作品_い](https://ja.wikipedia.org/wiki/Category:漫画作品_い "wikilink") [Category:月刊コミック電撃大王の漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミック電撃大王の漫画作品 "wikilink")

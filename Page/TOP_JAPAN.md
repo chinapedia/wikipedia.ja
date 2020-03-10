@@ -1,0 +1,54 @@
+> この記事は[TOP JAPAN](https://ja.wikipedia.org/wiki/TOP_JAPAN)から翻訳されています。
+
+
+**TOP JAPAN**とは、東京都墨田区にある有限会社ヨシトモの[エアソフトガン](https://ja.wikipedia.org/wiki/エアソフトガン "wikilink")ブランドである。
+
+## 製品の特徴
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:TOP_Type_64_Airsoft_Gun_1.JPG "wikilink")「[64式7.62mm小銃](https://ja.wikipedia.org/wiki/64式7.62mm小銃 "wikilink")」\]\] TOP製の[電動ガン](https://ja.wikipedia.org/wiki/電動ガン "wikilink")は、「[バルグヘッド式](https://ja.wikipedia.org/wiki/バルグヘッド式 "wikilink")」と呼ばれるメカニズムを持つ。これは他社製品におけるピストンとシリンダーの代わりに蛇腹を用いた[ふいご](https://ja.wikipedia.org/wiki/ふいご "wikilink")が入っているもので、ピストン・シリンダー式で問題となる圧縮漏れを生じない利点を持つが、ふいごに亀裂が入ることがある。ユーザーの中には、メーカーが8.4～9.6vバッテリーを推奨するところ、敢えてパワーの落ちる7.2vバッテリーを使用したり、過度の連射を避けるなどの自衛策を採る人もいる。また、バルグヘッド式を捨て、ピストン・シリンダー式に改めるためのパーツを販売するカスタムパーツメーカーや、機関部を[東京マルイ](https://ja.wikipedia.org/wiki/東京マルイ "wikilink")製メカボックスに換装してしまうカスタムショップもある。
+
+同社製品は、[64式7.62mm小銃](https://ja.wikipedia.org/wiki/64式7.62mm小銃 "wikilink")や[MP40](https://ja.wikipedia.org/wiki/MP40 "wikilink")、[分隊支援火器](https://ja.wikipedia.org/wiki/分隊支援火器 "wikilink")といった、いずれも他社のモデルアップしないものが主力製品である。特に自衛隊装備で[サバイバルゲーム](../Page/サバイバルゲーム.md "wikilink")をする者にとって、東京マルイが[89式5.56mm小銃](../Page/89式5.56mm小銃.md "wikilink")を発売するまでは、同社製64式とMINIMI自衛隊モデルが数少ない主装備の選択肢であった（このほか、[キャロット社が89式を販売していたが](https://ja.wikipedia.org/wiki/89式5.56mm小銃#遊戯銃 "wikilink")、「89R“BUDDY”」は（製造ロットによって異なるものの）キットが約10万円、完成品は約14万円という価格帯であった）\[1\]。
+
+## 電動ガン市場からの撤退とガスブローバック市場への参入
+
+2008年7月に、ヨシトモは電動式エアソフトガンの生産終了を表明し、今後は平成20年12月末日までサポートを受け付けると発表した。
+事実上のエアソフトガン市場からの撤退と思われたが、それと同時にM60、MINIMIの「トップブローバックガンシリーズ」を発表した。
+[エスコート](https://ja.wikipedia.org/wiki/エスコート "wikilink")社の[ASCSメカ](https://ja.wikipedia.org/wiki/ASCSメカ "wikilink")を搭載したM60を限定発売(これは自社製の外装ではなくINOKATSU製のものである)し、さらに、[東京マルイ](https://ja.wikipedia.org/wiki/東京マルイ "wikilink")製電動ガンの[89式小銃](https://ja.wikipedia.org/wiki/89式小銃 "wikilink")をASCSメカのガスブローバックに変換するメカボックス、そして自社製の外装を使用したMINIMIのブローバックガンを発表した。
+MINIMIのブローバックガンに関しては、エスコートよりも安価なブローバックエンジンを販売する[DAYTONAGUN](https://ja.wikipedia.org/wiki/DAYTONAGUN "wikilink")社と提携したが、その後に延期が相次いで最終的な発売のめどが立たず、一時期「無期限延期」の知らせがホームページに掲載された。
+が、その直後[G.COMPANY](https://ja.wikipedia.org/wiki/G.COMPANY "wikilink")製のブローバックユニットを搭載する事を決定し、STD、MkII、PARAの3モデルをそれぞれ10丁ずつの受注生産(2010年7月10日より予約開始)で限定販売する事となった。
+BOXマガジンの他、マガジンにガスを注入するタイプの30連マガジンも使用出来る仕様となっている。
+ちなみに東京マルイ製89式小銃をガスブローバック化するメカボックスに関しては、現在ではホームページでも確認することができない状態となっている。
+この製品の発売の延期に関して、TOPは「外部ソースとリキッドチャージのどちらでも遊べる仕様となる予定であったが、リキッドチャージでの射撃性能が安定しなかったために発売を延期した」と説明している。
+2011年3月に排莢式M4 CARBINEを発売し電動ガン市場へ復帰した。
+カートを排莢する構造上ジャムが発生した場合、メカボックス内の電子式センサーによってモーターが止まるようにできている。これにより、従来の電動ガンのような動作不良によるギアクラッシュを極力抑えている。
+パワーソースには11.1vのLIPOバッテリーを用いて作動させ、さらにバッテリー切れの場合は手動でチャージングハンドルを動かし作動させる事が出来る。
+また東京マルイ製の電動ガンに対応したオプションパーツ(ストック、グリップ、ハンドガードなど)を取り付ける事が出来る。 (一応、フレームも交換可能だが、加工が必要)
+2014年4月の時点で排莢式電動ガンのライナップ
+ライブカートモデル
+
+  - M4 CARBINE
+  - KNIGHT'S SR-16 URX ⅡE
+  - MK18 MOD1
+  - SR-16 KNIGHT'S CQB(限定モデル)
+  - M16
+  - M16(M203グレネードランチャー付き)
+  - M4 SOPMOD
+
+カートレスモデル
+
+  - M4 CARBINE
+
+以上の8種類がリリースされている。
+
+## 出典・脚注
+
+<references />
+
+## 外部リンク
+
+  - [有限会社ヨシトモ YOSITOMO・AIRSOFT](http://www.yoshitomo-airsoft.com//catalog/default.php?language=ja) - TOPの販売代理店、有限会社ヨシトモのホームページ。
+  - [CYBER SHOP TARGET](http://target.kiss.ac//) - TOP他、ヨシトモの扱うブランドのホームページ。
+
+[Category:遊戯銃](https://ja.wikipedia.org/wiki/Category:遊戯銃 "wikilink")
+
+1.  『月刊アームズ・マガジン』2002年11月号p42

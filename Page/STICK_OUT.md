@@ -1,0 +1,89 @@
+> この記事は[STICK OUT](https://ja.wikipedia.org/wiki/STICK_OUT)から翻訳されています。
+
+
+『**STICK OUT**』（スティック・アウト）は、[THE BLUE HEARTSの](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")6枚目の[アルバム](../Page/アルバム.md "wikilink")。
+
+## 解説
+
+ジャケットに凸の文字があり、「突出した」というアルバムタイトルの意味のとおり、テンポが早く勢いのある楽曲が集められている。甲本いわく「本作STICK OUT(凸)と、([7月10日](../Page/7月10日.md "wikilink")発売の7thアルバム)[DUG OUT](https://ja.wikipedia.org/wiki/DUG_OUT "wikilink")(凹)は2つで1つのアルバム」だという。
+
+前作『[HIGH KICKS](../Page/HIGH_KICKS.md "wikilink")』の頃、バンドに窮屈さを感じていた甲本が、ブルーハーツというバンドの在り方を見せたい、バンドを再スタートさせたいという意向のもと、今作と次作『DUG OUT』が制作された。両アルバムをプロデュースした[今井裕は](https://ja.wikipedia.org/wiki/今井裕_\(ミュージシャン\) "wikilink")、「ブルーハーツをまだ終わらせたくない」という強い思いがあったという。
+
+ブルーハーツの新譜を出そうとメンバーで話し合ったとき、2枚組にできるほどの曲数が集まった。しかし2枚組だとどうしても労力を使うので、それなら気分によって聞き分けられるように曲調を分けたアルバムを2枚作ろうという話になり、STICK OUTと[DUG OUTは作製された](https://ja.wikipedia.org/wiki/DUG_OUT "wikilink")(本作が出来た時点では「[DUG OUT](https://ja.wikipedia.org/wiki/DUG_OUT "wikilink")」というタイトルは未定であったが、「凹」というコードネームで呼ばれていた)。
+
+収録曲の大半は、本作リリース前の[1992年](../Page/1992年.md "wikilink")11月〜[1993年](../Page/1993年.md "wikilink")1月にかけて行われた「PKO TOUR (Punch Knock Out Tour) 92-93」ですでに演奏されている。誰も知らないリリース前の曲を演奏していたことに関して、「歌や演奏を間違えても、誰も気づかない」とラジオで笑いながら話している。
+
+[バンド](../Page/バンド_\(音楽\).md "wikilink")2作目の[オリコンアルバムチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得。また、本作と同発で4thアルバム『[BUST WASTE HIP](../Page/BUST_WASTE_HIP.md "wikilink")』が再発された。
+
+初回限定版は凸マークの入った白い紙ケース入り。
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に、25周年企画の一環で、デジタル・リマスタリングを施して再発することが決定。
+
+## 収録曲
+
+1.  **すてごま**
+      -
+        （作詞・作曲：[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")）
+2.  **[夢](../Page/夢_\(THE_BLUE_HEARTSの曲\).md "wikilink")**
+      -
+        （作詞・作曲：[真島昌利](https://ja.wikipedia.org/wiki/真島昌利 "wikilink")）
+        先行シングル。[サントリー](../Page/サントリー.md "wikilink")・[ビール](https://ja.wikipedia.org/wiki/サントリービール "wikilink")「ライツ」CMソングのほか、スクーターのCMソングにも使用された。
+        [2002年](../Page/2002年.md "wikilink")にはドラマ「[人にやさしく](../Page/人にやさしく_\(テレビドラマ\).md "wikilink")」の主題歌に起用された。
+3.  **[旅人](../Page/旅人_\(THE_BLUE_HEARTSの曲\).md "wikilink")**
+      -
+        （作詞・作曲：甲本ヒロト）
+        途中、[ザ・フー](../Page/ザ・フー.md "wikilink")の「My Generation」のワンフレーズを[サンプリング](../Page/サンプリング.md "wikilink")している。後に「台風」と両A面でシングルカットされた。
+        PVは過激な内容であるとされ放送禁止になった。
+4.  **期待はずれの人**
+      -
+        （作詞・作曲：甲本ヒロト）
+5.  **やるか逃げるか**
+      -
+        （作詞・作曲：真島昌利）
+6.  **テトラポットの上**
+      -
+        （作詞・作曲：甲本ヒロト）
+        ライブで一度も演奏されなかった数少ない曲の中の一曲。
+        甲本の趣味である釣りについて歌った曲である。
+        このころのブルーハーツの曲では、この曲のみ甲本の声は1980年代の荒削りな声に戻っている。
+7.  **台風**
+      -
+        （作詞・作曲：真島昌利）
+        後に「旅人」と共にシングルカットされた。
+8.  **インスピレーション**
+      -
+        （作詞・作曲：[河口純之助](../Page/河口純之助.md "wikilink")）
+        歌詞の一部は宗教色を嫌悪した甲本が「この歌詞は俺には歌えない」と拒否したために、その箇所のみ河口が歌うことになった。
+9.  **俺は俺の死を死にたい**
+      -
+        （作詞・作曲：真島昌利）
+        「1000のバイオリン」のカップリング曲。
+        真島がボーカルをつとめる。
+        『[長くつ下のピッピ](../Page/長くつ下のピッピ.md "wikilink")』や『[車輪の下](../Page/車輪の下.md "wikilink")』などの文献が歌詞の中で出てくる。
+        別テイクがEAST WEST SIDE STORYに収録されており、歌詞が微妙に違う。
+        ライブでは、ラストあたりの歌詞が大きく変わる。
+10. **44口径**
+      -
+        （作詞・作曲：甲本ヒロト）
+        ギターのサウンドはグレコの12弦ギターを使用して収録された（ライブでは使用せず、当時真島がメインで使用していた[ギブソン・レスポール](../Page/ギブソン・レスポール.md "wikilink")スタンダードで演奏されていた）。
+        また、[よしもと所属のお笑いコンビ](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")・[2丁拳銃](../Page/2丁拳銃.md "wikilink")のコンビ名は、この曲の歌詞からつけられた。現在彼らの舞台出演時の出囃子になっている。
+11. **うそつき**
+      -
+        （作詞・作曲：真島昌利）
+        対比表現が使用されている。ライブで一度も演奏されなかった数少ない曲の中の一曲。
+12. **月の爆撃機**
+      -
+        （作詞・作曲：甲本ヒロト）
+        アルバム発売後のライヴにおいては、真島の「やるよー\! やるよー\! やっちゃうよー\!」（「やっちまうよー」、「やっちゃうんだよー」と言うことも）というシャウトがこの曲の合図だった。「1000のバイオリン」がセットで続けて歌われることが多かった。（[PKO](https://ja.wikipedia.org/wiki/PKO "wikilink")ツアーでのみセットではなかった。）
+        2013年に[マキシマムザホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")がアルバム『[予襲復讐](https://ja.wikipedia.org/wiki/予襲復讐 "wikilink")』の中でカヴァーしている。
+        また、2015年1月期の独立局系深夜アニメ『[ローリング☆ガールズ](https://ja.wikipedia.org/wiki/ローリング☆ガールズ "wikilink")』のエンディングテーマとしてTHE ROLLING GIRLS（[小澤亜李](https://ja.wikipedia.org/wiki/小澤亜李 "wikilink")、[日高里菜](https://ja.wikipedia.org/wiki/日高里菜 "wikilink")、[種田梨沙](https://ja.wikipedia.org/wiki/種田梨沙 "wikilink")、[花守ゆみり](https://ja.wikipedia.org/wiki/花守ゆみり "wikilink")）がカヴァーしている。
+        [ワーナー在籍時の曲のシングル未収録の曲ではファンの間では一番人気がある](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")。
+13. **[1000のバイオリン](../Page/1000のバイオリン.md "wikilink")**
+      -
+        （作詞・作曲：真島昌利）
+        後にシングルカットされ、カップリングに弦楽器アレンジの「[1001のバイオリン](https://ja.wikipedia.org/wiki/1001のバイオリン "wikilink")」が収録された。
+        「1001のバイオリン」が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[アサヒ缶コーヒー](../Page/アサヒ飲料.md "wikilink")「ワンダ 100年ブラック」のCMソングに起用された。
+        こちらも深夜アニメ『ローリング☆ガールズ』の挿入歌としてTHE ROLLING GIRLS（小澤亜李、日高里菜、種田梨沙、花守ゆみり）がカヴァーしている。
+        凸凹ツアーでは、この曲がラストで、アンコールがの声が響く中、1001のバイオリンが流れるといったものだった。
+
+[Category:THE_BLUE_HEARTSのアルバム](https://ja.wikipedia.org/wiki/Category:THE_BLUE_HEARTSのアルバム "wikilink") [Category:1993年のアルバム](https://ja.wikipedia.org/wiki/Category:1993年のアルバム "wikilink") [Category:1993年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1993年のオリコンアルバムチャート1位獲得作品 "wikilink")

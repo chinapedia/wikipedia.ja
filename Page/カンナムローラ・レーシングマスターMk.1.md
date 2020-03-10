@@ -1,0 +1,69 @@
+> この記事は[Mk.1](https://ja.wikipedia.org/wiki/Mk.1)から翻訳されています。
+
+
+**カンナムローラ・レーシングマスターMk.1**は田宮模型（現・[タミヤ](../Page/タミヤ.md "wikilink")）が[レーシングマスターシリーズ](https://ja.wikipedia.org/wiki/レーシングマスターシリーズ "wikilink")の第一作目として生産・販売した1/12スケールの電動[ラジコン](https://ja.wikipedia.org/wiki/ラジコン "wikilink")カーである。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")発売。
+
+## 概要
+
+[米国および](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")を舞台に繰り広げられていた[カナディアン-アメリカン・チャレンジカップ](../Page/カナディアン-アメリカン・チャレンジカップ.md "wikilink")レースで[1979年](../Page/1979年.md "wikilink")に[ジャッキー・イクス](../Page/ジャッキー・イクス.md "wikilink")のドライブにより[チャンピオン](../Page/チャンピオン.md "wikilink")カーとなった[ローラT](../Page/ローラ・カーズ.md "wikilink")333CSをベースモデルとしている。
+
+車体には、2mm厚[FRPシャーシに](https://ja.wikipedia.org/wiki/繊維強化プラスチック "wikilink")[アルミ合金](https://ja.wikipedia.org/wiki/アルミ合金 "wikilink")製のモーターマウントが奢られ、[LSD機能付き金属製](https://ja.wikipedia.org/wiki/差動装置#リミテッド・スリップ・デフ "wikilink")[ディファレンシャル・ギア](https://ja.wikipedia.org/wiki/ディファレンシャル・ギア "wikilink")や前進専用[マイクロスイッチ](https://ja.wikipedia.org/wiki/マイクロスイッチ "wikilink")付きスピードコントローラー、RS-540SDブラックモーター（スプリント）、10個ものボール[ベアリング](https://ja.wikipedia.org/wiki/ベアリング "wikilink")などを標準装備しており、当時における田宮模型[ラジコン](https://ja.wikipedia.org/wiki/ラジコン "wikilink")技術の粋を結集したモデルであった。
+
+## 車体構成
+
+  - フロントバンパーはカイダック製で、フロントメンバーには強化ナイロン樹脂製フロントアクスル＋ダイキャスト製フロントアームを装備していた。これらの装備により従来の田宮模型製レース用モデルでは不可能であった[キャスター角](https://ja.wikipedia.org/wiki/キャスター角 "wikilink")・[キャンバー角](https://ja.wikipedia.org/wiki/キャンバー角 "wikilink")・[キングピンアングルの連動調整を可能とし](https://ja.wikipedia.org/wiki/ホイール・アライメント#キングピン角 "wikilink")、より緻密なセッティングが行えるようになった。また効果を調整できる新型サーボセイバーを採用し、その取り付け位置を変更することにより[トー角も調整できる新機構も搭載されていた](https://ja.wikipedia.org/wiki/ホイール・アライメント#トウ（トー）角 "wikilink")。
+
+<!-- end list -->
+
+  - 本車は、重量物である6Vまたは7.2V（ラクダ）バッテリー（別売り）を縦置きに搭載し、その周囲にスピードコントローラー、受信機、ステアリング用サーボ、スピードコントロール用サーボを配置することにより、マス集中化の徹底を図っていた。
+
+<!-- end list -->
+
+  - スピードコントローラーは、マイクロスイッチとスライド抵抗が組み合わされた前進専用・可変ブレーキ回路付きのレース専用スイッチを採用していた。特にマイクロスイッチの採用によって最高速時には大電流を最小のロスでモーターに伝えることを可能にした。
+
+<!-- end list -->
+
+  - リアメンバーには、[アルミ合金](https://ja.wikipedia.org/wiki/アルミ合金 "wikilink")製のモーターマウントに[マブチモーター](https://ja.wikipedia.org/wiki/マブチモーター "wikilink")製「RS-540SD」通称「ブラックモーター」が標準装備されていた。この[マブチモーター](https://ja.wikipedia.org/wiki/マブチモーター "wikilink")製「RS-540SD」通称「ブラックモーター」は、[マブチモーター](https://ja.wikipedia.org/wiki/マブチモーター "wikilink")と[タミヤ](../Page/タミヤ.md "wikilink")がスプリントレース専用に共同開発したもので、このカンナムローラには標準で装備されていた。なお、カンナムローラ以外のユーザーからも要望が高かったため、スペアパーツNo.136「RS-540SDブラックモーターセット」としても別売されていた。当時定価は￥3,800であった。
+
+<!-- end list -->
+
+  - 前方から見て後輪左方に配置された[ディファレンシャル・ギア](https://ja.wikipedia.org/wiki/ディファレンシャル・ギア "wikilink")は、[アルミ合金](https://ja.wikipedia.org/wiki/アルミ合金 "wikilink")製のケースに包まれるように密閉化されたもので、ベベルギアにいたるまで金属製であり[LSD機能を有していた](https://ja.wikipedia.org/wiki/差動装置#リミテッド・スリップ・デフ "wikilink")。この[ディファレンシャル・ギア](https://ja.wikipedia.org/wiki/ディファレンシャル・ギア "wikilink")内だけでもボール[ベアリング](https://ja.wikipedia.org/wiki/ベアリング "wikilink")を4個も使用しており[フリクションロスの低減に寄与している](https://ja.wikipedia.org/wiki/Friction "wikilink")。またリアシャフトには焼入れ[ステンレス](https://ja.wikipedia.org/wiki/ステンレス "wikilink")製の径6mmのシャフトを採用しより強度を高めた。
+
+<!-- end list -->
+
+  - 最後方にはカイダック製リアバンパーと電源スイッチボックスが配置されている。
+
+<!-- end list -->
+
+  - ボディは[ポリカーボネート](../Page/ポリカーボネート.md "wikilink")製のものが装備される。なお、オプションとしてスペアパーツNo.145「トルネードRM-1スペアボディセット」も用意されていた。
+
+<!-- end list -->
+
+  - この**カンナムローラ・レーシングマスターMk.1**のオプションパーツとしては前述したもののほかに、スペアパーツNo.149「RMフロントチューンアップ用ベアリングセット」があった。このオプションパーツはフロントキングピン軸受け部分およびサーボセイバー軸受け部分に組み込むもので、これを装着した場合には合計で16個ものボール[ベアリング](https://ja.wikipedia.org/wiki/ベアリング "wikilink")が装備されることになる。これは1/12スケール2輪駆動DDオンロードカーとしては異例の個数ともいえる。
+
+<!-- end list -->
+
+  - 姉妹車としては「[フェアレディ280ZX](../Page/日産・フェアレディZ.md "wikilink")・レーシングマスターMk.2」がある。当時定価￥15,800により金属製デフギアが省略され、モーターも「RS-540S」となっている等スペックダウンが図られていたが、カンナムローラより安価であったことから、資金に余裕の無かった小中学生から人気を得ていた。
+
+## 主要諸元
+
+  - スケール：1/12
+  - 全長：400mm
+  - 全幅：180mm
+  - 全高：109mm
+  - ホイールベース：210mm
+  - フロントトレッド：140mm
+  - リアトレッド：133mm
+  - シャーシ：2mm厚[FRP製ワンピースタイプ](https://ja.wikipedia.org/wiki/繊維強化プラスチック "wikilink")
+  - フロントメンバー：強化ナイロン樹脂製フロントアクスル＋ダイキャスト製フロントアーム
+  - リアアクスル：[アルミ合金](https://ja.wikipedia.org/wiki/アルミ合金 "wikilink")製モーターマウント兼ウイングホルダー
+  - フロントタイヤ／ホイール：スポンジタイヤ、強化ナイロン樹脂製ホイール
+  - リアタイヤ／ホイール：スポンジタイヤ、強化ナイロン樹脂製ホイール
+  - 駆動方式：2WD、後輪駆動
+  - モーター：[マブチモーター](https://ja.wikipedia.org/wiki/マブチモーター "wikilink")製RS-540SDブラックモーター（スプリント）を標準装備
+  - ディファレンシャルギア：[アルミ合金](https://ja.wikipedia.org/wiki/アルミ合金 "wikilink")製ケース密閉型[LSD機能付き](https://ja.wikipedia.org/wiki/差動装置#リミテッド・スリップ・デフ "wikilink")2ベベル金属製[ディファレンシャルギア](https://ja.wikipedia.org/wiki/ディファレンシャルギア "wikilink")
+  - 搭載バッテリー（別売り）：田宮の6V、7.2V（ラクダ）を縦置きで搭載
+  - ボディ：[ポリカーボネート](../Page/ポリカーボネート.md "wikilink")製カンナムローラボディ、[ポリカーボネート](../Page/ポリカーボネート.md "wikilink")製リア[ウイング装備](https://ja.wikipedia.org/wiki/エアロパーツ "wikilink")
+  - 販売価格：￥26,000（当時）
+
+[Category:タミヤ](https://ja.wikipedia.org/wiki/Category:タミヤ "wikilink")

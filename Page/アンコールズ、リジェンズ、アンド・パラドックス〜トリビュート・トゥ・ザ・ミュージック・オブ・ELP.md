@@ -1,0 +1,51 @@
+> この記事は[ELP](https://ja.wikipedia.org/wiki/ELP)から翻訳されています。
+
+
+『**アンコールズ、リジェンズ、アンド・パラドックス〜トリビュート・トゥ・ザ・ミュージック・オブ・ELP**』 (*Encores, Legends, and Paradox, A Tribute to the Music of ELP*) は、[エマーソン・レイク・アンド・パーマー](../Page/エマーソン・レイク・アンド・パーマー.md "wikilink")のメンバー以外のミュージシャンが曲を[トリビュート](https://ja.wikipedia.org/wiki/トリビュート "wikilink")した[アルバム](../Page/アルバム.md "wikilink")。
+
+## 内容
+
+[ドリーム・シアター](https://ja.wikipedia.org/wiki/ドリーム・シアター "wikilink")や[マジェラン](../Page/マジェラン.md "wikilink")、[カイロ等のアルバムをリリースしている](../Page/カイロ_\(バンド\).md "wikilink")「[マグナ・カルタ・レコード](https://ja.wikipedia.org/wiki/マグナ・カルタ・レコード "wikilink")」がリリースした[トリビュート・アルバム](https://ja.wikipedia.org/wiki/トリビュート・アルバム "wikilink")。
+
+ドリーム・シアターやマジェランのメンバー/元メンバーの他、[カール・パーマー](https://ja.wikipedia.org/wiki/カール・パーマー "wikilink")と[エイジア](https://ja.wikipedia.org/wiki/エイジア "wikilink")を結成していた[ジョン・ウェットン](../Page/ジョン・ウェットン.md "wikilink")と[ジェフ・ダウンズ](../Page/ジェフ・ダウンズ.md "wikilink")、[3(スリー)に参加した](../Page/3_\(バンド\).md "wikilink")[ロバート・ベリー](../Page/ロバート・ベリー.md "wikilink")、元[イエスの](../Page/イエス_\(バンド\).md "wikilink")[ピーター・バンクス](../Page/ピーター・バンクス.md "wikilink")と[イゴール・コロシェフ](../Page/イゴール・コロシェフ.md "wikilink")、さらに[グレン・ヒューズ](https://ja.wikipedia.org/wiki/グレン・ヒューズ "wikilink")や[サイモン・フィリップス](https://ja.wikipedia.org/wiki/サイモン・フィリップス "wikilink")等が参加している。
+
+## 収録曲（参加ミュージシャン）
+
+1.  「悪の教典9 第1印象」 - "Karn Evil 9 (1st Impression)" （ロバート・ベリー、サイモン・フィリップス、ジョーダン・ルーデス、マーク・ウッド）
+2.  「ビッチズ・クリスタル」 - "Bitches Crystal" （トレント・ガードナー、パット・マステロット、ジョン・ウェットン、イゴール・コロシェフ、ウェイン・ガードナー）
+3.  「トッカータ」 - "Toccata" （トレント・ガードナー、パット・マステロット、ピーター・バンクス、マット・ギロリー、ウェイン・ガードナー）
+4.  「ナイフ・エッジ」 - "Knife Edge" （ロバート・ベリー、サイモン・フィリップス、グレン・ヒューズ、マーク・ボニーラ、エリク・ノーランダー）
+5.  「タイム・アンド・プレイス」 - "A Time And A Place" （トレント・ガードナー、ドアン・ペリー、マーティン・バレ、ウェイン・ガードナー、ジェイムズ・ラブリエ、ジョン・ノヴェロ）
+6.  「ホウダウン」 - "Hoedown" （ロバート・ベリー、サイモン・フィリップス、ジェリー・グッドマン、ジョーダン・ルーデス、マーク・ボニーラ）
+7.  「シェリフ」 - "The Sheriff" （トレント・ガードナー、マイク・ポートノイ、ジョン・ウェットン、ピーター・バンクス、マーク・ロバートソン、ウェイン・ガードナー）
+8.  「永遠の謎」 - "The Endless Enigma" （トレント・ガードナー、マイク・ポートノイ、ジェフ・ダウンズ、ウェイン・ガードナー）
+9.  「未開人」 - "The Barbarian" （ロバート・ベリー、サイモン・フィリップス、イゴール・コロシェフ）
+10. 「タルカス」 - "Tarkus" （ロバート・ベリー、サイモン・フィリップス、ジェイムズ・ラブリエ、デレク・シェリニアン、マーク・ボニーラ）
+
+## 参加ミュージシャン・50音順（参加曲）
+
+  - [イゴール・コロシェフ](../Page/イゴール・コロシェフ.md "wikilink") (2、9)
+  - ウェイン・ガードナー (2、3、5、7、8)
+  - エリク・ノーランダー (4)
+  - [グレン・ヒューズ](https://ja.wikipedia.org/wiki/グレン・ヒューズ "wikilink") (4)
+  - [サイモン・フィリップス](https://ja.wikipedia.org/wiki/サイモン・フィリップス "wikilink") (1、4、6、9、10)
+  - [ジェイムズ・ラブリエ](../Page/ジェイムズ・ラブリエ.md "wikilink") (5、9)
+  - [ジェフ・ダウンズ](../Page/ジェフ・ダウンズ.md "wikilink") (8)
+  - [ジェリー・グッドマン](https://ja.wikipedia.org/wiki/ジェリー・グッドマン "wikilink") (6)
+  - [ジョーダン・ルーデス](https://ja.wikipedia.org/wiki/ジョーダン・ルーデス "wikilink") (1、6)
+  - [ジョン・ウェットン](../Page/ジョン・ウェットン.md "wikilink") (2、7)
+  - ジョン・ノヴェロ (5)
+  - [デレク・シェリニアン](https://ja.wikipedia.org/wiki/デレク・シェリニアン "wikilink") (10)
+  - ドアン・ペリー (5)
+  - トレント・ガードナー (1、3、5、7、8)
+  - [パット・マステロット](https://ja.wikipedia.org/wiki/パット・マステロット "wikilink") (2、3)
+  - [ピーター・バンクス](../Page/ピーター・バンクス.md "wikilink") (3、7)
+  - マーク・ウッド (1)
+  - マーク・ボニーラ (4、6、10)
+  - マーク・ロバートソン (7)
+  - マーティン・バレ (5)
+  - [マイク・ポートノイ](https://ja.wikipedia.org/wiki/マイク・ポートノイ "wikilink") (7、8)
+  - マット・ギロリー (3)
+  - [ロバート・ベリー](../Page/ロバート・ベリー.md "wikilink") (1、4、6、9、10)
+
+[Category:プログレッシブ・ロックのアルバム](https://ja.wikipedia.org/wiki/Category:プログレッシブ・ロックのアルバム "wikilink") [Category:1999年のトリビュート・アルバム](https://ja.wikipedia.org/wiki/Category:1999年のトリビュート・アルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

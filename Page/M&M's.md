@@ -1,0 +1,59 @@
+> この記事は[M\&M\'s](https://ja.wikipedia.org/wiki/M\&M\'s)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:M&M's_Plain.jpg "wikilink") **M\&M'S**（エムアンドエムズ）は、[マースが販売している](https://ja.wikipedia.org/wiki/マース_\(企業\) "wikilink")[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")ブランドの一つ。日本では[マース ジャパンが販売](../Page/マース_ジャパン.md "wikilink")。
+
+特徴としてチョコレートが砂糖菓子でコーティングされ、その上から様々な色で着色され、「m」の白文字が刻印されている。[砂糖](../Page/砂糖.md "wikilink")菓子でチョコレートがコーティングされているのは、夏場などにチョコレートが溶けたり、[脂肪](../Page/脂肪.md "wikilink")分が白く表出する[ブルーム現象](https://ja.wikipedia.org/wiki/ブルーム現象 "wikilink")がおきやすい時期にも、手にべたつかず食べられるようにしたためである。様々な派生商品が発売されている。日本では1987年より販売が開始された\[1\]。
+
+## 沿革
+
+[thumbパッケージ内容物](https://ja.wikipedia.org/wiki/ファイル:MRE_20071124_2.PNG "wikilink")\]\] M\&M'Sが開発されたきっかけは、[アメリカ陸軍](https://ja.wikipedia.org/wiki/アメリカ陸軍 "wikilink")の兵士たちの要望によるものだった。南太平洋に展開していた陸軍部隊を監察官が視察した際、兵士が「口の中で溶けて、手に溶けないチョコレートを開発してくれ。単純で当たり前のことだろう」と嘆願した。当時軍が支給する食料に含まれていたチョコレートは南太平洋の暑さですぐに溶けてしまい、甘いものを楽しみにしている兵士達をがっかりさせていた。そこで試行錯誤を重ねて開発されたのがM\&M'Sだった。
+
+元々は、[スペイン内戦](../Page/スペイン内戦.md "wikilink")の折に現地を訪れたフォレスト・マースが、兵士たちが砂糖でコートされたチョコレートで口を楽しませていたのを見たことに着想を得たものだが、1940年の帰国後に彼の友人であるブルース・ムリーと共同で米ニュージャージー州に工場を設置、二人の苗字の頭文字である「**M**」をつなげて「M\&M'S」（マース＆ムリーズ）を商標として翌1941年より製造を開始している。ブルースはHershey's社長の息子で、この製品の権利の2割を保有していた。このため、製品は当時チョコレート配給権をもっていたHershey'sのチョコレートを使って製造することができた。
+
+太平洋戦争が始まると、陸軍は紙筒にM\&M'Sを詰めたものを補給品目に加え、海軍もこれに従った。現在もM\&M'Sは軍の補給物資の一つとして扱われており、現行[アメリカ軍](../Page/アメリカ軍.md "wikilink")の[レーション](https://ja.wikipedia.org/wiki/レーション "wikilink")である[MRE](https://ja.wikipedia.org/wiki/MRE "wikilink")中にもこれが含まれるパッケージも見られる。後には[宇宙食](../Page/宇宙食.md "wikilink")として宇宙飛行士にも支給され、1981年の[スペースシャトル](../Page/スペースシャトル.md "wikilink")初打ち上げミッション（[STS-1](https://ja.wikipedia.org/wiki/STS-1 "wikilink")）の際にも積み込まれた。
+
+キャッチフレーズ「お口でとろけて、手にとけない」は日本でも有名。
+
+<File:(M&M's>) six colors.JPG <File:(Red)> M\&M's.JPG <File:(M&M's>), Blue.JPG <File:(Green)> M\&M's.JPG
+
+## 製品一覧
+
+M\&M'Sの主な製品は下記の通り。
+
+  - M\&M'S ミルクチョコレート（Milk Chocolate）：[1940年](../Page/1940年.md "wikilink")に発売されたオリジナル。茶色の袋。
+  - M\&M'S ピーナッツ（Peanut）：ピーナッツが中に入った少し大きめの粒。[1954年](../Page/1954年.md "wikilink")に発売された当時はすべて茶色の粒だったが、[1960年](../Page/1960年.md "wikilink")よりカラーのものが発売。黄色の袋。
+  - M\&M'S ダークチョコレート（Dark Chocolate）：[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に発売された。紫色の袋。
+  - M\&M'S ダークチョコレート・ピーナッツ（Dark Chocolate Peanut）：[2007年](../Page/2007年.md "wikilink")に発売された。黄色と紫色のツートン色の袋。
+  - M\&M'S アーモンド・チョコレート（Almond Chocolate）：もともと[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")と[イースター](https://ja.wikipedia.org/wiki/イースター "wikilink")のシーズン商品として[1988年](../Page/1988年.md "wikilink")に発売されたが、[1992年](../Page/1992年.md "wikilink")に年中販売されるようになった。薄い橙色の袋。
+  - M\&M'S クリスピー（Crispy）:[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")休暇（12月）の時期に発売。ライスパフが入った食べ応えのある粒。水色の袋。（現在、米国内で流通しているのは黄緑色の袋に変更されている）
+
+{{-}}
+
+## キャラクター
+
+M\&M'sのパッケージにも描かれる特徴的なキャラクターは、"スポークスキャンディ"と呼ばれている。1954年に最初のレッドとイエローが誕生し、同年にテレビコマーシャルに登場してデビューしている\[2\]。 広告における彼らは、青のM\&M'sの登場と同時期に、コンピューターグラフィックスに切り替わった。
+
+これらのスポークスキャンディーのチームは、その色ごとに異なったキャラクターが与えられている。ミルクチョコレートM\&M'sのマスコットで皮肉屋のレッド。ピーナッツM\&M'sの幸福かつ間抜けなマスコットのイエロー。これが最初に登場したキャラクターである。その後に加わったものとして、アーモンドM\&M'sのマスコットの冷静なブルー。ダークチョコレートM\&M'sのマスコットの魅惑的なグリーン。クリスピーM\&M'sのマスコットのややノイローゼ気味のオレンジ。その他にも何色かのキャラクターがいたが、これらは登場から比較的短期間で姿を消した。
+
+これらスポークスキャンディ中における女性のキャラクターは、長らく、緑が唯一の存在であったが（初登場の1995年から2012年まで）、[第46回スーパーボウル](https://ja.wikipedia.org/wiki/第46回スーパーボウル "wikilink")中における広告で新たに、事務的な女性の、チーフチョコレートオフィサーのブラウンが加わった。
+
+## 脚注
+
+## 関連項目
+
+  - [アメリカ軍用チョコレート](../Page/アメリカ軍用チョコレート.md "wikilink")（米ハーシー社製品）
+  - [マーブルチョコレート](https://ja.wikipedia.org/wiki/マーブルチョコレート "wikilink")
+  - [JASDF羊羹](https://ja.wikipedia.org/wiki/JASDF羊羹 "wikilink")
+  - [兵士の燃料](https://ja.wikipedia.org/wiki/兵士の燃料 "wikilink")
+
+## 外部リンク
+
+  - [M\&M'S（米国サイト）](http://www.mms.com/)
+  - [M\&M'S（国内サイト）](http://www.m-ms.jp/)
+  - [マース ジャパン リミテッド](http://www.mars.com/japan/)
+
+[Category:チョコレート菓子の商品名](https://ja.wikipedia.org/wiki/Category:チョコレート菓子の商品名 "wikilink")
+
+1.  [M＆MSの歴史　チョコレート物語](http://www.m-ms.jp/history/story.html)
+2.  <http://www.m-ms.jp/history/timeline.html>

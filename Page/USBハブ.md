@@ -1,0 +1,46 @@
+> この記事は[USB](https://ja.wikipedia.org/wiki/USB)から翻訳されています。
+
+
+[Sanwa_supply_USB-HUB217BK.png](https://ja.wikipedia.org/wiki/File:Sanwa_supply_USB-HUB217BK.png "fig:Sanwa_supply_USB-HUB217BK.png")製）\]\] **USBハブ**（ユーエスビー ハブ）とは、[USB機器を複数接続するための](../Page/ユニバーサル・シリアル・バス.md "wikilink")[ハブである](https://ja.wikipedia.org/wiki/ハブ_\(ネットワーク機器\) "wikilink")。
+
+## 概説
+
+一般に、パソコン本体にあるUSB[ポートは](https://ja.wikipedia.org/wiki/入出力ポート#外部接続コネクタ "wikilink")2 - 4個程度だが、今日では[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")・[マウス](../Page/マウス_\(コンピュータ\).md "wikilink")・[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")に始まり、[外付けHDDや](https://ja.wikipedia.org/wiki/ハードディスクドライブ#外付けタイプ "wikilink")[USBメモリ](https://ja.wikipedia.org/wiki/USBメモリ "wikilink")から[Webカメラ](https://ja.wikipedia.org/wiki/Webカメラ "wikilink")・[卓上扇風機まで](https://ja.wikipedia.org/wiki/USB扇風機 "wikilink")、USB対応機器は大幅に増えた。USBハブはこれらの周辺機器を同時に接続するために用いられる。
+
+USBハブとして一般的に知られているものは4ポートの単体製品（写真を参照）であるが、他の周辺機器に内蔵されているものもある。例えば[液晶](../Page/液晶.md "wikilink")[ディスプレイの側面に](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")3個口程のポートが付いていたり、USB接続のキーボードにUSBハブの機能が搭載されている等である。
+
+筐体の形状は薄型の長方形や正方形が多いが、ポートの配置は製品とその用途によりさまざまである。4個が横に長く並んだ製品や2×2に四角くまとめられた製品の他に、隣接ポートのコネクタ同士の物理的干渉を避ける目的で両サイドに2個ずつや各辺に1個ずつ配置された製品がよく見られる。また、ハブ本体の側面ではなく上面にポートが並ぶ製品や、本体から伸びたケーブルの先にそれぞれポートを持つことで自由な向きから接続できる製品もある。ポートが16個と多く備えられたものなどもあるが、4ポートのものに比べると高価である（理由は[技術解説を参照](https://ja.wikipedia.org/wiki/#技術解説 "wikilink")）。
+
+大きさは手の平に乗る程度がほとんどで、持ち運びに便利である。これは必要となる部品の少なさがその理由である。各社から形状やデザインにこだわった様々な製品や[VCCI](https://ja.wikipedia.org/wiki/VCCI "wikilink")マークが貼り付けられた製品が出されている。
+
+## 技術解説
+
+USBハブの仕様は、USB本体の規格の一部 ([USB 2.0 Specification](http://www.usb.org/developers/docs.html) , Chapter 11) として規定されている。
+
+USBハブはUSBの規格上[ホストコントローラ](https://ja.wikipedia.org/wiki/ホストコントローラ "wikilink")とデバイスの間に入って動作する重要な役割を持つ。 主な役割として以下のものがある
+
+  - デバイスの接続検出
+  - デバイスの通信速度検出
+  - デバイスへの電源供給とその管理
+  - 信号の分配
+  - 通信速度変換 (USB 2.0)
+
+USBハブは自身が持つ下流のポートに対して電源 (VBUS) の供給をON/OFFできるものがある。このON/OFFはホスト側から指令することができる。USBハブがこの機能を持つかどうかをホストに通知するプロトコルも仕様で定められている。現実には、この機能を持つと報告するものの外部の電気回路が省かれているためONになったままという仕様違反のハブが数多く見られる。
+
+仕様上はUSBハブが持てる下流のポート数は255個である。しかし、現実のUSBハブの実装ではそれ以下である。バスパワード動作時は上流から最大500mA取り出せるが、下流ポート1個につき少なくとも100mA供給する能力が必要とされるためこれを4個つけると計400mAとなり、ハブ自身が使う電力をあわせると4個が最大となる。したがって5個以上の下流ポートをもつハブは必ずセルフパワードでなければならない。
+
+USB2.0規格に対応したUSBハブは、USB2.0において導入されたHigh Speed転送のための速度変換機能を持っている。上流とHigh Speedで接続され、下流ポートにFull SpeedあるいはLow Speedで通信しているデバイスを持つ場合において、Full/Low Speed通信をUSBハブ内でいったんバッファリングしてから、改めてHigh Speedで送信する機能である。この変換を実行する部分をTT (Transaction Translator) と呼んでいる。このTTをハブ全体で1つだけ持つ（ある時点で1つのポートだけをバッファリングできる）ハブと、複数あるハブの2種類がある。前者はSingle TT、後者はMultiple TTと呼ばれる。この2つはハブからホストに通知されるディスクリプタで判別することができる。
+
+USBハブはそれ自体が一つのUSBデバイスであり、USBアドレスを持つ（これは、[イーサネット](../Page/イーサネット.md "wikilink")のハブがネットワーク上の[ノード](https://ja.wikipedia.org/wiki/ノード "wikilink")とみなされないことと対照的である）。したがってハブについてもドライバが必要であるが、USBに対応したシステムでは、ほとんどの場合、ハブのドライバを備えているため、利用者が意識する必要はない。
+
+USBホストコントローラは、ルートハブ (root hub) と呼ばれるハブ相当の回路を内蔵し、通常複数（UHCIでは通常2個）のポートを取り出せるようになっている。
+
+## コンパウンドデバイス
+
+USBデバイスの中には、ハブを内蔵したものがある。このようなデバイスを**コンパウンドデバイス** (compound device) と呼ぶ。コンパウンドデバイスでは、デバイス部分は内部的にハブの下に接続される形になっている。例として、2ポートのハブを内蔵したUSBキーボードの場合、内部的には、3ポートのハブと、そのうち1つのポートに接続されたキーボードの組み合わせとなっている。
+
+一つのデバイスで複数の機能をもつもの（ポインティングデバイス内蔵のキーボードなど）を**コンポジットデバイス** (composite device) というが、それだけではハブとは無関係であるため、コンパウンドデバイスではない。なお、コンポジットデバイスは**複合デバイス**とも呼ばれる。
+
+[de:Universal Serial Bus\#USB-Hubs](https://ja.wikipedia.org/wiki/de:Universal_Serial_Bus#USB-Hubs "wikilink")
+
+[Category:パソコンの周辺機器](https://ja.wikipedia.org/wiki/Category:パソコンの周辺機器 "wikilink") [Category:USB](https://ja.wikipedia.org/wiki/Category:USB "wikilink")

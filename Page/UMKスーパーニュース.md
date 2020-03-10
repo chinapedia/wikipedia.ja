@@ -1,0 +1,195 @@
+> この記事は[UMK](https://ja.wikipedia.org/wiki/UMK)から翻訳されています。
+
+
+『**UMKスーパーニュース**』（ユーエムケースーパーニュース）は、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")が放送している[夕](../Page/夕.md "wikilink")方の[宮崎県](../Page/宮崎県.md "wikilink")向けの[ローカルニュース番組である](../Page/報道番組.md "wikilink")。
+
+## 番組概要
+
+前身の『**FNN UMKニュース ザ・ヒューマン**』に変わって[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")にスタートした。
+
+番組前半は、フジテレビ発の全国ニュース（16:50から18:14まで）を放送している。
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")の地上デジタル放送の試験放送開始からハイビジョン制作となり、[2015年](../Page/2015年.md "wikilink")3月30日より、FNN系列の新たな夕方ニュースとして『[みんなのニュース](https://ja.wikipedia.org/wiki/みんなのニュース "wikilink")』がスタートするも、系列局で唯一番組タイトルを変更せずに継続（これによりFNN系列の平日の夕方ニュース番組では最も最古の長寿番組となる）。ただし、ロゴは『みんなのニュース』に準じた書体と配色の欧文で『**UMK Super News**』表記に変更し、スタジオセットも緑を基調としたデザインにリニューアルした。テーマ曲は『みんなのニュース』各年度と同じものを使用した。
+
+[2018年](../Page/2018年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")より、FNN系列の新たな夕方ニュースとして『[プライムニュース イブニング](https://ja.wikipedia.org/wiki/プライムニュース_イブニング "wikilink")』がスタートするも、今回も番組タイトルを変更せずに継続し、放送開始20周年を迎える。同時に放送時間を1分繰り上げ16:49スタートとなった。ロゴは『プライムニュース』に準じた書体と配色に、テーマ曲も同番組と同じもの（タイトルコールなし）再変更された。その後、スタジオセットも緑を基調としたデザインから配色を変えた。
+
+2019年4月1日より、FNN系列の新たな夕方ニュース『[Live News it\!](https://ja.wikipedia.org/wiki/Live_News_it! "wikilink")』がスタートするが、現タイトルを変更せずに継続し、ロゴやテーマ曲を同番組に準じたものに変更した。また、放送時間が以前の16:50開始に復し、ローカル枠が18:50:30終了に変更された。同年4月22日より、今まで実施していなかった時刻出しを全編開始し、又これまで天気ループの表示時間もローカル枠のみも全国ネット枠にも表示時間を拡大した。
+
+番組のロゴはフジテレビのロゴを少し変えて使用している。
+
+  - 2018年4月2日 - 5月のカラーリング：
+
+<!-- end list -->
+
+  -
+    上の段に『UMK』、下の段一列で『Super News』。SuperとNewsの下にはそれぞれSとNと同じカラーリングのアンダーバーがある。
+
+<!-- end list -->
+
+  - 2018年6月 - 2019年3月のカラーリング：
+
+<!-- end list -->
+
+  -
+    アニメーションが変更され、宮崎県民がSuper Newsと書いた上からなぞるように上の段に『Super』、下の段に『News』。SuperとNewsの下にはそれぞれSとNと同じカラーリングのアンダーバーがあり、一番下のアンダーバーにUMK。
+
+<!-- end list -->
+
+  - 2019年4月1日 - のカラーリング：
+
+<!-- end list -->
+
+  -
+    アニメーションを引き継ぎ、宮崎県民がSuper Newsと書いた上からなぞるように上の段に『Super』、下の段に『News』。Newsの下にイエローのアンダーバーがあり、その中にUMK。
+
+## 出演者
+
+### 月-金曜版
+
+  - メインキャスター
+
+<!-- end list -->
+
+  - [佐々木六華](https://ja.wikipedia.org/wiki/佐々木六華 "wikilink")（月、火担当）
+  - [武田華奈](https://ja.wikipedia.org/wiki/武田華奈 "wikilink")（月、火担当）
+  - [児玉泰一郎](https://ja.wikipedia.org/wiki/児玉泰一郎 "wikilink")（水、木、金担当）
+  - [永井友梨](https://ja.wikipedia.org/wiki/永井友梨 "wikilink")（水、木、金担当）
+
+<!-- end list -->
+
+  - スポーツキャスター担当
+
+<!-- end list -->
+
+  - [瀬良有里奈](https://ja.wikipedia.org/wiki/瀬良有里奈 "wikilink")
+  - [福盛和男](https://ja.wikipedia.org/wiki/福盛和男 "wikilink")
+
+<!-- end list -->
+
+  - 気象予報士
+
+<!-- end list -->
+
+  - [酒井晋一郎](https://ja.wikipedia.org/wiki/酒井晋一郎 "wikilink")
+
+代理キャスターは、UMKアナウンサーがシフト勤務で代理キャスターを勤める。
+
+### 週末版
+
+  - シフト勤務（UMKアナウンサー）
+
+## 過去の出演者
+
+  - [南出雅之](https://ja.wikipedia.org/wiki/南出雅之 "wikilink")（メインキャスター、2007年3月30日まで担当）
+  - [高橋巨典](../Page/高橋巨典.md "wikilink")（メインキャスター、2012年3月30日まで担当）
+  - [榎木田朱美](../Page/榎木田朱美.md "wikilink")（メインキャスター、2014年3月28日まで担当）
+  - [荒尾茉紀](https://ja.wikipedia.org/wiki/荒尾茉紀 "wikilink")（メインキャスター、2019年9月27日まで担当。）
+  - [高柳美枝子](https://ja.wikipedia.org/wiki/高柳美枝子 "wikilink")（木・金曜キャスター、2009年9月25日まで担当）
+  - [戸澤愛](https://ja.wikipedia.org/wiki/戸澤愛 "wikilink")（月-水曜キャスター、2011年3月23日まで担当）
+  - [興梠裕子](https://ja.wikipedia.org/wiki/興梠裕子 "wikilink")（スポーツキャスター、木・金曜キャスター、2012年3月30日まで担当）
+  - [吉田愛美](https://ja.wikipedia.org/wiki/吉田愛美 "wikilink")（スポーツキャスター担当）
+  - [鶴衛真理](https://ja.wikipedia.org/wiki/鶴衛真理 "wikilink")（スポーツキャスター担当）
+  - [利国理砂](https://ja.wikipedia.org/wiki/利国理砂 "wikilink")（スポーツキャスター担当）
+  - [増田明美](https://ja.wikipedia.org/wiki/増田明美_\(アナウンサー\) "wikilink")（スポーツキャスター担当）
+  - [池田麻里子](https://ja.wikipedia.org/wiki/池田麻里子 "wikilink")（スポーツキャスター担当、2007年2月1日まで担当）
+  - [首藤真吾](https://ja.wikipedia.org/wiki/首藤真吾 "wikilink")（スポーツキャスター、2012年3月30日まで担当）
+  - 児玉泰一郎（スポーツキャスター、2012年3月28日まで担当）
+  - 武田華奈（スポーツキャスター、2014年3月28日まで担当）
+  - [迫田訓光](https://ja.wikipedia.org/wiki/s@ko "wikilink")（スポーツキャスター・みやざきふるさと中継、2015年10月30日まで担当）
+  - [岩倉尚哉](https://ja.wikipedia.org/wiki/岩倉尚哉 "wikilink")（気象予報士、2006年10月31日まで月-木曜担当）
+  - [浜田虔郎](https://ja.wikipedia.org/wiki/浜田虔郎 "wikilink")（気象予報士、2006年10月27日まで金曜担当 2013年11月9日に死去）
+  - [瀬戸口隆](https://ja.wikipedia.org/wiki/瀬戸口隆 "wikilink")（気象予報士、2006年11月1日から2016年6月30日まで担当）
+  - [高巣由貴](https://ja.wikipedia.org/wiki/高巣由貴 "wikilink")（スポーツキャスター、2014年4月4日 - 2019年3月29日まで担当）
+
+## タイムテーブル（月 - 金曜版）
+
+[電子番組表（EPG）上では](../Page/電子番組ガイド.md "wikilink")、16:50～17:53を『スーパーニュース』、17:53～19:00を『FNN UMKスーパーニュース』として表記している。
+
+| colspan="3" style="background-color: \#FFD400 | 『UMKスーパーニュース』 |
+| ------------------------------------------------------------- |
+| 時刻                                                            |
+| 16.50.00                                                      |
+| 17.53.00                                                      |
+| 18.14.00                                                      |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+| 18.50.15                                                      |
+| 18.50.30                                                      |
+| 19.00.00                                                      |
+|                                                               |
+
+## 放送時間
+
+2007年6月29日までニュース項目のダイジェストを「ニュースNavi」として月曜16:50-16:55、火-金曜16:55-17:00に放送していた。月-金曜の17時台のネットを開始したのは2007年7月2日以降｡
+
+2015年3月30日から2019年3月29日までの月-金曜版は、番組冒頭にローカル枠が設定されており、ニュースラインナップと天気情報を放送していた。
+
+| 期間                     | 放送時間（[JST](../Page/日本標準時.md "wikilink")） |
+| ---------------------- | ---------------------------------------- |
+| 月曜日 - 金曜日              | 土曜日                                      |
+| 1998年3月30日 - 2000年4月2日 | 17:55 - 19:00（65分）                       |
+| 2000年4月3日 - 2001年4月1日  | 17:54 - 19:00（66分）                       |
+| 2001年4月2日 - 2006年10月1日 | 17:30 - 18:00（30分）                       |
+| 2006年10月2日 - 2007年7月1日 | 17:30 - 17:55（25分）※1                     |
+| 2007年7月2日 - 2007年9月30日 | 16:55 - 19:00（125分）                      |
+| 2007年10月1日 - 2012年4月1日 | 16:53 - 19:00（127分）                      |
+| 2012年4月2日 - 2012年9月30日 | 17:30 - 17:56（26分）※2                     |
+| 2012年10月1日 - 2018年4月1日 | 16:50 - 19:00（130分）                      |
+| 2018年4月2日 - 2019年3月31日 | 16:49 - 19:00（131分）                      |
+| 2019年4月1日 - 現在         | 16:50 - 19:00（130分）                      |
+
+※1土曜日は[ステーションブレイクなしで](https://ja.wikipedia.org/wiki/コマーシャルメッセージ#CMの種類 "wikilink")『[うぃーく.COM](../Page/うぃーく.COM.md "wikilink")』に接続する。
+※2土曜日は[ステーションブレイクなしで](https://ja.wikipedia.org/wiki/コマーシャルメッセージ#CMの種類 "wikilink")『[U-doki](https://ja.wikipedia.org/wiki/U-doki "wikilink")』に接続する\[1\]。
+
+## 番組エンディング曲
+
+  - [秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")
+
+## UMK歴代の夕方ニュース
+
+  - 1970年4月1日開局 - 1975年3月29日 『[UMKローカルニュース](https://ja.wikipedia.org/wiki/UMKローカルニュース "wikilink")』
+  - 1975年3月31日 - 1975年9月27日 『[UMKニュース6:45](https://ja.wikipedia.org/wiki/UMKニュース6:45 "wikilink")』
+  - 1975年9月29日 - 1979年9月28日 『[UMKニュース](https://ja.wikipedia.org/wiki/UMKニュース "wikilink")』
+  - 1979年10月1日 - 1988年4月15日 『[UMKニュースレポート](https://ja.wikipedia.org/wiki/UMKニュースレポート "wikilink")』（月-金曜）
+  - 1988年4月18日 - 1992年3月31日 『[UMKニュースリポート](https://ja.wikipedia.org/wiki/UMKニュースリポート "wikilink")』（月-金曜）
+  - 1992年4月1日 - 1997年3月30日 『[UMKスーパータイム](https://ja.wikipedia.org/wiki/UMKスーパータイム "wikilink")』
+  - 1997年3月31日 - 1998年3月29日 『UMKニュース ザ・ヒューマン』
+  - 1998年3月30日 - 現在 『FNN UMKスーパーニュース』（月-金曜）
+  - 1998年4月4日 - 2001年4月1日 『UMKスーパーニュース FNN』（週末）
+  - 2001年4月7日 - 2019年3月31日 『FNN UMKスーパーニュースWEEKEND』（週末）
+  - 2019年4月6日 - 現在 『FNN UMKスーパーニュース』（第2期）（週末）
+
+## 補足
+
+  - 榎木田朱美は2014年3月28日時点でUMKニュース ザ・ヒューマンから続けて17年(産休期間を除くと16年3か月)にわたり夕方ニュースのメインキャスターを担当した。2014年現在、FNN系列の夕方ニュースのメインキャスターを担当する女性アナウンサーの中で最長記録である。フリーランスも含めると2015年3月に終了した『FNNスーパーニュース』のメインキャスターを務めていた[安藤優子](../Page/安藤優子.md "wikilink")の21年半（スーパータイムで6年半、スーパーニュースで15年）に次いで長い。
+  - 週末版については、フジテレビ側のタイトルが『FNNみんなのニュースWeekend』→『プライムニュース イブニング』→『Live News it\!』となった現在も『UMKスーパーニュース』として放送しており、ローカルパートの冒頭で画面右上に本番組のロゴが表示されている\[2\]。また、『 - みんなのニュースWeekend』→『プライムニュース - 』→『Live News - 』とローカル枠である『 - スーパーニュース』を同一スポンサーが通しで提供する[コンプレックス枠のような形を取っている](../Page/コンプレックス_\(番組形式\).md "wikilink")。
+
+## 関連項目
+
+  - [UMKニュース](https://ja.wikipedia.org/wiki/UMKニュース "wikilink")
+  - [FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")
+  - [FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")
+  - [みんなのニュース](https://ja.wikipedia.org/wiki/みんなのニュース "wikilink")
+  - [FNN みんなのニュース Weekend](https://ja.wikipedia.org/wiki/FNN_みんなのニュース_Weekend "wikilink")
+  - [プライムニュース イブニング](https://ja.wikipedia.org/wiki/プライムニュース_イブニング "wikilink")
+  - [Live News it\!](https://ja.wikipedia.org/wiki/Live_News_it! "wikilink")
+
+## 脚注
+
+## 外部リンク
+
+  - [UMKスーパーニュース](https://www.umk.co.jp/supernews/)
+
+[Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:テレビ宮崎の番組](https://ja.wikipedia.org/wiki/Category:テレビ宮崎の番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:九州・沖縄地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの帯番組 "wikilink") [Category:FNNスーパーニュース](https://ja.wikipedia.org/wiki/Category:FNNスーパーニュース "wikilink") [Category:みんなのニュース](https://ja.wikipedia.org/wiki/Category:みんなのニュース "wikilink") [Category:プライムニュース](https://ja.wikipedia.org/wiki/Category:プライムニュース "wikilink") [Category:Live_News](https://ja.wikipedia.org/wiki/Category:Live_News "wikilink")
+
+1.  ローカルパートの最後で担当者が「この後は『U-doki』をご覧ください」と言って締めた後、同番組の出演者が登場し告知を行なっている。
+2.  フジテレビ発の全国ニュース終了時には、フジ送出の映像を背景に画面右下に「続いてローカルニュース」とテロップが表示される。

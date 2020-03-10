@@ -1,0 +1,492 @@
+> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+
+
+**D型エンジン**（Dがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されていた[小型](../Page/Bセグメント.md "wikilink")/[中型車種用の](../Page/Cセグメント.md "wikilink")[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。
+
+## 機構
+
+### 3バルブCVCC
+
+  - D13A/D15A
+
+北米地域（[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")/[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")）向けEV型・EW型エンジンの1987年モデルに、“D13A”および“D15A”の型式が与えられたのが始まりとなる。全機種[SOHC](../Page/SOHC.md "wikilink")で、排気バルブの隣に[CVCC](../Page/CVCC.md "wikilink")の特徴である副燃焼室（B.C.トーチ型）が存在する。[吸・排気バルブは吸気が](https://ja.wikipedia.org/wiki/バルブ#内燃機関におけるバルブ "wikilink")2個、排気が1個で、[タイミングベルト](https://ja.wikipedia.org/wiki/タイミングベルト "wikilink")で駆動される[カムシャフト](https://ja.wikipedia.org/wiki/カムシャフト "wikilink")により[ロッカーアーム](https://ja.wikipedia.org/wiki/ロッカーアーム "wikilink")を介し開閉される。4連シリンダーボアの[アルミ](https://ja.wikipedia.org/wiki/アルミニューム "wikilink")[ダイカスト](https://ja.wikipedia.org/wiki/ダイカスト "wikilink")製[シリンダーブロック](https://ja.wikipedia.org/wiki/シリンダーブロック "wikilink")を用いる。
+
+[キャブレター](../Page/キャブレター.md "wikilink")（ダウンドラフト、固定ベンチュリ）仕様と[PGM-FI](../Page/燃料噴射装置.md "wikilink")（マルチポイント-[インテークマニホールド](https://ja.wikipedia.org/wiki/インテークマニホールド "wikilink")噴射）仕様の2種類があり、[排気ガス](https://ja.wikipedia.org/wiki/排気ガス "wikilink")浄化のために[三元触媒](https://ja.wikipedia.org/wiki/三元触媒 "wikilink")に加え[排気2次エアー供給システムが装備されている](https://ja.wikipedia.org/wiki/二次空気導入装置 "wikilink")。
+
+### 4バルブSOHC
+
+  - D12A/D13B/D14A/D15B/D16A
+
+従来のER型、EV型およびEW型の後継エンジンにあたる。4代目[シビックの発売当時には](../Page/ホンダ・シビック.md "wikilink")「HYPER 16VALVE ENGINE」の呼称が用いられていた。吸・排気バルブはそれぞれ2個ずつで、アルミ製ロッカーアームで開閉される。[点火プラグ](../Page/点火プラグ.md "wikilink")が[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")の天井中央部に取付けられているが、カムシャフトを避けるために上側を吸気バルブ側に傾けている。
+
+燃料供給装置は搭載する車種や販売する国の[排出ガス規制に合わせ](../Page/自動車排出ガス規制.md "wikilink")、キャブレター（ダウンドラフト、固定ベンチュリ及びサイドドラフト、可変ベンチュリ型）仕様とPGM-FI（マルチポイント及びデュアルポイント-[スロットル](https://ja.wikipedia.org/wiki/スロットル "wikilink")ボディ噴射）仕様が用意される。キャブレターには[空燃比](../Page/空燃比.md "wikilink")をより精密に制御するための2次エアが導入されている（PGM-CARB.：電子制御キャブレター）。[エキゾーストマニホールド](https://ja.wikipedia.org/wiki/エキゾーストマニホールド "wikilink")も直下CAT\[1\]、4-1集合や4-2-1集合仕様が存在する。[A型エンジンなどに続きCVCCは採用されていない](../Page/ホンダ・A型エンジン.md "wikilink")。
+
+### SOHC VTEC
+
+  - D15B/D16A/D17A
+
+[B型エンジン等の](https://ja.wikipedia.org/wiki/ホンダ・B型エンジン "wikilink")[DOHC](../Page/DOHC.md "wikilink") [VTEC](../Page/VTEC.md "wikilink")とは異なり、高出力と実用性を両立するために、[可変バルブタイミング・リフト機構が装備されている](../Page/可変バルブ機構.md "wikilink")。当初は吸気側カムシャフトにのみハイ／ロー2種類のカム駒を設け、そこに接するロッカーアームを切り替え、吸排気バルブの開閉タイミング（バルブタイミング）とリフト量を変化させていた。
+
+その後、吸気バルブのうち片方をほぼ休止することにより燃焼室内にスワールを形成させ、燃焼速度の向上を図り[リーンバーン](https://ja.wikipedia.org/wiki/リーンバーン "wikilink")運転をする「[VTEC-E](https://ja.wikipedia.org/wiki/VTEC-E "wikilink")」が登場し、SOHC VTECとVTEC-Eを統合した「3ステージVTEC」（低速域\[2\]：吸気バルブのうち片方をほぼ休止しリーンバーン運転、中速域：吸気バルブ2バルブ運転、高速域：ハイカムによる高出力運転）が登場した。
+
+最終的には、ロッカーアームのカムとの摺動部にローラーフォロアを適用しフリクションの低減を図り、[ダイレクトイグニッション](https://ja.wikipedia.org/wiki/ダイレクトイグニッション "wikilink")を適用し燃焼の改善を行なった。
+
+### 2バルブSOHC
+
+  - D13B/D15B
+
+低速域性能を重視し、対角線上の吸・排気バルブを1つずつ削減した8バルブ仕様である。D13Bでは性能が66[PS](../Page/馬力.md "wikilink")/11.3kgf·mと、16バルブ仕様に比べて最大出力・トルクとも控えめであるが、1,300rpmで最大トルクの90%を、そして2,500rpmで最大トルクを発生し「ハーフスロットル高性能」と称していた。
+
+USA向けには超低[燃費](https://ja.wikipedia.org/wiki/燃費 "wikilink")仕様も存在しており、2代目[CIVIC CRX HFはCity](../Page/ホンダ・CR-X.md "wikilink") mode:41MPG（20.3km/L）/Highway mode:50MPG（24.8km/L）の燃費性能を実現している。
+
+## 歴史
+
+  - 1986年10月31日に発売された2代目[シティに](../Page/ホンダ・シティ.md "wikilink")、SOHC 4バルブ 1,200ccの**D12A**が初めて採用された。
+  - 1987年9月9日に発売された4代目シビック及び2代目CR-Xに、1,300ccの**D13B**、1,500ccの**D15B**が採用された。以後このクラスの主力エンジンとなった。D15BにはシングルキャブやPGM-FI仕様の他、[CVデュアルキャブ仕様も存在した](https://ja.wikipedia.org/wiki/キャブレター#可変ベンチュリ型 "wikilink")。
+  - 1991年9月10日に発売された5代目シビックに、低燃費化を計った吸気バルブ片側休止のVTEC-Eと通常のVTECを装着した**D15B**が初めて採用された。
+  - 1995年9月4日に発売された6代目シビックに、燃費と出力を両立した3ステージVTECを装着した**D15B**が初めて採用された。
+  - 1996年10月3日に発表された[ロゴに](../Page/ホンダ・ロゴ.md "wikilink")、低・中回転域のトルクを重視した2バルブ仕様の**D13B**が採用された。
+  - 1998年6月に発売された初代シビックGXに、天然ガス仕様の**D16A**が採用された。
+  - 2006年11月30日に[エディックスのマイナーチェンジによって](https://ja.wikipedia.org/wiki/ホンダ・エディックス "wikilink")、D型エンジンの生産も終了した。
+
+## バリエーション
+
+### D12A
+
+  - 弁機構：SOHC ベルト駆動 吸気2 排気2
+  - 排気量：1,237cc
+  - 内径×行程：72.0mm×76.0mm
+  - 燃料供給装置形式：キャブレター
+  - 参考スペック（GA1 シティ）
+      - 最高出力：56kW(76PS)/6,500rpm
+      - 最大トルク：98N·m(10.0kgf·m)/4,000rpm
+
+### D13A
+
+  - 弁機構：SOHC CVCC ベルト駆動 吸気2 排気1
+  - 排気量：1,342cc
+  - 内径×行程：74.0mm×78.0mm
+  - 燃料供給装置形式：キャブレター
+  - 参考スペック（EC2 シビック）
+      - 最高出力：45kW(60hp)/5,500rpm
+      - 最大トルク：99N·m(73ft·lbf)/3,500rpm
+
+### D13B
+
+  - シングルキャブレター
+
+<!-- end list -->
+
+  - 弁機構：SOHC ベルト駆動 吸気2 排気2
+  - 排気量：1,343cc
+  - 内径×行程：75.0mm×76.0mm
+  - 燃料供給装置形式：キャブレター
+  - 参考スペック（EG3 シビック）
+      - 最高出力：63kW(85PS)/6,300rpm
+      - 最大トルク：105N·m(10.7kgf·m)/4,500rpm
+
+<!-- end list -->
+
+  - 2バルブ
+
+<!-- end list -->
+
+  - 弁機構：SOHC ベルト駆動 吸気1 排気1
+  - 排気量：1,343cc
+  - 内径×行程：75.0mm×76.0mm
+  - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
+  - 参考スペック（GA3 ロゴ）
+      - 最高出力：49kW(66PS)/5,000rpm
+      - 最大トルク：111N·m(11.3kgf·m)/2,500rpm
+
+<!-- end list -->
+
+  - PGM-FI
+
+<!-- end list -->
+
+  - 弁機構：SOHC ベルト駆動 吸気2 排気2
+  - 排気量：1,343cc
+  - 内径×行程：75.0mm×76.0mm
+  - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
+  - 参考スペック（EK2 シビック）
+      - 最高出力：67kW(91PS)/6,300rpm
+      - 最大トルク：114N·m(11.6kgf·m)/4,800rpm
+
+### D13C
+
+  - シングルキャブレター
+
+<!-- end list -->
+
+  - 弁機構：SOHC ベルト駆動 吸気2 排気2
+  - 排気量：1,296cc
+  - 内径×行程：73.7mm×76.0mm
+  - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
+  - 参考スペック（GA2 シティ）
+      - 最高出力：60kW(82PS)/6,500rpm
+      - 最大トルク：103N·m(10.5kgf·m)/4,000rpm
+
+<!-- end list -->
+
+  - PGM-FI
+
+<!-- end list -->
+
+  - 弁機構：SOHC ベルト駆動 吸気2 排気2
+  - 排気量：1,296cc
+  - 内径×行程：73.7mm×76.0mm
+  - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
+  - 参考スペック（GA2 シティ）
+      - 最高出力：74kW(100PS)/6,500rpm
+      - 最大トルク：114N·m(11.6kgf·m)/5,500rpm
+
+### D14A
+
+  - デュアルキャブレター
+
+<!-- end list -->
+
+  - 弁機構：SOHC ベルト駆動 吸気2 排気2
+  - 排気量：1,396cc
+  - 内径×行程：75.0mm×79.0mm
+  - 燃料供給装置形式：キャブレター（CVデュアルキャブレター）
+  - 参考スペック（ED2 シビック）
+      - 最高出力：67kW(90hp)/6,300rpm
+      - 最大トルク：112N·m(13.2kgf·m)/4,500rpm
+
+<!-- end list -->
+
+  - PGM-FI
+
+<!-- end list -->
+
+  - 弁機構：SOHC ベルト駆動 吸気2 排気2
+  - 排気量：1,396cc
+  - 内径×行程：75.0mm×79.0mm
+  - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
+  - 参考スペック（MA8 シビック）
+      - 最高出力：66kW(89hp)/6,100rpm
+      - 最大トルク：117N·m(11.9kgf·m)/5,000rpm
+
+<!-- end list -->
+
+  - Dual point PGM-FI
+
+<!-- end list -->
+
+  - 弁機構：SOHC ベルト駆動 吸気2 排気2
+  - 排気量：1,396cc
+  - 内径×行程：75.0mm×79.0mm
+  - 燃料供給装置形式：電子制御燃料噴射式（Dual point PGM-FI）
+  - 参考スペック（EJ9 シビック）
+      - 最高出力：56kW(75hp)/5,700rpm
+      - 最大トルク：112N·m(11.4kgf·m)/3,000rpm
+
+### D15A
+
+  - シングルキャブレター
+
+<!-- end list -->
+
+  - 弁機構：SOHC CVCC ベルト駆動 吸気2 排気1
+  - 排気量：1,488cc
+  - 内径×行程：74.0mm×86.5mm
+  - 燃料供給装置形式：キャブレター
+  - 参考スペック（EC5 シビックワゴン）
+      - 最高出力：57kW(76hp)/5,500rpm
+      - 最大トルク：114N·m/3,500rpm
+
+<!-- end list -->
+
+  - PGM-FI
+
+<!-- end list -->
+
+  - 弁機構：SOHC CVCC ベルト駆動 吸気2 排気1
+  - 排気量：1,488cc
+  - 内径×行程：74.0mm×86.5mm
+  - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
+  - 参考スペック（EC3 シビック）
+      - 最高出力：68kW(91hp)/5,500rpm
+      - 最大トルク：126N·m/4,500rpm
+
+### D15B
+
+  - シングルキャブレター
+
+<!-- end list -->
+
+  - 弁機構：SOHC ベルト駆動 吸気2 排気2
+  - 排気量：1,493cc
+  - 内径×行程：75.0mm×84.5mm
+  - 燃料供給装置形式：キャブレター
+  - 参考スペック（EF2 シビック）
+      - 最高出力：67kW(91PS)/6,000rpm
+      - 最大トルク：119N·m(12.1kgf·m)/4,000rpm
+
+<!-- end list -->
+
+  - デュアルキャブレター
+
+<!-- end list -->
+
+  - 弁機構：SOHC ベルト駆動 吸気2 排気2
+  - 排気量：1,493cc
+  - 内径×行程：75.0mm×84.5mm
+  - 燃料供給装置形式：キャブレター（CVデュアルキャブレター）
+  - 参考スペック（EF6 CR-X）
+      - 最高出力：77kW(105PS)/6,500rpm
+      - 最大トルク：129N·m(13.2kgf·m)/4,500rpm
+
+<!-- end list -->
+
+  - Dual point PGM-FI
+
+<!-- end list -->
+
+  - 弁機構：SOHC ベルト駆動 吸気2 排気2
+  - 排気量：1,493cc
+  - 内径×行程：75.0mm×84.5mm
+  - 燃料供給装置形式：電子制御燃料噴射式（Dual point PGM-FI）
+  - 参考スペック（ED6 シビック）
+      - 最高出力：69kW(92hp)/6,000rpm
+      - 最大トルク：119N·m/4,500rpm
+
+<!-- end list -->
+
+  - PGM-FI
+
+<!-- end list -->
+
+  - 弁機構：SOHC ベルト駆動 吸気2 排気2
+  - 排気量：1,493cc
+  - 内径×行程：75.0mm×84.5mm
+  - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
+  - 参考スペック（EU1 シビック）
+      - 最高出力：77kW(105PS)/5,800rpm
+      - 最大トルク：135N·m(13.8kgf·m)/4,200rpm
+
+<!-- end list -->
+
+  - 2バルブ
+
+<!-- end list -->
+
+  - 弁機構：SOHC ベルト駆動 吸気1 排気1
+  - 排気量：1,493cc
+  - 内径×行程：75.0mm×84.5mm
+  - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
+  - 参考スペック（ED8 CR-X HF）
+      - 最高出力：54kW(72hp)/4,500rpm
+      - 最大トルク：113N·m(83 ft·lbf)/2,200rpm
+
+<!-- end list -->
+
+  - VTEC
+
+<!-- end list -->
+
+  - 弁機構：SOHC VTEC ベルト駆動 吸気2 排気2
+  - 排気量：1,493cc
+  - 内径×行程：75.0mm×84.5mm
+  - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
+  - 参考スペック（EG4 シビック）
+      - 最高出力：96kW(130PS)/6,800rpm
+      - 最大トルク：138N·m(14.1kgf·m)/5,200rpm
+
+<!-- end list -->
+
+  - VTEC-E
+
+<!-- end list -->
+
+  - 弁機構：SOHC VTEC-E ベルト駆動 吸気2 排気2
+  - 排気量：1,493cc
+  - 内径×行程：75.0mm×84.5mm
+  - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
+  - 参考スペック（EG4 シビック）
+      - 最高出力：69kW(94PS)/5,500rpm
+      - 最大トルク：131N·m(13.4kgf·m)/4,500rpm
+
+<!-- end list -->
+
+  - 3 Stage VTEC
+
+<!-- end list -->
+
+  - 弁機構：SOHC 3 Stage VTEC ベルト駆動 吸気2 排気2
+  - 排気量：1,493cc
+  - 内径×行程：75.0mm×84.5mm
+  - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
+  - 参考スペック（EK3 シビック）
+      - 最高出力：96kW(130PS)/7,000rpm
+      - 最大トルク：139N·m(14.2kgf·m)/5,300rpm
+
+### D16A
+
+  - PGM-FI
+
+<!-- end list -->
+
+  - 弁機構：SOHC ベルト駆動 吸気2 排気2
+  - 排気量：1,590cc
+  - 内径×行程：75.0mm×90.0mm\[3\]
+  - 圧縮比：9.4
+  - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
+  - 参考スペック（EK5 シビックフェリオ）
+      - 最高出力：88kW(120PS)/6,400rpm
+      - 最大トルク：144N·m(14.7kgf·m)/5,000rpm
+
+<!-- end list -->
+
+  - VTEC
+
+<!-- end list -->
+
+  - 弁機構：SOHC VTEC ベルト駆動 吸気2 排気2
+  - 排気量：1,590cc
+  - 内径×行程：75.0mm×90.0mm
+  - 圧縮比：9.6
+  - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
+  - 参考スペック（GH3 HR-V）
+      - 最高出力：92kW(125PS)/6,700rpm
+      - 最大トルク：144N·m(14.7kgf·m)/4,900rpm
+
+<!-- end list -->
+
+  - VTEC-E
+
+<!-- end list -->
+
+  - 弁機構：SOHC VTEC-E ベルト駆動 吸気2 排気2
+  - 排気量：1,590cc
+  - 内径×行程：75.0mm×90.0mm
+  - 圧縮比：9.4
+  - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
+  - 参考スペック（MB4 ドマーニ）
+      - 最高出力：88kW(120PS)/6,500rpm
+      - 最大トルク：144N·m(14.7kgf·m)/5,000rpm
+
+### D17A
+
+  - 弁機構：SOHC VTEC ベルト駆動 吸気2 排気2
+  - 排気量：1,668cc
+  - 内径×行程：75.0mm×94.4mm
+  - 圧縮比：9.9
+  - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
+  - 参考スペック（EU3 シビック）
+      - 最高出力：96kW(130PS)/6,300rpm
+      - 最大トルク：155N·m(15.8kgf·m)/4,800rpm
+
+## 搭載車種
+
+  - D12A
+
+<!-- end list -->
+
+  - [シティ](../Page/ホンダ・シティ.md "wikilink") （GA1）
+
+<!-- end list -->
+
+  - D13A
+
+<!-- end list -->
+
+  - [シビック](../Page/ホンダ・シビック.md "wikilink") （EC2）
+
+<!-- end list -->
+
+  - D13B
+
+<!-- end list -->
+
+  - シビック （EF1/EG3/7/EK2）
+  - [ロゴ](../Page/ホンダ・ロゴ.md "wikilink") （GA3/5）
+  - [パートナー](../Page/ホンダ・パートナー.md "wikilink") （EY6）
+
+<!-- end list -->
+
+  - D13C
+
+<!-- end list -->
+
+  - シティ （GA2）
+
+<!-- end list -->
+
+  - D15A
+
+<!-- end list -->
+
+  - シビック （EC3/4/5/6）
+  - [CR-X](../Page/ホンダ・CR-X.md "wikilink") （EC1）
+
+<!-- end list -->
+
+  - D15B
+
+<!-- end list -->
+
+  - シビック （EF2/4/EG4/8/EK3/EU1/2/ES1/2）
+  - CR-X （EF6）
+  - [コンチェルト](../Page/ホンダ・コンチェルト.md "wikilink") （MA1）
+  - [ドマーニ](../Page/ホンダ・ドマーニ.md "wikilink") （MA7/MB3）
+  - [インテグラSJ](../Page/ホンダ・インテグラSJ.md "wikilink") （EK3）
+  - [キャパ](../Page/ホンダ・キャパ.md "wikilink") （GA4/6）
+  - パートナー （EY7）
+  - CR-X delSol （EG1）
+  - [いすゞ・ジェミニ](https://ja.wikipedia.org/wiki/いすゞ・ジェミニ "wikilink") （MJ3/4）
+
+<!-- end list -->
+
+  - D16A
+
+<!-- end list -->
+
+  - シビック （EK5）
+  - [シビッククーペ](https://ja.wikipedia.org/wiki/ホンダ・シビッククーペ "wikilink") （EJ1/7）
+  - シビックGX （EJ7改）
+  - ドマーニ （MB4/5）
+  - パートナー （EY8/9）
+  - CR-X delSol （EJ4）
+  - [HR-V](../Page/ホンダ・HR-V.md "wikilink") （GH1/2/3/4）
+  - [ローバー・200](https://ja.wikipedia.org/wiki/ローバー・200 "wikilink")（XWD16）
+  - [ローバー・400](https://ja.wikipedia.org/wiki/ローバー・400 "wikilink")（XWD16）
+  - いすゞ・ジェミニ （MJ5/6）
+
+<!-- end list -->
+
+  - D17A
+
+<!-- end list -->
+
+  - シビック （EU3/4/ES3）
+  - シビッククーペ （EM2）
+  - シビックGX （EN2）
+  - [ストリーム](https://ja.wikipedia.org/wiki/ホンダ・ストリーム_\(自動車\) "wikilink") （RN1/2）
+  - [エディックス](https://ja.wikipedia.org/wiki/ホンダ・エディックス "wikilink") （BE1/2）
+
+## 脚注
+
+<references />
+
+## 関連項目
+
+  - [CVキャブレター](https://ja.wikipedia.org/wiki/キャブレター#可変ベンチュリ型 "wikilink")
+  - [VTEC](../Page/VTEC.md "wikilink")
+  - [VTEC-E](https://ja.wikipedia.org/wiki/VTEC-E "wikilink")
+  - [ホンダのエンジン型式一覧](https://ja.wikipedia.org/wiki/ホンダのエンジン型式一覧 "wikilink")
+  - [ZC型エンジン](../Page/ホンダ・ZC型エンジン.md "wikilink")
+  - [L型エンジン](https://ja.wikipedia.org/wiki/ホンダ・L型エンジン "wikilink")
+  - [R型エンジン](https://ja.wikipedia.org/wiki/ホンダ・R型エンジン "wikilink")
+
+## 外部リンク
+
+  - [本田技研工業](http://www.honda.co.jp/)（オフィシャル）
+
+[Category:本田技研工業のエンジン](https://ja.wikipedia.org/wiki/Category:本田技研工業のエンジン "wikilink")
+
+1.  シリンダーヘッドの出口直後で4気筒の排気管を集合させ、そこに排気触媒を取付けたものを言う。
+2.  エンジン回転数の正式名称はエンジン回転速度。 JIS B 0108-1による。
+3.  [ZC型エンジン](../Page/ホンダ・ZC型エンジン.md "wikilink")([DOHC](../Page/DOHC.md "wikilink")/SOHC 16バルブ)と同一のボア・ストロークである。

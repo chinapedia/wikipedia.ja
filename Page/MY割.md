@@ -1,0 +1,52 @@
+> この記事は[MY](https://ja.wikipedia.org/wiki/MY)から翻訳されています。
+
+
+**MY割**（まいわり）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月20日](../Page/2月20日.md "wikilink")に開始し、[2007年](../Page/2007年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")に『[誰でも割](../Page/誰でも割.md "wikilink")』に移行するまで行われていた[auの月額使用料割引サービスである](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")。
+
+## 概要
+
+このサービスが開始される以前は、家族で同じ会社を2台以上契約している場合は[家族割に加入することができるが](https://ja.wikipedia.org/wiki/家族割引サービス "wikilink")、家族に同じ会社を契約している人がいない場合は家族割に加入できないため、家族で同じ会社を契約している場合に比べて、割高となっていた。
+
+そこで、家族割に加入していない人でも家族割引適用時と同じ分だけ割引されるのがこのサービスである。
+
+## サービス内容
+
+この割引サービスはauでは初の、2年更新制の割引プランとなっている。
+
+サービス内容は2年更新で先行するボーダフォン（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）のサービスである[ハッピーボーナス](https://ja.wikipedia.org/wiki/ハッピーボーナス "wikilink")と類似しており、2年単位の契約をする代わりに、加入時から月額基本料金を36.5％割り引く。割引率は11年目まで徐々に上がり、11年目以降は50％になる。契約を解約しない限り、契約は2年ごとに自動的に更新される。
+
+なお「[年割](https://ja.wikipedia.org/wiki/年間割引サービス "wikilink")＋[家族割](https://ja.wikipedia.org/wiki/家族割引サービス "wikilink")」の場合と異なり、契約は2年単位の更新となるので更新月以外に解約した場合は、契約解除料が9,975円（税込）かかる。
+
+更新月の時点で家族割に入っていた場合は、「年割＋家族割」へ自動的に移行する。
+
+なお、[2007年](../Page/2007年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")からは[誰でも割](../Page/誰でも割.md "wikilink")が開始されることに伴い、MY割のユーザーは自動的に誰でも割へ移行する。また、[2007年](../Page/2007年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")以降は新規にMY割に加入することはできない。
+
+## 割引率
+
+WINの場合
+
+  - 1年目 - 36.5%
+  - 2年目 - 38%
+  - 3年目 - 39.5%
+  - 4年目 - 41%
+  - 5年目 - 42.5%
+  - 6年目 - 44%
+  - 7年目 - 45.5%
+  - 8年目 - 47%
+  - 9年目 - 48%
+  - 10年目 - 49%
+  - 11年目\~ - 50%
+
+## 他社の類似サービス
+
+  - 自分割引　- [ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")のサービス。[オレンジプランではauと同等のサービス](https://ja.wikipedia.org/wiki/オレンジ/ブループラン "wikilink")。なお[2007年](../Page/2007年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")からはブループランでも開始される。
+  - [ひとりでも割50](../Page/ひとりでも割50.md "wikilink") - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")のサービス。[2007年](../Page/2007年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")に開始。当初はMY割に追随する形で「ひとりでも割引」として提供される予定であったが、誰でも割の発表により内容と名称が改定されている。
+
+## 関連項目
+
+  - [家族割引サービス](https://ja.wikipedia.org/wiki/家族割引サービス "wikilink")
+  - [無期限くりこし](https://ja.wikipedia.org/wiki/無期限くりこし "wikilink")
+  - [縛り](../Page/縛り_\(携帯電話\).md "wikilink")
+  - [誰でも割](../Page/誰でも割.md "wikilink")
+
+[Category:携帯電話_(au)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(au\) "wikilink") [Category:携帯電話の料金システム](https://ja.wikipedia.org/wiki/Category:携帯電話の料金システム "wikilink")

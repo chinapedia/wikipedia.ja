@@ -1,0 +1,60 @@
+> この記事は[A1 NEWS STAGE](https://ja.wikipedia.org/wiki/A1_NEWS_STAGE)から翻訳されています。
+
+
+「**A1 NEWS STAGE**」（エーワン・ニュース・ステージ）は、[BS放送](https://ja.wikipedia.org/wiki/BS放送 "wikilink")の[グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")で放送されていた[競馬](../Page/競馬.md "wikilink")に関する[テレビ番組](../Page/テレビ番組.md "wikilink")である。
+
+## 放送時間
+
+原則的に、[中央競馬](https://ja.wikipedia.org/wiki/中央競馬 "wikilink")で[GI競走が開催された当日に放送されていた](../Page/グレード制.md "wikilink")。
+
+  - 初回放送 日曜日午後9:30-10:00
+  - 再放送 日曜日深夜0:30-1:00、翌月曜日深夜2:00-2:30
+
+年末年始や夏期には特別版が放送されていた時期もあった。
+
+## 概要
+
+  - グリーンチャンネルのスタジオに中央競馬の現役またはOBの[騎手](../Page/騎手.md "wikilink")・[調教師](https://ja.wikipedia.org/wiki/調教師 "wikilink")を招き、当日行われたGI競走を解説を交えながら回顧する。また、当日のレース結果や、その週の競馬に関するニュースなども取り上げる。実際に競馬に携わる人物による的確な解説が評判を呼んでいる。
+  - 各馬の位置取りについての解説には、『テンカイくん』（ダートレースの場合には『テンカイくん2』）と名付けられた、コースを描いたフリップを用いる。ただ、この『テンカイくん』は司会者以外の出演者には概ね不評である。特に[坂井千明](https://ja.wikipedia.org/wiki/坂井千明 "wikilink")は、番組中に堂々と「俺『テンカイくん』嫌いなんだよ」と言ったこともある。
+  - また、その週に行われた競走の中で、[写真判定](https://ja.wikipedia.org/wiki/写真判定 "wikilink")に持ち込まれた接戦をピックアップし、その判定に関係した馬の名前をもじった[駄洒落](https://ja.wikipedia.org/wiki/駄洒落 "wikilink")を交えながら紹介する「今週の大接戦」のコーナーが隠れた人気を呼んでいたが、[2009年](../Page/2009年.md "wikilink")の[フェブラリーステークス](https://ja.wikipedia.org/wiki/フェブラリーステークス "wikilink")の放送からコーナーが消滅した。
+  - 津島亜由子が担当していた時期の締めの挨拶は「おやすみかん」。
+  - 番組タイトルの「A1」の意味は公式には明らかにされていない。
+  - 2011年12月25日の放送をもって、番組終了。
+
+## 出演者
+
+### キャスター
+
+  - [相川梨絵](../Page/相川梨絵.md "wikilink")（2009年8月13日から）
+
+### 解説者
+
+  - [加藤和宏](https://ja.wikipedia.org/wiki/加藤和宏_\(JRA\) "wikilink")（調教師・元騎手）
+  - [木藤隆行](https://ja.wikipedia.org/wiki/木藤隆行 "wikilink")（[調教助手](https://ja.wikipedia.org/wiki/調教助手 "wikilink")・元騎手）
+  - [根本康広](../Page/根本康広.md "wikilink")（調教師・元騎手）
+  - [谷中公一](https://ja.wikipedia.org/wiki/谷中公一 "wikilink")（[調教助手](https://ja.wikipedia.org/wiki/調教助手 "wikilink")・元騎手）
+
+2010年は上記4人のローテーションとなっている。
+
+  - [藤田伸二](https://ja.wikipedia.org/wiki/藤田伸二 "wikilink")（騎手）
+  - [大西直宏](https://ja.wikipedia.org/wiki/大西直宏 "wikilink")（元騎手）
+  - 坂井千明（元騎手）
+  - [佐々木晶三](../Page/佐々木晶三.md "wikilink")（調教師・元騎手）
+  - [杉浦宏昭](../Page/杉浦宏昭.md "wikilink")（調教師・元騎手）
+
+## 過去の出演者
+
+### キャスター
+
+  - [小島友実](https://ja.wikipedia.org/wiki/小島友実 "wikilink")（2005年まで、2008年11月2日も津島の代役で司会を務めた）
+  - [津島亜由子](../Page/津島亜由子.md "wikilink")（2009年6月28日まで）
+
+## 関連項目
+
+  - [グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")
+
+## 外部リンク
+
+  - [グリーンチャンネル「A1 NEWS STAGE」](http://www.gch.jrao.ne.jp/a1/)
+
+[Category:グリーンチャンネル](https://ja.wikipedia.org/wiki/Category:グリーンチャンネル "wikilink")

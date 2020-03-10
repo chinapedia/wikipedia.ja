@@ -1,0 +1,1613 @@
+> この記事は[DMM.com](https://ja.wikipedia.org/wiki/DMM.com)から翻訳されています。
+
+
+**合同会社DMM.com**（ディーエムエム・ドット・コム、）は、[ECサイト](https://ja.wikipedia.org/wiki/ECサイト "wikilink")「**DMM.com**」を運営する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")。
+
+DMMグループは[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[加賀市](https://ja.wikipedia.org/wiki/加賀市 "wikilink")においてビデオレンタル店を開店したのを契機に、[アダルトビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")の販売、動画配信で急成長を遂げた\[1\]。 2018年現在、動画配信事業と[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")事業、[FX等の金融サービスを主力として](https://ja.wikipedia.org/wiki/外国為替証拠金取引 "wikilink")、オンライン英会話サービス、モノづくり支援事業、通販、オンラインレンタル、[電子書籍](../Page/電子書籍.md "wikilink")配信事業、[太陽光発電](../Page/太陽光発電.md "wikilink")事業、アミューズメント事業、フットボール事業、VAPE事業、[MVNO事業](https://ja.wikipedia.org/wiki/仮想移動体通信事業者 "wikilink")、[オンラインサロン](https://ja.wikipedia.org/wiki/オンラインサロン "wikilink")事業、アニメーション事業、仮想通貨関連事業など約40以上のサービスを展開している\[2\]\[3\]。
+
+DMMのインターネット事業は、[KCのインターネット部として始まり](https://ja.wikipedia.org/wiki/ケー・シー "wikilink")\[4\]、1998年7月にインターネット動画配信サイト「DMM（dmm.co.jp）」のサービスを開始し、2003年7月に株式会社デジタルメディアマートが動画やゲーム・電子書籍を配信するサイト「DMM.com」を開設した。
+
+「**DMM**」という社名の由来について、創業者である[亀山敬司](https://ja.wikipedia.org/wiki/亀山敬司 "wikilink")は元々それ自体は意味を持たないと語っており\[5\]、一方でIT部門立ち上げより責任者として携わっていた[松栄立也](https://ja.wikipedia.org/wiki/松栄立也 "wikilink")は「夢工場」を意味する「**D**rea**m** **M**ill」が由来であると語っている\[6\]。「**D**igital **M**edia **M**art」の略であるという由来解釈は後付けである（いわゆる[バクロニム](../Page/バクロニム.md "wikilink")）\[7\]。
+
+## 沿革
+
+  - 1986年 - [亀山敬司](https://ja.wikipedia.org/wiki/亀山敬司 "wikilink")が現・[DMM.com Baseを母体として石川県でレンタルビデオ店を開業](../Page/DMM.com_Base.md "wikilink")\[8\]\[9\]。
+  - 1990年 - [ファミコン店のフランチャイズを行う目的で](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")、後に[アダルトビデオの版権ビジネスを行う](https://ja.wikipedia.org/wiki/アダルトコンテンツ "wikilink")[北都を設立](../Page/CA_\(アダルトビデオ\).md "wikilink")\[10\]。
+  - 1997年 - 株式会社[ケー・シー](https://ja.wikipedia.org/wiki/ケー・シー "wikilink")（現・DMM.com Base）が本格的に物流業を開始。ハッピー片山津跡地（現 砂走公園）に物流センターを開設。
+  - 1998年7月7日 - KC物流センター（現 砂走公園）にてインディーズ[AV](../Page/AV.md "wikilink")の配信サイト「**DMM**」を開始\[11\]。
+  - 1999年
+      - VHS通販を開始。
+      - 11月17日 - 加賀市に株式会社デジタルメディアマート（現・DMM.com）設立。
+  - 2000年
+      - 4月 - 株式会社ドーガ（現・DMM.comラボ）を設立。
+      - 5月 - 株式会社[ジーオーティー](https://ja.wikipedia.org/wiki/ジーオーティー "wikilink")が、アダルトビデオ情報誌「月刊DMM（現・月刊FANZA）」を創刊\[12\]。
+      - 6月 - DMMライブチャットを開始\[13\]。
+      - 7月 - オンラインコミック（電子書籍）を開始\[14\]\[15\]。
+  - 2001年
+      - 5月 - DVD通販を開始。
+      - 9月 - 同人誌・同人ソフト通販を開始\[16\]。
+  - 2002年
+      - 株式会社デジタルメディアマート（現・DMM.com）の代表取締役社長に[松栄立也](https://ja.wikipedia.org/wiki/松栄立也 "wikilink")が就任。
+      - 本社を渋谷区恵比寿の[恵比寿ガーデンプレイス](https://ja.wikipedia.org/wiki/恵比寿ガーデンプレイス "wikilink")に移転。
+      - 7月 - 動画配信、通販をメインとしたインターネットサイト「DMM」をスタート。旧DMMの全ての有料サービスをドリームチャンネルに移行\[17\]。
+  - 2003年
+      - 4月 - DVDオンラインレンタル事業に参入。
+      - 7月4日 - 株式会社デジタルメディアマート、動画、ゲーム、電子ブック配信サイト「**DMM.com**」開設\[18\]。
+  - 2004年 - 月々定額で動画を楽しめる月額動画サービスを開始。電子書籍サービスを開始。
+  - 2005年 - オンラインレンタル事業に音楽CD・コミックスを追加。
+  - 2006年
+      - テレビCMの放送開始。
+      - ネットカフェ店舗向けVODサービスDMMチャンネル（現・FANZAチャンネル）を開始。
+  - 2007年6月 - マーケットプレイス公開。
+  - 2008年12月 - DMM.TVサービス開始\[19\]。
+  - 2009年
+      - 2月 - 月額動画サービスで[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink") LIVE\!\! ON DEMANDを開始\[20\] 。
+      - 3月 - SVC証券（現：[DMM.com証券](https://ja.wikipedia.org/wiki/DMM.com証券 "wikilink")）を買収し、FX事業に参入。
+      - 7月 - DMMFXをリリース。
+      - 8月 - DMM.TV for Blu-ray Discサービス開始\[21\]。
+  - 2010年
+      - 4月 - ファッション＆なんでもレンタルサービス（現・いろいろレンタル）を開始。
+      - 8月3日 - DMMポイントオークションサービス開始。
+      - 12月1日 - DMMクーポンサービス開始。
+  - 2011年
+      - 2月1日 - 株式会社デジタルメディアマートは株式会社DMM.comに、株式会社ドーガは株式会社DMM.comラボに社名変更。
+      - 4月13日 - DMM.水をサービス開始。
+      - 6月 - チャリティーオークションサービス開始。
+      - 9月12日 - DMMクーポンサービスを終了。
+      - 9月15日 - DMMポイントオークションサービスを終了。
+      - 12月 - [フィーチャー・フォン](https://ja.wikipedia.org/wiki/フィーチャー・フォン "wikilink")版オンラインゲームサービス開始\[22\]。
+  - 2012年
+      - 2月 - [太陽光発電](../Page/太陽光発電.md "wikilink")事業に参入。法人向け販売と[メガソーラーの建設もスタート](https://ja.wikipedia.org/wiki/日本の太陽光発電所 "wikilink")。
+      - 2月17日 - iPhoneとiPad対応の電子書籍ビューアーアプリ「DMM Books」をリリース。
+      - 4月 - スマートフォン版オンラインゲームサービス開始。
+      - 5月 - DMM×チャリロトサービス開始。
+      - 6月 - DMM通販の法人向け出店サービス「DMM.shops」を開始。
+      - 7月 - 「[2.5次元てれび](https://ja.wikipedia.org/wiki/2.5次元てれび "wikilink")」公開。
+      - 8月 - PC版オンラインゲームサービス開始\[23\]。
+      - 9月28日 - DMM.TV for Blu-ray Discサービスを終了。
+  - 2013年
+      - 4月 - 「[艦隊これくしょん](https://ja.wikipedia.org/wiki/艦隊これくしょん "wikilink")」公開。
+      - 5月 - オンライン英会話サービス開始。
+      - 7月 - 3Dプリントサービスの提供開始。株式会社OVERRIDE（現・DMM.com OVERRIDE）をグループ化。
+      - 8月 - 「DMMぱちタウン」サービス開始。
+      - 10月 - 「肉会」サービス開始。
+      - 11月 - DMMマネーカード(現・DMMプリペイドカード)を全国のコンビニエンスストアで販売開始。
+  - 2014年
+      - 3月 - [PlayStation Vitaにて動画配信サービスを提供開始](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")。
+      - 4月 - AV女優・アダルトビデオの賞イベント「DMMアダルトアワード（現：[FANZAアダルトアワード](https://ja.wikipedia.org/wiki/FANZAアダルトアワード "wikilink")）」開始。
+      - 8月 - 数量・地域限定で「DMMかき氷」の販売開始\[24\]。
+      - 11月 - VR動画サービススタート。
+      - 11月11日 - 秋葉原にハードウェア・スタートアップ支援施設「DMM.make AKIBA」を開設。
+      - 12月 - MVNO事業「DMM mobile」サービス開始\[25\]。
+  - 2015年
+      - 1月 - 「DMM.make ROBOTS」サービス開始。
+      - 2月 - 「DMM.make クラウドソーシング」サービス開始\[26\]。
+      - 5月 -アイドル応援アプリ「DMM.yell」サービス開始。
+      - 8月- WideWireWorks株式会社が株式会社DMM.futureworksへ社名変更し、DMMグループとなる。
+      - 8月6日- DMM.make STOREサービス開始\[27\]。
+      - 9月- 海外版DMM.make STOREサービス開始\[28\]。
+      - 9月- 3DCGホログラフィック専用エンタテイメント劇場 [DMM VR THEATERが横浜駅西口にオープン](https://ja.wikipedia.org/wiki/DMM_VR_THEATER "wikilink")。
+      - 10月 - [PlayStation 4用動画アプリを提供開始](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")\[29\]。
+  - 2016年
+      - 1月 - ゲーム系[まとめサイト](../Page/まとめサイト.md "wikilink")・「はちま起稿」を買収。その後、10月に株式会社インサイトへ売却\[30\]。
+      - DMMぱちタウンの広告事業を株式会社ティーアイエスから株式会社DMM.comに移管。
+      - 2月 - 「DMMラウンジ（現・[DMMオンラインサロン](https://ja.wikipedia.org/wiki/DMMオンラインサロン "wikilink")）」サービス開始。
+      - 3月 - アフリカ新規事業「DMM.Africa」開始。
+      - 5月 - 「DMM講演依頼」サービス開始。
+      - 6月 - 「DMM Starter」サービス開始。
+      - 7月 - 法人向けサービス「DMMでんき」リリース\[31\]
+      - 7月 - フジテレビ「お台場みんなの夢大陸2016」内にて、DMM.com・チームラボ・フジテレビによる「DMM.プラネッツArt by teamLab」を開催。
+      - 9月 - 人権団体「ヒューマンライツ・ナウ」の[児童ポルノ](https://ja.wikipedia.org/wiki/児童ポルノ "wikilink")に関する報告書の指摘を受け、制作時点で18歳未満の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")（[ジュニアアイドル](../Page/ジュニアアイドル.md "wikilink")）・[タレント](../Page/タレント.md "wikilink")が出演する[イメージビデオ](https://ja.wikipedia.org/wiki/イメージビデオ "wikilink")の取り扱いを全面停止\[32\]。
+      - 10月 - アダルトビデオメーカー[株式会社CAを売却](../Page/CA_\(アダルトビデオ\).md "wikilink")。
+      - 12月 - フレーバーキット「FLEVO」販売。
+      - 12月 - 一般社団法人DMMアカデミーを設立。
+      - 12月 - [企業間取引](https://ja.wikipedia.org/wiki/企業間取引 "wikilink")マッチング家事代行サービス「DMM Okan(オカン)」サービススタート。
+  - 2017年
+      - 1月 - DMM.comとDMM.comラボの代表取締役社長に[片桐孝憲](https://ja.wikipedia.org/wiki/片桐孝憲 "wikilink")が就任。
+      - 1月11日 - DMM.comが株式会社アイジェットの全株式を取得し、子会社化。
+      - 1月27日 - DMM.comがピックアップ株式会社と株式会社nana musicの株式を取得し、子会社化\[33\]。
+      - 2月 - DMM.comグループの持株会社株式会社DMMホールディングス（現・株式会社DGホールディングス）を設立し、[亀山敬司](https://ja.wikipedia.org/wiki/亀山敬司 "wikilink")が会長に、[松栄立也](https://ja.wikipedia.org/wiki/松栄立也 "wikilink")が社長に就任。
+      - 2月 - 留学エージェント事業「DMM留学」を開始 \[34\]。
+      - 2月 - DMM.comがシナプス株式会社の株式を取得し、子会社化\[35\]。
+      - 3月 - 本社を[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[六本木](../Page/六本木.md "wikilink")の[六本木グランドタワーに移転](https://ja.wikipedia.org/wiki/住友不動産六本木グランドタワー "wikilink")\[36\]。
+      - 3月 - アニメーションレーベル「DMM pictures」設立 \[37\]。
+      - 4月 - [ルワンダ](../Page/ルワンダ.md "wikilink")共和国でソフトウェア開発・運営を行うHEHE LABS Ltd.の全株式を取得し、完全子会社化。 ルワンダ共和国で公共交通機関向けの電子マネー事業を行う AC GROUP Ltd.に出資\[38\]。
+      - 4月26日 - [PlayStation 4用動画アプリが](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")[PlayStation VRに対応](https://ja.wikipedia.org/wiki/PlayStation_VR "wikilink")\[39\]。
+      - 5月 - グループ各社の管理部門業務（本社機能）を株式会社DMM.com Baseから株式会社DMMホールディングス（現・株式会社DGホールディングス）へ移管\[40\]。
+      - 6月 - DMMグループがサッカーベルギー1部リーグ[シント＝トロイデンVV](https://ja.wikipedia.org/wiki/シント＝トロイデンVV "wikilink")を運営する、STVV N.V.の一部株式を取得し、パートナーシップを締結。
+      - 7月 - 定額制PCゲームソフト遊び放題サービス「DMM GAMES PREMIUM」を開始\[41\]。
+      - 8月 - DMM.com証券とDMMドリームクラブが、競走用馬ファンド「DMMバヌーシー」の募集開始。
+      - 8月 - 独自の暗号通貨を用いたクリエイター支援サービスの展開をしている株式会社Onokuwaに出資\[42\]。
+      - 9月 - ライブ配信アプリ「LIVEcommune」をリリース\[43\]。
+      - 10月 - 仮想通貨のマイニング事業「DMMマイニングファーム」の運営を開始\[44\]。
+      - 11月 - オンラインくじ事業「DMMスクラッチ」がサービス開始\[45\]。
+      - 11月 - ベルギー1部リーグの[シント＝トロイデンVV](https://ja.wikipedia.org/wiki/シント＝トロイデンVV "wikilink")の経営権を取得したことを発表。\[46\]
+      - 11月 - アプリ「CASH」運営の株式会社バンクを子会社化。
+      - 12月 - 株式会社[ビデオマーケット](https://ja.wikipedia.org/wiki/ビデオマーケット "wikilink")と動画配信サービスで業務提携\[47\]。
+      - 12月 - VR動画サービスが[Windows Mixed Realityに対応](https://ja.wikipedia.org/wiki/Windows_Mixed_Reality "wikilink")。
+      - 12月 - 「[DMM かりゆし水族館](https://kariyushi-aquarium.com/)（仮称）」プロジェクトを発表\[48\]。
+      - 12月 - 株式会社DMM FX ホールディングスが、株式会社[テコテック](https://ja.wikipedia.org/wiki/テコテック "wikilink")から株式会社東京ビットコイン取引所の全株式を取得し、子会社化。同月12日に株式会社東京ビットコイン取引所を株式会社DMM Bitcoinへ商号変更\[49\]。
+
+<!-- end list -->
+
+  - 2018年
+      - 1月4日 - 仮想通貨のマイニングに用いるマイニングマシンの研究開発チームの「DMMマイニングラボ」を新設\[50\]。
+      - 1月11日 - DMM Bitcoinが、仮想通貨取引所「DMM Bitcoin」開始\[51\]
+      - 1月17日 - ブロックチェーン技術を使ったスマートコントラクト事業を開始\[52\]。
+      - 1月18日 - 株式会社スマートエナジーと提携し、太陽光発電システムの日常監視からトラブル復旧、保安や除草など、太陽光発電所の運転・保守点検サービスであるDMM energy O\&Mの提供を開始\[53\]。
+      - 1月24日 - [東京エレクトロン デバイスから献立提案サービス](../Page/東京エレクトロン_デバイス.md "wikilink")「ohganic（オーガニック）」を取得し、再開\[54\]。
+      - 1月25日 - 3Dプリントのマスプロダクションサポートサービスを開始\[55\]。
+      - 3月1日 - 株式会社DMM.comと株式会社DMM.comラボのゲーム事業の権利義務の一部を合同会社DMM GAMESへ、株式会社DMM.comのインターネットサービス事業の権利義務の一部を株式会社デジタルコマースへ承継\[56\]。
+      - 3月26日 - DMM.comラボが早稲田大学理工学術院と共同研究室 「早稲田・DMM AIラボ」を設立\[57\]。
+      - 3月30日 - 音楽レーベル「DMM music」を設立\[58\]。
+      - 4月4日 - DMM.make AKIBA、モノづくり施設や工房サービスを開始・導入を検討する企業向けコンサルティングサービス「DMM.make AKIBA メイカースペース支援サービス」を開始\[59\]
+      - 4月4日 - DMM.com証券が、国内株式のオンライントレード「DMM株」の提供を開始\[60\]。
+      - 4月13日 - DMMグループが、非大卒育成事業を運営する株式会社ハッシャダイを子会社化\[61\]。
+      - 4月19日 - DMM picturesにてプロダクト・プレイスメント事業を開始\[62\]。
+      - 4月25日 - 坂部三樹郎とDMM.makeの協業によるファッションブランド「GIDDY UP」を発表\[63\]。
+      - 5月15日 - 健康的な献立レシピ提案アプリ「MENUS(メニューズ)」を正式リリース\[64\]。
+      - 5月15日 - 合同会社DMM GAMES、DMM GAMESプラットフォームのオープン化を開始\[65\]。
+      - 5月17日 - DMMのVR動画サービスが「Oculus Go」に対応開始\[66\]。
+      - 5月24日 - DMM.com 水族館およびリゾート関連の企画運営を行う子会社「株式会社[DMM RESORTS](https://ja.wikipedia.org/wiki/DMM_RESORTS "wikilink")」を設立\[67\]。
+      - 5月25日 - 株式会社DMM.comを合同会社DMM.comに組織変更。
+      - 6月1日 - 合同会社DMM.comを存続会社として株式会社DMM.comラボを合併\[68\]。
+      - 6月1日 - 合同会社DMM.com、STVV N.V.、株式会社Candee、[トランスコスモス](../Page/トランスコスモス.md "wikilink")株式会社の4社共同で、スタジアムのICT化を目指した「Connected Stadium（コネクテッドスタジアム）事業」を開始\[69\]。
+      - 6月5日 - クルマ売却アプリ「DMM AUTO（オート）」のiOS版の提供を開始\[70\]。
+      - 6月 - 株式会社DMM RESORT、映像展示開発部門「Creative Studio Mzo（ムゾウ）」を設立。
+      - 7月7日 - DMM.comが20周年を迎える\[71\]。
+      - 7月7日 - 「チームラボプラネッツTOKYO DMM.com」を東京豊洲にオープン\[72\]。
+      - 7月24日 - 株式会社DMM RESORTSがOSC株式会社との業務委託契約の基本合意を締結\[73\]。
+      - 8月 - 吸収分割により株式会社DGホールディングスの持分の保有を通じた投資先の経営管理事業に関する権利義務の一部を株式会社DMM GAMESホールディングスに継承\[74\]。
+      - 8月1日 - 株式会社デジタルコマース運営のアダルト事業「DMM.R18」が「[FANZA](https://ja.wikipedia.org/wiki/FANZA "wikilink")（ファンザ）」に名称変更。「FANZA」のシステム運用・構築は、引き続き合同会社DMM.comが継続管理していくことを株式会社デジタルコマースと合意\[75\]。
+      - 8月1日 - DMM20周年キャンペーン応援大使にバーチャルユーチューバー「星名こむ」が就任\[76\]。
+      - 8月23日 - 企業向けオリジナルユニフォーム制作サービス「DMM uni」を サービス開始\[77\]。
+      - 9月18日 - DRONE SPORTS株式会社が運営する日本初のプロフェッショナルドローンレーシングチーム「RAIDEN RACING」のオフィシャルスポンサー契約を締結し、「DMM RAIDEN RACING」へチーム名を変更\[78\]。
+      - 9月19日 - DMM GAMES、ベンチャー企業に対する投資や共創推進を行うコーポレートベンチャーキャピタル「DMM GAMES Ventures」を設立\[79\]。
+      - 9月28日 - 出版レーベル「DMM PUBLISHING（パブリッシング）」を設立し、オンラインサロンを書籍化・販売を開始\[80\]。
+      - 10月1日 - 旅行事業「DMM TRAVEL」を開始\[81\]。
+      - 10月4日 - DMM競輪内に競輪専門メディアサイト「Odds Navi」を開設\[82\]。
+      - 10月4日 - ベンチャーコミュニティ活性化に向けたマイノリティ出資「DMM VENTURES」を設立\[83\]。
+      - 10月31日 - 株式会社終活ねっとを買収し\[84\]、ライフエンディング事業に参入。
+      - 11月・12月 - DMM VENTURES、Cutesy, Inc.と株式会社LOAD＆ROADに出資\[85\]
+      - 11月21日 - プログラミング教育「WEBCAMP」の株式会社インフラトップを買収\[86\]。
+      - 11月26日 - 株式会社レイヴンより、クイズ買取サイト「AQUIZ（アクイズ）」を事業譲受\[87\]。
+      - 12月4日 - 株式会社日立物流、佐川急便株式会社と共同で日立物流京浜物流センター内に3D造形物の生産拠点を設置\[88\]。
+      - 12月18日 - 株式会社インフラトップが運営するエンジニアへのキャリアチェンジを保証するプログラミングスクール「WEBCAMP PRO」のサービス名を「DMM WEBCAMP」に変更\[89\]。
+  - 2019年
+      - 2月1日 - 合同会社DMM.comを存続会社として株式会社ネクストカレンシーを合併。
+      - 2月1日 - 株式会社ジーニアスとのとの共同事業、ノベルゲーム配信サービス「DMM App Drama」をリリース開始\[90\]。
+      - 2月8日 - 株式会社DMM RESORTSがフューチャークリエーション株式会社と業務提携契約を締結し、2020年4月開業予定の「DMMかりゆし水族館」施設内に従業員向け保育施設設置\[91\]。
+      - 2月12日 - 合同会社DMM GAMESが、韓国におけるゲーム事業展開のため「DMM GAMES KOREA Co., Ltd.」を設立\[92\]。
+      - 3月18日 - 株式会社DMM RESORTSが有限会社コノ街デザインと包括連携協定を締結\[93\]。
+      - 4月9日 - 仮想通貨管理サービス「D・Asset」のβ版をリリース\[94\]。
+      - 4月12日 - 消防車両事業を展開するハードウェアベンチャー株式会社ベルリングを買収\[95\]。
+      - 5月 - DMM VENTURES、株式会社穴熊に出資\[96\]
+      - 5月21日 - 酒販免許を取得し、酒販事業に参入。第一弾として、ケニア産ワインのブランド「Leleshwa（レレシュワ）」を国内で販売\[97\]。
+      - 6月 - 株式会社DGホールディングス、新設分割により株式会社六本木アセットマネジメントに対して当社の株式又は持分の保有を通じた投資先の経営管理事業の権利義務の一部を継承\[98\]。
+      - 7月16日 - 舞台事業を中心とするエンターテインメントレーベル「DMM STAGE」を設立\[99\]
+      - 8月7日 - 石川県[加賀市](https://ja.wikipedia.org/wiki/加賀市 "wikilink")と3Dプリント技術の提供・連携を基本とした包括連携協定を締結\[100\]
+      - 8月9日 - 山形県[山形市](../Page/山形市.md "wikilink")と地方創生の推進に向けた包括連携協定を締結\[101\]
+      - 8月・9月 - DMM VENTURES、株式会社ココドル、Bisu, Inc.、株式会社ジャパンヘルスケアの3社に出資\[102\]
+      - 9月 - 会社分割により、MVNO事業「DMM mobile」およびフレッツ光を利用した高品質インターネットサービス事業「DMM光」を、[楽天モバイル株式会社へ譲渡](https://ja.wikipedia.org/wiki/楽天モバイル_\(企業\) "wikilink")\[103\]
+      - 9月5日 - オートレースくじ「DMM百万長者」サービス提供開始\[104\]
+      - 9月12日 - DMM.com VR研究室 開発のVRシューティングゲーム「BOW MAN」リリース\[105\]
+      - 9月25日 - 中古農機流通事業を展開する株式会社ファーマリーを買収\[106\]
+      - 10月 - フランス発エンジニア養成機関一般社団法人42Tokyoを設立\[107\]
+      - 10月 - DMM VENTURES、株式会社ルミナスと株式会社ペンマークに出資\[108\]
+      - 11月 - DMM VENTURES、株式会社ダリアミーに出資\[109\]
+      - 11月20日 - 金沢大学と地方創生に資するアントレプレナーシップ教育推進に関する連携協定を締結\[110\]
+  - 2020年
+      - 1月1日 - 株式会社ティーアイエス、100％子会社の[ホビボックス](https://ja.wikipedia.org/wiki/ホビボックス "wikilink")を吸収合併\[111\]
+      - 1月29日 - 株式会社DMM RESORTSが有限会社[東南植物楽園](https://ja.wikipedia.org/wiki/東南植物楽園 "wikilink")と業務提携契約を締結\[112\]
+      - 2月5日 - 株式会社AlgoAgeと資本業務提携
+
+## グループ会社
+
+グループ会社は下記の通り。DMMグループの創業者で会長の[亀山敬司](https://ja.wikipedia.org/wiki/亀山敬司 "wikilink")が株式の大半を所有（間接所有・直接所有）している一方、上場企業でないため、[企業情報](https://ja.wikipedia.org/wiki/企業情報 "wikilink")に関する内容も限られ、グループ企業の全容は不透明な点も多い\[113\]。
+
+  - 株式会社DGホールディングス - DMM.comグループ全体の本社機能として経理・財務、法務、総務を担当。旧社名はDMMホールディングス。
+      - 株式会社DMM.comホールディングス - 中間持株会社。
+          - 合同会社DMM.com - 「DMM.com」の企画営業、マーケティング、システム開発・運営、ネットワークインフラの提供。旧社名デジタルメディアマート。代表社員：株式会社DMM.comホールディングス\[114\]
+          - 株式会社[DMM.futureworks](https://ja.wikipedia.org/wiki/DMM.futureworks "wikilink") - アニメーション制作、映像制作·演出。アニメーション制作スタジオ「[ダブトゥーンスタジオ](https://ja.wikipedia.org/wiki/DMM.futureworks#ダブトゥーンスタジオ "wikilink")」を所有\[115\]。旧社WideWireWorks。
+          - 株式会社[DMM RESORTS](https://ja.wikipedia.org/wiki/DMM_RESORTS "wikilink") - 2020年開業予定の水族館 ｢[DMMかりゆし水族館](https://ja.wikipedia.org/wiki/DMMかりゆし水族館 "wikilink")」の運営、およびエンタテイメント・リゾート関連全般のプロデュース、映像展示の開発。映像展示開発部門「Creative Studio Mzo（ムゾウ）」を保有。本社：[豊見城市](../Page/豊見城市.md "wikilink")。DMM.comの子会社。
+          - [KONINKLIJKE SINT-TRUIDENSE VOETBALVERENIGING NV](https://stvv.jp/) (STVV N.V.）- DMMフットボール事業として[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")のサッカークラブ「[シント＝トロイデンVV](https://ja.wikipedia.org/wiki/シント＝トロイデンVV "wikilink")」の運営。DMM.comの子会社\[116\]。
+          - [DMM.HEHE Ltd.](https://www.hehelabs.com/) - モール型ECサイト事業（生鮮食品販売等）\[117\]。本社は[ルワンダ](../Page/ルワンダ.md "wikilink")共和国[キガリ](https://ja.wikipedia.org/wiki/キガリ "wikilink")市\[118\]。
+          - [ピックアップ株式会社](http://picappinc.jp/) - スマートフォン向けサービスの企画・開発・運営。チャット型小説アプリ「DMM TELLER」、写真保存アプリ「POOL」、スクリーンショット管理アプリ「cap」の運営。DMM.comの完全子会社。
+          - [株式会社nana music](https://nana-music.co.jp/) - 音楽コミュニティサービス「nana」の企画、開発及び運営。DMM.comの子会社。
+          - [株式会社終活ねっと](https://syukatsulabo.jp/) - 葬儀・お墓などのライフエンド領域の情報ポータル。合同会社DMM.comが株式の51%を保有\[119\]。
+          - [株式会社インフラトップ](http://infratop.jp/) - プログラミング教育事業、人材関連事業。合同会社DMM.comが株式の60%を保有\[120\]。
+          - [株式会社ベルリング](https://www.belling.co.jp/) - 消防自動車の開発・設計・製造・販売。合同会社DMM.comが株式の100%を保有\[121\]
+          - 株式会社ファーマリー - 中古農機具の仕入れ、販売、納品、メンテナンス。合同会社DMM.comが株式の51%を保有\[122\]
+          - [株式会社フューチャーコミックス](https://www.futurecomics.com/) - デジタル漫画を主とした出版業。
+          - [Live Styles株式会社](http://livestyles.tv/) - 電子チケットアプリ「tixeebox」の運営\[123\]。
+      - 株式会社DMM GAMESホールディングス - 中間持株会社。
+          - 合同会社DMM GAMES - ゲームの企画・開発・運営事業。代表社員：DMM GAMESホールディングス\[124\]
+          - [株式会社DMM.com OVERRIDE](https://www.override.co.jp/) - オンラインゲーム開発・運営、アプリコンテンツ開発、Webアプリケーション開発。旧社オーバーライド、OVERRIDE。本社：[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")。
+      - 株式会社DMM FXホールディングス - 株主：DGホールディングス\[125\]
+          - 株式会社[DMM.com証券](https://ja.wikipedia.org/wiki/DMM.com証券 "wikilink") - [外国為替証拠金取引](https://ja.wikipedia.org/wiki/外国為替証拠金取引 "wikilink")や[差金決済取引](https://ja.wikipedia.org/wiki/差金決済取引 "wikilink") (CFD) 取引、国内株式のオンライン取引。DMMバヌーシーの愛馬会法人。旧社名SVC證券。株主：DMM FXホールディングス 100%\[126\]。
+          - [株式会社DMM FinTech](http://fcons.co.jp/) - 金融サービスの開発および提供、競走馬保険代理店。旧社名FINANCIAL CONSULTING。DMM FXホールディングスの子会社。
+          - 株式会社[DMM Bitcoin](https://ja.wikipedia.org/wiki/DMM_Bitcoin "wikilink") - 仮想通貨交換業及び金融付帯業。東京ビットコイン取引所から商号変更。株主：DMM FXホールディングス
+  - 株式会社PLANETS - 「teamLab Planets TOKYO」の施設運営と管理および飲食店の経営と管理。
+  - 株式会社[DMM.com Base](../Page/DMM.com_Base.md "wikilink") - 物流センターとしてのサービス業全般、DVDなどの製造・加工業務、3Dプリント業務。アミューズメントパーク「KC」の運営。旧社名は北都観光→ケー・シー\[127\]。本社：[加賀市](https://ja.wikipedia.org/wiki/加賀市 "wikilink")。
+  - [株式会社ハッシャダイ](https://hassyadai.com/) - 非大卒育成事業、リブランディング事業、ヤンキーインターン事業\[128\]。
+  - [株式会社ハッシャダイファクトリー](http://factory.hassyadai.com/) - 派遣業。旧社名株式会社DMM.Staff。
+  - 株式会社[デジタルコマース](https://ja.wikipedia.org/wiki/デジタルコマース "wikilink") - インターネット関連事業。ECサイト「FANZA」の運営、DMM.comでの見放題chライト、DVD/CDレンタル、コミックレンタルの運営。株主：DGホールディングス\[129\]。
+  - 株式会社ティーアイエス - 全国販売店・レンタル店への営業・販売促進、グループの営業支援、映像のソフトウェアの販売・コンサルタント業、広告・宣伝代理業、二次元コンテンツ（PCゲーム・ドラマCD・アニメ）事業、ホテル向けコンビニBOX商材・冷凍食品・アメニティグッズ・コスチューム・VOD「FANZAチャンネル」・ホテル情報サイト「ほてるタウン」等の販売。株主：DGホールディングス\[130\]。
+  - [株式会社ジーオーティー](https://ja.wikipedia.org/wiki/ジーオーティー "wikilink") - 雑誌・コミックス・写真集の出版、DVDソフトの受託販売、全年齢向け無料コミックサイト「MeDu」などのWebメディアの運営。アダルトビデオ情報誌「月刊FANZA」を発行。株主：亀山敬司 100%\[131\]。
+  - [DMMドリームクラブ](https://ja.wikipedia.org/wiki/DMMドリームクラブ "wikilink")株式会社 - 競走用馬の保有、育成、管理、販売。競走用馬関連投資業務\[132\]。DMMバヌーシーのクラブ法人。 株主：亀山敬司 \[133\]。
+  - [AC Group](http://acgroup.rw/) - ルワンダ共和国キガリ市のテクノロジー企業。公共交通機関向けの非接触型電子決済システム「Tap & Go」の運営\[134\]。
+  - [DMM.Kenya](https://dmmkenya.co.ke/) - [ケニア](../Page/ケニア.md "wikilink")法人\[135\]。デジタルネイルプリンターの販売、ケニア産ワイン「Leleshwa（レレシュア）」の輸出\[136\]。
+  - DMM.Ghana - [ガーナ](../Page/ガーナ.md "wikilink")法人\[137\]。デジタルネイルプリンターの販売。
+  - DMM.Tanzania - [タンザニア](../Page/タンザニア.md "wikilink")法人\[138\]\[139\]。
+  - ANOHOU Solutions - [コートジボワール](../Page/コートジボワール.md "wikilink")法人。アプリを開発を行うIT企業。
+  - [Bibo Global Opportunity, Inc.](https://bibo.com.ph/) - オンライン英会話事業を行う[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")法人\[140\]。
+  - DMM technologies - [ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")法人、tec関連事業（ハイテク農業事業）\[141\]。
+  - DMM GAMES KOREA Co., Ltd. - DMM GAMESの韓国法人\[142\]。
+  - 株式会社アイジェット - 3Dプリント事業\[143\]。DMM.comの完全子会社。業務を「DMM.make 3Dプリント」に移管。
+  - シナプス株式会社 - 旧社名株式会社モバキッズ。オンラインサロン「Synapse」の運営。DMM.comの子会社。業務を「DMM オンラインサロン」に統合。
+  - 株式会社スペースナイン - 広告事業\[144\]。
+
+### 過去のグループ会社
+
+  - [株式会社CA](../Page/CA_\(アダルトビデオ\).md "wikilink") - 旧社名北都。株式会社ABC（現社名・[株式会社WILL](https://ja.wikipedia.org/wiki/WILL_\(アダルトビデオ\) "wikilink")）に吸収合併\[145\]。ファミコン販売店のフランチャイズを行う目的で設立されたが、その後アダルトビデオの企画・制作・販売に事業転換。DMM ver3\[146\]の運営業務を行っていた。
+  - 株式会社ディーエムエム - DMM（DMM.co.jp）の旧運営会社\[147\]\[148\]。
+  - 有限会社エスエムエス - 2002年から2005年3月までのDMM（DMM.co.jp）の運営会社\[149\]\[150\]。かつてジーオーティーのアダルトビデオの受審業務を行っていた。
+  - 株式会社DMM.com Graphics - グラフィック制作会社。DMM.comラボに吸収合併\[151\]。
+  - [株式会社2.5次元てれび](https://ja.wikipedia.org/wiki/2.5次元てれび "wikilink") - DMM.comに吸収合併\[152\]。
+  - 株式会社ユーメイド - 出版業\[153\]。ジーオーティーに吸収合併。
+  - 株式会社光DMM.com - 光通信グループとの合弁企業。株式会社DMM.comに吸収合併\[154\]。
+  - 株式会社CryptoCurrency Consulting - 仮想通貨の取引システムを開発・運用\[155\]。株式会社FINANCIAL CONSULTINGに吸収合併\[156\]。
+  - DMMダービードリームクラブ株式会社 - 2018年2月に清算結了。
+  - 株式会社DMM.comラボ - グループ全体のシステム開発・運営、ネットワークインフラの提供、Webマーケティング。旧社名ドーガ。合同会社DMM.comに吸収合併。
+  - ワールドフィールドネットワーク株式会社 - アダルトグッズの販売。ティーアイエスに吸収合併\[157\]。
+  - 株式会社バンク - 即時買取アプリ「CASH」、前払い旅行代理店「Travel Now」の企画、開発及び運営。DMM.comが、2017年10月にバンクの全株式を光本勇介氏より70億円で取得して完全子会社化、2018年11月6日付で光本勇介氏に対して全株式を5億円で売却\[158\]。
+  - 株式会社ネクストカレンシー - 仮想通貨交換業（リリース中止）。株式会社DMM Gamesから商号変更。合同会社DMM.comに吸収合併。
+  - 一般社団法人DMMアカデミー - 高等学校卒業資格を有する若者に対し、職業上必要な知識、技能及び経験を得る機会を提供\[159\]。2019年解散\[160\]。
+  - [ホビボックス](https://ja.wikipedia.org/wiki/ホビボックス "wikilink")株式会社\[161\] - ２次元コンテンツ（PCゲーム・ドラマCD・アニメ）の企画・制作・販売、通販業務代行サービス「ECオーダー.com」の運営。ティーアイエスの子会社。
+
+## 金融事業
+
+  - DMM FX ※[DMM.com証券](https://ja.wikipedia.org/wiki/DMM.com証券 "wikilink")が運営するFX（[外国為替証拠金取引](https://ja.wikipedia.org/wiki/外国為替証拠金取引 "wikilink")）サービス
+  - DMM CFD ※DMM.com証券が運営するCFD （[差金決済取引](https://ja.wikipedia.org/wiki/差金決済取引 "wikilink")）サービス
+  - DMMバヌーシー ※DMM.com証券とDMMドリームクラブが運営する競走用馬ファンドサービス。
+  - DMM株 ※DMM.com証券が運営する国内株式と米国株式の株式取引サービス
+  - [DMM Bitcoin](https://ja.wikipedia.org/wiki/DMM_Bitcoin "wikilink")
+
+## DMM GAMES
+
+合同会社DMM GAMES（ディーエムエムゲームズ）は、プラットフォーム事業、パブリッシング事業、ゲーム開発・企画事業、e-スポーツ事業、投資支援、海外事業を行う日本の企業。
+
+元々はDMM.comのゲーム事業部だったが、2018年3月1日に合同会社DMM GAMESとして独立・分社化した。北海道に開発拠点があるDMM.com OVERRIDEと共にDMM GAMES グループを形成している。
+
+ダウンロード型オンラインゲームをインストール・起動するには『DMM GAME PLAYER』のインストールが必要である。一部Androidアプリは『DMM GAMESストア』をインストールすることで入手可能となる。一般版とR18版があるタイトルではセーブデータを共用している場合がある（千年戦争アイギス、Lord of Walkureなど）。また、一般版でも18歳未満の利用はできない\[162\]。DMM.comは[未成年者によるアイテム課金などの諸問題をその理由としている](https://ja.wikipedia.org/wiki/ソーシャルゲーム#社会問題 "wikilink")\[163\]。 なお、これらのゲームは基本的には無料で提供されているが、課金によってプレイヤーに有利に働くアイテムなどが入手できる点については他企業の運営方針と同様である。いわゆる「[18禁ゲーム](../Page/アダルトゲーム.md "wikilink")」が無料でプレイできることから多くの成人男性層に支持されている。
+
+2018年2月には[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")機向けパッケージタイトルの販売事業にも参入\[164\]。
+
+### 一般オンラインゲーム
+
+  - [艦隊これくしょん -艦これ-](https://ja.wikipedia.org/wiki/艦隊これくしょん_-艦これ- "wikilink") ※DMM.com POWERCHORD STUDIO/C2/KADOKAWA
+  - [かんぱに☆ガールズ](https://ja.wikipedia.org/wiki/かんぱに☆ガールズ "wikilink") 　※DMM.com OVERRIDE
+  - [一血卍傑-ONLINE-](https://ja.wikipedia.org/wiki/一血卍傑-ONLINE- "wikilink") ※DMM.com OVERRIDE/Rejet
+  - [スターリィパレット](https://ja.wikipedia.org/wiki/スターリィパレット "wikilink") ※DMM.com OVERRIDE/DMM GAMES
+  - [刀剣乱舞](https://ja.wikipedia.org/wiki/刀剣乱舞 "wikilink")-ONLINE- ※ DMM GAMES/[Nitroplus](https://ja.wikipedia.org/wiki/Nitroplus "wikilink")　レーベル：TRICK STAR
+  - [FLOWER KNIGHT GIRL](https://ja.wikipedia.org/wiki/FLOWER_KNIGHT_GIRL "wikilink")　※DMM.comラボ、株式会社YourGames、レーベル：TRICK STAR
+  - クロスオーバード　※レーベル：TRICK STAR
+  - [千年戦争アイギス 〜一般版〜）](https://ja.wikipedia.org/wiki/千年戦争アイギス "wikilink")（旧千年戦争アイギス　※レーベル：TeaM/Rider
+  - 戦乱プリンセス　※DMM GAMES/OIRAN DOCHU/GeePlus, Inc. レーベル：OIRAN DOCHU
+  - 宝石姫 JEWEL PRINCESS　※DMM GAMES/OIRAN DOCHU/GeePlus, Inc. レーベル：OIRAN DOCHU
+  - [神姫PROJECT](https://ja.wikipedia.org/wiki/神姫PROJECT "wikilink")2※DMM.comラボ　レーベル：vivid bit
+  - 戦国プロヴィデンス　※DMM.comラボ タグ：DMM GAMES
+  - [御城プロジェクト DEFENSE〜](https://ja.wikipedia.org/wiki/御城プロジェクト "wikilink"):RE〜CASTLE ※DMM.comラボ タグ：DMM GAMES
+  - [文豪とアルケミスト](https://ja.wikipedia.org/wiki/文豪とアルケミスト "wikilink")　※DMM.comラボ
+  - [装甲娘](https://ja.wikipedia.org/wiki/装甲娘 "wikilink")　※DMM GAMES /[LEVEL-5 Inc.](../Page/レベルファイブ.md "wikilink")
+  - スクールさーばんつ！ ※提供:合同会社DMMGAMES
+  - UNITIA 神託の使徒х終焉の女神 ※テクロス/DMMGAMES
+  - [ガールズシンフォニー：Ec 〜新世界少女組曲〜](https://ja.wikipedia.org/wiki/ガールズシンフォニー〜少女交響詩〜 "wikilink")　※DMM.com OVERRIDE
+  - [あいりすミスティリア\!〜少女のつむぐ夢の秘跡〜](https://ja.wikipedia.org/wiki/あいりすミスティリア!〜少女のつむぐ夢の秘跡〜 "wikilink")　※[AUGUST](../Page/オーガスト_\(ブランド\).md "wikilink")/DMM GAMES
+  - ジェミニシード ※合同会社DMM GAMES
+  - [凍京NECRO〈トウキョウ・ネクロ〉](https://ja.wikipedia.org/wiki/凍京NECRO〈トウキョウ・ネクロ〉 "wikilink") SUICIDE MISSION ※[Nitroplus](https://ja.wikipedia.org/wiki/Nitroplus "wikilink")/DMM GAMES
+  - 甲鉄城のカバネリ -乱- ※カバネリ製作委員会/DMMGAMES/TriFort,Inc.
+  - [CIRCLET PRINCESS](https://ja.wikipedia.org/wiki/CIRCLET_PRINCESS "wikilink")　※DMM GAMES、DMM.comラボ
+  - [なむあみだ仏っ！-蓮台 UTENA-](https://ja.wikipedia.org/wiki/なむあみだ仏っ!-蓮台_UTENA- "wikilink") ※DMM GAMES/Visualworks
+  - Alice Closet ※DMM GAMES
+  - カタルシステージ！ ※DMM GAMES/Digital Sky
+  - ウインドボーイズ！※DMM GAMES
+
+#### 日本語ローカライズ
+
+  - [エルダー・スクロールズ・オンライン 日本語版](https://ja.wikipedia.org/wiki/The_Elder_Scrolls_Online "wikilink")　※[ベセスダ・ソフトワークス](https://ja.wikipedia.org/wiki/ベセスダ・ソフトワークス "wikilink")、[ゼニマックス・オンライン・スタジオ](https://ja.wikipedia.org/wiki/ゼニマックス・オンライン・スタジオ "wikilink")
+  - [PLAYERUNKNOWN'S BATTLEGROUNDS](https://ja.wikipedia.org/wiki/PLAYERUNKNOWN'S_BATTLEGROUNDS "wikilink") ※PUBG.corp Windows版のみ
+  - [CROSSOUT](https://ja.wikipedia.org/wiki/CROSSOUT "wikilink")　※Gaijin Entertainment、Targem Games
+  - [War Thunder](https://ja.wikipedia.org/wiki/War_Thunder "wikilink")　※Gaijin Entertainment Windows版のみ
+  - 三国ブレイズ　※Youzu Interactive スマホアプリ。原題は「少年三国志」
+  - Skyforge ※Mail.Ru LLC, Allods team.
+
+### アダルトオンラインゲーム
+
+  - 千年戦争アイギスR（旧千年戦争アイギス）※DMM.comラボ、レーベル：TeaM/Rider
+  - [ようこそ\!恋ヶ崎女学園へ](https://ja.wikipedia.org/wiki/ようこそ!恋ヶ崎女学園へ "wikilink")　※DMM.comラボ、レーベル：PINK STAR
+  - パトリアークエクスタシー ※[アラリオ](https://ja.wikipedia.org/wiki/アラリオ "wikilink")株式会社 and GameUS Corp.　提供:DMM.comラボ
+  - [ドラゴンプロヴィデンス](https://ja.wikipedia.org/wiki/ドラゴンプロヴィデンス "wikilink")　※DMM.comラボ、レーベル：シズルラボ
+  - FLOWER KNIGHT GIRL 〜X指定〜　※レーベル：PINK STAR
+  - アイドルうぉーずZ〜100人のディーバと夢見がちな僕〜 ※提供:合同会社DMMGAMES
+  - 戦乱プリンセスG　※提供:合同会社DMMGAMES
+  - クロスオーバード R　※DMM.comラボ、レーベル：PINK STAR
+  - 戦国プロヴィデンスX　※DMM.comラボ、レーベル：シズルラボ
+  - 神姫PROJECT R ※DMM.comラボ　レーベル：vivid bit
+  - スクールさーばんつ！R　※提供:合同会社DMMGAMES
+  - [同級生](../Page/同級生_\(ゲーム\).md "wikilink")～Another World～　※DMM.comラボ
+  - 真 姫狩りインペリアルマイスター ※DMM GAMES/[Eushully](https://ja.wikipedia.org/wiki/エウシュリー "wikilink")/T.G.Games
+  - 真・恋姫†夢想～天下統一伝～ ※提供:合同会社DMMGAMES
+  - 女神にキスを！～Goddess Kiss-X～ ※提供:合同会社DMMGAMES
+  - Bloody Chain - X -　※DMM.comラボ、レーベル：PINK STAR
+  - あいりすミスティリア\!R〜少女のつむぐ夢の秘跡〜 ※[オーガスト](../Page/オーガスト_\(ブランド\).md "wikilink")/DMM.comラボ　
+  - 宝石姫 JEWEL PRINCESS 〜Ｈ指定〜
+  - UNITIA X 神託の使徒х終焉の女神 ※提供:合同会社DMMGAMES
+  - [ガールズシンフォニー ～少女交響詩～X指定](https://ja.wikipedia.org/wiki/ガールズシンフォニー_～少女交響詩～ "wikilink") ※DMM.comラボ 長期メンテナンス。
+
+### 他社提供ゲーム
+
+  - キャバ王〜キャストは全員AV女優〜 ※[株式会社WILL](https://ja.wikipedia.org/wiki/WILL_\(アダルトビデオ\) "wikilink") レーベル：AV GAMES
+  - 先生、学校でしようよ！ ※株式会社WILL レーベル：AV GAMES
+  - ハーレムオブパイレーツ ※株式会社WILL　レーベル：AV GAMES
+  - 特命！ハメまくりカンパニー ※株式会社WILL　レーベル：AV GAMES
+  - 戦国愛撫～CHIGIRI～ ※株式会社WILL　レーベル：AV GAMES
+  - 美少女全鑑☆キャンパス編 ※株式会社WILL　レーベル：AV GAMES
+  - ハーレムコロリッジ ※株式会社WILL
+  - メイドリーム〜従順メイドのHなご奉仕〜　※株式会社WILL
+  - [対魔忍RPG / RPGX](https://ja.wikipedia.org/wiki/対魔忍アサギ#対魔忍RPG_/_RPGX "wikilink") ※提供:株式会社インフィニブレイン
+  - 淫魔降臨デビル☆カーニバル　※サイテック株式会社
+  - 淫妖蟲 禁　～少女姦姦物語～ ※提供:有限会社アートストック
+  - LAST DRAGOON ～禁断のXXX～ ※提供:ペイサービス株式会社
+  - マジックミラー号のAV監督になろう！-マジかん- ※提供:株式会社サクラゲート
+  - HOUNDS ※[Netmarble Games](https://ja.wikipedia.org/wiki/ネットマーブル "wikilink")/Netmarble Neo\[165\]
+  - 100万人の[Winning Post](https://ja.wikipedia.org/wiki/Winning_Post "wikilink") Special ※提供:[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")
+  - アイドルうぉーず〜100人のディーバと夢見がちな僕〜 ※提供:株式会社グリフォン
+  - [モンスターハンター フロンティアZ](../Page/モンスターハンター_フロンティア_オンライン.md "wikilink") ※CAPCOM
+  - ブレイヴガール レイヴンズ/ブレイヴガール レイヴンズxR　※株式会社FUNYOURS JAPAN
+  - [政剣マニフェスティア](https://ja.wikipedia.org/wiki/政剣マニフェスティア "wikilink") ※提供:株式会社テクノード
+  - [Shadowverse](https://ja.wikipedia.org/wiki/Shadowverse "wikilink")　※[Cygames](https://ja.wikipedia.org/wiki/Cygames "wikilink")
+  - [グランブルーファンタジー](https://ja.wikipedia.org/wiki/グランブルーファンタジー "wikilink")　※Cygames
+  - [プリンセスコネクト\! Re:Dive](https://ja.wikipedia.org/wiki/プリンセスコネクト! "wikilink")　※Cygames
+  - 天穹ノ彼方の錬星郷/天穹ノ彼方の錬星郷 X指定　※株式会社クレオラボ
+  - [インペリアル サガ](https://ja.wikipedia.org/wiki/インペリアル_サガ "wikilink")　※[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")
+  - ヴィーナス†ブレイド レイジング/ヴィーナス†ブレイド レイジングＸ ※提供:株式会社シンクロジック
+  - [ピグブレイブ](https://ja.wikipedia.org/wiki/ピグブレイブ "wikilink")　※[サイバーエージェント](https://ja.wikipedia.org/wiki/サイバーエージェント "wikilink")
+  - ハニー×ブレイド/ハニー×ブレイド X指定 ※提供:株式会社RGB
+  - オトギフロンティア ※提供:株式会社KMS
+  - ぼくらの放課後戦争！-AFTER SCHOOL WARS- ※提供:株式会社クリアレーヴ
+  - アイオライトリンク ※提供:株式会社Hexatonics
+  - 真・戦艦帝国 ※提供:日本華清飛揚株式会社/Sincetimes
+  - 戦国ランブレイド ※提供:平沢情報技術株式会社
+  - LitGear/LitGear-X ※提供:株式会社KOKUBUN
+  - Oblivious ※提供:WOWGAME Inc.
+  - SUMMON GIRLS CRUSADE ※提供:株式会社ロケッツゲームズ
+  - 剣と幻想のアカデミア ※提供:株式会社テクノフロンクス
+  - アートワール魔法学園の乙女たち ※提供:株式会社テンクロス
+  - マジカミ ※提供:株式会社グリフォン
+  - オトギフロンティア ※提供:株式会社KMS
+  - [マギアレコード 魔法少女まどか☆マギカ外伝](https://ja.wikipedia.org/wiki/マギアレコード_魔法少女まどか☆マギカ外伝 "wikilink") ※[アニプレックス](../Page/アニプレックス.md "wikilink")/f4samurai
+
+### メディアミックスプロジェクト
+
+  - バドミントンガールズ ※DMM GAMES初のオリジナルIPとして始動した大型のメディアミックスプロジェクト\[166\]。作品やキャラクターの世界観を伝える4コマ漫画の連載\[167\]、声優ユニット「バドミントンガールズ」による音楽活動\[168\]\[169\]、ラジオ関西と音泉でレギュラーラジオ「バドミントンガールズ ～聖ラファエル学院放送部～」を展開。
+
+### 終了したゲーム
+
+  - トクトウ 特殊盗撮師アナヤマの女子寮生活 ※2012年10月09日終了。
+  - B.B.IDOLコレクション ※2012年12月14日終了。
+  - ぬぎジャン ※DMM.comラボ　2013年07月終了。
+  - [ノ・ゾ・キ・ア・ナ](https://ja.wikipedia.org/wiki/ノ・ゾ・キ・ア・ナ "wikilink") ※2013年07月31日終了。
+  - ヒロインウォーズ ※DMM.comラボ　2013年08月30日終了。
+  - はれんち昆虫戦記　ムシ★パラ　※2013年09月11日終了。
+  - それでもオレはやってやる\! ※2013年09月19日終了。
+  - メイコレ！ ※DMM.comラボ/[@ほぉ〜むカフェ](https://ja.wikipedia.org/wiki/@ほぉ〜むカフェ "wikilink") 2013年10月31日終了。
+  - エロ街ック天国 ※2013年10月31日終了。
+  - 俺の奴隷たち　※2013年11月18日終了。
+  - はれぷろ\!\! - 恋する美少女ハーレムプロデューサー - ※DMM.comラボ　2013年11月22日終了。
+  - 妄姦スクラッチ ※2013年11月28日終了。
+  - 惑星彼女 ※2013年12月06日終了。
+  - 絶頂\!\!イカせてファイト-キャノプリカードバトル-　※2013年12月16日終了。
+  - 大性乱\!寝取られキングダム 　※2013年12月19日終了。
+  - 天マン魔境 ※2013年12月24日終了。
+  - やっちゃえ！！酔いどれ娘 ※DMM.comラボ　2013年12月26日終了。
+  - 楽園モッコリーナ ※2014年01月31日終了。
+  - 三国RPG ※2014年02月28日終了。
+  - 魔法少女マジカルクロイツ ※2014年03月10日終了。ロワイヤルは2014年02月28日終了。
+  - 輝光翼戦記　銀の刻のコロナ外伝 ※2014年03月18日終了。
+  - ラブカーディアン ※2014年03月28日終了。
+  - ブラックシンデレラ　※2014年03月31日終了。
+  - ふたりエッチ18＋　※2014年03月31日終了。
+  - おっぱいソムリエ for DMM ※2014年03月31日終了。
+  - 実写素人ナンパ号 ※2014年04月17日終了。
+  - 特命係長只野仁〜盗撮動画撲滅編〜 ※2014年04月30日終了。
+  - MAD ECSTASY〜欲望の街〜 ※DMM.comラボ　2014年04月30日終了。
+  - エンジェルカジノクラブ(旧ガールズカジノバトル) ※2014年04月30日終了。
+  - フォトかん☆ ※2014年05月21日終了。
+  - 姫声〜ひめこえ〜 ※DMM.comラボ　2014年05月30日終了。
+  - 鉄壁の女神 ※2014年7月10日終了。
+  - ダンジョントラベラーズ CRYマックス ※2014年07月14日終了。
+  - 御伽綺譚 ※2014年07月14日終了。
+  - グリザイアの安息 ※2014年07月22日終了。
+  - 特命OL×制服ブレイク ※DMM.comラボ　2014年07月28日終了。
+  - 純潔ブレイカー ※2014年07月31日終了。
+  - セクシャルアーツマイスター ※DMM.comラボ　2014年8月7日終了。
+  - Z/X IGNITION 五世界の輪舞　※[トムス・エンタテインメント](https://ja.wikipedia.org/wiki/トムス・エンタテインメント "wikilink") 2014年8月11日終了。
+  - ケイオスクルセイダーズ　※韓国Galaxy Gate　2014年8月29日終了。
+  - めちゃ婚 ※2014年8月29日終了。
+  - ミスティアージュ〜恋する君とさがしもの〜 ※DMMゲームズ/[株式会社モバイル&ゲームスタジオ協力](https://ja.wikipedia.org/wiki/モバイル&ゲームスタジオ "wikilink")：オペラハウス
+  - ロイドマスター ※2014年09月30日終了。
+  - まん●コレクション〜カジノピザッツ〜 ※2014年09月30日終了。
+  - バーチャファイターフィーバーコンボ 　※セガ/Ys Net/DMM.com 2014年09月30日終了
+  - 聖ラブリィ学園 ※2014年10月29日終了。
+  - エロキャバコレクション ※株式会社ハリアップ2014年11月28日終了。
+  - ～征服Ｘ絶頂～創世のマラブレイド　※2014年11月28日終了。
+  - セクフレ(仮) 　※2014年12月10日終了。
+  - グランドクエスト　※DMM.comラボ 2014年12月15日終了。
+  - 忘却のプリンセス　※DMM.comラボ 2014年12月16日終了。
+  - おしおきフェアリータ　※2014年12月18日終了。
+  - ハコニワーカーズ　ボクと彼女とバラバラ世界　※DMM.comラボ　2014年12月18日終了。
+  - 濡王〜性的欲求の放出バトルクラブ〜　※2014年12月22日終了。
+  - 僕と彼女のＨなカード　※2014年12月22日終了。
+  - GIRL HUNTER〜レイプから始まる恋もある〜　※2014年12月26日終了。
+  - エロがく～エロと科学と学園モノ～ ※2014年12月26日終了。
+  - 人造乙女アンドロメイデン　※2015年1月6日終了。
+  - AV女優をつくろう！ ※2015年1月9日終了。
+  - 恋と魔眼のぱいっくす\!\! ※[SILKY'S](https://ja.wikipedia.org/wiki/シルキーズ "wikilink")/DMMゲームズ 2015年1月13日終了。
+  - [くりいむレモン](https://ja.wikipedia.org/wiki/くりいむレモン "wikilink")　FourSeasons　※フェアリーダスト/DMM GAMES 2015年1月13日終了。
+  - 私立桃尻学園生徒会！ ※2015年1月13日終了。
+  - AVパチスロ〜S1〜 ※[S1](../Page/エスワン.md "wikilink") 2015年1月16日終了。
+  - ハレハレ女学院　※2015年1月26日終了。
+  - ドラゴンシンフォニア　※DMM.comラボ 2015年1月27日終了。
+  - らぶつり ※2015年1月30日終了。
+  - Sky・Lore（スカイ・ロア）〜七罪と海神の秘宝〜 ※PlayCoo　2015年1月30日終了。
+  - メイド王国ピュエーロ　※ジェイピーエー　2015年2月5日終了。
+  - 魔陣ソウルズ　※DMM.comラボ　2015年2月17日終了。
+  - 新生 イーリスフロンティア〜飛航艇団の絆〜　※DMM.comラボ　2015年2月20日終了。
+  - [クリムゾンガールズ](https://ja.wikipedia.org/wiki/クリムゾンガールズ "wikilink") おさわりバトル　※2015年2月23日終了。
+  - 麗奴館 　※DMM.comラボ/[アタッカーズ](../Page/アタッカーズ.md "wikilink") 2015年2月27日終了。
+  - 触手キングダム　※2015年2月27日終了。
+  - 戦国AKU-ME　※DMM.comラボ　2015年2月27日終了。
+  - 人妻への野望ONLINE〜少子化救世主伝説〜　※2015年3月3日終了。
+  - ネトラレロワイヤル　※2015年3月9日終了。
+  - オレは、好色一代男\! -全国エロ行脚-　※2015年3月17日終了。
+  - 俺はこの娘(コ)を飼育する ※株式会社Views 2015年3月23日終了。
+  - 特務機関プワゾンアンジュ　※DMM.comラボ　2015年3月24日終了。
+  - スピリット・オブ・ファンタジア 　※2015年3月27日終了。
+  - 神魔繚乱ヴェルヘイム ※2015年3月30日終了。
+  - ネレパラフィッシング ※DMM.comラボ　2015年3月31日終了。
+  - 魔法少女大戦タクティクス ※2015年3月31日終了。
+  - 自称探偵〜盗撮コレクション〜　※2015年4月17日終了。
+  - さらぶれっ娘めいかー　※2015年4月30日終了。
+  - Hな呪文★覚えました！～それよりパンツ下さい ※2015年4月30日終了。
+  - 絶対心撃！ピンボールハッカー　※DMM.comラボ　2015年5月11日終了。
+  - パズキューレ 〜X指定〜　※2015年5月15日終了。
+  - パズキューレ ※2015年5月15日終了。
+  - アイドル☆シチュエーション　※DMM.comラボ　2015年5月18日終了。
+  - トランスライダー　※DMM.comラボ　2015年5月25日終了。
+  - メイデンガーデン　※DMM.comラボ　2015年5月25日終了。
+  - 究極世界制服兵器　※DMM.comラボ　2015年5月27日終了。
+  - どうぶつのほし☆　ボクは種付けトレーナー　※2015年5月29日終了。
+  - マスターオブクイーンズ　※DMM.comラボ　2015年5月29日終了。
+  - [クリミナルガールズ ブーセ](https://ja.wikipedia.org/wiki/クリミナルガールズ "wikilink") ※[日本一ソフトウェア](../Page/日本一ソフトウェア.md "wikilink") 　2015年5月29日終了。
+  - どスケベ萌MAX　2015年6月19日終了。
+  - ハメ撮りコレクション〜淫乱彼女　2015年6月19日終了。
+  - 俺の竿 ※DMM.comラボ　2015年6月22日終了。
+  - バウンティハンター　2015年6月22日終了。
+  - マーメイドマスター　※DMM.comラボ　2015年6月25日終了。
+  - 神刻の娘 -VERITAS FILIA TEMPORIS- ※2015年6月25日終了。
+  - ドライブオンリクエスタ　※DMM.comラボ　2015年6月25日終了。
+  - サシノミ\!\!〜ご褒美はオフィスのカレと〜 ※アイデアフラッド合同会社 2015年6月30日終了。
+  - アイかれ 2015年6月30日終了。
+  - ムーンストーン☆プリンセスコレクション 2015年6月30日終了。
+  - 奇妙な恋のシェアハウス ※2015年6月30日終了。
+  - でぃめんしょん！ぬ〜どぱにっく　2015年7月3日終了。
+  - OUTな寮生活　※DMM.comラボ　2015年7月10日終了。
+  - プリンセスフィールド　2015年7月10日終了。
+  - いちゃらぶトリニティあらいあんす　※2015年7月17日終了。
+  - 宇宙のミネルヴァ　※2015年7月21日終了。
+  - いくさひめ 〜天下ワレメの戦い〜　※DMM.comラボ　2015年7月21日終了。
+  - 辻堂さんの純愛ロード 全国版　※2015年7月23日終了。
+  - てん☆たく　〜Tentacles Tactics〜　※DMM.comラボ　2015年7月23日終了。
+  - 傀儡館の淫夢　for SmartPhone ※2015年7月23日終了。
+  - とある姉妹の妊婦性活　for SmartPhone　※2015年7月23日終了。
+  - イシュタリアサーガ ※DMM.comラボ/NGM Studio　2015年7月29日終了。
+  - 団地妻コレクション　※2015年7月31日終了。
+  - 部活少女バトル ※DMM.comラボ　2015年8月10日終了。
+  - ブラウザ雀士スーチーパイ ※2015年8月11日終了。
+  - 大征服！ゆけゆけ悪の秘密結社！〜ヒーロー悪堕ち大作戦〜 ※株式会社トランスポーター 2015年8月13日終了。
+  - 調教！クリトリア共和国〜催眠の書〜　※背景の一部に『[ゼノブレイド](https://ja.wikipedia.org/wiki/ゼノブレイド "wikilink")』からの盗用が発覚したため、2015年8月18日終了。
+  - 王族探偵　※2015年8月24日終了。
+  - トロイア戦姫　※2015年8月28日終了。
+  - 吸われてガールズH ※2015年9月8日終了。
+  - 汚職列島ZIPANG ※DMM.comラボ　2015年9月25日終了。
+  - 神姫戦舞～ロストグリモワール～ ※『[グランブルーファンタジー](https://ja.wikipedia.org/wiki/グランブルーファンタジー "wikilink")』からのソース盗用が発覚したため、正式サービス開始前に終了。
+  - 恋姫†夢想 三国コレクション ※2015年9月30日終了。
+  - エンジェリックサーガ/エンジェリックサーガ 〜X指定〜 ※DMM.comラボ 2015年9月30日終了。
+  - 終天のトロイメライ ※DMM.comラボ 2015年9月30日終了。
+  - ぷるぷる大戦　～揺れてるくせに生意気な！～ ※2015年9月30日終了。
+  - マーメイド・ゴシック ※2015年10月8日終了。
+  - エロ☆触手拷問 ※2015年10月14日終了。
+  - 激エロ萌えコレクション ぷる★すき ※2015年10月14日終了。
+  - のべエロ ※2015年10月14日終了。
+  - プリンセスオーブ ※2015年10月14日終了。
+  - 【動画あり】枕アイドルハメまくりワロタwww ※2015年10月14日終了。
+  - 戦国闘檄 〜バーニングスピリッツ〜 ※DMM.comラボ/[HOBIBOX](https://ja.wikipedia.org/wiki/HOBIBOX "wikilink") 2015年10月14日終了。
+  - 悪逆のケモノコレクター ※2015年10月15日終了
+  - 愛奴コレクター ※DMMゲームズ/HOBIBOX/つるみく 2015年10月26日終了。
+  - Gilded Cage ※DMM.comラボ　2015年10月29日終了。
+  - 絶対君主と溺愛メイド 〜彼に全てを奪われて〜 ※DMM.comラボ　2015年10月29日終了。
+  - エロ萌え美少女パーク ※2015年10月30日終了。
+  - ふだんし\!\!〜美彩贔学園BL漫画部〜 ※株式会社ビジュアルワークス 2015年10月30日終了。
+  - ハーレムカンパニー ※DMM.comラボ　2015年10月30日終了。
+  - ガールズ&プレジデンツ！ ※DMM.comラボ　2015年10月30日終了。
+  - パパの大暴走 ～保母という名の玩具～ ※2015年10月30日終了。
+  - 夜勤病棟 for DMM ※2015年10月30日終了。
+  - すたぴぃ あなたはもっと輝ける ※DMM GAMES×RED×講談社 2015年11月2日終了。
+  - 極上カーセックス　※ロングソード株式会社 2015年11月13日終了。
+  - ラストサマナー ※DMM.comラボ　開発：株式会社スマイルマイスター 2015年11月16日終了。
+  - 童話大戦！アクメテエロス ※2015年11月19日終了。
+  - 小悪魔天使 ※2015年11月27日終了。
+  - 鎧姫 ※DMM.comラボ　2015年11月30日終了。
+  - 性剣錬成モンハメサーガ ※株式会社Views　2015年11月30日終了。
+  - 信長は俺の嫁。〜姫武将1000人斬り〜　※2015年12月7日終了。
+  - 二階堂記念病院 〜愛と欲望の甘い罠〜　※2015年12月7日終了。
+  - [翠星のガルガンティア THE NEW VOYAGE](https://ja.wikipedia.org/wiki/翠星のガルガンティア_ONLINE_FLEET "wikilink") ※2015年12月17日終了。
+  - ハコニワーカーズ　ボクと彼女とバラバラ世界 ※2015年12月18日終了。
+  - BIN☆CANダーリン ※2015年12月18日終了。
+  - [空戦乙女☆ヴァージンストライク](https://ja.wikipedia.org/wiki/空戦乙女☆ヴァージンストライク "wikilink") ※2015年12月18日にいったん終了したものの、2016年4月28日に、[にじよめにて](https://ja.wikipedia.org/wiki/DLsite.com "wikilink")『空戦乙女-スカイヴァルキリーズ-』に名前と内容（一般向け）を改めてサービス再開。
+  - 娘拳 ※2015年12月21日終了。
+  - バハムートクライシス ゼロ　※株式会社コアエッジ、株式会社エニッシュ DMM GAMES版は2015年12月22日に終了したが、現在はYahooモバゲー、[ハンゲーム](https://ja.wikipedia.org/wiki/ハンゲーム "wikilink")など他社ゲームサイトにて運営中。
+  - 姫銃-HiME×GUN-　※DMM.comラボ　レーベル：TEAM ZERO　2015年12月24日終了。
+  - 男ノ頂　※DMM.comラボ　2015年12月25日終了。
+  - ダンジョンズ&プリンセス　※DMM.comラボ レーベル：TEAM ZERO　2015年12月28日終了。
+  - バブルワールド　※2016年1月12日終了。
+  - 声カレ〜放課後キミに会いに行く〜 ※DMM.comラボ　2016年1月12日終了。
+  - デビルアナライズ　※レーベル：TEAM ZERO　2016年1月19日終了。
+  - 爽快！パズエロ女学園　※2016年1月29日終了。
+  - エロゲーてんこもり for DMM　※2016年1月29日終了。
+  - 妄想メダル　※2016年2月5日終了。
+  - ダンジョンヒーロー Complete Edition　※ガリアレボリューション株式会社　2016年2月29日終了。
+  - ひつじ×クロニクル　※DMM.comラボ レーベル：シズルラボ　2016年3月31日終了。
+  - アフタースクールヴァルキリー/アフタースクールヴァルキリーR　2016年3月31日終了。
+  - [クリムゾンセクシャルコロシアム](https://ja.wikipedia.org/wiki/クリムゾンガールズ "wikilink")　2016年3月31日終了。
+  - ラビリンスバインド　※レーベル：PINK STAR　2016年3月31日終了。
+  - 天地無用！花嫁繚乱 ※DMM.com POWERCHORD STUDIO/梶島正樹/愛天地無用製作委員会　2016年4月15日終了。
+  - ダンジョンストライカー ※EYEDENTITY GAMES　2016年4月20日終了。
+  - エロかわマスター！ ※DMM.comラボ、レーベル：PINK STAR　2016年4月20日終了。
+  - Fairy Fantasia0～ゼロ～　2016年4月26日終了。
+  - おっぱい大戦〜おっぱいぜんぶオレのモノ！〜　※株式会社CA　レーベル：AV GAMES　2016年4月28日終了。
+  - AVアイドルグランプリ　※株式会社CA　2016年4月28日終了。
+  - 千年蝶歌　～濡れた愛の鎖～　2016年4月28日終了。
+  - つりカノジョ～釣りとあの娘と魚と僕と～つりカノジョ～釣りとあの娘と魚と僕と～　2016年5月9日終了。
+  - パズルオブワルキューレ　2016年5月10日終了。
+  - 万引きGメン悪い娘にはお仕置です！ソフト/万引きGメン悪い娘にはお仕置です！※レーベル：PINK STAR　2016年5月25日終了。
+  - グランドハーレム　※レーベル：TEAM ZERO　2016年5月25日終了。
+  - 妖怪リング　～もののけ娘☆パラダイス～ ※2016年5月26日終了。
+  - おいらん乙女 〜淫れそめにし〜　※DMM.comラボ 2016年5月31日終了。
+  - 逆転大奥～想ひ淫れて～　※DMM.comラボ 2016年5月31日終了。
+  - M.A.D 　2016年6月13日終了。
+  - SPYコレクション〜すぱコレ〜　※株式会社CA レーベル：AV GAMES　2016年6月30日終了。
+  - 神魔×絶頂☆ぷるるんイクシーズ　2016年6月30日終了。
+  - [仮面ライダー メガトンスマッシュ](https://ja.wikipedia.org/wiki/仮面ライダー_メガトンスマッシュ "wikilink")　※ [バンダイナムコオンライン](../Page/バンダイナムコエンターテインメント.md "wikilink")　2016年6月30日終了。
+  - ハーレムシェイク・オブ・ワルキューレ ※2016年6月30日終了。
+  - 迷宮探索ドラゴンプリンセス/迷宮探索ドラゴンプリンセス X-rated　※レーベル：TEAM ZERO　2016年07月14日終了。
+  - マンション☆うぉ～ず！　※レーベル：K-Million　2016年07月20日終了。
+  - 学都戦記レリックハート/学都戦記レリックハートR ※株式会社シンクロジック 2016年7月22日終了。
+  - 仮面ライダー　メガトンスマッシュ ※2016年7月28日終了。
+  - ぷらねっとき〜ぱ〜 ※DMM.comラボ　2016年7月29日終了。
+  - 影牢 ～トラップ ガールズ～ ※[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink") 2016年7月29日終了。
+  - LUPIN the Third -峰不二子という女-ガジリオン　※2016年7月29日終了。
+  - イノセントベイン ※DMM.comラボ　2016年8月1日終了。
+  - ドラゴンアポカリプス（[ドラゴンプロヴィデンス](https://ja.wikipedia.org/wiki/ドラゴンプロヴィデンス "wikilink") 〜一般版〜）※DMM.comラボ、レーベル：シズルラボ　2016年8月1日終了。
+  - マジカルウィッチストーリーズ/マジカルウィッチストーリーズxR 2016年8月16日終了。
+  - [ゴクジョッ。](https://ja.wikipedia.org/wiki/ゴクジョッ。 "wikilink")～奪！パンツこれくしょん～ ※クリーク・アンド・リバー 2016年8月16日終了。
+  - ザクセスヘブン リベリオン　※バンダイナムコオンライン/DMMゲームズ 2016年8月17日終了。
+  - 魔法学院バカルディ 〜ルシファー、魔王やめるってよ〜 2016年8月18日終了。
+  - シューティングガール ※DMM.comラボ 2016年8月29日終了。
+  - アイドルスクール！ULTRA-ORANGE ※DMM.comラボ/La'cryma　2016年8月30日終了。
+  - ペロペロ催眠　※DMM.comラボ、レーベル：K-Million　2016年8月31日終了。
+  - エロマス！～アイドルを虜にするSEX革命マニュアル～　2016年8月31日終了。
+  - 極嬢トライブ！ R指定　※2016年8月31日終了。
+  - 新訳闘神都市～Girls Tamer～　※2016年9月7日終了。
+  - アダムとイヴと彷徨えし方舟/アダムとイヴと彷徨えし方舟X　2016年9月21日終了。
+  - [レーシング娘。](https://ja.wikipedia.org/wiki/レーシング娘。 "wikilink")※DMM.com POWERCHORD STUDIO　2016年9月27日終了。
+  - To LOVEる ダークネス Idol Revolution 2016年9月30日終了。
+  - Quiz of Walkure/Quiz of Walkure　〜X指定〜　※DMM.comラボ レーベル：PINK STAR 2016年9月30日終了。
+  - TOKYO天魔 -DEVIL SLAVE- ※株式会社シンクロジック 2016年10月25日終了。
+  - ギャングレイヴ/ギャングレイヴX　※DMM.comラボ　2016年10月28日終了。
+  - 大冒険！ゆけゆけ☆おさわりアイランド ※株式会社トランスポーター 2016年10月31日終了。
+  - 超大冒険！ゆけゆけ☆おさわりアイランド ※株式会社トランスポーター 2016年10月31日終了。
+  - [カオスサーガ](https://ja.wikipedia.org/wiki/カオスサーガ "wikilink") ※DMM.com、ブライブ 2016年11月15日にサービスインしたものの、キャラクターの一部に『[ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink")』からの盗用が発覚したため、2016年11月16日終了。
+  - [モンスター娘のいる日常](https://ja.wikipedia.org/wiki/モンスター娘のいる日常 "wikilink") オンライン　※DMMゲームズ/ネオス株式会社/オカヤド／徳間書店・モン娘パートナーズ　2016年11月22日終了。
+  - 弩龍戦機 ※DMM.com POWERCHORD STUDIO　2016年11月30日終了。
+  - Fairy Fantasia〜業界初\!イカせアニメ搭載　※レーベル：PINK STAR 2016年11月30日終了。
+  - 時ノ空学園 SAGA-覚醒乙女-　※DMM.comラボ　2016年12月20日終了。
+  - デモンズ★キッチン ～食材(娘)を罠にハメるインモラルなレシピ～　※DMM.comラボ　2017年1月30日終了。
+  - ごちそう娘と魔王の厨房　〜POWERED BY DEMON'S★KITCHEN〜　※DMM.comラボ　2017年1月30日終了。
+  - もっと姉、ちゃんとしようよ\! ※2017年1月31日終了。
+  - ドラゴンタクティクス メモリーズ ※2017年2月13日終了。
+  - 夜緊病闘-MIDNIGHT NURSE WARRIORS-　※株式会社シンクロジック、[mink](https://ja.wikipedia.org/wiki/ミンク_\(企業\) "wikilink") ※2017年2月17日終了。
+  - EmpressEnergy　※2017年2月20日終了。
+  - 最終痴漢電車 TARGET COLLECTION ※2017年2月24日終了。
+  - シュプリームエンジェル/シュプリームエンジェルR ※株式会社タムタム　2017年2月24日終了。
+  - 超巨大！ジュラシック娘 健全版/超巨大！ジュラシック娘　※DMM.comラボ　2017年2月27日終了。
+  - [銀河英雄伝説](../Page/銀河英雄伝説.md "wikilink")タクティクス ※2017年2月28日終了。
+  - ぜったい遵守☆ぱこぱこカーニバル！！ ※[ホビボックス](https://ja.wikipedia.org/wiki/ホビボックス "wikilink")　2017年2月28日終了。
+  - VIIDOG CODE -ヴィドッグ・コード-　※DMM.comラボ　2017年2月28日終了。
+  - 快感×絶頂！美少女ロワイヤル ※2017年2月28日終了。
+  - GIGA特撮ヒロイン凌辱大戦　※DMM.comラボ、[GIGA](https://ja.wikipedia.org/wiki/ギガ_\(アダルトビデオ\) "wikilink")、スマホゲーム　2017年2月28日終了。
+  - GALギャング！！ ～AV女優大乱交バトル～　※株式会社WILL　2017年3月2日終了。
+  - 淫獣ブレイバー　※DMM.comラボ　2017年3月22日終了。
+  - EmpressEnergy ECSTASY ※提供:合同会社DMMGAMES
+  - 神航の地平線　※DMM.comラボ、レーベル：TRICK STAR　2017年4月27日終了。
+  - 機動戦車チハたん/機動戦車チハたんX　※DMM.comラボ　2017年4月28日終了。
+  - [俺タワー -Over Legend Endless Tower-](https://ja.wikipedia.org/wiki/俺タワー_-Over_Legend_Endless_Tower- "wikilink") ※DMM.com POWERCHORD STUDIO/[マーベラス](https://ja.wikipedia.org/wiki/マーベラス_\(企業\) "wikilink")　2017年5月1日終了。
+  - 無限三国志/夢限三国志R ※DMM.com OVERRIDE　2017年5月9日終了。
+  - ドスケベ極道伝 女をイカせて天下を狙え！　※株式会社WILL　2017年5月29日終了。
+  - 月華の戦姫　※DMM.comラボ 2017年6月13日終了。
+  - [V.D. -バニッシュメント・デイ-](https://ja.wikipedia.org/wiki/V.D._-バニッシュメント・デイ- "wikilink") ※DMM.com POWERCHORD STUDIO/[GCRAFT](../Page/土田俊郎.md "wikilink")　2017年6月23日終了。
+  - 月華武装 フェアリーテイルプリンセス　※DMM.comラボ、Androidアプリ 2017年6月26日終了。
+  - [ラグナストライクエンジェルズ](https://ja.wikipedia.org/wiki/ラグナストライクエンジェルズ "wikilink") ※[DINGO](https://ja.wikipedia.org/wiki/ディンゴ_\(ゲーム会社\) "wikilink")、[Aniplex Mobile](../Page/アニプレックス.md "wikilink")/DMM GAMES/38M GIRLS 製作委員会 DINGOが倒産した影響により、2017年5月31日終了。
+  - UNLEASHED　※DMM.comラボ、Androidアプリ　2017年7月7日終了。
+  - Girls HERO　※株式会社WILL　2017年9月29日終了。
+  - 天歌統一ぷろじぇくと ※マーベラス/DMM.comラボ　8月23日（R版と同時）終了。
+  - おそ松さん ダメ松．コレクション〜6つ子の絆〜　※赤塚不二夫／おそ松さん製作委員会　Developed by株式会社クロスゲームズ
+  - マジカルフォーゼ プリズムガール/マジカルフォーゼ プリズムガールxR ※株式会社FUNYOURS JAPAN 2017年9月20日終了。
+  - [AKIBA'S TRIP Festa\!](https://ja.wikipedia.org/wiki/AKIBA'S_TRIP "wikilink") ※DMM GAMES/[アクワイア](../Page/アクワイア_\(ゲーム会社\).md "wikilink") 2017年9月22日終了。
+  - [しんけん\!\!](https://ja.wikipedia.org/wiki/しんけん!! "wikilink") ※DMM.com POWERCHORD STUDIO　2017年9月29日終了。
+  - パズル&ドールズ　※DMM.comラボ レーベル：PINK STAR　2017年10月16日終了。
+  - [薄桜鬼](https://ja.wikipedia.org/wiki/薄桜鬼 "wikilink") 士道演戯　※株式会社デジタルクエスト/[アイディアファクトリー](../Page/アイディアファクトリー.md "wikilink") 2017年10月31日終了。
+  - もののふ〜白百合戦舞姫〜　※DMM.comラボ　レーベル：TEAM ZERO 2017年12月26日終了。
+  - らぶコンパス　※DMM.comラボ　2018年1月12日終了。
+  - クラッシュ・オブ・パンツァー ※DMM.com OVERRIDE　2018年1月26日終了。
+  - 大聖戦！ヴァルキリーサーガ 〜淫乱の戦乙女〜　※DMM.comラボ　2018年2月16日終了。
+  - レッドコラプション　※DMM.comラボ 2018年2月22日終了。
+  - [ストライクウィッチーズ](https://ja.wikipedia.org/wiki/ストライクウィッチーズ "wikilink") 軌跡の輪舞曲　※株式会社スーパーアプリ 2018年2月28日終了。
+  - アイドルフェスティバル　サンシャインスターズ　※株式会社WILL　2018年3月20日終了。
+  - GRANATHA XTREME　※ネオウィズ・ゲームズ・コーポレーション　提供:合同会社DMMGAMES　2018年3月27日終了。
+  - 聖クレアトル女学園（魔法科）　※提供:合同会社DMMGAMES　2018年3月28日終了。
+  - イディオムガール/イディオムガールΩ　※DMM.comラボ　2018年3月30日終了。
+  - 天衣創聖ストライクガールズ/天衣創聖ストライクガールズ エクスタシオ　※DMM.comラボ、Androidアプリ　2018年4月11日終了。
+  - 麻雀 of Walkure/麻雀 of Walkure　〜X指定〜　※DMM.comラボ 2018年4月20日終了。
+  - OBSIDIAN LEGACY（オブシディアンレガシー） ※DMM.com POWERCHORD STUDIO　開発元:Black Tower Studios 2018年4月20日終了。
+  - 大江戸ソープランド ※提供:株式会社サクラゲート 2018年4月27日終了。
+  - Dragon Knight5　※DMM.comラボ 2018年5月8日終了。
+  - AVアイドルプロデューchu　※株式会社WILL 2018年5月14日終了。
+  - Re:Bless/Re:Bless X　※DMM.comラボ 2018年5月16日終了。
+  - ヌレスケパラダイス/ヌレスケパラダイスX ※提供:鳳デザイン株式会社 2018年6月20日終了。
+  - AVベースボール　～ワイの好きなAV女優で打線組んだ～　※提供:合同会社DMMGAMES 2018年6月26日終了。
+  - パンティークラッシュ　※DMM.comラボ　2018年7月2日終了。
+  - [マブラヴ オルタネイティヴ ストライク・フロンティア](https://ja.wikipedia.org/wiki/マブラヴ_オルタネイティヴ_ストライク・フロンティア "wikilink") ※ âge /[ixtl](https://ja.wikipedia.org/wiki/イクストル "wikilink")/ DMM GAMES 2018年7月5日終了。
+  - ガールズユニオン　※DMM.comラボ 2018年7月27日終了。
+  - 天頂-TEPPEN-/天頂-TEPPEN- 極　※2018年7月31日終了。
+  - Noah’sGate インモラルな少女とタイムトリップするADV ※提供:株式会社ボーロ 2018年7月31日終了。
+  - メモリア～戦場のエレクトロガール/メモリア～戦場のエレクトロガール X ※提供:株式会社シンクロジック 2018年8月6日終了。
+  - キルドヤ 意識高い系ワード擬人化RPG/キルドヤR ※DMM.comラボ 2018年8月9日終了。
+  - IS＜インフィニット・ストラトス＞アーキタイプ・ブレイカー　※DMM GAMES、[Izuru Yumizuru](https://ja.wikipedia.org/wiki/弓弦イズル "wikilink"), [OVERLAP](https://ja.wikipedia.org/wiki/オーバーラップ_\(企業\) "wikilink")/Project IS 2018年8月27日終了。
+  - [ユバの徽](https://ja.wikipedia.org/wiki/ユバの徽 "wikilink") ※DMM.com POWERCHORD STUDIO 2018年9月26日終了。
+  - TOKYO EXE GIRLS/TOKYO EXE GIRLS　〜X指定〜 ※提供:株式会社ボーロ 2018年10月31日終了。
+  - 星のガールズオデッセイ ※提供:MONKEY GAMES 2018年11月8日終了。
+  - Lord of Walkure/Lord of Walkure 〜X指定〜 ※DMM.comラボ 2018年12月10日終了。
+  - ガーディアン・ミストレス ※株式会社WILL 2018年12月17日終了。
+  - Bloody Chain ※DMM.comラボ、2018年12月18日終了\[170\]。
+  - 恋姫†夢想～英雄烈伝～ ※提供:合同会社DMMGAMES 2018年12月21日終了。
+  - ドピュっと！！ヤリコンパス ※提供:合同会社DMMGAMES、2018年12月28日終了。
+  - ギャングオブヘブン ※提供:株式会社ボーロ、2019年1月31日終了。
+  - 魔王の始め方オンライン ※提供:株式会社ボーロ、2019年1月31日終了。
+  - クラン戦記/クラン戦記R ※提供:株式会社リブリーズ/合同会社MIKAGE 2019年2月28日終了。
+  - 鋼鉄の守護姫兵団/鋼鉄の守護姫兵団xR ※提供:株式会社FUNYOURS JAPAN 2019年3月19日終了。
+  - 娘々三国志～天下にエロ男はただ一人～ ※2019年3月25日終了。
+  - 女神にキスを！〜Goddess Kiss〜 ※DMMGAMES/Dbros Co., Ltd.、2019年3月25日終了\[171\]。
+  - 必察！ロケットナース ※提供:株式会社デジタルクエスト 2019年3月27日終了。
+  - [対魔忍アサギ 決戦アリーナ](https://ja.wikipedia.org/wiki/対魔忍アサギ#対魔忍アサギ_決戦アリーナ "wikilink") ※提供:株式会社インフィニブレイン 2019年3月29日終了。
+  - 恒星少女 -Do The Scientists Dream of Girls' Asterism?- ※合同会社DMM.com 2019年4月1日終了。
+  - 極光のレムリア ※提供:株式会社 FUNYOURS JAPAN 2019年4月18日終了。
+  - 人妻浮気探偵 ※株式会社WILL、2019年4月26日終了。
+  - BALDR ACE ※提供:株式会社エディア 2019年5月30日終了。
+  - ガールズ・ヘルファイア　※DMM.com OVERRIDE、提供:合同会社DMMGAMES 2019年5月31日終了。
+  - 封神R ※提供:株式会社テクノード 2019年5月31日終了。
+  - エンジェルロック　Feel Girl's Emotion ※提供:株式会社PURERO 2019年6月28日終了。
+
+### 開発中止・未定
+
+  - 社にほへと ※諸問題により、2017年9月11日に開発中止を発表\[172\]。
+  - ふるーつふるきゅーと！ ～創生の大樹と果実の乙女～\[173\]
+
+### App Store/Google Play配信ゲーム
+
+[App Storeまたは](../Page/App_Store.md "wikilink")[Google Play配信用のスマートフォンアプリ](https://ja.wikipedia.org/wiki/Google_Play "wikilink")。
+
+  - 勇者ヤマダくん ※DMM.com POWERCHORD STUDIO/Onion Games
+  - EGGLIA 〜最期のたまご〜 ※DMM.com POWERCHORD STUDIO/BROWNIES
+  - 千年戦争アイギスA
+  - 神姫PROJECT A
+  - 刀剣乱舞-ONLINE- Pocket
+  - Witch’s Weapon -魔女兵器- ※DMM GAMES/SUIKINREI
+
+#### 終了したゲーム
+
+  - ラフジャスティス ※DMM.comラボ　2014年02月28日終了。
+  - ヴァンハント〜Holy Knight〜 ※[宮崎摩耶](https://ja.wikipedia.org/wiki/宮崎摩耶 "wikilink")/CAMMOT
+  - 斬-Xan- 戦国闘檄・無双伝 ※DMM.comラボ/HOBIBOX 2014年7月終了
+  - Brain Heroes (ブレインヒーローズ) - 偉人対戦型脳トレゲーム
+  - 魔法少女大戦タクティクス ※2016年1月21日終了
+  - 忍務遂行　※DMM.comラボ 2016年5月10日終了
+  - バトルマーチ・オブ・ワルキューレ ※DMM.comラボ 2016年6月30日終了
+  - ドラゴンアポカリプス（[ドラゴンプロヴィデンス](https://ja.wikipedia.org/wiki/ドラゴンプロヴィデンス "wikilink") 〜一般版〜）2016年8月1日終了。
+  - プリンセスパンツァー～三人の姫と空白の大地～ ※DMM.comラボ、2016年8月1日終了。
+  - プリンセスパンツァー ハートネス　※2016年8月1日終了。
+  - バニッシュメント・デイ ※DMM.com POWERCHORD STUDIO 2017年1月20日終了。
+  - 魔法図書館キュラレ 2017年2月28日終了。
+  - [OZ Chrono Chronicle](https://ja.wikipedia.org/wiki/OZ_Chrono_Chronicle "wikilink")　※DMM.comラボ 2017年2月28日終了。
+  - きみとくりお ※DMM.com POWERCHORD STUDIO/株式会社SAITEC 2017年5月31日終了。
+  - GRANATHA ETERNAL　※DMM GAMES/NEOWIZ GAMES
+  - フレンドラ〜竜とつながりの島〜 ※DMM.com POWERCHORD STUDIO 2017年10月25日終了。
+  - 絢爛乙女ガールズストライカー　※DMM.comラボ 2018年2月21日終了。
+  - レジェンヌ ※DMM.com POWERCHORD STUDIO 2018年6月25日終了。
+  - EGGLIA 〜赤いぼうしの伝説〜 ※DMM.com POWERCHORD STUDIO/BROWNIES 2018年8月15日終了。
+  - ウイニングハンド ※DMM.com POWERCHORD STUDIO、2019年1月25日終了。
+  - 三国志戦姫〜乱世に舞う乙女たち〜 ※2019年3月25日終了\[174\]。
+
+### コンシューマーゲーム
+
+  - [がるメタる\!](https://ja.wikipedia.org/wiki/がるメタる! "wikilink") ([Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")) ※2018年2月8日発売
+  - Trove -キラキラトレジャーパック- ([PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")) ※Trion Worlds, Inc. 2018年4月19日発売予定
+
+### PCゲーム
+
+[美少女ゲーム](https://ja.wikipedia.org/wiki/美少女ゲーム "wikilink")ブランド[エルフの一部タイトルの知的財産権を保有](../Page/エルフ_\(ブランド\).md "wikilink")。
+
+  - [祝姫](https://ja.wikipedia.org/wiki/祝姫 "wikilink") ※DMM.comラボ
+  - [シンソウノイズ〜受信探偵の事件簿〜](https://ja.wikipedia.org/wiki/シンソウノイズ〜受信探偵の事件簿〜 "wikilink") ※Azurite/DiGination
+  - あくまで、これは～の物語 ※Azurite/DMM.com Labo
+  - [ソーサレス＊アライヴ！](https://ja.wikipedia.org/wiki/ソーサレス*アライヴ!_〜the_World's_End_Fallen_Star〜 "wikilink") ※Fluorite/DMM GAMES
+  - タマユラミライ ※Azurite/DMM GAMES
+  - ガールズ・ブック・メイカー -幸せのリブレット- ※ユメミル /[ネクストン](../Page/ネクストン.md "wikilink")・DMM GAMES
+  - 社長隷嬢セレクション ※Hypersthene/DMM GAMES
+  - Missing-X-Link 天のゆりかご、伽の花 ※Fluorite/DMM GAMES
+
+### DMM GAMESプラットフォーム
+
+合同会社DMM GAMESが、企画・開発・運営するPC・スマートフォンブラウザゲーム、PCダウンロード型ゲーム、スマートフォンアプリゲームのゲームプラットフォーム。
+
+  - DMM GAMES ※基本無料のマルチデバイス対応のオンラインゲームプラットフォーム。
+      - DMM GAMESコミュニティ ※ゲームに関するコメントと画像が投稿できる電子掲示板サイト。
+      - DMM GAMESトーク ※DMM GAMESのユーザー同士でリアルタイムにメッセージのやり取りができる機能。
+  - DMM GAMES PCゲーム/ソフトウェア ※PCゲーム・ソフトウェアのダウンロード販売サイト。
+  - DMM GAMES.R18アダルトPCゲーム ※[アダルトPCゲーム](../Page/アダルトゲーム.md "wikilink") 、[BLゲーム](../Page/ボーイズラブゲーム.md "wikilink")・[乙女ゲーム](https://ja.wikipedia.org/wiki/乙女ゲーム "wikilink")、ゲーム音楽のダウンロード販売サイト。
+  - DMM GAME PLAYER ※PC向けゲームプラットフォームアプリケーション。PCゲームの購入・ダウンロード・起動、ダウンロード型オンラインゲーム（クライアントゲーム）のダウンロード・起動、ブラウザゲームの起動を行える。DMM GAME PLAYERで購入したゲームはDMM GAME PLAYER以外では利用できない。Android OS対象ゲームに限りDMM GAMESストアをインストールすることでスマートフォンでもプレイすることができる。また買い切り型のパッケージPCゲームのオンライン認証に利用されている。DMMのサービスIDのみログインが可能である。
+      - DMM GAMES 遊び放題 ※PCゲームが遊び放題になる定額制サービス。DMM GAME PLAYERのインストールが必要。入会すると一般とR18のどちらも遊び放題となる。
+  - DMM GAMESストア ※Android OS向けのゲームプラットフォームアプリ。ゲームアプリの購入、ダウンロード、インストール、更新が行える。[Google Playを介さない非公式のアプリマーケットなため](https://ja.wikipedia.org/wiki/Google_Play "wikilink")、Googleのサポート範囲外となる。
+
+### e-スポーツ事業
+
+  - PUBG JAPAN SERIES
+
+### DMM GAMES Ventures
+
+合同会社DMM GAMESによるゲーム関連企業を対象とした投資ファンド。
+
+#### 投資先
+
+  - [Rejet](https://ja.wikipedia.org/wiki/Rejet "wikilink")株式会社
+  - HONG KONG PITAYA NETWORK TECHNOLOGY CO., LIMITED（株式会社ピタヤゲームスの持株会社）
+
+## ミュージアム・テーマパーク事業
+
+  - [DMMかりゆし水族館](https://ja.wikipedia.org/wiki/DMMかりゆし水族館 "wikilink") ※2020年4月沖縄県内に開業予定。運営会社は[DMM RESORTS](https://ja.wikipedia.org/wiki/DMM_RESORTS "wikilink")。
+  - チームラボプラネッツ TOKYO ※東京都江東区豊洲6-1-16に常設された[チームラボ](https://ja.wikipedia.org/wiki/チームラボ "wikilink")による超巨大な4つの作品空間を中心とした計7つの作品空間による水に入るミュージアム
+      - チームラボプラネッツTOKYOチケットストア
+  - [DMM VR THEATER](https://ja.wikipedia.org/wiki/DMM_VR_THEATER "wikilink") ※ライブホログラフィック専用エンタテイメント常設劇場。シアターVR有限責任事業組合が運営。
+
+## グローバルビジネス
+
+### DMM英会話
+
+オンライン英会話事業。オンライン英会話事業の国内向けブランド。グローバル展開ブランドは『Engoo』\[175\]。フィリピン法人のBibo Global Opportunity, Inc.がサポート業務を行っている。
+
+  - オンライン英会話
+  - iKnow\! ※セレゴ・ジャパンより事業譲受。
+  - DMM英会話なんてuknow? ※英語Q\&Aサービス
+
+### アフリカとの貿易事業
+
+アフリカ事業。ECプラットフォームの運営、中古スマートフォンの販売、ケニアワインの輸入など様々な事業を展開。
+
+2015年12月に[アフリカ](../Page/アフリカ.md "wikilink")を含む新興途上国における最良の事業機会創出に立ち向かう組織として始動。ケニア、ルワンダ、コートジボワール、ガーナ、タンザニアのアフリカ5カ国に拠点を持つ。
+
+  - DMM.Africa BizArch ※海外進出サポート
+  - DMM Global Market
+
+### サッカークラブ経営
+
+[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")・リンブルフ州シント＝トロイデンを本拠地とするのサッカークラブ「[シント＝トロイデンVV](https://ja.wikipedia.org/wiki/シント＝トロイデンVV "wikilink")」の経営。
+
+### DMM TRAVEL
+
+旅行業。かつて北都観光（DMM.com Base）が旅行業を行っていたためグループとしては再参入である
+
+### 国際人材事業
+
+ベトナム現地法人と連携し、特定技能外国人材の紹介・管理支援
+
+## 教育・コミュニティ事業
+
+### DMM オンラインサロン
+
+会員制コミュニティサービス。DMM Loungeから名称変更。
+
+#### CANARY（カナリー）
+
+DMMオンラインサロン内限定の専門情報を取材して紹介するビジネス＆カルチャーメディア。
+
+#### DMM PUBLISHING
+
+合同会社DMM.comの書籍出版レーベル。2018年8月にDMMオンラインサロン内のコンテンツを書籍化する目的で設立された\[176\]。出版第1弾として2018年9月28日に「選ばれる条件 こうやれば、突き抜けられる」(著者：木村 直人/エザキ ヨシタカ)と「複業のトリセツ」(著者：染谷昌利)を発売。出版取次を通さない書店直卸\[177\]で、全国の提携書店及びインターネット通販限定で販売されている。
+
+### DMM WEBCAMP
+
+転職保証付プログラミングスクール。
+
+### DMM講演依頼　
+
+講師・タレント紹介サイト
+
+## エンターテイメント・コンテンツ事業
+
+### DMM pictures
+
+DMM.comのアニメーション制作・ライセンスビジネス事業。
+
+2017年4月、DMM.comがアニメーション事業部を立ち上げた際に用いるようになったレーベルで\[178\]、制作したアニメーションコンテンツを国内外に動画配信、DVD・Blu-ray、グッズなど、様々な形で提供している。またライセンスビジネスとして、DMM GAMES、DMM pictures、DMM musicに関するライセンス自体の販売からDVD・Blu-ray、CD、グッズの企画販売、イベントの企画運営、動画配信、音楽配信等、ライセンスビジネス全般を展開している。それら以前にも、『[大図書館の羊飼い](https://ja.wikipedia.org/wiki/大図書館の羊飼い "wikilink")』『[奇異太郎少年の妖怪絵日記](https://ja.wikipedia.org/wiki/奇異太郎少年の妖怪絵日記 "wikilink")』『[AKIBA'S TRIP -THE ANIMATION-](https://ja.wikipedia.org/wiki/AKIBA'S_TRIP#テレビアニメ "wikilink")』などの製作委員会に参加している。
+
+2019年より、DMMが立ち上げた「コンテンツ配信をスマートフォン・デジタルキャストメディアなどで恒常的に数話分まとめて視聴できる権利」をパッケージングセルソフト的に販売する形式「[PlayPic](https://ja.wikipedia.org/wiki/PlayPic "wikilink")」のリリースを一部アニメ作品で開始している。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年</p></th>
+<th><p>タイトル[179][180]</p></th>
+<th><p>ビデオソフト発売</p></th>
+<th><p>音楽制作</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2016年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/奇異太郎少年の妖怪絵日記" title="wikilink">奇異太郎少年の妖怪絵日記</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/AKIBA&#39;S_TRIP_-THE_ANIMATION-" title="wikilink">AKIBA'S TRIP -THE ANIMATION-</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/喧嘩番長_乙女_-Girl_Beats_Boys-" title="wikilink">喧嘩番長 乙女 -Girl Beats Boys-</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/有頂天家族2" title="wikilink">有頂天家族2</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>[[DIVE</p></td>
+<td><p>|DIVE</p></td>
+<td><p>]]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/捏造トラップ-NTR-" title="wikilink">捏造トラップ-NTR-</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/いぬやしき" title="wikilink">いぬやしき</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/Dies_irae_(アニメ)" title="wikilink">Dies irae</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/アニメガタリズ" title="wikilink">アニメガタリズ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/恋は雨上がりのように" title="wikilink">恋は雨上がりのように</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/刻刻" title="wikilink">刻刻</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/お前はまだグンマを知らない" title="wikilink">お前はまだグンマを知らない</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ニル・アドミラリの天秤" title="wikilink">ニル・アドミラリの天秤</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/銀河英雄伝説_Die_Neue_These" title="wikilink">銀河英雄伝説 Die Neue These</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/すのはら荘の管理人さん" title="wikilink">すのはら荘の管理人さん</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ざんねんないきもの事典" title="wikilink">ざんねんないきもの事典</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ユリシーズ_ジャンヌ・ダルクと錬金の騎士" title="wikilink">ユリシーズ ジャンヌ・ダルクと錬金の騎士</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CIRCLET_PRINCESS" title="wikilink">CIRCLET PRINCESS</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ドメスティックな彼女" title="wikilink">ドメスティックな彼女</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/FAIRY_TAIL" title="wikilink">FAIRY TAIL ファイナルシリーズ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/終末のハーレム" title="wikilink">終末のハーレム</a>VR</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ダイヤのA_actII" title="wikilink">ダイヤのA actII</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/川柳少女" title="wikilink">川柳少女</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/みだらな青ちゃんは勉強ができない" title="wikilink">みだらな青ちゃんは勉強ができない</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/なむあみだ仏っ!-蓮台_UTENA-" title="wikilink">なむあみだ仏っ！-蓮台 UTENA-</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/炎炎ノ消防隊" title="wikilink">炎炎ノ消防隊</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/グランベルム" title="wikilink">グランベルム</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/荒ぶる季節の乙女どもよ。" title="wikilink">荒ぶる季節の乙女どもよ。</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/あひるの空.md" title="wikilink">あひるの空</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/歌舞伎町シャーロック" title="wikilink">歌舞伎町シャーロック</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/真・中華一番!" title="wikilink">真・中華一番!</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ランウェイで笑って" title="wikilink">ランウェイで笑って</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/波よ聞いてくれ" title="wikilink">波よ聞いてくれ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/LISTENERS_リスナーズ" title="wikilink">LISTENERS リスナーズ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### DMM music
+
+DMM.comと[A-Sketch](https://ja.wikipedia.org/wiki/A-Sketch "wikilink")の共同で設立したアニメ・ゲーム事業と連携し、メディアミックスでのコンテンツの制作に特化した音楽レーベル\[181\]。
+
+#### 所属アーティスト
+
+### アニメスタジオ事業
+
+  - [ダブトゥーンスタジオ](https://ja.wikipedia.org/wiki/ダブトゥーンスタジオ "wikilink")
+
+### DMM TELLER
+
+ピックアップ運営のチャット小説アプリ。
+
+### スマホチケット事業
+
+  - tixeebox ※スマホで使える電子チケットアプリ
+  - DMM Passストア ※tixeeboxアプリ発券チケットを定価でお譲りする事ができるサービス。
+
+## ハードウェア・プロダクト事業
+
+### 消防車両事業
+
+株式会社ベルリングによる消防車の企画・開発・製造・販売
+
+### DMM.make
+
+モノづくり支援事業。
+
+#### DMM.make AKIBA
+
+シェアオフィスやイベントスペースなどビジネスの拠点として利用できる「DMM.make AKIBA Base」と、ホンモノの機材でプロトタイピングを可能にする「DMM.make AKIBA Studio」で構成された、富士ソフト秋葉原ビル内（東京都千代田区神田練塀町3）にある総合型モノづくりプラットフォーム。
+
+#### DMM.make 3D PRINT
+
+個人・法人向け 3Dプリントトータルプラットフォーム
+
+#### 誰でもカンタンサービス
+
+オリジナルTシャツ・オリジナルスマホケース・オリジナルフィギュア作成サービス。
+
+#### クリエイターズマーケット
+
+3Dプリントサービスなどで作成した商品の出品と購入ができる通販サイト。
+
+#### モノづくりログ　
+
+モノづくり情報メディア
+
+### DMM.make ROBOTS
+
+ロボットのネット通販と販売支援サービス。
+
+### DMM uni
+
+企業向けオリジナルユニフォーム制作サービス
+
+### FLEVO
+
+カートリッジタイプの電子タバコ（ VAPE ）FLEVO（フレヴォ）の販売
+
+## インフラ事業
+
+### DMM energy
+
+太陽光発電を基盤とした自然エネルギー事業
+
+  - DMM solar ※太陽光発電事業。
+  - DMM biomass ※バイオマス発電事業。
+  - 住宅用太陽光発電システム・蓄電池の販売
+      - DMM.make solar ※DMM.comオリジナル住宅用太陽電池モジュール\[182\]。
+      - DMM.make smart ※DMM.comオリジナル住宅用蓄電池
+  - DMM energy O\&M ※株式会社スマートエナジーとの提携による産業用太陽光発電システムの運転・保守点検サービス。
+  - DMMでんき ※エネチェンジ株式会社による中規模法人を対象とした電力会社切り替え支援サービス\[183\]。
+
+## ライフスタイル事業
+
+  - [nana music](https://ja.wikipedia.org/wiki/Nana_\(アプリ\) "wikilink") ※株式会社nana musicによる音楽コラボアプリ
+  - DMM AUTO ※スマホ完結型クルマ売却アプリ。
+  - AQUIZ by DMM.com ※クイズ買取サイト。
+  - MENUS ※管理栄養士のAI化を目指した健康献立提案アプリ（life+事業）。ohganic（オーガニック）からリニューアル。
+
+## Eコマース事業
+
+### DMM 動画
+
+マルチデバイスに対応した動画配信サービス。
+
+  - VR ※VR動画を配信（2016年11月に開始）。
+  - 舞台 ※2.5次元ミュージカルの舞台をLIVE&アーカイブ配信
+  - 映画、ドラマ、アニメ、パチ＆スロ、バラエティ・お笑い、趣味・スポーツ ※2017年12月より株式会社[ビデオマーケット](https://ja.wikipedia.org/wiki/ビデオマーケット "wikilink")が販売を行っている。
+  - 月額アイドルチャンネル ※オリジナルコンテンツの「Aircon＋」や[竹書房](../Page/竹書房.md "wikilink")などのアイドルビデオメーカーの動画を配信。
+
+<!-- end list -->
+
+  - DMM見放題ch ライト ※5000本以上のバラエティ・映画・ドラマ動画と2000本以上のアダルト動画が見放題になるサービス。2018年3月1日より株式会社デジタルコマースが販売を行っている。
+
+<!-- end list -->
+
+  - AKB48グループ LIVE\!\! ON DEMAND※[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")、[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")、[NMB48](https://ja.wikipedia.org/wiki/NMB48 "wikilink")、[HKT48](https://ja.wikipedia.org/wiki/HKT48 "wikilink")、[NGT48](https://ja.wikipedia.org/wiki/NGT48 "wikilink")のライブ公演を生中継・アーカイブ動画配信。
+
+### DMM 電子書籍
+
+コミックや小説などをパソコンやスマホで読める電子書籍プラットフォーム。
+
+  - DMMブックス ※電子書籍ビューア。2015年8月から株式会社[ACCESS](https://ja.wikipedia.org/wiki/ACCESS "wikilink")のビューアエンジンを採用
+
+### レンタル事業
+
+#### DMM DVD/CDレンタル
+
+DVD、Blu-ray、CD、コミックの宅配レンタル事業。2018年3月1日より株式会社デジタルコマースが販売を行っている。
+
+#### DMMいろいろレンタル
+
+衣服、服飾雑貨、家電製品、ベビー・キッズ用品、PC・オフィス機器、旅行用品、イベント用品、アウトドア用品、ゴルフ用品、カメラマン、高級車、ロボット、ミストマシン、カメラ機材、ヤギ、観葉植物の総合レンタルサービス。
+
+### DMM通販
+
+物販・通販事業。DVD・Blu-ray、CD、本・コミック、ゲーム、ホビー、カミソリなど商品を取り扱っている。
+
+  - DMMマーケットプレイス ※新品・中古品・コレクター品の個人間売買。クレジットカード決済のみに対応。
+  - DMM宅配買取 ※(株)ブックサプライによる本・CD/DVD・ゲーム・携帯電話・金・プラチナの買取サービス。
+  - DMMアイドルオークション ※グラビアアイドル・モデル・レースクィーンの私物・衣装のオークション
+
+## アミューズメント事業
+
+### DMMぱちタウン
+
+全国店舗情報や機種情報、ライターブログや動画コンテンツなどを取り揃えるパチンコ・パチスロ総合情報サイト（アプリ）
+
+  - pShare ※パチンコ・パチスロの収支管理、小役カウンター機能、ホール・機種情報スマホアプリ
+
+### DMM競輪
+
+インターネットで競輪に投票したり、 競輪くじを買うことができるサービス（[チャリロト](https://ja.wikipedia.org/wiki/チャリロト "wikilink")との提携サービス）
+
+  - Odds Navi　※DMM競輪内のメディアサイト
+
+### DMMスクラッチ
+
+1枚から購入できる ハズレなしのオンラインくじ事業
+
+## DMM VENTURES
+
+ベンチャーコミュニティ活性化への貢献・U25の若手起業家支援等を目的に、出資比率1〜5％を基準としたマイノリティ出資（投資事業）。
+
+  - 株式会社LOAD＆ROAD - IoTティーポットの製造・販売、アプリを通じた茶葉の販売事業「Teplo」
+  - 株式会社穴熊 - ビフォーアフターを参考に即座に購入・予約できるSNS「ビフォーパープルアフターピンク」
+  - 株式会社ココドル - 複業HRマッチングサービス 「ハッシュミー」の運営
+  - Bisu, Inc. - 日常に溶け込んだ健康管理・生涯健康を実現するIoT尿検査装置「bisu」
+  - 株式会社ジャパンヘルスケア - 予防医療で痛みのない社会を作る、スマホでオーダーメイドインソールを作るプロジェクト「HOCO」
+  - 株式会社ルミナス - アニソンカフェ&バー「ギルド」/「もふる」
+  - 株式会社ペンマーク - 大学生向けのスケジュール管理アプリ「Penmark」
+  - 株式会社ダリアミー - 悩める若者向け共感型メディア「DariaMe（ダリアミー）
+
+## その他サービス
+
+  - DMMポイント ※DMMで使えるプリペイド式の電子マネー
+  - DMMプリペイドカード ※DMMポイントをチャージできるプリペイドカード。
+  - DMMポイントコード ※DMMポイントをチャージできるデジタル商品券。
+  - toreta（トレタ） ※DMM競輪で利用できる会員専用電子マネー。
+  - DMMアフィリエイト
+  - DMM Player
+  - DMM動画プレイヤー
+  - DMM VR動画プレイヤー
+  - DMMダウンローダー ※デジタル配信サービスのダウンロードを支援するためのActiveXコントロールを利用したプログラム
+  - DMM inside ※DMM.com Groupが運営する公式[オウンドメディア](https://ja.wikipedia.org/wiki/オウンドメディア "wikilink")
+  - DMM meetup ※DMM.com Groupが開催する勉強会
+  - 亀チョク ※半年契約の業務委託。
+
+## 終了したサービス
+
+  - Dポイントプログラム ※支払いで溜まったDポイントを使って特典が交換できるサービス。
+  - DMM風俗情報 ※2009年11月[株式会社ジーオーティー運営のズバ](https://ja.wikipedia.org/wiki/ジーオーティー "wikilink")！風俗情報として独立\[184\]。
+  - IKUOO\! ※アダルトサイトの検索エンジン。
+  - のぞき ※[パラダイステレビ](https://ja.wikipedia.org/wiki/パラダイステレビ "wikilink")提供によるのぞき部屋サービス。
+  - 素人投稿 ※ビデオ・写真投稿サービス。2005年3月終了\[185\]。
+  - DMMブログ ※人気女優やタレント、チャットガール、DMM関連番組の公式ブログ。2017年6月30日終了。
+  - SEXゲーム「Virtual Sex Club」　※3Dのオンラインゲーム
+  - DMMナイトガイド ※キャバクラ情報サイト。
+  - ラブホ情報 ※株式会社ジーオーティー提供のラブホテル情報。
+  - DMMコミュニティ　※アダルト専門SNS 2015年6月22日終了。
+  - DMM.TV for STB\[186\]
+  - DMM.TV for Blu-ray Disc\[187\]
+  - DMMポータブル\[188\]
+  - デスクトップギャルコレクション ※アイドルの画像と動画が月額固定料金でダウンロードできるサービス\[189\]
+  - Dキャラッ！　※二次元ポータルサイト
+  - DMMライブトーク ※有名人との生放送コミュニケーションサービス\[190\]。2014年2月終了。
+  - DMMポイントオークション ※[ペニーオークション](https://ja.wikipedia.org/wiki/ペニーオークション "wikilink")
+  - DMMクーポン　※チケット共同購入サイト
+  - [恵比寿マスカッツ](https://ja.wikipedia.org/wiki/恵比寿マスカッツ "wikilink")公式ファンクラブ\[191\] ※2012年4月終了。
+  - TwitDMM ※Twitter向けアフィリエイトサービス\[192\]。
+  - DMM.水　※富士山の天然水を定期配送するウォーターサーバーレンタル\[193\]。2015年9月1日終了。
+  - DMMブランドアウトレット ※高級ブランド品の通販\[194\]。
+  - DMMキャッシュバック ※飲食店でお食事料金をお支払い後にキャッシュバックとしてお金の一部が戻ってくるサービス\[195\]
+  - DMMチャリティオークション ※芸能人の衣装や私物などをオークション形式で販売するサービス\[196\]。
+  - DMMポイントモール ※リアルワールドの協力よるポイントモールサービス\[197\]。2013年5月終了。
+  - DMMギフト券 ※デジタル商品券\[198\] 。
+  - DMMマネー ※電子マネー。
+  - DMMかき氷 ※[フタバ食品](https://ja.wikipedia.org/wiki/フタバ食品 "wikilink")株式会社のOEM生産
+  - JOSSY by DMM　※女子向けのポータルサイト
+  - DMMニュース ※2015年6月メディアシンク株式会社運営の[デイリーニュースオンライン](https://ja.wikipedia.org/wiki/デイリーニュースオンライン "wikilink")として独立\[199\]。
+  - DMM.make SLEECTION　※スタートアップ製品の流通・販売支援。
+  - DMM恋活　※恋愛マッチングサービス。2016年3月31日終了。
+  - DMM.肉会 ※facebookを活用したソーシャル焼肉会マッチングサービス。2016年4月25日、運営会社を株式会社Diraphへ移管。
+  - DMM.プラネッツ　※チームラボによるデジタルアート作品展
+  - DMM.make Distribution ※国内、国外家電製品の流通・販売を支援
+  - DMM.make STORE ※IoT商品を中心としたWebストア。楽天市場・Amazonにて展開。
+  - 海外版DMM.make STORE
+  - DMM.make BASIC ※デジタル汎用品ブランド。
+  - 2CHOPO　※LGBTポータルサイト。2017年3月に株式会社GENXYに譲渡\[200\]
+  - DMM.E　※イベント情報の検索やチケット購入。2017年8月アプリ版配信停止。
+  - イベルト！ ※AV女優イベント情報。ティーアイエス運営の外部サイト化。
+  - .yell plus（旧・DMM.yell）※アイドルの写真を見て応援、コメントができるサービス。2017年11月に[アクセルマーク](https://ja.wikipedia.org/wiki/アクセルマーク "wikilink")株式会社に譲渡\[201\]。
+  - DMM.make 3D PRINT TOKYO Factory ※アイジェット内に存在した技術・生産拠点。
+  - R18.com　※海外向けアダルト動画配信サイト。株式会社デジタルコマースへ移管。
+  - DMM LIVEcommune ※ライブ動画の配信・視聴アプリ。2018年5月31日終了\[202\]。
+  - communeポイント ※DMM LIVEcommune配信者に付与されるポイント。iTunesギフトや現金に交換できる。
+  - CHIPS ※ピックアップ運営の女性向けライブ配信アプリ\[203\]。
+  - Samurai-Games　※中国語圏向けゲームプラットフォーム。2017年12月20日ポイント購入停止、2018年6月21日終了。
+  - DMM動画.R18 ※FANZA動画に名称変更。
+  - DMM月額動画.R188 ※FANZA月額動画に名称変更。
+  - DMM見放題chライト.R18 ※FANZA見放題chライトに名称変更。
+  - DMM10円動画.R18 ※FANZA10円動画に名称変更。
+  - DMM無料動画.R18 ※FANZA無料動画に名称変更。
+  - DMMライブチャット.R18 ※FANZAライブチャットに名称変更。
+  - DMM出会い.R18 ※FANZA出会いに名称変更。DMMアカウントで提携先の出会いサービスを利用できるポータルサイト。
+  - DMM同人.R18 ※FANZA同人に名称変更。
+  - DMM電子書籍.R18 ※FANZA電子書籍に名称変更。
+  - DMMレンタル.R18 ※FANZAレンタルに名称変更。
+  - DMM通販.R18 ※FANZA通販に名称変更。
+  - DMMマーケットプレイス ※FANZAマーケットプレイスに名称変更。
+  - DMMアダルトオークション ※FANZAアダルトオークションに名称変更。
+  - DMM NEWS.R18 ※FANZAニュースに名称変更。
+  - DMM Okan　※家事代行サービス。
+  - DMM.make DISPLAY ※家電ベンチャーUPQからのODM供給\[204\]。
+  - DMM case ※オリジナルスマホケース作成アプリ。
+  - DMM Starter　※海外クラウドファンディング申請支援サービス。
+  - DMM留学 ※留学エージェント事業\[205\]
+
+<!-- end list -->
+
+  - DMM mobile ※[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")のネットワークを利用したモバイル通信（[MVNO](https://ja.wikipedia.org/wiki/仮想移動体通信事業者 "wikilink")）サービス\[206\]。
+
+<!-- end list -->
+
+  - DMM mobileツールアプリ ※DMM mobile会員専用の高速データ通信の設定やご利用状況確認アプリ
+  - DMMトーク ※[楽天コミュニケーションズ](https://ja.wikipedia.org/wiki/楽天コミュニケーションズ "wikilink")のネットワークを利用した格安電話アプリ。
+
+<!-- end list -->
+
+  - DMM 光 ※NTT東日本・NTT西日本が提供する「フレッツ光」の光回線サービスを利用したインターネット接続サービス。オプションとして光IP電話サービスの「DMM光電話」、光回線で地上・BS・CSテレビ放送が視聴できる「DMM光テレビ」があった。
+
+## 不祥事
+
+### DMMまとめサイト『はちま起稿』運営問題
+
+DMM.comが運営していたことが発覚し炎上したまとめサイト「[はちま起稿](https://ja.wikipedia.org/wiki/はちま起稿 "wikilink")」問題。
+
+  - 個人ブログを装いステルスマーケティング
+
+[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")の社員である[石井諒太郎](https://ja.wikipedia.org/wiki/石井諒太郎 "wikilink")が、DMM.comが運営していた（当時は個人ブログを装い隠していた）ゲーム系迷惑[まとめサイト](../Page/まとめサイト.md "wikilink")と呼ばれている『[はちま起稿](https://ja.wikipedia.org/wiki/はちま起稿 "wikilink")』管理人との飲み会写真をTwitterに載せ、ゲームファンから「はちまとの癒着を公言した」等、炎上し『はちま』が石井諒太郎がプロデューサーのゲーム『[グリムノーツ](https://ja.wikipedia.org/wiki/グリムノーツ "wikilink")』を紹介する記事も書いたことが発覚した\[207\]。
+
+スクウェア・エニックスの[ステルスマーケティング](https://ja.wikipedia.org/wiki/ステルスマーケティング "wikilink")騒動が問題視されていた頃、[山本一郎がTwitterで](https://ja.wikipedia.org/wiki/山本一郎_\(実業家\) "wikilink")『はちま起稿』はDMM.com運営であることを暴露した。これがきっかけとなり『[ねとらぼ](https://ja.wikipedia.org/wiki/ねとらぼ "wikilink")』編集部が情報募集をしながらDMM.comと『はちま』元管理人・[清水鉄平](https://ja.wikipedia.org/wiki/清水鉄平 "wikilink")に取材をしていたところDMM.comが公式プレスリリースで『はちま』を買収したが株式会社『インサイト』に売却済みと発表した\[208\]。また個人ブログを装い、プレイステーション4のゲームや、DMM.com製のブラウザゲームの告知や宣伝のために代理店やゲームメーカーの広報宣伝部に積極的にアプローチしていたことも判明\[209\]。
+
+  - 隠蔽工作
+
+ねとらぼ編集部が『はちま起稿』運営問題でDMM.comに取材をしたところ「広報では分かる者がいない」と言う回答だった。その後、分かる人間としてマーケティング本部長の[川端祐喜](https://ja.wikipedia.org/wiki/川端祐喜 "wikilink")が紹介されたが川端も「ぜんぜん把握してないので時間がほしい」と言う回答をした。10日後、川端から「公表すべき内容は弊社より情報提供する」と回答。しかしねとらぼ編集部では取材する際に情報提供を呼びかけて入手したDMM.comの座席表を所持しており、川端の座席は『はちま』元管理人・清水鉄平の左隣であったため把握してなくて時間がかかるのはおかしいとしている。また川端に取材した日に座席表から清水鉄平の名前が消されており、隠蔽工作が発覚した\[210\]。
+
+  - 謝罪
+
+12月30日に、山本一郎のインタビューに答える形で亀山敬司が本件について語り、亀山は『はちま起稿』についてよく知らなかったがそういうのは言い訳にならないとし、全ての責任を負うと宣言し謝罪した。また、2017年からのM\&Aは全てプレスリリースを打つと宣言した\[211\]。
+
+インタビュー中で亀山は「多くの方々にご迷惑をおかけしたことに対して単なる謝罪だけでなく、DMMが所有していた今年の著作権侵害などには、窓口を作り真摯に対応していきたい」「今後もう一度徹底的に調査するつもりだ」「調査結果を待って、責任はすべて私が引き受ける」と述べた。その後調査結果は公表されず有耶無耶にされたまま収束した。
+
+### DMM GAMES作品『カオスサーガ』盗作発覚問題
+
+オンラインゲーム『[カオスサーガ](https://ja.wikipedia.org/wiki/カオスサーガ "wikilink")』は2016年10月15日にサービスを開始した直後からTwitter上で「『[ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink")』に似たグラフィックが多数ある」と指摘が相次ぎ、開始わずか1日後の10月16日にサービスが終了した\[212\]。2017年8月4日、盗用があったことをDMM.com側が認め、謝罪した\[213\]。
+
+### その他
+
+  - 2015年7月28日より事前登録が開始された『神姫戦舞～ロストグリモワール～』の事前登録ページのソースコードにCygamesの『グランブルーファンタジー』のPVへのリンクがあることを指摘され、翌29日に事前登録を中止。9月14日に開発を中止した。その後『[神姫PROJECT](https://ja.wikipedia.org/wiki/神姫PROJECT "wikilink")』として再リリースした。
+  - 2017年7月11日よりDMM.R18で配信された『魔王の始め方オンライン』は[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")/[アニプレックス](../Page/アニプレックス.md "wikilink")のスマートフォンアプリ『[Fate/Grand Order](https://ja.wikipedia.org/wiki/Fate/Grand_Order "wikilink")』に酷似していると指摘を受ける。1週間後の7月19日にサービスを停止し、課金をしたユーザ全員に対して支払った金額を全てDMMポイントとして返還した\[214\]。その後、システム全体のリニューアルを経てサービスを再開した。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [ゲオホールディングス](https://ja.wikipedia.org/wiki/ゲオホールディングス "wikilink") - 同業他社。現・DMM.com Baseとフランチャイズ契約を結んでいたビデオシティを吸収。宅配レンタル、動画配信、オンラインゲームプラットフォーム（にじよめ）、同人・PCソフト・電子書籍の販売（[DLsite.com](https://ja.wikipedia.org/wiki/DLsite.com "wikilink")）等の分野で競合。
+  - [カルチュア・コンビニエンス・クラブ](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink") - 同業他社。宅配レンタル、通信販売、動画配信、オンラインゲームプラットフォーム（TSUTAYAオンラインゲーム）、MVNO（TONEモバイル）、アニメ事業（SMIRAL）等の分野で競合。
+  - [Nutaku](https://ja.wikipedia.org/wiki/Nutaku "wikilink") - DMM GAMESと提携している欧米圏のオンラインゲームプラットフォーム。ネットポルノ配信大手の[MindGeek](https://ja.wikipedia.org/wiki/MindGeek "wikilink")傘下。
+  - [bilibili](https://ja.wikipedia.org/wiki/bilibili "wikilink") - DMM GAMESと提携している中国の動画共有サイト。
+
+## 外部リンク
+
+  -   - \- DMM.com Groupの公式ブログ
+
+  -   -
+      -
+  - \- アニメーションレーベル公式サイト
+
+      -
+  - （※要認証）
+
+      -
+  - \- モノづくりのためのプラットフォーム
+
+  -
+  - \- DMMのPCゲーム総合ブランド
+
+[Category:DMM.com](https://ja.wikipedia.org/wiki/Category:DMM.com "wikilink") [Category:日本のインターネット企業](https://ja.wikipedia.org/wiki/Category:日本のインターネット企業 "wikilink") [Category:アウトビジョングループ](https://ja.wikipedia.org/wiki/Category:アウトビジョングループ "wikilink") [Category:アダルトビデオ](https://ja.wikipedia.org/wiki/Category:アダルトビデオ "wikilink") [Category:日本のレンタル業](https://ja.wikipedia.org/wiki/Category:日本のレンタル業 "wikilink") [Category:日本の卸売企業](https://ja.wikipedia.org/wiki/Category:日本の卸売企業 "wikilink") [Category:オンラインゲーム運営元](https://ja.wikipedia.org/wiki/Category:オンラインゲーム運営元 "wikilink") [Category:電子書籍配信サービス](https://ja.wikipedia.org/wiki/Category:電子書籍配信サービス "wikilink") [Category:オンライン書店](https://ja.wikipedia.org/wiki/Category:オンライン書店 "wikilink") [Category:日本のアニメメーカー](https://ja.wikipedia.org/wiki/Category:日本のアニメメーカー "wikilink") [Category:六本木](https://ja.wikipedia.org/wiki/Category:六本木 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:石川県発祥の企業](https://ja.wikipedia.org/wiki/Category:石川県発祥の企業 "wikilink") [Category:1999年設立の企業](https://ja.wikipedia.org/wiki/Category:1999年設立の企業 "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.  【大前研一のケーススタディ】もしも、あなたが「DMM.com会長」「オートバックスセブン社長」ならばどうするか? 　ビジネス・ブレークスルー大学出版（NextPublishing）
+10.
+11.
+12. [国立国会図書館サーチ - 書誌詳細 - DMM = ディーエムエム（ジーオーティー）2000](http://iss.ndl.go.jp/books/R100000002-I024626788-00)
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36. [DMMグループ本社移転のお知らせ](https://dmm-corp.com/press/press-release/6244)
+37.
+38.
+39.
+40. [グループ各社の管理部門業務を株式会社DMMホールディングス（現 株式会社DGホールディングス）へ移管しました。](http://www.kcint.co.jp/information/)
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56. 官報　平成30年1月31日　本紙第7193号　30頁　吸収分割公告
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74. [官報](../Page/官報.md "wikilink")、平成30年6月29日、（第7295号）、28頁、吸収分割公告
+75.
+76.
+77.
+78.
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+87.
+88.
+89.
+90.
+91.
+92.
+93.
+94.
+95.
+96.
+97.
+98. [官報](../Page/官報.md "wikilink")、平成31年4月26日（本紙第7497号）、28頁、新設分割公告
+99.
+100.
+101.
+102.
+103.
+104.
+105.
+106.
+107.
+108.
+109.
+110.
+111.
+112.
+113.
+114.
+115.
+116.
+117.
+118.
+119.
+120.
+121.
+122.
+123.
+124. 官報　平成30年1月31日　本紙第7193号　30頁　吸収分割公告
+125.
+126.
+127.
+128.
+129.
+130.
+131.
+132.
+133.
+134.
+135.
+136.
+137.
+138.
+139.
+140.
+141.
+142.
+143.
+144.
+145.
+146.
+147.
+148.
+149.
+150.
+151.
+152.
+153. 出版者記号904422
+154. 平成29年1月31日官報第6947号28頁
+155.
+156. 平成30年2月27日、官報本紙第7211号18頁
+157. 官報 平成30年8月28日（本紙第7336号）29頁 合併公告
+158.
+159.
+160.
+161.
+162.
+163.
+164.
+165.
+166.
+167.
+168.
+169.
+170.
+171.
+172.
+173.
+174.
+175.
+176.
+177. 出版者記号 9910424
+178.
+179.
+180.
+181.
+182.
+183.
+184.
+185.
+186.
+187.
+188.
+189.
+190.
+191.
+192.
+193.
+194.
+195.
+196.
+197.
+198.
+199.
+200.
+201.
+202.  ゴゴ通信|url=[https://gogotsu.com/archives/39196|website=ゴゴ通信（GoGo通信](https://gogotsu.com/archives/39196%7Cwebsite=ゴゴ通信（GoGo通信)）|date=2018-04-19|accessdate=2019-07-09|publisher=}}
+203.
+204.
+205.
+206.
+207.
+208.
+209.
+210.
+211. [はちま起稿買収問題、DMM.com亀山敬司会長が経緯を語る](http://bylines.news.yahoo.co.jp/yamamotoichiro/20161230-00066087/)
+212.
+213. [株式会社スクウェア・エニックス様および関係者様に対するお詫び](http://www.dmm.com/netgame/official/notice/chaossaga_html/=/ch_navi=none)
+214.

@@ -1,0 +1,76 @@
+> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:DSstation.JPG "wikilink") **DSステーション**（ディーエスステーション、DS STATION）は、かつて[任天堂](../Page/任天堂.md "wikilink")がゲーム販売店の店頭に設置していた[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用の支援機器である。
+
+DS用ソフトの体験版がプレイできる試遊台としての機能に加え、DSとの[無線LAN](../Page/無線LAN.md "wikilink")リンクが可能。
+
+[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")の発売に伴い、[2011年](../Page/2011年.md "wikilink")[9月](../Page/9月.md "wikilink")中旬をもってニンテンドー3DSステーションへ置き換わることとなった\[1\]。
+
+## 機能
+
+### インフォメーション
+
+DSステーション上部には20インチのモニターがあり、DS用ソフトのCMや任天堂からのインフォメーション映像が常時流れている。
+
+### Touch\! Try\! DS
+
+DSステーションの中央部分には[ニンテンドーDS Lite](../Page/ニンテンドーDS_Lite.md "wikilink")・クリスタルホワイトが一台設置してあり、体験版のプレイが可能。体験版は50タイトル以上が用意されており、順次追加されている。
+
+DS LiteはDSステーションに固定されているが上下の高さを調節でき、子供から大人まで不自由なくプレイ可能。また、前のプレイヤーが途中で止めた場合でもDSステーションにあるリセットボタンを押すことで最初からプレイすることができる。
+
+なお、Lite発売前はニンテンドーDSのプラチナシルバーが設置されていた。
+
+一部DSステーションではDS Liteが設置されていないものもあったり、[ニンテンドーDSi](https://ja.wikipedia.org/wiki/ニンテンドーDSi "wikilink")が設置されている場合がある。
+
+### DSダウンロードサービス\!
+
+新作ゲームの体験版や現在発売されているゲームソフトの追加データを、無線LANを通じて手持ちのニンテンドーDSにダウンロードできる機能。また、市販の予定の無い、[任天堂ゲームセミナー](https://ja.wikipedia.org/wiki/任天堂ゲームセミナー "wikilink")受講生作品が配信されることもある。また、ソフトウェアの不具合の為の修復プログラムも配信する場合もある。
+
+ダウンロードした体験版は電源を切るまで遊ぶことが出来る。体験版プレイ中に本体を閉じることでスリープモードに切り替わり、一時中断することが出来る。また、「[すれちがい通信](../Page/すれちがい通信.md "wikilink")」の中継基地機能も備えており、[リレー](../Page/リレー.md "wikilink")形式でデータの通信を行う\[2\]\[3\]。
+
+いずれのサービスも期間限定なので、どのソフトでダウンロードサービスができるのかは事前に公式サイトなどで確認する必要がある。同時期に配信されている体験版は数本前後。
+
+### ニンテンドーWi-Fiステーション
+
+[ニンテンドーWi-Fiコネクション](../Page/ニンテンドーWi-Fiコネクション.md "wikilink")の[アクセスポイントとして](../Page/アクセスポイント_\(無線LAN\).md "wikilink")、店内からインターネットに接続し、ニンテンドーWi-Fiコネクションのサービスを面倒な設定なしで利用することが出来る。 また、DSとの認証・暗号化などには任天堂が持っている[無線関係の特許](http://patent.astamuse.com/ja/published/JP/No/2007134996)が使われていると思われる。
+
+## 主な設置店舗
+
+任天堂が目標としている設置数は約1000台。
+
+  - [トイザらス](../Page/トイザらス.md "wikilink")各店舗：全国ほとんどの店舗で対応（ネット回線はWAKWAK）
+  - [イオングループ](../Page/イオン_\(企業\).md "wikilink") [ジャスコ](../Page/ジャスコ.md "wikilink")一部店舗
+  - [イトーヨーカ堂](../Page/イトーヨーカ堂.md "wikilink")各店舗：全国ほとんどの店舗で対応、独自の垂れ幕がある店舗もある
+  - [上新電機](https://ja.wikipedia.org/wiki/上新電機 "wikilink")各店舗（ジョーシンキッズランド）
+  - [ビックカメラ](https://ja.wikipedia.org/wiki/ビックカメラ "wikilink")各店舗（ネット回線はぷららのBフレッツハイパーファミリー）
+  - [ソフマップ](https://ja.wikipedia.org/wiki/ソフマップ "wikilink")各店舗
+  - [ヨドバシカメラ](../Page/ヨドバシカメラ.md "wikilink")各店舗（ネット回線はぷららのBフレッツハイパーファミリー）
+  - [ヤマダ電機](../Page/ヤマダ電機.md "wikilink")各店舗：「テックランド」、「LABI」店舗ではほとんどの店舗で対応
+  - [エイデン](https://ja.wikipedia.org/wiki/エイデン "wikilink")一部店舗：「Never Land」のある一部店舗
+  - [ポケモンセンター](https://ja.wikipedia.org/wiki/ポケモンセンター "wikilink")全店舗（ネット回線はぷららの固定IP・東京はフレッツADSL）
+
+## 脚注
+
+### 注釈
+
+<references group="注"/>
+
+### 出典
+
+## 関連項目
+
+  - [Wiiステーション](https://ja.wikipedia.org/wiki/Wiiステーション "wikilink")
+  - [月刊任天堂店頭デモ](https://ja.wikipedia.org/wiki/月刊任天堂店頭デモ "wikilink")（[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")の試遊台デモ）
+  - [ニンテンドーゾーン](https://ja.wikipedia.org/wiki/ニンテンドーゾーン "wikilink")
+
+## 外部リンク
+
+  - [公式サイト](http://www.nintendo.co.jp/ds/ds_station/index.html)
+  - [任天堂オンラインマガジン DSステーション大特集\!\!](http://www.nintendo.co.jp/nom/0605/index.html)
+
+[Category:ニンテンドーDS](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS "wikilink")
+
+1.
+2.  現在は終了している
+3.

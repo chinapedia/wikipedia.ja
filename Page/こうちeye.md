@@ -1,0 +1,116 @@
+> この記事は[eye](https://ja.wikipedia.org/wiki/eye)から翻訳されています。
+
+
+『**こうちeye**』（こうちアイ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")にスタートした[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（RKCテレビ）の平日夕方の地域[ニュース番組](../Page/報道番組.md "wikilink")。放送時間は月曜 - 金曜 18:15 - 18:56。
+
+## 概要
+
+[1989年](../Page/1989年.md "wikilink")から17年半にわたって放送された夕方の[ローカルニュース](https://ja.wikipedia.org/wiki/ローカルニュース "wikilink")『[こうちNOW](../Page/こうちNOW.md "wikilink")』の後継番組との位置づけにある。
+
+その後、[日本テレビ発の全国ニュースが](../Page/日本テレビ放送網.md "wikilink")[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月29日をもって『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』から『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』に変更されたことから、[EPGと高知放送公式サイトの](../Page/電子番組ガイド.md "wikilink")[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")における表記が「こうちeye」からピリオド有りの「**こうちeye.**」に変更された。また、番組内容も一部リニューアルが施された。土曜昼に『[ごきげん ボニートっ\!](https://ja.wikipedia.org/wiki/ごきげん_ボニートっ! "wikilink")』が放送されていた当時は、金曜のエンディングで同番組の告知をしていた。また、2010年末は12月24日で年内の放送が終了したため、12月27日・28日は『news every.・第2部（当時・現在の第3部に相当するパート）』を関東ローカル枠も含めた臨時フルネットで放送した（但し、「木原さんのお天気」部分は高知発の県内ニュース・天気予報に差し替えた）。
+
+2011年3月11日に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響によって、発生当日は同災害に関するNNN報道特番のため急遽放送休止となった。その後も、14日 - 18日は『news every.』を震災関連のNNN報道特番の扱いで臨時フルネットしたため放送休止となった\[1\]。22日に放送を再開したが、25日までは震災関連ニュースのため『every.』が18:36まで全国ネットで放送されたのに伴い、18:36開始の短縮放送となった。
+
+2011年10月3日から『news every.』のNNN枠が17:53 - 18:15に変更されたことに伴い、番組の開始時間が1分繰り上がって18:15開始になった。
+
+本番組の前座の時間帯には、東京からの全国ニュース『news every.』を16:50から放送。17:30頃に「木原さんのお天気」を差し替える形で、本番組のスタジオからローカルニュース1本と天気予報を伝える（ただし、重大ニュースにより17時台が全国ネットとなった場合は「木原さんのお天気」を差し替え無しでそのまま放送）。その後に東京のネットに戻し、18:15に[ステーションブレイク無し](https://ja.wikipedia.org/wiki/コマーシャルメッセージ#CMの種類 "wikilink")（[コマーシャル抜き](../Page/コマーシャルメッセージ.md "wikilink")）で高知の映像に切り替わる。また、番組終盤には『every.』18時台関東ローカルパート内のコーナー「きょうコレ」をコーナー途中までネットする。
+
+また、年末は原則仕事納めの12月28日頃まで放送しているが、2019年末は仕事納め前の12月25日で放送を終了し、同月26日・27日は『news every.・第2 - 3部』を臨時完全フルネット。17:30頃・18:40過ぎの「木原さんのお天気」や第3部関東ローカル枠の「every.特集」「気になる\!」を臨時ネットしたほか、「きょうコレ」も臨時にコーナーの最後まで放送した\[2\]。
+
+## キャスター
+
+### 現在
+
+**メインキャスター**
+
+  - [河内真](https://ja.wikipedia.org/wiki/河内真 "wikilink")
+
+**サブキャスター**
+
+  - [有吉都](https://ja.wikipedia.org/wiki/有吉都 "wikilink")（月 - 水曜）、[井手上恵](https://ja.wikipedia.org/wiki/井手上恵 "wikilink")（木 - 金曜）
+
+### 過去
+
+  - [丸山修](https://ja.wikipedia.org/wiki/丸山修 "wikilink")、[武内有子](https://ja.wikipedia.org/wiki/武内有子 "wikilink")（2006.10.2 - 2009.3.25）
+  - [久保田浩史](https://ja.wikipedia.org/wiki/久保田浩史 "wikilink")、[長谷川恵子](https://ja.wikipedia.org/wiki/長谷川恵子_\(高知放送\) "wikilink")（2006.10.5 - 2008.3.28）
+  - 久保田浩史、[大木瞳美](https://ja.wikipedia.org/wiki/大木瞳美 "wikilink")（2008.4.3 - 2009.3.27）
+  - [河内真](https://ja.wikipedia.org/wiki/河内真 "wikilink")、武内有子（2009.4.2 - ）
+  - [久保田浩史](https://ja.wikipedia.org/wiki/久保田浩史 "wikilink")、[大木瞳美](https://ja.wikipedia.org/wiki/大木瞳美 "wikilink")（2009.3.30 - ）
+  - [河内真](https://ja.wikipedia.org/wiki/河内真 "wikilink")、[有吉都](https://ja.wikipedia.org/wiki/有吉都 "wikilink")（2009.10.1 - ）
+  - [丸山修](https://ja.wikipedia.org/wiki/丸山修 "wikilink")、[有吉都](https://ja.wikipedia.org/wiki/有吉都 "wikilink")（2012.4.2 - ）
+
+### 代役
+
+  - 月曜 - 水曜のキャスターが不在のときには木曜・金曜のキャスターが、木曜・金曜のキャスターが不在のときには月曜 - 水曜のキャスターが代役として出演している。
+
+## コーナー
+
+### 共通コーナー
+
+  - 「[めばえ〜こうちの希望〜](https://ja.wikipedia.org/wiki/めばえ_\(テレビ番組\) "wikilink")」（月曜 - 金曜 18:45頃）
+      - 高知放送と同じ[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")の[読売テレビが幹事局を務める](../Page/讀賣テレビ放送.md "wikilink")[企画ネット](https://ja.wikipedia.org/wiki/企画ネット "wikilink")形式の[箱番組](https://ja.wikipedia.org/wiki/箱番組 "wikilink")『[めばえ](https://ja.wikipedia.org/wiki/めばえ_\(テレビ番組\) "wikilink")』の高知県版。月曜～木曜は[スタジオアリス](https://ja.wikipedia.org/wiki/スタジオアリス "wikilink")の協賛、金曜は[サニーマート](https://ja.wikipedia.org/wiki/サニーマート "wikilink")の協賛で放送される。月曜～木曜は県内で出生した1歳以下の赤ちゃんが両親と共に登場するVTRを、[熊木杏里](https://ja.wikipedia.org/wiki/熊木杏里 "wikilink")の楽曲「誕生日」に乗せて、1日1名のペースで紹介する。金曜日は「めばえ～大きくなったよ～」と題し過去に紹介した赤ちゃんの現在の姿を両親とともに紹介する。サブタイトルの「こうちの希望」には、「少子化が進む高知県で生まれたばかりの命。それは高知の未来を担う、高知の『希望』」という当番組からのメッセージが込められている。
+
+### 曜日コーナー
+
+#### 現在
+
+  - 月曜・「こうちのQ食」
+    高知の旬の食材をクイズを交えて毎回紹介する。「食1グランプリ」の実質的な後釜企画。
+    **担当キャスター**
+
+<!-- end list -->
+
+  - 井手上恵
+  - 高橋龍介
+  - 雫石将克
+
+<!-- end list -->
+
+  - 火曜・「あの値それは値」
+    物の値段から高知の今を探る。
+  - 水曜・「見よっか」(月1回)
+    こども高知新聞とのコラボ企画。
+  - 木曜・「土佐人力」（とさじんりょく）
+    県内の産業・スポーツなどの各界を引っ張る人やグループ、頑張っているスポーツ選手などにスポットを当てて紹介する。スポーツ選手の分野に関しては、2008年3月までの金曜コーナー「スポドキュ」の後継コーナーとも言える。過去にこのコーナーは[山本一力](https://ja.wikipedia.org/wiki/山本一力 "wikilink")司会で独立しての放送が行われた。
+  - 金曜・「Newsファイル」
+    [高知新聞](../Page/高知新聞.md "wikilink")を発行する高知新聞社とのコラボレーション企画。
+
+#### 過去
+
+現在も存在し、曜日が変更されただけのコーナーは省く。
+
+  - 木曜・「eyeスタイル」(放送開始 - 2008年3月)
+    番組の女性キャスターが、女性ならではの視点で県内の健康・流行・美容・子育てなどに関する話題をリポート。
+  - 金曜・「スポドキュ」(放送開始 - 2008年3月)
+    「スポーツに感動あり」をテーマとし、県内スポーツ選手（[部活動に勤しむ高校生などが多い](../Page/クラブ活動.md "wikilink")）に視点を置き、厳しい練習や周囲の支え、選手の一喜一憂など様々な面から描くドキュメンタリー。
+  - 火曜・「CATCH the EYE」(放送時期不明)
+    政治・経済・教育・気象・災害など高知での生活に関する幅広い話題を記者がリポートする。取材範囲は県内が主だが、関連する事柄であれば県を越えた取材も行い、リポート内容の充実を図っている。
+  - 月曜・「ふるさとeye」
+    県内の地域の人（主に住人や役場職員など）が、地域の自慢や伝統行事、イベント情報などをリポートする。また、視聴者から送られてきたビデオを紹介することもある。
+  - 木曜・「とさ勉」
+    高知のあまり知られていない情報や、他県には無い高知独特の習慣などをクイズ形式で紹介していく。
+  - 「eye love Dogs」
+    [四国アイランドリーグplus](https://ja.wikipedia.org/wiki/四国アイランドリーグplus "wikilink")の地元チーム[高知ファイティングドッグス](https://ja.wikipedia.org/wiki/高知ファイティングドッグス "wikilink")を「おらんくの球団」\[3\]として応援する。
+  - 「食1グランプリ」
+    高知の旬の食材を毎回紹介する。家庭でできる調理法や、生産者の思いなどを伝える。
+  - 「得エコ」
+    県内の企業などが行っている「地球温暖化対策」を紹介するコーナー。2010年3月までは金曜に放送されていた。
+
+### 不定期コーナー
+
+  - 中四国遺産
+    [中国・四国地方](https://ja.wikipedia.org/wiki/中国・四国地方 "wikilink")の[NNN系列局と共同で制作](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")。主に町の風景や行事などを高知に限らず取材し（担当は各地方局）、その映像を共有・放送している。
+
+## 脚注
+
+### 注釈
+
+## 外部リンク
+
+  - [こうちeye - RKC on the WEB](http://www.rkc-kochi.co.jp/tv/eye/) - 番組放送開始からしばらくの間、なぜかページのタイトルが「こうちNow」となっていた。2007年9月末時点で修正済み。
+
+[Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:高知放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:高知放送のテレビ番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:NNN_Newsリアルタイム](https://ja.wikipedia.org/wiki/Category:NNN_Newsリアルタイム "wikilink") [Category:News_every.](https://ja.wikipedia.org/wiki/Category:News_every. "wikilink") [Category:ヤン坊マー坊天気予報](https://ja.wikipedia.org/wiki/Category:ヤン坊マー坊天気予報 "wikilink")
+
+1.  21日も放送休止となったが、この日は16:53 - 19:00（日本テレビでは15:55から放送）に『[ACTION 日本を動かすプロジェクト](https://ja.wikipedia.org/wiki/ACTION_日本を動かすプロジェクト "wikilink")』が編成されていたため、元々放送予定が無かった。
+2.  なお、県内ニュースは15:50 - 15:55に『[RKCニュース](../Page/RKCニュース.md "wikilink")』を放送し補完したほか、県内の天気予報は18:50過ぎにCM扱いで放送した（通常18:55 - 19:00の『チャンネルはそのまま\!』枠で放送しているもののスライド）。
+3.  「おらんく」とは、主に「俺の所」といった意味で使われる[土佐弁](https://ja.wikipedia.org/wiki/土佐弁 "wikilink")（高知弁）であり、「私たちの球団」という愛着の意を示している。

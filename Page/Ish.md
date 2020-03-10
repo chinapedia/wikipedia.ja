@@ -1,0 +1,40 @@
+> この記事は[Ish](https://ja.wikipedia.org/wiki/Ish)から翻訳されています。
+
+
+**ish**（イシ、イッシ）は[バイナリ](../Page/バイナリ.md "wikilink")データとテキストデータを相互変換するための形式、もしくは相互変換を行うソフトウエアそのもののことである。また、変換されたテキストデータを含む[テキストファイル](https://ja.wikipedia.org/wiki/テキストファイル "wikilink")に対してつけられる[拡張子](../Page/拡張子.md "wikilink")として使われることもある。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月16日](../Page/9月16日.md "wikilink")に発表された。[拡張子](../Page/拡張子.md "wikilink")は通常、`.ish`を用いる。
+
+## 概説
+
+日本で開発された形式・[ソフトウエアであり](../Page/ソフトウェア.md "wikilink")、開発者は[石塚匡哉](https://ja.wikipedia.org/wiki/石塚匡哉 "wikilink")。開発者の名前から命名された（**ish**izuka）。
+
+通常は、直接バイナリファイルの送受信ができない[ネットワークや通信ソフトで](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")、バイナリファイルを送受信するときに利用する。
+
+日本国内での[パソコン通信](../Page/パソコン通信.md "wikilink")黎明期、当時の技術的な制約によりバイナリファイルを直接送受信することが困難であったこと、また、通信プロトコル上のエラー訂正機能が無いことによりデータの欠損が発生しやすい、という事情があったため、それらを解決できるものとしてISHが頻繁に利用されていた。
+
+2007年現在日本ではあまり使われていないが、通信[インフラの整備が不十分な地域や](https://ja.wikipedia.org/wiki/インフラストラクチャー "wikilink")、通信品質の劣悪な地域、[通信プロトコル](../Page/通信プロトコル.md "wikilink")が制限されているような環境ではその特性から重用されている。
+
+## 特性
+
+この方式の利点としては、バイナリファイルが[制御コードを含まないテキストデータに変換されるため](https://ja.wikipedia.org/wiki/ASCII#ASCII制御文字 "wikilink")、通常の[電子掲示板](../Page/電子掲示板.md "wikilink")への読み書きや[電子メール](../Page/電子メール.md "wikilink")本文への挿入といった形でバイナリファイルの送受信が可能なことである。
+
+[Intel HEX](https://ja.wikipedia.org/wiki/Intel_HEX "wikilink")、HC、Hex2binなど、ish以前にもバイナリをテキストに変換するソフトは存在したが、ishはそれらよりもはるかに高性能・多機能だった。
+
+送受信中の予期しないエラー（[データの変化、欠落](../Page/文字化け.md "wikilink")）に比較的強く（Ish化されたテキストは、縦・横・斜め方向に、一種の「リカバリレコード」が記録されている）、無手順による送受信でありながらある程度のエラー補正機能を持たせることができる。
+
+ソフトウエアの機能として、テキストファイル内から自動的にish形式のデータ部分を抽出することができるため、膨大な[ログ](https://ja.wikipedia.org/wiki/ログ "wikilink")ファイルなどからデータ部分を切り出すことなくバイナリファイルへの変換が可能である。その際、一つのテキストファイルに複数の**ish**形式のデータが含まれていても、それらを全て変換することも可能である。
+
+さらにパソコン通信では投稿できる記事に行数制限があることを想定して、バイナリからテキストに変換する際に行数を指定してファイルを自動的に分割することが可能で、ユーザーがアップロードするときにいちいち分割する手間が省けた。
+
+欠点としては、圧縮機能を持たないこととその理論上、元となるバイナリファイルよりもデータサイズが少し大きくなる事である。しかし**ish**は変換効率が非常に高く、同様の変換を行う他の形式/ソフトウエアよりも変換後データサイズは比較的小さい。
+
+## 関連項目
+
+  - [uuencode](https://ja.wikipedia.org/wiki/uuencode "wikilink")
+  - [BinHex](../Page/BinHex.md "wikilink")
+  - [Base64](https://ja.wikipedia.org/wiki/Base64 "wikilink")
+
+## 外部リンク
+
+  - [作者: 石塚 匡哉](http://www.vector.co.jp/vpack/browse/person/an000019.html) - Vector内のページ
+
+[Category:ファイルフォーマット](https://ja.wikipedia.org/wiki/Category:ファイルフォーマット "wikilink") [Category:フリーウェア](https://ja.wikipedia.org/wiki/Category:フリーウェア "wikilink")

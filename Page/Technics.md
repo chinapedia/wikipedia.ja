@@ -1,0 +1,106 @@
+> この記事は[Technics](https://ja.wikipedia.org/wiki/Technics)から翻訳されています。
+
+
+**Technics**（テクニクス）は、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")株式会社（旧・[松下電器産業](https://ja.wikipedia.org/wiki/松下電器産業 "wikilink")株式会社）の[音響機器](https://ja.wikipedia.org/wiki/音響機器 "wikilink")向けブランド、および[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")。[1965年](../Page/1965年.md "wikilink")発売の[スピーカー](../Page/スピーカー.md "wikilink")「SB-1204」のペットネーム「Technics 1」で初めて用いられた。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に主力製品だった[Technics SL-1200Mk](../Page/Technics_SL-1200.md "wikilink")6が販売終了となり、一部のアクセサリを除きブランドとして一旦終息したが、[2014年](../Page/2014年.md "wikilink")度より欧州および日本において再展開されている。1980年代以降は[レコードプレイヤー](https://ja.wikipedia.org/wiki/レコードプレイヤー "wikilink")の[Technics SL-1200シリーズが](../Page/Technics_SL-1200.md "wikilink")、クラブ[DJ用機材として](../Page/ディスクジョッキー.md "wikilink")[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")となっていた。
+
+## 概説
+
+Technicsの名は、「げんこつ」の愛称で親しまれ、輸出用に初めて"Pana Sonic"商標が用いられたスピーカー「[8P-W1](https://ja.wikipedia.org/wiki/8P-W1 "wikilink")」の設計者である阪本楢次と、大口取引先だった[日本橋電気街の](https://ja.wikipedia.org/wiki/でんでんタウン "wikilink")[河口無線](https://ja.wikipedia.org/wiki/河口無線 "wikilink")（後に[上新電機](https://ja.wikipedia.org/wiki/上新電機 "wikilink")子会社を経て現在は[クボテック](https://ja.wikipedia.org/wiki/クボテック "wikilink")傘下）の当時の会長との会話の中で決まったという\[1\]。
+
+[1960年代](../Page/1960年代.md "wikilink")末に開発されたスピーカーシステム、[ダイレクトドライブ](https://ja.wikipedia.org/wiki/ダイレクトドライブ "wikilink")モーターから始まり、中〜高級オーディオ市場に進出。その後は低価格帯の音響機器（大衆向けシステムコンポーネントステレオのYouシリーズ／Vシリーズや、据え置き型[テープレコーダー](../Page/テープレコーダー.md "wikilink")「RS-4800」等）にも使用した。更に[電子オルガン](https://ja.wikipedia.org/wiki/電子オルガン "wikilink")の「[テクニトーン](../Page/テクニトーン.md "wikilink")」、[電子ピアノ](../Page/電子ピアノ.md "wikilink")、消音ピアノユニット等もTechnicsブランドで販売した。また、[1970年代](../Page/1970年代.md "wikilink")〜[1980年代](../Page/1980年代.md "wikilink")にはカーコンポ（2DINサイズ、FM/AM電子チューナー、カセットデッキ）も販売した。
+
+大手総合[家電メーカー](https://ja.wikipedia.org/wiki/家電メーカー "wikilink")が軒並みオーディオ分野に進出する中で成功を収め、[ダイレクトドライブ](https://ja.wikipedia.org/wiki/ダイレクトドライブ "wikilink")、リニアフェイズ、擬似A級、そして[NTTとの共同開発による](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")[MASH等](https://ja.wikipedia.org/wiki/MASH_\(信号変換\) "wikilink")、下記する数々の新技術を開発・商品化して、名機と呼ばれる機種も輩出した。オーディオ専業メーカーとは異なり、大企業の一事業部としての採算性の制約から発売機種は低〜中価格帯の分野に集中していた。なお、当初はテープデッキが録音機事業部、それ以外がステレオ事業部と分かれていた。1980年代後期にステレオ事業部が録音機事業部のテクニクスブランド部門を統合してハイファイオーディオ事業部となり、録音機事業部の残りの部門はゼネラルオーディオ事業部となって、[1988年](../Page/1988年.md "wikilink")にはミニコンポやポータブルCDプレーヤーがPanasonicブランドへと順次移行されて行った。
+
+さらに[1989年](../Page/1989年.md "wikilink")にはいわゆる「単品コンポ」でも普及〜中級機にPanasonicブランドを、高級機のみ引き続きTechnicsブランドを適用する戦略に変更した。この時期に発売されたTechnics製品はGシリーズ（スピーカーを除く。GOLDのGであり、ボディカラーも当時流行し始めていたシャンパンゴールドで統一されていた）とネーミングされており、代表機種にセパレートアンプの7000シリーズなどがある。ただし、[1993年](../Page/1993年.md "wikilink")以降は中級以下の単体製品もTechnicsブランドへ戻された。
+
+[2000年代](../Page/2000年代.md "wikilink")に入り、TechnicsブランドはクラブDJ向け製品のみに存続していたが、Technicsの全ての製品は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月をもって生産終了となり、Technicsブランドは一旦終息した。
+
+[2014年](../Page/2014年.md "wikilink")9月、パナソニックは[高級オーディオ](https://ja.wikipedia.org/wiki/高級オーディオ "wikilink")機器ブランドとして4年ぶりにTechnicsの再展開を発表。欧州では同年12月、日本では[2015年](../Page/2015年.md "wikilink")2月よりTechnicsブランドの新製品が順次発売された\[2\]\[3\]\[4\]。
+
+[ニューヨーク近代美術館](../Page/ニューヨーク近代美術館.md "wikilink")に、レコードプレイヤー[Technics SL-10とホーン型スピーカー](https://ja.wikipedia.org/wiki/テクニクス_SL-10 "wikilink")「SST-1」が収蔵されている。
+
+かつて「SY-1010」というアナログシンセサイザーを出していた。
+
+## オーディオ史上に残る実績
+
+### ダイレクトドライブの開発
+
+同社は、ダイレクトドライブ式レコードプレーヤーの実用化に世界で初めて成功したメーカーである（「SP-10」[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")\[5\]。なお同機はユーザーが好みに応じてトーンアームやキャビネットと組み合わせる単体ターンテーブルであり、一般的な形態のプレーヤーとしてSL-1000が、そしてSL-1000からトーンアームを省略しユーザー側で好みのアームを2本まで取り付けられる様にしたターンテーブルシステムとしてSL-100Wがそれぞれラインナップされていた）。
+
+その系譜はSP-10の後継機であるSP-10MK2・SP-10MK3を初めSL-1200シリーズやレコードジャケットと同じ幅31.5cmのフルオートプレーヤーSL-10等へと続いていった。
+
+また、レコードプレーヤーほど有名ではないものの、カセットデッキやオープンデッキにもダイレクトドライブを積極的に採用している。RS-275U（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")）は世界初のダイレクトドライブカセットデッキである。
+
+### 「擬似A級」への取り組み
+
+1970年代後半に国内メーカー各社がそれぞれ独自に「擬似A級」と呼ばれる増幅方式のパワーアンプを発表・製品化した。他社も同様の増幅方式に着目し、数多くの製品が出た。利点としてはA級増幅では効率が悪く、B級増幅では、歪が大きくなるところを強制的に電圧をかけてB級アンプに擬似A級の増幅をさせることで、A級に類似した高精度の増幅とB級アンプの高効率増幅を両立したものである。中でも最も長期に渡り改良を進めたのが同社である。パワーアンプ「SE-A1」（1977年）の「Class A+」から始まり、「Strate DC」「New Class A」、「New ClassA Computer Drive」、スレッショルド社の回路を改良した「ClassAA」さらに初段の素子をMOS素子に変更した「MOS ClassAA」等、回路方式により幾つかの呼称が存在した。事実上最後のセパレートパワーアンプとなった「SU-C7000」「SE-A7000」シリーズにもMOS ClassAA回路が採用されている。
+
+**D級アンプ採用での復活**
+
+Technicsブランドでのアンプ販売は２００４年に一度終了していた。
+
+近年オーディオブーム到来で旧来ブランド名にて高級オーディオを[ダイヤトーン](https://ja.wikipedia.org/wiki/ダイヤトーン "wikilink")などがふっかつさせていたTechnicsもRシリーズを投入することで復活させた。
+
+増幅方式は従来の疑似A級動作（AB級増幅）アンプではなく、D級増幅を使っている。
+
+Technics Linkと呼ばれるLANケーブルを使った通信によってCDプレイヤー、プリアンプなどの機器とパワーアンプをデジタル化した信号で通信し、信号の劣化を防いでいる。
+
+デジルアンプとなるため、当然量子化とその補完の為増幅前と増幅後の信号は一致しない。
+
+### リニアフェイズスピーカ
+
+通常のスピーカーでは、ウーファ・スコーカ（ミッドレンジ）・ツイータ各々のユニットの奥行き寸法や、振動板の応答速度が異なるため、聴取位置での各音域の位相（フェイズ）は大きくずれているのが普通だった。そこで聴取位置での位相を揃えた「リニアフェイズ」と称するスピーカーシステムを商品展開した。
+
+一般的なスピーカーでは各ユニットが同一平面上に配置されるため位相が大きくずれるが、リニアフェイズスピーカでは、ボイスコイルの位置がほぼ等しくなるような配置となるため、前面バッフルは階段状の独特の外観となった（「SB-7000」、「SB-6000」、「SB-5000」等）。またホーン型ユニットが採用された製品では、ホーンの先端がバッフル前面から突出したデザインとなった（「SB-10000」等）。
+
+リニアフェイズスピーカには、階段状のシンボルマークが付けられていたが、後期の製品において、平面型ユニットの採用や、ウーファの取り付け部にスペーサを挿入して突出させたり、ツイータのホーンの一部を前面バッフルと一体成型するなどの手法により、外観が階段状ではなくなった製品であっても階段状のシンボルマークは継承されていた。
+
+### T・H・C・B（Technics Hybrid Construction Base）
+
+テクニクスが独自に開発した防振構造。当初は高級[レコードプレーヤー](../Page/レコードプレーヤー.md "wikilink")「1200シリーズ」にのみ採用されていたが、のちに[アンプ](https://ja.wikipedia.org/wiki/アンプ "wikilink")・[CDプレーヤー](https://ja.wikipedia.org/wiki/CDプレーヤー "wikilink")・[ビデオデッキ](https://ja.wikipedia.org/wiki/ビデオデッキ "wikilink")・[DVDプレーヤー](https://ja.wikipedia.org/wiki/DVDプレーヤー "wikilink")・[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")等の高級AV機器全般に拡大（「パナソニック」ブランドの一部上位機にも採用）。本体天板を分厚いアルミにした他、底面には大型インシュレーターと防振ゴム、加えて一部機種は左右に高級木板を取り付けて音の濁りの原因となる外部からの振動を徹底的に排除、MOS classAA等と相まって高音質を実現した。
+
+### 「竹」混抄電解コンデンサー
+
+竹繊維をコンデンサに混ぜて作った専用オーディオコンデンサを開発した。 Panasonic　VIERAシリーズの一部にも使用
+
+### バーチャルバッテリーオペレーション
+
+テクニクス及びパナソニックブランドの高級[CDプレーヤー](https://ja.wikipedia.org/wiki/CDプレーヤー "wikilink")・[DVDプレーヤー](https://ja.wikipedia.org/wiki/DVDプレーヤー "wikilink")・[アンプ](https://ja.wikipedia.org/wiki/アンプ "wikilink")・[ビデオデッキ](https://ja.wikipedia.org/wiki/ビデオデッキ "wikilink")の一部に採用されていた「音の濁りの原因となる電流・電圧の歪みを除去する回路」の事 。大型コンデンサに一度商用電力を蓄えることで、交流電源を直流化する際、入力電力により生じる電圧電流変化をできる限り減らす技術である。バーチャルバッテリーオペレーションと呼ばれているが、高級オーディオでは昔から大型コンデンサにより電力を蓄えており、特段に突飛する技術ではない。なお、テクニクスの一部の高級プリアンプでは専用充電式電池を用いることで、AC電源を完全に切り離し、バッテリー特性によるDCを得ることで、きれいなDC電源を得ていた。（バッテリーオペレーション） 　A級、AB級増幅に際しては、DC電源をトランジスタにかけることで微小電圧を増幅するので、特に微小信号増幅には商用電源の悪影響を受けやすい。近年も専用トランスを用いたり、オーディオに使うコンセントの回路をほかの家庭機器と分けたりする場合などもある。 しかし、日本の商用電力は５パーセント前後の電圧、位相変動があり、さらに、AC１００Vでは、Peak to Peak で+１４１V　-１４１Vを一秒間に５０～６０回移動する。 きれいなDC成分を作るために大型コンデンサや、トランスを用いるより、一度バッテリーに充電してしまったほうが手軽にきれいなDCを取り出すことが簡易な回路でできるため、採用されている。
+
+### 磁気抵抗変換（MR）素子を使ったカセットテープ用再生ヘッド
+
+元々はDCC（[デジタルコンパクトカセット](../Page/デジタルコンパクトカセット.md "wikilink")）用のヘッドとして開発された。従来の電磁誘導の法則を用いた再生ヘッドとは異なり、テープ上の磁気の強弱を周波数特性を持たずに出力信号として取り出すことができるため、理論上直流から再生が可能で従来必須だった低域上昇型イコライザーが不要。また構造上コンター効果が発生しないなど磁気テープの再生ヘッドとして優れた特性を持っていた。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月](../Page/11月.md "wikilink")に発売された3ヘッド・シングルキャプスタン方式のアナログカセットデッキ「RS-AZ7」（当時の[税別標準価格](../Page/消費税.md "wikilink")：59,800円）はこのヘッドを再生用ヘッドに用いた\[6\]世界で唯一のアナログカセットデッキであり、テクニクスブランドを含む[同社の最後の](https://ja.wikipedia.org/wiki/パナソニック "wikilink")3ヘッドカセットデッキでもあった。
+
+## 脚注
+
+## 関連項目
+
+  - [Technics SL-1200](../Page/Technics_SL-1200.md "wikilink")
+  - [テクニクス SL-10](https://ja.wikipedia.org/wiki/テクニクス_SL-10 "wikilink")
+  - [テクニクス SL-QL1](https://ja.wikipedia.org/wiki/テクニクス_SL-QL1 "wikilink")
+  - [オーディオ](https://ja.wikipedia.org/wiki/オーディオ "wikilink")
+  - [レコードプレーヤー](../Page/レコードプレーヤー.md "wikilink")
+  - [CDプレーヤー](https://ja.wikipedia.org/wiki/CDプレーヤー "wikilink")
+  - [AMステレオ対応受信機の歴史](https://ja.wikipedia.org/wiki/AMステレオ対応受信機の歴史 "wikilink")
+  - [パナソニックのVTRの歴史](https://ja.wikipedia.org/wiki/パナソニックのVTRの歴史 "wikilink")
+  - [パナソニックショップ](https://ja.wikipedia.org/wiki/パナソニックショップ "wikilink")
+  - [パナソニックのヘッドホンステレオ](https://ja.wikipedia.org/wiki/パナソニックのヘッドホンステレオ "wikilink")
+  - [パナソニックのポータブルCDプレーヤー](https://ja.wikipedia.org/wiki/パナソニックのポータブルCDプレーヤー "wikilink")
+
+## 外部リンク
+
+  - [Technics公式サイト](http://jp.technics.com/)
+
+  - [オーディオの足跡](http://www.audio-heritage.jp/index.html) - [Technics/Panasonic](http://www.audio-heritage.jp/TECHNICS/index.html)
+
+  - [The official Technics global website（United Kingdom, Germany, France, Sweden）](http://www.technics.com/global/)
+
+  -
+[Category:パナソニックのAV機器](https://ja.wikipedia.org/wiki/Category:パナソニックのAV機器 "wikilink") [Category:日本の音響機器メーカー](https://ja.wikipedia.org/wiki/Category:日本の音響機器メーカー "wikilink") [Category:日本のブランド](https://ja.wikipedia.org/wiki/Category:日本のブランド "wikilink")
+
+1.  『松下電器ラジオ事業部50年史』 非売品、その他より
+2.
+3.
+4.
+5.  前年の 1969 年に松下電器が SP-10 の発表を行ったが、 1970 年の製品の発売はソニー TTS-4000 の方が先。また同年には[デンオンも業務用の直結駆動方式](https://ja.wikipedia.org/wiki/デノン "wikilink")「ステレオ円盤再生機」 DN-302F を発売している。なお、はるか以前の 1929 年に[トーレンス](https://ja.wikipedia.org/wiki/トーレンス "wikilink")がダイレクトドライブ式レコードプレーヤーの特許を取得しているが、当時は[トランジスタ](../Page/トランジスタ.md "wikilink")の発明以前であり、ようやく五極管が登場した年では精密な回転速度制御など不可能で、トーレンスがベルトドライブに戻ってしまったのは当然といえる。
+6.  通称「**アモルファス-Z**」ヘッド。ただし録音用ヘッドには一般的な硬質パーマロイヘッドが用いられた。

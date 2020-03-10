@@ -1,0 +1,63 @@
+> この記事は[ALBUM \(\)](https://ja.wikipedia.org/wiki/ALBUM_\(\))から翻訳されています。
+
+
+『**ALBUM**』（アルバム）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。オリジナルは[1977年](../Page/1977年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")に[東芝EMIからリリースされた](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")（[LP](../Page/レコード.md "wikilink")：ETP-72291、[CT](../Page/コンパクトカセット.md "wikilink")：ZT25-172）。[1981年](../Page/1981年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink")再発（LP：ETP-90080、CT：ZT28-780）。現在まで[CD化されていない](../Page/CD-DA.md "wikilink")。
+
+## 解説
+
+  - **荒井由実&松任谷由実**というアーティスト名で発売されたベスト・アルバム。結婚後あまり表立った活動をしていなかった[1977年](../Page/1977年.md "wikilink")、ユーミン本人はアルバムを出すつもりはなかったが、レコード会社に頼まれる形でこのベスト・アルバムをリリースした。もちろん本人は乗り気ではなく、ベスト・アルバムにしてはオリコンの集計上で5.1万枚と売り上げが不振だったことからも、後にこのアルバムを「最大の汚点」と自著『ルージュの伝言』で語っている。乗り気のなさを表しているのがジャケットデザインで、白レーベルのサンプル盤をそのまま写したものである（更に、それは本作ではなく『[14番目の月](../Page/14番目の月.md "wikilink")』のLP盤を撮影したものである）。歌詞カードはユニークな[すごろく](../Page/すごろく.md "wikilink")になっている。オリジナル収録されなかった[1977年](../Page/1977年.md "wikilink")のシングル曲4曲を全て収録した唯一のアルバムであった。
+  - 後に乱発された[アルファレコード](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")企画のベストとは違い、レコード会社製作の非売品ディスコグラフィにひっそりと載せられ、現在はオフィシャルサイト上のYUMING SOUND LIBRARYのベスト盤ディスコグラフィに掲載される公認ベスト・アルバムである。
+  - 本作は発売当時の売れ行きが今ひとつだったことに加え、シングル（[EP](../Page/レコード.md "wikilink")、[CDシングル](https://ja.wikipedia.org/wiki/8センチCD "wikilink")、両者共）も現在では入手困難となっていることが要因ともなり、本作の中古LP盤は保存状態の良いものであれば価格が高騰する傾向がある。
+
+## 収録曲
+
+### Side A
+
+1.  **[遠い旅路](../Page/遠い旅路.md "wikilink")**
+      -
+        シングル「遠い旅路」より。
+2.  **中央フリーウェイ**
+      -
+        アルバム『[14番目の月](../Page/14番目の月.md "wikilink")』より。
+3.  **グッド・ラック・アンド・グッドバイ**
+      -
+        アルバム『14番目の月』より。
+4.  **曇り空**
+      -
+        アルバム『[ひこうき雲](../Page/ひこうき雲_\(荒井由実のアルバム\).md "wikilink")』より。
+5.  **ナビゲイター**
+      -
+        シングル『遠い旅路』より。
+
+### Side B
+
+1.  **[卒業写真](../Page/卒業写真_\(荒井由実の曲\).md "wikilink")**
+      -
+        アルバム『[COBALT HOUR](../Page/COBALT_HOUR.md "wikilink")』より。
+2.  **海を見ていた午後**
+      -
+        アルバム『[MISSLIM](../Page/MISSLIM.md "wikilink")』より。
+3.  **[潮風にちぎれて](../Page/潮風にちぎれて.md "wikilink")**
+      -
+        シングル「潮風にちぎれて」より。
+4.  **生まれた街で**
+      -
+        アルバム『MISSLIM』より。
+5.  **消灯飛行**
+      -
+        シングル「潮風にちぎれて」より。
+
+<!-- end list -->
+
+  - 作詞・作曲 : 荒井由実、松任谷由実（A-1,A-5,B-3,B-5）　編曲 : 松任谷正隆、荒井由実&キャラメルママ（A-4）
+
+## 参加ミュージシャン
+
+各オリジナルアルバム参照。
+
+## 外部リンク
+
+  - 松任谷由実オフィシャルサイトによる紹介ページ
+      - [ALBUM](http://yuming.co.jp/discography/best/best02/)
+
+[Category:Yumingのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:Yumingのベスト・アルバム "wikilink") [Category:1977年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1977年のベスト・アルバム "wikilink") [Category:エキスプレスのアルバム](https://ja.wikipedia.org/wiki/Category:エキスプレスのアルバム "wikilink")

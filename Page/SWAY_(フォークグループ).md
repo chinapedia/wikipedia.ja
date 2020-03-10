@@ -1,0 +1,130 @@
+> この記事は[SWAY \(\)](https://ja.wikipedia.org/wiki/SWAY_\(\))から翻訳されています。
+
+
+**SWAY**（スウェイ）は、[1980年代](../Page/1980年代.md "wikilink")後半から[2000年代](../Page/2000年代.md "wikilink")初め頃にかけて活動した日本の女性[フォークデュオ](https://ja.wikipedia.org/wiki/フォークデュオ "wikilink")である。
+
+## 来歴
+
+**杉山加奈**と**堀部雅子**の2人が当初「さそり座」の名で結成した。2人が中学2年生の時、自作曲「窓ガラスのへのへのもへじ」が第28回[ヤマハポピュラーソングコンテスト](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")（ポプコン）で優秀曲賞を受賞し、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")2月、[ポリドールから同曲でデビューした](https://ja.wikipedia.org/wiki/ポリドール・レコード "wikilink")。同曲は[オリコン最高](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")40位で、3万6000枚以上を売り上げた。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")の「おいでブランコリー」は第17回[世界歌謡祭](https://ja.wikipedia.org/wiki/世界歌謡祭 "wikilink")で金賞した。この時は高校生であった。同年、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』に「[最後のシュート](../Page/最後のシュート.md "wikilink")」を提供した。これは引退試合で敗れた[バスケットボール](../Page/バスケットボール.md "wikilink")部員の心象を歌いあげたものである。
+
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に自主製作CD『チャイム』を発表した後、事務所を変わったことを機に「SWAY」と改名、2枚のCDアルバム、1枚のシングル、2冊のCDブックを発表した。[フォーク調の歌唱法](../Page/フォークソング.md "wikilink")、低声部（堀部）が主にリードをとり高声部（杉山）が[3度と](../Page/音程.md "wikilink")[オブリガート](https://ja.wikipedia.org/wiki/オブリガート "wikilink")を付けていくスタイルで、さまざまな断面での[青年期](https://ja.wikipedia.org/wiki/青年期 "wikilink")の心象風景を歌い、地味ながらある程度の人気があった。「ある日突然」はTVバラエティ番組『[うれしたのし大好き](https://ja.wikipedia.org/wiki/うれしたのし大好き "wikilink")』のエンディングにも使われた。最初のCDブック『風の子フータ』ではストーリー、挿絵、音楽全てをSWAY自身が手掛けた。1991年から1992年にかけて、[NHK名古屋FMの](../Page/NHK名古屋放送局.md "wikilink")『[FMリクエストアワー](https://ja.wikipedia.org/wiki/FMリクエストアワー "wikilink")』でDJを担当した。
+
+ところが、堀部が結婚引退することになり、改名以降アレンジとプロデュースを担当してきた「3人目のSWAY」こと**丸尾めぐみ**が1999年以降ボーカルとしても参加した。ソングブック『[夢のクレヨン王国](https://ja.wikipedia.org/wiki/夢のクレヨン王国 "wikilink")』等に参加し、ライブも継続して行った。2000年に『[おジャ魔女どれみ♯(しゃーぷっ)](https://ja.wikipedia.org/wiki/おジャ魔女どれみ#『おジャ魔女どれみ♯（しゃーぷっ）』 "wikilink")』のエンディングの「声をきかせて」と「耳をすませて」をメンバー2人で製作した。杉山が結婚にともない[タイに渡ったため](../Page/タイ王国.md "wikilink")、以後は活動停止状態となっている。
+
+## ディスコグラフィー
+
+### さそり座
+
+#### シングル（さそり座）
+
+2枚とも、ジャケット表面には[村野守美](https://ja.wikipedia.org/wiki/村野守美 "wikilink")によるイラストが使用されている。
+
+  - 窓ガラスのへのへのもへじ／なぐさめのリイベ(1985年2月25日)
+      - 作詞・作曲：杉山加奈／編曲：[森田雅彦](https://ja.wikipedia.org/wiki/森田雅彦 "wikilink")
+  - おいでブランコリー／雨の日曜日(1987年3月25日)
+      - 作詞・作曲：杉山加奈／編曲：森田雅彦
+
+#### アルバム（さそり座）
+
+  - チャイム(1991年8月、自主制作盤)
+
+<!-- end list -->
+
+1.  キャンプファイヤーの夜
+2.  さよならねプリンス
+3.  ぼくのいる場所
+4.  あなたのアンブレラ
+5.  まよいながら
+6.  チャイムが鳴っても
+7.  ハンニャの面
+8.  風から生まれた
+9.  ガールズの夜
+10. my self
+11. 霧の中で
+
+### SWAY
+
+#### シングル（SWAY）
+
+  - ある日突然／散歩（1992年5月23日）
+      - 作詞・作曲：杉山加奈／編曲：[丸尾恵](https://ja.wikipedia.org/wiki/丸尾恵 "wikilink")
+    <!-- end list -->
+      -
+        [フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[うれしたのし大好き](https://ja.wikipedia.org/wiki/うれしたのし大好き "wikilink")」エンディングソング
+  - 太陽の下の一瞬／川べりの風景（1994年1月21日）
+      - 作詞・作曲：杉山加奈／編曲：[野口義修](https://ja.wikipedia.org/wiki/野口義修 "wikilink")
+  - 風の子フータ／草ぶえと麦わら帽子（1994年8月21日）
+
+<!-- end list -->
+
+  - キライにならないで／ぬ〜ぼ〜のいちにち
+      - 作詞・作曲：杉山加奈／編曲：[青木隆夫](https://ja.wikipedia.org/wiki/青木隆夫 "wikilink")・丸尾めぐみ
+    <!-- end list -->
+      -
+        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「あにめあさいち」内TVアニメーション『[NOOBOW](https://ja.wikipedia.org/wiki/ぬ〜ぼ〜#TVアニメ "wikilink")』主題歌
+
+#### アルバム（SWAY）
+
+  - CHIME（初回盤:1992年2月25日発売、普及版:1992年6月25日）
+    1.  チャイムが鳴っても（作詞・作曲：杉山加奈／編曲：[丸尾恵](https://ja.wikipedia.org/wiki/丸尾恵 "wikilink")）
+    2.  風から生まれた（作詞・作曲：杉山加奈／編曲：[六川正彦](https://ja.wikipedia.org/wiki/六川正彦 "wikilink")・丸尾恵）
+    3.  [最後のシュート](../Page/最後のシュート.md "wikilink")（作詞・作曲：杉山加奈／編曲：丸尾恵）
+          -
+            [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』(1987年)放送曲
+    4.  霧の中で（作詞・作曲：杉山加奈／編曲：丸尾恵）
+    5.  モシモシ（作詞・作曲：杉山加奈／編曲：六川正彦）
+    6.  ある日突然（作詞・作曲：杉山加奈／編曲：丸尾恵）
+    7.  ふてくされた週末（作詞・作曲：杉山加奈／編曲：六川正彦・丸尾恵）
+    8.  羊飼いの夢（作詞・作曲：杉山加奈／編曲：丸尾恵）
+    9.  月の見える部屋（作詞・作曲：杉山加奈／編曲：六川正彦）
+    10. 散歩（作詞・作曲：杉山加奈／編曲：丸尾恵）
+  - ほろ馬車（1994年3月21日）
+    1.  ミンミン蝉の夏（作詞・作曲：杉山加奈／編曲：丸尾めぐみ）
+    2.  幼なじみ（作詞・作曲：杉山加奈／編曲：丸尾めぐみ）
+    3.  すれ違った日（作詞・作曲：杉山加奈／編曲：[野口義修](https://ja.wikipedia.org/wiki/野口義修 "wikilink")）
+    4.  太陽の下の一瞬（作詞・作曲：杉山加奈／編曲：野口義修）
+    5.  イナイイナイ（作詞・作曲：杉山加奈／編曲：丸尾めぐみ）
+    6.  木々のすき間から（作詞・作曲：杉山加奈／編曲：丸尾めぐみ）
+    7.  潜水艦（作詞・作曲：堀部雅子／編曲：丸尾めぐみ）
+    8.  川べりの風景（作詞・作曲：杉山加奈／編曲：丸尾めぐみ）
+    9.  トッカン工事（作詞・作曲：杉山加奈／編曲：丸尾めぐみ）
+    10. 曇天のうつる池（作詞・作曲：杉山加奈／編曲：丸尾めぐみ）
+    11. ほろ馬車（作詞・作曲：杉山加奈／編曲：丸尾めぐみ）
+  - RETAIN（1999年5月20日）
+    1.  Hello, FP-Trot
+    2.  冬きたりなば春とおからじ（作詞：[杉山マリコ](https://ja.wikipedia.org/wiki/杉山マリコ "wikilink")／作曲：杉山加奈）
+    3.  素直なLoveSong（作詞・作曲：杉山加奈）
+    4.  Favorite Puzzle（作詞：Kana\&Megu／作曲：Megu）
+    5.  水の惑星（ほし）に生まれて（作詞：杉山マリコ／作曲：杉山加奈）
+    6.  ひとりとふたり（作詞・作曲：丸尾めぐみ）
+    7.  港スクリーン （作詞・作曲：杉山加奈）
+    8.  帰れない道（作詞・作曲：杉山加奈）
+    9.  Bye-bye, FP
+
+#### 参加作品（SWAY）
+
+  - リボンの騎士（1995年7月20日 CD文庫）
+      - まいごの心 〜at the Silent Forest〜
+
+### 杉山加奈
+
+#### シングル（杉山加奈）
+
+  - ン・パカ・マーチ／ありのままに(1997年)
+      - ありのままに
+    <!-- end list -->
+      -
+        東映動画制作『[夢のクレヨン王国](https://ja.wikipedia.org/wiki/夢のクレヨン王国 "wikilink")』エンディングテーマ
+
+## ラジオ
+
+  - [FMリクエストアワー](https://ja.wikipedia.org/wiki/FMリクエストアワー "wikilink")（[NHK-FM名古屋](../Page/NHK名古屋放送局.md "wikilink")）
+
+## 外部リンク
+
+  - [公式サイト](http://www.outdex.net/sway/)
+
+  - [さそり座を眺めながら](http://www.geocities.co.jp/MusicStar-Bass/9901/)(公認ファンページ)
+
+  -
+[Category:日本のフォークグループ](https://ja.wikipedia.org/wiki/Category:日本のフォークグループ "wikilink") [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:ポプコン出身者](https://ja.wikipedia.org/wiki/Category:ポプコン出身者 "wikilink")

@@ -1,0 +1,59 @@
+> この記事は[EVE The Fatal Attraction](https://ja.wikipedia.org/wiki/EVE_The_Fatal_Attraction)から翻訳されています。
+
+
+『'''EVE The Fatal Attraction '''』（イブ ザ フェイタル アトラクション）は、[ゲームビレッジ](https://ja.wikipedia.org/wiki/ゲームビレッジ "wikilink")から発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")。1作目『[EVE burst error](https://ja.wikipedia.org/wiki/EVE_burst_error "wikilink")』の4年後が舞台。主人公は私立探偵「天城小次郎」と捜査官「法条まりな」。2人の主人公を操作してストーリーを進めていくマルチサイト[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。主に「EVE TFA」と略される。
+
+[2001年](../Page/2001年.md "wikilink")9月に[PlayStation版が発売された後](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")、[Windows版が発売された](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+
+元になったゲームは以下で詳述する「[EVEシリーズ](https://ja.wikipedia.org/wiki/EVEシリーズ "wikilink")」の3作目にあたる『**ADAM THE DOUBLE FACTOR**』であり、併せて記述する。
+
+## 概要
+
+本作は[1999年](../Page/1999年.md "wikilink")に[シーズウェア](../Page/シーズウェア.md "wikilink")より発売された、Windows用[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")『**ADAM THE DOUBLE FACTOR**』を元にした移植作品である。この作品は「EVEシリーズ」ながらタイトルから「EVE」という名が外され、「ADAMシリーズ」の第1作という扱いとされていたが、事件は未解決のまま続編の発売を示唆する終わり方で、結局は続編は発売されなかった。
+
+その後、コンシューマー版として移植するにあたり、[性描写の削除をはじめとするシナリオの大幅な加筆修正がおこなわれ](https://ja.wikipedia.org/wiki/性行為 "wikilink")、間の別作『EVE ZERO』に続いての「EVEシリーズ」の5作目として題名も『EVE The Fatal Attraction』と改題されて発売。本作単体で完結する完全版といえる作りになっている。とはいえ、本作においても物語終盤ではストーリーをかいつまんだダイジェスト的演出となっており、全ての謎が明かされることはない。また、栗栖野亜美が物語の重要なキャラクターになり、主役2人の性格などが一部変更されている。
+
+## ストーリー
+
+『EVE burst error』の4年後を舞台に、あまぎ探偵事務所所長「天城小次郎」と内閣情報調査室の捜査官「法条まりな」の2人の主人公が連続猟奇殺人事件を捜査し、またも「エルディア」と「EVE」に深く関わってゆく事になる。
+
+### 小次郎編
+
+相変わらず港の倉庫街で細々と仕事をこなしていた小次郎。そこへ[ボディーガード](../Page/ボディーガード.md "wikilink")の依頼が舞い込む。依頼者は安藤商事という会社の社長、安藤左衛門。最初は断ろうと思っていた小次郎だったがその報酬が破格だったため、胡散臭さを感じながらも引き受けた。身を護ってほしいとしながらも多くを説明しようとしない安藤や秘書の栗栖野亜美。助手の氷室とともに安藤商事の裏側を調べつつ、小次郎は生涯初めてのボディーガードという依頼に挑む。
+
+### まりな編
+
+アメリカの特殊部隊での訓練を終えのんびり休暇を過ごそうと思っていた矢先、上司の甲野から連続猟奇殺人事件の捜査のため日本に呼び戻されたまりな。国家的大事件に発展する可能性があるとの事で渋々任務に就いた。被害者の娘ユカを保護しつつ、共に一連の事件の関連性を調べてゆくうちに、被害者たちが「旧エルディア情報部」に関わりがあることが判明していく。
+
+## 登場人物
+
+声優はADAM（左）とTFA（右）で差異がある。
+
+  - **天城 小次郎**（あまぎ こじろう）[声](../Page/声優.md "wikilink")：不明/[子安武人](../Page/子安武人.md "wikilink")
+  - **法条 まりな**（ほうじょう まりな）声：不明/[三石琴乃](../Page/三石琴乃.md "wikilink")
+  - **桂木 弥生**（かつらぎ やよい）声：不明/[本多知恵子](https://ja.wikipedia.org/wiki/本多知恵子 "wikilink")
+  - **氷室 恭子**（ひむろ きょうこ）声：不明/[松井菜桜子](https://ja.wikipedia.org/wiki/松井菜桜子 "wikilink")
+  - **甲野 三郎**（こうの さぶろう）声：不明/[野沢那智](../Page/野沢那智.md "wikilink")
+  - **安藤 左衛門**（あんどう さえもん）声：不明/[西村知道](https://ja.wikipedia.org/wiki/西村知道 "wikilink")
+  - **安藤 美佳**（あんどう みか）声：不明/[高木礼子](https://ja.wikipedia.org/wiki/高木礼子 "wikilink")
+  - **安藤 美紀**（あんどう みき）声：不明/高木礼子
+  - **栗栖野 亜美**（くるすの あみ）声：不明/[玉川紗己子](https://ja.wikipedia.org/wiki/玉川砂記子 "wikilink")
+  - **藤井 ユカ**（ふじい - ）声：不明/[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")
+  - **美村 貴史**（みむら たかし）声：不明/[鈴村健一](../Page/鈴村健一.md "wikilink")
+  - **ブレード** 声：不明/[長嶝高士](https://ja.wikipedia.org/wiki/長嶝高士 "wikilink")
+  - **高千穂 唯**（たかちほ ゆい）声：不明/[かかずゆみ](https://ja.wikipedia.org/wiki/かかずゆみ "wikilink")
+  - **アドリア・エスコヴェート** 声：不明/[中西祐美子](https://ja.wikipedia.org/wiki/中西祐美子 "wikilink")
+  - **デビッド・ジョーンズ** 声：不明/[大倉正章](https://ja.wikipedia.org/wiki/大倉正章 "wikilink")
+  - **プリーチャー** 声：不明/[若本規夫](../Page/若本規夫.md "wikilink")
+  - **六条 夕子**（ろくじょう ゆうこ）声：不明/[内川藍維](https://ja.wikipedia.org/wiki/内川藍維 "wikilink")
+  - **ウォーレン・ヒルツ** 声：不明/[橋本昌也](https://ja.wikipedia.org/wiki/橋本昌也 "wikilink")
+  - **エドワード・シュミット** 声：不明/[佐間功](https://ja.wikipedia.org/wiki/佐間功 "wikilink")
+
+## システム
+
+  - マルチサイトシステム
+    「EVEシリーズ」の基本ともいえるシステム。2人の主人公の視点から見るそれぞれのストーリーを、交互に切り替えながら進めていき、ひとつの事件を追っていく。所々に「ザッピングポイント」があり、一方のストーリーを進めているだけではゲームが進展しなくなる。その場合、もう一方のストーリーに切り替え、一定のポイントまで内容を進めなくてはならない。
+  - タッチャブルビューシステム
+    『ADAM』から採用されていた新システム。ゲーム画面上に表示されたカーソルを表示されたキャラクターウィンドウや画面背景の調べたい場所にあわせて決定ボタンを押すと、人物との会話や、選択した場所の情報を表示させることができる。人物との会話や、前作までの「見る、調べる、移動」などの行動コマンドの類は全てこのタッチャブルビューシステムで行う事になる。ちなみに、主人公の台詞は基本的に声が入っていないが、ゲーム画面左上の主人公のウィンドウを選択した場合のみ声を聞く事ができる。
+
+[Category:EVEシリーズ](https://ja.wikipedia.org/wiki/Category:EVEシリーズ "wikilink") [Category:1999年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1999年のアダルトゲーム "wikilink") [Category:2001年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2001年のコンピュータゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink")

@@ -1,0 +1,122 @@
+> この記事は[VZ Editor](https://ja.wikipedia.org/wiki/VZ_Editor)から翻訳されています。
+
+
+**VZ Editor**（**ヴイゼットエディタ**）は、[MS-DOS](../Page/MS-DOS.md "wikilink")用文字編集ソフト（[テキストエディタ](../Page/テキストエディタ.md "wikilink")）である。1989年発売、複数ファイルの同時編集対応、[EMS](../Page/EMS.md "wikilink")対応。当時の定価は9800円。1992年末の時点で累計16.5万本（うち[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")版1.5万本）が販売された\[1\]。
+
+## 概要
+
+[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")の[名古屋工業大学](https://ja.wikipedia.org/wiki/名古屋工業大学 "wikilink")出身の[プログラマ](../Page/プログラマ.md "wikilink")、**[兵藤嘉彦](https://ja.wikipedia.org/wiki/兵藤嘉彦 "wikilink")**（**ひょうどう よしひこ**、**c.mos**）がアセンブラで記述し、[1989年](../Page/1989年.md "wikilink")5月に[ビレッジセンター](https://ja.wikipedia.org/wiki/ビレッジセンター "wikilink")から発売した。兵藤が設計したエディタ「**EZ98**（**EZ Editor**）」を基に\[2\]、兵藤が自ら改良・機能強化を施し、改称して出荷した。[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")には、実行プログラムの他、アセンブラのソースコード、[テトリス](https://ja.wikipedia.org/wiki/テトリス "wikilink")のようなマクロで作成したゲームを同梱していた。
+
+## 経緯
+
+発売当時、ビレッジセンターは、アメリカの[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")、[シェアウェア](../Page/シェアウェア.md "wikilink")の店を営業していた\[3\]。英語ソフトウェアの日本の機種への移植製品や、[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")などのフリーソフトウェア関連製品の販売をしていた。そう言った経緯があり、開発者である兵藤の名が前面に出るといったユニークな販売スタイルとなった\[4\]。一時期、兵藤がビレッジセンターでユーザサポートの電話に出たり、メールしたりすることもあった。
+
+VZ Editorは兵藤が[PC-9801 U2を購入した際に](../Page/PC-9800シリーズ.md "wikilink")、プログラム開発のためにはまずはテキストエディタが必要だ、との動機から開発されたものである\[5\]。兵藤はそれより以前に所有していた[ベーシックマスター S1というパーソナルコンピュータでテキストエディタの開発経験があった](https://ja.wikipedia.org/wiki/ベーシックマスター#S1 "wikilink")。日経mixのアセンブラ会議の遠藤啓治らによるアセンブラについての助言等を参考にしており\[6\] 必要なノウハウを蓄えていった\[7\]。
+
+当時のMS-DOS環境のテキストエディタは、[フリーウェア](../Page/フリーウェア.md "wikilink")や[シェアウェア](../Page/シェアウェア.md "wikilink")には[PSE](https://ja.wikipedia.org/wiki/PSE "wikilink")のような簡易なもの以外にはほとんど存在していなかった。市販品である[MIFES](../Page/MIFES.md "wikilink")（[メガソフト](https://ja.wikipedia.org/wiki/メガソフト "wikilink")）やFINALは数万円の価格設定であった。その中でVZ Editorは9800円という安価で発売した\[8\]\[9\]。[1990年代](../Page/1990年代.md "wikilink")前半はMIFESと、[MS-DOS](../Page/MS-DOS.md "wikilink")用[テキストエディタ](../Page/テキストエディタ.md "wikilink")の市場を二分、数多くの賞を受賞し、MS-DOS時代のパソコン文化史に一時代を築いた。
+
+1992年頃のVer.1.5の対応機種は[PC-9801](https://ja.wikipedia.org/wiki/PC-9801 "wikilink")シリーズとその互換機用に東芝の[J-3100シリーズ](https://ja.wikipedia.org/wiki/ダイナブック_\(東芝\) "wikilink")、[AX](../Page/AX.md "wikilink")マシン用が添付、そのほかに[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")マシン、日本IBMの[PS/55](https://ja.wikipedia.org/wiki/PS/55 "wikilink")シリーズ用を別途用意していた\[10\]。1993年のVer.1.6は、98フォーマット(1.25MB)の5インチおよび3.5インチとIBMフォーマット(1.44MB)の3.5インチの3枚の[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")が同梱され、1つで全プラットフォームに対応するパッケージとされた\[11\]。
+
+## 普及
+
+出版社は、[パソコン雑誌](https://ja.wikipedia.org/wiki/パソコン雑誌 "wikilink")でVZ Editor使いこなしの記事を連載し、解説書を多数発行した。書籍『VZ倶楽部』には、開発者のほか、マニュアル作成者の西田雅昭、マクロ作成者の大野元久、社長の中村満、SF作家[高千穂遥](https://ja.wikipedia.org/wiki/高千穂遥 "wikilink")、プログラマ[中村正三郎](../Page/中村正三郎_\(プログラマ\).md "wikilink")、PC-VANのN5200ユーザネットのシスオペをしていてN5200への移植をした小川清はじめ、多くの文化人が執筆している。内容は随筆だが、VZエディタの開発の経緯、VZエディタの特徴などを記載している記事もある。ただし、兵藤、大野、中村満は複数のペンネームで執筆しているため、誰がどれを書いているかを当てるのがマニアの間で興味の的となった。
+
+[パソコン通信](../Page/パソコン通信.md "wikilink") の会議室（[日経MIX](https://ja.wikipedia.org/wiki/日経MIX "wikilink")のv.c.会議および[NIFTY-Serve](https://ja.wikipedia.org/wiki/NIFTY-Serve "wikilink")のFGALPK）でのユーザからの意見を積極的に取り入れ、様々な改良を加えた。利用者が開発したマクロプログラムをパソコン通信上で公開するなど、ユーザによって発展したソフトでもあった。パソコン通信では、高千穂などの文筆業の支持を得て、これまでプログラマの道具と思われていたテキストエディタが、文章作成の道具として認知を受けることになった\[12\]。さらに、製品にはソースコードが付属していたので\[13\]、ユーザアセンブルによるソフトウェアの小規模化、移植、改造版も存在していた。OPTASMというアセンブラでアセンブルし、同梱のリンカでリンクすると、数バイト小さくなる版があった。そのため、アセンブラプログラマは、好んでOPTASM を購入した。
+
+関連ソフトとして、石田暢彦(wing)によりVWX、兵藤によりZCOPYなども開発された\[14\]。
+
+多くの当時のPCへの移植がある。それ以外にも富士通[FMR](https://ja.wikipedia.org/wiki/FMR "wikilink")シリーズおよび[FM TOWNSシリーズ](../Page/FM_TOWNS.md "wikilink")\[15\]、[PC-88VA](https://ja.wikipedia.org/wiki/PC-88VA "wikilink")シリーズや、[文豪](https://ja.wikipedia.org/wiki/文豪 "wikilink")や[OASYS](../Page/OASYS.md "wikilink")などのワープロ専用機、[N5200](https://ja.wikipedia.org/wiki/N5200 "wikilink")などのオフコンへの移植版パッチ\[16\]も[パソコン通信](../Page/パソコン通信.md "wikilink")で配布されていた。Windowsへの移植を希望する声もあったが、[DOS窓](https://ja.wikipedia.org/wiki/DOS窓 "wikilink")で動くこともあり、「Windows版のVZ Editor」は登場しなかった。Windows用テキストエディタ [Wz Editorが事実上の後継ソフトウェアであるが](https://ja.wikipedia.org/wiki/WZ_EDITOR "wikilink")、Wz Editorは兵藤の作ではない。
+
+## 機能・性能
+
+小さな設計で、[more (UNIX)や](https://ja.wikipedia.org/wiki/more_\(UNIX\) "wikilink")[less](https://ja.wikipedia.org/wiki/less "wikilink")コマンドのような軽快な動作を保ちながら\[17\]\[18\]\[19\]、優れた操作性と強力な[マクロ機能を持つことで人気を呼んだ](../Page/マクロ言語.md "wikilink")。これは本体の機能は少なめとして、必要な機能はユーザーが任意にマクロで実装すると言うコンセプトにもよる\[20\]。マクロ機能は強力で、キーボードマクロを編集してマクロとして利用することができた。マクロはその画面上で簡単なアクションゲームを動作させ得るほどであり、同梱のマクロでは、ゲームの[テトリス](https://ja.wikipedia.org/wiki/テトリス "wikilink")が動く事が、プログラマの賞賛の的となった\[21\]。MIFES互換マクロも存在した\[22\]。マクロは記号の羅列なため難解で、その制作者は一部に限られ、彼らは時にマクロ師と呼んで崇められた。ソフトに同梱されているマクロファイルのいくつかは、パソコン通信のユーザが開発したものである\[23\]。また、[grep](https://ja.wikipedia.org/wiki/grep "wikilink")による検索や、ファイル管理機能など後のテキストエディタで一般化した機能を先取りしたことも特徴である。
+
+### 常駐モード
+
+VZ Editorの大きな特徴のひとつは、[常駐](https://ja.wikipedia.org/wiki/常駐 "wikilink")モードである。常駐させた状態では、MS-DOSのコマンドラインから[Escキー](https://ja.wikipedia.org/wiki/Escキー "wikilink")を押すだけでVZ Editorを起動することができる\[24\]。まだ[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")が高価で[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")のみでの運用が主流だった当時、エディタ用のディスクを抜いた状態で高速に起動できるというだけでも利点であった。ちなみに常駐に要するメモリサイズは110KB、EMSを使用するなどした場合は55KB程度、パフォーマンスを犠牲にした場合は2.5KB弱程度である\[25\]。
+
+このVZ Editorの常駐モードは単にメモリ上で起動するだけではなく、[コンソール](https://ja.wikipedia.org/wiki/コンソール "wikilink")の入出力を[フックするという機能を持っている](../Page/フック_\(プログラミング\).md "wikilink")。この機能により、スクロールして画面から消え去った情報をバックスクロールで確認できることに加え、出力のうち必要な部分だけを後から選んでファイルに貼り付けることもできる。また入力のフックを利用して、入力ヒストリ機能を実現している\[26\]。
+
+### カスタマイズ
+
+カスタマイズ機能も充実しており、設定ファイル(defファイル)を編集することで、画面表示のほか、メニューやほとんどのキー設定を変更でき、また後述する強力なマクロ機能で独自の機能拡張にも対応していた\[27\]。また、2ストロークキーにも対応しており\[28\]、標準ではこのキーはQとKに割り振られている\[29\]。
+
+### マクロ
+
+マクロ機能は当時としては強力なものであり、[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")などの作成も可能であった。また、キーボードマクロ機能も持っており、これをファイルに保存して通常のプログラマブルマクロとして恒常的に使用することもできた\[30\]。
+
+マクロは、機械語のように文字数の非常に少ない構成となっており、可読性に著しい問題が有った\[31\]。一例として、文字列を画面下に表示するコマンドは*\&m("strings")*であり、カーソルをファイル終端に移動させるには*\#_ \#\>*と言った塩梅であった\[32\]。
+
+しかし、VZ Editorの特徴の一つである豊富な短縮キーをほぼ全て記憶していたヘビーユーザにとっては、短縮キーとマクロが一対一に対応している機能が多かったため、マクロの読み書きが容易であった。例としては、リターンの短縮キー Ctrl+M のマクロは \#m。↓の短縮キー ctrl+X のマクロは \#x など。
+
+## 受賞歴
+
+  - 1991年 - 1993年 第4回\~第6回日経バイト賞 ベストエディタ賞
+  - 1992年 - 1994年 第1回\~第3回ベストヒットソフトウェア大賞 グランプリ
+  - 1993年 PC of the year ソフトウェア大賞
+  - 1994年 第7回日経バイト賞 ユーティリティソフト・ベスト評価賞
+  - 1994年 日本ソフトウェア大賞 アイコン賞、月刊アスキー賞、アプリング賞
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  - We love VZ editor 遠藤啓治 技術評論社 1989
+
+  - ワープロいらずのVZエディタ 西田雅昭、斎藤恵美 技術評論社 1990
+
+  - VZ倶楽部 ビレッジセンター出版局 1991
+
+  -
+  -
+  -
+  -
+## 関連項目
+
+  - [WZ EDITOR](https://ja.wikipedia.org/wiki/WZ_EDITOR "wikilink") - 実質的な後継ソフト、Windows用
+  - [テキストエディタの一覧](https://ja.wikipedia.org/wiki/テキストエディタの一覧 "wikilink")
+
+## 外部リンク
+
+  - [c.mosのホームページ](http://www.vcraft.jp/) - 兵藤嘉彦のホームページ
+  - [VZ resource](http://mezala.la.coocan.jp/vz/index.html) - VZ Editor関連情報の総合ページ
+  - [高橋版VZの導入](http://mezala.la.coocan.jp/vz/env/win/win06.html)
+
+[Category:テキストエディタ](https://ja.wikipedia.org/wiki/Category:テキストエディタ "wikilink") [Category:DOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:DOSのソフトウェア "wikilink") [Category:1989年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1989年のソフトウェア "wikilink")
+
+1.
+2.  村井 p.18
+3.  1987年12月、アメリカの[PDS](https://ja.wikipedia.org/wiki/PDS "wikilink")を紹介するために、事務所の一角で起業した。(『ヒット商品物語』p.218)
+4.  『ヒット商品物語』 pp.206-207
+5.
+6.  We love VZ editor 遠藤啓治 技術評論社
+7.
+8.  村井 p.17
+9.
+10. 『VZ Editor Version 1.5 ユーザーズマニュアル』ビレッジセンター、1992年12月第3版。
+11. 村井 pp.16-17,24 または 『VZ Editor Version 1.6 ユーザーズマニュアル』ビレッジセンター、1993年12月第1版。
+12. VZ倶楽部
+13. 村井 p.17
+14. 村井 p.280
+15. 村井 p.314
+16. NECのN5200への移植を書いたのは[名古屋工業大学](https://ja.wikipedia.org/wiki/名古屋工業大学 "wikilink")出身の小川清。
+17. 兵藤によれば、フルアセンブラで無駄な設計をせずに作成したため自然と高速となっただけとのことである。『ヒット商品物語』p.209
+18. また、VZがアセンブラで開発されているのは、当時の兵藤が単にC言語のスキルを備えていなかったといっただけの理由であり、特に動作速度の向上などを狙って用いたものではない。
+19. 『月刊アスキー』 1991年2月号
+20. 『ヒット商品物語』pp.212-215
+21. 志村ら p.74
+22. 当時[名古屋工業大学](https://ja.wikipedia.org/wiki/名古屋工業大学 "wikilink")にいた[大野元久](https://ja.wikipedia.org/wiki/大野元久 "wikilink")が書いたもの
+23. 『ヒット商品物語』pp.215-216
+24. 志村ら p.14
+25. 志村ら p.14
+26. 村井 pp.76-78、p.141、p.187「DOSコマンドモード」
+27. 村井 p.17、p.66、p.199「カスタマイズ」
+28. 例えば ctrl + Q -\> S で行の先頭へ、など。
+29. 村井 p.68
+30. 村井 p.239 - 、志村ら p.85、p.213, p.217
+31. 志村ら p.82
+32. 志村ら appendix

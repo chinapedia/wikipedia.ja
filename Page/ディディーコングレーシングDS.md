@@ -1,0 +1,89 @@
+> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+
+
+『**ディディーコングレーシングDS**』は、[任天堂](../Page/任天堂.md "wikilink")から日本国外で発売されている[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト。日本では発売中止。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[NINTENDO64](../Page/NINTENDO64.md "wikilink")で発売された『[ディディーコングレーシング](https://ja.wikipedia.org/wiki/ディディーコングレーシング "wikilink")』をニンテンドーDS用ソフトとしてリメイク移植した作品。
+
+## 概要
+
+64版のディディーコングレーシングをDS版に移植したゲームだが、画面の都合上キャラクターが大きく見える範囲が狭くなっている。またDS版には追加要素が含まれている。開発は既に任天堂から手を引いた[レア社](https://ja.wikipedia.org/wiki/レア社 "wikilink")が関わっているためか日本での発売はなかった。
+
+追加要素としては以下のようなものがある。
+
+  - 新しいモードの追加。
+  - ビークルの改造が可能。
+  - DKアイランドのコースが追加。
+  - オープニングデモの追加。
+  - 前作ではサポート役であった魔人タージと、[ボスキャラクター](../Page/ボスキャラクター.md "wikilink")であったウィズピッグが[プレイヤーキャラクター](../Page/プレイヤーキャラクター.md "wikilink")に追加。だが版権の都合でバンジョーとコンカーが登場せず（ただし、ティップタップは登場する）、代わりに[ディクシーコング](https://ja.wikipedia.org/wiki/ディクシーコング "wikilink")と[タイニーコング](https://ja.wikipedia.org/wiki/タイニーコング "wikilink")が登場する（海外では姉妹という設定）。
+  - 新BGMの追加
+
+## 登場キャラクター
+
+### 操作キャラクター
+
+前作の[ディディーコングレーシング](https://ja.wikipedia.org/wiki/ディディーコングレーシング "wikilink")に登場したキャラはほぼ登場している。
+
+  - [ディディー](https://ja.wikipedia.org/wiki/ディディーコング "wikilink")
+    赤い帽子をかぶった[チンパンジー](../Page/チンパンジー.md "wikilink")。64版は主人公とは言いがたい扱いだったが、DS版はオープニングデモなどで出番が増え、主役級の扱いになっている。DS版ではティンバー達に助けを求められて駆けつける。
+    初心者向きのキャラクター。
+  - ティンバー
+    [トラ](../Page/トラ.md "wikilink")。64版は実質的な主役だったが、DS版はディディーの出番が増えているため主役ではなくなった。ディディーに助けを求めた。
+    初心者向きのキャラクター。
+  - バンパー
+    アナグマのレーサー。スリルとスピードが大好き。ティンバーの友達。
+    初心者向きのキャラクター。
+  - ピプシー
+    小さなネズミの女の子。負けず嫌いな性格。ティンバーの友達。
+    加速力は高いが最高速度は低い。
+  - ティップタップ
+    カメ。平和主義者で危険なことは参加しない臆病な性格だが、島の危機に立ち上がる。『[バンジョーとカズーイの大冒険](https://ja.wikipedia.org/wiki/バンジョーとカズーイの大冒険 "wikilink")』シリーズには2度も出演しているが同一人物なのかは不明。
+  - クランチ
+    ワニ。[クレムリン軍団](https://ja.wikipedia.org/wiki/クレムリン軍団 "wikilink")のスパイ。ディディー達とは敵対関係にあるが、ちょっとした勘違いで彼らの後を追いかける。
+    最高速度は高いが加速力は最悪。上級者向きのキャラクター。
+  - [ディクシー](https://ja.wikipedia.org/wiki/ディクシーコング "wikilink")
+    ポニーテールが特徴の女のゴリラ。DS版のみのキャラクター。ディディーと一緒にティンバー達を助けに向かう。ディディーのガールフレンド。
+    中級者向きのキャラクター。
+  - [タイニー](https://ja.wikipedia.org/wiki/タイニーコング "wikilink")
+    おさげが特徴の女のゴリラ。DS版のみのキャラクター。ディディーと一緒にティンバー達を助けに向かう。海外ではディクシーの妹という設定。ディディーの仲間。
+    中級者向きのキャラクター。
+  - ドラムスティック
+    [ニワトリ](../Page/ニワトリ.md "wikilink")。レースが得意。物語の序盤は使用できない。凄腕のレーサーだったが、ウィズピッグが来た際に行方不明になっている。
+    能力は高いが操作はしにくい。中央ステージにいるカエルをカエルのマークの所に乗せると現れる赤いトサカのついたカエルを踏むことで使用可能に。上級者向きのキャラクター。
+  - T.T
+    [時計](../Page/時計.md "wikilink")。タイムアタックが大好き。
+    スピードは速くてタイムアタックで活躍できる。
+  - 魔人タージ
+    象。前作同様サポート役を務めるが、条件を満たす事でプレイヤーとしても使用可能。
+    上級者向きのキャラクター。
+  - ウィズピッグ
+    宇宙からきた[ブタ](https://ja.wikipedia.org/wiki/ブタ "wikilink")のような宇宙人?前作同様ラスボスとして登場するが、こちらも条件を満たす事でプレイヤーとして使用可能。
+    最高速度は高いが他の性能は悪く操作が難しい。上級者向きのキャラクター。
+
+#### その他のキャラクター
+
+  - スコークス
+    緑色のオウム。前作同様、ティンバー達に手紙を届ける[伝書鳩](https://ja.wikipedia.org/wiki/伝書鳩 "wikilink")の役割を担当。
+    64版ではゲーム内には登場しなかったが、DS版ではオープニングデモで登場する。
+  - クランチの相棒
+    名前は不明。スコークス同様、DS版ではオープニングデモに登場しており、クランチと似た容姿だったことが判明した。
+
+## 前作との違い
+
+  - [ミサイル](../Page/ミサイル.md "wikilink")を当てた際のふっとびの程度が大きくなった。
+  - コース上の[バナナ](https://ja.wikipedia.org/wiki/バナナ "wikilink")の削除。
+  - まじっくコードが使えなくなった。
+  - ビークルの色の固定化。
+  - キャラクターセレクト画面のBGMの固定化。
+  - 一部のキャラクターと声優の交代。
+  - ドラムスティックの出現方法の変更。
+  - 自作コースをT.Tと走行可能。
+  - エンディングデモの変更。バンジョーとコンカーが登場しない。最後に皆がディディーを見送り、THE ENDの看板が表示される。など変更点がある。
+
+## 関連項目
+
+  - [ディディーコングレーシング](https://ja.wikipedia.org/wiki/ディディーコングレーシング "wikilink")
+
+## 外部リンク
+
+[en:Diddy Kong Racing\#Diddy Kong Racing DS](https://ja.wikipedia.org/wiki/en:Diddy_Kong_Racing#Diddy_Kong_Racing_DS "wikilink") [it:Diddy Kong Racing\#Diddy Kong Racing DS](https://ja.wikipedia.org/wiki/it:Diddy_Kong_Racing#Diddy_Kong_Racing_DS "wikilink")
+
+[Category:ドンキーコングシリーズ](https://ja.wikipedia.org/wiki/Category:ドンキーコングシリーズ "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink") [Category:レアのゲームソフト](https://ja.wikipedia.org/wiki/Category:レアのゲームソフト "wikilink") [Category:イギリスで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:イギリスで開発されたコンピュータゲーム "wikilink") [Category:ゲームのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ゲームのスピンオフ作品 "wikilink") [Category:発売中止となったコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:発売中止となったコンピュータゲーム "wikilink")

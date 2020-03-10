@@ -1,0 +1,391 @@
+> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+
+
+**特攻野郎Aチーム**（とっこうやろう エー チーム、原題：The A-Team）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")にわたって全98話が[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")で制作・放送された[TVドラマ](https://ja.wikipedia.org/wiki/TVドラマ "wikilink")。基本的に1話1時間枠。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月19日](../Page/10月19日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[11月12日](../Page/11月12日.md "wikilink")にかけて[テレビ朝日](../Page/テレビ朝日.md "wikilink")で毎週土曜日15:00 - 15:55（スポーツ中継などで休止あり。一部2時間枠に編集されて『[日曜洋画劇場](https://ja.wikipedia.org/wiki/日曜洋画劇場 "wikilink")』）から全話放送。
+
+## 内容
+
+[アメリカ陸軍](https://ja.wikipedia.org/wiki/アメリカ陸軍 "wikilink")[コマンド部隊](../Page/コマンド部隊.md "wikilink")出身の腕利き四人組「**Aチーム**」がその技術を生かして、無法者に脅かされている人々の依頼で悪と戦うアクションドラマ。悪者・Aチーム・[MP三者の視点からなるストーリー展開](https://ja.wikipedia.org/wiki/憲兵隊 "wikilink")、それぞれ個性的で愉快なAチームと、痛快なアクション、日用品を利用した[DIY](../Page/DIY.md "wikilink")精神溢れる作戦が本作品最大の特徴。時折[爆弾](../Page/爆弾.md "wikilink")なども使用するにも関わらず、全話を通してあまり死者が出ないよう描かれているのも魅力。
+
+## ストーリー
+
+ジョン・スミス大佐率いる[アメリカ陸軍特殊部隊群](../Page/アメリカ陸軍特殊部隊群.md "wikilink")第5特殊部隊グループ所属のチーム三人組は、[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")で大活躍。戦争末期の1972年に「軍資金を調達せよ」という極秘任務を受け、[テト](https://ja.wikipedia.org/wiki/テト "wikilink")早朝、[ハノイ](https://ja.wikipedia.org/wiki/ハノイ "wikilink")[銀行](../Page/銀行.md "wikilink")に押し入り一億ドルを奪い、非武装地帯を脱走する。しかし帰還直後に司令部が爆破され、極秘任務を命じた当時の司令官モリソン大佐は戦死。戦地における[略奪](../Page/略奪.md "wikilink")行為の罪で[憲兵隊](https://ja.wikipedia.org/wiki/憲兵隊 "wikilink")に逮捕され極秘任務だと主張するが、責任がない事を証明できずノースカロライナ州フォートブラッグ陸軍基地に収監されてしまう。しかし、彼らは軍事裁判の直前、得意のサバイバル技術で脱獄し、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")近郊に潜伏する。
+
+10年の時を経て、地下に潜った3人と、彼ら分隊の支援を行っていた陸軍航空隊パイロットのマードック大尉は、“筋が通っていれば金次第で何でも引き受け、不可能も可能に変える命知らず。道理の通らない世間に敢えて挑み巨悪を討つ、神出鬼没の頼れる[傭兵](../Page/傭兵.md "wikilink")集団”「Aチーム」\[1\]を結成。自分達の無実を証明出来る当時の関係者探しをしながら、世直し活動を始める。
+
+## 主な登場人物
+
+### Aチーム
+
+  - ジョン・“ハンニバル”・スミス
+    役：[ジョージ・ペパード](https://ja.wikipedia.org/wiki/ジョージ・ペパード "wikilink")
+    日本語吹き替え：[羽佐間道夫](../Page/羽佐間道夫.md "wikilink")
+    通称「ハンニバル」。
+    [ニックネーム](https://ja.wikipedia.org/wiki/ニックネーム "wikilink")は[カルタゴ](../Page/カルタゴ.md "wikilink")の将軍[ハンニバル・バルカ](https://ja.wikipedia.org/wiki/ハンニバル・バルカ "wikilink")から。
+    階級は「[大佐](../Page/大佐.md "wikilink")」。
+    Aチームの「リーダー」。主に「作戦立案・指示」を担当。ベトナム時代から一同を率いる老練な指揮官。口に咥えた[葉巻](https://ja.wikipedia.org/wiki/葉巻 "wikilink")がトレードマーク。
+    変装の名人ではあるが、ほとんどは老人の変装で、まれに着ぐるみの地底怪獣に扮する程度なため、自称変装の名人という感が否めない。普段は着ぐるみ俳優として生活している。Aチームを探す為、依頼人が最初に会う[中国人](https://ja.wikipedia.org/wiki/中国人 "wikilink")の「ミスター・リー」となって現れることもある。変装し依頼人を欺く理由は、彼らがMPの囮でない事を確かめるためである。
+    奇襲戦法の名人で、「作戦は奇を以ってよしとすべし」を口癖のように呟く。作戦立案・指揮を担当するが、当初の作戦通りに推移する事は極めて少なく、成り行き任せになる事が多い。一方で、格闘戦でもメンバーに引けをとらない活躍をする。
+  - テンプルトン・アーサー・ペック
+    役：[ダーク・ベネディクト](https://ja.wikipedia.org/wiki/ダーク・ベネディクト "wikilink")、パイロット版のみ[ティム・ダニガン](https://ja.wikipedia.org/wiki/ティム・ダニガン "wikilink")
+    日本語吹き替え：[安原義人](../Page/安原義人.md "wikilink")、パイロット版のみ[田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")
+    通称「フェイスマン」。
+    階級は「[中尉](../Page/中尉.md "wikilink")」。主に「物資調達」を担当。
+    口八丁手八丁であらゆる人格を演じ、文字通り甘いマスクの二枚目で女性を口説くことはもちろん、老若男女を騙す腕利きの詐欺師。
+    女癖が悪く付き合う相手を度々乗り換えては楽しんでいる。美人且つ独身女性であればいち早く手を出すが、中高年女性や既婚者であった場合途端に興味を無くす。それぞれかなり個性的なAチームの中で、唯一比較的常識思考の持ち主で、調子に乗りがちなハンニバルや、気性の荒いB.A.、奇行に走るマードックらを宥める場面が度々見られる。チームで行動していない時は何かしら別の仕事を行っており、お得意の技で他人を騙し違法に生活している。少年時代は[孤児院](https://ja.wikipedia.org/wiki/孤児院 "wikilink")で育った。第93話に登場する、22の事件で起訴された犯罪者・A.J.バンクロフトを父親に持つ。肉親は他に実母のサマンサ、腹違いの妹にエレン・バンクロフト。ペックの幼名はリチャード・バンクロフト。女と見れば手当たり次第の彼だが、実はエクアドルのサンタマリア孤児院に大学時代に将来を誓い合った恋人、修道女レスリー・ベクトールがいる。
+  - ボスコ・アルバート・バラカス　
+    役：[ミスター・T](../Page/ミスター・T.md "wikilink")
+    日本語吹き替え：[飯塚昭三](https://ja.wikipedia.org/wiki/飯塚昭三 "wikilink")
+    通称「B.A.」。日本語版では「コング」。
+    [ニックネーム](https://ja.wikipedia.org/wiki/ニックネーム "wikilink")は「Bad Attitude」の略称で、態度の悪い、素行不良の意。階級は「[軍曹](https://ja.wikipedia.org/wiki/軍曹 "wikilink")」。
+    主に「各種機器製作・修理」を担当。材料と工具さえ一式揃っていれば、即席の[装甲車](../Page/装甲車.md "wikilink")や[火炎放射器](https://ja.wikipedia.org/wiki/火炎放射器 "wikilink")を造れてしまう天才メカニック。また、腕力と体格を生かし、格闘戦では無類の強さを誇る。モヒカン頭、やたらと多い金の装身具が特徴。[牛乳](../Page/牛乳.md "wikilink")が好き。劇中でAチームが移動手段でよく使われるブラックに赤いストライプの入った[GMC](../Page/GMC.md "wikilink")・バンはバラカスの愛車で壊されたり盗まれたりしたら物凄い剣幕で怒る。
+    恵まれなかった環境で育ったためかプライドが高く、自分を馬鹿にされると例え上官であっても躊躇なく殴り飛ばす。目付きや口が悪く礼儀とは無縁な性格。しかし、本当は優しい心の持ち主で、泣いている子どもを放って置くことができない。例え報酬が少なくても、子どもが泣かされていることを知るや否や、真っ先に仕事を引き受ける。
+    [飛行機恐怖症](../Page/飛行機恐怖症.md "wikilink")で、パイロットであるマードックとはよく喧嘩になる。[飛行機](../Page/飛行機.md "wikilink")で移動する際、意識ある限り抵抗するため他のメンバーによって[睡眠薬](https://ja.wikipedia.org/wiki/睡眠薬 "wikilink")を注射されたり、後頭部を殴って気絶させられるなどして強引に現場へ空輸する描写がお約束。第1シーズンで飛行機内で目覚めて卒倒しかけ、なんとか克服したかに思われたが、その後も相変わらずだった。
+    血液型は非常に珍しいAB型のRh-で、偶然マードックと一緒だったため、彼から輸血されたことがある。
+    幼いころのあだ名は「スクーター」、ブルックリンに母親を持つ。
+  - H・M・マードック
+    役：[ドワイト・シュルツ](../Page/ドワイト・シュルツ.md "wikilink")
+    日本語吹き替え：[富山敬](https://ja.wikipedia.org/wiki/富山敬 "wikilink")
+    階級は「[大尉](../Page/大尉.md "wikilink")」。主に「空輸・追跡・支援」を担当。[アメリカ陸軍航空隊](https://ja.wikipedia.org/wiki/アメリカ陸軍航空隊 "wikilink")出身の才能と天分に恵まれた名[パイロットで](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")、翼が付いている航空機類であれば何でも飛ばすことが可能。通常飛行から曲芸飛行まで異常な高難易度の操縦技術を易々とこなす。
+    H・Mは「Howling Mad」の略称で、喚く狂人の意。通称は「クレイジーモンキー」。背中に虎と「[DA NANG](https://ja.wikipedia.org/wiki/ダナン "wikilink") 1970」という文字が描かれた[フライトジャケット](../Page/フライトジャケット.md "wikilink")、頭に被った帽子が特徴。
+    ベトナム戦争に起因する[戦闘疲弊症を患っており](https://ja.wikipedia.org/wiki/PTSD "wikilink")、普段は退役軍人病院の[精神科](../Page/精神科.md "wikilink")病棟に入院している。劇中、戦闘疲弊症に起因する奇行を繰り返しては、よくB.A.と喧嘩になる。しかし、真面目な側面を見せる、核心を突く発言、など時折頭の良さを見せるなどつかみ所が無い。作戦行動中においても、奇行はあれども機敏かつ的確に動く。彼だけは、チームメンバーの中で唯一指名手配されていない。
+
+### Aチームの協力者
+
+  - エミー・アマンダ・アレン
+    役：メリンダ・クレア
+    日本語吹き替え：[小山茉美](../Page/小山茉美.md "wikilink")
+    Aチームの「紅一点」。主に「情報収集」を担当。Aチームに任務を依頼して以降仲間となり、第1シーズンから第2シーズンまで登場する。
+    [新聞記者](https://ja.wikipedia.org/wiki/新聞記者 "wikilink")で、普段はLAクーリア新聞社に勤務しており、チームの功績や引き受けた依頼によって、明るみに出た社会問題を特ダネ記事にしていた。
+  - ターニャ・ベーカー
+    役：マリア・ヒーズリー
+    日本語吹き替え：[高島雅羅](https://ja.wikipedia.org/wiki/高島雅羅 "wikilink")
+    エミーの同僚。エミーが特ダネ記事の功績を称えられ、海外通信員に選ばれ[ジャカルタ](../Page/ジャカルタ.md "wikilink")へ転勤後、[スクープ](../Page/スクープ.md "wikilink")目当てに近づいてきた[新聞記者](https://ja.wikipedia.org/wiki/新聞記者 "wikilink")。第2シーズンから、第3シーズンまで登場する。
+    チームに加わることを強く望んだが、彼女の身を案じたハンニバルに制止され、外側から彼らをサポートする立場となる。
+    女優のヒーズリーはシーズン2の「Bad Day On The Border (メキシコ国境空から殴り込み)」では冒頭の女子大生役で出演。
+  - フランキー・サンタナ
+    役：[エディ・ベレツ](https://ja.wikipedia.org/wiki/エディ・ベレツ "wikilink")
+    日本語吹き替え：[谷口節](https://ja.wikipedia.org/wiki/谷口節 "wikilink")
+    映画の特殊効果マン。第5シーズンから登場する。もとはストックウェルが、親の治療費捻出をかたに潜り込ませた[スパイ](../Page/スパイ.md "wikilink")だったが、処刑寸前の彼らをマードックとともに救い出した。以降、不本意ながら彼らと行動をともにするようになる。
+    フェイスと気の合うお調子者でムードメーカー的存在。
+
+### MP
+
+  - フランシス・リンチ
+    役：ウィリアム・ラッキング
+    日本語吹き替え：[青野武](../Page/青野武.md "wikilink")
+    階級は「大佐」。[ノースカロライナ州](../Page/ノースカロライナ州.md "wikilink")フォートブラッグ陸軍基地「司令」。
+    脱獄された恨みからAチームを執念深く追い回す。しかし、いつまで経っても彼らを逮捕できず、最終的に更迭される。しかしシーズン3の「偽Aチーム出現」で挽回のチャンスをもらい再登場した。
+  - ロデリック・デッカー
+    役：ランス・レガルト
+    日本語吹き替え：[仁内建之](https://ja.wikipedia.org/wiki/仁内建之 "wikilink")
+    階級は「大佐」。リンチの後釜として転属される。軍の上層部が昇進するのを阻止し邪魔な自分を後釜にしたと思いこみ、Aチームを捕える事に執念を燃やす。
+    ベトナム戦争中、ハンニバルと病院の爆破を巡って意見が衝突し、将校用の食堂で殴り合いになったことがある。冷静沈着で有能な人物だが、作戦完遂を急ぐ性格が災いして、ハンニバルの才能には及ばない。リンチ同様、彼らをいつまで経っても逮捕できず、責任を問われて更迭される。
+  - クレイン
+    役：カール・フランクリン
+    日本語吹き替え：[佐藤正治](https://ja.wikipedia.org/wiki/佐藤正治_\(声優\) "wikilink")
+    階級は「大尉」。デッカーの右腕である。黒人。
+  - ハーラン・フルブライト
+    役：ジャック・ギング
+    日本語吹き替え：[中庸助](https://ja.wikipedia.org/wiki/中庸助 "wikilink")
+    階級は「准将」。異名は「ブル(雄牛)」。
+    更迭されたデッカーに代わりAチームを追う:強面の男。第4シーズン最終話でベトナムに残る我が子と再会するため、彼らに協力を要請する。我が子との再会後、ベトナムから脱出する際敵兵に撃たれ死亡する。
+    俳優のギングはフルブライト役に抜擢される前、2度にわたりAチームの敵役として出演していた。出演回はシーズン1の「A Small And Deadly War (殺し屋スワット集団死の銃撃戦)」とシーズン2の「Bad Day On The Border (メキシコ国境空から殴り込み)」を参照。
+
+### ストックウェル側
+
+  - ハント・ストックウェル[将軍](../Page/将軍.md "wikilink")
+    役：[ロバート・ヴォーン](../Page/ロバート・ヴォーン.md "wikilink")
+    日本語吹き替え：[小林修](https://ja.wikipedia.org/wiki/小林修_\(声優\) "wikilink")
+    世界中の要人からさまざまな仕事を請け負い、私設の特務機関で処理する退役将校。Aチームの技量を見込み、特赦させるよう軍に圧力をかける。その交換条件として彼らを組織に加入させる。
+    第5シーズンから登場。
+  - カーラ
+    役：ジュディス・レッドフォード
+    日本語吹き替え：[横尾まり](https://ja.wikipedia.org/wiki/横尾まり "wikilink")
+    ストックウェルの秘書。第5シーズンから登場。クールな美女で、フェイスの誘いを毎度華麗にかわしている。
+
+## サブタイトル（日本放送版）
+
+地上波の再放送では2002年頃から\#7「殺し屋スワット集団死の銃撃戦」、2007年頃から\#55「危うし！ 天才画家モンキー」がフィルムの傷みがひどいとの理由で放送されないことがある。[スーパー\!ドラマTV](https://ja.wikipedia.org/wiki/スーパー!ドラマTV "wikilink")で2008年6月10日から放送の**特攻野郎Aチーム完全版**(日本初放送時にカットされた部分を一部字幕にて補完)では、本国アメリカでのオリジナルのエピソード順で全エピソードを放送した。
+
+なお、オープニングのレギュラーキャストの前口上は日本での放映独自のもので、アメリカでの放映ではBGMのみが流れていた。
+
+  - **2時間枠**
+  - アカプルコ救出大作戦（最初の放送は「必殺！ Aチーム」、再放送から「(特攻野郎Aチーム）アカプルコ救出大作戦」）
+  - 必殺大西部作戦
+  - 大アマゾンの秘宝
+  - 地中海殴り込み大作戦
+  - 必殺！ 最後の大血戦
+  - 地獄島からの大脱出
+  - **1時間枠**
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em">
+
+  - 第1話 活動開始！ 過激アクション軍団
+  - 第2話 暴走マッド軍団を撃滅せよ
+  - 第3話 ラスベガス麻薬組織壊滅作戦
+  - 第4話 遺産相続を狙う美女殺人計画
+  - 第5話 旅客機ハイジャック犯に捨て身の挑戦！
+  - 第6話 邪悪の神に魂を売った男
+  - 第7話 殺し屋スワット集団死の銃撃戦
+  - 第8話 暴力！ 略奪！ 監禁！ 極悪5人兄弟の逆襲
+  - 第9話 リンチされた男！ 空中救出大作戦
+  - 第10話 ニューヨーク大暴力団に宣戦布告
+  - 第11話 ウエストコースト大農園の危機
+  - 第12話 死の刑務所必死の脱出
+  - 第13話 ダイヤモンド鉱山 大争奪戦！
+  - 第14話 メキシコ国境空から殴り込み
+  - 第15話 緊急発進！ 恋人からのSOS
+  - 第16話 鉱泉大噴射で撃退せよ
+  - 第17話 作戦は奇を以ってよしとすべし
+  - 第18話 ド迫力！ キャベツ畑のカーチェイス
+  - 第19話 悪徳保安官 身代わり戦法でやっつけろ
+  - 第20話 大乱戦！ 海上の対決
+  - 第21話 激突！ タクシーキャブ大戦争
+  - 第22話 激闘！ 埋められた白骨体の謎
+  - 第23話 大空中戦！ 石油王暗殺を阻止せよ
+  - 第24話 タバコにご用心！ 密造酒大引火！
+  - 第25話 チャイナタウンの決闘
+  - 第26話 ベネズエラ国境麻薬争奪戦
+  - 第27話 爆走戦車で敵中突破！
+  - 第28話 バギーカー軍団さそりを撃退せよ
+  - 第29話 霊柩車には機関銃
+
+</div>
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em">
+
+  - 第30話 ダム大爆破危機一髪！
+  - 第31話 大勝利！ ハンニバル式非暴力
+  - 第32話 絶体絶命！ モンキーのご臨終
+  - 第33話 復讐に賭ける殺し屋四人組
+  - 第34話 料理人 ハイウェイで悪を斬る
+  - 第35話 爆破・炎上 森林の対決！！
+  - 第36話 ロックギャルズの危機を救え
+  - 第37話 爆走消防車でMPを振り切れ
+  - 第38話 マイアミビーチは危険がいっぱい
+  - 第39話 湖畔の死闘ギャング対MP
+  - 第40話 偽Aチーム出現
+  - 第41話 南の楽園奪還指令
+  - 第42話 2大ギャング宿命の対決
+  - 第43話 自動車工場の腐敗をあばけ！！
+  - 第44話 トップモデルの危機を救え！
+  - 第45話 リバータウンの決闘
+  - 第46話 死者の復讐 棺桶大作戦
+  - 第47話 密猟組織を壊滅せよ！
+  - 第48話 ギャンブルトラック大暴走！
+  - 第49話 王女を連れてハーレム大脱走
+  - 第50話 大麻薬密輸団を潰せ！
+  - 第51話 モンキー誘拐事件
+  - 第52話 身代わりチャンピオン コング
+  - 第53話 手錠のまま大突撃！
+  - 第54話 人質ハンニバル決死の救出
+  - 第55話 危うし！ 天才画家モンキー
+  - 第56話 美人姉妹・悪徳商法に泣く
+  - 第57話 謎の殺人軍団と消えた死体
+  - 第58話 強奪・誘拐 カジノ大襲撃！
+
+</div>
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em">
+
+  - 第59話 謎の女 南米大脱走
+  - 第60話 怪獣スター ハンニバル大暴れ！
+  - 第61話 シカゴ戦争 ママコング大活躍
+  - 第62話 国際戦争仕掛人を追え‼
+  - 第63話 ギャングに挑戦 激走カーレース
+  - 第64話 狙われた美人ロック歌手
+  - 第65話 巨大暗黒組織を粉砕せよ
+  - 第66話 掟破りの監獄ロック
+  - 第67話 間違えられたボーイ・ジョージ
+  - 第68話 怒りのコング大暴れ
+  - 第69話 迫る！ 首狩り将軍の魔の手
+  - 第70話 間違われた殺し屋モンキー
+  - 第71話 海底に眠る黄金の十字架大争奪戦
+  - 第72話 亡命バレリーナ裏切りの謎
+  - 第73話 悪漢退治！ 逆転大カーチェイス
+  - 第74話 激闘！ 西部を守る開拓魂
+  - 第75話 追いつめられた死地！ ベトナム
+  - 第76話 ベルリン死の脱出！
+  - 第77話 極悪非道の独裁者を倒せ！
+  - 第78話 ギャングに挑戦！ 美人レポーター
+  - 第79話 大量殺戮爆撃機の恐怖！
+  - 第80話 大銃撃戦！ 悪徳政治家を葬れ
+  - 第81話 絶望ハンニバル36時間の恐怖
+  - 第82話 白熱！ モンテカルロ スパイ戦
+  - 第83話 オー・ゴッド！ 南海の決死行
+  - 第84話 壮絶！ シルバーチーム大奮戦
+  - 第85話 メニューは暗殺アラカルト
+
+</div>
+
+## サブタイトル（アメリカ放送版）
+
+### シーズン1
+
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[6月](../Page/6月.md "wikilink")、全14話。1・2話は[パイロット版](../Page/パイロット版.md "wikilink")。
+
+  - 第1話 Mexican Slayride（前編）(初回のみ「必殺！ Aチーム」再放送からは「アカプルコ救出大作戦」)
+  - 第2話 Mexican Slayride（後編）(〃)
+  - 第3話 Children of Jamestown (邪悪の神に魂を売った男)
+  - 第4話 Pros and Cons (死の刑務所必死の脱出)
+  - 第5話 A Small And Deadly War (殺し屋スワット集団死の銃撃戦)
+  - 第6話 Black Day At Bad Rock (暴走マッド軍団を撃滅せよ)
+  - 第7話 The Rabbit Who Ate Las Vegas (ラスベガス麻薬組織壊滅作戦)
+  - 第8話 Holiday in the Hills (リンチされた男！ 空中救出大作戦)
+  - 第9話 The Out Of Towners (ニューヨーク大暴力団に宣戦布告)
+  - 第10話 West Coast Turnaround (ウエストコースト大農園の危機)
+  - 第11話 One More Time (活動開始！ 過激アクション軍団)
+  - 第12話 Till Death Do Us Part (遺産相続を狙う美女殺人計画)
+  - 第13話 The Beast from the Belly of a Boeing (旅客機ハイジャック犯に捨て身の挑戦！)
+  - 第14話 A Nice Place to Visit (暴力！ 略奪！ 監禁！ 極悪5人兄弟の逆襲)
+
+### シーズン2
+
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月](../Page/9月.md "wikilink") - [1984年](../Page/1984年.md "wikilink")[6月](../Page/6月.md "wikilink")、全23話。
+
+  - 第15話 Diamonds N' Dust (ダイヤモンド鉱山 大争奪戦！)
+  - 第16話 Recipe For Heavy Bread (作戦は奇を以ってよしとすべし)
+  - 第17話 The Only Church In Town (緊急発進！ 恋人からのSOS)
+  - 第18話 Bad Day On The Border (メキシコ国境空から殴り込み)
+  - 第19話 When You Coming Back,Range Rider? Part.1(必殺大西部作戦（前編）)
+  - 第20話 When You Coming Back,Range Rider? Part.2(必殺大西部作戦（後編）)
+  - 第21話 The Taxicab Wars (激突！ タクシーキャブ大戦争)
+  - 第22話 Labor Pains (ド迫力！ キャベツ畑のカーチェイス)
+  - 第23話 There's Always A Catch (大乱戦！ 海上の対決)
+  - 第24話 Water, Water Everywhere (鉱泉大噴射で撃退せよ)
+  - 第25話 Steel (激闘！ 埋められた白骨体の謎)
+  - 第26話 The White Ballot (悪徳保安官 身代わり戦法でやっつけろ)
+  - 第27話 The Maltese Cow (チャイナタウンの決闘)
+  - 第28話 In Plane Sight (ベネズエラ国境麻薬争奪戦)
+  - 第29話 The Battle Of Bel-Air (大空中戦！ 石油王暗殺を阻止せよ)
+  - 第30話 Say It With Bullets (爆走戦車で敵中突破！)
+  - 第31話 Pure-Dee Poison (タバコにご用心！密造酒大引火！)
+  - 第32話 It's A Desert Out There (バギーカー軍団サソリを撃退せよ！)
+  - 第33話 Chopping Spree (霊柩車には機関銃)
+  - 第34話 Harder Than It Looks (ダム大爆破危機一髪！)
+  - 第35話 Deadly Maneuvers (復讐に賭ける殺し屋四人組)
+  - 第36話 Semi-Friendly Persausion (大勝利！ ハンニバル式非暴力)
+  - 第37話 Curtain Call (絶体絶命！ モンキーのご臨終)
+
+### シーズン3
+
+[1984年](../Page/1984年.md "wikilink")[9月](../Page/9月.md "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月](../Page/6月.md "wikilink")、全25話。
+
+  - 第38話 Bullets And Bikinis (マイアミビーチは危険がいっぱい)
+  - 第39話 The Bend In The River Part.1 (大アマゾンの秘宝（前編）)
+  - 第40話 The Bend In The River Part.2 (大アマゾンの秘宝（後編）)
+  - 第41話 Fire (爆走消防車でMPを振り切れ)
+  - 第42話 The Bells Of St Mary's(ロックギャルズの危機を救え)
+  - 第43話 Timber\!(爆破・炎上 森林の対決！！)
+  - 第44話 Double Heat (2大ギャング宿命の対決)
+  - 第45話 Trouble On Wheels (自動車工場の腐敗をあばけ！！)
+  - 第46話 The Island (南の楽園奪還指令)
+  - 第47話 Showdown\! (偽Aチーム出現)
+  - 第48話 Sheriffs Of Rivertown (リバータウンの決闘！)
+  - 第49話 Hot Styles (トップモデルの危機を救え！)
+  - 第50話 Breakout\! (手錠のまま大突撃！)
+  - 第51話 Cup A' Joe (料理人 ハイウェイで悪を斬る)
+  - 第52話 The Big Squeeze (死者の復讐 棺桶大作戦)
+  - 第53話 Champ\! (身代わりチャンピオン コング)
+  - 第54話 Skins (密猟組織を壊滅せよ！)
+  - 第55話 Road Games (ギャンブルトラック大暴走！)
+  - 第56話 Moving Targets (王女を連れてハーレム大脱走)
+  - 第57話 Knights Of The Road (大麻薬密輸団を潰せ！)
+  - 第58話 Waste 'Em (人質ハンニバル決死の救出！)
+  - 第59話 Bounty (モンキー誘拐事件)
+  - 第60話 Beverly Hills Assault (危うし！ 天才画家モンキー)
+  - 第61話 Trouble Brewing (美人姉妹・悪徳商法に泣く)
+  - 第62話 Incident At Crystal Lake (湖畔の死闘ギャング対MP)
+
+### シーズン4
+
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月](../Page/9月.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月](../Page/6月.md "wikilink")、全23話。
+
+  - 第63話 Judgement Day Part.1(地中海殴り込み大作戦（前編）)
+  - 第64話 Judgement Day Part.2(地中海殴り込み大作戦（後編）)
+  - 第65話 Where Is The Monster When You Need Him? (国際戦争仕掛人を追え‼)
+  - 第66話 Blood, Sweat & Cheers (ギャングに挑戦 激走カーレース！)
+  - 第67話 Lease With An Option To Die (シカゴ戦争 ママコング大活躍)
+  - 第68話 The Road To Hope (謎の殺人軍団と消えた死体)
+  - 第69話 The Heart Of Rock 'N' Roll (掟破りの監獄ロック)
+  - 第70話 Body Slam (必殺！ 最後の大血戦 ※日本では第83話と同時放映)
+  - 第71話 Mind Games (迫る！ 首狩り将軍の魔の手)
+  - 第72話 There Goes The Neighborhood (狙われた美人ロック歌手)
+  - 第73話 The Doctor Is Out(謎の女 南米大脱走)
+  - 第74話 Uncle Buckle-Up (怪獣スター ハンニバル大暴れ！)
+  - 第75話 Wheel of Fortune (強奪・誘拐 カジノ大襲撃！)
+  - 第76話 The A-Team is Coming, The A-Team is Coming (亡命バレリーナ裏切りの謎)
+  - 第77話 Members Only (悪漢退治！ 逆転大カーチェイス)
+  - 第78話 Cowboy George (間違えられたボーイ・ジョージ)
+  - 第79話 Waiting For Insane Wayne (間違われた殺し屋モンキー)
+  - 第80話 The Duke Of Whispering Pines (怒りのコング大暴れ)
+  - 第81話 Beneath the Surface (海底に眠る黄金の十字架大争奪戦)
+  - 第82話 Mission Of Peace (激闘！ 西部を守る開拓魂)
+  - 第83話 The Trouble With Harry (必殺！ 最後の大血戦 ※日本では第70話と同時放映)
+  - 第84話 A Little Town with an Accent (巨大暗黒組織を粉砕せよ)
+  - 第85話 The Sound of Thunder (追いつめられた死地！ ベトナム)
+
+### シーズン5
+
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月](../Page/9月.md "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、全13話。
+
+  - 第86話 Dishpan Man (地獄島からの大脱出（前編）)
+  - 第87話 Trial By Fire (地獄島からの大脱出（中編）)
+  - 第88話 Firing Line (地獄島からの大脱出（後編）)
+  - 第89話 Quarterback Sneak (ベルリン死の脱出！)
+  - 第90話 The Theory of Revolution (極悪非道の独裁者を倒せ！)
+  - 第91話 The Say Uncle Affair (大量殺戮爆撃機の恐怖！)
+  - 第92話 Alive at Five (ギャングに挑戦！ 美人レポーター)
+  - 第93話 Family Reunion (大銃撃戦！ 悪徳政治家を葬れ)
+  - 第94話 The Crystal Skull (オー・ゴッド！ 南海の決死行)
+  - 第95話 The Spy Who Mugged Me (白熱！ モンテカルロ スパイ戦)
+  - 第96話 The Point of No Return (絶望ハンニバル36時間の恐怖！)
+  - 第97話 The Grey Team (壮絶！ シルバーチーム大奮戦)
+  - 第98話 Without Reservations (メニューは暗殺アラカルト)
+
+## スタッフ
+
+  - 製作総指揮：[スティーブン・J・キャネル](../Page/スティーブン・J・キャネル.md "wikilink")、フランク・ルポ
+  - 音楽：[マイク・ポスト](https://ja.wikipedia.org/wiki/マイク・ポスト "wikilink")、ピート・カーペンター
+  - 製作：スティーブン・J・キャネル・プロダクションズ、ユニバーサルテレビジョン
+  - 放映局：米国NBC
+
+### 日本語版スタッフ
+
+  - 制作：[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
+  - 演出：[伊達康将](https://ja.wikipedia.org/wiki/伊達康将 "wikilink")
+  - 翻訳：岩本令
+  - 調整：熊倉亨
+  - テレビ朝日プロデューサー：山田ゆみ子
+
+## 映画化
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [GMC](../Page/GMC.md "wikilink") - Aチームが移動に使う黒いバンはGMCの「バンデューラ」というモデル（[シボレー・エクスプレス](../Page/シボレー・エクスプレス.md "wikilink")の兄弟車種）。既に製造は中止されているが、映画版にも登場する。
+  - [エイチーム](https://ja.wikipedia.org/wiki/エイチーム "wikilink") - 日本の企業。当番組が社名の由来となっている。
+
+### 楽曲の使用例
+
+  - [大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink") - Jリーグ主催の大宮アルディージャホームゲームでの大宮の選手紹介のBGMで使用されている。
+  - [トップ・ギア](../Page/トップ・ギア.md "wikilink") - メインテーマ曲が番組中で度々BGMに使用される（主に中古車に大幅な改造を施す際）。
+  - [アサヒビール](../Page/アサヒビール.md "wikilink") - メインテーマ曲が「アサヒ・オフ」（いわゆる「[第三のビール](https://ja.wikipedia.org/wiki/第三のビール "wikilink")」）CM曲として使用された。
+  - [ナポレオン・ダイナマイト](https://ja.wikipedia.org/wiki/ナポレオン・ダイナマイト "wikilink") - メインテーマ曲がとあるシーンのBGMに使用される。
+  - [でんぱch.♥〜TOKYO DEMPA INTERNATIONAL〜](https://ja.wikipedia.org/wiki/でんぱch.・〜TOKYO_DEMPA_INTERNATIONAL〜 "wikilink") - メインテーマ曲が「メール祭り」コーナーのBGMに使用される。
+
+## 外部リンク
+
+  - [スーパー！ドラマTV 特攻野郎Aチーム完全版](http://www.superdramatv.com/line/a_team/)
+  - [The Internet Movie Database "The A-Team"](http://us.imdb.com/title/tt0084967/)（英文）
+  - [epguides.com "The A-Team"](http://www.epguides.com/ATeam/)（英文）
+
+[Category:アクションドラマ](https://ja.wikipedia.org/wiki/Category:アクションドラマ "wikilink") [Category:コメディドラマ](https://ja.wikipedia.org/wiki/Category:コメディドラマ "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:NBC](https://ja.wikipedia.org/wiki/Category:NBC "wikilink") [Category:1983年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1983年のテレビドラマ "wikilink") [Category:テレビ朝日のテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日のテレビドラマ "wikilink") [Category:テレビ東京のテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビドラマ "wikilink") [Category:傭兵を題材とした作品](https://ja.wikipedia.org/wiki/Category:傭兵を題材とした作品 "wikilink") [Category:冤罪を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:冤罪を題材としたテレビドラマ "wikilink") [Category:ビールのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ビールのコマーシャルソング "wikilink")
+
+1.  本来は陸軍特殊部隊の最小編成単位「A作戦分遣隊」のこと。6つのAチームが「Bチーム」に統括される。

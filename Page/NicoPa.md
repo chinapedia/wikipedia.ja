@@ -1,0 +1,106 @@
+> この記事は[NicoPa](https://ja.wikipedia.org/wiki/NicoPa)から翻訳されています。
+
+
+**NicoPa**（ニコパ）とは、[神姫バス](../Page/神姫バス.md "wikilink")が販売している同社、および[神姫ゾーンバス](https://ja.wikipedia.org/wiki/神姫ゾーンバス "wikilink")・[神姫グリーンバス](https://ja.wikipedia.org/wiki/神姫グリーンバス "wikilink")（西脇・篠山営業所管内）・[ウエスト神姫](https://ja.wikipedia.org/wiki/ウエスト神姫 "wikilink")（相生・赤穂営業所管内、および山崎営業所管内（しーたんバスを除く））、ならびに[山陽バス](https://ja.wikipedia.org/wiki/山陽バス "wikilink")（明石地区）で使用できる非接触型ICカード乗車券である。
+
+## 概要
+
+従来の紙式[定期券](https://ja.wikipedia.org/wiki/定期券 "wikilink")・[回数券](../Page/回数券.md "wikilink")に替わり導入された。愛称"NicoPa"は"**N**ice **I**ntelligence **C**onvenience **O**riginal **Pa**ss"の略で、「ニコッと」「パッと」使えるカードという意味も込められている。
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月20日に[三田市](https://ja.wikipedia.org/wiki/三田市 "wikilink")・[篠山市](../Page/丹波篠山市.md "wikilink")・[丹波市](https://ja.wikipedia.org/wiki/丹波市 "wikilink")のバス路線で先行導入され、2006年10月20日に全線へと拡大された。
+
+[高速バス](../Page/高速バス.md "wikilink")（[プリンセスロード](../Page/プリンセスロード号.md "wikilink")、[ハーバーライナー](https://ja.wikipedia.org/wiki/ハーバープリンス "wikilink")、空港リムジンバス\[1\]、[中国ハイウェイバス](https://ja.wikipedia.org/wiki/中国ハイウェイバス "wikilink")\[2\]、ユニバーサル・スタジオ・ジャパン線(後身の[大阪ベイサイドライン](https://ja.wikipedia.org/wiki/大阪ベイサイドライン "wikilink")は、NicoPaの普通プリペイド券と全国交通系ICカードが使用可能)、姫路鳥取線\[3\]、姫路城崎線）、[コミュニティバス](../Page/コミュニティバス.md "wikilink")の一部（[加古川市コミュニティバス](../Page/加古川市ゾーンバス.md "wikilink")、[西脇市コミュニティバス](../Page/西脇市コミュニティバス.md "wikilink")、[多可町コミュニティバス](../Page/のぎくバス.md "wikilink")（西脇直行バスを除く））、[神姫グリーンバス](https://ja.wikipedia.org/wiki/神姫グリーンバス "wikilink")の粟賀営業所管内、[ウエスト神姫](https://ja.wikipedia.org/wiki/ウエスト神姫 "wikilink")の山崎営業所管内の一部（宍粟市内だけで完結する路線（しーたんバス））\[4\]では利用できない。
+
+なお[神姫グリーンバス](https://ja.wikipedia.org/wiki/神姫グリーンバス "wikilink")ではこれまで導入が見送られたが、[2009年](../Page/2009年.md "wikilink")7月1日に本体から移譲された篠山市・丹波市地域の路線\[5\]、[2012年](../Page/2012年.md "wikilink")10月1日に本体から移譲された西脇市・多可町地域の路線\[6\]では、移譲後もNicoPaが利用できる。
+
+なお[ウエスト神姫](https://ja.wikipedia.org/wiki/ウエスト神姫 "wikilink")の赤穂営業所管内ではこれまで導入が見送られたが、[2017年](../Page/2017年.md "wikilink")3月15日からNicoPaが利用できるようになった。一方、2015年12月2日から、宍粟市の公共交通再編に伴い、ウエスト神姫の山崎営業所管内の一部（宍粟市内だけで完結する路線（しーたんバス））では利用できなくなった\[7\]。
+
+また、[2013年](../Page/2013年.md "wikilink")10月2日から運行を始めた[北播磨総合医療センター](https://ja.wikipedia.org/wiki/北播磨総合医療センター "wikilink")直通バス（三木市から）でも利用できる。 [ICCard_Connection.svg](https://ja.wikipedia.org/wiki/File:ICCard_Connection.svg "fig:ICCard_Connection.svg") 2006年2月1日からNicoPa導入エリアに[PiTaPa](../Page/PiTaPa.md "wikilink")が追加で導入され、同時に[ICOCA](../Page/ICOCA.md "wikilink")もPiTaPaとの相互利用制度によって利用可能になったほか、[2016年](../Page/2016年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")からは[Suica](../Page/Suica.md "wikilink")、[PASMO](https://ja.wikipedia.org/wiki/PASMO "wikilink")等[全国交通系ICカードが利用可能になった](https://ja.wikipedia.org/wiki/交通系ICカード全国相互利用サービス "wikilink")(片利用)\[8\]。神姫バスと神姫ゾーンバスはPiTaPa導入に際し、共に[スルッとKANSAI](../Page/スルッとKANSAI.md "wikilink")協議会に加入している。なお両社では、PiTaPaカードを発行する予定はない。PiTaPa交通利用エリアとしての導入であるため、PiTaPaカードで乗車した場合には[ポストペイ](https://ja.wikipedia.org/wiki/ポストペイ "wikilink")方式での利用になる。
+
+既にNicoPaを導入したところに別途PiTaPaが導入されたのは、NicoPaにチャージ種別や[プレミアム](https://ja.wikipedia.org/wiki/プレミアム "wikilink")付与が存在し、他のサービスとの相互利用が困難なためと思われる。このため、PiTaPaやICOCAの導入エリアでNicoPaを利用することはできない。
+
+NicoPaと同時にモバイルNicoPaの提供が開始され、関西のバス事業者として初めて[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")での乗車に対応したが、2012年12月31日をもってサービス終了となった。
+
+ICカードへの一本化に伴い、同社では[2007年](../Page/2007年.md "wikilink")6月30日をもって紙の定期券・回数券の販売が終了した\[9\]。発売終了後も、回数券は引き続き使用可能。また、神姫グリーンバス篠山営業所では、紙式定期券の発売も実施している。
+
+[2012年](../Page/2012年.md "wikilink")3月17日より、[明石市営バス](https://ja.wikipedia.org/wiki/明石市営バス "wikilink")運行終了に伴い、路線移譲先の[山陽バス](https://ja.wikipedia.org/wiki/山陽バス "wikilink")（明石地区）でも利用が開始された（神姫バスグループ会社以外では初）。ただし、[山陽バス](https://ja.wikipedia.org/wiki/山陽バス "wikilink")（明石地区）では[2016年](../Page/2016年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")からの[交通系ICカード全国相互利用サービス](https://ja.wikipedia.org/wiki/交通系ICカード全国相互利用サービス "wikilink")には対応していない。
+
+## 使用方法
+
+[Suica](../Page/Suica.md "wikilink")や[ICOCA](../Page/ICOCA.md "wikilink")等他の[プリペイド](https://ja.wikipedia.org/wiki/プリペイド "wikilink")式ICカードと同様、はじめに[デポジット](../Page/デポジット.md "wikilink")（預かり金）を支払い、窓口や車内で[チャージ](https://ja.wikipedia.org/wiki/チャージ "wikilink")（入金）してから使用する。デポジットはカード返却時に返還される。
+
+また、会員制ポイントクラブ「NicoPa Club（ニコパクラブ）」に入会するとデポジットが不要となる。カード購入後に「NicoPa Club」に入会した場合は入会した時点でデポジットが返却される。
+
+カード購入時に氏名・住所を登録しておけば紛失時にカードの利用停止と再発行などのサービスを受けることができる（手数料が必要）。
+
+乗車時および降車時に専用の端末機にICカードをタッチすることで乗車区間・時間に対応した運賃が引き落とされる。 残高が不足していた場合はその場でチャージする他、現金や他のICカードを利用しての精算も可能である。また、乗車時には残高がまったくなくてもよい。
+
+また、降車後60分以内に同一のNicoPaカードで乗り継いだ場合、大人80円、小児40円（100円区間での乗り継ぎは大人20円、小児10円）が割引される。（コミュニティバスは適用外。この制度は明石地区の山陽バスから神姫バスに乗り継いだ場合や、明石地区の山陽バス同士を乗り継いだ場合でも適用される。 ）この割引を受けた乗車から乗り継いだ乗車には割引が適用されない。
+
+通勤定期券の機能を利用する場合、従来からの紙の定期券同様に環境定期券（エコ定期券）制度が利用できる。この場合の運賃をチャージから支払うことはできず、券面の提示と全額現金での支払いが必要である。なお、記名式のカードではあるが通勤定期券機能に限り持参人が使用することが可能である。これも従来どおりとなる。
+
+### チャージ
+
+カードには2種類のチャージを記録することが可能である。精算に際しては徳用が優先され、徳用の残高が不足していた場合の残りの運賃や徳用利用可能時間外での利用時は普通から精算される。
+
+  - 普通
+    従来の普通回数券に代わるもので、チャージ額に対して1割のプレミアムが付与される。
+  - 徳用
+    従来の徳用回数券に代わるもので、チャージ額に対して3割のプレミアムが付与される。
+    利用は従来の徳用回数券に準じ、土日祝の全日および平日午前9時30分～午後4時の間に降車する場合に利用可能である。
+
+神姫バスと神姫ゾーンバス・神姫グリーンバス（西脇・篠山営業所管内のみ）の各乗車券取扱窓口とバス車内、姫路駅前・三ノ宮の各バスターミナル、明石駅前・西神中央などの案内所に設置のチャージ機および姫路駅前バスターミナルに設置の定期券発売機でチャージができる。バス車内で行う場合は[運転士](https://ja.wikipedia.org/wiki/運転士 "wikilink")に申し出のうえ、[運賃箱](https://ja.wikipedia.org/wiki/運賃箱 "wikilink")で操作してもらう必要があるが、[領収書](https://ja.wikipedia.org/wiki/領収書 "wikilink")が発行できないので注意が必要である。
+
+### 特殊なカード
+
+割引運賃で利用できる特殊なNicoPaカードが存在する。これらはすべて記名式のカードとなる。
+
+  - [小児](https://ja.wikipedia.org/wiki/小児 "wikilink")
+    小学生以下の児童を対象に発行されるカードで、引き去り金額が小児運賃となる。有効期限として名義人が小学校を卒業する年度の末日が定められ、それまでの期間、券面記載の名義人に限り利用することができる。卒業後は返却するか、通常のNicoPaカードに切り替えることになる。
+  - [障害者](../Page/障害者.md "wikilink")
+    バス乗車について運賃の減免が適用される障害者を対象に発行されるカード。発行時には有効な記載のある[障害者手帳](https://ja.wikipedia.org/wiki/障害者手帳 "wikilink")が必要。引き去り金額が減免された金額となる。障害が回復した場合など、運賃の減免措置の適用がなくなった時点で返却、または通常のカードに切り替える必要がある。
+  - [関西学院大学](https://ja.wikipedia.org/wiki/関西学院大学 "wikilink")学生専用カード
+    市立図書館前・[三田駅](../Page/三田駅_\(兵庫県\).md "wikilink")・[新三田駅](../Page/新三田駅.md "wikilink")・[南ウッディタウン駅](https://ja.wikipedia.org/wiki/南ウッディタウン駅 "wikilink")・センチュリープラザ前・[ウッディタウン中央駅](https://ja.wikipedia.org/wiki/ウッディタウン中央駅 "wikilink")・[新神戸駅](https://ja.wikipedia.org/wiki/新神戸駅 "wikilink")・[三ノ宮のいずれかの停留所と関西学院神戸三田キャンパス前](https://ja.wikipedia.org/wiki/三宮駅バスのりば#神姫バス三ノ宮バスターミナル（JR三ノ宮駅東口東、JR高架下） "wikilink")・関西学院前・学園3丁目のいずれかの停留所で乗降する場合、常時徳用から割引運賃が引き落とされる。（例として、新三田駅から学園3丁目の運賃は通常300円であるが、徳用から割引運賃260円が引き落とされるため、実質200円となる。）週に5日通学する場合通学定期券より安価となることなどから、多くの学生がこちらを利用している。なおこのカードは[関西学院大学](https://ja.wikipedia.org/wiki/関西学院大学 "wikilink")[生活協同組合三田店でのみ発売している](../Page/大学生協.md "wikilink")。購入時は学生証の提示が必要である。
+
+## モバイルNicoPa
+
+[200px](https://ja.wikipedia.org/wiki/ファイル:MobileNicoPa.jpg "wikilink") [携帯電話](../Page/携帯電話.md "wikilink")のIC流通サービスである[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")を利用したサービスであるが、[2012年12月31日をもってモバイルNicoPaの全てのサービスは終了](http://www.shinkibus.co.jp/ic_card/ic_mobile.html)した。
+
+### 使用方法
+
+はじめに神姫いなバスの携帯電話用サイトよりICカード対応のアプリをダウンロードする必要がある。これによりおサイフケータイのIC領域にNicoPaカードとしての情報が記録され、その時点からカード型とほぼ同様に利用可能になる。このためデポジットは不要であり、利用開始時の残高は0円となる。
+
+### 注意事項
+
+  - サービス終了まで無記名式のNicoPaのみの提供であり、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")以外の携帯電話に対応することもなかった。
+  - [モバイルSuica](https://ja.wikipedia.org/wiki/モバイルSuica "wikilink")等の他の交通系ICアプリと同一の電話機に共存すると、読み取りエラーが発生する場合があった\[10\]。（[Suicaの構造がICOCA/PiTaPaと同一であることに起因する](https://ja.wikipedia.org/wiki/日本鉄道技術協会#日本鉄道サイバネティクス協議会 "wikilink")）
+  - 2012年3月現在、定期券や[割引カードなどは発行されていない](https://ja.wikipedia.org/wiki/#特殊なカード "wikilink")。
+
+## 脚注
+
+<references />
+
+## 関連項目
+
+  - [PiTaPa](../Page/PiTaPa.md "wikilink")
+  - [ICOCA](../Page/ICOCA.md "wikilink")
+  - [姫路みなとドーム](https://ja.wikipedia.org/wiki/姫路みなとドーム "wikilink") - 神姫バスが命名権を買収し、「NicoPa姫路みなとドーム」に改称している。
+
+## 外部リンク
+
+  - [NicoPa](http://www.shinkibus.co.jp/ic_card/ic_index.html)
+  - [NicoPa Club](http://www.nicopa-club.jp/) NicoPaを利用したポイントサービス
+  - [ニコパポータル](http://www.nicopaclub.jp/) Nicopaが主催する兵庫県南部のタウン情報サイト
+
+[Category:神姫バス](https://ja.wikipedia.org/wiki/Category:神姫バス "wikilink") [Category:IC乗車カード](https://ja.wikipedia.org/wiki/Category:IC乗車カード "wikilink")
+
+1.  姫路大阪空港線ではPiTaPa、ICOCAなどの交通系ICカードが利用できるが、NicoPaは利用できない。また、姫路関西空港線、姫路鳥取線ではPiTaPa、ICOCAなどの交通系ICカードは利用できないが、車両は姫路大阪空港線と共用（姫路営業所管内）のため、ICカード対応機器を使用停止扱いとして運行している。
+2.  中国ハイウェイバスでは2016年10月1日よりPiTaPa・ICOCAなどの交通系ICカードが利用できるが、NicoPaは引き続き利用できない。
+3.
+4.  宍粟市内だけで完結する路線（しーたんバス）のうち、市外連絡路線で運行する車両は一般路線と共用のため、ICカード対応機器を使用停止扱いとして運行している。
+5.
+6.
+7.
+8.  [1](http://www.hankyu-hanshin.co.jp/file_sys/news/3970.pdf)
+9.
+10. [モバイルNicoPa注意事項](http://www.shinkibus.co.jp/ic_card/ic_mobile.html)

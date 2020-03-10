@@ -1,0 +1,89 @@
+> この記事は[KK](https://ja.wikipedia.org/wiki/KK)から翻訳されています。
+
+
+**KKコンビ**は、[PL学園高等学校に](../Page/PL学園中学校・高等学校.md "wikilink")1983年から1986年まで在籍し[春](https://ja.wikipedia.org/wiki/選抜高等学校野球大会 "wikilink")・[夏の甲子園で主力として活躍した](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")**[桑田真澄](../Page/桑田真澄.md "wikilink")**（くわた ますみ）・**[清原和博](../Page/清原和博.md "wikilink")**（きよはら かずひろ）の2人を指す通称。由来は2人の名前の頭文字をとったもの。
+
+2人とも卒業後は[プロ野球選手](../Page/プロ野球選手.md "wikilink")となった。
+
+## 高校時代
+
+PL学園高等学校で甲子園に1年生の夏（1983年）から3年生の夏（1985年）まで5季連続で出場し、それぞれ1年生の時から桑田はエース、清原は4番打者として活躍し、甲子園に伝説と記録を残した。なお、学校では同じクラスで席も隣だった年もある。
+
+  - [1年夏](https://ja.wikipedia.org/wiki/第65回全国高等学校野球選手権大会 "wikilink")：優勝
+  - [2年春](../Page/第56回選抜高等学校野球大会.md "wikilink")：準優勝 - [岩倉](../Page/岩倉高等学校.md "wikilink")（東東京）に敗れる。
+  - [2年夏](https://ja.wikipedia.org/wiki/第66回全国高等学校野球選手権大会 "wikilink")：準優勝 - [取手二高](../Page/茨城県立取手第二高等学校.md "wikilink")（茨城）に敗れる。
+  - [3年春](../Page/第57回選抜高等学校野球大会.md "wikilink")：ベスト4 - [渡辺智男](https://ja.wikipedia.org/wiki/渡辺智男 "wikilink")を擁する[伊野商](https://ja.wikipedia.org/wiki/高知県立伊野商業高等学校 "wikilink")（高知）に敗れる。
+  - [3年夏](https://ja.wikipedia.org/wiki/第67回全国高等学校野球選手権大会 "wikilink")：優勝
+
+やまびこ打線の[池田高校](https://ja.wikipedia.org/wiki/徳島県立池田高等学校 "wikilink")（1982年夏・1983年春）、[松坂大輔](https://ja.wikipedia.org/wiki/松坂大輔 "wikilink")を擁した[横浜高校](https://ja.wikipedia.org/wiki/横浜中学校・高等学校 "wikilink")（1998年春・夏）、北海道勢初の甲子園制覇、さらには[田中将大](https://ja.wikipedia.org/wiki/田中将大 "wikilink")を擁しての夏の甲子園連覇（2004年夏・2005年夏）をした[駒大苫小牧を含め](https://ja.wikipedia.org/wiki/駒澤大学附属苫小牧高等学校 "wikilink")、春夏連覇や夏春連覇を達成したチームは多数あるが、5季連続でここまでの成績を残したチームは学制改革後KKコンビ時のPL学園だけである。
+
+高校最後の公式戦となった1985年10月の[鳥取国体](../Page/第40回国民体育大会.md "wikilink")（[倉吉](https://ja.wikipedia.org/wiki/倉吉市営野球場 "wikilink")）でPL学園はベスト4に終わり、2人のコンビは一旦消滅した。
+
+KK3年生時の1年生は、[片岡篤史](https://ja.wikipedia.org/wiki/片岡篤史 "wikilink")・[立浪和義](https://ja.wikipedia.org/wiki/立浪和義 "wikilink")・[橋本清](../Page/橋本清.md "wikilink")・[野村弘樹](https://ja.wikipedia.org/wiki/野村弘樹 "wikilink")・[桑田泉](https://ja.wikipedia.org/wiki/桑田泉 "wikilink")（真澄の弟）など錚々たるメンバーを揃え、彼らが3年生となった1987年にはKKコンビが成しえなかった[春夏連覇を果たした](https://ja.wikipedia.org/wiki/甲子園連覇 "wikilink")（この時、2年には[宮本慎也](https://ja.wikipedia.org/wiki/宮本慎也 "wikilink")もいた）。彼らもプロ野球を代表する選手となり、泉もプロゴルファーとして活躍している。
+
+### 甲子園での2人の個人記録
+
+#### 甲子園通算成績
+
+  - 桑田
+      - 25登板　20勝（通算記録）3敗　　投球回数197　2/3　自責点34　防御率1.55　
+      - 26試合　104打数37安打　打率.356　本塁打6（通算記録）\[1\]\[2\]\[3\]
+      - 甲子園勝利回数は歴代2位。甲子園出場可能回数が6回から5回となった学制改革以降での勝利回数は1位
+  - 清原
+      - 26試合　91打数40安打　打率.440　本塁打13（通算記録）\[4\]
+
+      - 2登板　0勝（通算記録）0敗　　投球回数4.1　自責点0　防御率0.00\[5\]
+
+      - 清原は一大会における[選抜高等学校野球大会](https://ja.wikipedia.org/wiki/選抜高等学校野球大会 "wikilink")最多タイの3本塁打、[全国高校野球選手権大会](https://ja.wikipedia.org/wiki/全国高校野球選手権大会 "wikilink")歴代2位の5本塁打\[6\]を挙げて、歴代1位の通算13本塁打を記録。桑田も甲子園で歴代2位タイの通算6本塁打を放っている\[7\]\[8\]。
+
+### 名を知らしめた池田戦
+
+1年生夏の準決勝、[池田との試合に勝利した事などで](https://ja.wikipedia.org/wiki/徳島県立池田高等学校 "wikilink")、桑田・清原は全国の高校野球ファンから一気に注目されることとなった\[9\]。
+
+主催の[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")社によれば、前年夏からの3季連続優勝を目指す池田を筆頭に、[箕島](../Page/和歌山県立箕島高等学校.md "wikilink")、[横浜商](https://ja.wikipedia.org/wiki/横浜市立横浜商業高等学校 "wikilink")、 [中京](https://ja.wikipedia.org/wiki/中京大学附属中京高等学校 "wikilink")、[高知商](../Page/高知市立高知商業高等学校.md "wikilink")、[興南](https://ja.wikipedia.org/wiki/興南高等学校 "wikilink")、[広島商らが大会](https://ja.wikipedia.org/wiki/広島県立広島商業高等学校 "wikilink")7強として優勝候補とされた。一方、PLは清原が「同校史上初めての1年生の四番打者」として注目をされる程度で、7強を追う二番手グループの中にも挙げられていなかった\[10\]。
+
+池田は7強の一角である広島商を三回戦で、事実上の決勝戦と言われた\[11\][中京を準々決勝で退けるなどして順当に勝ち上がってきた](https://ja.wikipedia.org/wiki/中京大学附属中京高等学校 "wikilink")。一方、同じく準々決勝で7強のひとつに名前を挙げられていた[高知商に](../Page/高知市立高知商業高等学校.md "wikilink")1点差で勝つなど、勝ち上がってきたPLも、池田絶対有利の評価は変わらなかったが\[12\]、池田ナインの慢心や水野が広島商で受けた[死球](../Page/死球.md "wikilink")の影響などもあり\[13\]。大方の予想を覆し試合は7対0でPLの圧勝となった。桑田は強打の池田を完封したのみならず、それまで一度も甲子園で本塁打を打たれたことのない[水野雄仁](https://ja.wikipedia.org/wiki/水野雄仁 "wikilink")から本塁打を放った。
+
+## プロ入りで別の道を歩む
+
+  - 高校卒業後の進路は、プロ野球ファンのみならず世間の注目を大いに集めた。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月20日](../Page/11月20日.md "wikilink")開催の[ドラフト会議を前に](../Page/1985年度新人選手選択会議_\(日本プロ野球\).md "wikilink")、清原はプロ入りを志望し、[王貞治](../Page/王貞治.md "wikilink")が監督の[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")への入団を熱望していた。桑田は大学進学志望で、ドラフト会議4日後の11月24日に[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")教育学部の入学特別選抜試験を控えていた\[14\]。ドラフト会議にて清原は[日本ハム](../Page/北海道日本ハムファイターズ.md "wikilink")、[南海](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")、[近鉄](../Page/大阪近鉄バファローズ.md "wikilink")、[西武](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")、[中日](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")、[阪神の](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")6球団が1位指名で競合し、抽選の結果、西武が交渉権を獲得した。進学志望の桑田は巨人が1位指名し競合球団がなく交渉権を獲得した。その後両者とも指名球団に入団した\[15\]。
+  - 清原はプロ入り1年目から日本球界の新盟主となりつつあった西武の4番打者となり、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")度の[パ・リーグ](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")[新人王を獲得する](../Page/最優秀新人_\(日本プロ野球\).md "wikilink")。一方、桑田は遅れること1年、2年目の[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")にチーム最多の15勝をあげ、[最優秀防御率を獲得し](https://ja.wikipedia.org/wiki/最優秀防御率_\(日本プロ野球\) "wikilink")19歳の若さで巨人を優勝に導いたエースとなった。2人はプロ野球でも巨人・西武というセ・パ両リーグを代表するチームの中心選手として長く活躍し、[オールスターゲームや](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")[日本シリーズでの対戦がKK対決としてファンの注目を集めた](../Page/日本選手権シリーズ.md "wikilink")。
+
+## KKコンビ再び
+
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に清原が[フリーエージェント制度を利用して巨人入りすると](https://ja.wikipedia.org/wiki/フリーエージェント_\(日本プロ野球\) "wikilink")、桑田・清原は高校卒業以来のチームメイトとなり、再度KKコンビが見られるようになった。これは清原が2005年シーズン一杯で[オリックス・バファローズ](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")に移籍するまで9年間続いた。一方の桑田も[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")末をもって巨人を退団、メジャーリーグに移籍する。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月、[ピッツバーグ・パイレーツ](https://ja.wikipedia.org/wiki/ピッツバーグ・パイレーツ "wikilink")を解雇され現役を引退した桑田は、怪我から復帰して1軍昇格直前の清原と[スカイマークスタジアムにおいて清原の打撃投手をパイレーツのユニホームを着て行った](../Page/神戸総合運動公園野球場.md "wikilink")。後に清原は「桑田には（2006年9月に負傷した）スカイマークのバッターボックスに立てる勇気をもらった」と語っている。2008年に、清原も引退している。
+  - [2012年](../Page/2012年.md "wikilink")12月、テレビ番組の企画で[西武ドーム](../Page/西武ドーム.md "wikilink")で対決している\[16\]。
+  - 「[AK砲](https://ja.wikipedia.org/wiki/AK砲 "wikilink")」や「[MK砲](https://ja.wikipedia.org/wiki/MK砲 "wikilink")」（いずれも清原に関係している）など、野球界ではイニシャルの頭をつなげた略称が好まれるが、KKコンビは日本球界において存在感を発揮したコンビ名の一つである。
+
+## 引退後
+
+  - 引退後は、清原・桑田ともに[野球解説者](https://ja.wikipedia.org/wiki/野球解説者 "wikilink")に転身した。桑田は解説業と並行して、[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")および[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")大学院に入学した。
+  - [2012年](../Page/2012年.md "wikilink")3月、[スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink") -「スカパー\! 野球王道 全国」篇CMにおいて清原・桑田が共演した\[17\]。
+  - 引退後、桑田が解説者や大学院生として順調に仕事をこなしている一方で、清原は薬物使用疑惑が報道されたことも影響し、解説者としての仕事が激減した。また、私生活では離婚、奇行が目立つなど転落の一途を辿った。
+
+## 脚注
+
+## 関連項目
+
+  - [桑田清原世代](https://ja.wikipedia.org/wiki/桑田清原世代 "wikilink")
+
+[Category:野球のユニット](https://ja.wikipedia.org/wiki/Category:野球のユニット "wikilink") [Category:日本の高校野球](https://ja.wikipedia.org/wiki/Category:日本の高校野球 "wikilink") [Category:読売ジャイアンツの歴史](https://ja.wikipedia.org/wiki/Category:読売ジャイアンツの歴史 "wikilink") [Category:清原和博](https://ja.wikipedia.org/wiki/Category:清原和博 "wikilink")
+
+1.  [清原と桑田、史上最強の「高校球児」だったKKコンビ](https://www.baseballchannel.jp/etc/20881/) - ベースボールチャンネル
+2.  [【スポーツ異聞】桑田真澄の凄さをPL学園の恩師・中村順司氏が明かした…「高校1年であれほどの球を投げる投手は見たことがない」（3/3ページ）](http://www.sankei.com/premium/news/160930/prm1609300001-n3.html) - 産経ニュース、2016年9月30日
+3.  [「怪物」清原、大会5本塁打　最後の夏飾る](http://www.asahi.com/koshien/special/kiroku/TKY200506210181.html) - asahi.com：第87回全国高校野球選手権大会「記録が語る大会史」
+4.  [清原全成績（2008年10月1日現在）](http://www.nikkansports.com:80/baseball/kiyohara/result/top-result.html) - 日刊スポーツ 清原特集
+5.
+6.  1位は2017年に更新した[中村奨成](https://ja.wikipedia.org/wiki/中村奨成 "wikilink")の6本塁打。
+7.  [甲子園「春夏」「夏の大会」通算本塁打数1位はともに清原和博だが、2位以下は？](http://www.asagei.com/excerpt/87231) - アサ芸プラス、2017年8月22日
+8.  [広陵・中村2発！32年ぶり大会新記録6本塁打「甲子園の力」](http://www.sponichi.co.jp/baseball/news/2017/08/23/kiji/20170822s00001002282000c.html) - スポニチ、2017年8月23日
+9.
+10. 朝日新聞 1983年8月5日 2011年7月閲覧
+11. 朝日新聞 1983年8月19日 2011年7月閲覧
+12. 朝日新聞 1983年8月20日 2011年7月閲覧
+13. <https://www2.myjcom.jp/npb/column/20170808.shtml#>
+14. [桑田真澄 41歳のキャンパスライフ。](http://number.bunshun.jp/articles/-/12487) - Number Web、2009年5月25日 石田雄太
+15. [清原涙、巨人にふられ西武が１位交渉権](http://www5.nikkansports.com/baseball/kiyohara/reprint/pl/entry-67622.html) - PL学園 復刻ニュース（1985年11月21日付 日刊スポーツ）
+16.
+17. [KKコンビ 桑田＆清原CM初共演 成立するか不安だった](https://www.youtube.com/watch?v=TGWOF1uKy4o)

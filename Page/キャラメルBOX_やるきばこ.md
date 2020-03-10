@@ -1,0 +1,94 @@
+> この記事は[BOX ](https://ja.wikipedia.org/wiki/BOX_)から翻訳されています。
+
+
+『**キャラメルBOX やるきばこ**』 ( - ボックス - ) は、[キャラメルBOX](https://ja.wikipedia.org/wiki/キャラメルBOX "wikilink")より[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月24日](../Page/6月24日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")作品。**キャラメルBOX**によるファンディスク第1弾。
+
+## 概要
+
+本作品は発売後間もなく[ロットアップ](https://ja.wikipedia.org/wiki/ロットアップ "wikilink")となっていたが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の『[処女はお姉さまに恋してる](https://ja.wikipedia.org/wiki/処女はお姉さまに恋してる "wikilink")』のアニメ化に伴う人気再燃により本作も再発を求める声が高まり、それに応えて「**やるきばこ復刻版**」が[2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に発売された。
+
+初回版はCD-ROM2枚組でパッケージがキャラメルケース、復刻版ではDVD-ROM1枚組でDVDトールケースとなっている。内容の違いは以下の収録作品別の詳細記述部分で述べる。
+
+ファンディスク第2弾となる「[キャラメルBOX やるきばこ2 エピソードV:やるきねこの逆襲](../Page/キャラメルBOX_やるきばこ2_エピソードV:やるきねこの逆襲.md "wikilink")」が[2007年](../Page/2007年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")に発売された。
+
+## 歴史
+
+  - 2005年6月24日 - 「**キャラメルBOX やるきばこ**」発売。
+  - 2007年1月26日 - 「**やるきばこ復刻版**」発売。
+  - 2007年10月19日 - 「[キャラメルBOX やるきばこ2 エピソードV:やるきねこの逆襲](../Page/キャラメルBOX_やるきばこ2_エピソードV:やるきねこの逆襲.md "wikilink")」発売。
+
+## コンテンツ
+
+  - 「[処女はお姉さまに恋してる](https://ja.wikipedia.org/wiki/処女はお姉さまに恋してる "wikilink")」 アナザーストーリー5本
+  - 「[シャマナシャマナ 〜月とこころと太陽の魔法〜](../Page/シャマナシャマナ_〜月とこころと太陽の魔法〜.md "wikilink")」 追加ストーリー1本
+  - オリジナルADV「月踊亭にて -At Moondance diner-」
+  - カードバトルゲーム「きゃらばと\!」
+  - [リバーシゲーム](../Page/オセロ_\(遊戯\).md "wikilink")「華麗なるReversi」
+
+### 処女はお姉さまに恋してる
+
+おまけシナリオ（APPENDIX）。PC版DVDフルボイスパッケージの本編中や、PS2版の特定シナリオクリア後に出現するおまけシナリオなどへの収録分と一部重複しているものがある。（[\#関連項目](https://ja.wikipedia.org/wiki/処女はお姉さまに恋してる#おまけシナリオ（APPENDIX） "wikilink")）
+
+復刻版では一部音声が差し替えられている（学校名など）。
+
+  - 宿り樹の腕輪（ミストルテイン）
+  - 宮小路家のお正月
+  - おみやげに於ける諸問題（スーヴェニア・プロブレム）
+  - 翼を継ぐ者たち
+  - 卒業旅行に行きましょう\!
+
+### シャマナシャマナ ～月とこころと太陽の魔法～
+
+CD版本編では攻略できなかった「ラビ・ロス」をヒロインとしたシナリオで、サブタイトルは「Little Knights」。このエピソードは**シャマナシャマナ**DVDリパッケージ版に再収録された。
+
+### 月踊亭にて -At Moondance diner-
+
+#### ストーリー
+
+#### キャラクター
+
+  - 時坂誓哉（ときさか せいや）
+  - 文月涼子（ふづき りょうこ）（[声](../Page/声優.md "wikilink")：[一色ヒカル](https://ja.wikipedia.org/wiki/一色ヒカル "wikilink")）
+  - 水島瞳（みずしま ひとみ）（声：[北都南](../Page/北都南.md "wikilink")）
+  - 光瀬葉由（みつせ はゆ）（声：[ありす](https://ja.wikipedia.org/wiki/ありす "wikilink")）
+  - 時坂いのり（ときさか いのり）（声：[佐本二厘](https://ja.wikipedia.org/wiki/佐本二厘 "wikilink")）
+  - 黛桐花（まゆずみ きりか）（声：[松永雪希](../Page/松永雪希.md "wikilink")）
+
+#### その他
+
+  - この作品はキャラメルBOX第1作「[BLUE](https://ja.wikipedia.org/wiki/BLUE_\(ゲーム\) "wikilink")」と同じ舞台で展開するが、二つの作品の間に直接の関連は無い。
+  - 作品中で涼子が弾くギターの曲は、「[終末少女幻想アリスマチック](../Page/終末少女幻想アリスマチック.md "wikilink")」でも主人公が弾くギターの曲として使われている。
+
+#### スタッフ
+
+  - シナリオ：[嵩夜あや](../Page/嵩夜あや.md "wikilink")
+  - 原画：[クロサキ](https://ja.wikipedia.org/wiki/クロサキ "wikilink")
+
+### きゃらばと\!
+
+キャラメルBOXの作品のキャラクター等のカードを使用して[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")形式でPCと対戦するゲーム。プレーヤーは与えられたカードから自由に[デッキ](../Page/デッキ.md "wikilink")を編成することができる。使用できるカードはPCとの対戦によって増加する。
+
+なお、公式サイトからダウンロードできるパッチを当てることによりゲームのバージョンアップが可能であり、 Ver2.0以降には新規対戦相手を追加したハードモードが追加されている。
+
+「[あえかなる世界の終わりに](https://ja.wikipedia.org/wiki/あえかなる世界の終わりに "wikilink")」関連のカードは、Ver2.0以降でPC（プレイヤーキャラクター）が使用してくるが、プレーヤーが入手するには当該ゲームに付属するパッチを使用しなければならない。同様に、「[終末少女幻想アリスマチック](../Page/終末少女幻想アリスマチック.md "wikilink")」のカードはVer2.2から使用されるが、入手にはPC（パソコン）に当該ゲームがインストールされている必要がある。
+
+復刻版ではVer2.1にバージョンアップされているが、復刻版のみで独自にカードが増えることは無い。
+
+ちなみに「TECH GIAN 2005年8月号」に「[TECH GIAN](https://ja.wikipedia.org/wiki/TECH_GIAN "wikilink")」オリジナルのカードを追加するパッチがある。エンディングで表示されることがある「なかまる」というカードだけはデバッグ用であり入手できない。
+
+※有志によりネットワーク対戦が可能な同人版（フリーウェア）も開発されている。
+
+### 華麗なるReversi
+
+「[処女はお姉さまに恋してる](https://ja.wikipedia.org/wiki/処女はお姉さまに恋してる "wikilink")」のキャラクターと[リバーシ（オセロ）で対戦することができる](../Page/オセロ_\(遊戯\).md "wikilink")。オセロではなくリバーシと表記するのは、商標の都合である。
+
+## 関連項目
+
+  - [キャラメルBOX やるきばこ2 エピソードV:やるきねこの逆襲](../Page/キャラメルBOX_やるきばこ2_エピソードV:やるきねこの逆襲.md "wikilink")
+
+## 外部リンク
+
+  - [キャラメルBOX](http://www.caramel-box.com/)
+  - [きゃらばと\! オンライン](http://cb-online.dyndns.org/) (同人)
+
+[Category:キャラメルBOX](https://ja.wikipedia.org/wiki/Category:キャラメルBOX "wikilink") [Category:アダルトゲームのファンディスク](https://ja.wikipedia.org/wiki/Category:アダルトゲームのファンディスク "wikilink") [Category:2005年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2005年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink")

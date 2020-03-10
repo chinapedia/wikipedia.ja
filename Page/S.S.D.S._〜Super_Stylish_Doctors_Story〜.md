@@ -1,0 +1,270 @@
+> この記事は[S.S.D.S. Super Stylish Doctors Story](https://ja.wikipedia.org/wiki/S.S.D.S._Super_Stylish_Doctors_Story)から翻訳されています。
+
+
+**『S.S.D.S. 〜Super Stylish Doctors Story〜』（エスエスディーエス 〜スーパースタイリッシュドクターズストーリー〜）**とは、[声優](../Page/声優.md "wikilink")の[速水奨](../Page/速水奨.md "wikilink")[原作](../Page/原作.md "wikilink")・[脚本](../Page/脚本.md "wikilink")による[病院](../Page/病院.md "wikilink")を舞台とした[SF](../Page/SF.md "wikilink")[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")作品。
+
+[2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")に[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")第1弾「愛の解体新書」が発売。現在では[ウェブラジオ](https://ja.wikipedia.org/wiki/ウェブラジオ "wikilink")・[イベント](../Page/イベント.md "wikilink")・[ゲーム](../Page/ゲーム.md "wikilink")・[ニコニコチャンネル](https://ja.wikipedia.org/wiki/ニコニコチャンネル "wikilink")や[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")など、様々な[メディアに展開されている](../Page/メディアミックス.md "wikilink")。
+
+## 概要
+
+世界的な先進医療技術と高い信頼性を誇る、**JOY三郎記念聖ラフォーレ病院**北42エリア『**13号医局**』に所属する、個性的な医師たちが巻き起こす騒動を描いた作品。
+
+元々は[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")・[檜山修之](../Page/檜山修之.md "wikilink")による[コント](../Page/コント.md "wikilink")番組『おまえらのためだろ！』に[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")出演した[速水奨](../Page/速水奨.md "wikilink")が、自身が演じた医者「**Dr.HAYAMI**」を気に入った事から製作された。速水と親交のある人気[声優](../Page/声優.md "wikilink")を多数起用し、原作者の速水も主人公「Dr.HAYAMI」として出演。速水は原作・[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")の他に、Dr.HAYAMI名義で[キャラクターソング](https://ja.wikipedia.org/wiki/キャラクターソング "wikilink")の作詞も手がけている。
+
+また、同病院南88エリア『**77号医局**』の女医たちを主人公にしたドラマCD『愛の時・迷宮（ときめき）』シリーズも発売されている。
+
+病院が舞台だが医療に関わる場面はほとんどなく、ナンセンスギャグが中心となっている。作品中の随所に盛り込まれている[言葉遊び](../Page/言葉遊び.md "wikilink")、声優ネタも聞き所のひとつ（著作権者の許可は取っている模様）。
+
+年に数回「診察会」と称した声優イベントも行われており、会場は「分院」、観客は「患者」と称される。また、13号医局の医師に扮した出演者の声優たちは、終始役名で呼ばれ白衣着用（日下＝[千葉進歩](https://ja.wikipedia.org/wiki/千葉進歩 "wikilink")のみスーツ）となる。
+
+診察会のオープニングは出演者全員で[ラジオ体操](https://ja.wikipedia.org/wiki/ラジオ体操 "wikilink")をやるのが定番だが、なぜか出演者は体操中に絶叫し、結果疲れてしまう事が多い。ラストは出演者全員で踊りながら歌う「デオキシリボ助さん」で締めくくられるが、[振り付け](https://ja.wikipedia.org/wiki/振り付け "wikilink")を間違えたりして踊れていない[堀内賢雄](https://ja.wikipedia.org/wiki/堀内賢雄 "wikilink")の姿が風物詩となっていた。
+
+## 登場人物
+
+### 13号医局
+
+  - Dr.HAYAMI（どくたー・はやみ）
+    [声](../Page/声優.md "wikilink") - [速水奨](../Page/速水奨.md "wikilink")
+    副院長兼外科部長兼次期院長候補筆頭。本作の主人公にして、世界的[AIドクター](../Page/人工知能.md "wikilink")。穏やかな性格の人格者で、人々からの信頼も厚い。
+    その足跡は有史以前から、その記憶は遠い未来から。出自も存在も謎に満ちており、過去の経歴は不明だが、現在は医療用AIとして人々の健康に心血を注いでいる。
+    その精力的な活躍は医学界において広く知られているが、私生活は謎に包まれている。お友達はパンダ型[ロボット](../Page/ロボット.md "wikilink")「バンブーちゃん」。
+    Dr.HAYAMIのみ担当声優がモデルになっており、外見は眼鏡をかけて白衣を着た速水奨そのもの。[誕生日](../Page/誕生日.md "wikilink")も速水と同じ[8月2日](../Page/8月2日.md "wikilink")の[獅子座](https://ja.wikipedia.org/wiki/獅子座 "wikilink")。[身長](https://ja.wikipedia.org/wiki/身長 "wikilink")は188cm。イメージカラーはグリーン。
+  - 沢登達哉（さわのぼり たつや）
+    声 - [松本保典](https://ja.wikipedia.org/wiki/松本保典 "wikilink")
+    子供の心が本当に理解できる[小児科医](https://ja.wikipedia.org/wiki/小児科医 "wikilink")。34歳。創業800年を誇る京都の老舗和菓子店「沢登正庵」の跡継ぎだが、家族の反対を押し切ってアテネ医大に留学。パルテノン神殿近くの幼稚園でボランティアに参加したことで小児科医を志した。
+    「沢登こども財団」を設立し、世界中の子供達の幸せに貢献する爽やかな好青年。
+    君島先生とはアテネ医大からの大親友。ちょっとした刺激で精神年齢逆行的時間旅行ができてしまうという特技（？）を持つ。[2月14日](../Page/2月14日.md "wikilink")生まれの[水瓶座](https://ja.wikipedia.org/wiki/水瓶座 "wikilink")。身長180cm。イメージカラーはオレンジ。
+  - 君島究（きみじま きわむ）
+    声 - [檜山修之](../Page/檜山修之.md "wikilink")
+    [フラメンコ](../Page/フラメンコ.md "wikilink")風衣装の上に白衣、赤い長髪、赤い[バラ](../Page/バラ.md "wikilink")と見るからに派手な優男だが、れっきとした[耳鼻咽喉医](https://ja.wikipedia.org/wiki/耳鼻咽喉科 "wikilink")。33歳。必殺技は「ヴォイス・ウェポン」。
+    暑苦しくおだてられやすい性格で、一言でいうと「うるさい」。「究は白衣が似合う」と言った中学の理科の先生に乗せられ、気がついたら医学の道にいた。実は[東京](../Page/東京.md "wikilink")の[下町](../Page/下町.md "wikilink")育ちで、実家は[ガイドブック](https://ja.wikipedia.org/wiki/ガイドブック "wikilink")にも載る[もんじゃ焼き](../Page/もんじゃ焼き.md "wikilink")の名店「梅の家」。男ばかりの4人兄弟の末っ子。
+    美女に目がなく、酒と薔薇をこよなく愛する。この世の命あるもの全てに愛を追い求め、[アバンチュール](https://ja.wikipedia.org/wiki/アバンチュール "wikilink")を楽しむ情熱家。[6月3日](../Page/6月3日.md "wikilink")生まれの[双子座](https://ja.wikipedia.org/wiki/双子座 "wikilink")。身長182cm。イメージカラーはイエロー。
+  - ミヒャエル・シューマイヤー
+    声 - [森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
+    [内分泌](https://ja.wikipedia.org/wiki/内分泌 "wikilink")[センター長](https://ja.wikipedia.org/wiki/センター長 "wikilink")。[アキバ](https://ja.wikipedia.org/wiki/アキバ "wikilink")に25万人の熱烈なファンを持つ[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")人留学生。28歳。何かと感化されやすい性格で、今までも[忍者](../Page/忍者.md "wikilink")、[特撮](../Page/特撮.md "wikilink")、[吸血鬼](../Page/吸血鬼.md "wikilink")ものなどに凝ってきた。
+    [シューマイ](https://ja.wikipedia.org/wiki/シューマイ "wikilink")が大好物で、特にJoy華楼飯店の特製エビシューマイをこよなく愛する。[12月23日](../Page/12月23日.md "wikilink")生まれの[牡羊座](https://ja.wikipedia.org/wiki/牡羊座 "wikilink")。身長は190cm。イメージカラーはピンク。
+  - バウム・クーテヘン教授
+    声 - [関俊彦](../Page/関俊彦.md "wikilink")
+    ムーンベースラボキャプテン兼Joy女子医大学長。ドイツから来たヨーロピアンAIで、Dr.HAYAMIの女房的存在。
+    元々は兵器用として造られたが、Dr.HAYAMIとの出会いによって平和型医療ロボを志す。穏やかで心優しく、13号医局でもっともバランス感覚がある。しかしその優しすぎる性格が、いつか災いを招くかもしれない。超合金性のボディと天文学的な処理能力を持つ。
+    名前の由来はドイツの洋菓子[バームクーヘン](https://ja.wikipedia.org/wiki/バームクーヘン "wikilink")。[1月29日](../Page/1月29日.md "wikilink")生まれの水瓶座。身長は204cm。体重は2520㎏。イメージカラーはウォーターブルー。
+  - ブラディ・トランシルヴァニア伯爵
+    声 - [堀内賢雄](https://ja.wikipedia.org/wiki/堀内賢雄 "wikilink")
+    [血液内科](https://ja.wikipedia.org/wiki/血液内科 "wikilink")。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の町はずれの深い森の奥に立つ古城の城主で、私生活は謎に包まれている。赤い血潮に焦がれる802歳。ほら吹き（担当声優・堀内賢雄のあだ名が「ほら吹き賢雄」である事から）。
+    かつては13号医局と戦った冷酷な[吸血鬼](../Page/吸血鬼.md "wikilink")だったが、記憶を失い、13号医局の先生達（主にミヒャエル）にある事ない事を吹き込まれ、13号医局入り。
+    Dr. HAYAMIに[トマトジュース](../Page/トマトジュース.md "wikilink")を輸血され、現在では人畜無害な昼型人間になっている。哀愁とユーモラスさを併せ持つ、医学界のなりきり男。誕生日・星座は不明。身長183cm。イメージカラーはレッド。
+  - 弓岡蔵人（ゆみおか くらんど）
+    声 - [森田成一](../Page/森田成一.md "wikilink")
+    [江戸時代](../Page/江戸時代.md "wikilink")から[タイムスリップ](https://ja.wikipedia.org/wiki/タイムスリップ "wikilink")した[侍](../Page/侍.md "wikilink")ドクター。見るものすべてが[カルチャーショック](https://ja.wikipedia.org/wiki/カルチャーショック "wikilink")で、あらゆるものから刺激を受けている。実は赤ん坊の時に江戸時代に現れ、「神隠し」からぬ「神現れ」として大切に育てられた。
+    13号医局では[蘭方医](https://ja.wikipedia.org/wiki/蘭方医 "wikilink")として腕を振るう。正義感が強く、実直で朴訥な性格。愛称は「ユーミン」。[11月1日](../Page/11月1日.md "wikilink")生まれの[蠍座](https://ja.wikipedia.org/wiki/蠍座 "wikilink")。身長180cm。イメージカラーはブラック。
+  - 三条光孝（さんじょう みつたか）
+    声 - [平川大輔](https://ja.wikipedia.org/wiki/平川大輔 "wikilink")
+    [スポーツ医療](https://ja.wikipedia.org/wiki/スポーツ医療 "wikilink")[心療科](https://ja.wikipedia.org/wiki/心療科 "wikilink")。病院オーナーにして現Joy国王のJoy三郎を父にもつ、Joy一族の心優しい御曹司。[3月3日](../Page/3月3日.md "wikilink")生まれの[魚座](https://ja.wikipedia.org/wiki/魚座 "wikilink")。身長182cm。イメージカラーはホワイト。
+    優しさの中にも熱い心を秘めている。三条は母方の姓。愛称は「ミッチー」。
+  - KERO☆YUKI（けろゆき）
+    声 - [福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")
+    元々は旧病棟にあった[薬局](../Page/薬局.md "wikilink")のカエル人形（[ソフビ](https://ja.wikipedia.org/wiki/ソフビ "wikilink")製）だった。しかし君島先生のヴォイス・ウェポンを受けて亀裂が入り、中から出てきたのは金髪蒼眼の美少年であった。
+    天使のような外見とは裏腹に腹が黒く、ティーチャー・クレイの愛弟子として世界中を引っ掻き回している。現在はコネチカット研究所所長。ダークサイドにも精通している。[6月6日](../Page/6月6日.md "wikilink")生まれの双子座。身長178cm。イメージカラーはパープル。
+  - 村雨純平（むらさめ じゅんぺい）
+    声 - [柿原徹也](https://ja.wikipedia.org/wiki/柿原徹也 "wikilink")
+    [ペインクリニック](../Page/ペインクリニック.md "wikilink")。病院崩壊後、新しく13号医局に加わった医師（詳しくはドラマCD「愛の解体新書 レヴォリューション4」参照）。
+    時空的に不安定という特殊体質を持ち、過去・現在・未来を自分の意志に関係なく移動する。歴史の教科書のあちこちに登場している。ポテトサラダとミートローフをこよなく愛する。[7月26日](../Page/7月26日.md "wikilink")生まれの[獅子座](https://ja.wikipedia.org/wiki/獅子座 "wikilink")。身長180cm。イメージカラーはグレー。
+  - 新田龍之介（にった りゅうのすけ）
+    声 - [増田俊樹](https://ja.wikipedia.org/wiki/増田俊樹 "wikilink")
+    13号医局期待の新人[研修医](../Page/研修医.md "wikilink")だったが、2017年5月7日のS.S.D.S.第20回診察会「初夏のウインク祭り(オペラグラス推薦)」夜の部で専属外来が発表され、特別ワクチン外来科担当となった。
+    元々は悪のダークサイド（コードネームはドラゴン）だったが、生来の優しい気質もあり、13号医局の先生達との交流でダークサイドと訣別。
+    現在は名実ともに13号医局の一員。新田和人の遠縁らしい。[7月3日](../Page/7月3日.md "wikilink")生まれの蟹座。身長178cm。イメージカラーはティール。
+  - 新田和人（にった かずと）
+    声 - [高橋直純](https://ja.wikipedia.org/wiki/高橋直純 "wikilink")
+    東北のとある医科大をやっとのことで卒業し、医師になる。ごく普通の家庭に育った為、アクの強い先生達の中で極めて普通な一般人。ただし3人の姉の尻に敷かれる影響か、女性には徹底的に弱い。
+    時々空想するクセがあり、独り言で苦労している。あまり物ごとに動じない性格。
+    現在、祖母が創業した新田キヌチェーンのCEOとして世界中を飛び回っている。[4月7日](../Page/4月7日.md "wikilink")生まれの牡羊座。身長172cm。イメージカラーはブルー。
+    脳外科担当。
+  - 霧谷玲司（きりたに れいじ）
+    声 - [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
+    病院崩壊後、13号医局に新しく赴任してきた[麻酔医](https://ja.wikipedia.org/wiki/麻酔医 "wikilink")。
+    袖捲り一郎の親衛隊を勤めるダークサイドのエリート（当時のコードネームはフォギー）だったが、龍之介同様に13号医局の先生達との交流の中で、自分の存在に疑問を感じ始める。
+    現在ではダークサイドと訣別し、真の13号医局の医師となった。[4月3日](../Page/4月3日.md "wikilink")生まれの牡羊座。身長183cm。イメージカラーはスケルトンライラック。
+    無意識に口ずさむ[シューベルトの子守唄には](../Page/フランツ・シューベルト.md "wikilink")、聴いた者を眠らせる効果があるらしく、現在では麻酔歌として世界の注目を集めている。
+  - 修学院明（しゅうがくいん あきら）
+    声 - [前野智昭](https://ja.wikipedia.org/wiki/前野智昭 "wikilink")（少年時代の明の声：[大谷育江](../Page/大谷育江.md "wikilink")（ドラマCD「愛の解体新書 レヴォリューション4」で初登場）
+    明には双子の兄弟・融（とおる）がいる。10歳でオックスフォード大学を卒業した天才で、物理と化学の分野で数々の発見をした。更に医学にも興味を持ち、13号医局入りする。
+  - 時岡進太郎（ときおか しんたろう）
+    声 - [佐藤拓也](https://ja.wikipedia.org/wiki/佐藤拓也_\(声優\) "wikilink")
+    2015年11月加入。思春期外来。かつては袖捲り一郎の信任厚いダークサイドの時空パトロール隊員だったが、13号医局の医師たちとの触れ合いで本当の自分を取り戻し、13号医局入りした。[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")生まれのさそり座。身長178cm。イメージカラーはネオンオレンジ。
+  - 物部絵美史（もののべ えみし）
+    声 - [西山宏太朗](https://ja.wikipedia.org/wiki/西山宏太朗 "wikilink")
+    研修医。袖捲りイチロウの息子でダークサイド最後の刺客だが、表面上は穏やかな八方美人。イメージカラーはレモンイエロー。
+    実装院光太郎（じっそういんこうたろう）
+    声 - [野津山幸宏](https://ja.wikipedia.org/wiki/野津山幸宏 "wikilink")
+    アレルギー外来。
+    ダークサイドの出身の刺客。
+    京都生まれの大阪育ちで関西弁を話す。
+    実は、ホログラム的な存在だったが、13号医局の医者たちにより、AIのような人格体として生まれ変わる可能性がある。
+    イメージカラーはライム。
+  - とし子・のぶ子（としこ・のぶこ）
+    声 - [森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")（とし子）、[檜山修之](../Page/檜山修之.md "wikilink")（のぶ子）
+    13号医局で働く[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink")で、元々は「おまえらのためだろ！」のキャラクター。二人とも逞しい見た目と性格だが、れっきとした乙女である。
+  - バンブーちゃん
+    声 - 大谷育江→[小桜エツ子](../Page/小桜エツコ.md "wikilink")
+    Dr.HAYAMIの一番の友達の[パンダ](../Page/パンダ.md "wikilink")型[ロボット](../Page/ロボット.md "wikilink")。愛くるしい瞳とキュートな鳴き声で人々の心を鷲掴みするが、実はかなり強い。
+  - ナンシーちゃん
+    声 - 速水奨
+    ナゾの看護師長。実はおネエ。
+
+### 77号医局
+
+  - Dr.MINAMOTO （どくたー・みなもと）
+    声 - [井上喜久子](https://ja.wikipedia.org/wiki/井上喜久子 "wikilink")
+    Dr.HAYAMIの妹ロボットにして超美人AI。長い黒髪に眼鏡をかけた知的美女で、女性版Dr.HAYAMIというべき存在。
+    時空の綻びを修復すべく、過去から未来まで時をかけて奔走する。
+    強く気高く美しく、女子力も高い。妻にしたいAINo.1。
+  - 橘薫子 （たちばな かおるこ）
+    声 - [高橋美佳子](https://ja.wikipedia.org/wiki/高橋美佳子 "wikilink")
+    77号医局の新人研修医。実は新田和人先生と同じ村の出身。小悪魔な[ぶりっ子](../Page/ぶりっ子.md "wikilink")キャラ。語尾は「ですぅ」。
+    キュートな中にしたたかさと、ちょっとだけ正義感も持っている。意外にも文学に才能あり。たまに方言が出てくる。
+  - ソフィー・オルレアン教授
+    声 - [白鳥由里](../Page/白鳥由里.md "wikilink")
+    [パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")・ジャンヌ女子大学の[名誉教授](../Page/名誉教授.md "wikilink")。[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")生まれで、金髪蒼眼の癒し系美少女AI。みんなの妹的存在。
+    しかし、やはりAIなので恐るべきパワーを内に秘めている。時々フランス語が出てくる。
+    ドイツB社製のバウム教授とは旧知の仲。デートしたいAINo.1。
+  - マリア・フォン・バーデン
+    声 - [千葉紗子](https://ja.wikipedia.org/wiki/千葉紗子 "wikilink")
+    ドイツ人留学生で、ミヒャエルの友人。一人称は「僕」。ただの忍者好きにあらず、完璧に[忍術](https://ja.wikipedia.org/wiki/忍術 "wikilink")をマスターしている。
+    今は医術よりも忍術一筋。[根来衆](../Page/根来衆.md "wikilink")達になつかれてしまい、根来衆首領の座に就くことになった。
+    かなりの美人だが、彼女の趣味・趣向に合う男性はドイツにはいないらしい。
+  - 修学院母音 （しゅうがくいん もね）
+    声 - [野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")
+    秘境マニアで、双子の妹の真音とは[二卵性双生児](https://ja.wikipedia.org/wiki/二卵性双生児 "wikilink")。明・融の姉。口元のほくろがセクシー。
+    普段はおっとりした天然だが、一度キレると恐ろしい本性をあらわす。酔っぱらうと絡み酒するタイプ。
+    同性からの支持を受け、地球を飛び回っている。今のところは独身生活を謳歌中。
+  - 修学院真音 （しゅうがくいん まね）
+    声 - [新谷良子](../Page/新谷良子.md "wikilink")
+    秘境マニアで、奔放な双子の姉・母音に振り回され気味。
+    クールでアクティブな性格。持ち前の天才的なひらめきは、いつか世界を救うかもしれない。
+  - ミーシャ・ミシャノビッチ・ミシャノフスキー
+    声 - [佐々木望](https://ja.wikipedia.org/wiki/佐々木望 "wikilink")
+    元ロシアの工作員で宇宙飛行士。謎の男ジェネラル・ダークに心酔し、77号医局に潜入している。
+
+### その他
+
+  - 日下真一郎 （くさか しんいちろう）
+    声 - [千葉進歩](https://ja.wikipedia.org/wiki/千葉進歩 "wikilink")
+    Joy三郎記念聖ラ・フォーレ病院事務長。病院オーナー・Joy三郎の忠実な右腕。細い目が特徴。必殺技は「願いましてはビーム」。得意の[そろばん](../Page/そろばん.md "wikilink")勘定には定評あり。
+    Joy三郎が経営していたハンバーガーチェーン「Joy2バーバー」のアルバイト店員から20歳で店長に抜擢。バブル崩壊で店が倒産してもなお、Joy三郎の側を離れることなく再起のチャンスを伺っていた。
+    Joy三郎がJoy王国国王に就任し潤沢な資金を動かせるようになると、経営の一切を任されて病院を買収し、現在に至る。[8月8日](../Page/8月8日.md "wikilink")生まれの獅子座。身長183cm。
+  - 中管制官 as中数男 （なか かんせいかん）
+    声 - [中博史](https://ja.wikipedia.org/wiki/中博史 "wikilink")
+    [管制](https://ja.wikipedia.org/wiki/管制 "wikilink")道中流[宗家](https://ja.wikipedia.org/wiki/宗家 "wikilink")・中一族五代目当主であるダンディなナイスミドルの[管制官](https://ja.wikipedia.org/wiki/管制官 "wikilink")。中一族は病院内の各方面で活躍している。
+    日本の航空の歴史の幕開けから伝わる中家の正統管制術は、代々一子相伝で受け継がれる。特にカウントダウン法は他の追随を許さない。
+    病院のコントロールルームから[ジャンボジェット機](https://ja.wikipedia.org/wiki/ジャンボジェット機 "wikilink")、Dr.専用シャトルの発着や、13号医局内の計器類全てを遠隔操作する凄腕管制官。しかし、私生活はやや迷走気味。[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")生まれの牡羊座。身長185cm。
+  - Joy三郎 （じょいざぶろう）
+    声 - [神谷明](../Page/神谷明.md "wikilink")
+    JOY三郎記念聖ラフォーレ病院のオーナーにして、[ヒマラヤ](https://ja.wikipedia.org/wiki/ヒマラヤ "wikilink")の奥地にある平和な黄金郷・Joy王国145代目[国王](../Page/国王.md "wikilink")。潤沢な資金を世の中のために有効活用しようと、医療先進国・日本で巨大病院を設立した。
+    Joy王国の先王がお忍びの京都旅行中に[祇園](https://ja.wikipedia.org/wiki/祇園 "wikilink")の[芸者](https://ja.wikipedia.org/wiki/芸者 "wikilink")・お菊と燃えるような恋に落ち、誕生した。
+    哲学的で物静かな性格だが、[巨大ロボットに乗り込むと熱血ヒーローに豹変する](https://ja.wikipedia.org/wiki/スーパーロボット "wikilink")。[1月1日](../Page/1月1日.md "wikilink")生まれの[山羊座](https://ja.wikipedia.org/wiki/山羊座 "wikilink")。身長174cm。
+  - 袖捲りイチロウ（そでまくり いちろう）
+    声 - [立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")
+    旧ラフォーレ病院総務部長で、13号医局の敵・ダークサイドの総統。日下に病院を追い出された復讐を企んでいた。Dr.HAYAMIとは[トムとジェリー](https://ja.wikipedia.org/wiki/トムとジェリー "wikilink")のような関係。
+  - Joyピリオド
+    声 - [桐本琢也](https://ja.wikipedia.org/wiki/桐本琢也 "wikilink")
+    Joy三郎の義理の弟。Joy王国の王座を狙う野心家。
+  - ルクラ
+    声 - [根谷美智子](../Page/根谷美智子.md "wikilink")
+    Joyピリオドの秘書兼恋人。日下が恋に落ちてしまうほどの美女。
+  - ティーチャー・クレイ
+    声 - [青野武](../Page/青野武.md "wikilink")
+    バウム教授を開発したマッドサイエンティスト。
+  - 十三代藤原源左衛門助成
+    声 - [富田耕生](../Page/富田耕生.md "wikilink")
+    Dr. HAYAMIとDr. MINAMOTOを開発した江戸っ子の宮大工。
+
+## webラジオ
+
+『[WEB S.S.D.S. 愛の解体新書](../Page/WEB_S.S.D.S._愛の解体新書.md "wikilink")』は2012年4月17日まで[ランティスウェブラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink")で配信されていた。
+『[S.S.D.S.〜愛の究極診断(エクストリーム・テラー)](https://ja.wikipedia.org/wiki/S.S.D.S.〜愛の究極診断\(エクストリーム・テラー\) "wikilink")』は2012年5月16日から2015年7月28日までニコニコ生放送で配信されていた。
+
+『**速水奨×増田俊樹の貴方を癒すラジオ～白衣でささやいて～**』は2015年9月8日から毎月第1火曜日21時30分より約60分、[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")で配信されている。前半は無料、後半は有料チャンネル会員限定の生放送番組。パーソナリティは速水奨、増田俊樹。
+
+  - ゲスト
+
+<table>
+<tbody>
+<tr class="odd">
+<td><ul>
+<li># 2（2015年11月3日）：佐藤拓也</li>
+<li># 5（2016年2月2日）：関俊彦</li>
+<li># 6（2016年3月1日）：平川大輔</li>
+<li># 7（2016年4月5日）：松本保典</li>
+<li># 8（2016年5月3日）：佐藤拓也</li>
+<li># 11（2016年8月2日）：逢坂良太</li>
+<li># 13（2016年10月4日）：関俊彦</li>
+<li># 14（2016年11月4日）：高橋直純</li>
+<li># 15（2016年12月6日）：井上喜久子</li>
+<li># 16（2017年1月10日）：松本保典</li>
+<li># 19（2017年4月4日）：堀内賢雄</li>
+<li># 20（2017年5月9日）：西山宏太朗</li>
+<li># 25（2017年10月3日）：置鮎龍太郎</li>
+<li># 34（2018年7月3日）：関俊彦</li>
+<li># 35（2018年8月7日）：森田成一</li>
+<li># 36（2018年9月4日）：平川大輔</li>
+<li># 38（2018年11月6日）：野津山幸宏</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## 関連商品
+
+### ドラマCD
+
+  - Super Stylish Doctors story「愛の解体新書」1 - 4
+  - Super Stylish Doctors story「愛の時・迷宮〜あいのときめき〜」1 - 3（77号医局の女性医師たちが主人公。3の次回予告で4巻出るかもしれないという次回予告はあるが、長らく発売していない）
+  - Super Stylish Doctors story「愛の解体新書 revolution」1 - 4
+  - Super Stylish Doctors story「愛の解体新書 外伝 愛のSAMURAI doctor」
+  - ニコ生ラジオドラマCD「S.S.D.S. 愛の生劇アワー THE☆LIVE」
+
+### ヴォーカルアルバム
+
+  - Super Stylish Doctors Songs 「Seven Vitamins」（セブン・ビタミンズ）
+  - Super Stylish Doctors Songs 2「Ten Supplements」（テン・サプリメンツ）
+  - Super Stylish Doctors Songs 3「Eight Beating」（エイト・ビーティング）
+  - S.S.D.S.キャラクターソング 愛の熱唱シリーズ Vol.1「Yumi-Bam」（ユミバム）（弓岡蔵人&バウム・クーテヘン）
+  - S.S.D.S.キャラクターソング 愛の熱唱シリーズ Vol.2「Micha-shin」（ミヒャシン）（ミヒャエル・シューマイヤー&日下真一郎）
+  - S.S.D.S.キャラクターソング 愛の熱唱シリーズ Vol.3「Kero-mitz」（ケロミッツ）（KERO☆YUKI&三条光孝）
+  - S.S.D.S. Vocal Album「Romantic Pulse」（ロマンティック・パルス）
+  - S.S.D.S. ニューミニアルバム愛のビーチフラッグ
+      - 1.愛のビーチフラッグ(Dr.HAYAMI＆新田龍之介)
+      - 2.静寂なんてぶっとばせ！(霧谷玲司)
+      - 3.if(時岡進太郞)
+
+### ゲーム
+
+  - GAME S.S.D.S. ～刹那の英雄（あこがれ）（[Windows98](https://ja.wikipedia.org/wiki/Windows98 "wikilink")/Me/[XP用ソフト](https://ja.wikipedia.org/wiki/Windows_XP "wikilink")。全年齢対応）
+
+### DVD
+
+  - S.S.D.S. DVD 1「御名刺代わり（2005年）」（第03回診察会）
+  - S.S.D.S. DVD 2「初夏の診察会（2006年）」（第05回診察会）
+  - S.S.D.S. DVD 3「秋の大診察会（2006年）」（第06回診察会）
+  - S.S.D.S. DVD 4「2007 秋の診察会」（第07回診察会）
+  - S.S.D.S. DVD 5「2008 初冬の診察会」（第09回診察会）
+  - S.S.D.S. DVD 6「2009 秋の贅沢診察会」（第11回診察会）
+  - S.S.D.S. DVD 7「2010 魅惑の診察会」（第12回診察会）
+  - S.S.D.S. DVD 8「2011 秋もたっぷり診察会」（第14回診察会）
+  - S.S.D.S. DVD 9「2012 とことん診察会4」（第15回診察会）
+  - S.S.D.S. DVD 10「2014 S.S.D.S歌謡祭」（第17回診察会）
+
+<!-- end list -->
+
+  - 公式通販では過去DVDは在庫切れの為、廃盤多し。\*
+
+## 外部リンク
+
+  - [S.S.D.S.official web site](http://ssds-official.com/)
+
+  -
+  -
+  - [GAME SSDS ～刹那の英雄](https://web.archive.org/web/20161106224523/http://www.ssds-world.com/re_ssds/game/game1.html)（ゲーム版公式サイト）
+
+[Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink")

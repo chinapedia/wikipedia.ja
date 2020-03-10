@@ -1,0 +1,28 @@
+> この記事は[AIG](https://ja.wikipedia.org/wiki/AIG)から翻訳されています。
+
+
+**エイアイジー・スター生命保険株式会社**（エイアイジースターせいめいほけん、[英称](../Page/英語.md "wikilink")：*AIG Star Life Insurance Co., Ltd.*）は、かつて存在していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[生命保険](https://ja.wikipedia.org/wiki/生命保険 "wikilink")会社である。 [米国](https://ja.wikipedia.org/wiki/米国 "wikilink")[AIG傘下にあったが](../Page/アメリカン・インターナショナル・グループ.md "wikilink")、[プルデンシャル・ファイナンシャル](https://ja.wikipedia.org/wiki/プルデンシャル・ファイナンシャル "wikilink")へ売却され、2012年に同傘下の[ジブラルタ生命保険](https://ja.wikipedia.org/wiki/ジブラルタ生命保険 "wikilink")との[合併により解散した](https://ja.wikipedia.org/wiki/企業合併 "wikilink")。
+
+## 概要
+
+元々[千代田生命保険](https://ja.wikipedia.org/wiki/千代田生命保険 "wikilink")[相互会社](../Page/相互会社.md "wikilink")（[1904年](../Page/1904年.md "wikilink")創業）であったが、[2000年](../Page/2000年.md "wikilink")千代田生命の経営破綻に伴い、[2001年](../Page/2001年.md "wikilink")に株式会社に転換し、[AIG](https://ja.wikipedia.org/wiki/AIG "wikilink")グループが株式を買収し、現社名となった（正式商号は「エイアイジー・スター生命保険株式会社」だが、自社ウェブサイト内においても「AIGスター生命」という表記が混在していた）[2011年](../Page/2011年.md "wikilink")には米[プルデンシャル・ファイナンシャル](https://ja.wikipedia.org/wiki/プルデンシャル・ファイナンシャル "wikilink")(Prudential Finance)が買収。
+
+2009年1月を目標に、同じくAIGグループの[AIGエジソン生命保険](../Page/AIGエジソン生命保険.md "wikilink")と合併して、AIG生命保険株式会社になる予定だったが、AIGが[サブプライムローン](../Page/サブプライムローン.md "wikilink")問題の影響で経営危機に陥り、2008年10月3日、経営再建策の1つとして、日本の生命保険事業3社（同社、AIGエジソン生命保険、[アリコジャパン](https://ja.wikipedia.org/wiki/アリコジャパン "wikilink")）を売却することを発表した。これによって合併計画を延期させざるを得なくなったことから、2009年1月に予定されていた合併は先送りされた。
+
+[2011年](../Page/2011年.md "wikilink")2月1日付けで、米[プルデンシャル・ファイナンシャル](https://ja.wikipedia.org/wiki/プルデンシャル・ファイナンシャル "wikilink")グループがAIGスター生命とAIGエジソン生命を買収した。プルデンシャル・ファイナンシャル傘下に移行後もAIG側の許可により商号は維持されたが、2012年1月1日に当社・[ジブラルタ生命保険](https://ja.wikipedia.org/wiki/ジブラルタ生命保険 "wikilink")・AIGエジソン生命の3社が合併し、ジブラルタ生命保険に商号変更された\[1\]。一方、銀行窓販チャネルについてはジブラルタ生命の子会社である[プルデンシャル ジブラルタ ファイナンシャル生命保険](../Page/プルデンシャル_ジブラルタ_ファイナンシャル生命保険.md "wikilink")（旧・大和生命保険）へ移管・統合された\[2\]。
+
+## テレビCM
+
+  - 2004年から2005年にかけて、[女神](../Page/女神.md "wikilink")の様な衣装を纏いステッキを持った西洋人女性が、星空に囲まれた[三日月](https://ja.wikipedia.org/wiki/三日月 "wikilink")のセットに乗り、日本語[吹き替え](https://ja.wikipedia.org/wiki/吹き替え "wikilink")で「[きらきら星](https://ja.wikipedia.org/wiki/きらきら星 "wikilink")」を「A・I・G スター生命ー」と連呼する歌詞で歌い、AIGグループの保険会社であることをアピールするイメージCMが放送されていた。
+  - その後しばらくCM展開はしていなかったが、2010年に入院保険『診断革命』の宣伝で「あんしんサキドリ隊」という青色の鳥のオリジナルキャラクターを使ったCMを放送した。
+
+## 脚注
+
+## 外部リンク
+
+  - [旧スター生命コンテンツ｜旧スター生命](https://www.gib-life.co.jp/st/keiyaku/s/) - ジブラルタ生命が運営する旧エイアイジー・スター生命にて契約した顧客（旧千代田生命から契約移転した顧客を含む）を対象としたページ。
+
+[Category:かつて存在した日本の保険会社](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の保険会社 "wikilink") [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink")
+
+1.   - ジブラルタ生命保険株式会社 プレスリリース 2012年1月4日（2012年1月10日閲覧）
+2.   ジブラルタ生命保険株式会社 ニュースリリース 2011年2月1日（2012年1月10日閲覧）

@@ -1,0 +1,63 @@
+> この記事は[BMD-1](https://ja.wikipedia.org/wiki/BMD-1)から翻訳されています。
+
+
+**BMD-1**（ 915）は、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[歩兵戦闘車](../Page/歩兵戦闘車.md "wikilink")（IFV）。BMDとはロシア語で**空挺戦闘車**（**）を意味し、[空中投下](https://ja.wikipedia.org/wiki/空中投下 "wikilink")が可能なように設計された装甲車両である。
+
+## 開発
+
+従来、ソ連空挺軍（現 [ロシア空挺軍](../Page/ロシア空挺軍.md "wikilink")）には[ASU-57](https://ja.wikipedia.org/wiki/ASU-57 "wikilink")などの[自走砲](../Page/自走砲.md "wikilink")が配備されていた。しかし、こうした空挺車両は既存の装甲車両を流用した車体に過ぎず、また兵員の輸送が考慮されていなかった。
+
+また、[1962年](../Page/1962年.md "wikilink")の[キューバ危機](../Page/キューバ危機.md "wikilink")では[アメリカ軍](../Page/アメリカ軍.md "wikilink")が[カリブ海](../Page/カリブ海.md "wikilink")に迅速に戦力を展開できたのに対し、[ソビエト連邦軍](../Page/ソビエト連邦軍.md "wikilink")は緊急展開に時間を要したため、ソ連は外交的に優位な立場に立つことができず、キューバからのミサイル基地撤去という結末を迎えた。
+
+こうした事態から空挺軍の装備を抜本的に見直す必要が生じ、[1965年](../Page/1965年.md "wikilink")にヴォルゴグラード・トラクター工場で空挺部隊専用の装甲車両の設計が始まり、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に試作車両が完成。翌[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")にはBMD-1として制式化され、量産と配備が開始された。
+
+## 設計
+
+BMD-1の設計は、同時期に開発された[BMP-1](../Page/BMP-1.md "wikilink")とほぼ同一で、BMP-1を小型化、軽量化して輸送機への搭載と空中投下を可能としている。
+
+車体は、軽量化のために[アルミ合金](https://ja.wikipedia.org/wiki/アルミ合金 "wikilink")製になっている。装甲厚は7.62mm弾や砲弾の破片からの防護にとどまるが、上部正面は78度、下部正面は50度の傾斜を有しており、良好な[避弾経始](../Page/避弾経始.md "wikilink")となるほか、内部容積の増大にも貢献している。水上走行が可能で、正面に設置されている波除板は、地上走行時に増加装甲となる。
+
+操縦席は車体前部にあり、ここに操縦手が座る。操縦席には[ペリスコープが](../Page/潜望鏡.md "wikilink")3基装備され、操縦手は前方60度の視界を有する。操縦手の左側に車長が座る。車長席には、外部監視用に単眼式ペリスコープ[測距儀](../Page/レンジファインダー.md "wikilink")**1PN22M1**が設置されている。夜間はアクティブ式夜間[暗視装置](https://ja.wikipedia.org/wiki/暗視装置 "wikilink")（砲塔の右側に設置）を利用すれば400m\~900mの視程を得られるが、車長席の位置が中途半端で、砲塔が死角になって全周視界を有しないという欠点がある。操縦手と車長の乗下車には個別のハッチを用いる。
+
+操縦室の後方には戦闘室があり、BMP-1と同型の1名用砲塔がある。主砲は、[SPG-9](https://ja.wikipedia.org/wiki/SPG-9 "wikilink")[無反動砲](../Page/無反動砲.md "wikilink")と同型の73mm低圧滑腔砲2A28であり、BMP-1と同様、安定装置はついていない。砲塔の旋回、砲身の上下は電気装置で行うが手動操作も可能である。73mm砲弾は40発（HEAT ×16発、破片榴弾 ×24発）が砲塔バスケットに格納される。主砲の上方には[9M14 「マリュートカ」](https://ja.wikipedia.org/wiki/9M14_\(ミサイル\) "wikilink")（AT-3 「サガー」）[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")の発射レールを有する。9M14は第一世代の対戦車ミサイルで、有線誘導式で砲手が車内から操縦する。予備弾は3発が車体に格納されているが、装填時には砲手が砲塔から身を乗り出して誘導弾を装填し、4枚の安定翼を取り付ける必要があった。また、飛翔速度が遅く、発射時の噴煙が多いなどの欠点を有していたことから、後に[9M113 「コンクールス」](https://ja.wikipedia.org/wiki/9M113_\(ミサイル\) "wikilink")（AT-5 「スパンドレル」）の発射機が装備された。9M113を搭載した車両は、BMD-1Pとして区別される。このほか、主砲同軸でPKT 7.62mm機関銃を1丁装備したほか、車体前部両端にもPKT 7.62mm機関銃を1丁ずつ装備している。この2丁の操作は、乗車した降下兵が車内から行なう。7.62 mm銃弾は4,000発を格納する。
+
+戦闘室の後方には、空挺兵が乗車する兵員室がある。兵員室には通常は3人、最大で5人の空挺兵が搭乗することが可能だが、乗下車時には天井のハッチから出入りするか、後方の機関室上にある狭い扉から出入りする必要があるなど、迅速な移動に適していない構造になっている。車体後部には3ヶ所のペリスコープと3ヶ所の銃眼が設けられている。
+
+このほか、フィルター式換気装置、自動消火装置、発煙装置を装備し、外部との連絡用にR-123M無線機、車両内での会話用にR-124戦車会話装置が搭載されている。また、空挺車両特有の装備として、空中投下された本車を空挺兵が探し出せるようにビーコン発信機が設置されている。
+
+## 運用
+
+[BMD-1_in_Afghanistan.jpg](https://ja.wikipedia.org/wiki/File:BMD-1_in_Afghanistan.jpg "fig:BMD-1_in_Afghanistan.jpg")市内におけるソ連空挺軍のBMD-1（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")）\]\] 世界でも珍しい空挺専用の装甲車両を保有することで、空挺軍は戦車にも対抗できる攻撃力と機械化による機動力を有するに至った。その展開の機動性から、[アフガニスタン侵攻では先鋒を務めた](../Page/アフガニスタン紛争_\(1978年-1989年\).md "wikilink")。
+
+しかし、実際の運用ではBMP-1と同様の主砲の貧弱性や装甲の脆弱性が露呈した。さらに、あまりに窮屈な車内は長時間の乗車には適さず、部隊によってはBMP-1や[BTR-60](../Page/BTR-60.md "wikilink")、[BTR-70](../Page/BTR-70.md "wikilink")に乗り換えるほどであった。こうした戦訓を元に、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には改良型の[BMD-2](https://ja.wikipedia.org/wiki/BMD-2 "wikilink")が採用されている。
+
+現在でも[ロシア空挺軍](../Page/ロシア空挺軍.md "wikilink")のほか、[CIS諸国で配備されており](../Page/独立国家共同体.md "wikilink")、一部は治安維持に用いられている。旧ソ連以外では、[インド陸軍](https://ja.wikipedia.org/wiki/インド陸軍 "wikilink")などが装備している。 {{-}}
+
+## 派生型
+
+  - BMD-1K
+    1971年に開発された指揮車型。無線機2台と電力供給用のエンジン発動機を設置。
+  - 1V118 / 1V119
+    砲兵観測車
+  - BRehM-D
+    修理回収車
+  - [BTR-D](https://ja.wikipedia.org/wiki/BTR-D "wikilink")
+    1974年にBMD-1に基づき開発された[装甲兵員輸送車](https://ja.wikipedia.org/wiki/装甲兵員輸送車 "wikilink")。
+  - BMD-1P
+    9M14の発射レールを廃して、9M113の発射機を搭載。
+
+## 採用国
+
+  - 退役国
+
+<!-- end list -->
+
+  - \- [1981年](../Page/1981年.md "wikilink")に10両を受領。[湾岸戦争](../Page/湾岸戦争.md "wikilink")、[イラク戦争](../Page/イラク戦争.md "wikilink")で破壊され、残った車両も既に退役。
+
+## 関連項目
+
+  - [BMD-2](https://ja.wikipedia.org/wiki/BMD-2 "wikilink")
+  - [BMD-3](https://ja.wikipedia.org/wiki/BMD-3 "wikilink")
+  - [歩兵戦闘車](../Page/歩兵戦闘車.md "wikilink")
+
+[Category:歩兵戦闘車](https://ja.wikipedia.org/wiki/Category:歩兵戦闘車 "wikilink") [Category:ソビエト連邦の装甲戦闘車両](https://ja.wikipedia.org/wiki/Category:ソビエト連邦の装甲戦闘車両 "wikilink") [Category:空挺戦車](https://ja.wikipedia.org/wiki/Category:空挺戦車 "wikilink")

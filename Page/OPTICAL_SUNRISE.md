@@ -1,0 +1,53 @@
+> この記事は[OPTICAL SUNRISE](https://ja.wikipedia.org/wiki/OPTICAL_SUNRISE)から翻訳されています。
+
+
+『**スペクトラム2 OPTICAL SUNRISE**』（スペクトラムツー オプティカル・サンライズ）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")に発売された[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。
+
+## 概要
+
+前作『[SPECTRUM](../Page/SPECTRUM.md "wikilink")』の最後の曲の末尾が冒頭に挿入され、それが終わると同時に曲がスタート。このように前作から繋がる構成は『[SECOND NAVIGATION](https://ja.wikipedia.org/wiki/SECOND_NAVIGATION "wikilink")』まで踏襲されることになる。
+
+全曲が[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[スペクトラム伝説](https://ja.wikipedia.org/wiki/スペクトラム伝説 "wikilink")』『[GOLDEN☆BEST](../Page/ゴールデン☆ベスト.md "wikilink") スペクトラム』に収録されている。前者では一部の曲は別バージョンや別編集になっているが、後者は前作から繋がる部分がカットされた以外は本作とまったく同じ内容になっている。
+
+## 収録曲
+
+## 曲解説
+
+1.  **モーション (MOTION)**
+      -
+        [新田一郎と](../Page/新田一郎_\(ミュージシャン\).md "wikilink")[西慎嗣](https://ja.wikipedia.org/wiki/西慎嗣 "wikilink")の[ユニゾン](https://ja.wikipedia.org/wiki/斉唱 "wikilink")。[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が手掛けた歌詞はフルコーラスでわずか10行に過ぎないが、イントロや間奏が長い。冒頭の新田一郎による不思議な音色のハイノートは「トロンペット（バルブトロンボーンにトランペットのマウスピースを付けたもの）」によるもの。キックボクサーの[ロブ・カーマン](../Page/ロブ・カーマン.md "wikilink")の日本での入場曲にも使われた。
+2.  **F・L・Y**
+      -
+        同時に[シングル](../Page/シングル.md "wikilink")でも発売された。作詞のMaboは[篠塚満由美](https://ja.wikipedia.org/wiki/篠塚満由美 "wikilink")のペンネーム\[1\]。
+3.  **侍S**
+      -
+        スペクトラムを代表するインストゥルメンタル。ライブの山場で、メンバー各自のソロが披露される。
+4.  **イン・ザ・スペース (IN THE SPACE)**
+      -
+        2枚目のシングルとして発売され、ヒットした曲。テクニクスのコンポーネント・ステレオ『THE SPACE』のテレビCMに使用された。この曲の別テイクを元に、新田一郎の『スペース・アンリミテッド』が制作された。またTHE SPACE発売時に、販促アルバムとして『THE SPACE』（非売品）が付いていた。内容はスペクトラムのベスト曲5曲がA面、スターウォーズのテーマ等のシンセサイザーアレンジ曲5曲（演奏：スターシップ・シンセサイザ・オーケストラ名義）がB面に収録されている。
+5.  **ミーチャン GOING TO THE HOIKUEN**
+      -
+        [フリューゲル・ホーン](https://ja.wikipedia.org/wiki/フリューゲル・ホーン "wikilink")の柔らかな音色と、曲間のミーチャンとメンバーの会話が特徴的な曲。ミーチャンとは、当時の所属事務所アミューズの[大里洋吉](https://ja.wikipedia.org/wiki/大里洋吉 "wikilink")社長の娘。解散コンサートの時は小学生で、[リミックス盤では高校生になっていた](https://ja.wikipedia.org/wiki/スペクトラム_SUPER_REMIX_1991 "wikilink")。この曲は、[毎日放送](../Page/毎日放送.md "wikilink")の深夜番組『[夜はクネクネ](https://ja.wikipedia.org/wiki/夜はクネクネ "wikilink")』、[中京テレビの深夜番組](../Page/中京テレビ放送.md "wikilink")『[ラジごめII金曜日の王様](https://ja.wikipedia.org/wiki/ラジごめII金曜日の王様 "wikilink")』、[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")『[ザ・ヒットパレード ～毎日がベストテン～](../Page/ザ・ヒットパレード_\(ラジオ番組\).md "wikilink")』、[RCCラジオ](../Page/中国放送.md "wikilink")『あっちゃんの青春ING』等、数多くの番組でオープニングテーマ曲として使われた（『金曜日の王様』版ではさらに『モーション』のイントロ箇所で使われている銅鑼の音もサンプリングされていた）。
+6.  **ソング (SONG)**
+7.  **サンライズ (SUNRISE)**
+      -
+        イントロと間奏部分が[スタン・ハンセン](https://ja.wikipedia.org/wiki/スタン・ハンセン "wikilink")のテーマとして使用された曲\[2\]。現在も[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")等での乱闘シーンに使用されることが多い。また、最近は高校野球の応援曲にも使用されることが多い。なお、アルバムバージョンは「イントロ（長尺版） - 1番 - 2番 - 間奏（長尺版） - 3番 - サビの繰り返し（長尺版） - コーダ」という形になっているが、シングルでは「イントロ（短縮版） - 1番 - 3番 - 間奏（短縮版） - サビの繰り返し（短縮版、そのままフェードアウト）」という形になっている。スタン・ハンセンが使用したのはアルバムバージョン。
+8.  **イン・ザ・スペース (Single Version)**
+      -
+        イントロの長さや間奏の[ブラスの演奏](../Page/金管楽器.md "wikilink")、最後の歌詞、フェードアウトのタイミングがアルバムバージョンと異なる。
+9.  **アクトショー (Live)**
+      -
+        「イン・ザ・スペース」のB面。1979年9月12日にビクター第一スタジオで行われたライブからの収録\[3\]。イントロやAメロがスタジオバージョンより短い。そのため、Aメロの歌詞は一部省略されている。エンディングのボーカルや演奏もスタジオバージョンとは異なる。
+10. **サンライズ (Single Version)**
+      -
+        前述の理由により、アルバムバージョンと比べて大幅に短くなっている。
+
+## 脚注
+
+<references />
+
+[Category:スペクトラムのアルバム](https://ja.wikipedia.org/wiki/Category:スペクトラムのアルバム "wikilink") [Category:1980年のアルバム](https://ja.wikipedia.org/wiki/Category:1980年のアルバム "wikilink")
+
+1.  [篠塚満由美Instagram 2019年2月21日](https://www.instagram.com/p/BuIqGzjAvhrotOZDvWmR5nrhAa81P6eKFa-3O00/)
+2.  会場で使用されたものは、[ケニー・ロジャースの](https://ja.wikipedia.org/wiki/ケニー・ロジャース_\(カントリー歌手\) "wikilink")『君に夢中』をイントロ前に挿入し、繋ぎの部分に『モーション』の音を被せている。そのため、[著作権](../Page/著作権.md "wikilink")の問題からビデオや再放送では[カバー](../Page/カバー.md "wikilink")音源に差し替えられている。
+3.  タワーレコード限定盤のライナーノーツより（シングルのライナーノーツに掲載されたデータの再録）。

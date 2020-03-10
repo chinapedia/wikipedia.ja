@@ -1,0 +1,184 @@
+> この記事は[ORIGINAL GENERATION](https://ja.wikipedia.org/wiki/ORIGINAL_GENERATION)から翻訳されています。
+
+
+『**スーパーロボット大戦ORIGINAL GENERATION**』（スーパーロボットたいせんオリジナルジェネレーション）は、[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")が発売した[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションロールプレイングゲーム "wikilink")。
+
+キャッチコピーは「**“鋼鉄の協奏曲”――、始まる。**」。
+
+## 概要
+
+SDにデフォルメされたロボットたちが競演する[クロスオーバー作品](https://ja.wikipedia.org/wiki/クロスオーバー作品 "wikilink")「[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")」のカテゴリの一つである「OG（ORIGINAL GENERATION）シリーズ」の第一作目。ロボット・キャラクターは全て[バンプレストオリジナル](https://ja.wikipedia.org/wiki/バンプレストオリジナル "wikilink")で構成され、他社のアニメ・ゲーム版権作品は登場しない。既存の作品のクロスオーバーの要素をバンプレストオリジナルの世界に持ち込んだ、いわばバンプレストオリジナルのスーパーロボット大戦である。シナリオは真の最終話も含めて全43話/74ステージ。
+
+ストーリーのベースとなったのは『[スーパーロボットスピリッツ](https://ja.wikipedia.org/wiki/スーパーロボットスピリッツ "wikilink")』およびそのプレストーリー\[1\]、ドラマCD『スーパーロボット大戦α ORIGINAL STORY』であるが、結末が多少異なる。主人公として『[スーパーロボット大戦IMPACT](../Page/スーパーロボット大戦IMPACT.md "wikilink")』などに登場したキョウスケ・ナンブと、『[新スーパーロボット大戦](https://ja.wikipedia.org/wiki/新スーパーロボット大戦 "wikilink")』などに登場したリュウセイ・ダテの2名から選ぶことができる。この2名ではシナリオが一部異なる。
+
+携帯機作品として初めてユニットのフルアニメーションが行われるようになった。またキャラクターの顔グラフィックの表情も変化するなど演出も強化されている。
+
+2005年には続編として『[スーパーロボット大戦ORIGINAL GENERATION2](https://ja.wikipedia.org/wiki/スーパーロボット大戦ORIGINAL_GENERATION2 "wikilink")』が発売された。また[2007年](../Page/2007年.md "wikilink")には続編と共に『[スーパーロボット大戦OG ORIGINAL GENERATIONS](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_ORIGINAL_GENERATIONS "wikilink")』として[PlayStation 2に移植リメイクされている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+
+本作は、スーパーロボット大戦シリーズとしては初めて海外で発売された。タイトルは『*Super Robot **Taisen** Original Generation*』と「Wars」ではなく「Taisen」となっている。
+
+## あらすじ
+
+新西暦179年、アイドネウス島にメテオ3という隕石が落下した。メテオ3を調査したビアン・ゾルダーク博士はそれが人工物と判断し、メテオ3を研究するEOTI機関が設立された。それから7年、異星人の襲来まで時間がないことを悟ったビアン博士は地球に軍事政権を設立するために**[ディバイン・クルセイダーズ](../Page/ディバイン・クルセイダーズ.md "wikilink")**（DC）を結成するが、その手段はあまりに過激であった。地球連邦軍の**ハガネ**と**ヒリュウ改**は、DCとそれに賛同するコロニー統合軍を打ち倒すことに成功するが、それはビアンが提唱していた異星人との戦いの前章に過ぎなかった。
+
+## 参戦作品
+
+### 一覧
+
+本作は[バンプレストオリジナル](https://ja.wikipedia.org/wiki/バンプレストオリジナル "wikilink")しか登場しないため、厳密には参戦作品の概念は存在しない。
+
+機体・キャラクターとして登場する作品は以下の通り。また、OGシリーズオリジナルキャラクター・機体（下記の作品をベースにした設定を含み）が多数登場する。
+
+  - DC戦争シリーズ / [魔装機神シリーズ](https://ja.wikipedia.org/wiki/魔装機神シリーズ "wikilink")
+      - [第2次スーパーロボット大戦](https://ja.wikipedia.org/wiki/第2次スーパーロボット大戦 "wikilink")
+      - [第3次スーパーロボット大戦](https://ja.wikipedia.org/wiki/第3次スーパーロボット大戦 "wikilink")
+      - [第4次スーパーロボット大戦](https://ja.wikipedia.org/wiki/第4次スーパーロボット大戦 "wikilink") / [スーパーロボット大戦F](https://ja.wikipedia.org/wiki/スーパーロボット大戦F "wikilink") / スーパーロボット大戦F完結編
+  - αシリーズ
+      - [スーパーロボット大戦α](https://ja.wikipedia.org/wiki/スーパーロボット大戦α "wikilink")
+      - [スーパーロボット大戦α外伝](../Page/スーパーロボット大戦α外伝.md "wikilink")
+      - [第2次スーパーロボット大戦α](https://ja.wikipedia.org/wiki/第2次スーパーロボット大戦α "wikilink")
+  - 他スーパーロボット大戦シリーズ作品
+      - [スーパーロボット大戦COMPACT2](../Page/スーパーロボット大戦COMPACT2.md "wikilink") / [スーパーロボット大戦IMPACT](../Page/スーパーロボット大戦IMPACT.md "wikilink")
+      - [新スーパーロボット大戦](https://ja.wikipedia.org/wiki/新スーパーロボット大戦 "wikilink")
+  - スーパーロボット大戦シリーズ以外
+      - [ヒーロー戦記 プロジェクト オリュンポス](../Page/ヒーロー戦記_プロジェクト_オリュンポス.md "wikilink")
+      - [スーパーロボットスピリッツ](https://ja.wikipedia.org/wiki/スーパーロボットスピリッツ "wikilink")
+
+### パッケージ登場機体
+
+機体の後ろに括弧書きで初登場した作品。
+
+  - [R-1](https://ja.wikipedia.org/wiki/SRX計画#R-1 "wikilink")（新スーパーロボット大戦）
+  - [アルトアイゼン](https://ja.wikipedia.org/wiki/ATX計画#アルトアイゼン "wikilink")（スーパーロボット大戦COMPACT2）
+  - [グルンガスト弐式](https://ja.wikipedia.org/wiki/グルンガスト#グルンガスト弐式 "wikilink")（スーパーロボット大戦α）
+  - [ゲシュペンストMk-II・タイプR](https://ja.wikipedia.org/wiki/ゲシュペンスト#ゲシュペンストMk-II "wikilink")（第4次スーパーロボット大戦）
+  - サイバスター（魔装機神 THE LORD OF ELEMENTAL）
+
+## システム
+
+ここでは、本作特有のシステムや新規追加・変更されたシステムについて解説する。シリーズ共通のシステムについては[スーパーロボット大戦のシステム](https://ja.wikipedia.org/wiki/スーパーロボット大戦のシステム "wikilink")を参照。
+
+本作のシステムは、携帯機向けシステムと家庭用機向けシステムがミックスされたものになっている。どこでもセーブはその代表例であるが、新しく「**ボタン配置の左集中**」設定が出来るようになった。これはゲームボーイアドバンスを片手で持ってプレイする際に適した、携帯性を考慮したものである。
+
+  - 熟練度
+    本作にも熟練度システムが搭載され、熟練度によって敵の出現数などが変動したり、隠し要素の出現がある。
+
+<!-- end list -->
+
+  - 武器換装
+    本作ではユニットの武装が「固定武装」（R-1の場合、T-Linkナックルなど）と「換装可能な武器」（G・リボルヴァーなど）に分かれており、後者は取り外して他の機体に装備することが可能。換装可能武器の搭載量を表すパラメータとして「Wゲージ」が設定されている。特機系やサイバスターは機体のWゲージがゼロであるため固定武装しか使用できないが、[パーソナルトルーパー](https://ja.wikipedia.org/wiki/パーソナルトルーパー "wikilink")や[アーマードモジュール](https://ja.wikipedia.org/wiki/アーマードモジュール "wikilink")はWゲージの範囲内で換装可能武器を任意に選べる。また修理や補給の機能も武器換装で修理装置・補給装置を装備することで得られるので、Wゲージが残っていればどのユニットでも修理・補給担当になれる(戦闘機や戦艦にも修理・補給装置を搭載可能)。このシステムにより様々なユニットが剣や銃を持つことになるため、切り払い防御などの要素は本作では省かれた。武器の改造も固定装備・換装可能武器とも個別式になっている。
+  - 特殊武器
+    相手の装甲低下やエネルギー吸収など、ダメージ以外の効果を及ぼす武器。普通の武器に比べて命中補正が高いのも特徴。後の作品ではダメージも与えるようになった。
+  - パイロット養成
+    敵機を撃墜すると得られる「パイロットポイント（PP）」を消費して、パイロットの能力をカスタマイズできる。新しい特殊技能を習得させたり、基本能力を底上げすることが可能。敵機を優先的に撃墜しているパイロットはPPも多く溜まるため養成しやすくなる。
+    このシステムはOGシリーズ以外の作品にも採用されるようになった。
+  - 乗り換え
+    本作は他作品と違い作品枠は無いので、サイバスターやSRXなどの特殊なユニットを除けば自由に乗り換えが可能。換装可能武器とあわせて武器を使用する際の台詞の違いを楽しむこともできる。特にリュウセイはほとんどの武器名を叫び、かつ武器名をたまに自分流に言い換える。
+
+## 登場人物・機動兵器
+
+## スタッフ
+
+  - プロデューサー
+    [寺田貴信](https://ja.wikipedia.org/wiki/寺田貴信 "wikilink")
+    [森住惣一郎](../Page/森住惣一郎.md "wikilink")
+    菊池博
+    じっぱひとからげ
+  - ディレクター
+    名倉正博
+  - 脚本
+    寺田貴信
+    森住惣一郎
+  - オリジナルメカデザイン
+    [宮武一貴](https://ja.wikipedia.org/wiki/宮武一貴 "wikilink")
+    [カトキハジメ](https://ja.wikipedia.org/wiki/カトキハジメ "wikilink")
+    [大河原邦男](https://ja.wikipedia.org/wiki/大河原邦男 "wikilink")
+    藤井大誠
+    大輪充
+    斉藤和衛
+    守谷淳一
+    杉浦俊朗
+    森野健一郎
+    小野聖二
+    金丸仁
+  - オリジナルキャラデザイン
+    [河野さち子](../Page/河野さち子.md "wikilink")
+
+## プロモーション
+
+### テレビCM
+
+### 購入特典
+
+初回特典は、設定資料集「Super Robot Wars Original Generation Official Book」。
+
+## 関連作品
+
+### ドラマCD
+
+  - スーパーロボット大戦α ORIGINAL STORY
+    [ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")より発売されたドラマCD。全4巻。『[スーパーロボット大戦α](https://ja.wikipedia.org/wiki/スーパーロボット大戦α "wikilink")』の設定をベースにしたオリジナルキャラクターのストーリーで、本作におけるリュウセイ編のベースとなった作品。
+    『α』における版権作品絡みの設定はすべてオリジナルのものに改変されており、主人公の設定もドラマCD独自のものとなっている。『α』では8人の主人公のうち2人しか同時に登場しないが、このCDではクスハ、リオ、ブリットの3名が登場する。『[魔装機神シリーズ](https://ja.wikipedia.org/wiki/魔装機神シリーズ "wikilink")』のキャラクターやロボットの設定は、αシリーズではなくDC戦争シリーズに忠実なものとなっている。また、『[スーパーロボット大戦COMPACT2](../Page/スーパーロボット大戦COMPACT2.md "wikilink")』やドラマCD独自のキャラクターやロボットも登場。
+    ブックレットには新キャラクターや、『α』で設定のみだった[パーソナルトルーパー](https://ja.wikipedia.org/wiki/パーソナルトルーパー "wikilink")の設定画が描かれており、その理由としてゲーム版の開発が示唆されていた。
+    1.  D-1（2001年4月25日発売）
+    2.  D-2（2001年5月23日発売）
+    3.  D-3（2001年7月25日発売）
+    4.  D-4（2001年9月29日発売）
+
+### コミック
+
+  - Rの鼓動
+    作：服部健吾
+    [双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")から発行の『[スーパーロボットマガジン](https://ja.wikipedia.org/wiki/スーパーロボットマガジン "wikilink")』で連載されていた作品。リュウセイ編のコミカライズだが雑誌休刊のため未完に終わる。
+  - スーパーロボット大戦OG -ディバイン・ウォーズ-
+    作画：[木村明広](https://ja.wikipedia.org/wiki/木村明広 "wikilink")、監修：寺田貴信、原作：バンプレスト
+    『[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")』2006年10月号から2009年9月号まで連載されていたアニメ版のコミカライズ。
+    1.  ISBN 9784840237888
+    2.  ISBN 9784840239615
+    3.  ISBN 9784840241014
+    4.  ISBN 9784048671484
+    5.  ISBN 9784048676311
+    6.  ISBN 9784048681117
+  - [スーパーロボット大戦OGクロニクル](https://ja.wikipedia.org/wiki/スーパーロボット大戦OGクロニクル "wikilink")
+    作：[八房龍之助](../Page/八房龍之助.md "wikilink")・[津島直人](../Page/津島直人.md "wikilink")・栗橋伸祐、監修：寺田貴信
+    スパロボオリジナルのキャラクター達の活躍を描く短編集、時系列としては『OG』以後であることが多い。第1巻はATXチーム、アラド、イルム、ゼンガー＆レーツェル、タスク＆レオナ、アイビス、カイの話を、2巻ではマサキ、オクトパス小隊、スクール、アクセル、ラミア、SRXチームの話を収録している。一部の短編は後に『OGS』『OG外伝』で実際にシナリオ化された。
+    1.  ISBN 9784840236751
+    2.  ISBN 9784840241793
+    3.  ISBN 9784048675604
+
+### テレビアニメ
+
+  - [スーパーロボット大戦OG -ディバイン・ウォーズ-](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ディバイン・ウォーズ- "wikilink")
+    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月-[2007年](../Page/2007年.md "wikilink")3月放送。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系。リュウセイ編を新解釈で進行。
+  - [スーパーロボット大戦OG -ジ・インスペクター-](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ジ・インスペクター- "wikilink")
+    [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月-[2011年](../Page/2011年.md "wikilink")4月放送。
+
+## 関連商品
+
+### 攻略本
+
+  - スーパーロボット大戦ORIGINAL GENERATION ザ・コンプリートガイド ISBN 9784840222877
+  - スーパーロボット大戦ORIGINAL GENERATION 鋼鉄の聖書 ISBN 9784840106863
+  - スーパーロボット大戦ORIGINAL GENERATION Neo Final Tuning Plan 真・最終設計伝導書 ISBN 9784087792140
+  - スーパーロボット大戦ORIGINAL GENERATION パーフェクトガイド ISBN 9784797322507
+
+### コミック
+
+  - スーパーロボット大戦ORIGINAL GENERATION 4コマギャグバトル
+    2003年4月10日初版、[光文社](../Page/光文社.md "wikilink")、火の玉ゲームコミックシリーズ。ISBN 9784334805814
+    複数作家による二次創作4コマ漫画。
+  - スーパーロボット大戦ORIGINAL GENERATION コミックアンソロジー
+    2003年4月15日初版、[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")、DNAメディアコミックス。ISBN 9784758000918
+    複数作家による二次創作短編漫画。
+
+## 脚注
+
+## 外部リンク
+
+  - [スーパーロボット大戦公式サイト スーパーロボット大戦ORIGINAL GENERATION 紹介ページ](http://www.suparobo.jp/srw_lineup/srw_og1/index.html)
+  - [任天堂ホームページ スーパーロボット大戦ORIGINAL GENERATION 紹介ページ](http://www.nintendo.co.jp/n08/software/aogj/index.html)
+  - [Super Robot Taisen: Original Generation（北米版公式サイト）](http://www.atlus.com/srt/og1/index.html)
+
+[Category:スーパーロボット大戦のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:スーパーロボット大戦のコンピュータゲーム "wikilink") [Category:バンプレストのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:バンプレストのクロスオーバー作品 "wikilink") [Category:バンプレストオリジナル](https://ja.wikipedia.org/wiki/Category:バンプレストオリジナル "wikilink") [Category:ゲームボーイアドバンス用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイアドバンス用ソフト "wikilink") [Category:2002年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2002年のコンピュータゲーム "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink")
+
+1.  『スーパーロボットスピリッツ完全攻略ガイド』（[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")）に収録

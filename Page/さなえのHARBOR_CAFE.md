@@ -1,0 +1,54 @@
+> この記事は[HARBOR CAFE](https://ja.wikipedia.org/wiki/HARBOR_CAFE)から翻訳されています。
+
+
+**さなえのHARBOR CAFE**は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")より月曜日から木曜日9時から13時（月曜日と火曜日は12時55分）に放送されている[ラジオ関西](../Page/ラジオ関西.md "wikilink")のワイド番組である。
+
+ラジオ関西は2006年度改編で、ワイド番組の全面的な見直しを図った。その一環としてスタートしたもので、番組開始から1年半は月曜日と火曜日は[田中さなえ](https://ja.wikipedia.org/wiki/田中さなえ "wikilink")、水曜日と木曜日は[池田奈月](https://ja.wikipedia.org/wiki/池田奈月 "wikilink")が[パーソナリティーを勤め](../Page/ラジオパーソナリティ.md "wikilink")、リスナー参加コーナーなどを交えて展開していく音楽ワイド番組。2007年10月以後、池田が[ラジ関イブニング池田奈月です](https://ja.wikipedia.org/wiki/ラジ関イブニング池田奈月です "wikilink")（月曜から金曜16時半）に転向するため、田中が4日間を通しての出演になる。
+
+[2007年](../Page/2007年.md "wikilink")度末で一旦終了し、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")度（[3月31日](../Page/3月31日.md "wikilink")から）は[Sanae's Cafeとして放送する](https://ja.wikipedia.org/wiki/Sanae's_Cafe "wikilink")。
+
+## タイムテーブル（2009年8月現在）
+
+  - 9:00　　オープニング〜リクエスト曲挿入
+  - 9:05　　ラジオ関西ニュース＆天気予報
+  - 9:10頃　今日の番組内容の紹介
+  - 〜この間はリクエスト曲挿入とメッセージ紹介〜
+  - 9:30頃　快適生活ラジオショッピング
+  - 9:34　　ラジオ関西交通情報（提供：[みなと銀行](../Page/みなと銀行.md "wikilink")＝月）
+  - 9:37頃　姫路市からのお知らせ（スポットCM）
+  - 9:40　　さなえの日々徒然（月〜水）・おもしろ但馬木曜日（木）
+  - 〜この間はリクエスト曲挿入とメッセージ紹介〜
+  - 9:55　　ラジオ関西交通情報
+  - 10:00　 ラジオ関西ニュース＆天気情報（提供：[ヤマトヤシキ](../Page/ヤマトヤシキ.md "wikilink")＝水・木）
+  - 10:04　 [ジャパネットたかた](../Page/ジャパネットたかた.md "wikilink")ラジオショッピング（祝日は休止）
+  - 10:15　　さなえのひとったび（水）
+  - 〜この間はリクエスト曲挿入とメッセージ紹介〜
+  - 10:25　　ラジオ関西交通情報
+  - 10:30　　[キューサイ](https://ja.wikipedia.org/wiki/キューサイ "wikilink")インフォメーション
+  - 10:37 　 アルバムチョイ聞き（月）・さなえのブランチカフェ（提供:[ヒガシマル醤油](https://ja.wikipedia.org/wiki/ヒガシマル醤油 "wikilink")＝水）
+  - 〜この間はリクエスト曲挿入とメッセージ紹介〜
+  - 11:00　　ラジオ関西ニュース＆天気情報（天気情報の提供：きねや＝月、小林茶店＝水）
+  - 11:05　　ラジオ関西交通情報（提供：[ダイヤモンドフェリー](https://ja.wikipedia.org/wiki/ダイヤモンドフェリー "wikilink")）
+  - 11:08　　ゲストコーナー（月〜水）
+  - 〜この間はリクエスト曲挿入とメッセージ紹介〜
+  - 11:32　　ラジオ関西交通情報
+  - 11:36　　[ジャパネットたかた](../Page/ジャパネットたかた.md "wikilink")ラジオショッピングの商品紹介のおさらい
+  - 11:40　　トピックイズ
+  - 11:45　　[森脇健児](https://ja.wikipedia.org/wiki/森脇健児 "wikilink")の[遊・わーく・ウィークリー](https://ja.wikipedia.org/wiki/遊・わーく・ウィークリー "wikilink")（提供：[連帯ユニオン](https://ja.wikipedia.org/wiki/連帯ユニオン "wikilink")、[ユニオン共済](https://ja.wikipedia.org/wiki/ユニオン共済 "wikilink")）
+  - 12:00　　ラジオ関西ニュース＆天気情報
+  - 12:10　　[さんちかときめきタイム](https://ja.wikipedia.org/wiki/さんちかときめきタイム "wikilink")（提供：[さんちか](../Page/さんちか.md "wikilink")）
+  - 12:30　　メッセージ紹介
+  - 12:35　　株式会社えがおの商品紹介
+  - 12:40　　[三木市](https://ja.wikipedia.org/wiki/三木市 "wikilink")インフォメーション（月）（提供：津村工業、岡田金属工業所ほか）
+  - 〜リクエスト曲挿入〜
+  - 12:55　　トピックイズの正解と当選者発表（注：月曜日と火曜日は12:50頃）
+
+※毎週木曜日は「まるリクDAY」の為、一部コーナーは休止。
+
+## 外部リンク
+
+  - [HARBOR CAFE](https://web.archive.org/web/20060421173035/http://jocr.jp/harbor/index.html)
+  - [パーソナリティ・田中さなえのＯＡ日記♪](http://cafe-s.seesaa.net/)
+  - [『ハーバーカフェ』専属ピアニスト・天宮遥のブログ](http://ameblo.jp/haruca-i/)
+
+[Category:ラジオ関西の帯番組](https://ja.wikipedia.org/wiki/Category:ラジオ関西の帯番組 "wikilink") [Category:日本のラジオ音楽番組](https://ja.wikipedia.org/wiki/Category:日本のラジオ音楽番組 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")

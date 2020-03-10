@@ -1,0 +1,55 @@
+> この記事は[Happy Together \(\)](https://ja.wikipedia.org/wiki/Happy_Together_\(\))から翻訳されています。
+
+
+**Happy Together**（ハッピー・トゥギャザー）は[1999年](../Page/1999年.md "wikilink")6月16日から8月5日にかけて[韓国の](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[SBSで放送されたファミリー](https://ja.wikipedia.org/wiki/ソウル放送 "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。全16話。韓国で平均35％、最高40%近い[視聴率](../Page/視聴率.md "wikilink")を記録した。
+
+## あらすじ
+
+連れ子同士の再婚で血の繋がらない兄妹になった、テプン（イ･ビョンホン）、ジソク（ソン･スンホン）、チャンジュ（チョ・ミンス）、ムンジュ（カン・スンヨン）。そして再婚後に生まれ、唯一兄姉全員と血縁があるユンジュ（チョン・ジヒョン）。両親の死去後、散り散りになってしまったこの5人の兄姉の絆を取り戻そうと、長男であるテプンは奮闘する。
+
+しかし、末っ子ユンジュは海外に養子に出されたまま行方不明。貸し本屋を経営する長女チャンジュと、チャンジュに育てられた次男ジソクからは頑なに交流を拒否される。そして、次女のムンジュはキャバレーのホステスとして荒れた生活を送っていた。
+
+## 登場人物
+
+  - 長女：ソ・チャンジュ（[チョ・ミンス](https://ja.wikipedia.org/wiki/チョ・ミンス "wikilink")）
+    母方の娘。ジソクとムンジュの母親代わりとなって[漫画喫茶](../Page/漫画喫茶.md "wikilink")を営んでいる。両親の再婚で兄弟になったテプンにきつくあたる。テプンの息子・テジの面倒を見る。
+  - 長男：ソ・テプン（[イ・ビョンホン](https://ja.wikipedia.org/wiki/イ・ビョンホン "wikilink")）
+    父方の息子。プロ野球2軍の選手だったが試合中にケガし球団を解雇される。5人の中で兄弟を思う心が特に強い。スハに一目惚れする。
+  - 次男：ソ・ジソク（[ソン・スンホン](https://ja.wikipedia.org/wiki/ソン・スンホン "wikilink")）
+    母方の息子。兄弟の中で唯一のエリート・ソウル地検の検事。婚約者のスハと片思いのチェリムとの間に揺れる。テプンとは、スハや兄弟の事で対立する。　
+  - 次女：ソ・ムンジュ（[カン・ソンヨン](https://ja.wikipedia.org/wiki/カン・ソンヨン "wikilink")）
+    母方の娘。ヤクザから多額の借金があり、荒れた生活を送る。チャンジュやジソクと違い異父母兄弟のテプンとユンジュの事を心配する。
+  - 三女：ソ・ユンジュ（[チョン・ジヒョン](https://ja.wikipedia.org/wiki/チョン・ジヒョン "wikilink")）
+    4人の兄姉と違い再婚した両親の間に生まれた。生後まもなく養子に出され[オーストラリア](../Page/オーストラリア.md "wikilink")に移住するも祖国に帰国しテプンとムンジュに再会する。しかし、その直後腎臓病を煩い命の危機に晒される。
+  - テプンの息子：ソ・テジ
+    テプンが以前付き合っていた女の子供というが、テプンの血を分けた息子かどうか不明。だがテプンが一生懸命に育てることに。スハが勤める幼稚園に通園する。
+  - ジソクの婚約者：ジン・スハ（[キム・ハヌル](https://ja.wikipedia.org/wiki/キム・ハヌル_\(女優\) "wikilink")）
+    幼稚園の教諭でジソクの婚約者。だが、ジソクに思いを寄せるチェリムの出現やテプンの一目惚れに、思うように婚姻話が進まない。
+  - ジソクの同僚：チェリム（[ハン・ゴウン](https://ja.wikipedia.org/wiki/ハン・ゴウン "wikilink")）
+    ジソクの同僚。美人で資産家の娘。ジソクに片思いをしており、彼に資金援助をした事をきっかけに、強引なアプローチをかけるようになる。
+  - チョ・ピルドゥ（[チョ・ジェヒョン](https://ja.wikipedia.org/wiki/チョ・ジェヒョン "wikilink")）
+    ムンジュの借金を取り立てるヤクザだが同時にムンジュに恋心を寄せる。後に結婚をし、テプンとは義兄弟となるが債務者でもある。
+  - チャ・ショニプ（[チャ・テヒョン](../Page/チャ・テヒョン.md "wikilink")）
+    ピルドゥの弟分。ユンジュに片思いしアルバイトで勤める[サーティワンに通いユンジュの為に売り上げに貢献する](https://ja.wikipedia.org/wiki/バスキン・ロビンス "wikilink")。またユンジュが腎臓病で倒れると尽きっきりで看病する。
+
+## スタッフ
+
+  - 企画：キム・スリョン
+  - 脚本：ペ・ユミ
+  - 演出：オ・ジョンノク
+
+## 韓国国外での放送
+
+### 日本
+
+[WOWOW](../Page/WOWOW.md "wikilink")・FBS[福岡放送](../Page/福岡放送.md "wikilink")等で放送された。
+
+## 脚注
+
+## 外部リンク
+
+  - [Daum movieの番組紹介ページ](http://movie.daum.net/tv/detail/main.do?tvProgramId=50524)
+  - [Happy Together完全攻略ガイド（楽天ShowTime内）](http://www.showtime.jp/special/korea/guide/happy/)
+  - [Wow\!Koreaの番組情報ページ](http://www.wowkorea.jp/profile/200019.html)
+
+[Category:1999年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1999年のテレビドラマ "wikilink") [Category:SBSドラマスペシャル](https://ja.wikipedia.org/wiki/Category:SBSドラマスペシャル "wikilink") [Category:兄弟姉妹を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:兄弟姉妹を題材としたテレビドラマ "wikilink") [Category:イ・ビョンホン](https://ja.wikipedia.org/wiki/Category:イ・ビョンホン "wikilink")

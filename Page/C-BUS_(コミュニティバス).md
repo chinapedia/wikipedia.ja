@@ -1,0 +1,93 @@
+> この記事は[C-BUS \(\)](https://ja.wikipedia.org/wiki/C-BUS_\(\))から翻訳されています。
+
+
+**鈴鹿市コミュニティバス**（すずかしコミュニティバス）は、[2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）[3月10日](../Page/3月10日.md "wikilink")より[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[鈴鹿市](../Page/鈴鹿市.md "wikilink")西部で運行を開始した[コミュニティバス](../Page/コミュニティバス.md "wikilink")。[愛称](../Page/愛称.md "wikilink")は、Community、City、Civilの頭文字をとり、**C-BUS**と名づけられている。運行は[三重交通](../Page/三重交通.md "wikilink")に[委託](https://ja.wikipedia.org/wiki/委託 "wikilink")されている。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Suzuka_city_C-BUS.jpg "wikilink")
+
+## 概要
+
+C-BUSが現在走る鈴鹿市西部には、三重交通の[廃止代替バス](../Page/廃止代替バス.md "wikilink")が運行されていた。しかし、運行本数が少なく、さらに[運賃](../Page/運賃.md "wikilink")が高いなどの問題を抱えており、収支状況は悪くなる一方であった。また、これらの地域は鈴鹿市全体に比べて[高齢化率](https://ja.wikipedia.org/wiki/高齢化率 "wikilink")も高く、それらに対する[交通](../Page/交通.md "wikilink")の確保対策も求められていた。そこで、鈴鹿市はこれら状況を踏まえた上で、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")度から地元、バス事業者、行政、専門家を交えて地域交通のあり方を基本計画時から実施計画及び運行後のフィードバックまで4者共同で行うこととした。このような、「プロセスを大切にした計画づくりと地域に支援された運行システム」による方式を「鈴鹿方式」と呼ぶ事がある。
+
+具体的には、以下のような方法がとられている。
+
+1.  設定前の段階で、[高齢者](../Page/高齢者.md "wikilink")や[主婦](https://ja.wikipedia.org/wiki/主婦 "wikilink")といった[バスを利用する可能性が高い層への](../Page/バス_\(交通機関\).md "wikilink")[インタビュー](../Page/インタビュー.md "wikilink")や[アンケート](https://ja.wikipedia.org/wiki/アンケート "wikilink")調査を行うこと
+2.  運行計画の地元説明会などを行い、それらに対する意見などを取り入れて行き、利用者の本音に合わせたバスのシステムを作ること
+3.  これら施策を通じて地元住民にバスに愛着を持ってもらい、バスの成長は自分たちの手で行うという認識を持ってもらうこと。
+
+これらの施策は功を奏しており、利用客は着実に増えている。その後、南部地域に対しても既存路線バスの廃止など[公共交通](https://ja.wikipedia.org/wiki/公共交通 "wikilink")が大きく不便になった地域が発生したため、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月末まで試験運行が開始されることとなった。
+
+  - 2000年（平成12年）3月10日 - 5年間の試験運行として設定される。
+  - 2004年（平成16年）12月24日 - C-BUS本線のバス停から遠い人への移動手段確保のため、新しい路線の実証運行を行う（2006年3月まで）。
+  - 2005年（平成17年）4月1日 - 西部地域を本格運行に移行させる。
+  - 2005年（平成17年）10月1日 - 南部地域における試験運行を開始する。
+
+C-BUSでは[停留所番号制を導入しており](../Page/駅ナンバリング.md "wikilink")、バス停標には停留所番号が大きく記されている。また車内放送でも「次は@番、\#\#です」と、停留所番号を先に案内する。
+
+## 運賃
+
+  - 区間運賃制を採用しており、一区間のみの利用だと200円。下記括弧【　】囲みの停留所を超えると100円ずつ増える設定となっている。例えば、長沢からならばJR[加佐登駅](https://ja.wikipedia.org/wiki/加佐登駅 "wikilink")およびJR[河曲駅](https://ja.wikipedia.org/wiki/河曲駅 "wikilink")までは200円、それを超えると300円という設定になっている。
+  - 運賃は[小学生](https://ja.wikipedia.org/wiki/小学生 "wikilink")から必要で、小学生は半額。[障がい者](https://ja.wikipedia.org/wiki/障がい者 "wikilink")の方は障がい者手帳の提示で区間にかかわらず100円。[運転免許証](../Page/運転免許証.md "wikilink")を自主返納した人は運転経歴証明書の提示で同伴者1人まで半額（小学生の場合は区間にかかわらず100円）。
+  - 2019年11月1日から全国[交通系ICカード](https://ja.wikipedia.org/wiki/交通系ICカード "wikilink")と委託先の[三重交通](../Page/三重交通.md "wikilink")が発行している「emica(エミカ)」が使用できるようになった\[1\]。ICカードで支払うと1割引きとなる（10円以下端数は切り上げ）。また、導入に伴い乗降方式は後扉乗車→前扉降車となり、今までと逆になるので注意。
+  - 回数券の販売は2019年10月31日で終了したが使用することはできる。券種は100円券11枚つづり及び50円券22枚つづりがそれぞれ各1,000円。
+
+## 現行路線
+
+### 西部地域路線
+
+#### 椿・平田線
+
+  - 長沢→椿地区市民センター→[椿大神社](../Page/椿大神社.md "wikilink")→[桃林寺](https://ja.wikipedia.org/wiki/桃林寺_\(鈴鹿市\) "wikilink")→長沢～伊船口 - 伊船町東 - 荒神山・フラワーパーク - 【JR加佐登駅】 - [鈴鹿高校](../Page/鈴鹿中学校・高等学校.md "wikilink") - [イオンモール鈴鹿](../Page/イオンモール鈴鹿.md "wikilink") - [近鉄](../Page/近畿日本鉄道.md "wikilink")[平田町駅](../Page/平田町駅.md "wikilink") - 鈴鹿ハンター - [飯野高校](../Page/三重県立飯野高等学校.md "wikilink")(登校日のみ)
+
+ラインカラーはである。
+
+#### 庄内・神戸線
+
+  - 長沢→庄内地区市民センター→上野→長沢～鈴峰中学校 - 伊船町東 - 鈴西小学校 - 久間田 - 信誠組 - [佐佐木記念館](../Page/佐佐木信綱.md "wikilink") - [石薬師高校](../Page/三重県立石薬師高等学校.md "wikilink") - 【JR河曲駅】 - 近鉄[鈴鹿市駅](../Page/鈴鹿市駅.md "wikilink") - 鈴鹿市役所 - ジェフリーすずか
+
+ラインカラーはである。
+
+### 南部地域路線
+
+#### 白子・平田線
+
+  - 白子サンズ - [白子駅](../Page/白子駅.md "wikilink")西 - [白子高校](../Page/三重県立白子高等学校.md "wikilink") - 【南部Fマート前】 - [伊勢鉄道](../Page/伊勢鉄道.md "wikilink")[徳田駅](https://ja.wikipedia.org/wiki/徳田駅_\(三重県\) "wikilink") - [三重交通Ｇスポーツの杜鈴鹿ぐち](../Page/三重県営鈴鹿スポーツガーデン.md "wikilink") - 国府台東 - 鈴鹿回生病院 - 【住吉三丁目】 - 鈴鹿ハンター - 近鉄平田町駅 - イオンモール鈴鹿
+
+ラインカラーはである。
+
+#### 太陽の街・平田線
+
+  - 太陽の街 - 中瀬古 - 【南部Fマート前】 - [サーキット稲生駅口](https://ja.wikipedia.org/wiki/鈴鹿サーキット稲生駅 "wikilink") - [稲生高校](../Page/三重県立稲生高等学校.md "wikilink") - 鈴鹿ハンター - 近鉄平田町駅
+
+ラインカラーはである。
+
+### フィーダー路線
+
+2006年3月まで実証運行が行われ、以下の2路線が存在していた。現在は、試験終了し運行はされていない。
+
+  - 鈴鹿I.C.北部循環線 - [三交タクシー中部](https://ja.wikipedia.org/wiki/三交タクシー中部 "wikilink")・[三重近鉄タクシーによって運行されていた](https://ja.wikipedia.org/wiki/近鉄タクシー "wikilink")。
+  - 広瀬上田線 - 三重交通によって運行されていた。
+
+## 車両
+
+[日野](../Page/日野自動車.md "wikilink")・[リエッセを利用している](../Page/日野・リエッセ.md "wikilink")。デザインは明るいひまわり色で、「遠くから見ても一目でわかり、近づけば乗ってみたくなるデザイン」をコンセプトとしている。
+
+2016年10月1日から一部車両が[日野・ポンチョ](../Page/日野・ポンチョ.md "wikilink")に順次更新されている。
+
+## 参考文献
+
+  - [財団法人](../Page/財団法人.md "wikilink")あしたの日本を創る協会編　まち・むら71号
+
+## 関連項目
+
+  - [鈴鹿市](../Page/鈴鹿市.md "wikilink")
+  - [コミュニティバス](../Page/コミュニティバス.md "wikilink")
+  - [自治体バス](../Page/自治体バス.md "wikilink")
+
+## 脚注
+
+## 外部リンク
+
+  - [コミュニティバス](http://www.city.suzuka.mie.jp/gyosei/plan/cbus/)
+
+[Category:三重交通](https://ja.wikipedia.org/wiki/Category:三重交通 "wikilink") [Category:中部地方のコミュニティバス](https://ja.wikipedia.org/wiki/Category:中部地方のコミュニティバス "wikilink") [Category:近畿地方のコミュニティバス](https://ja.wikipedia.org/wiki/Category:近畿地方のコミュニティバス "wikilink") [Category:鈴鹿市の交通](https://ja.wikipedia.org/wiki/Category:鈴鹿市の交通 "wikilink")
+
+1.  [記者会見資料/コミュニティバス（Ｃ－ＢＵＳ）への交通系ICカードの導入](http://www.city.suzuka.lg.jp/mass/files/499.html)鈴鹿市ホームページ(2019/09/27)2019/09/28閲覧.

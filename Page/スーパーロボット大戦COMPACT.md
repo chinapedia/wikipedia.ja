@@ -1,0 +1,140 @@
+> この記事は[COMPACT](https://ja.wikipedia.org/wiki/COMPACT)から翻訳されています。
+
+
+『**スーパーロボット大戦COMPACT**』（スーパーロボットたいせんコンパクト）、『**スーパーロボット大戦COMPACT for WonderSwanColor**』は、[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")から発売された[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションロールプレイングゲーム "wikilink")。
+
+## 概要
+
+[SDで表現されたロボットたちが競演する](../Page/ちびキャラ.md "wikilink")[クロスオーバー作品](https://ja.wikipedia.org/wiki/クロスオーバー作品 "wikilink")「[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")」の一つ。シリーズ内シリーズであるCOMPACTシリーズの一作目にあたり、バンプレストのワンダースワン参入第1弾ソフトでもある。ルート分岐は無く、シナリオは一本道で進む。全33話。
+
+パーソナルデータテーブル（後述）との混同を避けるためオリジナルの主人公は採用されていない\[1\]。最終ボスも版権作品のキャラクターが務めているため、スーパーロボット大戦シリーズ第一作『[スーパーロボット大戦](https://ja.wikipedia.org/wiki/スーパーロボット大戦 "wikilink")』以来の『[バンプレストオリジナル](https://ja.wikipedia.org/wiki/バンプレストオリジナル "wikilink")』が登場しない作品となっている。
+
+### ワンダースワンカラー版
+
+2001年には、[ワンダースワンカラー](https://ja.wikipedia.org/wiki/ワンダースワンカラー "wikilink")への対応と演出強化・ゲームバランスの調整などが行われた『スーパーロボット大戦COMPACT for WonderSwanColor』（以下WSC版）が発売された。
+
+システムが『[スーパーロボット大戦COMPACT2](../Page/スーパーロボット大戦COMPACT2.md "wikilink")』に近いものに変更されたほか、『スーパーロボット大戦COMPACT』では描かれていた[SDガンダム](../Page/SDガンダム.md "wikilink")の瞳が無くなった。また、新規ユニットの追加、一部ユニットのグラフィック描き直しや、カットインイラストの追加・隠し要素の入手条件変更・敵増援の追加・ボスユニットの強化など、シナリオ以外の面で多数の変更がなされている。
+
+## あらすじ
+
+[宇宙世紀](../Page/宇宙世紀.md "wikilink")00XX。マジンガーチームとゲッターチームがメガノイドとの戦いに勝ち、ムゲ・ゾルバトス帝国の侵攻をホワイトベース隊が食い止めてから一年・・・
+
+ジオン公国が地球連邦政府へ独立戦争を始め、後に「一年戦争」と呼ばれる戦乱が起こる。この最中、新たな脅威、旧大戦の生き残りが復活しつつあった。
+
+## 登場作品
+
+☆マークは携帯機初参戦作品。
+
+  - ☆[超獣機神ダンクーガ](https://ja.wikipedia.org/wiki/超獣機神ダンクーガ "wikilink")
+  - [機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")
+  - ☆[機動戦士ガンダム0080 ポケットの中の戦争](../Page/機動戦士ガンダム0080_ポケットの中の戦争.md "wikilink")
+  - ☆[機動戦士ガンダム0083 STARDUST MEMORY](../Page/機動戦士ガンダム0083_STARDUST_MEMORY.md "wikilink")
+  - [機動戦士Ζガンダム](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム "wikilink")
+  - [機動戦士ガンダムΖΖ](https://ja.wikipedia.org/wiki/機動戦士ガンダムΖΖ "wikilink")
+  - [機動戦士ガンダム 逆襲のシャア](../Page/機動戦士ガンダム_逆襲のシャア.md "wikilink")
+  - [機動戦士ガンダムF91](../Page/機動戦士ガンダムF91.md "wikilink")
+  - ☆[新機動戦記ガンダムW Endless Waltz](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW_Endless_Waltz "wikilink")
+  - ☆[無敵鋼人ダイターン3](../Page/無敵鋼人ダイターン3.md "wikilink")
+  - ☆[聖戦士ダンバイン](../Page/聖戦士ダンバイン.md "wikilink")
+  - ☆[重戦機エルガイム](../Page/重戦機エルガイム.md "wikilink")
+  - [マジンガーZ](../Page/マジンガーZ.md "wikilink")
+  - [グレートマジンガー](https://ja.wikipedia.org/wiki/グレートマジンガー "wikilink")
+  - [ゲッターロボ](../Page/ゲッターロボ.md "wikilink")
+  - [ゲッターロボG](https://ja.wikipedia.org/wiki/ゲッターロボG "wikilink")
+  - ☆[真ゲッターロボ](../Page/真ゲッターロボ.md "wikilink")(原作漫画版)
+  - ☆[闘将ダイモス](https://ja.wikipedia.org/wiki/闘将ダイモス "wikilink")
+  - ☆[勇者ライディーン](https://ja.wikipedia.org/wiki/勇者ライディーン "wikilink")
+
+### 解説
+
+携帯機初参戦は『超獣機神ダンクーガ』『機動戦士ガンダム0080 ポケットの中の戦争』『機動戦士ガンダム0083 STARDUST MEMORY』『新機動戦記ガンダムW Endless Waltz』『無敵鋼人ダイターン3』『聖戦士ダンバイン』『重戦機エルガイム』『真ゲッターロボ(原作漫画版)』『闘将ダイモス』『勇者ライディーン』のシリーズ最多となる10作品。新規作品は無く、また版権作品を扱ったシリーズでは珍しく、オリジナルキャラクターやメカも登場しない異色作となっている。
+
+『新機動戦記ガンダムW Endless Waltz』は過去作品においてはユニット登場のみのゲスト扱いだったため、正式に表記されるのは本作が初となる。また表記はないが、『超獣機神ダンクーガ』はOVA『超獣機神ダンクーガ 失われた者たちへの鎮魂歌』と『GOD BLESS DANCOUGA』のストーリーが主軸となっている。
+
+### パッケージ登場機体
+
+  - スーパーロボット大戦COMPACT
+
+:\*ゲッター1（ゲッターロボ）
+
+:\*ダイモス（闘将ダイモス）
+
+:\*ライディーン（勇者ライディーン）
+
+:\*ダンクーガ（超獣機神ダンクーガ）
+
+:\*[ウイングゼロカスタム](https://ja.wikipedia.org/wiki/ウイングガンダムゼロ#ウイングガンダムゼロ_Endless_Waltz版 "wikilink")（新機動戦記ガンダムW Endless Waltz）
+
+  - スーパーロボット大戦COMPACT for WonderSwanColor
+
+:\*ゲッタードラゴン（ゲッターロボG）
+
+:\*[Ζガンダム](../Page/Ζガンダム.md "wikilink")（機動戦士Ζガンダム）
+
+:\*ダンクーガ
+
+:\*ライディーン
+
+:\*ダイモス
+
+## システム
+
+ここでは、本作特有のシステムや新規追加・変更されたシステムについて解説する。シリーズ共通のシステムについては[スーパーロボット大戦シリーズのシステム](../Page/スーパーロボット大戦シリーズのシステム.md "wikilink")を参照。
+
+本作で採用されたシステムは、後の『スーパーロボット大戦COMPACT2』『[スーパーロボット大戦MX](../Page/スーパーロボット大戦MX.md "wikilink")』などに受け継がれている。
+
+  - フリーオーダーシナリオ
+    従来のシリーズ作品では、ステージのクリア順序はルート分岐以外で選ぶことができなかったが、今作ではストーリーをいくつかのシーンにわけ、その最初と最後のステージ以外の順番を自由に選べるようになっている。ストーリーの大筋は変わらないものの、先に選んだステージで倒した敵が後に選んだステージに現れないなど、微妙な変化が起きる。
+  - スキルコーディネイト
+    ステージクリア時にボーナスとしてパイロットに特殊能力を付加できるシステム。付加できる能力はターン数に応じて決定され、少ないターンでクリアするほど強力な能力を手にすることができる。
+  - パーソナルデータテーブル
+    各キャラクターの習得する精神コマンドが、ワンダースワン本体に入力された個人情報により変化するシステム。
+
+WSC版では、上記に加え『スーパーロボット大戦COMPACT2』より援護システムが追加された。
+
+## スタッフ
+
+  - PRODUCER
+    [SOICHIRO MORIZUMI](../Page/森住惣一郎.md "wikilink")
+  - DIRECTOR
+    IKATARO
+  - DESIGN WORKS
+    [LAY-UP](../Page/レイアップ.md "wikilink")
+  - SCIENARIO
+    SOICHIRO MORIZUMI
+
+※ゲーム内の表記がアルファベットのためそのまま記載。
+
+## プロモーション
+
+### テレビCM
+
+  - スーパーロボット大戦COMPACT
+    ゲーム映像を使用したCMで、ナレーションは[鈴置洋孝](https://ja.wikipedia.org/wiki/鈴置洋孝 "wikilink")。
+  - スーパーロボット大戦COMPACT for WonderSwanColor
+    声優の[神谷明](../Page/神谷明.md "wikilink")が、ゲーム映像にあわせて過去に自分が演じたキャラクター達に声援を送るCM。画面はセピア調のエフェクトがかけられており、カラー化されていることを強調しないCMになっている。ナレーションは[矢島晶子](../Page/矢島晶子.md "wikilink")。
+
+## 関連商品
+
+### 攻略本
+
+  - スーパーロボット大戦COMPACT 完全攻略ガイド ISBN 9784840211581
+  - スーパーロボット大戦COMPACT パーフェクトガイド ISBN 9784797309386
+  - スーパーロボット大戦COMPACT 必勝攻略法 ISBN 9784575161724
+  - ワンダースワン必勝法スペシャル スーパーロボット大戦COMPACT ISBN 9784766932201
+  - ゲームの歩き方Bookシリーズ スーパーロボット大戦COMPACT ISBN 9784198200824
+  - スーパーロボット大戦COMPACT for WonderSwanColor パーフェクトガイド ISBN 9784797318555
+
+## 脚注
+
+<references/>
+
+## 外部リンク
+
+  - [バンプレスト公式サイト スーパーロボット大戦COMPACT 紹介ページ](http://www.banpresto.co.jp/japan/house/softb/s44/s44.htm)
+
+[en:Super Robot Wars Compact](https://ja.wikipedia.org/wiki/en:Super_Robot_Wars_Compact "wikilink")
+
+[Category:スーパーロボット大戦のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:スーパーロボット大戦のコンピュータゲーム "wikilink") [Category:バンプレストのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:バンプレストのクロスオーバー作品 "wikilink") [Category:ワンダースワン用ソフト](https://ja.wikipedia.org/wiki/Category:ワンダースワン用ソフト "wikilink") [Category:1999年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1999年のコンピュータゲーム "wikilink")
+
+1.

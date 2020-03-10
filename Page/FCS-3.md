@@ -1,0 +1,139 @@
+> この記事は[FCS-3](https://ja.wikipedia.org/wiki/FCS-3)から翻訳されています。
+
+
+**FCS-3**（**00式射撃指揮装置3型**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[防衛省](../Page/防衛省.md "wikilink")[技術研究本部](../Page/技術研究本部.md "wikilink")が開発した艦載武器システム。[射撃指揮装置（FCS）や艦載対空](https://ja.wikipedia.org/wiki/射撃管制装置#射撃指揮システム_\(海洋戦における射撃管制装置\) "wikilink")[レーダー](../Page/レーダー.md "wikilink")を統合した対空戦闘システムであり、同系統のシステムとして他に**OPS-50A**、**OPY-1**がある。
+
+## 概要
+
+FCS-3は、試験艦「[あすか](../Page/あすか_\(試験艦\).md "wikilink")」での試験を経て[2000年](../Page/2000年.md "wikilink")（平成12年）に制式化された対空脅威の捜索・追尾を行なう多機能レーダーを中核とする対空戦闘システムである。多機能レーダーは[Cバンド](https://ja.wikipedia.org/wiki/Cバンド "wikilink")で動作するアクティブ式[フェーズドアレイレーダー](https://ja.wikipedia.org/wiki/フェーズドアレイレーダー "wikilink")であり、4面固定式の平板アンテナにより全方向の半球空間を探索する。多目標の捜索・探知・追尾・武器管制を自動化し、リアクションタイムを短縮している\[1\]。また、電子機器の信頼性向上も行われた\[2\]。
+
+制式化後も開発は続き[2009年](../Page/2009年.md "wikilink")（平成21年）の[ヘリコプター搭載護衛艦](https://ja.wikipedia.org/wiki/護衛艦#ヘリコプター搭載護衛艦（DDH） "wikilink")「[ひゅうが](../Page/ひゅうが_\(護衛艦\).md "wikilink")」の就役により初めて改良型が実戦配備された。改良型の最大の改良点は、Cバンドレーダーに加えてミサイルの誘導を行う[Xバンド](https://ja.wikipedia.org/wiki/Xバンド "wikilink")レーダーが追加された事と、新戦術情報処理装置OYQ-10等と連接されて新戦闘指揮システムATECS（Advanced Technology Combat System）のサブシステムの1つとして組み込まれるようになったことである。
+
+## 開発経緯
+
+### 制式化まで
+
+FCS-3の開発の端緒は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）までの[五三中期業務見積りから五六中期業務見積りの時期にまでさかのぼる](https://ja.wikipedia.org/wiki/防衛計画の大綱 "wikilink")。この時期、[海上自衛隊](https://ja.wikipedia.org/wiki/海上自衛隊 "wikilink")は、初の[汎用護衛艦として](https://ja.wikipedia.org/wiki/護衛艦#汎用護衛艦（DD） "wikilink")[はつゆき型の整備を進めていた](../Page/はつゆき型護衛艦.md "wikilink")。その搭載する対空戦闘システムは、主として下記のようなサブシステムから構成されていた。
+
+  - [OPS-14](../Page/OPS-14.md "wikilink")二次元対空レーダー
+  - OYQ-5[戦術情報処理装置](https://ja.wikipedia.org/wiki/戦術情報処理装置 "wikilink")
+  - 81式[射撃指揮装置](https://ja.wikipedia.org/wiki/射撃管制装置 "wikilink")（通称**[FCS-2](../Page/FCS-2.md "wikilink")**）
+  - [シースパローIBPDMS](https://ja.wikipedia.org/wiki/シースパロー_\(ミサイル\)#IBPDMS_\(NSSMS\) "wikilink")
+
+この系譜はその後、OPS-14を[OPS-24](../Page/OPS-24.md "wikilink") [3次元レーダー](https://ja.wikipedia.org/wiki/3次元レーダー "wikilink")に、OYQ-5をOYQ-6/7に更新した[あさぎり型に発展するが](../Page/あさぎり型護衛艦.md "wikilink")、既にこの構成では、特に対空戦闘能力の面で限界があることが明らかになっていた。すなわち、対空レーダーで探知した目標情報を戦術情報処理装置に入力する過程と、戦術情報処理装置での情勢判断・意思決定後に目標情報を射撃指揮装置に入力する過程がオペレータによる手動処理であり、さらに意思決定過程の大部分も人間に頼っていたため、対応時間の短縮が困難となっていた。
+
+FCS-3の開発は、これらの問題を克服した新世代の個艦防空システム（Point Defense Missile System; PDMS）として開始された。[技術研究本部](../Page/技術研究本部.md "wikilink")は1983年より部内研究を開始\[3\]、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）より3年に渡って研究試作を行ない\[4\]、Cバンドで動作するフェイズド・アレイ・レーダーを作製して陸上試験を実施した。その成果をもとに、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）より実艦への搭載を前提としたアンテナの開発試作を開始し、これを[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）に就役した試験艦「[あすか](../Page/あすか_\(試験艦\).md "wikilink")」に搭載し、5年間に渡って技術・実用試験に供したのち、[2000年](../Page/2000年.md "wikilink")（平成12年）に**00式射撃指揮装置**として制式化した\[5\]。
+
+なお、日本は個艦防空を想定して多機能レーダーにCバンドを選択したが\[6\]、アメリカは[イージスシステム](../Page/イージスシステム.md "wikilink")の開発段階において、その中核となる多機能レーダーの動作周波数について、[Sバンド](https://ja.wikipedia.org/wiki/Sバンド "wikilink")とCバンドのいずれを採用するかで艦船局と兵器局が対立し、最終的にプロジェクト・リーダーであったウィシントン提督の判断によってSバンドに決定したという経緯がある。この際の検討によれば、Cバンド・レーダーはSバンド・レーダーに対し、低高度目標に対する探知性能に優れ、より小型軽量のアンテナを有するために艤装が容易で、より広域の信号帯域幅を有するという点でECCM性に優れる一方、探知距離や耐荒天性などで劣るとされていた\[7\]。
+
+### 実戦配備まで
+
+当初、FCS-3は[むらさめ型の後期型](https://ja.wikipedia.org/wiki/むらさめ型護衛艦 "wikilink")、若しくは[たかなみ型から実戦配備されると言われていたが](https://ja.wikipedia.org/wiki/たかなみ型護衛艦 "wikilink")、FCS-3の配備は制式化された後もなかなか始まらなかった。これは当初、FCS-3が[99式空対空誘導弾](https://ja.wikipedia.org/wiki/99式空対空誘導弾 "wikilink")（AAM-4）をベースに開発される予定だった終末アクティブ誘導方式[艦対空誘導弾](../Page/艦対空ミサイル.md "wikilink")（AHRIM: Active Homing RIM）のXRIM-4と組み合わされて対空戦闘システムを構成する計画だったことが一因である。すなわち、XRIM-4は開発遅延と[アメリカでの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ESSM](https://ja.wikipedia.org/wiki/ESSM "wikilink")の実用化を受けて開発が中止されてしまい、新たにFCS-3がESSMの運用に対応するため、Xバンドで動作するアクティブ・フェイズド・アレイ・タイプのイルミネーターを追加する改良型の開発が必要になってしまったのである。
+
+また、FCS-3の開発期間が長期間に及んだため、開発完了時点で既に陳腐化してしまっていたことも改良型が必要になった理由である。このような事態を受けて制式化後も改良型の開発が続けられて、[2004年](../Page/2004年.md "wikilink")（平成16年）に初めて改良型であるFCS-3のひゅうが型への搭載が決定された。そして[2009年](../Page/2009年.md "wikilink")（平成21年）のひゅうが型の就役でようやく実戦配備されることになった。
+
+## 各形式
+
+### 名称について
+
+FCS-3の名称基準は混乱しており、以前は「[あすか](../Page/あすか_\(試験艦\).md "wikilink")」搭載型を「FCS-3」、「[ひゅうが](../Page/ひゅうが_\(護衛艦\).md "wikilink")」以降の搭載型を「FCS-3改」と呼称していた。しかし[あきづき型が進水する段階になって](https://ja.wikipedia.org/wiki/あきづき型護衛艦_\(2代\) "wikilink")、ひゅうが型に搭載される型式を「FCS-3」、あきづき型に搭載される型式を「FCS-3A」と呼称するように変更された。更に続くいずも型は「OPS-50」2番艦調達時には「OPS-50A」、あさひ型は「OPY-1」と呼称され、基本的には同じシステムにも係わらず艦形毎に異なる名称が付けられている。
+
+なお、OPYはこれまでの海上自衛隊が保有するレーダーには見られない形式名で、これはイージス艦が搭載する[AN/SPY-1](https://ja.wikipedia.org/wiki/AN/SPY-1 "wikilink")レーダーの「SPY」の内、「S」を海上自衛隊式に「O」へ変更したもので、多機能レーダーであることを指している。
+
+### FCS-3の試作機（旧FCS-3）
+
+試験艦あすかに搭載された多機能レーダー。艦橋構造物の最上部に設置され、Cバンドレーダーのみ。試験後に取り外された。 [thumb](https://ja.wikipedia.org/wiki/ファイル:JMSDF_ASE_6102_Asuka.JPG "wikilink")」\]\] {{-}}
+
+### FCS-3（FCS-3改）
+
+[ひゅうが型](https://ja.wikipedia.org/wiki/ひゅうが型護衛艦 "wikilink")（16/18DDH）に搭載されたFCS-3の多機能レーダーは、試験艦「[あすか](../Page/あすか_\(試験艦\).md "wikilink")」に搭載されていたCバンドレーダーの台枠を流用しているが、レーダーの[ヒ化ガリウム](../Page/ヒ化ガリウム.md "wikilink")アンテナ素子自体は4面とも新造されている。試験艦「あすか」に搭載されていた多機能レーダーからの大きな改良点は、Cバンドレーダーの横にESSMを誘導するためのより小型のXバンドレーダーが各1面ずつ追加装備されていることである。これは[タレス社の](https://ja.wikipedia.org/wiki/タレス・グループ "wikilink")[APARシステムの一部を採用した](https://ja.wikipedia.org/wiki/APAR_\(レーダー\) "wikilink")\[8\]もので、これに伴いESSMを誘導するためのICWI（間欠連続波照射）のアルゴリズムも導入されている。最大追尾目標数は300程度とされている。
+
+また、FCS-3の多機能レーダーが新型の[戦術情報処理装置](https://ja.wikipedia.org/wiki/戦術情報処理装置 "wikilink")である[OYQ-10 ACDS（Advanced CDS）と組み合わされている事も大きな改良点であり](https://ja.wikipedia.org/wiki/海上自衛隊のC4Iシステム#新戦闘指揮システム "wikilink")、これによりFCS-3搭載艦の戦闘能力の大幅な向上が図られている。OYQ-10の特徴は、オペレーターの判断支援および操作支援のため、予想される戦術状況に対応して、IF-THENルールを用いて形式化されたデータベースに基くドクトリン管制を採用している点にある。これによって、オペレーターの関与は必要最小限に抑えられ、意思決定は飛躍的に迅速化される。FCS-3とOYQ-10は、新対潜情報処理装置（ASWCS: Anti Submarine Warfare Control System）、水上艦用EW管制システム EWCSとともに、新戦闘指揮システムATECS（Advanced Technology Combat System）を構成する。また、システムに[商用オフザシェルフ](../Page/商用オフザシェルフ.md "wikilink")（COTS）を多用したのも改良点であり、[プロセッサ](../Page/プロセッサ.md "wikilink")は試験艦「あすか」に搭載されていたものに比べて100倍以上の処理能力を備えている。
+
+FCS-3は対空捜索レーダーと対水上捜索レーダーとしての機能も有しており、各種レーダーを一本化して護衛艦に搭載するシステムをコンパクト化することが出来る。ひゅうが型では近距離の水上目標や沿岸状況把握のための[OPS-20](https://ja.wikipedia.org/wiki/OPS-20 "wikilink")C航海レーダーのみを残し、[OPS-24](../Page/OPS-24.md "wikilink")対空捜索レーダーと[OPS-28](https://ja.wikipedia.org/wiki/OPS-28 "wikilink")対水上捜索レーダーを取り外している。また、FCS-3及びOYQ-10にはヘリコプター搭載護衛艦に必要な[艦載ヘリコプター](https://ja.wikipedia.org/wiki/艦載ヘリコプター "wikilink")の飛行管制機能を備えており\[9\]、ひゅうが型に搭載されたFCS-3は単なる対空戦闘指揮にとどまらない多様な役割を担っている。
+
+当初、ひゅうが型に搭載されるFCS-3は、試験艦「あすか」に搭載されていたものと区別するために便宜的に**FCS-3改**と呼称されていたが、その後は**FCS-3**と呼称されている。
+
+### FCS-3A
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）、[あきづき型](https://ja.wikipedia.org/wiki/あきづき型護衛艦_\(2代\) "wikilink")（19/20/21DD）にもFCS-3の改良型が搭載されることが決定した\[10\]。このモデルは**FCS-3A**と呼称され、レーダーに[窒化ガリウム](../Page/窒化ガリウム.md "wikilink")（ガリウム・ナイトライド）素子を採用することで、モジュールの出力はひゅうが型の搭載システムの3倍以上に増強されており、FCS-3Aを管制する戦闘指揮システムのOYQ-11にも複数目標や横行目標（自艦ではなく僚艦へ向かう目標）を対処するためのアルゴリズムが追加されている。
+
+これらの性能向上策により、あきづき型護衛艦の搭載システムは僚艦防空（Local Area Defense）任務に対応しうる性能を有することになる。これは、[ミサイル防衛](../Page/ミサイル防衛.md "wikilink")任務によって、護衛隊群の[イージスシステム](../Page/イージスシステム.md "wikilink")搭載[ミサイル護衛艦のリソースが割かれることで生じる間隙を埋めるために必要な措置である](https://ja.wikipedia.org/wiki/ミサイル駆逐艦 "wikilink")。具体的には、ミサイル防衛作戦中に通常の航空脅威に対して脆弱となる[イージス艦](../Page/イージス艦.md "wikilink")を直接護衛したり、あるいはミサイル防衛作戦のためにイージス艦が引き抜かれた艦隊の防空を担当することが考えられている。
+
+また、新たに[5インチ砲の管制機能も付加されている](https://ja.wikipedia.org/wiki/Mk_45_5インチ砲 "wikilink")。これによりFCS-3AとOQY-11が射撃計算や弾着観測を担い、対空・対水上・対地の各種[砲撃](https://ja.wikipedia.org/wiki/砲撃 "wikilink")の管制を行うこととなる。 {{-}}
+
+### OPS-50
+
+ひゅうが型に続くヘリコプター搭載護衛艦[いずも型](https://ja.wikipedia.org/wiki/いずも型護衛艦 "wikilink")（22/24DDH）に装備する火器は、自己完結した射撃管制システムをもつ[高性能20mm機関砲と](https://ja.wikipedia.org/wiki/ファランクス_\(火器\) "wikilink")[SeaRAMの](https://ja.wikipedia.org/wiki/RAM_\(ミサイル\) "wikilink")2つのみである。その為、FCS-3の射撃管制能力は不要となり、機能を対空捜索と航空管制に限定したシステムが搭載される。これは**OPS-50**と呼称される。
+
+いずも型は1方向につきレーダー面がCバンド1基のみとなる。「かが」ではアンテナをブロック化し、背後から容易に整備できるように配慮したOPS-50Aに更新した\[11\]。また、対空捜索に多くのリソースを割いている為か[OPS-28](https://ja.wikipedia.org/wiki/OPS-28 "wikilink")が再び装備された。 {{-}}
+
+### OPY-1
+
+平成25年度に建造が決定した[あさひ型はあきづき型の準同型艦とも言える艦容をしているが](https://ja.wikipedia.org/wiki/あさひ型護衛艦_\(2代\) "wikilink")、主任務が対空から対潜に変更されている。これにより、搭載されるFCS-3の能力も個艦防空に限定される。当初国産の連続波照射装置が搭載される予定であったが、ひゅうが型やあきづき型と同じく[タレス社製APARのICWIが搭載されている](https://ja.wikipedia.org/wiki/タレス・グループ "wikilink")。
+
+このタイプは新たに**OPY-1**と呼称され、装備位置も艦橋部に集中配置される。またコンピュータ・コンソールの標準化・[オープンアーキテクチャ](../Page/オープンアーキテクチャ.md "wikilink")化も行われた。 {{-}}
+
+## 後継
+
+[JMSDF_ASUKA_6102_01l.jpg](https://ja.wikipedia.org/wiki/File:JMSDF_ASUKA_6102_01l.jpg "fig:JMSDF_ASUKA_6102_01l.jpg") FCS-3は上記の通り逐次改良が続けられ、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")度（平成20年度）から[2013年](../Page/2013年.md "wikilink")度（平成25年度）には「マルチファンクションレーダ（FCS-3）の性能向上の研究」として新たな研究開発が行われた（後[2015年](../Page/2015年.md "wikilink")度（平成27年度）まで延長）\[12\]。
+
+この研究では、Xバンド・レーダーに捜索・追尾機能を付加することで、Cバンド・レーダーをより遠距離の捜索に特化させることが検討されており、これによってCバンド・レーダーは小型化できるので、システム全体の小型軽量化、消費電力低減、整備性の向上が可能となり、将来汎用護衛艦の設計の自由度の向上と艤装条件の緩和が可能となる。また、捜索・探知・追尾範囲の拡大、超低高度目標（シースキミングミサイル）対処能力の向上、ECCM能力の向上も図られている。
+
+本研究で開発された試作装置は、2013年4月の段階で2014年度より「あすか」への搭載・試験が行われるとされた\[13\]。実際、2014年に撮影された「あすか」には旧来のFCS-3が搭載されたアンテナ部とマスト上部に新たなフェイズドアレイアンテナが設置されたが、この内の艦尾側アンテナ部がこれに該当し、左舷側の小型アレイアンテナがC/Xバンドのマルチファンクションレーダー、右舷側の大型アレイアンテナがCバンドのフェイズドアレイレーダーとなる\[14\]。
+
+また、[2011年](../Page/2011年.md "wikilink")度（平成23年度）から2013年度（平成25年度）までに、電子戦及び水上レーダーアンテナの統合・平面化及び共用開口化を図る「次世代護衛艦(1)統合空中線システム」\[15\]が提案されたが、予算化はしなかった。替りに電子戦装置のアクティブ・フェイズドアレイ化を中心とした「統合電波システム主要構成要素の研究試作」が2011年度（平成23年度）から[2012年](../Page/2012年.md "wikilink")度（平成24年度）までに実施された（後2013年度（平成25年度）まで延長）\[16\]。
+
+上記の研究成果は[2018年](../Page/2018年.md "wikilink")度（平成30年度）以降に建造される予定の[3900トン型護衛艦](https://ja.wikipedia.org/wiki/3900トン型護衛艦 "wikilink")（30FFM）へ搭載するための「新型護衛艦用レーダシステムの研究」に反映される。本研究は2015年度（平成27年度）から[2020年](../Page/2020年.md "wikilink")度（令和2年度）までに行われ、対空レーダー・対水上レーダー・電子妨害装置のアンテナ（空中線・信号処理部）を共用化し各機能を可能な限りソフトウェアで構築、状況に応じてリソース配分を行うことで、所要の機能を確保しつつ小型化・低コストを目指す\[17\]。行政レビューシートには、レーダ・EA（[電子攻撃](https://ja.wikipedia.org/wiki/電子攻撃 "wikilink")）共用空中線とES（[電子戦支援](https://ja.wikipedia.org/wiki/電子戦支援 "wikilink")）用空中線を試作したとあり\[18\]、30FFMのイメージ図にある大小2種類の空中線は,前者が大型、後者が小型に比定される。
+
+この30FFM搭載の新型多機能レーダーは、Xバンドの**OPY-2**として搭載される\[19\]。
+
+## 脚注
+
+## 参考文献
+
+  - 石井幸祐「海上自衛隊の多機能レーダー FCS-3の能力と限界」『世界の艦船』2008年3月号
+  - [大熊康之](https://ja.wikipedia.org/wiki/大熊康之 "wikilink")『軍事システム エンジニアリング』かや書房、2006年
+  - 『軍事研究2010年1月号別冊 新兵器最前線シリーズ9 海上自衛隊の空母型護衛艦』2010年
+
+## 外部リンク
+
+  - [防衛省 平成19年度 事前の事業評価 政策評価書一覧](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/19/jizen/index.html)
+      - FCS-3性能向上の研究
+          - [要旨 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/19/jizen/youshi/06.pdf)
+          - [本文 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/19/jizen/honbun/06.pdf)
+          - [参考 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/19/jizen/sankou/06.pdf)
+  - [防衛省 平成26年度 事前の事業評価 政策評価書一覧](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/26/jizen.html)
+      - 新型護衛艦用レーダシステムの研究
+          - [要旨 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/26/pdf/jizen_13_youshi.pdf)
+          - [本文 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/26/pdf/jizen_13_honbun.pdf)
+          - [参考 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/26/pdf/jizen_13_sankou.pdf)
+
+## 関連項目
+
+  - [FCS](https://ja.wikipedia.org/wiki/射撃管制装置 "wikilink")
+  - [AN/SPY-1](https://ja.wikipedia.org/wiki/AN/SPY-1 "wikilink")
+  - [イージスシステム](../Page/イージスシステム.md "wikilink")
+  - [亡国のイージス](https://ja.wikipedia.org/wiki/亡国のイージス "wikilink")
+
+[Category:海上自衛隊のレーダ装置](https://ja.wikipedia.org/wiki/Category:海上自衛隊のレーダ装置 "wikilink") [Category:射撃指揮システム](https://ja.wikipedia.org/wiki/Category:射撃指揮システム "wikilink")
+
+1.
+2.
+3.  [技術研究本部50年史 P81-82](http://www.mod.go.jp/trdi/data/50years.html)
+4.
+5.
+6.  石井幸祐（『[世界の艦船](../Page/世界の艦船.md "wikilink")』2008年3月号）
+7.  大熊康之（2006年）による
+8.
+9.  多田智彦（『[軍事研究](../Page/軍事研究_\(雑誌\).md "wikilink")』2010年1月号別冊）
+10. 「[イージス艦守る新鋭艦19DDを調達](http://www.asagumo-news.com/news/200612/061214/06121411.html)」、[朝雲新聞](../Page/朝雲新聞.md "wikilink")、2006年12月14日
+11.
+12. [平成25年行政事業レビューシート FCS－3の性能向上の研究試作改250809改 - 防衛省](http://www.mod.go.jp/j/approach/others/service/kanshi_koritsu/h25_res/r-sheet/0421.pdf)
+13.
+14. 「知られざる重要部隊の全貌（第8回）海上自衛隊の未来を創造する開発・試験部隊 開発隊群」『J-Ships』第74号、イカロス出版、2017年5月
+15. レーダー・ESM・ECM・通信の複数機能を1つのアンテナで実現する「スマートRFセンサの研究」（[2002年](../Page/2002年.md "wikilink")度（平成14年度）から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度（平成22年度））の成果を反映
+16. [平成24年行政事業レビューシート 統合電波システム主要構成要素の研究試作 - 防衛省](http://www.mod.go.jp/j/approach/others/service/kanshi_koritsu/h24/pdf/r-sheetadd/0017.pdf)、[平成25年行政事業レビューシート 統合電波システム主要構成要素の研究試作改250611改 - 防衛省](http://www.mod.go.jp/j/approach/others/service/kanshi_koritsu/h25_res/r-sheet/0425.pdf)
+17. [平成26年度事前の政策評価 「新型護衛艦用レーダシステムの研究（本文）」](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/26/pdf/jizen_13_honbun.pdf)
+18. [平成30年行政事業レビューシート 新型護衛艦用レーダシステムの研究試作 - 防衛省](http://www.mod.go.jp/j/approach/others/service/kanshi_koritsu/h30_res/h29past/0337.xlsx)
+19. 「海自期待の新型多機能護衛艦 「30FFM」の最新イメージ！」内嶋修「注目の新型艦艇」『世界の艦船』2019年1月号通算891号

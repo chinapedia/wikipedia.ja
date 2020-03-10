@@ -1,0 +1,262 @@
+> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+
+
+『**D坂の殺人事件**』（ディーざかのさつじんじけん）は、1924年（大正13年）に発表された[江戸川乱歩](../Page/江戸川乱歩.md "wikilink")の本格探偵小説。またはこれを原作とした[映画](../Page/映画.md "wikilink")・[テレビドラマ](../Page/テレビドラマ.md "wikilink")。
+
+## 概要
+
+『[新青年](../Page/新青年_\(日本\).md "wikilink")』新年増刊号（第六巻第二号）に掲載された。D坂で起きた密室殺人事件を“私”と素人探偵“[明智小五郎](../Page/明智小五郎.md "wikilink")”が追及していくという短編推理小説。[江戸川乱歩](../Page/江戸川乱歩.md "wikilink")が自作に明智探偵を初登場させた記念碑的作品である。文中で[心理学](../Page/心理学.md "wikilink")と犯罪の関係について触れられており、これは続編『心理試験』のテーマとなっている。
+
+[Dangozaka_2020-01-12.jpg](https://ja.wikipedia.org/wiki/File:Dangozaka_2020-01-12.jpg "fig:Dangozaka_2020-01-12.jpg") 本作には[古本屋](https://ja.wikipedia.org/wiki/古本屋 "wikilink")と[蕎麦屋](https://ja.wikipedia.org/wiki/蕎麦屋 "wikilink")が登場するが、乱歩は作家になる前に様々な職歴があり、大正8年には、[東京市](https://ja.wikipedia.org/wiki/東京都 "wikilink")[文京区](https://ja.wikipedia.org/wiki/文京区 "wikilink")本郷駒込林町の「[団子坂](https://ja.wikipedia.org/wiki/団子坂_\(東京都\) "wikilink")」で弟2人とともに実際に「三人書房」という古本屋を営んでいた。この古本屋で乱歩は、居候の友人と二人で推理小説の案を練っていた。事件の舞台である「D坂」とは、この「団子坂」のことである。また劇中にはソバ屋も軒並びで登場するが、乱歩自身もシナ蕎麦屋を経営していたことがあった。
+
+その後も職を転々とした後、大正11年に職を失った乱歩は妻子と共に[大阪府](../Page/大阪府.md "wikilink")[守口市](https://ja.wikipedia.org/wiki/守口市 "wikilink")八島町の父の家へ移り、「江戸川乱歩」の筆名で、団子坂時代に考案した筋書きを基に『二銭銅貨』と『一枚の切符』を書き上げた。（詳細は[江戸川乱歩](../Page/江戸川乱歩.md "wikilink")の項目を参照のこと）。[森下雨村](https://ja.wikipedia.org/wiki/森下雨村 "wikilink")が『二銭銅貨』を称賛し、人気推理作家の[小酒井不木](../Page/小酒井不木.md "wikilink")にこれを渡したところ、両作品を不木が激賞したため、大正12年に『二銭銅貨』と『一枚の切符』が探偵雑誌『新青年』に掲載されることとなり、「江戸川乱歩」のデビューとなった。
+
+『新青年』で乱歩は『恐ろしき錯誤』、翌大正13年に『[二癈人](https://ja.wikipedia.org/wiki/二癈人 "wikilink")』、『双生児』と発表を続け、大正14年1月号に本作を発表した乱歩は、その続編『[心理試験](../Page/心理試験.md "wikilink")』の原稿を小酒井不木に送り、探偵小説作家としてやっていけるかどうか判定してもらった。2月号に掲載された『心理試験』は世評も良く、不木からも激励されたことから、当時、31歳だった作者の[江戸川乱歩](../Page/江戸川乱歩.md "wikilink")は専業の職業作家となることを決意した。
+
+本作は、乱歩によると「誰かが不自然だといって非難した棒縞の浴衣と格子のトリックが実は出発点であった」という。乱歩は当時大阪の[京阪電車沿線の外守口町に住み](https://ja.wikipedia.org/wiki/京阪電気鉄道 "wikilink")、毎日大阪まで電車で通っていたが、ある夕方、電車を降りて家に帰る途中、線路に沿った田舎道を歩いていて、鉄道の線路と人道との境に立ち並んでいる古い枕木を黒焦げに焼いて針金を張った通交止めの柵に目をひかれた。歩いていると柵の黒い棒がチラチラとあとへ流れ、棒と棒の間から向い側の地面が現れては消えた。乱歩は「そこに何かしら錯覚の種が潜んでいるような気がした」と語っている。そのうちに太い棒柄の浴衣が頭に浮かび、さらに大阪障子のマイラ戸が聯想され、あのトリックが作り上げられたのだという。乱歩にとってこういう思いつきは全く「運」のようなもので、あとになると案外つまらないが、この思いつきに陶酔する程度の大小によって、出来上がる小説のよしあしも定まるのではないかと語っている。
+
+本作は乱歩自身「本格探偵小説」と銘打った、密室トリック作品である。乱歩によると、「その頃、日本の紙と木で出来た建物では『[モルグ街](../Page/モルグ街の殺人.md "wikilink")』のような密室探偵小説は書けない、日本に探偵小説がないのはそういう生活様式が大きな理由になっているという説が行われていたので、必ずしもそうではない、こういう風に書けば、日本の建物でも密室が構成できるという一例を示す気持ちがあった」といい、「[大南北の犯罪劇に心酔し](https://ja.wikipedia.org/wiki/鶴屋南北_\(4代目\) "wikilink")、[黒岩涙香](../Page/黒岩涙香.md "wikilink")の翻訳探偵小説に心酔し得た日本人は、紙と竹の家に住んでいても、決して探偵小説嫌いではないということを、主張したかったのである」と述べている。
+
+乱歩は講釈師[神田伯龍をモデルにした素人探偵](https://ja.wikipedia.org/wiki/神田伯龍#5代目 "wikilink")（私立探偵のこと）、明智小五郎を本作で初登場させている。この頃、乱歩は伯龍をはじめて聞いてひどく感心し、顔や姿も気に入った。「当時は今よりももっと痩せていて\[1\]、いい意味の畸形な感じを多分に持っていた」といい、「そこで何気なく伯龍を素人探偵のモデルに使ってみた訳である」としている。
+
+乱歩は明智を本作限りのキャラクターにするつもりだったが、評判がよく、以後の作品に引き続き登場することとなった。乱歩の「自註自解」では、「別に決まった主人公にするつもりはなかったのだが、方々から『いい主人公を思いつきましたねえ』と言われるものだから、ついその気になって、引き続き明智小五郎を登場させることになった。」と語っている。
+
+本作の挿絵は、初出版では[一木弴](https://ja.wikipedia.org/wiki/一木弴 "wikilink")(いちき とん)が担当した。明智の容貌はごつごつした怪人物風。創元推理文庫版では[棟方志功](../Page/棟方志功.md "wikilink")による版画挿絵が使われている。
+
+作中での明智の「君は、ポーの『[ル・モルグ](../Page/モルグ街の殺人.md "wikilink")』やルルーの『[黄色い部屋](https://ja.wikipedia.org/wiki/黄色い部屋の秘密 "wikilink")』などの材料になった、あのパリのRose Delacourt事件を知っているでしょう。」という台詞は、乱歩が『[ストランド・マガジン](https://ja.wikipedia.org/wiki/ストランド・マガジン "wikilink")』1915年10月号に掲載された、「"Originality in Murder"」（[George Robert Sims著](https://ja.wikipedia.org/wiki/:en:George_Robert_Sims "wikilink")）という記事を参考にしたものである\[2\]。
+
+乱歩は本作の後、[森下雨村](https://ja.wikipedia.org/wiki/森下雨村 "wikilink")の要望によって『新青年』誌上で『[心理試験](../Page/心理試験.md "wikilink")』（2月号）、『[黒手組](https://ja.wikipedia.org/wiki/黒手組_\(江戸川乱歩\) "wikilink")』（3月号）、『[赤い部屋](https://ja.wikipedia.org/wiki/赤い部屋 "wikilink")』（4月号）、『幽霊』（5月号）、『白昼夢』、『指輪』（7月号）、『[屋根裏の散歩者](https://ja.wikipedia.org/wiki/屋根裏の散歩者 "wikilink")』（8月増刊号）と推理短編を連作し、探偵小説家としての名を揺るぎないものとした。本作は乱歩自身も「私の短編の代表的なものに属する」と位置付けている。初出誌『新青年』では、冒頭に次のような編集部の一文が載せられた。
+
+> 「厳密なる意味よりして、**我国に於ける唯一の探偵作家たる**江戸川亂歩氏の力作を紹介する。氏が探偵作家としての非凡なる手腕は、曾て本誌上に発表されたる『二錢銅貨』『恐ろしき錯誤』その他の作品により疾(とう)に認めらるゝところ。本篇は特に氏の力作にかゝり、構想の妙、取材の清新、而して文章の流麗暢達(ちょうたつ)なる、眞にこれ海外探偵小説界にも容易に求めがたき傑作。あるいは本号所蔵の作品中にあつても、最も傑出したる作品の一つに算ふべきか。」
+
+また本作末尾には、乱歩の次のような「作者付記」が載せられた。
+
+> 「僅かの時間で執筆を急いだのと、一つは余り長くなることを慮れたためとで、明智の推理の最も重要なる部分、聯想診断に関する話を詳記することが出来なかつたことを残念に思ふ。しかし、この點(てん)はいづれ稿を改めて、他の作品\[3\]に於て充分に書いてみたいと思つてゐる。」
+
+## あらすじ
+
+9月初旬、D坂の大通りにある「白梅軒（はくばいけん）」という喫茶店で[冷しコーヒーをすすっていた](../Page/アイスコーヒー.md "wikilink")「私」は、この喫茶店で知り合いとなった[明智小五郎](../Page/明智小五郎.md "wikilink")と二人で、偶然向かいの古本屋で発生した殺人事件の第一発見者となる。やがて「私」は、その犯人が明智小五郎ではないかと推理するのだが・・・
+
+## 登場人物
+
+  - 「私」
+    本作品の[語り手](../Page/語り手.md "wikilink")。『[二銭銅貨](https://ja.wikipedia.org/wiki/二銭銅貨 "wikilink")』、『[一枚の切符](../Page/一枚の切符.md "wikilink")』の主人公達と同様、探偵趣味がある書生。『[黒手組](https://ja.wikipedia.org/wiki/黒手組 "wikilink")』にも登場。
+  - [明智小五郎](../Page/明智小五郎.md "wikilink")
+    煙草屋の二階に下宿している無職の書生。探偵小説好きな20代前半の一種の[遊民](https://ja.wikipedia.org/wiki/遊民 "wikilink")で、喫茶店『白梅軒』で「私」と知り合う。
+  - 古本屋の妻
+    明智の幼馴染。全身傷だらけの絞殺された死体として発見される。
+  - 古本屋の主人
+    『白梅軒』の向かいに構える古本屋。『白梅軒』の[ウェートレス達から](https://ja.wikipedia.org/wiki/ウェイトレス "wikilink")、妻を虐待しているのではないかと噂されている。
+  - ソバ屋（旭屋）の主人
+    古本屋の1軒置いて左に構えるソバ屋。古本屋の主人と同様、妻を虐待しているのではないかと噂されている。
+  - ソバ屋（同）の妻
+    古本屋の妻と同様、全身に傷を負っている。
+  - アイスクリーム屋の主人
+    古本屋の裏の路地の角に店を構える。「事件が起きた時間に路地を通った者はいない」と証言する。
+  - 菓子屋の主人
+    古本屋の1軒置いて右に構える。
+  - 工業学校の生徒達
+    犯人らしき男を目撃するが、証言が食い違う。
+  - 小林刑事
+    名探偵と噂の高い刑事。
+
+## 特記事項
+
+作中に、[エドガー・アラン・ポー](../Page/エドガー・アラン・ポー.md "wikilink")『[モルグ街の殺人](../Page/モルグ街の殺人.md "wikilink")』と[アーサー・コナン・ドイル](../Page/アーサー・コナン・ドイル.md "wikilink")『[まだらの紐](../Page/まだらの紐.md "wikilink")』のトリックのネタばれがある。
+
+## 映像作品
+
+### 映画
+
+#### 『D坂の殺人事件』（1998年）
+
+『D坂の殺人事件』と『[心理試験](../Page/心理試験.md "wikilink")』、『[屋根裏の散歩者](https://ja.wikipedia.org/wiki/屋根裏の散歩者 "wikilink")』を合わせて原作とした映画。[嶋田久作](https://ja.wikipedia.org/wiki/嶋田久作 "wikilink")の演じる明智小五郎は原作とは違って洋服姿である。また前半部で登場する時は頭の毛はモジャモジャであるが、後半部に登場する時は整髪したものになっている。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[R-15](https://ja.wikipedia.org/wiki/R-15 "wikilink")公開。
+
+  - スタッフ
+
+<!-- end list -->
+
+  - 監督：[実相寺昭雄](../Page/実相寺昭雄.md "wikilink")
+  - 脚本：[薩川昭夫](https://ja.wikipedia.org/wiki/薩川昭夫 "wikilink")
+  - 音楽：[池辺晋一郎](../Page/池辺晋一郎.md "wikilink")
+  - 編集：[西東清明](https://ja.wikipedia.org/wiki/西東清明 "wikilink")
+  - 製作：[東映](../Page/東映.md "wikilink")、[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
+
+<!-- end list -->
+
+  - キャスト
+
+<!-- end list -->
+
+  - 蕗屋清一郎：[真田広之](../Page/真田広之.md "wikilink")
+  - 明智小五郎：[嶋田久作](https://ja.wikipedia.org/wiki/嶋田久作 "wikilink")
+  - 須永時子：[吉行由実](../Page/吉行由実.md "wikilink")
+  - 花崎マユミ：[大家由祐子](https://ja.wikipedia.org/wiki/大家由祐子 "wikilink")
+  - 笠森糺：[岸部一徳](https://ja.wikipedia.org/wiki/岸部一徳 "wikilink")
+  - 鈴木欣哉：[六平直政](https://ja.wikipedia.org/wiki/六平直政 "wikilink")
+  - 斎藤勇：[齋藤聡介](https://ja.wikipedia.org/wiki/齋藤聡介 "wikilink")
+  - 秋村キセ子：[小川はるみ](https://ja.wikipedia.org/wiki/小川はるみ "wikilink")
+  - 小林芳雄：[三輪ひとみ](../Page/三輪ひとみ.md "wikilink")
+  - 秋村修平：[寺田農](https://ja.wikipedia.org/wiki/寺田農 "wikilink")
+  - 庄司武彦：[堀内正美](../Page/堀内正美.md "wikilink")
+  - 反町邦雄：[東野英心](../Page/東野英心.md "wikilink")
+  - 都築茂：[広瀬昌亮](https://ja.wikipedia.org/wiki/廣瀬昌亮 "wikilink")
+  - 安堂俊光：[岡野進一郎](../Page/岡野進一郎.md "wikilink")
+  - 土屋ミツ：[原知佐子](https://ja.wikipedia.org/wiki/原知佐子 "wikilink")
+
+#### 『D坂の殺人事件』（2015年）
+
+江戸川乱歩没後50周年記念作品として[窪田将治](https://ja.wikipedia.org/wiki/窪田将治 "wikilink")監督が[失恋殺人](https://ja.wikipedia.org/wiki/失恋殺人 "wikilink")（原作：妻に失恋した男）に続き江戸川乱歩を映画化\[4\]原作は明智小五郎のデビュー作で、独身の二十代で高等遊民という設定であったが、映画は既に前作から「AKC探偵事務所」を構えている職業探偵となっており、夫人の文代が助手を務めている。事件の捜査はもっぱら彼女が担当していて、明智の立ち位置は安楽椅子型探偵に近い。明智役は前作に引き続いて草野康太が演じたが、文代夫人と浪越警部は配役が変更された。また『屋根裏の散歩者』のキャラクターである郷田三郎を登場させ、明智のライバル的な立場になるというアレンジが加えられている（郷田を演じた河合龍之介は、次作『屋根裏の散歩者』でも引き続いて同役を演じた）。（[2015年](../Page/2015年.md "wikilink")、[R-15](https://ja.wikipedia.org/wiki/R-15 "wikilink")公開）。カラー・115分。
+
+  - ストーリー
+    団子坂の安アパート「東栄館」に住む、人生に退屈しきった青年・郷田三郎(河合龍之介)は、唯一「屋根裏の散歩」によってその変態的な性欲を満たしていた。
+    ある日偶然、蕎麦屋「鈴木庵」の主人(仁科貴)と、花崎古書店の美しき夫人・悦子(祥子)との不倫の現場を目撃した郷田は、彼女に強く心惹かれるようになる。そんな矢先に、蕎麦屋の主人が入水死体となって発見される。第一発見者は、古書店主人の花崎(木下ほうか)であった。蕎麦屋の頸部には縄の跡があり、警察の浪越警部(近藤芳正)は自殺だと断定する。しかし、たまたま現場を通りかかった探偵・明智小五郎(草野康太)はその見解に疑問を抱く。花崎古書店を訪れた明智は、そこに郷田の姿を発見し、その挙動に不審な印象を抱く。明智はまた、悦子の腕に、酷いあざがあることにも気づいた。探偵事務所に戻った明智は、夫人で助手の文代(大谷英子)に事件の調査を指示する。文代はまず、被害者の蕎麦屋の夫人を尋ねることにした。
+    その頃、郷田は、悦子に接近していた……。
+
+<!-- end list -->
+
+  - スタッフ
+
+<!-- end list -->
+
+  - 監督・脚本：[窪田将治](https://ja.wikipedia.org/wiki/窪田将治 "wikilink")
+  - 製作・配給・宣伝：[キングレコード](../Page/キングレコード.md "wikilink")
+  - 企画・制作プロダクション：[FAITHentertainment](https://ja.wikipedia.org/wiki/FAITHentertainment "wikilink")(フェイスエンタテインメント)
+  - 制作協力：[サモワール](../Page/サモワール.md "wikilink")
+  - エグゼクティブプロデューサー：[重村博文](https://ja.wikipedia.org/wiki/重村博文 "wikilink")
+  - プロデューサー：[山口幸彦](https://ja.wikipedia.org/wiki/山口幸彦 "wikilink")、[佐伯寛之](https://ja.wikipedia.org/wiki/佐伯寛之 "wikilink")
+  - 撮影：[西村博光](https://ja.wikipedia.org/wiki/西村博光 "wikilink")
+  - 照明：[常谷良男](https://ja.wikipedia.org/wiki/常谷良男 "wikilink")
+  - 録音・整音：[田邊茂男](https://ja.wikipedia.org/wiki/田邊茂男 "wikilink")
+  - 美術：[畠山和久](https://ja.wikipedia.org/wiki/畠山和久 "wikilink")
+  - 装飾：[田仲正彦](https://ja.wikipedia.org/wiki/田仲正彦 "wikilink")
+  - スタイリスト：[森内陽子](https://ja.wikipedia.org/wiki/森内陽子 "wikilink")
+  - ヘアメイク：[藤川美紗](https://ja.wikipedia.org/wiki/藤川美紗 "wikilink")
+  - 助監督：[土岐洋介](https://ja.wikipedia.org/wiki/土岐洋介 "wikilink")
+  - 制作担当：[相川真範](https://ja.wikipedia.org/wiki/相川真範 "wikilink")
+  - 音楽：[與語一平](https://ja.wikipedia.org/wiki/與語一平 "wikilink")
+  - 配給協力：[ブラウニー](https://ja.wikipedia.org/wiki/ブラウニー "wikilink")
+  - 企画協力：[講談社](../Page/講談社.md "wikilink")/[フライデー編集部](https://ja.wikipedia.org/wiki/フライデー_\(雑誌\) "wikilink")
+
+<!-- end list -->
+
+  - キャスト
+
+<!-- end list -->
+
+  - 花崎悦子－[祥子](https://ja.wikipedia.org/wiki/祥子 "wikilink")
+  - 郷田三郎－[河合龍之介](https://ja.wikipedia.org/wiki/河合龍之介 "wikilink")
+  - 明智小五郎－[草野康太](../Page/草野康太.md "wikilink")
+  - 鈴木(蕎麦屋の主人)－[仁科貴](https://ja.wikipedia.org/wiki/仁科貴 "wikilink")
+  - 明智文代－[大谷英子](https://ja.wikipedia.org/wiki/大谷英子 "wikilink")
+  - 浪越警部－[近藤芳正](https://ja.wikipedia.org/wiki/近藤芳正 "wikilink")
+  - 花崎(古書店の主人)－[木下ほうか](https://ja.wikipedia.org/wiki/木下ほうか "wikilink")
+
+### テレビドラマ
+
+  - 『D坂殺人事件 名探偵明智小五郎誕生 名探偵明智が挑む猟奇殺人の謎\!\!闇に浮かぶ白い肌…』
+
+（[1992年](../Page/1992年.md "wikilink")、フジテレビ系列）
+
+  - 製作：[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、カノックス
+  - 演出：[久世光彦](https://ja.wikipedia.org/wiki/久世光彦 "wikilink")
+  - 脚本：[寺内小春](https://ja.wikipedia.org/wiki/寺内小春 "wikilink")
+  - 音楽：[小林亜星](../Page/小林亜星.md "wikilink")
+  - タイトル画：小沢清人
+  - 殺陣：[國井正廣](https://ja.wikipedia.org/wiki/國井正廣 "wikilink")
+  - 演出補：北川邦夫、[千葉行利](https://ja.wikipedia.org/wiki/千葉行利 "wikilink")
+  - プロデュース：三宅川敬輔、三浦寛二
+  - 出演：[森光子](https://ja.wikipedia.org/wiki/森光子 "wikilink")、[郷ひろみ](../Page/郷ひろみ.md "wikilink")、[いかりや長介](https://ja.wikipedia.org/wiki/いかりや長介 "wikilink")、[松雪泰子](https://ja.wikipedia.org/wiki/松雪泰子 "wikilink")、[蟹江敬三](https://ja.wikipedia.org/wiki/蟹江敬三 "wikilink")、[根岸季衣](https://ja.wikipedia.org/wiki/根岸季衣 "wikilink")、[麿赤児](https://ja.wikipedia.org/wiki/麿赤児 "wikilink")、[六平直政](https://ja.wikipedia.org/wiki/六平直政 "wikilink")、[段田安則](../Page/段田安則.md "wikilink")、[でんでん](https://ja.wikipedia.org/wiki/でんでん "wikilink")、[半海一晃](https://ja.wikipedia.org/wiki/半海一晃 "wikilink")、[西初恵](https://ja.wikipedia.org/wiki/西初恵 "wikilink")、[伊藤眞](https://ja.wikipedia.org/wiki/伊藤眞_\(俳優\) "wikilink")、[英太郎](https://ja.wikipedia.org/wiki/英太郎_\(新派俳優\) "wikilink")、[新村礼子](https://ja.wikipedia.org/wiki/新村礼子 "wikilink")、[津村鷹志](https://ja.wikipedia.org/wiki/津村鷹志 "wikilink")、[田根楽子](../Page/田根楽子.md "wikilink")他
+
+<!-- end list -->
+
+  - 『シリーズ・江戸川乱歩短編集　1925年の明智小五郎　D坂の殺人事件 』
+
+（[2016年](../Page/2016年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")放送、NHK BSプレミアム）
+
+  - 概要：
+
+『D坂の殺人事件』『心理試験』『屋根裏の散歩者』の初期作を連続してドラマ化した第１作。
+
+シリーズは基本的に原作小説をそのまま朗読、俳優が台詞部分を演じる形式で、そのため「最も原作に忠実」を謳い文句にしている。
+
+明智小五郎は三作ともに女性である[満島ひかり](https://ja.wikipedia.org/wiki/満島ひかり "wikilink")が演じているが、『D坂』に登場する、棒高縞の和服姿にモジャモジャの蓬髪の明智を忠実に映像化した作品は、これが初めてであった(和服姿の明智は『[江戸川乱歩全集　恐怖奇形人間](https://ja.wikipedia.org/wiki/江戸川乱歩全集_恐怖奇形人間 "wikilink")』の[大木実](https://ja.wikipedia.org/wiki/大木実 "wikilink")がいるが、蓬髪ではない。『[二十面相の娘](https://ja.wikipedia.org/wiki/二十面相の娘 "wikilink")』の明智も和服だが、江戸川乱歩原作ではない)。
+
+原作で言及される様々な用語や人物名について、字幕や写真、イラストを挿入して解説するという演出が取られた。明智小五郎のモデルとなった[神田伯龍](https://ja.wikipedia.org/wiki/神田伯龍 "wikilink")(五代目)の写真も紹介されている。ただし、原作通り、『[モルグ街の殺人](../Page/モルグ街の殺人.md "wikilink")』『[まだらの紐](../Page/まだらの紐.md "wikilink")』のトリックにも言及されているため、未読の者には注意が必要である。
+
+また、D坂(団子坂)の通りや建物、一部の登場人物(証言者のアイスクリーム屋や学生たち)は、ミニチュアと人形で表現された。これは[実相寺昭雄](../Page/実相寺昭雄.md "wikilink")版『D坂の殺人事件』でも取られた手法である。
+
+  - スタッフ：
+
+<!-- end list -->
+
+  - 演出：[宇野丈良](https://ja.wikipedia.org/wiki/宇野丈良 "wikilink")
+  - 音楽：[崎元仁](https://ja.wikipedia.org/wiki/崎元仁 "wikilink")
+  - 音響効果：[金子昌晃](https://ja.wikipedia.org/wiki/金子昌晃 "wikilink")
+  - 撮影：[岩永洋](https://ja.wikipedia.org/wiki/岩永洋 "wikilink")
+  - 照明：[長田青梅](https://ja.wikipedia.org/wiki/長田青梅 "wikilink")
+  - 音声：[島津未来介](https://ja.wikipedia.org/wiki/島津未来介 "wikilink")
+  - 編集：[田中誠一](https://ja.wikipedia.org/wiki/田中誠一 "wikilink")
+  - 美術：[福井大](https://ja.wikipedia.org/wiki/福井大 "wikilink")
+  - ミニチュア作成：[萩原卓児](https://ja.wikipedia.org/wiki/萩原卓児 "wikilink")
+  - イラスト作成：[谷口亮](https://ja.wikipedia.org/wiki/谷口亮 "wikilink")
+  - スタイリスト：[野原英則](https://ja.wikipedia.org/wiki/野原英則 "wikilink")
+  - ヘアメイク：[堀川貴世](https://ja.wikipedia.org/wiki/堀川貴世 "wikilink")
+  - 資料提供：[立教大学](../Page/立教大学.md "wikilink")
+  - リサーチャー：[明仁絵里子](https://ja.wikipedia.org/wiki/明仁絵里子 "wikilink")
+  - 取材：[鈴木徳至](https://ja.wikipedia.org/wiki/鈴木徳至 "wikilink")
+  - プロデューサー：[淵邉恵美](https://ja.wikipedia.org/wiki/淵邉恵美 "wikilink")
+  - 制作統括：[千葉聡史](https://ja.wikipedia.org/wiki/千葉聡史 "wikilink")、[松永真一](https://ja.wikipedia.org/wiki/松永真一 "wikilink")、[長嶋甲兵](https://ja.wikipedia.org/wiki/長嶋甲兵 "wikilink")
+  - 制作：[NHKエンタープライズ](../Page/NHKエンタープライズ.md "wikilink")
+  - 制作・著作：[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[テレコムスタッフ](https://ja.wikipedia.org/wiki/テレコムスタッフ "wikilink")
+
+<!-- end list -->
+
+  - キャスト：
+
+<!-- end list -->
+
+  - 明智小五郎：[満島ひかり](https://ja.wikipedia.org/wiki/満島ひかり "wikilink")
+  - 「私」：[松永天馬](https://ja.wikipedia.org/wiki/アーバンギャルド "wikilink")
+  - 小林刑事：[末吉くん](../Page/末吉くん.md "wikilink")
+  - 古本屋の細君：[中村中](https://ja.wikipedia.org/wiki/中村中 "wikilink")
+  - 古本屋の主人：[山中崇](https://ja.wikipedia.org/wiki/山中崇 "wikilink")
+  - 蕎麦屋の主人：[津田寛治](https://ja.wikipedia.org/wiki/津田寛治 "wikilink")
+
+## 漫画作品
+
+  - 「明智小五郎×絞男〜D坂の殺人事件〜」
+      -
+        [山口譲司](https://ja.wikipedia.org/wiki/山口譲司 "wikilink")作画。[集英社](../Page/集英社.md "wikilink") 『江戸川乱歩 異人館』1巻（ISBN 978-4-088-79126-5 ）に収録。
+        「私」は江戸川乱歩本人と設定してある。
+
+## 脚注
+
+<references />
+
+## 参考文献
+
+  - 『探偵小説十年』（昭和7年、江戸川乱歩）
+  - 『江戸川乱歩傑作編』（新潮文庫）[荒正人](../Page/荒正人.md "wikilink")による解説
+  - 『江戸川乱歩 推理文庫1 二銭銅貨』（講談社）[中島河太郎](https://ja.wikipedia.org/wiki/中島河太郎 "wikilink")による解説
+  - 『D坂の殺人事件』（創元推理文庫）[戸川安宣による解説](https://ja.wikipedia.org/wiki/戸川安宣_\(編集者\) "wikilink")
+
+## 関連項目
+
+  - [明智小五郎](../Page/明智小五郎.md "wikilink")
+  - [心理試験](../Page/心理試験.md "wikilink")
+  - [京阪電気鉄道](https://ja.wikipedia.org/wiki/京阪電気鉄道 "wikilink")
+  - [海渡英祐](https://ja.wikipedia.org/wiki/海渡英祐 "wikilink") - 乱歩賞受賞作『伯林 - 一八八八年』第4章「探偵誕生」の中で、「密室殺人の実例」として記されている事件が、ローズ・ドラクール事件を思わせるものである（イギリス人記者、今世紀始め、モンマルトル、アパルトマン、若い娘、ベッドの上、刺殺……）。
+  - [『文豪ストレイドッグス』-](https://ja.wikipedia.org/wiki/文豪ストレイドッグス "wikilink") 原作6話・アニメーション5話のタイトル「Murder on D Street」。超推理という能力を持つ探偵・江戸川乱歩が立ちどころに事件を解決するエピソード。
+
+## 外部リンク
+
+  -
+  - [Papers Past — Marlborough Express — 9 December 1912 — MYSTERIES.](http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&d=MEX19121209.2.7) - [ローズ・ドラクール事件](https://ja.wikipedia.org/wiki/ローズ・ドラクール事件 "wikilink")（Marlborough Express、1912年12月9日掲載の記事）
+
+[Category:江戸川乱歩の短編小説](https://ja.wikipedia.org/wiki/Category:江戸川乱歩の短編小説 "wikilink") [Category:1924年の小説](https://ja.wikipedia.org/wiki/Category:1924年の小説 "wikilink") [Category:日本の推理小説](https://ja.wikipedia.org/wiki/Category:日本の推理小説 "wikilink") [Category:明智小五郎](https://ja.wikipedia.org/wiki/Category:明智小五郎 "wikilink") [Category:新青年_(日本)](https://ja.wikipedia.org/wiki/Category:新青年_\(日本\) "wikilink") [Category:文京区を舞台とした作品](https://ja.wikipedia.org/wiki/Category:文京区を舞台とした作品 "wikilink") [Category:1998年の映画](https://ja.wikipedia.org/wiki/Category:1998年の映画 "wikilink") [Category:日本のミステリ映画](https://ja.wikipedia.org/wiki/Category:日本のミステリ映画 "wikilink") [Category:東北新社製作の映画](https://ja.wikipedia.org/wiki/Category:東北新社製作の映画 "wikilink") [Category:東映製作の映画作品](https://ja.wikipedia.org/wiki/Category:東映製作の映画作品 "wikilink") [Category:実相寺昭雄の監督映画](https://ja.wikipedia.org/wiki/Category:実相寺昭雄の監督映画 "wikilink") [Category:江戸川乱歩原作の映画作品](https://ja.wikipedia.org/wiki/Category:江戸川乱歩原作の映画作品 "wikilink") [Category:池辺晋一郎の作曲映画](https://ja.wikipedia.org/wiki/Category:池辺晋一郎の作曲映画 "wikilink") [Category:東京テアトル配給の映画](https://ja.wikipedia.org/wiki/Category:東京テアトル配給の映画 "wikilink") [Category:2015年の映画](https://ja.wikipedia.org/wiki/Category:2015年の映画 "wikilink") [Category:窪田将治の監督映画](https://ja.wikipedia.org/wiki/Category:窪田将治の監督映画 "wikilink") [Category:キングレコードの映画作品](https://ja.wikipedia.org/wiki/Category:キングレコードの映画作品 "wikilink") [Category:江戸川乱歩原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸川乱歩原作のテレビドラマ "wikilink") [Category:推理ドラマ](https://ja.wikipedia.org/wiki/Category:推理ドラマ "wikilink") [Category:1992年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1992年のテレビドラマ "wikilink") [Category:フジテレビのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビのスペシャルドラマ "wikilink") [Category:2016年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2016年のテレビドラマ "wikilink") [Category:NHK_BSプレミアムのテレビドラマ](https://ja.wikipedia.org/wiki/Category:NHK_BSプレミアムのテレビドラマ "wikilink") [Category:NHK_BSの特別番組](https://ja.wikipedia.org/wiki/Category:NHK_BSの特別番組 "wikilink") [Category:NHKのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:NHKのスペシャルドラマ "wikilink")
+
+1.  昭和7年当時
+2.  しかし、Killis Campbell著"The Mind of Poe and Other Studies" （1933年、 Harvard Press）（165ページ）によれば、「同じ内容のものが1912年10月3日付の『ワシントンポスト』紙に"Facts Behind Poe's Story"という匿名記事として掲載された」となっている。Killis Campbellは「[マリー・ロジェの謎](../Page/マリー・ロジェの謎.md "wikilink")」と同様に、[エドガー・アラン・ポー](../Page/エドガー・アラン・ポー.md "wikilink")が実在の事件を元に「モルグ街の殺人」を著したとしているが、Thomas Ollive Mabbott他編のポーの作品集"Tales and Sketches, vol. 1: 1831-1842"（2000年, University of Illinois Press）の注釈（524ページ）では、『ワシントンポスト』紙の記事にローズの死亡日時が具体的に記されていないことから、この匿名記事は信憑性に乏しく、むしろポーの作品からでっち上げたものではないかと推定している。
+3.  次作品『心理試験』のこと
+4.  \[<http://www.cinematoday.jp/page/N0069216>　謎の美女“祥子”映画初主演で濡れ場！江戸川乱歩原作『D坂の殺人事件』でオールヌードに挑戦\]

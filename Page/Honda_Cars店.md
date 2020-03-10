@@ -1,0 +1,55 @@
+> この記事は[Honda Cars](https://ja.wikipedia.org/wiki/Honda_Cars)から翻訳されています。
+
+
+**Honda Cars店**（ホンダ カーズてん）は、[本田技研工業](../Page/本田技研工業.md "wikilink")の[自動車](../Page/自動車.md "wikilink")販売における[ディーラー網である](https://ja.wikipedia.org/wiki/自動車ディーラー "wikilink")。
+
+[本田技研工業](../Page/本田技研工業.md "wikilink")の連結子会社(100%出資)と地元の個人企業に分かれている。
+
+## 概要
+
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[プリモ店](https://ja.wikipedia.org/wiki/プリモ店 "wikilink")、[クリオ店](https://ja.wikipedia.org/wiki/クリオ店 "wikilink")、[ベルノ店](https://ja.wikipedia.org/wiki/ベルノ店 "wikilink")がそれぞれ専売車種を持つ形態から全車種併売へと移行し、名称を分ける必要性がなくなったため、同年[7月13日](../Page/7月13日.md "wikilink")に一部ディーラーを除きHonda Carsに統一した。
+  - ただし各販売網の名称を統一するのみで、それぞれのディーラーは必ずしも合併するわけではない。
+  - 最初は名称変更のみを行い、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")秋頃より店舗の看板などを順次変更している。プリモ店の赤、クリオ店の青、ベルノ店の緑のイメージカラーから、白を基調とした看板に変わった。
+
+<!-- end list -->
+
+  - 2019年8月、「Honda Dealer Concept 2.0」により店舗のデザインを刷新することを発表。店舗の外観は白を基調とし、内部の床は木目調のデザインに変更する。また、自動車整備ピットもF1風に改める。同年10月に栃木県や埼玉県の店舗で試験導入した後、2020年以降、順次全国に展開\[1\]。
+
+## 名称変更
+
+Honda Carsへの移行に伴い、以下のように名称の変更が行われた。
+
+  - ディーラー名には地域名が使われ、[プリモ店](https://ja.wikipedia.org/wiki/プリモ店 "wikilink")によく見られた経営者の[姓](../Page/姓.md "wikilink")（名字）など地名以外の呼称は基本的に消滅した。地名が重複する場合は方角などを使い区別している\[2\]。
+  - 店舗は「～店」に統一され「～営業所」は使われない。店舗名もディーラー名と同様重複が多く発生したため方角、地名、道路名などを使って変更された。
+  - これらの変更によって、「Honda Cars 東京都」という店舗も登場したが、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")（とうきょうと）ではなく、東[京都](https://ja.wikipedia.org/wiki/京都府 "wikilink")（＝ひがしきょうと、京都東部）を意味する。
+  - ウェブサイトの[URL](https://ja.wikipedia.org/wiki/URL "wikilink")を変更した法人もある。
+  - 旧プリモ店の店舗は施設を譲渡（旧クリオ/ベルノの販売会社）、販売会社（旧プリモ店）は解散したものが存在する。
+
+## 販売車種
+
+## 別店舗展開
+
+顧客のニーズの変化に対し、販売チャネルを増やさず、ひとつの店舗を特定車種強化店舗として改装する形で多様化させている。
+
+  - Small Store（スモールストア）
+    2012年春に登場。コンパクトカーと軽自動車を中心に扱う。女性の顧客に配慮したショールームとなっている。
+  - QUALITY SELECT（クオリティセレクト）
+    2013年に登場。上級車種を中心に扱う。高級感あふれる店舗内装やサービスの提供により、既存店舗との差別化が図られている。
+  - ORANGE DEALER（オレンジディーラー）
+    常に1台以上（ベスト店。マスター店は4台以上）福祉車両を展示・試乗を行っており、店舗自体もバリアフリーな作りになっていて専門知識を持ったスタッフがサポートする。
+  - [NSX PERFORMANCE DEALER](https://ja.wikipedia.org/wiki/NSX_PERFORMANCE_DEALER "wikilink")（エヌエスエックスパフォーマンスディーラー）
+    2017年2月27日に発売された[NSX向けに](https://ja.wikipedia.org/wiki/ホンダ・NSX_\(2016年\) "wikilink")、スーパースポーツカーのメンテナンスに必要な専用設備を備え、認定サービスエンジニアである「NSXスペシャリスト」が在籍するディーラー\[3\]。
+
+## 脚注
+
+<references/>
+
+## 外部リンク
+
+  - [Honda｜Honda Cars](http://www.honda.co.jp/hondacars/)
+
+[Category:本田技研工業のディーラー](https://ja.wikipedia.org/wiki/Category:本田技研工業のディーラー "wikilink")
+
+1.
+2.  例えばプリモ店のうち、名称変更前である「ホンダプリモ松本」という店名表記が日本国内に2つ存在した。1つは[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[三戸郡](../Page/三戸郡.md "wikilink")[田子町](https://ja.wikipedia.org/wiki/田子町 "wikilink")にある店舗で、こちらは運営会社の「松本ホンダ販売」から。もう1つは[長野県](../Page/長野県.md "wikilink")[松本市](https://ja.wikipedia.org/wiki/松本市 "wikilink")にある店舗で、その店舗所在地の地名から、それぞれにの店名に由来する。その後店舗名変更後は、前者は「Honda Cars田子」、後者は「Honda Cars松本北」に、それぞれ改称されている。
+3.

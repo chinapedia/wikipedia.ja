@@ -1,0 +1,112 @@
+> この記事は[AVE MARIA \(\)](https://ja.wikipedia.org/wiki/AVE_MARIA_\(\))から翻訳されています。
+
+
+『**AVE MARIA**』（アヴェ・マリア）は、[本田美奈子のアルバム](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")。[2003年](../Page/2003年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")に[コロムビアミュージックエンタテインメントからリリースされた](../Page/日本コロムビア.md "wikilink")
+
+## 解説
+
+本田美奈子のソプラノ・アルバムの第1作。クラシックの楽曲を現代の感性で歌える歌手を探していた[岡野博行](https://ja.wikipedia.org/wiki/岡野博行 "wikilink")と、クラシックへの志向を強めていた本田との邂逅により生まれた作品である。『ミス・サイゴン』以来の本田の恩師である[岩谷時子](../Page/岩谷時子.md "wikilink")が日本語詞を書き下ろし、編曲は[井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")が担当した。収録曲は100曲以上の候補の中から本田自身が心に響く曲、歌いたい曲を選んでいった。手作りにこだわる本田は歌入れ以外の録音にも全て立ち会った。
+
+本田はジャケット制作のためのスタッフとの顔合せの場で「私はこのアルバムに命を賭けていますので、絶対に失敗できないのでよろしくお願いします」と挨拶したと伝えられている\[1\]。岡野による伊豆大島でのジャケット撮影のレポートでは収録曲として12曲が紹介されている\[2\]が、実際にはこの中から「[天国への階段](https://ja.wikipedia.org/wiki/天国への階段_\(レッド・ツェッペリンの曲\) "wikilink")」の収録が見送られ、代わって「ヴォカリーズ」と「タイスの瞑想曲」が収録された。この「天国への階段」は本田の逝去後にアルバム『[心を込めて...](https://ja.wikipedia.org/wiki/心を込めて... "wikilink")』に収録された。
+
+本田の逝去をきっかけに他のアルバムとともに売上が上昇、[オリコンアルバム売上ランキングで最高](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")22位を記録した。
+
+## 収録曲
+
+1.  **流声**〜プロローグ〜
+      -
+        （作詞・編曲:井上鑑）
+2.  **[アヴェ・マリア](https://ja.wikipedia.org/wiki/ジュリオ・カッチーニ#"カッチーニのアヴェ・マリア" "wikilink")**
+      -
+        （作曲:[ジュリオ・カッチーニ](../Page/ジュリオ・カッチーニ.md "wikilink") 編曲:井上鑑）
+        本作のタイトルトラック。ロシアの[カウンターテナー](https://ja.wikipedia.org/wiki/カウンターテナー "wikilink")歌手[スラヴァらが取り上げて以降急速に知名度を増した](https://ja.wikipedia.org/wiki/スラヴァ_\(歌手\) "wikilink")、[カッチーニ作とされる作品](../Page/ジュリオ・カッチーニ.md "wikilink")（実際には偽作である）。数ある「[アヴェ・マリア](https://ja.wikipedia.org/wiki/アヴェ・マリア "wikilink")」の中でも本田が最も気に入り本作に収録された\[3\]。
+3.  **私のお父さん**〜オペラ「[ジャンニ・スキッキ](https://ja.wikipedia.org/wiki/ジャンニ・スキッキ "wikilink")」より
+      -
+        （日本語詞:[岩谷時子](../Page/岩谷時子.md "wikilink") 作曲:[ジャコモ・プッチーニ](../Page/ジャコモ・プッチーニ.md "wikilink") 編曲:井上鑑）
+        プッチーニのオペラ・アリアの中でも最も広く親しまれているものの一つ。原曲は結婚の許しを父親に懇願する歌だが、岩谷の日本語詞は結婚を控えた娘が父への感謝を歌う内容になっている。
+4.  **[タイム・トゥ・セイ・グッバイ](https://ja.wikipedia.org/wiki/コン・テ・パルティロ "wikilink")**
+      -
+        （作詞・作曲:フランチェスコ・サルトリ、ルチオ・クァラントット、[フランク・ピーターソン](https://ja.wikipedia.org/wiki/フランク・ピーターソン "wikilink") 編曲:井上鑑）
+        [アンドレア・ボチェッリ](https://ja.wikipedia.org/wiki/アンドレア・ボチェッリ "wikilink")、[サラ・ブライトマン](https://ja.wikipedia.org/wiki/サラ・ブライトマン "wikilink")による歌唱で有名な曲。[服部克久](https://ja.wikipedia.org/wiki/服部克久 "wikilink")の推薦により出演した[シドニー](https://ja.wikipedia.org/wiki/シドニー "wikilink")の[オペラハウスでの日豪親善コンサート](https://ja.wikipedia.org/wiki/シドニー・オペラハウス "wikilink")（2000年6月19日開催）で初めて歌い、その後テレビ番組に出演した際にも歌っていた\[4\]。本田がクラシカル・クロスオーバーに進出するきっかけとなった曲である。
+5.  **美しい夕暮れ**
+      -
+        （日本語詞:岩谷時子 作曲:[クロード・ドビュッシー](../Page/クロード・ドビュッシー.md "wikilink") 編曲:井上鑑）
+        ドビュッシーが10代の頃に作曲した歌曲で、[ハイフェッツによるヴァイオリンへの編曲でも知られる](../Page/ヤッシャ・ハイフェッツ.md "wikilink")。本作中の最高音であるハイCisが現れる曲である。
+6.  **[ヴォカリーズ](https://ja.wikipedia.org/wiki/ヴォカリーズ_\(ラフマニノフ\) "wikilink")**
+      -
+        （作曲:[セルゲイ・ラフマニノフ](../Page/セルゲイ・ラフマニノフ.md "wikilink") 編曲:井上鑑）
+        ラフマニノフの最も広く親しまれている歌曲で、タイトルの通り[ヴォカリーズ](../Page/ヴォカリーズ.md "wikilink")で歌われる。岡野は「テイクによって驚くほど様々な表情が生まれた」と述べている\[5\]。
+7.  **[グリーンスリーブス](https://ja.wikipedia.org/wiki/グリーンスリーブス "wikilink")**
+      -
+        （イングランド民謡 編曲:井上鑑）
+        16世紀にまで遡る[イングランド](../Page/イングランド.md "wikilink")の古い民謡。[シェイクスピアの](../Page/ウィリアム・シェイクスピア.md "wikilink")[戯曲](../Page/戯曲.md "wikilink")の中で言及されることでも知られる曲。
+8.  **ジュピター**〜組曲「惑星」より
+      -
+        （作詞:岩谷時子 作曲:[グスターヴ・ホルスト](../Page/グスターヴ・ホルスト.md "wikilink") 編曲:井上鑑）
+        オーケストラ組曲『[惑星](https://ja.wikipedia.org/wiki/惑星_\(組曲\)#「木星」の第4主題 "wikilink")』の第4曲「木星」の「Andante maestoso」の旋律に詞をつけて歌ったもの。シングル「[新世界](../Page/新世界_\(本田美奈子.の曲\).md "wikilink")」には新たに録音し直した音源が収録された。2004年12月1日開催の「[Act Against AIDS](https://ja.wikipedia.org/wiki/アクト・アゲインスト・エイズ "wikilink")」でも歌われた。
+9.  **[私を泣かせてください](https://ja.wikipedia.org/wiki/私を泣かせてください "wikilink")**〜オペラ「[リナルド](../Page/リナルド_\(オペラ\).md "wikilink")」より
+      -
+        （日本語詞:岩谷時子 作曲:[ゲオルク・フリードリヒ・ヘンデル](../Page/ゲオルク・フリードリヒ・ヘンデル.md "wikilink") 編曲:井上鑑）
+        ヘンデルのオペラ・アリアの中でも「[オンブラ・マイ・フ](https://ja.wikipedia.org/wiki/オンブラ・マイ・フ "wikilink")」などとともに最も広く親しまれている作品。
+10. **シシリエンヌ**
+      -
+        （作詞:岩谷時子 作曲:[ガブリエル・フォーレ](https://ja.wikipedia.org/wiki/ガブリエル・フォーレ "wikilink") 編曲:井上鑑）
+        フォーレによる名高い作品。[シシリエンヌとは](../Page/シチリアーナ.md "wikilink")[シチリア](https://ja.wikipedia.org/wiki/シチリア "wikilink")風[舞曲](https://ja.wikipedia.org/wiki/舞曲 "wikilink")の意。はじめチェロとピアノのために作曲され、後に劇付随音楽『[ペレアスとメリザンド](https://ja.wikipedia.org/wiki/ペレアスとメリザンド_\(フォーレ\) "wikilink")』及びその管弦楽組曲版に組み入れられた曲である。本田は2004年8月29日に行われた『N響ほっとコンサート』に出演した際に岩村力指揮の[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")との共演でこの曲を歌っている。
+11. **ニュー・シネマ・パラダイス** 愛のテーマ
+      -
+        （作詞:森寧子 作曲:アンドレア・モリコーネ、[エンニオ・モリコーネ](https://ja.wikipedia.org/wiki/エンニオ・モリコーネ "wikilink") 編曲:井上鑑）
+        映画『[ニュー・シネマ・パラダイス](https://ja.wikipedia.org/wiki/ニュー・シネマ・パラダイス "wikilink")』のサウンドトラックからの一曲。多くの音楽家により取り上げられている人気のある曲である。
+12. **[タイスの瞑想曲](../Page/タイスの瞑想曲.md "wikilink")**
+      -
+        （作詞:本田美奈子 作曲:[ジュール・マスネ](../Page/ジュール・マスネ.md "wikilink") 編曲:井上鑑）
+        マスネによるオペラ『タイス』の幕間を飾る間奏曲である。その静謐な美しさから単独で取り上げられることが多く、様々な楽器への編曲でも親しまれている。本田自身が作詞を手がけた平和への祈りの歌である。
+13. **[アメイジング・グレイス](../Page/アメイジング・グレイス.md "wikilink")**
+      -
+        （作詞:ジョン・ニュートン 日本語詞:岩谷時子 作曲:不詳 編曲:井上鑑）
+        有名な賛美歌を岩谷の日本語詞に英語詞の一部を交えて歌っている。没後、本田の代名詞ともいえる楽曲となった。詳しくはアルバム『[アメイジング・グレイス](../Page/アメイジング・グレイス_\(本田美奈子.のアルバム\).md "wikilink")』の解説を参照のこと。
+14. **ベラ・ノッテ**〜映画「[わんわん物語](https://ja.wikipedia.org/wiki/わんわん物語 "wikilink")」より
+      -
+        （日本語詞:海野洋司 作詞・作曲:ペギー・リー、ソニー・バーク 編曲:井上鑑）
+        ディズニー映画の名高い挿入歌。タイトルはイタリア語で「きれいな夜」を意味する。子守歌風のやさしいメロディーによりアルバムを締めくくっている。
+
+## 演奏者
+
+  - 井上鑑 - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、[オートハープ](../Page/オートハープ.md "wikilink")
+  - 刈田雅治 - [ヴィオロンチェロ](../Page/チェロ.md "wikilink")（on 2.）
+  - [朝川朋之](https://ja.wikipedia.org/wiki/朝川朋之 "wikilink") - [ハープ](../Page/ハープ.md "wikilink")（on 3. 6.）
+  - [金原千恵子](../Page/金原千恵子.md "wikilink") - [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")（on 3. 4. 9. ）
+  - [古川昌義](https://ja.wikipedia.org/wiki/古川昌義 "wikilink") - [アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")（on 5.）
+  - 高桑英世 - [フルート](../Page/フルート.md "wikilink")（on 6. 10.）
+  - 千葉純子 - アルトフルート（on 6.）
+  - 山根公男 - [クラリネット](../Page/クラリネット.md "wikilink")（on 6.）
+  - 岡本正之 - [バスーン](../Page/ファゴット.md "wikilink")（on 6.）
+  - 藤田乙比古 - [ホルン](../Page/ホルン.md "wikilink")（on 6.）
+  - [吉川忠英](../Page/吉川忠英.md "wikilink") - アコースティック・ギター、[バンジョー](../Page/バンジョー.md "wikilink")（on 7.）
+  - 土方隆行 - [エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")（on 8.）
+  - [山木秀夫](../Page/山木秀夫.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")（on 8.）
+  - 丸田美紀 - [琴](../Page/琴.md "wikilink")（on 10.）
+  - 堀沢正巳 - ヴィオロンチェロ（on 11.）
+  - 十亀正司 - クラリネット（on 11.）
+  - 藤原道山 - [尺八](../Page/尺八.md "wikilink")（on 13.）
+  - [金子飛鳥](../Page/金子飛鳥.md "wikilink") - ストリングス（on 13.）
+  - クリストファー・ハーディー - [パーカッション](../Page/パーカッション.md "wikilink")（on 13.）
+
+## 脚注
+
+<div class="references-small">
+
+<references />
+
+</div>
+
+## 外部リンク
+
+  - [本田美奈子. 「AVE MARIA」](http://columbia.jp/~minako/COCQ-83633.html) - コロムビアのオフィシャルサイト内のアルバム紹介ページ
+
+[Category:本田美奈子.のアルバム](https://ja.wikipedia.org/wiki/Category:本田美奈子.のアルバム "wikilink") [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink") [Category:クラシカル・クロスオーバーのアルバム](https://ja.wikipedia.org/wiki/Category:クラシカル・クロスオーバーのアルバム "wikilink") [Category:コロムビアミュージックエンタテインメントのアルバム](https://ja.wikipedia.org/wiki/Category:コロムビアミュージックエンタテインメントのアルバム "wikilink")
+
+1.  『天に響く歌-歌姫・本田美奈子.の人生』 ワニブックス、2007年
+2.  岡野博行公式サイト内[本田美奈子「AVE MARIA」ジャケット撮影レポート](http://www.okanonet.com/topics/minako_avemaria_photo/text.html)
+3.  ライナーノートの岡野による曲目解説
+4.  2001年10月6日放送の『[ミュージックフェア](../Page/ミュージックフェア.md "wikilink")』及び2002年4月7日放送の『[題名のない音楽会](https://ja.wikipedia.org/wiki/題名のない音楽会 "wikilink")21』。『題名のない音楽会21』では[布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink")とのデュエットで歌っていた。
+5.

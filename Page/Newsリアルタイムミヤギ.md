@@ -1,0 +1,160 @@
+> この記事は[News](https://ja.wikipedia.org/wiki/News)から翻訳されています。
+
+
+『**Newsリアルタイムミヤギ**』（ニュースリアルタイムミヤギ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[ミヤギテレビで放送していた](../Page/宮城テレビ放送.md "wikilink")[平日](https://ja.wikipedia.org/wiki/平日 "wikilink")夕方の[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")向け[ローカル](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")[報道番組](../Page/報道番組.md "wikilink")。『[OH\!バンデス](https://ja.wikipedia.org/wiki/OH!バンデス "wikilink")』の第3部\[1\]であり、放送時間は18:16 - 19:00。第1部・第2部に引き続き[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。なお、『OH\!バンデス』休止の際は『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』と『Newsリアルタイムミヤギ』のみが放送された。
+
+## 概要
+
+この時間帯は『OH\!バンデス』の司会である[さとう宗幸](../Page/さとう宗幸.md "wikilink")・[浮ヶ谷美穂](https://ja.wikipedia.org/wiki/浮ヶ谷美穂 "wikilink")・[浜本徳子](../Page/浜本徳子.md "wikilink")らは出演せず、[柳瀬洋平](https://ja.wikipedia.org/wiki/柳瀬洋平 "wikilink")・[深井ゆきえ](../Page/深井ゆきえ.md "wikilink")が番組のキャスターを務めた。
+
+1995年の『OH\!バンデス』の放送開始以来『OH\!バンデス NEWS PLUS 1』として放送されていたが、全国ニュースのタイトルが『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』から『NNN Newsリアルタイム』へ変わったため、2006年4月3日より『Newsリアルタイムミヤギ』のタイトルで放送されていた。
+
+2007年3月までは『OH\!バンデス（第1部・第2部）』と同じスタジオで背景セット・出演者デスクなど番組独自のセットを使用していたが、同年4月より『OH\!バンデス（第1部・第2部）』と同じスタジオ・背景セットを使用し、出演者デスクのみ番組独自のものを使用するようになった。
+
+タイトルにちなみ、2006年4月からは「リアルタイムな街の声」と題して、その日のニュースに関することについて街頭インタビューしたものを番組終盤に放送していた。2007年4月から2008年3月までは「リアルタイムな街の声」の時間帯のコーナーが日替わりになり、「リアルタイムな街の声」は金曜の「週刊街の声」へと引き継がれた（月曜：リアル目線、火曜：蔵だしみやぎ、水曜：ニュースなことば、木曜：イチオシV、金曜：週刊街の声）。2008年4月からは金曜日のみ「週刊街の声」を番組終盤に放送していた。
+
+2006年4月から2008年3月までは、毎週水曜日に『[ズームイン\!\!SUPER](https://ja.wikipedia.org/wiki/ズームイン!!SUPER "wikilink")』の宮城担当者である柳瀬による『ズームイン\!\!リアル』を放送していた。
+
+番組開始以来、毎週金曜日18:50ごろからニュースコーナー内にて[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")の老舗[百貨店](../Page/百貨店.md "wikilink")である[藤崎の](https://ja.wikipedia.org/wiki/藤崎_\(百貨店\) "wikilink")[インフォマーシャル](../Page/インフォマーシャル.md "wikilink")を行っている。2009年1月まではキャスターが天気予報後に「続いて、藤崎からのお知らせです」とVTRに振っていたが、2009年4月からは天気予報後にニュースを挟んでからVTRへのパターンに変更となった。
+
+この時間帯のニュース番組において長年に渡りキャスターを担当していた竹鼻純と盛朋子が2008年3月に卒業。その後、竹鼻は解説委員として番組に残り、盛は自身の得意分野である環境についてのレポートコーナー「エコで行こう」を番組内で行っている。また、気象予報士が新たに加入し、スタジオから天気予報を伝えるようになり、この時間の仙台駅前からの中継はなくなった（天気予報のときの背景としての仙台駅前からの映像はある）。
+
+火曜日から木曜日までは特集コーナーが設けられていた。火曜日には系列各局からの話題を紹介する「列島リアル」が、水曜日には気になるニュース・話題を徹底取材した「リアル特集」が、木曜日には暮らしと繋がる経済・生活情報を特集する「くらしリアル」が放送された。
+
+スポーツは、[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")や[ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")など宮城県に関係するスポーツを、[日本テレビからの](../Page/日本テレビ放送網.md "wikilink")『NNN Newsリアルタイム』のスポーツコーナー「リアルSPORTS」を内包した形で放送していた。なお、金曜日のみ全国のスポーツコーナーをネットせず、宮城県のスポーツ特集「リアルスタジアム 金曜劇場」を放送していた。
+
+エンディングテーマは、さとう宗幸の「欅伝説」で、『OH\!バンデス』休止による内包中止の際には同曲を使用せず、オリジナルのエンディングBGMや関東広域圏のエンディングBGMを使用することもあった。
+
+土曜日は『[ミヤギテレビNewsリアルタイムサタデー](../Page/ミヤギテレビNewsリアルタイムサタデー.md "wikilink")』と題して放送されていた。同番組は『OH\!バンデス』と『Newsリアルタイムミヤギ』で使われているUスタジオからの放送ではなく、報道用のNスタジオからの放送だった。テロップは『NNN Newsリアルタイム』のものではなく、『[NNNミヤギテレビニュース](../Page/NNNミヤギテレビニュース.md "wikilink")』のものを使用。エンディングは『[NNNミヤギテレビニュースプラス1・サタデー](../Page/ミヤギテレビニュースプラス1.md "wikilink")』時代のBGMと同じものを使用していた。
+
+番組は『NNN Newsリアルタイム』の終了と『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』の放送開始に伴い、2010年3月26日に放送を終了した。最終日はプロ野球中継放送の影響で、17:32 - 17:50までの放送だった。
+
+## 出演者
+
+### 放送終了時
+
+  - キャスター
+
+<!-- end list -->
+
+  - [柳瀬洋平](https://ja.wikipedia.org/wiki/柳瀬洋平 "wikilink")（ミヤギテレビアナウンサー、2008年4月 - 引き続き『[ミヤギnews every.](https://ja.wikipedia.org/wiki/ミヤギnews_every. "wikilink")』を担当）
+  - [深井ゆきえ](../Page/深井ゆきえ.md "wikilink")（当時ミヤギテレビアナウンサー、2007年4月 - 2010年3月\[2\]）
+
+<!-- end list -->
+
+  - 解説委員
+
+<!-- end list -->
+
+  - [竹鼻純](https://ja.wikipedia.org/wiki/竹鼻純 "wikilink")（当時ミヤギテレビアナウンサー、2008年4月 - 引き続き『ミヤギnews every.』を担当）
+
+<!-- end list -->
+
+  - コーナー担当
+
+<!-- end list -->
+
+  - [盛朋子](../Page/盛朋子.md "wikilink")（ミヤギテレビアナウンサー、2007年9月 - 引き続き『ミヤギnews every.』を担当）
+
+<!-- end list -->
+
+  - 天気予報（●はスタジオからの担当）
+
+<!-- end list -->
+
+  - [高橋香純](https://ja.wikipedia.org/wiki/高橋香純 "wikilink")（気象予報士、2009年1月 - 引き続き『ミヤギnews every.』を担当）●
+
+<!-- end list -->
+
+  - スポーツコーナー
+
+<!-- end list -->
+
+  - [三雲茂晴](../Page/三雲茂晴.md "wikilink")（ミヤギテレビアナウンサー、2006年4月 - 引き続き『ミヤギnews every.』を担当）
+  - [吾妻秀謙](https://ja.wikipedia.org/wiki/吾妻秀謙 "wikilink")（ミヤギテレビアナウンサー、2006年4月 - 引き続き『ミヤギnews every.』を担当）
+  - [外賀幸一](https://ja.wikipedia.org/wiki/外賀幸一 "wikilink")（ミヤギテレビアナウンサー、2006年4月 - 引き続き『ミヤギnews every.』を担当）
+
+### 過去
+
+  - キャスター
+
+<!-- end list -->
+
+  - 竹鼻純（当時ミヤギテレビアナウンサー、『OH\!バンデス NEWS PLUS 1』から引き続き - 2008年3月）
+  - 盛朋子（ミヤギテレビアナウンサー、『OH\!バンデス NEWS PLUS 1』から引き続き - 2008年3月\[3\]）
+
+<!-- end list -->
+
+  - 天気予報（○は仙台駅前からの中継担当、●はスタジオからの担当）
+
+<!-- end list -->
+
+  - [櫻田彩子](https://ja.wikipedia.org/wiki/櫻田彩子 "wikilink")（『OH\!バンデス NEWS PLUS 1』から引き続き - 2006年9月）○●
+  - [佐藤育美](../Page/佐藤育美.md "wikilink")（2006年10月 - 2007年3月）○●
+  - [武田玲子](../Page/武田玲子.md "wikilink")（ミヤギテレビアナウンサー、月曜 - 水曜、2007年4月 - 2008年3月）○●
+  - [浜本徳子](../Page/浜本徳子.md "wikilink")（当時ミヤギテレビアナウンサー、木曜・金曜、2007年4月 - 2008年3月）○●
+  - [古庵潤子](https://ja.wikipedia.org/wiki/古庵潤子 "wikilink")（[気象予報士](../Page/気象予報士.md "wikilink")、2008年4月 - 12月）●
+
+## 音楽
+
+### オープニング曲
+
+  - 2006年4月3日 - 2008年3月 『NNN Newsリアルタイム』5時台と同じもの
+      -
+        ※5時台オープニングの末尾部分の後ろに6時台のニュースBGMが1コーラス繋げられたものを使用していた。
+  - 2008年4月 - 2010年3月26日 [Nash Music Library](https://ja.wikipedia.org/wiki/Nash_Music_Library "wikilink") の [　NSC-SC-4808](https://www.nash.jp/fum/search/detailcollections/NSC-744) タイトル : SC-4808
+      -
+        ※2009年10月19日からはオープニングBGMがリニューアルされた。
+
+### CM前ジングル
+
+  - 2006年4月3日 - 2008年3月 『NNN Newsリアルタイム』と同じもの
+      -
+        ※ジングル末尾部分のリアルタイムコールは入っていないバージョンのものが使用されていた。
+        『OH\!バンデス』第1部・第2部休止による内包中止の場合のみ使用されていた。
+  - 2008年4月 - 2010年3月26日 [Nash Music Library](https://ja.wikipedia.org/wiki/Nash_Music_Library "wikilink") の[　NSC-SC-4611](https://www.nash.jp/fum/search/detailcollections/NSC-742) タイトル: OPENING (6)
+
+### ローカルスポーツコーナーBGM
+
+  - 放送開始不明 - 2010年3月26日 [Nash Music Library](https://ja.wikipedia.org/wiki/Nash_Music_Library "wikilink") の[　NSF-358-22](https://www.nash.jp/fum/search/detailcollections/NSF-358) タイトル : GENKI 10000%
+
+## テーマカラー・タイトルロゴ表記
+
+  - 2006年4月3日 - 2009年9月：青
+  - 2009年10月 - 2010年3月26日：オレンジ
+
+番組タイトルは、リング状で丸い番組のロゴマークの右に表記される。タイトルロゴ文章の構成は「**NEWS**」の下に「**リアル**」、その下に小さく「**<span style="font-size:80%">タイム</span>**」。タイムの横に「**<span style="font-size:80%">ミヤギ</span>**」。「**■■**」は「リアル」の右に、「**REALTIME■**」は「■■」の下に小さく表示される。
+
+  - 「」「**リアル<span style="font-size:80%">タイムミヤギ</span>**」「」「REALTIME」（2006年4月3日 - 2009年9月）
+  - 「」「**リアル<span style="font-size:80%">タイムミヤギ</span>**」「」「REALTIME」（2009年10月 - 2010年3月26日、ロゴの変更なし）
+
+## テロップ
+
+ニューステロップは『NNN Newsリアルタイム』と同じもので、番組の基調マーク（丸いロゴ）とニュースの文字が出て白い見出しを文字にはめ込むスタイルだった。2008年3月までは、人物紹介テロップのみ[ミヤギテレビ独自のものを使用していた](../Page/宮城テレビ放送.md "wikilink")。
+
+2009年10月5日から全国版『NNN Newsリアルタイム』で同年9月28日から使用を開始したオレンジ色のニューステロップを2010年3月26日（番組終了）まで使用していた。これにより、一部のテロップ出しアニメーション演出が全国版と同じになった。また、『OH\!バンデス』第1部内のニュースコーナー「柳瀬洋平の早バンリアル」でも2009年10月6日から「Newsリアルタイムミヤギ」で使用しているものと同じ全国版のニューステロップの使用を開始していた（ニューステロップ右上の「REAL TIME」の文字が「早バンリアル」に変更されていた）。
+
+火曜 - 木曜の特集コーナーのテロップも用意されており、火曜日の列島リアルは「列島リアル」、水曜のリアル特集は「リアル特集」、木曜のくらしリアルは「くらしリアル」のバージョンとなっていた。
+
+## オープニング映像
+
+タイトルがスロットになり、「**リアル<span style="font-size:80%">タイムミヤギ</span>**」と表示される。（スロットの中には「**リ**」「**ア**」「**ル**」「**タ**」「**イ**」「**ム**」の文字と「**0**」「**1**」「**2**」「**3**」「**4**」「**5**」「**6**」「**7**」「**8**」「**9**」の数字が入っている。）「**NEWS**」「REALTIME」は一度で表示される。
+
+## 脚注
+
+## 関連項目
+
+  - [NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")
+  - [NNN夕方ローカルニュース一覧](../Page/NNN夕方ローカルニュース一覧.md "wikilink")
+  - [OH\!バンデス](https://ja.wikipedia.org/wiki/OH!バンデス "wikilink")
+  - [ミヤギテレビNewsリアルタイムサタデー](../Page/ミヤギテレビNewsリアルタイムサタデー.md "wikilink")（土曜日）
+
+## 外部リンク
+
+  - [『Newsリアルタイムミヤギ』公式ページ](http://www.mmt-tv.co.jp/houdou/)
+
+[Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:宮城テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:宮城テレビ放送の番組 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:ローカル局の番組の企画](https://ja.wikipedia.org/wiki/Category:ローカル局の番組の企画 "wikilink") [Category:NNN_Newsリアルタイム](https://ja.wikipedia.org/wiki/Category:NNN_Newsリアルタイム "wikilink")
+
+1.  通常時はCMに入る際、『OH\!バンデス』のタイトルロゴが右下に表示される。
+2.  2008年3月までは月・火曜担当。
+3.  2007年4月 - 2008年3月までは水～金曜担当。

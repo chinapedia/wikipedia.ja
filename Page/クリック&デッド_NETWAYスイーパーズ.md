@@ -1,0 +1,153 @@
+> この記事は[\& NETWAY](https://ja.wikipedia.org/wiki/\&_NETWAY)から翻訳されています。
+
+
+**クリック&デッド NETWAYスイーパーズ**（-アンド-ネットウェイ-）は、[文化放送](../Page/文化放送.md "wikilink")の[アニラジ](../Page/アニラジ.md "wikilink")番組『[CLUB db](../Page/CLUB_db.md "wikilink")』内で、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月14日](../Page/6月14日.md "wikilink")から同[10月25日](../Page/10月25日.md "wikilink")にかけて放送された[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")である。タイトルは[映画](../Page/映画.md "wikilink")『[クイック&デッド](../Page/クイック&デッド.md "wikilink")』のもじり。
+
+## 概要
+
+本作は当時[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が推し進めていた[声優](../Page/声優.md "wikilink")ビジネスの一環として制作されたものだが、アニラジの枠で放送されたにもかかわらず、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[アニメ](../Page/アニメ.md "wikilink")・[ゲーム](../Page/ゲーム.md "wikilink")などを原作としておらず、またタイアップも一切おこなっていない「完全なオリジナル作品」であることが特徴である（CLUB dbにおける同様のオリジナル作品として[メモリーサイト75](https://ja.wikipedia.org/wiki/メモリーサイト75 "wikilink")が存在する）。
+
+また、アニラジで放送されるラジオドラマの多くが明るい内容であるのに対し、本作は[ネット犯罪や](../Page/クラッキング_\(コンピューター用語\).md "wikilink")[殺人](../Page/殺人.md "wikilink")・[サイバーテロ](https://ja.wikipedia.org/wiki/サイバーテロ "wikilink")などを扱ったうえ、ヒロイン達の態度も非常にシニカルなものであり、こういった面でも類を見ない作品である。[脚本](../Page/脚本.md "wikilink")は[放送作家](../Page/放送作家.md "wikilink")の[山名宏和](https://ja.wikipedia.org/wiki/山名宏和 "wikilink")が担当しており、セリフの端々には様々な作品に対する[オマージュ](../Page/オマージュ.md "wikilink")が散見される。
+
+一方で[監督](../Page/監督.md "wikilink")を小島組（現[小島プロダクション](https://ja.wikipedia.org/wiki/小島プロダクション "wikilink")）の[村田周陽](../Page/村田周陽.md "wikilink")が務め、出演者の多くもゲーム『[メタルギアソリッド](https://ja.wikipedia.org/wiki/メタルギアソリッド "wikilink")』と重複するなど、本作には『メタルギアソリッド』との共通点が見られる。ストーリーも「無線で補佐や指令を受けつつ、単独で潜入任務をこなす」というものが主体となっており、本作は後年制作された『メタルギアソリッド』のラジオドラマ版以上に[メタルギアシリーズ](../Page/メタルギアシリーズ.md "wikilink")の特徴を継承している。
+
+mission:01からmission:05までの全5巻、サウンドトラックが[キングレコード](../Page/キングレコード.md "wikilink")より発売された。また、全巻購入特典(非売品)として番外編となるmission:φAIDMAがある。
+
+## スタッフ
+
+  - 製作：池田孝治（コナミ）
+  - 監督：村田周陽（コナミ）
+  - 脚本：[山名宏和](https://ja.wikipedia.org/wiki/山名宏和 "wikilink")
+  - 演出：[岩浪美和](https://ja.wikipedia.org/wiki/岩浪美和 "wikilink")
+  - 設定：[おたっきぃ佐々木](https://ja.wikipedia.org/wiki/おたっきぃ佐々木 "wikilink")　他
+  - 音楽：[伊藤善之](https://ja.wikipedia.org/wiki/伊藤善之 "wikilink")
+  - ナレーター：[中江真司](https://ja.wikipedia.org/wiki/中江真司 "wikilink")
+  - CD版イラスト：[松本嵩春](https://ja.wikipedia.org/wiki/松本嵩春 "wikilink")
+
+## ストーリー
+
+[2001年](../Page/2001年.md "wikilink")、急速に発達した[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")は**ネットウェイ**と呼ばれ、人々の生活に深く浸透していた。一方、それにともない繰り広げられる情報犯罪に対処するため、超法規組織**CAD**が結成された。
+
+## 登場人物
+
+  - 早紀（声：[金月真美](../Page/金月真美.md "wikilink")）
+      -
+        本作ヒロインのひとり。CADの中でも実行力に優れるスイーパーで「現場担当」、いわく「肉体労働」。しかし時には頭の切れる機転の良さを見せる。
+  - 燐（声：[桑島法子](../Page/桑島法子.md "wikilink")）
+      -
+        本作ヒロインのひとり。CAD所属の天才[ハッカー](../Page/ハッカー.md "wikilink")で、無線で早紀のオペレーションや補佐をおこなう「バックアップ担当」、いわく「頭脳労働」。かつては世界を席巻する通信企業「IT\&T」の研究員だった。劇中で銃を使う場面は少ないが、CD版ジャケットイラストでは[SIG SAUER P228らしき拳銃を持っている](../Page/SIG_SAUER_P226.md "wikilink")。
+  - CP（声：[青野武](../Page/青野武.md "wikilink")）
+      -
+        mission:04〜05にのみ登場。早紀や燐に指令を与える上司で、終始非情で高圧的な態度を貫く。
+
+<!-- end list -->
+
+  - 朝比奈レポーター（声：[鉄炮塚葉子](https://ja.wikipedia.org/wiki/鉄炮塚葉子 "wikilink")）
+      -
+        TV番組制作会社「move」所属のディレクター兼突撃レポーター。
+  - 安田（声：[中井和哉](https://ja.wikipedia.org/wiki/中井和哉 "wikilink")）
+      -
+        mission:02より登場する朝比奈の助手でカメラマン。いいようにこき使われている。
+
+### ゲストキャラクター
+
+mission:01 INTERNET CULT
+
+  - 石山雄一（声：[銀河万丈](../Page/銀河万丈.md "wikilink")）
+      -
+        新興宗教「ネットウェイ・ヒーリング・ソサエティ」のマスター（教祖）だった。
+  - 平沢京子（声：[原亜弥](https://ja.wikipedia.org/wiki/一龍斎貞弥 "wikilink")）
+      -
+        「ネットウェイ・ヒーリング・ソサエティ」のブランチ（在家信者）。
+  - 墨田（声：[曽我部和恭](https://ja.wikipedia.org/wiki/曽我部和恭 "wikilink")）
+      -
+        「ネットウェイ・ヒーリング・ソサエティ」のストック（出家信者）。
+  - 三田村（声：[島田敏](../Page/島田敏.md "wikilink")）
+      -
+        「ネットウェイ・ヒーリング・ソサエティ」のサブマスター。石山に次ぐ次代のマスターとも言われている。
+
+mission:02 VIRTUAL IDOL
+
+  - アーニー（声：[菊池志穂](https://ja.wikipedia.org/wiki/菊池志穂 "wikilink")）
+      -
+        15歳の少女にして天才ハッカー。その才能ゆえ犯罪に悪用される。
+  - エリナ（声：[氷上恭子](https://ja.wikipedia.org/wiki/氷上恭子 "wikilink")）
+      -
+        「フィジックスプロダクション」所属。ネットウェイ上で絶大な人気を誇る[バーチャルアイドル](../Page/バーチャルアイドル.md "wikilink")。そのデータはネット上に流出し、ファンたちが勝手に加工して「自分だけのエリナ」を作り出している。
+  - 五十嵐（声：[中尾みち雄](../Page/中尾みち雄.md "wikilink")）
+  - ハッカー（声：[山田真一](../Page/山田真一_\(声優\).md "wikilink")）
+  - キャスター（声：[井上隆之](../Page/井上隆之.md "wikilink")）
+  - 管制官リーダー（声：[稲田徹](https://ja.wikipedia.org/wiki/稲田徹 "wikilink")）
+
+mission:03 STALKING HACKER
+
+  - 須藤沙由梨（声：[笠原弘子](../Page/笠原弘子.md "wikilink")）
+      -
+        [精神科医](https://ja.wikipedia.org/wiki/精神科医 "wikilink")で、特に情報化社会を見据えた治療に携わる。
+  - 倉橋マリエ（声：[江森浩子](https://ja.wikipedia.org/wiki/江森浩子 "wikilink")）
+      -
+        須藤の患者。
+  - 岬康之（声：[小杉十郎太](https://ja.wikipedia.org/wiki/小杉十郎太 "wikilink")）
+      -
+        開業医で、ネットウェイを利用した精神科医の情報ネットワーク構築に携わる。
+  - 藤村チーフ（声：[平野正人](https://ja.wikipedia.org/wiki/平野正人 "wikilink")）
+      -
+        かつて燐が所属していたC2Dプロジェクトのチーフ。燐の元上司。
+
+mission:04 CRACKER
+
+  - 芹沢（声：[風間信彦](../Page/風間信彦.md "wikilink")）
+      -
+        「move」取材ヘリコプターのパイロット。
+  - 船長（声：稲田徹）
+      -
+        クラッキングの標的となったタンカーの船長。
+  - 機長（声：[西脇保](../Page/西脇保.md "wikilink")）
+      -
+        クラッキングの標的となった旅客機の機長。
+  - クラッカー（声：[沼田祐介](https://ja.wikipedia.org/wiki/沼田祐介 "wikilink")）
+      -
+        交通ネットワークをクラッキングし、都市を破滅的混乱に陥れる。
+
+mission:final INFORMATION WAR
+
+  - ヒムラ（声：[田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")）
+      -
+        元CADのエージェント。Q国に雇われ、かつての古巣に対して復讐を図る。
+  - カイ（声：[松野太紀](https://ja.wikipedia.org/wiki/松野太紀 "wikilink")）
+      -
+        ヒムラの現在のパートナー。
+  - シリー
+      -
+        Q国から破壊工作のために雇われたハッカーらしい。
+  - 並木（声：[田中和実](https://ja.wikipedia.org/wiki/田中和実 "wikilink")）
+      -
+        軍事評論家。Q国からの不可解な宣戦布告、そして「インフォメーション・ウォー」について、ニュースでコメントする。
+
+## 用語
+
+  - ネットウェイ (NETWAY)
+    世界各国の通信事業体は、1999年に国の枠を超えて合併。「IT\&T」と呼ばれる巨大な組織となった。それを機に、それまで「インターネット」と呼ばれていた通信網は、「ネットウェイ」とその呼び名を変えることとなった。
+  - CAD (CASTRATE ANONYMOUS DISORGANISERS)
+    ネットウェイ犯罪に対処するために結成された国際的機関。その存在は極秘とされている。スイーパーと呼ばれる実行チームを幾つか抱えており、それぞれのチームはナビゲーターと作戦実行の二人一組が基本。状況によっては犯人のデリートも許されるが、それを独断で実行しよいのは一部のスイーパーのみである。
+  - ネットウェイ・ヒーリング・ソサエティ (NHS)
+    元は発達したネット社会に適応しきれない人をカウンセリングする目的で石山雄一が作成したサイト。ネットウェイの普及と共に会員数は増えていき、「ネットウェイ・ヒーリング・ソサエティ」として組織化した。石山は「ネットウェイ社会の教祖的存在」と言われているが、彼はあくまで起業家でしかなく、彼自身もその呼ばれ方に否定的である。ただ、その本部ビルがピラミッド型をしていたりと、[宗教](../Page/宗教.md "wikilink")じみてきていることも事実である。
+    石山は「マスター」と呼ばれ、その下に本部ビル内で暮らす「ストック」と在宅勤務である「ブランチ」という二種類の会員を持つ。ブランチは実績などによりストックへの昇格もある。
+  - C to D (C to Diamond)
+    IT\&Tで研究されていた[データ圧縮](../Page/データ圧縮.md "wikilink")プロジェクトのコード名。当時在籍していた燐が担当をしていた。「[炭素](https://ja.wikipedia.org/wiki/炭素 "wikilink")を[ダイヤモンド](../Page/ダイヤモンド.md "wikilink")に」の意味で、その圧縮率の高さを表している。[遺伝子治療](https://ja.wikipedia.org/wiki/遺伝子治療 "wikilink")に関するデータをやりとりする時間を短縮することが目的であったが、あまりにその圧縮率が高すぎたため、ネット回線の使用料を主要な収益としていたIT\&Tにとって不都合であるとしてチームは解散された。これは、当時のインターネットサービスが、現在のような定額制ではなく、上下限はあったにせよ従量課金制だったことに理由する設定だと思われる。
+
+## 歌曲
+
+  - オープニングテーマ『HERE』 作詞:[岸恭子](https://ja.wikipedia.org/wiki/岸恭子 "wikilink") / 作編曲:HAL / 歌:金月真美
+  - エンディングテーマ『CRYIN'』 作詞:江口隆之 / 作曲:江口隆之、鈴木捺浩 / 編曲:[入江純](https://ja.wikipedia.org/wiki/入江純 "wikilink") / 歌:S://Bros(榎口夢人・Nazo<sup>2</sup> Project)
+  - サブテーマ『Blue in the Blue』 作詞:[川村真澄](https://ja.wikipedia.org/wiki/川村真澄 "wikilink") / 作曲:[樫原伸彦](https://ja.wikipedia.org/wiki/樫原伸彦 "wikilink") / 編曲:[米光亮](../Page/米光亮.md "wikilink") / 歌:金月真美
+  - mission:02挿入歌『好きだからサヨウナラ』 作詞:川村真澄 / 作曲:[鶴由雄](https://ja.wikipedia.org/wiki/鶴由雄 "wikilink") / 編曲:米光亮 / 歌:氷上恭子
+  - キャラクターイメージソング『夢を見ちゃいけない』 作詞:川村真澄 / 作曲:[新澤健一郎](https://ja.wikipedia.org/wiki/新澤健一郎 "wikilink") / 編曲:米光亮 / 歌:笠原弘子
+  - キャラクターイメージソング『Private Beach』 作詞:川村真澄 / 作曲:樫原伸彦 / 編曲:米光亮 / 歌:金月真美
+  - mission:05イメージソング『遠くへ行こう』 作詞作曲:[上田まり](../Page/上田まり.md "wikilink") / 編曲:[岩崎文紀](../Page/岩崎文紀.md "wikilink") / 歌:桑島法子 ※上田まりの同名曲をカバーしたもの
+
+## 豆知識
+
+CD版mission:05のジャケット、バックインレイの裏面に秘密がある。
+
+[Category:文化放送A\&Gゾーン](https://ja.wikipedia.org/wiki/Category:文化放送A&Gゾーン "wikilink") [Category:文化放送のラジオドラマ](https://ja.wikipedia.org/wiki/Category:文化放送のラジオドラマ "wikilink") [Category:1997年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のラジオ番組_\(日本\) "wikilink") [Category:1997年のラジオドラマ](https://ja.wikipedia.org/wiki/Category:1997年のラジオドラマ "wikilink") [Category:コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/Category:コナミデジタルエンタテインメント "wikilink")

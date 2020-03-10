@@ -1,0 +1,25 @@
+> この記事は[BOY+2](https://ja.wikipedia.org/wiki/BOY+2)から翻訳されています。
+
+
+『**BOY+愛<sup>2</sup>**』（ボーイプラスあいのじじょう）は[1988年](../Page/1988年.md "wikilink")8月に発売された[山川純一](https://ja.wikipedia.org/wiki/山川純一 "wikilink")の[単行本](../Page/単行本.md "wikilink")「ワクワクBOY」に収録されている一話完結の漫画である。
+
+## あらすじ
+
+体育教師の富岡健二はとある人物に宛てた[手紙](https://ja.wikipedia.org/wiki/手紙 "wikilink")の中で、自分が[少年愛者になったきっかけを以下に書き綴る](../Page/少年性愛.md "wikilink")。健二が小学5年生の時、とある教室で[教頭](../Page/教頭.md "wikilink")先生と体育教師であるY先生の[ホモ・セックスを見てしまう](https://ja.wikipedia.org/wiki/アナルセックス "wikilink")。教頭は行為を終え退出し、その後Yの[後戯](https://ja.wikipedia.org/wiki/後戯 "wikilink")に魅入っていた健二はYに見つかってしまう。Yの肉体に見惚れている健二の前でYは[自慰](https://ja.wikipedia.org/wiki/自慰 "wikilink")行為をし始め、このことがきっかけで健二とYは恋仲となる。しかし、しばらくするとYは健二を避けるようになる。それはYがとある[転校生](https://ja.wikipedia.org/wiki/転校生 "wikilink")に[浮気](https://ja.wikipedia.org/wiki/浮気 "wikilink")をしているのが原因だった。苦悩する健二は、Yと転校生のホモセックスを目撃してしまい、怒り心頭に発する。それから数日間の記憶は健二には無いが、Yは屋上から[飛び降り](https://ja.wikipedia.org/wiki/飛び降り "wikilink")自殺をしてしまう。手紙を書き終えた健二の下に恋仲である教え子が性行為を求めてくる。しかし健二はその少年に魅力を感じなくなってきていた。少年との性行為中に健二は「何故Yは自分を捨てたのか」、その原因を悟った。
+
+## 登場人物
+
+  - 富岡健二（とみおか けんじ）
+    小学校の体育教師。23歳。小学5年生の時にYと関係を持ったことで、性の知識と同性愛の知識を得る。Yと転校生との行為を目撃してからの数日間の記憶が無いが、Yの自殺の原因となる行為をした様子。Yとの関係がきっかけで自身も少年愛者となった。小学校教師を目指したのは、少年が沢山いる天国の様な環境だから。
+  - Y先生
+    若い体育教師。[ゲイ](../Page/ゲイ.md "wikilink")かつ少年愛者である。転校生との行為を健二が目撃した数日後、飛び降り自殺する。
+  - 転校生
+    健二と同級生の転校生。Yと関係を持つが、Yの自殺後、心を閉ざして無口な性格に変わってしまう。
+  - 教頭
+    健二が小学5年生の時に目撃したYの[セックス相手](https://ja.wikipedia.org/wiki/アナルセックス "wikilink")。彼とYのセックスを目撃したことが、Yと関係を持つきっかけとなった。
+
+## 関連項目
+
+  - [山川純一](https://ja.wikipedia.org/wiki/山川純一 "wikilink")
+
+[Category:漫画作品_ほ](https://ja.wikipedia.org/wiki/Category:漫画作品_ほ "wikilink") [Category:山川純一](https://ja.wikipedia.org/wiki/Category:山川純一 "wikilink") [Category:少年愛作品](https://ja.wikipedia.org/wiki/Category:少年愛作品 "wikilink")

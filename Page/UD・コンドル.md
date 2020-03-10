@@ -1,0 +1,316 @@
+> この記事は[UD](https://ja.wikipedia.org/wiki/UD)から翻訳されています。
+
+
+**コンドル** (CONDOR) は[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（2010年1月31日までは日産ディーゼル工業）が販売する中型、及び小型トラックである。
+
+## 概要
+
+中型車は[2017年](../Page/2017年.md "wikilink")登場の5代目から[いすゞ・フォワード](../Page/いすゞ・フォワード.md "wikilink")のOEM車になっているが、4代目までは自社で生産されていた。過去には小型トラックのコンドル20/30/35、コンドル10/15（[2007年](../Page/2007年.md "wikilink")以降からは名称が「コンドル小型トラック」に統一）やコンドルのシャシーに[アトラス20系のキャブを載せた中型トラックのコンドルS](../Page/日産・アトラス.md "wikilink")/コンドルSS（いずれも絶版）も存在した。
+
+自社生産時代には、[2002年](../Page/2002年.md "wikilink")に世界で初めて電気エネルギーの蓄積に[電気二重層コンデンサ](https://ja.wikipedia.org/wiki/電気二重層コンデンサ "wikilink")を用いた、[パラレルハイブリッド方式の](https://ja.wikipedia.org/wiki/ハイブリッドカー#パラレル方式 "wikilink")「キャパシタハイブリッド」を発表。[日野自動車](../Page/日野自動車.md "wikilink")との間で、キャパシタハイブリッドの技術供与と、日野製[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")供給の提携契約も行われ、これに伴い[2004年](../Page/2004年.md "wikilink")から中型車のエンジンは[日野自動車](../Page/日野自動車.md "wikilink")製となっていたが、4代目から自社製に回帰し、4代目の生産終了まで搭載された。
+
+## 歴史
+
+### 初代（1975年-1983年）
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Nissan_Diesel_Condor_003.JPG "wikilink")
+
+  - [1975年](../Page/1975年.md "wikilink")5月
+    登場。エンジンはED6型（渦流室式）。
+    同時に、パワートレインや足回りの一部を共有する中型[バス](https://ja.wikipedia.org/wiki/日本のバス車両 "wikilink")、[RM90も発表されている](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")。
+
+キャブの基本骨格は[Cシリーズと共通している](https://ja.wikipedia.org/wiki/日産ディーゼル・Cシリーズ "wikilink")。テールランプは長方形の橙／赤の2色タイプ（サングレイトと同じ）で、赤レンズに丸いリフレクターがあった。
+
+  - [1976年](../Page/1976年.md "wikilink")10月
+    パワーステアリング付車を追加。
+  - [1977年](../Page/1977年.md "wikilink")4月
+    直噴ターボエンジン車「コンドルGF」を追加。エンジンはFD6（T）を搭載。パワーステアリングやクーラーを標準装備していた。
+  - [1979年](../Page/1979年.md "wikilink")2月
+    マイナーチェンジ。NAエンジンをED6型からFD6型に変更し、[昭和54年排出ガス規制](https://ja.wikipedia.org/wiki/昭和54年排出ガス規制 "wikilink")適合。キャブデザインも変更される。キャッチコピーは「いま、男のドラマが始まる。」テールランプが角型に変更されたのはこのモデルからである。
+  - 1979年6月
+    6t積クラス「コンドル6」を追加。FD6（T）エンジンと6速トランスミッションを搭載していた。
+  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")10月
+    Cシリーズのキャブを流用したワイドキャブを追加。同年12月にはコンドル6にもワイドキャブが追加された。
+  - [1981年](../Page/1981年.md "wikilink")
+    マイナーチェンジ。フロント部分の「NISSAN DIESEL」のロゴが変更される。
+
+初代のコンドルにはフロントホイールのセンター部分に「UD」の刻印が入っていた。
+
+### 2代目　通称さわやかコンドル（1983年-1993年）
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Nissan_Diesel_Condor_CM.jpg "wikilink")
+
+  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")5月
+    登場。昭和58年排出ガス規制適合。キャブの基本骨格は大型車と共通では無く、コンドル専用設計になる。この頃のUD特有の四角いバックランプはフォグランプの流用で、クリアレンズになっている以外はフォグと同じである。
+  - [1984年](../Page/1984年.md "wikilink")12月
+    一部改良。外観では運転席側のミラーを変更。グリルの回り込んだ部分にサイドディフレクターを追加。エンジンを無過給のFE6（B）型と直噴式ターボのFE6（C）型に変更。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")5月
+    5t積クラス「コンドル5」を追加。
+  - 1985年7月
+    7t積クラス「コンドル7」を追加。
+  - [1988年](../Page/1988年.md "wikilink")7月
+    マイナーチェンジ。内外装を変更。サイドディフレクターに[コーナリングランプ](https://ja.wikipedia.org/wiki/コーナリングランプ "wikilink")を新設。前期型ではそれぞれ独立していた[排気ブレーキ](https://ja.wikipedia.org/wiki/排気ブレーキ "wikilink")と[ワイパー](../Page/ワイパー.md "wikilink")のレバーがマルチユースレバー1本に集約された。新開発インタークーラーターボエンジン・FE6TAを設定。キャッチコピーは「Big Change」。
+  - [1989年](../Page/1989年.md "wikilink")
+    ABSを設定。
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")4月
+    マイナーチェンジ。フロントグリルとミラー形状を変更。エンジンを5PSアップするとともに平成元年排出ガス規制適合。[通称](../Page/通称.md "wikilink")「ハイパーコンドル」と名乗る。
+
+ファイル:Tatebayashi-kagaku.jpg|中期型（大型車仕様） ファイル:Condorfe-interior.jpg|後期型車内（4速ATはオプション） ファイル:Nissan Diesel Condor with Crean,.jpg ファイル:Sagawa Express UD Condor MK.jpg
+
+### 3代目　通称ファインコンドル（1993年-2011年）
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Nissan_Diesel_Condor_001.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:MPD-dengensha.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Condor-doublecab.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:UD-carriercar.jpg "wikilink")
+
+  - [1993年](../Page/1993年.md "wikilink")1月
+    登場。この代は[ビッグサムとの部品共通化を図ったキャブになり](../Page/日産ディーゼル・ビッグサム.md "wikilink")、再び大型車と基本骨格が同じになる。上級グレードの名称が2代目のエクストラからカスタムに変更された。
+  - [1994年](../Page/1994年.md "wikilink")
+    4WD車を追加。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")2月
+    マイナーチェンジ。フロントグリルを変更し、同年より採用した新タイプのNISSAN DIESELロゴとUDエンブレムを装着した。平成6年排出ガス規制適合。また、FE6TB型を260psに向上した。
+  - [1996年](../Page/1996年.md "wikilink")9月
+    CNG車追加。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")4月
+    ショートキャブ（**コンドルZ**）登場。コンドルSSも並行して2004年まで生産される。
+  - 1997年8月
+    マイナーチェンジ。キャブの内外装を変更されるとともに、サイドドアビームと衝撃吸収式ステアリングを標準装備。全車に運転席SRS[エアバッグ](https://ja.wikipedia.org/wiki/エアバッグ "wikilink")もメーカーオプション設定された。
+  - 1997年10月
+    低床3軸・10t積のPWを追加。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")8月
+    低床4WD車が発売される。
+  - [1999年](../Page/1999年.md "wikilink")4月
+    マイナーチェンジ。逆台形の大型フロントグリルを採用するとともに、平成10年排出ガス規制に適合される。
+  - [2000年](../Page/2000年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")
+    [アリソン・トランスミッション](https://ja.wikipedia.org/wiki/アリソン・トランスミッション "wikilink")製5速[オートマチックトランスミッション](../Page/オートマチックトランスミッション.md "wikilink")搭載車を設定。
+  - 2000年[3月15日](../Page/3月15日.md "wikilink")
+    MKシリーズに[炭素繊維](../Page/炭素繊維.md "wikilink")[複合材](https://ja.wikipedia.org/wiki/複合材 "wikilink")を用いた[ウィングボディ](https://ja.wikipedia.org/wiki/ウィングボディ "wikilink")車を設定。従来のアルミウィング車に比べて250kgの軽量化が図られ、最大積載量4000kgを実現した。（[東レ](https://ja.wikipedia.org/wiki/東レ "wikilink")＋[浜名ワークス](https://ja.wikipedia.org/wiki/浜名ワークス "wikilink")製）
+  - 2000年[5月19日](../Page/5月19日.md "wikilink")
+    FU6型エンジンを搭載するCNG車をマイナーチェンジ。エンジン出力を向上し、標準車に先立ち、内外装の一新が行われた。
+  - 2000年[5月23日](../Page/5月23日.md "wikilink")
+    マイナーチェンジ。全車にABSと運転席SRSエアバッグが標準装備された。
+  - 2000年[12月12日](../Page/12月12日.md "wikilink")
+    FU6型エンジンを搭載するCNG車に5速ATを採用したモデルを追加。
+  - [2002年](../Page/2002年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")
+    一部改良。フロントリッドグリル上部の塗装色をジャンピングホワイトに変更した。平成13年騒音規制適合。
+  - 2002年[5月28日](../Page/5月28日.md "wikilink")
+    CNG車を一部改良。車両重量を軽減したほか、フロントリッドグリル上部の塗装色をジャンピングホワイトに変更した。
+  - 2002年[6月24日](../Page/6月24日.md "wikilink")
+    FE6型エンジンを搭載し、世界初となるキャパシターハイブリッドトラックを追加。モーターの駆動方式はパラレル式をとった。また、大型車に利用される機械式オートマチックトランスミッションを中型車では初めて採用した。同年10月4日には最初の納車先となる[日本通運](https://ja.wikipedia.org/wiki/日本通運 "wikilink")八王子支店に配置された。また、翌年度の年度[省エネ大賞](https://ja.wikipedia.org/wiki/省エネ大賞 "wikilink")においては最高賞となる経済産業大臣賞を受賞した。
+  - [2003年](../Page/2003年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")
+    9tクラスのPK系にエアサス車を追加。
+  - 2003年[4月21日](../Page/4月21日.md "wikilink")
+    CNG車を改良。燃料容器の容量を増大した。
+  - [2004年](../Page/2004年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")
+    マイナーチェンジ。エンジンを日野自動車製[J07E/J08E型エンジンに変更して平成](../Page/日野・J型エンジン.md "wikilink")15年排出ガス規制に適合し、CIも変更した。
+    ウインカーとフォグは一体型になった。これは[いすゞ・342フォワード](../Page/いすゞ・フォワード.md "wikilink")、[日野・スペースレンジャーとも共通である](../Page/日野・レンジャー.md "wikilink")。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")
+    J08C型エンジンを搭載するCNG車のカーゴ系・塵芥系に5速オートマチックトランスミッションをオプション設定。
+  - 2006年[11月7日](../Page/11月7日.md "wikilink")
+    一部改良。新長期規制に適合。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月10日](../Page/6月10日.md "wikilink")
+    一部改良。GVW11tの中型免許対応車を追加。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月23日](../Page/8月23日.md "wikilink")
+    4代目が登場した後も、MK（4t）とLK（5t）が暫くの間継続販売。
+  - [2011年](../Page/2011年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")
+    4代目にMKとLKが登場したため3代目全車種の販売が終了。ただし海外向けの生産は2016年現在でも継続中。
+
+<!-- end list -->
+
+  -
+    モデル末期には「UD TRUCKS」のエンブレムと新CIが装着されたが、総合カタログ（一部特装車の物を除く）やホームページの製品紹介の写真は最後まで旧社名「NISSAN DIESEL」のままだった。
+
+{{-}}
+
+### 4代目 通称フレンズコンドル（2010年-2017年）
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:UD_Condor_MK.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:MPD-Condor4th.jpg "wikilink")
+
+  - 2010年4月20日
+    8トンクラスモデル（PK）の開発を先行発表。2010年度内に日本で発売を開始し、2010年秋に米国でも販売予定。国内外向け共に上尾工場で生産する予定と発表された。
+  - 2010年8月23日
+    登場。PK（9tクラス）とPW（12tクラス）がフルモデルチェンジ。その他のモデルは3代目を継続販売。
+    [大型トラック・クオンとキャブの部品の大部分を共用し](https://ja.wikipedia.org/wiki/UDトラックス・クオン "wikilink")、エンジンは自社開発・生産の[GH7エンジンを搭載](https://ja.wikipedia.org/wiki/UDトラックス・GH系エンジン "wikilink")。クオンに採用された尿素SCRシステム「FLENDS（フレンズ）」をコンドルに初めて採用し、[NOxを低減](../Page/窒素酸化物.md "wikilink")。同時にポスト新長期排出ガス規制に適合。車名フォントもクオンと同デザイン「**Condor**」に一新された。また、当代モデルのみ、[排気ブレーキ](https://ja.wikipedia.org/wiki/排気ブレーキ "wikilink")レバーのONのポジションが、従来の引き下げる位置（[日野](../Page/日野自動車.md "wikilink")・[いすゞと同様](../Page/いすゞ自動車.md "wikilink")）から押し上げる位置（[三菱ふそうと同様](https://ja.wikipedia.org/wiki/三菱ふそうトラック・バス "wikilink")）に変更された。
+  - 2010年11月22日
+    8tクラスのPKを追加。
+  - 2011年7月11日
+    4tクラスのMK、5～6tクラスのLKを追加。新たにGH5エンジン（LKフルキャブにはGH7も設定）を搭載。
+  - 2017年7月
+    販売終了。42年2か月に渡るコンドル自社生産の歴史に幕を下ろした。
+
+{{-}}
+
+### 5代目（2017年-）
+
+[UD_trucks_Condor_(5th_Gen).png](https://ja.wikipedia.org/wiki/File:UD_trucks_Condor_\(5th_Gen\).png "fig:UD_trucks_Condor_(5th_Gen).png")
+
+  - 2017年7月28日
+    [いすゞ自動車](../Page/いすゞ自動車.md "wikilink")から[フォワードの](../Page/いすゞ・フォワード.md "wikilink")[OEM](../Page/OEM.md "wikilink")車でフルモデルチェンジ。フォワードとは異なり、ヘキサゴングリルを採用。ラインナップはGVW7.5t・GVW8t・GVW11tがMK/LKシリーズとして、GVW14.5t・GVW16tがPKシリーズとしてそれぞれ発売される。搭載エンジンはMK/LKは[4HK1-TCC（190ps）・4HK1-TCS（210ps）・4HK1-TCH（240ps）の](../Page/いすゞ・H系エンジン.md "wikilink")3種類が設定されているが、PKは4HK1-TCH（240ps）のみ搭載される。また、[プリクラッシュブレーキ](https://ja.wikipedia.org/wiki/衝突被害軽減ブレーキ "wikilink")、[ミリ波](../Page/ミリ波.md "wikilink")車間ウォーニング、 LDWS（車線逸脱警報）、ESC（電子式車両姿勢制御システム）を全車（全駆除く）に設定している。[セミオートマチックトランスミッション](../Page/セミオートマチックトランスミッション.md "wikilink")車は[スムーサーFxの名称は商標権の関係で使用されずに単にAMTと称する](https://ja.wikipedia.org/wiki/スムーサー_\(変速機\)#スムーサーF "wikilink")。GVW20t車は当初はOEM供給されていなかったが、後にPWとして追加供給された。GVW20t車のエンジンは、フォワード同様に4HK1-TCH（240ps）・6NX1-TCN（310ps）の2種類を設定している。
+
+{{-}}
+
+## コンドルS/コンドルSS
+
+### 初代（1988年-1992年）
+
+  - 1988年
+
+登場。コンドル初のベッドレス車で、[いすゞ・フォワード](../Page/いすゞ・フォワード.md "wikilink")ジャストン、[三菱ふそう・ファイター](https://ja.wikipedia.org/wiki/三菱ふそう・ファイター "wikilink")ミニヨン、[日野・デーキャブレンジャーがライバルとなる](../Page/日野・レンジャー.md "wikilink")。
+
+### 2代目（1992年-1997年）
+
+  - 1992年
+
+アトラスのモデルチェンジに伴い登場。
+
+  - 1994年
+
+マイナーチェンジ。フロントグリル、エンブレムを変更し、超軽量仕様4.6t車のコンドルSSを追加。キャッチコピーは「新発想・中型トラック」。CMには[相田翔子](https://ja.wikipedia.org/wiki/相田翔子 "wikilink")を起用。
+
+  - 1997年にファインコンドルをショートキャブ化したコンドルZが登場するが、コンドルSSも並行して2004年まで生産されていた。
+
+## 2トン系
+
+### 初代（1981年-1991年）
+
+  - 1981年12月
+    [バイソンの後継車種として日産ディーゼル](../Page/日産ディーゼル・バイソン.md "wikilink")・コンドル20/30を発売（H40型）。[日産・アトラス](../Page/日産・アトラス.md "wikilink")200/300の兄弟車。
+  - 1982年12月
+    昭和57年排出ガス規制対応。
+  - 1983年1月
+    FD33Tエンジン搭載車及び保冷車新設。
+  - 1984年6月
+    一部改良。FD33エンジン及びエクストラパック新設。
+  - 1986年11月
+    マイナーチェンジ。フロントグリルの造形を変更。エンジンは、SD25からTD27に、FD33からFD35にそれぞれ変更。左右のドアに「UD」マークのエンブレムが付く。
+
+### 2代目（1991年-1995年）
+
+  - 1991年10月
+    S41型発売（コンドル35は1992年）、日産ディーゼルブランドとして発売。輸出向けには2016年現在も販売されている。キャッチコピーは「敏感2トン」。CMには[かとうれいこ](https://ja.wikipedia.org/wiki/かとうれいこ "wikilink")を起用。
+  - 1993年10月
+    一部改良。標準キャビンハイルーフ仕様とセミロングホイールベース車を追加。エンジンは新たに過流室式ディーゼルのED35型を設定。また、ウレタン製ハンドルを全車標準装備化した。
+
+### 3代目 コンドル20/30/35（1995年-2007年）
+
+[right](https://ja.wikipedia.org/wiki/ファイル:3rd_generation_NISSAN_DIESEL_CONDOR_2t_series.jpg "wikilink")
+
+  - 1995年
+    登場。5代目[いすゞ・エルフ](https://ja.wikipedia.org/wiki/いすゞ・エルフ "wikilink")のOEM車となる。積載量2t車は「コンドル20」、3t車は「コンドル30」、3.5t車は「コンドル35」となった。通称「コンドル太郎」。
+  - 2000年[8月10日](../Page/8月10日.md "wikilink")
+    4.3L 4HF1型エンジンを搭載するコンドル20/30のCNG車を改良。ロングボディ車の燃料容器の容量を増大し、全車の燃料容器の搭載方法変更により架装性を向上し、荷台床面地上高を低減したほか、全車に電磁式リターダが標準採用され、新たに冷凍車専用シャシが設定された。
+    同時に4HG1型エンジンを搭載するコンドル20の低型4WD車についても、フルスーパーローダンプに4ナンバー車が追加されたほか、エンジン搭載位置の変更により荷台内寸法を増大した。また、クラッチフリーも標準採用となった。
+  - 2001年[1月18日](../Page/1月18日.md "wikilink")
+    コンドル20/30に4HG1-LPGエンジンを搭載するLPG車を追加。
+  - 2001年[1月29日](../Page/1月29日.md "wikilink")
+    一部改良。一部車種を除き、デュアルモードMTおよびABSを標準装備とした。また、3t車には規制緩和に対応した4ナンバー車を追加した。
+  - 2002年[6月13日](../Page/6月13日.md "wikilink")
+    改良を行い、環境性能を向上したほか、フロントグリルが変更され、フロントバンパーのボディ同色化が行われた。
+  - 2004年[6月18日](../Page/6月18日.md "wikilink")
+    マイナーチェンジ。フロントデザインが一新され、同時にCIが変更された。
+  - 2005年[5月18日](../Page/5月18日.md "wikilink")
+    CNG車を改良。搭載するエンジンを4.3Lエンジンから4HV1型 4.6Lエンジンに変更した。
+
+### 4代目（2007年-2014年）
+
+[NISSAN_DIESEL,_CONDOR,_Semi-wide-cab_type,_Nippon_Express_(NITTSU).jpg](https://ja.wikipedia.org/wiki/File:NISSAN_DIESEL,_CONDOR,_Semi-wide-cab_type,_Nippon_Express_\(NITTSU\).jpg "fig:NISSAN_DIESEL,_CONDOR,_Semi-wide-cab_type,_Nippon_Express_(NITTSU).jpg")
+
+  - [2007年](../Page/2007年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")
+    フルモデルチェンジ。引き続きエルフのOEMとなる。
+  - 2007年[3月5日](../Page/3月5日.md "wikilink")
+    標準キャブ、セミワイドキャブ車を追加。エンジンは4JJ1-TCS型を搭載する。
+  - 2007年[8月9日](../Page/8月9日.md "wikilink")
+    CNG車をフルモデルチェンジ。エンジンは旧モデルと同じ4HV1型エンジンを搭載した。
+  - 2009年[5月11日](../Page/5月11日.md "wikilink")
+    一部改良。標準幅キャブにドアサイドターンランプを追加し平成22年4月に改正される灯火器規制に対応したほか、平成27年度重量車燃費基準達成車を拡大。
+  - 2011年9月26日
+    一部改良。CNG車以外のエンジンを全て3.0Lの4JJ1-TCS型に換装。UDトラックスの新CIも装着され、車名フォントも「**CONDOR**」から、中型モデルと同様（クオンと同じ書体）の「**Condor**」に変更。
+  - 2012年4月26日
+    一部改良。平成21年基準低排出ガス車の認定取得に加え平成27年度重量車燃費基準を達成し、適応車は[エコカー減税](https://ja.wikipedia.org/wiki/エコカー減税 "wikilink")による自動車重量税の減税の対象に。また、後方からの追突時に乗用車が車両の下に潜り込むことを防止するRUPD（リヤアンダーランプロテクションデバイス）を強化させ、安全性を向上。
+  - 2014年9月11日
+    後継車となる[カゼットを発売](https://ja.wikipedia.org/wiki/UD・カゼット "wikilink")。[三菱ふそう・キャンター](https://ja.wikipedia.org/wiki/三菱ふそう・キャンター "wikilink")のOEMとなる。
+
+## 1トン系
+
+### 初代 F23型（1995年-2007年）
+
+  - 1995年6月
+    [アトラスF](../Page/日産・アトラス.md "wikilink")23型車のマイナーチェンジと同時に設定される。通称「コンドル次郎」。日産ブランドとなる。アトラスとの相違点は、フロントウインドシールドの「NISSAN」の文字がアトラスの中央に対し、コンドルは左端。また、日産のCIマークが装着されない。
+  - 1997年8月
+    1.5トン系にQD32型を追加。A/T車設定車種が拡大される。
+  - 1999年6月
+    マイナーチェンジ。内外装の意匠変更のほか、搭載エンジンのうち、ガソリンエンジンを[NA20Sから](https://ja.wikipedia.org/wiki/日産・NAエンジン "wikilink")[KA20DE型に変更](https://ja.wikipedia.org/wiki/日産・KAエンジン "wikilink")。運転席[エアバッグ](https://ja.wikipedia.org/wiki/エアバッグ "wikilink")がメーカーオプションで設定される。
+  - 2002年8月
+    一部改良、全車平成12・13年騒音規制に対応化、[パワーウインドウ](https://ja.wikipedia.org/wiki/パワーウインドウ "wikilink")、[タコメーター](https://ja.wikipedia.org/wiki/タコメーター "wikilink")等の標準装備、オートマチック車のシフトポジションインジケーターの採用、リモートコントロールエントリーシステムのオプション設定など。また[排気ブレーキ](https://ja.wikipedia.org/wiki/排気ブレーキ "wikilink")使用時にもブレーキランプが点灯されるように変更された。同時に日産の新しいCIマークが装着され、従来「NISSAN」の文字があった部分は、同時に改良が行われたアトラスと同様に、[NE-01](https://ja.wikipedia.org/wiki/NE-01 "wikilink")書体の「**CONDOR**」の車名に変更された。
+  - 2003年8月
+    KA20エンジンのG-LEV化がされる。
+  - 2004年8月
+    一部改良。[QD32型エンジンを改良](../Page/日産・QDエンジン.md "wikilink")。装備を向上させる。
+
+### 2代目 F24型（2007年-2013年）
+
+  - 2007年[7月20日](../Page/7月20日.md "wikilink")
+    日産自動車との合弁会社・[日産ライトトラック](../Page/日産ライトトラック.md "wikilink")の開発で、日産アトラスと共にフルモデルチェンジ。1.5tおよび2t車が用意され、[ZD30DDTi](../Page/日産・ZDエンジン.md "wikilink")、[QR20DE型エンジンを搭載する](../Page/日産・QRエンジン.md "wikilink")。「NISSAN DIESEL」ブランドとなり、ドア下部には久々に「UD」マークを装着、「CONDOR」の車名フォントもNE-01書体から従来の物（2/3トン車と同様）に戻された。
+  - 2009年[8月26日](../Page/8月26日.md "wikilink")
+    平成27年度重量車燃費基準達成車を設定し、環境対応車普及促進税制に適応させた。
+  - 2011年3月
+    生産元を、UDトラックスから[オートワークス京都](https://ja.wikipedia.org/wiki/オートワークス京都 "wikilink")に変更する。
+  - [2011年](../Page/2011年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")
+    1.15t～1.5ｔ系に搭載されるZD30DDTiエンジンを改良し、[平成22年排出ガス規制](https://ja.wikipedia.org/wiki/平成22年排出ガス規制 "wikilink")に適合するとともに平成22年基準排出ガス[PM](https://ja.wikipedia.org/wiki/粒子状物質 "wikilink")30%低減レベルを達成。同時に平成27年度重量車燃費基準を達成し、平成21年基準「優」低公害車に認定（4WD車除く）。UDトラックスの新CIも装着され、車名フォントも「**CONDOR**」から、中型モデルと同様（クオンと同じ書体）の「**Condor**」に変更。これにより、これまで統一性の無かったコンドルシリーズの車名フォントは統一された事になる。
+  - [2012年](../Page/2012年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")
+    全車でシートベルトアンカーの新法規に対応。シートベルト取り付け位置を移設、ヘッドレストの高さの変更などを行い、乗員の安全性を向上。また、2トン系のディーゼルエンジンで、エンジンの低圧縮比化やコモンレール式超高圧燃料噴射システムの改良、酸化触媒及びDPF容量の拡大化などで排出ガス性能を向上したことで「ポスト新長期排出ガス規制（平成22年排出ガス規制）」に適合するとともに、エンジンの燃焼効率の改善とトランスミッションのギア比変更により燃費も向上され、「平成27年度重量車燃費基準」を達成した。ガソリン車においては「平成27年度燃費基準+5%」達成の対象車種が拡大し、「平成27年度燃費基準+10%」達成の対象車種が新たに設定された。
+  - 2013年夏
+    生産終了。後継車は[カゼットである](https://ja.wikipedia.org/wiki/UD・カゼット "wikilink")。
+
+## ラインアップ
+
+初代・2代目
+
+  - CM
+  - CK（コンドル6）
+  - CL
+  - CP
+
+3代目
+
+  - MK
+  - LK
+  - PK
+  - PW
+  - MF（4t積4WD）
+  - LF（6t積4WD）
+
+4代目
+
+  - MK
+  - LK
+  - PK
+  - PW
+
+5代目
+
+  - MK
+  - LK
+  - PK
+  - PW
+
+## 車名の由来
+
+  - [コンドル科](../Page/コンドル科.md "wikilink")の鳥類の[コンドル](https://ja.wikipedia.org/wiki/コンドル "wikilink")に由来する。 [UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")の前々身となる[民生デイゼル工業](https://ja.wikipedia.org/wiki/民生デイゼル工業 "wikilink")時代にBR30型民生コンドル号というバスが存在し、コンドルの名称が使用されていた。
+
+## 関連項目
+
+  - [日産自動車](../Page/日産自動車.md "wikilink")
+  - [日産・C80](https://ja.wikipedia.org/wiki/日産・C80 "wikilink") - コンドルの前身車種。
+  - [日産ディーゼル・F系エンジン](../Page/日産ディーゼル・F系エンジン.md "wikilink")
+  - [日産ディーゼル・ビッグサム](../Page/日産ディーゼル・ビッグサム.md "wikilink")
+  - [日産ディーゼル・バイソン](../Page/日産ディーゼル・バイソン.md "wikilink")
+  - [日産・キャブオール](https://ja.wikipedia.org/wiki/日産・キャブオール "wikilink")
+  - [日産・アトラス](../Page/日産・アトラス.md "wikilink")
+  - [いすゞ・フォワード](../Page/いすゞ・フォワード.md "wikilink") - 現行型のOEM供給元の車種。
+  - [東風・EQ2102](https://ja.wikipedia.org/wiki/東風・EQ2102 "wikilink") - 中国において販売されている2代目コンドルのコピー車種。[中国人民解放軍](../Page/中国人民解放軍.md "wikilink")が兵士・物資の輸送用として採用したため軍用・民間仕様問わず大量に生産されており中国各地で見かけることができる。
+
+## 外部リンク
+
+  - [Condor PK](https://www.udtrucks.com/ja-jp/trucks/condor/new-pk)
+  - [Condor MK/LK](https://www.udtrucks.com/ja-jp/trucks/condor/new-mk-lk)
+
+[Category:UDトラックスの車種](https://ja.wikipedia.org/wiki/Category:UDトラックスの車種 "wikilink") [Category:貨物自動車](https://ja.wikipedia.org/wiki/Category:貨物自動車 "wikilink") [Category:小型トラック](https://ja.wikipedia.org/wiki/Category:小型トラック "wikilink") [Category:中型トラック](https://ja.wikipedia.org/wiki/Category:中型トラック "wikilink")

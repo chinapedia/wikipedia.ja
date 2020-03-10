@@ -1,0 +1,289 @@
+> この記事は[AFC U-19](https://ja.wikipedia.org/wiki/AFC_U-19)から翻訳されています。
+
+
+**AFC U-19女子選手権**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が主催する、19歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[女子サッカー](https://ja.wikipedia.org/wiki/女子サッカー "wikilink")の大陸選手権大会である。[FIFA U-20女子ワールドカップの予選を兼ねている](../Page/FIFA_U-20女子ワールドカップ.md "wikilink")。
+
+[2022年大会より](https://ja.wikipedia.org/wiki/AFC_U-20女子選手権2022 "wikilink")、本大会開催年をFIFA U-20女子ワールドカップの前年から同年へ変更し（出場資格もU-20となる）、大会名も「**AFC U-20女子選手権**」（）に変更することが予定されている\[1\]。
+
+## 結果
+
+<table>
+<thead>
+<tr class="header">
+<th><p>回</p></th>
+<th><p>開催年</p></th>
+<th><p>開催国</p></th>
+<th></th>
+<th><p>決勝戦</p></th>
+<th></th>
+<th><p>3位決定戦</p></th>
+<th></th>
+<th><p>出場<br />
+国数</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>優勝</p></td>
+<td><p>結果</p></td>
+<td><p>準優勝</p></td>
+<td><p>3位</p></td>
+<td><p>結果</p></td>
+<td><p>4位</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-19女子選手権2002" title="wikilink">1</a></p></td>
+<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
+<td></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>2 - 1</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-19女子選手権2004" title="wikilink">2</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>3 - 0</strong></p></td>
+<td></td>
+<td></td>
+<td><p><strong>4 - 0</strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-19女子選手権2006" title="wikilink">3</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>1 - 0</strong></p></td>
+<td></td>
+<td></td>
+<td><p><strong>3 - 2</strong></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/AFC_U-19女子選手権2007.md" title="wikilink">4</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>1 - 0</strong></p></td>
+<td></td>
+<td></td>
+<td><p><strong>1 - 0</strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/AFC_U-19女子選手権2009.md" title="wikilink">5</a></p></td>
+<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>2 - 1</strong></p></td>
+<td></td>
+<td></td>
+<td><p><strong>1 - 0</strong></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-19女子選手権2011" title="wikilink">6</a></p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
+<td><p>[2]</p></td>
+<td><p><strong></strong></p></td>
+<td><p>(RR)</p></td>
+<td></td>
+<td></td>
+<td><p>(RR)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-19女子選手権2013" title="wikilink">7</a></p></td>
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p>(RR)</p></td>
+<td></td>
+<td></td>
+<td><p>(RR)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-19女子選手権2015" title="wikilink">8</a></p></td>
+<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>0 - 0</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a><br />
+<small>(<a href="../Page/PK戦.md" title="wikilink">PK</a> 4 - 2)</small></p></td>
+<td></td>
+<td></td>
+<td><p><strong>4 - 0</strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-19女子選手権2017" title="wikilink">9</a></p></td>
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>1 - 0</strong></p></td>
+<td></td>
+<td></td>
+<td><p><strong>3 - 0</strong></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-19女子選手権2019" title="wikilink">10</a></p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>2 - 1</strong></p></td>
+<td></td>
+<td></td>
+<td><p><strong>9 - 1</strong></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+注：(RR)＝[ラウンドロビン（総当たり戦）で実施](../Page/リーグ戦.md "wikilink")
+
+## 統計・記録
+
+### 代表別通算成績
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>6</strong></p></td>
+<td><p>1</p></td>
+<td><p>0</p></td>
+<td><p><strong>2</strong></p></td>
+<td><p>9</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p><strong></strong></p></td>
+<td><p>2</p></td>
+<td><p>1</p></td>
+<td><p>2</p></td>
+<td><p><strong>2</strong></p></td>
+<td><p>7</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p><strong></strong></p></td>
+<td><p>1</p></td>
+<td><p><strong>6</strong></p></td>
+<td><p>2</p></td>
+<td><p>1</p></td>
+<td><p><strong>10</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p><strong></strong></p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p><strong>5</strong></p></td>
+<td><p><strong>2</strong></p></td>
+<td><p>9</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td></td>
+<td><p>0</p></td>
+<td><p>1</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>1</p></td>
+<td><p><strong>2</strong></p></td>
+<td><p>3</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+</tr>
+</tbody>
+</table>
+
+  - データは2019年大会終了時点
+  - **太字**は優勝経験のある国・地域で、**太数字**は最多記録
+  - 国・地域名は現在の名称で統一した
+
+### 優勝回数
+
+<table>
+<thead>
+<tr class="header">
+<th><p>回数</p></th>
+<th><p>国名</p></th>
+<th><p>年</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>6回</p></td>
+<td></td>
+<td><p>2002,2009,2011,2015,2017,2019</p></td>
+</tr>
+<tr class="even">
+<td><p>2回</p></td>
+<td></td>
+<td><p>2004,2013</p></td>
+</tr>
+<tr class="odd">
+<td><p>1回</p></td>
+<td></td>
+<td><p>2006</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2007</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 出典
+
+## 関連項目
+
+  - [AFC U-16女子選手権](../Page/AFC_U-16女子選手権.md "wikilink") - AFCによる年代別の別カテゴリの大会
+  - [AFC U-19選手権](https://ja.wikipedia.org/wiki/AFC_U-19選手権 "wikilink") - AFCによる同年代の男子サッカーの大会
+
+## 外部リンク
+
+  - [大会公式サイト](http://www.the-afc.com/competition/afc-u-19-women%E2%80%99s-championship) - AFC.com
+  - [RSSSFによる記録](http://www.rsssf.com/tablesa/as-wom-u19.html)
+
+[Category:ナショナルチームによる国際サッカー大会](https://ja.wikipedia.org/wiki/Category:ナショナルチームによる国際サッカー大会 "wikilink") [Category:育成年代の国際サッカー大会](https://ja.wikipedia.org/wiki/Category:育成年代の国際サッカー大会 "wikilink") [Category:女子サッカーの国際大会](https://ja.wikipedia.org/wiki/Category:女子サッカーの国際大会 "wikilink") [Category:AFCサッカー大会](https://ja.wikipedia.org/wiki/Category:AFCサッカー大会 "wikilink") [Category:AFC_U-19女子選手権](https://ja.wikipedia.org/wiki/Category:AFC_U-19女子選手権 "wikilink")
+
+1.
+2.

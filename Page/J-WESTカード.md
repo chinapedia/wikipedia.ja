@@ -1,0 +1,191 @@
+> この記事は[J-WEST](https://ja.wikipedia.org/wiki/J-WEST)から翻訳されています。
+
+
+**J-WESTカード**（ジェイ ウエスト カード\[1\]、*J-WEST CARD* ）は、[西日本旅客鉄道](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")（JR西日本）と[三菱UFJニコス](https://ja.wikipedia.org/wiki/三菱UFJニコス "wikilink")および株式会社[ジェーシービー](../Page/ジェーシービー.md "wikilink") (JCB) が提携して発行する[クレジットカード](../Page/クレジットカード.md "wikilink")である。
+
+なお、[ジェイアール西日本伊勢丹](../Page/ジェイアール西日本伊勢丹.md "wikilink")のJR MI CARDは[三越伊勢丹ホールディングス](../Page/三越伊勢丹ホールディングス.md "wikilink")グループの[エムアイカード](https://ja.wikipedia.org/wiki/エムアイカード "wikilink")の発行であり、こちらはJR西日本関連の機能を持たない\[2\]。
+
+## 概要
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[2月1日](../Page/2月1日.md "wikilink")よりサービス開始。「エクスプレス」と「ベーシック」の2種類のカードから選択することができる。[みどりの窓口](../Page/みどりの窓口.md "wikilink")や[e5489](https://ja.wikipedia.org/wiki/e5489 "wikilink")などでの[乗車券](../Page/乗車券.md "wikilink")や[特急券などの購入の決済に利用できる](../Page/特別急行券.md "wikilink")。
+
+三菱UFJニコスが[UFJカード](https://ja.wikipedia.org/wiki/UFJカード "wikilink")（2012年7月16日発行分からは[MUFGカード](../Page/MUFGカード.md "wikilink")\[3\]）で[VISAおよび](../Page/Visa.md "wikilink")[MasterCardブランドを](../Page/マスターカード.md "wikilink")、ジェーシービーがJCBカードをそれぞれ発行する他、与信・収納業務等を代行している。各ブランド共に[ゴールドカード](../Page/ゴールドカード.md "wikilink")の設定は無い。なお、JR西日本自体が[貸金業](../Page/貸金業.md "wikilink")登録を行い、[信用情報](../Page/信用情報.md "wikilink")機関 (CIC,CCB) にも加盟の上、発行元となっているため、募集窓口は各カード会社ではなく、JR西日本の「Club J-WEST事務局」となっているが、サポートデスクは各社に委託しているため、JCBとVISA/MasterCardで別々となっている。なお、JRグループの中ではJR西日本が唯一、国際ブランドのクレジットカードを自社で発行している（民鉄を含めても、国際ブランドのクレジットカードを自社で発行しているのはJR西日本と[小田急電鉄](../Page/小田急電鉄.md "wikilink")のみ）\[4\]\[5\]。
+
+なお、クレジットカード機能の一つとして提供してきた、キャッシングサービス・カードローンの金融商品は、会員の利用状況や関係法令の改正など、取り巻く環境の変化もあり、JCBブランドは[2011年](../Page/2011年.md "wikilink")（平成23年）9月25日、VISA/MasterCardブランドは2011年9月30日をもって提供を終了し、それぞれのブランド共に、翌日以降はショッピング専用カードとなった\[6\]。
+
+2018年3月から[Apple Payにも対応している](https://ja.wikipedia.org/wiki/Apple_Pay "wikilink")\[7\]。
+
+### エクスプレス予約
+
+[東海道新幹線](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")のネット予約サービスとしてスタートした「[エクスプレス予約](../Page/エクスプレス予約.md "wikilink")」は、従来[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）の「[JR東海エクスプレス・カード](https://ja.wikipedia.org/wiki/JR東海エクスプレス・カード "wikilink")」会員専用であった。その後同サービスは、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）7月22日より列車の運行が一体的になされている[山陽新幹線](https://ja.wikipedia.org/wiki/山陽新幹線 "wikilink")でも共通利用できるようになった。
+
+JR西日本では、これに対応する形で、[関西地区や山陽新幹線沿線の顧客向けに](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")、「J-WESTカード・エクスプレス」を提供している。「エクスプレス予約」を利用したい顧客は、同カードへの入会が必要である。
+
+また、同カード会員には[EX-IC](https://ja.wikipedia.org/wiki/EX-IC "wikilink")カードも貸与されるので、「エクスプレス予約」での「EX-ICサービス」を利用することも可能である。
+
+なお、JR東日本の[モバイルSuica](../Page/モバイルSuica.md "wikilink")での「エクスプレス予約」については、JR東海エクスプレス・カードでは追加登録・利用が可能であるのに対して、同カードでは追加登録・利用することができない（但し、記名式及び定期券のモバイルSuicaについては、同カードからのチャージには対応している）。
+
+### J-WEST プレミア・プログラム
+
+[2009年](../Page/2009年.md "wikilink")（平成21年）8月1日より、エクスプレス会員を対象に、「エクスプレス予約」の利用による山陽新幹線（新大阪〜博多の全線、および一部区間）の乗車実績（初年度は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）3月末日までの乗車を対象）に応じて、「プレミア・スコア」（優遇倍率）を算出して「優遇クラス」を設定し、翌年4月（初年度は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）4月1日）からの1年間における、同カード会員の「エクスプレス予約」による山陽新幹線の乗車実績に対し、設定された優遇クラスに応じて、ボーナス分のJ-WESTポイントが付与される「J-WEST プレミア・プログラム」を提供している。
+
+[2011年](../Page/2011年.md "wikilink")（平成23年）3月12日からは、エクスプレス会員に加え、ベーシック会員を含めたすべてのJ-WESTカード会員を対象として、山陽・九州新幹線の利用（「エクスプレス予約」または「（新）e5489」での利用が条件）に対して、同プログラムが提供されることになった。
+
+### SMART ICOCA
+
+このカードから、[チャージにてキャッシュレスの](../Page/チャージ機.md "wikilink")「クイックチャージサービス」（ICOCAエリアのJR西日本各駅にある、自動券売機・精算機・チャージ機にて自分で操作する）を利用可能な[SMART ICOCAカードも希望者に配布されるが](https://ja.wikipedia.org/wiki/SMART_ICOCA "wikilink")、その際は[デポジット](../Page/デポジット.md "wikilink")500円、チャージ1,500円分の合計2,000円が必要である。
+
+なおSMART ICOCAカードについては、当初はJ-WESTカード会員専用のサービスであったが、まず[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）3月18日より[イオンクレジットサービス](https://ja.wikipedia.org/wiki/イオンクレジットサービス "wikilink")（イオンカード）に開放され、2008年7月1日より、J-WESTカード・イオンカード以外の一般クレジットカードの会員でも所持することが可能になった（これと同時に、[ICOCA](../Page/ICOCA.md "wikilink")利用エリア内の[みどりの窓口](../Page/みどりの窓口.md "wikilink")における、クレジットカードを用いてのICOCAへのチャージはできなくなった）。
+
+これまで、SMART ICOCAを所持するJ-WESTカード会員のみのサービスとして、SMART ICOCAを用いてICOCAエリア内のJR西日本各線を利用した場合、その利用金額に対するJ-WESTポイントの付与サービス（200円に対して1ポイント）が行われてきたが、2009年6月1日より、このポイント付与サービスが、すべてのSMART ICOCAの会員に行われるようになった。
+
+なお、J-WESTカード会員のみの特典として、このポイントを2倍分（100円に対して1ポイント）付与するサービスが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）3月末まで期間限定で行われていた。
+
+## カードの種類
+
+いずれのカードも「MyJCB」・「MUFGカードWebサービス」の利用が可能であり、J−WESTカード会員専用[ホームページ](../Page/ホームページ.md "wikilink")に各ホームページへのリンクがある。
+
+### エクスプレス
+
+通常年会費1,080円。同社線内の主な[特急列車のインターネット予約](https://ja.wikipedia.org/wiki/特別急行列車 "wikilink")（新・e5489）利用の際、割引サービスを受けることができる。また、東海道・山陽新幹線の[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")予約「[エクスプレス予約](../Page/エクスプレス予約.md "wikilink")」が利用可能。同カードの会員には、EX-ICカードも貸与されるので、エクスプレス予約でのEX-ICサービスを利用することも可能である。但し、2017年9月に登場した東海道・山陽新幹線のインターネット予約「スマートEX」は利用不可。
+
+### ベーシック
+
+年会費は無料だが、1年間に全く利用していないと翌年に税込1,080円の年会費が必要となる。前述の「新・e5489」に加えて、2017年9月より東海道・山陽新幹線のインターネット予約「スマートEX」が利用可能。
+
+### 追加カード
+
+  - ETCカード
+    [ETC](../Page/ETC.md "wikilink")カードとして「ETCスルーカード」 (JCB) ・MUFG ETCカード (VISA/Master) の名称で発行している。[JCBグループ](https://ja.wikipedia.org/wiki/JCBグループ "wikilink")および[MUFGカード](../Page/MUFGカード.md "wikilink")における各カードと同じ名称であるが、裏面の発行会社名に「西日本旅客鉄道株式会社」が追記されている。
+  - [SMART ICOCA](https://ja.wikipedia.org/wiki/SMART_ICOCA "wikilink")
+    ICOCAの機能に「クイックチャージ」と「J-WESTポイント」機能が付加されたICOCAの上位版。尚、[非接触型決済](https://ja.wikipedia.org/wiki/非接触型決済 "wikilink")サービス追加（専用カードまたは携帯電話の当該機能）については、バックヤード業務を受託しているJCB、三菱UFJニコスが、それぞれ[QUICPay](https://ja.wikipedia.org/wiki/QUICPay "wikilink")、[Visa Touch](https://ja.wikipedia.org/wiki/Visa_Touch "wikilink")・[Smartplus](https://ja.wikipedia.org/wiki/Smartplus "wikilink")を展開しているが、J-WESTカードへの紐付けについてはいずれも非対応となっている 。なお、JR西日本とJCB・三菱UFJニコスの3社は[ICOCA電子マネー](https://ja.wikipedia.org/wiki/ICOCA電子マネー "wikilink")の加盟店開拓等の業務提携と前記3種・各種クレジットカードとの共用端末の開発で合意している。
+  - 家族カード
+    [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）3月29日より、家族カードの募集・発行を行っている。本人会員と同様に「（新）e5489」や「エクスプレス予約」（「エクスプレス」カードのみ）、JR西日本グループ各社のカード会員限定の、割引・サービス等の利用が可能である。また本人会員・家族会員の、クレジット利用によるJ-WESTポイントは、合算して本人会員に付与されることになる（SMART ICOCA列車利用ポイントや各種キャンペーンポイント、エクスプレス予約グリーンプログラムのポイントなどは本人会員、家族会員それぞれに付与される）。なお家族会員によるJ-WESTカード利用分の引き落としは、本人会員名義の口座から行われる。
+
+### 提携カード
+
+#### ビックカメラJ-WESTカード
+
+[2009年](../Page/2009年.md "wikilink")（平成21年）2月1日より、関西・中国地区と[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")\[8\]の[ビックカメラ](https://ja.wikipedia.org/wiki/ビックカメラ "wikilink")各店との提携による、「ビックカメラJ-WESTカード（ベーシック・エクスプレスとも）」の発行を開始した（VISA : 三菱UFJニコス発行のみ）。従来のJ-WESTカードの特典に加え、ビックカメラ各店でのクレジットカードの利用金額に対して、10％分のビックポイント、および0.5％分のJ-WESTポイントが付与される。またビックポイント1500点を、J-WESTポイント1000点分に交換することも可能である。なお、すでに「J-WESTカード・エクスプレス」を所持する会員は、新たに「ビックカメラJ-WESTカード・エクスプレス」には入会・切替はできない。また、家族カードの発行は行っていない。
+
+#### OSAKA STATION CITY J-WESTカード
+
+[2011年](../Page/2011年.md "wikilink")（平成23年）2月16日より、同年5月4日にJR[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")に開業した「[大阪ステーションシティ](https://ja.wikipedia.org/wiki/大阪ステーションシティ "wikilink")」との提携カードである、「OSAKA STATION CITY J-WESTカード」（ベーシック・エクスプレスとも）の新規入会の受付を開始した。同カードは、大阪ステーションシティ内の各店・施設での利用において、J-WESTポイントの付与率が高くなる（通常は利用額1,000円に対し5ポイントが付与されるところを、最大で利用額1000円につき30ポイント付与される。ポイントの付与率は、店舗・施設により異なる。）など、独自のサービス・特典が提供される。
+
+2012年現在、OSAKA STATION CITY J-WESTカードが付加ポイント面で優れている上、機能面での制限も存在しないため、一般のJ-WESTカードを選択する理由は皆無ともなるが、京阪神地区以外では本カードの申込書を常備していない駅もある（webサイトからの申し込みは可能）。なお、書面によるカード申込において、特に指定をされない場合はOSAKA STATION CITY　J-WESTカードエクスプレスが自動選択される。
+
+なお、同年2月23日からは、既存のJ-WESTカード会員（ビックカメラJ-WESTカード会員は除く）を対象に、同カードへの切り替え（スイッチ）申込書の請求受付も開始した。既存のJ-WESTカードからの切り替えに際しては、切り替え前と同じカード種別・ブランドの新カードが発行されることになる（家族会員も同時に切り替えの申し込み、ならびに同種カードへの切り替えとなる）。
+
+#### LUCUA OSAKA STATION CITY J－WESTカード
+
+2017年（平成29年）3月16日より募集を開始した、「OSAKA STATION CITY J-WESTカード」（ベーシック・エクスプレスとも）と[ルクア](https://ja.wikipedia.org/wiki/ルクア "wikilink")のポイントカード「LUCUAメンバーズカード」を一体化したカードである。既に両方のカードを所持していた人は所定の手続きで本カードに変更することが可能\[9\]。
+
+本カードでの決済により、LUCUAメンバーズカードポイントとJ-WESTポイントとを合わせて最大4％相当のポイントが還元され、ネットからのお手続きでLUCUAメンバーズカードポイントからJ－WESTポイントへの移行ができる。また、J－WESTポイントをルクア大阪館内のポイント交換機で「LUCUAショッピングチケット」に交換することも可能（事前に『JRおでかけネット』での手続きが必要）。またルクア以外のOSAKA STATION CITY内のショッピングでも、本カードでの決済で最大3％相当のJ－WESTポイントが還元される。
+
+#### ミオクラブJ－WESTカード
+
+2017年（平成29年）3月16日より募集を開始した、J-WESTカード（ベーシック・エクスプレスとも）と[天王寺ミオ](../Page/天王寺ミオ.md "wikilink")のポイントカード「ミオクラブカード」を一体化したカードである。既に両方のカードを所持していた人は所定の手続きで本カードに変更することが可能\[10\]。なお、新規申し込みの際にはミオクラブへのご入会が必要となる。募集開始時点では本カードのみオンラインでの申し込みができなかったが、2020年現在では可能となっている。
+
+本カードで決済すると、通常1ポイントのミオクラブポイントが2倍の2ポイントに、全館5倍ポイントアップキャンペーン期間中には8倍の8ポイントに還元率が上がる。さらにプレミアム会員には13倍の13ポイントが還元される。また、ミオお買い物お食事券にも交換ができるJ－WESTポイントとミオクラブポイントと合わせると、プレミアム会員の方は最大で14.5%相当のポイントが還元される。
+
+本カードの発行に伴い、「ミオクラブ [ポケットカード](https://ja.wikipedia.org/wiki/ポケットカード "wikilink")」（国際ブランドなしのハウスカードとマスターカードの2種）・「ミオクラブ VISAカード」（[三井住友カード](../Page/三井住友カード.md "wikilink")）・「ミオクラブ [NICOS](https://ja.wikipedia.org/wiki/NICOS "wikilink") VISAカード」（[三菱UFJニコス](https://ja.wikipedia.org/wiki/三菱UFJニコス "wikilink")）\[11\]の各種カードとの提携を2018年4月30日で終了することになった。なお、[クレディセゾン](../Page/クレディセゾン.md "wikilink")と提携の「ミオクラブ セゾンカード」（VISAとマスターカードの2種）は本カード発行後も継続する\[12\]。
+
+#### 岡山一番街 さんすて岡山・倉敷 J－WESTカード
+
+2017年（平成29年）4月1日より[岡山一番街](https://ja.wikipedia.org/wiki/岡山一番街 "wikilink")、[サンステーションテラス岡山](../Page/サンステーションテラス岡山.md "wikilink")（さんすて岡山）、[サンステーションテラス倉敷](https://ja.wikipedia.org/wiki/サンステーションテラス倉敷 "wikilink")（さんすて倉敷）でのショッピングでJ-WESTカードでの決済をした場合の、決済額の5%の請求時割引を行うことになり、同時に受付を開始した\[13\]。
+
+特典が上記各種を含む全カード対象のため、前項の3種類と異なり、一般のJ-WESTカード（ベーシック・エクスプレスとも）とは機能差がないデザインカードという扱いで、上記各種店舗との提携カード以外からのデザイン変更が可能であることが入会申込書に記載されている（『詳しくは岡山一番街カードカウンターまでお問い合わせください』との注記あり）。
+
+これに伴い、従来発行していた「岡山一番街・さんすて岡山ファーストカード」（[全日信販](https://ja.wikipedia.org/wiki/全日信販 "wikilink")・VISA）の提携と発行を終了することになった\[14\]。
+
+#### ekie J－WESTカード
+
+[ひろしま駅ビル ASSE](../Page/ひろしま駅ビル_ASSE.md "wikilink")・ekieのポイントカード『ekie ASSEカード』とJ-WESTカードを一体化したもので\[15\]、本カードで決済した場合、ekie・ASSEポイントが通常の2倍となる他、ポイントアップキャンペーン期間中はekie・ASSEポイントが最大8%、J-WESTポイントが最大1%還元される。また、web手続きでJ-WESTポイントにまとめることも可能である。
+
+また本カードも一般のJ-WESTカード（ベーシック・エクスプレスとも）からのデザイン変更が可能となっている。
+
+## （新）e5489
+
+[2011年](../Page/2011年.md "wikilink")（平成23年）3月12日より、[九州新幹線の](https://ja.wikipedia.org/wiki/九州新幹線_\(鹿児島ルート\) "wikilink")[博多駅](https://ja.wikipedia.org/wiki/博多駅 "wikilink") - [鹿児島中央駅](https://ja.wikipedia.org/wiki/鹿児島中央駅 "wikilink")間が全通し、山陽新幹線と直通乗り入れを行う「[みずほ](https://ja.wikipedia.org/wiki/みずほ_\(列車\) "wikilink")」・「[さくら](https://ja.wikipedia.org/wiki/さくら_\(新幹線\) "wikilink")」の運行が開始された。これら山陽・九州新幹線の直通列車、ならびに九州新幹線内運転の「[つばめ](https://ja.wikipedia.org/wiki/つばめ_\(JR九州\) "wikilink")」・「さくら」（一部列車は山陽新幹線区間にも乗り入れ）に対しては、JR西日本と[JR九州が連携して行う](../Page/九州旅客鉄道.md "wikilink")、ネット予約サービスが導入された。
+
+JR西日本では2011年3月5日（JR九州エリアは2011年3月12日より取り扱いを開始）より、従来の「e5489plus」に替わる「[（新）e5489](https://ja.wikipedia.org/wiki/e5489 "wikilink")」サービスが導入された。利用エリアも拡大し、JR西日本・四国・九州エリアの大半の列車に加え、従来は予約できなかったJR東日本・東海エリア内の一部の特急列車に対しても予約が可能となった。
+
+同時にJ-WESTカード会員及び[JQ CARD会員を対象とした](https://ja.wikipedia.org/wiki/SUGOCA "wikilink")、料金券タイプ(別途、乗車券購入が必要)の「（新）eきっぷ」が設定され、JR西日本・四国・九州エリアで完結する大半の列車の特急券が自由席特急券の値段、区間によってはそれ以下の値段で購入できるようになった。山陽新幹線とのeきっぷ同士での乗継割引の「eきっぷ」も設定されている。また、山陽・九州新幹線の新大阪・新神戸−熊本・鹿児島中央間の普通車指定席と、北陸、南紀、関西空港方面の在来線特急列車のグリーン車を対象として、3日前までの予約を条件に、より割引率の高い特急券「e早特」（対象となる区間・列車・設備・席数等には制限あり、乗り遅れの場合には後続列車の乗車は一切できない）が設定された。これに伴い、従来の「e5489plus」で提供されていた、J-WESTカード会員を対象とした「e割きっぷ」については、「（新）eきっぷ」に置き換えられることになった。
+
+なおJR東海とJR西日本が運営する、[東海道・山陽新幹線](../Page/東海道・山陽新幹線.md "wikilink")を対象とする[エクスプレス予約](../Page/エクスプレス予約.md "wikilink")（EX-ICサービスを含む）においては、2012年7月21日より、山陽新幹線区間（新大阪 - 博多）における九州新幹線関連3列車での利用が可能となった。ただし、九州新幹線区間（博多～鹿児島中央）を含む利用、ならびに山陽新幹線区間における、前述3列車でのグリーンプログラムによるアップグレードサービス（ポイント付与のみ可能）や早割サービス（EX-IC早特など）については、引き続き対象外となっている\[16\] \[17\]。
+
+### チケットレス特急券
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）10月18日より、J-WESTカード会員限定（当時のe5489plus）サービスとして、「[はるか](../Page/はるか_\(列車\).md "wikilink")」「[びわこエクスプレス](https://ja.wikipedia.org/wiki/びわこエクスプレス "wikilink")」の、JR西日本の在来線特急の指定席を[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")で予約の上、[携帯電話](../Page/携帯電話.md "wikilink")の画面に表示される予約データ、またはパソコンでの指定席の予約情報をプリントアウトしたものを提示すれば、乗車が可能となる「チケットレス特急券」サービスを開始した。
+
+通常に指定席特急券を購入するより割安で、予約変更も何度でもでき、受け取りの手間も省ける、と言うメリットがある。定期券や[ICOCA](../Page/ICOCA.md "wikilink")など、他の乗車券との組み合わせで利用が可能である。サービスの利用については、列車利用の前日、または当日に申し込むことになる。
+
+[2009年](../Page/2009年.md "wikilink")（平成21年）10月1日からは、[新大阪駅](https://ja.wikipedia.org/wiki/新大阪駅 "wikilink") - [篠山口駅](https://ja.wikipedia.org/wiki/篠山口駅 "wikilink")間の「[北近畿](../Page/こうのとり_\(列車\).md "wikilink")（現：[こうのとり](../Page/こうのとり_\(列車\).md "wikilink")）」「[文殊](../Page/文殊_\(列車\).md "wikilink")」「[タンゴエクスプローラー](https://ja.wikipedia.org/wiki/タンゴエクスプローラー "wikilink")」、および[京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink") - [和歌山駅](../Page/和歌山駅.md "wikilink")間の「[くろしお](../Page/くろしお_\(列車\).md "wikilink")」（当時は「スーパーくろしお」「オーシャンアロー」でも）の各特急列車にも、チケットレスサービスが拡大された。
+
+サービス提供期間は、当初は2009年3月31日までとなっていたが、後に[2011年](../Page/2011年.md "wikilink")（平成23年）3月4日までの扱いであった。その後、翌3月5日より、従来の「e5489plus」に代わる「（新）e5489」サービスがスタートしたことで、チケットレス特急券の対象列車・エリアが拡大され、恒久的なサービスとなった。
+
+加えて2012年3月17日より、[岡山駅](https://ja.wikipedia.org/wiki/岡山駅 "wikilink")と[高松駅を結ぶ快速](https://ja.wikipedia.org/wiki/高松駅_\(香川県\) "wikilink")[マリンライナー](../Page/マリンライナー.md "wikilink")でも利用可能になった。
+
+ちなみに民鉄各社では、同様のサービスが[東武鉄道](../Page/東武鉄道.md "wikilink")、[西武鉄道](../Page/西武鉄道.md "wikilink")、[小田急電鉄](../Page/小田急電鉄.md "wikilink")、[近畿日本鉄道](../Page/近畿日本鉄道.md "wikilink")、[南海電気鉄道](../Page/南海電気鉄道.md "wikilink")等で行なわれている。さらに2010年3月13日より、JR東日本でも「[えきねっと](https://ja.wikipedia.org/wiki/えきねっと "wikilink")チケットレスサービス」として、「[成田エクスプレス](https://ja.wikipedia.org/wiki/成田エクスプレス "wikilink")」にて同様のサービスが導入された。
+
+また操作・利用方法は異なるが、[東海道・山陽新幹線](../Page/東海道・山陽新幹線.md "wikilink")の[エクスプレス予約](../Page/エクスプレス予約.md "wikilink")に導入された「EX-ICサービス」や、JR東日本の「[モバイルSuica](../Page/モバイルSuica.md "wikilink")特急券」（[東北](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")・[上越新幹線](https://ja.wikipedia.org/wiki/上越新幹線 "wikilink")向け）も、これに類するものと言える。
+
+## 過去のサービス
+
+### （旧）eきっぷ・e割きっぷ
+
+「（旧）eきっぷ」「e割きっぷ」とは、JR西日本の提供していた[e5489](https://ja.wikipedia.org/wiki/e5489 "wikilink")plus（インターネット予約）で申し込み、割引価格で購入できる乗車券と指定席特急券が一体となったきっぷであった。
+
+「（旧）eきっぷ」は、全設定において、通常期の指定席特急券と無割引の乗車券の合算から200円引きとなっていた。よって、指定席特急券が200円安くなる閑散期においては、割引が実質上存在しなかった。
+
+対象区間は、JR西日本の[在来線](../Page/在来線.md "wikilink")[特急](https://ja.wikipedia.org/wiki/特別急行列車 "wikilink")（JR四国エリアの一部列車を含む）、および[新大阪駅](https://ja.wikipedia.org/wiki/新大阪駅 "wikilink")と[博多駅](https://ja.wikipedia.org/wiki/博多駅 "wikilink")間の[山陽新幹線](https://ja.wikipedia.org/wiki/山陽新幹線 "wikilink")（「エクスプレス予約」が利用可能な顧客は、そちらの利用を推奨している）であった。J-WESTカード、および一般のクレジットカードでも決済ができたが、受け取りについては、JR西日本・四国・九州各社のエリアのみ（一部を除く）での対応であった。
+
+特にJ-WESTカード会員向けには、JR西日本の主要な在来線特急を対象として、より割引額の大きい「e割きっぷ」が提供されていた。対象となったのは、関西地区と[北陸](https://ja.wikipedia.org/wiki/北陸 "wikilink")・[北近畿](../Page/北近畿.md "wikilink")・[関西空港](https://ja.wikipedia.org/wiki/関西空港駅 "wikilink")・[南紀](../Page/南紀.md "wikilink")・[山陰](https://ja.wikipedia.org/wiki/山陰 "wikilink")（[智頭急行](../Page/智頭急行.md "wikilink")乗入の「[スーパーはくと](../Page/スーパーはくと.md "wikilink")」のみ）の各地区、および[岡山駅](https://ja.wikipedia.org/wiki/岡山駅 "wikilink")と山陰地区を結ぶJR西日本の在来線特急、ならびに岡山駅を発着する[JR四国エリアの列車](https://ja.wikipedia.org/wiki/四国旅客鉄道 "wikilink")（[松山方面行き特急](https://ja.wikipedia.org/wiki/松山駅_\(愛媛県\) "wikilink")「[しおかぜ](../Page/しおかぜ_\(列車\).md "wikilink")」・[高知方面行き特急](https://ja.wikipedia.org/wiki/高知駅 "wikilink")「[南風](../Page/南風_\(列車\).md "wikilink")」・[高松行き](https://ja.wikipedia.org/wiki/高松駅_\(香川県\) "wikilink")[快速](../Page/快速列車.md "wikilink")「[マリンライナー](../Page/マリンライナー.md "wikilink")」）であった。割引額は（旧）eきっぷと異なり、一律ではなく路線・区間ごとに異なっていたが、特に南紀行きの割引額が高めに設定されていた。
+
+「（旧）eきっぷ」「e割きっぷ」共に乗車券と一体化での発売であったため、特急下車後に乗換をする場合には特急下車駅からの初乗り運賃を支払う必要があり(特定都区市内が適用されている駅を除く)場合によっては普通のきっぷを購入した方が安くなる場合も多かった。
+
+[2011年](../Page/2011年.md "wikilink")（平成23年）3月5日から、新しいネット予約サービス「（新）e5489」が導入されたことで、サービス内容が変更された（詳細は前述の「（新）e5489」を参照のこと）。
+
+## 広報活動
+
+「ベンリフル」を[キャッチフレーズとし](../Page/キャッチコピー.md "wikilink")、[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")をイメージキャラクターに起用した広報活動を展開している（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）3月末頃までと、2013年4月以降）。[近畿圏](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")、[広島](../Page/広島県.md "wikilink")、[岡山地区において仲間を起用したポスターや京阪神で走る電車の車内](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[モニター](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")、[パンフレットなどを媒体としているほか](../Page/小冊子.md "wikilink")、[福知山線脱線事故で自粛していたテレビ](https://ja.wikipedia.org/wiki/JR福知山線脱線事故 "wikilink")[コマーシャルも](../Page/コマーシャルメッセージ.md "wikilink")2006年6月から再開された（[関西テレビ制作](../Page/関西テレビ放送.md "wikilink")「[旅っきり\!〜ふれあい紀行〜](https://ja.wikipedia.org/wiki/旅っきり!〜ふれあい紀行〜 "wikilink")」で、「[DISCOVER WEST](../Page/DISCOVER_WEST.md "wikilink")」のコマーシャルのみ5月放送分から放送されていた）。
+
+なお、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）5月頃よりキャラクターが[長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")に変更された。一時本社レベルでのキャラクターは定めていなかったが、[広島支社では](../Page/西日本旅客鉄道広島支社.md "wikilink")、[高橋建](https://ja.wikipedia.org/wiki/高橋建 "wikilink")（元[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")、[ニューヨーク・メッツ](../Page/ニューヨーク・メッツ.md "wikilink")投手。後に[RCC](../Page/中国放送.md "wikilink")[野球解説者](https://ja.wikipedia.org/wiki/野球解説者 "wikilink")を経て[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")二軍投手コーチ）を独自にコマーシャルに起用したことがある。
+
+## JR-WESTカード
+
+これより以前に、JR西日本（実際は関連会社の[ジェイアール西日本ファイナンス](https://ja.wikipedia.org/wiki/ジェイアール西日本商事 "wikilink")）と[ユーシーカード](https://ja.wikipedia.org/wiki/ユーシーカード "wikilink")（現[クレディセゾン](../Page/クレディセゾン.md "wikilink")）＝VISA/Master・住友クレジットサービス（現 [三井住友カード](../Page/三井住友カード.md "wikilink")）＝VISA/Master（[VJA](https://ja.wikipedia.org/wiki/VJA "wikilink")/オムニカード協会）・ジェーシービーとの[提携カード](https://ja.wikipedia.org/wiki/提携カード "wikilink")として「JR-WESTカード」が発行されていた。
+
+本カードは一部会員向けプレゼント特典はあったが、今日のJ-WESTカードと比較すると乏しかった他、当時は電話やインターネットなどの予約サービスを実施していなかったため、みどりの窓口で利用できる以外のメリットはあまりなかった（当時はJR西日本のみどりの窓口では[JRカード](../Page/JRカード.md "wikilink")とJR-WESTカード以外の一般クレジットカードは利用できなかった）。
+
+その後、[1999年](../Page/1999年.md "wikilink")（平成11年）4月より実施されたみどりの窓口の一般カード開放に伴い、メリットが薄くなったという理由から、まず特典等の独自サービスが廃止された。そして、カードの発行・利用も[2001年](../Page/2001年.md "wikilink")（平成13年）3月限りで廃止され、各社一般カードへの切り替え案内が会員に送付された。
+
+上記のうち、ジェーシービーでは｢JR-WEST JCBカード」会員から移行した会員に対して[ひかりレールスター](../Page/ひかりレールスター.md "wikilink")をカード表面にデザインしたレールスターデザインJCBカードが発行されている。
+
+## 脚注
+
+<references />
+
+## 外部リンク
+
+  - [J-WESTカード](https://www.jr-odekake.net/j-west/) - JRおでかけネット（JR西日本）
+
+[Category:クレジットカード](https://ja.wikipedia.org/wiki/Category:クレジットカード "wikilink") [Category:西日本旅客鉄道の商品](https://ja.wikipedia.org/wiki/Category:西日本旅客鉄道の商品 "wikilink")
+
+1.   -ジェーシービー（2014年2月19日閲覧）
+2.  ただし、国際ブランド経由での[スマートEX](https://ja.wikipedia.org/wiki/スマートEX "wikilink")・[e5489](https://ja.wikipedia.org/wiki/e5489 "wikilink")の利用や、[SMART ICOCAの発行は可能である](https://ja.wikipedia.org/wiki/SMART_ICOCA "wikilink")。
+3.  [「UFJカード」のブランド変更に関するお知らせ 〜「UFJカード」は「MUFGカード」に変更になります〜](http://www.cr.mufg.jp/corporate/info/um_change2.html)（重要なお知らせ） - 三菱UFJニコス（2012年4月23日付）
+4.  大半の鉄道事業者は、カード会社との提携またはグループ企業による発行である。
+5.  以前は[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）も[ビューカード](https://ja.wikipedia.org/wiki/ビューカード "wikilink")を自社で発行していたが、業務拡大に伴い「株式会社ビューカード」として2010年に分社化された。逆に小田急電鉄の場合は元々子会社の「小田急カード株式会社」が発行していたのが、同社を2005年に吸収合併したとから自社の直接発行となった。
+6.  [キャッシング機能が付いていない](http://xn--n8j0dzipa9byd9aj42atf1023cjpqact6h.net/etcetera/j-west-card/) - 旅行に強いクレジットカード、2018年11月05日閲覧
+7.  [Apple Pay対応のカード発行会社が追加となりました。](http://www.quicpay.jp/info/20180313.html) - ジェーシービー（QUICPay）、2018年3月13日。
+8.  県内の店舗である天神一号館・二号館はICOCA電子マネーの直接の加盟店ではないが、交通系ICカード相互利用により、別途加盟しているSuica・SUGOCA電子マネー経由での利用は可能で、県内を通過する山陽新幹線の利用に配慮する形で申込書が設置されている。
+9.  [今春、ルクア大阪で便利でおトクな「LUCUA OSAKA STATION CITY J－WESTカード」が登場\!](https://www.westjr.co.jp/press/article/2017/02/page_9906.html) - JR西日本（2017年2月9日）。
+10. [今春、天王寺ミオで便利でおトクな「ミオクラブJ－WESTカード」が登場\!](https://www.westjr.co.jp/press/article/2017/02/page_9908.html) - JR西日本（2017年2月9日）。
+11. NICOSについては「NICOS EDGE ON VISAカード」（サービスと年会費はNICOS一般カードに準じる）への切り替えが会員に案内された。
+12. [一部のミオクラブクレジットカードの提携終了のお知らせ](http://www.tennoji-mio.co.jp/club/club_end_card.html) - 天王寺ミオ、2017年5月22日閲覧。
+13. [2017年4月、J－WESTカードが岡山一番街、さんすて岡山・倉敷でますますおトクになります\!](https://www.westjr.co.jp/press/article/2017/02/page_9910.html) - JR西日本（2017年2月14日）。
+14. [【重要】「岡山一番街・さんすて岡山ファーストカード」ご利用終了に関するお知らせおよびご留意いただきたい事項について](http://www.aj-card.co.jp/release/attention20170228.html) - 全日信販（2017年2月28日）
+15. [ekie J-WESTカード](https://www.ekiecard.jp/guide/) - ekie ASSEカード会員専用サイト。[中国SC開発](https://ja.wikipedia.org/wiki/中国SC開発 "wikilink")、2020年2月5日閲覧。
+16. [「エクスプレス予約」における山陽新幹線（新大阪〜博多）区間の「みずほ」「さくら」号の取扱いについて](http://jr-central.co.jp/news/release/nws000897.html/)（ニュースリリース） - 東海旅客鉄道（2011年11月30日閲覧）
+17. [エクスプレス予約における山陽新幹線区間（新大阪〜博多）での「みずほ」「さくら」「つばめ」の取扱いについて](http://expy.jp/topics/detail.php?id=112/)（会員のみなさまへ） - エクスプレス予約（JR東海、2012年6月4日付）

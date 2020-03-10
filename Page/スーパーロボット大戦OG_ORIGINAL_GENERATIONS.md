@@ -1,0 +1,236 @@
+> この記事は[OG ORIGINAL GENERATIONS](https://ja.wikipedia.org/wiki/OG_ORIGINAL_GENERATIONS)から翻訳されています。
+
+
+『**スーパーロボット大戦OG ORIGINAL GENERATIONS**』（スーパーロボットたいせんオージー オリジナルジェネレーションズ）は、[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")から発売された[シミュレーションRPGである](https://ja.wikipedia.org/wiki/シミュレーションロールプレイングゲーム "wikilink")。
+
+キャッチコピーは「**すべての戦いは、ここから始まる。**」。
+
+## 概要
+
+「[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")」のカテゴリの一つである、同シリーズやその関連作品に登場するオリジナルキャラクターのみで構成される「OG（ORIGINAL GENERATION）シリーズ」の作品。[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")（GBA）用ソフトとして発売された『[スーパーロボット大戦ORIGINAL GENERATION](../Page/スーパーロボット大戦ORIGINAL_GENERATION.md "wikilink")』（以下『OG1』）と、『[スーパーロボット大戦ORIGINAL GENERATION2](../Page/スーパーロボット大戦ORIGINAL_GENERATION2.md "wikilink")』（以下『OG2』）を[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（PS2）向けに[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")した作品である。
+
+機種がディスクメディアのPS2となったことでキャラクターボイスの搭載や『[スーパーロボット大戦MX](../Page/スーパーロボット大戦MX.md "wikilink")』で試みられた、画面全体を活用した演出が本格的に導入された。また、シナリオの追加や『OG1』『OG2』に登場しなかったユニットやキャラクターが多数登場するなど新規要素も多い。
+
+ストーリーは大きく分けてDC戦争からL5戦役までの「EPISODE1」（『OG1』）と、インスペクター事件やシャドウミラー反乱を描く「EPISODE2」（『OG2』）に分かれており、さらに「EPISODE2」クリア後には後日談の新規シナリオ「EPISODE2.5」がプレイ可能となる。「EPISODE2.5」は[OVA](../Page/OVA.md "wikilink")で発売された『[スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION](https://ja.wikipedia.org/wiki/スーパーロボット大戦ORIGINAL_GENERATION_THE_ANIMATION "wikilink")』に新ストーリーを追加したものだが、物語の前半部分が描かれるに留まっており、後に発売された『[スーパーロボット大戦OG外伝](../Page/スーパーロボット大戦OG外伝.md "wikilink")』（以下『OG外伝』）にその完全版が収録されている。
+
+シナリオは2作品+α分の合計**104話**と、『[スーパーロボット大戦COMPACT2](../Page/スーパーロボット大戦COMPACT2.md "wikilink")』3部作のコンピレーションソフトであった『[スーパーロボット大戦IMPACT](../Page/スーパーロボット大戦IMPACT.md "wikilink")』を抜いて現在シリーズ最長話数を誇る。ただし通しでプレイする必要があった『スーパーロボット大戦IMPACT』とは異なり、「EPISODE1」と「EPISODE2」は独立した別の作品として扱われているため、どちらからでもプレイ可能である。
+
+『OG外伝』プレイ時にメモリーカードに本作のセーブデータが記録されていると、初期資金が追加されるボーナスがある。
+
+## 発売までの過程
+
+2006年4月22日、スーパーロボット大戦15周年を記念したイベント『鋼のOG祭り』で大々的に制作が発表された\[1\]。2006年中に発売予定と発表され、夏からはテレビなどでCMも放送されはじめた。その後、発売日が翌年の2007年1月25日に確定し、15周年にあたる2006年にリリースすることは出来なくなった。
+
+さらに2006年12月14日、諸般の事情から発売を延期することが発表\[2\]。詳細な理由は発表されていないが、プロデューサーの[寺田貴信](https://ja.wikipedia.org/wiki/寺田貴信 "wikilink")は「諸々の不測の事態や事故が相次ぎ、今年の夏から冬にかけて企画サイドの開発進行を一時的に中断せざるを得なくなった」と釈明している\[3\]。
+
+2007年3月、TVアニメ『[スーパーロボット大戦OG -ディバイン・ウォーズ-](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ディバイン・ウォーズ- "wikilink")』最終話の特別CMにおいて2007年6月28日発売と発表\[4\]。今度は延期されることなく発売された。
+
+次回作となった『OG外伝』は、本作の発売から一ヶ月経たない内に開発が発表された\[5\]。
+
+## あらすじ
+
+  - EPISODE1
+    新西暦179年、アイドネウス島にメテオ3という隕石が落下した。メテオ3を調査したビアン・ゾルダーク博士はそれが人工物と判断し、メテオ3を研究するEOTI機関が設立された。それから7年、異星人の襲来まで時間がないことを悟ったビアン博士は地球に軍事政権を設立するために**ディバイン・クルセイダーズ**（DC）を結成するが、その手段はあまりに過激であった。地球連邦軍の**ハガネ**と**ヒリュウ改**は、DCとそれに賛同するコロニー統合軍を打ち倒すことに成功するが、それはビアンが提唱していた異星人との戦いの前章に過ぎなかった。
+  - EPISODE2
+    ホワイトスターでの**エアロゲイター**との戦い**L5戦役**から半年、連邦政府は地球外知的生命体の存在を認め、連邦軍の組織改編と軍備増強計画**イージス計画**を発表した。しかし、DCの残党が結集した新たな組織**ノイエDC**、新たな異星人**インスペクター**、それらの影で暗躍する謎の組織**シャドウミラー**、そして**アインスト**と呼ばれる謎の存在など、地球人類はさらなる戦いの渦に巻き込まれていくことになった。
+  - EPISODE2.5
+    インスペクターやアインストとの戦いからしばらく、イージス計画の更なる強化のための新型機のトライアルで突如暴走した新型機は民間人を攫っていった。ハガネとヒリュウ改は攫われた人々を救出するため、ヘルゲートへと向かった。
+
+## 参戦作品
+
+### 一覧
+
+本作は[バンプレストオリジナル](https://ja.wikipedia.org/wiki/バンプレストオリジナル "wikilink")しか登場しないため、厳密には参戦作品の概念は存在しない。
+
+キャラクター、機体出典作品は以下の通り。☆はOGシリーズ初登場。
+
+  - DC戦争シリーズ/[魔装機神シリーズ](https://ja.wikipedia.org/wiki/魔装機神シリーズ "wikilink")
+      - [第2次スーパーロボット大戦](../Page/第2次スーパーロボット大戦.md "wikilink")
+      - [第3次スーパーロボット大戦](../Page/第3次スーパーロボット大戦.md "wikilink")
+      - [第4次スーパーロボット大戦](https://ja.wikipedia.org/wiki/第4次スーパーロボット大戦 "wikilink")
+      - [スーパーロボット大戦F / F完結編](https://ja.wikipedia.org/wiki/スーパーロボット大戦F "wikilink")
+  - αシリーズ
+      - [スーパーロボット大戦α](../Page/スーパーロボット大戦α.md "wikilink")
+      - [スーパーロボット大戦α外伝](../Page/スーパーロボット大戦α外伝.md "wikilink")
+      - [第2次スーパーロボット大戦α](../Page/第2次スーパーロボット大戦α.md "wikilink")
+      - ☆[第3次スーパーロボット大戦α 終焉の銀河へ](../Page/第3次スーパーロボット大戦α_終焉の銀河へ.md "wikilink")
+  - COMPACTシリーズ
+      - [スーパーロボット大戦COMPACT2](../Page/スーパーロボット大戦COMPACT2.md "wikilink")
+      - [スーパーロボット大戦IMPACT](../Page/スーパーロボット大戦IMPACT.md "wikilink")
+      - ☆[スーパーロボット大戦COMPACT3](https://ja.wikipedia.org/wiki/スーパーロボット大戦COMPACT3 "wikilink")
+  - 任天堂携帯機シリーズ
+      - [スーパーロボット大戦A](../Page/スーパーロボット大戦A.md "wikilink")
+      - ☆[スーパーロボット大戦R](../Page/スーパーロボット大戦R.md "wikilink")
+  - 他スーパーロボット大戦シリーズゲーム作品
+      - ☆[スーパーロボット大戦Scramble Commander](https://ja.wikipedia.org/wiki/スーパーロボット大戦Scramble_Commander "wikilink")
+      - [新スーパーロボット大戦](../Page/新スーパーロボット大戦.md "wikilink")
+  - スーパーロボット大戦シリーズメディア作品
+      - ☆[スーパーロボット大戦OG -ディバイン・ウォーズ-](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ディバイン・ウォーズ- "wikilink")
+  - スーパーロボット大戦シリーズ以外作品
+      - ☆[ザ・グレイトバトルシリーズ](https://ja.wikipedia.org/wiki/コンパチヒーローシリーズ#グレイトバトルシリーズ "wikilink")
+      - [ヒーロー戦記 プロジェクト オリュンポス](../Page/ヒーロー戦記_プロジェクト_オリュンポス.md "wikilink")
+      - [スーパーロボットスピリッツ](https://ja.wikipedia.org/wiki/スーパーロボットスピリッツ "wikilink")
+
+### パッケージ登場機体
+
+機体の後ろに括弧書きで初登場した作品。
+
+  - [R-1](https://ja.wikipedia.org/wiki/SRX計画#R-1 "wikilink")（新スーパーロボット大戦）
+  - [アルトアイゼン](https://ja.wikipedia.org/wiki/ATX計画#アルトアイゼン "wikilink")（スーパーロボット大戦COMPACT2）
+  - [グルンガスト](https://ja.wikipedia.org/wiki/グルンガスト#グルンガスト "wikilink")（第4次スーパーロボット大戦）
+  - サイバスター（第2次スーパーロボット大戦）
+  - [ダイゼンガー](https://ja.wikipedia.org/wiki/ダイナミック・ゼネラル・ガーディアン#ダイゼンガー\(武神装攻ダイゼンガー\) "wikilink")（第2次スーパーロボット大戦α）
+
+## システム
+
+ここでは、本作特有のシステムや新規追加・変更されたシステムについて解説する。シリーズ共通のシステムについては[スーパーロボット大戦シリーズのシステム](../Page/スーパーロボット大戦シリーズのシステム.md "wikilink")を参照。
+
+武器換装やパイロット養成といった[『OG』シリーズの特徴的なシステムはそのままに](https://ja.wikipedia.org/wiki/スーパーロボット大戦ORIGINAL_GENERATION#システム "wikilink")、さらに新しい要素を盛り込んでいる。
+
+  - ツインバトルシステム
+    本作で初めて採用されたシステム。前後左右あるいは斜めに近接して位置する2機のユニットが必要な気力（110）を満たしていると「合流」コマンドが追加され、選択することでツインユニットを形成する。ツインユニットはメイン側・サブ側の2機で同時に攻撃できるようになるほか、「ツイン精神コマンド」も使用可能になり、またユニットの属性によって異なる様々な機体特性を得られる。攻撃時には2機で敵1体を攻撃する「集中攻撃」かツインユニットの敵をそれぞれ攻撃する「個別攻撃」を選択可能。ツインユニットでツインユニットを援護することも可能であり、最大4機で攻撃をかけることができる（合体攻撃は1体として扱われるため、同時に戦闘参加可能な機体数はさらに多い）。
+  - ダブルアタック
+    ツインバトルシステムの追加により2機で1ユニット扱いになるため、ツインユニットのメイン・サブ双方を攻撃できる「全体攻撃属性」の武器が増えた。さらに全体攻撃の上位版として、『スーパーロボット大戦MX』にあった、全体攻撃かつ隣接ユニットまで攻撃できる「ダブルアタック」も追加された（代わりに『OG2』にあった「連続攻撃」は削除された）。
+  - 特殊弾
+    今作で初めて採用されたシステム。マップ上のコンテナ取得により得られるアイテムの中には「地形適応陸↑」などの素材が存在し、2種類または3種類の素材を組み合わせて特殊弾を開発する。特殊弾をブーステッド・ライフルなど実体弾系の換装武器に装填することで武器の性能を変化させることができる。特殊弾の効果は原則として素材の効果を反映するが、特定の組み合わせでは独自の追加効果（装甲値の低下など）が得られるものもある。特殊弾を素材に戻すことや組み合わせの変更も自由に行える。装填は換装武器ひとつにつき特殊弾ひとつに限られるが取り外し・再装填は任意。実弾系であっても機体の固定武装には装填できない。メガ・ビームライフルなどの非実弾系武器やリープ・スラッシャーなど砲弾を使用しない換装武器にも装填不可となっている。
+
+## 登場人物・機動兵器
+
+## スタッフ
+
+  - プロデューサー
+    [寺田貴信](https://ja.wikipedia.org/wiki/寺田貴信 "wikilink")
+    じっぱひとからげ
+    菊池博
+  - ディレクター
+    早浚真澄
+  - 脚本
+    千住京太郎
+    寺田貴信
+    [森住惣一郎](../Page/森住惣一郎.md "wikilink")（MONOLITHSOFT）
+  - オリジナルメカニックデザイン
+    [宮武一貴](https://ja.wikipedia.org/wiki/宮武一貴 "wikilink")
+    [カトキハジメ](https://ja.wikipedia.org/wiki/カトキハジメ "wikilink")
+    [大張正己](https://ja.wikipedia.org/wiki/大張正己 "wikilink")
+    [大河原邦男](https://ja.wikipedia.org/wiki/大河原邦男 "wikilink")
+    齋藤和衛
+    青木健太
+    藤井大誠（レイ・アップ）
+    大輪充
+    守谷淳一
+    [富士原昌幸](https://ja.wikipedia.org/wiki/富士原昌幸 "wikilink")
+    [津島直人](../Page/津島直人.md "wikilink")
+    [Mがんぢー](https://ja.wikipedia.org/wiki/Mがんぢー "wikilink")
+    射尾卓弥
+    間垣亮太
+    高倉武史
+    [八房龍之助](../Page/八房龍之助.md "wikilink")
+    杉浦俊朗
+    安藤弘
+    小野聖二
+    金丸仁
+    土屋英寛
+    小林淳
+    森野健一郎
+    宝木新太郎
+  - オリジナルキャラクターデザイン
+    [河野さち子](../Page/河野さち子.md "wikilink")（シー・ピー・トムズ）
+    Mがんぢー
+    糸井美帆
+    歌津義明
+    八房龍之助
+    白川紋子
+
+## 主題歌
+
+どちらも：[JAM Projectが担当](https://ja.wikipedia.org/wiki/JAM_Project "wikilink")。OPテーマ「Rocks」は、『OG外伝』でBGMとして収録されている。
+
+  - OP「Rocks」
+  - ED「Portal」
+
+## プロモーション
+
+### 15周年記念感謝祭『鋼のOG祭り』
+
+2006年4月に品川プリンスホテル「ステラボール」にて開催された、スーパーロボット大戦シリーズの15周年記念イベント\[6\]。本作の発表はこのイベントの中で行われた。大まかな流れは前年の『スパロボ感謝祭』と同様に、ゲームの新作発表や[ジャムプロジェクトの主題歌発表を兼ねたライブ](https://ja.wikipedia.org/wiki/JAM_Project "wikilink")、ゲストを迎えてのトークが軸となっている。他に、テレビアニメとして『[スーパーロボット大戦OG -ディバイン・ウォーズ-](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ディバイン・ウォーズ- "wikilink")』の制作発表も行われている。今回のゲストは、ゲームに出演している主要な声優とは別に、[河野さち子](../Page/河野さち子.md "wikilink")や[大張正己](https://ja.wikipedia.org/wiki/大張正己 "wikilink")などゲームの制作に深く関わっているスタッフとのトークコーナーが設けられた。
+
+### 秘密の宴
+
+2006年7月22日に新宿LOFT/PLUS ONEにて、本作のトークライブが開催された\[7\]。プロデューサーの寺田貴信、公式ブログの執筆者に任命されて日が浅い声優の斉藤梨絵・相沢舞(通称T.B.R.)、開発スタッフの安藤弘・土屋英寛、演出家の嶋崎直登、ボークスの鷹尾充輝が出演し、制作裏話や戦闘シーンの先行公開、SRXフルアクションフィギュアの合体実演などが行われた。
+
+### キャラホビ2006
+
+2006年8月19日、20日に幕張メッセで開催された「C3×HOBBY キャラホビ2006」にて、本作のステージイベントを計6回にわたり実施した\[8\]。プロデューサーの寺田貴信、三木眞一郎、冬馬由美、置鮎龍太郎、緑川光の4人の声優陣、テーマソングを歌うJAM Projectが出演し、PVの上映やトークイベント、テレビアニメ『スーパーロボット大戦OG -ディバイン・ウォーズ-』のテーマ曲「Break Out」の初披露が行われた。
+
+### テレビCM
+
+  - 第1弾CM
+    イングラム・プリスケン役の[古澤徹](https://ja.wikipedia.org/wiki/古澤徹 "wikilink")がナレーションを勤めるバージョン\[9\]。
+  - 特報60秒CM編
+    『[スーパーロボット大戦OG -ディバイン・ウォーズ-](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ディバイン・ウォーズ- "wikilink")』の最終回終了直後に流れた特報CM\[10\]。
+  - 武神装攻編
+    ゼンガー・ゾンボルト役の[小野健一がナレーションを勤めるバージョン](https://ja.wikipedia.org/wiki/小野健一_\(声優\) "wikilink")\[11\]。
+  - ヴァルシオーネしょこたん編
+    [中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")が[ヴァルシオーネのコスプレをして行うCM](https://ja.wikipedia.org/wiki/ヴァルシオン#ヴァルシオーネ "wikilink")\[12\]。
+
+### ディスプレイコンテスト
+
+ゲームショップの店頭ディスプレイを表彰するディスプレイコンテストが行われた\[13\]。
+
+### 購入特典
+
+予約特典は、設定資料集「Super Robot Wars OG ORIGINAL GENERATIONS Official Perfect File」\[14\]。
+
+## 関連商品
+
+### 攻略本
+
+  - スーパーロボット大戦OG ORIGINAL GENERATIONS プレイヤースバイブル ISBN 9784757736580
+  - スーパーロボット大戦OG ORIGINAL GENERATIONS パーフェクトバイブル ISBN 9784757737709
+  - スーパーロボット大戦OG ORIGINAL GENERATIONS ザ・コンプリートガイド ISBN 9784840240017
+  - スーパーロボット大戦OG ORIGINAL GENERATIONS パーフェクトガイド ISBN 9784797343380
+
+### コミック
+
+  - スーパーロボット大戦OG ORIGINAL GENERATIONS コミックアンソロジー
+    2008年4月15日初版、[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")、DNAメディアコミックス。ISBN 9784758004268
+    複数作家による二次創作短編漫画。
+  - スーパーロボット大戦OG ORIGINAL GENERATIONS 4コマKINGS
+    2008年5月15日初版、一迅社、DNAメディアコミックス。ISBN 9784758004350
+    複数作家による二次創作4コマ漫画。
+
+### CD
+
+  - スーパーロボット大戦OG ORIGINAL GENERATIONS オリジナルサウンドトラック
+    2007年9月5日発売 [ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")
+    本編BGMを収録したサウンドトラックCD。
+
+### 周辺機器
+
+  - [メモリーカード](../Page/メモリーカード.md "wikilink")8MB\[15\]
+
+## 脚注
+
+## 外部リンク
+
+  - [スーパーロボット大戦OG ORIGINAL GENERATIONS 公式サイト](http://www.suparobo.jp/srw_lineup/srw_ogps/)
+  - [プレイステーションオフィシャルサイト スーパーロボット大戦OG ORIGINAL GENERATIONS（通常版） 紹介ページ](http://www.jp.playstation.com/software/title/slps25733.html)
+  - [プレイステーションオフィシャルサイト スーパーロボット大戦OG ORIGINAL GENERATIONS（PlayStation 2 the Best版） 紹介ページ](http://www.jp.playstation.com/software/title/slps73262.html)
+
+[Category:スーパーロボット大戦のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:スーパーロボット大戦のコンピュータゲーム "wikilink") [Category:バンプレストのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:バンプレストのクロスオーバー作品 "wikilink") [Category:バンプレストオリジナル](https://ja.wikipedia.org/wiki/Category:バンプレストオリジナル "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:オムニバスのゲーム](https://ja.wikipedia.org/wiki/Category:オムニバスのゲーム "wikilink") [Category:リメイクゲーム](https://ja.wikipedia.org/wiki/Category:リメイクゲーム "wikilink") [Category:パラレルワールドを題材にしたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:パラレルワールドを題材にしたコンピュータゲーム "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.

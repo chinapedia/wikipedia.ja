@@ -1,0 +1,56 @@
+> この記事は[CA1](https://ja.wikipedia.org/wiki/CA1)から翻訳されています。
+
+
+**シュナイダーCA1**（Char Schneider CA1）は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")最初の[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")で、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")で使用された。フランスで主要な兵器製造企業の1つであった[シュナイダー社により生産された](../Page/シュナイダーエレクトリック.md "wikilink")。
+
+## 概要
+
+[アメリカのホルト社](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（現在の[キャタピラー社](../Page/キャタピラー_\(企業\).md "wikilink")）のデモンストレーションを見学したフランス陸軍大佐は後にフランス最初の戦車になる装甲戦闘車両を発案した。彼は自らのアイディアを当時のフランス陸軍総司令官ジョッフル陸軍大将に手紙で送り、[1915年](../Page/1915年.md "wikilink")12月に面会して生産の了解を取り付けた。設計はエスティエンヌとシュナイダー社の**ウージューヌ・ブリエ**の共同設計で、[1916年](../Page/1916年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に製造が開始され、同年9月に最初の1輌が完成した。
+
+本車や[サン・シャモン突撃戦車](../Page/サン・シャモン突撃戦車.md "wikilink")の指揮・支援用に設計された[ルノー FT-17 軽戦車が好成績だったこともあり](../Page/ルノー_FT-17_軽戦車.md "wikilink")、当初1,500輛を構想された生産計画は放棄され、第一次世界大戦の終戦を待たずに生産を終了した。[1918年](../Page/1918年.md "wikilink")8月までに[プロトタイプ](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")を含め400輛が生産された。うち20輛は[イタリア](../Page/イタリア.md "wikilink")に売却される予定であったが、引き渡されたのは1〜2輛にとどまる。
+
+## 構造
+
+足回りにホルト社の[トラクター](../Page/トラクター.md "wikilink")をそのまま流用したシャーシに、11mmの[装甲](https://ja.wikipedia.org/wiki/装甲 "wikilink")板で構成された船型の戦闘室を搭載し、車体前部にはワイヤーカッターを装備した。尾部には超壕用のソリが取り付けられている。乗り降りは後部に設けられた観音開きの扉から行った。
+
+内部はエンジンと屋根に挟まれた高さ90cmほどの空間が戦闘室になっており、換気不足と冷却不良から居住性は悪く、射撃統制に支障を来すほどだった。シュナイダー社製のエンジンも出力不足で信頼性も低くかった。
+
+## 武装
+
+車体前面の右側面に砲郭式（ケースメイト式）にシュナイダー社製の短砲身9.5口径の75 mm榴弾砲を装備したが、これは指向角度が限定されたうえ、射程距離も600mあまりだった。車体側面左右の半球型の銃座には8 mm [ホチキス重機関銃を](../Page/ホッチキス_Mle1914重機関銃.md "wikilink")1挺ずつ装備した。
+
+装甲はドイツ軍[歩兵](../Page/歩兵.md "wikilink")が[小銃](../Page/小銃.md "wikilink")/[機関銃](../Page/機関銃.md "wikilink")に用いた鋼鉄弾芯入りの[徹甲弾](../Page/徹甲弾.md "wikilink")「SmK弾」に耐えられず、40mmの隙間を開けた上で5mmの増加装甲が追加された。
+
+## 運用
+
+1916年8月にはフランス最初の機甲部隊が発足し、9月30日に陸軍准将に昇進したエスティエンヌは突撃砲兵隊の指揮官に任命された。
+
+シュナイダーCA1の初陣は[1917年](../Page/1917年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")のシェマン・デ・ダームの戦闘（[fr](https://ja.wikipedia.org/wiki/:fr:Bataille_du_Chemin_des_Dames "wikilink")）だった。この戦いに132輛が投入され、57輛が撃破された。
+
+## その後
+
+[250pxの現存車輌](https://ja.wikipedia.org/wiki/画像:SchneiderCarroussel.jpg "wikilink")
+2000年の撮影\]\]
+
+[1922年](../Page/1922年.md "wikilink")に6輛が[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")に売却され、ルノーFTと共に戦車部隊を構成し[モロッコ](../Page/モロッコ.md "wikilink")で行われた第三次リーフ戦争で[1923年](../Page/1923年.md "wikilink")から[1926年](../Page/1926年.md "wikilink")まで戦闘任務についた。これらのうち生き残った4輛は[1936年](../Page/1936年.md "wikilink")からの[スペイン内戦](../Page/スペイン内戦.md "wikilink")に[人民戦線政府側で参加した](../Page/スペイン人民戦線.md "wikilink")。
+
+現在はフランスの[ソミュール戦車博物館](https://ja.wikipedia.org/wiki/ソミュール戦車博物館 "wikilink")に一輛が実働状態で展示されている。
+
+## バリエーション
+
+  - シュナイダーCA2
+    75 mm 砲を廃し、上面に47 mm 砲を装備した旋回砲塔を搭載した。1917年に試作車が1輌生産された。
+  - シュナイダーCA3
+    車体前面に機関銃2挺を増設し、車体後部を延長した。50輌が発注されたものの生産は行われなかった。
+
+{{-}}
+
+## 関連項目
+
+  - [戦車一覧](../Page/戦車一覧.md "wikilink")
+
+## 外部リンク
+
+  - [フランス戦車の研究サイト・現存する車輌の内部などの写真が多く掲載されている](http://www.chars-francais.net/archives/schneider.htm)
+
+[Category:フランスの戦車](https://ja.wikipedia.org/wiki/Category:フランスの戦車 "wikilink") [Category:シュナイダーエレクトリック](https://ja.wikipedia.org/wiki/Category:シュナイダーエレクトリック "wikilink")

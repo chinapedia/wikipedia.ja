@@ -1,0 +1,115 @@
+> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Aufstieg_FCC_2005_02.jpg "wikilink")
+
+**FCカール・ツァイス・イェーナ**（）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の中部、[テューリンゲン州](../Page/テューリンゲン州.md "wikilink")の都市[イェーナ](../Page/イェーナ.md "wikilink")を本拠地とするサッカークラブである。旧[東ドイツにおける強豪クラブの一つであったが](../Page/ドイツ民主共和国.md "wikilink")、東西ドイツ統一後は低迷が続き、一時は[オーバーリーガ](https://ja.wikipedia.org/wiki/オーバーリーガ "wikilink")（5部相当）にまで降格した。現在は3.リーガ(3部相当)所属。
+
+## 歴史
+
+[1903年](../Page/1903年.md "wikilink")に光学機器メーカー[カール・ツァイス](../Page/カール・ツァイス.md "wikilink")によって創設された。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後、ソ連の占領下で1946年に再興したクラブは、幾度か[ドイツ社会主義統一党](../Page/ドイツ社会主義統一党.md "wikilink")の圧力によってクラブ名を変えつつ、1951年に[DDRオーバーリーガ](https://ja.wikipedia.org/wiki/DDRオーバーリーガ "wikilink")に昇格を果たした。[1960年](../Page/1960年.md "wikilink")、カップ戦でSCエンポル・ロストック（現在の[ハンザ・ロストック](https://ja.wikipedia.org/wiki/ハンザ・ロストック "wikilink")）に勝利して初優勝を果たした。
+
+旧東ドイツのDDRオーバーリーガでは、1963年、1968年、1970年にリーグ制覇を果たした。その後も優勝は果たせなかったものの優秀な成績を収めており、また国内カップ戦でも4度の優勝を果たした。
+
+現在のところ、クラブ史における最大の栄光は1981年の[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")準優勝である。この時は、[ASローマ](../Page/ASローマ.md "wikilink")、[バレンシア](https://ja.wikipedia.org/wiki/バレンシアCF "wikilink")、[ベンフィカ](https://ja.wikipedia.org/wiki/ベンフィカ "wikilink")といった強豪を倒しての決勝進出であったが、決勝戦では同じく大番狂わせの果てに決勝までたどりついた[ディナモ・トビリシ](https://ja.wikipedia.org/wiki/ディナモ・トビリシ "wikilink")に1-2で敗れた。
+
+東西ドイツの統一にともない、DDRオーバーリーガはブンデスリーガに編入されることになった。オーバーリーガの最終年に6位の成績を収めたイェーナは、ブンデスリーガ2部へと編入された。しかし、資本力に勝る旧[西ドイツ](../Page/西ドイツ.md "wikilink")のクラブに圧倒され、1998年には[レギオナルリーガ](https://ja.wikipedia.org/wiki/レギオナルリーガ "wikilink")へ降格、さらに2001年にはレギオナルリーガで18位となり、オーバーリーガ（4部）にまで転落した。2005年、イェーナはオーバーリーガで優勝を果たし、レギオナルリーガへと昇格。続く2006年には、レギオナルリーガ2位により悲願のブンデスリーガ2部への復帰を果たした。
+
+2006-07シーズンは、最終戦を残した段階で降格圏内の15位にいたが（同勝点で4チームが並んでおり、得失点差により2チームが降格圏内、2チームが残留圏内であった）、最終戦に勝った事で劇的な逆転で2部残留（13位）を決めた。
+
+2007-08シーズン、ブンデスリーガ2部最下位となり3部へ降格。さらに2011-12シーズンには3部で18位となり、レギオナルリーガへ降格した。
+
+## タイトル
+
+### 国内タイトル
+
+  - **[DDRオーバーリーガ](https://ja.wikipedia.org/wiki/DDRオーバーリーガ "wikilink"):3回**
+
+<!-- end list -->
+
+  -
+    [1963年](../Page/1963年.md "wikilink")、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")
+
+<!-- end list -->
+
+  - **FDGBカップ（東ドイツカップ戦）:4回**
+
+<!-- end list -->
+
+  -
+    [1960年](../Page/1960年.md "wikilink")、[1972年](../Page/1972年.md "wikilink")、[1974年](../Page/1974年.md "wikilink")、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")
+
+### 国際タイトル
+
+  - **[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")[準優勝](https://ja.wikipedia.org/wiki/準優勝 "wikilink")** 1981年
+
+## 過去の成績
+
+| シーズン                                                                            | ディビジョン                                                                        | [DFBポカール](https://ja.wikipedia.org/wiki/DFBポカール "wikilink") |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| リーグ                                                                             | 順位                                                                            | 試                                                           |
+| 1995-96                                                                         | [ブンデスリーガ2部](https://ja.wikipedia.org/wiki/2._ブンデスリーガ_\(ドイツサッカー\) "wikilink")  | 6位                                                          |
+| 1996-97                                                                         | ブンデスリーガ2部                                                                     | 12位                                                         |
+| 1997-98                                                                         | ブンデスリーガ2部                                                                     | 16位                                                         |
+| 1998-99                                                                         | [レギオナルリーガ・北東部](https://ja.wikipedia.org/wiki/レギオナルリーガ_\(ドイツサッカー\) "wikilink") | 9位                                                          |
+| 1999-00                                                                         | レギオナルリーガ・北東部                                                                  | 4位                                                          |
+| 2000-01                                                                         | レギオナルリーガ・南部                                                                   | 18位                                                         |
+| 2001-02                                                                         | [オーバーリーガ](https://ja.wikipedia.org/wiki/オーバーリーガ "wikilink")・南部                | 3位                                                          |
+| 2002-03                                                                         | オーバーリーガ・南部                                                                    | 2位                                                          |
+| 2003-04                                                                         | オーバーリーガ・南部                                                                    | 2位                                                          |
+| 2004-05                                                                         | オーバーリーガ・南部                                                                    | 1位                                                          |
+| 2005-06                                                                         | レギオナルリーガ・南部                                                                   | 2位                                                          |
+| 2006-07                                                                         | ブンデスリーガ2部                                                                     | 13位                                                         |
+| 2007-08                                                                         | ブンデスリーガ2部                                                                     | 18位                                                         |
+| 2008–09                                                                         | [ブンデスリーガ3部](https://ja.wikipedia.org/wiki/3._リーガ_\(ドイツサッカー\) "wikilink")      | 16位                                                         |
+| 2009–10                                                                         | ブンデスリーガ3部                                                                     | 5位                                                          |
+| 2010–11                                                                         | ブンデスリーガ3部                                                                     | 15位                                                         |
+| 2011–12                                                                         | ブンデスリーガ3部                                                                     | 18位                                                         |
+| 2012–13                                                                         | レギオナルリーガ・北東部                                                                  | 2位                                                          |
+| 2013–14                                                                         | レギオナルリーガ・北東部                                                                  | 3位                                                          |
+| 2014–15                                                                         | レギオナルリーガ・北東部                                                                  | 4位                                                          |
+| 2015–16                                                                         | レギオナルリーガ・北東部                                                                  | 7位                                                          |
+| 2016–17                                                                         | レギオナルリーガ・北東部                                                                  | 1位                                                          |
+| [2017–18](https://ja.wikipedia.org/wiki/3._リーガ_\(ドイツサッカー\)2017-2018 "wikilink") | ブンデスリーガ3部                                                                     | 11位                                                         |
+| [2018-19](https://ja.wikipedia.org/wiki/3._リーガ_\(ドイツサッカー\)2018-2019 "wikilink") | ブンデスリーガ3部                                                                     | 14位                                                         |
+| [2019-20](https://ja.wikipedia.org/wiki/3._リーガ_\(ドイツサッカー\)2019-2020 "wikilink") | ブンデスリーガ3部                                                                     | 位                                                           |
+
+## 歴代監督
+
+  - [マーク・ツィマーマン](https://ja.wikipedia.org/wiki/マーク・ツィマーマン "wikilink") 2016-
+
+## 歴代所属選手
+
+### GK
+
+  - [ロベルト・エンケ](https://ja.wikipedia.org/wiki/ロベルト・エンケ "wikilink") 1995-1996
+
+### DF
+
+  - [ブライアン・ブリス](https://ja.wikipedia.org/wiki/ブライアン・ブリス "wikilink") 1992-1996
+
+### MF
+
+  - [ベルント・シュナイダー](https://ja.wikipedia.org/wiki/ベルント・シュナイダー_\(サッカー選手\) "wikilink") 1991-1998
+
+  - [トビアス・ヴェルナー](https://ja.wikipedia.org/wiki/トビアス・ヴェルナー "wikilink") 2004-2008
+
+  - [ヤン・シマーク](https://ja.wikipedia.org/wiki/ヤン・シマーク "wikilink") 2007-2008, 2011-2012
+
+  - [菊地直哉](../Page/菊地直哉.md "wikilink") 2008-2009
+
+  - [ビョルン・リンデマン](https://ja.wikipedia.org/wiki/ビョルン・リンデマン "wikilink") 2011
+
+### FW
+
+  - [サミ・アラギ](https://ja.wikipedia.org/wiki/サミ・アラギ "wikilink") 2007-2008
+
+  - [ニルス・ペーターゼン](https://ja.wikipedia.org/wiki/ニルス・ペーターゼン "wikilink") 2007-2008
+
+  - [アンドレ・シェンブリ](https://ja.wikipedia.org/wiki/アンドレ・シェンブリ "wikilink") 2008-2009
+
+## 外部リンク
+
+  - [公式サイト](http://www.fc-carlzeiss-jena.de/)
+
+[Category:ドイツのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ドイツのサッカークラブ "wikilink") [Category:ドイツ民主共和国のサッカークラブ](https://ja.wikipedia.org/wiki/Category:ドイツ民主共和国のサッカークラブ "wikilink") [Category:テューリンゲンのサッカークラブ](https://ja.wikipedia.org/wiki/Category:テューリンゲンのサッカークラブ "wikilink") [Category:イェーナ](https://ja.wikipedia.org/wiki/Category:イェーナ "wikilink") [Category:1903年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1903年設立のスポーツチーム "wikilink")

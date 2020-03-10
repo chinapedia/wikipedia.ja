@@ -1,0 +1,76 @@
+> この記事は[EZ-9](https://ja.wikipedia.org/wiki/EZ-9)から翻訳されています。
+
+
+**EZ-9**（イージーナイン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売した[オートバイ](../Page/オートバイ.md "wikilink")である。本項では[派生車種の](../Page/姉妹車.md "wikilink")**EZ SNOW**（イージースノー）についても解説を行う。
+
+## 概要
+
+[1989年](../Page/1989年.md "wikilink")10月26日 - 11月6日に開催された第28回[東京モーターショー](../Page/東京モーターショー.md "wikilink")\[1\]に参考出品された[コンセプトモデル](https://ja.wikipedia.org/wiki/コンセプトモデル "wikilink")**EZ-90**\[2\]をベースに[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")8月7日発表、同年9月23日発売で市販化された一体式フルカバードデサインのオフロード走行専用モデルである\[3\]。
+
+## 車両解説
+
+型式名HE06\[4\]。オフロード走行やアウトドアライフをもっと楽しみたいと考える家族や若者向けに開発し、簡単な操作で初心者からベテランライダーまで不整地走行が楽しめる[コンセプトを持ったスポーツグッズ感覚のオフロード走行専用車である](../Page/概念.md "wikilink")\[5\]。
+
+全長x全幅x全高：1,680x755×990（mm）・[ホイールベース](../Page/ホイールベース.md "wikilink")1,200mm・最小回転半径1,750mm・[最低地上高](../Page/最低地上高.md "wikilink")210mm・シート高750mm・車重：乾燥82㎏/装備85㎏の車体を持つ本モデル最大の特徴は、エンジン・[エキゾーストマニホールド](../Page/エキゾーストマニホールド.md "wikilink")・ドライブユニット・容量3.6Lの燃料タンク・容量0.5Lの[2ストロークオイル](https://ja.wikipedia.org/wiki/2ストロークオイル "wikilink")タンクに至るまでのメカニズムをフルカバードし、[ヘッドライトや](https://ja.wikipedia.org/wiki/前照灯 "wikilink")[方向指示器](https://ja.wikipedia.org/wiki/方向指示器 "wikilink")などの保安部品は装備しない。このためナンバー取得ならびに[公道](../Page/公道.md "wikilink")走行不可である\[6\]\[7\]。
+
+バックボーン型[フレームに搭載される内径x行程](../Page/フレーム_\(オートバイ\).md "wikilink")：48.0x49.6（mm）・排気量89.7㏄・[圧縮比](https://ja.wikipedia.org/wiki/圧縮比 "wikilink")5.8のHE06E型強制[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[2ストローク](../Page/2ストローク機関.md "wikilink")[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")は、[セルフ](../Page/セルモーター.md "wikilink")・[キック併用の始動方式としPB](../Page/キックスターター.md "wikilink")11型[キャブレター](../Page/キャブレター.md "wikilink")による燃料供給ならびに[CDI式バッテリー](https://ja.wikipedia.org/wiki/キャパシター・ディスチャージド・イグニッション "wikilink")[点火装置](https://ja.wikipedia.org/wiki/点火装置 "wikilink")により最高出力7.8ps/6,250rpm・最大トルク0.92kg-m/5,500rpmのスペックを発揮する\[8\]。
+
+動力伝達は乾式多板シュー式[クラッチ](https://ja.wikipedia.org/wiki/クラッチ "wikilink")を介した変速比2.300 - 0.800のVベルト式[無段変速機](../Page/無段変速機.md "wikilink")により行い、減速比は1次6.438/2次2.500に設定\[9\]。いわゆる[スクーター](https://ja.wikipedia.org/wiki/スクーター "wikilink")と同等のシステムであるが、オフロードでの下り坂などで[エンジンブレーキ](../Page/エンジンブレーキ.md "wikilink")効果を得る観点で後輪からの逆駆動力を自動的にエンジンに伝えるための専用クラッチを装備する\[10\]。
+
+[サスペンションは](https://ja.wikipedia.org/wiki/サスペンション_\(オートバイ\) "wikilink")[前輪がテレスコピック](https://ja.wikipedia.org/wiki/フロントサスペンション_\(オートバイ\) "wikilink")、[後輪がスイングアームで](https://ja.wikipedia.org/wiki/リヤサスペンション_\(オートバイ\) "wikilink")、キャスター角は26°00´・トレール量は60mmに設定\[11\]。タイヤは前輪100/90-12・後輪130/90-10の専用チューブレス[バイアスとし](https://ja.wikipedia.org/wiki/バイアスタイヤ "wikilink")、ブレーキは前後とも機械式[リーディングトレーリングであるが](https://ja.wikipedia.org/wiki/ドラムブレーキ "wikilink")、操作は左手レバー・右足ペダルのいずれでも可能な2系統式とした\[12\]。
+
+### EZ SNOW
+
+[1991年](../Page/1991年.md "wikilink")に開催された10月25日 - 11月8日開催された第29回東京モーターショー参考出品後の同月20日に同年12月16日発売を発表したバリエーションモデルで\[13\]、EZ-9からフロントフォークを[スキーユニット](https://ja.wikipedia.org/wiki/スキー板 "wikilink")、後輪駆動部を[トラックベルトユニット](../Page/無限軌道.md "wikilink")に変更し、雪上走行を可能にした[スノーモービル](../Page/スノーモービル.md "wikilink")である\[14\]。
+
+  - このため本モデルにはトレール量が存在しない。
+
+このほか車体は全長x全幅x全高：2,155x760×925（mm）・ホイールベース1,185mm・最低地上高145mm・シート高680mm・車重：乾燥98㎏/装備101㎏とされたが、エンジン等のスペックに変更はない\[15\]。
+
+### 遍歴
+
+  - 1990年8月7日発表\[16\]
+
+EZ-9を日本国内年間販売目標500台 [消費税](../Page/消費税.md "wikilink")抜希望小売価格249,000円で同年9月23日発売
+
+  - 1991年11月20日発表\[17\]
+
+EZ-SNOWを日本国内年間販売目標120台 消費税抜希望小売価格350,000円で同年12月16日発売
+
+  - [1992年](../Page/1992年.md "wikilink")9月18日発表\[18\]
+
+以下の仕様変更を実施した[1993年](../Page/1993年.md "wikilink")[モデルを](https://ja.wikipedia.org/wiki/モデルイヤー "wikilink")150台限定で同年11月2日発売
+
+  - 車体色を白・青・赤→白・赤へ変更
+  - 消費税抜希望小売価格360,000円
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [ホンダ・リード](https://ja.wikipedia.org/wiki/ホンダ・リード "wikilink") - エンジンなどの一部コンポーネンツを共有
+
+[Category:ホンダのオートバイの車種](https://ja.wikipedia.org/wiki/Category:ホンダのオートバイの車種 "wikilink") [Category:スノーモービル](https://ja.wikipedia.org/wiki/Category:スノーモービル "wikilink")
+
+1.  会場を[千葉県](../Page/千葉県.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")[美浜区](../Page/美浜区.md "wikilink")の[幕張メッセ](../Page/幕張メッセ.md "wikilink")へ移転して最初の開催で、同施設の[こけら落とし](https://ja.wikipedia.org/wiki/こけら落とし "wikilink")でもある。
+2.  [1989年10月18日プレスリリース](http://www.honda.co.jp/news/1989/c891018.html)
+3.
+4.  [1990年8月7日プレスリリース](http://www.honda.co.jp/news/1990/2900807.html)
+5.
+6.  ただし一般ユーザーにより保安部品を装着し、ナンバー取得した例がある。
+7.
+8.
+9.
+10.
+11.
+12.
+13. [1991年11月20日プレスリリース](http://www.honda.co.jp/news/1991/2911120.html)
+14.
+15.
+16.
+17.
+18. [1992年9月18日プレスリリース](http://www.honda.co.jp/news/1992/2920918.html)

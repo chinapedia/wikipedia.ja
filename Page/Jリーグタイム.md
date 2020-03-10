@@ -1,0 +1,180 @@
+> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+
+
+**Jリーグタイム**（ジェイリーグタイム）は、[NHK BS1で放送されている](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")[Jリーグの試合結果の詳細を放送するダイジェスト番組である](../Page/日本プロサッカーリーグ.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月放送開始。NHKの関連会社である[NHKグローバルメディアサービス](https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス "wikilink")（以下、G-Media）が制作に携わっている（放送上では製作著作のクレジットはされていない）。
+
+前番組である『**速報Jリーグ**』（そくほうジェイリーグ）についても本稿で記す。
+
+## 概要
+
+当日行われた[J1リーグ](https://ja.wikipedia.org/wiki/J1リーグ "wikilink") (J1) の全試合のダイジェストを映像付き（ローカル放送を含めNHKが中継を行った試合はNHK独自の映像、それ以外はリーグ公式映像）で放送する。[J2リーグ](https://ja.wikipedia.org/wiki/J2リーグ "wikilink") (J2)の試合は、J1開催日は放送の終盤で試合結果のみ全試合放送（まれに一部の試合を映像付きで紹介する日もあり）するほか、2017年以降はJ1の中断期間中を中心に「**J2スペシャル**」と題してJ2クラブの特集やJ2当日全試合ダイジェストを中心に紹介する日がある。[J3リーグ](https://ja.wikipedia.org/wiki/J3リーグ "wikilink")は直近の試合について放送最後でのテロップ表記のみ行う（コメントなし）。放送時間帯が早いため、最も早くJリーグの詳報が伝えられる番組である\[1\]。
+
+タイトルに「Jリーグ」を冠しているが、[サッカー日本代表](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")の国際試合（[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")予選など）がNHKBS1で放送される場合、試合前後に「Jリーグタイムスペシャル」として日本代表戦の展望を中心に編成されることがある。また、NHKが当該週末に行われる国際試合の放映権を持たない場合は、J1の優勝争いや[イングランド](../Page/イングランド.md "wikilink")[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")序盤のハイライトなどの企画を中心に構成するなど、Jリーグ以外の話題を放送することもある。オフシーズンの放送を開始した2009年以降は「ウィンタースペシャル」のサブタイトルでJリーグ回顧や新年度のキャンプ・戦力を分析するなどの企画も放送される。
+
+なお、[天皇杯にJ](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")1チームが登場する場合、試合結果を放送するダイジェスト番組がJリーグタイムとは別枠で放映される\[2\] が、スタジオセットや司会者・解説者の一部はJリーグタイムと共通である。また、[AFCアジアチャンピオンズリーグ](https://ja.wikipedia.org/wiki/AFCアジアチャンピオンズリーグ "wikilink")のダイジェスト番組、および[サッカー日本代表](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")関係のハイライト番組もこの番組のフォーマットを基本に放送されている。
+
+オープニングのムービーおよびエンディングテーマはNHKのJリーグ中継のテーマと同一である（オープニングのムービーは2009年までは番組独自のもので、サッカー選手の[リフティング](https://ja.wikipedia.org/wiki/リフティング "wikilink")の[シルエット](https://ja.wikipedia.org/wiki/シルエット "wikilink")画像だった）。具体的な楽曲名については[Jリーグ中継 (NHK)\#テーマ曲の節を参照](https://ja.wikipedia.org/wiki/Jリーグ中継_\(NHK\)#テーマ曲 "wikilink")。なお2015年6月からはオープニングアイキャッチを、NHKのスポーツ中継・関連番組の統一キャンペーンである「[OUR SPORTS](https://ja.wikipedia.org/wiki/OUR_SPORTS "wikilink")」の映像を使用している。
+
+スタジオのセットには当日NHKが中継したカードや注目のカードに絡むチームのマスコットキャラクターのぬいぐるみが置いてあることが多い。
+
+[2011年](../Page/2011年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の放送から、新BS1でのハイビジョン放送に移行した（番組自体はデジタルでは開始当初から、アナログも[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")の放送からレターボックス16:9サイズの標準画質で放送されている）。それに先駆けて[2011年](../Page/2011年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")放送分からセットを全面的に変更した。これまでは赤ベースのセットに司会者・解説者が座る形で進行していたが、同年1月の[AFCアジアカップ](https://ja.wikipedia.org/wiki/AFCアジアカップ "wikilink")の中継で使用されたサッカーボールをイメージした六角形のモニターを中心にしたセットに若干アレンジを加え、司会者・解説者が立って進行するスタイルになった。[2015年](../Page/2015年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")からはセットはそのままであるが、キャスターらはモニターの右側にカウンターテーブルのような形で座って進行するようになった。
+
+また[2011年](../Page/2011年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")（新BS1移行後）から本編中は一部の時間を除き番組タイトルロゴを画面右下に常時表示するようになった他、[新聞](../Page/新聞.md "wikilink")・[EPG](https://ja.wikipedia.org/wiki/EPG "wikilink")の[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")ではサブタイトルが掲載されるようになった。
+
+2012年からは、番組内で放送されたJ1リーグ戦各試合のダイジェストと「マンスリーJ2」（後述）のコーナーを、[NHKスポーツオンライン・動画（Jリーグ）](http://www1.nhk.or.jp/sports2/movie/index.html?cate_id=jlg) のページにてオンデマンド動画配信している（放送後から期間限定）。
+
+## 放送時間
+
+原則として毎週土曜日及び土曜日以外のJ1リーグ戦開催日・21:10 - 21:50 (JST)
+
+  - 2008年まではJリーグ（J1）シーズン中のリーグ戦の試合が開催された日に限って放送され、[カップ戦のみ](../Page/Jリーグカップ.md "wikilink")・J2のみが行われた日、オフシーズンには放送されなかったが、2009年4月からはJ1リーグ戦開催の有無・オフシーズンに関係なく、ほぼ毎週放送される（平日開催時は従来どおり開催日のみ。また2011年ごろからオンシーズン中に[国際Aマッチ](https://ja.wikipedia.org/wiki/国際Aマッチ "wikilink")などにより、J1の開催がない週末には放送されない日もある）。2010年3月までは21:40までの30分枠だったが、2010年4月から35分枠に拡大した。2012年4月からは更に5分延長で40分になって今日に至る
+  - J1が分散開催（土日、土日祝など）となる場合は、基本的に土曜日のみに放送されている\[3\]。この場合、日曜・祝日開催の数カードは当番組では扱わず、番組の最後で本日の試合結果が表示される際に対戦カードのみを伝える形となる。逆に日曜日のみ開催の場合は放送日が日曜に振り替えとなるのが基本。また、試合日が特定チームの振替措置（[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")との日程調整など）によるものの場合は放送がない。
+  - Jリーグ中継日に21:00から放送される[NHK BSニュースが](https://ja.wikipedia.org/wiki/NHK_BSニュース "wikilink")20:50の放送となるとき（Jリーグ中継がない場合など）は、21:00 - 21:40となるケースがある。逆に前の番組が[NHKプロ野球](../Page/NHKプロ野球.md "wikilink")の場合、放送時間が21:30開始（試合中継延長時は繰り下げ。その場合は生放送予定時間に収録した番組の[撮って出し](https://ja.wikipedia.org/wiki/撮って出し "wikilink")）に変更される。オフシーズンには19時台（19:00 - 19:49など）に放送されることもあった。
+  - 開幕戦、最終節など、重要な試合がある場合は放送時間を拡大することがある。
+      - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月13日](../Page/3月13日.md "wikilink")（[2010年シーズン第](https://ja.wikipedia.org/wiki/2010年のJリーグ "wikilink")2節）の回は[横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")に復帰した[中村俊輔](https://ja.wikipedia.org/wiki/中村俊輔 "wikilink")をフィーチャーした特別版を過去最長の100分間（第1部・21:10-22:00、第2部・22:10-23:00）で放映した。
+      - また[2014年](../Page/2014年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")は当初は通常版での放送予定だったが、[AFCフットサル選手権](../Page/AFCフットサル選手権.md "wikilink")決勝で[フットサル日本代表](https://ja.wikipedia.org/wiki/フットサル日本代表 "wikilink")が決勝進出を果たしたため、その試合中継との合体スペシャルとしてこれを上回る21:10-24:00まで（途中21:55以後マルチ編成で102）の170分間放送が行われる。
+  - 夜間に急遽ほかの重要なスポーツ中継を行う場合など\[4\] には深夜（24:10 - 24:50など）に放送されることもある。2011年以降はスポーツ中継との[マルチチャンネル](../Page/マルチチャンネル.md "wikilink")放送が行われるケースもある\[5\]。
+  - [オリンピックや](../Page/近代オリンピック.md "wikilink")[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")の大会期間中など、BS1の特別編成のために、放送そのものが休止となる場合もある。
+  - この番組の直前の枠でJリーグ中継があった場合、中継の最後に女性キャスターによる当番組の予告が放送される。
+
+なお通常再放送はないが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月29日](../Page/5月29日.md "wikilink")（21時から21時35分）放映分は、翌[5月30日](../Page/5月30日.md "wikilink")に開催される[ワールドカップへ向けた](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")[日本代表対](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")[イングランド代表の強化試合の特集であったことから](../Page/サッカーイングランド代表.md "wikilink")、30日正午から再放送が行われた。またほかに次の再放送の例がある。
+
+  - [2015年](../Page/2015年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")の放送は、理由は不明であるが[6月21日](../Page/6月21日.md "wikilink")1:00-1:40（20日深夜）に再放送が行われた
+  - [2017年](../Page/2017年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")の9:00-10:30には、2017年のJリーグ開幕を目前にした特集として、[2月4日](../Page/2月4日.md "wikilink")・[2月11日](../Page/2月11日.md "wikilink")に放送された「キャンプスペシャル（前後編。前編=沖縄編、後編=宮崎・鹿児島編）」を再放送した。
+
+## 出演者
+
+  - キャスター
+
+:\*[中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink")（フリーキャスター　2017年2月25日-）
+
+:\* NHKサッカー担当アナウンサー（[内山俊哉](../Page/内山俊哉.md "wikilink")、[小宮山晃義](../Page/小宮山晃義.md "wikilink")、[酒井博司](../Page/酒井博司.md "wikilink")、[佐々生佳典](https://ja.wikipedia.org/wiki/佐々生佳典 "wikilink")、[杉岡英樹](../Page/杉岡英樹.md "wikilink")、[杉澤僚](../Page/杉澤僚.md "wikilink")、[曽根優](https://ja.wikipedia.org/wiki/曽根優 "wikilink")、[鳥海貴樹](../Page/鳥海貴樹.md "wikilink")、[野地俊二](../Page/野地俊二.md "wikilink")など。[東京アナウンス室所属か](../Page/NHK放送センター.md "wikilink")、G-Media出向中のアナウンサーが週替わりで担当）
+
+:\* [山本浩](https://ja.wikipedia.org/wiki/山本浩 "wikilink")（元NHKアナウンサー・[法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink")教授。2009年から月1回程度出演。山本が出演する週はNHKアナウンサーは出演しない）
+
+  -
+
+      -
+        ※[電子番組ガイド](../Page/電子番組ガイド.md "wikilink")ではNHKアナウンサーをメイン司会として扱っているが、実質的には女性キャスターが主に番組の進行役を務め、NHKアナウンサーが番組進行に加えて試合のレポートなどを行う役割となっている。
+
+  - 解説（毎回NHKサッカー解説者が週替わりで1名出演）
+
+:\* [小島伸幸](https://ja.wikipedia.org/wiki/小島伸幸 "wikilink")、[早野宏史](https://ja.wikipedia.org/wiki/早野宏史 "wikilink")、[福西崇史](https://ja.wikipedia.org/wiki/福西崇史 "wikilink")、[宮澤ミシェル](https://ja.wikipedia.org/wiki/宮澤ミシェル "wikilink")、[森岡隆三](https://ja.wikipedia.org/wiki/森岡隆三 "wikilink")、[山野孝義](../Page/山野孝義.md "wikilink")、[山本昌邦](../Page/山本昌邦.md "wikilink")など。
+
+:\*\* 2009年は福西がゲスト解説としてたびたび出演した。なお、福西は2010年から正式にNHKのサッカー解説者となった。
+
+  - ゲスト（準レギュラー）
+
+:\* [平畠啓史](../Page/平畠啓史.md "wikilink")（コメディアン。2017年以降、シーズン前の「キャンプ特集」やJ1非開催日の「J2スペシャル」放送時に出演）
+
+  - ナレーター（クレジットなし）
+
+:\*[末広矩行](https://ja.wikipedia.org/wiki/末広矩行 "wikilink")
+
+  - 過去の出演者
+
+<!-- end list -->
+
+  - [枦山南美](https://ja.wikipedia.org/wiki/枦山南美 "wikilink")（フリーアナウンサー、2006年 - 2008年）
+  - [山岸舞彩](../Page/山岸舞彩.md "wikilink")（フリーキャスター・タレント、2009年 - 2011年1月）
+  - [伊藤友里](../Page/伊藤友里.md "wikilink")（フリーキャスター・タレント、2011年2月 - 2014年2月）
+  - [宮崎瑠依](../Page/宮崎瑠依.md "wikilink")（フリーキャスター・女優・タレント、[2014年](../Page/2014年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink") - [2017年](../Page/2017年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")）
+
+<!-- end list -->
+
+  - ゲスト
+    2007年下期より、試合出場後の現役選手のゲスト出演が行われる場合がある。開幕直後やJ1長期中断の直前・直後に多い。
+      - [山瀬功治](https://ja.wikipedia.org/wiki/山瀬功治 "wikilink")（[横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")、[2007年](../Page/2007年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")）
+      - [羽生直剛](https://ja.wikipedia.org/wiki/羽生直剛 "wikilink")（[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")）
+      - [小林大悟](https://ja.wikipedia.org/wiki/小林大悟 "wikilink")（[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")、2008年[4月5日](../Page/4月5日.md "wikilink")）
+      - [堀之内聖](https://ja.wikipedia.org/wiki/堀之内聖 "wikilink")（[浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")、2008年[5月17日](../Page/5月17日.md "wikilink")）
+      - [鈴木啓太](https://ja.wikipedia.org/wiki/鈴木啓太 "wikilink")（浦和レッドダイヤモンズ、2008年[7月5日](../Page/7月5日.md "wikilink")）
+      - [石川竜也](https://ja.wikipedia.org/wiki/石川竜也 "wikilink")（[モンテディオ山形](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")）、2009年[3月21日](../Page/3月21日.md "wikilink")）
+      - [今野泰幸](https://ja.wikipedia.org/wiki/今野泰幸 "wikilink")（FC東京、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月15日](../Page/5月15日.md "wikilink")）
+
+<!-- end list -->
+
+  -
+    [2019年](../Page/2019年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")放送分では、[2018年](../Page/2018年.md "wikilink")シーズンを以て現役を引退した[中澤佑二](https://ja.wikipedia.org/wiki/中澤佑二 "wikilink")がゲスト出演した。
+
+<!-- end list -->
+
+  -
+    他に、Jリーグとのコラボレーション企画に伴いキャラクターが登場することがある。
+      - [Mr. ピッチ](https://ja.wikipedia.org/wiki/Mr._ピッチ "wikilink")（毎年[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")前後に行われる[ファミリーJoinデイズ](https://ja.wikipedia.org/wiki/ファミリーJoinデイズ "wikilink")の告知のために登場）
+      - パッカ（[BSハイビジョン他で放送されるサッカーアニメ](https://ja.wikipedia.org/wiki/NHK衛星デジタルハイビジョン "wikilink")「[GIANT KILLING](../Page/GIANT_KILLING.md "wikilink")」に登場する架空のチーム「EAST TOKYO UNITED」のマスコットキャラクターの[河童](https://ja.wikipedia.org/wiki/河童 "wikilink")。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")に同番組とのコラボレーション企画で登場）
+      - [足立梨花](https://ja.wikipedia.org/wiki/足立梨花 "wikilink")（2010・2011Jリーグ特命女子マネジャー。[2011年](../Page/2011年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")の「2011開幕スペシャル」の終わりに登場）
+
+## 主なコーナー
+
+試合速報や特集以外の主なコーナーを挙げる。
+
+  - 「**えみり**ぽ」「感**RUI**」「**ゆり**すぐり」「**マイ**LOVE」「**なみ**チョイス」 - 番組の締めのコーナー。女性キャスターが女性の観点から、その日行われた試合で好印象を与えた選手のプレーについて紹介する。このコーナーの題名は女性キャスターの氏名からつけられた、言葉のもじりになっている。
+      - 「感RUI」になってからは、毎回そのプレーを選んだ理由を述べて**「〜に感RUIです。」**と決め台詞を加えている。
+      - 「えみりぽ」は番組の中盤に設定されており、中川がJリーグの注目チーム・選手を取材したり、あるキーワードに沿ったテーマでのレポートを送っている。
+  - 「うわさの新星\!オススメン」2015年7月12日「J1・第2ステージ第1節」の放送からスタートしたもので、今後活躍が期待される若手のホープを、各クラブごとにベテラン・中堅選手が推薦して紹介するもの。コーナーテーマは『[宇宙刑事ギャバン](https://ja.wikipedia.org/wiki/宇宙刑事ギャバン "wikilink")』の[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")部分から引用（基本的に土・日曜開催で放送予定だが、水曜日開催の場合はほとんどがナイターであるため割愛される場合がある）
+
+<!-- end list -->
+
+  - 過去に
+
+<!-- end list -->
+
+  - 「ヤンスタッ\!」 - [2012年ロンドンオリンピック](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピック "wikilink")、[2014 FIFAワールドカップ](https://ja.wikipedia.org/wiki/2014_FIFAワールドカップ "wikilink")[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")大会を目指す注目の若手選手を毎回原則1名ずつ取り上げ、その選手のプレースタイルや素顔に迫るミニ特集。2010年夏ごろ開始（ない週もあった）、2011年にキャスターが交代してから自然消滅。
+  - 「海外サッカー」（特にコーナー名は定めず。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")-[2011年](../Page/2011年.md "wikilink")シーズン途中より[2012年](../Page/2012年.md "wikilink")-[2013年](../Page/2013年.md "wikilink")シーズン途中まで） - NHK BS1で取り上げる[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")、[セリエAの最新試合情報を届けた](../Page/セリエA_\(サッカー\).md "wikilink")。[2013年](../Page/2013年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から開始した「[サッカープラネット](https://ja.wikipedia.org/wiki/サッカープラネット "wikilink")」、および「[ワールドスポーツMLB / 11](https://ja.wikipedia.org/wiki/ワールドスポーツMLB_/_11 "wikilink")」に事実上このコーナーの機能を委譲し自然消滅。
+  - 「マンスリーJ2」 - [2012年](../Page/2012年.md "wikilink")より、毎月月末にJ2リーグの注目チーム・選手をクローズアップする特集を行っていた。J2の試合が2012年から基本的に日曜日のみの開催となり、試合速報が出来なくなったための代替として企画。2017年からの「J2スペシャル」に発展的解消。
+
+<!-- end list -->
+
+  - ウィンタースペシャル
+
+<!-- end list -->
+
+  - [2011年](../Page/2011年.md "wikilink")以後、Jリーグの公式戦が行われない1-2月にも**「Jリーグタイム・ウィンタースペシャル」**と題した特別篇が行われる。
+  - このウィンタースペシャルではJリーグのスター選手をゲストに招き、その選手の魅力や素顔を引き出すほか、2月には各チームの春季キャンプの模様をキャスター、解説者が実際に取材を行ったりする。またシーズン開幕直前には各チーム戦力分析などを行う。
+
+## 速報Jリーグ
+
+Jリーグタイム同様、2001年から2005年シーズンの試合終了直後にNHK-BS1で放送されていた30分のダイジェスト番組。現在のJリーグタイムと番組構成がほとんど同じであった。
+
+### 放送時間
+
+  - Jリーグ (J1) 試合開催日 原則として21:10 - 21:40 (JST)
+      - [NHK BSニュース開始前は放送時間が](https://ja.wikipedia.org/wiki/NHK_BSニュース "wikilink")21:00 - 21:30だった。
+      - 現在と異なり、土日分離開催時には日曜日に10分間の短縮版が放送されていた。短縮版では女性キャスターのみが出演していた。
+
+### 出演者
+
+  - キャスター
+
+:\* [川原みなみ](https://ja.wikipedia.org/wiki/川原みなみ "wikilink")（タレント、2001年）
+
+:\* [石崎佳代子](../Page/石崎佳代子.md "wikilink")（フリーアナウンサー、2002年）
+
+:\* [石山愛子](../Page/石山愛子.md "wikilink")（フリーアナウンサー、2003年 - 2005年）
+
+:\* NHKサッカー担当アナウンサー（[曽根優](https://ja.wikipedia.org/wiki/曽根優 "wikilink")、[鈴木聡彦](https://ja.wikipedia.org/wiki/鈴木聡彦 "wikilink")、[根岸昌史](https://ja.wikipedia.org/wiki/根岸昌史 "wikilink")など。日替わりで出演）
+
+  - 解説
+
+:\* [早野宏史](https://ja.wikipedia.org/wiki/早野宏史 "wikilink")、[宮沢ミシェル](https://ja.wikipedia.org/wiki/宮沢ミシェル "wikilink")、[長谷川健太](https://ja.wikipedia.org/wiki/長谷川健太 "wikilink")、[北澤豪](../Page/北澤豪.md "wikilink")など（1名が日替わりで出演）。
+
+## 関連項目
+
+  - [Jリーグ中継 (NHK)](../Page/Jリーグ中継_\(NHK\).md "wikilink")
+  - [NHK衛星放送番組一覧](https://ja.wikipedia.org/wiki/NHK衛星放送番組一覧 "wikilink")
+  - [GIANT KILLING](../Page/GIANT_KILLING.md "wikilink") - NHKでアニメ化されたこともあり、番組内やJリーグ会場でコラボレーション企画が行われている。
+
+## 脚注
+
+## 外部リンク
+
+  - [Jリーグタイム](http://www.nhk-g.co.jp/program/sports/j_league-time/index.html) - NHKグローバルメディアサービスによる番組紹介
+
+[Category:NHK_BS1のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:NHK_BS1のニュース・報道番組 "wikilink") [Category:NHK_BSのスポーツ番組](https://ja.wikipedia.org/wiki/Category:NHK_BSのスポーツ番組 "wikilink") [Category:テレビのサッカー番組_(日本)](https://ja.wikipedia.org/wiki/Category:テレビのサッカー番組_\(日本\) "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink")
+
+1.  2011年より2016年までは、[スカチャン](../Page/スカチャン.md "wikilink")の[Jリーグアフターゲームショー](../Page/Jリーグアフターゲームショー.md "wikilink")→[マッチデーJリーグ](https://ja.wikipedia.org/wiki/マッチデーJリーグ "wikilink")→[Jリーグマッチデーハイライト](https://ja.wikipedia.org/wiki/Jリーグマッチデーハイライト "wikilink")が本番組と同じ21:10開始（ナイターがない場合は試合開始時刻一番遅い試合のキックオフ120分後に開始）となっていた。
+2.  原則として試合日の21時台にBS1で生放送、試合日の深夜（試合翌日の未明）に[総合テレビで時差放送](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")。NHKが全試合を中継する準決勝以後は放送されないが、2009年-10年の[第89回大会は決勝戦でもダイジェスト番組が放送されるほか](https://ja.wikipedia.org/wiki/第89回天皇杯全日本サッカー選手権大会 "wikilink")、1回戦の結果はJリーグタイムで放送した。なお、2008年までは女性キャスターは出演せず、解説者と進行役のNHK男性アナウンサーだけの出演だった
+3.  BSによる[Jリーグ中継のカードが原則として土曜日のナイトマッチであるため](../Page/Jリーグ中継_\(NHK\).md "wikilink")。2009年はNHKが日曜日の試合のみを中継した場合には日曜日にのみ放送される場合があったり、土曜日の中継がなく日曜日に試合の中継があった場合でも土曜日に通常通り放送するケースがあった。
+4.  プロ野球[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")vs[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")戦の生中継を急遽行った[2007年](../Page/2007年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")や、[ハンドボール北京オリンピック女子世界最終予選の中継を行った](../Page/2008年北京オリンピックのハンドボール競技.md "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")、[ロンドンオリンピック女子サッカーアジア最終予選日本対韓国戦の中継を行った](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのサッカー競技・アジア予選 "wikilink")[2011年](../Page/2011年.md "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")など。
+5.  [2011年の日本シリーズ](https://ja.wikipedia.org/wiki/2011年の日本シリーズ "wikilink")・[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")対[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")第6戦と重なった[2011年](../Page/2011年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")や、[2014年アジア競技大会](../Page/2014年アジア競技大会.md "wikilink")・柔道の中継を行った[2014年](../Page/2014年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")など。後者においては、直前のJリーグ中継の一部も当番組と共にサブチャンネルでの放送とした。

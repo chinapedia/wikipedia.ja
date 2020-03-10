@@ -1,0 +1,74 @@
+> この記事は[BULLET WITCH](https://ja.wikipedia.org/wiki/BULLET_WITCH)から翻訳されています。
+
+
+『**BULLET WITCH**』（バレットウィッチ）は、[キャビアが開発し](../Page/キャビア_\(企業\).md "wikilink")、[AQインタラクティブ](https://ja.wikipedia.org/wiki/AQインタラクティブ "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")に発売されたアクションゲーム。
+
+## ゲーム概要
+
+プレイヤーは主人公アリシアを操って、[箒](../Page/箒.md "wikilink")に擬した銃と魔法で[悪魔](../Page/悪魔.md "wikilink")たちと戦う。ゲームシステムは[サードパーソン・シューティングゲーム](../Page/サードパーソン・シューティングゲーム.md "wikilink")に該当する。多人数プレイはできないが、[Xbox Liveによるスコア登録が可能である](../Page/Xbox_Live.md "wikilink")。
+
+若い女性を主人公に据え、[魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")の効果を派手に演出するなど、ビジュアル面に特徴がある。また自動車や瓦礫、建造物の一部などステージ上の物体を銃撃や魔法で移動・破壊することが可能であり、その挙動は[物理エンジンによってシミュレートされる](../Page/ゲームエンジン.md "wikilink")。このことは、映像のリアリティや派手さに寄与するだけでなく、物体を壊したりぶつけたりできることで攻略方法にバリエーションを与えている。
+
+反面、照準のつけにくさや敵の正確な射撃、[スナイパー](https://ja.wikipedia.org/wiki/スナイパー "wikilink")の狙撃や[死角](https://ja.wikipedia.org/wiki/死角 "wikilink")からの物体移動による一撃死等は当初難易度を高く感じさせる。ただし、主人公の能力や魔法、武器を成長させる強化システムが採用されており、強化によって難易度を緩和できる。
+
+## ストーリー
+
+西暦2007年、アメリカ西部で[M](../Page/マグニチュード.md "wikilink")8.7の巨大地震が発生する。翌年[第5次中東戦争が勃発し](../Page/中東戦争.md "wikilink")60万人が戦死、2009年には殺人[ウイルス](../Page/ウイルス.md "wikilink")が世界中で流行し3億人以上が死亡。2010年には天候異変による食糧不足と暴動の発生により世界中で推計8億人以上が死亡した。そして2011年疲弊していた人類の前に、突如近代兵器で武装した悪魔軍団が現れ、殺戮を開始。1年で全ての国家は瓦解し、2013年に人類の人口は10億を切っていた。
+
+人々が狩り立てられる中、[魔女](../Page/魔女.md "wikilink")と呼ばれるうら若き女性がたった1人で悪魔に対抗して立ち上がった。その武器はガンロッドと呼ばれる箒のような銃と数々の魔法であった。
+
+数奇な運命に弄ばれたアリシアに与えられるのは過酷な責務だけであった。 彼女はなぜ魔女のような力を得たのか、なぜ悪魔に与せず人類のために戦うのか、全ては謎のまま彼女は悪魔の居場所を求めて旅を続ける。 旅の果てに待っているものは何か、その答えは誰も知らない。
+
+## キャラクター
+
+  - アリシア
+    [声](../Page/声優.md "wikilink")：[生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")
+    [泣きぼくろ](https://ja.wikipedia.org/wiki/泣きぼくろ "wikilink")と、[レースを用いた黒い服が印象的な本作の](https://ja.wikipedia.org/wiki/レース_\(手芸\) "wikilink")[主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")。突如、滅亡寸前の人類の前に現れた[救世主](https://ja.wikipedia.org/wiki/救世主 "wikilink")。圧倒的な魔力を持ち悪魔の絶滅を目指すが、素性も目的も謎である。
+
+<!-- end list -->
+
+  - ダークネス
+    声：[乃村健次](https://ja.wikipedia.org/wiki/乃村健次 "wikilink")
+    アリシアに憑依する高位悪魔。地上の悪魔を根絶やしにするためアリシアに知恵と魔力を授けるが、他の悪魔と同様に人間も蔑視しているようである。
+
+<!-- end list -->
+
+  - マクスウェル
+    声：[石塚運昇](../Page/石塚運昇.md "wikilink")
+    国家が瓦解した中で[レジスタンスの隊長として悪魔たちと戦う](https://ja.wikipedia.org/wiki/レジスタンス運動 "wikilink")。熱血だが[ユーモア](https://ja.wikipedia.org/wiki/ユーモア "wikilink")もあり、アリシアの良き理解者。アリシアにある作戦への協力を依頼し、共に戦う。
+
+<!-- end list -->
+
+  - ジョナサン
+    声：[立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")
+    [考古学](../Page/考古学.md "wikilink")者。2006年に娘を飛行機事故でなくし、彼女を生き返らせる為に悪魔の研究を始めたが、2008年に行方をくらます。
+
+## ダウンロードコンテンツ
+
+バレットウィッチでは発売前から2種類のダウンロード配信が予告されていた。1つはアリシアの追加コスチューム、もう1つは追加ステージとなるコンセプトミッションである。 一般的に追加コスチュームのような要素はゲームクリア時のボーナスなどで予め用意されていることが多く、追加ステージのような要素は拡張ディスクとして別途発売されることが多いが、バレットウィッチではすべてダウンロードで追加する方式を採用している。 当時は有料ダウンロードコンテンツという概念があまり普及していなかったため、すべて無料でダウンロードできる。
+
+配信されたのは以下の通り。
+
+### コスチューム
+
+  - 白アリシア (White Witch Ver.)
+  - 女子校生アリシア (Schoolgirl Ver.)
+  - 秘書アリシア (Secretary Ver.)
+  - 包帯アリシア (Mummy Ver.)
+  - 妖精アリシア (Pixie Ver.)
+
+### コンセプトミッション
+
+  - 「ワンショットキル」、「芋虫の街」、「翻る黒衣」エクストラステージ、「叫ぶ街」エクストラステージ、「翻る黒衣」大魔法解除、「暁の渓谷」大魔法解除
+  - 「7ミニッツ」、「ダイナマイトビューティー」、「炎上10000ft」エクストラステージ、「暁の渓谷」エクストラステージ、「叫ぶ街」大魔法解除、「繋がれた魂」大魔法解除
+  - 「ガイスト捜索戦」、「エンドレス」、「繋がれた魂」エクストラステージ、「混沌の果て」エクストラステージ、「炎上10000ft」大魔法解除、「混沌の果て」大魔法解除
+
+## PC版
+
+2018年4月26日に、SteamとHumble StoreにてPC向けリマスター版が配信された。4K解像度に対応、フレームレートの上限撤廃、ゲームバランス改善などの調整がされ、DLCもすべて収録されている。追加コスチュームはゲーム開始時から利用可能、追加ミッションはゲームクリア後に選択可能となる。日本語も含め9カ国語が収録されているが、音声は英語のみとなっている。
+
+## 外部リンク
+
+  - [BULLET WITCH](http://www.marv.jp/products/bulletwitch/)
+
+[Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:アドベンチャーゲーム "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:マーベラスのゲームソフト](https://ja.wikipedia.org/wiki/Category:マーベラスのゲームソフト "wikilink") [Category:魔女を題材とした作品](https://ja.wikipedia.org/wiki/Category:魔女を題材とした作品 "wikilink") [Category:悪魔を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:悪魔を題材としたコンピュータゲーム "wikilink")

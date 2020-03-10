@@ -1,0 +1,334 @@
+> この記事は[EY](https://ja.wikipedia.org/wiki/EY)から翻訳されています。
+
+
+*' EY新日本有限責任監査法人*'（イーワイしんにほんゆうげんせきにんかんさほうじん、英文名称:*Ernst & Young ShinNihon LLC*）は、日本の大手[監査法人](https://ja.wikipedia.org/wiki/監査法人 "wikilink")。[Ernst & Youngの日本における統括法人](../Page/アーンスト・アンド・ヤング.md "wikilink")[EY Japanに属する](https://ja.wikipedia.org/wiki/EY_Japan "wikilink")。いわゆる「[4大監査法人](../Page/4大監査法人.md "wikilink")」の一つ。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[7月1日](../Page/7月1日.md "wikilink")、日本で最初の[有限責任監査法人となった](https://ja.wikipedia.org/wiki/監査法人 "wikilink")。
+
+## 概要
+
+海外の大手会計事務所を指す「[Big4](https://ja.wikipedia.org/wiki/4大会計事務所 "wikilink")」の一つ、穏健派に属する[アーンスト・アンド・ヤング](../Page/アーンスト・アンド・ヤング.md "wikilink")・グローバル・リミテッドのメンバーファームである。
+
+アーンスト・アンド・ヤングとしては日本を4大エリアの一つとして位置づけており、日本エリアは[EYジャパン合同会社](https://ja.wikipedia.org/wiki/EYジャパン合同会社 "wikilink")を中核として、監査業務を行う*' EY新日本有限責任監査法人**の他、コンサルティング・アドバイザリー業務を行う**EYアドバイザリー・アンド・コンサルティング株式会社**、税務業務を行う**[EY税理士法人](https://ja.wikipedia.org/wiki/EY税理士法人 "wikilink")**、トランザクション業務を行う**EYトランザクション・アドバイザリー株式会社**、法務サービスの提供を行う**EY弁護士法人**などのファームがあり、これらを併せて**EY Japan*'と称する。
+
+日本の他の4大監査法人と呼ばれる監査法人と同様に、監査手法は欧米で開発された監査システムプログラムの日本語版を採用しており、グローバルレベルの監査サービスを提供しているといわれる。
+
+## 大口クライアント
+
+有価証券報告書より、最近の監査報酬が1億円超のクライアントを列挙。
+
+  - 素材・エネルギー
+    [JXTGHD](https://ja.wikipedia.org/wiki/JXTGホールディングス "wikilink")、[JFEHD](https://ja.wikipedia.org/wiki/JFEホールディングス "wikilink")、[東レ](https://ja.wikipedia.org/wiki/東レ "wikilink")、[国際石油開発帝石](https://ja.wikipedia.org/wiki/国際石油開発帝石 "wikilink")、[日本製紙](https://ja.wikipedia.org/wiki/日本製紙 "wikilink")、[日本軽金属HD](https://ja.wikipedia.org/wiki/日本軽金属ホールディングス "wikilink")、[日立金属](https://ja.wikipedia.org/wiki/日立金属 "wikilink")、[横浜ゴム](https://ja.wikipedia.org/wiki/横浜ゴム "wikilink")、[日本板硝子](../Page/日本板硝子.md "wikilink")、[YKK](https://ja.wikipedia.org/wiki/YKK "wikilink")、[昭和電線HD](https://ja.wikipedia.org/wiki/昭和電線ホールディングス "wikilink")
+  - 医療・化学
+    [三菱ケミカルHD](https://ja.wikipedia.org/wiki/三菱ケミカルホールディングス "wikilink")、[三井化学](https://ja.wikipedia.org/wiki/三井化学 "wikilink")、[大陽日酸](https://ja.wikipedia.org/wiki/大陽日酸 "wikilink")、[アステラス製薬](https://ja.wikipedia.org/wiki/アステラス製薬 "wikilink")、[宇部興産](https://ja.wikipedia.org/wiki/宇部興産 "wikilink")、[ライオン](../Page/ライオン_\(企業\).md "wikilink")、[ポーラ・オルビスHD](https://ja.wikipedia.org/wiki/ポーラ_\(企業\) "wikilink")、[デンカ](https://ja.wikipedia.org/wiki/デンカ "wikilink")、[石原産業](https://ja.wikipedia.org/wiki/石原産業 "wikilink")、[信越化学工業](https://ja.wikipedia.org/wiki/信越化学工業 "wikilink")、[コーセー](../Page/コーセー.md "wikilink")、[田辺三菱製薬](https://ja.wikipedia.org/wiki/田辺三菱製薬 "wikilink")
+  - 食品・アグリ
+    [味の素](../Page/味の素.md "wikilink")、[明治HD](https://ja.wikipedia.org/wiki/明治ホールディングス "wikilink")、[サッポロHD](../Page/サッポロホールディングス.md "wikilink")、[コカ・コーラボトラーズジャパンHD](https://ja.wikipedia.org/wiki/コカ・コーラボトラーズジャパンホールディングス "wikilink")、[キユーピー](../Page/キユーピー.md "wikilink")、[キッコーマン](../Page/キッコーマン.md "wikilink")、[日本水産](https://ja.wikipedia.org/wiki/日本水産 "wikilink")
+  - 自動車・機械・部品・エレクトロニクス
+    [日立製作所](../Page/日立製作所.md "wikilink")、[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")、[富士通](../Page/富士通.md "wikilink")、[日産自動車](../Page/日産自動車.md "wikilink")、[アルプスアルパイン](https://ja.wikipedia.org/wiki/アルプスアルパイン "wikilink")、[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")、[IHI](../Page/IHI.md "wikilink")、[富士電機](https://ja.wikipedia.org/wiki/富士電機 "wikilink")、[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")、[オリンパス](https://ja.wikipedia.org/wiki/オリンパス "wikilink")、[セイコーエプソン](../Page/セイコーエプソン.md "wikilink")、[日本精工](https://ja.wikipedia.org/wiki/日本精工 "wikilink")、[NTN](../Page/NTN.md "wikilink")、[ヤマハ](../Page/ヤマハ.md "wikilink")、[荏原製作所](https://ja.wikipedia.org/wiki/荏原製作所 "wikilink")、[TPR](https://ja.wikipedia.org/wiki/TPR "wikilink")、[アドバンテスト](https://ja.wikipedia.org/wiki/アドバンテスト "wikilink")、[安川電機](../Page/安川電機.md "wikilink")、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")、[日立建機](https://ja.wikipedia.org/wiki/日立建機 "wikilink")、[日本発条](../Page/日本発条.md "wikilink")、[DMG森精機](https://ja.wikipedia.org/wiki/DMG森精機 "wikilink")、[キッツ](https://ja.wikipedia.org/wiki/キッツ "wikilink")、[日立ハイテク](../Page/日立ハイテク.md "wikilink")
+  - 不動産・建設・レジデンス
+    [飯田グループHD](https://ja.wikipedia.org/wiki/飯田グループホールディングス "wikilink")、[三菱地所](../Page/三菱地所.md "wikilink")、[ミサワホーム](https://ja.wikipedia.org/wiki/ミサワホーム "wikilink")、[東急不動産HD](https://ja.wikipedia.org/wiki/東急不動産ホールディングス "wikilink")、[積水ハウス](https://ja.wikipedia.org/wiki/積水ハウス "wikilink")、[積水化学工業](https://ja.wikipedia.org/wiki/積水化学工業 "wikilink")、[大林組](https://ja.wikipedia.org/wiki/大林組 "wikilink")、[野村不動産HD](../Page/野村不動産ホールディングス.md "wikilink")、[清水建設](https://ja.wikipedia.org/wiki/清水建設 "wikilink")、[長谷工コーポレーション](https://ja.wikipedia.org/wiki/長谷工コーポレーション "wikilink")、[前田建設工業](https://ja.wikipedia.org/wiki/前田建設工業 "wikilink")、[パーク24](https://ja.wikipedia.org/wiki/パーク24 "wikilink")、[三井住友建設](https://ja.wikipedia.org/wiki/三井住友建設 "wikilink")、[東京建物](https://ja.wikipedia.org/wiki/東京建物 "wikilink")、[NIPPO](../Page/NIPPO.md "wikilink")、[住友林業](https://ja.wikipedia.org/wiki/住友林業 "wikilink")
+  - 物流・インフラ
+    [東京電力HD](../Page/東京電力ホールディングス.md "wikilink")、[西日本旅客鉄道](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")、[西武HD](https://ja.wikipedia.org/wiki/西武ホールディングス "wikilink")、[東急](../Page/東急.md "wikilink")、[日本通運](https://ja.wikipedia.org/wiki/日本通運 "wikilink")、[東北電力](../Page/東北電力.md "wikilink")、[日立物流](../Page/日立物流.md "wikilink")、[川崎汽船](https://ja.wikipedia.org/wiki/川崎汽船 "wikilink")、[電源開発](https://ja.wikipedia.org/wiki/電源開発 "wikilink")、[小田急電鉄](../Page/小田急電鉄.md "wikilink")、[京浜急行電鉄](../Page/京浜急行電鉄.md "wikilink")、[サーラコーポレーション](../Page/サーラコーポレーション.md "wikilink")、[京阪HD](https://ja.wikipedia.org/wiki/京阪ホールディングス "wikilink")、[東日本高速道路](https://ja.wikipedia.org/wiki/東日本高速道路 "wikilink")
+  - 生活・サービス
+    [リクルートHD](https://ja.wikipedia.org/wiki/リクルートホールディングス "wikilink")、[楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")、[オンワードHD](../Page/オンワードホールディングス.md "wikilink")、[スクウェア・エニックスHD](https://ja.wikipedia.org/wiki/スクウェア・エニックス・ホールディングス "wikilink")、[ディー・エヌ・エー](https://ja.wikipedia.org/wiki/ディー・エヌ・エー "wikilink")
+  - 情報・通信
+    [TIS](https://ja.wikipedia.org/wiki/TIS_\(企業\) "wikilink")、[フジ・メディアHD](https://ja.wikipedia.org/wiki/フジ・メディア・ホールディングス "wikilink")、[野村総合研究所](../Page/野村総合研究所.md "wikilink")、[日本アジアグループ](../Page/日本アジアグループ.md "wikilink")、[デジタルガレージ](../Page/デジタルガレージ.md "wikilink")、[東映](../Page/東映.md "wikilink")
+  - 卸売・小売・外食
+    [丸紅](https://ja.wikipedia.org/wiki/丸紅 "wikilink")、[三越伊勢丹HD](../Page/三越伊勢丹ホールディングス.md "wikilink")、[J.フロント リテイリング](../Page/J.フロント_リテイリング.md "wikilink")、[ペッパーフードサービス](../Page/ペッパーフードサービス.md "wikilink")、[キヤノンマーケティングジャパン](https://ja.wikipedia.org/wiki/キヤノンマーケティングジャパン "wikilink")、[東邦HD](https://ja.wikipedia.org/wiki/東邦ホールディングス "wikilink")、[長瀬産業](https://ja.wikipedia.org/wiki/長瀬産業 "wikilink")、[日本マクドナルドHD](https://ja.wikipedia.org/wiki/日本マクドナルドホールディングス "wikilink")、[マクニカ・富士エレHD](https://ja.wikipedia.org/wiki/マクニカ・富士エレ_ホールディングス "wikilink")、[ダイワボウHD](https://ja.wikipedia.org/wiki/ダイワボウホールディングス "wikilink")、[リテールパートナーズ](https://ja.wikipedia.org/wiki/リテールパートナーズ "wikilink")
+  - 金融・保険
+    [みずほFG](https://ja.wikipedia.org/wiki/みずほフィナンシャルグループ "wikilink")、[野村HD](../Page/野村ホールディングス.md "wikilink")、[みずほ銀行](../Page/みずほ銀行.md "wikilink")、[SOMPOHD](https://ja.wikipedia.org/wiki/SOMPOホールディングス "wikilink")、[T\&DHD](https://ja.wikipedia.org/wiki/T&Dホールディングス "wikilink")、[損害保険ジャパン日本興亜](https://ja.wikipedia.org/wiki/損害保険ジャパン日本興亜 "wikilink")、[スルガ銀行](../Page/スルガ銀行.md "wikilink")、[東京センチュリー](https://ja.wikipedia.org/wiki/東京センチュリー "wikilink")、[ふくおかFG](https://ja.wikipedia.org/wiki/ふくおかフィナンシャルグループ "wikilink")、[日本政策金融公庫](https://ja.wikipedia.org/wiki/日本政策金融公庫 "wikilink")、[オリエントコーポレーション](https://ja.wikipedia.org/wiki/オリエントコーポレーション "wikilink")、[日立キャピタル](https://ja.wikipedia.org/wiki/日立キャピタル "wikilink")、[国際協力銀行](https://ja.wikipedia.org/wiki/国際協力銀行 "wikilink")、[芙蓉総合リース](../Page/芙蓉総合リース.md "wikilink")、[東京きらぼしFG](https://ja.wikipedia.org/wiki/東京きらぼしフィナンシャルグループ "wikilink")、[トモニHD](https://ja.wikipedia.org/wiki/トモニホールディングス "wikilink")、[みずほ信託銀行](../Page/みずほ信託銀行.md "wikilink")、[西日本フィナンシャルHD](https://ja.wikipedia.org/wiki/西日本フィナンシャルホールディングス "wikilink")、[フィデアHD](https://ja.wikipedia.org/wiki/フィデアホールディングス "wikilink")、[池田泉州HD](https://ja.wikipedia.org/wiki/池田泉州ホールディングス "wikilink")、[じもとHD](https://ja.wikipedia.org/wiki/じもとホールディングス "wikilink")、[信金中央金庫](https://ja.wikipedia.org/wiki/信金中央金庫 "wikilink")
+
+### 特徴
+
+法人及びクライアントの特徴として以下の点が挙げられる\[1\]。
+
+  - 外資とは提携しているものの、[2019年](../Page/2019年.md "wikilink")まではEY内でも日本だけで独立した1つのグローバルエリアを構築していたほど日本的な体質が色濃く残る\[2\]。2010年代に入るまで部門間の融和が進まず、太田グループ・昭和グループなど前身事務所単位での組織構成がなされていたことは、あずさ監査法人（KPMG部門）の分離を促す要因にもなった。
+  - 企業グループの中では、[芙蓉グループ](../Page/芙蓉グループ.md "wikilink")・[第一勧銀グループ](../Page/第一勧銀グループ.md "wikilink")に圧倒的な強みがある。これは新日本監査法人の設立経緯が[みずほ銀行](../Page/みずほ銀行.md "wikilink")の誕生に求められることと深いつながりがある（前身の[富士銀行](../Page/富士銀行.md "wikilink")は太田昭和が、[第一勧業銀行](../Page/第一勧業銀行.md "wikilink")はセンチュリーが監査人）。他に[三和グループ](../Page/三和グループ.md "wikilink")をあずさと分け合う。
+  - 日本における公会計（パブリックセクター）制度の先駆者であり、PPPや各種[民営化](../Page/民営化.md "wikilink")事業、財政健全化支援を強みとする。
+  - どの分野にも万遍なくクライアントを持つが、特に不動産・建設分野は他の大手法人を圧倒し、情報・小売・商社に比較的弱い。
+  - かつて[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")・[日本航空](../Page/日本航空.md "wikilink")の両方をクライアントとし空運業界を独占していたが、現在はいずれも監査人を移している。
+  - みすず監査法人の解散後長らく業務収入トップの監査法人であったが、2018年6月期において初めてトーマツを下回った。一方で新日本は非監査業務に係る報酬の割合が低く、監査報酬のみでは依然として業界最多である。
+  - センチュリーの前身である中堅の栄光監査法人が北海道を地盤としていたこともあり、北海道においては新日本が圧倒的なシェアを有している。
+  - 製造業に強いことから地方工場が多く集積する東北・北陸地方にも強いとされる。ただし宮城県内に関してはトーマツがやや優勢である。
+
+## 経営成績の推移
+
+人員数・社員数には、特定社員を含み、公認会計士・公認会計士試験合格者・会計士補のいずれにも該当しない職員を含まない。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>決算期</p></th>
+<th><p>業務収入</p></th>
+<th><p>うち監査報酬<br />
+（1項業務）</p></th>
+<th><p>うち非監査報酬<br />
+（2項業務）</p></th>
+<th><p>営業利益</p></th>
+<th><p>純利益</p></th>
+<th><p>人員数</p></th>
+<th><p>うち<br />
+社員数</p></th>
+<th><p>被監査会社数</p></th>
+<th><p>うち<br />
+金商法監査</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2011年6月期</p></td>
+<td><p>959億4100万円</p></td>
+<td><p>791億400万円</p></td>
+<td><p>168億3600万円</p></td>
+<td><p>41億1300万円</p></td>
+<td><p>18億7500万円</p></td>
+<td><p>4489人</p></td>
+<td><p>654人</p></td>
+<td><p>4076社</p></td>
+<td><p>1136社</p></td>
+</tr>
+<tr class="even">
+<td><p>2012年6月期</p></td>
+<td><p>929億7500万円</p></td>
+<td><p>771億8100万円</p></td>
+<td><p>157億9300万円</p></td>
+<td><p>20億2800万円</p></td>
+<td><p>5億700万円</p></td>
+<td><p>4488人</p></td>
+<td><p>639人</p></td>
+<td><p>3960社</p></td>
+<td><p>1110社</p></td>
+</tr>
+<tr class="odd">
+<td><p>2013年6月期</p></td>
+<td><p>925億800万円</p></td>
+<td><p>763億5500万円</p></td>
+<td><p>161億5300万円</p></td>
+<td><p>3億1500万円</p></td>
+<td><p>3億5200万円</p></td>
+<td><p>4493人</p></td>
+<td><p>637人</p></td>
+<td><p>3887社</p></td>
+<td><p>1079社</p></td>
+</tr>
+<tr class="even">
+<td><p>2014年6月期</p></td>
+<td><p>964億900万円</p></td>
+<td><p>770億1700万円</p></td>
+<td><p>193億9100万円</p></td>
+<td><p>1億7000万円</p></td>
+<td><p>2億8400万円</p></td>
+<td><p>4575人</p></td>
+<td><p>631人</p></td>
+<td><p>3975社</p></td>
+<td><p>1069社</p></td>
+</tr>
+<tr class="odd">
+<td><p>2015年6月期</p></td>
+<td><p>929億7500万円</p></td>
+<td><p>775億9700万円</p></td>
+<td><p>215億7800万円</p></td>
+<td><p>2億2700万円</p></td>
+<td><p>10億9600万円</p></td>
+<td><p>4581人</p></td>
+<td><p>640人</p></td>
+<td><p>4084社</p></td>
+<td><p>1091社</p></td>
+</tr>
+<tr class="even">
+<td><p>2016年6月期</p></td>
+<td><p>1064億8200万円</p></td>
+<td><p>850億2400万円</p></td>
+<td><p>214億5700万円</p></td>
+<td><p>37億3800万円</p></td>
+<td><p>2億7200万円</p></td>
+<td><p>4481人</p></td>
+<td><p>627人</p></td>
+<td><p>3971社</p></td>
+<td><p>1154社</p></td>
+</tr>
+<tr class="odd">
+<td><p>2017年6月期</p></td>
+<td><p>1000億3600万円</p></td>
+<td><p>805億6100万円</p></td>
+<td><p>194億7400万円</p></td>
+<td><p>22億2700万円</p></td>
+<td><p>3億8800万円</p></td>
+<td><p>4312人</p></td>
+<td><p>556人</p></td>
+<td><p>3895社</p></td>
+<td><p>1036社</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年6月期</p></td>
+<td><p>989億4100万円</p></td>
+<td><p>830億8700万円</p></td>
+<td><p>158億5400万円</p></td>
+<td><p>18億2200万円</p></td>
+<td><p>2億3700万円</p></td>
+<td><p>4173人</p></td>
+<td><p>540人</p></td>
+<td><p>3889社</p></td>
+<td><p>1010社</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年6月期</p></td>
+<td><p>992億9600万円</p></td>
+<td><p>845億7500万円</p></td>
+<td><p>147億2100万円</p></td>
+<td><p>3億7500万円</p></td>
+<td><p>2億8900万円</p></td>
+<td><p>4125人</p></td>
+<td><p>532人</p></td>
+<td><p>3821社</p></td>
+<td><p>1006社</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 株式会社東芝から受けた監査報酬（連結子会社含む）は、2015年6月期が10.25億円であったのに対し2016年6月期は53.42億円（うち過年度訂正分28.84億円）であった。
+  - 2016年6月期にて、株式会社東芝の監査証明業務に関する課徴金21億1100万円を特別損失に計上している。
+  - 2017年1月よりアドバイザリー事業をEYアドバイザリー・アンド・コンサルティング株式会社（EYACC）へ移管し、アシュアランス業務特化の法人となった\[3\]。ゆえに、法人単体としての非監査報酬及び人員数は大きく減少している。
+
+## 沿革
+
+### 「太田昭和」の系譜
+
+新日本監査法人の直接の前身は太田昭和監査法人であり、今でも「太田昭和」の名で馴染んでいる人も多い著名な監査法人である。太田昭和の「太田」側の母体を築いた[太田哲三](https://ja.wikipedia.org/wiki/太田哲三 "wikilink")は、[一橋大学](https://ja.wikipedia.org/wiki/一橋大学 "wikilink")名誉教授で会計学者として名を馳せた人物であり、大学退職後に公認会計士資格を取得し、初代[日本公認会計士協会](../Page/日本公認会計士協会.md "wikilink")会長に就任。当時まだ日本に根付いていなかった[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の公認会計士制度の普及を図り、現在の会計監査システムの基礎を作り上げた。業界内では会計学の礎ともされており、[山陽特殊製鋼倒産事件](https://ja.wikipedia.org/wiki/山陽特殊製鋼倒産事件 "wikilink")を機に組織的監査の必要性が唱えられると、[1967年](../Page/1967年.md "wikilink")（昭和42年）[1月19日](../Page/1月19日.md "wikilink")には監査法人第一号として監査法人太田哲三事務所を設立している。設立当初の規模は社員8名・公認会計士有資格者12名であった。その翌年には[等松・青木監査法人や](https://ja.wikipedia.org/wiki/有限責任監査法人トーマツ "wikilink")[監査法人中央会計事務所といった全国規模の監査法人が設立されているが](https://ja.wikipedia.org/wiki/みすず監査法人 "wikilink")、太田哲三事務所も同年11月に全国規模の法人とするため拡充を行っており、設立3年後の[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）3月末には社員36名・使用人88名・クライアント数106社の法人となっている（なお、クライアント数の順位は中央・[朝日](https://ja.wikipedia.org/wiki/有限責任あずさ監査法人 "wikilink")・等松青木・昭和に次ぎ5番目であった）。海外提携先は当時「Big8」と呼ばれていた会計事務所の一角、**アーンスト・アンド・ウィニー**であり、日本に直接進出せず提携方式をとり太田哲三事務所へ部門吸収されている。
+
+一方、太田昭和の「昭和」側である昭和監査法人は富島一夫によって[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）に設立された法人であるが、前身法人である監査法人富島会計事務所を解散し新たな参加者を加えて再設立したものであり、実質的には全国で3番目の設立である。1970年（昭和45年）3月末時点で社員24名・使用人59名・クライアント数112社と当初より大手監査法人の一員であり、海外提携先は「Big8」の一角、**ピート・マーウィック・ミッチェル**であった。
+
+太田と昭和の両者は、旧公社民営化に端を発する1980年代半ばの監査法人再編の動きのなか合併を決めた。朝日新和に次ぐ2例目の大型合併となり、とりわけ大手法人同士の合併は初となった。合併時の規模は総人員数1,269名、顧客数1,260社で当時国内最大であったが、翌年の等松・青木監査法人と監査法人サンワ事務所の合併によって間もなく国内最大の地位を明け渡すことになる。なお太田と昭和は前述の通り異なる海外事務所と提携していたが、両者ともに提携関係を維持する方針とした。この二重提携は[2003年](../Page/2003年.md "wikilink")（平成15年）まで続くこととなる。
+
+[1989年](../Page/1989年.md "wikilink")（平成元年）にはメインの提携先であったアーンスト・アンド・ウィニーがBig8の一角であったアーサー・ヤングを救済合併し、**[アーンスト・アンド・ヤング](../Page/アーンスト・アンド・ヤング.md "wikilink")**（EY）となった。立場の弱い側に追いやられたアーサー・ヤングと提携していた大手の監査法人朝日新和会計社はこの合併の影響で国際業務に著しい不利益を被ることとなったため、打開策として太田昭和と朝日新和の合併が水面下で検討された。当時朝日新和は約290社・太田昭和は約260社の上場企業をクライアントとしており、両者が合併すると当時最大規模であった中央新光監査法人の約1.6倍の規模となる見込みであった。しかし許認可権を持つ[大蔵省](../Page/大蔵省.md "wikilink")（当時）は監査業界の寡占化に難色を示しこれを承認せず、[1991年](../Page/1991年.md "wikilink")（平成3年）に断念へと至った。結局、朝日新和は[1993年](../Page/1993年.md "wikilink")（平成5年）アーンスト・アンド・ヤングとの提携を解消し、[アーサー・アンダーセン](https://ja.wikipedia.org/wiki/アーサー・アンダーセン "wikilink")と新たに提携することとなった。
+
+### 「センチュリー」の系譜
+
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）10月、太田と昭和の合併と同時に3つの中堅監査法人の合併報道が世間の注目を浴びた。いずれも最初期に設立された法人であり、またいずれも実質的に一つの企業グループを監査するための法人であった。つまり、監査法人第一監査事務所は[第一勧銀グループを](../Page/第一勧業銀行.md "wikilink")、日新監査法人は[松下グループを](https://ja.wikipedia.org/wiki/パナソニック "wikilink")、武蔵監査法人は[日立グループを](../Page/日立製作所.md "wikilink")、それぞれほぼ専属で監査していた。これらは海外提携先が**ピート・マーウィック・ミッチェル**であった点も共通しており、企業グループの拡大や国際業務・IT化に対応するため、またスケールメリット享受のため太田昭和合併の翌年に合併を決め、センチュリー監査法人となった。更に翌[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）には北海道の企業に強い栄光監査法人を吸収。常勤公認会計士数277名・クライアント数627社・業務収入40億円という他の大手法人に比肩する規模まで成長し、報道等でも「第五勢力」として扱われるようになった。スケールと地盤を獲得した流れで、国鉄民営化に際しては[北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")をクライアントとして獲得している（一方で太田昭和は[西日本旅客鉄道](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")を獲得）。
+
+1989年（平成元年）、海外提携先のピート・マーウィック・ミッチェルはBig8に次ぐヨーロッパ地盤の会計事務所、クラインベルト・メイン・ゲルデラーと合併し**[KPMG](../Page/KPMG.md "wikilink")**となる。これに合わせて翌年にはピート・マーウィック・ミッチェルが国内提携のため設立した日本法人の港監査法人を吸収、国外への業務拡大の弾みとなった\[4\]。
+
+### 2大手法人の合併とその後
+
+海外の会計事務所はしばらく六大会計事務所（Big6）体制で落ち着いていたが、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）9月になり、そのうちのプライス・ウォーターハウスとクーパース・アンド・ライブランドの合併計画が報じられた。これに触発される形で、翌[10月20日](../Page/10月20日.md "wikilink")には提携先であったEYとKPMGの合併計画が急浮上、正式決定までなされた。
+
+前者については国内でも中央監査法人と青山監査法人の合併検討が直ちに始められた。また結果として米国・欧州での合併認可を取りつけ[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）に2つの会計事務所は合併、[プライスウォーターハウスクーパース](../Page/プライスウォーターハウスクーパース.md "wikilink")（PwC）となる。これに続き国内でも、一度は延期されたものの[2000年](../Page/2000年.md "wikilink")（平成12年）に中央と青山は合併を決め中央青山監査法人となった。一方後者について、太田昭和監査法人は昭和監査法人からの流れでKPMGとも提携はしていたが、KPMGの日本におけるメインの提携先はセンチュリー監査法人である。ここに太田昭和とセンチュリーの合併交渉が開始され、期日を1998年（平成10年）[7月1日](../Page/7月1日.md "wikilink")に据えたものの、EYとKPMGの合併は同年初頭に早くも破断へ至った。しかしながら国内での合併交渉は継続され、[2000年](../Page/2000年.md "wikilink")（平成12年）に中央青山監査法人の成立と同タイミングで太田昭和とセンチュリーは合併、監査法人太田昭和センチュリーが成立するのである。
+
+両者の合併契約締結がスムーズに進行した背景として、国内において大手金融機関をはじめクライアント同士の大型合併が当時相次いでいたこと、特に[富士銀行](../Page/富士銀行.md "wikilink")（太田昭和が担当）・[第一勧業銀行](../Page/第一勧業銀行.md "wikilink")（センチュリーが担当）・[日本興業銀行](../Page/日本興業銀行.md "wikilink")（中央が担当）の3行合併により監査人が絞られ、各法人にとって重大な影響をもたらすことが懸念されていたことがあった\[5\]。新たに設立されるメガバンク（現・[みずほフィナンシャルグループ](https://ja.wikipedia.org/wiki/みずほフィナンシャルグループ "wikilink")）を巡り3法人間での駆け引きが行われ、太田昭和とセンチュリーはメガバンク繋ぎ止めのために兼ねてより進められていた合併交渉が有利に働くとみて、グローバルファームの合併破談に反して積極的な動きを見せた。これが功を奏しメガバンクは太田昭和とセンチュリーの合併後の監査法人に残ることとなった\[6\]。
+
+この合併によってKPMGの提携先は監査法人太田昭和センチュリー（[2001年](../Page/2001年.md "wikilink")より新日本監査法人）のみとなったが、法人の主軸は太田昭和の側にあり、メイン提携先はEYであったため、海外関連業務等もEYが主導となり、KPMGは日本での業務拡大に支障をきたすこととなった。一方、同時期に発生した[エンロン](https://ja.wikipedia.org/wiki/エンロン "wikilink")事件により同社を担当していた[アーサー・アンダーセン](https://ja.wikipedia.org/wiki/アーサー・アンダーセン "wikilink")が解散に追い込まれ、提携していた朝日監査法人も新たな提携先を探す必要性に迫られることとなった。ここに両者の利害関係は一致し、またアンダーセンがKPMGと監査部門の身売り交渉を開始したこともあり、朝日はKPMGを提携先に選定。それに呼応する形でKPMG部門（旧センチュリー系）の多くが新日本監査法人から切り離され、あずさ監査法人として独立し朝日と合併した\[7\]。 新日本監査法人は2003年（平成15年）3月末でKPMGとの提携を解消し、海外提携をEYに一本化した。これにより国内の大手監査法人と海外の大手会計事務所とのねじれ提携関係は解消された。一方で多くの大口クライアントがあずさへ移動したため業務収入は大幅に減少することとなった。しかしその4年後、2007年（平成19年）に解散に追い込まれた[みすず監査法人](https://ja.wikipedia.org/wiki/みすず監査法人 "wikilink")\[8\]のうち、東京事務所の会計士の大半がクライアントとともに新日本へ移ったため、業務収入は1.5倍へ一転して大幅増加することとなり、国内最大規模の監査法人となった。この際にトーマツやあずさは人員やクライアントの誘致へ向け一定の働きかけを行ったのに対し、新日本は当時の[公認会計士協会](https://ja.wikipedia.org/wiki/公認会計士協会 "wikilink")会長[藤沼亜紀](https://ja.wikipedia.org/wiki/藤沼亜紀 "wikilink")の出身であった都合上特段の働きかけを行わなかったが、みすずの会計士の多くは自発的に新日本へ移ることを選択した\[9\]\[10\]。
+
+### 年表
+
+  - [1967年](../Page/1967年.md "wikilink")（昭和42年）1月 - [太田哲三](https://ja.wikipedia.org/wiki/太田哲三 "wikilink")（[一橋大学](https://ja.wikipedia.org/wiki/一橋大学 "wikilink")名誉教授）が日本で最初の[監査法人](https://ja.wikipedia.org/wiki/監査法人 "wikilink")として、**監査法人太田哲三事務所**設立。
+  - 1967年（昭和42年）10月 - 富島一夫が監査法人富島会計事務所を設立。
+  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）3月 - **監査法人第一監査事務所**設立。
+  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）12月 - 富島一夫が監査法人富島事務所を解体再組織し、**昭和監査法人**設立。
+  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）11月 - **日新監査法人**設立。
+  - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）9月 - **武蔵監査法人**設立。
+  - [1984年](../Page/1984年.md "wikilink")（昭和59年）7月 - 監査法人太田哲三事務所が**アーンスト・アンド・ウィニー**の国際部を吸収しメンバーファームとなる\[11\]。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）8月 - **ピート・マーウィック・ミッチェル**が日本における現地法人として港監査法人を設立。
+  - 1985年（昭和60年）10月 - 監査法人太田哲三事務所と昭和監査法人が合併し**太田昭和監査法人**となる。
+  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）1月 - 第一監査事務所、日新、武蔵の3法人が合併し**センチュリー監査法人**となる。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）4月 - 監査法人榮光会計事務所がセンチュリー監査法人に合流。
+  - [1989年](../Page/1989年.md "wikilink")（平成元年）1月 - ピート・マーウィック・ミッチェルがクラインベルト・メイン・ゲルデラーと合併、**KPMG**となる。
+  - 1989年（平成元年）10月 - アーンスト・アンド・ウィニーがアーサー・ヤングと合併、**アーンスト・アンド・ヤング**となる。
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）7月 - 港監査法人がセンチュリー監査法人に合流。
+  - [1992年](../Page/1992年.md "wikilink")（平成4年）7月 - 陽光監査法人がセンチュリー監査法人に合流。
+  - [2000年](../Page/2000年.md "wikilink")（平成12年）4月 - 太田昭和監査法人とセンチュリー監査法人が統合し**監査法人太田昭和センチュリー**となる。
+  - [2001年](../Page/2001年.md "wikilink")（平成13年）7月 - 監査法人テイケイエイ飯塚毅事務所と高千穂監査法人が合流し名称を**新日本監査法人**に改称。
+  - [2003年](../Page/2003年.md "wikilink")（平成15年） - KPMG部門を分離し、（旧）あずさ監査法人を設立。（旧）あずさ監査法人は朝日監査法人と合併し（新）[あずさ監査法人となる](https://ja.wikipedia.org/wiki/有限責任あずさ監査法人 "wikilink")。これにより海外提携ファームの[アーンスト・アンド・ヤング](../Page/アーンスト・アンド・ヤング.md "wikilink")とKPMGとのダブルファーム状態を解消。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）7月 - 監査法人大成会計社を吸収。
+  - [2007年](../Page/2007年.md "wikilink")（平成19年）8月 - [みすず監査法人](https://ja.wikipedia.org/wiki/みすず監査法人 "wikilink")から業務移管を受け、国内最大規模の監査法人となる。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）7月 - 日本で最初の有限責任監査法人として、**新日本有限責任監査法人**となる。
+  - [2015年](../Page/2015年.md "wikilink")（平成27年）12月 - 金融庁より一部業務停止処分を含む行政処分を受ける。
+  - [2017年](../Page/2017年.md "wikilink")（平成29年）1月 - EY Japanの本部機能が独立して**EYジャパン合同会社**として設立された。
+  - [2018年](../Page/2018年.md "wikilink")（平成30年）2月 - 本部・東京事務所を[日比谷国際ビル](https://ja.wikipedia.org/wiki/日比谷国際ビル "wikilink")から[東京ミッドタウン日比谷](https://ja.wikipedia.org/wiki/東京ミッドタウン日比谷 "wikilink")に順次移転\[12\]。
+  - [2018年](../Page/2018年.md "wikilink")（平成30年）7月1日 - 名称を**EY新日本有限責任監査法人**に改称。
+
+### 歴代理事長
+
+| 代 | 氏名                                                    | 期間                                                                              | 備考                                                                                                                    |
+| - | ----------------------------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 1 | [竹山健二](https://ja.wikipedia.org/wiki/竹山健二 "wikilink") | [2001年](../Page/2001年.md "wikilink")7月 - 2003年4月                                | [大阪市立大学](https://ja.wikipedia.org/wiki/大阪市立大学 "wikilink")[商学部](../Page/商学部.md "wikilink")卒、**監査法人太田昭和センチュリー**理事長から横滑り |
+| 2 | [水嶋利夫](https://ja.wikipedia.org/wiki/水嶋利夫 "wikilink") | [2004年](../Page/2004年.md "wikilink")5月 - 2008年7月                                | [中央大学](https://ja.wikipedia.org/wiki/中央大学 "wikilink")[経済学部](../Page/経済学部.md "wikilink")卒                              |
+| 3 | [加藤義孝](https://ja.wikipedia.org/wiki/加藤義孝 "wikilink") | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月 - 2014年6月             | [東北大学経済学部](https://ja.wikipedia.org/wiki/東北大学経済学部 "wikilink")卒                                                        |
+| 4 | 英 公一                                                  | [2014年](../Page/2014年.md "wikilink")7月 - [2016年](../Page/2016年.md "wikilink")1月 | [慶應義塾大学経済学部](https://ja.wikipedia.org/wiki/慶應義塾大学経済学部 "wikilink")卒、東芝事件により辞任                                          |
+| 5 | 辻 幸一                                                  | [2016年](../Page/2016年.md "wikilink")2月 -                                        | 中央大学商学部/早稲田大学大学院経済学研究科修了、現職                                                                                           |
+| 6 | [片倉正美](https://ja.wikipedia.org/wiki/片倉正美 "wikilink") | [2019年](../Page/2019年.md "wikilink")7月 -                                        | [明治大学](../Page/明治大学.md "wikilink")[経営学部](../Page/経営学部.md "wikilink")卒、現職                                              |
+|   |                                                       |                                                                                 |                                                                                                                       |
+
+## 出来事
+
+  - 職員によるインサイダー取引
+    [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月2日、2007年まで所属していた同法人の[公認会計士](https://ja.wikipedia.org/wiki/公認会計士 "wikilink")が、在職中に[インサイダー取引をした疑いがあるとして](https://ja.wikipedia.org/wiki/内部者取引 "wikilink")、[証券取引等監視委員会](https://ja.wikipedia.org/wiki/証券取引等監視委員会 "wikilink")に調査されていることが新聞報道により報道された。
+    これを受けて、同法人は翌日午前、記者会見において、インサイダー取引の事実があったことを認める内部調査の結果を発表した。これに対し、[金融庁](../Page/金融庁.md "wikilink")は証券取引等監視委員会の勧告に基づき、課徴金納付命令と、公認会計士の懲戒処分を行うと共に、新日本監査法人（当時）に対して法令遵守及び教育研修体制を含む監査法人の運営に関する改善策について報告徴求を行った\[13\]\[14\]。
+  - [リーマン事件による](https://ja.wikipedia.org/wiki/リーマン・ショック#破綻とリーマン・ショック "wikilink")[民事訴訟](https://ja.wikipedia.org/wiki/民事訴訟 "wikilink")
+    海外提携ファームのアーンストアンドヤングに対し、アメリカ[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")が詐欺容疑で民事訴訟を起こした\[15\]。
+  - 「反IFRS」の政界ロビイング疑惑
+    2011年8月、役員（パートナー）の一部が顕名論文\[16\]で日本への[国際会計基準](../Page/国際会計基準.md "wikilink")の導入に反対しているかのような政界活動を援助している、と[現代ビジネス](https://ja.wikipedia.org/wiki/現代ビジネス "wikilink")が報じた\[17\]。この記事に関して同法人は、事実ではないとして同社サイトにて記事内容を否定している\[18\]。
+  - [オリンパス事件](https://ja.wikipedia.org/wiki/オリンパス事件 "wikilink")
+    2012年7月6日、[金融庁](../Page/金融庁.md "wikilink")より業務改善命令を受けた。これは[オリンパス](https://ja.wikipedia.org/wiki/オリンパス "wikilink")の監査証明に関して、監査契約受嘱における法人としての組織的な監査を実施するための仕組みが十分に機能していなかったことによる\[19\]。
+  - [東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")の粉飾決算事件
+    [2015年](../Page/2015年.md "wikilink")7月20日、[第三者委員会](https://ja.wikipedia.org/wiki/第三者委員会 "wikilink")の報告書により、経営トップの関与による2009年3月期から2014年4 - 12月期で計1,518億円の利益を水増しする[粉飾決算](https://ja.wikipedia.org/wiki/粉飾決算 "wikilink")を行っていたことが報告された。この一連の不祥事、つまり不正会計処理を「長年にわたって見逃した」として、2002年度から東芝の監査を担当し（それ以前は[中央青山監査法人が担当](https://ja.wikipedia.org/wiki/みすず監査法人 "wikilink")）、しかも先述のオリンパス事件でもオリンパスの粉飾決算を見抜けなかった、新日本監査法人の監査機能に批判の声が挙がり、同年9月には[金融庁](../Page/金融庁.md "wikilink")および監査審査会の立ち入り検査を受けた\[20\]。
+    上記の監査作業の実態調査の結果、内部手続きの形骸化や不審点への追及不足といった問題が判明し、2015年[12月22日](../Page/12月22日.md "wikilink")に金融庁から「課徴金21億円」「3カ月の新規業務の受付停止」「[公認会計士法に基づく](https://ja.wikipedia.org/wiki/公認会計士_\(日本\) "wikilink")[業務改善命令](../Page/業務改善命令.md "wikilink")及び（東芝を担当していた7人の）[公認会計士](https://ja.wikipedia.org/wiki/公認会計士 "wikilink")に対する1カ月～6カ月の業務停止措置」の3つの[行政処分](https://ja.wikipedia.org/wiki/行政処分 "wikilink")を受けた。これらの処分を受けて、英公一（はなぶさ こういち）理事長は辞任、また東芝以外の監査に関しても「運営が著しく不当なものと認められた」として、他社の監査業務にも今回の行政処分を同時に受けている\[21\]。
+    この事件を受け、2016年6月末にて東芝との監査契約を解除した。東芝は後任監査人に[PwCあらた有限責任監査法人](https://ja.wikipedia.org/wiki/PwCあらた有限責任監査法人 "wikilink")を起用し、5年ごとに監査法人を見直すことを検討することとした。なお、2016年6月末にて同法人との契約を解除した[東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")上場企業は、東芝を含め38社に上っている\[22\]。うち直近の監査報酬が1億円を超す大口クライアントは6社（PwCあらた：東芝・[東芝テック](../Page/東芝テック.md "wikilink")・[王子HD](https://ja.wikipedia.org/wiki/王子ホールディングス "wikilink")・[トランスコスモス](https://ja.wikipedia.org/wiki/トランスコスモス "wikilink")、あずさ：[富士フイルムHD](https://ja.wikipedia.org/wiki/富士フイルムホールディングス "wikilink")、トーマツ：[ANAHD](https://ja.wikipedia.org/wiki/ANAホールディングス "wikilink")）である。
+
+## 関係会社
+
+  - [EY Japan](http://www.eyjapan.jp/)
+  - [EYアドバイザリー・アンド・コンサルティング（株）](http://www.eyadvisory.co.jp/)
+  - [EY税理士法人](http://www.eytax.jp/)
+  - [EYトランザクション・アドバイザリー・サービス（株）](http://www.eytas.co.jp/)
+  - [EY弁護士法人](http://law.eyjapan.jp/)
+  - [EY総合研究所（株）](http://eyi.eyjapan.jp/)
+  - [新日本パブリック・アフェアーズ（株）](http://www.snpa.co.jp/)
+  - [EY新日本サステナビリティ（株）](http://sustainability.shinnihon.or.jp/)
+  - [EY新日本クリエーション（株）](http://eyc.shinnihon.or.jp/)
+  - [EYソリューションズ（株）](http://www.eysolutions.co.jp/)
+  - [EYビジネスイニシアティブ（株）](http://www.eyjapan.jp/about-us/eybi.html)
+  - EYリアルエステートアドバイザーズ（株）
+
+## 脚注・出典
+
+<div class="references-small">
+
+<references/>
+
+</div>
+
+## 外部リンク
+
+  - [新日本有限責任監査法人](http://www.shinnihon.or.jp/)
+  - [EY新日本 子会社および地区拠点の見直しを実施｜EY Japan](https://www.eyjapan.jp/newsroom/2017/2017-05-30.html)
+      -
+        [EY総合研究所](https://ja.wikipedia.org/wiki/EY総合研究所 "wikilink")株式会社(新日本有限責任監査法人の[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink"))。2017年[6月30日](../Page/6月30日.md "wikilink")をもって解散。
+  - [アーンスト・アンド・ヤング ジャパン](http://www.eyjapan.jp/)
+      -
+        日本におけるアーンスト・アンド・ヤングのメンバーファームである新日本有限責任監査法人、EY税理士法人、アーンストアンドヤング・トランザクション・アドバイザリー・サービス（株）、アーンスト・アンド・ヤング・アドバイザリー（株）など、10の法人で構成されている。各法人は法的に独立した組織である。
+  - [（株）ビジネスブレイン太田昭和](http://www.bbs.co.jp/)
+      -
+        新日本有限責任監査法人（旧昭和（のち太田昭和）監査法人）の元兄弟会社。現在は[日立グループ](https://ja.wikipedia.org/wiki/日立グループ "wikilink")の一員となっており資本関係は存在しない。
+
+[Category:日本の監査法人](https://ja.wikipedia.org/wiki/Category:日本の監査法人 "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink")
+
+1.  柴田秀樹、「[監査法人の未来像：監査法人の研究](http://hdl.handle.net/10129/3261)」『人文社会論叢. 社会科学篇』 2010年 23号 p.67-99, , 弘前大学人文学部。
+2.  従来のEYのグローバルエリアは、Americas（南北アメリカ）・EMEIA（欧州、中東、インド、アフリカ）・Asia-Pacific・Japanの4区分であったが、日本法人側からの提案により2019年7月1日にAsia-PacificエリアとJapanエリアが統合されることとなり、EY Japanは同エリア最大のファームになることとなった（[1](https://www.eyjapan.jp/newsroom/2018/2018-11-01.html)）。
+3.  [EY Japanの組織を再編](https://www.eyjapan.jp/newsroom/2017/2017-01-18-01.html) - EY Japan、2017年1月18日.
+4.  [わが国監査法人の展開](https://ci.nii.ac.jp/els/contents110000062966.pdf?id=ART0000406391) - 原征士（法政大学）著、1995年。
+5.  現在でもメガバンクは、新日本（みずほ）・トーマツ（三菱UFJ）・あずさ（三井住友）のいずれの大手法人においても全クライアント中最大の監査報酬を占めている。
+6.
+7.  [わが国監査法人の展開](https://ci.nii.ac.jp/els/contents110004708937.pdf?id=ART0007451438) - 原征士（法政大学）著、2003年。
+8.  中央青山監査法人より[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に改称。なお、これに先立って旧青山系グループは[あらた監査法人として独立していたため](https://ja.wikipedia.org/wiki/PwCあらた監査法人 "wikilink")、実質上は旧中央監査法人。
+9.
+10. 当初みすずの経営陣はトーマツへの移管を検討したが、社風が著しく異なるとして社内で反発が大きく断念し、社風が近いとされた新日本への移管を決定した。一方、あずさは、取り分け積極的にみすずからクライアントと人員の引き抜きを行っており、その結果として人手不足に陥ったみすずが解散に追い込まれたという経緯から、みすずの会計士から敬遠されている。
+11. [会社概要：マネジメント・パワー・エクスチェンジ グループ](http://www.mpx-group.com/company/history.html)
+12. [EY Japanのメンバーファームが「東京ミッドタウン日比谷」に新東京オフィスを開設](https://www.eyjapan.jp/newsroom/2018/2018-01-31-01.html) - EY Japan、2018年1月31日。
+13. [公認会計士の懲戒処分について](http://www.fsa.go.jp/news/19/syouken/20080409-2.html)
+14. [公認会計士による内部者取引に対する課徴金納付命令の決定について](http://www.fsa.go.jp/news/19/syouken/20080409-1.html)
+15. [NY州司法長官、E\&Yを提訴―リーマンの会計詐欺支援と主張](http://jp.wsj.com/Finance-Markets/Finance/node_162971)
+16.  - 東京財団 政策研究 2010 年12 月
+17. [2011年8月24日 現代ビジネス 国際会計基準IFRS反対派"逆転勝利"の裏側で動いていた「日本版ロビイスト」](http://gendai.ismedia.jp/articles/-/16990)
+18. [2011年9月7日 ウェブ上の記事における当法人に関する記載について](http://www.shinnihon.or.jp/about-us/news-releases/2011/2011-09-07.html)
+19. [金融庁による業務改善命令を受けて](http://www.shinnihon.or.jp/about-us/news-releases/2012/2012-07-06.html)
+20.
+21.
+22. [ニュース最前線05−−“なれ合い”の重い代償 新日本から38社離脱](http://mikke.g-search.jp/QTKW/2016/20160618/QTKW20160618TKW008.html)（週刊東洋経済、2016年6月18日）

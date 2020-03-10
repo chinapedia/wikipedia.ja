@@ -1,0 +1,168 @@
+> この記事は[NEOGEO ](https://ja.wikipedia.org/wiki/NEOGEO_)から翻訳されています。
+
+
+『**NEOGEO オンラインコレクション**』（ネオジオ オンラインコレクション）とは、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")から[SNKプレイモアが発売している](../Page/SNK_\(2001年設立の企業\).md "wikilink")、かつて[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")でリリースされた[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")（一部例外あり）を[PlayStation 2へと完全移植した復刻版のシリーズである](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。復刻版であるため、[オリジナル](https://ja.wikipedia.org/wiki/オリジナル "wikilink")と違いBGMが[アレンジされていたり](../Page/編曲.md "wikilink")、一部の描写が差し替えられているなど、若干の変更がある。また、過去にPlayStation 2で同名のタイトルが単品で移植されていたものも一部あるが、本シリーズはネオジオ版をベースとした復刻版のため、以前の家庭用移植版にあった独自追加要素は一部を除いて外されている。
+
+「[オンライン](../Page/オンライン.md "wikilink")」という名称通り、全タイトルが[KDDI](../Page/KDDI.md "wikilink")による通信対戦サービス「[マルチマッチングBB](https://ja.wikipedia.org/wiki/マルチマッチングBB "wikilink")」に対応していたが、ネットワークサービスは2010年9月20日をもって終了している\[1\]。
+
+## シリーズ
+
+最終作のVol.12までの時点で、発売されているタイトルは全て[CERO](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")[レーティング12歳以上対象](../Page/CEROレーティング12才以上対象ソフトの一覧.md "wikilink")（Vol.5『餓狼伝説 バトルアーカイブズ1』以降は新基準の「」表示）。
+
+  - Vol.1：[餓狼 MARK OF THE WOLVES](https://ja.wikipedia.org/wiki/餓狼_MARK_OF_THE_WOLVES "wikilink")
+
+:\*[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月30日](../Page/6月30日.md "wikilink")発売。限定版あり。
+
+:\*THE BEST：[2007年](../Page/2007年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")発売。
+
+  -
+    移植の際に修正されている部分があったり、モードが少々追加されている。
+
+    限定版には「ネオジオスティック2」\[2\]が同封されている。
+
+  - Vol.2：[幕末浪漫 月華の剣士1・2](https://ja.wikipedia.org/wiki/幕末浪漫_月華の剣士 "wikilink")
+    『**幕末浪漫 月華の剣士**』と『**幕末浪漫第二幕 月華の剣士 〜月に咲く華、散りゆく花〜**』のセット。
+
+      - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月12日](../Page/1月12日.md "wikilink")発売。
+      - THE BEST：2007年6月21日発売。
+
+    Vol.1とは違って、ネオジオ版をベースとした移植であり、以降の作品もそれに沿った形で移植されているが、このVol.2については「基本操作の説明」のシーンだけ省かれている。
+
+  - Vol.3：[THE KING OF FIGHTERS](../Page/ザ・キング・オブ・ファイターズ.md "wikilink") -オロチ編-
+    『THE KING OF FIGHTERS』シリーズ（以下『KOF』）のうち、オロチ編の作品である『**KOF'95**（第一章）』、『**KOF'96**（第二章）』、『**KOF'97**（最終章）』のセット。
+
+      - 2006年[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")発売。限定版あり。
+      - THE BEST：2007年6月21日発売。
+
+    このタイトルから「基本操作説明」のシーンも収録される。
+
+    プラクティスモードが無い。
+
+    ネオジオ版をベースとした移植であるが、各シリーズの隠しキャラクターが全て隠しコマンドを入力しなくても使用可能になっている。ただし、『KOF'97』では最終ボスの[オロチのみ使えない](https://ja.wikipedia.org/wiki/オロチ_\(KOF\) "wikilink")\[3\]。
+
+    限定版には「ネオジオスティック3」が同梱。
+
+  - Vol.4：[龍虎の拳](https://ja.wikipedia.org/wiki/龍虎の拳 "wikilink") 〜天・地・人〜
+    『**龍虎の拳**』、『**龍虎の拳2**』、『**ART OF FIGHTING 龍虎の拳 外伝**』のセット。
+
+      - 2006年[5月11日](../Page/5月11日.md "wikilink")発売。
+      - THE BEST：2007年6月21日発売。
+
+    『龍虎の拳 外伝』は、[ネオジオCD](https://ja.wikipedia.org/wiki/ネオジオCD "wikilink")を含む家庭用ネオジオ版を除けば初移植となる。
+
+    プラクティスモードはなし。
+
+    ネオジオ版ベースの移植のため、『龍虎の拳2』で[ギース・ハワード](../Page/ギース・ハワード.md "wikilink")は使えない。
+
+  - Vol.5：[餓狼伝説](https://ja.wikipedia.org/wiki/餓狼伝説 "wikilink") バトルアーカイブズ1
+    『**餓狼伝説**』、『**[餓狼伝説2](https://ja.wikipedia.org/wiki/餓狼伝説2 "wikilink")**』、『**[餓狼伝説SPECIAL](https://ja.wikipedia.org/wiki/餓狼伝説スペシャル "wikilink")**』、『**[餓狼伝説3](https://ja.wikipedia.org/wiki/餓狼伝説3 "wikilink")**』のセット。
+
+      - 2006年[7月20日](../Page/7月20日.md "wikilink")発売。
+      - THE BEST：[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月29日](../Page/5月29日.md "wikilink")発売。
+
+    『餓狼伝説SPECIAL』では、2P対戦モード限定で隠しキャラクターの[リョウ・サカザキ](../Page/リョウ・サカザキ.md "wikilink")が最初から使用可能になっている。
+
+    これもプラクティスモードはない。
+
+  - Vol.6：餓狼伝説 バトルアーカイブズ2
+    『**[リアルバウト餓狼伝説](../Page/リアルバウト餓狼伝説.md "wikilink")**』、『**リアルバウト餓狼伝説スペシャル**』、『**リアルバウト餓狼伝説2 THE NEWCOMERS**』のセット。
+
+      - [2007年](../Page/2007年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")発売。
+      - THE BEST：2008年5月29日発売。
+
+    この作品以降、Vol.3以降の製品（一部の収録作品を除く）としては初めてプラクティスモードなどが導入されたが、元々がネオジオ版をベースとする移植なためか、直接移行できるように別途に組み込まれている。
+
+    『リアルバウト餓狼伝説』では、[ブルー・マリー](https://ja.wikipedia.org/wiki/ブルー・マリー "wikilink")のリングアウト時の演出が修正されている。
+
+    『リアルバウト餓狼伝説スペシャル』では、隠しコマンドでギース・ハワードが使用可能。
+
+    『リアルバウト餓狼伝説2』はネオジオCDを含む家庭用ネオジオを除けば初移植となる。付属の解説書記載の隠しコマンドで、家庭用ネオジオやネオジオCDでもCPU専用だった隠しボスキャラクターの[アルフレッドが使用可能になっている](https://ja.wikipedia.org/wiki/アルフレッド_\(餓狼伝説\) "wikilink")。
+
+    発売日の数日前までに[ゲオ](https://ja.wikipedia.org/wiki/ゲオ "wikilink")で予約すると、[テリー・ボガード](../Page/テリー・ボガード.md "wikilink")がかぶっているキャップを再現したものが予約特典として貰えた。
+
+  - Vol.7：THE KING OF FIGHTERS -ネスツ編-
+    ネスツ編の作品である『**KOF'99**（第一章）』、『**KOF2000**（第二章）』、『**KOF2001**（最終章）』のセット。
+
+      - 2007年[4月19日](../Page/4月19日.md "wikilink")発売。
+      - THE BEST：2008年5月29日発売。
+
+    ネオジオ版と[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版がそれぞれの作品ごとに移植されており\[4\]、実質的には計6作品をプレイできるが、シリーズ名に反するかのように、オンライン対戦が可能なのはドリームキャスト版のみとなっている。
+
+    なお、各作品のドリームキャスト版では、元は隠しキャラクターだったボス・追加キャラクターが全て、最初から無条件で使用可能（一部、付属の解説書に記載されている隠しコマンドの入力が必要）。
+
+    ネオジオ版については、ネオジオ起動時のシーンだけが省かれている。
+
+  - Vol.8：風雲 SUPER COMBO
+    『**[風雲黙示録](https://ja.wikipedia.org/wiki/風雲黙示録 "wikilink")**』と『**[風雲スーパータッグバトル](https://ja.wikipedia.org/wiki/風雲スーパータッグバトル "wikilink")**』のセット。
+
+      - 2007年[6月21日](../Page/6月21日.md "wikilink")発売。
+      - THE BEST：2008年5月29日発売。
+
+    どちらもネオジオCDを含む家庭用ネオジオ版を除けば今回が初の家庭用移植となる。
+
+  - Vol.9：[ワールドヒーローズ](../Page/ワールドヒーローズ.md "wikilink") ゴージャス
+    『**ワールドヒーローズ**』、『**ワールドヒーローズ2**』、『**ワールドヒーローズ2JET**』、『**ワールドヒーローズ パーフェクト**』のセット。
+
+      - 2007年[10月18日](../Page/10月18日.md "wikilink")発売。
+      - THE BEST：[2009年](../Page/2009年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")発売。
+
+    このシリーズは、SNKプレイモアから続編が発売されている『[ティンクルスタースプライツ](https://ja.wikipedia.org/wiki/ティンクルスタースプライツ "wikilink")』同様、旧[SNKと資本提携をしていた](../Page/SNK_\(1978年設立の企業\).md "wikilink")[ADK](../Page/エーディーケイ.md "wikilink")（旧：アルファ電子）の作品であったが、SNKプレイモアがADK作品の版権を取得していたために発売が実現した。
+
+  - Vol.10：THE KING OF FIGHTERS '98 -ULTIMATE MATCH-
+
+:\*[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月26日](../Page/6月26日.md "wikilink")発売。
+
+:\*THE BEST：2009年6月18日発売。
+
+  -
+    過去に発売された『KOF'94』のリメイク作品『'94 RE-BOUT』と同じく、[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")版『'98UM』とオリジナル（ネオジオ）版『'98』が共に収録されており、オリジナル版については、ネオジオ起動時のシーンと「基本操作の説明」のシーンが省かれている。
+    また、「基本操作の説明」のシーンについては、リメイク版も省かれている\[5\]。
+    初回限定として、ミニ花蝶扇ストラップが付属。
+  - Vol.11：サンソフトコレクション
+    [サン電子](https://ja.wikipedia.org/wiki/サン電子 "wikilink")の「SUNSOFT」ブランドのネオジオ作品である『**[ギャラクシーファイト ユニバーサル・ウォーリアーズ](../Page/ギャラクシーファイト_ユニバーサル・ウォーリアーズ.md "wikilink")**』と『**[わくわく7](https://ja.wikipedia.org/wiki/わくわく7 "wikilink")**』のセット。
+      - 2008年6月26日発売。
+      - THE BEST：2009年6月18日発売。
+    2タイトルの版権はサン電子が所持しているため、©SUNSOFTのコピーライトが併記されている。
+    なお、ネオジオ起動時のシーンだけが省かれている。
+  - Vol.12：[サムライスピリッツ](../Page/サムライスピリッツ.md "wikilink") 六番勝負
+    『**サムライスピリッツ**』、『**真サムライスピリッツ 覇王丸地獄変**』、『**サムライスピリッツ 斬紅郎無双剣**』、『**サムライスピリッツ 天草降臨**』、『**サムライスピリッツ零**』、『**サムライスピリッツ 天下一剣客伝**』のセット。
+      - 2008年[7月24日](../Page/7月24日.md "wikilink")発売。
+      - THE BEST：2009年6月18日発売。
+    本製品収録の6作品のうち、ネオジオ作品ではない『天下一剣客伝』のみアーケード版（[ATOMISWAVE](https://ja.wikipedia.org/wiki/ATOMISWAVE "wikilink")版）ではなくPlayStation 2向けに発売された単体版をベースとしたものが収録され、追加要素としてほとんどのキャラクターの声優を過去のシリーズ内の作品で担当した[声優](../Page/声優.md "wikilink")に切り替えることのできる機能が新たに追加されている。ただし、本作とPS2単品版とのオンライン対戦はサーバーが違うため不可。
+    [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")版も同時発売されたが、オンライン対戦には非対応でありプラットフォームも異なるため、本シリーズには含まれない（公式サイト参照）。Wii版のみの要素として独自のミニゲームが収録されている。
+    [2009年](../Page/2009年.md "wikilink")には北米で[PlayStation Portable版も発売されたが](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、日本では未発売。
+
+### コンプリートBOX
+
+[2009年](../Page/2009年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")には初回生産のみの完全限定商品として、『**NEOGEOオンラインコレクション コンプリートBOX**』が上下2巻同時発売となった\[6\]。これまでのシリーズ12本を上巻と下巻で6本ずつに分けて収録している。さらに購入者特典として、それぞれの収録タイトル分のMVS筐体専用のインストラクションカードを復刻した「復刻版ELカードセット」（上巻19タイトル、下巻15タイトル）と、それらを収納した「NEOGEO専用メモリーカード型ケース」が付属する。レーティングはどちらも。
+
+  - 上巻収録タイトル
+      - 『餓狼伝説バトルアーカイブズ1』（Vol.5）
+      - 『餓狼伝説バトルアーカイブズ2』（Vol.6）
+      - 『餓狼 MARK OF THE WOLVES』（Vol.1）
+      - 『龍虎の拳〜天・地・人〜』（Vol.4）
+      - 『サムライスピリッツ六番勝負』（Vol.12）
+      - 『サンソフトコレクション』（Vol.11）
+  - 下巻収録タイトル
+      - 『THE KING OF FIGHTERS オロチ編』（Vol.3）
+      - 『THE KING OF FIGHTERS'98 ULTIMATE MATCH』（Vol.10）
+      - 『THE KING OF FIGHTERS ネスツ編』（Vol.7）
+      - 『ワールドヒーローズゴージャス』（Vol.9）
+      - 『風雲スーパーコンボ』（Vol.8）
+      - 『幕末浪漫 月華の剣士1・2』（Vol.2）
+
+## 脚注
+
+## 外部リンク
+
+  - [NEOGEO オンラインコレクション](http://game.snkplaymore.co.jp/official/online/index.php)
+  - [マルチマッチングBB](http://www.kddi.com/variety/multi_m/)
+
+[Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink") [Category:対戦型格闘ゲーム](https://ja.wikipedia.org/wiki/Category:対戦型格闘ゲーム "wikilink") [Category:オムニバスのゲーム](https://ja.wikipedia.org/wiki/Category:オムニバスのゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:サービスを終了したオンラインゲーム](https://ja.wikipedia.org/wiki/Category:サービスを終了したオンラインゲーム "wikilink") [Category:SNKのゲームソフト](https://ja.wikipedia.org/wiki/Category:SNKのゲームソフト "wikilink") [Category:ネオジオ](https://ja.wikipedia.org/wiki/Category:ネオジオ "wikilink")
+
+1.  [SNKプレイモア「マルチマッチングBB（MMBB）」対応タイトルのネットワークサービス終了について](http://game.snkplaymore.co.jp/inquiry/mmbb.php) - SNKプレイモア ゲーム情報サイト
+2.  家庭用ネオジオのジョイスティックをPlayStation 2用にアレンジして復刻したもの。
+3.  『KOF'96』のボスである[神楽ちづる](https://ja.wikipedia.org/wiki/神楽ちづる "wikilink")と[ゲーニッツに関しては](https://ja.wikipedia.org/wiki/ゲーニッツ_\(KOF\) "wikilink")、元々オリジナル版ではプレイヤーキャラクターとして使用できる予定であったのと、使用した場合のデータ（中間デモやエンディングなど）が残っていたこともあり、ネオジオ版ベースとはいえ、本製品では使用できるようにされている。
+4.  ドリームキャスト版『KOF'99』の作品名は『THE KING OF FIGHTERS '99 EVOLUTION』となっている。
+5.  ただし、ギャラリーモードで閲覧することは可能である。
+6.

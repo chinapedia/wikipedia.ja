@@ -1,0 +1,79 @@
+> この記事は[SL](https://ja.wikipedia.org/wiki/SL)から翻訳されています。
+
+
+[Hotel_SL.jpg](https://ja.wikipedia.org/wiki/File:Hotel_SL.jpg "fig:Hotel_SL.jpg")[川場村](https://ja.wikipedia.org/wiki/川場村 "wikilink")）\]\] **SLホテル**とは、[静態保存](../Page/静態保存.md "wikilink")された[蒸気機関車](../Page/蒸気機関車.md "wikilink") (SL) に退役した[寝台車を連結し](../Page/寝台車_\(鉄道\).md "wikilink")、宿泊施設として利用したものである。
+
+## 拡張期
+
+1970年代の[SLブーム](https://ja.wikipedia.org/wiki/SLブーム "wikilink")により、全国で蒸気機関車の[静態保存](../Page/静態保存.md "wikilink")が行われた。当時蒸気機関車は人を集める施設でもあり、そこに寝台車を連結して[ホテル](../Page/ホテル.md "wikilink")とすることで集客を見込んだものである。日本で最初のSLホテルは、[1974年](../Page/1974年.md "wikilink")に[中村駅](https://ja.wikipedia.org/wiki/中村駅 "wikilink")前に開業したもので、機関車は[C11 117](../Page/国鉄C11形蒸気機関車.md "wikilink")、寝台車は旧型客車が用いられた。
+
+これ以前にも、龍ヶ森駅（現・[安比高原駅](../Page/安比高原駅.md "wikilink")）にあったスキーロッジのように[廃車となった客車を宿泊施設に転用するケースはあったが](https://ja.wikipedia.org/wiki/廃車_\(鉄道\) "wikilink")、蒸気機関車を連結したものはこれが初めてであった。
+
+当時は蒸気機関車運行の末期で、廃車される蒸気機関車には事欠かなかったことに加え、[新幹線](../Page/新幹線.md "wikilink")や[特急列車網の拡充で寝台列車が減少しつつあったこともあって客車の調達も容易であった](https://ja.wikipedia.org/wiki/特別急行列車 "wikilink")。このため短い間に[沖縄県](../Page/沖縄県.md "wikilink")を含む全国に誕生した。客車は、当初は旧型客車や[10系客車が用いられていたが](../Page/国鉄10系客車.md "wikilink")、後には[20系客車が使用された](https://ja.wikipedia.org/wiki/国鉄20系客車 "wikilink")。
+
+車内の仕様は[B寝台](../Page/B寝台.md "wikilink")の通路側に仕切りと出入り口を追加し、ホテルの客室としての体裁を整えたもののほか、A寝台を転用したもの、一般の座席車の車内を改造したものなどバリエーションもあった。また、フリースペースとして座敷車（多くは一般の座席車を廃車後に改造したもの）を備えたものもある。個室寝台車は一部の例外を除いて転用されなかった。
+
+[びわ湖温泉](../Page/びわ湖温泉.md "wikilink")に設置された「[オリエント急行](https://ja.wikipedia.org/wiki/オリエント急行 "wikilink")」は個室寝台車（[ワゴン・リ社](../Page/国際寝台車会社.md "wikilink")）と蒸気機関車をヨーロッパから輸入した。このため開設当初はシティホテル並みの宿泊料が設定されていた。
+
+## SLホテルの一覧
+
+  - [深川桜山レジャーランドSLホテル](https://ja.wikipedia.org/wiki/深川市桜山公園 "wikilink")（[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[深川市](../Page/深川市.md "wikilink")）
+    [C58 98](https://ja.wikipedia.org/wiki/国鉄C58形蒸気機関車 "wikilink")+10系A寝台車2両+20系食堂車。桜山温泉パラダイス内にあった。機関車のみ現存、ホテル跡地の[深川市桜山公園](https://ja.wikipedia.org/wiki/深川市桜山公園 "wikilink")で展示されている。
+  - 狩勝高原SLホテル（北海道[上川郡](../Page/上川郡_\(十勝国\).md "wikilink")[新得町](../Page/新得町.md "wikilink")）
+    [59672（9600形）](../Page/国鉄9600形蒸気機関車.md "wikilink")+20系A寝台車2両＋20系Ｂ寝台車改造の食堂車。旧[新内駅](https://ja.wikipedia.org/wiki/新内駅 "wikilink")跡に設置され、1978年から1990年代後半まで営業した。機関車・客車とも現存していて、**現在でも不定期だが、宿泊すること\[1\]も可能である**（NPO法人「[旧狩勝線を楽しむ会](https://ja.wikipedia.org/wiki/旧狩勝線を楽しむ会 "wikilink")」のイベントの一環として）。
+  - [日高高原荘SLホテル日高やまびこ号](../Page/沙流川温泉.md "wikilink")（北海道[沙流郡](https://ja.wikipedia.org/wiki/沙流郡 "wikilink")[日高町](https://ja.wikipedia.org/wiki/日高町_\(北海道\) "wikilink")）
+    79616（9600形）+客車（A寝台車2両+旧型客車改造の食堂車）。1976年から1980年代後半まで営業した。廃業後に客車は解体されたが、機関車のみ[日高山岳ビラパーク](https://ja.wikipedia.org/wiki/日高山岳ビラパーク "wikilink")に移設し現存する。
+  - [小岩井農場](https://ja.wikipedia.org/wiki/小岩井農場 "wikilink")SLホテル（[岩手県](../Page/岩手県.md "wikilink")[岩手郡](../Page/岩手郡.md "wikilink")[雫石町](https://ja.wikipedia.org/wiki/雫石町 "wikilink")）
+    [D51 68](../Page/国鉄D51形蒸気機関車.md "wikilink")+20系客車。1976年開業。SLホテルとして国内で営業した最後の施設で、2008年11月3日をもって休業となったが。展示のみ敷地内で行われている。開業当初はA寝台車だったが、後に内部を大幅に改造したB寝台車が使われた。
+  - 川場村武尊高原・[ホテルSL](../Page/道の駅川場田園プラザ.md "wikilink")（[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[利根郡](../Page/利根郡.md "wikilink")[川場村](https://ja.wikipedia.org/wiki/川場村 "wikilink")）
+    D51 561+客車（20系B寝台車6両）。1976年から1995年まで営業したが、通常の宿泊施設に転換した。機関車のみ現存し、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")12月に圧搾空気による150mの走行が可能な状態に修復・改造され、以降定期的な運行がなされていた\[2\]が、運行・保守を担ってきた運転士が[2016年](../Page/2016年.md "wikilink")に死去したことで運行終了となった\[3\]。
+  - [長瀞SLホテル](https://ja.wikipedia.org/wiki/長瀞SLホテル "wikilink")（[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[秩父郡](../Page/秩父郡.md "wikilink")[長瀞町](../Page/長瀞町.md "wikilink")）
+    D51 96+20系A寝台車（ナロネ21153）+20系Ｂ寝台車3両（ナハネ2056+ナハネ2058+ナハネフ22502）。1977年9月から1999年9月まで営業\[4\]。機関車のみ[碓氷峠鉄道文化むら](../Page/碓氷峠鉄道文化むら.md "wikilink")に移設し静態保存されている。
+  - [守門村SLランド](https://ja.wikipedia.org/wiki/守門村SLランド "wikilink")（[新潟県](../Page/新潟県.md "wikilink")[魚沼市](https://ja.wikipedia.org/wiki/魚沼市 "wikilink")）
+    29657（9600形）+10系A寝台車2両。1976年から1990年代後半まで営業したが、通常の宿泊施設に転換した。機関車・客車とも敷地に現存していたが、宿泊施設は2015年3月で閉館となった。
+  - 滑川SLホテル（[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[滑川市](https://ja.wikipedia.org/wiki/滑川市 "wikilink")東福寺野自然公園内）
+    D51 260+客車（10系A寝台車1両、20系B寝台車2両、一般客車改造の座敷車2両）。1976年から1998年まで営業したが通常の宿泊施設に改築された。機関車のみ現存。
+  - 野辺山SLホテル高原列車（[長野県](../Page/長野県.md "wikilink")[南佐久郡](../Page/南佐久郡.md "wikilink")[南牧村](https://ja.wikipedia.org/wiki/南牧村_\(長野県\) "wikilink")）
+    [C56 96](../Page/国鉄C56形蒸気機関車.md "wikilink")+10系A寝台車4両、オハ80形座敷車1両。1975年8月から1987年3月まで営業した\[5\]。機関車のみが南牧村の銀河公園（[野辺山駅](https://ja.wikipedia.org/wiki/野辺山駅 "wikilink")前、南牧村歴史民俗資料館横）に移設され現存する。
+  - [多賀SLパーク](../Page/多賀SLパーク.md "wikilink")（[滋賀県](../Page/滋賀県.md "wikilink")[犬上郡](../Page/犬上郡.md "wikilink")[多賀町](https://ja.wikipedia.org/wiki/多賀町 "wikilink")）
+    D51 1149+10系B寝台車（一部は内部を改造）。1976年から1980年代まで営業した。機関車のみ現存するが、整備が行われておらず荒廃している。
+  - [びわ湖温泉](../Page/びわ湖温泉.md "wikilink")内SLホテル紅葉（滋賀県[大津市](../Page/大津市.md "wikilink")）
+    [ドイツ国鉄52 2438](https://ja.wikipedia.org/wiki/ドイツ国鉄52形蒸気機関車 "wikilink")+ワゴン・リ形客車。1978年から1990年代後半まで営業した。機関車・客車とも撤去されている。
+  - 神南幸福駅SLビューホテル（[愛媛県](../Page/愛媛県.md "wikilink")[喜多郡](../Page/喜多郡.md "wikilink")[五十崎町](https://ja.wikipedia.org/wiki/五十崎町 "wikilink")（現：[内子町](https://ja.wikipedia.org/wiki/内子町 "wikilink")））
+    [C58 312](https://ja.wikipedia.org/wiki/国鉄C58形蒸気機関車 "wikilink")+旧型客車（座席車の改造）2両。営業年次不明。廃業後、敷地は吉田ホテルという一般ホテルに転業後、ホテルWHEELという[ラブホテル](https://ja.wikipedia.org/wiki/ラブホテル "wikilink")となって車両が残されていたが、2007年5月に機関車・客車ともに解体された。
+  - [中村駅](https://ja.wikipedia.org/wiki/中村駅 "wikilink")SLホテル（[高知県](../Page/高知県.md "wikilink")[中村市](../Page/中村市.md "wikilink")（現：[四万十市](https://ja.wikipedia.org/wiki/四万十市 "wikilink")））
+    C11 117+旧型客車（座席車の改造）2両。日本初のSLホテルで、1974年から1980年まで営業した。廃業後に機関車・客車とも解体済み。
+  - 湯布院町営[由布院ねむの木キャンプ場](https://ja.wikipedia.org/wiki/由布院ねむの木キャンプ場 "wikilink")（[大分県](../Page/大分県.md "wikilink")[大分郡](../Page/大分郡.md "wikilink")[湯布院町](https://ja.wikipedia.org/wiki/湯布院町 "wikilink")（現：[由布市](https://ja.wikipedia.org/wiki/由布市 "wikilink")））
+    D51 1032+10系客車3両（全てA寝台車）。1975年から1990年代まで営業した。廃業後に機関車は由布市の湯布院町中央児童公園に、そして2019年に[岩下コレクション](https://ja.wikipedia.org/wiki/岩下コレクション "wikilink")に移設の上現存\[6\]。客車は放置状態。
+  - [沖縄リゾートステーション](https://ja.wikipedia.org/wiki/沖縄リゾートステーション "wikilink")（[沖縄県](../Page/沖縄県.md "wikilink")[国頭郡](../Page/国頭郡.md "wikilink")[今帰仁村](../Page/今帰仁村.md "wikilink")）
+    [C57 87](../Page/国鉄C57形蒸気機関車.md "wikilink")+10系･20系客車および旧型客車（10系A寝台車10両、オハ80系お座敷客車2両、オロ11形グリーン車2両、20系食堂車）。1975年から1982年まで営業した。廃業後、機関車のみ存続し[ふるさと創生事業](https://ja.wikipedia.org/wiki/ふるさと創生事業 "wikilink")で整備されたが、2005年に解体された。
+
+## 現状
+
+一時は10箇所以上を数えたSLホテルであったが、寝台車は通常の宿泊施設と比べると防音性で劣る、客室設備に制約がある、寝室としては狭隘であるなど、さまざまな面でハンデを負っていた。このため物珍しさで賑わった時期を過ぎると急速に客足は遠のき、1980年代に入ると元祖の中村をはじめとして廃業が相次いだ。蒸気機関車だけが保存されて残っているケースが多いが、老朽化によりすべて解体されたものもある。
+
+2008年11月で休業した小岩井農場まきば園を最後に、営業をおこなっているSLホテルは国内から姿を消した。東福寺野自然公園のように、蒸気機関車を残して老朽化した客車を解体したあとに客車を模した形のログハウスを建てたケースもあるが、これはもはや「SLホテル」とは異なる通常の宿泊施設である。
+
+また、狩勝高原SLホテルには、20系の個室寝台であるナロネ22形が1両使用されていた。廃業後も現地に残されており、20系の個室寝台車としては唯一現存する車両である。いったんは解体の方針が打ち出されたが、機関車を含めた他の3両とともに保存活用されることとなった。
+
+蒸気機関車を伴わない、鉄道車両を利用した宿泊施設については[列車ホテル](https://ja.wikipedia.org/wiki/列車ホテル "wikilink")を参照。
+
+## 脚注
+
+## 参考文献
+
+  - [種村直樹](https://ja.wikipedia.org/wiki/種村直樹 "wikilink")『鉄道旅行術』（日本交通公社、1978年改訂版）
+
+## 関連項目
+
+  - [ツーリングトレイン](../Page/ツーリングトレイン.md "wikilink")
+  - [列車ホテル](https://ja.wikipedia.org/wiki/列車ホテル "wikilink")
+
+[Category:日本のホテル](https://ja.wikipedia.org/wiki/Category:日本のホテル "wikilink") [Category:鉄道と文化](https://ja.wikipedia.org/wiki/Category:鉄道と文化 "wikilink") [Category:蒸気機関車](https://ja.wikipedia.org/wiki/Category:蒸気機関車 "wikilink")
+
+1.  [宿泊イベントの一例](http://tpo.co.jp/22.html)
+2.  [ホテルSL公式サイト『SL D51に乗ろう\!\!』](https://web.archive.org/web/20161029213857/http://www.denenplaza.co.jp:80/hotel_sl/sl_d51/station.html)（2017年1月22日に[アーカイブされたページ](../Page/インターネットアーカイブ.md "wikilink")）
+3.  [ホテルSL公式サイト『SL D51　運行終了のお知らせ』](https://web.archive.org/web/20161205120404/https://www.denenplaza.co.jp/hotel_sl/news/20161203.html)（2017年1月22日にアーカイブされたページ）
+4.
+5.  C56 96の展示場所に建立された「経歴」「由来」の説明板による。
+6.

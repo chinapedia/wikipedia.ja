@@ -1,0 +1,81 @@
+> この記事は[LocalSTAR ](https://ja.wikipedia.org/wiki/LocalSTAR_)から翻訳されています。
+
+
+**Local★STAR ひらめっ娘学園**（**ローカルスターひらめっこがくえん**）は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")（全45回）まで[TSS（テレビ新広島）で放送されていた](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")[ローカル](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
+
+前番組『[道楽のココロ](https://ja.wikipedia.org/wiki/道楽のココロ "wikilink")』で好評だった「ひらめっ娘学園」（以下、ひらめ）を発展的にリニューアル。ひらめっ娘、クミコ◆軍団の組になって広島のあらゆる場所でロケして体を張って企画をやる番組であった。しかし、クミコ軍団のメンバーが途中降板したことや初代ひらめっ娘ほどの勢いが見られずに迷走したのか、2007年3月16日で番組が打ち切りになり、前代で2年続いたのに比べ、2代目はたった1年で終了してしまった。
+
+2007年4月13日からの後番組は[バーゲル・ルミ](https://ja.wikipedia.org/wiki/バーゲル・ルミ "wikilink")（[TSS](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）と[石橋竜史](../Page/石橋竜史.md "wikilink")（[ローカルタレント](https://ja.wikipedia.org/wiki/ローカルタレント "wikilink")）が司会を務める「[夜型人間](../Page/夜型人間.md "wikilink")」をローカル深夜番組として続く。これにより2003年から続いていた『[道楽のココロ](https://ja.wikipedia.org/wiki/道楽のココロ "wikilink")』時代からの「ひらめ」の3年間の歴史に幕を閉じた。
+
+## 出演者
+
+  - 角先生（[大松しんじ](../Page/大松しんじ.md "wikilink")）
+  - ひらめっ娘（[角島奈知](https://ja.wikipedia.org/wiki/角島奈知 "wikilink")・[石田優佳](https://ja.wikipedia.org/wiki/石田優佳 "wikilink")・[内田好美](https://ja.wikipedia.org/wiki/内田好美 "wikilink")・サクラ）
+  - クミコ軍団（[白井久美子](https://ja.wikipedia.org/wiki/白井久美子 "wikilink")・[熊本梨佳](https://ja.wikipedia.org/wiki/熊本梨佳 "wikilink")・わらし）
+
+## 番組概要
+
+前番組「[道楽のココロ](https://ja.wikipedia.org/wiki/道楽のココロ "wikilink")」の1コーナー『ひらめっ娘学園』をリニューアルした番組。広島のローカルスターを目指す学園としてロケーションを行っていく
+
+  - 放送：[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")〜[2007年](../Page/2007年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")、毎週金曜日25:05〜26:00（日付上、土曜日未明1:05〜2:00）
+  - 2007年4月13日からはオトナのトークバラエティー「[夜型人間](../Page/夜型人間.md "wikilink")」を放送している。出演者はローカルタレントの[石橋竜史](../Page/石橋竜史.md "wikilink")とTSSアナウンサーの[バーゲル・ルミ](https://ja.wikipedia.org/wiki/バーゲル・ルミ "wikilink")（2007年10月からは[ボールボーイもレギュラー](../Page/ボールボーイ_\(お笑いコンビ\).md "wikilink")）が務めている。
+
+## コーナー
+
+  - 「FOMAスター研究所」は不定期放送
+
+### FOMAスター研究所
+
+2006年4月21日放送分から開始。スター研究家のモヒー博士に扮した大松が[FOMA](../Page/FOMA.md "wikilink")（フォーマ）の[テレビ電話](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")を使って日本全国を繋ぎ、明日のスターを発掘するコーナー。主にグラビアアイドルにやらせることはセールスチェックとプロモーションタイム。後者に関してはモヒー博士が出すクイズに答えられれば[PRタイムがもらえ](https://ja.wikipedia.org/wiki/パブリック・リレーションズ "wikilink")、正解なら**30秒**、不正解なら**5秒**だけになる。ちなみにクイズの難易度は女性スターには易しいが男性スターには難しい傾向（ウケ狙いで不正解になっている可能性もある）にされている。2007年3月9日放送分で最終回を迎えた。
+
+### 映画の時間
+
+[道楽のココロ](https://ja.wikipedia.org/wiki/道楽のココロ "wikilink")の「道楽ムービー」を継承したコーナー（基本的に本編と本編の間に挿入）。広島県内で公開予定の映画が紹介される。
+
+### 音楽の時間
+
+「映画の時間」と同様。広島県内に来広予定のアーティストのコンサート情報が紹介される。
+
+### 学園メール
+
+[道楽のココロ](https://ja.wikipedia.org/wiki/道楽のココロ "wikilink")での「お便り・メールコーナー」にあたる、視聴者からの質問メールにひらめっ娘とクミコ軍団が答えるコーナー。番組開始から3週間はクミコ軍団が参加していなかったが4週目（[5月5日](../Page/5月5日.md "wikilink")放送分）から参加するようになった。
+しかし回を重ねるにつれて番組にあまりメールが来なくなったため「学園メール」をやらない週が増え、自然終了となった。2006年10月以降は「ソダテルアイドル」の企画に切り替えて視聴者からのメールの意見を番組に取り入れていくという体制に変わった。
+
+### コスプレお部屋案内 ヒラメホーム
+
+8月18日放送分から（10月20日からコスプレお部屋案内 ひらめホーム）。一人暮らしを夢見る芸人のためにひらめっ娘（以下、娘）がコスプレをして[シティホーム](https://ja.wikipedia.org/wiki/シティホーム "wikilink")の家を案内するコーナー。コーナー担当は[前番組コーナーの](https://ja.wikipedia.org/wiki/道楽のココロ "wikilink")「家賃当てコスプレルーレット」と同様コスケン先生（大松）が担当。\#1\~2までは判定は芸人によって決められ、勝者の娘には賞金が贈呈される（○はその週の勝者）ルールだったが、\#3からは部屋案内のみの紹介に変更されている。
+
+### ローカル★スター道場
+
+角先生が出されたお題に即席で応えるコーナー。記念すべき第1回目は「いきなり一芸マスター」で、カードを1枚引いてそこに書かれてある芸にチャレンジするというものだった
+
+### ローカル★スターバトル
+
+ひらめっ娘とクミコ軍団で出されたお題に挑戦し、負けたチームには罰ゲームがある
+
+### お助け戦隊ヒラメンジャー
+
+第1期卒業者のまんみつが**ヒラメンジャー**として世のため人のために解決するコーナー。内容や場面によってはカメラ撮影担当の**ミドレンジャー**（多分ADの中村和恵）もいる。「FOMAスター研究所」と隔週で5回放送された。
+
+## 主な企画
+
+### 抜き打ちテスト
+
+[めちゃイケ](https://ja.wikipedia.org/wiki/めちゃイケ "wikilink")の[抜き打ちテストと同様に中学卒業までの内容で行った](https://ja.wikipedia.org/wiki/抜き打ちテスト_\(めちゃ×2イケてるッ!\) "wikilink")。2006年5月19日放送
+
+  -
+    収録時間の関係上、テスト採点は珍解答のみを紹介した。（本家と異なり採点・順位発表は後日収録）
+    デジ女王はサクラで[松阪牛](https://ja.wikipedia.org/wiki/松阪牛 "wikilink")ステーキが贈呈された。2位のナチ（角島奈知）が2代目学級委員長になった。
+    ヤマンバ（熊本梨佳）がクミコ様（白井久美子）をさしおえて最下位になりバカ女王の称号が付いた。
+    7人中3位以下が1科目30点以下を記録した。6位2科目、最下位4科目と本家を上回った。
+    2004年の[27時間テレビでTSSを代表して寺田治司Pが本家の](../Page/FNS27時間テレビ_\(2004年\).md "wikilink")[第5回を受験していた](https://ja.wikipedia.org/wiki/抜き打ちテスト_\(めちゃ×2イケてるッ!\)#FNS全国一斉期末テスト（第5回） "wikilink")。
+
+## スタッフ
+
+  - 演出：南典秀（2006年4月14日〜9月22日）→[関口寛之](https://ja.wikipedia.org/wiki/関口寛之 "wikilink")（2006年10月6日〜11月10日、）、[中山賢二](https://ja.wikipedia.org/wiki/中山賢二 "wikilink")（大蔵笑（2006年10月27日〜））
+  - ナレーション：[金田祐幸](https://ja.wikipedia.org/wiki/金田祐幸 "wikilink")([TSS](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink"))
+  - ディレクター：[中山賢二](https://ja.wikipedia.org/wiki/中山賢二 "wikilink")（大蔵笑）、槇原靖（2006年4月14日〜8月25日）、[関口寛之](https://ja.wikipedia.org/wiki/関口寛之 "wikilink")（2006年9月1日〜）
+  - プロデューサー：横井利行（2006年4月14日〜6月30日）→[満田直美](https://ja.wikipedia.org/wiki/満田直美 "wikilink")（2006年7月7日〜）、[南典秀](https://ja.wikipedia.org/wiki/南典秀 "wikilink")（2006年10月6日〜）
+  - 制作：[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")
+
+[Category:テレビ新広島番組](https://ja.wikipedia.org/wiki/Category:テレビ新広島番組 "wikilink") [Category:中国・四国地方の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方の深夜テレビ番組 "wikilink") [Category:中国・四国地方のバラエティ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のバラエティ番組 "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink")

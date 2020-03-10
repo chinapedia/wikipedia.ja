@@ -1,0 +1,34 @@
+> この記事は[SBC](https://ja.wikipedia.org/wiki/SBC)から翻訳されています。
+
+
+『**SBCニュースウィークリー**』（エスビーシー ニュースウィークリー）は、[1999年](../Page/1999年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")まで[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBCテレビ）で毎週日曜日 9:54 - 10:50 （一時期は10:40まで）に放送されていた[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")の[報道番組](../Page/報道番組.md "wikilink")である。
+
+## 概要
+
+[長野県](../Page/長野県.md "wikilink")内の1週間のニュースをダイジェストで伝えていた番組で、仕事などで平日夕方のローカルニュース『[SBCニュースワイド](https://ja.wikipedia.org/wiki/SBCニュースワイド "wikilink")』を見られない[視聴者](https://ja.wikipedia.org/wiki/視聴者 "wikilink")を対象にしていた。その中でも特に注目度の高いニュースについては特集で取り上げ、毎回特集に因んだテーマで視聴者からのメッセージを受付・紹介していた。ニュースダイジェストVTRの放送中には、[手話](../Page/手話.md "wikilink")放送を実施するなど良心的な番組作りも行っており、故に県内のニュースを知る上で県民に重宝がられた番組であった。キャスターには、元SBC社員で、報道部記者を経てSBCラジオの番組制作に携わっていた経歴を持つ[武田徹を起用](https://ja.wikipedia.org/wiki/武田徹_\(ラジオパーソナリティ\) "wikilink")。武田がテレビ番組の[ニュースキャスター](../Page/ニュースキャスター.md "wikilink")を務めるのはこれが初だった。また、在長民放局がこのような生の報道番組をレギュラー放送するのはこれが初だった。
+
+放送開始当初は[視聴率](../Page/視聴率.md "wikilink")で苦戦が続いていた。ところが、2000年10月の長野県[知事](../Page/都道府県知事.md "wikilink")[選挙](../Page/選挙.md "wikilink")にて、下馬評では県職員出身の当時副知事が圧倒的有利とされ、無風で終わるかと思われた選挙で、当時少数ながら県内の著名な経済人・文化人などが[作家](../Page/作家.md "wikilink")であり、テレビ・ラジオの[コメンテーター](../Page/コメンテーター.md "wikilink")なども務めて認知度の高い[田中康夫](../Page/田中康夫.md "wikilink")を擁立したことで選挙戦の構図を一変させ、当時ほとんどの[マスメディア](../Page/マスメディア.md "wikilink")が中央で活躍する[無党派](https://ja.wikipedia.org/wiki/無党派 "wikilink")・[改革派](https://ja.wikipedia.org/wiki/改革派 "wikilink")の田中 VS 戦後長期に渡り役人が県庁を支配し、また県議会との馴れ合い体質の色濃い[守旧派](https://ja.wikipedia.org/wiki/守旧派 "wikilink")候補の[一騎討ち](../Page/一騎討ち.md "wikilink")の論調での取り上げ方をしたことで、急激に県民の県政への関心が高まった。その後は田中が当選したこともあり、田中の言動や守旧派のレッテルの貼られた県議会とのやり取りなどに注目が集まり、それらと比例して番組の視聴率も安定してきた。
+
+しかしその後、2002年県議会からの不信任に伴う出直し県知事選で田中が再選されて以降、[住民票](../Page/住民票.md "wikilink")移転問題や[新党日本](https://ja.wikipedia.org/wiki/新党日本 "wikilink")代表就任・選挙応援など、田中の県政と無関係なところでの言動が目立つようになり、嫌気がさした県民が増加したことで田中ブームが終息。有権者の支持率が下落するのと比例するように番組の視聴率も低迷した。
+
+さらに、SBCが番組ネットを拒み続けてきた[TBS](../Page/TBSテレビ.md "wikilink")『[サンデージャポン](https://ja.wikipedia.org/wiki/サンデージャポン "wikilink")』が好調で、SBCはネット局が拡大している現実を受け止め、番組枠を『サンデージャポン』に譲る形で番組を終了させた。最終回で武田が発したラストコールは「1週置いて4月2日からサンデージャポンがスタートします。7年間どうもありがとうございました」だった。
+
+## 出演者
+
+### キャスター
+
+  - [武田徹](https://ja.wikipedia.org/wiki/武田徹_\(ラジオパーソナリティ\) "wikilink")（ラジオパーソナリティ、1999年4月 - 2006年3月）
+  - [中澤佳子](https://ja.wikipedia.org/wiki/中澤佳子 "wikilink")（SBCアナウンサー、1999年4月 - 2001年3月）
+  - [久保田祥江](https://ja.wikipedia.org/wiki/久保田祥江 "wikilink")（当時SBCアナウンサー、2001年4月 - 2006年3月）
+
+### コメンテーター
+
+  - [小林照幸](https://ja.wikipedia.org/wiki/小林照幸 "wikilink")（ノンフィクション作家、レギュラー出演）
+  - ほか、長野県に縁のある人物が毎週2 - 3名コメンテーターとして出演していた。
+  - 信州大学教授の又坂常人、都築勉など
+
+## 備考
+
+2000年4月から2003年3月までは、番組の終了直後に10分間の[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")『Click On TV』が放送され、さらに11時からも『[テレビ県民室](../Page/テレビ県民室_\(信越放送\).md "wikilink")』が放送されていたことから、ほぼ1時間半にわたって自社製作枠になっていた。
+
+[Category:1999年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のテレビ番組_\(日本\) "wikilink") [Category:信越放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:信越放送のテレビ番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組の歴史 "wikilink")

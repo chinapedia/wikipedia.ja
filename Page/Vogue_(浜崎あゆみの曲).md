@@ -1,0 +1,71 @@
+> この記事は[Vogue \(\)](https://ja.wikipedia.org/wiki/Vogue_\(\))から翻訳されています。
+
+
+「**vogue**」（ヴォーグ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の14th[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2000年[8月10日](../Page/8月10日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
+
+## 解説
+
+シングルとしては前作「[Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink")」より、約2ヶ月半振りのシングル。[オリコン週間シングルチャートでは最高](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3位ながら、累計76.8万枚を売り上げるヒットとなった\[2\]。
+
+本作は、次作「[Far away](https://ja.wikipedia.org/wiki/Far_away_\(浜崎あゆみの曲\) "wikilink")」、次々作「[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")」とともに、「絶望3部作」と呼ばれたシングル3部作の1作目にあたり\[3\]、[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")も3作品で繋がっている。
+
+カップリングの「ever free」は、本作付属の歌詞カードには歌詞が掲載されていない（ライブDVD『[ayumi hamasaki concert tour 2000 A 第2幕](https://ja.wikipedia.org/wiki/ayumi_hamasaki_concert_tour_2000_A_第2幕 "wikilink")』には掲載されている）。
+
+2000年[7月12日](../Page/7月12日.md "wikilink")には、3部作のミュージック・ビデオ等を収めた「[Vogue Far away SEASONS](https://ja.wikipedia.org/wiki/Vogue_Far_away_SEASONS "wikilink")」が発売された。
+
+## 収録曲
+
+### CD
+
+全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki
+
+1.  **vogue "Original Mix"**
+      -
+        [作曲](../Page/作曲.md "wikilink")：[Kazuhito Kikuchi](https://ja.wikipedia.org/wiki/菊池一仁 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[Naoto Suzuki](https://ja.wikipedia.org/wiki/鈴木直人_\(音楽プロデューサー\) "wikilink")、Kazuhito Kikuchi
+        [コーセー](../Page/コーセー.md "wikilink")「VISEE（ヴィセ）」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+2.  **vogue "[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")'s MIX 2000"**
+3.  **[too late](../Page/A_\(シングル\).md "wikilink") "Soul Solution Remix -Extended Vox-"**
+      -
+        [本田技研工業](../Page/本田技研工業.md "wikilink")「[ジョルノクレア](../Page/ホンダ・ジョルノクレア.md "wikilink")」CMソング
+4.  **vogue "Dub's mellowtech Remix"**
+5.  **vogue "Groove That Soul Mix"**
+6.  **vogue "400BPM Fatback Mix"**
+7.  **[WHATEVER](../Page/WHATEVER_\(浜崎あゆみの曲\).md "wikilink") "FPM's WINTER BOSSA"**
+8.  **vogue "pandart sasanoooha Mix"**
+9.  **vogue "Original Mix -Instrumental-"**
+10. **ever free**
+      -
+        作曲：[D・A・I](https://ja.wikipedia.org/wiki/長尾大 "wikilink") / 編曲：Naoto Suzuki
+        [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[天気予報の恋人](../Page/天気予報の恋人.md "wikilink")』[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")
+
+### DVD-Audio/アナログ盤
+
+1.  **vogue "Dub's mellowtech Remix"**
+2.  **vogue "Original Mix"**
+3.  '''vogue "Groove That Soul Mix" '''
+
+## 収録アルバム
+
+  - **vogue**
+      - 『[Duty](../Page/Duty.md "wikilink")』
+      - 『[A BEST](../Page/A_BEST.md "wikilink")』
+      - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』
+
+<!-- end list -->
+
+  - **ever free**
+      - 『[A THEME SONGS -Drama edition-](https://ja.wikipedia.org/wiki/A_THEME_SONGS_-Drama_edition- "wikilink")』（配信限定）\[4\]
+      - 『[RAINY SEASON SELECTION](https://ja.wikipedia.org/wiki/RAINY_SEASON_SELECTION "wikilink")』
+
+## 脚注
+
+## 外部リンク
+
+  - [DISCOGRAPHY – ayumi hamasaki](http://avex.jp/ayu/discography/detail.php?id=1003314)
+
+[Category:浜崎あゆみの楽曲](https://ja.wikipedia.org/wiki/Category:浜崎あゆみの楽曲 "wikilink") [Category:花を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:花を題材とした楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:菊池一仁が制作した楽曲](https://ja.wikipedia.org/wiki/Category:菊池一仁が制作した楽曲 "wikilink") [Category:コーセーのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コーセーのコマーシャルソング "wikilink") [Category:嬰ヘ短調](https://ja.wikipedia.org/wiki/Category:嬰ヘ短調 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
+
+1.  [アナログ盤](http://www.discogs.com/ja/Ayumi-Hamasaki-Vogue/release/5081901)のみ[Rhythm REPUBLICより発売](../Page/Rhythm_REPUBLIC.md "wikilink")。
+2.
+3.
+4.

@@ -1,0 +1,112 @@
+> この記事は[SCREEN](https://ja.wikipedia.org/wiki/SCREEN)から翻訳されています。
+
+
+**株式会社SCREENホールディングス**（）は、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")にある[半導体](../Page/半導体.md "wikilink")・[液晶](../Page/液晶.md "wikilink")製造装置・[印刷関連](https://ja.wikipedia.org/wiki/印刷関連 "wikilink")機器などの産業用機器を製造する企業グループの[持株会社](../Page/持株会社.md "wikilink")。[大輪会](https://ja.wikipedia.org/wiki/大輪会 "wikilink")の会員企業である\[1\]。
+
+京都府内に2カ所、滋賀県内に3カ所の工場がある。他に京都市[伏見区](../Page/伏見区.md "wikilink")に技術開発拠点「ホワイトカンバス洛西」、[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")に半導体製造装置の生産子会社、福島県に半導体製造装置の部品生産子会社、海外では中国・杭州に印刷関連機器の生産子会社を有する。国内8事業所、海外に23の現地法人がある。
+
+## 概要
+
+  - 創業
+
+[1868年](../Page/1868年.md "wikilink")（[明治元年](https://ja.wikipedia.org/wiki/明治元年 "wikilink")）、石田才次郎が京都に創業した石版美術印刷会社「石田旭山印刷所」が同社のルーツ。「旭山」とは、創業者才次郎の[雅号](https://ja.wikipedia.org/wiki/雅号 "wikilink")。
+
+銅版印刷、[石版印刷の時代を経て](https://ja.wikipedia.org/wiki/リトグラフ "wikilink")、写真画像の印刷に不可欠な「写真製版用ガラススクリーン」の国産化を目指し、同社内にガラススクリーン製造の研究部門を設置。 [1934年](../Page/1934年.md "wikilink")に、特許を取得し製造技術を確立し 事業化を目指して、[1937年](../Page/1937年.md "wikilink")に研究部門が独立して「大日本スクリーン製造所」が誕生した。
+
+[1943年](../Page/1943年.md "wikilink")に株式会社として再編し、「**大日本スクリーン製造株式会社**」がスタート。 社名の「スクリーン」は創業事業である「ガラススクリーン」に由来する。
+
+「思考展開」を理念にガラススクリーン事業から印刷製版機器の開発・製造を進め、世界有数の製版機器の総合メーカーへと発展。ガラススクリーンの製造技術である「[フォトリソグラフィー](https://ja.wikipedia.org/wiki/フォトリソグラフィー "wikilink")」を応用し、カラーテレビ用[シャドーマスク](https://ja.wikipedia.org/wiki/シャドーマスク "wikilink")や金属メッシュなどの電子産業用部品に進出。 その後、現在の主力事業である半導体製造装置、液晶製造装置など電子工業用機器へと事業を拡大。
+
+  - 現在
+
+半導体製造装置、液晶製造装置事業が業績の75％を占める。海外比率は2007年3月期で62％。半導体（IC, LSI等）を形成する金属製薄板（[シリコンウエハ](https://ja.wikipedia.org/wiki/シリコンウェハー "wikilink")：現在の主流は直径300ミリ）の洗浄装置や、液晶テレビ、パソコンの[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")製造用の大型ガラス基板対応装置、また印刷版出力装置（CTP）では世界トップシェアを持つ。
+
+現会長の石田明は前身の「石田旭山印刷所」の創業者から4代目にあたる。1989年6月に社長就任、2001年に会長兼務、2005年6月に会長専任。2006年10月、日経BP企画より初の著作『脱本業・拡本業へのイノベーション』を出版。
+
+2003年4月に「中期3カ年経営計画」を発表、業績目標を達成し、2006年4月より次の「中期3カ年経営計画」がスタートしている。2006年6月、社外取締役に[オムロン](https://ja.wikipedia.org/wiki/オムロン "wikilink")会長・立石義雄が就任。
+
+産業用機器メーカーではあるが、印刷関連分野で[ヒラギノ](https://ja.wikipedia.org/wiki/ヒラギノ "wikilink")をはじめとした各種[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")文字[フォント](../Page/フォント.md "wikilink")を開発、販売。ヒラギノは[写研](../Page/写研.md "wikilink")の流れを汲む[字游工房](https://ja.wikipedia.org/wiki/字游工房 "wikilink")制作のオリジナルフォントで、テレビ放送での文字テロップや各種書籍・雑誌の見出しによく使われるほか、[アップルが積極的に採用していることでも知られる](../Page/アップル_\(企業\).md "wikilink")。[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")から[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")のシステム標準フォントとして採用され、同社[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")など[iOS機器の画面表示用フォントにも使用されている](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")。
+
+事務用大型複写機として開発した超大型フラットベッド[スキャナ](https://ja.wikipedia.org/wiki/スキャナ "wikilink")AZEROオリジネータが人間コピー機として人気を博し、2003年には「直立型大型スキャナー」を開発、人間をコピーするだけでなく、京都府神社庁、京都国際文化交流財団が進める神社仏閣に保存される歴史的文化財の[デジタルアーカイブ](https://ja.wikipedia.org/wiki/デジタルアーカイブ "wikilink")事業に協力。このほか[東本願寺](../Page/東本願寺.md "wikilink")で行われている御影堂屋根瓦の修復作業において、葺き替える屋根瓦に寄進者の名前を印刷するインクジェット印刷機を開発し、東本願寺の境内に印刷ブースを設けて作業を実施中。「[京都サンガF.C.](../Page/京都サンガF.C..md "wikilink")」のオフィシャルスポンサーでもある。
+
+2014年、持株会社体制移行に伴い、商号を**株式会社SCREENホールディングス**に変更した。
+
+## 沿革
+
+  - [1868年](../Page/1868年.md "wikilink") 石田旭山印刷所（大日本スクリーン製造の前身）創業。
+  - [1918年](../Page/1918年.md "wikilink") 石田式フィルム版の特許を取得。
+  - [1934年](../Page/1934年.md "wikilink") 写真製版用ガラススクリーンの国産化に成功。
+  - [1943年](../Page/1943年.md "wikilink") 石田旭山印刷所のガラススクリーン研究部門が独立、**大日本スクリーン製造株式会社**設立、社長に石田敬三就任。
+  - [1962年](../Page/1962年.md "wikilink") [大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")2部、[京都証券取引所](../Page/京都証券取引所.md "wikilink")上場。（京証は大証を経て現在東証に統合）
+  - [1966年](../Page/1966年.md "wikilink") 電子工業用超精密縮小カメラ「アンバサダー C-59」を開発。
+  - [1967年](../Page/1967年.md "wikilink") [東京証券取引所](../Page/東京証券取引所.md "wikilink")2部上場。
+  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") [名古屋証券取引所](../Page/名古屋証券取引所.md "wikilink")2部上場。
+  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink") 東京、大阪、名古屋証券取引所各1部指定替え。（名証は現在上場廃止）
+  - [1981年](../Page/1981年.md "wikilink") 国産初の画像処理システム「シグマグラフ2000」を開発。
+  - [1992年](../Page/1992年.md "wikilink") 滋賀県に野洲工場を新設、半導体製造装置の生産力を強化。
+  - [1993年](../Page/1993年.md "wikilink") 印刷製版用統合システム「レナトス」を開発。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") ダイレクト印刷版出力装置（CTP）「プレートライト1080」を開発。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") 半導体生産用直径300ミリウエハ対応半導体製造装置「FC-3000」を発表。
+  - 1998年 国産初のデジタル印刷システム「トゥループレス544」を開発。
+  - 1998年 滋賀県多賀に微細化と大口径化に対応した次世代の半導体製造装置生産拠点を構築。
+  - [1999年](../Page/1999年.md "wikilink") ガラス基板サイズ第4世代対応液晶ディスプレー製造装置を開発
+  - [2000年](../Page/2000年.md "wikilink") 300ミリウエハ対応の枚葉洗浄装置「MP-3000」開発。
+  - [2001年](../Page/2001年.md "wikilink") CTPサーマルタイプ「プレートライト8600」発表。
+  - 2001年 ガラス基板サイズ第5世代対応液晶ディスプレー製造装置を発表。
+  - [2002年](../Page/2002年.md "wikilink") [社内カンパニー](https://ja.wikipedia.org/wiki/社内カンパニー "wikilink")制導入。
+  - [2003年](../Page/2003年.md "wikilink") [アップルコンピュータ](../Page/アップル_\(企業\).md "wikilink")、[アドビシステムズ](../Page/アドビシステムズ.md "wikilink")、[モリサワ](../Page/モリサワ.md "wikilink")と共同で[Mac OS Xによる次世代](https://ja.wikipedia.org/wiki/macOS "wikilink")[DTP](../Page/DTP.md "wikilink")を推進するプロジェクトを発足。
+  - 2003年 ガラス基板サイズ第6世代対応液晶ディスプレー製造装置発表
+  - [2004年](../Page/2004年.md "wikilink") 新世代デジタル印刷システム「トゥループレス344」開発。
+  - 2004年 ガラス基板サイズ第7世代対応液晶ディスプレー製造装置発表
+  - 2004年 [上海交通大学](https://ja.wikipedia.org/wiki/上海交通大学 "wikilink")、[立命館大学](https://ja.wikipedia.org/wiki/立命館大学 "wikilink")との3者間で「研究包括協定」締結。
+  - 2004年 文化財の電子保存事業に協力。（直立型大型スキャナーで京都府神社庁デジタルアーカイブ実行プロジェクトをサポート）
+  - 2004年 真宗大谷派（東本願寺）から瓦印刷事業業務を受託。
+  - 2004年　中国・杭州に印刷関連機器生産工場を建設、操業開始。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") 世界最大のインクジェットプリンターメーカー、英国インカ･デジタル・プリンターズ社を買収。
+  - 2005年 300ミリウエハ対応半導体製造装置「FC-3100」発表。
+  - 2005年 代表取締役社長に橋本正博が就任、石田明は代表取締役会長専任
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") グループ最大の研究開発拠点「ホワイトカンバス洛西」を開設。女性社員が中心となって内装デザインを行い、日経オフィス大賞奨励賞を受賞。
+  - 2006年 半導体機器事業の一部を分社化、米国アプライドマテリアルズ社とジョイントベンチャー「SOKUDO」を設立。
+  - 2006年 滋賀県彦根事業所に第2の300ミリウエハ対応半導体製造装置生産工場、第8世代対応液晶ディスプレー製造装置の生産工場を建設。
+  - [2007年](../Page/2007年.md "wikilink") BRICS向け印刷版出力装置を開発。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 彦根事業所内に半導体製造プロセスの研究センターとして「プロセス技術センター」開設。
+  - 2008年 3月15日 彦根事業所敷地内に[近江鉄道](../Page/近江鉄道.md "wikilink")[多賀線](https://ja.wikipedia.org/wiki/多賀線 "wikilink")[スクリーン駅](https://ja.wikipedia.org/wiki/スクリーン駅 "wikilink")を新設。
+  - [2009年](../Page/2009年.md "wikilink") 株式会社SOKUDO（現・株式会社SCREENセミコンダクターソリューションズ）を子会社化する。
+  - [2011年](../Page/2011年.md "wikilink") 東京都江東区に「ホワイトカンバス MON-NAKA」を開設。
+  - [2014年](../Page/2014年.md "wikilink") 持株会社体制に移行。
+
+### 持株会社体制
+
+[2014年](../Page/2014年.md "wikilink")10月1日付で**株式会社SCREENホールディングス**に商号変更し、半導体機器事業を株式会社SCREENセミコンダクターソリューションズ（株式会社SOKUDOを商号変更）へ会社分割により承継。11月1日付で計測機器事業を株式会社SCREENセミコンダクターソリューションズへ、印刷関連機器およびプリント基板関連機器事業を株式会社SCREENグラフィックアンドプレシジョンソリューションズへ、FPD機器事業およびその他装置関連事業を株式会社SCREENファインテックソリューションズへ、製造支援および製造請負業務を株式会社SCREENマニュファクチャリングサポートソリューションズへ、シェアードサービス業務を株式会社SCREENビジネスサポートソリューションズへ、それぞれ会社分割により承継\[2\]\[3\]\[4\]。
+
+[2016年](../Page/2016年.md "wikilink")10月1日付で知的財産管理業務を株式会社SCREEN IP ソリューションズへ会社分割により承継\[5\]。
+
+[2017年](../Page/2017年.md "wikilink")4月1日付で株式会社SCREENグラフィックアンドプレシジョンソリューションズを株式会社SCREENグラフィックソリューションズに商号変更し印刷関連機器事業に特化。プリント基板関連機器事業を株式会社SCREEN PE ソリューションズへ会社分割により承継\[6\]。
+
+## グループ企業
+
+## 関連会社
+
+  - [マイザ株式会社](http://www.mixa.jp/)（2017年7月1日付で[ソースネクスト](https://ja.wikipedia.org/wiki/ソースネクスト "wikilink")株式会社に吸収合併された。）
+  - 現在、関連会社に位置づけられていないが、[株式会社写真化学](http://www.shashin-kagaku.co.jp/)は、当社を分離する前の石田旭山印刷を発祥としており、当社同様、石田家が経営に関わっている。
+
+## 脚注・出典
+
+## 関連項目
+
+  - [スクリーン駅](https://ja.wikipedia.org/wiki/スクリーン駅 "wikilink")
+
+## 外部リンク
+
+  - [SCREENホールディングス](https://www.screen.co.jp/)
+  - [字游工房](http://www.jiyu-kobo.co.jp/)
+  - [京都デジタルアーカイブ事業](http://www.archives.astem.or.jp/)
+
+[Category:日本の電気機器メーカー](https://ja.wikipedia.org/wiki/Category:日本の電気機器メーカー "wikilink") [Category:半導体装置メーカー](https://ja.wikipedia.org/wiki/Category:半導体装置メーカー "wikilink") [Category:上京区の企業](https://ja.wikipedia.org/wiki/Category:上京区の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:1962年上場の企業](https://ja.wikipedia.org/wiki/Category:1962年上場の企業 "wikilink") [Category:日経平均株価](https://ja.wikipedia.org/wiki/Category:日経平均株価 "wikilink") [Category:大輪会](https://ja.wikipedia.org/wiki/Category:大輪会 "wikilink") [Category:1943年設立の企業](https://ja.wikipedia.org/wiki/Category:1943年設立の企業 "wikilink")
+
+1.  [大輪会（だいりんかい）とは](http://izumisano-kyuryo.jp/dairinkai/) - [泉佐野丘陵緑地公式サイト](http://izumisano-kyuryo.jp/)内のページ。
+2.  [持株会社体制への移行に伴う準備会社の設立と吸収分割契約の締結および定款変更（商号および事業目的の変更）に関するお知らせ](http://www.screen.co.jp/ir/news/pdf/2014_NOR_ChangeHCS_J.pdf)
+3.  [持株会社体制への移行に伴う分割承継会社の商号変更等に関するお知らせ](http://www.screen.co.jp/ir/news/pdf/140805_ChangesTN_J2.pdf)
+4.  [持株会社体制への移行に伴う吸収分割の効力発生日変更に関するお知らせ](http://www.screen.co.jp/ir/news/pdf/140926_ChangeED_J.pdf)
+5.  [知的財産管理の専門子会社を発足](http://www.screen.co.jp/press/NR160826-7.html)
+6.  [グループ会社における会社分割に伴う準備会社の設立について](http://www.screen.co.jp/press/NR161028.html)

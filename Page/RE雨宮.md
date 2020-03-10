@@ -1,0 +1,121 @@
+> この記事は[RE](https://ja.wikipedia.org/wiki/RE)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:RE_AMEMIYA_RX-7_01.jpg "wikilink")(GT300) RE雨宮レーシング RX-7\]\] **有限会社RE雨宮自動車**（アールイーあめみやじどうしゃ）は、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[富里市](https://ja.wikipedia.org/wiki/富里市 "wikilink")にある、[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")を得意とする日本の[チューニングショップである](https://ja.wikipedia.org/wiki/チューニングカー "wikilink")。代表は雨宮勇美（あめみや いさみ、[1946年](../Page/1946年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink") - ）血液型A型。
+
+## 概要
+
+主に[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")車向けにパーツの製造、販売を行っており、[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")（旧・[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")）GT300クラスや[D1グランプリにも参戦するなど](https://ja.wikipedia.org/wiki/全日本プロドリフト選手権 "wikilink")、レース実績も多い。 ロータリーエンジンを得意とする理由について、代表の雨宮は「それしか分からないから」と発言している\[1\]。また、雨宮はビデオ出演や著書などで、かつては警察の[検問](../Page/検問.md "wikilink")を突破したり、高速道路を時速300キロ前後で走行した経験を公言している。また自分の事を「暴走族」と称している。
+
+## チューニングショップとしての活動
+
+古くは[シャンテや](https://ja.wikipedia.org/wiki/マツダ・シャンテ "wikilink")[ファミリアなどの車体に](../Page/マツダ・ファミリア.md "wikilink")[12Aや](https://ja.wikipedia.org/wiki/マツダ・12A型エンジン "wikilink")[13Bの](https://ja.wikipedia.org/wiki/マツダ・13B型エンジン "wikilink")[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")を移植した車輌を製作するなど、法律的に改造車が今ほど認められていない時期から活動しており、最古参の部類に入るショップである。しかし、改造車検にいち早く取り組んだショップの1つでもあり、自社コンプリート車両の「Greddy」シリーズは、ほとんどの車を車検に通すことに成功している\[2\]。
+
+車両の外装カスタマイズ技術には実績があり、
+
+  - GReddy III：FC3S RX-7をワイドボディ、[ガルウイング化する](../Page/ガルウィングドア.md "wikilink")
+  - GReddy VI：[AZ-1をキャビンだけ残し](../Page/マツダ・オートザムAZ-1.md "wikilink")、前後を[パイプフレーム化する](https://ja.wikipedia.org/wiki/フレーム形式_\(自動車\)#マルチチューブラーフレーム "wikilink")
+  - GReddy VII：FC3S RX-7を4WD化する
+  - GReddy VIII：FD3S RX-7をオープンカーにする
+  - BOMEX RE TODAY :[トゥデイに](https://ja.wikipedia.org/wiki/ホンダ・トゥデイ "wikilink")12Aエンジンを搭載し、ガルウィング化[1](http://www.re-amemiya.co.jp/retuden/swaping/d_today_book.html)
+
+などの一見、奇抜なデモカーも多く生み出している。 「Greddy」シリーズ以外では、[マツダ・RX-8](../Page/マツダ・RX-8.md "wikilink")をベースに、漫画家の[大暮維人](../Page/大暮維人.md "wikilink")がデザインを担当したOh\!Gre8という名のデモカーも製作した。
+
+レース活動以外の[チューニングカー](https://ja.wikipedia.org/wiki/チューニングカー "wikilink")としての走行実績においては、現時点において、[ビデオオプション](../Page/ビデオオプション.md "wikilink")企画、筑波スーパーラップの
+
+  - [FR車最速記録](https://ja.wikipedia.org/wiki/後輪駆動 "wikilink")/Super G-7
+  - [ブーストアップ](https://ja.wikipedia.org/wiki/ブーストアップ "wikilink")車最速記録/過給圧上昇7
+  - [NA車最速記録](https://ja.wikipedia.org/wiki/自然吸気 "wikilink")/3ローター7
+
+の3つのレコードを保持している。
+
+## レース活動
+
+### SUPER GT GT300クラス
+
+マツダからは、部品供給を含めて公式なサポートは受けておらず、プライベートチームである。そのためレースで使用するエンジンを[解体屋](https://ja.wikipedia.org/wiki/解体屋 "wikilink")から調達するなど、他のチームではあまり見られない苦労も多かったという\[3\]\[4\]。単にハイパワーをめざすだけでなく、ボディー補強やサスペンションのチューンアップなど操縦性が良好でバランスが良く安定した戦闘力を持つ車両を作ることで知られている。
+
+[1996年](../Page/1996年.md "wikilink")までは、2ローターの13Bエンジン（マツダ・RX-7などに搭載）を搭載していた。13Bペリポートの自然吸気エンジンで、実質的には[ジャパン・スーパースポーツ・セダンレース](https://ja.wikipedia.org/wiki/ジャパン・スーパースポーツ・セダンレース "wikilink")（JSS）などで使用されていたエンジンと同形式であり、[リストリクター](../Page/リストリクター.md "wikilink")の装着は免除されてはいたが、馬力も300馬力程度でトルクも細く、以後の大幅な出力向上も見込めないことから、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")からは3ローターの20Bエンジン（[ユーノス・コスモに搭載](../Page/マツダ・コスモ.md "wikilink")）に変更された。さらに[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には[マツモトキヨシ](../Page/マツモトキヨシ.md "wikilink")がメインスポンサーになると、ボディーのカラーリングが青とピンクから黄色一色に変更された\[5\]。なお、過酷な状況で知られる[セパンサーキット](https://ja.wikipedia.org/wiki/セパンサーキット "wikilink")（[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")）でのレースは、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")までに出場した9戦中5勝（うちシリーズでは4勝、オールスター1勝）という結果を残しており、「セパンマイスター」の異名を持つ。
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には、チームチャンピオンを獲得し、ドライバーの[山野哲也](../Page/山野哲也.md "wikilink")、[井入宏之](https://ja.wikipedia.org/wiki/井入宏之 "wikilink")がドライバーチャンピオンを獲得した。
+
+[2007年](../Page/2007年.md "wikilink")は、田辺製薬の合併により、メインスポンサーを喪失した。この影響で極度の資金不足に陥り、マシンもほぼ2006年の使い回しとなり、非常に苦しい戦いを強いられ、総合ランキング14位と過去最低の成績で終えた。尚、ドライバーの交代があった[山野に代わり](../Page/山野哲也.md "wikilink")[折目遼](https://ja.wikipedia.org/wiki/折目遼 "wikilink")が新たに加わった。以後、最後までドライバーを務める。
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")は、メインスポンサーに[小倉クラッチ](https://ja.wikipedia.org/wiki/小倉クラッチ "wikilink")を迎え、ドライバーも2007年と同じ布陣で挑むことが早い段階で決定した。スポンサー関係により、これまで黄色を基調としたカラーリングから、シルバーのカラーリングになった。なお、マシンは新規定でセダンボディに対しかなりの優遇措置が受けられることと、エンジン搭載位置がミッドシップにすることが可能になったため、新たにRX-8の投入も噂されていたが、そのまま従来のFD型で参戦した。なお、開幕戦鈴鹿は2位スタートから終盤、トップ走行の[紫電と接戦の末](../Page/ムーンクラフト・紫電.md "wikilink")、優勝を果たした。最終的に2008年シリーズは総合ランキング7位の成績。
+
+[2009年](../Page/2009年.md "wikilink")は、マレーシアの自動車販売店であるMUTIARA MOTORSがメインスポンサーにつき、車体カラーもシルバーから白地に緑の昇り竜を入れたスタイルとなった。ドライバーは井入に変わり、[谷口信輝](https://ja.wikipedia.org/wiki/谷口信輝 "wikilink")が復帰した。これら体制的に恵まれたことで、開幕から4戦連続表彰台に上がりポイントリーダーになるが、中盤やや失速し、第7戦富士では決勝前フリー走行におけるエンジントラブルで決勝を走れずレースを終えた。第8戦オートポリスで2位になり、7ポイント差で最終戦のチャンピオン争いに残るものの、決勝フリー走行でまたエンジントラブルが発生。懸命な作業でエンジンを乗せ換え本戦に出走するも2位で終わり、最終的にシリーズ総合クラス2位の成績となる。この年、RE雨宮レーシングは燃費が劣るがコーナリング特性に優れタイヤの負担が軽いRX-7の特質を活かしたタイヤ無交換という作戦を何度か実行し、以降は他のチームでもこの作戦が試されている。
+
+2010年も昨年とほぼ同様の体制で出走。開幕戦鈴鹿、第4戦セパンで優勝し、昨年同様最終戦までチャンピオン争いに絡み続けたが、シリーズ総合クラス3位でシーズンを終えた。しかし、[2011年](../Page/2011年.md "wikilink")2月13日に撤退を発表し\[6\]、スーパーGTでのレース活動を終了した。
+
+  - 1995年 - シリーズ総合クラス第2位（2ローター13B）
+  - 1996年 - シリーズ総合クラス第4位（2ローター13B）
+  - 1997年 - シリーズ総合クラス第4位（3ローター・20BRE）
+  - 1998年 - シリーズ総合クラス第4位（3ローター・20BRE）
+  - 1999年 - シリーズ総合クラス第4位（3ローター・20BRE）
+  - 2000年 - シリーズ総合クラス第4位（3ローター・20BRE）
+  - 2001年 - シリーズ総合クラス第2位（3ローター・20BRE）
+  - 2002年 - シリーズ総合クラス第10位（3ローター・20BRE）
+  - 2003年 - シリーズ総合クラス第13位
+  - 2004年 - シリーズ総合クラス第4位
+  - 2005年 - シリーズ総合クラス第9位
+  - 2006年 - **シリーズ総合クラス第1位**
+  - 2007年 - シリーズ総合クラス第14位
+  - 2008年 - シリーズ総合クラス第7位
+  - 2009年 - シリーズ総合クラス第2位
+  - 2010年 - シリーズ総合クラス第3位
+
+### 全日本プロドリフト選手権 D1GP
+
+[全日本プロドリフト選手権](https://ja.wikipedia.org/wiki/全日本プロドリフト選手権 "wikilink") (D1GP) には2004年から参戦している。
+
+2004年度は、経験のないドリフト車両のマシンメイキングに対するノウハウが少なく（タイムアタック用車両に近い作りだった）車両特性に難があり目立った結果は残せなかったものの、2005年度から専属ドライバーの[末永正雄](../Page/末永正雄.md "wikilink")の意見を取り入れ、足回りやボディー補強など、コントロール性を重視して製作した車両のセッティングが煮詰まってきたことで[富士スピードウェイ](https://ja.wikipedia.org/wiki/富士スピードウェイ "wikilink")での第6戦で初優勝を飾るなど、安定した成績を残しシリーズ総合2位の成績を残している。
+
+  - 2004年
+      - ドライバー - [末永正雄](../Page/末永正雄.md "wikilink")
+      - 車両 - RE雨宮レーシングD1RX-7 2004
+      - シリーズ総合第17位
+  - 2005年
+      - ドライバー - 末永正雄
+      - 車両 - RE雨宮レーシングD1RX-7 2005
+      - **シリーズ総合第2位**
+  - 2006年
+      - ドライバー - 末永正雄
+      - 車両 - RE雨宮レーシングD1(2号機) RX-7 2006
+      - シリーズ総合第8位
+  - 2007年
+      - ドライバー - 末永正雄
+      - 車両 - RE雨宮レーシングD1-7(2号機) RX-7
+      - シリーズ総合第3位
+  - 2008年
+      - ドライバー - 末永正雄
+      - 車両 - RE雨宮レーシングD1-7(3号機) RX-7
+      - シリーズ総合第3位
+  - 2009年
+      - ドライバー -　末永正雄
+      - 車両 - M7 RE雨宮レーシングD1-7(3号機)　RX-7
+      - シリーズ総合第4位
+  - 　2010年
+      - ドライバー -　末永正雄
+      - 車両 - M7 RE雨宮 SGC with TOYOTIRES(3号機)　RX-7
+      - シリーズ総合第3位
+  - 2011年
+      - ドライバー -　末永正雄
+      - 車両 - M7 RE雨宮SGC with TOYOTIRES　RX-8
+      - シリーズ総合第9位
+
+## 脚注
+
+<references/>
+
+## 外部リンク
+
+  - [RE雨宮](http://www.re-amemiya.co.jp/)
+
+[Category:チューニングメーカー](https://ja.wikipedia.org/wiki/Category:チューニングメーカー "wikilink") [Category:SUPER_GT](https://ja.wikipedia.org/wiki/Category:SUPER_GT "wikilink") [Category:日本のレーシングチーム](https://ja.wikipedia.org/wiki/Category:日本のレーシングチーム "wikilink") [Category:富里市の企業](https://ja.wikipedia.org/wiki/Category:富里市の企業 "wikilink") [Category:富里市](https://ja.wikipedia.org/wiki/Category:富里市 "wikilink") [Category:日本の自動車部品サプライヤー](https://ja.wikipedia.org/wiki/Category:日本の自動車部品サプライヤー "wikilink")
+
+1.  雑誌「[Option](https://ja.wikipedia.org/wiki/Option_\(雑誌\) "wikilink")」では「ロータリー専門で、レシプロは無理だ」と言う類の発言をしたこともある
+2.  ただし、Greddy VIは旧基準ではなく、新基準になってから取得
+3.  [RE雨宮レーシング 孤高の戦い － ロータリーで挑むJGTCの頂点](http://supergt.net:8080/ftp/classic/supergt.net/jgtc/race/inside/2002e/repo022j.htm) - JGTCスペシャルレポート
+4.  [Human Talk Vol.32](http://www.enkei.co.jp/webmagazine/humantalk/ht_32.html) - ENKEI WEB MAGAZINE
+5.  [2001年](../Page/2001年.md "wikilink")からスポンサーに[田辺製薬（現:田辺三菱製薬。アスパラドリンク）が加わるとさらに青が追加](https://ja.wikipedia.org/wiki/田辺三菱製薬 "wikilink")
+6.  [レース活動についての報告](http://www.re-amemiya.co.jp/whatsnews/detail.php?pid=47)

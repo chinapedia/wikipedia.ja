@@ -1,0 +1,44 @@
+> この記事は[NX](https://ja.wikipedia.org/wiki/NX)から翻訳されています。
+
+
+**NXクーペ**（エヌエックスクーペ）は、[日産自動車](../Page/日産自動車.md "wikilink")が[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1994年](../Page/1994年.md "wikilink")まで製造販売していた[自動車](../Page/自動車.md "wikilink")である。
+
+## 概要
+
+同時期に販売されていた[サニーB](../Page/日産・サニー.md "wikilink")13型（7代目）をベースにした[クーペ](../Page/クーペ.md "wikilink")タイプの[乗用車](../Page/乗用車.md "wikilink")で、[トヨタ・サイノス](https://ja.wikipedia.org/wiki/トヨタ・サイノス "wikilink")同様、廉価でおしゃれな「[セクレタリーカー](https://ja.wikipedia.org/wiki/秘書 "wikilink")」として[開発](../Page/開発.md "wikilink")された。当時販売されていた[180SX](https://ja.wikipedia.org/wiki/180SX "wikilink")をそのまま小さくしたようなデザインが特徴的である。
+
+先代の[サニークーペRZ-1とは打って変わり](../Page/日産・サニーRZ-1.md "wikilink")、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンディエゴ](../Page/サンディエゴ.md "wikilink")の「日産デザインインターナショナル（NDI、現・[NDA](https://ja.wikipedia.org/wiki/NDA "wikilink")）」で[スタイリングされた外観は](../Page/インダストリアルデザイン.md "wikilink")、[フェアレディZ（Z32）と共通のデザインテイストを持たせており](../Page/日産・フェアレディZ.md "wikilink")、丸みを帯びたカジュアルなスタイリングと、へこんだオーバルシェイプの[ヘッドランプが特徴となった](https://ja.wikipedia.org/wiki/前照灯 "wikilink")。
+
+北米市場をメインターゲットとして企画しており、日本では[サニーRZ-1の後継となったが](../Page/日産・サニーRZ-1.md "wikilink")、北米においては[日産・エクサ](https://ja.wikipedia.org/wiki/日産・エクサ "wikilink")（*Nissan Pulsar NX*）の後継として位置づけられ、車名も「NX」を踏襲している。そのためエクサで人気のあった[Tバールーフ](../Page/Tバールーフ.md "wikilink")をラインナップに設定している。一方で着脱式の「[キャノピー](https://ja.wikipedia.org/wiki/キャノピー "wikilink")」については、さほど人気がなかったため採用されなかった。正式名称は「日産・NXクーペ」だが、日本では「サニーNXクーペ」と呼ばれることが多かった。また、欧州圏においては「100NX」の名称で、オセアニア圏においては日本と同じ「NXクーペ」の名称で販売された。
+
+日本においては排気量別にタイプA（1.5L）、タイプB（1.6L）、タイプS（1.8L）の3グレードが設定された。1992年1月にはマイナーチェンジされ、タイプA/B（1.5L）、タイプS（1.6L/1.8L）の2グレードに整理された。またマイナーチェンジにて運転席にエアバッグをオプション設定したほか、サイドドアビームやシートベルト未装着警告警報、衝撃吸収パッドなどが追加採用され、ボディサイドモールがボディ同色塗装となった。ボディカラーについては通常塗装のほか、メーカーオプションでスーパー・ファインコート塗装（[フッ素](../Page/フッ素.md "wikilink")樹脂塗装）が選択することが出来た。またユニークな装備としてドア開口部のキャッチ側に[傘](../Page/傘.md "wikilink")収納スペースが設けられていた。
+
+エンジンは[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")で、[GA型](https://ja.wikipedia.org/wiki/日産・GAエンジン "wikilink")1.5L（タイプA/B）と1.6L（タイプB/S）、[SR型](https://ja.wikipedia.org/wiki/日産・SRエンジン "wikilink")1.8L（タイプS）がラインナップされた。仕向け地によって[キャブレター](../Page/キャブレター.md "wikilink")または[フューエルインジェクションが組み合わされ](../Page/燃料噴射装置.md "wikilink")、これに[トランスミッション](https://ja.wikipedia.org/wiki/トランスミッション "wikilink")は5速[マニュアルまたは](../Page/マニュアルトランスミッション.md "wikilink")4速[オートマチックが設定された](../Page/オートマチックトランスミッション.md "wikilink")。北米仕様にのみSR型2.0Lエンジン搭載車が設定された。またGAエンジン搭載車にはデジタルパネルメーターが設定された。
+
+### 販売
+
+メインターゲットであった当時の日本の若者がスポーツ指向の強いクルマを求めていたため、上述の通り北米向けに企画された「NX」は日本人のニーズに合わなかったことに加えて\[1\]、当車がサニー店扱いだったため、当時絶頂の人気車だったS13型シルビア及び姉妹車の180SXの影に隠れてしまい、結果としてディーラーにも恵まれないなどの悪条件が重なったことから、日本国内の販売は惨憺たる結果となる。一方でメインターゲットである[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")では、販売が好調であった。また[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")などでも販売されており、それぞれ車名は北米向けがNX1600/NX2000、ヨーロッパ向けは100NX、そしてオーストラリア向けはNXであった。なお、事実上の後継車は[ルキノクーペである](../Page/日産・ルキノ.md "wikilink")。
+
+日本国内仕様のボディカラーは8種類もの色がラインナップされたが、ほとんどのオーナーがメインカラーであるイエローを選択した。
+
+### 広告
+
+[モーフィング](https://ja.wikipedia.org/wiki/モーフィング "wikilink")という手法を使い、イエローのNXの[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")が変幻自在に曲がりくねるテレビCMが話題になった。CGは[リズム&ヒューズ・スタジオ](https://ja.wikipedia.org/wiki/リズム&ヒューズ・スタジオ "wikilink")による。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は、「タイムマシンかもしれない。」だった。
+
+## 注・出典
+
+## 関連項目
+
+  - [日産・サニー](../Page/日産・サニー.md "wikilink")
+  - [日産・ルキノ](../Page/日産・ルキノ.md "wikilink")
+  - [日産・エクサ](https://ja.wikipedia.org/wiki/日産・エクサ "wikilink")
+  - [日産・フェアレディZ](../Page/日産・フェアレディZ.md "wikilink")（Z32）
+  - [トヨタ・サイノス](https://ja.wikipedia.org/wiki/トヨタ・サイノス "wikilink")
+
+## 外部リンク
+
+  - [GAZOO.com 日産・NXクーペ](http://gazoo.com/car/newcar/vehicle_info/Pages/detail.aspx?MAKER_CD=B&CARTYPE_CD=A04&GENERATION=-1&NEWS_ID=BA04-1990005493)
+
+[Category:日産の車種](https://ja.wikipedia.org/wiki/Category:日産の車種 "wikilink") [Category:クーペ](https://ja.wikipedia.org/wiki/Category:クーペ "wikilink")
+
+1.  [出るのが早かったのか失敗作か\!? 販売台数が低迷した車5選（1頁）](https://kuruma-news.jp/post/175096/) - くるまのニュース 2019年9月7日

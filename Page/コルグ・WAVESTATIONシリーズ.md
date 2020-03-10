@@ -1,0 +1,81 @@
+> この記事は[WAVESTATION](https://ja.wikipedia.org/wiki/WAVESTATION)から翻訳されています。
+
+
+**WAVESTATION**（ウェーブステーション）はかつて[コルグ](https://ja.wikipedia.org/wiki/コルグ "wikilink")が[製造](../Page/製造業.md "wikilink")、[販売](../Page/販売.md "wikilink")した[シンセサイザー](../Page/シンセサイザー.md "wikilink")の型番・商品名である。
+
+デジタル[サンプリング](../Page/サンプリング.md "wikilink")された[PCM方式の基本波形を連結して新しい原音波形を作り出す音源方式](../Page/パルス符号変調.md "wikilink")[ベクトル・シンセシス](https://ja.wikipedia.org/wiki/ベクトル・シンセシス "wikilink")機能を持っており、コルグではav（Advanced Vector）シンセシス・システムと呼んでいる。[シーケンシャル・サーキット](../Page/シーケンシャル・サーキット.md "wikilink")のプロフェットVSを開発したスタッフの一部が開発スタッフに参加しており、また[シーケンシャル・サーキット](../Page/シーケンシャル・サーキット.md "wikilink")の創業者である(****)は同機の開発にアドバイザーとして参加している。
+
+## 機能の概要
+
+多数の波形データのほとんどは極端に短く(シングルサイクルウェーブが多数を占める)、それらをそのまま[オシレータに使用することはもちろん可能だが](https://ja.wikipedia.org/wiki/発振回路 "wikilink")、その他に、それを最大32個(ステップと本機では呼ぶ)つなぎ合わせることで1つの新たな波形とみなし、それをオシレータに使用することが可能である。個々のステップは音階・音量・発音時間・[クロスフェード時間の](https://ja.wikipedia.org/wiki/フェード "wikilink")4つが設定可能で、さらに、ループ開始ステップ・終了ステップ・ループ回数\[1\]を設定することによって、まるで新たに創造した1つの波形のように発音することが可能である。これが本機の最大の特長である「ウェーブシーケンス」機能である。なお、ステップの発音時間およびクロスフェード時間は外部[MIDI](../Page/MIDI.md "wikilink")機器のMIDIクロックに準じることが可能である。このウェーブシーケンスまたは通常の波形を最大4つレイヤーにすることができ、また、その4つの音量のミックス比をキーオン・キーオフ・ループ開始・ループ終了の各ポイントごとに設定が可能で(エンベロープや[LFOで自動変化させることも可能](https://ja.wikipedia.org/wiki/LFO_\(電子楽器\) "wikilink"))、これにさらに[デジタルフィルター](../Page/ディジタルフィルタ.md "wikilink")\[2\]\[3\]による音色変化や[デジタルアンプ](https://ja.wikipedia.org/wiki/増幅回路 "wikilink")\[4\]による音量変化やLFO\[5\]などを加えたものが「パッチ」である。そして最大で8つのパッチをレイヤーにして\[6\]デジタルエフェクターを設定したものが「パフォーマンス」であり、演奏中はこのパフォーマンス単位でのみ音色を選択する。(パッチやウェーブシーケンスの演奏モードというものは存在しない。) またパフォーマンスでは、本機に備わっている[ジョイスティック](../Page/ジョイスティック.md "wikilink")を用いて各パッチ内の個々の波形の音量のミックス比をリアルタイムに手動変化させることが可能である。
+
+フィルターでは不可能な音色変化や、リズミックなフレーズまで作成できるPCM方式のウェーブシーケンスをワンフィンガーで表現できる機能は非常に個性的で、このようなウェーブシーケンスやベクトルシンセシスを用いた複雑な音作りが楽しめる本シリーズはマニアや専門誌から絶賛を受けたが、初心者にはその複雑な音作りゆえにハードルが高かった。また、シンセサウンドの波形は高品質で充実していたが、反対に生楽器の波形はそのマルチサンプリングの個数が[Mシリーズ及び](https://ja.wikipedia.org/wiki/コルグ・Mシリーズ "wikilink")[Tシリーズと比べ少なく](https://ja.wikipedia.org/wiki/コルグ・Tシリーズ "wikilink")、ゆえに[生楽器系の音に向いたシンセサイザーではなかった](https://ja.wikipedia.org/wiki/アコースティック楽器 "wikilink")。
+
+WAVESTATIONシリーズはすべて生産完了しているが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで生産販売していた[OASYSやその後継機である](https://ja.wikipedia.org/wiki/コルグ・OASYS "wikilink")[KRONOS](https://ja.wikipedia.org/wiki/コルグ・KRONOS "wikilink")、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")向けのエミュレーションソフトウェア「KORG Legacy Collection」、そのiOS版とも言える「iWAVESTATION」にこのavシンセシス・システムは移植されている。
+
+## WAVESTATIONのシリーズ
+
+  - WAVESTATION
+
+[thumb](https://ja.wikipedia.org/wiki/画像:Korg_Wavestation_front.png "wikilink")
+
+  -
+    1990年6月発売\[7\]。鍵盤数は61。32基のデジタル・オシレータ、32基のデジタル・フィルター、64基のエンベロープ・ジェネレータ、64基のLFO、47種のステレオ・マルチ・エフェクト2基搭載。
+
+<!-- end list -->
+
+  - WAVESTATION A/D
+
+[thumb](https://ja.wikipedia.org/wiki/画像:Korg_Wavestation_AD_front.png "wikilink")
+
+  -
+    1991年6月発売\[8\]。2Uフルラックサイズ[音源モジュール](https://ja.wikipedia.org/wiki/音源モジュール "wikilink")。上述のWAVESTATIONから鍵盤を取り除き、代わりにアナログ入力機能の追加、新たにPCMサンプル119波形の追加、ボコーダーなど8エフェクトの追加を施したモデル。また、ユーザ変更可能な音色バンクが1つ追加され、アナログ入力を用いたプリセット音色が工場出荷時にはここに書き込まれている。このモノラル仕様のアナログ入力端子は2本装備しており\[9\]、オシレータのPCM波形選択項目にこの2つが新たに追加されているので、これを選択する形で使用する\[10\]。あくまでオシレータにアナログ入力が選択できるというまでであり、一般的なサンプラーのように「デジタル変換された内容をまずはメモリに蓄え、時間差でそれらを後で指定して再生する」といったことはできない。また、この外部入力のモニター機能\[11\]が追加されており、これと内蔵エフェクトのボコーダーを用いれば、単体でボコーダーとして利用可能である。ただし実際には音質はかなり悪く、評価の高い専用機のボコーダーの質には遠く及ばない。
+
+  - WAVESTATION EX
+    1992年4月発売\[12\]。鍵盤数は61。上述のWAVESTATION(無印)に、A/Dと同じPCM波形119個の追加、A/Dと同じ8エフェクトの追加を施したモデル。なお、WAVESTATION(無印)の本体内にEXとの差分の回路部品「EXK-WS」を取り付けることにより、このEXにグレードアップすることができた。
+
+  - WAVESTATION SR
+
+[right](https://ja.wikipedia.org/wiki/画像:Korg_Wavestation_SR.jpg "wikilink")
+
+  -
+    1992年11月発売\[13\]。1Uフルラックサイズ[音源モジュール](https://ja.wikipedia.org/wiki/音源モジュール "wikilink")。波形およびエフェクトはA/DやEXと同じである。A/Dと異なり、外部音声入力端子は装備していない。パッチ及びパフォーマンスのROMバンクが大量に追加され、これによりプリセット音色が豊富となった。1Uサイズの小さな液晶画面および操作ボタン数の減少ということから、音色の自作ではなくプリセット音色を使用することを前提に設計されたものである。ただし、MIDIの[システム・エクスクルーシブ・メッセージによる音色データの送受信機能は従来通り存在するため](https://ja.wikipedia.org/wiki/MIDI#システムエクスクルーシブメッセージ "wikilink")、MIDI接続されたPCの音色エディタなどを用いれば、快適に音色の自作が可能である。なお、PCM音源部分の仕様がこれまでの無印・A/D・EXから変更され、音質が若干ハイファイになった。これにより、別売のPCMカードは従来の無印・A/D・EXで用いられたものは使用できず、別に新たに用意されたSR専用のものでないと使用できない。
+
+  - WAVESTATION([PC](../Page/パーソナルコンピュータ.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")「KORG Legacy Collection」の一部)\[14\]
+
+[right](https://ja.wikipedia.org/wiki/画像:KLC_Wavestation.png "wikilink")
+
+  -
+    上述のWAVESTATION SRをベースにPCソフトウェア化したもの。VSTi/AU/RTAS対応で、各社のDAWソフトウェアのソフトウェア音源として使用することを前提に設計されているが、このソフトウェア単体（[スタンドアローン](https://ja.wikipedia.org/wiki/スタンドアローン "wikilink"))で使用することもできる。音質やプリセット音色はSRと同じだが\[15\]、PC上に表示される画面は無印・A/D・EXのものをベースに若干改良を加えたものである。また、A/Dのような外部入力機能は存在しない(SRがモデルになっているため)。なお、Version 1.6ではフィルターにレゾナンス機能が追加された。
+  - iWAVESTATION
+    [Apple社のモバイルデバイス](../Page/アップル_\(企業\).md "wikilink")[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")または[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")で動作する、[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")アプリケーションのWAVESTATION。フィルター部には、ハード版には存在しなかったレゾナンスも装備されている。なお、過去発売された全てのサウンドカードが、アプリ内課金にて購入可能である。
+
+## 関連項目
+
+  - [シーケンシャル・サーキット](../Page/シーケンシャル・サーキット.md "wikilink") - ベクトル・シンセサイザープロフェットVSを開発した。1987年にヤマハに買収された後、その開発スタッフの一部はヤマハSY35、SY22、TG33、コルグWAVESTATIONの開発スタッフとなった。
+  - [ヤマハ・SYシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・SYシリーズ "wikilink") - SY35、SY22がWAVESTATION同様プロフェットVSの流れを汲むベクトルシンセシスシンセサイザーである。
+  - [ヤマハ・TGシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・TGシリーズ "wikilink") - TG33がWAVESTATION同様プロフェットVSの流れを汲むベクトルシンセシスシンセサイザーである。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+[Category:シンセサイザー](https://ja.wikipedia.org/wiki/Category:シンセサイザー "wikilink") [Category:コルグ](https://ja.wikipedia.org/wiki/Category:コルグ "wikilink")
+
+1.  ループ開始ステップから終了ステップまでを1ループと定義した場合のループ回数のことであり、個々のPCMサンプル内のループのことではない。
+2.  タイプはローパスのみ、カーブは24dB/Octのみ、レゾナンス機能は無い。ただしLegacy Collection Digital Edition内の同シンセのVersion1.6ではレゾナンス機能が搭載された。
+3.  Mシリーズ・TシリーズではVDF(Variable Digital Filter)・VDA(Variable Digital Amp)と呼称しているが、本機ではそういった呼称は無く、単に「FILTER」・「AMP」と画面に表示される。
+4.
+5.  LFOはオシレータごとに2つ搭載されており、そのモジュレーション元は実に豊富に用意されている。例えばLFO1のモジュレーション元にLFO2やMIDIの汎用コントローラなどを指定できる。
+6.  キー・ゾーンやベロシティー・ゾーンをそれぞれ設定することも可能。
+7.
+8.
+9.  内部でデジタルサンプリングされる。
+10. 例えば、オシレータ2基の内容にこの外部入力2本をそれぞれ指定し、後段にあるパンポットの指定でそれぞれを右端と左端に設定し、この入力端子2つにステレオサウンドを出力してやれば、ステレオの外部サウンドを処理できる、という使い方ができる。
+11. 基本的にはデジタル変換された入力音声を無加工で聴く機能であるが、内蔵のエフェクトを通すことは可能である。
+12.
+13.
+14.
+15. Version1.5では以下のROMカードの内容が追加された。WSC-1S <PIANO>, WSC-2S \<DRUMS & PERCUSSION\>, WSC-3S \<SYNTH & TIME SLICE\>, PSC-1S <DANCE>, PSC-2S <SYNTH DESIGN>, PSC-3S <ETHNIC>。

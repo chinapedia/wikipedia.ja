@@ -1,0 +1,161 @@
+> この記事は[SAMURAI \(\)](https://ja.wikipedia.org/wiki/SAMURAI_\(\))から翻訳されています。
+
+
+『**SAMURAI**』（サムライ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である[長渕剛](../Page/長渕剛.md "wikilink")の17枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。
+
+本作は長渕と[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink")との共同プロデュースとなり、従来の[フォークソング](../Page/フォークソング.md "wikilink")に加え[ラップ](../Page/ラップ.md "wikilink")、[音頭](../Page/音頭.md "wikilink")、[唱歌](https://ja.wikipedia.org/wiki/唱歌_\(教科\) "wikilink")、[童謡](https://ja.wikipedia.org/wiki/童謡 "wikilink")、[長唄](../Page/長唄.md "wikilink")などの要素も取り入れている。
+
+[テレビ朝日系](https://ja.wikipedia.org/wiki/テレビ朝日系列 "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[外科医・夏目三四郎](https://ja.wikipedia.org/wiki/外科医・夏目三四郎 "wikilink")』（1998年）の主題歌として使用された先行シングル「[指切りげんまん](https://ja.wikipedia.org/wiki/指切りげんまん "wikilink")」（1998年）を収録、後に[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")として「[猿一匹、唄えば侍](https://ja.wikipedia.org/wiki/猿一匹、唄えば侍 "wikilink")」がリリースされた。
+
+[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位1位を獲得した。
+
+## 背景
+
+前作『[ふざけんじゃねぇ](../Page/ふざけんじゃねぇ.md "wikilink")』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）を9月3日にリリース後、長渕は11月19日の[大阪城ホール](../Page/大阪城ホール.md "wikilink")より翌1998年2月21日の鹿児島県奄美大島名瀬市体育館に至るまで、全国16都市全27公演におよぶライブツアー「LIVE'97 - '98 ふざけんじゃねぇ」を開催した\[1\]。このツアーの最中の12月10日には旧所属先の[東芝EMIより在籍時の全シングルとカップリング曲を収録したベストアルバム](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")『[SINGLES Vol.1 (1978〜1982)](https://ja.wikipedia.org/wiki/SINGLES_Vol.1_\(1978〜1982\) "wikilink")』、『[SINGLES Vol.2 (1983〜1988)](https://ja.wikipedia.org/wiki/SINGLES_Vol.2_\(1983〜1988\) "wikilink")』、『SINGLES Vol.3 (1988〜1996)』がリリースされた。
+
+7月1日には[日高正人](https://ja.wikipedia.org/wiki/日高正人 "wikilink")への提供曲として、シングル「想い人」がリリースされた。この曲は1983年頃に日高の歌に感銘した長渕が書き下ろしていた曲で、日高の病気が原因でお蔵入りとなっていた曲であった。
+
+9月23日には先行シングルとして「[指切りげんまん](https://ja.wikipedia.org/wiki/指切りげんまん "wikilink")」（1998年）をリリース。この曲は[テレビ朝日系テレビドラマ](https://ja.wikipedia.org/wiki/テレビ朝日系列 "wikilink")『[外科医・夏目三四郎](https://ja.wikipedia.org/wiki/外科医・夏目三四郎 "wikilink")』（1998年）の主題歌として使用され\[2\]、「[友よ](https://ja.wikipedia.org/wiki/友よ_\(長渕剛の曲\) "wikilink")」（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）に次いで長渕が出演していないテレビドラマとの[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")となった。
+
+## 音楽性
+
+文芸雑誌『別冊カドカワ 総力特集 長渕剛』では、「曲名は『Never Give Up』だが、その実体は長渕音頭と言っても許されるだろう。特にアウトロでの♪ラララ……は、これまでの長渕剛にはなかった趣きだ」、「『お釈迦さま』は、コミカルと言えるほどの明るさ。煩悩なんぞ笑い飛ばしてやる、という心境か」、「己のルーツを辿るが如く、幼い日々を過ごした家を訪ねた日の様子がしたためられている『ふるさと』。そのカナリアを籠の外から眺めているだけではもったいない。（中略）『猿一匹、唄えば侍』『オホーツクの海』にしても、ここから早く出せ\! 早く出してくれ\! と、けたたましく鳴くカナリアである」と表記されている\[3\]。
+
+文芸雑誌『文藝別冊 長渕剛 民衆の怒りと祈りの歌』にて、「（"お釈迦さま"に関して）[ラップ](../Page/ラップ.md "wikilink")・ミュージックという音楽ジャンルにはライミング=押韻というなかばルール化した技法と、脈絡やほぼ意味のない歌詞の反復でグルーヴを持続させる手法があるが、押韻と反復の組み合わせにはオチがある。その観点から聴くとこのサビはラップである」、「長渕は他のミュージシャンと比べてもファン以外の人間からは"嗤い"の対象とされてきたように思うが、それによって不可視になった彼の音楽性を本作から聴き取ることができる」と表記されている\[4\]。
+
+## リリース
+
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")に[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")より、[CDと](../Page/コンパクトディスク.md "wikilink")[カセットテープの](../Page/コンパクトカセット.md "wikilink")2形態でリリースされた。
+
+## アートワーク
+
+ジャケット写真は、長渕本人の左目のアップとなっている。ライナーノートは、[脚本家](../Page/脚本家.md "wikilink")の[倉本聰](https://ja.wikipedia.org/wiki/倉本聰 "wikilink")が執筆している。歌詞カード内や裏ジャケットにて長渕が着用している衣装は、[西南戦争](../Page/西南戦争.md "wikilink")にて薩軍が着用した[陣羽織である](https://ja.wikipedia.org/wiki/羽織 "wikilink")\[5\]。
+
+## ツアー
+
+本作を受けてのコンサートツアーは「LIVE'98 - '99 SAMURAI」と題し、1998年[11月25日](../Page/11月25日.md "wikilink")の[大阪城ホール](../Page/大阪城ホール.md "wikilink")を皮切りに、12月23日の奄美大島名瀬市体育館まで6都市全9公演が行われた\[6\]。また、本来であれば翌1999年5月3日の東京国際フォーラムから7月7日の沖縄コンベンションセンターまで継続してツアーが開催される予定であったが、長渕が[筋力トレーニング](https://ja.wikipedia.org/wiki/筋力トレーニング "wikilink")中に右肘でサンドバッグを殴打したところ、傷口より細菌が侵入し右腕が腫れ上がったため緊急入院する事態となり、全国ツアー及び映画『[英二](https://ja.wikipedia.org/wiki/英二 "wikilink")』（[1999年](../Page/1999年.md "wikilink")）の舞台あいさつの中止が発表された\[7\]。これにより、長渕の全国ツアーの中断は「LIVE'85 - '86 HUNGRY」、「LIVE'94 Captain of the Ship」に次いで3度目となった。
+
+## 批評
+
+  - 音楽情報サイト『CDジャーナル』では、「敵に向かってキバをむき出す的な、スキを見せてなるものかという肩に力の入ったところが多々あったが、今回はその力みも少し取れたようで、笑う余裕も見せる。少しは気分に変化があったか」、「軽妙な歌詞とアレンジが特徴的な『猿一匹、唄えば侍』を収録した98年発表作。故郷・鹿児島を歌った『ふるさと』やラブ・ソングの『くちづけ』など、幅広いサウンドが詰まった1枚」と肯定的な評価を下している\[8\]。
+
+<!-- end list -->
+
+  - 文芸雑誌『別冊カドカワ 総力特集 長渕剛』では、「冒頭の[音頭](../Page/音頭.md "wikilink")に始まり、[唱歌](https://ja.wikipedia.org/wiki/唱歌_\(教科\) "wikilink")、[童謡](https://ja.wikipedia.org/wiki/童謡 "wikilink")、[長唄](../Page/長唄.md "wikilink")など、この国の[DNAとなっている音楽要素を随所に取り入れている](../Page/デオキシリボ核酸.md "wikilink")。日本のロックやポップスの命題－欧米なみになること－を、笑いながらぶった斬るSAMURAIここにあり」と肯定的な評価を下している\[9\]。
+
+<!-- end list -->
+
+  - 文芸雑誌『文藝別冊 長渕剛 民衆の怒りと祈りの歌』では、「タイトルだけ見れば、これもまた『ふざけんじゃねぇ』同様に随分と好戦的で、その上に仰々しく聞こえる。けれども、注目すべきポイントは長渕の歌唱と歌詞、言語センスにある」、「（"お釈迦さま"に関して）サビの反復と強引な押韻から成るオチと巻き舌からは長渕流としか言いようのないおかしみが滲みだしていて、このおかしみは本人の意図するものであろう。あるいは、"俺たちの心にジングルベル"というクリスマス・ソングの、『メリーメリー～』というサビの奇怪な反復にもそのような笑いの意図が見え隠れしているように思える」と肯定的な評価を下している\[10\]。
+
+## チャート成績
+
+[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位1位、登場回数6回となり、売り上げ枚数は約21万枚となった。
+
+## 収録曲
+
+## 曲解説
+
+1.  **Never Give Up**
+      -
+        [イントロ部分に](../Page/導入部.md "wikilink")[和太鼓](../Page/和太鼓.md "wikilink")が入っている。
+2.  **でんでん虫**
+3.  **オホーツクの海**
+4.  **お釈迦さま**
+5.  **[猿一匹、唄えば侍](https://ja.wikipedia.org/wiki/猿一匹、唄えば侍 "wikilink")**
+      -
+        長渕初のマキシシングルとしてリリースされた曲。カップリング曲として、歌詞を一部改変した『ひざまくら'98』などが収録されている。
+6.  **ふたつの責任～愛してる～**
+7.  **[指切りげんまん](https://ja.wikipedia.org/wiki/指切りげんまん "wikilink")**
+      -
+        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で放映されていた、[内藤剛志](../Page/内藤剛志.md "wikilink")主演のテレビドラマ「外科医・夏目三四郎」の主題歌として採用された。
+8.  **俺たちの心にジングルベル**
+      -
+        子供のコーラス\[長渕の実の子供2人（長女：（女優）[長渕文音](https://ja.wikipedia.org/wiki/長渕文音 "wikilink")・長男）\]が入っている。長渕の曲としては珍しく、[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")を迎えている家庭を描いた作品である。
+9.  **どつぼにはまってどっぴんしゃ\!\!**
+      -
+        ライブでは未だに一度も演奏されたことがない。
+10. **くちづけ**
+      -
+        [オカリナ](../Page/オカリナ.md "wikilink")奏者の[本谷美加子](https://ja.wikipedia.org/wiki/本谷美加子 "wikilink")がセッションに加わっている。
+11. **ふるさと**
+
+## スタッフ・クレジット
+
+### 参加ミュージシャン
+
+  - **島村英二** - [ドラムス](../Page/ドラムセット.md "wikilink")（1 - 3, 5 - 9曲目）
+  - **岡沢章** - [エレクトリックベース](../Page/エレクトリックベース.md "wikilink")（1 - 3, 5 - 9曲目）
+  - **長渕剛** - [アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")（11曲目を除くすべて）、[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")（5曲目のみ）、[アコースティックピアノ](../Page/ピアノ.md "wikilink")（2曲目のみ）、[和太鼓](../Page/和太鼓.md "wikilink")（1曲目のみ）、[ブルースハープ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")（1,2,4,7,11曲目）、[シンセ・パーカッション](../Page/パーカッション.md "wikilink")（3曲目のみ）、[ホイッスル](../Page/ホイッスル.md "wikilink")（8曲目のみ）
+  - **笛吹利明** - アコースティックギター（4曲目のみ）、[フラットマンドリン](https://ja.wikipedia.org/wiki/フラットマンドリン "wikilink")（1,2,6,7,9曲目）、[チャランゴ](https://ja.wikipedia.org/wiki/チャランゴ "wikilink")（8曲目のみ）、[ガット・ギター](https://ja.wikipedia.org/wiki/ガット・ギター "wikilink")・ソロ（6曲目のみ）、和太鼓（4曲目のみ）
+  - **角田順** - アコースティックギター（5曲目のみ）、エレクトリックギター（1,2,5 - 8曲目）
+  - **池田雅彦** - [バンジョー](https://ja.wikipedia.org/wiki/バンジョー "wikilink")（9曲目のみ）
+  - **矢島賢** - エレクトリックギター（3曲目のみ）、エレクトリックギター・ソロ（2,7曲目のみ）
+  - **徳武弘文** - エレクトリックギター（9曲目のみ）
+  - **エルトン永田** - アコースティックピアノ（1,2,5,7,11曲目）、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")（3 - 6,8,10曲目）
+  - **[国吉良一](https://ja.wikipedia.org/wiki/国吉良一 "wikilink")** - キーボード（8,9曲目のみ）
+  - **[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")** - [オルガン](../Page/オルガン.md "wikilink")（7曲目のみ）
+  - **[浜口茂外也](https://ja.wikipedia.org/wiki/浜口茂外也 "wikilink")** - パーカッション（3,5 - 8,10曲目）
+  - **篠崎グループ** - [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")（8曲目のみ）
+  - **[本谷美加子](https://ja.wikipedia.org/wiki/本谷美加子 "wikilink")** - [オカリナ](../Page/オカリナ.md "wikilink")（10曲目のみ）
+  - **The MUGIFUMI** - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、クラップス（1曲目のみ）
+  - **シーサーズ** - コーラス、[サンバ](../Page/サンバ_\(ブラジル\).md "wikilink")（4曲目のみ）
+  - **[長渕文音](https://ja.wikipedia.org/wiki/長渕文音 "wikilink")** - コーラス（8曲目のみ）
+  - **長渕航** - （8曲目のみ）
+  - **杉並児童合唱団** - コーラス（8曲目のみ）
+  - **渋谷年治** - シンセサイザー・プログラマー（3,5,6,8,10曲目）
+  - **中山信彦** - シンセサイザー・プログラマー（4曲目のみ）
+
+### スタッフ
+
+  - **長渕剛** - プロデューサー
+  - **[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink")** - コ・プロデューサー
+  - **加藤謙吾 (Z's)** - レコーディング・エンジニア、ミキシング・エンジニア
+  - **笹川章光 (Yeep)** - エキップメント・テクニシャン
+  - **三浦"Peter"浩 (Yeep)** - エキップメント・テクニシャン
+  - **藤原寛 (Sound Crew)** - エキップメント・テクニシャン
+  - **中津"Jackson"直也 (Mixers Lab)** - アシスタント・エンジニア
+  - **松永司 (Sound Inn)** - アシスタント・エンジニア
+  - **ボビー・ハタ** - マスタリング・エンジニア
+  - **宮田文雄 (Music Land)** - ミュージシャン・コーディネーター
+  - **佐藤世衣 (Z's)** - プロダクション・コーディネーター
+  - **SATOSHI MEZAWA（オフィス・レン）** - ロード・マネージャー
+  - **YOSHIKO FUKUNAGA（オフィス・レン）** - デスク・マネージャー
+  - **池田雅彦（フォーライフ・レコード）** - [A\&R](https://ja.wikipedia.org/wiki/A&R "wikilink")
+  - **和井内貞宣（ユイ音楽工房）** - A\&R
+  - **[後藤由多加](https://ja.wikipedia.org/wiki/後藤由多加 "wikilink")（フォーライフ・レコード）** - スーパーバイザー
+  - **荒井博文 (Gil Produce)** - アート・ディレクション、デザイン
+  - **大川奘一郎** - 写真撮影
+  - **YASUYUKI ISHIZUKA** - アシスタント・フォトグラファー
+  - **TOMIKI SUGIMURA** - ロケーション・コーディネート、トランスポート
+  - **TOSHIYA NAKAO** - ロケーション・コーディネート、トランスポート
+  - **TOMOMI KURA** - ロケーション・コーディネート、トランスポート
+  - **MASAKAZU ICHIKAWA（オフィス・レン）** - エグゼクティブ・プロデューサー
+  - **[倉本聰](https://ja.wikipedia.org/wiki/倉本聰 "wikilink")** - スペシャル・サンクス
+  - **[西村公朝](https://ja.wikipedia.org/wiki/西村公朝 "wikilink")** - スペシャル・サンクス
+  - **[黒土三男](../Page/黒土三男.md "wikilink")** - スペシャル・サンクス
+  - **[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")** - スペシャル・サンクス
+  - **YUSHIRO OTOMO** - スペシャル・サンクス
+  - **パラダイススタジオスタッフ** - スペシャル・サンクス
+  - **Live '97 - '98 ステージスタッフ** - スペシャル・サンクス
+  - **NAGABUCHI TSUYOSHI CLUB** - スペシャル・サンクス
+
+## 脚注
+
+## 外部リンク
+
+  -
+  -
+  - [公式サイトディスコグラフィー「SAMURAI」](http://www.nagabuchi.or.jp/disco/album/samurai.php)
+
+[Category:1998年のアルバム](https://ja.wikipedia.org/wiki/Category:1998年のアルバム "wikilink") [Category:1998年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1998年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:長渕剛のアルバム](https://ja.wikipedia.org/wiki/Category:長渕剛のアルバム "wikilink") [Category:フォーライフ・レコードのアルバム](https://ja.wikipedia.org/wiki/Category:フォーライフ・レコードのアルバム "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.

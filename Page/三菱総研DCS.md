@@ -1,0 +1,111 @@
+> この記事は[DCS](https://ja.wikipedia.org/wiki/DCS)から翻訳されています。
+
+
+**三菱総研DCS株式会社**（みつびしそうけんディーシーエス、*Mitsubishi Research Institute DCS Co.,Ltd.*）は、[三菱総合研究所](https://ja.wikipedia.org/wiki/三菱総合研究所 "wikilink")及び[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")を株主とする[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")（[ユーザー系](../Page/ユーザー系.md "wikilink")）。通称**DCS**。
+
+## 概要
+
+[三菱銀行](../Page/三菱銀行.md "wikilink")（現・[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）のコンピュータ受託計算部門を母体に[分離独立したユーザー系システムインテグレーターである](../Page/スピンオフ.md "wikilink")。 2007年に**ダイヤモンドコンピューターサービス**から社名変更した。
+
+三菱UFJフィナンシャル・グループの関連企業への事業展開のほか、2000社40万人の実績を持つ給与計算[アウトソーシング](../Page/アウトソーシング.md "wikilink")サービスや、子会社のMRIバリューコンサルティング・アンド・ソリューションズによる[ERP導入支援サービスなど](https://ja.wikipedia.org/wiki/企業資源計画 "wikilink")、一般企業向けに経理財務（F\&A）業務を中心とした[ソリューション](https://ja.wikipedia.org/wiki/ソリューション "wikilink")を提供している。 また、日本初の[SWIFTサービスビューロ](../Page/国際銀行間通信協会.md "wikilink")（国際銀行間通信協会接続サービス）を設立するなど、[地方銀行](../Page/地方銀行.md "wikilink")を始めとする[金融機関](../Page/金融機関.md "wikilink")向けサービスを強みとしている。
+
+1993年に[東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第二部へ上場（2001年に第一部へ市場変更）していたが、2004年に[三菱東京フィナンシャル・グループ](../Page/三菱東京フィナンシャル・グループ.md "wikilink")（現・三菱UFJフィナンシャル・グループ）による完全子会社化、三菱総合研究所の[資本参加](https://ja.wikipedia.org/wiki/資本参加 "wikilink")を受け上場廃止、現在は三菱総合研究所の[連結子会社](https://ja.wikipedia.org/wiki/連結子会社 "wikilink")である。主要株主2社に[三菱UFJリサーチ&コンサルティング](../Page/三菱UFJリサーチ&コンサルティング.md "wikilink")を加えた**4社提携**により、[コンサルティング](https://ja.wikipedia.org/wiki/コンサルティング "wikilink")力の強化を図るとともに事業を拡大している。
+
+三菱総合研究所グループに入ってからは関連子会社の合併やコーポレート業務の共通化\[1\]などの業務効率化を進めている。
+
+成立の経緯や資本構成の関係から、役員や役職者に三菱UFJ銀行出身者 が少なくない。
+
+## 沿革
+
+  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink") - 三菱銀行のコンピュータ受託計算部門から**ダイヤモンドコンピューターサービス株式会社**として分離独立
+  - [1984年](../Page/1984年.md "wikilink") - VAN事業者として郵政省に届出
+      - 日本システムクリエート株式会社（現・株式会社Minoriソリューションズ）に資本参加
+  - [1988年](../Page/1988年.md "wikilink") - システムインテグレータ（システムサービス企業）として通商産業省に登録
+  - [1991年](../Page/1991年.md "wikilink") - システムインテグレータ（システムサービス企業）として通商産業省より認定
+  - [1993年](../Page/1993年.md "wikilink") - 東京証券取引所市場第二部上場（[証券コード](https://ja.wikipedia.org/wiki/証券コード "wikilink")：9645）
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - 株式会社コムネスと合併
+  - [1999年](../Page/1999年.md "wikilink") - 富士ソフトABC（現・[富士ソフト](../Page/富士ソフト.md "wikilink")）と[合弁でダイヤモンド富士ソフト株式会社](../Page/合弁事業.md "wikilink")（現・MRIバリューコンサルティング・アンド・ソリューションズ株式会社）を設立
+  - [2001年](../Page/2001年.md "wikilink") - [NTTデータ](../Page/NTTデータ.md "wikilink")、米国[ファーストデータ](https://ja.wikipedia.org/wiki/:en:First_Data "wikilink")<ref>同社は毎年、クレジットカードなどの数兆ドルの決済処理を手掛けている。[JPモルガン・チェース](../Page/JPモルガン・チェース.md "wikilink")元上級幹部のフランク・ビシグナノ氏が2013年に最高経営責任者に就任していた。
+
+<!-- end list -->
+
+  -
+    [ウォールストリート・ジャーナル](https://ja.wikipedia.org/wiki/ウォールストリート・ジャーナル "wikilink") [米電子決済処理大手ファーストデータ、IPOを申請](http://jp.wsj.com/articles/SB10941096811911123634004581121552952823870) 2015年7月21日 16:41 JST</ref>、[ディーシーカード](../Page/ディーシーカード.md "wikilink")（現・[三菱UFJニコス](https://ja.wikipedia.org/wiki/三菱UFJニコス "wikilink")）と合弁で日本カードプロセシング株式会社を設立
+
+<!-- end list -->
+
+  -   - 東京証券取引所市場第一部上場
+
+  - [2003年](../Page/2003年.md "wikilink") - 日本初のSWIFTサービスビューロ（国際銀行間通信協会接続サービス）設立
+
+  - [2004年](../Page/2004年.md "wikilink") - 三菱東京フィナンシャル・グループ（現・三菱UFJフィナンシャル・グループ）により完全子会社化（上場廃止）
+
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 資本構成変更により三菱総合研究所の連結対象会社化
+
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - エム・アール・アイ システムズ株式会社（現・[エム・アール・アイ リサーチアソシエイツ](https://ja.wikipedia.org/wiki/エム・アール・アイ_リサーチアソシエイツ "wikilink")）の一部事業を吸収
+
+  - [2007年](../Page/2007年.md "wikilink") - **三菱総研DCS株式会社**に社名変更
+
+      - 三菱総合研究所、NTTデータと共同でエムアールシー情報システム株式会社（[三菱レイヨン](../Page/三菱レイヨン.md "wikilink")の連結子会社）に資本参加
+
+  - [2009年](../Page/2009年.md "wikilink") - 三菱総合研究所、[三菱電機インフォメーションシステムズと合弁でMRIバリューコンサルティング株式会社](https://ja.wikipedia.org/wiki/三菱電機#情報通信サービス会社 "wikilink")（三菱総合研究所の連結子会社）を設立
+
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - 株式会社ユービーエス（[ユニ・チャーム](https://ja.wikipedia.org/wiki/ユニ・チャーム "wikilink")の関連会社）に資本参加し、連結子会社化\[2\]
+
+      - ダイヤモンド富士ソフトを[会社分割](../Page/会社分割.md "wikilink")し、一部事業をMRVソリューションズ株式会社として完全子会社化（富士ソフトとの合弁事業を解消）\[3\]
+      - MRVソリューションズがMRIバリューコンサルティングを吸収合併しMRIバリューコンサルティング・アンド・ソリューションズに社名変更\[4\]
+      - 株式会社オプト・ジャパンに資本参加し、連結子会社化\[5\]
+
+  - [2011年](../Page/2011年.md "wikilink") - 株式会社アイ・ティー・ワンに資本参加し子会社化\[6\]
+
+      - 子会社のディー・シー・オペレーションズをMDビジネスパートナーに社名変更\[7\]
+      - 江東区木場に東京ビジネスセンターを設置\[8\]
+      - 子会社整理として休眠状態であったディーシーエスビジネスパートナーを吸収合併\[9\]
+
+  - [2012年](../Page/2012年.md "wikilink") - MDビジネスパートナーが三菱総合研究所子会社のMRIスタッフサービスを吸収合併\[10\]
+
+      - 迪希思信息技術（上海）有限公司を設立。
+
+  - [2014年](../Page/2014年.md "wikilink") - MRIDCS Americas, Inc.を設立。
+
+  - [2016年](../Page/2016年.md "wikilink") - HRソリューションDCS株式会社を設立。
+
+  - [2018年](../Page/2018年.md "wikilink") - 株式会社オプト・ジャパンを吸収合併。
+
+## 提携会社
+
+  - [三菱総合研究所](https://ja.wikipedia.org/wiki/三菱総合研究所 "wikilink")
+  - [三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")
+  - [三菱UFJリサーチ&コンサルティング](../Page/三菱UFJリサーチ&コンサルティング.md "wikilink")
+
+## 子会社・関連会社
+
+  - MDビジネスパートナー
+  - 東北ディーシーエス
+  - MRIバリューコンサルティング・アンド・ソリューションズ
+  - ユービーエス
+  - アイ・ティー・ワン
+  - 迪希思信息技術（上海）有限公司
+  - MRIDCS Americas, Inc.
+  - HRソリューションDCS株式会社
+
+## 外部リンク
+
+  - [三菱総研DCS株式会社](http://www.dcs.co.jp/)
+
+## 脚注
+
+<references/>
+
+[Category:三菱UFJフィナンシャル・グループ](https://ja.wikipedia.org/wiki/Category:三菱UFJフィナンシャル・グループ "wikilink") [Category:日本のシステムインテグレータ](https://ja.wikipedia.org/wiki/Category:日本のシステムインテグレータ "wikilink") [Category:日本の情報処理サービス業](https://ja.wikipedia.org/wiki/Category:日本の情報処理サービス業 "wikilink") [Category:アウトソーシング業](https://ja.wikipedia.org/wiki/Category:アウトソーシング業 "wikilink")
+
+1.  [平成24年4月1日付 役員・部長人事異動と機構改革および子会社役員人事異動を実施](http://www.dcs.co.jp/history/pdf/2012/120330.pdf)
+2.  [三菱総研DCS ビジネスプロセスアウトソーシング事業を拡大 ～ユニ･チャームグループのシェアードサービス会社への出資について～](http://www.dcs.co.jp/history/pdf/2010/100201.pdf)
+3.  [合弁事業の組織再編に関するお知らせ](http://www.dcs.co.jp/history/pdf/2010/100323.pdf)
+4.  [ERP連結子会社の合併について](http://www.dcs.co.jp/history/pdf/2010/100827_02.pdf)
+5.  [三菱総研DCS、オプト・ジャパン 学校法人向けビジネス拡大に向けた資本提携について](http://www.dcs.co.jp/history/pdf/2010/100924_01.pdf)
+6.  [三菱総研DCS、アイ・ティー・ワン システム基盤構築技術強化に向けた資本提携について](http://www.dcs.co.jp/history/pdf/2011/110510.pdf)
+7.  [事務関連ビジネスの強化に向けたグループ会社再編について](http://www.dcs.co.jp/history/pdf/2011/111118_02.pdf)
+8.  [BPO事業の拠点「東京ビジネスセンター」の新設について](http://www.dcs.co.jp/history/pdf/2011/111209.pdf)
+9.
+10.

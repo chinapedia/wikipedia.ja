@@ -1,0 +1,41 @@
+> この記事は[FZX](https://ja.wikipedia.org/wiki/FZX)から翻訳されています。
+
+
+**FZX**（エフゼットエックス）は、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が販売していた[オートバイ](../Page/オートバイ.md "wikilink")の車種名である。[排気量](../Page/排気量.md "wikilink")を付さず単にFZXと称する場合は[750ccの](https://ja.wikipedia.org/wiki/ナナハン "wikilink")「FZX750」を指す場合が多い。なお250ccネイキッド「[ジール](https://ja.wikipedia.org/wiki/ヤマハ・ジール "wikilink")」の機種名も「FZX250」であるが、本項では[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")のシリーズ車両について詳述する。
+
+## モデル一覧
+
+### FZX750
+
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、総排気量自主規制によって輸出専用車種であった[VMaxのイメージと重なる国内モデルとして](https://ja.wikipedia.org/wiki/ヤマハ・VMAX "wikilink")、**FZX750**（型式2AK）の販売が開始された。VMaxの[V型4気筒](../Page/V型4気筒.md "wikilink")とは異なり、スポーツモデル「[FZ750](../Page/ヤマハ・FZ750.md "wikilink")」に搭載されている45度前傾[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[DOHC](../Page/DOHC.md "wikilink")[5バルブエンジン](https://ja.wikipedia.org/wiki/5バルブエンジン "wikilink")を、クラス上限の77psを維持しつつ、中低速重視のセッティングに変更して搭載した。 低いシート高、バーハンドルのライディングポジション、十分にパワフルなエンジンの組み合わせで、市街地から峠道までそつなくこなすオールラウンダーであった。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")には型式・3XFとしてモデルチェンジ。[トランスミッション](../Page/トランスミッション.md "wikilink")を6速から5速へ変更し、エンジンの最高出力を74psにデチューン。より中低速重視のセッティングとされた。その後一旦生産中止となり[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に再発売されたものの、自動二輪車にも排出ガス規制が成される事となり[平成12年](https://ja.wikipedia.org/wiki/平成12年 "wikilink")を最後に生産を終了した。FZ750同様、クランクケースを[FZR1000と共有する](https://ja.wikipedia.org/wiki/ヤマハ・FZR "wikilink")。
+
+市販車としては、VMaxの逆輸入車が相当数流通しており、また750cc超二輪車の国内販売が解禁されVMaxの国内仕様が販売開始されたこと等から、本車をVMaxの**劣化版**とみなす向きもおり、人気車種とはならなかった（所謂**マイナー車**）ものの、その扱いやすい特性から、[ホンダの](../Page/本田技研工業.md "wikilink")[CBX750ホライゾンとともに](../Page/ホンダ・CBX750.md "wikilink")[限定解除審査](../Page/限定解除審査.md "wikilink")の試験車両として、また大型自動二輪教習の開始された[自動車教習所](../Page/自動車教習所.md "wikilink")でも教習車として採用された。
+
+#### 教習車、技能試験車
+
+前出の通り、自動車教習所・各都道府県の運転免許センターで、教習車・技能試験車として多数用いられていた（FZX750L）。後年、ホンダから総合性能に優れる[CB750の教習車仕様が販売され](https://ja.wikipedia.org/wiki/ホンダ・CB750 "wikilink")、ヤマハを含む各社750ccクラスの教習車が出揃うと経年式のFXZから代替対象となっていく。
+
+低シート高の教習車として[ハーレーダビッドソン・XL883を広告宣伝を兼ねて導入](https://ja.wikipedia.org/wiki/ハーレーダビッドソン・スポーツスター "wikilink")・運用する教習所が増え、またCB750よりも足つき性に優れた[ホンダ・NC](https://ja.wikipedia.org/wiki/ホンダ・NC "wikilink")750Lが販売開始された事や[償却の終了を理由としてFZXの代替が加速しているものの](../Page/減価償却.md "wikilink")、若者のバイク離れや人口減少による教習生の減少によって代替もままらない教習所も少なからずあり、また技能試験受験者が多いとは言えない大型自動二輪車の為に新たな予算を割けない運転免許センターの事情もあって、教習仕様車でも足つき性に難のある者が教習を受ける、技能試験を受験する場合に備え、僅かに残ったFZXを**温存**している教習所・運転免許センターもある。
+
+{{-}}
+
+### Yamaha Fazer
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Yamaha_FZX_Fazer.JPG "wikilink") 輸出専用モデル。仕向け地によって各種あるが、[EU向けはフルパワー](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")96PSであった。また、国内仕様との外観上の最も違う部分は、タンデムグリップである。国内仕様はシートにあるベルトだが、輸出仕様車はダブルシート後方にアルミダイキャスト製のグリップがある。あとはバックミラーが国内が角型なのに対し、輸出は丸型である。勿論、スピードメーターは輸出は240km/hのフルスケールであった。
+
+国内仕様では紺やシルバーといった落ち着いたカラーしかなかったが、輸出ではアップルレッドなどの明るめの塗色もあり、ニーズの違いを感じる。
+
+サイドカバー上の車名エンブレムは『Fazar』と『FZX』の二種類があった。
+
+対米輸出モデルに関しては、当時の関税の絡みで700ccとなったエンジンを積んだモデルとされた。輸出モデルは最後まで6段リターンのままであった。 {{-}}
+
+## 関連項目
+
+  - [ヤマハ・ジール](https://ja.wikipedia.org/wiki/ヤマハ・ジール "wikilink") - 250ccのオートバイ「FZX250」
+
+## 外部リンク
+
+  - [ヤマハ発動機 ニュースリリース 1998年6月（FZX750）](http://global.yamaha-motor.com/jp/news/1998/0601/fzx750.html)
+  - [BBB The History 時代を彩ったバイクたち ヤマハ FZX750](http://www.bbb-bike.com/history/data19_1.html)
+
+[Category:ヤマハのオートバイの車種](https://ja.wikipedia.org/wiki/Category:ヤマハのオートバイの車種 "wikilink")

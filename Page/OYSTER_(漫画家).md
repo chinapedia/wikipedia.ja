@@ -1,0 +1,196 @@
+> この記事は[OYSTER \(\)](https://ja.wikipedia.org/wiki/OYSTER_\(\))から翻訳されています。
+
+
+**ÖYSTER**（オイスター）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。既婚。配偶者は漫画家の[成原とんみ](https://ja.wikipedia.org/wiki/成原とんみ "wikilink")\[1\]。ペンネームの由来は[ブルー・オイスター・カルト](../Page/ブルー・オイスター・カルト.md "wikilink")から\[2\]。
+
+代表作は『**[超可動ガール1/6](https://ja.wikipedia.org/wiki/超可動ガール1/6 "wikilink")**』（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")）、『**[男爵校長](https://ja.wikipedia.org/wiki/男爵校長 "wikilink")**』（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")）、『**[光の大社員](https://ja.wikipedia.org/wiki/光の大社員 "wikilink")**』（双葉社）。
+
+高い画力の万能な絵柄と独特の[シュール](https://ja.wikipedia.org/wiki/シュール "wikilink")かつハイテンションな作風で個性的なギャグ4コマを繰り出す。その一方『[ケロロ軍曹](https://ja.wikipedia.org/wiki/ケロロ軍曹 "wikilink")』などの漫画家[吉崎観音](../Page/吉崎観音.md "wikilink")の背景作画[アシスタントを務める](https://ja.wikipedia.org/wiki/アシスタント_\(漫画\) "wikilink")。
+
+## 略歴
+
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")以降、[ブロッコリー発行のアンソロジーコミックなどに短編作品を掲載](../Page/ブロッコリー_\(企業\).md "wikilink")。
+  - [2002年](../Page/2002年.md "wikilink")からは双葉社発行のゲーム4コマアンソロジーシリーズ[4コマまんが王国](https://ja.wikipedia.org/wiki/4コマまんが王国 "wikilink")、[4コマKINGDOM](https://ja.wikipedia.org/wiki/4コマKINGDOM "wikilink")などで活躍。
+  - 同年にはWEB[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")[ファンクラブ](https://ja.wikipedia.org/wiki/ファンクラブ "wikilink")内にて[藤井昌浩](https://ja.wikipedia.org/wiki/藤井昌浩 "wikilink")、[神楽つな](../Page/神楽つな.md "wikilink")、[森山一保](https://ja.wikipedia.org/wiki/森山一保 "wikilink")とWEB4コマを連載。のちにカプコン4コマコミック『[カプよん](https://ja.wikipedia.org/wiki/カプよん "wikilink")』（双葉社）としてVol.1 - 3が発行された。
+  - [2003年](../Page/2003年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")には[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")の月刊ゲーム情報誌『[Nintendo Kids](https://ja.wikipedia.org/wiki/Nintendo_Kids "wikilink")』内で連載していた『[ゼルダの伝説 風のタクト](https://ja.wikipedia.org/wiki/ゼルダの伝説_風のタクト "wikilink")』の4コマが、『風のタクト』における[任天堂](../Page/任天堂.md "wikilink")唯一の公認コミックとして初めての単行本化を果たす。
+  - [2004年](../Page/2004年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink")に[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")の月刊4コマ誌『[もえよん](https://ja.wikipedia.org/wiki/もえよん "wikilink")』創刊に伴い、自身初のオリジナル4コマ作品「男爵校長」連載開始。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月12日](../Page/9月12日.md "wikilink")には**アクションコミックスもえよん**第1弾として単行本第1巻が発売された。[とらのあな](../Page/コミックとらのあな.md "wikilink")、[ゲーマーズ](../Page/ゲーマーズ.md "wikilink")、[メロンブックス](https://ja.wikipedia.org/wiki/メロンブックス "wikilink")では各店舗で著者直筆のメッセージペーパーや[ポストカードの特典がついた](https://ja.wikipedia.org/wiki/はがき "wikilink")。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月18日](../Page/9月18日.md "wikilink")、[K-BOOKS](../Page/K-BOOKS.md "wikilink")[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")新館にて単行本発売記念として初のサイン会を開催。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月9日](../Page/7月9日.md "wikilink")にもえよんの休刊により、「男爵校長」が『[まんがタウンオリジナル](https://ja.wikipedia.org/wiki/まんがタウンオリジナル "wikilink")』に移籍。それを機に[まんがタウン](https://ja.wikipedia.org/wiki/まんがタウン "wikilink")系のファミリー4コマ誌に活躍の場を移す。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月](../Page/8月.md "wikilink")から双葉社の月刊[ムック](https://ja.wikipedia.org/wiki/ムック_\(出版\) "wikilink")『[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")凄い攻略やってます』内の『[ファミコン大放談](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")』のコーナーにて、ファミコンに関する対談とファミコン4コマ×2本連載（隔月連載）。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月20日](../Page/7月20日.md "wikilink")に『まんがタウンオリジナル』の休刊により、「男爵校長」が『[コミックハイ\!](https://ja.wikipedia.org/wiki/コミックハイ! "wikilink")』に移籍。
+  - [2007年](../Page/2007年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")に『男爵校長』最終回を宣言。但し完結ではなく、翌月（[3月22日](../Page/3月22日.md "wikilink")）より『**男爵校長DS**』と改題して連載再開。
+
+## 作品リスト
+
+### オリジナル作品
+
+  - [武者武者道中 ティラの介](../Page/武者武者道中_ティラの介.md "wikilink") - [Nintendo Kids](https://ja.wikipedia.org/wiki/Nintendo_Kids "wikilink")（双葉社）2003年5月号 - 2004年4月号
+  - 男爵校長
+      -
+      - 男爵校長DS - 『男爵校長』より2007年3月左記に改題。
+
+      - 男爵校長High\! - 『男爵校長DS』より2009年6月、左記に改題。
+  - [光の大社員](https://ja.wikipedia.org/wiki/光の大社員 "wikilink")
+      - 掲載誌
+          - まんがタウン（双葉社） 2005年12月号 - 2006年2月号 ※3号連続ゲスト（各6ページ）
+          - まんがタウン（双葉社） 2006年3月号 - 2013年10月号
+  - [毎週火曜はチューズデイ\!](https://ja.wikipedia.org/wiki/毎週火曜はチューズデイ! "wikilink") - [まんがタイムオリジナル](https://ja.wikipedia.org/wiki/まんがタイムオリジナル "wikilink")（[芳文社](https://ja.wikipedia.org/wiki/芳文社 "wikilink")） 2007年5月号 - 2009年4月号
+  - ナルハヤでお願い\! - [まんがタイムきらら](https://ja.wikipedia.org/wiki/まんがタイムきらら "wikilink")（芳文社） 2005年5月号 ※ゲスト読みきり（6ページ）
+  - [超可動ガール1/6](https://ja.wikipedia.org/wiki/超可動ガール1/6 "wikilink") - コミックハイ\!（双葉社） 2012年8月号 - 2015年6月号（最終号）、[月刊アクション](https://ja.wikipedia.org/wiki/月刊アクション "wikilink")（双葉社）2015年10月号 - 2016年1月号
+      - 超可動ガールズ - 『月刊のアクション』2017年9月 - 連載中、『月刊アクション』2018年11月号 - 連載中
+  - [シネマちっくキネ子さん](https://ja.wikipedia.org/wiki/シネマちっくキネ子さん "wikilink") - [まんがホーム](https://ja.wikipedia.org/wiki/まんがホーム "wikilink")（芳文社） 2012年9月号 - 2015年8月号
+  - ど先端ナース - まんがタウン（双葉社）2014年1月号 - 2016年6月号
+      - 単行本（アクションコミックス 双葉社）全2巻
+        1.  2015年5月28日発売 ISBN 978-4-575-94449-5
+        2.  2016年6月28日発売 ISBN 978-4-575-94477-8
+  - [新婚のいろはさん](https://ja.wikipedia.org/wiki/新婚のいろはさん "wikilink") - まんがタウン（双葉社）2016年9月号 - 連載中
+
+### ゲームコミック作品
+
+  - ゼルダの伝説 風のタクト リンクの4コマ航海記 - ニンテンドーキッズ（双葉社） 03年-月号-04年3月号
+      - 単行本（双葉社）
+        1.  03年10月28日発売 ISBN 4-575-93858-0
+  - ウムルとタウィル（[タカラトミー](https://ja.wikipedia.org/wiki/タカラトミー "wikilink")『[WIXOSS](https://ja.wikipedia.org/wiki/WIXOSS "wikilink")』公式サイト上で連載） 2016年2月19日 -
+      - 単行本（[ホビージャパン](../Page/ホビージャパン.md "wikilink")）
+        1.  2018年2月15日初版発行 ISBN 978-4-7986-1626-1
+
+### 4コマまんが王国
+
+双葉社
+
+  - トマトアドベンチャー4コマまんが王国 - 02/02/12
+      - 『トマトでショー』 （14ページ）
+  - ルイージマンション4コマまんが王国 - 02/03/12
+      - 『そうだね･･･兄さんそうだね\!』（10ページ）
+  - どうぶつの森+4コマまんが王国 - 02/03/28
+      - 『動物たちの午後』（10ページ）
+  - モンスターファームアドバンス4コマまんが王国 - 02/04/30
+      - 『ほんの少し昔の物語』 （8ページ）+表紙イラスト
+  - 動物番長4コマまんが王国 - 02/06/28
+      - 『イノチをかけて生きてます』 （12ページ）
+  - ファイアーエムブレム封印の剣4コマまんが王国 - 02/08/28
+      - 『蒼衣の公子ロイ』（10ページ）+表紙イラスト
+  - スーパーマリオサンシャイン4コマまんが王国 - 02/10/28
+      - 『スーパーマリオサンシャイン4コマまんが小国』（16ページ）
+  - ロックマンX7 4コマまんが王国 - 03/12/26
+      - 『熱すぎる程、正義\!』 （8ページ）+表紙イラスト
+
+### 4コマKINGDOM
+
+双葉社
+
+  - ファンタシースターオンラインEPISODE1&2 4コマKINGDOM - 03/01/11
+      - 『この星は我々のモノだ\!』（8ページ）
+  - 魔界戦記ディスガイア4コマKINGDOM Vol.1 - 03/05/12
+      - 『ラ･ハーーーーーール\!』 （8ページ）
+  - ファントム･ブレイブ4コマKINGDOM - 04/03/27
+      - 『化けて出るわよ\!』（8ページ）
+  - スペクトラルフォース ラジカルエレメンツ4コマKINGDOM - 04/11/12
+      - 『お城だジョー』（8ページ）+カラーイラスト
+  - ステラデウス4コマKINGDOM - 05/01/12
+      - 『射手の女の子に弱いようデウス』（8ページ）+中扉イラスト
+  - ファントム･キングダム4コマKINGDOM - 05/04/28
+      - カラーイラストのみ
+
+### 4コマ戦線
+
+双葉社
+
+  - [スーパーロボット大戦IMPACT](https://ja.wikipedia.org/wiki/スーパーロボット大戦IMPACT "wikilink") 4コマ戦線VOL.1 - 02/06/12
+      - 『有名なブライトさんだ』（8ページ）
+  - スーパーロボット大戦IMPACT 4コマ戦線VOL.2 - 02/09/12
+      - 『コーヒーにブライト』（8ページ）
+  - スーパーロボット大戦MX4コマ戦線 - 04/08/11
+      - 表紙イラストのみ
+
+### カプよん
+
+双葉社
+
+  - カプコン4コマコミック カプよんVol.1 - 03/03/28
+      - 『計算機械の入るトコロ』 （計28ページ）
+  - カプコン4コマコミック カプよんVol.2 - 03/10/11
+      - 『カプさん\!コンさん\!懲らしめてやりなさい\!』（計29ページ）
+  - カプコン4コマコミック カプよんVol.3 - 04/08/11
+      - 『カプコンでした』（計30ページ）
+
+### アンソロジー関連作品
+
+#### 双葉社
+
+  - [かりあげクン](../Page/かりあげクン.md "wikilink")トリビュート - 05/11/28
+      - 『まるっきりかりあげクン』（4ページ）
+  - スーパーロボット大戦IMPACTアンソロジーVol.8 - 02/--/--
+      - 『勇者になる時』
+
+#### エンターブレイン
+
+  - 魔界戦記ディスガイア アンソロジーコミックVol.1 - 03/07/25
+      - 『その男は「忙しい」と叫んだ』（4ページ）
+  - 魔界戦記ディスガイア アンソロジーコミックVol.2 - 03/--/--
+      - 『荒野のウォルナット』（4ページ）
+
+#### ブロッコリー
+
+  - あすか120% アナザーストーリー3 - 97/01/19
+      - 『こんこん』（8ページ）
+  - あすか120% アナザーストーリー4 - 97/01/19
+      - 『猿逃げてるよー』（8ページ）
+  - トゥルーラブストーリー コミックアンソロジー2 - 98/01/17
+      - 『寝待月』 （24ページ）
+  - トゥルーラブストーリー コミックアンソロジー3 - 98/03/20
+      - 『イッツ･ア･ロング･ロード』（24ページ）
+  - バトルアスリーテス大運動会 コミックアンソロジー - 98/05/21
+      - 『ハコの中身』（16ページ）
+  - デビルサマナーソウルハッカーズ コミックアンソロジー2 - 98/06/25
+      - 『月とドラマ –Your Master is a Monster-』（26ページ）
+  - ギルティギア コミックアンソロジー - 98/08/19
+      - 『ひとりあるくねこ』 『Sは"Sceptic"（懐疑）のS』 『ルミュエルに問う』（各8ページ）
+  - トライガン コミックアンソロジー - 99/01/20
+      - 『劣化弾』（16ページ）
+  - トライガン コミックアンソロジー2 - 99/05/23
+      - 『トースト賛歌』（16ページ）
+
+### 寄稿
+
+  - [古賀亮一](../Page/古賀亮一.md "wikilink")『[ゲノム (漫画)](https://ja.wikipedia.org/wiki/ゲノム_\(漫画\) "wikilink")』2巻　男爵船長の4コマ漫画
+  - [ボマーン](https://ja.wikipedia.org/wiki/ボマーン "wikilink")『[ヒントでみんと\!](https://ja.wikipedia.org/wiki/ヒントでみんと! "wikilink")』2巻
+
+## OKウサギ
+
+ÖYSTERが携わる漫画作品にしばしば登場するオリジナル[キャラクター](../Page/キャラクター.md "wikilink")。
+
+姿は、真っ黒で大きな丸い[目](../Page/目.md "wikilink")及び同様の丸い[鼻](../Page/鼻.md "wikilink")、大きく開いた[口](../Page/口.md "wikilink")と高く突き出した（作品によっては長く屈曲した）[耳](../Page/耳.md "wikilink")を持ち、人差し指と中指を突きたてるいわゆる「Vサイン」を作った両手を高々と頭上に掲げた二本足で立つ[ウサギ](../Page/ウサギ.md "wikilink")。
+
+ただしおよそ[一般的なウサギキャラクターというよりは](https://ja.wikipedia.org/wiki/ウサギを主題とする作品一覧 "wikilink")、[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")の漫画『[もーれつア太郎](https://ja.wikipedia.org/wiki/もーれつア太郎 "wikilink")』や『[おそ松くん](https://ja.wikipedia.org/wiki/おそ松くん "wikilink")』に登場する「ニャロメ」を彷彿とさせるまでに極端な[デフォルメ](https://ja.wikipedia.org/wiki/デフォルメ "wikilink")を施されたキャラクターである。
+
+なお名前の「[OK](../Page/OK.md "wikilink")」とは、『男爵校長』登場時のエピソードによれば「何でも『OK\!』（Okay＝承諾を表す[英語](../Page/英語.md "wikilink")）と安請け合いをしてしまう」ウサギであることを示しており、件のポーズも「OK\!」と承諾を示す姿を表現している。
+
+### OKウサギが登場する作品
+
+  - ケロロ軍曹
+    アシスタントを担当しているためか、原作中にしばしば登場する。以下はその一例である。
+      - 第51話では[夏美が遊んでいた](https://ja.wikipedia.org/wiki/日向夏美 "wikilink")「とってもかわいらしい動物の住民になって暮らす[ゲーム](../Page/コンピュータゲーム.md "wikilink")」の住人として登場した。
+      - 第59話では[クルル曹長が作った](../Page/クルル_\(ケロロ軍曹\).md "wikilink")「[就職](https://ja.wikipedia.org/wiki/就職 "wikilink")できるクスリ」の材料プラント内に材料の一つとして入れられていた。
+      - 第67話では[ケロロ](https://ja.wikipedia.org/wiki/ケロロ "wikilink")軍曹が持っていた[動物](https://ja.wikipedia.org/wiki/動物 "wikilink")[絵本](../Page/絵本.md "wikilink")の表紙に登場した。
+  - 男爵校長
+    『まんがタウンオリジナル』連載時の第11話にて、ストラップアクセサリ・絵本・ゲームなどのグッズキャラクターとして登場。この回におけるテーマとなっている。
+  - 光の大社員
+    第6話にて主人公の属する玩具会社「アルクメ」が開発した[玩具](../Page/玩具.md "wikilink")として登場。
+  - [武者武者道中 ティラの介](../Page/武者武者道中_ティラの介.md "wikilink")
+    ナレーターやスズシロの呼びかけに応じるなどして8回登場する。
+  - [新婚のいろはさん](https://ja.wikipedia.org/wiki/新婚のいろはさん "wikilink")
+    テレビゲーム「パズルでピョン」の画面に登場。
+
+## 出典
+
+## 外部リンク
+
+  -
+  -
+  -
+[Category:日本の漫画家](https://ja.wikipedia.org/wiki/Category:日本の漫画家 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+
+1.
+2.

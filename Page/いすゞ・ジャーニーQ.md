@@ -1,0 +1,76 @@
+> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+
+
+**いすゞ・ジャーニーQ**（**Journey Q**）はかつて[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")が[製造](../Page/製造業.md "wikilink")・[販売](../Page/販売.md "wikilink")していた、[マイクロバス](https://ja.wikipedia.org/wiki/マイクロバス "wikilink")[ジャーニーシリーズのうち](../Page/いすゞ・ジャーニー.md "wikilink")、フロントエンジン仕様の中・小型バスで、主に[北村製作所](https://ja.wikipedia.org/wiki/北村製作所 "wikilink")で架装された。本稿ではこれを主軸に述べる。（なお、29人以上乗りの**[リヤエンジン](https://ja.wikipedia.org/wiki/リヤエンジン "wikilink")バス**については[いすゞ・ジャーニーK](../Page/いすゞ・ジャーニーK.md "wikilink")を参照）
+
+## 歴史・概要
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:by31.kitamura.jpg "wikilink")
+
+### BY30/31
+
+1968年にTY型中型トラックをベースにした[キャブオーバー](../Page/キャブオーバー.md "wikilink")バスとして登場。29人乗り。架装は[川崎重工業](https://ja.wikipedia.org/wiki/いすゞバス製造 "wikilink")・[北村製作所](https://ja.wikipedia.org/wiki/北村製作所 "wikilink")。自家用での導入がほとんどであった。このモデルは後にリヤエンジン中型バスBK32型[ジャーニーKへと進化する](../Page/いすゞ・ジャーニーK.md "wikilink")。
+
+### (K-)DBR370 初代ジャーニーQ
+
+[thumb](https://ja.wikipedia.org/wiki/画像:K-DBR370-Nara-Kotsu.jpg "wikilink") 1976年、エンジン出力増強の上DBR370になる。登場後まもなく、かなり角張った独特のスタイルにモデルチェンジされた。このスタイルはかなりインパクトが強かったようで、中型バスの[CCM/CDM系にも同様のスタイルの車体が採用された](https://ja.wikipedia.org/wiki/いすゞ・ジャーニーK#CCM/CDM系 "wikilink")。丸みを帯びていた大型バスと比較すると、同じ北村製車体とは思えないような車体であった。K-代まではこの形式で製造された。
+
+このモデルから「**ジャーニーQ**」という愛称がつけられた。ローカル路線バスでも採用されている。
+
+### P-MR112F
+
+[thumb](https://ja.wikipedia.org/wiki/画像:P-MR112F-Nara-Kotsu-Nanki.jpg "wikilink") 1984年、排ガス規制対応（P-代）に伴い、エンジン出力増強の上MR112Fになる。車体はDBR370とほぼ同様であったが、リアウインドウが大型化された。しかし、わずか2年でモデルチェンジされたこともあり、このモデルの販売台数は少ない。
+
+### P-MR112D/U-MR132D
+
+1986年にフルモデルチェンジを行った。[ホイールベース](../Page/ホイールベース.md "wikilink")を短縮した上にフロント[オーバーハングを拡大](https://ja.wikipedia.org/wiki/オーバーハング_\(自動車用語\) "wikilink")、[フロントエンジン車であるにも関わらず最前部へのドア設置を実現した](https://ja.wikipedia.org/wiki/後輪駆動#フロントエンジン・リアドライブ方式 "wikilink")。エンジンは6BG1型 (6,494 cc・175 ps) を採用。車体幅も拡大されているが、[運転席の脇に大きなエンジンカバーがあり](../Page/操縦席.md "wikilink")、客室内から運転席への出入りはやはり困難が伴うため、専用の乗務員ドアが設置されている。
+
+このモデルチェンジにより、他の路線車同様に2ドア車とすることが可能になり、事業者の仕様に合わせてトップドア（前扉のみ）・前中扉・前後扉の選択が可能となった。これに伴い、輸送量の少ない路線バスへの採用例が急増した。[ローカル路線のみならず](../Page/ローカル線.md "wikilink")、[奈良交通](https://ja.wikipedia.org/wiki/奈良交通 "wikilink")及び傘下の[エヌシーバス](https://ja.wikipedia.org/wiki/エヌシーバス "wikilink")など、[住宅地](../Page/住宅地.md "wikilink")の路線に投入したケースも多く見られた。また、[群馬中央バス](../Page/群馬中央バス.md "wikilink")のように、他にほとんどいすゞ車を導入していないにもかかわらず、少数台数ながらローカル路線用に導入したケースもあるなど、路線バス車両としてはかなり広範囲に導入された。このことから、現在でも「ジャーニーQ」といえば、このモデルのことと認識している[バスファン](../Page/バスファン.md "wikilink")も多い。
+
+貸切車・自家用車ではトップドア仕様の他、中扉のみの仕様の導入例も少数ながら存在した。また、1989年（平成元年）の排ガス規制対応（U-代）と同時期には、この[シャシを利用してシアターフロアの貸切車](https://ja.wikipedia.org/wiki/シャシ_\(自動車\) "wikilink")「ロイヤルデッカー」が登場した。エンジンは[6HE1型](../Page/いすゞ・H系エンジン.md "wikilink") (7,127 cc・195 ps) に変更された。屋根後部が高くなる独特の外観が特徴で、[西日本JRバス](../Page/西日本ジェイアールバス.md "wikilink")・[東武鉄道](../Page/東武鉄道.md "wikilink")など、大手事業者での採用もみられた。
+
+しかし、マイクロバスを[リアエンジン](https://ja.wikipedia.org/wiki/リアエンジン "wikilink")仕様にした上でホイールベースを変更し、トップドア設置を可能にした[日野・レインボーRBが登場](https://ja.wikipedia.org/wiki/日野・レインボー#レインボーRB・AB系 "wikilink")、さらに2扉仕様も可能な[リエッセが登場すると](../Page/日野・リエッセ.md "wikilink")、フロントエンジンに起因する車内[騒音](../Page/騒音.md "wikilink")の低減が困難ということもあり、急速に販売台数は減少した。
+
+路線車に使用される場合においては、エンジンカバーの上に[運賃箱](https://ja.wikipedia.org/wiki/運賃箱 "wikilink")が設置されることになり、運賃箱の位置が異様に高い位置になる（このため、特注で背の低い運賃箱を採用した事業者も存在した）上、エンジンの[振動](../Page/振動.md "wikilink")から運賃箱の故障が多くなるという欠点もあった。また、「ロイヤルデッカー」は天井もガラス張りとなっていることから、[夏](../Page/夏.md "wikilink")は[冷房](../Page/冷房.md "wikilink")の効きが悪く、[冬](../Page/冬.md "wikilink")には[結露](../Page/結露.md "wikilink")を生じるといった問題もあった（冬の結露については、グラスルーフや[サンルーフ](../Page/サンルーフ.md "wikilink")装備車以外でも、窓面積の大きな車両全般に当てはまる問題である）。
+
+これらのことから、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）、[コーチビルダー](../Page/コーチビルダー.md "wikilink")である[北村製作所](https://ja.wikipedia.org/wiki/北村製作所 "wikilink")との提携解消と同時に、路線仕様車については生産を終了した。
+
+ファイル:P-MR112D-AgatsumaKanko.jpg|P-MR112D
+（路線仕様・前中扉）
+吾妻観光 ファイル:Isuzu Journey Q 001.JPG|P-MR112D
+（路線仕様・前後扉）
+奈良交通 ファイル:Iwatekenkotsu-63.jpg|U-MR132D
+（前扉）
+岩手県交通 ファイル:Isuzu MR132D roiyarudekka king haiya.jpg|U-MR132D
+（ロイヤルデッカー）
+キングハイヤー ファイル:Daiichi hire isuzu MR.jpg|U-MR132D
+（ロイヤルデッカー）
+大一ハイヤー
+
+### U-GR432F/KC-GR433F/KK-GR433F
+
+[1991年](../Page/1991年.md "wikilink")には[ミッドシップ](../Page/ミッドシップ.md "wikilink")にした上で全幅は[フルサイズ](https://ja.wikipedia.org/wiki/フルサイズ "wikilink")並みに拡大し、[スーパークルーザー調](../Page/いすゞ・スーパークルーザー.md "wikilink")[ハイデッカー](../Page/ハイデッカー.md "wikilink")仕様になった「**グランドロイヤル**」**GR**も販売された。マイクロバスとは思えない居住性を売り物とし、小規模貸切バス事業者のみならず、大手バス事業者にも採用された。
+
+なお、型式における[排出ガス規制識別記号以下の意味は](../Page/自動車排出ガス規制.md "wikilink")、ミッドシップエンジンを指す"G"、[GVW](https://ja.wikipedia.org/wiki/車両総重量 "wikilink")7.0 - 8.0トンクラスの"R"、フレーム付エアサスの"4"、[6H系エンジンの](https://ja.wikipedia.org/wiki/いすゞ・H系エンジン#6気筒モデル "wikilink")"32/33"、ホイールベース2,601 - 2,900 mmを表す"F"である。
+
+ファイル:IwatekenKotsu KC-GR433F No.297.jpg|GR433系（グランドロイヤル）
+岩手県交通
+
+## 車体製造
+
+1995年までは[北村製作所](https://ja.wikipedia.org/wiki/北村製作所 "wikilink")が担当していたが、1995年以降は[いすゞバス製造](https://ja.wikipedia.org/wiki/いすゞバス製造 "wikilink")に引き継がれ、2001年まで生産された。
+
+## 功績
+
+ジャーニーQの最終モデル(MR112D/MR132D)は多くの台数が販売されたものの、フロントエンジンという構造を最後まで踏襲した結果、路線バス車両としては多少無理があった面は否めない。しかし、7mクラスで2扉仕様という路線バス車両のニーズが高かったことは、ジャーニーQの販売台数・導入事業者の多さのみならず、その後7mクラスの2扉車モデルが各メーカーから多く開発・販売されていることからも明らかであり、自家用中心だった小型バス市場に一石を投じた存在といえる。
+
+なお、[1999年](../Page/1999年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")、いすゞの中型路線・観光バス[ジャーニーK（LR系）が](../Page/いすゞ・ジャーニーK.md "wikilink")15年ぶりにフルモデルチェンジを果たした。同時に、7mミディクラスのワンステップバスについても、[エルガミオシリーズの一員として久方ぶりにこのサイズの路線仕様が復活した](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink")。これについては[当該記事を参照されたい](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink")。
+
+[2003年](../Page/2003年.md "wikilink")からは、[日野自動車](../Page/日野自動車.md "wikilink")とのバス事業統合により、ジャーニーJ（RX系、[日野・リエッセ](../Page/日野・リエッセ.md "wikilink")との統合車種）が販売されていたが、[2011年](../Page/2011年.md "wikilink")8月を以って生産を終了した。これによりいすゞから小型路線バスのラインナップは三度び姿を消した。
+
+## 関連項目
+
+  - [いすゞ・ジャーニー](../Page/いすゞ・ジャーニー.md "wikilink")
+  - [いすゞ・エルガミオ](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink")
+
+[Category:いすゞの車種](https://ja.wikipedia.org/wiki/Category:いすゞの車種 "wikilink") [Category:マイクロバス](https://ja.wikipedia.org/wiki/Category:マイクロバス "wikilink")

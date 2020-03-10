@@ -1,0 +1,234 @@
+> この記事は[J:COM ](https://ja.wikipedia.org/wiki/J:COM_)から翻訳されています。
+
+
+**J:COM 市川・浦安**（ジェイコム いちかわ・うらやす）とは、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[ジェイコム千葉](https://ja.wikipedia.org/wiki/ジェイコム千葉 "wikilink")が運営する[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局のひとつ。
+
+## 事業所
+
+  - 事務所
+
+<!-- end list -->
+
+  - 市川浦安営業事務所（）
+      - 千葉県[市川市](../Page/市川市.md "wikilink")南八幡4丁目17番8号 コスモス本八幡ビル
+
+## 提供区域内自治体
+
+  - [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")
+      - [市川市](../Page/市川市.md "wikilink")、[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")
+
+## 主な放送チャンネル
+
+### 地上デジタル放送
+
+  - 表中、「伝送方式」欄の『部類』に関しては下記を参照。
+      - 「[PT](https://ja.wikipedia.org/wiki/ケーブルテレビ#パススルー方式 "wikilink")」はパススルー方式。
+      - 「[TM](https://ja.wikipedia.org/wiki/ケーブルテレビ#トランスモジュレーション方式 "wikilink")」はトランスモジュレーション方式。
+  - 表中、『記号』に関しては下記を参照。
+      - 「●」は視聴可能。
+      - 「▲」は一部エリアのみ視聴可能。
+      - 「×」は視聴不可。
+      - 「?」は不明。
+  - [2019年](../Page/2019年.md "wikilink")（[平成](../Page/平成.md "wikilink")31年）[4月1日](../Page/4月1日.md "wikilink")現在。
+
+<table>
+<thead>
+<tr class="header">
+<th><p><a href="../Page/リモコンキーID.md" title="wikilink">リ<br />
+モ<br />
+コ<br />
+ン<br />
+キ<br />
+</a></p></th>
+<th><p>放送局</p></th>
+<th><p>三桁<br />
+<a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></th>
+<th><p>伝送方式</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ケーブルテレビ#パススルー方式" title="wikilink">PT</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ケーブルテレビ#トランスモジュレーション方式" title="wikilink">TM</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a>・<a href="../Page/NHK放送センター.md" title="wikilink">東京</a></p></td>
+<td><p>011<br />
+012</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">NHKEテレ東京</a></p></td>
+<td><p>021<br />
+022<br />
+023</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/千葉テレビ放送" title="wikilink">チバテレビ</a></p></td>
+<td><p>031<br />
+032</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p><a href="../Page/テレビ神奈川.md" title="wikilink">tvk</a></p></td>
+<td><p>031<br />
+032<br />
+033</p></td>
+<td><p>▲</p></td>
+<td><p>▲</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ</a></p></td>
+<td><p>041<br />
+042</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a></p></td>
+<td><p>051<br />
+052<br />
+053</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS</a></p></td>
+<td><p>061<br />
+062</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a></p></td>
+<td><p>071<br />
+072<br />
+073</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビジョン</a></p></td>
+<td><p>081<br />
+082<br />
+083</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p><a href="../Page/東京メトロポリタンテレビジョン.md" title="wikilink">TOKYO MX</a></p></td>
+<td><p>091<br />
+092<br />
+093</p></td>
+<td><p>●</p></td>
+<td><p>●</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/J:COMテレビ" title="wikilink">J:COMテレビ</a></p></td>
+<td><p>101<br />
+102</p></td>
+<td><p>●</p></td>
+<td><p>×</p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/J:COMチャンネル#関東エリア" title="wikilink">J:COMチャンネル市川</a></p></td>
+<td><p>111<br />
+112</p></td>
+<td><p>▲</p></td>
+<td><p>▲</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/J:COMチャンネル#関東エリア" title="wikilink">J:COMチャンネル浦安</a></p></td>
+<td><p>111<br />
+112</p></td>
+<td><p>▲</p></td>
+<td><p>▲</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### FMラジオ
+
+  - [2019年](../Page/2019年.md "wikilink")（[平成](../Page/平成.md "wikilink")31年）[4月1日](../Page/4月1日.md "wikilink")現在。
+
+| MHz  | 放送局                                                                                             | 備考                                                               |
+| ---- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 市川   | 浦安                                                                                              |                                                                  |
+| 77.5 | [bayfm](../Page/ベイエフエム.md "wikilink")                                                           | [NACK5](../Page/エフエムナックファイブ.md "wikilink")                       |
+| 78.3 | \-                                                                                              | [Fm yokohama](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink") |
+| 79.1 | NACK5                                                                                           | [J-WAVE](../Page/J-WAVE.md "wikilink")                           |
+| 80.4 | [TOKYO FM](../Page/エフエム東京.md "wikilink")                                                        | \-                                                               |
+| 81.6 | [NHK千葉](../Page/NHK千葉放送局.md "wikilink")-[FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") | \-                                                               |
+| 81.7 | \-                                                                                              | [InterFM](../Page/InterFM.md "wikilink")897                      |
+| 83.2 | J-WAVE                                                                                          | TOKYO FM                                                         |
+| 83.8 | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[東京](../Page/NHK放送センター.md "wikilink")-FM  |                                                                  |
+| 84.4 | [市川うららFM](../Page/エフエム浦安.md "wikilink")                                                         | NHK千葉-FM                                                         |
+| 85.0 | \-                                                                                              | 市川うららFM                                                          |
+| 85.6 | \-                                                                                              | bayfm                                                            |
+| 85.7 | Fm yokohama                                                                                     | \-                                                               |
+|      |                                                                                                 |                                                                  |
+
+### BSデジタル放送・専門チャンネル
+
+## コミュニティチャンネル
+
+### 放送番組
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [株式会社ジュピターテレコム](../Page/ジュピターテレコム.md "wikilink")
+      - [ジュピターテレコム ケーブルTV事業部門](https://ja.wikipedia.org/wiki/ジュピターテレコム_ケーブルTV事業部門 "wikilink")
+          - [株式会社ジェイコム千葉](https://ja.wikipedia.org/wiki/ジェイコム千葉 "wikilink")
+              - [J:COM YY船橋習志野](https://ja.wikipedia.org/wiki/J:COM_YY船橋習志野 "wikilink")
+              - [J:COM 木更津](../Page/J:COM_木更津.md "wikilink")
+              - [J:COM 千葉セントラル](https://ja.wikipedia.org/wiki/J:COM_千葉セントラル "wikilink")
+              - [J:COM 東葛・葛飾](https://ja.wikipedia.org/wiki/J:COM_東葛・葛飾 "wikilink")
+  - [ケーブルテレビ局の一覧](../Page/ケーブルテレビ局の一覧.md "wikilink")
+  - [ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")
+  - [一般社団法人日本ケーブルテレビ連盟](../Page/日本ケーブルテレビ連盟.md "wikilink")
+  - [一般社団法人日本CATV技術協会](../Page/日本CATV技術協会.md "wikilink")
+  - [一般社団法人日本ケーブルラボ](../Page/日本ケーブルラボ.md "wikilink")
+  - [エフエム浦安](../Page/エフエム浦安.md "wikilink")
+
+## 外部リンク
+
+  - [あなたの街のJ:COM 市川](https://c.myjcom.jp/town/ichikawa/)
+  - [あなたの街のJ:COM 浦安](https://c.myjcom.jp/town/urayasu/)
+  - [J:COMチャンネル市川](https://c.myjcom.jp/jch/ichikawa/)
+  - [J:COMチャンネル浦安](https://c.myjcom.jp/jch/urayasu/)
+
+[Category:J:COM](https://ja.wikipedia.org/wiki/Category:J:COM "wikilink") [Category:千葉県のケーブルテレビ局](https://ja.wikipedia.org/wiki/Category:千葉県のケーブルテレビ局 "wikilink") [Category:市川市](https://ja.wikipedia.org/wiki/Category:市川市 "wikilink")

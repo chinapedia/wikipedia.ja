@@ -1,0 +1,43 @@
+> この記事は[Beautiful World \(\)](https://ja.wikipedia.org/wiki/Beautiful_World_\(\))から翻訳されています。
+
+
+'''Beautiful World '''（ビューティフル・ワールド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の29作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。
+
+[1992年](../Page/1992年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink")[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")／イーストワールドよりリリース。
+
+## 解説
+
+「[彼は眠れない](../Page/彼は眠れない.md "wikilink")」（[1989年](../Page/1989年.md "wikilink")）以降続く[吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink")プロデュース作品。
+
+作家陣にも作曲では気鋭の若手起用は[楠瀬誠志郎](../Page/楠瀬誠志郎.md "wikilink")1人に留まり[井上大輔](https://ja.wikipedia.org/wiki/井上大輔 "wikilink")、[大野克夫](../Page/大野克夫.md "wikilink")といった先輩格や[南佳孝](https://ja.wikipedia.org/wiki/南佳孝 "wikilink")、[ムーンライダーズ](../Page/ムーンライダーズ.md "wikilink")の[鈴木慶一](../Page/鈴木慶一.md "wikilink")（アルバム「[MIS CAST](https://ja.wikipedia.org/wiki/MIS_CAST "wikilink")」での競演はあるが曲提供は初めて）など2〜3歳下の同世代が多く起用されている。なお作詞については前作に続いて[覚和歌子](../Page/覚和歌子.md "wikilink")がすべて携わる形となった。
+
+[早川タケジ](https://ja.wikipedia.org/wiki/早川タケジ "wikilink")がデザインワークを外れ、本作は[信藤三雄](../Page/信藤三雄.md "wikilink")率いるC.T.P.P.が担当している。
+
+C.T.P.P.のデザイン提案は[新宿大ガード](https://ja.wikipedia.org/wiki/新宿大ガード "wikilink")で沢田がホームレスの格好をして撮影をするという過激なものだったが沢田の要望により却下された。
+
+## 収録曲
+
+1.  **alone**
+      - 作詞:覚和歌子／作曲:井上大輔／編曲:小林信吾
+2.  **SOMEBODY'S CRYIN**'
+      - 作詞:覚和歌子／作曲:沢田研二／編曲:小林信吾
+3.  **太陽のひとりごと**
+      - 作詞:覚和歌子／作曲・コーラスアレンジ:楠瀬誠志郎／編曲:吉田建
+4.  **坂道**
+      - 作詞:覚和歌子／作曲:鈴木慶一／編曲:吉田建
+5.  **a long good-bye**
+      - 作詞:覚和歌子／作曲・編曲:吉田建
+6.  **Beautiful World**
+      - 作詞:覚和歌子／作曲・編曲:吉田建
+7.  **懲りないスクリプト**
+      - 作詞:覚和歌子／作曲:沢田研二／編曲:吉田建
+8.  **SAYONARA**
+      - 作詞:覚和歌子／作曲:南佳孝／編曲:吉田建
+9.  **月明かりなら眩しすぎない**
+      - 作詞:覚和歌子／作曲:大野克夫／編曲:小林信吾
+10. **約束の地**
+      - 作詞:覚和歌子／作曲:MARS／編曲:吉田建
+11. **Coourage**
+      - 作詞:覚和歌子、沢田研二／作曲:沢田研二／編曲:吉田建
+
+[Category:沢田研二のアルバム](https://ja.wikipedia.org/wiki/Category:沢田研二のアルバム "wikilink") [Category:1992年のアルバム](https://ja.wikipedia.org/wiki/Category:1992年のアルバム "wikilink") [Category:イーストワールドのアルバム](https://ja.wikipedia.org/wiki/Category:イーストワールドのアルバム "wikilink")

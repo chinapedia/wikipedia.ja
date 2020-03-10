@@ -1,0 +1,56 @@
+> この記事は[SUKI!SUKI!](https://ja.wikipedia.org/wiki/SUKI!SUKI!)から翻訳されています。
+
+
+*' SukiSuskiフロンターレ*'（すきすきフロンターレ）は、[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")(CATV)で放送されている[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")応援番組。[イッツ・コミュニケーションズ](../Page/イッツ・コミュニケーションズ.md "wikilink")（iTSCOM）、[ジェイコムせたまち](https://ja.wikipedia.org/wiki/ジェイコムせたまち "wikilink")（旧・小田急ケーブルビジョン：OCV）、[YOUテレビ](../Page/YOUテレビ.md "wikilink")、[横浜ケーブルビジョン](../Page/横浜ケーブルビジョン.md "wikilink")（YCV）で視聴できる。愛称・略称は「スキフロ」。
+
+CATVのため加入者でないと視聴できないが、内容が毎週更新であり、また再放送（局によって回数は異なる）やスタジアムにおける試合前での放映などもあり、視聴できる機会は多い。
+
+## 略歴
+
+[2004年](../Page/2004年.md "wikilink")5月、小田急ケーブルビジョン（当時）の製作により放送開始。当初はOCVとiTSCOMのみで15分間の放映であった。
+
+[ナビゲーター](https://ja.wikipedia.org/wiki/ナビゲーター "wikilink")は[スポーツジャーナリスト](https://ja.wikipedia.org/wiki/スポーツジャーナリスト "wikilink")や[リポーター](../Page/リポーター.md "wikilink")として活躍する[岩澤昌美](https://ja.wikipedia.org/wiki/岩澤昌美 "wikilink")と、フロンターレスタッフの[向島建](../Page/向島建.md "wikilink")（元川崎フロンターレ選手）。背景を[CG処理により作成された](../Page/コンピュータグラフィックス.md "wikilink")[スタジオ](../Page/スタジオ.md "wikilink")からの放送を中心に[インタビュー](../Page/インタビュー.md "wikilink")や試合のダイジェストで構成。とくにホームゲームでは独自の映像を使用しているため、他の番組とは違った角度からの画面が見られることで話題となったが、一方でアウェーゲームは静止画に結果のみというものであった。
+
+しかし当時のフロンターレはJリーグ2部(J2)所属であり、テレビ番組では[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")(tvk)の「ファイト\!川崎フロンターレMonthly」（原則として毎月第2金曜日の21時からの放送）くらいであったため、当時は毎週更新されていたこの番組が非常に重宝された。
+
+2004年のシーズンオフ終了後、OCVでは放送休止となったためiTSCOMの製作に変更。通常のスタジオでの作成となり、内容は隔週更新に。またエンディングテーマを歌う「appledore」のメンバー・松江イサムもスタジオでのメンバーとなった。
+
+[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")はJリーグのシーズン開始にあわせOCVでの放送を再開。基本的にはiTSCOMの製作だが、OCVで作製されることもあった。またこのころからYOUテレビでの放送も始まったため川崎市内全域での視聴が可能となり、放送時間が20分に延長された。またスタジオでの出演は岩澤昌美と向島建の二人となり、松江イサムはリポーターとして出演していたが、途中で降板した。
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")7月、岩澤昌美に代わり[茜ゆりか](https://ja.wikipedia.org/wiki/茜ゆりか "wikilink")が登場。[グラビアなどでの活動をし始めたばかりの新人アイドルを一人前のリポーターに仕上げるべく挑戦させるという内容が中心となった](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")。
+
+その後、向島建が多忙のために番組を休むことがたびたびあり、茜ゆりかだけが出演したことが何度かあったが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")からは[羽田徹](https://ja.wikipedia.org/wiki/羽田徹 "wikilink")が加わり、ナビゲーターとして番組の進行を務めるようになった。
+
+[2011年](../Page/2011年.md "wikilink")からは茜に代わり[阿井莉沙](../Page/阿井莉沙.md "wikilink")が司会を務め、番組がリニューアルされた。タイトルも「SUKI\!SUKI\!フロンターレ」から「SukiSukiフロンターレ」となり、放送が14分/毎週更新となる。また試合のダイジェスト放送がなくなり、選手インタビューやアカデミーカテゴリーの紹介が中心となった。
+
+[2014年](../Page/2014年.md "wikilink")8月から試合のダイジェスト放送が再開された。
+
+[2015年](../Page/2015年.md "wikilink")4月から放送時間が19分になり、横浜ケーブルビジョンでの放送が開始された。
+
+## コーナー
+
+  - 試合ハイライト‐ナレーションや解説は付かない。
+  - Frontale Talk‐選手二人とMCによる対談。
+  - サッカーはじめて物語‐サッカーをはじめたきっかけから現在までを、選手のインタビューと写真で振り返る。
+  - Frontale Locker Room Gallery‐クラブハウスの選手ロッカーを選手自身が解説する。
+  - アカデミー通信‐川崎フロンターレのアカデミーカテゴリーの選手を紹介する。
+  - スキスキQ\&A‐サポーターの質問に選手が答える。
+
+その他、選手インタビュー、練習の様子やホームタウン活動、週末の試合の告知、プレゼント募集など
+
+## 放送チャンネル
+
+  - イッツ・コミュニケーションズ（iTSCOM）：イッツコムチャンネル(11ch)
+  - ジェイコムせたまち（旧・小田急ケーブルビジョン：OCV）：J:COMチャンネル(11ch)
+  - YOUテレビ：YOUチャンネル(11ch)
+  - 横浜ケーブルビジョン：YCVチャンネル(11ch)
+
+## 関連項目
+
+  - [イッツ・コミュニケーションズ](../Page/イッツ・コミュニケーションズ.md "wikilink")
+  - [ジェイコムせたまち](https://ja.wikipedia.org/wiki/ジェイコムせたまち "wikilink")
+  - [YOUテレビ](../Page/YOUテレビ.md "wikilink")
+  - [ファイト\!川崎フロンターレ](https://ja.wikipedia.org/wiki/ファイト!川崎フロンターレ "wikilink")（[tvk（テレビ神奈川）](../Page/テレビ神奈川.md "wikilink")）
+  - [VAMOS\!川崎フロンターレ](https://ja.wikipedia.org/wiki/VAMOS!川崎フロンターレ "wikilink")（[FM K-City](../Page/かわさき市民放送.md "wikilink")）
+
+[Category:テレビのサッカー番組_(日本)](https://ja.wikipedia.org/wiki/Category:テレビのサッカー番組_\(日本\) "wikilink") [Category:関東・甲信越地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのスポーツ番組 "wikilink") [Category:川崎フロンターレ](https://ja.wikipedia.org/wiki/Category:川崎フロンターレ "wikilink")

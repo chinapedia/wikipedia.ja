@@ -1,0 +1,56 @@
+> この記事は[CVP](https://ja.wikipedia.org/wiki/CVP)から翻訳されています。
+
+
+**CVP分析**（CVPぶんせき ）または**損益分岐点分析**（そんえきぶんきてんぶんせき）は、[管理会計](https://ja.wikipedia.org/wiki/管理会計 "wikilink")上の分析手法の1つである。[利益](../Page/利益.md "wikilink")と販売数量､[コスト](https://ja.wikipedia.org/wiki/コスト "wikilink")の関係について行う分析方法である。
+
+## 概要
+
+CVP分析の"CVP"とは「コスト」(Cost) と「販売量」(Volume) と「利益」(Profit) の頭文字である。 具体的には、コストを[変動費](https://ja.wikipedia.org/wiki/変動費 "wikilink")と[固定費](https://ja.wikipedia.org/wiki/固定費 "wikilink")に区分した上で、[売上高](../Page/売上高.md "wikilink")から変動費を差し引いて[限界利益](https://ja.wikipedia.org/wiki/限界利益 "wikilink")を算出し、限界利益を売上高で除して限界利益率を算出する。このとき、固定費を限界利益率で控除すれば、[損益分岐点](https://ja.wikipedia.org/wiki/損益分岐点 "wikilink")における売上高が算出される。
+
+## 変動費と固定費
+
+[財務諸表](../Page/財務諸表.md "wikilink")上は、変動費と固定費は区分されていない。[財務会計](https://ja.wikipedia.org/wiki/財務会計 "wikilink")においては、[原価計算](https://ja.wikipedia.org/wiki/原価計算 "wikilink")が、[直接原価](https://ja.wikipedia.org/wiki/直接原価 "wikilink")でなく[全部原価](https://ja.wikipedia.org/wiki/全部原価 "wikilink")に基いて行われているためである。よって**CVP分析**を行うに当っては、まず[財務諸表](../Page/財務諸表.md "wikilink")上の数値から変動費と固定費を推定することが必要となる。その手法としては、以下のものが挙げられる。
+
+  - 費目別精査法
+  - [最小自乗法](https://ja.wikipedia.org/wiki/最小自乗法 "wikilink")
+  - 高低点法（[一次関数](../Page/一次関数.md "wikilink")で大雑把に固定費を出す方法。[日商簿記検定](../Page/日商簿記検定.md "wikilink")２級では、これを使う。）
+  - スキャッターチャート法
+  - 工学的方法（IE法）
+
+## 計算式
+
+  - 変動費率＝変動費÷売上高
+  - 限界利益＝売上高－変動費
+  - 限界利益率＝限界利益÷売上高＝1－変動費率
+  - 損益分岐点売上高－（固定費＋変動費）＝0
+  - 損益分岐点売上高－（固定費＋損益分岐点売上高×変動費率）＝0
+  - 損益分岐点売上高＝固定費÷（1－変動費率）
+  - 損益分岐点比率＝損益分岐点売上高÷売上高
+  - 損益分岐点比率＋安全余裕率＝1
+  - 安全余裕率＝（売上高－損益分岐点売上高）÷売上高＝1－損益分岐点比率
+  - 目標売上高－（変動費＋固定費）＝目標利益
+  - 目標売上高－（目標売上高×変動費率＋固定費）＝目標利益
+  - 損益分岐点売上高＝目標売上高×（1－目標安全余裕率）
+  - （損益分岐点上の）変動費＝損益分岐点売上高×変動費率
+
+　　　　　　　　　　　　 ＝目標売上高×（1－目標安全余裕率）×変動費率
+
+## 収支分岐点
+
+収支分岐点は損益分岐点の経常収支バージョンともいえるものである。 損益分岐点の公式を　x＝f÷（１－v/s)　とする （x:損益分岐点売上高　s:当期の売上高　v:当期の変動費　f:当期の固定費　n:非資金的な費用）
+
+この公式に売上収入・費用（主に運転資金等）を加味して発展させると下記の公式になる x＝\[(f-n)-(期首売掛金＋期首棚卸資産－期首買掛債務)\]÷\[（１－v/s)-(売掛金回転期間＋棚卸資産回転期間－買掛債務回転期間)　\] となる。
+
+## 関連項目
+
+  - [損益分岐点](https://ja.wikipedia.org/wiki/損益分岐点 "wikilink")
+  - [財務諸表](../Page/財務諸表.md "wikilink")
+  - [収益性分析](https://ja.wikipedia.org/wiki/収益性分析 "wikilink")
+  - [管理会計](https://ja.wikipedia.org/wiki/管理会計 "wikilink")
+
+## 外部リンク
+
+  - [財務分析 - 新・金融経済まとめwiki - アットウィキ](https://www65.atwiki.jp/internetkyogakusys/pages/78.html)
+  - [収支分岐点 - 新・金融経済まとめwiki - アットウィキ](https://w.atwiki.jp/internetkyogakusys/pages/78.html#%E5%8F%8E%E6%94%AF%E5%88%86%E5%B2%90%E7%82%B9)
+
+[Category:管理会計](https://ja.wikipedia.org/wiki/Category:管理会計 "wikilink")

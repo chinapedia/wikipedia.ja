@@ -1,0 +1,74 @@
+> この記事は[KNTV](https://ja.wikipedia.org/wiki/KNTV)から翻訳されています。
+
+
+**KNTV**（ケイエヌティーヴィー）は、[韓国の主要放送局](../Page/大韓民国.md "wikilink")（[MBC](https://ja.wikipedia.org/wiki/文化放送_\(韓国\) "wikilink")、[SBS](https://ja.wikipedia.org/wiki/SBS_\(韓国\) "wikilink")）の番組を中心に放送している[韓流](../Page/韓流.md "wikilink")[専門チャンネル](../Page/専門チャンネル.md "wikilink")。
+
+## 概要
+
+1996年10月、パーフェクTV\!（現[スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink")）の開局と共に「**KNテレビジョン**」放送開始。
+
+放送開始当初は一日数時間、韓国からのニュース番組を生放送するなど日本に在住している韓国人向けの放送局という意味合いが強かったが、開局後数年して[韓国ドラマ](https://ja.wikipedia.org/wiki/韓国ドラマ "wikilink")が日本でブームとなったため、ほとんどの韓国ドラマを[日本語字幕](../Page/日本語字幕.md "wikilink")付きで放送を行い日本人主婦層などの韓国ドラマファンの視聴者を増やしている。例えばMBCのドラマ「大長今」は、NHKで「[宮廷女官チャングムの誓い](https://ja.wikipedia.org/wiki/宮廷女官チャングムの誓い "wikilink")」として放送される前に、KNTVで日本語字幕付きで放送されていた。
+
+2006年、[KBSが自ら日本法人を設立し](../Page/韓国放送公社.md "wikilink")「[KBS WORLD](https://ja.wikipedia.org/wiki/KBS_WORLD "wikilink")」の放送を開始したため、KBSの番組はほとんどKBS WORLDに移行し、それ以降のKBSの番組は現在も外部が製作したドラマのみを放送している。このため、MBC・SBSのコンテンツを中心とした放送を行っている。2008年には、MBC・SBSがKNTVに出資している\[1\]。
+
+また、毎日20時から放送している「[SBS 8時のニュース](https://ja.wikipedia.org/wiki/SBS8ニュース "wikilink")」\[2\]は韓国からの生放送であるにも関わらず、日本語字幕（2006年12月以降）を入れて放送を行っている。
+
+2009年11月、[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")にてハイビジョン放送（チャンネル名は「**KNテレビジョンHD**」）を開始した。
+
+2010年3月、[JCNグループ局](https://ja.wikipedia.org/wiki/ジャパンケーブルネット#JCNグループ局 "wikilink")（除く熊本局）にて放送開始。
+
+2010年10月1日、チャンネル名を現在の「**KNTV**」に変更。
+
+2010年12月、スカパー\!HD、[CNCIグループ局にてハイビジョン放送](../Page/コミュニティネットワークセンター.md "wikilink")「**KNTV HD**」を放送開始。
+
+[2010年代](../Page/2010年代.md "wikilink")以降に開局した新聞社系列の総合編成チャンネルの番組も当社が放送されているが、[CJ E\&Mの系列が製作した番組は一部ドラマのみを扱っており](../Page/CJ_ENM.md "wikilink")、それ以外のジャンルの番組は、同系列の[Mnet](https://ja.wikipedia.org/wiki/Mnet "wikilink")が日本で初めて放送されている。
+
+2016年5月、 KNTV株式会社が株式会社[デジタルアドベンチャー](https://ja.wikipedia.org/wiki/デジタルアドベンチャー "wikilink")に吸収合併された。
+
+2016年12月1日、スカパー\!プレミアムサービスの衛星一般放送事業者が[スカパー・ブロードキャスティング](../Page/スカパー・ブロードキャスティング.md "wikilink")から[スカパー・エンターテイメント](https://ja.wikipedia.org/wiki/スカパー・エンターテイメント "wikilink")に変更。
+
+2019年1月、社名が現在のストリームメディアコーポレーションに変更。
+
+## 放送時間
+
+基本的には24時間放送であるが、5:50頃から6:00に[カラーバー](https://ja.wikipedia.org/wiki/カラーバー "wikilink")が放送され事実上この間は[放送休止](../Page/放送休止.md "wikilink")の扱いとなる。
+
+### 配信されているケーブルテレビ局
+
+  - [長崎ケーブルメディア](../Page/長崎ケーブルメディア.md "wikilink")
+  - [ジュピターテレコム](../Page/ジュピターテレコム.md "wikilink")
+      - [加盟ケーブルテレビ局一覧](https://ja.wikipedia.org/wiki/ジュピターテレコム#ケーブルテレビ事業 "wikilink")（一部対応していない局がある）
+  - [ジャパンケーブルネット](https://ja.wikipedia.org/wiki/ジャパンケーブルネット "wikilink")
+      - [ケーブルテレビ足立](https://ja.wikipedia.org/wiki/ケーブルテレビ足立 "wikilink")
+      - [加盟ケーブルテレビ局一覧](https://ja.wikipedia.org/wiki/ジャパンケーブルネット#JCNパートナー局 "wikilink")（一部対応していない局がある）
+  - [テレビ小山放送](../Page/テレビ小山放送.md "wikilink")
+  - [本庄ケーブルテレビ](../Page/本庄ケーブルテレビ.md "wikilink")
+  - [イッツコム](https://ja.wikipedia.org/wiki/イッツコム "wikilink")
+  - [多摩テレビ](https://ja.wikipedia.org/wiki/多摩テレビ "wikilink")
+  - [トコちゃんねる静岡](https://ja.wikipedia.org/wiki/トコちゃんねる静岡 "wikilink")
+  - [CNCIグループ](../Page/コミュニティネットワークセンター.md "wikilink")
+  - [ケイ・オプティコム](https://ja.wikipedia.org/wiki/ケイ・オプティコム "wikilink")・[eo光テレビ](https://ja.wikipedia.org/wiki/eo光テレビ "wikilink")（旧[ケイ・キャット](../Page/ケイ・キャット.md "wikilink")によるHFCを含む）
+  - [近鉄ケーブルネットワーク](../Page/近鉄ケーブルネットワーク.md "wikilink")
+      - KCN eo光テレビ
+      - [テレビ岸和田](../Page/テレビ岸和田.md "wikilink")
+      - [KCN京都](../Page/KCN京都.md "wikilink")
+      - [こまどりケーブル](../Page/こまどりケーブル.md "wikilink")
+  - [ケーブルメディアワイワイ](../Page/ケーブルメディアワイワイ.md "wikilink")
+
+## 関連項目
+
+  - [スカパー\! チャンネル一覧](../Page/スカパー!_チャンネル一覧.md "wikilink")
+  - [文化放送(MBC)](https://ja.wikipedia.org/wiki/文化放送_\(韓国\) "wikilink")
+  - [SBS (韓国)](https://ja.wikipedia.org/wiki/SBS_\(韓国\) "wikilink")
+  - [MTVジャパン](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink") - 社長の沼倉重夫は一時期KNTV社長を兼務
+
+## 脚注
+
+## 外部リンク
+
+  - [KNTV](http://www.kntv.co.jp/)　KNTV公式サイト
+
+[Category:スカパー\!のチャンネル](https://ja.wikipedia.org/wiki/Category:スカパー!のチャンネル "wikilink") [Category:衛星一般放送事業者](https://ja.wikipedia.org/wiki/Category:衛星一般放送事業者 "wikilink")
+
+1.  [KNTVからのお知らせ 日本の韓流専門放送局KNTVと韓国2大放送局が業務提携](http://www.kntv.co.jp/notice/?p=242)
+2.  開局当初は「[KBSニュース9](../Page/KBSニュース9.md "wikilink")」で、KBSワールド日本開局から[2018年](../Page/2018年.md "wikilink")[11月](../Page/11月.md "wikilink")末までは「[MBCニュースデスク](../Page/MBCニュースデスク.md "wikilink")」

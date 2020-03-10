@@ -1,0 +1,174 @@
+> この記事は[A.T.](https://ja.wikipedia.org/wiki/A.T.)から翻訳されています。
+
+
+**ミラノコレクションA.T.**（ミラノコレクション・エー・ティー / *Milano Collection A.T.*、[1976年](../Page/1976年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[整体師](https://ja.wikipedia.org/wiki/整体師 "wikilink")、元[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**澤藤 章仁**（さわふじ あきひと）\[1\]。
+
+数々の[メキシコ](../Page/メキシコ.md "wikilink")式複合[関節技](https://ja.wikipedia.org/wiki/関節技 "wikilink")「[ジャベ](https://ja.wikipedia.org/wiki/ジャベ "wikilink")」を開発したことでも知られる。
+
+## 来歴
+
+[1996年](../Page/1996年.md "wikilink")、[アニマル浜口トレーニングジムでトレーニングを積む](https://ja.wikipedia.org/wiki/アニマル浜口レスリング道場 "wikilink")。
+
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[FMWの練習生になったが](../Page/フロンティア・マーシャルアーツ・レスリング.md "wikilink")、[闘龍門](../Page/闘龍門.md "wikilink")の6期生の募集を知りメキシコへ渡る。
+
+[2000年](../Page/2000年.md "wikilink")5月13日、[メキシコ](../Page/メキシコ.md "wikilink")のアレナ・ナウカルパン、対[神田裕之](https://ja.wikipedia.org/wiki/神田裕之 "wikilink")戦でデビュー。[吉野正人](https://ja.wikipedia.org/wiki/吉野正人 "wikilink")、辻本恭史（現：["brother"YASSHI](https://ja.wikipedia.org/wiki/"brother"YASSHI "wikilink")）、[近藤修司](https://ja.wikipedia.org/wiki/近藤修司 "wikilink")、[八木隆行](https://ja.wikipedia.org/wiki/八木隆行 "wikilink")、[高木省吾](https://ja.wikipedia.org/wiki/高木省吾 "wikilink")とユニット「[イタリアン・コネクション](https://ja.wikipedia.org/wiki/イタリアン・コネクション "wikilink")」を結成してリーダーとなり、一時は闘龍門マットを席巻するが、方向性が変わるにつれてメンバーが次々と造反して解散。自身も[DRAGON GATEを退団して](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")[アメリカへ渡り](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ROH](../Page/ROH.md "wikilink")などに参戦。
+
+[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")中に噂された[Dragondoorへの参戦は](https://ja.wikipedia.org/wiki/ドラゴンドア "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月7日に行われた「[T2P](https://ja.wikipedia.org/wiki/闘龍門2000プロジェクト "wikilink")・ワン・ナイト・スタンド」で果たされた。また、4月20日に[全日本プロレス](../Page/全日本プロレス.md "wikilink")へ初参戦し、念願であった[武藤敬司](https://ja.wikipedia.org/wiki/武藤敬司 "wikilink")とのタッグを結成。5月4日に[DDTプロレスリング](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")初参戦。海外で知り合った[KUDO](https://ja.wikipedia.org/wiki/KUDO "wikilink")から聞いていなかったのか、[ゲイである](https://ja.wikipedia.org/wiki/同性愛 "wikilink")[男色ディーノ](https://ja.wikipedia.org/wiki/男色ディーノ "wikilink")とタッグを組んでしまい、案の定味方のはずのディーノに試合中に襲われ、ディーノと[大鷲透](https://ja.wikipedia.org/wiki/大鷲透 "wikilink")の抗争で使用されていた[レイザーラモンHG](https://ja.wikipedia.org/wiki/レイザーラモンHG "wikilink")風のコスチュームを身につけさせられて「**ミラノコレクションGAY-T**（ミラノコレクションゲイ-ティー）」に変貌してしまった。7月23日には[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")のイベント[WRESTLE LANDのリングに上がり](https://ja.wikipedia.org/wiki/WRESTLE_LAND "wikilink")、8月12日に新日本プロレス[両国国技館](../Page/両国国技館.md "wikilink")大会で行われる[蝶野正洋](../Page/蝶野正洋.md "wikilink")復帰戦のパートナーを務める。新日本ではヘビーとの組み合わせがほとんどだったが、10月9日の両国国技館大会で[タイガーマスクと対戦して勝利](https://ja.wikipedia.org/wiki/タイガーマスク_\(4代目\) "wikilink")。11月22日には[プロレスリングElDorado](https://ja.wikipedia.org/wiki/プロレスリング・エルドラド "wikilink")[新宿FACE](../Page/新宿FACE.md "wikilink")大会に参戦して[飯伏幸太](https://ja.wikipedia.org/wiki/飯伏幸太 "wikilink")とコンビを結成。
+
+T2P時代は[ギミック上](https://ja.wikipedia.org/wiki/ギミック_\(プロレス\) "wikilink")、「I県（[イタリア](../Page/イタリア.md "wikilink")か岩手県）M市（[ミラノ](../Page/ミラノ.md "wikilink")か盛岡市）」出身を名乗っていたが、JAPAN合流後に「日本人宣言」し、本当の出身地を公開。しかし、[2007年](../Page/2007年.md "wikilink")現在参戦している新日本では再びイタリア・ミラノ出身を名乗っている。
+
+2007年6月に行われた新日本「[BEST OF THE SUPER Jr.](https://ja.wikipedia.org/wiki/ベスト・オブ・ザ・スーパージュニア "wikilink") XIV 〜Power Of Mind〜」で[井上亘](https://ja.wikipedia.org/wiki/井上亘 "wikilink")を破り初出場で初優勝。2006年7月23日のレッスルランド初登場から11か月、8月12日の本戦初登場から数えるなら、わずか10か月での快挙であった。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月、新日本プロレス所属となった。11月犬猿の仲といわれた[タイチと和解しタッグチーム](https://ja.wikipedia.org/wiki/タイチ_\(プロレスラー\) "wikilink")「[ユニオーネ](https://ja.wikipedia.org/wiki/ユニオーネ "wikilink")」を結成。
+
+しかし、[2009年](../Page/2009年.md "wikilink")1月31日の試合後のマイクで「実は俺、昨日、体重計に乗ったら90キロだったよ」とコメント。ジュニア戦線に本格復帰することを明言した。5月「BEST OF THE SUPER Jr. XVI 〜The Hard Luck Soldiers〜」開幕戦では、[プリンス・デヴィットと対戦](https://ja.wikipedia.org/wiki/ファーガル・デヴィット "wikilink")。共に身体能力の限界をきわめた高難度にして華麗な攻防を見せ、現新日ジュニア最高峰の戦いを繰り広げた。
+
+### 長期欠場から引退へ
+
+9月13日に行われた6人タッグマッチ戦で目を負傷。右目下直筋下斜筋麻痺と診断され復帰未定まで追い込まれた。一時手術は成功しリハビリを始めていると新日本公式サイトでも書き記されていたが、そのリハビリでの回復状態は予想以上に思わしくなかった。
+
+そして、新日本プロレス携帯サイトで連載している「パラダイス日記」において引退を決めたことを明かし、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")1月18日に記者会見を開き引退を正式発表した\[2\]。引退会見では、目の怪我について「[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の時から目の焦点が合わなくなり、その時は2、3日で直ったものの、丁度昨年から再度焦点が合わなくなったようであり、まともなロープワークも出来なかった。そのためいつ手術してもおかしくない状態が続いていて、9月の試合でたまたま症状が出た」と本人の口から事情が語られている。
+
+### ミラノ劇場、終幕へ
+
+2月14日の[両国国技館](../Page/両国国技館.md "wikilink")興行、第2試合の[IWGPジュニアタッグ選手権試合の試合後](https://ja.wikipedia.org/wiki/IWGPジュニアタッグ王座 "wikilink")、散々罵倒し続けてきた[外道にトラース](https://ja.wikipedia.org/wiki/外道_\(プロレスラー\) "wikilink")・キックを打ち込む。そして、IWGPジュニアタッグ王座を防衛した田口、デヴィットと一緒になって祝った。
+
+休憩後、自身のテーマ曲であるMILANO FEVER+EUROPEで女性ダンサーを先頭に純白のスーツで入場。マイクで引退の挨拶を済ませると、[ツトム・オースギ](https://ja.wikipedia.org/wiki/ツトム・オースギ "wikilink")、[ヘラクレス千賀](../Page/ヘラクレス千賀.md "wikilink")、[大鷲透](https://ja.wikipedia.org/wiki/大鷲透 "wikilink")、FMW時代に付き人だった[ハヤブサ](https://ja.wikipedia.org/wiki/ハヤブサ_\(プロレスラー\) "wikilink")、落語家の三遊亭楽太郎（現：[三遊亭円楽](../Page/三遊亭圓楽_\(6代目\).md "wikilink")）らミラノにゆかりのある人物達から花束が贈られた。また、来場出来なかった[近藤修司](https://ja.wikipedia.org/wiki/近藤修司 "wikilink")はVTRコメントで祝福。さらに、サプライズゲストとして[ウルティモ・ドラゴン](https://ja.wikipedia.org/wiki/ウルティモ・ドラゴン "wikilink")が来場。ミラノは涙を浮かべて迎え入れた。
+
+記念撮影を終えると、10カウントゴングが鳴らされ[尾崎仁彦](https://ja.wikipedia.org/wiki/尾崎仁彦 "wikilink")リングアナウンサーが最後のコール。トリコロールカラーの紙テープがリング上に大量に投げ入れられた。その後、再びマイクを握ると「8年間車椅子生活だったハヤブサさんを絶対治してみせます。第2の人生の1発目のイタリア革命はハヤブサさんを車いす生活から離すことです」とコメントした。
+
+なお引退後については、新日本プロレスからはフロントとしての残留を要請されたものの、12月に[宅地建物取引士](https://ja.wikipedia.org/wiki/宅地建物取引士 "wikilink")試験に合格したことや、以前から[東洋医学に関心があったことから今後のことは未定としていたが](https://ja.wikipedia.org/wiki/伝統中国医学 "wikilink")\[3\]、結局東洋医学の道に進んだ。自然治癒力を高めるという「FF甦生術」と呼ばれる理論を学び\[4\]、マッサージ店「足fumi堂」を立ち上げた。
+
+当時は本名を「**照井 章仁**（てるい あきひと）」としていたが実は本名が異なる（親の離婚に伴うもの\[5\]）ことが引退後に[東京スポーツ](../Page/東京スポーツ.md "wikilink")のインタビューで明らかにされている\[6\]。
+
+### 引退後、解説席へ
+
+引退後は新日本のリングの解説席で解説を行っている。
+
+[2011年](../Page/2011年.md "wikilink")8月の[G1 CLIMAXでも解説を行ったが](https://ja.wikipedia.org/wiki/G1_CLIMAX "wikilink")、[矢野通](https://ja.wikipedia.org/wiki/矢野通 "wikilink")対[ヒデオ・サイトー戦で矢野が木槌](https://ja.wikipedia.org/wiki/平澤光秀 "wikilink")（ゴングを打つ為の木槌）でヒデオを殴打しようとしてヒデオがゴングを盾にして防御し、ゴングの音が鳴るという珍場面で堪えられず大爆笑した。
+
+経歴上、メキシコ系のプロレス（[ルチャリブレ](https://ja.wikipedia.org/wiki/ルチャリブレ "wikilink")）の情報に強く、解説席での口癖は「最低」。ただし、用いる際はヒールユニットがレフェリーのブラインドを付いて反則攻撃→フォール勝ちを収めた際に呆れた調子で発する。2016年に入ってからは、[内藤哲也](https://ja.wikipedia.org/wiki/内藤哲也 "wikilink")から入場時や試合終了時に絡まれるようになり、勝ち試合の時には自身が整体師である事に付け込まれ、「体（主に痛めた部分）を診てくれ」と頬杖と患部指差しアピールで挑発されるようになった（ミラノ自身は断固無視を貫いている）。内藤入場の際はリング外を1周回してリングインする内藤に見つからないように放送席から数ブロック横に座席移動している。[2017年](../Page/2017年.md "wikilink")1月には、[飯塚高史](https://ja.wikipedia.org/wiki/飯塚高史 "wikilink")が自身の隣にいる[野上アナを襲撃した際](../Page/野上慎平.md "wikilink")、避難並びに野上アナの救助そっちのけで、「コレ本当にあったんだあ？」とファン目線で感激遭遇しつつ、反面「野上アナの寿命が15年縮まりました」と一転冷静に解説していた。2017年2月11日の大阪大会では[L･I･Jの](https://ja.wikipedia.org/wiki/ロス・インゴベルナブレス・デ・ハポン "wikilink")[SANADAが試合終了後](../Page/真田聖也.md "wikilink")、ミラノの眼前でミラノ自身のジャベである「パラダイスロック」をミラノに見せ付けると、｢使用許可は出していないが掛け方は僕より上手い｣と複雑そうなコメントを残した。以降SANADAはこの技を使用している。2017年時点のお気に入り選手はL･I･Jの[EVILであり](https://ja.wikipedia.org/wiki/Evil "wikilink")、彼の得意フレーズである「エーヴリシング\!」を放送席で絶叫する場面もしばしば見られる。
+
+[2019年](../Page/2019年.md "wikilink")12月、新日本と同じブシロードグループに加わった女子プロレス団体、[スターダム](https://ja.wikipedia.org/wiki/スターダム "wikilink")のスペシャルコーチに就任\[7\]。
+
+[2020年](../Page/2020年.md "wikilink")1月31日、[後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")で行われた闘龍門特別興行において、DRAGON GATEのヒールユニット[R・E・D](https://ja.wikipedia.org/wiki/R・E・D "wikilink")の反則行為を受けていたミラニートコレクションa.t.を救出すべく観客席からリングへ乱入。パラダイスロックや当時の連携技を放ってR・E・Dを蹴散らすと、ファンに向けて「ただいま！」と声を発した。なお、10年間のブランクを感じさせない動きを見せたミラノだったが現役復帰の可能性についてはその後改めて否定している。
+
+## タイトル歴
+
+  - [闘龍門](../Page/闘龍門.md "wikilink")JAPAN
+
+<!-- end list -->
+
+  - インターナショナルライトヘビー級王座
+  - [UWA世界6人タッグ王座](https://ja.wikipedia.org/wiki/UWA世界6人タッグ王座 "wikilink")
+      - 第23代のパートナーは[YOSSINO](https://ja.wikipedia.org/wiki/吉野正人 "wikilink")&["brother"YASSINI](https://ja.wikipedia.org/wiki/"brother"YASSHI "wikilink")。
+      - 第27代のパートナーは[コンドッティ修司](https://ja.wikipedia.org/wiki/近藤修司 "wikilink")\&YOSSINO。
+
+<!-- end list -->
+
+  - [DRAGON GATE](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")
+
+<!-- end list -->
+
+  - [オープン・ザ・トライアングルゲート王座](https://ja.wikipedia.org/wiki/オープン・ザ・トライアングルゲート王座 "wikilink")
+      - 初代のパートナーはYOSSINO&[アンソニー・W・森](https://ja.wikipedia.org/wiki/アンソニー・W・森 "wikilink")。
+
+<!-- end list -->
+
+  - TWE
+
+<!-- end list -->
+
+  - TWE TV王座
+
+<!-- end list -->
+
+  - [新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")
+
+<!-- end list -->
+
+  - [BEST OF THE SUPER Jr. XIV優勝](https://ja.wikipedia.org/wiki/ベスト・オブ・ザ・スーパージュニア "wikilink")
+
+## 得意技
+
+  - ヴィクトリア・ミラネーゼ
+    背後から左腕で相手の左足膝裏付近を抱え、右脇を回した自分の右腕とクラッチする。その状態で投げ固める変型[バックドロップ・ホールド](https://ja.wikipedia.org/wiki/バックドロップ#バックドロップ・ホールド "wikilink")。元はバックドロップ・クラッチ・ホールドと呼ばれていたが、「[BEST OF THE SUPER Jr. XIV](https://ja.wikipedia.org/wiki/ベスト・オブ・ザ・スーパージュニア "wikilink")」準決勝後に「高貴で上品なイタリア人。この技が出たら必ず勝つ」という己を示す意味で自ら命名。「ビクトリア」ではなく、あくまで「ヴィクトリア」である。[レッグロック・スープレックス・ホールドに似ているが](https://ja.wikipedia.org/wiki/バックドロップ#バックドロップ・ホールド "wikilink")、クラッチの型が微妙に違う。
+  - IR
+    相手の片腕を相手の首に回すようにロックし、そしてもう片方の腕をまたに挟むようにロックして投げる[フィッシャーマンズ・スープレックス](../Page/フィッシャーマンズ・スープレックス.md "wikilink")・ホールド（[リストクラッチ・フィッシャーマンズ・スープレックス・ホールド](https://ja.wikipedia.org/wiki/フィッシャーマンズ・スープレックス#リストクラッチ・フィッシャーマンズ・スープレックス "wikilink")）。[オープン・ザ・トライアングルゲート王座](https://ja.wikipedia.org/wiki/オープン・ザ・トライアングルゲート王座 "wikilink")決定リーグ戦の際、3カウントを奪うフィニッシュ・ホールドがないことを悩んでいたミラノが、対ユニット「[Do FIXER](../Page/Do_FIXER.md "wikilink")」戦において、この技で3カウントを奪うことに成功し、それ以来ミラノの一撃の投げ技として定着した。実際に練習していた技はIRではなく、もっとミラノに負担がかかる技だったらしい。IRは本当にとっさに繰り出した偶然の産物と語っている。IRは常々口にしていたイタリア革命（イタリアン・レボリューション）の頭文字とされている。
+  - IR II
+    相手の両腕を相手の背中と自分の胴の間に挟んでロックし、その状態でパワーボムの要領で持ち上げ、そのまま自分も前に倒れこむようにして相手の脳天をマットに叩きつける技。ミラノがアメリカ修行から日本マットに一時復帰した際に公開。
+  - A.T.ロック
+    いわゆる[チキンウィングアームロック](https://ja.wikipedia.org/wiki/ダブルリストロック "wikilink")。ミラノのこれは残った足で相手の首をロックするところが通常のチキンウィングとの違い。ストラングルホールドγのように片足で相手の首と肩を固定し、残った相手の腕をチキンウィングアームロックに極める。
+    その威力は折り紙つきで、数々の選手からギブアップを奪っている。
+  - パラダイスロック
+    相手の足を胡坐のように交差型にロックすると同時に、そこに相手の両腕をロックさせて相手の動きを完全に奪い、ひっくり返して全身にダメージを与える関節技。ロープに相手の手足を絡ませるようにかけるロープパラダイス、パラダイスロックのまま[スリーパーホールドを仕掛けるパラダイススリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")、相手の片腕を残してパラダイスロックを極めて[インディアン・デスロック](https://ja.wikipedia.org/wiki/インディアン・デスロック "wikilink")のように絞めるハーフパラダイスなる技も存在する。この技でフィニッシュすると波止場のポールのように相手を踏みつけてポーズをとる。この技をかけられると身動きとれず、ギブアップを余儀なくされてしまう。ロープパラダイスでは、仕掛けたあとに、低空ドロップキックを食らわせる。2002年のユニット「[イタリアン・コネクション](https://ja.wikipedia.org/wiki/イタリアン・コネクション "wikilink")」同士対決ではコンドッティを1分も経過しないうちにギブアップさせてしまう程の威力抜群の技である。また、ギブアップ後も丸められた姿から自分では解くことができず、跪いたような状態で踏みつけられるため精神的にも屈辱感を味わう技である。元来はエル・ヌド（結び目固め）と呼ばれる[ルチャリブレ](https://ja.wikipedia.org/wiki/ルチャリブレ "wikilink")の古典的な[ジャベ](https://ja.wikipedia.org/wiki/ジャベ "wikilink")。2017年以降は[SANADAが得意技としている](../Page/真田聖也.md "wikilink")。
+  - A-diseロック
+    片腕を残してパラダイスロックをかけ、さらに残った腕にA.T.ロックをかけることにより、逃げ場をなくすと同時に足をも極める複合関節技。ネーミングは2つの技を足して2で割った。UDG戦を前に秘密兵器として[新井健一郎](https://ja.wikipedia.org/wiki/新井健一郎 "wikilink")にかけたのが初公開であって、後のインタビューでは、「技をかけられていても自分で解けず、3期も下にギブアップしたことは屈辱であった」と語っている。
+  - [ラウンドハウスキック](https://ja.wikipedia.org/wiki/延髄斬り "wikilink")
+    ミラノの場合は、[シャイニング・ウィザード](../Page/シャイニング・ウィザード.md "wikilink")のように相手の片膝を踏み台にして使用することがある。試合の流れを変えるときや、フィニッシュに移行するときによく見られる。
+  - [スーパーキック](https://ja.wikipedia.org/wiki/トラース・キック "wikilink")
+    [タイチとのタッグチーム](https://ja.wikipedia.org/wiki/タイチ_\(プロレスラー\) "wikilink")「[ユニオーネ](https://ja.wikipedia.org/wiki/ユニオーネ "wikilink")」ではサンドイッチ式スーパーキックを「スーパースクラップキック」と名付けて使用。
+  - エンポリオ・アルマニッシュ
+    ロープ中段からスワンダイブする[ムーンサルト・プレス](https://ja.wikipedia.org/wiki/ムーンサルト・プレス "wikilink")。[ライオンサルトと同型](https://ja.wikipedia.org/wiki/ムーンサルト・プレス#派生技 "wikilink")。大体が相手の首に入る。非常に滞空時間が長い。膝の怪我により最近は使用を控えている。タッグマッチの際はタッグを組んでいる選手が敵をパワーボムで倒した所で繰り出す場合が多い。
+  - アルマニッシュ・エクスチェンジ
+    エンポリオ・アルマニッシュの途中に体に捻りをいれて、[セントーン](../Page/セントーン.md "wikilink")気味に落ちていく飛び技。エンポリオ・アルマニッシュに続きたたみ掛ける意味で連続で使用することが多い。
+  - イタリアン・ストレッチ
+    No.1からNo.7まで存在することになっているが、実際に確認できているものは少ない。
+  - STF（ステップオーバー・トーホールド・ウィズ・ファッションもしくはフェラガモ）
+    通常の[STFとは違い](../Page/ステップオーバー・トーホールド・ウィズ・フェイスロック.md "wikilink")、[フェイスロック](https://ja.wikipedia.org/wiki/フェイスロック "wikilink")ではなく[フルネルソンをかける](https://ja.wikipedia.org/wiki/羽交い絞め#フルネルソン "wikilink")。
+
+## 合体技
+
+[タイチとのタッグチーム](https://ja.wikipedia.org/wiki/タイチ_\(プロレスラー\) "wikilink")「[ユニオーネ](https://ja.wikipedia.org/wiki/ユニオーネ "wikilink")」の時に使用。
+
+  - スーパースクラップキック
+    サンドイッチ式[スーパーキック](https://ja.wikipedia.org/wiki/トラース・キック "wikilink")。膝をつきグロッキーになった相手の両脇を陣取り、タイチと同時にスーパーキックを発射し相手の頭部を挟み打つ。
+  - ユニオーネの竜巻
+    タイチが[羽交い絞め](https://ja.wikipedia.org/wiki/羽交い絞め "wikilink")、その隙にミラノが[ドラゴンスクリュー](https://ja.wikipedia.org/wiki/ドラゴンスクリュー "wikilink")を放つ。羽交い絞めし身動きが取れなくなったことで、ドラゴンスクリューの適切な受身を取れなくする為、靭帯へのダメージは相当なものと言える。
+
+## エピソード
+
+  - デビュー前に[和術慧舟會](https://ja.wikipedia.org/wiki/和術慧舟會 "wikilink")に入門していたことがある。
+  - ユニット「[イタリアン・コネクション](https://ja.wikipedia.org/wiki/イタリアン・コネクション "wikilink")」所属時代、プロレスに似つかわしくない華麗な入場曲（[サンタナの](https://ja.wikipedia.org/wiki/サンタナ_\(バンド\) "wikilink")『EUROPE』のアレンジ）とともに透明犬ミケーレ（透明であるため[首輪](https://ja.wikipedia.org/wiki/首輪 "wikilink")しか見えない）とダンサーを引き連れ、モデルウォークを披露していた。実際モデルの仕事の経験がある。
+  - イタコネ時代は[ギミック上](https://ja.wikipedia.org/wiki/ギミック_\(プロレス\) "wikilink")、先輩、後輩問わずリング上では敬語で話し、相手を見下すような言動を使用していた。T2P解散興行終了後にリング上で乱闘が起こり激昂してからは感情を露にするようになった。
+  - 白・赤・緑のイタリアンカラーのコスチュームだったが、[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")参戦後からは黒、赤、緑の配色に変更した。
+  - 練習生の時に、9人の仲間と汗を流した。その時から、リーダー的存在で回りを先導した。
+  - [闘龍門](../Page/闘龍門.md "wikilink")JAPAN青森大会において、メインイベントの3WAYタッグマッチ勝利後のマイクで、[弘前大学](../Page/弘前大学.md "wikilink")卒業であることを明かしている。ただし引退後の[東京スポーツ](../Page/東京スポーツ.md "wikilink")のインタビューに掲載されたプロフィールでは「弘前大を1年で辞めて[アニマル浜口ジムに入門](https://ja.wikipedia.org/wiki/アニマル浜口レスリング道場 "wikilink")」とされており\[8\]、弘前大を卒業しているかどうか定かではない部分がある。
+  - デビュー以前に[ウルティモ・ドラゴン](https://ja.wikipedia.org/wiki/ウルティモ・ドラゴン "wikilink")から「チ●ポリオ・シャブリャーノ」という[学生プロレス](https://ja.wikipedia.org/wiki/学生プロレス "wikilink")ばりのリングネームを提案されたが、猛烈に拒否した（ウルティモ曰く「ナメられるな\!」という意味合いからの命名だったらしい）。
+  - 体操選手並みの体の柔らかさを誇り、相手のジャンピングショルダーを開脚前屈運動で回避するシーンは見物である。
+  - KAIENTAI-DOJOの房総ボーイ雷斗（農業ボーイ雷斗）とは小中学校の同級生であり。雷斗の家にあったトランポリンでプロレスごっこをしていた仲だった。
+
+## CD
+
+  - MILANO FEVER（2003年12月1日発売、NEXT STAGE JAPAN） - 自身の入場曲のシングルCD化したもの。
+
+## メディア出演
+
+### テレビ
+
+  - [ワールドプロレスリング](../Page/ワールドプロレスリング.md "wikilink")（テレビ朝日） - 引退以降、解説者として出演。
+  - [内田理央のオタカレ募集中\!](https://ja.wikipedia.org/wiki/内田理央のオタカレ募集中! "wikilink")（2017年6月25日、9月1日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")）\[9\]
+
+### テレビドラマ
+
+  - [豆腐プロレス](https://ja.wikipedia.org/wiki/豆腐プロレス "wikilink")（2017年1月22日 - 7月2日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")） - プロレス技術指導\[10\]。最終話にひったくりの男性役として出演。
+
+## 脚注
+
+## 外部リンク
+
+  - [ミラノコレクションA.T. 〜2nd Life〜](http://ameblo.jp/milano-collection-at/)
+
+  -
+  - \[<http://www.carerest.net/>　ケアレスト公式サイト\]
+
+[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:新日本プロレスに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:新日本プロレスに所属したプロレスラー "wikilink") [Category:DRAGON_GATEに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:DRAGON_GATEに所属したプロレスラー "wikilink") [Category:TNAに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:TNAに参戦したプロレスラー "wikilink") [Category:ROHに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:ROHに参戦したプロレスラー "wikilink") [Category:日本の整体師](https://ja.wikipedia.org/wiki/Category:日本の整体師 "wikilink") [Category:プロレス解説者](https://ja.wikipedia.org/wiki/Category:プロレス解説者 "wikilink") [Category:スターダムの関係者](https://ja.wikipedia.org/wiki/Category:スターダムの関係者 "wikilink") [Category:在メキシコ日本人](https://ja.wikipedia.org/wiki/Category:在メキシコ日本人 "wikilink") [Category:岩手県出身の人物](https://ja.wikipedia.org/wiki/Category:岩手県出身の人物 "wikilink") [Category:宅地建物取引士](https://ja.wikipedia.org/wiki/Category:宅地建物取引士 "wikilink") [Category:1976年生](https://ja.wikipedia.org/wiki/Category:1976年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+
+1.
+2.  [ミラノコレクションA.T.選手が引退を発表](http://www.njpw.co.jp/news/article.php?nwid=11284) - 新日本プロレス・2010年1月18日
+3.  [ミラノ選手の引退会見後の囲みコメント](http://www.njpw.co.jp/news/article.php?nwid=11286) - 新日本プロレス・2010年1月18日
+4.
+5.  [ミラノコレクションA.T.改め…](http://blog.livedoor.jp/ryosijj/archives/51691513.html) - 多重ロマンチック　2010年03月15日
+6.
+7.
+8.
+9.
+10.

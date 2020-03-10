@@ -1,0 +1,90 @@
+> この記事は[F.60 \(\)](https://ja.wikipedia.org/wiki/F.60_\(\))から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Farman_goliath.jpg "wikilink") **ファルマンF.60ゴリアト**（F.60 Goliath）は[1925年](../Page/1925年.md "wikilink")に開発された[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[旅客機](../Page/旅客機.md "wikilink")、[爆撃機](../Page/爆撃機.md "wikilink")である。
+
+## 開発
+
+[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")の末期に[アンリ・ファルマン](../Page/アンリ・ファルマン.md "wikilink")と[モーリス・ファルマン](https://ja.wikipedia.org/wiki/モーリス・ファルマン "wikilink")によって1000kgの爆弾を搭載し1500kmの航続距離を有する新型重爆撃機FF60が計画された。これは先に開発した[F.50の発展型と言える機体であった](https://ja.wikipedia.org/wiki/ファルマン_F.50 "wikilink")。しかし、戦争の終結によって爆撃機に対する需要が薄れたことから、箱型の胴体を生かしてこれを旅客機に改造した機体とすることにした。これが、**ファルマンF60**で、[1919年](../Page/1919年.md "wikilink")1月に初飛行した。12～14名の旅客を乗せることができ、同年3月には[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")－[ブリュッセル](../Page/ブリュッセル.md "wikilink")間の国際航空便に就役\[1\]し､5月22日には旅客を乗せてパリから[ロンドン](../Page/ロンドン.md "wikilink")に飛行して、ロンドン－パリ間の最初の旅客飛行となった。ゴリアトは[1920年](../Page/1920年.md "wikilink")前半の欧州において最も一般的だった旅客機の一つで、フランスの他[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")や[チェコ](../Page/チェコ.md "wikilink")の航空会社でも使用された。
+
+[1921年](../Page/1921年.md "wikilink")には本機を爆撃機として再度改造しようとする計画が進められた。これは、新型の双発重爆撃機を要望する[日本陸軍がゴリアトの搭載量に着目してファルマン社に依頼したもので](../Page/大日本帝国陸軍.md "wikilink")、[フランス空軍](https://ja.wikipedia.org/wiki/フランス空軍 "wikilink")でも本機に着目し、F.50に続く夜間爆撃機として相当数を配備した。当初開発された爆撃機型はF.60BN2と呼ばれた。
+
+## 日本での運用
+
+日本陸軍は新型双発重爆撃機としてF.60の爆撃機型の導入を検討し、[1921年](../Page/1921年.md "wikilink")（[大正](../Page/大正.md "wikilink")10年）から[1926年](../Page/1926年.md "wikilink")（大正15年）までに合計16機（6機とする資料もある\[2\]）購入した。長期に渡って分けて少数の機体を購入したため、購入時期により搭載エンジンが異なっていた（後期に輸入したのはF.65だったという資料もある）。機体の塗装には夜間爆撃用の濃緑色の機体と明灰色の機体とがあった。1921年（大正10年）12月には**丁式二型爆撃機**と名づけられ、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")初の爆撃航空隊として[立川飛行場](https://ja.wikipedia.org/wiki/立川飛行場 "wikilink")に配属された\[3\]。
+
+新型爆撃機として期待された本機だったが、胴体、主翼等の構造は第一次世界大戦時の機体と大差のない旧式なものだった。その上、搭載していたエンジンが出力不足気味でサルムソン230馬力からに換装したが尚も馬力不足であり、運動性が劣悪で機体整備にも手間がかかったため、搭乗員や地上整備員の評価は芳しくなかった。結局、内地で訓練に利用された後に、[1928年](../Page/1928年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")3年）に全機退役した。
+
+## F.68BN4
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Farman-goliath.jpg "wikilink") F.60BN2以降開発された爆撃機型には、F.62、F.65、F.68BN4などがある。これらの主な違いは搭載エンジンと武装であった。F.68BN4は[ポーランド空軍](https://ja.wikipedia.org/wiki/ポーランド空軍 "wikilink")のために製造された型で、[1925年](../Page/1925年.md "wikilink")から32機が[ポーランド](../Page/ポーランド.md "wikilink")に引き渡された。上記の3型の中では最も多い機数であった。F60からF.68BN4までのシリーズ全体では、約360機が製作された。ゴリアトは[1920年代](../Page/1920年代.md "wikilink")における成功した双発機であると評価されている。
+
+## スペック
+
+  - F.60BN2
+
+<!-- end list -->
+
+  - 全幅: 26.50 m
+  - 全長: 14.77 m
+  - 全高: 4.90 m
+  - 翼面積: 153 m
+  - 自重: 2,850 kg
+  - 離陸重量: 4,520 kg
+  - 動力: [サルムソン](https://ja.wikipedia.org/wiki/サルムソン "wikilink")9AZ 260 HP (331 KW) x2
+  - 最大速度: 160 km/h
+  - 上昇限度: 4,000 m
+  - 航続距離: 400 km
+  - 武装
+      - 7.7 mm機銃×2
+      - 爆弾 400 kg
+
+<!-- end list -->
+
+  - 丁式二型\[4\]
+
+<!-- end list -->
+
+  - 全幅: 26.52 m
+  - 全長: 14.37 m
+  - 翼面積: 158.1 m
+  - 総重量: 5,500 kg
+  - 動力: [サルムソン](https://ja.wikipedia.org/wiki/サルムソン "wikilink") 230 HP (後にに換装) x2
+  - 最大速度: 156 km/h
+  - 上昇限度: 5,000 m
+  - 航続力: 4時間
+  - 武装
+      - 7.7 mm機銃×2
+      - 爆弾 800 kg
+  - 乗員: 4-5 名
+
+<!-- end list -->
+
+  - Farman F.68BN4 Goliath
+
+<!-- end list -->
+
+  - 全幅: 26.50 m
+  - 全長: 14.77 m
+  - 全高: 4.90 m
+  - 翼面積: 153 m
+  - 自重: 2850 kg
+  - 離陸重量: 5400 kg
+  - 動力: [ノーム・ローン](https://ja.wikipedia.org/wiki/ノーム・エ・ローヌ "wikilink") [ジュピター](../Page/ブリストル_ジュピター.md "wikilink") 450 HP (331 KW) x2
+  - 最大速度: 154 km/h
+  - 上昇限度: 4200 m
+  - 航続距離: 1200 km
+  - 武装
+      - 7.7 mmルイス機銃 x5
+      - 爆弾搭載量1040 kg
+
+## 参考文献
+
+<references/>
+
+[Category:フランスの爆撃機](https://ja.wikipedia.org/wiki/Category:フランスの爆撃機 "wikilink") [Category:フランスの旅客機](https://ja.wikipedia.org/wiki/Category:フランスの旅客機 "wikilink")
+
+1.  [木村秀政](../Page/木村秀政.md "wikilink")･田中祥一『日本の名機100選』文春文庫ISBN 4-16-810203-3 1997年
+2.
+3.
+4.

@@ -1,0 +1,204 @@
+> この記事は[NAC](https://ja.wikipedia.org/wiki/NAC)から翻訳されています。
+
+
+**NACブレダ**（**NOAD ADVENDO Combinatie Breda**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[北ブラバント州](https://ja.wikipedia.org/wiki/北ブラバント州 "wikilink")・[ブレダを本拠地とする](../Page/ブレダ_\(オランダ\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
+
+[1912年](../Page/1912年.md "wikilink")、**NOAD**と**ADVENDO**の2つのクラブが合併して創設された。ちなみに「NOAD」は「Nooit Ophouden Altijd Doorgaan」(決して諦めずに続けよう)、「ADVENDO」は「Aangenaam Door Vermaak En Nuttig Door Ontspanning」(気晴らしに陽気で楽しくくつろごう)という言葉の略である\[1\]。[2003年](../Page/2003年.md "wikilink")にそれまでのNACからホームタウンのブレダを加えた名称に改名し現在に至る。読み方は「ナック・ブレダ」。
+
+ホームスタジアムのマイコム・スタディオンは2003-04シーズンに現在の名称に変わるまでは富士写真フイルム（現・[富士フイルムホールディングス](https://ja.wikipedia.org/wiki/富士フイルムホールディングス "wikilink")）が[命名権](https://ja.wikipedia.org/wiki/命名権 "wikilink")を取得し、「フジフイルム・スタディオン」と呼ばれていた。
+
+2016年4月14日より、[イングランド](../Page/イングランド.md "wikilink")・[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")の[マンチェスター・シティFC](https://ja.wikipedia.org/wiki/マンチェスター・シティFC "wikilink")と提携を結んでおり、マンチェスター・シティから多くの選手をレンタルで獲得している\[2\]。
+
+## タイトル
+
+[220px](https://ja.wikipedia.org/wiki/ファイル:20110110_ratverleghstadium.jpg "wikilink")
+
+### 国内タイトル
+
+  - **[KNVBカップ](../Page/KNVBカップ.md "wikilink"):1回**
+      - 1972-73
+
+### 国際タイトル
+
+なし
+
+## 過去の成績
+
+| シーズン    | ディビジョン                                           | [KNVBカップ](../Page/KNVBカップ.md "wikilink") |
+| ------- | ------------------------------------------------ | ---------------------------------------- |
+| リーグ     | 順位                                               | 試                                        |
+| 1956-57 | [エールディヴィジ](../Page/エールディヴィジ.md "wikilink")       | 9位                                       |
+| 1957-58 | エールディヴィジ                                         | 8位                                       |
+| 1958-59 | エールディヴィジ                                         | 11位                                      |
+| 1959-60 | エールディヴィジ                                         | 5位                                       |
+| 1960-61 | エールディヴィジ                                         | 9位                                       |
+| 1961-62 | エールディヴィジ                                         | 5位                                       |
+| 1962-63 | エールディヴィジ                                         | 6位                                       |
+| 1963-64 | エールディヴィジ                                         | 6位                                       |
+| 1964-65 | エールディヴィジ                                         | 16位                                      |
+| 1965-66 | [エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink") | 3位                                       |
+| 1966-67 | エールディヴィジ                                         | 12位                                      |
+| 1967-68 | エールディヴィジ                                         | 15位                                      |
+| 1968-69 | エールディヴィジ                                         | 7位                                       |
+| 1969-70 | エールディヴィジ                                         | 10位                                      |
+| 1970-71 | エールディヴィジ                                         | 14位                                      |
+| 1971-72 | エールディヴィジ                                         | 13位                                      |
+| 1972-73 | エールディヴィジ                                         | 16位                                      |
+| 1973-74 | エールディヴィジ                                         | 16位                                      |
+| 1974-75 | エールディヴィジ                                         | 16位                                      |
+| 1975-76 | エールディヴィジ                                         | 11位                                      |
+| 1976-77 | エールディヴィジ                                         | 8位                                       |
+| 1977-78 | エールディヴィジ                                         | 11位                                      |
+| 1978-79 | エールディヴィジ                                         | 10位                                      |
+| 1979-80 | エールディヴィジ                                         | 16位                                      |
+| 1980-81 | エールディヴィジ                                         | 13位                                      |
+| 1981-82 | エールディヴィジ                                         | 11位                                      |
+| 1982-83 | エールディヴィジ                                         | 17位                                      |
+| 1983-84 | エールステ・ディヴィジ                                      | 3位                                       |
+| 1984-85 | エールディヴィジ                                         | 17位                                      |
+| 1985-86 | エールステ・ディヴィジ                                      | 13位                                      |
+| 1986-87 | エールステ・ディヴィジ                                      | 8位                                       |
+| 1987-88 | エールステ・ディヴィジ                                      | 17位                                      |
+| 1988-89 | エールステ・ディヴィジ                                      | 7位                                       |
+| 1989-90 | エールステ・ディヴィジ                                      | 2位                                       |
+| 1990-91 | エールステ・ディヴィジ                                      | 2位                                       |
+| 1991-92 | エールステ・ディヴィジ                                      | 4位                                       |
+| 1992-93 | エールステ・ディヴィジ                                      | 3位                                       |
+| 1993-94 | エールディヴィジ                                         | 7位                                       |
+| 1994-95 | エールディヴィジ                                         | 10位                                      |
+| 1995-96 | エールディヴィジ                                         | 8位                                       |
+| 1996-97 | エールディヴィジ                                         | 9位                                       |
+| 1997-98 | エールディヴィジ                                         | 12位                                      |
+| 1998-99 | エールディヴィジ                                         | 18位                                      |
+| 1999-00 | エールステ・ディヴィジ                                      | 1位                                       |
+| 2000-01 | エールディヴィジ                                         | 9位                                       |
+| 2001-02 | エールディヴィジ                                         | 6位                                       |
+| 2002-03 | エールディヴィジ                                         | 4位                                       |
+| 2003-04 | エールディヴィジ                                         | 9位                                       |
+| 2004-05 | エールディヴィジ                                         | 15位                                      |
+| 2005-06 | エールディヴィジ                                         | 16位                                      |
+| 2006-07 | エールディヴィジ                                         | 11位                                      |
+| 2007-08 | エールディヴィジ                                         | 3位                                       |
+| 2008-09 | エールディヴィジ                                         | 8位                                       |
+| 2009-10 | エールディヴィジ                                         | 10位                                      |
+| 2010-11 | エールディヴィジ                                         | 13位                                      |
+| 2011-12 | エールディヴィジ                                         | 13位                                      |
+| 2012-13 | エールディヴィジ                                         | 13位                                      |
+| 2013-14 | エールディヴィジ                                         | 15位                                      |
+| 2014-15 | エールディヴィジ                                         | 16位                                      |
+| 2015-16 | エールステ・ディヴィジ                                      | 3位                                       |
+| 2016-17 | エールステ・ディヴィジ                                      | 5位                                       |
+| 2017-18 | エールディヴィジ                                         | 14位                                      |
+| 2018-19 | エールディヴィジ                                         | 18位                                      |
+| 2019-20 | エールステ・ディヴィジ                                      | 位                                        |
+
+## 現所属メンバー
+
+  - [2019年](../Page/2019年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")現在\[3\]
+
+<!-- end list -->
+
+  - [監督](../Page/監督.md "wikilink")
+
+<!-- end list -->
+
+  - [ルート・ブロート](https://ja.wikipedia.org/wiki/ルート・ブロート "wikilink")
+
+## 歴代監督
+
+  - [ヘンク・テン・カテ](https://ja.wikipedia.org/wiki/ヘンク・テン・カテ "wikilink") 2000-2003
+
+  - [トン・ロクホフ](https://ja.wikipedia.org/wiki/トン・ロクホフ "wikilink") 2003-2005
+
+  - [シーズ・ロク](https://ja.wikipedia.org/wiki/シーズ・ロク "wikilink") 2006
+
+  - [アーニー・ブランツ](https://ja.wikipedia.org/wiki/アーニー・ブランツ "wikilink") 2006-2008
+
+  - [ロベルト・マースカント](https://ja.wikipedia.org/wiki/ロベルト・マースカント "wikilink") 2008-2010
+
+  - [ヘールト・アーンデルヴィエル](https://ja.wikipedia.org/wiki/ヘールト・アーンデルヴィエル "wikilink") 2010-2011
+
+  - [ジョン・カレルセ](https://ja.wikipedia.org/wiki/ジョン・カレルセ "wikilink") 2011-2012
+
+  - [アドリエ・ボヘルス](https://ja.wikipedia.org/wiki/アドリエ・ボヘルス "wikilink") 2012
+
+  - [ネボイシャ・グデリ](https://ja.wikipedia.org/wiki/ネボイシャ・グデリ "wikilink") 2012-2014
+
+  - [エリック・ヘレモンス](https://ja.wikipedia.org/wiki/エリック・ヘレモンス "wikilink") 2014-2015
+
+  - [ロベルト・マースカント](https://ja.wikipedia.org/wiki/ロベルト・マースカント "wikilink") 2015
+
+  - [マリヌス・ダイクハイゼン](https://ja.wikipedia.org/wiki/マリヌス・ダイクハイゼン "wikilink") 2015-2016
+
+  - [スタイン・フレーフェン](https://ja.wikipedia.org/wiki/スタイン・フレーフェン "wikilink") 2017-2018
+
+  - [ミチェル・ファン・デル・ハーフ](https://ja.wikipedia.org/wiki/ミチェル・ファン・デル・ハーフ "wikilink") 2018-2019.3
+
+  - [ルート・ブロート](https://ja.wikipedia.org/wiki/ルート・ブロート "wikilink") 2019.3-
+
+## 歴代所属選手
+
+
+\=== GK ===
+
+  - [アルノ・ヴァンズワム](https://ja.wikipedia.org/wiki/アルノ・ヴァンズワム "wikilink") 2003-2007
+
+  - [イェレ・テン・ラウヴェラール](https://ja.wikipedia.org/wiki/イェレ・テン・ラウウェラール "wikilink") 2007-2016
+
+### DF
+
+  - [トニー・ヴィドマー](https://ja.wikipedia.org/wiki/トニー・ヴィドマー "wikilink")
+
+  - [ピーター・ボス](https://ja.wikipedia.org/wiki/ピーター・ボス "wikilink") 1998-1999
+
+  - [ロブ・ペンデルス](https://ja.wikipedia.org/wiki/ロブ・ペンデルス "wikilink") 2000-2011
+
+  - [ユルゲン・コリン](https://ja.wikipedia.org/wiki/ユルゲン・コリン "wikilink") 2002-2005
+
+  - [パトリック・ズワンズワイク](https://ja.wikipedia.org/wiki/パトリック・ズワンズワイク "wikilink") 2005-2010
+
+  - [ヨルディ・バイス](https://ja.wikipedia.org/wiki/ヨルディ・バイス "wikilink") 2011-2014
+
+  -  [ヴラトコ・ラジッチ](https://ja.wikipedia.org/wiki/ヴラトコ・ラジッチ "wikilink") 2015-2016
+
+  - [カロル・メッツ](https://ja.wikipedia.org/wiki/カロル・メッツ "wikilink") 2017-2019
+
+### MF
+
+  - [バリー・ファン・ハーレン](../Page/バリー・ファン・ハーレン.md "wikilink") 1996-1997
+
+  - [盧廷潤](../Page/盧廷潤.md "wikilink")（ノ・ジョンユン) 1997-1999
+
+  -  [ウロシュ・マティッチ](https://ja.wikipedia.org/wiki/ウロシュ・マティッチ "wikilink") 2014-2016
+
+  - [ルーカス・スクーフス](https://ja.wikipedia.org/wiki/ルーカス・スクーフス "wikilink") 2018-
+
+  -   [コリン・レスラー](https://ja.wikipedia.org/wiki/コリン・レスラー "wikilink") 2019-
+
+### FW
+
+  - [ルート・ヘールス](https://ja.wikipedia.org/wiki/ルート・ヘールス "wikilink") 1982-1983
+
+  - [ピエール・ファン・ホーイドンク](https://ja.wikipedia.org/wiki/ピエール・ファン・ホーイドンク "wikilink") 1991-1995、2005-2006
+
+  - [グラハム・アーノルド](https://ja.wikipedia.org/wiki/グラハム・アーノルド "wikilink") 1995-1997
+
+  - [ラデ・ボグダノビッチ](https://ja.wikipedia.org/wiki/ラデ・ボグダノビッチ "wikilink") 1998
+
+  - [ヨハン・フォンランテン](https://ja.wikipedia.org/wiki/ヨハン・フォンランテン "wikilink") 2005-2006
+
+  - [ヨハン・エルマンデル](https://ja.wikipedia.org/wiki/ヨハン・エルマンデル "wikilink") 2003-2004
+
+  - [ヨーナス・コルッカ](../Page/ヨーナス・コルッカ.md "wikilink") 2007-2011
+
+## 脚注
+
+## 外部リンク
+
+  - [オフィシャルページ](http://www.nac.nl/)
+
+[Category:NACブレダ](https://ja.wikipedia.org/wiki/Category:NACブレダ "wikilink") [Category:オランダのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オランダのサッカークラブ "wikilink") [Category:ブレダ](https://ja.wikipedia.org/wiki/Category:ブレダ "wikilink")
+
+1.  バウハウス刊 ワールドサッカーコレクション99
+2.  [マンチェスター・シティがオランダ2部のNACと提携](http://web.ultra-soccer.jp/news/view?news_no=237690)超ワールドサッカー、2016年4月15日
+3.  [Selectie 2018-2019](http://www.nac.nl/p59l1/Selectie-en-staf.html)NACブレダ公式サイト 2018年8月1日閲覧

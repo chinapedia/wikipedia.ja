@@ -1,0 +1,79 @@
+> この記事は[MAGMA30](https://ja.wikipedia.org/wiki/MAGMA30)から翻訳されています。
+
+
+**MAGMA30**（マグマ・サーティー）は、[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")に本社をもつテレビ局・[関西テレビ放送](../Page/関西テレビ放送.md "wikilink")が、開局30周年を記念して開催した大型イベントの名称である。平成元(1989)年4月15日（土曜日）と16日（日曜日）の2日間、[大阪府](../Page/大阪府.md "wikilink")[吹田市](../Page/吹田市.md "wikilink")の[万博記念公園](../Page/万博記念公園.md "wikilink")を会場に、13時間に亘って生中継で放送された。
+
+## 概要
+
+関西テレビの開局30周年を記念し、イベントと番組を合体させ「30周年ありがとう」の気持ちを、視聴者に伝えるための大型企画。テーマの核となるのは近畿2府4県。地域に密着したお祭り・催し物から、若者向け人気番組まで、さまざまなイベントを軸に構成。万博公園のホールおよび、園内5カ所の広場を使い、生放送、イベント、物販コーナーなどを展開。同局でレギュラー番組を持つタレントや、関西在住の芸能人などが大挙出演した。
+
+## 放送時間
+
+  - 4月15日(土) 12:00〜18:00
+  - 4月16日(日) 10:00〜17:00
+
+## 総合司会
+
+[板東英二](../Page/板東英二.md "wikilink")・[桑原征平](../Page/桑原征平.md "wikilink")
+
+## 生放送企画
+
+### 4月15日（土）
+
+  - オープニング（12:00〜）…園内6会場を結び、2日間のイベントを紹介。
+  - MAGMAフェステ（12:30〜）…岸和田だんじりをはじめとする近畿二府四県の祭りを、地元出身のタレントが紹介。
+  - ふるさと宅配 oh・アザ・ワールド（14:00〜）…近畿各地から直送された特産品を、タレントが紹介する大即売会。司会：[上沼恵美子](https://ja.wikipedia.org/wiki/上沼恵美子 "wikilink")・桑原征平・[梅田淳](https://ja.wikipedia.org/wiki/梅田淳 "wikilink")／出演：[今田耕司](../Page/今田耕司.md "wikilink")・[石田靖](https://ja.wikipedia.org/wiki/石田靖 "wikilink")ほか
+  - 二府四県対抗なんでもコンテスト（14:55〜）…[横山やすし](../Page/横山やすし.md "wikilink")・[西川きよし](../Page/西川きよし.md "wikilink")の司会で繰り広げられる歌やゲーム、美人コンテスト、のど自慢など。
+  - タレントショップストリート（16:25〜）…園内「東の広場」前に設置された[タレントショップ](https://ja.wikipedia.org/wiki/タレントショップ "wikilink")からの生中継。
+  - フィナーレ（16:45〜）…園内各所からの中継と、翌日のイベント告知。
+
+### 4月16日（日）
+
+  - オープニング（10:00〜）…イベント・公開生放送の紹介。
+  - ノックは無用\! スペシャル（10:25〜）…司会の[横山ノック](https://ja.wikipedia.org/wiki/横山ノック "wikilink")、[上岡龍太郎](../Page/上岡龍太郎.md "wikilink")とスペシャルゲストによるトークショーと、事前に番組で告知した「ミスMAGMA30」の決勝大会を放送。
+  - 鶴瓶とヤングアイドルスーパーバラエティ（12:00〜）…[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")を司会に[浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")、[阿部寛](../Page/阿部寛.md "wikilink")、[CHA-CHA](https://ja.wikipedia.org/wiki/CHA-CHA "wikilink")、[井森美幸](https://ja.wikipedia.org/wiki/井森美幸 "wikilink")らを迎えての音楽とトークショー。
+  - 圭修のBIKKURI SHOW（13:30〜）…若者に人気の[清水圭](https://ja.wikipedia.org/wiki/清水圭 "wikilink")、[和泉修](https://ja.wikipedia.org/wiki/和泉修 "wikilink")司会による若者向けバラエティー。
+  - オール吉本！紅白対抗トンでも近代五種（14:30〜）…[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")の人気タレント総出演による爆笑大運動会。名誉スターターとして[明石家さんま](../Page/明石家さんま.md "wikilink")が登場（途中、[競馬](../Page/競馬.md "wikilink")の[皐月賞](../Page/皐月賞.md "wikilink")生中継が挿入）。
+  - グランドフィナーレ（16:30〜）…深夜番組「[エンドレスナイト](https://ja.wikipedia.org/wiki/エンドレスナイト "wikilink")」の司会で人気の、[ばんばひろふみ](../Page/ばんばひろふみ.md "wikilink")と[兵藤ゆき](../Page/兵藤ゆき.md "wikilink")が登場し、テーマ曲「DEAR MY FRIEND」を熱唱。演出を同番組のスタッフが担当。ばんば・兵藤も出演したこともあって、会場には観客が殺到。一時は[警察から中止命令が出る事態になった](https://ja.wikipedia.org/wiki/大阪府警察 "wikilink")。しかし、2人の観客への説得もあってイベントは続行。会場では超大型の「MAGMA30」のロゴも入った「エンドレスナイトスーパーサイズステッカー」が7000枚配布された。出演者は総合司会の板東英二、桑原征平はじめ、2日間のイベント・生放送に出演したタレント、アナウンサーが総登場した
+
+## 録画放送での企画
+
+  - 報道特別番組「テレビこれから30年」（15日17:00〜／録画放送）…テレビの現状と未来を考えるシンポジウム。司会に[桂米朝](https://ja.wikipedia.org/wiki/桂米朝_\(3代目\) "wikilink")、パネラーに[和田勉](../Page/和田勉.md "wikilink")、[黒木靖夫](https://ja.wikipedia.org/wiki/黒木靖夫 "wikilink")、桂三枝（現・[六代目桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）。
+  - [ねるとん紅鯨団](https://ja.wikipedia.org/wiki/ねるとん紅鯨団 "wikilink")スペシャル…万博ホールでの公開録画・通常レギュラー枠で放送。
+
+## 会場内イベント
+
+  - MAGMAG合衆国…[縁日](../Page/縁日.md "wikilink")、[トランポリン](https://ja.wikipedia.org/wiki/トランポリン "wikilink")、[ミニSL](https://ja.wikipedia.org/wiki/ミニSL "wikilink")など、子供向けのプレイコーナー。
+  - タレントショップストリート…関西テレビ制作番組をはじめ、[フジテレビの番組などの他](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")、[五木ひろし](https://ja.wikipedia.org/wiki/五木ひろし "wikilink")などのタレントグッズショップが約20店舗登場。当時テレビ番組などで人気の[占い師](https://ja.wikipedia.org/wiki/占い師 "wikilink")・[泉アツノ](https://ja.wikipedia.org/wiki/泉アツノ "wikilink")の占いコーナーが人気を集めた。
+  - マリック不思議ランド＆イメージサーカス…[ミスター・マリック](https://ja.wikipedia.org/wiki/ミスター・マリック "wikilink")によるマジックパフォーマンスと[大道芸](../Page/大道芸.md "wikilink")ショー。
+
+## その他
+
+  - 当初、この「MAGMA30」は、関西テレビの開局30周年記念日の直近の週末である、昭和63(1988)年11月19日〜20日の開催を目標に準備が進められていた。ところが、同年秋に、[昭和天皇](https://ja.wikipedia.org/wiki/昭和天皇 "wikilink")が入院し闘病生活に入り、派手な歌舞音曲を極力控えるようにする社会情勢を受けて同社は延期を決定。翌年1月、昭和天皇が崩御。元号が平成と改まったのを機に、再度企画実現に向けてスタートした。
+
+<!-- end list -->
+
+  - 土曜深夜の人気番組「エンドレスナイト」も、当日深夜の通常生放送の時間に「開局30周年クイズ」を放送。関西テレビ社員8人によるクイズ大会を放送。関西テレビ30年の歴史にまつわる問題で構成した。
+
+<!-- end list -->
+
+  - グランドフィナーレの演出を担当した苧木晃ディレクターは、エンディングに制作スタッフの名前を出さず、代わりに視聴者へのメッセージとして「今日までのあなたにありがとう、そして今日からも…We're always with you」の文字を流した。これは「MAGMA30」として、近畿一円の視聴者に対する感謝の現れという想いからであった。
+
+<!-- end list -->
+
+  - このイベントと特別番組を合体した大型企画は、4年後の[1993年](../Page/1993年.md "wikilink")（平成5年）の同局の開局35周年でも行われ、8月7日・8日の2日間「[アスメディア88祭り](https://ja.wikipedia.org/wiki/アスメディア88祭り "wikilink")」と題し、MAGMA30と同様、万博記念公園から2日間に亘って放送された。また2008年11月には開局50周年の大型特番「[感謝\!感激\!カンテーレ\!50年だよ おかげさまスペシャル](https://ja.wikipedia.org/wiki/感謝!感激!カンテーレ!50年だよ_おかげさまスペシャル "wikilink")」を放送、同時にイベント「カンテーレ感謝祭」を開催した。
+
+<!-- end list -->
+
+  - [横山やすし](../Page/横山やすし.md "wikilink")が[西川きよし](../Page/西川きよし.md "wikilink")と二府四県対抗なんでもコンテストの司会を担当するも、やすしはその2日後に飲酒運転による事故を起こして[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")を解雇されこの特番が結果的にコンビとしての最後のテレビ出演となった。
+
+## 来場者数と視聴率
+
+  - 初日（4月15日・土曜日）の来場者は4万5000人、翌16日（日曜日）は11万人強、合計で16万人の来場者を記録した。
+  - 2日間の平均視聴率（合計放送時間 760分）：9.1%。（15日：7.6%、16日：10.4%）
+
+## テーマ曲
+
+  - 「DEAR MY FRIEND」ばんばひろふみ＆兵藤ゆき
+
+[Category:関西テレビの歴史](https://ja.wikipedia.org/wiki/Category:関西テレビの歴史 "wikilink") [Category:関西テレビの特別番組](https://ja.wikipedia.org/wiki/Category:関西テレビの特別番組 "wikilink") [Category:関西テレビの番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビの番組の歴史 "wikilink") [Category:1987年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のテレビ番組_\(日本\) "wikilink") [Category:1987年4月](https://ja.wikipedia.org/wiki/Category:1987年4月 "wikilink") [Category:吹田市の歴史](https://ja.wikipedia.org/wiki/Category:吹田市の歴史 "wikilink")

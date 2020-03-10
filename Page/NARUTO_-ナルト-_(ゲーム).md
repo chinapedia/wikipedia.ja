@@ -1,0 +1,382 @@
+> この記事は[NARUTO -- \(\)](https://ja.wikipedia.org/wiki/NARUTO_--_\(\))から翻訳されています。
+
+
+**NARUTO -ナルト- (ゲーム)** では[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト- "wikilink")』のゲーム化作品について解説する。
+
+## 概要
+
+現在発売されている[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")は、19種類。[モバイルゲーム](https://ja.wikipedia.org/wiki/モバイルゲーム "wikilink")にも進出し、ソーシャルゲームが1種、サービス提供中。
+
+またコンピューターを介さないゲームとしては、[カードゲーム](../Page/カードゲーム.md "wikilink")は2002年から発売され、現在巻の十七まで発売されている他、2014年より体感型ゲームも行われるようになった。
+
+内容は[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』の内容に基づいてゲーム化しており、一部は劇場版の内容も含んでいる。テレビアニメ『NARUTO -ナルト-』が2007年春から『NARUTO -ナルト- 疾風伝』に変更されたことに伴い、ゲームのタイトルもNARUTO -ナルト- 疾風伝から始まるものになった。
+
+発売は[バンダイ](../Page/バンダイ.md "wikilink")系のゲーム関連会社（※）と[タカラトミー](../Page/タカラトミー.md "wikilink")。前者は[PlayStation系のハード他を担当し](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")、後者は[任天堂](../Page/任天堂.md "wikilink")系のハードを担当していたが、[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")関連事業が[タカラトミーアーツ](../Page/タカラトミーアーツ.md "wikilink")に移管され、また『NARUTO -ナルト-SD パワフル疾風伝』以降、バンダイナムコからも任天堂系のハードを担当するようになった。
+
+## PC用オンラインゲーム
+
+  - NARUTO 火影忍者 ONLINE（海外版タイトル）
+    メーカー：バンダイナムコエンターテインメントとテンセントゲームス
+    配信開始：2014年11月10日
+    ジャンル：RPG
+
+## タブレット端末専用
+
+  - NARUTO-ナルト- 忍コレクション 疾風乱舞
+    メーカー：グリーとクルーズ
+    配信開始：Android版 2015年4月30日、iOS版 2015年7月27日
+    ジャンル：RPG×ランナーゲーム
+  - NARUTO 火影忍者 MOBILE（海外版タイトル）
+    メーカー：バンダイナムコエンターテインメントとテンセントゲームス
+    配信開始：2016年5月19日
+    ジャンル：RPG
+  - NARUTO X BORUTO 忍者BORUTAGE
+    メーカー：バンダイナムコエンターテインメント
+    配信開始：2017年11月15日
+    ジャンル： 砦アクション忍者バトル
+
+## GREE
+
+  - NARUTO -ナルト- 忍マスターズ
+    メーカー：グリー、監修：バンダイナムコゲームス
+    配信開始：2012年6月27日
+    ジャンル：ソーシャルカードRPG
+    後日エイチームとの共同開発でiOS用アプリ、Android用アプリもリリースされている。
+  - NARUTO-ナルト- 忍コレクション
+    メーカー：グリーとForGroove
+    配信開始：2014年4月25日
+    ジャンル：ソーシャルカードRPG
+    後日iOS用アプリ、Android用アプリにも対応している。
+
+## マルチプラットフォーム
+
+### PlayStation 3 & Xbox 360
+
+  - NARUTO -ナルト-ナルティメットストーム2
+    メーカー：バンダイナムコゲームス
+    発売日：2010年10月21日
+    ジャンル：忍道対戦アクション
+    [オフィシャルサイト](http://www.bandaigames.channel.or.jp/list/naruto_storm2/)
+  - NARUTO -ナルト-ナルティメットストームジェネレーション
+    メーカー：バンダイナムコゲームス
+    発売日：2012年2月23日
+    ジャンル：忍道対戦アクション
+    [オフィシャルサイト](http://www.bandaigames.channel.or.jp/list/naruto_g/)
+  - NARUTO -ナルト- 疾風伝 ナルティメットストーム3
+    メーカー：バンダイナムコゲームス
+    発売日：2013年4月18日
+    ジャンル：忍道対戦アクション
+    [オフィシャルサイト](http://www.bandaigames.channel.or.jp/list/naruto_storm3/)
+    NARUTO -ナルト- 疾風伝 ナルティメットストームレボリューション
+    メーカー : バンダイナムコゲームス
+    発売日 : 2014年9月11日
+    ジャンル :忍道対戦アクション
+    ［https://www.bandaigames.channel.or.jp/list/naruto_r/ オフィシャルサイト］
+
+## PlayStation 3
+
+  - NARUTO -ナルト-ナルティメットストーム
+    メーカー：バンダイナムコゲームス
+    発売日：2009年1月15日
+    ジャンル：忍道対戦アクション
+    [オフィシャルサイト](http://www.bandaigames.channel.or.jp/list/ps3_naruto/)
+
+## Xbox 360
+
+  - [Naruto: Rise of a Ninja](https://ja.wikipedia.org/wiki/:en:Naruto:_Rise_of_a_Ninja "wikilink")（海外版タイトル、日本未発売）
+    メーカー：[Ubisoft](../Page/ユービーアイソフト.md "wikilink")（北米・欧州）
+    発売日：2007年10月19日（北米・欧州）
+    ジャンル：アクションRPG
+    北米版アジア版ともに日本版XBOX360で動作可能。音声は英語等の吹き替えの他に日本語音声(アニメ版キャスト)が無料ダウンロードコンテンツとして提供されている。
+  - [Naruto: The Broken Bond](https://ja.wikipedia.org/wiki/:en:Naruto:_The_Broken_Bond "wikilink")（海外版タイトル、日本未発売）
+    メーカー：[Ubisoft](../Page/ユービーアイソフト.md "wikilink")（北米・欧州）
+    発売日：2008年11月18日（北米）
+    ジャンル：アクションRPG
+    はじめから日本語音声入り。ただしインターフェイスは英語のみ。
+
+## ゲームボーイアドバンス
+
+  - NARUTO -ナルト- 忍術全開\! 最強忍者 大結集:メーカー：トミー
+    発売日：2003年5月1日
+  - NARUTO -ナルト- 木ノ葉戦記:メーカー：トミー
+    発売日：2003年9月12日
+  - NARUTO -ナルト- 最強忍者 大結集2:メーカー：トミー
+    発売日：2004年4月29日
+  - NARUTO -ナルト- ナルトRPG〜受けつがれし火の意志〜:メーカー：トミー
+    ジャンル：RPG
+    発売日：2004年7月22日
+    海外では、2007年に[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")版が発売されている。 (アメリカのみ)
+
+## PlayStation
+
+  - NARUTO -ナルト- 忍の里の陣取り合戦
+    メーカー：バンダイ
+    発売日：2003年6月26日
+    ジャンル：ボードゲーム
+
+## PlayStation 2
+
+  - [NARUTO -ナルト- ナルティメットヒーロー](../Page/NARUTO_-ナルト-_ナルティメットヒーロー.md "wikilink")
+    メーカー： バンダイ
+    発売日：2003年10月23日
+    ジャンル：3Dアクション
+  - [NARUTO -ナルト- ナルティメットヒーロー2](../Page/NARUTO_-ナルト-_ナルティメットヒーロー.md "wikilink")
+    メーカー：バンダイ
+    発売日：2004年9月30日
+    ジャンル：忍道対戦アクション
+  - NARUTO -ナルト- うずまき忍伝
+    メーカー：バンダイ
+    発売日：2005年8月18日
+    ジャンル：3D忍アクション
+  - [NARUTO -ナルト- ナルティメットヒーロー3](../Page/NARUTO_-ナルト-_ナルティメットヒーロー.md "wikilink")
+    メーカー：バンダイ
+    発売日：2005年12月22日
+    ジャンル：忍道対戦アクション
+  - NARUTO -ナルト- 木ノ葉スピリッツ\!\!
+    メーカー：バンダイナムコゲームス
+    発売日：2006年11月16日
+    ジャンル：3D忍アクション
+    オリジナルキャラクター白銀三人衆（イブシ・メノウ・ガンドウ）が登場。
+  - [NARUTO -ナルト- 疾風伝　ナルティメットアクセル](../Page/NARUTO_-ナルト-_ナルティメットヒーロー.md "wikilink")
+    メーカー：バンダイナムコゲームス
+    発売日：2007年4月5日
+    ジャンル：忍道対戦アクション
+  - [NARUTO -ナルト- 疾風伝　ナルティメットアクセル2](../Page/NARUTO_-ナルト-_ナルティメットヒーロー.md "wikilink")
+    メーカー：バンダイナムコゲームス
+    発売日：2007年12月20日
+    ジャンル：忍者対戦アクション
+
+## PlayStation Portable
+
+  - [NARUTO -ナルト- ナルティメットポータブル](../Page/NARUTO_-ナルト-_ナルティメットヒーロー.md "wikilink")
+    メーカー：バンダイ
+    発売日：2006年3月30日
+    ジャンル：忍道対戦アクション
+  - [NARUTO-ナルト-疾風伝 ナルティメットアクセル3](../Page/NARUTO_-ナルト-_ナルティメットヒーロー.md "wikilink")
+    メーカー：バンダイナムコゲームス
+    発売日：2009年12月10日
+    ジャンル：忍道大戦アクション
+  - NARUTO -ナルト- 疾風伝 キズナドライブ
+    メーカー：バンダイナムコゲームス
+    発売日：2010年7月15日
+  - NARUTO -ナルト- 疾風伝 ナルティメットインパクト
+    メーカー：バンダイナムコゲームス
+    発売日：2011年10月20日
+
+## ニンテンドーDS
+
+  - NARUTO -ナルト- 最強忍者大結集3 for DS
+    メーカー：トミー
+    発売日：2005年4月21日
+    ジャンル：アクション
+  - NARUTO -ナルト- ナルトRPG2 千鳥VS螺旋丸
+    メーカー：トミー
+    発売日：2005年7月14日
+    ジャンル：RPG
+  - NARUTO -ナルト- 最強忍者大結集4 DS
+    メーカー：タカラトミー
+    発売日：2006年4月27日
+    ジャンル：アクション
+  - NARUTO -ナルト- ナルトRPG3 霊獣VS木ノ葉小隊
+    メーカー：タカラトミー
+    発売日：2006年7月13日
+    ジャンル：RPG
+  - NARUTO -ナルト- 忍列伝
+    メーカー:タカラトミー
+    発売日：2006年12月14日
+    ジャンル：アクション
+  - NARUTO -ナルト- 疾風伝 最強忍者大結集5 決戦\!“暁”
+    メーカー：タカラトミー
+    発売日：2007年7月19日
+    ジャンル：アクション
+  - NARUTO-ナルト-疾風伝 大乱戦！影分身絵巻
+    メーカー：タカラトミー
+    発売日：2008年2月14日
+    ジャンル:アクション
+  - NARUTO -ナルト- 疾風伝 忍列伝Ⅱ
+    メーカー: タカラトミー
+    発売日:2008年4月24日
+    ジャンル:3D格闘アクション
+  - NARUTO -ナルト- 疾風伝 最強忍者大結集 激突\!\!ナルトVSサスケ
+    メーカー：タカラトミー
+    発売日：2008年7月10日
+    ジャンル:横スクロール忍者アクション
+  - NARUTO -ナルト- 疾風伝 忍列伝Ⅲ
+    メーカー：タカラトミー
+    発売日：2009年4月30日
+    ジャンル：3D格闘アクション
+  - NARUTO -ナルト- 疾風伝 忍術全開\!チャクラッシュ\!\!
+    メーカー：タカラトミー
+    発売日：2010年4月22日
+    ジャンル：ハイスピード忍者バトルアクション
+
+## ニンテンドー3DS
+
+  - NARUTO -ナルト- 疾風伝 忍立体絵巻\! 最強忍界決戦\!\!
+    メーカー：タカラトミー
+    発売日：2011年3月31日
+    ジャンル：横スクロール忍アクション
+
+<!-- end list -->
+
+  - NARUTO -ナルト-SD パワフル疾風伝
+    メーカー：バンダイナムコゲームス
+    発売日：2012年11月29日
+    ジャンル：3Dコミカルアクション
+    スピンオフ『[NARUTO -ナルト- SD ロック・リーの青春フルパワー忍伝](https://ja.wikipedia.org/wiki/ロック・リーの青春フルパワー忍伝 "wikilink")』同様のキャラクターデザインとなっており、本編ストーリーをギャグ調にアレンジしている。
+
+## ニンテンドーゲームキューブ
+
+  - NARUTO -ナルト- 激闘忍者大戦\!
+    メーカー：トミー
+    発売日　：2003年4月11日
+  - NARUTO -ナルト- 激闘忍者大戦\!2
+    メーカー：トミー
+    発売日　：2003年12月4日
+  - NARUTO -ナルト- 激闘忍者大戦\!3
+    メーカー：トミー
+    発売日　：2004年11月20日
+  - NARUTO -ナルト- 激闘忍者大戦\!4
+    メーカー：トミー
+    発売日　：2005年11月21日
+
+## Wii
+
+  - [NARUTO -ナルト- 疾風伝 激闘忍者大戦\!EX](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX "wikilink")
+    メーカー：タカラトミー
+    発売日：2007年2月22日
+    ジャンル：3D忍者対戦格闘
+  - [NARUTO -ナルト- 疾風伝 激闘忍者大戦\!EX2](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX "wikilink")
+    メーカー：タカラトミー
+    発売日：2007年11月29日
+    ジャンル：3D忍者対戦格闘
+  - [NARUTO -ナルト- 疾風伝 激闘忍者大戦\!EX3](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX "wikilink")
+    メーカー：タカラトミー
+    発売日：2008年11月27日
+    ジャンル：3D忍者対戦格闘
+  - NARUTO -ナルト- 疾風伝 龍刃記
+    メーカー：タカラトミー
+    発売日：2009年11月26日
+    ジャンル：忍者アクション
+  - [NARUTO -ナルト- 疾風伝 激闘忍者大戦\!SPECIAL](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX "wikilink")
+    メーカー：タカラトミー
+    発売日：2010年12月2日
+    ジャンル：3D忍者対戦格闘
+
+## PlayStation 4
+
+  - [NARUTO -ナルト- 疾風伝 ナルティメットストーム4](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝_ナルティメットストーム4 "wikilink")
+    発売日：2016年2月4日
+    ジャンル：忍者大戦アクション
+
+## スワンクリスタル・ ワンダースワンカラー
+
+  - NARUTO -ナルト- 木ノ葉忍法帖
+    メーカー：バンダイ
+    発売日：2003年3月27日
+
+## データカードダス
+
+  - NARUTO ナルティメットカードバトル
+    メーカー：バンダイ
+    稼働日: 2005年10月
+    ナルティメットカードバトルは、[データカードダス](https://ja.wikipedia.org/wiki/データカードダス "wikilink")の一つ。またNARUTOカードゲームとしても使うことができる。
+  - NARUTO疾風伝 究極任務 ナルティメットミッション
+    メーカー：バンダイ
+    稼働日: 2007年2月
+    ナルティメットミッションは、[データカードダス](https://ja.wikipedia.org/wiki/データカードダス "wikilink")の一つ。また、ナルティメットカードバトルのカードも使うことができる。
+  - NARUTO疾風伝 ナルティメットフォーメーション
+    メーカー：バンダイ
+    稼働日: 2007年12月14日
+    ナルティメットフォーメーションは、[データカードダス](https://ja.wikipedia.org/wiki/データカードダス "wikilink")の一つ。また、ナルティメットカードバトル・ナルティメットミッションのカードも使うことができる。
+  - NARUTO疾風伝 ナルティメットクロス
+    メーカー：バンダイ
+    稼働日: 2009年1月29日
+    ナルティメットクロスは、[データカードダス](https://ja.wikipedia.org/wiki/データカードダス "wikilink")の一つ。また、ナルティメットカードバトル・ナルティメットミッション・ナルティメットフォーメーションのカードも使うことができる。
+
+## 体感型ゲーム
+
+  - リアル謎解きゲームブック「THE LAST –NARUTO THE MOVIE-」封印されし巻物をさがせ\!～天の書編～
+    主催：謎解きタウン
+    会場：[ららぽーとTOKYO-BAY](../Page/ららぽーとTOKYO-BAY.md "wikilink")、[ららぽーと横浜](../Page/ららぽーと横浜.md "wikilink")
+    開催日：2014年12月1日～2015年1月5日
+    ジャンル：イベント連動型ゲームブック
+  - リアル謎解きゲームブック「THE LAST –NARUTO THE MOVIE-」封印されし巻物をさがせ\!～地の書編～
+    主催：謎解きタウン
+    会場：[アーバンドックららぽーと豊洲](https://ja.wikipedia.org/wiki/アーバンドックららぽーと豊洲 "wikilink")
+    開催日：2014年12月1日～2015年1月5日
+    ジャンル：イベント連動型ゲームブック
+  - NARUTO×謎解きラリー 忍者学校からの挑戦状
+    主催：ナゾメイト
+    会場：ジャンプフェスタ2015
+    開催日：2014年12月20日～21日
+    ジャンル：謎解きラリー
+  - BORUTOと謎隠れの里 解術編 狙われた木ノ葉隠れの里
+    主催：ネットとリアルで体感ゲーム
+    会場：全国28箇所の[イオンシネマ](https://ja.wikipedia.org/wiki/イオンシネマ "wikilink")
+    開催日：2015年7月15日～9月6日まで全日
+    ジャンル：リアル謎解きゲーム
+  - BORUTOと謎隠れの里 脱出編 囚われた火影-ナルト-
+    主催：NAZO×NAZO劇団
+    会場：全国7都市各々の会場
+    開催日：2015年7月25日～9月23日（初演～終演まで合計日程）
+    ジャンル：リアル謎解きゲーム
+
+## NARUTOカードゲーム
+
+『NARUTO -ナルト-』を題材とした[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")。メーカー主体によるイベントも各地で開かれている。
+
+### カードの種類
+
+カードは、忍カード、術カード、作戦カード、依頼人カードの4種類から成る。デッキの枚数は40枚。
+
+  - 忍カード
+    中心となるカード。攻撃や術の使用に必要。それぞれ火・水・風・土・雷のうち一つのシンボルを持つ。
+  - 術カード
+    術を発動するカード。発動にはシンボルが必要な場合もある。
+  - 作戦カード
+    各ターンに一度だけ、効果を発動できる。
+  - 依頼人カード
+    一般人をあらわすカード。忍のように出動はできない。
+
+### ルール
+
+それぞれ6枚ずつカードを引いてはじめる。
+
+交互に攻撃をしながら最終的に戦果を10枚獲得した方が勝ちになる。ただし手札がなくなると負けになる。
+
+## ジャンプ関連
+
+『NARUTO -ナルト-』の登場人物が参戦している。
+
+  - [ジャンプスーパースターズ](https://ja.wikipedia.org/wiki/ジャンプスーパースターズ "wikilink")
+    メーカー：[任天堂](../Page/任天堂.md "wikilink")
+    発売日：[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月8日](../Page/8月8日.md "wikilink")
+    [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[格闘アクションゲーム](../Page/対戦型格闘ゲーム.md "wikilink")
+    [うずまきナルト](https://ja.wikipedia.org/wiki/うずまきナルト "wikilink")、[うちはサスケ](https://ja.wikipedia.org/wiki/うちはサスケ "wikilink")など第1部のキャラ12人が参戦。
+  - [バトルスタジアム D.O.N](../Page/バトルスタジアム_D.O.N.md "wikilink")
+    メーカー：[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")
+    発売日：[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月20日](../Page/7月20日.md "wikilink")
+    [PlayStation 2と](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用[アクションゲーム](../Page/アクションゲーム.md "wikilink")
+    [ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")Z、[ONE PIECE](../Page/ONE_PIECE.md "wikilink")、[NARUTO -ナルト-の](https://ja.wikipedia.org/wiki/NARUTO_-ナルト- "wikilink")3作品のキャラクターが登場。
+  - [ジャンプアルティメットスターズ](https://ja.wikipedia.org/wiki/ジャンプアルティメットスターズ "wikilink")
+    メーカー：[任天堂](../Page/任天堂.md "wikilink")
+    発売日：[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月23日](../Page/11月23日.md "wikilink")
+    [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用の格闘アクションゲーム
+    第二部のキャラ9人が参戦。
+  - [ジェイスターズビクトリーバーサス](https://ja.wikipedia.org/wiki/ジェイスターズビクトリーバーサス "wikilink")
+    メーカー：[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")
+    発売日：[2014年](../Page/2014年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")
+    [PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[PlayStation Vita用のアクションゲーム](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")
+    うずまきナルト、うちはサスケ、うちはマダラが参戦
+
+## 脚注
+
+## 外部リンク
+
+  - [NARUTOどっとこむ](http://www.naruto.com/)
+  - [カードゲーム公式サイト](http://www.carddas.com/naruto/)
+  - [NARUTO疾風伝 ナルティメットフォーメーション](http://www.fudanin.com/)
+  - [NARUTO -ナルト- ゲーム総合サイト（バンダイナムコゲームス）](http://www.bandaigames.channel.or.jp/list/naruto/)
+
+[Category:NARUTO_-ナルト-](https://ja.wikipedia.org/wiki/Category:NARUTO_-ナルト- "wikilink") [Category:漫画のキャラクターゲーム](https://ja.wikipedia.org/wiki/Category:漫画のキャラクターゲーム "wikilink") [Category:アニメのキャラクターゲーム](https://ja.wikipedia.org/wiki/Category:アニメのキャラクターゲーム "wikilink") [Category:忍者を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:忍者を題材としたコンピュータゲーム "wikilink") [Category:超能力を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:超能力を題材としたコンピュータゲーム "wikilink") [Category:魔法・呪術を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:魔法・呪術を題材としたコンピュータゲーム "wikilink") [Category:GREE](https://ja.wikipedia.org/wiki/Category:GREE "wikilink") [Category:ソーシャルゲーム](https://ja.wikipedia.org/wiki/Category:ソーシャルゲーム "wikilink") [Category:バンダイのゲームソフト](https://ja.wikipedia.org/wiki/Category:バンダイのゲームソフト "wikilink")

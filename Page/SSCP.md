@@ -1,0 +1,52 @@
+> この記事は[SSCP](https://ja.wikipedia.org/wiki/SSCP)から翻訳されています。
+
+
+**SSCP**（**S**ingle **S**trand **C**onformation **P**olymorphismの略語、一本鎖高次構造多型）とは、 [熱変性させた](https://ja.wikipedia.org/wiki/変性 "wikilink")[DNAが分子内で](../Page/デオキシリボ核酸.md "wikilink")[水素結合](../Page/水素結合.md "wikilink")を起こして[高次構造を形成する際に](../Page/立体配座.md "wikilink")、 僅かな[塩基配列](../Page/塩基配列.md "wikilink")の違いによりその高次構造に変化が生ずる（[多型](https://ja.wikipedia.org/wiki/多型 "wikilink")を示す）ことを指す。 また、その高次構造の変化を指標として遺伝子の変異や多型を検出する手法を指している。
+
+遺伝子の変異や多型を調べるために現在多く用いられる手法として、 特定の遺伝子領域を[PCR法により増幅して得られた増幅産物を試料DNAとして](../Page/ポリメラーゼ連鎖反応.md "wikilink") 検出操作を実施する場合が多いことから、**PCR-SSCP法**と呼ばれる場合もある。
+
+## 原理
+
+試料DNAは二本鎖DNAが乖離して、それぞれのDNA鎖が高次構造を形成することから、電気泳動法では2種類の産物が別々に検出される。
+
+完全に同じ配列の一本鎖DNAは同じ高次構造を形成するため電気泳動における移動度は等しくなる。 一方、僅かでも塩基配列が異なると、その一本鎖DNAが形成する高次構造は著しく変わり電気泳動における移動度も異なる。 すなわち、塩基配列の全長（塩基数）が同じであっても、その配列中に僅かな差異（変異・多型）があると、 電気泳動における移動度の差異、すなわち電気泳動パターンの違いにより検出することができる。
+
+## 手法の概略
+
+[ポリアクリルアミドゲル電気泳動](https://ja.wikipedia.org/wiki/ポリアクリルアミドゲル電気泳動 "wikilink")法を用いた場合の、 SSCPによる変異（多型性）検出手法の概略は次の通りである。
+
+1.  特定の遺伝子領域の切り出し（またはPCRによる増幅）により試料DNAを得る
+2.  ホルムアミドの存在下で試料DNAを熱変性（加熱・急冷）させる
+      - これにより二本鎖DNAが乖離して一本鎖となり、それぞれが分子内で水素結合して高次構造を形成する。
+3.  熱変性させた試料DNAを[ポリアクリルアミドゲル](https://ja.wikipedia.org/wiki/ポリアクリルアミドゲル電気泳動 "wikilink") で電気泳動
+4.  [銀染色](../Page/銀染色.md "wikilink")等により検出する
+
+## 多型性検出の能力
+
+SSCPによる多型性の検出においては、100から300塩基程度の長さの遺伝子領域を試料として用いる場合が多いが、 500塩基を超える試料DNAの中から1塩基の相違を検出できる場合もある。
+
+## 再現性について
+
+完全に同一の塩基配列を持つDNAであっても、その高次構造は温度、緩衝液の種類などの条件により変化することから、 SSCPによる遺伝的変異、多型性の検出においては温度制御の可能な電気泳動装置を使用することが必要である。
+
+## その他の方法
+
+  - 蛍光色素を結合させた[PCRプライマーで試料DNAを標識し](https://ja.wikipedia.org/wiki/プライマー "wikilink")、[キャピラリー電気泳動](https://ja.wikipedia.org/wiki/キャピラリー電気泳動 "wikilink")装置で検出する方法
+  - [ビオチン](https://ja.wikipedia.org/wiki/ビオチン "wikilink")を結合させたPCRプライマーで試料DNAを標識し、[ポリアクリルアミドゲル電気泳動](https://ja.wikipedia.org/wiki/ポリアクリルアミドゲル電気泳動 "wikilink")法と[サザンブロット法を組み合わせて検出する方法](../Page/サザンブロッティング.md "wikilink")
+
+などもある。
+
+  - 変異の検出ということでは、いわゆる次世代シーケンサー（高速シーケンサー）を用いて配列解析することも行なわれる。
+
+## 関連項目
+
+  - [多型](https://ja.wikipedia.org/wiki/多型 "wikilink")
+  - [一塩基多型](../Page/一塩基多型.md "wikilink")
+  - [立体配座](../Page/立体配座.md "wikilink")
+  - [PCR法](../Page/ポリメラーゼ連鎖反応.md "wikilink")
+  - [電気泳動](../Page/電気泳動.md "wikilink")
+  - [ポリアクリルアミドゲル電気泳動](https://ja.wikipedia.org/wiki/ポリアクリルアミドゲル電気泳動 "wikilink")
+  - [キャピラリー電気泳動](https://ja.wikipedia.org/wiki/キャピラリー電気泳動 "wikilink")
+  - [サザンブロット法](../Page/サザンブロッティング.md "wikilink")
+
+[Category:分子生物学](https://ja.wikipedia.org/wiki/Category:分子生物学 "wikilink") [Category:遺伝学](https://ja.wikipedia.org/wiki/Category:遺伝学 "wikilink") [Category:ゲノミクス](https://ja.wikipedia.org/wiki/Category:ゲノミクス "wikilink") [Category:生物学の研究技術](https://ja.wikipedia.org/wiki/Category:生物学の研究技術 "wikilink")

@@ -1,0 +1,155 @@
+> この記事は[  \(OVA\)](https://ja.wikipedia.org/wiki/__\(OVA\))から翻訳されています。
+
+
+『**ファイアーエムブレム 紋章の謎**』（ファイアーエムブレム もんしょうのなぞ）は、[1996年](../Page/1996年.md "wikilink")に[ケイエスエス](https://ja.wikipedia.org/wiki/ケイエスエス "wikilink")より[VHS](../Page/VHS.md "wikilink")及び[LDで発売された](../Page/レーザーディスク.md "wikilink")[OVA](../Page/OVA.md "wikilink")。
+
+## 概要
+
+2巻まで発売され、その後の制作は「作品の人気次第で続行の可否を決める」としていたが、結局制作は中断となり、未完の作品となっている。
+
+[任天堂](../Page/任天堂.md "wikilink")より発売された同タイトルの[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ゲームソフト『[ファイアーエムブレム 紋章の謎](https://ja.wikipedia.org/wiki/ファイアーエムブレム_紋章の謎 "wikilink")』が原作で、第1部・暗黒戦争編より序盤のMAP1「マルスの旅立ち」からMAP3「デビルマウンテン」までのストーリーが展開される。
+
+北米では[ADV Films社が発売](https://ja.wikipedia.org/wiki/ADVフィルム "wikilink")。なお、原作となるゲームは北米未発売であるが『[大乱闘スマッシュブラザーズシリーズ](../Page/大乱闘スマッシュブラザーズシリーズ.md "wikilink")』の海外版には、日本版と同様に本作の主人公・マルスが登場し、[声優](../Page/声優.md "wikilink")も[緑川光](../Page/緑川光.md "wikilink")がそのまま起用されている。
+
+『[幻影異聞録♯FE](https://ja.wikipedia.org/wiki/幻影異聞録♯FE "wikilink")』では、緑川、子安武人、小杉十郎太が同じキャラクターで出演している。その中でマルス役\[1\]と、ナバール役は決め打ちによる選考をしたと、安藤佳織の公言があった\[2\]。
+
+## ストーリー
+
+ゲームの第1作[「暗黒竜と光の剣」のストーリーを参照](https://ja.wikipedia.org/wiki/ファイアーエムブレム_暗黒竜と光の剣#ストーリー "wikilink")。
+
+## キャラクター
+
+### 主なキャラクター
+
+  - [マルス](../Page/マルス_\(ファイアーエムブレム\).md "wikilink") - [緑川光](../Page/緑川光.md "wikilink") / [折笠愛](../Page/折笠愛.md "wikilink")（少年時代）
+  - エリス - [島本須美](../Page/島本須美.md "wikilink")
+  - コーネリアス - [大塚明夫](../Page/大塚明夫.md "wikilink")
+  - ガーネフ - [青野武](../Page/青野武.md "wikilink")
+  - [シーダ](https://ja.wikipedia.org/wiki/シーダ "wikilink") - [丹下桜](https://ja.wikipedia.org/wiki/丹下桜 "wikilink")
+  - ジェイガン - [加藤精三](https://ja.wikipedia.org/wiki/加藤精三_\(声優\) "wikilink")
+  - カイン - [檜山修之](../Page/檜山修之.md "wikilink")
+  - アベル - [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
+  - ドーガ - [川津泰彦](https://ja.wikipedia.org/wiki/川津泰彦 "wikilink")
+  - ゴードン - [石田彰](../Page/石田彰.md "wikilink")
+  - バーツ - [高木渉](https://ja.wikipedia.org/wiki/高木渉 "wikilink")
+  - オグマ - [小杉十郎太](https://ja.wikipedia.org/wiki/小杉十郎太 "wikilink")
+  - ジュリアン - [山口勝平](../Page/山口勝平.md "wikilink")
+  - レナ - [根谷美智子](../Page/根谷美智子.md "wikilink")
+  - ナバール - [子安武人](../Page/子安武人.md "wikilink")
+  - モスティン - [塚田正昭](https://ja.wikipedia.org/wiki/塚田正昭 "wikilink")
+  - ガザック - [梁田清之](https://ja.wikipedia.org/wiki/梁田清之 "wikilink")
+  - ハイマン - [石井康嗣](https://ja.wikipedia.org/wiki/石井康嗣 "wikilink")
+
+### オリジナルキャラクター
+
+  - ベクト
+    声：[阪脩](https://ja.wikipedia.org/wiki/阪脩 "wikilink")
+    ガルダの長。
+  - 闘技場の元締め\[3\]
+    声：[飯塚昭三](https://ja.wikipedia.org/wiki/飯塚昭三 "wikilink")
+    闘技場の元締めを務めており、裏では奴隷商売を行っている。性格は原作の元締めと変わらないが、姿は原作と異なる。（原作ではスキンヘッドで眼帯を着用した強面の男）レナを売ろうとするがナバールに襲われ金で命乞いをするも、哀れに斬殺される。
+
+## スタッフ
+
+  - 監督・絵コンテ - [三沢伸](../Page/三沢伸.md "wikilink")
+  - [キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink") - [もりやまゆうじ](https://ja.wikipedia.org/wiki/森山雄治 "wikilink")
+  - 脚本 - [黒田洋介](../Page/黒田洋介.md "wikilink")
+  - 演出 - [坂田純一](https://ja.wikipedia.org/wiki/坂田純一 "wikilink")（1巻）、三沢伸（2巻）
+  - 作画監督 - もりやまゆうじ（1巻）、大島康弘（2巻）
+  - 美術監督 - 小倉一男
+  - 撮影監督 - 安津畑隆
+  - 音響監督 - [田中一也](../Page/たなかかずや.md "wikilink")
+  - 音楽 - [神津裕之](../Page/神津裕之.md "wikilink")
+      - アニメーションサウンドトラック/KSSレコード（JSCA-29031）
+      - 一部原曲：[辻横由佳](../Page/辻横由佳.md "wikilink")（[ファイアーエムブレム 紋章の謎より](https://ja.wikipedia.org/wiki/ファイアーエムブレム_紋章の謎 "wikilink")）
+  - 協力 - [任天堂](../Page/任天堂.md "wikilink")・[インテリジェントシステムズ](https://ja.wikipedia.org/wiki/インテリジェントシステムズ "wikilink")・[加賀昭三](../Page/加賀昭三.md "wikilink")
+  - プロデューサー - 望月正雄
+  - 制作プロデューサー - 榎本歩光
+  - アニメーション制作 - [スタジオファンタジア](https://ja.wikipedia.org/wiki/スタジオ・ファンタジア "wikilink")
+  - 製作・発売 - [ケイエスエス](https://ja.wikipedia.org/wiki/ケイエスエス "wikilink")
+  - 販売 - 日本ソフトシステム
+
+## 商品情報
+
+  - 第1巻「アリティアの王子」
+
+<!-- end list -->
+
+  - 発売日：[1996年](../Page/1996年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")
+  - 商品番号：JSVA-22757（VHS） JSLA-22757（LD）
+  - 総収録時間：30分
+
+<!-- end list -->
+
+  - 第2巻「紅の剣士」
+
+<!-- end list -->
+
+  - 発売日：1996年[4月26日](../Page/4月26日.md "wikilink")
+  - 商品番号：JSVA-22758（VHS） JSLA-22758（LD）
+  - 総収録時間：30分
+
+※レンタルビデオ版「R-1」（VHSのみ）は第1巻と第2巻の合本（総収録時間：60分）。
+
+### サウンドトラック
+
+**ファイアーエムブレム 紋章の謎 アニメーション・サウンド・トラック**は日本の『[ファイアーエムブレム 紋章の謎](https://ja.wikipedia.org/wiki/ファイアーエムブレム_紋章の謎 "wikilink")』から派生した『**オリジナルビデオアニメ ファイアーエムブレム 紋章の謎**』の音楽CDである。
+
+#### 解説
+
+派生ではあるが『ファイアーエムブレム 紋章の謎』セカンドCDアルバムであり、[神津裕之](../Page/神津裕之.md "wikilink")によるアレンジアニメサントラCDである。使用楽曲の一部は『紋章の謎』と『暗黒戦争編』の元になったオリジナルゲーム『[ファイアーエムブレム 暗黒竜と光の剣](https://ja.wikipedia.org/wiki/ファイアーエムブレム_暗黒竜と光の剣 "wikilink")』を使用している。
+
+25曲目の「[暗黒竜と光の剣](https://ja.wikipedia.org/wiki/暗黒竜と光の剣 "wikilink")」は声優・[銀河万丈](../Page/銀河万丈.md "wikilink")によるヴォーカルソングであり、[マルスの祖先である](../Page/マルス_\(ファイアーエムブレム\).md "wikilink")、英雄・アンリによる暗黒竜との戦いの伝説を吟遊詩人が短く歌うシーンに起用したものを収録している。
+
+ジャケットは『OVA版』のマルス、[シーダ](https://ja.wikipedia.org/wiki/シーダ "wikilink")、オグマ、カイン、アベル、ゴードン、ジェイガンの躍動系の集合写真タイプになっている。
+
+今作品で『紋章の謎』の音楽CDは最後となっている。
+
+#### 収録曲
+
+1.  ファイアーエムブレム～誓いの紋章～\[4\]
+2.  解放への序曲
+3.  心、重ね、二人
+4.  ガルダの気勢
+5.  復讐という名の侵略
+6.  英雄戦争
+7.  動乱の世界の中で
+8.  別れは深く、悲しみは深く
+9.  オグマ、剛なる剣
+10. お願い、タリスを助けて\!
+11. 想いは胸に秘め、眼差しで愛を語る
+12. レイピアの輝きを胸に
+13. 暗黒の司祭
+14. 我はアカネイアの盾
+15. 流転する運命
+16. 命尽きるなら二人で
+17. アリティアの旗に集え
+18. 聖なるものへ捧ぐ唱歌
+19. 二年間の沈黙と決意
+20. 一時の安息
+21. 闇に隷属する人々
+22. 自由を勝ち取ること
+23. 眩しくて見えない
+24. 追われるべき者
+25. [暗黒竜と光の剣](https://ja.wikipedia.org/wiki/暗黒竜と光の剣 "wikilink")（歌：銀河万丈）
+
+## その他の話題
+
+OVAのライナーツノーツにてシーダの天馬の名前が「エルカイト」、ナバールの戦う形状が「二刀流」になっている。又、オリジナルゲームには無いマルスが馬に騎乗して戦うシーンもある。これは、[角川書店](../Page/角川書店.md "wikilink")の[佐野真砂輝&わたなべ京](../Page/佐野真砂輝&わたなべ京.md "wikilink")著の漫画『[ファイアーエムブレム](https://ja.wikipedia.org/wiki/ファイアーエムブレム_\(佐野真砂輝&わたなべ京の漫画\) "wikilink")』の設定と全く同じである。
+
+本作の主人公・マルスの声優は、現在は廃刊となった[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")で行われていた人気投票によって緑川光に決まったという経緯がある。
+
+[NTT出版発行の](https://ja.wikipedia.org/wiki/エヌ・ティ・ティ出版 "wikilink")『ファイアーエムブレム・ザ・コンプリート』では、マルス役の緑川光、シーダ役の丹下桜、オグマ役の小杉十郎太、ナバール役の子安武人がインタビューに登場した。詳細は[ファイアーエムブレムの登場人物 (アカネイア大陸)の各キャラクターの項目を参照](../Page/ファイアーエムブレムの登場人物_\(アカネイア大陸\).md "wikilink")。
+
+## 参考文献
+
+  - 佐野真砂輝&わたなべ京著 ファイアーエムブレム（株）角川書店
+
+## 脚注
+
+[Category:ファイアーエムブレム_(アカネイア大陸)](https://ja.wikipedia.org/wiki/Category:ファイアーエムブレム_\(アカネイア大陸\) "wikilink") [Category:アニメ作品_ふ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ふ "wikilink") [Category:1996年のOVA](https://ja.wikipedia.org/wiki/Category:1996年のOVA "wikilink") [Category:スタジオ・ファンタジア](https://ja.wikipedia.org/wiki/Category:スタジオ・ファンタジア "wikilink") [Category:任天堂原作・原案のアニメ作品](https://ja.wikipedia.org/wiki/Category:任天堂原作・原案のアニメ作品 "wikilink") [Category:未完の作品](https://ja.wikipedia.org/wiki/Category:未完の作品 "wikilink")
+
+1.  『幻武人影異聞録♯FE』のエンディングスタッフロールより。
+2.  Nintendo DREAM 2016年3月号、P26、27「幻影異聞録♯FE 制作異聞録」より。
+3.  クレジットには「奴隷商人」と表記されている。
+4.  後に、一部のFEシリーズや『[大乱闘スマッシュブラザーズX](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズX "wikilink")』で起用されている題名・[ファイアーエムブレムのテーマ](https://ja.wikipedia.org/wiki/ファイアーエムブレムのテーマ "wikilink")の事である。

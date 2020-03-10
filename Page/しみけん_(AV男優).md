@@ -1,0 +1,444 @@
+> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+
+
+**しみけん**（[1979年](../Page/1979年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV男優](https://ja.wikipedia.org/wiki/AV男優 "wikilink")、[AV監督](https://ja.wikipedia.org/wiki/AV監督 "wikilink")である。また著述家、飲食店の経営者でもある。
+
+## 人物
+
+  - 出演作品は9500本以上、年間約500作品に出演しており、人気AV女優のレンタル用DVDの3本に1本は出演している。セックス経験人数は推定1万人\[1\]。
+  - 一番好きな体位は「ロールスロイス」（車のボンネットに付いているエンブレムのような体位）で、得意技は「しみ[クンニ](../Page/クンニリングス.md "wikilink")」。撮影で一番苦労するのは、長時間の[駅弁スタイルなので](https://ja.wikipedia.org/wiki/立位#駅弁 "wikilink")、先にヨリ（アップ）を収録してもらう。
+  - 弟子に[一徹](https://ja.wikipedia.org/wiki/一徹_\(AV男優\) "wikilink")、[イセドン内村](https://ja.wikipedia.org/wiki/イセドン内村 "wikilink")、[コンピューター園田](https://ja.wikipedia.org/wiki/コンピューター園田 "wikilink")、世界のやまけん、出てこい中平くん2号がいる\[2\]。
+  - クイズ好きで知られ、学生時代はクイズ研究会に属しており\[3\]、クイズ歴は25年くらいだという\[4\]。[日本テレビの番組](../Page/日本テレビ放送網.md "wikilink")『今世紀最後\! [アメリカ横断ウルトラクイズ](https://ja.wikipedia.org/wiki/アメリカ横断ウルトラクイズ "wikilink")』では作問を担当、国内第一次予選の東京ドームにおける〇×クイズ第9問目（放送では第6問目）と早押しクイズで問題が採用される\[5\]。しかし、本人としては本選に出場したかったようで、作問は途中で放棄しクイズに参加するも、あえなく敗退\[6\]。失格した次の問題は、なんと自身が作成した問題であった\[7\]。[BSスカパー\!](https://ja.wikipedia.org/wiki/BSスカパー! "wikilink")の番組「[BAZOOKA\!\!\!](https://ja.wikipedia.org/wiki/BAZOOKA!!! "wikilink")」内の人気クイズ企画「[地下クイズ王決定戦](https://ja.wikipedia.org/wiki/地下クイズ王決定戦!! "wikilink")\!\!」では第2回準優勝、第3回準優勝、第4回優勝、第5回優勝の戦績を残している。
+  - [趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")は[読書](../Page/読書.md "wikilink")、トレーニング、ドライブ、映画、[旅行](../Page/旅行.md "wikilink")、食事\[8\]。特技は[ブレイクダンス](../Page/ブレイクダンス.md "wikilink")\[9\]。
+  - 離婚歴があり、その女性との間に二人の子供がいる\[10\]。現在の[内縁](https://ja.wikipedia.org/wiki/内縁 "wikilink")（[事実婚](../Page/事実婚.md "wikilink")）の妻は[はあちゅう](https://ja.wikipedia.org/wiki/伊藤春香_\(編集者\) "wikilink")\[11\]。
+
+## 来歴
+
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[昭和学院秀英高等学校卒業](https://ja.wikipedia.org/wiki/昭和学院秀英中学校・高等学校 "wikilink")。一浪のち法政大学に入学したが、一度も大学に通うことなく中退。
+  - 1998年、高校卒業後の浪人中に[ゲイ雑誌](https://ja.wikipedia.org/wiki/ゲイ雑誌 "wikilink")『[Badi](https://ja.wikipedia.org/wiki/Badi "wikilink")』で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。その後、Badiの編集部員のひとりだった[マツコ・デラックス](../Page/マツコ・デラックス.md "wikilink")に「あんたはもっと真剣にAV男優を目指すべきだわ」と言われ、AVメーカーに履歴書を送る就活を行い、「君、ウンコ食べられる?」というAVメーカー側からの質問に「ここで『喰えない』と答えれば男優としての道が閉ざされる」と考えた彼は「喰えます」と即答。そして撮影当日、彼はがむしゃらに食べた結果、撮影終了後に監督から『呑み込まなくてよかったのに…』と言われた。すでに食べた彼は撮影後の帰り道、下痢が止まらなくなり数日経っても治らなかったので、病院で治療した。その時の治療費は約2万円。本作のギャラは1万5千円だったので苦痛の上に5千円の出費という痛手をした。しかし、それから多く仕事が舞い込んだ\[12\]。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、「東京オープン[ボディビル](https://ja.wikipedia.org/wiki/ボディビル "wikilink")選手権大会」の60kg級で6位となる\[13\]。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、「[AVグランプリ](https://ja.wikipedia.org/wiki/AVグランプリ "wikilink")2008」で『しみけんのプライベート7 FUCK』（[2007年](../Page/2007年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")、[アイデアポケット](../Page/アイデアポケット.md "wikilink")）が、[オムニバス](../Page/オムニバス.md "wikilink")部門最優秀賞を受賞\[14\]。
+  - [2011年](../Page/2011年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")、AV男優名を本名の「清水健」から「しみけん」に改名した\[15\]。
+  - [2015年](../Page/2015年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")、「[スカパー\!アダルト放送大賞](https://ja.wikipedia.org/wiki/スカパー!アダルト放送大賞 "wikilink")2015」で「抱かれたいAV男優賞」受賞\[16\]。
+  - 2015年[8月16日](../Page/8月16日.md "wikilink")、東京・世田谷区にうんこ味のカレー屋『カレーショップ志み津』をオープンさせ話題となる\[17\]。店は[2016年](../Page/2016年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")に閉店した\[18\]が、同年の4月30日に[ロフトプラスワンWESTにて一日限定で復活した](../Page/新宿ロフトプラスワン.md "wikilink")\[19\]。
+
+## 出演
+
+### アダルトDVD・VHS
+
+  - ザ・ナンパミラクル1/2 しみけん（フール）
+      - [津田沼](../Page/津田沼.md "wikilink")\!\!編（2004年3月28日）
+      - [町田](../Page/町田市.md "wikilink")\!\!編（2004年4月28日）
+
+<!-- end list -->
+
+  - ザ・ナンパミラクル1/2 シミケン（フール）
+      - [所沢](../Page/所沢市.md "wikilink")\!\!編（2004年5月28日）
+      - [大宮](https://ja.wikipedia.org/wiki/大宮区 "wikilink")\!\!編 （2004年6月28日）
+      - [太田](../Page/太田市.md "wikilink")〜[伊勢崎](https://ja.wikipedia.org/wiki/伊勢崎市 "wikilink")\!\!編（2004年7月28日）
+
+<!-- end list -->
+
+  - ザ・ナンパミラクル2/2 しみけん（フール）
+      - [下北沢](../Page/下北沢.md "wikilink")\!\!編（2004年1月28日）
+      - [中野](https://ja.wikipedia.org/wiki/中野区 "wikilink")\!\!編（2004年11月28日）
+      - [吉祥寺](https://ja.wikipedia.org/wiki/吉祥寺 "wikilink")\!\!編（2004年12月28日）
+      - [池袋](https://ja.wikipedia.org/wiki/池袋 "wikilink")西口\!\!編（2005年2月28日）
+      - [歌舞伎町](https://ja.wikipedia.org/wiki/歌舞伎町 "wikilink")\!\!編 （2005年4月28日）
+      - [松戸](https://ja.wikipedia.org/wiki/松戸市 "wikilink")\!\!編 （2005年7月22日）
+      - [西川口](https://ja.wikipedia.org/wiki/西川口_\(川口市\) "wikilink")〜[川口](../Page/川口_\(川口市\).md "wikilink")\!\!編（2005年7月28日）
+
+<!-- end list -->
+
+  - しみけんの電脳ミラクルSUPERライブ（フール）
+      - 2004/6･19 6･20 6･22（2004年9月28日）
+      - 2004/8･24 8･25 8･26（2004年10月28日）
+      - 2004/9･3 9･4 9･5（2004年11月28日）
+      - 2004/10･13 10･14 10･15（2004年12月28日）
+      - 2004/11･8 11･9 11･10）（2005年1月28日）
+      - 04 夏の陣（2005年2月15日）
+      - 04 冬の陣＋未公開スペシャル（2005年4月15日）
+
+<!-- end list -->
+
+  - しみけんのGAL ワキナンパ VOL.1（2007年3月5日、SUPER SMELL）
+  - しみけんのGAL ワキナンパ VOL.2（2007年3月5日、SUPER SMELL）
+  - しみけんのプライベート7 FUCK（2007年12月1日、アイデアポケット）※[AVグランプリ](https://ja.wikipedia.org/wiki/AVグランプリ "wikilink")2008 オムニバス部門最優秀賞 受賞。
+  - しみけんのプライベート7FUCK 2（2008年8月1日、アイデアポケット）
+  - しみけんの新人ぶった斬りFUCK 6本番（2009年8月1日、アイデアポケット）
+  - しみけん×S級女優のプライベートハメ撮り7番勝負（2015年4月2日、アイデアポケット）
+
+<!-- end list -->
+
+  - 美魔女ナンパ\!\! 生ズキ40代！しみけんのガチ攻略！（ホットエンターテイメント）
+      - [代官山](https://ja.wikipedia.org/wiki/代官山 "wikilink")編（2014年11月10日）
+      - [銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")編（2015年5月10日）
+      - [赤坂編](../Page/赤坂_\(東京都港区\).md "wikilink")（2015年10月10日）
+      - 4時間DX（2016年6月10日）
+  - 美魔女ナンパ\!\! しみけんが唸らす！熟女の理性吹き飛ぶ生FUCK！（ホットエンターテイメント）
+      - [表参道編](../Page/表参道_\(原宿\).md "wikilink")（2016年2月10日）
+      - [錦糸町](https://ja.wikipedia.org/wiki/錦糸町 "wikilink")編（2016年9月10日）
+
+<!-- end list -->
+
+  - 俺のヤリマン紹介します Vol.2 AV男優しみけん　さき（2016年2月19日、ヤリマン伝説）
+
+#### 女優
+
+  - 2011年
+
+<!-- end list -->
+
+  - 芸能人 [原紗央莉](https://ja.wikipedia.org/wiki/原紗央莉 "wikilink")を24時間AV男優にお貸しします。（3月19日、[SODクリエイト](../Page/SODクリエイト.md "wikilink")）
+
+<!-- end list -->
+
+  - 2016年
+
+<!-- end list -->
+
+  - グラビア四天王たかしょーMUTEKI Debut\!\! [高橋しょう子](https://ja.wikipedia.org/wiki/高橋しょう子 "wikilink")（5月1日、[MUTEKI](https://ja.wikipedia.org/wiki/MUTEKI "wikilink")）
+  - [芸能人ANRI](https://ja.wikipedia.org/wiki/坂口杏里 "wikilink") What a day\!\!（10月23日、[MUTEKI](https://ja.wikipedia.org/wiki/MUTEKI "wikilink")）
+
+#### 女性向け作品
+
+  - ECSTASY 〜危険な香り〜（2003年5月21日、[V\&Rプランニング](https://ja.wikipedia.org/wiki/V&Rプランニング "wikilink")）※VHS
+  - 最後のキスを忘れない（2011年6月4日、[SILK LABO](https://ja.wikipedia.org/wiki/SILK_LABO "wikilink")）
+  - The Best Collection 1（2011年6月4日、SILK LABO）
+  - 3センチメートル 高まる鼓動を感じる距離（2011年12月8日、SILK LABO）
+  - GOSSIP BOYS（eS）
+      - episode1 「はじまり」（2014年8月15日）
+      - episode2 「Passion Sex」（2014年10月15日）
+      - episode3「The Fight & The Face」 （2014年12月15日）
+  - イケメン×筋肉×AV男優 Best Collection（ROOKIE、2014年11月19日）
+  - AV男優どうでしょう　其の壱（2014年11月22日、[つくばテレビ](../Page/つくばテレビ.md "wikilink")）
+  - 恋愛学園（2016年5月26日、GIRL'S CH）
+
+#### その他
+
+  - 2007年
+
+<!-- end list -->
+
+  - CYBER EXSTASY（10月29日、FORCE ENTERTAINMENT）
+
+<!-- end list -->
+
+  - 2010年
+
+<!-- end list -->
+
+  - 彼氏候補（12月23日、[SODクリエイト](../Page/SODクリエイト.md "wikilink")）
+
+### ネット配信
+
+#### Peachjoy
+
+  - A Pleasant Night 〜　Shimiken（2012年1月1日公開）
+
+#### S-cute
+
+  - S-Cute 7th
+      - No.18 You（2010年1月29日公開）
+      - No.23 Risa（2010年2月19日公開）
+      - No.72 Saki（2010年10月15日公開）
+      - No.88 Saki（2010年12月31日公開）
+  - S-Cute ∞
+      - Stylish Tsubasa \#4 乱れまくり美人（2011年5月9日公開）
+      - Pure Mion \#9 ウブな制服娘を征服！（2011年7月11日公開）
+  - S-cute
+      - Minami \#2 とろけるフェロモン（2011年10月14日公開）
+      - Nozomi \#5 潮吹き濃厚SEX（2012年8月3日公開）
+      - Yun \#2 ロリっ子貪られSEX（2012年10月15日公開）
+      - Rei \#3 淫らに求め合うSEX（2013年1月11日公開）
+      - Mika \#4 激しく貪られるSEX（2013年5月6日公開）
+
+#### ボッキマンJAPAN
+
+  - チンパンジーでもわかる。スーパーAV男優しみけんの 「20分で手マンと潮吹きをマスターできる」熱血オラオラ授業\!（2015年1月9日公開）
+  - クンニを制するものは女を制す。スーパーAV男優しみけんが教える前戯革命\!（2015年1月30日公開）
+  - ポルチオ責めで貴方のSEXが劇的に変わる\! 「体位の4連コンボ」（2015年2月27日公開）
+  - 「ボッキマンJAPAN」スペシャル 〜しみけん先生のスーパーSEX講座 男も女もイッちゃって\!\!\!〜（2015年8月10日公開）
+
+#### GIRL'S CH
+
+  - エロビア 〜ちょっとエッチな性のトリビア〜
+      - vol.1 性別に関するエロビア（2013年10月30日公開）
+      - vol.2 男性器に関するエロビア（2013年11月13日公開）
+      - vol.3 AV男優に関するエロビア（2013年11月20日公開）
+      - vol.4 エロ用語に関するエロビア（2013年11月27日公開）
+      - vol.5 行為に関するエロビア（2013年12月4日公開）
+      - vol.6 行為に関するエロビア パート2（2013年12月11日公開）
+      - vol.7 名称に関するエロビア（2013年12月18日公開）
+      - vol.8 地名に関するエロビア（2013年1月8日公開）
+      - vol.9 アダルトグッズに関するエロビア（2014年1月15日公開）
+      - vol.10 体型に関するエロビア（2014年1月22日公開）
+      - vol.11 射精に関するエロビア（2014年1月29日公開）
+      - vol.12 トロフィーに関するエロビア（2014年7月9日公開）
+  - 男優と男優　
+      - しみけん・黒田悠斗 ①（2014年6月18日公開）
+      - しみけん・黒田悠斗 ②（2014年6月25日公開）
+      - しみけん・黒田悠斗 ③（2014年7月2日公開）
+      - しみけん（2015年5月6日公開）
+  - GIRL'S CH イケメンBUCHAIKU
+      - ♯1（2014年8月11日公開）
+      - ♯2（2014年8月12日公開）
+      - ♯3（2014年8月18日公開）
+      - ♯4（2014年8月19日公開）
+      - ♯5（2014年8月25日公開）
+      - ♯6（2014年8月26日公開）
+      - ♯7（2014年9月1日公開）
+      - ♯8（2014年9月2日公開）
+      - ♯9（2014年10月27日公開）
+      - ♯10（2014年10月28日公開）
+      - ♯11（2014年11月3日公開）
+      - ♯12（2014年11月4日公開）
+      - ♯13（2014年11月10日公開）
+      - ♯14（2014年11月11日公開）
+      - ♯15（2014年11月17日公開）
+      - ♯16（2014年11月18日公開）
+      - ♯17（2015年2月2日公開）
+      - ♯18（2015年2月3日公開）
+      - ♯19（2015年2月9日公開）
+      - ♯20（2015年2月10日公開）
+      - ♯21（2015年2月16日公開）
+      - ♯22（2015年2月17日公開）
+      - ♯23（2015年2月23日公開）
+      - ♯24（2015年2月24日公開）
+  - white nights
+      - ♯1（2014年12月22日公開）
+      - ♯2（2014年12月23日公開）
+      - ♯3（2014年12月24日公開）
+  - 恋愛♡学園 ♯3 本当の恋
+      - episode 1（2015年2月14日公開）
+      - episode 2（2015年2月21日公開）
+
+### 映画
+
+  - セックスの向こう側〜AV男優という生き方（2013年2月23日公開）
+  - GOSSIP BOYS 2014 THE MOVIE（2015年6月20日公開）
+  - 身体を売ったらサヨウナラ（2017年7月1日公開）
+
+### テレビ
+
+''' レギュラー '''
+
+  - G PROJECTの地上波しみけん（[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")、2018年8月3日 - ）
+  - ケンコバのバコバコテレビ（[サンテレビ](https://ja.wikipedia.org/wiki/サンテレビ "wikilink")、[KBS京都](https://ja.wikipedia.org/wiki/KBS京都 "wikilink")、2017年12月2日 - ）
+  - 水道橋博士のムラっとびんびんテレビ（[J:COMオンデマンド](https://ja.wikipedia.org/wiki/J:COMオンデマンド "wikilink")、2015年12月18日 - ）
+
+#### 地上波放送
+
+  - [恋のチューンネップ](https://ja.wikipedia.org/wiki/恋のチューンネップ "wikilink")（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")、1998年12月）
+  - [熱血\!島田塾〜おれたちホンキ宣言〜](../Page/熱血!島田塾〜おれたちホンキ宣言〜.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、1999年）※レギュラー出演
+  - [ゴッドタン](https://ja.wikipedia.org/wiki/ゴッドタン "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+      - ストイック暗記王（2014年4月26日）
+      - ゲーセワニュース 2015（2015年7月25日）
+      - 禁断の未公開SP（2015年9月26日）
+  - [しみけんの脳ミソつるつる野郎](https://ja.wikipedia.org/wiki/しみけんの脳ミソつるつる野郎 "wikilink")（[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")、2015年4月3日初回放送、2015年8月1日終了）※レギュラー出演
+  - [真夜中のおバカ騒ぎ\!](https://ja.wikipedia.org/wiki/真夜中のおバカ騒ぎ! "wikilink")（TOKYO MX・千葉テレビ、2015年12月6日 - 2016年1月3日）
+
+#### BS・CS放送
+
+  - アノ噂ヲ解明\! 真相あばいたろ会議（CSホームドラマチャンネル）
+      - 第3章 エロス（2013年4月8日放送）
+      - 第3章 エロス 2（2013年7月1日放送）
+  - [BAZOOKA\!\!\!](https://ja.wikipedia.org/wiki/BAZOOKA!!! "wikilink")（[BSスカパー\!](https://ja.wikipedia.org/wiki/BSスカパー! "wikilink")）
+      - ♯077　第2回 地下クイズ王決定戦\!\! （2013年6月24日放送）
+      - ♯091　納涼！お化けの出てこない怖い話（2014年7月28日放送）
+      - ♯108　第3回 地下クイズ王決定戦\!\!（2014年12月22日放送）
+      - ♯109　流行予想 2015（2015年1月12日放送）
+      - ♯131　第4回 地下クイズ王決定戦\!\!（2015年7月6日）
+      - ♯140　おっぱいコレクション 2015 秋（2015年9月28日放送）
+      - ♯146　トップAV男優・しみけんの正体に迫る！ （2015年11月16日放送）
+      - ♯150　第5回 地下クイズ王決定戦\!\! （2015年12月28日放送）
+  - [マグマイザー](https://ja.wikipedia.org/wiki/マグマイザー "wikilink")（BSスカパー\!、2017年3月10日– ） - しみけん 役\[20\]
+  - [ダラケ\! 〜お金を払ってでも見たいクイズ〜](https://ja.wikipedia.org/wiki/ダラケ!_〜お金を払ってでも見たいクイズ〜 "wikilink")（BSスカパー\!）
+      - ♯S01E04 「AV男優」ダラケ(2014年10月30日放送)
+      - ♯S05E02 「ラブホテルプロデューサー」ダラケ(2015年10月22日)
+      - ♯S08E01 「女性AV監督」ダラケ(2016年7月14日)
+      - ♯38-39 スカパー！アダルト放送大賞2020ノミネート女優大集合！人気セクシー女優ダラケのA-1グランプリ2020！！前編/後編 (2020年1月13日,1月27日)
+
+### インターネット番組
+
+  - レギュラー
+
+<!-- end list -->
+
+  - しみちるの「脳ミソつるつる野郎」（[TwitCasting](https://ja.wikipedia.org/wiki/TwitCasting "wikilink")、2014年12月6日 - ）
+
+<!-- end list -->
+
+  - 出演番組
+
+<!-- end list -->
+
+  - [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")のアゲたい盛り（[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")、2006年）\[21\]
+  - しみちるの「脳ミソつるつる野郎」（[TwitCasting](https://ja.wikipedia.org/wiki/TwitCasting "wikilink")）
+      - ＃0（2013年3月10日放送）
+      - ＃1（2013年3月20日放送）
+  - [スピードワゴンの月曜The NIGHT](https://ja.wikipedia.org/wiki/The_NIGHT "wikilink")（2019年11月12日\[22\]、AbemaTV）
+
+### オリジナルビデオ
+
+  - [団地妻は、わけあってヤリました。](https://ja.wikipedia.org/wiki/団地妻は、わけあってヤリました。 "wikilink")（2019年4月19日、リバプール）
+
+## 出版物
+
+### 著書
+
+  - AV男優しみけん 光輝くクズでありたい（扶桑社　2015年5月30日発売）
+  - SHIMIKEN's BEST SEX 最高のセックス集中講義（イースト・プレス　2017年5月17日発売）
+  - 水道橋博士のムラっとびんびんテレビ（文藝春秋　2017年5月29日発売）[水道橋博士](https://ja.wikipedia.org/wiki/水道橋博士 "wikilink")との共著
+  - やっぱり熟女がいちばんでした（角川書店　2018年2月28日発売）
+  - AV男優しみけんが教える うんこ座りでオトコの悩みの大半は解決する\!（扶桑社　2018年3月2日発売）
+  - しみけん式「超」SEXメソッド 本物とはつねにシンプルである（笠倉出版社　2019年8月29日発売）
+
+### 関連図書
+
+  - 「AV男優」という職業 セックス・サイボーグたちの真実（角川書店　2013年2月20日発売）
+  - 「AV男優」という職業 セックス・サイボーグたちの真実 文庫版（角川書店　2014年11月22日発売）
+  - AV男優の流儀（扶桑社新書　2014年12月23日発売）
+  - BAZOOKA\!\!\! 地下クイズ王決定戦 公式問題集（太田出版　2016年7月27日発売）
+
+### 雑誌
+
+  - [Badi](https://ja.wikipedia.org/wiki/Badi "wikilink") 2001年1月号（テラ出版）
+  - マガジン WOoooo（ウォー）\! 狼 2009年12月号（[サン出版](https://ja.wikipedia.org/wiki/サン出版 "wikilink") 2009年11月2日発売）
+  - 美STORY 2011年7月号（[光文社](../Page/光文社.md "wikilink") 2011年5月17日発売）
+  - [てぃんくる](../Page/てぃんくる_\(求人情報雑誌\).md "wikilink") VOL.449、VOL.462（[しょういん](https://ja.wikipedia.org/wiki/しょういん "wikilink")）
+  - [女性自身](https://ja.wikipedia.org/wiki/女性自身 "wikilink") 2011年7月12日号（光文社 2011年6月28日発売）
+  - [men's egg](https://ja.wikipedia.org/wiki/men's_egg "wikilink")（[大洋図書](https://ja.wikipedia.org/wiki/大洋図書 "wikilink")）
+      - 2012年2月号（2012年1月14日発売）
+      - 2013年4月号（2013年3月14日発売）
+  - ズバ王 2012年4月号（[ジーオーティー](https://ja.wikipedia.org/wiki/ジーオーティー "wikilink") 2012年3月10日発売）
+  - 411 2012年5月号（三栄書房 2012年4月10日発売）
+  - [本当にあった笑える話](https://ja.wikipedia.org/wiki/本当にあった笑える話 "wikilink")（[ぶんか社](../Page/ぶんか社.md "wikilink")）
+      - 本当にあった笑える話 Pinky 2012年6月号（2012年4月21日発売）
+      - 本当にあった笑える話 2014年9月号（2014年7月30日発売）
+  - [an・an](https://ja.wikipedia.org/wiki/an・an "wikilink") 2013年8月14日-21日合併号（[マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink") 2013年8月9日発売）
+  - [小悪魔ageha](https://ja.wikipedia.org/wiki/小悪魔ageha "wikilink") 2013年10月号（[インフォレスト](../Page/インフォレスト.md "wikilink") 2013年8月31日発売）
+  - [週刊大衆](../Page/週刊大衆.md "wikilink") 2013年10月14日号（双葉社 2013年9月30発売）
+  - [FLASH](https://ja.wikipedia.org/wiki/FLASH_\(写真週刊誌\) "wikilink")（光文社）
+      - 2013年10月29日号（2013年10月15日発売）
+      - 2013年11月5-12日号（2013年10月22日発売）
+  - [週刊SPA\!](https://ja.wikipedia.org/wiki/週刊SPA! "wikilink")（[扶桑社](../Page/扶桑社.md "wikilink")）
+      - 2014年3月4日号（2014年2月25日発売）
+      - 2014年7月22日-29日合併号（2014年7月15日発売）
+      - 2014年8月26日号（2014年8月19日発売）
+  - [週刊プレイボーイ](https://ja.wikipedia.org/wiki/週刊プレイボーイ "wikilink")（[集英社](../Page/集英社.md "wikilink")）
+      - 2014年5月5日号（2014年4月21日発売）
+      - 2014年6月9日号（2014年5月26日発売）
+      - 2014年9月29日号（2014年9月16日発売）
+      - 2014年11月10日号（2014年10月27日発売）
+  - [週刊大衆](../Page/週刊大衆.md "wikilink") 2014年6月30日号（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink") 2014年6月16日発売）
+  - Details March 2015（Conde Nast Publications 2015年2月20日発売)
+  - [QUIZ JAPAN](https://ja.wikipedia.org/wiki/QUIZ_JAPAN "wikilink")（[ほるぷ出版](https://ja.wikipedia.org/wiki/ほるぷ出版 "wikilink") 2015年6月18日発売）
+  - [KAMINOGE](https://ja.wikipedia.org/wiki/KAMINOGE "wikilink") vol.43（[東邦出版](https://ja.wikipedia.org/wiki/東邦出版 "wikilink") 2015年6月20日発売）
+  - [週刊女性](https://ja.wikipedia.org/wiki/週刊女性 "wikilink") 2015年7月28日号（[主婦の友社](../Page/主婦の友社.md "wikilink")）
+  - [GQ JAPAN](https://ja.wikipedia.org/wiki/GQ_JAPAN "wikilink") 2016年3月号（[コンデナスト・ジャパン](https://ja.wikipedia.org/wiki/コンデナスト・ジャパン "wikilink") 2016年01月23日発売）
+
+### 新聞
+
+  - [東京スポーツ](../Page/東京スポーツ.md "wikilink") 「勃つ人術」 第1回 AV男優 しみけん（東京スポーツ新聞社 2010年10月7日付）
+
+### 連載
+
+  - 裏モノJAPAN 連載「シミケンの貴方を必ず天国に」（鉄人社 2003年10月号-2004年3月号 連載終了）
+  - メガベッピンSP　連載「AV男優しみけんチャレンジ\!\!」（ジーオーティー　2014年10月8日発売-連載終了）
+  - 週刊プレイボーイ「初めはみんな汁だった！」（集英社　2015年01月26日発売-連載中）しみけん、[黒田悠斗](https://ja.wikipedia.org/wiki/黒田悠斗 "wikilink")、[森林原人](https://ja.wikipedia.org/wiki/森林原人 "wikilink")
+  - warp MAGAZINE JAPAN 「HOW TO BE A SEXMAN」（トランスワールドジャパン 2015年1月24日-連載終了）
+  - Samurai　ELO「I am a PERFECT SEXMAN」（三栄書房　2016年6月号-連載中）
+
+### 電子書籍
+
+  - JUST KING OF AV ACTOR シミケン（2011年1月11日 Badi.jp）
+  - 「AV男優」という職業 セックス・サイボーグたちの真実　Kindle版（角川書店　2014年11月14日発売）
+
+## イベント
+
+  - 2004年1月23日 - AVイケメン ナイト\!\!（[新宿ロフトプラスワン](../Page/新宿ロフトプラスワン.md "wikilink")）
+  - 2010年12月3日 - Sex Speed Rock'n'roll【S・S・R】～初夜～（新宿ロフトプラスワン）
+  - 2011年8月12日 - 80's〜90'sプレイバックトークライブR33〜酒とエロスと男と女〜（新宿ネイキッドロフト）
+  - 2012年12月16日 - h.m.p主催「日常フェス」※女性限定
+  - 2013年2月25日 - 映画「セックスの向こう側」トークショー（渋谷UPLINK）
+  - 2013年9月28日 - 「【究極のカレーイベント】うんこ味のカレー単独ライブ」（阿佐ヶ谷ロフト）
+  - 2014年1月14日 - 性人式2014（阿佐ヶ谷ロフト）
+  - 2014年2月15日 - 『TOKYO LUV\&ROMANTIC NIGHT』(Naked Loft)
+  - 2014年2月23日 - KMP主催　しみけんトークショー&サイン会（ラムタラメディアワールドアキバ）
+  - 2014年4月26日 - OnaFes2014（東京キネマ倶楽部）
+  - 2014年5月16日 - AV男優の生でだらだらイカせて（新宿ロフトプラスワン）
+  - 2014年7月4日 - AV男優 [吉村卓](https://ja.wikipedia.org/wiki/吉村卓 "wikilink")の男優さんいらっしゃい\! 〜サマースペシャル\! 新人AV男優オーディション編〜（レフカダ新宿）
+  - 2014年7月11日 - LuvMen Summer Fes.2014（新宿ロフトプラスワン）
+  - 2014年7月19日 - 『花園AV女学院 〜淑女の為のヒミツの講義〜』inレフカダ新宿（レフカダ新宿）
+  - 2014年8月2日 - 第21回 AIDS文化フォーラムin横浜（かながわ県民センター）
+  - 2014年10月4日 - 初イベント！全員集合だよ GOSSIP BOYS 2014フェス\!\!（新宿ロフトプラスワン）
+  - 2014年10月9日 - ミスターナガタプレゼンツ・アイポケエボリューション2014（新宿FACE）
+  - 2014年10月24日 - AVを語る深夜　Vol.2（新宿ロフトプラスワン）
+  - 2014年11月15日 - Japan Adult Expo2014（ディファ有明）
+  - 2014年12月12日 - 首都神話トークライブ〜第八十夜〜 オールナイトスペシャル\!\!（新宿ロフトプラスワン）
+  - 2014年12月20日 - 2週連続やっちゃいます\!\!「みんなで観よう、痛快エンターテイメントアダルトビデオ GOSSIPBOYS」vol.1（レフカダ新宿）
+  - 2014年12月27日 - 2週連続やっちゃいます\!\!「みんなで観よう、痛快エンターテイメントアダルトビデオ GOSSIPBOYS」vol.2（レフカダ新宿）
+  - 2015年1月11日 - 鈴木おさむプレゼンツ 抱腹絶倒のAVナイト（新宿ロフトプラスワン）
+  - 2015年1月13日 - 性人式（阿佐ヶ谷ロフトA）
+  - 2015年1月16日 - AVを語る深夜 Vol.3（新宿ロフトプラスワン）
+  - 2015年2月25日 - しみけん・[宮地の下ネタ抜きにしたトークライブ](https://ja.wikipedia.org/wiki/ニブンノゴ! "wikilink") 1部 2部（高円寺ACID2）
+  - 2015年3月8日 - AV男優「しみけん」来店イベント 男の授業「潮吹き講習会」（セルマックス茨木店）
+  - 2015年3月13日 - セクアカナイトvol.3〜SEX ACADEMY NIGHT vol.3〜（CCスタジオ代官山）
+  - 2015年3月28日 - GOSSIP・BOYS・2014・The・MOVIE（渋谷アップリンク）
+  - 2015年3月29日 - GOSSIP・BOYS・2014・The・MOVIE（渋谷アップリンク）
+  - 2015年4月5日 - しみけんの脳ミソつるつる野郎\!\!公開収録\&OpeningParty（南青山Future Seven）
+  - 2015年4月10日 - AVを語る深夜 Vol.4（新宿ロフトプラスワン）
+  - 2015年4月12日 - アイデアポケット しみけんさんイベント（プレジャ秋葉原）
+  - 2015年4月17日 - 怪優 吉村卓の2時間ナマ放送！ VOL4〜しみけん来店〜（関内マルチエンタメ食堂スリーエス）
+  - 2015年4月30日 - しみけん・宮地の下ネタ抜きにしたトークライブ 1部（高円寺ACID2）
+  - 2015年5月5日 - AV男優 吉村卓の男優さんいらっしゃい\! 〜第2回新人AV男優オーディション編〜（レフカダ新宿）
+  - 2015年5月16日 - AV男優の生でだらだらイカせて（新宿ロフトプラスワン）
+  - 2015年6月6日 - SMAX presents「ボッキマンJAPAN」スペシャル〜しみけん先生のスーパーSEX講座男も女もイッちゃって\!\!\!〜（レフカダ新宿）
+  - 2015年6月26日 - AVを語る深夜 Vol.5（新宿ロフトプラスワン）
+  - 2015年7月11日 - 「光り輝くクズでありたい」出版記念トークライブ（東京カルチャーカルチャー）
+  - 2015年8月21日 - しみけん・宮地の下ネタ少なめトークライブ 2部（高円寺ACID2）
+  - 2015年10月3日 - AVを語る深夜 Vol.6（新宿ロフトプラスワン）
+  - 2015年10月19日 - しみけん・宮地の下ネタ少なめトークライブ 2部（高円寺ACID2）
+  - 2015年11月17日 - Japan Adult Expo2015（豊洲PIT）
+  - 2015年12月10日 - しみけん・宮地の下ネタ少なめトークライブ 2部（高円寺ACID2）
+  - 2015年12月25日 - AVを語る深夜 Vol.7（新宿ロフトプラスワン）
+
+## 脚注・出典
+
+## 外部リンク
+
+  -
+  -
+  -
+  -
+  -
+  -
+  - [しみけんの脳ミソつるつる野郎](https://web.archive.org/web/20150506100144/http://noutsuru.jp/)
+
+  - [セックスの向こう側～AV男優という生き方](http://www.maxam.jp/sex/)
+
+[Category:日本のAV男優](https://ja.wikipedia.org/wiki/Category:日本のAV男優 "wikilink") [Category:日本のゲイポルノ男優](https://ja.wikipedia.org/wiki/Category:日本のゲイポルノ男優 "wikilink") [Category:日本の実業家](https://ja.wikipedia.org/wiki/Category:日本の実業家 "wikilink") [Category:日本の著作家](https://ja.wikipedia.org/wiki/Category:日本の著作家 "wikilink") [Category:千葉県出身の人物](https://ja.wikipedia.org/wiki/Category:千葉県出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+
+1.  「AV男優」という職業 セックス・サイボーグたちの真実 p.127
+2.  [AV男優のドーピング、素人女性は仕込み... 鈴木おさむがAV業界の裏側に肉迫](http://lite-ra.com/i/2015/02/post-899-entry_2.html)
+3.  [てぃんくるnet](http://www.tinkle.co.jp/eromen/?lv=449Shimiken) イケメン男優スペシャルインタビュー
+4.
+5.  『QUIZ JAPAN』株式会社セブンデイズウォー、2015年6月、pp.187
+6.
+7.
+8.  [第6回 夜メン　AV男優 しみけんさん インタビュー](http://www.onnano.tv/special/yorumen/006/)
+9.  [【SILK LABO】しみけんさんの特技??【SILK-010】](http://www.youtube.com/watch?v=6q-myQ4gVYU)YouTube 動画 1分00秒〜
+10.
+11.
+12. 「AV男優」という職業 セックス・サイボーグたちの真実 p.127〜p.131
+13. [ボディビル大会アーカイブ](http://leanbody.jp/contents/competition/2005meeting/681/) 2005年東京オープンボディビル選手権大会 男子60kg級
+14. [AVグランプリ2008結果発表](http://www.dmm.co.jp/avgp/result/result2008.html) オムニバス部門
+15. [GWニュース](http://nikusyoku.jp/) しみけんが告白。僕がAV男優になった理由！？
+16. [スカパー\!アダルト放送大賞2015受賞者](https://adult-awards.com/archives/2015/) 男優賞
+17.
+18.
+19.
+20.
+21. [Show Time](http://www.showtime.jp/special/idol/agetai/) はなわのアゲたい盛り♯6〜♯9
+22.

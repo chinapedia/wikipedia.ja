@@ -1,0 +1,67 @@
+> この記事は[ \(JRCL\)](https://ja.wikipedia.org/wiki/_\(JRCL\))から翻訳されています。
+
+
+**日本革命的共産主義者同盟**（にほんかくめいてききょうさんしゅぎしゃどうめい、**JRCL**）は[日本の新左翼](../Page/日本の新左翼.md "wikilink")党派。通称**かけはし**。[日本革命的共産主義者同盟（第四インターナショナル日本支部）](../Page/日本革命的共産主義者同盟（第四インターナショナル日本支部）.md "wikilink")が国際組織[第四インターナショナル](../Page/第四インターナショナル.md "wikilink")統一書記局から1991年に除名されたことにより、現名に改称し誕生した。現在は第四インターナショナル統一書記局の日本の「シンパサイザー・グループ」（支持組織）の一つ。第四インターナショナル統一書記局派の世界大会には第十四回世界大会以降シンパ組織として参加している。
+
+## 概要
+
+[1991年](../Page/1991年.md "wikilink")2月、[ABCD問題](https://ja.wikipedia.org/wiki/ABCD問題 "wikilink")などの理由で、第四インターナショナル（統一書記局派）の第13回世界大会における決議「女性差別問題等の組織内問題を抱えている日本支部の存在を認めない」との決議を受け、従来の「第四インターナショナル日本支部・日本革命的共産主義者同盟」より改称した\[1\]。
+
+JRCLは、組織運営に中央委員会を設置した[民主集中制](https://ja.wikipedia.org/wiki/民主集中制 "wikilink")を採用しているが、おなじく日本支部から分岐した[国際主義労働者全国協議会](https://ja.wikipedia.org/wiki/国際主義労働者全国協議会 "wikilink")（労働者の力）は「民主集中制は[スターリニズム](https://ja.wikipedia.org/wiki/スターリニズム "wikilink")および官僚主義の温床」として、「中央委員会を設置した民主集中制」ではなく「全国協議会」という組織運営形態をとっている。
+
+  - 指導者：国富建治（組織名は平井純一、現役）、酒井与七ら
+  - 機関紙誌：週刊かけはし、青年戦線
+  - 活動拠点：新時代社、関西新時代社
+  - 青年組織：日本共産青年同盟（JCY、共青同）
+  - 関連組織：アジア連帯講座
+  - 構成員数：不明
+
+改称前の1984年の[中核派による](https://ja.wikipedia.org/wiki/革命的共産主義者同盟全国委員会 "wikilink")[内ゲバ](../Page/内ゲバ.md "wikilink")攻撃以降、新左翼全体の内ゲバを批判し、中核派に自己批判を求めている\[2\]。
+
+## 近年の動向
+
+最近の理論的活動の特徴としては、2001年9月11日の[同時多発テロを](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")「反人民的無差別大量殺人」と厳しく非難し、[アフガン報復戦争反対運動の](../Page/アフガニスタン.md "wikilink")[スローガン](../Page/スローガン.md "wikilink")にもなった「テロにも戦争にも反対」論の急先鋒となった。あるいは、[オリンピックや](../Page/近代オリンピック.md "wikilink")[サッカー・ワールドカップを](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")「[国家主義](../Page/国家主義.md "wikilink")的[商業主義](https://ja.wikipedia.org/wiki/商業主義 "wikilink")的スポーツショー」として、それらの大会が開かれる度に、機関紙『かけはし』上で激しい批判とその廃止を訴える論陣を張り、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の[長野冬季オリンピック開会式当日に長野現地で反対デモに](../Page/1998年長野オリンピック.md "wikilink")[右翼](../Page/右翼.md "wikilink")とともに参加した。また、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月26日](../Page/4月26日.md "wikilink")の[北京オリンピック長野聖火リレー時においても](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")、JRCL系団体であるアジア連帯講座が、[中国政府による](../Page/中華人民共和国.md "wikilink")[チベット暴動鎮圧への抗議と](https://ja.wikipedia.org/wiki/2008年のチベット騒乱 "wikilink")「チベット民衆連帯」、そしてオリンピック反対を掲げて[長野市](../Page/長野市.md "wikilink")内にて抗議行動を行った。[朝鮮民主主義人民共和国](../Page/朝鮮民主主義人民共和国.md "wikilink")については、スパルタシストなどの第四インター系一部グループが[労働者国家](https://ja.wikipedia.org/wiki/労働者国家 "wikilink")防衛を理由として擁護しているのに対し、「北朝鮮＝人民抑圧の金世襲独裁体制」とした、北朝鮮政府および社会の内情にまで踏み込んだ「金独裁体制」批判と[金正日](https://ja.wikipedia.org/wiki/金正日 "wikilink")による「民間人拉致」に対する糾弾を積極的に展開している。また2007年の[第21回参議院議員通常選挙](../Page/第21回参議院議員通常選挙.md "wikilink")では「憲法改悪と海外派兵に反対する政党に投票を」と呼びかけ、[東京都選挙区](../Page/東京都選挙区.md "wikilink")では[川田龍平](https://ja.wikipedia.org/wiki/川田龍平 "wikilink")を支持、支援した。その他国政選挙では主に[社会民主党](../Page/社会民主党_\(日本_1996-\).md "wikilink")、[緑の党グリーンズジャパン](https://ja.wikipedia.org/wiki/緑の党グリーンズジャパン "wikilink")、[日本共産党](../Page/日本共産党.md "wikilink")などに投票を呼び掛けている。2013年には支援した[山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")が当選した。過去には[共産主義労働者党](../Page/共産主義労働者党.md "wikilink")と共に「原発いらない人びと」などを支援したこともある。
+
+日本の[領土問題](https://ja.wikipedia.org/wiki/領土問題 "wikilink")に関しては、[日本帝国主義](https://ja.wikipedia.org/wiki/日本帝国主義 "wikilink")の力が及び得る場所を出来るだけ排除するべきだとして、[独島（日本名：竹島）は](https://ja.wikipedia.org/wiki/竹島_\(島根県\) "wikilink")[韓国領](../Page/大韓民国.md "wikilink")、[釣魚列島（日本名：尖閣諸島）は](../Page/尖閣諸島.md "wikilink")[中国領と主張している](../Page/中華人民共和国.md "wikilink")。\[3\]
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月24日、[神奈川県警は](https://ja.wikipedia.org/wiki/神奈川県警察 "wikilink")、免状等不実記載の容疑で同派メンバーを[逮捕](https://ja.wikipedia.org/wiki/逮捕_\(日本法\) "wikilink")、10日間[勾留](../Page/勾留.md "wikilink")した。JRCLは、不当[弾圧](https://ja.wikipedia.org/wiki/弾圧 "wikilink")として国（神奈川県警、[横浜地方検察庁](../Page/横浜地方検察庁.md "wikilink")など）を相手取って国家賠償請求裁判を起こした。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")、[横浜地方裁判所](../Page/横浜地方裁判所.md "wikilink")は免状等不実記載での同派メンバーの逮捕と10日間の勾留、メンバー宅と同派2ヶ所の事務所の家宅捜索を不当で過剰であるとして、原告への計55万円の賠償を国に命ずる判決を下した。 国は、判決を不服として12月24日、[東京高等裁判所](../Page/東京高等裁判所.md "wikilink")に[控訴](https://ja.wikipedia.org/wiki/控訴 "wikilink")した。
+
+[公安警察](https://ja.wikipedia.org/wiki/公安警察 "wikilink")は[「平成19年度の警備情勢を顧みて」](http://www.npa.go.jp/kouhousi/biki7/P38-P45.html)の中でJRCLを「海外の団体との連携を強め、構築した共闘関係をいかして、[北海道洞爺湖サミットでも過激な抗議行動に取り組む可能性がある](https://ja.wikipedia.org/wiki/第34回主要国首脳会議 "wikilink")」として警戒した。
+
+2005年にJRCLは、「[帝国主義](../Page/帝国主義.md "wikilink")の[戦争](../Page/戦争.md "wikilink")と[新自由主義](https://ja.wikipedia.org/wiki/新自由主義 "wikilink")[グローバリゼーション](../Page/グローバリゼーション.md "wikilink")、憲法改悪と『戦争国家』化に対決する新しい[左翼](../Page/左翼.md "wikilink")政治組織の統合」を主張、JRCLは方向性として、従来の「[トロツキズム](../Page/トロツキズム.md "wikilink")」の枠内に囚われない、スターリニズム、[社会民主主義](../Page/社会民主主義.md "wikilink")に代わるオルタナティブ左翼の形成を目指す、とした\[4\]。ただし、内ゲバや[テロリズム](https://ja.wikipedia.org/wiki/テロリズム "wikilink")を批判せず、己の正当性ばかりを主張する組織は対象外、としている。
+
+2009年9月以降は[国際主義労働者全国協議会](https://ja.wikipedia.org/wiki/国際主義労働者全国協議会 "wikilink")と『かけはし』を共同で編集、発行している。
+
+## 活動
+
+[ギリシャ](../Page/ギリシャ.md "wikilink")など、海外の第四インター系活動家を招いたシンポジウムを開くこともあり、JRCLが海外とのネットワークを持つことを示している\[5\]。
+
+また、機関紙上では海外の政治状況について詳しくレポートすることが多い。主に、海外の第四インター系組織の活動や、その国の今の政治状態について詳しく書かれた記事を翻訳し、掲載している。
+
+[日本共産党](../Page/日本共産党.md "wikilink")員と称する人物の寄稿が機関紙上に載ることがある<ref>[めざされるべき核心は民衆運動の強大化　寄稿　日本共産党第26回党大会決議案を読む](http://www.jrcl.net/frame140101e.html)かけはし 2014年1月1日号
+
+</ref>。
+
+## 脚注
+
+## 関連項目
+
+  - [革命的共産主義者同盟 (日本)](../Page/革命的共産主義者同盟_\(日本\).md "wikilink")
+  - [革命的共産主義者同盟 (フランス)](../Page/革命的共産主義者同盟_\(フランス\).md "wikilink")
+  - [第4インターナショナル日本支部再建準備グループ](../Page/第4インターナショナル日本支部再建準備グループ.md "wikilink")
+  - [反資本主義新党](https://ja.wikipedia.org/wiki/反資本主義新党 "wikilink")(NPA)
+  - [ATTAC](../Page/ATTAC.md "wikilink")
+  - [警視庁公安部](../Page/警視庁公安部.md "wikilink")
+
+## 外部リンク
+
+  - 　[週刊かけはし](http://www.jrcl.net/)（公式サイト）
+  - 　[虹とモンスーン](http://monsoon.doorblog.jp/)（公式ブログ）
+
+[Category:日本の新左翼の組織・団体](https://ja.wikipedia.org/wiki/Category:日本の新左翼の組織・団体 "wikilink") [Category:第四インターナショナル](https://ja.wikipedia.org/wiki/Category:第四インターナショナル "wikilink") [Category:2002年設立の政党・政治団体](https://ja.wikipedia.org/wiki/Category:2002年設立の政党・政治団体 "wikilink")
+
+1.  「わかりやすい極左・右翼・日本共産党用語集 三訂」（警備研究会、立花書房、2008年）p136
+2.  [共同行動の原則と「内ゲバ」主義](http://www.jrcl.net/pgeba.html)
+3.  [尖閣諸島・領土問題についてどう考えるか - 週刊かけはし](http://www.jrcl.net/frame140514m.html)
+4.  [帝国主義の戦争と新自由主義グローバリゼーション、憲法改悪と「戦争国家」化に対決する新しい左翼政治組織の統合へ、討論を開始しよう](http://www.jrcl.net/frame050321f.html)
+5.  [7.6 国際シンポ―ギリシャの活動家を招いて 民衆の反緊縮・ファシストとの闘い ２００９年以降の債務危機に抗して](http://www.jrcl.net/frame140714d.html) かけはし 2014年7月14日号

@@ -1,0 +1,468 @@
+> この記事は[MOTHER \(\)](https://ja.wikipedia.org/wiki/MOTHER_\(\))から翻訳されています。
+
+
+『**MOTHER**』（マザー）は、[任天堂](../Page/任天堂.md "wikilink")が[1989年](../Page/1989年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")に発売した[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用の[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")。
+
+## 概要
+
+[コピーライター](https://ja.wikipedia.org/wiki/コピーライター "wikilink")の[糸井重里](../Page/糸井重里.md "wikilink")が[ゲームデザイン](../Page/ゲームデザイン.md "wikilink")を手掛ける[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")『[MOTHER](../Page/MOTHERシリーズ.md "wikilink")』シリーズの第1作目。開発は[パックスソフトニカ](https://ja.wikipedia.org/wiki/パックスソフトニカ "wikilink")と[エイプが担当し](https://ja.wikipedia.org/wiki/エイプ_\(ゲーム会社\) "wikilink")、[任天堂](../Page/任天堂.md "wikilink")が[1989年](../Page/1989年.md "wikilink")に発売した。任天堂にとっては本作が初のコマンド選択式のRPG作品となった。
+
+[中世ファンタジー](https://ja.wikipedia.org/wiki/中世ファンタジー "wikilink")を下敷きとした世界観が主流だった当時のRPGの中では数少ない、現代的な世界を舞台にした作品である。物語の中では、[アメリカの架空の町に住む主人公の少年が](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、各地で発生する様々な怪奇現象の原因を探るべく、仲間と共に冒険する様子が描かれる。
+
+糸井重里が手掛けた台詞、[ムーンライダーズ](../Page/ムーンライダーズ.md "wikilink")の[鈴木慶一](../Page/鈴木慶一.md "wikilink")と任天堂の[田中宏和](https://ja.wikipedia.org/wiki/田中宏和 "wikilink")が作曲したBGM、[南伸坊](https://ja.wikipedia.org/wiki/南伸坊 "wikilink")、[石井達矢](https://ja.wikipedia.org/wiki/石井達矢 "wikilink")らが描いたデザインなどが合わさり、他のRPGとは異なる独特の雰囲気を醸している。
+
+発売当時放映されたテレビ[CMでは](../Page/コマーシャルメッセージ.md "wikilink")「**エンディングまで、泣くんじゃない。**」「**名作保証**」という[キャッチコピー](../Page/キャッチコピー.md "wikilink")が用いられていた。前者は糸井が考案したものではなく、コピーライターの[一倉宏](https://ja.wikipedia.org/wiki/一倉宏 "wikilink")が手がけたフレーズである\[1\]。
+
+[2003年](../Page/2003年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")には、本作『MOTHER』とシリーズ2作目『[MOTHER2 ギーグの逆襲](https://ja.wikipedia.org/wiki/MOTHER2_ギーグの逆襲 "wikilink")』を1つのソフト内に収録した[移植作品](https://ja.wikipedia.org/wiki/移植_\(ソフトウェア\) "wikilink")『[MOTHER1+2](https://ja.wikipedia.org/wiki/MOTHER1+2 "wikilink")』が発売。[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")版から一部のテキストやグラフィックが変更されたほか、エンディングでは主人公たちのその後の様子を描いたエピローグが追加されている。
+
+本作は長年にわたり日本国内で発売されたのみだったが、[2015年](../Page/2015年.md "wikilink")に米国で開催されたゲームイベント「任天堂ワールド・チャンピオンシップ2015」の中で糸井が映像で登場し、本作の日本国外版が[Wii U](https://ja.wikipedia.org/wiki/Wii_U "wikilink")[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")として『**EarthBound Beginnings**』のタイトルで配信されることが発表された。その後、北米では同年[6月14日](../Page/6月14日.md "wikilink")から、日本と欧州では[6月15日](../Page/6月15日.md "wikilink")から配信を開始した。
+
+## システム
+
+### 基本システム
+
+移動時に、上下左右方向だけでなく、[十字キー](https://ja.wikipedia.org/wiki/十字キー "wikilink")の上又は下と左又は右を同時に押すことで斜め方向にも移動できる\[2\]。
+
+町とフィールドは同じ尺度で描写されている。これは、当時のRPGで一般的だった、フィールド上にある町のシンボルに重なると町のマップに切り替わるという要素とは異なるものである。
+
+主人公たちは、[バット](https://ja.wikipedia.org/wiki/バット_\(野球\) "wikilink")・[フライパン](../Page/フライパン.md "wikilink")・[エアガン](https://ja.wikipedia.org/wiki/空気銃 "wikilink")・[ナイフ](../Page/ナイフ.md "wikilink")などの道具を武器に、コイン・腕輪・ペンダントを防具に用いる。また、敵との戦闘で[経験値](../Page/経験値.md "wikilink")を得て[レベルが上がることで](https://ja.wikipedia.org/wiki/レベル_\(ロールプレイングゲーム\) "wikilink")「PSI」と呼ばれる[超能力](../Page/超能力.md "wikilink")を会得する。PSIは一般的なRPGにおける[魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")のようなもので、攻撃用、回復用など様々な種類がある。使用の際にはPPという数値を消費する。
+
+冒険データの[セーブは](../Page/セーブ_\(コンピュータ\).md "wikilink")、町の店の中などに設置されている[公衆電話](../Page/公衆電話.md "wikilink")や[黒電話](../Page/黒電話.md "wikilink")から主人公の父親（パパ）に電話をかけることで行う。公衆電話は、1[ドルを支払うか](../Page/アメリカ合衆国ドル.md "wikilink")[テレホンカード](../Page/テレホンカード.md "wikilink")を用いることで利用できる。
+
+### 町の施設
+
+上部が丸いドアのついた建物と看板のある建物は中に入ることができる。
+
+  - [デパート](https://ja.wikipedia.org/wiki/デパート "wikilink") - 様々なアイテムを販売している高層の店。アイテムの返品（売却）も受け付けている。
+  - ハンバーガーショップ - [HP回復効果のある飲食物を販売している](../Page/ヒットポイント.md "wikilink")。
+  - [ホテル](../Page/ホテル.md "wikilink") - 宿泊費を支払いHPとPPを全回復させることができる。
+  - [病院](../Page/病院.md "wikilink") - 有料で毒状態や風邪状態（徒歩移動中にダメージを受ける状態）を治療したり意識不明（HPが0の状態）のキャラクターをカムバック（復活）させたりできる。
+  - ヒーラーの家 - 有料でPPの回復や石化状態（行動不能状態）の治療の施しを受けることができる。
+  - JACKの店 - 小規模の町で様々なアイテムを販売する店。デパートと違いアイテムの返品はできない。
+
+このほか、町によって、町役場、[小学校](../Page/小学校.md "wikilink")、[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")などの施設がある。
+
+### 移動手段
+
+以下の手段を用いることで、現在地から離れた場所へ素早く移動できる。
+
+  - パラダイス鉄道
+    多くの町を結ぶ[大陸横断鉄道](https://ja.wikipedia.org/wiki/大陸横断鉄道 "wikilink")。駅で距離に応じた運賃を支払って乗車し目的の町まで行くことができる。
+  - [テレポーテーション](https://ja.wikipedia.org/wiki/テレポーテーション "wikilink")
+    これまで訪れた町へ瞬時に移動できるPSI。使用すると高速で助走し始め数秒後に目的地へ転移する。助走中に障害物にぶつかると失敗し黒焦げになる（ダメージは受けない）。十字キーで助走方向を変えることができる。
+  - [めのうの](../Page/メノウ.md "wikilink")[つりばり](../Page/釣り針.md "wikilink")
+    後述の地域「[マジカント](https://ja.wikipedia.org/wiki/#マジカント_/_Magicant "wikilink")」に一瞬で移動できるアイテム\[3\]。
+  - パンくず
+    アイテム「[パン](../Page/パン.md "wikilink")」は、食べるとHPを回復できるが、「つかう」ことで「パンくず」になる。以降、フィールド上を歩く際にはこのパンくずを撒き続け、後にこのパンくずを辿って使い始めた場所まで戻ることができる。パンくずはキャラクターごとに1つだけ所持でき、それぞれ別の場所で用いることができる。使用中に上記の3つの移動手段をとった場合は効果が消えてしまう。
+
+### 戦闘
+
+フィールドや[ダンジョンを歩いていると一定確率で敵に出会い](https://ja.wikipedia.org/wiki/ダンジョン#ゲームにおけるダンジョン "wikilink")、画面が切り替わって戦闘が開始される（[ランダムエンカウント](https://ja.wikipedia.org/wiki/ランダムエンカウント "wikilink")方式）。
+
+各キャラクターの行動を入力したあと、[ステータスの一つ](https://ja.wikipedia.org/wiki/ステイタス "wikilink")「スピード」（素早さ）の値が大きいキャラクター（敵味方含む）から順番に行動する。また、「オート」を選択するとキャラクターの行動をコンピュータに任せることができる。
+
+敵に勝利した際には、「○○はわれにかえった」や「○○はおとなしくなった」など敵の種類により異なるメッセージが表示される。戦闘後には経験値を得られるが、一般のRPGとは異なり、お金はその場では得られない。倒した敵の数に応じて主人公の銀行口座にお金が振り込まれ、それを各地にある[現金自動預け払い機](../Page/現金自動預け払い機.md "wikilink")などから引き出すことで使用できるようになる。
+
+主人公たち全員が意識不明あるいは石化状態になると[ゲームオーバー](https://ja.wikipedia.org/wiki/ゲームオーバー "wikilink")となる。この際に[コンティニューすると](https://ja.wikipedia.org/wiki/ゲームオーバー#コンティニューについて "wikilink")、主人公だけが復活し所持金が半分に、PPが0になった状態で最後にセーブした場所からゲームが再開される。
+
+  - コマンド
+
+:; たたかう
+
+:: 本作の全ての攻撃技の基本となる通常攻撃。
+
+:; PSI
+
+:: ぼくとおんなのこが使用できる。他のコンピュータRPGの魔法に近いコマンド。数多くのPSIの中から1つ選んでPSIを使う。ほぼ全てのPSIがPPを消費する。消費するPPの量はPSIによる。
+
+:; グッズ
+
+:: 持っているグッズの中から1つ選んでグッズを使う。おともだち専用のグッズもある。
+
+:; チェック
+
+:: 敵の能力や弱点を調べる。
+
+:; オート
+
+:: プレイヤーキャラクターが自動的に行動する。
+
+:; ガード
+
+:: 防御をして受けるダメージを減らす。
+
+:; にげる
+
+:: 戦闘から逃げる。
+
+:; うたう
+
+  -
+
+      -
+        ラストバトルの途中からのみ使用できるコマンド。
+
+## ストーリー
+
+1900年代の初頭、アメリカの田舎町・マザーズデイで、ひと組の夫婦が行方不明になった。
+
+その後、2年程して夫のジョージだけが町に戻ってきた。しかしジョージは自らの身に起きたことについて一切語らず、不思議な研究に没頭し続けた。そして、妻のマリアが戻ってくる事はなかった。
+
+時は流れ1988年、マザーズデイでは、ジョージとマリアを曽祖父母に持つ少年が暮らしていた。ある日、少年の家で突如、家具や人形がひとりでに動き出し少年に襲い掛かった。戦いの末に事態を収め少年が自宅の広間へ向かうと、単身赴任中の父親から電話がかかってきた。そこで少年が直前の出来事について話すと、父親は、その現象が曽祖父の研究と関係しているのではないかと語った。話を聞いた少年は身支度を整え、怪奇現象の謎を探るべく旅に出た。
+
+## 舞台
+
+現代アメリカを舞台としているが、登場する地域名はすべて架空のものとなっている。町の名前はアメリカの[祝日](../Page/祝日.md "wikilink")や[年中行事](../Page/年中行事.md "wikilink")の名称から採られているものが多い。大陸横断鉄道「パラダイスライン」により、サンクスギビング、レインディア、ハロウィーン、スノーマンの4つの町が結ばれている。
+
+なお、英語表記が2種類あるものはそれぞれ「日本国内版 / 日本国外版」を表す。また、本項および「[登場人物](https://ja.wikipedia.org/wiki/#登場人物 "wikilink")」の項に記載された説明文の一部は、本作の公式ガイドブック『**マザー百科**』（[小学館](../Page/小学館.md "wikilink") ISBN 978-4091041142、脚注では『**百科**』と表記）の記述を基にしており、<ins>ゲーム本編では語られない設定が多く含まれている</ins>。
+
+### マザーズデイ / Mother's Day / Podunk
+
+前町長の「口笛を吹きたくなる町にしよう」というスローガンに基づく施政によって周辺地域が整備されている。隣町サンクスギビングの[ベッドタウン](../Page/ベッドタウン.md "wikilink")でもある。[カーネーション](https://ja.wikipedia.org/wiki/カーネーション "wikilink")の花はこの町のシンボルとなっている\[4\]。
+
+  - マイホーム
+    主人公の自宅。町の北のはずれに建てられている。
+  - 南の墓場 / South Cemetery
+    町の南に広がる町立共同[墓地](https://ja.wikipedia.org/wiki/墓地 "wikilink")。[1864年](../Page/1864年.md "wikilink")創立\[5\]。何者かの力により[ゾンビ](../Page/ゾンビ.md "wikilink")が現れ、辺りを徘徊している。
+  - カナリア村 / Canary Village
+    町の北西にある、[カナリア](../Page/カナリア.md "wikilink")の生息地。[1907年](../Page/1907年.md "wikilink")創立\[6\]。
+  - シュークリーム動物園 / Chou a la Creme Zoo / Choucream Zoo
+    町の北にある[動物園](../Page/動物園.md "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")創立\[7\]。飼育されていた動物たちが突然凶暴化したため、外へ逃げ出さないよう閉鎖されている。他では見られない「歌う[サル](../Page/サル.md "wikilink")」がいる。
+
+### マジカント / Magicant
+
+一面に桃色の大地が広がる異世界。女王であるクイーンマリーが統治している。
+
+  - マジカントの町
+    マジカントの住人が暮らす町。桃色の貝殻のような形をした建物が並んでいる。
+  - クイーンマリーの城 / Queen Mary's Castle
+    クイーンマリーがいる城。入り口の前には、[なぞなぞ](../Page/なぞなぞ.md "wikilink")好きの[守衛](https://ja.wikipedia.org/wiki/守衛 "wikilink")が立っている。
+  - クイーンマリーの泉
+    城の西にある泉。泉の水に触れるとHPが全回復するほか、辺りに生えている赤い草を浸すとHP回復アイテムの「マジックハーブ」に変わる。また、泉に向けてPSIの「[テレパシー](https://ja.wikipedia.org/wiki/テレパシー "wikilink")」を使うと「おたすけじいさん」が現れて毒状態や石化状態を治療でき、『MOTHER1+2』ではさらに銀行に預けたお金を引き出すこともできる。
+  - フライングマンの家 / Flying man's house
+    城の北にある、鳥人「フライングマン」たちが住む家。
+  - 地下大河 / Underground
+    マジカントの地下に広がる空間。その奥では巨大な[ドラゴン](../Page/ドラゴン.md "wikilink")が眠っている。
+
+### サンクスギビング / Thanksgiving / Merrysville
+
+[Denver_union_station.jpg](https://ja.wikipedia.org/wiki/File:Denver_union_station.jpg "fig:Denver_union_station.jpg")の[ユニオン駅](https://ja.wikipedia.org/wiki/ユニオン駅_\(デンバー\) "wikilink")\]\]
+
+マザーズデイの隣町。実業家ゴルドリッチ・ダンカンの手によって急速に発展したが、近年ではストリップ劇場「ナンバー1」（『MOTHER1+2』では「れいのみせ」と表記）\[8\]の建設を巡り町政が紛糾している\[9\]。町の北側には、大陸横断鉄道の駅「サンタクロース駅」がある。
+
+  - ティンクル小学校 / Twinkle Elementary School
+    当初はサンクスギビング小学校という名称だったが、マザーズデイから贈られた鐘にちなみティンクル小学校と呼ばれるようになった。内部の理科室には「ヴィムシュタイン」なる科学者が出没し、効果不明の機械類を販売している\[10\]。
+  - スイートリトル工場 / Sweet Little Factory / Sweet's Little Factory
+    町の南にある工場。1955年創業\[11\]。かつては[ミサイル](../Page/ミサイル.md "wikilink")生産工場だった。ダンカン工場が完成して以来は稼動を停止している。
+  - ダンカン工場 / Duncan Factory / Duncan's Factory
+    町の北にある巨大な工場。1969年創業\[12\]。最上階にはロケットが設置されている。
+
+### レインディア / Reindeer
+
+高級住宅が建ち並ぶ町。他の町に関する様々な噂話が飛び交っている。
+
+  - 預言者の館
+    町の北西にある建物。300年生きていると噂される預言者の老人が暮らしている。
+
+### ハロウィーン / Halloween / Spookane
+
+異形の怪物たちに占拠された町。かつては[鉱山](https://ja.wikipedia.org/wiki/鉱山 "wikilink")の町として賑わっていたが\[13\]、現在は住人が[山の手](../Page/山の手.md "wikilink")に避難している。
+
+  - 幽霊屋敷 / Ghost House
+    町の高台に建てられた屋敷。現在では幽霊の巣窟と化し、ここで暮らしていたローズマリー一家は高台の麓に移り住んでいる。屋敷の奥にはひとりでにメロディーを奏でる[ピアノ](../Page/ピアノ.md "wikilink")がある。
+
+### スノーマン / Snowman
+
+雪に覆われた町。町中では風邪が流行している。
+
+  - 教会 / Church / Chateau
+    町から東に大きく離れた山奥に建っている[教会](../Page/教会.md "wikilink")。
+
+### アドベント砂漠 / Advent Desert / Yucca Desert
+
+大陸の北側に広がる[砂漠](../Page/砂漠.md "wikilink")。この東に位置する[遺跡](../Page/遺跡.md "wikilink")にはかつて多くの盗掘者や調査隊がやってきたという。砂漠の一角には、過去の大戦の際に埋められたままの[地雷](https://ja.wikipedia.org/wiki/地雷 "wikilink")や顔のついた[サボテン](https://ja.wikipedia.org/wiki/サボテン "wikilink")の生息地もある。伝承では1000年に一度[イエス・キリスト](https://ja.wikipedia.org/wiki/イエス・キリスト "wikilink")が再臨する地とされており、「[アドベント](../Page/アドベント.md "wikilink")」の名もそれに由来する\[14\]。
+
+  - 遊覧飛行場
+    砂漠の[オアシス](../Page/オアシス.md "wikilink")の近くで、退役した老人が[複葉機](../Page/複葉機.md "wikilink")を用いた遊覧飛行を運営している。搭乗の際に受け取る半券を10枚集めると[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")に乗車できるサービスも行われている。
+  - 遺跡 / Historic ruins / Ruins of Desert
+    砂漠にある古代遺跡。入り口は巨大なロボットにより守られている。内部では多くの[サル](../Page/サル.md "wikilink")が棲息している。
+
+### イースター / Easter / Youngtown
+
+アドベント砂漠の南にある森の中の町。大人たちが空飛ぶ船「マザーシップ」によって連れ去られ、町中には子供だけが取り残されている。町の北部には駅があるが、橋の崩落により線路が寸断され汽車は運行していない。
+
+  - ガリクソン家
+    町の西側の家に住む一家。特殊能力を秘めた赤ん坊がいる。
+
+### 湿地帯 / Swamp
+
+イースターの東に広がる[湿地帯](https://ja.wikipedia.org/wiki/湿地帯 "wikilink")。[氷河](https://ja.wikipedia.org/wiki/氷河 "wikilink")が長い年月をかけて地面を削り取り、迷路のように入り組んだ地形となった。国内唯一の[バッファロー](https://ja.wikipedia.org/wiki/バッファロー "wikilink")の狩場\[15\]。
+
+### バレンタイン / Valentine / Ellay
+
+湿地帯の北部にある町。1950年代には[自動車産業](../Page/自動車産業.md "wikilink")が盛んだったが、現在は衰退している。若者の風紀が乱れ、町中では不良集団「ブラックブラッド団」（通称ブラブラ団）が闊歩している。また、警官による不法行為の横行も問題になっている。
+
+  - ライブハウス / Live House
+    元[ロックンロール](../Page/ロックンロール.md "wikilink")ミュージシャンが経営する[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")。ブラブラ団の溜まり場でもある。
+  - 展望台 / Look-Out Tower
+    町の北部の港にある展望台。屋上に設置された望遠鏡からは、一軒家のある小島が見える。
+
+### ホーリーローリーマウンテン / Holy Loly Mountain / Mount Itoi
+
+バレンタインの東にそびえ立つ山。標高1,013メートル\[16\]。
+
+  - 山小屋 / Mountain hut
+    中腹にある[山小屋](https://ja.wikipedia.org/wiki/山小屋 "wikilink")。老人が一人で暮らしている。
+  - 工場 / Factory
+    中腹に広がる湖の底に造られた工場。中には巨大ロボットが安置されている。
+  - 山頂 / Summit
+    巨大な船「マザーシップ」が停泊している。その前には「XX」と刻まれた石碑がある。
+
+## 登場人物
+
+「[舞台](https://ja.wikipedia.org/wiki/#舞台 "wikilink")」の項と同じく、この項の内容の一部にも『マザー百科』を基にした記述があり、<ins>ゲーム本編では語られない設定が含まれている</ins>。
+
+### プレイヤーキャラクター
+
+以下の4人が操作できるキャラクター（[プレイヤーキャラクター](../Page/プレイヤーキャラクター.md "wikilink")）として登場し、名前を任意で設定できる。
+
+  - ぼく / Ninten
+    マザーズデイに住む少年。本作の主人公。12歳\[17\]。青いつばのついた赤い野球帽をかぶり、黄色と青色のボーダーシャツを着ている。血液型はA型。動物の言葉を理解する能力を持つ。母親のキャロル、双子の妹ミミー、ミニー、飼い犬のミックと共に暮らしている。単身赴任中の父親はどこか遠い所にいるらしく、長らく会っていない。
+    主な武器は[バット](https://ja.wikipedia.org/wiki/バット_\(野球\) "wikilink")。HPと攻撃力と防御力、スピード等のステータスが全体的に高めで戦闘補助系や回復系のPSIを多数会得する。反面、おんなのこが使う攻撃系PSIは覚えない。[喘息](https://ja.wikipedia.org/wiki/喘息 "wikilink")持ちで、戦闘時に一部の敵の[排気ガス](https://ja.wikipedia.org/wiki/排気ガス "wikilink")攻撃を受けると発作が起き一切の行動が取れなくなる。
+    大の[野球](../Page/野球.md "wikilink")好き。守備は[右翼手](../Page/右翼手.md "wikilink")。[サンフランシスコ・ジャイアンツ](../Page/サンフランシスコ・ジャイアンツ.md "wikilink")のファン。[メジャーリーグベースボール](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")の観戦でたまたま隣の席になった[シゲオ・ナガシマからサインボールをもらい](../Page/長嶋茂雄.md "wikilink")、宝物にしている\[18\]。
+    『マザー百科』『[大乱闘スマッシュブラザーズ SPECIAL](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_SPECIAL "wikilink")』では「ニンテン」、小説版では「ケン」、ゲームブック版では「ダグラス」、『[大乱闘スマッシュブラザーズX](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズX "wikilink")』では「にんてん」の名前が用いられている。
+  - おともだち（ロイド / Loid / Lloyd）
+    サンクスギビングのティンクル小学校に通う少年。銀髪でメガネを掛け赤いシャツを着ている。血液型はAB型。
+    学校では周りの子供たちからいじめられ、屋上のゴミ箱に身を隠している。自分の元を訪れた主人公と共に工場のロケットを探しに向かい、以降も旅に同行する。
+    主な武器は[エアガンなどの銃](https://ja.wikipedia.org/wiki/空気銃 "wikilink")。PSIは使えないが、様々な専用の特殊アイテムを使用でき、彼を仲間に加えて戦闘可能状態でないとストーリーを進められない箇所が２つ存在する。HPや攻撃、防御力は控えめで、特にスピードは全キャラで一番低い。
+    3歳のときに[相対性理論](../Page/相対性理論.md "wikilink")の本を見て以来、自分が[アインシュタインの生まれ変わりだと確信している](../Page/アルベルト・アインシュタイン.md "wikilink")。科学的根拠のないものを認めないが、[スーパーマン](../Page/スーパーマン.md "wikilink")だけは例外で、[クラーク・ケント](https://ja.wikipedia.org/wiki/クラーク・ケント "wikilink")が普段は冴えない「フリ」をしていることに共感を覚えている\[19\]。『[シムシティ](../Page/シムシティ.md "wikilink")』などのパソコンゲームも趣味にしている。
+  - おんなのこ（アナ / Anna / Ana）
+    スノーマンの教会で父親と暮らしている少女。金髪で桃色の[ワンピース](https://ja.wikipedia.org/wiki/ワンピース "wikilink")を着ている。血液型はB型。
+    無くしていた帽子を届けにきた主人公たちとの出会いをきっかけに、行方不明の母親を捜すため主人公たちの仲間に加わる。
+    主な武器は[フライパン](../Page/フライパン.md "wikilink")。レベルが上がるとPPが大きく上昇し多くの種類のPSIを覚え、その中でもぼくが扱えない様々な攻撃PSIを得意とする。反面HPや攻撃、防御力は全キャラ中最低である為打たれ弱い。スピードも控えめ。
+    幼い頃からピアノに親しんでいる。[ボランティア](../Page/ボランティア.md "wikilink")活動の一環で使用済み[切手](../Page/切手.md "wikilink")を集めているほか、趣味として様々な[封筒](https://ja.wikipedia.org/wiki/封筒 "wikilink")と[便箋](https://ja.wikipedia.org/wiki/便箋 "wikilink")をコレクションしている。また、日本の[ペンフレンド](https://ja.wikipedia.org/wiki/ペンフレンド "wikilink")のヨシエが送ってくれた[アキコ・ヤノの](../Page/矢野顕子.md "wikilink")[レコード](../Page/レコード.md "wikilink")『[ただいま](https://ja.wikipedia.org/wiki/ただいま。 "wikilink")』を宝物にしている\[20\]。
+  - もうひとりのおともだち（テディ / Teddy）
+    バレンタインにはびこる不良集団「ブラックブラッド団」（ブラブラ団）のボス。[リーゼント](../Page/リーゼント.md "wikilink")の髪型で[サングラス](https://ja.wikipedia.org/wiki/サングラス "wikilink")をかけ、赤い[タンクトップ](https://ja.wikipedia.org/wiki/タンクトップ "wikilink")を着ている。
+    ホーリーローリーマウンテンの化け物に両親が殺されて以降、荒れた生活を送っていたが、自身が活動する[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")にやってきた主人公と1対1で戦った後、両親の敵討ちのため共に冒険する。メンバー加入時には「おともだち」がメンバーから外れる。
+    主な武器は[ナイフ](../Page/ナイフ.md "wikilink")。PSIは使えない為PPは無いが、その他のステータスの成長率は全キャラ中最高。
+    歌が好きで、[ロカビリー](https://ja.wikipedia.org/wiki/ロカビリー "wikilink")ナンバーをよく聴く。『MOTHER1+2』や日本国外版のエンディングでは、ライブハウスのトップシンガーとして活躍する姿が見られる。ブラブラ団の構成員である日系人のコヤノから送られた、[E.YAZAWAの](../Page/矢沢永吉.md "wikilink")[自叙伝](https://ja.wikipedia.org/wiki/自叙伝 "wikilink")『[成り上がり](https://ja.wikipedia.org/wiki/矢沢永吉#成りあがり "wikilink")』を愛読する。人の好意を無下にできない性格でもあり、対立するギャンググループ「ジェットリザード団」との抗争で勝利を収めた際、忠誠の証として送られた[イグアナ](https://ja.wikipedia.org/wiki/イグアナ "wikilink")を渋々ながら飼っている\[21\]。
+
+### サブキャラクター
+
+  - キャロル / Carol
+    主人公の母親。主人公が家に帰った際には好物を作る。
+  - ミミー&ミニー / Mimmy & Minny / Mimmie & Minnie
+    主人公の双子の妹たち。ミミーはミニーと間違われることを嫌がる。ミニーは主人公たちのアイテムを預かる。
+  - パパ / Papa
+    主人公の父親。単身赴任で長期間自宅を離れているが、主人公の銀行口座にお金を振り込み冒険を支援する。
+    ゲームを数時間連続でプレイしていると、どこからか電話がかかってきて「少し休憩してみてはどうかね?」と促す。
+    [ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")版では姿を一切見せないが、『[MOTHER1+2](https://ja.wikipedia.org/wiki/MOTHER1+2 "wikilink")』や日本国外版のエンディングの最後では、ハットを被り[外套](https://ja.wikipedia.org/wiki/外套 "wikilink")を着用した後姿が表示される。
+  - ミック / Mick
+    主人公宅の飼い犬。首輪には家の地下室のカギが掛かっている。
+    攻略本『MOTHER攻略ガイドブック』（小学館）内の「糸井重里Q\&A」によると、名前の由来は主人公の母親の初恋の相手だという。
+  - ピッピ / Pippi
+    主人公の家の近くに住む赤髪の少女。7歳。マザーズデイ南の墓場に迷い込み行方不明となる。助け出された後はしばらく主人公と行動を共にし戦闘にも参加する。この時のステータスは「もうひとりのおともだち」のものが参照されている為、レベルを上げると主人公を超える高ステータスになるがストーリー上長く連れて行く事は出来ない。主人公と別れる際に「フランクリンバッヂ」をくれる。
+    のちにイースター東の湿地帯にある別荘にも姿を見せる。
+  - ローラ / Laura
+    カナリア村にいる[カナリア](../Page/カナリア.md "wikilink")。周囲の人間から「歌姫」と呼ばれるほどきれいな声でさえずる。しかし子供が行方不明になっているらしく、現在はさえずる事もなく姿を隠している。
+  - クイーンマリー / Queen Mary
+    マジカントの女王。ある歌を忘れたことで思い悩んでいる。
+  - フライングマン / Flying Man
+    マジカントの北部に住んでいる5人の鳥人。話し掛けるとそのうちの1人が仲間になり、身を呈して主人公を守り続ける。一定のダメージを受けると力尽き、その後、自分たちの家の前に墓が建てられる\[22\]。マジカントの外へ連れていくことはできない。
+  - ドラゴン / Dragon
+    地下大河で眠りについている[ドラゴン](../Page/ドラゴン.md "wikilink")。強い者の気配を感じると目を覚まし襲い掛かってくる。古い楽譜を所有している。
+  - 忘れられた男 / Forgotten Man
+    地下大河の出口を塞ぐように立っている厭世的な男。この男が出す質問への答え方によっては、主人公が別の場所に転移させられる。
+  - ガリクソン家 / Garrickson
+    イースターに住む一家。この家の赤ん坊にテレパシーで呼びかけると「テレポーテーション」のPSIを習得できる。
+  - ジョージ / George
+    主人公の父方の曽祖父。すでに他界している。
+  - マリア / Maria
+    主人公の父方の曽祖母。夫のジョージと共に行方不明になる。絵とピアノと[パッチワーク](https://ja.wikipedia.org/wiki/パッチワーク "wikilink")を得意とし、[チャリティー](https://ja.wikipedia.org/wiki/チャリティー "wikilink")活動に熱心な良妻であった\[23\]。
+  - イヴ / Eve
+    主人公の曽祖父・ジョージが開発した巨大ロボット。ホーリーローリーマウンテンの湖底の工場で主人公たちの訪れを待ち続け、主人公たちを守るべく仲間に加わる。
+  - ギーグ / Gyiyg / Giegue
+    地球征服を企む宇宙人。細長い人型に尻尾が生えた体を持ち、液体で満たされた球体の中に入っている。主人公に対し敬語で話しかけてくる一方、地球人全体を侮蔑する言葉も吐く。主人公たちに向けて正体不明の強力な攻撃を繰り出す。
+
+## 他機種版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売日</p></th>
+<th><p>対応機種</p></th>
+<th><p>開発元</p></th>
+<th><p>発売元</p></th>
+<th><p>メディア</p></th>
+<th><p>型式</p></th>
+<th><p>売上本数</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/MOTHER1+2" title="wikilink">MOTHER1+2</a></p></td>
+<td></td>
+<td><p><a href="../Page/ゲームボーイアドバンス.md" title="wikilink">ゲームボーイアドバンス</a></p></td>
+<td></td>
+<td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
+<td><p>64Mbit<a href="../Page/ロムカセット.md" title="wikilink">ロムカセット</a></p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>MOTHER</p></td>
+<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/6月14日.md" title="wikilink">6月14日</a><br />
+2015年6月14日<br />
+2015年6月14日<br />
+2015年<a href="../Page/6月15日.md" title="wikilink">6月15日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Wii_U" title="wikilink">Wii U</a></p></td>
+<td><p>任天堂東京開発<br />
+<a href="https://ja.wikipedia.org/wiki/パックスソフトニカ" title="wikilink">パックスソフトニカ</a><br />
+<a href="https://ja.wikipedia.org/wiki/エイプ_(ゲーム会社)" title="wikilink">エイプ</a></p></td>
+<td><p>任天堂</p></td>
+<td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
+(<a href="https://ja.wikipedia.org/wiki/バーチャルコンソール" title="wikilink">バーチャルコンソール</a>)</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## スタッフ
+
+  - ディレクション：糸井重里
+  - ゲーム・デザイン：糸井重里、久礼深雪
+  - ミュージック・プロデュース：大森昭男、上村律夫
+  - ミュージック・エフェクト：[鈴木慶一](../Page/鈴木慶一.md "wikilink")、[田中宏和](https://ja.wikipedia.org/wiki/田中宏和 "wikilink")
+  - キャラクター・デザイン：[南伸坊](https://ja.wikipedia.org/wiki/南伸坊 "wikilink")、[石井達矢](https://ja.wikipedia.org/wiki/石井達矢 "wikilink")
+  - フィギュア・モデリング：トットリ
+  - プログラム：なかたにかずや、小野寺正、安間基夫
+  - シナリオ・アシスト：亀山雅之、今栄生、前岩克知、桜井邦子
+  - コーディネート：立本正博、川口孝司、加藤圭三、いしいもとひろ、[戸田昭吾](https://ja.wikipedia.org/wiki/戸田昭吾 "wikilink")、さいとうゆかり
+  - プロデュース：[宮本茂](https://ja.wikipedia.org/wiki/宮本茂 "wikilink")
+  - エグゼクティブ・プロデューサー：[山内溥](https://ja.wikipedia.org/wiki/山内溥 "wikilink")
+
+## エピソード
+
+1987年に発売された『[中山美穂のトキメキハイスクール](https://ja.wikipedia.org/wiki/中山美穂のトキメキハイスクール "wikilink")』のサジェッションとして任天堂へ招かれた糸井が、この機に以前から用意していた企画書を宮本茂に見せたことで本作の開発がスタートすることとなる\[24\]。
+
+## 評価
+
+  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では、8・8・8・7の合計31点（満40点）でシルバー殿堂入りを獲得しており\[25\]\[26\]、レビュアーは、「バランスがイマイチだとか、ストーリーの方向性が希薄だとか、いろいろ賛否はあると思うけど、このゲームはやっぱり力作といってもいいと思う」、「こまかい不満はあるけれど、でもグローバルな目で見たら許せる範囲のもの」、「音楽は必聴に値します」などと評している\[27\]。
+
+<!-- end list -->
+
+  - ゲーム誌『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は25.50点（満30点）\[28\]。
+
+| 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
+| -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
+| 得点 | 4.30  | 4.46 | 4.17 | 4.37 | 4.02 | 4.18    | 25.50 |
+
+  - ゲーム誌『[ユーゲー](../Page/GAME_SIDE.md "wikilink")』では、「徹底された視点の低さは、12歳の男の子から見た『世界』を鮮やかに描き出す。異様にだだっ広いマップは世界の大きさを、独特のパースのついたグラフィックは、そびえ立つ建物の高さを強烈にイメージさせた」、「いつまでも終わらせたくない、心からそう思えるRPG」と評している\[29\]。
+
+<!-- end list -->
+
+  - ゲーム誌『[CONTINUE](https://ja.wikipedia.org/wiki/CONTINUE_\(雑誌\) "wikilink")』では、「『名作保証』。傲岸不遜な宣伝文句で登場した第3のRPG『MOTHER』は、やはり名作だった」と評している\[30\]。
+
+## 関連商品
+
+### 書籍
+
+  - マザー百科（[1989年](../Page/1989年.md "wikilink")10月、[小学館](../Page/小学館.md "wikilink")）
+    本作の公式ガイドブック。ゲームの攻略方法を重視した、いわゆる[攻略本](https://ja.wikipedia.org/wiki/攻略本 "wikilink")とは違い、実在の町や人物の写真を用いて世界観を表現するなど、旅行本さながらの装丁となっている。
+    1ページを割いた「ZIGEN SLIP」の欄には[橋本治](../Page/橋本治.md "wikilink")、[いとうせいこう](../Page/いとうせいこう.md "wikilink")、[ホイチョイプロダクション](../Page/ホイチョイ・プロダクションズ.md "wikilink")、[中沢新一](../Page/中沢新一.md "wikilink")、[宮本茂](https://ja.wikipedia.org/wiki/宮本茂 "wikilink")、[毛利公信らが](https://ja.wikipedia.org/wiki/毛利名人 "wikilink")、小欄には[鴻上尚史](https://ja.wikipedia.org/wiki/鴻上尚史 "wikilink")、[竹田青嗣](../Page/竹田青嗣.md "wikilink")、[井上陽水](../Page/井上陽水.md "wikilink")、[久美沙織](../Page/久美沙織.md "wikilink")、[天野祐吉](../Page/天野祐吉.md "wikilink")、[井崎脩五郎](../Page/井崎脩五郎.md "wikilink")、[すぎやまこういち](https://ja.wikipedia.org/wiki/すぎやまこういち "wikilink")、[南伸坊](https://ja.wikipedia.org/wiki/南伸坊 "wikilink")らがそれぞれ寄稿している。
+    アイテム造形は[カナイヒロミ](https://ja.wikipedia.org/wiki/カナイヒロミ "wikilink")、PSIシンボルマークデザインは[タナカノリユキ](https://ja.wikipedia.org/wiki/タナカノリユキ "wikilink")、モンスター造形は[トットリ君](https://ja.wikipedia.org/wiki/トットリ君 "wikilink")がそれぞれ担当した。
+    編集チーフは[義江邦夫](https://ja.wikipedia.org/wiki/義江邦夫 "wikilink")。執筆陣として、義江邦夫、[石井基博](https://ja.wikipedia.org/wiki/石井基博 "wikilink")、[戸田昭吾](https://ja.wikipedia.org/wiki/戸田昭吾 "wikilink")がクレジットされている。
+    ゲームソフト『MOTHER1+2』の発売日と同日の[2003年](../Page/2003年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")に復刻版が発売された。
+  - マザー攻略マップ 裏ワザ大全集（1989年10月、[二見書房](https://ja.wikipedia.org/wiki/二見書房 "wikilink")）
+    本作の[攻略本](https://ja.wikipedia.org/wiki/攻略本 "wikilink")。
+  - MOTHER―The Original Story（1989年8月、久美沙織、[新潮社](../Page/新潮社.md "wikilink") [新潮文庫](../Page/新潮文庫.md "wikilink")）
+    本作の小説化。おんなのこ（アナ）の視点で物語が展開される。物語の大枠は本編と共通しているものの、登場人物の容姿や性格設定などが原作とは大きく異なり、結末も違っている。あとがきによれば、ゲーム完成前のROMのプレイと初期設定資料集を元に書かれているとのことである。
+  - マザー 未知からの挑戦（1989年12月、[樋口明雄](../Page/樋口明雄.md "wikilink") / [スタジオ・ハード](https://ja.wikipedia.org/wiki/スタジオ・ハード "wikilink")、[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink") [冒険ゲームブックシリーズ](https://ja.wikipedia.org/wiki/冒険ゲームブックシリーズ "wikilink")）
+    本作の物語を基にした[ゲームブック](https://ja.wikipedia.org/wiki/ゲームブック "wikilink")。
+
+### 音楽
+
+  - MOTHER オリジナル・サウンド・トラック（[1989年](../Page/1989年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")、[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")）
+    本作の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")。海外歌手を起用したボーカルアレンジ曲がメインで、全11曲内、2曲がインストアレンジ曲となっている。最終トラックには、ゲーム中の使用BGMの原曲をゲーム進行に沿った形でメドレー形式で編集・収録した『THE WORLD OF MOTHER』が約16分に渡り収録されている。
+    収録された『Eight Melodies』（主人公たちが集めるメロディ及びエンディング）は本作のCMのBGMとして使用された他、[教育出版](https://ja.wikipedia.org/wiki/教育出版 "wikilink")が[1992年](../Page/1992年.md "wikilink")に発行した小学6年生向けの音楽の教科書『新版 音楽6』には楽譜が掲載された。
+    [2004年](../Page/2004年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")には[デジタルリマスター](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink")版が[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")から発売された。『THE WORLD OF MOTHER』の内容が一部変更されているほか、シリーズ2作目『MOTHER2 ギーグの逆襲』の曲『Smiles And Tears』のデモバージョンが追加収録されている。
+  - songs of instrumental（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月8日](../Page/11月8日.md "wikilink")、[SAKEROCK](https://ja.wikipedia.org/wiki/SAKEROCK "wikilink")、[カクバリズム](https://ja.wikipedia.org/wiki/カクバリズム "wikilink")）
+    [インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")「SAKEROCK」の2ndアルバム。5曲目に『Eight Melodies』のカバー曲が収録されている。
+
+### ゲームソフト
+
+  - [大乱闘スマッシュブラザーズDX](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズDX "wikilink")
+    対戦ステージ「オネット」のBGMとして「Bein' Friends」「Eight Melodies」をアレンジしたメドレー曲と、「Pollyanna (I Believe In You)」のアレンジ曲が、それぞれ「マザー」「マザー裏」のタイトルで用いられている。
+  - [大乱闘スマッシュブラザーズX](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズX "wikilink")
+    ゲーム内の収集要素である「シール」の一つとして、本作の主人公が「にんてん」の名前で登場する。BGMには、前作の2曲に加え、「Humoresque Of A Little Dog」（ドラッグストアのBGM）と「Snow Man」のアレンジ曲が新規に収録されている。また、ネスとリュカの乱闘勝利ジングルとしてアレンジされた「Mother Earth」(タイトルBGM)が採用されている。
+  - [大乱闘スマッシュブラザーズ for Nintendo 3DS / Wii U](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_for_Nintendo_3DS_/_Wii_U "wikilink")
+    『for Nintendo 3DS』では本作の「マジカント」が対戦ステージとして登場する。この中では時折背景に本作の一場面が表示されるほか、5人のフライングマンが登場し、倒された際には原作同様に家の前に墓が建つ。また、モードの一つ「フィールドスマッシュ」では本作の敵キャラクター「スターマン」と「マッドカー」が登場する。
+    「スターマン」は『for Nintendo 3DS / Wii U』双方で、対戦を支援するキャラクター「アシストフィギュア」としても登場する。また、BGMには『DX』の2曲と『X』の「Snow Man」のほか、前述の「マジカント」ステージ曲として、「Magicant」と「Eight Melodies」のアレンジメドレー曲が「マジカント/エイトメロディーズ(MOTHER)」のタイトルで収録されている。
+  - [大乱闘スマッシュブラザーズ SPECIAL](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_SPECIAL "wikilink")
+    前作に登場した対戦ステージの「マジカント」、アシストフィギュアの「スターマン」が続投されている。前作までに登場した本作を出典とする楽曲は全て続投された他、新たに「Magicant」が[桜庭統](https://ja.wikipedia.org/wiki/桜庭統 "wikilink")の編曲により「マジカント」のタイトルで収録されている。また、ネスとリュカの乱闘勝利ジングルにアレンジされた「Eight Melodies」の一節が使用されている。
+    本作からの新システム「スピリッツ」にはニンテン、アナ、ロイド、テディなど、本作のキャラクターも採用されている。
+
+## 脚注
+
+## 参考資料
+
+  -
+  -
+  -
+## 外部リンク
+
+  - [MOTHER](http://www.nintendo.co.jp/n08/a2uj/mother/) - 『MOTHER1+2』公式サイト内の『MOTHER』に関するページ
+  - [MOTHER](https://www.nintendo.co.jp/titles/20010000002070) - Wii Uバーチャルコンソール
+
+[Category:MOTHERシリーズ](https://ja.wikipedia.org/wiki/Category:MOTHERシリーズ "wikilink") [Category:1989年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1989年のファミリーコンピュータ用ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:アメリカ合衆国を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国を舞台としたコンピュータゲーム "wikilink") [Category:地球外生命体を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材としたコンピュータゲーム "wikilink") [Category:ファミ通クロスレビューシルバー殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:ファミ通クロスレビューシルバー殿堂入りソフト "wikilink") [Category:冒険ゲームブック](https://ja.wikipedia.org/wiki/Category:冒険ゲームブック "wikilink")
+
+1.  一倉の事務所のホームページ「[一倉広告製作所](http://1-kura.com/)」の記載より（現在は記載なし）
+2.  森のやや木の間隔が広い場所では、斜め移動することで、木の間をすり抜けるように移動できる。これを使わないと行けない場所がある。
+3.  この他、アイテム「そうそふのにっき」もしくはPSI「テレパシー」を、マップ上の特定の洞窟内に存在するピンク色の岩に対して使うことでも移動が可能。
+4.  『百科』p.30
+5.  『百科』p.40
+6.  『百科』p.38
+7.  『百科』p.42
+8.  『百科』p.152
+9.  『百科』p.54
+10. 『百科』pp.56 - 57
+11. 『百科』p.59
+12. 『百科』p.60
+13. 『百科』p.72 - 74
+14. 『百科』p.80
+15. 『百科』pp.91 - 92
+16. 『百科』p.100
+17.
+18. 『百科』pp.18 - 19
+19. 『百科』pp.20 - 21
+20. 『百科』pp.22 - 23
+21. 『百科』pp.24 - 25
+22. この墓のグラフィックは、ファミリーコンピュータ版では[十字架](https://ja.wikipedia.org/wiki/十字架 "wikilink")を模したデザインだが、『MOTHER1+2』では別のデザインに変更されている。
+23. 『百科』pp.12 - 17
+24.
+25.
+26.
+27.
+28.
+29.
+30.

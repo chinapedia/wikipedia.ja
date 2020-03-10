@@ -1,0 +1,424 @@
+> この記事は[IEEE 754](https://ja.wikipedia.org/wiki/IEEE_754)から翻訳されています。
+
+
+**IEEE 754**（あいとりぷるいー754、[IEEE](../Page/IEEE.md "wikilink") Standard for Floating-Point Arithmetic: 直訳すると「浮動小数点算術標準」）は、[浮動小数点数](../Page/浮動小数点数.md "wikilink")の計算で最も広く採用されている標準規格であり、多くの[プロセッサ](../Page/プロセッサ.md "wikilink")などのハードウェア、またソフトウェア（[コンピュータ・プログラム](../Page/プログラム_\(コンピュータ\).md "wikilink")）に実装されている。多くの[コンピュータ・プログラミング言語ないしその処理系でも](../Page/プログラミング言語.md "wikilink")、浮動小数点数処理の一部または全部が IEEE 754 になっている。IEEE 754 が制定される前に成立した[C言語](../Page/C言語.md "wikilink")などは、仕様上はIEEE 754 が必須となっていないものの、IEEE 754対応の演算命令を使える環境下では、それをそのまま利用して浮動小数点数演算を実装することが多い。一方で、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")や[C\#など](../Page/C_Sharp.md "wikilink")、言語仕様として IEEE 754 を必須としているものもある。
+
+21世紀に入った後に改定され、2008年8月に制定された IEEE 754-2008 がある。これには、1985年の IEEE 754 制定当初の規格であるIEEE 754-1985、ならびに基数非依存の浮動小数点演算の標準規格 IEEE 854-1987 の両者がほぼすべて吸収されている。IEEE 754-2008 は正式に制定されるまでは、**IEEE 754r**と呼ばれた。
+
+正式な規格名は、**IEEE Standard for Floating-Point Arithmetic (ANSI/IEEE Std 754-2008)**である。[ISO](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")/IEEEのPSDO（パートナー標準化機関）合意文書に基づき、[JTC1](https://ja.wikipedia.org/wiki/ISO/IEC_JTC_1 "wikilink")/SC 25 を通して[国際規格](../Page/国際規格.md "wikilink") **ISO/IEC/IEEE 60559:2011** として採用され\[1\]、公表されている\[2\]。
+
+この標準規格は以下のことを定義している。
+
+  - 基本形式: 二進および[十進の浮動小数点数データの集合](../Page/十進法.md "wikilink")。有限な数（[符号付ゼロと](https://ja.wikipedia.org/wiki/−0 "wikilink")[非正規化数](https://ja.wikipedia.org/wiki/非正規化数 "wikilink")を含む）、[無限](../Page/無限.md "wikilink")、特殊な「数ではない」値（[NaN](https://ja.wikipedia.org/wiki/NaN "wikilink")）から成る。二進形式3種類、十進形式2種類で、計5種類の基本形式が存在する。
+  - 交換形式: 浮動小数点数を効率的かつコンパクトな形で交換するのに使われる符号化形式（ビット列）
+  - 丸め規則: 算術や変換の際に数を丸める方式（[端数処理](../Page/端数処理.md "wikilink")）。5種類
+  - 演算: 基本形式に対する算術演算や他の演算
+  - 例外処理: 例外的状態の通知（[ゼロ除算](https://ja.wikipedia.org/wiki/ゼロ除算 "wikilink")、オーバーフロー、その他）。5種類
+
+またこの規格では、高度な例外処理、追加的な演算（[三角関数](../Page/三角関数.md "wikilink")など）、式評価、再現可能性などを強く推奨している。
+
+このIEEE 754-2008 は、7年をかけて IEEE 754-1985 から置き換えたものである。改訂作業は Dan Zuras が指揮し、が編集責任者となった。なお、IEEE 754-1985 当初からの二進形式（単精度・倍精度）は、そのまま IEEE 754-2008 にも含まれている。さらに、IEEE 754-2008 では、新たに二進形式1つ、十進形式2つも加わって、計5つの基本形式が存在する。IEEE 754-2008 に従う実装では、これらのうち少なくとも1つの基本形式を算術演算と情報交換のために実装しなければならないとされている。
+
+## 形式
+
+IEEE 754において、浮動小数点数データを取り扱うための符号化が**形式** (**Formats**) として定められている。その中では次のデータを表現できる。
+
+  - 2または10を基数とする有限数。各有限数は、符号*s*（0または1）、[仮数](https://ja.wikipedia.org/wiki/仮数 "wikilink")*c*、指数*q*の3つの整数で表現し、(−1)<sup>*s*</sup> × *c* × *b*<sup>*q*</sup>という値を意味する。bは基数で2または10である。例えば、符号が1（負数を意味する）、仮数が12345、指数が−3で、基数が10だった場合、−12.345という値を表す。
+      - [非正規数](https://ja.wikipedia.org/wiki/非正規化数 "wikilink")
+      - 0（+0と−0）
+  - \+∞と−∞。
+  - 2種類の非数 ([NaN](https://ja.wikipedia.org/wiki/NaN "wikilink"))。NaNにはクワイエットNaN (Quiet NaN) とシグナリングNaN (Signaling NaN) が存在する。どちらのNaNでも、追加情報を伝えられる余分のビットが設けられている。
+
+所定の形式で表現可能な有限数値は、基数 (*b*)、仮数の桁数すなわち精度 (*p*)、指数に関するパラメータ *emax* によって決定される。
+
+  - *c*は0から*b*<sup>*p*</sup>−1までの値でなければならない（例えば*b* = 10 かつ *p* = 7 ならば c は0から9999999の範囲を取る）。
+  - *q*は1−*emax* ≤ *q*+*p*−1 ≤ *emax*でなければならない（同様に、例えば*p* = 7 かつ *emax* = 96 ならばqは−101から90の範囲を取る）。
+
+括弧内の例のパラメータを用いた場合、0以外で最も小さい値は1×10<sup>−101</sup>と表現され、最も大きい値は9999999×10<sup>90</sup> (または9.999999×10<sup>96</sup>) と表現される。このうち、仮数の桁数が充分確保されているのは1000000×10<sup>−101</sup>（または1.000000×10<sup>−95</sup>) 以上の値であり、これらの数は正規数と呼ばれる。一方、正負の最も0に近い正規数である−1×10<sup>−95</sup>と1×10<sup>−95</sup>に挟まれた区間は、[非正規数として表現される](https://ja.wikipedia.org/wiki/非正規化数 "wikilink")。例えば、1×10<sup>−101</sup>はこの例において表現できる最も0に近い正の値だが、仮数の桁数が1しかなく非正規数である。
+
+ゼロは仮数が0の有限数である。符号が別に定義されているので、[符号付の2種類のゼロ](https://ja.wikipedia.org/wiki/−0 "wikilink") +0 と-0 が存在する。
+
+### 基本形式
+
+IEEE 754標準では、5種類の基本形式を定めており、基数や符号化して使用するビット数に応じて名前が付けられている。その内訳は、32/64/128ビットで表現する3種類の二進浮動小数点形式と64/128ビットで表現する2種類の十進浮動小数点形式からなる。このうち、二進形式の初めの2種は IEEE 754-1985 で[単精度](https://ja.wikipedia.org/wiki/単精度 "wikilink") (single)・[倍精度](https://ja.wikipedia.org/wiki/倍精度 "wikilink") (double) と呼ばれた形式である。3つ目の二進形式は、[四倍精度](https://ja.wikipedia.org/wiki/四倍精度 "wikilink") (quad) とも呼ばれる。同様に、十進形式の2種も倍精度・四倍精度と呼ばれる。
+
+基本二進形式の典型的な精度は実際に仮数部に保持されているビット数よりも1ビット分だけ高い。これは二進形式の正規化された浮動小数点数では最上位ビット（桁）が常に１であることを利用して符号化の際にそれを省いて表現しているからである（ケチ表現）。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>形式名</p></th>
+<th><p>一般名</p></th>
+<th><p>基数<br />
+(b)</p></th>
+<th><p>桁・ビット数<br />
+(p)</p></th>
+<th><p>指数最小値<br />
+(emin)</p></th>
+<th><p>指数最大値<br />
+(emax)</p></th>
+<th><p>備考</p></th>
+<th><p>十進換算<br />
+桁数</p></th>
+<th><p>十進換算<br />
+emax</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/半精度浮動小数点数" title="wikilink">binary16</a></p></td>
+<td><p>半精度</p></td>
+<td><p>2</p></td>
+<td><p>10+1</p></td>
+<td><p>−14</p></td>
+<td><p>+15</p></td>
+<td><p>交換形式であって、基本形式ではない</p></td>
+<td><p>3.31</p></td>
+<td><p>4.51</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/単精度" title="wikilink">binary32</a></p></td>
+<td><p>単精度</p></td>
+<td><p>2</p></td>
+<td><p>23+1</p></td>
+<td><p>−126</p></td>
+<td><p>+127</p></td>
+<td></td>
+<td><p>7.22</p></td>
+<td><p>38.23</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/倍精度" title="wikilink">binary64</a></p></td>
+<td><p>倍精度</p></td>
+<td><p>2</p></td>
+<td><p>52+1</p></td>
+<td><p>−1022</p></td>
+<td><p>+1023</p></td>
+<td></td>
+<td><p>15.95</p></td>
+<td><p>307.95</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/四倍精度" title="wikilink">binary128</a></p></td>
+<td><p>四倍精度</p></td>
+<td><p>2</p></td>
+<td><p>112+1</p></td>
+<td><p>−16382</p></td>
+<td><p>+16383</p></td>
+<td></td>
+<td><p>34.02</p></td>
+<td><p>4931.77</p></td>
+</tr>
+<tr class="odd">
+<td><p>decimal32</p></td>
+<td><p>十進単精度</p></td>
+<td><p>10</p></td>
+<td><p>7</p></td>
+<td><p>−95</p></td>
+<td><p>+96</p></td>
+<td><p>交換形式であって、基本形式ではない</p></td>
+<td><p>7</p></td>
+<td><p>96</p></td>
+</tr>
+<tr class="even">
+<td><p>decimal64</p></td>
+<td><p>十進倍精度</p></td>
+<td><p>10</p></td>
+<td><p>16</p></td>
+<td><p>−383</p></td>
+<td><p>+384</p></td>
+<td></td>
+<td><p>16</p></td>
+<td><p>384</p></td>
+</tr>
+<tr class="odd">
+<td><p>decimal128</p></td>
+<td><p>十進四倍精度</p></td>
+<td><p>10</p></td>
+<td><p>34</p></td>
+<td><p>−6143</p></td>
+<td><p>+6144</p></td>
+<td></td>
+<td><p>34</p></td>
+<td><p>6144</p></td>
+</tr>
+</tbody>
+</table>
+
+十進換算の桁数は *p* × log<sub>10</sub> *b* で得られる十進での桁数の近似値である。
+
+十進換算の emax は *emax* × log<sub>10</sub> *b* で得られる十進での指数最大値である。
+
+### 拡張精度形式
+
+算術その他の演算で使用される形式は、符号化したときのものと一致していなくても構わない（つまり、実装は、内部で異なる表現を使用してもよい）。
+
+この標準では、精度（有効桁数）を拡張した形式を示し、基本形式よりも精度を高くすることを推奨している\[3\]。拡張精度 (extended precision) 形式は、仮数部と指数部の桁数（ビット数）を基本形式よりも大きくしたものである。拡張可能精度 (extendable precision) 形式では、ユーザーが仮数部の桁数と指数部の範囲を指定できる。これらを内部の表現として実装することができる。ただし、そのような内部形式も、有限数の表現できる集合が定められるようパラメータ (*b*, *p*, *emax*) はきちんと定義されている必要がある。
+
+また、この標準は拡張（可能）精度形式の実装を要求してはいない。
+
+この標準では、言語がサポートしているそれぞれの基数 *b* について *p* と *emax* を指定する方法を提供することを推奨している\[4\]。
+
+また、拡張形式をサポートする場合は、サポートしているそれぞれの基数 *b* について最大の基本形式よりも高い精度をサポートすることを推奨している\[5\]。
+
+2つの基本形式の中間の精度の拡張形式の場合、大きい方の基本形式と同じかそれ以上の指数範囲を持たなければならない。したがって例えば64ビットの拡張精度二進形式なら、*emax* は16383以上でなければならない。[Intel 8087](../Page/Intel_8087.md "wikilink") の[80ビット拡張形式はこの要求を満たしている](https://ja.wikipedia.org/wiki/拡張倍精度 "wikilink")（binary128と指数の範囲が等しい）。
+
+### 交換形式
+
+交換形式は固定長のビット列での浮動小数点数の交換や記録を意図した形式である。
+
+二進浮動小数点数用に、16/32/64ビットならびに32の倍数で128ビット以上の交換形式が定義されている。16ビット形式（[半精度](https://ja.wikipedia.org/wiki/半精度浮動小数点数 "wikilink")）は、グラフィック用途など小さな値の交換または記憶に用いることが想定されている。
+
+二進交換形式の符号化方式は IEEE 754-1985 から変わっていない。先頭に符号ビット1ビットがあり、それに *w* ビットの「バイアス」された指数部が続き、さらに *p*−1 ビットの仮数部が続く。全体で *k* ビットの形式の場合、指数部のビット数は *w* = floor(4 log2(*k*))−13 で得られる。ただし、64ビットと128ビットの形式ではこれで正しいが、16ビットと32ビットの形式ではこの式で得られる値（それぞれ3と7）より多くのビットが指数部に割り当てられている（それぞれ5と8）。
+
+#### ここでのビットの示し方について
+
+W[ビット](../Page/ビット.md "wikilink")の幅を持つ[ワード](../Page/ワード.md "wikilink")がある場合、[整数](../Page/整数.md "wikilink")でビットに番号を振る。その番号の範囲は0 − W−1 であり、0番のビットが右端となる。0番のビットは一般に[LSBである](https://ja.wikipedia.org/wiki/最下位ビット "wikilink")。
+
+#### 32ビット単精度の交換形式
+
+[単精度](https://ja.wikipedia.org/wiki/単精度 "wikilink")二進化浮動小数点数は、32ビットワードに格納される。
+
+[<File:Float> example.svg](https://ja.wikipedia.org/wiki/File:Float_example.svg "fig:File:Float example.svg")
+
+`sign` は符号、`exponent` は指数部、`fraction` は仮数部である。
+
+指数部は下駄履き表現（バイアスまたはエクセスとも。[符号付数値表現](https://ja.wikipedia.org/wiki/符号付数値表現 "wikilink")を参照）と呼ばれる形式であり、実際の値に、ある固定値（ここでは *emax* = 127）を加算したものである。このような表現にしているのは浮動小数点数同士の比較を単純にするためである。指数部は大きな値も小さな値も表せるように負の値にもなるが、これを単に[2の補数](../Page/2の補数.md "wikilink")で表すと、全体の符号 `sign` とは別に `exponent` も符号を持つことになり、単純な大小比較ができなくなってしまう。そのため、指数部はバイアスされて常に正の値となるような形式で格納される。単精度では−126 ～ +127に127を加えて、1 ～ 254としている（0と255は特殊な意味を持つ。後述）。この表現により「指数が正の数」「指数が1の数」「指数が負の数」「0」を、この順に自然に並べることができる。浮動小数点数を解釈するときは、バイアスを減算して実際の指数を求める。
+
+表現可能なデータは指数部の値によって区別され、仮数部の値にも影響される。指数部も仮数部も符号無しの二進整数であることに注意されたい（指数部は 0 – 255）。
+
+| 種類    | exponent（指数部） | fraction（仮数部） |
+| ----- | ------------- | ------------- |
+| ゼロ    | 0             | 0             |
+| 非正規化数 | 0             | 0以外           |
+| 正規化数  | 1 – 254       | 任意            |
+| 無限大   | 255           | 0             |
+| NaN   | 255           | 0以外の任意        |
+
+最も一般的な正規化数では、exponent はバイアスされた指数であり、fraction は[仮数](https://ja.wikipedia.org/wiki/仮数 "wikilink")の小数点以下の部分である。先ほどの(−1)<sup>*s*</sup> × *c* × *b*<sup>*q*</sup>と対応づけると次のようになる。
+
+  -
+    *s* = sign
+    *q* = exponent − *emax* (ここでは*emax* = 127であり、換言すれば、指数に127を加算して格納されている。「127でバイアス」しているとも言う)
+    *b* = 2
+    *c* = 1.fraction
+
+正規数においてcは1以上2未満のため、常に1.xxx…と表記できる。このため、fractionにはxxx…の部分のみを格納し、実質1ビット多い24ビット精度を実現している。これは**けち表現**と呼ばれる。
+
+なお、1 − *emax* = −126 が単精度における正規化数の最小の指数である。
+
+正規化数以外の場合
+
+  - 非正規化数の場合*q* = −126で、*c*が 0.fraction とする。（*q*は−127 ではない。仮数の小数点以上の部分が0になっている関係で、指数を−126としてバランスをとっている。）
+  - ゼロは二種類存在する。+0（*s*が0）と−0（*s*が1）である。
+  - 無限大も二種類存在する。+∞（*s*が0）と−∞（*s*が1）である。
+  - NaNにも符号や仮数があるが、分析以外の目的では使えない。fraction の先頭ビットで 「signaling NaN」と「quiet NaN」を区別する。
+  - NaNと無限大はexponentフィールドが全て1である。
+
+##### 例
+
+−118.625（十進法）をIEEE 754 単精度で表現してみよう。
+
+  - まず、符号と指数と仮数に分割する必要がある。
+  - 負の数なので、符号は 1 となる。
+  - 次に、絶対値を二進法で書くと、1110110.101となる（[二進記数法](https://ja.wikipedia.org/wiki/二進記数法 "wikilink")を参照されたい）。
+  - 小数点を左に移動させ、1だけを左に残す。1110110.101=1.110110101×2<sup>6</sup>となる。これが正規化された浮動小数点数である。
+  - fractionは小数点の右側だけであり、足りないビット数のぶんだけ 0 で埋め 23ビットにする。結果は 11011010100000000000000 である。
+  - 指数は6であるが、バイアスを加える必要がある。32ビット IEEE 754 形式では、バイアスは127なので6 + 127 = 133となる。二進法に変換すると10000101である。
+
+この結果をまとめると以下のようになる。
+
+[<File:Float> point example frac.svg](https://ja.wikipedia.org/wiki/File:Float_point_example_frac.svg "fig:File:Float point example frac.svg")
+
+#### 64ビット倍精度の交換形式
+
+[倍精度](https://ja.wikipedia.org/wiki/倍精度 "wikilink")も、各フィールドの幅が広くなっているだけで、考え方は同じである。
+
+[<File:IEEE> 754 Double Floating Point Format.svg](https://ja.wikipedia.org/wiki/File:IEEE_754_Double_Floating_Point_Format.svg "fig:File:IEEE 754 Double Floating Point Format.svg")
+
+正規化数では、指数は*emax* = +1023でバイアスされる（したがってeは exponent − 1023）。正規化数の指数は e: +1023 〜 −1022（exponent: 2046 〜 1）である（exponent = 2047 の時無限大またはNaN、exponent = 0 の時非正規化数で e = −1022）。正規化数の時仮数部はけち表現である。
+
+#### 半精度と四倍精度の交換形式
+
+半精度の交換形式は次のようになる。
+
+[<File:IEEE> 754r Half Floating Point Format.svg](https://ja.wikipedia.org/wiki/File:IEEE_754r_Half_Floating_Point_Format.svg "fig:File:IEEE 754r Half Floating Point Format.svg")
+
+また、四倍精度の交換形式は次のようになる。
+
+[<File:IEEE> 754 Quadruple Floating Point Format.svg](https://ja.wikipedia.org/wiki/File:IEEE_754_Quadruple_Floating_Point_Format.svg "fig:File:IEEE 754 Quadruple Floating Point Format.svg")
+
+#### 浮動小数点数の比較
+
+浮動小数点数の比較は浮動小数点[命令を使うのが最良である](../Page/命令_\(コンピュータ\).md "wikilink")。しかし、形式やエンディアンや符号が同じであれば、数値をビット列としてバイト単位に比較することも不可能ではない（NaNは除く）。
+
+ふたつの正の数値aとbについてa \< bという比較を行う場合、これを符号無しの整数と見なして比較しても同じ結果を得られる。換言すれば、（NaN以外の）2つの正の浮動小数点数は符号無し整数として比較できる（ただし、エンディアンが異なる場合は比較できないので、移植性が問題となるコードで[共用体](https://ja.wikipedia.org/wiki/共用体 "wikilink")を使ってこれをするのは推奨できない）。これは[辞書式順序](../Page/辞書式順序.md "wikilink")の例である。
+
+#### 十進浮動小数点数の交換形式
+
+十進浮動小数点数に対しては、32の倍数のビット数での交換形式が定義されている。
+
+二進の場合と同様、符号、指数、仮数と符号化していくが、仮数部は十進の各桁をより詰め込めるよう、[BCDなどではなく](../Page/二進化十進表現.md "wikilink") [Densely Packed Decimal](https://ja.wikipedia.org/wiki/Densely_Packed_Decimal "wikilink") および  を採用し、ビットの扱いが二進と比べ複雑になっている。またこの標準では、2つの符号化方式（DPDとBID）のどちらを使っているかを示す方法を用意していない（世の中には[エンディアン](https://ja.wikipedia.org/wiki/エンディアン "wikilink")が2種類あるが、IEEE 754 が交換形式のエンディアンを指定していないのと同じである\[6\]）。いずれにせよ符号・指数・仮数によって表現すること自体に変わりはない。また、NaNの表現は、二進同様に正規化数とは別扱いである。
+
+## 浮動小数点数の丸め
+
+IEEE 754-2008標準では5種類の丸めアルゴリズムが定義されている。うち2種類は最近接な値に丸める方法であり、残り3種類は[方向丸めと呼ぶ](../Page/端数処理.md "wikilink")。
+
+### 最近接丸め
+
+  - [最近接丸め（偶数）](https://ja.wikipedia.org/wiki/端数処理#最近接偶数への丸め "wikilink")
+    最も近くの表現できる値へ丸める。表現可能な2つの値の中間の値であったら、一番低い仮数ビット（桁）が0になるほうを採用する。これは二進での標準動作かつ十進でも推奨となっている。
+  - 最近接丸め（0から遠いほうへ）
+    最も近くの表現できる値へ丸める。表現可能な2つの値の中間の値であったら、正の値ならより大きいほう、負の値ならより小さいほうの値を採用する。
+
+### 方向丸め
+
+  - 0方向への丸め
+    0に近い側へ丸める。切り捨て (truncation) とも呼ばれる。
+  - \+∞への丸め
+    正の無限大に近い側へ丸める。切り上げ (rounding up, ceiling) とも呼ばれる。
+  - −∞への丸め
+    負の無限大に近い側へ丸める。切り下げ (rounding down, floor) とも呼ばれる。
+
+## 演算
+
+実装には、サポートしている（基本形式を含む）算術形式に対して次の演算が要求される。
+
+  - 算術演算（加減乗除・平方根・[積和算](../Page/積和演算.md "wikilink")・剰余・その他）
+  - 変換（複数形式間・文字列との相互・その他）
+  - スケールと量子化
+  - 符号の複製・操作（絶対値・符号反転・その他）
+  - 比較・全順序
+  - NaNその他の分類・判定
+  - フラグの読み書き
+  - その他の演算
+
+### 全順序判定
+
+この標準では *totalOrder* という述語を提供しており、それぞれの形式におけるあらゆる浮動小数点数の[全順序](https://ja.wikipedia.org/wiki/全順序 "wikilink")を定義している。通常の大小比較の演算子で大小が決まる場合は、この述語も同じ結果になる。しかし、比較演算子ではNaNとの比較が判定できず、-0 と +0 は等しいという結果になる。totalOrder はそういった場合でも大小を判定し、複数の NaN や同じ数値を異なる符号化方式で表現した十進形式間でも大小を区別する。
+
+## 例外処理
+
+IEEE 754-2008では5種類の例外が定義されている。それぞれ、（確定的なアンダーフローを除いて）対応する状態フラグが存在し、例外発生時には対応するフラグが設定される。それ以外の動作は定義されていないが、デフォルト（下記）以外の追加の対処が推奨されている（後述）。
+
+5種類の内訳は以下のとおりである。
+
+  - 無効な演算（負数に対して平方根を求めようとしたなど） - デフォルトではqNaNを返す。
+  - 0除算（1/0 や log(0) など） - デフォルトでは ±∞ を返す。
+  - オーバーフロー（結果が正しく表現できないほど大きくなった場合） - 最近接丸めモードの場合、デフォルトでは ±∞ を返す。
+  - アンダーフロー（結果が正規数で表現できないほどに小さく非0であるが不正確な結果となった場合） - デフォルトでは非正規化数を返す。
+  - 不正確 - デフォルトでは指定されたモードの丸めを施した結果を返す。
+
+これらは、IEEE 754-1985と同一である。ただし、IEEE 754-1985 ではゼロ除算例外は除算のみだったが、IEEE 754-2008 ではそれ以外の演算でも発生する。
+
+## 推奨
+
+### 代替の例外処理
+
+規格では、様々な形の例外処理をオプションとして推奨している。例えば、ユーザー定義のデフォルト値を事前に代入しておく方式、トラップ方式（何らかの方式で例外をとらえて制御フローを変化させる）、try/catch などの制御構造を使って例外を処理する方式などである。トラップや例外処理用制御構造はオプションである。
+
+### 推奨されている演算
+
+標準の9章では50種類の演算、対数、冪乗、三角関数などを言語標準で定義すべきだと推奨している\[7\]。これらは全てオプションであり、標準に準拠するのに必須とされているわけではない。他にも丸めモードへのアクセスと設定の手段\[8\]、[ドット積](https://ja.wikipedia.org/wiki/ドット積 "wikilink")などの各種ベクトル演算\[9\]などが含まれている。実装にあたっては、その時点の丸めモードにしたがって正しく丸めた結果を返さなければならない。不正確例外を発生する場合はその限りではないが、他の例外が発生する場合でも丸め処理は正しく行う必要がある。
+
+### 式評価
+
+この標準では、一連の演算の並びの意味論を言語標準で提供することを推奨しており、式の文字通りの意味の微妙さと最適化が計算結果に与える影響を指摘している。この観点は以前の IEEE 754-1985 では全く触れられておらず、結果としてコンパイラ毎に計算結果が違ってきたり、同じコンパイラでも最適化レベルによって計算結果が異なるという状況を招いていた。
+
+プログラミング言語は、それぞれの基数について、式を計算するときの途中の最小精度をユーザーが指定できるようにすべきである。これを標準では "preferredWidth" と呼び、プログラムのブロック毎に設定可能にすべきだとしている。式の計算途中で一時変数に途中結果を保存するとき、オペランドの最大幅を使い、設定されていれば "preferredWidth" を使うべきである。したがって例えば、x87 を対象とするコンパイラは計算途中の結果を[拡張倍精度](https://ja.wikipedia.org/wiki/拡張倍精度 "wikilink")で保持するよう指定可能であることが望ましい。
+
+### 再現性
+
+IEEE 754-1985 では実装の自由度が大きかった（符号化や例外発生条件など）。IEEE 754-2008 では実装の自由度を狭めているが、それでも若干の自由は残っている（特に二進形式）。再現性に関する節では、再現性のあるプログラムが書けるよう言語標準に推奨しており（すなわち、その言語のどの処理系でも1つのプログラムが同じ結果となること）、そのためにどうすべきかを解説している。
+
+## 文字列表現
+
+この標準では、基本形式と「外部文字列」形式との間での変換機能を要求している\[10\]。十進数の文字形式との変換は全形式について要求されている。外部文字列形式に変換したものを元の内部の形式に再変換したとき、全く同じ数値にならなければならない。NaNのペイロードを保持するという要求はなく、外部文字列形式に変換し数値に再変換したとき、signaling NaN が quiet NaN になることはありうる。
+
+二進形式の値を十進の外部文字列形式に変換する場合、以下の桁数にすれば元の値を完全に保持できる\[11\]。
+
+  - binary16 の場合、5桁
+  - binary32 の場合、9桁
+  - binary64 の場合、17桁
+  - binary128 の場合、36桁
+
+これら以外の二進形式の場合、必要な桁数は次の式で計算できる。
+
+  -
+    1 + ceiling(*p*×log<sub>10</sub>2)
+
+ここで、 *p* はその二進形式の仮数のビット数で、例えば binary32 なら24ビットである。
+
+なお実装上の限界として、文字列形式の十進の桁数が上記より3桁を越えて長い（より精度が高い）場合、正しい丸め結果を保証できない。例えば、二進形式でサポートしている最大が binary32 だった場合、十進数で12桁までなら正しく丸めが行われるが、13桁以上では変換が正しく行われない。ただし、標準ではそれを制限として実装することは推奨していない。
+
+十進浮動小数点形式の場合、外部文字列表現では、以下の桁数を使えば数値を保持できる。
+
+  - decimal32 の場合、7桁
+  - decimal64 の場合、16桁
+  - decimal128 の場合、34桁
+
+二進と十進の間で正しく丸めを行いつつ変換するアルゴリズムが議論されており\[12\]、評価されている\[13\]。
+
+## 脚注・出典
+
+## 参考文献
+
+### 規格
+
+  -
+  - [ISO/IEC/IEEE 60559:2011](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=57469)
+
+### 二次文献
+
+  - IEEE 754 <http://grouper.ieee.org/groups/754/>
+  - [Decimal floating-point](http://speleotrove.com/decimal) arithmetic, FAQs, bibliography, and links
+  - [Comparing binary floats](http://www.cygnus-software.com/papers/comparingfloats/comparingfloats.htm)
+  - [IEEE 754 Reference Material](http://babbage.cs.qc.cuny.edu/IEEE-754.old/) （一番下のリンク）
+  - [IEEE 854-1987](http://speleotrove.com/decimal/854mins.html) – History and minutes
+  - [Supplementary readings for IEEE 754](http://grouper.ieee.org/groups/754/reading.html). Includes historical perspectives.
+
+### その他
+
+  -
+  -
+  -
+  - . （注: *Algorism* はスペルミスではない。詳しくは[:en:Algorism](https://ja.wikipedia.org/wiki/:en:Algorism "wikilink")を参照）
+
+  - : 一般的アーキテクチャでの浮動小数点数の直観的でない振る舞いの解説。プログラムの検証と評価を含む。
+
+  -
+## 関連項目
+
+  - [浮動小数点数](../Page/浮動小数点数.md "wikilink")
+  - [半精度](https://ja.wikipedia.org/wiki/半精度浮動小数点数 "wikilink") – [単精度](https://ja.wikipedia.org/wiki/単精度 "wikilink") – [倍精度](https://ja.wikipedia.org/wiki/倍精度 "wikilink") – [四倍精度](https://ja.wikipedia.org/wiki/四倍精度 "wikilink") – [拡張倍精度](https://ja.wikipedia.org/wiki/拡張倍精度 "wikilink")
+  - [IBM z10](https://ja.wikipedia.org/wiki/IBM_z10 "wikilink") - IEEE 754-2008 の十進浮動小数点数をハードウェアで完全実装している。
+  - [POWER6](https://ja.wikipedia.org/wiki/POWER6 "wikilink")、[POWER7](https://ja.wikipedia.org/wiki/POWER7 "wikilink") - IEEE 754-2008 の十進浮動小数点数をハードウェアで完全実装している。
+  - [コプロセッサ](https://ja.wikipedia.org/wiki/コプロセッサ "wikilink")
+  - [-0](https://ja.wikipedia.org/wiki/-0 "wikilink")
+      - [IEEE 754における負のゼロ](https://ja.wikipedia.org/wiki/IEEE_754における負のゼロ "wikilink")
+  - [ゼロ除算](https://ja.wikipedia.org/wiki/ゼロ除算 "wikilink")
+  - [NaN](https://ja.wikipedia.org/wiki/NaN "wikilink")
+  - [ウィリアム・カハン](https://ja.wikipedia.org/wiki/ウィリアム・カハン "wikilink")
+
+## 外部リンク
+
+  - [Web Based Converter](http://people.rit.edu/meseec/eecc250-winter99/IEEE-754hex32.html)
+  - [Java Applet Converter](http://www.h-schmidt.net/FloatApplet/IEEE754.html)
+  - [Converter as MS-Windows program](http://www.61131.com/download.htm)
+  - [An Interview with the Old Man of Floating-Point](http://www.cs.berkeley.edu/~wkahan/ieee754status/754story.html)
+
+[Category:コンピュータの算術](https://ja.wikipedia.org/wiki/Category:コンピュータの算術 "wikilink") [Category:IEEE標準](https://ja.wikipedia.org/wiki/Category:IEEE標準 "wikilink")
+
+1.  [FW: ISO/IEC/IEEE 60559 (IEEE Std 754-2008)](http://grouper.ieee.org/groups/754/email/msg04167.html) ISO規格に採用されたことを知らせる電子メールの記録
+2.  [ISO/IEC/IEEE 60559:2011](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=57469) ISO
+3.
+4.   では「言語規格はサポートするそれぞれの基数について拡張可能精度をサポートする機構を定義すべきだ」としている。
+5.   では、「言語規格または実装はサポートしている基数での最大幅の基本形式より高い精度の拡張形式をサポートすべきだ」としている。
+6.  [RE: Two technical questions on IEEE Std 754-2008](http://grouper.ieee.org/groups/754/email/msg04118.html)
+7.
+8.
+9.
+10.
+11.
+12.
+13.

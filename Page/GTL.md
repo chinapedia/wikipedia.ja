@@ -1,0 +1,145 @@
+> この記事は[GTL](https://ja.wikipedia.org/wiki/GTL)から翻訳されています。
+
+
+**GTL**（；ジーティーエル）とは、[天然ガス](../Page/天然ガス.md "wikilink")を[一酸化炭素](../Page/一酸化炭素.md "wikilink")と[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")に分解後、分子構造を組み替えて液体燃料などを作る技術である。
+
+## 概要
+
+炭素数が1個から数個程度と少ない炭化水素ガスを原料として、一度、[フィッシャー・トロプシュ反応](../Page/フィッシャー・トロプシュ法.md "wikilink")（FT反応）によって、最大100個以上も炭素が繋がった大きな炭化水素分子を合成してから、水素化分解工程によって、炭素数が11-15程度の灯油や軽油を製造する技術である。
+
+狭義には、炭素数が1個の[メタンガス](https://ja.wikipedia.org/wiki/メタンガス "wikilink")を主成分とする天然ガスを原料として、FT反応を経て最終的に灯油、または軽油を合成する技術を指し、広義には、原料は天然ガスに限定せず炭化水素ガスからやはりFT反応を経て最終的に液体燃料や固形のワックスを合成する技術を指す\[1\]。
+
+## フィッシャー・トロプシュ法製造油
+
+[フィッシャー・トロプシュ法](../Page/フィッシャー・トロプシュ法.md "wikilink")は天然ガス（[メタン](../Page/メタン.md "wikilink")）、石炭、バイオマスを一酸化炭素と水素の混合ガスに転化して、石油を化学合成するのに広く使われる方法である。
+
+  - **GTL**（**G**as **T**o **L**iquid = ガス液化油）
+  - **CTL**（**C**oal **T**o **L**iquid = 石炭液化油）
+  - **BTL**（**B**iomass **T**o **L**iquid = バイオマス液化油）
+
+1[バーレル](https://ja.wikipedia.org/wiki/バーレル "wikilink")あたり30ドルから60ドルと言われており、2008年以降は[原油](../Page/原油.md "wikilink")価格の高騰により、採算点を突破した。
+
+この技術により製造された製品は「GTL燃料」と呼ばれており、かつては「人造石油」などと呼ばれていた。また、この技術により製造された軽油や灯油は、「合成軽油」、「合成灯油」、「FTD (Fischer-Tropsch Diesel) 燃料」などと呼ばれることがある。燃料以外ではFT合成で得られた[ワックス](https://ja.wikipedia.org/wiki/ワックス "wikilink")を水素分解・異性化・脱蝋し製造した潤滑油基油をGTL基油などと呼ぶこともある。
+
+## 利点
+
+  - [原油](../Page/原油.md "wikilink")よりも[可採年数](https://ja.wikipedia.org/wiki/可採年数 "wikilink")が長いとされ、産出国が一部の地域に限られない[天然ガス](../Page/天然ガス.md "wikilink")を利用するため、長期の安定供給が可能とみられている
+  - 氷点下162℃の低温で取り扱う液化[天然ガス](../Page/天然ガス.md "wikilink") (LNG) とは異なり、常温での流通と使用が可能である
+  - ガスに比べエネルギー密度が高くなるため輸送コストが抑えられ、車輌等の燃料としても使用しやすい
+  - 原油から精製した燃料油につきものの硫黄分や芳香族炭化水素、重金属などを含まないため燃焼時の排気がクリーンで、排ガスの処理設備が簡単になる\[2\]
+
+## 欠点
+
+  - GTLへの変換時に少なくないエネルギーの損失があり、現状での製造時のエネルギー効率は6割程とされており4割程の損失が生じる
+  - 製造時のCO<sub>2</sub>排出量が多い
+
+## 製造工程
+
+製造工程は主に3つからなる。
+
+1.  [水蒸気改質](../Page/水蒸気改質.md "wikilink")工程：天然ガスのような原料ガスを一度、[合成ガス](https://ja.wikipedia.org/wiki/合成ガス "wikilink")（一酸化炭素と水素）に転換する。
+2.  FT合成工程：[フィッシャー・トロプシュ法](../Page/フィッシャー・トロプシュ法.md "wikilink")によって炭素同士をチェーン状に繋ぐ。
+3.  [水素化分解](https://ja.wikipedia.org/wiki/接触分解 "wikilink")・[蒸留](../Page/蒸留.md "wikilink")工程：長い炭素のチェーンを水素化によって必要な長さに切断し、断片を蒸留によって長さごとに分ける
+
+最終製品を作り出す最後の水素化処理工程はGTL分野においてアップグレーディングと呼称される。
+
+## 環境への影響
+
+  - クリーン燃料
+    GTL技術により精製した石油製品は、無色、無臭で、[軽油](https://ja.wikipedia.org/wiki/軽油 "wikilink")・[灯油](../Page/灯油.md "wikilink")の代替品として使用可能である。原料となる天然ガスのような天然資源に元々含まれている[硫黄](../Page/硫黄.md "wikilink")や[芳香族](https://ja.wikipedia.org/wiki/芳香族 "wikilink")などの不純物は、GTLを使った製造過程で排出されるが、これらを捕集することは可能である。製造されたGTL製品は結果として精製されて[大気汚染](https://ja.wikipedia.org/wiki/大気汚染 "wikilink")の原因となるこれらの不純物がほとんど含まないために、燃焼によって生じる[ばい塵](https://ja.wikipedia.org/wiki/ばい塵 "wikilink")や[硫黄酸化物](../Page/硫黄酸化物.md "wikilink")などは少なくなる\[3\]。
+  - CO<sub>2</sub>の増加
+    GTL製造工程の各工程の反応は[吸熱反応](../Page/吸熱反応.md "wikilink")であり反応をさせるために[熱エネルギー](https://ja.wikipedia.org/wiki/熱エネルギー "wikilink")が必要である。このエネルギーは原料の天然ガスの一部を使い[燃焼](../Page/燃焼.md "wikilink")させることで得られている。この燃焼で、製造に投入された全天然ガスのうち何割かは消費されてしまう。製造に投入される前の全天然ガスが本来持っていた熱量の3割が失われる。またこの燃焼によりCO<sub>2</sub>が発生してしまう。つまり、天然ガスをそのままの形で利用せずにGTLにして液体化させると、製造のために熱エネルギー源を必要とし、熱エネルギーを天然ガスの燃焼により得ようとすると、燃焼によりCO<sub>2</sub>が発生し、GTL燃料として利用する前にすで環境への負荷を与えていることになる。当然天然ガスも圧縮冷却して[LNG](https://ja.wikipedia.org/wiki/LNG "wikilink")にするためにエネルギーを必要とし、その時にもCO<sub>2</sub>が発生してしまっているが、燃料として利用する前の製造時のCO<sub>2</sub>の発生量を比較するとLNGよりもGTLが大きい。また[軽油](https://ja.wikipedia.org/wiki/軽油 "wikilink")と比較しても製造時のCO<sub>2</sub>の発生量が大きい。このため、今後GTLの生産増加が起きれば環境問題となると危惧されている\[4\]。
+
+<!-- end list -->
+
+  - 原子力石炭/ガス液化
+    熱産生時のCO<sub>2</sub>排出が0ないし極めて少ない、超高温原子炉の核熱をGTL/CTL製造時の熱源として利用するアイディアが提案・検討されている\[5\]。
+
+## 歴史
+
+### 石炭から石油を
+
+GTLの技術は[1923年](../Page/1923年.md "wikilink")（大正12年）に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")で[フランツ・フィッシャー](https://ja.wikipedia.org/wiki/フランツ・フィッシャー "wikilink")と[ハンス・トロプシュ](https://ja.wikipedia.org/wiki/ハンス・トロプシュ "wikilink")により発明された。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中はドイツ側陣営が利用可能な石油資源が限定的だったため、戦闘機や[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")への燃料供給が賄えなかったことから、[ナチス](https://ja.wikipedia.org/wiki/ナチス "wikilink")政府が技術開発を指示したことが背景にある\[6\]。現在、GTLは天然ガスを加工する技術として位置付けられているが、当初は[石炭](../Page/石炭.md "wikilink")をガス化させたものを化学反応により液化するCTL/[石炭液化](../Page/石炭液化.md "wikilink")技術として開発された。
+
+開発当時の[原油価格](../Page/原油価格.md "wikilink")ではGTL/CTLによる人造石油は価格競争力がなかったが、戦時にはドイツは英国海軍に海洋封鎖されることが予測されたため、安全保障の観点から研究が推進された。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中のドイツでは、ナチス政府による保護の下、GTL技術を用いた人造石油が量産され、軍用/民間燃料をCTLでまかなうことができた。同じ時期に日本でもドイツから導入した技術をもとに、石炭からの人造石油の製造が進められたものの、技術力や物資が不足しており、工場も爆撃破壊されたことから計画通りに行かず、失敗に終わった。
+
+[1937年](../Page/1937年.md "wikilink")（昭和12年）には[人造石油製造事業法](https://ja.wikipedia.org/wiki/人造石油製造事業法 "wikilink")（昭和12年法律第52号）が制定され、[1940年](../Page/1940年.md "wikilink")（昭和15年）に[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")の[大牟田](https://ja.wikipedia.org/wiki/大牟田 "wikilink")と[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[滝川にGTL工場](../Page/滝川市.md "wikilink")（[北海道人造石油](https://ja.wikipedia.org/wiki/北海道人造石油 "wikilink")）が建設された。同工場では、ガソリン、軽油及びワックスが生産されたが、生産量は戦時下の需要を満たす規模とはならなかった。大牟田の工場は[1945年](../Page/1945年.md "wikilink")（昭和20年）に爆撃破壊され、その他の工場も建設途中で爆撃されるなど完成には至らなかった。滝川の工場は終戦後数年間操業を続けたが、採算性に乏しく、[1952年](../Page/1952年.md "wikilink")（昭和27年）に経営破綻した。（GTL/CTLの生産コストは1バーレル30ドル、販売価格50ドルでないと採算に乗らない。2012年の原油価格は1バーレル100ドルまで上昇したが、当時は1バーレル4ドルであった）
+
+### 南アフリカ
+
+第二次世界大戦後、GTL/CTLによる石油製品の製造は各国で縮小していった。唯一、[南アフリカ](https://ja.wikipedia.org/wiki/南アフリカ "wikilink")では、豊富な石炭資源を背景として、によるCTL開発・製造が行われており、[第一次石油危機](https://ja.wikipedia.org/wiki/第一次石油危機 "wikilink")（1973年〜）の時期に世界から注目を浴びることとなった。[アパルトヘイト](../Page/アパルトヘイト.md "wikilink")政策に対する経済制裁として南アフリカに対する原油の禁輸が行われていた関係から、同国は原油に替わるエネルギー資源の確保策としてGTL技術を用いた石炭や天然ガスからの石油製品の精製を推進していた。
+
+### 天然ガスから
+
+民間企業では、[ロイヤル・ダッチ・シェル](https://ja.wikipedia.org/wiki/ロイヤル・ダッチ・シェル "wikilink")社、[三菱商事](https://ja.wikipedia.org/wiki/三菱商事 "wikilink")子会社、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")[サラワク州](https://ja.wikipedia.org/wiki/サラワク州 "wikilink")政府及びマレーシア国営石油[ペトロナス](../Page/ペトロナス.md "wikilink")の合弁企業がマレーシアに[プラント](https://ja.wikipedia.org/wiki/プラント "wikilink")を設置し、[1993年](../Page/1993年.md "wikilink")（平成5年）より商業ベースでGTL技術を用いた天然ガスからの石油製品精製を開始している。
+
+### 中国でのCTL
+
+2000年代に石油価格が1バーレル50-100ドル前後にまで上昇したため、華能集団が神木炭田でCTLのテスト生産を2009年に始めている。この試験結果が良好だったことを受け、2016年操業開始予定で大型のプラントを建設中である。
+
+### シェールガスから
+
+アメリカにおける[シェールガス](https://ja.wikipedia.org/wiki/シェールガス "wikilink")開発に伴いGTLプラント建設計画が商用・試験レベルで複数出ている。大規模なところではシェルとサソールが計画していたが、シェルは建設コストの上昇と長期的な天然ガスと原油の価格差が不確定という理由から計画を撤回している。
+
+## 利用状況
+
+### 日本の状況
+
+#### 利用
+
+[2001年](../Page/2001年.md "wikilink")（平成13年）から昭和シェル石油はGTL技術を用いた灯油を試験的に発売している。2001年（平成13年）[昭和シェル石油](../Page/昭和シェル石油.md "wikilink")はGTL技術を用いたE[灯油](../Page/灯油.md "wikilink")を[鎌倉市](../Page/鎌倉市.md "wikilink")で試験的に発売。[2004年](../Page/2004年.md "wikilink")（平成16年）12月4日より、横浜市および鎌倉市の一部地域でテスト販売をした。[横浜市](../Page/横浜市.md "wikilink")、[横須賀市](../Page/横須賀市.md "wikilink")、[逗子市](https://ja.wikipedia.org/wiki/逗子市 "wikilink")に範囲を広げ、会員限定で販売。
+
+[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）には、E[灯油](../Page/灯油.md "wikilink")を[エコ灯油](https://ja.wikipedia.org/wiki/エコ灯油 "wikilink")という商品名に変えて、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[藤沢市](../Page/藤沢市.md "wikilink")、[厚木市](https://ja.wikipedia.org/wiki/厚木市 "wikilink")などに範囲を広げ、販売した。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）、[川崎市](../Page/川崎市.md "wikilink")、[小田原市](../Page/小田原市.md "wikilink")を除く[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")内一部地域、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")内の一部地域で地域限定で販売を行った。[カタール](https://ja.wikipedia.org/wiki/カタール "wikilink")のGTLプラントの稼動に合わせ、順次販売地域を拡大する方針。[2007年](../Page/2007年.md "wikilink")（平成19年）、[川崎市](../Page/川崎市.md "wikilink")、[小田原市](../Page/小田原市.md "wikilink")を除く[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")内一部地域、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")内の一部地域で地域[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")の一部で限定で販売中。[ポリ缶](https://ja.wikipedia.org/wiki/ポリ缶 "wikilink")方式をやめ、リサイクル可能な[一斗缶](../Page/一斗缶.md "wikilink")式に換えて販売している。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）には13都府県、[2011年](../Page/2011年.md "wikilink")11月から取扱店を3倍の400店舗、37都道府県に拡大するほか、自社サイト\[7\]と[アマゾンによる通販](../Page/Amazon.co.jp.md "wikilink")（運送は[西濃運輸](https://ja.wikipedia.org/wiki/西濃運輸 "wikilink")）も始めた。なお安全性試験が未完了のため、[石油ファンヒーター](https://ja.wikipedia.org/wiki/石油ファンヒーター "wikilink")専用となっている\[8\]。しかし2016年（平成28年）には販売終了が発表された(発表された販売終了日は2017年（平成29年）4月28日\[9\])。
+
+[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）に開催された[愛知万博では](https://ja.wikipedia.org/wiki/2005年日本国際博覧会 "wikilink")、[ハイブリッド](https://ja.wikipedia.org/wiki/ハイブリッド "wikilink")・[シャトルバス](../Page/シャトルバス.md "wikilink")の燃料として、日本で初めて、[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")にGTL燃料が用いられた。このシャトルバスは、万博八草駅（現・[八草駅](https://ja.wikipedia.org/wiki/八草駅 "wikilink")）と万博会場間などを走行した。
+
+潤滑油基油としては、シェルが1994年よりマレーシアで製造されたFTワックスを[昭和四日市石油](../Page/昭和四日市石油.md "wikilink")にて精製し、GTL潤滑油基油（名称：XHVI）を製造している。これは昭和シェルのエンジンオイルなどに使われている。
+
+#### 研究
+
+研究開発は[石油資源開発](../Page/石油資源開発.md "wikilink")や[石油天然ガス・金属鉱物資源機構](https://ja.wikipedia.org/wiki/石油天然ガス・金属鉱物資源機構 "wikilink")などで進められており、[2007年](../Page/2007年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink")に[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[北区の](../Page/北区_\(新潟市\).md "wikilink")[新潟東港に隣接する](https://ja.wikipedia.org/wiki/新潟港 "wikilink")「新潟市東港工業団地」で実証プラントの起工式が行われ、[2009年](../Page/2009年.md "wikilink")春から稼働を開始している。
+
+[2007年](../Page/2007年.md "wikilink")（平成19年）12月から、[国土交通省](../Page/国土交通省.md "wikilink")の委託事業で独立行政法人交通安全環境研究所が中心となり、GTL技術を用いた合成燃料による公道走行試験が実施されている\[10\]。
+
+### 日本以外の状況
+
+GTL生産プラントは南アフリカ、マレーシア、カタールなどにあり、近年では特にカタールに計画が集中していた。これは政情が安定しており、ガス価格も安価であり、そしてカタール政府による積極的な支援が行われたことが理由であった。しかし2007年以降は様々な理由から計画は中断、または中止されている。大規模計画としてはExxonMobil、ConocoPhillips、SasolChevron、Marathon Oilなどが持っていたがいずれも中止か中断となっている。現在カタールにはサーソルとシェルのプラントが存在する。その他にはナイジェリアに建設中のプラントがある。アルジェリアとトリニダード・トバゴでも計画があったが前者は中止、後者は建設中断という状況となっている。生産規模としては以下のShellのPearl GTL計画が最大のものとなる予定。
+
+  - 生産プラント
+    2008年現在、[ロイヤル・ダッチ・シェル](https://ja.wikipedia.org/wiki/ロイヤル・ダッチ・シェル "wikilink")はマレーシアに商業用プラントを保有・稼働し、燃料の供給を行っているが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")を目途に[カタール](https://ja.wikipedia.org/wiki/カタール "wikilink")で世界最大規模の生産設備を稼働させ\[11\]、より一層の普及を図る方針と伝えられる。若干の遅れがあったものの2011年10月現在、一部商用出荷を始めている模様。
+
+この他、[中央アジア](../Page/中央アジア.md "wikilink")の[トルクメニスタン](../Page/トルクメニスタン.md "wikilink")では世界第4位の埋蔵量を誇る天然ガスをもとに、単なる産ガス国ではなく、天然ガス由来の高付加価値製品の輸出国となることを目指しており、2019年に国営のトルクメンガスが年産60万トンのガソリン製造プラントを竣工させている\[12\]。
+
+## 脚注
+
+<references />
+
+## 関連項目
+
+  - [代替燃料](https://ja.wikipedia.org/wiki/代替燃料 "wikilink")
+  - [フィッシャー・トロプシュ法](../Page/フィッシャー・トロプシュ法.md "wikilink")
+  - [合成ガス](https://ja.wikipedia.org/wiki/合成ガス "wikilink")
+  - [アルカン](https://ja.wikipedia.org/wiki/アルカン "wikilink")
+  - [C1化学](https://ja.wikipedia.org/wiki/C1化学 "wikilink")
+  - [工業化学](https://ja.wikipedia.org/wiki/工業化学 "wikilink")
+  - [石油化学](../Page/石油化学.md "wikilink")
+  - [炭化水素](../Page/炭化水素.md "wikilink")
+  - [合成炭化水素](https://ja.wikipedia.org/wiki/合成炭化水素 "wikilink")
+
+## 参考文献
+
+  -
+[Category:燃料](https://ja.wikipedia.org/wiki/Category:燃料 "wikilink") [Category:エクソンモービル](https://ja.wikipedia.org/wiki/Category:エクソンモービル "wikilink") [Category:天然ガス技術](https://ja.wikipedia.org/wiki/Category:天然ガス技術 "wikilink")
+
+1.  『天然ガスが日本を救う』 205-206頁。
+2.  『天然ガスが日本を救う』 206頁。
+3.
+4.
+5.
+6.  <http://www.energyandcapital.com/articles/natural-gas-into-jet-fuel/4687>
+7.  [ヒートクリーン](http://www.heatclean.jp/)
+8.  日本経済新聞 平成23年10月20日
+9.
+10.
+11.
+12.

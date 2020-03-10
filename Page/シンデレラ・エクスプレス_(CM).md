@@ -1,0 +1,57 @@
+> この記事は[ \(CM\)](https://ja.wikipedia.org/wiki/_\(CM\))から翻訳されています。
+
+
+**シンデレラ・エクスプレス**とは、[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）が[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")と[1992年](../Page/1992年.md "wikilink")に展開していた[東海道新幹線](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")のテレビ[CMである](../Page/コマーシャルメッセージ.md "wikilink")。
+
+制作は[電通](../Page/電通.md "wikilink")・[TYO](../Page/ティー・ワイ・オー.md "wikilink")。
+
+## 概要
+
+1987年夏にテレビCMとして第1作が制作された。1985年放送TBS系『[日立テレビシティ](https://ja.wikipedia.org/wiki/日立テレビシティ "wikilink")』の[遠距離恋愛](https://ja.wikipedia.org/wiki/遠距離恋愛 "wikilink")をテーマにした[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組『シンデレラ・エクスプレス-48時間の恋人たち-』を見て当時国鉄の広報関係者が触発され製作が始まった。番組の主題歌として制作された[松任谷由実](../Page/松任谷由実.md "wikilink")の「シンデレラ・エクスプレス」（1985年リリースのアルバム『[DA・DI・DA](../Page/DA・DI・DA.md "wikilink")』収録曲：番組名も曲名もユーミン発案）がCMにも使われた。その後に民営化されたJR東海の初めてのテレビCMとして放送された。[東京発](https://ja.wikipedia.org/wiki/東京駅 "wikilink")[新大阪行き最終列車](https://ja.wikipedia.org/wiki/新大阪駅 "wikilink")「[ひかり](../Page/ひかり_\(列車\).md "wikilink")289号」（当時）の出発時刻である21時ちょうどを童話のシンデレラで主人公が舞踏会に行くための魔法の解ける午前0時に見立て（新幹線の営業運行も0時で終了するよう[ダイヤが組まれている](../Page/ダイヤグラム.md "wikilink")）、離れ離れに暮らす恋人たちが週末に出会い、再び別れていく日曜日の夜の新幹線ホームで繰り広げる恋のドラマをモチーフとした。
+
+撮影は、列車運行が終了した深夜の東京駅ホームを使い、[100系電車を数回往復させて行われた](../Page/新幹線100系電車.md "wikilink")。ホームには一部布が敷かれ、スモークも発生させるなど、大掛かりな撮影となった。
+
+実際に各車両の出入口毎に1組のカップルという状況も見られた、恋人たちが新幹線で週末に相手のもとに会いに行き、最終の新幹線のホームで別れを惜しむ姿\[1\]が、このCMが放送されると各メディアで注目されるようになった。JR東海も、該当列車となるひかり289号に当時最新型であった100系を優先的に充当させる\[2\]などして、これに応じた。
+
+[1992年](../Page/1992年.md "wikilink")に東京発新大阪行き最終が21:18発「[のぞみ](https://ja.wikipedia.org/wiki/のぞみ_\(列車\) "wikilink")303号」（当時）に変わったことをうけ、第2作目が5年ぶりに作成された。このバージョンではのぞみに用いられた[300系が用いられている](../Page/新幹線300系電車.md "wikilink")（一連のエクスプレスシリーズCMで唯一の登場）。
+
+このCMの好評を受け、JR東海は東海道新幹線をモチーフとした一連の「エクスプレス」シリーズを制作。本作の後「アリスのエクスプレス」「プレイバック・エクスプレス」「ハックルベリー・エクスプレス」「ホームタウン・エクスプレス」「[クリスマス・エクスプレス](https://ja.wikipedia.org/wiki/クリスマス・エクスプレス "wikilink")」「ファイト・エクスプレス」「リニア・エクスプレス」と続いたが、1992年にシリーズを終了している（[2000年](../Page/2000年.md "wikilink")に「クリスマス・エクスプレス2000」で1年限りの復活を果たしている）。
+
+### 制作の経緯
+
+このCMは、[国鉄分割民営化](https://ja.wikipedia.org/wiki/国鉄分割民営化 "wikilink")により誕生したJR東海の最初の企業広告として、競合プレゼンテーションにより[電通](../Page/電通.md "wikilink")の三浦武彦らが提案した案が採用されたものであった。三浦は「新幹線は（人と人が出会う、町と町を結ぶ）コミュニケーションメディアである」というコンセプトを掲げ、このコンセプトを元に、当時の日曜午後9時東京発の最終「ひかり」をモチーフとした遠距離恋愛物語のシナリオを描いたものであった。このメインコンセプトは、以後の「エクスプレス」シリーズのCMにも貫かれているという。
+
+このシナリオのきっかけとなったのは、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に『[日立テレビシティ](https://ja.wikipedia.org/wiki/日立テレビシティ "wikilink")』（[TBS](../Page/TBSテレビ.md "wikilink")）で放送された[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")『シンデレラ・エクスプレス-48時間の恋人たち-』である。これは複数のCMディレクターにより制作された[オムニバス](../Page/オムニバス.md "wikilink")形式のドキュメンタリーで、東京発最終列車「ひかり313号」を舞台に、遠距離恋愛のカップルが東京での週末を過ごす様子と、東京駅での別れの場面を撮影したものであった。この番組を、当時の[国鉄経営企画室の人物が偶然見ており](../Page/日本国有鉄道.md "wikilink")、「ああいう感じのCMをつくりたい」と話したことで、前述のようなシナリオにつながったという。
+
+このときのドキュメンタリーの制作を担当したCMディレクターの一人に、松任谷由実の舞台演出が手がけていた黒田明がいた縁で、松任谷に番組オリジナルの楽曲の制作を依頼し、CMでも用いられた「シンデレラ・エクスプレス」が誕生している（「シンデレラ・エクスプレス」のネーミングも松任谷の発案によるものであるという）。またこのときには、[わたせせいぞう](https://ja.wikipedia.org/wiki/わたせせいぞう "wikilink")の漫画『[ハートカクテル](../Page/ハートカクテル.md "wikilink")』とのコラボレーション企画（いわゆる[メディアミックス](../Page/メディアミックス.md "wikilink")）も実現させており、[日本テレビ系の](../Page/日本テレビ放送網.md "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")版でも放送された。
+
+## 出演者
+
+  - 第一作：[河合美佐](../Page/河合美佐.md "wikilink")
+  - 第二作：[横山めぐみ](https://ja.wikipedia.org/wiki/横山めぐみ "wikilink")
+
+## その他
+
+このCMの前年である[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")には、「[東芝日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")」の第1550回として『週末物語 シンデレラ・エクスプレス』（[森田芳光](https://ja.wikipedia.org/wiki/森田芳光 "wikilink")脚本、[岩城滉一](https://ja.wikipedia.org/wiki/岩城滉一 "wikilink")・[荻野目慶子](https://ja.wikipedia.org/wiki/荻野目慶子 "wikilink")主演）という単発の[テレビドラマ](../Page/テレビドラマ.md "wikilink")が、[毎日放送の制作によりTBS系列で放送されていた](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")。こちらも離れ離れに暮らす男女の遠距離恋愛がテーマとなっており、主題歌も同じく松任谷由実「シンデレラ・エクスプレス」を起用している（大阪を舞台としているため、新大阪発最終列車「ひかり170号」がドラマの中心となっている）\[3\]。
+
+## 脚注
+
+### 注記
+
+### 出典
+
+## 参考文献
+
+## 関連項目
+
+  - [東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink") - [東海道新幹線](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")
+  - [遠距離恋愛](https://ja.wikipedia.org/wiki/遠距離恋愛 "wikilink")
+  - [シンデレラ](../Page/シンデレラ.md "wikilink")
+  - [エクスプレスがつく列車や路線名](https://ja.wikipedia.org/wiki/エクスプレス#エクスプレスがつく列車や路線名の愛称例 "wikilink")
+  - [クリスマス・エクスプレス](https://ja.wikipedia.org/wiki/クリスマス・エクスプレス "wikilink")
+
+[Category:東海旅客鉄道の広告](https://ja.wikipedia.org/wiki/Category:東海旅客鉄道の広告 "wikilink") [Category:東海道新幹線](https://ja.wikipedia.org/wiki/Category:東海道新幹線 "wikilink") [Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink") [Category:新幹線を題材とした作品](https://ja.wikipedia.org/wiki/Category:新幹線を題材とした作品 "wikilink") [Category:シンデレラを題材とした作品](https://ja.wikipedia.org/wiki/Category:シンデレラを題材とした作品 "wikilink")
+
+1.  この状況自体は、[制作の経緯節にもあるように](https://ja.wikipedia.org/wiki/#制作の経緯 "wikilink")、CMよりも前から存在していた。
+2.  ひかり289号への100系充当は当初は日曜のみで、折りたたみ時刻表にも「シンデレラ・エクスプレス」と記載された。100系充当後は、ひかり289号の東京 - 新大阪間の所要時間が当時最速の2時間49分となった。
+3.  [テレビドラマデータベース](https://ja.wikipedia.org/wiki/テレビドラマデータベース "wikilink")より。

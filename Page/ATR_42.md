@@ -1,0 +1,333 @@
+> この記事は[ATR 42](https://ja.wikipedia.org/wiki/ATR_42)から翻訳されています。
+
+
+**ATR 42**は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")と[イタリア](../Page/イタリア.md "wikilink")の[航空機メーカーが](https://ja.wikipedia.org/wiki/航空宇宙産業 "wikilink")[合弁事業](../Page/合弁事業.md "wikilink")で興した[ATRが製造する](https://ja.wikipedia.org/wiki/ATR_\(航空機メーカー\) "wikilink")[ターボプロップ双発](https://ja.wikipedia.org/wiki/ジェットエンジン#ターボプロップエンジン "wikilink")[旅客機](../Page/旅客機.md "wikilink")である。42は**標準座席数の42席**（[ピッチ](https://ja.wikipedia.org/wiki/座席#シートピッチ "wikilink") 81cm）を意味する。
+
+## 概要
+
+[EIFXE_(7263831648).jpg](https://ja.wikipedia.org/wiki/File:EIFXE_\(7263831648\).jpg "fig:EIFXE_(7263831648).jpg")の-300\]\] [1984年](../Page/1984年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink")に初飛行。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")に通算4号機がフランスのに引き渡され、同年[12月9日](../Page/12月9日.md "wikilink")に路線に初就航した。現在も改良が続けられ、世界各国の[航空会社](../Page/航空会社.md "wikilink")で運用されている。また、ATR 42の[胴体と](https://ja.wikipedia.org/wiki/機体 "wikilink")[主翼を延長したモデルに](https://ja.wikipedia.org/wiki/翼#航空機の翼 "wikilink")[ATR 72がある](https://ja.wikipedia.org/wiki/ATR_72 "wikilink")。
+
+胴体は円形断面で、客室内の最大幅2.57 m、全長13.85 m、最大高1.91 mである。主翼は[高翼配置で](https://ja.wikipedia.org/wiki/高翼機 "wikilink")、低翼機に比べ客室からの眺めはよい。客室は[旅客](https://ja.wikipedia.org/wiki/旅客 "wikilink")の昇降扉が機体後方[左側にあり](https://ja.wikipedia.org/wiki/船体#船舶以外 "wikilink")、機体後方右側には、機体後部にまとめられている[ギャレー](https://ja.wikipedia.org/wiki/ギャレー "wikilink")や[洗面所](https://ja.wikipedia.org/wiki/洗面所 "wikilink")などに物品を出し入れするサービスドア（[ヒンジ式](../Page/蝶番.md "wikilink")）を装備する。
+
+貨物室は機体前方にあり、機体前方左側に1.27 m x 1.28 mの大型カーゴドアを装備するなど、採算が合いにくい地方路線で需要が多いコンビ機仕様が標準となっている。
+
+[降着装置](https://ja.wikipedia.org/wiki/降着装置 "wikilink")は全てダブルタイヤ装備で[油圧](../Page/油圧.md "wikilink")により格納される。主脚は胴体左右下部のバルジ（膨らみ）に格納されるが、脚扉のみで車輪扉はなく、格納時にも[タイヤ](../Page/タイヤ.md "wikilink")側面が露出する。
+
+[貨物機](https://ja.wikipedia.org/wiki/貨物機 "wikilink")として専用[コンテナなら](https://ja.wikipedia.org/wiki/コンテナ#航空貨物用コンテナ "wikilink")9台、LD-3なら5台搭載可能。前述の機体前方左側にある大型カーゴドアを利用でき、改修の必要がないため[フェデックス](https://ja.wikipedia.org/wiki/フェデックス "wikilink")などの[貨物航空会社では中型貨物機として多く運用されている](../Page/航空貨物.md "wikilink")。
+
+豪華な客室を備えた社用機仕様（Corporate Version）や[飛行検査型も販売している](https://ja.wikipedia.org/wiki/飛行検査用航空機 "wikilink")。
+
+ATR 42とATR 72は右側のエンジンを運転させたままプロペラを回転しないようブレーキでロックし[補助動力装置](https://ja.wikipedia.org/wiki/補助動力装置 "wikilink")として使用する「ホテルモード」を採用しており、[空港](../Page/空港.md "wikilink")での待機中に騒音を抑えつつ客室の空調や照明を確保することが可能。
+
+ファイル:FedEx ATR 42 (N908FX) Landing Portland Airport (PDX).ogv|ATR42が着陸する様子
+
+## 開発 、製造
+
+フランスの[アエロスパシアル](https://ja.wikipedia.org/wiki/アエロスパシアル "wikilink")（現[エアバス・グループ](https://ja.wikipedia.org/wiki/エアバス・グループ "wikilink")）とイタリアの[アエリタリア](https://ja.wikipedia.org/wiki/アエリタリア "wikilink")（現[アレーニア・アエロナウティカ](https://ja.wikipedia.org/wiki/アレーニア・アエロナウティカ "wikilink")）は、[1980年代](../Page/1980年代.md "wikilink")初めに40席クラスの輸送機計画をそれぞれ持っていて、アエロスパシアルはAS35、アエリタリアはAIT230という名で研究を行っていた。この2機種の機体計画はほとんど同じクラスだったため、統合し共同作業を行うことで協議が持たれ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")7月に協定が成立して開発に着手した。
+
+2019年9月納入前ATR 42-600型機がメーカー試験飛行中にエンジン1基停止事案が発生、緊急着陸し、[フランス航空事故調査局](https://ja.wikipedia.org/wiki/フランス航空事故調査局 "wikilink")の調査が入り該当機以降引き渡し点が発生していて\[1\]、該当機の[日本エアコミューター](../Page/日本エアコミューター.md "wikilink")発注JA09JCと[北海道エアシステム](https://ja.wikipedia.org/wiki/北海道エアシステム "wikilink")発注JA11HCの引き渡し遅延となり、JACに関しては運航に影響が出た\[2\]。
+
+## タイプ
+
+[200 pxの](https://ja.wikipedia.org/wiki/ファイル:Air_Lithuania_ATR_42.jpg "wikilink")-300\]\] [ATR_ATR-42-300,_UTair_Aviation_AN1525686.jpg](https://ja.wikipedia.org/wiki/File:ATR_ATR-42-300,_UTair_Aviation_AN1525686.jpg "fig:ATR_ATR-42-300,_UTair_Aviation_AN1525686.jpg")機）\]\] [Airbus_Family_Days_2010_-_Moteur_ATR_600.jpg](https://ja.wikipedia.org/wiki/File:Airbus_Family_Days_2010_-_Moteur_ATR_600.jpg "fig:Airbus_Family_Days_2010_-_Moteur_ATR_600.jpg") [Nigerian_Air_Force_ATR_ATR-42-500MP_Surveyor_Iwelumo-1.jpg](https://ja.wikipedia.org/wiki/File:Nigerian_Air_Force_ATR_ATR-42-500MP_Surveyor_Iwelumo-1.jpg "fig:Nigerian_Air_Force_ATR_ATR-42-500MP_Surveyor_Iwelumo-1.jpg")）\]\]
+
+  - ATR 42-200
+    ATR 42の試作機で数機だけ製作された機体。エンジンは[PW120で](../Page/プラット・アンド・ホイットニー・カナダ_PW100.md "wikilink")、出力が2,000 [shp](../Page/馬力.md "wikilink")。
+  - ATR 42-300
+    [最大離陸重量](../Page/最大離陸重量.md "wikilink")を引き上げ、[1996年](../Page/1996年.md "wikilink")まで製作された基本生産型。
+  - ATR 42-320
+    エンジンをPW121（出力2,100 shp)へ換装し、最大離陸重量の引き上げと[高温](../Page/熱帯.md "wikilink")[高地](https://ja.wikipedia.org/wiki/高地 "wikilink")性能強化を行った型。
+    最大離陸重量は300型から変わっていないが、エンジン重量が増加した分だけ[搭載量が減らされている](https://ja.wikipedia.org/wiki/ペイロード_\(航空宇宙\) "wikilink")。
+  - ATR 42-400
+    200/300/320型のエンジンに六翅プロペラを装着した型。
+  - ATR 42-500
+    エンジンをPW127E(出力2,400 shp)として、搭載量の増大と[離着陸性能の向上を図った機体](../Page/航空機の離着陸方法.md "wikilink")。
+    [アビオニクス](https://ja.wikipedia.org/wiki/アビオニクス "wikilink")の更新により操縦性を改善するとともに、[ICAOCAT](../Page/国際民間航空機関.md "wikilink")Ⅱの[ILS](https://ja.wikipedia.org/wiki/ILS "wikilink")進入能力を備えた。
+  - ATR 42-600
+    [2007年](../Page/2007年.md "wikilink")6月に発表された最新の改良機種。エンジンをPW127Mに換装し、500型からさらにアビオニクスを更新してCATⅢのILS進入能力を付与、[液晶画面への交換による](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")[グラスコックピット](https://ja.wikipedia.org/wiki/グラスコックピット "wikilink")化が行われる。また、ILSなど航法援助設備が十分でない空港や、計器進入での着陸基準である[RVR値が低く着陸できず出発空港へ引き返すなどの視界不良対策として](https://ja.wikipedia.org/wiki/滑走路視距離 "wikilink")、[エルビット・システムズ](https://ja.wikipedia.org/wiki/エルビット・システムズ "wikilink")社が開発した機首に取り付けられた光学センサー情報と地形データなどをヘッドセット「**SkyLens**」に投影させ、低視程を可視化させる視界拡張装置（[Enhanced Vision System, EVS](https://ja.wikipedia.org/wiki/エンハンスト・ビジョン・システム "wikilink")）「**ClearVision**」がオプションとして用意される\[3\]\[4\]\[5\]。最終的に[JHMCS](https://ja.wikipedia.org/wiki/JHMCS "wikilink")として採用された軍事光学技術を転用したクリアビジョンシステムは[ガーンジー](https://ja.wikipedia.org/wiki/ガーンジー "wikilink")空港を[ハブ空港](https://ja.wikipedia.org/wiki/ハブ空港 "wikilink")とするオーリニー・エア・サービスや[ロイヤルブータン航空](https://ja.wikipedia.org/wiki/ロイヤルブータン航空 "wikilink")\[6\]で運行される機体に採用されている\[7\]。客室内も改良され、内装はイタリア人デザイナー、[ジョルジェット・ジウジアーロ](../Page/ジョルジェット・ジウジアーロ.md "wikilink")による「アルモニア（調和）デザイン」を採用しており、シート形状の見直しによる足元スペースが拡張された軽量化シートを採用、同クラスのターボプロップ機よりも30パーセント広い手荷物収納スペースが確保されている\[8\]\[9\]\[10\]、客室照明には[LEDを採用し](../Page/発光ダイオード.md "wikilink")、明るい客室となっている\[11\]。その他、[日本エアコミューター](../Page/日本エアコミューター.md "wikilink")（JAC）が運行している機材には特別仕様として[ストレッチャー](https://ja.wikipedia.org/wiki/ストレッチャー "wikilink")が設置可能\[12\]。
+    [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月に初飛行に成功し、[2012年](../Page/2012年.md "wikilink")11月、[タンザニア](../Page/タンザニア.md "wikilink")の[プレシジョンエア](https://ja.wikipedia.org/wiki/プレシジョンエア "wikilink")へ初めて引き渡された。その後世界各国で人気を集めている機種であり、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内では[天草エアライン](https://ja.wikipedia.org/wiki/天草エアライン "wikilink")が2代目「みぞか号」として[2016年](../Page/2016年.md "wikilink")（[平成](../Page/平成.md "wikilink")28年）に初導入した他、日本エアコミューターが8機を確定発注しており、[2017年](../Page/2017年.md "wikilink")（平成29年）1月から受領開始、同年4月より運用を始めた。
+  - ATR 42-600S
+    2017年6月21日に発表された、600型の[短距離離着陸（STOL）性能向上型で](https://ja.wikipedia.org/wiki/航空機の離着陸方法#短距離離着陸機 "wikilink")、800mの滑走路でも離着陸が可能となり、[小笠原諸島](../Page/小笠原諸島.md "wikilink")の計画中空港で就航可能とする性能を有するとみられる\[13\]。[2019年](../Page/2019年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")、開催中の[パリ航空ショー](https://ja.wikipedia.org/wiki/パリ航空ショー "wikilink")に於いてSTOL型開発に[日本政策投資銀行](https://ja.wikipedia.org/wiki/日本政策投資銀行 "wikilink")が参画したことも重なり\[14\]、ATRは同日、この短距離離着陸型である42-600Sの開発を正式に発表し、[2022年](../Page/2022年.md "wikilink")下半期までに[型式証明](https://ja.wikipedia.org/wiki/型式証明 "wikilink")取得を見込んでいる\[15\]。なお[ローンチカスタマー](../Page/ローンチカスタマー.md "wikilink")は[エアタヒチ](https://ja.wikipedia.org/wiki/エアタヒチ "wikilink")である\[16\]。通常型に比べ低速時の操作性を向上させる大型[ラダーの採用](../Page/方向舵.md "wikilink")、ATR42とATR72型双方のエンジン出力に切り替えることが可能となる\[17\]離陸出力を上げたエンジン、[揚力](../Page/揚力.md "wikilink")を向上させる離陸[フラップ](https://ja.wikipedia.org/wiki/高揚力装置 "wikilink")25度、減速用[スポイラー](https://ja.wikipedia.org/wiki/スポイラー_\(航空機\) "wikilink")、オートブレーキの採用などが計画されている\[18\]。また、この新型機によりアクセス可能な空港が約500箇所へと増えることにより、25%分となるSTOL分野のマーケットシェア拡大を見込んでおり\[19\]\[20\]\[21\]、既にパリ航空ショーで17機の受注を獲得している\[22\]。
+  - ATR 42-500MP Surveyor
+    軍・[沿岸警備隊](https://ja.wikipedia.org/wiki/沿岸警備隊 "wikilink")向けの[洋上監視機](https://ja.wikipedia.org/wiki/哨戒機 "wikilink")。
+
+{{-}}
+
+## 性能諸元
+
+\[23\] \[24\]
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>ATR 42-200</p></th>
+<th><p>ATR 42-300</p></th>
+<th><p>ATR 42-320</p></th>
+<th><p>ATR 42-500</p></th>
+<th><p>ATR 42-600</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>運航乗務員</p></td>
+<td><p>2</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>座席数</p></td>
+<td><p>42-52</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>全長</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>全幅</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>全高</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>翼面積</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/翼#形状関係" title="wikilink">主翼アスペクト比</a></p></td>
+<td><p>11.1:1[25]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ホイールベース" title="wikilink">ホイールベース</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>キャビン長</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/空虚重量" title="wikilink">自重</a></p></td>
+<td><p>23,148 <a href="../Page/ポンド_(質量).md" title="wikilink">lb</a><br />
+(10,500 kg)</p></td>
+<td><p>24,802 <a href="../Page/ポンド_(質量).md" title="wikilink">lb</a><br />
+(11,250 kg)</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/最大離陸重量.md" title="wikilink">最大離陸重量</a><br />
+(MTOW)</p></td>
+<td><p>34,280 lb<br />
+(15,550 kg)</p></td>
+<td><p>37,258 lb<br />
+(16,900 kg)</p></td>
+<td><p>37,258 lb<br />
+(16,900 kg)</p></td>
+<td><p>41,005 lb<br />
+(18,600 kg)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/巡航速度" title="wikilink">巡航速度</a></p></td>
+<td><p>267 <a href="../Page/ノット.md" title="wikilink">knots</a> (494 km/h) (巡航高度時)</p></td>
+<td><p>299 <a href="../Page/ノット.md" title="wikilink">knots</a> (554 km/h) (巡航高度時)</p></td>
+<td><p>300 <a href="../Page/ノット.md" title="wikilink">knots</a> (556 km/h) (巡航高度時)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/航続距離" title="wikilink">航続距離</a></p></td>
+<td><p>480 <a href="../Page/海里.md" title="wikilink">nmi</a> (885 km)</p></td>
+<td><p>840 nmi (1,555 km)</p></td>
+<td><p>842 nmi (1,560 km)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>離陸滑走距離<br />
+（最大離陸重量時）</p></td>
+<td></td>
+<td><p>1,090 m - 3,576 ft</p></td>
+<td><p>1,041 m - 3,415 ft</p></td>
+<td><p>1,025 m - 3,363 ft</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>着陸滑走距離<br />
+（最大着陸重量時）</p></td>
+<td></td>
+<td><p>1,033 m - 3,389 ft</p></td>
+<td><p>1,030 m - 3,379 ft</p></td>
+<td><p>1,126 m - 3,694 ft</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>最大燃料容量</p></td>
+<td><p>1,486 <a href="https://ja.wikipedia.org/wiki/ガロン" title="wikilink">US gal</a> (5,625 L)</p></td>
+<td><p>4,500 kg - 9,921 lb</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>実用上昇限度</p></td>
+<td><p>25,000 ft (7,600 m)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>エンジン (×2)</p></td>
+<td><p><a href="../Page/プラット・アンド・ホイットニー・カナダ_PW100.md" title="wikilink">プラット・アンド・ホイットニー・カナダ PW100</a></p></td>
+<td><p><a href="../Page/プラット・アンド・ホイットニー・カナダ_PW100.md" title="wikilink">Pratt &amp; Whitney Canada PW121</a></p></td>
+<td><p><a href="../Page/プラット・アンド・ホイットニー・カナダ_PW100.md" title="wikilink">Pratt &amp; Whitney Canada PW127E</a></p></td>
+<td><p><a href="../Page/プラット・アンド・ホイットニー・カナダ_PW100.md" title="wikilink">Pratt &amp; Whitney Canada PW127M</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 日本における動き
+
+### 天草エアライン
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Amakusa_Airlines,_ATR42-600,_JA01AM.JPG "wikilink") [天草エアライン](https://ja.wikipedia.org/wiki/天草エアライン "wikilink")で使用している[デ・ハビランド・カナダ DHC-8-Q100型機が](https://ja.wikipedia.org/wiki/デ・ハビランド・カナダ_DHC-8 "wikilink")、[2014年](../Page/2014年.md "wikilink")（[平成](../Page/平成.md "wikilink")26年）ごろには整備費が大幅に増加する時期を迎えるため、機材更新の検討に入り、整備費の抑制と新規集客などの選択肢として、[2015](../Page/2015年.md "wikilink")（平成27）年度中の購入を目指し、ATR 42を候補に導入検討が進められた。[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")[天草市](../Page/天草市.md "wikilink")長の安田公寛は、「県と協議はするが、天草市単独でも購入する覚悟がある」と話し、購入に伴う約21億円の財源には合併特例債の基金を検討していた\[26\]。
+
+2014年（平成26年）[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、天草エアラインはATR 42-600（48人乗り）を[2016年](../Page/2016年.md "wikilink")（平成28年）1月に新規購入の上で導入する方針を明らかにし\[27\]、筆頭株主である熊本県に機体購入費用の一部負担を要望したが、[知事](../Page/知事.md "wikilink")の[蒲島郁夫](https://ja.wikipedia.org/wiki/蒲島郁夫 "wikilink")は購入費の県負担を否定。地元だけで機体を購入した場合でも、[天草飛行場](https://ja.wikipedia.org/wiki/天草飛行場 "wikilink")の運営を含む運航経費の実質的な負担割合は、2014年（平成26年）から15年間で熊本県が75 %、[天草市](../Page/天草市.md "wikilink")・[上天草市](../Page/上天草市.md "wikilink")・[天草郡](../Page/天草郡.md "wikilink")[苓北町](https://ja.wikipedia.org/wiki/苓北町 "wikilink")の2市1町は25 %との試算を示し、理解を求めた\[28\]。
+
+その後の同年[7月22日](../Page/7月22日.md "wikilink")、天草エアラインは[ノルディック・アビエーション・キャピタル](https://ja.wikipedia.org/wiki/ノルディック・アビエーション・キャピタル "wikilink")社との間でATR 42-600の[リース](../Page/リース.md "wikilink")契約を締結した。同年8月14日受領し（[機体記号](https://ja.wikipedia.org/wiki/機体記号 "wikilink")：JA01AM）、2016年（平成28年）1月より就航\[29\]。姉妹機のATR 72を導入予定だった[リンクが就航前に](https://ja.wikipedia.org/wiki/リンク_\(航空会社\) "wikilink")[破産したため](../Page/倒産.md "wikilink")\[30\]、天草エアラインが日本で初めてATR機を運航する航空会社となる\[31\]。
+
+### 日本エアコミューター
+
+2015年6月15日、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")で開幕した[パリ航空ショー](https://ja.wikipedia.org/wiki/パリ航空ショー "wikilink")にて[日本エアコミューター](../Page/日本エアコミューター.md "wikilink")（JAC）とATR aircraftとの調印式が行われ、2017年から引き渡し開始で8機を確定発注し、1機をオプションで契約し、14機の購入権付きの契約を行った\[32\]。
+
+JACは10機保有している[サーブ340](https://ja.wikipedia.org/wiki/サーブ340 "wikilink")を中心に更新していく予定で滑走路が短い空港に就航している同社路線に最適で、JACの安嶋新代表取締役社長は「[ボンバルディア](../Page/ボンバルディア.md "wikilink")が開発予定の[DHC-8-Q400よりも小型の機体と比較して決めた](https://ja.wikipedia.org/wiki/デ・ハビランド・カナダ_DHC-8 "wikilink")」とし、「最新鋭のターボプロップ機であるATR 42-600型機のもつ快適性、経済性および信頼性と、JACがこれまで30年余に渡って築きあげた安全運航体制の融合によって、[種子島](../Page/種子島.md "wikilink")や[屋久島](https://ja.wikipedia.org/wiki/屋久島 "wikilink")、[奄美群島](../Page/奄美群島.md "wikilink")など、鹿児島の離島をはじめとした西日本の各地をきめ細かく結び、JALグループの利便性の高いシームレスな航空ネットワークサービスを提供します。」とコメントし、同型機を2015年（平成27年）から導入している天草エアラインからの整備事業の受託の可能性について、「一緒に離島路線を支えるパートナーとして、[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")の共用などを検討していきたい」と語った\[33\]。
+
+2017年1月20日に初号機を受領、同26日に[鹿児島空港](https://ja.wikipedia.org/wiki/鹿児島空港 "wikilink")に到着し\[34\]\[35\]\[36\]、4月26日から鹿児島 - [屋久島](https://ja.wikipedia.org/wiki/屋久島空港 "wikilink")、[沖永良部](https://ja.wikipedia.org/wiki/沖永良部空港 "wikilink")、5月28日から鹿児島 - [奄美で就航した](../Page/奄美空港.md "wikilink")\[37\]\[38\]。。
+
+### オリエンタルエアブリッジ
+
+[オリエンタルエアブリッジ](https://ja.wikipedia.org/wiki/オリエンタルエアブリッジ "wikilink")が保有している2機の[DHC-8-Q200型機が](https://ja.wikipedia.org/wiki/デ・ハビランド・カナダ_DHC-8 "wikilink")[2019年](../Page/2019年.md "wikilink")（平成31年／令和元年）と[2020年](../Page/2020年.md "wikilink")（令和2年）に構造[寿命](../Page/寿命.md "wikilink")を迎え、[2016年](../Page/2016年.md "wikilink")（平成28年）には更新機材の方針を決定する必要があるが、[ボンバルディアでは同型機の製造を既に中止しているため](../Page/ボンバルディア・エアロスペース.md "wikilink")、更新機材の有力な候補としてATR 42に絞り、導入検討を進めている事が報じられた\[39\]。しかしながら重整備の委託先である全日空はATR42の重整備委託については自社グループで保有していないことを理由に拒否しており事実上頓挫、ひとまずDHC-8-200型機の中古機1機を導入し運航を続けることとなった。
+
+### 北海道エアシステム
+
+2018年7月18日、[イングランド](../Page/イングランド.md "wikilink")で開幕した[ファーンボロー国際航空ショー](https://ja.wikipedia.org/wiki/ファーンボロー国際航空ショー "wikilink")にて[日本航空](../Page/日本航空.md "wikilink")（JAL）グループの[北海道エアシステム](https://ja.wikipedia.org/wiki/北海道エアシステム "wikilink")（HAC）はATR 42-600型機3機(確定 2 機、オプション 1 機)の発注に関する覚書を締結した。現在運航中の SAAB 機を更新し、2020 年から運航開始予定\[40\]。
+
+### 小笠原路線
+
+空港を熱望する[小笠原諸島](../Page/小笠原諸島.md "wikilink")では、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")と[国交省](https://ja.wikipedia.org/wiki/国交省 "wikilink")による調査が長年に渡り行われており、洲崎地区を活用した新空港案、[硫黄島](https://ja.wikipedia.org/wiki/硫黄島 "wikilink")を活用した中継案、[水上機](../Page/水上機.md "wikilink")利用の3案が検討されており、この内、硫黄島案と水上機案は困難な課題が短期的に解決することができないとして洲崎地区案に絞っており、当初1,200mの滑走路長が検討されたが、これは[切土](https://ja.wikipedia.org/wiki/切土 "wikilink")が必要な上、湾内に滑走路が張り出す形となり、残土処理のほか、[国立公園](../Page/国立公園.md "wikilink")や[世界遺産](../Page/世界遺産.md "wikilink")地域に該当するため[環境大臣](https://ja.wikipedia.org/wiki/環境大臣 "wikilink")の認可も必要となり、この調査に対して[環境省](../Page/環境省.md "wikilink")も生態系への影響などの懸念を発表しており、[平成29年](https://ja.wikipedia.org/wiki/平成29年 "wikilink")の調査報告で42-600Sの使用を前提とした1,000mに短縮する案を採用している\[41\]\[42\]\[43\]。しかしながら航続距離の短いATR42では小笠原に給油設備の設置が必須となり、将来にわたり安定的な燃油の供給が必要となるが、海の荒れる冬場に安定した燃油供給を確保することは難しく、また途中で引き返しが生じた場合に引き返す場所によっては燃油切れによる墜落の可能性が生じてしまう。途中に存在する[八丈島空港](https://ja.wikipedia.org/wiki/八丈島空港 "wikilink")は気流の変化が小刻みに生じる国内でも屈指の離着陸の難しい空港で代替空港としては心許ない事情もあり、ATR42では安全運航の確保の点で難があることも確かである。
+
+### 佐渡路線
+
+[佐渡空港](https://ja.wikipedia.org/wiki/佐渡空港 "wikilink")を有する[佐渡市](../Page/佐渡市.md "wikilink")ではこの機種を採用した路線再開が検討されている。これまで運行していた[新日本航空](https://ja.wikipedia.org/wiki/新日本航空 "wikilink")による運航が企業体制整備による理由から休止されており、890mの滑走路長から運行機材が限られており、参入する企業が見込めない理由などから、滑走路長を2,000m級まで拡張し、大手航空会社によるジェット機の運航を望んでいるが、その費用対効果などの面から現状の滑走路長での42-600S採用による運航にするか協議会が立ち上げられており協議中である\[44\]\[45\]。
+
+### 国土交通省 地域航空のあり方に関する研究会
+
+2017年には[国土交通省](../Page/国土交通省.md "wikilink")の持続可能な地域航空のあり方に関する研究会（座長竹内健蔵東京女子大学教授）で機体の共同保有や、将来の経営統合などを内容とする報告書が出された\[46\]。2018年12月に一部報道によって、研究会によって対象とされた地域航空5社のうち九州内の日本エアコミューター、オリエンタルエアブリッジ、天草エアラインの3社で先行して包括的な業務提携を進める方針で、合併や経営統合は先送りされることも協議合意されたと報道され\[47\]\[48\]、その過程でJAC、HACの機材選定及び1,200m滑走路で運用可能なATR 42が運航機材の主流になる可能性が高い。
+
+## 脚注
+
+## 関連項目
+
+  - [ATR](https://ja.wikipedia.org/wiki/ATR_\(航空機メーカー\) "wikilink")
+  - [ATR 72](https://ja.wikipedia.org/wiki/ATR_72 "wikilink")
+  - [アエロスパシアル](https://ja.wikipedia.org/wiki/アエロスパシアル "wikilink")
+  - [アレーニア・アエロナウティカ](https://ja.wikipedia.org/wiki/アレーニア・アエロナウティカ "wikilink")
+  - [エアバス・グループ](https://ja.wikipedia.org/wiki/エアバス・グループ "wikilink")
+
+## 外部リンク
+
+  - [公式サイト](http://www.atraircraft.com/) - ATR Aircraft
+  - [製品情報](http://www.atraircraft.com/products/list.html) - ATR Aircraft
+  - [ATR 42-500 Seriess](http://www.atraircraft.com/products/atr-42-500.html) - ATR Aircraft
+  - [ATR-600 Series](http://www.atraircraft.com/products/atr-600-series.html) - ATR Aircraft
+  - [ATR42/72の概要(pdf)](http://www.jadc.jp/files/topics/44_ext_01_0.pdf#page=26) - 一般財団法人 日本航空機開発協会
+
+[Category:フランスの旅客機](https://ja.wikipedia.org/wiki/Category:フランスの旅客機 "wikilink") [Category:イタリアの旅客機](https://ja.wikipedia.org/wiki/Category:イタリアの旅客機 "wikilink") [Category:イタリア・フランス関係](https://ja.wikipedia.org/wiki/Category:イタリア・フランス関係 "wikilink")
+
+1.  [Aviation Safety Networkトラブル記録（英文）](https://aviation-safety.net/wikibase/229137)
+2.  [2019年11月5日から11月21日、11月26日の欠航便のお知らせについて](http://www.jac.co.jp/info/pdf/20191028_NOV%20cancel.pdf)
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13. [ATR機、小笠原就航も視野　短距離離着陸型の開発進む](https://www.aviationwire.jp/archives/160256)
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23. ["ATR 42?500"](http://www.atraircraft.com/public/atr/html/products/products.php?aid=508). *ATR*. Retrieved 8 November 2010.
+24.
+25. Jackson 2003, pp. 224?225.
+26.
+27.
+28.
+29.
+30.
+31.
+32. [日本エアコミューター、ATR42-600型機の導入を決定](http://www.jac.co.jp/company_info/pdf/20150615.pdf)
+33. [JAC、ATR42を8機発注　17年から置き換え](http://www.aviationwire.jp/archives/63086)
+34.
+35.
+36. [JALグループ、ATR製旅客機を初導入　人気席は前でなく後ろに？　その特徴とは](https://trafficnews.jp/post/63881/)
+37. [JALグループ、2017年度 路線便数計画を決定](http://press.jal.co.jp/ja/release/201701/004118.html)
+38. [日本エアコミューター、4月からATRを鹿児島発着の定期便に投入へ](http://flyteam.jp/airline/japan-air-commuter/news/article/74370)
+39.
+40. \[<https://www.info.hac-air.co.jp/wp-content/uploads/2018/07/HAC_ATR_FNL_.pdf>、 北海道エアシステム、ATR42-600型機発注に関する覚書を締結\]
+41.
+42.
+43.
+44.
+45.
+46. [持続可能な地域航空のあり方に関する研究会](http://www.mlit.go.jp/koku/koku_tk4_00007.html)国土交通省
+47. \[<https://www.nishinippon.co.jp/nnp/national/article/471764/>　地域航空５社 共同運航へ　業務提携、九州３社先行　合併、当面見送り\]
+48. [ＨＡＣなど地域航空５社業務提携へ　系列超え共同運航や整備](https://www.hokkaido-np.co.jp/article/256074)

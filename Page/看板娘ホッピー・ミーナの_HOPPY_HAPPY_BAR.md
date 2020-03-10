@@ -1,0 +1,46 @@
+> この記事は[ HOPPY HAPPY BAR](https://ja.wikipedia.org/wiki/_HOPPY_HAPPY_BAR)から翻訳されています。
+
+
+**看板娘ホッピー・ミーナの [HOPPY](https://ja.wikipedia.org/wiki/ホッピー "wikilink") HAPPY BAR**（かんばんむすめほっぴー・みーなのほっぴーはっぴーばー）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月10日](../Page/4月10日.md "wikilink")より[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作で放送している[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+
+スポンサーは[ホッピービバレッジ](https://ja.wikipedia.org/wiki/ホッピービバレッジ "wikilink")。2006年[11月](../Page/11月.md "wikilink")から東名阪三大都市圏ネットになった。
+
+## 概要
+
+石渡美奈がホッピー社の理念や経営学について語ったり、知人をゲストに呼んだり、新入社員を紹介したりする。
+
+## パーソナリティ
+
+  - [石渡美奈](https://ja.wikipedia.org/wiki/石渡美奈 "wikilink")（ホッピービバレッジ副社長(放送開始時)→2010年3月26日に社長に就任）
+
+## アシスタント
+
+番組冒頭のタイトルコールの出だしを担当しており、タイトルコールの声で当日のアシスタントがわかる。
+
+  - [垣花正](../Page/垣花正.md "wikilink")（フリーアナウンサー、元ニッポン放送アナウンサー 開始当初より出演）
+  - [立川志らら](https://ja.wikipedia.org/wiki/立川志らら "wikilink")（落語家 2015年3月9日以降、垣花と交代で出演）
+  - [荘口彰久](../Page/荘口彰久.md "wikilink")（フリーアナウンサー、元ニッポン放送アナウンサー 2019年12月に出演）
+
+## 放送時間
+
+  - [ニッポン放送](../Page/ニッポン放送.md "wikilink") 毎週月曜 - 金曜 21:57 - 22:00（放送開始半年間は火曜 - 土曜の同時刻）
+  - [東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink") 毎週月曜 - 金曜 21:57 - 22:00
+      - 2006年11月 - 2007年3月 毎週月曜 - 金曜 20:10 - 20:13（『[2COOL\!](../Page/2COOL!.md "wikilink")』内）
+      - 2007年4月 - 2007年9月 毎週火曜 - 土曜 21:46 - 21:49（公式HPでは『[Hit's Today](https://ja.wikipedia.org/wiki/Hit's_Today "wikilink")』内）
+      - 2007年10月 - 2008年3月 毎週火曜 - 土曜 20:56 - 20:59 （月曜日のこの時間は『[下川みくにの見えちゃうラジオ](../Page/下川みくにの見えちゃうラジオ.md "wikilink")』のため1日遅れ）
+      - 2008年4月 - 9月・ 2009年4月 - 9月毎週火曜 - 土曜 21:46 - 21:49（公式HPでは『Hit's Today』内）
+      - 2008年10月 - 2009年3月・2009年10月 - 毎週月曜 - 金曜 20:56 - 20:59
+      - 2010年4月5日 - 毎週月曜 - 金曜 21:57 - 22:00
+  - [ラジオ大阪](../Page/大阪放送.md "wikilink") 毎週月曜 - 金曜 20:26 - 20:29
+      - 2007年3月まで毎週月曜 - 金曜 20:05 - 20:08（月曜 - 木曜は『[街角ステーション 僕らのラジオ](https://ja.wikipedia.org/wiki/街角ステーション_僕らのラジオ "wikilink")』内）
+      - 2016年度以降、『[OBCドラマティック競馬金曜版 そのだ金曜ナイター中継](https://ja.wikipedia.org/wiki/OBCドラマティック競馬#関連番組 "wikilink")』の終了時刻が20:26から20:45に繰り下げられたが、当番組は『その金ナイター』に内包という形となり、放送時間は変わらず。
+
+ニッポン放送と東海ラジオでは『[スポーツ伝説](https://ja.wikipedia.org/wiki/スポーツ伝説 "wikilink")』の後続として放送している。
+
+ニッポン放送と東海ラジオでは当日夜にナイター中継（[ニッポン放送ショウアップナイター](../Page/ニッポン放送ショウアップナイター.md "wikilink")・[東海ラジオ ガッツナイター](https://ja.wikipedia.org/wiki/東海ラジオ_ガッツナイター "wikilink")）が編成された場合、中継終了時間によっては当番組が中止となることがある。休止となった場合でも[ニッポン放送 ポッドキャスティングステーションで当日の内容は聴取可能](../Page/ニッポン放送_ポッドキャスティングステーション.md "wikilink")。
+
+## 外部リンク
+
+[番組HP](http://www.1242.com/hoppy/)
+
+[Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink") [Category:ニッポン放送の帯番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送の帯番組 "wikilink") [Category:ニッポン放送のミニ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のミニ番組 "wikilink") [Category:ニッポン放送のトーク番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のトーク番組 "wikilink")

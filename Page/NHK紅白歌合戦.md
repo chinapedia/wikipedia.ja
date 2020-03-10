@@ -1,0 +1,2602 @@
+> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+
+
+『**NHK紅白歌合戦**』（エヌエイチケイこうはくうたがっせん）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）が[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（[昭和](../Page/昭和.md "wikilink")26年）から[大みそかに放送している](../Page/大晦日.md "wikilink")[男](../Page/男性.md "wikilink")[女対抗形式の大型](../Page/女性.md "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[長寿番組のひとつ](https://ja.wikipedia.org/wiki/長寿番組の一覧 "wikilink")。通称は『**[紅白](https://ja.wikipedia.org/wiki/紅白 "wikilink")**』。
+
+## 概要
+
+女性アーティストを紅組（あかぐみ）、男性アーティストを白組（しろぐみ）に分け、対抗形式で歌や演奏を披露する。当初は正月の[ラジオ番組](../Page/ラジオ番組.md "wikilink")であったが、NHKがテレビ放送を開始した後は[大晦日](../Page/大晦日.md "wikilink")の夜に移動し、「1年の締めくくり」の代名詞となる。放送が延期・中止されたことは1度もない。
+
+日本を代表する人気[歌手](../Page/歌手.md "wikilink")が大勢出演し、さらに歌手以外のゲストなどもその年人気を博した人物が選出されるため、放送開始当初から高[視聴率](../Page/視聴率.md "wikilink")を記録している。深夜に及ぶ時間帯の番組でありながら年間視聴率の上位に食い込み、多くの年で通年の最高値を弾き出している。そのため国民の関心は高く、年の瀬から正月にかけて、[新聞](../Page/新聞.md "wikilink")・[雑誌](../Page/雑誌.md "wikilink")から商売敵である[民放局までが紅白に関する話題を取り上げる](../Page/民間放送.md "wikilink")。
+
+上述の通り紅白の両組対抗形をとるが、番組の進行の上ではあくまでショーとして番組を構成する要素のひとつであり、決して「対抗」を前面に押し出しているわけではない。ただし、あくまで形式上は「対抗」であるため、その組み合わせの枠の中に入る歌手は、正式には「番組出演」ではなく「紅白歌合戦**出場**」と呼ばれる。{{-}}
+
+### 放送メディア
+
+<table>
+<thead>
+<tr class="header">
+<th><p>媒体</p></th>
+<th><p>期間</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>ラジオ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/第1回NHK紅白歌合戦" title="wikilink">第1回</a>（<a href="https://ja.wikipedia.org/wiki/1951年" title="wikilink">1951年</a>） - 継続中</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NHKラジオ第1放送" title="wikilink">NHKラジオ第1および</a><a href="../Page/NHKワールド・ラジオ日本.md" title="wikilink">NHKワールド・ラジオ日本</a>にて放送。<br />
+客席上のラジオ中継席（<a href="https://ja.wikipedia.org/wiki/第24回NHK紅白歌合戦" title="wikilink">第24回</a>（<a href="../Page/1973年.md" title="wikilink">1973年</a>）以降の会場である<a href="https://ja.wikipedia.org/wiki/NHKホール" title="wikilink">NHKホール</a>では、同ホール2階<a href="https://ja.wikipedia.org/wiki/上手と下手#上手（かみて）と下手（しもて）" title="wikilink">上手席にこれを設けている</a>）から、ステージ上で行われていることの実況とともに放送。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NHKネットラジオ_らじる★らじる" title="wikilink">NHKネットラジオ らじる★らじる</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/第62回NHK紅白歌合戦" title="wikilink">第62回</a>（<a href="../Page/2011年.md" title="wikilink">2011年</a>） - 継続中</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/radiko" title="wikilink">radiko</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦" title="wikilink">第68回</a>（<a href="../Page/2017年.md" title="wikilink">2017年</a>） - 継続中</p></td>
+</tr>
+<tr class="even">
+<td><p>テレビ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/第4回NHK紅白歌合戦" title="wikilink">第4回</a>（<a href="https://ja.wikipedia.org/wiki/1953年" title="wikilink">1953年</a>） - 継続中</p></td>
+<td><p>1953年2月1日のNHK開局に伴い、同年末から紅白のテレビ放送を開始。</p>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/第15回NHK紅白歌合戦" title="wikilink">第15回</a>（<a href="../Page/1964年.md" title="wikilink">1964年</a>）からは<a href="https://ja.wikipedia.org/wiki/カラーテレビ" title="wikilink">カラー放送</a>。</li>
+<li><a href="https://ja.wikipedia.org/wiki/第29回NHK紅白歌合戦" title="wikilink">第29回</a>（<a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a>）からは<a href="../Page/ステレオ放送.md" title="wikilink">ステレオ放送</a>に移行。</li>
+<li><a href="https://ja.wikipedia.org/wiki/第52回NHK紅白歌合戦" title="wikilink">第52回</a>（<a href="../Page/2001年.md" title="wikilink">2001年</a>）からは<a href="../Page/リアルタイム字幕放送.md" title="wikilink">リアルタイム字幕放送</a>を開始。</li>
+<li><a href="https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦" title="wikilink">第54回</a>（<a href="../Page/2003年.md" title="wikilink">2003年</a>）からは地上デジタルテレビ放送で放送開始。</li>
+<li><a href="https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦" title="wikilink">第57回</a>（<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>）からは<a href="https://ja.wikipedia.org/wiki/ワンセグ" title="wikilink">ワンセグ</a>で放送開始。</li>
+<li><a href="../Page/NTSC.md" title="wikilink">地上アナログ放送での放送は</a><a href="https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦" title="wikilink">第61回</a>（<a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a>）で終了[1]。</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>総合テレビ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/第4回NHK紅白歌合戦" title="wikilink">第4回</a>（<a href="https://ja.wikipedia.org/wiki/1953年" title="wikilink">1953年</a>） - 継続中</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NHKワールド" title="wikilink">NHKワールド</a>・プレミアム</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/第15回NHK紅白歌合戦" title="wikilink">第15回</a>（<a href="../Page/1964年.md" title="wikilink">1964年</a>） - 継続中</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン" title="wikilink">BS2</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/第35回NHK紅白歌合戦" title="wikilink">第35回</a>（<a href="../Page/1984年.md" title="wikilink">1984年</a>） - <a href="https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦" title="wikilink">第61回</a>（<a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a>）</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン" title="wikilink">BShi</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/第40回NHK紅白歌合戦" title="wikilink">第40回</a>（<a href="../Page/1989年.md" title="wikilink">1989年</a>） - 第61回</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NHK_BS4K" title="wikilink">BS4K</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦" title="wikilink">第69回</a>（<a href="../Page/2018年.md" title="wikilink">2018年</a>） - 継続中</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NHK_BS8K" title="wikilink">BS8K</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦" title="wikilink">第69回</a>（<a href="../Page/2018年.md" title="wikilink">2018年</a>） - 継続中</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+BS4K・BS8Kは総合テレビとは別制作。高精彩を生かしてより現地で見ている紅白に近い体験をコンセプトに、同じステージを別々に制作・中継する。そのため、カメラアングルが総合テレビとは異なり、歌詞テロップも出ない。
+
+またNHK主体ではないが、海外の現地[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")チャンネル（主として日本専門チャンネル）を通じて放送される場合がある（NHKワールド・プレミアム放送の際には字幕がないため）。
+
+BS2・BShiでも放送されていた一時期は[BSのアンテナとチューナーさえあれば山間部や島部の難視聴地帯でも生放送で視聴可能となっていた](../Page/衛星放送.md "wikilink")。
+
+### 放送時間
+
+[第18回](https://ja.wikipedia.org/wiki/第18回NHK紅白歌合戦 "wikilink")（[1967年](../Page/1967年.md "wikilink")）以降、長らく21時（JST、以下同じ）開始に固定されてきたが、2部制となった[第40回](https://ja.wikipedia.org/wiki/第40回NHK紅白歌合戦 "wikilink")（[1989年](../Page/1989年.md "wikilink")）以降は19時台から20時の間を推移している。1部と2部の間には、その年の最後の『[NHKニュース](https://ja.wikipedia.org/wiki/NHKニュース "wikilink")』を放送する。なおBShiでは放送されず、『デジタル紅白歌合戦』と題したNHKホール前からのこの後の内容を紹介する中継に差し替えた年もあった。BS4K・8Kはニュース前のつなぎコメントも含めてバックステージからの中継放送に差し替えている。
+
+終了時刻は、総合テレビでは[第13回](https://ja.wikipedia.org/wiki/第13回NHK紅白歌合戦 "wikilink")（[1962年](../Page/1962年.md "wikilink")）以降、一貫して23時45分である（放送メディアによっては例外あり）。また、次の番組も『[ゆく年くる年](https://ja.wikipedia.org/wiki/ゆく年くる年 "wikilink")』で固定されている。
+
+## 出演者
+
+出演者に対しては正式発表まで厳重な「緘口令」が敷かれ、原則NHK側からその都度発表される。一方で特に司会者と出場歌手の人選は注目を集め、大衆紙などでは正式発表の時期に「関係者からのリーク」として予想記事が出されることがある。
+
+### 司会者
+
+その年の紅白の「顔」ともいうべき存在で、例年その年の出演者の中でもっとも早く決まる（10月後半から11月）。正式決定とともに、本人出席のもとで記者会見が[NHK放送センター](../Page/NHK放送センター.md "wikilink")で行われる（会見を行わず、広報を通じてコメントを発表するのみにとどめる年もある）。
+
+通常、「紅組司会」「白組司会」「総合司会」の三者がいる。紅組司会と白組司会はそれぞれの組の曲紹介を、総合司会は番組全体の進行や両組司会のサポートを分担してこなす。紅組司会は数例の例外を除き女性が担当、白組司会は例外なく男性が担当する。紅組司会と白組司会はテレビタレントが、総合司会はNHK[アナウンサー](../Page/日本のアナウンサー.md "wikilink")（東京アナウンス室在籍）が担当することが多い（両組司会にもアナウンサーが起用される年あり）。全員のうち、アナウンサーは必ず最低1名は入っている。これは紅白生放送中にアクシデント（重大事件・事故・災害や、本番中でのいわゆる放送事故など）が発生したり、[芸能人](https://ja.wikipedia.org/wiki/芸能人 "wikilink")司会者が本番直前にアクシデント（病気・負傷・不祥事など）により出演不能となったりした場合の対応のためである。両組・総合司会は通常それぞれ1人ずつだが、複数名が担当した[第37回](https://ja.wikipedia.org/wiki/第37回NHK紅白歌合戦 "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）、グループが担当した[第61回](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）- [第65回](https://ja.wikipedia.org/wiki/第65回NHK紅白歌合戦 "wikilink")（[2014年](../Page/2014年.md "wikilink")）、三者の枠を取り払った[第56回](https://ja.wikipedia.org/wiki/第56回NHK紅白歌合戦 "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）などの例外がある。
+
+司会担当者は、ほかの長時間番組や音楽番組と比べて特定の人物が何回も続けて担当することは少なく、場合によっては司会未経験のタレントがいきなり抜擢されることもある。紅白の台本は、生放送という関係上非常に細かく設定されており、進行上アドリブの必要性は少なく、あくまで「司会者」を演じる役者的性質が強いためである。司会が歌手の場合は、出場歌手を兼ねる場合もある\[2\]。
+
+### 歌手
+
+出場歌手はおおむね紅白両組それぞれ20組から30組の間を推移している。対戦に組み込まれる正規の歌手は番組への出演が「出場」と呼ばれ、「出場回数」も正式にカウントされる。例年11月下旬に発表記者会見が行われ、その年の初出場の歌手が出席するか、あるいはメッセージが公表される。
+
+両組の割り振りは、メインボーカルの性別を原則とする。そのため、[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")、[原由子](../Page/原由子.md "wikilink")などは出場形態の違いにより両組からの出場経験がある。番組初期においては厳密に紅組=女性、白組=男性と分けられており、男女混成グループは本来の形態での出場が不可能であった。そのため片方の性のメンバーのみでボーカルとコーラスをまとめるなどのアレンジを強いられていた。男女混成グループが初めて出場したのは、[第19回](https://ja.wikipedia.org/wiki/第19回NHK紅白歌合戦 "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）の[ピンキーとキラーズ](https://ja.wikipedia.org/wiki/ピンキーとキラーズ "wikilink")であり、このときもどのような扱いにするのかでもめたという。結局メインボーカルがピンキーであったため紅組となったが、初出場時のみ男性メンバーは歌手席に座れなかった。その他のおもな割り振りの例は以下の通り。
+
+  - 男女の[デュエット](https://ja.wikipedia.org/wiki/デュエット "wikilink")は基本的に紅組。例外として、[ヒデとロザンナ](../Page/ヒデとロザンナ.md "wikilink")および[平尾昌晃](../Page/平尾昌晃.md "wikilink")・[畑中葉子](https://ja.wikipedia.org/wiki/畑中葉子 "wikilink")はそれぞれ白組から出場。
+  - 女性メインボーカルのグループでも、[はしだのりひことクライマックスおよび](https://ja.wikipedia.org/wiki/はしだのりひこ#はしだのりひことクライマックス "wikilink")[青い三角定規](https://ja.wikipedia.org/wiki/青い三角定規 "wikilink")はほかの出場歌手との兼ね合いからそれぞれ白組から出場。[Pabo](https://ja.wikipedia.org/wiki/Pabo "wikilink")は全員女性だが同系列の[羞恥心とセットで白組から出場](../Page/羞恥心_\(ユニット\).md "wikilink")。
+  - 混声ボーカルの場合は、その都度振り分けられる。[AAAは両組から出場歴があり](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")、これが同一名義で両組から出場した唯一の例である。
+  - [トランスジェンダー](https://ja.wikipedia.org/wiki/トランスジェンダー "wikilink")の歌手では、[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")）、[中村中](https://ja.wikipedia.org/wiki/中村中 "wikilink")（戸籍上は男性）が紅組で出場した例がある。
+  - [第56回](https://ja.wikipedia.org/wiki/第56回NHK紅白歌合戦 "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）で[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ワンナイR\&R](https://ja.wikipedia.org/wiki/ワンナイR&R "wikilink")』内で[ガレッジセール](../Page/ガレッジセール.md "wikilink")の[ゴリが女装](https://ja.wikipedia.org/wiki/ゴリ_\(お笑い芸人\) "wikilink")（歌手デビュー）したキャラである[ゴリエが女装した男性のソロでは初めて紅組で出場した](https://ja.wikipedia.org/wiki/松浦ゴリエ "wikilink")。正確にはGorie with Jasmine & Joannとして活動しており、メインボーカルはゴリエではなく、女性である[ジャスミン・アレンと](https://ja.wikipedia.org/wiki/ジャスミン茉莉花 "wikilink")[ジョアンであるため](https://ja.wikipedia.org/wiki/ジョアン_\(タレント\) "wikilink")（ゴリエ本人も若干ソロパートがある）、紅組出場となった。
+
+複数の名義で並行して活動している歌手は、かつては原則両方で出場することはできず、[沢田研二](../Page/沢田研二.md "wikilink")が[第40回](https://ja.wikipedia.org/wiki/第40回NHK紅白歌合戦 "wikilink")（[1989年](../Page/1989年.md "wikilink")）において、ソロ名義と[ザ・タイガース](../Page/ザ・タイガース.md "wikilink")の双方で出場した事例が長らく唯一であった。しかし、[2000年代](../Page/2000年代.md "wikilink")後半からは同系列の複数のグループ・ユニットをメンバーが掛け持ちし、さらにそれぞれヒットする事例が出てきたため（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")、[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")など）、徐々に複数の掛け持ち出場が認められるようになってきた。
+
+[第26回](https://ja.wikipedia.org/wiki/第26回NHK紅白歌合戦 "wikilink")（[1975年](../Page/1975年.md "wikilink")）の[ずうとるび](https://ja.wikipedia.org/wiki/ずうとるび "wikilink")（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")『[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")』出身）以後、民放番組からデビューした企画の歌手（番組内のキャラクター）など民放色の強い歌手も出場しており、該当の番組を特別に意識した演出（応援など）があるなど、民放とのコラボレーションに対しても比較的寛容である。対する民放の側も、デビューするときに「紅白を狙う」と公言したり、出場が決まった際には紅白本番中やその舞台裏の模様を後日番組内で「紅白ドキュメント」などと銘打って放映したりすることがあるなど、紅白とのコラボレーションに積極的である\[3\]。
+
+「歌合戦」と称しているものの、演奏のみで歌わないグループの出場もある（[G-クレフ](../Page/G-クレフ.md "wikilink")、[女子十二楽坊](../Page/女子十二楽坊.md "wikilink")など）。
+
+#### 歌手の選考
+
+基本的には、その1年間にヒット曲を出した歌手を対象として、出場者の選考が行われる。本人や所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")・所属事務所に対して、選考対象とされることや出場への意思の有無の確認が行われ\[4\]、例年[11月](../Page/11月.md "wikilink")ごろに行われる選考会議で最終決定される。発表と同時に記者会見が開かれ、競合関係にある民放各局も含めた各メディアの取材陣が集まり、『[NHKニュース](https://ja.wikipedia.org/wiki/NHKニュース "wikilink")』をはじめ各メディアでも報道される。この記者会見には初出場者が出席することが恒例となっている。[第61回](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）以降、出場者発表会見はインターネットでもストリーミング配信で生中継がされている\[5\]。
+
+番組側は基本的に選考の過程や理由などを明らかにはしておらず、非選出者については発表記者会見の質疑応答の中で、最低限の事情を明らかにしている程度である。[第65回](https://ja.wikipedia.org/wiki/第65回NHK紅白歌合戦 "wikilink")（[2014年](../Page/2014年.md "wikilink")）、[第66回](https://ja.wikipedia.org/wiki/第66回NHK紅白歌合戦 "wikilink")（[2015年](../Page/2015年.md "wikilink")）の発表記者会見では「**今年の活躍、世論の支持、番組の演出・企画に沿う**」という3点が具体的に提示されている\[6\]\[7\]。第65回では以下の5つのデータが出場歌手決定の参考資料とされた\[8\]。
+
+1.  7歳以上の全国5,000人を対象にNHKが行った[『ランダムデジットダイヤリング』方式による調査の結果](https://ja.wikipedia.org/wiki/世論調査#RDD方式 "wikilink")
+2.  『[NHKのど自慢](https://ja.wikipedia.org/wiki/NHKのど自慢 "wikilink")』の予選出場者の曲目
+3.  CD・カセット・DVDの売り上げ
+4.  [有線](https://ja.wikipedia.org/wiki/USEN "wikilink")・[カラオケ](../Page/カラオケ.md "wikilink")のリクエストなどについての調査
+5.  インターネットや携帯電話によるダウンロードなどについての調査
+
+出場歌手選考の参考として、[第23回](https://ja.wikipedia.org/wiki/第23回NHK紅白歌合戦 "wikilink")（[1972年](../Page/1972年.md "wikilink")）の選考時より「ご意見を伺う会」が発足し、その会員から意見を求むという体制が[第38回](https://ja.wikipedia.org/wiki/第38回NHK紅白歌合戦 "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）まで続いた。NHKが視聴者を対象に行うアンケート結果は[第37回](https://ja.wikipedia.org/wiki/第37回NHK紅白歌合戦 "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）までは重視されていたが、以降は参考程度に留められているという\[9\]\[10\]。原則として結果は公表されない。
+
+紅白の出場歌手に選出されるには、第一義的には音楽業界での活躍、すなわち音楽セールスの実績（レコード、カセット、CD、DVD、[音楽配信](https://ja.wikipedia.org/wiki/音楽配信 "wikilink")、USEN、カラオケなど）・実力・知名度・話題性・世論の支持・歌唱力・同回のテーマとの合致・『NHKのど自慢』出場者に自身の楽曲が選曲されることなどが重要となるが、ほかにも以下の条件が存在するとの指摘がある。
+
+  - NHKへの貢献度
+
+NHK番組への出演・関与や番組主題歌の歌唱など、NHKに対する貢献度が選考を左右する要素として決して小さからぬ割合を占めている。たとえば『[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")』の主題歌、『[大河ドラマ](../Page/大河ドラマ.md "wikilink")』出演、[オリンピック](../Page/近代オリンピック.md "wikilink")（[パラリンピック](https://ja.wikipedia.org/wiki/パラリンピック "wikilink")）・[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")のNHK中継テーマソング、[NHK全国学校音楽コンクール](https://ja.wikipedia.org/wiki/NHK全国学校音楽コンクール "wikilink")課題曲（中学校の部）提供などの場合、出場しやすい面がある（本番中も、タイアップにちなんだ曲紹介や演出がある）。
+
+  - 事務所ごとの出場枠
+
+出場歌手については、所属する芸能事務所毎に一定の枠、数的制限が設けられる慣例があるとされる。この慣例については、番組は公式には認めていない\[11\]が、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")の社長である[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")が「NHKに2枠固定と言われ意固地になっていた」と枠の存在を暴露する\[12\]など、公然の秘密となっている。
+
+かつて、1部制時代の1980年代前半までは芸能事務所毎の枠という概念そのものが存在していなかった。このため[第25回](https://ja.wikipedia.org/wiki/第25回NHK紅白歌合戦 "wikilink")（[1974年](../Page/1974年.md "wikilink")）では、出場歌手の紅白計50組中10組を当時全盛期にあった[渡辺プロダクション](https://ja.wikipedia.org/wiki/渡辺プロダクション "wikilink")に所属する歌手が占めるという状況も見られた。しかし、その後は一定の枠が事実上設けられる状況となったため、かつての渡辺プロほどの規模で特定の事務所が出場枠の一定割合を専有することは難しくなった。
+
+そのため、大ヒット曲を出しながら事務所枠の関係で出場機会に恵まれない例もある。1980年代から芸能界で大きな影響力を持つようになったジャニーズ事務所に所属する歌手の出場は、[第48回](https://ja.wikipedia.org/wiki/第48回NHK紅白歌合戦 "wikilink")（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）以降長らく、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")・[TOKIO](../Page/TOKIO.md "wikilink")の2組に限定されていた\[13\]。その後、[第60回](https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦 "wikilink")（[2009年](../Page/2009年.md "wikilink")）に[嵐と](../Page/嵐_\(グループ\).md "wikilink")[NYC boysが初出場して以降](https://ja.wikipedia.org/wiki/NYC_boys "wikilink")\[14\]、同事務所からの出場歌手は増えている。
+
+  - 不祥事の有無
+
+NHKは[公共放送](../Page/公共放送.md "wikilink")でありその番組は国民が払う[受信料によって制作され](https://ja.wikipedia.org/wiki/NHK受信料 "wikilink")、出演者に対して支払われるギャラもまたそれによって賄われている。そのため、すなわち**イメージがクリーン**であることも、出演者の選出・決定にあたって満たし、また出場当日まで守り続けなければならない重要な必要条件のひとつとなっている。実際に、これが原因で落選や辞退、あるいは出演の取り消しという事態が発生している。
+
+特に日本の芸能界は**"黒い交際"**、すなわち[暴力団](https://ja.wikipedia.org/wiki/暴力団 "wikilink")・[ヤクザ](../Page/ヤクザ.md "wikilink")などの[反社会的勢力](https://ja.wikipedia.org/wiki/反社会的勢力 "wikilink")が興行師として采配していることが多く、これが表面化すると選考にも決定的な悪影響を及ぼす。それは大物歌手・ベテラン歌手であっても例外ではなく、過去には長年紅組トリを独占していた[美空ひばり](../Page/美空ひばり.md "wikilink")が、[1973年](../Page/1973年.md "wikilink")、暴力団構成員であった弟・[かとう哲也](https://ja.wikipedia.org/wiki/かとう哲也 "wikilink")の逮捕をきっかけに、[三代目山口組](https://ja.wikipedia.org/wiki/三代目山口組 "wikilink")・[田岡一雄](https://ja.wikipedia.org/wiki/田岡一雄 "wikilink")との関係が問題視された。ひばりへのアンケートの支持が低下し、「ご意見を伺う会」からの批判が相次いだことを理由に落選\[15\]となり、以後は本人のサイドから距離をとり、正式な出場歌手としてはついに復帰しなかった。また、[第37回](https://ja.wikipedia.org/wiki/第37回NHK紅白歌合戦 "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）では、[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")・[山本譲二](https://ja.wikipedia.org/wiki/山本譲二 "wikilink")が暴力団主催の宴席に出席していたことがメディア報道され、本番の差し迫った12月29日に出場辞退を余儀なくされた。代役として[角川博](https://ja.wikipedia.org/wiki/角川博 "wikilink")と[鳥羽一郎](https://ja.wikipedia.org/wiki/鳥羽一郎 "wikilink")が選出されたものの、今度は鳥羽が自身も暴力団と過去に関わりがあったことを自ら暴露し、この一件に対するNHKの偽善の姿勢を批判して辞退した（代役は[シブがき隊](https://ja.wikipedia.org/wiki/シブがき隊 "wikilink")）。[2011年](../Page/2011年.md "wikilink")には、暴力団の影響力排除を目的とした各都道府県の[暴力団排除条例](https://ja.wikipedia.org/wiki/暴力団排除条例 "wikilink")が施行され、人気司会者であった[島田紳助](../Page/島田紳助.md "wikilink")が暴力団との交際発覚を理由に芸能界を引退し大きな話題になったことなどもあり、NHKも暴力団排除指針を公表。同年の[第62回の選考をめぐって](https://ja.wikipedia.org/wiki/第62回NHK紅白歌合戦 "wikilink")、黒い交際の情報がある人物は排除しなければならず、NHKが出場候補者の人選に通常より神経を使い、報道局など組織内の多くのリソースも投入していると各メディアで報じられた。
+
+#### 出場辞退
+
+出場歌手発表時、「誰が出場したか」と同様に、「誰が出場しなかったか」にも注目が集まる。特に1980年代からはミュージシャン系の歌手を中心に「辞退をすることがステータス」「出たら負け」という風潮が高まり、出場の打診を歌手サイドの意思で断る事例が増えた。これらのアーティストは「出場辞退組」と呼ばれるようになる。辞退する理由はさまざまで、知名度が出てきたころに数度だけ出場する例（[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")など）、NHKとの不和が原因で出場しない例（[アリスなど](https://ja.wikipedia.org/wiki/アリス_\(フォークグループ\) "wikilink")）、紅白のコンセプトに賛同しない例（[小田和正](../Page/小田和正.md "wikilink")、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")など）などである。
+
+また、常連歌手がある時点で自発的に「勇退」を宣言、翌年から出演を取り止める例（[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")、[森進一](../Page/森進一.md "wikilink")など）もある。最後の出場回の前に宣言したときには、最後のステージとして花を添えることも可能である。一方で、落選したのを契機に「勇退」を宣言するケースもある。常連歌手など功労者を落選させる場合、番組側が該当歌手の名誉のために、公式には「辞退した」ことにさせる場合がある\[16\]。
+
+なお、出場が正式決定してから辞退し、[代替出場](https://ja.wikipedia.org/wiki/代替出場 "wikilink")の歌手が立てられたケースは少ないものの、以下の事例がある。
+
+  - [第2回](https://ja.wikipedia.org/wiki/第2回NHK紅白歌合戦 "wikilink")（[1952年](../Page/1952年.md "wikilink")） [松島詩子](../Page/松島詩子.md "wikilink") - 本番当日に[交通事故](../Page/交通事故.md "wikilink")で負傷したため。代役は[越路吹雪](../Page/越路吹雪.md "wikilink")。
+  - [第6回](https://ja.wikipedia.org/wiki/第6回NHK紅白歌合戦 "wikilink")（[1955年](../Page/1955年.md "wikilink")） [サンディー・シムス](https://ja.wikipedia.org/wiki/サンディー・シムス "wikilink") - [飛行機](../Page/飛行機.md "wikilink")が[欠航](https://ja.wikipedia.org/wiki/欠航 "wikilink")した影響で、本番当日までに滞在先の[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")\[17\]から[東京](../Page/東京.md "wikilink")に戻れず。代役は[芦野宏](https://ja.wikipedia.org/wiki/芦野宏 "wikilink")。
+  - [第7回](https://ja.wikipedia.org/wiki/第7回NHK紅白歌合戦 "wikilink")（[1956年](../Page/1956年.md "wikilink")） [雪村いづみ](https://ja.wikipedia.org/wiki/雪村いづみ "wikilink") - 本番当日の急病（[胃痙攣](https://ja.wikipedia.org/wiki/胃炎 "wikilink")）のため。代役は間に合わず、雪村の親友である[江利チエミ](https://ja.wikipedia.org/wiki/江利チエミ "wikilink")が出場者の印の赤い花を2つ胸につけて出場。
+  - [第21回](https://ja.wikipedia.org/wiki/第21回NHK紅白歌合戦 "wikilink")（[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")） [江利チエミ](https://ja.wikipedia.org/wiki/江利チエミ "wikilink") - 「ヒット曲がない」という歌手側の意向。代役は[日吉ミミ](https://ja.wikipedia.org/wiki/日吉ミミ "wikilink")。
+  - [第22回](https://ja.wikipedia.org/wiki/第22回NHK紅白歌合戦 "wikilink")（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")） [内山田洋とクール・ファイブ](https://ja.wikipedia.org/wiki/内山田洋とクール・ファイブ "wikilink") - ボーカルの[前川清](https://ja.wikipedia.org/wiki/前川清 "wikilink")の急病\[18\]。代役は[フォーリーブス](https://ja.wikipedia.org/wiki/フォーリーブス "wikilink")。
+  - [第37回](https://ja.wikipedia.org/wiki/第37回NHK紅白歌合戦 "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")） [北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")・[山本譲二](https://ja.wikipedia.org/wiki/山本譲二 "wikilink")・[鳥羽一郎](https://ja.wikipedia.org/wiki/鳥羽一郎 "wikilink") - 北島と山本はこの年の年初に[暴力団](https://ja.wikipedia.org/wiki/暴力団 "wikilink")[稲川会](https://ja.wikipedia.org/wiki/稲川会 "wikilink")の[新年会](https://ja.wikipedia.org/wiki/新年会 "wikilink")に招かれていたことが発覚したことにより辞退。鳥羽と[角川博](https://ja.wikipedia.org/wiki/角川博 "wikilink")が代役として出場が決定するも、鳥羽が自身も過去に稲川会と関わりがあったことから、NHKの偽善を批判し辞退。鳥羽の代役は[シブがき隊](https://ja.wikipedia.org/wiki/シブがき隊 "wikilink")。
+  - [第39回](https://ja.wikipedia.org/wiki/第39回NHK紅白歌合戦 "wikilink")（[1988年](../Page/1988年.md "wikilink")） [田原俊彦](../Page/田原俊彦.md "wikilink") - 当初、レコード会社・所属事務所の同意を得てNHKが出場を決定したが、田原本人が「紅白は卒業した」として辞退を表明。代役は[男闘呼組](https://ja.wikipedia.org/wiki/男闘呼組 "wikilink")。
+  - [第42回](https://ja.wikipedia.org/wiki/第42回NHK紅白歌合戦 "wikilink")（[1991年](../Page/1991年.md "wikilink")） [HOUND DOG](../Page/HOUND_DOG.md "wikilink") - 歌唱曲の選曲をめぐってNHKとの間でトラブルとなり辞退。代役は[バブルガム・ブラザーズ](https://ja.wikipedia.org/wiki/バブルガム・ブラザーズ "wikilink")。
+  - [第55回](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")（[2004年](../Page/2004年.md "wikilink")） [後浦なつみ](https://ja.wikipedia.org/wiki/後浦なつみ "wikilink") - [安倍なつみ](../Page/安倍なつみ.md "wikilink")の詩の[盗作](https://ja.wikipedia.org/wiki/盗作 "wikilink")発覚により辞退。残りの2人（[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")と[松浦亜弥](../Page/松浦亜弥.md "wikilink")）でユニット名も改めて（後藤真希&松浦亜弥として。記録上はそれぞれをソロ歌手扱いとした）出場。
+
+サンディー・シムス、HOUND DOG、後浦なつみは選出されたのがこの1回のみで、幻の出場となっている（後浦なつみについてはメンバー3人が別名義で出場経験あり）。このほか、出場する予定だったグループの一部の人物が病気・負傷・不祥事などの理由により欠場・出演辞退という事態になり、残りのメンバーで出場したケースも存在する。
+
+### ゲスト審査員
+
+その年を代表する著名人（芸能人・スポーツ関係者・音楽関係者・[文化人](https://ja.wikipedia.org/wiki/文化人 "wikilink")・メディア関係者など）が10人前後起用されることが恒例である。審査への参加だけでなく放送内で随所で司会者とのトークが挟まれ、番組の進行にも関わる。[第55回](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")（[2004年](../Page/2004年.md "wikilink")）までは「特別審査員」と呼ばれており、またNHK番組制作局長が「審査委員長」と呼ばれていた。
+
+ゲスト審査員の発表はもっとも遅く、12月下旬に行われる。一番起用される可能性が高いのは、翌年の『[大河ドラマ](../Page/大河ドラマ.md "wikilink")』（まれに当該年度or次年度・前期の『[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")』）の主演者であり、司会や歌手に選ばれた場合を除き、ほぼ毎年審査員となっている。スポーツ関係では、[プロ野球](../Page/プロ野球.md "wikilink")の[日本シリーズ](https://ja.wikipedia.org/wiki/日本シリーズ "wikilink")優勝チームの監督や主力選手、[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")の看板力士（その年に新横綱、新大関になった力士など）が多い。[オリンピックのメダル獲得者は](../Page/近代オリンピック.md "wikilink")、競技と無関係の場への登場をよしとしない[日本体育協会](https://ja.wikipedia.org/wiki/日本体育協会 "wikilink")の意向から当初は選出されなかった。初例は[第35回](https://ja.wikipedia.org/wiki/第35回NHK紅白歌合戦 "wikilink")（[1984年](../Page/1984年.md "wikilink")）における[江上由美](https://ja.wikipedia.org/wiki/江上由美 "wikilink")（[ロサンゼルスオリンピック女子](https://ja.wikipedia.org/wiki/ロサンゼルスオリンピック_\(1984年\) "wikilink")[バレーボール](../Page/バレーボール.md "wikilink")・銅メダル）で、以後は選出が恒例となる（オリンピック開催前年にメダルを期待される選手・監督が起用されることもある）。
+
+### その他の出演者
+
+上記のメイン出演者以外に、さまざまな著名人がゲストとして出演する\[19\]。ジャンルとしては、歌手や楽曲と関連する人物の応援、楽曲提供者などの演奏参加、会場外からの中継の進行役（大抵はNHKアナウンサー）などさまざまである。また、その年ブレイクした若手のお笑いタレントが幕間でネタ見せするのも定番である。主要ゲストについては、本番前に逐一出演が発表されていく。
+
+また、大晦日の祝祭ということで、民放の現職アナウンサーのNHK出演も特例で実現している。
+
+  - [中村仁美](https://ja.wikipedia.org/wiki/中村仁美 "wikilink")（当時[フジテレビ所属](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - [第59回](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）、[羞恥心](../Page/羞恥心_\(ユニット\).md "wikilink") With [Pabo](https://ja.wikipedia.org/wiki/Pabo "wikilink")の応援。
+  - [羽鳥慎一](https://ja.wikipedia.org/wiki/羽鳥慎一 "wikilink")（当時[日本テレビ所属](../Page/日本テレビ放送網.md "wikilink")） - [第60回](https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦 "wikilink")（[2009年](../Page/2009年.md "wikilink")）、[FUNKY MONKEY BABYSの応援](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")。
+
+第61回（2010年）からは、『紅白ウラトーク』が開始。会場座席の一部にセットを組み、放送時間中そこからのトークを副音声で放送し続ける。専属のMC（タレントとNHKアナウンサー）がおり、歌手、ゲストが入れ替わり立ち代わり出演する。
+
+## 番組の流れ
+
+### 本番まで
+
+両組司会は（特にタレントの場合）、本番までNHK関連の仕事が入る。各[テレビ情報誌](https://ja.wikipedia.org/wiki/テレビ情報誌 "wikilink")の年末年始号の表紙に起用されることも多い（紅白の司会を務めるにあたってのインタビューも掲載される）ほか、両組司会を表紙にした[テレホンカード](../Page/テレホンカード.md "wikilink")や[図書カード](https://ja.wikipedia.org/wiki/図書カード "wikilink")も発売される。
+
+出場歌手の曲目や曲順は原則すべて公開されており、曲目は12月中旬、曲順は12月下旬に発表される。
+
+  - 原則、1組1曲、その年に発表された自身の持ち歌を披露する。
+  - 演出上アレンジされたバージョンを披露する場合、「曲目」は元の曲名をアレンジしたもの（年号を振る、「紅白バージョン」などの副題をつけるなど）になることがある。
+  - 1年でヒット作を連発した歌手や数年越しの出演となる大物歌手は、メドレーとして2曲以上披露することもある。このときはあくまでメドレー自体の「曲目」になり、"メドレー"や"紅白スペシャル"など、披露曲がわからないことがある。
+  - 演出の都合上、過去の楽曲を披露することもある。特に、本人への支持は強いが新曲のセールスは振るわないベテラン演歌歌手などは往年のヒット曲を何度も歌唱することが多い。最多歌唱回数は「[天城越え](https://ja.wikipedia.org/wiki/天城越え_\(曲\) "wikilink")」の11回、次いで「[津軽海峡・冬景色](https://ja.wikipedia.org/wiki/津軽海峡・冬景色 "wikilink")」の10回で、この2曲を歌う[石川さゆり](https://ja.wikipedia.org/wiki/石川さゆり "wikilink")は[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")）以降10年以上両曲を隔年で歌い続けている。
+  - NHK特有の事情（歌詞や歌い方に性的な連想をさせたり、[任侠](https://ja.wikipedia.org/wiki/任侠 "wikilink")ものの楽曲であるなど）で選曲できないこともある\[20\]。
+  - カバー曲のヒットや追悼企画などで、自身の持ち歌以外の歌を披露する例もあり、複数の出場歌手により歌唱された楽曲も存在する。
+  - 選曲権は基本的に歌手側には与えられない。このことが歌手から反発を買うことがあり、[第42回](https://ja.wikipedia.org/wiki/第42回NHK紅白歌合戦 "wikilink")（[1991年](../Page/1991年.md "wikilink")）では披露曲をめぐって番組側と対立した[HOUND DOGが出場を辞退した](../Page/HOUND_DOG.md "wikilink")。[布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink")は番組勇退の理由のひとつに「（自身の）歌唱曲が固定している」ことを挙げている。
+
+12月下旬に入ると、紅白のPR特番が多く組まれることも恒例で、司会者をはじめその年の紅白の出演者や紅白の関係者がゲストに招かれる。過去紅白の[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")や名場面放映を中心とした番組もある（いずれもBS2『[思い出の紅白歌合戦](https://ja.wikipedia.org/wiki/思い出の紅白歌合戦 "wikilink")』や『[あなたが選ぶ思い出の紅白・感動の紅白](https://ja.wikipedia.org/wiki/あなたが選ぶ思い出の紅白・感動の紅白 "wikilink")』など）。
+
+会場と楽屋を結ぶ下手側の通路の角に神棚があり、リハーサル開始前には神主を呼び、スタッフ勢ぞろいで成功祈願を行う。歌手はリハの合間に無事歌唱祈願するのが習わしである\[21\]。
+
+本番2日前には台本が完成し、リハーサルが始まる。台本は非常に厚く、トークも含めてすべてト書きされており秒単位での進行が組まれている。ただし一部の演出については、詳細を台本では白紙扱いにし（出場歌手や司会者にも伏せられる場合あり）、本番までシークレットにするものもある。
+
+リハーサルと並行して司会者と出場歌手で面談が行われる。その面談では、司会者側より出場歌手に本番内での曲紹介の内容について説明したり、出場歌手側より司会者に自身の曲紹介をするにあたっての依頼や自身の歌唱にあたっての思い入れ・エピソードなどを語ったりする\[22\]\[23\]。この面談の内容が本番内で披露されることもある。また、メディア記者もNHKホールに詰め、リハーサル・本番の合間を縫って出演者への取材（ぶら下がり形式）が元日未明まで行われる。おもに、同年の総括や翌年への抱負が述べられるのが恒例である\[24\]。
+
+NHK側からは弁当などの提供は原則としてなく、変わりに司会者、歌手が差し入れを行うことが慣例である。
+
+### 放送の進行
+
+番組のオープニングおよびエンディングでは、歌手全員がステージに登場する。かつてはオープニングではステージに向かって出場歌手が入場行進をすることが基本であり、放送開始から[第32回](https://ja.wikipedia.org/wiki/第32回NHK紅白歌合戦 "wikilink")（[1981年](../Page/1981年.md "wikilink")）、[第36回](https://ja.wikipedia.org/wiki/第36回NHK紅白歌合戦 "wikilink")（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）から[第38回](https://ja.wikipedia.org/wiki/第38回NHK紅白歌合戦 "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）、[第40回](https://ja.wikipedia.org/wiki/第40回NHK紅白歌合戦 "wikilink")（[1989年](../Page/1989年.md "wikilink")）、[第47回](https://ja.wikipedia.org/wiki/第47回NHK紅白歌合戦 "wikilink")（[1996年](../Page/1996年.md "wikilink")）から[第48回](https://ja.wikipedia.org/wiki/第48回NHK紅白歌合戦 "wikilink")（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）まで「[乾杯の歌](https://ja.wikipedia.org/wiki/乾杯の歌_\(ドイツ民謡\) "wikilink")」を入場行進曲に使用していた。
+
+タレントの両組司会は、オープニングは両組の色の晴れ着姿\[25\]で登場する。総合司会は、男性アナウンサーの場合はスーツ、女性アナウンサーの場合はドレスを着用する（以降、スーツの場合を除き数度の衣装替えがある）。各司会の紹介\[26\]を経て、そのまま最初の歌手の曲紹介へと入る。
+
+原則として、紅・白両組の歌手が1組ずつ対決する形式である。歌唱時間は1回につき1組3分程度が定番\[27\]だが、その回の目玉の歌手、楽曲においては優遇され、最長では10分近いこともある。一方で、さほどトピックスのない歌手の場合は2分弱まで短縮される。両組間の順番が途中で入れ替わることがあり、「攻守交替」と呼ばれる。
+
+2000年代以降はこの対戦形式の原則に入らない事例も多くなり、対戦の途中に特別コーナーが入る例、対戦相手がいない例、歌唱順の対戦相手と演出上の対戦相手が異なる例\[28\]、正規の対戦歌手とカウントされないながらも対戦枠に組み込まれる例\[29\]などがある。さらに演出上、別々に出場したソロ歌手やグループが組んで1パッケージで登場することもあり、これらが原因で両軍で出場者数が異なる年もある。
+
+4組程度の歌唱が終わったところで、原則総合司会のアナウンサーがゲスト審査員を紹介\[30\]、また審査方法や総合テレビの生中継以外のメディア展開（ラジオブースや裏トークチャンネル、パブリックビューイングなど）を説明する。司会の定位置は舞台脇の花道部分であり、ここで曲紹介やほかの出演者とのトークを行う。舞台は紅組が下手、白組が上手に割り当てられており（[第4回](https://ja.wikipedia.org/wiki/第4回NHK紅白歌合戦 "wikilink")〈[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")〉のみ逆）、番組前期は曲紹介も両方の花道で別々に行われていたが、NHKホールは楽屋が下手側にあるため、のちに白組も最初と最後の2組程度以外は下手側で行うようになった。以降原則両組司会が番組進行を担当し、総合司会のアナウンサーは要所要所で両者の進行を補助する。
+
+原則出演歌手は中継も含めて生放送内で歌唱するが、録画出演もまれに行われる\[31\]。
+
+舞台転換やステージの演出にも凝っており、時にはワンステージのために多額の費用や長時間を費やすこともある。3Dマッピングなど、最新の映像技術も駆使される。歌手側も、「豪華衣装」が目玉となった[小林幸子](../Page/小林幸子.md "wikilink")と[美川憲一](../Page/美川憲一.md "wikilink")を筆頭に、晴れの紅白のために多額の自己負担をする場合がある。
+
+歌の間にはその年のトレンドやテーマに沿ったコーナーがあり、歌手有志が参加する。NHKの人気番組が取り上げられることも多いほか、[オリンピックなどスポーツにちなんだ演出が行われることもある](../Page/近代オリンピック.md "wikilink")。また、正規のステージにおいても歌手間での「応援」がある。特に2010年代以降では、視聴率の都合上、人気の高いポップス歌手を随所に登場させる（演歌歌手の演出としてのバックダンサーなど）演出がなされる。その年に亡くなった著名人の追悼企画が行われることも多い。
+
+会場の観覧者には[ペンライト](https://ja.wikipedia.org/wiki/ペンライト "wikilink")、[LEDライト](https://ja.wikipedia.org/wiki/LED照明 "wikilink")、[リアルタイムARシステム](../Page/拡張現実.md "wikilink")、[サイリューム](https://ja.wikipedia.org/wiki/ケミカルライト "wikilink")、[造花](../Page/造花.md "wikilink")、お面などの小道具が配られ、番組側の指示などに従って演出に参加する。出場歌手にもペンライトを配って、ステージ上で使用させることもある。
+
+その年内をもっての引退・休業を発表した歌手や解散・活動休止を決定した[バンド](../Page/バンド_\(音楽\).md "wikilink")・グループが選出された場合、「ラストステージ」として注目される\[32\]。歌手の側も、区切りとして「活動年内限り」とする場合が多いため、視聴率の高い紅白が最後の舞台として選択されやすい。
+
+両組最後に登場する歌手は「トリ」（後に登場する側は「大トリ」）として、特別に注目を集める。通常、ベテラン、大御所と呼ばれる歌手が選出される。まれに若手歌手が選出されると、「大抜擢」と表現される。最後の数組の歌唱の際には、出場歌手も両方の花道に並ぶ。
+
+トリは番組初期は演歌が流行していたこともあり、長らく演歌歌手が独占していた。初めて両組ともにポップス歌手から起用されたのは、演歌が記録的に不作であった[第29回](https://ja.wikipedia.org/wiki/第29回NHK紅白歌合戦 "wikilink")（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")）の[山口百恵](../Page/山口百恵.md "wikilink")と[沢田研二](../Page/沢田研二.md "wikilink")である（山口百恵は当時19歳であり史上最年少）。その後、演歌の人気が低下してもこの傾向は変わらず、また演歌歌手も出演歌手中「大御所」の位置にあったため、トリを飾るには違和感がなかったこともある。ポップス歌手のトリが増えたのは、演歌歌手の出場が減った2000年代後半からである。ポップス歌手においても、[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")、[高橋真梨子](https://ja.wikipedia.org/wiki/高橋真梨子 "wikilink")、[松田聖子](../Page/松田聖子.md "wikilink")など、ベテラン歌手の起用が多い。
+
+  - トリ歌手は「ソロ歌手でなくてはいけない」という慣例が存在したとされる。[第43回](https://ja.wikipedia.org/wiki/第43回NHK紅白歌合戦 "wikilink")（[1992年](../Page/1992年.md "wikilink")）にトリをとった[由紀さおり](https://ja.wikipedia.org/wiki/由紀さおり "wikilink")は、例年[安田祥子](https://ja.wikipedia.org/wiki/安田祥子 "wikilink")とのデュエットでの出場が定番だったが、この年のみソロで出場している（安田はコーラスに回る）。グループでのトリは、[第54回](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")（[2003年](../Page/2003年.md "wikilink")）の[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")が最初である。
+  - [第35回](https://ja.wikipedia.org/wiki/第35回NHK紅白歌合戦 "wikilink")（[1984年](../Page/1984年.md "wikilink")）で引退前最後のステージとして[都はるみ](https://ja.wikipedia.org/wiki/都はるみ "wikilink")が大トリを務めた際、歌唱後に会場からアンコールが行われ、特別にリストにはない2曲目が披露された\[33\]。
+  - 演歌歌手がトリの時には、アウトロが華やかなファンファーレになるよう編曲されている。
+  - [第64回](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink")（[2013年](../Page/2013年.md "wikilink")）ではトリが変則的で、正規のトリとして[高橋真梨子](https://ja.wikipedia.org/wiki/高橋真梨子 "wikilink")・[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の歌唱後に、同回で勇退の[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")のステージ（「究極の大トリ」と位置づられた）となった。
+  - [第69回](https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦 "wikilink")（[2018年](../Page/2018年.md "wikilink")）では正規のトリとして[石川さゆり](https://ja.wikipedia.org/wiki/石川さゆり "wikilink")・[嵐の歌唱後に](../Page/嵐_\(グループ\).md "wikilink")、特別出演する[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")のステージ（前述の北島同様、「究極の大トリ」との位置づけ）となった。
+
+勝敗はゲスト審査員と会場の観客および地上デジタルテレビ放送の双方向システムや[携帯電話](../Page/携帯電話.md "wikilink")を利用した視聴者の投票で決定する。審査とその結果の発表方式は回によって異なる。長らくは、全歌手の歌唱後のゲスト審査員と観客の投票で決まっていたが、21世紀に入ると会場外の一般視聴者からの投票も加わる（第1部終了時と合わせて2度）。一般視聴者の票は集計に時間がかかるため、第1部では残り2組（1対戦分）になったところで総合司会のアナウンサーが投票を呼びかけ、2組の歌唱中に投票と集計、ニュース直前に結果を表示する。最終投票時は、投票中に「ハイライト」として、全歌手の歌唱シーンのダイジェスト（1組数秒、トータルで3分弱）を流すか、最後に全員歌唱で1曲が入る。投票中に、審査員やゲストを含め出演者全員（年齢制限の関係上、実際にステージ上にいるのは18歳以上の出演者に限る）がステージ上に上がる。
+
+優勝（勝利）チームが決定すると、テレビ画面には「**○組優勝\!\!**」の字幕スーパーが出て、天井から大量の[紙吹雪](https://ja.wikipedia.org/wiki/紙吹雪 "wikilink")がステージ一杯に降る（[第19回](https://ja.wikipedia.org/wiki/第19回NHK紅白歌合戦 "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）から。第19回は風船も一緒に降っていた。ちなみに初期のころはステージに紙テープを投げたり、天井から紙テープのみが降ったり（[第14回](https://ja.wikipedia.org/wiki/第14回NHK紅白歌合戦 "wikilink")（[1963年](../Page/1963年.md "wikilink")）～[第18回](https://ja.wikipedia.org/wiki/第18回NHK紅白歌合戦 "wikilink")（[1967年](../Page/1967年.md "wikilink")））、くす玉が割れて、紙吹雪・紙テープ・風船が降る演出（[第6回](https://ja.wikipedia.org/wiki/第6回NHK紅白歌合戦 "wikilink")（[1955年](../Page/1955年.md "wikilink")）・[第11回](https://ja.wikipedia.org/wiki/第11回NHK紅白歌合戦 "wikilink")（[1960年](../Page/1960年.md "wikilink")）・[第12回](https://ja.wikipedia.org/wiki/第12回NHK紅白歌合戦 "wikilink")（[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")））があった。[テレビ番組](../Page/テレビ番組.md "wikilink")での先駆けである）。ただ、2000年代ごろからは紙吹雪が優勝決定時には降らず、エンディングの「蛍の光」の場面で降る。そして、優勝組の司会者（キャプテン）に優勝旗が授与される（優勝旗授与を行う人物は回によって異なる。大抵はゲスト審査員のうちの1人）。また、この優勝旗には歴代の優勝チームの色のリボンが飾られている。1950年代ごろは、優勝チームが決定した直後に[軍歌](../Page/軍歌.md "wikilink")「[凱旋](https://ja.wikipedia.org/wiki/凱旋 "wikilink")」が合唱されるのが恒例だった。
+
+フィナーレは第4回以降、一部の回を除き「[蛍の光](https://ja.wikipedia.org/wiki/蛍の光 "wikilink")」を出演者（出場歌手・司会者・ゲスト審査員・ゲスト・合唱団など）ならびに会場の観客で大合唱されることが恒例である。この場面のみに指揮者として参加する音楽家がいる。
+
+  - [藤山一郎](https://ja.wikipedia.org/wiki/藤山一郎 "wikilink")は、逝去する前年の[第43回](https://ja.wikipedia.org/wiki/第43回NHK紅白歌合戦 "wikilink")（[1992年](../Page/1992年.md "wikilink")）まで合唱の指揮者を務めた（[第22回](https://ja.wikipedia.org/wiki/第22回NHK紅白歌合戦 "wikilink")（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")）は[岩城宏之](../Page/岩城宏之.md "wikilink")が務めたが、総合指揮者として藤山も出演）。
+  - 藤山の逝去後、[第44回](https://ja.wikipedia.org/wiki/第44回NHK紅白歌合戦 "wikilink")（[1993年](../Page/1993年.md "wikilink")）から[第56回](https://ja.wikipedia.org/wiki/第56回NHK紅白歌合戦 "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）まで[宮川泰](../Page/宮川泰.md "wikilink")が務めた。
+  - 宮川の逝去後、[第57回](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦 "wikilink")（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")）から[第67回](https://ja.wikipedia.org/wiki/第67回NHK紅白歌合戦 "wikilink")（[2016年](../Page/2016年.md "wikilink")）まで[平尾昌晃](../Page/平尾昌晃.md "wikilink")が務めた。
+  - 平尾の逝去後、[第68回](https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦 "wikilink")（[2017年](../Page/2017年.md "wikilink")）は[都倉俊一](https://ja.wikipedia.org/wiki/都倉俊一 "wikilink")が指揮を務める\[34\]。
+
+「蛍の光」大合唱が終わると番組オリジナルアレンジの大エンディング生演奏が25秒～30秒流れ、曲終わりでの余韻を残したあとにステージ演出用ミサイル型[クラッカーがステージ上手](https://ja.wikipedia.org/wiki/クラッカー_\(パーティーグッズ\) "wikilink")、下手から客席上に打ち上げられ\[35\]、そこで番組が終了する。
+
+### 放送後
+
+放送終了後にはNHK放送センターの1階食堂で出場歌手と司会者で打ち上げ会が行われる\[36\]\[37\]。
+
+1月2日ごろに視聴率が発表され各メディアで話題になる。あわせて1分単位の視聴率も発表されるため、「最高視聴率を獲得したのは誰か」も興味の的になる。通常、トリまたはその付近の歌手が獲得する。
+
+## 歴史
+
+### 開始当初 - 1960年代
+
+  - [第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")終結直後の[1945年](../Page/1945年.md "wikilink")の大晦日に『[紅白音楽試合](https://ja.wikipedia.org/wiki/紅白音楽試合 "wikilink")』という[ラジオ番組](../Page/ラジオ番組.md "wikilink")が放送された（『紅白音楽試合』は非公開番組だった）。番組は「新時代にふさわしい音楽番組を作ろう」と考えたディレクターの[近藤積](../Page/近藤積.md "wikilink")の発案であった。近藤は[剣道](../Page/剣道.md "wikilink")の紅白試合を念頭に置きつつ、「Speed, Sexuality, Sports」という娯楽の3要素を取り入れた番組を制作しようとした。当初は『紅白音楽合戦』の番組名で放送する予定だった\[38\]が、[GHQが](../Page/連合国軍最高司令官総司令部.md "wikilink")「敗戦国がバトルとは何事だ」との判断を下し、仕方がなく、バトルから試合という意味のマッチに変えたというものである。勝敗の判定や審査員はなく、応援団に相当する者も存在しなかったという。当時は大晦日に終夜電車はなく、終電に間に合わない歌手は[NHK東京放送会館](../Page/NHK東京放送会館.md "wikilink")の音楽部の部屋の椅子でざこ寝をしてもらっていた\[39\]。音楽試合ということから歌以外の出場者も登場し、[木琴](https://ja.wikipedia.org/wiki/木琴 "wikilink")、[マンドリン](../Page/マンドリン.md "wikilink")、[尺八](../Page/尺八.md "wikilink")による曲を披露した（ただし先述の通り、この『NHK紅白歌合戦』でも楽器演奏者・グループの出場は可能である）。[川田正子](https://ja.wikipedia.org/wiki/川田正子 "wikilink")が歌った「[汽車ポッポ](https://ja.wikipedia.org/wiki/汽車ポッポ "wikilink")」は元は「兵隊さんの汽車」という戦時童謡であったが、近藤が作詞者・[富原薫](https://ja.wikipedia.org/wiki/富原薫 "wikilink")に依頼して「兵隊さん 兵隊さん 万々歳」を「鉄橋だ 鉄橋だ 楽しいな」にするなどの変更を加えた。また、大ヒットした「[リンゴの唄](../Page/リンゴの唄.md "wikilink")」で同年の新人・[並木路子](https://ja.wikipedia.org/wiki/並木路子 "wikilink")がベテラン勢と肩を並べて出場した（川田・並木とも、のちの『NHK紅白歌合戦』には生涯出場していない）。
+      - この事実上の第1回の放送は大みそかの22時20分 - 24時00分（[元日](../Page/元日.md "wikilink")0時）での放送で「[年越し番組](https://ja.wikipedia.org/wiki/年越し番組 "wikilink")」であった。午前0時からは『[除夜の鐘](../Page/除夜の鐘.md "wikilink")』を放送し、これが『[ゆく年くる年](https://ja.wikipedia.org/wiki/ゆく年くる年 "wikilink")』の原型となる。
+  - あまりの好評となったが、当時は大晦日に同じ番組を続けるという発想はなく（当時同じ内容のものを翌年も放送するのは能なしと見なされていたという）、[1946年](../Page/1946年.md "wikilink")以降の大みそか番組として『紅白音楽試合』が編成されることはなかった。しかし、スタッフは『紅白音楽試合』の反響の大きさを忘れられず、放送の約5年後の[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")、「大みそかの番組でなければいいだろう」と正月番組として『[第1回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第1回NHK紅白歌合戦 "wikilink")』を放送した\[40\]。なお、第1回の出場歌手は全員[1950年](../Page/1950年.md "wikilink")12月31日放送のNHK『明星祭』に出演しなかった者である。
+  - [第1回](https://ja.wikipedia.org/wiki/第1回NHK紅白歌合戦 "wikilink")（[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")）においては、放送前に出場歌手の曲目や曲順は公表されなかった\[41\]（出場歌手は公表されており、放送前の1951年[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")付の『[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")』の番組紹介記事に出場歌手名の記載がある\[42\]。対抗戦形式を意識し、紅組キャプテンの[渡辺はま子](https://ja.wikipedia.org/wiki/渡辺はま子 "wikilink")、白組キャプテンの[藤山一郎](https://ja.wikipedia.org/wiki/藤山一郎 "wikilink")がそれぞれ相手の出方を見ながら誰に何を歌わせるかを決めるというものだった\[43\]）。
+  - [第3回](https://ja.wikipedia.org/wiki/第3回NHK紅白歌合戦 "wikilink")（[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[1月2日](../Page/1月2日.md "wikilink")）までは正月番組として放送されていたが、同じ1953年の12月31日には[第4回が放送され](https://ja.wikipedia.org/wiki/第4回NHK紅白歌合戦 "wikilink")、この第4回を機に『紅白音楽試合』同様となる大みそかの放送が定着した。またこれにより1953年は放送が2回あった。なお、大みそかの開催を行った理由は当時年末年始には大みそかしか大規模な会場が開いていなかったことが一因という（番組側としても大みそかの方がトップ歌手を確保しやすいと踏んでいた）。ただ番組側は大みそかに観客が集まるか不安がったという。これはそれまで大みそか夜の催し物は絶対に当たらないという[ジンクス](https://ja.wikipedia.org/wiki/ジンクス "wikilink")があったためで、それを打破すべく第4回では出場歌手数を前回より5組増やす処置をとった。
+  - 正月開催時代、ステージ上方には「謹賀新年」のプレートが飾られていた。また正月開催時代では、[岡晴夫](https://ja.wikipedia.org/wiki/岡晴夫 "wikilink")、[田端義夫](https://ja.wikipedia.org/wiki/田端義夫 "wikilink")、[小畑実といった当時の人気歌手は正月公演のため](https://ja.wikipedia.org/wiki/小畑実_\(歌手\) "wikilink")、出場しなかったが\[44\]、これらの歌手も大みそか開催移行後に出場するようになった。
+  - 第3回から実況アナウンサーが登場するようになる。初期ではこのポジションは「スポーツ」がコンセプトのひとつであることから、一線級のスポーツアナウンサーが務めていた\[45\]。
+  - 第4回におけるテレビでの本放送開始と同時に視覚的な演出も行われるようになり、選手宣誓や優勝旗の返還や授与が開始された。同回より番組名に回数がカウントされるようになる。また初期3回はすべて白組優勝となったが、同回で紅組が初めて優勝を果たした。初めて敗北を喫した白組の出場歌手は口を揃えて「テレビは怖い。今回は（紅組女性軍の）衣装に負けた」と悔しがったという\[46\]。
+  - 紅組歌手の衣装重視傾向は、のちのカラー放送開始後はさらに拍車がかかった\[47\]。
+  - 1953年にNHKはテレビ本放送を開始したが、一般家庭へのテレビ普及には程遠く、テレビ番組として独自に制作をするには予算的にも厳しく、[NHKラジオ](https://ja.wikipedia.org/wiki/NHKラジオ "wikilink")の人気番組を中継するということがしばしば行われており、紅白もそのひとつだった。またしばらくはラジオが主でテレビが従という考え方で制作されていた\[48\]。
+  - 会場は初期3回までは[内幸町](../Page/内幸町.md "wikilink")にあった旧NHK東京放送会館だった。1953年12月・第4回のラジオ・テレビ同時中継開始以降は[東京宝塚劇場](https://ja.wikipedia.org/wiki/東京宝塚劇場 "wikilink")や[日本劇場](https://ja.wikipedia.org/wiki/日本劇場 "wikilink")（日劇）・[日比谷公会堂](https://ja.wikipedia.org/wiki/日比谷公会堂 "wikilink")・[産経ホール](https://ja.wikipedia.org/wiki/サンケイホール "wikilink")・[新宿コマ劇場](https://ja.wikipedia.org/wiki/新宿コマ劇場 "wikilink")\[49\]などを転々としたが、[第24回](https://ja.wikipedia.org/wiki/第24回NHK紅白歌合戦 "wikilink")（[1973年](../Page/1973年.md "wikilink")）以降は[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")に固定されている。なお、第72回（2021年）はNHKホールが耐震補強と設備更新などの工事で休館するため、[東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")で開催予定である。紅白歌合戦がNHKホール以外で行われるのは[第23回](https://ja.wikipedia.org/wiki/第23回NHK紅白歌合戦 "wikilink")（[1972年](../Page/1972年.md "wikilink")）の東京宝塚劇場以来49年ぶりである。
+  - 黎明期の紅白は映像はおろか音声すら現存しないとされてきた（第1回に至っては写真も現存しない）が、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")在住の一般男性が[第5回](https://ja.wikipedia.org/wiki/第5回NHK紅白歌合戦 "wikilink")（[1954年](../Page/1954年.md "wikilink")）からラジオ中継の音声を録音していた[オープンリール](../Page/オープンリール.md "wikilink")テープが[1999年](../Page/1999年.md "wikilink")末に発見され、NHKに提供された。同回以降、ラジオ中継の音声は、すべて上記の男性から提供されたものかどうかは詳細不明だが、[第13回](https://ja.wikipedia.org/wiki/第13回NHK紅白歌合戦 "wikilink")（[1962年](../Page/1962年.md "wikilink")）までのすべての回の音声が現存する。一方、現存する写真は[第2回](https://ja.wikipedia.org/wiki/第2回NHK紅白歌合戦 "wikilink")（[1952年](../Page/1952年.md "wikilink")）が最古で、以後、すべての回の写真が現存する。これは放送局用ビデオテープ（2インチVTR）は非常に高価で大型であり、収録された映像は放送終了後に消去されて他番組に使い回されていたためである。そして、現存する映像は全編だと[第14回](https://ja.wikipedia.org/wiki/第14回NHK紅白歌合戦 "wikilink")（[1963年](../Page/1963年.md "wikilink")）が最古で、[第13回](https://ja.wikipedia.org/wiki/第13回NHK紅白歌合戦 "wikilink")（[1962年](../Page/1962年.md "wikilink")）はラジオ中継の音声とともに当時のニュースでごく一部が紹介された映像が残っている。なお、[第15回](https://ja.wikipedia.org/wiki/第15回NHK紅白歌合戦 "wikilink")（[1964年](../Page/1964年.md "wikilink")）から[カラー放送となったが](https://ja.wikipedia.org/wiki/カラーテレビ "wikilink")、同回の映像はカラー・白黒とも現存せず、ラジオ中継の音声が現存する。第15回を除いた第14回以降の[1960年代](../Page/1960年代.md "wikilink")はすべての回の映像が現存するが、ほぼ白黒のみ（[第16回](https://ja.wikipedia.org/wiki/第16回NHK紅白歌合戦 "wikilink")（[1965年](../Page/1965年.md "wikilink")）は欠落部分があるがカラーVTRが、[第19回](https://ja.wikipedia.org/wiki/第19回NHK紅白歌合戦 "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）は保存状態はよくないがカラーフィルムも現存する）である。[第21回](https://ja.wikipedia.org/wiki/第21回NHK紅白歌合戦 "wikilink")（[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")）はカラーで現存するがフィルム映像で保存状態がよくなく、一部が欠落している。[第22回](https://ja.wikipedia.org/wiki/第22回NHK紅白歌合戦 "wikilink")（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")）はカラーのビデオ映像で現存するが保存状態のよくない部分がある。[第23回](https://ja.wikipedia.org/wiki/第23回NHK紅白歌合戦 "wikilink")（[1972年](../Page/1972年.md "wikilink")）からNHKがVTRで保存するようになり、同回以降の映像はすべて安定したカラーのビデオ映像で現存する。
+  - 初期回の音声をNHKラジオ（ラジオ第1、[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")）の特集番組\[50\]で紹介することがある。
+  - [第8回](https://ja.wikipedia.org/wiki/第8回NHK紅白歌合戦 "wikilink")（[1957年](../Page/1957年.md "wikilink")）まで出場歌手はソロ歌手に限られていた。しかし、[第9回](https://ja.wikipedia.org/wiki/第9回NHK紅白歌合戦 "wikilink")（[1958年](../Page/1958年.md "wikilink")）に[水谷良重](https://ja.wikipedia.org/wiki/水谷良重 "wikilink")・[東郷たまみ](https://ja.wikipedia.org/wiki/東郷たまみ "wikilink")・[沢たまき](../Page/沢たまき.md "wikilink")、[ダークダックス](https://ja.wikipedia.org/wiki/ダークダックス "wikilink")がグループとして初めて選出され、以後グループも多く出場するようになった。第13回（1962年）までグループは必ずグループと対戦する格好となっていた。
+  - 第14回（1963年）より、全国のファンからの関心が高まってきたことから当時の芸能局内に「紅白歌合戦実施委員会」を設置。毎年秋になると同時に実施の準備が始まることになる。
+  - [1950年代](../Page/1950年代.md "wikilink")の紅白では、外国曲の選曲が多く行われた\[51\]。
+  - 黎明期（第7回ごろ）までは戦前・戦中派の歌手も常連として名を連ねていたが、[第8回](https://ja.wikipedia.org/wiki/第8回NHK紅白歌合戦 "wikilink")（[1957年](../Page/1957年.md "wikilink")）をもって戦前からの第一人者的存在である[藤山一郎](https://ja.wikipedia.org/wiki/藤山一郎 "wikilink")が後進に道を譲る形で歌手としての出場を辞退。以後、回を重ねるごとに戦前派の歌手の名は消えていく。入れ替わるように、[第10回](https://ja.wikipedia.org/wiki/第10回NHK紅白歌合戦 "wikilink")（[1959年](../Page/1959年.md "wikilink")）では新世代デュオ歌手の[ザ・ピーナッツ](../Page/ザ・ピーナッツ.md "wikilink")が（姉妹または兄弟での出場はこれが初めて）、翌[第11回](https://ja.wikipedia.org/wiki/第11回NHK紅白歌合戦 "wikilink")（[1960年](../Page/1960年.md "wikilink")）では[御三家](../Page/御三家.md "wikilink")の筆頭として[1960年代](../Page/1960年代.md "wikilink")の歌謡界を牽引するスター歌手となる[橋幸夫](https://ja.wikipedia.org/wiki/橋幸夫 "wikilink")や、ロカビリーブームの第一人者である平尾昌章（現・[平尾昌晃](../Page/平尾昌晃.md "wikilink")）が、[第12回](https://ja.wikipedia.org/wiki/第12回NHK紅白歌合戦 "wikilink")（[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")）では当時NHKで放送中であった『[夢であいましょう](https://ja.wikipedia.org/wiki/夢であいましょう "wikilink")』内の「今月の歌」コーナーから誕生した「[上を向いて歩こう](https://ja.wikipedia.org/wiki/上を向いて歩こう "wikilink")」のヒットにより[坂本九](../Page/坂本九.md "wikilink")がそれぞれ初出場するなど、出場者の顔ぶれにも「世代交代」の色が年々強く反映されるようになっていく。そして[第13回](https://ja.wikipedia.org/wiki/第13回NHK紅白歌合戦 "wikilink")（[1962年](../Page/1962年.md "wikilink")）では前年まで連続出場していた[淡谷のり子](../Page/淡谷のり子.md "wikilink")、[林伊佐緒](https://ja.wikipedia.org/wiki/林伊佐緒 "wikilink")、[伊藤久男](https://ja.wikipedia.org/wiki/伊藤久男 "wikilink")が落選、完全に戦後派の歌手のみの顔ぶれとなった。
+  - [第11回](https://ja.wikipedia.org/wiki/第11回NHK紅白歌合戦 "wikilink")（[1960年](../Page/1960年.md "wikilink")）前後まで、同じレコード会社の歌手同士を対戦させるのは極力控えていたという。その後は同じレコード会社の歌手同士の対決も行われるようになったが、トリ対決についてはこの後もしばらくこの慣例が続いた。
+      - 紅組トリは第1回以降、[第27回](https://ja.wikipedia.org/wiki/第27回NHK紅白歌合戦 "wikilink")（[1976年](../Page/1976年.md "wikilink")）まで第4回を除き\[52\]一貫して[コロムビア所属の歌手が務めていた](../Page/日本コロムビア.md "wikilink")。この慣例により[村田英雄](../Page/村田英雄.md "wikilink")などのコロムビア所属の男性歌手は白組トリを務めることができなかった\[53\]。紅白史上初めてコロムビア所属の歌手が白組トリを務めるのは[第34回](https://ja.wikipedia.org/wiki/第34回NHK紅白歌合戦 "wikilink")（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）の[細川たかし](../Page/細川たかし.md "wikilink")まで待つことになる。
+  - [ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")社によるテレビ視聴率調査が第13回（1962年）から開始される（そして、いきなり80.4%を記録）。翌第14回（1963年）において、81.4%の視聴率を記録する\[54\]。これは、紅白史上およびビデオリサーチ社の全統計史上最高のテレビ視聴率である\[55\]。
+  - [美空ひばり](../Page/美空ひばり.md "wikilink")は第14回 - 第23回まで、一貫して紅組トリ（ほとんどの回で大トリ）を務めていた。しかし、先述の通り、翌[1973年](../Page/1973年.md "wikilink")に実弟が暴力団絡みの事件で逮捕されたことが発端となり、全国各地でひばり公演の開催中止が相次ぐなどして人気が急降下し、同年の[第24回も落選となった](https://ja.wikipedia.org/wiki/第24回NHK紅白歌合戦 "wikilink")（その後、[第30回](https://ja.wikipedia.org/wiki/第30回NHK紅白歌合戦 "wikilink")〈[1979年](../Page/1979年.md "wikilink")〉に藤山一郎とともに「30回記念特別ゲスト」扱いで1回のみ復帰、「[ひばりのマドロスさん](https://ja.wikipedia.org/wiki/ひばりのマドロスさん "wikilink")」「[リンゴ追分](https://ja.wikipedia.org/wiki/リンゴ追分 "wikilink")」「[人生一路](https://ja.wikipedia.org/wiki/花と炎/人生一路 "wikilink")」のメドレーを披露した）。
+  - [1960年代](../Page/1960年代.md "wikilink")のグループサウンズ全盛時代、長髪のグループは“不良”という意見が根強く、加えて当時のNHK会長の意向もあって一切出場できなかった。実際、NHK会長が「長い髪の毛のグループ・サウンズは出演させない」と発言し、国会で参考人招致される事態にまでなったほどである（[NHKの不祥事](https://ja.wikipedia.org/wiki/NHKの不祥事 "wikilink")参照）。[第18回](https://ja.wikipedia.org/wiki/第18回NHK紅白歌合戦 "wikilink")（[1967年](../Page/1967年.md "wikilink")）の[ザ・タイガース](../Page/ザ・タイガース.md "wikilink")はその一例である。出演できたのは短髪の[ジャッキー吉川とブルー・コメッツ](../Page/ジャッキー吉川とブルー・コメッツ.md "wikilink")のみであった。時が経ち、演歌歌手やアイドルが長髪にするケースも出たため当然ながら長髪は解禁になった。
+  - [沖縄県](../Page/沖縄県.md "wikilink")は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の施政権下にあったため、第15回（1964年）まではテレビで中継ができなかった。本土と沖縄を結ぶテレビ中継用マイクロケーブルが完成した翌第16回（1965年）からテレビは[沖縄テレビ](../Page/沖縄テレビ放送.md "wikilink")、ラジオは[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")がそれぞれ[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")をつけるという形で放送を開始した。テレビは1968年に[沖縄放送協会](../Page/沖縄放送協会.md "wikilink")の中央放送局がテレビ放送を開始すると同年の第19回から同局での放送となり、1972年の本土復帰で[NHK沖縄放送局](../Page/NHK沖縄放送局.md "wikilink")としての放送となった。ラジオは1972年にNHK沖縄放送局がラジオ放送再開すると同年の第23回から同局での放送となった。
+  - [第20回](https://ja.wikipedia.org/wiki/第20回NHK紅白歌合戦 "wikilink")（[1962年](../Page/1962年.md "wikilink")）よりオープニングの入場行進時に出場歌手名がテロップで流れるようになった。また[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")から[TBS系列](../Page/TBSテレビ.md "wikilink")『[日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")』も同日の19時から21時に開催・テレビ生中継されるようになり、歌手の『レコード大賞』から紅白への移動が始まった（この大移動は『日本レコード大賞』の開催日変更により[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")で終了した）。この時期では、『レコード大賞』と同じ衣装で出演する歌手も存在した。
+  - 1960年代後半から[1970年代](../Page/1970年代.md "wikilink")にかけて、ステージの後ろに出場歌手が並んで座る「歌手席」が設けられることが一般的だった。
+  - 詳細は以下を参照。
+
+<!-- end list -->
+
+  -
+    [1951年](https://ja.wikipedia.org/wiki/第1回NHK紅白歌合戦 "wikilink") [1952年](https://ja.wikipedia.org/wiki/第2回NHK紅白歌合戦 "wikilink") [1953年1月](https://ja.wikipedia.org/wiki/第3回NHK紅白歌合戦 "wikilink") [1953年12月](https://ja.wikipedia.org/wiki/第4回NHK紅白歌合戦 "wikilink") [1954年](https://ja.wikipedia.org/wiki/第5回NHK紅白歌合戦 "wikilink") [1955年](https://ja.wikipedia.org/wiki/第6回NHK紅白歌合戦 "wikilink") [1956年](https://ja.wikipedia.org/wiki/第7回NHK紅白歌合戦 "wikilink") [1957年](https://ja.wikipedia.org/wiki/第8回NHK紅白歌合戦 "wikilink") [1958年](https://ja.wikipedia.org/wiki/第9回NHK紅白歌合戦 "wikilink") [1959年](https://ja.wikipedia.org/wiki/第10回NHK紅白歌合戦 "wikilink") [1960年](https://ja.wikipedia.org/wiki/第11回NHK紅白歌合戦 "wikilink") [1961年](https://ja.wikipedia.org/wiki/第12回NHK紅白歌合戦 "wikilink") [1962年](https://ja.wikipedia.org/wiki/第13回NHK紅白歌合戦 "wikilink") [1963年](https://ja.wikipedia.org/wiki/第14回NHK紅白歌合戦 "wikilink") [1964年](https://ja.wikipedia.org/wiki/第15回NHK紅白歌合戦 "wikilink") [1965年](https://ja.wikipedia.org/wiki/第16回NHK紅白歌合戦 "wikilink") [1966年](https://ja.wikipedia.org/wiki/第17回NHK紅白歌合戦 "wikilink") [1967年](https://ja.wikipedia.org/wiki/第18回NHK紅白歌合戦 "wikilink") [1968年](https://ja.wikipedia.org/wiki/第19回NHK紅白歌合戦 "wikilink") [1969年](https://ja.wikipedia.org/wiki/第20回NHK紅白歌合戦 "wikilink")
+
+### 1970年代 - 1990年代
+
+  - [1970年代](../Page/1970年代.md "wikilink")になると[新三人娘](https://ja.wikipedia.org/wiki/新三人娘 "wikilink")、[新御三家](https://ja.wikipedia.org/wiki/新御三家 "wikilink")、[花の高一トリオに代表されるアイドルの台頭](../Page/花の中三トリオ.md "wikilink")、[フォークおよび](../Page/フォークソング.md "wikilink")[ニューミュージック](../Page/ニューミュージック.md "wikilink")、[ロックグループの人気によって](../Page/ロック_\(音楽\).md "wikilink")、紅白で歌われる曲の質は一変した。
+  - 公共放送であるNHKは番組中で商品名の使用を規制しているが、かつてはその規制も特に厳しく、紅白でも歌詞に関するトラブルが起こった。[第24回](https://ja.wikipedia.org/wiki/第24回NHK紅白歌合戦 "wikilink")（[1973年](../Page/1973年.md "wikilink")）に[かぐや姫の](https://ja.wikipedia.org/wiki/かぐや姫_\(フォークグループ\) "wikilink")『[神田川](https://ja.wikipedia.org/wiki/神田川_\(曲\) "wikilink")』の歌詞に出てくる「クレパス」（[サクラクレパス](https://ja.wikipedia.org/wiki/サクラクレパス "wikilink")の商標）を「クレヨン」に変えさせようとした結果、かぐや姫は出場を辞退した。[第29回](https://ja.wikipedia.org/wiki/第29回NHK紅白歌合戦 "wikilink")（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")）でも[山口百恵](../Page/山口百恵.md "wikilink")の『[プレイバックPart2](../Page/プレイバックPart2.md "wikilink")』の歌詞にある「真っ赤な[ポルシェ](../Page/ポルシェ.md "wikilink")」を「真っ赤なクルマ」に変えさせようとしたが、実際には原詞通り歌われた（ちなみに、別音楽番組『[レッツゴーヤング](../Page/レッツゴーヤング.md "wikilink")』『[NHKヤング歌の祭典](https://ja.wikipedia.org/wiki/NHKヤング歌の祭典 "wikilink")』では「真っ赤なクルマ」として歌った）。
+      - [第55回](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")（[2004年](../Page/2004年.md "wikilink")）にも[松平健](../Page/松平健.md "wikilink")の『[マツケンサンバ](https://ja.wikipedia.org/wiki/マツケンサンバ "wikilink")II』で、松平を示す「マツケン」が規制の対象となった場合の歌詞の扱いについて作詞者・[吉峰暁子と協議している旨が一部メディアで報じられたが](https://ja.wikipedia.org/wiki/吉峯暁子 "wikilink")、実際には規制されなかった。
+  - 視聴率は、1970年代から[1980年代](../Page/1980年代.md "wikilink")前半はなお驚異的に高い域にあった。[第25回](https://ja.wikipedia.org/wiki/第25回NHK紅白歌合戦 "wikilink")（[1974年](../Page/1974年.md "wikilink")）から9年間白組司会を務めた[山川静夫](https://ja.wikipedia.org/wiki/山川静夫 "wikilink")が交代となった理由のひとつは視聴率の降下であるが、それでも最後の担当回である[第33回](https://ja.wikipedia.org/wiki/第33回NHK紅白歌合戦 "wikilink")（[1982年](../Page/1982年.md "wikilink")）の視聴率は69.9%（関東地区・ビデオリサーチ社調べ）もあった。とりわけ、[都はるみ](https://ja.wikipedia.org/wiki/都はるみ "wikilink")の引退舞台となった[第35回](https://ja.wikipedia.org/wiki/第35回NHK紅白歌合戦 "wikilink")（[1984年](../Page/1984年.md "wikilink")）の視聴率は78.1%であり、[1960年代](../Page/1960年代.md "wikilink")に匹敵する数字であった。ところが、以後は視聴率が大幅に落ち込むようになった。
+  - [第29回](https://ja.wikipedia.org/wiki/第29回NHK紅白歌合戦 "wikilink")（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")）から[ステレオ放送](../Page/ステレオ放送.md "wikilink")開始。
+  - [第32回](https://ja.wikipedia.org/wiki/第32回NHK紅白歌合戦 "wikilink")（[1981年](../Page/1981年.md "wikilink")）からこれまでホールの後ろから観客席を通って入場行進していた出場歌手は舞台の後ろから入場行進をするようになった。セットが見直され、大幅な舞台装置の交換が本番中にも可能となった。また応援合戦が少なくなり、歌手席が初めと終わりを除いて設置されなくなった（応援合戦の内容も従来の対抗色が強いものから紅白歌手入り乱れての内容が中心となった）。1980年代半ばごろから応援合戦のみは復活したものの、歌手席は初めと終わりにも設置されなくなった\[56\]。[第42回](https://ja.wikipedia.org/wiki/第42回NHK紅白歌合戦 "wikilink")（[1991年](../Page/1991年.md "wikilink")）から入場行進、優勝旗返還、（両組司会や出場歌手の代表が行う）選手宣誓\[57\]が省略され、さらにそれまではステージ上や[オーケストラピット](https://ja.wikipedia.org/wiki/オーケストラピット "wikilink")で演奏していたオーケストラが表舞台に出演しなくなった。[第53回](https://ja.wikipedia.org/wiki/第53回NHK紅白歌合戦 "wikilink")（[2002年](../Page/2002年.md "wikilink")）ではオーケストラが小規模ではあるが、久々に表舞台で演奏した。その後、[第63回](https://ja.wikipedia.org/wiki/第63回NHK紅白歌合戦 "wikilink")（[2012年](../Page/2012年.md "wikilink")）で生演奏は廃止、バンドなどを除き事前に録音した伴奏を用いたものに変更された。同回よりエンディングの演出が華やかで明るいものとなる。[第31回](https://ja.wikipedia.org/wiki/第31回NHK紅白歌合戦 "wikilink")（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")）までは、厳かで徐々に照明が暗くなっていく演出があった回もあった。
+  - 第31回（1980年）から第35回（1984年）の期間は「歌手による歌の祭典」という原点に立ち返るために原則応援ゲストを起用しなかった（まったく応援ゲストが登場しなかった回もある）。
+  - 第33回（1982年）より、原則ほぼすべての歌唱曲の[歌詞テロップがテレビ画面上に登場するようになった](https://ja.wikipedia.org/wiki/音楽番組#歌詞テロップについて "wikilink")。また同回では通常、出場歌手発表後に決める曲目選定を出場歌手選考中の同年[9月21日](../Page/9月21日.md "wikilink")から行った。各レコード会社に「今年紅白に出場させたい人たちのリストを作り、歌唱希望曲を3つ書いて提出を求めるという試みを行った（歌唱希望曲については、自身の過去のヒット曲でも他人の持ち歌でも構わない」とのものであった）。ヒット曲不足の1年を振り返り、曲目によっては出演危機の歌手にもチャンスが与えられるような印象が業界に広まり、また出場させたいリストをレコード会社が提出した時点で出演意思の判断ができるということにもなった。
+  - [第34回](https://ja.wikipedia.org/wiki/第34回NHK紅白歌合戦 "wikilink")（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）- それまでステージ上には紅組白組それぞれにバック演奏を務めるフルバンドと東京放送管弦楽団を配していたが、この年からなくなった。
+  - [第34回](https://ja.wikipedia.org/wiki/第34回NHK紅白歌合戦 "wikilink")（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")） - [第36回](https://ja.wikipedia.org/wiki/第36回NHK紅白歌合戦 "wikilink")（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）まで金杯・銀杯の授与が採用され、優勝チームから金杯の受賞者が、敗退チームから銀杯の受賞者が選出されることとなった。
+  - 1980年代の紅白はそれまでより話題を集めにくくなっていた。この時期にもっとも注目されたもののひとつが[小林幸子](../Page/小林幸子.md "wikilink")の衣装であった。小林の衣装は1980年代半ばから派手になり、第36回（1985年）の『[夫婦しぐれ](https://ja.wikipedia.org/wiki/夫婦しぐれ "wikilink")』で[十二単](https://ja.wikipedia.org/wiki/十二単 "wikilink")を、翌[第37回](https://ja.wikipedia.org/wiki/第37回NHK紅白歌合戦 "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）の『[別離](https://ja.wikipedia.org/wiki/別離_\(小林幸子の曲\) "wikilink")』では[クレオパトラの衣装を披露した](https://ja.wikipedia.org/wiki/クレオパトラ7世 "wikilink")。[第42回](https://ja.wikipedia.org/wiki/第42回NHK紅白歌合戦 "wikilink")（[1991年](../Page/1991年.md "wikilink")）の『[冬化粧](https://ja.wikipedia.org/wiki/冬化粧 "wikilink")』では鳥となって飛んだ。1990年代になると、小林と[美川憲一](../Page/美川憲一.md "wikilink")の豪華衣装対決が注目されるようになる（2人が直接対決となった回もある）\[58\]。小林が巨大な機械仕掛けなのに対し、美川は間奏などに[プリンセス・テンコー](https://ja.wikipedia.org/wiki/プリンセス・テンコー "wikilink")監修のイリュージョンで対抗している。ちなみに、小林と美川が紅白で着用する豪華衣装は高額な予算（数億単位の場合も）をかけて本番・出場歌手発表のはるか前である時期から制作開始される\[59\]ほか、2人の着用衣装は大みそか当日の[スポーツ新聞](../Page/スポーツ新聞.md "wikilink")や民放の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")や[ワイドショー](../Page/ワイドショー.md "wikilink")で本番前ながら紹介されていた。またこの2人以外にも紅白で豪華衣装を披露する歌手が登場することがある\[60\]。
+  - テレビでの実況は第38回（1987年）が最後となり、翌[第39回](https://ja.wikipedia.org/wiki/第39回NHK紅白歌合戦 "wikilink")（[1988年](../Page/1988年.md "wikilink")）からはラジオでの実況のみとなった。
+  - [第40回](https://ja.wikipedia.org/wiki/第40回NHK紅白歌合戦 "wikilink")（[1989年](../Page/1989年.md "wikilink")）から紅白は2部構成になった。同年[昭和天皇](https://ja.wikipedia.org/wiki/昭和天皇 "wikilink")が崩御し、「[昭和](../Page/昭和.md "wikilink")を振り返る」という意味もあったが視聴者の音楽の好みが多様化し、多くの曲を揃えなければ需要に応えられないという視聴率対策の意味合いがあった。この試みは功を奏し、視聴率低落傾向に一応の歯止めがかかった。以後、[1990年代](../Page/1990年代.md "wikilink")は視聴率は50%前後で推移するようになる。
+  - 1989年以降、紅白の平均視聴率が低下したことなどを理由に、紅白の廃止が検討されたことがあるが、その都度廃止は取りやめとなっている。
+  - 1990年代には[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")の作詞作曲した楽曲が市場を制覇したが、その影響は紅白にも表れ、多数の歌手が出場した。
+  - [第41回](https://ja.wikipedia.org/wiki/第41回NHK紅白歌合戦 "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）において、初めてNHKホール以外から中継で歌唱するという演出が行われた。番組内で中継を挿入する企画はこれより以前からあったが、「ステージ上からパフォーマンスを届けることが紅白」との制作者側の共通認識から中継歌唱は行われてこなかった。このときは長渕剛がベルリンから15分にわたって3曲を歌った\[61\]。しかし、中継先で歌う演出はNHKホールの観客やほかの紅白出場歌手達にも不評を買い、その後、中継先で歌う演出は12年後の第53回（2002年）まで行わなかった（一方、中継演出が復活してからはその演出が定着している）。また、前年は採点の対象は第2部だけだったが、同回からは第1部も採点の対象となった。その影響で、同回から放送時間の前半が『[日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")』とバッティングするようになり、歌手の奪い合いや掛け持ちによる大移動などの問題がさらに大きくなった（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")まで）。[TBSは紅白が](../Page/TBSテレビ.md "wikilink")『レコード大賞』の裏番組となることに大慌てとなったという。TBS側はNHKに苦言を呈したほか、長時間紅白の定着により毎回視聴率30%を誇っていた『レコード大賞』は視聴率を低下させていくこととなり、のちの[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")での大みそか撤退（12月30日開催へ移行）につながった（『レコード大賞』は紅白対策でこの年より「歌謡曲・演歌部門」「ポップス・ロック部門」の2部門、すなわち2組のグランプリを輩出させるように変更するなど、工夫を凝らすようになる）。
+  - 第42回（1991年）以降、オープニングに趣向を凝らした大がかりな構成・演出が行われるようになった。開会宣言を大物著名人が行うこともある。同回では、21時前のニュースによる中断までを第1部、21時から22時30分（[森山良子](../Page/森山良子.md "wikilink")・[アンディ・ウィリアムス](https://ja.wikipedia.org/wiki/アンディ・ウィリアムス "wikilink")の対戦カードまで）までを第2部、22時30分から終了までを第3部とする計3部構成がとられた。ただし、第2部から第3部への移行時には中断が挿入されなかったため、ビデオリサーチ社による視聴率調査では第2部・第3部をあわせて“第2部”として取り扱われ、のちの紅白関連資料（NHKによる公式資料を含む）もこのビデオリサーチ社による区割りに則って今回の出場歌手・曲順が紹介されている。
+  - 1990年代以降、オリジナルソング・テーマソングを制作し、番組内で出場歌手らによって大合唱されるという演出が行われることがある（このときは参加者が楽譜を持って歌唱となる場合もあり）。これらの曲がのちにCD発売される、『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』で放送される、[NHK全国学校音楽コンクール](https://ja.wikipedia.org/wiki/NHK全国学校音楽コンクール "wikilink")課題曲に起用されるということもある。また翌年の紅白で出場歌手の歌唱曲として歌唱されるケースもある。
+  - 1990年代以降、[ディズニーとのコラボレーション演出が行われることが多々ある](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・カンパニー "wikilink")。
+  - [第45回](https://ja.wikipedia.org/wiki/第45回NHK紅白歌合戦 "wikilink")（[1994年](../Page/1994年.md "wikilink")） - 第48回（1997年）までその年の[NHK新人歌謡コンテスト](https://ja.wikipedia.org/wiki/NHK新人歌謡コンテスト "wikilink")の優勝者に紅白の出場権が与えられた（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にNHK新人歌謡コンテストは廃止）。
+  - 紅白におけるNHKのロゴマークが[第46回](https://ja.wikipedia.org/wiki/第46回NHK紅白歌合戦 "wikilink")（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）から更新された。
+  - 1990年代後半を中心に[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドのブームが起こり、[X JAPAN](../Page/X_JAPAN.md "wikilink")・[LUNA SEA](../Page/LUNA_SEA.md "wikilink")・[GLAY](../Page/GLAY.md "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")らが出場した。
+  - [第50回](https://ja.wikipedia.org/wiki/第50回NHK紅白歌合戦 "wikilink")（[1999年](../Page/1999年.md "wikilink")）については、番組終了後、後座番組『ゆく年くる年』放送中の23時58分（30秒）ごろより画面が紅白終了直後のNHKホール内の映像に切り替わり、紅白出演者および観客による[2000年](../Page/2000年.md "wikilink")に向けての[ミレニアム](../Page/ミレニアム.md "wikilink")カウントダウンの模様が放送された。その後、同回のオリジナルソングとして制作された『[21世紀の君たちへ〜A song for children〜](https://ja.wikipedia.org/wiki/21世紀の君たちへ〜A_song_for_children〜 "wikilink")』の出演者による大合唱も行われた。通常、総合テレビの年越しの瞬間は『ゆく年くる年』内でシンプルに進行しており、さまざまな形式（大勢が賑やかに迎えることが通例）で新年のカウントダウンが行われる民放テレビ各局の年越し番組とは確実な差異があるが、この際は例外であった。
+  - 詳細は、以下を参照。
+
+<!-- end list -->
+
+  -
+    [1970年](https://ja.wikipedia.org/wiki/第21回NHK紅白歌合戦 "wikilink") [1971年](https://ja.wikipedia.org/wiki/第22回NHK紅白歌合戦 "wikilink") [1972年](https://ja.wikipedia.org/wiki/第23回NHK紅白歌合戦 "wikilink") [1973年](https://ja.wikipedia.org/wiki/第24回NHK紅白歌合戦 "wikilink") [1974年](https://ja.wikipedia.org/wiki/第25回NHK紅白歌合戦 "wikilink") [1975年](https://ja.wikipedia.org/wiki/第26回NHK紅白歌合戦 "wikilink") [1976年](https://ja.wikipedia.org/wiki/第27回NHK紅白歌合戦 "wikilink") [1977年](https://ja.wikipedia.org/wiki/第28回NHK紅白歌合戦 "wikilink") [1978年](https://ja.wikipedia.org/wiki/第29回NHK紅白歌合戦 "wikilink") [1979年](https://ja.wikipedia.org/wiki/第30回NHK紅白歌合戦 "wikilink") [1980年](https://ja.wikipedia.org/wiki/第31回NHK紅白歌合戦 "wikilink") [1981年](https://ja.wikipedia.org/wiki/第32回NHK紅白歌合戦 "wikilink") [1982年](https://ja.wikipedia.org/wiki/第33回NHK紅白歌合戦 "wikilink") [1983年](https://ja.wikipedia.org/wiki/第34回NHK紅白歌合戦 "wikilink") [1984年](https://ja.wikipedia.org/wiki/第35回NHK紅白歌合戦 "wikilink") [1985年](https://ja.wikipedia.org/wiki/第36回NHK紅白歌合戦 "wikilink") [1986年](https://ja.wikipedia.org/wiki/第37回NHK紅白歌合戦 "wikilink") [1987年](https://ja.wikipedia.org/wiki/第38回NHK紅白歌合戦 "wikilink") [1988年](https://ja.wikipedia.org/wiki/第39回NHK紅白歌合戦 "wikilink") [1989年](https://ja.wikipedia.org/wiki/第40回NHK紅白歌合戦 "wikilink") [1990年](https://ja.wikipedia.org/wiki/第41回NHK紅白歌合戦 "wikilink") [1991年](https://ja.wikipedia.org/wiki/第42回NHK紅白歌合戦 "wikilink") [1992年](https://ja.wikipedia.org/wiki/第43回NHK紅白歌合戦 "wikilink") [1993年](https://ja.wikipedia.org/wiki/第44回NHK紅白歌合戦 "wikilink") [1994年](https://ja.wikipedia.org/wiki/第45回NHK紅白歌合戦 "wikilink") [1995年](https://ja.wikipedia.org/wiki/第46回NHK紅白歌合戦 "wikilink") [1996年](https://ja.wikipedia.org/wiki/第47回NHK紅白歌合戦 "wikilink") [1997年](https://ja.wikipedia.org/wiki/第48回NHK紅白歌合戦 "wikilink") [1998年](https://ja.wikipedia.org/wiki/第49回NHK紅白歌合戦 "wikilink") [1999年](https://ja.wikipedia.org/wiki/第50回NHK紅白歌合戦 "wikilink")
+
+### 2000年代 -
+
+  - 国民の生活様態の多様化などに加え、当時行われていたBSでのサイマル放送も一因となり\[62\]、地上波テレビ放送の視聴率は40%前後まで徐々に低下する。また、常連の出場歌手の中には全盛期を過ぎていたり、音楽セールスや絶対的な知名度があるとはいえないような者が多くを占めるようになる。演歌歌手は紅白に出るか出ないかで翌年の営業（コンサートなど）が大きく変わることから、紅白を敬遠する人は少なく、ポップス歌手のように辞退することがほとんどないためである\[63\]。
+  - [第52回](https://ja.wikipedia.org/wiki/第52回NHK紅白歌合戦 "wikilink")（[2001年](../Page/2001年.md "wikilink")）における[21世紀](../Page/21世紀.md "wikilink")最初の紅白は、世界初、生娯楽番組でのリアルタイム字幕放送として放送。
+  - また、民放各局もかつては大晦日の番組も通常編成で、紅白の「不戦勝」状態が続いていたが、このころから紅白に対抗する番組編成に乗り出す。特に[第54回](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")（[2003年](../Page/2003年.md "wikilink")）では『[K-1 PREMIUM 2003 Dynamite\!\!](https://ja.wikipedia.org/wiki/K-1_PREMIUM_2003_Dynamite!! "wikilink")』（[TBS系列](../Page/TBSテレビ.md "wikilink")）での[ボブ・サップ](../Page/ボブ・サップ.md "wikilink")VS[曙太郎](../Page/曙太郎.md "wikilink")戦時の視聴率が、紅白開始時1分間の例外を除けば調査開始以来初めて瞬間視聴率を4分間逆転されるという事態が発生した（このとき、紅白で出ていたのは[長渕剛](../Page/長渕剛.md "wikilink")）。
+  - そのため、製作者サイドも新しい紅白へ変えるべく、従来の紅白から外れた取り組みを行っている。
+      - [第53回](https://ja.wikipedia.org/wiki/第53回NHK紅白歌合戦 "wikilink")（[2002年](../Page/2002年.md "wikilink")）において、番組側は「日本音楽界の総決算」をテーマに掲げ、出場歌手・曲目の多ジャンル化を決行\[64\]。[第52回](https://ja.wikipedia.org/wiki/第52回NHK紅白歌合戦 "wikilink")（[2001年](../Page/2001年.md "wikilink")）まで常連だった演歌歌手が次々に落選となり、同回以降、演歌歌手の出演数が従来の半分以下になった\[65\]。NHK関係者は「出場歌手別に視聴率を調査すると演歌のときが目立って下がる。やむを得ない」と語っている\[66\]。
+      - 第54回（2003年）、『[世界に一つだけの花](https://ja.wikipedia.org/wiki/世界に一つだけの花 "wikilink")』が大ヒットした[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")が大トリをつとめる。以降、演歌歌手が終盤を固める従来の構図は徐々に崩されていき、2010年代に入るとポップス系の歌手が終盤を占めるようになる。2010年代に入ると、演歌の業界の縮小にともない演歌歌手は出場自体が困難になり、常連の演歌歌手が「勇退」という形で相次いで紅白を去った（ただし中堅歌手の返り咲きや若手歌手の抜擢などによる入れ替わりがあり、人数が激減したわけではない）。
+      - [第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")）を境に、出場歌手一同で行うアトラクションが廃止され、歌重視のシンプルな構成になる。同年から[第60回記念](https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦 "wikilink")（[2009年](../Page/2009年.md "wikilink")）までの3年間は通し計画「歌力（うたぢから）」を設け、その一環で2007年は『[クイズ紅白検定](https://ja.wikipedia.org/wiki/クイズ紅白検定 "wikilink")』が放送された。以降、各年ごとにテーマが設けられる。
+      - 第59回（2008年）以降、[第65回](https://ja.wikipedia.org/wiki/第65回NHK紅白歌合戦 "wikilink")（[2014年](../Page/2014年.md "wikilink")）を除き、エンディングにて、得点集計の間、全出場歌手登場シーンのハイライトを放送している。
+      - 第60回（2009年）以降、[NHKオンデマンド](../Page/NHKオンデマンド.md "wikilink")の「見逃し番組サービス」で翌元日から10日間前後にわたり、有料配信を行っている。ジャニーズ事務所所属タレントが出演する番組のインターネット配信はこのケースが史上初となる\[67\]\[68\]。
+      - 従来の紅白はステージ本体ですべて完結していたが、[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")）に楽屋ロビーからの中継が入ったのを皮切りに、出番外の歌手のトークや番組の裏側紹介などが行われるようになる（副音声の「紅白裏トーク」、生配信の「紅白楽屋トーク」など、同時進行で放送される形態もある）。
+  - 2004年には、紅白も担当したNHKプロデューサーが5,000万円近い制作費を不正支出していたことが明るみに出て、NHKは激しい批判にさらされることになった。紅白のあり方についても見直しが提起され、同年の第55回では出場歌手選考の透明感を出すことを目的に「紅白に出場してほしい歌手」と題された世論調査（7歳以上の3,600人を対象に「出場してほしい男女それぞれ2組の歌手」を記入してもらう）が実施された。ただ、歌手からの反発もあり、翌年の第56回（2005年）には視聴者から紅白で聞きたい歌を募ったアンケート『[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")』が実施された。しかし、こちらも[組織票](../Page/組織票.md "wikilink")が多く寄せられるなどトラブルがあり、1年限りで廃止となった。
+  - 第55回（2004年）で審査方法に対する苦情が多く寄せられた（後述）ことから、翌年の第56回は全審査員の投票数すべてをそのまま反映する方式を採用した。
+  - 2000年代前半は、NHKアナウンサーが紅組および白組の司会を担当することが多くあったが、第59回（2008年）以降は、白組司会は[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")の所属タレントが務めるようになり（2019年現在、12年連続で継続中である）、紅組司会は、NHKの看板番組である『大河ドラマ』や『[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")』のヒロイン女優（あるいはヒロイン経験者）が基本的に務めるようになっている。
+  - 第59回には[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")が、[第60回](https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦 "wikilink")（[2009年](../Page/2009年.md "wikilink")）には[矢沢永吉](https://ja.wikipedia.org/wiki/矢沢永吉 "wikilink")がそれぞれ初出演し、以降は例年「辞退組」の招聘に成功している。矢沢は「特別枠」での出演であり、以降の「辞退組」も、対戦の枠外、なおかつ中継での出演が多い。
+  - 2000年代半ばごろからNHKホール外からの中継が復活し、中継のステージが毎年数組入るようになっている。大物歌手がコンサート会場から中継出演\[69\]するほか、NHK側がステージ（あるいは中継会場）を用意するケース\[70\]もあり、特に後者は大々的な演出が行われるようになる。中継で出演すること自体には[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")や[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")が苦言を述べたことがあり、北島は「ホール側に穴が開く」と表現した。
+  - 2010年代になってCG技術が飛躍的に進歩を遂げると、それを用いた映像技術を駆使した演出が行われるようになった\[71\]。
+  - [第63回](https://ja.wikipedia.org/wiki/第63回NHK紅白歌合戦 "wikilink")（[2012年](../Page/2012年.md "wikilink")）から[第66回](https://ja.wikipedia.org/wiki/第66回NHK紅白歌合戦 "wikilink")（[2015年](../Page/2015年.md "wikilink")）までは、生演奏のバックバンドが完全に消え事実上の「カラオケ」状態での歌唱となっていた。
+  - 2000年代半ばごろから「男女対抗」というコンセプトが薄められるような演出がみられるようになった。一例として、[第56回](https://ja.wikipedia.org/wiki/第56回NHK紅白歌合戦 "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）では紅組常連の[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")が[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")とコラボレーションして白組から出場し、男性コメディアンの[ゴリ](https://ja.wikipedia.org/wiki/ゴリ "wikilink")（[ガレッジセール](../Page/ガレッジセール.md "wikilink")）が女装キャラクター「[ゴリエ](https://ja.wikipedia.org/wiki/松浦ゴリエ "wikilink")」として紅組から出場した。また、[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")）では前年白組司会を務めた[中居正広](../Page/中居正広.md "wikilink")が紅組司会を担当（歌手としては[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")のメンバーとして白組から出場）し、またこの年の[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")以降、白組司会者も下手側花道で進行を行うようになった（それまでの白組司会者は上手側花道で進行していた）。男女対抗形式が廃止される可能性も報道されている\[72\]。
+  - [2019年](../Page/2019年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink")、『[総決算\!平成紅白歌合戦](https://ja.wikipedia.org/wiki/総決算!平成紅白歌合戦 "wikilink")』が放送\[73\]。
+  - [2021年](../Page/2021年.md "wikilink")3月から[2022年](../Page/2022年.md "wikilink")6月まで、NHKホールの耐震工事にともない長期休館するため、当該期間に放送予定の第72回は[東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")で実施される。NHKホール以外の会場で実施するのは第23回以来49年ぶり、同ホール運用開始以来初となる\[74\]\[75\]。
+
+<!-- end list -->
+
+  - 詳細は、以下を参照。
+      - [2000年](https://ja.wikipedia.org/wiki/第51回NHK紅白歌合戦 "wikilink") [2001年](https://ja.wikipedia.org/wiki/第52回NHK紅白歌合戦 "wikilink") [2002年](https://ja.wikipedia.org/wiki/第53回NHK紅白歌合戦 "wikilink") [2003年](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink") [2004年](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink") [2005年](https://ja.wikipedia.org/wiki/第56回NHK紅白歌合戦 "wikilink") [2006年](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦 "wikilink") [2007年](../Page/第58回NHK紅白歌合戦.md "wikilink") [2008年](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink") [2009年](https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦 "wikilink") [2010年](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink") [2011年](https://ja.wikipedia.org/wiki/第62回NHK紅白歌合戦 "wikilink") [2012年](https://ja.wikipedia.org/wiki/第63回NHK紅白歌合戦 "wikilink") [2013年](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink") [2014年](https://ja.wikipedia.org/wiki/第65回NHK紅白歌合戦 "wikilink") [2015年](https://ja.wikipedia.org/wiki/第66回NHK紅白歌合戦 "wikilink") [2016年](https://ja.wikipedia.org/wiki/第67回NHK紅白歌合戦 "wikilink") [2017年](https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦 "wikilink") [2018年](https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦 "wikilink") [2019年](https://ja.wikipedia.org/wiki/第70回NHK紅白歌合戦 "wikilink")
+
+### 審査方法の変遷
+
+<table>
+<thead>
+<tr class="header">
+<th><p>期間</p></th>
+<th><p>審査方法</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>? - <a href="https://ja.wikipedia.org/wiki/第13回NHK紅白歌合戦" title="wikilink">第13回</a>（<a href="../Page/1962年.md" title="wikilink">1962年</a>）</p></td>
+<td><p>審査員が紅白に塗り分けた団扇の優勢だと思う方をステージ上に向けた数の多かったチームが優勝。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第14回NHK紅白歌合戦" title="wikilink">第14回</a>（<a href="../Page/1963年.md" title="wikilink">1963年</a>）・<a href="https://ja.wikipedia.org/wiki/第15回NHK紅白歌合戦" title="wikilink">第15回</a>（<a href="../Page/1964年.md" title="wikilink">1964年</a>）</p></td>
+<td><p>各地方放送局のアナウンサーが地方審査員のポイントを公表。加えて、審査委員長のNHK芸能局長がステージ上で特別審査員のポイントを追加、公表し優勝チームを発表。会場の電光掲示板にも表示される。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第16回NHK紅白歌合戦" title="wikilink">第16回</a>（<a href="../Page/1965年.md" title="wikilink">1965年</a>） - <a href="https://ja.wikipedia.org/wiki/第19回NHK紅白歌合戦" title="wikilink">第19回</a>（<a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a>）</p></td>
+<td><p>特別審査員が宝箱にボールを入れ、両軍司会がステージ袖に向かってボールを投げ、ボールの数の多いチームが優勝。</p>
+<ul>
+<li>箱の中にはかごが2つ入っており、ラジオ第1『<a href="https://ja.wikipedia.org/wiki/ふるさと自慢歌自慢&amp;ふるさと自慢コンサート" title="wikilink">ふるさと自慢歌自慢</a>』では、この方式で勝敗を決めている（審査員は3名。3回戦まで行なうためボールは合計9個）。</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第20回NHK紅白歌合戦" title="wikilink">第20回</a>（<a href="https://ja.wikipedia.org/wiki/1969年" title="wikilink">1969年</a>） - <a href="https://ja.wikipedia.org/wiki/第31回NHK紅白歌合戦" title="wikilink">第31回</a>（<a href="https://ja.wikipedia.org/wiki/1980年" title="wikilink">1980年</a>）</p></td>
+<td><p>得点集計センターのオペレーターが電話で地域代表が優勢と判断したチームを聞き、両組の得点を集計する。その後、特別審査員がスイッチで1ポイントずつ点数を入れ、地域代表の審査結果と合計した点数を電光掲示板に表示し、点数の多かったチームが優勝。</p>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/第23回NHK紅白歌合戦" title="wikilink">第23回</a>（<a href="../Page/1972年.md" title="wikilink">1972年</a>）からNHKの放送会館内の特設スタジオに電話オペレーターを置き、全国数ヶ所の一般審査員制を導入。この方式は3年後の<a href="https://ja.wikipedia.org/wiki/第26回NHK紅白歌合戦" title="wikilink">第26回</a>（<a href="../Page/1975年.md" title="wikilink">1975年</a>）から復活し第31回まで行われた。</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第32回NHK紅白歌合戦" title="wikilink">第32回</a>（<a href="../Page/1981年.md" title="wikilink">1981年</a>） - <a href="https://ja.wikipedia.org/wiki/第52回NHK紅白歌合戦" title="wikilink">第52回</a>（<a href="../Page/2001年.md" title="wikilink">2001年</a>）</p></td>
+<td><p>客席審査員として会場の観客全員も審査を開始。観客が優勢と判断した色のうちわやカード（第32回（1981年）はカード。団扇には組司会の似顔絵が描かれている）で示し、双眼鏡を持った<a href="https://ja.wikipedia.org/wiki/日本野鳥の会" title="wikilink">日本野鳥の会</a>が数える風景は恒例となった（<a href="https://ja.wikipedia.org/wiki/第37回NHK紅白歌合戦" title="wikilink">第37回</a>（<a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a>） - <a href="https://ja.wikipedia.org/wiki/第42回NHK紅白歌合戦" title="wikilink">第42回</a>（<a href="../Page/1991年.md" title="wikilink">1991年</a>）は行われず。第37回（1986年）では、中央の巨大<a href="../Page/ブラウン管.md" title="wikilink">CRTモニターに得票数を帯グラフで表示する方式だった</a>。第42回（1991年）における観客審査の方式は、<a href="../Page/未確認飛行物体.md" title="wikilink">UFO型の風船につけたマイクを使い</a>、歓声の大きさで決めるというものだった）。団扇による得票数は、その年のそろ盤日本一が暗算にて計算。<a href="https://ja.wikipedia.org/wiki/第46回NHK紅白歌合戦" title="wikilink">第46回</a>（<a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a>）までは階毎に分けてそろ盤日本一が発表していたが、翌<a href="https://ja.wikipedia.org/wiki/第47回NHK紅白歌合戦" title="wikilink">第47回</a>（<a href="../Page/1996年.md" title="wikilink">1996年</a>）以降は全階一緒に発表するかたちに変更している。それに伴ってそろ盤日本一による発表もなくなり、代わりに緑色のユニフォームを着用した珠算有段者数名が野鳥の会と同じ場所で集計を行って総合司会が得票数を発表していた。団扇の得票数が多かったチームにボールが加算され、ゲスト審査員のボールの数と合わせて、紅白それぞれの箱に加えられたボールを両軍の代表者（当初は両軍の歌手キャプテンが行っていたが、後に両軍司会に変更）が客席に向かって投げる。ボールの個数の多かったチームが優勝。</p>
+<ul>
+<li>なお、日本野鳥の会がこれを担当したのは第32回（1981年） - <a href="https://ja.wikipedia.org/wiki/第36回NHK紅白歌合戦" title="wikilink">第36回</a>（<a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a>）と<a href="https://ja.wikipedia.org/wiki/第43回NHK紅白歌合戦" title="wikilink">第43回</a>（<a href="../Page/1992年.md" title="wikilink">1992年</a>）であり、<a href="https://ja.wikipedia.org/wiki/第44回NHK紅白歌合戦" title="wikilink">第44回</a>（<a href="../Page/1993年.md" title="wikilink">1993年</a>） - <a href="https://ja.wikipedia.org/wiki/第53回NHK紅白歌合戦" title="wikilink">第53回</a>（<a href="../Page/2002年.md" title="wikilink">2002年</a>）、<a href="https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦" title="wikilink">第64回</a>（<a href="../Page/2013年.md" title="wikilink">2013年</a>）、<a href="https://ja.wikipedia.org/wiki/第65回NHK紅白歌合戦" title="wikilink">第65回</a>（<a href="../Page/2014年.md" title="wikilink">2014年</a>）、<a href="https://ja.wikipedia.org/wiki/第67回NHK紅白歌合戦" title="wikilink">第67回</a>（<a href="../Page/2016年.md" title="wikilink">2016年</a>）は<a href="../Page/麻布大学.md" title="wikilink">麻布大学</a>野鳥研究部が担当している。日本野鳥の会および麻布大学野鳥研究部によると、紅白用にわざわざスケジュールを空けているという。いずれも紅白それぞれのジャケットを着用し、上手・下手の進行席に分かれて集計を行っていた。</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第53回NHK紅白歌合戦" title="wikilink">第53回</a>（<a href="../Page/2002年.md" title="wikilink">2002年</a>）・<a href="https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦" title="wikilink">第54回</a>（<a href="../Page/2003年.md" title="wikilink">2003年</a>）</p></td>
+<td><p>デジタル放送（第53回からはBSデジタル放送、第54回からは地上デジタル放送でも）の双方向機能を利用したお茶の間審査員による投票が行われるようになった（リモコンで紅組の場合は赤ボタン。白組の場合は青ボタンを押して投票）。客席審査同様、お茶の間審査で優勢だったチームにボールが2個加算される。</p>
+<ul>
+<li>申し込みの際、デジタル総合テレビとデジタル衛星ハイビジョンが両方受信できる場合はどちらか一方のチャンネルのデータ放送で申し込みすればデジタル総合テレビ・デジタル衛星ハイビジョンのどちらでも双方向通信による投票が可能である（受信機1台に付き、1回の申し込みで可）。地上デジタル放送が受信できない地域ではデジタル衛星ハイビジョンのデータ放送からの申し込みとなる。</li>
+<li>客席審査員（前者は観客の一部、後者は観客全員）はボールを使う投票方式。これは、『<a href="../Page/爆笑オンエアバトル.md" title="wikilink">爆笑オンエアバトル</a>』の方式によるものである（詳細は<em><a href="https://ja.wikipedia.org/wiki/爆笑オンエアバトル#審査方法" title="wikilink">爆笑オンエアバトル#審査方法</a></em>を参照）。<a href="../Page/双眼鏡.md" title="wikilink">双眼鏡</a>を使っての計測が一時姿を消すことになった[76]。その後、第64回（2013年）でこの計測が復活する。</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦" title="wikilink">第55回</a>（<a href="../Page/2004年.md" title="wikilink">2004年</a>）</p></td>
+<td><p>客席は審査に参加せず、特別審査員（11票）とお茶の間デジタル審査員（2票）の13個のボールで勝敗を争うかたちとなった。お茶の間審査では白組の圧勝だったが、ゲスト審査員の8人が紅組に投票したため紅組の優勝という結果となった。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第56回NHK紅白歌合戦" title="wikilink">第56回</a>（<a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>）</p></td>
+<td><p>審査員の投票総数で勝敗を競う方式に変更された。ゲスト審査員10名と「デジタルTV審査員」と新設された「ケータイ審査員」（抽選で選ばれた10,000名）に加え、2年ぶりに復活する会場審査（3,000名程度）を加えた人数で勝敗を競う。これは前年の件や<a href="https://ja.wikipedia.org/wiki/NHKの不祥事" title="wikilink">不祥事に伴う信頼回復策の一環として視聴者の意見を重視してイメージアップを図ることが目的だったという</a>。また、「デジタルTV審査員」と「ケータイ審査員」への応募者の中から抽選で各10名、計20名が「ふるさと審査員」としてNHKホールに招待された（「ふるさと審査員」がNHKホールに赴く際にかかる費用はNHK持ちとなっていた）。会場審査はゲスト審査員・ふるさと審査員も含め、専用の紅白の団扇をステージ上のレーダーに向ける『<a href="https://ja.wikipedia.org/wiki/ポップジャム" title="wikilink">ポップジャム</a>』のブレイクレーダー方式が用いられた。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦" title="wikilink">第57回</a>（<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ワンセグ" title="wikilink">ワンセグ</a>放送の双方向機能による「ワンセグ審査員」がスタート。「ケータイ審査員」と同様抽選で選ばれ、同回はそれぞれ15,000名に増員、「ふるさと審査員」も30名に増員されるが、ボールを使う投票方式に戻され、特別審査員は1人1個、それ以外は得票数を数個のボールに置き換えるかたちとなった。</p>
+<ul>
+<li>中間審査では「ケータイ審査員」と「デジタルTV審査員」+「ワンセグ審査員」で各1個ずつ。</li>
+<li>最終審査では「会場審査員」、「ケータイ審査員」、「デジタルTV審査員」+「ワンセグ審査員」で各2個ずつとゲスト審査員10名（1名につき1個）を加え、中間審査の分を合わせるとボールの数は合計18個となった。この関係で状況によっては（従来ではこのボールが奇数になるためにありえなかった）引き分けによる両軍優勝の可能性もあった。</li>
+<li>「ケータイ審査員」は抽選となったが、「ワンセグ審査員」は対応機種が少数派のためか締め切りを過ぎても定員に達せず、放送当日まで募集を行った。</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/第58回NHK紅白歌合戦.md" title="wikilink">第58回</a>（<a href="../Page/2007年.md" title="wikilink">2007年</a>）</p></td>
+<td><p>「ケータイ審査員」が50,000名に増員、「ワンセグ審査員」は無制限となり、審査方法は再び審査員の投票総数で勝敗を競う方式になった。これには中間審査の票数も加算される。</p>
+<ul>
+<li>中間審査は前年までの1回から2回に増える（投票開始時間は20時00分頃、21時15分頃、23時35分頃。投票可能時間は約3分）。</li>
+<li>審査結果発表は<a href="https://ja.wikipedia.org/wiki/東京タワー" title="wikilink">東京タワー</a>の<a href="https://ja.wikipedia.org/wiki/ライトアップ" title="wikilink">ライトアップ</a>の色が紅か白に変わることで発表（通常の照明を消した後に紅か白を点灯する）。</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦" title="wikilink">第59回</a>（<a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a>） - <a href="https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦" title="wikilink">第61回</a>（<a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a>）</p></td>
+<td><p>同様の審査方式であるが中間審査は1回のみとなり、結果発表はステージ上の<a href="../Page/発光ダイオード.md" title="wikilink">LEDパネルに映し出す形を採用</a>。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第62回NHK紅白歌合戦" title="wikilink">第62回</a>（<a href="../Page/2011年.md" title="wikilink">2011年</a>）・<a href="https://ja.wikipedia.org/wiki/第63回NHK紅白歌合戦" title="wikilink">第63回</a>（<a href="../Page/2012年.md" title="wikilink">2012年</a>）</p></td>
+<td><p>基本の審査方法はこれまでと同じだが、最終審査のみの得票数で競うかたちを採用。この2回ではゲスト審査員は<a href="https://ja.wikipedia.org/wiki/ウタ♪ウッキー" title="wikilink">ウタ♪ウッキー</a>のパペットを出して審査に参加した（紅組の場合はウー♪、白組の場合はター♪）。</p>
+<ul>
+<li>第63回からは<a href="https://ja.wikipedia.org/wiki/スマートフォン" title="wikilink">スマートフォン</a>からの参加も可能となった（定員あり）。</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦" title="wikilink">第64回</a>（<a href="../Page/2013年.md" title="wikilink">2013年</a>）</p></td>
+<td><p>第57回以来7年ぶりにボール審査が復活した。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第65回NHK紅白歌合戦" title="wikilink">第65回</a>（<a href="../Page/2014年.md" title="wikilink">2014年</a>）・<a href="https://ja.wikipedia.org/wiki/第66回NHK紅白歌合戦" title="wikilink">第66回</a>（<a href="../Page/2015年.md" title="wikilink">2015年</a>）</p></td>
+<td><p>団扇での投票と似ているが、ゲスト・客席ともに、<a href="https://ja.wikipedia.org/wiki/ペンライト" title="wikilink">ペンライト</a>を赤か白かどちらかに点灯させて審査を行った（計測は麻布大学野鳥研究部が担当）。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第67回NHK紅白歌合戦" title="wikilink">第67回</a>（<a href="../Page/2016年.md" title="wikilink">2016年</a>）</p></td>
+<td><p>第64回同様、ボール審査を実施。視聴者は対戦ごとに1票の投票になった。視聴者審査員、会場審査員は優勢だったほうにボール2個。ゲスト審査員は1人でボール1個。 視聴者と会場審査員では白組が優勢だったが、会場審査員の多くが紅組に投票したため紅組の優勝となった。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦" title="wikilink">第68回</a>（<a href="../Page/2017年.md" title="wikilink">2017年</a>）</p></td>
+<td><p>視聴者は1対戦ごと1票。会場とゲスト審査員は最後に1票投票し、全ての票の合計が多かったほうが優勝となった。</p>
+<p>会場審査員の投票は団扇での投票になった。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦" title="wikilink">第69回</a>（<a href="../Page/2018年.md" title="wikilink">2018年</a>） -</p></td>
+<td><p>視聴者の投票は、中間審査と最終審査の2回に戻される。視聴者・ゲスト・会場の票が多かったほうに1ポイントが与えられ、2ポイント以上を獲得したほうが優勝。</p></td>
+</tr>
+</tbody>
+</table>
+
+### 会場の変遷
+
+  - 第1回 - 第3回：[NHK東京放送会館](../Page/NHK東京放送会館.md "wikilink")第1スタジオ
+  - 第4回、第11回：[日本劇場](https://ja.wikipedia.org/wiki/日本劇場 "wikilink")
+  - 第5回：[日比谷公会堂](https://ja.wikipedia.org/wiki/日比谷公会堂 "wikilink")
+  - 第6回：[産経ホール](https://ja.wikipedia.org/wiki/サンケイホール "wikilink")
+  - 第7回、第8回、第10回、第12回 - 第23回：[東京宝塚劇場](https://ja.wikipedia.org/wiki/東京宝塚劇場 "wikilink")
+  - 第9回：[新宿コマ劇場](https://ja.wikipedia.org/wiki/新宿コマ劇場 "wikilink")
+  - 第24回 - 第71回、第73回 - （予定）：[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")
+  - 第72回（予定）：[東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")
+
+## 各回の概要
+
+2019年までの通算成績は紅組31勝・白組39勝で白組がリードしている。連勝は紅組が3連勝、白組が6連勝が最多である。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>回数</p></th>
+<th><p>放送日</p></th>
+<th><p>放送時間</p></th>
+<th><p>紅組司会</p></th>
+<th><p>白組司会</p></th>
+<th><p>総合司会</p></th>
+<th><p>優勝</p></th>
+<th><p>平均視聴率</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第1回NHK紅白歌合戦" title="wikilink">第1回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1951年" title="wikilink">1951年</a><a href="../Page/1月3日.md" title="wikilink">1月3日</a></p></td>
+<td><p>20:00-21:00</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/加藤道子" title="wikilink">加藤道子</a></p></td>
+<td><p><a href="../Page/藤倉修一.md" title="wikilink">藤倉修一</a>[77]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/田辺正晴" title="wikilink">田辺正晴</a>[78]</p></td>
+<td><p>白</p></td>
+<td><p>記録なし</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第2回NHK紅白歌合戦" title="wikilink">第2回</a></p></td>
+<td><p><a href="../Page/1952年.md" title="wikilink">1952年</a>1月3日</p></td>
+<td><p>19:30-21:00</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/丹下キヨ子" title="wikilink">丹下キヨ子</a></p></td>
+<td><p>白</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第3回NHK紅白歌合戦" title="wikilink">第3回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1953年" title="wikilink">1953年</a><a href="../Page/1月2日.md" title="wikilink">1月2日</a></p></td>
+<td><p>19:30-21:00</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/本田寿賀" title="wikilink">本田寿賀</a>[79]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮田輝" title="wikilink">宮田輝</a>[80]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/志村正順" title="wikilink">志村正順</a>[81]</p></td>
+<td><p>白</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第4回NHK紅白歌合戦" title="wikilink">第4回</a></p></td>
+<td><p>1953年<a href="../Page/12月31日.md" title="wikilink">12月31日</a></p></td>
+<td><p>21:15-22:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/水の江瀧子" title="wikilink">水の江瀧子</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高橋圭三" title="wikilink">高橋圭三</a>[82]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/北出清五郎" title="wikilink">北出清五郎</a>[83]</p></td>
+<td><p>紅</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第5回NHK紅白歌合戦" title="wikilink">第5回</a></p></td>
+<td><p><a href="../Page/1954年.md" title="wikilink">1954年</a>12月31日</p></td>
+<td><p>21:15-23:00</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/福士夏江" title="wikilink">福士夏江</a>[84]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/石井鐘三郎" title="wikilink">石井鐘三郎</a>[85]</p></td>
+<td><p>紅</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第6回NHK紅白歌合戦" title="wikilink">第6回</a></p></td>
+<td><p><a href="../Page/1955年.md" title="wikilink">1955年</a>12月31日</p></td>
+<td><p>21:15-23:00</p></td>
+<td><p>宮田輝[86]</p></td>
+<td><p>紅 (5-4)</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第7回NHK紅白歌合戦" title="wikilink">第7回</a></p></td>
+<td><p><a href="../Page/1956年.md" title="wikilink">1956年</a>12月31日</p></td>
+<td><p>21:05-23:00</p></td>
+<td><p>白</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第8回NHK紅白歌合戦" title="wikilink">第8回</a></p></td>
+<td><p><a href="../Page/1957年.md" title="wikilink">1957年</a>12月31日</p></td>
+<td><p>21:05-23:00</p></td>
+<td><p>水の江瀧子</p></td>
+<td><p>紅 （7-4）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第9回NHK紅白歌合戦" title="wikilink">第9回</a></p></td>
+<td><p><a href="../Page/1958年.md" title="wikilink">1958年</a>12月31日</p></td>
+<td><p>21:10-23:35</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/黒柳徹子" title="wikilink">黒柳徹子</a></p></td>
+<td><p>紅 （7-4）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第10回NHK紅白歌合戦" title="wikilink">第10回</a></p></td>
+<td><p><a href="../Page/1959年.md" title="wikilink">1959年</a>12月31日</p></td>
+<td><p>21:05-23:35</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中村メイコ" title="wikilink">中村メイコ</a></p></td>
+<td><p>紅 （7-4）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第11回NHK紅白歌合戦" title="wikilink">第11回</a></p></td>
+<td><p><a href="../Page/1960年.md" title="wikilink">1960年</a>12月31日</p></td>
+<td><p>21:00-23:40</p></td>
+<td><p>白</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第12回NHK紅白歌合戦" title="wikilink">第12回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1961年" title="wikilink">1961年</a>12月31日</p></td>
+<td><p>21:00-23:40</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/穂坂俊明" title="wikilink">穂坂俊明</a>[87]</p></td>
+<td><p>白</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第13回NHK紅白歌合戦" title="wikilink">第13回</a></p></td>
+<td><p><a href="../Page/1962年.md" title="wikilink">1962年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/森光子" title="wikilink">森光子</a></p></td>
+<td><p>宮田輝[88]</p></td>
+<td><p>石井鐘三郎[89]</p></td>
+<td><p>白</p></td>
+<td><p>80.4%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第14回NHK紅白歌合戦" title="wikilink">第14回</a></p></td>
+<td><p><a href="../Page/1963年.md" title="wikilink">1963年</a>12月31日</p></td>
+<td><p>21:05-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/江利チエミ" title="wikilink">江利チエミ</a></p></td>
+<td><p>紅 （19-8）</p></td>
+<td><p>81.4%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第15回NHK紅白歌合戦" title="wikilink">第15回</a></p></td>
+<td><p><a href="../Page/1964年.md" title="wikilink">1964年</a>12月31日</p></td>
+<td><p>21:05-23:45</p></td>
+<td><p>白</p></td>
+<td><p>72.0%</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第16回NHK紅白歌合戦" title="wikilink">第16回</a></p></td>
+<td><p><a href="../Page/1965年.md" title="wikilink">1965年</a>12月31日</p></td>
+<td><p>21:05-23:45</p></td>
+<td><p><a href="../Page/林美智子_(女優).md" title="wikilink">林美智子</a></p></td>
+<td><p>白 （14-11）</p></td>
+<td><p>78.1%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第17回NHK紅白歌合戦" title="wikilink">第17回</a></p></td>
+<td><p><a href="../Page/1966年.md" title="wikilink">1966年</a>12月31日</p></td>
+<td><p>21:05-23:45</p></td>
+<td><p><a href="../Page/ペギー葉山.md" title="wikilink">ペギー葉山</a></p></td>
+<td><p>紅 （22-3）</p></td>
+<td><p>74.0%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第18回NHK紅白歌合戦" title="wikilink">第18回</a></p></td>
+<td><p><a href="../Page/1967年.md" title="wikilink">1967年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p><a href="../Page/九重佑三子.md" title="wikilink">九重佑三子</a></p></td>
+<td><p>[90]北出清五郎</p></td>
+<td><p>紅</p></td>
+<td><p>76.7%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第19回NHK紅白歌合戦" title="wikilink">第19回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p><a href="../Page/水前寺清子.md" title="wikilink">水前寺清子</a></p></td>
+<td><p><a href="../Page/坂本九.md" title="wikilink">坂本九</a></p></td>
+<td><p>宮田輝[91]</p></td>
+<td><p>白 （10-7）</p></td>
+<td><p>76.9%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第20回NHK紅白歌合戦" title="wikilink">第20回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1969年" title="wikilink">1969年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/伊東ゆかり" title="wikilink">伊東ゆかり</a></p></td>
+<td><p>紅 （10-7）</p></td>
+<td><p>69.7%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第21回NHK紅白歌合戦" title="wikilink">第21回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1970年" title="wikilink">1970年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p><a href="../Page/美空ひばり.md" title="wikilink">美空ひばり</a></p></td>
+<td><p>宮田輝[92]</p></td>
+<td><p>北出清五郎[93]</p></td>
+<td><p>紅 （81-79）</p></td>
+<td><p>77.0%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第22回NHK紅白歌合戦" title="wikilink">第22回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1971年" title="wikilink">1971年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p>水前寺清子</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鈴木文彌" title="wikilink">鈴木文彌</a>[94]</p></td>
+<td><p>白 （102-98）</p></td>
+<td><p>78.1%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第23回NHK紅白歌合戦" title="wikilink">第23回</a></p></td>
+<td><p><a href="../Page/1972年.md" title="wikilink">1972年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐良直美" title="wikilink">佐良直美</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山川静夫" title="wikilink">山川静夫</a>[95]</p></td>
+<td><p>紅 （59-42）</p></td>
+<td><p>80.6%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第24回NHK紅白歌合戦" title="wikilink">第24回</a></p></td>
+<td><p><a href="../Page/1973年.md" title="wikilink">1973年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p>水前寺清子</p></td>
+<td><p>紅</p></td>
+<td><p>75.8%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第25回NHK紅白歌合戦" title="wikilink">第25回</a></p></td>
+<td><p><a href="../Page/1974年.md" title="wikilink">1974年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p>佐良直美</p></td>
+<td><p>山川静夫[96]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/土門正夫" title="wikilink">土門正夫</a>[97]<br />
+<a href="https://ja.wikipedia.org/wiki/中江陽三" title="wikilink">中江陽三</a>[98]</p></td>
+<td><p>紅</p></td>
+<td><p>74.8%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第26回NHK紅白歌合戦" title="wikilink">第26回</a></p></td>
+<td><p><a href="../Page/1975年.md" title="wikilink">1975年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p><a href="../Page/相川浩.md" title="wikilink">相川浩</a>[99]</p></td>
+<td><p>白</p></td>
+<td><p>72.0%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第27回NHK紅白歌合戦" title="wikilink">第27回</a></p></td>
+<td><p><a href="../Page/1976年.md" title="wikilink">1976年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p>紅</p></td>
+<td><p>74.6%</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第28回NHK紅白歌合戦" title="wikilink">第28回</a></p></td>
+<td><p><a href="../Page/1977年.md" title="wikilink">1977年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p>白</p></td>
+<td><p>77.0%</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第29回NHK紅白歌合戦" title="wikilink">第29回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p>森光子</p></td>
+<td><p>白</p></td>
+<td><p>72.2%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第30回NHK紅白歌合戦" title="wikilink">第30回</a></p></td>
+<td><p><a href="../Page/1979年.md" title="wikilink">1979年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p>水前寺清子</p></td>
+<td><p>中江陽三[100]</p></td>
+<td><p>紅</p></td>
+<td><p>77.0%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第31回NHK紅白歌合戦" title="wikilink">第31回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1980年" title="wikilink">1980年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p>黒柳徹子</p></td>
+<td><p>紅</p></td>
+<td><p>71.1%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第32回NHK紅白歌合戦" title="wikilink">第32回</a></p></td>
+<td><p><a href="../Page/1981年.md" title="wikilink">1981年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/生方恵一" title="wikilink">生方惠一</a>[101]</p></td>
+<td><p>白 （22-11）</p></td>
+<td><p>74.9%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第33回NHK紅白歌合戦" title="wikilink">第33回</a></p></td>
+<td><p><a href="../Page/1982年.md" title="wikilink">1982年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p>紅 （19-16）</p></td>
+<td><p>69.9%</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第34回NHK紅白歌合戦" title="wikilink">第34回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1983年" title="wikilink">1983年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p><a href="../Page/鈴木健二.md" title="wikilink">鈴木健二</a>[102]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/タモリ" title="wikilink">タモリ</a></p></td>
+<td><p>白 （19-10）</p></td>
+<td><p>74.2%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第35回NHK紅白歌合戦" title="wikilink">第35回</a></p></td>
+<td><p><a href="../Page/1984年.md" title="wikilink">1984年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p>森光子</p></td>
+<td><p>生方惠一[103]</p></td>
+<td><p>紅 （31-2）</p></td>
+<td><p>78.1%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第36回NHK紅白歌合戦" title="wikilink">第36回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p><a href="../Page/森昌子.md" title="wikilink">森昌子</a></p></td>
+<td><p><a href="../Page/千田正穂.md" title="wikilink">千田正穂</a>[104]</p></td>
+<td><p>紅 （22-11）</p></td>
+<td><p>66.0%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第37回NHK紅白歌合戦" title="wikilink">第37回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/目加田頼子" title="wikilink">目加田賴子</a>[105]<br />
+<a href="https://ja.wikipedia.org/wiki/斉藤由貴" title="wikilink">斉藤由貴</a></p></td>
+<td><p>千田正穂[106]<br />
+<a href="https://ja.wikipedia.org/wiki/加山雄三" title="wikilink">加山雄三</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/吉川精一" title="wikilink">吉川精一</a>[107]</p></td>
+<td><p>白</p></td>
+<td><p>59.4%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第38回NHK紅白歌合戦" title="wikilink">第38回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/和田アキ子" title="wikilink">和田アキ子</a></p></td>
+<td><p>加山雄三</p></td>
+<td><p>紅 （18-9）</p></td>
+<td><p>55.2%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第39回NHK紅白歌合戦" title="wikilink">第39回</a></p></td>
+<td><p><a href="../Page/1988年.md" title="wikilink">1988年</a>12月31日</p></td>
+<td><p>21:00-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/杉浦圭子" title="wikilink">杉浦圭子</a>[108]</p></td>
+<td><p>白 （19-8）</p></td>
+<td><p>53.9%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第40回NHK紅白歌合戦" title="wikilink">第40回</a></p></td>
+<td><p><a href="../Page/1989年.md" title="wikilink">1989年</a>12月31日</p></td>
+<td><p>1部 19:20-20:55<br />
+2部 21:00-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三田佳子" title="wikilink">三田佳子</a></p></td>
+<td><p><a href="../Page/武田鉄矢.md" title="wikilink">武田鉄矢</a></p></td>
+<td><p><a href="../Page/松平定知.md" title="wikilink">松平定知</a>[109]</p></td>
+<td><p>紅 （20-7）</p></td>
+<td><p>1部 38.5%<br />
+2部 47.0%</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第41回NHK紅白歌合戦" title="wikilink">第41回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a>12月31日</p></td>
+<td><p>1部 19:20-20:55<br />
+2部 21:00-23:45</p></td>
+<td><p><a href="../Page/西田敏行.md" title="wikilink">西田敏行</a></p></td>
+<td><p>白 （13-4）</p></td>
+<td><p>1部 30.6%<br />
+2部 51.5%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第42回NHK紅白歌合戦" title="wikilink">第42回</a></p></td>
+<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a>12月31日</p></td>
+<td><p>1部 19:20-20:55<br />
+2部 21:00-23:45</p></td>
+<td><p><a href="../Page/浅野ゆう子.md" title="wikilink">浅野ゆう子</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/堺正章" title="wikilink">堺正章</a></p></td>
+<td><p>山川静夫[110]</p></td>
+<td><p>紅 （8-7）</p></td>
+<td><p>1部 34.9%<br />
+2部 51.5%</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第43回NHK紅白歌合戦" title="wikilink">第43回</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a>12月31日</p></td>
+<td><p>1部 19:20-20:55<br />
+2部 21:00-23:45</p></td>
+<td><p><a href="../Page/石田ひかり.md" title="wikilink">石田ひかり</a></p></td>
+<td><p>白 （15-2）</p></td>
+<td><p>1部 40.2%<br />
+2部 55.2%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第44回NHK紅白歌合戦" title="wikilink">第44回</a></p></td>
+<td><p><a href="../Page/1993年.md" title="wikilink">1993年</a>12月31日</p></td>
+<td><p>1部 19:30-20:55<br />
+2部 21:00-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/森田美由紀" title="wikilink">森田美由紀</a>[111]</p></td>
+<td><p>白 （18-9）</p></td>
+<td><p>1部 42.4%<br />
+2部 50.1%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第45回NHK紅白歌合戦" title="wikilink">第45回</a></p></td>
+<td><p><a href="../Page/1994年.md" title="wikilink">1994年</a>12月31日</p></td>
+<td><p>1部 20:00-21:25<br />
+2部 21:30-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/上沼恵美子" title="wikilink">上沼恵美子</a></p></td>
+<td><p><a href="../Page/古舘伊知郎.md" title="wikilink">古舘伊知郎</a></p></td>
+<td><p><a href="../Page/宮川泰夫.md" title="wikilink">宮川泰夫</a>[112]</p></td>
+<td><p>紅 （9-8）</p></td>
+<td><p>1部 40.1%<br />
+2部 51.5%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第46回NHK紅白歌合戦" title="wikilink">第46回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a>12月31日</p></td>
+<td><p>1部 20:00-21:25<br />
+2部 21:30-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮本隆治" title="wikilink">宮本隆治</a>[113]<br />
+<a href="../Page/草野満代.md" title="wikilink">草野満代</a>[114]</p></td>
+<td><p>白 （13-4）</p></td>
+<td><p>1部 44.9%<br />
+2部 50.4%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第47回NHK紅白歌合戦" title="wikilink">第47回</a></p></td>
+<td><p><a href="../Page/1996年.md" title="wikilink">1996年</a>12月31日</p></td>
+<td><p>1部 20:00-21:25<br />
+2部 21:30-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/松たか子" title="wikilink">松たか子</a></p></td>
+<td><p>白 （9-4）</p></td>
+<td><p>1部 41.6%<br />
+2部 53.9%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第48回NHK紅白歌合戦" title="wikilink">第48回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a>12月31日</p></td>
+<td><p>1部 20:00-21:25<br />
+2部 21:30-23:45</p></td>
+<td><p>和田アキ子</p></td>
+<td><p><a href="../Page/中居正広.md" title="wikilink">中居正広</a><br />
+（<a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a>）</p></td>
+<td><p>宮本隆治[115]</p></td>
+<td><p>白 （9-4）</p></td>
+<td><p>1部 40.2%<br />
+2部 50.7%</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第49回NHK紅白歌合戦" title="wikilink">第49回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a>12月31日</p></td>
+<td><p>1部 20:00-21:25<br />
+2部 21:30-23:45</p></td>
+<td><p><a href="../Page/久保純子.md" title="wikilink">久保純子</a>[116]</p></td>
+<td><p>紅 （9-4）</p></td>
+<td><p>1部 45.4%<br />
+2部 57.2%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第50回NHK紅白歌合戦" title="wikilink">第50回</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a>12月31日</p></td>
+<td><p>1部 19:30-21:20<br />
+2部 21:30-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中村勘三郎_(18代目)" title="wikilink">5代中村勘九郎</a></p></td>
+<td><p>白 （7-6）</p></td>
+<td><p>1部 45.8%<br />
+2部 50.8%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第51回NHK紅白歌合戦" title="wikilink">第51回</a></p></td>
+<td><p><a href="../Page/2000年.md" title="wikilink">2000年</a>12月31日</p></td>
+<td><p>1部 19:20-21:25<br />
+2部 21:30-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/和泉元彌" title="wikilink">和泉元彌</a></p></td>
+<td><p>紅 （9-4）</p></td>
+<td><p>1部 39.2%<br />
+2部 48.4%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第52回NHK紅白歌合戦" title="wikilink">第52回</a></p></td>
+<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a>12月31日</p></td>
+<td><p>1部 19:30-21:25<br />
+2部 21:30-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/有働由美子" title="wikilink">有働由美子</a>[117]</p></td>
+<td><p><a href="../Page/阿部渉.md" title="wikilink">阿部渉</a>[118]</p></td>
+<td><p><a href="../Page/三宅民夫.md" title="wikilink">三宅民夫</a>[119]</p></td>
+<td><p>白 （9-4）</p></td>
+<td><p>1部 38.1%<br />
+2部 48.5%</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第53回NHK紅白歌合戦" title="wikilink">第53回</a></p></td>
+<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a>12月31日</p></td>
+<td><p>1部 19:30-21:25<br />
+2部 21:30-23:45</p></td>
+<td><p>紅 （9-6）</p></td>
+<td><p>1部 37.1%<br />
+2部 47.3%</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦" title="wikilink">第54回</a></p></td>
+<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a>12月31日</p></td>
+<td><p>1部 19:30-21:20<br />
+2部 21:30-23:45</p></td>
+<td><p>有働由美子[120]<br />
+<a href="https://ja.wikipedia.org/wiki/膳場貴子" title="wikilink">膳場貴子</a>[121]</p></td>
+<td><p>阿部渉[122]<br />
+<a href="https://ja.wikipedia.org/wiki/高山哲哉" title="wikilink">高山哲哉</a>[123]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/武内陶子" title="wikilink">武内陶子</a>[124]</p></td>
+<td><p>白 （15-0）</p></td>
+<td><p>1部 35.5%<br />
+2部 45.9%</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦" title="wikilink">第55回</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a>12月31日</p></td>
+<td><p>1部 19:30-21:20<br />
+2部 21:30-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小野文惠" title="wikilink">小野文惠</a>[125]</p></td>
+<td><p><a href="../Page/阿部渉.md" title="wikilink">阿部渉</a>[126]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/堀尾正明" title="wikilink">堀尾正明</a>[127]</p></td>
+<td><p>紅 （8-5）</p></td>
+<td><p>1部 30.8%<br />
+2部 39.3%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第56回NHK紅白歌合戦" title="wikilink">第56回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>12月31日</p></td>
+<td><p>1部 19:20-21:25<br />
+2部 21:30-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/仲間由紀恵" title="wikilink">仲間由紀恵</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山本耕史" title="wikilink">山本耕史</a></p></td>
+<td><p><a href="../Page/みのもんた.md" title="wikilink">みのもんた</a><br />
+<a href="https://ja.wikipedia.org/wiki/山根基世" title="wikilink">山根基世</a>[128]</p></td>
+<td><p>白</p></td>
+<td><p>1部 35.4%<br />
+2部 42.9%</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦" title="wikilink">第57回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>12月31日</p></td>
+<td><p>前半 19:20-21:25<br />
+後半 21:30-23:45</p></td>
+<td><p>中居正広<br />
+（SMAP）</p></td>
+<td><p>三宅民夫[129]<br />
+<a href="https://ja.wikipedia.org/wiki/黒崎めぐみ" title="wikilink">黒崎めぐみ</a>[130]</p></td>
+<td><p>白 （13-5）</p></td>
+<td><p>前半 30.6%<br />
+後半 39.8%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/第58回NHK紅白歌合戦.md" title="wikilink">第58回</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a>12月31日</p></td>
+<td><p>前半 19:20-21:25<br />
+後半 21:30-23:45</p></td>
+<td><p>中居正広<br />
+（SMAP）</p></td>
+<td><p><a href="../Page/笑福亭鶴瓶.md" title="wikilink">笑福亭鶴瓶</a></p></td>
+<td><p><a href="../Page/松本和也.md" title="wikilink">松本和也</a>[131]<br />
+<a href="https://ja.wikipedia.org/wiki/住吉美紀" title="wikilink">住吉美紀</a>[132]</p></td>
+<td><p>白</p></td>
+<td><p>前半 32.8%<br />
+後半 39.5%</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦" title="wikilink">第59回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a>12月31日</p></td>
+<td><p>前半 19:20-21:25<br />
+後半 21:30-23:45</p></td>
+<td><p>仲間由紀恵</p></td>
+<td><p>中居正広<br />
+（SMAP）</p></td>
+<td><p>松本和也[133]<br />
+小野文惠[134]</p></td>
+<td><p>白</p></td>
+<td><p>前半 35.7%<br />
+後半 42.1%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦" title="wikilink">第60回</a></p></td>
+<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a>12月31日</p></td>
+<td><p>前半 19:15-20:55<br />
+後半 21:00-23:45</p></td>
+<td><p>阿部渉[135]</p></td>
+<td><p>白</p></td>
+<td><p>前半 37.1%<br />
+後半 40.8%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦" title="wikilink">第61回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a>12月31日</p></td>
+<td><p>前半 19:30-21:25<br />
+後半 21:30-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/松下奈緒" title="wikilink">松下奈緒</a></p></td>
+<td><p><a href="../Page/嵐_(グループ).md" title="wikilink">嵐</a></p></td>
+<td><p>白</p></td>
+<td><p>前半 35.7%<br />
+後半 41.7%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第62回NHK紅白歌合戦" title="wikilink">第62回</a></p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a>12月31日</p></td>
+<td><p>前半 19:15-20:55<br />
+後半 21:00-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/井上真央" title="wikilink">井上真央</a></p></td>
+<td><p>紅</p></td>
+<td><p>前半 35.2%<br />
+後半 41.6%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第63回NHK紅白歌合戦" title="wikilink">第63回</a></p></td>
+<td><p><a href="../Page/2012年.md" title="wikilink">2012年</a>12月31日</p></td>
+<td><p>前半 19:15-20:55<br />
+後半 21:00-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/堀北真希" title="wikilink">堀北真希</a></p></td>
+<td><p>有働由美子[136]</p></td>
+<td><p>白</p></td>
+<td><p>前半 33.2%<br />
+後半 42.5%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦" title="wikilink">第64回</a></p></td>
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a>12月31日</p></td>
+<td><p>前半 19:15-20:55<br />
+後半 21:00-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/綾瀬はるか" title="wikilink">綾瀬はるか</a></p></td>
+<td><p>白（9-4）</p></td>
+<td><p>前半 36.9%<br />
+後半 44.5%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第65回NHK紅白歌合戦" title="wikilink">第65回</a></p></td>
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a>12月31日</p></td>
+<td><p>前半 19:15-20:55<br />
+後半 21:00-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/吉高由里子" title="wikilink">吉高由里子</a></p></td>
+<td><p>白</p></td>
+<td><p>前半 35.1%<br />
+後半 42.2%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第66回NHK紅白歌合戦" title="wikilink">第66回</a></p></td>
+<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a>12月31日</p></td>
+<td><p>前半 19:15-20:55<br />
+後半 21:00-23:45</p></td>
+<td><p>綾瀬はるか</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/井ノ原快彦" title="wikilink">井ノ原快彦</a><br />
+（<a href="../Page/V6_(グループ).md" title="wikilink">V6</a>）</p></td>
+<td><p>黒柳徹子<br />
+有働由美子[137]</p></td>
+<td><p>紅</p></td>
+<td><p>前半 34.8%<br />
+後半 39.2%</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第67回NHK紅白歌合戦" title="wikilink">第67回</a></p></td>
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a>12月31日</p></td>
+<td><p>前半 19:15-20:55<br />
+後半 21:00-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/有村架純" title="wikilink">有村架純</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/相葉雅紀" title="wikilink">相葉雅紀</a><br />
+（嵐）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/武田真一" title="wikilink">武田真一</a>[138]</p></td>
+<td><p>紅 （9-6）[139]</p></td>
+<td><p>前半 35.1%<br />
+後半 40.2%</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦" title="wikilink">第68回</a></p></td>
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a>12月31日</p></td>
+<td><p>前半 19:15-20:55<br />
+後半 21:00-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/二宮和也" title="wikilink">二宮和也</a><br />
+（嵐）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/内村光良" title="wikilink">内村光良</a><br />
+（<a href="../Page/ウッチャンナンチャン.md" title="wikilink">ウッチャンナンチャン</a>）<br />
+<a href="https://ja.wikipedia.org/wiki/桑子真帆" title="wikilink">桑子真帆</a>[140]</p></td>
+<td><p>白</p></td>
+<td><p>前半 35.8%<br />
+後半 39.4%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦" title="wikilink">第69回</a></p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a>12月31日</p></td>
+<td><p>前半 19:15-20:55<br />
+後半 21:00-23:45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/広瀬すず" title="wikilink">広瀬すず</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/櫻井翔" title="wikilink">櫻井翔</a><br />
+（嵐）</p></td>
+<td><p>白（2-1）</p></td>
+<td><p>前半 37.7%<br />
+後半 41.5%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第70回NHK紅白歌合戦" title="wikilink">第70回</a></p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a>12月31日</p></td>
+<td><p>前半 19:15-20:55<br />
+後半 21:00-23:45</p></td>
+<td><p>綾瀬はるか</p></td>
+<td><p>内村光良<br />
+（ウッチャンナンチャン）<br />
+<a href="https://ja.wikipedia.org/wiki/和久田麻由子" title="wikilink">和久田麻由子</a>[141]</p></td>
+<td><p>白（2-1）</p></td>
+<td><p>前半 34.7%<br />
+後半 37.3%</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<div style="font-size: smaller">
+
+※視聴率は[ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")調べ、関東地区・世帯・リアルタイム。第1 - 12回の視聴率はビデオリサーチ設立前のため記録なし\[142\]。
+
+1.  一部の回の優勝チームに付記された括弧内の数字は、最終審査結果の票数。
+2.  総合司会のうち、第18回までと第25回の土門・中江、第34回のタモリ、第45回の宮川の名義は「進行役」。また、総合司会が正式であるものは第19回から第20回、第34回から第55回、第57回からである。
+3.  第56回については当初司会者の区別は設定せず、上記の4人によるグループ司会で進行すると発表されたが、実際の放送では仲間がおもに紅組歌手、山本がおもに白組歌手の曲を中心に司会（エンディング時の優勝旗授与も山本が優勝旗を受け取った）、みのは実質上生放送の全 すべての進行を統括する総合司会的な役割、山根は進行役的役割という形式で役割分担がなされた。上記の表では実質的な役割に従って氏名を記載した。
+4.  嵐は[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")、櫻井翔、相葉雅紀、二宮和也、[松本潤](../Page/松本潤.md "wikilink")から構成されるグループである。
+
+</div>
+
+| 回数          | アナウンサー                                                                                                        |
+| ----------- | ------------------------------------------------------------------------------------------------------------- |
+| 第51回（2000年） | 阿部渉                                                                                                           |
+| 第52回（2001年） | 小野文惠、[高市佳明](https://ja.wikipedia.org/wiki/高市佳明 "wikilink")                                                    |
+| 第53回（2002年） | 小野文惠、高市佳明                                                                                                     |
+| 第54回（2003年） | 小野文惠、[藤崎弘士](https://ja.wikipedia.org/wiki/藤崎弘士 "wikilink")                                                    |
+| 第55回（2004年） | 藤崎弘士、住吉美紀                                                                                                     |
+| 第56回（2005年） | 藤崎弘士、黒崎めぐみ                                                                                                    |
+| 第57回（2006年） | [小田切千](../Page/小田切千.md "wikilink")、[島津有理子](https://ja.wikipedia.org/wiki/島津有理子 "wikilink")                    |
+| 第58回（2007年） | 小田切千、[塚原愛](https://ja.wikipedia.org/wiki/塚原愛 "wikilink")                                                      |
+| 第59回（2008年） | [山田康弘](https://ja.wikipedia.org/wiki/山田康弘 "wikilink")、[神田愛花](https://ja.wikipedia.org/wiki/神田愛花 "wikilink")   |
+| 第60回（2009年） | 山田康弘、神田愛花                                                                                                     |
+| 第61回（2010年） | [小松宏司](../Page/小松宏司.md "wikilink")、黒崎めぐみ                                                                      |
+| 第62回（2011年） | 小松宏司、[橋本奈穂子](https://ja.wikipedia.org/wiki/橋本奈穂子 "wikilink")                                                  |
+| 第63回（2012年） | [青井実](https://ja.wikipedia.org/wiki/青井実 "wikilink")、橋本奈穂子                                                     |
+| 第64回（2013年） | [吉田一貴](../Page/吉田一貴.md "wikilink")、[久保田祐佳](https://ja.wikipedia.org/wiki/久保田祐佳 "wikilink")                    |
+| 第65回（2014年） | 青井実、[首藤奈知子](../Page/首藤奈知子.md "wikilink")                                                                      |
+| 第66回（2015年） | [中川緑](https://ja.wikipedia.org/wiki/中川緑 "wikilink")、高山哲哉                                                      |
+| 第67回（2016年） | [寺門亜衣子](https://ja.wikipedia.org/wiki/寺門亜衣子 "wikilink")、[二宮直輝](https://ja.wikipedia.org/wiki/二宮直輝 "wikilink") |
+| 第68回（2017年） | [小郷知子](https://ja.wikipedia.org/wiki/小郷知子 "wikilink")、二宮直輝                                                    |
+| 第69回（2018年） | [小松宏司](../Page/小松宏司.md "wikilink")、[千葉美乃梨](https://ja.wikipedia.org/wiki/千葉美乃梨 "wikilink")                    |
+| 第70回（2019年） | [片山千恵子](https://ja.wikipedia.org/wiki/片山千恵子 "wikilink")、[田村直之](https://ja.wikipedia.org/wiki/田村直之 "wikilink") |
+
+ラジオ実況担当
+
+### 歴代トップバッター歌手とその曲目
+
+色付きの枠が先攻トップバッター（不明のケースもある）。（ ）は通算出場回数、\[ \]は通算トップバッター回数を示す。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>回数</p></th>
+<th><p>年</p></th>
+<th><p>紅組トップバッター</p></th>
+<th><p>白組トップバッター</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>歌手</p></td>
+<td><p>曲目</p></td>
+<td><p>歌手</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第1回NHK紅白歌合戦" title="wikilink">第1回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1951年" title="wikilink">1951年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/菅原都々子" title="wikilink">菅原都々子</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/憧れの住む町" title="wikilink">憧れの住む町</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第2回NHK紅白歌合戦" title="wikilink">第2回</a></p></td>
+<td><p><a href="../Page/1952年.md" title="wikilink">1952年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/暁テル子" title="wikilink">暁テル子</a>(2) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/メロンはいかが" title="wikilink">メロンはいかが</a>[143]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第3回NHK紅白歌合戦" title="wikilink">第3回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1953年" title="wikilink">1953年</a><br />
+1月</p></td>
+<td><p><a href="../Page/菊池章子.md" title="wikilink">菊池章子</a>(2) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/母の瞳" title="wikilink">母の瞳</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第4回NHK紅白歌合戦" title="wikilink">第4回</a></p></td>
+<td><p>1953年<br />
+12月</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/赤坂小梅" title="wikilink">赤坂小梅</a>(2) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/おてもやん" title="wikilink">おてもやん</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第5回NHK紅白歌合戦" title="wikilink">第5回</a></p></td>
+<td><p><a href="../Page/1954年.md" title="wikilink">1954年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮城まり子" title="wikilink">宮城まり子</a>(初) [初]</p></td>
+<td><p><a href="../Page/毒消しゃいらんかね.md" title="wikilink">毒消しゃいらんかね</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第6回NHK紅白歌合戦" title="wikilink">第6回</a></p></td>
+<td><p><a href="../Page/1955年.md" title="wikilink">1955年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/荒井恵子" title="wikilink">荒井恵子</a>(2) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/希望をのせて馬車は行く" title="wikilink">希望をのせて馬車は行く</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第7回NHK紅白歌合戦" title="wikilink">第7回</a></p></td>
+<td><p><a href="../Page/1956年.md" title="wikilink">1956年</a></p></td>
+<td><p>荒井恵子(3) [2]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/南の花嫁さん" title="wikilink">南の花嫁さん</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第8回NHK紅白歌合戦" title="wikilink">第8回</a></p></td>
+<td><p><a href="../Page/1957年.md" title="wikilink">1957年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/楠トシエ" title="wikilink">楠トシエ</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/お花どん" title="wikilink">お花どん</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第9回NHK紅白歌合戦" title="wikilink">第9回</a></p></td>
+<td><p><a href="../Page/1958年.md" title="wikilink">1958年</a></p></td>
+<td><p>荒井恵子(4) [3]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/橇は飛ぶよ" title="wikilink">橇は飛ぶよ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第10回NHK紅白歌合戦" title="wikilink">第10回</a></p></td>
+<td><p><a href="../Page/1959年.md" title="wikilink">1959年</a></p></td>
+<td><p>荒井恵子(5) [4]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/白菊の歌" title="wikilink">白菊の歌</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第11回NHK紅白歌合戦" title="wikilink">第11回</a></p></td>
+<td><p><a href="../Page/1960年.md" title="wikilink">1960年</a></p></td>
+<td><p>荒井恵子(6) [5]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/青い月夜の散歩道" title="wikilink">青い月夜の散歩道</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第12回NHK紅白歌合戦" title="wikilink">第12回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1961年" title="wikilink">1961年</a></p></td>
+<td><p><a href="../Page/朝丘雪路.md" title="wikilink">朝丘雪路</a>(4) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/チャチャで飲みましょう" title="wikilink">チャチャで飲みましょう</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第13回NHK紅白歌合戦" title="wikilink">第13回</a></p></td>
+<td><p><a href="../Page/1962年.md" title="wikilink">1962年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/仲宗根美樹" title="wikilink">仲宗根美樹</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/川は流れる" title="wikilink">川は流れる</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第14回NHK紅白歌合戦" title="wikilink">第14回</a></p></td>
+<td><p><a href="../Page/1963年.md" title="wikilink">1963年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/弘田三枝子" title="wikilink">弘田三枝子</a>(2) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/悲しきハート" title="wikilink">悲しきハート</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第15回NHK紅白歌合戦" title="wikilink">第15回</a></p></td>
+<td><p><a href="../Page/1964年.md" title="wikilink">1964年</a></p></td>
+<td><p>朝丘雪路(7) [2]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/夜の八丈島" title="wikilink">夜の八丈島</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第16回NHK紅白歌合戦" title="wikilink">第16回</a></p></td>
+<td><p><a href="../Page/1965年.md" title="wikilink">1965年</a></p></td>
+<td><p><a href="../Page/三沢あけみ.md" title="wikilink">三沢あけみ</a>(2) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アリューシャン小唄" title="wikilink">アリューシャン小唄</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第17回NHK紅白歌合戦" title="wikilink">第17回</a></p></td>
+<td><p><a href="../Page/1966年.md" title="wikilink">1966年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中尾ミエ" title="wikilink">中尾ミエ</a>(5) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/蜜の味_(中尾ミエの曲)" title="wikilink">蜜の味</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第18回NHK紅白歌合戦" title="wikilink">第18回</a></p></td>
+<td><p><a href="../Page/1967年.md" title="wikilink">1967年</a></p></td>
+<td><p><a href="../Page/水前寺清子.md" title="wikilink">水前寺清子</a>(3) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/どうどうどっこの唄" title="wikilink">どうどうどっこの唄</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第19回NHK紅白歌合戦" title="wikilink">第19回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/都はるみ" title="wikilink">都はるみ</a>(4) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/好きになった人_(都はるみの曲)" title="wikilink">好きになった人</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第20回NHK紅白歌合戦" title="wikilink">第20回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1969年" title="wikilink">1969年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/青江三奈" title="wikilink">青江三奈</a>(3) [初]</p></td>
+<td><p><a href="../Page/池袋の夜.md" title="wikilink">池袋の夜</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第21回NHK紅白歌合戦" title="wikilink">第21回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1970年" title="wikilink">1970年</a></p></td>
+<td><p>水前寺清子(6) [2]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大勝負" title="wikilink">大勝負</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第22回NHK紅白歌合戦" title="wikilink">第22回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1971年" title="wikilink">1971年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/南沙織" title="wikilink">南沙織</a>(初) [初]</p></td>
+<td><p><a href="../Page/17才_(南沙織の曲).md" title="wikilink">17才</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第23回NHK紅白歌合戦" title="wikilink">第23回</a></p></td>
+<td><p><a href="../Page/1972年.md" title="wikilink">1972年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/天地真理" title="wikilink">天地真理</a>(初) [初]</p></td>
+<td><p><a href="../Page/ひとりじゃないの.md" title="wikilink">ひとりじゃないの</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第24回NHK紅白歌合戦" title="wikilink">第24回</a></p></td>
+<td><p><a href="../Page/1973年.md" title="wikilink">1973年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小柳ルミ子" title="wikilink">小柳ルミ子</a>(3) [初]</p></td>
+<td><p><a href="../Page/漁火恋唄.md" title="wikilink">漁火恋唄</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第25回NHK紅白歌合戦" title="wikilink">第25回</a></p></td>
+<td><p><a href="../Page/1974年.md" title="wikilink">1974年</a></p></td>
+<td><p><a href="../Page/山口百恵.md" title="wikilink">山口百恵</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ひと夏の経験" title="wikilink">ひと夏の経験</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第26回NHK紅白歌合戦" title="wikilink">第26回</a></p></td>
+<td><p><a href="../Page/1975年.md" title="wikilink">1975年</a></p></td>
+<td><p><a href="../Page/岩崎宏美.md" title="wikilink">岩崎宏美</a>(初) [初]</p></td>
+<td><p><a href="../Page/ロマンス_(岩崎宏美の曲).md" title="wikilink">ロマンス</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第27回NHK紅白歌合戦" title="wikilink">第27回</a></p></td>
+<td><p><a href="../Page/1976年.md" title="wikilink">1976年</a></p></td>
+<td><p>山口百恵(3) [2]</p></td>
+<td><p><a href="../Page/横須賀ストーリー.md" title="wikilink">横須賀ストーリー</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第28回NHK紅白歌合戦" title="wikilink">第28回</a></p></td>
+<td><p><a href="../Page/1977年.md" title="wikilink">1977年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/桜田淳子" title="wikilink">桜田淳子</a>(4) [初]</p></td>
+<td><p><a href="../Page/気まぐれヴィーナス.md" title="wikilink">気まぐれヴィーナス</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第29回NHK紅白歌合戦" title="wikilink">第29回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a></p></td>
+<td><p><a href="../Page/榊原郁恵.md" title="wikilink">榊原郁恵</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/夏のお嬢さん" title="wikilink">夏のお嬢さん</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第30回NHK紅白歌合戦" title="wikilink">第30回</a></p></td>
+<td><p><a href="../Page/1979年.md" title="wikilink">1979年</a></p></td>
+<td><p><a href="../Page/石野真子.md" title="wikilink">石野真子</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジュリーがライバル" title="wikilink">ジュリーがライバル</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第31回NHK紅白歌合戦" title="wikilink">第31回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1980年" title="wikilink">1980年</a></p></td>
+<td><p>榊原郁恵(3) [2]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ROBOT_(榊原郁恵の曲)" title="wikilink">ROBOT</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第32回NHK紅白歌合戦" title="wikilink">第32回</a></p></td>
+<td><p><a href="../Page/1981年.md" title="wikilink">1981年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/河合奈保子" title="wikilink">河合奈保子</a>(初) [初]</p></td>
+<td><p><a href="../Page/スマイル・フォー・ミー_(河合奈保子の曲).md" title="wikilink">スマイル・フォー・ミー</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第33回NHK紅白歌合戦" title="wikilink">第33回</a></p></td>
+<td><p><a href="../Page/1982年.md" title="wikilink">1982年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三原じゅん子" title="wikilink">三原順子</a>(初) [初]</p></td>
+<td><p>[[ホンキでLove_me_Good</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第34回NHK紅白歌合戦" title="wikilink">第34回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1983年" title="wikilink">1983年</a></p></td>
+<td><p>岩崎宏美(9)[2]</p></td>
+<td><p><a href="../Page/家路_(岩崎宏美の曲).md" title="wikilink">家路</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第35回NHK紅白歌合戦" title="wikilink">第35回</a></p></td>
+<td><p><a href="../Page/1984年.md" title="wikilink">1984年</a></p></td>
+<td><p><a href="../Page/早見優.md" title="wikilink">早見優</a>(2) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/誘惑光線・クラッ!" title="wikilink">誘惑光線☆クラッ!</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第36回NHK紅白歌合戦" title="wikilink">第36回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/石川秀美" title="wikilink">石川秀美</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/愛の呪文" title="wikilink">愛の呪文</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第37回NHK紅白歌合戦" title="wikilink">第37回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/荻野目洋子" title="wikilink">荻野目洋子</a>(初) [初]</p></td>
+<td><p><a href="../Page/ダンシング・ヒーロー_(Eat_You_Up).md" title="wikilink">ダンシング・ヒーロー (Eat You Up)</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第38回NHK紅白歌合戦" title="wikilink">第38回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/八代亜紀" title="wikilink">八代亜紀</a>(15) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/恋は火の川" title="wikilink">恋は火の川</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第39回NHK紅白歌合戦" title="wikilink">第39回</a></p></td>
+<td><p><a href="../Page/1988年.md" title="wikilink">1988年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中山美穂" title="wikilink">中山美穂</a>(初) [初]</p></td>
+<td><p><a href="../Page/Witches.md" title="wikilink">Witches</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第40回NHK紅白歌合戦" title="wikilink">第40回</a></p></td>
+<td><p><a href="../Page/1989年.md" title="wikilink">1989年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/織井茂子" title="wikilink">織井茂子</a>(6) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/君の名は" title="wikilink">君の名は</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第41回NHK紅白歌合戦" title="wikilink">第41回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a></p></td>
+<td><p><a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/笑顔の行方" title="wikilink">笑顔の行方</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第42回NHK紅白歌合戦" title="wikilink">第42回</a></p></td>
+<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
+<td><p><a href="../Page/西田ひかる.md" title="wikilink">西田ひかる</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ときめいて" title="wikilink">ときめいて</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第43回NHK紅白歌合戦" title="wikilink">第43回</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
+<td><p><a href="../Page/森口博子.md" title="wikilink">森口博子</a>(2) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スピード_(森口博子の曲)" title="wikilink">スピード</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第44回NHK紅白歌合戦" title="wikilink">第44回</a></p></td>
+<td><p><a href="../Page/1993年.md" title="wikilink">1993年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/久宝留理子" title="wikilink">久宝留理子</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/男_(久宝留理子の曲)" title="wikilink">「男」</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第45回NHK紅白歌合戦" title="wikilink">第45回</a></p></td>
+<td><p><a href="../Page/1994年.md" title="wikilink">1994年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TRF" title="wikilink">trf</a>(初) [初]</p></td>
+<td><p><a href="../Page/BOY_MEETS_GIRL.md" title="wikilink">BOY MEETS GIRL</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第46回NHK紅白歌合戦" title="wikilink">第46回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/酒井法子" title="wikilink">酒井法子</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/碧いうさぎ" title="wikilink">碧いうさぎ</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第47回NHK紅白歌合戦" title="wikilink">第47回</a></p></td>
+<td><p><a href="../Page/1996年.md" title="wikilink">1996年</a></p></td>
+<td><p><a href="../Page/JUDY_AND_MARY.md" title="wikilink">JUDY AND MARY</a>(初) [初]</p></td>
+<td><p><a href="../Page/そばかす_(曲).md" title="wikilink">そばかす</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第48回NHK紅白歌合戦" title="wikilink">第48回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/SPEED" title="wikilink">SPEED</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/White_Love_(SPEEDの曲)" title="wikilink">White Love</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第49回NHK紅白歌合戦" title="wikilink">第49回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a></p></td>
+<td><p>SPEED(2) [2]</p></td>
+<td><p><a href="../Page/ALL_MY_TRUE_LOVE.md" title="wikilink">ALL MY TRUE LOVE</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第50回NHK紅白歌合戦" title="wikilink">第50回</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/モーニング娘。" title="wikilink">モーニング娘。</a>(2) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/LOVEマシーン" title="wikilink">LOVEマシーン</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第51回NHK紅白歌合戦" title="wikilink">第51回</a></p></td>
+<td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Whiteberry" title="wikilink">Whiteberry</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/夏祭り_(JITTERIN&#39;JINNの曲)#Whiteberry" title="wikilink">夏祭り</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第52回NHK紅白歌合戦" title="wikilink">第52回</a></p></td>
+<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
+<td><p><a href="../Page/松浦亜弥.md" title="wikilink">松浦亜弥</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/LOVE涙色" title="wikilink">LOVE涙色</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第53回NHK紅白歌合戦" title="wikilink">第53回</a></p></td>
+<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤本美貴" title="wikilink">藤本美貴</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ロマンティック_浮かれモード" title="wikilink">ロマンティック 浮かれモード</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦" title="wikilink">第54回</a></p></td>
+<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
+<td><p><a href="../Page/BoA.md" title="wikilink">BoA</a>(2) [初]</p></td>
+<td><p><a href="../Page/DOUBLE_(BoAの曲).md" title="wikilink">DOUBLE</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦" title="wikilink">第55回</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/上戸彩" title="wikilink">上戸彩</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/愛のために。" title="wikilink">愛のために。</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第56回NHK紅白歌合戦" title="wikilink">第56回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/川中美幸" title="wikilink">川中美幸</a>(18) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/二輪草" title="wikilink">二輪草</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦" title="wikilink">第57回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/mihimaru_GT" title="wikilink">mihimaru GT</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/気分上々↑↑" title="wikilink">気分上々↑↑</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/第58回NHK紅白歌合戦.md" title="wikilink">第58回</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
+<td><p>モーニング娘。(10) [2]<br />
+<a href="../Page/Berryz工房.md" title="wikilink">Berryz工房</a>(初) [初]<br />
+<a href="https://ja.wikipedia.org/wiki/℃-ute" title="wikilink">℃-ute</a>(初) [初]</p></td>
+<td><p>Special LOVE Mix<br />
+〜幸せの平成20周年 Ver.〜[144]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦" title="wikilink">第59回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a>(10) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Mirrorcle_World" title="wikilink">Mirrorcle World</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦" title="wikilink">第60回</a></p></td>
+<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
+<td><p>浜崎あゆみ(11) [2]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Rule/Sparkle" title="wikilink">Rule</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦" title="wikilink">第61回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
+<td><p>浜崎あゆみ(12) [3]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/L_(浜崎あゆみのシングル)" title="wikilink">Virgin Road</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第62回NHK紅白歌合戦" title="wikilink">第62回</a></p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
+<td><p>浜崎あゆみ(13) [4]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FIVE_(浜崎あゆみのアルバム)" title="wikilink">progress</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第63回NHK紅白歌合戦" title="wikilink">第63回</a></p></td>
+<td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
+<td><p>浜崎あゆみ(14) [5]</p></td>
+<td><p>2012 A SPECIAL メドレー</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦" title="wikilink">第64回</a></p></td>
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
+<td><p>浜崎あゆみ(15) [6]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/INSPIRE_(浜崎あゆみの曲)" title="wikilink">INSPIRE</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第65回NHK紅白歌合戦" title="wikilink">第65回</a></p></td>
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/HKT48" title="wikilink">HKT48</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/メロンジュース_(曲)" title="wikilink">メロンジュース</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第66回NHK紅白歌合戦" title="wikilink">第66回</a></p></td>
+<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大原櫻子" title="wikilink">大原櫻子</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/瞳_(大原櫻子の曲)" title="wikilink">瞳</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第67回NHK紅白歌合戦" title="wikilink">第67回</a></p></td>
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
+<td><p><a href="../Page/PUFFY.md" title="wikilink">PUFFY</a>(初) [初]</p></td>
+<td><p>PUFFY 20周年紅白スペシャル[145]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦" title="wikilink">第68回</a></p></td>
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Little_Glee_Monster" title="wikilink">Little Glee Monster</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/好きだ。" title="wikilink">好きだ。</a>〜夢を歌おう ver.〜</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦" title="wikilink">第69回</a></p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/坂本冬美" title="wikilink">坂本冬美</a>(30) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/夜桜お七" title="wikilink">夜桜お七</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第70回NHK紅白歌合戦" title="wikilink">第70回</a></p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/パプリカ_(曲)#Foorin" title="wikilink">Foorin</a>(初) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/パプリカ_(曲)" title="wikilink">パプリカ</a> -紅白スペシャルパージョン-</p></td>
+</tr>
+</tbody>
+</table>
+
+### 歴代トリ歌手とその曲目
+
+色付きの枠が大トリ（不明のケースもある）。（ ）は通算出場回数、\[ \]は通算トリ回数を示す。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>回数</p></th>
+<th><p>年</p></th>
+<th><p>紅組トリ</p></th>
+<th><p>白組トリ</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>歌手</p></td>
+<td><p>曲目</p></td>
+<td><p>歌手</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第1回NHK紅白歌合戦" title="wikilink">第1回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1951年" title="wikilink">1951年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/渡辺はま子" title="wikilink">渡辺はま子</a>（初） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/桑港のチャイナ街" title="wikilink">桑港のチャイナ街</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第2回NHK紅白歌合戦" title="wikilink">第2回</a></p></td>
+<td><p><a href="../Page/1952年.md" title="wikilink">1952年</a></p></td>
+<td><p>渡辺はま子（2） [2]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/火の鳥_(渡辺はま子の曲)" title="wikilink">火の鳥</a>[146]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第3回NHK紅白歌合戦" title="wikilink">第3回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1953年" title="wikilink">1953年</a><br />
+1月</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/笠置シヅ子" title="wikilink">笠置シヅ子</a>（2） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ホームラン・ブギ" title="wikilink">ホームラン・ブギ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第4回NHK紅白歌合戦" title="wikilink">第4回</a></p></td>
+<td><p>1953年<br />
+12月</p></td>
+<td><p><a href="../Page/淡谷のり子.md" title="wikilink">淡谷のり子</a>[147]（初） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アデュー" title="wikilink">アデュー</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第5回NHK紅白歌合戦" title="wikilink">第5回</a></p></td>
+<td><p><a href="../Page/1954年.md" title="wikilink">1954年</a></p></td>
+<td><p>渡辺はま子（4） [3]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東京の薔薇" title="wikilink">東京の薔薇</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第6回NHK紅白歌合戦" title="wikilink">第6回</a></p></td>
+<td><p><a href="../Page/1955年.md" title="wikilink">1955年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/二葉あき子" title="wikilink">二葉あき子</a>（6） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/バラのルンバ" title="wikilink">バラのルンバ</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第7回NHK紅白歌合戦" title="wikilink">第7回</a></p></td>
+<td><p><a href="../Page/1956年.md" title="wikilink">1956年</a></p></td>
+<td><p>笠置シヅ子（4） [2]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ヘイ・ヘイ・ブギ" title="wikilink">ヘイ・ヘイ・ブギ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第8回NHK紅白歌合戦" title="wikilink">第8回</a></p></td>
+<td><p><a href="../Page/1957年.md" title="wikilink">1957年</a></p></td>
+<td><p><a href="../Page/美空ひばり.md" title="wikilink">美空ひばり</a>（2） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/長崎の蝶々さん" title="wikilink">長崎の蝶々さん</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第9回NHK紅白歌合戦" title="wikilink">第9回</a></p></td>
+<td><p><a href="../Page/1958年.md" title="wikilink">1958年</a></p></td>
+<td><p>美空ひばり（3） [2]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/白いランチで十四ノット" title="wikilink">白いランチで十四ノット</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第10回NHK紅白歌合戦" title="wikilink">第10回</a></p></td>
+<td><p><a href="../Page/1959年.md" title="wikilink">1959年</a></p></td>
+<td><p>美空ひばり（4） [3]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/御存知弁天小僧" title="wikilink">御存知弁天小僧</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第11回NHK紅白歌合戦" title="wikilink">第11回</a></p></td>
+<td><p><a href="../Page/1960年.md" title="wikilink">1960年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/島倉千代子" title="wikilink">島倉千代子</a>（4） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/他国の雨" title="wikilink">他国の雨</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第12回NHK紅白歌合戦" title="wikilink">第12回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1961年" title="wikilink">1961年</a></p></td>
+<td><p>島倉千代子（5） [2]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/襟裳岬_(島倉千代子の曲)" title="wikilink">襟裳岬</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第13回NHK紅白歌合戦" title="wikilink">第13回</a></p></td>
+<td><p><a href="../Page/1962年.md" title="wikilink">1962年</a></p></td>
+<td><p>島倉千代子（6） [3]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/さよならとさよなら" title="wikilink">さよならとさよなら</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第14回NHK紅白歌合戦" title="wikilink">第14回</a></p></td>
+<td><p><a href="../Page/1963年.md" title="wikilink">1963年</a></p></td>
+<td><p>美空ひばり（8） [4]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/哀愁出船" title="wikilink">哀愁出船</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第15回NHK紅白歌合戦" title="wikilink">第15回</a></p></td>
+<td><p><a href="../Page/1964年.md" title="wikilink">1964年</a></p></td>
+<td><p>美空ひばり（9） [5]</p></td>
+<td><p>|<a href="../Page/柔_(美空ひばりの曲).md" title="wikilink">柔</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第16回NHK紅白歌合戦" title="wikilink">第16回</a></p></td>
+<td><p><a href="../Page/1965年.md" title="wikilink">1965年</a></p></td>
+<td><p>美空ひばり（10） [6]</p></td>
+<td><p>柔</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第17回NHK紅白歌合戦" title="wikilink">第17回</a></p></td>
+<td><p><a href="../Page/1966年.md" title="wikilink">1966年</a></p></td>
+<td><p>美空ひばり（11） [7]</p></td>
+<td><p>|<a href="https://ja.wikipedia.org/wiki/悲しい酒" title="wikilink">悲しい酒</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第18回NHK紅白歌合戦" title="wikilink">第18回</a></p></td>
+<td><p><a href="../Page/1967年.md" title="wikilink">1967年</a></p></td>
+<td><p>美空ひばり（12） [8]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/芸道一代" title="wikilink">芸道一代</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第19回NHK紅白歌合戦" title="wikilink">第19回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p>美空ひばり（13） [9]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/熱祷" title="wikilink">熱祷</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第20回NHK紅白歌合戦" title="wikilink">第20回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1969年" title="wikilink">1969年</a></p></td>
+<td><p>美空ひばり（14） [10]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/別れてもありがとう" title="wikilink">別れてもありがとう</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第21回NHK紅白歌合戦" title="wikilink">第21回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1970年" title="wikilink">1970年</a></p></td>
+<td><p>美空ひばり（15） [11]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/人生将棋" title="wikilink">人生将棋</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第22回NHK紅白歌合戦" title="wikilink">第22回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1971年" title="wikilink">1971年</a></p></td>
+<td><p>美空ひばり（16） [12]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/この道をゆく" title="wikilink">この道をゆく</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第23回NHK紅白歌合戦" title="wikilink">第23回</a></p></td>
+<td><p><a href="../Page/1972年.md" title="wikilink">1972年</a></p></td>
+<td><p>美空ひばり（17） [13]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ある女の詩" title="wikilink">ある女の詩</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第24回NHK紅白歌合戦" title="wikilink">第24回</a></p></td>
+<td><p><a href="../Page/1973年.md" title="wikilink">1973年</a></p></td>
+<td><p>島倉千代子（17） [4」</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/からたち日記" title="wikilink">からたち日記</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第25回NHK紅白歌合戦" title="wikilink">第25回</a></p></td>
+<td><p><a href="../Page/1974年.md" title="wikilink">1974年</a></p></td>
+<td><p>島倉千代子（18） [5]</p></td>
+<td><p>襟裳岬</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第26回NHK紅白歌合戦" title="wikilink">第26回</a></p></td>
+<td><p><a href="../Page/1975年.md" title="wikilink">1975年</a></p></td>
+<td><p>島倉千代子（19） [6]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/悲しみの宿" title="wikilink">悲しみの宿</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第27回NHK紅白歌合戦" title="wikilink">第27回</a></p></td>
+<td><p><a href="../Page/1976年.md" title="wikilink">1976年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/都はるみ" title="wikilink">都はるみ</a>（12） [初]</p></td>
+<td><p><a href="../Page/北の宿から.md" title="wikilink">北の宿から</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第28回NHK紅白歌合戦" title="wikilink">第28回</a></p></td>
+<td><p><a href="../Page/1977年.md" title="wikilink">1977年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/八代亜紀" title="wikilink">八代亜紀</a>（5） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/おんな港町_(八代亜紀の曲)" title="wikilink">おんな港町</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第29回NHK紅白歌合戦" title="wikilink">第29回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a></p></td>
+<td><p><a href="../Page/山口百恵.md" title="wikilink">山口百恵</a>（5）[初]</p></td>
+<td><p><a href="../Page/プレイバックPart2.md" title="wikilink">プレイバックPart2</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第30回NHK紅白歌合戦" title="wikilink">第30回</a></p></td>
+<td><p><a href="../Page/1979年.md" title="wikilink">1979年</a></p></td>
+<td><p>八代亜紀（7） [2]</p></td>
+<td><p><a href="../Page/舟唄.md" title="wikilink">舟唄</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第31回NHK紅白歌合戦" title="wikilink">第31回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1980年" title="wikilink">1980年</a></p></td>
+<td><p>八代亜紀（8） [3]</p></td>
+<td><p><a href="../Page/雨の慕情.md" title="wikilink">雨の慕情</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第32回NHK紅白歌合戦" title="wikilink">第32回</a></p></td>
+<td><p><a href="../Page/1981年.md" title="wikilink">1981年</a></p></td>
+<td><p><a href="../Page/森昌子.md" title="wikilink">森昌子</a>（9） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/哀しみ本線日本海" title="wikilink">哀しみ本線日本海</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第33回NHK紅白歌合戦" title="wikilink">第33回</a></p></td>
+<td><p><a href="../Page/1982年.md" title="wikilink">1982年</a></p></td>
+<td><p>都はるみ（18） [2]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/涙の連絡船" title="wikilink">涙の連絡船</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第34回NHK紅白歌合戦" title="wikilink">第34回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1983年" title="wikilink">1983年</a></p></td>
+<td><p><a href="../Page/水前寺清子.md" title="wikilink">水前寺清子</a>（19） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/あさくさ物語" title="wikilink">あさくさ物語</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第35回NHK紅白歌合戦" title="wikilink">第35回</a></p></td>
+<td><p><a href="../Page/1984年.md" title="wikilink">1984年</a></p></td>
+<td><p>都はるみ（20） [3]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/夫婦坂" title="wikilink">夫婦坂</a>〜<a href="https://ja.wikipedia.org/wiki/好きになった人_(曲)" title="wikilink">好きになった人</a>[148]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第36回NHK紅白歌合戦" title="wikilink">第36回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a></p></td>
+<td><p>森昌子（13） [2]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/愛傷歌" title="wikilink">愛傷歌</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第37回NHK紅白歌合戦" title="wikilink">第37回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/石川さゆり" title="wikilink">石川さゆり</a>（9） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/天城越え_(曲)" title="wikilink">天城越え</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第38回NHK紅白歌合戦" title="wikilink">第38回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/和田アキ子" title="wikilink">和田アキ子</a>（11） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/抱擁_(和田アキ子の曲)" title="wikilink">抱擁</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第39回NHK紅白歌合戦" title="wikilink">第39回</a></p></td>
+<td><p><a href="../Page/1988年.md" title="wikilink">1988年</a></p></td>
+<td><p><a href="../Page/小林幸子.md" title="wikilink">小林幸子</a>（10） [初]</p></td>
+<td><p><a href="../Page/雪椿.md" title="wikilink">雪椿</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第40回NHK紅白歌合戦" title="wikilink">第40回</a></p></td>
+<td><p><a href="../Page/1989年.md" title="wikilink">1989年</a></p></td>
+<td><p>石川さゆり（12） [2]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/風の盆恋歌" title="wikilink">風の盆恋歌</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第41回NHK紅白歌合戦" title="wikilink">第41回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a></p></td>
+<td><p>都はるみ（22） [4]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小樽運河_(都はるみの曲)" title="wikilink">千年の古都</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第42回NHK紅白歌合戦" title="wikilink">第42回</a></p></td>
+<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
+<td><p>和田アキ子（15） [2]</p></td>
+<td><p><a href="../Page/あの鐘を鳴らすのはあなた.md" title="wikilink">あの鐘を鳴らすのはあなた</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第43回NHK紅白歌合戦" title="wikilink">第43回</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/由紀さおり" title="wikilink">由紀さおり</a>（13） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/赤とんぼ_(童謡)" title="wikilink">赤とんぼ</a>〜<a href="https://ja.wikipedia.org/wiki/どこかへ帰ろう" title="wikilink">どこかへ帰ろう</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第44回NHK紅白歌合戦" title="wikilink">第44回</a></p></td>
+<td><p><a href="../Page/1993年.md" title="wikilink">1993年</a></p></td>
+<td><p>石川さゆり（16） [3]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/津軽海峡・冬景色" title="wikilink">津軽海峡・冬景色</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第45回NHK紅白歌合戦" title="wikilink">第45回</a></p></td>
+<td><p><a href="../Page/1994年.md" title="wikilink">1994年</a></p></td>
+<td><p>都はるみ（26） [5]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/古都逍遥" title="wikilink">古都逍遥</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第46回NHK紅白歌合戦" title="wikilink">第46回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a></p></td>
+<td><p>和田アキ子（19） [3]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/もう一度ふたりで歌いたい" title="wikilink">もう一度ふたりで歌いたい</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第47回NHK紅白歌合戦" title="wikilink">第47回</a></p></td>
+<td><p><a href="../Page/1996年.md" title="wikilink">1996年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/坂本冬美" title="wikilink">坂本冬美</a>（9） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/夜桜お七" title="wikilink">夜桜お七</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第48回NHK紅白歌合戦" title="wikilink">第48回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/安室奈美恵" title="wikilink">安室奈美恵</a>（3） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CAN_YOU_CELEBRATE?" title="wikilink">CAN YOU CELEBRATE?</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第49回NHK紅白歌合戦" title="wikilink">第49回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a></p></td>
+<td><p>和田アキ子（22） [4]</p></td>
+<td><p><a href="../Page/今あなたにうたいたい.md" title="wikilink">今あなたにうたいたい</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第50回NHK紅白歌合戦" title="wikilink">第50回</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
+<td><p>和田アキ子（23） [5]</p></td>
+<td><p>あの鐘を鳴らすのはあなた</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第51回NHK紅白歌合戦" title="wikilink">第51回</a></p></td>
+<td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/天童よしみ" title="wikilink">天童よしみ</a>（5） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/道頓堀人情" title="wikilink">道頓堀人情</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第52回NHK紅白歌合戦" title="wikilink">第52回</a></p></td>
+<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
+<td><p>和田アキ子（25） [6]</p></td>
+<td><p><a href="../Page/夢_(和田アキ子の曲).md" title="wikilink">夢</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第53回NHK紅白歌合戦" title="wikilink">第53回</a></p></td>
+<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
+<td><p>石川さゆり（25） [4]</p></td>
+<td><p>天城越え</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦" title="wikilink">第54回</a></p></td>
+<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
+<td><p>天童よしみ（8） [2]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/美しい昔" title="wikilink">美しい昔</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦" title="wikilink">第55回</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
+<td><p>小林幸子（26） [2]</p></td>
+<td><p>雪椿</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第56回NHK紅白歌合戦" title="wikilink">第56回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p>天童よしみ（10） [3]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/川の流れのように" title="wikilink">川の流れのように</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦" title="wikilink">第57回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/川中美幸" title="wikilink">川中美幸</a>（19） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ふたり酒" title="wikilink">ふたり酒</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/第58回NHK紅白歌合戦.md" title="wikilink">第58回</a>[149]</p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
+<td><p>石川さゆり（30） [5]</p></td>
+<td><p>津軽海峡・冬景色</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦" title="wikilink">第59回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
+<td><p>和田アキ子（32） [7]</p></td>
+<td><p>夢</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦" title="wikilink">第60回</a></p></td>
+<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
+<td><p><a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE</a>（13） [初]</p></td>
+<td><p>その先へ 〜紅白スペシャルバージョン〜[150]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦" title="wikilink">第61回</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
+<td><p>DREAMS COME TRUE（14） [2]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/生きてゆくのです" title="wikilink">生きてゆくのです</a>♡<br />
+feat. ザ紅白スペシャルブラスバンド</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第62回NHK紅白歌合戦" title="wikilink">第62回</a></p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
+<td><p>石川さゆり（34） [6]</p></td>
+<td><p>津軽海峡・冬景色</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第63回NHK紅白歌合戦" title="wikilink">第63回</a></p></td>
+<td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/いきものがかり" title="wikilink">いきものがかり</a>（5） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/風が吹いている" title="wikilink">風が吹いている</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦" title="wikilink">第64回</a>[151]</p></td>
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高橋真梨子" title="wikilink">髙橋真梨子</a>（2） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/for_you…" title="wikilink">for you…</a></p></td>
+</tr>
+<tr class="even">
+<td><p>北島三郎（50） [13]</p></td>
+<td><p>まつり</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第65回NHK紅白歌合戦" title="wikilink">第65回</a></p></td>
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
+<td><p><a href="../Page/松田聖子.md" title="wikilink">松田聖子</a>（18） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/あなたに逢いたくて〜Missing_You〜/明日へと駆け出してゆこう" title="wikilink">あなたに会いたくて〜Missing You〜</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第66回NHK紅白歌合戦" title="wikilink">第66回</a></p></td>
+<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
+<td><p>松田聖子（19） [2]</p></td>
+<td><p><a href="../Page/赤いスイートピー.md" title="wikilink">赤いスイートピー</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第67回NHK紅白歌合戦" title="wikilink">第67回</a></p></td>
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
+<td><p>石川さゆり（39） [7]</p></td>
+<td><p>天城越え</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦" title="wikilink">第68回</a></p></td>
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
+<td><p>石川さゆり（40） [8]</p></td>
+<td><p>津軽海峡・冬景色</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦" title="wikilink">第69回</a>[152]</p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a></p></td>
+<td><p>石川さゆり（41）[9]</p></td>
+<td><p>天城越え</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/サザンオールスターズ.md" title="wikilink">サザンオールスターズ</a> (5) [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/希望の轍" title="wikilink">希望の轍</a>～<a href="https://ja.wikipedia.org/wiki/勝手にシンドバッド" title="wikilink">勝手にシンドバッド</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/第70回NHK紅白歌合戦" title="wikilink">第70回</a></p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/MISIA" title="wikilink">MISIA</a>（4） [初]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アイノカタチ_feat.HIDE(GReeeeN)" title="wikilink">アイノカタチメドレー</a>[153]</p></td>
+</tr>
+</tbody>
+</table>
+
+## 備考
+
+### 視聴率
+
+毎回、テレビ視聴率が非常に高いことで知られる（1月2日公表）。[第13回](https://ja.wikipedia.org/wiki/第13回NHK紅白歌合戦 "wikilink")（[1962年](../Page/1962年.md "wikilink")）のビデオリサーチによる調査開始以降での最高視聴率は[第14回](https://ja.wikipedia.org/wiki/第14回NHK紅白歌合戦 "wikilink")（[1963年](../Page/1963年.md "wikilink")）の81.4%（ビデオリサーチ調べ、[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・世帯・リアルタイム。以下略）\[154\]。[1980年代](../Page/1980年代.md "wikilink")前半までは「お化け番組」「怪物番組」とも称された。最低視聴率は[第66回](https://ja.wikipedia.org/wiki/第66回NHK紅白歌合戦 "wikilink")（[2015年](../Page/2015年.md "wikilink")）の39.2%である。ほぼ毎回、年間視聴率では民放の人気番組を抑え、上位にランクインしており、ほとんどの回で1位となっている\[155\]。毎分視聴率についても一般に公表（[1月3日](../Page/1月3日.md "wikilink")前後）され、どの歌手の部分の視聴率が高かったかも話題となることがある。
+
+### 「紅白効果」
+
+紅白出演がアーティストの翌年初頭のCD売り上げに少なからず影響を与える。この現象は俗に「紅白効果」と呼ばれている\[156\]。また紅白歌唱を機に注目され大ヒット・再ヒットした楽曲を翌年の紅白で連続して歌唱するというケースもみられる（その際、再度の「紅白効果」が生まれたというケースもある）。「紅白効果」はヒット曲のみならず、歌い継がれる「名曲」をも生み出すとの向きもある\[157\]。
+
+紅白出演後（翌年）に紅白で歌われた曲がオリコンシングルチャートで週間1位を獲得したケースは以下。
+
+  - [第19回](https://ja.wikipedia.org/wiki/第19回NHK紅白歌合戦 "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）：[ピンキーとキラーズ](https://ja.wikipedia.org/wiki/ピンキーとキラーズ "wikilink")『[恋の季節](../Page/恋の季節.md "wikilink")』（前年末からそのまま連続首位を維持）
+  - [第27回](https://ja.wikipedia.org/wiki/第27回NHK紅白歌合戦 "wikilink")（[1976年](../Page/1976年.md "wikilink")）：[都はるみ](https://ja.wikipedia.org/wiki/都はるみ "wikilink")『[北の宿から](../Page/北の宿から.md "wikilink")』（前年末からそのまま連続首位を維持）
+  - [第37回](https://ja.wikipedia.org/wiki/第37回NHK紅白歌合戦 "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）：[吉幾三](../Page/吉幾三.md "wikilink")『[雪國](https://ja.wikipedia.org/wiki/雪國_\(曲\) "wikilink")』
+  - [第43回](https://ja.wikipedia.org/wiki/第43回NHK紅白歌合戦 "wikilink")（[1992年](../Page/1992年.md "wikilink")）：[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink") & [WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")『[世界中の誰よりきっと](https://ja.wikipedia.org/wiki/世界中の誰よりきっと "wikilink")』（前年末からそのまま連続首位を維持）
+  - [第48回](https://ja.wikipedia.org/wiki/第48回NHK紅白歌合戦 "wikilink")（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）：[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")『[CAN YOU CELEBRATE?](https://ja.wikipedia.org/wiki/CAN_YOU_CELEBRATE? "wikilink")』（返り咲き）
+  - [第53回](https://ja.wikipedia.org/wiki/第53回NHK紅白歌合戦 "wikilink")（[2002年](../Page/2002年.md "wikilink")）：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")『[地上の星](https://ja.wikipedia.org/wiki/地上の星/ヘッドライト・テールライト "wikilink")』
+  - [第54回](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")（[2003年](../Page/2003年.md "wikilink")）：[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")『[世界に一つだけの花 （シングル・ヴァージョン）](https://ja.wikipedia.org/wiki/世界に一つだけの花 "wikilink")』（返り咲き）
+  - [第57回](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦 "wikilink")（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")）：[秋川雅史](../Page/秋川雅史.md "wikilink")『[千の風になって](../Page/千の風になって_\(秋川雅史のシングル\).md "wikilink")』
+  - [第59回](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）：[秋元順子](https://ja.wikipedia.org/wiki/秋元順子 "wikilink")『[愛のままで…](https://ja.wikipedia.org/wiki/愛のままで… "wikilink")』
+  - [第62回](https://ja.wikipedia.org/wiki/第62回NHK紅白歌合戦 "wikilink")（[2011年](../Page/2011年.md "wikilink")）：[植村花菜](https://ja.wikipedia.org/wiki/植村花菜 "wikilink")『[トイレの神様](https://ja.wikipedia.org/wiki/トイレの神様 "wikilink")』
+  - [第70回](https://ja.wikipedia.org/wiki/第70回NHK紅白歌合戦 "wikilink")（[2019年](../Page/2019年.md "wikilink")）：[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")『[いのちの歌](https://ja.wikipedia.org/wiki/いのちの歌 "wikilink")（スペシャル・エディション）』
+
+紅白出演後（翌年）に紅白で歌われた曲がBillboard Japan Hot 100で週間1位を獲得したケースは以下。
+
+  - 第62回（2011年）：植村花菜『トイレの神様』
+  - [第66回](https://ja.wikipedia.org/wiki/第66回NHK紅白歌合戦 "wikilink")（[2015年](../Page/2015年.md "wikilink")）：[西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")『[トリセツ](https://ja.wikipedia.org/wiki/トリセツ_\(曲\) "wikilink")』（返り咲き）
+  - [第67回](https://ja.wikipedia.org/wiki/第67回NHK紅白歌合戦 "wikilink")（[2016年](../Page/2016年.md "wikilink")）：[星野源](https://ja.wikipedia.org/wiki/星野源 "wikilink")『[恋](https://ja.wikipedia.org/wiki/恋_\(星野源の曲\) "wikilink")』（前年末に返り咲きそのまま連続首位を維持）
+  - [第68回](https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦 "wikilink")（[2017年](../Page/2017年.md "wikilink")）：安室奈美恵『[Hero](https://ja.wikipedia.org/wiki/Hero_\(安室奈美恵の曲\) "wikilink")』
+  - [第69回](https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦 "wikilink")（[2018年](../Page/2018年.md "wikilink")）：[米津玄師](https://ja.wikipedia.org/wiki/米津玄師 "wikilink")『[Lemon](https://ja.wikipedia.org/wiki/Lemon_\(米津玄師の曲\) "wikilink")』（前年末に返り咲きそのまま連続首位を維持）、[あいみょん](https://ja.wikipedia.org/wiki/あいみょん "wikilink")『[マリーゴールド](https://ja.wikipedia.org/wiki/マリーゴールド_\(あいみょんの曲\) "wikilink")』
+  - 第70回（2019年）：[Official髭男dism](https://ja.wikipedia.org/wiki/Official髭男dism "wikilink")『[Pretender](https://ja.wikipedia.org/wiki/Pretender "wikilink")』（前年末に返り咲きそのまま連続首位を維持）
+
+### 番組進行に際して
+
+進行にあたっては、台本と合わせて[カンペも用意される](../Page/カンニング.md "wikilink")。司会者に対し、スタッフから開始早々のタイミングで「巻き」（スタッフから出演者に早く進行するよう指示が入ること）が入ることも珍しくなく、放送内でアドリブを入れることもなかなかできないという\[158\]。そのほか、司会者が生本番内で言い間違いや失言をして話題となった事例がある（[1980年代](../Page/1980年代.md "wikilink")ごろまでは司会者の言い間違いなどのハプニングは一切許されないというほどの厳格さがあったが、のちにこのような演出やハプニングはある程度認められるようになった）。これに関連して総合司会経験者の[宮本隆治](https://ja.wikipedia.org/wiki/宮本隆治 "wikilink")は「NHKホールには魔物が住んでいる」「これまで多くの魔物が先輩の司会者たちを苦しめてきた」と語っている\[159\]。ただし、これらは現代紅白のものであり、[1970年代](../Page/1970年代.md "wikilink")ごろまでは司会者によるアドリブや自由演出がごく当たり前のように行われていた。一例として、[第21回](https://ja.wikipedia.org/wiki/第21回NHK紅白歌合戦 "wikilink")（[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")）では本番内において、白組司会の[宮田輝](https://ja.wikipedia.org/wiki/宮田輝 "wikilink")が白組歌手の[橋幸夫](https://ja.wikipedia.org/wiki/橋幸夫 "wikilink")に対し、歌唱曲を当初予定の『俺たちの花』から『[いつでも夢を](https://ja.wikipedia.org/wiki/いつでも夢を "wikilink")』に変更することを持ちかけて歌唱させたという出来事があった。
+
+[第57回](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦 "wikilink")（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")）までは大部分を両組司会がそれぞれ[下手](../Page/上手と下手.md "wikilink")（紅組）、上手（白組）（[第4回](https://ja.wikipedia.org/wiki/第4回NHK紅白歌合戦 "wikilink")〈[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")〉のみ逆であった）に分かれて別々に進行するものだったが、[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")）からは一部を除き下手席で両組司会が揃って進行する形となった。
+
+一方で、その「予定調和」を逆手に取り、アーティストが番組にも無断で不意打ちパフォーマンスを行うこともある。紅白でのパフォーマンスなのでのちに大問題になり、アーティストがNHKに出入り禁止を喰らうこともある。これまでのおもなパフォーマンスとしては、以下が挙げられる（詳しくは当該の回やアーティストの項目を参照）。
+
+  - [第33回](https://ja.wikipedia.org/wiki/第33回NHK紅白歌合戦 "wikilink")（[1982年](../Page/1982年.md "wikilink")） - [サザンオールスターズの](https://ja.wikipedia.org/wiki/サザンオールスターズ#1980年代 "wikilink")[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が[三波春夫](../Page/三波春夫.md "wikilink")を[パロディ](https://ja.wikipedia.org/wiki/パロディ "wikilink")化した衣装と歌い方をした。「とにかく、受信料は払いましょう\!」「裏番組（を見たい場合）はビデオで見ましょう\!」という発言で、賛否両論が巻き起こった。桑田本人はのちにNHKに詫び状を書かされ、「詫び状なんか書くくらいなら2度と出ない\!」と、のちの紅白（ひいてはNHK）との確執につながったことを明かしている。
+  - [第36回](https://ja.wikipedia.org/wiki/第36回NHK紅白歌合戦 "wikilink")（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")） - [吉川晃司が歌唱中にセットを壊し](https://ja.wikipedia.org/wiki/吉川晃司#略歴・人物 "wikilink")、終了間際にギターを燃やした。
+  - [第42回](https://ja.wikipedia.org/wiki/第42回NHK紅白歌合戦 "wikilink")（[1991年](../Page/1991年.md "wikilink")） - [とんねるずがパンツ](https://ja.wikipedia.org/wiki/とんねるず#音楽活動 "wikilink")1枚という衣装で登場した。[木梨憲武](../Page/木梨憲武.md "wikilink")は赤色、[石橋貴明](../Page/石橋貴明.md "wikilink")は白色に全身を塗っていた。後ろを向くと、背中に「受信料を払おう」と書いてあった。
+  - [第43回](https://ja.wikipedia.org/wiki/第43回NHK紅白歌合戦 "wikilink")（[1992年](../Page/1992年.md "wikilink")） - [本木雅弘が首に白い液体を入れた](https://ja.wikipedia.org/wiki/本木雅弘#人物 "wikilink")[コンドーム](../Page/コンドーム.md "wikilink")の形をした風船をいくつも巻きつけて登場した。さらに、演奏途中では尻を露出した。
+  - [第57回](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦#DJ_OZMAのパフォーマンス "wikilink")（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")） - [DJ OZMA](https://ja.wikipedia.org/wiki/DJ_OZMA#紅白騒動について "wikilink")（[氣志團](../Page/氣志團.md "wikilink")の[綾小路翔](https://ja.wikipedia.org/wiki/綾小路翔 "wikilink")）が全身肌色のボディスーツを着て股間の部分にキノコの模型をつけた姿で舞台に登場。女性バックダンサーも同様の格好で[全裸に見えたため](https://ja.wikipedia.org/wiki/裸 "wikilink")、「公共放送で、しかも[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")であることの配慮がない」としてNHKに苦情が殺到した。総合司会の[三宅民夫](../Page/三宅民夫.md "wikilink")が番組中に「全裸ではない」と説明した。その後、[放送倫理・番組向上機構](https://ja.wikipedia.org/wiki/放送倫理・番組向上機構 "wikilink")（BPO）から回答要請を受けた。この影響によりDJ OZMAは活動を一時休止を余儀なくされ、その後も活動に大きな制約がかかるなど尾を引き続け、これが最終的には[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の「引退」宣言にまでつながることになった。
+  - 第57回（2006年） - [川内康範](../Page/川内康範.md "wikilink")作詞の『[おふくろさん](../Page/おふくろさん.md "wikilink")』を歌唱した[森進一](../Page/森進一.md "wikilink")が川内に無断でセリフを入れた同曲を披露。これに川内が激怒し騒動となった（「[おふくろさん騒動](../Page/おふくろさん騒動.md "wikilink")」を参照）。
+
+### 観覧方法
+
+  - 初期では先着入場順制であり、当日は会場を取り囲むように長蛇の列ができていたという\[160\]。のちに観覧募集制に移行した。
+  - NHKホールでの観覧（3,000人）は官製往復[はがき](https://ja.wikipedia.org/wiki/はがき "wikilink")のみで応募が受け付けられる。毎回多数の応募が集まるため、抽選となる。
+  - 毎年10月中旬ごろに応募要項が告知され、11月初旬ごろに応募が締め切られる。その後、12月上旬ごろに返信発送される。
+  - 当選通知がそのまま入場整理券となる。整理券（当選はがき）1枚に付き2人分（1歳以上から入場券が必要）まで、当日にNHKホールの座席券と交換できる。座席は無作為に選ばれ、交換するまで分からない。
+
+<!-- end list -->
+
+  -
+    ※最多の応募総数は[第64回](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink")（[2013年](../Page/2013年.md "wikilink")）の142万7,153通（当選倍率：約1,073倍）。[第60回](https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦 "wikilink")（[2009年](../Page/2009年.md "wikilink")）は約59万1,274通（倍率：約437倍）であり、[2010年代](../Page/2010年代.md "wikilink")に入ってから爆発的な増加傾向が見られる。ただし、1人何通応募しても当選は1通のみ、複数口の応募者が多数いるため実際の倍率はもっと低い。
+    NHKは入場券の転売を禁止としているが、入場券がネットオークションで出品されることが増えている（高額料金になるものも）。ただし、入場の際には整理券に加え、本人確認が実施されるため他人名義で当選したものでは入場できない。また、[2014年](../Page/2014年.md "wikilink")1月には偽造した入場券を販売していた男性が逮捕される事態も発生している。
+
+なお、[第57回](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦 "wikilink")（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")）の募集から、応募資格が次のいずれかに制限されることになった。
+
+1.  「NHK受信料を支払いしている者」（[銀行](../Page/銀行.md "wikilink")口座からの引き落としでも可能）
+2.  「新たにNHK受信料を支払いする者」
+3.  「NHKが定めている受信料免除者」
+4.  「上記のいずれかにあてはまる[世帯](https://ja.wikipedia.org/wiki/世帯 "wikilink")（[家族](../Page/家族.md "wikilink")）」
+
+<!-- end list -->
+
+  -
+    上記はいずれも[銀行](../Page/銀行.md "wikilink")口座からの引き落としでも可能。
+
+これにより、NHKの受信料を滞納、もしくは不払いの者は応募できなくなる。そのため、往信側のはがきには受信料負担者名の記入が必要となる。これはほかの公開放送番組の応募（例：『[NHK歌謡コンサート](https://ja.wikipedia.org/wiki/NHK歌謡コンサート "wikilink")』）で実施されていたものと同様である。規則で禁止されている当選はがきの転売行為については観覧当日に[本人確認書類](https://ja.wikipedia.org/wiki/本人確認書類 "wikilink")を用いた厳格な本人確認を実施することで対策を講じている。
+
+### その他
+
+  - 紅白の制作費は3億円程度とされる。紅白に携わる者のうち、NHKから弁当が用意されるのは司会者とスタッフのみ。出場歌手は自前で弁当を取り寄せる\[161\]。
+  - 自粛ムードが高まった年では紅白が中止になるかと懸念されたこともある\[162\]が、中止となったケースはない。
+  - [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")、[堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink")は[TBS系列](../Page/TBSテレビ.md "wikilink")『[日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")』（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")以降は12月30日開催のため直接の競合はしていない）が生裏番組だった時代に、そちらの司会を兼任しながら紅白に出場した回がある（前者は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、後者は[1999年](../Page/1999年.md "wikilink")）。ほかにも生裏番組や前後時間帯の番組と掛け持ちしながら紅白に出演する者が存在している\[163\]。
+  - 急な出場者変更（先述）や出場歌手が本来の出番に遅刻（別の仕事と掛け持ちにより）した場合、予定していた歌唱順を入れ替えたという事例もある。
+  - 客席に出場歌手の身内が招かれ、該当歌手歌唱前に身内にインタビューがされたり、歌唱中に観覧する姿が映されたりすることがある\[164\]。
+  - 紅白初出場がテレビ・ラジオといったメディアへの初出演となったり\[165\]、テレビ生放送への初出演となった歌手\[166\]もいる。また出演歌手による紅白での歌唱がテレビ初披露もしくはNHKでの初披露となった楽曲もある。
+  - 身内同士で同時出場・出演（コラボ演奏・歌唱が実現したこともある）するケースがあるほか、元夫婦が同時出場したという事例もある。また、交際者同士あるいは元交際者同士を直接対決にするなど、意図的に演出を行うこともある\[167\]。
+  - [韓国メディアは紅白](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")、[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")『[ベストヒット歌謡祭](https://ja.wikipedia.org/wiki/ベストヒット歌謡祭 "wikilink")』、[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")』の3番組を「日本三大歌謡祭」と紹介している\[168\]。
+  - 2部制となった[第40回](https://ja.wikipedia.org/wiki/第40回NHK紅白歌合戦 "wikilink")（[1989年](../Page/1989年.md "wikilink")）以降、総合テレビにおける1・2部の間に放送される『[NHKニュース](https://ja.wikipedia.org/wiki/NHKニュース_\(テレビ番組\) "wikilink")』において、ニュースを担当するNHKアナウンサーはモニターを通じて第1部（エンディング）を視聴しており、ニュースの冒頭でそれに合わせた表情をすることがある。第1部のエンディングで紅白出演者がニュース担当アナウンサーへの振りコメントを述べたこともあるほか、ニュースの締めではこの後に第2部が放送される旨の挨拶が行われることが恒例だが、[第57回](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦 "wikilink")（2006年）・[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")）でニュースを担当した[阿部渉](../Page/阿部渉.md "wikilink")（白組司会経験者）が第2部につなげるコメントで締めたこともある。この中断ニュースも高視聴率を記録することが多く、第2部を上回る数字を記録した事例もある\[169\]。なお、中断ニュースの担当アナウンサーは放送時点における『[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")』の平日版メインキャスターが担当することが多いが、年によっては同番組の週末・祝日版メインキャスターなど別の人物が担当する場合もあるほか、当日の『ニュース7』でも直前に迫った紅白の紹介が行われる。
+
+## 紅白歌合戦の舞台が収められている作品
+
+  - CD音源
+
+<!-- end list -->
+
+  - [さだまさし](../Page/さだまさし.md "wikilink")『[精霊流し スペシャルマキシシングル](../Page/精霊流し_\(曲\).md "wikilink")』（2003年2月19日） - 1曲収録。
+  - [五木ひろし](https://ja.wikipedia.org/wiki/五木ひろし "wikilink")『五木ひろしカバー&セルフコレクションズ全16曲〜おふくろの子守唄〜』（2003年4月2日） - 1曲収録。
+
+<!-- end list -->
+
+  - 映画作品
+
+<!-- end list -->
+
+  - [駅 STATION](https://ja.wikipedia.org/wiki/駅_STATION "wikilink")（映画） - [第30回](https://ja.wikipedia.org/wiki/第30回NHK紅白歌合戦 "wikilink")（[1979年](../Page/1979年.md "wikilink")）の大トリ、八代亜紀『舟唄』の歌唱シーンが使用されている。
+
+<!-- end list -->
+
+  - DVD作品
+
+<!-- end list -->
+
+  - [都はるみ](https://ja.wikipedia.org/wiki/都はるみ "wikilink")『NHK紅白歌合戦20年の歩み』（1985年2月21日） - 20曲収録。
+  - [小林幸子](../Page/小林幸子.md "wikilink") vs [美川憲一](../Page/美川憲一.md "wikilink")『二人だけの紅白歌合戦\!\!』（2002年12月5日）- 25曲収録。
+  - [南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink")『[Cynthia Premium](../Page/Cynthia_Premium.md "wikilink")』（2006年6月14日） - 8曲収録。
+  - [河島英五](../Page/河島英五.md "wikilink")『河島英五秘蔵映像集\~デビュー前から最後のTV出演まで』（2007年4月18日） - 1曲収録。
+  - [高橋真梨子](https://ja.wikipedia.org/wiki/高橋真梨子 "wikilink")『[高橋40年](https://ja.wikipedia.org/wiki/高橋40年 "wikilink")』（2013年6月5日） - 2曲収録。
+  - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")『プレミアムBOX ルーカス〜NHK紅白歌合戦＆レッツゴーヤング etc.』（2015年9月30日） - 8曲収録。
+  - [北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")『歌魂 北島三郎〜NHK紅白歌合戦の軌跡〜』（2017年6月28日） - 曲目の重複なしで28曲（33回分）収録。
+  - [河合奈保子](https://ja.wikipedia.org/wiki/河合奈保子 "wikilink")『プレミアムコレクション〜NHK紅白歌合戦＆レッツゴーヤング etc.』（2017年8月30日） - 6曲収録。
+  - [西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")『HIDEKI NHK Collection〜若さと情熱と感激と〜』（2017年11月15日）- 16曲収録。
+  - [吉永小百合](../Page/吉永小百合.md "wikilink")『歌手デビュー55周年記念ベスト＆NHK貴重映像DVD〜寒い朝〜』（2018年2月28日）- 音源2曲、映像3曲収録。
+  - [島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")『島倉千代子 メモリアルコレクション～NHK紅白歌合戦＆思い出のメロディー etc.～』（2018年11月7日） - 第8回〜第13回、第15回のラジオ音源から7曲、第14回、第16回～第46回の映像から19曲（22回分）収録。
+
+## 同じコンセプトを持つ企画・パロディなど
+
+  - 夏の紅白歌合戦（[フジテレビ系列](../Page/フジネットワーク.md "wikilink")） - スペシャル枠内で放送されていた。
+  - [世界紅白歌合戦](https://ja.wikipedia.org/wiki/世界紅白歌合戦 "wikilink")（フジテレビ系列） - 1985年、1986年の2年間、NHK紅白歌合戦の真裏で放送されていた。視聴率（ビデオリサーチ調べ、関東地区・世帯・リアルタイム）は1985年が4.8%、1986年は3.8%と奮わず、2年で終了している\[170\]。
+  - [ももいろ歌合戦](https://ja.wikipedia.org/wiki/ももいろ歌合戦 "wikilink")（[BS日テレ](https://ja.wikipedia.org/wiki/BS日テレ "wikilink")・[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")・[ニッポン放送](../Page/ニッポン放送.md "wikilink")など）
+  - [NTV紅白歌のベストテン](../Page/NTV紅白歌のベストテン.md "wikilink")（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")）- 年末には視聴者投票により「あなたが選ぶ紅白歌合戦」が何度か放送された。
+  - 青白歌合戦 - [SPACE SHOWER TVが主催し](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")、[2004年](../Page/2004年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[東京体育館](https://ja.wikipedia.org/wiki/東京体育館 "wikilink")で開催したイベント。
+  - [オールスター感謝祭](https://ja.wikipedia.org/wiki/オールスター感謝祭 "wikilink") - [TBSテレビ](../Page/TBSテレビ.md "wikilink")が自社に関係の深い芸能人を出演させる。
+  - 「○○紅白歌合戦」というタイトルのパロディについては、[紅白歌合戦 (曖昧さ回避)を参照](https://ja.wikipedia.org/wiki/紅白歌合戦_\(曖昧さ回避\) "wikilink")。
+  - [ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")では[日系人](https://ja.wikipedia.org/wiki/日系人 "wikilink")移民が多いということもあり、毎年年末に日系人市民による「日系移民紅白歌合戦」が開催されている。NHKも開催に協力している。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  - [NHKウイークリーステラ](https://ja.wikipedia.org/wiki/NHKウイークリーステラ "wikilink")臨時増刊『紅白50回〜栄光と感動の全記録〜』（NHKサービスセンター [2000年](../Page/2000年.md "wikilink")1月）
+
+      - 50回を記念して出版されたカラー版のムック。紅白の公式記録的な性格を持つ。
+
+  - [合田道人](https://ja.wikipedia.org/wiki/合田道人 "wikilink")『怪物番組紅白歌合戦の真実』[幻冬舎](https://ja.wikipedia.org/wiki/幻冬舎 "wikilink")、[2004年](../Page/2004年.md "wikilink")11月 ISBN 4-344-00702-6 『紅白歌合戦の舞台裏』[全音楽譜出版社](../Page/全音楽譜出版社.md "wikilink")、[2012年](../Page/2012年.md "wikilink")12月
+
+      - 紅白について詳細に言及（[1963年](../Page/1963年.md "wikilink")以降は視聴者として、特に[1980年代](../Page/1980年代.md "wikilink")以降は候補希望者として）。
+
+  -
+## 関連項目
+
+  - [日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）
+  - [紅白音楽試合](https://ja.wikipedia.org/wiki/紅白音楽試合 "wikilink")
+  - [NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")
+  - [思い出のメロディー](https://ja.wikipedia.org/wiki/思い出のメロディー "wikilink")（「夏の紅白」と呼ばれている）
+  - [ゆく年くる年](https://ja.wikipedia.org/wiki/ゆく年くる年 "wikilink")
+  - [今夜も生でさだまさし](../Page/今夜も生でさだまさし.md "wikilink")（『新春生放送 年の初めはさだまさし』）
+  - [日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")（[TBS系列で生中継](../Page/TBSテレビ.md "wikilink")）
+  - [年忘れにっぽんの歌](https://ja.wikipedia.org/wiki/にっぽんの歌 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で大晦日に放送される音楽番組。裏番組となる年もある）
+  - [紅白が生まれた日](https://ja.wikipedia.org/wiki/紅白が生まれた日 "wikilink")
+  - [NHKバーチャル紅白歌合戦](https://ja.wikipedia.org/wiki/NHKバーチャル紅白歌合戦 "wikilink")
+
+## 外部リンク
+
+  - [「NHK紅白歌合戦」公式サイト](https://www.nhk.or.jp/kouhaku/)
+
+  -
+  -
+  - （「紅白ウラトーク」等の関連番組を生配信する）
+
+  - [第1回 NHK紅白歌合戦 -NHK名作選（動画・静止画） NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009060095_00000)
+
+  - [幻の紅白歌合戦 - マンガで読むNHKヒストリー](https://www.nhk.or.jp/archives/search/special/comic/?movie#vol04)
+
+  - [特集 その時、舞台裏では…美術セット編 NHK映像デザイン部OBに「紅白歌合戦」の舞台裏を聞く\!\! NHKアーカイブス](https://www.nhk.or.jp/archives/search/special/detail/?d=backstage005)
+
+  - [番組エピソード 紅白歌合戦 制作者座談会-NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=music001)
+
+  - [番組エピソード 「NHK紅白歌合戦」誕生物語-NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=music002)
+
+  - [番組エピソード 10年に一度のメモリアル「紅白」-NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=music003)
+
+[Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink") [Category:12月](https://ja.wikipedia.org/wiki/Category:12月 "wikilink")
+
+1.  [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響で[同放送期間が延長された](https://ja.wikipedia.org/wiki/東日本大震災に伴う地上デジタル放送に係る電波法の特例に関する法律 "wikilink")[盛岡](https://ja.wikipedia.org/wiki/NHK盛岡放送局 "wikilink")、[仙台](https://ja.wikipedia.org/wiki/NHK仙台放送局 "wikilink")、[福島の](https://ja.wikipedia.org/wiki/NHK福島放送局 "wikilink")3局は、[第62回](https://ja.wikipedia.org/wiki/第62回NHK紅白歌合戦 "wikilink")（[2011年](../Page/2011年.md "wikilink")）まで。
+2.  初期では歌手兼司会は認められておらず、司会を担当した歌手がその年のみ不選出となった例がある。
+3.  [紅白出場歌手きょう発表\! 民放発の人気者目白押し](http://www.sponichi.co.jp/osaka/ente/200811/25/ente217647.html),スポーツニッポン,2008年11月25日
+4.  過去には本人に対しては出場決定後の通知のみであった。そのため、[江利チエミ](https://ja.wikipedia.org/wiki/江利チエミ "wikilink")や[田原俊彦](../Page/田原俊彦.md "wikilink")などで出場決定後に本人が辞退の意志を表明するという出来事が起きている。
+5.  [紅白の出場者発表、ネットで生中継 Twitterで速報も](http://www.itmedia.co.jp/news/articles/1011/24/news050.html),ITmedia,2012年10月20日
+6.
+7.  [【紅白】SKE48、水樹奈々、きゃりー、ももクロら落選理由は?](http://www.oricon.co.jp/news/2062926/full/),ORICON STYLE,2015年11月26日
+8.
+9.  『[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")』1987年11月11日付朝刊、26頁。
+10. 『朝日新聞』1987年12月6日付朝刊、6頁。
+11.
+12.
+13. [第47回](https://ja.wikipedia.org/wiki/第47回NHK紅白歌合戦 "wikilink")（[1996年](../Page/1996年.md "wikilink")）は、[近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")を含めて3組。
+14.
+15. 『読売新聞』1973年11月22日付朝刊、22頁。
+16. [合田道人](https://ja.wikipedia.org/wiki/合田道人 "wikilink")『紅白歌合戦の舞台裏』 [全音楽譜出版社](../Page/全音楽譜出版社.md "wikilink")、2012年。
+17. 実際の滞在先は当時[国交](https://ja.wikipedia.org/wiki/国交 "wikilink")と直行便がなかった韓国の[ソウルとも言われている](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")。
+18. 前川以外のメンバーは紅組の[藤圭子](https://ja.wikipedia.org/wiki/藤圭子 "wikilink")（前川の妻、当初は直接対戦の予定であった）のバックコーラスとして出場したものの、正式な出場者のエントリーからは外された。
+19. 初例は、[第6回](https://ja.wikipedia.org/wiki/第6回NHK紅白歌合戦 "wikilink")（[1955年](../Page/1955年.md "wikilink")）の[トニー谷](https://ja.wikipedia.org/wiki/トニー谷 "wikilink")。
+20. [NHKスキャンダル紅白 迷シーンを誌上再放送（5）](http://news.livedoor.com/article/detail/6106905/)[アサ芸プラス](https://ja.wikipedia.org/wiki/アサヒ芸能 "wikilink")（2011年12月10日）
+21. [【紅白歌合戦トリビア】「打ち上げ」はNHKの食堂で行なわれる](http://www.news-postseven.com/archives/20141220_292519.html),[NEWSポストセブン](https://ja.wikipedia.org/wiki/NEWSポストセブン "wikilink"),2014年12月20日
+22. 『サンケイスポーツ』2007年12月30日付
+23. [紅白司会の仲間由紀恵、アッコから"カンペ禁止令"](http://www.oricon.co.jp/news/movie/61659/full/),[ORICON STYLE](../Page/オリコン.md "wikilink"),2008年12月29日
+24. [SMAP香取慎吾 紅白歌合戦白組司会V6井ノ原快彦とは幼なじみで「頑張ってと早く言いたい」【会見全文・前編】](http://newslounge.net/archives/185456),newslounge,2015年12月30日
+25. 例外の年もある。
+26. 通常は総合司会は自分から名乗り、両組司会は総合司会などから紹介されるのが通例だが、[第68回](https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦 "wikilink")(2017年)以降は両組司会自身から名乗るようになった。1980年代頃までは総合司会は名乗らず、優勝旗返還の後に初めて画面に登場していた。
+27. [植村花菜「トイレの神様」で紅白初出場へ](http://www.sponichi.co.jp/entertainment/news/2010/11/23/kiji/K20101123Z00001790.html),スポーツニッポン,2010年11月23日
+28. [第65回](https://ja.wikipedia.org/wiki/第65回NHK紅白歌合戦 "wikilink")（[2014年](../Page/2014年.md "wikilink")）の[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")など。
+29. [第66回](https://ja.wikipedia.org/wiki/第66回NHK紅白歌合戦 "wikilink")（[2015年](../Page/2015年.md "wikilink")）の[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")。
+30. 総合司会ではなく両組司会が紹介するケースや1人1人の紹介そのものをしないケースもある。以前はオープニングで行っており、舞台の上に並び紹介を受けてから客席に座ることもあった。
+31. [第62回](https://ja.wikipedia.org/wiki/第62回NHK紅白歌合戦 "wikilink")（[2011年](../Page/2011年.md "wikilink")）に特別出演した[レディー・ガガ](https://ja.wikipedia.org/wiki/レディー・ガガ "wikilink")など。
+32. [小畑実](https://ja.wikipedia.org/wiki/小畑実_\(歌手\) "wikilink")、[都はるみ](https://ja.wikipedia.org/wiki/都はるみ "wikilink")、[チェッカーズ](../Page/チェッカーズ.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[X JAPAN](../Page/X_JAPAN.md "wikilink")、[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")など。
+33. 制作側もその可能性は織り込み済みで、1曲分余裕をとって番組を進行していた。
+34. [紅白「蛍の光」指揮は都倉俊一氏 「大変光栄なことだと感じています」](https://www.daily.co.jp/gossip/2017/12/08/0010799497.shtml) - デイリースポーツ、2017年12月7日発信、8日閲覧。
+35. この演出を行うようになったのは[第42回](https://ja.wikipedia.org/wiki/第42回NHK紅白歌合戦 "wikilink")（[1991年](../Page/1991年.md "wikilink")）以降。[第46回](https://ja.wikipedia.org/wiki/第46回NHK紅白歌合戦 "wikilink")（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）は風船が落ちてきて終了、[第50回](https://ja.wikipedia.org/wiki/第50回NHK紅白歌合戦 "wikilink")（[1999年](../Page/1999年.md "wikilink")）はBS2では終了後も「カウントダウンスペシャル」の題で放送を続行し、総合テレビも23：58から飛び乗る関係で演出無しとなった。
+36. [NHK紅白「出場者に弁当出ない」「総製作費は3億円？」…知ってればもっと面白くなる裏話](http://www.j-cast.com/tv/2012/12/31159536.html),[J-CASTニュース](../Page/ジェイ・キャスト.md "wikilink"),2012年12月31日
+37. [【紅白歌合戦トリビア】「打ち上げ」はNHKの食堂で行なわれる](http://www.news-postseven.com/archives/20141220_292519.html),[NEWSポストセブン](https://ja.wikipedia.org/wiki/NEWSポストセブン "wikilink"),2014年12月20日
+38. 『[明星](https://ja.wikipedia.org/wiki/Myojo "wikilink")』1966年2月号第1付録『新春歌合戦 100大歌手 明星紅白歌まつり』74頁
+39. [丸山鐵雄](https://ja.wikipedia.org/wiki/丸山鐵雄 "wikilink")『ラジオの昭和』 [幻戯書房](../Page/幻戯書房.md "wikilink")、2012年。
+40. 単発番組の予定だったが、あまりの好評により、翌年の開催が決定した。なおこの時、紅白が長寿番組化することを予想していたスタッフはいなかったという。
+41. [【NHK紅白歌合戦60年史（2）】正月の会場見つからず「大晦日」に GHQに怒られながら誕生した「第1回紅白」](http://sankei.jp.msn.com/west/west_life/news/121230/wlf12123012000007-n2.htm),[MSN産経west](https://ja.wikipedia.org/wiki/産経新聞 "wikilink"),2012年12月30日
+42. 『毎日新聞』1951年1月1日付朝刊、8版、8頁。
+43. [太田省一](https://ja.wikipedia.org/wiki/太田省一 "wikilink")『紅白歌合戦と日本人』[筑摩書房](https://ja.wikipedia.org/wiki/筑摩書房 "wikilink")、2013年、26頁。
+44. 『日刊ゲンダイ』2011年12月29日付に掲載された[菅原都々子](https://ja.wikipedia.org/wiki/菅原都々子 "wikilink")のインタビュー内での菅原の発言より。
+45. 太田『紅白歌合戦と日本人』、25頁。
+46. [紅白歌合戦ヒストリー（第4回）](http://www1.nhk.or.jp/kouhaku/history/history_04.html),NHK
+47. 太田『紅白歌合戦と日本人』、62頁。
+48. 太田『紅白歌合戦と日本人』、27頁。
+49. [第9回](https://ja.wikipedia.org/wiki/第9回NHK紅白歌合戦 "wikilink")（[1958年](../Page/1958年.md "wikilink")）のみ。当時はまだテレビの音響設備が不完全であり、それに加え、コマ劇場が円形のステージであったこと、また、観客からの声援が終始凄まじかったことも手伝い、紅組トリおよび大トリを務めた[美空ひばり](../Page/美空ひばり.md "wikilink")を始めとして、後ろの楽団の演奏が全く聞き取れず、歌っている最中に音を思い切り外してしまうケースが多発。歌手側や局関係者からも「コマ劇場の使いにくさ」を指摘する声が上がり、結局、コマ劇場を会場とした紅白はこの1回のみに留まってしまった。
+50. NHK-FM『[今日は一日○○三昧](https://ja.wikipedia.org/wiki/今日は一日○○三昧 "wikilink")』など。
+51. 太田『紅白歌合戦と日本人』、71頁。
+52. 第4回は[淡谷のり子](../Page/淡谷のり子.md "wikilink")がトリを取ったとされているが、[渡辺はま子](https://ja.wikipedia.org/wiki/渡辺はま子 "wikilink")がトリを取ったという異説もあり、渡辺説を採用すれば、全回でコロムビア所属の歌手が紅組トリを務めたことになる。
+53. [合田道人](https://ja.wikipedia.org/wiki/合田道人 "wikilink")『紅白歌合戦の真実』、132〜133頁。
+54. [NHK総合「紅白歌合戦」の視聴率](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm)、ビデオリサーチ社、2008年1月17日
+55. 同回の瞬間最高視聴率は、[五月みどり](https://ja.wikipedia.org/wiki/五月みどり "wikilink")による「[一週間に十日来い](https://ja.wikipedia.org/wiki/一週間に十日来い "wikilink")」歌唱時の85.3%。
+56. 歌手席は[第52回](https://ja.wikipedia.org/wiki/第52回NHK紅白歌合戦 "wikilink")（[2001年](../Page/2001年.md "wikilink")）の第1部内の企画で復活。
+57. 選手宣誓は[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")）のみ復活。
+58. 衣装の大きさについては、NHKホールのステージエレベーターに乗せられるものまでと制限がかけられる。2人は紅白後に衣装を保管しており、自身のコンサートや他番組、イベント等で再度披露したりしている。また、小林が本番の衣装披露時に衣装コンピュータの故障や電気トラブルで完全成功といかなかった事例（[第43回](https://ja.wikipedia.org/wiki/第43回NHK紅白歌合戦 "wikilink")（[1992年](../Page/1992年.md "wikilink")）、[第54回](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")（[2003年](../Page/2003年.md "wikilink")）。この時は翌年にそれぞれ30周年記念リサイタル、『NHK歌謡コンサート』で再度衣装を披露しリベンジしている）があるほか、第55回（2004年）では同年[10月23日](../Page/10月23日.md "wikilink")に小林の出身地・[新潟県](../Page/新潟県.md "wikilink")で発生した[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")の被災者に配慮して豪華衣装披露を自粛した。
+59. 小林の個人事務所・幸子プロモーション関係者は一部週刊誌の取材時に、小林が豪華衣装を準備した状態で紅白落選した場合について「こちらが勝手に用意したものなので文句は言えない」とコメントしていた。
+60. [愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")、[水森かおり](https://ja.wikipedia.org/wiki/水森かおり "wikilink")。
+61. [ハプニングの宝庫／紅白「珍」事件簿](https://www.nikkansports.com/entertainment/news/201811150000262.html)日刊スポーツ2018年12月31日(2018年12月31日アクセス)
+62. 先述の通り、BSサイマル放送は[第61回](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）を最後に廃止された。
+63. [アサ芸プラス(2011年12月9日)](http://news.livedoor.com/article/detail/6103978/)
+64.
+65.
+66. 『ZAKZAK』2013年12月6日付
+67.
+68. ただし、許可が下りずに配信からカットされた例がある。[第60回](https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦 "wikilink")（[2009年](../Page/2009年.md "wikilink")）の[スーザン・ボイル](https://ja.wikipedia.org/wiki/スーザン・ボイル "wikilink")や[第65回](https://ja.wikipedia.org/wiki/第65回NHK紅白歌合戦 "wikilink")（[2014年](../Page/2014年.md "wikilink")）の[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")など（いずれも特別枠）。
+69. 一例として、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")が該当。第60回（2009年）は自身の故郷である長崎から、第61回（2010年）以降は自身のカウントダウンライブ会場である[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")からの中継出演であり、NHKホールでの歌唱は、初出場時である第44回（1993年）の1回のみである。
+70. 一例として、第67回（2016年）に[氷川きよし](../Page/氷川きよし.md "wikilink")が[熊本城](../Page/熊本城.md "wikilink")から中継出演したケースなどが該当。
+71. 一例として、[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")（[プロジェクションマッピング](https://ja.wikipedia.org/wiki/プロジェクションマッピング "wikilink")を駆使した演出など）、[μ's](https://ja.wikipedia.org/wiki/μ's "wikilink")、[Aqours](https://ja.wikipedia.org/wiki/Aqours "wikilink")（この2つのグループは、「アニメ映像とのシンクロ表現」が特徴）などが該当。
+72. [『紅白』来年男女合戦システム廃止か\!?　氷川きよし「アタシ」解禁で疑問視する声](https://entamega.com/28653),エンタMEGA,2019年12月12日
+73.
+74. [NHKホール長期休館へ　耐震工事、紅白は別会場](https://www.nikkei.com/article/DGXMZO43543970Z00C19A4000000/),日本経済新聞,2019年4月9日
+75. [21年の紅白は49年ぶり別会場、ＮＨＫホール改修](https://www.nikkansports.com/entertainment/news/201904090000454.html),日刊スポーツ,2019年4月9日
+76.
+77. NHKアナウンサー（東京アナウンス室）
+78.
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+87.
+88.
+89.
+90.
+91.
+92.
+93.
+94.
+95.
+96.
+97.
+98.
+99.
+100.
+101.
+102.
+103.
+104.
+105.
+106.
+107.
+108.
+109.
+110.
+111.
+112.
+113.
+114.
+115.
+116.
+117.
+118.
+119.
+120.
+121.
+122.
+123.
+124.
+125.
+126.
+127.
+128.
+129.
+130.
+131.
+132.
+133.
+134.
+135.
+136.
+137.
+138.
+139. [紅組勝利の内訳…審査員票で圧倒、視聴者票を覆した - 日刊スポーツ](https://www.nikkansports.com/entertainment/news/1759545.html)（2017年1月1日）
+140.
+141.
+142.
+143. ただし、歌唱曲は「[東京シューシャイン・ボーイ](https://ja.wikipedia.org/wiki/東京シューシャイン・ボーイ "wikilink")」とする説もある。
+144. 「LOVEマシーン」「[ザ☆ピ〜ス\!](https://ja.wikipedia.org/wiki/ザ☆ピ〜ス! "wikilink")」「[恋愛レボリューション21](../Page/恋愛レボリューション21.md "wikilink")」（モーニング娘。）「[付き合ってるのに片思い](../Page/付き合ってるのに片思い.md "wikilink")」（Berryz工房）「[都会っ子 純情](../Page/都会っ子_純情.md "wikilink")」（℃-ute）「[LALALA 幸せの歌](https://ja.wikipedia.org/wiki/LALALA_幸せの歌 "wikilink")」（[ハロプロワンダフルオールスターズ](../Page/ワンダフルハーツ.md "wikilink")）を順に披露。
+145. 「[アジアの純真](../Page/アジアの純真.md "wikilink")」「[渚にまつわるエトセトラ](../Page/渚にまつわるエトセトラ.md "wikilink")」を順に披露。
+146. ただし、歌唱曲は「桑港のチャイナ街」とする説もある。
+147. ただし先述の通り、渡辺はま子が紅組トリを取ったとする説もあり、合田道人の著書では、渡辺を紅組トリとする説が採用されている。なお、同回での渡辺の歌唱曲は「[ああモンテンルパの夜は更けて](https://ja.wikipedia.org/wiki/ああモンテンルパの夜は更けて "wikilink")」。
+148. 当初予定は「夫婦坂」のみ。歌唱後にアンコールとして白組司会の鈴木健二が交渉し「好きになった人」を演奏。
+149. 大トリの後、審査結果を待つ間にSMAPと[槇原敬之](../Page/槇原敬之.md "wikilink")のメインボーカルの下、出演者（出場歌手、司会者、ゲスト審査員、合唱団）で「世界に一つだけの花」の大合唱が行われた。
+150. 「[MIDDLE OF NOWHERE](https://ja.wikipedia.org/wiki/連れてって_連れてって "wikilink")」「[その先へ](https://ja.wikipedia.org/wiki/その先へ "wikilink")」を順に披露。
+151. 髙橋→SMAPの歌唱後に「紅白両組の枠を超えた演出」として北島が歌唱し、メディアによって北島を大トリとするかSMAPが大トリとするか扱いの差がある。
+152. 石川→嵐→サザンオールスターズの順番で歌唱。サザンは特別出演であり紅白の正規出場者とは別の扱いとなるが、メディアによっては嵐を白組トリとしてサザンを「究極の大トリ」として扱うものも存在する。
+153. 「アイノカタチ」「[INTO THE LIGHT](https://ja.wikipedia.org/wiki/THE_GLORY_DAY "wikilink")」「[Everything](../Page/Everything_\(MISIAの曲\).md "wikilink")」を順に披露。
+154.
+155. 年間視聴率1位の座は[第49回](https://ja.wikipedia.org/wiki/第49回NHK紅白歌合戦 "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）がNHK総合の『[1998 FIFAワールドカップ](../Page/1998_FIFAワールドカップ.md "wikilink")』の[日本代表戦中継に抜かれるまで](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")、全て紅白であった。
+156. 『[日経エンタテインメント\!](https://ja.wikipedia.org/wiki/日経エンタテインメント! "wikilink")』2004年3月号、122頁。
+157.
+158. 『日刊スポーツ』2006年1月1日付
+159.
+160. 太田『紅白歌合戦と日本人』、29頁。
+161. [NHK紅白「出場者に弁当出ない」「総製作費は3億円？」…知ってればもっと面白くなる裏話](http://www.j-cast.com/tv/2012/12/31159536.html),J-CASTニュース,2012年12月31日
+162.
+163. 多くの出場者は本番組の後に[TBS系列で放送される](../Page/TBSテレビ.md "wikilink")『[CDTVスペシャル\!年越しプレミアライブ](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV#CDTVスペシャル!年越しプレミアライブ "wikilink")』にも出演している。
+164. [第66回](https://ja.wikipedia.org/wiki/第66回NHK紅白歌合戦 "wikilink")（[2015年](../Page/2015年.md "wikilink")）での[三山ひろし](https://ja.wikipedia.org/wiki/三山ひろし "wikilink")、[山内惠介](../Page/山内惠介.md "wikilink")、[第67回](https://ja.wikipedia.org/wiki/第67回NHK紅白歌合戦 "wikilink")（[2016年](../Page/2016年.md "wikilink")）での[市川由紀乃](../Page/市川由紀乃.md "wikilink")など。
+165. [第46回](https://ja.wikipedia.org/wiki/第46回NHK紅白歌合戦 "wikilink")（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）での[岡本真夜](https://ja.wikipedia.org/wiki/岡本真夜 "wikilink")。
+166. [第54回](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")（[2003年](../Page/2003年.md "wikilink")）での[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")。
+167. 太田『紅白歌合戦と日本人』
+168. [まさかの「韓流全滅」、紅白歌合戦で4組出場の予想外れる＝韓国](http://news.livedoor.com/article/detail/7174889/),[サーチナ](https://ja.wikipedia.org/wiki/上海サーチナ "wikilink"),2012年11月26日
+169. [絶対笑ってはいけない高瀬アナ、今年は紅白合間ニュースは担当せず](https://www.daily.co.jp/gossip/2017/12/20/0010833700.shtml),デイリースポーツ,2017年12月20日
+170. 「紅白 レコード大賞 それとも? 大みそかの夜 何を見ますか」『[読売新聞](../Page/読売新聞.md "wikilink")』1987年12月26日付東京夕刊、6頁。

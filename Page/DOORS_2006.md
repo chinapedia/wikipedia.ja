@@ -1,0 +1,376 @@
+> この記事は[DOORS 2006](https://ja.wikipedia.org/wiki/DOORS_2006)から翻訳されています。
+
+
+**DOORS 2006**（ドアーズ にせんろく）は[TBS系で](../Page/TBSテレビ.md "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月24日](../Page/9月24日.md "wikilink")に放送された[ゲームアトラクション](../Page/ゲーム番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
+
+## 番組概要
+
+  - 前年放送された**[DOORS](https://ja.wikipedia.org/wiki/DOORS_\(テレビ番組\) "wikilink")**が好評だった為2006年も放送された。\[1\]
+  - 前年同様で総合司会は[福澤朗](../Page/福澤朗.md "wikilink")、芸能人チームリーダーは[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")。
+
+### 放送日時
+
+  - 2006年9月24日　19:00-22:54（[JST](../Page/日本標準時.md "wikilink")）
+
+<!-- end list -->
+
+  -
+    途中「[JNNフラッシュニュース](https://ja.wikipedia.org/wiki/JNNフラッシュニュース "wikilink")」(21:25\~21:27)を挟む。2007年1月2日11:45〜15:30に再放送された。
+
+### 出演者
+
+**総合司会・実況**
+
+  - [福澤朗](../Page/福澤朗.md "wikilink")（元[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
+      - 合言葉は「**君に幸あれ**」
+
+**芸能人チームリーダー**
+
+  - [ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink") ([岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")・[矢部浩之](https://ja.wikipedia.org/wiki/矢部浩之 "wikilink"))
+      - 矢部はスタート地点でインタビューを行う。
+      - 岡村はチャレンジャーとして挑戦もするが、自分の参戦以外は矢部と同様でインタビューを行う。
+
+'''リポーター '''
+
+※[TBS](https://ja.wikipedia.org/wiki/TBSテレビ#アナウンサー "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")5人がインタビューを行う。
+
+  - [佐藤文康](https://ja.wikipedia.org/wiki/佐藤文康 "wikilink")（バンジー7(特別準決勝は福澤が担当)とゴーストマンションでは福澤に代わって実況を担当）
+  - [久保田智子](https://ja.wikipedia.org/wiki/久保田智子 "wikilink")
+  - [川田亜子](https://ja.wikipedia.org/wiki/川田亜子 "wikilink")
+  - [小林麻耶](https://ja.wikipedia.org/wiki/小林麻耶 "wikilink")
+  - [青木裕子](https://ja.wikipedia.org/wiki/青木裕子_\(1983年生\) "wikilink") (現在の夫である矢部浩之との初めて共演した番組である。ただし、当番組をきっかけにとした恋愛関係には発展しなかった。)
+
+## チャレンジャー
+
+※50音順。**太字**は2年連続。
+
+  - **[池乃めだか](../Page/池乃めだか.md "wikilink")**
+  - [インスタントジョンソン](https://ja.wikipedia.org/wiki/インスタントジョンソン "wikilink")（じゃい、スギ、ゆうぞう）
+  - **[インパルス](https://ja.wikipedia.org/wiki/インパルス_\(お笑い\) "wikilink")（[板倉俊之](../Page/板倉俊之.md "wikilink")、[堤下敦](https://ja.wikipedia.org/wiki/堤下敦 "wikilink")）**
+  - [大木こだま・ひびき](https://ja.wikipedia.org/wiki/大木こだま・ひびき "wikilink")（大木こだま、大木ひびき）
+  - [オリエンタルラジオ](https://ja.wikipedia.org/wiki/オリエンタルラジオ "wikilink")（[中田敦彦](../Page/中田敦彦.md "wikilink")、[藤森慎吾](../Page/藤森慎吾.md "wikilink")）
+  - [神奈月](https://ja.wikipedia.org/wiki/神奈月 "wikilink")
+  - **[カラテカ](../Page/カラテカ_\(お笑いコンビ\).md "wikilink")（[入江慎也](../Page/入江慎也.md "wikilink")、[矢部太郎](../Page/矢部太郎.md "wikilink")）**
+  - [ザ・たっち](https://ja.wikipedia.org/wiki/ザ・たっち "wikilink")（かずや、たくや）
+  - [次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")（[河本準一](../Page/河本準一.md "wikilink")、[井上聡](https://ja.wikipedia.org/wiki/井上聡 "wikilink")）
+  - **[品川庄司](../Page/品川庄司.md "wikilink")（[品川祐](https://ja.wikipedia.org/wiki/品川祐 "wikilink")、[庄司智春](../Page/庄司智春.md "wikilink")）**
+  - [末高斗夢](https://ja.wikipedia.org/wiki/末高斗夢 "wikilink")
+  - [竹山隆範](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")
+  - **[ダチョウ倶楽部](../Page/ダチョウ倶楽部.md "wikilink")（[肥後克広](https://ja.wikipedia.org/wiki/肥後克広 "wikilink")、[寺門ジモン](https://ja.wikipedia.org/wiki/寺門ジモン "wikilink")、[上島竜兵](https://ja.wikipedia.org/wiki/上島竜兵 "wikilink")）**
+  - [たむらけんじ](https://ja.wikipedia.org/wiki/たむらけんじ "wikilink")
+  - [Take2](https://ja.wikipedia.org/wiki/Take2 "wikilink")（[東貴博](https://ja.wikipedia.org/wiki/東貴博 "wikilink")、[深沢邦之](https://ja.wikipedia.org/wiki/深沢邦之 "wikilink")）
+  - [TIM](../Page/TIM_\(お笑いコンビ\).md "wikilink")（[ゴルゴ松本](https://ja.wikipedia.org/wiki/ゴルゴ松本 "wikilink")、[レッド吉田](https://ja.wikipedia.org/wiki/レッド吉田 "wikilink")）
+  - **[出川哲朗](../Page/出川哲朗.md "wikilink")**
+  - **[なかやまきんに君](../Page/なかやまきんに君.md "wikilink")**
+  - [ニブンノゴ\!](https://ja.wikipedia.org/wiki/ニブンノゴ! "wikilink")（リーダー、森本英樹、大川知英）
+  - [猫ひろし](https://ja.wikipedia.org/wiki/猫ひろし "wikilink")
+  - [波田陽区](../Page/波田陽区.md "wikilink")
+  - [パッション屋良](../Page/パッション屋良.md "wikilink")
+  - [バッドボーイズ](https://ja.wikipedia.org/wiki/バッドボーイズ_\(お笑いコンビ\) "wikilink")（[清人](../Page/大溝清人.md "wikilink")、[佐田正樹](../Page/佐田正樹.md "wikilink")）
+  - [ビックスモールン](https://ja.wikipedia.org/wiki/ビックスモールン "wikilink")（ゴン、チロ）
+  - [ふかわりょう](../Page/ふかわりょう.md "wikilink")
+  - [ふじいあきら](https://ja.wikipedia.org/wiki/ふじいあきら "wikilink")
+  - [フットボールアワー](../Page/フットボールアワー.md "wikilink")（[後藤輝基](https://ja.wikipedia.org/wiki/後藤輝基 "wikilink")、[岩尾望](https://ja.wikipedia.org/wiki/岩尾望 "wikilink")）
+  - [ペナルティ](https://ja.wikipedia.org/wiki/ペナルティ_\(お笑いコンビ\) "wikilink")（[ヒデ](https://ja.wikipedia.org/wiki/中川秀樹 "wikilink")、[ワッキー](https://ja.wikipedia.org/wiki/ワッキー "wikilink")）
+  - [ホリ](https://ja.wikipedia.org/wiki/ホリ_\(タレント\) "wikilink")
+  - [マイケル](https://ja.wikipedia.org/wiki/まいける_\(お笑い芸人\) "wikilink")
+  - **[前田健](../Page/前田健_\(タレント\).md "wikilink")**
+  - [マギー審司](../Page/マギー審司.md "wikilink")
+  - [村上ショージ](https://ja.wikipedia.org/wiki/村上ショージ "wikilink")
+  - [レギュラー](https://ja.wikipedia.org/wiki/レギュラー_\(お笑い\) "wikilink")（[松本康太](https://ja.wikipedia.org/wiki/松本康太 "wikilink")、[西川晃啓](https://ja.wikipedia.org/wiki/西川晃啓 "wikilink")）
+  - [笑い飯](../Page/笑い飯.md "wikilink")（[哲夫](../Page/中西哲夫.md "wikilink")、[西田幸治](../Page/西田幸治.md "wikilink")）
+
+## 概要
+
+  - 前年の放送では[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")の[幕張メッセ](../Page/幕張メッセ.md "wikilink")を会場として使用したが、今回は[山梨県](../Page/山梨県.md "wikilink")の[青木ヶ原](https://ja.wikipedia.org/wiki/青木ヶ原 "wikilink")を中心に、[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")、チャレンジャーの宿泊先であるホテル美富士園等、様々な場所でアトラクションに挑戦した。（“インドア（ーズ）”から“アウトドア（ーズ）”に変貌した意味合いも持つ）。内容は[ビートたけしのお笑いウルトラクイズ](https://ja.wikipedia.org/wiki/ビートたけしのお笑いウルトラクイズ "wikilink")に近くなった。また、出川哲朗をはじめ、お笑いウルトラクイズの常連も出演していた。
+  - テレビ放送は4時間に編集していたが、実際には[8月30日](../Page/8月30日.md "wikilink")、[8月31日](../Page/8月31日.md "wikilink")の2日に渡って収録されていた。
+
+<!-- end list -->
+
+  - もう一つ前年と異なる点として、団体戦から岡村隆史、矢部浩之、小林麻耶も含めた[お笑い芸人達による個人戦に変更](../Page/お笑いタレント.md "wikilink")。アトラクションでポイントを獲得して、最終的に上位2名が決勝戦に進出。
+  - 決勝戦で勝利したチャレンジャーが優勝、賞金100万円と副賞の[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の「[ハリアー](https://ja.wikipedia.org/wiki/トヨタ・ハリアー "wikilink") [ザガート](https://ja.wikipedia.org/wiki/ザガート "wikilink")」（特別限定車）を、優勝者の[品川庄司](../Page/品川庄司.md "wikilink")の[品川祐](https://ja.wikipedia.org/wiki/品川祐 "wikilink")が獲得した。
+
+## アトラクション
+
+DOORSは、6つのゾーン（ステージ）で構成。各ゾーンの扉にはゾーンに関係するマークがついている。なお、各ゾーンの最初の扉の前には総合MC福澤が案内人としてナビゲートしている。
+
+今回は、各アトラクションでのナインティナインによるテストトライは、前述の理由で行われない。
+
+挑戦者がアトラクションに挑戦する前、総合MC福澤は***「君に幸あれ！」***、落ちた時は高確率で***「ビビデバビデブー！」***と決めゼリフを言う。
+
+各アトラクションの参加者は、事前にチャレンジャーに与えられたアンケートの回答及びチャレンジャー本人の意向によって決められる（一部例外あり）。ただし、岡村に対してはその様なアンケートは無く、強制的に全アトラクションに参加させられた。（2006年[8月31日](../Page/8月31日.md "wikilink")放送の「[ナインティナインのオールナイトニッポン](../Page/ナインティナインのオールナイトニッポン.md "wikilink")」で岡村が告白）また、スケジュールの都合で1\~2ゾーン程度しか出演できなかったチャレンジャーもいた。
+
+なお、放送順と収録順が異なる為、今回は収録順に沿って記載する（もちろん、MCである矢部もこの収録時期は同局で放送されていたドラマ「[花嫁は厄年ッ\!](../Page/花嫁は厄年ッ!.md "wikilink")」の収録があったため、席を外していたらしい）。
+
+[アッコにおまかせ\!](../Page/アッコにおまかせ!.md "wikilink")や[筋肉番付シリーズ](https://ja.wikipedia.org/wiki/筋肉番付シリーズ "wikilink")のスタッフにより製作された。
+
+### 樹海ゾーン
+
+  - 1.ジャングルアドベンチャー
+
+<!-- end list -->
+
+  - 1人ずつ挑戦
+  - 「ウォーターボード」「バランスFUJI」「ロープエスケイプ」と3つの[アトラクション](https://ja.wikipedia.org/wiki/アトラクション "wikilink")を制限時間40秒で行なう
+  - 途中で落水するか制限時間以内にゴール出来なかった場合は0Pクリア出来れば10P獲得。
+
+<!-- end list -->
+
+  - 「ウォーターボード」:高さ8.25mの地点から[サーフボード](https://ja.wikipedia.org/wiki/サーフボード "wikilink")で斜面を滑り、その勢いで長さ12mの[プール](../Page/プール.md "wikilink")を[正座](https://ja.wikipedia.org/wiki/正座 "wikilink")の状態で渡りきる。落水したら失敗。
+    「バランスFUJI」:半円状の透明なチューブ5mを渡り切る。但しチューブは不安定で、バランスを崩して脇に落下するか、渡りきる前にチューブが傾き切った場合は失敗（[インパルスの](../Page/インパルス_\(お笑いコンビ\).md "wikilink")[板倉俊之](../Page/板倉俊之.md "wikilink")は傾いた状態のチューブを掴んでしまい、失格扱いとされた）。
+    「ロープエスケイプ」:高さ6mの縄梯子を昇り切って、横にあるボタンを押すとゴール。但し、制限時間以内にゴール出来なかった場合は、縄梯子が切り落とされる。
+    2.バンジー7
+
+<!-- end list -->
+
+  - 1対1の対戦形式
+  - 両者はまず、地上12mの高さにある[滑り台](https://ja.wikipedia.org/wiki/滑り台 "wikilink")に座る（両者が座った後、双方の滑り台が予め15度傾く）
+  - 合図が鳴った後、[体内時計](https://ja.wikipedia.org/wiki/体内時計 "wikilink")を駆使して合図が鳴ってから7秒後だと思ったタイミングで、横にあるメーターのボタンを[ピコピコハンマー](https://ja.wikipedia.org/wiki/ピコピコハンマー "wikilink")で叩いて、[時計](../Page/時計.md "wikilink")を止める。
+  - 双方1回ずつ行って、より7秒に近かった方が勝利
+  - 勝者は10P獲得。敗者は[罰として自分の滑り台が更に](https://ja.wikipedia.org/wiki/罰ゲーム "wikilink")45度まで傾いた後、実況のカウントダウン（「3，2，1、バンジー\!」とコール）の後に滑り台から落とされ、高さ12mから[バンジージャンプ](https://ja.wikipedia.org/wiki/バンジージャンプ "wikilink")を飛ばされる。この時、[カンニング](../Page/カンニング_\(お笑いコンビ\).md "wikilink")[竹山隆範](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")との対決に負けた[フットボールアワー](../Page/フットボールアワー.md "wikilink")[岩尾望](https://ja.wikipedia.org/wiki/岩尾望 "wikilink")は降りた時に嘔吐していた。
+
+### ミステリーゾーン
+
+  - 前フリで霊能力者の[京煌延](http://www.uranai.gr.jp/mama.html)が登場、廃墟（ゴーストマンション）の前で霊視を行った。
+
+<!-- end list -->
+
+  - ゴーストマンション
+
+<!-- end list -->
+
+  - 2人1組で挑戦（ピン芸人は他のピン芸人とコンビを組む。※岡村の場合はMCを務めていた相方・矢部と組み、ナインティナインとして挑戦）
+  - 2人は前後に立って、双方ボードの端を頭の上に乗せる
+  - スタートと同時に、ボードにボールが落とされるので、そのボールを落とさない様にマンションの中の指定コースを進んでいく
+      - コースの中には、挑戦者を驚かす仕掛けが幾つか含まれている。
+  - ゴール地点にある台座にボールを乗せればクリア。30P獲得。
+  - バランスを崩して、ボールを落としてしまうと失敗。進んだ距離に応じて0\~20P獲得。
+  - ワッキー（ペナルティ）・ふかわりょう組が唯一クリアした。
+  - 結果発表
+      - ザ・たっち　0P
+      - 大木こだま・ひびき　0P
+      - レギュラー　0P
+      - 出川・上島ペア　0P
+      - ナインティナイン　20P
+      - 品川庄司　10P
+      - TIM　20P
+      - ふかわ・ワッキーペア　30P
+
+### ミッドナイトゾーン
+
+  - このゾーンは、チャレンジャーの宿泊先であるホテル美富士園の宴会場で実施
+      - ちなみに2日目終了後も同所で番組の打ち上げが行われ、ナインティナインの2人はそこから[ラジオ番組](../Page/ラジオ番組.md "wikilink")「[ナインティナインのオールナイトニッポン](../Page/ナインティナインのオールナイトニッポン.md "wikilink")」（[ニッポン放送](../Page/ニッポン放送.md "wikilink")系、木曜25:00-27:00）を放送した（当日は[品川庄司](../Page/品川庄司.md "wikilink")の[品川祐](https://ja.wikipedia.org/wiki/品川祐 "wikilink")がゲスト出演をした）。
+
+<!-- end list -->
+
+  - 不眠フラッグサバイバル
+
+<!-- end list -->
+
+  - 開始前に眠ってしまった人（岡村隆史ら数名は、開始前に既に寝てしまったため失格）を除く1日目参加者全員が参加
+  - 各自、頭に旗が刺さっている帽子を被った状態で挑戦（岡村は矢部とモニターから監視していた）。
+  - [高橋ジョージ](https://ja.wikipedia.org/wiki/高橋ジョージ "wikilink")の歌う「[ロード](https://ja.wikipedia.org/wiki/ロード_\(THE_虎舞竜の曲\) "wikilink")」や、[田中収教授の講義](https://ja.wikipedia.org/wiki/田中収_\(大学教授\) "wikilink")、メトロノームの映像、字幕の無いフランス映画等の罠に対して、眠らないように耐え続ける
+  - もしうっかり眠ってしまった挑戦者がいれば、未だに起きている挑戦者が眠った挑戦者の旗を奪い合う。旗を奪った挑戦者は旗1本につき20P獲得。逆に、旗を奪われ、5秒たった挑戦者はマイナス20P&失格。
+
+<!-- end list -->
+
+  - また、品川に帽子の上の旗を奪われた[出川哲朗](../Page/出川哲朗.md "wikilink")が大声で怒鳴り、コーナーを台無しにするところであり、ナインティナインの2人はモニター越しで「大声を出すなや、みんな起きてしまうがな」と小声で言っていた。
+
+### アミューズメントゾーン
+
+  - このゾーンは、[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")の設備を借りて実施
+
+<!-- end list -->
+
+  - 1.クイズdeええじゃないか
+
+<!-- end list -->
+
+  - 1人ずつ挑戦
+  - [ええじゃないかに乗車中の](../Page/ええじゃないか_\(コースター\).md "wikilink")75秒間に、「[クイズタイムショック](../Page/クイズタイムショック.md "wikilink")」の要領で、福澤が読み上げる全5問の1問1答クイズに答える
+      - 制限時間は1問当たり15秒で、何回でも答える事が出来る
+  - 1問正解につき5P獲得。
+      - [村上ショージ](https://ja.wikipedia.org/wiki/村上ショージ "wikilink")が唯一全問正解　25P獲得
+      - 始めに[小林麻耶](https://ja.wikipedia.org/wiki/小林麻耶 "wikilink")も乗車したが叫んだだけで1問も解けなかった。
+
+<!-- end list -->
+
+  - 2.ぬるぬるビーチフラッグ
+
+<!-- end list -->
+
+  - 8人で対戦
+  - 8人は旗とは逆向きに、浮島の上のスタート地点でうつ伏せの体勢で準備
+  - 笛の合図でスタート。一斉に振り返って50m先にある山に刺された1本の旗に向かって、浮島の上を走り、最初に旗を獲得した人は20P獲得
+      - 但し、たとえ旗を獲得しても、そのまま落水してしまった場合は0Pとなり8人全員失格。また、途中浮島から外れて落水した人も失格。
+  - 浮島の上にはローションが撒かれて滑り易くなっており、更に途中には2ヶ所、山の障害が置かれている
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>20P獲得者<br />
+(水に落ちた場合は0P)</p></th>
+<th><p>結果と結末</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1回戦</p></td>
+<td><p>※無し</p></td>
+<td><p>岡村隆史が旗を獲得したが、水に落ちたので8人全員(岡村隆史、オリエンタルラジオ(中田敦彦・藤森慎吾)、品川祐、河本準一、猫ひろし、レギュラー(松本康太・西川晃啓))が失格。</p></td>
+</tr>
+<tr class="even">
+<td><p>2回戦</p></td>
+<td><p>たむらけんじ</p></td>
+<td><p>白いふんどし、Tバックのまま行ったが見事、成功した。</p></td>
+</tr>
+<tr class="odd">
+<td><p>3回戦</p></td>
+<td><p>清人</p></td>
+<td><p>成功したが、放送ではカット。</p></td>
+</tr>
+<tr class="even">
+<td><p>4回戦</p></td>
+<td><p>村上ショージ</p></td>
+<td><p>庄司智春が水に水没して失格となったが、村上ショージが獲得した。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### レイクゾーン
+
+  - ウォーターバイク
+
+<!-- end list -->
+
+  - 1人ずつ挑戦
+  - [田貫湖](https://ja.wikipedia.org/wiki/田貫湖 "wikilink")の上に敷かれた幅50cm、長さ300mの[ピアフロート](https://ja.wikipedia.org/wiki/ピアフロート "wikilink")で作られた一本橋(<small>福澤曰く「エキサイティングブリッジ」</small>)を、自転車に乗って渡る
+  - 進んだ距離10mにつき5P(最大150P)獲得
+      - 最高距離は[村上ショージ](https://ja.wikipedia.org/wiki/村上ショージ "wikilink")の123m（60P獲得）であったが、14mで失敗した岡村隆史は自分の足で300mを走った（走っている最中に190m時点で他の選手([村上ショージ](https://ja.wikipedia.org/wiki/村上ショージ "wikilink")など)から「岡村くん、自転車忘れてる」と言われ（[こちらの動画](https://www.youtube.com/watch?v=vQyPQWbY1qQ)の1:22を参照）、ゴール後、岡村本人は成功したと思い込んでおり、川田アナに指摘されるまで失敗したことに気づかなかった。もちろんこれは岡村の得意な勘違いボケである）。
+      - また、最低は[ビックスモールン](https://ja.wikipedia.org/wiki/ビックスモールン "wikilink")のチロのマイナス7m（本人は自転車を漕げなくて号泣、実はただテレビに写りたかっただけであった。 また、 テレビに映りたい為にワザとボケて転倒する選手も多かった（[パッション屋良](../Page/パッション屋良.md "wikilink")等））。
+
+### 特別準決勝（樹海ゾーン）
+
+  - バンジー7
+
+<!-- end list -->
+
+  - 2位が同点で2人いた為、決勝進出者を決める為に急遽実施
+  - 夜間に行う点と実況が福澤に代わった点以外は、前述と同じ。勝者が決勝進出（敗者は前述と同じくバンジーさせられ、特別準決勝で敗退）。
+  - 品川祐vsマイケルのライバル対決。マイケルを嫌っている品川がマイケルを負けさせた（開始前の品川からは地上にいる時の持ち前の傍若無人さは微塵も感じられず、矢部曰く**「[ケツの穴みたいな顔](../Page/肛門.md "wikilink")」**になっていた）。
+
+### 決勝戦（樹海ゾーン）
+
+  - ヒュースポン
+
+<!-- end list -->
+
+  - 高さ15mから直径6.5cmの鉄球を落として、地上にある直径13cmの穴に入れる
+  - 1人1球ずつ交互に落として、先に穴に入れた方が優勝
+  - 優勝者には優勝賞金￥1,000,000＋ハリアーザガートを獲得
+
+### 最終結果
+
+  - **1位　[品川祐](https://ja.wikipedia.org/wiki/品川祐 "wikilink")　70P(優勝)**
+  - **2位　[村上ショージ](https://ja.wikipedia.org/wiki/村上ショージ "wikilink")　125P**
+  - **3位　[マイケル](https://ja.wikipedia.org/wiki/マイケル "wikilink")　70P**
+  - 4位　ふかわりょう　60P
+  - 4位　マギー審司　60P
+  - 6位　猫ひろし　45P
+  - 6位　ふじいあきら　45P
+  - 8位　パッション屋良　40P
+  - 9位　岡村隆史　35P
+  - 10位　ワッキー　30P
+  - 10位　矢部太郎　30P
+  - 12位　矢部浩之　20P
+  - 12位　藤森慎吾　20P
+  - 12位　庄司智春　20P
+  - 12位　リーダー　20P
+  - 12位　ゆうぞう　20P
+  - 12位　清人　20P
+  - 12位　なかやまきんに君　20P
+  - 12位　レッド吉田　20P
+  - 12位　ゴルゴ松本　20P
+  - 12位　河本準一　20P
+  - 12位　堤下　敦　20P
+  - 12位　たむらけんじ　20P
+  - 12位　松本康太　20P
+  - 25位　西川晃啓　15P
+  - 26位　波田陽区　10P
+  - 26位　東　貴博　10P
+  - 26位　森本　10P
+  - 26位　西田幸治　10P
+  - 26位　カンニング竹山　10P
+  - 小林麻耶　0P
+  - 出川哲朗　0P
+  - 寺門ジモン　0P
+  - 肥後克広　0P
+  - 上島竜兵　0P
+  - 哲夫　0P
+  - 岩尾　望　0P
+  - 後藤輝墓　0P
+  - 入江慎也　0P
+  - じゃい。　0P
+  - スギ　0P
+  - たくや　0P
+  - かずや　0P
+  - 大木こだま　0P
+  - 大木ひびき　0P
+  - 佐田正樹　0P
+  - ヒデ　0P
+  - 中田敦彦　0P
+  - 深沢邦之　0P
+  - チロ　0P
+  - ゴン　0P
+  - 大川　0P
+  - 前田　健　0P
+  - ホリ　0P
+  - 神奈月　0P
+  - 井上　聡　0P
+  - 板倉俊之　0P
+  - 末高斗夢　0P
+
+## 主要スタッフ
+
+  - ナレーター:[福澤朗](../Page/福澤朗.md "wikilink")、[服部潤](https://ja.wikipedia.org/wiki/服部潤 "wikilink")
+  - 総合構成:[堀田延](https://ja.wikipedia.org/wiki/堀田延 "wikilink")
+  - 実況演出・企画原案:[竹中優介](https://ja.wikipedia.org/wiki/竹中優介 "wikilink")
+  - ヘリコプター担当演出:[服部英司](../Page/服部英司.md "wikilink")（[服部良一](https://ja.wikipedia.org/wiki/服部良一 "wikilink")の孫「服部克久」のおい）
+  - 美術チーフ:石原隆
+  - プロデューサー:[海本泰](https://ja.wikipedia.org/wiki/海本泰 "wikilink")
+  - 総合演出:[片山剛](https://ja.wikipedia.org/wiki/片山剛 "wikilink")
+  - 演出:[乾　雅人](https://ja.wikipedia.org/wiki/乾_雅人 "wikilink")
+
+## ロケ地
+
+  - [静岡県](../Page/静岡県.md "wikilink")
+      - [富士宮市](../Page/富士宮市.md "wikilink")
+  - [山梨県](../Page/山梨県.md "wikilink")
+      - [富士河口湖町](../Page/富士河口湖町.md "wikilink")
+      - [富士吉田市](../Page/富士吉田市.md "wikilink")（[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")）
+
+## 脚注
+
+## 関連項目
+
+  - [ナインティナインのオールナイトニッポン](../Page/ナインティナインのオールナイトニッポン.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")系、木曜25:00-27:00、宿泊先のホテルから生放送を行った）
+  - [DOORS (テレビ番組)](https://ja.wikipedia.org/wiki/DOORS_\(テレビ番組\) "wikilink")（2005年）
+  - [DOORS 2007](../Page/DOORS_2007.md "wikilink")
+  - [DOORS 2008](../Page/DOORS_2008.md "wikilink")
+  - [DOORS 2009春](https://ja.wikipedia.org/wiki/DOORS_2009春 "wikilink")
+  - [DOORS 2009厳冬](https://ja.wikipedia.org/wiki/DOORS_2009厳冬 "wikilink")
+  - [究極バトル“ゼウス”](https://ja.wikipedia.org/wiki/究極バトル“ゼウス” "wikilink")- 2015年4月9日に同局系で放送されたゲームアトラクションバラエティ。本番組の種目「ウォーターバイク」とほぼ同じ内容の種目「オーシャンバイク」が実施された（但し距離はDOORSシリーズより短い200mで実施）。
+
+## 外部リンク
+
+  - [DOORS 2006](http://www.tbs.co.jp/DOORS/)（TBS）
+
+[Category:DOORS](https://ja.wikipedia.org/wiki/Category:DOORS "wikilink") [Category:TBSの特別番組](https://ja.wikipedia.org/wiki/Category:TBSの特別番組 "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:ナインティナイン](https://ja.wikipedia.org/wiki/Category:ナインティナイン "wikilink")
+
+1.  その後2009年12月28日O.A.の[DOORS 2009厳冬まで続いた](https://ja.wikipedia.org/wiki/DOORS_2009厳冬 "wikilink")

@@ -1,0 +1,16 @@
+> この記事は[Prophecy](https://ja.wikipedia.org/wiki/Prophecy)から翻訳されています。
+
+
+**Prophecy**（プロフェシー）とは[コルグ](https://ja.wikipedia.org/wiki/コルグ "wikilink")の[シンセサイザー](../Page/シンセサイザー.md "wikilink")の型番・商品名である。
+
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")発売。[物理モデル音源](../Page/物理モデル音源.md "wikilink")を搭載したシンセサイザー。37鍵仕様。最大同時発音数1音。このためコルグはProphecyを「ソロ・シンセサイザー」と名づけている。[ヤマハ](../Page/ヤマハ.md "wikilink")以外のメーカーから出た物理モデル音源を採用したシンセサイザーの草分けであり、発売当時の価格が128,000円である。
+
+オシレータに[バーチャルアナログシンセサイザー](../Page/バーチャルアナログ音源.md "wikilink")、管楽器の発音構造をシミュレートした音源、FM音源と同様にモジュレーションで変調させる音源、ノイズから音程を抽出するタイプの音源など5種のシンセサイズ方式を採用している。これらのシンセサイズ方式をどれも物理モデルを応用した音源であり、コルグは「**MOSS**」音源と名づけている。MOSS音源はオシレータから出力された音をウェーブシェイプやミキサー、フィルターそしてアンプなどで加工可能としている。エフェクターはDistortion、Wah、Dual Parametric EQなど7種類を採用。リアルタイム音色変化可能とするため、リボンコントローラーも装備している。
+
+この後、単体の\[MOSS\]音源のシンセサイザーはポリフォニック化した[コルグ・Z1](https://ja.wikipedia.org/wiki/コルグ・Z1 "wikilink")に引継がれている。しかし、内部の構成が両機ではかなり違う事やDAの音質の違い、そもそもZ1では根幹である物理モデル音源部の変更がなされているため近い設定にしても全く違う出音しか出せず、音色はProphecyのポリフォニック版＝Z1ではない。現在拡張カードとして残っているMOSS音源もZ1の血統の物である。
+
+MOSS音源はこの後[TRINITYや](https://ja.wikipedia.org/wiki/コルグ・TRINITYシリーズ "wikilink")[TRITONにも採用されている](https://ja.wikipedia.org/wiki/コルグ・TRITONシリーズ "wikilink")。
+
+プログラムのバグが原因と思われる内部での音割れがたまに起こるものの、音源、楽器としてProphecyの方が人気は高く中古市場でも人気は続いている。出音の傾向は明らかに違いProphecyの方が太い芯のある音がする。いまだに著名キーボーディストやDJなどの間では主力音源として愛用している人も多い。
+
+[Category:シンセサイザー](https://ja.wikipedia.org/wiki/Category:シンセサイザー "wikilink") [Category:コルグ](https://ja.wikipedia.org/wiki/Category:コルグ "wikilink")

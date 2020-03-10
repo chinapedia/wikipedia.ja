@@ -1,0 +1,146 @@
+> この記事は[DDT \(\)](https://ja.wikipedia.org/wiki/DDT_\(\))から翻訳されています。
+
+
+[Randy's_DDT.jpg](https://ja.wikipedia.org/wiki/File:Randy's_DDT.jpg "fig:Randy's_DDT.jpg")によるDDT（エレベイテッドDDT）。\]\] **DDT**（ディー・ディー・ティー）は、[プロレス技](https://ja.wikipedia.org/wiki/プロレス技 "wikilink")の一種である。
+
+## 概要
+
+[ジェイク・ロバーツ](../Page/ジェイク・ロバーツ.md "wikilink")のオリジナル技であり、代名詞的ともいえる[フィニッシュ・ホールド](https://ja.wikipedia.org/wiki/フィニッシュ・ホールド "wikilink")。正対する相手の頭部を[フロント・ヘッド・ロックの要領で片脇に捕らえ](../Page/ヘッドロック.md "wikilink")、そのまま後ろに倒れこんで相手の頭部を打ちつける。
+
+ロバーツは自身のDVD『Pick Your Poison』に収録されているインタビューでDDTの名称は[殺虫剤](https://ja.wikipedia.org/wiki/殺虫剤 "wikilink")の[DDT](https://ja.wikipedia.org/wiki/DDT "wikilink")（**D**ichloro **D**iphenyl **T**richloroethane）に由来していると語っている。[ダブル・ミーニング](../Page/ダブル・ミーニング.md "wikilink")として相棒である[ニシキヘビ](https://ja.wikipedia.org/wiki/ニシキヘビ "wikilink")のダミアンにちなんだダミアンズ・ディナー・タイム（Damien's Dinner Time）にも掛けられており、他にも、「Drop Dead Twice」「Demonic Death Trap」「Death Drop Technique」など様々な言われようもあった。ロバーツのDDT以前にも似た形のプロレス技は存在していたとも言われるが、1つの必殺技としてDDTを開発と確立したのはロバーツである。
+
+[天龍源一郎](https://ja.wikipedia.org/wiki/天龍源一郎 "wikilink")がインタビューでDDTを自身の名前と掛けて、「DDTはデンジャラス・ドライバー・オブ・テンリューの頭文字である」という旨の発言をしたため、命名の由来に若干の誤解が生じていた。
+
+単純ではあるが応用性に富み、試合中盤の繋ぎ技としてだけでなく独自の工夫を凝らすことでフィニッシュ・ホールドに進化させるレスラーも多い。見栄えが良い上にこれといった返し技がないなど利点も多く、近年のプロレスを代表するプロレス技の1つといえる。
+
+現在は相手の頭頂部を打ち付ける形が多いが天龍のDDTは顔面を狙うような形で仕掛ける。頭頂部を狙う形のほうが見た目が派手で相手も受身がとりやすいため（技を受けた相手が1回転するなどして受け方も見栄えがする）、こちらのほうが主流になっている。
+
+実況アナウンサーの[辻よしなり](../Page/辻よしなり.md "wikilink")がDDTを「**リング上の殺虫剤**」、[福澤朗](../Page/福澤朗.md "wikilink")も「**プロレス人間殺虫剤**」と形容している。
+
+[DDTプロレスリング](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")は「Dramatic Dream Team」の略称であるが命名する際に技名として使用されているDDTを略称にかけたものである。
+
+応用技として相手の首をDDTの要領で左脇に抱え込み、ジャンプして背中から倒れ込むと同時に抱えていた相手の頭部を打ちつける**ジャンピング式**、相手が両膝をついた状態から相手の首をDDTの要領で左脇に抱え込み、左足を後ろに振り上げて反動をつけて背中から倒れ込むと同時に抱えていた相手の頭部を打ちつける**低空式**、相手をコーナー最上段に座らせて自身もセカンドロープに登って仕掛ける**[雪崩式](https://ja.wikipedia.org/wiki/雪崩式 "wikilink")**がある。雪崩式は危険技なので、あまり使用されていない。雪崩式を仕掛ける自身も背中を強打するため、諸刃の剣とも言える。[橋本真也](https://ja.wikipedia.org/wiki/橋本真也 "wikilink")が[蝶野正洋](../Page/蝶野正洋.md "wikilink")に雪崩式を仕掛けた際に橋本が起き上がれず、蝶野が先に立ち上がり、橋本をフォールする展開があった。
+
+総合格闘技で行われた[山本宜久](https://ja.wikipedia.org/wiki/山本宜久 "wikilink")対[マーク・ケアー](https://ja.wikipedia.org/wiki/マーク・ケアー "wikilink")戦において、ケアーが[タックル](https://ja.wikipedia.org/wiki/タックル "wikilink")を仕掛けたところ山本が[フロント・ヘッドロックの形でケアーの頭を締めながら後方へと倒れ込んだ結果](https://ja.wikipedia.org/wiki/ヘッドロック#フロント・ヘッドロック "wikilink")、偶然にDDTの形になってケアーが失神して試合が決着した例がある。
+
+## 主な使用者
+
+  - [ジェイク・ロバーツ](../Page/ジェイク・ロバーツ.md "wikilink") - 相手の足元に自身が滑り込むように倒れ込むスタイルを使用。
+  - [テリー・ゴディ](https://ja.wikipedia.org/wiki/テリー・ゴディ "wikilink")
+  - [マイケル・ヘイズ](https://ja.wikipedia.org/wiki/マイケル・ヘイズ "wikilink")
+  - [アーン・アンダーソン](../Page/アーン・アンダーソン.md "wikilink")
+  - [アル・スノー](../Page/アル・スノー.md "wikilink")
+  - [ダニー・スパイビー](../Page/ダニー・スパイビー.md "wikilink") - **スパイビー・スパイク**の名称で使用。
+  - [レイヴェン](https://ja.wikipedia.org/wiki/レイヴェン_\(プロレスラー\) "wikilink") - **レイヴェン・エフェクト**の名称で使用。
+  - [トミー・ドリーマー](../Page/トミー・ドリーマー.md "wikilink")
+  - [バフ・バグウェル](../Page/バフ・バグウェル.md "wikilink")
+  - [ディスコ・インフェルノ](https://ja.wikipedia.org/wiki/ディスコ・インフェルノ "wikilink")
+  - [トリプルH](https://ja.wikipedia.org/wiki/トリプルH "wikilink")
+  - [ザ・ロック](../Page/ドウェイン・ジョンソン.md "wikilink")
+  - [ロブ・コンウェイ](../Page/ロブ・コンウェイ.md "wikilink")
+  - [ランディ・オートン](https://ja.wikipedia.org/wiki/ランディ・オートン "wikilink") - 相手の両足の、つま先をトップロープに引っ掛けて、仕掛けるのを**エレベイテッドDDT**の名称で使用。
+  - [ドルフ・ジグラー](https://ja.wikipedia.org/wiki/ドルフ・ジグラー "wikilink")
+  - [コーディ・ローデス](../Page/コーディ・ローデス.md "wikilink") - 高速で仕掛けるのを**シルバースプーンDDT**の名称で使用。
+  - [トリー・ウィルソン](https://ja.wikipedia.org/wiki/トリー・ウィルソン "wikilink")
+  - [ブラック・キャット](https://ja.wikipedia.org/wiki/ブラック・キャット_\(プロレスラー\) "wikilink")
+  - [アルベルト・エル・パトロン](https://ja.wikipedia.org/wiki/アルベルト・ロドリゲス "wikilink")
+  - [スティーブ・コリノ](https://ja.wikipedia.org/wiki/スティーブ・コリノ "wikilink")
+  - [シン・ボーディ](https://ja.wikipedia.org/wiki/ニック・クヴジェトコビッチ "wikilink")
+  - [マリース](https://ja.wikipedia.org/wiki/マリース・ウエレ "wikilink") - **フレンチキス**の名称で使用。
+  - [デイブ・フィンレー](../Page/デイブ・フィンレー.md "wikilink")
+  - [ショーン・デバリ](https://ja.wikipedia.org/wiki/ショーン・デバリ "wikilink") - 低空式を**WMD（ウエポンズ・オブ・マス・デストラクション）**の名称で使用。
+  - [ジェイク・リー](https://ja.wikipedia.org/wiki/ジェイク・リー "wikilink")
+  - [橋本真也](https://ja.wikipedia.org/wiki/橋本真也 "wikilink") - 日本におけるDDTの第一人者。本人も日本人レスラーで1番の使い手であると自負しており、決め方のバリエーションを多数考案して日本のプロレス界において、強い影響を与えた。
+  - [ジャイアント馬場](../Page/ジャイアント馬場.md "wikilink") - **ジャイアントDDT**の名称で使用。デビュー以来、欠場したことがなかった馬場が首の骨折による欠場明けの復帰戦でDDTを決めて勝利を飾り、馬場は「こんな簡単でいい技があるなんて知らなかった」と感心していた。テレビゲーム『[ファイヤープロレスリング](https://ja.wikipedia.org/wiki/ファイヤープロレスリング "wikilink")シリーズ』では馬場の独特のモーションを再現しており、一般的なDDTとは別格の扱いを受けている。
+  - [大仁田厚](../Page/大仁田厚.md "wikilink") - ジャンピング式を**DDO（デンジャラス・ドライバー・オオニタ）**の名称で使用。
+  - [天龍源一郎](https://ja.wikipedia.org/wiki/天龍源一郎 "wikilink")
+  - [スーパー・ストロング・マシン](https://ja.wikipedia.org/wiki/平田淳嗣 "wikilink")
+  - [獣神サンダー・ライガー](https://ja.wikipedia.org/wiki/獣神サンダー・ライガー "wikilink")
+  - [エル・サムライ](https://ja.wikipedia.org/wiki/エル・サムライ "wikilink")
+  - [ザ・グレート・サスケ](../Page/ザ・グレート・サスケ.md "wikilink") - [雪崩式](https://ja.wikipedia.org/wiki/雪崩式 "wikilink")を**サスケ・スペシャルX**の名称で使用。
+  - [田中将斗](https://ja.wikipedia.org/wiki/田中将斗 "wikilink") - 1人をDDT、もう1人を[スタナー](https://ja.wikipedia.org/wiki/スタナー "wikilink")で、まとめて仕掛けるのを、**まとめて**の名称で使用。
+  - [雷神矢口](https://ja.wikipedia.org/wiki/矢口壹琅 "wikilink") - **DDR（デンジャラス・ドライバー・雷神）**の名称で使用。
+  - [グンソ](https://ja.wikipedia.org/wiki/グンソ "wikilink")
+  - [オカダ・カズチカ](https://ja.wikipedia.org/wiki/オカダ・カズチカ "wikilink")
+  - [高橋裕二郎](https://ja.wikipedia.org/wiki/高橋裕二郎 "wikilink") - 低空式を**ピンプジュース**の名称で使用。
+  - [澤田敦士](https://ja.wikipedia.org/wiki/澤田敦士 "wikilink")
+  - [橋本大地](https://ja.wikipedia.org/wiki/橋本大地_\(プロレスラー\) "wikilink")
+  - [オーアライダー](https://ja.wikipedia.org/wiki/オーアライダー "wikilink") - **GBP**の名称で使用。
+  - [ブル中野](https://ja.wikipedia.org/wiki/ブル中野 "wikilink")
+  - [白鳥智香子](https://ja.wikipedia.org/wiki/白鳥智香子 "wikilink")
+  - [瑛凛](https://ja.wikipedia.org/wiki/瑛凛 "wikilink")
+
+## 派生技
+
+### 飛びつき式DDT
+
+相手が屈んだ状態にある時に、相手の首に飛びついた勢いでそのまま仕掛ける。ロープワークの攻防から走った勢いで放つパターンや、ショルダースルーなど上に放り投げられた後の落下の勢いで放つパターンがある。後者の主な使い手は[ジ・アンダーテイカー](https://ja.wikipedia.org/wiki/ジ・アンダーテイカー "wikilink")。[橋本真也](https://ja.wikipedia.org/wiki/橋本真也 "wikilink")も垂直落下式DDTを開発する前にフィニッシュとして使用していた。
+
+  - ダイビング飛びつき式DDT
+    上記の飛びつき式DDTをコーナーから飛びついて放つ。の[金丸義信](https://ja.wikipedia.org/wiki/金丸義信 "wikilink")が使う**ディープ・インパクト**などがある。[大谷晋二郎](https://ja.wikipedia.org/wiki/大谷晋二郎 "wikilink")の場合は[スワンダイブ式を使用する](https://ja.wikipedia.org/wiki/プロレス技#スワンダイブ式 "wikilink")。
+  - シューティング・スターDDT
+    コーナー最上段から[シューティング・スター・プレスの要領で](https://ja.wikipedia.org/wiki/ボディ・プレス#シューティング・スター・プレス "wikilink")450度回転し、そのまま相手に飛びついて極める高難易度のDDTで、[マット・クロス](../Page/マット・クロス.md "wikilink")が主な使い手（**デス・スターDDT**の名称で使用）。
+  - ナカユビ
+    [CIMAのオリジナル技](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")。[フロント・ネックロックを仕掛けるように手を回し](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")、そのまま相手の胴体を両足で挟み込むように飛びつきながら放つ。
+
+### 垂直落下式DDT
+
+DDTに相手を捕らえてそのまま持ち上げ、相手の体をマットに対して垂直にした形で落とす。技としては[垂直落下式ブレーンバスターとほぼ同型だが](https://ja.wikipedia.org/wiki/ブレーンバスター "wikilink")、唯一の使い手であった橋本が「足のステップがDDTなのでブレーンバスターではない」と主張していた。実際、初期は空中で無理やりDDTのフックに持ち替えるなど落とし方がDDTに近く、危険性を考慮して後のブレーンバスターのような形になった。橋本はこの技を一撃必殺の最終兵器として愛用し続け、橋本がチャンピオンになって以来、この技を自力でキックアウトしたレスラーは[ロード・スティーブン・リーガル（ウィリアム・リーガル）のみである](https://ja.wikipedia.org/wiki/ダレン・マシューズ "wikilink")。
+
+  - インプラントDDT
+    タイツなどを掴んで相手の身体を水平かそれ以上の急角度に持ち上げて、一気に落とすDDT。主な使用者は[ジョニー・エース](https://ja.wikipedia.org/wiki/ジョン・ロウリネイティス "wikilink")（**ジョニー・スパイク**の名称で使用）、[ギャングレル](https://ja.wikipedia.org/wiki/デビッド・ヒース "wikilink")（**インペイラー**の名称で使用）、[マイク・バートン](https://ja.wikipedia.org/wiki/マイク・ポルクロペック "wikilink")（**バートン・スパイク**の名称で使用）、[エッジ](https://ja.wikipedia.org/wiki/アダム・コープランド "wikilink")（**エッジキューション**の名称で使用）、[カート・ホーキンス](https://ja.wikipedia.org/wiki/ブライアン・マイヤーズ "wikilink")（**ラフ・ライオット**の名称で使用）、[アレックス・ライリー](https://ja.wikipedia.org/wiki/アレックス・ライリー "wikilink")（**ライリー・エレベーション**の名称で使用）、[ボビー・ルード](https://ja.wikipedia.org/wiki/ボビー・ルード "wikilink")（**グロリアスDDT**の名称で使用）、[プリンス・デヴィット](https://ja.wikipedia.org/wiki/プリンス・デヴィット "wikilink")**ブラディ・サンデー**の名称で使用）など。
+    相手の首をマットの上に急角度で落とすため、[受身](https://ja.wikipedia.org/wiki/受身 "wikilink")を取るタイミングを間違えたり受身が浅かったりすると、頸椎に重大なダメージを被る。しかし、この技を放つ側は頭部の頂点よりも前頭部がマットに当たるように仕掛けることが多いため、受身に失敗することは滅多にない。
+  - フィッシャーマンズDDT
+    [フィッシャーマンズ・スープレックス](../Page/フィッシャーマンズ・スープレックス.md "wikilink")と同じ形で抱え上げてから、相手の頭部からマットへ落とす。橋本が使用していた。[フィッシャーマンズ・バスターと同じ技であるが](https://ja.wikipedia.org/wiki/フィッシャーマンズ・スープレックス#フィッシャーマンズ・バスター "wikilink")、垂直落下式DDTと同様に橋本は、「足のステップがDDT」と主張してDDTを名乗っている。
+
+### スイングDDT
+
+フロントヘッドロックで固めた相手を中心に旋回して叩きつけるDDT。[WWE](../Page/WWE.md "wikilink")では**トルネードDDT**と呼称される。[スペル・デルフィン](../Page/スペル・デルフィン.md "wikilink")のオリジナル技（実際に開発したのは[外道だと言われている](https://ja.wikipedia.org/wiki/外道_\(プロレスラー\) "wikilink")。）。コーナーポストを利用する形と、その場飛びで使う形（**スクリューDDT**とも称される。）がある。他に[グラン浜田](https://ja.wikipedia.org/wiki/グラン浜田 "wikilink")、[佐々木貴](https://ja.wikipedia.org/wiki/佐々木貴 "wikilink")、[ドクトル・ワグナー・ジュニア](https://ja.wikipedia.org/wiki/ドクトル・ワグナー・ジュニア "wikilink")、[エディ・ゲレロ](https://ja.wikipedia.org/wiki/エディ・ゲレロ "wikilink")など主に軽量級の選手に使い手が多い。[太陽ケア](https://ja.wikipedia.org/wiki/太陽ケア "wikilink")は、**ハリケーン・スパイク**もしくは**波乗りDDT**として使用している（走り込んで飛び付き、そこから捻りを加える。）。女子レスラーでは、[アイスリボン](../Page/アイスリボン.md "wikilink")の[聖菜](https://ja.wikipedia.org/wiki/聖菜 "wikilink")が得意としていた。特にアイスリボンが常設会場としている[市ヶ谷アイスボックス](https://ja.wikipedia.org/wiki/市ヶ谷アイスボックス "wikilink")には、鉄柱の代わりに壁が存在しており、聖菜の場合はその壁を蹴り上げるようにして旋回していた。タッグマッチなどで対戦相手を壁代わりに蹴り上げるステップ式DDTもある（主な使い手には[日高郁人](https://ja.wikipedia.org/wiki/日高郁人 "wikilink")がいる。）。
+
+  - スプリングボードトルネードDDT
+    ロープに駆け上り、もしくはジャンプして反動を利用したスイングDDT。
+
+### ダブルアームDDT
+
+両腕を[リバース・フルネルソンに固めてのDDT](https://ja.wikipedia.org/wiki/羽交い締め#リバース・フルネルソン "wikilink")。[全日本プロレス](../Page/全日本プロレス.md "wikilink")の常連外国人レスラーであった[ダニー・クロファット](../Page/ダニー・クロファット.md "wikilink")により、日本で初公開された。他の外国人選手では、[ミック・フォーリー](https://ja.wikipedia.org/wiki/ミック・フォーリー "wikilink")が**カクタス・ジャックナイフ**、[スティービー・リチャーズが](https://ja.wikipedia.org/wiki/マイケル・マナ "wikilink")**スティービーT**の名称で使用。日本人選手では[小橋建太](https://ja.wikipedia.org/wiki/小橋建太 "wikilink")、[北斗晶](https://ja.wikipedia.org/wiki/北斗晶 "wikilink")、[安良岡裕二](https://ja.wikipedia.org/wiki/安良岡裕二 "wikilink")などが使用した。また、[秋山準](https://ja.wikipedia.org/wiki/秋山準 "wikilink")も1990年代後半頃、前述のインプラント式のように持ち上げて垂直に落とす形で使用していた。同様のフォームで[高木三四郎](https://ja.wikipedia.org/wiki/高木三四郎 "wikilink")も使用することもある。
+
+  - リストクラッチDDT
+    魔神風車固め（変形[ダブルアーム・スープレックス](https://ja.wikipedia.org/wiki/ダブルアーム・スープレックス "wikilink")）と同型のクラッチから後方に落とす。ダブルアームDDTに比べるとクラッチが複雑なため、受け身が取りにくい。過去に[丸藤正道](https://ja.wikipedia.org/wiki/丸藤正道 "wikilink")、[奥村茂雄](https://ja.wikipedia.org/wiki/奥村茂雄 "wikilink")が使用している。丸藤は、前述のインプラント式のような落とし方でも使用した。
+  - 胴締め式ダブルアームDDT
+    [リバース・フルネルソンの状態から](https://ja.wikipedia.org/wiki/羽交い締め#リバース・フルネルソン "wikilink")、相手の胴体を両足で挟み込むように飛びつきながら極める。前述[ナカユビのダブルアーム式と言える](https://ja.wikipedia.org/wiki/DDT_\(プロレス技\)#飛びつき式DDT "wikilink")。元[WWE](../Page/WWE.md "wikilink")の[キザーニーが](https://ja.wikipedia.org/wiki/ニック・クヴジェトコビッチ "wikilink")**タルーラ・ベル**、[タマ・トンガが](https://ja.wikipedia.org/wiki/ピート・フィフィタ "wikilink")**ヴェレノ**の名称で使用している。
+
+### リバースDDT
+
+相手の身体が仰向けになった形でのDDT。海外では**インバーテッドDDT**と呼ばれている。主な使用者は[スキナー](https://ja.wikipedia.org/wiki/スティーブ・カーン "wikilink")（**ゲーターブレーカー**の名称で使用）\[1\]、[スティング](https://ja.wikipedia.org/wiki/スティング_\(プロレスラー\) "wikilink")（**スコーピオン・デス・ドロップ**の名称で使用）、[トミー・ドリーマー](../Page/トミー・ドリーマー.md "wikilink")、[ミディオン](https://ja.wikipedia.org/wiki/デニス・ナイト "wikilink")（**アイ・オープナー**の名称で使用）\[2\]、[ヘンリー・O・ゴッドウィン](https://ja.wikipedia.org/wiki/マーク・カンタベリー "wikilink")（**スロップ・ドロップ**の名称で使用）\[3\]、[ランス・アーチャー](https://ja.wikipedia.org/wiki/ランス・ホイット "wikilink")（**ダークデイズ**の名称で使用）、[ザ・ミズ](https://ja.wikipedia.org/wiki/ザ・ミズ "wikilink")、[ヒース・スレイター](https://ja.wikipedia.org/wiki/ヒース・スレイター "wikilink")（**Eマイナー**の名称で使用）、[アダム・コール](https://ja.wikipedia.org/wiki/アダム・コール "wikilink")（**コロナ・クラッシュ**の名称で使用）、[ダニー・クロファット](../Page/ダニー・クロファット.md "wikilink")、[クリスチャン](https://ja.wikipedia.org/wiki/ジェイソン・リソ "wikilink")、[ショーン・スタージャック](../Page/ショーン・スタージャック.md "wikilink")（**ミート・グラインダー**の名称で使用）、橋本真也、[エル・サムライ](https://ja.wikipedia.org/wiki/エル・サムライ "wikilink")、[OKUMURA](https://ja.wikipedia.org/wiki/奥村茂雄 "wikilink")、[MIYAWAKI](https://ja.wikipedia.org/wiki/MIYAWAKI_\(プロレスラー\) "wikilink")（**デスペナルティー**の名称で使用）、[矢郷良明](../Page/矢郷良明.md "wikilink")（**デスペナルティー**の名称で使用）、[清宮海斗](https://ja.wikipedia.org/wiki/清宮海斗 "wikilink")、[ブル中野](https://ja.wikipedia.org/wiki/ブル中野 "wikilink")、[三田英津子](https://ja.wikipedia.org/wiki/三田英津子 "wikilink")（**825**の名称で使用）、[沼尾マキエ](https://ja.wikipedia.org/wiki/沼尾マキエ "wikilink")、[アスカなど](https://ja.wikipedia.org/wiki/華名 "wikilink")。[雪崩式](https://ja.wikipedia.org/wiki/雪崩式 "wikilink")、スイング式で出されることもある。
+
+  - 垂直落下式リバースDDT
+    リバースDDTの体勢から相手のタイツを掴んで持ち上げ、後頭部から落としていく。エル・サムライや[ゴールダストが得意とする](https://ja.wikipedia.org/wiki/ヴァージル・ラネルズ3世 "wikilink")。[橋誠](https://ja.wikipedia.org/wiki/橋誠 "wikilink")が、相手の片足も同時に抱え込んでかける**天誅烏落とし**という技を使用していた。同形の抱え式は、プリンス・デヴィットも**リバースブラディ・サンデー**の名称で使用している。
+  - ブリティッシュ・フォール
+    [ジョニー・スミス](../Page/ジョニー・スミス.md "wikilink")のオリジナル技。ボディスラムのように相手の体を担いでから首をフックしたまま相手を足から着地させ、リバースDDTに移行する技。ゴールダストは**カーテン・コール**、橋も**ゴリティッシュ・フォール**の名称で使用した。
+  - 後方回転式リバースDDT
+    相手に背を向けたまま、肩上に相手の頭部を抱えた状態からコーナーポストを蹴り上げてバック宙し相手の頭を中心点に270度回転して決めるリバースDDT。
+    長らくはこの技の「起源説」について様々な説が取り上げられたが、プロレス関係の著書を多数出筆している[流智美](https://ja.wikipedia.org/wiki/流智美 "wikilink")により、[日本プロレス](https://ja.wikipedia.org/wiki/日本プロレス "wikilink")の[吉村道明](https://ja.wikipedia.org/wiki/吉村道明 "wikilink")が使用した「回転投げ」\[4\]が、起源ではないかとして取り上げられている。ただし、1990年代後半に「コーナーをステップにして、後方回転しながら相手の頭部をマットに叩きつける」という方向に技を進化（深化）させたのは、後述するそれぞれの選手達である。
+    [ブライアン・ケンドリック](https://ja.wikipedia.org/wiki/ブライアン・ケンドリック "wikilink")が**ジ・ケンドリック**（**スライス・ブレッドNo.2**）、丸藤が**不知火**、[日高郁人](https://ja.wikipedia.org/wiki/日高郁人 "wikilink")が**ミスティ・フリップ**の名称で使用している。
+    丸藤が「不知火」と称して使い始めてから脚光を浴びたため、知名度は「不知火」が先行している。不知火という技名の由来は丸藤がインタビューで「プロレス界では横文字の技名が流行っていて漢字を使う技名がなかったんで。マンガに出てくる（作品は不明）「妖刀・不知火」から取った」とのこと\[5\]。しかし、同型の技を使用したのは日高の「ミスティ・フリップ」の方が早い。
+  - アサイDDT
+    相手に背を向けたまま肩越しに相手の頭部を抱えた状態から、その場で高々とジャンプしてバック宙し、相手の頭を中心点に約270度回転して決めるリバースDDT。上記後方回転式リバースDDTをその場跳びで行う技。[ウルティモ・ドラゴン](https://ja.wikipedia.org/wiki/ウルティモ・ドラゴン "wikilink")、[カズ・ハヤシ](https://ja.wikipedia.org/wiki/カズ・ハヤシ "wikilink")が主な使い手。当初は、ウルティモのリングネームからとってドラゴン・カッターと呼ばれていたが、本名に由来し現在の名に改称した。首のロックや着地姿勢は違うが、丸藤も同型の技を（その場跳び式の）不知火として使用している。
+  - 腕極め後方回転式リバースDDT
+    首をロックした状態で相手の腕を支点に逆上がりの要領で回転し、その勢いを利用して放つ変型リバースDDT。[政宗が](../Page/政宗_\(プロレスラー\).md "wikilink")**雷切**、[内藤哲也](https://ja.wikipedia.org/wiki/内藤哲也 "wikilink")が**デスティーノ**の名称で使用している。政宗が両膝をつくように着地するのに対して内藤の場合は尻もち、または背中から着地する。
+  - [雪崩式](https://ja.wikipedia.org/wiki/雪崩式 "wikilink")リバースDDT
+    コーナーポストから相手の首を抱え下後方へ落ちるリバースDDT。エル・サムライが大一番でのフィニッシュ・ホールドとして使用していた。
+  - 雪崩式後方回転式リバースDDT
+    コーナーポストから相手の首を抱え後方に向かって飛び回転しながら着弾させる技。主な使い手は[フランキー・カザリアン](https://ja.wikipedia.org/wiki/フランキー・カザリアン "wikilink")（**フラックキャパシター**の名称で使用）、丸藤（**不知火・改**の名称で使用）、日高（**雪崩式ミスティ・フリップ**の名称で使用）、[ポール・バーチル](https://ja.wikipedia.org/wiki/ポール・バーチル "wikilink")（**C4**の名称で使用）など。ツープラトンで放つ同技は[スパニッシュ・アナウンス・チーム](https://ja.wikipedia.org/wiki/The_S.A.T. "wikilink")（ジョエル・マキシモ&ホセ・マキシモ）が**スパニッシュ・フライ**として使用している。
+
+## 脚注
+
+## 関連項目
+
+  - [ジェイク・ロバーツ](../Page/ジェイク・ロバーツ.md "wikilink")
+
+[Category:プロレス技](https://ja.wikipedia.org/wiki/Category:プロレス技 "wikilink")
+
+1.
+2.
+3.
+4.  相手に「フロント・ヘッドロック」をかけさせてから、自分の体を反転させ（つまり「スタンディング・ドラゴン・スリーパー」の体制）、そこから首のフックを決めさせたまま飛び上がり相手の頭部と自分の腹部をくっつけるように後方回転し、相手を後方に引き倒しフォールを奪う技）[週刊プロレス](https://ja.wikipedia.org/wiki/週刊プロレス "wikilink")2011年7月6日号、P78.「プロレス検定塾」第230回より
+5.  「週刊プロレス」2013年7月17日号（通刊1693号）頁37,「選手本人が語る21世紀の技解説」

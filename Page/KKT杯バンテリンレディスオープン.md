@@ -1,0 +1,106 @@
+> この記事は[KKT](https://ja.wikipedia.org/wiki/KKT)から翻訳されています。
+
+
+**KKT杯バンテリンレディスオープン**（ケーケーティーはいバンテリンレディスオープン）は、毎年4月第2週から第3週にかけて[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")で開催されている[くまもと県民テレビ](../Page/熊本県民テレビ.md "wikilink")（KKT）の主催、[興和](https://ja.wikipedia.org/wiki/興和 "wikilink")の特別協賛、[日本女子プロゴルフ協会](../Page/日本女子プロゴルフ協会.md "wikilink")（LPGA）公認による女子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの一つである](../Page/トーナメント方式.md "wikilink")。[2019年](../Page/2019年.md "wikilink")現在、賞金総額1億円、優勝賞金1800万円\[1\]。
+
+## 大会の歴史
+
+[1988年](../Page/1988年.md "wikilink")、KKTと不動産会社のマルコーの主催により「マルコー中央レディスゴルフトーナメント」（翌[1989年](../Page/1989年.md "wikilink")から「マルコーレディス」に改題）として開催。開始当初は熊本中央カントリークラブで行われたが、[1991年](../Page/1991年.md "wikilink")より、[玉名市](../Page/玉名市.md "wikilink")の玉名カントリークラブに会場を移す。
+
+[1992年](../Page/1992年.md "wikilink")、新たな主催社に[再春館製薬所](https://ja.wikipedia.org/wiki/再春館製薬所 "wikilink")を迎え「再春館レディース」として開催\[2\]。[1993年](../Page/1993年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")までは[益城町](https://ja.wikipedia.org/wiki/益城町 "wikilink")の[高遊原カントリークラブ](https://ja.wikipedia.org/wiki/高遊原カントリークラブ "wikilink")で、[1996年](../Page/1996年.md "wikilink")以降は[菊陽町](https://ja.wikipedia.org/wiki/菊陽町 "wikilink")の[熊本空港カントリークラブ](https://ja.wikipedia.org/wiki/熊本空港カントリークラブ "wikilink")に会場を移して現在まで開催されている。
+
+[2000年](../Page/2000年.md "wikilink")から「再春館レディース・火の国オープン」に改称され行われてきたが、2004年大会をもって再春館製薬所が[冠スポンサーから撤退](https://ja.wikipedia.org/wiki/スポンサー "wikilink")（ただし撤退後もサブスポンサーとして協賛は継続）。翌[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")から[ライフに変更され](https://ja.wikipedia.org/wiki/ライフ_\(信販\) "wikilink")、同時に大会名を「ライフカードレディスゴルフトーナメント」に改称されたが、2009年大会をもって撤退。2010年大会から[西陣に変更し](../Page/西陣_\(企業\).md "wikilink")、同時に大会名を「西陣レディスクラシック」に改称した。
+
+[2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")午後に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")の影響によって[PRGRレディス杯以降の](https://ja.wikipedia.org/wiki/ヨコハマタイヤゴルフトーナメント_PRGRレディスカップ "wikilink")2011年度JLPGAツアーが中止されていたが、この大会よりツアーを再開する事になった。大会名を「心をひとつに 西陣レディスクラシック〜東北地方太平洋沖地震　復興支援チャリティ〜」に変更\[3\]し、被災地の復興支援を趣旨\[4\]\[5\]として開催された。
+
+[2012年](../Page/2012年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")にLPGAより発表された[2013年](../Page/2013年.md "wikilink")度の大会名称は当初「KKTレディス熊本」となっていたが、[2013年](../Page/2013年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")、新たな特別協賛社として[興和](https://ja.wikipedia.org/wiki/興和 "wikilink")を迎え、大会名を「KKT杯[バンテリンレディスオープン](https://ja.wikipedia.org/wiki/興和##外用鎮痛消炎薬 "wikilink")」に変更することが決定した\[6\]。
+
+[2016年](../Page/2016年.md "wikilink")は[4月14日](../Page/4月14日.md "wikilink")に発生した[熊本地震の影響で](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")、初日の競技が中止された\[7\]。翌15日午前、主催のくまもと県民テレビ、特別協賛の興和、日本女子プロゴルフ協会が大会の開催について協議し、ギャラリーバスの運行ができずボランティアや観客の輸送ができないこと、余震が続くことが予想されること、選手の心情等を考慮し、大会の中止を決定した\[8\]。
+
+[2018年](../Page/2018年.md "wikilink")12月、2019年以降の放映権を巡り、[LPGAとの交渉が決裂した](../Page/日本女子プロゴルフ協会.md "wikilink")[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（及び[系列局](../Page/日本テレビネットワーク協議会.md "wikilink")）が、主催・テレビ中継していた大会からの撤退を表明\[9\]。系列局であるKKTも同年の開催取り止めを一旦決定。しかし女子プロゴルファーの反発\[10\]などもあり、2019年1月にLPGAとの交渉が再開され\[11\]、同月25日に大会の継続が発表された\[12\]。
+
+## 大会歴代優勝者
+
+| 再春館レディース            |
+| ------------------- |
+| 開催年                 |
+| 1992年               |
+| 1993年               |
+| 1994年               |
+| 1995年               |
+| 1996年               |
+| 1997年               |
+| 1998年               |
+| 1999年               |
+| 再春館レディース・火の国オープン    |
+| 開催年                 |
+| 2000年               |
+| 2001年               |
+| 2002年               |
+| 2003年               |
+| 2004年               |
+| ライフカードレディスゴルフトーナメント |
+| 開催年                 |
+| 2005年               |
+| 2006年               |
+| 2007年               |
+| 2008年               |
+| 2009年               |
+| 西陣レディスクラシック         |
+| 開催年                 |
+| 2010年               |
+| 2011年               |
+| 2012年               |
+| KKT杯バンテリンレディスオープン   |
+| 開催年                 |
+| 2013年               |
+| 2014年               |
+| 2015年               |
+| 2016年               |
+| 2017年               |
+| 2018年               |
+| 2019年               |
+|                     |
+
+## テレビ放送
+
+  - 予選ラウンド（初日・2日目）は、[熊本県民テレビ](../Page/熊本県民テレビ.md "wikilink")（KKT）ローカル\[13\]、最終日は熊本県民テレビを制作局としてNNS系列28局で放送されている（2013年まではマストバイ22局ネットだった）。2012年は[ゴルフネットワーク](../Page/ゴルフネットワーク.md "wikilink")でも、「[とことん1番ホール生中継](https://ja.wikipedia.org/wiki/とことん1番ホール生中継 "wikilink")」にて1番ホールの模様を3日間全て生中継された。
+  - 熊本地震により開催が中止となった2016年は、本来中継が予定されていた時間帯に、熊本県民テレビ制作による地震関連の報道特別番組を放送したが、最終日放送予定時間帯については、これを全国ネットで放送した。ただ、CMは大会スポンサーではなく、[ACジャパン](../Page/ACジャパン.md "wikilink")に差し替えた。
+
+## 参考資料
+
+  - 日本女子プロゴルフ協会 [ライフカードレディスゴルフトーナメント](http://www.lpga.or.jp/tour/tour_past/retrieve/2_tour_year/23_year_list_ofatour.asp?tno1=111)
+
+## 関連項目
+
+  - [THE QUEENS](https://ja.wikipedia.org/wiki/日韓女子プロゴルフ対抗戦 "wikilink") - 日本を含む4ヶ国対抗の女子ツアー団体戦。当大会と同じく興和が特別協賛として2017年まで開催されていた。
+
+## 脚注
+
+### 注釈
+
+<references group="注釈" />
+
+### 出典
+
+<references />
+
+## 外部リンク
+
+  - [KKT杯バンテリンレディスオープン](http://www.kkt.jp/vantelin-ladies/index.html) （熊本県民テレビによる大会サイト）
+
+[Category:JLPGAツアー](https://ja.wikipedia.org/wiki/Category:JLPGAツアー "wikilink") [Category:熊本県のスポーツ](https://ja.wikipedia.org/wiki/Category:熊本県のスポーツ "wikilink") [Category:熊本県民テレビ](https://ja.wikipedia.org/wiki/Category:熊本県民テレビ "wikilink") [Category:興和](https://ja.wikipedia.org/wiki/Category:興和 "wikilink")
+
+1.
+2.  冠大会に不況の風 スポンサーの降板目立つ 代役が見つからない例も 朝日新聞1992年11月16日 夕刊3ページ
+3.  [女子ゴルフ、15日の西陣レディスから再開](http://www.daily.co.jp/newsflash/2011/04/01/0003913909.shtml) - [デイリースポーツ](../Page/デイリースポーツ.md "wikilink") 2011年4月1日閲覧
+4.  [女子ゴルフ西陣レディースで再開 中止続いた国内大会](http://www.47news.jp/CN/201104/CN2011040101001113.html) - 共同通信 2011年4月1日閲覧
+5.  ただし、冠スポンサーである西陣は[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")を出しながら[コマーシャル放映は自粛していた](../Page/コマーシャルメッセージ.md "wikilink")。これは開催当時、[遊技機業界全体で企業活動の自粛期間として充てられていたことに因るものである](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。
+6.  [LPGAツアー『KKTレディス熊本』 大会名称変更のお知らせ](http://www.lpga.or.jp/news/c6d9ebfc-7b86-4d86-93df-cb6efb24552e) - 日本女子プロゴルフ協会（2013年1月22日）
+7.
+8.
+9.  [放映権決裂で日テレ撤退 女子ゴルフ11年ぶり試合減](https://news.golfdigest.co.jp/news/jlpga/article/85796/1/) ゴルフダイジェスト・オンライン 2018年12月19日
+10.
+11.
+12.
+13. この内、2015年まで（熊本地震に伴う中止がなければ2016年も。）は、初日について「[テレビタミン](https://ja.wikipedia.org/wiki/テレビタミン "wikilink")」の特別版として放送していたが、2017年からは初日について『[スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")・第2部』を臨時非ネットとして放送するようになった。

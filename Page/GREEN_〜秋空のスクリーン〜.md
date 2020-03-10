@@ -1,0 +1,239 @@
+> この記事は[GREEN ](https://ja.wikipedia.org/wiki/GREEN_)から翻訳されています。
+
+
+『**GREEN 〜秋空のスクリーン〜**』（グリーン あきぞらのスクリーン）は、[1999年](../Page/1999年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")に[ジェリーフィッシュより発売された](https://ja.wikipedia.org/wiki/ジェリーフィッシュ_\(ゲームメーカー\) "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。略称は『GREEN』。
+
+なお、[後日談](https://ja.wikipedia.org/wiki/後日談 "wikilink")を描いた外伝『**GREENHORN**』（グリーンホーン）についても当項で解説する\[1\]。
+
+## 発売歴
+
+  - 1999年12月29日 - GREEN 〜秋空のスクリーン〜（発売元：ジェイ・ノード\[2\]）
+  - [2000年](../Page/2000年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink") - GREEN AM BOOK Color of GREEN（発売元：[毎日コミュニケーションズ](../Page/マイナビ.md "wikilink")）
+  - [2011年](../Page/2011年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink") - GREEN 〜秋空のスクリーン〜 STANDARD EDITION（発売元：シューティングスター）
+  - 2011年[9月30日](../Page/9月30日.md "wikilink") - GREEN 〜秋空のスクリーン〜 STANDARD EDITION [DL販売版](../Page/ダウンロード販売.md "wikilink")\[3\]
+
+## 概要
+
+ジェリーフィッシュのデビュー作。かつて『[ラブ・エスカレーター](../Page/ラブ・エスカレーター.md "wikilink")』（以降、『ラブエス』と表記）を制作した[海月製作所のメンバーがジェリーフィッシュとして独立した後](https://ja.wikipedia.org/wiki/ジェリーフィッシュ_\(ゲームメーカー\) "wikilink")、初めて制作した作品である。しかし、ジェリーフィッシュは本作でも『ラブエス』に次ぐ回数の発売延期を重ねた結果、1999年[12月24日](../Page/12月24日.md "wikilink")未明のマスターアップを経て年末直前のプレス工場納品と店頭発売を迎えた。そのため、一部のショップでは十分な本数を揃えられず、発売日当日に買えなかった（もしくは、予約分を受け取りに行けなかった）人も出た。
+
+  - システム
+    『ラブエス』と同様、基本的には静止画+[口パク](https://ja.wikipedia.org/wiki/口パク "wikilink")のコマンド選択アドベンチャーであるが、シナリオ全体における選択肢の数は少ない。劇中映画（映画部側が『portrait』〈[ポートレイト](https://ja.wikipedia.org/wiki/ポートレイト "wikilink")〉、シネマ研究会側が『FINAL FRONTIER SAGA』〈ファイナル・フロンティア・サーガ〉）や一連のセックスシーンといった重要なイベントでは一転し、[セル画](https://ja.wikipedia.org/wiki/セル画 "wikilink")調のアニメーション（以降、「アニメ」と表記）となる\[4\]。
+  - シナリオ
+    主人公の**小野真治**とメインヒロインの**水野真琴**を中心として進む『portrait』の撮影を通じ、あまり起伏に富まない淡々とした日常が描かれる。それに伴い、『portrait』のアニメが徐々に完成していくことでシナリオの進行を体感できるようになっているが、『portrait』のアニメは省略できない。そのため、真治と真琴が1度目のセックスシーンを迎えるまでは、非常に長い印象をプレイヤーへ与えるものとなっている。
+    真琴以外にも**桜井茜**・**藤原由紀恵**・**高橋加奈子**・**広瀬真理子**の4人がヒロインとして登場するが、[ハッピーエンド](../Page/ハッピーエンド.md "wikilink")が用意されているのは真琴のみであり、茜には個別エンド2種、由紀恵には個別エンド1種しかそれぞれ用意されておらず、どちらも実質上は[ゲームオーバー](https://ja.wikipedia.org/wiki/ゲームオーバー "wikilink")（バッドエンド）に等しい上、加奈子や真理子には個別エンドすら用意されていない。また、真琴のハッピーエンドには攻略ルートを間違えないことだけでなく、その合間に3回発生するイベントの[神経衰弱に全勝することが必須となっている](../Page/神経衰弱_\(トランプゲーム\).md "wikilink")。攻略ルートによっては茜か由紀恵とのセックスシーンへ至るが、その場合はどちらと行ったにせよハッピーエンドには到達できなくなる。特に、由紀恵の場合はセックスを終えた時点でシナリオも終了してしまう。
+    なお、本編には加奈子とサブキャラクターの**本山浩一**に不可解な部分が存在するが、これについては真琴のハッピーエンドを迎えた後に開くボーナスシナリオで、加奈子と浩一のセックスシーンを交えながら明かされる。
+    後々のプレイヤーには、コンプリート済みの者から聞いた後述のセックスシーンの出来に対してシナリオを不出来と見なすだけでなく、貰ったセーブデータで回想モードを開いて本編は一切プレイせず、セックスシーンだけを堪能する者が続出した。しかし、次作の『[LOVERS 〜恋に落ちたら…〜](../Page/ラブ・エスカレーター.md "wikilink")』（以降、『LOVERS』と表記）ではこの点が憂慮されており、別PCへのセーブデータ転用は一切できない仕様となっている。
+  - セックスシーン
+    シナリオ全体における回数や[バリエーション](https://ja.wikipedia.org/wiki/バリエーション "wikilink")こそ『ラブエス』より減ったが、真治と真琴の1度目については、2人の[ファーストキス](https://ja.wikipedia.org/wiki/ファーストキス "wikilink")から[愛撫](https://ja.wikipedia.org/wiki/愛撫 "wikilink")を経て[絶頂と](../Page/オーガズム.md "wikilink")[射精](../Page/射精.md "wikilink")に至るまでの一連の[台詞](../Page/台詞.md "wikilink")やアニメを一通り普通に進めた場合、プレイ時間が約10分に渡るほどの長尺となっている。[前戯](../Page/前戯.md "wikilink")はもちろん途中における[体位や視点の変更など](../Page/性交体位.md "wikilink")、一連の些細な動作もしっかりと描いているが、これについては監督の[滝美梨香](https://ja.wikipedia.org/wiki/滝美梨香 "wikilink")いわく、実写[アダルトビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")（以降、「実写AV」と表記）を参考にしたとのこと\[5\]。ただ、あまりにも実写AV似の描写と手慣れた様子の[膣外射精](../Page/膣外射精.md "wikilink")\[6\]で締め括られるため、当時存在していたジェリーフィッシュ非公式サイトの掲示板では、「[童貞](../Page/童貞.md "wikilink")と[処女](../Page/処女.md "wikilink")のセックスには見えない」という、一連の描写と膣外射精への皮肉とも受け取れる辛辣な意見も出た\[7\]。また、真琴との2度目以降の際にも、夜の湖畔における斜め煽り構図の[駅弁や後背立位](https://ja.wikipedia.org/wiki/立位#駅弁 "wikilink")、真琴の自室における[魚眼レンズ](https://ja.wikipedia.org/wiki/魚眼レンズ "wikilink")調構図の[フェラチオ](../Page/フェラチオ.md "wikilink")、そこから移行しての[パイズリ](../Page/パイズリ.md "wikilink")や[顔射](../Page/顔射.md "wikilink")、斜め[俯瞰](https://ja.wikipedia.org/wiki/俯瞰 "wikilink")構図での[騎乗位](../Page/騎乗位.md "wikilink")や[ハメ撮り](https://ja.wikipedia.org/wiki/ハメ撮り "wikilink")構図の膣外射精など、開発当時に参考とした実写AV似の描写がサブヒロインとの際も含めてふんだんに盛り込まれており、1度目とほぼ同様のこだわりが見て取れる\[8\]。
+  - 発売後
+    『GREEN』の売上を受け、2000年11月24日にはムック本『**GREEN AM BOOK Color of GREEN**』（発売元：[毎日コミュニケーションズ](../Page/マイナビ.md "wikilink")。以降、『Color』と表記）が発売された。『GREEN』本編の紹介を『Color』本誌に、『GREEN』本編で人気を博したサブヒロインの**広瀬真理子**をメインヒロインに据えて後日談を描いた外伝『GREENHORN』を付録[CD-ROM](../Page/CD-ROM.md "wikilink")にそれぞれ収録したことから、これも重版されるほどの売上を得た。
+    2001年には『[BugBug](../Page/BugBug.md "wikilink")』（発売元：[マガジン・マガジン](https://ja.wikipedia.org/wiki/サン出版 "wikilink")→[富士美出版](../Page/辰巳出版.md "wikilink")）同年4月号から、真理子をメインヒロインとした短編漫画『**真理子ちゃんがイク\!\!**』の連載が滝美梨香の作画で開始され、2015年現在も連載中\[9\]。また、『GREEN』のDVD-ROM版が開発中である（詳細は[\#DVD-ROM版](https://ja.wikipedia.org/wiki/#DVD-ROM版 "wikilink")を参照）。
+
+## あらすじ
+
+  - GREEN 〜秋空のスクリーン〜
+    時は[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、学院祭を1か月後に控えた武蔵ヶ丘学院。
+    ここでは今、主人公の**小野真治**を含めて部員が3名しかいない**映画部**が、学院祭で上映する自主映画作品のヒロインを務めるはずだった**藤原由紀恵**の出演拒否という危機に立たされていた。[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に開催される「**全国学生映画コンテスト**」の学校代表を決める予選でもある学院祭に、穴は開けられない。ましてや、ライバルは人員的にも資金的にも上を行く**財前聖人**の率いる、**シネマ研究会**なのだ。真治は映画部部長の**中田英明**による後押しの下、ひょんなことからヒロイン代役として抜擢された[同級生](../Page/同級生.md "wikilink")の**水野真琴**や、後輩部員の**桜井茜**と共に、手取り足取りの状態で映画撮影に挑む。
+    後に『**portrait**』と名付けられる作品の撮影を通じ、最初こそ監督とヒロインという関係でしかなかった真治と真琴は、急速に男女として惹かれ合っていく。そんなある日、真治と真琴は撮影のために夜中の[保健室](https://ja.wikipedia.org/wiki/保健室 "wikilink")へ忍び込むが、そこでファーストキスを兼ねた演技の練習を重ねるうちに自分を抑えられなくなり、唇だけでなく遂には身体も重ね合うこととなる。
+    窓[ガラス](https://ja.wikipedia.org/wiki/ガラス "wikilink")越しに差し込む月明かりの下、外から半ば丸見えの[ベッド](../Page/ベッド.md "wikilink")上で真治と真琴は次第に肌を露にしながら、互いの身体を無我夢中で求め合う。共に初めての身であるにもかかわらず、巧みに上となり下となりながら…そして、ほぼ同時に訪れた[絶頂の中](../Page/オーガズム.md "wikilink")、真治は真琴の艶やかな素肌へ射精しながら、真琴は素肌に真治の熱い精液を浴びながら、互いの想いを確信するのであった。
+    こうして身も心も恋人となった真治と真琴は撮影を続ける一方、[ロケ先の静かな湖畔では撮影ミスからズブ濡れにしてしまった互いの衣服を乾かす焚き火の明かりの中](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")、大樹を支えに[交尾](../Page/交尾.md "wikilink")を励む四つ足の獣の如く全裸で激しく交わりながら夜を明かしたり、水野家では些細な意見の相違から撮影中止かつ絶交寸前にまで反目した先日の仲直りに、真琴の自室でベッドを軋ませながら何度も交わるなど、大胆で濃厚なセックスを介しながら、互いの想いを更に深め合っていく。
+    限りある学生生活と難しい自主映画撮影の中、若さゆえに抑えきれない肉欲を交えながら過ぎていく青春の日々。聖人の執拗な妨害工作にも屈さず、上映日寸前に完成を迎えた『portrait』に対し、観客はどんな評価を下すのか。
+  - GREENHORN
+    [11月9日](../Page/11月9日.md "wikilink")[午前](https://ja.wikipedia.org/wiki/午前 "wikilink")8時15分の武蔵ヶ丘学院。
+    学院祭を終えて久しいそこへ、1人の少年が[転校](https://ja.wikipedia.org/wiki/転校 "wikilink")してきた。少年の名は、**野沢拓哉**。拓哉は家庭の事情によって転校を繰り返してきた身であり、今回もまた短い期間しか居られない。またも退屈であろう日常にウンザリな思いの拓哉が席に重い腰を下ろし、ふと見やったその視線の先には、1人の少女が居た。
+    ショートカットの青い髪に大きく円らな垂れ目の瞳、そして制服の胸元をはちきれんばかりに押し上げる豊満な[乳房](../Page/乳房.md "wikilink")。それらを併せ持つ少女の名は、**広瀬真理子**。拓哉の心に、これまでの学校とは違う思い出を刻み込むこととなる存在であった。
+
+## 主な登場人物
+
+全てゲーム本編の描写や、『Color』の文面を出典として記述。[声優](../Page/声優.md "wikilink")名は、GREEN/GREENHORN/Color/STANDARD EDITION/CDドラマの順。
+
+男性キャラクターの名字は、全て[Jリーグ選手から取られている](../Page/日本プロサッカーリーグ.md "wikilink")。
+
+### 主人公
+
+  - 小野 真治（おの しんじ）
+    声：無し / 無し / [宮田幸季](https://ja.wikipedia.org/wiki/宮田幸季 "wikilink") / 無し / 同左
+    姓名はデフォルト名につき変更可能。武蔵ヶ丘学院2年生。映画部部長の英明に映画への情熱や実力を見出され、自主映画『portrait』の監督へ抜擢された少年。メインヒロインの真琴とは撮影を通じて惹かれ合い、精神的にも肉体的にも急速に関係を深めていく。
+    映画以外のことに関してはごく普通の目立たない存在であるが、ヒロイン達とのセックスの際には別人のように[巨根](../Page/巨根.md "wikilink")を滾らせ、様々な[体位で交わった果てに大量の](../Page/性交体位.md "wikilink")[射精](../Page/射精.md "wikilink")を行える、絶倫の[テクニシャン](https://ja.wikipedia.org/wiki/テクニシャン "wikilink")と化す。特に、真琴との際には1度目の序盤こそ[童貞](../Page/童貞.md "wikilink")らしさを見せるが、途中からは早くも[AV男優](https://ja.wikipedia.org/wiki/AV男優 "wikilink")並みの[手マン](../Page/手マン.md "wikilink")で[潮吹きをさせた果てに](../Page/潮吹き_\(女性器\).md "wikilink")、器用な[膣外射精](../Page/膣外射精.md "wikilink")\[10\]を行う。やがて、シナリオ中盤には[ロケ先で真琴の誘惑に応えて全裸](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")[青姦](https://ja.wikipedia.org/wiki/青姦 "wikilink")に耽る上、攻略ルートによってはシナリオ後半で複数回続けて愛し合うまでに変貌するなど相当なものであるが、その理由は[\#概要](https://ja.wikipedia.org/wiki/#概要 "wikilink")を参照。
+    周囲（特に浩一）には、何故女性にモテるのかを非常に不思議がられている。
+
+### ヒロイン
+
+  - 水野 真琴（みずの まこと）
+    声：[幡宮かのこ](https://ja.wikipedia.org/wiki/幡宮かのこ "wikilink") / 同左 / 同左 / 同左 / 同左
+    身長：163cm / [スリーサイズ](https://ja.wikipedia.org/wiki/スリーサイズ "wikilink")：86-58-85(cm) / 誕生日：[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")（[かに座](../Page/かに座.md "wikilink")）
+    武蔵ヶ丘学院2年生。奔放な性格で明るく、赤い髪の少女。ひょんなことから『portrait』の主演女優に抜擢されるが、演技に関しては素人。12歳の時に父を[交通事故](../Page/交通事故.md "wikilink")で亡くしているため、今では家計を支える母に代わって家事全般を受け持っている。弟の雅志との他愛無い[喧嘩](https://ja.wikipedia.org/wiki/喧嘩 "wikilink")が、唯一の[ストレス解消方法](../Page/ストレス_\(生体\).md "wikilink")。主人公の真治とは撮影を通じて惹かれ合い、精神的にも肉体的にも急速に関係を深めていく。
+    真治とのセックスの際には1度目の序盤こそ[処女](../Page/処女.md "wikilink")らしさを見せるが、途中からは早くも[AV女優](../Page/AV女優.md "wikilink")並みの反応を返すようになる。やがて、シナリオ中盤にはロケ先で真治を[手コキや](https://ja.wikipedia.org/wiki/手淫 "wikilink")[フェラチオ](../Page/フェラチオ.md "wikilink")で昂奮させて全裸青姦に耽る上、シナリオ後半には階下に雅志の居る状況下で[パイズリ](../Page/パイズリ.md "wikilink")や[顔射](../Page/顔射.md "wikilink")に耽るなど、より積極的に彼の昂奮を高める[性技](https://ja.wikipedia.org/wiki/性技 "wikilink")を駆使するまでに変貌するが、その反応や貪欲さは真治と同様の理由によるもの。
+    開発当初の名前は**橘 真琴**。
+
+### サブヒロイン
+
+  - 桜井 茜（さくらい あかね）
+    声：[羽山りか](https://ja.wikipedia.org/wiki/羽山りか "wikilink") / [佐藤美佳子](../Page/佐藤美佳子.md "wikilink") / 同左 / 同左 / 羽山りか
+    身長：154cm / スリーサイズ：78-56-83(cm) / 誕生日：[10月20日](../Page/10月20日.md "wikilink")（[てんびん座](../Page/てんびん座.md "wikilink")）
+    武蔵ヶ丘学院1年生。映画部の部員で大人しく、水色の髪の少女。成り行きから入部した映画部で制作を手伝う一方、真治への恋心を募らせる。[絵本](../Page/絵本.md "wikilink")作家になりたいという夢を持っているが、自分には無理だと半ば諦めている。最初は真治の傍にいるだけで満足と自分を納得させていたが、真琴の登場によってその気持ちが焦燥へ揺らぎ始め、遂には彼への実力行使へ至ることとなる。
+    開発当初の名前は**桜井 ななせ**。
+  - 藤原 由紀恵（ふじわら ゆきえ）
+    声：[森野ことり](https://ja.wikipedia.org/wiki/友永朱音 "wikilink") / 友永朱音 / 同左 / 同左 / 森野ことり
+    身長：166cm / スリーサイズ：87-58-86(cm)
+    武蔵ヶ丘学院3年生。学院一有名で、どことなく冷たい雰囲気と美しさを併せ持つ栗色の髪の少女であるが、本来は明るく素直な性格。映画部の主演女優だったが、心ならずも[肉体関係にある聖人の率いるシネマ研究会に引き抜かれたことから](https://ja.wikipedia.org/wiki/肉体関係_\(隠語\) "wikilink")、真治と真琴の出会いが生じる。聖人には身も心も弄ばれるだけでなく、映画部への妨害工作にも利用されてしまうため、攻略ルートによっては真治とのセックスへ至ることとなる。
+    開発当初の名前は**細川 瞳**。
+  - 高橋 加奈子（たかはし かなこ）
+    声：[中井淳子](https://ja.wikipedia.org/wiki/中井淳子 "wikilink") / 未登場 / 中井淳子 / 未登場 / 中井淳子
+    身長：171cm / スリーサイズ：89-59-87(cm) / 誕生日：[12月1日](../Page/12月1日.md "wikilink")（[いて座](../Page/いて座.md "wikilink")）
+    武蔵ヶ丘[美術大学](https://ja.wikipedia.org/wiki/美術大学 "wikilink")から母校の武蔵ヶ丘学院へ赴任してきた、藍色の髪を持つ[教育実習](https://ja.wikipedia.org/wiki/教育実習 "wikilink")生。好きな美術家は[ヨハネス・フェルメール](../Page/ヨハネス・フェルメール.md "wikilink")。「何の社会経験も無い自分が、人に物を教えられるか」という葛藤に悩みながらも、教師になるべく[美術](https://ja.wikipedia.org/wiki/美術 "wikilink")実習に励む。
+    本編では真治とのセックスシーンどころか脱衣シーンすら用意されていないが、ボーナスシナリオでは浩一を相手にメインヒロインを務める。上記の葛藤を含めた真面目な言動に偽りは無いが、内面には真琴達以上に割り切った倫理観も併せ持っており、浩一の飲酒について一切咎めないほど寛容である上、セックスの実技も既に手練である。映画部の勝利を見届けて居酒屋で浩一と祝宴を挙げたり、酔い潰れた彼を[ホテルで介抱して交わる際にはそれを露にし](https://ja.wikipedia.org/wiki/ラブホテル "wikilink")、自身も悦びながら浩一を何度も絶頂へ誘うこととなる。
+    開発当初の名前は**八木 薫**。
+  - 広瀬 真理子（ひろせ まりこ）
+    声：[静木亜美](../Page/静木亜美.md "wikilink") / 同左 / 同左 / 同左 / 同左
+    身長：164cm / スリーサイズ：98-60-89(cm)
+    真琴の級友かつ親友で、青い髪の少女。[クラブ活動](../Page/クラブ活動.md "wikilink")はしておらず、[帰宅部](../Page/帰宅部.md "wikilink")。お喋りで涙脆い性格を持つ上、全ヒロイン中最大の[巨乳](../Page/巨乳.md "wikilink")を誇るが、攻略不可。そのため、セックスシーンを期待していたファンから多大な支持を受け、『GREENHORN』や『真理子ちゃんがイク\!\!』ではメインヒロインに昇格した。ただし、前者で描かれる拓哉とのセックスシーンにはとある理由が存在する上、後者では真琴に対して親友以上の危険な愛情（[レズっ気に近い](../Page/レズビアン.md "wikilink")）を抱いている。
+
+### その他
+
+  - 本山 浩一（もとやま こういち）
+    声：[高橋広樹](../Page/高橋広樹.md "wikilink") / 未登場 / 高橋広樹 / 未登場
+    武蔵ヶ丘学院2年生。[自尊心](../Page/自尊心.md "wikilink")が高く、周囲から尊敬されたいと思ってはいるが、いつも無様な形で終わってしまう不運な少年。しかし、作曲の才能は本物であることから、真治に『portrait』の[BGM作曲を依頼される](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")。
+    ボーナスシナリオでは主人公を務める。加奈子と絡む際には、回数だけは真治以上の絶倫と化す。
+  - 中田 英明（なかた ひであき）
+    声：[内野一](../Page/内野一.md "wikilink") / 同左 / 同左 / 同左
+    武蔵ヶ丘学院3年生。映画部の部長。変人の域に達するその独特な言動や風采のため、周囲からは奇異の目で見られている。しかし、映画に関する知識や[編集](../Page/編集.md "wikilink")能力には優れており、絶対に妥協はしない。真治を深く信頼しているために『portrait』の制作には直接関わらないが、日払いの[アルバイト](../Page/アルバイト.md "wikilink")に励んで制作費の足しにするなど、彼を陰ながら支えていく。
+  - 水野 雅志（みずの まさし）
+    声：[MI-KO](../Page/み〜こ.md "wikilink") / 未登場 / MI-KO / 未登場
+    真琴の弟で[小学生](https://ja.wikipedia.org/wiki/小学生 "wikilink")。相手が年上であれ、[敬語](../Page/敬語.md "wikilink")を全く使わない生意気な「マセガキ」。幼い頃に父を亡くした寂しさから、真琴に近付く男には持ち前の悪知恵を存分に発揮し、友人を使ってでも陥れようとする。
+  - 財前 聖人（ざいぜん まさと）
+    武蔵ヶ丘学院3年生。シネマ研究会の部長。表向きは文武両道かつ、洗練された社交的な性格で通っている。しかし、裏では由紀恵を精神的にも肉体的にも弄ぶ非道な性格をしており、映画部への妨害工作も並行して行う。
+
+### 『GREENHORN』にのみ登場
+
+  - 野沢 拓哉（のざわ たくや）
+    主人公。姓名はデフォルト名につき変更可能。『GREEN』本編終了後から久しい[11月9日](../Page/11月9日.md "wikilink")、武蔵ヶ丘学院へ転校してきた。家庭の事情によって転校を繰り返してきたことから後ろ向きな性格をしているが、級友になった真理子との会話を通じ、少しずつ前向きに変わっていく。
+  - 柳沢（やなぎさわ）
+    武蔵ヶ丘学院2年生。名前は不明。拓哉の級友で、掴みどころの無い性格をしている優男。
+
+## スタッフ
+
+  - 企画：bucci、[滝美梨香](https://ja.wikipedia.org/wiki/滝美梨香 "wikilink")
+  - プロデューサー：bucci
+  - 脚本：MAB
+  - 総監督、絵コンテ、演出：滝美梨香
+  - メインプログラム：Production StarHole
+  - プログラム：sneer
+  - メインキャラクターデザイン：[古美明](https://ja.wikipedia.org/wiki/古美明 "wikilink")（[スタジオオルフェ](https://ja.wikipedia.org/wiki/スタジオオルフェ "wikilink")）
+  - サブキャラクターデザイン：[松俊一](https://ja.wikipedia.org/wiki/藤沢俊幸 "wikilink")、滝美梨香
+  - 作画監督：松俊一
+  - 新規イベントカット作画：十重五重（『GREENHORN』のみ）
+  - 音響：[アトリエピーチ](../Page/アトリエピーチ.md "wikilink")
+  - 音楽：ham、TeeD
+  - 発売、販売：ジェイ・ノード\[11\]（『GREEN』のみ）、[毎日コミュニケーションズ](../Page/マイナビ.md "wikilink")（『GREENHORN』のみ）、シューティングスター（『GREEN SE』のみ）
+
+## 主題歌
+
+  - GREEN 〜秋空のスクリーン〜
+
+:; 「君の事」
+
+:: 作詞：MAB / 作曲：ham / 歌：千鶴伽
+
+:; 「Evergreen〜唯一つ」
+
+  -
+
+      -
+        作詞、歌：[村田あゆみ](https://ja.wikipedia.org/wiki/村田あゆみ "wikilink") / 作曲：[高井ウララ](../Page/高井ウララ.md "wikilink")
+        『[GREEN 〜秋空のスクリーン〜 DVD EDITION](https://ja.wikipedia.org/wiki/#DVD-ROM版 "wikilink")』で使用される予定。本編[BGMの](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")「真琴」が元となっている。『[GREEN DVD edition Original soundtracks](https://ja.wikipedia.org/wiki/#CD "wikilink")』に収録。
+
+  - GREENHORN
+
+:; 「君の事 acoustic version (at Studio Greenbird) 」
+
+  -
+
+      -
+        『GREEN』で使われた同曲の[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")バージョン。『[GREEN 〜秋空のスクリーン〜 sound track](https://ja.wikipedia.org/wiki/#CD "wikilink")』に収録。
+
+## 関連商品
+
+  - 小説
+
+:; GREEN 〜それぞれのスクリーン〜
+
+:: 著者：[関町台風](https://ja.wikipedia.org/wiki/関町台風 "wikilink")
+
+:: [2000年](../Page/2000年.md "wikilink")に『BugBug』で掲載\[12\]。2000年11月号から2001年3月号まで連載されていたが、単行本化されていない。
+
+:; GREEN 〜秋空のスクリーン〜
+
+  -
+
+      -
+        著者：永沢壱朗 / 装画：古美明 / 本文イラスト：滝美梨香 / 発売日：2000年[7月15日](../Page/7月15日.md "wikilink") / ISBN 9784847033506
+        内容はCD-ROM版に準じているが、セックス描写や上映結果などが異なる。
+
+  - CD
+
+:; GREEN 〜秋空のスクリーン〜 sound track
+
+:: 発売元：香港上海商会有限会社、株式会社[オーマガトキ](https://ja.wikipedia.org/wiki/新星堂 "wikilink") / 販売元：[日本コロムビア](../Page/日本コロムビア.md "wikilink")株式会社 / 発売日：2000年[9月21日](../Page/9月21日.md "wikilink")
+
+:: CD2枚組。1枚目のCDには12曲のフルアレンジBGMと2曲の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")曲の[CD-DA](../Page/CD-DA.md "wikilink")に加えて原画集や声優インタビューなどを収録した[CD-EXTRA](https://ja.wikipedia.org/wiki/CD-EXTRA "wikilink")を、2枚目のCDにはCD-ROM版の後日談ドラマを収録。
+
+:; GREEN DVD edition Original soundtracks
+
+  -
+
+      -
+        発売元：[サイトロン・デジタルコンテンツ](https://ja.wikipedia.org/wiki/サイトロン・デジタルコンテンツ "wikilink") / 販売元：[webcity](https://ja.wikipedia.org/wiki/ハピネット "wikilink") / 発売日：[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月26日](../Page/10月26日.md "wikilink")
+        CD2枚組。『GREEN 〜秋空のスクリーン〜 DVD EDITION』の[オリジナルサウンドトラック盤](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")。全曲の編曲をFUSE//FUNKが担当。
+
+  - ムック本
+
+:; GREEN AM BOOK Color of GREEN
+
+  -
+
+      -
+        発売元：[毎日コミュニケーションズ](../Page/マイナビ.md "wikilink") / 発売日：2000年[11月24日](../Page/11月24日.md "wikilink") / ISBN 9784839903695
+        『GREEN』本編の紹介とスタッフやキャストインタビューを『Color』本誌に、外伝『GREENHORN』を付録CD-ROMに収録。
+        なお、『GREENHORN』には『GREEN』と同様にアニメで展開されるセックスシーンが存在するが、本誌込みで[書籍](https://ja.wikipedia.org/wiki/書籍 "wikilink")として扱われているため、[モザイク処理](https://ja.wikipedia.org/wiki/モザイク処理 "wikilink")は開発当時の[コンピュータソフトウェア倫理機構](../Page/コンピュータソフトウェア倫理機構.md "wikilink")の規定に沿った厳しいものではない。
+
+## DVD-ROM版
+
+『**GREEN 〜秋空のスクリーン〜 DVD EDITION**』のタイトルで、[2013年](../Page/2013年.md "wikilink")現在開発中。グラフィックの原画からの描き直し、[800x600への高解像度化](../Page/Super_Video_Graphics_Array.md "wikilink")、一部キャラクターのシナリオ追加などが施された内容となる予定。
+
+これに先駆け、2011年[4月28日](../Page/4月28日.md "wikilink")には『GREEN』を[WindowsXP](../Page/Microsoft_Windows_XP.md "wikilink")/[Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")/[7へ対応させた](../Page/Microsoft_Windows_7.md "wikilink")『**GREEN 〜秋空のスクリーン〜 STANDARD EDITION**』\[13\]が発売された。
+
+しかし、『[電撃姫](../Page/DENGEKI_HIME.md "wikilink")』（発売元：[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")\[14\]）2006年3月号に掲載された制作発表から7年後の2013年になっても開発は遅々として進んでおらず、bucciと滝美梨香は後発作品『[SISTERS 〜夏の最後の日〜 ULTRA EDITION](https://ja.wikipedia.org/wiki/SISTERS_〜夏の最後の日〜#ULTRA_EDITION "wikilink")』の発売に際して『BugBug』2013年3月号に掲載されたスタッフインタビューで、その旨を明かしている。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [ラブ・エスカレーター](../Page/ラブ・エスカレーター.md "wikilink")
+  - [SISTERS 〜夏の最後の日〜](https://ja.wikipedia.org/wiki/SISTERS_〜夏の最後の日〜 "wikilink")
+
+## 外部リンク
+
+  - [ジェリーフィッシュ](http://www.jellyfish-pc.com/)
+  - [シューティングスター](http://www.shootingstar-jp.com/)
+
+[Category:1999年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1999年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:アニメを用いたアダルトゲーム](https://ja.wikipedia.org/wiki/Category:アニメを用いたアダルトゲーム "wikilink") [Category:映画を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:映画を題材としたコンピュータゲーム "wikilink")
+
+1.  本編『GREEN』のタイトルには「青春」、外伝『GREENHORN』のタイトルには「初心」（うぶ）という意味が込められている。
+2.  [T-ZONE](https://ja.wikipedia.org/wiki/T-ZONE "wikilink")のソフトウェア流通・販売子会社。2005年に事業停止。
+3.  [D-Dream - GREEN ～秋空のスクリーン～ STANDARD EDITION (Jellyfish)のInternetArchiveキャッシュ2012年11月30日分](http://web.archive.org/web/20121130175225/http://www.d-dream.com/detail.php?arg_tno=9483)より。
+4.  『FINAL FRONTIER SAGA』のメカ部分は3DCGで描かれているが、そのまま動かさず1枚ずつ[動画](../Page/動画.md "wikilink")に起こしている。
+5.  『Color』に掲載されているスタッフインタビュー内の写真でも、プロデューサーのbucciの机には実写AVのパッケージが山積みにされていた。
+6.  真琴の絶頂直後、[AV男優](https://ja.wikipedia.org/wiki/AV男優 "wikilink")のように素早く結合を解いた真治が、器用にも彼女の[スカート](../Page/スカート.md "wikilink")を避けて素肌のみへ大量の[精液](../Page/精液.md "wikilink")を浴びせていく。
+7.  なお、ボーナスシナリオで加奈子と浩一が行う分については彼女が手馴れているという設定でもあることから、休まず行われるそのどれもが[口内射精](../Page/口内射精.md "wikilink")や[膣内射精](https://ja.wikipedia.org/wiki/膣内射精 "wikilink")で締め括られる。また、後の『LOVERS』で主人公・**黒崎崇**とメインヒロイン・**河合理恵**が行う1回目は、崇が迷わず膣内射精を行ったことによって絶頂を迎えた理恵が、やがて破瓜の証混じりの精液を溢れさせながら余韻に浸る姿で締め括られる。
+8.  こういった、真治とのセックスの際にヒロイン達が見せる裸体のプロポーション（特に真琴の頭身やバストサイズ）はシーン別に異なっているが、これは[原画](../Page/原画.md "wikilink")や作画監督の手違いではなく、絵コンテの指定に沿ったもの。
+9.  『[SISTERS 〜夏の最後の日〜](https://ja.wikipedia.org/wiki/SISTERS_〜夏の最後の日〜 "wikilink")』の開発専念などの理由に伴う休載期間あり。
+10.
+11.
+12. 『BugBug』2011年12月号に掲載された『SISTERS 〜夏の最後の日〜』の小説版における出張版『Jellyfishがイク\!\!』より。
+13. 内容は『GREEN』と同一。
+14. 2006年3月号の発売当時。2013年現在は[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")。

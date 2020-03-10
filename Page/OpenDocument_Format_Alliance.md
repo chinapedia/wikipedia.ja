@@ -1,0 +1,625 @@
+> この記事は[OpenDocument Format Alliance](https://ja.wikipedia.org/wiki/OpenDocument_Format_Alliance)から翻訳されています。
+
+
+**OpenDocument Format Alliance**（オープンドキュメント・フォーマット・アライアンス）は、[OpenDocument](../Page/OpenDocument.md "wikilink")の[ロビー活動](../Page/ロビー活動.md "wikilink")団体である。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月3日](../Page/3月3日.md "wikilink")に発足した。[2009年](../Page/2009年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")現在、607の団体が加盟している。\[1\]
+
+## 加盟団体
+
+\[2\]
+
+  - GED Goiânia Serviços Informatizados Ltda
+  - .riess applications gmbh
+  - 18 de Abril Alimentos Ltda
+  - 1dok.org
+  - 2MI Tecnologia
+  - 2shape GmbH
+  - 3BView Ltd
+  - 4Linux
+  - 4Newbies
+  - 60AT6
+  - Abiss.gr
+  - Abrigo Tecnologia
+  - Access Foundation
+  - ACPROLL
+  - ACS Technologie Teleinformatyczne Sp. z o. o.
+  - Activesoft Ltd
+  - Adept Softwares Pvt. Ltd.
+  - Adlib Software
+  - Administração Central do Sistema de Saúde (ACSS
+  - Adullact
+  - Advanced Information and Communication Technology
+  - Aero Systems Corp.
+  - Afro.nu webbdesign
+  - AFUL
+  - agelis Energieberatung
+  - AICTC
+  - AITI-KACE
+  - Alfresco
+  - Alka France
+  - All Stars s.r.o.
+  - All Stars Sp. z o.o.
+  - AllNutri
+  - Alma Technology
+  - Altar sp. z o.o.
+  - American Library Association
+  - Amphora Research Systems
+  - Anaska Formation
+  - Angulo Sólido
+  - ANSOL - Associação Nacional para o Software Livr
+  - ApiAp - Association of Public ICT Tools Access Pro
+  - APITUX
+  - APPS Global Pty Ltd
+  - APRIL
+  - ArcheTech Srl
+  - [Ark Linux](https://ja.wikipedia.org/wiki/Ark_Linux "wikilink")
+  - ARKNUS (Mexico)
+  - Ars Aperta
+  - ARsT Design / Stephane Rodriguez
+  - Asia OSPA Forum
+  - Asociación de Usuarios de GNIX
+  - Asociación Mexicana Empresarial de Software Libre
+  - ASS2L
+  - Associação Ensino Livre
+  - Association Lune Rouge
+  - Associazione Culturale Revolutionary Mind
+  - ATR, Inc.
+  - Atviras kodas Lietuvai
+  - Auton Rijnsburg BV
+  - Auyana - Internetagentur München
+  - Avanquest UK ltd
+  - Axiros GmbH
+  - Ã…pne kontorprogram pÃ¥ norsk
+  - Babya
+  - BalaBit IT Security Ltd
+  - Baldwin Linguas
+  - Bangladesh Linux Users Alliance
+  - Bangladesh NGOs Network for Radio and Communicatio
+  - Bangladesh Open Source Network
+  - Beijing Co-Create Open Source Software Co.,Ltd.
+  - Beijing Jiaotong University
+  - Beijing Linux User Group
+  - Beijing Redflag CH2000 Software Co., Ltd
+  - BellCom Open Source A/S
+  - Bhagnari & Co
+  - Bicocca.NET
+  - BitLight - Soluções em Tecnologia
+  - BiZwiKi.CN
+  - bloomhost.net
+  - Blue Ferret Communications
+  - Bow Street Warehouse
+  - Bristol City Council
+  - [BBC(British Broadcasting Corporation)](../Page/英国放送協会.md "wikilink")
+  - BrOffice.org
+  - BsOOo.Nl - Business Support OpenOffice.org Nederla
+  - Bull
+  - Bureau van Dijk Electronic Publishing
+  - Burodiscount
+  - C.T.I. TEGNIX, S.L.
+  - Caixa Econômica Federal
+  - Caixa Mágica Software
+  - Carvalho Azevedo & Martins Braz
+  - CBMES - Corpo de Bombeiros Militar do Espírito Sa
+  - CELEPAR
+  - CENDIO LATIN AMERICA
+  - Center for System Administration
+  - Centre for Development of Advanced Computing
+  - Centrum Tlumaczen Specjalistycznych
+  - CGPI
+  - ChannelWeb S.r.l.
+  - China Standard Software Co.,Ltd. (CS2C)
+  - ChinaSoft Resource Corporation
+  - CIGNEX Technologies, Inc.
+  - [ブルーミントン(City of Bloomington)](https://ja.wikipedia.org/wiki/ブルーミントン_\(インディアナ州\) "wikilink")
+  - [フライブルク(City of Freiburg)](https://ja.wikipedia.org/wiki/フライブルク・イム・ブライスガウ "wikilink")
+  - City of Largo
+  - [シュヴェービッシュ・ハル of Schwaebisch Hall)](https://ja.wikipedia.org/wiki/シュヴェービッシュ・ハル "wikilink")(City
+  - City of Vienna - ICT
+  - Clark Marketing Ltd
+  - Coeusoft SA
+  - Cognitran Ltd.
+  - Community Development Foundation Jacobabad Sindh
+  - Community for Open Source Promotion
+  - COMPARTA
+  - Compro Computer Services, Inc.
+  - Compugen Inc.
+  - CompUnite South Africa
+  - Computer & Communications Industry Association
+  - Comsultia, Ltd.
+  - Conecsan Consultoria e Treinamento.
+  - Congregação Unitarista de Pernambuco
+  - consulting1x1
+  - consultores GmbH
+  - Control Engineering Sweden
+  - COPI
+  - Copyleft Solutions
+  - [Corel](../Page/コーレル.md "wikilink")
+  - Corrilan IT Consultancy Ltd
+  - COSPA
+  - COSS - The Finnish Centre for Open Source Software
+  - Cowichan Valley Linux Users Group
+  - Creative Contingencies Pty Ltd
+  - CSW Group Ltd.
+  - CulTrim
+  - Dagda Team
+  - Danish Open Source Society (DOSS)
+  - DBA Company Informática Ltda.
+  - De Bortoli Wines Pty Limited
+  - Deep Vision, Inc.
+  - Dejahu Kft.
+  - DeltaXML Ltd
+  - Den danske UNIX-systembrugergruppe, DKUUG
+  - DesignBits Webdesign
+  - Development InfoStructure (Devis)
+  - DIDACTICUS, s.r.o.
+  - DIDASCA - The First Italian Cyber Schools for Life
+  - Digitar Soluções
+  - DigiUtopikA Lda.
+  - DL2 Consulting AB
+  - Docvert (New Zealand)
+  - Dougan Consulting Group
+  - Dr. Hellmuth Broda Consulting
+  - Dream Prints, Inc.
+  - dri - consultoria informática LDA
+  - Drumev Development Studio B
+  - Dynamic Engineering
+  - DynaWerx Inc.
+  - e:volve computers & technology
+  - EasyLink Services Corporation
+  - Economie Numérique Conseil
+  - Edge Projects, Inc.
+  - EDL Systems
+  - [EDS Germany](https://ja.wikipedia.org/wiki/Electronic_Data_Systems "wikilink")
+  - Edujini Labs Pvt Ltd
+  - EFF-Austin
+  - Egressive Limited
+  - ElanceTalk
+  - Elevated Technology
+  - EloquentiX
+  - ELTE IKKK Adaptive Software Center
+  - [EMC](https://ja.wikipedia.org/wiki/EMCコーポレーション "wikilink")
+  - Emergen Consulting
+  - Emerges
+  - Endoc AB
+  - ENEC - Executiva Nacional dos Estudantes de Comput
+  - enomaly
+  - Eolin KB
+  - Ergoline ergonomie
+  - Eruditum
+  - Espírito Livre
+  - Essential Information
+  - European Committee for Interoperable Systems (ECIS
+  - Except
+  - EXÉRCITO BRASILEIRO
+  - Exinit
+  - Expertos
+  - Ext.Net
+  - extranet internet creator
+  - eZ systems as
+  - F\&B SISTEMAS
+  - F/S Marketing
+  - Fair Gift
+  - FAMEG - Metropolitan College of Guaramirim
+  - FEB Radebeul
+  - FieldLinx Ltd
+  - Finanzen Online
+  - Firelead Affiliate Network
+  - FLOSSE - Associação de Desenvolvimento Pelo Soft
+  - Foundation for a Free Information Infrastructure
+  - Fraktfritt Sverige
+  - Free and Open Source Software Foundation of Pakist
+  - Free Knowledge Institute
+  - Free Software Macedonia
+  - Free Software Network Serbia
+  - Free Standards Group
+  - FreeCode AS
+  - Freedows Consortium Tecnologia S.A.
+  - Freestore Tecnologia
+  - Friends of OpenDocument, Inc.
+  - Fullmoon Software
+  - Fundación Vía Libre
+  - Fusebox Inc
+  - Futuro Sistemas
+  - Gardien Virtuel
+  - GENICORP
+  - Genii Software Ltd.
+  - GeoLabs SARL
+  - Geseidl Euro Finance Consulting SRL
+  - GFU Cyrus AG
+  - GIAHSA
+  - Gleducar
+  - [GNOME](../Page/GNOME.md "wikilink")
+  - GNUCHILE FOUNDATION
+  - GoGoShopper
+  - Golden Planet
+  - Google Inc
+  - Gordon College
+  - GP Proiect SRL
+  - Green Banana, Inc.
+  - Griffin Brown Digital Publishing Ltd
+  - Grupo Ubuntu Nicaragua
+  - GTW Associates
+  - Guava Sweden AB
+  - GuBrO-ES
+  - Gubro-PR
+  - Guimaraes Technology
+  - Haselfre Solutions
+  - Hawk Partners PTE Ltd
+  - HDSI
+  - HollandOpen
+  - Hrvatska Udruga Linux Korisnika
+  - Huanga IT Solutions AG
+  - Humanetrix Foundation Inc.
+  - HWD IT
+  - i2rs
+  - IBAMA - Inst. Brasileiro do Meio Ambiente
+  - [IBM](../Page/IBM.md "wikilink")
+  - iDPARC AG
+  - IFILP-TEC — Área Técnica do Instituto de Forma
+  - iHorizons
+  - Illuminance Technologies
+  - ImanTouch Cameroon
+  - [インド工科大学 Institutes of Technology)](https://ja.wikipedia.org/wiki/インド工科大学 "wikilink")(Indian(IIT)
+  - Individuelle Internet Loesungen | sbihl
+  - Indy Associates
+  - Informatica.Com.Md
+  - Informedia Technologies (Mysore) Private Limited
+  - Infra-Resource, Ltd.
+  - Infrae
+  - Institute for Information Industry
+  - Institute of Software, Chinese Academy of Sciences
+  - Instituto de Governo Eletrônico, Inteligência Ju
+  - Instituto Nacional de Tecnologia da Informação
+  - Integra Soluciones Avanzadas, S.L.
+  - Interition Limited
+  - Internet Society Belgium
+  - Internet Society Netherlands
+  - Internet Vision Technologies
+  - Internetagentur - Plau IT
+  - Interunix Networking Solutions Sdn. Bhd., Malaysia
+  - Intraneia - Sistemas de Informação, Lda.
+  - IP Justice
+  - IT-Politisk Forening, IT-POL
+  - ITA - Instituto Tecnológico de Aeronáutica
+  - Itaipu Binacional
+  - itemis GmbH & Co. KG
+  - itexto
+  - ITIJ
+  - IXT Sökmotoroptimering & webbdesign
+  - iZone Development
+  - Izy CG, s.r.o.
+  - Jamma IT
+  - Janmedia Interactive
+  - Jaspal Kaur Public School
+  - Jena Technologies LLC
+  - JM Field Marketing
+  - JrLinux Informática
+  - JSK Consultoria e Treinamento
+  - Junta de Andalucía
+  - Junta de Extremadura - CIDT
+  - [Justsystem Corporation](../Page/ジャストシステム.md "wikilink")
+  - Kashand.org
+  - KBT Information
+  - [KDE](../Page/KDE.md "wikilink")
+  - KlasCement
+  - KLID - Linux trade association of Denmark
+  - Klimaanlagen.info
+  - Knowbility.org
+  - Kovovýroba - Jamibo
+  - Kreawit
+  - Kyrgyzstan National Information Technology Center
+  - Leonardo Communications
+  - Liber4e Consulting
+  - Liberix
+  - LINAGORA
+  - Linda Hall Library
+  - Linec Soluciones Informáticas
+  - Linform LLC
+  - Linpro AS
+  - Linux Australia
+  - Linux Industrial Association (LIPSZ) - Hungary
+  - Linux Pakistan
+  - Linux Solutions Group e.V.
+  - Linux User Group of Novi Sad
+  - Linux Users Group Belgrade
+  - Linux Users Group, Singapore
+  - linuxNUS - National University of Singapore Linux
+  - Local Government Computer Services Board
+  - Login, Inc.
+  - LUGOS (Linux User Group Of Slovenia)
+  - LynuxSolutions
+  - Magicomm
+  - Magnate IT
+  - Management Development Institute (MDI)
+  - [Mandriva](https://ja.wikipedia.org/wiki/Mandriva "wikilink")
+  - Maneel.Info\!
+  - ManeelGrover.Com
+  - Mantis Technology Solutions
+  - Manufacturing Automation & Software Solutions (MAS
+  - Mark Watson Consulting Services
+  - Massachusetts High Technology Council
+  - Massachusetts Network Communications Council
+  - Master it
+  - Matthews Computational Systems
+  - ME Data
+  - MediaAnalys
+  - Mediasoft Solutions Private Limited
+  - MediVisas
+  - Meet the Boss
+  - Menttes
+  - Metztli Information Technology
+  - Microskills
+  - Microworks
+  - Middle East - Institute of Certified E-Commerce Co
+  - MIG AB
+  - MIKFF
+  - Ministry of Finance -- Republic of Macedonia
+  - Mithrandir Kft
+  - MNCC ODF Special Interest Group, Malaysia
+  - MNCC Open Source Special Interest Group
+  - MobilityGuard AB
+  - Mountain Linux Users Group
+  - Movimento Software Livre Paraná - MSLPR
+  - MSM Consulting
+  - MultiRacio
+  - MyConsulting Pty Ltd
+  - MySQL AB
+  - National HPCC Software Exchange
+  - National Institute for Smart Government
+  - Natural Concepts
+  - NC LUG - North Caucasus Linux User Group
+  - ncode solutions gmbh
+  - Nebtrex
+  - Nederlandse Linux Gebuikers Groep
+  - Neosystems
+  - Network Design & Integration
+  - Neutech.dk
+  - Nimble Services, Inc
+  - Nitin Goyal
+  - Norfello Oy
+  - Norwegian Mission Alliance Philippines
+  - Norwegian UNIX User Group
+  - Notes CS
+  - Nou\&Off
+  - NovaGlobal Pte Ltd
+  - [Novell](../Page/ノベル_\(企業\).md "wikilink")
+  - NOVOVIA
+  - Nowe Leki
+  - Nuxeo / inDesko
+  - O3spaces
+  - Odendahl SEPT-Solutions
+  - Odin Prosjekt
+  - olonda s.r.o.
+  - OLPC Nepal (Nepal)
+  - OmegaT+
+  - ONG Centro de Software Libre (Chile)
+  - Online Kredit Index
+  - Open Design Alliance
+  - Open Enterprise Solutions
+  - Open Interoperative Document Initiative
+  - Open Legal Practice Standards Collaboration Org
+  - Open Office Technology, Inc.
+  - Open SKM Agency Kft.
+  - Open Slate Project
+  - Open Society Archives of the Central European Univ
+  - Open Society Institute
+  - Open Solutions Cameroun
+  - Open Source Industry Australia
+  - Open Source IT Solutions
+  - Open Source Law
+  - Open Source Resource Center
+  - Open Systems Management Ltd.
+  - Open-Xchange, Inc.
+  - Open@work
+  - OpenAdvantage
+  - OpenApp
+  - OpenContent s.n.c.
+  - OpenDocument Fellowship
+  - [Open Forum Europe](https://ja.wikipedia.org/wiki/Open_Forum_Europe "wikilink")
+  - OpenIreland
+  - OpenLX (Indserve Infotech Pvt. Ltd.)
+  - OpenOffice Polska
+  - [OpenOffice.org](../Page/OpenOffice.org.md "wikilink")
+  - OpenOffice.org MEXICO
+  - Openpower Information Co.,ltd
+  - OpenQuest - Sistemas de Informação, Lda
+  - OpenSesame ICT
+  - OpenSkills
+  - OPENTIA
+  - Openware
+  - [Opera Software](https://ja.wikipedia.org/wiki/オペラ・ソフトウェア "wikilink")
+  - OPS\! Consulting
+  - Optaros
+  - Optio Software, Inc.
+  - [Oracle](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")
+  - Orion eServices Private Ltd
+  - OSDL (Open Source Development Lab)
+  - OSS Alliance
+  - OSS Integral Institute Co., Ltd. ( OSSII )
+  - Oxford Archaeology
+  - Pakistan Computer Users Group
+  - Panoramafotografie
+  - Paradigma
+  - Parinux
+  - Patchcom Services
+  - Paul Snijders Automatisering
+  - PersonnelWorks, LLC
+  - Philippine Linux Users' Group
+  - phpMyAdmin
+  - Pilot Systems
+  - Pineberry
+  - Pixart SRL
+  - Planeta Olea SL
+  - Power Management Concepts, LLC
+  - Powiatowy Urzad Pracy w Brzesku
+  - PRESTO - P?EKLADATELSKÉ CENTRUM s.r.o.
+  - Prezencia Web Services
+  - Prodigentia
+  - Project Kalpa
+  - Propylon Ltd
+  - PSIL
+  - PSNUG
+  - Public Knowledge
+  - Puzzle ITC
+  - QCM, s.r.o.
+  - QindelGroup
+  - Qualiom Sistemas Computacionais
+  - QubeConnect Sdn Bhd
+  - Radio Popular, Electrodomesticos, S. A.
+  - Readypeople
+  - [Red Hat, Inc.](../Page/レッドハット.md "wikilink")
+  - Redlaunch
+  - Relational Semantics, Inc.
+  - Relevansanalys
+  - Reliable Information Systems
+  - Resolvo Systems PTE Ltd
+  - Resultatmedia
+  - Rivendel Kft.
+  - Rixstep.com
+  - Ruffdogs, Inc.
+  - S\&T -Sistemas e Tecnologia Informática,Lda
+  - SafeDesk
+  - SalePlane Ltd.
+  - Sarminfo SRL
+  - SasLibre
+  - Saturn Laboratories
+  - sbVB
+  - SC Liant Ist SRL
+  - SC Lightway Software SRL
+  - schokokeks.org
+  - SCIDERALLE
+  - SEA Tecnologia
+  - Secretaria da Educação do Estado do Paraná
+  - Secretária Municipal de Educação de Cariacia
+  - SeeOpen
+  - SeMarket
+  - SEO Beratung kruegers.net
+  - SEO Logik AB
+  - SEOdesign sökmotoroptimering
+  - Seosmart GmbH
+  - ServiceSolution.com
+  - Serviço Autonomo de Água e Esgoto
+  - Servizi Informatici
+  - Sharif FarsiWeb, Inc.
+  - Sílice S.A.
+  - Siltex International SA
+  - Silver Strand Solutions
+  - Silverfish Design
+  - Sincerity Weddings LLC
+  - Skaitmeninio sertifikavimo centras, UAB
+  - SKOSI (Slovak Open Source Initiative)
+  - Skåne Sjælland Linux User Group, SSLUG
+  - sn@p consulting
+  - SoftMaker
+  - Software & Information Industry Association SIIA
+  - Software AG
+  - Software Competence Center of the Hungarian Govern
+  - Software602
+  - Soluciones Libres
+  - Sombra Designer Visual
+  - Sou Livre
+  - Southwest Jiaotong University
+  - Sp-Process SPA
+  - Sploodle
+  - Spoleènost pro výzkum a podporu (Open SourceOSS
+  - Squirrel Consultancy
+  - Stajl
+  - StarXpert
+  - StreamServe, Inc.
+  - Studenski Internet-Dienste Webdesign
+  - Students for Free Culture
+  - [サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")
+  - Sustainable Software Pty Ltd
+  - Swiss Federal Institute of Technology Zurich
+  - Swiss Open Systems User Group (/ch/open)
+  - Systec IT
+  - Szabad Szoftver Intézet - Hungary
+  - T3 Software Development
+  - Tankeboks
+  - tarent GmbH
+  - Tarif-Angebote
+  - TechDivision
+  - Technetra Corporation
+  - Technical University of Denmark - Copenhagen
+  - Telugu books
+  - Tenth Planet Technologies
+  - TESI Tècnica del So i la Imatge S.L.
+  - Tetra Information Services Pvt. Ltd
+  - Thales
+  - The Association of Open Source Suppliers and Vendo
+  - The GravityZoo Company
+  - The Handbook
+  - The ICT & Security Company (ICTSC LTD)
+  - The Knowledge Trust
+  - The New Zealand Open Source Society
+  - The Open Learning Centre
+  - The Open Source Technology Alliance
+  - The OSS Movement
+  - TintaDigital STI
+  - Tokavuh Technologies oy
+  - Torchlight Technologies
+  - TorLUG - Tor Vergata Linux User Group
+  - TQuadrado, Lda.
+  - Transtronics, Inc.
+  - Tuxum Secure Systems
+  - Tycho Softworks
+  - uberOffice, Inc.
+  - UBIK Business Consulting
+  - Ubiquitech
+  - udnDigital
+  - UKUUG
+  - ULX Kft
+  - UNDP-APDIP International Open Source Network
+  - UNE - União Nacional dos Estudantes
+  - Unisys Corporation
+  - University of Szeged, Dept. of Software Engin
+  - University of the Philippines Java Research & Deve
+  - University of the Philippines Linux Users' Group
+  - UP Manila National Telehealth Center
+  - Uptime Computing
+  - USARSD.org
+  - Ux Systems
+  - Vacorama.com
+  - Vadesta B.V.
+  - Van Bussel Document Services
+  - Varico
+  - Vdesign
+  - Versicherungen
+  - VersusMind
+  - Victoria Linux Users Group (VLUG)
+  - VIRTUA, s.l.
+  - Virtual Angle B.V.
+  - Vizi Sverige AB
+  - VNOSS
+  - Warpspace IT
+  - Webcreator
+  - Webdesign Hamburg
+  - Webdesign Senkrecht
+  - Webdesign-up2date.de
+  - Wescom GmbH Informatik Luzern
+  - Whizman Software Solutions
+  - Workmode, Inc.
+  - Worldlabel.com Inc.
+  - Woven Thorns Productions
+  - WWR systems
+  - Wyona
+  - Xandros Corporation
+  - XeniT
+  - Xensoft Labs
+  - Xnet Solutions
+  - XTech
+  - YACME Srl
+  - Zando Computer SRL
+  - Zebra Garden
+  - Zero Paper Solutions
+  - Zindep
+  - Østjyllands Linux-brugergruppe
+
+## 脚注
+
+## 外部リンク
+
+  -
+[Category:アメリカ合衆国の政治](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の政治 "wikilink") [Category:オープンソース文化・運動](https://ja.wikipedia.org/wiki/Category:オープンソース文化・運動 "wikilink")
+
+1.  \[<http://www.odfalliance.org/memberlist.php> [http://www.odfalliance.org/memberlist.php\]より](http://www.odfalliance.org/memberlist.php%5Dより)
+2.

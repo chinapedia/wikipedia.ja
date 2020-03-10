@@ -1,0 +1,130 @@
+> この記事は[  COMIC VERSION](https://ja.wikipedia.org/wiki/__COMIC_VERSION)から翻訳されています。
+
+
+『**大怪獣激闘 ガメラ対バルゴン COMIC VERSION**』（だいかいじゅうげきとう ガメラたいバルゴン コミックバージョン）は、[2003年](../Page/2003年.md "wikilink")に発売された[近藤和久](../Page/近藤和久.md "wikilink")の漫画。[1966年](../Page/1966年.md "wikilink")に公開された[特撮映画](../Page/特撮映画.md "wikilink")『[大怪獣決闘 ガメラ対バルゴン](../Page/大怪獣決闘_ガメラ対バルゴン.md "wikilink")』を原典とし、近藤が新たに描き下ろしたものである\[1\]。
+
+## 概要
+
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")公開の『[ガメラ 大怪獣空中決戦](https://ja.wikipedia.org/wiki/ガメラ_大怪獣空中決戦 "wikilink")』に感動した近藤が、当時の[角川書店](../Page/角川書店.md "wikilink")の編集員に「[ガメラ](https://ja.wikipedia.org/wiki/ガメラ "wikilink")の漫画を描きたい」と打診したところ、了承を得られたために執筆活動が始まった\[2\]。しかし、当時の近藤は連載中の作品（『[機動戦士ガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム "wikilink")0079』など）を優先せざるを得なかったうえ、アシスタントを使わなかった\[3\]ために作業はなかなか進まず、[1999年](../Page/1999年.md "wikilink")に『[ガメラ3 邪神〈イリス〉覚醒](https://ja.wikipedia.org/wiki/ガメラ3_邪神覚醒 "wikilink")』の公開が終了してもなお、完成しなかった。「[映画](../Page/映画.md "wikilink")化に合わせての漫画化した物ではなく、『[ガメラ2 レギオン襲来](https://ja.wikipedia.org/wiki/ガメラ2_レギオン襲来 "wikilink")』と『ガメラ3 邪神〈イリス〉覚醒』との間に位置するストーリーとしながらも、あくまで独立した作品との考えがあった」と語っている。
+
+『大怪獣決闘 ガメラ対バルゴン』については「思い入れのある作品」と語っており、ストーリーやムードを残しつつ、現代的にアレンジしている\[4\]。しかし、本作では[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")が健在であったり\[5\]、[自衛隊](../Page/自衛隊.md "wikilink")の装備品が一部旧装備であるなど、[平成ガメラシリーズの世界観](https://ja.wikipedia.org/wiki/ガメラ "wikilink")（や現実）との相違点が見られる。
+
+著者の「あとがき」に加え、[樋口真嗣](https://ja.wikipedia.org/wiki/樋口真嗣 "wikilink")（平成ガメラシリーズ特撮監督）へのインタビュー（「樋口真嗣監督の激烈特撮トーク」）も収録されている。
+
+### 樋口真嗣監督の激烈特撮トーク
+
+本作に対して「米軍が出せるのが羨ましかった」と語っており、『ガメラ 大怪獣空中決戦』において同描写が検討された結果、頓挫したことが明らかにされている。
+
+内容に関しては、「都市（建物）破壊が少し足りない代わりに、怪獣同士の戦いは多い」、「人それぞれのガメラ作品が有っても良い」と述べている\[6\]
+
+## あらすじ
+
+パイロットの開田、宝石商の井上、学者の下丸子は、[ニューギニア](https://ja.wikipedia.org/wiki/ニューギニア "wikilink")近くの島で、バルゴンの[骨](../Page/骨.md "wikilink")と大量の[宝石](../Page/宝石.md "wikilink")を発見する。しかし、骨の[頭部](https://ja.wikipedia.org/wiki/頭部 "wikilink")から滴り落ちてきた巨大な[オパール](../Page/オパール.md "wikilink")を巡って奪い合いになり、井上は下丸子博士を射殺してしまう。開田も突如起きた[地震](../Page/地震.md "wikilink")と浸水で流されてしまい、井上は一人で島を脱出したが、手に入れた巨大オパールは、実はバルゴンの[卵](../Page/卵.md "wikilink")だった。
+
+日本へ向かう船上でバルゴンは孵化し、井上を餌食にした後、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")葉山に上陸する\[7\]。一方、開田はアヤという少女に助けられて一命を取りとめ、バルゴンを退治すべく、アヤと共に日本へ向かう。切り札となる「バルゴンの魂」を持って。
+
+## 登場怪獣
+
+  - [ガメラ](https://ja.wikipedia.org/wiki/ガメラ "wikilink")
+    レギオンを倒した後、人間の前から去っていたが、バルゴンの存在を感知し、戦いに赴く。
+  - バルゴン
+    [ワニ](../Page/ワニ.md "wikilink")のようだったオリジナルに対して、本作ではどちらかと言えば[イグアナ](https://ja.wikipedia.org/wiki/イグアナ "wikilink")に近い形態となっており、デザインは異なっている（頭部には左右に1本ずつ、計2本の角がある。頭頂部に紅い宝石状の結晶体を有し、全身からは輝く棘を生やしている）。
+    オリジナル同様、宝石を餌として好み、長い舌から冷凍液を吐き、水に弱い。
+    本作では、目を合わせた人間の欲望を刺激して凶暴化させたり、背中からの虹色光線で敵を攻撃（津波を発生させるほどの威力を誇る）などの能力がある。
+    本作では、ガメラやギャオスと同様に超古代文明の人工生物が起源とされている\[8\]。ガメラと同等の体長を誇りながらも、本編に登場したのは亜成体であり、「バルゴンの魂」と言う宝石を取り込むことで、さらなる完全体となると言われている\[9\]（その完全体と思しき姿はイメージとして登場している）。
+  - [ギャオス](../Page/ギャオス.md "wikilink")
+    米軍の[F/A-18](https://ja.wikipedia.org/wiki/F/A-18 "wikilink")を襲うが、海中より出現したガメラに羽を喰いちぎられて倒される\[10\]。
+  - [レギオン](../Page/レギオン_\(架空の怪獣\).md "wikilink")
+    冒頭のみ登場（『[ガメラ2 レギオン襲来](https://ja.wikipedia.org/wiki/ガメラ2_レギオン襲来 "wikilink")』のラストシーンとして\[11\]）。
+
+この他、作中のイメージシーンでジャイガー、ジグラ、イリスらしき怪獣が登場する\[12\]。
+
+## 登場人物
+
+  - 開田良夫\[13\]
+    [調布飛行場](../Page/調布飛行場.md "wikilink")にある民間会社の[パイロット](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")。井上と下丸子に雇われて[セスナ](../Page/セスナ.md "wikilink")を操縦し、バルゴンの眠る島へやって来た。
+    ラストシーンで洞窟に戻っており、「井上の逃亡（遭難）と下丸子の死」以後の出来事は「夢オチ」ともとれる。
+  - アヤ
+    開田を助けた謎の少女。バルゴンを倒すため、開田と共に日本へ向かう。
+    津波で遭難し、開田は海上自衛隊に救出されたが、アヤは消息不明となった。以後、開田にしか見えない存在となる\[14\]。また、それ以前のシーンも、開田とアヤしかいない状況でしか現れていない。
+  - 井上
+    宝石商で、下丸子らと共にバルゴンの島へやって来た。バルゴンの卵を奪い、一人逃走するも、孵化したバルゴンに襲われる（その際、死亡したと思われる）。
+  - 下丸子
+    半生をかけてバルゴンを研究している学者。巨大オパール（バルゴンの卵）を巡って井上と争いになり、死亡。
+  - 穂波碧
+    『[ガメラ2 レギオン襲来](https://ja.wikipedia.org/wiki/ガメラ2_レギオン襲来 "wikilink")』のヒロイン。序盤のシーン（『ガメラ2』のラストシーン）に登場\[15\]。
+  - 帯津
+    同じく、『ガメラ2』のキャラクター。序盤にのみ登場\[16\]。
+
+## 登場兵器
+
+  - [自衛隊](../Page/自衛隊.md "wikilink")
+
+<!-- end list -->
+
+  - [90式戦車](../Page/90式戦車.md "wikilink")
+  - [87式偵察警戒車](https://ja.wikipedia.org/wiki/87式偵察警戒車 "wikilink")
+  - [82式指揮通信車](https://ja.wikipedia.org/wiki/82式指揮通信車 "wikilink")
+  - [73式中型トラック](https://ja.wikipedia.org/wiki/73式中型トラック "wikilink")
+  - [73式小型トラック](https://ja.wikipedia.org/wiki/73式小型トラック "wikilink")（旧式）
+  - [偵察用オートバイ](https://ja.wikipedia.org/wiki/偵察用オートバイ "wikilink")
+  - [こんごう型護衛艦](../Page/こんごう型護衛艦.md "wikilink")「[きりしま](../Page/きりしま_\(護衛艦\).md "wikilink")」
+  - [しらね型護衛艦](https://ja.wikipedia.org/wiki/しらね型護衛艦 "wikilink")「[しらね](../Page/しらね_\(護衛艦\).md "wikilink")」
+  - [はつゆき型護衛艦](../Page/はつゆき型護衛艦.md "wikilink")「[はつゆき](https://ja.wikipedia.org/wiki/はつゆき_\(護衛艦\) "wikilink")」
+  - [F-1](../Page/F-1_\(航空機\).md "wikilink")[支援戦闘機](../Page/支援戦闘機.md "wikilink")
+  - [AH-1S](https://ja.wikipedia.org/wiki/AH-1S "wikilink")[対戦車ヘリコプター](../Page/攻撃ヘリコプター.md "wikilink")
+  - [UH-1J](https://ja.wikipedia.org/wiki/UH-1_\(航空機\)#日本での展開 "wikilink")[多用途ヘリコプター](https://ja.wikipedia.org/wiki/汎用ヘリコプター "wikilink")
+  - [SH-60J](https://ja.wikipedia.org/wiki/SH-60J_\(航空機\) "wikilink")[哨戒ヘリコプター](https://ja.wikipedia.org/wiki/対潜哨戒機#哨戒ヘリコプター "wikilink")
+  - [OH-6D](https://ja.wikipedia.org/wiki/OH-6_\(航空機\)#日本での採用 "wikilink")[観測ヘリコプター](../Page/偵察機.md "wikilink")
+  - [89式5.56mm小銃](../Page/89式5.56mm小銃.md "wikilink")
+  - [コルト・ガバメント](https://ja.wikipedia.org/wiki/コルト・ガバメント "wikilink")
+
+<!-- end list -->
+
+  -
+
+  - [海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")
+
+<!-- end list -->
+
+  - [すずかぜ型巡視艇](https://ja.wikipedia.org/wiki/すずかぜ型巡視艇 "wikilink")「CL-114 のげかぜ」
+
+<!-- end list -->
+
+  -
+
+  - [在日米軍](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")
+
+<!-- end list -->
+
+  - [キティホーク級航空母艦](../Page/キティホーク級航空母艦.md "wikilink")「[キティホーク](https://ja.wikipedia.org/wiki/キティホーク_\(空母\) "wikilink")」
+  - [F/A-18](https://ja.wikipedia.org/wiki/F/A-18_\(航空機\) "wikilink")[戦闘攻撃機](https://ja.wikipedia.org/wiki/戦闘攻撃機 "wikilink")
+
+## 出典
+
+以下については「同書」と省略する。
+
+  - [近藤和久](../Page/近藤和久.md "wikilink") 『大怪獣激闘 ガメラ対バルゴン-COMIC VERSION-』 [2003年](../Page/2003年.md "wikilink")、[角川書店](../Page/角川書店.md "wikilink")〈角川コミックス・エース・エクストラ〉
+
+## 外部リンク
+
+  - [大怪獣激闘 ガメラ対バルゴン COMIC VERSION](http://www.kadokawa.co.jp/product/200309000214/) - KADOKAWA
+
+[Category:漫画作品_た](https://ja.wikipedia.org/wiki/Category:漫画作品_た "wikilink") [Category:ガメラ](https://ja.wikipedia.org/wiki/Category:ガメラ "wikilink") [Category:オセアニアを舞台とした作品](https://ja.wikipedia.org/wiki/Category:オセアニアを舞台とした作品 "wikilink") [Category:神奈川県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:神奈川県を舞台とした作品 "wikilink") [Category:怪獣を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:怪獣を題材とした漫画作品 "wikilink") [Category:映画を原作とする漫画作品](https://ja.wikipedia.org/wiki/Category:映画を原作とする漫画作品 "wikilink")
+
+1.  同書1頁において、「映画「[大怪獣決闘 ガメラ対バルゴン](../Page/大怪獣決闘_ガメラ対バルゴン.md "wikilink")」[1966年](../Page/1966年.md "wikilink")（脚本/[高橋二三](../Page/高橋二三.md "wikilink")）より」と明記されている。
+2.  同書「あとがき」264頁。
+3.  同上。
+4.  同書「あとがき」265頁。
+5.  同書193-194頁。
+6.  同書「樋口真嗣監督の激烈特撮トーク」267頁。
+7.  同書93頁。
+8.  同書55頁。
+9.  同書55頁。
+10. 同書162-164頁。
+11. 同書2-4頁。
+12. 同書55頁。
+13. 同書216頁、224頁。
+14. 同書178-179頁。
+15. 同書8頁。
+16. 同書8頁。

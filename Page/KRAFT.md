@@ -1,0 +1,235 @@
+> この記事は[KRAFT](https://ja.wikipedia.org/wiki/KRAFT)から翻訳されています。
+
+
+**株式会社KRAFT**（クラフト）は、レーシングカーやレーシングエンジンなどを製作する企業である。代表取締役は[平岡寿道](https://ja.wikipedia.org/wiki/平岡寿道 "wikilink")。社名は[ドイツ語](../Page/ドイツ語.md "wikilink")の「kraft（つくる）」から。
+
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")までは、レーシングチームとしても[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")（JGTC）や[SUPER GTに参戦していた](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")。
+
+## 概要
+
+1997年よりJGTCのGT300クラスへ[MR2を駆って参戦開始すると](https://ja.wikipedia.org/wiki/トヨタ・MR2 "wikilink")、以来一貫してトヨタ系車種を持ち込んでエントリーすることになる。翌1998年には[キャバリエを持ち込み](https://ja.wikipedia.org/wiki/トヨタ・キャバリエ "wikilink")、[佐藤久実](https://ja.wikipedia.org/wiki/佐藤久実 "wikilink")をレギュラードライバーに据え、第2戦の富士ラウンドには[三原じゅん子](https://ja.wikipedia.org/wiki/三原じゅん子 "wikilink")がエントリーし、女性ドライバーコンビの実現かと思われたが[ローリングラップ中の事故の発生でレース中止となり](https://ja.wikipedia.org/wiki/太田哲也#.E6.82.B2.E5.8A.87.E3.81.AE.E4.BA.8B.E6.95.85 "wikilink")、幻となった。
+
+翌1999年の参戦が、KRAFTにとって大きな転機となる。既に日本市場での生産終了から10年以上が経過していた[AE86を改造し](https://ja.wikipedia.org/wiki/トヨタ・AE86 "wikilink")、レースマシンに仕立て上げてエントリーしたのである。テストには[関谷正徳](../Page/関谷正徳.md "wikilink")など、当時のトップドライバーも参加して完成したこのマシンは、当時の[ビデオオプション](https://ja.wikipedia.org/wiki/ビデオオプション "wikilink")にてマシン制作の模様やレースレポートが随時取り上げられたこと、またチーム代表の平岡のキャラクターや86人気なども相まって、戦績は伴わなかった物の、強烈なインパクトを残した。
+
+2001年の途中まで86で参戦の後、シーズン途中からはニューマシン・[MR-Sにチェンジし](https://ja.wikipedia.org/wiki/トヨタ・MR-S "wikilink")、翌[2002年](../Page/2002年.md "wikilink")にはGT500クラスへも参戦を開始。[2003年](../Page/2003年.md "wikilink")からは、GT500クラスのみの参戦となる。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")は2台体制。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")は再び1台体制となり、エントラント名をTOYOTA TEAM KRAFTに変更。タイヤは[ダンロップ](https://ja.wikipedia.org/wiki/ダンロップ "wikilink")を使用。[服部尚貴](https://ja.wikipedia.org/wiki/服部尚貴 "wikilink")のドライブでこの年チームとしてGT500初勝利を挙げた。しかし[2007年](../Page/2007年.md "wikilink")はテールエンダー常連となる大不振に陥り、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")からはタイヤが[ブリヂストン](../Page/ブリヂストン.md "wikilink")に変更され、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")よりサポートを受けるいわゆるワークス体制となった。
+
+[2011年](../Page/2011年.md "wikilink")からはレーシング部門を完全独立し、別法人として**株式会社クラフトレーシング**を設立。チーム代表は[橋本祥之](https://ja.wikipedia.org/wiki/橋本祥之 "wikilink")へと変更となった。新体制下となった以降は、ワークス車両を使用するチームの中でも特に若手ドライバーの育成を担う[トヨタ・ヤングドライバーズ・プログラム](https://ja.wikipedia.org/wiki/トヨタ・ヤングドライバーズ・プログラム "wikilink")（TDP）を担うチームとなり、メインスポンサーに[KeePerを迎え](https://ja.wikipedia.org/wiki/アイ・タック技研 "wikilink")、エントラント名をLEXUS Team KeePer Kraftへと変更して参戦した。
+
+[2013年](../Page/2013年.md "wikilink") 1月4日にGT500クラスへの参戦を断念することを明らかにし\[1\]、新たにチーム名を『BondsRacing』（ロゴは『Bonds Racing』）に変更した上でGT300クラスに参戦することを発表した\[2\]。車両は[日産・GT-R](../Page/日産・GT-R.md "wikilink") GT3に変更し、ゼッケンNo.は7番を使用する。しかし同チームは第2戦を最後に活動を休止、残されたマシンはそれまでアウディ・R8を走らせていた[aprが引き継ぐことになった](https://ja.wikipedia.org/wiki/apr_\(自動車事業\) "wikilink")\[3\]\[4\]。
+
+レース活動を行わなくなった株式会社クラフトは、一般車業務を中心に存続。
+
+## 全日本GT選手権・SUPER GTに参戦した車両
+
+### \#86
+
+#### BP・KRAFT・トレノ
+
+  - 1999年
+
+<!-- end list -->
+
+  -
+    1999年に参戦を開始したトレノ。ドライバーは前年GT500に所属していた[田中実と](https://ja.wikipedia.org/wiki/田中実_\(レーシングドライバー\) "wikilink")、ビデオオプションに当時登場していた[雨宮栄城](https://ja.wikipedia.org/wiki/雨宮栄城 "wikilink")\[5\]のコンビ。ボディ外見こそ86その物であり、サスペンション形状はレギュレーション上ベース車のままである必要があったのだが、それを逆手に取り、リアのリジットサスペンションはフォーミュラカー仕様のインボードタイプにされ、エンジンも[スープラが](https://ja.wikipedia.org/wiki/トヨタ・スープラ "wikilink")500クラスで使用していた[3S-GTEに換装されたものだった](https://ja.wikipedia.org/wiki/トヨタ・3S-GE "wikilink")。
+    ただ、ロールケージを組み込んでもわずか780kgしか無かったマシンには、最低重量規定に合わせて300kg近い鉛板を積む必要があり、またボディ作りも予めロールケージとシャシーの上からボディを架装すると言う、平岡曰く「ラジコンみたいな作り方」をしたマシンだったが、それでもF3マシンを中心としたパーツ流用などで、総額1,000万円程度でマシンを製作した\[6\]。
+    第2戦の富士からエントリーするも、車両製作が間に合わず、本格参戦となったのは第3戦のSUGOラウンドからとなった。[雨宮勇美](https://ja.wikipedia.org/wiki/雨宮勇美 "wikilink")や[坂東正明](../Page/坂東正明.md "wikilink")など、他チームの監督からも注目を集めたマシンは、初戦こそポイント圏外に終わるも第4戦のMINEから3戦連続で入賞を果たし、上位陣とも渡り合える結果となった。
+
+<!-- end list -->
+
+  - 2000年
+
+<!-- end list -->
+
+  -
+    ドライバー陣では雨宮から[松田晃司](https://ja.wikipedia.org/wiki/松田晃司 "wikilink")に交代し、熟成が進んだ2年目にさらなる飛躍が期待された。しかし、急速に高速化が進むJGTCの開発スピードに対応できず、入賞2回、わずか8ポイントの獲得に留まった。
+
+#### プロジェクトμ・トレノ　⇒　プロジェクトμ・MR-S
+
+  - 2001年
+
+<!-- end list -->
+
+  -
+    メインスポンサーが前年までの[BPから](https://ja.wikipedia.org/wiki/BP_\(企業\) "wikilink")[プロジェクトμに変更となった](https://ja.wikipedia.org/wiki/プロジェクト・ミュー "wikilink")。また田中に代わって[長嶋正興](https://ja.wikipedia.org/wiki/長嶋正興 "wikilink")が加入した。もはや86での戦闘力は無く、チームは第3戦のSUGOで86を「引退」させ、MR-Sを投入することとなった。しかし、その引退レースでマシンが炎上という、もの悲しい結末となった。しかし、MR-S投入後3戦目の鈴鹿ラウンドで1勝を挙げ、チームとしては飛躍のシーズンとなった。
+    炎上してしまったGT86は、その後復刻をするべく神奈川県内の鈑金工場へ納入されたが、その計画が立ち消えになってしまい、スクラップ同然の姿で保管されていることが後のビデオオプションで明らかになった。
+
+### \#35
+
+#### プロジェクトμエスペリア スープラ
+
+2002年から2003年まで参戦した。車種はトヨタ・スープラ。メインスポンサーはプロジェクトμ。
+
+  - 2002年
+
+<!-- end list -->
+
+  -
+    KRAFTがGT500に参戦したのはこの年からである。ドライバーは、ベテランの[影山正彦](../Page/影山正彦.md "wikilink")と、GT500にフル参戦を始めた[脇阪薫一](https://ja.wikipedia.org/wiki/脇阪薫一 "wikilink")というラインアップだったが、マシンが前年型スープラだった事やタイヤのデータが全く無いというところで苦戦してしまい、シリーズポイントは2ptsしか獲得できず、成績はトヨタ勢の中ではワーストだった。
+
+<!-- end list -->
+
+  - 2003年
+
+<!-- end list -->
+
+  -
+    [服部尚貴](https://ja.wikipedia.org/wiki/服部尚貴 "wikilink")の加入や、第2戦より[V8エンジンを積んだ最新型スープラの投入もあり](../Page/V型8気筒.md "wikilink")、前年よりは良い成績を残せた。
+
+#### Yellow hat YMS SUPRA
+
+[2004年](../Page/2004年.md "wikilink")から2005年まで参戦した。車種はトヨタ・スープラ。メインスポンサーは[イエローハット](https://ja.wikipedia.org/wiki/イエローハット "wikilink")。
+
+  - 2004年
+
+<!-- end list -->
+
+  -
+    服部と脇阪の続投で挑んだ。開幕戦は2004年モデルがシェイクダウン時のクラッシュの影響で2003年モデルで参戦し、第2戦より2004年モデルを投入。第3戦で2位表彰台、第5戦でダンロップタイヤとしては2002年以来の[ポールポジション](https://ja.wikipedia.org/wiki/ポールポジション "wikilink")を獲得する。しかし、チャンピオン争いには絡むことが出来なかった。
+
+<!-- end list -->
+
+  - 2005年
+
+<!-- end list -->
+
+  -
+    第2戦までは2004年モデルに排気系と空力部品の一部を2005年モデルと同等にした2004年モデル改で参戦し、第3戦より、2005年モデルで参戦した。第2戦で3位と表彰台を獲得できたものの、安定感がなく、第5戦より脇阪がチームを去り、代わって[ピーター・ダンブレック](https://ja.wikipedia.org/wiki/ピーター・ダンブレック "wikilink")が加入。しかし、前年よりも良い成績は残せなかった。
+
+#### BANDAI DIREZZA SC430
+
+2006年に参戦した。車種は[レクサス・SC](https://ja.wikipedia.org/wiki/レクサス・SC "wikilink")430。メインスポンサーは[バンダイ](../Page/バンダイ.md "wikilink")。
+
+  - 2006年
+
+<!-- end list -->
+
+  -
+    トヨタ・スープラに代えてレクサス・SC430を投入した。車両特性の理解やタイヤデータの取り直しなど、多くの課題があったが、チームは開発に取り組み、第3戦・[富士](https://ja.wikipedia.org/wiki/富士スピードウェイ "wikilink")500Kmレースでは優勝した。チームにとってはGT500初の優勝である。その後も、[鈴鹿1000km](../Page/鈴鹿1000km.md "wikilink")でもほぼ最後尾の位置から着実な走りを見せ、最終的には3位表彰台を獲得した。そして、最終戦でも[近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")監督率いる[KONDO](../Page/KONDO_Racing.md "wikilink") [Zと熾烈な争いを繰り広げて](../Page/日産・フェアレディZ.md "wikilink")2位表彰台を獲得し、シリーズ成績でも過去最高の結果となった。
+
+#### BANDAI DUNLOP SC430
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:SuperGT-BANDAI.jpg "wikilink") 2007年に参戦した。車種はレクサス・SC430。メインスポンサーはバンダイ。
+
+  - 2007年
+
+<!-- end list -->
+
+  -
+    トヨタの方針で、前年の車に2007年モデルのアップデートパーツを組み込んだ2006年モデル改で挑むことになった。そのため、性格が大きく変化しバランスがとりきれず、タイヤデータも取り直さなければいけなく、苦戦を強いられていた。なお、マシンカラーリングはメカニックデザイナー･[ガンプラ](https://ja.wikipedia.org/wiki/ガンプラ "wikilink")デザイナーの[カトキハジメ](https://ja.wikipedia.org/wiki/カトキハジメ "wikilink")が担当した。そして第5戦から念願の2007年モデルでの参戦となり、また、カラーリングも2007年10月より放映開始される『[機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")』の宣伝のため一新され、車名も**BANDAI 00 DUNLOP SC430**（バンダイ・**ダブルオー**・ダンロップ・エスシーヨンサンマル）へと変更された。
+
+#### 宝山 KRAFT SC430
+
+2008年に参戦した。車種はレクサス・SC430。メインスポンサーは[西酒造](https://ja.wikipedia.org/wiki/西酒造 "wikilink")。
+
+  - 2008年
+
+<!-- end list -->
+
+  -
+    またもやトヨタの方針によって、2006年モデル改に戻されてしまう(そのため、給油口がリアにもある)。2年落ちの車両での参戦で勝負にならないのではという声が出ているが、空力部品は2008年モデルにアップデートされており、遠目から見ると最新型と見分けがつかないくらいになっている。体制面も大きく変わり、ドライバーは服部から[片岡龍也](../Page/片岡龍也.md "wikilink")に変更され、タイヤもブリヂストンへ変更された。型落ちマシンで不利が予想されたが第3戦・富士では予選3位を獲得し、第5戦・[SUGOでは](https://ja.wikipedia.org/wiki/スポーツランドSUGO "wikilink")2位表彰台を獲得する活躍を見せている。最終的に、第8戦・[オートポリス](https://ja.wikipedia.org/wiki/オートポリス "wikilink")戦以外は全戦入賞する安定振りを見せた。
+
+#### KRAFT SC430
+
+2009年より参戦。車種はレクサス・SC430。メインスポンサーはなし。
+
+  - 2009年
+
+<!-- end list -->
+
+  -
+    この年より新しい規定になり、新規定にあわせて製作された2009年モデルを投入。ドライバー体制が一新され、[石浦宏明](../Page/石浦宏明.md "wikilink")とヨーロッパ帰りの[大嶋和也](../Page/大嶋和也.md "wikilink")の2007年のGT300クラスチャンピオンコンビに変更となった。開幕戦・[岡山では予選](https://ja.wikipedia.org/wiki/岡山国際サーキット "wikilink")2位を獲得し、第6戦・[鈴鹿では](../Page/鈴鹿サーキット.md "wikilink")[ポールトゥーウィン](../Page/ポールトゥーウィン.md "wikilink")で勝利した。
+
+#### MJ KRAFT SC430
+
+2010年より参戦。車種はレクサス・SC430。メインスポンサーはMJ。
+
+  - 2010年
+
+<!-- end list -->
+
+  -
+    前年と同じ体制での参戦。
+
+#### D'STATION KeePer SC430
+
+2011年より参戦。車種はレクサス・SC430。メインスポンサーは[D'STATION](https://ja.wikipedia.org/wiki/NEXUS_\(パチンコチェーン\) "wikilink")。
+
+  - 2011年
+
+<!-- end list -->
+
+  -
+    前年まで[トムス](../Page/トムス.md "wikilink")に5年所属した[脇阪寿一](https://ja.wikipedia.org/wiki/脇阪寿一 "wikilink")と、同じく[SARDに](https://ja.wikipedia.org/wiki/サード_\(企業\) "wikilink")6年所属した[アンドレ・クート](https://ja.wikipedia.org/wiki/アンドレ・クート "wikilink")が移籍。しかしレクサス勢が全般的に不調で、完走こそするもののポイントに絡めず、結果として最高順位は第5戦・鈴鹿の7位、ポイントランキングはドライバー・チームとも14位と低迷したが、富士スプリントカップにおいて、[脇阪寿一](https://ja.wikipedia.org/wiki/脇阪寿一 "wikilink")が3位表彰台を獲得している
+
+#### KeePer Kraft SC430
+
+2012年より参戦。車種はレクサス・SC430。メインスポンサーは前年のセミスポンサーだった[KeePer](https://ja.wikipedia.org/wiki/アイ・タック技研 "wikilink")。
+
+  - 2012年
+
+<!-- end list -->
+
+  -
+    ドライバーは[aprから移籍した](https://ja.wikipedia.org/wiki/apr_\(自動車事業\) "wikilink")[国本雄資](https://ja.wikipedia.org/wiki/国本雄資 "wikilink")と、イタリア人の[アンドレア・カルダレッリ](https://ja.wikipedia.org/wiki/アンドレア・カルダレッリ "wikilink")が務める。
+
+#### ドライバー
+
+  - 2002年 影山正彦/脇阪薫一 3pts
+  - 2003年 服部尚貴/脇阪薫一 24pts
+  - 2004年 服部尚貴/脇阪薫一 37pts
+  - 2005年 服部尚貴 29pts、ピーター・ダンブレック（第5戦より参戦） 13pts、脇阪薫一（第4戦まで） 16pts
+  - 2006年 服部尚貴/ピーター・ダンブレック 64pts、[田嶋栄一](https://ja.wikipedia.org/wiki/田嶋栄一 "wikilink")（第6戦） 16pts　
+  - 2007年 服部尚貴 14pts、ピーター・ダンブレック（第1-3,6-9戦） 12pts、[ロニー・クインタレリ](https://ja.wikipedia.org/wiki/ロニー・クインタレリ "wikilink")（第4-6戦） 2pts
+  - 2008年 ピーター・ダンブレック/片岡龍也 45pts、脇阪薫一（第6戦） 0pts
+  - 2009年 石浦宏明/大嶋和也 44pts
+  - 2010年 石浦宏明/大嶋和也 45pts
+  - 2011年 脇坂寿一/アンドレ・クート 9pts
+  - 2012年 国本雄資/アンドレア・カルダレッリ 28pts
+
+### \#34
+
+#### BANDAI SUPRA
+
+2005年のみ参戦。車種はトヨタ・スープラ。メインスポンサーはバンダイで、他にも[住友ゴム工業](https://ja.wikipedia.org/wiki/住友ゴム工業 "wikilink")（ダンロップ）、エスペリア、レカロ、EBBRO、シバタ、BPルブリカンツ、エンケイなどがスポンサードしていた。
+
+  - 2005年
+
+<!-- end list -->
+
+  -
+    ドライバーは[荒聖治](https://ja.wikipedia.org/wiki/荒聖治 "wikilink")と[横溝直輝](../Page/横溝直輝.md "wikilink")を起用したが、マシンが'04モデルということもあってか、目立った成績を残せてはいない。
+
+#### ドライバー
+
+  - 2005年 荒聖治/横溝直輝 4pts
+
+## その他KRAFTから参戦したことのあるドライバー
+
+  - [長嶋正興](https://ja.wikipedia.org/wiki/長嶋正興 "wikilink")
+  - [松田晃司](https://ja.wikipedia.org/wiki/松田晃司 "wikilink")
+  - [田中実](https://ja.wikipedia.org/wiki/田中実_\(レーシングドライバー\) "wikilink")
+  - [雨宮栄城](https://ja.wikipedia.org/wiki/雨宮栄城 "wikilink")
+  - [佐藤久実](https://ja.wikipedia.org/wiki/佐藤久実 "wikilink")
+  - [渡辺明](https://ja.wikipedia.org/wiki/渡辺明_\(レーシングドライバー\) "wikilink")
+  - [加藤寛規](https://ja.wikipedia.org/wiki/加藤寛規 "wikilink")
+  - [藤田孝博](https://ja.wikipedia.org/wiki/藤田孝博 "wikilink")
+  - 脇阪寿一
+  - 大嶋和也
+  - 石浦宏明
+  - 国本雄資
+  - アンドレア・カルダレッリ
+
+## 脚注
+
+## 外部リンク
+
+  - [株式会社クラフト](http://kraft.co.jp/)
+
+[Category:現在活動していない日本のレーシングチーム](https://ja.wikipedia.org/wiki/Category:現在活動していない日本のレーシングチーム "wikilink") [Category:町田市の企業](https://ja.wikipedia.org/wiki/Category:町田市の企業 "wikilink")
+
+1.  [クラフト、今季GT500参戦を断念。GT300移行か](http://as-web.jp/news/info.php?c_id=2&no=45761) - オートスポーツ・2013年1月5日
+2.  [『今日は・・・』 - BondsRacing Official Blog「絆」・2013年2月3日](http://archive.fo/LJFld) （リンク切れアーカイブ代替）
+3.  [apr、R8からGT-Rにスイッチ。OGT\!と新たな挑戦](http://as-web.jp/news/info.php?c_id=2&no=49699) - オートスポーツ・2013年7月12日
+4.  [今日は・・・](http://ameblo.jp/bonds-r/entry-11461253155.html) - BondsRacing Official Blog「絆」・2013年2月3日
+5.  当時[土屋圭市](../Page/土屋圭市.md "wikilink")が経営していたチューニングショップ[圭オフィス](https://ja.wikipedia.org/wiki/圭オフィス "wikilink")の従業員。[ホットバージョン](../Page/ホットバージョン.md "wikilink")が1994年にチームを結成し[富士フレッシュマンレース](https://ja.wikipedia.org/wiki/富士フレッシュマンレース "wikilink")に参戦した際に優勝した過去を持つ。
+6.  ビデオオプション「廉価版ビデオオプション人気絶版シリーズ　第1弾AE86特集」

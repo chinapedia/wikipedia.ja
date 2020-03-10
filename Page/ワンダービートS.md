@@ -1,0 +1,474 @@
+> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+
+
+**ワンダービートS-スクランブル-**（**Wonder Beat Scramble**）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")から[11月19日](../Page/11月19日.md "wikilink")にかけて[TBS系列](../Page/TBSテレビ.md "wikilink")\[1\]で放送された日本の[アニメーション](../Page/アニメーション.md "wikilink")番組。晩年の[手塚治虫](../Page/手塚治虫.md "wikilink")が企画と監修を手がけた。
+
+## 概要
+
+22世紀の科学[学園都市](../Page/学園都市.md "wikilink")・ナギサシティで、[器官](../Page/器官.md "wikilink")や[運動器](https://ja.wikipedia.org/wiki/運動器 "wikilink")に突如として痛みなど体調不良を呈する住民が相次ぎ、総合健康科学研究所に搬送されてくる。研究所の特殊医療部隊「ホワイトペガサス」のメンバーがワンダービート号でミクロ化のうえ体内に入り込み、原因不明の異物を駆逐する内容の[SF](../Page/SF.md "wikilink")[アクション](https://ja.wikipedia.org/wiki/アクション "wikilink")である。
+
+倒産後新たに設立した[虫プロダクション](https://ja.wikipedia.org/wiki/虫プロダクション "wikilink")株式会社初のテレビアニメ作品で、[鉄腕アトム (アニメ第1作)の](../Page/鉄腕アトム_\(アニメ第1作\).md "wikilink")「[細菌部隊](https://ja.wikipedia.org/wiki/ミクロの決死圏 "wikilink")」を[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")とした[伊藤叡](https://ja.wikipedia.org/wiki/伊藤叡 "wikilink")によるオリジナル企画である。再起の時に協力することを約束した[手塚治虫](../Page/手塚治虫.md "wikilink")が本作の企画・監修を快諾。当時のアニメでは前例のない[医学](../Page/医学.md "wikilink")・[生理学](../Page/生理学.md "wikilink")分野の学者監修が付き、実際の器官機能に基づいたストーリーが展開されている。また、本編終了後に医学博士でもある手塚が実写出演し、舞台となった人体の[器官](../Page/器官.md "wikilink")と生理学の働きについて説明する「手塚治虫のミニミニトーク」コーナーが本放送で放映された。
+
+医療機器メーカーの[テルモ](https://ja.wikipedia.org/wiki/テルモ "wikilink")が同社初の30分番組[一社提供](https://ja.wikipedia.org/wiki/一社提供 "wikilink")となり、「**テルモ ファンタジーワールド**」枠として放映されたが、[強力な裏番組の存在から視聴率が低迷し打ち切りとなってしまった](https://ja.wikipedia.org/wiki/#番組打ち切り "wikilink")。そのため、テレビ版最終話と本来の最終話である26話とでは、結末や関係人物が大きく異なっており、テレビ版では生き永らえてビジュラ姫と手を取り合ってビジュール星の未来を築く希望ある結末を迎えたズダーだったが、本来の最終話では叛乱を起こして自身の過ちを認めつつ最期を迎えた悲劇が描かれた。
+
+手塚は本放送終了から約1年半後にミニミニトークで取り上げている胃を病魔に侵され、生前最後に携わった連続テレビアニメ作品となった。手塚治虫原作ではないため、手塚治虫の作品集や人物史の類の出版物でもあまり取り上げられない状況が続いている。
+
+## あらすじ
+
+[2119年](https://ja.wikipedia.org/wiki/2119年 "wikilink")、宇宙生命探査船[グリーン・スリーブス](https://ja.wikipedia.org/wiki/グリーン・スリーブス "wikilink")号は浮遊惑星「X23」に遭遇。X23が通過した他の惑星で相次いで高度な文明を持った生命体が滅亡していた痕跡も発見されたことから、世界連盟はグリーン・スリーブス号にX23の破壊を命令するが隊長であるスギタ・イサオはこれを拒否し、交信を絶った。
+
+それから2年後、ナギサ・シティに住むイサオの長男・ススムは突如、総合健康科学研究所フェニックス・タワーに連れられ、ドクター・ミヤから特殊医療部隊「ホワイトペガサス」への入隊を要請される。ナギサ・シティでは原因不明の体調不良を訴えて倒れる住民が続出しており、特殊体内突入艇「ワンダービート」をミクロ化して患部に注入し治療を行うのである。
+
+こうして、ススムらホワイトペガサス隊員と人体への攻撃を繰り返す正体不明の異星人達との戦いが始まった。
+
+## 登場人物
+
+  - ホワイトペガサス隊
+    スギタ・ススム
+    [声](../Page/声優.md "wikilink") - [田中真弓](../Page/田中真弓.md "wikilink")
+    なぎさシティに住む13歳の少年。思いやりと腕白を持ち合わせた性格で、父親のことで非難されるようになり少しばかり荒れた生活を送っていた。ドクター・ミヤに請われホワイトペガサスに入隊する。
+  - ドクター・ミヤ
+    声 - [永井一郎](../Page/永井一郎.md "wikilink")
+    なぎさシティにある総合健康科学研究所『フェニックス・タワー』所長。医学博士。人体への攻撃を繰り返す正体不明の異星人「ヒュー（ビジュール星人）」に対抗するため、ミクロナイザーシステムを開発した。最終話で体内に侵入される。
+  - マユミ
+    声 - [荘真由美](https://ja.wikipedia.org/wiki/荘真由美 "wikilink")
+    ドクター・ミヤの姪。ススムと同い年。自ら志願してミヤの秘書を務めている。後にススムのガールフレンドになる。パイロット版資料によれば、苗字は「ミヤ」であるとのこと。第14話で体内に侵入される。
+  - ビオ
+    声 - [江森浩子](https://ja.wikipedia.org/wiki/江森浩子 "wikilink")
+    データ集積用ロボット。人語を理解し、自律思考・自律行動が可能。ワンダービート号内では、オペレーターと人体内に侵入したメドロモンスターの生命コアをサーチする役割を担う。ススムに対して先輩風を吹かせることが多い。
+  - リー・メイファン
+    声 - [小山茉美](../Page/小山茉美.md "wikilink")
+    中国人。ホワイトペガサス隊長。22歳にして医学博士号を持ち、冷静で的確な判断で隊を統率する指揮官。第23話で体内に侵入される。
+    共通するスタッフが多いアニメ[GREY](https://ja.wikipedia.org/wiki/GREY "wikilink")では、原作に登場するリーの仲間としてアニメオリジナルのメイとファンが登場。3人の名前を連結するとリー・メイファンになるお遊びが仕掛けられている。
+  - マイケル・ヤンソン
+    声 - [難波圭一](https://ja.wikipedia.org/wiki/難波圭一 "wikilink")
+    アメリカ人。ススムと共に船外活動を担当する。陽気で頼れるススムの兄貴分。後に技術局へ転属。
+  - ジョー・クムバ
+    声 - [塩屋浩三](https://ja.wikipedia.org/wiki/塩屋浩三 "wikilink")
+    [コンゴ人](https://ja.wikipedia.org/wiki/コンゴ共和国 "wikilink")。メカニックと異星人の言語解析を担当。
+  - マナカ・コウジ
+    声 - [塩屋翼](../Page/塩屋翼.md "wikilink")
+    日本人。ビオの開発者。天才的技術者で、ホワイトペガサスのメカニックとオペレーションを担当。
+  - カトリーヌ・ドワイエ
+    声 - 吉田奈穂
+    フランス人。主にオペレーションを担当。小型のビジュール探知機を開発する。時たま体内にも出動する。
+  - アラマキ・テツヤ
+    声 - [堀川亮](../Page/堀川りょう.md "wikilink")
+    日本人。優秀な宇宙飛行士訓練生だったが、ある事件を契機にマイケルの後任でホワイトペガサスへ入隊。メカの操縦や射劇の腕はススム以上。
+
+<!-- end list -->
+
+  - 「ヒュー」（ビジュール星人）
+    ビジュラ姫
+    声 - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
+    父であるビジュール大王の命を受け「生命元素」探査の指揮を執るが、強硬路線を主張するズダーの方針に疑問を抱く。後にススムと出会い、地上に出てススムの家に宿泊し、自分達の侵入が人体に激しい苦痛を与えていることを知り驚愕する。
+  - バグー将軍
+    声 - [島香裕](https://ja.wikipedia.org/wiki/島香裕 "wikilink")
+    ホワイトペガサスとの戦闘を担当。失敗が相次いだため更迭されるが、最終話で意外な形で姿を現す。
+  - ズダー将軍
+    声 - [塩沢兼人](../Page/塩沢兼人.md "wikilink")
+    バグーの失脚後、副官から昇格すると共に生命元素探査の全権を掌握し、地球人への攻撃を繰り返す。ビジュール星の実権をも掌握しようと企むが、最終的に和解して新たなビジュール星の未来を目指す。本来の最終話である第26話では叛乱を起こし、悔恨と急ぎすぎたことを悟り通信を切った後で「貴方（ビジュラ姫）のそばにいた時が一番幸せだった」と呟きながら絶命した。
+  - ガボー博士
+    声 - [平野正人](https://ja.wikipedia.org/wiki/平野正人 "wikilink")
+    ヒューの技術者で、データ収集とメドロモンスターの開発・制御を担当。
+  - ビジュール大王
+    声 - [郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")
+    ビジュール星（浮遊惑星「X23」）の支配者。急速に衰退する星を救うため、娘であるビジュラに「生命元素」探査を命じた。後に地球へとやってくる。生命元素探索は自分の星を愛するが為であり、地球征服や人類殲滅と言った悪意のある人物ではなかった。暴走するズダーを制しようとして撃たれ負傷してしまう。
+
+## メカ
+
+  - ワンダービート号（初代）
+    ホワイトペガサスが最初に建造した特殊体内出動艇。[マンボウ](../Page/マンボウ.md "wikilink")形をしている。出動の際には上部に5本の透明パイプ（途中で1本の合流）を伝って上下するエレベーターによって乗り込み、機体に抗体保護液を吹き付け、黄→オレンジ→赤の特殊な光を使って焼き付ける、これにより体内に入った際にリンパ球や白血球などの抗体から2450秒間(約40分)のみ活動が可能となる。だが抗体保護コーティングは制限時間を過ぎてしまうと次第に効力が薄れてしまい、切れると体内の異物として消滅させられてしまうため、タイムリミット内でしか潜行出来ないのが弱点だった。発進の際には機体後部に加速用ブースターが接続され、ミクロ化を行うためのエリア「マイクロ・ループ」突入までの間、加速に必要な分の推力を得ている。第14話でマユミの大脳内に侵入したメドロモンスターの罠にはまり、航行システムを破壊され行動不能になるが、クルーはタイムリミット寸前に救助に来た2代目ワンダービート号によって救出された。そして第15話の最後で、ドクター・ミヤの「体内に異物となったワンダービート号を残すわけにはいかない」という（やむを得ない）非情な決断で、2代目ワンダービート号のレーザー・キャノンによって破砕された。
+      - 主な装備
+    :\* エンザーペリットガン（[酵素](../Page/酵素.md "wikilink")弾丸銃）
+    :\*: ワンダービート号の主要装備の一つ。酵素を泡状にして細胞に発射し、その部分を一時的に拡張させ進路を開くことが出来る。
+    :\* エンザーミサイル（酵素ミサイル）
+    :\*: ワンダービート号の主要装備の一つ。酵素を弾頭として発射するミサイルで、モンスターの特性によりレーザーが効かないメドロモンスターに対して使用していた。
+    :\* 酵素スプレー
+    :\*: 旧ワンダービート号では、モンスターの残した異物を分解するためにその名のとおり散布という形をとっていたが、新ワンダービート号では船体全体を酵素で包み、細胞壁などを突破するシステムとして登場、こちらはエネルギーを非常に消費する装備であり、乱用は出来ない。新での散布、旧での船体を包むという使用方法が可能かは不明。
+    :\* 通過用レーザー（第1話〜）
+    :\*: レーザー・キャノンが装備されるまで、旧号ではこれを攻撃兵装としても使用していた。レーザー・キャノン装備後は、その名のとおり船体が血管壁や細胞壁を突破する際に必要な穴をあけるために使用していた。
+    :\* レーザー・キャノン（第2話〜）
+    :\*: ワンダービート号主砲。上部と左右に計3門装備され、艦の前方で融合させることにより破壊力を飛躍的に増大させ、対象を破壊する強力なレーザービームとすることが出来る。
+    :\* 凝固スプレー
+    :\*: 血管壁を船体が通過する時に作った穴をふさぐために使用。
+    :\* エレクトリック・ブーメラン
+    :\*: ススムが使用する個人武器、本体についているスイッチを押すことで、投げてから数秒間だけレーザー幕で覆われ、光のブーメランとなって相手に炸裂する。
+  - ワンダービート号（2代目）
+    初代ワンダービートの後継機として建造された特殊体内出動艇。スペースシャトルに似た形で、初代よりも速力、戦闘力、耐久力等全てにわたって優れ、主砲のレーザー・キャノンの破壊力も増強されている。しかし、その分エネルギーの消耗も激しくなり、17話でモンスターの生命コアを狙って発射するも到達直前でエネルギー切れとなってしまいモンスターの反撃を許してしまった。可変翼を装備し、飛行時には展開、潜航や狭い場所を通過するさいには閉じることもできる。しかし閉じた状態でも飛行は可能のようだ。また、超重粒子砲という武器も装備されているが、最終決戦の際にスタンバイしたのみで使用はされなかった。旧号でのネックであった潜行タイムリミットもなくなり、より詳細な医療活動・調査が可能となっている。側面の赤いラインとホワイトペガサスの隊章がトレードマーク。
+    普段の活動では使用しないが、体外活動用のブースターを装備することにより、海の底や宇宙へも行くことが可能となる。
+    新旧ワンダービート号およびインテライドの燃料は人体に悪影響のない酸素とブドウ糖を精製したものを使用している模様（16話でのドクターミヤの説明より）。
+      - 主な装備
+    :\* エンザーペリットガン（[酵素](../Page/酵素.md "wikilink")弾丸銃）
+    :\* エンザーミサイル（酵素ミサイル）
+    :\* 酵素スプレー
+    :\* クリーニングレーザー
+    :\* レーザー・キャノン
+    :\* 超重粒子砲
+    :\*: ワンダービート号に装備された最強の武器、とのこと。現実世界にも存在する[医療器具](https://ja.wikipedia.org/wiki/医療器具 "wikilink")のひとつである。
+  - インテライド
+    ワンダービート号に搭載されている一人乗りの船外活動用小型艇。三機種が確認されており、前期型では空気中を飛ぶために広い翼を持つ燕のような形のもの、血液のような液体のなかで使われるロケット状のもの。両機ともに武装はミサイルである。
+    後期型は底部に簡易型レーザー・キャノン1門が装備され、2艇のレーザーを合わせることで「Wレーザー」を使用することができる。
+  - エンザーガン（酵素拳銃）
+    エンザーペリットガンと同じ弾丸を撃ち出す小型の拳銃。通常はインテライド内に装備されており、メドロソルジャーとの戦いで使用する。
+  - ビジュールシップ
+    ビジュール星人が人体侵入のために使用する深緑の船。ワンダービート号をはるかに上回る大きさで、人体侵入する際には海底にある秘密基地「ストーンヘッド」よりワープ航法によって行われる。
+      - 主な武装
+    :\* エネルギー衝撃波（青色）
+    :\* 破壊用衝撃波（赤色）
+    :\*: 第13話においてワンダービート号に対して使用、機体装甲に亀裂が発生し、操縦コンソールがショートするほどの大ダメージを与えた。大量のエネルギーを消費するらしく、これ以降使用されなかった。
+
+<!-- end list -->
+
+  - 移動実験基地
+    ビジュールが長期間の生命元素探索のために使用される移動要塞、23話で登場。リー隊長の脊髄に取り付き血液や隋液を取り込み動力源としていたためリーに重度の苦痛を与えていた。24話で内部に侵入してきたススムとテツヤによって動力システムを破壊され使用不能となってしまう。騒ぎの中ズダーとガボーの二人は脱出し、ビジュールシップの衝撃波によって完全に消滅してしまった。このとき基地内部には大勢の兵隊と技師が残っていたのだが、ズダーは非情にも彼らを脱出させることなく破壊したため、ススムたちはズダーの冷酷さを改めて思い知らされた。
+
+<!-- end list -->
+
+  - メドロモンスター
+    ビジュールが人体に存在しているとされる生命元素調査のために使用する合成生物。体内を動き回る事で人体侵入された人は極度の衰弱を引き起こしてしまう。特殊な細胞構造のため、体を傷付けられてもすぐに再生してしまうが、体の中に脳と心臓を兼ねた組織『生命コア』が存在しており、ここを破壊することで倒すことが出来る。
+  - メドロソルジャー
+    生命元素探査用及び対ホワイトペガサス用に使用される小型の合成生物。初期タイプはカエルのような手足と頭部にホースが着いたような形のもの、後期タイプは黒いロボットのような形のものが存在している。いずれも頭部より打ち出される黄色のエネルギービームを武器としているが（後期タイプは指を引っ込めて先端に吸盤の付いた電撃ワイヤーを発射することもできる）、戦闘能力および肉体構造は物凄く弱く、エンザーガンの弾丸が1発体に命中しただけで分解してしまう。
+
+## スタッフ
+
+  - 企画監修：手塚治虫
+  - 監督：[出崎哲](https://ja.wikipedia.org/wiki/出崎哲 "wikilink")（1〜15話）→[有原誠治](https://ja.wikipedia.org/wiki/有原誠治 "wikilink")（16〜26話）
+  - 演出チーフ：有原誠治（1〜15話）・[冨永恒雄](https://ja.wikipedia.org/wiki/冨永恒雄 "wikilink")（1〜15話）→[片渕須直](https://ja.wikipedia.org/wiki/片渕須直 "wikilink")（16〜26話）
+  - シリーズ設定：今泉俊昭・小出一巳
+  - キャラクターデザイン：四分一節子
+  - メカニックデザイン：[樋口雄一](https://ja.wikipedia.org/wiki/樋口雄一_\(デザイナー\) "wikilink")
+  - 総作画監督・メカニック設定：清水恵蔵（1〜15話）
+  - キャラクター・メカニック設定：[阿部恒](https://ja.wikipedia.org/wiki/阿部恒 "wikilink")（16〜26話）
+  - 体内設定：小野隆哉（16〜26話）
+  - 美術監督：内田好之
+  - 美術設定：岡田和夫
+  - 撮影監督：藤田正明
+  - 音響監督：[明田川進](https://ja.wikipedia.org/wiki/明田川進 "wikilink")
+  - 音楽：[米光亮](../Page/米光亮.md "wikilink")・[溝口肇](https://ja.wikipedia.org/wiki/溝口肇 "wikilink")
+  - 効果：木下克己（[東洋音響](https://ja.wikipedia.org/wiki/東洋音響効果グループ "wikilink")）
+  - 音響担当：[三間雅文](https://ja.wikipedia.org/wiki/三間雅文 "wikilink")
+  - 科学監修：戸川達男[工学博士](https://ja.wikipedia.org/wiki/工学博士 "wikilink")(現職:[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")人間科学学術院[特任教授](https://ja.wikipedia.org/wiki/特任教授 "wikilink")/放映当時:[東京医科歯科大学](../Page/東京医科歯科大学.md "wikilink")医用器材研究所教授)
+  - 医学監修：
+      -
+        草川三治[医学博士](https://ja.wikipedia.org/wiki/医学博士 "wikilink")(故人。放映当時：[東京女子医科大学](https://ja.wikipedia.org/wiki/東京女子医科大学 "wikilink")[小児科教授](https://ja.wikipedia.org/wiki/小児科学 "wikilink")・[同大学付属第二病院院長](../Page/東京女子医科大学東医療センター.md "wikilink")・日本中毒情報センター理事)
+        橋本大定医学博士(現職:[埼玉医科大学総合医療センター](../Page/埼玉医科大学総合医療センター.md "wikilink")[消化器外科教授](../Page/消化器外科学.md "wikilink")/放映当時：[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")第2外科[講師](https://ja.wikipedia.org/wiki/講師_\(教育\) "wikilink"))
+  - 製作：[虫プロダクション](https://ja.wikipedia.org/wiki/虫プロダクション "wikilink")／[TBS](../Page/TBSテレビ.md "wikilink")／[東急エージェンシー](https://ja.wikipedia.org/wiki/東急エージェンシー "wikilink")（本編では[クレジットタイトル](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")無し）
+  - 制作協力：[マジックバス](https://ja.wikipedia.org/wiki/マジックバス "wikilink")（1〜15話）
+
+<!-- end list -->
+
+  - 主題歌
+    下記2曲を収録したEPレコードは、[ビクター音楽産業より発売](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
+      - 第1〜15話オープニング、第16〜26話エンディング「瞳はコスモス」歌：燕奈緒美・燕真由美(→[ザ・リリーズ](https://ja.wikipedia.org/wiki/ザ・リリーズ_\(女性アイドル\) "wikilink"))
+      - 第1〜15話エンディング、第16〜26話オープニング「ワンダービート」歌：燕奈緒美・燕真由美
+
+## 各話リスト
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話数</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>脚本</p></th>
+<th><p>絵コンテ</p></th>
+<th><p>演出</p></th>
+<th><p>作画監督</p></th>
+<th><p>放送日</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>行け体内宇宙へ!</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/城山昇" title="wikilink">城山昇</a><br />
+小出一巳</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/出崎哲" title="wikilink">出崎哲</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/冨永恒雄" title="wikilink">冨永恒雄</a></p></td>
+<td><p>松田芳明</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/4月16日" title="wikilink">4月16日</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>謎のスペースシップ!</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/加瀬充子" title="wikilink">加瀬充子</a></p></td>
+<td><p>新田敏夫</p></td>
+<td><p><a href="../Page/4月23日.md" title="wikilink">4月23日</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>幻のオルゴール</p></td>
+<td><p>今泉俊昭</p></td>
+<td><p>冨永恒雄</p></td>
+<td><p>岩本保雄</p></td>
+<td><p>和泉絹子</p></td>
+<td><p><a href="../Page/5月7日.md" title="wikilink">5月7日</a></p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>10人目のナイン</p></td>
+<td><p><a href="../Page/高屋敷英夫.md" title="wikilink">高屋敷英夫</a></p></td>
+<td><p>岩田六</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/有原誠治" title="wikilink">有原誠治</a></p></td>
+<td><p>川筋豊</p></td>
+<td><p><a href="../Page/5月14日.md" title="wikilink">5月14日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>海からの呼び声</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アミノテツロー" title="wikilink">網野哲郎</a></p></td>
+<td><p>南波千浪</p></td>
+<td><p>新田敏夫</p></td>
+<td><p><a href="../Page/5月21日.md" title="wikilink">5月21日</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>うばわれたメロディー</p></td>
+<td><p>今泉俊昭<br />
+小出一巳</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/谷田部勝義" title="wikilink">森田風太</a></p></td>
+<td><p>金子隆悠季</p></td>
+<td><p>松田芳明</p></td>
+<td><p><a href="../Page/5月28日.md" title="wikilink">5月28日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>ライバルが泣いた</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/田部俊行" title="wikilink">田部俊行</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/葛岡博" title="wikilink">葛岡博</a></p></td>
+<td><p>本木久年</p></td>
+<td><p><a href="../Page/6月4日.md" title="wikilink">6月4日</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>あこがれの上級生</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/荒木芳久" title="wikilink">荒木芳久</a></p></td>
+<td><p>金子隆悠季</p></td>
+<td><p>川筋豊</p></td>
+<td><p><a href="../Page/6月11日.md" title="wikilink">6月11日</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>星物語り・小さな天文台</p></td>
+<td><p>城山昇</p></td>
+<td><p>葛岡博</p></td>
+<td><p>小園元祥</p></td>
+<td><p>新田敏夫</p></td>
+<td><p><a href="../Page/6月25日.md" title="wikilink">6月25日</a></p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>ロボット初恋修業</p></td>
+<td><p>高屋敷英夫</p></td>
+<td><p>望月敬一郎</p></td>
+<td><p>岩本保雄</p></td>
+<td><p>和泉絹子</p></td>
+<td><p><a href="../Page/7月2日.md" title="wikilink">7月2日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>パパは裏切り者じゃない</p></td>
+<td></td>
+<td><p>田部俊行</p></td>
+<td><p>有原誠治<br />
+岩本保雄</p></td>
+<td><p>川筋豊</p></td>
+<td><p><a href="../Page/7月16日.md" title="wikilink">7月16日</a></p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>異星人! その名はビジュール</p></td>
+<td></td>
+<td><p>高屋敷英夫</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中村隆太郎" title="wikilink">中村隆太郎</a></p></td>
+<td><p>和泉絹子</p></td>
+<td><p><a href="../Page/7月30日.md" title="wikilink">7月30日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>潜入! ビジュール・シップへ</p></td>
+<td></td>
+<td><p>町田吾作</p></td>
+<td><p>金子隆悠季</p></td>
+<td><p>川筋豊</p></td>
+<td><p><a href="../Page/8月6日.md" title="wikilink">8月6日</a></p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>ビジュール星人の秘密</p></td>
+<td><p>町田吾作</p></td>
+<td><p>有原誠治</p></td>
+<td><p>小野隆哉</p></td>
+<td><p>新田敏夫</p></td>
+<td><p><a href="../Page/8月13日.md" title="wikilink">8月13日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>急げ! 新・ワンダービート号</p></td>
+<td></td>
+<td><p>岩本保雄</p></td>
+<td><p>和泉絹子</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/8月20日" title="wikilink">8月20日</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p>応答せよ! ビジュラ姫</p></td>
+<td><p>田部俊行<br />
+小出一巳</p></td>
+<td><p>中村隆太郎</p></td>
+<td><p>金子隆悠季</p></td>
+<td><p>川筋豊</p></td>
+<td><p><a href="../Page/8月27日.md" title="wikilink">8月27日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p>必殺のWレーザー</p></td>
+<td><p>荒木芳久<br />
+今泉俊昭</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大賀俊二" title="wikilink">大賀俊二</a></p></td>
+<td><p>中山晴夫</p></td>
+<td><p>新田敏夫</p></td>
+<td><p><a href="../Page/9月10日.md" title="wikilink">9月10日</a></p></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p>宿命のめぐり会い</p></td>
+<td><p>城山昇</p></td>
+<td><p>中村隆太郎</p></td>
+<td><p>和泉絹子</p></td>
+<td><p><a href="../Page/9月24日.md" title="wikilink">9月24日</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
+<td><p>雷雨の中の訪問者</p></td>
+<td><p>荒木芳久<br />
+小出一巳</p></td>
+<td><p><a href="../Page/高橋資祐.md" title="wikilink">高橋資祐</a></p></td>
+<td><p>南波千浪</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/長崎重信" title="wikilink">長崎重信</a></p></td>
+<td><p><a href="../Page/10月8日.md" title="wikilink">10月8日</a></p></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+<td><p>標的（ターゲット）は黄金の右手</p></td>
+<td><p>高屋敷英夫</p></td>
+<td><p>吉田健次郎</p></td>
+<td><p>新田敏夫</p></td>
+<td><p><a href="../Page/10月22日.md" title="wikilink">10月22日</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>21</p></td>
+<td><p>嵐を呼ぶ新入隊員</p></td>
+<td><p>城山昇</p></td>
+<td><p>中村隆太郎</p></td>
+<td><p>和泉絹子</p></td>
+<td><p><a href="../Page/10月29日.md" title="wikilink">10月29日</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>22</p></td>
+<td><p>謎の移動実験基地</p></td>
+<td><p>田部俊行</p></td>
+<td><p>吉田健次郎</p></td>
+<td><p>岩本保雄</p></td>
+<td><p>長崎重信</p></td>
+<td><p><a href="../Page/11月5日.md" title="wikilink">11月5日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>23</p></td>
+<td><p>ビジュラ姫地上へ</p></td>
+<td><p><a href="../Page/奥田誠治_(アニメーション演出家).md" title="wikilink">奥田誠治</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/片渕須直" title="wikilink">片渕須直</a><br />
+中山晴夫</p></td>
+<td><p>小野隆哉<br />
+新田敏夫</p></td>
+<td><p><a href="../Page/11月12日.md" title="wikilink">11月12日</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>24</p></td>
+<td><p>解明されるか? 生命元素の謎</p></td>
+<td></td>
+<td><p>高屋敷英夫</p></td>
+<td><p>中村隆太郎</p></td>
+<td><p>和泉絹子</p></td>
+<td><p><a href="../Page/11月19日.md" title="wikilink">11月19日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>25</p></td>
+<td><p>海底基地の対決</p></td>
+<td><p>片渕須直</p></td>
+<td><p>片渕須直<br />
+中山晴夫</p></td>
+<td><p>小野隆哉</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>26</p></td>
+<td><p>永遠に輝け! 宇宙の彼方に</p></td>
+<td></td>
+<td><p>有原誠治</p></td>
+<td><p>岩本保雄</p></td>
+<td><p>和泉絹子</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 番組打ち切り
+
+TBSでの本放送は[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")が与えられていたが、「[連想ゲーム](../Page/連想ゲーム.md "wikilink")」や「[めぞん一刻](https://ja.wikipedia.org/wiki/めぞん一刻_\(アニメ\) "wikilink")」といった[裏番組](https://ja.wikipedia.org/wiki/裏番組 "wikilink")と競合することになり本作の[視聴率](../Page/視聴率.md "wikilink")が低迷した。そのため15話で出崎ら主要スタッフを入れ替え、16話からススムの頭身を上げ、新型のワンダービート号やアラマキ・テツヤの投入によるストーリーの複雑化などでテコ入れを図るも好転せず、9月になってTBSテレビ編成局が「同じ枠の後継番組の視聴率に悪い影響が出る」として**『打ち切り』**を提案。予定通り26話が完成しており全話放映の意向を持っていた[テルモ](https://ja.wikipedia.org/wiki/テルモ "wikilink")の了承を得て、10月に2話削減が正式決定した。
+
+これによって虫プロダクション側は急遽、第24話から26話を1話分に再編集した24話（テレビ版最終話）を完成させた。このテレビ版最終話と本来の最終話である26話とでは、結末や関係人物が大きく異なっている。手塚治虫作品としては「[手塚治虫のドン・ドラキュラ](https://ja.wikipedia.org/wiki/ドン・ドラキュラ "wikilink")」でも前例がある。
+
+広島（[RCC](../Page/中国放送.md "wikilink")）や中京広域圏（[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）で、プロ野球地元球団主催ゲーム（前者は[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")、後者は[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")）の[中継に差替えた際には](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")、土曜日の午後に代替放送を実施していた\[2\]。ちなみに、中継では19:30～20:00はそのままテルモがスポンサーになっていた。
+
+なお[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")・[南海ホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")・[近鉄バファローズの主催試合](../Page/大阪近鉄バファローズ.md "wikilink")\[3\]に差替えることがあった[毎日放送については](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、水曜日の阪神戦中継が原則として[朝日放送](../Page/朝日放送テレビ.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列）優先だったことや、ゴールデンタイムに[パシフィック・リーグ](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")の試合をローカル放送することが少なかったため、こうした事態は起こらなかった模様。
+
+## ビデオソフト・再放送
+
+制作されたにも関わらず本放送できなかった第24〜26話は放送終了後、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[パック・イン・ビデオ](https://ja.wikipedia.org/wiki/パック・イン・ビデオ "wikilink")から発売されたVHSビデオ（セル・レンタル兼用）の第5・6巻に初めて収録された。
+
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[ビームエンタテインメント](https://ja.wikipedia.org/wiki/ビームエンタテインメント "wikilink")（現・[ハピネット・ピクチャーズ](https://ja.wikipedia.org/wiki/ハピネット・ピクチャーズ "wikilink")）から発売した[LD](../Page/レーザーディスク.md "wikilink")「虫プロTVアニメ主題歌大全集」に本作のOP/ED計4パターンが収録され、部分的ではあるが初のディスクソフト化となった。1999年には同社からLD-BOXが発売されるも、[ライナーノーツ](https://ja.wikipedia.org/wiki/ライナーノーツ "wikilink")には意図的にスポンサー名（テルモ）を[伏せ字](https://ja.wikipedia.org/wiki/伏せ字 "wikilink")にした記述があった。
+
+放送終了から19年が経過した[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月25日](../Page/11月25日.md "wikilink")に[コロムビアミュージックエンタテインメントからDVD](../Page/日本コロムビア.md "wikilink")-BOXが発売。テルモの許諾により提供クレジット部分、第24〜26話（完全版）、放送時の再編集版第24話と特典映像（パイロット版・予告編など）も収録されたファン待望のコンプリート版となっている。この[DVD](../Page/DVD.md "wikilink")化は2001年に[手塚プロダクション](https://ja.wikipedia.org/wiki/手塚プロダクション "wikilink")と[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")（当時）・[虫プロダクション](https://ja.wikipedia.org/wiki/虫プロダクション "wikilink")と[日本コロムビア](../Page/日本コロムビア.md "wikilink")（当時）が合同発表したDVDシリーズ「[手塚治虫アニメワールド](https://ja.wikipedia.org/wiki/手塚治虫アニメワールド "wikilink")」の発売予定に当初から含まれていたが、実際の発売までに4年半近くかかってしまった。既に廃盤となっており入手困難となっている。
+
+CSでの再放送は2001年に[AT-X](../Page/アニメシアターX.md "wikilink")、2007年に[ホームドラマチャンネル](https://ja.wikipedia.org/wiki/ホームドラマチャンネル "wikilink")で行われている。2012年2月16日から[群馬テレビ](../Page/群馬テレビ.md "wikilink")にて地上波で初めて再放送され、虫プロダクションのホームページでも打ち切りの経緯と合わせて紹介されている。
+
+横浜の[放送ライブラリー](https://ja.wikipedia.org/wiki/放送ライブラリー "wikilink")では第1話とテレビ最終話が閲覧できる。
+
+[インターネットテレビ](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")では2004年より[エムティーアイ](https://ja.wikipedia.org/wiki/エムティーアイ "wikilink")のアニメBBで全話有料動画配信が開始(2008年3月までに終了)。2016年10月現在、DVDと同じ提供クレジットを含めた完全版が[Amazonビデオ](https://ja.wikipedia.org/wiki/Amazonビデオ "wikilink")と[ビデオマーケット](https://ja.wikipedia.org/wiki/ビデオマーケット "wikilink")（[エムティーアイ](https://ja.wikipedia.org/wiki/エムティーアイ "wikilink")の持分法適用会社）で有料動画配信が行われており、ビデオマーケットでは第1話が無料配信となっている。
+
+VHS・LD・アニメBB・再放送では本放送時の主題歌の後に流れる[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")（「テルモ ファンタジーランド」のハープ演奏の[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")を含む）のシーンをカットしている。
+
+[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")「瞳はコスモス」及び「ワンダービート」は長らくCD化されていなかったが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に[JVCエンタテインメント](https://ja.wikipedia.org/wiki/JVCエンタテインメント "wikilink")より発売される「[flying DOG](https://ja.wikipedia.org/wiki/フライングドッグ "wikilink") アニメコレクション テーマソング・アーカイブ 80's Part2」（2枚組、VTCL-60039〜40）のディスク2に初めて収録された。挿入歌（パイロット版エンディング）「100万分の1の世界」やサウンドトラックのCD化は未定となっている。
+
+なお、[燕姉妹によるビクタースタジオでの番組曲のレコーディング](https://ja.wikipedia.org/wiki/ザ・リリーズ "wikilink")（1985年8月）時、同じスタジオで収録していた[とんねるず](../Page/とんねるず.md "wikilink")の「[雨の西麻布](../Page/雨の西麻布.md "wikilink")」の歌詞に咄嗟の[インスピレーション](https://ja.wikipedia.org/wiki/インスピレーション "wikilink")を与えた逸話がある。
+
+## 関連項目
+
+  - [救命戦士ナノセイバー](https://ja.wikipedia.org/wiki/救命戦士ナノセイバー "wikilink")
+  - [クリックメディック](https://ja.wikipedia.org/wiki/クリックメディック "wikilink")
+
+## 脚注
+
+<references/>
+
+## 外部リンク
+
+  - [虫プロダクション作品紹介](http://www.mushi-pro.co.jp/2010/09/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB/)
+
+[Category:アニメ作品_わ](https://ja.wikipedia.org/wiki/Category:アニメ作品_わ "wikilink") [Category:1986年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1986年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:TBS系アニメ](https://ja.wikipedia.org/wiki/Category:TBS系アニメ "wikilink") [Category:東急エージェンシーのアニメ作品](https://ja.wikipedia.org/wiki/Category:東急エージェンシーのアニメ作品 "wikilink") [Category:手塚治虫のアニメ作品](https://ja.wikipedia.org/wiki/Category:手塚治虫のアニメ作品 "wikilink") [Category:人間の体内を舞台とした作品](https://ja.wikipedia.org/wiki/Category:人間の体内を舞台とした作品 "wikilink") [Category:人間の巨大化・縮小化を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:人間の巨大化・縮小化を題材としたアニメ作品 "wikilink") [Category:TBSの一社提供番組](https://ja.wikipedia.org/wiki/Category:TBSの一社提供番組 "wikilink")
+
+1.  放送当時[フジテレビ系列との](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")だった[テレビ山口](../Page/テレビ山口.md "wikilink")でも同時スポンサードネットされた。
+2.  この当時TBS系では、ゴールデンタイムで通常番組を野球中継に差し替えた際に振替放送をしないことが多かったが、連続もののドラマやアニメに関しては性質上振替放送をすることがあった。
+3.  [阪急ブレーブスの主催試合については](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")[関西テレビ](../Page/関西テレビ放送.md "wikilink")（フジテレビ系列）と[サンテレビ](../Page/サンテレビジョン.md "wikilink")（独立局）と[NHKの寡占に近かったため](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、毎日放送・朝日放送・[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ放送 "wikilink")（日本テレビ系列）はフジテレビ系列が野球中継を縮小した1961年を中心とした一部年度に散発的に放送した程度だった。

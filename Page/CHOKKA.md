@@ -1,0 +1,61 @@
+> この記事は[CHOKKA](https://ja.wikipedia.org/wiki/CHOKKA)から翻訳されています。
+
+
+**CHOKKA**（チョッカ）とは、破綻した[平成電電](https://ja.wikipedia.org/wiki/平成電電 "wikilink")が提供していた電話サービスの名称で、同社の登録商標（日本国第4819793号ほか全5件。ロゴは日本第4860699号ほか全4件）である。[NTTの](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")[ドライカッパ](https://ja.wikipedia.org/wiki/ドライカッパ "wikilink")を利用した一般家庭向けの大規模な[直収電話](https://ja.wikipedia.org/wiki/直収電話 "wikilink")サービスとしては、最も初期に開始されたものの一つである。旧名称は**平成電話**（へいせいでんわ）。名前の由来は直収電話の別名、直加入電話（**ちょっか**にゅうでんわ）から。
+
+## 沿革
+
+  - [2003年](../Page/2003年.md "wikilink")6月 - **平成電話**の[商標](../Page/商標.md "wikilink")でサービス開始
+  - [2004年](../Page/2004年.md "wikilink")6月 - サービス名を**CHOKKA**に変更
+  - [2004年](../Page/2004年.md "wikilink")10月 - CHOKKAサービスの買収交渉で提示した技術資料を流用して直収サービスを開始しようとしたとして、平成電電が日本テレコム（後の[ソフトバンクテレコム](../Page/ソフトバンクテレコム.md "wikilink")、現・[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")）、ソフトバンク（現・[ソフトバンクグループ](../Page/ソフトバンクグループ.md "wikilink")）を提訴
+
+<!-- end list -->
+
+  -
+    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月、平成電電側の敗訴に終わる
+
+<!-- end list -->
+
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月 - 平成電電、[民事再生法](../Page/民事再生法.md "wikilink")申請
+  - 2006年[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") -平成電電、日本テレコムに[電気通信事業](https://ja.wikipedia.org/wiki/電気通信事業 "wikilink")を譲渡
+
+<!-- end list -->
+
+  -
+    CHOKKAユーザのおとくライン（日本テレコムの直収電話サービス）への移行が進められる
+
+<!-- end list -->
+
+  - 2006年[10月31日](../Page/10月31日.md "wikilink") - ソフトバンクテレコム、CHOKKAサービス廃止
+
+## 概要と経緯
+
+NTTを含む固定電話に対しては国内一律で、当時のNTTの市内通話料金を下回る料金でサービスを提供した。また、定額料支払いにより平成電話利用者間の通話が無料になるオプションも用意されていた。開始当初は[IP電話](../Page/IP電話.md "wikilink")との誤認を避けるため、平成電電のホームページには「平成電電はIP電話ではありません」と表記していた。
+
+本サービスは日本国内での広範な直収電話サービスの嚆矢となるものであった。そのため、平成電電側・NTT側双方の対応に試行錯誤的な面があり（[ドライカッパ](https://ja.wikipedia.org/wiki/ドライカッパ "wikilink")の項を参照）、料金の安さでユーザの注目を集めたものの、申し込みから利用開始までの期間の長さ・回線の品質・サポートの問題等はインターネット上でも広く論議された。また[2004年](../Page/2004年.md "wikilink")10月には、電話番号の誤指定により[総務省](../Page/総務省.md "wikilink")から[行政指導](https://ja.wikipedia.org/wiki/行政指導 "wikilink")を受ける\[[http://internet.watch.impress.co.jp/cda/news/2004/10/29/5204.html\]など、運営にも問題を抱えていた](http://internet.watch.impress.co.jp/cda/news/2004/10/29/5204.html%5Dなど、運営にも問題を抱えていた)。
+
+CHOKKAへの改名後、主に法人ユーザーに対して、CHOKKAへの切替で休止状態になった[電話加入権](../Page/電話加入権.md "wikilink")の買取も行っていた。またこのころから[高橋克典](https://ja.wikipedia.org/wiki/高橋克典 "wikilink")をイメージキャラクターに起用していた。
+
+付加サービスとしては[着信課金のフリーチョッカ](../Page/フリーダイヤル.md "wikilink")、[ナビダイヤル](../Page/ナビダイヤル.md "wikilink")相当のナビチョッカがあった。番号はフリーチョッカが0120-997-xxx/0120-998-xxx/0800-170-xxxx、ナビチョッカが0570-300-xxxを割り当てられていた。ナビチョッカはCHOKKA加入者とNTTの固定電話以外からかける事はできなかった。また、「でんわ石火」の名称でADSLサービスも提供していた。
+
+その後、2004年末から2005年の間に日本テレコム（おとくライン）・[KDDI](../Page/KDDI.md "wikilink")（メタルプラス）が直収電話に参入し、平成電電は先行参入者の利益を享受できないまま破綻に至ることになった。2005年10月の民事再生手続申請時点での契約回線数は約14.5万回線で、採算ラインの100万回線には遠く及ばなかった\[1\]。
+
+## 意義
+
+電気通信企業を名乗る会社が高利回りをうたい文句に投資家から資金を集めた末に破綻したという点で、平成電電は[近未來通信](../Page/近未來通信.md "wikilink")や[ジャパンメディアネットワーク](../Page/ジャパンメディアネットワーク.md "wikilink")（JM-NET）、[MTCI](https://ja.wikipedia.org/wiki/MTCI "wikilink")などと対比される事がある（この問題については[平成電電](https://ja.wikipedia.org/wiki/平成電電 "wikilink")の項を参照のこと）。
+
+ただ、近未來通信やJM-NETがほとんど通信企業としての活動を行っていなかったほか、MTCIが単なる[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")に過ぎなかったのに対し、平成電電が（上記のように多々問題点が存在した状態ではあったものの）はじめて直収電話を全国的に展開したという点では日本の電気通信史に名を残したと言える。
+
+平成電電の撤退により、特に影響が大きかったのは無料プロバイダ業界である。無料アクセス回線が使えなくなり、次々とサービス廃止を余儀なくされた。一部は日本テレコム（現・[ソフトバンクテレコム](../Page/ソフトバンクテレコム.md "wikilink")）回線やKDDI回線に切り替えているが、携帯電話等で利用出来る無料プロバイダは著しく減少した。
+
+## 脚注
+
+## 外部リンク
+
+  - [平成電電、国内3分6.8円で通話できる電話サービス「平成電話」](https://internet.watch.impress.co.jp/www/article/2003/0402/hdd.htm)
+  - [平成電話、名称を「CHOKKA」に変更](https://news.mynavi.jp/news/2004/06/08/006.html)
+  - [平成電電の通信サービスの終了および代替サービスへの移行について](http://www.softbanktelecom.co.jp/release/2006/aug/0831/index.html)
+
+[Category:電話網](https://ja.wikipedia.org/wiki/Category:電話網 "wikilink") [Category:平成電電](https://ja.wikipedia.org/wiki/Category:平成電電 "wikilink")
+
+1.  [CHOKKAはわずか14万5000開通、破綻した平成電電が会見で発表](http://itpro.nikkeibp.co.jp/article/NEWS/20051003/222094/)日経コンピュータ2005年10月3日

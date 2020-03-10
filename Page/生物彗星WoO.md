@@ -1,0 +1,470 @@
+> この記事は[WoO](https://ja.wikipedia.org/wiki/WoO)から翻訳されています。
+
+
+『**生物彗星WoO**』（せいぶつすいせい ウー）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月9日](../Page/4月9日.md "wikilink")から[8月13日](../Page/8月13日.md "wikilink")まで[NHKデジタル衛星ハイビジョン](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")で放送された[特撮](../Page/特撮.md "wikilink")テレビ番組。全13話。
+
+## 概要
+
+本作は円谷プロにとって『[電光超人グリッドマン](https://ja.wikipedia.org/wiki/電光超人グリッドマン "wikilink")』以来となる[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")以外の特撮ヒーローテレビシリーズであり、巨大ヒーロー・怪獣作品としては、日本初のハイビジョン撮影を使用したテレビシリーズである。ただし、巨大ヒーローと怪獣が戦わない回が全13話中5話あり、作品全体の内容はヒーロー作品というより、「一人の少女が逆境の中で人との交わりを通じて精神的に強くなっていく」というジュブナイルSFとなっている\[1\]。
+
+また、合成やミニチュアを部分的に使用している作品はNHKでも過去にも存在しているが、全編通しての特撮作品としてはNHKでは初めてである\[2\]。当初NHK側はウルトラシリーズの新作を希望していたが、当時すでに『[ULTRA N PROJECT](https://ja.wikipedia.org/wiki/ULTRA_N_PROJECT "wikilink")』の企画が進行していたため現在の形となった。
+
+可愛いWoOのキャラクターに相反し、重苦しいドラマ展開や残虐描写などが多い作品でもある。一方で、民放ではなくNHKでの放送のため、玩具などの商品展開を気にせず作品作りに打ち込めたことが本作の番組製作における最大のメリットとなった。
+
+## 『WOO』
+
+原案となった『WOO』は、円谷英二と[金城哲夫](../Page/金城哲夫.md "wikilink")が円谷プロ最初のテレビドラマとして[フジテレビに持ちこんだ企画で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「ウルトラQ伝説／アスペクト刊」によると「WOO」の一番古い企画書は、昭和38年（1963年）春ごろにフジテレビに提出されたものであり、不定形の宇宙人が活躍するというもので、サンプルストーリー13本も制作されていたが\[3\]、予算や技術的な問題から中止となった。フジテレビに提出された「WOO」の企画書によると、物語は故郷を失った宇宙生物・WOOが、アンドロメダ星雲から宇宙を漂流して地球に漂着。ヌード・カメラマンの秋田譲二に助けられ、ともに不可解な事件を解決してゆくというものであった。設定では、WOOはゲル状の不定形生物で、通常は「眼」しか見えていないキャラクターとされている。この番組は「円谷空想科学映画劇場」というシリーズとされていて、30分、オールフィルムで合計39本（3クール）の制作で1クールごとに主人公が変わる設定になっていた。企画書によると第1クールの主人公がWOO、第2クールではラッパー、第3クールではスペースホースと1クールごと別の主人公が設定されている。「WOO」の制作中止が決定したのは、昭和39年（1964年）4月以降と考えられるとされている\[4\]\[5\]。
+
+「WOO」の企画書によると主要人物として、ヌードカメラマンの秋田譲二、その助手の団太郎、そして、彼らを取り巻くモデルたちが紹介されており、毎回グラマーなモデルが出演する設定になっていた。その中で実際に発表されたキャストは、番組のヒロイン（ドロシー役）となる予定だった浮須良美（うきす・よしみ）という女優だけである。彼女は、朝鮮戦争で死んだ米兵を父に持つ17才のハーフで、ファッションモデル出身の女優だった。「ウルトラマン創世記／小学館刊」によると「WOO」のキャストで決まっていたのは、主役の秋田譲二役の佐原健二だけだったと紹介されている。
+
+円谷プロは『WOO』による収益を見込んで、当時の世界に2台しかなかったアメリカ・オックスベリー社製の高性能光学撮影機「[オプチカルプリンター](https://ja.wikipedia.org/wiki/オプチカル・プリンター "wikilink")1200シリーズ」を企画段階で発注した。しかし企画の頓挫で支払いが不可能になったが既に輸送中のためキャンセルも出来ず、当時[TBSのディレクターだった](../Page/TBSテレビ.md "wikilink")[円谷一](../Page/円谷一.md "wikilink")を通じてTBSに購入を肩代わりしてもらった。TBSでは機材を活用するため円谷プロとの間で企画段階だったSF特撮シリーズ『**UNBALANCE**』の制作を決定、タイトルを『[ウルトラQ](../Page/ウルトラQ.md "wikilink")』に改めて1966年から放送し人気を博した。
+
+その後昭和40年（1965年）晩秋、TBSは、「ウルトラQ」の放映開始を直前に控えて、新たな企画を依頼した。その時、最初に提出された企画が、フジテレビで企画された「WOO」にトップ屋集団A.G.C（アート・グラフィック・センター）という組織を加えたTBS版の「WOO」だった。この時の資料として「設定とストーリー　WOO」という企画書が現存しており、書籍『ウルトラマン大鑑』（朝日ソノラマ刊）には、この企画書の全文及びTBS版「WOO」のサンプルストーリー「凍結アメーバー」の脚本の全文が掲載されている。
+
+『ウルトラマン』第30話に登場する[伝説怪獣ウーの名前の元にもなっている](../Page/ウー_\(ウルトラ怪獣\).md "wikilink")\[6\]。
+
+## ストーリー
+
+サッカー好きな女子中学生、神代アイはある日、彗星から落ちてきた不定形生物を見つけ、WoOと名づける。しかしWoOを捕らえるべく追いかけてくる防衛隊から、アイはWoOと共に逃げることになる。怪獣が現れた時にはWoOはアイ吉となって戦う。
+
+## WoO
+
+異星からやってきた生命体。卵の状態で地球に落下し、公園でアイに拾われた。
+
+変身能力をもち、アイ吉やリュックに変身する。
+
+また、触角を発光させることで、電気機器を触れずに操作したり、物を修復したりするなどの超能力が使える。しかし力を使い過ぎると化石状の姿に縮んでしまうがエネルギー源である水を得ると元に戻る。 地球落下以前の記憶は失われているようだ。
+
+デザインは原案の「目だけが見える巨大なアメーバのような生物」というコンセプトを元に、勾玉やオタマジャクシ、および『[ウルトラマン](../Page/ウルトラマン.md "wikilink")』に登場した[ガヴァドン](https://ja.wikipedia.org/wiki/ウルトラマンの登場怪獣#二次元怪獣_ガヴァドン "wikilink")（A）がモデルとなっている「アメーバ・コア」が細胞分裂して凄まじい熱を発して変身したものが巨大化したものが、徐々に冷めていったものや胸のコアが落ちて崩壊していく流れとなっており、『[ターミネーター2](https://ja.wikipedia.org/wiki/ターミネーター2 "wikilink")』のT-100をイメージしている\[7\]。その後、すべての形状を円や球状をベースにしたコア素材となり、下部も脚に変更された\[8\]。模様を増やして足を太くし、背中から尻尾にかけて緩やかな流れにしたものが最終決定稿となった\[9\]。背中の線は[貯金箱](https://ja.wikipedia.org/wiki/貯金箱 "wikilink")をイメージしている\[10\]。
+
+雛形を作る際にプロップを塗装したカラーバリエーションは、毎回のエンディングで使用されている\[11\]。
+
+  - 体長：20cm
+  - 体重：20kg
+
+### アイ吉
+
+WoOが怪獣と戦うために変身した巨人。小太郎がアイにプレゼントした自作のフィギュア「アイ吉」がモデル。胸部には「AI」が逆さに描かれている\[12\]。身軽でひょうきんな動きで怪獣と戦う。身体を丸めて高速回転しながら行う体当たりが必殺技。アイに教えられたサッカーの技術を活かして戦うことも。
+
+仮名では「ラッパーマン」という名称で、初期形態や最終形態も描かれていた\[13\]。
+
+当初は頭部がWoOの頭部をヘルメット状にしたもので、大きく変更して模様を変更したものが決定稿となった\[14\]。撮影用のスーツがフォームラバーのため、たくさん細かい模様を入れて継ぎ目をごまかしている\[15\]。当初は上半身から下半身にかけて青から紫のグラデーションにしていたが、現場で補修した際に「厳しい」という声があったため、三面図を描く際に青一色になった\[16\]。決定稿では描かれていないが、造形段階では頭部の側面が間延びするのを防ぐため、耳穴を付けている\[17\]。
+
+別案では、女性タイプやロボット系、気持ち悪い系も存在していた\[18\]。なお、アイ吉のフィギュアは[ミクロマンの男性素体をベースにパテを盛って作られている](../Page/ミクロマン200X.md "wikilink")\[19\]。
+
+  - 身長：38メートル
+  - 体重：5千トン
+
+<!-- end list -->
+
+  - 必殺技
+      - リバウンド・クラッシュ
+    <!-- end list -->
+      -
+        相手の力を利用して、頭から体当たりする。第3話で使用。
+    <!-- end list -->
+      - トルネード・キック
+    <!-- end list -->
+      -
+        体の回転でつむじ風を起こし、それにより浮き上がった車を敵に蹴り込む。第4話で使用。
+    <!-- end list -->
+      - スピニング・アタック（アイ吉バージョン）
+    <!-- end list -->
+      -
+        WoOも使用した高速回転のアイ吉バージョン。第3話・第4話で使用。
+    <!-- end list -->
+      - アイス・シュート
+    <!-- end list -->
+      -
+        ジュース缶の中の水を瞬時に氷結させて撃つ。第5話で使用
+    <!-- end list -->
+      - アイ吉拳
+    <!-- end list -->
+      -
+        全身にエネルギーをみなぎらせて放つパンチ。第10話で使用。
+    <!-- end list -->
+      - スピニング・アタック
+    <!-- end list -->
+      -
+        アイとともに放つ、スピニングアタックの強化版。第13話で使用してゲルノイドと化した永倉を倒した。
+
+## 登場人物
+
+  - 神代 アイ（くましろ アイ）
+    サッカー部に所属していた女子中学生で母親と二人暮し。スタンドプレーが原因で試合に負け、優勝を逃した事で部員達に疎まれ、レギュラーへの道を断たれた上にサッカー部を追放される。彗星が爆破した後、拾った卵からWoOが生まれたことで運命が左右されることになる。中学校が襲われた際、幼馴染であるマドカを眼前で失い、自身はWoOの力によりただ一人生き残った。その後、防衛隊に保護されるが、WoOの力で隊員達の会話を偶然聞いてしまい、WoOも自分も殺されると思い、逃亡生活が始まる。
+    小太郎に想いを寄せており両思いである。食べ物の好き嫌いが多く、特に野菜が大嫌いで野菜ジュースにさえあからさまな嫌悪を示すほど。
+  - 神代 清美（くましろ きよみ）
+    アイの母親で雑誌「ケミストリー」の副編集長をしているシングルマザー。ワーカホリックな一面があり、帰りは常に深夜。アイからの電話も常に留守電で、仕事関係の人間以外の電話に出る事は決して無い。
+  - 元木 小太郎（もとき こたろう）
+    アイの先輩で、高校中退のフリーター。作中ではコンビニでアルバイトをしている。特撮映画監督になるのが夢。フィギュアを作るのが得意で、アイにアイ吉をプレゼントした。アイのことが好きで、アイのためならどこまでも行くという情熱を持っているが、偶然に遭遇した永倉により怪獣化してしまう。
+  - 葛城 シオン（かつらぎ シオン）
+    防衛隊少尉。元は研究者だが、恋人の権田大尉が彗星の爆発に巻込まれ、その捜索のため情報管理室三課に加わった。最初はWoOは宇宙から来た凶悪生物だと思っていたが、権田に会ったというWoOを信じ、アイを守ることを決意。
+  - 山南 大輔（やまなみ だいすけ）
+    防衛隊情報管理室三課の指揮官でマドカの父親。アイを幼い時の頃から知っており、「おじさん」と呼び慕われていたが、一人娘であるマドカを失った事がきっかけとなり、仕事一筋の鬼軍人となった。妻に関しては作中で一切描写が無い。
+  - 桜庭 賢三（さくらば けんぞう）
+    情報管理室三課の一員。
+  - 雑崎 尚人（さいが なおと）
+    情報管理室三課の一員。
+  - 桐島 隆司（きりしま りゅうじ）
+    情報管理室三課の一員。WoO捕獲のみならずアイの抹殺までも辞さない防衛隊の命令に疑問を抱くようになる。
+  - 秋田 譲二（あきた じょうじ）
+    雑誌「ケミストリー」の記者。シオンとは旧知の仲でもあり、彼女の頼みでアイを守ることに協力するようになる。
+  - 権田 一郎（ごんだ いちろう）
+    防衛隊のパイロット。シオンの恋人で、秋田の大学の後輩。宇宙探査機「とらざめ」で彗星の調査に向い、爆発に巻込まれ行方不明となる。
+  - 永倉 泰三（ながくら たいぞう）
+    研究者でシオンの元上司。WoOに対して並々ならぬ執念を示し、新WoO細胞を開発した事で眠っていた野心が目覚め、小太郎を怪獣に変化させたり、自らを怪獣化したりする等して、一連の事件の元凶となった。
+  - ウエーバー参謀
+    SWORD（宇宙環境保全局、Space Wonder Observer Rhea Defenderの略）の参謀。日本を守ることを建前としながら、実は日本をWoO共々消滅させようと企んでいる、もうひとりの事件の元凶でもある。
+  - 山南 マドカ（やまなみ マドカ）
+    第1話に登場。山南大輔の一人娘でアイの幼馴染。サッカー部ではエース的存在。部員から「要らない」と蔑まれ、部を追放されたアイを最後まで庇った。アイの眼前でゲルネイクに捕食されてしまう。
+
+## 登場怪獣
+
+共通要素として不定形生物のため、丸い目を入れている\[20\]。
+
+  - ゲルネイク
+    第1～2話に登場。アメーバのような不定形の姿をしている。身体から無数の触手を伸ばしてアイの通う中学校の生徒を捕食したが、アイを守ろうと巨大化したWoOと交戦。触手で捕縛して取り込もうとするが、回転体当たりを受けてバラバラになった。
+      - 身長：48メートル　体重：1万1千トン
+      - 特別番組『トクサツ・ナイツ メトロン星人の怪獣大作戦』では名無しだった所を[メトロン星人](../Page/メトロン星人.md "wikilink")に名前を命名されている。意味はメトロン星の言葉で「邪悪な蛇」とのこと。同番組のテロップによる肩書きは「WoO星獣」。
+    デザイン画での名称は、「アメーバ」であった\[21\]。イメージソースはアメーバで、初稿から表面を変更して触手を増やしたものが決定稿となった\[22\]。円谷プロの1話怪獣は1本角というものに則って中央には1本触手を付けている\[23\]。
+  - ゲルローブ
+    第3話に登場。魚類に似た姿をしている。尖った手の先から触手を伸ばし、殴打する攻撃を多用した。口があるが、人間を捕食する時は触手の先端を開いてそこから体内に取り込む。初めてアイ吉に変身したWoOと戦い、回転体当たりで爆散した。
+      - 身長：53メートル　体重：1万2千トン
+    モチーフは魚類で、どろどろの粘膜質にするなど北浦監督のテイストを入れている\[24\]。腕には共通要素の丸い目を入れ、WoOに付いていた矢印風のトゲを背中に付けている\[25\]。
+  - ゲルベイロ
+    第4話に登場。昆虫に似た姿をしている。口から触手を伸ばし、クワガタに似た顎で獲物を噛み砕く。アイ吉の回転シュートで大量の自動車をぶつけられ、弱ったところに回転体当たりを受けて爆発した。
+      - 身長：54メートル　体重：1万3千トン
+    モチーフは昆虫で、ハサミの向きを横から縦に変更している\[26\]。
+  - ゲルバイル
+    第5話に登場。地下に潜伏していた生物彗星の欠片がWoOを取り込むために集結した怪獣。口から高熱火球を吐き、迎撃に出た防衛隊の戦車や戦闘機を次々に撃破した。アイ吉と交戦し、水を散弾状に打ち出すシュートで蜂の巣にされた。
+      - 身長：50メートル　体重：1万4千トン
+    モチーフは両生類で、初稿では触手だったものを手に変更したものが決定稿となった\[27\]。
+  - ゲルバイルMK
+    第10話に登場。WoO細胞を改造した新WoO細胞をその身に取り込んで怪獣細胞を操る力を持った永倉が、WoO抹殺のために小太郎を変化させた怪獣。語尾の"MK"とは小太郎のイニシャルである。アイ吉の渾身のパンチでバラバラになった。
+      - 身長：50メートル　体重：1万4千トン
+    ゲルバイルの初稿が基で、触手部分を新規造形している\[28\]。
+  - ゲルノイド
+    第12～13話に登場。永倉が新WoO細胞の力で怪獣細胞と一体化した怪獣。口から吐く火球と地面を踏み付けて発生させる衝撃波が武器。巨大な体躯を持つが、ホバリングで身軽に移動する。一度はアイ吉を体内に取り込むが、アイと一体化して脱出したアイ吉の回転体当たりで完全に滅んだ。
+      - 身長：60メートル　体重：2万トン
+      - 『円谷プロ全怪獣図鑑』では、新型WoO細胞を移植した永倉の名称を「**ゲル永倉**」と記載している\[29\]。
+    モチーフは貝などの海洋生物で、いくつかのカラーバリエーションの中から選ばれた\[30\]。
+
+## 登場兵器・メカニック
+
+  - とらざめ
+    第1話、第12話に登場した防衛隊の有人[宇宙探査機](https://ja.wikipedia.org/wiki/宇宙探査機 "wikilink")。航空機に近い形状を持つ一人乗りの[宇宙船](../Page/宇宙船.md "wikilink")で、機首下部に大型のミサイルを格納している。地球に接近するポルナレフ彗星（生物彗星）の調査の為に、権田大尉が搭乗して米国[アリゾナ](https://ja.wikipedia.org/wiki/アリゾナ "wikilink")基地から打ち上げられたが、原因不明の彗星の爆発に巻き込まれ、残骸の破片は東京都内に落下。権田も消息不明となった。
+    その後、第12話で彗星の爆発はとらざめが放ったミサイルによる物で、ウェーバーが彗星への攻撃命令を拒んだ権田からミサイルのコントロールを奪い、自らの名声の為に彗星への攻撃を強行していたことが明らかになった。
+  - [90式戦車](../Page/90式戦車.md "wikilink")・[F-1](../Page/F-1_\(航空機\).md "wikilink")
+    第5話に登場した防衛隊の兵器。双方ともに実在する[主力戦車](../Page/主力戦車.md "wikilink")と[支援戦闘機](../Page/支援戦闘機.md "wikilink")であり、ゲルバイル攻撃の為に出動したが、有効な打撃は与えられなかった。また、同時に登場した歩兵部隊は[マーベリックM88を使用している](https://ja.wikipedia.org/wiki/モスバーグM500#種類 "wikilink")。
+
+## スタッフ
+
+  - 原案：[円谷英二](../Page/円谷英二.md "wikilink")、[金城哲夫](../Page/金城哲夫.md "wikilink")
+  - 脚本：[江良至](https://ja.wikipedia.org/wiki/江良至 "wikilink")、[小林雄次](https://ja.wikipedia.org/wiki/小林雄次 "wikilink")、[岡野ゆうき](https://ja.wikipedia.org/wiki/岡野ゆうき "wikilink")、[北浦嗣巳](https://ja.wikipedia.org/wiki/北浦嗣巳 "wikilink")
+  - 演出・特撮演出：[大橋守](https://ja.wikipedia.org/wiki/大橋守 "wikilink")、北浦嗣巳、[川崎郷太](https://ja.wikipedia.org/wiki/川崎郷太 "wikilink")、[高野敏幸](https://ja.wikipedia.org/wiki/高野敏幸 "wikilink")
+  - 擬闘：[二家本辰巳](https://ja.wikipedia.org/wiki/二家本辰巳 "wikilink")
+  - 音楽：[ゲイリー芦屋](../Page/ゲイリー芦屋.md "wikilink")
+  - 共同制作：[NHKエンタープライズ](../Page/NHKエンタープライズ.md "wikilink")
+  - 制作・著作：[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")
+
+## キャスト
+
+  - 神代アイ：[谷村美月](https://ja.wikipedia.org/wiki/谷村美月 "wikilink")
+  - 神代清美：[とよた真帆](https://ja.wikipedia.org/wiki/とよた真帆 "wikilink")
+  - 葛城シオン：[黒谷友香](https://ja.wikipedia.org/wiki/黒谷友香 "wikilink")
+  - 桐島隆司：[山田純大](https://ja.wikipedia.org/wiki/山田純大 "wikilink")
+  - 桜庭賢三：[丸岡奨詞](https://ja.wikipedia.org/wiki/丸岡奨詞 "wikilink")
+  - 雑崎尚人：[永田恵悟](https://ja.wikipedia.org/wiki/永田恵悟 "wikilink")
+  - 秋田譲二：[豊原功補](https://ja.wikipedia.org/wiki/豊原功補 "wikilink")
+  - 権田一郎：[影丸茂樹](https://ja.wikipedia.org/wiki/影丸茂樹 "wikilink")
+  - 元木小太郎：[矢崎広](https://ja.wikipedia.org/wiki/矢崎広 "wikilink")
+  - ウエーバー参謀：[ラズ・ブレザー](https://ja.wikipedia.org/wiki/ラズ・ブレザー "wikilink")
+  - 永倉泰三：[塚本晋也](../Page/塚本晋也.md "wikilink")
+  - 山南大輔：[永島敏行](https://ja.wikipedia.org/wiki/永島敏行 "wikilink")
+
+### ゲスト
+
+  - 山南マドカ：[奈良真理子](https://ja.wikipedia.org/wiki/奈良真理子 "wikilink")（第1・12・13話）
+  - 中学生：[上村雪乃](https://ja.wikipedia.org/wiki/上村雪乃 "wikilink")、[椿直](../Page/椿直.md "wikilink")、[籏野彩香](https://ja.wikipedia.org/wiki/籏野彩香 "wikilink")、[渡辺彼野人](../Page/渡辺彼野人.md "wikilink")（隼人）（第1・13話）
+  - アナウンサー：[奏谷ひろみ](https://ja.wikipedia.org/wiki/奏谷ひろみ "wikilink")（第1・2話）
+  - 雑誌記者：[押田恵](https://ja.wikipedia.org/wiki/押田恵 "wikilink")（第2・5話）
+  - 研究員：[小瀬川理太](https://ja.wikipedia.org/wiki/小瀬川理太 "wikilink")、[本郷弦](https://ja.wikipedia.org/wiki/本郷弦 "wikilink")（第2・7話）
+  - コンビニ店長：[宮前利成](https://ja.wikipedia.org/wiki/宮前利成 "wikilink")（第2・8話）
+  - [江川央生](https://ja.wikipedia.org/wiki/江川央生 "wikilink")\[31\]（第3・4・9話）
+  - 課長：[六角精児](https://ja.wikipedia.org/wiki/六角精児 "wikilink")（第3・9話）
+  - 源さん：[綿引勝彦](../Page/綿引勝彦.md "wikilink")（第3話）
+  - ナナ：[佐藤正宏](https://ja.wikipedia.org/wiki/佐藤正宏 "wikilink")（第3話）
+  - ナナの娘：[岡元夕紀子](../Page/岡元夕紀子.md "wikilink")（第3話）
+  - 亀：[中山正幻](https://ja.wikipedia.org/wiki/中山正幻 "wikilink")（第3話）
+  - ばあちゃま：[青木和代](../Page/青木和代.md "wikilink")（第3話）
+  - ホームレス：[江藤漢斉](../Page/江藤漢斉.md "wikilink")、[須永千重](https://ja.wikipedia.org/wiki/須永千重 "wikilink")（第3話）
+  - 防衛隊隊員：[俊藤光利](https://ja.wikipedia.org/wiki/俊藤光利 "wikilink")（第4話）
+  - マロウ：[喜多嶋舞](https://ja.wikipedia.org/wiki/喜多嶋舞 "wikilink")（第4話）
+  - 成澤：[山崎裕太](https://ja.wikipedia.org/wiki/山崎裕太 "wikilink")（第4話）
+  - 刑事：[佐伯新](https://ja.wikipedia.org/wiki/佐伯新 "wikilink")（第4話）
+  - ヤクザ：[石井浩](https://ja.wikipedia.org/wiki/石井浩 "wikilink")、[津田好治](https://ja.wikipedia.org/wiki/津田好治 "wikilink")、[中山圭大](https://ja.wikipedia.org/wiki/中山圭大 "wikilink")（第4話）
+  - 近藤歩美：[原田舞美](../Page/原田舞美.md "wikilink")（第5話）
+  - 防衛隊隊員：[望月みさ](https://ja.wikipedia.org/wiki/望月みさ "wikilink")（第5話）
+  - 戦闘機整備士：[滝藤賢一](https://ja.wikipedia.org/wiki/滝藤賢一 "wikilink")（第5話）
+  - 警官：[河本タダオ](https://ja.wikipedia.org/wiki/河本タダオ "wikilink")、[竹中夏海](https://ja.wikipedia.org/wiki/竹中夏海 "wikilink")（第5話）
+  - 小銭拾いの男：[高野ちん太郎](../Page/高野ちん太郎.md "wikilink")（第5話）
+  - トラック運転手：[横溝たかゆき](https://ja.wikipedia.org/wiki/横溝たかゆき "wikilink")（第5話）
+  - 小学生：[村上想太](https://ja.wikipedia.org/wiki/村上想太 "wikilink")、[渡辺直樹](https://ja.wikipedia.org/wiki/渡辺直樹_\(俳優\) "wikilink")（第5話）
+  - [中川景四](https://ja.wikipedia.org/wiki/中川景四 "wikilink")（第5話）
+  - [中野智](https://ja.wikipedia.org/wiki/中野智 "wikilink")（第5話）
+  - 防衛隊隊員：[大滝明利](https://ja.wikipedia.org/wiki/大滝明利 "wikilink")（第6話）
+  - 豆：豆之助（犬）（第6話）
+  - 犬の飼い主：[木村剛](https://ja.wikipedia.org/wiki/木村剛_\(俳優\) "wikilink")（第6話）
+  - 女性：[高橋弥生](https://ja.wikipedia.org/wiki/高橋弥生 "wikilink")（第6話）
+  - 女の子：[岩田麻衣](../Page/岩田麻衣.md "wikilink")（第6話）
+  - 金髪の男：[関根裕介](../Page/関根裕介.md "wikilink")（第6話）
+  - 舟の持ち主：[蔵内秀樹](../Page/藏内秀樹.md "wikilink")（第6話）
+  - 酔っ払い：[三浦景虎](https://ja.wikipedia.org/wiki/三浦景虎 "wikilink")（第6話）
+  - ウエーバー参謀の側近：[田口主将](https://ja.wikipedia.org/wiki/田口主将 "wikilink")、[デルチャ・ミハエラ・ガブリエラ](https://ja.wikipedia.org/wiki/デルチャ・ミハエラ・ガブリエラ "wikilink")（マリア）（第7話）
+  - 図書館の女子高生：[赤坂さなえ](https://ja.wikipedia.org/wiki/さな "wikilink")、[長谷川桃](https://ja.wikipedia.org/wiki/長谷川桃 "wikilink")、[三好美優](https://ja.wikipedia.org/wiki/三好美優 "wikilink")（第7話）
+  - コンビニ前の学生：[篠原孝文](../Page/篠原孝文.md "wikilink")（第7話）
+  - 警備員：[永井浩介](https://ja.wikipedia.org/wiki/永井浩介 "wikilink")（第7・8話）
+  - [青山美帆](../Page/青山美帆.md "wikilink")（第7話）
+  - 聖子：[山田まりや](https://ja.wikipedia.org/wiki/山田まりや "wikilink")（第8話）
+  - 大家：[川俣しのぶ](https://ja.wikipedia.org/wiki/川俣しのぶ "wikilink")（第8話）
+  - アパート住人：[浜丘麻矢](https://ja.wikipedia.org/wiki/浜丘麻矢 "wikilink")（第8話）
+  - 夫婦：[吉成浩一](https://ja.wikipedia.org/wiki/吉成浩一 "wikilink")、[阿南敦子](https://ja.wikipedia.org/wiki/阿南敦子 "wikilink")（第8話）
+  - 浪人男：[武田秀臣](https://ja.wikipedia.org/wiki/武田秀臣 "wikilink")（第8話）
+  - 産婆：[井上裕季子](https://ja.wikipedia.org/wiki/井上裕季子 "wikilink")（第8話）
+  - 子供：[西尾昴也](https://ja.wikipedia.org/wiki/西尾昴也 "wikilink")（第8話）
+  - コンビニ店長の妻：[上村依子](../Page/上村依子.md "wikilink")（第8話）
+  - ケンちゃん：ミョンジュ（第8話）
+  - 小学生：[島綾佑](https://ja.wikipedia.org/wiki/島綾佑 "wikilink")、[清水響](https://ja.wikipedia.org/wiki/清水響 "wikilink")、[宮城孔明](https://ja.wikipedia.org/wiki/宮城孔明 "wikilink")（第9話）
+  - 被害者：[岡本さと子](https://ja.wikipedia.org/wiki/岡本さと子 "wikilink")、[高橋愛子](https://ja.wikipedia.org/wiki/高橋愛子 "wikilink")（第9話）
+  - 通りがかりの女：[落合ひとみ](https://ja.wikipedia.org/wiki/落合ひとみ "wikilink")（第9話）
+  - 菊田：[竹田高利](https://ja.wikipedia.org/wiki/コント山口君と竹田君 "wikilink")（第9・10話）
+  - 菊田勇太：[長島弘宜](https://ja.wikipedia.org/wiki/長島弘宜 "wikilink")（第9・10話）
+  - 自警団員：[中沢青六](../Page/中沢青六.md "wikilink")（イトウ）、[中嶋修](https://ja.wikipedia.org/wiki/中嶋修 "wikilink")（第9・10話）
+  - リポーター：[青山伊津美](https://ja.wikipedia.org/wiki/青山伊津美 "wikilink")、[川嵜美佳](https://ja.wikipedia.org/wiki/川嵜美佳 "wikilink")、[西山里佳](https://ja.wikipedia.org/wiki/西山里佳 "wikilink")（第9・10話）
+  - カップル：[市村直樹](../Page/市村直樹.md "wikilink")、[多田さやか](https://ja.wikipedia.org/wiki/多田さやか "wikilink")（第9・13話）
+  - [香月絢交](https://ja.wikipedia.org/wiki/香月絢交 "wikilink")（第9話）
+  - [野口佳穂](https://ja.wikipedia.org/wiki/野口佳穂 "wikilink")（第9話）
+
+### 声の出演
+
+  - WoO：[藤巻恵理子](https://ja.wikipedia.org/wiki/藤巻恵理子 "wikilink")
+  - アイ吉：[私市淳](https://ja.wikipedia.org/wiki/私市淳 "wikilink")
+  - ウエーバー参謀の側近：[鵜飼久美子](../Page/鵜飼久美子.md "wikilink")（第8話）
+  - ゲルノイド：[郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")（第12・13話）
+
+### スーツアクター
+
+  - アイ吉：[横尾和則](https://ja.wikipedia.org/wiki/横尾和則 "wikilink")\[32\]\[33\]
+  - 怪獣：[相馬絢也](https://ja.wikipedia.org/wiki/相馬絢也 "wikilink")\[34\]
+
+## 主題歌
+
+  - オープニングテーマ
+
+:;「Guardian Angel」
+
+  -
+
+      -
+        作詞：Babee 作曲：Franken 歌：[Splash Candy](https://ja.wikipedia.org/wiki/Splash_Candy "wikilink")
+
+  - エンディングテーマ
+
+:; 「傘はひとつで足りるのかな…」
+
+  -
+
+      -
+        作詞： 海老岡宏子 作曲：斉藤高広 歌：[ガールズ・オン・ザ・ラン](https://ja.wikipedia.org/wiki/ガールズ・オン・ザ・ラン "wikilink")
+
+## 放映リスト
+
+<table>
+<thead>
+<tr class="header">
+<th><p>放送日</p></th>
+<th><p>話数</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>登場怪獣</p></th>
+<th><p>脚本</p></th>
+<th><p>演出・特技監督</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>4月9日</p></td>
+<td><p>1</p></td>
+<td><p>あいつが宇宙から落ちてきた！</p></td>
+<td><p>ゲルネイク</p></td>
+<td><p>江良至</p></td>
+<td><p>大橋守<br />
+北浦嗣巳</p></td>
+</tr>
+<tr class="even">
+<td><p>4月16日</p></td>
+<td><p>2</p></td>
+<td><p>わたし殺される！</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月7日</p></td>
+<td><p>3</p></td>
+<td><p>ヒーロー？誕生</p></td>
+<td><p>ゲルローブ</p></td>
+<td><p>北浦嗣巳</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月14日</p></td>
+<td><p>4</p></td>
+<td><p>WoO、死なないで</p></td>
+<td><p>ゲルベイロ</p></td>
+<td><p>小林雄次</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月21日</p></td>
+<td><p>5</p></td>
+<td><p>迎撃命令</p></td>
+<td><p>ゲルバイル</p></td>
+<td><p>岡野勇気</p></td>
+<td><p>川崎郷太</p></td>
+</tr>
+<tr class="even">
+<td><p>6月11日</p></td>
+<td><p>6</p></td>
+<td><p>さよならWoO</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6月18日</p></td>
+<td><p>7</p></td>
+<td><p>新たなる恐怖</p></td>
+<td><p>江良至</p></td>
+<td><p>北浦嗣巳</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6月25日</p></td>
+<td><p>8</p></td>
+<td><p>わたしの居場所</p></td>
+<td><p>大橋守<br />
+北浦嗣巳</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月2日</p></td>
+<td><p>9</p></td>
+<td><p>追いつめられて</p></td>
+<td><p>江良至<br />
+北浦嗣巳</p></td>
+<td><p>北浦嗣巳</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月9日</p></td>
+<td><p>10</p></td>
+<td><p>ごめんね、小太郎</p></td>
+<td><p>ゲルバイルMK</p></td>
+<td><p>北浦嗣巳<br />
+高野敏幸</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月16日</p></td>
+<td><p>11</p></td>
+<td><p>ラブ･フォー･オール</p></td>
+<td><p>-</p></td>
+<td><p>江良至<br />
+小林雄次<br />
+岡野勇気<br />
+北浦嗣巳</p></td>
+<td><p>大橋守</p></td>
+</tr>
+<tr class="even">
+<td><p>7月23日</p></td>
+<td><p>12</p></td>
+<td><p>最後の闘い</p></td>
+<td><p>ゲルノイド</p></td>
+<td><p>小林雄次</p></td>
+<td><p>北浦嗣巳</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月13日</p></td>
+<td><p>13</p></td>
+<td><p>未来への絆</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+上記のほか、2006年8月7日より[BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")、同年[11月17日](../Page/11月17日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")まで[総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")（[ミッドナイトチャンネル](../Page/ミッドナイトチャンネル.md "wikilink")枠・金曜深夜1:10）で放映されていた。
+
+## DVD
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月27日](../Page/10月27日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")にかけて、6巻に分けられて[DVD](../Page/DVD.md "wikilink")が発売された。発売元は[NHKエンタープライズ](../Page/NHKエンタープライズ.md "wikilink")、販売元は[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")である。第1巻から第5巻は2話ずつ、第6巻は3話本編が収録されたほか、各巻20分から40分程度の映像特典が本編ディスクに収録されている。
+
+## 漫画
+
+[加々見絵里](../Page/加々見絵里.md "wikilink")による同名漫画が、[集英社](../Page/集英社.md "wikilink")の漫画雑誌『[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")』2006年9月号から2007年2月号まで連載された。[エブリデイ・マジック](https://ja.wikipedia.org/wiki/エブリデイ・マジック "wikilink")作品へ変更され、学校を中心とした普通の日常生活が描かれる。WoOのデザインやアイ、小太郎などの登場人物は一致するものの、設定は「アイの両親が健在」「小太郎が高校生」等、大きく異なる。いわゆる怪獣物の記号は全て廃されたため、アイ吉や怪獣、防衛隊の面々は登場しない。
+
+単行本が2007年3月に発売された。全1巻。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  -
+  -
+## 外部リンク
+
+  - [生物彗星ＷｏＯ - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010535_00000)
+  - [番組エピソード　CG技術＆特撮で映像化【SFドラマ特集】-NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=drama063)
+
+[Category:NHK_BShiの番組](https://ja.wikipedia.org/wiki/Category:NHK_BShiの番組 "wikilink") [Category:NHK_BSのテレビドラマ](https://ja.wikipedia.org/wiki/Category:NHK_BSのテレビドラマ "wikilink") [Category:NHKの特撮番組](https://ja.wikipedia.org/wiki/Category:NHKの特撮番組 "wikilink") [Category:怪獣を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:怪獣を題材としたテレビドラマ "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:円谷プロダクションのテレビドラマ](https://ja.wikipedia.org/wiki/Category:円谷プロダクションのテレビドラマ "wikilink") [Category:漫画作品_せ](https://ja.wikipedia.org/wiki/Category:漫画作品_せ "wikilink") [Category:りぼんの漫画作品](https://ja.wikipedia.org/wiki/Category:りぼんの漫画作品 "wikilink") [Category:巨大変身ヒーロー](https://ja.wikipedia.org/wiki/Category:巨大変身ヒーロー "wikilink")
+
+1.
+2.
+3.  「ウルトラマン大鑑／朝日ソノラマ刊」
+4.  「ウルトラQ伝説／アスペクト刊」
+5.  「ファンコレNo.2／朝日ソノラマ刊」
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31. 江川**史**生と誤記。
+32.
+33.
+34.

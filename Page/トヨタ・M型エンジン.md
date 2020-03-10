@@ -1,0 +1,352 @@
+> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+
+
+**トヨタ・M型エンジン**（トヨタ・Mがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")（1981年以前は[トヨタ自動車工業](https://ja.wikipedia.org/wiki/トヨタ自動車工業 "wikilink")）が1965年から1993年まで製造していた、同社を代表する[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")[クロスフロー](https://ja.wikipedia.org/wiki/クロスフロー "wikilink")[エンジン](../Page/内燃機関.md "wikilink")。代表的な搭載車は[クラウン](https://ja.wikipedia.org/wiki/トヨタ・クラウン "wikilink")、[2000GT](../Page/トヨタ・2000GT.md "wikilink")、[マークII](../Page/トヨタ・マークII.md "wikilink")、[セリカXX](https://ja.wikipedia.org/wiki/トヨタ・セリカXX "wikilink")、[スープラ](https://ja.wikipedia.org/wiki/トヨタ・スープラ "wikilink")、[ソアラ](https://ja.wikipedia.org/wiki/トヨタ・ソアラ "wikilink")。
+
+## 系譜
+
+  - [エンジン型式一覧の](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
+
+## 型式一覧
+
+| エンジン名   | 基本仕様        | 備考                                                                                                                                                                   |
+| ------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| M       | 2000cc SOHC | 標準型（1965年のS40系[クラウンが初搭載となる](https://ja.wikipedia.org/wiki/トヨタ・クラウン "wikilink")）                                                                                      |
+| M-B     | 2000cc SOHC | [SU](https://ja.wikipedia.org/wiki/スキナーズ・ユニオン "wikilink")[ツインキャブ](../Page/キャブレター.md "wikilink") [ハイオク仕様](../Page/高オクタン価ガソリン.md "wikilink")                           |
+| M-BR    | 2000cc SOHC | SUツインキャブ [レギュラー仕様](https://ja.wikipedia.org/wiki/レギュラーガソリン "wikilink")                                                                                               |
+| M-C     | 2000cc SOHC | 低圧縮型                                                                                                                                                                 |
+| M-D     | 2000cc SOHC | 2バレルツインキャブ -[トヨタ博物館](https://ja.wikipedia.org/wiki/トヨタ博物館 "wikilink")所蔵                                                                                              |
+| M-E     | 2000cc SOHC | EFI（シリーズ初の電子制御燃料噴射装置付き）-[トヨタ産業技術記念館](https://ja.wikipedia.org/wiki/トヨタ産業技術記念館 "wikilink") 2F 所蔵                                                                      |
+| M-U     | 2000cc SOHC | 51、53年排ガス対策車、[LPG仕様もあり](https://ja.wikipedia.org/wiki/LPG自動車 "wikilink")(M-PU)当初は「M-U LPG仕様」と呼ばれていた。                                                                 |
+| M-EU    | 2000cc SOHC | EFI 53年排ガス対策車 -トヨタ産業技術記念館 1F所蔵                                                                                                                                       |
+| M-TEU   | 2000cc SOHC | EFI [ターボ付き](../Page/ターボチャージャー.md "wikilink")。[ソアラ](https://ja.wikipedia.org/wiki/トヨタ・ソアラ "wikilink")、[セリカXX等に搭載](https://ja.wikipedia.org/wiki/トヨタ・セリカXX "wikilink") |
+| M-J     | 2000cc SOHC | 54年排ガス対策車 MS87,MS117（クラウン[バン](../Page/ライトバン.md "wikilink")）に搭載                                                                                                       |
+| M-P     | 2000cc SOHC | LPG 主にMS120/MS130系クラウンに搭載                                                                                                                                            |
+| 2M      | 2300cc SOHC | 2バレルシングルキャブレター 輸出用クラウン、コロナマークIIに搭載                                                                                                                                   |
+| 2M-B    | 2300cc SOHC | ソレックスツインチョーク3連キャブレター [北米輸出用](../Page/北アメリカ.md "wikilink")[2000GTに搭載](../Page/トヨタ・2000GT.md "wikilink")。製造は9基のみと云われているが、実際の車両の市販には至らなかった。                             |
+| 3M      | 2000cc DOHC | [2000GT専用しかし](../Page/トヨタ・2000GT.md "wikilink")2代目コロナマークⅡMX10.20系にマークⅡGTと言うグレードを設けて搭載計画があった。                                                                         |
+| 4M      | 2600cc SOHC | MS75クラウン等に搭載。トヨタのエンジン系列上は2Mの後継に位置付けられている。                                                                                                                            |
+| 4M-U    | 2600cc SOHC | 51年排ガス対策車。クラウン、[マークII](../Page/トヨタ・マークII.md "wikilink")、[セリカXXに搭載](https://ja.wikipedia.org/wiki/トヨタ・セリカXX "wikilink")                                               |
+| 4M-E    | 2600cc SOHC | EFI 輸出用                                                                                                                                                              |
+| 4M-EU   | 2600cc SOHC | EFI 53年排ガス対策車。クラウン、マークII、セリカXXに搭載                                                                                                                                    |
+| 5M      | 2800cc SOHC | 2バレルシングルキャブレター 一般国輸出仕様のクラウンに搭載                                                                                                                                       |
+| 5M-EU   | 2800cc SOHC | EFI 53年排ガス対策車。クラウン、マークII、セリカXXに搭載                                                                                                                                    |
+| 5M-GEU  | 2800cc DOHC | EFI 初代[ソアラが初搭載](https://ja.wikipedia.org/wiki/トヨタ・ソアラ "wikilink")                                                                                                    |
+| 6M-GEU  | 3000cc DOHC | EFI MS120系クラウン後期型に初搭載                                                                                                                                                |
+| 7M-GE   | 3000cc DOHC | EFI 1気筒あたり4バルブ化及び燃焼室形状がそれまでの多球形からペントルーフ燃焼室に変わる。                                                                                                                      |
+| 7M-GTEU | 3000cc DOHC | EFI ターボ付き M型エンジンの最終進化型                                                                                                                                               |
+
+## ボア×ストローク
+
+### M・3M
+
+  - 75.0mm×75.0mm
+
+### 2M
+
+  - 75.0mm×85.0mm
+
+### 4M
+
+  - 80.0mm×85.0mm
+
+### 5M
+
+  - 83.0mm×85.0mm
+
+### 6M・7M
+
+  - 83.0mm×91.0mm
+
+## 搭載車種詳細
+
+### M - 2000cc
+
+| M                                                                                                     |
+| ----------------------------------------------------------------------------------------------------- |
+| 登場年月                                                                                                  |
+| エンジン種別                                                                                                |
+| 冷却方式                                                                                                  |
+| シリンダー配置・数                                                                                             |
+| 弁形式                                                                                                   |
+| ボア×ストローク                                                                                              |
+| 排気量                                                                                                   |
+| 圧縮比                                                                                                   |
+| 馬力                                                                                                    |
+| トルク                                                                                                   |
+| 重量                                                                                                    |
+| この表は[自動車のスペック表テンプレートを使用しています](https://ja.wikipedia.org/wiki/Wikipedia:ウィキプロジェクト_自動車/スペック表 "wikilink") |
+|                                                                                                       |
+
+トヨタ初の[SOHC](../Page/SOHC.md "wikilink")エンジン
+
+  - （初）2代目[クラウン](https://ja.wikipedia.org/wiki/トヨタ・クラウン "wikilink")（MS40）
+
+### M 2000cc
+
+  - 1.988cc 圧縮比 8.8
+  - 77kW(105PS)/5,200rpm
+
+157Nm(16.0kg-m)/3,600rpm
+
+  - （初）2代目クラウン (MS40)
+
+### M-B - 2000cc
+
+  - 1.988cc 圧縮比 8.8
+  - 92kW(125PS)/5,800rpm 162Nm(16.5kg-m)/3,800rpm
+  - （初）2代目クラウンS（MS41S）
+  - 3代目クラウンS（MS50S)・ハードトップSL(MS51)
+  - 1.988cc 圧縮比 9.7（ハイオク仕様）
+  - 96kW(130PS)/6,000rpm 167Ｎm(17.0kg-m)/4,400rpm
+  - 4代目クラウンセダンSL（MS60）・ハードトップSL(MS70)
+
+### M-BR - 2000cc
+
+M-Bのレギュラーガソリン仕様
+
+  - 1.988cc 圧縮比 8.7
+  - 92kW(125PS)/6,000rpm 162Nm(16.5kg-m)/4,400rpm
+  - 4代目クラウンセダンSL（MS60）・ハードトップSL(MS70)
+
+### M-C - 2000cc
+
+  - 1.988cc 圧縮比 8.0 - 8.7
+  - 74kW(100PS)/5,200rpm 152Nm(15.5kg-m)/3,600rpm
+  - 85kW(115PS)/5,600rpm 162Nm(16.5kg-m)/3,800rpm
+  - 3代目クラウンオーナーデラックス（MS50B）・スタンダード（MS50）・ハードトップ(MS51)
+  - 5代目クラウン (MS80)
+
+### M-D - 2000cc
+
+  - 1.988cc 圧縮比 8.8 - 9.0
+  - 81kW(110PS)/5,600rpm 157Nm(16.0kg-m)/3,600rpm
+  - 85kW(115PS)/5,800rpm 157Nm(16.0kg-m)/3,600rpm
+
+M-Cのツインキャブレター仕様。
+
+  - 3代目クラウンスーパーデラックス（MS50F)
+  - 4代目クラウン (MS60G)
+
+### M-E - 2000cc
+
+[1973_Toyota_M-E_Type_engine_front.jpg](https://ja.wikipedia.org/wiki/File:1973_Toyota_M-E_Type_engine_front.jpg "fig:1973_Toyota_M-E_Type_engine_front.jpg")
+
+  - 1.988cc 圧縮比 8.7
+  - 99kW(135PS)/6,000rpm 172Nm(17.5kg-m)/4,400rpm
+
+電子[燃料噴射装置](../Page/燃料噴射装置.md "wikilink")（EFI）仕様
+
+  - 2代目マークII（MX10/20）
+  - 5代目クラウン (MS80)
+
+### M-U - 2000cc
+
+  - 1.988cc 圧縮比 8.6
+  - 81kW(110PS)/5,600rpm 157Nm(16.0kg-m)/3,800rpm
+
+昭和50年度排出ガス規制に対応するため触媒が組み合わされる。
+
+M-Eまでの形式から大幅なモデルチェンジが行なわれている。
+
+昭和51年排ガス規制対応用と昭和53年排ガス規制対応で形式名は変更されていないがキャブレター、カム、電気制御方式が異なり、内容的には別のエンジンである。
+
+  - 5代目クラウン（MS100系）
+  - 3代目マークII/初代チェイサー（MX30-昭和51年排ガス規制対応/MX40-昭和53年排ガス規制対応）
+
+### M-EU - 2000cc
+
+電子[燃料噴射装置](../Page/燃料噴射装置.md "wikilink")（EFI）仕様かつ昭和53年度排出ガス規制に対応するため触媒が組み合わされたもの。
+
+| M-EU                                                                                                  |
+| ----------------------------------------------------------------------------------------------------- |
+| 登場年月                                                                                                  |
+| エンジン種別                                                                                                |
+| 冷却方式                                                                                                  |
+| シリンダー配置・数                                                                                             |
+| 弁形式                                                                                                   |
+| ボア×ストローク                                                                                              |
+| 排気量                                                                                                   |
+| 圧縮比                                                                                                   |
+| 馬力                                                                                                    |
+| トルク                                                                                                   |
+| 重量                                                                                                    |
+| この表は[自動車のスペック表テンプレートを使用しています](https://ja.wikipedia.org/wiki/Wikipedia:ウィキプロジェクト_自動車/スペック表 "wikilink") |
+|                                                                                                       |
+
+53年排ガス対策車に採用
+
+  - 3代目マークII L/LG/LGツーリング/2000グランデ、初代チェイサー SXL/SGS/SGツーリング （MX40/41）
+  - 初代[セリカXX](https://ja.wikipedia.org/wiki/トヨタ・セリカXX "wikilink") 2000G 2000S 2000L（MA45）
+
+### M-TEU（M-TE） - 2000cc
+
+  - 1.988cc 圧縮比 7.6-8.0
+  - 107kW(145PS)/5,600rpm、211Nm(21.5kg・m)/3,000rpm （[インタークーラー](https://ja.wikipedia.org/wiki/インタークーラー "wikilink")なし）
+  - 118kW(160PS)/5,400rpm、230Nm(23.5kg・m)/3,000rpm （[水冷式インタークーラー](https://ja.wikipedia.org/wiki/水冷式インタークーラー "wikilink")付）
+
+トヨタ初の[ターボエンジン](../Page/ターボチャージャー.md "wikilink")
+
+  - (初)6代目クラウン 2000スーパーサルーンターボ (MS110)
+  - 初代ソアラ 2000VIIターボ 2000VRターボ 2.0ターボ (MZ10)
+  - 2代目セリカXX 2000Gターボ 2000Sターボ (MA60)
+  - 初代クレスタ 2000スーパールーセントターボ (MX51)
+  - 4代目マークII 2000グランデターボ 2000SGツーリングターボ (MX61)
+  - 2代目チェイサー 2000ターボ・アバンテ 2000ターボ・SGツーリング (MX61)
+  - 7代目クラウン 2000ターボ・スーパーエディション 2000ターボ・スーパーサルーンエクストラ(MS120)
+  - 2代目クレスタ 2000スーパールーセントターボ (MX71)
+  - 5代目マークII 2000グランデターボ (MX71)
+  - 3代目チェイサー 2000ターボ・アバンテ (MX71)
+
+### M-PU（M-P） - 2000cc
+
+  - 1988cc
+  - 70kW(95PS)/5,200rpm 147N・m(15.0kg・m)/3,000rpm <グロス値>
+  - 60kW(82PS)/4,800rpm 135N・m(13.8kg・m)/3,000rpm <ネット値>
+
+[LPGエンジン](https://ja.wikipedia.org/wiki/LPG自動車 "wikilink")
+
+  - [クラウンセダン](https://ja.wikipedia.org/wiki/トヨタ・クラウンセダン "wikilink")（1967-75年、1977-89年）
+  - [マークII](../Page/トヨタ・マークII.md "wikilink")（1978-79年：C-MX30）（1980-84年：E-MX60）
+
+### M-J - 2000cc
+
+  - 1.988cc 圧縮比 8.6
+  - 81kW(110PS)/5,600rpm 157Nm(16.0kg-m)/3,800rpm
+  - クラウンバン (MS117V)
+
+### 2M - 2300cc
+
+  - 2.253cc 圧縮比8.8
+  - 86kW(115PS)/5,200rpm 173Ｎｍ(17.6kg-m)/3,600rpm
+  - （初）[トヨタ・クラウン](https://ja.wikipedia.org/wiki/トヨタ・クラウン "wikilink")(MS45)輸出用
+  - [トヨタ・クラウン](https://ja.wikipedia.org/wiki/トヨタ・クラウン "wikilink")(MS55) 輸出用
+  - [トヨタ・クラウン](https://ja.wikipedia.org/wiki/トヨタ・クラウン "wikilink")(MS55E) トヨタパトロール (クラウンパトカー)
+  - [トヨタ・クラウン バン](https://ja.wikipedia.org/wiki/トヨタ・クラウン_バン "wikilink")(MS56VB) (クラウン救急車)
+  - コロナマークII（MX12/22) 輸出用
+
+本来は輸出用ではあるが日本国内ではクラウンの救急車およびパトカーに搭載されていた。救急車に関しては車重が約2トン近くあるメトロポリタン型救急車にはランドクルーザー用の3.9LのF型直列6気筒が搭載されていた。更にパトカーに関してはこの2M型が登場する前はほぼ全ての6気筒モデルに関してはメトロポリタン型救急車同様のエンジンが搭載されていた。なお救急車関連に関しての2M型搭載車はどちらか言えば救急車より血清や血液搬送車両に多く見られた。
+
+### 2M-B - 2300cc
+
+[Toyota_2000gt_2m_engine.jpg](https://ja.wikipedia.org/wiki/File:Toyota_2000gt_2m_engine.jpg "fig:Toyota_2000gt_2m_engine.jpg")
+
+  - 2.253cc 圧縮比9.0
+  - 103kW(140PS)/5,800rpm 201Nm(20.5kg-m)/3,800rpm
+  - （初）[トヨタ・2000GT](../Page/トヨタ・2000GT.md "wikilink")の2300ccエンジン搭載試作車（MF12L）
+  - 上記の2M型との共通部品はシリンダーブロック以外ほとんど共通部品がなく、シリンダーヘッド周り、カムシャフト、ピストン、コンロッド、クランク、クランクシャフト等は全てこのエンジンのための専用設計となる。開発の経緯については輸出先となる北米で3M型DOHCエンジンのメンテナンスが行き届かないのではないかと言う懸念があったため、ヤマハ発動機の提案で開発されたエンジンである。なおこのエンジンは当時全世界で車の排気ガスによる大気汚染問題、つまりマスキー法(排ガス規制)に対処するために排気側に2次エアー導入の配管を設けていた。このことについてはただ単に排気ガスに空気を混ぜて排気ガスの濃度を下げるためだけのものである。
+
+### 3M - 2000cc
+
+  - 1.988cc 圧縮比 8.4
+  - 111kW(150PS)/6,600rpm 177Nm(18.0kg-m)/5,000rpm
+
+トヨタ初の[DOHC](../Page/DOHC.md "wikilink")エンジン
+
+  - （初）[トヨタ・2000GT](../Page/トヨタ・2000GT.md "wikilink")(MF10)（MF10L）(MF10-C)
+
+### 4M - 2600cc
+
+  - 2.563cc 圧縮比 8.5
+  - 96kW(130PS)/5,200rpm 197Nm(20.0kg-m)/3,000rpm
+  - 4代目クラウン（MS65.75）
+
+下記のスペックは燃焼室形状が燃焼効率を高めるために半球形から多球形に変更された。
+
+  - 2.563cc 圧縮比 8.5
+  - 103kW(140PS)/5,400rpm 207Ｎm(21.0kg-m)/3,800rpm
+  - 4代目クラウン（MS65.75）
+
+なお1972年5月以降製造のM型系SOHC(2Lエンジン)も含めて燃焼室は全て多球形となる。
+
+### 4M-U - 2600cc
+
+  - 2.563cc 圧縮比 8.5
+  - 99kW(135PS)/5,400rpm 201Nm(20.5kg-m)/3,000rpm
+  - 3代目マークII 2600グランデ (MX33)
+
+### 4M-EU - 2600cc
+
+  - 2.563cc 圧縮比 8.5
+  - 103kW(140PS)/5,400rpm 211Nm(21.5kg-m)/3,000rpm
+  - 3代目マークII2600グランデ (MX43)
+  - 初代セリカXX 2600G (MA46)
+  - 初代スープラ
+
+### 5M - 2800cc
+
+  - 2,759cc
+  - 89.5kW(122PS)/5,000rpm 197Nm(20.0kg-m)/3,200rpm
+  - クラウン輸出仕様車（MS112、MS122、MS132）
+
+### 5M-EU - 2800cc
+
+  - 2,759cc 圧縮比 8.8
+  - 107kW(145PS)/5,000rpm 231Nm(23.5kg・m)/4,000rpm
+  - （初）クラウン 2800スーパーサルーン 2800ロイヤルサルーン (MS112)
+  - 初代セリカXX 2800G (MA56)
+  - 4代目マークII 2800グランデ (MX63)
+  - クラウンパトロールカー（MS122Z）
+
+### 5M-GEU - 2800cc
+
+  - 2.759cc 圧縮比 8.8-9.2
+  - 125kW(170PS)/5,600rpm 236Nm(24.0kg・m)/4,400rpm
+  - 129kW(175PS)/5,600rpm 240Nm(24.5kg・m)/4,400rpm
+
+日本初の2000ccオーバー、大排気量[DOHC](../Page/DOHC.md "wikilink")エンジン
+
+  - （初）初代[ソアラ](https://ja.wikipedia.org/wiki/トヨタ・ソアラ "wikilink") 2800GT 2800GTエクストラ 2800GTリミテッド(MZ11)
+  - 2代目スープラ・セリカXX 2800GT(MA61)
+  - 6代目クラウン 2800ロイヤルサルーン (MS112)
+  - 7代目クラウン 2800ロイヤルサルーン 2800ロイヤルサルーンG (MS123)
+  - 2,3代目 [クレシーダ](https://ja.wikipedia.org/wiki/トヨタ・クレシーダ "wikilink")
+
+### 6M-GEU - 3000cc
+
+  - 2.954cc 圧縮比 9.2
+  - 140kW(190PS)/5,600rpm 259Nm(26.5kg・m)/4,400rpm
+  - 7代目クラウン 3000ロイヤルサルーン ロイヤルサルーンG (MS125)
+  - 初代ソアラ 3.0GT 3.0GTリミテッド (MZ12)
+
+### 7M-GE - 3000cc
+
+  - 2954cc 圧縮比 9.2-9.8
+  - 140kW(190PS)/5,600rpm 255Nm(26.0kg・m)/3,600rpm（レギュラーガソリン）
+  - 147kW(200PS)/5,600rpm 265Nm(27.0kg・m)/3,600rpm（プレミアムガソリン）
+  - 8代目クラウン 3.0アスリートL 3.0ロイヤルサルーン 3.0ロイヤルサルーンG (MS135/137)
+  - MX83型マークIIBros.
+      - 6代目[マークII](../Page/トヨタ・マークII.md "wikilink") 3.0グランデG(MX83-A)
+      - 4代目[チェイサー](https://ja.wikipedia.org/wiki/トヨタ・チェイサー "wikilink") 3.0アバンテG (MX83-B)
+      - 3代目[クレスタ](https://ja.wikipedia.org/wiki/トヨタ・クレスタ "wikilink") 3.0スーパールーセントG (MX83-C)
+      - 4代目[クレシーダ](https://ja.wikipedia.org/wiki/トヨタ・クレシーダ "wikilink")(輸出仕様)
+  - 3代目[トヨタ・スープラ](https://ja.wikipedia.org/wiki/トヨタ・スープラ "wikilink") （MA70）※輸出用
+
+### 7M-GTEU（7M-GTE） - 3000cc
+
+[7mgte_mounted.jpg](https://ja.wikipedia.org/wiki/File:7mgte_mounted.jpg "fig:7mgte_mounted.jpg")
+
+  - 2.954cc 圧縮比 8.4
+  - 169kW(230PS)/5,600rpm 323Nm(33.0kg・m)/4,000rpm (レギュラーガソリン仕様)
+  - 177kW(240PS)/5,600rpm 343Nm(35.0kg・m)/3,200rpm ([ハイオク](https://ja.wikipedia.org/wiki/ハイオク "wikilink")仕様)
+  - 199kW(270PS)/5,600rpm 358Nm(36.5kg・m)/4,400rpm (スープラGTターボAのみ)
+  - 2代目[ソアラ](https://ja.wikipedia.org/wiki/トヨタ・ソアラ "wikilink") 3.0GT、3.0GTリミテッド、3.0GTエアロキャビン (MZ20/21)
+  - 3代目[スープラ](https://ja.wikipedia.org/wiki/トヨタ・スープラ "wikilink") 3.0GT、3.0GTリミテッド、3.0GTターボA（MA70）
+
+※最大出力、最大トルクの表記について。5M及び7M系はネット値での表記になります。なお他の形式はすべてグロス値表記となります。※M-PUについては両方表示されています。
+
+## 参考文献
+
+  - 『[CAR GRAPHIC別冊](https://ja.wikipedia.org/wiki/CAR_GRAPHIC "wikilink") 1980年の乗用車』
+  - 『トヨタのエンジンテクノロジー（トヨタ広報資料）』1989年3月発行　トヨタ自動車（株）広報部第2広報課
+
+## 関連項目
+
+  - [トヨタ・G型エンジン (2代目)](https://ja.wikipedia.org/wiki/トヨタ・G型エンジン_\(2代目\) "wikilink")
+  - [トヨタ・JZエンジン](https://ja.wikipedia.org/wiki/トヨタ・JZエンジン "wikilink")
+  - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")
+  - [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
+  - [トヨタのエンジン系列名](https://ja.wikipedia.org/wiki/トヨタのエンジン系列名 "wikilink")
+  - [トヨタのエンジン型式一覧](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")
+
+[Category:トヨタ自動車のエンジン](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のエンジン "wikilink")

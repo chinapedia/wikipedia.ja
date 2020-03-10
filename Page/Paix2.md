@@ -1,0 +1,112 @@
+> この記事は[Paix2](https://ja.wikipedia.org/wiki/Paix2)から翻訳されています。
+
+
+**Paix<sup>2</sup>**（**ペペ**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")[デュオである](https://ja.wikipedia.org/wiki/二人組 "wikilink")。バンド名の意味は[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で「[平和](../Page/平和.md "wikilink")」。
+
+[刑務所](https://ja.wikipedia.org/wiki/刑務所 "wikilink")などでの慰問活動を精力的に行っているため、「[受刑者](https://ja.wikipedia.org/wiki/受刑者 "wikilink")の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")」の愛称で呼ばれる。
+
+所属レコード会社は[日本コロムビア](../Page/日本コロムビア.md "wikilink")。
+
+## メンバー
+
+  - Manami（マナミ）
+    本名、北尾真奈美\[1\]。[2月7日](../Page/2月7日.md "wikilink")生まれ、[鳥取県](../Page/鳥取県.md "wikilink")[倉吉市](../Page/倉吉市.md "wikilink")出身\[2\]。デビュー前は[岡山大学固体地球研究センター技術補佐員だった](https://ja.wikipedia.org/wiki/岡山大学地球物質科学研究センター "wikilink")\[3\]。2014年より[保護司](https://ja.wikipedia.org/wiki/保護司 "wikilink")、2015年より矯正支援官。
+  - Megumi（メグミ）
+    本名、井勝めぐみ\[4\]。[10月5日](../Page/10月5日.md "wikilink")生まれ、鳥取県[琴浦町](https://ja.wikipedia.org/wiki/琴浦町 "wikilink")出身\[5\]。デビュー前はの[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink")だった\[6\]。2014年より[保護司](https://ja.wikipedia.org/wiki/保護司 "wikilink")、2015年より矯正支援官。
+
+## 略歴
+
+  - 1998年 - 日本縦断選抜歌謡祭の鳥取県大会で、2人が出会う。
+  - 2000年 - 「風のように春のように」で[インディーズ](../Page/インディーズ.md "wikilink")デビュー。
+  - 2000年 - 全国の刑務所や[少年院](../Page/少年院.md "wikilink")などでの公演「Prisonコンサート」を開始。
+  - 2001年-「風のように春のように」「元気だせよ」で日本コロムビアよりメジャーデビュー
+  - 2005年 - 「Prisonコンサート」の活動が評価され、[法務大臣](https://ja.wikipedia.org/wiki/法務大臣 "wikilink")の表彰を受ける。
+  - 2014年 - [法務省](../Page/法務省.md "wikilink")より[保護司](https://ja.wikipedia.org/wiki/保護司 "wikilink")に任命される\[7\]。
+  - 2015年 - 法務省より[矯正支援官](https://ja.wikipedia.org/wiki/矯正支援官 "wikilink")に任命される。
+  - 2016年 - 「Prisonコンサート」400回の功績に対し、三度目の法務大臣表彰「感謝状」を授与される。
+
+## Prisonコンサート
+
+活動の大きな特徴の一つが「Prisonコンサート」で、刑務所や少年院などの矯正施設で行う慰問活動である。開始のきっかけは、2000年に[一日署長](https://ja.wikipedia.org/wiki/一日署長 "wikilink")を務めた地元[鳥取県警](https://ja.wikipedia.org/wiki/鳥取県警 "wikilink")[倉吉警察署](https://ja.wikipedia.org/wiki/倉吉警察署 "wikilink")の勧めである\[8\]。
+
+ステージは主に、受刑者の心を動かすメッセージソングと、Megumiが看護師時代に患者の死に立ち会った際の語り等で構成され、受刑者たちを力づけると共に、命の尊さを訴えかける。受刑者の家族の苦悩やメッセージを読むこともある。
+
+刑務所ではその性格上、受刑者たちに許可されているのは拍手のみである。受刑者たちに挨拶の返事を求めたり、歌に合わせて拳を振り上げさせたりするたび、コンサート最中にその都度、会場の監視のために立ち会っている[刑務官](https://ja.wikipedia.org/wiki/刑務官 "wikilink")に許可を求めなければならない。[ボランティア](../Page/ボランティア.md "wikilink")の為お金にならないが、2人は「芸能界を引退するまでこの活動を続ける」と誓い合っている。その公演回数は2016年2月現在387回。刑務所・少年院での公演活動は原則として音響機材を積載した車でマネージャーと共に移動している。
+
+## 音楽
+
+特記のない限り日本コロムビアよりの発売。
+
+### シングル
+
+  - 風のように 春のように（2001年4月21日）
+  - 花天女（2004年5月19日）
+  - ずっとずっと（2006年4月26日）
+  - おかげさま（2008年6月18日）
+  - ともいき…未来へ（2010年10月20日)
+  - 日本酒で乾杯！～ふるさと鳥取ver.～（2018年10月1日）初の企画物楽曲として発表！11月27日にはカラオケ全国配信開始。（88エンタテインメント）
+
+### アルバム
+
+  - 逢えたらいいな（2005年10月19日）
+  - HANA 爛々と（2013年5月8日）
+  - しあわせ（2015年6月17日）
+
+### その他
+
+  - 限定版 天女の羽衣物語（2004年1月21日）
+  - [NHK ひとりでできるもん\! どこでもクッキング](../Page/ひとりでできるもん!.md "wikilink")（2004年7月21日） - エンディングテーマ曲「SAYいっぱいを、ありがとう」を収録したオムニバス盤。
+  - 第14回全国障がい者芸術・文化祭テーマソング「あなたと一緒に歌いたい」手話DVD発表（2014年7月12日 - 11月3日）
+
+## 書籍
+
+  - SAYいっぱいをありがとう～塀の中から響く歌声～（[実業之日本社](https://ja.wikipedia.org/wiki/実業之日本社 "wikilink")）
+  - 逢えたらいいな～プリズン・コンサート３００回達成への道のり～（[鹿砦社](../Page/鹿砦社.md "wikilink")）
+
+## 出演
+
+### ラジオ
+
+  - ぺぺの元気だせよ「ミュージックバード」全国50局ネットワーク
+  - 浄土宗の時間（[文化放送](../Page/文化放送.md "wikilink")）
+  - NHK「日曜バラエティー」他
+  - NHK「worldnews」
+  - NHK「きらめき歌謡ライブ」
+
+### テレビ
+
+  - NHK「歌謡コンサート」
+  - TBS「朝チャン」
+  - テレビ朝日「モーニングバード」他多数の番組に出演。
+
+## メディア掲載
+
+  - ワシントンポスト誌
+  - AFP通信
+
+## 脚注
+
+## 外部リンク
+
+  - [Paix<sup>2</sup> Official Website](http://www.paix2.com/)
+  - [日本コロムビアによるオフィシャルサイト](http://columbia.jp/artist-info/paix2/)
+  - [Paix<sup>2</sup>（ペペ）のブログ](http://ameblo.jp/paix2/)
+
+<!-- end list -->
+
+  - [Megumi（めぐみ）オフィシャルブログ～Paix2（ぺぺ）official blog of Megumi～Powered by Ameba:](http://ameblo.jp/paix2-megumi/)(2008年-)
+
+  -
+  - [Manamiオフィシャルブログ「Paix2 official blog of Manami」Powered by Ameba:](http://ameblo.jp/paix2-manami/)(2008年-)
+
+  -
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:鳥取県出身の人物](https://ja.wikipedia.org/wiki/Category:鳥取県出身の人物 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.  [刑務所のアイドル、保護司に…「出所後も応援」](http://www.yomiuri.co.jp/national/20140902-OYT1T50096.html)YOMIURI ONLINE 2014年09月03日 08時43分
+8.  [Paix2 “塀の中”の歌姫 塀の中のアイドル](http://business.nikkeibp.co.jp/article/report/20150604/283902/) 日経ビジネスオンライン 2015年6月6日

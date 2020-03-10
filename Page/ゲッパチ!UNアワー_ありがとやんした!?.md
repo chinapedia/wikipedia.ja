@@ -1,0 +1,103 @@
+> この記事は[!UN !\?](https://ja.wikipedia.org/wiki/!UN_!\?)から翻訳されています。
+
+
+『**ゲッパチ\!UNアワー ありがとやんした\!?**』（ゲッパチ ウンナンアワー ありがとやんした）は、[1994年](../Page/1994年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")から同年[9月12日](../Page/9月12日.md "wikilink")まで[フジテレビ系で放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週月曜 20:00 - 20:54 ([JST](../Page/日本標準時.md "wikilink")) 。
+
+## 番組概要
+
+人気番組だった『[ウッチャンナンチャンのやるならやらねば\!](https://ja.wikipedia.org/wiki/ウッチャンナンチャンのやるならやらねば! "wikilink")』が事故で打ち切られてから久々にスタートした[ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。スタッフは『やるやら』と同様に「吉田班」が参加。番組タイトルの「ありがとやんした」は、[マセキ芸能社](../Page/マセキ芸能社.md "wikilink")社長の口癖に由来する。
+
+番組開始当初は『[欽ドン\!](https://ja.wikipedia.org/wiki/欽ドン! "wikilink")』のような投稿ネタを紹介する内容だったが、この路線はすぐに変更された。また、前期では録画放送だったが、後期では[コント](../Page/コント.md "wikilink")や企画が大半を占めるようになり、スタジオから[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")することもあった。最終回では、ショートコントライブが行われた。
+
+また、番組のオフレコ時に[勝俣州和](../Page/勝俣州和.md "wikilink")が南原の出身地である[香川県](../Page/香川県.md "wikilink")を扱き下ろしたことで南原と小競り合いになってしまい、その後しばらく番組内で勝俣が「うどんと野球しかない」「[四国](../Page/四国.md "wikilink")四県の中で唯一、最後まで名前が出てこない」などと香川県を散々馬鹿にして南原を怒らせ、さらには[ヒロミ](../Page/ヒロミ.md "wikilink")や[松崎しげる](https://ja.wikipedia.org/wiki/松崎しげる "wikilink")などの芸能人までも巻き込んだ挙句、しまいには勝俣が南原の実家まで押しけるという形で、香川県を世間にアピールする企画が展開されたことがある（後の番組における南原と勝俣の関係から考えても、最初の小競り合いから全てがこの企画のために仕込まれたネタであったと思われる）。
+
+## コーナー
+
+番組内容は前期と後期で大きく異なり、前期は視聴者からの投稿ネタを軸にしたコーナーが中心で各コーナーの最優秀作品には「やんした賞」として賞金1万円と、番組特製のTシャツがプレゼントされ、番組の最後には、さらにその「やんした賞」の中から最優秀作品を決定。「やんした大賞」として賞金3万円と番組特製のグッズが「やんした賞」に追加してプレゼントされた。後期はコント（やるやら時代の焼き増しが大半）とロケ企画を中心とした内容となった。
+
+### 前期の主なコーナー
+
+  - ジェフからの返事
+    視聴者からの有名人への質問ハガキを読み、その答えをウンナンがものまねで演じる。
+  - 世紀末ニュース→世紀末ニュースDX オトせるモンならオトしてごらん\!\!
+    現在起こっているニュースが1年後、世紀末にはどうなっているかを3段オチでボケるコーナー。当初内村が毎週1本ずつ自分でネタを投稿して自分で紹介しており（その際の住所は自身の出身地である[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")[人吉市](../Page/人吉市.md "wikilink")）、内村の名前が出るたびに南原が呆れるのがお約束だった。
+    現役アナウンサーの近藤以外がニュースを読み上げる際にやたらと噛んでネタを台無しにしてしまうことが多く、ついにはウンナンの師匠である[内海好江](https://ja.wikipedia.org/wiki/内海好江 "wikilink")をはじめ3人の審査員を置いたうえ特設セットを組んで、噛んだ場合は真下の氷水プールへ突き落すという、最初とは趣旨が全然異なる大仕掛けのコーナーになってしまった。
+  - アキラの社長\!いいもんもってんね
+    南原粉する大物俳優「中王彬」と内村アナウンサーが社長さんのお宅を訪問するコーナー、南原に内緒で本物の[中尾彬](../Page/中尾彬.md "wikilink")が登場した事もある。このコーナーを機に中尾がバラエティ進出をする切っ掛けになり、一気にバラエティ番組の常連となった。
+  - 私が知ってるあそこの話
+    視聴者が実態に体験した面白いエピソードをウンナン、バカルディ、ホンジャマカ、が再現コントにして紹介するコーナー。
+  - あー\!\!のコーナー
+    あっーの後に続く面白いコメントを募集しコント形式で紹介するコーナー。
+  - 本気と書いてマジと読む\!\!
+    ○○と書いて××と読むという形式で面白い回答を募集し紹介するコーナー。
+  - アイドル戦士チバムーン
+    『[美少女戦士セーラームーン](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン "wikilink")』のパロディだが、その内容はチバムーン（千葉麗子）が先輩セーラー戦士ハネムーン（内村光良）から決めポーズの特訓を受けさせられるというもの。本家の原作者の[武内直子](../Page/武内直子.md "wikilink")と[放送局と](../Page/テレビ朝日.md "wikilink")[東映動画に許可無く無断でパロディ化した為にクレームが付いた為か](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")\[1\]、5回で打ち切られた。[原久美子](../Page/原久美子.md "wikilink")（クミムーン）と当時まだ無名だった[光浦靖子](https://ja.wikipedia.org/wiki/光浦靖子 "wikilink")（ヤスムーン）がこのコントのみレギュラー出演。
+  - LIGHT HEAD
+    当時深夜に放送されていたドラマ『[NIGHT HEAD](https://ja.wikipedia.org/wiki/NIGHT_HEAD "wikilink")』のパロディ。
+
+### 後期の主なコーナー
+
+  - UN'z STORY
+    自称UNの友達の松木隆（南原清隆）と稲田研二（内村光良）の2人組デュオUN'z（アンズ）の上京からデビューを追っていくコーナー。なお、UN'zは[B'z](../Page/B'z.md "wikilink")と[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")のパロディを掛け合わせたキャラである。実際にUN'zとしてCDを発売したほか、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』にも出演した。
+  - 南原（みなみはら）パンツ郎のパンツ大作戦
+    初出は、『やるならやらねば』のコント。下着を履いたまま競泳パンツに履き替えることで、小学校の水泳授業の際に小学生により広く行われていた。これを南原が、いかにスムーズに履き替えられるかにチャレンジしていた。生放送の際もこれにチャレンジしたが失敗し、南原の睾丸を露出してしまうハプニングが起きた（カメラワークの巧みな切り替えによって映ってはいない）。
+  - 内村対南原 男の真剣勝負
+    内村・アマチュア監督時代の自作映画フィルムと南原・落研時代の羽織袴をかけて最初の勝負をするが、南原が敗北して羽織袴が没収された。南原は『[笑っていいとも\!](https://ja.wikipedia.org/wiki/笑っていいとも! "wikilink")』に飛び入り出演するなどして消えた羽織袴の捜査を一般依頼するが、見つからずじまい。
+    内村に一回でも勝ちたい南原は自分の時計をかけて再勝負を挑む。引き分けとなったことから、内村のフィルム同様に没収されてしまった（番組はUFOキャッチャーの景品にして最後のチャンスを与えるがどちらもタイムオーバーで没収された）。
+
+<!-- end list -->
+
+  - 最終回ウッチャンがどぅしてもやりたかったこと
+    おバカ王子チムラン（内村）が巻き起こすドタバタコントに当時売り出し中だった[吉野公佳](https://ja.wikipedia.org/wiki/吉野公佳 "wikilink")も出演している。『やるならやらねば』のコント、『コケる男』のリメイク。
+
+## 出演者
+
+  - [ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")（[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink") [南原清隆](../Page/南原清隆.md "wikilink")）**MC**
+  - [ホンジャマカ](../Page/ホンジャマカ.md "wikilink")
+  - [バカルディ](../Page/さまぁ〜ず.md "wikilink")
+  - [フォークダンスDE成子坂](https://ja.wikipedia.org/wiki/フォークダンスDE成子坂 "wikilink")
+  - [勝俣州和](../Page/勝俣州和.md "wikilink")
+  - [神田利則](https://ja.wikipedia.org/wiki/神田利則 "wikilink")
+  - [中尾彬](../Page/中尾彬.md "wikilink")
+  - [片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")
+  - [高橋里華](https://ja.wikipedia.org/wiki/高橋里華 "wikilink")
+  - [千葉麗子](https://ja.wikipedia.org/wiki/千葉麗子 "wikilink")
+  - [沖本富美代](https://ja.wikipedia.org/wiki/沖本富美代 "wikilink")
+  - [鈴木聖子](https://ja.wikipedia.org/wiki/鈴木聖子 "wikilink")
+  - [吉原貴和子](https://ja.wikipedia.org/wiki/吉原貴和子 "wikilink")
+  - [牧原俊幸](../Page/牧原俊幸.md "wikilink")（フジテレビ[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
+  - [山中秀樹](../Page/山中秀樹.md "wikilink")（当時フジテレビアナウンサー）
+  - [近藤サト](../Page/近藤サト.md "wikilink")（当時フジテレビアナウンサー）
+
+## スタッフ
+
+  - 構成：[廣岡豊](https://ja.wikipedia.org/wiki/廣岡豊 "wikilink")、[清水東](https://ja.wikipedia.org/wiki/清水東 "wikilink")、[城戸口寛](https://ja.wikipedia.org/wiki/城戸口寛 "wikilink")、[舘川範雄](../Page/舘川範雄.md "wikilink")、[内村宏幸](../Page/内村宏幸.md "wikilink")、[伊藤正宏](https://ja.wikipedia.org/wiki/伊藤正宏 "wikilink")・[川野孝弘](https://ja.wikipedia.org/wiki/川野孝弘 "wikilink")、[高橋裕幸](../Page/元祖爆笑王.md "wikilink")、[白崎和彦](https://ja.wikipedia.org/wiki/白崎和彦 "wikilink")、[鈴木淳](https://ja.wikipedia.org/wiki/鈴木工務店_\(放送作家\) "wikilink")、[野呂映志郎](https://ja.wikipedia.org/wiki/野呂エイシロウ "wikilink")、[渡辺真也](https://ja.wikipedia.org/wiki/渡辺真也_\(放送作家\) "wikilink") / [内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")、[南原清隆](../Page/南原清隆.md "wikilink")
+  - 美術制作：石鍋伸一朗
+  - デザイン：石森慎司
+  - 美術進行：伊藤則緒、石川利久
+
+<!-- end list -->
+
+  - 音響効果：[志田博英](https://ja.wikipedia.org/wiki/志田博英 "wikilink")、笠松広司（[O.C.B](https://ja.wikipedia.org/wiki/OCBプロ "wikilink")）
+  - 編集：二宮嘉郎・林雅之・飯星岳（[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")）、中根敏晶（[パッチワーク](../Page/パッチワーク_\(ポストプロダクション\).md "wikilink")）
+  - MA：円城寺暁（IMAGICA）
+  - 音楽：[羽毛田丈史](https://ja.wikipedia.org/wiki/羽毛田丈史 "wikilink")
+  - スキャニメイト：後藤和夫（IMAGICA）
+  - ペイント：菊池大介（IMAGICA）
+  - TK：山口美香、石原由季
+  - 技術協力：[ニユーテレス](https://ja.wikipedia.org/wiki/ニユーテレス "wikilink")
+  - 制作協力：[マセキ芸能社](../Page/マセキ芸能社.md "wikilink")
+  - ディレクター：[永峰明](https://ja.wikipedia.org/wiki/永峰明 "wikilink")、[片岡飛鳥](https://ja.wikipedia.org/wiki/片岡飛鳥 "wikilink")、[佐久間茂](https://ja.wikipedia.org/wiki/佐久間茂 "wikilink")、北村要
+  - プロデューサー：[吉田正樹](https://ja.wikipedia.org/wiki/吉田正樹 "wikilink")
+  - 制作：フジテレビ第二制作部（現バラエティ制作センター）
+  - 制作著作：[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
+
+## 主題歌
+
+  - 「風を受け走る君には怖いものは何もない」UN'z
+
+## 脚注
+
+[Category:1994年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1994年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:ウッチャンナンチャン](https://ja.wikipedia.org/wiki/Category:ウッチャンナンチャン "wikilink")
+
+1.  同じフジテレビで放送されていた「とんねるずのみなさんのおかげです」のコーナーであった「[仮面ノリダー](../Page/仮面ノリダー.md "wikilink")」の場合は、本家『仮面ライダーシリーズ』の原作者である[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")（[石森プロ](https://ja.wikipedia.org/wiki/石森プロ "wikilink")）や、制作会社の[東映](../Page/東映.md "wikilink")、および製作局である[毎日放送に正式な承諾を取らず](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、無断でパロディ化したため、本家側から抗議を受けた挙句、続編の『[仮面ノリダーV2](../Page/仮面ノリダーV2.md "wikilink")』も含め作品のソフト化を一切禁じられた。

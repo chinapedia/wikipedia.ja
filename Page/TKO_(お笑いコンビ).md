@@ -1,0 +1,255 @@
+> この記事は[TKO \(\)](https://ja.wikipedia.org/wiki/TKO_\(\))から翻訳されています。
+
+
+**TKO**（ティーケーオー）は[松竹芸能](../Page/松竹芸能.md "wikilink")所属の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")である。[大阪府](../Page/大阪府.md "wikilink")出身。
+
+## メンバー
+
+  - 木本 武宏（きもと たけひろ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[5月6日](../Page/5月6日.md "wikilink") - ）
+
+<!-- end list -->
+
+  - 大阪府大東市出身、A型。ツッコミ担当。
+  - 大阪府立大東高等学校（現・[大阪府立緑風冠高等学校](../Page/大阪府立緑風冠高等学校.md "wikilink")）卒。
+  - [フィリップス大学](../Page/フィリップス大学.md "wikilink")日本校[中退](https://ja.wikipedia.org/wiki/中退 "wikilink")。
+  - 身長178cm、体重73kg、3サイズ：B97 W88 H96、靴サイズ：27.0cm
+  - 趣味・特技：釣り・サッカー・木工・PC映像制作
+  - 好物：[サンマルクカフェ](https://ja.wikipedia.org/wiki/サンマルクカフェ "wikilink")のチョコクロ
+  - 既婚者である。
+  - DA-DA植村とのユニット「ジョンメロン」としても活動する。
+  - [有吉弘行](https://ja.wikipedia.org/wiki/有吉弘行 "wikilink")から付けられたあだ名は、「**浪人生**」。
+  - 2005年頃から禁煙しているが、その理由は「タバコとコーヒーが大好きなせいで息がすこぶる臭かった中学の担任K先生みたいになりたくなかったから」という\[1\]。
+  - [2003年](../Page/2003年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")に[阪神百貨店](../Page/阪神百貨店.md "wikilink")前で[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")優勝記念セールに一番乗りしていたことが判明。18年ぶりリーグ制覇した前日夕方から並んでおり、一番乗りであった。関西ではマスコミ各社にタレントとして紹介されたが、当時は全国的にはまだ無名であったため、全国ニュースでは一般人扱いされていた。
+  - 実家は自動車整備＆ダイハツ車販売代理店（木本自動車・ダイハツ住道）で、木本の父親が社長を、叔父が専務を務めている。弟は以前の勤めを辞め現在実家にて整備見習い中である。
+  - 大阪のラジオ番組に[及川奈央](https://ja.wikipedia.org/wiki/及川奈央 "wikilink")がサイン会の告知に来たので、大ファンだった木本は、次の日、京都のサイン会にファンとして参加。サイン入りの[8×4](../Page/8×4.md "wikilink")プレゼントのジャンケン大会で勝ち残り、舞台上に上がり、本人から手渡された。
+  - 内村さまぁ〜ずでは、上記にもある木本の妻の旧姓である「久保」と呼ばれることもあり、内村やさまぁ〜ずからは「久保顔」と言われている。また、同番組では木本の持ちギャグである「すいませんの世界です」というものを多々振られる。
+  - 愛犬は[ヨークシャーテリア](https://ja.wikipedia.org/wiki/ヨークシャーテリア "wikilink")である。
+  - [Google ストリートビューの](https://ja.wikipedia.org/wiki/Google_ストリートビュー "wikilink")「世田谷区砧3-5-3」で偶然映り込んでいたことをブログで公表した。\[2\]現在は、木本の顔にも[ボカシが入っている](https://ja.wikipedia.org/wiki/モザイク処理 "wikilink")。\[3\]
+  - 趣味のPC映像制作がきっかけで[Julietの](https://ja.wikipedia.org/wiki/Juliet_\(音楽ユニット\) "wikilink")「卒恋歌」のミュージック・ビデオを制作・監督を務める。
+
+<!-- end list -->
+
+  - 木下 隆行（きのした たかゆき、[1972年](../Page/1972年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink") - ）
+
+<!-- end list -->
+
+  - 大阪府四條畷市出身（[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")生まれ）、A型。ボケ担当。
+  - 大阪府立食品産業高等学校（現・[大阪府立枚岡樟風高等学校](https://ja.wikipedia.org/wiki/大阪府立枚岡樟風高等学校 "wikilink")）中退。
+  - 身長183cm、体重105kg（デビュー当時は70kg）、3サイズ：B107 W110 H111、靴サイズ：29.0cm
+  - 趣味・特技：サーフィン・スノーボード・インターネットゲーム・知ったかぶり
+  - ギャラは給料制。
+  - 実家は関西や関東を中心に15店舗を持つ「元祖鉄板鍋きのした」グループで、姉は[株式会社ハジメフーズ](http://hajimefoods.com)社長 山元佳子、空とぶからあげなどは有名
+  - 現在は木下の長兄・眞行が経営者。次兄・浩行も「鉄板鍋づくし」「つけ麺屋ちっちょ」などを経営する実業家。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発売された[松竹芸能](../Page/松竹芸能.md "wikilink")若手芸人のビデオ「よゐこ T・K・O ますだおかだ のイズ [アメリカザリガニ](../Page/アメリカザリガニ_\(お笑いコンビ\).md "wikilink") DA-DA」のT・K・Oのコーナーでは木下の母が自ら出演し、よゐこと共に「きのした」の[CMを制作した](../Page/コマーシャルメッセージ.md "wikilink")（木本家の自動車販売店のCMも作られ、5秒ほどではあるが木本の両親が出演している）。また、ますだおかだのラジオ番組「[どーだ\!ますだおかだ](https://ja.wikipedia.org/wiki/どーだ!ますだおかだ "wikilink")」の番組スポンサーを務めていた時期もある。
+  - フジテレビ系「[お笑い芸人歌がうまい王座決定戦スペシャル](https://ja.wikipedia.org/wiki/お笑い芸人歌がうまい王座決定戦スペシャル "wikilink")」では決勝まで進むことが多い。この番組に力を入れていると番組中で話していた。2009年1月27日に放送された同番組では4度目の決勝戦で念願の初優勝を果たした。が、それほど歌はうまくないため、この回以降、決勝までコマを進めたことはない\[4\]。
+  - 声質が桑田佳祐に似ていることもあって、桑田佳祐の声帯模写が十八番である。
+  - デビュー当時から容姿が大きく変貌しており、それを生かして事務所の先輩でもある[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")や[せんとくん](https://ja.wikipedia.org/wiki/せんとくん "wikilink")の顔真似を持ちネタとしている。なお鶴瓶のものまねでは本人からもらった眼鏡を使用している。またせんとくんのオフィシャルサポーターも務めており、就任式でせんとくんから12個のポーズを伝授された。\[5\]
+  - 2019年10月初頭に『女性自身』が[濱口優](../Page/濱口優.md "wikilink")の祝賀パーティの費用着服と[篠宮暁](https://ja.wikipedia.org/wiki/篠宮暁 "wikilink")への暴行を報じた。本人は着服を否定したが、疑いを掛けられたため腹を立ててペットボトルを篠宮に投げつけたことは認めた\[6\]。10月1日深夜放送分の『[火曜JUNK 爆笑問題カーボーイ](../Page/爆笑問題カーボーイ.md "wikilink")』では[太田光](../Page/太田光.md "wikilink")が「元々そういうヤツ」と木下の人物を評しつつも、「芸人の内輪のケンカ、先輩後輩のケンカなんていくらだってある」とし、「そこまで世間が騒ぐことじゃない」と斬り捨てた\[7\]\[8\]。
+
+## 経歴
+
+  - 2人は中学校からの友人であり、木下は別の男性と[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")に入ろうと約束していたが、その男性は[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")へ。そんな木下に木本がローラースケート場で声をかけたところ、木下は木本とコンビを組もうと決心したという。
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")10月に松竹芸能へ入り、[1990年代](../Page/1990年代.md "wikilink")中期より関西を中心にライブやテレビ・ラジオ等で活躍。テレビ・ラジオでは事務所の先輩[森脇健児](https://ja.wikipedia.org/wiki/森脇健児 "wikilink")の番組によく出演していた。KBS京都のラジオ番組「森脇健児の[青春ベジタブル](../Page/青春ベジタブル.md "wikilink")」でコンビ結成後、初の放送出演を果たしている。
+  - 最初のコンビ名は「たむろ」だったが、後に、2人ともイニシャルがT.K.なので、これに[ボクシング](../Page/ボクシング.md "wikilink")の[T.K.O.](https://ja.wikipedia.org/wiki/ノックアウト "wikilink")（テクニカルノックアウト）をかけたT・K・Oにした。その後、TKOに改名。
+  - 吉本ではなく松竹に入った理由は、「吉本は層が厚すぎてチャンスがなさそう」だったから。木下は、「尊敬する芸人は？」と聞かれると「吉本の芸人全員」とテレビなどでよく答えている。
+  - これまで何度か東京進出を試みるも、いずれもさまざまな理由から定着することなく、ことごとく失敗を重ねてきた。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、特に理由はない\[9\]が「今だ」と思い、勘を頼りにこれが最後のチャンスと決め5度目の東京進出を果たした。2009年に芸歴18年目ながら全国区で知られるようになる。
+
+過去の東京進出時に出演したレギュラー番組と敗因は以下の通り。
+
+  - 1回目(1993年)[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[新しい波](https://ja.wikipedia.org/wiki/新しい波_\(テレビ番組\) "wikilink")』 - モテたい一心で、カッコつけすぎていた。当時の木下は髪がフサフサでイケメンだった（不摂生が原因で現在のスタイルになった）。
+  - 2回目(1995年)フジ『[新品部隊](https://ja.wikipedia.org/wiki/新品部隊 "wikilink")』 - 他事務所の共演者([ネプチューンや](../Page/ネプチューン_\(お笑いトリオ\).md "wikilink")、ユーラシア大陸横断ヒッチハイク出発直前の[猿岩石](https://ja.wikipedia.org/wiki/猿岩石 "wikilink")等)と仲良くなれなかった。
+  - 3回目(1997年）フジ『東京Aランチ』 - 担当ディレクターの[ヘッドハントによる](https://ja.wikipedia.org/wiki/ヘッドハンティング "wikilink")[東京放送（現TBSテレビ）移籍](../Page/TBSテレビ.md "wikilink")。
+  - 4回目(2003年)[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[内村プロデュース](https://ja.wikipedia.org/wiki/内村プロデュース "wikilink")』 - 番組終了。
+
+<!-- end list -->
+
+  -
+    『東京Aランチ』は、『[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』の各曜日のディレクターがお気に入りの若手芸人をプロデュースし、『いいとも\!』のレギュラーに登用するという企画で、TKOも金曜レギュラーが内定し、共演者への挨拶まで済ませていたが、上記の理由でTKOのみがレギュラーが取り止めとなり、また『内村プロデュース』では、腕やキャリアの割に売れていないことのギャップが面白がられて呼ばれていたが、これも番組自体が終了するなど、不運が重なった経緯がある。
+
+<!-- end list -->
+
+  - 2008年5月17日放送の[ザ・イロモネア](https://ja.wikipedia.org/wiki/ザ・イロモネア "wikilink")で全ジャンルステージクリアー、100万円獲得。
+  - 2008年の[キングオブコント](../Page/キングオブコント.md "wikilink")決勝進出。しかしAブロック最下位、全体でも7位という結果に終わってしまう。
+  - 2009年9月度の[S-1バトル](https://ja.wikipedia.org/wiki/S-1バトル "wikilink")で、初出場ながらも見事優勝。吉本以外では初の優勝者となった。
+  - 2010年のキングオブコントに2度目の決勝進出、1本目に「葬式」というネタで「**820点**」を記録し、1stラウンド7位で折り返すが、2本目に「モロゾフ後藤・ディナーショー」というネタを行い「**916点**」\[10\]を記録し、総合3位となる。
+  - 2011年のキングオブンコントには2年連続、3回目の決勝進出、決勝進出時の年齢の最高齢記録及び決勝進出最多記録を樹立した。1stラウンドでは「マジシャンとアシスタント」というネタを披露し「**757点**」を記録。しかしトップのロバートとの差は「**185点**」と開かれてしまい、昨年同様、1stラウンド7位で折り返すこととなった。2ndラウンドでは「裏口入学」というネタを制限時間4分ギリギリまで使って披露\[11\]。「**877点**」を記録するも結果は6位だった。
+  - 東京・[松竹芸能新宿角座において](https://ja.wikipedia.org/wiki/新宿角座 "wikilink")2011年よりTKOトークライブ「戯れ言(ざれごと)」を開催している。
+  - 近年は双方とも俳優業にも力を入れている。
+
+## ネタ
+
+### コンビ
+
+  - 主に[コント](../Page/コント.md "wikilink")。木下がとぼけた感じでボケまくる独特なコントを展開する。
+  - 1つのネタを作る際に、ネタ合わせをみっちり2回行っている。
+  - 歌などで木下が木本に合わせようとする「知ったかぶり」や、[漫才](../Page/漫才.md "wikilink")で木下が打ち合わせと違う言動をするネタ\[12\]、[大山ドラえもんネタをよく行っている](../Page/大山のぶ代.md "wikilink")。また、木本が1人で書いてきたという設定の全然面白くないネタ（「タクシー」「銀行強盗」など）を1回披露し、ボケ（木下）のセリフだけ変えて面白くするというネタもやっている。
+      - また、キングオブコント2010で披露した「モロゾフ後藤」をベースに、2012年頃から始まった爆生レッドカーペットのコラボカーペットのコーナーにおいて、超大物歌手（山本譲二、松﨑しげる）とコラボでネタを披露するというネタもやっている。
+  - ネタの合間のつなぎとして、木本が肩を交互に上下させながら「ズッツッチャッチャッ」と言い、木下が続けて[DJのスクラッチの真似をしながら](https://ja.wikipedia.org/wiki/ディスクジョッキー#スクラッチ "wikilink")「チキチキチー」と言うのが恒例となっている。
+  - かつて[ショートコント](https://ja.wikipedia.org/wiki/ショートコント "wikilink")を行う際は舞台に登場した際、自己紹介を[ラップ](../Page/ラップ.md "wikilink")にして歌っていた（上記のブリッジはそれの名残）。
+  - コントの設定として漫才師を演じるというパターンはあるが、本格的な漫才は第1回[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")に挑戦したときが唯一である。
+
+## 逸話
+
+### コンビ
+
+  - 半年先輩に[よゐこ](https://ja.wikipedia.org/wiki/よゐこ "wikilink")が、1年先輩に[DA-DA](../Page/DA-DA.md "wikilink")がいる。同学年のこの2組とは若手時代に一緒に[アメリカ村](https://ja.wikipedia.org/wiki/アメリカ村 "wikilink")で路上ライブをするなど仲がいい。
+  - 後輩に[オセロもいる](../Page/オセロ_\(お笑い\).md "wikilink")。オセロが地方の営業に遅刻した際に2人が泣くほど叱りつけたが、後日事務所からその事について逆に叱られた。現在はオセロの[松嶋尚美](../Page/松嶋尚美.md "wikilink")と、[のイズ](../Page/のイズ.md "wikilink")時代から交流のある[ヒサダトシヒロ](https://ja.wikipedia.org/wiki/ヒサダトシヒロ "wikilink")の結婚式に、共通の友人として木本が出席するなど、良好な関係となっている。なお松嶋からは、後輩であるが年齢は同じという理由で「くん」付けで呼ばれている。
+  - 「[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")」では初出演（1999年4月3日放送）で270KBながらオンエアを果たした。これは最低オンエアKBの中でも歴代1位であり、それから番組終了まで破られなかった。なお、この時は出場12組中7組がオンエアとなるルールだった（第1回・第2回放送まで）。
+  - KBS京都のラジオ番組「[森脇健児](https://ja.wikipedia.org/wiki/森脇健児 "wikilink")の[青春ベジタブル](../Page/青春ベジタブル.md "wikilink")で、養成所時代にコンビ結成初めての放送出演を果たす。当時は「ベンチウォーマーズ」として[のイズ](../Page/のイズ.md "wikilink")などと一緒に松竹芸能タレント総勢11名と一緒に出演。ラジオ・コント・ジングルなどで活躍した。因みにTKOなどベンチウォーマーズ時代の「青春ベジタブル」を制作していた福本英樹元ディレクターは、株式会社テイスティ・モーサルズを南麻布に創業し、食材のスカウト・ハンターやグルメ家として有名である。
+  - [森田まさのり](../Page/森田まさのり.md "wikilink")が『[ヤングジャンプ](https://ja.wikipedia.org/wiki/ヤングジャンプ "wikilink")』で掲載した読み切りの『柴犬』は、TKOのふたりをモデルにした話だが、当時は2人が無名だったので、「取材協力 [松竹芸能](../Page/松竹芸能.md "wikilink")」になった。
+  - 二人とも中学時代から『[チェッカーズ](../Page/チェッカーズ.md "wikilink")』のファンだった。現在も[藤井フミヤ](../Page/藤井フミヤ.md "wikilink")の大ファンであると公言している。ライブ終了後の出待ちをするなど、いわゆる[追っかけ](https://ja.wikipedia.org/wiki/追っかけ "wikilink")をしていた。コンビが徐々にテレビなどに出始めた頃、関係者を通じフミヤと対面。連絡先を交換するなど天にも昇るような気持ちになった。しかし、その後コンビは低迷期に入り、第一線で活躍し続けるフミヤのライブに足を運ぶことが「恥ずかしい」と感じて、ライブに行きたい気持ちを自制していた。再び転機が訪れ「キングオブコント」や「S-1」バトルなどで活躍。その姿を視聴したフミヤから木下の携帯に電話が掛かってきて、励ましの言葉を掛けてくれたと言う。
+  - ダウンタウンと所属事務所こそ異なる（ダウンタウンは[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")）が、松竹芸能の中では[よゐこ](https://ja.wikipedia.org/wiki/よゐこ "wikilink")と並んで共演が多いタレントでもある。
+
+## 出演
+
+### テレビ番組
+
+#### 現在
+
+  - [ユニバーサル・スタジオ・ジャパンでTKO](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパンでTKO "wikilink")（[J:COMチャンネル](../Page/ジュピターテレコム.md "wikilink")）
+  - [タモリ倶楽部](../Page/タモリ倶楽部.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）不定期出演 - 木本は進行役が多い。
+  - [VS嵐](https://ja.wikipedia.org/wiki/VS嵐 "wikilink")（フジテレビ） - 同番組に木下は14回、木本は12回出演している\[13\]。
+
+#### 過去の出演
+
+  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）戦績4勝6敗 最高413KB
+      - 初挑戦は270KBながらオンエアを果たし(上記)、それから5連敗と不調に陥る\[14\]。2002年2月16日放送回で自己最高となる413KBでオンエアを果たし2年10ヵ月ぶりに連敗を脱出した。前回のオンエアから2年以上かかってオンエアを獲得したのは彼らが初となる。番組最後の挑戦となる2003年9月19日放送回では自身初となる連勝を果たしている。
+      - 彼らの出身である大阪では、3度出場して2度オンエアを果たすも2000年6月24日放送回での大阪大会初挑戦は137KB\[15\]で10位敗退（最下位）という自己最低を記録してしまった。
+      - ちなみに初挑戦で270KBながらオンエアしたネタは、キングオブコント2010でも披露した「葬式」ネタであり、キングオブコント2010でこれを披露した際は1000点満点中820点という高得点を叩き出した。これにより当番組の一般審査員とキングオブコントでは評価が全く違う形となった。
+  - [新しい波](https://ja.wikipedia.org/wiki/新しい波 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [たかじん胸いっぱい](https://ja.wikipedia.org/wiki/たかじん胸いっぱい "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）
+  - [爆笑BOOING](../Page/爆笑BOOING.md "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）第4代グランドチャンピオン
+  - リビドーの乱（[ABC](../Page/朝日放送テレビ.md "wikilink")）
+  - [森脇健児の切磋たく丸\!\!](../Page/森脇健児の切磋たく丸!!.md "wikilink")（[ABC](../Page/朝日放送テレビ.md "wikilink")）
+  - [Mars TV](https://ja.wikipedia.org/wiki/Mars_TV "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [ブレイクもの\!](https://ja.wikipedia.org/wiki/ブレイクもの! "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [上方演芸ホール](../Page/上方演芸ホール.md "wikilink")（[NHK大阪](../Page/NHK大阪放送局.md "wikilink")）
+  - [コンビニTV TKOのおきて](../Page/コンビニTV_TKOのおきて.md "wikilink")（[KBS京都](../Page/京都放送.md "wikilink")）
+  - [電波少年に毛が生えた 最後の聖戦](../Page/電波少年に毛が生えた_最後の聖戦.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）木下のみ「日本ポッチャリ党」のコーナーに出演。
+  - [内村プロデュース](https://ja.wikipedia.org/wiki/内村プロデュース "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
+  - [らくらぶR](https://ja.wikipedia.org/wiki/らくらぶR "wikilink")（[KBS京都](../Page/京都放送.md "wikilink")）前身番組の『[森脇健児](https://ja.wikipedia.org/wiki/森脇健児 "wikilink")の「[らくらぶ。](https://ja.wikipedia.org/wiki/らくらぶ。 "wikilink")」金曜日』時代
+  - コミュニTV 熱情放送（[CATV系](../Page/ケーブルテレビ.md "wikilink")）木本のみ
+  - [ほんじゃに\!](https://ja.wikipedia.org/wiki/ほんじゃに! "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）
+  - [たかじんONE MAN](../Page/たかじんONE_MAN.md "wikilink")（[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
+  - 電リク\!BEATBOX\!（[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")）
+  - [パブやっちゃいなよ\!](https://ja.wikipedia.org/wiki/パブやっちゃいなよ! "wikilink")（[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")） [鈴木千登世](https://ja.wikipedia.org/wiki/鈴木千登世 "wikilink")と共演
+  - ガールズファイル（[サンテレビ](../Page/サンテレビジョン.md "wikilink")）
+  - フッシュ・オン・バトル（[サンテレビ](../Page/サンテレビジョン.md "wikilink")）
+  - [知っとこ\!](https://ja.wikipedia.org/wiki/知っとこ! "wikilink")（[MBSテレビ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）「こどものみかた」コーナーに木下、木本が交互に出演
+  - [お笑いDynamite\!](https://ja.wikipedia.org/wiki/お笑いDynamite! "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")、2007年12月28日・2009年5月3日）キャッチコピーは「松竹芸能の最終兵器」
+  - [きになるオセロ](https://ja.wikipedia.org/wiki/きになるオセロ "wikilink")（[ABC](https://ja.wikipedia.org/wiki/ABC朝日放送 "wikilink")）
+  - [よゐこのワケアリ](https://ja.wikipedia.org/wiki/よゐこのワケアリ "wikilink")（[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）木本のみ
+  - [カスペ\!](../Page/カスペ!.md "wikilink")「[お笑い芸人歌がうまい王座決定戦スペシャル](https://ja.wikipedia.org/wiki/お笑い芸人歌がうまい王座決定戦スペシャル "wikilink")」（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2008年5月6日・8月19日）準優勝
+  - [ゴッドタン](https://ja.wikipedia.org/wiki/ゴッドタン "wikilink")〜The God Tongue 神の舌〜（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2008年10月1日・10月8日・2009年2月11日）
+  - [ドライブ A GO\!GO\!](https://ja.wikipedia.org/wiki/ドライブ_A_GO!GO! "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2009年2月8日、11月29日）
+  - [リンカーン](../Page/リンカーン_\(テレビ番組\).md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")、2009年4月14日・6月9日）
+  - [アメトーーク\!](https://ja.wikipedia.org/wiki/雨上がり決死隊のトーク番組アメトーーク! "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
+  - [王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")、2009年4月18日 - 2009年7月11日）
+  - [厳選\!いい宿ナビ](https://ja.wikipedia.org/wiki/厳選!いい宿ナビ "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2010年3月22日、8月14日、9月18日・20日ほか）
+  - [イツザイS](https://ja.wikipedia.org/wiki/イツザイS "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [イチハチ](https://ja.wikipedia.org/wiki/イチハチ "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）
+  - [TKOの黒船☆ジャパン](https://ja.wikipedia.org/wiki/TKOの黒船☆ジャパン "wikilink")（[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")など、2010年4月3日 - 9月11日）
+  - [爆笑レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）キャッチコピーは「お笑いテクニカルノックアウト」。
+
+<!-- end list -->
+
+  -
+    コラボカーペットで、[芋洗坂係長](https://ja.wikipedia.org/wiki/芋洗坂係長 "wikilink")、[渡辺直美](../Page/渡辺直美.md "wikilink")、[姫ちゃん](../Page/姫ちゃん.md "wikilink")、[COWCOW](https://ja.wikipedia.org/wiki/COWCOW "wikilink")[多田健二](https://ja.wikipedia.org/wiki/多田健二 "wikilink")、[2700](https://ja.wikipedia.org/wiki/2700_\(お笑いコンビ\) "wikilink")、[山本譲二](https://ja.wikipedia.org/wiki/山本譲二 "wikilink")、[松崎しげる](https://ja.wikipedia.org/wiki/松崎しげる "wikilink")と共演。
+
+<!-- end list -->
+
+  - 私の一文字（マッスル笑店制作）
+  - [爆笑問題の世界の日本人妻は見た\!海外生活真相リポート どゆこと?異国の珍体験](https://ja.wikipedia.org/wiki/世界の日本人妻は見た! "wikilink")（[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、2012年4月8日）
+  - [爆問パニックフェイス\!](https://ja.wikipedia.org/wiki/爆笑問題のドッキリ_パニックフェイス王 "wikilink")（2010年10月 - 2011年3月、[TBS](../Page/TBSテレビ.md "wikilink")） レギュラー
+  - [奇跡ゲッター ブットバース\!\!](https://ja.wikipedia.org/wiki/奇跡ゲッター_ブットバース!! "wikilink")（2010年11月 - 2011年7月、[TBS](../Page/TBSテレビ.md "wikilink")） レギュラー
+  - [爆笑 大日本アカン警察](https://ja.wikipedia.org/wiki/爆笑_大日本アカン警察 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）※不定期出演
+  - [爆笑そっくりものまね紅白歌合戦スペシャル](https://ja.wikipedia.org/wiki/爆笑そっくりものまね紅白歌合戦スペシャル "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2009年4月7日 - 2013年4月12日）
+  - [モテモテかんぱにーR25](https://ja.wikipedia.org/wiki/モテモテかんぱにーR25 "wikilink")（2013年4月 - 2015年9月、[関西テレビ](../Page/関西テレビ放送.md "wikilink")）
+  - [ユニバーサル・スタジオ・ジャパンでもっとTKO](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパンでTKO "wikilink")（[J:COMチャンネルほか](../Page/ジュピターテレコム.md "wikilink")）
+  - [Rの法則](https://ja.wikipedia.org/wiki/Rの法則 "wikilink")（[NHK Eテレ](https://ja.wikipedia.org/wiki/NHK_Eテレ "wikilink")）同番組内のコーナー「学校あるあるコント」を中心に不定期で出演。
+  - [アッコにおまかせ\!](../Page/アッコにおまかせ!.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）※準レギュラー
+
+### テレビドラマ
+
+  - [ほんとにあった怖い話 夏の特別編2011](https://ja.wikipedia.org/wiki/ほんとにあった怖い話 "wikilink")「悪夢の十三日」（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2011年9月3日）
+  - [昼のセント酒](https://ja.wikipedia.org/wiki/昼のセント酒#テレビドラマ "wikilink") 第2話（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2016年4月16日）
+  - [侠飯](https://ja.wikipedia.org/wiki/侠飯 "wikilink")〜おとこめし〜（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2016年7月 -）
+
+### CM
+
+  - [メルカリ](https://ja.wikipedia.org/wiki/メルカリ "wikilink") -「[所さんお届けモノです\!](https://ja.wikipedia.org/wiki/所さんお届けモノです! "wikilink")」内CM、[新井恵理那](https://ja.wikipedia.org/wiki/新井恵理那 "wikilink")と共演
+      - 入門編 (2017年11月12日、19日)
+      - 大掃除編 (2017年12月3日 -)
+      - 季節モノ編(スノーボード) (2018年2月4日 - 25日)
+      - 新生活編 (2018年3月3日 - 25日)
+      - お買い物編 (2018年4月1日 - 29日)
+      - お買い物編(2) (2018年5月6日 - 27日)
+      - お買い物編(3) (2018年6月3日 - 24日)
+      - お買い物編(4) (2018年7月1日 - 15日)
+      - お買い物編(5) (2018年7月22日、29日)
+      - お買い物編(6) (2018年8月5日 - 26日)
+      - お買い物編(7) (2018年9月2日 - 30日)
+      - お買い物編(8・冬のソナタ) (2018年10月7日 - 28日)
+      - お買い物編(9) (2018年11月4日 -)
+
+### ラジオ放送
+
+  - [MBSヤングタウン](../Page/MBSヤングタウン.md "wikilink")（MBSラジオ）
+  - [MBSミッドナイトドライブ](https://ja.wikipedia.org/wiki/MBSミッドナイトドライブ "wikilink")（MBSラジオ、2001年10月 - 2002年3月）
+  - [青春ベジタブル](../Page/青春ベジタブル.md "wikilink")（KBS京都ラジオ）
+  - 走れサンガ 目指せJ（KBS京都ラジオ）
+  - [ハイヤングKYOTO](../Page/ハイヤングKYOTO_\(第二期\).md "wikilink")（KBS京都ラジオ）
+  - [ハイスクールGO太\!\!](https://ja.wikipedia.org/wiki/ハイスクールGO太!! "wikilink")（[ラジオ関西](../Page/ラジオ関西.md "wikilink")）
+  - [ぶっちゃけTALK RADIO ギリ☆モザ](https://ja.wikipedia.org/wiki/ぶっちゃけTALK_RADIO_ギリ☆モザ "wikilink")（[OBCラジオ](../Page/大阪放送.md "wikilink")、[ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")、2009年6月 - 2010年4月）
+  - [まだまだゴチャ・まぜっ\!〜集まれヤンヤン〜](https://ja.wikipedia.org/wiki/オレたちゴチャ・まぜっ!〜集まれヤンヤン〜 "wikilink")（MBSラジオ、2009年4月11日 - 2011年4月9日。レギュラー降板後も2012年1月まで不定期に出演 ）
+  - [ザ・ヒットスタジオ〜レッツゴーヤンヤン〜](https://ja.wikipedia.org/wiki/ザ・ヒットスタジオ〜レッツゴーヤンヤン〜 "wikilink")(MBSラジオ、2011年10月29日 - 2014年3月29日)
+  - [ちょこっとやってまーす\!](https://ja.wikipedia.org/wiki/アッパレやってまーす! "wikilink")（2014年4月5日 - 2017年4月2日、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）
+
+### インターネット放送
+
+  - [トークも結構おおざっぱ\!](https://ja.wikipedia.org/wiki/トークも結構おおざっぱ! "wikilink")（[GyaOジョッキー](../Page/GyaOジョッキー.md "wikilink")、2008年3月5日 - 2009年8月26日）共演:[あびる優](../Page/あびる優.md "wikilink")
+  - [P-Sports](https://ja.wikipedia.org/wiki/P-Sports "wikilink")〜目指せ、ポケモンバトルマスター\!〜（2018年1月24日 - 6月9日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink") ウルトラゲームス）\[16\] - 配信回によっては片方のみの出演。
+
+### 映画
+
+  - [サウスパーク/無修正映画版](https://ja.wikipedia.org/wiki/サウスパーク/無修正映画版 "wikilink")（2000年）※声の出演
+  - [蟹工船](https://ja.wikipedia.org/wiki/蟹工船#2009年 "wikilink")（2009年）
+
+### Web
+
+  - TKOインタビュー[モッテコ書店](http://motteco.com/) （2009年9月11日）
+
+## 脚注
+
+## 外部リンク
+
+  - [公式プロフィール（松竹芸能）](https://www.shochikugeino.co.jp/talents/tko)
+
+  - [TKO 木下オフィシャルブログ「ブサイリッシュな日々。」Powered by Ameba](https://ameblo.jp/tko-kinoshita/)
+
+  -
+  -
+  - [TKO 木本オフィシャルブログ「KIMOLOG」 powered by Ameba](https://ameblo.jp/tko-kimoto/)
+
+  - [木本武宏(TKO) 公式ブログ](http://gree.jp/kimoto_takehiro/)
+
+  -
+  - [鉄板鍋づくし](https://web.archive.org/web/20090605044703/http://dukushi.jp/index.html)
+
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:松竹芸能](https://ja.wikipedia.org/wiki/Category:松竹芸能 "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink")
+
+1.  自身のブログにて本人がコメント
+2.  [感激\!](http://ameblo.jp/tko-kimoto/entry-10906205269.html)（KIMOLOG TKO木本のオフィシャルブログ、2011年5月28日）
+3.  [Googleストリートビュー](http://maps.google.co.jp/maps?layer=c&cbll=35.634706,139.610643&panoid=zqd6cdRakCG4x3CKZfCC_A&cbp=12,139.47,,1,15.88&ie=UTF8&brcurrent=3,0x6018f3e27d466e6d:0x4c1a89394c8de093,1&ll=35.634706,139.610643&spn=0,0.002411&z=19)（2011年5月30日閲覧）
+4.  第2回オールスターでは1回戦敗退、歴代王者緊急参戦スペシャルでは準決勝敗退、イケメン歌うまでは彼よりも歌唱力が低い[ユージ](../Page/ユージ.md "wikilink")相手に準々決勝敗退であった。
+5.  [「せんとくん」ソックリのTKO・木下、遂にオフィシャルサポーターに就任](http://www.oricon.co.jp/news/confidence/64885/)
+6.  [TKO木下 着服疑惑を否定！集めた後輩のお金はドローン代に](https://jisin.jp/entertainment/entertainment-news/1781977/) 女性自身 2019/10/01 00:00（2019年10月3日閲覧）
+7.  [爆笑・太田、TKO・木下の後輩暴行報道に言及　「元々そういうヤツ」（1/2ページ）](https://sirabee.com/2019/10/02/20162172698/) しらべぇ 2019/10/02 15:40（2019年10月3日閲覧）
+8.  [爆笑・太田、TKO・木下の後輩暴行報道に言及　「元々そういうヤツ」（2/2ページ）](https://sirabee.com/2019/10/02/20162172698/2/?FROM_WEBVIEW) しらべぇ 2019/10/02 15:40（2019年10月3日閲覧）
+9.  近年では、ある日木下が顔の運動をしていた際、鏡に映った自身の顔が鶴瓶に似ていることに気づいたことが理由として語られている。
+10. ファーストラウンド1位通過の[キングオブコメディ](https://ja.wikipedia.org/wiki/キングオブコメディ "wikilink")の「**908点**」を上回り、その日の暫定最高得点(最終的には3位)。
+11. そのためか、オチで木本が立ち去った直後に暗転し、暗転よりも先に終了のBGMが流されていた。
+12. これには「客席に木下が遠距離恋愛してる女の子がいることが木下の心の声で明らかになる」という裏の設定がある。
+13. 2018年7月現在、出演回数1位は[アンジャッシュ](../Page/アンジャッシュ.md "wikilink")の[児嶋一哉](https://ja.wikipedia.org/wiki/児嶋一哉 "wikilink")で21回、2位は[土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")の17回、3位は[ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")の15回、4位は同率で[日村勇紀](https://ja.wikipedia.org/wiki/日村勇紀 "wikilink")、[木下隆行](https://ja.wikipedia.org/wiki/木下隆行 "wikilink")の14回となっている。
+14. 2000年5月14日放送回では361KBと初オンエアの時よりもKBは高かったが、8位オフエアだった。
+15. 2000年4月1日放送回の東京収録でもこの記録で10位敗退（最下位）を記録している。
+16.

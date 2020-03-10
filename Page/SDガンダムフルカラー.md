@@ -1,0 +1,34 @@
+> この記事は[SD](https://ja.wikipedia.org/wiki/SD)から翻訳されています。
+
+
+**SDガンダムフルカラー**とは、[BANDAIが](../Page/バンダイ.md "wikilink")[カプセル](https://ja.wikipedia.org/wiki/カプセル "wikilink")[自動販売機](../Page/自動販売機.md "wikilink")で販売した[SDガンダム](../Page/SDガンダム.md "wikilink")の手のひらサイズ彩色済み[フィギュア](../Page/フィギュア.md "wikilink")商品（カプセルトイ）の名称で、ネット上では**SDFC**と略されて呼ばれる。
+
+## 概要
+
+SDガンダムフルカラーは、1997年10月にカプセルSDガンダムシリーズ前作**SDガンダムR**をつぐ形でステージ1（第一弾）が発売され、レギュラーシリーズは2006年2月発売のステージ63まで続くという、バンダイガシャポン史上最長を記録した（ちなみに、それまでの最長記録は旧[ガシャポン戦士](https://ja.wikipedia.org/wiki/ガシャポン戦士 "wikilink")レギュラーシリーズのマーク50）が、2006年の4月に、**SDガンダムフルカラーカスタム**としてリニューアルされた。
+
+その後フルカラーカスタムのレギュラーシリーズは2008年8月の20弾ベストスペシャルまで続きリリース終了（正確には2009年5月発売のガンダム30周年スペシャルがシリーズ自体のラストリリース）。続く「[SDガンダムインパクト](https://ja.wikipedia.org/wiki/SDガンダムインパクト "wikilink")」にその座を譲る形となる。
+
+ネット上では、SDFCを改造した作品を公開しているページも多く、[オークション](https://ja.wikipedia.org/wiki/オークション "wikilink")でも売買されている。また、SDFCの販売が始まって一ヶ月後から[講談社](../Page/講談社.md "wikilink")の児童向け漫画雑誌「[コミックボンボン](../Page/コミックボンボン.md "wikilink")」において、これを題材にしたギャグ漫画『[SDガンダムフルカラー劇場](../Page/SDガンダムフルカラー劇場.md "wikilink")』が連載されていた。
+
+SDガンダムフルカラーカスタムとしてリニューアルされた原因は、[原油価格](../Page/原油価格.md "wikilink")の高騰だと考えられているが、実際のところは不明のままである。このシリーズの売りは、パーツの接合をする部分が共通化されている（ビルドシステムと呼ばれ、これ自体は前作の「ザクスペシャル」で採用されている）点で、パーツを組み合わせて、人によっては小型のものから巨大なものまで様々な作品を作り上げることが出来る。オリジナルの機体合成を一般公募し、その結果を筐体台紙ディスプレイに掲載するなどの動きもあった。この機体合成の構造は後の「[SDガンダムバインド](https://ja.wikipedia.org/wiki/SDガンダムバインド "wikilink")」へ影響を与えたと言える。
+
+2006年の4月に発売された本商品は、ネット上では発売前から現在に至るまで様々な批判が多い。パーツの接合部分共通化というものの、使用している型のせいなのか、合う筈のパーツが合わない、用途不明の凹凸などが商品に確認出来、不評、批判を買う原因になっている。また、シリーズ終盤頃にはクリアverで目の部分のみ彩色を施したVer.の乱発などもそれにあたる。
+
+発売開始当初は『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』シリーズのものしかラインナップに入っていなかったが、2006年11月発売のラインナップから[一年戦争編](../Page/機動戦士ガンダム.md "wikilink")、2007年10月発売のラインナップから『[機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")』、2008年1月発売のラインナップから[グリプス戦役編](https://ja.wikipedia.org/wiki/機動戦士Zガンダム "wikilink")、2008年4月発売のラインナップから『[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")』、2008年5月発売のラインナップから『[機動新世紀ガンダムX](../Page/機動新世紀ガンダムX.md "wikilink")』も加わった。2009年5月発売の「ガンダム30周年スペシャル」では『[機動戦士ガンダム00 セカンドシーズン](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")』から唯一[ダブルオーガンダム](https://ja.wikipedia.org/wiki/ダブルオーガンダム "wikilink")を新規追加、この弾を最後にシリーズは終了した。
+
+## 関連項目
+
+  - [SDガンダム](../Page/SDガンダム.md "wikilink")
+  - [ガシャポン](https://ja.wikipedia.org/wiki/ガシャポン "wikilink")
+  - [ガシャポン戦士](https://ja.wikipedia.org/wiki/ガシャポン戦士 "wikilink")
+  - [ガンダムシリーズ](https://ja.wikipedia.org/wiki/ガンダムシリーズ "wikilink")
+  - [SDガンダムフルカラー劇場](../Page/SDガンダムフルカラー劇場.md "wikilink")
+
+## 外部リンク
+
+  - [SDガンダムフルカラーカスタム公式HP](http://www.sdgundam.jp/)
+  - [FC改造しま専科](http://sdfc.fc2web.com/)
+  - [SDGFC Fan](http://sdgfc.web.fc2.com/)
+
+[Category:SDガンダム](https://ja.wikipedia.org/wiki/Category:SDガンダム "wikilink") [Category:ガンダムシリーズの玩具](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズの玩具 "wikilink") [Category:フィギュア](https://ja.wikipedia.org/wiki/Category:フィギュア "wikilink")

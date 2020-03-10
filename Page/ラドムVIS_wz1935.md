@@ -1,0 +1,67 @@
+> この記事は[VIS wz1935](https://ja.wikipedia.org/wiki/VIS_wz1935)から翻訳されています。
+
+
+**ラドムVIS wz1935**は、[ポーランド](../Page/ポーランド.md "wikilink")の[ラドム造兵廠で作られた](https://ja.wikipedia.org/wiki/ファブルィカ・ブローニ・ウーチュニク "wikilink")[大型自動式拳銃である](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")。
+
+ポーランドは、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")と[ロシア](../Page/ロシア.md "wikilink")（のち[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")）に挟まれていたため、幾度も[国土](../Page/国土.md "wikilink")・[国家](../Page/国家.md "wikilink")[主権](../Page/主権.md "wikilink")が失われる危機を迎え、翻弄された歴史を持つ。ラドムVISもまた、歴史に翻弄された[銃](../Page/銃.md "wikilink")であり、当初は[ポーランド軍](../Page/ポーランド軍.md "wikilink")用として生産されたが、後のドイツ占領後は[ドイツ軍](../Page/ドイツ軍.md "wikilink")向け[拳銃](../Page/拳銃.md "wikilink")として生産された。生産期間は短期間に留まっている。
+
+## 沿革
+
+[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")後、ようやく独立を取り戻した[ポーランドでは](https://ja.wikipedia.org/wiki/ポーランド第二共和国 "wikilink")、ラドム造兵廠で[軍](../Page/ポーランド軍.md "wikilink")・[警察](https://ja.wikipedia.org/wiki/警察 "wikilink")用国産[拳銃](../Page/拳銃.md "wikilink")の開発が着手された。
+
+基本設計を行ったのは、ピオトール・ヴィルニエブツィック（Piotr Wilniewczyc）と、ヤン・スコルツィピンスキー（Jan Skrzypinski）の両技師とされる。ヴィルニエブツィック技師は、ワルシャワの民間企業PWU社からこのトライアルに参加、まず、wz1928という拳銃プランを提出した。この[銃](../Page/銃.md "wikilink")は図面のみで実際には製作されなかったと言われるが、その後**wz1930**という拳銃が[試作されている](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")。トライアルそのものが設計からのコンペティションだった可能性もある。このwz1930は、後のwz1935の元となる銃で、細かな違いはあるものの基本設計は変わらない。
+
+### 基本構成
+
+ヴィルニエブツィック技師は、著名な[銃](../Page/銃.md "wikilink")器設計者[ジョン・ブローニング](../Page/ジョン・ブローニング.md "wikilink")に大きく影響を受けていた。このためwz1930は、ブローニング系の設計である[コルト・ガバメントのメカニズムを多くの面で踏襲した](https://ja.wikipedia.org/wiki/M1911 "wikilink")[シングルアクション](../Page/シングルアクション.md "wikilink")[拳銃](../Page/拳銃.md "wikilink")として設計されつつ、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")で主流の9mm[口径](../Page/口径.md "wikilink")への変更を受けて完成されたが、部品数の削減や[メンテナンス](https://ja.wikipedia.org/wiki/メンテナンス "wikilink")性の向上など細かな変更が行われていた。
+
+その中でも優れていた点は、[ショートリコイル](../Page/ショートリコイル.md "wikilink")する可動[バレルのティルト手段を](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")、ガバメントやその亜流の[銃](../Page/銃.md "wikilink")のようなリンク連結ではなく、バレル本体とフレームとの凹凸を合わせる、製造と調整がやりやすい手法で処理していた点であろう（もっとも、この着想自体はブローニングが発想しながら量産化しなかったもので、[ポーランド人](https://ja.wikipedia.org/wiki/ポーランド人 "wikilink")技術者のオリジナルではないようである）。
+
+引き続き行われたトライアルであったが、これには時間がかかった。実際に使用する[軍人](../Page/軍人.md "wikilink")に渡されたwz1930は、5年かけて現場での問題点を拾い上げ改良を重ねて行った。
+
+軍からの最も大きな改善要請は、片手でのデコッキングができるようにしてほしいということであった。当時、[騎兵](https://ja.wikipedia.org/wiki/騎兵 "wikilink")隊が主力の[ポーランド軍](../Page/ポーランド軍.md "wikilink")では、[馬の手綱を握りつつ片手で安全に拳銃を扱えることは重要だったのである](../Page/ウマ.md "wikilink")。
+
+そこで、シングルアクションの[自動拳銃には珍しくデコッキング](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")・レバーが追加され、マニュアル・セーフティが分解用のレバーに変えられた。これによって、シングルアクションの自動拳銃としては安全性に優れた銃となっている。
+
+細かな改良を重ねたwz1930は、[1935年](../Page/1935年.md "wikilink")にようやくwz1935として制式採用された。wzとは、[英語](../Page/英語.md "wikilink")圏で言うModelの頭文字Mに近いものとされている。
+
+当初、ヴィルニエブツィックとスコルツィピンスキーの両設計者のイニシャルにちなんで「W\&S」の意味がある「WIS」のネームで呼称される予定だったが、それなら[ラテン語](../Page/ラテン語.md "wikilink")で「力」を意味する「VIS」の方が拳銃として相応しいのではないか、という声が上がり、この拳銃のネームは「VIS」となった。
+
+隣国[ソ連の同時期に置ける新型拳銃](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[トカレフTT-33](https://ja.wikipedia.org/wiki/トカレフTT-33 "wikilink")も、VIS同様にコルト・ガバメントの影響下で設計された銃だったが、生産性・耐久性を重視し、[安全装置](https://ja.wikipedia.org/wiki/安全装置 "wikilink")を省くほど簡素化され、野暮で泥臭い外観に徹していたTT-33に比し、VISは極めて洗練された近代的直線デザインで、表面仕上げやグリップデザインも美しく、また、シングルアクション拳銃ながらデコッキングレバーを備えるなど実用面の配慮も為されていて、まったく対照的な銃に仕上がっていた。
+
+### 量産化後の転変
+
+[ポーランド](../Page/ポーランド.md "wikilink")を取り巻く政治体制が悪化する中で生産体制が整えられ、VIS[拳銃](../Page/拳銃.md "wikilink")は、[1937年](../Page/1937年.md "wikilink")からラドム造兵廠で量産が開始された。[1939年](../Page/1939年.md "wikilink")までに50,000丁あまりが生産されている。
+
+しかし、1939年9月の[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")勃発で、ポーランドは[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")と[ソ連の両面から攻められて分割占領され](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")、ラドム造兵廠も[ドイツ軍の管理下に置かれた](https://ja.wikipedia.org/wiki/ドイツ国防軍 "wikilink")。
+
+VISは、その優秀性からドイツ軍にも着目され、ドイツ軍制式の[9x19mmパラベラム弾](https://ja.wikipedia.org/wiki/9x19mmパラベラム弾 "wikilink")を用いていて互換性があるというメリットも買われて、[兵器](../Page/兵器.md "wikilink")不足のドイツ軍向けに補助兵器として採用されることになった。こうしてVISは、表面仕上げの簡素化などの変更はあったものの、そのまま「P35」として、ドイツ軍の主力拳銃である[ルガーP08](../Page/ルガーP08.md "wikilink")・[ワルサーP38](https://ja.wikipedia.org/wiki/ワルサーP38 "wikilink")を補完する形で量産されたのである。
+
+結局、[ポーランド軍](../Page/ポーランド軍.md "wikilink")向けよりも[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")占領後の方が遙かに生産実績を伸ばし、デコッキングレバー省略などの工作簡素化やグリップの[木](https://ja.wikipedia.org/wiki/木 "wikilink")製化などの変更を受けつつも、[1945年](../Page/1945年.md "wikilink")までに300,000丁以上が生産されたとされる。この間、VISはラドム以外に、[オーストリア](../Page/オーストリア.md "wikilink")の[ステアー](https://ja.wikipedia.org/wiki/ステアー "wikilink")社でも生産されている。
+
+第二次大戦後、共産圏に入ったポーランドはソ連のトカレフ系拳銃採用にシフトしてしまい、それ以外の国も含め、VISは再び量産化されることなく終わった。
+
+## 登場作品
+
+### 映画
+
+:; 『[アヴァロン](../Page/アヴァロン_\(映画\).md "wikilink")』
+
+:; 『[危いことなら銭になる](https://ja.wikipedia.org/wiki/危いことなら銭になる "wikilink")』
+
+:; 『[灰とダイヤモンド](https://ja.wikipedia.org/wiki/灰とダイヤモンド_\(映画\) "wikilink")』
+
+### 漫画・アニメ
+
+:; 『[鋼の錬金術師](https://ja.wikipedia.org/wiki/鋼の錬金術師 "wikilink")』
+
+:: マース・ヒューズが使用。
+
+:; 『[ヨルムンガンド](https://ja.wikipedia.org/wiki/ヨルムンガンド_\(漫画\) "wikilink")』
+
+  -
+
+      -
+        山岳兵が所持。
+
+[Category:自動式拳銃](https://ja.wikipedia.org/wiki/Category:自動式拳銃 "wikilink") [Category:ポーランドの小火器](https://ja.wikipedia.org/wiki/Category:ポーランドの小火器 "wikilink")

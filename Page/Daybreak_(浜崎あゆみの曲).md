@@ -1,0 +1,66 @@
+> この記事は[Daybreak \(\)](https://ja.wikipedia.org/wiki/Daybreak_\(\))から翻訳されています。
+
+
+「**Daybreak**」（デイブレイク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の25th[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2002年[7月13日](../Page/7月13日.md "wikilink")に[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
+
+## 解説
+
+シングルとしては前作「[Dearest](../Page/Dearest_\(浜崎あゆみの曲\).md "wikilink")」から約5ヶ月ぶりのリリースで、4thアルバム『[I am...](../Page/I_am....md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")シングル。
+
+30万枚限定生産ではあったが、[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")で[Dragon Ashの](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")「[FANTASISTA](../Page/FANTASISTA_\(曲\).md "wikilink")」に敗れ初登場2位となってしまい、2000年発売の19thシングル「[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")」以来続いていた連続首位記録が途絶えてしまう。
+
+リカットシングルだが、『[I am...](../Page/I_am....md "wikilink")』に収録されているオリジナルは収録されていない。
+
+ジャケット写真は[レスリー・キー](../Page/レスリー・キー.md "wikilink")が初めて担当し、以降の作品もたびたび担当することになる。
+
+「Daybreak "HΛL's Mix 2002"」はこのシングルのみの収録である。
+
+## 収録曲
+
+### CD
+
+全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki
+
+1.  **Daybreak "[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")'s Mix 2002"**
+      -
+        [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](https://ja.wikipedia.org/wiki/長尾大 "wikilink") + [junichi matsuda](../Page/松田純一.md "wikilink")
+        [Panasonic](https://ja.wikipedia.org/wiki/Panasonic "wikilink") [デジタルカメラ](../Page/デジタルカメラ.md "wikilink")「[LUMIX](../Page/LUMIX.md "wikilink") F1」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        Panasonic [ソルトレイクオリンピック](https://ja.wikipedia.org/wiki/ソルトレイクオリンピック "wikilink") 関連商品 CMソング
+2.  **[no more words](../Page/I_am....md "wikilink") "BRENT MINI'S ROTARY MIX"**
+      - リミックス: [イズタニタカヒロ](https://ja.wikipedia.org/wiki/イズタニタカヒロ "wikilink")
+3.  **[I am...](../Page/I_am....md "wikilink") "night clubbers mix"**
+      - リミックス: night clubbers
+4.  **no more words "nicely nice remix"**
+      - リミックス: [佐藤清喜](https://ja.wikipedia.org/wiki/佐藤清喜 "wikilink")
+5.  **I am... "Ram's Special 11Days Mix"**
+      - リミックス: [RAM RIDER](https://ja.wikipedia.org/wiki/RAM_RIDER "wikilink")
+6.  **no more words "turn up the break mix"**
+      - リミックス: [83key](https://ja.wikipedia.org/wiki/矢崎俊輔 "wikilink")
+7.  **I am... "Huge Fairy tAle mix"**
+      - リミックス: Huge
+8.  **no more words "[Laugh & Peace](https://ja.wikipedia.org/wiki/Laugh_and_Peace "wikilink") Mix"**
+      - リミックス: Laugh & Peace
+9.  **Daybreak "HΛL's Mix 2002 -Instrumental-"**
+10. **[opening Run](../Page/I_am....md "wikilink") "[JK](https://ja.wikipedia.org/wiki/CMJK "wikilink")'s extended mix"**
+
+### アナログ盤
+
+1.  **I am ... "Ram's Special 11Days Mix"**
+2.  **I am ... "night clubbers mix"**
+3.  **Daybreak "HAL's Mix 2002"**
+
+## 収録アルバム
+
+  - **Daybreak**
+      - 『[I am...](../Page/I_am....md "wikilink")』(アルバムバージョン)
+      - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』(アルバムバージョン)
+
+## 脚注
+
+## 外部リンク
+
+  - [DISCOGRAPHY - ayumi hamasaki](http://avex.jp/ayu/discography/detail.php?id=1003351)
+
+[Category:パナソニックのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:パナソニックのコマーシャルソング "wikilink") [Category:浜崎あゆみの楽曲](https://ja.wikipedia.org/wiki/Category:浜崎あゆみの楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:長尾大が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長尾大が制作した楽曲 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
+
+1.  [アナログ盤](http://www.discogs.com/ja/Ayumi-Hamasaki-Daybreak/release/8930668)のみ[Rhythm REPUBLICより発売](../Page/Rhythm_REPUBLIC.md "wikilink")。

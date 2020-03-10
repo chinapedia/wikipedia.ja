@@ -1,0 +1,39 @@
+> この記事は[ZUNZUN!](https://ja.wikipedia.org/wiki/ZUNZUN!)から翻訳されています。
+
+
+**野村邦丸の気分はZUNZUN\!**（のむらくにまるのきぶんはずんずん）は[文化放送](../Page/文化放送.md "wikilink")で[1999年](../Page/1999年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")まで放送された平日のワイド番組。この時間帯前番組の「[小倉智昭の夕焼けアタックル](../Page/小倉智昭の夕焼けアタックル.md "wikilink")」からいくつかコーナーを引き継いでいる。放送時間は16:00 - 17:50（[2001年](../Page/2001年.md "wikilink")10月 - [2002年](../Page/2002年.md "wikilink")3月は18:30まで）。
+
+## パーソナリティ
+
+  - [野村邦丸](https://ja.wikipedia.org/wiki/野村邦丸 "wikilink")（文化放送アナウンサー）
+
+## 主なコーナー
+
+  - 夕日のワンマン
+      - スポーツ紙の記事から気になる発言をピックアップ
+          - 日替わりコーナー
+  - [気まぐれコラム お疲れ野村係長](https://ja.wikipedia.org/wiki/野村係長シリーズ "wikilink")
+      - 後に邦丸が担当した番組の「がんばれ野村主任」「おきらく野村係長」の原型。「反町く～ん」「藤原くん」も、このコーナーで登場
+  - 奇問難問 邦丸クイズ
+  - [DoCoMo](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink") 邦丸モバイラーズ クラブ
+  - 東京オン・ザ・ロード
+  - これからZUNZUN（2001年10月～2002年3月）
+
+## 番組に登場したキャラクター
+
+  - 野村肛門ちゃま･･･邦丸本人が「肛門ちゃまの『肛』は『月』(にくづき)に『工場』の『工』」と言っていた。
+  - DJデブジャン･･･由来は邦丸の体系からと思われる。なお、[太田英明](https://ja.wikipedia.org/wiki/太田英明 "wikilink")アナウンサーが、ピンチヒッターを務めた時は「DJヒデジャン」と名乗っていた。
+
+## 内包番組
+
+  - [ニュース・パレード](../Page/ニュース・パレード.md "wikilink")
+  - [川中美幸 人・うた・心](https://ja.wikipedia.org/wiki/川中美幸_人・うた・心 "wikilink")
+  - 都民マイク（本番組終了後、CMなしで放送されたが、2001年10月 - 2002年3月のみ内包）
+  - [ライオンズエキスプレス](../Page/文化放送ライオンズナイター.md "wikilink")（2001年10月 - 2002年3月のみ内包）
+
+## 関連項目
+
+  - [野村邦丸のごきげん\!二重丸◎](https://ja.wikipedia.org/wiki/野村邦丸のごきげん!二重丸◎ "wikilink")（当番組終了後、邦丸が担当した番組）
+  - [くにまるワイド ごぜんさま〜](https://ja.wikipedia.org/wiki/くにまるワイド_ごぜんさま〜 "wikilink")（二重丸◎の後身、引き続き邦丸が担当）
+
+[Category:文化放送の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:文化放送の帯番組の歴史 "wikilink") [Category:文化放送の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:文化放送の情報・ワイドショー番組 "wikilink") [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink")

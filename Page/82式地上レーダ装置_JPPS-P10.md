@@ -1,0 +1,35 @@
+> この記事は[82 JPPS-P10](https://ja.wikipedia.org/wiki/82_JPPS-P10)から翻訳されています。
+
+
+**82式地上レーダ装置 JPPS-P10**は、[富士通](../Page/富士通.md "wikilink")が製作していた[レーダー](../Page/レーダー.md "wikilink")。後に**地上レーダ装置2号**と改称した\[1\]。
+
+地上レーダ装置AN/PPS-4の後継となる戦場監視装置として、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")において[昭和57年度から配備開始された](../Page/1982年.md "wikilink")\[2\]。後継として、[平成18年度より](https://ja.wikipedia.org/wiki/2006年 "wikilink")、やはり富士通が開発した**地上レーダ装置2号(改) JPPS-P24**が制式化されている。
+
+## 構成
+
+  - 送受信機 JRT-P12（19.5 kg）\[3\]
+  - 三脚架 JLG-P1（8.5 kg）\[4\]
+  - 電池箱 JCH-P2（5.6 kg） - [リチウム電池](https://ja.wikipedia.org/wiki/リチウム電池 "wikilink")。なお自動車用蓄電池も使用できる\[5\]。
+  - たい頭受話器 JHS-P1 - [ヘッドフォン](https://ja.wikipedia.org/wiki/ヘッドフォン "wikilink")型レシーバー。2個を備えている\[6\]。
+  - 眼鏡 JMX-V1 - 送受信機の側面に設置して、装置の方位角及び高低角の設定を行える\[7\]
+  - その他ケーブル類
+
+各構成品に分解しての人力担送が可能であり、使用時には、送受信機を三脚上に架して地上に設置する。また整備性向上のため、送受信機はユニット化されている。動作モードとしては、探知モードと捕捉モードがある\[8\]。
+
+## 参考文献
+
+## 関連項目
+
+  - [陸上自衛隊の装備品一覧](../Page/陸上自衛隊の装備品一覧.md "wikilink")
+  - [85式地上レーダー装置 JTPS-P11](https://ja.wikipedia.org/wiki/85式地上レーダー装置_JTPS-P11 "wikilink")（地上レーダ装置1号） - より大型で車載式の戦場監視装置。
+
+[Category:陸上自衛隊のレーダ装置](https://ja.wikipedia.org/wiki/Category:陸上自衛隊のレーダ装置 "wikilink") [Category:富士通の製品](https://ja.wikipedia.org/wiki/Category:富士通の製品 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.

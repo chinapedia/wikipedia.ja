@@ -1,0 +1,44 @@
+> この記事は[Mk.VII](https://ja.wikipedia.org/wiki/Mk.VII)から翻訳されています。
+
+
+**Mk.VII 軽戦車 テトラーク**は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時にイギリスによって開発、使用された[軽戦車](../Page/軽戦車.md "wikilink")。[空挺戦車](../Page/空挺戦車.md "wikilink")としても使用された。「テトラーク (Tetrarch)」とは、[古代ローマ](../Page/古代ローマ.md "wikilink")における四帝分割（[テトラルキア](https://ja.wikipedia.org/wiki/テトラルキア "wikilink")）時代の分割統治者の意味。
+
+## 開発の経緯
+
+1937年、[ビッカース・アームストロング社はそれまでの](../Page/アームストロング・ホイットワース.md "wikilink")[Mk.VI軽戦車](https://ja.wikipedia.org/wiki/Mk.VI軽戦車 "wikilink")の後継車両を独自に開発することを決定した。1937年12月に試作車が完成、1938年に軍の試験を受けた結果、**A17**軽戦車として制式採用された。
+
+従来の[Mk.VI軽戦車](https://ja.wikipedia.org/wiki/Mk.VI軽戦車 "wikilink")まで用いられていたホルストマン式懸架装置を廃し、イギリス、ソ連の戦車に大きな影響を与えた[ジョン・W・クリスティー](../Page/ジョン・W・クリスティー.md "wikilink")の一連の戦車に見られる大型転輪を片側に4つ装備することになった。また他の戦車と比べ変わっていたのは、第1転輪を左右に操向することにより[履帯](https://ja.wikipedia.org/wiki/履帯 "wikilink")を直接曲げて方向転換する方式を採用していたことで、これにより自動車式のハンドルで運転できた。
+
+## 実戦での運用
+
+本車は1940年より生産開始された。しかし、1940年5月の[ダンケルクの戦い](../Page/ダンケルクの戦い.md "wikilink")（ダンケルク撤退作戦）の後はドイツの[機甲部隊](https://ja.wikipedia.org/wiki/機甲部隊 "wikilink")に対する量的不足を埋めるために[巡航戦車](https://ja.wikipedia.org/wiki/巡航戦車 "wikilink")や[歩兵戦車](../Page/歩兵戦車.md "wikilink")の生産に追われる状況となり、一時生産が中断した。こうした状況下で同年11月にようやく量産型が引き渡され、177輌が生産されたが、1941年4月にはドイツ軍の[イギリス本土爆撃により生産を行っていたメトロ](../Page/バトル・オブ・ブリテン.md "wikilink")・カルテル社の工場が被害を受け、再び生産は中止された。
+
+元は英第9騎兵連隊所属の、実戦で使われていない20輌がソ連にレンドリースされ、うち19輌は北部イランに駐屯する第151戦車旅団（後に第563独立戦車大隊に糾合）に配備された。これらは1943年初めに第47軍の配下となり[南コーカサス](../Page/南コーカサス.md "wikilink")方面での戦闘に参加、終戦までに7輌が全損となり失われた。
+
+[マダガスカル島上陸作戦などでも実戦使用されたが評価は低く](https://ja.wikipedia.org/wiki/マダガスカルの戦い "wikilink")、また当時のイギリス軍の主戦場であったアフリカなどの熱帯では使えないことが判明した。そのため第一線からは退くこととなった。
+
+本車に目をつけたのはイギリス軍[空挺部隊](https://ja.wikipedia.org/wiki/空挺部隊 "wikilink")であった。1943年に空挺部隊に移管され、[グライダー](../Page/グライダー.md "wikilink")搭載の空挺戦車として配備された。1944年6月の[ノルマンディー上陸作戦](https://ja.wikipedia.org/wiki/ノルマンディー上陸作戦 "wikilink")では大型グライダーの[GAL-49 ハミルカーと共に](https://ja.wikipedia.org/wiki/ゼネラル・エアクラフト_ハミルカー "wikilink")6輌が実戦に投入された。1945年のライン川渡河作戦にも少数が参加した。
+
+第二次世界大戦後も空挺部隊に配備されていたテトラークだが、イギリス空挺部隊がグライダーを廃止したこともあり、1949年に退役した。
+
+## 派生型
+
+  - テトラークICS
+    近接支援用の3インチ（76.2 mm）[榴弾砲](https://ja.wikipedia.org/wiki/榴弾砲 "wikilink")を搭載した車輌。
+  - テトラークDD
+    [ニコラス・ストラウスラー](https://ja.wikipedia.org/wiki/ニコラス・ストラウスラー "wikilink")の提案によるストラウスラー・フロートの実証試験用に改装された[水陸両用戦車](https://ja.wikipedia.org/wiki/水陸両用戦車 "wikilink")。車体上部を覆うキャンバスにより浮力を与えられており、車体前部に推進用のプロペラが設けられた。
+  - [Mk.VIII ハリー・ホプキンス軽戦車](https://ja.wikipedia.org/wiki/Mk.VIII_ハリー・ホプキンス軽戦車 "wikilink") :A25
+    ビッカース社によって生産された後継車輌。砲塔や車体の形状が変更されており、装甲も強化されている。1944年までに計100輌が生産されたが、実戦には用いられなかった。
+
+## 登場作品
+
+  - 『[War Thunder](https://ja.wikipedia.org/wiki/War_Thunder "wikilink")』（[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")）
+    [イギリス陸軍](../Page/イギリス陸軍.md "wikilink")の[軽戦車](../Page/軽戦車.md "wikilink")として登場。
+  - 『[World of Tanks](https://ja.wikipedia.org/wiki/World_of_Tanks "wikilink")』（[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")）
+    イギリスからレンドリースされたソ連軽戦車Tetrarchとして登場。
+  - 『[ガールズ&パンツァー リボンの武者](https://ja.wikipedia.org/wiki/ガールズ&パンツァー_#『リボンの武者』 "wikilink")』
+    聖グロリアーナ女学院のタンカスロンチーム「チンディット」の[主力戦車](../Page/主力戦車.md "wikilink")として登場。
+
+## 外部リンク
+
+[Category:イギリスの戦車](https://ja.wikipedia.org/wiki/Category:イギリスの戦車 "wikilink") [Category:軽戦車](https://ja.wikipedia.org/wiki/Category:軽戦車 "wikilink") [Category:空挺戦車](https://ja.wikipedia.org/wiki/Category:空挺戦車 "wikilink")

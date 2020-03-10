@@ -1,0 +1,92 @@
+> この記事は[MV](https://ja.wikipedia.org/wiki/MV)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Mv_agusta.jpg "wikilink") **MVアグスタ**（*MV Agusta* ）は[イタリア](../Page/イタリア.md "wikilink")の[オートバイ](../Page/オートバイ.md "wikilink")メーカーである。
+
+## 概要
+
+創業は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")以前だが、戦後に国際レース活動で高い成績を残したものの、親会社の意向で約30年の活動後、解散する。
+
+その約20年後の1999年、[カジバ](https://ja.wikipedia.org/wiki/カジバ "wikilink")の資本参加で再活動している。とはいえブランド名が復活しただけで、1970年代以前とは全く別の会社である。その後2004年にマレーシアの自動車メーカー、[プロトンの傘下に入るが依然として業績低迷が続き](https://ja.wikipedia.org/wiki/プロトン_\(自動車\) "wikilink")、2005年12月27日にプロトンは全保有株をイタリアの投資会社GEVIにわずか1ユーロで売却することを発表した。その後も業績不振が続き2008年7月11日[ハーレーダビッドソン](https://ja.wikipedia.org/wiki/ハーレーダビッドソン "wikilink")に売却されることで合意したが、2009年10月にハーレーダビッドソンも売却の意向を表明し、2010年に再び元々の経営者グループにカジバと共に復帰した。
+
+*元の親会社で[ヘリコプター](../Page/ヘリコプター.md "wikilink")メーカーについては[アグスタ](https://ja.wikipedia.org/wiki/アグスタ "wikilink")を参照。*
+
+## 歴史
+
+### 創成期
+
+  - [1923年](../Page/1923年.md "wikilink") - アグスタ伯爵家のジョバンニ・アグスタが「ジョバンニ・アグスタ航空会社」を設立、[航空機](../Page/航空機.md "wikilink")の生産と整備を開始する。
+  - [1943年](../Page/1943年.md "wikilink") - 排気量100ccの[2サイクル](https://ja.wikipedia.org/wiki/2サイクル "wikilink")[エンジン](../Page/エンジン.md "wikilink")を搭載した[モペッド](https://ja.wikipedia.org/wiki/モペッド "wikilink")の製造を開始する。
+
+### 戦後、オートバイの生産開始
+
+  - [1945年](../Page/1945年.md "wikilink") - 大戦終結。これにより敗戦国となったイタリアは航空機の生産を禁止され、アグスタはモペッドから発展したオートバイの生産を主力とした子会社MVアグスタ（メカニカ・ヴェルゲーラ・アグスタ：ヴェルゲーラは会社のあった地名）を設立。
+  - [1948年](../Page/1948年.md "wikilink") - 性能のアピールのためレース部門を設置、[ロードレースに参加し初勝利をあげる](https://ja.wikipedia.org/wiki/ロードレース_\(オートバイ\) "wikilink")。レース活動を行うにあたっては、単気筒モデルの設計に[ベネリ](https://ja.wikipedia.org/wiki/ベネリ "wikilink")から、また4気筒500ccモデルの設計には[ジレラ](https://ja.wikipedia.org/wiki/ジレラ "wikilink")や[ドゥカティ](https://ja.wikipedia.org/wiki/ドゥカティ "wikilink")などライバル社から有能な人材を引き抜き、高性能化を推し進める。また[ジャコモ・アゴスチーニ](https://ja.wikipedia.org/wiki/ジャコモ・アゴスチーニ "wikilink")（MVアグスタのマシンで世界タイトルを13獲得）、[ジョン・サーティース](../Page/ジョン・サーティース.md "wikilink")、[マイク・ヘイルウッド](https://ja.wikipedia.org/wiki/マイク・ヘイルウッド "wikilink")、[フィル・リード](https://ja.wikipedia.org/wiki/フィル・リード "wikilink")、[タルクィニオ・プロヴィーニ](https://ja.wikipedia.org/wiki/タルクィニオ・プロヴィーニ "wikilink")などをライダーに迎え、数々の戦歴を挙げることとなる。
+  - [1952年](../Page/1952年.md "wikilink") - [ロードレース世界選手権](../Page/ロードレース世界選手権.md "wikilink")（WGP）・125ccクラスで[セシル・サンドフォード](https://ja.wikipedia.org/wiki/セシル・サンドフォード "wikilink")がワールドチャンピオンのタイトルを獲得する。
+  - [1956年](../Page/1956年.md "wikilink") - WGPの125cc・250cc・500cc各クラスにおいてワールドチャンピオンのタイトルを獲得する。
+  - [1958年](../Page/1958年.md "wikilink") - WGPの125cc・250cc・350cc・500cc各クラスにおいてワールドチャンピオンのタイトルを獲得する。また、1958年から[1960年](../Page/1960年.md "wikilink")までの3年間は125〜500ccクラス全クラスのメーカータイトルを獲得する。
+  - [1956年](../Page/1956年.md "wikilink")から[1973年](../Page/1973年.md "wikilink") までの18年間のうち、ジレラの獲得した[1957年](../Page/1957年.md "wikilink")を除くWGP・500ccクラスのワールドチャンピオンタイトルを獲得。
+  - [1956年](../Page/1956年.md "wikilink")から[1973年](../Page/1973年.md "wikilink") までの18年間のうち、ジレラの獲得した[1957年](../Page/1957年.md "wikilink")とホンダの獲得した[1966年](../Page/1966年.md "wikilink")を除くWGP・500ccクラスのメーカータイトルを獲得。
+  - [1974年](../Page/1974年.md "wikilink") - WGP・500ccクラスワールドチャンピオンのタイトルを獲得する。これが世界GPにおける最後のタイトルとなった。
+
+1976年のレース撤退（後述）までの間、優勝は通算3,027回、うち世界GPで270回を数え、37個のタイトルを獲得した。この期間に生産された市販車は競技車なみの高性能を誇り\[1\]、高価で希少なことから、後の「レーサーレプリカ」のはしりとして世界中の垂涎の的となった。特に600/750ccの並列4気筒モデルはWGPマシンのエンジンを拡大したレーシングマシン直系といえるもので、[ホンダ・CB750が登場するまで世界唯一の一般市販された横置き並列](https://ja.wikipedia.org/wiki/ホンダ・ドリームCB750FOUR "wikilink")4気筒バイクだった。
+
+### オートバイからの撤退
+
+  - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") - オートバイに力を入れていた2代目社長ドメニコが死去。弟のコラード・アグスタが後を継ぐ。
+  - [1976年](../Page/1976年.md "wikilink") - コラードが社業を航空機に一本化、オートバイ部門とレース部門を解体すると発表する。
+  - [1977年](../Page/1977年.md "wikilink") - オートバイの生産ラインを停止、完全撤退する。
+
+### ブランド復活
+
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [カジバ](https://ja.wikipedia.org/wiki/カジバ "wikilink")が、かつてのMVアグスタを伝説のものとした「高性能の市販車」の再現を目的としてブランドを取得、「MVアグスタ」を再興する。
+  - [1999年](../Page/1999年.md "wikilink") - CRC（*Centro Ricerche Cagiva* 、カジバリサーチセンター）の[マッシモ・タンブリーニ](https://ja.wikipedia.org/wiki/マッシモ・タンブリーニ "wikilink")をデザイナーに迎え、F4の生産・販売を開始する。
+  - [2004年](../Page/2004年.md "wikilink") - プロトンが7000万ユーロで買収する。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 伊GEVI社に1ユーロで売却される。
+  - [2007年](../Page/2007年.md "wikilink") - ハスクバーナを[BMW](../Page/BMW.md "wikilink")に売却する。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - 経営悪化によりハーレーダビッドソンに1億900万ドルで買収される事で合意。
+  - [2009年](../Page/2009年.md "wikilink") - ハーレーダビッドソンが売却を発表。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - カジバ買収直後のオーナー一族による経営に復帰。
+  - [2014年](../Page/2014年.md "wikilink") - SBKに参戦
+  - [2016年](../Page/2016年.md "wikilink")3月 - 4000万ユーロの負債を抱えて倒産処理手続中。
+  - [2019年](../Page/2019年.md "wikilink") - MotoGP・Moto2クラスへ参戦開始。MotoGPには実に42年ぶりの参戦再開となる\[2\]。 SBKから撤退(SSPのみ参戦中)
+
+## 生産機種
+
+### 1970年代以前
+
+  - **125S** - OHV空冷単気筒。
+  - **250S** - OHV空冷単気筒。
+  - **350S** - OHV空冷単気筒。
+  - **500S** - DOHC空冷3気筒。
+  - **600** - DOHC空冷4気筒。世界最初の近代的4気筒市販モデル。
+  - **750S** - DOHC空冷4気筒。ガソリンタンクの下部が丸く広がった独特の形状はディスコボランテ（空飛ぶ円盤の意）と呼ばれた。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:MV_Agusta_750S.jpg "wikilink")
+
+  - **750SS** - 750Sのフルカウルバージョンで稀少車。
+  - **1000S**
+  - **750Sアメリカ**/**1000Sアメリカ** - 角型のガソリンタンクやサイドカバーでデザインされたモデル。
+
+### 再興後
+
+#### F4シリーズ
+
+#### ブルターレシリーズ
+
+#### F3シリーズ
+
+## 外部リンク
+
+  - [MV Agusta](http://www.mvagusta.it/)
+  - [MVアグスタジャパン](http://www.mv-agusta.co.jp/)\[3\]
+
+## 脚注
+
+<references />
+
+[Category:イタリアのオートバイメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:イタリアのオートバイメーカー・ブランド "wikilink") [Category:アグスタ](https://ja.wikipedia.org/wiki/Category:アグスタ "wikilink")
+
+1.  1970年代以降は日本製バイクの方が上という見方もある。
+2.  [MVアグスタ、Moto2用マシン『F2』を公開。復帰は42年振り](https://jp.motorsport.com/moto2/news/mv-agusta-launches-bike-for-grand-prix-racing-return/4336058/) - motorsport.com 2019年2月13日
+3.  平成19年12月1日、伊本社の社名変更に伴い「カジバジャパン」から社名を変更

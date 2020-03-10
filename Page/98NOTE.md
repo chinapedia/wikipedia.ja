@@ -1,0 +1,81 @@
+> この記事は[98NOTE](https://ja.wikipedia.org/wiki/98NOTE)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:PC9821_Nb10_NEC.jpg "wikilink") **98NOTE**（きゅうはちノート）とは、かつて[日本電気](../Page/日本電気.md "wikilink")が発売していた[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")の[ノートパソコン](../Page/ノートパソコン.md "wikilink")。ラップトップ機であるLシリーズの後継機\[1\]にあたる。日本で「ノートパソコン」という名詞を定着させた機種とも言われる\[2\]。
+
+## 特徴
+
+### 初代機
+
+初代機はPC-9801Nで[1989年](../Page/1989年.md "wikilink")（平成元年）11月に発売された。[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")のJ-3100SS（シリーズ名は[ダイナブック](https://ja.wikipedia.org/wiki/ダイナブック_\(東芝\) "wikilink")、[IBM PCを東芝独自に日本語化したJ](https://ja.wikipedia.org/wiki/IBM_PC "wikilink")-3100シリーズ互換）、[エプソンの](../Page/セイコーエプソン.md "wikilink")286NOTE Executive\[3\]に先行された為、僅か3ヶ月半で開発・発売された\[4\]\[5\]。初代は[V30の](../Page/NEC_Vシリーズ.md "wikilink")10MHz駆動で、[液晶](../Page/液晶.md "wikilink")はモノクロ8階調だった。
+
+初期の機種からFDDを1台のみ内蔵していたが、内蔵ハードディスクのなかった当時のソフトはFDDを2台必要とするものも多かったため、[フロッピーディスク](../Page/フロッピーディスク.md "wikilink") (FD) の代わりに使用できる「[RAMドライブ](../Page/RAMディスク.md "wikilink")」を本体のメニューから設定できた\[6\]。また、NEC独自の増設RAMカードスロットを搭載し、初代機では[EMSメモリとして使用できるRAMカードを内蔵できた](https://ja.wikipedia.org/wiki/Expanded_Memory_Specification "wikilink")。
+
+背面には独自の拡張コネクタ(便宜的に 98ノートバス とも呼ばれる)を持った。これはデスクトップ型PC-9800の[Cバス](https://ja.wikipedia.org/wiki/Cバス "wikilink")スロットと電気的・論理的に互換しているもので、98ノートでCバス製品を使うために結線しただけの拡張ボックスも発売されていた。この拡張バスの存在はシリーズ後半に至るまで98ノートの強みであったが、小型で可搬性を優先した98NOTE Lightで省略され、末期にはフルノートのLavieでも省略されることになる。
+
+### 基本仕様の拡充
+
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）に登場した**98NOTE SX** (PC-9801NS)\[7\] は[80386](https://ja.wikipedia.org/wiki/80386 "wikilink")SXを搭載しており、RAMカードスロットに増設するRAMカードは（386SX以上のCPU搭載機では）プロテクトメモリとしても使用できるようになった。この機種以降、[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink") (HDD) を内蔵するモデルも登場するようになった。これはPC-9800シリーズで初めて2.5インチのIDE規格のHDDを採用した例である\[8\]。ただし、BIOS上ではSASIと区別されておらず、当時の機種ではフォーマット時に認識する容量に制限が掛けられていた。また、この機種からディップスイッチが画面で設定できるようになり、システムセットアップメニュー（98NOTEメニュー）に統合された。同年のPC-9801NV （V30HL/16MHz搭載）ではHDDは内蔵できなかったものの、[レジューム機能に対応したため](https://ja.wikipedia.org/wiki/スリープ_\(コンピュータ\) "wikilink")、サードパーティ製のRAMカードをHDD互換の不揮発RAMドライブとして活用できるようになり、セカンドバッテリーパックにも対応した。さらに[1991年](../Page/1991年.md "wikilink")のPC-9801NS/Eからはオプションで外部ディスプレイ出力が可能になり、HDDが専用パック方式になるなど、PC-9801型番の時代の98NOTEに共通の設計が定まってきている。この年には世界初のTFTカラー液晶を搭載したノートパソコンである、PC-9801NCも発売された\[9\]\[10\]。また、[1992年](../Page/1992年.md "wikilink")からは**98NOTE LIGHT**と称したFDDを外付けにして小型軽量化したシリーズも展開された。その初代であるPC-9801NLはA4薄型サイズであり、従来の独自RAMカードスロットとは別に、PC-98HA (HANDY98) と同様の[JEIDA](https://ja.wikipedia.org/wiki/電子情報技術産業協会#日本電子工業振興協会 "wikilink")4.0 (PCMCIA1.0) 規格のICカードスロットも搭載された\[11\]。しかし、当時のカードスロットはI/O機能を持たずメモリ系のデバイスしか使えない\[12\]といった欠点もあり、98NOTEでは採用が進まなかった。同年発売のPC-9801NS/T以降では独自のRAMカードスロットにI/O機能が追加され\[13\]、これを利用したモデムカードが存在したほか、サードパーティからはLANカードも発売された。増設用のRAMには別の専用スロットも設けられた。数か月後にはNS/T相当で小型軽量化したNS/Lも登場した。この年に登場した上位機PC-9801NAおよびNA/Cからは、[i486系CPUが採用されている](https://ja.wikipedia.org/wiki/Intel_486 "wikilink")。これは発売当時のPC-9801型番（すなわち[H98は除く](../Page/PC-H98シリーズ.md "wikilink")）機種としては、デスクトップのPC-9801FA (486SX/16MHz) を超える20MHz版が搭載されており、一時はシリーズ最速機種となった。また、内蔵IDEのフォーマット制限も無くなり、約500MBまでHDDを扱えるようになった。
+
+### PC-9821登場後
+
+デスクトップ機で[PC-9821シリーズ](../Page/PC-9821シリーズ.md "wikilink")の登場後、[1993年](../Page/1993年.md "wikilink")（平成5年）のPC-9801NS/Rからは3モードFDDを搭載し、1.44MBのFDにも対応した\[14\]。その後は同年5月のPC-9821Neを筆頭に[アーキテクチャ](https://ja.wikipedia.org/wiki/アーキテクチャ "wikilink")のPC-9821化が進んだが、シリーズ名は引き続き98NOTEを名乗った。このPC-9821Neや同時期のPC-9801NX/Cからはメモリの内部増設は機種毎のメモリ専用スロットに一本化され\[15\]、独自のRAMカードスロットが廃止されてJEIDA4.1/PCMCIA2.0\[16\]の[PCカード](../Page/PCカード.md "wikilink")スロットが搭載された。98NOTE LIGHTシリーズでは[1994年](../Page/1994年.md "wikilink")のPC-9801NL/RからB5ファイルサイズに小型化されたが、これ以降の小型機では拡張バスコネクタやRAMドライブが省略されるようになった。同時期のPC-9801NS/Aからはプリンタポートが双方向対応の36ピンになる\[17\]など、コネクタ類がPC-9821時代の規格に置き換わっていった。16MB以上の増設メモリに対応したのもこの頃である。同年のPC-9821Np・NsからはJEIDA4.2/PCMCIA2.1仕様のPCカードスロットが搭載されたほか、内蔵HDDは約4.3GBまで扱えるようになった。また、Npはシリーズで初めてWindows Sound System (WSS) 相当のPCM音源を搭載した\[18\]。これ以前の98NOTEには一部の小型機を除きPCカードスロットの他に110ピンのコネクタ式の拡張バスを備えていたが、PC-9821Ne2からは廃止され、Np/Nsでは198ピン仕様のものが採用されたものの、それ以降はNf/NxおよびNaシリーズに搭載されたのみに終わっている。Ne2以前のカラーLCDモデルではすべてTFTカラー液晶ディスプレイが採用されていたが、PC-9821NdからはDSTNカラー液晶モデルも投入されるようになった。この頃までは8MHz相当の動作モードも持っていたが、やがてLowモードの設定は従来のMiddleモードに相当する386SXから486SX程度の速度になっていった。小型機ではPC-9821Ldから9821型番のカラーモデルが登場した一方で、その下位機種に相当するPC-9801NL/Aを最後にPC-9801型番の98NOTEは終息した。PC-9821型番の98NOTEは、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")のPC-9821Nmを除いて液晶ディスプレイがすべてカラー表示可能となっている。また、同時期の上位機PC-9821Nfでは、98NOTEで初めて[Pentiumを搭載した](../Page/Intel_Pentium_\(1993年\).md "wikilink")。PC-9821Ne3、Nd2からは[IrDA](../Page/IrDA.md "wikilink")を搭載するようになった\[19\]。PC-9821NxやNa7以降の一部の上位機種では、[OPNA互換のFM音源を搭載した機種も登場した](../Page/YM2608.md "wikilink")。
+
+### Windows 95登場後
+
+[Windows 95時代になるとシリーズ名は](../Page/Microsoft_Windows_95.md "wikilink")98NOTE Lavieに、小型機は98NOTE Aileに変更された。それ以降は小型機以外でもRAMドライブが搭載されなくなり、FDD2台を前提としたソフトの利用が困難になった。[1996年](../Page/1996年.md "wikilink")のPC-9821Nr15からはZVポートを搭載するようになったほか、Nr15を含む一部の上位機種ではCardBusも採用されるようになった\[20\]。また、98NOTEとしては初めて外部ディスプレイ出力にミニD-sub15ピン3列（[VGA端子](https://ja.wikipedia.org/wiki/VGA端子 "wikilink")）のものが標準で装備された\[21\]。本体色もグレーから濃紺に変わった一方、Lowモードや40桁の表示モード、[ROM-BASIC](../Page/ROM-BASIC.md "wikilink")の起動は廃止された。リセットボタンも無くなったが、代わりにサスペンド（レジューム）用のボタンを備えるようになり、電源のスライドスイッチと同時に入れることで強制電源オフ（長押しで再起動）が行えるようになっている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")からはMMXを搭載する機種も登場し、該当機種では型番の数字が3桁になっている。小型機ではPC-9821Ls150/Ls12が登場し、久々にA4薄型サイズのラインナップも復活した。おおむね1997年5月頃に発表されたシリーズからは、内蔵IDE-HDDの認識上限が約4.3GB以上に対応した\[22\]。このため、Nr13やLs150など、この時期をまたがってマイナーチェンジされた一部の機種では、枝番によって4.3GB上限の存在するモデルとそうでないモデルが混在する。ただし例外としてB5サイズの小型機PC-9821La13では後期モデルにも4.3GBの壁が残された。
+
+NECの主力機種が[PC98-NXシリーズ](https://ja.wikipedia.org/wiki/PC98-NXシリーズ "wikilink")に移行してからも、98NOTEはNrシリーズを中心に細々と新製品が発表された。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の[Windows 98登場後は](../Page/Microsoft_Windows_98.md "wikilink")、Windows 98搭載モデルもラインナップに加わった。シリーズ最終機種は[1999年](../Page/1999年.md "wikilink")に発売されたPC-9821Nr300で、Windows 98モデルではSecond Editionが搭載されるようになった。[2000年](../Page/2000年.md "wikilink")には搭載HDDをフォーマット上限の約8GBに変更した後期モデルも発売された。
+
+## 主な機種
+
+以下を参照。
+
+  - [PC-9800シリーズ\#ノート型](https://ja.wikipedia.org/wiki/PC-9800シリーズ#ノート型 "wikilink")
+  - [PC-9821シリーズ\#ノート型](https://ja.wikipedia.org/wiki/PC-9821シリーズ#ノート型 "wikilink")
+  - [Aile\#98NOTE Aile](https://ja.wikipedia.org/wiki/Aile#98NOTE_Aile "wikilink")
+  - [LaVieの機種一覧](https://ja.wikipedia.org/wiki/LaVieの機種一覧 "wikilink")
+
+## 補足
+
+1989年から1992年まで、メインPRキャラクターには[大江千里が](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")、テレビ・ラジオのCMや、全国の駅、空港などのシティーボード広告に起用された。テレビCMには他に[小坂一也](../Page/小坂一也.md "wikilink")、[磯部弘](https://ja.wikipedia.org/wiki/磯部弘 "wikilink")、[沢たまき](../Page/沢たまき.md "wikilink")、[石井めぐみ](https://ja.wikipedia.org/wiki/石井めぐみ "wikilink")らが脇を固めた。さらに大江は「HANDY98」のテレビCMのメインも務めたほか、デスクトップパソコン (PC-9801FA/FS/FX) の雑誌および店頭広告にも起用されることになった。
+
+製品がPC-9821系統に移行した後はマルチメディア向けデスクトップ製品「[98MULTi CanBe](https://ja.wikipedia.org/wiki/98MULTi_CanBe "wikilink")」の宣伝に資源が集中され、本製品としてのテレビ・ラジオのCMはなくなり、雑誌・店頭広告にもキャラクターを起用することはなくなった。これ以後、ふたたびNECがノート型製品の大規模なコマーシャル宣伝を展開するのは、1997年に[PC98-NX](https://ja.wikipedia.org/wiki/PC98-NX "wikilink")シリーズが発表されるまで待たれることになる。
+
+## 脚注
+
+  - 注釈
+
+<!-- end list -->
+
+  - 出典
+
+## 関連項目
+
+  - [Aile](../Page/Aile.md "wikilink")
+  - [LaVie](https://ja.wikipedia.org/wiki/LaVie "wikilink")
+
+[Category:日本電気のパーソナルコンピュータ](https://ja.wikipedia.org/wiki/Category:日本電気のパーソナルコンピュータ "wikilink") [Category:携帯可能なコンピュータ](https://ja.wikipedia.org/wiki/Category:携帯可能なコンピュータ "wikilink")
+
+1.  可搬型デスクトップ環境としてのLシリーズの後継としては改めてPC-9801Tが発売され、PC-H98Tを挟んでPC-9821Tsに至る別系統が生まれる。
+2.
+3.  [EPSON PCシリーズ互換](https://ja.wikipedia.org/wiki/EPSON_PCシリーズ "wikilink")、初代機は[フロッピーディスクドライブ](https://ja.wikipedia.org/wiki/フロッピーディスクドライブ "wikilink") (FDD) なし。発表はJ-3100SSより先だったが、出荷は後となった。
+4.
+5.
+6.
+7.  「98NOTE SX」の表記は、その後もいくつかの386系CPU搭載機（NC、NS/Lを除く）で使われた。
+8.
+9.
+10. ただし前述のように[ノートパソコン](../Page/ノートパソコン.md "wikilink")は本シリーズによって日本で根付いたカテゴリであり、世界的には[ラップトップパソコン](https://ja.wikipedia.org/wiki/ラップトップパソコン "wikilink")の一種（詳細は両項目を参照）であるが、ラップトップ全般としてはこれ以前にもカラー機は存在する。
+11.
+12.
+13.
+14.
+15. 拡張バスに[Cバス](https://ja.wikipedia.org/wiki/Cバス "wikilink")を外部増設できる機種では、外部増設にはなるが、Cバスメモリを使用可能な場合もある。
+16. 「PCMCIA〜これからのノートパソコンのために〜」 月刊[ソフマップ](https://ja.wikipedia.org/wiki/ソフマップ "wikilink")ワールド Vol.51 (1993年11月号)、p.7
+17.
+18. あくまで73/86PCMとは異なるWSSという意味に限ればの話だが、デスクトップがMATE-X PCMを搭載するよりもわずかに早かった。
+19.
+20.
+21.
+22. ただし標準状態でフォーマット可能なのは、約8GBまで。

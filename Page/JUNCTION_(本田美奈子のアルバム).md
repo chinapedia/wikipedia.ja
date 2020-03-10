@@ -1,0 +1,56 @@
+> この記事は[JUNCTION \(\)](https://ja.wikipedia.org/wiki/JUNCTION_\(\))から翻訳されています。
+
+
+『**JUNCTION**』（ジャンクション）は、日本の歌手、[本田美奈子のアルバム](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")。[1994年](../Page/1994年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")に[マーキュリー・レコード](../Page/マーキュリー・レコード.md "wikilink")からリリースされた。
+
+## 解説
+
+『豹的 (TARGET)』以来5年ぶり、本田美奈子名義では7年ぶりのオリジナルアルバムで、ミュージカル女優として活躍を開始してから、また[東芝EMIからマーキュリー](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")（現・ユニバーサル）への移籍後初のアルバムである。一頃人気低迷にあえいでいた本田は、本作によりレコーディング・アーティストとしても復活を遂げることとなった。
+
+プロデューサーには映画『[パッセンジャー 過ぎ去りし日々](https://ja.wikipedia.org/wiki/パッセンジャー_過ぎ去りし日々 "wikilink")』で音楽監督を務めた渋谷森久（[越路吹雪](../Page/越路吹雪.md "wikilink")の担当ディレクターとしても知られる）と、『[ミス・サイゴン](https://ja.wikipedia.org/wiki/ミス・サイゴン "wikilink")』の訳詞を担当した[岩谷時子](../Page/岩谷時子.md "wikilink")が迎えられた。以下の楽曲解説に明らかなように、タイトルの通り様々な音楽ジャンルの合流点となることを意識して制作されている。
+
+## 収録曲
+
+1.  **祈り**
+      - 作詞：[岩谷時子](../Page/岩谷時子.md "wikilink")、作曲・編曲：[萩田光雄](https://ja.wikipedia.org/wiki/萩田光雄 "wikilink")
+    <!-- end list -->
+      -
+        [グレゴリオ聖歌](../Page/グレゴリオ聖歌.md "wikilink")から[キリエ](../Page/キリエ.md "wikilink")を翻案した楽曲。男声コーラスをバックに岩谷時子が書き下ろした日本語詞を歌っている。
+2.  **ポジティブに愛して**
+      - 作詞・作曲：I.Cano、日本語詞：岩谷時子、編曲：[見岳章](https://ja.wikipedia.org/wiki/見岳章 "wikilink")
+      - 「つばさ」のc/w曲
+3.  **[愛の讃歌](../Page/愛の讃歌.md "wikilink")**
+      - 作詞・作曲：M.Monnot、日本語詞：岩谷時子、編曲：萩田光雄
+    <!-- end list -->
+      -
+        [エディット・ピアフ](../Page/エディット・ピアフ.md "wikilink")の代表曲であり、日本では[越路吹雪](../Page/越路吹雪.md "wikilink")の歌唱によって知られる。岩谷が越路のために訳した詞で歌っている。
+4.  **アマリア**
+      - 作詞：岩谷時子、作曲：内藤法美、編曲：萩田光雄
+    <!-- end list -->
+      -
+        これも越路吹雪の代表曲の一つで、作詞は岩谷による。越路の夫である内藤法美の作曲だが、[ファド](https://ja.wikipedia.org/wiki/ファド "wikilink")を模した作品である。
+5.  **My Love of Destiny**
+      - 作詞：高杉碧、作曲：[三木たかし](../Page/三木たかし.md "wikilink")、編曲：萩田光雄
+6.  **風流風鈴初恋譚**
+      - 作詞：岩谷時子、作曲：[弦哲也](../Page/弦哲也.md "wikilink")、編曲：萩田光雄
+    <!-- end list -->
+      -
+        [演歌](../Page/演歌.md "wikilink")風の調子のオリジナル曲。[石川さゆり](https://ja.wikipedia.org/wiki/石川さゆり "wikilink")の「[天城越え](https://ja.wikipedia.org/wiki/天城越え_\(曲\) "wikilink")」などで知られる弦哲也の作曲。
+7.  **BB（ベベ）ちゃん雲にのる**
+      - 作詞：[阿久悠](https://ja.wikipedia.org/wiki/阿久悠 "wikilink")、作曲：深田太郎、編曲：鈴木豪
+    <!-- end list -->
+      -
+        チャールストン風のリズムによる軽快な曲。次の「さあね」とともに本田にとっては数少ない阿久悠作品の一つである。“BBちゃん”とは[ブリジット・バルドー](https://ja.wikipedia.org/wiki/ブリジット・バルドー "wikilink")がモデルだと言われている。作曲は阿久の息子で元GENDA×BENDAのメンバーだった深田太郎によるもの。
+8.  **さあね**
+      - 作詞：阿久悠、作曲：深田太郎、編曲：鈴木豪
+9.  **命をあげよう**
+      - 作詞・作曲：Alain Boubill・Claude-Michel Schoberg、日本語詞：岩谷時子、編曲：[宮川彬良](../Page/宮川彬良.md "wikilink")
+    <!-- end list -->
+      -
+        ミュージカル『[ミス・サイゴン](https://ja.wikipedia.org/wiki/ミス・サイゴン "wikilink")』の代表的なナンバー。このアルバムのための編曲によるスタジオ録音が収録されている。
+10. **[つばさ](../Page/つばさ_\(本田美奈子の曲\).md "wikilink")**
+      - 作詞：岩谷時子、作曲：[太田美知彦](../Page/太田美知彦.md "wikilink")、編曲：[佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink")
+11. **すべてが変るだろう**
+      - 作詞・作曲：P.Delanoe・M.Fugain、日本語詞：岩谷時子、編曲：萩田光雄
+
+[Category:1994年のアルバム](https://ja.wikipedia.org/wiki/Category:1994年のアルバム "wikilink") [Category:本田美奈子.のアルバム](https://ja.wikipedia.org/wiki/Category:本田美奈子.のアルバム "wikilink") [Category:ユニバーサル_ミュージック_グループのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサル_ミュージック_グループのアルバム "wikilink")

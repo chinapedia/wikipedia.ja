@@ -1,0 +1,60 @@
+> この記事は[UF-XS](https://ja.wikipedia.org/wiki/UF-XS)から翻訳されています。
+
+
+{{ Infobox 航空機 | 名称=UF-XS | 画像=画像:UFXS KASM001.jpg | キャプション=[岐阜かかみがはら航空宇宙博物館](https://ja.wikipedia.org/wiki/岐阜かかみがはら航空宇宙博物館 "wikilink")にて撮影 | 用途=研究機 | 分類=[飛行艇](../Page/飛行艇.md "wikilink") | 設計者= | 製造者=[新明和工業](../Page/新明和工業.md "wikilink")（[グラマン](../Page/グラマン.md "wikilink")） | 運用者=新明和工業 | 初飛行年月日=[1962年](../Page/1962年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink") | 生産数=1機 | 生産開始年月日= | 運用開始年月日=[1963年](../Page/1963年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink") | 退役年月日=[1967年](../Page/1967年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink") | 運用状況=退役 | ユニットコスト= }} [thumb](https://ja.wikipedia.org/wiki/画像:UF1Albatross.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:UFXS_KASM023.jpg "wikilink") **UF-XS**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[航空機メーカー](../Page/航空機メーカーの一覧.md "wikilink")[新明和工業](../Page/新明和工業.md "wikilink")による実験用[飛行艇](../Page/飛行艇.md "wikilink")。原型機の提供を受けての改造機であるが、改造箇所は多岐にわたっている。
+
+## 開発
+
+[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")以前、日本の航空技術は急成長を遂げたが、敗戦によって[GHQ SCAPが占領すると](../Page/連合国軍最高司令官総司令部.md "wikilink")、日本人の航空の運行、製造、研究を一切禁止した。7年後に解禁されるが、その間に世界の航空機技術は格段に進歩していた。
+
+ところが、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")では日本から持ち帰った[二式大艇を飛行実験したところ](../Page/二式飛行艇.md "wikilink")、アメリカや[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の同時期の飛行艇よりも優れていたことが明らかになり、驚いた[グラマン](../Page/グラマン.md "wikilink")社やマーチン社は[1958年](../Page/1958年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")33年）に、二式大艇を製作した[川西航空機](../Page/川西航空機.md "wikilink")の後身、新明和興業（現[新明和工業](../Page/新明和工業.md "wikilink")）に対して、自社の飛行艇の改造実験を行うように求めた。
+
+一方、かつて川西で活躍した技術者、[菊原静男](https://ja.wikipedia.org/wiki/菊原静男 "wikilink")は[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")（昭和28年）から社内で飛行艇の構想を練っており、[1957年](../Page/1957年.md "wikilink")（昭和32年）には[防衛庁](https://ja.wikipedia.org/wiki/防衛庁 "wikilink")に対し、飛行艇の実験機を作らないかと持ちかけていた。これを受けて防衛庁でも飛行艇の実用化を検討して、[1960年](../Page/1960年.md "wikilink")（昭和35年）には、新型飛行艇を[対潜哨戒機](../Page/対潜哨戒機.md "wikilink")として使用する案がまとまった。すでに菊原は新型の波消し装置を付けた模型飛行艇の試験でグラマンとマーチンから高い評価を得ており、日本独自の優秀な飛行艇を作り、海外にアピールする好機だと捉えていた。
+
+菊原の考えた新型飛行艇は、波高3メートルでの離着水能力と高揚力装置を備えた挑戦的なものだった。興味を持ったグラマンは、菊原の技術を将来的に自社に取り入れられると考え、気前良く[米海軍](https://ja.wikipedia.org/wiki/米海軍 "wikilink")向けの[UF-2救難飛行艇](../Page/HU-16_\(航空機\).md "wikilink")\[1\]1機を提供した。新明和は当時の金額で約7億円をかけ\[2\]、UF-2を基に艇底を自社開発の試作品に変更、垂直・水平尾翼を採用予定の試作品に取り替え、主翼を延長してエンジンを4機に増設した実験飛行艇**UF-XS**を製作した。
+
+## 機体
+
+UF-2をベースにしており、コックピット周辺を含めた機体上部は面影をよく残しているが、機体下面（艇底）は模型を基に自社開発した試作品に取替えられ、波押さえや波消し装置が加えられた。波消し装置は魚の[鰓](https://ja.wikipedia.org/wiki/鰓 "wikilink")を参考にしており、艇首側面の入水口から波を吸い込み、艇体中央部側面から排水することで着水時の波を消すようになっている\[3\]。この波消し装置の採用によって、吸水時の水圧で艇首が浮き上がって離水しやすくなるという特性も兼ね備えている。ごく一般的だった垂直尾翼・水平尾翼は完全に取り払われ、自社開発のT字型尾翼（輸送機などで多用）に変更したほか、水上滑走中の安定性を高めるために、艇尾部に水中安定板を追加した\[4\]。機体上部にはBLC用のT58ガスタービンエンジン×2を搭載、主翼も変更され、自社開発の前縁スラットと後縁吹き出し（BLC）フラップを装備、高揚力装置によりSTOL性を求め、エンジンはUF-2の双発（プロペラ3翔）に、さらに輸入エンジン双発（プロペラ2翔）を加えた4発とし、主翼下の着水用フロートも自社開発品とした。以上のような形態の変更の他、機体色は黒をベースにオレンジのアクセント、試験用に白い区画線が幾本も入るもので（この塗装も現在は復元されているが、三保時代は後のPS-1の一般的な塗装に類似した、実験機という印象の薄いものになっていた）、一見では元のUF-2を意識することは難しい。機体の大きさは、PS-1の4分の3となっている。
+
+## 運用
+
+UF-XSは、[1962年](../Page/1962年.md "wikilink")（昭和37年）[12月20日](../Page/12月20日.md "wikilink")に初飛行、[1963年](../Page/1963年.md "wikilink")（昭和38年）[3月30日](../Page/3月30日.md "wikilink")から大村航空隊に配備され、[1966年](../Page/1966年.md "wikilink")（昭和41年）まで波消し装置、自動安定装置、高揚力装置などの様々な実験、試験、調査を行い、十分な基礎データを取得した。このデータを基に、防衛庁は対潜哨戒機の製造を新明和に求め、[海上自衛隊](https://ja.wikipedia.org/wiki/海上自衛隊 "wikilink")[PS-1](https://ja.wikipedia.org/wiki/PS-1 "wikilink")の完成、救難飛行艇[US-1](../Page/US-1.md "wikilink")、[US-2に繋がっていく](https://ja.wikipedia.org/wiki/US-2_\(航空機\) "wikilink")。また、その高性能からアメリカ、イギリスから照会があったほか、ニュージーランド、オーストラリア、インドネシアなどからは商談もあり、新明和工業が200～300人乗りの大形旅客飛行艇PX-Sを企画するきっかけになった\[5\]。
+
+UF-XSは[1967年](../Page/1967年.md "wikilink")（昭和42年）[10月16日](../Page/10月16日.md "wikilink")に用途廃止とされた。
+
+機体はその後、[下総基地](https://ja.wikipedia.org/wiki/下総基地 "wikilink")、[静岡県](../Page/静岡県.md "wikilink")[清水市](../Page/清水市.md "wikilink")（現[静岡市](../Page/静岡市.md "wikilink")[清水区](../Page/清水区.md "wikilink")）三保の[東海大学航空宇宙科学博物館](https://ja.wikipedia.org/wiki/東海大学航空宇宙科学博物館 "wikilink")（1984年7月31日で閉館。ただし閉館後もしばらくの間、本機については、同地の展示館群の他の屋外展示物とともに屋外に静置されていた）を経て、現在はUS-1と共に[岐阜かかみがはら航空宇宙博物館](https://ja.wikipedia.org/wiki/岐阜かかみがはら航空宇宙博物館 "wikilink")に展示されている。
+
+## スペック
+
+  - 乗員 - 7名
+  - 全長 - 23.1m
+  - 全幅 - 24.4m
+  - 全高 - 7.8m
+  - 空虚重量 - 12,484kg
+  - エンジン
+      - [P\&W](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー "wikilink") [R-1340](../Page/プラット・アンド・ホイットニー_R-1340.md "wikilink")（600[馬力](../Page/馬力.md "wikilink")）×2
+      - [ライト](https://ja.wikipedia.org/wiki/カーチス・ライト "wikilink") [R-1820](../Page/ライト_R-1820.md "wikilink")（1,425馬力）×2
+  - 最大速度 - 333 km/h=M0.27
+
+## 脚注
+
+<references/>
+
+## 参考文献
+
+  - 前間孝則『日本はなぜ旅客機を作れないのか』 [草思社](https://ja.wikipedia.org/wiki/草思社 "wikilink") ISBN 4-7942-1165-1
+
+## 関連項目
+
+  - [日本製航空機の一覧](../Page/日本製航空機の一覧.md "wikilink")
+
+[Category:飛行艇](https://ja.wikipedia.org/wiki/Category:飛行艇 "wikilink")
+
+[Category:日本の実験機](https://ja.wikipedia.org/wiki/Category:日本の実験機 "wikilink") [Category:新明和の航空機](https://ja.wikipedia.org/wiki/Category:新明和の航空機 "wikilink") [Category:海上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:海上自衛隊の装備品 "wikilink")
+
+1.  グラマンG-64「アルバトロス」飛行艇。元は空軍のSA-16Aとして製造された機体
+2.  「表紙説明 夢の飛行艇"UF-XS"」『科学読売』1963年10月号 [讀賣新聞社](https://ja.wikipedia.org/wiki/讀賣新聞社 "wikilink")
+3.
+4.
+5.

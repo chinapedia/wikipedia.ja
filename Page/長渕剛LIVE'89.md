@@ -1,0 +1,71 @@
+> この記事は[LIVE\'89](https://ja.wikipedia.org/wiki/LIVE\'89)から翻訳されています。
+
+
+『**長渕剛LIVE'89**』（ながぶちつよし・ライブ・はちじゅうきゅう）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")である。
+
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")に[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")／エキスプレスよりリリースされた。
+
+## 解説
+
+[1989年](../Page/1989年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")、[7月14日](../Page/7月14日.md "wikilink")の2日間に亘って行われた[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")での公演（『昭和』ツアーのファイナル）から収録されている。2枚組CD。 完全版と思われがちだが、曲順はかなり編集されている。また弾き語りのコーナーで歌った「勇次」は収録されていない。
+
+[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink")はこの『昭和』ツアーについて「どの公演の音源を使っても、すぐライブアルバムが作れるぐらいクオリティが高かった」と述懐しており、長渕本人も「一番ハードなツアーだった」と述懐している。
+
+## リリース履歴
+
+| No. | 日付                                                                                          | [レーベル](../Page/レコードレーベル.md "wikilink")                                  | 規格                                                                        | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 最高順位 | 備考                                                                    |
+| --- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------- | ---- | --------------------------------------------------------------------- |
+| 1   | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月21日](../Page/2月21日.md "wikilink") | [東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")／エキスプレス | [CD](../Page/コンパクトディスク.md "wikilink")・[CT](../Page/カセットテープ.md "wikilink") | TOCT-5630〜1 (CD)・TOTT-5630〜1 (CT)                     | 1位   |                                                                       |
+| 2   | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")   | 東芝EMI／エキスプレス                                                            | CD                                                                        | TOCT-25962〜3                                          | \-   | 24ビット・[デジタルリマスター](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink") |
+
+## 収録曲
+
+## 曲解説
+
+### DISC-1
+
+1.  **くそったれの人生**
+2.  **[泣いてチンピラ](https://ja.wikipedia.org/wiki/泣いてチンピラ "wikilink")**
+3.  **[ろくなもんじゃねえ](https://ja.wikipedia.org/wiki/ろくなもんじゃねえ "wikilink")**
+4.  **ほんまにうち寂しかったんよ**
+5.  **He・la-He・la**
+6.  **[巡恋歌](../Page/巡恋歌.md "wikilink")**
+7.  **シェリー**
+8.  **[激愛](https://ja.wikipedia.org/wiki/激愛 "wikilink")**
+9.  **[乾杯](https://ja.wikipedia.org/wiki/乾杯_\(長渕剛の曲\) "wikilink")**
+      -
+        ほぼ聴衆によって歌われている。後にこのライブ・バージョンがベスト・アルバム『[いつかの少年](https://ja.wikipedia.org/wiki/いつかの少年 "wikilink")』（[1994年](../Page/1994年.md "wikilink")）に収録された。
+10. **素顔**
+11. **碑**
+12. **いつかの少年**
+
+### DISC-2
+
+1.  **GO STRAIGHT**
+2.  **プン プン プン**
+3.  **[SUPER STAR](https://ja.wikipedia.org/wiki/SUPER_STAR "wikilink")**
+4.  **明け方までにはケリがつく**
+5.  **裸足のまんまで**
+6.  **DON'T CRY MY LOVE**
+      -
+        冒頭に長渕の[MCが入っている](https://ja.wikipedia.org/wiki/司会 "wikilink")。
+7.  **[勇次](https://ja.wikipedia.org/wiki/勇次 "wikilink")**
+8.  **[とんぼ](https://ja.wikipedia.org/wiki/とんぼ_\(長渕剛の曲\) "wikilink")**
+9.  **STAY DREAM**
+10. **昭和**
+
+## 参加ミュージシャン
+
+  - **島村英二** - [ドラムス](../Page/ドラムセット.md "wikilink")
+  - **岡沢章** - [エレクトリックベース](../Page/エレクトリックベース.md "wikilink")
+  - **長渕剛** - [アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")
+  - **[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink")** - アコースティック・ギター
+  - **[矢島賢](../Page/矢島賢.md "wikilink")** - [エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")
+  - **[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")** - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - **浜田良美** - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[ギター](../Page/ギター.md "wikilink")
+
+## 外部リンク
+
+  - [公式サイトディスコグラフィー「長渕剛LIVE'89」](http://www.nagabuchi.or.jp/disco/albums/019.html)
+
+[Category:長渕剛のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:長渕剛のライブ・アルバム "wikilink") [Category:1990年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:1990年のライブ・アルバム "wikilink") [Category:1990年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1990年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:エキスプレスのアルバム](https://ja.wikipedia.org/wiki/Category:エキスプレスのアルバム "wikilink")

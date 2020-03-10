@@ -1,0 +1,154 @@
+> この記事は[ONE PIECE THE MOVIE ](https://ja.wikipedia.org/wiki/ONE_PIECE_THE_MOVIE_)から翻訳されています。
+
+
+『**ONE PIECE THE MOVIE オマツリ男爵と秘密の島**』（ワンピース ザ ムービー オマツリだんしゃくとひみつのしま）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")に公開された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")。漫画『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』を原作とした[テレビアニメの劇場版第](https://ja.wikipedia.org/wiki/ONE_PIECE_\(アニメ\) "wikilink")6作目。
+
+## 概要
+
+[細田守](https://ja.wikipedia.org/wiki/細田守 "wikilink")の長編アニメーション映画初監督作品。
+
+細田によれば、『[ハウルの動く城](https://ja.wikipedia.org/wiki/ハウルの動く城 "wikilink")』制作時のスタッフ召集の失敗と、その失敗によって絶望しているところへ新たな仲間が集まってきてくれた経験を、この作品の基にしているのだという\[1\]。
+
+## ストーリー
+
+「オマツリ島」への永久指針と地図を拾った麦わらの一味は、パラダイスだというその島を訪れる。島の当主と名乗るオマツリ男爵により数々の不条理な試練を受けさせられ、最初は楽しんでいたものの、仲間達が試練での苛立ちでどんどん不協和音を鳴らし、仲間割れを起こしてしまう。そんな中、チョッパーとロビンは島の不自然さを感じ始めていた。
+
+## 登場人物
+
+### 麦わらの一味
+
+  - [モンキー・D・ルフィ](https://ja.wikipedia.org/wiki/モンキー・D・ルフィ "wikilink")
+    声 - [田中真弓](../Page/田中真弓.md "wikilink")
+  - [ロロノア・ゾロ](https://ja.wikipedia.org/wiki/ロロノア・ゾロ "wikilink")
+    声 - [中井和哉](https://ja.wikipedia.org/wiki/中井和哉 "wikilink")
+  - [ナミ](https://ja.wikipedia.org/wiki/ナミ_\(ONE_PIECE\) "wikilink")
+    声 - [岡村明美](https://ja.wikipedia.org/wiki/岡村明美 "wikilink")
+  - [ウソップ](https://ja.wikipedia.org/wiki/ウソップ "wikilink")
+    声 - [山口勝平](../Page/山口勝平.md "wikilink")
+  - [サンジ](../Page/サンジ.md "wikilink")
+    声 - [平田広明](../Page/平田広明.md "wikilink")
+  - [トニートニー・チョッパー](https://ja.wikipedia.org/wiki/トニートニー・チョッパー "wikilink")
+    声 - [大谷育江](../Page/大谷育江.md "wikilink")
+  - [ニコ・ロビン](https://ja.wikipedia.org/wiki/ニコ・ロビン "wikilink")
+    声 - [山口由里子](https://ja.wikipedia.org/wiki/山口由里子 "wikilink")
+
+### オリジナルキャラクター
+
+#### オマツリ島
+
+オマツリ男爵の部下の多くはレッドアローズ海賊団の船員で、オマツリ男爵がリリーの力でよみがえらせた死人が住人の大半を占めている。
+
+  - オマツリ男爵
+    声 - [大塚明夫](../Page/大塚明夫.md "wikilink")
+    オマツリ島の主。
+    秘密の宝物を賭けて、島を訪れた海賊団に「地獄の試練」という名のアトラクションで挑戦してくる。しかし、実際には秘密の宝物などを挑戦者に与える気はなく、これはリリーの生贄として強い海賊を集めるための口実であった。結束力の強い海賊団に嫉妬しており、海賊が仲間割れする様子を見ることを好む。そのため、試練を通して彼らが仲間割れするように仕向ける。本来はとても仲間想いな性格で、仲間たちからも非常に慕われていた。弓矢の名手で、標的を自動追尾する矢や爆発する矢など、様々な矢を使いこなす。
+    元はレッドアローズ海賊団の船長。かつて、ゴールド・ロジャーに会った直後、嵐で全ての仲間を失ってしまう。オマツリ島に漂着し悲しみのどん底にいた時リリー・カーネーションに出会い、島に来た人間を生贄にする事で仲間を復活させられることを知る。リリーの力でムチゴロウたちを復活させ、彼らの命を繋ぐため、より強い者を生贄にささげるべく、島をオマツリ島と称し、強い海賊を島におびき寄せるようになる。
+    オマツリ島に訪れたルフィたちに試練を与え、島の秘密を調べるチョッパーとロビンを襲撃する。その後、チョッパーたちがいなくなったことに怒りを露にしたルフィを追い込み、ルフィ以外をリリーに取り込む。再び立ち向かってきたルフィを返り討ちにし、一度は失意のどん底に叩き落す。ブリーフの援護を受けたルフィの一撃をくらうと、リリーの真の姿を露にさせ、ルフィに無数の矢を浴びせる。しかし、お茶の間パパにリリーを射抜かれ、ルフィの渾身の一撃をくらい敗北した。その後の消息は不明。
+  - リリー・カーネーション
+    声 - [渡辺美佐](https://ja.wikipedia.org/wiki/渡辺美佐_\(声優\) "wikilink")
+    オマツリ男爵の肩にいる、人語を喋る小さな花。オマツリ島の固有種で、人間を生贄にする事で死者を復活させる事が出来る「死と再生の花」。リリーの力で甦った人間の頭には双葉がついている。リリーが長い間生贄を食べていないと甦らせた人間は体調不良に陥る。
+    普段は可愛らしい姿をしているが、真の姿はとても醜悪。男爵の肩に乗っているのが本体で、島の頂上にある巨大な管のような器官で生贄を食べる。この器官が大ダメージを受けると、数え切れないほどの無数の矢に分裂する（この矢は全て男爵が意のままに操れる）。お茶の間パパが放った矢をくらい消滅した。
+  - ムチゴロウ
+    声 - [草尾毅](../Page/草尾毅.md "wikilink")
+    オマツリ男爵の部下。第1の試練「金魚すくい」に登場。
+    純粋な性格で、ウソップの嘘に簡単に引っかかった。超巨大金魚「ロザリオちゃん」をすくうことに成功したが、ロビンとチョッパーの連係プレイに阻まれ敗北した。ロビンをもてなした際、ロビンの尋問でリリー・カーネーションの存在を漏らしてしまった。さらに晩餐会では、ナミに自分の素性を喋ってしまった。
+  - ケロジイ、ケロショット、ケロデーク、ケロコ
+    声 - [青野武](../Page/青野武.md "wikilink")、[佐藤正治](https://ja.wikipedia.org/wiki/佐藤正治_\(声優\) "wikilink")、[八奈見乗児](../Page/八奈見乗児.md "wikilink")、[山本圭子](https://ja.wikipedia.org/wiki/山本圭子 "wikilink")
+    オマツリ男爵の部下。第2の試練「輪投げ」に登場。
+    ケロジイはリーダー的存在、ケロショットは攻撃の要、ケロデークは修理が得意、ケロコは最年少で紅一点。ケロショットとケロデークはゾロ・サンジと対戦し、二人に何度も船を壊され、そのたびに修理し改良するも敗北。ケロジイとケロコはナミ・ウソップと対戦し、ケロコは敗れるもナミとウソップを退ける。残ったケロジイは喧嘩するゾロとサンジを翻弄するも、ウソップの奇襲をくらい敗北した。
+  - DJガッパ
+    声 - [池松壮亮](https://ja.wikipedia.org/wiki/池松壮亮 "wikilink")
+    オマツリ男爵の部下。第3の試練「射的」に登場。
+    話すとき語尾に「プ」をつける。頭の皿が爆弾になっており、それを投げて戦う。試練の前にウソップに接触し、帽子を奪った。試練ではゾロたちを襲うが、ゾロの攻撃を受けても一切血が出ないことに疑問を覚えていた。
+  - コテツ
+    声 - [綾小路翔](https://ja.wikipedia.org/wiki/綾小路翔 "wikilink")（[氣志団](https://ja.wikipedia.org/wiki/氣志団 "wikilink")）（特別出演）
+    オマツリ男爵の部下。
+    晩餐会でサンジと鉄板焼き対決をして特製焼きそばを調理するが、サンジに奪われモダン焼きにされた。
+
+#### 海賊
+
+  - ブリーフ
+    声 - [安原義人](../Page/安原義人.md "wikilink")
+    チョビヒゲ海賊団船長。
+    チョビヒゲを生やした男。ヤギを連れている。彼以外の団員は全員オマツリ男爵に捕まってしまい、リリーの生贄となった。オマツリ男爵の支配に対し反旗を翻し、レジスタンス運動を展開しており、島中にトンネルや抜け道などの秘密ルートを作っている。麦わらの一味のチームワークを見込み、ルフィを仲間に勧誘する。オマツリ男爵に襲撃されたルフィを秘密基地に保護し、オマツリ男爵打倒の助言を与え、ルフィを援護した。
+  - お茶の間パパ
+    声 - [国本武春](../Page/国本武春.md "wikilink")
+    お茶の間海賊団船長。
+    家族は全員お茶の間海賊団船員。妻はオマツリ男爵の手にかかり死去している。とても頼りない性格だが、子ども達を喜ばせるために一生懸命。チョッパーとオマツリ男爵の手配書を調べていた際、オマツリ男爵の襲撃を受ける。チョッパーがリリーに捕まった際、救出を試みる娘たちに協力を懇願されるもこれを拒否。それでも、クライマックスではデイジーたちの想いに報いるため、弓矢でリリーを射抜く活躍を見せた。
+  - ローザ
+    声 - [大本眞基子](https://ja.wikipedia.org/wiki/大本眞基子 "wikilink")
+    お茶の間パパの長女。あまり父親を信用していない。
+  - リック
+    声 - [阪口大助](../Page/阪口大助.md "wikilink")
+    お茶の間パパの長男。メガネをかけた少年。
+  - デイジー
+    声 - [永井杏](https://ja.wikipedia.org/wiki/永井杏 "wikilink")
+    お茶の間パパの次女。
+    ローザと違い、父親を慕っている。母親譲りの優れた聴覚を持っており、耳がとてもいい。ルフィの助けを求めるチョッパーたちの声をルフィに届けた。
+
+## キャッチコピー
+
+  - **史上最大の笑劇\!\!**
+
+## スタッフ
+
+  - 製作 - 岡田裕介、[高橋浩](https://ja.wikipedia.org/wiki/高橋浩 "wikilink")、[山路則隆](https://ja.wikipedia.org/wiki/山路則隆 "wikilink")、関一由、竹内淳
+  - 原作 - [尾田栄一郎](../Page/尾田栄一郎.md "wikilink")
+  - 企画 - [梅澤淳稔](../Page/梅澤淳稔.md "wikilink")、清水慎治
+  - 脚本 - [伊藤正宏](https://ja.wikipedia.org/wiki/伊藤正宏 "wikilink")
+  - 音楽 - [田中公平](../Page/田中公平.md "wikilink")
+  - 製作担当 - 椎葉一夫
+  - 編集 - 後藤正浩
+  - 録音 - 市川修
+  - 効果 - [新井秀徳](https://ja.wikipedia.org/wiki/フィズサウンドクリエイション "wikilink")
+  - 撮影監督 - 白鳥友和
+  - CG監督 - 西川和宏、新井啓介
+  - CG合成監督 - 加藤律昭
+  - 美術監督 - [串田達也](../Page/串田達也.md "wikilink")・[加藤浩](https://ja.wikipedia.org/wiki/加藤浩 "wikilink")（加藤は美監補佐として参加）
+  - 色彩設計 - 塚田劭
+  - 作画監督・キャラクターデザイン - [すしお](https://ja.wikipedia.org/wiki/すしお "wikilink")、[山下高明](../Page/山下高明.md "wikilink")、[久保田誓](https://ja.wikipedia.org/wiki/久保田誓 "wikilink")
+  - 監督 - [細田守](https://ja.wikipedia.org/wiki/細田守 "wikilink")
+
+### 原画
+
+  -
+    [安藤正浩](../Page/安藤正浩.md "wikilink") [西田達三](../Page/西田達三.md "wikilink") 君島繁 [伊東伸高](https://ja.wikipedia.org/wiki/伊東伸高 "wikilink") 矢崎優子
+    [濱州英喜](https://ja.wikipedia.org/wiki/濱洲英喜 "wikilink") 木下和栄 [大塚健](../Page/大塚健_\(アニメーター\).md "wikilink") 増永計介 市川慶一
+    伊藤修一 [中村章子](https://ja.wikipedia.org/wiki/中村章子 "wikilink") 向田隆 小松英司 松田宗一郎
+    村谷貴志 坂崎忠 [和田高明](../Page/和田高明.md "wikilink") [加々美高浩](https://ja.wikipedia.org/wiki/加々美高浩 "wikilink") 西位輝実
+    小倉寛之 小松田大全 苫政三 [高橋英樹](https://ja.wikipedia.org/wiki/高橋英樹_\(アニメーター\) "wikilink") 三浦春樹
+    [馬越嘉彦](../Page/馬越嘉彦.md "wikilink") 奥田佳子 馬場充子 駒井一也 [吉田徹](../Page/吉田徹.md "wikilink")
+    杉浦幸次 [橋本敬史](../Page/橋本敬史.md "wikilink") [福田道生](../Page/福田道生.md "wikilink") [芳垣祐介](https://ja.wikipedia.org/wiki/芳垣祐介 "wikilink") 新井浩一
+    [伊藤嘉之](https://ja.wikipedia.org/wiki/伊藤嘉之 "wikilink") [中鶴勝祥](../Page/中鶴勝祥.md "wikilink") 崔ふみひで [白石亜由美](https://ja.wikipedia.org/wiki/劇団イヌカレー "wikilink") [松本憲生](../Page/松本憲生.md "wikilink")
+    加藤裕美 桑原幹根 [森久司](../Page/森久司.md "wikilink") 楠三十郎 [入好さとる](../Page/入好さとる.md "wikilink")
+    [今石洋之](../Page/今石洋之.md "wikilink") 黒柳賢治 ROSETTE.K 鈴木勤 [渡部圭祐](https://ja.wikipedia.org/wiki/渡部圭祐 "wikilink")
+    佐藤裕子 ミサワユキヒロ 一ノ関敦 [吉成曜](../Page/吉成曜.md "wikilink") 浅野恭司
+    矢崎良美 佐藤陽子 [平川哲生](https://ja.wikipedia.org/wiki/平川哲生 "wikilink") 寺尾洋之 猿渡聖加
+    鈴木奈都子 小松こずえ 青山充 袴田祐二 大内智美
+    [竹田欣弘](../Page/竹田欣弘.md "wikilink") 島貫正弘 [青山浩行](https://ja.wikipedia.org/wiki/青山浩行 "wikilink") 福島伸一郎 中島由喜
+    宮下雄次 真中孝之 森知鶴 [本田雄](https://ja.wikipedia.org/wiki/本田雄 "wikilink")（ノンクレ）
+
+## 主題歌
+
+  - 「[夢見る頃を過ぎても](https://ja.wikipedia.org/wiki/夢見る頃を過ぎても_\(氣志團の曲\) "wikilink")」
+    作詞・作曲 - 綾小路翔 / 編曲 - [氣志團](../Page/氣志團.md "wikilink") / 歌 - 氣志團
+
+## 映像ソフト化
+
+  - DVD版は特別編含め2005年7月21日発売。
+  - 『ONE PIECE』映画10作目を記念して[Blu-ray Disc版が](../Page/Blu-ray_Disc.md "wikilink")2009年12月10日発売。
+
+## 脚注
+
+<references/>
+
+## 外部リンク
+
+  - [公式サイト](http://www.toei-anim.co.jp/movie/2005_onepiece/)
+  - [WEBアニメスタイル『ONE PIECE ―オマツリ男爵と秘密の島―』細田守インタビュー](http://www.style.fm/as/13_special/mini_050815.shtml)
+
+[ru:Список анимационных фильмов о One Piece\#Фильм шестой](https://ja.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_шестой "wikilink")
+
+[Category:劇場版ONE_PIECE](https://ja.wikipedia.org/wiki/Category:劇場版ONE_PIECE "wikilink") [Category:2005年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2005年のアニメ映画 "wikilink") [Category:細田守の監督映画](https://ja.wikipedia.org/wiki/Category:細田守の監督映画 "wikilink") [Category:ジャンプ_ジェイ_ブックス](https://ja.wikipedia.org/wiki/Category:ジャンプ_ジェイ_ブックス "wikilink")
+
+1.  [『ONE PIECE　―オマツリ男爵と秘密の島―』細田守インタビュー（２）](http://www.style.fm/as/13_special/mini_050816.shtml)

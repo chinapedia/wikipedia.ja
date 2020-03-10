@@ -1,0 +1,95 @@
+> この記事は[Portal:/Section:General information](https://ja.wikipedia.org/wiki/Portal:/Section:General_information)から翻訳されています。
+
+
+### ドイツの州
+
+<div style="float: left; background: transparent; vertical-align: top; white-space: nowrap; margin-right: 1em; font-size:80%;">
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/バーデン＝ヴュルテンベルク州" title="wikilink">バーデン＝ヴュルテンベルク州</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/バイエルン州" title="wikilink">バイエルン州</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ベルリン" title="wikilink">ベルリン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ブランデンブルク州" title="wikilink">ブランデンブルク州</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ブレーメン" title="wikilink">ブレーメン</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/ハンブルク.md" title="wikilink">ハンブルク</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ヘッセン州" title="wikilink">ヘッセン州</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ニーダーザクセン州" title="wikilink">ニーダーザクセン州</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/メクレンブルク＝フォアポンメルン州" title="wikilink">メクレンブルク＝フォアポンメルン州</a></p></td>
+<td><p><a href="../Page/ノルトライン＝ヴェストファーレン州.md" title="wikilink">ノルトライン＝ヴェストファーレン州</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ラインラント＝プファルツ州" title="wikilink">ラインラント＝プファルツ州</a></p></td>
+<td><p><a href="../Page/ザールラント州.md" title="wikilink">ザールラント州</a></p></td>
+<td><p><a href="../Page/ザクセン州.md" title="wikilink">ザクセン州</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ザクセン＝アンハルト州" title="wikilink">ザクセン＝アンハルト州</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/シュレースヴィヒ＝ホルシュタイン州" title="wikilink">シュレースヴィヒ＝ホルシュタイン州</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/テューリンゲン州.md" title="wikilink">テューリンゲン州</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 主要都市
+
+<div style="float: left; background: transparent; vertical-align: top; white-space: nowrap; margin-right: 1em; font-size: 80%;">
+
+  - [ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")
+  - [ミュンヘン](../Page/ミュンヘン.md "wikilink")
+  - [ハンブルク](../Page/ハンブルク.md "wikilink")
+  - [フランクフルト・アム・マイン](../Page/フランクフルト・アム・マイン.md "wikilink")
+  - [ブレーメン](https://ja.wikipedia.org/wiki/ブレーメン "wikilink")
+  - [デュッセルドルフ](https://ja.wikipedia.org/wiki/デュッセルドルフ "wikilink")
+  - [ケルン](../Page/ケルン.md "wikilink")
+  - [エッセン](https://ja.wikipedia.org/wiki/エッセン "wikilink")
+
+</div>
+
+<div style="float: left; background: transparent; vertical-align: top; white-space: nowrap; margin-right: 1em; font-size: 80%;">
+
+  - [キール](https://ja.wikipedia.org/wiki/キール_\(都市\) "wikilink")
+  - [ハノーファー](../Page/ハノーファー.md "wikilink")
+  - [ライプツィヒ](https://ja.wikipedia.org/wiki/ライプツィヒ "wikilink")
+  - [ボン](https://ja.wikipedia.org/wiki/ボン "wikilink")
+  - [ドルトムント](https://ja.wikipedia.org/wiki/ドルトムント "wikilink")
+  - [シュトゥットガルト](../Page/シュトゥットガルト.md "wikilink")
+  - [ニュルンベルク](../Page/ニュルンベルク.md "wikilink")
+  - [デュースブルク](../Page/デュースブルク.md "wikilink")
+
+</div>

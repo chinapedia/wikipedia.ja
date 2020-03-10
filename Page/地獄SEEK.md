@@ -1,0 +1,45 @@
+> この記事は[SEEK](https://ja.wikipedia.org/wiki/SEEK)から翻訳されています。
+
+
+『**地獄SEEK**』（じごくシーク）は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")に[PIL](https://ja.wikipedia.org/wiki/PIL "wikilink")より発売された[18禁美少女拷問シミュレーションゲーム](../Page/アダルトゲーム.md "wikilink")。後に同社のSM3800シリーズにラインナップされた。
+
+## 概要
+
+[ストーンヘッズ](../Page/ストーンヘッズ.md "wikilink")のSM専門レーベル[PIL](https://ja.wikipedia.org/wiki/PIL "wikilink")が[CRAFTWORK](https://ja.wikipedia.org/wiki/CRAFTWORK "wikilink")と共同で[SEEK発売後にSEEKの名を冠してほとんど同じシステムで制作した](../Page/SEEK_〜地下室の牝奴隷達〜.md "wikilink")。[SMプレイ](https://ja.wikipedia.org/wiki/SMプレイ "wikilink")では無く拷問を行なうゲームであり、主人公は地獄の獄卒となって、亡者を責めることになる。設定が地獄なので、少女たちを責め殺してしまっても数日で生き返るため、かなりグロテスクな選択肢が用意されている。
+
+また同社の『[学園ソドム](https://ja.wikipedia.org/wiki/学園ソドム_〜教室の牝奴隷達〜 "wikilink")』のエンディングの1つに「NEXT SEEK2…」という表記があったため、地獄SEEKがSEEK2であるのか？という質問がPILに寄せられた。そのため同封の説明書に「地獄SEEKはSEEK2ではない」と明記されている。
+
+## ストーリー
+
+主人公は地獄に住む鬼である。彼は新人の獄卒として、地獄に堕ちた亡者を残忍に責め上げ、その罪を浄めなければならない。[閻魔大王](https://ja.wikipedia.org/wiki/閻魔大王 "wikilink")の妹、ヤーミィから美少女亡者たちを預かった主人公は、1か月という限られた時間でこの少女たちを浄め、転生させるという条件を与えられる。美しいが、現世で数々の罪を犯した一癖も二癖もある3人の少女たちを1か月で転生させることはできるのだろうか。
+
+## 登場キャラ
+
+  - 主人公
+    新米の鬼で獄卒。記憶を失っている。プレーヤーキャラクター。
+  - ヤーミィ
+    主人公の監視役兼世話役。閻魔大王の双子の妹として獄卒の管理や指導に当たっている。なにかと主人公を気にかけ、拷問のやり方などをくわしく教えてくれる。
+  - 藤代桃花（ふじしろ とうか）
+    メインヒロイン。9月7日没。享年17。長い黒髪と大きな目が特徴的な少女。普通の家庭に生まれたが、生まれつき身体が弱く入退院を繰り返していたが、死亡。本人は両親にかけた迷惑のために地獄に堕ちたと思っているが、他の亡者に比べ地獄に堕ちるほどではないと主人公は感じている。[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[松戸市](https://ja.wikipedia.org/wiki/松戸市 "wikilink")出身。
+  - 火摘留真（ほづみ るま）
+    8月8日没。享年19。資産家の家に生まれ、したい事は何でもできる環境に育つ。いつしか快楽殺人者になり、最後の殺人でへまをして死ぬこととなった。無口で無愛想。性格は歪みきっており、憎悪の塊ともいえる。脱色した髪をベリーショートにしている。[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")佐久出身。
+  - 水端葵（みずはた あおい）
+    9月1日没。享年18。変質的な両親に[性的虐待](https://ja.wikipedia.org/wiki/性的虐待 "wikilink")を受け、思春期には一通りの[性行為](https://ja.wikipedia.org/wiki/性行為 "wikilink")を体験してしまい歪んだ青春を送る。売春も平気でドラッグを買うためなどに軽い気持ちで行なっていた。長めの茶髪を縛り、地獄なのになぜかスカーフを巻いている。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")入谷出身。
+
+## スタッフ
+
+  - 企画・原案：田所広成
+  - シナリオ：小林英茂（CRAFTWORK）
+  - 原画：[長岡建蔵](https://ja.wikipedia.org/wiki/長岡建蔵 "wikilink")（CRAFTWORK）
+  - 音楽：[さっぽろももこ](https://ja.wikipedia.org/wiki/さっぽろももこ "wikilink")
+
+## 関連作品
+
+  - [SEEK 〜地下室の牝奴隷達〜](../Page/SEEK_〜地下室の牝奴隷達〜.md "wikilink")
+    1995年3月31日発売。発売はPIL。SM調教シミュレーションゲーム。タイトルにあるとおりゲームシステムが似ている。
+
+## 外部リンク
+
+  - [ストーンヘッズ公式サイト](http://www.stoneheads.co.jp/)（18禁）
+
+[Category:1997年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1997年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:ストーンヘッズ](https://ja.wikipedia.org/wiki/Category:ストーンヘッズ "wikilink")

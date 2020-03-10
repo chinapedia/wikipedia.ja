@@ -1,0 +1,53 @@
+> この記事は[EVE ZERO](https://ja.wikipedia.org/wiki/EVE_ZERO)から翻訳されています。
+
+
+『**EVE ZERO**』（イブ ゼロ）は、[ゲームビレッジ](https://ja.wikipedia.org/wiki/ゲームビレッジ "wikilink")から発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")。「[EVEシリーズ](https://ja.wikipedia.org/wiki/EVEシリーズ "wikilink")」4作目。
+
+[2000年](../Page/2000年.md "wikilink")3月に[PlayStation版が発売され](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")、その後[Windows版](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")（『**EVE ZERO 〜ark of the matter〜**』）と[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版（『**EVE ZERO完全版**』）が発売されている。
+
+## 概要
+
+1作目『[EVE burst error](https://ja.wikipedia.org/wiki/EVE_burst_error "wikilink")』の2年前が舞台。主人公は1作目と同じく探偵「天城小次郎」と捜査官「法条まりな」。2人の主人公を操作しストーリーを進めていくマルチサイト[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")である。『EVE burst error』に間接的に繋がるストーリーだが、後付けでシナリオライターも異なるため、物語上の矛盾点も生じている。また、主人公の2人は『EVE burst error』で初めて出会っている設定なので、本作で直接顔を合わせる事は無い。
+
+### 基本システム
+
+「コマンド総当り方式」であり、フラグを立てるには用意されているコマンドを手当たり次第に選択しなければならない。
+
+### マルチサイトシステム
+
+EVEシリーズの伝統である「2人の主人公の違った視点から1つのストーリーを追う」システム。小次郎編とまりな編のどちらか一方だけを進めても必ずどこかで行き詰る。たとえるなら、小次郎編で開けられないドアをまりな編で開けることで、小次郎編が進むようになる箇所が、いくつか存在するのである（逆もしかり）。よって、適宜シナリオを切り替えてゲームを進める必要がある。
+
+### フォーカスモード
+
+本作では新たにフォーカスモードを搭載。2人の人物との対面中、片方に近付いてその人物とだけの会話をする場合に使用する。通常の会話だけでは得られない情報を聞き出したりする事ができる。ストーリー進行とは関係ない場面でも使用は可能で、普段とは違う相手の反応を見ることができる。
+
+## ストーリー
+
+『EVE burst error』の2年前を舞台に、桂木探偵事務所の所長代理「天城小次郎」と警視庁公安第六課の敏腕捜査官「法条まりな」の2人の主人公が連続猟奇殺人事件に巻き込まれ、やがて事件の真相にせまっていく。
+
+### 小次郎編
+
+家出した息子の捜索という依頼を引き受けた小次郎。最初はごくありふれた依頼かと思われたが、ただの家出人探しだけでは終わらなかった。依頼人「仁科秀人」から逃げようとする中学生の息子「榊原真」。家出騒動の裏には小次郎の過去にもつながる大きな事件の真相が隠されていた…。
+
+### まりな編
+
+本来殺人事件の捜査は担当外であるはずの[公安](https://ja.wikipedia.org/wiki/公安 "wikilink")第六課に連続猟奇殺人事件の捜査をまわされ、まりなにその任務がまかされた。と同時にアメリカからやって来た[VIP](https://ja.wikipedia.org/wiki/VIP "wikilink")の護衛任務、不思議な少女「トア」との出会い……　別々の出来事と思われたそれぞれの事象にやがて関連性が見え始め、より深い事件へと発展していく。
+
+## 登場人物
+
+  - **天城 小次郎**（あまぎ こじろう）[声](../Page/声優.md "wikilink")：[子安武人](../Page/子安武人.md "wikilink")
+  - **法条 まりな**（ほうじょう まりな）声：[三石琴乃](../Page/三石琴乃.md "wikilink")
+  - **トア・ノバルティス**(Torah Novartis)声：[桑島法子](../Page/桑島法子.md "wikilink")
+  - **榊原 真**（さかきばら しん）声：[保志総一朗](../Page/保志総一朗.md "wikilink")
+  - **桂木 弥生**（かつらぎ やよい）声：[本多知恵子](https://ja.wikipedia.org/wiki/本多知恵子 "wikilink")
+  - **柴田 茜**（しばた あかね）声：[かないみか](../Page/かないみか.md "wikilink")
+  - **桂木 源三郎**（かつらぎ げんざぶろう）声：[納谷悟朗](../Page/納谷悟朗.md "wikilink")
+  - **甲野 三郎**（こうの さぶろう）声：[野沢那智](../Page/野沢那智.md "wikilink")
+  - **高畠豊**（たかばたけ ゆたか） 声：[飛田展男](https://ja.wikipedia.org/wiki/飛田展男 "wikilink")
+  - **仁科 秀人**（にしな ひでひと） 声：[肝付兼太](../Page/肝付兼太.md "wikilink")
+  - **ルース・ブラッチフォード** 声：[勝生真沙子](../Page/勝生真沙子.md "wikilink")
+  - **二階堂 進**（にかいどう すすむ） 声：[上田祐司](https://ja.wikipedia.org/wiki/上田祐司 "wikilink")
+  - **シャサ・ノバルティス** 声：[堀内賢雄](https://ja.wikipedia.org/wiki/堀内賢雄 "wikilink")
+  - **グレン** 声：[飯塚昭三](https://ja.wikipedia.org/wiki/飯塚昭三 "wikilink")
+
+[Category:EVEシリーズ](https://ja.wikipedia.org/wiki/Category:EVEシリーズ "wikilink") [Category:2000年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2000年のコンピュータゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:ドリームキャスト用ソフト](https://ja.wikipedia.org/wiki/Category:ドリームキャスト用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink")

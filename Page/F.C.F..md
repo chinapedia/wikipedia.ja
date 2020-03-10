@@ -1,0 +1,299 @@
+> この記事は[F.C.F.](https://ja.wikipedia.org/wiki/F.C.F.)から翻訳されています。
+
+
+**F.C.F.（エフ・シー・エフ）**は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")代後半から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代初めにかけて活躍していた[ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")の[ユニット兼](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")[プロデューサー](../Page/プロデューサー.md "wikilink")集団。
+
+## 概要
+
+イタリア人の[マウロ・ファリーナ](https://ja.wikipedia.org/wiki/マーク・ファリーナ "wikilink")（Mauro Farina）、ジュリアーノ・クリヴェレンテ（Giuliano Crivellente）、フロリアン・ファディンガー（Florian Fadinger）の3人組。ファリーナ、クリヴェレンテ、ファディンガーの頭文字から命名された。
+
+現在もファリーナがアーティスト名義として使うことがある。
+
+## 自身のヒット曲
+
+デビュー曲は「BLACK MOTHER」。第2弾の「BAD DESIRE」が大ヒットとなる。以降も、スマッシュヒットを記録し、ユーロビートの常連アーティストとなっている。
+
+  - BLACK MOTHER (1990)
+  - BAD DESIRE (1990)
+  - SAMURAI (1990)
+  - HOT GIRL (1991)
+  - BIG MATCH (1991)
+  - FIRE ON THE MOON (THE 1991 VERSION)
+  - BABY NO\! (1992)
+  - STOP THE FUNKY (1992)
+  - NO CONTROL (1993)
+
+（※[ザッツ・ユーロビート](https://ja.wikipedia.org/wiki/THAT'S_EUROBEAT "wikilink") Vol.16-Vol.39に収録）
+
+## プロデュース作品
+
+F.C.F.によってプロデュースされ、ヒット曲を出したアーティストは多数に上る。その中でも、F.C.F.プロデュースの常連で、スマッシュ・ヒットを出したアーティストとして、ALPHATOWN、JENNY KEE、LAURIE、MARK FARINA、MELA、MISTER BLACK、MOLTO CARINA、SANTA CLAUS & DJINGLE BELLS等が挙げられる。
+
+※作品によっては"Aston/Martin/Fadinger"名義の場合あり。"Aston"はファリーナの、"Martin"はクリヴェレンテのそれぞれ別名。
+
+  - AIR ROBIX\!
+      - BODY TO BODY (1993)
+  - ALPHATOWN
+      - HOT STUFF (1989)
+      - JAPAN JAPAN (1990)
+      - THE POWER OF MY LOVE (1990)
+      - THE FIRE (1991)
+      - BODY ROCK (1991)
+      - RUN AWAY (1992)
+      - HEART TO HEART (1992)
+  - ANDREA
+      - MAKE MY HEART BEAT (1990)
+      - I FEEL FINE (1991)
+      - THAT'S THE WAY MY LOVE IS (1991)
+      - I NEED YOU SO (1992)
+      - TELL ME (1993)
+      - LET THE NIGHT AWAY (1993)
+  - ANTONELLA
+      - HOT BOX (1990)
+      - MOVIN' (1991)
+      - GIPSY WOMAN (1991)
+  - (THE) ASIA GANG
+      - PARTY TIME (1990)
+      - ROPPONGI SUICIDE (1990)
+      - HAPPY BIRTHDAY (1991)
+      - HIPPY AH OH (1992)
+      - AFRIKA (1991)
+      - BEAUTIFUL BOY (1993)
+  - BABBIE YOUNG
+      - EXCITED (1992)
+      - IF YOU CAN SAY GOODBYE (1994)
+  - BEACH CLUB
+      - AI NO CORRIDA (1990)
+      - OH OH OH (1992)
+  - BETTY DOY
+      - PARADISE (1991)
+      - A LOVE STORY (1992)
+  - BORA BORA
+      - INTO THE FIRE (1992)
+  - BOYS BOYS BOYS
+      - MY FEELING (1991)
+      - DANCE THE NITE AWAY (1992)
+      - FREEDOM (1991)
+  - CAPO CHINO\!
+      - FIRE WITH FIRE (1989)
+      - THE GROOVE OF YOUR LOVE (1993)
+  - CAPTAIN HOOK
+      - BOMBER (1991)
+  - CHICO CHICO
+      - HOT FOR YOU (1993)
+  - CHIP CHIP
+      - RADIO (1990)
+      - MOTION (1991)
+      - LET THE MUSIC PLAY (1992)
+      - OH GUY (1993)
+  - CHRIS
+      - FIRST TIME (1989)
+      - TAKE ME TO THE TOP (1990)
+      - HEY DEE JAY (1992)
+  - CIAO CIAO
+      - LOVING ALL THE NIGHT (1989)
+  - CINDY
+      - YEAH YEAH (1989)
+  - [COO COO](https://ja.wikipedia.org/wiki/COO_COO "wikilink")/MAX COO & STEVE COO
+      - ALL YOU NEED IS LOVE (1989)
+      - HAPPY DAYS (1989)
+      - BOOGIE DANCER (1990)
+      - BYE BYE BYE (1991)
+  - DEE SHANNON
+      - ALL MY WORLD (1992)
+  - DOCTOR GROOVE
+      - KOMMANDO (1991)
+      - COWBOY (1991)
+      - YOUR COMPANY (1992)
+  - DR.LOVE
+      - ROMANCE (1993)
+  - ELAINE LAYE
+      - BABY I NEED YOUR LOVIN' (1990)
+  - ELAYNE
+      - GET BACK (1992)
+  - ESKIMO
+      - DANCING BOLLERO (1991)
+      - EVERY NIGHT (1992)
+  - THE FAIRLIGHT ORCHESTRA
+      - BATMAN THEME (1989)
+  - LE FERRARI
+      - DANCE WITH ME (1990)
+      - ELECTRIC MAN (1992)
+  - FEMMINUCCE
+      - SING (1990)
+      - BAMBOLINA (1990)
+  - FUNKY SISTERS
+      - LOVELY FEELING (1991)
+      - REAL MAN (1992)
+  - F 50's
+      - WHILE MY GUITAR GENTLY WEEPS (1990)
+  - THE GANGSTARS
+      - DANCING IN THE STREET (1990)
+      - FROM ME TO YOU (1991)
+      - DO IT DO IT (1993)
+  - JENNY KEE
+      - GIVE ME ALL YOUR LOVE (1989)
+      - EVERY LITTLE TIME (1989)
+      - TAKE MY HEART (1990)
+      - CARRY ON (1991)
+      - ATOMIC ENERGY (1992)
+      - NEW LOVE (1992)
+  - KEN LASZLO
+      - HAPPY SONG (1991)
+      - SHA LA LA (1991)
+      - BABY CALL ME (1992)
+      - MARY ANN (1994)
+  - LAURIE
+      - SWEET LOVER (1989)
+      - OPEN YOUR EYES (1989)
+      - SOMEBODY (1990)
+      - LOVE ME (1990)
+      - YOU CAN TELL ME (1991)
+      - LOVE TO DANCE (1992)
+      - TAKIN'A CHANCE (1993)
+  - LILAC
+      - BANG BANG (1989)
+      - BABY, I LOVE YOUR WAY (1990)
+  - MACHISMO
+      - PERFECT LOVE (1992)
+      - KNOCK DOWN (1993)
+      - NICE AND SLOW (1993)
+  - MALCOLM J.HILL
+      - DON'T MAKE ME CRY (1989)
+      - ROCK & ROLL (1990)
+  - MARK FARINA
+      - SO LONG (1989)
+      - I LOVE CHA CHA CHA (1989)
+      - GUNFIRE (1990)
+      - RELIGHT MY FIRE (FEATURING BETTY BOO) (1990)
+      - RUSSIAN (1990)
+      - ROCK OF LOVE (1990)
+      - KILLER (1991)
+      - INFATUATION (1991)
+      - DAI DAI DAI (1992)
+      - BIG TOWN (1992)
+      - DON'T CRY MY LOVE (1993)
+  - MARK TOWER & CO.
+      - MY DESIRE (1990)
+  - MAX
+      - DIRTY BOY (1990)
+  - MAX & COMPANY
+      - BULLDOG (1991)
+      - MIDNIGHT RADIO (1992)
+  - MELA
+      - I WANT YOUR LOVE (1989)
+      - RUN RUN (1990)
+      - THIS IS MY WAY (1990)
+      - EYES OF TIGER (1990)
+      - LOVE ME TOO (1991)
+      - I'LL BE WITH YOU (1992)
+  - MEL'O'
+      - PRETTY LOVER (1993)
+  - MISTER BLACK/MR.BLACK
+      - BROWN (1990)
+      - ALL TOGETHER (1990)
+      - KAMIKAZE (1991)
+      - MISTERIOUS MAN (1991)
+      - DANCING TOGETHER (1992)
+      - PASSION (1993)
+      - MY BODY (1993)
+  - MISTERY
+      - NEVER FALL IN LOVE AGAIN (1992)
+  - MOLTO CARINA
+      - LOVE FOR SALE (1989)
+      - HOLD ON ME (1989)
+      - ONE MORE TIME (1990)
+      - DON'T SAY GOODBYE (1992)
+      - ONE MORE NIGHT (1993)
+  - A.M.MORALES
+      - LET'S GO BACK TO MY ROOM (1991)
+      - YOU MEAN LOVE (1991)
+      - PRETTY BABE (1992)
+  - NEW YORK RAPPERS
+      - MOVE YOUR BODY (1990)
+  - OSCAR
+      - NEW YORK CITY (1990)
+      - BABE DANCE TO ME (1990)
+      - AUHH (1991)
+      - SUPERSTAR (1992)
+      - GIMME YOUR BODY (1992)
+  - PAMELA
+      - I DON'T WANNA GET HURT (1990)
+      - CLOSE TO YOU (1991)
+      - SATURDAY NIGHT (1991)
+      - HOKY TOKY (1992)
+  - P.C.DEE
+      - POPCORN (1990)
+  - POP-POP
+      - BABY YOU CAN DRIVE MY CAR (1990)
+  - RADIORAMA
+      - WHY BABY WHY (1990)
+      - 3,4 GIMMI MORE
+      - COME BACK MY LOVER (1991)
+      - SUGAR LOVE (1992)
+      - ALIEN 2 (1993)
+      - ALL NIGHT LONG (featuring MC YA) (1993)
+      - IN ZAIRE (featuring MC YA) (1994)
+  - RAMONE
+      - LET'S GO (1992)
+  - RICKY DAVIES
+      - MAGIC (1989)
+      - THAT'S LOVE (1990)
+      - MAYBE (1990)
+      - WHAT A MISTAKE (1991)
+      - I'VE GOT YOU (1992)
+  - ROSS
+      - MAGICAL DREAM (1989)
+  - SANTA CLAUS & DJINGLE BELLS
+      - GIVE ME A CHANCE (1990)
+      - MY CHICA (1990)
+      - ROCK ME BABE (1990)
+      - HOW MANY TIMES (1991)
+      - LITTLE MAN (1992)
+      - DO YA WANNA DANCE (1993)
+  - SARA
+      - TIME OF CHANGE (1993)
+  - SODAPOPS
+      - DEEP IN MY HEART (1990)
+      - GIMME SOME LOVIN' (1992)
+      - DANCING FIRE (1992)
+      - KIND OF LOVE (1993)
+      - RUN TO ME (1994)
+  - SUPERLOVE
+      - YOU AND ME (1990)
+      - PLAYBOY (1991)
+      - I WANNA STOP (1992)
+      - GIVE ME YOUR PASSION (1993)
+  - SWEET'N'SOUR
+      - CHINATOWN (1989)
+      - I WANNA LOVE YOU (1990)
+      - YOUR HEART BEAT (1992)
+      - DIAMONDS (1992)
+      - LOOKING THROUGH YOU (1992)
+      - GIMME YOUR HEART (1994)
+  - TASHA
+      - MY TURN (1989)
+      - NOT FEELING BLUE (1990)
+  - TIPSY TIPSY
+      - BUY MY LOVE (1991)
+      - VIDEO VIDEO (1992)
+  - TUTTI FRUTTI
+      - LONELY TIME (1993)
+      - GONNA LOVE YOU (1994)
+  - TOM CHELLE
+      - PROMISED LAND (1992)
+  - VERSA
+      - LOVE IS FANNY (1992)
+  - WIKI WIKI
+      - I'M IN YOU (1989)
+      - OLD NIGHT (1991)
+      - WAITING FOR YOU (1992)
+      - I DON'T WANNA LOSE YOU (1992)
+      - BABY DANCER (1993)
+  - WHITE CAPS
+      - NOTHING TO CHANGE (1989)
+      - ALL MY DAYS　(1993)
+
+（※[ザッツ・ユーロビート](https://ja.wikipedia.org/wiki/THAT'S_EUROBEAT "wikilink") Vol.12-Vol.44に収録。）
+
+[Category:イタリアの音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:イタリアの音楽プロデューサー "wikilink") [Category:イタリアのユーロビート](https://ja.wikipedia.org/wiki/Category:イタリアのユーロビート "wikilink") [Category:歌手グループ](https://ja.wikipedia.org/wiki/Category:歌手グループ "wikilink") [Category:ユーロビート](https://ja.wikipedia.org/wiki/Category:ユーロビート "wikilink") [Category:SUPER_EUROBEAT](https://ja.wikipedia.org/wiki/Category:SUPER_EUROBEAT "wikilink")

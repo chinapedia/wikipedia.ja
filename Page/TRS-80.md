@@ -1,0 +1,239 @@
+> この記事は[TRS-80](https://ja.wikipedia.org/wiki/TRS-80)から翻訳されています。
+
+
+**TRS-80**は、[1970年代](../Page/1970年代.md "wikilink")終盤から[1980年代](../Page/1980年代.md "wikilink")初めに[タンディ・コーポレーション](https://ja.wikipedia.org/wiki/タンディ・コーポレーション "wikilink")が製造し同社の[ラジオシャック](https://ja.wikipedia.org/wiki/ラジオシャック "wikilink")店で販売した[マイクロコンピューター](https://ja.wikipedia.org/wiki/マイクロコンピューター "wikilink")のいくつかのシリーズのブランド名である。1977年11月に出荷が始まり、同年12月のクリスマス前には各店舗に並んだ。ホビーストや一般家庭やスモールビジネス分野で人気となった。[バイト誌が](https://ja.wikipedia.org/wiki/バイト_\(雑誌\) "wikilink") "1977 Trinity"（[アップル](../Page/アップル_\(企業\).md "wikilink")、[コモドール](https://ja.wikipedia.org/wiki/コモドール "wikilink")、タンディの3社）と呼んだ中でもタンディは首位であったが、その背景には3,000店以上のラジオシャックを通してコンピュータを販売していたという事実がある\[1\]。最初のTRS-80は、[QWERTY配列](../Page/QWERTY配列.md "wikilink")のフルストロークのキーボードを備え、小型であり、浮動小数点数をサポートした[BASIC](../Page/BASIC.md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")を内蔵し、モニターが付属して600ドルで発売された\[2\]。リリース前の予約価格は500ドルで、事前に手付金として50ドルを渡しておき、商品受け渡し時に手付金を返還する方式だった。最初のシステムの最大の欠点は非常に[電波干渉](https://ja.wikipedia.org/wiki/電波障害 "wikilink")（RFI）が強いことで、[AMラジオをコンピュータの隣に置いて電波干渉をゲームの効果音に使うことがあったほどである](../Page/振幅変調.md "wikilink")\[3\]。[FCCは電波干渉についての規制を厳しくし](https://ja.wikipedia.org/wiki/連邦通信委員会 "wikilink")、そのため Model I の代替として Model III がリリースされることになった\[4\]。
+
+## Model I
+
+### 歴史
+
+1970年代中ごろ、[ラジオシャック](https://ja.wikipedia.org/wiki/ラジオシャック "wikilink")はアメリカでも成功している電器店チェーンだった。同社の仕入れ担当だったドン・フレンチはコンピュータキットの [MITS Altair](https://ja.wikipedia.org/wiki/Altair_8800 "wikilink") を買い、その後自分でもコンピュータの設計を行い、製造担当副社長ジョン・V・ローチにそれを見せた。ローチは感銘を受けなかったが、ラジオシャックは[ナショナル セミコンダクターのスティーブ](https://ja.wikipedia.org/wiki/ナショナル_セミコンダクター "wikilink")・レイニンガーを雇い、フレンチの設計を評価させ、1976年6月にコンピュータ開発に取り組むことになった。同社はキットでの販売を考えていたが、初期のコンピュータショップである Byte Shop で働いたこともあるレイニンガーは「はんだ付けできる人は非常に少ない」と主張して説得にあたり、組み立て済みのコンピュータを販売することを勧めた\[5\]。
+
+社内にはマイクロコンピュータの発売に反対する声もあったが、一時期ラジオシャックの売り上げの20%以上をたたき出していた[市民ラジオ](https://ja.wikipedia.org/wiki/市民ラジオ "wikilink")の人気にかげりが出てきたため、同社は新製品を探していた。1976年12月、フレンチとレイニンガーは正式にプロジェクトを任されたが、コスト低減が至上命令とされた。例えば、小文字を扱えないようにすれば原価で1.50ドルの低減となり、売値では5ドルの低減になる。1977年2月、ラジオシャックの親会社であるタンディの社長に、完成したばかりのプロトタイプで単純な税務会計プログラムを動作させて見せた。しかし、タンディが自分の給料の額である15万ドルという数字を入力すると、オーバーフローが起きてプログラムがクラッシュしてしまった。そこで2人は [Tiny BASIC](../Page/Tiny_BASIC.md "wikilink") に[浮動小数点数](../Page/浮動小数点数.md "wikilink")計算機能を追加した。フレンチは5万台の売り上げが可能だとしたが、懐疑的な重役たちは199ドルの価格でせいぜい年間1,000台から3,000台の売り上げだと見積もった。ローチはタンディを説得し、3,500台の製造で合意をとりつけた。これはラジオシャックの店舗数にほぼ等しく、もし売れなかったとしても各店舗の棚卸し業務などに流用できると考えた末の数字だった\[6\]\[7\]\[8\]\[9\]\[10\]。
+
+[1977年](../Page/1977年.md "wikilink")8月3日、ニューヨークでの記者会見で TRS-80 が発表された。価格は399ドルで、12インチモニターとラジオシャック製テープレコーダを流用した[データレコーダ](../Page/データレコーダ.md "wikilink")を含めると599ドルとされた。それまでラジオシャックが販売していた最も高額な商品は500ドルのステレオだった。ラジオシャックは、これをきっかけにより高額な商品を扱うようになり、消費者が抱いている「安っぽい」というイメージを打破したいと考えていた。主要ターゲット市場はスモールビジネスで、次いで教育市場、そして一般消費者やホビーストという優先順位だった。実際にはホビーストが主な顧客となったわけだが、ラジオシャックはホビーストを相手にすることがビジネスの主流になるとは考えていなかった。記者会見と同じ日にニューヨークでテロリストによる爆弾さわぎがあり、TRS-80の発表はあまり注目を集めなかったが、TRS-80について問い合わせる6袋ぶんの手紙が届き、1万5千人からTRS-80を買いたいという電話が殺到して、交換機が麻痺する事態となった。ライバルの[コモドール](https://ja.wikipedia.org/wiki/コモドール "wikilink")は [PET 2001](https://ja.wikipedia.org/wiki/PET_2001 "wikilink") を数カ月前に発表していたが、まだ出荷できていなかった。ラジオシャックは同年9月には出荷を開始した。年間売り上げ予想は3,000台だったが、最初の1カ月半で10,000台を売り上げ、最終的には20万台以上を売り上げることになった\[11\]\[12\]\[13\]\[14\]。
+
+1981年、ローチがタンディのCEOに就任し、レイニンガーは同社の戦略計画ディレクターとなり、フレンチはソフトウェア会社を起業した。コンピュータを製造販売するようになってもラジオシャックのイメージは変わらず、"Trash-80" などと呼ばれたりもしたが、1984年には総売り上げの35%がコンピュータとなり、タンディ・ラジオシャック・コンピュータセンターを500店舗立ち上げた\[15\]\[16\]。
+
+### ハードウェア
+
+Model I は分厚いキーボードのような形状である。写真の中で、手前にあるキーボード部分が本体で、[VIC-1001](https://ja.wikipedia.org/wiki/VIC-1001 "wikilink")と似ている。なお、電源ユニット（ACアダプタ）は本体に内蔵されていない。モニターが載っている筐体は別売のI/O拡張ユニットである。CPUには[Z80](../Page/Z80.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")を使用し、1.77MHzで駆動していた。当初の搭載[RAMは](../Page/Random_Access_Memory.md "wikilink")4Kバイトだったが、後に16Kバイトになっている。Z80の高速版Z80Aが登場するとそちらに切り換えている。旧モデルユーザーの間ではCPUを換装し、クロックを高速化するといった改造が流行った。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:TRS-80-graphics.svg "wikilink")
+
+  - キーボード
+    キーボードからの入力データの転送方法は風変わりである。普通ならI/Oデバイスやチップを経由してデータをCPUに転送するが、TRS-80 Model I ではメモリ上の所定の領域にキーボードが[マッピングされていた](https://ja.wikipedia.org/wiki/メモリマップドI/O "wikilink")。つまり、そのアドレスには実際にはメモリはマッピングされておらず、プロセッサがそのアドレスを読むことによってキーの状態が読み取れるようになっていた。
+    キーボードの右側にあるプレート部分にテンキーを装備したバージョンも生産されている。
+    TRS-80のキーボードは、1回の押下で数回の文字入力となってしまうことが多かった（[チャタリング](https://ja.wikipedia.org/wiki/チャタリング "wikilink")）\[17\]。これを解決するソフトウェアが配布されたが、これを使うとキー入力への反応が鈍くなった。後にこのソフトはROMに内蔵された。キーボード自体もチャタリングの少ないものに変更されている。
+  - ディスプレイ
+    標準のディスプレイは RCA XL-100 というテレビ受像機を改造したモノクロディスプレイで、背景が黒、文字が白だった。実際の色は空色に近く、緑色や琥珀色のフィルターを付けたものや代替の目に優しいブラウン管が市場に出回った。後期モデルではいわゆるグリーンディスプレイを標準とした。
+    テレビチューナーを置き換えたインタフェース回路の問題により、表示の大部分が白になると垂直同期信号が失われたが、30分ほどの簡単な工作でこれを直すことができた。
+    1行64文字か32文字を16行表示可能である。ビデオメモリは1Kバイトしかなく、しかもグラフィック文字を表示するために文字コードが通常のASCIIとは若干違っていた。各バイトの上位2ビットで擬似グラフィック表示か文字表示かを識別する。
+    グラフィック文字で擬似グラフィック表示が可能である。128種の文字のうち64種がグラフィック文字であり、2×3 ブロックのピクセルに対応していた。BASICプログラムは直接 128×48 ドットのグラフィック表示を制御することができた。
+    当初の TRS-80 Model I はビデオメモリ上で大文字と小文字を区別できず、小文字を表示できない。小文字の表示パターンは内蔵されていたが、基準線より下に延びる小文字（g, j, p, q など）は表示できない。これについても小文字を表示できるようにするアップグレードが出回った。後期モデルでは全ての小文字を表示できるよう改良された。
+    [BASIC](../Page/BASIC.md "wikilink")言語のPRINT文を使っても、ビデオメモリに直接書き込んでも、画面にちらつきが発生した。これは[CPU](../Page/CPU.md "wikilink")からのアクセスがあったときにビデオ表示をブロックするような回路構成になっていたためである。通常のBASICプログラムではそれほどではなかったが、高速なアセンブリ言語で書かれたプログラムは対策が取られていないとひどい結果になった。多くのゲームはこれに対処せずに TRS-80 に移植されていた。
+  - カセットテープドライブ
+    ユーザーデータは[カセットテープに記録する](../Page/コンパクトカセット.md "wikilink")。599ドルのパッケージにはラジオシャック製カセットレコーダー CTR-41 が同梱されている\[18\]。このインタフェースは非常に低速でエラーが多かった。音量の設定に敏感だが、正しい音量設定かどうかの判定のためにデータをロード中に画面上で文字を点滅させるという簡単な手段しか提供していなかった。正しい音量設定を探すため、音量を調整しつつ同じデータを何度もロードしてみる必要があった。ユーザーは同じファイルを3回以上セーブし、そのうちどれか1つがロード可能であることを期待するしかなかった。自動利得制御 (AGC) 回路を作成すればこれを解決できる（マニュアルにはそのための回路図が掲載されていた）。後にタンディは CTR-41 をAGCが内蔵された CTR-80 に置き換えた。
+    Level I BASIC のカセットの記録速度は250[ビット毎秒](../Page/ビット毎秒.md "wikilink")（ 25バイト毎秒）、Level II BASIC では倍の500ビット毎秒（50バイト毎秒）である。機械語でプログラムを書き、最高1500ビット毎秒で記録できるようにしたプログラマもいる。
+    Model I にはサウンド機能がない。そこでゲームではカセットポートの出力を矩形波の音響信号として利用することがあった。
+  - 拡張インタフェース
+    当時のZ80を使ったコンピュータの多くは[S-100バスを採用していたが](https://ja.wikipedia.org/wiki/Altair_8800#S-100バス "wikilink")、TRS-80では採用しなかった。独自の拡張インタフェースでいくつかの重要な機能を提供している。RAMを48KBまで拡張する機能、フロッピーディスクコントローラ、リアルタイムクロック、2つめのカセットポート、[RS-232](../Page/RS-232.md "wikilink")ポート（オプション）、[セントロニクス](https://ja.wikipedia.org/wiki/セントロニクス "wikilink")のパラレルプリンタポートである\[19\]。
+    当初プリンターは拡張インタフェースなしでは接続できなかったが、間もなくプリンターのみを接続するためのインタフェースも発売した。
+    拡張インタフェースも問題が多い製品で、何度か改訂された。端子部分は2種類の金属を使っているため錆びやすく、定期的に掃除する必要があった。拡張インタフェースも電源が必要であり、本体にも電力を供給できる電源装置を内蔵している。
+    システムバスがそのまま本体から拡張インタフェースへと延びるため、ケーブルはせいぜい2インチと短い。したがって本体の後ろに接するように配置するしか選択肢がなく、拡張インタフェースの上にモニターを置くことになる。したがって、標準以外のモニターを使っている場合、大きさが合わないと困ったことになる。またケーブルのコネクタが緩いため、本体や拡張インタフェースを動かすとケーブルが外れることがあった。あるレビュアーはTRS-80の各コンポーネントを接続するケーブル群を指して『[レイダース/失われたアーク《聖櫃》](https://ja.wikipedia.org/wiki/レイダース/失われたアーク《聖櫃》 "wikilink")』に出てくる蛇の群れにたとえたことがある。
+  - フロッピーディスクドライブ
+    ラジオシャックがTRS-80用のフロッピードライブを発売したのは1978年のことである。Model I でフロッピーディスクとOSを使うには、単密度（フォーマット容量85KB）のFDDインタフェースを持つ拡張インタフェースが必要だった。これは[ウェスタン・デジタル](https://ja.wikipedia.org/wiki/ウェスタン・デジタル "wikilink")の FD1771 を使っている。デイジーチェーン接続で最大4台のFDDを接続可能である。
+    このインタフェースは外部データセパレータを持たないため、信頼性が低かった。また、初期のOSであるラジオシャック製の TRS-DOS もバグが多かった。1771はコマンドを受け取った直後（数サイクル）はステータスを報告できない。そのため通常は1771にコマンドを発行した後、NOP命令をいくつか実行してからステータスを調べる。初期のTRS-DOSはこれを怠り、コマンド発行直後にステータスを調べていたため、間違ったステータスを読み取り、エラーやクラッシュを引き起こしていた。
+    データセパレータと倍密度フロッピーディスクコントローラ（WD 1791 を採用）がダンティやサードパーティから登場している。例えばPercomというテキサスのベンダーが発売した Percom Doubler は倍密度FDDを接続でき、データセパレータを内蔵し、独自の DoubleDOS を同梱していた。1.2MB以上の8インチFDDを接続できる LNDoubler もある。なお、倍密度FDDが一般に出回るようになったのは1982年のことである。
+  - ハードディスク
+    ラジオシャックはTRS-80用に5MBのハードディスクドライブを発売した。価格はおよそ1500ドルだった。
+  - プリンター
+    Quick Printer は[放電破壊プリンター](https://ja.wikipedia.org/wiki/放電破壊プリンター "wikilink")であり、ビデオメモリの内容を読み取って画面のイメージを1秒で印刷する。しかしこれは拡張インタフェースとは非互換で、Disk BASIC におけるリアルタイムクロックを使った一定間隔の割り込みとも非互換である。そのため、特殊なケーブル接続でカセットポートへの書き込みをプリンターのトリガーとする必要があった。
+    他にも、57mmの放電記録紙を使うプリンターと、セントロニクス製の普通紙を使うプリンターがあった。
+
+### BASIC
+
+[ROM](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink") で内蔵されたBASIC言語にはふたつのバージョンがある。Level I BASIC は 4KバイトのROMに格納可能で、Level II BASIC は 12KバイトのROMに格納可能だった。Level I は単精度浮動小数点演算のみでコマンドも少ない。一方、Level II は倍精度浮動小数点演算をサポートしコマンドも豊富だった。Level II には後にディスク機能も追加され、Disk BASIC をロード可能である。
+
+Level I BASIC はフリーな [Tiny BASIC](../Page/Tiny_BASIC.md "wikilink") をラジオシャックでTRS-80に移植し機能追加したものである。非常に素晴らしいマニュアルが付属したことで注目された。[文字列](https://ja.wikipedia.org/wiki/文字列 "wikilink")変数は  と  の2つのみ、数値変数は  から  までの26個、配列は  の1つだけである。SIN()、COS()、TAN() といった関数のコードはROMには含まれていないが、マニュアルの最後に掲載されていた。エラーメッセージとしては、シンタックスエラー、[ゼロ除算](https://ja.wikipedia.org/wiki/ゼロ除算 "wikilink")などの演算エラーに対する ""、メモリ範囲外エラーに対する "" がある。
+
+Level I BASIC は[トークン化を行わないので](../Page/字句解析.md "wikilink")、予約語はそのまま格納される。メモリに格納できるコード量を最大化するため、予約語の省略形を使うことができる。例えば、"" を "" と書くことで3バイト節約できる。
+
+Level II BASIC は[マイクロソフト](../Page/マイクロソフト.md "wikilink")からライセンス提供を受けており、ROMは最大12KBだったので、16Kバイトの[拡張BASICを機能縮小した](https://ja.wikipedia.org/wiki/Microsoft_BASIC "wikilink")。マニュアルは Level I BASIC ほどわかりやすいものではなかった。Level I BASIC から Level II BASIC への換装は199ドルでラジオシャックが行った。カセットテープに保存した Level I BASIC のプログラムは、Level II BASIC で使用する前に変換する必要がある。そのためのユーティリティが Level II のROMに内蔵されている。
+
+Disk BASIC はディスクI/Oが可能で、場合によっては強力なソート、検索、フルスクリーン編集などの機能も使える。Level II BASIC 動作状態で Disk BASIC 用コマンドを使おうとすると "" と表示することがある。
+
+マイクロソフトはカセットテープを媒体とした拡張BASICである Level III BASIC を発売した。これは、16KB版BASICの全機能をほぼカバーしたものである。
+
+また標準搭載のBASIC以外に、プログラム・ツールとしてタンディはマクロ・アセンブラ、マシン語エディタ（TBUG）などを販売していた。
+
+### アプリケーションソフトウェア
+
+TRS-80には無料でブラックジャックとバックギャモンが同梱されていた。また、ラジオシャックから給与計算、家計簿、教育ソフトなどがカセットで発売された。[パックマン](https://ja.wikipedia.org/wiki/パックマン "wikilink")や[ギャラクシアン](../Page/ギャラクシアン.md "wikilink")といったアーケードゲームを無許可で移植し販売する個人プログラマや企業が多数存在した。アドベンチャーゲームの[ゾーク](../Page/ゾーク.md "wikilink")などは、他のホームコンピュータから移植された。TRS-80発祥のゲームも *Cosmic Fighter*、*Defence Command* など多数存在する。*[Dancing Demon](http://www.dnull.com/demon/)* はゲームというよりも実験的なエンターテインメントソフトである。
+
+オフィス用アプリケーションとしては、[VisiCalc](../Page/VisiCalc.md "wikilink")などの[表計算ソフト](../Page/表計算ソフト.md "wikilink")、やといった[ワープロソフト](../Page/ワープロソフト.md "wikilink")がある。
+
+TRS-DOSベースの[電子掲示板](../Page/電子掲示板.md "wikilink")システムとして On-Line 80 BBS が開発された。
+
+TRS-DOSはOSとして貧弱だったため、代替OS市場が生まれた。NewDOS、DoubleDOS、DOSPlus、LDOS、NEWDOS/80、UltraDOS(Multidos)、VTOS などがある。
+
+Z80を使ったマシンでは、ビジネス用途の標準OSとして[CP/M](https://ja.wikipedia.org/wiki/CP/M "wikilink")が普及し、TRS-80も同様である。しかし、Model I はビデオメモリの配置に問題があり、CP/Mがほとんど役に立たなかった。つまり、CP/M用ソフトウェアを Model I で動作させるには修正が必要だった。
+
+### 国内モデル
+
+日本では、当時国内に点在したラジオシャックチェーンと、全国の特約店で販売された。カナCPUモデルは1979年6月25日発売。
+
+日本で販売されたモデルは、当初は付属の電源ユニットをAC100Vに変更したのみであったが、後にカタカナ（とアルファベット小文字）に対応したカナCPUモデルが販売された。キーボードがカナ配列に変更されており、Enterキーの大きさを半分にして「￥」キーを増設している。また右Shiftキーをカナ切り替えキーに変更して、Shiftキーが左側のみになっている。ファームウェアやBASICインタプリタの違いによる互換性の問題があり、特にマシン語プログラムは、そのままでは動かないケースが殆どだった。
+
+モニタとのセット販売のみで、標準ディスプレイとグリーンディスプレイの2モデルが用意された。価格はグリーンディスプレイの方が2万円高かった。既存モデルをカナCPUモデルにコンバージョンするサービス（CPUボードとキーボードの交換）も提供された。
+
+ソフトウェアでは、カナCPUに対応したアセンブラやDOS、カナ文字対応の在庫管理ソフトなどが発売された。
+
+[ティアック](https://ja.wikipedia.org/wiki/ティアック "wikilink")からは、互換機のPS-80（データレコーダ標準搭載）やPS-85（FDD標準搭載）が発売された。
+
+### クローン
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:DGT-100_Brazilian_TRS-80_Clone.jpg "wikilink")
+
+Model I には様々なクローンが生まれた。Lobo Max-80、[LNW-80](https://ja.wikipedia.org/wiki/LNW-80 "wikilink") Models I/II、ドイツ製でCP/Mにも対応している  などがある。各社 Model III での改良を先取りしており、拡張インタフェースのクローン版も発売している。
+
+香港のも Model I クローンを開発し、様々な名称で世界中で販売した。オーストラリアとニュージーランドでは Dick Smith System-80、北米では PMC-80 および PMC-81、ハンガリーでは HT-1080Z、南アフリカでは TRZ-80、西ヨーロッパでは  として販売している。拡張バスはTRS-80とは異なり、EACAも独自の拡張インタフェースを発売している。いくつかのバージョンがあり、後にホーム版とビジネス版に分けられ、後者はカセットレコーダーを内蔵する代わりにテンキーを装備していた。EACAは TRS-80 Model I をベースとした  も発売した。こちらはグラフィックス機能などが改良されており、互換性が完全ではなくなっている。
+
+ブラジルでは、いくつかの業者が Model I/III/IV のクローンを開発した。Dismac series D8000/D8001/D8002（いずれも Model I クローン）は南米で初めて量産されたパーソナルコンピュータである。Digitus の DGT-100 と DGT-1000、Prologica の CP300 と CP500（これらは Model III クローン）、Sysdata Eletrônica Ltda. の Sysdata Jr などがある。Prologica は TRS-80 Color Computer のクローン CP400 / CP 400II も作っている（外見は [Timex Sinclair 2068](https://ja.wikipedia.org/wiki/Timex_Sinclair_2068 "wikilink") に似ている）。
+
+ドイツでは S.C.S. GmbH が Model I クローンの Komtek-I を発売した。
+
+ソ連では TRS-80 のアイデアを借用して Corvette (Корвет) という教育用コンピュータを開発した。
+
+## ビジネスシステム
+
+### Tandy 10
+
+[Tandy 10](https://ja.wikipedia.org/wiki/:en:Tandy_10_Business_Computer_System "wikilink") は机の形状をしたコンピュータで、1978年にリリースされたが間もなく販売中止となった。
+
+### Model II と Model 12
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Okona-GfhR-TRS-80.jpg "wikilink") 1979年10月、スモールビジネス市場向けに Model II を出荷開始した。1984年、*Creative Computing* 誌はこれを「最先端のビジネスマシン」と呼び、「ラジオシャックのブランドでなかったらビジネス市場を席巻していたかもしれない」と評した。
+
+Model II は Model I の上位互換ではなく、全く違ったシステムである。ビジネス専用マシンとして最先端のハードウェアを使い、DMA、ベクトル化された割り込み、取り外し可能なキーボード、[メモリマップドI/O](https://ja.wikipedia.org/wiki/メモリマップドI/O "wikilink")ではなくポートマップドI/Oを採用するなど、Model I にはなかった様々な機能を備えている。80×25のテキスト表示をサポートし、8インチFDD（片面500KB）、32KBか64KBのRAM、RS-232×2ポート、セントロニクス・パラレルポートを備えている。ビデオメモリはCPUからは直接アクセスせず、レジスタ経由でのみアクセスする。ブートローダ以外のBIOS機能をROMに搭載していない（BIOS機能はブートフロッピーからロードされる）。BIOSがROM上になく、ポートI/Oを採用しているため、アドレス空間のほとんどをソフトウェアが使用できる。TRSDOSとBASICが動作する。TRSDOSは Model I 用と互換性がない。そのため Model I ほどアプリケーションが揃わなかった。逆にサードパーティからリリースされた[CP/M](https://ja.wikipedia.org/wiki/CP/M "wikilink")は問題なく動作した。拡張スロットが3つあり、追加のシリアルポート用カードやビットマップ・グラフィックス用カードなどが登場した。
+
+タンディは Model II 専用の机を370ドルで発売した。これには追加の8インチFDDを3台と8.4MBのHDDを4台まで搭載できる。
+
+1982年、Model II の後継として Model 12 が登場した。ハーフハイトの両面FDDを採用し、Model II のほとんどの回路を1枚のメイン基板で実装している\[20\]。ビデオとキーボードのカードがメイン基板のスロットに挿入されている。拡張カード用筐体が別に用意されていた。Model 12 は、後述する Model 16B からモトローラ製プロセッサを除いたもので、Model 16B へのアップグレードが可能となっている。
+
+### Model III
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:TRS-80_Model_3_01.jpg "wikilink") 1980年7月、タンディは Model III をリリースした。Model I の後継機として、小文字表示が可能となり、キーボードが改良され、カセットインタフェースが1500ボーとなり、Z80プロセッサが（2.03MHzに）高速化されている。なお、Model I は [FCC](https://ja.wikipedia.org/wiki/連邦通信委員会 "wikilink") の新たな[電波干渉防止規格](https://ja.wikipedia.org/wiki/電波障害 "wikilink")（1981年1月から施行）に適合していなかったこともあって、間もなく販売終了となった\[21\]。
+
+Model III は Model I の完全上位互換ではなく、80%のソフトウェアしか動作しなかった。しかもディスクフォーマットが非互換だった。BASICとTRSDOSにもバグが多かった\[22\]。オプションでディスクドライブを内蔵可能である。電源は本体やディスプレイと共通であるため、ディスクにアクセスするたびに画面の表示が目に見えて小さくなるという現象が発生した。
+
+### Model 4
+
+1983年4月、Model III の後継として Model 4（[アラビア数字](../Page/アラビア数字.md "wikilink")で表記するようになった）がリリースされ、[CP/M](https://ja.wikipedia.org/wiki/CP/M "wikilink")を正式にサポートするようになった。
+
+従来のモデルでは BASIC ROM をハード的に細工して 0番地以外に移動させないと CP/M を動作させることはできなかった。そのため、サードパーティが CP/M サポートのためのアドオンボードを販売していた。あるいは、CP/M自体を修正してゼロ番地以外で動作できるようにしていたが、その場合はアプリケーションも修正が必要である。Model 4 では80×24文字の表示モードがCP/M用に追加されている。
+
+Model 4 に同梱された TRSDOS 6 は Logical Systems の LDOS を拡張したもので、従来のTRSDOSよりずっと強力である。TRSDOS 6 を立ち上げると80×24文字表示モードとなり、64KBの全メモリ空間にRAMがマッピングされる。Model III 用OSディスクを使えば、Model 4 で Model III のソフトウェアを実行可能であり、その場合は64×16文字表示となり、ROMがゼロ番地からマッピングされる。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:TRS-80_Model_4P_Crop_Delsener.jpg "wikilink") Model 4 でオプションのカードを使えば、640×240または512×192の高解像度モノクログラフィックスが可能である。派生モデルとして、持ち運び可能で小型のミシンのような形状をした Model 4P が1983年にリリースされた。
+
+初期の Model 4 の基板には[Z8000](https://ja.wikipedia.org/wiki/Z8000 "wikilink")という16ビットCPUを搭載できるようになっていたが、そのためのオプションがリリースされることはなかった。
+
+### Model 16、Model 16B、Tandy 6000
+
+TRS-80 Model 16 は、Model II の後継としてリリースされたもので、Model II をアップグレードするキットも発売されていた。Model 16 は16ビットの[MC68000](../Page/MC68000.md "wikilink") (6MHz) とメモリを搭載したカードを挿入し、Z80をI/Oプロセッサとして使うようになっている。8インチ両面FDDを2台搭載している。TRSDOS-16または[XENIX](../Page/XENIX.md "wikilink")が動作する。TRSDOS-16は従来のTRSDOSにMC68000対応を加えただけであり、MC68000用のコードはZ80との共有メモリウィンドウを通してMC68000カード上のメモリにロードされ、実行される。
+
+XENIXは [UNIX System III](../Page/UNIX_System_III.md "wikilink") の全機能を提供しており、マルチユーザーもサポートしている。XENIXの方が人気となり、ビジネス用途の各種アプリケーションが移植された。タンディもマルチユーザー対応のワープロソフト Scripsit 16、表計算ソフト [Multiplan](../Page/Microsoft_Multiplan.md "wikilink")、データベースソフト Profile 16（後に filePro 16+ にアップグレード）、会計ソフトなどをリリースした。言語としては、[COBOL](../Page/COBOL.md "wikilink")、BASIC、[C言語](../Page/C言語.md "wikilink")が用意された。[RDBMSの](../Page/関係データベース管理システム.md "wikilink") Unify や [Informix](../Page/Informix.md "wikilink") もリリースされている。このXENIXは[マスタースレーブ](https://ja.wikipedia.org/wiki/マスタースレーブ "wikilink")型の実装になっており、入出力はZ80で行い、それ以外の処理は68000で行うようになっていた。
+
+Model 16 の後継が Model 16B で、さらに Tandy 6000 HD が登場した。HDDを内蔵し、[MC68000](../Page/MC68000.md "wikilink")も8MHzに高速化されている。外付けHDDとして、8.4MB、15MB、35MB、70MB の装置を発売し、RAMは最大768KBまで搭載可能。RS-232ポートを6本追加でき、端末を接続してマルチユーザーシステムを構築できる。
+
+## その他のシステム
+
+### Color Computer
+
+[TRS-80_Color_Computer_1_front_right.jpg](https://ja.wikipedia.org/wiki/File:TRS-80_Color_Computer_1_front_right.jpg "fig:TRS-80_Color_Computer_1_front_right.jpg")  (CoCo) は[MC6809](../Page/MC6809.md "wikilink")を使った、明確にホーム市場を志向したマシンである。[コモドール64](https://ja.wikipedia.org/wiki/コモドール64 "wikilink")や [Apple II](../Page/Apple_II.md "wikilink")、[Atari 8ビット・コンピュータと直接競合した](https://ja.wikipedia.org/wiki/Atari_8ビット・コンピュータ "wikilink")。OSとしては[OS-9](../Page/OS-9.md "wikilink")が動作した。
+
+### Model 100 系列
+
+世界初のラップトップ型コンピュータのひとつである。TRS-80 Model 100、Tandy 102、Tandy 200、Tandy 600 といった機種がある。日本の[京セラ](../Page/京セラ.md "wikilink")が設計し、マイクロソフトがソフトウェアを開発した。このシリーズはモデムを備えていて、BASICやテキストエディタを内蔵している。[音響カプラ](../Page/音響カプラ.md "wikilink")を使えばどこからでもファイルを転送できるため、ジャーナリストに愛用者が多かった。
+
+1984年に登場した Tandy 200 は Model 100 の上位機種である。RAMは24KBから72KBまで拡張可能で、40×16文字表示の液晶ディスプレイを備え、表計算ソフト (Multiplan) も内蔵している。
+
+### MC-10
+
+[TRS-80_MC-10_Microcomputer.jpg](https://ja.wikipedia.org/wiki/File:TRS-80_MC-10_Microcomputer.jpg "fig:TRS-80_MC-10_Microcomputer.jpg") TRS-80 は短命に終わったコンピュータで、あまり知られていない。外見は[シンクレア ZX81に似ている](https://ja.wikipedia.org/wiki/シンクレア_ZX81 "wikilink")。
+
+[MC6803を使った小型のシステムで](../Page/MC6800.md "wikilink")、RAMは4Kバイト。オプションで16KバイトRAMパックやサーマルプリンターが用意された。フランスでは若干手を加えた  が発売されている。
+
+カセットレコーダーでプログラムのセーブ/ロードを行う。CoCo とは互換性がないが、MC-10とCoCoを扱った雑誌が出版されていた。アプリケーションはほとんど発売されなかった。
+
+### ポケットコンピュータ
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:TRS-80_PC-2_Cleaned.jpg "wikilink") TRS-80 ポケットコンピュータは、[カシオや](../Page/カシオ計算機.md "wikilink")[シャープ](../Page/シャープ.md "wikilink")の[ポケットコンピュータ](https://ja.wikipedia.org/wiki/ポケットコンピュータ "wikilink")をTRS-80のブランド名で販売したもので、複数の機種がある。
+
+### IBM PC 互換機
+
+1980年代前半、タンディは[MS-DOS](../Page/MS-DOS.md "wikilink")マシンの製造販売を開始した。MS-DOSが動作し一部アプリケーションも動作するが、[IBM PC](https://ja.wikipedia.org/wiki/IBM_PC "wikilink") とは完全互換ではない。最初の製品として  (1983) があり、それに  (1984) が続いた。しかし市場の中心はMS-DOSマシンではなく[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")へと移っていき、CPU速度もそれに伴い高速化していった。互換機の価格競争が始まるとタンディはそれに追随できなくなり、自前の製品を製造することをやめた。
+
+また、Tandy 1000 は[DECとの共同製造契約によるもので](https://ja.wikipedia.org/wiki/デジタル・イクイップメント・コーポレーション "wikilink")、DECも販売していた\[23\]。
+
+## エミュレータ
+
+  - Windows: [HT1080Z EACA Emulator for Windows XP](http://ht.homeserver.hu/html/english.html)
+  - Windows: [TRS32 Model 1/3/4 Emulator for Win XP](http://www.trs-80emulators.com/) （シェアウェア）
+  - Windows/Linux/Mac:: [M.E.S.S. Emulator](http://www.mess.org/) - TRS-80 エミュレータも含んでいる
+  - Windows/Linux/Mac: [VirtualT](http://sourceforge.net/projects/virtualt/) オープンソースの Model 100/102/200 エミュレータ
+  - Linux/Unix: [xtrs](http://www.tim-mann.org/xtrs.html) （オープンソース）
+  - Java: [Java applet](http://www.vavasour.ca/jeff/trs80.html)
+  - Mac Classic: [TRS-80 Emulator for Mac OS](http://www.vcnet.com/~skyrider/trs80.html) - Mac OS 7.5.5 かそれ以降（サウンドはサポートしていない）
+
+## 脚注
+
+## 外部リンク
+
+  -
+  - [RadioShack Catalogs (1939-2005)](http://www.radioshackcatalogs.com/)
+
+  - [TRS-80 and Tandy Computer Catalogs (1977-1992)](http://www.radioshackcatalogs.com/computer)
+
+  - [TRS-80 and Tandy Computer TV Commercials (1980-85)](http://www.radioshackcatalogs.com/videos-1.html)
+
+  - [TRS-80 and Tandy Computer TV Commercials (1986-89)](http://www.radioshackcatalogs.com/videos-2.html)
+
+  - [8bit-micro.com - TRS-80 Support Group and Online Magazine](http://www.8bit-micro.com)
+
+  - [Radio Shack Model I and II catalog RSC-3](http://web.archive.org/web/20081228104218/http://www.robert.to/reports/trs80rsc3.html)
+
+  - [trs-80.com : Ira Goldklang's TRS-80 Revived Site](http://www.trs-80.com/)
+
+  - [CoCo Central : TRS-80 Fan & Developer Site](http://cococentral.com/)
+
+  - [TRS-80 Model 1 at www.old-computers.com](http://www.old-computers.com/museum/computer.asp?c=409&st=1)
+
+  - [REM 80 - The North West TRS-80 USers Group Magazines](http://www.computinghistory.org.uk/cgi-bin/sitewise.pl?act=sect&pt=1609_371&s=2372)
+
+[Category:パーソナルコンピュータ_(製品)](https://ja.wikipedia.org/wiki/Category:パーソナルコンピュータ_\(製品\) "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20. Tim Daneliuk, ''Hardware Review TRS 80 Model 12 , 'a refined TRS 80 Model II' '', *Info World* August 22, 1983 page 50
+21.
+22.
+23. ["COMPANY NEWS; Digital Sets Plan to Build Its Own PC's"](http://query.nytimes.com/gst/fullpage.html?res=9E0CE4D8163BF93BA35751C0A964958260), *New York Times*, February 8, 1982

@@ -1,0 +1,77 @@
+> この記事は[SaaS](https://ja.wikipedia.org/wiki/SaaS)から翻訳されています。
+
+
+**SaaS**（読みはサース または サーズ\[1\]。**S**oftware **a**s **a** **S**erviceの略語）は、必要な機能を必要な分だけサービスとして利用できるようにした[ソフトウェア](../Page/ソフトウェア.md "wikilink")（主に[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")）もしくはその提供形態のこと\[2\]。一般には[インターネット](../Page/インターネット.md "wikilink")経由で必要な機能を利用する仕組みで、シングルシステム・マルチテナント方式になっているものを指す\[3\]。以下、特に断りのない限り、上記定義でのSaaSについて記述する。
+
+## 概要
+
+従来のソフトウェア販売の中心は、ソフトウェアを[パッケージ](../Page/パッケージ.md "wikilink")製品としてユーザーにライセンス販売する形態であり、ユーザーは自分の持つ[コンピュータ](../Page/コンピュータ.md "wikilink")でそのソフトウェアを稼働させ、利用する形態であった。 一方、SaaSでは、ソフトウェアを提供者（[プロバイダ](https://ja.wikipedia.org/wiki/プロバイダ "wikilink")）側のコンピュータで稼働させ、ユーザーはそのソフトウェア機能を[インターネット](../Page/インターネット.md "wikilink")などのネットワーク経由でサービスとして使用し、サービス料を支払う形態（[ビジネスモデル](https://ja.wikipedia.org/wiki/ビジネスモデル "wikilink")）が主流となっている。
+
+SaaSの利点として、ユーザー側としては、使用した期間・量だけのサービス料で済む、ユーザー側のコンピュータ導入・構築・管理などが不要（または最小限）になる、このため短期間での利用開始や、ユーザー数や処理量の急な増減にも対応しやすい、常に最新のソフトウェア機能を使用できる、などがある。 またプロバイダ側としては、新規ユーザーの獲得が容易、ソフトウェアのみの販売よりも売上の向上・平準化になる、コンピュータ運用はスケールメリットと自社要員が生かせる、各ユーザー固有の導入や保守のサポートが軽減できる、などがある。
+
+デメリットには、プロバイダ側や通信回線、ネットワークの障害時には使用できない、[セキュリティ上の懸念](https://ja.wikipedia.org/wiki/情報セキュリティ "wikilink")、ユーザー固有の仕様変更や運用変更は困難、長期利用の場合に割高となる可能性、などがある。 また、[クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")上のSaaSの場合は、クラウドが示す「向こう側」がどこなのかが不明確なため、海外の[IDCで運用されていた場合やデータの損失などが発生した場合](../Page/インターネットデータセンター.md "wikilink")、国内法が適用されないというリスクもある。
+
+SaaSは、ネットワーク経由という面では[ネットワーク・コンピューティング](https://ja.wikipedia.org/wiki/ネットワーク・コンピューティング "wikilink")の一形態であり、従量制課金の場合は[ユーティリティコンピューティング](../Page/ユーティリティコンピューティング.md "wikilink")の一形態であり、またSaaSプロバイダは[ASPと同義語である](https://ja.wikipedia.org/wiki/アプリケーションサービスプロバイダ "wikilink")。また、比較的広い意味での「[クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")」における、[IaaS](https://ja.wikipedia.org/wiki/IaaS "wikilink")、[PaaS](https://ja.wikipedia.org/wiki/PaaS "wikilink")等に並ぶ一種ともされる\[4\]。
+
+なお、SaaSに類似した形態としては、各種の[ホスティングサービスや](../Page/ホスティングサーバ.md "wikilink")[アウトソーシング](../Page/アウトソーシング.md "wikilink")サービスなどがある。これはプロバイダ側にハードウェアとソフトウェアがあり、ユーザーはネットワーク経由で使用しサービス料を支払う点ではSaaSと同じだが、ホスティングではハードウェアとソフトウェア、アウトソーシングでは契約によってはソフトウェアなどを、ユーザーが購入する必要がある。例には[IBM](../Page/IBM.md "wikilink")のApplications on Demand (AOD) \[5\]などがある。
+
+### 発音
+
+SaaSの発音は、「サース」とする場合が多い。「サーズ」と濁って発音することはあったが、一般的にも専門的にも[SARS](https://ja.wikipedia.org/wiki/SARS "wikilink")との混同を避けるために「サース」と発音しているとされる。[日本経済新聞](../Page/日本経済新聞.md "wikilink")の用語解説でも「サース」の発音を採用している\[6\]。
+
+## 歴史
+
+ソフトウェアをネットワーク経由でサービスとして提供する事自体は、[ASPとして](https://ja.wikipedia.org/wiki/アプリケーションサービスプロバイダ "wikilink")、従来より行われている。ASPとSaaSを区別することなく使われていることが多い。有料の[電子メール](../Page/電子メール.md "wikilink")サービス、[グループウェア](../Page/グループウェア.md "wikilink")、各種の検索サービス、[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")などである。
+
+2006年には[クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")という言葉が普及し、クラウドコンピューティング上で提供される[ソフトウェア](../Page/ソフトウェア.md "wikilink")がSaaSと呼ばれるようになった。
+
+2007年後半に日本でクラウドコンピューティング上で提供されるSaaSの定義が各プロバイダより発信され始め、リーマンショック後コスト削減サービスとして急速な普及が始まった。各ASP事業者（ベンダー）は2009年頃から、アプリケーションレイヤー上の提供名称を、ASPからSaaSへと変え始めた。
+
+## 動向
+
+### 業界の動き
+
+日本国内ではSaaS専業ベンダーや、基幹システム関連でのSaaS提供はそれ以外の業態や形態と比べると少数だが、2009年から2010年にかけてSaaSを標榜するサービスが増えてきており、少しずつ市場が広がり始めている\[7\]。
+
+また、[キャリア各社もSaaS提供インフラの構築に積極的である](https://ja.wikipedia.org/wiki/通信キャリア "wikilink")。[KDDI](../Page/KDDI.md "wikilink")は、2007年6月に米マイクロソフト社との包括提携を行った。また、[NTTコミュニケーションズ](../Page/NTTコミュニケーションズ.md "wikilink")は、SaaSを[NGNの展開における重要なサービスと位置づけている](https://ja.wikipedia.org/wiki/Next_Generation_Network "wikilink")。
+
+### 政府の動き
+
+2008年1月、[経済産業省](../Page/経済産業省.md "wikilink")は「SaaS向け[SLAガイドライン](https://ja.wikipedia.org/wiki/サービス水準合意 "wikilink")」を定め、サービス利用者が安心して利用するために、利用者とSaaSベンダー間で認識すべきサービスレベル項目や確認事項等について明示した。また2008年2月、[総務省](../Page/総務省.md "wikilink")は「ASP・SaaSにおける情報セキュリティ対策ガイドライン」を定め、組織・運用と、物理的・技術的側面からSaaS提供のための指針を示した。例えば、組織内での情報管理責任者を定め、その利用範囲を明確にし、文書化することや、物理的な措置として、利用者の利用状況や例外処理、情報セキュリティ事象のログ保存期間などを明示している。
+
+2008年7月、経済産業省は「中小企業向けSaaS活用基盤整備事業」を開始した。これは、アプリケーションソフトウェアをSaaSとして提供することで、情報技術を活用するための経営基盤が必ずしも充実していない中小企業・小規模企業の競争力を強化すること目的としている。2009年3月31日、財務・会計などのASP/SaaS事業者がJ-SaaSでの提供が開始された。
+
+### 業界団体
+
+業界団体として、「[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink") ASP・SaaSインダストリ・コンソーシアム」（略称：ASPIC）がある。ASPICは1999年11月に[任意団体](../Page/任意団体.md "wikilink")として設立された後、2002年にNPO法人の認証を取得し、活動している、ASP・SaaSを推進する団体で会員企業が約170社（2008年5月現在）ある。ASPICでは「ASP白書2003」においてASPの定義を「特定及び不特定ユーザが必要とするシステム機能を、ネットワークを通じて提供するサービス、あるいは、そうしたサービスを提供するビジネスモデル」としており、ASPとSaaSを同意語として扱っている。 またSaaSの普及を目指し、ASP・SaaS安全・信頼性情報開示認定機関として、サービスの安全性や提供事業者を審査し利用者が安心してSaaSを利用できる基準を設けている。
+
+## 脚注
+
+## 参考文献
+
+  - 日経BP社出版局編『クラウド大全 The Complete Cloud Computing <サービス詳細から基盤技術まで>』（日経BP社、2009年） ISBN 978-4-8222-8388-9
+
+## 関連項目
+
+  - [アプリケーションサービスプロバイダ](https://ja.wikipedia.org/wiki/アプリケーションサービスプロバイダ "wikilink")
+  - [オンプレミス](https://ja.wikipedia.org/wiki/オンプレミス "wikilink")
+  - [ユーティリティコンピューティング](../Page/ユーティリティコンピューティング.md "wikilink")
+  - [クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")
+  - [仮想アプライアンス](../Page/仮想アプライアンス.md "wikilink")
+  - [PaaS](https://ja.wikipedia.org/wiki/PaaS "wikilink")
+  - [IaaS](https://ja.wikipedia.org/wiki/IaaS "wikilink") (HaaS)
+  - [Remote Video Application](https://ja.wikipedia.org/wiki/Remote_Video_Application "wikilink")
+  - [ウェブデスクトップ](https://ja.wikipedia.org/wiki/ウェブデスクトップ "wikilink")
+  - [ウェブアプリケーション](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")
+
+## 外部リンク
+
+[Category:ソフトウェア](https://ja.wikipedia.org/wiki/Category:ソフトウェア "wikilink") [Category:流通](https://ja.wikipedia.org/wiki/Category:流通 "wikilink") [Category:クラウドコンピューティング](https://ja.wikipedia.org/wiki/Category:クラウドコンピューティング "wikilink") [Category:アクロニム](https://ja.wikipedia.org/wiki/Category:アクロニム "wikilink")
+
+1.
+2.
+3.  <http://www.meti.go.jp/press/20080121004/20080121004.html> 経済産業省「SaaS向けSLAガイドライン」
+4.
+5.
+6.
+7.

@@ -1,0 +1,139 @@
+> この記事は[Mot.Com](https://ja.wikipedia.org/wiki/Mot.Com)から翻訳されています。
+
+
+[right](https://ja.wikipedia.org/wiki/ファイル:Mot.com_Motomiya.jpg "wikilink") **株式会社Mot.Comもとみや**（もっとこむもとみや）は、[福島県](../Page/福島県.md "wikilink")[本宮市](../Page/本宮市.md "wikilink")、[安達郡](../Page/安達郡.md "wikilink")[大玉村](https://ja.wikipedia.org/wiki/大玉村 "wikilink")の各一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")として[超短波放送](../Page/超短波放送.md "wikilink")（[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")）をする[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。**FM Mot.com**の愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしている。
+
+## 概要
+
+2006年（平成18年）12月20日開局。開局時点では[本宮町の](https://ja.wikipedia.org/wiki/本宮町_\(福島県\) "wikilink")[白沢村との合併前であり](https://ja.wikipedia.org/wiki/白沢村_\(福島県\) "wikilink")、12日間だけであるが[福島県](../Page/福島県.md "wikilink")では初めての[町](../Page/町.md "wikilink")に所在するラジオ局であった。2007年（平成19年）1月1日に、両町村は合併し本宮市となった。
+
+可聴範囲は半径約10km、放送エリアはおおむね大玉村、本宮市、二本松市、郡山市の地域\[1\]。
+
+[サイマルラジオおよび](https://ja.wikipedia.org/wiki/SimulRadio "wikilink")[リッスンラジオでネット配信をしている](https://ja.wikipedia.org/wiki/ListenRadio "wikilink")。
+
+  - 沿革
+
+2002年（平成14年）
+
+  - 10月22日　株式会社Mot.Comもとみや設立
+
+2006年（平成18年）
+
+  - 8月10日　放送局（現[特定地上基幹放送局](https://ja.wikipedia.org/wiki/特定地上基幹放送局 "wikilink")）の[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")取得
+  - 12月5日　放送局の免許取得
+  - 12月20日　開局
+
+2009年（平成21年）
+
+  - 1月5日　サイマルラジオでのネット配信開始
+
+2013年（平成25年）
+
+  - 7月16日　リッスンラジオでのネット配信開始
+
+2019年（平成31年）
+
+  - 4月25日　本宮市地域交流センターにスタジオを移転。
+
+## 内容
+
+  - 地域番組と[ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink")の再送出をあわせた番組構成
+  - 放送時間：6:00 - 25:00
+
+## 自社制作番組
+
+  - グッドモーニングカフェ（月曜 - 金曜 7:00 - 9:00）
+  - Music Collection（月曜 - 金曜 9:00 - 10:00）
+  - おもしろヒルミネーション（月曜 - 金曜 11:00 - 13:00）
+      - 本宮むかしむかしの会（水曜 11:15 - 11:30）
+      - へそのまち本宮「まゆみちゃん」情報（金曜 11:30 - 11:45）
+      - こちら郡山北警察署本宮分庁舎（第3金曜 11:30 - 11:45）
+  - Motcom Music Collection （月曜 - 金曜 14:00 - 15:00）
+  - 今夜も んだNIGHT\!\!（月曜 - 金曜 17:00 - 19:00）
+      - ワンダフルなみえまち（月曜 - 金曜 17:30 - 17:45）
+  - 水木ノアの興味 SINSIN（第1月曜 10:00 - 10:30）
+  - オハナ戦隊おうえんじゃー（第2月曜 10:00 - 10:30）
+  - イニシャルkの「E」（第3月曜 10:00 - 10:30）
+  - コーチング（第4月曜 10:00 - 10:30）
+  - みかっちの行ってみっかい\!（月曜 10:30 - 11:00）
+  - 永崎は今日も駄目だった\!（月曜 13:00 - 13:30）
+  - ふぐすまより愛をこめて（月曜 13:30 - 14:00）
+  - GENEのROCKNROLL PARADISE（月曜 19:00 - 20:00）（ミュージックバードで全国放送）
+  - 寿ニュース（月曜 20:00 - 20:30）
+  - ドラムでポン\!（月曜 21:30 - 22:00）
+  - あっこにおまかせぇ\!（火曜 13:30 - 14:00）
+  - ブラッデストサキソフォンのスイングサーキット（火曜 21:00 - 21:30）
+  - feel a wind（火曜 21:30 - 22:00）
+  - インザウインドのラジオでさすけね\!（水曜 10:00 - 10:30）
+  - はまちゃんの情熱大陸（水曜 10:30 - 11:30）
+  - NOBYのファジーな時間（水曜 13:00 - 14:00）
+  - [粋成浩児](https://ja.wikipedia.org/wiki/粋成浩児 "wikilink")のGO\!GO\!6575\!（水曜 21:00 - 22:00）
+  - 藤本まことの心機一転（水曜 24:00 - 25:00）
+  - 音のモナリザ（木曜 10:00 - 10:30）
+  - ミュージックチャンプル（第1・4・5木曜 13:00 - 13:30）
+  - 世界も、自分も、変えるラジオ（第2・3木曜 13:00 - 13:30）
+  - あかねのミュージックチャンプル（木曜 19:00 - 20:00）
+  - それいけ\!ぺろやまぺろち\!（木曜 21:00 - 22:00）
+  - J-WORLD（木曜 24:00 - 24:30）
+  - 熊谷之と美月愛の演歌はいいね（金曜 10:00 - 10:30）
+  - 日本の心 オンステージ（金曜 13:15 - 13:30）
+  - お醤油貸してください。【PART2】（金曜 13:30 - 14:00）
+  - 前略道の上から（金曜 20:00 - 21:00）
+  - ロックンロールを撃ちまくれ（土曜 19:30 - 20:00）
+  - Trick or treat（土曜 20:00 - 20:30）
+  - ゴーストマスター（土曜 20:30 - 21:00）
+  - Hop Step Music（日曜 19:00 - 19:30）
+  - [can/goo](https://ja.wikipedia.org/wiki/can/goo "wikilink")のグー刊現在増刊号〜\!（日曜 21:00 - 21:30）
+  - 市議会録音放送 ※不定期（市議会開催時）
+
+## 過去の自社制作番組
+
+  - MOTCOM J-POP コレクション
+  - 寿パラダイス
+  - やっぺのマイ・ミュージックステーション
+  - 41才の春だから、そうだアサヒを見に行こう
+  - 演歌を聴きながら
+  - Mot.Jam
+  - インディーな仲間達
+  - ギターフリーク
+  - みちのくボンガーズのボンガラ\!
+  - FAN YOU MUSIC
+  - 音楽音姫
+  - 特選ラヂオ\!
+  - すばるの仲間達
+  - マイミュージックステーション
+  - すみません\!お醤油貸してください。
+  - MOTCOM ポピュラーコレクション
+  - Lady brown
+  - パンダフルワイフ
+  - すばるの仲間達
+  - 天国への扉
+  - ドリームキッズ
+  - ひまの過ごし方
+  - オペラ座の外人
+  - R40
+  - 続・演歌を聴きながら
+
+## 脚注
+
+<references/>
+
+## 関連項目
+
+  - [東北コミュニティ放送協議会](https://ja.wikipedia.org/wiki/東北コミュニティ放送協議会 "wikilink")
+
+## 外部リンク
+
+  - [Mot.Comもとみや](http://www.fm-mot.com/)
+
+  -
+  -
+  -
+  -
+  - [東北総合通信局](https://ja.wikipedia.org/wiki/東北総合通信局 "wikilink") 報道資料 平成18年8月10日
+
+  - 同上 平成18年12月5日
+
+[Category:東北地方のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:東北地方のコミュニティ放送局 "wikilink") [Category:福島県のマスメディア](https://ja.wikipedia.org/wiki/Category:福島県のマスメディア "wikilink") [Category:本宮市の企業](https://ja.wikipedia.org/wiki/Category:本宮市の企業 "wikilink") [Category:2002年設立の企業](https://ja.wikipedia.org/wiki/Category:2002年設立の企業 "wikilink")
+
+1.  [電波受信](http://web.archive.org/web/20130907202725/http://fm-mot.com/motcom/antena/fmmotcom_antena.html) Mot.Com もとみや（[Internet Archiveのアーカイブ](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink"):2013年9月7日収集）

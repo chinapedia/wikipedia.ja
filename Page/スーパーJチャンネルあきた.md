@@ -1,0 +1,62 @@
+> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+
+
+『**スーパーJチャンネルあきた**』（スーパージェイチャンネルあきた）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[秋田朝日放送](../Page/秋田朝日放送.md "wikilink")で放送されていた夕方の[ローカルワイド](https://ja.wikipedia.org/wiki/ローカルワイド番組 "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。
+
+コメンテーターの起用、双方向機能を持たせた[番組連動データ放送](https://ja.wikipedia.org/wiki/データ放送#データ放送の種類 "wikilink")「あきたのみんなでソラをライブ」の実施などにより、県内他局の番組との差別化を図っていた。
+
+## 放送時間
+
+いずれも[日本標準時](../Page/日本標準時.md "wikilink")。
+
+  - 月曜 - 金曜 18:30 - 18:56 （1998年10月5日 - 2000年9月29日）
+  - 月曜 - 金曜 18:17 - 18:56 （2000年10月2日 - 2011年4月1日）
+  - 月曜 - 金曜 16:52 - 18:56 （2011年4月4日 - 2011年9月30日）
+  - 月曜 - 木曜 16:52 - 18:56 （2011年10月3日 - 2012年9月27日）
+  - 月曜 - 木曜 16:50 - 18:55 （2012年10月1日 - 2015年3月26日）
+
+## キャスター
+
+  - [塩畑弘之](https://ja.wikipedia.org/wiki/塩畑弘之 "wikilink")（メイン担当、開始 - 2006年3月）
+  - [高橋正和](https://ja.wikipedia.org/wiki/高橋正和_\(アナウンサー\) "wikilink")（メイン担当、2006年4月 - 2010年10月1日・2013年9月30日 - 2015年3月26日・スポーツコーナー担当、2010年10月4日 - 2013年9月26日）
+  - [和気徹児](../Page/和気徹児.md "wikilink")（メイン担当、2010年10月4日 - 2013年9月26日）
+  - [本多真弓](https://ja.wikipedia.org/wiki/本多真弓_\(アナウンサー\) "wikilink")（メイン担当、2014年3月31日 - 2015年3月26日）
+  - [千田まゆこ](https://ja.wikipedia.org/wiki/千田まゆこ "wikilink")（メイン担当、開始 - 2005年10月、2007年4月 - 2008年2月27日、2010年10月4日 - 2012年3月29日）
+  - 石井陽子（後の[田村陽子](../Page/田村陽子.md "wikilink")、開始 - 2006年3月）
+  - [小田正実](https://ja.wikipedia.org/wiki/小田正実 "wikilink")（メイン担当、2006年4月 - 2007年3月）
+  - [後藤明日香](https://ja.wikipedia.org/wiki/後藤明日香 "wikilink")（メイン担当、2009年3月2日 - 2010年10月1日）
+  - [塩地美澄](https://ja.wikipedia.org/wiki/塩地美澄 "wikilink")（メイン担当、2012年4月2日 - 2014年3月27日）
+  - [北田牧子](https://ja.wikipedia.org/wiki/北田牧子 "wikilink")（ミニコーナー担当、レギュラー陣が不在時には代理出演）
+  - [椿田恵理子](https://ja.wikipedia.org/wiki/椿田恵理子 "wikilink")（「天気のじかん」担当、2008年9月29日 - 2009年9月30日）
+  - [柏木千春](https://ja.wikipedia.org/wiki/柏木千春 "wikilink")（「天気のじかん」担当、2009年10月1日 - 2011年4月1日）
+  - [藤盛由果](https://ja.wikipedia.org/wiki/藤盛由果 "wikilink")（「天気のじかん」担当、2011年4月4日 - 2014年3月27日）
+  - [福盛田悠](https://ja.wikipedia.org/wiki/福盛田悠 "wikilink")（「天気のじかん」担当、2014年3月31日 - 2015年3月26日）
+
+## 備考
+
+  - 以前は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")でこの時間に放送されている「奥様鑑定団」「噂の検証人」「ラッシャー板前の便利屋大将」などのコーナーも設けていた。なお、2013年9月30日からは「きょうナビ」を時差ネットしていた。
+  - キー局にスポーツコーナーが無いため、県内の他局とは違って同時ネットを実施していなかった。
+  - 当初は[モノラル放送](https://ja.wikipedia.org/wiki/モノラル放送 "wikilink")だったが、2005年12月1日の[地上デジタル放送開始以後は](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[ステレオ放送](../Page/ステレオ放送.md "wikilink")を行っていた。また、2006年7月3日をもって[ハイビジョン制作へと移行した](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")。
+  - 2012年4月2日からは、オープニング・エンディング・提供クレジット時のBGMが独自のものになったが、CM前のアイキャッチBGMに関してはテレビ朝日と同じものを使用していた。
+  - 土曜・日曜には『ANNスーパーJチャンネル』として放送されていた。開局以来、日曜日は選挙などの特別な場合以外、ローカルニュースは放送しなかったが、からレギュラー放送されるようになった。
+  - 2011年10月7日からは、金曜放送分が『[情報ニュースショー トレタテ\!](https://ja.wikipedia.org/wiki/スーパーJチャンネルトレタテ! "wikilink")』と題して放送されていた。
+  - 2012年8月1日に[こまちスタジアム](https://ja.wikipedia.org/wiki/こまちスタジアム "wikilink")で開催された[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")×[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")の試合の様子をニュースの内容として一部中継したが、[J SPORTSの映像をそのまま放送した](../Page/J_SPORTS.md "wikilink")。
+  - 天気予報「天気のじかん」では、[ウェザーニューズ](https://ja.wikipedia.org/wiki/ウェザーニューズ "wikilink")と提携した「あきたのみんなでソラをライブ」と称した視聴者参加型の双方向のコーナーがあり、視聴者がインターネットに接続されたテレビ(データ放送)、または[携帯電話](../Page/携帯電話.md "wikilink")から現在の天気の情報を送信し、集計した結果を紹介する。一方で、他局とは違い、台風の進路予報以外では実況天気図や予報天気図を用いず、天気情報のみを放送している。
+  - 2013年9月30日以降は、コメンテーターが常時1名出演していた。
+  - 番組は同タイトルでの放送終了後、金曜の『情報ニュースショー トレタテ\!』との再統合によって『**[スーパーJチャンネルトレタテ\!](https://ja.wikipedia.org/wiki/スーパーJチャンネルトレタテ! "wikilink")**』へとリニューアルした。
+
+## イベント
+
+  - 「スーパーJチャンネルライブトーク」（秋田朝日放送、2012年10月）
+
+## 関連項目
+
+  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+  - [AABステーションEYE](../Page/AABステーションEYE.md "wikilink") - 前番組『[チャンネルeiei](https://ja.wikipedia.org/wiki/チャンネルeiei "wikilink")』の前身番組。
+  - [ANN夕方ローカルニュース一覧](../Page/ANN夕方ローカルニュース一覧.md "wikilink")
+
+## 外部リンク
+
+  - [スーパーJチャンネルあきた](http://archive.is/StohX)（archive版）
+
+[Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:秋田朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:秋田朝日放送のテレビ番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")

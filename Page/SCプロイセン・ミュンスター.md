@@ -1,0 +1,56 @@
+> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+
+
+**SCプロイセン・ミュンスター** (**SC Preußen Münster**) は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ノルトライン＝ヴェストファーレン州](../Page/ノルトライン＝ヴェストファーレン州.md "wikilink")の[ミュンスター](https://ja.wikipedia.org/wiki/ミュンスター "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。クラブの冒頭に冠された[プロイセン](../Page/プロイセン.md "wikilink")は、かつてこの地が[プロイセン王国](../Page/プロイセン王国.md "wikilink")の領土であったことに由来する（[ラテン語](../Page/ラテン語.md "wikilink")でプロイセンを意味する「ボルシア」が周辺のいくつかのクラブに冠されていることと同様）。
+
+## 歴史
+
+[1906年](../Page/1906年.md "wikilink")に創設された。1908年に1部昇格を果たし、その後ヴェストファーレン地域で2度の優勝を果たしたが、1928年に2部へと降格したのち、昇降格を幾度か繰り返した。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後における最大の成功の一つは、1951年における国内準優勝であった。（[1.FCカイザースラウテルン](https://ja.wikipedia.org/wiki/1.FCカイザースラウテルン "wikilink")に惜敗。）ブンデスリーガ発足（1963年）当初は1部リーグに在籍していたが、翌年に2部へと降格、さらに1981年には3部（現在の[レギオナルリーガ](https://ja.wikipedia.org/wiki/レギオナルリーガ "wikilink")に相当）へと降格してしまった。1989年に再昇格を果たしたが、1991年に再び3部へと降格した。2006年、オーバーリーガ（4部）に降格した。
+
+## タイトル
+
+### 国内タイトル
+
+なし
+
+### 国際タイトル
+
+なし
+
+## 過去の成績
+
+| シーズン                                                                            | ディビジョン                                                                       | [DFBポカール](https://ja.wikipedia.org/wiki/DFBポカール "wikilink") |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| リーグ                                                                             | 順位                                                                           | 試                                                           |
+| 2008–09                                                                         | [レギオナルリーガ・西部](https://ja.wikipedia.org/wiki/レギオナルリーガ_\(ドイツサッカー\) "wikilink") | 4位                                                          |
+| 2009–10                                                                         | レギオナルリーガ・西部                                                                  | 6位                                                          |
+| 2010–11                                                                         | レギオナルリーガ・西部                                                                  | 1位                                                          |
+| 2011–12                                                                         | [ブンデスリーガ3部](https://ja.wikipedia.org/wiki/3._リーガ_\(ドイツサッカー\) "wikilink")     | 12位                                                         |
+| 2012–13                                                                         | ブンデスリーガ3部                                                                    | 4位                                                          |
+| 2013–14                                                                         | ブンデスリーガ3部                                                                    | 6位                                                          |
+| [2014–15](https://ja.wikipedia.org/wiki/3._リーガ_\(ドイツサッカー\)2014-2015 "wikilink") | ブンデスリーガ3部                                                                    | 8位                                                          |
+| [2015–16](https://ja.wikipedia.org/wiki/3._リーガ_\(ドイツサッカー\)2015-2016 "wikilink") | ブンデスリーガ3部                                                                    | 9位                                                          |
+| [2016–17](https://ja.wikipedia.org/wiki/3._リーガ_\(ドイツサッカー\)2016-2017 "wikilink") | ブンデスリーガ3部                                                                    | 9位                                                          |
+| [2017–18](https://ja.wikipedia.org/wiki/3._リーガ_\(ドイツサッカー\)2017-2018 "wikilink") | ブンデスリーガ3部                                                                    | 10位                                                         |
+| [2018-19](https://ja.wikipedia.org/wiki/3._リーガ_\(ドイツサッカー\)2018-2019 "wikilink") | ブンデスリーガ3部                                                                    | 8位                                                          |
+| [2019-20](https://ja.wikipedia.org/wiki/3._リーガ_\(ドイツサッカー\)2019-2020 "wikilink") | ブンデスリーガ3部                                                                    | 位                                                           |
+
+## 歴代監督
+
+  - [バート・トラウトマン](https://ja.wikipedia.org/wiki/バート・トラウトマン "wikilink") 1967-1968
+
+  - [ロガー・シュミット](https://ja.wikipedia.org/wiki/ロガー・シュミット "wikilink") 2007-2010
+
+  - [ベンノ・メールマン](https://ja.wikipedia.org/wiki/ベンノ・メールマン "wikilink") 2016-
+
+## 歴代所属選手
+
+  - [ジークフリート・ヘルト](../Page/ジークフリート・ヘルト.md "wikilink") 1979
+
+  - [クリストフ・メッツェルダー](https://ja.wikipedia.org/wiki/クリストフ・メッツェルダー "wikilink") 1998-2000
+
+  - [ジョゼ・ピエール・ヴンギディガ](https://ja.wikipedia.org/wiki/ジョゼ・ピエール・ヴンギディガ "wikilink") 2011-2012
+
+## 脚注
+
+[Category:ドイツのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ドイツのサッカークラブ "wikilink") [Category:ノルトライン＝ヴェストファーレンのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ノルトライン＝ヴェストファーレンのサッカークラブ "wikilink") [Category:ミュンスター](https://ja.wikipedia.org/wiki/Category:ミュンスター "wikilink") [Category:1906年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1906年設立のスポーツチーム "wikilink")

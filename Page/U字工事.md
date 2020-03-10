@@ -1,0 +1,293 @@
+> この記事は[U](https://ja.wikipedia.org/wiki/U)から翻訳されています。
+
+
+**U字工事**（ゆーじこうじ）は**福田 薫**と**益子 卓郎**の2人からなる[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫才](../Page/漫才.md "wikilink")コンビである。[デューズ](https://ja.wikipedia.org/wiki/デューズ "wikilink")所属。共に[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")出身。
+
+## 概要
+
+[栃木県立大田原高等学校](https://ja.wikipedia.org/wiki/栃木県立大田原高等学校 "wikilink")の同級生だった2人によるコンビで、主に[栃木弁](https://ja.wikipedia.org/wiki/栃木弁 "wikilink")による漫才を行う。地元栃木の特産品や名物、栃木と隣県との関係に絡めたネタや田舎あるあるにちなんだネタを得意とし、レッドカーペットでは地元ネタを絡めて益子がキレながら説明するのが通例となっている。代表的なギャグは福田が「おめぇのせいだ、バーカ‼︎」と言った後に益子が逆ギレ気味に返す「**ごめんねごめんね〜！**」、その直後福田が「**ちゃんと**(もしくは**目ぇ見て**)**謝れ！**」と叱るオチで終了する。
+
+高校在学中より2人で漫才を披露しており、高校3年時のクラスの文化祭の出し物は2人による漫才だったという。また高校在学中の[1996年](../Page/1996年.md "wikilink")にはアマチュアコンビとして『[AHERA](https://ja.wikipedia.org/wiki/AHERA "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）に出演している\[1\]。その当時より漫才師を志望しており、高校卒業後は上京して2人そろって[桜美林大学](../Page/桜美林大学.md "wikilink")に入学・卒業。[2000年](../Page/2000年.md "wikilink")に正式にコンビ結成。様々な事務所のオーディションを受け、人数が少なくアットホームだと感じた[アミー・パーク](https://ja.wikipedia.org/wiki/アミー・パーク "wikilink")に所属した。
+
+上京当時は共通語での漫才を目指すものの、無意識に出てしまう栃木訛りを指摘されていた。しかし[水道橋博士](https://ja.wikipedia.org/wiki/水道橋博士 "wikilink")の助言で訛りをあえて強調するようになり、現在のスタイルにつながることとなる。なお、聞き取りづらいとの指摘があったことから[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")ごろから訛りを抑えめにしてゆっくり喋るようになっているという。[2011年](../Page/2011年.md "wikilink")3月より[漫才協会](https://ja.wikipedia.org/wiki/漫才協会 "wikilink")に入会し、同協会の定席である[浅草東洋館](https://ja.wikipedia.org/wiki/浅草東洋館 "wikilink")にも多く出演するようになっている。[2017年](../Page/2017年.md "wikilink")11月に[浅草公会堂](https://ja.wikipedia.org/wiki/浅草公会堂 "wikilink")で行われる「漫才大会」で、同協会第28代[真打ち](https://ja.wikipedia.org/wiki/真打ち "wikilink")昇進披露が行われた\[2\]。
+
+大学進学以降は栃木ではなく東京（大学時代は大学近辺の[町田市](../Page/町田市.md "wikilink")及び[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[相模原市](../Page/相模原市.md "wikilink")）で暮らしている。[本籍地](https://ja.wikipedia.org/wiki/本籍地 "wikilink")は共に栃木県。後述の罰ゲームで一時期本籍を栃木から東京に変更したことがある。
+
+[2020年](../Page/2020年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")、2019年12月31日をもって20年間所属したアミー・パークとの契約を終了し、デューズに移籍したことをブログで明らかにした\[3\]\[4\]。
+
+## メンバー
+
+  - **福田 薫**（ふくだ かおる、 - ）
+    [ツッコミ担当](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")、立ち位置は向かって左。おおむね青のジャケットを着ていることが多い。
+    身長168cm、体重68kg、[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[5\]。既婚\[6\]。
+      - 栃木県[那須郡](../Page/那須郡.md "wikilink")[西那須野町](https://ja.wikipedia.org/wiki/西那須野町 "wikilink")（現在の[那須塩原市](https://ja.wikipedia.org/wiki/那須塩原市 "wikilink")）出身。西那須野町立三島中学校（現在の[那須塩原市立三島中学校](https://ja.wikipedia.org/wiki/那須塩原市立三島中学校 "wikilink")）→ 県立大田原高校 → [桜美林大学](../Page/桜美林大学.md "wikilink")経済学部経済学科卒業。
+          - 中学時代は[バドミントン](https://ja.wikipedia.org/wiki/バドミントン "wikilink")部、高校時代は[ラグビー](../Page/ラグビー.md "wikilink")部に所属していた。
+      - 趣味：競輪、野球、映画鑑賞
+          - プロ野球は[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")のファン\[7\]。
+      - レギュラー出演番組「[レコメン\!](../Page/レコメン!.md "wikilink")」では「兄貴」と自称している\[8\]。「レコメン\!」の前の時間に放送されている「[オードリーのシャンプーおじさん](https://ja.wikipedia.org/wiki/オードリーのシャンプーおじさん "wikilink")」内では[オードリーの春日も](https://ja.wikipedia.org/wiki/オードリー_\(お笑いコンビ\) "wikilink")「兄貴」を自称しており、「兄貴」の名を賭けて勝負した\[9\]。
+      - 福田が「どん\!（大きな声で）…だけ〜」というギャグを披露した時は、あまりの低クオリティに周りが使用を禁止した。また、益子の「ごめんねごめんね〜！」と対の関係のような**「ぺっぺっ、謝ってっぺ〜！」**というギャグもあり、周囲の反応はきわめて鈍いものの、福田はめげることなくこのギャグをプッシュしている。
+      - 金銭面については厳しく（いわゆる、ケチ）、後輩に奢った金額をどれだけ酔ってもしっかり把握しているなどのことが多い。
+      - 小説『[坂の上の雲](https://ja.wikipedia.org/wiki/坂の上の雲 "wikilink")』の愛読者。
+      - よく[ピースをする](https://ja.wikipedia.org/wiki/ピースサイン "wikilink")。
+      - [スカジャン](../Page/スカジャン.md "wikilink")が好きで、よく着ている\[10\]。
+      - 時代劇が好きで、[藤沢周平](../Page/藤沢周平.md "wikilink")の本が好き\[11\]。
+      - [サンドウィッチマンより](https://ja.wikipedia.org/wiki/サンドウィッチマン_\(お笑いコンビ\) "wikilink")、喪服を着た女性が好きなことを暴露されたことがあり、福田も「[喪服](https://ja.wikipedia.org/wiki/喪服 "wikilink")のほうがセクシーに見えるんです」と認めた\[12\]。
+      - 「[関ジャニ∞のジャニ勉](../Page/関ジャニ∞のジャニ勉.md "wikilink")」（2011年2月2日放送）で益子から「田舎の1時間に一本しかでない電車が来たのにボーッとしてて乗らなかった」、「M-1決勝戦の直前に行方不明になった。見つかったと思ったら2時間寝ていた」などのエピソードを明かされ、「でれすけ」（栃木弁で「バカ」、「いい加減なやつ」の意味）と言われた。それに対し福田は「ネタに入り込んでいた」、「あんまりネタの練習をするとだめになる」と言い、関ジャニ∞のメンバーも賛同していた。
+  - **益子 卓郎**（ましこ たくろう、 - ）
+    [ボケ担当](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")、立ち位置は向かって右。坊主頭でおおむね白のワイシャツを着ている。
+    身長170cm、体重68kg、血液型[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。既婚（2011年6月24日、ブログで5年間交際していた一般女性との結婚を発表。相手は再婚であり、同時に7歳の娘の父親となった）。
+      - 栃木県那須郡[黒羽町](https://ja.wikipedia.org/wiki/黒羽町 "wikilink")（現在の[大田原市](https://ja.wikipedia.org/wiki/大田原市 "wikilink")）出身、黒羽町立両郷中学校 （現在の大田原市立両郷中学校）→ 県立大田原高校 → 桜美林大学経営政策学部ビジネスマネジメント学科卒業。高校時代は山岳部で[登山](../Page/登山.md "wikilink")を体験\[13\]。
+          - [森三中](../Page/森三中.md "wikilink")の[大島美幸](https://ja.wikipedia.org/wiki/大島美幸 "wikilink")は幼稚園、小学校、中学校が同じ[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")み。大島は益子の1学年後輩にあたるが\[14\]、芸歴は大島の方が長い。しかし益子は小中学校の後輩である大島に対し「美幸ちゃん」と呼び、大島は先輩である益子に対し「卓郎さん」と呼ぶ。ただし[森三中](../Page/森三中.md "wikilink")の村上・黒沢に対しては「村上さん」、「黒沢さん」と呼ぶ。
+      - 趣味：演歌、野球
+          - 友達の父が所有していた[レーザーディスク](../Page/レーザーディスク.md "wikilink")がきっかけで[演歌](../Page/演歌.md "wikilink")好きになり、[歌謡コンサートを見ると感動して涙を流す](https://ja.wikipedia.org/wiki/NHK歌謡コンサート "wikilink")。
+          - [お笑い芸人歌がうまい王座決定戦スペシャル](https://ja.wikipedia.org/wiki/お笑い芸人歌がうまい王座決定戦スペシャル "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")）では演歌を歌うことが多い。08/18放送分では準決勝まで残っており、司会の[上田晋也](https://ja.wikipedia.org/wiki/上田晋也 "wikilink")に「お前は今年の紅白のトリを飾れ\!」と絶賛された。
+          - プロ野球では[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")のファン。好きな選手は[真中満](https://ja.wikipedia.org/wiki/真中満 "wikilink")だった。また雑誌の対談で、栃木県出身でヤクルトの[飯原誉士](https://ja.wikipedia.org/wiki/飯原誉士 "wikilink")にサインをもらっている\[15\]。最初は[巨人ファンだったが](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")、『[プロ野球珍プレー・好プレー大賞](https://ja.wikipedia.org/wiki/プロ野球珍プレー・好プレー大賞 "wikilink")』を視てヤクルトの選手の面白さに惹かれ、ヤクルトファンに転向した\[16\]。
+      - 下積み時代から東京都[町田市](../Page/町田市.md "wikilink")に住んでいたが、2008年に[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")の[下北沢](../Page/下北沢.md "wikilink")に移り住んでいる\[17\]。そのことを同期の[響などが](https://ja.wikipedia.org/wiki/響_\(お笑い\) "wikilink")**「最近栃木愛してないんじゃないの?」**とネタにしていた\[18\]。
+      - かなりの[人見知り](https://ja.wikipedia.org/wiki/人見知り "wikilink")で、[アメトーーク\!](https://ja.wikipedia.org/wiki/アメトーーク! "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）の“人見知り芸人”に出演した際に上京したばかりの頃、理容店に行く勇気がなく福田に髪を切ってもらっていたと発言した\[19\]。
+      - 好きな女性のタイプは[眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink")のような賢い系だと発言したことがある。
+      - [ロンドンハーツ](https://ja.wikipedia.org/wiki/ロンドンハーツ "wikilink")（テレビ朝日）の“ドすけべホイホイ”にてホイホイガールの水着をチラ見してしまい、早い段階でゲームオーバーになった。
+      - 『[レコメン\!](../Page/レコメン!.md "wikilink")』にて女性ゲストを前にすると視線を合わせず顔を赤くすることが多い。
+      - 大の猫好きである。
+      - 「ま**し**こ」という苗字を「ま**す**こ」と発音されるなど、名前を間違えられることが多い\[20\]。
+      - [サンドウィッチマンから普段は標準語を話していることを暴露されたことがあり](https://ja.wikipedia.org/wiki/サンドウィッチマン_\(お笑いコンビ\) "wikilink")\[21\]、益子は「たまに実家に帰って家族と会話をして（栃木弁を話せるように）リハビリしています」と認めた。一方で「レコメン\!」で訛り禁止トークの企画を行った際に、番組ホームページで「普段は標準語でしゃべているという噂はウソのよう」とされたことがあった\[22\]。
+      - 2010年7月17日放送の[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[出没\!アド街ック天国](https://ja.wikipedia.org/wiki/出没!アド街ック天国 "wikilink")』で栃木県[益子町](https://ja.wikipedia.org/wiki/益子町 "wikilink")が取り上げられた回にコンビで出演した際に、益子家の先祖はもともと益子町に住んでいて、「黒羽に逃げて来た」と話した。
+      - 「関ジャニ∞のジャニ勉」（2011年2月2日放送）で福田に「ファンの子からもらったプレゼントが『たばこの銘柄も、何もかもが俺の好きなものだ\!』と喜んでいたら、自分で買ったコンビニの袋だった」という天然エピソードを明かされている。
+      - [カエル](../Page/カエル.md "wikilink")が大嫌いで、相方にはカエルでイジるのだけは絶対にやめろと言っている（『街道歩きの旅』で、カエルを持った福田に追いかけられての発言）\[23\]。
+      - 自分で自分を叩く「**卓ちゃんハンマー**」の持ちギャグがあり、これが出来たきっかけは、ネタがすべった時に[林家三平の物真似でごまかすつもりが誤って手が](../Page/林家三平_\(初代\).md "wikilink")[こめかみ](https://ja.wikipedia.org/wiki/こめかみ "wikilink")に当たって、意外と良い音が鳴ったことからだったとのこと\[24\]。
+
+## エピソード
+
+**M-1グランプリについて**
+
+  - 『[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")』では、[2003年](../Page/2003年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")にかけて5年連続準決勝進出。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には初の決勝進出を果たし、5位。翌2009年（ラストイヤー）は準決勝敗退。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の初の決勝進出時には、「全国的には無名だが[とちぎテレビ](../Page/とちぎテレビ.md "wikilink")でレギュラー番組を持つ栃木の人気者」としてとちぎテレビの番組映像と共に紹介される。
+      - レギュラー出演している『[イブニング6](https://ja.wikipedia.org/wiki/イブニング6_\(とちぎテレビ\) "wikilink")』内の「Road to J SC 一枚岩」（2009年1月5日放送）で、「[とちぎテレビ](../Page/とちぎテレビ.md "wikilink")と栃木県を盛り上げてくれた」としてとちぎテレビ社長・齋藤清衛から感謝状と金一封を贈呈された。
+      - 逆に、出演していた[文化放送](../Page/文化放送.md "wikilink")『[レコメン\!](../Page/レコメン!.md "wikilink")』では、5位に終わった罰ゲームとして本籍地を栃木県から文化放送のある[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[浜松町](https://ja.wikipedia.org/wiki/浜松町 "wikilink")に移させられた。
+      - 2年後の2010年10月19日の同番組で「リスナーの評価が高ければ本籍を栃木県に戻せる」という条件で『2時間ノンストップ漫才』に挑戦、見事本籍地を栃木県に戻した（仮に評価が低かった場合は「**ごめん**ねごめんね〜」に因み、本籍を浜松町から[高知県](../Page/高知県.md "wikilink")[南国市](https://ja.wikipedia.org/wiki/南国市 "wikilink")後免（**ごめん**）町に変更させられるところであった）\[25\]。
+  - 結成年数の規定上ラストイヤーとなった翌2009年大会は準決勝で敗退。敗者復活も果たせなかった。これにより再び『レコメン\!』で罰ゲームが行われ、栃木県民に直筆の謝罪ハガキを送る事になったが、番組が往復ハガキでの希望者を募った所1万通を超える応募があった\[26\]。
+  - 2015年にM-1グランプリが復活した際に、再び出場するが3回戦で敗退している\[27\]。
+
+**交友関係について**
+
+  - [サンドウィッチマンとは仲が良く不定期にトークライブ](https://ja.wikipedia.org/wiki/サンドウィッチマン_\(お笑いコンビ\) "wikilink")「R-4」を開催し、福田や益子のブログに登場することもある。『M-1グランプリ2007 DVD』の特典映像では、サンドウィッチマンの自宅で行われた優勝祝賀会にも参加しており、その際2人から「来年はお前らが決勝行けよ」と言われた。翌年初の決勝進出を果たした。
+  - 女優[小田茜](../Page/小田茜.md "wikilink")は栃木県[真岡市](../Page/真岡市.md "wikilink")出身で、学年も同じ。
+  - 芸人の[えずれひろゆき](https://ja.wikipedia.org/wiki/えずれひろゆき "wikilink")とは高校の同期である\[28\]。
+  - 栃木SC所属・元所属の選手達と交流がある。特に元栃木SC所属の[佐藤悠介](https://ja.wikipedia.org/wiki/佐藤悠介 "wikilink")とは度々食事をするなど仲が良い\[29\]。
+
+**ネタ、漫才について**
+
+  - 『[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")』では2回連続オーバー500を記録したことがある。チャンピオン大会は4度出場、うち3回はセミファイナル敗退、セミファイナルがなかった第12回大会ではファーストステージで敗退。
+  - コンビ名「U字工事」の由来は、高校の同級生が教室の黒板に気まぐれで書いた「U字工事」から来ている。それ以前はコンビ名を「牛タンナポリタン」「キャッチホン出る出る」としていたこともあった。その名前について、同級生より**実は工事現場の[U字溝](../Page/U字溝.md "wikilink")の看板からその名が付けられた**という事実が初めて明かされたことがあった\[30\]。
+  - 衣装のスーツは[オーダーメイド](../Page/オーダーメイド.md "wikilink")であり、色は[白](../Page/白.md "wikilink")・[銀](https://ja.wikipedia.org/wiki/銀 "wikilink")・[青](../Page/青.md "wikilink")・[金](../Page/金.md "wikilink")が存在する。[THEE MICHELLE GUN ELEPHANTや](../Page/THEE_MICHELLE_GUN_ELEPHANT.md "wikilink")[DREAMS COME TRUEもオーダーしたことのある洋服店の常連である](../Page/DREAMS_COME_TRUE.md "wikilink")。
+  - 栃木の地方紙・[下野新聞](../Page/下野新聞.md "wikilink")をネタ作りの参考にしている。2009年[1月24日](../Page/1月24日.md "wikilink")放送の[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[バニラ気分](https://ja.wikipedia.org/wiki/バニラ気分 "wikilink")』に出演した際、「栃木の偉人は[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")です」と称して、野球選手のイチローではなく栃木で[イチゴ](../Page/イチゴ.md "wikilink")のビニールハウス栽培を広めた[仁井田一郎](https://ja.wikipedia.org/wiki/仁井田一郎 "wikilink")さんを称える、というネタを見た出演者が「どうやって調べたのか」と訊いたところ、福田が「[下野新聞](../Page/下野新聞.md "wikilink")に載ってるんです」と明かした。
+      - その放送内では[福田富一](https://ja.wikipedia.org/wiki/福田富一 "wikilink")栃木県知事がVTRで出演し、U字工事を「とちぎ応援団」に任命することを発表した。
+
+**その他**
+
+  - 地元では県北部第一の進学校として知られる大田原高校だが、2人が在籍していたのは1999年に閉科した商業科で、2人は[簿記](../Page/簿記.md "wikilink")の資格を取得している。
+  - 2000年夏ごろに放送した『[ガチンコ\!](https://ja.wikipedia.org/wiki/ガチンコ! "wikilink")』内の企画『ガチンコ\!漫才道』の第1回目の放送の塾生候補オーディションに参加したことがある\[31\]。2人は最前列に座り、益子はピンクのタオルを巻いていた。
+  - 『[大竹まこと ゴールデンラジオ\!](../Page/大竹まこと_ゴールデンラジオ!.md "wikilink")』では火曜の「大竹サテライト」のコーナーを担当していたが、2008年7月15日は[山本モナ](https://ja.wikipedia.org/wiki/山本モナ "wikilink")がスキャンダルで出演自粛したためピンチヒッターを務めた。翌週以降もピンチヒッターを務め注目されたが、結局元のコーナーリポーター担当になった。ピンチヒッターを務めた日、最後に読まれた[メール](https://ja.wikipedia.org/wiki/メール "wikilink")、[ファックスには](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")「良かった」との意見もあった。
+  - [浅草キッド](../Page/浅草キッド.md "wikilink")を尊敬しており、憧れて漫才の世界を目指したことが芸能界入りのきっかけ。若手時代から浅草キッドにお世話になっており\[32\]、2009年5月19日放送の『草野☆キッド』の中で浅草キッドに感謝の言葉を述べると、浅草キッドの2人は涙ぐんだ。
+  - 早川食品株式会社と共同開発した『U字工事の北関東No.1ソース』を紹介した時には、福田は、「インターネットでしか売ってないので、買うの面倒くさいなとなって、なかなか買わないみたいです。」と、売れていないことを話したことがある。
+  - 2009年7月26日放送の日本テレビ『[誰だって波瀾爆笑](https://ja.wikipedia.org/wiki/誰だって波瀾爆笑 "wikilink")』にメインゲストとして出演した際、かつて2人でアルバイトをしていた[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[町田市](../Page/町田市.md "wikilink")にある[マグネシウム](https://ja.wikipedia.org/wiki/マグネシウム "wikilink")工場ではいつでも戻って来られるように、今でも2人のタイムカードがそのまま残されているというエピソードが紹介された。\[33\]\[34\]その工場には10年間勤務し、主にパソコンや携帯電話の細かい部品のバリ取りに従事し、面接官も担当したことがある。\[35\]
+    また、その工場のバイトの後輩と飲酒して喧嘩をした際、後輩が「あーじゃあ\!もういいよ\!俺がわりいーよ（悪いよ）\!ごめんねごめんね〜\!」と発言したので、それを舞台で披露してみたらウケたので投げやりに謝るようになった\[36\]。売れてから久々に2人の働いていた町工場を訪ね、工場の仲間と飲みに行き、仲間から認められ、近所の人と触れ合ったのが、最近一番嬉しかったことだという。
+  - 「レコメン\!」ではドッキリ企画などで2人の彼女が何回か出演している。
+  - 益子は「都会といったら杜の都仙台だっぺな\!」「仙台は**東北の[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")**」と言い、宮城県や隣りの埼玉県を尊敬している。更には、個人的に敵対心を持っていると思われていた神奈川県に対しても尊敬しているという事実を明かした。
+
+## 出演
+
+### バラエティ
+
+  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）戦績17勝3敗 最高525KB　ゴールドバトラー認定
+      - 初挑戦から3連敗と出場初期はかなり苦戦していたが、4回目の挑戦(2005年4月23日)で初オンエアを獲得した。初オンエアを獲得してからは負け知らずの17連勝を記録。なお4回目の挑戦で初オンエアを獲得した芸人の中では唯一ゴールドバトラーとなっている。
+      - 通常回では初オンエアを獲得してからはオーバー500を何度も記録するなど高得点を連発。特に2005年度はオンエア4回は全て480KB以上であり、2008年度は4回中3回がオーバー500と絶好調だった。しかし、チャンピオン大会では下記の通り非常に弱く、通常回とは対照的に一度もいい結果を残せなかった。
+      - 第8回チャンピオン大会 セミファイナル9位敗退
+      - 第9回チャンピオン大会 セミファイナル8位敗退
+      - 第11回チャンピオン大会 セミファイナル9位敗退
+      - 第12回チャンピオン大会 ファーストステージ7位敗退
+  - [オンバト+](https://ja.wikipedia.org/wiki/オンバト+ "wikilink")（NHK総合）「オンバト+PREMIUM」に出演
+      - 彼らの地元である栃木大会に出演し、漫才を披露した。
+  - [とちぎ発\!旅好き\!](../Page/とちぎ発!旅好き!.md "wikilink")（2006年4月20日 - 2019年3月28日 、[とちぎテレビ](../Page/とちぎテレビ.md "wikilink")）
+  - [TOCHIGI FIGHTING\!\!SC一枚岩](https://ja.wikipedia.org/wiki/TOCHIGI_FIGHTING!!SC一枚岩 "wikilink")（とちぎテレビ、2009年3月 - 2013年12月）
+      - サッカー・[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")2部に所属する[栃木サッカークラブ](https://ja.wikipedia.org/wiki/栃木サッカークラブ "wikilink")（栃木SC）の応援番組。もとは『[イブニング6](https://ja.wikipedia.org/wiki/イブニング6_\(とちぎテレビ\) "wikilink")』内のコーナー「Road to J SC 一枚岩」であった（同コーナーにも出演）が、J昇格を機に同じ曜日の単独番組となった。
+  - [おもいッきりDON\!](https://ja.wikipedia.org/wiki/おもいッきりDON! "wikilink")（日本テレビ、2009年4月3日 - 2010年3月25日）
+      - 後番組の「DON\!」に引き続き出演。
+  - [DON\!](https://ja.wikipedia.org/wiki/DON! "wikilink")（日本テレビほか、2010年4月1日 - 9月30日）木曜日レギュラー - 冠コーナー「U字工事のニッポン勝手にランキング\!」を担当。
+  - [PON\!](https://ja.wikipedia.org/wiki/PON! "wikilink")（日本テレビ、2010年10月 - 2011年9月）
+      - 月曜日：料理コーナー「いますぐマネシピ 簡単すぎてごめんねごめんね〜」に出演。
+      - [ひるザイル](https://ja.wikipedia.org/wiki/ひるザイル "wikilink")（[日本テレビほか](../Page/日本テレビ放送網.md "wikilink")、2010年4月11日 - 2011年3月27日）福田のみ・ナレーション。
+  - [高校講座 チョー基礎から始めよう\!ベーシック英語](../Page/NHK高校講座.md "wikilink")（2012年4月16日 - 2015年度、NHKEテレ）
+  - [U字工事のShake-Hands\!](https://ja.wikipedia.org/wiki/U字工事のShake-Hands! "wikilink")（とちぎテレビ、2014年7月3日 - 9月25日）
+      - 主なレギュラーコーナー
+          - 「卓郎のキラリ男星」益子のCD「男星」に乗せて、その週のベストプレーヤー/プレーを紹介。
+          - 「ハーイ\!U字工事」[やべっちFC](https://ja.wikipedia.org/wiki/やべっちFC "wikilink")のパロディコーナー。これまでに[セルジオ越後](../Page/セルジオ越後.md "wikilink")、[水沼貴史](../Page/水沼貴史.md "wikilink")らが登場。
+          - 「教えて○○選手」U字工事とゲスト選手のQ\&Aトーク。
+      - この番組のメインプロデューサーである高野さんは、U字工事のネタで使われたことがある。
+      - 飛び入りゲストで[バッファロー吾郎](../Page/バッファロー吾郎.md "wikilink")、[サンドウィッチマンらが登場し](https://ja.wikipedia.org/wiki/サンドウィッチマン_\(お笑いコンビ\) "wikilink")、U字工事との絡みを見せた。またU字工事が休みの日には、[インスタントジョンソン](https://ja.wikipedia.org/wiki/インスタントジョンソン "wikilink")のすぎ。が代役を担当していた。
+  - U字工事の産地直送\!ふれあいマーケット（2014年10月2日 - 12月25日・2015年10月1日 - 、とちぎテレビ）
+  - [U字工事のLet'sかるたビーノ](https://ja.wikipedia.org/wiki/U字工事のLet'sかるたビーノ "wikilink")（2015年7月2日 - 9月25日、とちぎテレビ）
+  - [陸海空 こんな時間に地球征服するなんて](https://ja.wikipedia.org/wiki/陸海空_こんな時間に地球征服するなんて "wikilink")（テレビ朝日、2017年1月29日 - 2019年6月）
+  - 必見\!就活リサーチ（[BS-TBS](../Page/BS-TBS.md "wikilink")）
+  - [U字工事5ミニッツ・パフォーマンス](https://ja.wikipedia.org/wiki/U字工事5ミニッツパフォーマンス "wikilink")（[BSフジ](../Page/BSフジ.md "wikilink")）
+  - [笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")（日本テレビ） - 演芸コーナー。[山梨県立県民文化ホール](../Page/山梨県立県民文化ホール.md "wikilink")での収録の際に演芸コーナーに出演したこともある（1週目の[2009年](../Page/2009年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")放送分）。
+
+<!-- end list -->
+
+  - [いきなり\!黄金伝説。](../Page/いきなり!黄金伝説。.md "wikilink")（テレビ朝日） - 全国の即日完売の行列グルメに並んで味わう企画などでたびたび登場している。初期は[楽しんご](https://ja.wikipedia.org/wiki/楽しんご "wikilink")との共演が多かった。
+  - [雨上がり決死隊のトーク番組アメトーーク\!](https://ja.wikipedia.org/wiki/アメトーーク! "wikilink")（テレビ朝日） - 「男子校芸人」「衣装決まってる芸人」「町工場芸人」などで出演。
+  - [秘密のケンミンSHOW](https://ja.wikipedia.org/wiki/秘密のケンミンSHOW "wikilink")（読売テレビ） - 栃木県民代表としてたびたび出演。
+  - [お試しかっ\!](https://ja.wikipedia.org/wiki/お試しかっ! "wikilink")（テレビ朝日） - 不定期出演だが、2009年以降出演率が高い。
+  - [クイズプレゼンバラエティー Qさま\!\!](https://ja.wikipedia.org/wiki/クイズプレゼンバラエティー_Qさま!! "wikilink")（テレビ朝日） - プレッシャーSTUDYにコンビや単独での出演がある。
+  - [ナニコレ珍百景](https://ja.wikipedia.org/wiki/ナニコレ珍百景 "wikilink")（テレビ朝日）
+      - 2009年9月23日放送では、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")（[井森美幸](https://ja.wikipedia.org/wiki/井森美幸 "wikilink")・[ホリ](https://ja.wikipedia.org/wiki/ホリ_\(タレント\) "wikilink")\[37\]）との珍百景ネタ対決で、2-0で勝利した。しかし同年12月30日は[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")（[森三中](../Page/森三中.md "wikilink")\[38\]）に逆に0-2で敗れた。
+  - [土曜スペシャル](https://ja.wikipedia.org/wiki/土曜スペシャル_\(テレビ東京\) "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）- （[街道歩きの旅](https://ja.wikipedia.org/wiki/街道歩きの旅 "wikilink")や、にっぽん廃線歩き旅などの徒歩での旅の企画を中心に不定期で出演している。）
+  - ザ・穴場ツアー CATVネットワーク（NHKBSプレミアム）
+  - [虎ノ門市場](https://ja.wikipedia.org/wiki/虎ノ門市場 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [オールスター後夜祭](https://ja.wikipedia.org/wiki/オールスター感謝祭#オールスター後夜祭 "wikilink")（2018年10月7日\[39\]、TBS）
+  - [有吉ゼミ](https://ja.wikipedia.org/wiki/有吉ゼミ "wikilink")（日テレ）
+      - ギャル曽根の大食いコーナー
+  - [首都圏ネットワーク](https://ja.wikipedia.org/wiki/首都圏ネットワーク "wikilink")（NHK総合）
+  - [ドライブ A GO\!GO\!](https://ja.wikipedia.org/wiki/ドライブ_A_GO!GO! "wikilink")（テレビ東京、2010年8月1日 - 2016年9月）栃木県を中心に不定期に出演していた。
+  - [志村劇場](https://ja.wikipedia.org/wiki/志村劇場 "wikilink")（フジテレビ）
+  - [ザ・イロモネア](https://ja.wikipedia.org/wiki/ウンナン極限ネタバトル!_ザ・イロモネア_笑わせたら100万円 "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）「ゴールドラッシュ」に出演し、イロモネア出場権獲得。
+  - [新春ゴールデンピンクカーペット](../Page/爆笑ピンクカーペット.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）キャッチコピーは「栃木生まれのなまり漫才」
+  - [爆笑レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")（フジテレビ）キャッチコピーは「栃木生まれのなまり漫才」
+      - 2009年5月2日放送で、レッドカーペット賞を受賞。
+      - 2009年7月11日放送の2時間スペシャル内「コラボカーペット」にて、益子のみ、[山形弁](https://ja.wikipedia.org/wiki/山形弁 "wikilink")漫才の[ロケット団三浦昌朗](https://ja.wikipedia.org/wiki/ロケット団_\(お笑いコンビ\) "wikilink")・[茨城弁](../Page/茨城弁.md "wikilink")[漫談](https://ja.wikipedia.org/wiki/漫談 "wikilink")の赤いプルトニウム（現・[赤プル](https://ja.wikipedia.org/wiki/赤プル "wikilink")）と「赤プル隊」名義で共演。
+  - 人類滅亡と13のコント集（日本テレビ）
+  - [爆笑問題のススメ](../Page/爆笑問題のススメ.md "wikilink")（日本テレビ）
+  - [笑いの金メダル](../Page/笑いの金メダル.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")・[朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）
+  - [お笑いDynamite\!](https://ja.wikipedia.org/wiki/お笑いDynamite! "wikilink")（TBSテレビ）キャッチコピーは「栃木の訛り親善大使」
+  - [虎の門](https://ja.wikipedia.org/wiki/虎の門 "wikilink")（テレビ朝日）
+  - お笑いTV「ニコニコ笑い汁」（[MONDO21](https://ja.wikipedia.org/wiki/MONDO21 "wikilink")）
+  - ごめんくださいヒデさんです\!（[SPEEDチャンネル](https://ja.wikipedia.org/wiki/SPEEDチャンネル "wikilink")）
+  - U字工事の旅！発見（2019年4月4日 - 、[とちぎテレビ](../Page/とちぎテレビ.md "wikilink")）
+
+### テレビドラマ
+
+  - [ドラマスペシャル サザエさん2](https://ja.wikipedia.org/wiki/サザエさん_\(観月ありさ\) "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2010年8月8日）
+  - [金曜ロードSHOW\!](https://ja.wikipedia.org/wiki/金曜ロードショー "wikilink")・[チープ・フライト](https://ja.wikipedia.org/wiki/チープ・フライト "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、2013年3月1日）福田のみ
+
+### ラジオ
+
+  - ビートニクラジオ（[エフエム東京](../Page/エフエム東京.md "wikilink")）
+  - [吉田照美のやる気MANMAN\!](../Page/吉田照美のやる気MANMAN!.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")、2006年8月9日）休暇の[吉田照美](https://ja.wikipedia.org/wiki/吉田照美 "wikilink")に代わってメインパーソナリティを務める
+  - [U字工事のレコメン\!](../Page/レコメン!.md "wikilink")（文化放送、2007年5月8日）普段メインパーソナリティを務めている[K太郎とともにパーソナリティを務め](https://ja.wikipedia.org/wiki/砂山圭大郎 "wikilink")、ジングルも「U字工事のレコメン\!」と流れた
+  - U字工事の[オールナイトニッポンR](https://ja.wikipedia.org/wiki/オールナイトニッポンR "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")、不定期）
+  - [大竹まこと ゴールデンラジオ\!](../Page/大竹まこと_ゴールデンラジオ!.md "wikilink")（文化放送、2007年10月2日 - 2010年3月30日）「とれたけ大竹タブロイド」→「大竹サテライト」レポーター
+  - [レコメン\!](../Page/レコメン!.md "wikilink")（文化放送、火曜日レギュラー、2007年4月 - 2011年3月29日）
+  - U字工事の早起きラジオ\!?（文化放送、2011年4月8日 - 9月30日）
+  - U字工事の早くこいこい日曜日。（文化放送、2011年10月9日 - ）
+
+### CM
+
+  - [吉野家](../Page/吉野家.md "wikilink")（2007年3月 - 4月）
+  - ナイスサービス（2008年）
+  - [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")知事選挙PR（2008年11月）
+  - [ナイキ](../Page/ナイキ.md "wikilink")NIKE FREE（全裸ランニングキャンプ-日本限定版）（2009年5月）プロモーション動画
+  - [セガ](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")「[ぷよぷよ7](https://ja.wikipedia.org/wiki/ぷよぷよ#ぷよぷよ7 "wikilink")」（2009年7月）
+  - 大塚チルド食品「ミルクのようにやさしいダイズ」（2010年）
+  - [足利銀行](../Page/足利銀行.md "wikilink")（2011年）
+  - セガ[Jリーグ プロサッカークラブをつくろう\!7 EURO PLUS](https://ja.wikipedia.org/wiki/プロサッカークラブをつくろう! "wikilink")（2011年、ゲームオリジナルの栃木チームのサポーター役として、ゲーム内キャラクターとしても登場。）
+  - お宝車検.com（2011年8月 - ）
+  - JA全農とちぎ（2016年 - ）
+  - [茨城空港](https://ja.wikipedia.org/wiki/茨城空港 "wikilink")ラジオCM（2014年 - ）
+
+### ライブ
+
+  - 「宇田川ロケット」（アミーパーク主催ライブ）
+  - 「漫才バカ一代」（[三平×2](https://ja.wikipedia.org/wiki/三平×2 "wikilink")とサンキュー・タツオの主催ライブ）
+  - 「タイタンライブ」（[タイタン主催ライブ](https://ja.wikipedia.org/wiki/タイタン_\(芸能プロダクション\) "wikilink")）
+  - 「東京ビタミン寄席」（[サンミュージック企画](https://ja.wikipedia.org/wiki/サンミュージック企画 "wikilink")プロジェクトGET主催ライブ）
+  - 「浅草お兄さん会」（[浅草キッド](../Page/浅草キッド.md "wikilink")主催ライブ）
+  - 「お笑いジャンバラヤ」（桂芸能社主催ライブ）
+  - 「花形演芸会」（国立演芸場主催ライブ）その他。
+  - 「〜北関東ナンバーワン〜」（自身初の単独ライブシアターモリエール）
+
+## 関連商品
+
+### CD
+
+  - 『男星』（通信販売限定） - 益子のソロ・シングル
+
+<!-- end list -->
+
+  -
+    PVには福田も出演している。
+
+<!-- end list -->
+
+  - 『ビギン・ザ・ギンザ』 2018年6月27日発売のシングル
+
+### DVD
+
+  - 『東京ビタミン寄席 Vol.2』（[サンミュージック](https://ja.wikipedia.org/wiki/サンミュージック "wikilink")企画プロジェクトGET）
+  - 『東京ビタミン寄席 Vol.4』（サンミュージック企画プロジェクトGET）
+  - 『この先 U字工事』（[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")）
+  - 『U字工事/北関東ナンバーワン\!』（CCRE）
+  - 『U字工事/U字工事のお土産（お試し版）』（CCRE）
+  - 『U字工事 5ミニッツ・パフォーマンス ごめんねごめんね{{～}}』 ([ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink"))\[40\]
+  - 『U字工事/北関東オンリーーワン\!』（[アミューズソフトエンタテインメント](https://ja.wikipedia.org/wiki/アミューズソフトエンタテインメント "wikilink")）
+
+### 本
+
+  - 『レッツゴー\!栃木 U字工事の熱血お国自慢』（[ランダムハウス講談社](https://ja.wikipedia.org/wiki/ランダムハウス講談社 "wikilink")）
+
+### 調味料
+
+  - 『U字工事の北関東No.1ソース』（早川食品株式会社）
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 外部リンク
+
+  - [デューズ公式プロフィール](http://www.dudes.jp/talent/ujikoji/)
+  - [U字工事 福田薫オフィシャルブログ「忘れっからメモッちゃーわっ\!」](https://ameblo.jp/ujikojifukuda/)
+  - [U字工事 益子卓郎オフィシャルブログ「大好き栃木」](https://ameblo.jp/ujikoujimashiko/)
+
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:アミー・パーク](https://ja.wikipedia.org/wiki/Category:アミー・パーク "wikilink") [Category:栃木県出身の人物](https://ja.wikipedia.org/wiki/Category:栃木県出身の人物 "wikilink") [Category:1978年生](https://ja.wikipedia.org/wiki/Category:1978年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:桜美林大学出身の人物](https://ja.wikipedia.org/wiki/Category:桜美林大学出身の人物 "wikilink")
+
+1.
+2.  [第48回漫才大会 チケット販売開始](http://www.manzaikyokai.org/man-nichi/news/20170901-1/) - 一般社団法人 漫才協会
+3.
+4.
+5.
+6.
+7.  拝啓 広島東洋カープ様（[ザメディアジョン](https://ja.wikipedia.org/wiki/ザメディアジョン "wikilink")プレス 2017年6月）p.50
+8.
+9.
+10.
+11.
+12.
+13.
+14. 自身の著書「レッツゴー\!栃木 U字工事の熱血お国自慢」（[ランダムハウス講談社](https://ja.wikipedia.org/wiki/ランダムハウス講談社 "wikilink")）より
+15. [公式ブログ 2010年7月24日](http://ameblo.jp/ujikoujimashiko/entry-10600041055.html)2015年11月7日閲覧
+16. 拝啓 広島東洋カープ様（[ザメディアジョン](https://ja.wikipedia.org/wiki/ザメディアジョン "wikilink")プレス 2017年6月）p.55
+17.
+18. 2009年12月5日放送 [爆笑レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")にて
+19. [アメトーーク\! DVD Vol.10](http://www.tv-asahi.co.jp/ametalk/dvd_new/archives/)収録
+20. 公式ブログでもこの事を発言している。2010年7月7日
+21.
+22.
+23.
+24.
+25.
+26. 」謝罪はがき1万通 M－1優勝できず罰ゲーム |newspaper=まんたんウェブ |date=2010-01-13 |url=<http://mantan-web.jp/2010/01/13/20100112mog00m200051000c.html> |accessdate=2011-02-15}}
+27. M-1グランプリ 公式サイト|url=[https://www.m-1gp.com/combi/2773.html|website=|accessdate=2019-04-09|publisher=](https://www.m-1gp.com/combi/2773.html%7Cwebsite=%7Caccessdate=2019-04-09%7Cpublisher=)}}
+28.
+29. 佐藤悠介著『感謝 そして旅立ちへ 栃木最高！』([随想舎](https://ja.wikipedia.org/wiki/随想舎 "wikilink")）より
+30.
+31.
+32.
+33. [「誰だって波瀾爆笑」2009年7月26日（日）放送内容](http://kakaku.com/tv/channel=4/programID=13466/episodeID=253221/)価格.com 2015年11月7日閲覧
+34. [スターアルバイト烈伝★U字工事（前編）](http://www.baitoru.com/contents/star2/104/)バイトル 2015年11月7日閲覧
+35. [メトロガイド就職特集](http://www.metroguide.jp/syusyokuguide/interview01.html)2015年11月7日閲覧
+36. 自身の著書「レッツゴー\!栃木」より
+37. ホリは千葉県出身だが、井森と同じホリプロの後輩と言うことで群馬県代表として出演
+38. 茨城出身は黒沢のみ。村上は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身、大島に至っては栃木出身のため裏切りとなってしまった。
+39.
+40. <http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200900002742&DSP_SKHKETSEQ=001>

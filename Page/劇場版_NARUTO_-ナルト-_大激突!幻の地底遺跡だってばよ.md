@@ -1,0 +1,128 @@
+> この記事は[ NARUTO -- !](https://ja.wikipedia.org/wiki/_NARUTO_--_!)から翻訳されています。
+
+
+『**劇場版 NARUTO -ナルト- 大激突\!幻の地底遺跡だってばよ**』（げきじょうばん ナルト だいげきとつ\!まぼろしのちていいせきだってばよ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月6日](../Page/8月6日.md "wikilink")に公開された漫画『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト- "wikilink")』を原作とした[テレビアニメの劇場版第](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")2作目。本作のゲスト声優として[河相我聞](https://ja.wikipedia.org/wiki/河相我聞 "wikilink")が出演した。
+
+## ストーリー
+
+ナルト、シカマル、サクラは、任務中に謎の男・テムジンと出会い、交戦。ナルトとテムジンは崖から転落してしまう。目覚めると二人はあるキャラバンにいた。テムジンは**ゲレルの石の鉱脈**を探しているという。テムジンはナルトを仲間にいれようとして連れて帰り、ハイドに会わせる。
+
+一方、風の国が謎の軍団に襲われるとの情報が火の国に入る。ナルトが着いたときには撃退されたあとであったが、多くの被害がでていた。敵の残骸を調べているときにナルトはテムジンとその仲間に出会う。ナルトは怒り、我愛羅、カンクロウ達と供に交戦するもテムジンは逃げていった。
+
+そのころシカマルたちは別の襲われた残骸を調べ、戻ってきたテムジンを捕獲する。キャラバンで話を聞くが逃げられてしまう。追っていき遺跡の中で、ナルト達はハイド達との決戦に挑む。
+
+## 登場人物
+
+### メインキャラクター
+
+  - **[うずまきナルト](https://ja.wikipedia.org/wiki/うずまきナルト "wikilink")**（声 - [竹内順子](https://ja.wikipedia.org/wiki/竹内順子 "wikilink")）
+  - **[春野サクラ](https://ja.wikipedia.org/wiki/春野サクラ "wikilink")**（声 - [中村千絵](https://ja.wikipedia.org/wiki/中村千絵 "wikilink")）
+  - **[奈良シカマル](https://ja.wikipedia.org/wiki/奈良シカマル "wikilink")**（声 - [森久保祥太郎](../Page/森久保祥太郎.md "wikilink")）
+  - **[我愛羅](https://ja.wikipedia.org/wiki/我愛羅 "wikilink")**（声 - [石田彰](../Page/石田彰.md "wikilink")）
+  - **[カンクロウ](https://ja.wikipedia.org/wiki/カンクロウ "wikilink")**（声 - [加瀬康之](https://ja.wikipedia.org/wiki/加瀬康之 "wikilink")）
+
+以上の人物についてはリンク先のページを参照。
+
+### オリジナルキャラクター
+
+#### ハイドとその部下
+
+テムジンを除く4人の名前と個性（ハイドの二面性・フガイの狼化・カミラの蝙蝠化・ランケの雷）には元ネタになった怪物（モンスター）がいる（『[ジキル博士とハイド氏](https://ja.wikipedia.org/wiki/ジキル博士とハイド氏 "wikilink")』・『[カーミラ](../Page/カーミラ.md "wikilink")』・『[フランケンシュタイン](../Page/フランケンシュタイン.md "wikilink")』などのヨーロッパの古典文学に登場するモンスターや、同じくヨーロッパの伝説上の怪物で様々なフィクション作品で取り上げられている[人狼など](../Page/狼男.md "wikilink")）。
+
+  - ハイド
+    声 - [野島昭生](../Page/野島昭生.md "wikilink")
+    理想郷をつくるために大勢の犠牲者を出すが、実はテムジンの村を攻撃した張本人。普段は温厚な老紳士だが、戦うときは二重人格のごとく凶悪な表情の鬼人になる。右手につけたゲレルの石によって鉱脈からエネルギーを吸収して驚異的な回復能力を発揮したが、ゲレルの石を破壊された直後に心臓に螺旋丸を受けて敗れる。
+  - テムジン
+    声 - [河相我聞](https://ja.wikipedia.org/wiki/河相我聞 "wikilink")、[加藤優子](https://ja.wikipedia.org/wiki/加藤有生子 "wikilink")（幼少時代）
+    「ゲレルの結晶石」を持つ剣士で、この映画でカギを握る人物。また、ゲレルの石を持っているときと持っていないときで眼の色が違う（持っているとき：赤色の眼・持っていないとき：青っぽい緑色の眼）。ハイドの理想郷つくりに協力していたが、ハイドが故郷の村を襲撃した張本人だと知ったときは完全にナルトたちの味方になった。
+  - フガイ
+    声 - [高乃麗](https://ja.wikipedia.org/wiki/高乃麗 "wikilink")
+    [人狼に近い姿に変身し](../Page/狼男.md "wikilink")、口から衝撃波を放ち、サクラを追い詰めるが、彼女の機転により自滅する。また、機械の扱いにも強い。
+  - カミラ
+    声 - [小島幸子](https://ja.wikipedia.org/wiki/小島幸子 "wikilink")
+    敵の視界の色を変えて、逆さの状態で首を絞め上げる幻術使いで、[蝙蝠](https://ja.wikipedia.org/wiki/蝙蝠 "wikilink")に近い姿に変身するが、シカマルの機転とカンクロウの「黒秘技危機二発」による連携によって倒される。
+  - ランケ
+    声 - [桑島法子](../Page/桑島法子.md "wikilink")
+    （忍術ではない）雷を操り、[ゴリラ](../Page/ゴリラ.md "wikilink")に近い姿に変身し、我愛羅と互角に戦うが、「砂雷針」でエネルギーを吸いつくされ、身動きが出来ないところを「砂漠大葬」によって倒される。
+
+#### その他
+
+  - テムジンの幼なじみ
+    声 - [本田貴子](https://ja.wikipedia.org/wiki/本田貴子 "wikilink")
+  - 砂の忍
+    声 - [志村知幸](https://ja.wikipedia.org/wiki/志村知幸 "wikilink")、[宮島史年](../Page/宮島史年.md "wikilink")、[吉野貴宏](../Page/吉野貴宏.md "wikilink")、[加藤将之](https://ja.wikipedia.org/wiki/加藤将之 "wikilink")、[酒井敬幸](../Page/酒井敬幸.md "wikilink")
+  - エミナ
+    声 - [黒川智花](https://ja.wikipedia.org/wiki/黒川智花 "wikilink")
+    キャラバンに住む少女。テムジンの看病にあたる。
+  - カヒコ
+    声 - [野沢那智](../Page/野沢那智.md "wikilink")
+    キャラバンに住む老人。木の葉隠れの里にペット（ネルグイ）を連れ戻す任務を出す。
+  - ネルグイ
+    カヒコ達のキャラバンのペットの[フェレット](../Page/フェレット.md "wikilink")。「ゲレルの石」のかけらを持っている。人の言葉が理解できるようである。キャラバンの王国があった時代から生きている。
+
+## オリジナル技
+
+以下の術は雷遁系の術のようだが、印を組まずにチャクラ以外のエネルギーを使用している（可能性が高い）ため、正式な忍術とは言いにくい。
+
+  - 魔導昇雷撃（ライジングサンダー）
+    【テムジン】剣に雷光を纏わせて相手を斬りつける。電光だけでダメージを与えることも可能。威力はナルトの螺旋丸と互角。
+  - 雷光衝破突（サンダーサーブル）
+    【ランケ】拳に電光を纏わせパンチをする。その威力は我愛羅の砂の盾を簡単に突き破り、更に我愛羅を吹き飛ばしダメージを与えるほどである。
+  - 旋風雷光撃（トルネードライトニング）
+    【ランケ】両手の間に電撃を発生させ、手から電撃の鞭を放出してそれを操り攻撃する。コントロールが効くが、威力は我愛羅の砂の盾で防げるほどである。
+  - 荷電障壁殻（プラズマボール）
+    【ランケ】全身に雷光を纏わせて肉体を肥大化させパワーアップする。我愛羅の砂漠送葬にも耐え、さらに砂の盾も簡単に破壊するほどパワーを持ち、なおかつスピードもアップしている。
+
+## スタッフ
+
+  - 監督 - [川崎博嗣](https://ja.wikipedia.org/wiki/川崎博嗣 "wikilink")
+  - 脚本 - 川崎博嗣、宮田由佳
+  - キャラクターデザイン - [西尾鉄也](https://ja.wikipedia.org/wiki/西尾鉄也 "wikilink")
+  - メカニックデザイン - 末武康光
+  - コンセプトデザイン - 遠藤正明、伊藤秀次
+  - 絵コンテ - 川崎博嗣、佐々木守、福山新市、新井浩一
+  - 作画監督 - 西尾鉄也、外丸達也
+  - 美術監督 - 松岡聡、小関睦夫
+  - 色彩設計 - [西香代子](../Page/西香代子.md "wikilink")
+  - 撮影監督 - 松本敦穂
+  - 編集 - 及川雪江、森田清次
+  - 音楽 - [増田俊郎](../Page/増田俊郎_\(作曲家\).md "wikilink")&[六三四プロジェクト](../Page/六三四Musashi.md "wikilink")
+  - 録音演出 - 神尾千春
+  - 音響演出 - [えびなやすのり](../Page/蝦名恭範.md "wikilink")
+  - プロデューサー - 小林教子、押切万耀
+  - アニメーション制作 - [studioぴえろ](../Page/ぴえろ.md "wikilink")
+  - 製作 - 劇場版NARUTO製作委員会（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[集英社](../Page/集英社.md "wikilink")、ぴえろ、[東宝](../Page/東宝.md "wikilink")、[アニプレックス](../Page/アニプレックス.md "wikilink")、[電通](../Page/電通.md "wikilink")、[バンダイ](../Page/バンダイ.md "wikilink")）
+
+## 主題歌
+
+  - [TUBE](../Page/TUBE.md "wikilink")「[Ding\! Dong\! Dang\!](https://ja.wikipedia.org/wiki/Ding!_Dong!_Dang! "wikilink")」
+      - 作詞 - [前田亘輝](../Page/前田亘輝.md "wikilink")
+      - 作曲 - [春畑道哉](https://ja.wikipedia.org/wiki/春畑道哉 "wikilink")
+
+<!-- end list -->
+
+  -
+    NARUTOの主題歌で唯一起用された[ビーイング](../Page/ビーイング.md "wikilink")系の楽曲である。
+
+## 映像ソフト化
+
+  - 本編のDVDは2006年4月28日発売。
+
+## 脚注
+
+<references/>
+
+## 関連項目
+
+  - [NARUTO -ナルト-（アニメ第一部）](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")
+  - [劇場版 NARUTO -ナルト- 大活劇\!雪姫忍法帖だってばよ\!\!](https://ja.wikipedia.org/wiki/劇場版_NARUTO_-ナルト-_大活劇!雪姫忍法帖だってばよ!! "wikilink")
+  - [劇場版 NARUTO -ナルト- 大興奮\!みかづき島のアニマル騒動だってばよ](../Page/劇場版_NARUTO_-ナルト-_大興奮!みかづき島のアニマル騒動だってばよ.md "wikilink")
+  - [鬼神伝（映画版）](https://ja.wikipedia.org/wiki/鬼神伝#映画版 "wikilink")
+
+## 外部リンク
+
+  -
+
+[de:Naruto (Manga)\#Kinofilme](https://ja.wikipedia.org/wiki/de:Naruto_\(Manga\)#Kinofilme "wikilink")
+
+[Category:劇場版_NARUTO_-ナルト-](https://ja.wikipedia.org/wiki/Category:劇場版_NARUTO_-ナルト- "wikilink") [Category:2005年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2005年のアニメ映画 "wikilink") [Category:ジャンプ_ジェイ_ブックス](https://ja.wikipedia.org/wiki/Category:ジャンプ_ジェイ_ブックス "wikilink")

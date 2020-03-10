@@ -1,0 +1,41 @@
+> この記事は[MECE](https://ja.wikipedia.org/wiki/MECE)から翻訳されています。
+
+
+**MECE**（ミーシー (Mee-cee)\[1\];  ([頭字語](../Page/頭字語.md "wikilink"))）とは、「相互に排他的な項目」による「完全な全体集合」を意味する言葉である\[2\]。要するに「**漏れなく・ダブりなく**」という意味である\[3\]\[4\]。[経営学](../Page/経営学.md "wikilink")、経営[コンサルティング](https://ja.wikipedia.org/wiki/コンサルティング "wikilink")などの領域でよく使われる言葉である\[5\]。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の戦略系コンサルティング会社[マッキンゼー・アンド・カンパニー](https://ja.wikipedia.org/wiki/マッキンゼー・アンド・カンパニー "wikilink")に所属していた[バーバラ・ミント](https://ja.wikipedia.org/wiki/バーバラ・ミント "wikilink")によって開発された概念であり、[ロジカルシンキング](https://ja.wikipedia.org/wiki/ロジカルシンキング "wikilink") (論理的思考) の一手法として用いられている\[6\]。
+
+## MECEとなる例、ならない例
+
+人間という集合を例にとると、「年齢」による分類は、ある人が同時に20歳と21歳になることは不可能（重複なし）であり、全ての人がX歳という集団に属する（漏れなし）ため、MECEとなる。一方、「職業」による分類は、兼業を行う人間（重複）もいれば無職の人間（漏れ、ただし職業として「無職」という項目を設けるとすれば、漏れはなくなる）もいるためMECEとならない。「男性/女性」など一見MECEに見える分類も[両性具有](https://ja.wikipedia.org/wiki/両性具有 "wikilink")など例外があるためにMECEとならない場合があるので注意が必要である。
+
+## MECEの用途
+
+プロジェクトに関連する要素の抜き出しや、[WBSの策定](https://ja.wikipedia.org/wiki/Work_Breakdown_Structure "wikilink")、商品の企画や、各種調査項目・対象の選定など、網羅性が求められる（要因・アイデアを漏れなく挙げつくしたい）場面でMECEの考え方が使用される。
+
+例えば新商品を企画する場合、商品という全体集合を「機能」や「販売価格帯」などの切り口でMECEになるように細分化し、競合商品のない分野の商品開発を優先するといった使用方法がある。 MECEになっているかどうか確認しながら[演繹](../Page/演繹.md "wikilink")的に分類を行っていくことで、勘やひらめきによる分類よりも網羅性が高まり、思わぬ新商品スポットが発見されることもある。
+
+モノ作り企業では、高品質・低価格な商品を作るために 次の切り口でアイデアをMECEに（漏れなく）出すと良い。
+
+  - 商品に必要な**「機能」** — 商品に必要な品質（有益機能） or あっては困る不都合な特性（有害機能）— を漏れなく挙げる。
+  - 工程を 原材料 - 製造 - 加工 - 輸送 - 販売 - 使用 - 廃棄 というように**「時間」**的に漏れなく挙げる。
+  - 製品故障をなくして生産性を上げるために、発生箇所・原因箇所を**「空間」**的に漏れなく挙げる。
+  - 故障を安く撲滅するために、対策案を**「科学」**的に（重力・電気力・磁気力、固体・液体・気体）漏れなく挙げる。
+
+[ビジネススクール](https://ja.wikipedia.org/wiki/ビジネススクール "wikilink")では、事業の位置付けや市場の広がりといった項目を考えるにあたって有用な、MECEとなる分析軸を紹介することがある。 分析軸の例として、[マーケティング](../Page/マーケティング.md "wikilink")の4P (Product・Price・Promotion・Place) がある。[コンサルタント会社では](https://ja.wikipedia.org/wiki/コンサルティング "wikilink")、自社独自の分析軸を社有財産として扱い、競争力の源とみなすことがある。
+
+## 脚注
+
+## 関連項目
+
+  - [USIT](../Page/USIT.md "wikilink")（多く・漏れなくアイデアを出せる、論理的＆創造的な 問題解決・発明思考法）
+  - [集合](../Page/集合.md "wikilink") - [集合の分割](https://ja.wikipedia.org/wiki/集合の分割 "wikilink")
+  - [分類](https://ja.wikipedia.org/wiki/分類 "wikilink")
+  - [マッキンゼー・アンド・カンパニー](https://ja.wikipedia.org/wiki/マッキンゼー・アンド・カンパニー "wikilink")
+
+[Category:批判的思考](https://ja.wikipedia.org/wiki/Category:批判的思考 "wikilink") [Category:経営学](https://ja.wikipedia.org/wiki/Category:経営学 "wikilink") [Category:アクロニム](https://ja.wikipedia.org/wiki/Category:アクロニム "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.

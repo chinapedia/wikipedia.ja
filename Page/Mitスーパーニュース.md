@@ -1,0 +1,254 @@
+> この記事は[Mit](https://ja.wikipedia.org/wiki/Mit)から翻訳されています。
+
+
+『**mitスーパーニュース**』（ミット スーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*mit Super NEWS*）は、[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")で夕方に放送されていた[岩手県](../Page/岩手県.md "wikilink")向け[ローカルワイド](https://ja.wikipedia.org/wiki/ローカルワイド番組 "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。全国ネット番組『[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")』を交えて放送した。
+
+## 概要
+
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")に「[mitザ・ヒューマン](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")」の後継番組としてスタート。
+
+<!-- end list -->
+
+  - その日一日のトピックスや、身近な話題を中心に構成し、硬い特集は少ない。行楽情報や岩手県内の釣り情報\[1\]など、ニュース番組の範疇をあえて逸脱したコーナーで支持を集める。
+
+<!-- end list -->
+
+  - 2011年に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")以後は震災報道に力を入れており、被災地からの情報を伝えるコーナーを複数常設している。また、ローカルスポーツコーナー「Mスポ」を月曜日に設けている。
+
+<!-- end list -->
+
+  - 『スーパーニュース』の17時台は放送せず、アニメやドラマ再放送などを編成していたが、東日本大震災報道に伴い、それ以降放送時間を拡大して放送。通常放送に戻った4月4日から5月27日までの間、暫定措置で17時台を放送。2012年4月2日からは正式に17時台のネットを開始した。\[2\]
+
+## 放送時間
+
+<table>
+<thead>
+<tr class="header">
+<th><p>期間</p></th>
+<th><p>放送時間（<a href="../Page/日本標準時.md" title="wikilink">JST</a>）</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>月曜日 - 金曜日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1998.3.30</p></td>
+<td><p>2000.4.2</p></td>
+</tr>
+<tr class="odd">
+<td><p>2000.4.3</p></td>
+<td><p>2001.4.1</p></td>
+</tr>
+<tr class="even">
+<td><p>2001.4.2</p></td>
+<td><p>2003.3.30</p></td>
+</tr>
+<tr class="odd">
+<td><p>2003.3.31</p></td>
+<td><p>2011.3.10</p></td>
+</tr>
+<tr class="even">
+<td><p>2011.4.4</p></td>
+<td><p>2011.5.29</p></td>
+</tr>
+<tr class="odd">
+<td><p>2011.5.30</p></td>
+<td><p>2012.4.1</p></td>
+</tr>
+<tr class="even">
+<td><p>2012.4.2</p></td>
+<td><p>2012.9.30</p></td>
+</tr>
+<tr class="odd">
+<td><p>2012.10.1</p></td>
+<td><p>2015.3.29</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - 備考
+
+<!-- end list -->
+
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月30日まで、土曜日・日曜日も「mitスーパーニュース」として放送し、タイトルロゴも他局と違い、平日版と同じオレンジをベースとしたものになっていた。
+  - 平日は17:53.50 - 17:54.05 までめんこいテレビのスタジオからキャスターがその日の注目ニュースを紹介し全国ニュースへ。
+  - 週末版のEPG上のタイトルはフジテレビと同じ｢FNNスーパーニュース｣と表示される。ただし、ローカル枠の項目クレジットは｢mit Super NEWS｣と表示される。
+
+## 日替わりコーナー
+
+2013年10月現在
+
+  - 月曜：Mスポ（県内のスポーツをさまざまな角度から特集する）
+  - 火曜：キラリ☆SUN陸（復興へ進む三陸の風物を紹介する）
+  - 水曜：特集（旬な話題を詳しく解説する）
+  - 木曜：響け\!復興の槌音（被災地からの情報を定期発信する）
+  - 金曜：いわてケンミンFILE（岩手県縁の"人"を紹介する）、うちのアイドル（我が家のかわいいペットを紹介する）
+
+### 過去の日替わりコーナー
+
+  - 金曜：見ごろ食べごろ遊びごろ（週末のお楽しみをめんこいアナが体当たりで紹介する）（－2013年9月）
+
+## タイムテーブル
+
+### 平日版
+
+2013年10月現在
+
+| 第1部『mitスーパーニュース』        |
+| ----------------------- |
+| 時刻                      |
+| 16:52.30                |
+| 16:52.45                |
+|                         |
+|                         |
+|                         |
+| 第2部『**mitスーパーニュースFNN**』 |
+| 時刻                      |
+| 17:54.00                |
+| 18:15.00                |
+|                         |
+| 18:30頃                  |
+| 18:35頃                  |
+| 18:40.00                |
+| 18:51.15                |
+| 18:55.25                |
+
+### 週末版
+
+  - 全国枠のタイムテーブルの詳細については、**「[FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")」**を参照せよ。
+
+| 『FNNスーパーニュースWEEKEND』 |
+| -------------------- |
+| 時刻                   |
+| 17:30.00             |
+|                      |
+|                      |
+| 17:47.05             |
+| 17:47.10             |
+| 17:48.40             |
+| 17:52.50             |
+| 17:54.20             |
+| 17:56.50             |
+| 17:57.00             |
+
+## キャスター
+
+### 現在
+
+  - 平日版
+    メインキャスター
+
+<!-- end list -->
+
+  - [伊藤健太](https://ja.wikipedia.org/wiki/伊藤健太_\(アナウンサー\) "wikilink")（2014年4月－）（月～金曜）
+
+<!-- end list -->
+
+  -
+    2014年4月－6月は木・金曜キャスター
+
+<!-- end list -->
+
+  - [米澤かおり](https://ja.wikipedia.org/wiki/米澤かおり "wikilink")（2013年10月－）（月～金曜）
+
+<!-- end list -->
+
+  -
+    2013年10月－12月は木・金曜キャスター
+
+<!-- end list -->
+
+  - 天気キャスター
+
+<!-- end list -->
+
+  - 月・火曜：[飛田紗里](https://ja.wikipedia.org/wiki/飛田紗里 "wikilink")
+  - 水～金曜：[吉田裕美](https://ja.wikipedia.org/wiki/吉田裕美 "wikilink")（気象予報士）
+
+　※2014年09月29日から吉田裕美が産休のため番組を一時降板、飛田紗里が月～金曜担当となる。
+
+  - 週末版
+
+<!-- end list -->
+
+  - 局内のアナウンサーで日変わり\[3\]
+
+### 過去
+
+  - [落合昭彦](../Page/落合昭彦.md "wikilink")（1998年 - [2003年](../Page/2003年.md "wikilink")、現・[えふえむ花巻](https://ja.wikipedia.org/wiki/えふえむ花巻 "wikilink")放送局長）
+  - [石川佳子](https://ja.wikipedia.org/wiki/石川佳子 "wikilink")（1998年 - [2001年](../Page/2001年.md "wikilink")）
+  - [横山義則](https://ja.wikipedia.org/wiki/横山義則 "wikilink")（1998年 - [2000年](../Page/2000年.md "wikilink")、現・[東北放送](../Page/東北放送.md "wikilink")解説委員）
+  - [熊谷麻衣子](https://ja.wikipedia.org/wiki/熊谷麻衣子 "wikilink")（1998年 - 2000年、現・[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")）
+  - [常世晶子](../Page/常世晶子.md "wikilink")（お天気担当。現・フリーアナウンサー）
+
+※以上4名は、前身「mitザ・ヒューマン」からそのまま続投。
+
+  - [伊藤里紗](https://ja.wikipedia.org/wiki/伊藤里紗 "wikilink")（土曜・日曜担当）
+  - [春山恵理](../Page/春山恵理.md "wikilink")（2005年6月 - 2006年3月。千葉絢子が産休の間代理でキャスターを担当）
+  - [物袋綾子](https://ja.wikipedia.org/wiki/物袋綾子 "wikilink")（2003年 - 2005年。現・[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")アナウンサー）
+  - [川原弓奈](https://ja.wikipedia.org/wiki/川原弓奈 "wikilink")（2006年。天気予報担当。現・フリーアナウンサー）
+  - [古川興二](https://ja.wikipedia.org/wiki/古川興二 "wikilink")（現・[静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")アナウンサー）
+  - [佐藤雪江](https://ja.wikipedia.org/wiki/佐藤雪江 "wikilink")（現・フリーアナウンサー）
+  - [千葉絢子](https://ja.wikipedia.org/wiki/千葉絢子 "wikilink")（月～金曜キャスター。2001年9月1日 - 2010年3月25日。2005年6月 - 2006年3月までは産休のため一時降板）
+  - [玉井新平](https://ja.wikipedia.org/wiki/玉井新平 "wikilink")（金曜キャスター。2009年4月 - 2010年3月26日。現・[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")アナウンサー）
+  - [高橋裕二](https://ja.wikipedia.org/wiki/高橋裕二 "wikilink")（月～金曜キャスター。2003年 - 2011年）
+  - [坂口奈央](https://ja.wikipedia.org/wiki/坂口奈央 "wikilink")
+  - [増田優香子](https://ja.wikipedia.org/wiki/増田優香子 "wikilink")
+  - [千田剛裕](https://ja.wikipedia.org/wiki/千田剛裕 "wikilink")
+  - [野牛あかね](https://ja.wikipedia.org/wiki/野牛あかね "wikilink")（月～金曜キャスター（2013年10月－12月は月～水曜キャスター）。2010年3月末－2013年12月）
+  - [工藤淳之介](https://ja.wikipedia.org/wiki/工藤淳之介 "wikilink")（月～金曜キャスター（2014年4月－6月は月～水曜キャスター）。－2014年6月）
+
+## 歴史
+
+  - 1998年3月30日 - 全国番組が「FNNスーパーニュース」となることに伴い、「[mitザ・ヒューマン](https://ja.wikipedia.org/wiki/mitザ・ヒューマン "wikilink")」の後継番組としてスタート。スタジオセットは一部改装したものを使用。また前番組からの流れで、月曜 - 水曜は落合昭彦・熊谷麻衣子、木曜と金曜は横山義則・石川佳子がキャスターを担当。
+  - 2000年4月3日 - 母体の「スーパーニュース」全面リニューアルに伴ってタイトルロゴを変更。同時に、平日全曜日を通して落合昭彦・石川佳子が出演することに。
+  - 2001年4月2日 - セットをリニューアル。当初は[副調整室](../Page/副調整室.md "wikilink")を背景としたが、しばらくして背景の見えないセットに改装（2004年、背景の造作を作り替え）。
+  - 2001年9月1日 - 石川佳子に代わって千葉絢子がキャスターに。
+  - 2003年 - 体調を崩し、落合昭彦キャスターが降板（のちにアナウンサーから編成部副部長へ異動）。高橋裕二を新たに起用し、千葉絢子とコンビを組む（双方とも岩手出身）。
+  - 2005年4月1日 - セットを青を基調としたものにリニューアル。退社と同時に降板した天気予報担当の[物袋綾子](https://ja.wikipedia.org/wiki/物袋綾子 "wikilink")に代わり、同時期に入社した川原弓奈が天気予報担当に起用。他、「岩手食王国」、「スーパーリポート」などのコーナーがスタート。
+  - 2005年[6月1日](../Page/6月1日.md "wikilink") - 千葉絢子が産休の為、番組を一時降板。代わりに春山恵理をキャスターに起用。
+  - 2006年[3月27日](../Page/3月27日.md "wikilink") - 千葉絢子が産休から復帰。再び千葉・高橋体制に戻る。
+  - 2006年[9月25日](../Page/9月25日.md "wikilink") - 番組内で一番長く5年間放送された「きょうのお弁当」のコーナーが終了。
+  - 2008年3月31日 - セットを現在のハイビジョンに対応したパステルカラーを基調としたものにリニューアルし、今までより高さ･奥行き・横幅を拡大した。
+  - 2008年4月1日 - [ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")開始。
+  - [2009年](../Page/2009年.md "wikilink")4月3日 - 金曜日のキャスターに坂口奈央・玉井新平を起用（月曜 - 木曜は今まで通り千葉・高橋体制）。
+  - 2010年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - 千葉絢子が第二子妊娠のため降板。
+  - 2010年[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") - 金曜サブキャスターの玉井新平が降板。\[4\]
+  - 2010年[3月29日](../Page/3月29日.md "wikilink") - サブキャスターとして野牛あかね（月曜 - 木曜）、工藤淳之介（金曜）\[5\]、天気コーナーに気象予報士の吉田裕美を起用。
+  - 2011年[3月28日](../Page/3月28日.md "wikilink") - 木曜 - 金曜に千田剛裕を起用。
+
+## mit歴代の夕方ニュース
+
+  - 1991年4月1日開局 - 1997年3月30日『[mitスーパータイム](https://ja.wikipedia.org/wiki/mitスーパータイム "wikilink")』
+  - 1997年3月31日 - 1998年3月29日『[mitザ・ヒューマン](https://ja.wikipedia.org/wiki/mitザ・ヒューマン "wikilink")』
+  - 1998年3月30日 - 2015年3月29日『mitスーパーニュース』
+  - 2015年3月30日 - 2018年4月1日『[mit みんなのニュース](https://ja.wikipedia.org/wiki/mit_みんなのニュース "wikilink")』
+  - 2018年4月2日 - 『[mitプライムニュース](https://ja.wikipedia.org/wiki/mitプライムニュース "wikilink")』
+
+## 関連項目
+
+  - [FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")
+  - [FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")
+  - [mitニュース](https://ja.wikipedia.org/wiki/mitニュース "wikilink")
+
+## 脚注
+
+<references />
+
+## 外部リンク
+
+  - [mitスーパーニュース](http://www.menkoi-tv.co.jp/supernews/)
+
+[Category:岩手めんこいテレビの番組](https://ja.wikipedia.org/wiki/Category:岩手めんこいテレビの番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:FNNスーパーニュース](https://ja.wikipedia.org/wiki/Category:FNNスーパーニュース "wikilink")
+
+1.  震災発生後は休止中。
+2.  これに伴い、アニメ番組は1時間繰り上げて放送。
+3.  平日版キャスターが担当することもある。
+4.  「[あなろぐ an@log](../Page/あなろぐ_an@log.md "wikilink")」担当のため。
+5.  高橋裕二降板（理由不詳）のため、2011年2月から月曜 - 木曜担当。

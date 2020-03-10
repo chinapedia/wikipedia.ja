@@ -1,0 +1,132 @@
+> この記事は[Over Time-](https://ja.wikipedia.org/wiki/Over_Time-)から翻訳されています。
+
+
+『**Over Time-オーバー・タイム**』は、[1999年](../Page/1999年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")から[3月22日](../Page/3月22日.md "wikilink")まで毎週月曜日21:00 - 21:54\[1\]に、[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[月9](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[反町隆史](https://ja.wikipedia.org/wiki/反町隆史 "wikilink")と[江角マキコ](https://ja.wikipedia.org/wiki/江角マキコ "wikilink")。
+
+## 概要
+
+本作は、当時すでに『[GTO](../Page/GTO_\(1998年のテレビドラマ\).md "wikilink")』『[ショムニ](https://ja.wikipedia.org/wiki/ショムニ_\(テレビドラマ\) "wikilink")』というヒット作でそれぞれ連続ドラマ単独主演を果たしていた[反町隆史](https://ja.wikipedia.org/wiki/反町隆史 "wikilink")と[江角マキコ](https://ja.wikipedia.org/wiki/江角マキコ "wikilink")の両者を主演に据えたラブストーリーである。二人の共演は『GTO』の第11話以来である。また、CMで人気急上昇中であった[田中麗奈](https://ja.wikipedia.org/wiki/田中麗奈 "wikilink")は本作が連続ドラマ初出演。なお、オーバー・タイムとは作中に登場するバーの名前であるが、延長戦の意味もあることから、「人生の延長戦」という本作のテーマも表現している。出産と育児のため脚本執筆を休業していたヒットメーカー・北川悦吏子の復帰作である。
+
+1999年6月17日に全4巻でVHS化後、DVD化が実現していなかったが、2010年8月18日にDVD-BOXが発売された。
+
+## ストーリー
+
+全然男に縁のない美容師の笠原夏樹（江角マキコ）は、春子（西田尚美）、冬美（石田ゆり子）という友人と、女3人で寂しくも楽しい共同生活をしている。彼女たちが北海道にスキー旅行に行った際に、夏樹はカメラマンの楓宗一郎（反町隆史）と知り合う。お互い気まずい思いをしただけで別れた2人であったが、東京に戻った夏樹たちの家に、ミスを犯して東京本社の閑職に左遷された宗一郎がころがりこんでくる。宗一郎は春子の弟だったのだ。お互いを恋愛対象とは考えていなかった夏樹と宗一郎だが、北海道での宗一郎のミスの原因となった女子大生・なずな（木村佳乃）の上京、夏樹のかつての片想いの相手である医師・龍彦（椎名桔平）との再会を経て、2人の関係は思わぬ方向に転がっていく。
+
+恋と友情のはざまで揺れ動く男女の心情を描いたラブストーリー。
+
+## キャスト
+
+  - 楓宗一郎 - [反町隆史](https://ja.wikipedia.org/wiki/反町隆史 "wikilink")
+  - 笠原夏樹 - [江角マキコ](https://ja.wikipedia.org/wiki/江角マキコ "wikilink")
+  - 倉田なずな - [木村佳乃](https://ja.wikipedia.org/wiki/木村佳乃 "wikilink")
+  - 遠藤和也 - [加藤晴彦](https://ja.wikipedia.org/wiki/加藤晴彦 "wikilink")
+  - 楓春子 - [西田尚美](https://ja.wikipedia.org/wiki/西田尚美 "wikilink")
+  - 小林裕貴 - [伊藤英明](../Page/伊藤英明.md "wikilink")
+  - 真鍋響 - [星野有香](https://ja.wikipedia.org/wiki/星野有香 "wikilink")
+  - 神谷利奈 - [田中麗奈](https://ja.wikipedia.org/wiki/田中麗奈 "wikilink")
+  - 城山豊 - [羽場裕一](../Page/羽場裕一.md "wikilink")
+  - 鶴町冬美 - [石田ゆり子](../Page/石田ゆり子.md "wikilink")
+  - 久我龍彦 - [椎名桔平](../Page/椎名桔平.md "wikilink")
+
+## スタッフ
+
+  - 制作
+      - 脚本 - 北川悦吏子
+      - 音楽 - 武部聡志
+      - 演出 - [武内英樹](https://ja.wikipedia.org/wiki/武内英樹 "wikilink")／[永山耕三](https://ja.wikipedia.org/wiki/永山耕三 "wikilink")／[羽住英一郎](https://ja.wikipedia.org/wiki/羽住英一郎 "wikilink")
+      - 主題歌 - [the brilliant green](https://ja.wikipedia.org/wiki/the_brilliant_green "wikilink")「[そのスピードで](../Page/そのスピードで.md "wikilink")」
+      - 挿入歌
+          - [山口由子](https://ja.wikipedia.org/wiki/山口由子 "wikilink")「[believe](https://ja.wikipedia.org/wiki/believe_\(山口由子の曲\) "wikilink")」
+          - the brilliant green「[長いため息のように](../Page/長いため息のように.md "wikilink")」
+      - 使用曲
+          - 山口由子「Sunday Morning Lovers」
+          - [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")「[楓](https://ja.wikipedia.org/wiki/楓/スピカ "wikilink")」
+      - 協力プロデュース - 東海林秀文
+      - 企画 - 亀山千広
+      - 編成 - [石原隆](../Page/石原隆.md "wikilink")
+      - 広報 - 石田卓子
+      - スチール - 青木操生
+      - CG - [ケネックジャパン](https://ja.wikipedia.org/wiki/ケネックジャパン "wikilink")
+      - タイトル - 山形憲一
+      - エキストラ - 牛草雅仁
+      - 車輌 - 後藤浩明／吉田庸／石島雄二／都丸幸典／川畑徳郎
+      - 特機 - 滝本敬介
+      - 演出補 - 羽住英一郎／刑部俊哉／[七高剛](https://ja.wikipedia.org/wiki/七高剛 "wikilink")／高木健太郎／[成田岳](https://ja.wikipedia.org/wiki/成田岳 "wikilink")／北原ゆき
+      - スケジュール - 三篠広樹
+      - 制作担当 - 中山裕隆
+      - 制作主任 - 西島豊／福島昭二郎／吉田知弘
+      - 制作デスク - 小笠原幸恵／石毛富美子
+      - 記録 - 内田照代／渡辺美恵／馬場徳子
+      - プロデュース - [高井一郎](https://ja.wikipedia.org/wiki/高井一郎 "wikilink")
+      - プロデューサー補 - 斉藤あや／泉孝枝
+      - 制作 - フジテレビ第一制作部
+  - 技術
+      - 技術プロデュース - 佐々木俊幸／石井勝浩
+      - TD - 木村祐一郎
+      - 撮影 - 川越一成／竹山有紀子／玉木政成／大石弘宣／岡田博文／船橋正成
+      - CA - 篠田忠史／宇佐見佳人／檜山賢一郎／浜田麻里／廿楽知美
+      - 照明 - 米田俊一／山口崇／清喜博二／草刈幸正／田中健一／佐々木薫
+      - 音声 - 小池利幸／渡部満裕／古館勢市／錦織将彦
+      - 映像 - 鈴木康公
+      - VTR - 安藤直哉
+      - 空撮カメラ - 二見健二
+      - 空撮VE - 皆川慶助
+      - 編集 - 落合英之
+      - ライン編集 - 大方泉／人見文野
+      - MA - 亀山貴之
+      - 選曲・音響効果 - 大貫悦男／土井隆昌
+      - 技術デスク - 松下真史
+      - スタジオ担当 - 中村彰
+  - 美術
+      - 美術プロデュース - 重松照英
+      - デザイン - 棈木陽次
+      - 美術進行 - 森田誠之
+      - 大道具 - 今田太一／和泉吉幸
+      - 大道具製作 - 比留間正幸
+      - 建具 - 船岡英明
+      - 装飾 - 橋本裕之／福田健太郎／木下堅善／佐藤純／根本直樹
+      - 持道具 - 清家正文
+      - 衣装 - 高津勝仁／岡田恵／中村忍
+      - スタイリスト - 白山春久／堀井香苗／西ゆり子／関けい子
+      - メイク - 塩幡万里子／佐藤宏恵
+      - 視覚効果 - 中溝将彦
+      - 電飾 - 井野岡利保／新井俊亘
+      - アクリル装飾 - 村山敏春
+      - 生花装飾 - 相原るみ子
+      - 植木装飾 - 原利安
+
+## 受賞歴
+
+  - 第20回[ザテレビジョンドラマアカデミー賞](https://ja.wikipedia.org/wiki/ザテレビジョンドラマアカデミー賞 "wikilink")
+      - **助演女優賞**（石田ゆり子）
+      - **新人俳優賞**（田中麗奈）
+
+## 放送日程
+
+| 各話                                                                                                                                    | 放送日        | サブタイトル   | 演出                            | 視聴率                            |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- | ----------------------------- | ------------------------------ |
+| 第1話                                                                                                                                   | 1999年1月4日  | （なし）     | 武内英樹                          | 20.4%                          |
+| 第2話                                                                                                                                   | 1999年1月11日 | 恋する二人    | <span style="color:red">21.9% |                                |
+| 第3話                                                                                                                                   | 1999年1月18日 | 秘密のデート   | 永山耕三                          | 21.8%                          |
+| 第4話                                                                                                                                   | 1999年1月25日 | 大人のキス    | 21.6%                         |                                |
+| 第5話                                                                                                                                   | 1999年2月1日  | キスの温度    | 武内英樹                          | 18.6%                          |
+| 第6話                                                                                                                                   | 1999年2月8日  | 許せない関係   | 21.0%                         |                                |
+| 第7話                                                                                                                                   | 1999年2月15日 | ずっと淋しかった | 永山耕三                          | 20.2%                          |
+| 第8話                                                                                                                                   | 1999年2月22日 | 急接近      | 羽住英一郎                         | 20.0%                          |
+| 第9話                                                                                                                                   | 1999年3月1日  | まちがい     | 永山耕三                          | <span style="color:blue">18.1% |
+| 第10話                                                                                                                                  | 1999年3月8日  | 寝てしまった…  | 武内英樹                          | 19.3%                          |
+| 第11話                                                                                                                                  | 1999年3月15日 | 最後の告白    | 永山耕三                          | 20.7%                          |
+| 最終話                                                                                                                                   | 1999年3月22日 | 予期せぬ結末   | 武内英樹                          | 18.8%                          |
+| 平均視聴率 20.1%（視聴率は[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")社調べ） |            |          |                               |                                |
+
+## 脚注
+
+## 外部リンク
+
+  - [Over Time-オーバー・タイム - フジテレビ番組基本情報](http://www.fujitv.co.jp/b_hp/overtime/)
+  - [Over Time-オーバー・タイム - フジテレビオンデマンド](http://fod.fujitv.co.jp/s/genre/drama/ser4276/)
+
+[Category:1999年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1999年のテレビドラマ "wikilink") [Category:フジテレビ月曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜9時枠の連続ドラマ "wikilink") [Category:北川悦吏子脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:北川悦吏子脚本のテレビドラマ "wikilink") [Category:恋愛ドラマ](https://ja.wikipedia.org/wiki/Category:恋愛ドラマ "wikilink") [Category:美容師を題材とした作品](https://ja.wikipedia.org/wiki/Category:美容師を題材とした作品 "wikilink") [Category:ホームドラマ](https://ja.wikipedia.org/wiki/Category:ホームドラマ "wikilink")
+
+1.  最終回は30分拡大（21:00 - 22:24）。

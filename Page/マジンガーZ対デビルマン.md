@@ -1,0 +1,173 @@
+> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+
+
+<div class="pathnavbox">
+
+</div class="pathnabox">
+
+『**マジンガーZ対デビルマン**』（英文:*Mazinger VS Devilman*）は、[1973年](../Page/1973年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")に[東映まんがまつり](https://ja.wikipedia.org/wiki/東映まんがまつり "wikilink")の一編として公開された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")。
+
+[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**大空に激突するぼくらの人気者**」「**映画だけでみられる\!\! ドクターヘル機械獣軍団とデーモン族妖獣の総出撃**」。
+
+## 概要
+
+共に[永井豪](../Page/永井豪.md "wikilink")が原作を担当したテレビアニメ、『[マジンガーZ](../Page/マジンガーZ.md "wikilink")』と『[デビルマン](https://ja.wikipedia.org/wiki/デビルマン "wikilink")』の[クロスオーバー作品](https://ja.wikipedia.org/wiki/クロスオーバー作品 "wikilink")。世界観については『マジンガーZ』がベースとなっており、そこに本作公開時点では放映終了していた『デビルマン』のデビルマンらがゲスト出演する形となっている。『マジンガーZ』の劇場オリジナル作品としては本作が初であると同時に、今日では定番となっているテレビアニメの劇場公開用オリジナル作品の先駆けでもある。
+
+本作以前のヒーローものでのクロスオーバーは、『[帰ってきたウルトラマン](../Page/帰ってきたウルトラマン.md "wikilink")』における[ウルトラマン](../Page/ウルトラマン.md "wikilink")・[ウルトラセブンの登場や](https://ja.wikipedia.org/wiki/ウルトラセブン_\(キャラクター\) "wikilink")『[仮面ライダーV3](../Page/仮面ライダーV3.md "wikilink")』での[仮面ライダー1号](../Page/本郷猛.md "wikilink")・[2号の登場といったシリーズ内での登場や](https://ja.wikipedia.org/wiki/一文字隼人 "wikilink")、『[キングコング対ゴジラ](https://ja.wikipedia.org/wiki/キングコング対ゴジラ "wikilink")』（怪獣対怪獣）のような同ジャンルでの共演などがほとんどであったが、本作では巨大ロボットと変身ヒーローという異色の組み合わせとなっている。以下のロボットアニメ（『マジンガーZ』や『ゲッターロボ』など）は[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")で統一されているが、本作の『デビルマン』だけが[NET系列の作品であり](https://ja.wikipedia.org/wiki/テレビ朝日系列 "wikilink")、実現は難しいと思われていた。しかし、『デビルマン』のテレビ放送が終了済みであったことや原作者の希望でNET系側からの認可も降り、実現することになった。
+
+本作のもう1つの見どころとして、テレビ版に先駆けてのジェットスクランダーの登場が挙げられる。以降の劇場版マジンガーシリーズでは、テレビ版を先取りした展開が恒例となる。本作に登場するジェットスクランダーは尾翼のマークが「Z」であるなどテレビ版とデザインが異なり、翼のポジションもマニュアル操作（テレビ版はオートマチック方式）である。『デビルマン』側においてもシレーヌのデザイン設定がテレビ版と異なるほか、デビルマン・[不動明](https://ja.wikipedia.org/wiki/不動明 "wikilink")の設定もテレビ版より原作に近いものになっており、魔将軍ザンニンが「悪魔の秘密を知り、悪魔の能力を得た不動明、いやデビルマン」と発言するほか、シレーヌが光子力研究所を襲撃する際の台詞も原作のものを引用しており、明も「デーモン・ハンター」を自称している。
+
+企画には、双方のテレビ作品をプロデュースした[有賀健](../Page/有賀健.md "wikilink")のほか、『マジンガーZ』の第2話・第6話・第13話を演出した勝田稔男が企画部に配属されて初のプロデュースを担当した。勝田は本作の後も同じく永井作品『[キューティーハニー](https://ja.wikipedia.org/wiki/キューティーハニー "wikilink")』で初のテレビ作品プロデュースを経て、永井のロボットアニメ『[ゲッターロボ](../Page/ゲッターロボ.md "wikilink")』・『[ゲッターロボG](https://ja.wikipedia.org/wiki/ゲッターロボG "wikilink")』・『[UFOロボ グレンダイザー](https://ja.wikipedia.org/wiki/UFOロボ_グレンダイザー "wikilink")』をプロデュースし、『マジンガーZ』の横山賢二と双璧をなす東映動画ロボットアニメのプロデューサーとなる。
+
+なお、タイトルでは「対」となっているが、作中には兜甲児と不動明による主人公同士のバイクレースが描かれるのみで、マジンガーZとデビルマンの対決は描かれていない。しかし、本作以降は実際に対決しない内容であってもタイトルに「対」もしくは「VS」と付けられるクロスオーバー作品が、多々登場するようになった。
+
+予告編完成前に公開された「特報」（双方ともナレーターは[野田圭一](https://ja.wikipedia.org/wiki/野田圭一 "wikilink")が担当した）では、映画では登場しなかった機械獣と妖獣が登場するほか、パイルダーを操縦している甲児がゴーグルを降ろしていないNG版が存在する。マジンガーZが機械獣にブレストファイヤーを浴びせる場面や、デビルマンが妖獣に膝蹴り・チョップ・デビルビームを浴びせる場面は、双方の[オープニングアニメーション](https://ja.wikipedia.org/wiki/オープニングアニメーション "wikilink")から流用している。また、「特報」のBGMでは、本編では使用されなかったテレビ版オープニングテーマ「マジンガーZ」の[インストルメンタルを使用している](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。
+
+## キャスト
+
+### 光子力研究所
+
+  - [兜甲児](https://ja.wikipedia.org/wiki/兜甲児 "wikilink")：[石丸博也](https://ja.wikipedia.org/wiki/石丸博也 "wikilink")
+  - 弓教授：[八奈見乗児](../Page/八奈見乗児.md "wikilink")
+  - 弓さやか：[松島みのり](../Page/松島みのり.md "wikilink")
+  - ボス：[大竹宏](../Page/大竹宏.md "wikilink")
+  - ヌケ：[富田耕生](../Page/富田耕生.md "wikilink")
+  - ムチャ：[田の中勇](../Page/田の中勇.md "wikilink")
+  - 兜シロー：[沢田和子](https://ja.wikipedia.org/wiki/沢田和猫 "wikilink")
+
+### デビルマンと仲間たち
+
+  - [デビルマン／不動明](https://ja.wikipedia.org/wiki/不動明 "wikilink")：[田中亮一](https://ja.wikipedia.org/wiki/田中亮一 "wikilink")
+  - アルフォンヌ：[永井一郎](../Page/永井一郎.md "wikilink")
+  - ポチ：[八奈見乗児](../Page/八奈見乗児.md "wikilink")
+
+### 機械獣軍団
+
+  - ドクターヘル：[富田耕生](../Page/富田耕生.md "wikilink")
+  - あしゅら男爵：[柴田秀勝](https://ja.wikipedia.org/wiki/柴田秀勝 "wikilink")、[北浜晴子](https://ja.wikipedia.org/wiki/北浜晴子 "wikilink")
+  - 鉄仮面：[矢田耕司](https://ja.wikipedia.org/wiki/矢田耕司 "wikilink")
+
+### 妖獣軍団
+
+  - 魔将軍ザンニン：[小林清志](https://ja.wikipedia.org/wiki/小林清志 "wikilink")
+  - [妖獣シレーヌ](https://ja.wikipedia.org/wiki/シレーヌ_\(デビルマン\) "wikilink")：[里見京子](https://ja.wikipedia.org/wiki/里見京子 "wikilink")
+  - 妖獣ブゴ：[青木笑児](https://ja.wikipedia.org/wiki/青木笑児 "wikilink")
+
+なお、新規に妖獣ブゴ以外に妖獣シュラバの登場予定があり、永井のラフ画が存在する。しかしシナリオ決定時には登場は無くなっていた。
+
+## 登場メカ
+
+  - 飛行要塞ナバローン
+      - 飛行要塞グールに先立って建造された機械獣輸送用の飛行母艦。地獄島の大地を割って登場した。グールと異なりずんぐりとした機体形状で、コクピットに乗れるのは操縦士2名のみ。コクピット部分は分離して飛行可能。ミサイル発射管8機、ビーム砲2門、暴風発生装置、熱線砲1門を持ち武装ではグールよりも強力だが機動性能が劣り、マジンガーZに後方に回り込まれるとなす術も無く撃破された。
+
+### 機械獣
+
+  - 対マジンガーZ
+      - ザウルスF1
+      - ブラッガーS1
+      - デモンガーJ5
+      - バルバドスF7
+      - バイアンS2
+      - ゴーストアームV10
+      - トロスD7
+      - ブリマスW5
+      - スクラルドB7
+      - マグダスJ3
+      - バリアスB5
+      - マンテスK9
+      - ヘッドホークM3
+
+<!-- end list -->
+
+  - 対デビルマン
+      - エルキネスK2
+      - ダンキマスC2
+
+機械獣の案はほとんど[石川賢がラフを起こし](https://ja.wikipedia.org/wiki/石川賢_\(漫画家\) "wikilink")、角田紘一がアレンジを行った。
+
+## 製作・スタッフ
+
+  - 製作：[登石雋一](https://ja.wikipedia.org/wiki/登石雋一 "wikilink")、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[マジンガーZ](../Page/マジンガーZ.md "wikilink")）\[1\]、[NETテレビ](../Page/テレビ朝日.md "wikilink")\[2\]（[デビルマン](https://ja.wikipedia.org/wiki/デビルマン "wikilink")）、[東映](../Page/東映.md "wikilink")
+  - 製作担当：茂呂清一
+  - 企画：[有賀健](../Page/有賀健.md "wikilink")、勝田稔男
+  - 原作：[永井豪](../Page/永井豪.md "wikilink")とダイナミックプロ
+  - 脚本：[高久進](../Page/高久進.md "wikilink")
+  - 音楽：[渡辺宙明](../Page/渡辺宙明.md "wikilink")（[マジンガーZ](../Page/マジンガーZ.md "wikilink")）、[三沢郷](../Page/三沢郷.md "wikilink")（[デビルマン](https://ja.wikipedia.org/wiki/デビルマン "wikilink")）
+  - 原画：[奥山玲子](https://ja.wikipedia.org/wiki/奥山玲子 "wikilink")、金山通弘、小田克也、木野達児、菊池貞雄、窪詔之、[小松原一男](../Page/小松原一男.md "wikilink")、[白土武](../Page/白土武.md "wikilink")、中村一夫
+  - 動画：森英樹、小林敏明、小川明弘、坂野隆雄、薄田嘉信、服部照夫、阿部隆、長沼寿美子、山田みよ
+  - 背景：勝又激、赤保谷アイ子、勝俣希公美子、柿沼雅人、福田和矢、佐野光成
+  - 演出助手：遠藤勇二
+  - 製作進行：吉岡修
+  - トレース：入江三帆子、黒沢和子
+  - 彩色：矢部和子、宮城邦子
+  - セログラフ：小鯨正豊、森田博
+  - 特殊効果：浜桂太郎、佐藤章二
+  - 撮影：平尾三喜、目黒宏
+  - 編集：古村均
+  - 録音：神原広巳
+  - 選曲：宮下滋
+  - 効果：畑英彦
+  - 記録：大橋千加子
+  - 録音スタジオ：[タバック](../Page/タバック.md "wikilink")
+  - 現像：[東映化学](https://ja.wikipedia.org/wiki/東映化学 "wikilink")
+  - 美術監督：[浦田又治](https://ja.wikipedia.org/wiki/浦田又治 "wikilink")
+  - 作画監督：[角田紘一](https://ja.wikipedia.org/wiki/角田紘一 "wikilink")
+  - 演出：[勝間田具治](../Page/勝間田具治.md "wikilink")
+
+## 主題歌・挿入歌
+
+### 主題歌
+
+  - 「空飛ぶマジンガーZ」
+    作詞：高久進／作曲・編曲：渡辺宙明／歌：[水木一郎](../Page/水木一郎.md "wikilink")、[コロムビアゆりかご会](https://ja.wikipedia.org/wiki/音羽ゆりかご会 "wikilink")
+    エンディングに使用。スタッフや声優クレジットはこの場面に集約された。
+    TVサイズとはイントロやアレンジ、編集が異なる劇場サイズが本作のために作られた。
+
+### 挿入歌
+
+  - 「Zのテーマ」
+    作詞：[小池一雄](https://ja.wikipedia.org/wiki/小池一雄 "wikilink")／作曲・編曲：渡辺宙明／歌：水木一郎
+    冒頭、マジンガーZの出撃場面で流される曲。
+  - 「デビルマンのうた」
+    作詞：[阿久悠](https://ja.wikipedia.org/wiki/阿久悠 "wikilink")／作曲・編曲：三沢郷／歌：[十田敬三](../Page/十田敬三.md "wikilink")、[ボーカル・ショップ](../Page/ボーカル・ショップ.md "wikilink")
+    後半、明がデビルマンに変身して出撃する場面で流される。
+  - 「マジンガーわがマシン」
+    作詞：江口隆彦／作曲・編曲：渡辺宙明／歌：水木一郎
+    後半の機械獣軍団との決戦場面で流される。
+
+## 映像ソフト
+
+  - 1985年3月21日に[東映ビデオ](../Page/東映ビデオ.md "wikilink")から『**劇場版マジンガーシリーズ 1**』として『[グレートマジンガー対ゲッターロボ](https://ja.wikipedia.org/wiki/グレートマジンガー対ゲッターロボ "wikilink")』とカップリングで[VHS](../Page/VHS.md "wikilink")にて発売された。
+  - 1991年12月21日に東映ビデオからレーザーディスクにて劇場版マジンガーシリーズ第1弾として単巻発売される。
+  - 2002年5月21日に東映ビデオから『マジンガーZ対デビルマン』から『[グレンダイザー ゲッターロボG グレートマジンガー 決戦\! 大海獣](../Page/グレンダイザー_ゲッターロボG_グレートマジンガー_決戦!_大海獣.md "wikilink")』までを一括収録したDVD-BOX『**マジンガー the MOVIE 永井豪スーパーロボットBOX**』が発売された\[3\]。
+  - 2003年5月21日に同じく東映ビデオから『[マジンガーZ対暗黒大将軍](https://ja.wikipedia.org/wiki/マジンガーZ対暗黒大将軍 "wikilink")』とのセットで収録されたDVD『**マジンガー the MOVIE 1**』が発売された。
+  - 2011年10月21日発売の『**復刻\!東映まんがまつり1973夏**』に収録される。
+  - 2012年10月21日発売のブルーレイ『**マジンガー THE MOVIE　Blu-ray 1973〜1976**』に収録。(新たに疑似5.1ch化した音声を併録。)
+  - 2013年12月6日発売のブルーレイ『**マジンガー THE MOVIE　vol.1**』に『[マジンガーZ対暗黒大将軍](https://ja.wikipedia.org/wiki/マジンガーZ対暗黒大将軍 "wikilink")』『[グレートマジンガー対ゲッターロボ](https://ja.wikipedia.org/wiki/グレートマジンガー対ゲッターロボ "wikilink")』と併せて収録。(これは『**マジンガー THE MOVIE　Blu-ray 1973〜1976**』のBOXからDISC1を単巻でプライスダウン発売したもの\[4\]。)
+
+## 同時上映作品
+
+| 作品名                                                                           | 原作                                                                                                                                                                                                                       | （声の）出演                                                                                                                                   | 備考    |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [仮面ライダーV3対デストロン怪人](https://ja.wikipedia.org/wiki/仮面ライダーV3対デストロン怪人 "wikilink") | [石森章太郎](../Page/石ノ森章太郎.md "wikilink")                                                                                                                                                                                    | [宮内洋](../Page/宮内洋.md "wikilink")、[藤岡弘](../Page/藤岡弘、.md "wikilink")、[佐々木剛](../Page/佐々木剛.md "wikilink")、[小林昭二](../Page/小林昭二.md "wikilink") | 劇場用新作 |
+| [ロボット刑事](https://ja.wikipedia.org/wiki/ロボット刑事 "wikilink")                     | [仲村秀生](https://ja.wikipedia.org/wiki/仲村秀生 "wikilink")、[千葉治郎](https://ja.wikipedia.org/wiki/矢吹二朗 "wikilink")、[高品格](../Page/高品格.md "wikilink")、[野田圭一](https://ja.wikipedia.org/wiki/野田圭一 "wikilink")                       | 第1 - 13話のブローアップ総集編                                                                                                                       |       |
+| [キカイダー01](../Page/キカイダー01.md "wikilink")                                      | [池田駿介](../Page/池田駿介.md "wikilink")、[隅田和世](../Page/隅田和世.md "wikilink")、[久里みのる](https://ja.wikipedia.org/wiki/久里みのる "wikilink")、[飯塚昭三](https://ja.wikipedia.org/wiki/飯塚昭三 "wikilink")                                      | 第1話のブローアップ版                                                                                                                              |       |
+| [バビル2世 赤ちゃんは超能力者](../Page/バビル2世.md "wikilink")                                | [横山光輝](../Page/横山光輝.md "wikilink")                                                                                                                                                                                       | [神谷明](../Page/神谷明.md "wikilink")、野田圭一、[大塚周夫](../Page/大塚周夫.md "wikilink")                                                                 |       |
+| [魔法使いサリー](../Page/魔法使いサリー.md "wikilink")                                      | [平井道子](https://ja.wikipedia.org/wiki/平井道子 "wikilink")、[千々松幸子](https://ja.wikipedia.org/wiki/千々松幸子 "wikilink")、[白石冬美](../Page/白石冬美.md "wikilink")、[加藤みどり](../Page/加藤みどり.md "wikilink")、[山口奈々](../Page/山口奈々.md "wikilink") |                                                                                                                                          |       |
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [デビルマン対ゲッターロボ](https://ja.wikipedia.org/wiki/デビルマン対ゲッターロボ "wikilink") - 永井豪の漫画作品。雑誌掲載時、本作の前日談とされていた。
+
+[Category:アニメ作品_ま](https://ja.wikipedia.org/wiki/Category:アニメ作品_ま "wikilink") [Category:マジンガーのアニメ](https://ja.wikipedia.org/wiki/Category:マジンガーのアニメ "wikilink") [Category:デビルマン](https://ja.wikipedia.org/wiki/Category:デビルマン "wikilink") [Category:1973年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1973年のアニメ映画 "wikilink") [Category:ロボットアニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ロボットアニメのクロスオーバー作品 "wikilink") [Category:テレビ朝日系アニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:テレビ朝日系アニメのクロスオーバー作品 "wikilink") [Category:フジテレビ系アニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:フジテレビ系アニメのクロスオーバー作品 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:東映・東映アニメーションのロボットアニメ](https://ja.wikipedia.org/wiki/Category:東映・東映アニメーションのロボットアニメ "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:悪魔を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:悪魔を題材とした映画作品 "wikilink") [Category:巨大ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ映画 "wikilink") [Category:テレビ朝日製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:テレビ朝日製作のアニメ映画 "wikilink") [Category:フジテレビ製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:フジテレビ製作のアニメ映画 "wikilink")
+
+1.
+2.
+3.
+4.  [＜東映まんがまつり＞公開の「マジンガーZ」関連劇場版を収めた単巻Blu-ray2タイトルが同日発売](http://amass.jp/27993/)

@@ -1,0 +1,78 @@
+> この記事は[HD](https://ja.wikipedia.org/wiki/HD)から翻訳されています。
+
+
+『**グランツーリスモHDコンセプト**』 (GRAN TURISMO HD Concept) は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月24日](../Page/12月24日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで提供された[グランツーリスモシリーズ](../Page/グランツーリスモシリーズ.md "wikilink")初の[PlayStation 3向け作品である](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。[PLAYSTATION Storeで無料配信された](../Page/PlayStation_Store.md "wikilink")。
+
+## 概要
+
+大元となる作品は2006年5月の[E3で初公開された](https://ja.wikipedia.org/wiki/Electronic_Entertainment_Expo "wikilink")「グランツーリスモ HD」で、この時点では[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")「[グランツーリスモ4](https://ja.wikipedia.org/wiki/グランツーリスモ4 "wikilink")」をベースに高解像度化などのアレンジを加えた試作品とされたが、2006年9月の[東京ゲームショウ](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")に合わせて実際の製品として2006年12月に発売される事が発表された。この時点では、ソフトの価格を製造実費程度の低価格に設定する代わりに、新しい車種やコースを有料ダウンロード配信するという新しい試みが検討されていた\[1\]。
+
+しかし、2006年12月1日に「[グランツーリスモ5](https://ja.wikipedia.org/wiki/グランツーリスモ5 "wikilink")」の開発が優先される事が発表され、これにより今まで構想されてきた「グランツーリスモ HD」としての多くの要素は「グランツーリスモ5」に吸収される事となり、同時に「**グランツーリスモHDコンセプト**」という名称の無料ダウンロード作品が提供されることが発表された。
+
+2006年12月24日の午前0時に（実際にはその少し前から）配信が開始され、一時はPLAYSTATION Storeが混雑でアクセスしづらい状況になった。
+
+2007年9月30日で配信を終了した。新規のダウンロード、公式サイトでのランキング更新は終了したが、ゲーム内でのオンラインランキングは引き続き利用できる\[2\]。
+
+## 新たな試み
+
+### フルスペックハイビジョンでの出力
+
+GT-HDはフルスペック[ハイビジョン](../Page/ハイビジョン.md "wikilink")（1920×1080・[プログレッシブ](https://ja.wikipedia.org/wiki/プログレッシブ "wikilink")）でのゲーム画面出力に対応している。情報量としては、現行の標準的なデジタル[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送（1440×1080、[インターレース](https://ja.wikipedia.org/wiki/インターレース "wikilink")）の約4倍。前作の[グランツーリスモ4](https://ja.wikipedia.org/wiki/グランツーリスモ4 "wikilink")と比べると約13.5倍の情報量となる。
+
+2006年5月のE3で[山内一典](https://ja.wikipedia.org/wiki/山内一典 "wikilink")は「人類史上初の試み」と発言したが、実際の製品化においては2006年11月11日発売の「[リッジレーサー7](https://ja.wikipedia.org/wiki/リッジレーサー7 "wikilink")」などが先にフルスペックハイビジョンに対応している。
+
+### フェラーリの登場
+
+今までのグランツーリスモシリーズではユーザーからの要望が多かったものの[ライセンス](../Page/ライセンス.md "wikilink")の関係上実現できずにいた[フェラーリ](../Page/フェラーリ.md "wikilink")が登場する。
+
+### ネットワークランキング
+
+プレイ直後に成績がネットワークに送信され、ほぼリアルタイムに順位を表示できる。車種ごとに上位10名のランキングが表示され、上位5名のリプレイデータをダウンロードすることも可能。なおランキングは1週間ごとにリセットされる。
+
+## ゲームモード
+
+使用できるコースはシリーズ初登場となる[アイガー](../Page/アイガー.md "wikilink")・ノルドワンドのみ。
+
+### タイムトライアル
+
+基準タイムをクリアすると新しい車種が解禁され、計10台の車を使用できる。全10車種で基準タイムをクリアするとドリフトトライアルや逆走・チューンドカーを使ったタイムアタックがプレイできるようになる。基準タイムは比較的遅めで、何周でも続けて走ることができるため難易度は低く設定されている。
+
+### ドリフトトライアル
+
+コーナーでの[ドリフト走行](https://ja.wikipedia.org/wiki/ドリフト走行 "wikilink")の腕を試すモード。指定されたコーナーで上手くドリフトを決めるとスコアが上昇する。
+
+## 登場車種
+
+  - [スズキ・カプチーノ](https://ja.wikipedia.org/wiki/スズキ・カプチーノ "wikilink") 1995年
+  - [マツダ・ロードスター](https://ja.wikipedia.org/wiki/マツダ・ロードスター "wikilink") 1989年
+  - [ホンダ・インテグラ](https://ja.wikipedia.org/wiki/ホンダ・インテグラ "wikilink") TYPE R 2004年
+  - [三菱・ランサーエボリューション](../Page/三菱・ランサーエボリューション.md "wikilink")IV GSR 1996年
+  - [日産・スカイライン](https://ja.wikipedia.org/wiki/日産・スカイライン "wikilink") クーペ 2006年
+  - 三菱・ランサーエボリューションIX GSR 2005年
+  - [ロータス・エリーゼ](https://ja.wikipedia.org/wiki/ロータス・エリーゼ "wikilink") 111R 2004年
+  - [日産・スカイラインGT-R](../Page/日産・スカイラインGT-R.md "wikilink") VスペックII 1994年
+  - [トヨタ・セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")GT-FOUR ラリーカー 1995年
+  - [フェラーリ・599GTBフィオラノ](../Page/フェラーリ・599GTBフィオラノ.md "wikilink") 2006年
+
+## その他
+
+  - 提供開始直後からタイムトライアルで走行途中にもかかわらずフルラップのタイムとしてネットワークランキングに登録されてしまう不具合がごくまれに発生していた。このためランキング上位に不自然に短いタイムが登録されていた。2日後の2006年12月26日に不具合を修正した「バージョン1.1」が公開された。
+  - 北米では「バージョン1.2」、ヨーロッパ・オーストラリアでは「バージョン2.0」が配信されていた。バージョン1.1と大きな違いはない。
+  - 「[グランツーリスモ5](https://ja.wikipedia.org/wiki/グランツーリスモ5 "wikilink")」発売までに本作以外にも新たなコンセプトバージョンが提供される可能性があることが山内一典のコメントで示唆されており、2007年12月には「[グランツーリスモ5プロローグ](https://ja.wikipedia.org/wiki/グランツーリスモ5プロローグ "wikilink")」が発売される運びとなった。
+
+## 脚注
+
+<references />
+
+## 関連項目
+
+  - [グランツーリスモシリーズ](../Page/グランツーリスモシリーズ.md "wikilink")
+
+## 外部リンク
+
+  - [グランツーリスモHDコンセプト 特設ページ](http://www.gran-turismo.com/jp/gthdc/)（グランツーリスモ・ドットコム）
+
+[Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:グランツーリスモ](https://ja.wikipedia.org/wiki/Category:グランツーリスモ "wikilink") [Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink")
+
+1.  [『グランツーリスモ HD』のオンライン要素について本人に体当たり！](http://www.famitsu.com/game/event/2006/09/22/264,1158905147,60470,0,0.html) - ファミ通.com
+2.  [ダウンロード終了と当サイトのランキング更新終了のお知らせ](http://www.gran-turismo.com/jp/gthdc/news/d1189.html) - グランツーリスモ・ドットコム

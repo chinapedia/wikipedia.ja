@@ -1,0 +1,181 @@
+> この記事は[COOL JAPAN!](https://ja.wikipedia.org/wiki/COOL_JAPAN!)から翻訳されています。
+
+
+『**COOL JAPAN〜発掘\!かっこいいニッポン〜**』（クールジャパンはっくつ\!かっこいいニッポン）は、[NHK衛星放送テレビジョンで放送されている](https://ja.wikipedia.org/wiki/NHK-BS "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
+
+## 概要
+
+来日間もない[外国人](../Page/外国人.md "wikilink")の視点で[日本の文化](https://ja.wikipedia.org/wiki/日本の文化 "wikilink")を発掘する番組である。スタジオで話し合い、放送で紹介したものからクールなものを決定する。司会2人、ご意見番1人、来日間もない外国人8人程度で進行する。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")に放送を始め、当初は[BShiと](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")[BS2で放送していたが](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")、2011年4月9日から[BS1で放送している](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")。2007年4月から[NHKワールド](https://ja.wikipedia.org/wiki/NHKワールド "wikilink")、2018年より[BS4Kでも放送](https://ja.wikipedia.org/wiki/NHK_BS4K "wikilink")。
+
+## 放送時間
+
+  - BShi
+
+2011年3月まで
+
+  - 毎週水曜 19:00〜19:44
+  - 毎週金曜 0:00〜0:44
+  - 毎週月曜 8:00〜8:44（『[街道てくてく旅](../Page/街道てくてく旅.md "wikilink")』放送期間中は8:15〜8:59）
+
+<!-- end list -->
+
+  - BS1
+
+2012年3月まで
+
+  - 毎週土曜 18:00〜18:44
+  - 毎週日曜 5:00〜5:44
+  - 毎週土曜 12:00〜12:44
+
+<!-- end list -->
+
+  -
+    2011年度までは、NHKワールドTVと同じ内容が放送されていた。ただしテロップ表示は通常の国内放送と同じ。英語主音声・日本語副音声の[2か国語放送](https://ja.wikipedia.org/wiki/2か国語放送 "wikilink")で、デジタル放送はステレオ2音声となっていた。
+
+2012年10月まで
+
+  - 毎週日曜 23:00〜23:44
+  - 毎週土曜 18:00〜18:44
+  - 毎週日曜 8:00〜8:44
+
+<!-- end list -->
+
+  -
+    2012年度の放送から日本語音声に対して英語字幕がつくようになった。また、[字幕放送や](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")[解説放送](../Page/解説放送.md "wikilink")を実施する。
+
+2012年11月から
+
+  - 毎週日曜 23:00〜23:44
+  - 毎週土曜 18:00〜18:44
+
+2013年4月から
+
+  - 毎週日曜 18:00〜18:44
+  - 毎週木曜 14:00〜14:44
+
+2014年4月から
+
+  - 毎週日曜 18:00〜18:44
+  - 毎週月曜 22:00〜22:44
+
+2015年4月から
+
+  - 毎週日曜 18:00〜18:44
+  - 毎週月曜 21:00〜21:44
+
+2015年10月から
+
+  - 毎週日曜 18:00〜18:44
+  - 毎週火曜 2:00〜2:44
+
+2016年4月から
+
+  - 毎週日曜 18:00〜18:44
+  - 毎週日曜 12:00〜12:44
+
+2016年11月から
+
+  - 毎週日曜 18:00〜18:44
+  - 毎週水曜 18:00〜18:44
+
+2017年4月から
+
+  - 毎週日曜 18:00〜18:44
+  - 毎週日曜 12:00〜12:44
+
+<!-- end list -->
+
+  - NHKワールド・プレミアム
+
+2015年3月まで
+
+  - 毎週木曜 0:47〜1:31（JST）
+  - 毎週木曜 15:15〜15:59（JST）（再放送）
+
+2015年4月から
+
+  - 毎週月曜 15:10〜15:54（JST）
+
+2016年4月から
+
+  - 毎週月曜 15:00〜15:44（JST）
+
+※NHKワールドTVでも2007年4月から英語主音声・日本語副音声の[2か国語放送](https://ja.wikipedia.org/wiki/2か国語放送 "wikilink")で毎週月曜16:00〜16:44に放送され、2012年度以降は完全英語音声吹き替えでの放送となっている。なお、他の放送波と異なり、日本語字幕は一部を除き表示されていない。
+
+## 出演者
+
+  - 司会
+
+<!-- end list -->
+
+  - [鴻上尚史](https://ja.wikipedia.org/wiki/鴻上尚史 "wikilink")
+  - [リサ・ステッグマイヤー](https://ja.wikipedia.org/wiki/リサ・ステッグマイヤー "wikilink")
+  - [鹿島綾乃](https://ja.wikipedia.org/wiki/鹿島綾乃 "wikilink")（2011年10〜12月ごろ、リサの産休の代理）
+  - [魚住りえ](https://ja.wikipedia.org/wiki/魚住りえ "wikilink")（2013年1月27日、2月3日、リサの代理）
+  - [西田ひかる](../Page/西田ひかる.md "wikilink")（2013年7〜9月ごろ 、リサの産休の代理）
+
+<!-- end list -->
+
+  -
+    2012年12月23日、2013年1月20日はリサが欠席し代役も置かず鴻上のみで進行。
+
+  - ご意見番
+
+<!-- end list -->
+
+  - 佐藤博康
+  - [小林康夫](https://ja.wikipedia.org/wiki/小林康夫 "wikilink")
+  - [中村伊知哉](../Page/中村伊知哉.md "wikilink")
+  - [冷泉彰彦](https://ja.wikipedia.org/wiki/冷泉彰彦 "wikilink")
+  - [荒俣宏](../Page/荒俣宏.md "wikilink")（他のご意見番の出演がほぼ順繰りであるのに対して、番組開始2年ほどは出演頻度は非常に低かったが、2008年ごろより他の出演者と同じペースで出演するようになった）
+  - [黛まどか](../Page/黛まどか.md "wikilink")（2016年6月19日から）
+  - 高井典子（2017年9月17日から）
+
+<!-- end list -->
+
+  - ナレーター
+
+<!-- end list -->
+
+  - [中井和哉](https://ja.wikipedia.org/wiki/中井和哉 "wikilink")
+  - [レイチェル・ワルザー](https://ja.wikipedia.org/wiki/レイチェル・ワルザー "wikilink")
+  - [阿部陽子](../Page/阿部陽子.md "wikilink")（2007年度まで）
+  - [岩槻里子](../Page/岩槻里子.md "wikilink")（2008年度から）
+  - [柘植恵水](../Page/柘植恵水.md "wikilink")（2011年度から）
+  - [日高のり子](https://ja.wikipedia.org/wiki/日高のり子 "wikilink")（2012年度から）
+
+## ベスト・オブ・クール
+
+通常放送では、番組の最後にその日紹介したものから、鴻上が「ベスト・オブ・クール」を選ぶ。114回目の『草食男子』では新しいライフスタイルの紹介だけにクールアイテムの選定を行わなかった。他にも「夫婦」「友達」「やまとなでしこ」などのアンケートを中心にした回や「弔う」「プライバシー」などベストオブクールを選ばない回がたまにある。また、2011年末からはエンディングで取り上げたもの全体がクールかどうか判定し、ベストオブクールを選ばない場合がある。2017年までは毎年新年度の第1回に総集編として、前年度のベストオブクールから最もクールなものを「クール・オブ・クール」として表彰する。
+
+| 年度    | クールオブクール                                                                                              |
+| ----- | ----------------------------------------------------------------------------------------------------- |
+| 2007年 | [宅配便](../Page/宅配便.md "wikilink")                                                                      |
+| 2008年 | [ICカード乗車券](../Page/乗車カード.md "wikilink")                                                               |
+| 2009年 | [ロボットスーツ](https://ja.wikipedia.org/wiki/ロボットスーツ "wikilink")                                           |
+| 2010年 | [電子オルガン](https://ja.wikipedia.org/wiki/電子オルガン "wikilink")                                             |
+| 2011年 | [アニメの](../Page/アニメーション.md "wikilink")[背景](../Page/背景.md "wikilink")画                                  |
+| 2012年 | [町工場](https://ja.wikipedia.org/wiki/町工場 "wikilink")の[職人](https://ja.wikipedia.org/wiki/職人 "wikilink") |
+| 2013年 | [鳶職人](https://ja.wikipedia.org/wiki/鳶職人 "wikilink")                                                   |
+| 2014年 | 自動ひび卵検査装置                                                                                             |
+| 2015年 | 脳神経外科用ハサミ                                                                                             |
+| 2016年 | [妻籠宿](https://ja.wikipedia.org/wiki/妻籠宿 "wikilink")の街並み                                               |
+
+年度別クール・オブ・クール
+
+| 記念回    | ベストオブクール                                                  |
+| ------ | --------------------------------------------------------- |
+| 1周年記念  | [温水洗浄便座](https://ja.wikipedia.org/wiki/温水洗浄便座 "wikilink") |
+| 100回記念 | 温水洗浄便座                                                    |
+| 300回記念 | [100円ショップ](../Page/100円ショップ.md "wikilink")                |
+
+記念回の最優秀ベストオブクール
+
+## 注釈
+
+## 外部リンク
+
+  - [公式サイト](http://www6.nhk.or.jp/cooljapan/)
+  - [COOL JAPAN〜発掘\!かっこいいニッポン NHK名作選（動画他）- NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010714_00000)
+
+[Category:NHK_BShiの番組](https://ja.wikipedia.org/wiki/Category:NHK_BShiの番組 "wikilink") [Category:NHK_BS2の番組](https://ja.wikipedia.org/wiki/Category:NHK_BS2の番組 "wikilink") [Category:NHK_BS1の番組](https://ja.wikipedia.org/wiki/Category:NHK_BS1の番組 "wikilink") [Category:NHK_BSのバラエティ番組](https://ja.wikipedia.org/wiki/Category:NHK_BSのバラエティ番組 "wikilink") [Category:NHK_BSの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:NHK_BSの情報・ワイドショー番組 "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink")

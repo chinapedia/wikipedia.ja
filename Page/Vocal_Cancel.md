@@ -1,0 +1,91 @@
+> この記事は[Vocal Cancel](https://ja.wikipedia.org/wiki/Vocal_Cancel)から翻訳されています。
+
+
+**Vocal Cancel**（ボーカルキャンセル）は、古田泰大が開発した、[MP3](../Page/MP3.md "wikilink")及び[WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")形式の音声ファイルの、人間の声の部分を消すことを目的とした、[Windows 95以上で動作する](../Page/Microsoft_Windows_95.md "wikilink")[シェアウェア](../Page/シェアウェア.md "wikilink")である。現在は、公開が中止されている。作者は不正利用を検知したときに調査を行うと宣言しており、実際、個人を特定するための情報が密かに収集されていた。このため[トロイの木馬に分類される](https://ja.wikipedia.org/wiki/トロイの木馬_\(ソフトウェア\) "wikilink")[マルウェア](https://ja.wikipedia.org/wiki/マルウェア "wikilink")とされている。その結果、Vocal Cancelを配布していた[Vectorは](https://ja.wikipedia.org/wiki/ベクター_\(企業\) "wikilink")、規約を変更するなど、Vocal Cancelはオンラインソフト界に衝撃を与えた。
+
+## 概要
+
+このソフトの名前が示すとおり、最大の特徴であり最大の機能は「声消し」である。音声ファイルに限らず、[CD音源であっても](../Page/コンパクトディスク.md "wikilink")、声の部分を消去してカラオケ化することが可能であった。また、[Winamp](https://ja.wikipedia.org/wiki/Winamp "wikilink")プラグインのフロントエンド機能も実装し、普通の音楽プレイヤーとしての用途もある程度考慮されていた。
+
+価格は1000円。試用期間は一週間で、その間はファイルの保存ができない制限があった。
+
+## トロイの木馬「TROJ_HIROFU.A」
+
+Vocal Cancelは、機能よりも、トロイの木馬が埋め込まれていることで騒がれた。このマルウェアは「**TROJ_HIROFU.A**」と呼ばれる。なお、「**TROJ_HIROFU.A**」 はトレンドマイクロによる識別名であり、シマンテックでは同マルウェアに 「**Trojan.Hirofu**」 という識別名をつけている。
+
+### 「TROJ_HIROFU.A」の発動
+
+このトロイの木馬は以下の条件を満たすことで、発動されると言われている。
+
+  - 不正に入手されたと思われるパスワードとシリアルナンバーを入力する。
+
+どのような仕組みで不正なものか判断するかは知られていない。なお、exeファイルをResource Hackerなどのソフトウェアで開くと発見できるパスワードとシリアルナンバーでも、トロイの木馬は発動されていることが分かっている（よって、これは作者が仕掛けたトラップだと判断されている）。
+
+### 「TROJ_HIROFU.A」の挙動
+
+古田が、メールでのインタビューで答えた「TROJ_HIROFU.A」の挙動は以下の通りである。
+
+  - 利用シリアルナンバー・パスワードを取得
+  - ユーザーアカウントの情報（SID等）を取得
+  - メールアカウントの情報を取得
+  - アドレス帳の内容を取得
+  - ダイヤルアップアカウントの情報を取得
+  - 以上の情報を何らかの形で、作者の元へポスト
+
+以上である。
+
+しかし、[2ちゃんねる](../Page/2ちゃんねる.md "wikilink") ソフトウェア板での有志の解析により、より細かいことが分かっている。
+
+#### 2ちゃんねるでの解析結果
+
+以下が2ちゃんねるで解析された結果である。なお、主にバージョン5.05、5.06の解析結果である。
+
+1.  登録が完了するまでは「TROJ_HIROFU.A」は発生しない。
+2.  有効な登録がなされた後はじめて「TROJ_HIROFU.A」が発生する。
+3.  自動的に\[HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\]にキーが作成される。application Dataフォルダ内にシステムファイル(隠しファイル)としてランダムな1〜8文字の名前を持つexeファイルが作成され、それを自動実行。作られた「TROJ_HIROFU.A」は自身のアクセス権を変更し容易に削除されないようにする。
+4.  後は、VC_50xx.EXEを1回起動するたびに1個ずつ「TROJ_HIROFU.A」が多重起動。
+5.  \[HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\]以下に正しい登録情報がある限り、起動する度に「TROJ_HIROFU.A」が作成・登録・起動される。[Windowsが挙動不安定に](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+6.  「TROJ_HIROFU.A」が以下の情報を収集する。
+      - Vocal Cancelで入力されたパスワードとシリアルナンバー
+      - メールアカウント
+      - アドレス帳
+      - Windows Address Bookの情報
+      - WindowsのプロダクトID
+      - [Internet Explorer関連の履歴等のファイル](../Page/Internet_Explorer.md "wikilink")（未確定）
+7.  古田のサイトに設置してあったページから、自身のメールアドレスに以上の収集結果をポスト。もしくは自ら、古田のメールアドレスにポストする。
+
+以上が、解析された大まかな「TROJ_HIROFU.A」の挙動である。
+
+## なぜ、Vocal Cancelにトロイの木馬が埋め込まれたのか
+
+古田泰大の[Warez](https://ja.wikipedia.org/wiki/Warez "wikilink")や不正使用に対する嫌悪感がその原因だと考えられている。そのため、今回のように、古田が自身のソフトウェアにトロイの木馬を埋め込んだと思われている。しかし、インターネット上からはやり過ぎだと非難され、ファイルを配布していたVectorの信用を著しく失わせる結果になった。
+
+しかし、何故古田はトロイの木馬を使って上記の情報を集めたのかという疑問が生じる。その後、不正にパスワードとシリアルナンバーを入力し「TROJ_HIROFU.A」に感染したという人物が2ちゃんねるに現れた。その人物曰く、古田から調査費として1万円を請求されたという。これは、古田とのメールでのインタビューでも明らかにされていることである。以上のことから、2ちゃんねるでは金銭を得るため、トロイの木馬を実装したとも噂された。
+
+## 発覚後のインターネット上
+
+まず、「TROJ_HIROFU.A」が騒がれた後、Vectorからファイルが削除され、古田の持つサイトも削除された。その後、騒ぎは大きくなり、[スラッシュドット](../Page/スラッシュドット.md "wikilink")ジャパンに取り上げられたり、事件に関する情報を集めたまとめサイトが作られたりした。そして、まとめサイトを作っていた2ちゃんねる利用者の元に、古田泰大からメールが届く。そこでのインタビューなどがされた。そして、古田がVectorを通じて、「意図的にトロイの木馬を実装した」と回答した。
+
+その後、当時、古田が在籍していた[筑波大学](../Page/筑波大学.md "wikilink")第三学群情報学類から公式文章が発表される。それによると、古田と面接を行い、古田の情報学類教育用計算機システムの学生管理者としての権限を停止し、調査が行われている。同時に、謝罪がされている。しかし、未だ筑波大学第三学群情報学類からの詳細な調査結果と、古田自身からの謝罪はされていない。
+
+## 経緯
+
+  - [2004年](../Page/2004年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink") - 2ちゃんねるでVocal Cancelがトロイの木馬（[スパイウェア](https://ja.wikipedia.org/wiki/スパイウェア "wikilink")）的活動をすると書き込まれる。\[1\]
+  - 2004年[8月25日](../Page/8月25日.md "wikilink") - 古田本人と思われる人物から上の書き込みの削除要請。しかし2ちゃんねる運営側は「証拠保全の為放置」とした\[2\]。同じ頃、Warezコミュニティでも、Vocal Cancelの危険性が指摘されている。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月7日](../Page/2月7日.md "wikilink")（米国時間） - [トレンドマイクロ](https://ja.wikipedia.org/wiki/トレンドマイクロ "wikilink")社、ウイルスを発見（「Vocal Cancel」をウイルスと判断）。翌、2005年2月8日（米国時間）、同社製ウイルス対策ソフトウェア「[ウイルスバスター](https://ja.wikipedia.org/wiki/ウイルスバスター "wikilink")」、パターンファイル 2.396.00で対応 。
+  - 2005年[7月1日](../Page/7月1日.md "wikilink") - VectorのVocal Cancelのページが削除される。
+  - 2005年[7月4日](../Page/7月4日.md "wikilink") - Vectorからの公式文章が出される。これにより、古田のサイトの閉鎖はVectorによるものと判明。同日、追記により、古田は「トロイの木馬を意図的に実装した」と回答と判明。古田にパッケージャの開発依頼をしていたソフトイーサ社も「信頼できないプログラムコードを除去した」と発表し、新しいバージョンの[SoftEther](https://ja.wikipedia.org/wiki/SoftEther_1.0 "wikilink")（現在は[PacketiX](https://ja.wikipedia.org/wiki/PacketiX "wikilink")）の公開が行われた。
+  - 2005年[7月12日](../Page/7月12日.md "wikilink") - 筑波大学 情報学類長 田中二郎の名前で公式文章が発表される。
+  - 2005年[9月14日](../Page/9月14日.md "wikilink") - Vectorがウイルス入りソフトウェアを配布していた件について規約改正
+
+## 脚注
+
+## 外部リンク
+
+  -
+  - [SoftEther VPN 2.0 ベータ 3.2 を公開](http://www.softether.com/jp/news/050704.aspx)
+
+[Category:コンピュータウイルス](https://ja.wikipedia.org/wiki/Category:コンピュータウイルス "wikilink") [Category:マルウェア](https://ja.wikipedia.org/wiki/Category:マルウェア "wikilink") [Category:インターネット犯罪](https://ja.wikipedia.org/wiki/Category:インターネット犯罪 "wikilink")
+
+1.  <http://society3.2ch.net/test/read.cgi/regulate/1015424157/731>
+2.  <http://qb5.2ch.net/test/read.cgi/saku2ch/1035567484/16-17>

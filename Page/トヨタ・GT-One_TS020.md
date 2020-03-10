@@ -1,0 +1,62 @@
+> この記事は[GT-One TS020](https://ja.wikipedia.org/wiki/GT-One_TS020)から翻訳されています。
+
+
+**トヨタ・GT-One**（トヨタジーティーワン、Toyota GT-One）は、[トヨタが](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")参戦用に開発した[レーシングカー](https://ja.wikipedia.org/wiki/レーシングカー "wikilink")。建前上は当時のGT1規定に該当する[グランドツーリングカーとなっているが](../Page/グランツーリスモ.md "wikilink")、実態は[プロトタイプレーシングカー](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink")である（[1999年](../Page/1999年.md "wikilink")はプロトタイプとしてエントリー）。正式名称は**GT-One**であるが、[TS010の流れを汲むレーシングスポーツカーとして](../Page/トヨタ・TS010.md "wikilink")、型式名の**TS020**でも呼ばれる。
+
+## マシン
+
+TS010までのマシンは日本国内で開発されていたが、GT-Oneは[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ケルン](../Page/ケルン.md "wikilink")に拠点を置くトヨタのレース子会社[トヨタ・チーム・ヨーロッパ](https://ja.wikipedia.org/wiki/トヨタ・モータースポーツ "wikilink") (TTE) で開発された。設計は[プジョー・905](../Page/プジョー・905.md "wikilink")などを設計した[アンドレ・デ・コルタンツ](https://ja.wikipedia.org/wiki/アンドレ・デ・コルタンツ "wikilink")。テストカー・公道車仕様を含め7台のみが生産されている。
+
+[ダラーラ](https://ja.wikipedia.org/wiki/ダラーラ "wikilink")が製作に関わった[モノコック](https://ja.wikipedia.org/wiki/モノコック "wikilink")は屋根まで剛性を持たせた完全一体型で、後方にエンジンを[ストレスメンバー](https://ja.wikipedia.org/wiki/ストレスメンバー "wikilink")として剛結。ボディはフロント[ディフューザーなど](https://ja.wikipedia.org/wiki/ディフューザー_\(自動車\) "wikilink")[グランド・エフェクトを最大限に利用した複雑なデザインでGTカーとしては画期的だった](../Page/地面効果.md "wikilink")。足回りは前後ともプッシュロッド型[ダブルウィッシュボーンを採用し](../Page/ダブルウィッシュボーン式サスペンション.md "wikilink")、[フォーミュラカー](https://ja.wikipedia.org/wiki/フォーミュラカー "wikilink")の様な長いアームを持つ。横置きシーケンシャル6速の自社製[トランスミッション](../Page/トランスミッション.md "wikilink")を使用し、独メガライン社製空気圧作動式パドルシフトシステムを採用した。しかし徹底的に性能を追求した為に居住性や整備性は劣悪だったという。[片山右京](../Page/片山右京.md "wikilink")によると、フロントウインドウの左右に太いピラーがあることと、ホイールハウスの高い隆起があるため、前方左右の視界も良くないという。市販車のプロモーションを重視していたトヨタからはクローズドボディにするようにという指示はあったが、デ・コルタンツはもともと空力効率と自由度の観点からクローズドにするつもりだったという。
+
+エンジンは[グループC](../Page/グループC.md "wikilink")用の[R36Vを改良したR](../Page/トヨタ・R36V.md "wikilink")36V-Rを使用。R36V-Rには新たにフレッシュエアシステム（[ミスファイアリングシステム](https://ja.wikipedia.org/wiki/ミスファイアリングシステム "wikilink")）が採用されたが、1998年はそれが原因で燃費に苦しんだ。また1999年型は[リストリクター](../Page/リストリクター.md "wikilink")の取り付け方法変更が認められた他、GT1クラスの撤廃によってLM-GTPクラス\[1\]としてエントリーしたため、出力は600 PSから700 PSになった。
+
+リアセクションは、キャビンが後半部より急激に絞り込まれ、また極端に薄いデザインとなっている。これは、当時のレギュレーションにおいて「GT1クラスの車両は、規定容量以上のトランクスペースが必須」であると同時に、「レース用燃料タンクの設置場所は、トランクスペースでもよい」という、ルールブックの隙間を突く形で実現されている。具体的には、運転席の後ろに確保されたわずかな空間をトランクスペースとして申請し、そこにレース用燃料タンクを配置することで、リヤセクションの特異なスタイルを実現している。最高速は1998年のル・マンで343 km/h、1999年は351 km/hを記録した。
+
+1998年はGT1規定でエントリーしたために[EU法規に合致させたロードバージョン](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")（市販車）も1台製作されたが、その外見はレースカーとほぼ同一で、前輪のトレッドや車高、そしてナンバープレートの有無程度しか差異が無かった。もちろん、この車両が実際に市販されることはなかった。規定で定められているラゲッジスペース位置の解釈\[2\]、最低生産台数を定義していたロードカーの存在など、GT1規定の裏をかいたあくまでも「競技車輌ありきのロードカー」であり、そのデザインは[1994年](../Page/1994年.md "wikilink")のワークスシャシーの[ポルシェ・962](https://ja.wikipedia.org/wiki/ポルシェ・962 "wikilink")Cに保安部品をつけただけの「GT」、[ダウアー・962GTを想起させ](https://ja.wikipedia.org/wiki/ポルシェ・962 "wikilink")、当時の他のエントラントから非難が殺到した。また、すでにホモロゲーションが有名無実化していたGT1クラスが事実上撤廃され、1999年度よりGTPクラスへと改定される契機となった。ただしホモロゲーション取得条件の緩さを利用してこのような「市販車」を開発するのは、1980年代の[グループB](https://ja.wikipedia.org/wiki/グループB "wikilink")の時代からモータースポーツ界では一般的に行われていることであり、事実このGT1規定でも[ポルシェ・911 GT1で同様のことは行われていた](../Page/ポルシェ・911_GT1.md "wikilink")。
+
+公道車仕様のLM803は、エンジンはV8ツインターボであるもののプレチャンバー、ターボ、エギゾースト、燃料供給システムなどはレース仕様とは異なる。またサイドブレーキとシガーライター、「K-AM 1998」のナンバープレートも装備している。現在もTMGのエントランスホールに保管されているが、隣に置いてあるのが[カローラWRCと](https://ja.wikipedia.org/wiki/トヨタ・カローラWRC "wikilink")[TS050 HYBRIDであることからも](https://ja.wikipedia.org/wiki/TS050_HYBRID "wikilink")、TMGにとってのその存在の大きさが分かる\[3\]。
+
+## 成績
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Toyota_TS020_GT-ONE_-_Flickr_-_edvvc_\(2\).jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Toyota_TS020_GT-one_-_Flickr_-_andrewbasterfield_\(2\).jpg "wikilink") [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")にGT1クラスへ3台体制で参戦（27・28・29号車）。際立った速さを見せたが懸念されていたミッショントラブルが多発した。27・28号車は序盤からミッショントラブルを抱え優勝戦線から脱落。29号車は深夜と早朝と2度にわたり同様のトラブルに見舞われるが、27・28のトラブルシューティングを活かし素早く修復。しかし1位を走りながら残り1時間15分のところで3度目のミッショントラブルが起こり、ピットに帰還できずリタイヤ。優勝戦線から離れた28号車はファステストラップを記録するが、夜半にクラッシュ・リタイア。[片山右京](../Page/片山右京.md "wikilink")・[鈴木利男](https://ja.wikipedia.org/wiki/鈴木利男 "wikilink")・[土屋圭市](../Page/土屋圭市.md "wikilink")組の27号車が総合9位に食い込むに留まった\[4\]。
+
+[1999年](../Page/1999年.md "wikilink")はGTPクラスに3台体制で参戦（1・2・3号車）\[5\]。昨年見せた速さと2年目であることの信頼性により、絶対的に本命視されていた。1[インチ](../Page/インチ.md "wikilink")小さくなったタイヤと燃料タンク容量が10 L削減された規定に合わせて、細部をリファインした改良型を投入、1号車・2号車がフロントロウ独占する圧倒的な速さを見せた。
+
+下馬評ではトヨタ圧倒的有利、というものだったが、実際にレースが始まってみると意外にも[BMW・V12 LMR](https://ja.wikipedia.org/wiki/BMW・V12_LMR "wikilink")、[メルセデス・ベンツ・CLR](../Page/メルセデス・ベンツ・CLR.md "wikilink")を引き離すことができない展開となった。そして1号車が序盤にトランスミッションの油圧系のトラブルにより大きく順位を落とし優勝戦線から脱落。その後ガードレールにクラッシュ・リタイア。2号車は序盤からBMW17号車と同一ラップでトップ争いを展開していたが、夜半に下位クラスの車に追突されてクラッシュ・リタイア。3号車は抑えたペースで走行していたが、ここでペースアップ。
+
+それまでのペースの遅さから3号車はBMW17号車から4週遅れ・15号車から1週遅れにされていた。残り4時間で17号車がクラッシュ・リタイア。優勝の目が見えた3号車はファステストラップを記録しながら激しく追い上げ、15号車に22秒差まで迫りゴールまでにトップに立てる計算だった。しかし、ユノディエールにて328 km/hの速度で左後輪のタイヤがバースト。片山の咄嗟のマシンコントロールにより態勢を立て直しクラッシュは免れたものの、緊急ピットインを余儀なくされ後退。結果は総合2位（LMGTPクラス優勝）でゴールした。
+
+この年は[ル・マン富士1000kmにもエントリーした](https://ja.wikipedia.org/wiki/富士1000km "wikilink")。これが3戦目にしてTS020最後のレースとなったが、タイヤ戦略の稚拙さ、2度の黄旗追越によるペナルティストップにより、[日産・R391](../Page/日産・R391.md "wikilink")に優勝を奪われまたも2位に甘んじる事となり、一度も優勝を果たす事無くレースの舞台から姿を消す事となった。
+
+その後、[F1にエントリーを表明したトヨタの技術試験のテスト車として](../Page/フォーミュラ1.md "wikilink")、エンジンやブレーキ、その他補機類等の比較検討に供され、暫くの間テスト走行を行っていた。また個人に売却された車両も存在し、イベント等で姿を見せることがある。
+
+[20030712_12_July_2003_Toyota_TS-020_Mega_Web_Odaiba_Tokyo_Japan.jpg](https://ja.wikipedia.org/wiki/File:20030712_12_July_2003_Toyota_TS-020_Mega_Web_Odaiba_Tokyo_Japan.jpg "fig:20030712_12_July_2003_Toyota_TS-020_Mega_Web_Odaiba_Tokyo_Japan.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:Toyota_TS020_GT_One_rear.jpg "wikilink") トラブルにより結果は残せなかったものの戦闘力の高さは折り紙つきで、ライバルからも注目を集めた。特に[ベントレー・スピード8](https://ja.wikipedia.org/wiki/ベントレー・スピード8 "wikilink")は、デ・コルタンツが「あれを作った人間たちはGT-Oneの細かいところまで写真に撮っていて、空力的な作りだけでなくサスペンションのデザインから何からもGT-Oneのコピーを作った」「GT-Oneのクローン」と語っている\[6\]。
+
+## 脚注
+
+## 関連項目
+
+  - [トヨタ自動車のモータースポーツ](https://ja.wikipedia.org/wiki/トヨタ自動車のモータースポーツ "wikilink")
+  - [プロトタイプレーシングカー](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink")
+  - [トヨタ・TS010](../Page/トヨタ・TS010.md "wikilink")
+  - [トヨタ・TS030 HYBRID](https://ja.wikipedia.org/wiki/トヨタ・TS030_HYBRID "wikilink")
+
+## 外部リンク
+
+  - [Official Website of Toyota Motorsport GmbH](http://www.toyota-motorsport.com)
+
+  - [Toyota Racing Icons](http://www.carpages.co.uk/toyota/toyota-goodwood-festival-of-speed-17-03-05.asp)
+
+  - [Toyota GT-One specs and photos](http://www.mulsannescorner.com/gtone.html)
+
+  -
+  -
+[Category:トヨタの車種](https://ja.wikipedia.org/wiki/Category:トヨタの車種 "wikilink") [Category:スポーツカー_(モータースポーツ)](https://ja.wikipedia.org/wiki/Category:スポーツカー_\(モータースポーツ\) "wikilink")
+
+1.  プロトタイプクラス、実態は旧GT1クラスマシンの受け皿の様相であった。
+2.  レース仕様車ではラゲッジスペースの位置に燃料タンクが置かれていた。
+3.
+4.
+5.
+6.

@@ -1,0 +1,122 @@
+> この記事は[ZX-10R](https://ja.wikipedia.org/wiki/ZX-10R)から翻訳されています。
+
+
+**ニンジャZX-10R**（ニンジャ ゼットエックス-テンアール）は、[川崎重工業モーターサイクル&エンジンカンパニー](https://ja.wikipedia.org/wiki/川崎重工業モーターサイクル&エンジンカンパニー "wikilink")が製造している、輸出市場向け[4ストローク](../Page/4ストローク機関.md "wikilink")998ccの[大型自動二輪](https://ja.wikipedia.org/wiki/大型自動二輪 "wikilink")（[オートバイ](../Page/オートバイ.md "wikilink")）である。
+
+## モデル一覧
+
+### 2004年
+
+[2004年](../Page/2004年.md "wikilink")に、それまでのカワサキの1000ccクラスのスーパースポーツモデルであった[ZX-9Rの後継として発表された](https://ja.wikipedia.org/wiki/カワサキ・ニンジャZX-9R "wikilink")。
+
+一般市販車として初めて[パワーウェイトレシオ](https://ja.wikipedia.org/wiki/パワーウェイトレシオ "wikilink")が1kg/psを切るよう車体とエンジンを組み合わせ（170kg/175ps、日本に多く輸入された[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")仕様は排ガス規制や騒音規制で若干パワーダウンし、164馬力）、ハードブレーキング時に対応するために[MotoGP参戦マシン](../Page/ロードレース世界選手権.md "wikilink")[ZX-RR譲りの](../Page/カワサキ・ZX-RR.md "wikilink")[バックトルクリミッター](../Page/バックトルクリミッター.md "wikilink")も装備している。2004年型[ヤマハYZF-R1や同年にデビューした](https://ja.wikipedia.org/wiki/ヤマハ・YZF-R1 "wikilink")[ホンダCBR1000RRはいずれもセンターアップマフラーを採用したのに対し](https://ja.wikipedia.org/wiki/ホンダ・CBR1000RR "wikilink")、ZX-10Rはオーソドックスなタイプのマフラーであった。
+
+  - ホイールベース 1385mm
+  - 倍速ジェネレーター
+  - 排気デバイス
+  - バックトルクリミッター
+  - [バックボーンフレーム](https://ja.wikipedia.org/wiki/フレーム_\(オートバイ\)#形式 "wikilink")
+  - [イモビライザー](https://ja.wikipedia.org/wiki/イモビライザー "wikilink")
+  - ペタルディスク
+  - 4ピストン4パット ラジアルマウントF[ブレーキキャリパー](https://ja.wikipedia.org/wiki/ブレーキキャリパー "wikilink")
+  - ラップタイム計測ストップウォッチ
+  - DLCコートフロント倒立フォーク
+
+{{-}}
+
+### 2006年
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には[フルモデルチェンジされたが](https://ja.wikipedia.org/wiki/モデルチェンジ_\(自動車\) "wikilink")、前モデルの反省からか全体的なバランスが考慮されており、
+
+  - エンジンの見直し（倍速ジェネレーター廃止、クランクマス40%増加）
+  - シャシーの全面的な改良（フレーム剛性バランスの見直し、キャスター角見直し、それに伴うスイングアーム短縮、結果1395mmと言うリッターSSらしくないほどのショートホイールベースとなる）
+  - 新形状のブレーキマスターシリンダーの採用（既存の横型からラジアルポンプに変更）
+  - プロジェクターヘッドライトの採用
+  - 左右センターアップマフラーの採用
+
+などが主に変更された。 {{-}}
+
+### 2008年
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にさらにモデルチェンジがなされエンジンは188馬力（[ラムエアインテークによる加圧で](https://ja.wikipedia.org/wiki/エアインテーク#オートバイ "wikilink")200馬力）となり外観も大幅に変更され\[1\]、
+
+  - センターアップマフラーの廃止\[2\]
+  - フロントミラーステー部分にウインカー装備\[3\]
+  - ホイールベースの延長（1395mm→1415mm）
+  - 左右のステアリングスイッチ部分に[ストップウォッチ](https://ja.wikipedia.org/wiki/ストップウォッチ "wikilink")機能を装備（右がスタート、ストップボタン。左がラップタイムボタン）そのためハザードランプスイッチは装備されない。
+
+などの変更がなされた {{-}}
+
+### 2011年
+
+[2011年](../Page/2011年.md "wikilink")型では同車両では初となる完全新設計によるフルモデルチェンジが行われた。通常、モデルチェンジは2年周期で行われており、2010年に行われる予定だったが、不況の影響、レースで勝てるマシンにすること（歴代ZX-10Rは[スーパーバイク世界選手権](https://ja.wikipedia.org/wiki/スーパーバイク世界選手権 "wikilink")では苦戦を強いられてきた）を目的に開発期間を延長し、1年遅れのモデルチェンジとなった。エンジン・車体共に刷新され、歴代車種とは大きく変化している。
+
+  - オーソドックスなツインチューブフレームへの変更
+  - 軸配置を見直し、マスを集中化した新エンジン（リッターSS初の200馬力オーバーを発生）
+  - ホリゾンタルバックリンクリアサスペンションの採用
+  - 加速力を最大限に引き出す予測型[トラクションコントロールシステム](https://ja.wikipedia.org/wiki/トラクションコントロールシステム "wikilink")・S-KTRCの採用
+  - [LEDを使った弧形のバータイプのタコメーターの採用](../Page/発光ダイオード.md "wikilink")
+  - プロジェクターヘッドライトの廃止
+  - カセットトランスミッションの採用
+  - 先代モデルに引き続きストップウォッチ機能を装備。ハザードランプスイッチは未装備。
+  - 10kg以上の軽量化
+  - フロントミラー埋め込み式のウインカー採用
+  - KIBS機構を搭載している[ABS仕様の追加](https://ja.wikipedia.org/wiki/アンチロック・ブレーキ・システム "wikilink")
+
+2004年型以来の伝統であり車体構成上の特徴だった、エンジンの上を跨ぐように取り回わされたバックボーンフレーム、クラッチ軸を低く配置したエンジンは改められ、フレームはエンジン側面を囲うオーソドックスなツインチューブフレームに変更され、エンジンのクラッチ軸も他社の競合車両同様、高い位置に改められた。車体構成の独自性は薄れたが、開発目的の一つである「レースで勝つ」ことを優先しての変更である。
+
+エンジンの特性は従来よりも高回転型となり、アクセルをより開けやすくするため中低回転域の余剰なトルクはカットされ、直線的なトルクカーブになっている。最高出力は同クラス車両初となるラムエア過給なしで200馬力以上（200.1ps）。
+
+2012年モデルはカラーデザインの変更とカウルのサイドのロゴが“Ninja”から“ZX-10R”に変更となった。
+
+2013年モデルのマイナーチェンジでは[ステアリングダンパー](https://ja.wikipedia.org/wiki/ステアリングダンパー "wikilink")を電子制御式に変更している。
+
+### 2016年
+
+[2015年](../Page/2015年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")に2度目のモデルチェンジとなる2016年型が発表された\[4\]。エンジンは欧州のEURO4排出ガス規制移行に合わせて刷新され、車体も先代のデザインを維持しつつ手直しされており、フロントサスペンションには[ショーワ](https://ja.wikipedia.org/wiki/ショーワ "wikilink")製の『バランスフリーフロントフォーク』を装備している\[5\]。
+
+同年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")には、日本国内向けの競技向け車両として「レース専用モデル」が発売された。車体は日本国外向け仕様とほぼ同一だが、ABSと保安部品は装着されていない。
+
+### 2017年
+
+2016年9月1日にマイナーチェンジが発表された。日本国内の騒音規制基準変更により、日本国内へ逆輸入により導入されていたアジア（マレーシア）仕様の排気系が欧州仕様と共通化され、はじめてカワサキ正規代理店から200psフルパワー仕様が発売されることとなった。また、軽量ホイールや専用エンジンを搭載しサーキット走行に特化した「ZX-10RR」を追加発表した。
+
+翌2018年には、前年にZX-10RRに採用されていたアップ・ダウン両対応のクイックシフターを全車種に標準装備とし、また、ボディーカラーを刷新する年次改良を行い、電子制御サスペンションを装備した「ZX-10R SE」が追加発表された。
+
+### 2019年
+
+2018年10月1日から新型「ZX-10R」、ABS装備の「ZX-10R ABS」、サーキット走行に特化した「ZX-10RR」、電子制御サスペンションを装備した「ZX-10R SE」を発売した。新エンジンはフィンガーフォロワー[ロッカーアーム](https://ja.wikipedia.org/wiki/ロッカーアーム "wikilink")を採用。エンジン出力は203ps（ZX-10RRは204ps）となった。
+
+前年モデルまでは一貫して[逆輸入](https://ja.wikipedia.org/wiki/逆輸入 "wikilink")によって日本国内へ導入されてきたが、2019年モデルからは日本国内向けモデルとして発売された。日本国内向けモデルは車速180km/hで速度リミッターが作動する点が、車速299km/hで速度リミッターが作動する諸外国向けモデルと異なる。
+
+## 画像
+
+ファイル:zx-10rabs2011.jpg|Ninja ZX-10R 2011 ABS ファイル:Kawasaki Ninja ZX-10R at Tokyo Motor Show 2013-1.jpg|東京モーターショー2013展示モデル ファイル:Kawasaki Ninja ZX-10 ABS (KRT Edition) at the Tokyo Motor Show 2015-1.jpg|東京モーターショー2015展示モデル
+
+## 関連項目
+
+  - [ニンジャZX-6R](https://ja.wikipedia.org/wiki/カワサキ・ニンジャZX-6R "wikilink")
+  - [ニンジャZX-9R](https://ja.wikipedia.org/wiki/カワサキ・ニンジャZX-9R "wikilink")
+  - [ニンジャZX-12R](https://ja.wikipedia.org/wiki/カワサキ・ニンジャZX-12R "wikilink")
+  - [ニンジャ1000](https://ja.wikipedia.org/wiki/カワサキ・ニンジャ1000 "wikilink")
+  - [スーパーバイク世界選手権](https://ja.wikipedia.org/wiki/スーパーバイク世界選手権 "wikilink")
+
+## 脚注
+
+## 外部リンク
+
+  - [川崎重工業モーターサイクル&エンジンカンパニーNinja ZX-10R（2016年モデル）](https://www.kawasaki-cp.khi.co.jp/mcy/street/16_zx1000rs.html)
+  - [Ninja ZX-10R(2016)](http://www.kawasaki.co.uk/en/products/supersport/2016/ninja_zx-10r_/overview?Uid=09BFDQ0KUQxbUVoLUFEJXAlfCVEODA1bCwkJWFEJDF8MUF0) - カワサキUK
+  - [Ninja ZX-10R（レース専用モデル）](https://www.kawasaki-motors.com/mc/lineup/ninjazx-10r/) - カワサキモータースジャパン
+  - [Road to Tokyo Motor Show Special Site 2003・ZX-10R](http://www.kawasaki-motors.com/special/tokyo2003/presentation_model/zx-10r/index.html)
+  - [Kawasaki・Ninja Motor Show Special Site 2005・ZX-10R](http://www.kawasaki-motors.com/special/tokyo2005/model/model02.html)
+  - [Kawasaki MOTOR SHOW SPECIAL SITE 2007・ZX-10R](http://www.kawasaki-motors.com/special/motorshow2007/new_model/zx-10r/index.html)
+  - [川崎重工業モーターサイクル&エンジンカンパニーNinja ZX-10R（2011年モデル）](http://www.kawasaki-cp.khi.co.jp/mcy/street/11_zx1000jk.html)
+
+[Category:カワサキのオートバイの車種](https://ja.wikipedia.org/wiki/Category:カワサキのオートバイの車種 "wikilink") [Category:レーサー_(オートバイ)](https://ja.wikipedia.org/wiki/Category:レーサー_\(オートバイ\) "wikilink")
+
+1.
+2.
+3.
+4.  [スーパースポーツモデル「Ｎｉｎｊａ ＺＸ-１０Ｒ」を海外市場で新発売](https://www.khi.co.jp/news/detail/20151008_1.html) - 川崎重工業
+5.  [［Ninja ZX-10R ABS］約5年ぶりの大規模アップデートを受けた2016年モデル\!\!](http://www.kawasaki1ban.com/news_topics/10749) - カワサキイチバン（クレタ）・2015年10月9日

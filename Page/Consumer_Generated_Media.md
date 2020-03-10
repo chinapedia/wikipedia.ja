@@ -1,0 +1,148 @@
+> この記事は[Consumer Generated Media](https://ja.wikipedia.org/wiki/Consumer_Generated_Media)から翻訳されています。
+
+
+[User_generated_content_in_the_virtual_world_Second_Life.png](https://ja.wikipedia.org/wiki/File:User_generated_content_in_the_virtual_world_Second_Life.png "fig:User_generated_content_in_the_virtual_world_Second_Life.png")」のプレイヤーによるコンテンツ\]\] **Consumer Generated Media**（コンシューマー・ジェネレイティッド・メディア、略称: **CGM**）は、[消費者](../Page/消費者.md "wikilink")が[生産者](https://ja.wikipedia.org/wiki/生産者 "wikilink")となる[生産消費者](../Page/生産消費者.md "wikilink")により制作・提供される作品（メディア・コンテンツ）の総称である\[1\]。同概念の用語として、**User Generated Content**（**UGC**）\[2\]、**User Created Content**（**UCC**）\[3\]がある。日本語では、**消費者生成メディア**・**ユーザー生成コンテンツ**・**使用者制作コンテンツ**と訳される。
+
+GCM・UGC・UCCなどの用語は、2000年代中程の[Web 2.0の流行と共に使われるようになった](../Page/Web_2.0.md "wikilink")。Web 2.0は[World Wide Webのコンテンツの提供](../Page/World_Wide_Web.md "wikilink")・受領の立場が流動的に変化する概念を表した用語として使われ、生産消費者によるコンテンツは[ブログ](../Page/ブログ.md "wikilink")・[ウィキ](../Page/ウィキ.md "wikilink")・[SNS](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")・[動画共有サービス](../Page/動画共有サービス.md "wikilink")・[eコマース](https://ja.wikipedia.org/wiki/eコマース "wikilink")などのウェブプラットフォームのコンテンツで用いられた\[4\]。*[TIME](https://ja.wikipedia.org/wiki/TIME "wikilink")*は2006年の[Person of the YearにWeb](../Page/パーソン・オブ・ザ・イヤー.md "wikilink") 2.0のコンテンツ制作者「You」を選出した\[5\]。消費者から消費者へ製品・サービスを提供する商業プラットフォームは（Consumer to Consumer）と呼ばれる\[6\]。
+
+## 歴史
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:OED2_volumes.jpg "wikilink")』\]\] [インターネット](../Page/インターネット.md "wikilink")が普及する以前における生産消費者によるコンテンツとして、大規模・大容量の辞典『[オックスフォード英語辞典](https://ja.wikipedia.org/wiki/オックスフォード英語辞典 "wikilink")』がある。1857年、[ロンドン言語学協会](https://ja.wikipedia.org/wiki/ロンドン言語学協会 "wikilink")のはオックスフォード英語辞典の未登録の用語を補完するために世界中の英語圏から公的貢献を求め\[7\]、読者による貢献を反映した辞典の編集を実施した。辞典の編集は何十年も続き、非常に多くの読者からの貢献が辞典に反映された。
+
+1990年代初頭、インターネットが構築された時代の生産消費者の情報蓄積の基礎プラットフォームは[ニュースグループ](../Page/ニュースグループ.md "wikilink")であった。ニュースグループ利用者は掲示板へ自身の知っている情報を投稿し、利用者が投稿したテキストはニュースグループのアーカイブとして蓄積された。ニュースグループは分野毎にサブカテゴライズされており、分野毎の蓄積情報は[ナレッジコミュニティ](../Page/ナレッジコミュニティ.md "wikilink")を構築した。1990年代中ほど以降は、インターネットのプラットフォームに[World Wide Webが登場し](../Page/World_Wide_Web.md "wikilink")、ナレッジコミュニティのプラットフォームはニュースグループから[ウェブサイト](../Page/ウェブサイト.md "wikilink")へ移った。ウェブサイトは[HTML](https://ja.wikipedia.org/wiki/HTML "wikilink")で記述された[ウェブページ](../Page/ウェブページ.md "wikilink")を通して情報を配信し、インターネットサービスプロバイダが個人にウェブサイト空間を貸し出すことで、個人ホームページや個人BBSが登場した。World Wide Webの登場によりニュースグループの利用者は減っていったが、幾つかのニュースグループで蓄積された投稿テキストはHTMLに変換されてウェブサイトとして公開された。例えば、1990年代に始まったニュースグループ「rec.arts.movies」は映画情報サイト「[IMDb](https://ja.wikipedia.org/wiki/IMDb "wikilink")」の基礎となっている\[8\]。
+
+2000年前後、インターネット空間の情報交流をエンドユーザー同士で直接的に行う[SNS](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")・[ウィキ](../Page/ウィキ.md "wikilink")・・[動画共有サイト](https://ja.wikipedia.org/wiki/動画共有サイト "wikilink")・[ファイル共有ソフトウェア](https://ja.wikipedia.org/wiki/ファイル共有ソフトウェア "wikilink")などのネットワークプラットフォームが活用されはじめた。ウィキや画像・動画共有サイトはウェブサイト閲覧者がテキストや画像・動画を投稿することでウェブサイトのコンテンツを拡充させる生産消費者によるウェブサイトである\[9\]\[10\]。ファイル共有ソフトウェアはP2Pでエンドユーザーからエンドユーザーへデータを送受信するアプリケーションである\[11\]。また、個人のウェブサイトの活用方法にも変化が現れ、個人のウェブサイトで特定分野のウェブ情報を記録（ログ）するウェブログ（[ブログ](../Page/ブログ.md "wikilink")）が登場した\[12\]。初期のブログサイトはウェブサイトURLをリストでまとめたURL一覧であった\[13\]。ブログサイトの掲載内容はよりウェブサイト閲覧者に便利であるように、ウェブサイトURLに加えて[パーマネントリンク](https://ja.wikipedia.org/wiki/パーマネントリンク "wikilink")・サイト運営者コメント・サイト訪問者コメント・HTMLマークアップ・サイトURL掲載日などをブログの一記事に記載するよう改良された。特定分野の情報が収集されたウェブサイトはインターネット利用者にとって便利であったため、ブログサイトは多くの個人サイトで利用された。
+
+2005年、[ティム・オライリー](../Page/ティム・オライリー.md "wikilink")はで「[Web 2.0](../Page/Web_2.0.md "wikilink")」の在り方を提唱し、Web 2.0では生産者と消費者が流動的に立場を入れ替えて[エンドユーザー](../Page/エンドユーザー.md "wikilink")からエンドユーザーへウェブコンテンツが提供される特徴があると述べた\[14\]。この発表以前にも生産消費者コンテンツのウェブサイトは多数存在していたが、Web 2.0というブランディングでまとめられることでそれらのウェブサイトは広く認知された。2006年、*[TIME](https://ja.wikipedia.org/wiki/TIME "wikilink")*は[Person of the YearにWeb](../Page/パーソン・オブ・ザ・イヤー.md "wikilink") 2.0のエンドユーザによるエンドユーザのためにコンテンツを制作・提供するコンテンツ制作者「You」を選出した\[15\]。従来の生産者から消費者へ製品・サービスを提供する商業プラットフォームがB2C（Business to Consumer）と呼ばれるのに対して、消費者から消費者へ製品・サービスを提供する商業プラットフォームはC2C（Consumer to Consumer）と呼ばれる\[16\]。
+
+生産消費者によるコンテンツの登場により、[アマチュア](../Page/アマチュア.md "wikilink")によるメディアをサポートする企業の役割はコンテンツ制作からコンテンツ提供へとシフトしていった。例えば、動画メディアでは2000年代初頭は[Adobe Flashなどのコンテンツ制作をサポートするツールの提供が隆盛していたが](../Page/Adobe_Flash.md "wikilink")、2010年代には[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")などのコンテンツ提供をサポートするプラットフォームの提供が隆盛している。
+
+## 提供
+
+生産消費者によるコンテンツは主にインターネットを通して提供される。提供プラットフォームには、ウェブサイト運営者が主題を挙げてコンテンツを提供する[ブログ](../Page/ブログ.md "wikilink")・[ポッドキャスト](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")、ウェブサイト利用者が知識・情報を投稿する[BBS](../Page/電子掲示板.md "wikilink")・[Q\&Aサイト](https://ja.wikipedia.org/wiki/Q&Aサイト "wikilink")・[レビューサイト](https://ja.wikipedia.org/wiki/レビューサイト "wikilink")、ウェブサイト利用者がサイトコンテンツを自由に編集する[ウィキ](../Page/ウィキ.md "wikilink")、ウェブサイト利用者がコンテンツを投稿する・音楽・[動画共有サイト](https://ja.wikipedia.org/wiki/動画共有サイト "wikilink")などがある\[17\]。また、コンテンツ自体はインターネットを通して配布されるが、そのコンテンツはアプリケーション・ゲーム内で利用される[アドオン](https://ja.wikipedia.org/wiki/アドオン "wikilink")・[Mod環境などがある](https://ja.wikipedia.org/wiki/Mod_\(コンピュータゲーム\) "wikilink")。
+
+ブログ・ポッドキャストはテキスト・音声を配信する個人運営のウェブサイトに適した提供プラットフォームで、コンテンツ提供者は特定分野の主題に対して記事を執筆・録音してウェブサイトに投稿・掲載する\[18\]\[19\]。ブログはテキストおよび画像・音楽・動画を記事にして読者へ情報を提供する。ブログでコンテンツ提供する生産消費者はブロガーと呼ばれる。ポッドキャストは音声コンテンツで読者へ情報を提供する。コンテンツの更新はRSSで通知することが多く、視聴者はRSSリーダーでコンテンツの更新を知ることができる\[20\]。ブログ・ポッドキャストの提供形態は定期的に発行される新聞・ラジオの提供形態に似ており、企業運営の報道サイト・情報配信サイトや市民ジャーナリズムサイトでも利用されている。
+
+BBSは特定の主題の話題を利用者同士で会話するコミュニティである。ウェブプラットフォームの流行以前はニュースグループ（[NNTP](https://ja.wikipedia.org/wiki/NNTP "wikilink")）でテキストで利用者同士が交流していたが、ウェブプラットフォーム（[HTTP](https://ja.wikipedia.org/wiki/HTTP "wikilink")・[HTML](https://ja.wikipedia.org/wiki/HTML "wikilink")）が流行したことでマークアップテキストや画像も扱えるBBSが使われるようなった。画像ファイルがアップロードできるBBSは[画像掲示板](../Page/画像掲示板.md "wikilink")とも呼ばれる。ニュースグループと同じく特定分野の話題を主題に利用者同士で意見を出し合って交流する。BBSに投稿されたテキスト・画像のアーカイブが一つのコンテンツとして[キュレーションサービス](https://ja.wikipedia.org/wiki/キュレーションサービス "wikilink")などにより取りまとめられて再提供されることもある\[21\]。同様に、Q\&Aサイト・レビューサイトは主題の話題へサイト利用者が主題に対してコメントを投稿するコミュニティである。利用者同士の会話ではなく感想・評価の投稿が主観にあるが、ウェブサイト利用者が知識・情報を蓄積する[ナレッジコミュニティ](../Page/ナレッジコミュニティ.md "wikilink")として同じ特性を持っている。
+
+ウィキはユーザー共同作成の集合知を構築するナレッジコミュニティとして効率的なプラットフォームである\[6\]。ウィキ利用者はウェブサイトに掲載されたコンテンツ（テキスト・画像・音楽・動画）を編集し、ウェブサイトをより優れたコンテンツを提供するものに改善していく。従来ウェブサイトではサイト運営者が掲載したコンテンツをサイト閲覧者が一方的に受領するだけであったが、ウィキではサイト利用者が編集したコンテンツを提供・受領することができる。
+
+画像共有サイト・音楽共有サイト・動画共有サイトなどのホスティングサイトは利用者の制作したメディアコンテンツのアップロードと掲載・配信をする。動画コンテンツは[ライブストリーミング](https://ja.wikipedia.org/wiki/ライブストリーミング "wikilink")サービスで配信されるものもある\[22\]。それらのウェブサイト・サービスでは利用者は自身の制作するメディアコンテンツを提供・配信する。動画共有・配信サービスはテキスト・画像・音楽を包括的に扱うことができるため、静止画をスライドショーのように加工して動画コンテンツにしたり\[23\]、音楽に静止画をつけて動画コンテンツにして\[24\]、テキスト・画像・音楽を動画コンテンツとして配信することもある。動画共有・配信サービスはその高い汎用性から様々な種類の生産消費者によるコンテンツの提供に利用されている。
+
+ウェブサイト・サービスへアップロードしたコンテンツは、そのウェブサービス運営者の定める利用許諾契約に従ってコンテンツ生産者・コンテンツ消費者はコンテンツを提供・受領することになる\[25\]。ただし、著作権は生産消費者の元にあり、ウェブサービス運営者が無断で生産消費者の制作したコンテンツを利用することは認められていない。ウェブサービス運営者を介在させず生産消費者がコンテンツ提供する場合は生産消費者がコンテンツに適当なライセンスを課すことになるが、そのための汎用ライセンスとして[オープンライセンス](https://ja.wikipedia.org/wiki/オープンライセンス "wikilink")や[クリエイティブ・コモンズ・ライセンス](https://ja.wikipedia.org/wiki/クリエイティブ・コモンズ・ライセンス "wikilink")などがある\[26\]\[27\]。
+
+## 種類
+
+[thumb構造物](https://ja.wikipedia.org/wiki/ファイル:Tinkers_Construct_smeltery.png "wikilink")\]\] [thumb動画](https://ja.wikipedia.org/wiki/ファイル:Let's_Play_0_AD.webm "wikilink")（英語）\]\] [thumbに投稿された料理](https://ja.wikipedia.org/wiki/ファイル:Wikibooks_hamburger_recipe.png "wikilink")[レシピ](../Page/レシピ.md "wikilink")\]\] [thumbの](https://ja.wikipedia.org/wiki/ファイル:Infinite_Hands.ogg "wikilink") *Infinite Hands*\]\] 生産消費者によるコンテンツには多様な種類のコンテンツが存在する。
+
+  - ニュース
+    [ソーシャル・ニュースサイトは読者投稿型](https://ja.wikipedia.org/wiki/ソーシャルニュース "wikilink")[ニュースサイト](../Page/ニュースサイト.md "wikilink")である\[28\]。利用者は他のニュースサイトの記事URLと、必要であれば自身のコメントを付与して、ニュースをウェブサイトに投稿する。ニュースサイトの読者はニュース記事にコメントを投稿したり、特に興味深い記事へ投票したりする。ニュースサイトは、投票ランキングの高いニュースをウェブサイトのトップページなどに表示させることで、読者にとって興味深いニュースを効率的に提供する\[29\]。[フィードリーダー・ウェブサイトも同様に他ニュースサイトの記事を閲覧する特性を持っているが](https://ja.wikipedia.org/wiki/フィードリーダー#ウェブアプリケーション型 "wikilink")、ソーシャル・ニュースサイトは読者が意図的に他ニュースサイトを登録しなくとも他利用者の投稿・投票によって適当なニュース記事を閲覧できる特性を付加的に持っている。読者投稿型ニュースサイトの一例には[reddit](https://ja.wikipedia.org/wiki/reddit "wikilink")・[digg](https://ja.wikipedia.org/wiki/digg "wikilink")などがある\[30\]。
+
+  - レビュー
+    [レビューサイト](https://ja.wikipedia.org/wiki/レビューサイト "wikilink")は消費者が製品・サービスの評価を投稿するウェブサイトである。消費者は購入・利用した製品・サービスの感想を投稿し、他の利用を検討している消費者への判断材料を与える\[31\]。レビューサイトの運営者と製品・サービスの生産者が独立することで、消費者は生産者[バイアス](../Page/バイアス.md "wikilink")を含まない評価を得ることができる。製品・サービスのレビューは、製品販売業者や広告代理店の介入により評価が片寄ることがあり、そのような印象操作は[ステルスマーケティング](https://ja.wikipedia.org/wiki/ステルスマーケティング "wikilink")と呼ばれて批判の対象となることがある\[32\]。特に旅行業界では、旅行者の感想をウェブサイトに活発に利用している。ヨーロッパの旅行会社Busaboutは、利用者がリアルタイムに投稿する画像・写真・地図をウェブサイトに掲載するソーシャルメディアとして採用し、ウェブサイトの滞在時間を39%伸ばし、イギリスへの旅行者を9%増やした\[33\]。ローカルビジネスのレビューサイトとして、[Yelp](https://ja.wikipedia.org/wiki/Yelp "wikilink")は地域に根付いた製品・サービスの評価をまとめている。Yelpのウェブサイトによると、月平均2700万人のユニークユーザーがおり、2017年第4四半期時点で1億4800万を超えるレビューを受けている。
+
+  - ゲーム
+    [ビデオゲーム](https://ja.wikipedia.org/wiki/ビデオゲーム "wikilink")ではによる[Mod](https://ja.wikipedia.org/wiki/Mod_\(コンピュータゲーム\) "wikilink")・・・などのコンテンツが作られている\[34\]。いくつかのゲームでは消費者による自発的な難易度調整のためのを公式に提供してる場合もある。[MMORPG](../Page/MMORPG.md "wikilink")ではプレイヤーが制作・提供できるコンテンツをゲームシステムに組み込んでおり\[35\]、[メタバース](../Page/メタバース.md "wikilink")な仮想世界を構成するゲームではプレイヤーが建物や家具などを制作したり、ダンジョンゲームでは迷路やアイテム・モンスターをプレイヤーがデザインしたり、クエストゲームでは他プレイヤー向けのクエストを開発したりする。2012年に始まった[Ingress](https://ja.wikipedia.org/wiki/Ingress "wikilink")は、サービスイン直後はプレイヤーが遊ぶためのポータルがゲームシステム上にほぼ登録されておらず、プレイヤーがポータルを申請・登録することでゲーム性が確立されるプレイヤー頼りのゲームシステムであった\[36\]。
+
+  - 報道
+    [市民ジャーナリズム](../Page/市民ジャーナリズム.md "wikilink")は報道機関に属さない記者による記事で構成される[報道](../Page/報道.md "wikilink")である\[37\]。市民ジャーナリズムでは報道機関に属さない記者により記事が執筆されるが、執筆された記事は報道機関の編集者により査読されて、一般の読者・視聴者に報道される。市民ジャーナリズムは、プロの記者が取材・執筆する記事ではないため記事の量・品質が十分ではない場合があるが\[38\]、広く浅く素早く報道できることがメリットである\[39\]。用語の定義として、市民ジャーナリズムとブログの主な違いは編集者による査読の有無であるが、ウェブサイト・動画共有サイトでの編集者査読のない報道配信も登場している\[40\]。2005年、[BBC](https://ja.wikipedia.org/wiki/BBC "wikilink")は少人数の試験的な市民ジャーナリズムチームを発足し、同年に起きた[ロンドン同時爆破事件](https://ja.wikipedia.org/wiki/ロンドン同時爆破事件 "wikilink")・の報道を契機にチームを常設・拡張した\[41\]。BBCは読者からの5,000枚以上の写真を受け取り、ニュース配信に利用した。その際、読者が撮影・制作したコンテンツに対して基本的にはコンテンツ使用料の支払いは発生しなかった。BBCに続いて、[CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")は2006年に、[FOXニュース](https://ja.wikipedia.org/wiki/FOXニュース "wikilink")は2009年にuReportを市民ジャーナリズムプロジェクトとして立ち上げた\[42\]\[43\]。
+
+  - 広報
+
+    （[ファンフィクション](https://ja.wikipedia.org/wiki/ファンフィクション "wikilink")・[ファンアート](../Page/ファンアート.md "wikilink")・・）はファンによるブランドの広報活動を兼ねた[二次創作物](https://ja.wikipedia.org/wiki/二次創作物 "wikilink")である\[44\]。ファンは原作コンテンツをより楽しむため、応援するためなど個人的な理由で二次創作物を制作する。ファンが二次創作物を他者に提供することで原作コンテンツはより広く知られることとなり、ファンレイバーは広報的な特性を持っている。ファンレイバーはウェブサイト・SNSで公開される他、[同人誌即売会](../Page/同人誌即売会.md "wikilink")などのイベントで販売されることもある。より直接的な消費者による広報コンテンツとしてアプリケーション・ゲームの動画像共有がある。ディスプレイのある携帯機器・ゲーム機は撮影機能を持っており、プレイ中の画面を画像・動画として撮影してユーザー同士で共有することができる\[45\]。共有された画像・動画はアプリケーションやゲームの知名度を上げることに役立つ。[Android](../Page/Android.md "wikilink")・[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")はスクリーンショット機能\[46\]、[PlayStation 4は](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")[シェア機能](https://ja.wikipedia.org/wiki/PlayStation_4#シェア "wikilink")\[47\]でユーザーが動画像動を撮影してSNS・動画共有サイトへアップロードできる。他に、製品・サービスの広報のための企業（生産者）が消費者と共同で制作する[合作コンテンツがある](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")。[JibJab](https://ja.wikipedia.org/wiki/JibJab "wikilink")などは友人や家族のアップロードされた写真を使ったコンテンツが作成されており、毎年クリスマス前後にはのようにグリーティングコンテンツがアップロードされている。それらでは、顔写真の画像をアニメーションするダンシング・エルフへカット&ペーストで張り付けることもできる\[48\]。一部のブランドでは有料の広告掲載の効果を高めるために生産消費者コンテンツを利用しており、例えば、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")は[Facebook](../Page/Facebook.md "wikilink")の広告キャンペーン「Feeling the Streets」に生産消費者コンテンツを利用して広告効果を440%向上させた\[49\]。
+
+  - 商業
+
+    は利用者同士の相互依存による商業・販売の生産消費者プラットフォームである。[eBay](https://ja.wikipedia.org/wiki/eBay "wikilink")・[ヤフオク\!](../Page/ヤフオク!.md "wikilink")などの[インターネットオークション](https://ja.wikipedia.org/wiki/インターネットオークション "wikilink")では製品の出品および入札・購入を利用者同士で実施する。[Amazonマーケットプレイス](https://ja.wikipedia.org/wiki/Amazonマーケットプレイス "wikilink")ではAmazonは取引プラットフォームのみを提供し、商品の売買は利用者同士で実施する。
+
+  - 教育
+    [オープン教育リソース](https://ja.wikipedia.org/wiki/オープン教育リソース "wikilink")は誰でも自由に利用可能な教育コンテンツである\[50\]。[オープンソース](../Page/オープンソース.md "wikilink")の概念を踏襲して利用・修正・再配布が認められており、修学者により教育コンテンツを改変して提供することができる。教育コンテンツはその分野に権威のある教育者が作成する場合もあるが、その分野を学習している修学者自身によって作られる場合もある\[51\]。教育内容は、従来の教育者の制作する教育コンテンツでは教育者の方針・観点・期限に依存していたが、修学者の制作する教育コンテンツでは流動的な修学者の方針・観点・期限に依存する。修学者は教育リソースの疑問点・改善点のアイディアを互いに共有して改善する。生産教育者による教育コンテンツでは、元修学者（消費者）が現教育者（生産者）となり流動的に立場を変えてコンテンツを制作している。教育コンテンツはブログやSNSで提供・共有する他、ウィキでも共同制作されている。
+
+  - 芸能
+    [芸能](https://ja.wikipedia.org/wiki/芸能 "wikilink")コンテンツは、インターネットが隆盛する以前はテレビ・ラジオなどの[放送](../Page/放送.md "wikilink")で提供されるものであったが、SNS・動画共有サイトなどの[配信](https://ja.wikipedia.org/wiki/配信 "wikilink")で手軽に提供することができるようになり、プロ（専門の生産者）ではないアマチュア（生産消費者）による芸能コンテンツが登場している。歌を披露するアマチュア歌手は「[歌い手](https://ja.wikipedia.org/wiki/歌い手 "wikilink")」と呼ばれ\[52\]、オリジナル曲や[カバー](../Page/カバー.md "wikilink")曲を録音して音楽コンテンツを音楽SNS・動画共有サイトで提供している。[噺](https://ja.wikipedia.org/wiki/噺 "wikilink")の巧いアマチュア話者は[ゲーム実況](https://ja.wikipedia.org/wiki/ゲーム実況 "wikilink")コンテンツを動画共有サイトで提供したり\[53\]、配信者と視聴者が雑談をする[漫談](../Page/漫談.md "wikilink")コンテンツをライブストリーミングで提供している\[54\]。
+
+  - 書籍・音楽・動画
+    生産消費者による書籍・音楽・動画は[ケータイ小説](https://ja.wikipedia.org/wiki/ケータイ小説 "wikilink")・[ボカロ曲](https://ja.wikipedia.org/wiki/ボカロ曲 "wikilink")・[MAD動画](https://ja.wikipedia.org/wiki/MAD動画 "wikilink")などの形で商業化・[メディアミックス](../Page/メディアミックス.md "wikilink")させるものもある\[55\]\[56\]。
+
+    [KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")では[小説家になろう](../Page/小説家になろう.md "wikilink")をはじめとして、ユーザーの意見を取り入れて執筆された小説を「新文芸」と定義している\[57\]。
+
+## 動機
+
+### 制作動機
+
+コンテンツクリエイターがコンテンツを制作・提供することのメリットは直接的ではない。[利他主義](../Page/利他主義.md "wikilink")・[社会主義](../Page/社会主義.md "wikilink")・[物質主義](https://ja.wikipedia.org/wiki/物質主義 "wikilink")などの複数の観点から、コンテンツを制作・提供する動機付けにはさまざまな理論がある。Consumer Generated Mediaの利用価値は高く、コンテンツプロバイダーはその動機を促してコンテンツクリエイターに制作・提供を促進している。この動機は暗黙的・明示的な動機に分けることができる\[58\]。
+
+暗黙的な動機は具体的な背景に基付いていない。最も一般的な暗黙的な動機は社会的な動機である。この動機はユーザーの所属するコミュニティの活発な参加者の気分を良くさせる。[Facebook](../Page/Facebook.md "wikilink")のフレンドや[Twitter](../Page/Twitter.md "wikilink")のフォロワーなど、ユーザー同士の関係を良好にする。社会的な動機は、他者とコンテンツを共有する[Facebook](../Page/Facebook.md "wikilink")・[Twitter](../Page/Twitter.md "wikilink")・[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")などのコミュニティで、ユーザー同士の繋がりを構築する側面もある。ユーザーは、[Amazon.com](../Page/Amazon.com.md "wikilink")や[eBay](https://ja.wikipedia.org/wiki/eBay "wikilink")などのコメント欄で製品情報・販売者情報を共有し、特定の製品・サービスの評価経験を蓄積する。その経験蓄積はユーザーが消費者となる際により適切な製品を選択するためのを向上させる。他に挙げられる社会的な動機は、コミュニティ内のステータス・バッジ・レベルがあり、ユーザーが特別な権限を伴っているか否かに関わらず一定条件の達成によって得られるものである。[Yahoo\!知恵袋](https://ja.wikipedia.org/wiki/Yahoo!知恵袋 "wikilink")はこの種の社会的な動機を促す一例である。社会的な動機はコンテンツプロバイダーのコストをほとんど必要とせず、プラットフォームの大きな成長を促進することができる。しかし、社会的な動機によるコンテンツ制作・提供の促進は、その効用を発揮するためにはコミュニティがある程度成熟している必要がある。
+
+明示的な動機は具体的な報奨に基付いている。報奨は、例えば、金銭的な支払い・コンテスト出展・[クーポン](https://ja.wikipedia.org/wiki/クーポン "wikilink")・[ポイントプログラム](../Page/ポイントプログラム.md "wikilink")などがある。明示的な動機はコミュニティの規模に依存することなく多くの人が容易に理解できる即物的な価値がある。カナダのショッピングプラットフォームである[Wishabi](https://ja.wikipedia.org/wiki/Wishabi "wikilink")や[Amazon Mechanical Turkは金銭的な報奨を与えることで参加者へ明示的な動機を促している](https://ja.wikipedia.org/wiki/Amazon_Mechanical_Turk "wikilink")。明示的な動機の欠点は、利用者がその報奨を主観に参加することになることで、最終的にはその動機のみが唯一の参加理由になってしまう可能性があることである。そこに依存してしまうと社会主義・利他主義の動機付けを減少させてしまい、報奨を用意するコンテンツプロバイダーのコスト増加を必要とすることとなる\[59\]。
+
+### 活用動機
+
+コンテンツプロバイダーが生産消費者コンテンツを活用することのメリットは即物的に明白である。コンテンツ制作には人的・金銭的リソースを必要とするが、消費者がコンテンツを無償で制作することで、コンテンツプロバイダーはそのリソースを削減することができる。消費者のコンテンツ制作に報奨を与える場合であっても、企業が単独でコンテンツ制作する場合より効率的な成果が期待できる\[60\]。また、一般的な消費者は企業評価より個人評価を好む傾向があり、個人が評価したコンテンツは受け入れられやすく\[61\]、はソーシャル・ネットワーク・サービスによって展開・拡散されやすい\[62\]。
+
+## 脚注
+
+[Category:ソーシャル・ネットワーキング・サービス](https://ja.wikipedia.org/wiki/Category:ソーシャル・ネットワーキング・サービス "wikilink") [Category:集合知](https://ja.wikipedia.org/wiki/Category:集合知 "wikilink")
+
+1.
+2.
+3.  [Working Party on the Information Economy - PARTICIPATIVE WEB: USER-CREATED CONTENT](http://www.oecd.org/dataoecd/57/14/38393115.pdf)
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21. [話題のニュースキュレーションアプリ動向（1）「大手各社、会員拡大へ広告強化」](https://www.advertimes.com/20140806/article166849/) アドタイ 江端浩人 2014年8月6日
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32. 「虚の時代\[2\]――サクラ操り やらせ広告」『朝日新聞』2009年5月1日付朝刊、第13版、第34面。有名店や新規開店やセールの行列、歌手や俳優や選手の周辺で騒ぐ人たちの一部は、サクラ派遣会社が時給2000円程度で動員。芸能人がブログで商品を取り上げると一回90〜300万円。ほか
+33.
+34. [You're in charge\! - From vital patches to game cancellations, players are often intimately involved.](http://www.eurogamer.net/articles/2013-11-02-youre-in-charge) by Christian Donlan on [Eurogamer](https://ja.wikipedia.org/wiki/Eurogamer "wikilink") *"Supreme Commander fans released Forged Alliance Forever and gave the game the online client it could otherwise only dream of. I haven't played it much, but I still got a tear in my eye when I read about the extents these coders had gone to. There's nothing quite so wonderful to witness as love, and this is surely love of the very purest order. \[...\] SupCom guys resurrect a series whose publisher had just gone under."* (2013-11-02)
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45. [テレビゲームをスポーツのように観戦できるTwitch TVが大人気](http://readwrite.jp/archives/4448)
+46.
+47.
+48.
+49.  Stackla - User-Generated Content Marketing|work=Stackla - User-Generated Content Marketing|accessdate=2018-04-09|language=en-US}}
+50.
+51.
+52.
+53.
+54.
+55. [速水健朗](https://ja.wikipedia.org/wiki/速水健朗 "wikilink")『ケータイ小説的。――“再ヤンキー化”時代の少女たち』[原書房](../Page/原書房.md "wikilink")、2008年、95-96頁。ISBN 978-4562041633
+56.
+57. [KADOKAWA 井上伸一郎に聞く -WEB発の新ジャンル 新文芸](https://store.kadokawa.co.jp/shop/pages/special_articles_01.aspx) - KADOKAWA
+58. Toluna:
+59. wisdump:
+60.
+61.
+62.

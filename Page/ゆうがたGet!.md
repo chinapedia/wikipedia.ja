@@ -1,0 +1,234 @@
+> この記事は[Get!](https://ja.wikipedia.org/wiki/Get!)から翻訳されています。
+
+
+『**ゆうがたGet\!**』（ゆうがたゲット）は、[1999年](../Page/1999年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[テレビ信州](../Page/テレビ信州.md "wikilink")で放送されている[ローカル番組](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")。
+
+## 概要
+
+### 番組開始の経緯
+
+1999年春、番組は『**陽司★美恵子 ゆうがたGet\!**』（ようじとみえこのゆうがたゲット）というタイトルでスタート。司会にはTSBアナウンサーの[伊東陽司](https://ja.wikipedia.org/wiki/伊東陽司 "wikilink")と[中西美恵子](https://ja.wikipedia.org/wiki/中西美恵子 "wikilink")（当時）が起用された。
+
+『ゆうがたGet\!』開始以前のTSBは、1991年4月から日曜夜に『[信州2230TV](https://ja.wikipedia.org/wiki/信州2230TV "wikilink")』という情報番組を生放送していたが、1998年12月に同番組を終了。同番組を発展させた形で夕方ワイド番組に新規参入することになった。「信州2230TV」最終回では、この番組でも司会を務めていた伊東から新番組『ゆうがたGet\!』の告知が行われた。
+
+番組が開始される[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")までの3か月間は充電期間と共に、番組出演者によるストーリー仕立ての[番宣](https://ja.wikipedia.org/wiki/番組宣伝 "wikilink")[スポットCM](../Page/スポットCM.md "wikilink")を立て続けに投入し、[視聴者](https://ja.wikipedia.org/wiki/視聴者 "wikilink")に向けた新番組のPRを連日実施した。そして、充電期間を経てスタートした『ゆうがたGet\!』は、番組初回からオープニングで使用されて「**ゆうがたGet！はYOUがターゲット！**」の語呂の良い[キャッチフレーズの掛け声から始まり](../Page/キャッチコピー.md "wikilink")、生活情報・料理コーナー・[長野市](../Page/長野市.md "wikilink")と[松本市](https://ja.wikipedia.org/wiki/松本市 "wikilink")を中心とした連日の中継コーナーから、最新ニュース・天気予報を織り交ぜた番組内容で、番組の終了後には[ステーションブレイクなしで](https://ja.wikipedia.org/wiki/コマーシャルメッセージ#CMの種類 "wikilink")『[NNN信州ニュースプラス1](https://ja.wikipedia.org/wiki/ニュースプラス1信州 "wikilink")』へ繋ぐという構成だった。
+
+当時番組を立ち上げた[プロデューサー](https://ja.wikipedia.org/wiki/テレビプロデューサー "wikilink")（元TSBアナウンサー・今村正大）によると、番組開始当初は[視聴率](../Page/視聴率.md "wikilink")が低迷していた\[1\]。しかしその後、放送開始時間の前倒しや番組タイトルロゴ・一部コーナーの見直しなどを実施したことで視聴率も好転している。また、2008年4月以降は長野県で唯一の夕方ワイド番組となっている。
+
+2015年4月17日放送分で放送回数4000回を達成した\[2\]。
+
+## 番組内容
+
+現在の放送時間は15:50 - 17:53であるが、編成上は15:50 - 16:50を第1部、16:50 - 17:53を第2部と分けている。ただし、番組進行上、実際に第1・2部の間に区切りが入ることはない\[3\]。また、18時台のニュースを内包していた時期には『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』（全国ニュース）を第3部、『[ニュースプラス1信州](https://ja.wikipedia.org/wiki/ニュースプラス1信州 "wikilink")』（ローカルニュース）を第4部と位置付けていた。
+
+16時台は料理と特集コーナー（生活情報）を中心に編成され、17時台は『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』の[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")の時間帯に放送される特集コーナーを数日遅れで、[時差ネットしている](../Page/遅れネット.md "wikilink")（本番組はこれを「突撃\!Get情報」と称している）。また、後半にはレギュラーコーナーとニュース・天気予報を放送している。特別な事情がある場合には16:50で打ち切り、『news every.』の[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")に切り替える（『[NEWSリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』特報など）。または『news every.』を録画し、時差ネットで放送する。
+
+## 放送時間
+
+### 陽司★美恵子 ゆうがたGet\!
+
+  - 1999年4月5日 - 2000年9月29日
+  - 月曜 - 金曜 16:30 - 17:30
+
+### 信州生活百科 ゆうがたGet\!
+
+  - 2000年10月2日 - 2001年3月30日
+  - 月曜 - 金曜 15:50 - 16:50
+
+### 情報ワイド ゆうがたGet\!プラス1
+
+  - 2001年4月2日 - 2004年3月26日
+  - 月曜 - 木曜 15:50 - 19:00／金曜 16:50 - 19:00
+  - 2004年3月29日 - 2005年4月1日
+  - 月曜 - 木曜 15:50 - 19:00／金曜 17:50 - 19:00
+  - 2005年4月4日 - 2006年3月31日
+  - 月曜 - 金曜 15:50 - 19:00
+
+### 情報ワイド ゆうがたGet\!
+
+  - 2006年4月3日 - 2009年3月27日
+  - 月曜 - 金曜 15:50 - 17:50
+  - 2009年3月30日 - 2010年3月26日
+  - 月曜 - 金曜 15:50 - 17:15
+  - 2010年3月29日 - 2011年9月30日
+  - 月曜 - 金曜 16:30 - 17:50
+  - 2011年10月3日 - 2014年3月21日
+  - 月曜 - 金曜 16:30 - 17:53
+
+### ゆうがたGet\!
+
+  - 2014年3月31日 - 現在
+  - 月曜 - 金曜 15:50 - 17:53
+
+## 出演者
+
+○はテレビ信州アナウンサー（出演当時を含む）。
+
+### 司会
+
+  - [齋藤沙弥香](https://ja.wikipedia.org/wiki/齋藤沙弥香 "wikilink")○（月 - 水曜日(隔週)、2018年4月4日 - ）\[4\]
+
+<!-- end list -->
+
+  - [寺島舞](https://ja.wikipedia.org/wiki/寺島舞 "wikilink")（フリーアナウンサー、水曜日(隔週) - 金曜日、2016年4月8日\[5\] - ）
+
+<!-- end list -->
+
+  - [下嶋兄](../Page/下嶋兄.md "wikilink")（タレント、 木・金曜日 、2014年4月4日 - ）\[6\]
+
+### コーナーキャスター
+
+  - [藤原里瑛](https://ja.wikipedia.org/wiki/藤原里瑛 "wikilink")○（月 - 金曜日、ニュース担当）\[7\]
+  - [伊東秀一](https://ja.wikipedia.org/wiki/伊東秀一 "wikilink")○（解説委員兼務、 秀一のトクする3コマニュース、水曜日）
+  - [伊東陽司](https://ja.wikipedia.org/wiki/伊東陽司 "wikilink")○（遠隔操作5分ショッピング 月曜日、2014年3月31日 -）\[8\]
+
+### レギュラー
+
+  - [こてつ](https://ja.wikipedia.org/wiki/こてつ "wikilink")\[9\]
+      - 河合武俊（月曜日、2014年4月 - ）
+      - 北村智（火曜日、2014年4月 - ）
+  - マンモウ飯田（水曜日、2008年10月 - ）
+  - [峰竜太](../Page/峰竜太.md "wikilink")（[タレント](../Page/タレント.md "wikilink")、月1回木曜出演）
+  - 須東潤一（月1回水曜または木曜出演、2016年7月 - ）
+
+### Get\!リポーター
+
+  - 宮代香織
+  - 清水翔子
+  - 篠原真紀
+  - 唐木さやか
+  - 寺島舞\[10\]
+
+### 料理コーナー
+
+  - 保田雅広
+  - 大日方隆英
+  - 西野周子
+  - 柳原佑哉
+  - 草間順子
+  - 大口知子
+  - 中村一子
+
+#### 気象予報士
+
+  - 宮本麻衣（2018年4月2日 - ）
+
+### 過去の主な出演者
+
+#### キャスター
+
+  - [中西美恵子](https://ja.wikipedia.org/wiki/中西美恵子 "wikilink")○（1999年4月 - 2003年12月）
+  - [加納美也子](https://ja.wikipedia.org/wiki/加納美也子 "wikilink")○（2004年1月 - 2006年3月）
+  - [清水まなぶ](https://ja.wikipedia.org/wiki/清水まなぶ "wikilink")（金曜日、2009年4月 - 2013年3月）
+  - [中村守](https://ja.wikipedia.org/wiki/中村守 "wikilink")○（金曜日、2008年4月 - 2014年9月）
+  - [黒木愛子](https://ja.wikipedia.org/wiki/黒木愛子 "wikilink")○（金曜日、2008年4月 - 2015年3月27日）
+  - [原山紅花](https://ja.wikipedia.org/wiki/原山紅花 "wikilink")○（2013年4月1日 - 2016年4月1日）
+  - [横田光幸](https://ja.wikipedia.org/wiki/横田光幸 "wikilink")○（2008年8月22日 - 2016年8月26日）
+  - [内田有紗](https://ja.wikipedia.org/wiki/内田有紗 "wikilink")○（月 - 木曜日、2016年1月6日 - 2018年3月29日）
+  - [厚芝智行](https://ja.wikipedia.org/wiki/厚芝智行 "wikilink")○（月 - 火曜日、2018年4月2日 - 2019年3月26日）
+  - [松井美幸](https://ja.wikipedia.org/wiki/松井美幸 "wikilink")○（月 - 木曜日、2008年4月 - 2015年12月24日、2017年4月3日 - 2019年9月26日）\[11\]
+
+#### コメンテーター
+
+  - 安藤州平（[写真家](../Page/写真家.md "wikilink")）
+  - [今久留主成幸](https://ja.wikipedia.org/wiki/今久留主成幸 "wikilink")（[信濃グランセローズ](../Page/信濃グランセローズ.md "wikilink")[GM](https://ja.wikipedia.org/wiki/ゼネラルマネージャー "wikilink")）
+  - 岩崎聖太郎（[歯科医師](https://ja.wikipedia.org/wiki/歯科医師 "wikilink")/[テレビ信州](../Page/テレビ信州.md "wikilink")「自動車浪漫」メインパーソナリティー）
+  - 内山二郎（[フリージャーナリスト](../Page/ジャーナリスト.md "wikilink")）
+  - 加瀬清志（[放送作家](../Page/放送作家.md "wikilink")）
+  - 加藤由美子（[工芸家](https://ja.wikipedia.org/wiki/工芸家 "wikilink")）
+  - 北沢房子（[フリー](../Page/フリーランス.md "wikilink")[ライター](../Page/著作家.md "wikilink")）
+  - 小出博治（長野国際親善クラブ会長）
+  - [小林可奈子](https://ja.wikipedia.org/wiki/小林可奈子 "wikilink")（[アトランタ五輪](https://ja.wikipedia.org/wiki/アトランタ五輪 "wikilink")[MTB](https://ja.wikipedia.org/wiki/MTB "wikilink")日本代表）
+  - [小林節子](https://ja.wikipedia.org/wiki/小林節子_\(フリーアナウンサー\) "wikilink")（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")）
+  - 小長谷悠紀（[長野大学](https://ja.wikipedia.org/wiki/長野大学 "wikilink")環境ツーリズム学部[准教授](https://ja.wikipedia.org/wiki/准教授 "wikilink")）
+  - 佐藤隆平（[キルト](https://ja.wikipedia.org/wiki/キルト "wikilink")[作家](../Page/作家.md "wikilink")）
+  - [清水まなぶ](https://ja.wikipedia.org/wiki/清水まなぶ "wikilink")（[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")）
+  - 杉野BEAT（[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")）
+  - 瀬川ナミ（ジャズダンサー）
+  - [藤原浩](https://ja.wikipedia.org/wiki/藤原浩 "wikilink")（[フードアナリスト](https://ja.wikipedia.org/wiki/フードアナリスト "wikilink")）
+  - [元川悦子](https://ja.wikipedia.org/wiki/元川悦子 "wikilink")（[スポーツライター](https://ja.wikipedia.org/wiki/スポーツライター "wikilink")）
+  - 森田舞（[社会保険労務士](https://ja.wikipedia.org/wiki/社会保険労務士 "wikilink")）
+  - 森山木の実（人形劇ぱぴぃ）
+  - [山崎夏菜](https://ja.wikipedia.org/wiki/山崎夏菜 "wikilink")（[イメージコンサルタント](https://ja.wikipedia.org/wiki/イメージコンサルタント "wikilink")）
+  - 横沢冨美子（シネマライター）
+  - チェ・ヨンヒ（[フリー通訳](../Page/通訳.md "wikilink")）
+  - [マブソン青眼](../Page/マブソン青眼.md "wikilink")（[俳人](https://ja.wikipedia.org/wiki/俳句 "wikilink")）
+  - [もう中学生](../Page/もう中学生.md "wikilink")（[芸人](../Page/芸人.md "wikilink"))
+
+#### Get\!リポーター
+
+  - 塩崎範子
+  - 塩野谷有紀
+  - 早川由紀
+  - 臼井美麗
+  - 高野真央
+  - 最上純子
+
+#### 料理コーナー
+
+  - 増田昌子
+  - 小林雪江
+  - 遠藤紀夫
+  - 宮城恵美子
+  - 小池邦夫
+  - 奥本良太
+  - 佐藤直仁
+  - 篠沢宏貴
+  - 小宮山秀幸
+  - 清水勝美
+  - 湯川章子
+
+#### 中継・情報リポーター
+
+  - 柴田隆（初代中継リポーター・情報キャスター） - 現在は番組の演出を務めている。
+  - [浅井みどり](https://ja.wikipedia.org/wiki/浅井みどり "wikilink")○（中継リポーター）
+  - [飛田厚史](https://ja.wikipedia.org/wiki/飛田厚史 "wikilink")○（中継リポーター）
+  - 菅野直道○（中継リポーター）
+  - [竹内彩華](https://ja.wikipedia.org/wiki/竹内彩華 "wikilink")○（特集・中継など）
+
+#### 気象予報士
+
+  - 塚原英子（1999年4月 - 2004年3月）
+  - 榊原淳子（2004年4月 - 2008年10月3日）
+  - 中島のぞみ（2008年10月6日 - 2009年10月2日）
+  - 笠原久司（2014年4月- 2018年3月 金曜日・災害時）
+
+#### ニュースコーナー
+
+  - [中澤有美子](../Page/中澤有美子.md "wikilink")○
+  - [浅葉彩](https://ja.wikipedia.org/wiki/浅葉彩 "wikilink")○
+
+#### 芸能コーナー
+
+  - [城下尊之](../Page/城下尊之.md "wikilink")（[芸能リポーター](../Page/芸能リポーター.md "wikilink")）
+
+## 備考
+
+  - さだまさしとコラボレーション
+    2016年3月4日、テレビ信州開局35周年記念特別番組として長野県とも縁のあるシンガーソングライターの[さだまさし](../Page/さだまさし.md "wikilink")と[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")し、4時間特番『ゆうがたGet\!プレミアム そ〜なの。信州信濃のさだまさしなの（仮）』が放送された\[12\]。なお、テレビ信州はかつて、開局25周年記念ドキュメンタリー番組「さだまさし 旅詩人〜海人が愛する山里のうた〜」\[13\]を制作・放送したことがあり、テレビ信州とさだがタッグを組むのは約10年ぶりである。
+  - [一番Get](https://ja.wikipedia.org/wiki/夕方ワイド新潟一番 "wikilink")\!
+    2017年3月3日の18:40-19:56の枠で[テレビ新潟と共同で番組を放送](../Page/テレビ新潟放送網.md "wikilink")。テレビ新潟のスタジオから[諸橋碧](https://ja.wikipedia.org/wiki/諸橋碧 "wikilink")と[堀敏彦](../Page/堀敏彦.md "wikilink")、[伊東陽司](https://ja.wikipedia.org/wiki/伊東陽司 "wikilink")と[内田有紗](https://ja.wikipedia.org/wiki/内田有紗 "wikilink")が出演。
+    2018年3月2日はテレビ信州のスタジオから松井美幸、諸橋碧、下嶋兄、寺島舞が出演。
+
+## 脚注
+
+## 外部リンク
+
+  - [ゆうがたGet\!](http://www.tsb.jp/u-get/index.html)
+
+  -
+[Category:テレビ信州番組](https://ja.wikipedia.org/wiki/Category:テレビ信州番組 "wikilink") [Category:関東・甲信越地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの帯番組 "wikilink") [Category:関東・甲信越地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの情報・ワイドショー番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組 "wikilink")
+
+1.
+2.
+3.  第2部冒頭で『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")・第2部』を臨時に冒頭部分ネットする場合を除く
+4.  2019年4月2日から。2018年4月4日 - 2019年3月28日までは水・木キャスター
+5.  リポーターも兼務
+6.  2019年4月4日からは木曜キャスターも担当。
+7.  以前は中継リポーター担当
+8.  1999年4月 - 2014年3月、2016年1月6日 - 2017年3月30日はメインキャスター
+9.  2008年10月から2014年3月まではコンビで月曜レギュラーだったが、2014年4月からは分離出演。
+10. 水曜(隔週) - 金曜メインキャスター兼務
+11. 2014年3月31日 - 2015年12月24日は 月 - 金のメインキャスター、2017年4月3日からは月 - 木のメインキャスター
+12.
+13.

@@ -1,0 +1,42 @@
+> この記事は[PCM](https://ja.wikipedia.org/wiki/PCM)から翻訳されています。
+
+
+**PCMジャズ喫茶**（ピーシーエムジャズきっさ）は、[ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink")の『122ch The Jazz』で隔週の土曜日に放送されている[トーク番組](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")である。2011年8月よりタイトルを『**ジャズ喫茶「MUSIC BIRD」**』（ジャズきっさ ミュージックバード）に変更した。PCM時代から既に10年を突破している[長寿番組](https://ja.wikipedia.org/wiki/長寿番組 "wikilink")である。
+
+## 概要
+
+1998年4月の放送開始当時は**『ブルーアンドセンチメンタル・PCMジャズ喫茶』**とのタイトルで放送されており、『PCMジャズ喫茶』は[サブタイトル](https://ja.wikipedia.org/wiki/サブタイトル "wikilink")扱いであったが、回数を重ねるたびにサブタイトルの『PCMジャズ喫茶』が定着し、番組タイトルとなった。
+
+[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[寺島靖国](../Page/寺島靖国.md "wikilink")で、当初は1人で放送していたが1998年5月23日の放送から[編集者](../Page/編集者.md "wikilink")の[安原顯](../Page/安原顯.md "wikilink")を迎えて以降、2002年まで**永世客人**として放送を続け、その後2003年にゲストのメンバーチェンジを行う。
+
+## パーソナリティ
+
+  - [寺島靖国](../Page/寺島靖国.md "wikilink")
+
+## 歴史
+
+  - 1998年4月、PCMの『The Jazz』で放送されていた**『辛口トークセッション』**に出演していた寺島が自身の番組を持つ形で『ブルーアンドセンチメンタル・PCMジャズ喫茶』のタイトルで放送を開始。
+  - 1998年5月23日、この日の放送から編集者の安原顯をゲストに迎え、以降永世客人として番組に出演する。
+  - 2002年11月30日、安原が癌の治療の影響により安原の自宅にて出前録音の内容を放送。この録音は翌12月14日の放送分も合わせて11月中に収録されるが、この後安原が入院をする。
+  - 2002年12月28日、この回の放送からゲストが変更し、[カメラマン](../Page/カメラマン.md "wikilink")の山本博道とジャズ[評論家](../Page/評論家.md "wikilink")の田中伊佐資の3人で放送を行う。
+  - 2003年1月25日のエンディングにて、1月20日の安原の死去が報告される。
+  - 2003年4月、この[クールから出前録音と題して全国の](https://ja.wikipedia.org/wiki/クール_\(放送\) "wikilink")[ジャズ喫茶](../Page/ジャズ喫茶.md "wikilink")や[ジャズ](../Page/ジャズ.md "wikilink")に関する施設に訪れて出前録音の内容が放送されるようになる。
+  - 2003年10月4日、この回からゲストが変更され、ジャズ評論家の[岩浪洋三](https://ja.wikipedia.org/wiki/岩浪洋三 "wikilink")と[オーディオ](https://ja.wikipedia.org/wiki/オーディオ "wikilink")評論家の長澤祥での3人で放送を開始。番組リニューアルに際して3人の年齢の合計から**「200歳トリオ」**と称して番組を進行。、ジャズ[ピアニスト](../Page/ピアニスト.md "wikilink")の[山中千尋](../Page/山中千尋.md "wikilink")、編集者でジャズ評論も行う高野雲、“普通のジャズファン”である人妻Aらをゲストに招き、敢えて違う世代や、ジャズ観の異なるゲストを迎え入れることにより、番組の活性化に力を入れる方向になってきている。
+  - 2008年春より、1時間の枠が2時間枠に延長された。
+  - 2008年5月30日、[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")にある[石丸電気](https://ja.wikipedia.org/wiki/石丸電気 "wikilink")の高級オーディオ専門店「レフィーロ・アンド・アネーロ」で[公開収録](https://ja.wikipedia.org/wiki/公開収録 "wikilink")を行った。ゲストは[オーディオマニア](https://ja.wikipedia.org/wiki/オーディオマニア "wikilink")で知られる三上剛志。（放送は08年12月）
+  - 2011年4月より安原の出演回を「PCMジャズ喫茶スーパーアーカイヴ」として放送。
+  - 2011年8月、タイトルを『ジャズ喫茶「MUSIC BIRD」』に変更し放送中
+
+## 放送局・ネット局
+
+いずれも隔週土曜日の14:00 - 16:00である（隔週のため、翌週は再放送となる。）。
+
+  - [ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink") 122ch 『The Jazz』
+  - [モバHO\!](../Page/モバHO!.md "wikilink") ch341 『The Jazz』（終了）
+  - [エフエム多摩G-WIND](../Page/エフエム多摩放送.md "wikilink")（2006年6月を以ってネット終了）
+
+## 外部リンク
+
+  - [ジャズ喫茶「MUSIC BIRD」 | MUSIC BIRD](http://musicbird.jp/programs/terashima/)
+
+[Category:ミュージックバードのラジオ番組](https://ja.wikipedia.org/wiki/Category:ミュージックバードのラジオ番組 "wikilink") [Category:ラジオのトーク番組](https://ja.wikipedia.org/wiki/Category:ラジオのトーク番組 "wikilink") [Category:1998年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のラジオ番組_\(日本\) "wikilink")

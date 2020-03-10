@@ -1,0 +1,449 @@
+> この記事は[NPB12](https://ja.wikipedia.org/wiki/NPB12)から翻訳されています。
+
+
+**NPB12球団ジュニアトーナメント**（NPB12きゅうだんジュニアトーナメント）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")より毎年12月下旬に、[日本野球機構](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")（NPB）及び同機構に属する[プロ野球](../Page/プロ野球.md "wikilink")12球団が主催する[少年野球](../Page/少年野球.md "wikilink")の大会である。[日能研](https://ja.wikipedia.org/wiki/日能研 "wikilink")特別協賛（第10回（2014年）までは[JX日鉱日石エネルギー特別協賛としてENEOS](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink") CUP）。
+
+12球団ごとに小学5 - 6年生を中心としたジュニアチームを結成。3チームずつ4グループに分かれてグループリーグを戦い、各1位の計4チームが決勝トーナメントに進出。王者を決める。後述するように、この大会からプロ野球に進んだ選手も存在している。 選手はプロ球団とほぼ同じ[ユニフォーム](../Page/ユニフォーム.md "wikilink")を着て試合をするが、ジュニアのユニフォームは各ジュニアチームの脇から横腹の辺りに太い線がある等若干の違いがある。また、選手のユニフォーム・ウインドブレーカーの左肩には特別協賛社のロゴマークが刺繍される。
+
+チームの監督は各球団に所属する少年野球担当のチームOBが務め、少年野球担当がいないチームは各球団が指名したチームOBが務める。
+
+会場は札幌もしくは福岡で開催されているが、2015年は札幌・福岡ともにコンサート設営・開催・撤去の関係上、宮崎市で開催された。
+
+## 各年度概要
+
+<table>
+<thead>
+<tr class="header">
+<th><p>回</p></th>
+<th><p>開催日</p></th>
+<th><p>球場</p></th>
+<th><p>優勝チーム</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第1回</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>12月27日 - 12月29日</p></td>
+<td><p><a href="../Page/福岡ドーム.md" title="wikilink">福岡ヤフードーム</a></p></td>
+<td><p>ヤクルトスワローズジュニア</p></td>
+</tr>
+<tr class="even">
+<td><p>第2回</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>12月26日 - 12月28日</p></td>
+<td><p>東北楽天ゴールデンイーグルスジュニア</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第3回</p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a>12月26日 - 12月28日</p></td>
+<td><p><a href="../Page/札幌ドーム.md" title="wikilink">札幌ドーム</a></p></td>
+<td><p>オリックス・バファローズジュニア</p></td>
+</tr>
+<tr class="even">
+<td><p>第4回</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a>12月26日 - 12月28日</p></td>
+<td><p>中日ドラゴンズジュニア</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第5回</p></td>
+<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a>12月25日 - 12月27日</p></td>
+<td><p>福岡ソフトバンクホークスジュニア</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第6回</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a>12月26日 - 12月28日</p></td>
+<td><p>福岡ヤフードーム</p></td>
+<td><p>千葉ロッテマリーンズジュニア</p></td>
+</tr>
+<tr class="odd">
+<td><p>第7回</p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a>12月27日 - 12月29日</p></td>
+<td><p>札幌ドーム</p></td>
+<td><p>北海道日本ハムファイターズジュニア</p></td>
+</tr>
+<tr class="even">
+<td><p>第8回</p></td>
+<td><p><a href="../Page/2012年.md" title="wikilink">2012年</a>12月26日 - 12月28日</p></td>
+<td><p>読売ジャイアンツジュニア</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第9回</p></td>
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a>12月27日 - 12月29日</p></td>
+<td><p>読売ジャイアンツジュニア</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第10回</p></td>
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a>12月28日 - 12月30日</p></td>
+<td><p>福岡ヤフオク！ドーム</p></td>
+<td><p>読売ジャイアンツジュニア</p></td>
+</tr>
+<tr class="odd">
+<td><p>第11回</p></td>
+<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a>12月27日 - 12月29日</p></td>
+<td><p><a href="../Page/宮崎県総合運動公園硬式野球場.md" title="wikilink">サンマリンスタジアム宮崎</a><br />
+<a href="https://ja.wikipedia.org/wiki/宮崎県総合運動公園第二硬式野球場" title="wikilink">KIRISHIMAひむかスタジアム</a></p></td>
+<td><p>中日ドラゴンズジュニア</p></td>
+</tr>
+<tr class="even">
+<td><p>第12回</p></td>
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a>12月27日 - 12月29日</p></td>
+<td><p>横浜DeNAベイスターズジュニア</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第13回</p></td>
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a>12月27日 - 12月29日</p></td>
+<td><p>札幌ドーム</p></td>
+<td><p>中日ドラゴンズジュニア[1]</p></td>
+</tr>
+<tr class="even">
+<td><p>第14回</p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a>12月27日 - 12月29日</p></td>
+<td><p>東北楽天ゴールデンイーグルスジュニア[2]</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 大会ルール
+
+  - 大会は3日間にわたる。
+  - 参加各チームが推薦・ないしは編成した小学校5年生・6年生のチームによる。
+  - 試合方法は当該年度の公認野球規則、[全日本軟式野球連盟](https://ja.wikipedia.org/wiki/全日本軟式野球連盟 "wikilink")競技者必携「学童野球に関する事項」を適用するが、一部大会特別ルールもある。
+  - 使用球は全日本軟式野球連盟公認J号軟式球。
+  - 試合は7イニングス。同点の場合の予選リーグは[延長戦](../Page/延長戦.md "wikilink")なし。準決勝に関しては1イニング（無死満塁からの特別延長戦を行い、それでも同点場合で決勝進出チームを決める。なお大会スケジュールの都合上時間制限や点数差が一定点広がった場合などに[コールドゲーム](../Page/コールドゲーム.md "wikilink")を適用する場合がある。
+  - 試合は12チームを3チームずつ4組に分け総当り1回の予選リーグを行い、その後各組1位の4チームによるトーナメントで優勝を決める。（2014年まではセ・リーグ6チームを3チームずつ2組、パ・リーグ6チームを3チームずつ2組に分けての総当り1回の予選リーグを行い、準決勝はセの予選リーグの1位同士、パの予選リーグの1位同士で行い勝者が決勝戦を行う方式だった。）
+  - [指名打者](../Page/指名打者.md "wikilink")制度は無し。
+
+## 各チームの監督
+
+各監督は現役時代と同じ背番号を使用するが、選手と重複する場合（1番から18番まで）でもその使用が認められている。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>回</p></th>
+<th><p><a href="../Page/北海道日本ハムファイターズ.md" title="wikilink">日本ハム</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス" title="wikilink">楽天</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/埼玉西武ライオンズ" title="wikilink">西武</a></p></th>
+<th><p><a href="../Page/千葉ロッテマリーンズ.md" title="wikilink">ロッテ</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/オリックス・バファローズ" title="wikilink">オリックス</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス" title="wikilink">ソフトバンク</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/読売ジャイアンツ" title="wikilink">巨人</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ" title="wikilink">ヤクルト</a></p></th>
+<th><p><a href="../Page/横浜DeNAベイスターズ.md" title="wikilink">横浜/<br />
+DeNA</a>[3]</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/中日ドラゴンズ" title="wikilink">中日</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/阪神タイガース" title="wikilink">阪神</a></p></th>
+<th><p><a href="../Page/広島東洋カープ.md" title="wikilink">広島</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p><a href="../Page/白井康勝.md" title="wikilink">白井康勝</a></p></td>
+<td><p><a href="../Page/松井優典.md" title="wikilink">松井優典</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/潮崎哲也" title="wikilink">潮崎哲也</a></p></td>
+<td><p><a href="../Page/初芝清.md" title="wikilink">初芝清</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ロベルト・バルボン" title="wikilink">ロベルト・バルボン</a></p></td>
+<td><p><a href="../Page/秋山幸二.md" title="wikilink">秋山幸二</a></p></td>
+<td><p><a href="../Page/篠塚和典.md" title="wikilink">篠塚和典</a></p></td>
+<td><p><a href="../Page/丸山完二.md" title="wikilink">丸山完二</a></p></td>
+<td><p><a href="../Page/平松政次.md" title="wikilink">平松政次</a></p></td>
+<td><p><a href="../Page/新宅洋志.md" title="wikilink">新宅洋志</a></p></td>
+<td><p><a href="../Page/石井晶.md" title="wikilink">石井晶</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/達川光男" title="wikilink">達川光男</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/安部理" title="wikilink">安部理</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高木大成" title="wikilink">高木大成</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/羽田耕一" title="wikilink">羽田耕一</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/田口昌徳" title="wikilink">田口昌徳</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高橋一三" title="wikilink">高橋一三</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/永尾泰憲" title="wikilink">永尾泰憲</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西田真二" title="wikilink">西田真二</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p><a href="../Page/永井智浩.md" title="wikilink">永井智浩</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中田良弘" title="wikilink">中田良弘</a></p></td>
+<td><p><a href="../Page/北別府学.md" title="wikilink">北別府学</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/益田大介" title="wikilink">益田大介</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/平井光親" title="wikilink">平井光親</a></p></td>
+<td><p>石井晶</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/松沼雅之" title="wikilink">松沼雅之</a></p></td>
+<td><p><a href="../Page/河埜和正.md" title="wikilink">河埜和正</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p><a href="../Page/藤田学_(野球).md" title="wikilink">藤田学</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高仁秀治" title="wikilink">高仁秀治</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大熊忠義" title="wikilink">大熊忠義</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p><a href="../Page/森範行.md" title="wikilink">森範行</a></p></td>
+<td><p><a href="../Page/沖原佳典.md" title="wikilink">沖原佳典</a></p></td>
+<td><p><a href="../Page/武藤一邦.md" title="wikilink">武藤一邦</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/亀山努" title="wikilink">亀山努</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p><a href="../Page/立石尚行.md" title="wikilink">立石尚行</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鷹野史寿" title="wikilink">鷹野史寿</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/岡村隆則" title="wikilink">岡村隆則</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/池田親興" title="wikilink">池田親興</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小山田保裕" title="wikilink">小山田保裕</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/音重鎮" title="wikilink">音重鎮</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山崎隆造" title="wikilink">山崎隆造</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/池田剛基" title="wikilink">池田剛基</a></p></td>
+<td><p><a href="../Page/山崎隆広.md" title="wikilink">山崎隆広</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鈴木尚典" title="wikilink">鈴木尚典</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/市川卓" title="wikilink">市川卓</a></p></td>
+<td><p><a href="../Page/塩川達也.md" title="wikilink">塩川達也</a></p></td>
+<td><p><a href="../Page/梶間健一.md" title="wikilink">梶間健一</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/前原博之" title="wikilink">前原博之</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/片岡篤史" title="wikilink">片岡篤史</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大久保勝信" title="wikilink">大久保勝信</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山内泰幸" title="wikilink">山内泰幸</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高口隆行" title="wikilink">高口隆行</a></p></td>
+<td><p>山崎隆広</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/馬原孝浩" title="wikilink">馬原孝浩</a></p></td>
+<td><p><a href="../Page/笹本信二.md" title="wikilink">笹本信二</a></p></td>
+<td><p><a href="../Page/湊川誠隆.md" title="wikilink">湊川誠隆</a></p></td>
+<td><p><a href="../Page/八木裕.md" title="wikilink">八木裕</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/牧野塁" title="wikilink">牧野塁</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/新垣渚" title="wikilink">新垣渚</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/川村丈夫" title="wikilink">川村丈夫</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p><a href="../Page/立石尚行.md" title="wikilink">立石尚行</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/星野智樹" title="wikilink">星野智樹</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/塀内久雄" title="wikilink">塀内久雄</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/塩崎真" title="wikilink">塩崎真</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/加藤健_(野球)" title="wikilink">加藤健</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/度会博文" title="wikilink">度会博文</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/加藤政義" title="wikilink">加藤政義</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/横山竜士" title="wikilink">横山竜士</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 賞品
+
+  - 優勝チームに優勝カップと金メダル、準優勝チームに準優勝カップと銀メダル、3位チーム（決定戦をしないため2チーム）には銅メダルを各々贈呈する。
+
+## 結果
+
+| 回  | 年度                                                      | 決勝戦                                                                 | ベスト4      |
+| -- | ------------------------------------------------------- | ------------------------------------------------------------------- | --------- |
+| 優勝 | 結果                                                      | 準優勝                                                                 |           |
+| 1  | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") | **[ヤクルト](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")**    | **3 - 2** |
+| 2  | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") | **[楽天](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")**   | **1 - 0** |
+| 3  | [2007年](../Page/2007年.md "wikilink")                    | **[オリックス](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")**  | **6 - 1** |
+| 4  | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") | **[中日](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")**          | **9 - 8** |
+| 5  | [2009年](../Page/2009年.md "wikilink")                    | **[ソフトバンク](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")** | **4 - 2** |
+| 6  | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") | **[ロッテ](../Page/千葉ロッテマリーンズ.md "wikilink")**                         | **8 - 2** |
+| 7  | [2011年](../Page/2011年.md "wikilink")                    | **[日本ハム](../Page/北海道日本ハムファイターズ.md "wikilink")**                     | **4 - 3** |
+| 8  | [2012年](../Page/2012年.md "wikilink")                    | **[巨人](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")**         | **5 - 3** |
+| 9  | [2013年](../Page/2013年.md "wikilink")                    | **[巨人](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")**         | **4 - 3** |
+| 10 | [2014年](../Page/2014年.md "wikilink")                    | **[巨人](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")**         | **4 - 3** |
+| 11 | [2015年](../Page/2015年.md "wikilink")                    | **[中日](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")**          | **4 - 0** |
+| 12 | [2016年](../Page/2016年.md "wikilink")                    | **[DeNA](../Page/横浜DeNAベイスターズ.md "wikilink")**                      | **6 - 4** |
+| 13 | [2017年](../Page/2017年.md "wikilink")                    | **[中日](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")**          | **1 - 0** |
+| 14 | [2018年](../Page/2018年.md "wikilink")                    | **[楽天](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")**   | **3 - 1** |
+
+## 放送について
+
+  - [J SPORTSで中継を行っているが](../Page/J_SPORTS.md "wikilink")、2008年大会までは現代の野球中継のスタイルにおいては珍しく、実況のみが中継に出演する形となっていた。
+
+## 主な出来事
+
+  - 2011年（第7回大会） - 予選リーグ・中日ジュニア対広島ジュニアの1回表、広島ジュニアの攻撃中に中日ジュニアの[新宅洋志](../Page/新宅洋志.md "wikilink")監督が「広島ジュニアが規定で禁止されているバットを使用している」と抗議。審判はそのバットを使用した打者をアウトにして試合再開としようとしたが新宅は「[没収試合](https://ja.wikipedia.org/wiki/没収試合 "wikilink")にすべきである」とこれに不服を唱え2時間以上に渡って試合は中断。結局翌日再試合を行なうこととなったが、再試合では広島ジュニアの[北別府学](../Page/北別府学.md "wikilink")監督が責任を取ってベンチ入りを辞退した。
+  - 2017年（第13回大会） - 西武ジュニアが女子選手（[投手](../Page/投手.md "wikilink")\[4\]）の蔵方菜央を[主将](https://ja.wikipedia.org/wiki/主将 "wikilink")に任命。これによりジュニアチーム初の女子主将が誕生\[5\]。
+
+## プロ指名された参加選手
+
+| 年度                                                      | 選手                                                    | 指名球団（指名順位）  | 出場チーム     | 出場年   |
+| ------------------------------------------------------- | ----------------------------------------------------- | ----------- | --------- | ----- |
+| 2011年                                                   | [高城俊人](https://ja.wikipedia.org/wiki/高城俊人 "wikilink") | 横浜（2巡）\[6\] | ソフトバンクJr. | 2005年 |
+| [近藤健介](https://ja.wikipedia.org/wiki/近藤健介 "wikilink")   | 日本ハム（4巡）                                              | ロッテJr.      | 2005年     |       |
+| [柿原翔樹](https://ja.wikipedia.org/wiki/柿原翔樹 "wikilink")   | オリックス（育2巡）                                            | ソフトバンクJr.   | 2005年     |       |
+| 2012年                                                   | [今井金太](https://ja.wikipedia.org/wiki/今井金太 "wikilink") | DeNA（育1巡）   | 広島Jr.     | 2006年 |
+| 2013年                                                   | [松井裕樹](https://ja.wikipedia.org/wiki/松井裕樹 "wikilink") | 楽天（1巡）      | 横浜Jr.     | 2007年 |
+| [森友哉](https://ja.wikipedia.org/wiki/森友哉 "wikilink")     | 西武（1巡）                                                | オリックスJr.    | 2007年     |       |
+| [田口麗斗](https://ja.wikipedia.org/wiki/田口麗斗 "wikilink")   | 巨人（3巡）                                                | 広島Jr.       | 2007年     |       |
+| [砂田毅樹](https://ja.wikipedia.org/wiki/砂田毅樹 "wikilink")   | DeNA（育1巡）                                             | 日本ハムJr.     | 2007年     |       |
+| 2014年                                                   | [小野郁](https://ja.wikipedia.org/wiki/小野郁 "wikilink")   | 楽天（2巡）      | ソフトバンクJr. | 2008年 |
+| [淺間大基](https://ja.wikipedia.org/wiki/淺間大基 "wikilink")   | 日本ハム（3巡）                                              | ヤクルトJr.     | 2008年     |       |
+| [香月一也](https://ja.wikipedia.org/wiki/香月一也 "wikilink")   | ロッテ（5巡）                                               | ソフトバンクJr.   | 2008年     |       |
+| [高濱祐仁](https://ja.wikipedia.org/wiki/高濱祐仁 "wikilink")   | 日本ハム（7巡）                                              | ソフトバンクJr.   | 2008年     |       |
+| [戸川大輔](https://ja.wikipedia.org/wiki/戸川大輔 "wikilink")   | 西武（育1巡）                                               | 日本ハムJr.     | 2008年     |       |
+| [木村聡司](https://ja.wikipedia.org/wiki/木村聡司 "wikilink")   | 広島（育2巡）                                               | 中日Jr.       | 2008年     |       |
+| 2015年                                                   | [高山俊](https://ja.wikipedia.org/wiki/高山俊 "wikilink")   | 阪神（1巡）      | ロッテJr.    | 2005年 |
+| [川越誠司](https://ja.wikipedia.org/wiki/川越誠司 "wikilink")   | 西武（2巡）                                                | 日本ハムJr.     | 2005年     |       |
+| [船越涼太](https://ja.wikipedia.org/wiki/船越涼太 "wikilink")   | 広島（4巡）                                                | ロッテJr.      | 2005年     |       |
+| [オコエ瑠偉](https://ja.wikipedia.org/wiki/オコエ瑠偉 "wikilink") | 楽天（1巡）                                                | 巨人Jr.       | 2009年     |       |
+| [網谷圭将](https://ja.wikipedia.org/wiki/網谷圭将 "wikilink")   | DeNA（育1巡）                                             | ロッテJr.      | 2009年     |       |
+| 2016年                                                   | [藤平尚真](https://ja.wikipedia.org/wiki/藤平尚真 "wikilink") | 楽天（1巡）\[7\] | ロッテJr.    | 2010年 |
+| [九鬼隆平](https://ja.wikipedia.org/wiki/九鬼隆平 "wikilink")   | ソフトバンク（3巡）                                            | オリックスJr.    | 2010年     |       |
+| [浜地真澄](https://ja.wikipedia.org/wiki/浜地真澄 "wikilink")   | 阪神(4巡)                                                | ソフトバンクJr.   | 2010年     |       |
+| [今井順之助](https://ja.wikipedia.org/wiki/今井順之助 "wikilink") | 日本ハム（9巡）                                              | 中日Jr.       | 2010年     |       |
+| 2017年                                                   | [安田尚憲](https://ja.wikipedia.org/wiki/安田尚憲 "wikilink") | ロッテ（1巡）     | 阪神Jr.     | 2011年 |
+| [櫻井周斗](https://ja.wikipedia.org/wiki/櫻井周斗 "wikilink")   | DeNA（5巡）                                              | ヤクルトJr.     | 2011年     |       |
+| [西浦颯大](https://ja.wikipedia.org/wiki/西浦颯大 "wikilink")   | オリックス（6巡）                                             | ソフトバンクJr.   | 2011年     |       |
+| [西巻賢二](https://ja.wikipedia.org/wiki/西巻賢二 "wikilink")   | 楽天（6巡）\[8\]                                           | 楽天Jr.       | 2011年     |       |
+| [楠本泰史](https://ja.wikipedia.org/wiki/楠本泰史 "wikilink")   | DeNA（8巡）                                              | 横浜Jr.       | 2007年     |       |
+| 2018年                                                   | [根尾昂](https://ja.wikipedia.org/wiki/根尾昂 "wikilink")   | 中日（1巡）      | 中日Jr.     | 2012年 |
+| [藤原恭大](https://ja.wikipedia.org/wiki/藤原恭大 "wikilink")   | ロッテ（1巡）                                               | オリックスJr.    | 2012年     |       |
+| [林晃汰](https://ja.wikipedia.org/wiki/林晃汰 "wikilink")     | 広島（3巡）                                                | 阪神Jr.       | 2012年     |       |
+| [石橋康太](https://ja.wikipedia.org/wiki/石橋康太 "wikilink")   | 中日（4巡）                                                | ロッテJr.      | 2012年     |       |
+| [田宮裕涼](https://ja.wikipedia.org/wiki/田宮裕涼 "wikilink")   | 日本ハム（6巡）                                              | ロッテJr.      | 2012年     |       |
+|                                                         |                                                       |             |           |       |
+
+\[9\]
+
+## 脚注
+
+## 外部リンク
+
+  - [NPB12球団ジュニアトーナメント](http://npb.jp/junior/)
+
+[Category:日本の少年野球](https://ja.wikipedia.org/wiki/Category:日本の少年野球 "wikilink") [Category:日本の軟式野球大会](https://ja.wikipedia.org/wiki/Category:日本の軟式野球大会 "wikilink") [Category:日本野球機構](https://ja.wikipedia.org/wiki/Category:日本野球機構 "wikilink") [Category:12月](https://ja.wikipedia.org/wiki/Category:12月 "wikilink")
+
+1.
+2.  [決勝トーナメント](http://npb.jp/junior/2018/scores_3.html)
+3.  2011年大会は球団譲渡に伴い、新球団名で参加。ユニホームは旧横浜時代のものを使用。
+4.
+5.
+6.  ドラフト会議時点では「DeNA」ではなく「横浜」（ドラフト翌月に球団譲渡）。
+7.
+8.
+9.

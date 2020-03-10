@@ -1,0 +1,246 @@
+> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Dポイント.jpg "wikilink") **dポイントクラブ**（ディーポイントクラブ、*d Point Club*）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")が提供している入会金・年会費無料のポイントプログラム\[1\]。法人向けの同様のサービスで[ドコモビジネスプレミアクラブ](https://ja.wikipedia.org/wiki/ドコモビジネスプレミアクラブ "wikilink")がある。以前の名称は**ドコモプレミアクラブ**（*docomo Premier Club*）だった。
+
+## 概要
+
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")11月にスタートした「**Club DoCoMo**」（クラブドコモ）が前身。当初は入会条件は無く、ポイントサービスもClub DoCoMo会員のみであった。会員証提示により提携店舗で割引等のサービスが受けられた。[2001年](../Page/2001年.md "wikilink")4月より同社の携帯電話の契約者全てを対象とした「ドコモポイントサービス」の開始にあたり、「1回線当たり直近2ヶ月の利用額が月額8,000円以上」もしくは「一括請求もしくは[ファミリー割引を利用していて](https://ja.wikipedia.org/wiki/家族割引サービス "wikilink")、5回線以上契約している」という入会条件ができた。差別化のため、ドコモポイントサービスでは「500ポイントで1,000円割引」だったのに対し、Club DoCoMoでは「500ポイントで2,000円割引」とした（ポイント付与条件はどちらも利用額100円毎に1ポイント）。[2004年](../Page/2004年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")より入会条件を撤廃の上、ドコモプレミアクラブとしてリニューアル。Club DoCoMo会員は原則としてドコモプレミアクラブ会員へと移行させた。ドコモのPC上のユーザーサイトである、[My docomoサイトから入会の申込や](https://ja.wikipedia.org/wiki/My_docomo "wikilink")、ポイントの確認ができる。
+
+[FOMA](../Page/FOMA.md "wikilink")、[Xi](https://ja.wikipedia.org/wiki/Xi_\(携帯電話\) "wikilink")、[ワイドスター](../Page/ワイドスター.md "wikilink")、[パケット通信](../Page/パケット通信.md "wikilink")の個人利用者が対象で、ポイント優遇や入会者限定サービスの提供を行っている。入会金・年会費は無料で、入会条件はない。入会は任意であるが、特に申し出がない限り、新規契約と同時に入会となっている場合が大半である。法人向けサービスに「ビジネスプレミアクラブ」というものもある。
+
+[2015年](../Page/2015年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に、ドコモポイントからdポイントへの改称に伴い、本サービスもdポイントクラブへ名称が変更。[インコ](https://ja.wikipedia.org/wiki/インコ "wikilink")（オウムという説もある\[2\]）の兄弟キャラクター「ポインコ」（声は[ロッチ](https://ja.wikipedia.org/wiki/ロッチ "wikilink")の2人）のみ、もしくは[中条あやみ](https://ja.wikipedia.org/wiki/中条あやみ "wikilink")、もしくはドコモの事を取材している記者役としてCM出演している人の内の誰かと共に出演する、dポイント・[dカード](https://ja.wikipedia.org/wiki/dカード "wikilink")のテレビCMシリーズも始まった\[3\]\[4\]。
+
+2016年6月10日に、本サービスで使用されるポイントカードが[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")に対応し、対応機器を設置した加盟店においては、スマートフォン等をかざすことでポイントの取得や利用が可能となった。おサイフケータイでポイントを取得した際には、「ピポ」というポイント取得音が鳴動する\[5\]。
+
+2019年7月29日から、訪日外国人や海外在住者にも登録対象を拡大した（後述の通り、既に一部の提携海外ポイント事業者との間では、ポイント相互交換を行っていた）。
+
+## dポイント
+
+旧称ドコモポイント。1ポイント1円（[消費税](../Page/消費税.md "wikilink")込）で換算し、100ポイント（108円）単位で携帯電話機や付属品の購入等に充当できる。会員は、各種商品（トラベルコース、エンターテイメントコース、グルメコース、リビンググッズコース、ドコモオリジナルコース）との交換もできる。
+
+会員は前年の利用実績に応じてステージポイント (SP) が付与され、年間累計SPで4月から翌年3月までのステージが決められ、利用額100円毎の付与率が決まる。2008年4月より、継続利用期間もステージ決定条件に加わった。2011年4月付与分からは、未入会及びプレミアステージ+αを除くすべてのステージのポイント数が変更になった\[6\]。
+
+2015年12月1日より、dポイントへと改称し、ドコモ以外の加盟店でも使える共通ポイントサービスへ衣替えした。dポイントクラブのステージは以下の通り\[7\]。
+
+| ステージ | ドコモ回線継続利用期間 | dポイント獲得数（6か月間累計）          |
+| ---- | ----------- | ------------------------- |
+| プラチナ | 15年以上       | 10,000dポイント以上             |
+| 4th  | 10年以上15年未満  | 3,000dポイント以上10,000dポイント未満 |
+| 3rd  | 8年以上10年未満   | 1,800dポイント以上3,000dポイント未満  |
+| 2nd  | 4年以上8年未満    | 600dポイント以上1,800dポイント未満    |
+| 1st  | 4年未満        | 600dポイント未満                |
+
+付与対象は基本料金・付加サービス利用料金・無料通話超過分で、[消費税](../Page/消費税.md "wikilink")・[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")情報料・各種手数料・支払延滞利息等は含まない。
+
+dポイントクラブサイトでアンケート（[モバイルリサーチ](https://ja.wikipedia.org/wiki/モバイルリサーチ "wikilink")・アンケート）に回答するとポイントが付与される。ポイントはアンケート毎に異なる。
+
+  - 調査サンプル対象となる会員を[プレミアパネル](https://ja.wikipedia.org/wiki/プレミアパネル "wikilink")と呼び、男女・年齢・地域などの切り口でセグメント化され、目的に合った調査が行える。
+  - dポイントクラブ利用規約第5条によると、「調査・分析の実施およびその結果に基づくご案内またはご提案」と表記があり、調査結果に基づいた最適な販売促進プロモーションが可能。
+
+各種クレジットカードやインターネットサイト等の提携企業で得たポイントを、dポイントに交換できる。交換率は提携企業により異なる。
+
+NTTドコモや提携企業の各種キャンペーンの参加等でポイントが付与される。提携企業では割引利用できる。
+
+新規契約年の12月までに各ステージ条件（1,000SP、1,500SP、2,500SP）に到達する毎に1,000ポイント付与される。
+
+  - 加盟店
+    （2019年11月26日時点）
+
+:\* [ローソン](../Page/ローソン.md "wikilink")
+
+:\* [日本マクドナルド](../Page/日本マクドナルド.md "wikilink")
+
+:\* [高島屋](../Page/高島屋.md "wikilink")
+
+:\* [BLUE SKY](https://ja.wikipedia.org/wiki/JALUX "wikilink")
+
+:\* [タワーレコード](../Page/タワーレコード.md "wikilink")
+
+:\* [丸善](https://ja.wikipedia.org/wiki/丸善 "wikilink")
+
+:\* [ジュンク堂書店](../Page/ジュンク堂書店.md "wikilink")
+
+:\* 伊達の牛たん本舗
+
+:\* [酒のやまや](https://ja.wikipedia.org/wiki/やまや "wikilink")
+
+:\* [イオンシネマ](https://ja.wikipedia.org/wiki/イオンエンターテイメント "wikilink")
+
+:\* [オリックスレンタカー](../Page/オリックスレンタカー.md "wikilink")
+
+:\* [AOKI](https://ja.wikipedia.org/wiki/AOKI "wikilink")
+
+:\* [アニメイト](https://ja.wikipedia.org/wiki/アニメイト "wikilink")（販売代理店である徳島店を除く）
+
+:\* [マツモトキヨシホールディングス](../Page/マツモトキヨシホールディングス.md "wikilink")
+
+:\* [クスリのアオキ](https://ja.wikipedia.org/wiki/クスリのアオキ "wikilink")
+
+:\* [メガネスーパー](https://ja.wikipedia.org/wiki/メガネスーパー "wikilink")
+
+:\* [ノジマ](../Page/ノジマ.md "wikilink") - ノジマモバイル会員のみ利用可能。
+
+:\* [上新電機](https://ja.wikipedia.org/wiki/上新電機 "wikilink") - ジョーシンカード会員のみ利用可能。ｄポイント付与分のジョーシンポイントが減算される。
+
+:\* [ペッパーフードサービス](../Page/ペッパーフードサービス.md "wikilink") - ただし、[いきなり\!ステーキ](https://ja.wikipedia.org/wiki/いきなり!ステーキ "wikilink")ではプラスチックカードが使えず、いきなり\!ステーキ公式アプリにdアカウントの登録が必要。
+
+:\* [サンマルクカフェ](https://ja.wikipedia.org/wiki/サンマルクカフェ "wikilink")
+
+:\* [かっぱ寿司](https://ja.wikipedia.org/wiki/かっぱ寿司 "wikilink")
+
+:\* [東急ハンズ](../Page/東急ハンズ.md "wikilink")
+
+:\* [ライフコーポレーション](../Page/ライフコーポレーション.md "wikilink")
+
+:\* [中日本高速道路](https://ja.wikipedia.org/wiki/中日本高速道路 "wikilink") - 管内のサービスエリア・パーキングエリア。
+
+:\* [フジ・コーポレーション](https://ja.wikipedia.org/wiki/フジ・コーポレーション "wikilink")
+
+:\* [クリエイト・レストランツ・ホールディングス](../Page/クリエイト・レストランツ・ホールディングス.md "wikilink")
+
+:\* [チムニー (居酒屋)](../Page/チムニー_\(居酒屋\).md "wikilink")
+
+:\* [エディオン](https://ja.wikipedia.org/wiki/エディオン "wikilink")
+
+:\* [サッカーショップ加茂](https://ja.wikipedia.org/wiki/サッカーショップ加茂 "wikilink")
+
+:\* [つるやゴルフ](https://ja.wikipedia.org/wiki/つるやゴルフ "wikilink")
+
+:\* [ドトールコーヒーショップ](../Page/ドトールコーヒーショップ.md "wikilink")・[エクセルシオールカフェ](https://ja.wikipedia.org/wiki/エクセルシオールカフェ "wikilink")
+
+:\* [ゼンショー](../Page/ゼンショー.md "wikilink")ホールディングス（ただし「ココス」はファイブスターが運営する店舗は利用不可）
+
+:\* [ユーシーシーフードサービスシステムズ](https://ja.wikipedia.org/wiki/ユーシーシーフードサービスシステムズ "wikilink")
+
+:\* [ABCクッキングスタジオ](../Page/ABCクッキングスタジオ.md "wikilink") - プラスチックカード限定。モバイルdポイントカード非対応。
+
+:\* [ミスタードーナツ](https://ja.wikipedia.org/wiki/ミスタードーナツ "wikilink")
+
+:\* [ファミリーマート](../Page/ファミリーマート.md "wikilink")
+
+:\* 他
+
+  - 加盟予定店
+    海外提携ポイント
+
+:\* [L.POINT](https://ja.wikipedia.org/wiki/ロッテグループ "wikilink") - 韓国内のLポイント加盟店で利用するには、dポイントクラブアプリに設定が必要。
+
+:\*  - 台湾内のHAPPYGO加盟店で利用するには、dポイントクラブアプリに設定が必要。
+
+## d払い
+
+ドコモが2018年（平成30年）4月から開始した[QR・バーコード決済](https://ja.wikipedia.org/wiki/QR・バーコード決済 "wikilink")サービスである。[iDとの違いはdポイントとリンクしており](https://ja.wikipedia.org/wiki/iD_\(クレジット決済サービス\) "wikilink")、ネット利用では税込100円ごと、実店舗では税込200円ごとにポイントが付与される。決済は、携帯電話料金との合算払いのほかに、クレジットカード決済がある\[8\]。
+
+## 長期利用特典
+
+ステージ決定条件に継続利用期間が標準採用されたことにより、以下のサービスが終了となった。
+
+  - 6年以上継続利用
+
+<!-- end list -->
+
+  - サンクスポイントとして500ポイント付与（2006年度まで）
+  - 年3回行われる[懸賞](../Page/懸賞.md "wikilink")「PRIME6」の応募資格が得られる（2007年度）
+
+<!-- end list -->
+
+  - 10年以上継続利用
+
+<!-- end list -->
+
+  - 「PRIME6」の当選確率が2倍となる（2007年度）
+  - 継続して前年度のステージが保障され、利用額低下によるステージダウンがなくなる（2007年度まで）
+
+## 安心サポート
+
+  - 修理代金安心サポート
+    購入後3年間は修理代金の上限が5,250円になる（バッテリー内蔵機種の交換代金は対象外のため全額実費）。
+  - [ケータイ補償お届けサービス](https://ja.wikipedia.org/wiki/ケータイ補償お届けサービス "wikilink")
+    端末が修理不能な状態（全損・水没等）となった場合、最大8,400円の支払いで同一・同色機種の端末を配送する。端末購入より14日以内に申込が必要で、月額294円または399円。
+  - トラブル時購入サポート
+    ケータイ補償お届けサービス非加入者が修理不能となった場合、通常の販売価格より割引（NTTドコモに販売履歴がある（正規販売店で購入した）端末に限られる）。
+  - 故障修理無料サービス
+    自然故障は3年間無料で修理。
+  - 電池パック無料サービス
+    同一端末を2年以上利用すると、無料で新しい電池パックか補助充電アダプタ 01が提供される。[mova](https://ja.wikipedia.org/wiki/mova "wikilink")は2008年12月1日より対象外となった。
+  - FOMA電池パック500ポイント交換サービス
+    同一端末を1年以上2年未満利用すると、500ポイントで新しい電池パックか補助充電アダプタ 01が提供される。プレミアステージ対象者は無料。
+
+### メーカーブランド安心サービス
+
+安心サポートは[BlackBerry 8707hや](https://ja.wikipedia.org/wiki/BlackBerry_8707h "wikilink")[hTc Zなどのメーカーブランドは対象外となるが](https://ja.wikipedia.org/wiki/hTc_Z "wikilink")、代わりに、メーカーブランド端末あんしんサービスといった端末のサポートがある。ドコモショップの店頭ではなく、サポートセンターへ電話し、センドバック方式の保守となる。
+
+  - 修理代金安心サポート
+    購入後3年間は修理代金の上限が5,250円になる。
+  - 無料故障修理サービス
+    自然故障は3年間無料で修理。
+
+## ドコモカード
+
+NTTドコモがクレジットカード各社と提携したドコモカードを発行していた。**「「ドコモプレミアクラブ」と「クレジット機能」がひとつになった」**と案内されており、上記に加えて更なるサービスを受けることができた。
+
+[2007年](../Page/2007年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")をもって新規会員受付を終了。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")以降、順次「ドコモカード」の更新を停止し、サービスを廃止した\[9\]。
+
+  - 年会費の永年無料 - [ジェーシービー](../Page/ジェーシービー.md "wikilink")、[UFJカード](https://ja.wikipedia.org/wiki/UFJカード "wikilink")、[DCカード](../Page/DCカード.md "wikilink")、[NICOS](https://ja.wikipedia.org/wiki/NICOS "wikilink")、[クレディセゾン](../Page/クレディセゾン.md "wikilink")
+
+<!-- end list -->
+
+  -
+    ※ゴールドカード、セゾン・[アメリカン・エキスプレス](../Page/アメリカン・エキスプレス.md "wikilink")を除く
+
+<!-- end list -->
+
+  - 年会費の初年度無料 - [ユーシーカード](https://ja.wikipedia.org/wiki/ユーシーカード "wikilink")、[三井住友カード](../Page/三井住友カード.md "wikilink")、[NTTファイナンス](https://ja.wikipedia.org/wiki/NTTファイナンス "wikilink")
+
+<!-- end list -->
+
+  -
+    ※ゴールドカードを除く
+
+<!-- end list -->
+
+  - ドコモプレミアクラブのステージのワンランクアップ
+
+<!-- end list -->
+
+  -
+    ※プレミアステージ資格者の場合は1,000ポイント付与
+
+<!-- end list -->
+
+  - カード利用額に応じたドコモポイント付与
+  - ドコモカードDEケータイ補償 - 故障・修理時に10,000円まで補償
+
+<!-- end list -->
+
+  -
+    ※プレミアクラブ安心サポートと重複して適用できる
+
+何れも携帯電話料金の支払いをドコモカードで登録している場合に適用となった（ドコモカードDEケータイ補償は、加えて補償超過代金をドコモカードで支払う場合に適用）
+
+## 関連項目
+
+  - [dカード](https://ja.wikipedia.org/wiki/dカード "wikilink") - NTTドコモ本体が発行する[クレジットカード](../Page/クレジットカード.md "wikilink")。旧称DCMX。利用額に応じてドコモポイントが付与される。カードブランドは[VISA](https://ja.wikipedia.org/wiki/VISA "wikilink")、[マスターカード](../Page/マスターカード.md "wikilink")の2種類から選択可能。
+  - [SURUGA VISAデビットカード](../Page/SURUGA_VISAデビットカード.md "wikilink") - [スルガ銀行](../Page/スルガ銀行.md "wikilink")株式会社が発行する[デビットカード](../Page/デビットカード.md "wikilink")。「ネットバンク支店ドコモプレミアクラブ応援バンク」では、VISA決済年間利用額、銀行サービスの契約状況（定期預金の預け入れ金額や公共料金自動引き落とし件数等）に応じてドコモポイントが付与される。
+  - [My docomo](https://ja.wikipedia.org/wiki/My_docomo "wikilink") -ポイントの利用確認、プラン変更、電池交換の申込等ができる
+  - [ビジネスプレミアクラブ](https://ja.wikipedia.org/wiki/ビジネスプレミアクラブ "wikilink") - 法人向けのプレミアクラブ、[ビジネスmopera安心マネージャー](https://ja.wikipedia.org/wiki/ビジネスmopera安心マネージャー "wikilink")や、[ご利用料金管理サービス](https://ja.wikipedia.org/wiki/ご利用料金管理サービス "wikilink")といった、法人向けのサービスも受けることができる。
+
+## 脚注
+
+## 外部リンク
+
+  - [d POINT CLUB](https://dpoint.jp/ctrw/web/index.html)
+  - [dカード｜ドコモのクレジットカード](http://d-card.jp/st/)
+
+[Category:ポイントカード](https://ja.wikipedia.org/wiki/Category:ポイントカード "wikilink") [Category:携帯電話_(NTTドコモ)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(NTTドコモ\) "wikilink") [Category:携帯電話の料金システム](https://ja.wikipedia.org/wiki/Category:携帯電話の料金システム "wikilink")
+
+1.  [dポイントクラブ](https://www.nttdocomo.co.jp/support/dpoint/) NTTドコモ公式サイト、2015年12月4日閲覧。
+2.  [ポインコの世界を覗いてみよう\! ポインコの物語](https://www.nttdocomo.co.jp/special_contents/poinco/story.html) - NTTドコモ
+3.
+4.  \[<https://www.massnavi.com/2017/zukan/news/20161205_004989.html> 神谷佳成監督が語るディレクター道「『1億人がドカンと沸く』 それが CMの快感」\] - AdverTimes ブレーン編集部 2016.12.05掲載
+5.  <https://www.nttdocomo.co.jp/info/news_release/2016/06/08_00.html>
+6.  [ドコモからのお知らせ：ドコモプレミアクラブ／ドコモビジネスプレミアクラブのサービス改定について｜お知らせ｜NTTドコモ](http://www.nttdocomo.co.jp/info/notice/page/101019_00.html#p03)
+7.  [dポイントクラブのステージとは｜d POINT CLUB](https://dpoint.jp/ctrw/web/information/stage_info.html)
+8.
+9.  [ドコモからのお知らせ：ドコモカード更新停止のお知らせ｜お知らせ｜NTTドコモ](http://www.nttdocomo.co.jp/info/notice/page/080701_01_m.html)（停止時期はカード会社によって異なる。）

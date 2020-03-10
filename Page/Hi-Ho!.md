@@ -1,0 +1,107 @@
+> この記事は[Hi-Ho!](https://ja.wikipedia.org/wiki/Hi-Ho!)から翻訳されています。
+
+
+『**Hi-Ho\!**』（ハイホー）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで、[テレビ西日本](../Page/テレビ西日本.md "wikilink")（TNC）で[日曜](../Page/日曜日.md "wikilink") 11:00 - 11:50に放送していた[公開](https://ja.wikipedia.org/wiki/公開放送 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
+
+2年目の1999年4月4日から2000年3月26日までは『**Hi-Ho\!<sup>2</sup>**』（ハイホーハイホー）。3年目の2000年4月2日以降は『**Hi-Ho\!<sup>3</sup>**』（ハイホーハイホーハイホー）と題して放送されていた。
+
+## 概要
+
+TNCの第1スタジオに観客を入れての公開[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")を行っていた。1997年3月まで同枠で放送されていた『[とことんサンデー](https://ja.wikipedia.org/wiki/とことんサンデー "wikilink")』や深夜番組『[Doの夜はとことん](https://ja.wikipedia.org/wiki/Doの夜はとことん "wikilink")』と同じく、[福岡吉本のタレントによるバラエティ番組](https://ja.wikipedia.org/wiki/吉本興業福岡支社 "wikilink")。
+
+視聴者ターゲットの年齢層も『とことんサンデー』時代と同様に、中学生と高校生を主とした。
+
+## 出演者
+
+### MC
+
+  - 鶴屋華丸・亀屋大吉（後の[博多華丸・大吉](https://ja.wikipedia.org/wiki/博多華丸・大吉 "wikilink")）
+  - [大藤真紀](https://ja.wikipedia.org/wiki/大藤真紀 "wikilink") - 『Hi-Ho\!』時代に出演。
+  - 双子姉妹ミレイ・リサ - 『Hi-Ho\!<sup>2</sup>』および『Hi-Ho\!<sup>3</sup>』に出演。
+
+### スタジオレギュラー
+
+  - [ケン坊田中](https://ja.wikipedia.org/wiki/ケン坊田中 "wikilink")
+  - [おタコ・プー](https://ja.wikipedia.org/wiki/プー&ムー "wikilink")
+  - [パタパタママ](https://ja.wikipedia.org/wiki/パタパタママ_\(お笑いコンビ\) "wikilink")
+  - [つだつよし](https://ja.wikipedia.org/wiki/つだつよし "wikilink")
+
+### なんでもやるっ隊
+
+  - モンスターズ（[赤峯康一](https://ja.wikipedia.org/wiki/どんぴしゃ "wikilink")・[テツオ](https://ja.wikipedia.org/wiki/パンクブーブー "wikilink")）
+  - [ドリアンズ](https://ja.wikipedia.org/wiki/どりあんず "wikilink")
+  - ダンクス
+
+### ナレーター
+
+  - [F.King Toggy](https://ja.wikipedia.org/wiki/F.King_Toggy "wikilink")
+  - 石原佳代子
+
+## 主なコーナー
+
+### Hi-Ho\!時代
+
+  - 中継コーナー
+    つだつよしが毎回ラガーマン姿で担当。多くは[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")内の団地で中継していた。団地の住人に珍しい写真や物を持ってきてもらい、一番良かった人に近所にある寿司屋のお食事券をプレゼントしていた。
+  - 顔だけW杯日本代表を探せ\!
+    当時の[ワールドカップ](../Page/ワールドカップ.md "wikilink")日本代表選手に似た顔の一般人を募集・紹介するコーナー。日本対アルゼンチン戦当日に皆を集めてテレビの前で応援した。ロケ担当はケン坊で[岡田武史](../Page/岡田武史.md "wikilink")のマネ、スタジオでの進行は華丸で[川平慈英](../Page/川平慈英.md "wikilink")のマネをしていた。
+  - 嗚呼\!高校青春日記
+    実在する高校の生徒になりきった華丸・ケン坊のコント。毎回学校付近で収録していた（小倉駅高校はパタパタママのコント）。
+      - [福岡大学附属大濠高等学校](https://ja.wikipedia.org/wiki/福岡大学附属大濠高等学校 "wikilink")
+        華丸のあだ名は「岡ちゃん」、ケン坊は「ケン」。2人とも[博多弁](../Page/博多弁.md "wikilink")を多用する。2人ともこの高校の卒業生である。
+      - [西南学院高等学校](https://ja.wikipedia.org/wiki/西南学院中学校・高等学校 "wikilink")
+        華丸は「ベルボトム」、ケン坊は最初は「ビンテージ」だったが、あだ名が毎回代わった（田中、メットなど）。ベルボトムはサーフボードを傘代わりにする。また、mono magazine、シティ情報ふくおか、聖書を同時に読みながら登校することがあった。
+      - [福岡県立修猷館高等学校](https://ja.wikipedia.org/wiki/福岡県立修猷館高等学校 "wikilink")
+        華丸は「大蔵省」、ケン坊は「官房長官」。会話は敬語を使う。
+      - 小倉駅高等学校
+        架空の高校。2人とも小倉弁を使い、福岡市の事をライバル視している。ちなみに、小倉駅高校の前に[東福岡高等学校](https://ja.wikipedia.org/wiki/東福岡高等学校 "wikilink")のコントをしていたのだが、スタジオでの評判が悪く変更された。
+  - おタコルーレット
+    おタコ・プーのコントコーナー。
+  - ドリアンズバス停10000個の旅\!
+    お笑いコンビのドリアンズ（現・[どりあんず](https://ja.wikipedia.org/wiki/どりあんず "wikilink")）が福岡から出発し、バスを乗り継いで10000個のバス停まで乗りつづけていく旅。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")で折り返し、[下関市](../Page/下関市.md "wikilink")の御裳川（みもすそがわ）バス停が10000個目のバス停となった。
+  - にわかニュース
+    福岡で活躍するタレントの最新情報を紹介。ニュースとはいっても内容は、[川上泰生](../Page/川上泰生.md "wikilink")が9時59分に喫茶店にいた、[中村基樹](../Page/中村基樹.md "wikilink")が写真展を開催したというような些細なものであった。コーナー進行は華丸。
+  - 昆虫奮戦記
+    パタパタママ木下が、この当時から人気があった『[ポケットモンスター](https://ja.wikipedia.org/wiki/ポケットモンスター "wikilink")』にちなみ、151種類の[昆虫](../Page/昆虫.md "wikilink")の写真を撮るコーナー。
+  - 下プル
+    ギターを弾けるパタパタママ下畑のヴォーカルを探す[オーディション](../Page/オーディション.md "wikilink")企画。『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』を意識した内容で、ナレーションは華丸が川平慈英のマネで担当していた。
+
+### Hi-Ho\!<sup>2</sup>時代
+
+  - エステティックプー
+    毎回番組に送られてきた写真に、おタコ・プーが油性ペンで「美しくする」と称して落書きしていくコーナー。
+  - 華ちゃんタクシー
+    華丸がタクシーの運転手、ケン坊が乗客になってのコント。ケン坊が言った目的地とは全く違う所に連れて行かれる。タクシーであるにも関わらず何故かサンルーフ付きの[ミニバン](../Page/ミニバン.md "wikilink")であることを毎週のように大吉からツッコまれていた。高校生青春日記の「官房長官」らしき人物が乗ってきたこともあった。
+  - 中学3年必見\!\!
+    福岡県内の高校の[学食メニューや名物](https://ja.wikipedia.org/wiki/学生食堂 "wikilink")[先生を紹介する](../Page/教員.md "wikilink")。
+  - 勝ち抜きマイキャラ王選手権
+    視聴者からFAXオリジナルキャラクターを募集し、紹介していく。
+  - なんでもやるっ隊
+    モンスターズ、ドリアンズ、ダンクスの3組の若手お笑いコンビがいろいろな事に挑戦するコーナー。その中でも、ダンクスが[プロボクサー](../Page/プロボクサー.md "wikilink")に挑戦するコーナーが盛り上がりを見せた。
+  - 喜跡体験アンビリバボ
+    大吉とパタパタママが研究員となり、視聴者から寄せられた謎の生物を調査する。オープニング映像にはタイトルにちなんで[バボちゃん](https://ja.wikipedia.org/wiki/バボちゃん "wikilink")が映し出されていた。
+  - 福岡CMアカデミー大賞
+    福岡ローカルで放送されている、面白い地方[CMの中からナンバーワンを決める](../Page/コマーシャルメッセージ.md "wikilink")。[村上ショージ](https://ja.wikipedia.org/wiki/村上ショージ "wikilink")が出演していた「焼肉のひかり」、[ばってん荒川](https://ja.wikipedia.org/wiki/ばってん荒川 "wikilink")が出演していた「辛子明太のまるいち」などがノミネートされる中、一位に輝いたのは「[中洲](../Page/中洲.md "wikilink")の玉屋質店」のCMで、CM出演者が番組にゲスト出演した。
+
+### Hi-Ho\!<sup>3</sup>時代
+
+  - カウントダウンプー
+    おタコ・プーが[DJになり](../Page/ディスクジョッキー.md "wikilink")、[CDのランキングを紹介する](../Page/コンパクトディスク.md "wikilink")。
+  - ニュースプー
+    おタコ・プーが[ニュースキャスター](../Page/ニュースキャスター.md "wikilink")になり、CDのランキングを紹介する。
+  - おでかけTRY
+    観光地などでつだつよしがラガーマン姿でトライをするだけのコーナー。
+  - missケータイ
+    番組スポンサーであるJ-PHONE（現・[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）とコラボレートした、一般女性の友人紹介コーナー。
+  - おいでよ\!しもはたマウス
+    パタパタママ下畑がネズミのキャラクター「しもはたマウス」になり、幼稚園や保育園を訪れていたコーナー。コーナーのラストでは「しもはたマウスのテーマ」をBGMに全員で踊っていた。
+
+## 備考
+
+  - 番組生放送の終了後、スタジオではほぼ毎回オリジナルグッズが貰えるジャンケン大会が行われていた。
+  - また、番組生放送の終了後、楽屋で『[パネルクイズアタック25](https://ja.wikipedia.org/wiki/パネルクイズアタック25 "wikilink")』を毎週見ていたことが華丸の[児玉清](../Page/児玉清.md "wikilink")のものまねのきっかけとなった。
+  - 1999年12月25日放送の『[めちゃ<sup>2</sup>イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink") 日本一周仕事の旅』で、[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")一行がTNCを訪れた際にHi-Ho\!のプロデューサーに会い、[中居正広](../Page/中居正広.md "wikilink")の営業を行った。なお、翌日の『Hi-Ho\!』では大吉が「ナイナイのお二人も中居君も出てきません」と断りを入れていた。
+  - 2000年度は華丸が[吉本新喜劇](https://ja.wikipedia.org/wiki/吉本新喜劇 "wikilink")にレギュラー出演することになり、月に1回番組を休んでいた。
+  - 番組終了後の同枠は、深夜番組『ぷるんぷるん』から派生した『ぷるんアラ・モード』（開始半年後より[三村マサカズ](https://ja.wikipedia.org/wiki/三村マサカズ "wikilink")が司会として出演）に移行したが、福岡吉本のタレント総出演によるTNCの番組としては、1年後の2002年4月から月曜19時枠で放送を開始した『ふとっぱら』に移行した。
+
+[Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:テレビ西日本の番組](https://ja.wikipedia.org/wiki/Category:テレビ西日本の番組 "wikilink") [Category:九州・沖縄地方のテレビのバラエティ番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのバラエティ番組 "wikilink")

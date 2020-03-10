@@ -1,0 +1,117 @@
+> この記事は[Dicot](https://ja.wikipedia.org/wiki/Dicot)から翻訳されています。
+
+
+**dicot**（ディコット）は、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身の女性2人組ガールポップデュオ。2001年[SMEレコーズよりメジャーデビュー](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。2004年解散。ユニット名は「双葉」という意味。
+
+## 概要
+
+1997年福岡県にある福岡女学院に入学後のバーベキューパーティで知り合い、高校時代にバンドを組んでいた「かな」と一緒にカラオケに行き「オーディションを受けよう」と誘われ結成。
+
+博多を中心に路上ライブを行いつつオリジナル曲の作成を行なう。
+
+2000年にインディーズにてdicotをリリース。
+
+2001年SMEレコーズよりメジャーデビュー。
+
+2004年3月31日にdicotの解散を発表。
+
+## メンバー
+
+  - しの
+  - [かな](https://ja.wikipedia.org/wiki/かな_\(歌手\) "wikilink")
+
+## ディスコグラフィー
+
+### シングル
+
+1.  ア★イ★ツ（2001年4月25日）オリコン91位
+    1.  ア★イ★ツ\[3:25\]（作詞・作曲：かな／編曲：野山昭雄）
+          - テレビ東京系アニメ[超GALS\!寿蘭オープニングテーマ](https://ja.wikipedia.org/wiki/GALS! "wikilink")/「[全国農業協同組合連合会](../Page/全国農業協同組合連合会.md "wikilink")」CMソング
+    2.  えら呼吸\[3:52\]
+    3.  春黄色の中で\[3:32\]
+    4.  ア★イ★ツ (カラオケ)\[3:21\]
+2.  ハッカドロップ（2001年7月4日）
+    1.  ハッカドロップ\[2:42\]（作詞・作曲：かな／編曲：野山昭雄）
+    2.  ハッカドロップ(少林寺拳法バージョン)\[2:29\]
+    3.  7月20日の空の下の僕の気持ち～そして丘の上のキラリと輝く星を見てあなたはどう思うカシラ?～\[3:49\]（作詞：かな／作曲：しの／編曲：野山昭雄）
+    4.  ハッカドロップ（カラオケ）\[2:39\]
+3.  一人ぼっち（2002年2月27日）
+    1.  一人ぽっち\[3:42\]（作詞・作曲：かな／編曲：野山昭雄）
+    2.  無添加のアウストラロピテクス\[3:35\]（作詞・作曲：かな／編曲：野山昭雄）
+    3.  弱虫\[3:36\]（作詞・作曲：しの／編曲：野山昭雄）
+4.  二十五回目の夏（2002年8月21日）
+    1.  二十五回目の夏\[3:54\]（作詞：dicot／作曲：[杉真理](https://ja.wikipedia.org/wiki/杉真理 "wikilink")／編曲：[石川鉄男](https://ja.wikipedia.org/wiki/石川鉄男 "wikilink")）
+    2.  とある昼下がり\[4:01\]（作詞・作曲：しの／編曲：百石元）
+    3.  休みなさいっと…\[4:21\]（作詞：かな／作曲：かな・百石元／編曲：百石元）
+    4.  二十五回目の夏（カラオケ）\[3:54\]
+5.  [太陽がくれた季節](../Page/太陽がくれた季節.md "wikilink")/[あの素晴らしい愛をもう一度](https://ja.wikipedia.org/wiki/あの素晴らしい愛をもう一度 "wikilink")（[青い三角定規](https://ja.wikipedia.org/wiki/青い三角定規 "wikilink")/[ザ・フォーク・クルセダーズ](https://ja.wikipedia.org/wiki/ザ・フォーク・クルセダーズ "wikilink")をパンクカバー　2003年5月21日/2004年7月7日）
+    1.  太陽がくれた季節\[2:56\]（作詞：[山川啓介](../Page/山川啓介.md "wikilink")／作曲：[いずみたく](https://ja.wikipedia.org/wiki/いずみたく "wikilink")／編曲：[本間昭光](../Page/本間昭光.md "wikilink")）
+          - [MBS](../Page/毎日放送.md "wikilink"),[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")放映[選抜高等学校野球大会](https://ja.wikipedia.org/wiki/選抜高等学校野球大会 "wikilink")ダイジェスト番組「[みんなの甲子園](../Page/みんなの甲子園.md "wikilink")」主題歌＆CM入り[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")。
+    2.  あの素晴らしい愛をもう一度\[3:53\]（作詞：[北山修](../Page/北山修.md "wikilink")／作曲：[加藤和彦](../Page/加藤和彦.md "wikilink")／編曲：本間昭光）
+          - MBS「みんなの甲子園」の挿入歌、この二曲は当初番組オリジナル曲扱い
+
+### アルバム
+
+1.  dicot（2000年2月15日）インディーズミニアルバム
+    1.  凸凹の人生（作詞：はやせかな／作曲：はやせかな）
+    2.  はっか（作詞：はやせかな／作曲：はやせかな）
+    3.  駅長おすすめの唄（作詞：むらせしの／作曲：むらせしの）
+    4.  貧（作詞：はやせかな／作曲：はやせかな）
+    5.  たまねぎ（作詞：はやせかな／作曲：おかむらよしなり）
+2.  明日に向かっていきましょう（2003年9月10日）オリコン292位
+    1.  ア★イ★ツ(Album Mix) （作詞・作曲：かな／編曲：野山昭雄）
+    2.  太陽がくれた季節（作詞：山川啓介／作曲：いずみたく／編曲：本間昭光）
+    3.  一人ぼっち（作詞・作曲：かな／編曲：野山昭雄）
+    4.  I am 果汁が100%（作詞：dicotとファン／作曲：しの／編曲：本間昭光）
+    5.  ハッカドロップ（作詞・作曲：かな／編曲：野山昭雄）
+    6.  めめしくて（作詞・作曲：しの／編曲：野山昭雄）
+    7.  明日に向かっていきましょう（作詞：dicot／作曲：しの／編曲：野山昭雄）
+    8.  喧嘩上等（作詞・作曲：かな／編曲：野山昭雄）
+    9.  二十五回目の夏（作詞：dicot／作曲：杉真理／編曲：石川鉄男）
+    10. あの素晴らしい愛をもう一度（作詞：北山修／作曲：加藤和彦／編曲：本間昭光）
+    11. よろしく（作詞・作曲：しの／編曲：野山昭雄）
+    12. サルの恋心(Live Version) （作詞・作曲：かな）
+
+## 出演
+
+### テレビ番組
+
+  - [パパパパPUFFY](https://ja.wikipedia.org/wiki/パパパパPUFFY "wikilink")(2001年8月8日/2001年8月15日)
+  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")(2001年5月14日/2001年7月23日)
+  - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")(2001年5月18日)
+  - [WEST21](https://ja.wikipedia.org/wiki/WEST21 "wikilink")
+  - [音楽職業案内所ドレかむ](https://ja.wikipedia.org/wiki/音楽職業案内所ドレかむ "wikilink")(2003年8月14日)
+  - [Girl Pop Factory](https://ja.wikipedia.org/wiki/Girl_Pop_Factory "wikilink")(2003年8月4日)
+  - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")(2003年5月24日)
+
+### ラジオ
+
+  - dicotの電光鉄火\!?（2000年 - 2001年9月30日、[エフエム福岡](../Page/エフエム福岡.md "wikilink")）
+  - dicotのトンコ・チック・ラジオ(2001年10月1日- 2003年3月25日、[ベイエフエム](../Page/ベイエフエム.md "wikilink")/[兵庫エフエム放送](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink"))
+  - [魁\!\!ランディーズ](../Page/魁!!ランディーズ.md "wikilink")(レギュラー、[ABCラジオ](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink"))
+
+### インターネット
+
+  - ふたば・すてえしょん(隔週水曜日21:00 - 21:30)
+
+### CM
+
+  - 麻生情報ビジネス専門学校CM（凸凹の人生）
+
+### 参加作品
+
+1.  Girls Style Vol.1 -21st century ニューパワー編-（2001年09月19日）
+      -
+        11.ア★イ★ツ
+
+## 関連項目
+
+  - [GALS\!](https://ja.wikipedia.org/wiki/GALS! "wikilink")
+  - [GIRL POP FACTORY](https://ja.wikipedia.org/wiki/GIRL_POP_FACTORY "wikilink")
+  - [本間昭光](../Page/本間昭光.md "wikilink")
+
+## 外部リンク
+
+  - [公式サイト](http://www.sonymusic.co.jp/Music/Info/dicot/)
+
+[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")

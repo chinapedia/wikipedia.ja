@@ -1,0 +1,99 @@
+> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+
+
+『**スパルタンX**』（スパルタンエックス、原題：**快餐車**、英題：*Wheels on Meals*）は、[1984年に公開された](https://ja.wikipedia.org/wiki/1984年の映画 "wikilink")[香港映画](https://ja.wikipedia.org/wiki/香港映画 "wikilink")。[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")主演、[サモ・ハン・キンポー](https://ja.wikipedia.org/wiki/サモ・ハン・キンポー "wikilink")監督作品。
+
+## 概要
+
+[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バルセロナ](../Page/バルセロナ.md "wikilink")を舞台に、[ワゴンカー](https://ja.wikipedia.org/wiki/三菱・デリカ "wikilink")「スパルタン号」による[軽食](../Page/軽食.md "wikilink")販売で生計を立てるトーマス（ジャッキー・チェン）、デヴィッド（[ユン・ピョウ](https://ja.wikipedia.org/wiki/ユン・ピョウ "wikilink")）の二人と、探偵モビー（[サモ・ハン・キンポー](https://ja.wikipedia.org/wiki/サモ・ハン・キンポー "wikilink")）が謎の集団に誘拐されたシルヴィア（ローラ・フォルネル）を助けだそうとするコメディ調の[カンフー](https://ja.wikipedia.org/wiki/カンフー "wikilink")[アクション映画](../Page/アクション映画.md "wikilink")である。
+
+ジャッキーと元[アメリカンキックボクシング世界王者](https://ja.wikipedia.org/wiki/世界キックボクシング協会_\(WKA\) "wikilink")[ベニー・ユキーデ](../Page/ベニー・ユキーデ.md "wikilink")の対決シーンが特に有名で、ジャッキー自身が選ぶ「ファイティング・トップ10」においてこのシーンを堂々の1位に挙げているほか、ベニーとジャッキーが再戦した「[サイクロンZ](https://ja.wikipedia.org/wiki/サイクロンZ_\(映画\) "wikilink")」における対決を同ランキングの第5位に挙げている\[1\]。
+
+他のジャッキー・チェン作品と同様、現在は[21世紀フォックス](https://ja.wikipedia.org/wiki/21世紀フォックス "wikilink")傘下の[スターTV→フォーチュンスターメディアに著作権が移動している](https://ja.wikipedia.org/wiki/スター_\(衛星放送\) "wikilink")。
+
+## あらすじ
+
+スペインのバルセロナ。パン屋の2階に下宿する、カンフーの達人トーマス（ジャッキー・チェン）といとこのデヴィッド（ユン・ピョウ）は、街の公園広場に移動販売車"スパルタン号"を停めファーストフード店を営んでいた。そんな2人のもとにある日、怪しい男たちに追われる謎の美女シルヴィア（ローラ・フォルネル）が助けを求めて逃げ込んでくる。友人のヘボ探偵モビー（サモ・ハン・キンポー）の手を借り、実はシルヴィアが伯爵の娘で、彼女の遺産を狙う伯爵の弟が一味の黒幕だと知ったトーマスたち。だが度重なる激しい襲撃に、ついにシルヴィアがさらわれてしまう。3人は彼女を助けるため、最強の戦闘集団と壮絶な肉弾戦を繰り広げる。
+
+## キャスト
+
+| 役名         | 俳優                                                                | 日本語版1                                                      | 日本語版2                                                   |
+| ---------- | ----------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------- |
+| トーマス       | [ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")                      | [石丸博也](https://ja.wikipedia.org/wiki/石丸博也 "wikilink")      |                                                         |
+| デヴィッド      | [ユン・ピョウ](https://ja.wikipedia.org/wiki/ユン・ピョウ "wikilink")         | [古谷徹](../Page/古谷徹.md "wikilink")                           |                                                         |
+| モビー        | [サモ・ハン・キンポー](https://ja.wikipedia.org/wiki/サモ・ハン・キンポー "wikilink") | [水島裕](https://ja.wikipedia.org/wiki/水島裕_\(声優\) "wikilink") |                                                         |
+| シルヴィア      | ローラ・フォルネル                                                         | [土井美加](https://ja.wikipedia.org/wiki/土井美加 "wikilink")      | [園崎未恵](https://ja.wikipedia.org/wiki/園崎未恵 "wikilink")   |
+| デヴィッドの父    | ポール・チャン                                                           | [原田一夫](../Page/原田一夫.md "wikilink")                         | [牛山茂](https://ja.wikipedia.org/wiki/牛山茂 "wikilink")     |
+| モンデール伯爵    | ペペ・サンチョ                                                           | [納谷六朗](../Page/納谷六朗.md "wikilink")                         | [大塚芳忠](https://ja.wikipedia.org/wiki/大塚芳忠 "wikilink")   |
+| 伯爵家の執事     | ハーバード・エデルマン                                                       | [大木民夫](https://ja.wikipedia.org/wiki/大木民夫 "wikilink")      | [野島昭生](../Page/野島昭生.md "wikilink")                      |
+| アメリカン・ギャング | [ベニー・ユキーデ](../Page/ベニー・ユキーデ.md "wikilink")                        | [大滝進矢](https://ja.wikipedia.org/wiki/大滝進矢 "wikilink")      | [小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink")   |
+| フレンチ・ギャング  | キース・ヴィタリ                                                          | [田原アルノ](https://ja.wikipedia.org/wiki/田原アルノ "wikilink")    |                                                         |
+| マット        | [ハーブ・エデルマン](https://ja.wikipedia.org/wiki/ハーブ・エデルマン "wikilink")   | [嶋俊介](https://ja.wikipedia.org/wiki/嶋俊介 "wikilink")        | [岡哲也](https://ja.wikipedia.org/wiki/岡哲也 "wikilink")     |
+| ディノ        | ジョセフ・ルイス・フォノル                                                     | [小島敏彦](../Page/小島敏彦.md "wikilink")                         | [岩崎ひろし](https://ja.wikipedia.org/wiki/岩崎ひろし "wikilink") |
+| 患者         | [リチャード・ン](https://ja.wikipedia.org/wiki/リチャード・ン "wikilink")       |                                                            | [斎藤志郎](https://ja.wikipedia.org/wiki/斎藤志郎 "wikilink")   |
+| 患者         | ジョン・シャム                                                           |                                                            |                                                         |
+
+  - 日本語版1 - 初放送1987年1月10日 [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink") 『[ゴールデン洋画劇場](https://ja.wikipedia.org/wiki/ゴールデン洋画劇場 "wikilink")』（BD収録）演出：壺井正、翻訳：[額田やえ子](../Page/額田やえ子.md "wikilink")、調整：飯塚秀保、効果：スリーサウンド、制作：グロービジョン、解説：[高島忠夫](https://ja.wikipedia.org/wiki/高島忠夫 "wikilink")
+  - 日本語版2 - BD\&DVD（日本語吹替収録版）演出：[市来満](https://ja.wikipedia.org/wiki/市来満 "wikilink")
+
+## スタッフ
+
+  - 監督：サモ・ハン・キンポー
+  - 脚本：エドワード・タン、ジョニー・リー
+  - 製作：レナード・ホー
+  - 製作総指揮：レイモンド・チョウ
+  - 武術指導：マース、ベニー・ライ、チン・カーロック、ダニー・チョウ、カー・リー
+  - 製作会社：ゴールデン・ハーベスト、嘉峰電影
+
+## 日本公開版
+
+東宝東和が配給した日本公開版は、英語音声にキース・モリソン（木森敏之）の日本オリジナル曲、及び主題歌「SPARTAN X」を編入し、エンドタイトルロールにもNGシーンが流れる独自仕様で公開された。このバージョンは初ビデオ化となった東和ビデオ・LD版にも使用されていたが、東和の権利が消滅した後、ポニーキャニオン再発売ビデオ版（及びTV放送版）から以後発売されたソフトは、主に広東語オリジナル音源の香港版が収録されるようになっていた\[2\]。
+
+その後、2012年にパラマウントから発売されたブルーレイソフトに、日本公開版と同じ英語音声（スパイク版と同じ）と、その英語音声を元にした新録版の日本語吹き替えを収録。更に、映像特典としてEDにNGシーンが流れる日本公開版を復刻収録（東和LDからダビング収録）され、「SPARTAN X」の流れるバージョンが再び日本の正規ソフトとして発売されるに至った。
+
+2014年には日本公開時フィルムより全編HDテレシネの“日本公開版本編”が収録されたエクストリーム・エディションが発売された。2012年版ではあくまで特典扱いだったためか復刻といいながらタイトル及びEDのみの差し替えだった日本公開版が本当の公開時のままの状態でHD収録されている。
+
+  - SPARTAN X
+
+<!-- end list -->
+
+  -
+    日本版主題歌は[プロレスラー](../Page/プロレスラー.md "wikilink")の[三沢光晴](../Page/三沢光晴.md "wikilink")の入場テーマ曲として知られていた。[全日本プロレス](../Page/全日本プロレス.md "wikilink")所属時代から20年近く使用し、全日本時代は原曲のまま使用していたが、2000年8月の[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")旗揚げ時から2009年2月までは前奏にピアノの旋律を加えてアレンジしたものを使用し、2009年3月には新たなバージョンを使用していた。また、1980年代中盤には[上田馬之助の入場テーマ曲としても使用されていた](https://ja.wikipedia.org/wiki/上田馬之助_\(プロレスラー\) "wikilink")。[プロ野球](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")ではチャンステーマとして使用されており、高校野球においてもヒッティングマーチに採用する高校も存在する。
+
+## 作品解説
+
+  - 撮影はスペインのバルセロナを中心に、ヨーロッパでのオールロケで行われ、半年の期間を要した。しかし2ヶ月間滞在してから撮影を開始したため、実質の撮影期間は4ヶ月間だった。主演のジャッキー・チェンはバルセロナに5ヶ月間滞在した\[3\]。
+  - ユン・ピョウは本作で初めてスケートボードに乗ることになり、撮影の合間に日本人コーチから指導を受けた。
+  - ペペ・サンチョ扮する伯爵のフェンシング対決ではユン・ピョウがスタントを務めた。
+  - カーチェイスシーンは「[007](https://ja.wikipedia.org/wiki/007 "wikilink")」シリーズにも出演したカースタント専門のドライバーをヨーロッパ中から召集した。
+  - 当初、本作の英語のタイトルは「Meals On Wheels」だったが、配給ゴールデン・ハーベストの『Megaforce（メガフォース）』と『Menage A Trios』が失敗に終わったばかりで、両作どちらもタイトルが「M」で始まっていたため、縁起を担いで"Meals"と"Wheels"を逆にして「Wheels On Meals」とした。
+  - 当時のジャッキーは1980年頃から愛用している[アディダス](https://ja.wikipedia.org/wiki/アディダス "wikilink")のマジックテープ式スニーカーを履くことが多かった。この靴を含む数足を、このときも香港から持ちこんでいる。本作の撮影中、ジャッキーは20足前後の靴に囲まれて生活していたのだった\[4\]。
+
+## ビデオゲーム版
+
+  - アーケードゲーム
+      -
+        [1984年](../Page/1984年.md "wikilink")に稼働開始した、[アイレム](https://ja.wikipedia.org/wiki/アイレム "wikilink")の横スクロールアクションゲーム。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")版が発売。
+
+<!-- end list -->
+
+  - PCゲーム
+      -
+        『ジャッキー・チェンのスパルタンX』というタイトルで、[PONYCAレーベルより発売](../Page/ポニーキャニオン.md "wikilink")。[PC-8801/8801mkII版](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink")、[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")版などが発売された。
+
+## 脚注
+
+## 外部リンク
+
+  -
+  -
+  -
+  -
+  -
+  -
+[Category:香港のアクション映画](https://ja.wikipedia.org/wiki/Category:香港のアクション映画 "wikilink") [Category:1984年の映画](https://ja.wikipedia.org/wiki/Category:1984年の映画 "wikilink") [Category:バルセロナを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:バルセロナを舞台とした映画作品 "wikilink") [Category:サモ・ハン・キンポーの監督映画](https://ja.wikipedia.org/wiki/Category:サモ・ハン・キンポーの監督映画 "wikilink")
+
+1.  『I AM JACKIE CHAN―僕はジャッキー・チェン 初めて語られる香港帝王の素顔』 近代映画社
+2.  スパイクから発売されたDVDには、英語音声が収録されたが、元となる映像は香港版のためEDのNGシーンは無い。
+3.  サモ・ハン・キンポーのインタビューより。
+4.

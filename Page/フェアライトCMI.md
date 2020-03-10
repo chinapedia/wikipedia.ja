@@ -1,0 +1,42 @@
+> この記事は[CMI](https://ja.wikipedia.org/wiki/CMI)から翻訳されています。
+
+
+[200px](https://ja.wikipedia.org/wiki/画像:Fairlight.JPG "wikilink") [200px](https://ja.wikipedia.org/wiki/画像:Fairlight_CMI.jpg "wikilink")\]\] **フェアライトCMI**（Fairlight CMI）は、[オーストラリア](../Page/オーストラリア.md "wikilink")の[フェアライト](https://ja.wikipedia.org/wiki/フェアライト "wikilink")社が[1979年](../Page/1979年.md "wikilink")に発表、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に発売した[電子楽器](../Page/電子楽器.md "wikilink")（[シンセサイザー](../Page/シンセサイザー.md "wikilink")）。CMIは「Computer Musical Instrument」の略。
+
+## 概要
+
+### 時代背景
+
+[1980年代](../Page/1980年代.md "wikilink")初頭より、音楽製作の場において[デジタル](../Page/デジタル.md "wikilink")技術や[コンピューター](https://ja.wikipedia.org/wiki/コンピューター "wikilink")技術の導入が盛んに行われるようになった。その大きな流れの先頭にあったのがフェアライト社が開発したフェアライトCMIと、ニューイングランドデジタル社が開発した[シンクラヴィア](https://ja.wikipedia.org/wiki/シンクラヴィア "wikilink")である。両者は単なる個別の機材のデジタル化を超え、音楽制作のワークフローを1台で完結する[DAWの先駆けとなる](https://ja.wikipedia.org/wiki/デジタル・オーディオ・ワークステーション "wikilink")[システム](../Page/システム.md "wikilink")として開発され、開発当時としては最も高度かつ高価な機材であった。このような統合型の機材は、多額の制作費が掛けられる一流のアーティストや制作会社が中心となって使用していたようである。21世紀を志した非常に先進的なコンセプトで開発されていたが、1980年代末より音に暖かみのあるアナログ制作機材を再評価する動きが世界的に顕在化したことと、[KORGの](https://ja.wikipedia.org/wiki/コルグ "wikilink")[M1や](https://ja.wikipedia.org/wiki/コルグ・Mシリーズ "wikilink")[AKAIの](../Page/赤井電機.md "wikilink")[MPCシリーズ等のコストパフォーマンスの高い](https://ja.wikipedia.org/wiki/AKAI_professional "wikilink")[PCM音源](../Page/PCM音源.md "wikilink")や[サンプラー](../Page/サンプラー.md "wikilink")が普及し始めたことで、音楽制作におけるポジションを急速に失って行った。
+
+### 歴史
+
+フェアライトCMIは当時大学生だった、キム・ライリーとピーター・ヴォーゲルの二人によって発明された。後にライリーはフェアライト社を設立する。基本システムは[OS-9](../Page/OS-9.md "wikilink")、CPUは[モトローラ](../Page/モトローラ.md "wikilink")の[6800](../Page/MC6800.md "wikilink")（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")発売のシリーズIIxからは[6809](../Page/MC6809.md "wikilink")）を2つ使用していた。[サンプラー](../Page/サンプラー.md "wikilink")と倍音加算方式[シンセサイザー](../Page/シンセサイザー.md "wikilink")（最大同時発音数は8音）、簡易[シーケンサー機能を有しており](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、[CRT画面に](../Page/ブラウン管.md "wikilink")[ライトペン](../Page/ライトペン.md "wikilink")を当てて[波形](../Page/波形.md "wikilink")を直接書き込むことができるなど、ユニークな機能を有していた。これらの機能は現在の[DTMのベースとされている](../Page/デスクトップミュージック.md "wikilink")。また、英文[ワープロとしても使用できた](../Page/ワードプロセッサ.md "wikilink")。
+
+サンプリングの性能はシリーズIの場合、サンプリング分解能が8ビット、サンプリング周波数が最大30.2kHzと、現在のサンプラーと比較すると低いものであるが、[アート・オブ・ノイズ](https://ja.wikipedia.org/wiki/アート・オブ・ノイズ "wikilink")はそれを逆手にとって独特の音を作り出していた。CMIによる代表的なサウンドセットとして「[オーケストラル・ヒット](https://ja.wikipedia.org/wiki/オーケストラル・ヒット "wikilink")」と呼ばれる音色が存在する。これは、管楽器を含むオーケストラの全パートが主音程をヒットさせるアンサンブルの再現であるが、実際には電子楽器を得意とする数々の[音楽家](https://ja.wikipedia.org/wiki/音楽家 "wikilink")や[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")が楽曲に使用して広く普及した。現在では1980年代の録音作品を中心にその音色を確認できるほか、多くのシンセサイザーのプリセットとして定着する形で類似した波形が組み込まれている。
+
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に発売されたシリーズIIIではサンプリング分解能を16ビット、サンプリング周波数を44.1kHz（最高で100kHzまで可能）と、[CD-DA](../Page/CD-DA.md "wikilink")並みに向上させた。
+
+日本で最初に同機を購入したのは、[安西史孝](https://ja.wikipedia.org/wiki/安西史孝 "wikilink")(1958年11月16日～)率いる[TPO](https://ja.wikipedia.org/wiki/TPO "wikilink")で、シドニーのフェアライト社まで直接買い付けに行ったという（日本搬入時、税関に本機を「楽器」と説明するのに大変苦労したという逸話がある）。その当時のヴァージョンはまだシリーズIで、同機の売りの一つである簡易シーケンサー・ページRはまだなかった。フェアライトCMIをメインの楽器に据えたTPOは、同じくフェアライトCMIをメインの楽器に据えたバンドである[アート・オブ・ノイズ](https://ja.wikipedia.org/wiki/アート・オブ・ノイズ "wikilink")のデビューよりも1年早い[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")にデビューアルバムであるTPO1を発売した。
+
+日本で輸入販売が始まったのは[1982年](../Page/1982年.md "wikilink")発売のシリーズIIからで、[松下電器貿易が輸入を](https://ja.wikipedia.org/wiki/パナソニック "wikilink")、販売は大阪のナニワ楽器（現[イーフロンティア](../Page/イーフロンティア.md "wikilink")）が担当していた。発売当時の価格は1200万円。世界中のプロミュージシャンたちがこぞってフェアライトCMIを購入し、フェアライト社はオーストラリア政府の全面バックアップのもと隆盛を極めていた。しかし、時代が進むにつれ高音質のサンプラーや[PCM音源](../Page/PCM音源.md "wikilink")のシンセサイザー、PCを使用した高機能の[MIDI](../Page/MIDI.md "wikilink")シーケンサー、[ProTools](https://ja.wikipedia.org/wiki/ProTools "wikilink")をはじめとする[デジタルオーディオワークステーション](https://ja.wikipedia.org/wiki/デジタルオーディオワークステーション "wikilink")といったコストパフォーマンスに勝る電子楽器に取って代わられることになる。フェアライトCMIは8ビットサンプリング、2基の8インチディスクドライブを搭載。重さは本体が約30kg、他にグリーン・モニターと入力用のアルファ・ニューメリックキーボード、そして専用キーボードが付属されていた。84年末頃からMIDI改造版（改造費に約100万円必要）に対応してからは、一部のユーザーは付属の専用キーボードを使用しなくなり、DX-7などで対応し始めた。但しローランド製のキーボードをマスター・キーボードにすると、ローランド社のキーノートオフの設定がYAMAHA製と逆設定だったため、キーON時（鍵盤を押すタイミングのこと）に音が出ず、キーOFF時（鍵盤を離すタイミングのこと）に音が出るというクセがあった。このクセは、CMIの最後のページに隠されていた外部使用キーボードの会社名の設定を変更することで対応が可能だったが、この使用方法は当時でもかなりマニアックな方法であった。2基のディスク・ドライブの内1基はOS用、ドライブ2は、サンプルのデータ保存用だった。内部メモリーは一時的なデータ貯蔵のみ。30.2kHzのサンプリング周波数レートだったため、設計上の実行音声周波数レートとしては16kHz程度であるが、実際には高域感はなく、中・低域に特徴のあるサンプリングマシーンだった。しかし、特徴的な音質だったので、後発機器では再現の出来ない音圧があった。また初期はモノラルサンプリングで、ステレオサンプリングはフェアライトⅢからだった。フェアライトCMIは音声出力としてモノアウト1個と、8個の単独音声出力を装備。各単独音声出力はモノフォニックだった。フェアライトⅢからはステレオ出力と16個の単独音声出力が装備されていた。またCMIの特徴として、PAGE-7の音声EDIT内にサンプリング・マシーンとしては異例のポルタメント機能が装備されており、サザンオールスターズの『[KAMAKURA](https://ja.wikipedia.org/wiki/KAMAKURA "wikilink")』の１曲目の「Computer Children」内の間奏ブレーク部分でオケ全体をサンプリングしたポルタメント演奏を聞くことが出来る。
+
+日本人アーティストで所有していたのは千葉県の[ローカルタレント](https://ja.wikipedia.org/wiki/ローカルタレント "wikilink")の[ジャガー](https://ja.wikipedia.org/wiki/ジャガー_\(ローカルタレント\) "wikilink")、[東海林修](https://ja.wikipedia.org/wiki/東海林修 "wikilink")、[加藤和彦](../Page/加藤和彦.md "wikilink")、[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")、[鈴木康博](https://ja.wikipedia.org/wiki/鈴木康博 "wikilink")、[冨田勲](../Page/冨田勲.md "wikilink")、[坂本龍一](../Page/坂本龍一.md "wikilink")、[岩崎工](https://ja.wikipedia.org/wiki/岩崎工 "wikilink")、[天野正道](https://ja.wikipedia.org/wiki/天野正道 "wikilink")、[久石譲](../Page/久石譲.md "wikilink")、[東祥高](https://ja.wikipedia.org/wiki/東祥高 "wikilink")、[船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")、[小久保隆](https://ja.wikipedia.org/wiki/小久保隆 "wikilink")、[矢島賢](../Page/矢島賢.md "wikilink")、[吉川洋一郎](https://ja.wikipedia.org/wiki/吉川洋一郎 "wikilink")、[PSY・S](https://ja.wikipedia.org/wiki/PSY・S "wikilink")の[松浦雅也](../Page/松浦雅也.md "wikilink")など。他にはビデオプロダクションの音楽、効果音用として[アド・ビデオ北海道](https://ja.wikipedia.org/wiki/アド・ビデオ北海道 "wikilink")、[日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")[芸術学部](https://ja.wikipedia.org/wiki/芸術学部 "wikilink")、コンピュータースクールの[メロン](../Page/メロン.md "wikilink")、御徒町CMSスタジオが所有していたことがある。
+
+例として、安西が音楽を手がけた映画「[うる星やつら オンリー・ユー](https://ja.wikipedia.org/wiki/うる星やつら_オンリー・ユー "wikilink")」、久石が音楽を手がけた映画「[風の谷のナウシカ](https://ja.wikipedia.org/wiki/風の谷のナウシカ_\(映画\) "wikilink")」や「[天空の城ラピュタ](../Page/天空の城ラピュタ.md "wikilink")」、坂本の『[音楽図鑑](https://ja.wikipedia.org/wiki/音楽図鑑 "wikilink")』、『[未来派野郎](https://ja.wikipedia.org/wiki/未来派野郎 "wikilink")』、[サザンオールスターズの](https://ja.wikipedia.org/wiki/Southern_All_Stars "wikilink")『[KAMAKURA](https://ja.wikipedia.org/wiki/KAMAKURA "wikilink")』に多用されている。シンセプログラマーでは、[藤井丈司](https://ja.wikipedia.org/wiki/藤井丈司 "wikilink")や[関島雅樹](https://ja.wikipedia.org/wiki/関島雅樹 "wikilink")など坂本所属のヨロシタミュージック一派がレコーディングスタジオを中心に使用していた。坂本は1986年中盤からフェアライトCMIの後継機であるフェアライトⅢに使用を切り替え始めたが、[AKAI製のサンプラーが登場し始めた頃からポジションを失い始めた](https://ja.wikipedia.org/wiki/AKAI_professional "wikilink")。いずれにしても80年代から90年代初頭にかけて全盛期を誇った。
+
+[2011年](../Page/2011年.md "wikilink")のWinter [NAMM](https://ja.wikipedia.org/wiki/NAMM "wikilink")において、ヴォーゲルは[2009年](../Page/2009年.md "wikilink")に自ら設立したFairlight Instruments社から「Fairlight CMI-30A 30th Anniversary Edition」を発表した。システムとしてはオリジナルと違い[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink") PCベースであるが、その分パワーは現代の技術に沿ったものとなっている。[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")を使用し、テンキーがあった場所には[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")のスペースが設けられており、波形編集が可能。最大同時発音数は24音で、シーケンサーは24トラック仕様となっている。その一方で、オリジナルのフェアライト独特のサウンドも出せる様に、わざとスペックを下げて使用する事も可能になっている。また筐体もオリジナルをかなり忠実に再現している。但し本製品は100台のみの限定生産である。価格は20,000[オーストラリアドル](https://ja.wikipedia.org/wiki/オーストラリアドル "wikilink")（165万円前後）。
+
+同時にヴォーゲルは、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")及び[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")用アプリ版フェアライトCMI「Fairlight for iPhone/iPad」も開発しており、2011年3月にリリースされた。通常版とプロ版がある。このアプリは、ヴォーゲルが社名をPeter Vogel Instrumentsと改めたのに伴い、[2012年](../Page/2012年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")のアップデートを以て「Peter Vogel CMI」と改名された。
+
+## 参考文献
+
+  - 田中雄二『電子音楽 in JAPAN』[アスペクト](../Page/アスペクト_\(企業\).md "wikilink")、2001年
+
+## 外部リンク
+
+  - [フェアライトジャパン](http://www.fairlight.co.jp/top.html)
+  - [フェアライトの復刻版 Fairlight CMI-30A、さらにiPad/iPhoneアプリも近日リリース予定](http://sothis.blog.so-net.ne.jp/2011-01-20)
+  - [Peter Vogel CMI for iPhone/iPad](http://itunes.apple.com/jp/app/fairlight/id420212505?mt=8)
+
+[Category:電子楽器](https://ja.wikipedia.org/wiki/Category:電子楽器 "wikilink") [Category:鍵盤楽器](https://ja.wikipedia.org/wiki/Category:鍵盤楽器 "wikilink") [Category:シンセサイザー](https://ja.wikipedia.org/wiki/Category:シンセサイザー "wikilink")

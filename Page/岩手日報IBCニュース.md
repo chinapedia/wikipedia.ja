@@ -1,0 +1,168 @@
+> この記事は[IBC](https://ja.wikipedia.org/wiki/IBC)から翻訳されています。
+
+
+『**岩手日報IBCニュース**』（いわてにっぽうアイビーシーニュース）は、[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")における[ラジオ](../Page/ラジオ.md "wikilink")・[テレビ](../Page/テレビ.md "wikilink")ニュースの名称である。かつては『**岩手日報ニュース**』（いわてにっぽうニュース）の名称を使用していた。
+
+## 概要
+
+同社が[岩手県](../Page/岩手県.md "wikilink")を代表する[地方紙](https://ja.wikipedia.org/wiki/地方紙 "wikilink")『[岩手日報](https://ja.wikipedia.org/wiki/岩手日報 "wikilink")』との関係が特に強いことからこの名がつけられている。あくまで名称のみで、岩手日報は番組制作に深く関与しているわけではない。[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")の『[東奥日報ニュース](https://ja.wikipedia.org/wiki/東奥日報ニュース "wikilink")』などと同様、テレビ版はローカルニュースのみであるが、ラジオ版は全国ニュースも織り交ぜて放送している。
+
+### テレビ版
+
+定時放送時のテーマ曲は、歴代通して同局で夕方放送の『[IBCニュースエコー](https://ja.wikipedia.org/wiki/IBCニュースエコー "wikilink")』（以下、『Nエコー』）の短縮版もしくはアレンジ版が用いられており\[1\]、同番組のリニューアルと連動してタイトルバックとともに改変されることが通例となっている。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月の[地上デジタル放送開始に伴う](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")『Nエコー』の改変以後、長らくタイトルバックとテーマ曲の改変が行われていなかったが、[2013年](../Page/2013年.md "wikilink")春、6年半ぶりに改変が行われたほか、14時台に[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月に廃枠となった平日午後の放送が3年ぶりに復活した（復活当初は月曜 - 木曜だったが、15時台移動の際に金曜の放送も復活した）。
+
+現在『Nエコー』とはスタジオおよびセットが異なるものの\[2\]、以前はセットを共用していたため、この番組の時だけ背後に『**IBC NEWS**』などと描かれた[衝立](https://ja.wikipedia.org/wiki/衝立 "wikilink")を置いて差別化していた\[3\]。また元来、番組内の見出しテロップのフォーマットはIBC独自のものを長らく使っていたが、[2009年](../Page/2009年.md "wikilink")春の改編からは全面的に[TBSと同様のテロップフォーマットを使っている](../Page/TBSテレビ.md "wikilink")。\[4\]
+
+なお、地上デジタル放送開始後のしばらくの間、タイトルが**『IBC NEWS』（協力：岩手日報）**に改められていたことがある。また、番組本編のハイビジョン化は平日昼・午後が2007年7月（『Nエコー』も同時期）、土日と全日夜が2009年3月と、全面ハイビジョン化までに時間がかかった。
+
+## 放送時間
+
+### テレビ版
+
+  - 朝
+
+<!-- end list -->
+
+  - 放送なし
+      - 月曜 - 金曜の『[あさチャン\!](https://ja.wikipedia.org/wiki/あさチャン! "wikilink")』内に設けられているローカル枠で県内ニュースが放送されることはなく、6時台の2枠は気象情報（地震等の緊急事態発生時は関連ニュースに差し替え）、7時台の枠では『IWA NAVI』またはゴールデンタイム番組や自社制作番組の番宣を放送している。
+      - 土曜・日曜の『[JNNニュース](../Page/JNNニュース.md "wikilink")』のローカル枠も気象情報のみの放送（日曜日は気象情報の後に関東のニュースをローカル差し替えなしでそのまま放送）。
+      - かつては、『[JNNおはようニュース&スポーツ](https://ja.wikipedia.org/wiki/JNNおはようニュース&スポーツ "wikilink")』や『[朝のホットライン](https://ja.wikipedia.org/wiki/朝のホットライン "wikilink")』等のローカル枠で毎日、県内ニュースが放送されていた。
+
+<!-- end list -->
+
+  - 昼
+
+<!-- end list -->
+
+  - 月曜 - 金曜は『[ひるおび\!](https://ja.wikipedia.org/wiki/ひるおび! "wikilink")』内で11:50から放送。
+  - 土曜は11:54頃、日曜は11:35頃から、ともに『JNNニュース』内で放送。
+      - タイトルは流れないが、単独放送時と同様のフォーマットで放送している。また、日曜日は11:40より[天気予報](../Page/天気予報.md "wikilink")を独立番組として放送。
+
+<!-- end list -->
+
+  - 平日午後
+
+<!-- end list -->
+
+  - 月曜 - 金曜 15:49 - 15:52
+      - ニュースを1本 - 2本放送後、当日の『Nエコー』予告を放送（一時期は天気予報も内包されていた）。
+      - 一時期、土曜にも放送されていた時期があった。当該枠内にて『Nエコー』の予告は2004年から開始。
+      - [2019年](../Page/2019年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")より「[ゴゴスマ〜GO GO\!Smile\!〜](https://ja.wikipedia.org/wiki/ゴゴスマ〜GO_GO!Smile!〜 "wikilink")」を13:55〜15:49にて番販でのフルネット開始に伴い、同番組終了後[ステブレ](https://ja.wikipedia.org/wiki/ステブレ "wikilink")なしで接続して放送。
+
+<!-- end list -->
+
+  - 土曜・日曜夕方
+
+<!-- end list -->
+
+  - 土曜 17:44 - 17:48
+      - 『[報道特集](https://ja.wikipedia.org/wiki/報道特集_\(TBS\) "wikilink")』に内包、番組の進行状況により放送時間は若干変動する\[5\]。気象情報は18:50から独立番組として放送。
+  - 日曜 17:44 - 17:54
+      - 2011年10月より『[Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")日曜版』の第1部と2部の[つなぎ番組](https://ja.wikipedia.org/wiki/つなぎ番組 "wikilink")（[フロート番組](https://ja.wikipedia.org/wiki/フロート番組 "wikilink")）として放送。
+
+<!-- end list -->
+
+  - 夜
+
+<!-- end list -->
+
+  - 土曜・日曜 21:54 - 21:56
+      - 本編終了後に天気予報を放送。
+      - 土曜・日曜深夜の「[S☆1](https://ja.wikipedia.org/wiki/S☆1 "wikilink")」内のローカルニュース枠で県内ニュースが放送されることはなく、関東のニュースをローカル差し替えなしでそのまま放送\[6\]。
+      - 20:54の「[JNNフラッシュニュース](https://ja.wikipedia.org/wiki/JNNフラッシュニュース "wikilink")」枠は通常、TBS発の全国ニュースを放送しているが、緊急事態発生時はその関連ローカルニュースに差し替えとなる場合がある\[7\]。
+      - 1986年10月から1年間、平日に放送された「[ネットワークJNN](https://ja.wikipedia.org/wiki/ネットワークJNN "wikilink")」のローカル枠では県内ニュースを放送していた。
+      - 2013年4月の改編で、月曜 - 木曜の放送（23:45 - 23:50）が廃止。当該枠は放送時間を23:53 - 23:58に変更し、気象情報のみの放送となる。2014年3月21日に金曜（21:54 - 21:56）の放送も終了。
+
+### ラジオ版
+
+  - [夏の高校野球岩手大会実況中継](../Page/夏の高校野球岩手大会実況中継.md "wikilink")をIBCラジオが放送していた時代は、その期間（毎年7月中旬 - 下旬）は13・14・15時台が休止となっていた。
+  - JNN記者リポート&上りニュースの音声が通常のIBC自社制作定時ニュース（岩手日報IBCニュース）で流れる事は無いが、大災害発生時はJNN報道特番の音声がIBCテレビと同時放送で流れたり（JNN報道特番で放送された）、IBC記者&局アナのリポート音声がIBCラジオの（IBC自社制作）報道特番で時差放送される事がある。
+
+<!-- end list -->
+
+  - 平日
+
+<!-- end list -->
+
+  - 6:32（「地球まるごとホットメニュー」よりコーナー名変更、2009年3月30日より）、7:00（道路情報を含む、道路情報は7時半より枠移動）、7:40（スポーツニュース、7:35より枠移動）、8:14（道路情報を含む）、9:00、10:00（「[朝からRADIO](https://ja.wikipedia.org/wiki/朝からRADIO "wikilink")」に内包）
+  - 11:00、12:00（独立番組として放送）
+  - 13:00、14:00、15:00、16:00（[ワイドステーション](../Page/ワイドステーション.md "wikilink")に内包）
+  - 18:00（独立番組として放送）
+      - [生島ヒロシのおはよう一直線](https://ja.wikipedia.org/wiki/生島ヒロシのおはよう一直線 "wikilink")内5:55枠は2009年3月27日に終了し、同年3月30日からは番宣CMが3分間流れている。
+
+<!-- end list -->
+
+  - 土曜
+
+<!-- end list -->
+
+  - 7:00、8:14（独立番組として放送、8時台は交通情報も含む）
+  - 11:00（独立番組として放送）
+  - 12:00（[水越かおるのすっぴん土曜日](../Page/水越かおるのすっぴん土曜日.md "wikilink")に内包、交通情報を含む。ただし「すっぴん」の編成上 12:00 - 12:12は中断扱いとなっており、独立番組と同じ形で放送）
+  - 14:00（[神山浩樹ののびのびサタデー](https://ja.wikipedia.org/wiki/神山浩樹ののびのびサタデー "wikilink")に内包）
+  - 15:05、16:00（[大塚富夫のタウン](https://ja.wikipedia.org/wiki/大塚富夫のタウン "wikilink")に内包）
+  - 17:55（独立番組として放送）
+      - 9時台・13時台のニュースは2010年4月3日に廃止。
+
+<!-- end list -->
+
+  - 日曜
+
+<!-- end list -->
+
+  - 7:00、8:00、9:55、12:00（独立番組として放送、9:55枠は自社制作単発特番差し替え時に時間移動する事がある）
+  - 15:00、16:00（「[のりこの週刊おばさん白書](https://ja.wikipedia.org/wiki/のりこの週刊おばさん白書 "wikilink")」に内包、[岩手競馬シーズンは時間変動有り](https://ja.wikipedia.org/wiki/岩手県競馬組合 "wikilink")）
+  - 18:25（独立番組として放送）\[8\]
+
+<!-- end list -->
+
+  - 変遷
+
+<!-- end list -->
+
+  - 以前は月曜から土曜までの22:30 - 22:40、日曜の23:00 - 23:10にも岩手日報IBCニュースが存在したが、2005年春の日曜廃止をもって全てラジオ版は全ての曜日において18時台が最終便という形に変わり、日中のニュースデスク担当アナがそのまま遅番勤務という形になった（21:54のテレビニュースまで担当）。
+  - 「朝からRADIO」が始まった2006年春からは局アナのニュース早番勤務が一時的に復活した。ただ、人件費削減の観点から、11月からは全ての曜日が[パネット](https://ja.wikipedia.org/wiki/パネット "wikilink")所属の女性フリーアナ（IBCアナウンス部OG）が早番ニュース勤務に赴いている（平日は11時のニュースまで、土日は正午のニュースまで担当。テレビ画面への顔出しはしない）。2007年1月からの早番は週の前半（月・火・水）が局アナ、後半（木・金・土・日）が女性フリーアナという体制になった。その後女性フリーアナウンサーの担当は土・日のみとなり\[9\]\[10\]、局アナが早番を担当することはなくなり、『朝からRADIO』担当者が自らニュースを読むようになった。午前10時以降はその日の各番組担当アナウンサーが午前や正午・夕方のニュース読みも兼任するケースが多く（『ワイドステーション』内では13時台のニュースを除きパーソナリティが自ら担当）、定時ニュースに専従するアナウンサーは1日1名程度になっている。
+  - 平日夕方は、『イヴニングナビゲーション』開始前までは17:46から放送されていた。同番組開始後は18時台に移行。
+  - 現在はニュースを読んだ後に「担当は○○でした」（○○は[苗字](https://ja.wikipedia.org/wiki/苗字 "wikilink")）と言うが、90年代初め頃までは番組冒頭でフルネームを名乗ってからニュースを読んでいた。
+
+<!-- end list -->
+
+  -
+    （例）**「こんにちは○○○○です。岩手日報ニュースをお伝えします」**
+
+## 関連項目
+
+  - [スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")
+  - [ラジオ局ローカルニュースタイトル一覧](https://ja.wikipedia.org/wiki/ラジオ局ローカルニュースタイトル一覧 "wikilink")
+  - [ローカルニュース動画配信実施局一覧](../Page/ローカルニュース動画配信実施局一覧.md "wikilink")
+  - [FM岩手ニュース](../Page/FM岩手ニュース.md "wikilink")（岩手日報担当の時間帯有り）
+
+## 関連番組
+
+  - [ニュースエコー](https://ja.wikipedia.org/wiki/ニュースエコー "wikilink")
+  - [イヴニングナビゲーション](https://ja.wikipedia.org/wiki/イヴニングナビゲーション "wikilink")
+  - [イブニングジャーナル](https://ja.wikipedia.org/wiki/イブニングジャーナル "wikilink")
+
+## 脚注
+
+<references/>
+
+## 外部リンク
+
+  - [IBC NEWS](https://news.ibc.co.jp/) - IBC岩手放送
+  - [Yahoo\!ニュース IBC岩手放送](https://news.yahoo.co.jp/media/ibciwate)
+
+[Category:ひるおび\!](https://ja.wikipedia.org/wiki/Category:ひるおび! "wikilink") [Category:Nスタ](https://ja.wikipedia.org/wiki/Category:Nスタ "wikilink")
+
+[Category:IBC岩手放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:IBC岩手放送のテレビ番組 "wikilink") [Category:IBC岩手放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:IBC岩手放送のラジオ帯番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:東北地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのミニ番組 "wikilink") [Category:ローカルラジオ局のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のニュース・報道番組 "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink") [Category:JNNニュースコープ](https://ja.wikipedia.org/wiki/Category:JNNニュースコープ "wikilink") [Category:JNNニュースの森](https://ja.wikipedia.org/wiki/Category:JNNニュースの森 "wikilink") [Category:JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/Category:JNNイブニング・ニュース "wikilink") [Category:ヤン坊マー坊天気予報](https://ja.wikipedia.org/wiki/Category:ヤン坊マー坊天気予報 "wikilink") [Category:岩手日報社](https://ja.wikipedia.org/wiki/Category:岩手日報社 "wikilink")
+
+1.  80年代より[姫神](https://ja.wikipedia.org/wiki/姫神 "wikilink")元メンバーで音楽家の[佐藤将展](https://ja.wikipedia.org/wiki/佐藤将展 "wikilink")が作曲している（佐藤は他のIBC番組テーマ曲も手掛けており、同局との関係が深い）。
+2.  報道室の一角からの放送。『Nエコー』はテレビスタジオを使用。
+3.  時期によっては、セット壁面に描かれた『Nエコー』のロゴを隠す役割も担っていた。
+4.  見出し字において、タイトルの部分は『IBC NEWS』に差し替えているが、土曜夕方の『[報道特集](https://ja.wikipedia.org/wiki/報道特集_\(TBS\) "wikilink")』内含枠では『岩手日報 IBC NEWS』と表記している。
+5.  新聞・TVガイドのIBC番組欄には『報道特集』項に『Nいわて』と書かれ、土曜夕方の県内ニュースが『報特』に内包されていることを示している。
+6.  選挙の投票日は日曜深夜のローカル枠を県内版に差し替えた上で、遅番勤務のアナウンサーが開票状況を伝えている。
+7.  [岩手・宮城内陸地震](https://ja.wikipedia.org/wiki/岩手・宮城内陸地震 "wikilink")が発生した[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月14日](../Page/6月14日.md "wikilink")は「フラッシュニュース」枠もIBCローカルに差し替えたことがある。
+8.  2009年3月までは18:00、2009年4月5日から2013年3月31日までは17:00、2013年4月から2018年3月までは18:55に設けられていた
+9.  [2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")発生以後、頻繁に発生する余震に対応するため、女性フリーアナウンサーが交代で毎夜宿直で入り、深夜の速報を担当していたことがあった。
+10. 2016年以降は女性フリーアナウンサーの登場機会は月2回程度に減っている。

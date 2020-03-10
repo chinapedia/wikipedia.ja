@@ -1,0 +1,107 @@
+> この記事は[DHC](https://ja.wikipedia.org/wiki/DHC)から翻訳されています。
+
+
+**DHCレディースボウリングツアー**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女子](../Page/女性.md "wikilink")[プロ](../Page/プロフェッショナル.md "wikilink")[ボウリング](../Page/ボウリング.md "wikilink")の大会である。
+
+## 概要
+
+日本におけるボウリング大会は主に[ジャパンカップや](https://ja.wikipedia.org/wiki/ジャパンカップ_ボウリング "wikilink")[全日本プロ選手権](../Page/全日本プロボウリング選手権大会.md "wikilink")、[アマチュア](../Page/アマチュア.md "wikilink")大会の[宮様チャリティー大会があった](https://ja.wikipedia.org/wiki/宮様チャリティーボウリング大会 "wikilink")。しかし、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")になって、[DHC](https://ja.wikipedia.org/wiki/DHC "wikilink")と[日本プロボウリング協会](../Page/日本プロボウリング協会.md "wikilink")（JPBA）の提携で**DHCレディースオープンボウリングツアー**として誕生した。
+
+しかし2009年7月、DHCがツアーの中止を発表\[1\]。2010年に入り、DHCが中心となって[日本女子ボウリング機構](https://ja.wikipedia.org/wiki/日本女子ボウリング機構 "wikilink")（LBO）を設立。12名がJPBAからLBOに移籍した。
+
+2013年限りでLBOが解散したため、同年のシーズンが最後となった。
+
+## 2005-06シーズン
+
+| Round | 日程                                                                                                                               | 会場                                                                  | 優勝者                                                                   |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1     | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月20日](../Page/5月20日.md "wikilink") - [22日](../Page/5月22日.md "wikilink") | 相模原パークレーンズ                                                          | [酒井美佳](https://ja.wikipedia.org/wiki/酒井美佳 "wikilink")（DHC）            |
+| 2     | [6月9日](../Page/6月9日.md "wikilink") - [11日](../Page/6月11日.md "wikilink")                                                          | ボウルメート京橋                                                            | 斉藤志乃ぶ（ABS）                                                            |
+| 3     | [8月25日](../Page/8月25日.md "wikilink") - [27日](../Page/8月27日.md "wikilink")                                                        | アオキボウル                                                              | 稲橋和枝（新東京ダイヤモンドボウル）                                                    |
+| 4     | [10月7日](../Page/10月7日.md "wikilink") - [9日](../Page/10月9日.md "wikilink")                                                         | 柿田川パークレーンズ                                                          | 愛甲恵子（フリー）                                                             |
+| 5     | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月20日](../Page/1月20日.md "wikilink") - [22日](../Page/1月22日.md "wikilink") | [博多スターレーン](https://ja.wikipedia.org/wiki/博多スターレーン "wikilink")       | [板倉奈智美](https://ja.wikipedia.org/wiki/板倉奈智美 "wikilink")（イースタンスポーツ）    |
+| 6     | [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - [26日](../Page/2月26日.md "wikilink")                                     | 星ヶ丘ボウル                                                              | [清水弘子](https://ja.wikipedia.org/wiki/清水弘子 "wikilink")（フリー）            |
+| 終     | [4月12日](../Page/4月12日.md "wikilink") - [16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")                                     | [東京ドームボウリングセンター](https://ja.wikipedia.org/wiki/東京ドームシティ "wikilink") | [谷川章子](https://ja.wikipedia.org/wiki/谷川章子 "wikilink")（セントレジャー・マネジメント） |
+
+## 2006-07シーズン
+
+| Round | 日程                                                                                                                               | 会場          | 優勝者                                                                 |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------- |
+| 1     | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月15日](../Page/9月15日.md "wikilink") - [17日](../Page/9月17日.md "wikilink") | 柿田川パークレーンズ  | 清水弘子（C-BIC）                                                         |
+| 2     | [10月27日](../Page/10月27日.md "wikilink") - [29日](../Page/10月29日.md "wikilink")                                                     | 相模原パークレーンズ  | [時本美津子](https://ja.wikipedia.org/wiki/時本美津子 "wikilink")（相模原パークレーンズ） |
+| 3     | [2007年](../Page/2007年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink") - [21日](../Page/1月21日.md "wikilink")                    | 東京ポートボウル    | [吉田真由美](https://ja.wikipedia.org/wiki/吉田真由美 "wikilink")（ABS）        |
+| 4     | [2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - [25日](../Page/2月25日.md "wikilink")                                     | 水島国際ボウリング会館 | 清水弘子（C-BIC）                                                         |
+| 終     | [3月30日](../Page/3月30日.md "wikilink") - [4月1日](../Page/4月1日.md "wikilink")                                                        | SAP草加ボウル    | 近藤文美（ダイドースターレーン）                                                    |
+
+## 2007-08シーズン
+
+| Round | 日程                                                                                                                               | 会場                                                              | 優勝者                                                         |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------- |
+| 1     | [10月5日](../Page/10月5日.md "wikilink") - [7日](../Page/10月7日.md "wikilink")                                                         | 相模原パークレーンズ                                                      | 金城愛乃（神戸ボウリング倶楽部）                                            |
+| 2     | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月18日](../Page/1月18日.md "wikilink") - [20日](../Page/9月20日.md "wikilink") | 柿田川パークレーンズ                                                      | [中谷優子](../Page/中谷優子.md "wikilink")（神戸スカイレーン）                |
+| 3     | [2月22日](../Page/2月22日.md "wikilink") - [24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")                                     | 博多スターレーン                                                        | [宮城鈴菜](https://ja.wikipedia.org/wiki/宮城鈴菜 "wikilink")\[2\]  |
+| 終     | [4月24日](../Page/4月24日.md "wikilink") - [27日](../Page/4月27日.md "wikilink")                                                        | [品川プリンスホテル](https://ja.wikipedia.org/wiki/品川プリンスホテル "wikilink") | [姫路麗](https://ja.wikipedia.org/wiki/姫路麗 "wikilink")（フタバボウル） |
+
+## 2009シーズン
+
+| Round | 日程                                                                        | 会場         | 優勝者                                                             |
+| ----- | ------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------- |
+| 1     | [2月20日](../Page/2月20日.md "wikilink") - [22日](../Page/2月22日.md "wikilink") | 相模原パークレーンズ | 中島政江（KEGEL COMPANY）                                             |
+| 2     | [5月8日](../Page/5月8日.md "wikilink") - [10日](../Page/5月10日.md "wikilink")   | 東京ポートボウル   | [高坂麻衣](https://ja.wikipedia.org/wiki/高坂麻衣 "wikilink")（厚木プラザボウル） |
+
+※第3戦（[9月11日](../Page/9月11日.md "wikilink") - [13日](../Page/9月13日.md "wikilink")、[田町ハイレーン](https://ja.wikipedia.org/wiki/田町ハイレーン "wikilink")）ならびに最終戦（[10月22日](../Page/10月22日.md "wikilink") - [25日](../Page/10月25日.md "wikilink")、東京ドームボウリングセンター）は中止となった。
+
+## 2010シーズン
+
+| Round | 日程               | 会場             | 優勝者              |
+| ----- | ---------------- | -------------- | ---------------- |
+| エ     | 2010年5月27日 - 28日 | 東京ドームボウリングセンター | 鷲塚志麻             |
+| 1     | 5月29日 - 30日      | 所沢スターレーン       | 鷲塚志麻             |
+| 2     | 7月2日 - 4日        | ストライカーズ西船ボウル   | 清水弘子             |
+| 3     | 8月6日 - 8日        | 富津スターレーン       | 鷲塚志麻             |
+| 4     | 9月10日 - 12日      | 高尾スターレーン       | 高坂麻衣             |
+| 5     | 10月29日 - 31日     | ストライカーズ西船ボウル   | Shanon Pluhowsky |
+| 6     | 12月2日 - 5日       | 博多スターレーン       | 高坂麻衣             |
+
+エはエキシビショントーナメント。
+
+## 2011シーズン
+
+| Round | 日程               | 会場             | 優勝者       |
+| ----- | ---------------- | -------------- | --------- |
+| 1     | 2011年4月15日 - 17日 | 東京ドームボウリングセンター | 高坂麻衣      |
+| 2     | 5月20日 - 22日      | ストライカーズ西船ボウル   | 秋吉夕紀      |
+| 3     | 6月17日 - 19日      | 相模ファーストレーン     | 清水弘子      |
+| U1    | 7月16日 - 17日      | 高尾スターレーン       | 高坂麻衣      |
+| D     | 8月26日 - 28日      | 富津スターレーン       | 中嶋由美・遠藤千枝 |
+| 4     | 9月17日 - 19日      | 富津スターレーン       | 鷲塚志麻      |
+| TC    | 10月15日 - 16日     | ストライカーズ西船ボウル   |           |
+| U2    | 10月29日 - 30日     | DHC赤沢ボウル       |           |
+| 5     | 11月18日 - 20日     | 博多スターレーン       |           |
+| TOC   | 12月3日 - 4日       | 東京ドームボウリングセンター |           |
+
+TOCはトーナメント・オブ・チャンピオンズ、UはU30シリーズ、Dはダブルスチャレンジ、TCはTAIHEIカップ。選手の所属先は当時。
+
+## 2012シーズン
+
+## 2013シーズン
+
+## テレビ放送
+
+JPBA主催の2009年度までは[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")では全戦、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")では最終戦のみ録画放映されていた。LBO発足の2010年度からは[BS日テレでも放送されている](../Page/BS日本.md "wikilink")。また最終戦のみ地上波テレビ局でも放送されている。
+
+## 脚注
+
+## 関連項目
+
+  - [日本女子ボウリング機構](https://ja.wikipedia.org/wiki/日本女子ボウリング機構 "wikilink")
+  - [WBTインターナショナル・ボウリング・チャンピオンシップ supported by DHC](https://ja.wikipedia.org/wiki/インターナショナル・ボウリング・チャンピオンシップ "wikilink")
+
+## 外部リンク
+
+  - [日本女子ボウリング機構](http://www.lbo.or.jp)
+
+[Category:日本のボウリング大会](https://ja.wikipedia.org/wiki/Category:日本のボウリング大会 "wikilink") [Category:女子スポーツ大会](https://ja.wikipedia.org/wiki/Category:女子スポーツ大会 "wikilink") [Category:現存しない競技大会](https://ja.wikipedia.org/wiki/Category:現存しない競技大会 "wikilink")
+
+1.  [2009年08月05日のブログ｜P★LEAGUE Official Blog 高坂麻衣 Mai Takasaka powered by アメブロ](http://ameblo.jp/pleague-maitakasaka/day-20090805.html)
+2.  当時はアマチュア選手。

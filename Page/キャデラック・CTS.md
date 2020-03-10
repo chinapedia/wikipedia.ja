@@ -1,0 +1,133 @@
+> この記事は[CTS](https://ja.wikipedia.org/wiki/CTS)から翻訳されています。
+
+
+**CTS (シーティーエス)**は、[GMが生産](https://ja.wikipedia.org/wiki/ゼネラルモーターズ "wikilink")、[キャデラック](https://ja.wikipedia.org/wiki/キャデラック "wikilink")ブランドで販売している[自動車](../Page/自動車.md "wikilink")である。
+
+## 概要
+
+従来キャデラックは北米市場のみに注力してきたため、その他の地域では「キャデラック車はあまりに大きすぎる」と評価されており、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")や[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")などの市場では販売がふるわない状態が続いていた。また、CTSデビュー当時の米国でのキャデラックオーナーの平均年齢はおよそ60歳であり、本国では「リタイヤした老人が乗るクルマ」というイメージが強かったため、より若い消費者に受け入れられる車の開発が急務であった。このような経緯から、これまでのキャデラックよりコンパクトでスポーティなCTSが誕生した。CTSの開発にあたっては、全く新しいFRプラットフォームの設計はもちろんのこと、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ニュルブルクリンク](https://ja.wikipedia.org/wiki/ニュルブルクリンク "wikilink")[サーキット](https://ja.wikipedia.org/wiki/サーキット "wikilink")での3年にわたりテストを繰り返し走行性能を磨くなど、[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")や[BMW](../Page/BMW.md "wikilink")などに代表される欧州製セダンを強く意識している。「アート&サイエンス」と呼ぶデザイン哲学に則った外観を持つ最初のモデルである。
+
+## 初代 (2003-2008年)
+
+[2002年](../Page/2002年.md "wikilink")に発表された[2003年](../Page/2003年.md "wikilink")モデルで、**シグマ・アーキテクチャ**と呼ばれる新設計の[プラットフォームを採用した](https://ja.wikipedia.org/wiki/プラットフォーム_\(自動車\) "wikilink")[後輪駆動](https://ja.wikipedia.org/wiki/後輪駆動 "wikilink")車である。キャデラックは[オイルショック](../Page/オイルショック.md "wikilink")以降、長年にわたり[前輪駆動](https://ja.wikipedia.org/wiki/前輪駆動 "wikilink")（FF）にこだわり続けていたが、このCTSは[1988年](../Page/1988年.md "wikilink")の[シマロン以前のキャデラック初期の](../Page/キャデラック・シマロン.md "wikilink")[MT車と同様に](../Page/マニュアルトランスミッション.md "wikilink")[後輪駆動（FR）である](https://ja.wikipedia.org/wiki/後輪駆動#フロントエンジン・リアドライブ方式 "wikilink")。[カテラの後継車種であり](https://ja.wikipedia.org/wiki/キャデラック・カテラ "wikilink")、北米最優秀自動車賞にノミネートされた。生産は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ミシガン州](../Page/ミシガン州.md "wikilink")[ランシングで行われ](https://ja.wikipedia.org/wiki/ランシング_\(ミシガン州\) "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には[中国で](../Page/中華人民共和国.md "wikilink")[ノックダウン生産](https://ja.wikipedia.org/wiki/ノックダウン生産 "wikilink") （北米設計のキャデラックでは初めての海外生産）を行っていたが、ノックダウン生産の関税の問題とこの地域の販売不振から再び米国からの輸入に切り替わった。
+
+[エンジン](../Page/エンジン.md "wikilink")は元々220馬力（164kW）の3.2リッター[V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")「LA3」が搭載されていたが、2004年には[可変バルブ機構](../Page/可変バルブ機構.md "wikilink")を利用した3.6リッターV型6気筒「DOHC」が搭載され、255馬力（190kW）、252lbft（342nm）の[トルク](../Page/トルク.md "wikilink")が可能になった。2005年からは3.2リッターエンジンの生産が始まり、CTSの廉価モデルとしてV型6気筒2.8リッターも登場した。また[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")での廉価モデルはそれまでの2.6リッターから2.8リッターに置き換えられた。[2004年](../Page/2004年.md "wikilink")には[シボレー・コルベット](https://ja.wikipedia.org/wiki/シボレー・コルベット "wikilink")と同じ5.7リッター[V型8気筒](../Page/V型8気筒.md "wikilink")を搭載した（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")からは6.0リッター）高性能版のCTS-Vもラインナップに追加された。
+
+トランスミッションは元々自社製「5L40-E」5速[ATと](https://ja.wikipedia.org/wiki/オートマティックトランスミッション "wikilink")、[ゲトラグ](https://ja.wikipedia.org/wiki/ゲトラグ "wikilink")製「ゲトラグ260」5速[MTのどちらかが用意されていたが](../Page/マニュアルトランスミッション.md "wikilink")、ゲトラグ製5速MTは2005年に[アイシン精機](https://ja.wikipedia.org/wiki/アイシン精機 "wikilink")製「AY-6」6速MTに変更された。
+
+日本では全てで5速AT、2004年4月モデルまでは2.6リッターもしくは3.2リッター、2004年11月モデルからは2.8リッターもしくは3.6リッターの[V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")版が発売され、一部の特別モデルを除き全てで左右ハンドルが選べる。また日本仕様である右ハンドル車では通常の右ハンドル輸入車では左側についている[ウインカーが日本国内向けの日本車と同様の右側についており](https://ja.wikipedia.org/wiki/方向指示器 "wikilink")、オプションで[カーナビゲーション](../Page/カーナビゲーション.md "wikilink")も用意されていた。しかし日本国内の販売台数は振るわなかった。
+
+### その他
+
+[マトリックス リローデッドでは敵が乗る](../Page/マトリックス_リローデッド.md "wikilink")[エスカレードEXTとともに派手なカーチェイスを演じ](https://ja.wikipedia.org/wiki/キャデラック・エスカレード "wikilink")、[マシンガンで蜂の巣にされたCTSの撮影用車両が映画のプロモーションとして世界各地で展示された](../Page/機関銃.md "wikilink")。
+
+### 日本国内
+
+| モデル      | グレード     | 型式       | 排気量     | 変速機         | 燃料          | 燃費         | ハンドル       | 定価         |
+| -------- | -------- | -------- | ------- | ----------- | ----------- | ---------- | ---------- | ---------- |
+| 2003年3月  | ベースグレード  | GH-AD32F | 2,596cc | 5AT         | 無鉛プレミアムガソリン | 8.9km/L    | 左右         | 4,950,000円 |
+| ベースグレード  | GH-AD33G | 3,174cc  | 7.9km/L | 左右          | 5,950,000円  |            |            |            |
+| 2003年11月 | 2.6L     | GH-AD32F | 2,596cc | 8.9km/L     | 左右          | 4,950,000円 |            |            |
+| 3.2L     | GH-AD33G | 3,174cc  | 7.9km/L | 左右          | 5,950,000円  |            |            |            |
+| 2004年4月  | 2.6L     | GH-AD32F | 2,596cc | 8.9km/L     | 左右          | 5,197,500円 |            |            |
+| 3.2L     | GH-AD33G | 3,174cc  | 7.9km/L | 左右          | 6,247,500円  |            |            |            |
+| 2004年11月 | 2.8L     | GH-AD32G | 2,792cc | 7.9km/L     | 左右          | 4,980,000円 |            |            |
+| 3.6L     | GH-AD33H | 3,564cc  | 7.8km/L | 左右          | 5,980,000円  |            |            |            |
+| 2005年12月 | 2.8L     | GH-AD32G | 2,792cc | 無鉛レギュラーガソリン | 7.9km/L     | 左右         | 4,695,000円 |            |
+| 2.8L-V   | GH-AD32G | 2,792cc  | 7.9km/L | 左           | 4,995,000円  |            |            |            |
+| 3.6L     | GH-AD33H | 3,564cc  | 7.8km/L | 左右          | 5,800,000円  |            |            |            |
+| 3.6L-V   | GH-AD33H | 3,564cc  | 7.8km/L | 左           | 6,100,000円  |            |            |            |
+| 2007年2月  | 2.8L     | GH-AD32G | 2,792cc | 7.9km/L     | 左右          | 4,799,000円 |            |            |
+| 3.6L     | GH-AD33H | 3,564cc  | 7.8km/L | 左右          | 5,904,000円  |            |            |            |
+
+{{-}}
+
+## 2代目 (2008-2013年)
+
+ゼネラルモーターズ副会長ボブ・ルッツが[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")、報道番組「[60 Minutes](../Page/60_Minutes.md "wikilink")」のインタビューで試作車を明らかにした。外観、内装共に2003年に発売されたコンセプトカー「キャデラック・シックスティーン」の影響を受けている。4月に行われた[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ニュルブルクリング](https://ja.wikipedia.org/wiki/ニュルブルクリング "wikilink")での試作車による走行実験では、[トランスミッション](https://ja.wikipedia.org/wiki/トランスミッション "wikilink")に[マニュアルトランスミッション](../Page/マニュアルトランスミッション.md "wikilink")も用意されることなど、多くの性能や特徴が明らかになった。
+
+[2007年](../Page/2007年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、[ゼネラルモーターズ](https://ja.wikipedia.org/wiki/ゼネラルモーターズ "wikilink")はこの2008年モデルとして販売していた新型CTSをの[北米国際自動車ショー](https://ja.wikipedia.org/wiki/北米国際自動車ショー "wikilink")に出品した。エンジンはベースモデルで[可変バルブ機構](../Page/可変バルブ機構.md "wikilink")を利用した3.6リッターの258馬力（192kW）で[V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")、252lbft（342Nm）のトルクが可能である。セカンドバージョンは無鉛レギュラー[ガソリン](../Page/ガソリン.md "wikilink")使用の304馬力（227kW）、274フィートポンド（371m）のトルクを発生させる新型3.6リッター直噴V型6気筒VVTエンジン。トランスミッションは自社製6速[オートマチックトランスミッション](../Page/オートマチックトランスミッション.md "wikilink")「6L50」がすべてのモデルにおいて標準装備のほか、6速マニュアルトランスミッションが標準装備で用意される。また、オートマチックトランスミッションのみオプションで[四輪駆動](../Page/四輪駆動.md "wikilink")の設定ができる。[サスペンション](../Page/サスペンション.md "wikilink")や[ブレーキ](../Page/ブレーキ.md "wikilink")、[ステアリング](../Page/ステアリング.md "wikilink")は前年に発売されたCTS-Vから一部改良され2代目CTSに標準で搭載されている。
+
+標準装備は258馬力（192kW）3.6リッターのエンジン、17インチホイール・タイヤ、[BOSEの](../Page/ボーズ_\(企業\).md "wikilink")8スピーカーステレオ、[横滑り防止機構](https://ja.wikipedia.org/wiki/横滑り防止機構 "wikilink")（スタビリトラック）、空気圧測定モニター、オンスターによるアフターサービス（北米のみ）。オプション装備は[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")接続端子、シートヒーター機能、回転式ヘッドライト、アメリカ国内の主要なランドマークやリアルタイム交通情報、天気予報を表示するナビゲーション、BOSE 5.1chデジタルサラウンド、40ギガバイトハードディスクドライブ、リモート起動などがある。
+
+自動車雑誌「Motor Trend」によると、[ゼネラルモーターズ](https://ja.wikipedia.org/wiki/ゼネラルモーターズ "wikilink")はアメリカでCTSの[クーペ](../Page/クーペ.md "wikilink")と[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")バージョンを販売するにあたって、それらをヨーロッパ市場でも販売することに好感を示した。ヨーロッパでは2009年春にもキャデラック・CTSステーションワゴンの製造を開始すると予想され、2009年前半まで米国モデル[キャデラック・SRX](../Page/キャデラック・SRX.md "wikilink")を段階的に廃止し、CTSステーションワゴンに置き換えられる見通し。同様にキャデラックはセダンとワゴンにおいて[SAAB](https://ja.wikipedia.org/wiki/SAAB "wikilink")・9-3をベースモデルとしたヨーロッパ限定[キャデラック・BLS](../Page/キャデラック・BLS.md "wikilink")を発売するとみられていたが、この計画はアルファ・カーの初公開まで保留されている。
+
+[オーストラリア](../Page/オーストラリア.md "wikilink")と[ニュージーランド](../Page/ニュージーランド.md "wikilink")の両国では一時は撤退していたキャデラックブランドの再投入をこのCTSで2008年後半にも行う。
+
+また、CTSの高性能版である「CTS-V」の2代目は2009年モデルとして2008年第4四半期に発売される。なお2代目のエンジンには2009年発売の[コルベット・ZR1で使用される](https://ja.wikipedia.org/wiki/シボレー・コルベット "wikilink")「LS9」564馬力（410kW）が搭載された。標準装備のトランスミッションは6速オートマチックトランスミッション「6L90」で、オプションで6速マニュアルトランスミッション「TR-6060」が選べる。
+
+日本では[2007年](../Page/2007年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に発表され、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月より発売を開始したが、2008年モデルは左ハンドルのみの設定だった。2008年9月6日より販売される2009年モデルには右ハンドルの設定が復活し、同時に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[オーストラリア](../Page/オーストラリア.md "wikilink")での販売も再開される予定である。また右ハンドル車のみ、GM車として初めて「エレクトリック（電気式）・パーキングブレーキ」を採用した。
+
+### マイナーチェンジ（日本国内）
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に発売される2010年モデルでは、後述のCTSスポーツワゴンの導入に伴うマイナーチェンジにより、より細分化されて4グレードとなった。[V6エンジンにおいては](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")、これまでの214馬力（158kw）2.8リットルから3.0リットルの直噴タイプに変更された以外は変更は無い。グレードは3.6リットル車は**プレミアム**と3.0リットル車は**スタンダード**・**ラグジュアリー**・**プレミアム**が導入される。また同年の[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に発売された[2011年](../Page/2011年.md "wikilink")モデルから車種名を「**CTSスポーツセダン**」と改名し、3.0プレミアムと3.6リットル車には、新たに**リアビューカメラ**と**サペリウッドトリム**及び**ステアリングヒーター**を搭載された以外は変更はない。その後、[2012年](../Page/2012年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")に一部改良が行われた。この改良によりCTS-Vを除く全車が[エコカー補助金](https://ja.wikipedia.org/wiki/エコカー補助金 "wikilink")の対象となった。また3.0リットル車のみに設定されていたラグジュアリーグレードはラインナップから外された。
+
+| モデル     | グレード      | 型式        | 排気量     | 変速機 | 燃料          | 燃費      | ハンドル | 定価         |
+| ------- | --------- | --------- | ------- | --- | ----------- | ------- | ---- | ---------- |
+| 2008年1月 | 2.8L      | ABA-X322A | 2,792cc | 6AT | 無鉛レギュラーガソリン | 8.1km/L | 左    | 4,950,000円 |
+| 3.6L    | ABA-X322B | 3,564cc   | 8.0km/L | 左   | 6,200,000円  |         |      |            |
+| 2008年9月 | 2.8L      | ABA-X322A | 2,792cc | 6AT | 無鉛レギュラーガソリン | 8.1km/L | 左右   | 4,995,000円 |
+| 3.6L    | ABA-X322B | 3,564cc   | 8.0km/L | 左右  | 6,300,000円  |         |      |            |
+
+### CTS-V
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:2nd_Cadillac_CTS-V_--_10-30-2009.jpg "wikilink") 2008年CTS-Vは大きく変化し、 6.2リッタースーパーチャージャー付きの564PS/6,100rpm、トルク76.1/3,800rpmエンジンとなり、0～100km/hは3.9秒。6ATが採用され、セダン・クーペ・スポーツワゴンの3タイプが用意されているが、日本仕様ではスポーツワゴン以外は全て導入されている。
+
+{{-}}
+
+### CTSクーペ
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Cadillac_CTS_coupe_NY.jpg "wikilink") [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月13日](../Page/1月13日.md "wikilink")、ゼネラルモーターズは[北米国際自動車ショー](https://ja.wikipedia.org/wiki/北米国際自動車ショー "wikilink")で、CTS-Vセダンと並びCTSの[クーペ](../Page/クーペ.md "wikilink")バージョンを初めて公開した。2009年11月、アメリカにて市販モデルを発表した\[1\]。日本仕様では2010年の秋頃に導入された。標準仕様にあたる「**CTSクーペ**」（V型6気筒3.6リッター車）と「**CTS-Vクーペ**」の2種類が導入されたが、両モデルとも右ハンドル車の設定はなされていない。その後はスポーツセダン及びワゴン同様に2012年1月23日に一部改良が行われ、標準仕様が[エコカー補助金](https://ja.wikipedia.org/wiki/エコカー補助金 "wikilink")の対象となった。
+
+{{-}}
+
+### CTSスポーツワゴン
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:2010_Cadillac_CTS_wagon_rear_--_10-30-2009.jpg "wikilink") 2010年の新型モデルとしてCTSワゴンバージョンが登場する。キャデラックブランドとしては初の[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")モデルである。
+
+エンジンは、従来のV6 DOHC 3.6Lと新開発のV6 直噴DOHC 3.0Lの2種類を搭載している。駆動方式はFRと[AWDの](https://ja.wikipedia.org/wiki/4WD "wikilink")2種類が用意されている。米国ではCTS-Vタイプも用意されているが、日本への導入は未定となっている。
+
+なお日本仕様では、2010年[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に導入され、駆動方式はFRのみである。グレードはセダンの2010年モデル同様に3.6リットル車は**プレミアム**と3.0リットル車は**スタンダード**・**ラグジュアリー**・**プレミアム**が導入される。ハンドル位置は、3.0スタンダードが右のみ。それ以外は左右用意されている。ただし、3.6リットル車と3.0スタンダード及び3.0ラグジュアリーならびにプラチナムの左ハンドル車は**受注生産車**扱いとなるので、キャデラックとしては珍しく右ハンドル中心のラインナップとなった。こちらもスポーツセダン及びクーペ同様に2012年1月23日に一部改良が行われ、全車が[エコカー補助金](https://ja.wikipedia.org/wiki/エコカー補助金 "wikilink")の対象となった。それ以外はスポーツセダンに準じた構成となっている。
+
+{{-}}
+
+## 3代目 (2013年-)
+
+[2013年](../Page/2013年.md "wikilink")の[ニューヨークモーターショー](https://ja.wikipedia.org/wiki/ニューヨークモーターショー "wikilink")でワールドプレミアされ、その後、アメリカで販売を開始した当代は、弟分である[ATSが登場したことにより](https://ja.wikipedia.org/wiki/キャデラック・ATS "wikilink")、サイズがひとまわり拡大されて[Eセグメント](../Page/Eセグメント.md "wikilink")級の車格となった。その一方で、バリエーションをセダン1本とした上、「ダウンサイジングコンセプト」によりV8エンジンは廃止され、代わりにCTS初となる[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")エンジンを採用した。この直列4気筒エンジンは計量化と高出力、燃費向上を同時に狙ったユニットで、基本的にATSに搭載されるものと同一（2.0L[直噴ターボ](https://ja.wikipedia.org/wiki/直噴エンジン "wikilink")）であるが、各部のリファインにより最大トルクが向上している。
+
+また、キャデラック初となる[アルミニウム](../Page/アルミニウム.md "wikilink")ドアの採用をはじめ、各部に（トータル116mにも及ぶ）構造用接着剤やアルミニウムや[マグネシウムを積極的に採用し](../Page/マグネシウム合金.md "wikilink")、溶接には[スポット溶接](https://ja.wikipedia.org/wiki/スポット溶接 "wikilink")を、そして前後重量配分をATS同様に50：50とすることで先代比で約100Kgもの軽量化と40％の剛性アップを達成している。但し、適切なハンドリングと乗り味、そして振動抑制を実現するため、リアサスペンションのサブフレームはあえてスチール製としている\[2\]。
+
+新機軸として採用された「マグネティック・ライドコントロール（磁性流体減衰力制御システム）」は7代目[コルベット](https://ja.wikipedia.org/wiki/シボレー・コルベット "wikilink")（C7）にも採用される高度なもので、0.001秒ごとに路面状況を検知し、0.005秒でダンピングを変化させる可変ダンピングシステムによって精密なボディコントロールを可能としている。
+
+インテリアには[SRX](../Page/キャデラック・SRX.md "wikilink")、[XTSに続いてインフォテイメントシステム](https://ja.wikipedia.org/wiki/キャデラック・XTS "wikilink")「CUE（**C**adillac **U**ser **E**xperience）」が搭載され、[BOSE](https://ja.wikipedia.org/wiki/BOSE "wikilink")サウンドシステムを採用し、手作業で仕上げられた本皮革シートやリアル[カーボンファイバー](https://ja.wikipedia.org/wiki/カーボンファイバー "wikilink")、リアルウッドなどをふんだんに使用した。
+
+日本市場では2013年12月4日に発表され、[2014年](../Page/2014年.md "wikilink")4月12日から販売を開始。日本仕様は直列4気筒エンジン+6AT+左ハンドルの組み合わせのみとなり、グレードはボトムの「ラグジュアリー」と上級の「エレガンス」の2種であったが、のちの小改良で「プレミアム」の単一グレードに変更された。追って、ホットバージョンであるCTS-Vも投入され、こちらはベースである「Spec-A」と、安全装備やカーボンパーツをふんだんに盛り込んだ「Spec-B」の2種が設定される。
+
+2016年3月、生産しているグランドリバー工場で従業員を一時解雇した\[3\]。
+
+2019年にて生産を終了した。後継車種は「CT5」「CT6」(一部上級グレード)となる。
+
+{{-}}
+
+## 車名
+
+「CTS」は、「**C**atera **T**ouring **S**edan」の意味である。
+
+## 脚注
+
+## 関連項目
+
+  - [キャデラック](https://ja.wikipedia.org/wiki/キャデラック "wikilink")
+  - [キャデラック・カテラ](https://ja.wikipedia.org/wiki/キャデラック・カテラ "wikilink")
+  - [キャデラック・CT5](https://ja.wikipedia.org/wiki/キャデラック・CT5 "wikilink")
+
+## 外部リンク
+
+  - [キャデラックCTS](http://m.cadillac.com/cts-sport-sedan.html)(北米仕様)
+  - [キャデラックCTS](https://m.cadillacjapan.com/all-vehicles/cts/model-overview.html)（日本仕様）
+
+[Category:キャデラックの車種](https://ja.wikipedia.org/wiki/Category:キャデラックの車種 "wikilink") [Category:セダン](https://ja.wikipedia.org/wiki/Category:セダン "wikilink") [Category:クーペ](https://ja.wikipedia.org/wiki/Category:クーペ "wikilink") [Category:ステーションワゴン](https://ja.wikipedia.org/wiki/Category:ステーションワゴン "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink")
+
+1.  [キャデラックCTS クーペ登場 (レスポンス/2009年11月23日/2019年11月2日)](https://response.jp/article/2009/11/23/132850.html)
+2.  [キャデラックの伝統であるデザイン、ラグジュアリー、テクノロジーにフォーカスし、大幅に進化した新型「キャデラックCTS」を発表](http://media.gm.com/media/jp/ja/gm/news.detail.html/content/Pages/news/jp/ja/2013/Dec/1204_GMJCad.html)GM MEDIA Online 2013年12月4日
+3.  [GM、セダンの販売不振を受けて２つの工場で合計2,084人を一時解雇 (Autoblog Japan Staff/2016年11月13日掲載/2019年11月2日閲覧](http://jp.autoblog.com/2016/11/13/gm-plant-layoffs-ohio-michigan-official/)

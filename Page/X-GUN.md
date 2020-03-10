@@ -1,0 +1,269 @@
+> この記事は[X-GUN](https://ja.wikipedia.org/wiki/X-GUN)から翻訳されています。
+
+
+**X-GUN**（バツグン）は株式会社[ホリプロコム](https://ja.wikipedia.org/wiki/ホリプロコム "wikilink")所属の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")である。
+
+「**X-GUN**」として[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")し、一時期「**丁半コロコロ**（ちょうはんコロコロ）」にコンビ名を変更。その後再度「**X-GUN**」へ戻している。
+
+## メンバー
+
+**西尾 季隆**（にしお ひでたか、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[2月20日](../Page/2月20日.md "wikilink") - ）（歳）
+
+  - 身長176cm・体重110kg・血液型O型（公式プロフィールより）。
+  - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[荒川区](https://ja.wikipedia.org/wiki/荒川区 "wikilink")出身だが後に一家（両親と姉一人）で京都府へ転居し以降[南京都高等学校](https://ja.wikipedia.org/wiki/南京都高等学校 "wikilink")卒業まで府内で育つ。
+  - [ボケ](https://ja.wikipedia.org/wiki/ボケ_\(漫才\) "wikilink")、ネタ作り担当。立ち位置は向かって左。
+
+**さがね 正裕**（さがね まさひろ、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - ）（歳）
+
+  - 本名：嵯峨根 正裕（さがね まさひろ）
+  - 身長170cm・体重64kg・血液型O型（公式プロフィールより）。
+  - [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[舞鶴市](../Page/舞鶴市.md "wikilink")出身。
+  - [ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")担当。立ち位置は向かって右。
+
+## 略歴
+
+### X-GUN（第1次）時代
+
+  - 大阪の音響専門学校で出会う。学校ではクラスが同じで、共に周囲と話が合わず孤立気味だったのとお笑い好きという共通点から接近していったという。
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、「**X-GUN**」としてコンビ結成。いくつかの事務所のオーディションを経て[渡辺正行](../Page/渡辺正行.md "wikilink")に誘われ、彼の主宰だったM2カンパニー（現・ホリプロコム）に入る。コンビの名前は西尾が好きだったバンド・[おかげ様ブラザーズ](../Page/おかげ様ブラザーズ.md "wikilink")のアルバムタイトルから取った。西尾が気取りの全くない関西のおばちゃんを延々と演じ続け、それに耐えかねた嵯峨根が思い切りのいいツッコミを入れるのが漫才のパターンだった。
+  - 「芸人になりたい\!」と最初から思っていた訳ではなく、当時の[心斎橋筋2丁目劇場](../Page/心斎橋筋2丁目劇場.md "wikilink")では1人500円の参加料で舞台に立てる一般参加型イベント「2丁目アマチュアナイト」が開催されていた（[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")主催のオーディションイベントであると思われる）。その司会が[今田耕司](../Page/今田耕司.md "wikilink")と[東野幸治](../Page/東野幸治.md "wikilink")であったため「500円出せば2人に会える」という動機で出演し、ネタを見た今田と東野から「君らプロになるの?」「（プロに）なったらええのに」と言われた事がキッカケで芸人の道を進む事になった\[1\]。
+  - 芸人になるにあたっては層の厚かった吉本には入らず東京の事務所に入るために上京する事を決め、それぞれアルバイトで働いて資金を貯める事にした。だが嵯峨根は両親に芸能界入りを反対されて西尾に何も言わずに就職してしまい、この事に西尾が憤慨して一旦絶縁状態になってしまう。それから西尾は一人でも上京するつもりでいたが、嵯峨根の方もどうしても夢を諦めきれなかったのと西尾との友情を失いたくないとの思いから両親を説き伏せてようやく同意をもらい、半年ほどで退職して西尾に連絡を入れた。西尾も話を聞くうちにわだかまりを捨てて一緒に上京する事を決意し、一緒に東京行きの新幹線に乗ったという。
+  - [1994年](../Page/1994年.md "wikilink")、『[GAHAHAキング 爆笑王決定戦](../Page/GAHAHAキング_爆笑王決定戦.md "wikilink")』にてチャンピオンに向け、2度の挑戦の末10週目寸前の9週目まで勝ち抜くが、同時に番組が終了。審査員だった[テリー伊藤](../Page/テリー伊藤.md "wikilink")から慰められるものの、ブレイクチャンスをつかみ損ねる。またその翌年には『GAHAHAキング』の後身番組『[GAHAHA王国](../Page/GAHAHA王国.md "wikilink")』出身のお笑いユニット「東京ギャグファクトリー」による合同ライブも行っている。メンバーは[ネプチューン](../Page/ネプチューン_\(お笑いトリオ\).md "wikilink")、海砂利水魚（現・[くりぃむしちゅー](../Page/くりぃむしちゅー.md "wikilink")）、[底ぬけAIR-LINE](https://ja.wikipedia.org/wiki/底ぬけAIR-LINE "wikilink")、X-GUN、[ノンキーズ](https://ja.wikipedia.org/wiki/ノンキーズ "wikilink")、[ピーピングトム](https://ja.wikipedia.org/wiki/ピーピングトム "wikilink")、[U-turn](https://ja.wikipedia.org/wiki/U-turn "wikilink")の7組16名で、東京のお笑いを強化するため各メンバーの所属事務所が共同で立ち上げた一大プロジェクトだった。この頃吉本興業が東京で売り出していた[吉本印天然素材](../Page/吉本印天然素材.md "wikilink")への対抗策ともいわれている。
+  - 1990年代後半、『[タモリのボキャブラ天国](https://ja.wikipedia.org/wiki/タモリのボキャブラ天国 "wikilink")』などで人気を博す。西尾は登場時の[つかみ](https://ja.wikipedia.org/wiki/つかみ "wikilink")に得意のおばちゃんの物真似を織り交ぜたデブネタを使っていた（2人で「バッツグーン\!」と両手を交差させ×印を作った後片方の拳を突き上げるポーズを決め（[参考画像](http://web.peex.jp/cmmelo/archives/files/75.jpg)）、その後西尾が「キャ〜\! リズミカルデブ\!」と叫ぶなど）。
+  - 番組『[前略ヒロミ様](https://ja.wikipedia.org/wiki/前略ヒロミ様 "wikilink")』内で[ヒロミ](../Page/ヒロミ.md "wikilink")を中心に結成したバンド、フライングオイスターズに西尾はドラマーとして参加。ライブを行い、CD「振り向け」（作曲は[宇崎竜童](https://ja.wikipedia.org/wiki/宇崎竜童 "wikilink")）をリリース。
+  - [TBSラジオ](../Page/TBSラジオ.md "wikilink")の『[サタデー大人天国\! 宮川賢のパカパカ行進曲\!\!](https://ja.wikipedia.org/wiki/サタデー大人天国!_宮川賢のパカパカ行進曲!! "wikilink")』番組内コーナー「ツムラ街角ヤッホークイズ」の司会を務める。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[深夜ドラマ](../Page/深夜ドラマ.md "wikilink")『[せつない TOKYO HEART BREAK](../Page/せつない.md "wikilink")』に、[三角関係](https://ja.wikipedia.org/wiki/三角関係 "wikilink")に悩む売れない芸人「フラワーボーイズ」として主演。[バナナマン](https://ja.wikipedia.org/wiki/バナナマン "wikilink")も共演していた。
+  - [TBCラジオの夜番組](../Page/東北放送.md "wikilink")「[イキナリ\!](https://ja.wikipedia.org/wiki/イキナリ! "wikilink")」の月曜枠『[X-GUNの一発かましたれ\!\!](https://ja.wikipedia.org/wiki/丁半コロコロの一発かましたれ!! "wikilink")』（22:00-23:00、番組自体はイキナリ\!が始まる前の2000年1月から放送されている）でパーソナリティーを務める。
+  - X-GUN（第1次）時代に、[底ぬけAIR-LINE](https://ja.wikipedia.org/wiki/底ぬけAIR-LINE "wikilink")とともに[伊東一雄](../Page/伊東一雄.md "wikilink")（パンチョ伊東）の[モノマネ](https://ja.wikipedia.org/wiki/モノマネ "wikilink")で「[ダ・パンチョ](../Page/ダ・パンチョ.md "wikilink")」という4人グループを組んで[DA PUMPの](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")「[if...](https://ja.wikipedia.org/wiki/if..._\(DA_PUMPの曲\) "wikilink")」の[替え歌](https://ja.wikipedia.org/wiki/替え歌 "wikilink")で歌った。メインボーカルは西尾が担当した。
+  - 単独ライブは[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に渋谷ON AIR EAST（現・[Shibuya O-EAST](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")）、[1999年](../Page/1999年.md "wikilink")に[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")で上演。コントに音楽を盛り込んでおり、オリジナル楽曲も披露された。[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")でのお笑いライブの上演は当時は異例だった。
+  - 1999年に『ボキャブラ天国』が終了して以降は仕事が激減し、月給もピーク時の200万円から2万9000円と約1／70にまで下がってしまった。事務所の後輩に前説の仕事を譲るよう迫ったり、[営業](https://ja.wikipedia.org/wiki/営業 "wikilink")でスーパーに行ったところ全くと言っていいほど客がおらず営業先から「人を集めてください」と言われたり、後輩と一緒に営業のイベントに出た事を「売れっ子の後輩にくっついてってる[コバンザメ](https://ja.wikipedia.org/wiki/コバンザメ "wikilink")」呼ばわりされたり、客がネタを見るためでなくネタを披露した後のトイレットペーパー積み放題の無料プレゼントゲーム目当てで仕方なく残っているのがミエミエだったりと辛酸をなめる日々を送る。それでも、売れっ子になった[爆笑問題](../Page/爆笑問題.md "wikilink")が自分の冠番組の一コーナーに起用するなど仕事を回してくれたおかげで乗り切れたという\[2\]。
+
+### 丁半コロコロ時代
+
+  - 2006年、『[細木数子が緊急大予言・アナタの将来を幸せにするSP](https://ja.wikipedia.org/wiki/細木数子の緊急大予言 "wikilink")』（テレビ朝日）\[3\]で改名アドバイスをもらう予定だったが、細木の「続きは他局でやる」という意向により『[ズバリ言うわよ\!](https://ja.wikipedia.org/wiki/ズバリ言うわよ! "wikilink")』、（[TBS](../Page/TBSテレビ.md "wikilink")）で「**丁半コロコロ**」に改名（[その時の西尾のブログ](http://blog.goo.ne.jp/niccyamenxgn/e/8816aa4ebc928d9cece0106b6f81be77)）。その時の解説によると嵯峨根が「丁」で西尾が「半」らしい。
+  - 「現在のコンビ名での活動が10年以下」という参加条件に則って2006年の第6回『[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")』に出場するが3回戦止まりだった（[その時の西尾のブログ](http://blog.goo.ne.jp/niccyamenxgn/m/200611)）。なおX-GUNとしては第1回の時点で結成から10年を越えていたため参加資格がなかった。
+  - 2006年9月5日放送の『[くりぃむしちゅーのオールナイトニッポン](https://ja.wikipedia.org/wiki/くりぃむしちゅーのオールナイトニッポン "wikilink")』\[[http://www.allnightnippon.com/ariue/konsyu/060905/index060905top.html\]で、さがねのダメダメぶり・いっぱいいっぱいぶりを後輩の](http://www.allnightnippon.com/ariue/konsyu/060905/index060905top.html%5Dで、さがねのダメダメぶり・いっぱいいっぱいぶりを後輩の)[くりぃむしちゅー](../Page/くりぃむしちゅー.md "wikilink")に諌められ、くりぃむしちゅーの二人は「解散しなきゃ西尾さんがかわいそうだ」と冗談半分で発言。これは前回のさがねをゲストに迎えた24時間テレビ反省会が、24時間テレビ内で史上最悪レベルのダダ滑りを連発した「さがね反省会」になってしまった事を受けて「丁半コロコロ解散総選挙」として行われた物で、実際西尾は「本気で解散を考えている」と語り、飛び入りの[土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")とデンジャラスも加わってさがねへの不満を語った。特に土田は「[自分のコンビが解散した時と一緒](https://ja.wikipedia.org/wiki/U-turn "wikilink")」と語るなど、事態の深刻さを匂わせていた。同番組内でさがねは脳天気に「今頑張ってる事は家の掃除」「（西尾は）1くらいの話を100に膨らまして話してる」などと発言、それに対して西尾は「1の話を0.5にしてる、そのまんま話したらマジ喧嘩になってしまうから」とコンビ間の温度差が目立っていた。そして番組中のリスナー投票では解散を支持する声が多かったが、別室にて二人きりで話し合った所さがね自身も「壁に突き当たって悩んでいる」と告白したりして、最終的に西尾が「今後のギャラの8割を自分がもらう」と条件を言って正式にコンビ継続を発表したものの存続が危ぶまれた（[その時の西尾のブログ](http://blog.goo.ne.jp/niccyamenxgn/e/517c048f87b94ec910cd1eb2332e7a66/)）。しかし後に自身のラジオ番組で西尾が「解散はない」と発言した。同年10月に『BINGO75』（[BSフジ](../Page/BSフジ.md "wikilink")）で、コンビ結成以来、解散を考えたのはこの1回のみと明かしている\[4\]。
+
+### X-GUN（第2次）時代
+
+  - 2008年[9月28日](../Page/9月28日.md "wikilink")に放送された『[タモリのボキャブラ天国 大復活祭スペシャル](https://ja.wikipedia.org/wiki/タモリのボキャブラ天国 "wikilink")』の番組内で、「（改名した事を）誰も知らなかったのに、今日を境に（コンビ名を）「X-GUN」に戻そうと」と発言し、同番組では最後までX-GUN名義で参加。その後、西尾が[自身のブログ](http://blog.goo.ne.jp/niccyamenxgn/e/cb606a662dcdb87d19ad60c755143e99)で正式に「**X-GUN**」への再改名を発表した。
+  - 2009年[7月19日](../Page/7月19日.md "wikilink")に原宿で行われた『[サイボーグ009](https://ja.wikipedia.org/wiki/サイボーグ009 "wikilink")』の連載開始45周年記念イベントにおいて、[スピードワゴン](../Page/スピードワゴン.md "wikilink")・[クワバタオハラ](../Page/クワバタオハラ.md "wikilink")・[ヒデヨシの](https://ja.wikipedia.org/wiki/ヒデヨシ_\(お笑い\) "wikilink")3組と共にスペシャルユニット「ホリプロ009」として出演。全員が劇中のメンバーの衣装を着用して登場しチャリティオークションを行ったほか、劇中のサイボーグたちが各々違う特殊能力を持っている事にちなんで各自が自分の「特殊能力」と称した持ち芸を披露した。
+  - 2011年9月15日、東京・渋谷のダンススタジオBEASTARで行われた韓国映画『ホワイト』のダンスバトルイベントに、事務所の後輩[KICK☆](../Page/KICK☆.md "wikilink")と共に映画に登場するアイドルグループ「ピンクドールズ」の日本版グループとして参加した。イベントでは「[T-ARA](https://ja.wikipedia.org/wiki/T-ara "wikilink")」のカバーダンスチーム「M：name」とダンスのカバーバトルで対決。お揃いの白いロン毛の[カツラをかぶり](https://ja.wikipedia.org/wiki/かつら_\(装身具\) "wikilink")、ジュリアナクイーンの[荒木久美子](https://ja.wikipedia.org/wiki/荒木久美子 "wikilink")師匠をチームに迎えて特訓を行ったダンスを披露した。
+  - 2012年、「[AAA TOUR 2012 -777- TRIPLE SEVEN](https://ja.wikipedia.org/wiki/AAA_TOUR_2012_-777-_TRIPLE_SEVEN "wikilink")」では西尾がツアーレポート番組「有沙と洸とブーデーの追いかけセブン」でレポーターを務める。
+  - 2013年、「AAA TOUR 2013 Eighth Wonder」では西尾に加えさがねも参加するツアーレポート番組「ブーデーpresents逢いたかったらWonderパフォーマンス\!」でレポーターを務める。
+  - 2014年、[PlayStation 3専用ソフト](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")『[魁\!\!男塾](../Page/魁!!男塾.md "wikilink") 〜日本よ、これが男である\!〜』のPR用ムービー「男の大バトルスペシャル」にさがねが古坂大魔王、クロちゃん（[安田大サーカス](../Page/安田大サーカス.md "wikilink")）、[ななめ45°](../Page/ななめ45°.md "wikilink")と共に出演。メンバーは『魁\!\!男塾』の世界を再現した衣装（古坂は[長ラン](../Page/長ラン.md "wikilink")に白鉢巻きに下駄履き、さがねは羽織袴、クロちゃんとななめ45°は長ランに学生帽に下駄履き）を着用、古坂とさがねはナース風レースクイーンの衣装を着た木口亜矢と共に進行係を務め、後の4人が白褌一丁になって「男塾入塾試験」と称した過激なゲームを行った\[5\]（[ファミ通.com内記事](http://www.famitsu.com/news/201402/25048846.html)）。
+  - またこの年、さがねは『[R-1ぐらんぷり](../Page/R-1ぐらんぷり.md "wikilink")』に出場して2回戦まで進んでいる。
+  - 2015年7月12日、東京・しもきた空間リバティにてユニットライブ「ホニーライブ」を開催。西尾が[チャーミングのネタに](https://ja.wikipedia.org/wiki/チャーミング_\(お笑いコンビ\) "wikilink")「『こんな面白いネタをやる人たちがいるなんて\!』と思ったと同時に、自分たちが忘れていた何かを思い出させてくれた」と感銘を受けた事が開催の動機で、ライブにはチャーミングとその同僚の[オテンキ](https://ja.wikipedia.org/wiki/オテンキ "wikilink")、それに自分の後輩の[オレンジサンセット](https://ja.wikipedia.org/wiki/オレンジサンセット "wikilink")を呼んでいる。なおライブ名は4組の所属事務所の名前（[ホリプロコム](https://ja.wikipedia.org/wiki/ホリプロコム "wikilink")と[SMA NEET Project](https://ja.wikipedia.org/wiki/SMA_NEET_Project "wikilink")）を組み合わせた物で、次回以降については楽しいかどうかに重きを置いて柔軟に展開していくとの事\[6\]。
+  - 2016年5月、[漫才協会](https://ja.wikipedia.org/wiki/漫才協会 "wikilink")に加入\[7\]。同年3月の漫才協会のライブ「漫才大行進」の「道場破り枠」への出演がきっかけで、ライブ後の打ち上げの席上で青空好児（[青空球児・好児](https://ja.wikipedia.org/wiki/青空球児・好児 "wikilink")）から「やはり芸人は舞台の上でネタをやらないと」と言われた事から、芸人として自分たちの芸を磨き直すために入会を決めたという。
+
+## エピソード
+
+  - 事務所の後輩のバナナマンと仲がいい。[日村勇紀](https://ja.wikipedia.org/wiki/日村勇紀 "wikilink")は実際は先輩だが後輩として接しており、日村もX-GUNの二人を先輩として接している。
+  - [AAAとはデビュー当初から仲がよく](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")、2008年のドラマ「未来世紀シェイクスピア」のDVDでも共演し、現在ではツアーレポート番組のレポーターを務めている。またその縁で、西尾はメンバーの宇野実彩子が出演するドラマ「[東京トイボックス](../Page/東京トイボックス.md "wikilink")」（テレビ東京系）の第5話にゲスト出演もしている。なお、ツアーレポート番組のタイトルにつく「ブーデー」とはAAAのメンバーが西尾につけたあだ名である。
+
+### 西尾季隆
+
+  - 太っている方。「おばちゃんのマネ」「[K-1](../Page/K-1.md "wikilink")参戦の時の子供のイニシャルの刺繍入りパンツを手にしている[曙太郎](../Page/曙太郎.md "wikilink")」など、誰もしないモノマネが得意である。
+  - コントでは主に女性キャラを演じる。おばちゃん（これのイメージモデルは自身の母親らしい）や、突然逆ギレしたり妄想の世界に入り込んだりする女性が多い。
+  - バンドメンバーやアイドルなど音楽関係の知人が多く、[底ぬけAIR-LINE](https://ja.wikipedia.org/wiki/底ぬけAIR-LINE "wikilink")時代からのつき合いの[古坂大魔王](../Page/古坂大魔王.md "wikilink")と共に音楽イベントも開催。[GOING UNDER GROUNDのファンでPVにも数回出演している](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND "wikilink")。
+  - [K-POP](https://ja.wikipedia.org/wiki/K-POP "wikilink")に詳しい。特に[少女時代のテヨンと](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink")[KARA](https://ja.wikipedia.org/wiki/KARA "wikilink")の[ハン・スンヨン](https://ja.wikipedia.org/wiki/ハン・スンヨン "wikilink")が好き。。
+  - 2007年10月、[S状結腸憩室穿通を発症し約半月間入院した](https://ja.wikipedia.org/wiki/大腸憩室症 "wikilink")[1](http://oisha.livedoor.biz/archives/51069033.html)[その時のブログ](http://blog.goo.ne.jp/niccyamenxgn/m/200711)。患部の切除手術は4時間に及んだという。それ以降は体質改善などのため[えのき氷](https://ja.wikipedia.org/wiki/えのき氷 "wikilink")（[エノキタケ](https://ja.wikipedia.org/wiki/エノキタケ "wikilink")をミキサーで挽いた後煮出してから凍らせた物）を食べるなど心がけている。また2013年8月21日には、この体験を踏まえたえのき氷に関する書籍「えのき氷　本当にすごいから試してよ\!マニュアル」が発売されている。
+  - サンボマスターの大ファンでライブへは頻繁に通っている。ライブの曲中にヴォーカルの山口隆にステージ上から名前を呼ばれ、アリーナからステージに上がり一緒に歌った事がある。
+
+### さがね正裕
+
+  - ニックネームは「ガネさん」「ガネック」。
+  - 芸風は以下のとおり。
+      - 例：「（ビートたけしの『コマネチ』のような動作で）ウィ、ウィ、ウィー」
+
+::「すっとんとん、すっとんとん、ハミルトン、スケルトン」
+
+::「こんにちワッショイ、WHO ARE YOU\!」
+
+::「うーん、感謝感激乱れ打ち、ボォ〜\!\!」
+
+::「アラブのおやじに見つかって、ごめんなさいと謝った、意味わかんね（片手を振る）」
+
+::「あ、ワン\!あ、ツー\!あ、ワン・ツー・スリー\!（踊り出す）踊りにくっ\!」
+
+::「ふっさ、ふっさ、ふっさふっさ、ふっさふさ〜\!（頭に手をやる）いらないっ\!（投げ捨てる動作）」
+
+::「最初はグー、シャンパンポ〜ン\!（シャンパンを開ける動作をする）」
+
+::など。
+
+:\*一発ギャグをやる時の声は基本的に裏声である。また、パーソナリティーを務める「X-GUNのぐんぐんサタデー」ではリスナーから「こんな局面で使える一発ギャグ」を募集する「さがね一発ギャグ工場」というコーナーを持っている。
+
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")から[名字](../Page/名字.md "wikilink")を[平仮名](../Page/平仮名.md "wikilink")表記に変更。これは知り合いの[占い師](https://ja.wikipedia.org/wiki/占い師 "wikilink")に「画数が悪い」と言われたため。
+  - 「ボキャブラ天国」終了後に仕事が激減して本気で芸人を辞めようかと考えていた際、友人である[有田哲平](../Page/有田哲平.md "wikilink")（[くりぃむしちゅー](../Page/くりぃむしちゅー.md "wikilink")）や[山崎弘也](https://ja.wikipedia.org/wiki/山崎弘也 "wikilink")（[アンタッチャブル](../Page/アンタッチャブル_\(お笑いコンビ\).md "wikilink")）から「ガネさんは社会に出てもどーせ何もできないよ」「ガネさんは芸人しかできないよ」などと激励されたという。
+  - 既婚（[できちゃった結婚](https://ja.wikipedia.org/wiki/できちゃった結婚 "wikilink")）で子（長男）がある事を事務所・webサイトを通じ公表している。
+  - 高校（[京都府立西舞鶴高等学校](https://ja.wikipedia.org/wiki/京都府立西舞鶴高等学校 "wikilink")）在学中には「MOON LIGHT HEAVEN（ムーンライトヘヴン）」というバンドを組んでいてボーカルを担当していた。その時のナンバーはラジオ「X-GUNちゃうんかい」のオープニング曲に使用された事もある。また現在は「さがね侍BAND」というロックバンドを主催し、自らボーカルと作詞を担当している。
+  - 2013年6月23日、[御徒町](../Page/御徒町.md "wikilink")に実家の味を基にした「お母さんの味」がコンセプトのレストラン「ステーキ・ハンバーグさがね」を開店するも、2013年11月30日閉店。その後2014年2月10日より[西新宿](../Page/西新宿.md "wikilink")で串揚げ焼酎BAR「嵯峨根家」を開店し、2015年には愛知県[豊橋市](https://ja.wikipedia.org/wiki/豊橋市 "wikilink")と高知県[高知市](../Page/高知市.md "wikilink")はりまや町にそれぞれ支店を開店している。
+
+## 賞レース
+
+  - 2006年 M-1グランプリ 3回戦進出（丁半コロコロとして）
+  - 2011年 THE MANZAI 2回戦進出
+
+## 出演
+
+### テレビ
+
+  - レギュラー・準レギュラー番組
+
+<!-- end list -->
+
+  - [お茶とUN](../Page/お茶とUN.md "wikilink")（1993年10月4日 - 1994年3月28日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
+  - [タモリのボキャブラ天国](https://ja.wikipedia.org/wiki/タモリのボキャブラ天国 "wikilink")（1994年8月31日 - 1999年9月25日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）キャッチコピーは『アジアの超特急』
+  - ムキムキたまご（1995年、テレビ朝日）準レギュラー
+  - ヤングのウ・フ・フ（1995年11月3日 - 1995年12月31日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - UP TO デート（1996年、テレビ東京）
+  - クールパラダイス（1996年、テレビ東京）
+  - キャシーのいいもの見〜つけた\!\!（1996年、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")）
+  - [前略ヒロミ様](https://ja.wikipedia.org/wiki/前略ヒロミ様 "wikilink")（1996年4月 - 9月、フジテレビ）西尾のみ
+  - スターカラオケ"GOIKUN"（1997年）
+  - [マガ不思議](https://ja.wikipedia.org/wiki/マガ不思議 "wikilink")（1997年10月6日 - 1998年9月29日、[TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")）
+  - [お笑い向上委員会 笑わせろ\!](../Page/お笑い向上委員会_笑わせろ!.md "wikilink")（1997年10月7日 - 1998年9月28日、テレビ朝日）
+  - [コスモ★エンジェル](https://ja.wikipedia.org/wiki/コスモ★エンジェル "wikilink")（2002年5月16日 - 6月27日、[東海テレビ](https://ja.wikipedia.org/wiki/東海テレビ "wikilink")・BSフジ）西尾のみ
+  - [内村プロデュース](https://ja.wikipedia.org/wiki/内村プロデュース "wikilink")（2002年7月25日 - 2003年5月19日、テレビ朝日）さがねのみ準レギュラー、西尾は1回のみ出演
+  - [爆笑問題のススメ](../Page/爆笑問題のススメ.md "wikilink")（2002年9月 - 2005年3月、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - なりギャル.TV（2004年10月 - 2005年9月、[千葉テレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")）**MC**
+  - 超音（2005年11月 - 2006年3月、千葉テレビ）**MC**
+  - 勝利の女神の法則（2016年4月 - 9月、千葉テレビ）**MC**
+  - [3時は\!ららら♪](https://ja.wikipedia.org/wiki/3時は!ららら♪ "wikilink")（2008年3月31日 - 2016年9月16日、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")）西尾のみ
+  - [IJP イジュウインパーク](https://ja.wikipedia.org/wiki/IJP_イジュウインパーク "wikilink")（2010年4月9日 - 2011年3月25日、[東京MXテレビ](../Page/東京メトロポリタンテレビジョン.md "wikilink")）さがねのみ
+  - bump.y JUMP\!\!\!\!\!（[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")・2011年6月9日 - 12月8日）西尾のみ**MC**
+  - [三又ノ番組](https://ja.wikipedia.org/wiki/三又ノ番組 "wikilink")（2014年4月18日 - 2018年8月24日、[東日本放送](../Page/東日本放送.md "wikilink")）西尾のみレギュラー、さがねはゲストとして不定期出演
+
+<!-- end list -->
+
+  - 不定期出演
+
+<!-- end list -->
+
+  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）戦績2勝1敗 最高385KB（これはオフエアのKBであり、オンエアの最高は380KB）
+  - [ザ・イロモネア](https://ja.wikipedia.org/wiki/ウンナン極限ネタバトル!_ザ・イロモネア_笑わせたら100万円 "wikilink")（TBS）『ゴールドラッシュ』に出演、イロモネア出場権獲得
+  - [お笑いDynamite\!](https://ja.wikipedia.org/wiki/お笑いDynamite! "wikilink")（TBS、2008年12月29日・2009年12月29日）キャッチコピーは「アジアの超特急2008」
+  - [オールスター後夜祭](https://ja.wikipedia.org/wiki/オールスター感謝祭#%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E5%BE%8C%E5%A4%9C%E7%A5%AD "wikilink")（2018年4月7日・10月7日\[8\]、2019年4月7日\[9\]、TBS）
+  - [爆笑そっくりものまね紅白歌合戦](https://ja.wikipedia.org/wiki/爆笑そっくりものまね紅白歌合戦スペシャル "wikilink")（フジテレビ）
+  - [爆生レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")（フジテレビ）キャッチフレーズは「帰ってきたアジアの超特急」。コラボカーペットでは、小林優介（[響](https://ja.wikipedia.org/wiki/響_\(お笑い\) "wikilink")）&[谷田部俊](https://ja.wikipedia.org/wiki/谷田部俊 "wikilink")（[我が家](../Page/我が家.md "wikilink")）&[高橋健一](https://ja.wikipedia.org/wiki/高橋健一_\(お笑い芸人\) "wikilink")（[キングオブコメディ](https://ja.wikipedia.org/wiki/キングオブコメディ "wikilink")）と共演
+  - [GAHAHAキング 爆笑王決定戦](../Page/GAHAHAキング_爆笑王決定戦.md "wikilink")（テレビ朝日）
+  - [GAHAHA王国](../Page/GAHAHA王国.md "wikilink")（テレビ朝日）
+  - [笑いの金メダル](../Page/笑いの金メダル.md "wikilink")（テレビ朝日）さがねのみ
+  - [伊集院光のばんぐみ](https://ja.wikipedia.org/wiki/伊集院光のばんぐみ "wikilink")（[BS11デジタル](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")）
+  - [ジャガイモン](https://ja.wikipedia.org/wiki/ジャガイモン "wikilink")（[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")）さがねのみ不定期出演
+
+### ラジオ
+
+  - X-GUNちゃうんかい（1998年10月 - 1999年9月、TBSラジオ）
+  - [イキナリ\!](https://ja.wikipedia.org/wiki/イキナリ! "wikilink")（月曜日）[丁半コロコロの一発かましたれ\!\!](https://ja.wikipedia.org/wiki/丁半コロコロの一発かましたれ!! "wikilink")（2000年1月 - 2008年3月、TBCラジオ）
+  - [RADICAL LEAGUE 『水曜日X-GUNラジオ どすこい\!\!』](https://ja.wikipedia.org/wiki/RADICAL_LEAGUE#水曜日『\(丁半コロコロ→\)X-GUNラジオ_どすこい!!』 "wikilink")（2006年4月 - 2009年3月、[FM-FUJI](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")）
+  - [X-GUNの激烈\!ガッテム](https://ja.wikipedia.org/wiki/X-GUNの激烈!ガッテム "wikilink")（2012年10月 -[TBCラジオ](../Page/東北放送.md "wikilink")）
+  - X-GUNのぐんぐんサタデー（2015年4月 - 2017年3月、[YBSラジオ](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")）
+  - さがね（X-GUN）とシュリカ（[SPY](https://ja.wikipedia.org/wiki/SPY_\(モデルユニット\) "wikilink")）のスマイルGO！GO！（2017年2月 - 、[市川うららFM](../Page/エフエム浦安.md "wikilink")）さがねのみ
+  - X-GUNのザ・ゴリガチテン（[NACK5](../Page/エフエムナックファイブ.md "wikilink") [Co-sotto 1-6内](https://ja.wikipedia.org/wiki/Co-sotto_1-6 "wikilink")）
+  - [爆笑問題の日曜サンデー](../Page/爆笑問題の日曜サンデー.md "wikilink")（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）
+  - くりぃむしちゅーのオールナイトニッポン（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
+  - 犬山イヌコのピコピコ団栗くん（ネットラジオ：Klap、不定期）
+
+### ドラマ
+
+  - せつない TOKYO HEART BREAK 第7話「ア・イ・カ・タ」（テレビ朝日、1998年）
+  - [史上最悪のデート](https://ja.wikipedia.org/wiki/史上最悪のデート "wikilink") 第15話（日本テレビ、2000年）
+  - [土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")「[おとり捜査官・北見志穂](https://ja.wikipedia.org/wiki/おとり捜査官・北見志穂 "wikilink")16 婚カツ美女連続殺人」（テレビ朝日、2012年）西尾のみ
+  - [大奥〜誕生［有功・家光篇］](https://ja.wikipedia.org/wiki/大奥〜誕生［有功・家光篇］ "wikilink")（TBS、2012年）西尾のみ
+  - 空飛ぶ広報室「第9話」「第10話」（TBS、2013年）西尾のみ
+  - [三匹のおっさん〜正義の味方、見参\!\!〜](https://ja.wikipedia.org/wiki/三匹のおっさん#テレビドラマ "wikilink")「第5話」（テレビ東京、2014年）西尾のみ
+  - [スペシャリスト3](https://ja.wikipedia.org/wiki/スペシャリスト_\(テレビドラマ\)#土曜ワイド劇場（特別企画） "wikilink")（テレビ朝日、2015年）さがねのみ
+  - [赤ひげ (2017年のテレビドラマ)](https://ja.wikipedia.org/wiki/赤ひげ_\(2017年のテレビドラマ\) "wikilink")（2017年） ‐ 壱岐守 西尾のみ
+
+### 映画
+
+  - [地獄甲子園](../Page/地獄甲子園.md "wikilink")（2002年7月）西尾：番長役
+  - 漫☆画太郎SHOW [ババアゾーン](https://ja.wikipedia.org/wiki/ババアゾーン "wikilink")（他）」内「ハデー・ヘンドリックス物語（2004年3月）西尾：ハデー・ヘンドリックスのメンバー役
+  - [ジェニファ 涙石の恋](../Page/ジェニファ_涙石の恋.md "wikilink")（2004年）西尾のみ
+  - [まいっちんぐマチコ\!ビギンズ](https://ja.wikipedia.org/wiki/まいっちんぐマチコ先生#まいっちんぐマチコ!ビギンズ "wikilink")（2005年）さがねのみ
+  - 喰いしん坊\! 大喰い苦闘編（2007年）西尾のみ
+  - [ヒトリマケ](https://ja.wikipedia.org/wiki/ヒトリマケ "wikilink")（2008年）
+  - AVN/エイリアンvsニンジャ（2011年）西尾のみ
+
+### ウェブ
+
+  - ムカつく女にお仕置きするTV 〜美人泣顔〜（[BeeTV](https://ja.wikipedia.org/wiki/BeeTV "wikilink")、第1話 - 第11話）西尾のみ
+  - 裏ではリアル脱衣麻雀SP\!\! ～本戦のみんなガンバってね！！～（2016年6月18日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")）MC\[10\]
+
+### CM
+
+  - こんがりクラブ（ロッテ、1992年）
+  - au損保『あ・う・て』自転車親子篇（2014年） ※さがねのみ
+
+## 作品
+
+### 書籍
+
+  - えのき氷　本当にすごいから試してよ\!マニュアル（ルックナゥ、2013年8月）
+
+### CD
+
+  - 「ネタDE笑辞典」M2カンパニー編（日本コロムビア、1998年1月）
+  - 君を抱きしめたい\[11\]（ホリプロ、1998年8月）
+  - 振り向け\[12\]（東芝EMI、1996年8月）
+  - まんぷくトランス（ビクターエンタテインメント、2006年5月）西尾のみ
+
+### VTR
+
+  - X-GUN"GO\!"（ポニーキャニオン、1997年10月）
+  - X-GUN"STAY OR GO"（ポニーキャニオン、1999年11月）
+  - ギャグウォーズ3（ハピネット・ピクチャーズ、1997年）
+
+### 単独ライブ
+
+| 日程                                                                                          | タイトル       | 会場            |
+| ------------------------------------------------------------------------------------------- | ---------- | ------------- |
+| [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月24日](../Page/6月24日.md "wikilink") | GO\!       | 渋谷ON AIR EAST |
+| [1999年](../Page/1999年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")                    | STAY OR GO | 赤坂BLITZ       |
+| [2002年](../Page/2002年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")                    | ペラい男       | 新宿シアターモリエール   |
+
+### 主催ライブ
+
+| 日程                                                                                          | タイトル        | 会場         | ゲスト                   |
+| ------------------------------------------------------------------------------------------- | ----------- | ---------- | --------------------- |
+| [2015年](../Page/2015年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")                    | ホニーライブvol.1 | しもきた空間リバティ | チャーミング、オテンキ、オレンジサンセット |
+| [2015年](../Page/2015年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") | ホニーライブvol.2 | しもきた空間リバティ | チャーミング、オテンキ、オレンジサンセット |
+| [2015年](../Page/2015年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")                    | ホニーライブvol.3 | しもきた空間リバティ | チャーミング、オテンキ、オレンジサンセット |
+
+## 脚注
+
+## 外部リンク
+
+  - [X-GUN - ホリプロコム オフィシャルウェブサイト](http://com.horipro.co.jp/talent/x-gun/)
+
+  - [ニッチャメンの我道行願〜我が道を行きたい。](http://blog.goo.ne.jp/niccyamenxgn/c/1d29b53e63b244b1ab228e84585b41b5)（西尾のブログ 2004年11月-2009年4月）
+
+  - [ニッチャメンの我道行願〜我が道を行きたい。](http://ameblo.jp/nicchamenxgun/)（西尾のブログ 2009年4月-）
+
+  - \[<http://ameblo.jp/saganemasahiro/>　X-GUN さがね正裕オフィシャルブログ\]（さがねのブログ）
+
+  - [「X-GUNのぐんぐんサタデー」公式サイト](http://www.ybs.jp/radio/gungun/)
+
+  - [X-GUN一家（Webアーカイブ）](http://web.archive.org/web/20060502040623/http://www.geocities.co.jp/Hollywood-Miyuki/3483/top.html) - ファンサイト（掲示板にメンバーの書き込みあり）
+
+  - [M2カンパニー時代の公式プロフィール（Webアーカイブ）](http://web.archive.org/web/20050903210054/http://www.m2company.co.jp/cgi-bin/m2/talent.cgi?TNUM=1)
+
+  -
+  -
+  -
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:ものまねタレント](https://ja.wikipedia.org/wiki/Category:ものまねタレント "wikilink") [Category:ホリプロ](https://ja.wikipedia.org/wiki/Category:ホリプロ "wikilink") [Category:MIDTOWN_TV](https://ja.wikipedia.org/wiki/Category:MIDTOWN_TV "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+
+1.  [「ココロの旅」2012年11月20日放送分](http://archive.is/5Z3dU)（webアーカイブ）
+2.  『[ブラマヨとゆかいな仲間たち アツアツっ\!](https://ja.wikipedia.org/wiki/ブラマヨとゆかいな仲間たち_アツアツっ! "wikilink")』2011年10月22日放送より。
+3.  [1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")放送分
+4.  「コンビ解散を考えたのは何回?」というクイズとして出題された。
+5.  [お笑いナタリー記事、2014年2月27日](http://natalie.mu/owarai/news/110668)
+6.  [お笑いナタリー記事、2015年5月28日](http://natalie.mu/owarai/news/148723)
+7.  [お笑いナタリー記事、2016年5月5日](http://natalie.mu/owarai/news/186100)
+8.
+9.
+10.
+11. 単独ライブ「STAY OR GO」の会場内で発売されたCDつきパンフレットで、曲はX-GUNの2人が作詞・作曲した物である。後にライブビデオの付録にもなっている。
+12. 「前略ヒロミ様」（フジテレビ）の番組内で結成されたバンド「ザ・フライングオイスターズ」のナンバーで、当時番組に出演していた西尾がドラムを担当している。

@@ -1,0 +1,210 @@
+> この記事は[LIVE](https://ja.wikipedia.org/wiki/LIVE)から翻訳されています。
+
+
+『**長渕剛LIVE**』（ながぶちつよし・ライブ）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の初の[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")である。
+
+1980年から1981年にかけてのライブから抜粋して収録され、大半が長渕剛本人によるギター弾き語りで進められている。
+
+## 背景
+
+前作『[乾杯](../Page/乾杯_\(アルバム\).md "wikilink")』（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")）リリース後、長渕は単独ライブツアー「長渕剛コンサートツアー'80」を9月8日から翌1981年1月9日まで開催した。
+
+シングル「[順子/涙のセレナーデ](https://ja.wikipedia.org/wiki/順子/涙のセレナーデ "wikilink")」（1980年）がミリオンセラーを獲得し、10月5日にはそれに次ぐシングル「[ヒロイン](https://ja.wikipedia.org/wiki/ヒロイン_\(長渕剛の曲\) "wikilink")」（1980年）をアルバム『乾杯』からのシングルカットとしてリリースするも、同曲はあまり売り上げが伸びずヒットには至らなかった。
+
+それ以外の活動として、10月より[TBSラジオ](../Page/TBSラジオ.md "wikilink")にて『ナウ・ジェネレーション/長渕剛のアピール26』、[ニッポン放送](../Page/ニッポン放送.md "wikilink")にて『長渕剛のひたすら60分』のパーソナリティーを務め始める。
+
+そんな折、長渕の元に寄せられた手紙の中に「なぜレコードもギター1本でやらないのか」という投げ掛けがあったため、それに対する返答として本作のリリースが決定された\[1\]。長渕は「ステージは俺の姿勢と本音。いわゆる俺の裸の生きざま。レコードは一人のミュージシャンとしての音楽に対する挑戦状」という考え方を持っており、前述のハガキをきっかけに「裸の俺の生きざまをレコードで証明するとしたら、これはもうライブ盤しかない」との思いから本作のリリースに踏み切った\[2\]。
+
+## 構成
+
+文芸雑誌『文藝別冊 長渕剛 民衆の怒りと祈りの歌』では、「八〇年から八一年までのいくつかのライブを抜粋して収録した、この時点でのベスト盤的内容のライブアルバムである本作の聴きどころは、観客たちと楽しそうにコミュニケーションをとって歌う長渕のすがたであろう」、「その場での即興の盛りあがりを存分に示すこれらの曲からは、フォークシンガーとしてののかれのライブがこのときひとつの完成を見ていたことがわかる」と表記されている\[3\]。
+
+## リリース
+
+[1981年](../Page/1981年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に[東芝EMIのエキスプレスレーベルより](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、[LP](../Page/レコード.md "wikilink")、[カセットテープの](../Page/コンパクトカセット.md "wikilink")2形態でリリースされた。LP盤には4Pステージフォトが付属、また「乾杯」「さようならの唄」の2曲を収録したアンコールシングルが付属していた。カセット盤にはそれぞれA面とB面のラストに1曲ずつ分かれて収録されている。
+
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")には[CDにて初めてリリースされたが](../Page/コンパクトディスク.md "wikilink")、4Pステージフォトは省略され、「乾杯」「さようならの唄」はボーナスとして13、14曲目に収録されている。。その後[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")に24ビット・[デジタルリマスター](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink")、[紙ジャケット仕様で再リリース](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、4Pステージフォトは縮刷された物が付属されている。
+
+## アートワーク
+
+歌詞カード、及びライナーノートは、長渕の自筆によるもので、ライナーノートには、昭和56年[1月14日](../Page/1月14日.md "wikilink")記載の表記がある。
+
+このアルバムに於て、フォトグラファーに[大川奘一郎](https://ja.wikipedia.org/wiki/大川奘一郎 "wikilink")の名が見られるが、後に至るまで長渕のアルバムやライブの写真は、殆どが彼の撮影によるものである。
+
+文芸雑誌『文藝別冊 長渕剛 民衆の怒りと祈りの歌』では、「セピア色のジャケット写真が渋い。流れる長髪にサングラス、シックなロングコートに垂らされたマフラーのそのすがたから漂うのは、どこか中性的な雰囲気だ。いまの長渕しか知らないファンにはかなり意外なものであろう」と表記されている\[4\]。
+
+## 批評
+
+  - 音楽情報サイト『CDジャーナル』では、「ギター1本で生き様を感じさせる“兄貴”の魅力にあふれた1枚だ」と評されている\[5\]。
+
+<!-- end list -->
+
+  - 文芸雑誌『文藝別冊 長渕剛 民衆の怒りと祈りの歌』では、「今後さまざまなスタイルをとることになる歌手長渕剛のひとつの達成をしるすドキュメントであり、一曲一曲の迫真の演奏とともに、この時期のライブの熱狂を追体験させる勢いをとどめた名盤」と評されている\[6\]。
+
+## チャート成績
+
+[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高位4位となり、売り上げは約11万枚となった\[7\]。また、2006年の再発版では最高位227位となった\[8\]。
+
+## 収録曲
+
+## 曲解説
+
+### A面
+
+1.  **[巡恋歌](https://ja.wikipedia.org/wiki/巡恋歌 "wikilink")**
+      -
+        詳細は「[巡恋歌](https://ja.wikipedia.org/wiki/巡恋歌 "wikilink")」の項を参照。
+2.  **[順子](https://ja.wikipedia.org/wiki/順子/涙のセレナーデ "wikilink")**
+      -
+        詳細は「[順子](https://ja.wikipedia.org/wiki/順子/涙のセレナーデ "wikilink")」の項を参照。
+3.  **ひざまくら**
+      -
+        千葉でのライブで披露された**特別バージョン**。観客の名前を取って即興で歌う企画があり、「ひざまくら」の歌詞をパロディで変えて歌っている。因みにこの時の観客の名前は「まさお」。後に、このライブ・バージョンが[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[いつかの少年](https://ja.wikipedia.org/wiki/いつかの少年 "wikilink")』（[1994年](../Page/1994年.md "wikilink")）に収録されている。
+4.  **夏祭り**
+      -
+        主に初期のライブで演奏されていた曲だが、1990年代中盤以降のライブでも割とよく演奏されるようになった。長渕曰く、スリーフィンガーピッキング奏法の代表的なもののひとつであるということ。
+        なお、スリーフィンガー奏法を、[ポプコン出身の先輩アーティストでもある](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")、[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")に伝授したという話もある。
+5.  **[祈り](https://ja.wikipedia.org/wiki/祈り_\(長渕剛の曲\) "wikilink")**
+      -
+        詳細は「[祈り](https://ja.wikipedia.org/wiki/祈り_\(長渕剛の曲\) "wikilink")」の項を参照。
+6.  **暗闇の中の言葉**
+
+### B面
+
+1.
+
+    <li value="7">
+
+    **俺らの旅はハイウェイ**
+
+      -
+        もともとライブでのみ歌われる楽曲であったが、後にベスト・アルバム『[BEST〜風〜](https://ja.wikipedia.org/wiki/BEST〜風〜 "wikilink")』（[2002年](../Page/2002年.md "wikilink")）に収録されている。
+
+2.  **[二人歩記](https://ja.wikipedia.org/wiki/二人歩記 "wikilink")**
+
+      -
+        詳細は「[二人歩記](https://ja.wikipedia.org/wiki/二人歩記 "wikilink")」の項を参照。
+
+3.  **しゃぼん玉 <small>挿入曲「しゃぼん玉」</small>**
+
+      -
+        長渕自身の主演テレビドラマ『[しゃぼん玉](https://ja.wikipedia.org/wiki/しゃぼん玉_\(テレビドラマ\) "wikilink")』（[1991年](../Page/1991年.md "wikilink")、[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")）の主題歌としてリリースされた「[しゃぼん玉](../Page/しゃぼん玉_\(長渕剛の曲\).md "wikilink")」とは全く別の曲となっている。
+
+4.  **[帰って来いよ](https://ja.wikipedia.org/wiki/帰ってこいよ "wikilink")**
+
+      -
+        [松村和子](https://ja.wikipedia.org/wiki/松村和子 "wikilink")の同名曲（1980年）のカバーだが、歌っている途中から「巡恋歌」の歌詞にすり変わっている。[石川鷹彦](https://ja.wikipedia.org/wiki/石川鷹彦 "wikilink")の[バンジョー](https://ja.wikipedia.org/wiki/バンジョー "wikilink")が三味線のような雰囲気を醸し出している。LP盤では曲タイトルが表記されていなかった。
+
+5.  **[俺らの家まで](https://ja.wikipedia.org/wiki/俺らの家まで "wikilink")**
+
+      -
+        詳細は「[俺らの家まで](https://ja.wikipedia.org/wiki/俺らの家まで "wikilink")」の項を参照。
+
+6.  **逆流**
+
+### アンコール・シングル
+
+1.
+
+    <li value="13">
+
+    **[乾杯](https://ja.wikipedia.org/wiki/乾杯_\(長渕剛の曲\) "wikilink")**
+
+      -
+        詳細は「[乾杯](https://ja.wikipedia.org/wiki/乾杯_\(長渕剛の曲\) "wikilink")」の項を参照。
+
+2.  **さようならの唄**
+
+      -
+        当時のライブで最後に演奏されていた曲。2000年代後半になって、再びライブの終わりに歌われることが多くなった。また、俳優の[美木良介](https://ja.wikipedia.org/wiki/美木良介 "wikilink")がこの歌をカバーしている。
+
+## スタッフ・クレジット
+
+### 参加ミュージシャン
+
+  - 長渕剛 - [アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")、[マウスハープ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
+  - [石川鷹彦](https://ja.wikipedia.org/wiki/石川鷹彦 "wikilink") - アコースティックギター、ナッシュビル・チューニング・ギター、[バンジョー](https://ja.wikipedia.org/wiki/バンジョー "wikilink")
+  - 谷口陽一 - [ラップスチールギター](https://ja.wikipedia.org/wiki/スチールギター "wikilink")、[フィドル](https://ja.wikipedia.org/wiki/フィドル "wikilink")
+
+### スタッフ
+
+  - 長渕剛 - プロデューサー
+  - 陣山俊一（ユイ音楽工房） - ディレクター
+  - 山里剛（[ヤマハ音楽振興会](https://ja.wikipedia.org/wiki/ヤマハ音楽振興会 "wikilink")） - ディレクター
+  - 引田和幸（東芝EMI） - ディレクター
+  - 水沢雄一（ヤマハ音楽振興会） - レコーディング・エンジニア
+  - 小見俊一（ヤマハ音楽振興会） - レコーディング・エンジニア
+  - 奥村誠二（東芝EMI） - レコーディング・エンジニア
+  - 石塚良一 - レコーディング、ミックス・エンジニア
+  - [糟谷銑司](https://ja.wikipedia.org/wiki/糟谷銑司 "wikilink") - レコーディング・マネージャー
+  - 田村仁 - 写真撮影
+  - 大川奘一郎 - 写真撮影
+  - 荒井博文 - デザイナー
+  - 石川鷹彦 - スペシャル・サンクス
+  - 谷口陽一 - スペシャル・サンクス
+
+## リリース履歴
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>日付</p></th>
+<th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
+<th><p>規格</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p>最高順位</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p><a href="../Page/1981年.md" title="wikilink">1981年</a><a href="../Page/3月5日.md" title="wikilink">3月5日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
+<td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
+<a href="../Page/カセットテープ.md" title="wikilink">CT</a></p></td>
+<td><p>ETP-90041<br />
+ZT28-743</p></td>
+<td><p>4位</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a><a href="../Page/11月1日.md" title="wikilink">11月1日</a></p></td>
+<td><p>東芝EMI／エキスプレス</p></td>
+<td><p><a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
+<td><p>CA32-1185</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
+<td><p>東芝EMI／エキスプレス</p></td>
+<td><p>CD</p></td>
+<td><p>TOCT-25959</p></td>
+<td><p>227位</p></td>
+<td><p>24ビット・<a href="https://ja.wikipedia.org/wiki/デジタルリマスター" title="wikilink">デジタルリマスター</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a></p></td>
+</tr>
+</tbody>
+</table>
+
+## 脚注
+
+## 外部リンク
+
+  -
+  - [公式サイトディスコグラフィー「長渕剛LIVE」](http://www.nagabuchi.or.jp/disco/album/nagabuchi_live.php)
+
+  -
+[Category:1981年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:1981年のライブ・アルバム "wikilink") [Category:エキスプレスのアルバム](https://ja.wikipedia.org/wiki/Category:エキスプレスのアルバム "wikilink") [Category:長渕剛のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:長渕剛のライブ・アルバム "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.

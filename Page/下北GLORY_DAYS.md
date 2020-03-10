@@ -1,0 +1,119 @@
+> この記事は[GLORY DAYS](https://ja.wikipedia.org/wiki/GLORY_DAYS)から翻訳されています。
+
+
+『**下北GLORY DAYS**』（しもきたグローリーデイズ）は、[週刊ヤングサンデー](../Page/週刊ヤングサンデー.md "wikilink")に連載されていた[大谷じろう](https://ja.wikipedia.org/wiki/大谷じろう "wikilink")の漫画作品、およびそれを原作としたテレビドラマ。
+
+## 概要
+
+週刊ヤングサンデー[2004年](../Page/2004年.md "wikilink")21・22合併号にて連載開始。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")21号で一旦終了した後、同年25号から“Second Season”として再開。[2007年](../Page/2007年.md "wikilink")20号まで合計3年間続いた。単行本はヤングサンデーコミックスで全12巻。
+
+番外編としてヤングサンデー増刊「アイドルパラダイス」[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月14日](../Page/6月14日.md "wikilink")号掲載の『下北GLORY DAYS〜お嬢の処女作〜』、ヤングサンデー増刊[2007年](../Page/2007年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink")号掲載の『下北GLORY DAYS another season〜おかえり飯蔵…の巻』がある。
+
+## ストーリー
+
+## 登場人物
+
+### ぬーとぴあの住人
+
+  - 大野 優太（おおの ゆうた）〈18〉
+    演 - [一太郎](../Page/一太郎_\(俳優\).md "wikilink")
+    長野から家出同然で上京した浪人生。高校のときは野球部の補欠だったが、ケガで1年留年。上京の目的はみのりと同じ六教大学に入学することだが、現在偏差値35しかなく、無謀にも偏差値が合わない大学を受験する模様（現に模試での合格可能性は10%程度）。住人の中で断トツに「鈍い」。家賃1万円で生活し、家賃の条件である家事全般を請け負っている。泥酔すると「悪魔の雄太」に豹変する。
+  - 上原 真央（うえはら まお）〈20〉
+    演 - [橋本愛実](https://ja.wikipedia.org/wiki/橋本マナミ "wikilink")
+    ぬーとぴあ一の美女。予備校生。Fカップ。クールで気が強いが、いわゆる「[ツンデレ](https://ja.wikipedia.org/wiki/ツンデレ "wikilink")」キャラである。昼は優太と同じ予備校に通い、夜はキャバクラでアルバイトをしている。国立大学医学部を目指し、2浪して勉強中。偏差値70。特技は踵落としで、優太は何度も喰らっている。優太との出会いは最悪だったが、話が進むにつれて彼のことが気になっていく。最終話では、シェアメイトの中で唯一男っ気がなかった。
+  - 仁科 なつめ（にしな なつめ）〈21〉
+    演 - [穂花](../Page/下村愛.md "wikilink")
+    スタイル抜群、女優志望の[フリーター](../Page/フリーター.md "wikilink")で、地元の劇団に所属する研究生。役作りと称して、よく[コスプレ](../Page/コスプレ.md "wikilink")をする。遭難したとき優太に助けられて以来、あの手この手の色仕掛けで誘惑しようとしている。以前、優太を無理矢理[ラブホテル](https://ja.wikipedia.org/wiki/ラブホテル "wikilink")に連れ込んで1泊するも、何事もなく帰って来たことがある。美葉の胸を揉むくせがある。
+  - 小森 美葉（こもり みは）〈20〉
+    演 - [麻美ゆま](https://ja.wikipedia.org/wiki/麻美ゆま "wikilink")
+    愛称**お嬢**。[芥川賞を狙うぽっちゃり体形巨乳](../Page/芥川龍之介賞.md "wikilink")（Hカップ）の美大に通う文学系女子大生。実は極道の娘であり、キレると人相が変わり、凶暴になる。優太のことが好きで、家庭教師役を買って出ている。雄太をめぐってなつめと対立することもしばしば。
+  - 室井 千帆（むろい ちほ）〈28〉
+    演 - [益子梨恵](https://ja.wikipedia.org/wiki/益子梨恵 "wikilink")
+    通称**お姐**。ぬーとぴあオーナーで、大手デザインメーカー勤務。酒癖がとてつもなく悪く、酔っ払うと他人の布団に潜り込む。
+  - 岡崎 カオル（おかざき かおる）〈24〉
+    演 - [矢吹春奈](https://ja.wikipedia.org/wiki/矢吹春奈 "wikilink")
+    美容師。ぬーとぴあのお姉さん的存在。シェアハウスの生活は経験豊富。実は7歳の娘・芽衣（めい）を持つシングルマザーだったが、芽衣の父親である元カレとやり直すため、ぬーとぴあを退去する。その後はたまに遊びに来る。
+
+### ぬーとぴあ以外の人々
+
+  - 田嶋 みのり（たじま みのり）〈18〉
+    演 - [瀬戸早妃](https://ja.wikipedia.org/wiki/瀬戸早妃 "wikilink")
+    優太の彼女で、実家はりんご農家で末っ子。Cカップ。高校時代は、学校のマドンナで、雄太にとって彼女と付き合っていることは奇跡といえる。六教大学在学中で将来の夢は教師。チアリーディング部に所属している。勘が鋭い。何度か別れる危機におちいるが、そのつど克服し、ついに結婚する。テレビドラマ版では後にぬーとぴあに入居する。
+  - 榎 艶子（えのき つやこ）
+    演 - [杉本彩](https://ja.wikipedia.org/wiki/杉本彩 "wikilink")
+    ドラマオリジナルキャラクター。年齢不詳。ぬーとぴあの近所に住む未亡人。昔の件からか、何かとぬーとぴあ（特に千帆）を目の敵にしており、退去させようとしている。
+  - 一文字 のぞみ（いちもんじ のぞみ）〈23〉
+    演 - [蒼井そら](https://ja.wikipedia.org/wiki/蒼井そら "wikilink")
+    ドラマオリジナルキャラクター。北沢東警察署勤務の婦人警官。頻繁にぬーとぴあに出入りしては、住人を引っ掻き回している。5歳の頃、プールで溺れた際に艶子がとった行動が原因で水（水面）恐怖症になってしまったため、彼女に籠絡されている。
+
+## テレビドラマ
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")から同年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列にて[連続ドラマ](https://ja.wikipedia.org/wiki/連続ドラマ "wikilink")化され、[スポパラ内](https://ja.wikipedia.org/wiki/バラエティ7 "wikilink")「[ドラマ24](../Page/ドラマ24.md "wikilink")」枠にて放送された。スポパラとしては前々作『[嬢王](https://ja.wikipedia.org/wiki/嬢王 "wikilink")』、前作『[2ndハウス](../Page/2ndハウス.md "wikilink")』に続き、第3作の連続ドラマ（「ドラマ24」の第3シリーズ）である。基本的には、原作とストーリーが異なる部分が多い。全12回（[テレビ大阪](../Page/テレビ大阪.md "wikilink")では[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")開始、7月13日終了）。キャッチコピーは「**ひとつ屋根の下、お色気満開。**」
+
+### ストーリー（テレビドラマ）
+
+[長野からやって来た大学受験生](../Page/長野県.md "wikilink")・**大野優太**は、憧れの恋人・**田嶋みのり**を追って上京。情報誌を辿って見つけた[下北沢](../Page/下北沢.md "wikilink")の[シェアハウス](https://ja.wikipedia.org/wiki/ハウスシェア "wikilink")「**ぬーとぴあ**」に入居したのだ。
+
+ぬーとぴあのシェアメイトは、優太を除きなんと全員女性。そんなお色気たっぷりの状況にあった優太はみのりに話せる理由がなかった。ところが、ある日突然ぬーとぴあにいる優太にみのりから電話がかかってきた。その一本の電話が誤解の原因となり、2人は別離の危機を迎える。優太には、悶々とした焦燥感の日々が続くのであった。
+
+### スタッフ
+
+  - 原作 - 大谷じろう（小学館刊「週刊ヤングサンデー」連載)
+  - 脚本 - [遠藤彩見](https://ja.wikipedia.org/wiki/遠藤彩見 "wikilink")
+  - 原案協力 - 石丸健太郎、白井康介、有藤智文（小学館「週刊ヤングサンデー」編集部）
+  - チーフプロデューサー - 太田哲夫（テレビ東京）
+  - プロデューサー - [岡部紳二](https://ja.wikipedia.org/wiki/岡部紳二 "wikilink")、[山鹿達也](https://ja.wikipedia.org/wiki/山鹿達也 "wikilink")（テレビ東京）、[高橋萬彦](https://ja.wikipedia.org/wiki/高橋萬彦 "wikilink")、[佐藤源太](https://ja.wikipedia.org/wiki/佐藤源太 "wikilink")（共同テレビ）
+  - 演出 - [石川淳一](https://ja.wikipedia.org/wiki/石川淳一 "wikilink")、[佐藤源太](https://ja.wikipedia.org/wiki/佐藤源太 "wikilink")、小山田雅和、[岩田和行](../Page/岩田和行.md "wikilink")、[松木創](https://ja.wikipedia.org/wiki/松木創 "wikilink")
+  - 製作 - テレビ東京、[共同テレビ](../Page/共同テレビジョン.md "wikilink")
+  - 製作著作 - 下北GLORY DAYS製作委員会
+  - 主題歌 - 「Lovespace」[名取香り](https://ja.wikipedia.org/wiki/名取香り "wikilink")
+  - エンディングテーマ - 「東京ひより」[ザ・コブラツイスターズ](https://ja.wikipedia.org/wiki/ザ・コブラツイスターズ "wikilink")
+
+### サブタイトル
+
+| 各話                                                                                                                                   | 放送日        | サブタイトル                     | 脚本                 | 演出     | 視聴率    |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ---------- | -------------------------- | ------------------ | ------ | ------ |
+| Lesson.1                                                                                                                             | 2006年4月14日 | 裸で乱舞…セクシー美女5人と夢のハーレム同居     |                    | 遠藤彩見   | 石川淳一   |
+| Lesson.2                                                                                                                             | 2006年4月21日 | 乳露わ…火照る柔肌黒パンキャバ嬢の秘密        | 佐藤源太               | \*.\*% |        |
+| Lesson.3                                                                                                                             | 2006年5月5日  | 妖艶未亡人vs赤パン酒乱女\! Hなミスコン乳ポロリ | 小山田雅和              | \*.\*  |        |
+| Lesson.4                                                                                                                             | 2006年5月12日 | 初ラブホの危険な夜抱いて…感じさせて\! 濡れた肌  | 岩田和行               | \*.\*% |        |
+| Lesson.5                                                                                                                             | 2006年5月19日 | ハーレム崩壊\!? 妖艶熟女の色香…童貞狩りさぁ坊や | 石川淳一               | 5.8%   |        |
+| Lesson.6                                                                                                                             | 2006年5月26日 | 人肌の温もり…生乳内緒で彼女と部屋で…×××     | 松木創                | 3.6%   |        |
+| Lesson.7                                                                                                                             | 2006年6月2日  | 温泉混浴\! 夜這い肌裸祭り…浴衣で乱れてゴメンね  | 佐藤源太               | \*.\*% |        |
+| Lesson.8                                                                                                                             | 2006年6月9日  | 東大男が彼女を奪う別れの予感…もつれた四角関係    | 小山田雅和              | \*.\*% |        |
+| Lesson.9                                                                                                                             | 2006年6月16日 | 9番目の女登場\! 最強H攻撃…罠に堕ちた女の戦い  | 佐藤源太               | \*.\*% |        |
+| Lesson.10                                                                                                                            | 2006年6月23日 | 処女と童貞の官能…女と男が開かれた夜\! 裏切り者  | 松木創                | \*.\*% |        |
+| Lesson.11                                                                                                                            | 2006年6月30日 | 男女9人裸の告白\! 処女裏切りのラブホ…抱いて   | 小山田雅和              | \*.\*% |        |
+| Last Lesson                                                                                                                          | 2006年7月7日  | 輝けおっぱい                     | 泥酔お触り…新たなハーレム伝説\!? | 佐藤源太   | \*.\*% |
+| 平均視聴率 5.5%（視聴率は[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")社調べ） |            |                            |                    |        |        |
+
+### ネット局・各地の放送時間
+
+| 地域                                                                                   | 放送局                                                              | 系列                                        | 放送曜日と時間            | 放送日の遅れ   |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------- | ----------------------------------------- | ------------------ | -------- |
+| [関東広域圏](https://ja.wikipedia.org/wiki/広域放送#概要 "wikilink")                            | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")（TX、製作局）  | テレビ東京系                                    | 毎週金曜 24:12 - 24:53 | －        |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")                                  | [テレビ北海道](../Page/テレビ北海道.md "wikilink")（tvh）                      |                                           |                    |          |
+| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")                                  | [テレビ愛知](../Page/テレビ愛知.md "wikilink")（TVA）                        |                                           |                    |          |
+| [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink") | [テレビせとうち](../Page/テレビせとうち.md "wikilink")（TSC）                    |                                           |                    |          |
+| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")                                  | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")（TVQ）                    |                                           |                    |          |
+| [大阪府](../Page/大阪府.md "wikilink")                                                     | [テレビ大阪](../Page/テレビ大阪.md "wikilink")（TVO）                        | 毎週木曜 24:12 - 24:53                        | 6日遅れ               |          |
+| [岐阜県](../Page/岐阜県.md "wikilink")                                                     | [岐阜放送](../Page/岐阜放送.md "wikilink")（GBS）                          | [独立UHF局](../Page/全国独立放送協議会.md "wikilink") | 毎週日曜 26:05 - 26:45 |          |
+| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")                                  | [東日本放送](../Page/東日本放送.md "wikilink")（KHB）                        | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系     | 毎週土曜 25:10 - 25:50 |          |
+| [広島県](../Page/広島県.md "wikilink")                                                     | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")（HOME）                 | 毎週金曜 25:16 - 25:56                        | 1年3か月遅れ            |          |
+|                                                                                      |                                                                  |                                           |                    |          |
+| [岩手県](../Page/岩手県.md "wikilink")                                                     | [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（IBC） | [TBS系](../Page/TBSテレビ.md "wikilink")      | 毎週金曜 25:30 - 26:10 | 1年10か月遅れ |
+| [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")                                  | [テレビユー山形](../Page/テレビユー山形.md "wikilink")（TUY）                    | 毎週木曜 25:55 - 26:30                        |                    |          |
+| [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")                                  | [チューリップテレビ](../Page/チューリップテレビ.md "wikilink")（TUT）                | 毎週水曜 24:50 - 25:30                        |                    |          |
+| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")                                  | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MRO）       | 毎週木曜 25:30 - 26:10                        |                    |          |
+| [静岡県](../Page/静岡県.md "wikilink")                                                     | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS）       | 毎週水曜 25:55 - 26:35                        |                    |          |
+| [山口県](../Page/山口県.md "wikilink")                                                     | [テレビ山口](../Page/テレビ山口.md "wikilink")（tys）                        | 毎週金曜 24:35 - 26:35（3話連続集中放送）              | 7か月遅れ              |          |
+| [鹿児島県](../Page/鹿児島県.md "wikilink")                                                   | [鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")（KYT）                  | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")  | 毎週木曜 25:45 - 26:25 |          |
+| [福島県](../Page/福島県.md "wikilink")                                                     | [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")（FCT）                    | 毎週金曜 25:45 - 26:25                        | 6か月遅れ              |          |
+| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")                                  | [熊本県民テレビ](../Page/熊本県民テレビ.md "wikilink")（KKT）                    | 毎週木曜 24:26 - 25:06                        | 6か月遅れ              |          |
+
+## 外部リンク
+
+  - [ヤンサンWEB -連載作品紹介- 下北GLORY DAYS](http://www.youngsunday.com/rensai/comics/shimokita.html)
+  - [テレビ東京](http://www.tv-tokyo.co.jp/)
+
+[Category:週刊ヤングサンデー](https://ja.wikipedia.org/wiki/Category:週刊ヤングサンデー "wikilink") [Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:集合住宅を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:集合住宅を舞台とした漫画作品 "wikilink") [Category:下北沢を舞台とした作品](https://ja.wikipedia.org/wiki/Category:下北沢を舞台とした作品 "wikilink") [Category:ロマンティック・コメディ](https://ja.wikipedia.org/wiki/Category:ロマンティック・コメディ "wikilink") [Category:ドラマ24](https://ja.wikipedia.org/wiki/Category:ドラマ24 "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:共同テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:共同テレビのテレビドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:集合住宅を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:集合住宅を舞台としたテレビドラマ "wikilink")

@@ -1,0 +1,32 @@
+> この記事は[ \(REV\)](https://ja.wikipedia.org/wiki/_\(REV\))から翻訳されています。
+
+
+「**抱きしめたい**」（だきしめたい）は[REVの](https://ja.wikipedia.org/wiki/出口雅之 "wikilink")2枚目のシングル。
+
+## 内容
+
+[ABC制作](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ『[青春オフサイド\!女教師と熱血イレブン](https://ja.wikipedia.org/wiki/青春オフサイド!女教師と熱血イレブン "wikilink")』オープニングテーマ及び[ロッテ](../Page/ロッテ.md "wikilink")「CRUNKY STICK」CMソング。カップリングの「こわれながら美しくなれ」は同ドラマのエンディングテーマで、当時、[ZYYG](https://ja.wikipedia.org/wiki/ZYYG "wikilink")のベーシストだった、前作のシングル「[果てしない夢を](../Page/果てしない夢を.md "wikilink")」にて、ボーカリストとして参加した[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")がコーラスで参加。いずれも、このドラマの主題歌と言うこともあり、アルバム「[REV](../Page/REV_\(アルバム\).md "wikilink")」に収録されている。
+
+なお、「抱きしめたい」の方は「青春オフサイド\!」終了後も、同ドラマが放送された「[火曜ドラマリーグ](../Page/火曜ドラマリーグ.md "wikilink")」枠各作品の統一オープニング曲として引き続き使用された（ただし、エンディング曲は各作品個別で、別のアーティストの曲となった）。
+
+## 収録曲
+
+全作詞･作曲:[出口雅之](https://ja.wikipedia.org/wiki/出口雅之 "wikilink")、全編曲:[葉山たけし](../Page/葉山たけし.md "wikilink")
+
+1.  **抱きしめたい**
+2.  **こわれながら美しくなれ**
+
+## 参加ミュージシャン
+
+  - 出口雅之 - ギター
+  - 葉山たけし - ギター、プログラミング
+  - [生沢佑一](https://ja.wikipedia.org/wiki/生沢佑一 "wikilink")([TWINZER](../Page/TWINZER.md "wikilink")) - コーラス
+  - 栗林誠一郎(ZYYG) - コーラス
+
+## 関連項目
+
+  - [ビーイング](../Page/ビーイング.md "wikilink")
+  - [REV](https://ja.wikipedia.org/wiki/出口雅之 "wikilink")
+  - [葉山たけし](../Page/葉山たけし.md "wikilink")
+
+[Category:出口雅之の楽曲](https://ja.wikipedia.org/wiki/Category:出口雅之の楽曲 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:テレビ朝日のテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日のテレビドラマ主題歌 "wikilink") [Category:ロッテのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ロッテのコマーシャルソング "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink") [Category:変ロ短調](https://ja.wikipedia.org/wiki/Category:変ロ短調 "wikilink")

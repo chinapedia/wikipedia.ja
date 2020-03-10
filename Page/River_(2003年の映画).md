@@ -1,0 +1,83 @@
+> この記事は[River \(2003\)](https://ja.wikipedia.org/wiki/River_\(2003\))から翻訳されています。
+
+
+『**river**』（**リバー**）は、[2003年に](https://ja.wikipedia.org/wiki/2003年の映画 "wikilink")[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を中心に公開された劇場[映画](../Page/映画.md "wikilink")。[鈴井貴之](https://ja.wikipedia.org/wiki/鈴井貴之 "wikilink")第2回監督作品・[大泉洋](../Page/大泉洋.md "wikilink")初主演作品。[東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink")、[釜山国際映画祭](../Page/釜山国際映画祭.md "wikilink")、[ヨーテボリ映画祭](https://ja.wikipedia.org/wiki/ヨーテボリ映画祭 "wikilink")出品作品。全国的に名が知られている俳優をほとんど起用せず、北海道の役者を中心にキャスティングし、スタッフも北海道在住（あるいは出身）の人間を多く集めるなど、「MADE IN 北海道」にこだわった作品である。これは「中央（東京）で作ったからと言って必ずいい作品が出来るわけではない」という鈴井の思いから生まれたコンセプトである。
+
+この作品は色味や撮影手法など、通常とは異なる方法で制作されている。これは物語が明るい話ではないので、全体的に暗く仕上げているのである。そのため、「[man-hole](https://ja.wikipedia.org/wiki/man-hole "wikilink")」や「[銀のエンゼル](https://ja.wikipedia.org/wiki/銀のエンゼル_\(映画\) "wikilink")」とは違った仕上がりになっている。 犯罪やホラーシーンなど多く含まれるため[PG12](https://ja.wikipedia.org/wiki/PG12 "wikilink")指定である。
+
+## ストーリー
+
+警邏中に通り魔に遭遇したものの、拳銃に弾を入れていなかったがために人質の女性を見殺しにしてしまった実直な警察官、佐々木耕一。佐々木のせいで大切な恋人を失った藤沢聡。交通事故によってオリンピックの夢を断たれた[スキージャンプ](../Page/スキージャンプ.md "wikilink")の選手、九重達也。幼い頃、イジメに遭った横井茂。4人それぞれが忌まわしい過去を持つ。ある日、同窓会で会った4人は、謎の男が提案した「**記憶を操作できる薬**」を北海薬品工業から盗み出す計画に参加する。しかし、横井は次第に恐怖感を感じるようになり脱退。残った3人は薬の[データ](../Page/データ.md "wikilink")を盗むことに成功した。数日後、横井から連絡が入り九重は、横井と共に受け渡し場所へ向かった。
+
+だが、着いた場所は既に廃墟と化したかつて彼らが通っていた小学校だった。実は「**記憶を操作できる薬**」は横井が提案した実在しない薬であり、彼らを誘き寄せるための罠だったのだ。横井は自分をいじめた彼らに復讐するために行った黒幕だった。九重は横井の異変にいち早く気づいたものの、狂気と化した彼を止めることはできず、所持していた[ダガー](../Page/ダガー.md "wikilink")ナイフで滅多打ちにされ死亡した。横井の居場所を突き止めた藤沢は校舎に突入し、そこで横井と乱闘となりナイフを取り上げたものの、所持していた[拳銃](../Page/拳銃.md "wikilink")で撃たれ重症を負う。銃声を聞いた佐々木はすぐさまに校舎に突入した。だがそこには横井はおらず、荒れ果てた校舎の中で血まみれで倒れ込んでいた藤沢がいた。全てを悟った佐々木は横井が待つ体育館へ向かった。
+
+[体育館](https://ja.wikipedia.org/wiki/体育館 "wikilink")に着くと横井は一人で[バスケットボール](../Page/バスケットボール.md "wikilink")をしており、しみじみに語り出すと同時に横井は銃を乱射した。佐々木もすかさず護身用を[拳銃](../Page/拳銃.md "wikilink")を取り出すものの、銃弾を入れていなかったため発砲できなかった。窮地に立たされた佐々木だったが重症を負った藤沢が投げたナイフが横井に命中し、落とした拳銃を藤沢が取り上げ、横井を撃ち殺した。
+
+佐々木は「**オレみたいに根性の無い男が警官になる資格などないんだ**」と藤沢に言い、「**俺は人質を見殺しにしてしまったからな**」と静かに言った。すると藤沢は恋人を見殺しにした憎む警官が佐々木だということを解釈する。そして[拳銃](../Page/拳銃.md "wikilink")の銃口を佐々木に向け「**お前だったのか**」と語った。これにより佐々木自身も見殺しにした女性が藤沢の恋人だと解釈した。そして藤沢同様、佐々木は護身用の[拳銃](../Page/拳銃.md "wikilink")に銃弾を込め、藤沢に向けた。互いに言葉を交わさず、両方同時に放った。校舎横の川のせせらぎが流れると同時に映画は幕を降ろす。
+
+## キャスト
+
+  - 佐々木耕一：[大泉洋](../Page/大泉洋.md "wikilink")
+  - 藤沢聡：[安田顕](https://ja.wikipedia.org/wiki/安田顕 "wikilink")
+  - 九重達也：[佐藤重幸](https://ja.wikipedia.org/wiki/戸次重幸 "wikilink")
+  - 横井茂：[音尾琢真](https://ja.wikipedia.org/wiki/音尾琢真 "wikilink")
+  - 須藤裕子（佐々木の恋人）：[中村麻美](../Page/中村麻美.md "wikilink")
+  - 川塚剛志（佐々木の上司、同じく警察官）：[森崎博之](https://ja.wikipedia.org/wiki/森崎博之 "wikilink")
+  - 佐藤探偵：[佐藤誓](https://ja.wikipedia.org/wiki/佐藤誓 "wikilink")
+  - 小杉和幸（横井の同僚、計画の首謀者）：[田中剛](https://ja.wikipedia.org/wiki/田中剛_\(俳優\) "wikilink")
+  - 権藤健司（同じく横井の同僚、通り魔事件の犯人）：川井"J"竜輔
+  - 外崎慶子（藤沢の恋人）：[宮崎奈緒美](https://ja.wikipedia.org/wiki/宮崎奈緒美 "wikilink")
+  - 不動産屋：[小橋亜樹](https://ja.wikipedia.org/wiki/小橋亜樹 "wikilink")
+  - イベンター：[河野真也](https://ja.wikipedia.org/wiki/河野真也 "wikilink")
+  - 工場関係者A：[藤尾仁志](https://ja.wikipedia.org/wiki/藤尾仁志 "wikilink")
+  - オカマ：[田中護](https://ja.wikipedia.org/wiki/田中護 "wikilink")
+  - 佐々木（少年時代）：佐藤正一
+  - 藤沢（少年時代）：佐々木駿
+  - 九重（少年時代）：早坂四郎
+  - 横井（少年時代）：宮津清也
+
+## スタッフ
+
+  - 企画・原作・脚本・監督：[鈴井貴之](https://ja.wikipedia.org/wiki/鈴井貴之 "wikilink")
+  - プロデューサー：麻生栄一・[鈴井亜由美](https://ja.wikipedia.org/wiki/鈴井亜由美 "wikilink")
+  - ラインプロデューサー：波多野ゆかり
+  - 音楽：佐々木秀夫
+  - エンディングテーマ：[太陽族](../Page/太陽族_\(バンド\).md "wikilink")「戦友」
+  - イメージテーマ：花男（[太陽族](../Page/太陽族_\(バンド\).md "wikilink")）「今日の日はさようなら」
+  - 撮影：藤原秀夫
+  - 照明：吉村雅治
+  - 美術：中原芳雄
+  - 録音・音響効果：横山達夫
+  - 編集：[小島俊彦](https://ja.wikipedia.org/wiki/小島俊彦 "wikilink")
+  - スタイリスト：[小松江里子](https://ja.wikipedia.org/wiki/小松江里子_\(スタイリスト\) "wikilink")
+  - 制作プロダクション：インデックス・コア
+  - 製作・配給：[CREATIVE OFFICE CUE](https://ja.wikipedia.org/wiki/CREATIVE_OFFICE_CUE "wikilink")
+
+## エピソード
+
+  - 監督の鈴井は普段とは違う[大泉洋](../Page/大泉洋.md "wikilink")を表現するべく、「ストレートパーマ・小動物好き・無口なキャラクター」の役を彼に与えた。実際のところは、ご覧のとおり天然パーマ、動物は嫌い、おしゃべりである。
+      - 大泉は撮影中、役作りのためにずっと寡黙でいたのだが、周囲の人間からは「機嫌が悪いのか」と勘違いされ、場の空気が読めない（自称）佐藤から茶化されていた。
+      - 大泉は撮影後、役を引きずりすぎて、ラジオもバラエティーも楽しめなくなってしまったという。\[1\]
+  - 探偵役は本来、監督自身がやる予定だったが、プロデューサー（[鈴井亜由美](https://ja.wikipedia.org/wiki/鈴井亜由美 "wikilink")）から「出るな」と言われてしまい、やむなく大学時代の友人である、[佐藤誓](https://ja.wikipedia.org/wiki/佐藤誓 "wikilink")を代役に立てた。その頃から「事務所を替えたい」「俺のタレントとしての売り出し方はおかしい」とボヤくようになった。
+      - 監督曰く、「プロデューサーは一番偉いので、プロデューサーの言うことには逆らえない」とのこと。
+  - DVDに収録されているメイキングのナレーションは『[水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")』の藤村忠寿Dである。
+      - ちなみに嬉野、藤村両名も[友情出演](https://ja.wikipedia.org/wiki/友情出演 "wikilink")で、取材班として[HTBの](../Page/北海道テレビ放送.md "wikilink")[小野優子](../Page/小野優子.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")らとともに出演している。
+  - オカマ役の「まもちゃん」こと田中護は、『[モザイクな夜](https://ja.wikipedia.org/wiki/モザイクな夜 "wikilink")』の初代元気くんである。
+  - 画面がとことん寄りかとことん引き、逆光、その上バックショットが多いため、NACSメンバーからは「役者の顔が映らない映画」と言われた。
+  - 音楽は佐々木秀夫が、現場にターンテーブルなどを持ち込んでその場で行うという、それまでにない手法を採っている。
+  - 森崎は大泉以外の役者とあまり絡まない役どころに不満だったが、キャストのクレジットでいわゆる「止め前」だったことに満足したようだ。
+  - 映画公開を記念して、2003年9月1日から5千枚限定で[共通ウィズユーカード](https://ja.wikipedia.org/wiki/共通ウィズユーカード "wikilink")が発行された。
+  - キャンペーンのために鈴井・大泉の両名が舞台挨拶を行う劇場では、入場券を求めて徹夜で並ぶファンが行列を作った。
+
+## 脚注
+
+## 外部リンク
+
+  - [TAKAYUKI SUZUI FILM 「river」official site](http://www.office-cue.com/river/)
+
+  -
+  -
+  -
+[Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:2003年の映画](https://ja.wikipedia.org/wiki/Category:2003年の映画 "wikilink") [Category:日本のサスペンス映画](https://ja.wikipedia.org/wiki/Category:日本のサスペンス映画 "wikilink") [Category:日本の犯罪映画](https://ja.wikipedia.org/wiki/Category:日本の犯罪映画 "wikilink") [Category:復讐を題材とした映画](https://ja.wikipedia.org/wiki/Category:復讐を題材とした映画 "wikilink") [Category:鈴井貴之の監督映画](https://ja.wikipedia.org/wiki/Category:鈴井貴之の監督映画 "wikilink")
+
+1.

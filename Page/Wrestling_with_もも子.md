@@ -1,0 +1,50 @@
+> この記事は[Wrestling with ](https://ja.wikipedia.org/wiki/Wrestling_with_)から翻訳されています。
+
+
+『**Wrestling with もも子**』（レスリング ウィズ ももこ）は[徳弘正也](../Page/徳弘正也.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[レスリング](https://ja.wikipedia.org/wiki/レスリング "wikilink")を題材としている。
+
+『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink") (WJ) 』（[集英社](../Page/集英社.md "wikilink")）誌上において[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")20号から38号まで連載。「[水のともだちカッパーマン](../Page/水のともだちカッパーマン.md "wikilink")」の次となる徳弘6作目\[1\]の連載作品。単行本は[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")全2巻が発売され、2巻巻末には読切「[バレエ入門 - 俺がバレエを始めたわけ -](https://ja.wikipedia.org/wiki/#バレエ入門 "wikilink")」が併録されている。
+
+次作『[狂四郎2030](../Page/狂四郎2030.md "wikilink")』より徳弘は活動の場を本格的\[2\]に『[スーパージャンプ](../Page/スーパージャンプ.md "wikilink")』へと移しており、本作が『WJ』で連載された最後の作品となっている。
+
+## 登場人物
+
+  - 持合 もも子（もちあい ももこ）
+    八田学園に入学した新入生の少女。全日本女子レスリングオープントーナメントジュニア48キログラム級3年連続チャンピオンだが、ほとんど知られていない。
+    美人でスタイル抜群である。快活でめんどうみがよい。モデルは歌手の[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")。
+  - 岡 イサム（おか イサム）
+    八田学園に入学した新入生。[格闘技](../Page/格闘技.md "wikilink")マニアで、もも子のことも知っていた。当初は「もも子とレスリングをしたい」という下心から高校にレスリング同好会を作ろうとしたが、徐々にレスリングの魅力に惹きこまれていく。父親は[官能小説](../Page/官能小説.md "wikilink")家で実家は裕福である。
+  - 和田 正弘（わだ まさひろ）
+    八田学園に入学した新入生。もも子の募集に応じてレスリング同好会に入会した。頭が良く、絵心もある。
+  - 松浪 健一郎（まつなみ けんいちろう）
+    八田学園に入学した新入生。もも子の募集に応じてレスリング同好会に入会した。思っていても出来なさそうなスケベな事をさらっとしてしまう。[フィギュア](../Page/フィギュア.md "wikilink")のさとみが恋人。
+  - 国見 信行（くにみ のぶゆき）
+    八田学園の男子生徒。もも子達の1年先輩で、もも子とは幼い頃からレスリングを習った幼馴染。もも子に苛められて度々泣かされているが、レスリング選手としてはジュニア選手権で優勝する実力者である。
+    幼い頃からもも子が好きで、レスリング同好会を解散させて、自分が所属している道場に勧誘しようとしている。
+  - 木田 まゆみ（きだ まゆみ）
+    レスリング道場として有名な木田道場の道場主の娘。アメリカの大学で男子生徒と一緒にレスリングに打ち込み、唯一女子でレギュラーになった実力者である。もも子と対戦して追い詰めるが、一瞬の隙をつかれて敗北した。敗北後はもも子の勝利を潔く認める。
+
+## バレエ入門
+
+「バレエ入門 - 俺がバレエを始めたわけ - 」（バレエにゅうもん おれがバレエをはじめたわけ）は[徳弘正也](../Page/徳弘正也.md "wikilink")による[読切](../Page/読み切り.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『WJ』1995年39号に掲載。『Wrestling with もも子』2巻に併録されている。
+
+[バレエダンサー](https://ja.wikipedia.org/wiki/バレエダンサー "wikilink")になる事を夢見、[バレエ](../Page/バレエ.md "wikilink")学校に通うために転校してきた少女・吉田都子と、彼女に一目惚れして近づくためにバレエをはじめた少年・熊川を描いている。
+
+## 書誌情報
+
+  - [徳弘正也](../Page/徳弘正也.md "wikilink")『Wrestling with もも子』[集英社](../Page/集英社.md "wikilink")〈[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")〉
+    1.  「日本チャンピオンなのの巻」1997年10月8日初版発行、ISBN 4088721810
+    2.  「もも子と一緒にレスリングの巻」1998年1月14日初版発行、ISBN 4088725077
+
+## 脚注
+
+## 関連項目
+
+  - [レスリング](https://ja.wikipedia.org/wiki/レスリング "wikilink")
+  - [水のともだちカッパーマン](../Page/水のともだちカッパーマン.md "wikilink") - 前作
+  - [狂四郎2030](../Page/狂四郎2030.md "wikilink") - 次作
+
+[Category:漫画作品_れ](https://ja.wikipedia.org/wiki/Category:漫画作品_れ "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:格闘技漫画](https://ja.wikipedia.org/wiki/Category:格闘技漫画 "wikilink") [Category:徳弘正也](https://ja.wikipedia.org/wiki/Category:徳弘正也 "wikilink")
+
+1.  『[ジャングルの王者ターちゃん](https://ja.wikipedia.org/wiki/ジャングルの王者ターちゃん "wikilink")♡』を新旧合わせて一本として。『WJ』誌上では5作目。
+2.  「狂四郎」以前には「[ふんどし刑事ケンちゃんとチャコちゃん](https://ja.wikipedia.org/wiki/ふんどし刑事ケンちゃんとチャコちゃん "wikilink")」を不定期連載していた。

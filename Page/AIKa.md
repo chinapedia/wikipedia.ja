@@ -1,0 +1,348 @@
+> この記事は[AIKa](https://ja.wikipedia.org/wiki/AIKa)から翻訳されています。
+
+
+『**AIKa**』（アイカ）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[1999年](../Page/1999年.md "wikilink")にかけて発売された[OVA](../Page/OVA.md "wikilink")作品、およびその[コミカライズ作品である](https://ja.wikipedia.org/wiki/漫画化 "wikilink")。
+
+[2007年](../Page/2007年.md "wikilink")にはこの作品の10年前を描くOVA『[AIKa R-16:VIRGIN MISSION](../Page/AIKa_R-16:VIRGIN_MISSION.md "wikilink")』（以降、『R-16』）が発売され、[2009年](../Page/2009年.md "wikilink")には『R-16』の3年後を描くOVA『[AIKa ZERO](https://ja.wikipedia.org/wiki/AIKa_ZERO "wikilink")』も発売された。
+
+## 概要
+
+特別編1巻を含む全8巻のOVA。『[女神天国](../Page/女神天国.md "wikilink")』OVA版の好評を受け、ほぼ同一スタッフで制作された。当初は第1期全4巻の予定だったが、好評により第2期が制作され、全8巻となった。なお、第1期は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")より11回に分けて[TBSの](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』内で放送された\[1\]。第2期では引き続き藍華を主人公に置きながらも、やられ役であるデルモ達にも焦点が当てられていた。
+
+### 特徴
+
+一般作でありながら、お[色気](../Page/色気.md "wikilink")シーンや[パンチラ](../Page/パンチラ.md "wikilink")シーンが多い。「業界最多[パンツ](https://ja.wikipedia.org/wiki/パンツ "wikilink")を目指そう」を合言葉に西島、山内主導のもと全カットのうち限界ギリギリである数のカットにおいてパンチラシーンを入れようという意欲的な作品となっている。
+
+主人公の藍華、パートナーのりおん、敵のデルモなど、女性登場人物のほとんどが極端な[ミニスカート](https://ja.wikipedia.org/wiki/ミニスカート "wikilink")を身に着けており、アクションシーンでは常に誰かの下着が見えているような状態であったり、敵のデルモがやられる時は必ずスカートの中が丸見えになるように倒れ、通常シーンでも下から覗きこむようなローアングルが多い。西島監督のこだわりから登場するパンツはすべて白で統一されている。
+
+## ストーリー
+
+[西暦](../Page/西暦.md "wikilink")2016年、地球規模の大災害により陸地の一部が海底に沈んでしまった。
+
+それから20年後、世界では先の大災害により海底に失われてしまった国家や企業のデータ・物品の回収が目的の、「サルベイジャー」と呼ばれる新しい職業が活躍していた。その中でも**皇 藍華**は、抜群の美貌と格闘センス、冷静な判断力を合わせ持つ超一流のサルベイジャーである。
+
+ある日、藍華は某クライアントから、先の大災害と関わりのあるエネルギー物質「ラグ」の調査・回収を依頼される。しかしその途中で、ラグを利用しての人類文明一掃と[ユートピア](../Page/ユートピア.md "wikilink")建設を画策する**ルドルフ・ハーゲン**や妹の**ネーナ**、そしてその配下の**デルモ**達との戦闘に巻き込まれてしまう。
+
+## 登場人物
+
+### K2コーポレーション
+
+  - 皇 藍華（すめらぎ あいか）
+    [声](../Page/声優.md "wikilink")：[佐久間レイ](../Page/佐久間レイ.md "wikilink")
+    本作の主人公。2010年10月23日生まれの乙女座。26歳。KK（ケーツー）コーポレーション所属の凄腕サルベイジャー。金髪で巨乳。容姿端麗で格闘も強い女性。
+    特殊液体金属「オルタネートメタル」の力を宿した[ビスチェ](https://ja.wikipedia.org/wiki/ビスチェ "wikilink")を着用しており、有事の際にはそれを用いて肌もあらわな姿に変身する（髪の色も青に変わり、肌が浅黒くなる）ことで超人的な戦闘力を発揮できるが、藍華自身はその力を快く思っていない。ただし、りおんからはカッコいいと言われている。
+  - 相田 りおん（あいだ りおん）
+    声：[小西寛子](../Page/小西寛子.md "wikilink")
+    郷造の娘で、サルベイジャー見習い。2018年6月8日生まれの牡牛座。18歳。活発な眼鏡っ娘。藍華に憧れを抱いており、強引に相棒となる。
+  - 相田 郷造（あいだ ごうぞう）
+    声：[大塚明夫](../Page/大塚明夫.md "wikilink")
+    KKコーポレーション社長で、りおんの父。1985年5月27日生まれの牡牛座。51歳。両親と死別した藍華を拾い、育て上げた。[酒が絡むと喧嘩が強くなる](../Page/酔拳.md "wikilink")。最終回でゴールデンデルモにひき逃げされて大怪我を負ってしまった。
+  - 道草 旬太郎（みちくさ しゅんたろう）
+    声：[小野坂昌也](../Page/小野坂昌也.md "wikilink")
+    特別編と第2期のみ登場。新人サルベイジャー。ほとんど何もせずボーッとしており、戦闘力も皆無だが、りおんの暴走に対して現実的な意見を述べたり、最終話では情報系の仕事に長けた人として、メイピアを引き合わせるなど時折、有能な一面も見せる。
+
+### 藍華の協力者たち
+
+  - ガスト・タービュランス
+    声：[小杉十郎太](https://ja.wikipedia.org/wiki/小杉十郎太 "wikilink")
+    サルベイジャー。2012年8月14日生まれの獅子座。24歳。富豪の息子だが、独立して自分の腕で稼いでいる。藍華にベタ惚れしている。サルベイジャーとしての腕は一流で業界トップを誇り、格闘戦や銃火器の扱いにも長け、ブルー、ブラックの集団を一人で叩きのめし、2話では8名ほどのホワイトデルモを一人で叩きのめしている。しかし、本人は女性に暴力を振るうのを嫌っており、「調子狂うんだよなー」「顔は勘弁してやるよ」などと発言している。最終話では、りおんと共にデルモ残党基地に殴り込みをかけるが、りおんを庇いながらとはいえ、ソニアとトニアに圧倒され気絶させられてしまった。
+    この作品の第2作目『R-16』にも14歳の時の姿で登場しているが、その頃は今と違って全然強くなかった。
+  - バ・バンドラ
+    声：[京田尚子](https://ja.wikipedia.org/wiki/京田尚子 "wikilink")
+    ガストの相棒で、ベテランのサルベイジャー。
+  - メイピア・アルキメタリア
+    声：[玉川紗己子](https://ja.wikipedia.org/wiki/玉川砂記子 "wikilink")
+    世界秘密工作員組合所属のA級エージェント。能力は高いようだが、間の抜けた行動が多い。第2期では最終回でりおんと共にデルモ残党基地に殴り込みをかける。
+
+### ハーゲン兄妹
+
+  - ルドルフ・ハーゲン
+    声：[塩沢兼人](../Page/塩沢兼人.md "wikilink")
+    試験管ベビーとして生まれた天才科学者。2003年生まれ。31歳。人類を一旦滅ぼし、優秀な遺伝子を持つ者だけで構成された世界を再生しようと目論んでいる\[2\]。
+    女好きで、藍華のことを気に入るものの、ネーナの暴走に巻き込まれて吸収されてしまい、旗艦と運命を共にした。
+  - ネーナ・ハーゲン
+    声：[田中敦子](https://ja.wikipedia.org/wiki/田中敦子_\(声優\) "wikilink")
+    ルドルフの妹。2006年生まれ。28歳。ピンク色のロングヘアをしている。兄のルドルフに対して兄妹を超えた愛情を抱いており、ルドルフからもてはやされる藍華に強烈に嫉妬する。部下や敵に対しては[サディスト](https://ja.wikipedia.org/wiki/サディスト "wikilink")であり、特に[酒](../Page/酒.md "wikilink")が入ると顕著。
+    オルタネイトメタルの力をルドルフから授けられ、旗艦に侵入した藍華を迎え撃つが、オルタネイトメタルが暴走してしまい、肉体が崩壊。精神も同時に崩壊を迎え、崩れ落ちる旗艦の中で逃げ出そうとするルドルフに抱きつき、そのまま爆発に巻き込まれ絶命した。
+
+### デルモゲニィ
+
+美女や美少女だけで構成されているルドルフ・ハーゲン配下の私設部隊。略して**デルモ**。彼の優秀な遺伝子を残し、伝えるべく集められた。階層は制服の色によって区分され、第1期では指揮官や管制官を務める白、火器による遊撃部隊の青、機甲部隊のピンク、実働部隊の黒となっており、第2期からは戦闘指揮官を務める金色（ゴールデン）も登場する。
+
+制服はボディコンタイプのセットアップで肩がパフスリーブとなっており、ボトムは常にパンツが見え隠れするほど短いマイクロミニ。パンツは白のTバックで統一されている。細かい差異としては最上位の白デルモは上着が加飾を施された色違い（他のデルモは上下同じ色）のものとなっており、最下級の黒デルモは徒手空拳で戦うため機動性重視のプリーツスカートに白のニーハイを着用。
+
+名称は熱帯魚の名前から取られている。 　
+
+  - ホワイトデルモ
+    デルモの中でも幹部に当たる階級で、ルドルフの旗艦の管制業務等も任務となっている。
+      - 艦長
+        声：[永島由子](https://ja.wikipedia.org/wiki/永島由子 "wikilink")
+        深緑色をしたロングヘアーの美女。旗艦に潜入したガストを迎え撃つが返り討ちにされるも、緊急警報を鳴らすなど意地を見せる。
+        第2期では死んだハーゲンに代わりリーダーとしてデルモ軍団を指揮して藍華に復讐を挑む。藍華との決戦では副官とのコンビネーション攻撃で追い詰めるが、最後は藍華の麻酔銃の直撃を受け敗北した。なお、女同士であるにも関わらず副官とは相思相愛の仲である。
+      - ホワイト（副官）
+        声：[平松晶子](../Page/平松晶子.md "wikilink")
+        常に艦長と行動を共にしている美女で、艦長とは恋愛関係にある。
+        第2期では艦長と共に藍華との決戦に挑むが、隙を突かれて藍華から絞首技を受け失神する。
+      - ホワイトN
+        声：[柳原みわ](https://ja.wikipedia.org/wiki/星河舞 "wikilink")、[夏樹リオ](https://ja.wikipedia.org/wiki/夏樹リオ "wikilink")
+        濃い化粧に作中屈指の爆乳が特徴のつり目の美女。黒デルモに変装したりおんとメイピアを発見するも、それを見抜けず仲間と間違え叱責しただけで見逃してしまう。その後に気が付くも藍華の攻撃を受け敗北。
+      - ホワイトP
+        声：[林玉緒](https://ja.wikipedia.org/wiki/林玉緒 "wikilink")、[川上未遊](../Page/川上未遊.md "wikilink")
+      - ホワイトR
+        声：[佐藤ゆうこ](../Page/佐藤ゆうこ_\(声優\).md "wikilink")
+      - ニナ・エスコ（ホワイトS）
+        声：[田中涼子](../Page/田中涼子_\(声優\).md "wikilink")→[岡村明美](https://ja.wikipedia.org/wiki/岡村明美 "wikilink")
+        艦長・副官の秘書官を務める女性。第2期で藍華との最後の決戦の場に居合わせていたが艦長と副官の敗北を目の当たりにし、震えながら藍華に銃を向けるも腹部への肘鉄を受けあえなく倒される。
+  - 青デルモ
+    銃火器の使用が許された兵隊。階級は黒より上。
+      - ブルーリーダー
+        声：[白鳥由里](../Page/白鳥由里.md "wikilink")
+        茶髪の美女。幾度となく愛華に挑む。
+      - ブルー（ヴァレリー）
+        声：[新山志保](../Page/新山志保.md "wikilink")
+        色黒で金髪の長身の女性。第2期では髪を切ってピエールと名乗って[男装](../Page/男装.md "wikilink")し、藍華に近づく。彼女に薬を盛って弱体化させるが、それでも大して弱くはなっておらず、エレベーターで襲撃をかけた際にはいとも簡単に倒された。藍華に[「そっち」の気は無かったらしく](../Page/レズビアン.md "wikilink")、ヴァレリー相手に[キス](https://ja.wikipedia.org/wiki/キス "wikilink")までしてしまったことを心底落胆していた。
+      - ブルーX（キャサリン）
+        声：[山崎和佳奈](../Page/山崎和佳奈.md "wikilink")
+        金髪。巡回中にメイピアが外した金網が直撃してアッサリ気絶した。復帰後は捕縛したりおんを護送するが、隙を突かれて殴り倒された挙句服を盗まれた。
+      - ブルーY
+        声：[高橋あつこ](../Page/川上未遊.md "wikilink")
+      - ブルーV
+        声：[三橋加奈子](../Page/三橋加奈子.md "wikilink")
+      - ブルーW
+        声：[高村綾子](https://ja.wikipedia.org/wiki/高村綾子 "wikilink")
+  - ピンクデルモ
+    機甲師団に入っているデルモ。砲兵なども担当する。
+      - ピンクリーダー
+        声：山崎和佳奈
+        ピンクデルモのリーダー。
+      - ピンク（スージー）
+        声：山崎和佳奈
+        装甲車部隊に所属していたが、ビアンカに降りろと命じられてしまう。
+      - ピンク（ビビアン）
+        声：三橋加奈子
+      - ピンク（リズ）
+        声：鈴木裕美子
+      - ピンク（ベティ）
+        声：[竹内順子](https://ja.wikipedia.org/wiki/竹内順子 "wikilink")
+  - 黒デルモ
+    最下級のデルモで年齢も10代中～後半といった少女たちで構成されている。戦闘は全て徒手空拳で戦うが、メンバー個人の戦闘力そのものは高くはなく、基本的に数をそろえた上での突撃戦法をとる。
+    なお、黒デルモは全員日系人という設定。
+      - ブラックリーダー
+        声：[西原久美子](https://ja.wikipedia.org/wiki/西原久美子 "wikilink")
+
+        薄紫色の髪を内巻きボブヘアにしている巨乳の美少女。リーダーだけあって黒デルモの中では高い実力を持ち、スタイルも肉感的である。 第1話で部下の黒デルモ小隊を率いて藍華襲撃作戦の指揮を取るも、部下の黒デルモ小隊が返り討ちにされ作戦は失敗。自身も藍華に決闘を挑むが、その場に割って入ったネーナに作戦失敗の責任を問われると、胸の谷間に蹴りを打ち込まれ失神。そのまま部下ともども車に積まれ、旗艦内でネーナと白デルモたちから再び制裁を受ける事となる。その後もやられ役として頻繁に登場する。
+
+      - ブラックH、ブラック（みさき）
+        声：[田上香織](../Page/たがみかおり.md "wikilink")
+
+      - ブラック（かな）
+        声：山崎和佳奈
+
+      - ブラック（さえ）
+    声：三橋加奈子
+      - ブラック（ゆき）
+        声：鈴木裕美子
+
+      - ブラック（名前未設定）
+    声：[笹本優子](https://ja.wikipedia.org/wiki/笹本優子 "wikilink")、[倉田雅世](../Page/倉田雅世.md "wikilink")、[村井毎早](https://ja.wikipedia.org/wiki/村井かずさ "wikilink")、[津村まこと](https://ja.wikipedia.org/wiki/津村まこと "wikilink")
+  - ゴールデンデルモ
+    第2期以降に登場。デルモ内部でも直接戦闘力に優れた4名が選ばれており、階級はホワイトのすぐ下にあたる。制服は胸元が菱型にカットされたセクシーな物。実力は高く、ガストやメイピアでは全く相手にならない。
+      - ビアンカ
+        声：[高山みなみ](../Page/高山みなみ.md "wikilink")
+        赤髪の美女。普段は冷静だが、感情が高ぶると気性が荒い一面を見せる。拳銃使いであるが、藍華に対しては「銃で殺すには生ぬるい」と吐き捨て、手甲剣での格闘戦を挑んだ。ヴァレリーをうまく使い、その隙をついて藍華を倒そうとするも失敗。なりふり構わず装甲車を投入して殲滅にかかるが、藍華の機転により返り討ちに遭う。
+        最終話では小型[火炎放射器](https://ja.wikipedia.org/wiki/火炎放射器 "wikilink")を用いて藍華を焼き殺そうとするが、オルタネイトメタルの力で防がれ倒された。
+      - リエ・ペトリヤコワ
+        声：[大谷育江](../Page/大谷育江.md "wikilink")
+        デルモの中では最も幼く、黒髪をロングにした美少女。藍華のことを徹底的に調べようと目論み、依頼人のフリをして彼女に「適性試験」と称しあらゆる検査をかけた。藍華以外のK2コーポレーションのメンバーを「オマケ」とあしらうなど気が強く、口も達者。部下の黒デルモたちが藍華の攻撃により次々とやられていく中でも全くお構いなしにデータ収集を始めるなど度胸も性格も豪胆。
+        散々収集したデータをもとに、「[全裸写真をネットに流出する](https://ja.wikipedia.org/wiki/リベンジポルノ "wikilink")」と嘯いて藍華を[脅迫](https://ja.wikipedia.org/wiki/脅迫 "wikilink")するが逆に激昂させてしまう。戦闘は多彩な投げ技等を駆使して善戦するものの、長い髪を掴まれて動きを封じられたところに攻撃を受け失神。しばらくして意識を取り戻した後もデータを基地に持ち帰ろうとするが、藍華の大暴れに完全に縮み上がってしまい逃走。脱走を目論むK2コーポレーションにミサイルを撃ち込んで飛行機ごと吹き飛ばそうとするが、郷三の発射したポッドが腹部に直撃し気絶した。
+        最終回では[新体操](https://ja.wikipedia.org/wiki/新体操 "wikilink")リボンを使って潜入したK2コーポレーションの一味を足止めするが、オルタネイトメタルモードの藍華に倒される。
+      - サニア
+        声：[長沢美樹](https://ja.wikipedia.org/wiki/長沢美樹 "wikilink")
+        トニアとコンビを組む重火器の使い手。トニアと共にK2コーポレーション本社に時限爆弾を仕掛けた上、郷三を車で跳ね飛ばして重傷を負わせた。
+        本部を襲撃したK2コーポレーションをトニアと共に追い詰めるが、本部での戦いでオルタネイトメタルモードの藍華に倒された。
+      - トニア
+        声：[井上喜久子](https://ja.wikipedia.org/wiki/井上喜久子 "wikilink")
+        サニアの相棒。長い銀髪を編み込んだクールな美女。手甲鉤を用いた近接戦を得意とする。サニアと共にK2コーポレーション本社を襲撃した。
+        暗闇の中でこそ藍華相手に終始互角に戦えたものの、本部での戦いではオルタネイトメタルモードの藍華に倒された。
+
+## スタッフ
+
+  - 原作：[スタジオ・ファンタジア](https://ja.wikipedia.org/wiki/スタジオ・ファンタジア "wikilink")
+  - プロデューサー：[池口和彦](https://ja.wikipedia.org/wiki/池口和彦 "wikilink")
+  - 監督：[西島克彦](https://ja.wikipedia.org/wiki/西島克彦 "wikilink")
+  - 構成：[金巻兼一](https://ja.wikipedia.org/wiki/金巻兼一 "wikilink")
+  - キャラクターデザイン：[山内則康](https://ja.wikipedia.org/wiki/山内則康 "wikilink")
+  - キャラクターデザイン協力：[もりやまゆうじ](https://ja.wikipedia.org/wiki/森山雄治 "wikilink")
+  - メカニックデザイン：[きむらひでふみ](https://ja.wikipedia.org/wiki/きむらひでふみ "wikilink")
+  - アクションコーディネーター：[田中良](../Page/田中良_\(アニメーター\).md "wikilink")
+  - 色彩設定：伊東修子、一色緑
+  - 美術監督：小倉一男
+  - 撮影監督：佐野禎史
+  - 音響監督：[藤山房伸](../Page/藤山房伸.md "wikilink")
+  - 音楽：兼崎順一
+  - 音楽プロデューサー：金子重雄
+  - サウンドトラック：日本コロムビア
+  - アニメーション制作：スタジオ・ファンタジア
+  - 製作：[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")
+
+## 主題歌
+
+  - オープニング1『SILENTCITY -AIKa-』（\#1-4）
+      - 作詞：[TA,Cool](https://ja.wikipedia.org/wiki/TA,Cool "wikilink")\&Family Cod（Featering MICHIKO）、作曲：TA,Cool、歌：佐々木真里（現・[佐々木真理](https://ja.wikipedia.org/wiki/佐々木真理 "wikilink")）（by the cortesy of [TOSHIBA EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")）
+  - オープニング2『真夏の星座』（\#5-7）
+      - 作詞：[石川華子](https://ja.wikipedia.org/wiki/石川華子 "wikilink")、作曲：[高梨康治](https://ja.wikipedia.org/wiki/高梨康治 "wikilink")、[大畠翔太郎](https://ja.wikipedia.org/wiki/大畠翔太郎 "wikilink")、編曲：高梨康治、歌：[Mink](../Page/Mink_\(日本人歌手\).md "wikilink")
+  - オープニング3『碧の十字架』（\#Special）
+      - 作詞：岸恭子、作曲・編曲：[渡部チェル](../Page/渡部チェル.md "wikilink")、歌：[岸恭子](https://ja.wikipedia.org/wiki/岸恭子 "wikilink")
+  - エンディング1『More Natural』（\#1-4）
+      - 作詞：[松浦有希](https://ja.wikipedia.org/wiki/松浦有希 "wikilink")、作曲：松浦有希、歌：[小西寛子](../Page/小西寛子.md "wikilink")
+  - エンディング2『Dance with me tonight』（\#5-7）
+      - 作詞：[橋本寛](https://ja.wikipedia.org/wiki/橋本寛 "wikilink")、作曲・編曲：[勝又隆一](https://ja.wikipedia.org/wiki/勝又隆一 "wikilink")、歌：[PUNKY FRUITS\!](https://ja.wikipedia.org/wiki/PUNKY_FRUITS! "wikilink")
+  - エンディング3『ああ、人生耐えて夢も咲く』（\#Special）
+      - 作詞：[前田耕一郎](https://ja.wikipedia.org/wiki/前田耕一郎 "wikilink")、作曲：[前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink")、編曲：[義野裕明](https://ja.wikipedia.org/wiki/義野裕明 "wikilink")、歌：藍華&郷造（[佐久間レイ](../Page/佐久間レイ.md "wikilink")&[大塚明夫](../Page/大塚明夫.md "wikilink")）
+
+## 各巻リスト
+
+<table>
+<thead>
+<tr class="header">
+<th><p>TRIAL</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>脚本</p></th>
+<th><p>絵コンテ</p></th>
+<th><p>演出</p></th>
+<th><p>作画監督</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>美しきエージェント</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/金巻兼一" title="wikilink">金巻兼一</a><br />
+<a href="https://ja.wikipedia.org/wiki/西島克彦" title="wikilink">西島克彦</a></p></td>
+<td><p>西島克彦</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山内則康" title="wikilink">山内則康</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>NAKED MISSION</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/もりたけし" title="wikilink">もりたけし</a></p></td>
+<td><p>三笠修</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/菊地洋子" title="wikilink">菊地洋子</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>TAKE OFF POSITION</p></td>
+<td><p>寺東克巳</p></td>
+<td><p>山内則康</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>宇宙（そら）に咲く華</p></td>
+<td><p>西島克彦<br />
+寺東克巳</p></td>
+<td><p>三笠修</p></td>
+<td><p>菊地洋子</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>黄金のデルモ作戦</p></td>
+<td><p>寺東克巳</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>白銀のデルモ作戦</p></td>
+<td><p>金巻兼一</p></td>
+<td><p>山内則康<br />
+寺東克巳</p></td>
+<td><p>山内則康<br />
+山内富夫</p></td>
+<td><p>山内則康</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>決戦突入!デルモ基地</p></td>
+<td></td>
+<td><p>西島克彦</p></td>
+<td><p>三笠修</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Special TRIAL</p></td>
+<td><p>牟田口透</p></td>
+<td><p>西島克彦<br />
+寺東克巳</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## リリース
+
+  - 【[VHS](../Page/VHS.md "wikilink")】【[LD](../Page/レーザーディスク.md "wikilink")】 1997年から1999年にかけて発売された全8巻は廃盤
+  - 【DVD】 「AIka DVD COLLECTION 1」 販売元：[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")、発売日：2000年8月25日
+  - 【DVD】 「AIka DVD COLLECTION 2」 販売元：バンダイビジュアル、発売日：2000年10月25日
+  - 【DVD】 「AIka DVD COLLECTION 3」 販売元：バンダイビジュアル、発売日：2000年11月25日
+  - 【DVD】 「AIka リマスターBOX」 販売元：バンダイビジュアル、発売日：2007年1月26日 ※特典：ドラマCD、ミュージックCD
+  - 【[UMD](https://ja.wikipedia.org/wiki/ユニバーサル・メディア・ディスク "wikilink")】 「Aika 1」 販売元：バンダイビジュアル、発売日：2009年12月22日
+  - 【UMD】 「AIka 2」 販売元：バンダイビジュアル、発売日：2009年12月22日
+  - 【UMD】 「AIka 3」 販売元：バンダイビジュアル、発売日：2009年12月22日
+  - 【DVD】 「EMOTION the Best AIka DVD-BOX」 販売元：バンダイビジュアル、発売日：2010年9月24日
+
+## ドラマCD
+
+AIKa Special Mission
+
+1.  リトル・トリガー・ガール 販売元：[日本コロムビア](../Page/日本コロムビア.md "wikilink")、発売日：1997年7月19日 ※廃盤
+2.  スウィート・エモーション 販売元：日本コロムビア、発売日：1997年11月21日 ※廃盤
+3.  メアリー・ジーン 販売元：日本コロムビア、発売日：1998年12月19日 ※廃盤
+
+## 音楽CD
+
+  - AIKa オリジナルサウンドトラック vol.1 Soundtrack 販売元：日本コロムビア、発売日：1997年9月20日 ※廃盤
+  - AIKa オリジナルサウンドトラック vol.2 Soundtrack 販売元：日本コロムビア、発売日：1998年1月21日 ※廃盤
+  - 「AIKa」 Music Collection Soundtrack 販売元：日本コロムビア、発売日：1999年4月21日
+  - (ANIMEX1200-200)AIKa Music Collection Limited Edition (Soundtrack) 販売元：日本コロムビア、発売日：2015年1月21日 ※廉価盤
+
+## ムック
+
+  - アイカ パーフェクトファイルA
+    1998年に[彩文館出版](../Page/彩文館出版.md "wikilink")から発売。
+  - アイカ パーフェクトファイルB
+    1998年に彩文館出版から発売。
+  - アイカ グラフィックス
+    1999年に[銀河出版](https://ja.wikipedia.org/wiki/銀河出版 "wikilink")から発売。
+  - アイカ コンプリートファンブック
+    [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")から発売。
+
+## 漫画版
+
+[此路あゆみ](https://ja.wikipedia.org/wiki/此路あゆみ "wikilink")作画で『[コミックガム](../Page/コミックガム.md "wikilink")』（[ワニブックス](../Page/ワニブックス.md "wikilink")刊）に連載、全1巻、ISBN 4847032683。
+
+## 関連項目
+
+  - [AIKa R-16:VIRGIN MISSION](../Page/AIKa_R-16:VIRGIN_MISSION.md "wikilink") - AIKaシリーズの第2作目。
+  - [AIKa ZERO](https://ja.wikipedia.org/wiki/AIKa_ZERO "wikilink") - AIKaシリーズの第3作目。
+  - [女神天国](../Page/女神天国.md "wikilink") - この作品が制作されるきっかけとなったゲーム原作のOVA。
+  - [ナジカ電撃作戦](https://ja.wikipedia.org/wiki/ナジカ電撃作戦 "wikilink") - この作品とほぼ同一のスタッフによる[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。
+  - [パンチラ](../Page/パンチラ.md "wikilink")
+
+## 脚注
+
+## 外部リンク
+
+  - [webアニメスタイル](http://www.style.fm/as/05_column/animesama17.shtml)
+
+[Category:アニメ作品_あ](https://ja.wikipedia.org/wiki/Category:アニメ作品_あ "wikilink") [Category:1997年のOVA](https://ja.wikipedia.org/wiki/Category:1997年のOVA "wikilink") [Category:1998年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1998年のテレビアニメ "wikilink") [Category:日本のオリジナルアニメ作品](https://ja.wikipedia.org/wiki/Category:日本のオリジナルアニメ作品 "wikilink") [Category:TBSの深夜アニメ](https://ja.wikipedia.org/wiki/Category:TBSの深夜アニメ "wikilink") [Category:スタジオ・ファンタジア](https://ja.wikipedia.org/wiki/Category:スタジオ・ファンタジア "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:ワンダフルアニメ](https://ja.wikipedia.org/wiki/Category:ワンダフルアニメ "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:コミックガム](https://ja.wikipedia.org/wiki/Category:コミックガム "wikilink")
+
+1.  <http://www.animetopics.com/news.php?news_seq=2741>
+2.  りおん曰く「邪魔な奴全員殺して、女と遊び暮らしたいだけの変態」。

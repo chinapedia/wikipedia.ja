@@ -1,0 +1,78 @@
+> この記事は[News](https://ja.wikipedia.org/wiki/News)から翻訳されています。
+
+
+『**Newsリアルタイムふくい**』（ニュースリアルタイムふくい）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（FBCテレビ）で放送されていた平日夕方のローカル[ニュース番組](../Page/報道番組.md "wikilink")（『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』の[福井県](../Page/福井県.md "wikilink")ローカルパート）。通称は『**リアルタイムふくい**』。
+
+基本的に前番組『[夕方いちばんプラス1](https://ja.wikipedia.org/wiki/夕方いちばんプラス1 "wikilink")』を踏襲しており、同年[5月1日](../Page/5月1日.md "wikilink")からは全編が[HDで制作されていた](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")。2007年10月1日以降、[月曜日](../Page/月曜日.md "wikilink")から[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")までは17時台を『[おじゃまっテレ](../Page/おじゃまっテレ.md "wikilink")』に分割し、本番組は18時台のローカルニュース番組となっていた。
+
+## 放送時間
+
+| 期間         | 放送時間（[日本時間](../Page/日本標準時.md "wikilink")） |
+| ---------- | ----------------------------------------- |
+| 月曜日 - 木曜日  | 金曜日                                       |
+| 2006.04.03 | 2007.03.30                                |
+| 2007.04.02 | 2007.09.28                                |
+| 2007.10.01 | 2009.03.26                                |
+| 2009.03.30 | 2010.03.27                                |
+|            |                                           |
+
+## 番組の歴史
+
+  - 2006年4月3日：『リアルタイムふくい』スタート。
+  - 2006年5月1日：[地上デジタル放送開始のため放送時間を](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")30分繰り上げてスペシャル番組として放送。
+  - 2006年7月7日：『リアルタイムふくい』になって初めての、17:25開始の短縮放送。
+  - 2006年7月14日：『リアルタイムふくい』の中でハプニングが多くあった。
+  - 2006年10月9日 - 10月13日：ピントン体操誕生記念としてパネルマッチのオールマイティーのピントンがゴールドピントンになる。
+  - 2006年12月18日より『リアルタイムふくい』の新番宣CMが放送される（キャスターの笛吹と森本が出演する）。
+  - 2006年12月25日 - 2006年[12月28日](../Page/12月28日.md "wikilink")：放送時間が短縮（月曜日には18:40、火曜日 - 木曜日には18:30に終了）
+  - 2006年12月28日：『ふくいこの一年』を放送。
+  - 2007年4月6日：金曜日のみ放送時間が拡大し、16:48（正確には16:47:45）スタートになる。
+  - 2007年7月31日：福井駅前中継でハプニングがあった（携帯用カセットコンロに穴が開いていてそこからガスが漏れ、駅構内でガス臭がする騒ぎとなった）。
+  - 2007年9月28日：『おじゃまっテレFRIDAY』開始により、金曜日の放送を一旦終了させる。
+  - 2007年10月1日：番組リニューアルにつき、月曜日 - 木曜日18時台のみの放送となる。
+  - 2009年4月3日：『おじゃまっテレ』の放送時間全曜日共通に伴い、金曜日の放送が復活。
+  - 2009年9月28日：『リアルタイム』のテーマカラーが変更に伴い、福井でも青から金色に変更。
+  - 2010年3月26日：『リアルタイム』終了により、『リアルタイムふくい』も終了。
+
+## タイムテーブル（番組終了時点）
+
+※**太字**は、[日本テレビからの放送](../Page/日本テレビ放送網.md "wikilink")
+
+  - 17:50 *[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")*（全国ニュース）
+  - 18:16 ヘッドライン・オープニング・ニュース
+  - 18:24 特集
+  - 18:30 ニュース
+  - 18:36 **リアルSPORTS**
+  - 18:42 リアルFLash
+  - 18:45 天気予報
+  - 18:50 今日の話題・ニュースのおさらい・エンディング
+
+## 出演者
+
+### キャスター
+
+  - [伊藤裕樹](https://ja.wikipedia.org/wiki/伊藤裕樹 "wikilink")（2代目男性キャスター）
+  - [東海佳奈子](https://ja.wikipedia.org/wiki/東海佳奈子 "wikilink")（5代目女性キャスター・2009年4月より、鈴木キャスターに代わる新キャスター）
+  - 天気キャスター　
+  - [中山裕子](https://ja.wikipedia.org/wiki/中山裕子 "wikilink")
+  - [佐々木愛](https://ja.wikipedia.org/wiki/佐々木愛_\(アナウンサー\) "wikilink")
+
+### ピンチヒッター
+
+  - [山田恵梨子](https://ja.wikipedia.org/wiki/山田恵梨子 "wikilink")
+
+### 過去の出演者
+
+  - 17時台キャスター：[粕谷康太郎](../Page/粕谷康太郎.md "wikilink")・[森本茂樹](https://ja.wikipedia.org/wiki/森本茂樹 "wikilink")（代理出演時）・[鈴木沙和子](../Page/鈴木沙和子.md "wikilink")(月曜日・火曜日）・[中嶋智子](../Page/中嶋智子.md "wikilink")（水曜日 - 金曜日）
+  - 18時台キャスター：[大島さやか](https://ja.wikipedia.org/wiki/大島さやか "wikilink")（初代女性）・ [山田恵梨子](https://ja.wikipedia.org/wiki/山田恵梨子 "wikilink")（2代目女性）・[江守美穂](../Page/江守美穂.md "wikilink")（3代目女性）・[森本茂樹](https://ja.wikipedia.org/wiki/森本茂樹 "wikilink")・[鈴木沙和子](../Page/鈴木沙和子.md "wikilink")（4代目女性）
+  - 中継・天気：[つっちー](https://ja.wikipedia.org/wiki/つっちー "wikilink")（全曜日）・[鶴渕さやか](https://ja.wikipedia.org/wiki/鶴渕さやか "wikilink")・[堀内くみ子](../Page/堀内くみ子.md "wikilink")・[吉川圭一](https://ja.wikipedia.org/wiki/吉川圭一 "wikilink")
+  - MINIさわのらんらん♪Ranking：[鈴木沙和子](../Page/鈴木沙和子.md "wikilink")
+  - げんき米プロジェクト：[川島秀成](https://ja.wikipedia.org/wiki/川島秀成 "wikilink")
+
+## 備考
+
+  - 2007年4月2日から始まった「HEADLINE」は、音楽は『リアルタイム』17時台オープニング後の音を、表示は『プラス1』のものを使用している（『プラス1』のここで使われている表示は、過去に『夕方いちばんプラス1』では使われたことがないもの）。
+  - 2007年10月に副調整室のHD化が完了したと同時に、テロップもHD化。アニメーションも付くようになった。
+  - 2009年10月の『リアルタイム』のテロップデザイン更新に伴い、『リアルタイムふくい』の方もリニューアル。ヘッドラインはリアルチェックで使用されているものと同一、項目テロップおよび右上テロップ、アイキャッチテロップは東京発と同じものに変更された（アニメーションも同一）。
+
+[Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:福井放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:福井放送のテレビ番組 "wikilink") [Category:東海・北陸地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビの帯番組 "wikilink") [Category:東海・北陸地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:NNN_Newsリアルタイム](https://ja.wikipedia.org/wiki/Category:NNN_Newsリアルタイム "wikilink")

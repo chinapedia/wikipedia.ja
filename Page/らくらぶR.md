@@ -1,0 +1,172 @@
+> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+
+
+『**らくらぶR**』（らくらぶアール）は、[2003年](../Page/2003年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[KBS京都で毎週](../Page/京都放送.md "wikilink")[日曜](../Page/日曜日.md "wikilink") 22:30 - 23:00に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。『[らくらぶ。](https://ja.wikipedia.org/wiki/らくらぶ。 "wikilink")』内で放送されていた前身番組『**森脇健児のらくらぶ。金曜日**』（2000年10月 - 2002年9月）についても一部後述する。
+
+## 概要
+
+出演者の[森脇健児](https://ja.wikipedia.org/wiki/森脇健児 "wikilink")が主に[京都市](../Page/京都市.md "wikilink")内で様々な企画を行い、それを通して一般市民たちと交流するスタイルの[ローカル番組](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")である。森脇は番組の構成・演出も兼任していた。
+
+2008年3月30日の「平安京双六」で最終回を迎えたが、その翌週に放送開始した後番組『[走る男](https://ja.wikipedia.org/wiki/走る男 "wikilink")』（[東名阪ネット6](../Page/東名阪ネット6.md "wikilink")製作）にも同じく森脇が一般市民と交流するスタイルが踏襲されている。
+
+## 出演者・スタッフ
+
+らくらぶメンバーは、野球のレギュラーに例えられている。
+
+### 出演者
+
+  - [森脇健児](https://ja.wikipedia.org/wiki/森脇健児 "wikilink") ＜主将＞
+
+### スタッフ
+
+  - 東郷一重 ＜監督＞ らくらぶピロデューサー（プロデューサー）。
+  - なぎーだ ＜コーチ＞ 構成作家。2005年正月スペシャルのスタッフじゃんけんで3連続自腹という大記録を達成。
+  - 鳥井真規→紀井英顕 ＜マネージャー・9番キャッチャー＞
+
+#### レギュラーメンバー
+
+  - 益田信喜 ＜3番ショート＞ 編集。
+  - 河内徹 ＜5番サード＞ 撮影。
+  - 西村友宏 ＜1番ライト＞ 撮影。
+  - 大継康高 ＜2番センター＞ アシスタントディレクター（AD）。
+  - 林達郎→高尾雅也 ＜7番レフト＞ CGクリエイター。
+  - 池田良子 ＜6番ファースト＞ 音声。
+  - 小見山雅宏 ＜8番セカンド＞ 編集。
+
+## 主な企画
+
+「東洋一の低予算」を自称していた本番組は、ロケを原則京都市内のみで行っていたが、2006年4月2日・9日放送分と2007年7月15日・22日放送分の収録については[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")で行った。
+
+### じゃんけん企画
+
+[鉄道](../Page/鉄道.md "wikilink")で目的地を目指す旅企画。ただし、移動は駅前で出会った人と[じゃんけん](../Page/じゃんけん.md "wikilink")をし、勝てば前進、負けたら後退となるルールである。また、森脇が「グー」を出せば1駅、「チョキ」を出せば3駅、「パー」を出せば5駅と、進める（後退する）駅数は出した手によって異なっていた。[JR](../Page/JR.md "wikilink")（[西日本旅客鉄道](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")）の路線に限っては、「2回連続で勝てば[快速に](../Page/快速列車.md "wikilink")、3回連続で勝てば[新快速](../Page/新快速.md "wikilink")に乗れる」という特別ルールもあった。
+
+  - [叡山電鉄](../Page/叡山電鉄.md "wikilink")
+  - [近江鉄道](../Page/近江鉄道.md "wikilink")（[米原駅](../Page/米原駅.md "wikilink")→[近江八幡駅](https://ja.wikipedia.org/wiki/近江八幡駅 "wikilink")）
+  - [京阪石山坂本線](../Page/京阪石山坂本線.md "wikilink")・[京阪京津線](../Page/京阪京津線.md "wikilink")（[石山寺駅](https://ja.wikipedia.org/wiki/石山寺駅 "wikilink")→[京阪山科駅](https://ja.wikipedia.org/wiki/京阪山科駅 "wikilink")）
+  - [京阪本線](../Page/京阪本線.md "wikilink")
+  - [京福電気鉄道](../Page/京福電気鉄道.md "wikilink")（[嵐山駅](https://ja.wikipedia.org/wiki/嵐山駅_\(京福電気鉄道\) "wikilink")→[四条大宮駅](https://ja.wikipedia.org/wiki/四条大宮駅 "wikilink")）
+  - JR[琵琶湖線](https://ja.wikipedia.org/wiki/琵琶湖線 "wikilink")（東海道本線：[長浜駅](https://ja.wikipedia.org/wiki/長浜駅 "wikilink")→[京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")）
+  - JR[東海道本線](https://ja.wikipedia.org/wiki/東海道本線 "wikilink")（企画名としては「JR[三都物語](https://ja.wikipedia.org/wiki/西日本旅客鉄道#CM "wikilink")」）
+  - JR[奈良線](../Page/奈良線.md "wikilink")（[奈良駅](https://ja.wikipedia.org/wiki/奈良駅 "wikilink")→[京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")）
+
+### スポンサーさんありがとう（宝島新CM）
+
+森脇がメインスポンサーの「[家具の宝島](../Page/のぶちゃんマン.md "wikilink")」の[CMを監督](../Page/コマーシャルメッセージ.md "wikilink")・製作する企画。CMは森脇製作。
+
+家具の宝島は、本番組が始まる前にKBSラジオで放送されていた森脇のラジオ番組のスポンサーだった。番組が復活したのは、同社社長が森脇から『らくらぶ。』の制作費が思った以上に安いということを聞いたためである。
+
+### 平安京双六
+
+京都の市街地に碁盤の目状に走る通りを[双六](https://ja.wikipedia.org/wiki/双六 "wikilink")のマス目に見立て、ゴールの“[天竺](../Page/天竺.md "wikilink")”[京都タワー](https://ja.wikipedia.org/wiki/京都タワー "wikilink")を目指す旅企画。現地で出会った人々に[サイコロ](../Page/サイコロ.md "wikilink")で進む区画数を、[ルーレット](../Page/ルーレット.md "wikilink")で進む方角をそれぞれ決めてもらうというルールで進行。
+
+偶然に依存するという企画の性格上、堂々巡りや遠回りを延々と繰り返すことになったが、2003年10月19日の企画開始から数か月単位のブランクを何度も挿みつつ、実に3年3か月以上もの月日を費やし、森脇が40歳を迎える直前の2007年2月4日放送分において奇跡的にゴールまでこぎ付けた。
+
+### 平安京双六 シーズンII（第192回 2007.3.18放送分より)
+
+上記「平安京双六」の終了後にスタートした後継企画で、次の目指す“天竺”は[金閣寺になった](../Page/鹿苑寺.md "wikilink")。この企画では、現地で出会った人々にサイコロで進む区画数と方角をそれぞれ決めてもらうというルールになり、ルーレットの使用は無くなった。ロケ日が雨天の場合には別企画の収録に切り替えられた。
+
+### 祇園しりとりはしご酒
+
+京都[祇園](https://ja.wikipedia.org/wiki/祇園 "wikilink")にて屋号の[しりとり](https://ja.wikipedia.org/wiki/しりとり "wikilink")で飲食店を梯子していき、一般市民たちと酒を酌み交わしてコミュニケーションする企画。ただし、収録中に森脇自身が泥酔してしまったため、企画続行不能となる回もあった。
+
+### タクシーの運転手さんを笑わそう
+
+[タクシー](../Page/タクシー.md "wikilink")を使った企画。乗ったタクシーが1メーター分走るまでの間に運転手を笑わせられれば続けて乗車できるが、笑わせられなかった場合には1メーターでタクシーを降りなければならないというルールで進行。
+
+### 雨やどり
+
+[町家で雨やどり中の一般市民たちとコミュニケーションする企画](https://ja.wikipedia.org/wiki/町屋_\(商家\) "wikilink")。雨天決行が困難な企画のロケ日に降雨に見舞われた際の代替企画の模様。
+
+### 琵琶湖1周ふれあい旅
+
+二つのサイコロを振って移動手段（[マラソン](../Page/マラソン.md "wikilink")／[ロケ車](https://ja.wikipedia.org/wiki/ロケ車 "wikilink")／[ママチャリ](../Page/軽快車.md "wikilink")／[ローラースケート](https://ja.wikipedia.org/wiki/ローラースケート "wikilink")／[キックボード](https://ja.wikipedia.org/wiki/キックボード "wikilink")）と進む信号の数を決め、2005夏[琵琶湖](../Page/琵琶湖.md "wikilink") を[大津から反時計回りに一周した](../Page/大津市.md "wikilink")。放送は(1) - (9)とロングシリーズとなった。
+
+### 京都府縦断サイコロふれあい旅
+
+2005年の琵琶湖一周に続き、南から北へ京都縦断を目指す企画（[南山城村](https://ja.wikipedia.org/wiki/南山城村 "wikilink")→[経ヶ岬](https://ja.wikipedia.org/wiki/経ヶ岬 "wikilink")）。2つのサイコロを振って移動手段（マラソン／[ミニチャリ](https://ja.wikipedia.org/wiki/ミニチャリ "wikilink")／[ヒッチハイク](https://ja.wikipedia.org/wiki/ヒッチハイク "wikilink")／ラッキーカード）と進む信号の数を決めて移動。ラッキーカードにはいろいろなカードを用意し、二人三脚、かぶりものなど趣向を凝らしていた。なお、京北に入って信号の数が激減したことから、以後はサイコロの目が1・2・3の三つになった。
+
+京都市：[京都新聞](../Page/京都新聞.md "wikilink")の社屋に押し掛け、自分を取材するように迫った。次いで京都府庁を訪れ、府知事の[山田啓二](../Page/山田啓二.md "wikilink")と面会した。
+
+[京丹波町](https://ja.wikipedia.org/wiki/京丹波町 "wikilink")：生放送番組『[deちゅう](https://ja.wikipedia.org/wiki/deちゅう "wikilink")』に潜入。KBSアナウンサーの[村上祐子](../Page/村上祐子_\(KBS京都\).md "wikilink")、[遠藤奈美](https://ja.wikipedia.org/wiki/遠藤奈美 "wikilink")と共演した。
+
+  - 経路 -（スタート）南山城村→笠置町→和束町→加茂町→山城町（此処までは国道163号）→精華町→京田辺市（国道24号→府道）→城陽市（京奈和自動車道）→宇治市（国道24号大久保バイパス→府道）→京都市伏見区（国道24号）→東山区→下京区（烏丸通り）→北区→南丹市美山（国道162号周山街道）→京丹波町（国道27号）→綾部市（国道173号）
+
+### Joshinプレゼンツ企画
+
+[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")を応援する特番企画で、[上新電機](https://ja.wikipedia.org/wiki/上新電機 "wikilink")の[一社提供](../Page/一社提供.md "wikilink")で放送。第1弾では、[ソフトバンクファンである森脇と](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")[亀山つとむ応援団が](https://ja.wikipedia.org/wiki/亀山努 "wikilink")[京セラドーム大阪](https://ja.wikipedia.org/wiki/京セラドーム大阪 "wikilink")で試合見学ツアー。上新電機イメージキャラクターの[今岡誠](https://ja.wikipedia.org/wiki/今岡誠 "wikilink")、[赤星憲広](https://ja.wikipedia.org/wiki/赤星憲広 "wikilink")、[矢野燿大](../Page/矢野燿大.md "wikilink")も出演した。第2弾では[松村邦洋](../Page/松村邦洋.md "wikilink")も加わり、[片岡篤史](https://ja.wikipedia.org/wiki/片岡篤史 "wikilink")（現・[関西テレビ解説者](../Page/関西テレビ放送.md "wikilink")）、[杉山直久](https://ja.wikipedia.org/wiki/杉山直久 "wikilink")、[橋本健太郎](https://ja.wikipedia.org/wiki/橋本健太郎 "wikilink")らとの温泉バスツアーを開催した。第3弾の内容は、森脇が1日だけ上新電機の店員を体験するというものだった。
+
+### 森脇サンタ企画
+
+森脇が[サンタクロース](../Page/サンタクロース.md "wikilink")になりきって行っていた企画で、スポンサー各店舗のスタッフなどとじゃんけんをして視聴者プレゼントの提供者を決めるというものだった。森脇が負けた場合には自腹で視聴者プレゼントを行った。森脇は、[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")の時期には通常の「森脇サンタ」として登場し、クリスマス以外の時期（正月・春・夏・秋）には「季節はずれの森脇サンタ」として登場していた。
+
+### 携帯しりとり
+
+森脇の[携帯電話](../Page/携帯電話.md "wikilink")のメモリーから森脇の「き」の字、もしくは健児の「じ」（「し」）の字で始まる登録名を見つけ、そこへ電話をかけて行う企画。通話相手に「今から（会いに）行ってもいいかな？」と問いかけてみて、「いいとも\!」と返答が来た場合には実際に会いに行き、今度はその人物の氏名と携帯電話を用いて同じルールでリレーしていくという企画。収録はわずかな時間内で行われ、長時間の移動を強いられていた。
+
+### ラジコンと平安神宮へ
+
+森脇の財布を乗せた[ラジコン](https://ja.wikipedia.org/wiki/ラジコン "wikilink")を森脇自身が操作し、その途中で出会った観光客へのお土産を森脇の自腹で買いながら[平安神宮](https://ja.wikipedia.org/wiki/平安神宮 "wikilink")まで行くという企画。
+
+### 鴨川夕涼み企画
+
+残暑の[鴨川で森脇が](../Page/鴨川_\(淀川水系\).md "wikilink")[夕涼み](https://ja.wikipedia.org/wiki/夕涼み "wikilink")をする企画で、初路上ライブを行う青年や、日本で最後の夜を迎える留学生などと対談していた。
+
+### 古本屋巡り
+
+森脇が[古書店](../Page/古書店.md "wikilink")を巡り、1店舗につき1冊の[古本](../Page/古本.md "wikilink")を購入していくというルールで行う企画。撮影日は大雨だった。
+
+### 2008新春スペシャル 美味しい鍋対決 勝てば美女と混浴
+
+森脇と松村邦洋がそれぞれ京都の食材を用いて[鍋料理](../Page/鍋料理.md "wikilink")を作り、[インリン・オブ・ジョイトイ](https://ja.wikipedia.org/wiki/インリン・オブ・ジョイトイ "wikilink")に判定をさせる企画。後述の鍋企画の対決版である。インリンが美味しいと思った方が勝者となり、彼女と混浴できるというルールだったが、結果は引き分けだった。
+
+### 糸電話企画
+
+カップルが普段言えない事を約30mの糸で繋がれた[糸電話](https://ja.wikipedia.org/wiki/糸電話 "wikilink")で言い合うというもの。そのカップルが結婚した際に結婚式で流すためのビデオレターを収録する。
+
+### 雪遊び企画
+
+森脇と幼稚園児が雪遊びをするというもの。
+
+### 京都タワー探訪
+
+普段は入れない京都タワーの内部に森脇が特別に入れてもらい、紹介するというもの。ちなみに森脇は200数段の[螺旋階段](https://ja.wikipedia.org/wiki/螺旋階段 "wikilink")を昇り、タワー頂上まで[エレベーター](../Page/エレベーター.md "wikilink")無しで登頂した。
+
+### 会社訪問企画
+
+京都に本社を置く会社（主にらくらぶRのスポンサー会社）に森脇が訪れるという企画。
+
+## 『森脇健児のらくらぶ。金曜日』時代の主な企画
+
+### 大盤振る舞い企画
+
+森脇、[T・K・Oの財布が入った箱の中から](../Page/TKO_\(お笑いコンビ\).md "wikilink")1つの財布を選び、選ばれた財布の持ち主がみんなにおごりながら、京都の町をまわるというもの。
+
+### 鍋企画
+
+森脇が京都の北部の町に空の土鍋を持っていき、住民に具材を提供してもらって[寄せ鍋](https://ja.wikipedia.org/wiki/寄せ鍋 "wikilink")を作る企画。[猪肉などの豪華な具の入った鍋となった](https://ja.wikipedia.org/wiki/イノシシ#食用 "wikilink")。
+
+### あっちむいてホイ企画
+
+平安京双六の前身。道行く人とあっちむいてホイをし、その結果次第で森脇の進む方向が決まる。
+
+  - 森脇勝利時 - 勝利時に森脇の出していた指の方向に進む。
+  - 森脇敗北時 - 敗北時に森脇の向けていた顔の方向に進む。
+
+### 森脇雲ケ畑に行く
+
+森脇が京都、雲ケ畑に行き、そこの人たちとふれあうという企画。現地の陸上競技をしている青年と森脇が陸上競技対決をするなど、ほのぼのとした企画であった。[ナイキ](../Page/ナイキ.md "wikilink")のロゴの模様をもった牛「**ナイキ君**」とのふれあいなど、印象に残る企画だったとの呼び声高い。
+
+### 微笑がえし企画
+
+[キャンディーズ](../Page/キャンディーズ.md "wikilink")の「[微笑がえし](../Page/微笑がえし.md "wikilink")」を森脇が出会った10数人に少しずつ歌ってもらい、それを映像処理でつなげて曲のビデオを完成させるというもの。
+
+### 森脇人生相談所
+
+## テーマソング
+
+  - [一回目の放送期間](https://ja.wikipedia.org/wiki/らくらぶ。 "wikilink")（2001年10月 - ）にはSunny Side Up （現：[SANISAI](https://ja.wikipedia.org/wiki/SANISAI "wikilink")）の「バンドワゴン」がテーマソングになっていた。
+  - 再開後（2003年7月6日 - 2007年9月末）のテーマソングはSunny Side Up （も旧名で表示）の「僕の居場所」。
+  - 2007年10月 - 2008年3月には[珍獣王国](https://ja.wikipedia.org/wiki/珍獣王国 "wikilink")の「ハッピー」。
+
+[Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:KBS京都のテレビ番組](https://ja.wikipedia.org/wiki/Category:KBS京都のテレビ番組 "wikilink") [Category:近畿地方のバラエティ番組](https://ja.wikipedia.org/wiki/Category:近畿地方のバラエティ番組 "wikilink") [Category:他番組から派生した番組](https://ja.wikipedia.org/wiki/Category:他番組から派生した番組 "wikilink")

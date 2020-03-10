@@ -1,0 +1,73 @@
+> この記事は[ \(T-AH-19\)](https://ja.wikipedia.org/wiki/_\(T-AH-19\))から翻訳されています。
+
+
+|                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [USNS_Mercy_leaving_San_Diego_Bay.jpg](https://ja.wikipedia.org/wiki/File:USNS_Mercy_leaving_San_Diego_Bay.jpg "fig:USNS_Mercy_leaving_San_Diego_Bay.jpg") |
+| 艦歴                                                                                                                                                              |
+| 起工                                                                                                                                                              |
+| 進水                                                                                                                                                              |
+| 竣工                                                                                                                                                              |
+| 就役                                                                                                                                                              |
+| その後                                                                                                                                                             |
+| 性能諸元                                                                                                                                                            |
+| [排水量](https://ja.wikipedia.org/wiki/排水量 "wikilink")                                                                                                             |
+| 全長                                                                                                                                                              |
+| 全幅                                                                                                                                                              |
+| 機関                                                                                                                                                              |
+| 最大速                                                                                                                                                             |
+| 航続距離                                                                                                                                                            |
+| 乗員                                                                                                                                                              |
+| 活動準備期間                                                                                                                                                          |
+| 行動期間                                                                                                                                                            |
+| 信号符字                                                                                                                                                            |
+
+**マーシー** (**USNS Mercy, T-AH-19**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[病院船](../Page/病院船.md "wikilink")。[マーシー級病院船](https://ja.wikipedia.org/wiki/マーシー級病院船 "wikilink")のネームシップ。その名を持つ艦としては3隻目である。[ジュネーヴ協定に従いマーシーおよびその乗員は火器を運搬しない](../Page/ジュネーヴ諸条約_\(1949年\).md "wikilink")。本艦への攻撃は[戦争犯罪](../Page/戦争犯罪.md "wikilink")と見なされる。
+
+船型は高くされた前甲板、欄間軸、球状船首、前方ブリッジを備えた拡張甲板室および航空管制システムを備えた[ヘリコプター](../Page/ヘリコプター.md "wikilink")デッキを装備している。
+
+## 艦歴
+
+1976年、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンディエゴ](../Page/サンディエゴ.md "wikilink")のナショナル・スチール・アンド・シップ・ビルディング・カンパニーによって当初、石油[タンカー](https://ja.wikipedia.org/wiki/タンカー "wikilink")「セント・ワース」として建造された。 その後、同船は海軍が取得、1984年7月に改称、病院船へ改造され、1985年7月20日に進水し、1986年11月8日に就役した。
+
+マーシーの主な任務はアメリカ軍の陸上展開部隊、上陸作戦部隊を迅速かつ柔軟に支援し、傷病兵に対する医療支援を主なうことである。 また、平時においてはアメリカの政府系機関からの要請に基づき災害被災者や人道支援対象者に対して医療支援を行う。
+
+1987年2月27日、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")と[南太平洋](https://ja.wikipedia.org/wiki/南太平洋 "wikilink")に向けて演習および人道支援の航海を開始。スタッフはアメリカ海軍・[陸軍](https://ja.wikipedia.org/wiki/アメリカ陸軍 "wikilink")・[空軍の現役および](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")[予備役](../Page/予備役.md "wikilink")兵が含まれた。フィリピンの7つの港、南太平洋の7つの港で62,000以上の外来患者およびおよそ1,000人の入院患者が治療を受けた。1987年7月13日、カリフォルニア州[オークランドに帰還した](../Page/オークランド_\(カリフォルニア州\).md "wikilink")。
+
+1990年8月9日、[オペレーション・デザート・シールドに参加](../Page/湾岸戦争.md "wikilink")。8月15日に出航、9月15日に[ペルシャ湾](https://ja.wikipedia.org/wiki/ペルシャ湾 "wikilink")に到着する。 以降6ヶ月間にわたって[多国籍軍](../Page/多国籍軍.md "wikilink")に対して医療支援を行い690名の患者を受け入れ、300件にも及ぶ手術を実施した。21名のアメリカ兵および2名の[イタリア](../Page/イタリア.md "wikilink")兵の捕虜の治療を行った後、1991年3月16日にペルシャ湾を出航、4月23日にオークランドに帰還する。
+
+カリフォルニア州[サンディエゴ](../Page/サンディエゴ.md "wikilink")を母港とし、平時は縮小された人員で運用される。同艦の乗員の残りはサンディエゴの海軍医療センターで勤務している。
+
+[thumb](https://ja.wikipedia.org/wiki/画像:US_Navy_050608-N-9500T-009_A_barge_flying_the_American_Flag_sails_by_the_Military_Sealift_Command_\(MSC\)_hospital_ship_USNS_Mercy_\(T-AH_19\)_prepares_to_moor.jpg "wikilink") 2005年1月5日に、[スマトラ島沖地震で生じた](../Page/スマトラ島沖地震_\(2004年\).md "wikilink")[津波](https://ja.wikipedia.org/wiki/津波 "wikilink")被害者支援のため[アメリカ軍](../Page/アメリカ軍.md "wikilink")が行ったの一部としてサンディエゴを出港した。
+
+2006年以降数年に一度米海軍の「パシフィックパートナーシップ」活動による数ヶ月におよぶ航海を行っており、南太平洋、東南アジア諸国やミクロネシアの島々における人道的医療、歯科、エンジニアリング支援を提供しながら地域の軍、政府、災害救援活動中の人道支援団体の相互運用性を向上させる活動を行っている。
+
+2018年6月10日、横須賀に寄港\[1\]。災害発生時、医療拠点として船舶の活用を検討している日本政府が招致したもので、14日に[海上自衛隊](https://ja.wikipedia.org/wiki/海上自衛隊 "wikilink")の[自衛艦隊](https://ja.wikipedia.org/wiki/自衛艦隊 "wikilink")司令部、[潜水医学実験隊](https://ja.wikipedia.org/wiki/海上自衛隊潜水医学実験隊 "wikilink")、[潜水艦救難艦](https://ja.wikipedia.org/wiki/潜水艦救難艦 "wikilink")「[ちよだ](https://ja.wikipedia.org/wiki/ちよだ_\(潜水艦救難艦\) "wikilink")」、米海軍の[第7艦隊司令部なども参加した日米衛生共同訓練を実施した](https://ja.wikipedia.org/wiki/第7艦隊_\(アメリカ軍\) "wikilink")\[2\]。16日には[東京](../Page/東京.md "wikilink")・大井ふ頭で一般見学会と報道陣への公開が行われた\[3\]。
+
+## 艦内設備
+
+患者容量：
+
+集中治療病床：80床 回復病床：20床 中間ケア病床：280床 軽傷病床：120床 限定ケア病床：500床 手術室：12 全患者容量：1,000名
+
+部門や設備：
+
+負傷者受付 [放射線](../Page/放射線.md "wikilink")サービス メイン及びサテライトラボ 中央滅菌室 医療用電源/薬局 理学療法と火傷ケア [集中治療室](https://ja.wikipedia.org/wiki/集中治療室 "wikilink") [歯科](../Page/歯科.md "wikilink")サービス 視力測定/レンズラボ 遺体安置所 ランドリー 酸素生成装置
+
+## 脚注
+
+## 関連項目
+
+  - [アメリカ海軍艦艇一覧](https://ja.wikipedia.org/wiki/アメリカ海軍艦艇一覧 "wikilink")
+
+## 外部リンク
+
+  - [Official USNS *Mercy* Web site](http://www.mercy.navy.mil/)
+
+  -
+  -
+[Category:マーシー級病院船](https://ja.wikipedia.org/wiki/Category:マーシー級病院船 "wikilink") [Category:1976年竣工船](https://ja.wikipedia.org/wiki/Category:1976年竣工船 "wikilink")
+
+1.
+2.  [日米衛生共同訓練の実施について](http://www.mod.go.jp/msdf/release/201806/20180612-01.pdf) [海上幕僚監部](https://ja.wikipedia.org/wiki/海上幕僚監部 "wikilink"), 2018年6月12日、2018年6月17日閲覧
+3.

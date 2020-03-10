@@ -1,0 +1,83 @@
+> この記事は[TOKYO](https://ja.wikipedia.org/wiki/TOKYO)から翻訳されています。
+
+
+**土曜ワイド 吉田照美のハッピーTOKYO**（どようワイド よしだてるみのハッピートーキョー）とは、[1988年](../Page/1988年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")から[1991年](../Page/1991年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")にかけて、[TBSラジオ](../Page/TBSラジオ.md "wikilink")で毎週[土曜日](../Page/土曜日.md "wikilink")に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されていた[ワイド番組](https://ja.wikipedia.org/wiki/ワイド番組 "wikilink")。
+
+## 概要
+
+TBSラジオ土曜の生ワイド『[土曜ワイドラジオTOKYO](https://ja.wikipedia.org/wiki/土曜ワイドラジオTOKYO_\(曖昧さ回避\) "wikilink")』シリーズの第5弾。前身の[毒蝮三太夫の土曜ワイド商売繁盛](../Page/毒蝮三太夫の土曜ワイド商売繁盛.md "wikilink")は途中から放送時間が短縮され午前中2時間だけの放送だったが、この番組からお昼をまたぐ長時間ワイドが復活し、午後の部には[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")とトヨタディーラー（現在は「トヨタの販売店」のクレジット）の協賛が入った。またこの番組から、一連の土曜ワイドシリーズで使われている「TOKYO」がタイトルに復帰した。これは、TBSラジオの前身である「ラジオ東京」に由来する。 新聞のラテ欄においては『**吉田照美の土曜ワイド**』と書かれていた。
+
+## 出演者
+
+  - [吉田照美](https://ja.wikipedia.org/wiki/吉田照美 "wikilink")（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")、[パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")）
+  - [毒蝮三太夫](../Page/毒蝮三太夫.md "wikilink")（1988年4月 - 1989年3月）
+  - [井森美幸](https://ja.wikipedia.org/wiki/井森美幸 "wikilink")（1988年4月 - 1988年9月）
+  - [渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")（1988年10月 - 1989年9月、在任当時は[LINDBERG](../Page/LINDBERG.md "wikilink")が結成前後の時期だが、この番組では本名の「渡瀬麻紀」名義で出演していた。）
+  - [小林千絵](https://ja.wikipedia.org/wiki/小林千絵 "wikilink")（1989年10月 - 終了まで）
+  - [小林豊](https://ja.wikipedia.org/wiki/小林豊_\(アナウンサー\) "wikilink")（時期不詳 - 終了まで）
+  - [笑福亭笑瓶](../Page/笑福亭笑瓶.md "wikilink")
+  - [今村稔](https://ja.wikipedia.org/wiki/今村稔 "wikilink")（ニュースデスク。　- 1989年3月）
+  - [土屋統督](../Page/土屋統督.md "wikilink")（ニュースデスク。1989年4月-6月）
+  - [中村欣資](https://ja.wikipedia.org/wiki/中村欣資 "wikilink")（ニュースデスク。1989年7月 -12月）
+  - [樂衛](https://ja.wikipedia.org/wiki/樂衛 "wikilink")（ニュースデスク。1989年12月-1990年6月）
+  - [杉山真喜人](../Page/杉山真喜人.md "wikilink")（ニュースデスク。1990年7月 - 終了まで）
+
+## 放送時間
+
+  - 9:00 - 14:00（1988年4月16日 - [1989年](../Page/1989年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")）
+  - 8:30 - 14:00（1989年[4月15日](../Page/4月15日.md "wikilink") - 1991年4月6日）
+
+## 番組内コーナー
+
+  - **8時台（1989年4月から）**
+      - ひとこと言わせろ（1989年4月 - 1989年9月）
+      - 花の土曜日いきなりラッキーチャンス（1989年10月 - 終了まで）
+      - [都民ニュース](../Page/都民ニュース.md "wikilink")、交通情報
+  - **9時台**
+      - まむしの横丁ザ・ワールド（- 1989年3月）
+      - てるみのスパイ大作戦（1989年4月 - 1990年3月）
+      - TOKYOハッピー探検隊（1990年4月 - 終了まで）
+      - 交通情報
+      - てるみのハッピートーク
+      - TBSニュース、天気予報、交通情報
+  - **10時台**
+      - まむしの結婚バンザイ\!（1988年4月 - 1989年3月）
+      - それいけ東京ウルトラ大作戦（1989年3月 - 終了まで）
+      - [小林豊の東京生中継](https://ja.wikipedia.org/wiki/小林豊_\(アナウンサー\) "wikilink")
+      - てるみと遊ぼうピッポッパ
+      - 交通情報
+      - 照美と白ヤギさん倶楽部（1989年10月 - 終了まで）
+      - お待ちかねビッグマッチ（1989年10月 - 終了まで）
+      - TBSニュース、交通情報
+  - **11時台**
+      - [カンガルー](https://ja.wikipedia.org/wiki/西濃運輸 "wikilink")・チャンピオン電リク 〜歌謡王座決定戦\!〜（1988年4月 - 1989年9月）
+      - カンガルー・リクエストアワー ハッピーサウンドステーション（1989年10月 - 1990年9月）
+      - ポップオンサタデー（1990年10月 - 終了まで）
+    <!-- end list -->
+      -
+        （途中、交通情報あり）
+    <!-- end list -->
+      - 交通情報、天気予報
+  - **12時台〜13時台**
+      -
+        12時台以降は番組上のタイトルが「**[TOYOTAビッグサタデー](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink") 吉田照美の土曜は満点\!**」となり、サウンドステッカー等も午前中とは異なるものとなっていた。これは開始前、[森末慎二](../Page/森末慎二.md "wikilink")がパーソナリティだった同名の番組\[1\]を『土曜ワイドラジオTOKYO』に統合させたためで、『永六輔その新世界』でもしばらく続けられた。
+    <!-- end list -->
+      - お昼のTBSニュース
+      - ゲストコーナー
+      - クイズで満点
+          - まむしのヒューマンクイズ（-1989年3月）
+          - 昼下がりのマリリン
+          - 電話で満点・カムカムエブリフォン
+          - [えのきどいちろう](https://ja.wikipedia.org/wiki/えのきどいちろう "wikilink") 土曜ホットアングル（1990年4月 - ）
+          - Fun to クイズ → 笑福亭笑瓶の満タンクイズ　- 担当はいずれも[笑福亭笑瓶](../Page/笑福亭笑瓶.md "wikilink")。前者のコーナー名はトヨタ自動車のキャッチフレーズ「Fun to Drive」から引用したもの。
+      - TBSニュース、交通情報
+
+## 関連項目
+
+  - [吉田照美のやる気MANMAN\!](../Page/吉田照美のやる気MANMAN!.md "wikilink")
+  - [土曜ワイドラジオTOKYO ナイツのちゃきちゃき大放送](https://ja.wikipedia.org/wiki/土曜ワイドラジオTOKYO_ナイツのちゃきちゃき大放送 "wikilink")
+  - [土曜ワイドラジオTOKYO](../Page/土曜ワイドラジオTOKYO.md "wikilink")
+
+[Category:1988年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のラジオ番組_\(日本\) "wikilink") [Category:TBSラジオの番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSラジオの番組の歴史 "wikilink") [Category:TBSラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:TBSラジオのバラエティ番組 "wikilink")
+
+1.

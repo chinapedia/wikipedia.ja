@@ -1,0 +1,102 @@
+> この記事は[STREET VALUE](https://ja.wikipedia.org/wiki/STREET_VALUE)から翻訳されています。
+
+
+『**STREET VALUE**』（ストリート・バリュー）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[スターリンの通算](https://ja.wikipedia.org/wiki/ザ・スターリン "wikilink")4枚目のアルバム。
+
+[1991年](../Page/1991年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")に[アルファレコード](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")よりリリースされた。前作『[殺菌バリケード](https://ja.wikipedia.org/wiki/殺菌バリケード "wikilink")』よりおよそ10ヶ月ぶりにリリースされた作品であり、全曲共に作詞は[遠藤ミチロウ](../Page/遠藤ミチロウ.md "wikilink")、作曲はLENINGRAD PARADISE、プロデューサーは[寺田康彦](../Page/寺田康彦.md "wikilink")およびSTALINとなっている。なお、LENINGRAD PARADISEとは遠藤と[斉藤律](https://ja.wikipedia.org/wiki/斉藤律 "wikilink")のユニット名である。
+
+レコーディングは同年に[アバコクリエイティブスタジオおよび](https://ja.wikipedia.org/wiki/早稲田奉仕園#早稲田奉仕園内にあるキリスト教団体 "wikilink")[LDKスタジオ](https://ja.wikipedia.org/wiki/LDKスタジオ "wikilink")に行われ、前作『殺菌バリケード』の、ポップパンクの要素に[エアロスミス](https://ja.wikipedia.org/wiki/エアロスミス "wikilink")のようなアメリカン[ハードロック](../Page/ハードロック.md "wikilink")の要素を足した作品となっている。その為[ブックレットの写真も岩石廃墟を背景に全員革のジャケットを着用してハードロッカーのような雰囲気を醸し出している](../Page/小冊子.md "wikilink")。**STREET VALUE**という言葉には「俺たちは好きなようにやる。値打ちはお前たちで決めてくれ」という意味が込められている\[1\]。
+
+先行シングルは存在せず、本作と同日に[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")として「[WILD GHETTO](https://ja.wikipedia.org/wiki/WILD_GHETTO "wikilink")」がリリースされている。この曲は前年のツアーより「クルド」というタイトルで演奏されていたが、音源化に際してタイトルを改変した\[2\]。
+
+## 背景
+
+前作『[殺菌バリケード](https://ja.wikipedia.org/wiki/殺菌バリケード "wikilink")』リリース後、10月25日には東欧ツアーの模様を収録したライブビデオ『最後の赤い夏〜STALIN CALL IN EAST EUROPE』がリリースされた。しかし、アルバムは売上が伸びず、この頃は主にライブ活動がメインとなっており、新生スターリンの曲だけではなくザ・スターリン時代の曲も多く演奏するようになっていた。
+
+ライブツアーは前作のレコーディングに参加した遠藤、[斉藤律](https://ja.wikipedia.org/wiki/斉藤律 "wikilink")、安達親生、三原重夫の4人で行われ、安達はおとなしめにベースを弾いていたが、三原が「お前は上手いんだから」と言い続けた結果ある日のライブから突然ダイナミックな演奏をするようになったという。
+
+## 録音
+
+レコーディングに際してはメンバーチェンジはなく、前作と同じメンバーで行われた。
+
+前作に続き[プログラミングとして](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、アルファレコード所属の[福富幸宏](../Page/福富幸宏.md "wikilink")が参加している\[3\]。
+
+## 音楽性
+
+ライブアルバム『[行方不明 〜LIVE TO BE STALIN〜](../Page/行方不明_〜LIVE_TO_BE_STALIN〜.md "wikilink")』のライナーノーツにてライターの大野祥之は、「エゴイスト」に関して[イギー・ポップ](../Page/イギー・ポップ.md "wikilink")&[ザ・ストゥージズ](https://ja.wikipedia.org/wiki/ザ・ストゥージズ "wikilink")や[MC5](https://ja.wikipedia.org/wiki/MC5 "wikilink")に通ずるパンクの原点的であると述べ、「限りある限り」に関してはアメリカン・ハード・ポップ的であると捉え、「スターリンの変幻自在な音楽性」と表現している\[4\]。
+
+芸術総合誌『[ユリイカ](https://ja.wikipedia.org/wiki/ユリイカ_\(雑誌\) "wikilink")9月臨時増刊号 総特集\*遠藤ミチロウ1950-2019』においてライターの行川和彦は、全曲が遠藤と斉藤との共作である事を指摘し、「WILD GHETTO」が[エアロスミス](https://ja.wikipedia.org/wiki/エアロスミス "wikilink")を彷彿させる事や、ジャケット写真なども含めて「当時の[アメリカン・ハード・ロック調の派手で豪快な音が目立って当時驚かされた](../Page/ハードロック.md "wikilink")」と表記している\[5\]。また遠藤のボーカルが力強く声も良く出ていると指摘した他、「エゴイスト」は「タイトなハード・パンク・ロック」、「限りある限り」はミディアム・テンポでじっくり進む切なく力強い名曲」、「日曜日は遊ばない」と「火の海」は「まったりした長尺ラヴ・ソング」と表現した\[6\]。しかし、当時遠藤自身が音楽の方向性を見失っていた時期であった事もあり、遠藤は本作のハード・ロック的な要素を嫌がっていたという\[7\]。また前作『[殺菌バリケード](https://ja.wikipedia.org/wiki/殺菌バリケード "wikilink")』（1990年）と本作は自身の意向よりもメンバーやレコード会社の意向が強かったと後に述懐している\[8\]。
+
+## ツアー
+
+本作を受けて開始されたライブツアーの中から、1991年6月2日、7月19日、20日の[インクスティック](https://ja.wikipedia.org/wiki/インクスティック "wikilink")鈴江ファクトリー公演から選曲されたライブアルバム『[行方不明 〜LIVE TO BE STALIN〜](../Page/行方不明_〜LIVE_TO_BE_STALIN〜.md "wikilink")』が同年12月21日にリリースされた。
+
+## 批評
+
+  - 音楽情報サイト『CDジャーナル』では、本作の総評として「パンクが手段に過ぎない感じで、曲自体はバラエティー豊か」と音楽性の幅広さを指摘しており、パンク調の曲よりも「日曜日は遊ばない」、「火の海」に関して「スローにうたをきかせる曲が聴きもの」と一部スローテンポの曲に関して肯定的に評価している\[9\]。
+
+<!-- end list -->
+
+  - 芸術総合誌『[ユリイカ](https://ja.wikipedia.org/wiki/ユリイカ_\(雑誌\) "wikilink")9月臨時増刊号 総特集\*遠藤ミチロウ1950-2019』においてライターの行川和彦は、本作が「音も含めてミチロウ史上最もロックでストレートなアルバム」であると述べた他、「明快な良作と言い切れる仕上がりである」と肯定的に評価した\[10\]。
+
+## 収録曲
+
+## スタッフ・クレジット
+
+### スターリン
+
+  - 遠藤ミチロウ - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - 三原重夫 - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
+  - 斉藤律 - [ギター](../Page/ギター.md "wikilink")
+  - 安達親夫 - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+
+### 参加ミュージシャン
+
+  - [福富幸宏](../Page/福富幸宏.md "wikilink") - [プログラミング](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")
+
+### スタッフ
+
+  - [寺田康彦](../Page/寺田康彦.md "wikilink") - [プロデューサー](../Page/音楽プロデューサー.md "wikilink")、ミックス・エンジニア（スタジオA）、[レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")（[アバコクリエイティブスタジオ](https://ja.wikipedia.org/wiki/早稲田奉仕園#早稲田奉仕園内にあるキリスト教団体 "wikilink")、[LDKスタジオ](https://ja.wikipedia.org/wiki/LDKスタジオ "wikilink")）
+  - スターリン - プロデューサー
+  - 中川直彦 - アシスタント・エンジニア
+  - 金井光晴 - アシスタント・エンジニア
+  - 光藤光 - アシスタント・エンジニア
+  - 土田真康 - ディレクター
+  - 原神一 - [アートディレクター](https://ja.wikipedia.org/wiki/アートディレクター "wikilink")
+  - 辻悠詞 (RICE) - デザイン
+  - KEN MORISHITA (PMP) - [CGプログラマー](../Page/コンピュータグラフィックス.md "wikilink")
+  - MITSUO KAWAMOTO - 写真撮影
+  - 渡辺ノブハル - ヘアー・メイク・アップ
+  - 川上登（JAP工房） - スタイリスト
+  - 高野陽子（JAP工房） - スタイリスト
+  - 旭浩樹（協同プロモーション） - アーティスト・マネージャー
+  - 安江水伊那 (BQ) - アーティスト・マネージャー
+  - YAMAHA R\&D - スペシャル・サンクス
+  - [アリアプロII](https://ja.wikipedia.org/wiki/アリアプロII "wikilink") - スペシャル・サンクス
+  - ピーヴィー・エレクトロニクス - スペシャル・サンクス
+  - S・T・K - スペシャル・サンクス
+  - FARM (SHIBA SAN) - スペシャル・サンクス
+  - モリダイラ楽器 (SAKAMOTO SAN) - スペシャル・サンクス
+  - K.NUWY (YOSHIDA SAN) - スペシャル・サンクス
+  - KEY (NAKAZARO SAN) - スペシャル・サンクス
+  - [ヒップランドミュージック](https://ja.wikipedia.org/wiki/ヒップランドミュージック "wikilink") - スペシャル・サンクス
+  - 石垣章 - スペシャル・サンクス
+  - TOM 永島 - スペシャル・サンクス
+
+## 脚注
+
+## 外部リンク
+
+  -
+[Category:1991年のアルバム](https://ja.wikipedia.org/wiki/Category:1991年のアルバム "wikilink") [Category:アルファレコードのアルバム](https://ja.wikipedia.org/wiki/Category:アルファレコードのアルバム "wikilink") [Category:ザ・スターリンのアルバム](https://ja.wikipedia.org/wiki/Category:ザ・スターリンのアルバム "wikilink")
+
+1.  『[ロッキンf](https://ja.wikipedia.org/wiki/We_Rock "wikilink")』1991年
+2.  『[FOOL'S MATE](https://ja.wikipedia.org/wiki/FOOL'S_MATE "wikilink")』 1991年8月号 p. 36
+3.  いぬん堂 ライナーノーツ「当然だけど、全部ミチロウが歌っています\!」 『[飢餓々々帰郷](../Page/飢餓々々帰郷.md "wikilink")』、いぬん堂 、2007年。
+4.  大野祥之 「ライナーノーツ」 『[行方不明 〜LIVE TO BE STALIN〜](../Page/行方不明_〜LIVE_TO_BE_STALIN〜.md "wikilink")』、アルファレコード 、1991年。
+5.
+6.
+7.
+8.
+9.
+10.

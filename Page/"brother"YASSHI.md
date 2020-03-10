@@ -1,0 +1,137 @@
+> この記事は[brotherYASSHI](https://ja.wikipedia.org/wiki/brotherYASSHI)から翻訳されています。
+
+
+**"brother"YASSHI**（"ブラザー"ヤッシー、[1982年](../Page/1982年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**辻本 恭史**（つじもと やすし）。
+
+## 経歴
+
+[京都廣学館高等学校](https://ja.wikipedia.org/wiki/京都廣学館高等学校 "wikilink")(旧　南京都高等学校)卒業後に[闘龍門](../Page/闘龍門.md "wikilink")の7期生として入門。[2000年](../Page/2000年.md "wikilink")10月21日、[メキシコ](../Page/メキシコ.md "wikilink")・アレナ・ロペスマテオスにおける[大鷲透](https://ja.wikipedia.org/wiki/大鷲透 "wikilink")戦でプロレスデビューを果たした。日本マット初登場は[吉野正人](https://ja.wikipedia.org/wiki/吉野正人 "wikilink")と共に[みちのくプロレス](../Page/みちのくプロレス.md "wikilink")に参戦。[T2P](https://ja.wikipedia.org/wiki/T2P "wikilink")では[ミラノコレクションA.T.](../Page/ミラノコレクションA.T..md "wikilink")らの所属する[イタリアン・コネクション](https://ja.wikipedia.org/wiki/イタリアン・コネクション "wikilink")というユニットのメンバーであった。なお、イタリアン・コネクション時代は[ギミック上](https://ja.wikipedia.org/wiki/ギミック_\(プロレス\) "wikilink")[ジャマイカ](../Page/ジャマイカ.md "wikilink")・[キングストン出身](https://ja.wikipedia.org/wiki/キングストン_\(ジャマイカ\) "wikilink")、[イタリア](../Page/イタリア.md "wikilink")・[ジェノヴァ](../Page/ジェノヴァ.md "wikilink")出身を名乗ったこともある。当時より受けが上手く同じプロレス団体でやはり受けの達人である[横須賀享](../Page/横須賀享.md "wikilink")とのシングル等で示されている。
+
+闘龍門JAPANを経て[DRAGON GATEでは](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")[ヒールのユニットである](https://ja.wikipedia.org/wiki/ヒール_\(プロレス\) "wikilink")「[悪冠一色](https://ja.wikipedia.org/wiki/悪冠一色 "wikilink")」で下品な[マイクパフォーマンス](https://ja.wikipedia.org/wiki/マイクパフォーマンス "wikilink")などで人気があったが2004年末に[近藤修司](../Page/近藤修司.md "wikilink")らと共にリング外における素行不良、職務怠慢で解雇される。
+
+[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月に近藤とともに[VOODOO-MURDERS](../Page/VOODOO-MURDERS.md "wikilink")に加入。以来、[全日本プロレス](../Page/全日本プロレス.md "wikilink")を主戦場とする。口の巧さと嫌われ者キャラクター、気持ちいいまでの受け（やられっぷり）で、同団体のレギュラー格となった。7月からは[Dragondoor興行へ参加](https://ja.wikipedia.org/wiki/ドラゴンドア "wikilink")。
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月23日、ドラゴンドアの後継団体の[プロレスリングElDoradoに所属している](https://ja.wikipedia.org/wiki/プロレスリング・エルドラド "wikilink")。
+
+5月28日には[佐々木健介](https://ja.wikipedia.org/wiki/佐々木健介 "wikilink")とのシングルマッチ（通称「公開処刑」）が実現。体格で大きく劣る健介に立ち向かうにあたり、「これならカス野郎の逆水平も耐えられる」として、剣道の防具を装着して入場。しかし、リングに上がった直後に頭が大きすぎて被るのが辛かったのか面を取ったためにダイレクトに攻撃を受ける結果となる。当の健介も「面を被っていればよかったのに」と語っている（後に健介はブラザーとのシングルを今後も続けたいと話している）。さらにこの後通路で休んでいたらメーンの武藤と[諏訪魔](https://ja.wikipedia.org/wiki/諏訪魔 "wikilink")の場外乱闘に巻き込まれて武藤に踏みつけられ、「二次災害や」と散々な目に遭う。さらに、この後には、相手の攻撃からやっとのことで逃げ出したのに、仲間であるはずのVMメンバーに連れ戻されさらに痛めつけられたり（[TARU](../Page/TARU.md "wikilink")曰く『こいつはやられるのが仕事』）、試合会場にたまたまあった檻の中に閉じ込められながらも「今日はこの辺で勘弁したるわ\!」と叫んで見せたりと、「いじられ[キャラ](https://ja.wikipedia.org/wiki/キャラ_\(コミュニケーション\) "wikilink")」ぶりに磨きがかかり、ヒールの枠を超えた人気を集め始めた。
+
+6月のジュニアシングルリーグではいつものスタイルではなく、黒のショートパンツで試合をしたが、全敗。「ストロングスタイルを見せたる」と大見得を切ったのはよかったのだが、それを逆手に取られてしまい、2006年7月3日の[大田区体育館](https://ja.wikipedia.org/wiki/大田区体育館 "wikilink")大会では、「ブラザーストロングスタイル体感マッチ」と称した健介との再戦が行われ（この時のリングネームはパワーウォリアーを真似たヤッシーウォリアーであった）、健介にはおろか乱入した[北斗晶](https://ja.wikipedia.org/wiki/北斗晶 "wikilink")にまで叩きのめされる。なお"strong"YASSHIが初登場したのは[闘龍門](../Page/闘龍門.md "wikilink")JAPANにおけるストロング市川（[ストーカー市川](https://ja.wikipedia.org/wiki/ストーカー市川 "wikilink")）戦でこの時は白のショートタイツで登場。試合自体はドン・フジイの介入によりストーカー市川が念願の勝利したかと思いきやブラザーはわざと試合に負けることで市川の「闘龍門最弱」というアイデンティティーを奪ってしまったのであった。
+
+7月23日、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")産業館で行われた[全日本プロレス](../Page/全日本プロレス.md "wikilink")の試合で、出場予定の健介が目の怪我で欠場したため、プロレス現役引退を間近に控えた[馳浩](https://ja.wikipedia.org/wiki/馳浩 "wikilink")が地元ラストマッチを行うという名目で健介の代わりに出場することが決まった。これを知ったYASSHIは自分が少年時代から馳のファンであったことを明かし（これ以前にも、学生時代馳の著書を愛読していたことを明かしている）、対戦相手に立候補し、[武藤敬司](https://ja.wikipedia.org/wiki/武藤敬司 "wikilink")・[小島聡](https://ja.wikipedia.org/wiki/小島聡 "wikilink")・馳浩との対戦（TARU・近藤組）が実現した。試合前にYASSHIは（スーツを着た）馳の顔写真入りの緑茶を飲みながら「俺は政治家じゃないレスラー時代の馳が好きだったんや」と叫んだ。
+
+8月27日の[両国国技館](../Page/両国国技館.md "wikilink")大会では、馳の最後の試合の対戦相手を務めることとなった。この試合では、観戦していた[森喜朗](../Page/森喜朗.md "wikilink")元首相を得意のマイクで罵倒し場外乱闘一歩手前にまで持ち込むという暴挙に出た。2006年12月に小島と対戦するも敗北した。
+
+[2007年](../Page/2007年.md "wikilink")4月30日、世界ジュニア王者の[中嶋勝彦](https://ja.wikipedia.org/wiki/中嶋勝彦 "wikilink")に挑戦するも敗北。8月11日、[格闘技](../Page/格闘技.md "wikilink")イベント「[HEAT](https://ja.wikipedia.org/wiki/HEAT_\(格闘技イベント\) "wikilink") 4」で"brother"YASSHIとして[総合格闘技](../Page/総合格闘技.md "wikilink")に初挑戦（対戦相手は[久米鷹介](https://ja.wikipedia.org/wiki/久米鷹介 "wikilink")）するも、2R3分7秒[チョークスリーパーで一本負け](https://ja.wikipedia.org/wiki/裸絞 "wikilink")。
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月4日の新日本・東京ドーム大会出場が決定したのに先立って、2007年12月24日の新日後楽園大会に来場。ドームでの対戦相手となる[長州力](https://ja.wikipedia.org/wiki/長州力 "wikilink")に対して「団体経営に失敗した出戻り」と長州にとって「消したい過去」とも言える事実に基づく挑発を行い、ファンから喚声を浴びた。その長州と2月とはカスイチで対戦し、リキラリアットを喰らった際に首を負傷し長期欠場に追い込まれた（2分足らずの秒殺だった）。
+
+10月、ElDoradoから離脱。その後、ElDoradoが活動休止となった。親会社ソウルコネクション所属となる。
+
+[2009年](../Page/2009年.md "wikilink")1月3日の全日本プロレス後楽園大会のジュニアヘビー級バトルロイヤルで自身3度目の優勝を果たした。しかし、試合後に2月シリーズを最後にプロレスを休業すると発言し、2月6日の後楽園大会でかつての盟友・近藤との[一騎討ち](../Page/一騎討ち.md "wikilink")を全日本に要求、実現した。
+
+2月15日の地元京都大会、YASSHI\&TARU対諏訪魔&近藤戦をもってプロレスラー活動にピリオドを打つこととなったが、試合終了後に武藤がシングルマッチを申し入れボーナスマッチも実現、10カウントゴングで送り出された。
+
+[2011年](../Page/2011年.md "wikilink")3月21日の全日本プロレスの[両国国技館](../Page/両国国技館.md "wikilink")でのチャリティー大会にて、試合には参加しなかったもののTARUの呼びかけに応じて久々にリング上に姿を現した。
+
+[2012年](../Page/2012年.md "wikilink")12月9日、ダイアモンド・リングに乱入。
+
+12月23日、[拳剛](https://ja.wikipedia.org/wiki/拳剛 "wikilink")（旧:西村賢吾）とブードゥーマーダーズ再始動を発表。
+
+[2014年](../Page/2014年.md "wikilink")7月27日、全日本プロレスのリングに5年ぶりに一人で登場し、リング上で参戦を要求。"brother"YASSHI個人として出場したが、リング上でブードゥーマーダーズを投入すると宣言するも、全日本プロレスからは拒否され、それだけでなくYASSHI本人も出場を拒否される事態となり、出場予定だった次期シリーズの出場も白紙となってしまった。
+
+[2016年](../Page/2016年.md "wikilink")1月24日、地元京都で京都カス野郎プロレスを開催。
+
+2月4日、[吉野正人](https://ja.wikipedia.org/wiki/吉野正人 "wikilink")に呼びこまれ11年ぶりにDRAGON GATEのリングに登場し[土井成樹](https://ja.wikipedia.org/wiki/土井成樹 "wikilink")を挑発吉野としゃちを除く初対面の選手からリング上で自己紹介をされた。また、土井&[YAMATO対吉野](../Page/YAMATO_\(プロレスラー\).md "wikilink")\&YASSHIも同時に決定。
+
+2月17日、CRYSIS興行に参戦しメインイベント終了後ブードゥーマーダーズの脱退を発表。
+
+3月2日、DRAGON GATE後楽園ホール大会に参戦し吉野とのタッグで土井\&YAMATO組を相手に対戦するもBOX攻撃やレフェリー暴行での反則負けとなる。
+
+3月20日、[WRESTLE-1](https://ja.wikipedia.org/wiki/WRESTLE-1 "wikilink")千葉Blue Field大会に来場。試合後の控え室にて、同団体のユニット¨TriggeR¨に加入することを宣言した。
+
+3月21日、WRESTLE-1山形大会にも来場し、[近藤修司](../Page/近藤修司.md "wikilink")と接触を図るも結局近藤には会えず、[芦野祥太郎](https://ja.wikipedia.org/wiki/芦野祥太郎 "wikilink")にはイロモノ呼ばわりされた。後に近藤と接触しTriggerに加入。しかし、加入を要求した時期から近藤が欠場中のため直接の共闘はすぐにはできていない。
+
+5月11日、DRAGON GATE後楽園ホール大会の土井成樹、谷嵜なおきvs吉野正人、しゃちほこBOYのタッグマッチに乱入し[VerserK](https://ja.wikipedia.org/wiki/VerserK "wikilink")に加入。
+
+7月24日、DRAGON GATE神戸ワールド記念ホール大会にて土井とのタッグで[ジミー・ススム](../Page/横須賀享.md "wikilink")&[ジミー・カゲトラの持つ](https://ja.wikipedia.org/wiki/KAGETORA_\(プロレスラー\) "wikilink")[オープン・ザ・ツインゲート統一タッグ王座](../Page/オープン・ザ・ツインゲート統一タッグ王座.md "wikilink")に挑戦するも王座獲得はならなかった。
+
+[2017年](../Page/2017年.md "wikilink")9月30日、[ダブプロレス](https://ja.wikipedia.org/wiki/ダブプロレス "wikilink")に入団。
+
+[2018年](../Page/2018年.md "wikilink")3月、[Kzy](../Page/Kzy.md "wikilink")に呼び込まれ再びDRAGON GATEに参戦。4月には新ユニット([NATURAL VIBES](https://ja.wikipedia.org/wiki/NATURAL_VIBES "wikilink"))のメンバーになった。
+
+11月、自身のTwitterにて一般女性との結婚を報告。
+
+## 戦績
+
+## タイトル歴
+
+  - [UWA世界6人タッグ王座](https://ja.wikipedia.org/wiki/UWA世界6人タッグ王座 "wikilink")
+  - [アジアタッグ王座](https://ja.wikipedia.org/wiki/アジアタッグ王座 "wikilink")
+  - [NWAインターナショナルライトタッグ王座](https://ja.wikipedia.org/wiki/NWAインターナショナルライトタッグ王座 "wikilink")
+  - APEX OF TRIANGLE王座
+  - [UWA世界ジュニアヘビー級王座](https://ja.wikipedia.org/wiki/UWA世界ジュニアヘビー級王座 "wikilink")
+  - [DOVEタッグ王座](https://ja.wikipedia.org/wiki/DOVEタッグ王座 "wikilink")
+  - 666認定きかんしゃ級王座
+
+## 得意技
+
+  - [ナイス・ジャマイカ](../Page/ジャーマン・スープレックス.md "wikilink")
+    技名は[ドン・フジイ](../Page/ドン・フジイ.md "wikilink")の[ナイス・ジャーマンに対抗して自身の](../Page/ジャーマン・スープレックス.md "wikilink")[ギミックのモチーフから名付けたことが由来](https://ja.wikipedia.org/wiki/ギミック_\(プロレス\) "wikilink")。
+  - キングストン・パイルドライバー
+    技名は自身の[ギミックのモチーフから名付けたことが由来](https://ja.wikipedia.org/wiki/ギミック_\(プロレス\) "wikilink")。
+  - フライング・ビッグヘッド
+    [ダイビング・ヘッドバットだが](https://ja.wikipedia.org/wiki/頭突き#ダイビング・ヘッドバット "wikilink")、ヘルメットが被れない程のブラザーの大きな頭からこう名付けられた。飛ぶ前に「ビッグヘッド」と数回叫びながらポーズを取るが、その間にダウンしていた相手が蘇生してしまい、コーナー上から叩き落とされることも多い。
+  - バッド・ボーイ
+    前方回転してのネックブリーカー。
+  - ビッグ・ボーイ
+    ダイビング式のバッド・ボーイ。近藤との合体式もある。
+  - [クラミジア](https://ja.wikipedia.org/wiki/クラミジア "wikilink")
+    不摂生な下半身を相手の顔に向けて精神的なダメージを与える[ツームストーン・パイルドライバー](https://ja.wikipedia.org/wiki/パイルドライバー#ツームストーン・パイルドライバー "wikilink")。
+  - ポストーレ・デ・ラ・ノーチェ
+    T2P時代のフィニッシュ・ホールド。全日本移籍後は全く使わなかった。技名はスペイン語で「夜のおかず」という意味。
+  - ターン・テーブル
+    変形の[ローリング・クレイドル](https://ja.wikipedia.org/wiki/ローリング・クレイドル "wikilink")。
+  - ヤッシー・リフト
+    [レスリングの俵返し](https://ja.wikipedia.org/wiki/アマチュアレスリング "wikilink")。ブラザーのレスリング技術の高さが窺える数少ない技。
+  - 口撃（こうげき）
+    リング内外での罵詈雑言。タッグマッチでは相手に攻撃を加えず、罵倒だけを繰り返してパートナーにタッチすることも。
+  - 玉砕
+    金的へのクローによる反則攻撃。2人に対して同時にかけると**二子玉川**となり、3人に対して同時にかけると（1人には噛み付き）**サンタマリア**となる。
+  - バビロン
+    近藤との合体技。近藤の肩の上からの前方回転式セントーン。
+  - ペニス・カッター
+    近藤との合体技。近藤がサイド・バスターで捕らえた相手の首へのダイビング・ギロチンドロップ。
+  - ビッグ・ヘッド・トレイン
+    近藤との合体技。近藤がYASSHIを肩の上に担ぎ上げた状態で走り、相手にYASSHIの頭をぶつける。元ネタは[キン肉マン](../Page/キン肉マン.md "wikilink")に出てきた技であるロングホーン・トレイン。
+
+## レスラー活動休止
+
+レスラー活動は休業という形で引退ではない。活動中は足首や首の怪我による長期欠場が何度かあり、YASSHI本人はキャラクター上明言しないが、ジュニアヘビー級の体格でヘビー級選手の攻撃を受け続けたことによる蓄積されたダメージも大きかったと思われる。[週刊プロレス](https://ja.wikipedia.org/wiki/週刊プロレス "wikilink")で連載していたコラム「カス野郎千人斬り」の連載はプロレス活動の休止とともに連載休止となったが、同誌1500号記念号において1回限りの復活をしている。
+
+後に休業理由として、実家で営む[石材](https://ja.wikipedia.org/wiki/石材 "wikilink")店を継ぐために専門的な修行を4年受けた。その際に会場には乱入しても、試合には出場しないと決めていたと話している。
+
+## エピソード
+
+  - マイクなどで罵倒する際に「カス野郎」と対戦相手を罵り（原則としてVMメンバー、尊敬する馳浩、縁の深い[SUWA](https://ja.wikipedia.org/wiki/SUWA "wikilink")に対してはそういうことは言わない）、一日のマイクパフォーマンス内において、この言葉を十数回頻発する。最後は「ご機嫌ちゃーん」と締める。コール時には股間に手を突っ込み、陰毛を毟って息で吹き飛ばすような仕草を見せる。
+  - 学生時代は手のつけられない不良だったと自負しているが、闘龍門出身者では数少ない[レスリングの経験者であったり](https://ja.wikipedia.org/wiki/アマチュアレスリング "wikilink")、[書道](https://ja.wikipedia.org/wiki/書道 "wikilink")の有段者（五段）であるなど意外な経歴を持っている（悪冠一色のユニット名発表の際の題字は彼によるもの）。また、プロレスリングElDoradoの[ジャンピングキッド沖本と](https://ja.wikipedia.org/wiki/沖本摩幸 "wikilink")[KAIENTAI DOJOの](https://ja.wikipedia.org/wiki/KAIENTAI_DOJO "wikilink")[火野裕士](../Page/火野裕士.md "wikilink")は南京都高校時代のレスリング部の後輩である。
+  - 特技は自作の[ラップ](../Page/ラップ.md "wikilink")。リング上で披露したり、リリックを自らのブログで公開することもあった。
+  - [原宿](../Page/原宿.md "wikilink")の[ムラサキスポーツ](https://ja.wikipedia.org/wiki/ムラサキスポーツ "wikilink")の前で、痴話喧嘩しているところを、[666の](https://ja.wikipedia.org/wiki/666_\(プロレス\) "wikilink")[ラム会長](https://ja.wikipedia.org/wiki/ラム会長 "wikilink")に見られている。
+  - [アントーニオ本多](../Page/アントーニオ本多.md "wikilink")とはトークがうまい同士なライバル関係でエルドラドのリングで「二人でトークをして三秒黙ったら負け」というルールの試合をしたことがある（試合は本多が唐突に出した暗算で三秒黙らせて勝利、納得いかないブラザーが通常のシングルマッチに移行させてナイス・ジャマイカで勝利）。
+  - 高校生の頃に[越中詩郎](https://ja.wikipedia.org/wiki/越中詩郎 "wikilink")に「お前にはプロレスラーは無理だ」と冷たく言われ長年恨んでいたが[カスイチ3で対戦し](https://ja.wikipedia.org/wiki/新宿カス野郎プロレス "wikilink")「打倒・越中」を決意、「カスイチ4」では「超・平成維震軍」を結成し、越中とタッグを組んでいくことにした。
+  - プロレスを始めて間もない頃は、[プロテイン](../Page/プロテイン.md "wikilink")を買えるほどの経済的な余裕がなく、チェーン店の牛丼で[タンパク質](../Page/タンパク質.md "wikilink")を摂っていたと語っている。
+  - 前述のレスリングの経験があることから、そのレスリング技術を認められて闘龍門に入門したのだが、流暢で危険なマイクパフォーマンスはウルティモ・ドラゴンも予想してなかったらしい。
+  - 最近はTwitterなどでいいねしたり、DMを返すなどファンを大切にしている一面がある。
+  - 闘龍門の同期である大家健からは「プロレスラーになりたくて闘龍門に入ったけど、YASSHIは俺から比べたらすごいできるわけよ。だから本当にどうしたらいいか分からなくなって」と羨望されていた。さらに大家は「闘龍門の枠に収まり切らない奴」とYASSHIがかつてDRAGON GATEを解雇された理由をそのように表現している。以上の発言を2017年9月21日の新宿FACE興業でガンバレ☆プロレスインディペンデントワールド世界ジュニアヘビー級王者選手権試合に関する会見で行った大家に対してYASSHIは「そんなこと言ったらオマエの仲間も、オマエを支持しているファンも、ないがしろにしているのと一緒やカス野郎\!」と、若干卑屈になっていた大家を一喝する発言を行っている\[1\]。
+
+## 脚注
+
+<references/>
+
+## 外部リンク
+
+  -
+  - [SHERDOG 選手データ](https://www.sherdog.com/fighter/Yasushi-Tsujimoto-23561)
+
+[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:アマチュアレスリング出身のプロレスラー](https://ja.wikipedia.org/wiki/Category:アマチュアレスリング出身のプロレスラー "wikilink") [Category:全日本プロレス](https://ja.wikipedia.org/wiki/Category:全日本プロレス "wikilink") [Category:エルドラド](https://ja.wikipedia.org/wiki/Category:エルドラド "wikilink") [Category:DRAGON_GATEに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:DRAGON_GATEに所属したプロレスラー "wikilink") [Category:ハッスルの人物](https://ja.wikipedia.org/wiki/Category:ハッスルの人物 "wikilink") [Category:京都廣学館高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:京都廣学館高等学校出身の人物 "wikilink") [Category:在メキシコ日本人](https://ja.wikipedia.org/wiki/Category:在メキシコ日本人 "wikilink") [Category:京都府出身の人物](https://ja.wikipedia.org/wiki/Category:京都府出身の人物 "wikilink") [Category:1982年生](https://ja.wikipedia.org/wiki/Category:1982年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink")
+
+1.  週刊プロレス2017年9月13日号p.82.

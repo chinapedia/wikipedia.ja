@@ -1,0 +1,88 @@
+> この記事は[XX](https://ja.wikipedia.org/wiki/XX)から翻訳されています。
+
+
+**セリカXX**（セリカ ダブルエックス）はかつて[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が製造・販売していた[クーペ](../Page/クーペ.md "wikilink")である。
+
+## 概要
+
+6気筒車[日産・フェアレディZ](../Page/日産・フェアレディZ.md "wikilink")の成功に刺激された北米ディーラーの要望により、4気筒車[セリカの上級車種として](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")6気筒エンジンを搭載することを主眼に開発された。その経緯から[スポーツカー](../Page/スポーツカー.md "wikilink")として認知される[日産・フェアレディZ](../Page/日産・フェアレディZ.md "wikilink")と対比されるが、本車は[GTカーとしてカテゴリ分けされることが多く](https://ja.wikipedia.org/wiki/グラントゥーリズモ "wikilink")、フェアレディZとの対比はカテゴリを越えたものであることに留意すべきである。
+
+当時のアメリカではXの連記が映画の成人指定度合いを示すため、北米を含めた全ての輸出車はXの連記を避け**[スープラ](https://ja.wikipedia.org/wiki/トヨタ・スープラ "wikilink")**と命名された。このことによって「セリカXX」は日本国内専用の車名となり、最終的には日本国内の車名もスープラに変更され、セリカXXの名称は消滅した。
+
+## 歴史
+
+### 初代 A40/50型（1978年-1981年）
+
+[1977年](../Page/1977年.md "wikilink")の[東京モーターショー](../Page/東京モーターショー.md "wikilink")に参考出品。セリカの上級車種として翌[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")登場。A40型セリカ（4気筒モデル）のフロントノーズを延長し、[M型](../Page/トヨタ・M型エンジン.md "wikilink")6気筒エンジンを搭載。ラグジュアリーな雰囲気を持った高級[スペシャルティカー](../Page/スペシャルティカー.md "wikilink")という設定で、4灯角型ヘッドランプやカラードウレタンバンパー、ガラス調のリアガーニッシュやBピラーフィニッシャー、[七宝調エンブレムを装備し](https://ja.wikipedia.org/wiki/七宝焼き "wikilink")、後の初代[ソアラやマークII](https://ja.wikipedia.org/wiki/トヨタ・ソアラ "wikilink")3兄弟（[マークII](../Page/トヨタ・マークII.md "wikilink")/[チェイサー](https://ja.wikipedia.org/wiki/トヨタ・チェイサー "wikilink")/[クレスタ](https://ja.wikipedia.org/wiki/トヨタ・クレスタ "wikilink")）などに代表されるトヨタ[ハイソカー](https://ja.wikipedia.org/wiki/ハイソカー "wikilink")ブームへ続く[バーガンディーの内装など](https://ja.wikipedia.org/wiki/えんじ色 "wikilink")、装飾による高級感の演出の元祖であり、その3年後に登場する初代ソアラの源流にもなった車種である。エンジンは[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink") 2.0L [SOHC](../Page/SOHC.md "wikilink") (M-EU) と2.6L SOHC (4M-EU) が搭載された。フロントグリルの造型に **T**oyota の**T**をあしらい、同じモチーフを用いた同社最高級スポーツカー[2000GTを彷彿させた](../Page/トヨタ・2000GT.md "wikilink")。日本国内のCMキャラクターには[リック・ジェイソン](https://ja.wikipedia.org/wiki/リック・ジェイソン "wikilink")が起用された。
+
+  - 前期 A40型
+    グレードは2.0L車 (MA45) が下位から L、S、G の3種、2.6L車 (MA46) が下位から S、G の2種が用意された。
+    [クラウンとともにトヨタ車初の](https://ja.wikipedia.org/wiki/トヨタ・クラウン "wikilink")4速[ATが搭載された](../Page/オートマチックトランスミッション.md "wikilink")。[オーバードライブ](https://ja.wikipedia.org/wiki/オーバードライブ "wikilink")設定スイッチは[ダッシュボードに装備された](https://ja.wikipedia.org/wiki/ダッシュボード_\(自動車\) "wikilink")。1990年代から主流となったオーバードライブ解除スイッチとはインジケーターの点灯[ロジックが逆で](https://ja.wikipedia.org/wiki/論理回路 "wikilink")、設定スイッチをONにすると緑のインジケータが点灯しオーバードライブ段への自動変速が有効になった。
+    メーカーオプションとしてスライディング[サンルーフ](https://ja.wikipedia.org/wiki/サンルーフ "wikilink")が用意されたが、開閉は車内の上部に装備した折りたたみ式ハンドル回転による手動式であった。
+    ステアリングホイールのスポーク裏にもホーンボタンが装備されていた。
+
+<!-- end list -->
+
+  - 後期 A50型
+    1980年8月にマイナーチェンジ。このマイナーチェンジ車はわずか7ヶ月しか販売されていない。
+    リアサスペンションが[4リンク](../Page/リンク式サスペンション.md "wikilink")/[コイルスプリングの](../Page/ばね.md "wikilink")[リジッドアクスル](https://ja.wikipedia.org/wiki/リジッドアクスル "wikilink")式から[セミトレーリングアーム](https://ja.wikipedia.org/wiki/独立懸架#スイングアーム "wikilink")/コイルスプリングの[独立懸架](../Page/独立懸架.md "wikilink")式に変更された。
+    3ナンバー車は 4M-EU に代わり 5M-EU 2.8Lエンジンが搭載された。
+    センターコンソールを形状変更し、日本製乗用車において普及しつつあった[DIN規格のオーディオスペースが](https://ja.wikipedia.org/wiki/ISO_7736 "wikilink")、2段新設された。
+
+<!-- end list -->
+
+  - 年表
+
+<!-- end list -->
+
+  - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")4月-　発売。この車から現在の**TOYOTA**ロゴが使われ始める。
+  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")8月-　後期型登場。
+  - [1981年](../Page/1981年.md "wikilink")7月-　2代目の登場に伴い販売終了。生産台数は3万9082台\[1\]。
+
+<File:1981> Toyota Supra.jpg|北米仕様
+
+{{-}}
+
+### 2代目 A60型（1981年-1986年）
+
+[1981年](../Page/1981年.md "wikilink")7月登場。初代がラグジュアリー志向の高級スペシャルティカーであったのに対し、初代のコンセプトを先に発売された[ソアラが引き継いでいたため](https://ja.wikipedia.org/wiki/トヨタ・ソアラ "wikilink")、2代目は一転してスポーティー路線へと変更された。CMでも[ロータスの創始者である](../Page/ロータス・カーズ.md "wikilink")[コーリン・チャップマン](../Page/コーリン・チャップマン.md "wikilink")を起用し、カタログでも走行性能の高さを前面にアピールしていた。なお当時あった「足回りのセッティングをロータスが担当した」という話は誤りとされていたが\[2\]、後年トヨタ自動車から正式に協力関係にあったことが発表されている（トヨタ自動車公式企業サイト内）。　　
+
+外観は直線を主体としたシャープな造形のボディーと、空力を意識した[リトラクタブルヘッドライト](https://ja.wikipedia.org/wiki/リトラクタブルヘッドライト "wikilink")によるシンプルな顔立ちへと変貌を遂げた。CD値0.35とソアラよりも優れた空力特性と前面投影面積の小ささで日本車としては久々となる200Km/hオーバーを記録した(2800GT)。スポーティーに振ったキャラクターではあったが装備は充実しており、カローラ店での高級車\[3\]、および[フラグシップ](https://ja.wikipedia.org/wiki/フラグシップ "wikilink")カーとしての役割も担っていた。クルーズコンピューター\[4\]、ソアラに初採用されたデジタルメーター（2800GTに標準、2000Gにオプション）、オートドライブ、スピードアラーム（オートドライブとの併設は不可）、電子チューナーAM/FMラジオカセットオーディオ（オプション）と[ウーファー](https://ja.wikipedia.org/wiki/ウーファー "wikilink")1個、[ツイーター](https://ja.wikipedia.org/wiki/ツイーター "wikilink")2個、[スピーカー](../Page/スピーカー.md "wikilink")2個の5スピーカの凝ったオーディオシステムが装備されていた。中でも注目の装備は、目的地の方角を入力するとその方角を指示し、目的地までの距離をコンピューターが算出する「クルーズナビコン」が2800GTにオプション設定された（クルーズコンピューター、電動式サンルーフとの併設は不可）。バーガンディーの内装設定も引き続き採用され、サンルーフは初代の手動式から電動式に改められた。
+
+自ら所有していた[福野礼一郎](https://ja.wikipedia.org/wiki/福野礼一郎 "wikilink")は「セリカのノーズに強引にソアラ（2代目まで[国内専用車](https://ja.wikipedia.org/wiki/国内専用車 "wikilink")だった）用エンジン載っけてアメリカ人ダマして売ろうと考えたインチキでっち上げスポーツカーもどき」と評している\[5\]。後に[Option誌でターボチューンが施された](https://ja.wikipedia.org/wiki/Option_\(雑誌\) "wikilink")。
+
+  - 前期型
+    1981年7月発売。エンジンは2800GTにソアラで初採用された直列6気筒 2.8L [DOHC](../Page/DOHC.md "wikilink") (5M-GEU) と2000L、S、Gにクレスタで初採用された2.0L SOHC (1G-EU)を搭載。
+    [1982年](../Page/1982年.md "wikilink")2月 2.0L SOHC [ターボ](../Page/ターボチャージャー.md "wikilink") (M-TEU) を搭載するターボS/Gを追加
+    1982年8月 6気筒 2.0L DOHC [24バルブ](https://ja.wikipedia.org/wiki/マルチバルブ "wikilink") ([1G-GEU](https://ja.wikipedia.org/wiki/トヨタ・1G-GE "wikilink")) を搭載する2000GTを追加。（2000GTにオプションで195/60R15サイズの60扁平タイヤが用意された）
+    上級モデルにはデジタルメーターが採用された。（2800GTに標準、2000G、2000Gターボ、2000GTにオプション設定）
+    なお2.0GTは最後までMTオンリーでターボ系はATオンリーである。
+  - 後期型
+    [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")8月 マイナーチェンジ。外観の変更はバンパーの形状変更、テールレンズのデザイン変更、テールゲート及びリヤバンパーのボディー同色化、ドアミラーの標準化。最廉価グレードのLは廃止。5M-GEUは圧縮比アップにより175ps/5,600rpm、24.5kgm/4,400rpmに向上。
+    [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")販売終了。モデルチェンジの際に[スープラと名称が変更された](https://ja.wikipedia.org/wiki/トヨタ・スープラ "wikilink")。
+
+{{-}}
+
+## 参考文献
+
+  - [福野礼一郎](https://ja.wikipedia.org/wiki/福野礼一郎 "wikilink")『自動車ロン』[双葉文庫](https://ja.wikipedia.org/wiki/双葉文庫 "wikilink") ISBN 4-575-71308-2
+
+## 脚注
+
+## 関連項目
+
+  - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")
+
+## 外部リンク
+
+  - [トヨタ セリカXX（初代）](https://www.toyota.co.jp/jpn/company/history/75years/vehicle_lineage/car/id60010185/) - トヨタ自動車公式企業サイト内のページ。
+  - [トヨタ セリカXX（2代目）](https://www.toyota.co.jp/jpn/company/history/75years/vehicle_lineage/car/id60010216/) - 同上。
+  - [＜ご参考：トヨタとロータス社との関係＞](http://www2.toyota.co.jp/jp/feature/10/09/100917_f1.html) - 同上。
+
+[Category:トヨタの車種](https://ja.wikipedia.org/wiki/Category:トヨタの車種 "wikilink") [Category:クーペ](https://ja.wikipedia.org/wiki/Category:クーペ "wikilink") [Category:スポーツカー](https://ja.wikipedia.org/wiki/Category:スポーツカー "wikilink")
+
+1.  デアゴスティーニジャパン 週刊日本の名車第39号3ページより。
+2.  『自動車ロン』p.194。
+3.  その後、カローラ店としての高級車の役割は[カムリプロミネントを経て](https://ja.wikipedia.org/wiki/トヨタ・カムリ "wikilink")[ウィンダム](https://ja.wikipedia.org/wiki/トヨタ・ウィンダム "wikilink")（海外名：[レクサス・ES](https://ja.wikipedia.org/wiki/レクサス・ES "wikilink")）へその座を譲ることとなった。
+4.  ガソリン満タン時からの走行可能距離、燃料消費量、目的地までの到着予定時刻などをコンピューターが自動演算し表示するドライブ情報表示システムのこと。
+5.  『自動車ロン』p.195。

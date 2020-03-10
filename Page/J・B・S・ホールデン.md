@@ -1,0 +1,80 @@
+> この記事は[JBS](https://ja.wikipedia.org/wiki/JBS)から翻訳されています。
+
+
+**ジョン・バードン・サンダースン・ホールデン**（**John Burdon Sanderson Haldane**、[1892年](../Page/1892年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink") - [1964年](../Page/1964年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[生物学者](https://ja.wikipedia.org/wiki/生物学者 "wikilink")で、普通は**J・B・S・ホールデン**と呼ばれる。生物に関する理論的研究を得意とし、生命の起源に関する科学的理論の最初の提唱者と知られており\[1\]、[ロナルド・フィッシャー](https://ja.wikipedia.org/wiki/ロナルド・フィッシャー "wikilink")、[シューアル・ライト](https://ja.wikipedia.org/wiki/シューアル・ライト "wikilink")と並ぶ[集団遺伝学](../Page/集団遺伝学.md "wikilink")の開拓者であり、[酵素](../Page/酵素.md "wikilink")[反応速度論](https://ja.wikipedia.org/wiki/反応速度論 "wikilink")などにも業績を残した。また一般向け解説書やエッセーも多数執筆する一方、しばしば個性的な言動で注目を浴びた。中でも『ダイダロス、あるいは科学と未来』*Daedalus or Science and the Future*（[1923年](../Page/1923年.md "wikilink")）は科学の未来を予測したものとして有名であり、ホールデンは20世紀における[トランスヒューマニズム](https://ja.wikipedia.org/wiki/トランスヒューマニズム "wikilink")の先駆者とされ\[2\]、[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")の造語でも有名である\[3\]。
+
+## 生い立ち
+
+ホールデン家は[スコットランド](../Page/スコットランド.md "wikilink")の名門として知られる。J・B・S・ホールデンは医師・生理学者の[ジョン・スコット・ホールデン](https://ja.wikipedia.org/wiki/ジョン・スコット・ホールデン "wikilink")（[John Scott Haldane](https://ja.wikipedia.org/wiki/:en:John_Scott_Haldane "wikilink")：[呼吸](../Page/呼吸.md "wikilink")の研究で著名）の子として[オックスフォード](https://ja.wikipedia.org/wiki/オックスフォード "wikilink")に生まれた。妹には作家の[ナオミ・ミチスン](https://ja.wikipedia.org/wiki/ナオミ・ミチスン "wikilink") ([Naomi Mitchison](https://ja.wikipedia.org/wiki/:en:Naomi_Mitchison "wikilink"), 1897 - 1999) がいる。
+
+父の影響で生物学を専攻し[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")ニューカレッジを卒業した。
+
+[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")中は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")と[イラク](../Page/イラク.md "wikilink")で軍務に就いたが、その間に[社会主義](../Page/社会主義.md "wikilink")に目覚め、さらに後には[共産主義](https://ja.wikipedia.org/wiki/共産主義 "wikilink")に惹かれることになる。
+
+## 研究
+
+[1919年](../Page/1919年.md "wikilink")からニューカレッジでフェローを務め、[1922年](../Page/1922年.md "wikilink")には[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")に移り、[1932年](../Page/1932年.md "wikilink")以降は[ユニヴァーシティ・カレッジ・ロンドン](https://ja.wikipedia.org/wiki/ユニヴァーシティ・カレッジ・ロンドン "wikilink")で研究を行った。
+
+[1925年](../Page/1925年.md "wikilink")、酵素反応速度論の基本である[ミカエリス・メンテン式](https://ja.wikipedia.org/wiki/ミカエリス・メンテン式 "wikilink")の新たな導出法を[G・E・ブリッグス](https://ja.wikipedia.org/wiki/G・E・ブリッグス "wikilink")（[G.E. Briggs](https://ja.wikipedia.org/wiki/:en:George_Edward_Briggs "wikilink")）とともに明らかにした（ブリッグス・ホールデン式とも呼ばれる）。これは[1913年](../Page/1913年.md "wikilink")に初めて導かれたものだが、[酵素](../Page/酵素.md "wikilink")・基質と酵素基質複合体との[化学平衡](../Page/化学平衡.md "wikilink")を仮定していた。ホールデンらはより一般的な[定常状態](../Page/定常状態.md "wikilink")（酵素基質複合体の生成速度と分解速度が等しい）を仮定しても同形の式が導かれることを示し、ミハエリス定数により適切な解釈を示した。
+
+ホールデンの有名な著書『進化の要因』*The Causes of Evolution*（[1932年](../Page/1932年.md "wikilink")）は[メンデルの法則](../Page/メンデルの法則.md "wikilink")を基本として[自然淘汰](https://ja.wikipedia.org/wiki/自然淘汰 "wikilink")による[進化](../Page/進化.md "wikilink")を[数学](../Page/数学.md "wikilink")的に説明したもので、[ネオダーウィニズム](../Page/ネオダーウィニズム.md "wikilink")総合説の代表的著作として知られる。
+
+## 共産主義思想
+
+彼は1928年に[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")を旅行し、また以前から[唯物論](../Page/唯物論.md "wikilink")的思想を抱いていたことから、[共産主義](https://ja.wikipedia.org/wiki/共産主義 "wikilink")に惹かれるようになる。
+
+1937年に[イギリス共産党](https://ja.wikipedia.org/wiki/イギリス共産党 "wikilink")に参加した。戦後、共産主義者に対する圧迫が強まっても彼は堂々と共産主義者を自称していた。しかし[トロフィム・ルイセンコ](https://ja.wikipedia.org/wiki/トロフィム・ルイセンコ "wikilink")と[スターリン独裁の犠牲となった旧知の生物学者](https://ja.wikipedia.org/wiki/ヨシフ・スターリン "wikilink")[ニコライ・ヴァヴィロフ](https://ja.wikipedia.org/wiki/ニコライ・ヴァヴィロフ "wikilink")の悲劇を知るに及び、1950年に党を去った。
+
+## 私生活
+
+1924年に[フェミニスト](https://ja.wikipedia.org/wiki/フェミニスト "wikilink")として有名なジャーナリスト、シャーロット・バージェス（Charlotte Burghes、旧姓Franken）と知り合い、二人の仲はスキャンダルとして騒がれたが、シャーロットが前夫と離婚したあと1926年に二人は結婚した。シャーロットは[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")初期にソビエト連邦の実態に幻滅し共産主義に決別したがホールデンは戦後まで共産主義思想を捨てなかった。彼らは1945年に離婚し、ホールデンは後に共同研究者ヘレン・スパーウェイ (Helen Spurway) と再婚した。1932年に[王立協会フェロー](https://ja.wikipedia.org/wiki/王立協会フェロー "wikilink")に選出された。
+
+## 著作
+
+彼は一般向けの書物も多数執筆した。*My Friend Mr. Leakey*（[1937年](../Page/1937年.md "wikilink")、邦題『魔法つかいのリイキーさん』）、*Adventures of a Biologist* （[1947年](../Page/1947年.md "wikilink")）、*What is Life?*（邦題『人間とはなにか』[1947年](../Page/1947年.md "wikilink")）などの著書がある。特に彼が書いたものの中で最も衝撃的な『ダイダロス』は科学の進歩を理想化しすぎているとの批判もある。また、[H・G・ウェルズ](https://ja.wikipedia.org/wiki/H・G・ウェルズ "wikilink")や[ジュリアン・ハクスリー](https://ja.wikipedia.org/wiki/ジュリアン・ハクスリー "wikilink")とは、*Reshaping Man's Heritage* ([1944年](../Page/1944年.md "wikilink"))を共著で発表している。
+
+ホールデンは作家[オルダス・ハクスリー](../Page/オルダス・ハクスリー.md "wikilink")とは幼少期からの親友で、彼の『』にはホールデンをモデルにした生物学者"Shearwater"が登場する。『[すばらしい新世界](../Page/すばらしい新世界.md "wikilink")』も、人工子宮で胎児を育てる話など『ダイダロス』の影響が非常に大きく、無断借用ではないかとも言われている。
+
+### 翻訳
+
+  -
+  -
+  - 「魔法つかいのリイキーさん」[山室静](https://ja.wikipedia.org/wiki/山室静 "wikilink")訳、
+
+  -
+## 彼の名を冠した法則など
+
+[1937年](../Page/1937年.md "wikilink")に、遺伝的に平衡状態にある集団では[突然変異](../Page/突然変異.md "wikilink")による集団[適応度](https://ja.wikipedia.org/wiki/適応度 "wikilink")の減少率は個体あたりの総突然変異率に等しく、個々の[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の有害度には依存しないことを[ハーマン・J・マラー](https://ja.wikipedia.org/wiki/ハーマン・J・マラー "wikilink")と共に示した。これは現在**ホールデン・マラーの原理**と呼ばれている。
+
+エッセー*On Being the Right Size*（[1928年](../Page/1928年.md "wikilink")）では、「動物の性質はその大きさによりほぼ規定される」（例えば体の小さい昆虫は空気が体内に拡散するだけで呼吸できるが、体の大きい動物は心臓や赤血球が必要になる）という独自の見方を示し、これも「ホールデンの原理」と呼ばれることがある。
+
+1922年に「系統の異なる[動物](https://ja.wikipedia.org/wiki/動物 "wikilink")の雑種第1代で一方の性にのみ現れない、少ない、あるいは不妊といった異常が見られる場合、そちらの性が異型接合（ヒトでいえばXYの[性染色体](https://ja.wikipedia.org/wiki/性染色体 "wikilink")をもつ男性）である」ことを見出し、これはHaldane's rule（日本語では**ホールデンの規則**）と呼ばれる。
+
+*Possible worlds* （[1940年](../Page/1940年.md "wikilink")）の中の名言「宇宙は我々が想像する以上に奇妙などころか、想像**できる**以上に奇妙なのだ」：これはHaldane's law（これは日本語では「ホールデンの法則」）と呼ばれることもある。（ただし父による「ホールデンの法則」もあるので注意。）
+
+彼は溺れている兄妹のために命を投げ出すか？と問われて次のように語ったと言われる。「2人の兄妹、4人の甥、8人のいとこのためなら喜んで命を差し出すだろう」。これはホールデンが後年の遺伝子中心視点主義や[血縁選択説](https://ja.wikipedia.org/wiki/血縁選択説 "wikilink")を先取りするアイディアを持っていた証として語り継がれている。
+
+## 教育
+
+ホールデンは多数の後進を育成した。中で最も有名なのは[ジョン・メイナード＝スミス](../Page/ジョン・メイナード＝スミス.md "wikilink")であろう。メイナード＝スミスによればホールデンは学生を励ますのが上手かったが、やや短気で怒るときには容赦がなかった。巨体で威圧感があったために彼の周りのグループは小さかった。[R.A.フィッシャー](https://ja.wikipedia.org/wiki/R.A.フィッシャー "wikilink")とは対立しており、それぞれの学生同士も反目しあっていた。
+
+## 晩年
+
+[1957年](../Page/1957年.md "wikilink")に大学を辞し[インド](../Page/インド.md "wikilink")に移住した。[スエズ動乱](https://ja.wikipedia.org/wiki/スエズ動乱 "wikilink")への抗議と称していたが、実際は第一次大戦中に滞在して以来インドにあこがれを抱き、またインドの統計学者[P.C.マハラノビス](https://ja.wikipedia.org/wiki/P.C.マハラノビス "wikilink")に招かれてもいたからである。[インド統計大学](https://ja.wikipedia.org/wiki/インド統計大学 "wikilink")（[カルカッタ](../Page/コルカタ.md "wikilink")）、ついで[オリッサ州](https://ja.wikipedia.org/wiki/オリッサ州 "wikilink")立生物学研究所で教授を務めた。オリッサ州[ブヴァネーシュヴァル](https://ja.wikipedia.org/wiki/ブヴァネーシュヴァル "wikilink")で死去。
+
+## 脚注
+
+## 参考文献
+
+## 関連項目
+
+  - [優生学](../Page/優生学.md "wikilink")
+  - [集団遺伝学](../Page/集団遺伝学.md "wikilink")
+
+## 外部リンク
+
+[Category:イギリスの遺伝学者](https://ja.wikipedia.org/wiki/Category:イギリスの遺伝学者 "wikilink") [Category:集団遺伝学者](https://ja.wikipedia.org/wiki/Category:集団遺伝学者 "wikilink") [Category:進化生物学者](https://ja.wikipedia.org/wiki/Category:進化生物学者 "wikilink") [Category:共産主義者](https://ja.wikipedia.org/wiki/Category:共産主義者 "wikilink") [Category:無神論者](https://ja.wikipedia.org/wiki/Category:無神論者 "wikilink") [Category:トランスヒューマニスト](https://ja.wikipedia.org/wiki/Category:トランスヒューマニスト "wikilink") [Category:王立協会フェロー](https://ja.wikipedia.org/wiki/Category:王立協会フェロー "wikilink") [Category:ソビエト連邦科学アカデミー名誉会員](https://ja.wikipedia.org/wiki/Category:ソビエト連邦科学アカデミー名誉会員 "wikilink") [Category:ソビエト連邦科学アカデミー外国人会員](https://ja.wikipedia.org/wiki/Category:ソビエト連邦科学アカデミー外国人会員 "wikilink") [Category:米国科学アカデミー外国人会員](https://ja.wikipedia.org/wiki/Category:米国科学アカデミー外国人会員 "wikilink") [Category:ユニヴァーシティ・カレッジ・ロンドンの教員](https://ja.wikipedia.org/wiki/Category:ユニヴァーシティ・カレッジ・ロンドンの教員 "wikilink") [Category:インド統計大学の教員](https://ja.wikipedia.org/wiki/Category:インド統計大学の教員 "wikilink") [Category:イングランドの無神論者](https://ja.wikipedia.org/wiki/Category:イングランドの無神論者 "wikilink") [Category:オックスフォード出身の人物](https://ja.wikipedia.org/wiki/Category:オックスフォード出身の人物 "wikilink") [Category:1892年生](https://ja.wikipedia.org/wiki/Category:1892年生 "wikilink") [Category:1964年没](https://ja.wikipedia.org/wiki/Category:1964年没 "wikilink")
+
+1.  木村資生著『生物進化を考える』 岩波書店 《岩波新書（新赤版）19 》 1988年 35ページ
+2.  *[Bostrom NickのA](https://ja.wikipedia.org/wiki/w:Bostrom_Nick "wikilink") history of transhumanist thought 2005*
+3.  Thomas, Isabel (2013). Should scientists pursue cloning?. London: Raintree. p. 5. ISBN 9781406233919.

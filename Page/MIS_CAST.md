@@ -1,0 +1,58 @@
+> この記事は[MIS CAST](https://ja.wikipedia.org/wiki/MIS_CAST)から翻訳されています。
+
+
+『**MIS CAST**』（ミス・キャスト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の18作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。
+
+[1982年](../Page/1982年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")に[ポリドール](../Page/ポリドール・レコード.md "wikilink") （現[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）から[LP盤でリリースされた](../Page/レコード.md "wikilink")。
+
+その後[CD化され](../Page/コンパクトディスク.md "wikilink")、[1991年](../Page/1991年.md "wikilink")と[1996年](../Page/1996年.md "wikilink")に[東芝EMIから](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、また[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[ユニバーサルミュージックから再リリースされている](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+
+## 解説
+
+  - 演奏は[EXOTICSを中心に編曲を手がけた](../Page/エキゾティクス.md "wikilink")[白井良明が所属する](../Page/白井良明_\(音楽家\).md "wikilink")[ムーンライダーズ](../Page/ムーンライダーズ.md "wikilink")周辺のミュージシャンが多く参加している。
+  - 全曲を[井上陽水](../Page/井上陽水.md "wikilink")が手がけたことが話題となった。
+
+<!-- end list -->
+
+  - 当時、井上が語ったところによると、最初はメロディーだけ1、2曲提供してほしいとの依頼だったものを「ジュリーに提供するんだったら詞も書きたい」と井上が逆提案、「そのための曲作りを始めたら10曲程すぐ出来上がった。何が作り易かったって、自分の曲を書く時と違い『いやぁ、今日もモテてモテて』という歌詞が書けるから」という理由で曲が揃い、アルバム全曲が井上の手によるものとなった。
+
+<!-- end list -->
+
+  - 編曲はムーンライダーズの白井良明。それまでの沢田の作品には見られなかった豪奢な作品に仕上げられている。本アルバムでの白井の仕事を沢田が気に入ったことが、後年の再共演につながることになる。
+  - 楽曲「ミスキャスト」の編曲のみ、同じムーンライダーズの[岡田徹](../Page/岡田徹.md "wikilink")が手掛けている。
+
+<!-- end list -->
+
+  - 「背中まで45分」がシングルになった経緯は、「歌って気持ち良い」という理由で沢田が推したためだが、セールスは振るわず、自身のラジオ番組内で「僕が推す曲は売れない」と語っていた。（シングルヴァージョンの編曲は吉田建）
+
+<!-- end list -->
+
+  - 「背中まで45分」「チャイニーズフード」はデモ・テープ音源のままアルバム『[LION & PELICAN](https://ja.wikipedia.org/wiki/ライオンとペリカン "wikilink")』で、「A.B.C.D」はアルバム『[9.5カラット](../Page/9.5カラット.md "wikilink")』で、「ジャスト フィット」「ミスキャスト」はライブ・アルバム『[クラムチャウダー](https://ja.wikipedia.org/wiki/クラムチャウダー_\(アルバム\) "wikilink")』で、井上自身がセルフカバーしている。（初出アルバムのみ記載）
+
+## 収録曲
+
+全曲、作詞・作曲：井上陽水／編曲：白井良明（特記以外）
+
+1.  **News**
+2.  **デモンストレーションAir Line**
+3.  **背中まで45分**
+4.  **Darling**
+5.  **A.B.C.D.**
+6.  **チャイニーズフード**
+7.  **How Many "Good Bye"**
+8.  **次のデイト**
+9.  **ジャスト フィット**
+10. **ミスキャスト**
+      - 編曲：岡田徹
+
+## 参加ミュージシャン
+
+  - 沢田研二 - リードボーカル
+  - エキゾティクス
+      - 吉田建
+      - [上原裕](https://ja.wikipedia.org/wiki/上原裕 "wikilink")
+      - 柴山和彦
+      - 安田尚哉
+      - 西平彰
+
+[Category:沢田研二のアルバム](https://ja.wikipedia.org/wiki/Category:沢田研二のアルバム "wikilink") [Category:1982年のアルバム](https://ja.wikipedia.org/wiki/Category:1982年のアルバム "wikilink") [Category:ポリドール・レコードのアルバム](https://ja.wikipedia.org/wiki/Category:ポリドール・レコードのアルバム "wikilink")

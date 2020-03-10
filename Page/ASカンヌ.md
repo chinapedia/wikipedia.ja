@@ -1,0 +1,111 @@
+> この記事は[AS](https://ja.wikipedia.org/wiki/AS)から翻訳されています。
+
+
+**アソシアシヨン・スポルティーヴ・ドゥ・カンヌ**（**Association Sportive de Cannes**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[カンヌ](../Page/カンヌ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
+
+1902年、[カンヌ](../Page/カンヌ.md "wikilink")にて同名のスポーツクラブが設立。1907年にサッカー部門が発足した。
+
+1932年に創設された[フランスサッカーリーグの参加チームの一つであり](../Page/リーグ・アン.md "wikilink")、1年目のシーズンで準優勝を飾っている。また同年には、初のタイトルである[フランスカップも獲得した](https://ja.wikipedia.org/wiki/クープ・ドゥ・フランス "wikilink")。
+
+育成には定評があり、[ジネディーヌ・ジダン](../Page/ジネディーヌ・ジダン.md "wikilink")、[パトリック・ヴィエラ](https://ja.wikipedia.org/wiki/パトリック・ヴィエラ "wikilink")を始めとする多くの[フランス代表を輩出した](../Page/サッカーフランス代表.md "wikilink")。
+
+しかしながら、近年は長らく低迷し、1997-98シーズンを最後にトップリーグから遠ざかっている。2001-02シーズンに[ディビジョン・ドゥ](../Page/リーグ・ドゥ.md "wikilink")、そして2010-11シーズンには財政難により[フランス全国選手権](../Page/フランス全国選手権.md "wikilink")、と所属していたリーグを降格した。
+
+2014年7月1日、DNCG（フランスクラブ経営監査理事会）は225万ユーロまで膨れ上がったクラブの慢性的な負債を理由に7部への降格を申し渡した。2017年現在は5部リーグにあたるフランスアマチュア選手権2に所属する。
+
+## タイトル
+
+### 国内タイトル
+
+  - **[カップ](https://ja.wikipedia.org/wiki/クープ・ドゥ・フランス "wikilink"): 1回**
+      - 1932
+
+### 国際タイトル
+
+なし
+
+## 過去の成績
+
+  - 2006-2007　フランス全国選手権　12位
+  - 2007-2008　フランス全国選手権　13位
+  - 2008-2009　フランス全国選手権　4位
+  - 2009-2010　フランス全国選手権　9位
+  - 2010-2011　フランス全国選手権　5位
+  - 2011-2012　フランスアマチュア選手権　4位
+  - 2012-2013　フランスアマチュア選手権　2位
+  - 2014-2015　地中海地域リーグ・Division d'Honneur Regionale・グループA　2位　**昇格**
+  - 2015-2016　地中海地域リーグ・Division d'Honneur 2位
+  - 2016-2017　地中海地域リーグ・Division d'Honneur 1位　**昇格**
+  - 2017-2018　フランスアマチュア選手権2
+
+## 歴代監督
+
+  - ルネ・マルシグリア　2003-2004.8
+
+  - ゲラール・ベルナルデ　2004.8-2006
+
+  - Michel Dussuyer　2006-2007
+
+  - Patrice Carteron　2007
+
+  - Stéphane Paille　2007-2008
+
+  - Patrice Carteron　2008-2009
+
+  - アルベール・エモン　2009-2011
+
+  - ヴィクトル・ズヴンカ　2011
+
+## 歴代所属選手
+
+  - [ベルナール・カソーニ](https://ja.wikipedia.org/wiki/ベルナール・カソーニ "wikilink") 1978-1984
+
+  - [ルート・クロル](https://ja.wikipedia.org/wiki/ルート・クロル "wikilink")　1984-1986
+
+  - [ズラトコ・ヴヨヴィッチ](https://ja.wikipedia.org/wiki/ズラトコ・ヴヨヴィッチ "wikilink")　1988-1989
+
+  - [ジネディーヌ・ジダン](../Page/ジネディーヌ・ジダン.md "wikilink")　1988-1992
+
+  - [フランク・デュリックス](https://ja.wikipedia.org/wiki/フランク・デュリックス "wikilink")　1988-1994
+
+  - [フランソワ・オマン=ビイク](https://ja.wikipedia.org/wiki/フランソワ・オマン=ビイク "wikilink")　1990-1992
+
+  - [アリョーシャ・アサノビッチ](https://ja.wikipedia.org/wiki/アリョーシャ・アサノビッチ "wikilink")　1991-1992
+
+  - [アレン・ボクシッチ](https://ja.wikipedia.org/wiki/アレン・ボクシッチ "wikilink")　1991-1992
+
+  - [ルイス・フェルナンデス](https://ja.wikipedia.org/wiki/ルイス・フェルナンデス_\(サッカー選手\) "wikilink")　1992-1994
+
+  - [ヨアン・ミクー](https://ja.wikipedia.org/wiki/ヨアン・ミクー "wikilink")　1992-1996
+
+  - [パトリック・ヴィエラ](https://ja.wikipedia.org/wiki/パトリック・ヴィエラ "wikilink")　1993-1995
+
+  - [ダヴィド・ジェマリ](../Page/ダヴィド・ジェマリ.md "wikilink")　1994-1997
+
+  - [ジョナサン・ゼビナ](https://ja.wikipedia.org/wiki/ジョナサン・ゼビナ "wikilink")　1995-1998
+
+  - [ペテル・リュクサン](../Page/ペテル・リュクサン.md "wikilink")　1996
+
+  - [セバスティアン・フレイ](https://ja.wikipedia.org/wiki/セバスティアン・フレイ "wikilink")　1997-1998
+
+  - [ジェラルド・ファネンブルグ](https://ja.wikipedia.org/wiki/ジェラルド・ファネンブルグ "wikilink")　1997-1998
+
+  - [ジュリアン・エスキュデ](../Page/ジュリアン・エスキュデ.md "wikilink")　1998-1999
+
+  - [ボボ・バルデ](../Page/ボボ・バルデ.md "wikilink")　1998-1999
+
+  - [ランドリー・ボンヌフォワ](../Page/ランドリー・ボンヌフォワ.md "wikilink")　2000-2001
+
+  - [ガエル・クリシー](../Page/ガエル・クリシー.md "wikilink")　2002-2003
+
+  - [ジュリアン・フォベール](../Page/ジュリアン・フォベール.md "wikilink")　2002-2004
+
+  - [ヤン・コレル](https://ja.wikipedia.org/wiki/ヤン・コレル "wikilink") 2010-2011
+
+  - [エリアス・ウザムクンダ](https://ja.wikipedia.org/wiki/エリアス・ウザムクンダ "wikilink") 2010-2014
+
+## 外部リンク
+
+  - [公式サイト](http://www.ascannes.fr/)
+
+[Category:フランスのサッカークラブ](https://ja.wikipedia.org/wiki/Category:フランスのサッカークラブ "wikilink") [Category:カンヌのスポーツ](https://ja.wikipedia.org/wiki/Category:カンヌのスポーツ "wikilink")

@@ -1,0 +1,57 @@
+> この記事は[VSN](https://ja.wikipedia.org/wiki/VSN)から翻訳されています。
+
+
+**株式会社VSN**（ブイエスエヌ）は、[メカトロニクス](../Page/メカトロニクス.md "wikilink")、[エレクトロニクス](https://ja.wikipedia.org/wiki/エレクトロニクス "wikilink")、[IT](../Page/情報技術.md "wikilink")・情報システム、[バイオ](https://ja.wikipedia.org/wiki/バイオテクノロジー "wikilink")・[ケミストリー分野における労働者派遣事業](../Page/化学.md "wikilink")、開発請負、及び有料職業紹介事業を主とする東京都港区に本社を置く株式会社。
+
+## 概要
+
+  - 技術者を「正社員雇用」の形態で雇用して、顧客にサービスを提供（いわゆるアウトソーシング）する際に「派遣サービス」という業務契約形態をとっている常用雇用型派遣会社。
+  - [2012年](../Page/2012年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")からスイスに本社を置き、世界60を超える国と地域で事業展開する総合人材サービス企業の[アデコ](https://ja.wikipedia.org/wiki/アデコ "wikilink")グループ傘下となり、世界企業の一員として事業展開している。
+  - メカトロニクス、エレクトロニクス、IT・情報システム、バイオ・ケミストリー分野の技術者を擁している。
+  - IT分野の技術者が約半数を占め、都内を中心とした有力IT企業や通信事業者にも技術者を送り出している。
+  - 売上に占める割合は、情報通信サービス業界が最も多く、次いで、電気機器業界、機械業界、輸送用機器業界、サービス業界、精密機器業界となっている。
+  - 多くの新卒採用を行ってきたことから、若年層の技術者が多い。
+  - 新入社員はトレーニングセンターでの研修を経て、派遣される。
+  - 創業者は、[メイテック](https://ja.wikipedia.org/wiki/メイテック "wikilink")の創業者でもある[関口房朗](https://ja.wikipedia.org/wiki/関口房朗 "wikilink")。
+  - 派遣労働者の賃金の平均額（8時間）は 17,495円～18,355円、マージン率は 34.5%～39.7%\[1\]。
+  - *VI*(バリューチェーン・イノベーター)という[コンサルティング](https://ja.wikipedia.org/wiki/コンサルティング "wikilink")業務も行っており、2012年から[外資系](https://ja.wikipedia.org/wiki/外資系 "wikilink")グループ企業になったため、外資系*IT*コンサルタント企業も自称している。
+
+## 沿革
+
+  - [2004年](../Page/2004年.md "wikilink")2月 - 特定労働者派遣を事業目的として、東京都港区芝浦に株式会社VSNを設立（届出番号：特13-300045）。
+  - 2004年4月 - 株式会社ベンチャーセーフネットから、会社分割により特定労働者派遣事業を承継。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月 - 有料職業紹介事業を開始（許可番号：13-ユ-300400）。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月 - 一般労働者派遣事業の許可を取得（許可番号：般13-301421）。
+  - 2006年12月20日 - [ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")に上場。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月 - ジャスダック証券取引所と大阪証券取引所の合併に伴って、大阪証券取引所（JASDAQ市場）に上場。
+  - [2011年](../Page/2011年.md "wikilink")1月8日 - [マネジメント・バイアウト](https://ja.wikipedia.org/wiki/マネジメント・バイアウト "wikilink")（MBO：経営陣による買収）により上場廃止。
+  - [2012年](../Page/2012年.md "wikilink")1月3日 - 人材派遣サービス会社[アデコ](https://ja.wikipedia.org/wiki/アデコ "wikilink")が、VSN全株式の取得を発表した。
+
+## 創業当時のできごと
+
+  - 創業者の関口房朗の下では、学生約1000人をフランスワールドカップへ招待したり、闘牛やK-1などの盛大な入社式を行ったり、コリン・パウエル元米国国務長官を日本へ招聘し、大学での講演を企画するなど、様々なイベントが行われていた。
+  - 経営状況としては、[1999年](../Page/1999年.md "wikilink")8月に新入社員1300人に対して一時帰休、[2001年](../Page/2001年.md "wikilink")8月には待機社員を整理解雇、[2002年](../Page/2002年.md "wikilink")9月にはその年の新入社員の一部を解雇するなどが続いたが、事業改革が行われ、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")ジャスダックに上場した。
+
+## 上場以降の経営体制
+
+  - 創業者である関口房朗は、[2007年](../Page/2007年.md "wikilink")6月に取締役会長を退任して相談役となり、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月には全ての保有する株式を売却し相談役も退いた。
+  - 経営のスピードアップを目的に、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月に経営体制を刷新。1999年に同社へ新卒として入社した川崎健一郎が代表取締役社長になる。
+  - リーマンショック以降に営業赤字に陥った同社の中長期的な発展に向けた経営改革のため、2010年8月にMBOの実施を発表し、2011年1月に非上場化となる。
+  - [2012年](../Page/2012年.md "wikilink")1月、同社は、顧客へのより付加価値の高いサービスの提供とエンジニアの育成を実現するため、[アデコ](https://ja.wikipedia.org/wiki/アデコ "wikilink")グループの日本法人が同社の全株式を企業価値9,000万ユーロ（約91億円）で取得するという合意に至り、同グループの傘下企業となる。
+
+## 子会社
+
+  - [株式会社VSNマイスト](http://www.vsn-m.co.jp/)
+  - [株式会社VSNビジネスサポート](http://www.vsn.co.jp/company/branch/index.html)（[特例子会社](../Page/特例子会社.md "wikilink")）
+
+## グループ会社
+
+  - [アデコ株式会社](http://www.adecco.co.jp/)
+
+## 外部リンク
+
+  - [VSN](http://www.vsn.co.jp/)
+
+[Category:日本の特定労働者派遣事業者](https://ja.wikipedia.org/wiki/Category:日本の特定労働者派遣事業者 "wikilink") [Category:日本の情報・通信業](https://ja.wikipedia.org/wiki/Category:日本の情報・通信業 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink")
+
+1.  [派遣法に基づく情報提供について](http://www.vsn.co.jp/company/pdf/revision_info.pdf)

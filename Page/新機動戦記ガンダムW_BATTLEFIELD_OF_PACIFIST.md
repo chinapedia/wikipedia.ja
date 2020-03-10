@@ -1,0 +1,63 @@
+> この記事は[W BATTLEFIELD OF PACIFIST](https://ja.wikipedia.org/wiki/W_BATTLEFIELD_OF_PACIFIST)から翻訳されています。
+
+
+『**新機動戦記ガンダムW BATTLEFIELD OF PACIFIST**』（しんきどうせんきガンダムウイング バトルフィールド オブ パシフィスト）は、[講談社](../Page/講談社.md "wikilink")のゲーム雑誌「[覇王マガジン](https://ja.wikipedia.org/wiki/覇王マガジン "wikilink")1997年4月号・5月号」および幼年向け漫画雑誌「[コミックボンボン](../Page/コミックボンボン.md "wikilink")1997年夏増刊号」に掲載された漫画作品。
+
+## 概要
+
+原作脚本はTVシリーズの脚本も手掛けた[千葉克彦](../Page/千葉克彦.md "wikilink")。メカデザイナーにはTVシリーズや[OVA](../Page/OVA.md "wikilink")でもメカデザインを手掛けた[石垣純哉](https://ja.wikipedia.org/wiki/石垣純哉 "wikilink")が起用されており、作画はTVシリーズの漫画版を担当した[ときた洸一](../Page/ときた洸一.md "wikilink")。
+
+『[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")』と『[新機動戦記ガンダムW Endless Waltz](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW_Endless_Waltz "wikilink")』の中間期を扱った物語の一つで、ガンダムを廃棄するまでと、五飛が『Endless Waltz』で敵になるまでの過程が描かれている。あとがきによると、ときたは時系列的に[ラジオドラマと同時期の話になることを懸念したが](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW_BLIND_TARGET "wikilink")、「メディアの違い」ということで問題なく企画が通ったとのこと。なお、小説版『Endless Waltz』では本作とラジオドラマの両方が『Endless Waltz』までの間に起きた出来事である事が明言されている。
+
+## 物語
+
+A.C.196年。地球圏統一国家が樹立し、兵器の開発禁止と廃棄を決意したが、完全撤廃は難しく、未だ恒久平和の実現には至っていなかった。
+
+[外務次官](https://ja.wikipedia.org/wiki/外務次官 "wikilink")の[リリーナは](https://ja.wikipedia.org/wiki/リリーナ・ドーリアン "wikilink")、兵器完全撤廃へ向け、かつて兵器を開発していた工場への査察を行っていた。担当者が開発は行っていないと説明する最中、地下で爆発が起こる。そこには兵器生産ラインを破壊する[ヒイロと](https://ja.wikipedia.org/wiki/ヒイロ・ユイ "wikilink")、開発データの破棄を行う[デュオの姿があった](../Page/デュオ・マックスウェル.md "wikilink")。2人は戦いが終わった後も平和へ向け、リリーナが行えない強行的な活動を代わりに行っていたのだった。そんな彼らの間で、OZの無人MS・MDプラント「ウルカヌス」が未だに宇宙を漂っているという不穏な噂が立っていた。このウルカヌスにはまだ300機以上の[ビルゴが手付かずのまま残されており](https://ja.wikipedia.org/wiki/アフターコロニーの機動兵器#ビルゴ "wikilink")、それがどこかの武装勢力の手に渡ることでまた戦乱の火種になることが危惧される中、同じく宇宙で活動していた[トロワは](https://ja.wikipedia.org/wiki/トロワ・バートン "wikilink")、最近動き出した強硬に兵器廃絶を訴える「パーフェクト・ピース・ピープル（P<sup>3</sup>）」について調査を始めており、[カトルもウルカヌスの存在を確認するため](https://ja.wikipedia.org/wiki/カトル・ラバーバ・ウィナー "wikilink")、資源衛星の調査を行っていた。一方、[五飛は彼らと異なり](https://ja.wikipedia.org/wiki/張五飛 "wikilink")、ウルカヌスを探しているというOZの残党とコンタクトを取っていた。
+
+衛星探索を行っていたカトルは所属不明のビルゴの襲撃を受ける。連絡が途絶えたことに気づいたトロワは、万が一に備え月にガンダムを取りに行ったが、そこにも謎のビルゴが近づいていた。デュオも駆けつけ、行方不明となっていたカトルも戦闘に加わるが、彼はすでに謎の集団の手によって洗脳されており、トロワ達に攻撃を始める。
+
+戦闘を終えカトルを救出し治療を始めたその頃、P<sup>3</sup>がある映像を放送し始めた。そこにはビルゴと戦闘を行うガンダムの姿が映し出されていた。P<sup>3</sup>を率いるビクター・ゲインツはこの映像をネタに「ガンダムとそれを所持する者達は脅威である」と声高に語り始める。その時カトルが目覚め、自分を襲った犯人がP<sup>3</sup>であることを明かす。戦闘映像を流しているのも彼らによる自作自演だったのだ。
+
+五飛とOZの残党を率いるブローデン達も同じくビルゴの襲撃を受けたが、五飛の圧倒的な戦闘力によって撃破。戦闘を終えた後、隊長のブローデンは、ウルカヌスを手に入れる目的を語りはじめた。ウルカヌスを火星か木星あたりに脅威として存在させ、それを破壊するための惑星間遠征を人類に強いらせれば人類は進歩すると考えていた。最初は彼らを利用するだけだった五飛も、地球圏の平和を脅かさずに人類の進歩を促そうという彼の理念を正義ととらえ共感するようになっていった。
+
+ウルカヌスに関する情報を求め[ドロシーの下へ行ったヒイロは](https://ja.wikipedia.org/wiki/ドロシー・カタロニア "wikilink")、そこでリリーナと束の間の再会を果たす。リリーナから新しく発足する平和監視に加わってほしいとの誘いを断ったが、必要になった時には戻ってくると語り、戦闘に備えて[ウイングゼロを取りに宇宙に上がっていった](../Page/ウイングガンダムゼロ.md "wikilink")。
+
+五飛とブローデン達はついにウルカヌスへ到達。そしてMDビルゴと共に[番犬](https://ja.wikipedia.org/wiki/番犬 "wikilink")「スコーピオ」が出現。五飛が引き付ける中、ブローデンとその部下のクレメンツがウルカヌスを掌握するため衛星内へと侵入していった。駆け付けたデュオ達も参戦するが、同時にP<sup>3</sup>も登場。そしてビクターは事前に得ていたパスワードによってスコーピオの指令系統を奪うと同時に、ガンダムパイロット達に「地球圏の平和は我々が守る、降伏しろ」との宣言を始める。ブローデンは中枢へとたどり着くも、P<sup>3</sup>のスパイだったクレメンツの銃撃によって死亡、ついにP<sup>3</sup>はウルカヌスを手に入れてしまう。314体ものMDビルゴが起動し始めていたが、デュオとカトルによって辛うじて阻止された。
+
+転じて劣勢に立たされたビクターだったが、未だに「ガンダムを持つお前たちと何が違う」と自分の正当性を主張する。ヒイロは「お前のやっていることはただの支配だ、そして人々が望むなら俺達は[この力を捨てられる](https://ja.wikipedia.org/wiki/ガンダムタイプ#『新機動戦記ガンダムW』シリーズにおけるガンダム "wikilink")！　それがお前との違いだ！」と語り、同時にツインバスターライフルを発射。ビクターはカーンズに選ばれたゼクスへの嫉妬心を露わにしながらスコーピオと同時に消滅した。
+
+戦闘を終えた後、カトルはガンダムをウルカヌスと共に太陽へと廃棄しようと提案。P<sup>3</sup>の考えは力による支配でしかなかった、しかしそれは根底に武器を持つ者を信じられなかったことがあるのだと、ならば自分たちは人を信じ、そして信じるからこそガンダムを捨てるのだと。そしてこの夏、4人はガンダムを廃棄することを決意した。
+
+一方、五飛は志半ばに倒れたブローデンの思いを汲み、「俺が脅威になる」と呟きながら一人どこかへ行ってしまう…。
+
+## 登場人物
+
+  - [ヒイロ・ユイ](https://ja.wikipedia.org/wiki/ヒイロ・ユイ "wikilink")
+  - [デュオ・マックスウェル](../Page/デュオ・マックスウェル.md "wikilink")
+  - [トロワ・バートン](https://ja.wikipedia.org/wiki/トロワ・バートン "wikilink")
+  - [カトル・ラバーバ・ウィナー](https://ja.wikipedia.org/wiki/カトル・ラバーバ・ウィナー "wikilink")
+  - [張五飛](https://ja.wikipedia.org/wiki/張五飛 "wikilink")
+  - [リリーナ・ドーリアン](https://ja.wikipedia.org/wiki/リリーナ・ドーリアン "wikilink")（リリーナ・ピースクラフト）
+  - [ドロシー・カタロニア](https://ja.wikipedia.org/wiki/ドロシー・カタロニア "wikilink")
+  - [レディ・アン](https://ja.wikipedia.org/wiki/レディ・アン "wikilink")
+  - [ハワード](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#ハワード "wikilink")
+  - [サリィ・ポォ](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#サリィ・ポォ "wikilink")
+  - [ヒルデ・シュバイカー](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#ヒルデ・シュバイカー "wikilink")
+  - [ビクター・ゲインツ](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#ビクター・ゲインツ "wikilink")
+  - [ブローデン](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#ブローデン "wikilink")
+  - [クレメンツ](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#クレメンツ "wikilink")
+
+## 登場兵器
+
+本作は資源衛星ウルカヌスに眠るMD（[モビルドール](https://ja.wikipedia.org/wiki/モビルドール "wikilink")）プラントを巡る戦いを扱う関係で、TVシリーズでもメカデザイナーを手掛けた[石垣純哉](https://ja.wikipedia.org/wiki/石垣純哉 "wikilink")の手によってウルカヌスの番犬[スコーピオおよび](https://ja.wikipedia.org/wiki/アフターコロニーの機動兵器#スコーピオ "wikilink")、最新型MDである[ビルゴ<sup>3</sup>が新規に描き下ろされた](https://ja.wikipedia.org/wiki/ビルゴ#ビルゴ3（ビルゴキューブ） "wikilink")。また主役機である5機のガンダムも『Endless Waltz』のデザインが踏襲されている。
+
+  - XXXG-00W0 [ウイングガンダムゼロ](https://ja.wikipedia.org/wiki/ウイングガンダムゼロ#Endless_Waltz版 "wikilink")
+  - XXXG-01D2 [ガンダムデスサイズヘル](https://ja.wikipedia.org/wiki/ガンダムデスサイズ#Endless_Waltz版 "wikilink")
+  - XXXG-01H2 [ガンダムヘビーアームズ改](https://ja.wikipedia.org/wiki/ガンダムヘビーアームズ#Endless_Waltz版 "wikilink")
+  - XXXG-01SR2 [ガンダムサンドロック改](https://ja.wikipedia.org/wiki/ガンダムサンドロック#Endless_Waltz版 "wikilink")
+  - XXXG-01S2 [アルトロンガンダム](https://ja.wikipedia.org/wiki/シェンロンガンダム#Endless_Waltz版 "wikilink")
+  - OZ-04MD [ビルゴ<sup>3</sup>](https://ja.wikipedia.org/wiki/アフターコロニーの機動兵器#ビルゴ3（ビルゴキューブ） "wikilink")（ビルゴIII）
+  - OZ-16MSX-D [スコーピオ](https://ja.wikipedia.org/wiki/アフターコロニーの機動兵器#スコーピオ "wikilink")
+
+[Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:アフターコロニー](https://ja.wikipedia.org/wiki/Category:アフターコロニー "wikilink") [Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:コミックボンボン](https://ja.wikipedia.org/wiki/Category:コミックボンボン "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")

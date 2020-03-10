@@ -1,0 +1,32 @@
+> この記事は[ORDVAC](https://ja.wikipedia.org/wiki/ORDVAC)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Ordvac.jpg "wikilink") **ORDVAC**（、オードヴァック）は、[イリノイ大学](../Page/イリノイ大学.md "wikilink")が[アバディーン性能試験場](../Page/アバディーン性能試験場.md "wikilink")の[弾道研究所](https://ja.wikipedia.org/wiki/弾道研究所 "wikilink")のために開発した初期の[コンピュータ](../Page/コンピュータ.md "wikilink")のひとつである。[ジョン・フォン・ノイマン](../Page/ジョン・フォン・ノイマン.md "wikilink")が開発した[IASアーキテクチャに基づくもので](https://ja.wikipedia.org/wiki/IASマシン "wikilink")、このアーキテクチャが[フォン・ノイマン・アーキテクチャとして知られるようになった](../Page/ノイマン型.md "wikilink")。イリノイ大学の電子技術者たちはこのデザインを最初に実装し、 を完成させた。 は世界初の[コンパイラ](../Page/コンパイラ.md "wikilink")が開発されたコンピュータでもある。 は1951年春からアバディーン性能試験場で運用を開始した（[EDVAC](../Page/EDVAC.md "wikilink")と同じ場所である）。用途はアメリカ陸軍のための弾道計算である。
+
+## 概要
+
+当時のほかのコンピュータとは違い、 と  は互換性があり、双方のプログラムを交換して動作させることができた。後にそれをコピーした  () がオーストラリアで開発されている。イリノイ大学の J.P.ナッシュ が  とその大学内の姉妹機  を開発した。[ドナルド・ギリース](https://ja.wikipedia.org/wiki/ドナルド・ギリース "wikilink")はアバディーン性能試験場でのORDVACの動作チェックを手伝っている。 がアバディーンに移転されてからも夜間の8時間はイリノイ大学から電話回線経由で使うことができた。これは、世界で初めて定期的にリモートから使われたコンピュータと考えられる。
+
+は 2178本の[真空管](https://ja.wikipedia.org/wiki/真空管 "wikilink")で構成されている。加算にかかる時間は72マイクロ秒で、乗算は732マイクロ秒であった。その[メインメモリは](../Page/主記憶装置.md "wikilink")1024ワード（1ワードは40ビット）の容量で、[ウィリアムス管](https://ja.wikipedia.org/wiki/ウィリアムス管 "wikilink")を使用していた。また、非常に珍しい[非同期](https://ja.wikipedia.org/wiki/非同期 "wikilink")設計のマシンであり、命令実行を同期させるクロックがなかった。ある命令はその前の命令が終わったのをトリガーとして実行開始されるようになっていた。
+
+とアバディーン性能試験場での後継機 は、独特な[十六進法](../Page/十六進法.md "wikilink")の数値記法を採用していた。通常、十進の10から15に当たる記号として `A`・`B`・`C`・`D`・`E`・`F` が使われるが、`K`・`S`・`N`・`J`・`F`・`L` () というアルファベットを使っていた。これは[テレタイプ端末](../Page/テレタイプ端末.md "wikilink")の5トラックの[紙テープ](../Page/紙テープ.md "wikilink")上の文字に対応している。
+
+## 移送作業
+
+がイリノイ大学内で完成し、評価されると、分解してメリーランド州のアバディーン性能試験場に送られた。シルビアン・レイとエイブ・タウブを含む3人の職員がメリーランド州に出向き、再組み立てと動作試験を1週間でやってのけた。組み立てと試験には1カ月かかるとみられていた。組み立ての進捗状況をチェックしにやってきた陸軍士官らが「責任者は誰だ？」と訊ねると、彼らは「あそこでほうきを持っている奴だ」と、全てを終えて掃除していたエイブ・タウブを指した\[1\]。
+
+## 脚注
+
+## 関連項目
+
+  -
+  -
+  -
+  -
+## 外部リンク
+
+  - [](http://www.bitsavers.org/pdf/ordvac/) （`bitsavers.org`）
+
+[Category:コンピュータ_(歴代)](https://ja.wikipedia.org/wiki/Category:コンピュータ_\(歴代\) "wikilink") [Category:1950年代のコンピュータ](https://ja.wikipedia.org/wiki/Category:1950年代のコンピュータ "wikilink") [Category:初期のコンピュータ](https://ja.wikipedia.org/wiki/Category:初期のコンピュータ "wikilink") [Category:真空管式コンピュータ](https://ja.wikipedia.org/wiki/Category:真空管式コンピュータ "wikilink") [Category:個別のコンピュータ](https://ja.wikipedia.org/wiki/Category:個別のコンピュータ "wikilink")
+
+1.

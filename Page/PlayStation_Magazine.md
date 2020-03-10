@@ -1,0 +1,28 @@
+> この記事は[PlayStation Magazine](https://ja.wikipedia.org/wiki/PlayStation_Magazine)から翻訳されています。
+
+
+『**PlayStation Magazine**』（プレイステーションマガジン）は、[徳間書店インターメディア](../Page/徳間書店インターメディア.md "wikilink")が[1994年](../Page/1994年.md "wikilink")11月から[1999年](../Page/1999年.md "wikilink")12月まで刊行していた[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")の[PlayStation専門の](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[ゲーム雑誌](https://ja.wikipedia.org/wiki/ゲーム雑誌 "wikilink")。PlayStation専門誌としては唯一、[PlayStation 2が発売される前に休刊となったゲーム雑誌である](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+
+## 概要
+
+[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink") (SCEI) が、1994年12月にPlayStationを発売した際に同発した雑誌群の1つで、月刊で創刊され、翌年9月より月2回刊となる（後に隔週刊になる）。
+
+創刊時は、『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』と同じ右開き（縦書き）を採用していたが、後に他誌と同じ左開き（横書き）へ変更された。
+
+略称は「**プレマガ**」だが、SCEIが「プレステ」の略称使用を認めていなかった（「ステ」の部分から「捨て」が連想されるとされた）ため、誌面上では「PSマガジン」のように記載されることが多かったが、「プレステ」の略称が一般に広まるにつれ、本誌内でも「プレマガ」とも記述されるようになる。
+
+ライターによるレビューだけでなく読者投票によるソフトの採点を早くから採用していたり、ユーザーからの要望をメーカーへ伝えるコーナーがあったりと、『ファミマガ』譲りの読者の声のくみ上げを積極的に行っており、一時はPS専門5誌の中でも上位に入る部数だった。しかし、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")以降、他誌（特に『[ザ・プレイステーション](https://ja.wikipedia.org/wiki/ザ・プレイステーション "wikilink")』）が週刊・隔週ペースへと移行するようになって、新作情報の掲載に遅れを取りがちになって部数が低迷。これに伴い、発売ペースを隔週へ引き上げるとともに、後述の長スギムラの「**考えるゲームしか紹介しない**」という発言と共に[ロールプレイングゲームや](../Page/コンピュータRPG.md "wikilink")[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")の紹介・攻略を重視する路線への変更を決定する。
+
+また、PSソフトの発売日が金曜日から木曜日に変更されたのを機に発売日を木曜日に変更したが、メーカーからの情報の解禁日は従来通り金曜日のままだったため、実質的には他誌より1週遅れとなり速報性を欠く結果になってしまった。
+
+廃刊直前は形こそ隔週刊を名乗っていたが、合併号での発刊が相次ぎ、事実上はほとんど月刊誌に等しい状態だった。[2000年](../Page/2000年.md "wikilink")3月に徳間書店インターメディアが親会社・[徳間書店](../Page/徳間書店.md "wikilink")に吸収合併されるのに先駆けてゲーム雑誌部門の整理・統廃合が決定し、本誌も廃刊した。最終号となった1999年12月発売号に記事が掲載されたタイトルは、年末にもかかわらず12本のみに留まり（同時期近辺に実際に発売されたソフトはもちろんそれよりも遙かに多い）、ゲーム専門誌としてもおよそ体をなしていなかったといえる。
+
+## 長スギムラ
+
+**長スギムラ**（チョー スギムラ）とは、本誌刊行末期の約半年間、巻末に掲載されていた本誌最後の編集長、杉村知顕による日記兼コラムである。「業界の裏側が見える編集長日記」と銘打たれており、杉村によるゲーム業界に対する率直な私見が、よくも悪くも読者の注目を集めた。
+
+中でも、スクウェア（現・[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）の『[レーシングラグーン](https://ja.wikipedia.org/wiki/レーシングラグーン "wikilink")』について、「メーカー公称の"ハイスピードドライビングRPG"ではなく、単なる[レースゲーム](../Page/レースゲーム.md "wikilink")としか思えず残念で、本誌の編集方針に照らすと紹介に誌面を割けないことを申し訳無く思う」という旨の見解を示したことで、同社側の不興を買ったのは特に有名である（詳細は、[レーシングラグーン\#Play Station Magazine編集部とのトラブル](https://ja.wikipedia.org/wiki/レーシングラグーン#Play_Station_Magazine編集部とのトラブル "wikilink")」を参照）。
+
+後に両者は和解するが、この事件は同社からの『[聖剣伝説 LEGEND OF MANA](https://ja.wikipedia.org/wiki/聖剣伝説_LEGEND_OF_MANA "wikilink")』の素材提供拒否を招き、本誌の刊行にかなりのダメージを与えたとされる。
+
+[Category:徳間書店インターメディア](https://ja.wikipedia.org/wiki/Category:徳間書店インターメディア "wikilink") [Category:PlayStation専門誌](https://ja.wikipedia.org/wiki/Category:PlayStation専門誌 "wikilink") [Category:コンピュータゲーム雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:コンピュータゲーム雑誌_\(休廃刊\) "wikilink") [Category:1994年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1994年創刊の雑誌 "wikilink") [Category:1999年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:1999年休廃刊の雑誌 "wikilink")

@@ -1,0 +1,63 @@
+> この記事は[:Shinjukucity-townmap1.png](https://ja.wikipedia.org/wiki/:Shinjukucity-townmap1.png)から翻訳されています。
+
+
+  - 東京都[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")・住居表示実施前後の町名町域対照地図
+      - 住居表示実施により消滅した町名町域情報を掲載
+      - 住居表示実施・未実施の範囲を掲載
+      - 現在の町名町域情報を掲載
+  - 住居表示実施年月日
+      - [1965年](../Page/1965年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")：中井 一〜二丁目
+      - [1965年](../Page/1965年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")：中落合 一～四丁目
+      - [1965年](../Page/1965年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")：西落合 一〜四丁目
+      - [1966年](../Page/1966年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")：上落合 一〜三丁目
+      - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")：西新宿一〜六丁目
+      - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")：北新宿 一〜四丁目
+      - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")：西新宿七・八丁目
+      - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")：百人町 一〜三丁目
+      - [1972年](../Page/1972年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")：下落合一～四丁目
+      - [1973年](../Page/1973年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")：新宿 一〜四丁目
+      - [1975年](../Page/1975年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")：高田馬場 一〜四丁目
+      - [1975年](../Page/1975年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")：西早稲田一〜三丁目
+      - [1975年](../Page/1975年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")：百人町 四丁目
+      - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")：歌舞伎町一〜二丁目
+      - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")：大久保 一〜三丁目
+      - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")：新宿 五〜七丁目
+      - [1981年](../Page/1981年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")：戸山 一〜三丁目
+      - [1982年](../Page/1982年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")：新小川町
+      - [1982年](../Page/1982年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")：東五軒町
+      - [1982年](../Page/1982年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")：若松町
+      - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[8月1日](../Page/8月1日.md "wikilink")：富久町
+      - [1984年](../Page/1984年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")：市谷加賀町一〜二丁目
+      - [1984年](../Page/1984年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")：市谷本村町
+      - [1984年](../Page/1984年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")：市谷仲之町
+      - [1984年](../Page/1984年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")：河田町
+      - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月4日](../Page/11月4日.md "wikilink")：住吉町
+      - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月4日](../Page/11月4日.md "wikilink")：余丁町
+      - [1988年](../Page/1988年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")：揚場町
+      - [1988年](../Page/1988年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")：神楽河岸
+      - [1988年](../Page/1988年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")：下宮比町
+      - [1988年](../Page/1988年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")：白銀町
+      - [1988年](../Page/1988年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")：津久戸町
+      - [1988年](../Page/1988年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")：筑土八幡町
+      - [1989年](../Page/1989年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")：赤城元町
+      - [1989年](../Page/1989年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")：水道町
+      - [1989年](../Page/1989年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")：西五軒町
+      - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")：市谷甲良町
+      - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")：市谷山伏町
+      - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")：北山伏町
+      - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")：細工町
+      - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")：二十騎町
+      - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")：南山伏町
+      - [2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")：市谷台町
+      - [2003年](../Page/2003年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")：霞ヶ丘町
+      - [2009年](../Page/2009年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")：片町
+      - [2015年](../Page/2015年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")：四谷坂町
+      - [2017年](../Page/2017年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")：四谷本塩町
+      - [2018年](../Page/2018年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink")：四谷三栄町
+  - 2006年4月29日作成
+  - 2006年4月30日修正（西早稲田二丁目・西早稲田三丁目の記載を忘れていたため追加）
+  - 2006年4月30日修正（旧下落合四丁目の文字を訂正、凡例の表現を変更）
+  - 2006年5月15日修正（改代町の飛地を追加）
+  - 画像作成者は提供者と同じです
+
+## Now commons

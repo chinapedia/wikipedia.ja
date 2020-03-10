@@ -1,0 +1,518 @@
+> この記事は[Gift ](https://ja.wikipedia.org/wiki/Gift_)から翻訳されています。
+
+
+『**Gift 〜ギフト〜**』（ギフト）は、[MOONSTONE](https://ja.wikipedia.org/wiki/MOONSTONE "wikilink")が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")5月27日に発売した、[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲームである](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。MOONSTONEの制作したものとしては4作目にあたる。
+
+## 特徴
+
+本作品はMOONSTONEにとって大きな転換を示す作品となった。シナリオ面においては1作目が「本格サスペンスノベル」、2作目が「陵辱アドベンチャー」、3作目が「Serious Lyrical Fantasy アドベンチャー」と、鬱展開をメインとしたゲームが多かったが、本作では「幸せ」・「努力」といったシリアスな要素はあるものの、全体的には学園生活を舞台に主人公とヒロイン達との出会いから恋愛の行方を楽しむ、明るく平穏な内容となっている。
+
+グラフィック面では、今回メインの[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")・[原画](../Page/原画.md "wikilink")にはゲームの仕事は初という、[イラストレーター](../Page/イラストレーター.md "wikilink")・同人作家の[Mitha](https://ja.wikipedia.org/wiki/Mitha "wikilink")を起用。また、今までの作品と比べ、瞳の大きい可愛らしさを強調したいわゆる[萌え絵](../Page/萌え絵.md "wikilink")と呼ばれるキャラクターになった。
+
+ヒロインの人数については、企画段階で7人を希望したプロデューサー恋純ほたるに対し、企画の呉が開発期間の都合上無理ということで5人になったという。
+
+これらの転換は一定の成功を収め、[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")化・[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化・ファンディスク化と[メディアミックス](../Page/メディアミックス.md "wikilink")展開も行われた。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月には[アニメ](../Page/アニメ.md "wikilink")化の発表もされ、MOONSTONEの代表作の1つになった。
+
+[CIRCUSの](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[tororo](https://ja.wikipedia.org/wiki/tororo "wikilink")がプロデュース協力している。
+
+次回作『[Clear -クリア-](https://ja.wikipedia.org/wiki/Clear_-クリア- "wikilink")』には今作のネタが多く使われている。
+
+## Gift -prism-
+
+PC版『Gift 〜ギフト〜』の[PlayStation 2移植版で](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、2006年10月19日に[ブロッコリーのゲームブランドSweetsから発売された](../Page/ブロッコリー_\(企業\).md "wikilink")。PC版ではMOONSTONEの単独著作権だったものが、このPS2移植版ではMOONSTONE・CIRCUS・ブロッコリーの3社表記になっている。
+
+PC版ではヒロインの人数は5人だったが、このPS2版では3人追加され8人になった。また、サブキャラクターも何人か追加された。
+
+移植の際、担当声優を全員替えたことに関してMOONSTONE側は、2006年5月4日のDreamParty東京で「[大人の事情](https://ja.wikipedia.org/wiki/大人の事情 "wikilink")で、一人でも表の仕事で起用できない声優がいると全員替えざるを得なかった」と説明している。
+
+2012年2月2日には[サイバーフロント](https://ja.wikipedia.org/wiki/サイバーフロント "wikilink")から[PlayStation Portable版が発売された](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。内容はPS2版と同じである。
+
+## ストーリー
+
+小さな海岸沿いの観光地楢崎町。この街では2つの超常現象が起こっている。1つは1年中消えることなく架かっている「虹」。そしてもう一つは、この街に生まれ住む人が誰かにたった一度だけ願いを叶える贈り物を贈れる「Gift」という不思議な魔法。主人公は楢崎町に住む志摩野学園の2年生。そんな主人公にかつて一緒に暮らしていたが、ある事情で別れなければならなかった義妹の莉子が戻ってくる事になった。再会した義妹、いつも一緒の幼馴染、そして新しい出会い。動き始めたヒロイン達の物語に主人公はたった一つの「Gift」を探していく。
+
+## 登場キャラクター
+
+※[声の担当は](../Page/声優.md "wikilink")「PC版・ドラマCD版 / PS2版・アニメ版」の順。
+
+※モブキャラクターは立ち絵が存在しない。一部は『Gift -prism-』では追加作画されている。
+
+### 主要キャラクター
+
+  - 天海 春彦（あまみ はるひこ）
+    声：[川村拓央](https://ja.wikipedia.org/wiki/かわむら拓央 "wikilink") / [泰勇気](https://ja.wikipedia.org/wiki/泰勇気 "wikilink")
+    本作品の主人公。志摩野学園の2年生。母親は自分の出産と引き換えに亡くなり、以後父子家庭で育つ。家庭環境ゆえか、時折物事を斜めに見たり、変な発言をする事は多い。しかし根は優しく、ヒロインのために一生懸命になれる好青年。[未熟児](https://ja.wikipedia.org/wiki/未熟児 "wikilink")で生まれた為か、[メイク次第では超美少女に見える位華奢な体躯の持ち主](../Page/化粧.md "wikilink")。基本的に志摩野学園の生徒は何かしらの部に入らなければならないため、一応、科学部に所属しているが、あまり部活動に熱心ではなく、幽霊部員と化している。返事の喋り方に関西弁を使うことが多い。主食は野菜で肉や魚はあまり食べない。朝食はパンを食べている。姓は変更不可、名は変更可能。
+  - 深峰 莉子（ふかみね りこ）
+    声：[さくらりの](https://ja.wikipedia.org/wiki/さくらりの "wikilink") / [清水愛](../Page/清水愛.md "wikilink")
+    誕生日：[1989年](../Page/1989年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")、星座：[ふたご座](../Page/ふたご座.md "wikilink")、身長：159 [cm](../Page/センチメートル.md "wikilink")、スリーサイズ：83 (C) /56/83、年齢：16歳
+    本作品のメインヒロインで志摩野学園の2年生。楢崎町出身。主人公と同い年の母方の[いとこ](https://ja.wikipedia.org/wiki/いとこ "wikilink")だが、幼いころに両親は亡くしたため親戚中をたらい回しにされ、一時主人公の家に引き取られた。その時主人公の[義妹](https://ja.wikipedia.org/wiki/義妹 "wikilink")になり、以後主人公を「お兄ちゃん」と呼ぶようになる。その後壮一の都合で別れる事になるが、本作の開始直後に楢崎町に戻ってくる。幼少時の境遇のせいか、他人に媚びてしまう傾向がある。主人公に密かに好意を寄せているが、それを悟られないよう主人公にだけは強気、主人公のボケにしばしばツッコミを入れる。そのときの制裁は主に[チョップ](https://ja.wikipedia.org/wiki/チョップ "wikilink")。また主人公に対してのみ、「うるさいなぁ」が口癖。主人公と同じく科学部だが、森研でバイトをしているため、共に幽霊部員となっている。趣味は読書で主に漫画。ベタな恋愛漫画や映画などを好んでいる。主人公の家での家事などを担当している。
+  - 木之坂 霧乃（このさか きりの）
+    声：[榊原ゆい](https://ja.wikipedia.org/wiki/榊原ゆい "wikilink") / [宮崎羽衣](https://ja.wikipedia.org/wiki/宮崎羽衣 "wikilink")
+    誕生日：[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月15日](../Page/10月15日.md "wikilink")、星座：[てんびん座](../Page/てんびん座.md "wikilink")、身長：155 cm、スリーサイズ：78 (B) /53/80、年齢：15歳
+    主人公の1つ年下の[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")で志摩野学園の1年生。柔らかい頬が特徴の美少女。親は「木之坂旅館」という地元では老舗の旅館を営んでいる。自宅が主人公の家の隣で主人公の妹のように過ごすが、次第に恋心に変わる。しかし主人公に莉子という妹ができ、莉子も主人公に好意を寄せている事に気付き、三角関係になる。莉子がいなくなってからは朝の目覚ましや朝食作りなど主人公に尽くすが、莉子が戻ってくる事になり再び微妙な立場に立たされることになる。性格は大人しく引っ込み思案、主人公のウソ・冗談にすぐ騙される。主人公以外の男性は苦手だが、マキとは割とすぐに打ち解けた。ピアノが趣味で、学園では音楽部に所属。また、音楽部とは別にピアノ教室にも通っている。千紗とは親友で、千紗からは「霧乃ん」と呼ばれている。
+  - 外薗 綸花（ほかぞの りんか）
+    声：[三咲里奈](../Page/三咲里奈.md "wikilink") / [河原木志穂](https://ja.wikipedia.org/wiki/河原木志穂 "wikilink")
+    誕生日：[1991年](../Page/1991年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")、星座：[うお座](../Page/うお座.md "wikilink")、身長：160 cm、スリーサイズ：80 (B) /55/81、年齢：15歳
+    暴漢に襲われていた女の子を助けた所で出会った少女。志摩野学園の1年生。「謎の化け物と戦っている」と称し、[日本刀](../Page/日本刀.md "wikilink")（真剣）を片手に夜な夜な街を徘徊しているという噂があり、その時がきっかけで知り合う事になる。先祖は[寛永](../Page/寛永.md "wikilink")期に「凰爪流（おうそうりゅう）」と呼ばれる流派を興した[剣術](../Page/剣術.md "wikilink")家で、[藩](https://ja.wikipedia.org/wiki/藩 "wikilink")の剣術指南役を勤めた名家。楢崎町でも山の手地区と呼ばれる高級住宅街に屋敷を構える。姉がいたが亡くなっており、父親は剣術では食べていけないと[剣道](../Page/剣道.md "wikilink")場経営に転向した為、凰爪流の後継者になる。剣の修行に明け暮れていたためか礼儀正しい反面、口数は少なく堅物で愛想のない性格。部活は剣道部に所属し真面目に練習しているが、周りからは避けられている。千紗とは幼馴染で隣近所。少女漫画を愛読している。
+  - 藤宮 千紗（ふじみや ちさ）
+    声：[木村あやか](https://ja.wikipedia.org/wiki/木村あやか "wikilink") / [新谷良子](../Page/新谷良子.md "wikilink")
+    誕生日：1990年[5月30日](../Page/5月30日.md "wikilink")、星座：[ふたご座](../Page/ふたご座.md "wikilink")、身長：153 cm、スリーサイズ：76 (A) /52/79、年齢：15歳
+    霧乃の友達で志摩野学園の1年生。愛称は「千紗ぽん」。父親は「藤宮商事」という会社を経営する地元の名士。いわゆる「お嬢様」として育つが、そう思われ距離を置かれることを嫌い明るく気さくに振る舞う。その甲斐あってか引っ込み思案の霧乃とすぐに親友になれ、気難しい幼馴染の綸花とも仲が良い。主人公の冗談・ボケにも対応できるノリのよさもある。身寄りの無い神代縁を居候させている。動物が好きで小鳥のジンタを肩に乗せている。また、ペットショップ「バウワンコ」でアルバイトをしており、放課後になったら急いでバイト先に向かっている。なお、彼女は「魔女っ子」という噂がある。
+  - 神代 縁（かみしろ ゆかり）
+    声：[野神奈々](https://ja.wikipedia.org/wiki/野神奈々 "wikilink") / [小清水亜美](https://ja.wikipedia.org/wiki/小清水亜美 "wikilink")
+    誕生日：1989年[1月24日](../Page/1月24日.md "wikilink")、星座：[みずがめ座](../Page/みずがめ座.md "wikilink")、身長：162 cm、スリーサイズ：86 (D) /57/84、年齢：17歳
+    千紗の家に居候しているメイド（[着物](https://ja.wikipedia.org/wiki/着物 "wikilink")に[割烹着](../Page/割烹着.md "wikilink")姿で「家政婦」という呼び方の方が合うが）。志摩野学園の3年生。愛称は「ゆかりん」。[記憶喪失](https://ja.wikipedia.org/wiki/記憶喪失 "wikilink")で自分の名前以外は覚えていない。千紗の家に居候しており、ただでお世話になるのは申し訳ないという理由から[メイド](../Page/メイド.md "wikilink")をしている。のんびり屋でマイペース、主人公の軽口も彼女の前では立て板に水となってしまう。しかし、記憶が無い〜過去の絆が無い〜ということから、今の人間関係を大切にする思いやりある性格。他人の応援・手伝いが好きで、学園や商店街の人気者。どこか神秘的な雰囲気があり、動物からも妙に好かれる。また、動物とも会話している場面があり、大体の内容は理解できるらしい。雰囲気は主人公の母親に似ているようだが、関係の有無については不明である。
+
+### 『Gift -prism-』追加ヒロイン
+
+  - 浅川 瀬奈（あさかわ せな）
+    声：[榎本温子](https://ja.wikipedia.org/wiki/榎本温子 "wikilink")
+    誕生日：1989年[8月9日](../Page/8月9日.md "wikilink")、星座：[しし座](../Page/しし座.md "wikilink")、身長：164 cm、スリーサイズ：82 (C) /56/86、年齢：16歳
+    志摩野学園の生徒会長であり2年生。前の生徒会長から推薦を受け生徒会長になったものの、仕事についていけていない。生徒会長ならびに水泳部部長を務めているが、生徒会との仕事が両立できないため夜中にこっそり水泳の特訓をしている。容姿端麗、頭脳明晰、スポーツ万能、それでいて明るく気さくな人柄から男女問わず人気がある学園のアイドル的存在。本人としてはアイドルとしてあまり称えられて欲しくないらしい。好きな動物は[ペンギン](https://ja.wikipedia.org/wiki/ペンギン "wikilink")で、ぬいぐるみにも名前を付けたりペンギンについて熱弁している。好物はアップルパイで、色々な店でアップルパイを買っている。告白した男性から「Gift」を集めているという噂が流れているが、本人は一度も男性と付き合っていない。また、努力しなくても簡単に手に入れることができることから「Gift」のことを快く思っていない。必要以上に語尾に「だよ」や「もん」をつけ、へこんでいる時は「うゆー」と言う癖がある。
+    追加ヒロインの中ではメイン格のようで『Gift -Prism-』公式HPのTOPのイラストに莉子、霧乃と共に描かれている。
+    好きな食べ物は[アップルパイ](https://ja.wikipedia.org/wiki/アップルパイ "wikilink")。
+  - 姫倉 寧々（ひめくら ねね）
+    声：[松井菜桜子](https://ja.wikipedia.org/wiki/松井菜桜子 "wikilink")
+    誕生日：[1988年](../Page/1988年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")、星座：[おとめ座](../Page/おとめ座.md "wikilink")、身長：158 cm、スリーサイズ：85 (D) /57/84、年齢：17歳
+    千紗の家以上の大富豪のお嬢様。志摩野学園の3年生。1年や2年の男子からは人気がある反面、[同級生](../Page/同級生.md "wikilink")は本性が高飛車な性格を快く思っていない者も多く嫌われている。そのため、友人と呼べる人間はいない。父親はIT産業で成功した人間で母親はセレブとして有名な人間。生粋のお嬢様なため、かなりの世間知らず。現金を持ち歩いておらず、ほとんどの会計をカードで済まそうとする。告白してきた男子にはある条件を提示している。「弁護士を呼んで頂戴」が口癖。
+  - 秋原 未遊（あきはら みゆ）
+    声：[井口裕香](https://ja.wikipedia.org/wiki/井口裕香 "wikilink")
+    誕生日：1989年[7月15日](../Page/7月15日.md "wikilink")、星座：[かに座](../Page/かに座.md "wikilink")、身長：155 cm、スリーサイズ：81 (B) /52/80、年齢：16歳
+    普段から本を持ち歩いている物静かな少女。志摩野学園の2年生。飼い犬のコリー犬、三太を主人公に助けてもらった事をきっかけに物陰から主人公のことを窺うようになる。両親は共に他界しており、母親が有名な作家だったためその印税で生活している。母親の小説は主に恋愛系。部活は絵本部。読書好きで図書委員を務めており、自ら小説も執筆している。また、ホームページを立ち上げて自分の小説を載せている。
+    アニメでも登場するが、結局最後まで一言も喋らなかった。
+
+### サブキャラクター
+
+  - 江戸 真紀（えど まさき）
+    声：[新波俊也](https://ja.wikipedia.org/wiki/新波俊也 "wikilink") / [荻原秀樹](../Page/荻原秀樹.md "wikilink") / [波多野和俊](../Page/波多野和俊.md "wikilink")
+    主人公の悪友。本名の漢字がそう読めるためか周りからはほとんど「マキ」と呼ばれる。大の科学好きでしばしば変な発明品を披露したり、世界第4位の軍事力を持っていると自称したりと怪しげなところがある。主人公同様科学部に所属しているが、自分の科学力では科学部なんかに付き合えないという理由で幽霊部員となっている。性格は負けず嫌いの仕切り屋、かつ企画屋。主人公の軽口・屁理屈をあっさり受け流せる数少ない人物の一人だが一方、主人公の冗談を真に受けることも比較的多い。とんでもない情報網があるほか、カメラマンやメイク師といった様々な広い人脈がある。
+  - 天海 壮一（あまみ そういち）
+    声：[滑川菊太郎](https://ja.wikipedia.org/wiki/滑川菊太郎 "wikilink") / [相沢正輝](../Page/相沢まさき.md "wikilink")
+    主人公の実父。この手のゲームでは珍しく主人公と同居している。主人公誕生と入れ替わりに妻（主人公の母親）を亡くし、男手一つで主人公を育てる。朴訥で真面目な性格、親を亡くした莉子を受け入れるなど優しさも併せ持つ。しかしその性格が災いし、主人公が小学生の時に知人の借金の[保証人](../Page/保証人.md "wikilink")になり、多額の借金を背負い込むことになる。それが原因で莉子は別の親戚に引き取られることになり、主人公の恨みを買う。その後驚異的な努力により借金を完済、現在は小さいながらも会社を経営している。経済力が回復したことから莉子を呼び戻すことを決断、ある意味主人公と莉子の人生を変えた人物といえる。朝早くに会社に出勤し夜遅くに帰る生活を送り、休みの日は1日中寝ているので特別な日以外は主人公と話すことは少なくなっている。しかし春彦とは一文だけで内容を互いに理解できるほど現在の仲は良好である。
+  - 天海 晴（あまみ はる）
+    声：[澤下えりこ](https://ja.wikipedia.org/wiki/澤下えりこ "wikilink") / [氷青](https://ja.wikipedia.org/wiki/氷青 "wikilink")
+    主人公の母親。主人公の誕生と引き換えになくなったといわれており、主人公にとって母親とは1枚の写真と、父親とたまみが話してくれる思い出話が全てであり、追いかけても届かない存在となっている。思い出話からは元々体が丈夫でなかったこと、虹が好きであったこと、動物に好かれていたことが分かっている。本作品の鍵を握る人物。血縁上、莉子は彼女に似てきているらしい。
+  - 近衛 たまみ（このえ たまみ）
+    声：[杜名栞](https://ja.wikipedia.org/wiki/杜名栞 "wikilink") / [結本ミチル](https://ja.wikipedia.org/wiki/結下みちる "wikilink")
+    主人公の年の離れた幼馴染。主人公の家の近所に住んでおり、家族ぐるみの付き合いがあることから主人公の母親代わり兼姉代わりをしていた。愛称は「たま姉（たまねえ）」。東京の大学で[修士号](https://ja.wikipedia.org/wiki/修士号 "wikilink")を取得した才媛で、現在は楢崎町の2つの超常現象を研究している森園研究所（通称「森研」）の研究員をしている。主人公を溺愛しているが、主人公には敬遠されている。縁以上にスタイルがよく、主人公はよく抱きつかれ窒息している。
+  - ジンタ
+    声：[本山美奈](../Page/本山美奈.md "wikilink") / 氷青
+    千紗が飼っている小鳥。オス。外観は[カラス](../Page/カラス.md "wikilink")のようだが詳しい品種は不明（飼い主の千紗によれば[オウムの一種](https://ja.wikipedia.org/wiki/インコ目 "wikilink")）。人語を理解でき、「ピキー」という鳴き声である程度の感情表現ができる。普段は千紗の左肩に止まっている。主人公からは不思議生物として扱われているが、他に人間からは可愛い小鳥として扱われその事で議論になる事もある。千紗シナリオではキーキャラ。
+  - 里緒 奈美（さとお なみ）
+    声：[安玖深音](https://ja.wikipedia.org/wiki/安玖深音 "wikilink") / [岩居由希子](https://ja.wikipedia.org/wiki/岩居由希子 "wikilink")
+    暴漢に襲われているところに綸花に助けられた女の子。志摩野学園の2年生。助けられた事をきっかけに綸花に惚れてしまい、綸花のおっかけをしている。一つの事にまっすぐであるものの、主人公などどうでもいい人間のことはすぐに忘れてしまう。料理は壊滅的に下手だが、これは腕の問題ではなく彼女の味覚に問題がある。
+    ゲーム開発当初は1年生の設定で、メーカーHPの紹介欄と実際のゲームでは制服のリボンの色が異なる。
+  - 藤宮夫人（ふじみやふじん）
+    声：本山美奈 / [百々麻子](https://ja.wikipedia.org/wiki/百々麻子 "wikilink")
+    千紗の母親。いつも和服を着ているおっとりとした女性。とある生き方が千紗に疑問を抱かせ、千紗の人生に大きな影響を与えた。名前は付けられていない。
+  - 野々村 美凪（ののむら みなぎ）
+    声：本山美奈 / [ひと美](../Page/ひと美.md "wikilink")
+    町にある病院に入院している小学生の少女。昼にだけ発作を伴う頭痛がする病気だが、原因は不明。その為クラスメイトは離れ、母親の機嫌が悪くなる。その影響で人間不信に陥る。そんな折、夜にパジャマ姿で街中を出歩いている所で主人公と縁に出会う。子供扱いされる事を嫌うおマセさんで、勘が鋭い。また、実行力もある。
+  - 馬沢（うまざわ）
+    声：[菱勝](https://ja.wikipedia.org/wiki/菱勝 "wikilink") / [山口勝平](../Page/山口勝平.md "wikilink")
+    誕生日：1990年[8月5日](../Page/8月5日.md "wikilink")、星座：[しし座](../Page/しし座.md "wikilink")、身長：165 cm、体重：43、年齢：17歳、血液型：AB、視力：0.3〜4（両目裸眼）
+    霧乃に何度も告白して振られるが諦めきれない少年。志摩野学園の1年生。クラスはA。父親は千紗の親が経営する「藤宮商事」の重役（取締役部長）で母親の方は株でかなり儲けているらしい。性格はいささかわがままで妄想癖がある。ストーカーまがいな行動をとっており、初めは主人公の事を激しく憎んでいる。その後は主人公の事を兄貴、霧乃を姉御と呼び慕うようになる。下の名前が設定されていない端役だったが、『Giftにじいろストーリーズ』にも登場して主人公のグループの一員となっている。好きな食べ物は寿司。真紀曰く性格は「狼の皮をかぶった羊」らしく、理由は「僕の中には誰かが居て、いつも、暴れてやれってささやいているんだぞ」という口上かららしい。
+  - 外薗 椿（ほかぞの つばき）
+    声：澤下えりこ / [百々麻子](https://ja.wikipedia.org/wiki/百々麻子 "wikilink")
+    綸花の姉。綸花以上の剣の達人で、綸花の目標であったが主人公と同い年の頃に死亡している。綸花の生き方に大きな影響を与えた人物である。だが、ある心残りから成仏できずに幽霊として彷徨っている。性格は軽いノリだが、綸花のことを大切に思っており、彼女を悲しませることをしたら許さないと言っている。
+  - 美凪の母
+    声：[杜名栞](https://ja.wikipedia.org/wiki/杜名栞 "wikilink") / 百々麻子
+    美凪の原因不明の頭痛が原因でヒステリーに陥っている。
+  - 八木看護婦（やぎかんごし）
+    声：[安玖深音](https://ja.wikipedia.org/wiki/安玖深音 "wikilink") / [皆口裕子](../Page/皆口裕子.md "wikilink")
+    美凪が入院している病院に勤務している看護師。美凪のことをとても気にかけている優しい人物だが、やや口が軽い。
+  - 湊 （みなと）
+    声：[若月Riko](https://ja.wikipedia.org/wiki/若月Riko "wikilink") / [野中藍](../Page/野中藍.md "wikilink")
+    文芸部に所属する女子生徒。縁に、同じ部活の男子生徒との恋の相談を持ちかける。
+  - 畑中部長（はたなかぶちょう）
+    声：[本山美奈](../Page/本山美奈.md "wikilink") / [ひと美](../Page/ひと美.md "wikilink")
+    音楽部の部長。以前は荒れていたとの評判があるが、現在はそれを微塵も感じさせず部をまとめている。音楽部は、前年度の部長がフリージャズを強要したことで衰退しており、部員が少ないことを悩んでいる。
+  - 千紗の父
+    声：[新波俊也](https://ja.wikipedia.org/wiki/新波俊也 "wikilink") / [山崎たくみ](https://ja.wikipedia.org/wiki/山崎たくみ "wikilink")
+  - 湊の彼氏
+    声：新波俊也 / 山崎たくみ
+  - 矢島 いぶき（やじま いぶき）
+    声： [田中涼子](../Page/田中涼子_\(声優\).md "wikilink")
+    『Gift -Prism-』追加キャラ。生徒会副会長を務めている志摩野学園の2年生。眼鏡っ娘であり[ツンデレ](https://ja.wikipedia.org/wiki/ツンデレ "wikilink")系。美術部所属。瀬奈が生徒会を扱う事ができないため、事実上彼女が生徒会を動かしている。成績も優秀だが彼女の努力の賜物であり、夜に予備校も通っている。瀬奈の悪い噂や努力していない才能があるという勘違いから瀬奈の事を嫌っている。
+  - 松浦（まつうら）
+    声： [相沢正輝](../Page/相沢まさき.md "wikilink")
+    『Gift -Prism-』追加キャラ。寧々に仕えている執事。寧々の運転手を務めている。また、主人よりも寧々の意見を優先している。
+
+### モブキャラクター
+
+  - 葛西（かさい）
+    声：[菱勝](https://ja.wikipedia.org/wiki/菱勝 "wikilink")（[岡野浩介](https://ja.wikipedia.org/wiki/岡野浩介 "wikilink")） / [山崎たくみ](https://ja.wikipedia.org/wiki/山崎たくみ "wikilink")
+    主人公のクラスの担任教師。「13歳以上の女性には興味がない」というアブナイ発言をするため「ローリー」という名で呼ばれている。放任主義かつ事なかれ主義な性格なため、自分のクラスで問題があっても、自分自身のクラスに問題を起こしたくないため普通に流してしまう。
+    アニメ版では立ち絵が存在し、やっぱり危険なキャラで修学旅行先である[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")のお勧めスポットは、「[恋愛](../Page/恋愛.md "wikilink")成就で有名な[寺の隣にある](../Page/寺院.md "wikilink")[幼稚園](../Page/幼稚園.md "wikilink")」と劇中及び予告で言い放っている。その幼稚園の園児（女児）を[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")で撮影するのだが、その幼稚園の女園児に彼女達を撮ったデジタルカメラを悪戯で投げ捨てられ、散々な目に遭う。
+  - オオマサ主人
+    声：菱勝 / [相沢正輝](../Page/相沢まさき.md "wikilink")
+  - オオマサ妻
+    声：安玖深音 / 百々麻子
+  - 東京ローズ（とうきょうローズ）
+    声：[滑川菊太郎](https://ja.wikipedia.org/wiki/滑川菊太郎 "wikilink") / 山崎たくみ
+    マキの知り合いのメイクの達人。[ヤクザ](../Page/ヤクザ.md "wikilink")もビビるいかつい風貌とは裏腹に性格は[オカマ](https://ja.wikipedia.org/wiki/オカマ "wikilink")がかかっている。主人公が女装する才能があると考え、自分の店にスカウトしようとする場面もある。
+  - 健さん（けんさん）
+    声：滑川菊太郎 / 山崎たくみ
+    馬沢の専属運転手。自分の生活のため馬沢のイエスマンであるが、心の中で本音を言っている場面が多い。ある事件をきっかけに専属運転手をクビになるかわりに家庭教師となり、馬沢に男の道を叩き込む師匠になる。元極道であることを匂わせる台詞も目立つ。
+    『Gift -Prism-』では立ち絵が存在する。
+  - 運転手さん
+    声：滑川菊太郎 / 山崎たくみ
+  - 赤羽（あかばね）
+    声：滑川菊太郎 / 山崎たくみ
+    上がり症と外見の恐ろしさが祟って恋人ができないことを非常に悩んでいる。
+    好きな食べ物は[色々](https://ja.wikipedia.org/wiki/食べ物 "wikilink")。苦手な食べ物は特になし。好きな色は[えんじ色](https://ja.wikipedia.org/wiki/えんじ色 "wikilink")。
+  - 放送部重里（ほうそうぶしげさと）
+    声：滑川菊太郎 / 山崎たくみ
+    誕生日：[12月29日](../Page/12月29日.md "wikilink")、星座：[やぎ座](../Page/やぎ座.md "wikilink")、血液型：A型、身長：189 cm
+    スピーチの技術はとても優れているが、音楽室のピアノに盗聴器を仕掛けて霧乃の演奏を無断で録音するなど、オーバーな行動を取ることもある。
+  - 亀（かめ）
+    声：[菱勝](https://ja.wikipedia.org/wiki/菱勝 "wikilink") / [藤原啓治](../Page/藤原啓治.md "wikilink")
+    マキの知り合いのプロの写真家。
+  - 蔵上（くらがみ）
+    声：菱勝 / 山崎たくみ
+    陸上部のエースとして期待されているが、最近タイムが伸び悩んでいる。
+  - 不二子（ふじこ）
+    声：[杜名栞](https://ja.wikipedia.org/wiki/杜名栞 "wikilink") / [岩居由希子](https://ja.wikipedia.org/wiki/岩居由希子 "wikilink")
+    千紗がアルバイトしているペットショップ「バウワンコ」の店長。気さくな性格。自分の店に捨て犬があったら飼ってくれる人を探したり、行方不明となっている犬がいたら手伝ったりしている。過去に結婚した経歴があり子供の扱いに馴れている。
+    『Gift -Prism-』では立ち絵が存在する。
+  - ルイリー
+    声：杜名栞 / [氷青](https://ja.wikipedia.org/wiki/氷青 "wikilink")
+    綸花と一緒に夜の街を徘徊する女の子。[くノ一](../Page/くノ一.md "wikilink")であり、正体は綸花の家の道場に通う3人組の1人。本名は朋子。
+    こちらもアニメ版、『Gift -Prism-』では立ち絵が存在する。
+  - マリー
+    声：[澤下えりこ](https://ja.wikipedia.org/wiki/澤下えりこ "wikilink") / [市原美砂](https://ja.wikipedia.org/wiki/市原美砂 "wikilink")
+    綸花と一緒に夜の街を徘徊する女の子。[くノ一](../Page/くノ一.md "wikilink")であり、正体は綸花の家の道場に通う3人組の1人。本名は留美。
+    こちらもアニメ版、『Gift -Prism-』では立ち絵が存在する。
+  - リリィー
+    声：[若月Riko](https://ja.wikipedia.org/wiki/若月Riko "wikilink") / 同左
+    綸花と一緒に夜の街を徘徊する女の子。[くノ一](../Page/くノ一.md "wikilink")であり、正体は綸花の家の道場に通う3人組の1人。本名は春花。
+    こちらもアニメ版、『Gift -Prism-』では立ち絵が存在する。
+  - 菊池 美穂（きくち みほ）
+    声：[門脇舞](https://ja.wikipedia.org/wiki/門脇舞以 "wikilink")
+  - 坂口（さかぐち）
+    声：[小野大輔](https://ja.wikipedia.org/wiki/小野大輔 "wikilink")
+  - マイコ
+    声：[岩村琴美](../Page/岩村琴美.md "wikilink")
+    生徒会役員の一人でいぶきの取り巻き。
+  - アヤコ
+    声：[川瀬晶子](https://ja.wikipedia.org/wiki/川瀬晶子_\(声優\) "wikilink")
+    生徒会役員の一人でいぶきの取り巻き。
+
+## スタッフ
+
+### 『Gift 〜ギフト〜』スタッフ
+
+  - プロデューサー：恋純ほたる
+  - 企画・シナリオ：呉
+  - キャラクターデザイン：Mitha（メイン）、深山駒（チビキャラ等）、鷹乃みすづ（サブキャラ一部）
+  - 原画：Mitha、深山駒、米田麦、鷹乃みすづ、夕燈とび、かゆらゆか（S・O・F・T所属）
+  - プログラム：土山茂三
+  - 製作協力：[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")
+  - プロデュース協力：tororo（CIRCUS代表）
+  - オープニング曲：「たとえば、突然。」
+      - 作詞：今川杉作、くみはし佑、作曲・編曲：[小高光太郎](../Page/小高光太郎.md "wikilink")、歌：[藤谷美里](../Page/藤弥美里.md "wikilink")
+  - 挿入歌：「予報のない嵐」
+      - 作詞：谷藤律子、作曲・編曲：小高光太郎、歌：藤谷美里
+  - エンディング曲：「七色パレット」
+      - 作詞：[Duca](https://ja.wikipedia.org/wiki/Duca "wikilink")、作曲・編曲：[太田雅友](https://ja.wikipedia.org/wiki/太田雅友 "wikilink")、歌：[rino](https://ja.wikipedia.org/wiki/rino "wikilink")
+
+### 『Gift -Prism-』スタッフ
+
+  - シナリオ：呉（統括、旧キャラ追加部分、未遊）、屑美たけゆき（瀬奈、寧々）
+  - キャラクターデザイン（追加キャラ）：Mitha（未遊）、成瀬守（瀬奈）、えんどり（寧々）
+  - 原画：Mitha、深山駒、成瀬守、えんどり
+  - PS2版オープニング曲：「虹色」
+      - 作詞：くみはし佑、作曲：[前澤寛之](https://ja.wikipedia.org/wiki/前澤寛之 "wikilink")、編曲：小高光太郎、歌：[藤弥美里](../Page/藤弥美里.md "wikilink")
+  - エンディング曲：「最高の贈り物」
+      - 作詞：[こだまさおり](https://ja.wikipedia.org/wiki/こだまさおり "wikilink")、作曲：[藤間仁](../Page/藤間仁.md "wikilink")、編曲：太田雅友、歌：藤弥美里
+  - PSP版オープニング曲：「Rainbow happiness\!」
+      - 作詞：[永原さくら](https://ja.wikipedia.org/wiki/永原さくら "wikilink")、作曲・編曲：[Team.ねこかん\[猫](https://ja.wikipedia.org/wiki/Team.ねこかん【猫】 "wikilink")\]、歌：[佐咲紗花](https://ja.wikipedia.org/wiki/佐咲紗花 "wikilink")
+  - PSP版挿入歌：「Voice」
+      - 作詞：[AiRI](../Page/AiRI.md "wikilink")、作曲・編曲:[黒須克彦](../Page/黒須克彦.md "wikilink")、歌：[AiRI](../Page/AiRI.md "wikilink")
+
+## Gift にじいろストーリーズ
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月27日](../Page/1月27日.md "wikilink")に発売された本作品のファンディスク。CDは6枚組である。
+
+  - 各ストーリー
+    各ヒロインエンド後の[後日談](https://ja.wikipedia.org/wiki/後日談 "wikilink")を収録した「[アフターストーリー](https://ja.wikipedia.org/wiki/アフターストーリー "wikilink")」（5本）、誰ともエンドを迎えずに冬まで経過したある日を収録した「アナザーストーリー」（1本）、各ヒロインとのとある日常を収録した「ノベル」（といってもヒロインの台詞部分はボイスが入る）（5本）、パロディを収録した「ショートストーリー」（27本）から成る。莉子のアフターストーリーのみOPムービーが流れ、ED曲も2曲流れる。CD3枚分。
+
+    デスクトップアクセサリー等
+
+    多機能時計・貼り付けメモ・電卓・壁紙・呼びかけボイス（HPで募集された中から1000種の名前を収録）・システムボイス・コスプレイヤー写真集。CD2枚分。
+
+  - ドラマCD
+    2話収録。CD1枚分。
+
+  - スタッフ
+
+:\* プロデュース・デザインワーク：恋純ほたる
+
+:\* シナリオ：呉（莉子〈アフターストーリー・アナザーストーリー〉）、屑美たけゆき（綸花、縁〈アフターストーリー、ショートストーリー〉）、Ka2鍋（霧乃、千紗〈アフターストーリー、ショートストーリー〉）
+
+:\* 原画：Mitha、成瀬守、米田麦、えんどり
+
+:\* オープニング曲：「七色のリボン」
+
+:\*\* 作詞：稲葉エミ、作曲・編曲：上野義雄、歌：藤弥美里
+
+:\* エンディング曲：「EVERSEASON」
+
+:\*\* 作詞：稲葉エミ、作曲・編曲：田村信二、歌：藤弥美里
+
+:\* エンディング曲2：「七色パレット」
+
+:\*\* 作詞：Duca、作曲・編曲：太田雅友、歌：rino
+
+## アニメ版
+
+『**Gift 〜eternal rainbow〜**』（ギフト エターナルレインボウ）のタイトルで、2006年10月から同年12月までの間（地域により前後）、『[アニメ魂](https://ja.wikipedia.org/wiki/アニメ魂 "wikilink")』枠にて放送された。
+
+テレビ放送では全12話であったが、第12話の最後に「EX Gift」という予告めいた映像が流れた後、DVDでは第7巻に第13話が追加されて全13話となっている。
+
+内容は、天海春彦と深峰莉子・木之坂霧乃の関係の推移に焦点を絞った構成になっている。修学旅行先は原作と異なり、現実の[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")が再現された。縁結びの神社は[清水寺](https://ja.wikipedia.org/wiki/清水寺 "wikilink")の近くにある[地主神社](https://ja.wikipedia.org/wiki/地主神社 "wikilink")であり、[嵐山](https://ja.wikipedia.org/wiki/嵐山 "wikilink")という地名も実在する。
+
+また、第13話では[月の石社長](https://ja.wikipedia.org/wiki/MOONSTONE "wikilink")（恋純ほたる）、月の石社員（呉）役でスタッフがアフレコに参加した。
+
+### スタッフ（アニメ）
+
+  - 原作 - MOONSTONE
+  - 企画 - 恋純ほたる
+  - エクゼクティブプロデューサー - 市橋耕治、芳原世幸、[井上俊次](https://ja.wikipedia.org/wiki/井上俊次 "wikilink")、小泉純一
+  - 監督 - [きみやしげる](https://ja.wikipedia.org/wiki/木宮茂 "wikilink")（Big・Unit）
+  - シリーズ構成 - [鈴木雅詞](https://ja.wikipedia.org/wiki/鈴木雅詞 "wikilink")
+  - キャラクターデザイン・総作画監督 - 田中基樹
+  - 美術監督 - 高橋久嘉
+  - 色彩設計 - 大関たつ枝
+  - 撮影監督 - 亀田美紀
+  - 編集 - 渡辺直樹
+  - 音楽 - [七瀬光](https://ja.wikipedia.org/wiki/伊藤真澄 "wikilink")
+  - 音響監督 - [高桑一](../Page/高桑一.md "wikilink")
+  - プロデューサー - 川上竜太郎、吉沼忍、伊藤善之
+  - アニメーションプロデューサー - [岩佐がく](../Page/岩佐岳.md "wikilink")
+  - アニメーション制作 - [OLM TEAM IWASA](https://ja.wikipedia.org/wiki/オー・エル・エム "wikilink")
+  - 製作 - Gift Partners
+
+### 主題歌
+
+  - オープニングテーマ「[虹色センチメンタル](https://ja.wikipedia.org/wiki/虹色センチメンタル "wikilink")」
+    作詞 - [畑亜貴](https://ja.wikipedia.org/wiki/畑亜貴 "wikilink") / 作曲 - 中野慎也 / 編曲 - [宅見将典](../Page/宅見将典.md "wikilink") / 歌 - [橋本みゆき](../Page/橋本みゆき.md "wikilink")
+  - エンディングテーマ「ココロ虹を架けて」
+    作詞 - [こだまさおり](https://ja.wikipedia.org/wiki/こだまさおり "wikilink") / 作曲・編曲 - [加藤大祐](../Page/加藤大祐.md "wikilink") / 歌 - [藤弥美里](../Page/藤弥美里.md "wikilink")
+
+### 各話リスト
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話数</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>脚本</p></th>
+<th><p>絵コンテ</p></th>
+<th><p>演出</p></th>
+<th><p>作画監督</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st Gift</p></td>
+<td><p>虹が宿る街</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鈴木雅詞" title="wikilink">鈴木雅詞</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/木宮茂" title="wikilink">きみやしげる</a></p></td>
+<td><p>田中基樹</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2nd Gift</p></td>
+<td><p>帰ってきた妹</p></td>
+<td><p>松村やすひろ</p></td>
+<td><p>美甘義人</p></td>
+<td><p>大塚美登理</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3rd Gift</p></td>
+<td><p>初恋の人</p></td>
+<td><p>青柳宏宣</p></td>
+<td><p>いしはらあゆみ</p></td>
+<td><p>阿部恵美子<br />
+松井誠</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4th Gift</p></td>
+<td><p>すれ違う夏</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/香村純子" title="wikilink">香村純子</a></p></td>
+<td><p>吉野真一</p></td>
+<td><p>井硲清高</p></td>
+<td><p>佐藤天昭</p></td>
+</tr>
+<tr class="odd">
+<td><p>5th Gift</p></td>
+<td><p>閉ざされた場所で</p></td>
+<td><p>野中幸人</p></td>
+<td><p>きみやしげる</p></td>
+<td><p>土屋浩幸</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東海林康和" title="wikilink">東海林康和</a></p></td>
+</tr>
+<tr class="even">
+<td><p>6th Gift</p></td>
+<td><p>面影</p></td>
+<td><p>鈴木雅詞</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/矢野博之" title="wikilink">矢野博之</a></p></td>
+<td><p>平向智子</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中田正彦" title="wikilink">中田正彦</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>7th Gift</p></td>
+<td><p>幸せの意味</p></td>
+<td><p>香村純子</p></td>
+<td><p>土屋日</p></td>
+<td><p>西村大樹</p></td>
+<td><p>緒方奈穂美</p></td>
+</tr>
+<tr class="even">
+<td><p>8th Gift</p></td>
+<td><p>思い出の時間</p></td>
+<td><p>野中幸人</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ふじもとよしたか" title="wikilink">藤本義孝</a></p></td>
+<td><p>土屋浩幸</p></td>
+<td><p>佐藤天昭</p></td>
+</tr>
+<tr class="odd">
+<td><p>9th Gift</p></td>
+<td><p>つながる心、途切れた想い</p></td>
+<td><p>鈴木雅詞</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/金澤勝眞" title="wikilink">金澤勝眞</a></p></td>
+<td><p>清水一伸</p></td>
+<td><p>清水智子</p></td>
+</tr>
+<tr class="even">
+<td><p>10th Gift</p></td>
+<td><p>奪われた過去</p></td>
+<td><p>香村純子</p></td>
+<td><p>きみやしげる</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/古賀一臣" title="wikilink">古賀一臣</a></p></td>
+<td><p>東海林康和</p></td>
+</tr>
+<tr class="odd">
+<td><p>11th Gift</p></td>
+<td><p>Giftの秘密</p></td>
+<td><p>鈴木雅詞</p></td>
+<td><p>井硲清高</p></td>
+<td><p>中田正彦</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>LAST Gift</p></td>
+<td><p>永遠の虹</p></td>
+<td><p>きみやしげる</p></td>
+<td><p>田中基樹</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Another Gift</p></td>
+<td><p>木之坂旅館 危機一髪！！</p></td>
+<td><p>香村純子</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 放送局
+
+| 放送地域                                                  | 放送局                                                          | 放送期間                                                                                                                                 | 放送日時             | 放送区分                                                                     | 備考       |
+| ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------------------ | -------- |
+| [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")   | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")            | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月5日](../Page/10月5日.md "wikilink") - [12月21日](../Page/12月21日.md "wikilink") | 木曜 27:00 - 27:30 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                                |          |
+| [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")   | [KBS京都](../Page/京都放送.md "wikilink")                          | 2006年[10月6日](../Page/10月6日.md "wikilink") - [12月22日](../Page/12月22日.md "wikilink")                                                   | 金曜 26:15 - 26:45 |                                                                          |          |
+| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")                          | 2006年[10月7日](../Page/10月7日.md "wikilink") - [12月23日](../Page/12月23日.md "wikilink")                                                   | 土曜 28:25 - 28:55 |                                                                          |          |
+| [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")   | [群馬テレビ](../Page/群馬テレビ.md "wikilink")                         | 2006年[10月22日](../Page/10月22日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")               | 日曜 25:30 - 26:00 |                                                                          |          |
+| [日本全域](../Page/全国放送.md "wikilink")                    | [AT-X](../Page/アニメシアターX.md "wikilink")                       | 2006年[10月23日](../Page/10月23日.md "wikilink") - 2007年[1月8日](../Page/1月8日.md "wikilink")                                                | 月曜 9:30 - 10:00  | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink")         | リピート放送あり |
+| [奈良県](../Page/奈良県.md "wikilink")                      | [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")    | 2006年[10月26日](../Page/10月26日.md "wikilink") - 2007年[1月11日](../Page/1月11日.md "wikilink")                                              | 木曜 25:30 - 26:00 | 独立UHF局                                                                   |          |
+| 日本全域                                                  | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")      | 2006年[10月30日](../Page/10月30日.md "wikilink") - 2007年[1月22日](../Page/1月22日.md "wikilink")                                              | 月曜 26:00 - 26:30 | [BSデジタル放送](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink") |          |
+| [長野県](../Page/長野県.md "wikilink")                      | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")        | 2006年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") - 2007年[1月19日](../Page/1月19日.md "wikilink")                             | 金曜 26:15 - 26:45 | [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")     |          |
+| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")   | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")        | 2006年[11月20日](../Page/11月20日.md "wikilink") - 2007年[2月5日](../Page/2月5日.md "wikilink")                                                | 月曜 26:20 - 26:50 |                                                                          |          |
+| [福井県](../Page/福井県.md "wikilink")                      | [福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink") | 2007年[1月18日](../Page/1月18日.md "wikilink") - [4月5日](../Page/4月5日.md "wikilink")                                                       | 木曜 25:20 - 25:50 | [フジテレビ系列](../Page/フジネットワーク.md "wikilink")                                |          |
+
+## その他のメディアミックス
+
+### 携帯アプリ
+
+  - 株式会社ジャックインザボックスのウェブサイト「[禁断のギャルゲー](https://ja.wikipedia.org/wiki/禁断のギャルゲー "wikilink")」より携帯電話アプリゲーム版も配信されている。
+  - 米家電メーカー[アップルが運営する](../Page/アップル_\(企業\).md "wikilink")[App Storeにて](../Page/App_Store.md "wikilink")、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")・[iPod touch対応版が](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")[2009年](../Page/2009年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink")発売。
+      - 価格は1,500円。
+      - 2009年[1月30日](../Page/1月30日.md "wikilink")ボイス対応版提供開始。しかしボイスデータはPC版から抜き出し、加工する必要がある。
+      - 2009年[4月28日](../Page/4月28日.md "wikilink")フルボイス（ただしPC版から一部シナリオを変更した部分、全体の約4 [%は音声無し](../Page/パーセント.md "wikilink")、もしくは表示と違うセリフとなる）にアップデートして提供開始。アプリのサイズは1.06 [GB](../Page/ギガバイト.md "wikilink")。なお、価格は300円値上げし、1,800円となった。
+
+### CD
+
+  - ドラマCD
+    ランティスから2005年9月より各ヒロインごとに発売。各ヒロインのサイドストーリーが収録されている。
+      - 「Gift〜ギフト〜」ドラマCD Vol.1 〜深峰莉子〜 2005年9月22日発売
+      - 「Gift〜ギフト〜」ドラマCD Vol.2 〜木之坂霧乃〜 2005年11月23日発売
+      - 「Gift〜ギフト〜」ドラマCD Vol.3 〜藤宮千紗〜 2005年12月21日発売
+      - 「Gift〜ギフト〜」ドラマCD Vol.4 〜外薗綸花〜 2006年1月25日発売
+      - 「Gift〜ギフト〜」ドラマCD Vol.5 〜神代縁〜 2006年2月22日発売
+
+これとは別に初回限定版の予約特典として無料配布されたものも存在する（後にCD特別限定版に同梱）。
+
+  - 音楽CD
+
+:\* 『Gift 〜ギフト〜』（ミニボーカルアルバム、2005年7月21日発売、「たとえば、突然」「予報のない嵐」「七色パレット」のフルコーラス版+霧乃キャラクターイメージソング「絆は銀の糸」〈歌：[榊原ゆい](https://ja.wikipedia.org/wiki/榊原ゆい "wikilink")〉収録）
+
+:\* 『Gift にじいろストーリーズ』（七色のリボン、2006年1月12日発売、「七色のリボン」「EVERSEASON」フルコーラス版、本編BGM全曲収録）
+
+:\* 『[Gift 〜eternal rainbow〜 キャラクターソングミニアルバム](https://ja.wikipedia.org/wiki/Gift_〜eternal_rainbow〜_キャラクターソングミニアルバム "wikilink")』（2006年12月27日発売、ヒロインキャラクターソング収録）
+
+:\* 『[Gift 〜eternal rainbow〜 オリジナルサウンドトラック](https://ja.wikipedia.org/wiki/Gift_〜eternal_rainbow〜_オリジナルサウンドトラック "wikilink")』（2007年1月24日発売、TVアニメサウンドトラック収録）
+
+### インターネットラジオ
+
+  - [GiftにじいろStation](https://ja.wikipedia.org/wiki/GiftにじいろStation "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月11日](../Page/10月11日.md "wikilink") - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月23日](../Page/5月23日.md "wikilink")）
+  - [Giftにじいろホームルーム](https://ja.wikipedia.org/wiki/Giftにじいろホームルーム "wikilink")（2006年[7月14日](../Page/7月14日.md "wikilink") - [12月29日](../Page/12月29日.md "wikilink")）
+
+※[ランティスウェブラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink")にて配信。
+
+### 書籍
+
+  - 小説
+
+:\* 各ヒロインの小説を発刊（2006年1月〜、ハーヴェスト出版、18禁作品、著：駒尾真子、表紙・挿絵：Mitha、深山駒、米田麦）
+
+:\* 『Gift-prism- over the rainbow 』（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")、著者：[助野寛](https://ja.wikipedia.org/wiki/助野寛 "wikilink")、カバーイラスト：[Mitha](https://ja.wikipedia.org/wiki/Mitha "wikilink")、本文イラスト[ユキヲ](../Page/ユキヲ.md "wikilink")、ISBN 4-04-707230-3）
+
+:\*\*PS2版ヒロイン瀬奈を中心とした物語。
+
+  -
+
+  - 漫画
+
+:\* 『Gift 〜under the rainbow〜』（[月刊コンプティーク](../Page/コンプティーク.md "wikilink")〈2006年2月号 - 2006年8月号・2006年10月号 - 2007年3月号〉連載、全13話、漫画：[ユキヲ](../Page/ユキヲ.md "wikilink")）
+
+  -
+
+  - その他
+
+:\* 『Gift First Fan Book』（発行：株式会社[ブロッコリー](../Page/ブロッコリー_\(企業\).md "wikilink")、ISBN 4-86176-151-4）
+
+:\* 『Gift 〜ギフト〜 ARTWORKS』（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月10日](../Page/8月10日.md "wikilink")、発行：[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")）
+
+## 脚注
+
+## 関連項目
+
+  - [UHFアニメ一覧](https://ja.wikipedia.org/wiki/UHFアニメ一覧 "wikilink")
+  - [深夜アニメ一覧](https://ja.wikipedia.org/wiki/深夜アニメ一覧 "wikilink")
+
+## 外部リンク
+
+  - [原作：ムーンストーン オフィシャルホームページ（年齢確認有）](https://www.moon-stone.jp/)
+  - [PS2版「Gift -prism-」公式サイト](http://web.archive.org/web/20061109172600/http://sweets-games.com/gift/) - 閉鎖。（2006年11月9日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [アニメ版「Gift 〜eternal rainbow〜」公式サイト](https://www.wowowplus.co.jp/content/gift-er/index.html)
+  - [iOS版「Gift 〜ギフト〜」](https://itunes.apple.com/jp/app/id301508480?mt=8) - App Store
+  - [PSP(R)用ソフト「Gift -prism-」公式サイト](http://www.cyberfront.co.jp/title/gift_prism/)。 - 閉鎖。
+
+[Category:MOONSTONEのゲームソフト](https://ja.wikipedia.org/wiki/Category:MOONSTONEのゲームソフト "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:テレビアニメ化されたアダルトゲーム](https://ja.wikipedia.org/wiki/Category:テレビアニメ化されたアダルトゲーム "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:コンプティークの漫画作品](https://ja.wikipedia.org/wiki/Category:コンプティークの漫画作品 "wikilink") [Category:学校を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:学校を舞台としたコンピュータゲーム "wikilink") [Category:2005年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2005年のアダルトゲーム "wikilink")

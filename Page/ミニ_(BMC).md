@@ -1,0 +1,279 @@
+> この記事は[ \(BMC\)](https://ja.wikipedia.org/wiki/_\(BMC\))から翻訳されています。
+
+
+**ミニ**（*Mini*）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ブリティッシュ・モーター・コーポレーション](https://ja.wikipedia.org/wiki/ブリティッシュ・モーター・コーポレーション "wikilink")（BMC）が生んだ[大衆車](https://ja.wikipedia.org/wiki/大衆車 "wikilink")。[自動車](../Page/自動車.md "wikilink")としての必要最小限を形にした設計は、登場当時、革命的とまでいわれた。
+
+## 概要
+
+長く低迷した[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[自動車工業界の状況を反映し](../Page/自動車産業.md "wikilink")、生産、販売会社の名前は幾度も変わったが、 ミニ自体は[2000年](../Page/2000年.md "wikilink")まで40年以上に渡り生産、販売が継続された。[平成](../Page/平成.md "wikilink")2年 ([1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")) 頃には日本の企業がミニの製造、販売権を取得する計画\[1\]もあったが実現せず、平成6年 ([1994年](../Page/1994年.md "wikilink"))以降は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[BMW](../Page/BMW.md "wikilink")が、[ランドローバー](../Page/ランドローバー.md "wikilink")と同時に[ローバーを傘下とし](https://ja.wikipedia.org/wiki/ローバー_\(自動車\) "wikilink")、ミニにまつわる[権利](../Page/権利.md "wikilink")も手中にした。
+
+BMWは新規に投入する同社初となる[FF車をニューミニと位置づけ](https://ja.wikipedia.org/wiki/前輪駆動 "wikilink")、それまでの資産（ヘリテイジ）を生かした[ビジネスモデル](https://ja.wikipedia.org/wiki/ビジネスモデル "wikilink")とすべく、傘下となった旧ローバーの技術者による車両開発を行ない、平成13年 ([2001年](../Page/2001年.md "wikilink")) から英国の[オックスフォード](https://ja.wikipedia.org/wiki/オックスフォード "wikilink")工場（旧ローバー社カウリー工場）で生産を開始し、販売されている。
+
+BMWのミニが登場したことで、初代「ミニ」は、「クラシックミニ」、「BMCミニ」、「ローバーミニ」とも呼ばれる。
+
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では、優れたパッケージング、愛らしいデザイン、[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")相当にコンパクトなサイズなどが評価され、モデル晩年は日本が主要マーケットとなっていた。なお、イギリスと同じ左側通行である日本に輸入されたミニにも[左ハンドル仕様車がある](https://ja.wikipedia.org/wiki/対面交通 "wikilink")。これは日本で施行された[自動車排出ガス規制](../Page/自動車排出ガス規制.md "wikilink")（[昭和](../Page/昭和.md "wikilink")50年 ([1975年](../Page/1975年.md "wikilink")) 規制 - 昭和53年 ([1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")) 規制）に対し、かつては規制値が近い[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")仕様車（対米輸出車）を輸入していた時期があったためである。
+
+## 歴史
+
+オリジナルのミニは、[1952年](../Page/1952年.md "wikilink")に成立した[ブリティッシュ・モーター・コーポレーション](https://ja.wikipedia.org/wiki/ブリティッシュ・モーター・コーポレーション "wikilink")（BMC）の[技術者](https://ja.wikipedia.org/wiki/技術者 "wikilink")[アレック・イシゴニス](https://ja.wikipedia.org/wiki/アレック・イシゴニス "wikilink")の[指揮](https://ja.wikipedia.org/wiki/指揮 "wikilink")するチームによって[設計](../Page/設計.md "wikilink")された。
+
+### スエズ動乱とミニマムカー
+
+[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前から在籍していた[ナッフィールド・オーガニゼーション](https://ja.wikipedia.org/wiki/ナッフィールド・オーガニゼーション "wikilink")が、ライバルである[オースチンと](https://ja.wikipedia.org/wiki/オースチン_\(自動車\) "wikilink")[合併してBMCになると](../Page/合併_\(企業\).md "wikilink")、アレック・イシゴニスは社内の環境に不満を感じ、一時[高級車](https://ja.wikipedia.org/wiki/高級車 "wikilink")メーカーの[アルヴィスに移籍した](https://ja.wikipedia.org/wiki/アルヴィス・カー・アンド・エンジニアリング・カンパニー "wikilink")。同社で高級[スポーツカー](../Page/スポーツカー.md "wikilink")の開発に取り組んだが、結局その生産化は頓挫し、BMCの経営責任者である[サー](../Page/サー.md "wikilink")・レナード・ロードの招きを機に、[1955年](../Page/1955年.md "wikilink")にBMCに戻ってきた。
+
+この当時の量産型BMC車は、小型車から上級車に至るまで[合併前のナッフィールド系とオースチン系のモデルが並立している過渡期にあったが](../Page/合併_\(企業\).md "wikilink")、いずれにしてもやや旧弊な設計のモデルが主流を占めていた。イシゴニスは早速、それらを刷新するためのニューモデル開発に取り組み始めた。
+
+ところが[1956年](../Page/1956年.md "wikilink")9月、[スエズ動乱が](../Page/第二次中東戦争.md "wikilink")[中東](../Page/中東.md "wikilink")で勃発し、国際的に[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")価格が高騰したことが、開発環境の大きな転機となった。
+
+当時、中東の[油田](https://ja.wikipedia.org/wiki/油田 "wikilink")依存率が高かった[西ヨーロッパ](../Page/西ヨーロッパ.md "wikilink")諸国は、時ならぬ[オイルショック](../Page/オイルショック.md "wikilink")に陥った。イギリスの[大衆](https://ja.wikipedia.org/wiki/大衆 "wikilink")層は[排気量](../Page/排気量.md "wikilink")1,000 cc 前後のまともな[乗用車](../Page/乗用車.md "wikilink")を維持することが困難になり、当時、[西ドイツ](../Page/西ドイツ.md "wikilink")などで生産されていた200 - 400 cc の、[バブルカー](../Page/バブルカー.md "wikilink")と呼ばれる2 - 3人乗り[ミニカーを購入するようになった](../Page/ミニカー_\(車両\).md "wikilink")。それらは確かに経済的ではあったが、[単気筒](https://ja.wikipedia.org/wiki/単気筒 "wikilink")・2気筒の[空冷エンジン](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")を搭載したけたたましい乗り物で、イギリスの[税制では](../Page/租税.md "wikilink")[節税](../Page/節税.md "wikilink")になる[3輪型のモデルも含まれ](https://ja.wikipedia.org/wiki/三輪自動車 "wikilink")、居住性や操縦性といった本格的な自動車に求められるような[性能](https://ja.wikipedia.org/wiki/性能 "wikilink")を欠いていた。
+
+大衆が粗末なバブルカー購入に走るのを憂いたサー・レナード・ロードは、対抗のため、自社開発陣に「極めて経済的な4人乗り小型車を早急に開発すること」を命じ、イシゴニス率いるBMC開発チームは、一般的な小型車でなく、既存の自社モデル（オースチン・A30やモーリス・マイナーといった、1,000 cc 未満の小型車）よりもさらにコンパクトなニューモデルの設計を再考することになった。
+
+### Aシリーズエンジン
+
+ミニマムカー開発を命じた際、ロード会長は「どんな[エンジン](../Page/エンジン.md "wikilink")を使っても良い、ただし既存のラインナップにある中から」という開発条件を提示した\[2\]。これに従うと、開発陣の選択肢は、当時のBMCが生産していたエンジンで唯一の小排気量クラス用エンジンだった850 cc 級の[Aシリーズ（英語版）](https://ja.wikipedia.org/wiki/:en:BMC_A-Series_engine "wikilink")[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")エンジン以外にあり得なかった。
+
+Aシリーズエンジンは、BMC成立直前の[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")、オースチン大衆車向けに著名なエンジン技術者ハリー・ウェスレイクが設計した堅実な[水冷エンジン](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")で、オースチンとナッフィールドの合併でBMCが成立した後には、やはりウェスレイクの手で[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")回りを設計された1,500 cc 級・Bシリーズエンジンと共に、BMCの標準エンジンに制定された。3ベアリング・[ターンフロー](https://ja.wikipedia.org/wiki/ターンフロー "wikilink")型[OHV](https://ja.wikipedia.org/wiki/OHV "wikilink")の当時変哲もない設計であるが、BMCのエンジンでも開発年次が新しく、生産性と実用エンジンとしての資質を兼ね備えていたので、[1950年代](../Page/1950年代.md "wikilink")後期には小型スポーツカーから[貨物バンに至るまで広く用いられていた](../Page/ライトバン.md "wikilink")。
+
+イシゴニスは当初、エンジンのカットによる2気筒化なども検討したが、結局はAシリーズをどうにか流用し、ボディと駆動系のコンパクト化によって経済車に求められる性能を得る判断を採った。
+
+以後Aシリーズエンジンはミニと切っても切れない関係となり、このエンジンを搭載した他のモデルが生産終了した後も、2000年にミニが生産終了するまで半世紀にわたって生産されることになった。
+
+### 横置きエンジンと前輪駆動
+
+ロード会長の示した開発条件は、裏を返せばエンジン以外は設計陣にあらゆる手段を用いることを許容するものであった。
+
+アレック・イシゴニスは、BMC以前のナッフィールド・オーガニゼーション時代の1940年代中期に手掛けた傑作大衆車[モーリス](../Page/モーリス_\(自動車\).md "wikilink")・マイナーの[試作過程で](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")、[前輪駆動](https://ja.wikipedia.org/wiki/前輪駆動 "wikilink")方式の採用を検討したことがあった。そして当時、前輪駆動を前提に、[車軸](https://ja.wikipedia.org/wiki/車軸 "wikilink")と並行に[横置き搭載すれば](../Page/横置きエンジン.md "wikilink")、直列4気筒エンジンでも[ボンネットの前後長を短縮できるという発想に到達していたのである](https://ja.wikipedia.org/wiki/ボンネット_\(自動車\) "wikilink")。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")直後の時点では時期尚早で[実用](https://ja.wikipedia.org/wiki/実用 "wikilink")化困難であったが、それから10年余りを経てイシゴニスは再びその着想の実現に動き出した。
+
+既にBMCにとって手慣れた手法になっていた[モノコック](https://ja.wikipedia.org/wiki/モノコック "wikilink")構造が採用されたが、乗客の居住スペースは4人を収める最低限に切りつめられ、後部[オーバーハングも切り詰められた](https://ja.wikipedia.org/wiki/オーバーハング_\(自動車用語\) "wikilink")。それまでのイギリス製小型車にありがちだった、こんもりと盛り上がった背の高いキャビンは、[床](../Page/床.md "wikilink")の低い新しいコンセプトの前輪駆動車ではもはや不要だった。さらなるスペース節減のため、[タイヤ](../Page/タイヤ.md "wikilink")は[バブルカー](../Page/バブルカー.md "wikilink")より若干大きい程度で、まともな自動車ではほとんど先例のなかった10[インチ](../Page/インチ.md "wikilink")（in）の超小径サイズが、[ダンロップ](https://ja.wikipedia.org/wiki/ダンロップ "wikilink")との交渉で新たに開発された。
+
+横置きエンジンによる前輪駆動自体は、2気筒の軽便な車両では第二次世界大戦以前から見られたが、一回り大きい直列4気筒エンジンでは実用車として世界でほぼ最初であった。最低限のスペースに4気筒[水冷エンジン](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")と[ラジエーター](../Page/ラジエーター.md "wikilink")を収めるため、ラジエーターは一般的な[フロントグリル](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")の内側ではなく、効率が悪いのを承知で、横置きにしたエンジンの左側にレイアウトされた（従って、冷却促進はエンジンのクーリング[ファンのみが頼りだった](https://ja.wikipedia.org/wiki/送風機 "wikilink")）。更に[オートバイ](../Page/オートバイ.md "wikilink")の手法を援用し、[トランスミッション](../Page/トランスミッション.md "wikilink")のギアセットはエンジン下部の[オイルパン](../Page/オイルパン.md "wikilink")を大型化してその内部に搭載、ギアの[潤滑](../Page/潤滑.md "wikilink")は[エンジンオイル](../Page/エンジンオイル.md "wikilink")を共用する構造とした。
+
+[サスペンション](../Page/サスペンション.md "wikilink")形式は、フロントが[ウィッシュボーン](../Page/ダブルウィッシュボーン式サスペンション.md "wikilink")、リアが[トレーリングアームであるが](https://ja.wikipedia.org/wiki/トレーリングアーム式サスペンション "wikilink")、生産性向上対策でサブフレーム組み付けを用いつつも大変にコンパクトに設計されている。これらに組み合わされる[スプリングには](../Page/ばね.md "wikilink")、一般的な金属ばねではなく、当時ばねの先端素材として注目されていた[ゴム](../Page/ゴム.md "wikilink")を採用した。ダンロップの技術者[アレックス・モールトン](../Page/アレックス・モールトン.md "wikilink")の設計による、[円錐](../Page/円錐.md "wikilink")状に成型されたゴムばねを用いた[ラバーコーンサスペンション](https://ja.wikipedia.org/wiki/ラバーコーンサスペンション "wikilink")である。このばねは強い[プログレッシブ](https://ja.wikipedia.org/wiki/プログレッシブ "wikilink")レートを持ち、最小のストロークで最大の[エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")吸収量を得る様に設計されている。この強いプログレッシブ・レートを持つばねや、フロントが高くリヤが路面上にあるという特異な[ロールセンター設定のサスペンション](https://ja.wikipedia.org/wiki/ローリング "wikilink")、量産車としては今日の基準でも驚異的に速い[ステアリング](../Page/ステアリング.md "wikilink")ギアレシオや、回転[慣性モーメント](../Page/慣性モーメント.md "wikilink")や[ジャイロ効果](../Page/ジャイロ効果.md "wikilink")の小さい10 in のタイヤなどによって[ゴーカート](https://ja.wikipedia.org/wiki/ゴーカート "wikilink")のようなハンドリングが生まれた。
+
+更にこの当時（[1950年代](../Page/1950年代.md "wikilink")後期）、イギリスのハーディ・スパイサー社（[1966年](../Page/1966年.md "wikilink")に[GKN](https://ja.wikipedia.org/wiki/GKN "wikilink")が[買収](../Page/M&A.md "wikilink")）の手で、前輪駆動に適した「バーフィールド・ツェッパ等速ジョイント」が実用・量産化されたことが、イシゴニスのコンセプトをより現実的なものにした。ツェッパ式の[ボール・ジョイントは](../Page/自在継手.md "wikilink")、前輪駆動車の旋回時に、ドライブシャフトが大きな屈曲を伴ってもほぼ等速で滑らかに駆動力を伝達できる理想的なジョイントであった。まだ高価なパーツだったが、タイヤが小さく、かつサスペンションストロークの小さなミニは、ドライブシャフトのタイヤ側だけにこのジョイントを使えば済んだ（[デフ側のジョイントは](https://ja.wikipedia.org/wiki/差動装置 "wikilink")、旧式だがコストを抑えられるダブルカルダンタイプで間に合った）。
+
+横置きエンジン方式自体は時代に先んじたエレガントな[技術革新だったが](../Page/イノベーション.md "wikilink")、ミニと同じ二階建てパワートレインの「イシゴニス・レイアウト」を採用した車種は非常に少なく、イシゴニスの手になる、ミニの拡大版ともいえるBMCの[ADO14](https://ja.wikipedia.org/wiki/:en:Austin_Maxi "wikilink")、[ADO16](https://ja.wikipedia.org/wiki/:en:BMC_ADO16 "wikilink")、[ADO17](https://ja.wikipedia.org/wiki/:en:Austin_1800 "wikilink")、ポストイシゴニスの[ADO27](https://ja.wikipedia.org/wiki/:en:Austin_Kimberley "wikilink")、[ADO67以外では](https://ja.wikipedia.org/wiki/:en:Austin_Allegro "wikilink")、フランスの[プジョー・204](https://ja.wikipedia.org/wiki/プジョー・204 "wikilink")、[304や](https://ja.wikipedia.org/wiki/プジョー・304 "wikilink")[プリンス自動車](https://ja.wikipedia.org/wiki/プリンス自動車 "wikilink")時代に設計が始まった[日産・チェリー](https://ja.wikipedia.org/wiki/日産・チェリー "wikilink")と、[ミッドシップ](../Page/ミッドシップ.md "wikilink")の[ランボルギーニ・ミウラ](https://ja.wikipedia.org/wiki/ランボルギーニ・ミウラ "wikilink")程度しかなく、より広く普及して一般化したのは、[イタリア](../Page/イタリア.md "wikilink")で[1960年代](../Page/1960年代.md "wikilink")に開発され、トランスミッションをエンジンと直列に横置きして車両内での前後長を短縮した、[ジアコーサレイアウトであった](https://ja.wikipedia.org/wiki/ダンテ・ジアコーサ "wikilink")。
+
+FF車のエンジンとトランスミッションの配置はメーカーごとにさまざまであったが、現在では、[四輪駆動](../Page/四輪駆動.md "wikilink")を主力商品とするメーカーである[アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")や[スバル](https://ja.wikipedia.org/wiki/スバル "wikilink")に[縦置きエンジン](../Page/縦置きエンジン.md "wikilink")のFFが見られるのみで、ほとんどのFF車はジアコーサ式の横置きエンジンとなっている。
+
+### デザイン
+
+オリジナルの2ドアボディのデザインは、リア[トランク用のオーバーハングをも切り詰めた](https://ja.wikipedia.org/wiki/トランク_\(自動車\) "wikilink")、1950年代後期には類例の乏しかった純粋な2ボックスレイアウトで、全長は3 m ほどに過ぎなかった。それでもリアシートの後ろには（片隅を[燃料タンクに取られてはいたが](../Page/燃料タンク_\(自動車\).md "wikilink")）最小限のトランクルームが確保されていた。10 in タイヤと前輪駆動の効果によって、床も車高もこの時代ではずば抜けて低く、ロードクリアランス（[最低地上高](../Page/最低地上高.md "wikilink")）は実用車としての最低限レベル、車高は1,400 mm にも満たないが、大人4人が乗りこめるスペースが確保されていた。
+
+当時、[リアエンジン](https://ja.wikipedia.org/wiki/リアエンジン "wikilink")車では2代目[フィアット・500](../Page/フィアット・500.md "wikilink")（1957年）や[スバル・360](../Page/スバル・360.md "wikilink")（1958年）のように、4座で3 m クラスを実現した事例もあったが、850 cc の水冷4気筒をフロントに搭載して大人4人定員とした乗用車で、ここまで小型化された事例はなかった。
+
+このコンパクトなボディは、設計者のイシゴニスが自らのスケッチでデザインするという異例の過程でスタイリングされた。[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")と内部構造を熟知した設計者自身によるスタイリングは、機能に直結した合理性に富むもので完成度が高く、そのまま生産されることになった。ミニの実車を間近で観察すると目につく点のひとつに[フランジ](../Page/フランジ.md "wikilink")状に張り出した外板の継ぎ目があるが、これは組み立て時の手間を省いた結果である。
+
+### MK I 1959年-1967年
+
+ミニは最初 **ADO15**（ADO はAustin Drawing/Design Officeを表す）というプロジェクト名で呼ばれ、最初のモデルは**オースチン・セブン**（しばしばSE7ENと表記される）及び**モーリス・ミニ・マイナー**の名でイギリス国内向けに発売された。「セブン」とは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前に大成功を収めたオースチンの大衆車にあやかったもので、「マイナー」は、「ミニ」とかけた「[洒落](../Page/洒落.md "wikilink")」であるという。生産は元オースチン系の主力工場である[バーミンガム](../Page/バーミンガム.md "wikilink")の[ロングブリッジ工場](../Page/ロングブリッジ工場.md "wikilink")で行われた。[1962年](../Page/1962年.md "wikilink")までには[北米と](../Page/北アメリカ.md "wikilink")[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")でもオースチン850、モーリス850の名前で発売された。
+
+設計者イシゴニスの友人で、[1959年](../Page/1959年.md "wikilink")と[1960年](../Page/1960年.md "wikilink")の[F1のコンストラクターズ](../Page/フォーミュラ1.md "wikilink")・チャンピオンに輝いた[クーパー・カー・カンパニー](../Page/クーパー・カー・カンパニー.md "wikilink")の経営者[ジョン・クーパーは](../Page/ジョン・クーパー_\(自動車技術者\).md "wikilink")、当時[英国内のサルーンカー選手権に](https://ja.wikipedia.org/wiki/イギリスツーリングカー選手権 "wikilink")[トライアンフで参加していたが](https://ja.wikipedia.org/wiki/トライアンフ_\(自動車\) "wikilink")、ライバルである[ロータス車の次元の違うハンドリングに太刀打ちできずにいた](../Page/ロータス・カーズ.md "wikilink")。この時イシゴニスにミニの試作車を見せられ、その驚異的なハンドリングに注目、何回かの実験とテスト走行の後、イシゴニスと共同で、機敏で経済的で、しかも安価な車を作ることを決意した。その成果として、[1962年](../Page/1962年.md "wikilink")に**ADO50**、「オースチン・ミニ・クーパー」と、「モーリス・ミニ・クーパー」が誕生した。
+
+1964年に[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")モデルのサスペンションは、内部に[オリフィス](https://ja.wikipedia.org/wiki/オリフィス "wikilink")と空洞を持つゴムばねを、前後輪でパイプで連通し不凍液を満たしたハイドロラスティック（Hydro=水とErastic=ゴムの合成語）システムに変更された。この新しいサスペンションは柔らかな乗り心地で「[魔法の絨毯](https://ja.wikipedia.org/wiki/魔法の絨毯 "wikilink")」とも喩えられていたが、重量と生産コストが余計にかかり、また[ピッチング](../Page/ピッチング.md "wikilink")の制御が難しくセッティングの幅も狭いなど問題もあり、Mk III 前期を最後に元のラバー・コーンサスペンションに戻された。
+
+ミニは[映画](../Page/映画.md "wikilink")や[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")などを通じて、[1960年代](../Page/1960年代.md "wikilink")の大衆文化の中にその存在を焼き付けた。[ビートルズ](../Page/ビートルズ.md "wikilink")のメンバーや、イギリス女王である[エリザベス2世](https://ja.wikipedia.org/wiki/エリザベス2世 "wikilink")もミニのオーナーだった。アレック・イシゴニスは1960年、知己を通じた紹介で、ミニの納車のためエリザベス2世女王に直々に謁見、女王は助手席にイシゴニスを乗せて自らミニを試走させたという。
+
+ミニ・クーパーは[1964年](../Page/1964年.md "wikilink")、クーパーSでは[1965年](../Page/1965年.md "wikilink")、[1967年](../Page/1967年.md "wikilink")の[モンテカルロ・ラリーで総合優勝している](https://ja.wikipedia.org/wiki/ラリー・モンテカルロ "wikilink")。補助灯のレギュレーション違反ということで失格となったものの、[1966年](../Page/1966年.md "wikilink")にもゴール時の成績は優勝相当であった。
+
+又、BMC[ワークス監督で後の](../Page/ワークス・チーム.md "wikilink")[イギリス・フォード](https://ja.wikipedia.org/wiki/イギリス・フォード "wikilink")でも活躍する事となる[スチュワート・ターナー](https://ja.wikipedia.org/wiki/スチュワート・ターナー "wikilink")は本格的な[ペースノート](https://ja.wikipedia.org/wiki/ペースノート "wikilink")、[レッキ](../Page/レッキ.md "wikilink")、サービス計画等ラリーに近代的なチームオペレーションを持ち込んだ事でも知られるようになる\[3\]。
+
+1960年代のミニの売り上げは全モデルで好調であったが、生産メーカーにはほとんど利益をもたらさなかった。複雑な駆動システムが製造コストを嵩ませた一方、競合他社との競争に勝つために[製造原価](../Page/製造原価.md "wikilink")を割り込む価格で販売することを余儀なくされたためである。当時のイギリス市場で最大の強敵は[イギリス・フォード](https://ja.wikipedia.org/wiki/イギリス・フォード "wikilink")で、「[アングリア](https://ja.wikipedia.org/wiki/フォード・アングリア "wikilink")」、「[エスコート](https://ja.wikipedia.org/wiki/フォード・エスコート "wikilink")」など、BMC前輪駆動車よりも大きい[3ボックススタイルのボディを持ち](../Page/セダン.md "wikilink")、当時では低コストな固定車軸の[後輪駆動](https://ja.wikipedia.org/wiki/後輪駆動 "wikilink")方式を用いたベーシックモデルを生産、レースフィールドと大衆車市場の双方で、ミニやその上級モデルに当たるADO16シリーズと競り合った。
+
+#### クーパー/クーパーS
+
+オリジナルのモーリス・ミニ・マイナーに搭載されていた848 cc のエンジンは997 cc まで[排気量](../Page/排気量.md "wikilink")が増やされ、[出力](https://ja.wikipedia.org/wiki/出力 "wikilink")も34[馬力](../Page/馬力.md "wikilink")から55馬力に高められた。このエンジンにはレース向けの[チューニングが施され](../Page/チューニングカー.md "wikilink")、当時小型車には馴染みのなかった[SUツイン](https://ja.wikipedia.org/wiki/スキナーズ・ユニオン "wikilink")[キャブレター](../Page/キャブレター.md "wikilink")と[ディスクブレーキ](../Page/ディスクブレーキ.md "wikilink")が装備された。経営陣はこのモデルの生産を決め、1,000台を発注した。これは、経営陣が参加を目指していた、[FIAの](https://ja.wikipedia.org/wiki/国際自動車連盟 "wikilink")、当時のグループ2規定の生産義務台数をクリアするためであった。[1964年](../Page/1964年.md "wikilink")、997 cc のエンジンが、より[ストロークの短い](../Page/ボアストローク比.md "wikilink")998 cc のモデルに変更された。これ以降、[1967年](../Page/1967年.md "wikilink")にクーパーモデルの生産が終了するまでに計12,274台の「クーパー」が販売された。[1963年](../Page/1963年.md "wikilink")にはよりパワフルな「クーパーS」モデルが相前後して開発、生産された。
+
+「クーパーS」は1,071 cc のエンジンと、より大径のディスクブレーキを特徴とし、[1964年](../Page/1964年.md "wikilink")8月のモデルチェンジまでに計4,030台が生産、販売された。当初A型エンジンの排気量拡大は1,071 cc が限界と見られていたが、[ダウントン](https://ja.wikipedia.org/wiki/ダウントン "wikilink")の[ダニエル・リッチモンド](https://ja.wikipedia.org/wiki/ダニエル・リッチモンド "wikilink")が[ボア・ピッチ](https://ja.wikipedia.org/wiki/ボア・ピッチ "wikilink")をずらして1,275 cc まで拡大する手法を考案、イシゴニス、クーパー、リッチモンドの歴史的な3者会談により、量産型「1275クーパーS」の計画がスタートした。量産に際して、[サーキット](../Page/サーキット.md "wikilink")・[レースのクラス分けに合致した](../Page/競走.md "wikilink")970 cc と1,275 cc の2つのモデルを新たに追加、970 cc モデルはあまり売れず、963台が生産された後[1965年](../Page/1965年.md "wikilink")に生産終了となったが、1,275 cc の「クーパーS」は40,000台以上が生産され、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に生産終了となった。 {{-}}
+
+### MK II 1967年 - 1969年
+
+[1967年](../Page/1967年.md "wikilink")から[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")までの間、イシゴニスは実験モデルとして9Xと呼ばれる代替モデルを設計していた。この車はミニよりも高出力であったが、当時BMCと[スタンダード・トライアンフ](https://ja.wikipedia.org/wiki/スタンダード・トライアンフ "wikilink")の合併で設立された[ブリティッシュ・レイランド](https://ja.wikipedia.org/wiki/ブリティッシュ・レイランド "wikilink")の政治力によって結局生産されることはなかった。しかしこのモデルは技術的にも先進的であったため、もし現実に生産されていれば、1980年代まで他社に対し競争力を保てたかも知れない、と多くの人々が考えている。
+
+[1967年](../Page/1967年.md "wikilink")、ボディがMk IIと呼ばれるタイプに変更された。[フロントグリル](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")はデザインし直され、リアウインドウも左右に拡大された。ドア上の水切りが廃止され、[雨樋](https://ja.wikipedia.org/wiki/雨樋 "wikilink")も[工数](https://ja.wikipedia.org/wiki/工数 "wikilink")を減らしたものに変わった。[リアコンビランプは](https://ja.wikipedia.org/wiki/テールライト "wikilink")、大きな角型のものへと変更された。
+
+エンジンは998 cc と1,275 cc の二種類が用意された。998 cc モデルは55,000台以上が販売され、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に生産終了となった。
+
+1,275 cc モデルは1969年から[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")にかけて、わずかに改良を施したMk IIIボディを採用した後、[1972年](../Page/1972年.md "wikilink")1月まで販売された。クーパー社は輸出モデル向けの改造キットの開発と販売に事業を切り替え、[1975年](../Page/1975年.md "wikilink")まで販売を続けた。
+
+コストと重量がネックとなり、ハイドロラスティックシステムは廃止された。
+
+この頃1969年の映画『[ミニミニ大作戦](../Page/ミニミニ大作戦_\(1969年の映画\).md "wikilink")』（*[The Italian Job](https://ja.wikipedia.org/wiki/:en:The_Italian_Job "wikilink")* ）にも「出演」しており、その小ささや走りの良さをクローズアップした小気味良い[カーチェイス](https://ja.wikipedia.org/wiki/カーチェイス "wikilink")の[演出](../Page/演出.md "wikilink")は、[2003年のリメイク版には見られない美点となっている](../Page/ミニミニ大作戦_\(2003年の映画\).md "wikilink")。
+
+また、[Mr.ビーン](https://ja.wikipedia.org/wiki/Mr.ビーン "wikilink")の愛車でもあり、[オレンジ色](https://ja.wikipedia.org/wiki/オレンジ色 "wikilink")だったが、（ナンバープレートは「RNT 996H」）第1話の最後に事故で全損してしまった。
+
+### クラブマン\&MK III 1969年 - 1977年
+
+設計変更に伴い、開発コードがADO20となる。9Xと12Xが前期型、99Xが後期型と区別されている。
+
+1970年代初め、[ブリティッシュ・レイランド](https://ja.wikipedia.org/wiki/ブリティッシュ・レイランド "wikilink")の所有ブランドとなっていた頃、ミニはその「顔」を変更している。フロントデザインを変更したバージョンは**ミニ・クラブマン**と呼ばれ、フルワイズのグリルと現代的な角ばったルックスを誇っていた。同時に 1275 GT と呼ばれる新モデルが旧ミニ・クーパーSの後継として計画された。また、カントリーマンとトラベラーの後継として**クラブマン・エステート**が発売されることとなった。しかしブリティッシュ・レイランドは旧型の1960年代デザインのミニも引き続き生産し続けた。これは賢明な判断であった。なぜなら新型モデルはほぼあらゆる方面で酷評され、早々に消えていったからである。
+
+[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")、ミニ・クーパーのデザインが[イタリア](../Page/イタリア.md "wikilink")の[イノチェンティ](https://ja.wikipedia.org/wiki/イノチェンティ "wikilink")と[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の [Authi](https://ja.wikipedia.org/wiki/:en:Authi "wikilink") 社に[ライセンスされ](https://ja.wikipedia.org/wiki/ライセンス生産 "wikilink")、それぞれ**[イノチェンティ・ミニ](https://ja.wikipedia.org/wiki/イノチェンティ・ミニ "wikilink")・クーパー 1300** 及び **Authi ミニ・クーパー 1300** として生産された。
+
+[1974年](../Page/1974年.md "wikilink")、イノチェンティはミニのプラットフォームを元に[ベルトーネ](https://ja.wikipedia.org/wiki/ベルトーネ "wikilink")が設計した[ハッチバック](../Page/ハッチバック.md "wikilink")モデルであるイノチェンティ**90**と**120**を導入した。ベルトーネはミニ・クーパーの同型車で1,275 cc [ターボエンジンを搭載した](../Page/ターボチャージャー.md "wikilink")**イノチェンティ・[デ・トマソ](https://ja.wikipedia.org/wiki/デ・トマソ "wikilink")**も開発した（後に[ダイハツ製エンジンに変更](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")）。
+
+また、[Mr.ビーン](https://ja.wikipedia.org/wiki/Mr.ビーン "wikilink")の愛車でもあり、ライム・グリーン色にペイントされ、ボンネットがつや消し黒に塗られたところが（ナンバープレートは「SLW 287R」）、運転席側のカギが破損したため、運転席のドアに[南京錠](../Page/南京錠.md "wikilink")を取り付けてある。第11話「ミスター・ビーン、学校へ行く」では軍隊のデモンストレーション用に用意されていたミニ（ナンバープレートは「ACW 497V」）とビーンの乗ってきたミニが取り違えられ（これはビーン自身が故意に取り替えた）、「SLW 287R」の方は無残にも戦車で押しつぶされた。この際、ビーンは無事だった南京錠とスライドボルトを回収している。最終話「おやすみなさい、ミスター・ビーン」では同型・同色・同番号「SLW 287R」のミニが再び登場している。辻褄を合わせると「ACW 497V」のミニに「SLW 287R」のプレートと南京錠とスライドボルトを取り付けたと考えられる。DVD特典映像のベストビッツ・オブ・ミスタービーンでは屋根裏部屋にタイヤ、ハンドル、ドア、ヘッドランプ等のごく僅かに残った部品が置かれている。実際に撮影で使用されたミニは北イングランドのカンブリア州ケズウィックのCars of the Stars Motor Museum（スター自動車博物館）に保管されている。映画「Mr.ビーン カンヌで大迷惑?\!」ではヒッチハイクで同型車種（ナンバープレートは「207 UHO 75」）が登場する。
+
+この頃の日本仕様車は[キャピタル企業が輸入していたが](https://ja.wikipedia.org/wiki/キャピタル_\(自動車ディーラー\) "wikilink")、ミニは全幅の割に[トレッド](https://ja.wikipedia.org/wiki/トレッド "wikilink")（輪距）が広く、本国仕様のままでは日本の保安基準（[道路運送車両法](https://ja.wikipedia.org/wiki/道路運送車両法 "wikilink")第十八条の二、いわゆる回転突起物規制）に抵触するため、正規輸入車は[フェンダー部分が加工され](../Page/フェンダー_\(自動車\).md "wikilink")、若干幅が広げられていた。
+
+### 1978年 - 1980年
+
+（通称MK IV）
+
+初期の特徴でもあった[センターメーター](../Page/センターメーター.md "wikilink")は、この時期をもって廃止される。
+
+### 1981年 - 1984年
+
+（通称MK V）
+
+通常のミニを「ミニH/L」に名称変更。クラブマンシリーズの[ダッシュボードとメーター周りが流用される](../Page/ダッシュボード_\(自動車\).md "wikilink")。
+
+10 in ホイール+フロント[ドラムブレーキ](https://ja.wikipedia.org/wiki/ドラムブレーキ "wikilink")はこの時期までとなる。
+
+1983年、[日英自動車](https://ja.wikipedia.org/wiki/日英自動車 "wikilink")が正規輸入元となり、いわゆる[ディーラー車](https://ja.wikipedia.org/wiki/ディーラー車 "wikilink")の販売を開始する。
+
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、**オースチン・ミニ・メトロ**の発売が失敗に終わるとともに、ミニの生産終了が迫っているといううわさが再び持ち上がった。
+
+[1981年](../Page/1981年.md "wikilink")には[ニュージーランド](../Page/ニュージーランド.md "wikilink")で、[ジェフ・マーフィー](https://ja.wikipedia.org/wiki/ジェフ・マーフィー "wikilink")監督の『明日なき疾走』（ *Goodbye Pork Pie*） というロードムービーにミニが出演した。しかしこの頃には多くの国への輸出市場でミニの人気は低下し始めていた。[南アフリカ](https://ja.wikipedia.org/wiki/南アフリカ "wikilink")や[オーストラリア](../Page/オーストラリア.md "wikilink")、ニュージーランドでの生産はこの頃までに全て中止となった。ニュージーランドでは組み立てラインを当時新たに人気が出ていた[ホンダ・シティ](../Page/ホンダ・シティ.md "wikilink")の生産に切り替えた。
+
+1980年代を通じてイギリス市場では数多くのスペシャル・エディションが発売され、これによってミニは大衆市場向けの製品からファッショナブルなアイコンへと役割を変えていった。現在ミニブランドが[BMW](../Page/BMW.md "wikilink")の所有となっており、それに対してBMCの残りの部門が[ローバー](https://ja.wikipedia.org/wiki/ローバー_\(自動車\) "wikilink")・グループとしてまとめて売却されたのは、ミニが持つこのイメージのためであるとも言える。
+
+人気が高いミニは、一方ではレトロスタイルのモチーフとしても捉えられており、日本の自動車メーカーによって、ミニを模倣した多くの車が生み出される元となっている。
+
+### 1985年 - 1988年
+
+（通称MK VI）
+
+エンジンが[メトロと同じ](https://ja.wikipedia.org/wiki/:en:Rover_Metro "wikilink")、A+（エープラス）に変更される。
+
+フロントディスクブレーキが採用され、それに伴いホイール径が12 in となる。
+
+### 1989年 - 1991年
+
+（通称MK VII）
+
+ブレーキマスターバックを標準装備した。
+
+[1989年](../Page/1989年.md "wikilink")10月、誕生30周年を記念した「サーティー」（4MT 税別179万円）を発表。
+
+1990年12月　ミニ・クーパー復活で世界限定1000台を販売。(内日本は600台） 見分け方はドアミラーがボディ同色とボンネットにジョン・クーパーのステッカー、後ろのロゴがシール、サンルーフが標準装備等。
+
+1.0Lモデルのミニ1000生産終了。
+
+### 1991年 - 1992年
+
+[200px](https://ja.wikipedia.org/wiki/ファイル:Mini_Cooper,_1991.jpg "wikilink")（通称MK VIII） [200px](https://ja.wikipedia.org/wiki/ファイル:Mini_era_turbo_at_the_British_motoring_heritage_museum_gaydon.jpg "wikilink") メトロのエンジンを流用し、全車種1.3Lとなる。
+
+[1991年](../Page/1991年.md "wikilink")、待望の「クーパー」モデルが復活する。新しいクーパーは1960年代のクーパーよりも性能的には若干劣るスペックで一時的に再発売された。この車種は非常に人気を博し、新しいクーパーマークを付けたミニは、1991年終わりにはフル生産体勢に入った。 Engineering Research and Applicationsチューニングの「ERAターボ」は、大きく出張ったエアロパーツに太いタイヤが威圧感を放った限定車だった。
+
+1991年6月、「ERAターボ」、「クーパー1.3」、カスタムや競技用ベースとしての需要を見込んだ、最廉価版の「スプライト」を日本導入（ERAターボ359万円、クーパー1.3 194万円、スプライト144万円 すべて4MT、税別）。次いで7月、[キャンバストップ](https://ja.wikipedia.org/wiki/キャンバストップ "wikilink")（4MT 税別175万円）を日本導入。
+
+### 1992年 - 1996年
+
+（通称MK IX）
+
+1992年、全車[インジェクション化される](../Page/燃料噴射装置.md "wikilink")。これはメインマーケットである日本市場の要望（[クーラー](https://ja.wikipedia.org/wiki/クーラー "wikilink")装着が必須のため）からといわれている。ただし、インジェクションと言ってもシングルポイントインジェクション（SPI）であり、日本車で主流となっている各シリンダーの吸気ポートに噴射する方式ではない。同年6月、インジェクションモデルを日本導入。クーパー1.3iの4MTのみが62馬力、その他のグレードは53馬力となった。
+
+[1994年](../Page/1994年.md "wikilink")にはイシゴニスの甥である [ベルント・ピシェッツリーダー](https://ja.wikipedia.org/wiki/ベルント・ピシェッツリーダー "wikilink")（当時のBMW社長）の下、BMW がローバーグループを統括することとなり、ミニブランドもBMWに買収された。
+
+また同時にBMWは全く新しいミニの開発を始めることを決め、膨大な開発予算を計上している。この頃からコストダウンが目立ち始め、[特別仕様車](../Page/特別仕様車.md "wikilink")の頻繁な発表が相次ぐようになる。
+
+[1996年](../Page/1996年.md "wikilink")6月、モンテカルロラリー出場車を彷彿とさせる4連フォグランプを装備し、Mk I当時のアーモンドグリーンのボディーカラーをまとった誕生35周年記念モデル、「35thアニバーサリー」（4MT 税別189万円）を日本導入。塗色は他にフレームレッドも用意。
+
+### 1997年 - 2000年
+
+（通称MK X）
+
+各国の衝突安全基準に対応するため、ミニにSRS[エアバッグ](https://ja.wikipedia.org/wiki/エアバッグ "wikilink")と、サイドインパクトバーを初採用。この延命策により、ミニの生産打ち切りまで猶予のあることが予想された。
+
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")エンジンを改良。マルチポイントインジェクションエンジンが導入され、点火系が同時点火方式となる。
+
+マルチポイントインジェクション仕様は発表されてから生産終了の2000年までの間、日本には導入されなかった。
+
+1998年1月、13 in ホイールと大型フェンダーを装備した「クーパー スポーツパック・リミテッド」（4MT 税別224.9万円）を日本導入。
+
+4月、[ポール・スミス](../Page/ポール・スミス.md "wikilink")とのコラボレーションモデル、「ポール・スミス」（4MT 税別200.9万円）を日本導入。車内、エンジンタペットカバー、プラグコード、工具入れ、トランク用クッションなどにアクセントカラーのライムグリーンを配した。
+
+8月、1968年のブリティッシュ・サルーン・カー・チャンピオンシップ（BSCC）のクラス優勝と、総合優勝の30周年記念モデルとして、「クーパーBSCCリミテッド」（4MT 税別229万円）を日本導入。 「クーパー スポーツパック・リミテッド」がベースとなる。
+
+1999年6月、誕生40周年記念の「40th アニバーサリー・リミテッド」を日本導入。
+
+同年9月、「クーパー 40th アニバーサリー・リミテッド」を日本導入。
+
+[2000年](../Page/2000年.md "wikilink")当時、ローバーは依然として莫大な赤字を抱えており、BMWはMGローバーのほとんどの部門を整理することを決定した。
+
+[MG](../Page/MG_\(自動車\).md "wikilink") とローバーは新たに設立されたイギリスの合弁企業であるフェニックスに売却され、[ランドローバー](../Page/ランドローバー.md "wikilink")は[フォードに売却された](https://ja.wikipedia.org/wiki/フォード・モーター "wikilink")。
+
+BMWはローバーグループにより開発継続中であったミニ、およびブランド名を自社に残し、現在では完全に新しいミニを生産販売している。
+
+オリジナルのミニは、少なくともヨーロッパでは、主な競合車種である[フォルクスワーゲン・ビートルや](../Page/フォルクスワーゲン・タイプ1.md "wikilink")[シトロエン・2CV](https://ja.wikipedia.org/wiki/シトロエン・2CV "wikilink")、そして跡継ぎのメトロなどの大衆車達より、長く生き抜いた。最後のミニは2000年10月に組み立てラインを離れた。この年までに合計で530万台のミニが生産された。生産終了となる経緯については各国における衝突安全性や排出ガスの基準見直しによるところが大きいと言われている。末期は生産数のかなりの割合が日本向けとなっていたが、もはや新基準にミニは合致しなかったのである。
+
+1999年12月、1900年代の [カー・オブ・ザ・センチュリー](https://ja.wikipedia.org/wiki/:en:Car_of_the_Century "wikilink") を選ぶ投票がアメリカ・ラスベガスで行われ、ミニは第2位となり、ヨーロッパ車で最高の得票を得た（Car Of The Century は[フォード・モデルT](https://ja.wikipedia.org/wiki/フォード・モデルT "wikilink")が受賞した）[1](https://archive.is/20050204231622/http://info.detnews.com/joyrides/story/index.cfm?id=75)。
+
+生産終了後も日本国内のミニへの人気は根強いものがあり、専門店が全国に数多くある。
+
+### バリエーションモデル
+
+異なる市場に向けた様々な派生モデルが生まれた。
+
+  - 1961年、[バッジエンジニアリング](https://ja.wikipedia.org/wiki/バッジエンジニアリング "wikilink")による**[ウーズレー](../Page/ウーズレー.md "wikilink")・ホーネット**（1930年代の[スポーツカー](../Page/スポーツカー.md "wikilink")「[Wolseley Hornet six](https://ja.wikipedia.org/wiki/:en:Wolseley_Hornet_six "wikilink")」の名前の復刻）と**[ライレー](../Page/ライレー.md "wikilink")・エルフ**（ラグジュアリーカーの名門ブランド）を投入する。1952年以降のBMC時代、両ブランドは外観が同じで中身（仕様）で差別化されていたが、ADO15では仕様が同じで外観がわずかに異なっている。ホーネットがスポーティー、エルフがより上級な位置づけであったが、そのイメージは主に宣伝によって作られた。
+
+<!-- end list -->
+
+  -
+    両車とも、リアオーバーハングを延長して車体を[3BOXとし](../Page/ノッチバック.md "wikilink")、トランク容積を稼いでいる。小ぶりな[テールフィン](https://ja.wikipedia.org/wiki/テールフィン "wikilink")を持ち、[リアコンビランプを収めている](https://ja.wikipedia.org/wiki/尾灯 "wikilink")。フロントデザインも変更され、ミニマムサイズながら上級[サルーンとして仕立てられた](../Page/セダン.md "wikilink")。プレーンなグリル枠で、縦枠上部に楕円形のウーズレーのイルミネーションエンブレム（[行灯](../Page/行灯.md "wikilink")式）がついているのがホーネット、[盾](https://ja.wikipedia.org/wiki/盾 "wikilink")形のフロントグリルの上枠にひし形のライレーのブルーダイヤモンドエンブレムがついているのがエルフである。
+
+<!-- end list -->
+
+  - ウーズレー・ホーネット (Wolseley Hornet)：1961 - 1969 生産台数：28,455台
+  - ライレー・エルフ (Riley Elf)：1961 - 1969 生産台数：30,912台
+
+{{-}} [thumb](https://ja.wikipedia.org/wiki/ファイル:MHV_Austin_Mini_850_Estate_Woody_02.jpg "wikilink")
+
+  - **モーリス・ミニ・トラベラー** / **オースチン・ミニ・カントリーマン**
+
+<!-- end list -->
+
+  -
+    1960年 - 1969年（英国のみ）
+    [大衆車](https://ja.wikipedia.org/wiki/大衆車 "wikilink")として標準的な2ドアの[エステートで](../Page/ステーションワゴン.md "wikilink")、上下開き、または観音開きのバックドアを装備している。高級モデルでは、荷室部分とバックドアに木製の飾りフレームがあしらわれている。
+
+{{-}}
+
+  - **バン / ピックアップ**
+
+<!-- end list -->
+
+  -
+    業務用の[ライトバン](../Page/ライトバン.md "wikilink")と[ピックアップトラック](https://ja.wikipedia.org/wiki/ピックアップトラック "wikilink")モデルである。どちらもエステートモデル同様のロングホイールベースシャーシを使用している。バンのリアクォーターウインドウを省略することにより、イギリスでは税金が安くなることから、若者達にも人気が出た。バックドアは観音開きで、ルーフ[ベンチレーター](../Page/ベンチレーター.md "wikilink")の設定もある。ピックアップはキャブと荷箱が分かれていないワンピースボディとなっている。
+
+{{-}}
+
+  - **ミニ・モーク**
+
+## ミニのパワートレインを使ったクルマ
+
+サブフレームの上に走るための仕組みが全て詰まったミニのパワートレインは、バックヤードビルダーと呼ばれる小規模な自動車メーカーや、安価な[レーシングカー](../Page/レーシングカー.md "wikilink")を望むプライベーターには打ってつけで、たちまちのうちに引っ張りだことなった。これらは資料が残っているものだけでも、120種以上ある。
+
+ファイル:Unipower 1977 small.jpg|[ユニパワーGT](https://ja.wikipedia.org/wiki/:en:Unipower_GT "wikilink")
+（[ミッドシップ](../Page/ミッドシップ.md "wikilink")） ファイル:MiniMarcos.jpg|[ミニ・マーコスGT](https://ja.wikipedia.org/wiki/:en:Mini_Marcos "wikilink") ファイル:Gtm 1978.jpg|[COX・GTM](https://ja.wikipedia.org/wiki/:en:GTM_Cars "wikilink")
+（[ミッドシップ](../Page/ミッドシップ.md "wikilink")） ファイル:Ogle SX1000 comp.jpg|[オーグル・SX1000](https://ja.wikipedia.org/wiki/:en:Ogle_Design "wikilink") ファイル:MIdas1979.jpg|[マイダス・ゴールド](https://ja.wikipedia.org/wiki/:en:Midas_Cars "wikilink")
+
+## 脚注
+
+### 注釈
+
+<references group="注釈" />
+
+### 出典
+
+## 関連項目
+
+  - [光岡・レイ](../Page/光岡・レイ.md "wikilink") - ライレー・エルフを模した[レトロ](../Page/レトロ.md "wikilink")調[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")。
+
+[Category:BMC/BLMC/BLの車種](https://ja.wikipedia.org/wiki/Category:BMC/BLMC/BLの車種 "wikilink") [Category:イギリスの自動車メーカー・ブランド](https://ja.wikipedia.org/wiki/Category:イギリスの自動車メーカー・ブランド "wikilink") [Category:ラリーカー](https://ja.wikipedia.org/wiki/Category:ラリーカー "wikilink") [Category:セダン](https://ja.wikipedia.org/wiki/Category:セダン "wikilink") [Category:ステーションワゴン](https://ja.wikipedia.org/wiki/Category:ステーションワゴン "wikilink") [Category:ライトバン](https://ja.wikipedia.org/wiki/Category:ライトバン "wikilink") [Category:ピックアップトラック](https://ja.wikipedia.org/wiki/Category:ピックアップトラック "wikilink")
+
+1.  その場合、国内向けに車体サイズが近似な[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")版も予定されていた。
+2.  武田隆　『世界と日本のFF車の歴史』　グランプリ出版　2009年5月25日　p.66
+3.  三栄書房「ラリー&クラシックス　Vol.4　"名優たち"の攻防」参考。

@@ -1,0 +1,187 @@
+> この記事は[AGF](https://ja.wikipedia.org/wiki/AGF)から翻訳されています。
+
+
+**味の素AGF株式会社**（あじのもとエージーエフ）は、東京都に本社を置く飲食料品の製造及び販売を手がける[食品メーカー](https://ja.wikipedia.org/wiki/食品メーカー "wikilink")。
+
+[味の素](../Page/味の素.md "wikilink")と、[米](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ゼネラルフーヅ](https://ja.wikipedia.org/wiki/ゼネラルフーヅ "wikilink")（当時、現在の[モンデリーズ・インターナショナル](https://ja.wikipedia.org/wiki/モンデリーズ・インターナショナル "wikilink")）との[合弁会社](https://ja.wikipedia.org/wiki/合弁会社 "wikilink")として設立後、2015年10月に味の素の100%子会社となり\[1\]、2017年7月に「**味の素ゼネラルフーヅ**」から現社名へ変更された。
+
+## 概要
+
+コーヒーを中心とした飲料を強みとする。競合他社は、[ネスレ日本](../Page/ネスレ日本.md "wikilink")、[キーコーヒー](../Page/キーコーヒー.md "wikilink")、[UCC上島珈琲](../Page/UCC上島珈琲.md "wikilink")、[三本珈琲](https://ja.wikipedia.org/wiki/三本珈琲 "wikilink")などがある。1998年までは、[ペットフード](https://ja.wikipedia.org/wiki/ペットフード "wikilink")も販売していた。国内でのコーヒーシェアは高い。社内外では専らAGFの略称で呼ばれ、正式名称で呼ばれることは少ない。
+
+企業キャッチコピーは「**いつでも、ふぅ。**」。2015年からCMに使用されているサウンドロゴは、1980年代からギフト関連のCMに使われていたサウンドロゴをリメイクしたもの。
+
+## 工場
+
+  - 鈴鹿工場（AGF鈴鹿株式会社）
+    [インスタントコーヒー](../Page/インスタントコーヒー.md "wikilink")・レギュラーコーヒー・ボトルコーヒーを製造。
+    [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[鈴鹿市](../Page/鈴鹿市.md "wikilink")南玉垣町6410
+  - 関東工場（AGF関東株式会社）
+    レギュラーコーヒー・ボトルコーヒーを製造。
+    [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[太田市](../Page/太田市.md "wikilink")世良田町1588-16
+
+## 沿革
+
+  - 1954年3月　創業。当時は「ゼネラル・フーヅ株式会社」（[米国ゼネラルフーヅ社の日本法人](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")）だった。
+  - 1954年12月　現在[アサヒ飲料](../Page/アサヒ飲料.md "wikilink")で販売中のブランド「[バャリース](https://ja.wikipedia.org/wiki/バヤリース "wikilink")」のオレンジ、グレープ原液の発売を開始
+  - 1960年　後述するマキシムシリーズ、およびブレンディの母体となるインスタントコーヒー「マックスウェル」発売
+  - 1968年　贈答用・コーヒーギフトセットを発売。同年「ユーバン」を発売。
+  - 1971年　[フリーズドライ](../Page/フリーズドライ.md "wikilink")製法によるインスタントコーヒー「マキシム」発売
+  - 1972年　「ゲインズ」ブランドでペットフード事業に参入。ドライタイプで強みを発揮。
+  - 1973年8月　味の素と米国ゼネラルフーヅ（のちに旧・クラフトフーズ、現・[モンデリーズ・インターナショナル](https://ja.wikipedia.org/wiki/モンデリーズ・インターナショナル "wikilink")）との合弁によって「味の素ゼネラルフーヅ株式会社」が設立される
+  - 1974年　クリーミングパウダー「マリーム」の発売を開始
+  - 1977年　インスタントコーヒー「マックスウェル」の横展開商品として「マックスウェル・ブレンディ」発売（のちに"マックスウェル"の冠名が取れ、独立して"ブレンディ"の名称になる）
+  - 1977年 [バレンシアオレンジ](../Page/バレンシアオレンジ.md "wikilink")ほか3種類の果汁による瓶入り[粉末ジュース](https://ja.wikipedia.org/wiki/粉末ジュース "wikilink")「[フルーティ](https://ja.wikipedia.org/wiki/フルーティ "wikilink")」発売開始
+  - 1978年2月　レギュラーコーヒーシリーズ「マスターブレンド」発売開始
+  - 1979年頃　米ゼネラルフーヅ社の商品で[炭酸](../Page/炭酸.md "wikilink")の入ったはじけるザラメ状の[キャンデー](https://ja.wikipedia.org/wiki/飴 "wikilink")「[テレパッチ](https://ja.wikipedia.org/wiki/テレパッチ "wikilink")（1995年販売終了）」をライセンス発売（のちにテレパッチの持つ刺激を強化した「ドンパッチ」（2000年販売終了）のライセンス販売も開始。これが「はじける菓子」のブームとなり、明治製菓などの同業メーカーから「ガムパッチ」や、はじける[綿飴](https://ja.wikipedia.org/wiki/綿飴 "wikilink")「わたパチ」などが相次ぎ発売された。
+  - 1982年4月　業務用レギュラーコーヒーの発売開始
+  - 1982年8月　高級インスタントコーヒー「グランデージ」発売
+  - 1985年　マキシムブランドのレギュラーコーヒー発売開始
+  - 1985年　ゼネラルフーヅがフィリップ・モリス（現[アルトリア](https://ja.wikipedia.org/wiki/アルトリア "wikilink")）に買収される。
+  - 1988年5月　ボトルシリーズ（ブレンディボトルコーヒー、紅茶物語ボトルティー）発売開始
+  - 1988年8月　インスタントティー「新茶人」発売
+  - 1990年　フィリップ・モリス（現 [アルトリア](https://ja.wikipedia.org/wiki/アルトリア "wikilink")）が傘下のクラフトフーヅ（前年に買収）とゼネラルフーヅを合併させ「クラフトゼネラルフーヅ」（KGF、現 [モンデリーズ・インターナショナル](https://ja.wikipedia.org/wiki/モンデリーズ・インターナショナル "wikilink")）とする。ゼネラルフーヅは法人としては消滅。
+  - 1990年3月　「ブレンディ 缶コーヒー」シリーズ発売（発売元は[カルピス](https://ja.wikipedia.org/wiki/カルピス "wikilink")株式会社） 缶コーヒー市場に参入
+  - 1996年7月　天然素材使用の新しいタイプのドッグフード「ゲインズ」セレクションシリーズ（「ゲインズ・３０種類ミックス」「ゲインズ・ソフト厳選グルメ」）発売
+  - 1997年　マルチビタミン飲料「ビタホット」発売
+  - 1997年　インスタントミルクシェイク「フリフリシェイク」発売（1998年まで）。CMソングにDOKI DOKI パニックの「フリフリシェイク」を起用していた。子役時代の[ウエンツ瑛士](https://ja.wikipedia.org/wiki/ウエンツ瑛士 "wikilink")が出演。
+  - 1998年5月　[缶コーヒー](../Page/缶コーヒー.md "wikilink")シリーズ「ブレンディ　挽きたてカフェ」発売（発売元は[カルピス](https://ja.wikipedia.org/wiki/カルピス "wikilink")株式会社）
+  - 1998年　「ゲインズパックン」「ゲインズキャッティ」ブランドのペットフード事業（製造は兵庫県の伊丹工場）を[ユニ・チャーム](https://ja.wikipedia.org/wiki/ユニ・チャーム "wikilink")に譲渡\[2\]
+  - 2000年　ブレンディブランドのレギュラーコーヒー発売開始
+  - 2001年2月　ブレンディ・ドリップパック・レギュラーコーヒー発売（パッケージを組み立ててお湯を注ぐだけでレギュラーコーヒーが簡単に味わえる）
+  - 2002年2月　マキシム・ハンディードリップ発売
+  - 2002年3月　マキシム・インスタントコーヒー・袋入り発売
+  - 2002年10月　ブレンディ・インスタントコーヒー・袋入り発売
+  - 2003年2月　ブレンディ・ティーシリーズ発売
+  - 2003年3月　マキシムカフェメニュー・チルドコーヒー発売
+  - 2007年9月　業界初の[特定保健用食品（トクホ）の肩書きを得たペットボトル入りコーヒー飲料](../Page/健康食品.md "wikilink")「ブレンディ　香るブラック」（280mlペットボトル。2009年2月に「ブレンディプラス　ブラック」に改名）
+  - 2008年9月 ミルク入りコーヒー飲料、およびボトル型缶コーヒーとしては業界初の体脂肪特定保健用食品（トクホ）の認定を得た「ブレンディ　香るコーヒー&ミルク」（275gボトル缶。2009年2月に「ブレンディプラス　コーヒー&ミルク」に改名）発売開始
+  - 2009年4月 ブレンド系缶コーヒーとしては業界初の体脂肪特定保健用食品（トクホ）の認定を得た[CVS限定](../Page/コンビニエンスストア.md "wikilink")「ブレンディプラス　微糖タイプ」（185g缶）発売開始
+  - 2009年9月 「ブレンディプラス　微糖タイプ」をリニューアルし商品名を「ブレンディプラス 缶」（185g缶）に改名。これに伴い「ブレンディプラス　ブラック」（280mlペットボトル）と「ブレンディプラス　コーヒー&ミルク」（275gボトル缶）はそれぞれ廃止。
+  - 2010年3月 「ブレンディ 挽きたてカフェオレ カロリーハーフ」（185g缶）発売開始
+  - 2013年8月 インスタントコーヒーに微粉砕豆をコーヒー濃縮液に安定的に投下・混合、フリーズドライ化し、レギュラーコーヒーに匹敵する味と香りを実現した「<マキシム> トップグレード ハイブリッド」発売開始\[3\]
+  - 2015年10月 日本の合弁相手で経営主導権を持つ[味の素](../Page/味の素.md "wikilink")が全ての株式を取得して完全子会社化\[4\]
+  - 2016年4月 味の素よりギフト事業を譲受\[5\]
+  - 2016年11月 ライセンスを受けていた「ブレンディ」「マキシム」等の商標を味の素が取得\[6\]
+  - 2017年7月 「味の素AGF株式会社」に社名変更\[7\]
+
+## 商品
+
+  - ブレンディ
+  - マキシム
+  - ちょっと贅沢な珈琲店 - 2007年3月発売。元々は「マキシム」のシリーズ品として発売されていたが、2017年秋より独立ブランド化している。
+  - マリーム
+
+なお、2017年10月に味の素グループ共通のグローバルブランドロゴ導入に伴い、2018年秋の新製品・リニューアル品からパッケージの側面や裏面に味の素のコーポレートスローガンである「Eat Well, Live Well.」付の味の素のロゴマークが新たに表記されている。
+
+## 提供番組
+
+### 現在
+
+  - [くにまるジャパン](https://ja.wikipedia.org/wiki/くにまるジャパン "wikilink")（[文化放送](../Page/文化放送.md "wikilink")） - 2011年1月4日より番組内コーナー「Blendy stick ブレイクタイム」（11:50頃 - 11:55頃）提供。
+  - [ほっとするわ](https://ja.wikipedia.org/wiki/ほっとするわ "wikilink")（[関西テレビ他](../Page/関西テレビ放送.md "wikilink")） - 2014年1月6日～。[一社提供](../Page/一社提供.md "wikilink")スポンサーを務めるミニ番組。
+
+このほか、他の味の素提供番組（例として「[ごはんジャパン](https://ja.wikipedia.org/wiki/ごはんジャパン "wikilink")」などがある）内で稀に流される。
+
+### 過去
+
+  - [夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")（フジテレビ） - 初期のスポンサー。現在の「味の素ゼネラルフーヅ」となる前にスポンサーを降板している。
+  - [3時のあなた](../Page/3時のあなた.md "wikilink")（フジテレビ） - 同上。
+  - [ゴールデン洋画劇場](https://ja.wikipedia.org/wiki/ゴールデン洋画劇場 "wikilink")（フジテレビ） - ゼネラルフーヅ時代では「マックスウェル」と表記される。
+  - [ごちそうさま](https://ja.wikipedia.org/wiki/ごちそうさま_\(テレビ番組\) "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系](../Page/日本テレビネットワーク協議会.md "wikilink")） - 提供クレジットは、親会社の味の素として表示されていたが、実際には[OP明けから本編に入るまでの](https://ja.wikipedia.org/wiki/オープニング "wikilink")1分間を中心に当社のCMが1週間平均で親会社よりも遥かに多く流れていた。
+  - [水曜ロードショー](https://ja.wikipedia.org/wiki/水曜ロードショー_\(日本テレビ\) "wikilink")→[金曜ロードショー](https://ja.wikipedia.org/wiki/金曜ロードSHOW! "wikilink")（日本テレビ系） - 金曜ロードショーに移転後の後期は30秒×1本＝「ご覧のスポンサー」扱い。こちらでは「ごちそうさま」とは逆に味の素のCMを流すことが1ヶ月に最低でも1回は必ずといっていいほどあった。
+  - [金曜劇場](../Page/金曜劇場_\(フジテレビ\).md "wikilink")（フジテレビ系）
+  - [金曜女のドラマスペシャル](https://ja.wikipedia.org/wiki/金曜女のドラマスペシャル "wikilink")（フジテレビ系）
+  - [笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")（フジテレビ系） - 30秒×1本=「ご覧のスポンサー」扱い。[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")は、親会社の味の素として表示されるが、当社のCMも流れることがある。隔日。
+  - [木曜劇場](https://ja.wikipedia.org/wiki/木曜劇場 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系](../Page/フジネットワーク.md "wikilink")） - 開始当初から2016年9月まで。親会社の味の素（偶数月）と交互の提供で、AGFは奇数月に担当していた。2008年3月までは60秒。2008年4月から大筆頭に昇格し2010年3月まで90秒、2010年4-9月は120秒、2010年10月-2016年9月は90秒で、クレジットにキャッチコピーの「いつでも、ふぅ。 AGF」のアナウンスが付いていた。2016年10月に味の素グループとしてのCM枠が60秒に再短縮されたため、表面上のクレジットは奇数月を含め味の素に一本化されたが、不定期でAGFのCMを流す日もある。また、[J-オイルミルズ](../Page/J-オイルミルズ.md "wikilink")や[ヤマキ](https://ja.wikipedia.org/wiki/ヤマキ "wikilink")のCMも流していることもある。
+  - [コーヒータイム](https://ja.wikipedia.org/wiki/コーヒータイム "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")） - 現在の『[ディア・フレンズ](https://ja.wikipedia.org/wiki/赤坂泰彦のディア・フレンズ "wikilink")』枠。時期は不明だが、現在は降板している。
+  - [吉田たかよし プラス\!](../Page/吉田たかよし_プラス!.md "wikilink")（文化放送） - 内包番組「[Dr.たかよしの健康クリニック](https://ja.wikipedia.org/wiki/吉田たかよし "wikilink")」提供。
+  - [吉田照美 ソコダイジナトコ](../Page/吉田照美_ソコダイジナトコ.md "wikilink")（文化放送） - 内包番組「吉田健康〜あなたのドクターたかよしです〜」提供。2010年12月31日をもって降板（番組自体は2011年4月1日まで継続）。
+      - 番組内で流れるCMは、[鈴木光裕](../Page/鈴木光裕.md "wikilink")文化放送アナウンサー（最末期は[高橋将市](../Page/高橋将市.md "wikilink")同アナウンサー）のナレーションによる特別バージョンであった。
+  - [NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")（1970年代後期）
+  - [素敵な女たち](https://ja.wikipedia.org/wiki/素敵な女たち "wikilink")（[東京12チャンネル](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [世界名画の旅](../Page/世界名画の旅.md "wikilink")→[旅の街から](https://ja.wikipedia.org/wiki/旅の街から "wikilink")（[ABC](../Page/朝日放送テレビ.md "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系にて日曜朝](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")10:00-10:30に放送された）
+  - [欽ちゃんのどこまでやるの\!?](https://ja.wikipedia.org/wiki/欽ちゃんのどこまでやるの!? "wikilink")（テレビ朝日系）- 1981年4月以降は提供クレジットが当社から味の素に変更されるが、当社のCMは引き続きそのまま流された。
+  - [土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")（同上）-　1987年10月-2000年3月。提供クレジットが味の素であっても5分5分の割合で流されていた（週によっては味の素のみ流されていた放送分もあった）。
+  - [ほんパラ\!関口堂書店](https://ja.wikipedia.org/wiki/ほんパラ!関口堂書店 "wikilink")→ほんパラ\!痛快ゼミナール（同上） - こちらもCMパターンは土曜ワイド劇場と同じ。
+  - [TBS木曜8時枠の連続ドラマ](../Page/TBS木曜8時枠の連続ドラマ.md "wikilink")（TBS系） - 提供クレジットは味の素であっても、実際には当社のCMが流れる確率が高く、1ヶ月平均で味の素を遙かに上回っていた。
+  - [TBS金曜9時枠の連続ドラマ](../Page/TBS金曜9時枠の連続ドラマ.md "wikilink")（同上） - こちらも提供クレジットは味の素だが、こちらはほぼ5分5分の割合（1回につき当社と味の素のCMを1本ずつ）で流されていた。
+  - [大沢悠里のゆうゆうワイド](../Page/大沢悠里のゆうゆうワイド.md "wikilink")（[TBSラジオ](../Page/TBSラジオ.md "wikilink")） - 番組内トークコーナー「AGF 悠里のおしゃべりカフェ」提供。コーナーのオープニング（概ね9：40頃）ではコーヒーをカップに注ぐ音が流れ、パーソナリティーの大沢悠里による、「さ、ここで、一息入れませんか？」のナレーションが入る（グラスに氷を入れて注ぐ音の夏バージョンもある）。ゲストには商品詰め合わせを進呈し、その模様も流れ、大半のゲストが「あー嬉しい。毎朝飲んでいるから良かったです」という反応が聞かれる。
+  - [関口宏の東京フレンドパークII](../Page/関口宏の東京フレンドパークII.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")[系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")） - 30秒×1本＝「ご覧のスポンサー」扱い（2009年3月23日をもって月曜18:55の放送終了\<平日19時台の「[総力報道\!THE NEWS](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS "wikilink")」帯編成に伴う木曜19:55へ放送時間変更\>を機に降板。この30秒枠分は2009年4月以降土曜19時へ移ったフジテレビ系の番組へ提供枠ごと移動されている。しかし、「[潜入\!リアルスコープハイパー](https://ja.wikipedia.org/wiki/潜入!リアルスコープハイパー "wikilink")」の放送中2013年10月改編より30秒削られた。削られた30秒分は「FNNスーパーニュース」の全国ネットニュースパートへ再度枠を移動している。）。
+  - [水曜プレミア](https://ja.wikipedia.org/wiki/水曜プレミア "wikilink")（TBS系）-30秒×1本=「ご覧のスポンサー」扱い。
+
+## CM出演者
+
+### 現在
+
+  - [原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")、[北村一葉](../Page/北村一葉.md "wikilink")（ブレンディ）
+  - [水野真紀](../Page/水野真紀.md "wikilink")（マキシムシリーズ）
+  - [椎名桔平](../Page/椎名桔平.md "wikilink")（AGFギフト）
+  - [佐々木健介](https://ja.wikipedia.org/wiki/佐々木健介 "wikilink")・[北斗晶](https://ja.wikipedia.org/wiki/北斗晶 "wikilink")夫妻（ブレンディスティック、声の出演のみ）
+  - [又吉直樹](https://ja.wikipedia.org/wiki/又吉直樹 "wikilink")（ブレンディ、マキシムなど）
+  - [北川景子](https://ja.wikipedia.org/wiki/北川景子 "wikilink")（ブレンディ カフェラトリースティック）\[8\]
+  - [岩田剛典](https://ja.wikipedia.org/wiki/岩田剛典 "wikilink")（ブレンディ®スティック）
+
+### 過去（架空のキャラクターを含む）
+
+  - [ポール・ニューマン](../Page/ポール・ニューマン.md "wikilink")（1980年-1982年、マックスウェル・ブレンディ）
+  - [カーク・ダグラス](../Page/カーク・ダグラス.md "wikilink")（1975年-1983年、マキシム。前述の通り「ごちそうさま」で頻繁に流されており、OP明けの1分がこのCMで独占されたこともあった）
+  - [スコット・カーペンター](https://ja.wikipedia.org/wiki/スコット・カーペンター "wikilink")（1982年、マキシム）
+  - [テリー・サバラス](https://ja.wikipedia.org/wiki/テリー・サバラス "wikilink")（1980年、マスターブレンド）
+  - [シルビア・クリステル](https://ja.wikipedia.org/wiki/シルビア・クリステル "wikilink")
+  - [レイ・ブラッドベリ](../Page/レイ・ブラッドベリ.md "wikilink")（マキシム）
+  - [阿藤快](https://ja.wikipedia.org/wiki/阿藤快 "wikilink")
+  - [岩城滉一](https://ja.wikipedia.org/wiki/岩城滉一 "wikilink")（マキシムレギュラーコーヒー）
+  - [永島暎子](../Page/永島暎子.md "wikilink")（マキシムレギュラーコーヒー）
+  - [真野響子](../Page/真野響子.md "wikilink")（1980年、ユーバン）
+  - [財前直見](../Page/財前直見.md "wikilink")（ブレンディ）
+  - [三原康可](../Page/三原康可.md "wikilink")（ブレンディ）
+  - [織田裕二](../Page/織田裕二.md "wikilink")（マキシム）
+  - [バットマン](https://ja.wikipedia.org/wiki/バットマン "wikilink")（声: [竹中直人](../Page/竹中直人.md "wikilink")）（1990年、ブレンディ缶コーヒー）
+  - [桜井幸子](../Page/桜井幸子.md "wikilink")
+  - [恵俊彰](../Page/恵俊彰.md "wikilink")
+  - [羽田美智子](https://ja.wikipedia.org/wiki/羽田美智子 "wikilink")
+  - [別所哲也](../Page/別所哲也.md "wikilink")
+  - [西岡徳馬](../Page/西岡徳馬.md "wikilink")
+  - [堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink")
+  - [薬丸裕英](../Page/薬丸裕英.md "wikilink")・[石川秀美](https://ja.wikipedia.org/wiki/石川秀美 "wikilink")夫妻（AGFコーヒーギフト）
+  - [西村雅彦](https://ja.wikipedia.org/wiki/西村雅彦 "wikilink")
+  - [深津絵里](https://ja.wikipedia.org/wiki/深津絵里 "wikilink")
+  - [岸谷五朗](https://ja.wikipedia.org/wiki/岸谷五朗 "wikilink")（1994年、ブレンディ缶コーヒー）
+  - [DOKI DOKI パニック](https://ja.wikipedia.org/wiki/DOKI_DOKI_パニック "wikilink")（1997年-1998年、フリフリシェイク。CMソングも担当）\[9\]
+  - [川崎愛](../Page/橋本愛_\(1978年生\).md "wikilink")（1997年-1998年、フリフリシェイク）\[10\]
+  - [ウエンツ瑛士](https://ja.wikipedia.org/wiki/ウエンツ瑛士 "wikilink")（1997年-1998年、フリフリシェイク）
+  - [神木隆之介](https://ja.wikipedia.org/wiki/神木隆之介 "wikilink")（1997年-1998年、フリフリシェイク）
+  - [碇由貴子](https://ja.wikipedia.org/wiki/碇由貴子 "wikilink")（2005年-2008年、ブレンディインスタントコーヒー）
+  - [徳永えりか](https://ja.wikipedia.org/wiki/徳永えりか "wikilink")（2005年-2008年、ブレンディボトルコーヒー）
+  - [鹿賀丈史](../Page/鹿賀丈史.md "wikilink")（2007年、香るブラック）
+  - [石井萌々果](https://ja.wikipedia.org/wiki/石井萌々果 "wikilink")（2009年、ブレンディボトルコーヒー）
+  - [所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")（ドンパッチ）
+  - [サンプラザ中野](https://ja.wikipedia.org/wiki/サンプラザ中野くん "wikilink")（ドンパッチ）
+  - [山田康雄](../Page/山田康雄.md "wikilink")（テレパッチ）
+  - [中村俊介](https://ja.wikipedia.org/wiki/中村俊介 "wikilink")（ブレンディ香るブラック）
+
+## 脚注
+
+## 関連項目
+
+  - [石垣池公園](https://ja.wikipedia.org/wiki/石垣池公園 "wikilink") - [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[鈴鹿市](../Page/鈴鹿市.md "wikilink")の工場を運営する「AGF鈴鹿株式会社」が[2016年](../Page/2016年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から8年間、石垣池公園[陸上競技場](../Page/陸上競技場.md "wikilink")の[命名権](https://ja.wikipedia.org/wiki/命名権 "wikilink")を取得。**AGF鈴鹿陸上競技場**と称する。
+  - [鈴鹿市立体育館](https://ja.wikipedia.org/wiki/鈴鹿市立体育館 "wikilink") - 上記と同じ期間の命名権をAGF鈴鹿が取得、**AGF鈴鹿体育館**と称する。
+  - [東京スタジアム](../Page/東京スタジアム_\(多目的スタジアム\).md "wikilink") - 親会社の味の素が命名権を取得、2019年3月よりメインスタジアム（味の素スタジアム）に隣接する西競技場を**AGFフィールド**と称する。
+
+## 外部リンク
+
+  - [味の素AGF](https://www.agf.co.jp/index.html)
+
+[Category:日本の飲料メーカー](https://ja.wikipedia.org/wiki/Category:日本の飲料メーカー "wikilink") [Category:日本のコーヒー会社](https://ja.wikipedia.org/wiki/Category:日本のコーヒー会社 "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:味の素](https://ja.wikipedia.org/wiki/Category:味の素 "wikilink") [Category:外資系発祥の日本企業](https://ja.wikipedia.org/wiki/Category:外資系発祥の日本企業 "wikilink") [Category:1973年設立の企業](https://ja.wikipedia.org/wiki/Category:1973年設立の企業 "wikilink") [Category:鈴鹿市](https://ja.wikipedia.org/wiki/Category:鈴鹿市 "wikilink") [Category:太田市](https://ja.wikipedia.org/wiki/Category:太田市 "wikilink")
+
+1.
+2.  正確には同社子会社で創業事業の建材事業が移管されたユニ・タイセイに、親会社のペット事業ともども移管された。ユニ・タイセイはユニ・ハートス→[ユニ・チャームペットケア](../Page/ユニ・チャームペットケア.md "wikilink")を経て2010年に親会社のユニ・チャームに吸収合併され、社内カンパニーのペットケアカンパニーとなっている。尚、「ゲインズ」ブランドは全て廃止されており、愛犬用の「ゲインズパックン」は「愛犬元気」のシリーズ品に移行され「愛犬元気ゲインズパックン」への改名を経て「愛犬元気パックン」に再改名され現存。愛猫用は「ねこ元気」や「銀のスプーン」として再出発している。
+3.  [“インスタント×レギュラー”のいいとこ取りＮＥＷコーヒー「〈マキシム〉トップグレード　ハイブリッド」新登場 インスタントコーヒーなのに、まるでレギュラーコーヒーの味・香り！](http://www.agf.co.jp/company/news/2013-07-08-581.html/) - 味の素ゼネラルフーヅ 2013年7月8日（2013年10月7日閲覧）
+4.  [味の素株式会社、モンデリーズ社の保有する味の素ゼネラルフーヅ株式会社の全株式を270億円で取得についての記者会見資料](http://www.ajinomoto.com/jp/ir/pdf/presentation/Presentation_J_0227.pdf)2015年2月27日（2015年3月8日閲覧）
+5.  [味の素(株)、ギフト事業を味の素ゼネラルフーヅ(株)へ譲渡し、両社のギフト事業を統合](https://www.ajinomoto.com/jp/presscenter/press/detail/2015_10_06.html) - 味の素 2015年10月6日
+6.  [味の素（株）、味の素ゼネラルフーヅ（株）がライセンスを受けている「Blendy」「MAXIM」等の全商標を取得](https://www.ajinomoto.com/jp/presscenter/press/detail/2016_10_31.html) - 味の素 2016年10月31日
+7.
+8.
+9.  [これが「フリフリシェイク」CM撮影の舞台裏](http://www.geocities.co.jp/Hollywood/2176/cm.html)(2016/3/14閲覧)
+10.

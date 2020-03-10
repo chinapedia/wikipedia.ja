@@ -1,0 +1,92 @@
+> この記事は[YKK \(\)](https://ja.wikipedia.org/wiki/YKK_\(\))から翻訳されています。
+
+
+**YKK**（ワイケーケー）は、[自由民主党所属の](../Page/自由民主党_\(日本\).md "wikilink")[衆議院議員](https://ja.wikipedia.org/wiki/衆議院議員 "wikilink")であった[山崎拓](../Page/山崎拓.md "wikilink")、[加藤紘一](../Page/加藤紘一.md "wikilink")、[小泉純一郎](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")による盟友関係。**YKKトリオ**とも呼ばれる。ローマ字表記した際の3人の頭文字 (Yamasaki, Katô, Koizumi) を[ジッパー](https://ja.wikipedia.org/wiki/ジッパー "wikilink")の製造で有名な大手非鉄金属メーカー[YKK](https://ja.wikipedia.org/wiki/YKK "wikilink")に掛けて、このように呼ばれるようになった。山崎によると、「YKK」のネーミングは加藤が発案したという\[1\]。
+
+## 沿革
+
+[1991年](../Page/1991年.md "wikilink")、自民党で実権を握っていた竹下派（[経世会](https://ja.wikipedia.org/wiki/経世会 "wikilink")）に対抗する勢力として、加藤が同期のグループをつくろうと山崎と小泉に呼びかけたのが始まり。
+
+この3人は[1972年](../Page/1972年.md "wikilink")初当選の同期組であり、1期生の頃、国会での議席が隣り合っていたため、仲が良かったと同時に宿命のライバル（山崎の師は[中曽根康弘](https://ja.wikipedia.org/wiki/中曽根康弘 "wikilink")、加藤の師は[大平正芳](../Page/大平正芳.md "wikilink")、小泉の師は[福田赳夫](../Page/福田赳夫.md "wikilink")）でもあった。
+
+一時期[中村喜四郎](https://ja.wikipedia.org/wiki/中村喜四郎 "wikilink")を加え**NYKK**と呼ばれた事があったが、[1994年](../Page/1994年.md "wikilink")に中村が斡旋収賄罪で逮捕され、外された。同年3人が中心となって政策集団「グループ・新世紀」を旗揚げ、ここを3人の足場とし、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")5月にYKKと[船田元](https://ja.wikipedia.org/wiki/船田元 "wikilink")（当時[新進党](../Page/新進党.md "wikilink")所属）らが、保・保連合を模索する「[首相公選制](https://ja.wikipedia.org/wiki/首相公選制 "wikilink")と首相の資質を考える会」を結成した。
+
+[橋本龍太郎](../Page/橋本龍太郎.md "wikilink")内閣を支えていた頃は[森喜朗](../Page/森喜朗.md "wikilink")を含めて**MYKK**、さらにYKKに近い存在だった[高村正彦](https://ja.wikipedia.org/wiki/高村正彦 "wikilink")を加えて**MY3K**と称されることもあった。各派内のホープだった3人が、実際に派閥の長や幹部などに就任したことで、YKKを牽制する動きも多数出始めた。
+
+[1990年代](../Page/1990年代.md "wikilink")、自民党内の政治力学に大きな影響力を与えた存在のひとつであった。YKKは基本的に一貫して財政再建を唱えた。
+
+2007年2月、小泉の後継である[安倍内閣に批判的なスタンスを取る山崎](../Page/第1次安倍内閣.md "wikilink")･加藤（KYコンビ）に、[古賀誠](https://ja.wikipedia.org/wiki/古賀誠 "wikilink")を加えた**新YKK**の会合が報道された。3月には[二階俊博](https://ja.wikipedia.org/wiki/二階俊博 "wikilink")を交えて会合し、**NYKK**とも言われた。加藤は新YKKを「外交非主流派」であると説明している。また、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")には山崎、加藤が[亀井静香](../Page/亀井静香.md "wikilink")元[建設相](https://ja.wikipedia.org/wiki/建設相 "wikilink")、[菅直人](https://ja.wikipedia.org/wiki/菅直人 "wikilink")元[厚相](https://ja.wikipedia.org/wiki/厚相 "wikilink")と都内で会談し、**3KY**と称された。
+
+2018年現在、YKKのメンバーは全員政界を引退している（2008年に小泉、2012年に山崎、2013年に加藤）。その後2016年9月に加藤が鬼籍に入ったことで、YKK全員が揃うことは不可能となった。
+
+## 反経世会
+
+それぞれの経世会との距離は時代ごとに多少変化してはいるが、反経世会ムードが高まる度にYKKの動向がクローズアップされた。また、経世会から飛び出した当時の羽田派（[改革フォーラム21](../Page/改革フォーラム21.md "wikilink")）とも敵対していた。
+
+3人とも、主流派に身を置く前には首相公選制を主張していた。
+
+## 加藤の乱前後
+
+YKKの人間関係の軸はあくまでも加藤・山崎であり、二人のつながりは初当選以来深い。
+
+[加藤の乱](../Page/加藤の乱.md "wikilink")以前は、橋本政権下で加藤が[自民党幹事長](https://ja.wikipedia.org/wiki/自民党幹事長 "wikilink")、山崎が[自民党政務調査会長に就任して](https://ja.wikipedia.org/wiki/自由民主党政務調査会#政務調査会長 "wikilink")、名実共に総裁候補として名乗りを上げ、YKKで首相に近いのはこの2人との認識が大勢を占めていた。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には加藤が派閥会長に就任、翌[1999年](../Page/1999年.md "wikilink")には山崎が独自の派閥を立ち上げ、同年、二人揃って[小渕恵三](../Page/小渕恵三.md "wikilink")に対抗すべく[自民党総裁選](https://ja.wikipedia.org/wiki/自民党総裁選 "wikilink")に出馬し、「**ポスト小渕**」の筆頭格に躍り出た。 一方、小泉は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の二度に亘って総裁選に出馬しているが、いずれも所属派閥の三塚派の意向による負け戦で、勝敗は度外視したものであった。また、同一派閥には兄貴分の森がいたことから、当時、小泉が総理・総裁候補と目される論評はあまり見受けられなかった。
+
+加藤の乱では、小泉は加藤の不信任案賛成の情報を積極的に流し、主流派として鎮圧側に回った。これを境に、徐々に小泉と加藤が疎遠になり、小泉が総裁就任後は山崎と小泉の蜜月時代になった。一方で山崎と加藤の関係も引き続き続いており、その後、小泉と山崎が距離を置き始め、加藤と山崎が共同歩調をとる姿が目立った。[2009年](../Page/2009年.md "wikilink")の[総選挙において小泉は引退し](https://ja.wikipedia.org/wiki/第45回衆議院議員総選挙 "wikilink")、山崎が落選。政界における動きは停止している。さらに2012年の[第46回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第46回衆議院議員総選挙 "wikilink")で加藤は落選し、4年後に死去。山崎は派閥を[石原伸晃](../Page/石原伸晃.md "wikilink")に譲り、事実上終焉した。
+
+## 加藤が語るYKKの始まり
+
+  - 『山崎拓今－近未来への政治宣言「2010年日本実現」－』より引用
+
+> YKKは平成2年の大晦日の晩に、ボクが山拓さんの福岡の自宅に電話して、我々も当選回数を重ねて一応大臣にもなったし、党のこと、国のことをのびのびと語り合う会を持ちたい。[伊東正義](../Page/伊東正義.md "wikilink")、[藤尾正行](https://ja.wikipedia.org/wiki/藤尾正行 "wikilink")、[奥野誠亮](https://ja.wikipedia.org/wiki/奥野誠亮 "wikilink")と、まったく思想信条の違う先輩政治家たちが、何ヶ月かにいっぺん嬉々として集っているではないか。うらやましいね。ボクらもやろうよ、と[紅白歌合戦のテレビの音が聞こえる中で言い合ったのが最初なんですよ](../Page/NHK紅白歌合戦.md "wikilink")。もうひとり、誰にするというから、小泉純一郎はどうだ、と言ったら、あれは変わり者でエキセントリックでねえ、と言う。いや待て待て、ああいうタイプがメディアにもてはやされる時代が来るぞ、と。（笑い）そうかもしれんなあ、ということで始まって、もうすぐ10周年です。かつて、大福関係、安竹関係というのがあったけど、よく見ると最高で3年続いた程度のものなんです。だから、10年の間には政局的には互いに対立することもいっぱいあったが、続いているのは、自分にとっても誇りだと思っている。
+
+## 加藤と小泉
+
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に当時の小泉純一郎厚生大臣が厚生省幹部や参議院厚生委員会理事と[食事](../Page/食事.md "wikilink")を取っていた事件において円滑な参議院審議を求める参議院理事のスケジュール管理の立場から事前通告を受けていないとして[村上正邦](../Page/村上正邦.md "wikilink")自民党参議院幹事長が反発。村上が参議院厚生委員長に対して議事権発動を促し、厚生省幹部の出席差し止めにした。加藤紘一は党執行部をまとめる立場からこの事態を打開するために村上を参議院幹事長更迭を視野に入れていたが、村上は参議院の独自性を盾に抵抗。また[保守](https://ja.wikipedia.org/wiki/保守 "wikilink")色が強かった村上更迭という強行案には、党内連立反対派（保保連合派）らの反発を刺激を党執行部が恐れたため、加藤は幹事長としてYKKの絆から小泉厚相に対して村上参院幹事長に全面謝罪させることを提案。小泉が村上に謝罪したことで丸く納まった。
+
+[2000年](../Page/2000年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に起こった政局、「[加藤の乱](../Page/加藤の乱.md "wikilink")」に際しては、山崎が加藤と行動を共にして不信任決議を欠席したが、小泉は[森首相を支持して不信任案に反対票を投じた](../Page/森喜朗.md "wikilink")（加藤に決起の相談を持ちかけられた際、小泉は「俺ならとっくにやっている」と答える。加藤はこれを小泉の支持を得たと思い込んだ節がある）。小泉は森派の会長職に就いていたという事情があったにせよ、YKKが必ずしも一枚岩ではないことを露呈した出来事だった。加藤の乱後の同年・12月11日に開催された、[松島みどり](../Page/松島みどり.md "wikilink")・[衆議院議員](https://ja.wikipedia.org/wiki/衆議院議員 "wikilink")のパーティーでの小泉の発言「YKKは友情と打算の二重構造だ」が注目を集めた（この時、加藤・山崎は同列していたが、TVに映し出された加藤の苦渋の表情も注目された）。
+
+加藤は、小泉が2001年の総裁選に3度目の出馬をした際は小泉を支持したものの、小泉内閣には入閣しなかった（外相の要請を断ったとも一部では伝えられた）。当初は基本的に小泉支持を表明していたが、不支持とは言明しないものの、徐々に小泉政権を批判する言動が目立つようになった。
+
+加藤は2005年1月にYKKは実質的に終焉していると述べている。加藤と小泉との間で、YKKはもうやめようという話が出た際に、終わったとコメントすれば終わるということになった旨、加藤が後日のTV番組で回想している。
+
+## 小泉と山崎
+
+小泉の総理就任直後は党内の支持基盤が磐石ではなく、出身派閥内でも森会長を筆頭に小泉の急進的なやり方に反対・苦言を呈する者が多かった。ここで山崎が[幹事長として](https://ja.wikipedia.org/wiki/自由民主党幹事長 "wikilink")、小泉首相に欠けていた党内人脈や[公明党](../Page/公明党.md "wikilink")とのパイプを生かし、全面的に小泉を支え続け孤軍奮闘した。政策面では[竹中平蔵](../Page/竹中平蔵.md "wikilink")・[経済財政担当大臣に頼った小泉だが](../Page/内閣府特命担当大臣（経済財政政策担当）.md "wikilink")、党務・政局では唯一信頼・相談できる存在が山崎であった。党内から何度も更迭論が出る中、山崎は小泉を献身的に支え続け、小泉も山崎に信頼を置き、二人の盟友関係ぶりが一番際立った時期でもある。
+
+しかし、[内閣支持率](../Page/内閣支持率.md "wikilink")が徐々に下がっていき、いよいよ自らの支持基盤を党内に求めなくてはならなくなった時に[内閣改造](../Page/内閣改造.md "wikilink")（2003年9月）を迎え、ここで森、[青木幹雄](../Page/青木幹雄.md "wikilink")、古賀誠などの党内有力者や公明党から支持の見返りに、山崎、竹中のどちらか（もしくは両方）の更迭を再び決定的に突きつけられた。
+
+ここで小泉は苦渋の決断で山崎を切った。[副総裁に名前こそ昇格したものの副総裁は名誉職的意味合いが強い](https://ja.wikipedia.org/wiki/自由民主党副総裁 "wikilink")。
+
+失意の中の山崎はスキャンダル騒動にもみまわれ、人事2ヵ月後の[2003年](../Page/2003年.md "wikilink")の総選挙で落選してしまう。しかし、抵抗勢力への盾役、党・公明党へのパイプ、政治全般の相談役を担っていた山崎が小泉には欠かせなく、落選した山崎を民間人、非常勤の[内閣総理大臣補佐官](https://ja.wikipedia.org/wiki/内閣総理大臣補佐官 "wikilink")として起用する。後に当選した民主党議員がスキャンダルで辞職し、2005年に補選で議員として返り咲いた。この時、小泉は選挙区に応援に駆けつけ「拓さんがいるから私がいる！」、「私に盾を」と山崎の力が今尚必要なことを強調した。加藤も選挙に全面的協力をしている。
+
+2人の関係がおかしくなり始めたのは、[山崎派の](../Page/近未来政治研究会.md "wikilink")[武部勤](https://ja.wikipedia.org/wiki/武部勤 "wikilink")を幹事長に起用したあたりからである。そして顕著になったのが、郵政解散後の人事であった。山崎派は森派以外で小泉内閣に一貫して全面的バックアップをしてきた唯一の派（加藤派、当時小里派(現・[宏池会 (谷垣派)](https://ja.wikipedia.org/wiki/宏池会_\(谷垣派\) "wikilink"))は基本的には小泉内閣支持であったが、ときには内閣と距離を取ったケースもあった）であったが、解散総選挙後の人事で入閣が事実上のゼロであった（幹事長に武部が留任しているものの、この解散時には既に武部は山崎派とは疎遠に近い関係であった）。もともとこれまでの改造人事で、全面支持している割には森派に比べて人事で優遇されていないと不満があった山崎派は、選挙大勝のうえ小泉内閣最後の組閣となるこの人事に期待を寄せていた。しかし、冷遇されたため不満が爆発し、その矛先は会長である山崎にも向けられ、山崎もこの時から反小泉的行動が徐々に増えていき、総裁選が近づくにつれ二人の関係が終わったことは周知の事実となった。また、内閣改造とほぼ同時期に山崎は、[日本歯科医師連盟](https://ja.wikipedia.org/wiki/日本歯科医師連盟 "wikilink")からの献金をめぐり[東京地検から任意で再聴取を受けており](../Page/東京地方検察庁.md "wikilink")、このことはマスコミにも報じられる。山崎は、同事情聴取報道を[総理大臣官邸](../Page/総理大臣官邸.md "wikilink")による意図的なリークと認識し、対立が決定的になったとされる。同献金事件で、検察は山崎に対する立件を行わなかったが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")に東京第2[検察審査会](../Page/検察審査会.md "wikilink")は起訴相当との議決を行っている（その後改正された現在の[検察審査会法](https://ja.wikipedia.org/wiki/検察審査会法 "wikilink")では、[起訴](../Page/起訴.md "wikilink")相当の議決が2度出された際には必ず起訴を行わなければならない）。
+
+## 出典
+
+## 関連人物
+
+  - [自見庄三郎](https://ja.wikipedia.org/wiki/自見庄三郎 "wikilink")
+  - [船田元](https://ja.wikipedia.org/wiki/船田元 "wikilink")
+
+## 関連項目
+
+  - [弐キ参スケ](https://ja.wikipedia.org/wiki/弐キ参スケ "wikilink") - [満州三角同盟](https://ja.wikipedia.org/wiki/満州三角同盟 "wikilink")（[鮎川義介](../Page/鮎川義介.md "wikilink")、[岸信介](../Page/岸信介.md "wikilink")、[松岡洋右](../Page/松岡洋右.md "wikilink")）に[東條英機](../Page/東條英機.md "wikilink")、[星野直樹](https://ja.wikipedia.org/wiki/星野直樹 "wikilink")を加えたもの。
+  - [ヨハンセングループ](https://ja.wikipedia.org/wiki/ヨハンセングループ "wikilink") - [吉田茂](https://ja.wikipedia.org/wiki/吉田茂 "wikilink")、[近衛文麿](../Page/近衛文麿.md "wikilink")、[牧野伸顕](https://ja.wikipedia.org/wiki/牧野伸顕 "wikilink")、[樺山愛輔](https://ja.wikipedia.org/wiki/樺山愛輔 "wikilink")、[原田熊雄](../Page/原田熊雄.md "wikilink")、[米内光政](../Page/米内光政.md "wikilink")
+  - [三角大福](https://ja.wikipedia.org/wiki/三角大福 "wikilink")
+  - [金竹小](https://ja.wikipedia.org/wiki/金竹小 "wikilink")（こんちくしょう）
+  - [安竹宮](https://ja.wikipedia.org/wiki/安竹宮 "wikilink")（ニューリーダー）
+  - [新YKK](https://ja.wikipedia.org/wiki/新YKK "wikilink") - [山崎拓](../Page/山崎拓.md "wikilink")、[加藤紘一](../Page/加藤紘一.md "wikilink")、[古賀誠](https://ja.wikipedia.org/wiki/古賀誠 "wikilink")
+  - [ANA](https://ja.wikipedia.org/wiki/ANA_\(政治同盟\) "wikilink") - [安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")、[中川昭一](../Page/中川昭一.md "wikilink")、[麻生太郎](https://ja.wikipedia.org/wiki/麻生太郎 "wikilink")
+  - [YKKK](https://ja.wikipedia.org/wiki/YKKK "wikilink") - 山崎拓、加藤紘一、[菅直人](https://ja.wikipedia.org/wiki/菅直人 "wikilink")、[亀井静香](../Page/亀井静香.md "wikilink")
+  - [ラーの会](https://ja.wikipedia.org/wiki/ラーの会 "wikilink") - 加藤紘一、山崎拓、[前原誠司](https://ja.wikipedia.org/wiki/前原誠司 "wikilink")、[仙谷由人](https://ja.wikipedia.org/wiki/仙谷由人 "wikilink")、[辻元清美](../Page/辻元清美.md "wikilink")
+  - [ネオ・ニューリーダー](../Page/ネオ・ニューリーダー.md "wikilink")
+  - [麻垣康三](https://ja.wikipedia.org/wiki/麻垣康三 "wikilink")
+  - [竹下派七奉行](https://ja.wikipedia.org/wiki/竹下派七奉行 "wikilink")
+  - [安倍派四天王](../Page/安倍派四天王.md "wikilink")
+  - [佐藤派五奉行](https://ja.wikipedia.org/wiki/佐藤派五奉行 "wikilink")
+  - [明日を創る会](../Page/明日を創る会.md "wikilink")
+  - [NAISの会](../Page/NAISの会.md "wikilink")
+
+[Category:自由民主党](https://ja.wikipedia.org/wiki/Category:自由民主党 "wikilink") [Category:平成時代の政治](https://ja.wikipedia.org/wiki/Category:平成時代の政治 "wikilink") [Category:日本の名数3](https://ja.wikipedia.org/wiki/Category:日本の名数3 "wikilink") [Category:小泉純一郎](https://ja.wikipedia.org/wiki/Category:小泉純一郎 "wikilink") [Category:加藤紘一](https://ja.wikipedia.org/wiki/Category:加藤紘一 "wikilink")
+
+1.

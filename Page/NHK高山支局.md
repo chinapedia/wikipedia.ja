@@ -1,0 +1,43 @@
+> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:NHK高山.JPG "wikilink") **NHK高山支局**（エヌエイチケイたかやましきょく）は、[岐阜県](../Page/岐阜県.md "wikilink")[高山市](../Page/高山市.md "wikilink")に所在する[NHK岐阜放送局](../Page/NHK岐阜放送局.md "wikilink")の支局。
+
+## 概要
+
+  - かつては**「NHK高山放送局」**といった。岐阜県[飛騨地方の報道拠点となっており](../Page/飛騨国.md "wikilink")、この地域の受信料の収納も担っている。
+
+## 所在地
+
+  - 〒506-0021 岐阜県高山市名田町5-95
+
+## チャンネル・周波数
+
+  - [総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink") デジタル：29ch（リモコンキーID**「3」**）（以下、[高山市](../Page/高山市.md "wikilink")中心部）
+  - [教育テレビ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink") デジタル：31ch（リモコンキーID**「2」**）
+  - [ラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink") 792kHz
+  - [ラジオ第2放送](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink") 1125kHz
+  - [FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") 86.1MHz
+
+<!-- end list -->
+
+  -
+    ※地上アナログテレビ放送は、2011年7月25日午前0時をもって停波した。
+    ※教育テレビ・ラジオ第1・第2は、いずれも[名古屋局の中継局となっている](../Page/NHK名古屋放送局.md "wikilink")（以前、総合テレビの岐阜局の県域テレビ局開局前は名古屋局の中継局となっていた）。
+
+## 関連項目
+
+  - [飛騨高山テレ・エフエム](https://ja.wikipedia.org/wiki/飛騨高山テレ・エフエム "wikilink") - 局舎内に入居するコミュニティFM運営企業。
+  - [高山中継局](../Page/高山中継局.md "wikilink")
+  - [NHK宮中継局](https://ja.wikipedia.org/wiki/NHK宮中継局 "wikilink")
+  - [下呂中継局](https://ja.wikipedia.org/wiki/下呂中継局 "wikilink")
+  - [NHK飛騨金山中継局](https://ja.wikipedia.org/wiki/NHK飛騨金山中継局 "wikilink")
+  - [NHK小坂中継局](https://ja.wikipedia.org/wiki/NHK小坂中継局 "wikilink")
+  - [神岡中継局](https://ja.wikipedia.org/wiki/神岡中継局 "wikilink")
+  - [神岡流葉中継局](https://ja.wikipedia.org/wiki/神岡流葉中継局 "wikilink")
+
+## 外部リンク
+
+  - [NHK岐阜放送局 アクセスマップ](https://www.nhk.or.jp/gifu/station_info/map.html)
+
+[Category:岐阜県のマスメディア](https://ja.wikipedia.org/wiki/Category:岐阜県のマスメディア "wikilink") [Category:NHK岐阜](https://ja.wikipedia.org/wiki/Category:NHK岐阜 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:東海・北陸地方の放送](https://ja.wikipedia.org/wiki/Category:東海・北陸地方の放送 "wikilink") [Category:NHKの施設](https://ja.wikipedia.org/wiki/Category:NHKの施設 "wikilink") [Category:高山市の建築物](https://ja.wikipedia.org/wiki/Category:高山市の建築物 "wikilink")

@@ -1,0 +1,32 @@
+> この記事は[YZ](https://ja.wikipedia.org/wiki/YZ)から翻訳されています。
+
+
+'''YZサーキット '''（わいぜっと--）は、[岐阜県](../Page/岐阜県.md "wikilink")[瑞浪市](../Page/瑞浪市.md "wikilink")日吉町に存在した[自動車](../Page/自動車.md "wikilink")用[サーキット](../Page/サーキット.md "wikilink")。本コースが閉鎖された為、東コースのみ営業している。全国区の大会は、実施されていないが、ミニサーキットならではの[ドリフトコンテストなどの独自イベントが行われていた](../Page/ドリフト走行.md "wikilink")。[1996年](../Page/1996年.md "wikilink")に「YZサーキット瑞浪」としてオープンした。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月コースを改修。このコース改修に従い、一般的にはほぼ同仕様の状態で約1秒程度、改修前よりラップタイムが短縮される傾向になっている。2008年8月には東コースとしてオープンさせた。一般には余り知られていないが、サーキット名になっているYZとは支配人のイニシャルである。
+
+## コース
+
+2008年8月現在、両コースは関連設備を含め完全に分離した状態であり、双方の行き来には一般の公道を経由する必要がある。 2016年3月31日にて、本コースを閉鎖する事が2016年1月に発表された。予てより地主との賃貸契約の継続を交渉していたが、地主の強い意向で交渉決裂。 2016年4月以降は、跡地に太陽光発電所が建築される事となった。
+
+### 東コース
+
+  - 全長:1,000 m
+  - 幅員:11～13 m
+  - 最大直線長:240 m
+  - パドック収容台数:250 台
+
+## 周辺施設
+
+## アクセス
+
+  - [中央自動車道](../Page/中央自動車道.md "wikilink")[瑞浪インターチェンジ](../Page/瑞浪インターチェンジ.md "wikilink")または[土岐インターチェンジ](../Page/土岐インターチェンジ.md "wikilink")から約20分
+
+## 関連項目
+
+  - [モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")
+  - [日本のサーキット一覧](../Page/日本のサーキット一覧.md "wikilink")
+
+## 外部リンク
+
+  - [YZサーキット](http://www.yz-circuit.com/)
+
+[Category:岐阜県のスポーツ施設](https://ja.wikipedia.org/wiki/Category:岐阜県のスポーツ施設 "wikilink") [Category:日本のサーキット](https://ja.wikipedia.org/wiki/Category:日本のサーキット "wikilink") [Category:瑞浪市の建築物](https://ja.wikipedia.org/wiki/Category:瑞浪市の建築物 "wikilink") [Category:1996年開設のスポーツ施設](https://ja.wikipedia.org/wiki/Category:1996年開設のスポーツ施設 "wikilink")

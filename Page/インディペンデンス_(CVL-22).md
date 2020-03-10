@@ -1,0 +1,123 @@
+> この記事は[ \(CVL-22\)](https://ja.wikipedia.org/wiki/_\(CVL-22\))から翻訳されています。
+
+
+|                                                                                                                                                                                 |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [USS_Independence_(CVL-22)_in_harbour.jpeg](https://ja.wikipedia.org/wiki/File:USS_Independence_\(CVL-22\)_in_harbour.jpeg "fig:USS_Independence_(CVL-22)_in_harbour.jpeg") |
+|                                                                                       艦歴                                                                                        |
+|                                                                                       起工                                                                                        |
+|                                                                                       進水                                                                                        |
+|                                                                                       就役                                                                                        |
+|                                                                                       退役                                                                                        |
+|                                                                                       その後                                                                                       |
+|                                                                                      性能諸元                                                                                       |
+|                                                               [排水量](https://ja.wikipedia.org/wiki/排水量 "wikilink")                                                               |
+|                                                                                       全長                                                                                        |
+|                                                                                       艦幅                                                                                        |
+|                                                                                       全幅                                                                                        |
+|                                                                                       吃水                                                                                        |
+|                                                                                       最大速                                                                                       |
+|                                                                                       乗員                                                                                        |
+|                                                                                       兵装                                                                                        |
+|                                                                                       搭載機                                                                                       |
+
+**インディペンデンス**（**USS Independence, CV/CVL-22**）は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[航空母艦](../Page/航空母艦.md "wikilink")。[インディペンデンス級航空母艦](../Page/インディペンデンス級航空母艦.md "wikilink")のネームシップ。その名を持つ艦としては4隻目。
+
+## 艦歴
+
+インディペンデンスは、その前身の[軽巡洋艦](../Page/軽巡洋艦.md "wikilink")アムステルダム（USS Amsterdam, CL-59）として起工された。1942年8月22日には[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")[カムデンの](../Page/カムデン_\(ニュージャージー州\).md "wikilink")[ニューヨーク造船所](../Page/ニューヨーク造船所.md "wikilink")で**CV-22**としてローリー・ワーナー夫人によって進水され、1943年1月14日に初代艦長G・R・フェアラム・ジュニア[大佐](../Page/大佐.md "wikilink")の指揮下就役する。
+
+### 初陣
+
+[USS_Independence_(CVL-22)_in_San_Francisco_Bay_on_15_July_1943_(80-G-74436).jpg](https://ja.wikipedia.org/wiki/File:USS_Independence_\(CVL-22\)_in_San_Francisco_Bay_on_15_July_1943_\(80-G-74436\).jpg "fig:USS_Independence_(CVL-22)_in_San_Francisco_Bay_on_15_July_1943_(80-G-74436).jpg") [巡洋艦](../Page/巡洋艦.md "wikilink")から設計変更された最初の艦として、インディペンデンスは[慣熟訓練](https://ja.wikipedia.org/wiki/慣熟訓練 "wikilink")を[カリブ海](../Page/カリブ海.md "wikilink")で行う。その後[太平洋艦隊に加わるため](https://ja.wikipedia.org/wiki/太平洋艦隊_\(アメリカ海軍\) "wikilink")[パナマ運河](../Page/パナマ運河.md "wikilink")を通過し、1943年7月3日に[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")に到着。7月14日に[真珠湾](../Page/真珠湾.md "wikilink")に向けて出航し、到着後は[エセックス](../Page/エセックス_\(空母\).md "wikilink")（USS Essex, CV-9）、[ヨークタウン](../Page/ヨークタウン_\(CV-10\).md "wikilink")（USS Yorktown, CV-10）と第15任務部隊（[チャールズ・A・パウナル](https://ja.wikipedia.org/wiki/チャールズ・A・パウナル "wikilink")少将）を編成して、[南鳥島](../Page/南鳥島.md "wikilink")攻撃のための二週間に及ぶ訓練演習を共に行った。その間の7月15日付で、インディペンデンス級航空母艦は艦種が[軽空母](../Page/軽空母.md "wikilink")（CVL）に変更され、インディペンデンスの[ハルナンバーは](https://ja.wikipedia.org/wiki/アメリカ合衆国の船体分類記号 "wikilink") **CVL-22**に変更された。
+
+第15任務部隊による南鳥島攻撃は9月1日に行われ、島の施設の70パーセント以上が破壊された。続く作戦は10月5、7日の[ウェーク島](../Page/ウェーク島.md "wikilink")攻撃であり、艦載機による攻撃と[重巡洋艦](../Page/重巡洋艦.md "wikilink")の[艦砲射撃](https://ja.wikipedia.org/wiki/艦砲射撃 "wikilink")でウェーク島の日本軍施設は大打撃を蒙った。一連の作戦は、アメリカ海軍での[機動部隊](../Page/機動部隊.md "wikilink")運用に関する新戦術の試験運用として行われたが\[1\]、パウナル少将の臆病の極みを見せた指揮ぶりが問題視された\[2\]。それでも、第15任務部隊は反撃らしい反撃を受けることなく真珠湾に帰投した。
+
+### ラバウルおよびギルバートへの攻撃
+
+インディペンデンスは10月21日、[エスピリトゥサント島](../Page/エスピリトゥサント島.md "wikilink")に向けて真珠湾を出撃した。この頃、[ブーゲンビル島の戦い](../Page/ブーゲンビル島の戦い.md "wikilink")が始まりつつあり、[第3艦隊](https://ja.wikipedia.org/wiki/第3艦隊_\(アメリカ軍\) "wikilink")（[ウィリアム・ハルゼー](https://ja.wikipedia.org/wiki/ウィリアム・ハルゼー "wikilink")大将）は機動部隊で[ブーゲンビル島](../Page/ブーゲンビル島.md "wikilink")への上陸を援護していた。折りしも、[ラバウル](../Page/ラバウル.md "wikilink")に向かう[栗田健男](../Page/栗田健男.md "wikilink")中将率いる日本艦隊の動向をキャッチしており、ハルゼー大将は栗田艦隊への攻撃を命じた。11月5日に[サラトガ](../Page/サラトガ_\(CV-3\).md "wikilink")（USS Saratoga, CV-3）および[プリンストン](../Page/プリンストン_\(CVL-23\).md "wikilink")（USS Princeton, CVL-23）の[第38任務部隊](https://ja.wikipedia.org/wiki/第38任務部隊 "wikilink")（[フレデリック・C・シャーマン](https://ja.wikipedia.org/wiki/フレデリック・C・シャーマン "wikilink")少将）を使って最初の[ラバウル空襲](https://ja.wikipedia.org/wiki/ラバウル空襲 "wikilink")を行い、ラバウルに進出したばかりの栗田艦隊は大被害を受け、呆気なく[トラック諸島へ逃げ帰った](../Page/チューク諸島.md "wikilink")。ハルゼー大将は上陸支援のためダメ押しの攻撃を命じ、第38任務部隊に加えて[ガルヴァニック作戦](../Page/ガルヴァニック作戦.md "wikilink")が迫っていた[第5艦隊からも部隊を借りることとした](https://ja.wikipedia.org/wiki/第5艦隊_\(アメリカ軍\) "wikilink")\[3\]。
+
+インディペンデンスは、[エセックス](../Page/エセックス_\(空母\).md "wikilink")（USS Essex, CV-9）および[バンカー・ヒル](../Page/バンカー・ヒル_\(空母\).md "wikilink")（USS Bunker Hill, CV-17）とともに、その借りてきた部隊である第50.3任務部隊（[アルフレッド・E・モントゴメリー](https://ja.wikipedia.org/wiki/アルフレッド・E・モントゴメリー "wikilink")少将）に属しており、第50.3任務部隊は11月5日にエスピリトゥサント島に到着した後、整備と補給の後11月8日に出撃した\[4\]。11月11日、両任務部隊はラバウルを挟み撃ちする形で空襲を行い、ラバウル港内にいた[第二水雷戦隊](../Page/第二水雷戦隊.md "wikilink")に打撃を与えた。日本軍は反撃のため航空機を繰り出してきたが（[第三次ブーゲンビル島沖航空戦](../Page/ろ号作戦.md "wikilink")）、インディペンデンスの砲手は6機の[日本軍](../Page/日本軍.md "wikilink")機を撃墜した。第50.3任務部隊はこの後エスピリトゥサント島に帰投して燃料を補給し、第5艦隊に復帰の上[ギルバート諸島](https://ja.wikipedia.org/wiki/ギルバート諸島 "wikilink")に向かった。
+
+11月18日と20日、インディペンデンスの艦載機は上陸に先駆けて[タラワ](../Page/タラワ.md "wikilink")を攻撃。20日の日本軍による反撃でインディペンデンスは6機の日本機を撃墜したが、5本の雷撃を受けそのうち1本が右舷に命中した（[第一次ギルバート諸島沖航空戦](https://ja.wikipedia.org/wiki/ギルバート諸島沖航空戦 "wikilink")）。船体を破損したインディペンデンスは、重巡洋艦[ペンサコーラ](https://ja.wikipedia.org/wiki/ペンサコーラ_\(重巡洋艦\) "wikilink")（USS Pensacola, CA-24）などの護衛を受け、11月23日に[フナフティ島](../Page/フナフティ島.md "wikilink")に向かい修理を受けた。ギルバート諸島攻略戦は[太平洋](../Page/太平洋.md "wikilink")における[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")本土進攻の第一歩であったが、インディペンデンスは1944年1月2日に本格修理のためサンフランシスコに帰投した。この間、[マーシャル諸島](https://ja.wikipedia.org/wiki/マーシャル諸島 "wikilink")、トラック、[サイパン島](../Page/サイパン島.md "wikilink")などから日本軍の兵力がほぼ一掃された。インディペンデンスは修理で[カタパルト](../Page/カタパルト.md "wikilink")が増設され、修理完了後7月3日に真珠湾に戻った。
+
+### 夜間機空母
+
+[F6F-3N_NAS_Jax_1943.jpg](https://ja.wikipedia.org/wiki/File:F6F-3N_NAS_Jax_1943.jpg "fig:F6F-3N_NAS_Jax_1943.jpg") この頃、夜間戦闘機バージョンの[F6F ヘルキャットであるF](../Page/F6F_\(航空機\).md "wikilink")6F-5Nが登場し、夜間戦闘機だけで構成された飛行隊も開設された。しかし、これら夜間飛行隊は定数も少なく、また昼間の戦闘に駆り出されることも多かったので、有効的な活用が難しく邪魔者扱いされることもあった\[5\]。そこで、「1隻の空母の搭載機を全て夜間戦闘機だけにしてはどうか」という構想が出された。構想は採用され、搭載機のほとんどを夜間戦闘機にする専用空母として[白羽の矢が立ったのが](../Page/九頭竜伝承.md "wikilink")、修理を終えたばかりのインディペンデンスだった\[6\]。
+
+[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")水域に到着すると、インディペンデンスは新編成の第41夜間軽空母飛行群を乗せ、夜間発着訓練を開始する。先導的訓練を[エニウェトク環礁](https://ja.wikipedia.org/wiki/エニウェトク環礁 "wikilink")で8月24日から29日まで継続し、[第38任務部隊](https://ja.wikipedia.org/wiki/第38任務部隊 "wikilink")（[マーク・ミッチャー](../Page/マーク・ミッチャー.md "wikilink")中将）に編入されたインディペンデンスは、[パラオ](https://ja.wikipedia.org/wiki/パラオ "wikilink")攻略戦参加のため8月29日に出撃し、次いで[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")攻略のための作戦活動を行う。インディペンデンスの夜間飛行群は構想どおり、夜間偵察および夜間戦闘警戒飛行を中心に行ったが、肝心の夜間の出番は少なく、しかも夜間戦闘用のレーダーも敵手に渡るのを防ぐために撤去されたため、飛行群のパイロットからは不満が出た\[7\]。
+
+### フィリピン戦線
+
+9月に第38任務部隊はフィリピン侵攻に向けて連日の攻撃を行った。インディペンデンス搭載の第41夜間軽空母飛行群は、9月12日の夜に[サマール島](https://ja.wikipedia.org/wiki/サマール島 "wikilink")上空で[一〇〇式司令部偵察機](https://ja.wikipedia.org/wiki/一〇〇式司令部偵察機 "wikilink")を撃墜して、初めての夜間戦闘の戦果を挙げた\[8\]。この期間に日本軍の本格的な反撃はなかったため、インディペンデンスは夜間の作戦活動から昼間作戦活動も行うようになり、[ルソン島](../Page/ルソン島.md "wikilink")の日本軍拠点を攻撃した。第38任務部隊は10月初旬に[ウルシー泊地](https://ja.wikipedia.org/wiki/ウルシー泊地 "wikilink")で補給を受けた後、10月6日に[沖縄攻撃に向けて出撃した](../Page/沖縄県.md "wikilink")。第38任務部隊は沖縄、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、フィリピンに対して攻撃を行った。日本軍の航空反撃はインディペンデンスの艦載機による昼間攻撃および夜間偵察、攻撃によって撃退された。特に、夜間での戦果は夜間戦闘機に対する評価を高める結果となった\[9\]。
+
+空母部隊は10月23日にフィリピンから東に向けて出航した。後に[ロバート・カーニー](https://ja.wikipedia.org/wiki/ロバート・カーニー "wikilink")[提督](https://ja.wikipedia.org/wiki/提督 "wikilink")が「壮大な規模の何かが進行中だった」と回想したように、アメリカ軍の攻勢は明白な物であった。少将指揮下の第38.2任務群に属するインディペンデンスの飛行群は10月24日の[シブヤン海海戦で](https://ja.wikipedia.org/wiki/レイテ沖海戦#10月24日_シブヤン海海戦 "wikilink")[栗田健男](../Page/栗田健男.md "wikilink")率いる中央艦隊に対して攻撃を開始する。インディペンデンスの艦載機を含む航空部隊は[戦艦](https://ja.wikipedia.org/wiki/戦艦 "wikilink")[武蔵を撃沈し](../Page/武蔵_\(戦艦\).md "wikilink")、巡洋艦を航行不能にして、栗田艦隊を西方に追い払った。
+
+その夜、ハルゼー大将は当面の撃破目標を、北に発見した[小沢治三郎](../Page/小沢治三郎.md "wikilink")中将率いる機動部隊とし、戦艦や巡洋艦、駆逐艦で構成された特別編成の第34任務部隊（[ウィリス・A・リー](https://ja.wikipedia.org/wiki/ウィリス・A・リー "wikilink")中将）および3個任務群を機動部隊撃滅に急行させて、[サンベルナルジノ海峡](../Page/サンベルナルジノ海峡.md "wikilink")をがら空きにした。この時、インディペンデンスの夜間探索機は再び東航する栗田艦隊を発見し、さらにここ数日間点灯していなかったサンベルナルジノ海峡の[灯台](../Page/灯台.md "wikilink")が煌々と点灯されているのを発見\[10\]。報告を受けたボーガン少将はハルゼー大将に報告しようとしたが、ハルゼー大将の幕僚もこの報告を受信しており、幕僚はボーガン少将に「もう知っている」と返事した\[11\]。第38任務部隊は25日朝から小沢艦隊に対する攻撃を繰り返し、小沢艦隊の空母4隻を全て撃沈した。しかし、その間隙を突いた栗田艦隊がサンベルナルジノ海峡を突破して[サマール島](https://ja.wikipedia.org/wiki/サマール島 "wikilink")近海で[クリフトン・スプレイグ](../Page/クリフトン・スプレイグ.md "wikilink")少将率いる[護衛空母](../Page/護衛空母.md "wikilink")と駆逐艦、[護衛駆逐艦](../Page/護衛駆逐艦.md "wikilink")からなる第77.4.3任務群（通称「タフィ3」）を攻撃。[レイテ湾](https://ja.wikipedia.org/wiki/レイテ湾 "wikilink")方面の敵勢力は[第7艦隊](../Page/第7艦隊_\(アメリカ軍\).md "wikilink")（[トーマス・C・キンケイド](../Page/トーマス・C・キンケイド.md "wikilink")中将）指揮下の砲撃部隊で対処できると考えていたハルゼー大将だったが、キンケイド中将の泣き言に加え太平洋艦隊司令長官[チェスター・ニミッツ](https://ja.wikipedia.org/wiki/チェスター・ニミッツ "wikilink")大将からの「**第34任務部隊はどこにいるか、世界が訝っている**」の電文を受けショックを受け\[12\]、空母部隊のうち1個任務群と第34任務部隊のうちの戦艦と軽巡洋艦、駆逐艦を南下させ、大急ぎで栗田艦隊攻撃を行った。レイテ沖海戦でアメリカ艦隊は多大な戦果を挙げ、激戦の終了は同時に日本海軍の終焉も意味していた。インディペンデンスは航空偵察と、フィリピン攻撃を行う第38任務部隊への夜間航空援護を継続した。これらの作戦活動でインディペンデンスは空母部隊の前進に大きく寄与した。
+
+インディペンデンスはウルシー泊地に帰投し、11月9日から14日までの間、遅れた休暇と補給を取る。しかしながらすぐにフィリピン沖での夜間攻撃と防衛作戦任務に就く。作戦活動は1944年12月30日まで継続し、この間[コブラ台風](https://ja.wikipedia.org/wiki/コブラ台風 "wikilink")に遭遇。艦自体に大した被害はなかったものの、何名かの乗組員が激浪にさらわれて行方不明となった\[13\]。その後ウルシー泊地で休養の後、この当時は夜間戦闘機専用空母となっていた[エンタープライズ](../Page/エンタープライズ_\(CV-6\).md "wikilink")（USS Enterprise, CV-6）\[14\]と夜間戦闘機空母部隊を組んで出撃した。1945年1月3日から9日まで[ルソン島](../Page/ルソン島.md "wikilink")の[リンガエン湾](https://ja.wikipedia.org/wiki/リンガエン湾 "wikilink")上陸を支援し、[カムラン湾](../Page/カムラン湾.md "wikilink")に潜むとみられた[航空戦艦](../Page/航空戦艦.md "wikilink")[伊勢と](../Page/伊勢_\(戦艦\).md "wikilink")[日向を始末するため](../Page/日向_\(戦艦\).md "wikilink")、ハルゼー大将は艦隊を[南シナ海](../Page/南シナ海.md "wikilink")に向ける。インディペンデンスとエンタープライズの夜間偵察機も伊勢と日向の捜索に参加した\[15\]。しかし、伊勢と日向は[リンガ泊地](../Page/リンガ泊地.md "wikilink")に移動した後で、第38任務部隊は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[インドシナ](../Page/フランス領インドシナ.md "wikilink")、[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")本土の日本軍基地を攻撃し、軽巡洋艦[香椎率いるヒ](https://ja.wikipedia.org/wiki/香椎_\(練習巡洋艦\) "wikilink")86船団を全滅させた。フィリピンの戦いをめぐるこれらの支援作戦は、この方面での空母の夜間活動の終了を示すこととなった。南シナ海での作戦を終えたインディペンデンスは1945年1月30日に修理のため真珠湾へ向かった。
+
+### 沖縄戦・日本本土攻撃
+
+1945年3月13日、修理を終えたインディペンデンスは[ウルシー環礁](https://ja.wikipedia.org/wiki/ウルシー環礁 "wikilink")に戻り、翌日には沖縄に向けて出撃する。3月30日、31日には侵攻前の空爆を行い、[沖縄戦](https://ja.wikipedia.org/wiki/沖縄戦 "wikilink")第一日目の4月1日の攻撃では補給施設と航空機を破壊した。日本軍の絶望的な抵抗に対し、インディペンデンスの艦載機部隊は多数の敵機を撃墜した。インディペンデンスは6月10日まで沖縄水域に留まり、その後レイテ島に帰投した。
+
+1945年7月1日、インディペンデンスは[アーサー・W・ラドフォード](../Page/アーサー・W・ラドフォード.md "wikilink")少将指揮下の第38.4任務群に加わり、日本本土に対する最終攻撃のため出撃した。第38任務部隊は8月まで日本各地を攻撃し、インディペンデンスの艦載機は空中哨戒を行う一方、[谷田部](https://ja.wikipedia.org/wiki/谷田部海軍航空隊 "wikilink")\[16\]、[浦河](../Page/浦河町.md "wikilink")\[17\]、[室蘭](../Page/室蘭市.md "wikilink")\[18\]などを攻撃し、7月24日と28日の[呉軍港空襲](../Page/呉軍港空襲.md "wikilink")では軽巡洋艦[大淀と](../Page/大淀_\(軽巡洋艦\).md "wikilink")[重巡洋艦](../Page/重巡洋艦.md "wikilink")[利根](../Page/利根_\(重巡洋艦\).md "wikilink")、戦艦[榛名に損害を与えたと判定された](../Page/榛名_\(戦艦\).md "wikilink")\[19\]。
+
+8月15日の日本降伏後は、艦載機による捕虜収容所の捜索飛行を継続し、上陸部隊への航空支援を行った。インディペンデンスは9月22日に[東京湾](../Page/東京湾.md "wikilink")を出港し、[サイパン島](../Page/サイパン島.md "wikilink")と[グアム](../Page/グアム.md "wikilink")経由で10月31日に[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")に到着した。
+
+### 戦後
+
+[USS_Independence_(CVL-22)_afire_after_the_Able_atomic_bomb_test_on_1_July_1946_(80-G-627502).jpg](https://ja.wikipedia.org/wiki/File:USS_Independence_\(CVL-22\)_afire_after_the_Able_atomic_bomb_test_on_1_July_1946_\(80-G-627502\).jpg "fig:USS_Independence_(CVL-22)_afire_after_the_Able_atomic_bomb_test_on_1_July_1946_(80-G-627502).jpg") インディペンデンスは[マジック・カーペット作戦](https://ja.wikipedia.org/wiki/マジック・カーペット作戦 "wikilink")に参加し、1945年11月15日から[復員](../Page/復員.md "wikilink")兵輸送に従事する。1946年1月28日にサンフランシスコに到着、その後[ビキニ環礁](../Page/ビキニ環礁.md "wikilink")での原爆実験、[クロスロード作戦](../Page/クロスロード作戦.md "wikilink")の目標艦に指定された。7月1日の爆発実験エイブル（ABLE）では爆心地から1.5マイルの地点に係留され、艦には爆風で生じた皺が生じ、漏水も発生したが沈没しなかった。7月25日の爆発実験ベーカー（BAKER）にも供用された後、インディペンデンスは[クェゼリン環礁](https://ja.wikipedia.org/wiki/クェゼリン環礁 "wikilink")に係留され、1946年8月28日に退役した。その後、[放射能](../Page/放射能.md "wikilink")に汚染されたインディペンデンスの船体は真珠湾、サンフランシスコに曳航され調査された。船体は1951年1月29日にカリフォルニアの沖合で兵器実験に供用され沈没した。この際、インディペンデンスは[放射性廃棄物](../Page/放射性廃棄物.md "wikilink")を乗せたまま沈没し、近海の漁業に影響が出たという抗議があった。
+
+## 現在
+
+2015年4月に[米海洋大気局の調査によって](https://ja.wikipedia.org/wiki/アメリカ海洋大気庁 "wikilink")、カリフォルニア沖合約48キロ・水深約790メートルの海底にやや右舷側に傾きながらほぼ原形をとどめて沈んでいる姿が確認された\[20\]。
+
+インディペンデンスは[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")での戦功により8つの従軍星章を受章した\[21\]。
+
+## 脚注
+
+## 参考文献
+
+  - [防衛研究所](https://ja.wikipedia.org/wiki/防衛研究所 "wikilink")戦史室編 『[戦史叢書](../Page/戦史叢書.md "wikilink")62 中部太平洋方面海軍作戦（2）<span style="font-size:90%;">昭和十七年六月以降</span>』[朝雲新聞](../Page/朝雲新聞.md "wikilink")社、1970年
+  - 木俣滋郎『日本空母戦史』図書出版社、1977年
+  - C・レイモンド・カルフォーン/妹尾作太男・大西道永（訳）『神風、米艦隊撃滅』[朝日ソノラマ](../Page/朝日ソノラマ.md "wikilink")、1985年、ISBN 4-257-17055-7
+  - 木俣滋郎『日本水雷戦史』図書出版社、1986年
+  - 駒宮真七郎『戦時輸送船団史』出版協同社、1987年、ISBN 4-87970-047-9
+  - 石井勉（編著）『アメリカ海軍機動部隊 <span style="font-size:90%;">英和対訳対日戦闘報告/1945</span>』成山堂書店、1988年、ISBN 4-425-30121-8
+  - E・B・ポッター/秋山信雄（訳）『BULL HALSEY/キル・ジャップス\! ブル・ハルゼー提督の太平洋海戦史』[光人社](https://ja.wikipedia.org/wiki/光人社 "wikilink")、1991年、ISBN 4-7698-0576-4
+  - 渡辺洋二「夜のヘルキャット」『大空の攻防戦』朝日ソノラマ、1992年、ISBN 4-257-17248-7
+  - C・W・ニミッツ、E・B・ポッター/実松譲、冨永謙吾共訳『ニミッツの太平洋海戦史』恒文社、1992年、ISBN 4-7704-0757-2
+  - [谷光太郎](https://ja.wikipedia.org/wiki/谷光太郎 "wikilink")『米軍提督と太平洋戦争』[学習研究社](https://ja.wikipedia.org/wiki/学習研究社 "wikilink")、2000年、ISBN 978-4054009820
+
+## 外部リンク
+
+  - \[<http://www.navsource.org/archives/02/22.htm>　NavSource Online: Aircraft Carrier Photo Archive USS INDEPENDENCE(CVL-22)\]
+  - [USS *Independence* CVL-22 Reunion Group homepage](http://www.cvl-22.com)
+  - [Navy photographs of *Independence* (CVL-22)](http://www.history.navy.mil/photos/sh-usn/usnsh-i/cvl22.htm)
+  - [**USS Independence CVL-22 Reunion Group, Inc.** Veteran's Website](http://www.ussindependence-cvl22.com)
+  - [USS Independence](http://www.ninesisters.com/independence.htm) at Nine Sisters Light Carrier Historical Documentary Project
+
+[Category:インディペンデンス級航空母艦](https://ja.wikipedia.org/wiki/Category:インディペンデンス級航空母艦 "wikilink") [Category:1943年竣工船](https://ja.wikipedia.org/wiki/Category:1943年竣工船 "wikilink") [Category:クロスロード作戦の標的艦](https://ja.wikipedia.org/wiki/Category:クロスロード作戦の標的艦 "wikilink")
+
+1.  谷光, 471ページ
+2.  谷光, 471、472、473ページ
+3.  木俣『日本水雷戦史』390ページ
+4.  木俣『日本空母戦史』555ページ
+5.  渡辺, 200ページ
+6.  渡辺, 201ページ
+7.  渡辺, 202ページ
+8.  渡辺, 203ページ
+9.  渡辺, 205ページ
+10. ポッター, 478ページ
+11. ポッター, 478ページ
+12. ポッター, 487、488ページ
+13. カルフォーン, 77、78ページ
+14. 渡辺, 209ページ
+15. 木俣『日本空母戦史』807ページ
+16. 石井, 72、477ページ
+17. 石井, 79、93、477ページ
+18. 石井, 82、83、84、477ページ
+19. 石井, 97、98ページ
+20.
+21. \[<http://www.navsource.org/archives/02/22.htm>　NavSource Online: Aircraft Carrier Photo Archive USS INDEPENDENCE(CVL-22)\]

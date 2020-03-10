@@ -1,0 +1,374 @@
+> この記事は[Serial experiments lain](https://ja.wikipedia.org/wiki/Serial_experiments_lain)から翻訳されています。
+
+
+『**serial experiments lain**』（シリアルエクスペリメンツレイン）は、グラフィック+テキスト形式の雑誌連載企画・[アニメ](../Page/アニメ.md "wikilink")作品・[ゲーム](../Page/ゲーム.md "wikilink")作品が同時進行・相互関連して制作された[メディアミックス](../Page/メディアミックス.md "wikilink")作品である。
+
+雑誌では[AXで](../Page/AX_\(アニメ雑誌\).md "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")から[11月10日](../Page/11月10日.md "wikilink")まで連載、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")は[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で同年[7月6日](../Page/7月6日.md "wikilink")から[9月28日](../Page/9月28日.md "wikilink")まで放送（半年遅れで[テレビ大阪](../Page/テレビ大阪.md "wikilink")・[テレビ愛知](../Page/テレビ愛知.md "wikilink")でも放送）され、第2回[文化庁メディア芸術祭アニメーション部門](https://ja.wikipedia.org/wiki/文化庁メディア芸術祭アニメーション部門 "wikilink")優秀賞を受賞した。ゲームは[プレイステーション](../Page/PlayStation_\(ゲーム機\).md "wikilink")（PS）用ソフトとして同年[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に発売された。
+
+## 作品概要
+
+『存在は[認識](../Page/認識.md "wikilink")=[意識](../Page/意識.md "wikilink")の接続によって[定義](https://ja.wikipedia.org/wiki/定義 "wikilink")され、人はみな繋がれている。[記憶](../Page/記憶.md "wikilink")はただの[記録](../Page/記録.md "wikilink")にすぎない。』という世界観のもとで繰り広げられる、14歳の少女・玲音（lain）をめぐる物語。リアルワールドと[コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")・ワイヤード（Wired = 繋がれたもの）に遍在する「lain」という存在について。
+
+ゲーム版とアニメ版では、登場人物もストーリーも"lain"という存在を除いて大きく異なる。
+
+雑誌連載されたグラフィック+テキストは、キャラクター原案の[安倍吉俊](../Page/安倍吉俊.md "wikilink")による画集『an omnipresence in wired』（オムニプレゼンス＝遍在）に未掲載分を含めた完全版が収録されている。長らく絶版だったが、[ワニマガジン社](../Page/ワニマガジン社.md "wikilink")より『yoshitoshi ABe lain illustrations』として描き下ろし分を追加して再版された。脚本の[小中千昭](../Page/小中千昭.md "wikilink")によるアニメ版シナリオ集『scenario experiments lain the series』（シナリオエクスペリメンツ・レイン）なども出版されており、[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")からは、『Serial experiments lain BOOTLEG』と題したデスクトップアクセサリー集も発売された。
+
+当初、主人公の名前であるレインの英語表記は未決定で「lain」と「rain」が検討された。安倍吉俊によるスケッチなどは試験的に2種類描かれたが、結局1997年3月頃に「lain」に決定された\[1\]。
+
+## テレビアニメ
+
+### 概要
+
+高度に発展したネットワーク社会 - 現実と区別のつかない仮想空間というよくある物語とは逆に、本作は仮想世界（wired）と区別のつかない曖昧な現実（real world）に注目する。各登場人物が語る真実も事実だという保証はない。主人公・玲音の世界は身近な人間や友人に関する内容で占められ、作品は玲音の主観の影響下にある。客観のこのような不在は[ネットワークや](../Page/コンピュータネットワーク.md "wikilink")[コミュニケーション](../Page/コミュニケーション.md "wikilink")の性質をリアルに描いており、視聴者もlainという作品、岩倉玲音と繋がった『ネットワーク』に接続するよう仕向けられる。
+
+放送当時はアニメーション制作にデジタル環境が導入されはじめた時期である。[3Dモデリング](https://ja.wikipedia.org/wiki/3Dモデリング "wikilink")による無機的な表現が目立つ一方で、脚本の小中千昭が撮影・[Macintosh](../Page/Macintosh.md "wikilink")で編集した手触りのある画面が使われたり、時には実写がそのまま利用されたりと、様々な情報媒体が使われる。小中によると、放送に堪えられるクオリティの内容をパソコン上で作れるようになった始まりが1998年当時で、そこに最先端の機械好きが集まって自分でやれることを全てやったのがlainだという\[2\]。本作の独特なカラーと雰囲気はそうした[ハッカー](../Page/ハッカー.md "wikilink")的な色彩の強い環境から生まれている。
+
+番組のエンドカードには、直後に放送されていた「ウェザーブレイク」\[3\]を意識した、安倍吉俊によるイラストが挿入されていた（このイラストはDVDに一部、BD-BOXでは全て収録されている）。
+
+### 現実世界との対応
+
+本作の製作者にはコンピュータマニアが多く、実在の[コンピュータ](../Page/コンピュータ.md "wikilink")や[OSが数多く登場する](../Page/オペレーティングシステム.md "wikilink")。例えば、後半に登場する初代[iMac](https://ja.wikipedia.org/wiki/iMac "wikilink")は本放送の開始直前に発表されたばかりの機種である。他にも[アップル](../Page/アップル_\(企業\).md "wikilink")[ネタ](https://ja.wikipedia.org/wiki/ネタ "wikilink")、[NeXTSTEP](https://ja.wikipedia.org/wiki/NeXTSTEP "wikilink")ネタ、[BeOS](../Page/BeOS.md "wikilink")ネタなどが随所に見られる。
+
+### ストーリー
+
+コミュニケーション用コンピュータネットワーク端末「NAVI」（ナビ）が普及した現代、中学生の岩倉玲音は、死んだはずの同級生:四方田千砂からのメールを受け取る。
+
+その日以来、玲音は見えないはずのものを見るようになる。四方田千砂のメールの言葉に興味を持ち大型の「NAVI」を手に入れるが、それ以来さらに奇怪な事件に巻き込まれていく。
+
+物理世界（リアルワールド）と電脳世界（ワイヤード）、二つの世界・二人の玲音（lain）が混濁し錯綜する果てにあるものは? 「人は誰しも繋がれている」 「私は遍在する」
+
+### 登場人物
+
+  - 岩倉 玲音（いわくら れいん）
+    [声](../Page/声優.md "wikilink") - [清水香里](../Page/清水香里.md "wikilink")
+    主人公。内気な14歳の少女。左側の髪の一部を長く伸ばしてバッテン型のピンで留めているのが特徴\[4\]。はじめは地味な少女なのだが、NAVIを手に入れてからはその扱いに異常な才能をみせるようになった。そして玲音と同じ姿の存在が周囲に顕れるが、それは玲音がワイヤードを通し、世界に遍在化する兆しであった。
+      - レイン
+        最初は玲音と全く関係の無いところで目撃されるが、段々と岩倉玲音のもう一つの人格として描かれていく。
+      - lain
+        岩倉玲音の姿をしている別の存在。レインとは違い、完全に別の存在として描かれている。
+        明確な悪意の現れであり、ワイヤード上で暗躍し玲音を葛藤と苦悩に陥れる。
+      - れいん
+        ワイヤードの女神。常に優しい微笑みを絶やさない慈母のような人格。玲音とワイヤードの関係について全てを知っている存在。
+        別存在というよりも、女神が玲音の姿であらわれているという方が近い。
+  - 岩倉 康男（いわくら やすお）
+    声 - [大林隆之介](https://ja.wikipedia.org/wiki/大林隆介 "wikilink")
+    玲音の父親。玲音がNAVIに興味を持ったことを喜び、すぐに最新のNAVIを与えて使い方を教えた。かなりのNAVIオタクで、自室に凄いNAVI用の設備がある。
+    玲音のことを気遣っていた。実は玲音の実父ではなく、何者かより玲音の養育を託されていた。物語終盤で玲音にそのことを告白し去るが、玲音にとって康男は心の拠り所であり、玲音が神と呼べるものとなってもそれは変わらなかった。
+  - 岩倉 美穂（いわくら みほ）
+    声 - [五十嵐麗](https://ja.wikipedia.org/wiki/五十嵐麗 "wikilink")
+    玲音の母親。無口で無表情。夫の趣味を理解していないらしく、康男に愚痴られていた。夫婦仲は意外と良好。康男と同様に玲音の実母ではない。
+  - 岩倉 美香（いわくら みか）
+    声 - [川澄綾子](../Page/川澄綾子.md "wikilink")
+    玲音の姉。少々派手で玲音とは対照的。玲音のことを少し鬱陶しく思っている。ある出来事のせいで後に精神に異常をきたしてしまい、日常的にFAX\[5\]のような音を発声するようになってしまった。
+  - 瑞城 ありす（みずき ありす）
+    声 - [浅田葉子](https://ja.wikipedia.org/wiki/浅田葉子 "wikilink")
+    玲音の親友。非常に面倒見がよく優しい。玲音に明るくなって欲しいといつも気を遣っている。
+  - 山本 麗華（やまもと れいか）
+    声 - [手塚ちはる](https://ja.wikipedia.org/wiki/手塚ちはる "wikilink")
+    玲音の同級生。ありすといつもつるんでいて、ありすが玲音をどこかに連れ出すときも必ず一緒にいる。クールな雰囲気を漂わせており大人っぽい。
+  - 加藤 樹莉（かとう じゅり）
+    声 - [水野愛日](../Page/水野愛日.md "wikilink")
+    玲音の同級生。麗華とは対照的に子供っぽく、私服も少女趣味。
+  - 四方田 千砂（よもだ ちさ）
+    声 - [武藤寿美](https://ja.wikipedia.org/wiki/武藤寿美 "wikilink")
+    玲音とは別のクラスの生徒。一度だけ玲音と一緒に帰ったことがある。物語の冒頭で自殺する。
+  - タロウ
+    声 - [滝本啓人](https://ja.wikipedia.org/wiki/滝本啓人 "wikilink")
+    サイベリアクラブを溜まり場にしている11歳の小学生。NAVIについて詳しく、玲音に色々なアドバイスを送る。
+    おかっぱ頭と後頭部の刈り上げが特徴。ミューミューとマサユキがピアスをしているが、彼だけ唯一ピアスをしていない。
+    玲音のことは好きだが、レインは怖いらしい。正体はナイツの準構成員。マサユキとミューミューと共にナイツからの指令を受けて行動している。ミューミューとマサユキもタロウと共謀してハッキングを行っているようだが、二人に関してはナイツとの関わりは不明。初登場時に「どうやったらハッキングがバレないか」ということについて議論していた。
+    好みのタイプは不良系の強い女。玲音に好意を抱いて以来関わりを持とうとするが、それは同時にナイツから玲音を引き込めという指令だった。リアルワールドでもワイヤードでも、行動は非常識かつ傲慢な不良少年であり、大人ぶっている一面が強い。
+    玲音の自室に入り込むが、レインに正体を見破られ白状。記憶を改ざんさせられる不揮発性メモリを口に突っ込まれるなどの脅しを受け、大人ぶっていた彼が自身を子供だと自認する。このことでマサユキとミューミューと心の距離が離れ、特にミューミューから嫌悪感を抱かれてしまう。
+    マサユキとの関係は競い合う悪友といった感じだが、好意を抱かれているミューミューのことは一応意識しているらしく、あまり岩倉家に長居するとミューミューが怒るという理由で早めにデートを終了して退散している。ミューミューはタロウに対して想いを抱いているが、タロウにとってミューミューはマサユキと並ぶ友達程度であり恋愛関係ではない。
+  - ミューミュー
+    声 - [山本有紀](https://ja.wikipedia.org/wiki/山本有紀 "wikilink")
+    タロウの仲間である小学生。10歳。タロウに好意を抱いている。タロウの大人びた一面に引き寄せられており、逆にマサユキを子供だと低く見る。
+    マサユキとは、タロウとの仲を取り合いするような三角関係である。ブックレットの記述では、玲音よりも遥かに女の業を煮やす少女。
+    玲音に好意を寄せるタロウに妬くが、タロウは玲音に妬いていると勘違いしている。タロウに好意を寄せるものの、それ以上に己に対するうぬぼれや美化が強い。
+  - マサユキ
+    声 - [藤間宇宙](https://ja.wikipedia.org/wiki/藤間宇宙 "wikilink")
+    タロウの仲間である小学生。11歳。ナビに関する知識は豊富だが、タロウほどではない。三人の中で一番背が高い。
+    タロウとの関係は、互いに子供だと冗談交じりでののしりあうような関係である。玲音がサイベリアに現れるだけで眠たげなタロウを起こすなど、タロウの心の奥底までかなり察している様子。
+    年下であるミューミューからガキ呼ばわりされても「なんだよそれ」の一言で受け流す。玲音からプシューケーを買おうと金銭のやりとりを考えるも、タロウに却下されている。
+    許容力や胆力のある性格だが、上記のことから本人も攻めに転じたいとは思うものの人より前に立つことはできない。その性格ゆえ、最終回では荷物持ちをやらされている。最終回のセリフから、本人は損な役回りや受身の立場を担えるほどの許容力を持っていないことが分かる。それでも受け止める心優しい性格である。
+  - カール・ハウスホッフ
+    声 - [中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")
+    玲音を監視している謎の男性。金髪碧眼の外国人。ゴーグルのような奇妙な機械を目に装着している。
+    玲音が何者か分からないが、「愛」という感情を抱いていると告げた。
+  - 林 随錫（リン スイシー）
+    声 - [山崎たくみ](../Page/山崎たくみ.md "wikilink")
+    玲音を監視している謎の男性。ゴーグルのような奇妙な機械を目に装着している。
+  - デウス / 英利 政美（えいり まさみ）
+    声 - [速水奨](../Page/速水奨.md "wikilink")
+    ワイヤードの神を名乗る男。元は橘総研の研究員だったが、事故で亡くなり、ワイヤード上の存在となる。
+    何度か玲音に語りかけてくるが、それは玲音がワイヤードに遍在するものとなることを知ってのことだった。終盤で真にワイヤードを延いては世界に遍在するようになった玲音に打ち破られる。
+
+### スタッフ
+
+  - 企画・原案 - production 2nd.
+  - オリジナルキャラクターデザイン - [安倍吉俊](../Page/安倍吉俊.md "wikilink")
+  - 監督 - [中村隆太郎](../Page/中村隆太郎.md "wikilink")
+  - シリーズ構成・脚本 - [小中千昭](../Page/小中千昭.md "wikilink")
+  - キャラクターデザイン - [岸田隆宏](../Page/岸田隆宏.md "wikilink")
+  - 美術監督 - 佐藤勝
+  - 色彩設定 - 西表美智代
+  - 撮影監督 - 安津畑隆
+  - 編集 - [瀬山武司](../Page/瀬山武司.md "wikilink")
+  - 音響監督 - [鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
+  - 音楽 - [仲井戸‘CHABO’麗市](https://ja.wikipedia.org/wiki/仲井戸麗市 "wikilink")
+  - プロデューサー - [ueda yasuyuki](https://ja.wikipedia.org/wiki/上田耕行 "wikilink")、安部正次郎
+  - 制作協力 - [GENCO](https://ja.wikipedia.org/wiki/ジェンコ "wikilink")
+  - アニメーション制作 - [トライアングルスタッフ](../Page/トライアングルスタッフ.md "wikilink")
+  - 製作 - [PIONEER LDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")
+
+### 主題歌
+
+  - オープニングテーマ「DUVET」
+    作詞 - Jasmine Rodgers / 歌 - [bôa](../Page/ボア_\(ロックバンド\).md "wikilink")
+  - エンディングテーマ「遠い叫び」
+    作詞・作曲 - [仲井戸麗市](https://ja.wikipedia.org/wiki/仲井戸麗市 "wikilink") / 歌 - 仲井戸‘CHABO’麗市
+
+### 各話リスト
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話数</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>絵コンテ</p></th>
+<th><p>演出</p></th>
+<th><p>作画監督</p></th>
+<th><p>放送日</p></th>
+<th><p>収録VHS</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Layer:01</p></td>
+<td><p>WEIRD</p></td>
+<td><p><a href="../Page/中村隆太郎.md" title="wikilink">中村隆太郎</a></p></td>
+<td><p>関口雅浩</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a></strong><br />
+<a href="../Page/7月6日.md" title="wikilink">7月6日</a></p></td>
+<td><p>LIF.01</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Layer:02</p></td>
+<td><p>GIRLS</p></td>
+<td><p>菅井嘉浩</p></td>
+<td><p><a href="../Page/7月13日.md" title="wikilink">7月13日</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Layer:03</p></td>
+<td><p>PSYCHE</p></td>
+<td><p>中村隆太郎</p></td>
+<td><p>松浦錠平</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/田中雄一_(アニメーター)" title="wikilink">田中雄一</a></p></td>
+<td><p><a href="../Page/7月20日.md" title="wikilink">7月20日</a></p></td>
+<td><p>LIF.02</p></td>
+</tr>
+<tr class="even">
+<td><p>Layer:04</p></td>
+<td><p>RELIGION</p></td>
+<td><p>西山明樹彦</p></td>
+<td><p>高橋勇治</p></td>
+<td><p><a href="../Page/7月27日.md" title="wikilink">7月27日</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Layer:05</p></td>
+<td><p>DISTORTION</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/むらた雅彦" title="wikilink">村田雅彦</a></p></td>
+<td><p>関口雅浩</p></td>
+<td><p><a href="../Page/8月3日.md" title="wikilink">8月3日</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Layer:06</p></td>
+<td><p>KIDS</p></td>
+<td><p>中村隆太郎</p></td>
+<td><p>菅井嘉浩</p></td>
+<td><p><a href="../Page/8月10日.md" title="wikilink">8月10日</a></p></td>
+<td><p>LIF.03</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Layer:07</p></td>
+<td><p>SOCIETY</p></td>
+<td><p>中村隆太郎</p></td>
+<td><p>松浦錠平</p></td>
+<td><p>丸山泰英</p></td>
+<td><p><a href="../Page/8月17日.md" title="wikilink">8月17日</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Layer:08</p></td>
+<td><p>RUMORS</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/うえだしげる" title="wikilink">うえだしげる</a></p></td>
+<td><p>田中雄一</p></td>
+<td><p><a href="../Page/8月24日.md" title="wikilink">8月24日</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Layer:09</p></td>
+<td><p>PROTOCOL</p></td>
+<td><p><a href="../Page/角銅博之.md" title="wikilink">仁賀緑朗</a></p></td>
+<td><p>西山明樹彦</p></td>
+<td><p>関口雅浩</p></td>
+<td><p><a href="../Page/8月31日.md" title="wikilink">8月31日</a></p></td>
+<td><p>LIF.04</p></td>
+</tr>
+<tr class="even">
+<td><p>Layer:10</p></td>
+<td><p>LOVE</p></td>
+<td><p><a href="../Page/佐藤卓哉.md" title="wikilink">佐藤卓哉</a></p></td>
+<td><p>村田雅彦</p></td>
+<td><p>菅井嘉浩</p></td>
+<td><p><a href="../Page/9月7日.md" title="wikilink">9月7日</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Layer:11</p></td>
+<td><p>INFORNOGRAPHY</p></td>
+<td><p>中村隆太郎</p></td>
+<td><p>松浦錠平</p></td>
+<td><p>丸山泰英</p></td>
+<td><p><a href="../Page/9月14日.md" title="wikilink">9月14日</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Layer:12</p></td>
+<td><p>LANDSCAPE</p></td>
+<td><p>中村隆太郎</p></td>
+<td><p><a href="../Page/岸田隆宏.md" title="wikilink">岸田隆宏</a></p></td>
+<td><p><a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
+<td><p>LIF.05</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Layer:13</p></td>
+<td><p>EGO</p></td>
+<td><p>丸山泰英<br />
+関口雅浩</p></td>
+<td><p><a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### ビデオ / DVD / Blu-ray Disc
+
+放送後発売されたビデオには安倍の描いた、[シュール](https://ja.wikipedia.org/wiki/シュール "wikilink")なギャグ[4コマ漫画](../Page/4コマ漫画.md "wikilink")がついていた。この4コマは安倍の画集にも収録されている。
+
+テレビ放送版とDVDなどではオープニングとエンディングの演出が多少違うほか、ウェザーブレイクもDVDなどには全ては収録されていない。
+
+2010年10月には、ベータカムとして残されていた1998年当時のSD素材を利用し、手作業で高解像度化を施した[BDボックスが発売された](../Page/Blu-ray_Disc.md "wikilink")。品質の悪い素材しか残されていないパートもあり、制作は非常に苦労するものであったという。
+
+## グラフィック+テキスト
+
+アニメ版とほぼ同時進行で、[ソニーマガジンズ](https://ja.wikipedia.org/wiki/ソニーマガジンズ "wikilink")の雑誌『月刊AX』に連載された。アニメ版話数にあわせ、ゲーム版との橋渡し的な意味も込めて作品のイメージや世界観などをイラストとテキストによるカットとして構成したもの。後に出版された画集『オムニプレゼンス（遍在）―― Lain 安倍吉俊画集』（ソニー・マガジンズ　1999年）では、新たにカットが追加されている。
+
+  - グラフィック：安倍吉俊
+  - テキスト：小中千昭
+
+### サブタイトル
+
+LAYER:01から13 のサブタイトルは、テレビアニメ版の各話サブタイトルと共通である。
+
+  - `PRE-LAYER` - 初出：[3月10日](../Page/3月10日.md "wikilink") 4月号
+  - `LAYER:01 WEIRD` - 初出：[4月10日](../Page/4月10日.md "wikilink") 5月号
+  - `LAYER:02 GIRLS` - 初出：[5月10日](../Page/5月10日.md "wikilink") 6月号
+  - `LAYER:03 PSYCHE` - 初出：[6月10日](../Page/6月10日.md "wikilink") 7月号
+  - `LAYER:04 RELIGION` - 初出：[7月10日](../Page/7月10日.md "wikilink") 8月号
+  - `LAYER:05 DISTORTION` - 初出：[8月10日](../Page/8月10日.md "wikilink") 9月号
+  - `LAYER:06 KIDS` - 初出：画集書き下ろし
+  - `LAYER:07 SOCIETY` - 初出：画集書き下ろし
+  - `LAYER:08 RUMORS` - 初出：画集書き下ろし
+  - `LAYER:09 PROTOCOL` - 初出：画集書き下ろし
+  - `LAYER:10 LOVE` - 初出：画集書き下ろし
+  - `LAYER:11 INFORNOGRAPHY` - 初出：[9月10日](../Page/9月10日.md "wikilink") 10月号
+  - `LAYER:12 LANDSCAPE` - 初出：画集書き下ろし
+  - `LAYER:13 EGO` - 初出：[10月10日](../Page/10月10日.md "wikilink") 11月号
+  - `LAYER:00 PROGRAM` - 初出：[11月10日](../Page/11月10日.md "wikilink") 12月号
+
+## serial experiments lain BOOTLEG
+
+パイオニアLDCから1999年に発売された限定版ファンディスク的位置付けの2枚組CD-ROM。[竹本晃](https://ja.wikipedia.org/wiki/竹本晃 "wikilink")作曲のテレビシリーズ本編で使用された音源のほか、ミニゲーム、壁紙などのデスクトップアクセサリーが収録されている。
+
+本製品は、「BOOTLEG＝海賊版」の名の通り、制作スタッフから流出したデータを第三者が転売したものという演出がなされており、パッケージも無地のボール紙に手書き風のラベルが無造作に貼られただけの簡素なものとなっている。
+
+## ゲーム
+
+公称ジャンルは「アタッチメントソフトウェア」。企画の中ではもっとも早く進行しつつも、発表は最も遅い雑誌連載終了後の1998年11月末となった。CD2枚により構成されている。
+
+プレイヤーは、ネットワーク内に散らばった lain に関する記録を集め、断片的な記憶をたどって lain の日常生活と彼女の秘密に近づいていく。
+
+ゲームの内容は、音声ファイルと映像ファイルの再生の繰り返しという独特のスタイル。ファイルの内容には、玲音の日記、柊子の日記、カウンセリングの記録などがあり、特定のファイルにアクセスすることで新しいファイルやネットワーク領域へのアクセスが可能となる。
+
+ゲームの中でできることはあくまで「ファイルの再生」までであり、それぞれの情報が持つ具体的な意味まではほとんど窺い知ることはできず、更にはファイルの中には「何者かによって改竄されたと思われるファイル」が混在するため「物語の結末を記録したファイルの再生」が一応のエンディングではあるが、物語の全容を理解するためにはプレイヤー自身が頭の中で情報を整理、取捨選択する必要があり、そこから導かれる結論の正当性もまた、各々の判断に委ねられている。
+
+なお、本作の開発スタッフの一部は、同じく「アタッチメントソフトウェア」である「[NOёL](../Page/NOeL.md "wikilink")」シリーズの開発も手がけており、両作品の間には「現実世界と仮想世界の境界が曖昧になるようなプレイ感覚（ただし方向性は正反対）」「断片的な情報を元に全体図を想像する楽しみ」「観測システム『思い出君』の存在（本作ではネットエージェントプログラム、NOёLでは自動追尾式浮遊カメラ）」といった共通点を見ることができる。
+
+年齢制限はかかっていないものの、一部に過激な映像や表現が存在する。
+
+### アプリ
+
+Blu-ray Disc化企画の一環でlain_cameraというiPhone用アプリが配信された。 カメラ機能を使ったアプリで現実世界の中にlainが写りこむといった内容で撮影した写真を保存することが出来た。
+
+### スタッフ（ゲーム）
+
+  -
+    ディレクター：中原順志
+    監督：[えんどうてつや](https://ja.wikipedia.org/wiki/えんどうてつや "wikilink")
+    脚本：[小中千昭](../Page/小中千昭.md "wikilink")
+    製作：SR-12W / PIONEER LDC.
+
+### 登場人物（ゲーム）
+
+  - 岩倉 玲音（いわくら れいん）
+    声 - [清水香里](../Page/清水香里.md "wikilink")
+    本作の主人公。おとなしく内向的な少女。ゲーム開始時点では11歳で、14歳まで成長する。12歳の時に幻聴などのためカウンセリングに通い始める。
+    アニメ版とは異なり、兄弟姉妹はいないが家庭環境はまともな状態となっている。一方で内向的だが一応友達はいるようである。
+  - 米良 柊子（よねら とうこ）
+    声 - [岡本麻弥](../Page/岡本麻弥.md "wikilink")
+    27歳。アメリカの大学院を卒業後に日本へ帰国し、玲音を担当することになった新人カウンセラー。カウンセリングを通じて玲音と仲良くなっていく。
+  - 牧野 慎一郎（まきの しんいちろう）
+    声 - [渋谷茂](https://ja.wikipedia.org/wiki/渋谷茂 "wikilink")
+    コンピュータネットワーク上で玲音と交流を持っている普通のサラリーマン。物語の後半で玲音と初めて接触するが、その際にある事件で巻き込まれることになる。
+
+## 脚注
+
+## 関連項目
+
+  - [シミュレーテッドリアリティ](https://ja.wikipedia.org/wiki/シミュレーテッドリアリティ "wikilink")
+  - [アイソレーション・タンク](../Page/アイソレーション・タンク.md "wikilink")
+  - [電波系](https://ja.wikipedia.org/wiki/電波系 "wikilink")
+  - [NOёL](../Page/NOeL.md "wikilink") - 本作のゲーム版とジャンル、プロデューサーを同一とする1996年発売のプレイステーション用ゲームソフト。
+  - [NieA_7](https://ja.wikipedia.org/wiki/NieA_7 "wikilink") - 1999年より連載が開始された安倍吉俊による漫画作品および2000年のアニメ作品。アニメ版の製作スタジオ、プロデューサーが本作と共通する。監督：[佐藤卓哉](../Page/佐藤卓哉.md "wikilink")。
+  - [回路 (映画)](../Page/回路_\(映画\).md "wikilink") - 本作と同一のプロットを元に製作された2001年公開の日本映画。監督：[黒沢清](../Page/黒沢清.md "wikilink")。
+  - [神霊狩/GHOST HOUND](https://ja.wikipedia.org/wiki/神霊狩/GHOST_HOUND "wikilink") - 精神医療等を題材とした2007年のアニメ作品。監督・脚本家が本作と共通する。原案：[士郎正宗](https://ja.wikipedia.org/wiki/士郎正宗 "wikilink")。
+  - [ですぺら](https://ja.wikipedia.org/wiki/ですぺら "wikilink") - 本作と主要スタッフを同一とする2009年から2011年にかけて展開されたメディアミックス作品。
+
+## 外部リンク
+
+  - [公式サイト - NBC ユニバーサル・ジャパン](http://www.nbcuni.co.jp/rondorobe/anime/lain/)
+  - [ゲーム公式サイト](http://web.archive.org/web/19981202030444/http://www.pldc.co.jp/plag/)
+  - [小中千昭のページ](http://www.konaka.com/alice6/lain/index.shtml)
+  - [文化庁メディア芸術祭](http://plaza.bunka.go.jp/festival/1998/animation/000079/)
+
+[Category:メディアミックス作品](https://ja.wikipedia.org/wiki/Category:メディアミックス作品 "wikilink") [Category:アニメ作品_し](https://ja.wikipedia.org/wiki/Category:アニメ作品_し "wikilink") [Category:1998年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1998年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:テレビ東京の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜アニメ "wikilink") [Category:トライアングルスタッフ](https://ja.wikipedia.org/wiki/Category:トライアングルスタッフ "wikilink") [Category:ジェンコのアニメ作品](https://ja.wikipedia.org/wiki/Category:ジェンコのアニメ作品 "wikilink") [Category:NBCユニバーサル・ジャパンのアニメ作品](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンのアニメ作品 "wikilink") [Category:仮想世界を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:仮想世界を舞台としたアニメ作品 "wikilink") [Category:SFアニメ](https://ja.wikipedia.org/wiki/Category:SFアニメ "wikilink") [Category:サイバーパンク作品](https://ja.wikipedia.org/wiki/Category:サイバーパンク作品 "wikilink") [Category:サイバーパンク・コンピュータゲーム](https://ja.wikipedia.org/wiki/Category:サイバーパンク・コンピュータゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:1998年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1998年のコンピュータゲーム "wikilink") [Category:パイオニアLDCのゲームソフト](https://ja.wikipedia.org/wiki/Category:パイオニアLDCのゲームソフト "wikilink") [Category:仮想世界を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:仮想世界を舞台としたコンピュータゲーム "wikilink")
+
+1.  安倍吉俊 Web サイト「過去の呟き」1997年3月26日より。
+2.  [小中千昭インタビュー](http://www.konaka.com/alice6/lain/hk.html)（フランスのアジア映画誌HK 2000年04号/Alice6 Chiaki J. Konaka's Web <small>(小中千昭のページ)</small>）
+3.  当時テレビ東京の各番組終了直後に放送されていた、15秒間の天気予報番組。
+4.  このピンが立体的でないことは、安部吉俊の描いた漫画でネタにされている。
+5.  [きみは「serial experiments lain」を知っているか　20周年を経ていまだ続く実験](http://nlab.itmedia.co.jp/nl/articles/1807/21/news005.html)ねとらぼ、2018年7月29日閲覧。

@@ -1,0 +1,453 @@
+> この記事は[BMW3](https://ja.wikipedia.org/wiki/BMW3)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Bmw3er.jpg "wikilink") **3シリーズ**は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー・[BMW](../Page/BMW.md "wikilink")が製造・販売している[乗用車](../Page/乗用車.md "wikilink")である。かつて販売していた[BMW2002の系譜を受け継ぐモデルである](https://ja.wikipedia.org/wiki/BMW・02シリーズ "wikilink")。
+
+BMWの中核を担う主力モデルであり、アメリカ市場においてもスモールセダンのベストセラーモデルとして人気を博しており年間10万台以上販売される。日本市場において3シリーズは[Dセグメント](../Page/Dセグメント.md "wikilink")における[輸入車](https://ja.wikipedia.org/wiki/輸入車 "wikilink")最量販モデルである。
+
+## 概要
+
+[欧州における分類で](../Page/ヨーロッパ.md "wikilink")[Dセグメント](../Page/Dセグメント.md "wikilink")（3シリーズ・コンパクトは[Cセグメント](../Page/Cセグメント.md "wikilink")）に属する、[後輪駆動](https://ja.wikipedia.org/wiki/後輪駆動 "wikilink")（FR）（一部モデルに[四輪駆動](../Page/四輪駆動.md "wikilink")（4WD））の乗用車である。3シリーズは1975年の初代（E21）登場時から現在に至るまで、BMWの最多量販車種であり続けている。
+
+前身は、[1500シリーズ](https://ja.wikipedia.org/wiki/BMW・1500/1600/1800/2000 "wikilink")（[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")発表）からはじまるいわゆる「ノイエクラッセ」の発展版、[02シリーズ](https://ja.wikipedia.org/wiki/BMW・02シリーズ "wikilink")（[1966年](../Page/1966年.md "wikilink")発表）である。
+
+## 初代 E21（1975年 - 1983年）
+
+[02シリーズのボクシーなボディを発展させ曲面を生かした優美なデザインを持ち](https://ja.wikipedia.org/wiki/BMW・02シリーズ "wikilink")、ノイエクラッセからつづく伝統の[M10系エンジンを搭載する](https://ja.wikipedia.org/wiki/w:en:BMW_M10 "wikilink")。軽量ボディから繰り出される軽快で吹け上がりの良いエンジンレスポンスと俊敏なハンドリング特性をもった2ドアセダン。[サスペンション](../Page/サスペンション.md "wikilink")形式は変わらず、前輪が[マクファーソン・ストラット](https://ja.wikipedia.org/wiki/マクファーソン・ストラット "wikilink")式、後輪が[セミトレーリングアーム](https://ja.wikipedia.org/wiki/セミトレーリングアーム "wikilink")式である。外観上の特徴でもあったボディサイドのキャラクターラインから開く逆アリゲーター式ボンネットも2002より引き継いでいる。
+
+1975年登場時は、全グレードに直列4気筒エンジンを搭載し、キャブレター仕様の**316**、**318**、**320**とインジェクション仕様の**320i**が用意された。エクステリアはベーシックモデルの316と318は2灯式ヘッドライトを装備するのに対し、上級モデルの320と320iは4灯式ヘッドライトを装備する。
+
+1977年には直列6気筒エンジンを搭載した**320/6**、**323i**が追加された。
+
+1979年マイナーチェンジ。フロントのロアーパネルおよびエアスポイラー形状、サイドミラーのデザインが変更された。先代02シリーズの最廉価モデル[1502](https://ja.wikipedia.org/wiki/BMW・02シリーズ "wikilink")（3シリーズ登場後も、最廉価モデルとして引き続き生産・販売されていた）の後釜として、**315**が追加された（316搭載の1,573cc直列4気筒エンジンをデチューンした最廉価モデル）。
+
+初代3シリーズは[オイルショック](../Page/オイルショック.md "wikilink")の影響もあって、[2002ターボのような高性能](https://ja.wikipedia.org/wiki/BMW・02シリーズ#歴史 "wikilink")[スポーツセダン](https://ja.wikipedia.org/wiki/スポーツセダン "wikilink")は販売されなかった（一方でツーリングカーレース上ではターボモデル 320i Turboが活躍した）。[バウアによるカブリオレモデル](https://ja.wikipedia.org/wiki/バウア_\(コーチビルダー\) "wikilink")（[タルガトップ](../Page/タルガトップ.md "wikilink")）は引き続き設定され「**トップ カブリオレ** (**T**op **C**abriolet：TC)」として販売されていた。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>搭載エンジン一覧</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>グレード</p></td>
+</tr>
+<tr class="even">
+<td><p>315</p></td>
+</tr>
+<tr class="odd">
+<td><p>316</p></td>
+</tr>
+<tr class="even">
+<td><p>318<br />
+318A</p></td>
+</tr>
+<tr class="odd">
+<td><p>320<br />
+320A</p></td>
+</tr>
+<tr class="even">
+<td><p>320i</p></td>
+</tr>
+<tr class="odd">
+<td><p>320/6<br />
+320/6A</p></td>
+</tr>
+<tr class="even">
+<td><p>323i</p></td>
+</tr>
+</tbody>
+</table>
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Bmwe21.jpg "wikilink")
+
+### 日本での販売
+
+日本へは初め[バルコム](https://ja.wikipedia.org/wiki/バルコム "wikilink")オートトレイディングによって正規輸入され、[1981年](../Page/1981年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")56年）からは[BMW](../Page/BMW.md "wikilink")の日本法人として新たに設立された[BMWジャパン](https://ja.wikipedia.org/wiki/BMWジャパン "wikilink")に移管された。しかしながら、販売網の未整備や、限定的な導入車種などから[並行輸入](https://ja.wikipedia.org/wiki/並行輸入 "wikilink")も多く行われ、315から323iまでが並行輸入車として日本で販売された。
+
+当初の正規輸入モデルは、トップモデルの320iおよび320iAで、これらはアメリカ仕様の320iを基に、外装をヨーロッパ仕様に戻したものであった。ごく初期に輸入されたモデルでは[フェンダーミラー](https://ja.wikipedia.org/wiki/フェンダーミラー "wikilink")に置き換えられていたものの、やがて[ドアミラー](https://ja.wikipedia.org/wiki/ドアミラー "wikilink")のまま販売されるようになった。
+
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（[昭和](../Page/昭和.md "wikilink")55年）にはマイナーチェンジを受け、318iと318iAが輸入されるようになった。翌年からは[BMWジャパンによる輸入業務に移管されたものの](https://ja.wikipedia.org/wiki/BMW_JAPAN "wikilink")、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（[昭和](../Page/昭和.md "wikilink")58年）のモデルチェンジまで価格以外の大きな変更は行われなかった。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>日本への正規輸入車グレード一覧</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>グレード</p></td>
+</tr>
+<tr class="even">
+<td><p>320i<br />
+320iA</p></td>
+</tr>
+<tr class="odd">
+<td><p>318i<br />
+318iA</p></td>
+</tr>
+</tbody>
+</table>
+
+{{-}}
+
+## 第2代目 E30（1982年 - 1994年）
+
+初代モデルより車体寸法が拡大され、より滑らかで全体的に丸みを帯びたデザインとなった。デザイナーは第2世代[BMW・7シリーズ](../Page/BMW・7シリーズ.md "wikilink")（E32） や第2世代・第3世代[5シリーズ](../Page/BMW・5シリーズ.md "wikilink")（E28、E34）等を手掛けた[クラウス・ルーテ](https://ja.wikipedia.org/wiki/クラウス・ルーテ "wikilink")。初代3シリーズではグレードによりヘッドライトが2灯式、4灯式（上級モデル）となっていたが、第2世代3シリーズからは全グレードに4灯式ヘッドライトが搭載された。[サスペンション](../Page/サスペンション.md "wikilink")は、前輪がストラット、後輪がセミトレーリングアーム式であった。
+
+第2世代3シリーズは2ドアセダン、4ドアセダン、[カブリオレ](https://ja.wikipedia.org/wiki/カブリオレ "wikilink")、[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")、[スポーツセダン](https://ja.wikipedia.org/wiki/スポーツセダン "wikilink")と多岐に渡るラインナップが設定され、作りの良い軽量化された車体から繰り出される吹け上がりの良いエンジンレスポンスとスポーティな[ハンドリング](https://ja.wikipedia.org/wiki/ハンドリング "wikilink")特性で世界的な人気を博した。
+
+モデル展開は1982年に2ドアセダンがデビューし、コーチビルダー[バウア社による](https://ja.wikipedia.org/wiki/バウア_\(コーチビルダー\) "wikilink")[トップカブリオレ（タルガトップ）モデルが追加された](../Page/タルガトップ.md "wikilink")。グレードは[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")エンジンを搭載する「315」、「316」、「318i」、[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")エンジンを搭載する「320i」、「323i」。ベストセラーとなる4ドアセダンのデビューは1983年で、ほぼ同時期に登場したメルセデス・ベンツの小型セダン[190Eと人気を分け合った](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・190E "wikilink")。
+
+1985年には小変更が行われ、[フロント](https://ja.wikipedia.org/wiki/フロント "wikilink")ロアーパネルのデザインが変更された。また、323iが廃止されて325iに代わったほか、ETAエンジン搭載の325eとBMW初の[フルタイム4WDである](https://ja.wikipedia.org/wiki/4WD "wikilink")325iXが追加された。また、カブリオレは従前のバウア社製のものに加えて、バウア社と共同開発による自社製[フルカブリオレモデルが追加された](../Page/オープンカー.md "wikilink")。1985年には他にも、グループAレースへのホモロゲーション取得のために開発された高性能スポーツセダン、[M3が登場した](https://ja.wikipedia.org/wiki/BMW・M3#.E5.88.9D.E4.BB.A3.EF.BC.881985.E5.B9.B4-1990.E5.B9.B4.EF.BC.89E30 "wikilink")。
+
+1987年には[マイナーチェンジ](https://ja.wikipedia.org/wiki/マイナーチェンジ "wikilink")が行われ、エリプソイド（楕円体）ヘッドライトと呼ばれる車幅灯内蔵型の前照灯が搭載されたほか、テールライトの意匠が変わり、[バンパー](https://ja.wikipedia.org/wiki/バンパー "wikilink")については鉄製バンパー（をゴムブッシュで覆ったもの）から樹脂製バンパー（にゴムブッシュを貼り付けたもの）に変わった。カブリオレについては従来型のデザインが継続され、3年遅れで後期型へマイナーチェンジした。318iはエンジンが新設計のものに置き換えられ性能が向上した。
+
+1989年にはステーションワゴンである**ツーリング**モデルが追加されたが、この名称は[2002の](https://ja.wikipedia.org/wiki/BMW2002 "wikilink")[ハッチバック](../Page/ハッチバック.md "wikilink")モデルに由来したものであった。また、同時に4気筒DOHCエンジンを搭載したスポーツセダン、318isが追加された。
+
+1990年に3シリーズは、第3世代E36型3シリーズへ[フルモデルチェンジしたが](https://ja.wikipedia.org/wiki/モデルチェンジ_\(自動車\) "wikilink")、カブリオレとツーリングについては従来型のまま併売された。両車とも第3世代のカブリオレ・ツーリングモデルが登場する1993年、1994年まで販売された。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>搭載エンジン一覧</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>グレード</p></td>
+</tr>
+<tr class="even">
+<td><p>4気筒系</p></td>
+</tr>
+<tr class="odd">
+<td><p>315</p></td>
+</tr>
+<tr class="even">
+<td><p>316</p></td>
+</tr>
+<tr class="odd">
+<td><p>316i</p></td>
+</tr>
+<tr class="even">
+<td><p>318i<br />
+318iA</p></td>
+</tr>
+<tr class="odd">
+<td><p>318i<br />
+318iA</p></td>
+</tr>
+<tr class="even">
+<td><p>318is</p></td>
+</tr>
+<tr class="odd">
+<td><p>320is</p></td>
+</tr>
+<tr class="even">
+<td><p>6気筒系</p></td>
+</tr>
+<tr class="odd">
+<td><p>320i<br />
+320iA</p></td>
+</tr>
+<tr class="even">
+<td><p>323i<br />
+323iA</p></td>
+</tr>
+<tr class="odd">
+<td><p>325i</p></td>
+</tr>
+<tr class="even">
+<td><p>325e</p></td>
+</tr>
+<tr class="odd">
+<td><p>325iX</p></td>
+</tr>
+<tr class="even">
+<td><p>333i</p></td>
+</tr>
+<tr class="odd">
+<td><p>324d</p></td>
+</tr>
+<tr class="even">
+<td><p>324td</p></td>
+</tr>
+</tbody>
+</table>
+
+### 日本での販売
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_E30_front_20080127.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:325ix_Touring.jpg "wikilink") [バブル景気](../Page/バブル景気.md "wikilink")や販売網の整備など好条件が重なり、[BMWジャパンの設立以来最大の人気車種となった](https://ja.wikipedia.org/wiki/BMW_JAPAN "wikilink")。販売台数の多さから、[メルセデス・ベンツ 190Eの](../Page/メルセデス・ベンツ・W201.md "wikilink")「小ベンツ」「赤坂の[サニー](../Page/日産・サニー.md "wikilink")」と並んで「六本木の[カローラ](../Page/トヨタ・カローラ.md "wikilink")」などと揶揄されることもあった。
+
+正規輸入車の他、[並行輸入](https://ja.wikipedia.org/wiki/並行輸入 "wikilink")も盛んに行われ、左ハンドルの欧州仕様のほか、[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")で生産された右ハンドル車も並行輸入業者によって日本で販売された。また、[プラザ合意](../Page/プラザ合意.md "wikilink")以降の大幅な[円高](https://ja.wikipedia.org/wiki/円高 "wikilink")や、日本と同等の[排気ガス規制](https://ja.wikipedia.org/wiki/排気ガス規制 "wikilink")の存在による日本の[車検](https://ja.wikipedia.org/wiki/車検 "wikilink")適応の容易さから[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")からの並行輸入も多く行われていた。
+
+北米仕様車は衝撃吸収機構を持った大型バンパー（いわゆる5マイルバンパー）が装備されていることが外観の特徴であった。マイナーチェンジを行った1988年以降もこの5マイルバンパーが装備されており、欧州仕様と同じ小型の樹脂製に変わるのは1989年以降であった。また、日本仕様車では[1996年](../Page/1996年.md "wikilink")（[平成](../Page/平成.md "wikilink")8年）まで装備されなかった[ハイマウントストップランプ](../Page/ハイマウントストップランプ.md "wikilink")もこの時代から装備されていた。
+
+正規輸入は[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（[昭和](../Page/昭和.md "wikilink")58年）より[BMWジャパンによって開始され](https://ja.wikipedia.org/wiki/BMW_JAPAN "wikilink")、初めは2ドアで[左ハンドル](https://ja.wikipedia.org/wiki/左ハンドル "wikilink")の318i、318iAと、バウア社製TCモデルの318iAカブリオーレが発売された。2ドアセダンモデルでは、専用サスペンションなどで足回りを固めた「スポーツ・パッケージ」と、スライディングルーフなどの高級装備を加えた「エクスクルーシブ・パッケージ」が選べた。
+
+翌年には4ドアの325iAが追加されたが、これには高出力のライト・シックスではなく、528eと同じ高トルク型のETAエンジンが搭載されていた。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（[昭和](../Page/昭和.md "wikilink")60年）には318iAの4ドアが追加されたほか、318系には右ハンドルが設定された。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（[昭和](../Page/昭和.md "wikilink")61年）には325iAに2ドアモデルが追加された。
+
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[昭和](../Page/昭和.md "wikilink")62年）に大幅なラインナップの変更があり、ライト・シックスの正規輸入が開始された。これは、欧州でもようやく北米/日本並みの[排気ガス規制](https://ja.wikipedia.org/wiki/排気ガス規制 "wikilink")が導入されたことに伴い、全エンジンに[触媒](../Page/触媒.md "wikilink")付のものが開発されたことによった。ETAエンジンの325iAが廃止され、ライト・シックスの320i（2ドア）と320iA、325iA（2/4ドア）が発売された。また、325iCA（自社製カブリオーレ）と325iXA、M3も追加された。さらに、320i/iAと325iAの2ドアには[M社製サスペンションやスポーツシート](https://ja.wikipedia.org/wiki/M_Gmbh "wikilink")、エアロパーツなどを装備した「スポーツ・バージョン」が設定された。
+
+[1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年）にはセダンがマイナーチェンジされ、318iについてはエンジンが換装された。翌年にはスポーツバージョンに代って、前述のパーツの他、専用のツートーンカラーが用意された「Mテクニック・バージョン」が2ドアの6気筒モデルに設定された。また、320iカブリオレが追加され、後に325iカブリオレは廃止された。
+
+[1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）に第3世代モデルであるE36が発売されると、320iカブリオレがマイナーチェンジ、325iツーリングが導入され「クラシック・3シリーズ」として販売が継続された。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:BMW320CAB.jpg "wikilink")
+
+| 日本への正規輸入車一覧 |
+| ----------- |
+| グレード        |
+| 318i        |
+| 318iA       |
+| 318iAカブリオレ  |
+| 320i        |
+| 320iA       |
+| 320iAカブリオレ  |
+| 325iA       |
+| 325iA       |
+| 325iXA      |
+| 325iAカブリオレ  |
+| 325iAツーリング  |
+
+## 第3代目 E36（1990年 - 2000年）
+
+居住性と対衝突安全性改善のため、ボディサイズが拡大した。伝統的な丸型4灯ヘッドライトは異形4灯となり、4ドアモデルでのプレスドア採用等、空力特性が改善した。エンジンは6気筒系の全モデルで[DOHC](../Page/DOHC.md "wikilink")化が行われた。 [サスペンション](../Page/サスペンション.md "wikilink")は、フロントは伝統の [ストラット式サスペンション](../Page/ストラット式サスペンション.md "wikilink")でリアは従来の後輪用[セミトレーリングアーム](https://ja.wikipedia.org/wiki/セミトレーリングアーム "wikilink")式から変更され、[Z1から受け継いだ](https://ja.wikipedia.org/wiki/BMW・Z1 "wikilink")[セントラルアーム](https://ja.wikipedia.org/wiki/セントラルアーム "wikilink")（=[マルチリンク式サスペンション](https://ja.wikipedia.org/wiki/マルチリンク式サスペンション "wikilink")）式サスペンションとなった。 8年に渡って生産され、途中エンジンの世代交代などさまざまなモデルチェンジが行われたため、バリエーションの多いモデルである。 第3世代3シリーズ（E36）は第2世代3シリーズ（E30）に引き続き世界的なベストセラーモデルとなった。日本でも[消費税](../Page/消費税.md "wikilink")導入に伴う[物品税](../Page/物品税.md "wikilink")の廃止（物品税18.5%→消費税3%）、1990年代に入ってからもしばらく続いた[バブル景気](../Page/バブル景気.md "wikilink")の余波、史上空前の円高を背景に販売台数を伸ばした。
+
+  - 1990年9月
+
+まず316i、318i、320i、325iの4ドアセダンが登場。
+
+  - 1992年3月
+
+従来の2ドアセダンの後継2ドアクーペを追加。この2ドアクーペは、一見セダンとそっくりの外観だが、 実はほとんどの外装部品が専用設計となっていた。
+
+  - 1993年4月
+
+2ドアカブリオレを追加。
+
+  - 1994年3月
+
+ボディの大型化と車両価格上昇により、廉価モデルの必要性が高まり、3ドアハッチバックの小型モデル、3シリーズ・コンパクトが生まれた。 E36/5はコンパクトのモデルコードである。その他同年には325iのエンジンがM50B25からM52B28へと変更されモデル名も328iとなる。この328iにはオートエアコンやヒーテッドドアミラーが標準装備された。
+
+  - 1995年1月
+
+ツーリングモデル（ステーションワゴン）を追加。同年11月にバンパーグリルのデザイン変更
+
+  - 1996年11月
+
+マイナーチェンジ。97年モデルより車体カラーに合わせたカラードバンパーを採用、サイドステップ、リアスカートのカラーも変更。バンパーグリル、キドニーグリルのデザインを小変更。ハイマウントブレーキランプとASC+Tを全車標準装備。
+
+なお、このE36型（セダンのみ）までが日本での「5ナンバー」サイズに適合するボディサイズであった。（エンジンが2,000cc以上のモデルや専用ボディを持つクーペとカブリオレは3ナンバー登録）。ツーリングとディーゼルエンジン搭載モデルは一切正規輸入がなかった。 また日本に正規輸入された[マニュアルトランスミッション](../Page/マニュアルトランスミッション.md "wikilink")搭載モデルは、318is Coupe（左ハンドル）と[自動車教習所](../Page/自動車教習所.md "wikilink")向けの318i（右ハンドル）のみ。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>4気筒系</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>グレード</p></td>
+</tr>
+<tr class="even">
+<td><p>316i<br />
+316i クーペ</p></td>
+</tr>
+<tr class="odd">
+<td><p>318i<br />
+318i ツーリング</p></td>
+</tr>
+<tr class="even">
+<td><p>318is クーペ<br />
+318i カブリオレ</p></td>
+</tr>
+<tr class="odd">
+<td><p>318is クーペ<br />
+318i カブリオレ</p></td>
+</tr>
+<tr class="even">
+<td><p>6気筒系</p></td>
+</tr>
+<tr class="odd">
+<td><p>320i<br />
+320i クーペ<br />
+320i ツーリング<br />
+320i カブリオレ</p></td>
+</tr>
+<tr class="even">
+<td><p>325i<br />
+325i クーペ<br />
+325i ツーリング<br />
+325i カブリオレ</p></td>
+</tr>
+<tr class="odd">
+<td><p>323i<br />
+323i クーペ<br />
+323i ツーリング</p></td>
+</tr>
+<tr class="even">
+<td><p>328i<br />
+328i クーペ<br />
+328i ツーリング<br />
+328i カブリオレ</p></td>
+</tr>
+<tr class="odd">
+<td><p>ディーゼル搭載車</p></td>
+</tr>
+<tr class="even">
+<td><p>318tds<br />
+318tds ツーリング</p></td>
+</tr>
+<tr class="odd">
+<td><p>325td</p></td>
+</tr>
+<tr class="even">
+<td><p>325tds<br />
+325tds ツーリング</p></td>
+</tr>
+</tbody>
+</table>
+
+### E36コンパクト
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_318ti.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_318ti_rear.jpg "wikilink") 3シリーズのボディ大型化と車両価格上昇に伴って、よりコンパクトでリーズナブルな価格の車種が必要となり生まれたモデル。[VW](https://ja.wikipedia.org/wiki/VW "wikilink")[ゴルフと同じクラスとなる](../Page/フォルクスワーゲン・ゴルフ.md "wikilink")[Cセグメント](../Page/Cセグメント.md "wikilink")を意識した3ドア[ハッチバック](../Page/ハッチバック.md "wikilink")。モデルコードは**E36/5**。搭載エンジンは4種。日本市場では装備を追加した“プラス”モデルが存在する。
+
+ボディデザインは**E36**型のリア部分をカットした意匠が施されており、外観に関して（リアのトランク部分はカットされているのでCピラーまで）**E36**型そっくりであるが、実際にはコストの関係で先代**E30**型の[シャシーに](../Page/シャシ_\(自動車\).md "wikilink")**E36**型と同じデザインの外装をかぶせた車両であり、リアサスペンションも**E30**型に用いられた[セミトレーリングアーム](https://ja.wikipedia.org/wiki/セミトレーリングアーム "wikilink")を流用している。
+
+3シリーズ・コンパクトの分類はCセグメントに位置する（3シリーズ・セダンは1ランク上の[Dセグメント](../Page/Dセグメント.md "wikilink")に位置する）。このクラスで[後輪駆動](https://ja.wikipedia.org/wiki/後輪駆動 "wikilink")（FR）車は数少ない。車型は3ドアハッチバックのみ。完全な2ボックス型ではなく、小さなトランクリッドのある[セミノッチバック](../Page/ノッチバック.md "wikilink")（ノッチドハッチバック）である。
+
+  - 1994年3月
+
+316ti、318ti、318tdsが登場。 なお、"ti"と称されるのは[日産・スカイライン](https://ja.wikipedia.org/wiki/日産・スカイライン "wikilink")の一部モデルに存在した、"Tiシリーズ"と同じく「Touring international」の略であるとされる。
+
+  - 1995年11月
+
+96年モデルよりバンパーグリルのデザイン変更。
+
+  - 1996年11月
+
+マイナーチェンジ。1997年モデルより車体カラーに合わせたカラードバンパーを採用、サイドステップ、リアスカートのカラーも変更。バンパーグリルのデザイン、キドニーグリルのデザインを小変更。323tiを追加。
+
+| グレード                                         | 製造年                                                                         | エンジン                                                                              | 排気量                                                                              | 最高出力                                                                     | 備考                                                                                                                                              |
+| -------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 316ti コンパクト                                  | [1994年](../Page/1994年.md "wikilink") - [1999年](../Page/1999年.md "wikilink") | 直列4気筒[SOHC](../Page/SOHC.md "wikilink")                                           | 1,596cc                                                                          | 102[馬力](../Page/馬力.md "wikilink") ([DIN](../Page/ドイツ工業規格.md "wikilink")) | 316i（E36）に搭載された[M43B16搭載](https://ja.wikipedia.org/wiki/w:en:BMW_M43 "wikilink")                                                                |
+| 1999年 - [2000年](../Page/2000年.md "wikilink") | 1,895cc                                                                     | 105馬力 (DIN)                                                                       | 316i（E46）に搭載された[M43B19搭載](https://ja.wikipedia.org/wiki/w:en:BMW_M43 "wikilink") |                                                                          |                                                                                                                                                 |
+| 318ti コンパクト                                  | 1994年 - [1996年](../Page/1996年.md "wikilink")                                | 直列4気筒[DOHC](../Page/DOHC.md "wikilink")                                           | 1,796cc                                                                          | 140馬力 (DIN)                                                              | 318is（E36）に搭載された[M42B18搭載](https://ja.wikipedia.org/wiki/w:en:BMW_M42 "wikilink")                                                               |
+| 1996年 - 2000年                                | 1,895cc                                                                     | 318is（E36）に搭載された[M44B19搭載](https://ja.wikipedia.org/wiki/w:en:BMW_M44 "wikilink") |                                                                                  |                                                                          |                                                                                                                                                 |
+| 323ti コンパクト                                  | 1996年 - 2000年                                                               | 直列6気筒DOHC                                                                         | 2,494cc                                                                          | 170馬力 (DIN)                                                              | 323i（E36）に搭載された[M52B25搭載](https://ja.wikipedia.org/wiki/w:en:BMW_M52 "wikilink")                                                                |
+| 318tds コンパクト                                 | 1994年 - 2000年                                                               | 直列4気筒SOHC                                                                         | 1,665cc                                                                          | 90馬力 (DIN)                                                               | [ターボ](../Page/ターボチャージャー.md "wikilink")[ディーゼル](../Page/ディーゼルエンジン.md "wikilink")[M41D17搭載](https://ja.wikipedia.org/wiki/w:en:BMW_M41 "wikilink") |
+
+## 第4代目 E46（1998年 - 2007年）
+
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にセダン、[2000年](../Page/2000年.md "wikilink")にツーリングとクーペがデビューした。 [サスペンション](../Page/サスペンション.md "wikilink")は、フロントは伝統の [ストラット式サスペンション](../Page/ストラット式サスペンション.md "wikilink")でリヤは先代のE36同様に[セントラルアーム](https://ja.wikipedia.org/wiki/セントラルアーム "wikilink")（[マルチリンク式サスペンション](https://ja.wikipedia.org/wiki/マルチリンク式サスペンション "wikilink")）式である。316と318は4気筒モデルであり、320からが6気筒モデルとされた。車高を下げて専用サスペンションと内装、バンパーなどを装備したMスポーツモデルも後ほど設定された。
+
+[2000年](../Page/2000年.md "wikilink")に6気筒モデルのエンジンが新世代のM54系に刷新された。
+
+[2001年](../Page/2001年.md "wikilink")春には330iのみ若干の仕様変更が行われ、Mスポーツパッケージのエアロデザインが変更(後期のエアロを先行採用)された他、ステアリングギヤ比が13.7:1にクイック化された。同年夏にはその他のグレードでも新デザインのエアロが選択可能になった。
+
+[2002年](../Page/2002年.md "wikilink")にマイナーチェンジが行われた。セダンとツーリングのフロントマスクにフェイスリフトが行われ、ヘッドライト、バンパーなども新しいデザインとなり、シャシーもサスセッティングの見直しや330i以外のグレードのステアリングギヤ比の変更（15.4:1→13.7:1）などが行われた。316i（日本には316tiのみの導入）と318iは[バルブトロニック](../Page/バルブトロニック.md "wikilink")機構エンジンに換装された。
+
+[2003年](../Page/2003年.md "wikilink")にクーペとカブリオレのマイナーチェンジが行われた。フェイスリフトを行い、ヘッドライト、バンパー、フェンダー、テールランプなどが新しくなった。後期の330iは、5速MT、5速SMG、5速ATが選べるというトランスミッションの選択肢が豊富なモデルであった。316と318、330以外はATのみの設定。
+
+2003年モデルからはE36以来の赤外線式[キーレスエントリーシステムが電波式に変更され](../Page/スマートエントリー.md "wikilink")、トランク開錠機能が追加されたほか、キーデザインも変更された。
+
+| 外寸・ホイールベース |
+| ---------- |
+| 外寸         |
+| セダン        |
+| クーペ        |
+| ツーリング      |
+| コンパクト      |
+
+{{-}}
+
+### E46コンパクト
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_E46_Compact.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:2003-2005_BMW_316ti_\(E46\)_hatchback_\(2009-02-06\).jpg "wikilink") 先代同様3シリーズのボディ大型化と車両価格上昇に伴って、よりコンパクトでリーズナブルな価格の車種が必要となって生まれた小型[ハッチバック](../Page/ハッチバック.md "wikilink")モデル。**E46/5**はコンパクトのモデルコードである。
+
+**E46コンパクト**は、他の**E46**型と同じ[シャシー](../Page/シャシ_\(自動車\).md "wikilink")・[サスペンション](../Page/サスペンション.md "wikilink")を共有しており、先代**E36コンパクト**と異なり正式に**E46**型の派生モデルとなった。ボディデザインはコンパクトモデルとして独自の意匠が施され、同じ**E46**型でありながらフロントからリアに至るまでセダンやクーペモデルと異なったデザインをしている。
+
+先代と同様に分類は[Cセグメント](../Page/Cセグメント.md "wikilink")、かつ[後輪駆動](https://ja.wikipedia.org/wiki/後輪駆動 "wikilink")（FR）車となる。車型は3ドアハッチバックのみ。完全な2ボックス型ではなく、小さなトランクリッドのある[セミノッチバック](../Page/ノッチバック.md "wikilink")（ノッチドハッチバック）である。
+
+  - 2001年1月
+
+316ti、318ti、325ti、320tdが登場。
+
+  - 2003年5月
+
+マイナーチェンジ。テールランプのデザイン変更が行われた。318tdを追加。そのほか順次搭載エンジンの変更が行われた。
+
+  - 2004年12月
+
+[1シリーズの登場によって](https://ja.wikipedia.org/wiki/BMW・1シリーズ "wikilink")、3シリーズ・コンパクトはその役割を終える（**E46**型では最も早い[2004年](../Page/2004年.md "wikilink")にモデルラインナップから消滅）。
+
+| グレード                                         | 製造年                                                                         | エンジン                                    | 排気量                                                                                                            | 最高出力                                                                     | 備考                                                                                                        |
+| -------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
+| 316ti コンパクト                                  | [2001年](../Page/2001年.md "wikilink") - [2003年](../Page/2003年.md "wikilink") | 直列4気筒[DOHC](../Page/DOHC.md "wikilink") | 1,796cc                                                                                                        | 116[馬力](../Page/馬力.md "wikilink") ([DIN](../Page/ドイツ工業規格.md "wikilink")) | 316i（E46）に搭載された[N42B18搭載](https://ja.wikipedia.org/wiki/w:en:BMW_N42 "wikilink")                          |
+| 2003年 - [2004年](../Page/2004年.md "wikilink") | 1,796cc                                                                     | 116馬力 (DIN)                             | 316i（E46）に搭載された[N46B18搭載](https://ja.wikipedia.org/wiki/w:en:BMW_N46 "wikilink")                               |                                                                          |                                                                                                           |
+| 318ti コンパクト                                  | 2001年 - 2003年                                                               | 直列4気筒DOHC                               | 1,995cc                                                                                                        | 143馬力 (DIN)                                                              | 318i（E46）に搭載された[N42B20搭載](https://ja.wikipedia.org/wiki/w:en:BMW_N42 "wikilink")                          |
+| 2003年 - 2004年                                | 1,995cc                                                                     | 143馬力 (DIN)                             | 318i（E46）に搭載された[N46B20搭載](https://ja.wikipedia.org/wiki/w:en:BMW_N46 "wikilink")                               |                                                                          |                                                                                                           |
+| 325ti コンパクト                                  | 2001年 - 2004年                                                               | 直列6気筒DOHC                               | 2,494cc                                                                                                        | 192馬力 (DIN)                                                              | 325i（E46）に搭載された[M54B25搭載](https://ja.wikipedia.org/wiki/BMW_M54 "wikilink")                               |
+| 318td コンパクト                                  | 2003年 - 2003年                                                               | 直列4気筒DOHC                               | 1,951cc                                                                                                        | 116馬力 (DIN)                                                              | [ディーゼル](../Page/ディーゼルエンジン.md "wikilink")[M47D20搭載](https://ja.wikipedia.org/wiki/w:en:BMW_M47 "wikilink") |
+| 2003年 - 2004年                                | 1,995cc                                                                     | 116馬力 (DIN)                             | [ターボディーゼル](../Page/ターボチャージャー.md "wikilink")[M47TUD20搭載](https://ja.wikipedia.org/wiki/w:en:BMW_M47 "wikilink") |                                                                          |                                                                                                           |
+| 320td コンパクト                                  | 2001年 - 2004年                                                               | 直列4気筒DOHC                               | 1,995cc                                                                                                        | 150馬力 (DIN)                                                              | ターボディーゼルM47TUD20搭載                                                                                        |
+
+## 第5代目 E90（2005年 - 2012年 ）
+
+ボディサイズがさらに拡大し、後席の居住性が改善された。エクステリアデザインは、BMWのデザイナー・[永島譲司](../Page/永島譲二.md "wikilink")。[フロントグリル](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")のデザインにより、4気筒車と6気筒車の判別が可能（4気筒の縦バーはブラック・6気筒の縦バーがクロームメッキ）である。日本向けセダンの大半は、[南アフリカ](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")・[ロスリン](https://ja.wikipedia.org/wiki/ロスリン "wikilink")で製造される。**E90**はセダン、**E91**はツーリング（ワゴン）、**E92**はクーペ、**E93**はカブリオレのモデルコードである。第4世代の320は6気筒であったが、第5世代の320は4気筒の設定となっている。
+
+ガソリンエンジンは4気筒と6気筒の2種類であり、ディーゼルターボエンジン搭載車も販売される。[ランフラットタイヤ](../Page/ランフラットタイヤ.md "wikilink")が採用され、スペアタイヤは搭載されない。6気筒モデルでは、電子制御ステアリングであるアクティブ・ステアリングが設定可能。
+
+[サスペンション](../Page/サスペンション.md "wikilink")は、第5世代（2005年-）E90/E91/E92/E93以降から、フロントは ダブルリンクの[ロアアーム](https://ja.wikipedia.org/wiki/ロアアーム "wikilink")を持つ[ストラットタイプに移行し](../Page/ストラット式サスペンション.md "wikilink")、リヤは、E36およびE46の[セントラルアーム](https://ja.wikipedia.org/wiki/セントラルアーム "wikilink")から、BMW初代1シリーズやE39およびE60の5シリーズにも採用された、インテグラルアーム式（5リンク）となった。
+
+[米国道路安全保険協会](../Page/米国道路安全保険協会.md "wikilink") (IIHS) によって実施された[2006年度調査](http://www.iihs.org/ratings/head_restraints/headrestraints.aspx?bmw)において、後方からの追突時の安全性が「POOR」（危険）と評価されたが、2009年モデル以降では「GOOD」（安全）との評価を得ている。
+
+{{-}}
+
+## 第6代目 F30（2012年 - 2019年）
+
+[2011年](../Page/2011年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")に概要がBMWグループより発表され、[2012年](../Page/2012年.md "wikilink")2月より、一部車種を除き世界同時デリバリー（販売）された\[1\]。本モデルからこれまで以上に内外装や装備内容（その他、タイヤやホイール・サスペンションなどの車体セッティング）についてバリエーションを増やし、標準仕様（スタンダードタイプ）の他、内外装により個性を高めた「Sport Line」、「Modern Line」、「Luxury Line」の3つのデザインラインが用意された（その後M Sportsモデルも追加）。
+
+型式はセダンが**F30**、ツーリングが**F31**、グランツーリスモが**F34**となる。
+
+最初に4ドアセダンが導入され、エンジンの種類や出力の違いにより、ガソリン車の「318i」、「320i」、「328i」、「335i」とディーゼル車の「316d」、「318d」、「320d」、「320d Efficient Dynamics Edition」が用意された。エンジンは「318i」が1,498cc 直列3気筒ターボエンジン、「320i」と「328i」が1,997cc 直列4気筒ターボエンジン、「335i」が2,979cc 直列6気筒ターボエンジンを搭載する（数値から判るように320iと328iは同じエンジン（N20B20A/B）を搭載。スペックの違いは[ECUによるコンピュータ制御プログラムによって変えている](../Page/エンジンコントロールユニット.md "wikilink")）。ディーゼルエンジンは「316d」、「318d」、「320d」、「320d Efficient Dynamics Edition」の全てが1,995cc 直列4気筒ターボディーゼルエンジンを搭載する。
+
+搭載エンジンについて、第6世代（F30）から本格的に排気ガスやCO<sub>2</sub>排出量に代表される環境問題などに鑑み、これまでのような多気筒エンジン・排気量重視の姿勢から一転、エンジンを小型化し低排気量で低燃費、かつ高出力化を目指すようになった。これは現在欧州で主流となっている[ダウンサイジングコンセプト](../Page/ダウンサイジングコンセプト.md "wikilink")にならったものであり、エンジンを小型化し排気量を下げるが[ターボチャージャー](../Page/ターボチャージャー.md "wikilink")と[直噴エンジンを組み合わせることで従来モデル並みの高出力](https://ja.wikipedia.org/wiki/ガソリン直噴エンジン "wikilink")・高スペックを維持する。さらに搭載エンジンの共有化を推し進めることで、低コスト（製造設備投資・原材料資源消費を抑制）かつ低燃費（資源消費を抑制）、環境面に配慮したエコロジーなモデリングがなされている。
+
+日本法人のビー・エム・ダブリュー株式会社は、2012年1月30日に3シリーズの日本仕様車を発表。初期ラインナップは「328i」（バリエーションは「328i」、「328i Sport」、「328i Modern」、「328i Luxury」の4つ）のみで、「320i」、「320d」は遅れて登場した。日本仕様車は立体駐車場を利用できるように先代（後期型）同様ドアハンドルを専用設計とし、全幅を1,800mm（ドイツ本国仕様は全幅1,811mm）におさめている。また18インチホイール装着車は、日本の保安基準によりボディと同色のフェンダー・アーチ・プロテクションを装着する。全車種が75%エコカー減税対象とエコカー補助金対象となる\[2\]。
+
+同年4月、「320i」を追加。これまでの8速オートマチック仕様に加えて6速マニュアル仕様が導入された。8月にxDriveモデル（四輪駆動）、9月に「ActiveHybrid 3」（[ハイブリッドモデル](../Page/ハイブリッドカー.md "wikilink")。初公開は2012年1月デトロイトショー）、「320d BluePerformance」（ディーゼルモデル）、ステーションワゴン（Touring）を追加。
+
+2013年3月5日にジュネーブショーで、同月29日には[ソウルモーターショー](../Page/ソウルモーターショー.md "wikilink")で3シリーズグランツーリスモを発表した。
+
+2015年5月にマイナーチェンジされた。 {{-}}
+
+## 第7代目 G20 (2019年 - )
+
+{{-}}
+
+## 車名の由来
+
+車名の後のアルファベットは、**i**はガソリン[フューエルインジェクション](../Page/燃料噴射装置.md "wikilink")、**is**はガソリン高性能フューエルインジェクション、**A**は[オートマチックトランスミッション](../Page/オートマチックトランスミッション.md "wikilink")、**x**は[四輪駆動](../Page/四輪駆動.md "wikilink")、**C**は[クーペ](../Page/クーペ.md "wikilink")、**d**は[ディーゼルをあらわす](../Page/ディーゼルエンジン.md "wikilink")。
+
+## 脚注
+
+## 関連項目
+
+  - [BMW](../Page/BMW.md "wikilink")
+  - [M3](../Page/BMW・M3.md "wikilink")
+  - [4シリーズ](https://ja.wikipedia.org/wiki/BMW・4シリーズ "wikilink")
+  - [世界・カー・オブ・ザ・イヤー](../Page/世界・カー・オブ・ザ・イヤー.md "wikilink") - 2006年に受賞
+
+## 外部リンク
+
+  - [BMW Japan](http://www.bmw.co.jp/)公式サイト
+  - [Offizielle Webseite des BMW 3er](http://www.bmw.de/de/de/newvehicles/3series/sedan/2011/showroom/index.html)公式サイト（独語）
+
+[Category:BMWの車種](https://ja.wikipedia.org/wiki/Category:BMWの車種 "wikilink") [Category:セダン](https://ja.wikipedia.org/wiki/Category:セダン "wikilink") [Category:スポーツセダン](https://ja.wikipedia.org/wiki/Category:スポーツセダン "wikilink") [Category:ハッチバック](https://ja.wikipedia.org/wiki/Category:ハッチバック "wikilink") [Category:ステーションワゴン](https://ja.wikipedia.org/wiki/Category:ステーションワゴン "wikilink") [Category:スポーツワゴン](https://ja.wikipedia.org/wiki/Category:スポーツワゴン "wikilink") [Category:オープンカー](https://ja.wikipedia.org/wiki/Category:オープンカー "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink") [Category:ハイブリッドカー](https://ja.wikipedia.org/wiki/Category:ハイブリッドカー "wikilink") [Category:カー・オブ・ザ・イヤー](https://ja.wikipedia.org/wiki/Category:カー・オブ・ザ・イヤー "wikilink") [Category:クリーンディーゼル車](https://ja.wikipedia.org/wiki/Category:クリーンディーゼル車 "wikilink")
+
+1.  [レスポンス2011年10月15日(土) 10時00分(JST)](http://response.jp/article/2011/10/15/163860.html)
+2.  [オートックワン2012年1月30日(月) (JST)](http://autoc-one.jp/news/976769/)

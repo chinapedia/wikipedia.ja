@@ -1,0 +1,191 @@
+> この記事は[II MOVIE](https://ja.wikipedia.org/wiki/II_MOVIE)から翻訳されています。
+
+
+『**ストリートファイターII MOVIE**』（ストリートファイターツー ムービー、**STREET FIGHTER II MOVIE**）は、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[スーパーストリートファイターIIX](../Page/ストリートファイターII.md "wikilink")』を原作とした[アニメーション映画](../Page/アニメーション映画.md "wikilink")である。[1994年](../Page/1994年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")公開。配給は[東映](../Page/東映.md "wikilink")。[配給収入](https://ja.wikipedia.org/wiki/配給収入 "wikilink")7億円\[1\]。英語版タイトルは『*Street Fighter II: The Animated Movie*』。
+
+また、このアニメ映画を基に、[PlayStationと](../Page/PlayStation_\(ゲーム機\).md "wikilink")[セガサターン](../Page/セガサターン.md "wikilink")で発売されたゲームソフトのタイトルでもある（[ゲーム版の節を参照](https://ja.wikipedia.org/wiki/#ゲーム版 "wikilink")）。
+
+本作のタイトルロゴは『スーパーストリートファイターII』の「SUPER」の部分を「MOVIE」に差し替えたものが採用されている。
+
+## 概要
+
+本作はオリジナルゲーム版の発売元である[カプコン](../Page/カプコン.md "wikilink")の自社製作にて、家庭用版『スーパーストリートファイターII』の発売と併せて劇場公開された長編アニメーション映画。単館上映ながら配収7億円とスマッシュヒットを記録。[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")の歌う挿入歌「[恋しさと せつなさと 心強さと](../Page/恋しさと_せつなさと_心強さと.md "wikilink")」もダブルミリオンセラーの大ヒットを記録している。
+
+当初監督は[池田成](https://ja.wikipedia.org/wiki/池田成 "wikilink")と発表されたが諸事情により降板、後任は[杉井ギサブロー](https://ja.wikipedia.org/wiki/杉井ギサブロー "wikilink")となった。成り行きで監督を務めることになった杉井だが、プロデューサーの今井賢一が『ストリートファイターII』を何年もかけてアニメ化しようとしていたことを聞き、乗り気になったという経緯がある\[2\]。
+
+ストーリーには関わらないが、[豪鬼](../Page/豪鬼.md "wikilink")が一瞬だけカメオ出演しており、後年[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")のアニメ『[ストリートファイターII V](https://ja.wikipedia.org/wiki/ストリートファイターII_V "wikilink")』にもモブキャラクターに混じって背景に登場している。
+
+## ストーリー
+
+格闘家・**リュウ**が**サガット**を打ち破ってから数年後。犯罪シンジケート**[シャドルー](../Page/シャドルー.md "wikilink")**の魔の手が世界中に及び、各地でテロ活動などが相次いでいた。事態を重く見た[インターポールは](../Page/国際刑事警察機構.md "wikilink")[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")と協力し、シャドルーの壊滅作戦へと動き出す。一方、シャドルーの総帥たる**ベガ**は優れた格闘能力を持つ素体を見つけるために、「モニターサイボーグ」なるスパイロボットを各地へ配置していた。その最も有力な標的は、「自分より強い奴に会う」という目標を抱え、流転の旅を続けながらストリートファイトに励むリュウであった。
+
+## 登場人物
+
+  - [リュウ](../Page/リュウ_\(ストリートファイター\).md "wikilink")
+    [声](../Page/声優.md "wikilink") - [清水宏次朗](../Page/清水宏次朗.md "wikilink")
+    主人公。寡黙な人物だが内は熱く、不器用ながらも優しさを見せる。3年前にサガットを倒したことから、ベガに狙われることになるが、各地を転々としているので捕捉されていない。本田との修業中、ベガに洗脳されたケンと戦うが、正気に戻ったケンと共にベガを倒す。トレードマークの赤いハチマキは修業時代にケンから譲り受けたもの。
+  - [ケン](../Page/ケン・マスターズ.md "wikilink")
+    声 - [羽賀研二](https://ja.wikipedia.org/wiki/羽賀研二 "wikilink")
+    準主人公。同門弟子のリュウとは逆に明るい性格で故郷アメリカで有名なストリートファイターになっている。リュウとの決着を望みながらも再会できずにいることから、ストリートファイターを引退し、イライザと結婚しようとするが、その直後にベガに拉致され、洗脳される。洗脳状態でリュウと戦うが、正気に戻った後、リュウとのタッグでベガを撃破する。
+  - [春麗](../Page/春麗.md "wikilink")
+    声 - [藤谷美紀](https://ja.wikipedia.org/wiki/藤谷美紀 "wikilink")
+    インターポールの捜査官。父の仇であるベガの打倒を誓いながらも復讐心だけでなく、シャドルーから世界を守るためにも米軍と協力し、ガイルも説得する。バルログとの戦いで重傷を負うが、シャドルー壊滅後、意識を取り戻す。なお、劇中ではシャワーシーンも存在する。
+  - [ガイル](../Page/ガイル_\(ストリートファイター\).md "wikilink")
+    声 - [津嘉山正種](../Page/津嘉山正種.md "wikilink")
+    リュウ、ケンに次ぐ本作のメインキャラクター。春麗と協力しベガと戦う。
+  - [エドモンド本田](../Page/エドモンド本田.md "wikilink")
+    声 - [郷里大輔](../Page/郷里大輔.md "wikilink")
+    インドでリュウと出会い、その後、彼と同行しベガとの最終決戦にまで参加しバイソンと戦う。
+  - [ダルシム](../Page/ダルシム.md "wikilink")
+    声 - [岸野幸正](../Page/岸野幸正.md "wikilink")
+    インドで本田と勝負し、近くにいたリュウに気を取られているところを攻撃され敗れる。
+  - [ブランカ](../Page/ブランカ_\(ストリートファイター\).md "wikilink")
+    声 - [石塚運昇](../Page/石塚運昇.md "wikilink")
+    シャドルーのカジノでザンギエフと対戦する。
+  - [ザンギエフ](../Page/ザンギエフ.md "wikilink")
+    声 - [金尾哲夫](https://ja.wikipedia.org/wiki/金尾哲夫 "wikilink")
+    シャドルーのカジノでブランカと対戦する。
+  - [フェイロン](../Page/フェイロン.md "wikilink")
+    声 - [船木誠勝](../Page/船木誠勝.md "wikilink")
+    [蘇州でリュウと闘い敗北し](../Page/蘇州市.md "wikilink")、友情を深める。
+  - [ディージェイ](../Page/ディージェイ_\(ストリートファイター\).md "wikilink")
+    声 - [松尾銀三](../Page/松尾銀三.md "wikilink")
+    シャドルーに狙われ、春麗とガイルから「気をつけろ」と忠告を受ける。
+  - [サンダー・ホーク](../Page/サンダー・ホーク.md "wikilink")
+    声 - [飯塚昭三](../Page/飯塚昭三.md "wikilink")
+    強い相手を求めてアメリカの港町でケンに闘いを強要し、敗北する。本作ではベガとの因縁は描かれない。
+  - [キャミィ](../Page/キャミィ.md "wikilink")
+    声 - [佐々木庸子](../Page/佐々木瑶子.md "wikilink")
+    ベガに洗脳され、法務大臣の暗殺を行う。暗殺直後、VIPに拘束。春麗に取り調べを受けるが、洗脳中の記憶を失う。本作では、ベガに記憶を奪われている設定\[3\]。
+  - イライザ
+    声 - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
+    ケンの彼女。
+  - 師匠
+    声 - [天本英世](../Page/天本英世.md "wikilink")
+    リュウとケンの師匠。声のみの登場。
+  - 司会
+    声 - [長沢政義](https://ja.wikipedia.org/wiki/長沢政義 "wikilink")
+  - インドの少女
+    声 - [豊嶋真千子](../Page/豊嶋真千子.md "wikilink")
+    リュウがインド・カルカッタで遭遇した少女。病気の母親と2人暮らし。ミルクを買って帰る途中、リュウとぶつかってミルクをこぼし、リュウから与えられた金でミルクを再度購入する。余った金を返しに行く途中、シャドルーの暗殺者とぶつかって倒れながらもリュウに金を返し、彼に見送られながら病院に搬送された。
+  - VTOL操縦士
+    声 - [私市淳](../Page/私市淳.md "wikilink")
+  - [マイク・バイソン](../Page/マイク・バイソン.md "wikilink")
+    声 - [中田譲治](../Page/中田譲治.md "wikilink")
+    シャドルーのメンバー。最終決戦に参加し本田と戦い、両者もみ合って崖に転落するが、本田に助けられる。
+  - [バルログ](../Page/バルログ_\(ストリートファイター\).md "wikilink")
+    声 - [塩沢兼人](../Page/塩沢兼人.md "wikilink")
+    シャドルーのメンバー。春麗と戦い、敗北後に逮捕される。
+  - [サガット](../Page/サガット.md "wikilink")
+    声 - [笹岡繁蔵](../Page/笹岡繁蔵.md "wikilink")
+    シャドルーのメンバー。オープニングではリュウと戦い、昇龍拳を受けて、胸に傷を付けられる。この敗北事件が切っ掛けでシャドルーに加わり、リュウとの再戦を望むも、ベガに却下されてバルログとキャミィの始末を命じられる。以降の出番はないため、消息は不明。
+  - 科学者\[4\]
+    声 - [大塚周夫](../Page/大塚周夫.md "wikilink")
+    シャドルーの科学者で小柄な老人。開発したサイボーグをベガに紹介し、ベガの命令でリュウを発見させるためにモニターサイボーグを大量に製造する。
+  - [ベガ](../Page/ベガ_\(ストリートファイター\).md "wikilink")
+    声 - [日下武史](../Page/日下武史.md "wikilink")
+    本作の黒幕。悪党ではあるが、最終決戦にてリュウとケンに対して「格闘家として相手になる」と宣言して2対1の戦いを展開する。リュウとケンの双竜（ダブル）波動拳に吹き飛ばされて、[VTOLと衝突し爆発に巻き込まれるが](../Page/垂直離着陸機.md "wikilink")、最後はトラックに乗ってリュウに襲い掛かり、それをリュウが迎え撃つシーンでエンディングに入る。
+
+## スタッフ
+
+  - 製作総指揮：[辻本憲三](../Page/辻本憲三.md "wikilink")
+  - 製作・原案・設定：[カプコン](../Page/カプコン.md "wikilink")
+  - 監督：[杉井ギサブロー](https://ja.wikipedia.org/wiki/杉井ギサブロー "wikilink")
+  - 脚本：今井賢一、杉井ギサブロー
+  - キャラクターデザイン：[村瀬修功](../Page/村瀬修功.md "wikilink")
+  - 総作画監督：大島康弘
+  - 作画監督：[前田実](https://ja.wikipedia.org/wiki/前田実 "wikilink")、江口摩吏介
+  - 絵コンテ：東海林真一、[もりたけし](https://ja.wikipedia.org/wiki/もりたけし "wikilink")、香川豊、[小林治](https://ja.wikipedia.org/wiki/小林治_\(アニメ演出家\) "wikilink")、辻伸一、杉井ギサブロー
+  - 作画監督補：佐藤正樹、[加野晃](https://ja.wikipedia.org/wiki/加野晃 "wikilink")
+  - ビジュアルエフェクトアニメーション：[今掛勇](../Page/今掛勇.md "wikilink")
+  - 武闘監督：東海林真一
+  - コンピューターアニメーション：前田庸生
+  - 美術監督：松岡聡
+  - 色彩設計：歌川律子
+  - 撮影監督：枝光弘明
+  - 編集：古川雅士（[J.S.E](https://ja.wikipedia.org/wiki/日本映画・テレビ編集協会 "wikilink")）
+  - 音響監督：田代敦巳
+  - 音楽：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、[鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")
+  - 音楽プロデューサー：百瀬慶一
+  - 音楽コーディネーター：[吉見佑子](https://ja.wikipedia.org/wiki/吉見佑子 "wikilink")
+  - 音響効果：[東洋音響カモメ](../Page/カモメファン.md "wikilink")、齋藤昌利、中村佳央
+  - 録音スタジオ：[アバコクリエイティブスタジオ](https://ja.wikipedia.org/wiki/アバコクリエイティブスタジオ "wikilink")
+  - 現像：[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")
+  - 製作アドバイザー：野崎裕司、ポール・ハッシー
+  - 格闘技アドバイザー：[石井和義](https://ja.wikipedia.org/wiki/石井和義 "wikilink")、[アンディ・フグ](https://ja.wikipedia.org/wiki/アンディ・フグ "wikilink")
+  - 監督補：はしもとなおと
+  - プロデューサー補：西村大志
+  - アニメーションプロデューサー：藤田健（グループ・タック）、佐藤郁夫（スタジオガゼル）
+  - 助監督：遠藤卓司
+  - 制作協力：スタジオガゼル
+  - 脚本協力：[沢田謙也](https://ja.wikipedia.org/wiki/沢田謙也 "wikilink")、久保地美晴、愛知拳
+  - 協力：[日本長期信用銀行](../Page/日本長期信用銀行.md "wikilink")、[I\&S](https://ja.wikipedia.org/wiki/I&S "wikilink")、[正道会館](../Page/正道会館.md "wikilink")
+  - 製作協力：[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
+  - アニメーション制作：[グループ・タック](https://ja.wikipedia.org/wiki/グループ・タック "wikilink")
+  - プロデュース：SEDIC
+  - プロデューサー：今井賢一
+
+## 主題歌・挿入歌など
+
+  - 主題歌
+    「[恋しさと せつなさと 心強さと](../Page/恋しさと_せつなさと_心強さと.md "wikilink")」（歌：[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink") with [t.komuro](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")）
+  - 挿入歌
+    「CRY」（歌：[BIG LIFE](https://ja.wikipedia.org/wiki/手島いさむ#BIG_LIFE "wikilink")）
+    「傷つきながら熱くなれ」（[ALPH-LYLA](../Page/ALPH_LYLA.md "wikilink")）
+  - エンディングテーマ
+    「[GooD-LucK](../Page/恋しさと_せつなさと_心強さと.md "wikilink")」（歌：篠原涼子 with t.komuro）
+
+## 関連商品
+
+### 書籍
+
+  - 映画原作 ストリートファイターII
+    1994年8月に[小学館](../Page/小学館.md "wikilink")[てんとう虫コミックススペシャル](https://ja.wikipedia.org/wiki/てんとう虫コミックススペシャル "wikilink")から発売。[坂井孝行](https://ja.wikipedia.org/wiki/坂井孝行 "wikilink")の作画によるコミカライズ作品。
+  - 映画 ストリートファイターII
+    1994年9月に小学館[スーパークエスト文庫](../Page/スーパークエスト文庫.md "wikilink")から発売。著：[富田祐弘](https://ja.wikipedia.org/wiki/富田祐弘 "wikilink")、イラスト：坂井孝行、原作：カプコンによるノベライズ作品。
+  - STREET FIGHTER II MOVIE 映画資料全集
+    1994年10月に小学館から発売。キャラクターや背景の設定画・原画、レイアウトなどを収録。
+  - 映画「ストリートファイターII」 華麗なる春麗の世界
+    1994年11月に[徳間書店](../Page/徳間書店.md "wikilink")から発売。春麗を中心とした描き下ろしセルアート、映画の名場面集、設定・原画集、監督インタビューなどを収録。
+  - 完全保存版 ストリートファイターII ザ・ムービー パーフェクトアルバム
+    1994年11月に[講談社](../Page/講談社.md "wikilink")から発売。キャラクター設定画、ストーリー紹介、監督インタビュー、絵コンテ集などを収録。
+  - STREET FIGHTER II MOVIE 絵コンテ集
+    1994年12月に[ムービック](../Page/ムービック.md "wikilink")から発売。
+
+### その他
+
+  - [カードダス](../Page/カードダス.md "wikilink") ストリートファイターIIスペシャル
+    [バンダイ](../Page/バンダイ.md "wikilink")から1994年発売。「スーパーストリートファイターII X」とのセット。劇中の場面が描かれていた。
+  - ハイパーストリートファイターII 〜アニバーサリーエディション〜
+    [PlayStation 2版に映像特典として本編映像が収録されている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。ただしゲームソフトの一部としての収録のため、春麗のヌードシーンなどはソニーのガイドラインに沿って編集されている。
+
+## 映像ソフト
+
+VHS/LD（現在廃盤）は1995年に[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント "wikilink")、DVDは2000年に[SMEビジュアルワークス](../Page/アニプレックス.md "wikilink")（現：[アニプレックス](../Page/アニプレックス.md "wikilink")）より発売。本編のほか劇場予告/関連商品告知なども収録。DVDのみ1995年にVHSで発売された「ストリートファイター2 ザ・ヒストリー」が映像特典で収録。
+
+Blu-rayは2016年に[Discotek Mediaより北米正規版にて発売](https://ja.wikipedia.org/wiki/Discotek_Media "wikilink")。日本語/英語同時収録の他、劇中スコアのみといった音声も収録。本編はVHS/LD/DVDではエンドロール後に切れていた『[STREET FIGHTER](../Page/ストリートファイター_\(1994年の映画\).md "wikilink")』の字幕告知も収録した劇場公開オリジナル版をHDリマスターで初ソフト化。劇場予告や下記ゲーム用オリジナルムービー、設定資料なども映像特典にて収録。2017年時点日本国内未発売。
+
+## ゲーム版
+
+『**ストリートファイターII ムービー**』として、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[PlayStationで](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[1996年](../Page/1996年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[セガサターン](../Page/セガサターン.md "wikilink")で、それぞれ[カプコン](../Page/カプコン.md "wikilink")から発売された。当初は[3DO](../Page/3DO.md "wikilink")版も発売される予定だったが、発売中止となった。なお、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")の『[ストリートファイター ザ・ムービー](../Page/ストリートファイター_ザ・ムービー.md "wikilink")』とは別物。
+
+プレイヤーは闇の秘密結社「シャドルー」が開発したモニターサイボーグに戦闘能力を身に付けさせた新型のバトルサイボーグを操り、アニメ映画を基にしたムービー映像から、世界中の格闘家たちの戦いの様子を「サーチ」してその能力を成長させ、最終的に伝説の格闘家「リュウ」と対決するのが目的。サーチに成功すると、例えば[蹴り技](../Page/蹴り技.md "wikilink")を繰り出しているシーンならば「キック」の能力が上昇するなど、場面に対応した能力を自動的に抽出し成長していく。1ステージ中でサーチできる回数には制限があり、残り回数が0になるとそのステージ内ではそれ以上記録できなくなる。
+
+[育成シミュレーションゲーム](../Page/育成シミュレーションゲーム.md "wikilink")のように進行させていくが、リュウとの対決時のみ[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")のように実際に戦うことになる。『スーパーストリートファイターII X』と同じくスーパーコンボゲージの存在するバトルシステムで、それまでに成長させた能力によって、実際にサイボーグを使用した時の性能に影響が出る。サイボーグの必殺技は「波動拳」、「昇龍拳」、「竜巻旋風脚」、スーパーコンボの「昇龍裂破」が使用可能と、[ケン・マスターズ](../Page/ケン・マスターズ.md "wikilink")の技構成がベースとなっている。
+
+育成したサイボーグの能力はセーブデータと[パスワード](../Page/パスワード.md "wikilink")で記録され、リュウの仮想イメージとの模擬戦や、パスワードによるサイボーグ同士の2P対戦も可能となっている。
+
+この他、映画に登場したキャラクターたちのデータを見られる設定資料モードも搭載している。
+
+## 脚注
+
+## 関連項目
+
+  - [ストリートファイターII V](https://ja.wikipedia.org/wiki/ストリートファイターII_V "wikilink")
+
+[Category:ストリートファイターII](https://ja.wikipedia.org/wiki/Category:ストリートファイターII "wikilink") [Category:アニメ作品_す](https://ja.wikipedia.org/wiki/Category:アニメ作品_す "wikilink") [Category:日本のアニメ映画](https://ja.wikipedia.org/wiki/Category:日本のアニメ映画 "wikilink") [Category:1994年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1994年のアニメ映画 "wikilink") [Category:杉井ギサブローの監督映画](https://ja.wikipedia.org/wiki/Category:杉井ギサブローの監督映画 "wikilink") [Category:グループ・タック](https://ja.wikipedia.org/wiki/Category:グループ・タック "wikilink") [Category:カプコンのアニメ作品](https://ja.wikipedia.org/wiki/Category:カプコンのアニメ作品 "wikilink") [Category:スーパークエスト文庫](https://ja.wikipedia.org/wiki/Category:スーパークエスト文庫 "wikilink") [Category:コンピュータゲームを原作とするアニメ映画](https://ja.wikipedia.org/wiki/Category:コンピュータゲームを原作とするアニメ映画 "wikilink") [Category:格闘技アニメ](https://ja.wikipedia.org/wiki/Category:格闘技アニメ "wikilink") [Category:東映のアニメ映画](https://ja.wikipedia.org/wiki/Category:東映のアニメ映画 "wikilink") [Category:SMEJのアニメ映画](https://ja.wikipedia.org/wiki/Category:SMEJのアニメ映画 "wikilink")
+
+1.
+2.
+3.  『ストリートファイターII MOVIE 映画資料全集』より。
+4.  エンディングテロップでは「**老人**」と表記。

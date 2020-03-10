@@ -1,0 +1,62 @@
+> この記事は[Sd Kfz 234](https://ja.wikipedia.org/wiki/Sd_Kfz_234)から翻訳されています。
+
+
+**Sd Kfz 234** とは、[1943年](../Page/1943年.md "wikilink")12月から[1945年](../Page/1945年.md "wikilink")の間に生産された、[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")の[8輪重装甲偵察車系列である](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")。
+
+## 概要
+
+もともとは[植民地](../Page/植民地.md "wikilink")（即ち[熱帯](../Page/熱帯.md "wikilink")）用重装甲偵察車として、[Sd Kfz 231系の後継を目指して](../Page/Sd_Kfz_231.md "wikilink")1940年8月に計画が開始された。このため水の入手が困難な砂漠地帯での運用を意識して、[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")の[タトラ社製V](../Page/タトラ_\(自動車\).md "wikilink")12空冷[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")103型を搭載しているのが特徴である。ビュッシング-NAG社により設計された車体は、前作であるSd Kfz 231系を洗練したような形状で、後方に向けた操縦席があるのも同様だった。
+
+従来の装甲車と異なり、シャーシはそれ単体で独立しているのではなく、[モノコック](https://ja.wikipedia.org/wiki/モノコック "wikilink")構造の装甲の一部として構成されていたのが特徴であった。
+
+リーフスプリング式独立懸架の8輪駆動で、それぞれステアリングを切れるが、他のドイツ[装甲車](../Page/装甲車.md "wikilink")同様に防弾ではないバルーンタイヤを使っている。当初の計画では、Sd Kfz 231系のように威力偵察用に2cm機関砲を搭載するはずであったが、1942年7月に方針が変更された結果、ある程度の対戦車戦闘能力を持つ5cm[対戦車砲](../Page/対戦車砲.md "wikilink")を搭載した型が最初に量産された。乗員数は各型ともに4名。
+
+## バリエーション
+
+Sd Kfz 231系と異なり、装備が異なっても同じ234の制式番号が与えられている。
+
+  - Sd Kfz 234/2
+    1943年12月より**Sd Kfz 234**として最初に生産された型式で、派生型の登場により、1944年3月に番号が**234/2**へ変更された。[ラインメタル](../Page/ラインメタル.md "wikilink")社製の60口径5cm KwK39/1と同軸の7.92mm MG42機銃を装備した[ダイムラー・ベンツ](../Page/ダイムラー・ベンツ.md "wikilink")社設計による手動旋回式の密閉型砲塔を搭載していた。この砲塔は不採用となった（[II号戦車](../Page/II号戦車.md "wikilink")L型の発展型にあたる）[レオパルト偵察](https://ja.wikipedia.org/wiki/VK_1602_レオパルト "wikilink")[軽戦車](../Page/軽戦車.md "wikilink")の為に開発されていた物である。
+    1944年6月までに101輌生産された。書類上の搭載弾薬数は5cm砲弾55発と7.92mm弾2850発、副武装の[MP40](https://ja.wikipedia.org/wiki/MP40 "wikilink")機関短銃用弾倉6本であった。一つの中隊内に配備された車輌の半数に中距離用FuG12無線機の増設が認められていた。
+    この型は一般に[プーマ](../Page/ピューマ.md "wikilink") (Puma：ピューマのドイツ語読み)という愛称で知られるが、公式な物ではない。
+  - Sd Kfz 234/1
+    生産順としては二番目であるが、当初の計画どおりに2cm機関砲を搭載した型。1945年3月までに約230輌生産された。
+    Sd Kfz 231及び232の後継車輌で、38(t)偵察戦車やSd Kfz 250/9後期型等と同型のヘンゲラフェッテ38が搭載された。これは2cm KwK38と同軸の7.92mm MG42機銃を揺動式に装備するオープントップの手動全周旋回式砲塔で、俯仰角は-4～+70度で対空射撃も可能であった。搭載弾薬数は2cm砲弾250発（10発入り弾倉25本）と7.92mm弾2500発、そして副武装のMP40用弾倉6本であった。この型では、部隊長等の指揮官用車輌のみにFuG12無線機が増設された。
+  - Sd Kfz 234/3
+    [250pxに保存されているSd](https://ja.wikipedia.org/wiki/ファイル:SdKfz_234-3_1_Bovington.jpg "wikilink").Kfz.234/3\]\]
+    8輪重装甲車の火力支援タイプである[Sd Kfz 233の後継車輌](https://ja.wikipedia.org/wiki/Sd_Kfz_233 "wikilink")。オープントップの車体に[Sd Kfz 250](https://ja.wikipedia.org/wiki/Sd_Kfz_250 "wikilink")/8 Neuや[Sd Kfz 251](https://ja.wikipedia.org/wiki/Sd_Kfz_251 "wikilink")/9後期型と共通の24口径の[7.5cm K51を搭載している](https://ja.wikipedia.org/wiki/7.5_cm_KwK_37 "wikilink")。この砲の射界は左右20度ずつ、俯仰角は-5～+16度で、同軸でMG42機銃が装備されていた。搭載弾薬数は7.5cm砲弾50発と7.92mm弾1950発、副武装のMP40用弾倉6本であった。
+    1944年6月の生産開始から約半年でSd Kfz 234/4に切り替えられたため、生産数は約88輌で終了した。{{-}}
+  - Sd Kfz 234/4
+    [250pxに保存されているSd](https://ja.wikipedia.org/wiki/ファイル:Munster_SdKfz234_4_side_\(dark1\).jpg "wikilink").Kfz.234/4\]\]
+    1944年10月28日の会議で[ヒトラー自身の提案による](https://ja.wikipedia.org/wiki/アドルフ・ヒトラー "wikilink")、ハーフトラックや8輪重装甲車にも長砲身の7.5cm砲を搭載するという案に応え、翌々週には早くも[7.5cm PaK40を搭載する型の図面が完成した](../Page/7.5_cm_PaK_40.md "wikilink")。
+    軍需省は車格に対し過大な装備であるとして有効性を疑っていたが、ヒトラーの強い要望により量産されることとなった。これによりSd Kfz 234/3用の車体を改修の上流用した対戦車自走砲型として、1944年12月から1945年4月までに約90輌が生産された。
+    PaK40はオリジナルの砲架と防盾の一部を切断したものが、車体に設置されたL型鋼やC型鋼で作られた台座にボルトで固定され、射界は左右20度ずつ、俯仰角は-5～+12度であった。車内に余裕が無いため、7.5cm砲弾を36発しか搭載できなかった。{{-}}
+  - その他
+    計画には無い非制式な物として、[II号戦車](../Page/II号戦車.md "wikilink")L型の密閉型砲塔を搭載した車輌や、砲を撤去したSd Kfz 234/3の車体に[Sd Kfz 251/17のシュヴェーベラフェッテ](https://ja.wikipedia.org/wiki/Sd_Kfz_251 "wikilink")(小砲塔型の防盾を装備した2cm KwK38搭載砲架）を設置した車輌が存在した。いずれの例も、損傷により余剰となった車体や武装を活用するために所属部隊が改造した物と考えられている。\[1\]
+
+## 登場作品
+
+### ゲーム
+
+  - 『[R.U.S.E.](https://ja.wikipedia.org/wiki/R.U.S.E. "wikilink")』
+    [ドイツの](../Page/ドイツ国防軍.md "wikilink")[装甲偵察ユニットとして登場](../Page/偵察戦闘車.md "wikilink")。
+  - 『[War Thunder](https://ja.wikipedia.org/wiki/War_Thunder "wikilink")』
+    [ドイツ陸軍の軽戦車として](../Page/ドイツ国防軍.md "wikilink")5cm砲搭載のSd Kfz 234/2が通常車輛、7.5cm砲搭載のSd Kfz 234/3とSd kfz 234/4がイベント限定車輛として登場。
+
+## 脚注
+
+<references/>
+
+## 参考文献
+
+  - Thomas Jentz, Hilary Doyle：Panzer Tracts No.13 Panzerspaehwagen, 2001年, ISBN 0-9708407-4-8
+  - 大日本絵画 世界の戦車イラストレイテッド ドイツ軍装甲車両と偵察用ハーフトラック1939-1945（ブライアン・ペレット著）
+  - デルタ出版 グランドパワーNo.074 '00/7 ドイツ8輪重装甲車
+
+## 関連項目
+
+  - [制式番号](../Page/特殊車輌番号.md "wikilink")
+
+[Category:ドイツ国防軍の装輪装甲車](https://ja.wikipedia.org/wiki/Category:ドイツ国防軍の装輪装甲車 "wikilink") [Category:ドイツ国防軍の自走砲](https://ja.wikipedia.org/wiki/Category:ドイツ国防軍の自走砲 "wikilink") [Category:装輪式自走砲](https://ja.wikipedia.org/wiki/Category:装輪式自走砲 "wikilink") [Category:偵察戦闘車](https://ja.wikipedia.org/wiki/Category:偵察戦闘車 "wikilink")
+
+1.  [panzer-archiv.de (これらの車輌の画像を掲載しているサイト)](http://forum.panzer-archiv.de/viewtopic.php?p=132310&sid=677b345917439af3d9b5d5556c8f0b27)

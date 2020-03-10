@@ -1,0 +1,39 @@
+> この記事は[WOWOW](https://ja.wikipedia.org/wiki/WOWOW)から翻訳されています。
+
+
+**WOWOWデジタルプラス**（ワウワウデジタルプラス）は、かつて株式会社[WOWOW](../Page/WOWOW.md "wikilink")が運営していた[東経110度CS放送の](../Page/日本における衛星放送.md "wikilink")[有料放送管理サービス](../Page/有料放送管理事業者.md "wikilink")（プラットフォーム）である。
+
+## 歴史
+
+2004年に東経110度CSデジタル放送のうち、CS1ネットワークを使用していた「[プラット・ワン](../Page/プラット・ワン.md "wikilink")」のプラットフォーム事業者（株式会社プラット・ワン）が、CS2ネットワーク使用の「スカイパーフェクTV\!2」のプラットフォーム事業者である株式会社スカイパーフェクト・コミュニケーションズ（現・[スカパーJSAT](../Page/スカパーJSAT.md "wikilink")）に合併し、「スカイパーフェクTV\!110（現・[スカパー\!](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")）」というプラットフォームが成立することとなり、東経110度CS放送の再編が生じる。スカイパーフェクTV\!110への移行を良しとしなかった[委託放送事業者](../Page/委託放送事業者.md "wikilink")のうち1社は当時スカイパーフェクト・コミュニケーションズとライバル関係にあったWOWOWの子会社であったことから、WOWOWがCS1ネットワークの一部を引き継ぐ形でプラットフォーム事業に乗り出し、[2004年](../Page/2004年.md "wikilink")[11月12日](../Page/11月12日.md "wikilink")からサービス放送（無料）を行い、同年[12月1日](../Page/12月1日.md "wikilink")から本放送を開始した。
+
+[東経110度CSデジタル放送](https://ja.wikipedia.org/wiki/東経110度CSデジタル放送 "wikilink")が受信出来る[BSアンテナ及び](../Page/パラボラアンテナ.md "wikilink")[デジタルチューナー](https://ja.wikipedia.org/wiki/デジタルチューナー "wikilink")（[BSデジタルチューナー](https://ja.wikipedia.org/wiki/BSデジタルチューナー "wikilink")と共用）があれば視聴可能であった。東経110度CSデジタル放送が開始される2002年以前に発売された[BSデジタルチューナー](https://ja.wikipedia.org/wiki/BSデジタルチューナー "wikilink")では未対応のため、加入の際はプロモーション番組を[データ放送](../Page/データ放送.md "wikilink")形式で流するep055チャンネルが受信出来る事を確認するよう呼びかけていた。
+
+しかし、加入者数は6千人弱に留まり 、事業の好転も見込めないことから[2006年](../Page/2006年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")に放送を終了した。なお、WOWOWデジタルプラスをプラットフォームとしていたep055チャンネルは、デジタルプラス終了後の2007年1月1日以降、どこのプラットフォームにも属さない独立系のCSチャンネルに転換したが、2012年4月にはスカパー\!e2に移管している。
+
+また、WOWOWはデジタルプラスの最終月となった2006年12月、スカイパーフェクト・コミュニケーションズの東経124・128度CSプラットフォーム（CSデジタル放送）「[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")」において、自社BSアナログ放送と同一編成の「CSデジタル[衛星役務利用放送](https://ja.wikipedia.org/wiki/衛星役務利用放送 "wikilink")」を開始。本プラットフォーム事業の不振は、奇しくもスカイパーフェクト・コミュニケーションズとの関係の転換に繋がることとなった。
+
+## 委託放送事業者と放送チャンネル
+
+  - [メガポート放送](../Page/メガポート放送.md "wikilink") - 2005年10月1日、日本ビーエス放送（現・[日本BS放送](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")）に合併
+      - 080ch - シネマ080 （¥ 420/月）- [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")に放送終了
+      - 081ch - [囲碁・将棋チャンネル](../Page/囲碁・将棋チャンネル.md "wikilink") （¥ 1,470/月） - 2005年9月30日に放送終了（現在は、スカパー\!（東経110度CS放送・Ch.CS363、16:9SD放送）にて放送中）
+  - [CS-WOWOW](../Page/CS-WOWOW.md "wikilink") - 2007年3月解散
+      - 091ch - Act On TV（¥ 525/月）- [2006年](../Page/2006年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")に放送終了。末期の同年10月にチャンネル名を「[大人の趣味と生活向上◆アクトオンTV](../Page/大人の趣味と生活向上◆アクトオンTV.md "wikilink")」へ変更。
+      - 092ch - [ブルームバーグテレビジョン](https://ja.wikipedia.org/wiki/ブルームバーグテレビジョン "wikilink") （¥ 525/月）2006年12月31日に放送終了
+  - イーピー放送 （現・[SCサテライト放送](https://ja.wikipedia.org/wiki/SCサテライト放送 "wikilink")）
+      - 055ch - ep055チャンネル（無料・ハイビジョン放送） - 現在は「ショップチャンネル」のチャンネル名で[ショップチャンネル](../Page/ショップチャンネル.md "wikilink")をハイビジョン放送。
+      - 060ch - ep060チャンネル（無料・データ放送）- 2007年3月31日に放送終了
+
+いずれの委託放送事業者も、WOWOWデジタルプラス上の[受託放送事業者](../Page/受託放送事業者.md "wikilink")を[宇宙通信](../Page/宇宙通信.md "wikilink")（現・[スカパーJSAT](../Page/スカパーJSAT.md "wikilink")）としていた。
+
+## 関連項目
+
+  - [有料放送管理事業者](../Page/有料放送管理事業者.md "wikilink")
+  - [日本における衛星放送](../Page/日本における衛星放送.md "wikilink")
+
+## 外部リンク
+
+  - [WOWOWデジタルプラス](http://www.wowow.co.jp/wdp/)
+
+[Category:日本の衛星放送史](https://ja.wikipedia.org/wiki/Category:日本の衛星放送史 "wikilink") [Category:WOWOW](https://ja.wikipedia.org/wiki/Category:WOWOW "wikilink")

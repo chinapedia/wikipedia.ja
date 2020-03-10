@@ -1,0 +1,71 @@
+> この記事は[KBS](https://ja.wikipedia.org/wiki/KBS)から翻訳されています。
+
+
+『**KBS京都エキサイティングナイター**』（ケービーエスきょうと エキサイティングナイター）は、[京都放送](../Page/京都放送.md "wikilink")（KBSラジオ）で放送されている[プロ野球中継](../Page/プロ野球中継.md "wikilink")である。
+
+かつてはKBSテレビと名称を揃え、『[KBS京都エキサイトナイター](../Page/KBS京都エキサイトナイター.md "wikilink")』とともに『**KBSパーフェクトナイター**』と名乗っていた。
+
+## 概要
+
+放送開始当初はラジオ関東（現在の[ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")）制作の中継を放送していた他、ラジオネットワークの本格発足前は、[ラジオ東京→TBSラジオ制作の中継が放送されることもあり](../Page/TBSラジオ.md "wikilink")、一方では時折関西圏で開催の試合の自社制作を行うこともあった。
+
+  -
+    実例として、1961年10月6日には、阪神対広島戦（甲子園）を中国放送（RCC）にネットしている（解説：[土井垣武](../Page/土井垣武.md "wikilink")、実況：今福。出典：読売新聞、1961年10月6日、ラジオ・テレビ欄）
+
+[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")よりNRNのナイターに切り替えた。また、[日本シリーズは](../Page/日本選手権シリーズ.md "wikilink")[2002年](../Page/2002年.md "wikilink")シーズンから放送されていない。
+
+番組開始当初は試合開始～終了までの完全放送だったが、自社制作の深夜番組「[ハイヤングKYOTO](https://ja.wikipedia.org/wiki/ハイヤングKYOTO "wikilink")」の開始に伴い、それを放送する時間の確保の観点から、最大延長を22:30までに設定、その場合には「ハイヤングKYOTO」の放送時間を短縮する代わりとして、21:30からの定時番組を延期する対応をとっていた。一時期は月曜日も予備番組の『[歌謡大全集](../Page/サウンドコレクション.md "wikilink")』をネットしたこともあったが、1980年代後半以後は月曜ナイターの放送をやめた。さらに[2000年代](../Page/2000年代.md "wikilink")に入ると、デーゲームの開催比率が増えたため、週末のナイターも段階を追って放送廃止となり、2006年からは火曜日も通年でナイターとは関係ない番組の放送を開始したため廃止され、水・木・金の18時00分-21時00分のみとなり、延長オプションの時間も短縮→21時台後半の定時番組と22時からの『[レコメン\!](../Page/レコメン!.md "wikilink")』（原則として[文化放送](../Page/文化放送.md "wikilink")からのネット受け）の放送時間枠確保の観点で、試合展開に関らず延長が廃止され、21時までとなった（2011年までは『[レコメン\!](../Page/レコメン!.md "wikilink")』をネットするため21時20分、それ以前は22時30分まで\[1\]）。
+
+[2016年](../Page/2016年.md "wikilink")シーズンまでは上記の日程での放送だったが、[2017年](../Page/2017年.md "wikilink")シーズンから水曜日18時00分から19時00分に通年の新番組『河内先生のeyeの相談室』が設けられたため19時00分開始の2時間枠に短縮（木・金は従前に同じ）となったが、番組終了に伴い[2018年](../Page/2018年.md "wikilink")[8月](../Page/8月.md "wikilink")からは水曜日の放送も18時開始の3時間枠に戻された。しかしこの年を最後に水曜日のナイター放送も廃止され、通年でナイターとは関係がない定時番組へ移行、[2019年](../Page/2019年.md "wikilink")は木・金曜日の週2回放送となった。
+
+KBSラジオは[NRNのみに加盟しているため](../Page/全国ラジオネットワーク.md "wikilink")、主に[ニッポン放送](../Page/ニッポン放送.md "wikilink")（土・日の放送があったときは文化放送も）やNRN系列局が制作する[巨人戦をネットしている](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")（他に[ヤクルト](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")・[横浜DeNAの主催試合や](../Page/横浜DeNAベイスターズ.md "wikilink")、巨人の試合がない日にはその他のカードをネットすることもある）。
+
+[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")には同じNRNに加盟する[ABCラジオと](../Page/朝日放送ラジオ.md "wikilink")[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")があるが、共に自社制作の[阪神戦を主に放送するため](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")、中継カード自体が重ならない日が多い（KBSで阪神戦を放送する日はこの限りではないが、ABC・MBSが聴取率調査期間に自社向けとNRN向けを別制作した場合、KBSは全国向けを放送するため、内容は重複しない）\[2\]。
+
+[プロ野球だけでなく](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")、[女子プロ野球](https://ja.wikipedia.org/wiki/日本女子プロ野球機構 "wikilink")・[京都フローラ](https://ja.wikipedia.org/wiki/京都フローラ "wikilink")のゲームを年数回程度中継している。2011年は[7月31日](../Page/7月31日.md "wikilink")・[9月25日](../Page/9月25日.md "wikilink")に放送され、解説はスーパーバイザーの[太田幸司](../Page/太田幸司.md "wikilink")が務めた。この中継を除き、KBSは長らく自社制作を行わなかった。
+[2015年](../Page/2015年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")には、[京都市西京極総合運動公園野球場](../Page/京都市西京極総合運動公園野球場.md "wikilink")で行われるオリックス対[北海道日本ハム戦をMBSの制作](../Page/北海道日本ハムファイターズ.md "wikilink")（[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")）\[3\]で中継\[4\]。オリックスの西京極での主催試合は実に26年ぶりで、この中継は[STVアタックナイターにもネットされた](../Page/STVファイターズLIVE.md "wikilink")\[5\]。KBSでは21時以降の延長対応はしないものの、この中継は試合終了まで放送された。
+
+2018年5月27日には、オリックス対ロッテ戦（京都市西京極総合運動公園野球場・デーゲーム）で「亀のマークのキョウテク\[6\] スポーツスペシャル」として久々に自社制作のNPB中継を行う。解説はオリックスOBの[星野伸之](../Page/星野伸之.md "wikilink")が、実況はKBS京都アナウンサーの[澤武博之](../Page/澤武博之.md "wikilink")が担当し、ゲストに[かみじょうたけし](../Page/かみじょうたけし.md "wikilink")、[山田久志](../Page/山田久志.md "wikilink")（1回裏）、[中村静香](../Page/中村静香.md "wikilink")（2回表）が出演。
+
+  - 過去の放送スケジュール
+
+<!-- end list -->
+
+  - [1976年](../Page/1976年.md "wikilink") - 不明…土曜日・日曜日
+  - 不明 - [2004年](../Page/2004年.md "wikilink")…月曜日以外の毎日\[7\]
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")…火曜日 - 土曜日
+  - [2006年](../Page/2006年.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")…水曜日 - 土曜日
+  - [2009年](../Page/2009年.md "wikilink") - [2018年](../Page/2018年.md "wikilink")…水曜日 - 金曜日
+  - [2019年](../Page/2019年.md "wikilink") - …木曜日 - 金曜日
+
+## 制作担当局
+
+| 地域（球団）／曜日                                                                                                                                                                                                                                                                                | 木                                                           | 金                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------- |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")（[日](../Page/北海道日本ハムファイターズ.md "wikilink")）                                                                                                                                                                                            | [STV](https://ja.wikipedia.org/wiki/STVアタックナイター "wikilink") |                                                |
+| [宮城](https://ja.wikipedia.org/wiki/宮城県 "wikilink")（[楽](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")）                                                                                                                                                                         | [TBC](../Page/TBCパワフルベースボール.md "wikilink")                  |                                                |
+| [関東](../Page/広域放送.md "wikilink")（[巨](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")・[ヤ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")・[横](../Page/横浜DeNAベイスターズ.md "wikilink")・[西](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")・[ロ](../Page/千葉ロッテマリーンズ.md "wikilink")） | [LF](../Page/ニッポン放送ショウアップナイター.md "wikilink")                |                                                |
+| [東海](../Page/広域放送.md "wikilink")（[中](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")）                                                                                                                                                                                                  | [SF](../Page/東海ラジオ_ガッツナイター.md "wikilink")                   |                                                |
+| [近畿](../Page/広域放送.md "wikilink")（[神](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")・[オ](../Page/オリックス・バファローズ.md "wikilink")）                                                                                                                                                          | [MBS](../Page/MBSベースボールパーク.md "wikilink")                   | [ABC](../Page/ABCフレッシュアップベースボール.md "wikilink") |
+| [広島](../Page/広島県.md "wikilink")（[広](../Page/広島東洋カープ.md "wikilink")）                                                                                                                                                                                                                      | [RCC](../Page/RCCカープナイター.md "wikilink")                     |                                                |
+| [福岡](https://ja.wikipedia.org/wiki/福岡県 "wikilink")（[ソ](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")）                                                                                                                                                                           | [KBC](../Page/KBCホークスナイター.md "wikilink")                    |                                                |
+
+## 脚注
+
+## 関連項目
+
+  - [KBS京都エキサイトナイター](../Page/KBS京都エキサイトナイター.md "wikilink") - KBSテレビの野球中継
+  - [ニッポン放送ショウアップナイター](../Page/ニッポン放送ショウアップナイター.md "wikilink")
+  - [サウンドコレクション](../Page/サウンドコレクション.md "wikilink") - [レインコート番組](../Page/雨傘番組.md "wikilink")
+  - [ラジオ関西ジャイアンツナイター](../Page/ラジオ関西ジャイアンツナイター.md "wikilink")
+      - [兵庫県](../Page/兵庫県.md "wikilink")の[ラジオ関西](../Page/ラジオ関西.md "wikilink")で放送されている巨人戦の中継。[ラジオ日本からのネット受けのため](../Page/ラジオ日本ジャイアンツナイター.md "wikilink")、実況・解説は本番組と異なる。
+
+[Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:KBS京都のラジオ番組](https://ja.wikipedia.org/wiki/Category:KBS京都のラジオ番組 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+
+1.  ナイターの延長による対応は当初22:30まで延長した場合、21:30-22:00の番組\<[京都新聞ニュース](../Page/京都新聞ニュース.md "wikilink")含む\>についてはプロ野球終了後にスライド。22:00以後の番組は1:00からの[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")の枠の確保のため短縮となっていた。21:20までの延長であった場合は、21:00-21:20までのクッション番組は短縮or休止であったが、21:20の京都新聞ニュース以後は通常通りとなっていた
+2.  また、KBSが放送するNRNの本番カードの制作担当が在阪局となった場合でも、[オリックス戦については阪神戦の裏開催となった場合には](../Page/オリックス・バファローズ.md "wikilink")[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")となるため、重複は発生しない。
+3.  MBS自体はLFからのネット受けで「巨人 vs DeNA」（京セラドーム大阪・MBS技術協力）を放送。
+4.  解説・[太田幸司](../Page/太田幸司.md "wikilink") 実況・[森本栄浩](../Page/森本栄浩.md "wikilink") リポーター・[馬野雅行](../Page/馬野雅行.md "wikilink")（オリックスサイド） [仙田和吉](../Page/仙田和吉.md "wikilink")（ファイターズサイド）
+5.  各地のナイター速報の際は「STVナイター速報」としてKBSでも放送された。
+6.  京都市に本社を置くコインパーキング・駐車場管理運営業[（公式サイト）](https://www.kte.ne.jp/)。
+7.  [1990年代](../Page/1990年代.md "wikilink")前半までは月曜日にも中継枠が設けられ、試合がない日もNRNナイターの[レインコート番組](../Page/雨傘番組.md "wikilink")『[歌謡大全集](../Page/サウンドコレクション.md "wikilink")』（月曜は裏送り）が事実上の定時番組として放送されていた。

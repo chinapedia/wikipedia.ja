@@ -1,0 +1,323 @@
+> この記事は[vs](https://ja.wikipedia.org/wiki/vs)から翻訳されています。
+
+
+『**ゴジラvsモスラ**』（ゴジラたいモスラ）は1992年に公開された[日本映画](../Page/日本映画.md "wikilink")で、「[ゴジラ](../Page/ゴジラ.md "wikilink")シリーズ」の第19作である。[1992年](../Page/1992年.md "wikilink")（平成4年）[12月12日](../Page/12月12日.md "wikilink")公開。キャッチコピーは「**極彩色の大決戦**」。
+
+観客動員数は平成(VS)ゴジラシリーズ中最多の420万人、[配給収入](https://ja.wikipedia.org/wiki/配給収入 "wikilink")は22億2000万円（1993年邦画配収第1位）を記録。正月興行の邦画としては、[1973年](../Page/1973年.md "wikilink")（昭和48年）末公開の『[日本沈没](https://ja.wikipedia.org/wiki/日本沈没 "wikilink")』が保持していた配収記録を19年ぶりに更新した。[2016年](../Page/2016年.md "wikilink")公開の『[シン・ゴジラ](https://ja.wikipedia.org/wiki/シン・ゴジラ "wikilink")』(観客動員数550万人)が更新するまで平成制作のゴジラ作品で最大のヒットだった。
+
+## 概要
+
+ゴジラVSシリーズ第3弾。
+
+主要襲撃地点は、[丹沢山地](https://ja.wikipedia.org/wiki/丹沢山地 "wikilink")、横浜市[横浜みなとみらい21](../Page/横浜みなとみらい21.md "wikilink")、名古屋市。公開当時の開業直前の[横浜ランドマークタワー](../Page/横浜ランドマークタワー.md "wikilink")が破壊されるシーンがあった。
+
+丹沢でのゴジラ迎撃戦で[メーサー攻撃機が初登場し](https://ja.wikipedia.org/wiki/メーサー兵器#93式メーサー攻撃機 "wikilink")、大規模な戦闘が繰り広げられる。
+
+ファミリー層向けの対策として、人間ドラマは拓也と雅子の夫婦の復縁の物語を軸に展開し、観客の反応も良好であった。別所の主演も女性向け雑誌で特集が組まれるなど話題となった。また、平成ゴジラシリーズで初めて[自然破壊](../Page/自然破壊.md "wikilink")を題材に取り上げ、「環境破壊」と「家族愛」をテーマとしている。同時に人類誕生以前の文明や地球の意志によって生み出された怪獣など[ファンタジー](../Page/ファンタジー.md "wikilink")要素も本格的に取り入れた。
+
+作品にはモスラと常にセットで登場してきた[小美人](../Page/小美人.md "wikilink")も登場。本作では先住民の末裔**コスモス**という名で、演じるのは[今村恵子](https://ja.wikipedia.org/wiki/今村恵子 "wikilink")（第3回東宝シンデレラコンテスト・グランプリ）と[大沢さやか](../Page/大沢さやか.md "wikilink")（同・審査員特別賞）。映画出演後の一時期、今村・大沢の2人はアイドルユニット「コスモス」としても活動している。
+
+前作に引き続き土橋竜三が登場した他、三枝未希も登場するが、他の登場作品に比べて出番は少ない。また自衛隊の各幕僚長らも前作に引き続き黒部進らが演じている。
+
+オープニングの嵐のシーンは一部『[モスラ対ゴジラ](../Page/モスラ対ゴジラ.md "wikilink")』の映像を流用している。このオープニングの特撮の撮影日（7月2日）に、[ティム・バートン](../Page/ティム・バートン.md "wikilink")が特撮の川北組を表敬訪問している\[1\]。
+
+バトラが眠っている氷塊が溶けるシーンに『[ノストラダムスの大予言](../Page/ノストラダムスの大予言_\(映画\).md "wikilink")』の映像の一カットが使われている\[2\]。
+
+アメリカでは長い間『モスラ対ゴジラ』が“*Godzilla vs. Mothra*”のタイトルだったため、差別化を図るため本作のタイトルは“*Godzilla and Mothra: The Battle for Earth*”となった。
+
+作曲家の[本多俊之](https://ja.wikipedia.org/wiki/本多俊之 "wikilink")が自衛隊員役で特別出演している。大河原孝夫によると、本多が[伊福部昭](../Page/伊福部昭.md "wikilink")とゴジラ映画の大ファンだったことから依頼されてのことだという。
+
+ラストのモスラ着陸シーンの舞台は大黒埠頭、横浜スタジアムなど検討されたが、脚本では[羽田空港になった](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")。結局許可が下りず、[立川飛行場](https://ja.wikipedia.org/wiki/立川飛行場 "wikilink")（[立川駐屯地](https://ja.wikipedia.org/wiki/立川駐屯地 "wikilink")）で撮影は行われた\[3\]。インファント島のロケは[奄美大島](../Page/奄美大島.md "wikilink")で行われ、地主の好意で地滑りのカットなどが撮影できたという。吊り橋のカットは、福島県の飯坂で撮影された。
+
+オープニングの隕石、ゴジラのシミュレーション画像の[CG製作は](../Page/コンピュータグラフィックス.md "wikilink")[ナムコ社による](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")。ナムコとのタイアップにより、[ナムコ・ワンダーエッグ](https://ja.wikipedia.org/wiki/ナムコ・ワンダーエッグ "wikilink")にて『[モスラ](../Page/モスラ.md "wikilink")』の公開日である7月30日にエキストラを一般公募しての撮影が行われた。
+
+### 製作経緯
+
+当初の企画案は『[モスラVSバガン](https://ja.wikipedia.org/wiki/モスラVSバガン "wikilink")』というモスラが主役の映画だった。この企画は1990年を公開予定とし、[大森一樹](../Page/大森一樹.md "wikilink")によって脚本が準備された。しかし『[ゴジラvsビオランテ](https://ja.wikipedia.org/wiki/ゴジラvsビオランテ "wikilink")』の評判を見て、次企画はゴジラ主役の映画『[vsキングギドラ](../Page/ゴジラvsキングギドラ.md "wikilink")』となり、その次回作として『ゴジラVSギガモス』 \[4\]や先の『モスラVSバガン』を原案に、敵怪獣をバガンからゴジラに変更し、『ゴジラvsモスラ』に落ち着いた。『ギガモス』が制作されなかったのは、登場予定だったメカニコングが権利関係が東宝と[RKO](../Page/RKO.md "wikilink")との間で曖昧であったためこれを明確にしようという意図もあったが、RKO側から製作した場合トラブルが生じる可能性があるとの回答が出されたためである。
+
+### 特撮
+
+東宝特撮作品としては初めて[ハイビジョン](../Page/ハイビジョン.md "wikilink")合成を採用しており、コスモスの登場場面などに使用された。
+
+ラストのみなとみらい21のセットは3,000個以上の電飾を使用し、製作費8000万円、製作日数1ヶ月をかけて製作された\[5\]。ランドマークタワーのミニチュアは高さ6メートルにおよぶ。ランドマークタワーの位置がずれていたり、[横浜赤レンガ倉庫](https://ja.wikipedia.org/wiki/横浜赤レンガ倉庫 "wikilink")がある新港地区が設置されていないなど現実とは異なる部分がある。
+
+国会議事堂での羽化は1961年の『[モスラ](../Page/モスラ.md "wikilink")』の初期案を復活させたものである\[6\]。成虫の羽化シーンには[CG画像も製作されたが](../Page/コンピュータグラフィックス.md "wikilink")、これは未使用となった。
+
+## ストーリー
+
+太平洋[小笠原沖に巨大](../Page/小笠原諸島.md "wikilink")[隕石](https://ja.wikipedia.org/wiki/隕石 "wikilink")が落下したことにより、[メカキングギドラとの戦いで海底で眠りについていたゴジラが目覚めた](https://ja.wikipedia.org/wiki/キングギドラ#メカキングギドラ "wikilink")。一方、南洋の**[インファント島](../Page/インファント島.md "wikilink")**では巨大台風と乱開発の影響で、地中より巨大な謎の物体が出現した。
+
+[トレジャーハンター](../Page/トレジャーハンター.md "wikilink")の藤戸拓也は[アユタヤ](https://ja.wikipedia.org/wiki/アユタヤ "wikilink")での盗掘と遺跡破壊行為の免罪を条件に、元妻の手塚雅子、島の開発を行なっている**丸友観光**の社員・安藤健二とともにインファント島へ調査に赴く。彼らが目にしたものはモスラの卵だった。丸友観光の社長である友兼は、モスラの卵を日本へ輸送することを決定する。
+
+しかし、**コスモス**と名乗る島の2人の[小美人](../Page/小美人.md "wikilink")は、**バトラ**の復活による危機を警告する。そんな中、北の海の氷河からバトラが目覚め日本に侵入、名古屋に現れ街を破壊し地中へと消える。一方、卵の輸送船「ありあけ丸」は太平洋フィリピン沖を航行中にゴジラの襲撃を受ける。卵からはモスラの幼虫が[孵化](https://ja.wikipedia.org/wiki/孵化 "wikilink")し、口から糸を吐いて応戦する。そこにバトラも現れ、三つ巴の戦いが始まった。ゴジラとバトラが海中に沈んで戦いを続けるさなかに[海底火山](../Page/海底火山.md "wikilink")が爆発。両者はマグマの中に消える。
+
+コスモスは拓也たちと同行していたが、安藤によって拉致され、友兼は彼女らを社のイメージキャラクターにしようと画策する。一方、モスラはコスモスを追って東京に上陸。[国会議事堂](https://ja.wikipedia.org/wiki/国会議事堂 "wikilink")に繭を作り、やがて成虫へと変化を遂げる。時を同じくして富士山が噴火。噴出する溶岩の中からゴジラが出現した。
+
+飛び立つモスラの前に成虫となったバトラも出現。両者が横浜みなとみらいで激突しているところにゴジラも現れ、再び三つ巴の戦いが始まる。
+
+## 登場怪獣
+
+  - [ゴジラ](https://ja.wikipedia.org/wiki/ゴジラ_\(架空の怪獣\)#『ゴジラvsキングギドラ』以降 "wikilink")（演 - [薩摩剣八郎](../Page/薩摩剣八郎.md "wikilink")）
+      - 体長：100メートル、体重：6万トン。
+    <!-- end list -->
+      -
+        作中の出現地点・進行ルート：小笠原近海→フィリピン沖→[富士山](../Page/富士山.md "wikilink")→[丹沢山地](https://ja.wikipedia.org/wiki/丹沢山地 "wikilink")→横浜市→[横浜みなとみらい21](../Page/横浜みなとみらい21.md "wikilink")→北の海
+  - [モスラ](https://ja.wikipedia.org/wiki/モスラ_\(架空の怪獣\)#『ゴジラvsモスラ』 "wikilink")（幼虫、成虫）
+      -
+        作中の出現地点・進行ルート：フィリピン沖→インファント島→太平洋→[東京湾](../Page/東京湾.md "wikilink")→[芝浦](../Page/芝浦.md "wikilink")埠頭→[浜松町](https://ja.wikipedia.org/wiki/浜松町 "wikilink")→[赤坂](../Page/赤坂_\(東京都港区\).md "wikilink")→国会議事堂→横浜みなとみらい21→北の海→[立川基地](https://ja.wikipedia.org/wiki/立川基地 "wikilink")→[宇宙](../Page/宇宙.md "wikilink")
+  - [バトラ](https://ja.wikipedia.org/wiki/モスラ_\(架空の怪獣\)#バトラ "wikilink")（幼虫、成虫）（演 - [破李拳竜](../Page/破李拳竜.md "wikilink")）
+      -
+        作中の出現地点・進行ルート：北の海→[日本海](../Page/日本海.md "wikilink")→[輪島海岸](https://ja.wikipedia.org/wiki/輪島市 "wikilink")→[日本アルプス](../Page/日本アルプス.md "wikilink")地底→[名古屋市](../Page/名古屋市.md "wikilink")→フィリピン沖→太平洋→横浜みなとみらい21→北の海
+
+## 登場人物
+
+  - 藤戸 拓也
+    本編の主人公格。[トレジャーハンター](../Page/トレジャーハンター.md "wikilink")、元東都大学・考古学教室助手。30歳。知識を活かして世界中の遺跡で[盗掘](https://ja.wikipedia.org/wiki/盗掘 "wikilink")を行っていた。その際にタイ警察に逮捕され収監されていたところを、国家環境計画局からの依頼で、釈放を交換条件にインファント島への巨大物体調査に参加、一連の事件に関わる。
+    インファント島探索の先導役でありながら、いい加減な状況判断で同行者を危険に晒したり、別れた妻子と寄りを戻すための資金を得ようと、コスモスを密かに国外の研究機関へ売り渡そうとするなど欠点も目立つ人物だが、決して良心に欠けているわけではなく、危機的状況に適さない言動や行動を取る者を激しく咎めたり拳を振るうなど、本質は熱血漢である。
+    元妻の雅子と愛娘のみどりの説得で自らの過ちを改め、コスモスをモスラに返すことを決意。3大怪獣の決戦を最後まで見守った。
+  - 手塚 雅子
+    本編のヒロイン格。拓也の元妻、東都大学環境情報センター所員。28歳。娘のみどりの親権を持つ。国家環境計画局に出向している。
+    インファント島の調査で拓也達と同行することとなり、強気で勝気な性格から口ゲンカが絶えなかったが、お互いに未練があったため少しずつ関係を深め直すこととなる。
+  - 安東 健二
+    丸友観光社長秘書。28歳。インファント島が自らの会社の地所であるため、調査に赴く拓也と雅子に同行する。
+    社長・友兼の命令に従順な性格で、輸送中に孵化してしまったモスラの卵の代わりにコスモスを誘拐し、友兼の下へと差し出すが、拓也たちやコスモスとの交流を経て、会社や自分の行為に対して疑問も抱いていく。
+    最終的には手段も犠牲も厭わず会社の利益のみに固執する友兼の醜い本性に反発し決別。ラストシーンでは拓也達と共に宇宙に旅立つモスラを見送った。
+  - 三枝 未希
+    国家環境計画局Gルーム所属の超能力者。21歳。探知能力を使い、行方不明になったコスモスを雅子やみどりと共に探しあてる。
+  - 手塚 みどり
+    拓也と雅子の娘。6歳。両親の離婚後は雅子と共に暮らしている。
+    雅子からは拓也の職業を刑事だと伝えられていたが、実はトレジャーハンターであることを知っていた。
+  - 土橋 竜三
+    内閣安全保障室室長。50歳。本作では未希と同様に国家環境計画局へ出向している。拓也へのインファント島調査を自ら依頼する。前作とは対照的に、狼狽えたり声を荒げたりすることが多い。
+  - コスモス
+    かつて太古の時代に地球を支配していた先住民族の生き残りである、身長18センチほどの2人の小美人。
+    インファント島にやって来た拓也達を信じ、現代人類へ地球環境に対する警告を発するため日本へ向かうが、丸友の手に落ち、「[モスラの歌](https://ja.wikipedia.org/wiki/モスラの歌 "wikilink")」でモスラを呼び寄せる。雅子達に保護され、モスラがゴジラに勝利した後、バトラとの約束を果たすためモスラと共に宇宙へ旅立つ。
+    「コスモス」という名詞はこの2人だけでなく、太古の時代に地球を支配していた先住民族の総称である。
+  - 深沢 真由美
+    雅子の姉で、深沢の妻。35歳。雅子がインファント島へモスラの卵を調査するため日本を離れていた際、みどりを預かっている。
+    ラストでも宇宙へ旅立つモスラとコスモスを見送った。
+  - 友兼 剛志
+    丸友観光社長。35歳。
+    政界との強大なパイプを持ち、富士山麓やインファント島の乱開発を進めていた。利己的な野心家で、安東が誘拐したコスモスを会社のイメージガールにしようと企てる。モスラに破壊される東京を前にしながらも「この街は俺が新しく造り直す！」と絶叫するが、最後は腹心であった安東からも見捨てられ、力なく崩れ落ちた。
+  - 大前 実
+    丸友観光常務取締役、富士山麓ゴルフ場開発プロジェクト主任。50歳。非常に低姿勢な人物。
+  - 深沢 重樹
+    真由美の夫、雅子の上司であり義兄でもある、東都大学地質学教授兼同大学環境情報センター主任。45歳。
+    雅子と同様に国家環境計画局にゴジラ研究と環境破壊対策の両面で協力する。理知的で物静かな第一印象だが、優れた決断力と危険を顧みずに救出活動へ身を投じる勇敢さも併せ持つ。
+  - 南野 丈二
+    国家環境計画局局長。55歳。本業の環境問題と、今回の対ゴジラ作戦の責任を同時に請け負う高級官僚。温厚かつ冷静な人物。
+    次作『[ゴジラvsメカゴジラ](../Page/ゴジラvsメカゴジラ.md "wikilink")』でも現職であり、深沢と雅子を中心に調査チームを編成、ゴジラの襲撃を受けた関西近辺の環境被害調査を務めていることが劇中の新聞記事で語られている。
+
+## 登場兵器
+
+### 架空
+
+  - 92式メーサー戦車
+
+<!-- end list -->
+
+  - 93式自走高射メーサー砲
+
+<!-- end list -->
+
+  - 93式メーサー攻撃機
+
+<!-- end list -->
+
+  - 61式改戦車
+
+<!-- end list -->
+
+  - [はつゆき型護衛艦](../Page/はつゆき型護衛艦.md "wikilink")「もりゆき」
+    艦番号DD-134。架空のはつゆき型護衛艦。[モスラ（幼虫）の迎撃に参加するも撃沈される](https://ja.wikipedia.org/wiki/モスラ#『ゴジラvsモスラ』 "wikilink")。
+
+### 実在
+
+  - [74式戦車](../Page/74式戦車.md "wikilink")
+  - [61式戦車](../Page/61式戦車.md "wikilink")
+  - [89式装甲戦闘車](https://ja.wikipedia.org/wiki/89式装甲戦闘車 "wikilink")
+  - [82式指揮通信車](https://ja.wikipedia.org/wiki/82式指揮通信車 "wikilink")
+  - [73式大型トラック](https://ja.wikipedia.org/wiki/73式大型トラック "wikilink")
+  - [73式小型トラック](https://ja.wikipedia.org/wiki/73式小型トラック "wikilink")
+  - [1/4tトラック](../Page/三菱・ジープ.md "wikilink")
+  - [75式130mm自走多連装ロケット弾発射機](../Page/75式130mm自走多連装ロケット弾発射機.md "wikilink")
+  - はつゆき型護衛艦「[はるゆき](https://ja.wikipedia.org/wiki/はるゆき_\(護衛艦\) "wikilink")」
+  - [F-15J](https://ja.wikipedia.org/wiki/F-15J_\(航空機\) "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")
+  - [UH-1H](https://ja.wikipedia.org/wiki/UH-1_\(航空機\)#日本 "wikilink")[多用途ヘリコプター](https://ja.wikipedia.org/wiki/汎用ヘリコプター "wikilink")
+  - [OH-6D](https://ja.wikipedia.org/wiki/OH-6_\(航空機\)#日本での採用 "wikilink")[観測ヘリコプター](../Page/観測機.md "wikilink")
+  - [64式7.62mm小銃](https://ja.wikipedia.org/wiki/64式7.62mm小銃 "wikilink")
+  - [M16A2自動小銃](https://ja.wikipedia.org/wiki/M16自動小銃#M16A2\(645\) "wikilink")
+  - [84mm無反動砲](https://ja.wikipedia.org/wiki/カールグスタフ_\(無反動砲\)#陸上自衛隊 "wikilink")
+
+## 設定
+
+  - 国家環境計画局/Gルーム
+    東京都内の超高層ビルを本拠とする国際的機関。二酸化炭素による温暖化・[オゾン層](https://ja.wikipedia.org/wiki/オゾン層 "wikilink")の破壊、森林伐採、さらに隕石の激突で引き起こされた大気の異常、海水面の上昇、海底プレートへの影響など、地球全土の環境問題全般に関する業務を請け負う。
+    メインルームにはGルームが編成され、前作『ゴジラvsキングギドラ』のGルーム同様に幕僚長らが出向し、自衛隊の指揮所となる。また、ゴジラが日本に現れた際などの厳戒態勢時には、大型のメインスクリーンを展開する。このメインスクリーンには、探査衛星が捉えたデータを基に、あらゆる角度からの映像を表示できる「ゴジラ・サーチ・システム」を試験的に搭載している。
+  - 丸友観光
+    東京都内に本社屋を持つ観光会社。社員研修にはサバイバル体験を開いている。日本政府から資金援助を受け、インファント島にリゾート地を、富士山麓にはゴルフコースをそれぞれ建設するために乱開発を行うが、後者は地元の環境保護団体から猛抗議を受けている。
+    しかし、最終的に隕石によって引き起こされたインドネシアの異常気象や富士山の火山噴火で、それぞれの工事現場が再開のメドが立たないほど潰されてしまい、大損害を被る結果となる。
+  - アユタヤの遺跡
+    冒頭に登場した太古の地下式寺院。ここで拓也が深部の壁に隠されていた秘宝の[ガネーシャ](../Page/ガネーシャ.md "wikilink")像を盗むが、その直後に罠が作動。壁が崩れ、床が抜け落ち、寺院内部は完全に崩壊。拓也は命からがら脱出に成功したものの、同時に地元警察に逮捕されてしまう。
+  - インファント島
+    インドネシア諸島にあり、先住民コスモスの末裔たちが住む島。現在は全島が丸友観光の所有地になっている。丸友のリゾート開発と隕石によって引き起こされた異常気象の影響で島の森林は大きく荒れ、岩山が崩れ、埋まっていたモスラの卵が露出してしまう。また、滝の奥に洞窟があり、モスラとバトラらしき壁画が描かれている。
+  - 12,000年前の伝説
+    地球の先住民であるコスモスは、モスラを守り神と崇め、差別も争いも無い高度な文明社会を築き上げていた。しかし、一部の科学者が気象コントロール装置を開発し、気象を操ろうとしたことで、自身の危険を感じた地球生命は怒り、バトラを生み出してコスモスを攻撃させた。モスラはコスモスを守るためにバトラと戦い、北の氷の海に沈めたが、バトラが気象コントロール装置を破壊したため大洪水が発生し、モスラと高い山に避難した一部のコスモスたちのみが難を逃れ、彼らの大陸は滅亡してしまった。
+
+## キャスト
+
+  - 藤戸拓也：[別所哲也](../Page/別所哲也.md "wikilink")
+  - 手塚雅子：[小林聡美](../Page/小林聡美.md "wikilink")
+  - 安東健二：[村田雄浩](https://ja.wikipedia.org/wiki/村田雄浩 "wikilink")
+  - 三枝未希：[小高恵美](../Page/小高恵美.md "wikilink")
+  - 手塚みどり：[米澤史織](../Page/米澤史織.md "wikilink")
+  - 土橋竜三：[小林昭二](../Page/小林昭二.md "wikilink")
+  - 航空幕僚長（高岡冬樹）：[黒部進](../Page/黒部進.md "wikilink")
+  - 陸上幕僚長（志村武雄\[7\]）：[荻原賢三](https://ja.wikipedia.org/wiki/荻原賢三 "wikilink")
+  - 海上幕僚長（平田大輔\[8\]）：[辰馬伸](https://ja.wikipedia.org/wiki/辰馬伸 "wikilink")
+  - 戦車隊隊長：[渡辺哲](https://ja.wikipedia.org/wiki/渡辺哲 "wikilink")
+  - コスモス：[今村恵子](https://ja.wikipedia.org/wiki/今村恵子 "wikilink")、[大沢さやか](../Page/大沢さやか.md "wikilink")
+  - ディクソン（クローン生物研究所）：[ジェームズ・ヌージェント](https://ja.wikipedia.org/wiki/ジェームズ・ヌージェント "wikilink")
+  - 富士山・火山観測所観測員：[松藤将弘](https://ja.wikipedia.org/wiki/松藤将弘 "wikilink")
+  - [NASA](https://ja.wikipedia.org/wiki/NASA "wikilink")職員：[ジュン・オルティス](https://ja.wikipedia.org/wiki/ジュン・オルティス "wikilink")、[ジョシュア・リバーマン](https://ja.wikipedia.org/wiki/ジョシュア・リバーマン "wikilink")、[コービー・ディドゥル](https://ja.wikipedia.org/wiki/コービー・ディドゥル "wikilink")、[ジェミー・コットン](https://ja.wikipedia.org/wiki/ジェミー・コットン "wikilink")、[ロバート・ザーチャー](https://ja.wikipedia.org/wiki/ロバート・ザーチャー "wikilink")
+  - 深沢真由美：[田中好子](../Page/田中好子.md "wikilink")
+  - 友兼剛志：[大竹まこと](https://ja.wikipedia.org/wiki/大竹まこと "wikilink")
+  - 船長：[大和田伸也](../Page/大和田伸也.md "wikilink")
+  - 大前実：[上田耕一](../Page/上田耕一.md "wikilink")
+  - 深沢重樹：[篠田三郎](https://ja.wikipedia.org/wiki/篠田三郎 "wikilink")
+  - 南野丈二：[宝田明](https://ja.wikipedia.org/wiki/宝田明 "wikilink")
+
+※クレジット表記なし
+
+  - 陸上自衛隊・戦車副官：[本多俊之](https://ja.wikipedia.org/wiki/本多俊之 "wikilink")\[9\]
+
+## スタッフ
+
+  - 製作：[田中友幸](https://ja.wikipedia.org/wiki/田中友幸 "wikilink")
+  - 脚本：[大森一樹](../Page/大森一樹.md "wikilink")
+  - 音楽監督：[伊福部昭](../Page/伊福部昭.md "wikilink")
+  - プロデューサー：[富山省吾](../Page/富山省吾.md "wikilink")
+  - 撮影：[岸本正広](https://ja.wikipedia.org/wiki/岸本正広 "wikilink")
+  - 美術：酒井賢
+  - 録音：斉藤禎一
+  - 音響効果：佐々木英世（[東洋音響](https://ja.wikipedia.org/wiki/東洋音響 "wikilink")）
+  - 照明：[望月英樹](https://ja.wikipedia.org/wiki/望月英樹 "wikilink")
+  - 編集：米田美保
+  - 助監督：[三好邦夫](https://ja.wikipedia.org/wiki/三好邦夫 "wikilink")
+  - 製作担当者：森知貴秀、前田光治
+  - 擬斗：[森岡隆見](https://ja.wikipedia.org/wiki/森岡隆見 "wikilink")
+  - 特殊技術
+      - 撮影：[江口憲一](https://ja.wikipedia.org/wiki/江口憲一 "wikilink")、[大根田俊光](https://ja.wikipedia.org/wiki/大根田俊光 "wikilink")
+      - 美術：[大澤哲三](https://ja.wikipedia.org/wiki/大澤哲三 "wikilink")
+      - 照明：斉藤薫
+      - 特殊効果：[渡辺忠昭](https://ja.wikipedia.org/wiki/渡辺忠昭 "wikilink")
+      - 造型：[小林知己](https://ja.wikipedia.org/wiki/小林知己 "wikilink")、[村瀬継蔵](https://ja.wikipedia.org/wiki/村瀬継蔵 "wikilink")
+      - 繰演：松本光司
+      - 助監督：[鈴木健二](../Page/鈴木健二_\(特撮監督\).md "wikilink")
+      - 製作担当者：小島太郎
+      - ゴジラ：[薩摩剣八郎](../Page/薩摩剣八郎.md "wikilink")
+      - バトラ：[破李拳竜](../Page/破李拳竜.md "wikilink")
+  - 協力：[防衛庁](../Page/防衛省.md "wikilink")、[東海大学](../Page/東海大学.md "wikilink")情報技術センター
+  - 協賛：[日本衛星放送](https://ja.wikipedia.org/wiki/日本衛星放送 "wikilink")、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")、[西友](../Page/西友.md "wikilink")、[コニカ](../Page/コニカ.md "wikilink")、[東芝](../Page/東芝.md "wikilink")、[大島運輸](https://ja.wikipedia.org/wiki/大島運輸 "wikilink")
+  - 制作協力：[東宝映像美術](https://ja.wikipedia.org/wiki/東宝映像美術 "wikilink")、東宝サウンドスタジオ、東宝ミュージック、東宝コスチューム、東京現像所、[東宝スタジオ](../Page/東宝スタジオ.md "wikilink")
+  - 特技監督：[川北紘一](../Page/川北紘一.md "wikilink")
+  - 監督：[大河原孝夫](https://ja.wikipedia.org/wiki/大河原孝夫 "wikilink")
+  - [東宝映画作品](https://ja.wikipedia.org/wiki/東宝映画_\(企業\) "wikilink")
+  - 配給：[東宝](../Page/東宝.md "wikilink")
+
+## 劇中歌
+
+### 主題歌
+
+  - [モスラの歌](https://ja.wikipedia.org/wiki/モスラの歌 "wikilink")
+    作詞：[田中友幸](https://ja.wikipedia.org/wiki/田中友幸 "wikilink")・[関沢新一](../Page/関沢新一.md "wikilink")・[本多猪四郎](../Page/本多猪四郎.md "wikilink") / 作曲：[古関裕而](../Page/古関裕而.md "wikilink") / 編曲：[高田弘](../Page/高田弘.md "wikilink") / 唄：コスモス（[今村恵子](https://ja.wikipedia.org/wiki/今村恵子 "wikilink")・[大沢さやか](../Page/大沢さやか.md "wikilink")）
+
+### 挿入歌
+
+  - マハラ・モスラ
+    作詞・作曲・編曲：[伊福部昭](../Page/伊福部昭.md "wikilink") / 唄：コスモス
+  - 聖なる泉
+    作詞・作曲・編曲：伊福部昭 / 唄：コスモス
+      -
+        エンディングには女声[スキャット](../Page/スキャット.md "wikilink")による[インスト版が使用された](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")。
+
+## 映像ソフト化
+
+  - DVDは2002年3月21日発売。
+      - 2005年4月22日発売の「GODZILLA FINAL BOX」に収録されている。
+      - 2008年5月23日発売のトールケース版「ゴジラ DVDコレクションV」に収録されており、単品版も同時発売。
+      - 2014年5月14日には「ゴジラ60周年記念版」として期間限定の廉価版が発売。
+      - 2016年6月15日、＜東宝DVD名作セレクション＞版発売。
+  - [Blu-rayディスクは](../Page/Blu-ray_Disc.md "wikilink")2010年1月22日発売。
+
+## コミカライズ
+
+  - [講談社](../Page/講談社.md "wikilink")[ワイドKCボンボン](../Page/コミックボンボン.md "wikilink") - ストーリー構成：安井尚志、作画：川石てつや
+  - [小学館](../Page/小学館.md "wikilink") [てんとう虫コミックス](https://ja.wikipedia.org/wiki/てんとう虫コミックス "wikilink")スペシャル - 脚本：大森一樹、作画：[坂井孝行](https://ja.wikipedia.org/wiki/坂井孝行 "wikilink")
+
+## 関連グッズ
+
+  - 組立式SDゴジラ
+    ゴジラシリーズの歴代怪獣をディフォルメした組立式ミニフィギュア。全15種に各4色のカラーバリエーションが存在する\[10\]。
+    入場者プレゼントとして配布されたほか、バンダイの[ガシャポン](https://ja.wikipedia.org/wiki/ガシャポン "wikilink")商品としても販売された\[11\]。
+
+## 主な受賞歴
+
+  - 第37回[アジア太平洋映画祭](https://ja.wikipedia.org/wiki/アジア太平洋映画祭 "wikilink")特殊効果賞
+  - [第16回日本アカデミー賞](https://ja.wikipedia.org/wiki/第16回日本アカデミー賞 "wikilink")
+      - 優秀助演男優賞（村田雄浩）
+      - 優秀音楽賞（伊福部昭）
+      - 新人俳優賞（今村恵子・大沢さやか）
+  - 第47回[毎日映画コンクール](https://ja.wikipedia.org/wiki/毎日映画コンクール "wikilink") 助演男優賞（村田雄浩）
+  - 第38回[キネマ旬報賞](../Page/キネマ旬報社.md "wikilink") 助演男優賞
+  - 第17回[報知映画賞](../Page/報知映画賞.md "wikilink") 助演男優賞（村田雄浩）
+  - 全国興行環境衛生同業組合連合会 第11回[ゴールデングロス賞](https://ja.wikipedia.org/wiki/ゴールデングロス賞 "wikilink") 日本映画部門 最優秀金賞
+  - 第2回[東京スポーツ映画大賞](../Page/東京スポーツ映画大賞.md "wikilink")
+      - 主演男優賞（ゴジラ）
+      - 助演男優賞（モスラ）
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+## 外部リンク
+
+  - [ゴジラvsモスラ - 東宝WEB SITE](https://viewer.kintoneapp.com/public/0a3f41a74b8bb9e879c82e5240035410e01df4c27f0dfc1d2ef44495962b1f44#/detail/def50200afb6e40b5706e64feecf41de0c848ba14d09156ae7275f0b11376ce8bec26351a635c54e487c9f4e0edc84ef0308d88975fa3e23dd0aca9dce709fa77ca58b364249c4bb58a6c1082e8db4e8ee38ba4bd6dad2b5379b20e87535b866b7193b771042dc52263cfb227bcfcb10275577aeda914fbd01660277bf1b1ee7627f950f53bf4cea6ac91cb5015b335fcfbda47ef4b06974c1)
+
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+[Category:大河原孝夫の監督映画](https://ja.wikipedia.org/wiki/Category:大河原孝夫の監督映画 "wikilink") [Category:伊福部昭の作曲映画](https://ja.wikipedia.org/wiki/Category:伊福部昭の作曲映画 "wikilink") [Category:ゴジラシリーズの映画作品](https://ja.wikipedia.org/wiki/Category:ゴジラシリーズの映画作品 "wikilink") [Category:モスラ](https://ja.wikipedia.org/wiki/Category:モスラ "wikilink") [Category:1992年の映画](https://ja.wikipedia.org/wiki/Category:1992年の映画 "wikilink") [Category:1990年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1990年代の特撮作品 "wikilink") [Category:東京を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした映画作品 "wikilink") [Category:名古屋市を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:名古屋市を舞台とした映画作品 "wikilink") [Category:横浜市を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:横浜市を舞台とした映画作品 "wikilink") [Category:インドネシアを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:インドネシアを舞台とした映画作品 "wikilink") [Category:タイを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:タイを舞台とした映画作品 "wikilink") [Category:フィリピンを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:フィリピンを舞台とした映画作品 "wikilink") [Category:成田国際空港を舞台にした作品](https://ja.wikipedia.org/wiki/Category:成田国際空港を舞台にした作品 "wikilink") [Category:自衛隊映画](https://ja.wikipedia.org/wiki/Category:自衛隊映画 "wikilink") [Category:隕石を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:隕石を題材とした映画作品 "wikilink")
+
+1.  劇場パンフレットより。
+2.   「平成ゴジラバーニング・コラム」。
+3.  1作目の『[モスラ](../Page/モスラ.md "wikilink")』と同じ場所である。
+4.   「幻の平成ゴジラストーリー」。
+5.
+6.
+7.
+8.
+9.  『50th ANNIVERSARY GODZILLA SOUNDTRACK PERFECT COLLECTION BOX4』「ゴジラVSモスラ」ブックレットP.23。
+10.  「Memories of ゴジラVSモスラ」。
+11.

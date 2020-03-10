@@ -1,0 +1,16 @@
+> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+
+
+**トマス・アンドリュース・ヘンドリックス**（**Thomas Andrews Hendricks**, [1819年](../Page/1819年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink") - [1885年](../Page/1885年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の政治家。[インディアナ州](../Page/インディアナ州.md "wikilink")選出の[下院および](../Page/アメリカ合衆国下院.md "wikilink")[上院議員](../Page/アメリカ合衆国上院.md "wikilink")、第21代[アメリカ合衆国副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")。
+
+ヘンドリックスは[オハイオ州](../Page/オハイオ州.md "wikilink")[ゼインズビル近郊の村で生まれ](https://ja.wikipedia.org/wiki/ゼインズビル_\(オハイオ州\) "wikilink")、[1820年](../Page/1820年.md "wikilink")に両親と共に[インディアナ州](../Page/インディアナ州.md "wikilink")へ転居した。彼は[1841年](../Page/1841年.md "wikilink")にハノーヴァー大学を卒業し、[1843年](../Page/1843年.md "wikilink")に法曹界入りして、インディアナ州シェルビーヴィルの中で弁護士業を始めた。[1848年](../Page/1848年.md "wikilink")には州議会議員、州憲法制定会議のメンバーであった。また[民主党から第](../Page/民主党_\(アメリカ\).md "wikilink")32と第33議会（1851年3月4日 - 1855年3月3日）に選出された。[1854年](../Page/1854年.md "wikilink")の選挙では落選した。彼は旅費委員会および無効年金委員会の議長であった。
+
+ヘンドリックスは[1855年](../Page/1855年.md "wikilink")から[1859年](../Page/1859年.md "wikilink")まで一般国有地管理局の委員を務め、[1860年](../Page/1860年.md "wikilink")にインディアナ州知事選に出馬するが落選した。彼は1860年にインディアナポリスへ転居し、弁護士業を始めた。その後、上院議員に選出され、[1863年](../Page/1863年.md "wikilink")3月4日から[1869年](../Page/1869年.md "wikilink")3月3日まで同職を務めた。彼は[1872年](../Page/1872年.md "wikilink")にインディアナ州知事に選出され、[1873年](../Page/1873年.md "wikilink")から[1877年](../Page/1877年.md "wikilink")まで同職を務めた。
+
+[1872年の大統領選挙では民主党の大統領候補](https://ja.wikipedia.org/wiki/1872年アメリカ合衆国大統領選挙 "wikilink")[ホレス・グリーリー](https://ja.wikipedia.org/wiki/ホレス・グリーリー "wikilink")が一般投票の数日後に死去したため、ヘンドリックスはグリーリーへ投票を行った42の[選挙人団](../Page/選挙人団.md "wikilink")の投票を獲得した。ヘンドリックスは、[1876年の大統領選挙で](https://ja.wikipedia.org/wiki/1876年アメリカ合衆国大統領選挙 "wikilink")[サミュエル・ティルデン](https://ja.wikipedia.org/wiki/サミュエル・ティルデン "wikilink")の伴走候補者として出馬したが落選した。[1884年の大統領選挙では](https://ja.wikipedia.org/wiki/1884年アメリカ合衆国大統領選挙 "wikilink")[グロバー・クリーブランド](../Page/グロバー・クリーブランド.md "wikilink")の伴走候補者として当選し、前任副大統領[チェスター・A・アーサー](../Page/チェスター・A・アーサー.md "wikilink")が1881年に大統領に昇格以来空席だった副大統領職に着任した。ヘンドリックスは1885年3月4日から数カ月後にインディアナポリスで死去するまで同職を務めた。彼はクラウン・ヒル墓地に埋葬された。彼の死で、副大統領の地位は1888年に[レヴィ・P・モートン](https://ja.wikipedia.org/wiki/レヴィ・P・モートン "wikilink")が当選するまで空席となった。
+
+## 外部リンク
+
+  - [Biography and portrait from the Indiana Historical Bureau](http://www.statelib.lib.in.us/www/ihb/govportraits/hendrickst.html)
+
+[Category:アメリカ合衆国の副大統領](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の副大統領 "wikilink") [Category:アメリカ合衆国大統領候補者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国大統領候補者 "wikilink") [Category:インディアナ州選出のアメリカ合衆国下院議員](https://ja.wikipedia.org/wiki/Category:インディアナ州選出のアメリカ合衆国下院議員 "wikilink") [Category:インディアナ州選出のアメリカ合衆国上院議員](https://ja.wikipedia.org/wiki/Category:インディアナ州選出のアメリカ合衆国上院議員 "wikilink") [Category:インディアナ州知事](https://ja.wikipedia.org/wiki/Category:インディアナ州知事 "wikilink") [Category:オハイオ州マスキンガム郡出身の人物](https://ja.wikipedia.org/wiki/Category:オハイオ州マスキンガム郡出身の人物 "wikilink") [Category:1819年生](https://ja.wikipedia.org/wiki/Category:1819年生 "wikilink") [Category:1885年没](https://ja.wikipedia.org/wiki/Category:1885年没 "wikilink")

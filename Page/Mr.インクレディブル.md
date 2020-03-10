@@ -1,0 +1,456 @@
+> この記事は[Mr.](https://ja.wikipedia.org/wiki/Mr.)から翻訳されています。
+
+
+『**Mr.インクレディブル**』（ミスター・インクレディブル、原題：*The Incredibles*）は、[ディズニー配給](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")、[ピクサー](https://ja.wikipedia.org/wiki/ピクサー "wikilink")製作のフル[CGによる](../Page/コンピュータグラフィックス.md "wikilink")[アニメーション映画](../Page/アニメーション映画.md "wikilink")。2004年度、[アカデミー長編アニメ映画賞](https://ja.wikipedia.org/wiki/アカデミー長編アニメ映画賞 "wikilink")、[アカデミー音響編集賞](https://ja.wikipedia.org/wiki/アカデミー音響編集賞 "wikilink")、[アニー賞](https://ja.wikipedia.org/wiki/アニー賞 "wikilink")全10部門、[第31回サターン賞](https://ja.wikipedia.org/wiki/第31回サターン賞 "wikilink")[アニメ映画賞など](https://ja.wikipedia.org/wiki/サターンアニメ映画賞 "wikilink")、多くのアニメ映画賞を受賞した。
+
+## 概要
+
+[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[2004年](../Page/2004年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")公開。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では同年[12月4日](../Page/12月4日.md "wikilink")公開。アメリカでの公開にあたっては[殺人](../Page/殺人.md "wikilink")シーンがあるため[MPAA](https://ja.wikipedia.org/wiki/MPAA "wikilink")から[PG指定を受けている](../Page/映画のレイティングシステム.md "wikilink")。
+
+ピクサーの長編アニメーション作品としては第6作目になる。評論家から絶賛されながらも商業的に失敗した『[アイアン・ジャイアント](../Page/アイアン・ジャイアント.md "wikilink")』の[ブラッド・バード](../Page/ブラッド・バード.md "wikilink")監督によるアニメ。これ以前のピクサー作品は[おも](../Page/トイ・ストーリー.md "wikilink")[ちゃ](../Page/トイ・ストーリー2.md "wikilink")、[虫](https://ja.wikipedia.org/wiki/バグズ・ライフ "wikilink")、[モンスター](../Page/モンスターズ・インク.md "wikilink")、[魚が主人公であり](../Page/ファインディング・ニモ.md "wikilink")、この作品で初めて人間社会を舞台としたストーリーを描いている。
+
+技術的には、服や髪の物理的感触を極めて忠実に表現した点が特徴。ストーリーとしては、悪者が本当に殺されてしまう（半ば事故死のような形ではあるが）という、それまでのディズニー映画には考えられなかった点がバード監督の主張で受け入れられ、より現実的なストーリーは多くの評論家から絶賛された。「異質分子は社会で苦労する」という中心テーマは、バード監督自身が何度も会社をクビになった体験をもとにしている。
+
+また、音楽や雰囲気は（当初ジョン・バリーが参加していた事もあって）初期[007を彷彿させるレトロ調](https://ja.wikipedia.org/wiki/ジェームズ・ボンド "wikilink")。テーマ曲にワンフレーズだけ『[バットマン](../Page/バットマン_\(映画\).md "wikilink")』が織り交ぜられるなどコミックのヒーローを描写する性格もある。興行的にも成功した。当初この作品は3DCG作品ではなく、また制作も[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")で行われていたが、同社アニメーション部門凍結により制作が頓挫するも、ピクサーに移ったブラッド・バードの下で制作が続けられ公開されている。原題の*The Incredibles*は"インクレディブル一家"の意味である。
+
+2004年度、[アカデミー長編アニメ映画賞](https://ja.wikipedia.org/wiki/アカデミー長編アニメ映画賞 "wikilink")、[アカデミー音響編集賞](https://ja.wikipedia.org/wiki/アカデミー音響編集賞 "wikilink")、[アニー賞](https://ja.wikipedia.org/wiki/アニー賞 "wikilink")全10部門、[第31回サターン賞](https://ja.wikipedia.org/wiki/第31回サターン賞 "wikilink")[アニメ映画賞を受賞した](https://ja.wikipedia.org/wiki/サターンアニメ映画賞 "wikilink")。
+
+2006年3月25日、[東京国際アニメフェア](../Page/東京国際アニメフェア.md "wikilink")で開催された第5回東京アニメアワードで海外劇場部門／優秀賞を受賞した。
+
+2018年6月15日には、続編『[インクレディブル・ファミリー](https://ja.wikipedia.org/wiki/インクレディブル・ファミリー "wikilink")』が公開された。
+
+## ストーリー
+
+世界の平和を守る[スーパーヒーロー](https://ja.wikipedia.org/wiki/スーパーヒーロー "wikilink")達。しかし救助活動による弊害が発端となり、訴訟を起こされるなど世間のスーパーヒーローに対する風当たりが強まり、政府の政策である「スーパーヒーロー保護プログラム」により全てのスーパーヒーローが引退し、それぞれが世間には正体を隠して生活を始める。
+
+15年後、その一人である**Mr.インクレディブル**こと**ボブ・パー**は保険会社に勤務し、顧客よりも会社の利益にこだわる神経質な上司の下で日々ストレスを溜めていた。彼と同じくスーパーパワーを持つ妻の**イラスティガール**こと**ヘレン**は日常生活に適応していたが、長女の**ヴァイオレット**は能力を隠そうとするあまり引っ込み思案な性格になり、長男である**ダッシュ**は思い切り走り回ることもできず、スポーツも出来ない窮屈な生活にうっぷんが溜まっていた。ボブ自身もヒーロー時代に見切りをつけられず、ヒーロー仲間であるルシアス・ベストこと**フロゾン**とこっそり人助けをしていた。
+
+そんなある日、たまりにたまったストレスを上司にぶつけてしまった\[1\]のが原因で会社を解雇されたボブのもとへ、謎の女性**ミラージュ**からのメッセージが届けられる。「Mr.インクレディブル、あなたのスーパーヒーローとしての力が必要です」と。その誘いにのったボブは、家族に内緒でスーパーヒーロー活動を再開する。彼女の依頼は「絶海の孤島にある政府のとある極秘部門の研究施設から脱走した高い知能を持った高性能戦闘[ロボット](../Page/ロボット.md "wikilink")を捕獲してほしい」というものだった。
+
+首尾よくロボットを捕獲し自信を取り戻したボブは、鉄道会社に就職し、その業務中にトレーニングに励んでダイエットに成功。新しいスーツを旧友の**エドナ・モード**に作成してもらい、家庭も円満。次の任務を与えられても疑うことなく出発したボブだが、そこに待ち受けていたのは更に強化されたロボット・**オムニロイド**と、かつて自分が邪険に扱った少年**バディ・パイン**こと**シンドローム**だった。ヒーローに幻滅した彼は、オムニロイドにヒーロー狩りを行わせることで強化し、そして街に送り込んだオムニロイドを自作自演で倒すことによって、彼自身がヒーローになるという陰謀を企んでいた。ボブはシンドロームと対決し、彼の陰謀を突き止めるが、あと一歩のところで囚われてしまう。家族を救おうと必死に奮闘するボブと、秘書である自分の命をなんとも思わないシンドロームの姿を見て、ミラージュはシンドロームに疑念を抱き始める。
+
+一方、ヘレンはボブの様子が変わったことから浮気を疑い、エドナに相談した上で彼女が開発した新たなスーツを受領し、子供たちを残してボブの後を追っていた。しかしダッシュとヴァイオレットは、まだ赤ん坊の次男**ジャック＝ジャック**を友達の**カーリ**に任せ、こっそりついてきていた。島の防衛設備によって乗っていたジェット機を撃墜されてしまったヘレンだったが、能力でシンドロームの基地に潜入し、ミラージュによって解放されたボブと合流する。ダッシュとヴァイオレットもシンドロームの部下に発見されてしまうが、それぞれの能力を駆使して窮地を脱し、ボブ、ヘレンと再会。シンドロームへと立ち向かうが、またしても全員囚われてしまう。
+
+シンドロームがオムニロイドが暴れる街へとジェット機で向かう中、自らの行動を反省したボブは家族に謝罪し、ヴァイオレットの能力で牢屋から脱出。ミラージュの協力を得て、ロケットを使って街へと急ぐ。街で暴れるオムニロイドの前に颯爽と現れて立ち向かうシンドロームだが、自分がリモコンで操られていることを学習したオムニロイドの反撃を受けて気絶してしまう。暴走を続けるオムニロイドに立ち向かうパー一家は、復帰したフロゾンと協力してリモコンを奪い取り、オムニロイドを倒して街を救った。
+
+しかし家に戻ったボブ達の前に、またしてもシンドロームが現れる。代理のベビーシッターと称してカーリからジャック＝ジャックを誘拐したシンドロームは、自分のジェット機に乗り込んで逃げようとする。しかし、カーリによってモーツァルトの曲を聞かされたことで能力を覚醒させたジャック＝ジャックの思わぬ反撃を受け、さらにボブとヘレンの攻撃によってバランスを失ったシンドロームは、マントをエンジンに吸い込まれて爆死。ボブ達はようやく家族揃って家に戻る事ができた。
+
+3カ月後、ボブ達は街の陸上大会に出場するダッシュを応援しに競技場を訪れていた。ヴァイオレットは憧れの先輩トニー・ライディンジャーに臆せず話しかけてデートの約束を取り付け、ダッシュは見事に能力を制御して2位でゴールし、一家は家族団欒のひとときを過ごす。しかしその時、地底からアンダーマイナーと名乗る悪人が出現。パー一家はマスクをつけ、コスチュームに着替え、ヒーローとして彼に立ち向かうのだった\[2\]。
+
+## キャラクター
+
+### パー一家
+
+  - Mr. インクレディブル (Mr. Incredible)
+    本名、**ロバート・パー (Robert Parr)**。通称、**ボブ(Bob)**。本作の主人公。ほとんどの物理的な衝撃に耐える頑強な肉体と驚くべき怪力の持ち主。また頭のキレもよい。
+    引退後は冴えない労働者としてインシュリケア保険会社に勤務していたが、昔の栄光が忘れられず密かにフロゾンと共に警察無線を盗聴して人助けをしていた。保険会社をクビになった後は、デスクワークをしていると家族に信じ込ませ、鉄道会社に密かに忍び込み、トレーニングをしていた。
+    15年の歳月を経てすっかり太ってしまったが、ミラージュの依頼後、トレーニングによってかつての体型を取り戻す\[3\]。なお、スーパーヒーローが全員引退したきっかけは、彼が[訴訟大国](../Page/訴訟社会.md "wikilink")[アメリカらしい理由で訴えられたため](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")\[4\]。
+    本作の特報では、中年太りした体をスーツに押し込み、さらにその上からベルトを無理やり巻こうと苦戦している。なお、このときのスーツはかつてのスーパーヒーロー時代の物ではなく、エドナが新しく開発した方のスーツである。
+  - イラスティガール (Elastigirl)
+    本名、**ヘレン・パー (Helen Parr)**。ボブの妻。ゴムのような伸縮自在の柔軟で強靭な肢体の持ち主。また、風船のように膨らむこともできる。家事全般のほかにジェット機の操縦も得意。引退後の体型をとても気にしている。
+    夫のボブとは対照的に一般人として誰よりも社会に溶け込もうとしていた。そのためダッシュとヴァイオレットに対する抑圧も強く、ボブと衝突することもある。シンドロームによって囚われたボブを救うべく、エドナが新たに開発したスーツを身に纏い、昔の友人からジェット機を借りノマニザン島へと向かった。
+    映画自体を除き、[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")品などでは **Mrs. （ミセズ）インクレディブル (Mrs. Incredible)**と呼ばれている。これは[DCコミックス](../Page/DCコミックス.md "wikilink")の『ドゥーム・パトロール』 ([Doom Patrol](https://ja.wikipedia.org/wiki/:en:Doom_Patrol "wikilink")) にイラスティ・ガール ([:en:Elasti-Girl](https://ja.wikipedia.org/wiki/:en:Elasti-Girl "wikilink")) という登場人物がいるためで、ディズニー・ピクサーとDCコミックスの契約に基づく。
+  - ヴァイオレット・パー (Violet Parr)
+    通称、**ヴァイ (Vi)**。パー家の長女。自らを透明化にするほか、紫色の強力なフォースフィールドでバリアを張ることができる。また、それを応用して宙に浮くことや、敵をバリアの中に閉じ込め、攻撃をふせぐこともできる。バリアの強度は銃弾やパトロール車・巨大ロボットの衝突にも耐えるほど\[5\]。
+    自分の能力が[コンプレックス](../Page/コンプレックス.md "wikilink")になり自信が持てないでいたが、スーパーヒーローとして活躍するうちに自信を持てるようになり、髪型も変えた。学校にトニーという気になる男の子がいるが、コンプレックスのせいで声がかけられないでいた。家でそれをダッシュに冷やかされ、姉弟喧嘩になった。
+    ちなみに、最終的に却下されたオープニング案では、彼女の赤ん坊時代が描かれている。
+    モデルは『[ファンタスティック・フォー](https://ja.wikipedia.org/wiki/ファンタスティック・フォー "wikilink")』のインヴィジブル・ウーマン。
+  - ダッシュ (Dash)
+    フルネーム、**ダッシェル・ロバート・パー (Dashiell Robert Parr)**。パー家の長男。時速300㎞以上の超音速で走ることができ、その速さはビデオカメラにも捕らえられず、水の上も走れるほど。
+    姉のヴァイオレットとは逆に、自分の能力を抑えなくてはならないことに欲求不満ぎみ。そのせいか少々やんちゃで負けず嫌い。
+    姉であるヴァイオレットの事は時折からかったりするものの、内心では大切に思っており、彼女がシンドロームの戦闘員に襲われた際は激高し、ロボットにバリアを押し潰され意識を失った時は心配していた。
+  - ジャック＝ジャック・パー (Jack-Jack Parr)
+    パー家の次男。赤ん坊ながら未知のスーパーパワーの持ち主。だがそれを知らず、スーパーパワーを持て余している他の家族からはスーパーパワーを持たないことを羨ましがられていた。終盤でパワーが覚醒し、目からレーザー光線を発射する、全身を高熱の炎に包む、体を金属に変える、怒ると怪物の様な姿に変身するなど様々なパワーを示す。さらに空中浮遊や壁抜けも出来る。彼の子守を頼まれた少女・カーリが[モーツァルトの](../Page/ヴォルフガング・アマデウス・モーツァルト.md "wikilink")[CDを聞かせたことによってそのパワーを覚醒させてしまうが](../Page/コンパクトディスク.md "wikilink")、彼女からその記憶はリックによって消去された（この経緯は短編『[ジャック・ジャック・アタック\!](https://ja.wikipedia.org/wiki/ジャック・ジャック・アタック! "wikilink")』 (*Jack-Jack Attack*)で描かれている）。
+
+### シンドロームとその関係者
+
+  - シンドローム (Syndrome)
+    本名、**バディ・パイン (Buddy Pine)**。本作の[ディズニー・ヴィランズ](../Page/ディズニー・ヴィランズ.md "wikilink")。まだ少年だった15年前にMr. インクレディブルの熱狂的なファンだった彼は、**インクレディボーイ (IncrediBoy)**を名乗り Mr. インクレディブルの相棒になろうとしたが（これが仇となり、危うくボムに殺されそうになった）、断られたことを逆恨みして人間不信となり、特にスーパーヒーローをかなり憎悪するようになった。少年時代に空を飛べるロケットブーツ\[6\]を発明したほど優秀な頭脳の持ち主で、その才能を活かし多数の兵器（相手や対象物を特殊な電磁波で持ち上げるゼロ・ポイント・エネルギービームや、高知能をもつロボットのオムニドロイドなど）を開発したことで、億万長者となった。ノマニザン島と言う火山島に研究所を兼ねた施設で暮らしている。
+    Mr. インクレディブルを倒すために作った戦闘ロボットのオムニドロイドをテストするため、引退したヒーロー達を騙してロボットと戦わせ殺害した\[7\]。最終的にはクロノス計画と題した、ロボットを町に放ち、それを自分で倒す自作自演によって、自分が唯一最強のスーパーヒーローになろうと企てる。しかしパー一家によって計画は失敗し、仕返しにジャックジャックを連れ去ろうとするも、ジャックジャックのパワーが覚醒したことで逃げられ、さらにボブの投げた車の直撃が原因で、他の幾人かのマントを付けたヒーローと同様に、飛行機エンジンにマントが巻き込まれ[バードストライク](https://ja.wikipedia.org/wiki/バードストライク "wikilink")状態になり死亡するという、自業自得で皮肉な最期を遂げた。
+    本編中ではマスクを外した素顔は見られなかったが、短編作品のジャック・ジャック・アタックにて素顔を見ることができる。
+  - ミラージュ (Mirage)
+    浅黒い肌に銀色の髪、碧の目を持ち、シンドロームの秘書を務める美女。素性を偽り、引退したはずのMr. インクレディブルをスーパーヒーロー稼業に引き戻す。後半は、シンドロームを裏切り、ボブ達に手を貸した。
+  - オムニドロイド (Omnidroid)
+    シンドロームが開発した戦闘ロボット。かなり高度な[人工知能](../Page/人工知能.md "wikilink")を搭載している。形状は球体で、自身の強靭なボディを貫けるほどのとてつもなく鋭い爪を持ったいくつもの足を使って移動する\[8\]。ボディもMr.インクレディブルでも壊せないほど頑丈。クロノス計画の為に、スーパーヒーロー達を騙して戦わせ改良を続けた。シンドロームが腕に付けているリモコンによる操作も可能。
+
+### パー一家の関係者
+
+  - フロゾン (Frozone)
+    本名、**ルシアス・ベスト** (Lucius Best)。Mr.インクレディブルの古くからの友人であり、パー家とは家族ぐるみの付き合い。空気中の水分を瞬間的に氷結させることができる。空中に氷の橋をかけたり、氷結させた路面を滑っていくなどの応用が可能。スーツの脚部にはスケートの刃がついていて、これを変形させてボード状にもできる。スポーツ全般（特にウィンタースポーツ）の達人で、昔冬季五輪にフロゾンで参加しようとして止められた事がある。引退後も時々こっそりと Mr. インクレディブルと一緒に人助けをしている。
+    結婚しており、妻とはいつも仲が良い（彼自身妻の事を「ハニー」と呼んでいる）が、「市民に危険が迫っている」と言ってスーパースーツを必死に探すフロゾンに対し、「ディナーに危険は迫っているの?」と言い返し、しまい込まれたスーパースーツを探すのに手を貸さなかった。劇中冒頭のオープニングでスーパーヒロインとの恋愛に対する意見を述べた後に溜息を吐いており、妻が元スーパーヒロインなのか一般人なのかは不明。
+    声優が[サミュエル・L・ジャクソン](https://ja.wikipedia.org/wiki/サミュエル・L・ジャクソン "wikilink")だからか『[ダイ・ハード3](https://ja.wikipedia.org/wiki/ダイ・ハード3 "wikilink")』のパロディシーンがある\[9\]。
+  - エドナ・モード (Edna Mode)
+    通称E。世界的なデザイナー。普通の服もデザインするが、最も燃えるのはスーパーヒーロー用の特殊服の製作。しかし、マント付きの服は絶対に作らない（過去に数人のスーパーヒーローがマントのせいで悲惨な目にあったため。シンドロームもマントのせいで死亡した）。
+    非常に勢いのある性格で、ボブがスーパースーツの修理を依頼すると「新調したほうがいい」と言って新しい服を作り、更に頼んでもいないのにまだパワーの有無も判明していなかったジャックジャックを含む家族全員のスーパースーツを製作した\[10\]。また夫ボブの浮気を疑い弱気になるヘレンを叱咤激励するシーンもあった。
+    [アカデミー衣裳デザイン賞](../Page/アカデミー衣裳デザイン賞.md "wikilink")を8回受賞した[イーディス・ヘッド](https://ja.wikipedia.org/wiki/イーディス・ヘッド "wikilink")がモデル。
+    原語版では監督自らが声を担当。
+  - カーリ・マッキーン (Kari McKeen)
+    ヴァイオレットの同級生。金髪をポニーテールにした女の子で、歯科矯正具をつけている。パー家の秘密には一切気がついておらず、ヴァイオレットにジャックジャックの世話を頼まれると二つ返事で引き受けた。しかしモーツァルトの楽曲を聞かせたことでジャックジャックの能力が目覚め、思わぬトラブルに巻き込まれてしまう\[11\]。事件解決後はリックによって記憶消去処置を受けたため、ヴァイオレットと共に運動大会の応援に参加している。
+  - ギルバート・ハフ (Gilbert Huph)
+    ボブが勤める保険会社の直属の上司。眼鏡をかけた黒髪の小男。顧客よりも会社の利益を最優先に考え、そのことに神経質なまでにこだわっており、顧客に様々な抜け道を教えて保険金を支払わせるボブに苛立っている。ある日説教中に、強盗事件を目撃したボブの忠告を無視したために怒りを買い、皮肉なことに首を絞められ投げ飛ばされ大怪我を負い入院した。これが原因でボブは会社をクビになった。
+  - リック・ディッカー (Rick Dicker)
+    かつてスーパーヒーロー達が所属していた政府組織・NSA (National Supers Agency) の一員。Mr. インクレディブルの昔馴染みの一人。しかしもっぱらの仕事は記憶消去、損害賠償、Mr. インクレディブル一家の引越しの手配など、トラブルの後始末である。そのたびに多額の税金が消えて行くことに頭を痛め続けている。しかし Mr. インクレディブルが会社をクビになったときも、できる限りの助力をしようとした。オムニドロイドの暴走後は、シンドロームへの財産を差し押さえた。
+  - バーニー・クロップ (Bernie Kropp)
+    ダッシュの学校の真面目な教師。 ダッシュが学校でのスポーツをすることを拒否された腹いせに彼にいたずらをしたことで、「犯人はこの子だ\!\!」っと、怖い顔でぴしゃりといった。未公開シーンでは彼の授業風景が描かれており、彼が安月給で教員生活を送っている事に対する愚痴をわざわざ黒板を使ってまで力説している。
+  - トニー・ライディンジャー (Tony Rydinger)
+    ヴァイオレットと同じ学校に通う少年。ヴァイオレットに思いを寄せられており、終盤で初めて対面する。
+
+### その他
+
+  - ボム・ボヤージュ (Bomb Voyage)
+    15年前、スーパーヒーローが活躍していた頃に暗躍していたヴィラン。顔を白く塗りフランス語を話す。高性能の爆弾を用いて金庫破り等を働いており、Mr. インクレディブルや警察にもよく知られている。引退前の Mr. インクレディブルがスーパーヒーローとして対峙した最後の悪人。インクレディボーイ（後のシンドローム）に爆弾を仕掛け、Mr. インクレディブルがそれに気を取られている隙に逃げ出した。その後はどうなったかは不明。
+  - アンダーマイナー (Underminer)
+    エンディング前に登場する。誰よりも奥の地中に住んでいる。平和と幸せを奪うと宣戦を布告し、ゲーム版と次回作『[インクレディブル・ファミリー](https://ja.wikipedia.org/wiki/インクレディブル・ファミリー "wikilink")』への伏線となる。
+
+## スタッフ
+
+  - 製作総指揮：[ジョン・ラセター](../Page/ジョン・ラセター.md "wikilink")
+  - 製作：ジョン・ウォーカー
+  - 監督：ブラッド・バード
+  - 音楽：マイケル・ジアッキーノ
+  - ストーリー監修：マーク・アンドリュース
+  - キャラクターデザイン：トニー・フュシール、テディ・ニュートン
+
+## 声の出演
+
+<table>
+<thead>
+<tr class="header">
+<th><p>役名</p></th>
+<th><p>原語版声優</p></th>
+<th><p>日本語吹替</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Mr. インクレディブル<br />
+ボブ・パー</p></td>
+<td><p><a href="../Page/クレイグ・T・ネルソン.md" title="wikilink">クレイグ・T・ネルソン</a></p></td>
+<td><p><a href="../Page/三浦友和.md" title="wikilink">三浦友和</a></p></td>
+</tr>
+<tr class="even">
+<td><p>イラスティガール<br />
+ヘレン・パー</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ホリー・ハンター" title="wikilink">ホリー・ハンター</a></p></td>
+<td><p><a href="../Page/黒木瞳.md" title="wikilink">黒木瞳</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>シンドローム</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジェイソン・リー" title="wikilink">ジェイソン・リー</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮迫博之" title="wikilink">宮迫博之</a></p></td>
+</tr>
+<tr class="even">
+<td><p>バディ・パイン</p></td>
+<td><p><a href="../Page/岩田光央.md" title="wikilink">岩田光央</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ヴァイオレット・パー</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サラ・ヴォーウェル" title="wikilink">サラ・ヴォーウェル</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/綾瀬はるか" title="wikilink">綾瀬はるか</a></p></td>
+</tr>
+<tr class="even">
+<td><p>ダッシュ・パー</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スペンサー・フォックス" title="wikilink">スペンサー・フォックス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/海鋒拓也" title="wikilink">海鋒拓也</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>ジャック＝ジャック・パー</p></td>
+<td><p>人間体: <a href="https://ja.wikipedia.org/wiki/イーライ・フシール" title="wikilink">イーライ・フシール</a></p></td>
+<td><p>原語版流用</p></td>
+</tr>
+<tr class="even">
+<td><p>怪物体: <a href="https://ja.wikipedia.org/wiki/メイヴ・アンドリュース" title="wikilink">メイヴ・アンドリュース</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>フロゾン<br />
+ルシアス・ベスト</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サミュエル・L・ジャクソン" title="wikilink">サミュエル・L・ジャクソン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/斎藤志郎" title="wikilink">斎藤志郎</a></p></td>
+</tr>
+<tr class="even">
+<td><p>エドナ・モード</p></td>
+<td><p><a href="../Page/ブラッド・バード.md" title="wikilink">ブラッド・バード</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/後藤哲夫" title="wikilink">後藤哲夫</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>ミラージュ</p></td>
+<td><p><a href="../Page/エリザベス・ペーニャ.md" title="wikilink">エリザベス・ペーニャ</a></p></td>
+<td><p><a href="../Page/渡辺美佐_(声優).md" title="wikilink">渡辺美佐</a></p></td>
+</tr>
+<tr class="even">
+<td><p>ボム・ボヤージュ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ドミニク・ルイス" title="wikilink">ドミニク・ルイス</a></p></td>
+<td><p>パトリック・オズモンド<br />
+(フランス語版流用)</p></td>
+</tr>
+<tr class="odd">
+<td><p>ギルバート・ハフ</p></td>
+<td><p><a href="../Page/ウォーレス・ショーン.md" title="wikilink">ウォーレス・ショーン</a></p></td>
+<td><p><a href="../Page/小倉智昭.md" title="wikilink">小倉智昭</a></p></td>
+</tr>
+<tr class="even">
+<td><p>リック・ディッカー</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/バド・ラッキー" title="wikilink">バド・ラッキー</a></p></td>
+<td><p><a href="../Page/小林清志.md" title="wikilink">小林清志</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>ナレーター</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テディ・ニュートン" title="wikilink">テディ・ニュートン</a></p></td>
+<td><p><a href="../Page/掛川裕彦.md" title="wikilink">掛川裕彦</a></p></td>
+</tr>
+<tr class="even">
+<td><p>ホーゲンソン</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジーン・シンクレア" title="wikilink">ジーン・シンクレア</a></p></td>
+<td><p><a href="../Page/堀絢子.md" title="wikilink">堀絢子</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>バーニー・クロップ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ルー・ロマーノ" title="wikilink">ルー・ロマーノ</a></p></td>
+<td><p><a href="../Page/いずみ尚.md" title="wikilink">いずみ尚</a></p></td>
+</tr>
+<tr class="even">
+<td><p>校長</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ウェイン・キャニー" title="wikilink">ウェイン・キャニー</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/仲野裕" title="wikilink">仲野裕</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>トニー・ライディンジャー</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マイケル・バード" title="wikilink">マイケル・バード</a></p></td>
+<td><p><a href="../Page/鈴村健一.md" title="wikilink">鈴村健一</a></p></td>
+</tr>
+<tr class="even">
+<td><p>カーリ・マッキーン</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ブレット・パーカー" title="wikilink">ブレット・パーカー</a></p></td>
+<td><p><a href="../Page/小飯塚貴世江.md" title="wikilink">小飯塚貴世江</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>ハニー</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/キンバリー・アデール・クラーク" title="wikilink">キンバリー・アデール・クラーク</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/真山亜子" title="wikilink">真山亜子</a></p></td>
+</tr>
+<tr class="even">
+<td><p>アンダーマイナー</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・ラッツェンバーガー" title="wikilink">ジョン・ラッツェンバーガー</a></p></td>
+<td><p><a href="../Page/高田延彦.md" title="wikilink">高田延彦</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>警官</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マーク・アンドリュース" title="wikilink">マーク・アンドリュース</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>通行人</p></td>
+<td><p><a href="../Page/フランク・トーマス_(アニメーター).md" title="wikilink">フランク・トーマス</a></p></td>
+<td><p><a href="../Page/八奈見乗児.md" title="wikilink">八奈見乗児</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>通行人</p></td>
+<td><p><a href="../Page/オリー・ジョンストン.md" title="wikilink">オリー・ジョンストン</a></p></td>
+<td><p><a href="../Page/滝口順平.md" title="wikilink">滝口順平</a></p></td>
+</tr>
+<tr class="even">
+<td><p>トニーの友達</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/勝杏里" title="wikilink">勝杏里</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>ボブの弁護士</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YASU" title="wikilink">YASU</a></p></td>
+</tr>
+<tr class="even">
+<td><p>警備員</p></td>
+<td></td>
+<td><p><a href="../Page/本間秋彦.md" title="wikilink">本間秋彦</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>観光バス強盗</p></td>
+<td></td>
+<td><p><a href="../Page/西本英雄.md" title="wikilink">西本英雄</a></p></td>
+</tr>
+<tr class="even">
+<td><p>秘書</p></td>
+<td></td>
+<td><p><a href="../Page/小林美幸.md" title="wikilink">小林美幸</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>女友達</p></td>
+<td></td>
+<td><p><a href="../Page/中田エミリー.md" title="wikilink">中田エミリー</a></p></td>
+</tr>
+<tr class="even">
+<td><p>若い母親</p></td>
+<td></td>
+<td><p>越村エリ</p></td>
+</tr>
+<tr class="odd">
+<td><p>女性社員</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/清水由美" title="wikilink">清水由美</a></p></td>
+</tr>
+<tr class="even">
+<td><p>女1</p></td>
+<td></td>
+<td><p>Kiyomi</p></td>
+</tr>
+<tr class="odd">
+<td><p>飛行ポッド兵2</p></td>
+<td></td>
+<td><p><a href="../Page/横山雄二.md" title="wikilink">横山雄二</a></p></td>
+</tr>
+<tr class="even">
+<td><p>技術士1</p></td>
+<td></td>
+<td><p><a href="../Page/スマイリー原島.md" title="wikilink">スマイリー原島</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>少女1</p></td>
+<td></td>
+<td><p>米澤有加</p></td>
+</tr>
+<tr class="even">
+<td><p>女3</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/緒方由美" title="wikilink">緒方由美</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>受付</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮城麻里子" title="wikilink">宮城麻里子</a></p></td>
+</tr>
+<tr class="even">
+<td><p>その他</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ピート・ドクター" title="wikilink">ピート・ドクター</a><br />
+<a href="https://ja.wikipedia.org/wiki/アンドリュー・スタントン" title="wikilink">アンドリュー・スタントン</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+| その他声の出演                                               |
+| ----------------------------------------------------- |
+| [村松康雄](https://ja.wikipedia.org/wiki/村松康雄 "wikilink") |
+| [奥田啓人](https://ja.wikipedia.org/wiki/奥田啓人 "wikilink") |
+| [河内孝博](https://ja.wikipedia.org/wiki/河内孝博 "wikilink") |
+| 鶴博幸                                                   |
+|                                                       |
+
+  - Mr. インクレディブルの吹き替えは、予告編では[玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")と[銀河万丈](../Page/銀河万丈.md "wikilink")、イラスティガールは[松井菜桜子](https://ja.wikipedia.org/wiki/松井菜桜子 "wikilink")、フロゾンは[高木渉](../Page/高木渉.md "wikilink")、エドナ・モードは[京田尚子](https://ja.wikipedia.org/wiki/京田尚子 "wikilink")が担当。また、ゲーム版でのMr. インクレディブルの吹き替えは、[古澤徹](https://ja.wikipedia.org/wiki/古澤徹 "wikilink")。
+  - ショートアニメ『Mr.Incredible and Pals』でのMr. インクレディブルの声は、[ピート・ドクター](https://ja.wikipedia.org/wiki/ピート・ドクター "wikilink")が担当。
+
+|            |
+| ---------- |
+| 日本語版制作スタッフ |
+| 翻訳         |
+| 演出         |
+| 録音         |
+| 録音助手       |
+| 制作担当       |
+| 録音製作       |
+| 制作監修       |
+| 制作総指揮      |
+| 制作         |
+
+『ファインディング・ニモ』に引き続き、本作の日本語版でも日本各地のテレビ局からアナウンサーが何人も脇役の吹替えに起用されている。
+
+  - [横山雄二](../Page/横山雄二.md "wikilink")
+  - [中田エミリー](../Page/中田エミリー.md "wikilink")
+  - [越村江莉](https://ja.wikipedia.org/wiki/越村江莉 "wikilink")
+  - [本間秋彦](../Page/本間秋彦.md "wikilink")
+  - [宮城麻里子](https://ja.wikipedia.org/wiki/宮城麻里子 "wikilink")
+  - [小林美幸](../Page/小林美幸.md "wikilink")
+  - [清水由美](https://ja.wikipedia.org/wiki/清水由美 "wikilink")
+  - [スマイリー原島](../Page/スマイリー原島.md "wikilink")
+  - [Kiyomi](https://ja.wikipedia.org/wiki/Kiyomi "wikilink")
+  - [米澤有加](https://ja.wikipedia.org/wiki/米澤有加 "wikilink")
+  - [緒方由美](https://ja.wikipedia.org/wiki/緒方由美 "wikilink")
+
+このほか、『[もう、しませんから。](../Page/もう、しませんから。.md "wikilink")』（[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")連載）の企画で漫画家の[西本英雄](../Page/西本英雄.md "wikilink")が出演、いきさつは同コミック1巻に収録されている（ただし権利関係者からの許諾が降りなかったため、作品名等は伏せられている）。[YASU](https://ja.wikipedia.org/wiki/YASU "wikilink")も出演を機に吹替え収録の模様を密着取材している。通行人としてカメオ出演の[フランク・トーマスと](../Page/フランク・トーマス_\(アニメーター\).md "wikilink")[オリー・ジョンストン](../Page/オリー・ジョンストン.md "wikilink")の吹替えに[八奈見乗児](../Page/八奈見乗児.md "wikilink")と[滝口順平](../Page/滝口順平.md "wikilink")が揃って出演をしている。
+
+## 地上波放送履歴
+
+| 回数 | テレビ局                                                    | 番組名（放送枠名）                                                       | 放送日                                                                                           | 放送時間          | 放送分数 | 吹き替え版 | 視聴率   |
+| -- | ------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------- | ---- | ----- | ----- |
+| 1  | [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink") | [金曜ロードショー](https://ja.wikipedia.org/wiki/金曜ロードショー "wikilink")   | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月12日](../Page/12月12日.md "wikilink") | 21:00 - 23:14 | 134分 | 劇場公開版 | 18.5% |
+| ２  | [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")     | [水曜プレミアシネマ](https://ja.wikipedia.org/wiki/水曜プレミアシネマ "wikilink") | [2012年](../Page/2012年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")                      | 21:00 - 22:54 | 114分 | 劇場公開版 | 8.2%  |
+| ３  | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink") | [土曜プレミアム](https://ja.wikipedia.org/wiki/土曜プレミアム "wikilink")     | [2018年](../Page/2018年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")                        | 21:00 - 23:15 | 135分 | 劇場公開版 | 9.9%  |
+
+  - 視聴率はビデオリサーチ調べ、関東地区・世帯・リアルタイム。
+
+## 書籍
+
+  - 「Mr.インクレディブル」：小説版（アイリーン・トリンブル, 橘高弓枝、偕成社）ISBN 978-4-037915506
+  - 「Mr.インクレディブル」：ノベライズ（ブラッド・バード, 鈴木玲子、竹書房）ISBN 978-4-812419205
+  - 「The art of Mr.インクレディブル」（マーク・コッタ・ヴァズ 、徳間書店）ISBN 978-4-198619558
+  - 「Mr.インクレディブル スクリプトブック」（ぴあ）ISBN 978-4-835606804
+  - 「Mr.インクレディブル 完全ガイドブック」（フレーベル館）ISBN 978-4-577029954
+  - 「Mr.インクレディブル スーパーファミリーマガジン」（河出書房新社）ISBN 978-4-309950945
+
+## ゲーム
+
+  - 「[Mr.インクレディブル](https://ja.wikipedia.org/wiki/:en:The_Incredibles_\(video_game\) "wikilink")」（[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")）[2004年](../Page/2004年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")発売の[プレイステーション2](https://ja.wikipedia.org/wiki/プレイステーション2 "wikilink")、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")、[Xbox用の](../Page/Xbox_\(ゲーム機\).md "wikilink")[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")ソフト。[:en:Heavy Iron Studiosが開発](https://ja.wikipedia.org/wiki/:en:Heavy_Iron_Studios "wikilink")（GBA版は[:en:Helixe](https://ja.wikipedia.org/wiki/:en:Helixe "wikilink")が開発）。
+  - 「[Mr.インクレディブル 強敵アンダーマイナー登場](https://ja.wikipedia.org/wiki/:en:The_Incredibles:_Rise_of_the_Underminer "wikilink")」（[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")）[2006年](../Page/2006年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")発売のプレイステーション2、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、ゲームボーイアドバンス、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用のアクションアドベンチャーゲームソフト。同じくHeavy Iron Studiosが開発（DS版とGBA版はHelixeが開発）。
+
+## 関連事項
+
+Mr. インクレディブルやその家族、他のチョイ役のスーパーヒーロー達の元ネタには、[マーベル・コミック](../Page/マーベル・コミック.md "wikilink")や[DCコミックス](../Page/DCコミックス.md "wikilink")の多くのスーパーヒーローが用いられている。
+
+  - [スーパーマン](../Page/スーパーマン.md "wikilink")＝Mr. インクレディブル
+  - [X-メン](https://ja.wikipedia.org/wiki/X-メン "wikilink")
+      - クイックシルバー＝ダッシュ
+      - アイスマン＝フロゾン
+      - サイクロップス＝ゲイザービーム
+  - [ファンタスティック・フォー](https://ja.wikipedia.org/wiki/ファンタスティック・フォー "wikilink")
+      - Mr.ファンタスティック＝インクレディブル夫人
+      - インヴィジブル・ウーマン＝ヴァイオレット
+      - ヒューマン・トーチ＝ジャック＝ジャック・パー
+  - [バットマン](https://ja.wikipedia.org/wiki/バットマン "wikilink")＝若き日の Mr. インクレディブル
+      - [ジョーカー](../Page/ジョーカー_\(バットマン\).md "wikilink")＝ボム・ボヤージュ
+      - [ロビン](../Page/ロビン_\(バットマン\).md "wikilink")＝少年時代のシンドローム
+  - [メン・イン・ブラック](../Page/メン・イン・ブラック_\(映画\).md "wikilink")＝リック・ディッカー
+  - アニメ「The IMPOSSIBLES」（[邦題](https://ja.wikipedia.org/wiki/邦題 "wikilink")：「[スーパースリー](../Page/スーパースリー_\(アニメ\).md "wikilink")」）- ゴム人間などが登場
+  - [ウォッチメン](../Page/ウォッチメン.md "wikilink") - スーパーヒーロー達が活動を禁じられた世界が舞台、スーパーヒーローがマントのせいで命を失う
+
+## トリビア
+
+  - 当作品は『[ファインディング・ニモ](../Page/ファインディング・ニモ.md "wikilink")』に登場する絵本でもある。
+  - ヤングインクレディブルがビルの屋上で泥棒を退治したシーンで、被害者のバッグからこぼれた荷物の中にインクレディブルの[PEZ](https://ja.wikipedia.org/wiki/PEZ "wikilink")が写る。
+  - ボブの部屋の机の上には、『[トイ・ストーリー](../Page/トイ・ストーリー.md "wikilink")』など他の[ピクサー](https://ja.wikipedia.org/wiki/ピクサー "wikilink")の作品にもよく出て来る金属製の撒き菱状のモノが転がっている。また、棚には『[トイ・ストーリー2](../Page/トイ・ストーリー2.md "wikilink")』でアルの事務所にあったボクシング人形「ロックン・ソックン・ロボット」が飾られている。
+  - シンドロームの島でボブが通された部屋の番号が[A113](../Page/A113.md "wikilink")。
+  - 『[レミーのおいしいレストラン](https://ja.wikipedia.org/wiki/レミーのおいしいレストラン "wikilink")』のリングイニが、インクレディブルの柄のトランクスを履いているシーンがある。
+  - 『レミーのおいしいレストラン』の中で、大道芸をしているボム・ボヤージュが映る。
+  - [リー・アンクリッチ](https://ja.wikipedia.org/wiki/リー・アンクリッチ "wikilink")はファンからの質問に、本作はピザプラネットのトラックが登場しない唯一のピクサー映画であると答えている\[12\] \[13\] \[14\]。
+  - [ウッディと](https://ja.wikipedia.org/wiki/ウッディ・プライド "wikilink")『ファインディング・ニモ』のブルースが出ている。
+
+## 脚注
+
+## 外部リンク
+
+  -
+  -
+  -
+  -
+[Category:ディズニーのアニメ映画](https://ja.wikipedia.org/wiki/Category:ディズニーのアニメ映画 "wikilink") [Category:ピクサー映画](https://ja.wikipedia.org/wiki/Category:ピクサー映画 "wikilink") [Category:アニメ作品_み](https://ja.wikipedia.org/wiki/Category:アニメ作品_み "wikilink") [Category:アメリカ合衆国のアニメ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアニメ映画 "wikilink") [Category:2004年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2004年のアニメ映画 "wikilink") [Category:スーパーヒーロー](https://ja.wikipedia.org/wiki/Category:スーパーヒーロー "wikilink") [Category:アカデミー長編アニメ映画賞受賞作](https://ja.wikipedia.org/wiki/Category:アカデミー長編アニメ映画賞受賞作 "wikilink") [Category:アニー賞作品賞受賞作品](https://ja.wikipedia.org/wiki/Category:アニー賞作品賞受賞作品 "wikilink") [Category:アメリカ合衆国のアクション映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアクション映画 "wikilink") [Category:アメリカ合衆国のスーパーヒーロー映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のスーパーヒーロー映画 "wikilink") [Category:サターン賞受賞作品](https://ja.wikipedia.org/wiki/Category:サターン賞受賞作品 "wikilink") [Category:超能力を題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:超能力を題材としたアニメ映画 "wikilink") [Category:家族を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:家族を題材とした映画作品 "wikilink") [Category:マイケル・ジアッチーノの作曲映画](https://ja.wikipedia.org/wiki/Category:マイケル・ジアッチーノの作曲映画 "wikilink")
+
+1.  上司が窓越しに強盗事件を目撃したボブの忠告を無視して「クビにする」と脅した上、強盗が逃走した際にも「（クビを免れて）よかったな」と鼻で笑ったためにボブの怒りを買い大怪我を負った。
+2.  アンダーマイナーとの戦いの様子は、続編『[インクレディブル・ファミリー](https://ja.wikipedia.org/wiki/インクレディブル・ファミリー "wikilink")』の冒頭で描かれている。
+3.  それでもエドナからは「太ったわね」と言われた。
+4.  詳しく言えば高層ビルから身投げした男性を救助するも「死にたかったのに救われたばかりか、救助時に大怪我をした」と訴えられたことで、ヒーローに対する訴訟が続発した為。
+5.  しかし、ロボットの押しつぶし攻撃には耐えられなかった。
+6.  15年後にはその改良品を使用している。
+7.  イラスティガールは専業主婦としてヒーローから完全に身を引いていた為、シンドロームに居場所を突き止められることはなかった。
+8.  劇中の開発段階では箱型だったり足と手が独立していた。
+9.  サミュエルは『ダイ・ハード3』にゼウスという役で出演している。
+10. 姿を消す能力にあわせるため、ヴァイオレットのスーツが一番骨を折ったとの事。
+11. この一連の顛末は短編映画『[ジャック・ジャック・アタック\!](https://ja.wikipedia.org/wiki/ジャック・ジャック・アタック! "wikilink")』にて描かれている。
+12. [Is it true that there is NOT a Pizza Planet truck in the Incredibles? If it does exist, where? Thanks\! | Formspring.me](http://web.archive.org/web/20100625043310/http:/www.formspring.me/leeunkrich/q/556391712)、2017年10月6日閲覧([インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ)
+13.
+14.

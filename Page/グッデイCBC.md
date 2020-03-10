@@ -1,0 +1,84 @@
+> この記事は[CBC](https://ja.wikipedia.org/wiki/CBC)から翻訳されています。
+
+
+『**グッデイCBC**』（グッデイシービーシー）は、[2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")（CBC）で放送された[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。放送時間は毎週月曜 - 金曜 7時46分頃 - 8時22分（[JST](../Page/日本標準時.md "wikilink")） 。[TBS系全国ネットの朝の情報番組](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")『[おはよう\!グッデイ](https://ja.wikipedia.org/wiki/おはよう!グッデイ "wikilink")』のCBCローカルパートに相当する。
+
+## 概要
+
+CBCの[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")たちが出演していた番組で、彼らはこの番組独自のセカンドネームを名乗って出演していた。メインMCを務めた[石井亮次](https://ja.wikipedia.org/wiki/石井亮次 "wikilink")は毎回「グッデイ石井」という名で出演し、それ以外のアナウンサーも同様に、たとえ出演回数が1回だけであってもナレーションのみの担当であってもセカンドネームが付けられていた。詳細は[出演者の節を参照](https://ja.wikipedia.org/wiki/#出演者 "wikilink")。
+
+この番組は、本編である『おはよう\!グッデイ』が終了すると同時に終了した。その1年後には後継番組の『[ウォッチ\!](../Page/ウォッチ!.md "wikilink")』内で7時台後半のローカル枠が復活したが、その際にCBCも同番組内でローカル枠を復活させる予定であった。しかし、結局ローカル枠は復活せず、7時台後半のローカル枠は引き続きキー局・[TBSからのネット受けで放送され続けた](../Page/TBSテレビ.md "wikilink")。以来、CBCは平日にローカル朝ワイド番組は制作していない。
+
+## 出演者
+
+### CBCアナウンサー
+
+後に別の部署へ異動した者やCBCを退社した者も含む。括弧内は、出演者それぞれに付けられていたセカンドネーム。
+
+  - [石井亮次](https://ja.wikipedia.org/wiki/石井亮次 "wikilink")（グッデイ石井） - メインMCを担当。
+  - [森合康行](../Page/森合康行.md "wikilink")（ヘルシー森合） - 石井が夏期休暇を取っている間のピンチヒッターとして出演。セカンドネームが付けられる以前にヘリコプターからの中継で登場。
+  - [沢朋宏](https://ja.wikipedia.org/wiki/沢朋宏 "wikilink")（ハッスル沢） - 中継を担当。
+  - [多田しげお](../Page/多田しげお.md "wikilink")（ダンディー多田 → ザビエルしげお） - ナレーションを担当。
+  - [塩見啓一](../Page/塩見啓一.md "wikilink")（フィーバー塩見）
+  - [高田寛之](../Page/高田寛之.md "wikilink")（バルーン高田） - 中継を担当。
+  - [大石邦彦](../Page/大石邦彦.md "wikilink")（ミニマム大石） - 番組後期にてしばしば出演していた。
+  - [若狭敬一](https://ja.wikipedia.org/wiki/若狭敬一 "wikilink") - 1度だけ番組に登場。セカンドネームは不明。
+  - [丹野みどり](https://ja.wikipedia.org/wiki/丹野みどり "wikilink")（グリーン丹野） - 「星のカービィ星占い」「まけてよ\!グッデイ」のナレーションを担当。
+  - [渡辺美香](../Page/渡辺美香.md "wikilink")（ミカリン渡辺）
+  - [加藤由香](https://ja.wikipedia.org/wiki/加藤由香 "wikilink")（プリティー由香） - 中継担当。
+  - [加藤小百合](https://ja.wikipedia.org/wiki/加藤小百合 "wikilink")（リリー加藤）
+  - [加藤千佳](https://ja.wikipedia.org/wiki/加藤千佳 "wikilink")（ゴージャス千佳） - 「まけてよ\!グッデイ」のナレーションを担当。
+  - [大橋麻美子](https://ja.wikipedia.org/wiki/大橋麻美子 "wikilink")（マミー大橋）
+  - [丸山蘭那](https://ja.wikipedia.org/wiki/丸山蘭那 "wikilink")（ランナー丸山）
+  - [小高直子](https://ja.wikipedia.org/wiki/小高直子 "wikilink")（ピッツア小高） - 「まけてよ\!グッデイ」のナレーションを担当。
+  - [小堀勝啓](https://ja.wikipedia.org/wiki/小堀勝啓 "wikilink") - ナレーションを担当。
+
+### よしび
+
+番組放送開始から半年間、「よしび」という名の1匹のアシスタント犬が出演していた。[ゴールデン・レトリバー](../Page/ゴールデン・レトリバー.md "wikilink")（4分の3）と別の犬（4分の1・犬種は不明）との[雑種](../Page/雑種.md "wikilink")で、額に小判型の白い模様があるのが特徴。2002年2月8日生まれ。元は捨て犬で、動物保護管理センターにいたとのことである。名前は視聴者からの応募で決められたもので、番組タイトルのグッデイを日本語にした「好日」と、当時のCBCのキャッチフレーズ「なかよしびし」を掛け合わせたものである\[1\]。
+
+放送開始当初は子犬だったこともあり、出演時には画面に映りやすくするよう高台の上に置かれていた。成長後は高台には置かれなくなったが、それとともに番組のオープニングで紹介される程度になり、その後はカメラが切り替わるたびに映る程度となった。アシスタントの役目を終えてからも、その後の成長過程の撮影映像が時々流されていた。最終回では森合とともにオープニングを飾り、番組の終了後は名古屋市千種区のペットシッターの下で飼われている。なお、石井は番組の終了から3年後に再びよしびに会いに行ったが、その際によしびが自分の顔を覚えていたことに感動していた\[2\]。
+
+### その他の出演者
+
+上記レギュラー陣のほか、当時CBCテレビの『[ヒデヨシ](https://ja.wikipedia.org/wiki/ヒデヨシ_\(テレビ番組\) "wikilink")』に出演していた[品川庄司](../Page/品川庄司.md "wikilink")などがゲストで訪れていた。[つボイノリオ](../Page/つボイノリオ.md "wikilink")がこの番組に出演した際に、1度だけ自らを「ゴールデン・つ・ボーイ」と名乗っていた。
+
+## コーナー
+
+  - ランキン・ランキン
+    売れ筋の商品をランキング形式で紹介していたコーナー。7時57分頃から放送。
+  - 東海地方のニュース
+    ニューススタジオからローカルニュースを伝える。ここでニュース読みをしたアナウンサーが番組スタジオでセカンドネーム付きで生出演することもある。
+  - 今日の買い
+    企業の広報担当者が出演し、1分間のセールストークで各社一押しの商品を宣伝してもらっていたコーナー。8時1分頃から放送。
+  - まけてよ\!グッデイ
+    [東海3県](https://ja.wikipedia.org/wiki/東海3県 "wikilink")各地にある飲食店の取材を行うコーナー。視聴者が番組の放送直後または放送日の翌日にその店へ行き、店員に「グッデイ\!」という合言葉を告げると、店のメニューを無料ないしは割引で食べられるこの番組限定のサービスが行われていた。
+  - 知っ得\!朝採り情報
+    [CBCラジオ](../Page/CBCラジオ.md "wikilink")との同時生中継コーナーで、当時からCBCラジオで放送されていたラジオ番組『[多田しげおの気分爽快\!\!朝からP・O・N](../Page/多田しげおの気分爽快!!朝からP・O・N.md "wikilink")』のレポートドライバーによる中継にテレビカメラクルーが同行していた。当初は毎日行われていたが、『朝PON』が毎週金曜にゲストを招いていたことから、放送時間の関係上途中でカットされてしまうことになった。そのため、金曜のみ番組独自で中継を行うようになった。
+  - 星のカービィ星占い
+    当時TBS系列局で放送されていたCBC製作のテレビアニメ『[星のカービィ](https://ja.wikipedia.org/wiki/星のカービィ_\(アニメ\) "wikilink")』を起用した占いコーナー。毎週金曜には、コーナーの後に同作品の予告も併せて行われていた。このコーナーは、[東北放送](../Page/東北放送.md "wikilink")のみで放送されたローカルパート『[グッデイみやぎ](https://ja.wikipedia.org/wiki/グッデイみやぎ "wikilink")』の中でも放送されていた。
+
+## スタッフ
+
+  - ディレクター - 斎藤龍昭、諏訪誠彦、樋口昇、清水三貴
+  - アシスタントプロデューサー - 寺田繁
+  - プロデューサー - 大羽秀樹
+
+## 脚注
+
+## 外部リンク
+
+  - [CBC公式サイト内 グッデイCBC](http://hicbc.com/tv/program/goodday/index.htm)
+
+## 関連項目
+
+いずれもこの番組と同様に『おはよう\!グッデイ』のローカル枠で放送されていた番組。
+
+  - [グッデイみやぎ](https://ja.wikipedia.org/wiki/グッデイみやぎ "wikilink")（[東北放送](../Page/東北放送.md "wikilink")）
+  - [あさやん\!](https://ja.wikipedia.org/wiki/あさやん! "wikilink") （[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
+  - [おはよう\!グッデイかごしま](https://ja.wikipedia.org/wiki/おはよう!グッデイかごしま "wikilink")（[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")）
+
+[Category:2002年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のテレビ番組_\(日本\) "wikilink") [Category:CBCテレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:CBCテレビの帯番組の歴史 "wikilink") [Category:CBCテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:CBCテレビの情報・ワイドショー番組 "wikilink") [Category:アナウンサー番組](https://ja.wikipedia.org/wiki/Category:アナウンサー番組 "wikilink") [Category:ローカル局の番組の企画](https://ja.wikipedia.org/wiki/Category:ローカル局の番組の企画 "wikilink")
+
+1.  [CBC公式サイト内 イシイハウス 2002年4月のバックナンバー](http://hicbc.com/announcer/ishii/back_no/0204/index.htm)
+2.  [CBC公式サイト内 石井亮次の日記 2006年3月28日掲載分](http://hicbc.com/announcer/ishii/diary/060328/index.htm)

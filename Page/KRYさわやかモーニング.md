@@ -1,0 +1,247 @@
+> この記事は[KRY](https://ja.wikipedia.org/wiki/KRY)から翻訳されています。
+
+
+『**KRYさわやかモーニング**』（ケイアールワイさわやかモーニング）は、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")で月曜 - 金曜の5:20 - 6:30に放送されている自社制作の[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。通称「**さわやか**」。
+
+## 概要
+
+この番組は[山口県](../Page/山口県.md "wikilink")内において、唯一ローカル情報を伝える早朝番組である。さらに、他局が番組タイトルを変えつつ放送する中で唯一変えていない番組でもあり、[NNN系列の早朝番組としても最古参となる](../Page/日本ニュースネットワーク.md "wikilink")\[1\]。同時に[朝のローカル情報番組の中では](https://ja.wikipedia.org/wiki/朝の情報番組#ローカル番組 "wikilink")[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")の『[おはよう朝日です](../Page/おはよう朝日です.md "wikilink")（おはよう朝日土曜日です）』に次いで2番目の長さである。
+
+[どさんこワイド\!\!朝\!](https://ja.wikipedia.org/wiki/どさんこワイド!!朝! "wikilink")（[札幌テレビ](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")）、[朝生ワイド す・またん\!](https://ja.wikipedia.org/wiki/朝生ワイド_す・またん! "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）、[バリはやッ\!ZIP\!](https://ja.wikipedia.org/wiki/バリはやッ!ZIP! "wikilink")（[福岡放送](../Page/福岡放送.md "wikilink")）とともに『[Oha\!4 NEWS LIVE](../Page/Oha!4_NEWS_LIVE.md "wikilink")』（[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")制作）第2部および『[ZIP\!](https://ja.wikipedia.org/wiki/ZIP! "wikilink")』5:50 - 6:30枠の時間帯を差し替えている数少ない局であり、基幹局以外では唯一である。ただし、番組の中で『Oha\!4 NEWS LIVE』（第2部）の一部コーナーとNNN協定により『ZIP\!』の『[NNNニュースZIP\!](https://ja.wikipedia.org/wiki/NNNニュースZIP! "wikilink")』を同時ネットするほか、札幌テレビ・読売テレビ・福岡放送とは異なり『[ZIP\!](https://ja.wikipedia.org/wiki/ZIP! "wikilink")』の6:30以降の部分はほぼフルネットとなっている（6:56の『ZIP\! WEATHER・関東』を長年続く『**JAの天気予報**』に差し替えるのみ）。
+
+一時期、5:25 - 5:55の枠にて[テレビ山口](../Page/テレビ山口.md "wikilink")で同じ山口ローカルの情報番組『[ぐちモニ](https://ja.wikipedia.org/wiki/ぐちモニ "wikilink")』を放送していた時期もある（2005.3 - 2005.9）。
+
+番組のテーマソングやジングルは開始時からほぼ変わらず使用されている（作曲は周南市在住の中越和明 。「ほぼ」というのはメロディは変わらないものの、中越によってアレンジが加えられているためで現在のものは3代目）。CMアイキャッチは女声で「♪さ〜わ〜や〜か、モ〜ニ〜ング」と歌うもの。
+
+2011年には放送開始から20周年、中でも10月17日には放送回数5000回を迎えた。
+
+2015年9月14日からは「6000回放送記念スペシャルウィーク」と題した企画で放送され、14日は[萩市](../Page/萩市.md "wikilink")の[道の駅萩しーまーと](../Page/道の駅萩しーまーと.md "wikilink")から番組では初めて全篇外からの中継となった\[2\]。
+
+### 放送時間の変遷
+
+| 期間         | 放送時間（[日本時間](../Page/日本標準時.md "wikilink")） |
+| ---------- | ----------------------------------------- |
+| 1992.03.30 | 1997.03.28                                |
+| 1997.03.31 | 2001.09.28                                |
+| 2001.10.01 | 2006.03.31                                |
+| 2006.04.03 | 現在                                        |
+
+## 歴史
+
+  - [1992年](../Page/1992年.md "wikilink")3月30日：ネットしていた『[ルンルンあさ6生情報](https://ja.wikipedia.org/wiki/ルンルンあさ6生情報 "wikilink")』の放送終了に伴い放送開始。
+      - 当時の放送枠は6:00 - 7:00（ただし年末年始は休止となり、年末は『[ジパングあさ6](https://ja.wikipedia.org/wiki/ジパングあさ6 "wikilink")』を臨時フルネット）
+      - 初代キャスターは[向田好美](https://ja.wikipedia.org/wiki/向田好美 "wikilink")、[國本泰功](../Page/國本泰功.md "wikilink")。
+      - 6:15頃 - 6:35頃に『ジパング』の以下のコーナーを内包。ニュースジパングとここがポイント\!の間に挟まれた関東ローカル枠は山口発の県内天気予報に差し替え。
+    <!-- end list -->
+      -
+        ▽6:15 全国ニュース枠である『[NNNニュースジパング](https://ja.wikipedia.org/wiki/NNNニュースジパング "wikilink")』
+        ▽6:25 「ここがポイント\!」
+        ▽6:31 「スポーツジパング・スポーツ631」
+  - [1994年](../Page/1994年.md "wikilink")4月4日：『[いきいきやまぐち455](https://ja.wikipedia.org/wiki/いきいきやまぐち455 "wikilink")』開始に伴い向田が降板、水田薫に交代。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月31日：キャスターが[山本博子](https://ja.wikipedia.org/wiki/山本博子 "wikilink")と[倉重悟](https://ja.wikipedia.org/wiki/倉重悟 "wikilink")になる。番組開始時刻も1分前倒しの**5:59開始**になる。
+  - [2001年](../Page/2001年.md "wikilink")4月2日：女性キャスターが[竹島知江](../Page/竹島知江.md "wikilink")になる。
+  - [2001年](../Page/2001年.md "wikilink")10月1日：『ジパングあさ6』、『[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")』終了、『[ズームイン\!\!SUPER](https://ja.wikipedia.org/wiki/ズームイン!!SUPER "wikilink")』と早朝ニュース『[ニュース朝いち430](../Page/ニュース朝いち430.md "wikilink")』\[3\]開始に伴い、番組開始時刻を29分繰り上げ、日本テレビにおける『ズームイン\!\!SUPER』（第1部）開始時刻と同時刻の**5:30開始**になる。
+      - 『ジパングあさ6』での内包枠の後継ぎとして、5:31頃 - 5:46頃まで『ズームイン\!\!SUPER』（第1部）の「SUPERフラッシュ」「新聞ナナメ読み」「スポーツヘッドライン」と、6:00 - 6:08の全国ニュース枠である『[NNNニュースSUPER](https://ja.wikipedia.org/wiki/NNNニュースSUPER "wikilink")』を内包する形に変更。
+  - [2004年](../Page/2004年.md "wikilink")3月29日：キャスターが竹島と[石川正史](../Page/石川正史.md "wikilink")になる。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")：新キャラクター“さわ吉”誕生。
+  - [2006年](../Page/2006年.md "wikilink")4月3日：春の改編で早朝ニュース『ニュース朝いち430』が『[Oha\!4 NEWS LIVE](../Page/Oha!4_NEWS_LIVE.md "wikilink")』\[4\]になることに伴い、さらに10分繰り上がって、日本テレビにおける『ズームイン\!\!SUPER』（第1部）開始時刻と同時刻の**5:20開始**になる。
+      - 男性キャスターが竹重雅則（月曜・火曜）、高橋良（水曜・木曜・金曜）になる。スタジオのHD化に伴いステレオ放送開始
+  - [2007年](../Page/2007年.md "wikilink")4月2日：番組15周年を迎えた。メインキャスター竹島知江の結婚に伴い、キャスター陣総入れ替え。メインキャスターには7年半ぶりにアナウンサーとして、またこの番組に復帰となる[國本泰功](../Page/國本泰功.md "wikilink")。また[香取由有子](https://ja.wikipedia.org/wiki/香取由有子 "wikilink")（月曜・火曜）、[塚田文](../Page/塚田文.md "wikilink")（水曜 - 金曜）も登板。
+  - [2009年](../Page/2009年.md "wikilink")3月30日：女性キャスターを入れ替え。[小野口奈々](https://ja.wikipedia.org/wiki/小野口奈々 "wikilink")（月曜・火曜）と[河野康子](../Page/河野康子_\(アナウンサー\).md "wikilink")（水曜 - 金曜）に。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月29日：女性キャスターを入れ替え。[大河原あゆみ](https://ja.wikipedia.org/wiki/大河原あゆみ "wikilink")（月曜・火曜）に。小野口は（水曜 - 金曜）へ。
+  - [2011年](../Page/2011年.md "wikilink")4月1日：放送開始から20年。女性キャスターを入れ替え。[鎌田友里](https://ja.wikipedia.org/wiki/鎌田友里 "wikilink")（月曜 - 金曜）に。
+      - あしかけ9年半続いた『ズームイン\!\!SUPER』が終了、日本テレビでは『Oha\!4 NEWS LIVE』\[5\]の放送時間拡大と『[ZIP\!](https://ja.wikipedia.org/wiki/ZIP! "wikilink")』が開始。それに伴い『SUPER』（第1部）の内包枠の後継ぎとして、旧「5:30 HEADLINE」相当枠では内包放送時間帯を繰り上げ、『Oha\!4』（第2部）の前半のおはよん天気・最新ニュースを、『NNNニュースSUPER』の枠では『ZIP\!』\[6\]の全国ニュース枠である『[NNNニュースZIP\!](https://ja.wikipedia.org/wiki/NNNニュースZIP! "wikilink")』をそれぞれ内包する形に変更。
+  - [2017年](../Page/2017年.md "wikilink")4月3日：放送開始から満25年。キャスター陣総入れ替え。男性キャスターが[長井紀幸](https://ja.wikipedia.org/wiki/長井紀幸 "wikilink")、女性キャスターが[丹黒香奈子](https://ja.wikipedia.org/wiki/丹黒香奈子 "wikilink")。共に（月曜 - 金曜）の担当。同時に番組ロゴも刷新される。
+      - 『Oha\!4』の差し替えポイントも変更され、最新ニュースに代えて5:31頃 - 5:44頃のおはにゃん・スポーツ・エンタメをネットする。
+  - [2017年](../Page/2017年.md "wikilink")10月30日、キャスター陣総入れ替え。男性キャスターが[成田弘毅](https://ja.wikipedia.org/wiki/成田弘毅 "wikilink")、女性キャスターが[八木美佐子](https://ja.wikipedia.org/wiki/八木美佐子 "wikilink")。共に（月曜 - 金曜）の担当。番組セットもリニューアルされる。\[7\]
+
+## 出演者
+
+  - 【月曜 - 金曜】：[成田弘毅](https://ja.wikipedia.org/wiki/成田弘毅 "wikilink")・[八木美佐子](https://ja.wikipedia.org/wiki/八木美佐子 "wikilink")（共に山口放送アナウンサー、[2017年](../Page/2017年.md "wikilink")10月30日～）
+  - 【金曜】：[山本昇治](../Page/山本昇治.md "wikilink")（山口放送気象予報士）
+
+<!-- end list -->
+
+  - キャスターの変遷
+
+| 期間         | 男性キャスター    | 女性キャスター                                                   |
+| ---------- | ---------- | --------------------------------------------------------- |
+| 月・火        | 水 - 金      | 月・火                                                       |
+| 1992.03.30 | 1994.04.01 | [國本泰功](../Page/國本泰功.md "wikilink")                        |
+| 1994.04.04 | 1997.03.28 | [水田薫](https://ja.wikipedia.org/wiki/水田薫 "wikilink")       |
+| 1997.03.31 | 2001.03.30 | [倉重悟](https://ja.wikipedia.org/wiki/倉重悟 "wikilink")       |
+| 2001.04.02 | 2004.03.26 | [竹島知江](../Page/竹島知江.md "wikilink")                        |
+| 2004.03.29 | 2006.03.31 | [石川正史](../Page/石川正史.md "wikilink")                        |
+| 2006.04.03 | 2007.03.30 | [竹重雅則](../Page/竹重雅則.md "wikilink")                        |
+| 2007.04.02 | 2009.03.27 | 國本泰功                                                      |
+| 2009.03.30 | 2010.03.26 | [小野口奈々](https://ja.wikipedia.org/wiki/小野口奈々 "wikilink")   |
+| 2010.03.29 | 2011.03.31 | [大河原あゆみ](https://ja.wikipedia.org/wiki/大河原あゆみ "wikilink") |
+| 2011.04.01 | 2017.03.31 | [鎌田友里](https://ja.wikipedia.org/wiki/鎌田友里 "wikilink")     |
+| 2017.04.03 | 2017.10.27 | [長井紀幸](https://ja.wikipedia.org/wiki/長井紀幸 "wikilink")     |
+| 2017.10.30 | 現在         | [成田弘毅](https://ja.wikipedia.org/wiki/成田弘毅 "wikilink")     |
+
+## キャラクター
+
+  - さわ吉（2005年誕生）（《動物名》ニワトリ） - 番組のイメージキャラクター。「さわ吉しあわせ占い」に出てくる。
+  - ピヨ子（《動物名》ヒヨコ） - さわ吉の隣によくいる。
+
+## タイムテーブル
+
+（2017年4月現在）
+
+  - 本番組のタイムテーブルは、生放送を前提に製作しているため、コーナーの開始時間が異なったり、コーナーが前後に交互したりする場合がある。
+  - 番組途中、CM前や、東京発のコーナーから明けたときにはその時間の時刻を伝える。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>時刻</p></th>
+<th><p>放送内容</p></th>
+<th><p>コーナー詳細・備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>5:20.00</p></td>
+<td><p>番組オープニング</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5:21頃</p></td>
+<td><p>県内天気</p></td>
+<td><p>金曜は気象予報士の山本による天気予報。</p></td>
+</tr>
+<tr class="odd">
+<td><p>5:23頃</p></td>
+<td><p>今日の特集予告</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5:25頃</p></td>
+<td><p>県内ニュース</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5:32頃</p></td>
+<td><p>今日の<a href="https://ja.wikipedia.org/wiki/熱血テレビ" title="wikilink">熱血テレビ</a>、<a href="https://ja.wikipedia.org/wiki/KRYニュースライブ" title="wikilink">KRYニュースライブ</a>特集予告</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5:34頃</p></td>
+<td><p>トラベル情報</p></td>
+<td><p>東京支社のLive映像をバックに、<a href="https://ja.wikipedia.org/wiki/のぞみ_(列車)" title="wikilink">のぞみ号</a><a href="https://ja.wikipedia.org/wiki/東京駅" title="wikilink">東京行</a>（<a href="../Page/新山口駅.md" title="wikilink">新山口発</a>・<a href="../Page/徳山駅.md" title="wikilink">徳山発</a>）、<a href="../Page/山口宇部空港.md" title="wikilink">山口宇部発</a>→<a href="https://ja.wikipedia.org/wiki/東京国際空港" title="wikilink">羽田行</a>、<a href="https://ja.wikipedia.org/wiki/岩国錦帯橋空港" title="wikilink">岩国錦帯橋空港</a>発→<a href="https://ja.wikipedia.org/wiki/東京国際空港" title="wikilink">羽田空港行飛行機の空席情報を伝える</a>。</p></td>
+</tr>
+<tr class="odd">
+<td><p>5:36頃</p></td>
+<td><p>おはにゃん</p></td>
+<td><p>『Oha!4 NEWS LIVE』（第2部、<a href="https://ja.wikipedia.org/wiki/日テレNEWS24" title="wikilink">日テレNEWS24</a>〈<a href="https://ja.wikipedia.org/wiki/日本における衛星放送#CSデジタル放送" title="wikilink">CS</a>〉制作）同時ネット。</p></td>
+</tr>
+<tr class="even">
+<td><p>5:38頃</p></td>
+<td><p>スポーツ</p></td>
+<td><p>『Oha!4 NEWS LIVE』（第2部、日テレNEWS24〈CS〉制作）同時ネット。</p></td>
+</tr>
+<tr class="odd">
+<td><p>5:41頃</p></td>
+<td><p>エンタメ</p></td>
+<td><p>『Oha!4 NEWS LIVE』（第2部、日テレNEWS24〈CS〉制作）同時ネット。日替わりコーナーの企画内容次第で放送されない場合有り</p></td>
+</tr>
+<tr class="even">
+<td><p>5:45頃</p></td>
+<td><p>県内天気</p></td>
+<td><p>金曜は気象予報士の山本による天気予報。</p></td>
+</tr>
+<tr class="odd">
+<td><p>5:48頃</p></td>
+<td><p>日替わりコーナー</p></td>
+<td><p>（月）週替わりの企画、（火）週替わりの企画、（水）蔵出しフィルム、（木）おでかけランチ、（金）週間<a href="https://ja.wikipedia.org/wiki/レノファ" title="wikilink">レノファ</a>TV</p></td>
+</tr>
+<tr class="even">
+<td><p>6:00.00</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NNN_NEWS_ZIP!" title="wikilink">NNN NEWS ZIP!</a></p></td>
+<td><p>『ZIP!』（日本テレビ制作）同時ネット。 <a href="https://ja.wikipedia.org/wiki/NNN" title="wikilink">NNN</a>協定により同時ネット。6:08.00には山口放送のスタジオへ戻る。</p></td>
+</tr>
+<tr class="odd">
+<td><p>6:08.00</p></td>
+<td><p>県内ニュース</p></td>
+<td><p><a href="../Page/電子番組ガイド.md" title="wikilink">EPG上の区切りはないが</a>、ここから番組後半であり、改めて出演者と日付のテロップが表示される。</p></td>
+</tr>
+<tr class="even">
+<td><p>6:14頃</p></td>
+<td><p>日替わりコーナー</p></td>
+<td><p>（月）週替わりの企画、（火）週替わりの企画、（水）週替わりの企画、（木）週替わりの企画、（金）映画情報「さわ吉シアター」</p></td>
+</tr>
+<tr class="odd">
+<td><p>6:20頃</p></td>
+<td><p>県内天気</p></td>
+<td><p>金曜は気象予報士の山本による天気予報。<br />
+なお、この時間に日本テレビと『ZIP!』フルネット局で放送される『ZIP!deポン!チャレンジ（1回目）』は放送しないため、山口放送のサービスエリアでは2回目以降しか参加できない。</p></td>
+</tr>
+<tr class="even">
+<td><p>6:25頃</p></td>
+<td><p>プレゼントコーナー</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6:25頃</p></td>
+<td><p>さわ吉掲示板</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6:27頃</p></td>
+<td><p>さわ吉のしわあせ占い</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6:29頃</p></td>
+<td><p>エンディング</p></td>
+<td><p>エンディングでは、キャスターが揃って「今日も元気に、いってらっしゃいっ!」と締めて終わる。</p></td>
+</tr>
+<tr class="even">
+<td><p>6:29.50</p></td>
+<td><p>「ZIP!」オープニング</p></td>
+<td><p>ここで「ZIP!」をフルネットしている局で5:50頃から流れるオープニング[8]をKRYの自社送出で流す（編成上は6:30まで「KRYさわやかモーニング」のまま）。</p></td>
+</tr>
+</tbody>
+</table>
+
+## 放送休止について
+
+  - 基本的には12月29日 - 1月3日には番組の放送を休止し、同時間帯で日本テレビとの同時ネットを実施している（一部の番組を除く）。元日を除き、特記の無い日は通常時の本番組放送時間帯に情報番組がない。
+      - 2000年末までは、『ジパングあさ6』を単独番組扱いで臨時フルネット。
+      - 2009年末までは、『ズームイン\!\!SUPER』第1部を単独番組扱いで臨時フルネット。なお、5:49頃・6:08頃・6:28頃の天気予報をローカル天気に差し替えていた（5:49頃については、全国の天気予報を放送してから乗り換え）。ただし、1月2日と3日には『ズームイン\!\!SUPER』の放送が休止になるため、2008年始から2011年始には『[Oha\!6 NEWS LIVE](https://ja.wikipedia.org/wiki/Oha!4_NEWS_LIVE#Oha!6_NEWS_LIVE "wikilink")』\[9\]をネット受けしていた（日本テレビ他一部地上波系列局も同時ネット）。しかし、2010年末には『ズームイン\!\!SUPER』そのものが12月28日をもって年内の放送を終えたため、この年末は完全に情報番組が無くなった。
+      - 2011年末は12月29日に『日テレNEWS24 発掘\!SP』（4:55 - 5:50）\[10\]・『Oha\!6 NEWS LIVE』\[11\]（5:50 - 8:00）をネット受けする（いずれも日本テレビ他一部地域を除く地上波系列局も同時ネット）。
+      - 2014年末は12月29日に『Oha\!4 NEWS LIVE年末拡大スペシャル』（日本テレビ他一部地上波系列局も一部または全編を同時ネット）\[12\]を放送するも、通常通り第1部のみのネット（ただし、通常番組扱いではなくフィラー扱い）となるが、通常より早い4:30をもって飛び降りた。以降は他系列番販番組を放送。
+  - 『ズームイン\!\!SUPER』において、全編全国中継で山口からの生中継（過去に[萩と](../Page/萩市.md "wikilink")[下関](../Page/下関市.md "wikilink")）があった場合には本番組を休止し、第1部から全編ネットしていた。
+  - 2019年8月以降、一部の祝日編成により番組自体が休止となるケースが発生している\[13\]。ちなみに、その場合日本テレビでは『Oha\!4』が全編休止となるほか『ZIP\!』は40分繰り下げ・短縮（6:30 - 8:00）となり、『ZIP\!』に関しては山口放送では飛び乗りが行われず、ローカル枠を除き臨時フルネットとなる。
+
+## 脚注
+
+## 関連項目
+
+  - [NNNニュースSUPER](https://ja.wikipedia.org/wiki/NNNニュースSUPER "wikilink")→[NNN NEWS ZIP\!](https://ja.wikipedia.org/wiki/NNNニュースZIP! "wikilink")（1コーナーとして内包）
+  - [どさんこワイド\!\!朝\!](https://ja.wikipedia.org/wiki/どさんこワイド!!朝! "wikilink")（[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[札幌テレビが放送している北海道向けの朝の情報番組](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")）
+  - [朝生ワイド す・またん\!](https://ja.wikipedia.org/wiki/朝生ワイド_す・またん! "wikilink")（[大阪府](../Page/大阪府.md "wikilink")の[ytvが放送している近畿向けの朝の情報番組](../Page/讀賣テレビ放送.md "wikilink")）
+  - [バリはやッ\!ZIP\!](https://ja.wikipedia.org/wiki/バリはやッ!ZIP! "wikilink")（[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")の[福岡放送](../Page/福岡放送.md "wikilink")が放送している福岡・佐賀向けの朝の情報番組）
+  - [おはZIP\!](https://ja.wikipedia.org/wiki/おはZIP! "wikilink")（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")の[中京テレビが放送していた東海向けの朝の情報番組](../Page/中京テレビ放送.md "wikilink")）
+  - [おはようとくしま プラス](https://ja.wikipedia.org/wiki/おはようとくしま_プラス "wikilink")（[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")の[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")が「ズームイン\!\!」第2部を全面差し替えして放送していた徳島向けの朝の情報番組）
+
+## 外部リンク
+
+  - [さわやかモーニング](http://www.kry.co.jp/tv/sawayaka/)
+
+[Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:山口放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:山口放送のテレビ番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの情報・ワイドショー番組 "wikilink") [Category:ズームイン\!\!](https://ja.wikipedia.org/wiki/Category:ズームイン!! "wikilink") [Category:Oha\!4_NEWS_LIVE](https://ja.wikipedia.org/wiki/Category:Oha!4_NEWS_LIVE "wikilink") [Category:ZIP\!](https://ja.wikipedia.org/wiki/Category:ZIP! "wikilink")
+
+1.  1971年から続いていた[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")の『[おはようとくしま](../Page/おはようとくしま.md "wikilink")』『[おはようとくしま プラス](https://ja.wikipedia.org/wiki/おはようとくしま_プラス "wikilink")』が通算で40年続いていたが、2011年3月31日で終了。それにより、当番組が最古参となっている。
+2.  [國本泰功のおはようございました『世界遺産』](http://kry.co.jp/blog/kunimoto/)
+3.  日テレNEWS24（CS・旧：NNN24）制作。
+4.  日テレNEWS24制作。
+5.  日テレNEWS24制作。
+6.  日本テレビでの開始時刻は5:50である。
+7.  [KRYさわやかモーニング10月30日新キャスター登場！](http://kry.co.jp/pdf/No2017-15_171023_press.pdf)
+8.  バックのお天気カメラの映像を水色の背景に差し替えている。
+9.
+10.
+11. 日テレNEWS24（CS）制作。制作局である日テレNEWS24（CS）から地上波系列局への裏送りでの放送となる。
+12. 日テレNEWS24・日本テレビの場合、4:00 - 6:30。
+13. 2019年8月12日や9月16日などが該当。

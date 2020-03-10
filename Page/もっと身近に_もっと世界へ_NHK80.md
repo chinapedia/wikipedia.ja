@@ -1,0 +1,30 @@
+> この記事は[  NHK80](https://ja.wikipedia.org/wiki/__NHK80)から翻訳されています。
+
+
+『**もっと身近に もっと世界へ NHK80**』（もっとみぢかに もっとせかいへ エヌ・エイチ・ケーはちじゅう）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")の設立80周年を記念し、[日本時間の](../Page/日本標準時.md "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")午前10:00から[3月22日](../Page/3月22日.md "wikilink")（[放送記念日](../Page/放送記念日.md "wikilink")当日）の22:00まで、延べ80時間に渡って[NHKラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")（一部[総合テレビとのサイマル含む](../Page/NHK総合テレビジョン.md "wikilink")）で長時間放送された開局記念番組。2015年の『[NHK90時間ラジオ〜もっと届け、大切なこと〜](https://ja.wikipedia.org/wiki/NHK90時間ラジオ〜もっと届け、大切なこと〜 "wikilink")』が放送されるまではテレビ・ラジオ合わせて日本最長の[特別番組](../Page/特別番組.md "wikilink")。
+
+番組ではこれまでNHKが放送した80年間の音源・音楽・ラジオ番組の中から特に視聴者の反響の多かった番組をランキング形式で紹介したほか、これまで放送が伝えた大事件・スクープの数々、そしてこれからの放送のあり方などを多角的に分析する番組などを集中編成した。随時放送センター玄関の特設スタジオからの公開放送や今回の放送80周年記念をきっかけに新規導入したラジオ放送の移動中継車「[80ちゃん号](../Page/80ちゃん号.md "wikilink")（はちまるちゃんごう）」のお披露目とそれを使った各地の表情の生中継も行われた。
+
+この番組で「日本列島はる自慢」（日本時間20日10:05ごろ-15:55）と題した日本列島各地を中継で結ぶコーナーが放送されていた20日10:53ごろに[福岡県西方沖地震](https://ja.wikipedia.org/wiki/福岡県西方沖地震 "wikilink")が発生し、全波（衛星含む）共通番組（八波全中）で地震速報が行われ一時中断した。
+
+また、19日と20日に総合テレビと同時生放送した『[ラジオ深夜便](../Page/ラジオ深夜便.md "wikilink")』や22日21:15からのグランドフィナーレで([NHKホール](../Page/NHKホール.md "wikilink")からの中継で)総合テレビと同時生放送された『[あの日あの歌〜放送80周年コンサート〜](../Page/NHK歌謡コンサート.md "wikilink")』、19日から3夜連続で『[土曜の夜はケータイ短歌](../Page/土曜の夜はケータイ短歌.md "wikilink")』を（19日と21日は「眠れない夜はケータイ短歌」として）放送したほか、日本時間の19日から3夜連続で（21:00から）ラジオドラマに残る金字塔「[君の名は](../Page/君の名は.md "wikilink")」の再現復刻版（出演：[田中美里](../Page/田中美里.md "wikilink")、[萩原聖人](../Page/萩原聖人.md "wikilink")ら）を放送した。
+
+## 総合キャスター
+
+  - [三宅民夫](../Page/三宅民夫.md "wikilink")（移動中継車「[80ちゃん号](../Page/80ちゃん号.md "wikilink")」リポーター）
+
+### ラジオ総合キャスター
+
+  - [古屋和雄](../Page/古屋和雄.md "wikilink")
+  - [山根基世](../Page/山根基世.md "wikilink")
+
+## 関連項目
+
+  - [ラジオいきいきラリー](../Page/ラジオいきいきラリー.md "wikilink") - 1989年11月に実施された67時間の長時間特番。この特番が、1990年4月に特番として開始（定時化は1992年4月から）された『[ラジオ深夜便](../Page/ラジオ深夜便.md "wikilink")』の母体となった。
+  - [NHK90時間ラジオ〜もっと届け、大切なこと〜](https://ja.wikipedia.org/wiki/NHK90時間ラジオ〜もっと届け、大切なこと〜 "wikilink") - 2015年の90周年にちなみ、90時間をかけて実施された特番。
+
+## 外部リンク
+
+  - [NHK放送80周年記念サイト](http://www.nhk.or.jp/housou80/)
+
+[Category:NHKのイベント・キャンペーン](https://ja.wikipedia.org/wiki/Category:NHKのイベント・キャンペーン "wikilink") [Category:NHKラジオ第1の番組の歴史](https://ja.wikipedia.org/wiki/Category:NHKラジオ第1の番組の歴史 "wikilink") [Category:ラジオの超長時間番組](https://ja.wikipedia.org/wiki/Category:ラジオの超長時間番組 "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink")

@@ -1,0 +1,802 @@
+> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+
+
+『**TVチャンピオン**』（テレビチャンピオン、TV CHAMPION）は、[1992年](../Page/1992年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で毎週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")19:30 - 20:54に放送されていた競技型[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。毎週世の中のあらゆる事象をテーマとし、その道の達人たちが真剣勝負を繰り広げ[チャンピオン](../Page/チャンピオン.md "wikilink")を決定する。
+
+[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")では過去に地上波で放送したものを継続放送している（放送順は地上波と異なり、放送された時期が不規則）。
+
+スタジオ収録のみ[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。[4:3](https://ja.wikipedia.org/wiki/4:3 "wikilink") SDロケーション収録映像の両サイドの空白部分にあるのは画面右側に選手権の名称が、左側には英文字による番組タイトルまたはテレビ東京の[ウェブサイト](../Page/ウェブサイト.md "wikilink")の[URIを表示している](../Page/Uniform_Resource_Identifier.md "wikilink")。
+
+## 番組概要
+
+[1992年](../Page/1992年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")・木曜20時 (20:00 - 20:54) に60分枠として放送を開始し、[1993年](../Page/1993年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")から90分枠 (19:30 - 20:54) へと拡大した。
+
+枠拡大の前後の期間では番組の平均[視聴率](../Page/視聴率.md "wikilink")は15%越えを連発し、その中でも1993年10月21日放送の「第2回 全国選抜和菓子職人選手権」では番組歴代最高となる20.1%を記録している（テレビ東京のバラエティ番組の中で視聴率20%越えを達成しているのは、本番組と『[開運\!なんでも鑑定団](../Page/開運!なんでも鑑定団.md "wikilink")』だけである）。
+
+なお、歴代最低視聴率は1993年7月の衆議院総選挙後に放送された「全国政界・選挙通選手権」（1993年[9月23日](../Page/9月23日.md "wikilink")放送）が記録した2.7%である。
+
+末期は平均視聴率は7 - 8%前後に低下しており、[2006年](../Page/2006年.md "wikilink")10月にはアニメ『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』（現在は『[NARUTO -ナルト- 疾風伝](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝 "wikilink")』）が木曜日19:30 - 19:57枠（現在は毎週木曜日19:30 - 19:58枠）に移動することから本番組は同年[9月21日](../Page/9月21日.md "wikilink")をもって終了し、[10月19日](../Page/10月19日.md "wikilink")からは放送時間を60分枠に再縮小し、『[TVチャンピオン2](../Page/TVチャンピオン2.md "wikilink")』に改題・リニューアルした。同番組終了後は『[チャンピオンズ〜達人のワザが世界を救う〜](https://ja.wikipedia.org/wiki/チャンピオンズ〜達人のワザが世界を救う〜 "wikilink")』が放送された。
+
+放送期間は2006年[9月21日](../Page/9月21日.md "wikilink")までの14年半、放送回数も700回以上を数えた長寿番組である。なお公式の見解として後の『TVチャンピオン2』も本番組の放送期間として含めているため、実質的な放送期間は16年半である。
+
+## 復活放送
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月15日に「**TVチャンピオン特別版・レゴブロック王選手権2010**」のタイトルで『[チャンピオンズ](https://ja.wikipedia.org/wiki/チャンピオンズ〜達人のワザが世界を救う〜 "wikilink")』を含めて番組終了後、初の復活放送を行なった。どの復活放送でもスタジオMCは存在せず、全編ロケーションVTRのみとなっており以降何回か放送されている。
+
+また、2010年10月から放送される『[月曜プレミア\!](https://ja.wikipedia.org/wiki/月曜プレミア! "wikilink")』枠において限定復活することが発表されタイトルも「**[TVチャンピオンR](https://ja.wikipedia.org/wiki/TVチャンピオンR "wikilink")**」となりナビゲーターに[福澤朗](../Page/福澤朗.md "wikilink")を迎えるなど出演者やナレーターを一新した。しかし、こちらは同年にわずか2回放送されただけでその後は放送されていない。
+
+レゴブロックをテーマとした企画は[2011年](../Page/2011年.md "wikilink")以降も続き、同年7月21日に「**TVチャンピオン特別版・レゴブロック王選手権2011**」が放送され（当初は4月14日放送予定であったが、東日本大震災発生の影響で収録自体が延期となった）、[2012年](../Page/2012年.md "wikilink")7月3日には「**TVチャンピオン特別版・芸能人レゴブロック王選手権**」が放送された（ただし、この回はローカルセールス枠での放送のため同日、プロ野球中継が組まれた[テレビ北海道](../Page/テレビ北海道.md "wikilink")では8月7日火曜日の19:00-20:54に放送\[1\]。 『[ありえへん∞世界](../Page/ありえへん∞世界.md "wikilink")』の2時間スペシャルに差し替えられた[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")では7月24日火曜日の19:00-20:54に放送。また、[奈良テレビ放送](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")では7月31日火曜日の20:00-21:54に放送\[2\]）。また、[2013年](../Page/2013年.md "wikilink")1月1日には「**TVチャンピオン正月SP レゴブロック王選手権 ザ・レジェンド**」が関東ローカルで放送された。
+
+## 出演者
+
+### スタジオMC
+
+  - TVチャンピオン時代
+
+<!-- end list -->
+
+  - [田中義剛](../Page/田中義剛.md "wikilink")（1992年4月16日 - 2006年9月21日）
+  - [松本明子](../Page/松本明子.md "wikilink")（1992年4月16日 - 2000年3月30日、9月28日 - 2006年9月21日）
+  - [東ちづる](../Page/東ちづる.md "wikilink")（1992年4月16日 - 1995年3月30日）
+  - [マルシア](../Page/マルシア.md "wikilink")（2000年4月6日 - 9月28日／松本の産休時に代理司会を務めた）
+  - [大橋未歩](https://ja.wikipedia.org/wiki/大橋未歩 "wikilink")（2005年4月21日 - 2006年9月21日／当時テレビ東京アナウンサー）
+
+<!-- end list -->
+
+  -
+    1995年3月に東が降板して以降は司会者が2人体制となった為、スタジオゲスト1名（1組）が出演する様になった。2005年4月に大橋が加入して再び3人体制となった後も引き続きゲストを招いていた。
+
+<!-- end list -->
+
+  - TVチャンピオン特別版 芸能人レゴブロック王選手権
+
+<!-- end list -->
+
+  - [草野仁](https://ja.wikipedia.org/wiki/草野仁 "wikilink")
+  - [若林正恭](https://ja.wikipedia.org/wiki/若林正恭 "wikilink")（[オードリー](https://ja.wikipedia.org/wiki/オードリー_\(お笑いコンビ\) "wikilink")）
+  - [ローラ](https://ja.wikipedia.org/wiki/ローラ_\(モデル\) "wikilink")
+
+<!-- end list -->
+
+  - TVチャンピオン正月SP レゴブロック王選手権 ザ・レジェンド
+
+<!-- end list -->
+
+  - [狩野英孝](../Page/狩野英孝.md "wikilink")
+  - [狩野恵里](https://ja.wikipedia.org/wiki/狩野恵里 "wikilink")（テレビ東京アナウンサー）
+
+### ラウンドMC
+
+  - TVチャンピオン時代
+
+以前は「レポーター」「ロケMC」など呼称がバラバラだったが、2005年5月26日放送分から「ラウンドMC」に統一された。これまで番組においてこのラウンドMCを務めた芸能人は70人以上に及び、司会の田中や松本明子もまれにラウンドMCとしてロケに参加することがあった（この項では、10回以上ロケに参加したラウンドMCを記録していく）。なおMCが持っているマイクには毎回競技にちなんだデコレーションをされているが、しない場合もある。
+
+  - [中村有志](../Page/中村有志.md "wikilink") - 番組1年目からMCとして起用され、現在までの出演回数は280回以上を数える。自分が出ていない選手権にも詳しく、まさに「TVチャンピオンの生き字引」的存在。
+  - [デビット伊東](../Page/デビット伊東.md "wikilink") - 1997年頃までMCとして起用される。当時は中村有志とのツートップ的存在だった。第3回「プロモデラー王選手権」にて山田のコメントに涙する場面が印象的。
+  - [彦摩呂](https://ja.wikipedia.org/wiki/彦摩呂 "wikilink") - 番組初期から起用されている数少ない1人。「大工王」や「ラーメン王」など看板企画を何度も担当しており実力は折り紙つきだが、ここ2年はグルメレポーター業が多忙のためか番組には出演していなかった。しかし最終回となった2006年9月21日の「小学生料理人選手権」で、2つの料理から1つを選ぶというグルメ番組とだまされて日本料理店で選手の作った料理を食べるという審査員役で登場した。ただしドッキリで呼んだため、TVチャンピオンの審査であることを知ったのは結果が出た後である。
+  - [山崎まさや](https://ja.wikipedia.org/wiki/山崎まさや "wikilink")（[ジョーダンズ](https://ja.wikipedia.org/wiki/ジョーダンズ "wikilink")） - 2002年頃から起用された。番組終了直前では一番起用頻度が多かった。
+  - 松本明子 - 番組初期からスタジオ出演とともにたびたび起用されたが、東ちづるの降板以降はスタジオ司会がメインとなりラウンドMCからは一線を退いた。大食い選手権は第5回まで松本がロケMCとして出演していた。『TVチャンピオン2』へ移行後は再びラウンドMCとして出演する事も多々ある。
+  - [梶原しげる](../Page/梶原しげる.md "wikilink") - 主に「コロコロからくり装置王」など、実況が必要となる選手権で起用されることが多い。
+  - [石本武士](https://ja.wikipedia.org/wiki/石本武士 "wikilink")（[ドロンズ石本](https://ja.wikipedia.org/wiki/ドロンズ石本 "wikilink")） - 「やせさせ王」や海外ロケものなど、長期収録の選手権で起用されることが多い。
+  - [辻よしなり](../Page/辻よしなり.md "wikilink") - 「小学生料理名人」や「小学生IQなぞなぞ王」など、未成年限定の選手権で起用されることが多い。
+  - [ミスターちん](https://ja.wikipedia.org/wiki/ミスターちん "wikilink") - 主に「ケーキ職人」やリフォーム系選手権で起用されることが多い。こちらもレポーター業の多忙のためか、番組末期は出演していなかった。
+  - [乱一世](../Page/乱一世.md "wikilink") - 番組初期を支えた一人。1997年頃から出演しなくなり、2002年の「アイドル料理名人」に起用されたのが最後である。
+  - [佐藤正宏](../Page/佐藤正宏.md "wikilink")
+  - [住田隆](../Page/住田隆.md "wikilink")（[ビシバシステム](../Page/ビシバシステム.md "wikilink")）
+  - [斉木しげる](../Page/斉木しげる.md "wikilink")
+  - [イジリー岡田](https://ja.wikipedia.org/wiki/イジリー岡田 "wikilink")
+  - [木之元亮](https://ja.wikipedia.org/wiki/木之元亮 "wikilink")
+  - [つるの剛士](https://ja.wikipedia.org/wiki/つるの剛士 "wikilink")
+  - [やるせなす](https://ja.wikipedia.org/wiki/やるせなす "wikilink")
+  - [笹峯愛](../Page/笹峯愛.md "wikilink")
+  - [寺門ジモン](https://ja.wikipedia.org/wiki/寺門ジモン "wikilink")（[ダチョウ倶楽部](../Page/ダチョウ倶楽部.md "wikilink")）
+  - [北野誠](../Page/北野誠_\(タレント\).md "wikilink")
+
+<!-- end list -->
+
+  - 復活放送時代
+
+<!-- end list -->
+
+  - [原口あきまさ](../Page/原口あきまさ.md "wikilink") - 『レゴブロック王選手権2010』、『レゴブロック王選手権2011』
+  - [おかもとまり](https://ja.wikipedia.org/wiki/おかもとまり "wikilink") - 同上
+  - [ペナルティ](../Page/ペナルティ_\(お笑いコンビ\).md "wikilink") - 同上
+  - [上原美優](../Page/上原美優.md "wikilink") - 『レゴブロック王選手権2010』
+  - [関根麻里](../Page/関根麻里.md "wikilink") - 同上
+  - [髭男爵](../Page/髭男爵.md "wikilink") - 『金魚すくい王選手権』、『小学生料理人選手権』
+  - [松村邦洋](../Page/松村邦洋.md "wikilink") -『中華料理王選手権』
+  - [小島秀公](../Page/小島秀公.md "wikilink")（テレビ東京アナウンサー） -『芸能人レゴブロック王決定戦』
+
+### ナレーター
+
+  - TVチャンピオン時代
+
+<!-- end list -->
+
+  - [田中信夫](https://ja.wikipedia.org/wiki/田中信夫 "wikilink") - 選手の表情など
+  - [関口伸](../Page/関口伸.md "wikilink") - 主にルール説明や選手紹介、正解発表
+
+<!-- end list -->
+
+  -
+    2005年5月26日放送分から、両ナレーターの名前はエンディングでのスタッフテロップで表示されるようになった。以前は[VTRの途中に表示されていた](../Page/ビデオテープレコーダ.md "wikilink")。
+
+<!-- end list -->
+
+  - [村山明 (声優)](https://ja.wikipedia.org/wiki/村山明_\(声優\) "wikilink")
+
+<!-- end list -->
+
+  - 復活放送時代
+
+<!-- end list -->
+
+  - 田中信夫 - 『小学生料理王選手権』まで。『レゴブロック王選手権2010』では女性ナレーターと務めた。
+  - [繁田美貴](../Page/繁田美貴.md "wikilink")（テレビ東京アナウンサー） - 『金魚すくい王選手権』〜『小学生料理王選手権』まで。
+  - [石田彰](../Page/石田彰.md "wikilink") - 『レゴブロック王選手権2011』
+  - [山崎優](https://ja.wikipedia.org/wiki/山崎優 "wikilink") - 『レゴブロック王選手権2011』
+  - [キートン山田](../Page/キートン山田.md "wikilink") - 『芸能人レゴブロック王決定戦』
+  - [山口由里子](../Page/山口由里子.md "wikilink") - 『芸能人レゴブロック王決定戦』
+
+### 実況
+
+  - TVチャンピオン時代
+
+<!-- end list -->
+
+  - [矢野武](../Page/矢野武.md "wikilink") - 主に「プロモデラー王選手権」など。『TVチャンピオン2』へ移行後は再び実況として出演する事もあった。
+  - [市川勝也](https://ja.wikipedia.org/wiki/市川勝也 "wikilink") - 主に「ショベルカー王選手権」など。
+  - [赤平大](../Page/赤平大.md "wikilink")（当時テレビ東京アナウンサー） - 主に「引越し屋さん選手権」など。『TVチャンピオン2』へ移行後は再び実況として出演する事もあった。
+
+## 主な構成
+
+主な構成は司会者とゲストによるスタジオトーク（放送開始当初は司会者3人によるトーク）とロケーションでの競技VTRが交互に展開されるというもの。一般公募などから審査・予選を勝ち抜いた複数名の挑戦者が番組独自のルールで技術・知識を競い、脱落者を出しながらチャンピオンを決定する。例外として人の性格や技術を大きく直す、大きな物を製作する、マグロの一本釣りなど勝負に1週間以上かかる企画では一本勝負にする場合がある。一部の小学生対象企画では以前、ポイント制で全員最後まで残していた。いずれの場合も、最終的に1名のチャンピオンを決定する。尚、基本的には、前回チャンピオンは本選からの登場（=予選免除）ではあるが、立会人として予選から登場する事があった。
+
+チャンピオンはエンディングでスタジオに登場する\[3\]。競技にかける思いをコメントした後（司会の田中がチャンピオンに対して「○○さんにとって●●とは?」と質問し、それに答えるというパターン）、司会者から優勝カップを受け取り、観客席の最後列中央に設けられた玉座へと向かう（この時エンディングテーマに載せてスタッフロールを表示）。CM後のエンドカードでは玉座に座ったチャンピオンから視聴者に向けてのコメントが流され、画面下部には「明日は君がチャンピオン\!」の字幕が入る。優勝者には大量の紙吹雪で祝福され賞金50万円が贈呈される。チャンピオンは後継番組『[TVチャンピオン2](../Page/TVチャンピオン2.md "wikilink")』の「CLUB CHAMPION」のメンバーとなり挑戦者からの戦いに応じる。
+
+競技VTRにおいてはナレーターおよびレポーターを設置している。レポーターは競技の全てに帯同し、司会・実況・インタビュアーなどVTR上の全ての進行を一手に担っている。ナレーターは競技説明や選手紹介に留まらず、演出方面への役割も欠かせないものとなっている。
+
+番組の選手権名になる傾向として、[2001年](../Page/2001年.md "wikilink")頃までは「アイスクリーム王選手権」「スナック菓子通選手権」「鉄道王選手権」等といった特定の分野（商品）の深い知識を問うもの（いわゆる“オタク度”）が多かったが、近年はリフォーム、料理、園芸等の創作技術を競ったり人間の性格や技術の修正、ペットのしつけの腕を競う大会が中心になりつつある。ただ近年でも「漢字王選手権」や「小学生地理王選手権」「文具王選手権」等は継続して行われる。
+
+また基本的に選手は一般視聴者限定であるが、2002年の「アイドル料理女王選手権」など芸能人参加者（ただし個人として）や芸能人限定の企画も何度か放送されている。
+
+  - 主な芸能人参加者
+
+<!-- end list -->
+
+  - 料理苦手アイドル 上達度No.1決定戦（2002年[4月11日](../Page/4月11日.md "wikilink")放送）
+      - 平山綾（現・[平山あや](https://ja.wikipedia.org/wiki/平山あや "wikilink")）、[後藤理沙](https://ja.wikipedia.org/wiki/後藤理沙 "wikilink")、周防玲子（現・[すほうれいこ](../Page/すほうれいこ.md "wikilink")）、[吉野紗香](https://ja.wikipedia.org/wiki/吉野紗香 "wikilink")、[柳明日香](../Page/柳明日香.md "wikilink")
+  - 芸能人日本なんでも地理王選手権（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月23日](../Page/9月23日.md "wikilink")放送）
+      - [保阪尚希](../Page/保阪尚希.md "wikilink")、[水野裕子](../Page/水野裕子.md "wikilink")、[矢部太郎](../Page/矢部太郎.md "wikilink")（[カラテカ](../Page/カラテカ_\(お笑いコンビ\).md "wikilink")）、[飯星景子](https://ja.wikipedia.org/wiki/飯星景子 "wikilink")、[伊藤克信](../Page/伊藤克信.md "wikilink")
+  - クレーンゲーム王選手権（2006年[2月2日](../Page/2月2日.md "wikilink")放送）
+      - [団長](../Page/団長安田.md "wikilink")（[安田大サーカス](../Page/安田大サーカス.md "wikilink")。ただし本名の安田裕己名義で参加）
+  - 芸能人弾き語り王選手権（2006年[3月9日](../Page/3月9日.md "wikilink")放送）
+      - [嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")、[関口誠人](../Page/関口誠人.md "wikilink")、[前田耕陽](../Page/前田耕陽.md "wikilink")、[テツandトモ](../Page/テツandトモ.md "wikilink")、[ROLLY](../Page/ROLLY.md "wikilink")、[2丁拳銃](../Page/2丁拳銃.md "wikilink")
+
+## 「ブランド」としての番組
+
+「TVチャンピオン出場」あるいは「現（元）チャンピオン」としての肩書きのもと、各方面で活躍している人は多い。職人選手権のチャンピオンが所属・展開する店が繁盛したり、また主に[オタク](https://ja.wikipedia.org/wiki/オタク "wikilink")を対象とした○○通選手権のチャンピオンがその[知識](../Page/知識.md "wikilink")を活かして書いた雑誌記事・ガイドブックが評判となったりすることもある。中には魚通・[さかなクン](../Page/さかなクン.md "wikilink")（宮沢正之）やラーメン王・[石神秀幸](../Page/石神秀幸.md "wikilink")のようにテレビ等のメディアで活躍する人もいる。
+
+## エンディングで行うチャンピオンの儀式
+
+  - 初代・「チャンピオンパネル（王者の肖像）」 ※番組上の正式な呼び名はない。
+    モノクロ加工されたチャンピオンの写真パネルが番組の最後に映し出される。
+    この写真パネルは放送後2, 3か月程度、映画館を模したスタジオセット（当時）の通路側に飾られる。
+  - 2代目・「チャンピオンシート（王者の椅子）」
+    [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月16日](../Page/10月16日.md "wikilink")放送分から2002年[3月28日](../Page/3月28日.md "wikilink")放送分まで使用。
+    番組リニューアルで、エンディングに優勝者がスタジオに登場するようになってから導入される。
+    観客席の後方上段に椅子があり、観客席の間に設けられた通路を通って椅子に着座する。
+    [2000年](../Page/2000年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")放送分からは「**あなたにとって○○とは?**」に対する優勝者のコメントとともに観客席が2つに割れ、椅子へと続く階段が現れる演出が追加された。なおこの場面になるとエンディングテーマ曲が流れるが、場合によってはLouis Clarkの「A NIGHT AT THE OPERA」（「ハレルヤ」の部分のみ）が流れる回もある。
+  - 3代目・「王者の岩」
+    2002年[4月18日](../Page/4月18日.md "wikilink")放送分から2005年[5月19日](../Page/5月19日.md "wikilink")放送分まで使用。チャンピオンはスタジオセットのメインの背景の火山に開けられたドアからセットの裏に回り、火山の頂上に登って「王者の岩」を持ち上げる。その瞬間にチャンピオンの背後に大量の炭酸ガスが噴射される。
+    なお、使われていた王者の岩は2種類あり、1つ目は2002年[4月18](../Page/4月18日.md "wikilink")・[25日の放送で使用されたが](../Page/4月25日.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")放送分以降で使用された2つ目は1つ目よりもサイズが大きいものになった。
+  - 4代目その1・「勝利の王冠」
+    2005年[5月26日](../Page/5月26日.md "wikilink")放送「クレイアニメ王選手権」、同[8月4日](../Page/8月4日.md "wikilink")放送「第5回ダンボール王」で使用。司会の松本明子が優勝者に王冠を被せる儀式。ただし王冠のサイズに問題があり上手く乗せることができなかった。
+  - 4代目その2・「チャンピオンカップ」
+    2005年[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")放送「美しい日本語王選手権」から使用、カップの形は勝利の王冠と同じ。勝利の王冠同様、司会の松本明子が優勝者にチャンピオンカップを贈呈する。
+
+最後に「あなたにとって○○とは?」と聞かれて優勝者が答えて終わる。また2005年5月19日の放送以前には番組の最後のカットにも優勝者からの言葉があり、テロップには「TVチャンピオン（TV-Champion）：明日は君がチャンピオン」が付いていた。初期は田中、東の司会者2人が優勝者のモノクロ写真をスタジオで貼り付けてエンディング、最後のカットはモノクロ写真のアップでテロップが入る。
+
+## 主な競技
+
+  - 大食い選手権
+    第1回目から2002年[3月21日](../Page/3月21日.md "wikilink")に放送された「元祖\!全国大食い選手権（後編）東海道五十三次食べまくり決戦」まで行われていた最も代表的な競技（現在の状況については、「番組が世間に与えた影響」の項を参照）。
+  - お花屋さん選手権
+    全国の[花屋](https://ja.wikipedia.org/wiki/花屋 "wikilink")の中から選抜された[フローリスト](https://ja.wikipedia.org/wiki/フローリスト "wikilink")や[フラワーデザイナー](https://ja.wikipedia.org/wiki/フラワーデザイナー "wikilink")が花屋さんに必要不可欠な知識や仕入れなどを競ったり[フラワーアレンジメント](https://ja.wikipedia.org/wiki/フラワーアレンジメント "wikilink")やブーケの制作を競い合い、作業の素早さや丁寧さ、またテクニックやセンスの良し悪し等から最も優れた花屋を決める競技である。第1回目はフラワーアレンジメント選手権というネーミングでデザインを審査員が採点してチャンピオンが決まる競技形式をとっていたが回を増すごとに改良され、2003年[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")に放送された第5回「お花屋さん選手権 百花繚乱\!\!二日間売り上げ決戦」では実際に街角で作品を販売、売り上げの多い者が優勝するという競技が行われた。
+  - 手先が器用選手権
+    その名の通り、一番手先が器用な人を決める競技である。指先のテクニックはもちろん、精神力の強靭さが必要とされる。初期の頃は1円玉を立ててドミノを完成させたり、小さいサイコロをピラミッド状に積み上げたりする競技が多かったが、後期は決勝戦に[プルプルラビリンス](../Page/プルプルラビリンス.md "wikilink")と呼ばれる[電流イライラ棒](https://ja.wikipedia.org/wiki/電流イライラ棒 "wikilink")を小さくしたような装置を誰がいち早くクリアできるかを競っていた。余りにも競技の難易度が高かった為、2度の「チャンピオンなし」が発生（後述）。
+  - コロコロからくり装置王選手権
+    [ルーブ・ゴールドバーグ・マシン](../Page/ルーブ・ゴールドバーグ・マシン.md "wikilink")のことを番組内ではコロコロからくり装置と呼ぶ。ボールや水、木材や板金等を組み合わせ、人間の手で簡単にできる事をわざわざ壮大な装置でやるという競技。例として[ミルクと](../Page/クリーム_\(食品\).md "wikilink")[コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")をゴムの動力で動くスプーンで混ぜて[カフェラテ](https://ja.wikipedia.org/wiki/カフェラテ "wikilink")を作ったり、[プリンを](https://ja.wikipedia.org/wiki/カスタードプディング "wikilink")[ボウリング](../Page/ボウリング.md "wikilink")の球で角を潰して皿に盛るなどというものがある（輪ゴムクラフト王選手権の決勝ラウンドでも同じような競技が行われた。輪ゴムを利用したからくり装置である）。第1回から第3回まで、連続で「埼玉 板金職人チーム」が出場している。
+  - プロモデラー王選手権
+    [フィギュア](../Page/フィギュア.md "wikilink")や[ジオラマ](https://ja.wikipedia.org/wiki/ジオラマ "wikilink")制作を専門とする人が集う競技。トップクラスの人材が参加し神業的な作品を披露するため、視聴者の間では人気の高い競技である。特に歴代チャンピオン・[山田卓司と特撮も手がける名モデラー](https://ja.wikipedia.org/wiki/山田卓司_\(プロモデラー\) "wikilink")・[寒河江弘](https://ja.wikipedia.org/wiki/寒河江弘 "wikilink")（後のフィギュア王チャンピオン）が対戦した回は歴代屈指の名勝負として誉れ高い。また、[ミニ四駆](../Page/ミニ四駆.md "wikilink")のみを題材にしたものも何度か行われていた。
+  - ダンボール王選手権
+    [ダンボール](https://ja.wikipedia.org/wiki/ダンボール "wikilink")を利用した作品で勝負する。2003年[7月3日](../Page/7月3日.md "wikilink")と2004年[6月10日](../Page/6月10日.md "wikilink")の大会の第1ラウンドではダンボールで出来たレーシングカーを造り、実際にレースをして勝敗を決めるという競技もあった。
+  - バルーンアート王選手権
+    [風船](https://ja.wikipedia.org/wiki/風船 "wikilink")を使ってオブジェを作ったり、バルーンアートの技術を競う。
+  - 甘味（女）王選手権
+    スウィーツや[菓子](../Page/菓子.md "wikilink")に関する知識に自信のある[甘党](../Page/甘党.md "wikilink")選手達が集う。男女混合の大会もあれば、女性選手限定の「甘味女王」大会もある。菓子の店名と名前を当てるクイズでは問題の菓子を完食してからでないと回答権が得られないため、菓子をできるだけ速く（そして美しく）口に入れる数々の技が生まれた。
+  - もちつき王選手権
+    新年最初に行われる競技。日本全国から選りすぐりのもちつき名人や達人が集結し、もちつきの競争やもち料理等でチャンピオンを決める。[奈良県](../Page/奈良県.md "wikilink")[奈良市](https://ja.wikipedia.org/wiki/奈良市 "wikilink")の[和菓子](../Page/和菓子.md "wikilink")店・[中谷堂](https://ja.wikipedia.org/wiki/中谷堂 "wikilink")が2005年、2006年2連覇。
+  - ペーパークラフト王選手権
+    [ペーパークラフト](../Page/ペーパークラフト.md "wikilink")による技術でチャンピオンを決める。通常のペーパークラフトは小型の作品が一般的だが、決勝戦となると、高さ1メートル以上の壮大な作品を製作する事もある。
+  - 親子漢字王選手権
+    親子で漢字による様々な知識を、問題などで競う。しかし、不正により放送中止となった回がある（後述）。
+  - 発泡スチロール王選手権
+    競技内容は、「ダンボール王選手権」とほぼ似ている。当番組では、発泡スチロールの事を「変幻自在の白い恋人」と異名を付けていた。
+  - 小学生IQ王選手権
+    クイズ番組ブームの中、開催された競技。大人でも首を傾げる程のなぞなぞやパズルの難問を選手達は難なく正解していった。
+  - [レゴ](https://ja.wikipedia.org/wiki/レゴ "wikilink")ブロック王選手権
+    世界的に有名なパズルブロック「レゴ」。これを利用した作品を多数手掛けた人達が集う競技である。第2回の大会の決勝ラウンドではレゴブロックの本場である[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")まで行き、そこに住んでいるデンマーク選手2名と対決した。この時の優勝トロフィーはレゴブロックで出来ていた。2010年4月15日と2011年7月21日にこの競技の特番を放送した。
+  - ゆるキャラ日本一決定戦
+    全国のふるさとや名産品などをアピールするゆる〜いキャラクターを略して[ゆるキャラ](https://ja.wikipedia.org/wiki/ゆるキャラ "wikilink")と呼ぶ。その頂点を決める戦い。全国8ヶ所で地方予選が行われ、161人が参加した。そして審査の結果30人が全国大会に進んだ。全国大会では耐久レースやバトルロイヤルなどが行われた。
+  - 回転すし職人選手権
+    [回転すし](https://ja.wikipedia.org/wiki/回転すし "wikilink")の職人がその技術を競った。特に早握り対決では相手が握ったお寿司を食べて妨害する事が許された為、選手がなりふり構わずに相手の寿司を食い潰す姿が視聴者の笑いを誘った。
+  - ドールハウス王選手権
+    色々な建物をモデルとして、どの[ドールハウス](../Page/ドールハウス.md "wikilink")がよく出来ているかを競うのが基本的なルール。本物により近づけるように一点一点細かく作っている為、「手先が器用選手権」の選手並の器用さが必要とされる。
+  - 氷彫刻王選手権
+    氷のブロックを削って、作品を作る。美術的な作品も多く、「手先が器用選手権」のような慎重かつ細かい作業で作られる彫刻もある。
+  - アキバ王選手権
+    [秋葉系](https://ja.wikipedia.org/wiki/秋葉系 "wikilink")ブームを受けて行われた、実際の秋葉系オタク達によるオタク知識を競う競技。
+    アニメキャラのセリフから作品名とキャラクター名を答え声優本人からご褒美をもらう、秋葉原のディープスポットを巡り問題に答える、出場者自慢のお宝のオタク系審査員による採点、渋谷系ギャルやキャバクラ嬢等オタクとは縁遠い女性から抽選で当たった女性をファイナルまで残った出場者でそれぞれプロデュースし巫女さん等オタク好みに変身させ、集まったオタクの前で披露し投票してもらう等でチャンピオンを決めた。
+  - マグロ漁師王決定戦
+    [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[大間町](https://ja.wikipedia.org/wiki/大間町 "wikilink")を舞台にマグロの一本釣りで勝負。ルールは10日間、普段通りに漁を行い、期間中一番重いマグロを釣り上げた選手が優勝。一本勝負で行われる。なおこの選手権は2時間スペシャルとして放送された（『TVチャンピオン2』でも2時間スペシャルで放送）。
+  - 無人島王選手権
+    無人島を舞台に「野人」たちが火起こし・食糧確保などで点数を競い合った後、上位2名が[筏](https://ja.wikipedia.org/wiki/筏 "wikilink")を作って島を脱出し有人島を目指す。先にたどり着いたほうがチャンピオンとなる。なお、筏の材料は島に漂着したゴミ・自然物しか使ってはならない。
+    『TVチャンピオン2』では3時間スペシャルも放送。
+  - 引越し屋さん選手権
+    家具を運ぶリレー競技やダンボール早作り対決などの競技が行われた。なおこの選手権は各企業3～4名の代表のチーム戦。[松本](../Page/松本引越センター.md "wikilink")、[サカイ](https://ja.wikipedia.org/wiki/サカイ引越センター "wikilink")、[アーク](../Page/アーク引越センター.md "wikilink")、[ダックなどが出場した](../Page/ダック_\(運輸\).md "wikilink")。
+  - 特殊メイク王選手権
+    特殊メイクアーティスト・[JIROが神業のごとく](https://ja.wikipedia.org/wiki/JIRO_\(特殊メイクアーティスト\) "wikilink")、有名人そっくりメイクや動物変身メイクなどの特殊メイクを施した。
+  - パチプロ王選手権
+    1992年にプロアマ混合参加型の「パチンコ王選手権」としてスタートし、その形態で3回続く。1996年より業界人（パチンコライターやパチプロ・パチンコ雑誌編集者）に対象を絞った「パチプロ王選手権\[4\]」としてリニューアルした。試合内容としては、[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")に関するクイズが出されたり早当たりによる勝ち抜け（主に第1ラウンドや敗者復活戦）、出玉勝負（2人羽織や時間指定でのパチンコマラソンなど）で勝負する。1998年や1999年の大会では[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")や[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")の現地パチンカーと対決している。また、別企画として女性のみを対象とした**パチプロ女王選手権**も存在した\[5\]。
+
+また、「サンドアート王選手権」や「氷彫刻王選手権」などの決勝ラウンドで会場付近の住民が選手達に応援の差し入れを出す事がある。
+
+## 過去の主なチャンピオン
+
+  - 全国プロモデラー選手権（[山田卓司](https://ja.wikipedia.org/wiki/山田卓司_\(プロモデラー\) "wikilink")）
+  - 全国お花屋さん[フラワーアレンジメント](https://ja.wikipedia.org/wiki/フラワーアレンジメント "wikilink")選手権（[柿崎順一](../Page/柿崎順一.md "wikilink")・[桜井慎](https://ja.wikipedia.org/wiki/桜井慎 "wikilink")・[馬場政好](https://ja.wikipedia.org/wiki/馬場政好 "wikilink")）
+  - 全国折り紙王選手権（[神谷哲史](../Page/神谷哲史.md "wikilink")）
+  - 全国大食い選手権（[伊藤織恵](https://ja.wikipedia.org/wiki/伊藤織恵 "wikilink")・[赤阪尊子](../Page/赤阪尊子.md "wikilink")・[中嶋広文](https://ja.wikipedia.org/wiki/中嶋広文 "wikilink")・[小林尊](https://ja.wikipedia.org/wiki/小林尊 "wikilink")・[白田信幸](https://ja.wikipedia.org/wiki/白田信幸 "wikilink")・[風間博正](https://ja.wikipedia.org/wiki/風間博正 "wikilink")・[安達孝行](https://ja.wikipedia.org/wiki/安達孝行 "wikilink")ほか多数の[フードファイター](https://ja.wikipedia.org/wiki/フードファイター "wikilink")）
+  - 全国魚通選手権（[さかなクン](../Page/さかなクン.md "wikilink")）
+  - 全国犬通選手権（[北村まゆみ](https://ja.wikipedia.org/wiki/北村まゆみ "wikilink")）
+  - 全国温泉通選手権（[井上隆徳](https://ja.wikipedia.org/wiki/井上隆徳 "wikilink")）
+  - 文房具通選手権（[高畑正幸](https://ja.wikipedia.org/wiki/高畑正幸 "wikilink")）
+  - 東京ラーメン王選手権（[石神秀幸](../Page/石神秀幸.md "wikilink")）
+  - 東京甘味王選手権（[池田浩彰](https://ja.wikipedia.org/wiki/池田浩彰 "wikilink")）
+  - 手先が器用選手権（[原口高陽](https://ja.wikipedia.org/wiki/原口高陽 "wikilink")）
+  - 手先が器用選手権2005（[紀藤英智](https://ja.wikipedia.org/wiki/紀藤英智 "wikilink")）
+  - 和菓子職人選手権（[高橋弘光](https://ja.wikipedia.org/wiki/高橋弘光 "wikilink")）
+  - カレー王選手権（[金子載](https://ja.wikipedia.org/wiki/Theかれー王 "wikilink")）
+  - 寿司職人選手権（[川澄健](https://ja.wikipedia.org/wiki/川澄健 "wikilink")・[菊池一男](https://ja.wikipedia.org/wiki/菊池一男 "wikilink")ほか多数の寿司職人）
+  - バーテンダー王選手権（[会津俊昭](https://ja.wikipedia.org/wiki/会津俊昭 "wikilink")）
+  - 木のおもちゃ職人選手権（[遠藤裕](https://ja.wikipedia.org/wiki/遠藤裕 "wikilink")）
+  - フィギュア王選手権([寒河江弘](https://ja.wikipedia.org/wiki/寒河江弘 "wikilink"))
+  - パチプロ王選手権（[広瀬元也](https://ja.wikipedia.org/wiki/広瀬元也 "wikilink")・[大崎一万発](https://ja.wikipedia.org/wiki/大崎一万発 "wikilink")）
+  - ケーキ職人選手権（[小山進](https://ja.wikipedia.org/wiki/小山進_\(パティシエ\) "wikilink")）
+  - 鼻大王選手権（[木村克己](https://ja.wikipedia.org/wiki/木村克己 "wikilink")）
+  - ニューハーフ料理名人選手権（[麻里亜](https://ja.wikipedia.org/wiki/麻里亜 "wikilink")）
+
+## 番組でのエピソード・珍事
+
+  - チャンピオンが出なかった回
+    2001年[8月23日](../Page/8月23日.md "wikilink")に放送された「手先が器用選手権」黄跟宝vs原口高陽vs樊星涛、2003年[11月27日](../Page/11月27日.md "wikilink")に放送された「新・手先が器用選手権II」紀藤英智vs前田中（まえだ・あたる）では、決勝の競技をクリアした人が現れなかったため「チャンピオンなし」という結果になった。
+  - 正誤判定ミス1
+    2004年7月29日放送「小学生やわらかIQ王選手権」の決勝ラウンドで、「重さの異なる偽物のコインをはかりを使って判別する問題」が出題された。この中である選手が出した答え（内容的には不正解）を、判定チームのミスにより（必ずしも確実に判別できる解法ではないにもかかわらず）正解としてしまうことがあった。結果的にこの選手のワンサイドゲームで決勝が終了したためか後日事情が説明された際も大事には至らず、順位に影響は出ていない。なお、この選手は2004年11月の第2回大会でも優勝し2連覇を達成している。また、2005年[5月5日](../Page/5月5日.md "wikilink")の「親子なぞなぞIQ王選手権」では彼の母と妹がペアを組んで出場、こちらもチャンピオンに輝いている。
+  - 正誤判定ミス2
+    2005年6月16日放送「なでしこ中高生 美しい日本語王選手権」の決勝ラウンドで、両者優勝に[リーチ](../Page/リーチ.md "wikilink")をかけた場面で「わずかに明けた夜明けを何と呼ぶか?」という早押し問題が出題された。この問題に対し最初に解答権を得た解答者が「曙」と答え不正解となり、その後もう一方の解答者が「東雲」と答えこれが正解、優勝となった。しかし、後日専門家の意見で「曙」でも不正解とは言い切れないことが判明したため、番組側は「曙」と答えた準優勝の選手に対して「優勝と同等の表彰を行う」とした（準優勝した選手のブログによると、優勝者と同額の賞金50万円が支払われたようである）。
+  - やらせ?
+    2000年春に放送予定だった「親子漢字王選手権」で、あまりにも解答者の正解率が高いため製作者側の判断でわざと不正解させるという事件があった。このことや収録が深夜に及んだことなどで選手側から抗議を受けた結果として、この回は収録はされたものの放送中止となってしまった。2000年4月か5月の放送でチャンピオンとトークしたときに番組内で字幕テロップによるお詫びと訂正を表示した\[6\]。
+  - リタイアした出場者がスタッフの仕込みではなく、普通に客として正解メニューのある店に来店していた
+    2005年9月15日放送「アキバ王選手権」でラウンド2の最終決戦において、「秋葉原エリアにある店のメニューの一部を見てそのメニューがある店に行き、そのメニューを注文する」という問題があった。答えは、「ひよこ家」の「謎のジュース\[7\]」というドリンクで、「ひよこ家」に一番先に辿り着いて「謎のジュース」を注文した出場者がラウンド3に進めると言う仕組みであった。先に辿り着いた出場者が注文後、「誰かいる?まさか」と尋ねた際、ラウンドMCの[山崎まさや](https://ja.wikipedia.org/wiki/山崎まさや "wikilink")が、ラウンド1でリタイアした出場者が普通に客として店に来ている事を告げて、再会と言う事があった。山崎は「普通にいたんです。仕込じゃありません。これ」と言っている。
+
+## 番組が世間に与えた影響
+
+  - 大食い（フードファイト）を世に知らしめたのはこの番組の影響が大きい。[2002年](../Page/2002年.md "wikilink")に番組の真似をして中学生が死亡する事故が起き、影響により『TVチャンピオン』での「大食い」シリーズ（BSジャパンの時差放送では「大食い」以外の別のシリーズに差し替え）と[TBS系](../Page/TBSテレビ.md "wikilink")『[フードバトルクラブ](../Page/フードバトルクラブ.md "wikilink")』の放送が打ち切られた。そのから約3年後の[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月11日](../Page/4月11日.md "wikilink")に『TVチャンピオン』枠ではなく「[月曜エンタぁテイメント](https://ja.wikipedia.org/wiki/月曜エンタぁテイメント "wikilink")」枠内で『[元祖\!大食い王決定戦](../Page/元祖!大食い王決定戦.md "wikilink")』（「月曜エンタぁテイメント」としてではなく単発タイトルとして放送）として約3年間の沈黙を破り復活した。なお、同番組と後継番組では大食いを取り扱わないことになっている（類似の企画として、「[デカ盛り](../Page/デカ盛り.md "wikilink")王選手権」を行っている。大量の食べ物を食べる競技も含まれるがこちらも早食いはさせないことになっており、デカ盛りの店舗の知識などにも幅を広げて大食いを連想させないようにしている）。また、出演者の中には後に[過食嘔吐](https://ja.wikipedia.org/wiki/過食嘔吐 "wikilink")症であることを告白していたり、次の対決のためにわざと嘔吐したりしていた事を告白している者もいる。ジャイアント白田自身も「ラーメンを大量に食べた翌日に尋常じゃない浮腫み方をした」「大学生なのに痛風の数値が出ていた」と[有吉ジャポン](https://ja.wikipedia.org/wiki/有吉ジャポン "wikilink")にて告白し、同席していた新井和響も「体には良くないからね」と懐旧していた。
+  - 1995年に放送された「中高生お菓子名人選手権」のチャンピオン・柳迫さやかが、後に[森永乳業](../Page/森永乳業.md "wikilink")に入社。デザート製作に専念し、現在小売店などで2005年3月から販売の「とろふわプリン プティポ」を手掛けたことが話題となった（現在では、普通味のプリンや「抹茶味」の他に「いちご味」「キャラメル味」「ロイヤルミルクティー味」が販売されている）\[8\]。
+      - これに関連して発売から半年経った2005年9月中旬ごろ、パッケージに“「TVチャンピオン」菓子作り名人になった私が作りました。”という文言を入れたところ売り上げが3か月で60%近い伸びを示したというエピソードが残っている\[9\]。
+
+## 一時期で終了した企画
+
+  - スタジオゲストの優勝者予想
+    決勝が始まる前にスタジオのゲストが、残った選手の中から「誰が優勝するか?」を予想する企画。予想が的中すると視聴者1人に10万円分の商品券がプレゼントされる。
+    1995年[4月6日](../Page/4月6日.md "wikilink")から1996年[9月19日](../Page/9月19日.md "wikilink")まで放送。
+  - 「2本立て、3本立て」
+    「1ラウンド、または1時間弱」で決着がつく選手権を1回の放送で2つないし3つ放送するというもの。1ジャンルあたりのオンエア時間が短いこと以外、基本のフォーマットには変わりがなかった（ただし、選手の紹介ロケVTRがカットされる場合あり）。
+    1996年[1月4日](../Page/1月4日.md "wikilink")から5月2日の間に、合計6回・13ジャンルの選手権が放送された（1996年1月4日放送分のみ「3本立て」、それ以外は「2本立て」であった）。
+  - 「私にかかってきなさい\!」
+    「マニアックすぎる技を持つ達人を紹介し、その対戦相手を募集する」のコンセプトのもとに、“奇人変人”な方々を紹介するロケコーナー。番組の冒頭10〜15分、選手権本編からは先行して流れ「ちくわ笛達人」「バブルリング達人」「けん玉達人」などが紹介された。出演者は[アメリカザリガニ](../Page/アメリカザリガニ_\(お笑いコンビ\).md "wikilink")、[パッション屋良](../Page/パッション屋良.md "wikilink")。
+    2005年[9月29日](../Page/9月29日.md "wikilink")から[12月1日](../Page/12月1日.md "wikilink")放送分の間に、合計8回放送された。
+
+## 復活番組放送日
+
+放送日時は[日本標準時](../Page/日本標準時.md "wikilink")。視聴率は[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ。
+
+1.  『TVチャンピオン特別版 レゴブロック王選手権2010』（2010年4月15日 19:58 - 21:48（[JST](../Page/日本標準時.md "wikilink")）（[空から日本を見てみよう](https://ja.wikipedia.org/wiki/空から日本を見てみよう "wikilink")・[和風総本家](https://ja.wikipedia.org/wiki/和風総本家 "wikilink")枠）放送） 視聴率 6.5%
+2.  『TVチャンピオン夏休み特別編 家族対抗！金魚すくい王選手権』（2010年8月9日 20:00 - 20:54（JST）（[逆流\!シラベルトラベル](https://ja.wikipedia.org/wiki/逆流!シラベルトラベル "wikilink")枠）放送） 視聴率 4.5%
+3.  『TVチャンピオン夏休み特別編 夫婦対抗！中華料理人選手権』（2010年8月16日 20:00 - 20:54（JST）（逆流\!シラベルトラベル枠）放送） 視聴率 3.0%
+4.  『TVチャンピオン夏休み特別編 小学生料理王選手権』（2010年8月23日 20:00 - 21:48（JST）（逆流\!シラベルトラベル・[やりすぎコージー](../Page/やりすぎコージー.md "wikilink")枠）放送） 視聴率 6.6%
+5.  『TVチャンピオン特別版 レゴブロック王選手権2011』（2011年7月21日 19:58 - 21:48（[JST](../Page/日本標準時.md "wikilink")）（空から日本を見てみよう・和風総本家枠）放送） 視聴率 %
+
+## 主題歌
+
+  - メインテーマ
+
+<!-- end list -->
+
+  - A NIGHT AT THE OPERA / Louis Clark（『Hooked on Classics』に収録。イントロ部とアウトロで演奏される「ハレルヤ」（原曲は[ヘンデル作曲](../Page/ゲオルク・フリードリヒ・ヘンデル.md "wikilink")）の部分が長年にわたり提供クレジットや王者の椅子に座るシーンで使われていた。）
+
+<!-- end list -->
+
+  - 歴代エンディングテーマ
+
+<!-- end list -->
+
+  - 虹を見たかい / [安藤治彦](../Page/安藤治彦.md "wikilink")
+  - そこにいないあなた / [下村成二郎](../Page/下村成二郎.md "wikilink")
+  - 想い出のWater Moon / [LINDBERG](../Page/LINDBERG.md "wikilink")
+  - 夢を見させて / [カルロス・トシキ](../Page/カルロス・トシキ.md "wikilink")
+  - クレイジー・ラブ / [スターダストレビュー](https://ja.wikipedia.org/wiki/スターダストレビュー "wikilink")
+  - 赤と緑のリボン / [和久井映見](../Page/和久井映見.md "wikilink")
+  - Beauiful / [GARDEN](../Page/GARDEN_\(音楽ユニット\).md "wikilink")
+  - [君のいない夜なんて](https://ja.wikipedia.org/wiki/君のいない夜なんて "wikilink") / [鈴木康博](https://ja.wikipedia.org/wiki/鈴木康博 "wikilink")
+  - 夢の破片探しに / [有坂美裕](../Page/有坂美裕.md "wikilink")
+  - どこでもCHU / [浅田真季](../Page/浅田真季.md "wikilink")
+  - 風 / [法城慎一郎](../Page/鈴木慎一郎.md "wikilink")
+  - ダイアリー / [Dual Dream](../Page/Dual_Dream.md "wikilink")
+  - 11枚の手紙 / [吉村麻季](https://ja.wikipedia.org/wiki/吉村麻季 "wikilink")
+  - あいをしんじて / [esq](https://ja.wikipedia.org/wiki/esq "wikilink")
+  - days go by / [Something ELse](../Page/Something_ELse.md "wikilink")
+  - いいじゃない / [Dual Dream](../Page/Dual_Dream.md "wikilink")
+  - 愛のち・か・ら・こ・ぶ / [THE ME](https://ja.wikipedia.org/wiki/THE_ME "wikilink")
+  - わがままにあたりまえに / [BEREEVE](https://ja.wikipedia.org/wiki/BEREEVE "wikilink")
+  - それでも地球はまわる / [神山剛](https://ja.wikipedia.org/wiki/神山剛 "wikilink")
+  - DRUNKER / [Rose of Rose](https://ja.wikipedia.org/wiki/Rose_of_Rose "wikilink")
+  - もう一度今を選ぶかな? / [Temiyan](https://ja.wikipedia.org/wiki/Temiyan "wikilink")
+  - ブランコ / [吉田直樹](https://ja.wikipedia.org/wiki/吉田直樹 "wikilink")
+  - ガーベラ / [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink")
+  - 君の名を呼んだ / [陣内大蔵](https://ja.wikipedia.org/wiki/陣内大蔵 "wikilink")
+  - Slow down / [永井龍雲](../Page/永井龍雲.md "wikilink")
+  - 虹 / [紙ふうせん](../Page/紙ふうせん.md "wikilink")
+  - 単純 / [ラヴァーフェニックス](https://ja.wikipedia.org/wiki/ラヴァーフェニックス "wikilink")
+  - 諦めさえしなければ / [堀内孝雄](../Page/堀内孝雄.md "wikilink")
+  - Keep on... / [GaGaalinG](https://ja.wikipedia.org/wiki/GaGaalinG "wikilink")
+
+**競技内で使われたBGM**
+
+ラウンドタイトルのアタックBGM
+
+  - アイヤ・ハラホロ/[谷啓](../Page/谷啓.md "wikilink")(1992年～1995年、競技VTＲのスタートおよびＣMへのアイキャッチ音として使用。)
+
+<!-- end list -->
+
+  - [電脳警察サイバーコップ](https://ja.wikipedia.org/wiki/電脳警察サイバーコップ "wikilink") アイキャッチ/[新田一郎](../Page/新田一郎_\(ミュージシャン\).md "wikilink")(1992年〜2002年、[クロスプログラム](https://ja.wikipedia.org/wiki/クロスプログラム "wikilink")での番組宣伝でも使用された。)
+
+チャンピオン決定時に流れたBGM
+
+  - Can't Stop the Classics, Pt. 2/Louis Clark (『Hooked on Classics』に収録。原曲は[リヒャルト・ワーグナー](../Page/リヒャルト・ワーグナー.md "wikilink")の[ニュルンベルクのマイスタージンガー第](../Page/リヒャルト・ワーグナー.md "wikilink")1幕への前奏曲、[モーリス・ラヴェル](../Page/モーリス・ラヴェル.md "wikilink")の[ボレロ](../Page/ボレロ_\(ラヴェル\).md "wikilink")。)
+  - [エアフォース・ワン (映画)](../Page/エアフォース・ワン_\(映画\).md "wikilink") メインテーマ/[ジェリー・ゴールドスミス](https://ja.wikipedia.org/wiki/ジェリー・ゴールドスミス "wikilink")
+
+## スタッフ
+
+### レギュラー放送時代
+
+  - 構成：[藤岡俊幸](https://ja.wikipedia.org/wiki/藤岡俊幸 "wikilink")、政宗史子、[黒岩勉](https://ja.wikipedia.org/wiki/黒岩勉 "wikilink")、小泉せつ子、[石井裕之](https://ja.wikipedia.org/wiki/石井裕之_\(放送作家\) "wikilink")、[石田章洋](https://ja.wikipedia.org/wiki/石田章洋 "wikilink")
+  - リサーチ：[フォーチュンスープ](https://ja.wikipedia.org/wiki/フォーチュンスープ "wikilink")
+  - ロケ技術：堂本昌宏、吉田誠、築舘寛、橋本弘行、伊藤昌行、長田洋平、宮川量康、森村吉則、丸山宗広、北條英樹
+  - 技術：田中圭介、岩田伸一、安西正行（以前はカメラ）、浜田和義
+  - 映像：佐藤誠二、田中健二、鳥飼雄一、葛西雅弘、大崎雅典、伊藤和孝
+  - カメラ：北村宏一、近藤剛史、風間誠、高柳道也、石田和良、谷口誠
+  - 音声：西山恵美子、田中英治、有馬拓也、飯嶋康生、斉藤孝行、五十嵐公彦、大津幹弘
+  - 照明：水野暁夫、高柴圭一
+  - ロケ編集：久田宗里、山崎伸行、森咸志、荒井英雄、遠藤誠、橋本竜也、市川敏之、角埜吉宏、吉岡明広、松井佐登子、上ノ山昌子
+  - ロケ美術：箱田一郎、星山隆茂、下吉克明
+  - デザイン：薬王寺哲朗、斎藤宗志
+  - 美術進行：野本和広
+  - 大道具：千葉勇治
+  - 小道具：樋口光四郎
+  - 電飾：高橋修
+  - メイク：[山田かつら](https://ja.wikipedia.org/wiki/山田かつら "wikilink")
+  - ビジュアルフォーマット：松本哲也
+  - 編集：堤晴人、大越克彦、三井慎一郎
+  - MA：村上伸一、白井稔也、大山泰造、長瀬貴広
+  - CG：[ケネックジャパン](https://ja.wikipedia.org/wiki/ケネックジャパン "wikilink")（2005年5月26日放送分から）
+  - タイトルロゴ.キャラクター：[対比地一正](https://ja.wikipedia.org/wiki/対比地一正 "wikilink")+DATATA
+  - 音響効果：小関尚孝（OPUS-1）
+  - TK：北村伊都子
+  - 番宣：松山進、小林亜加子、國安百合、豊島晋作、岡仁（テレビ東京）
+  - 演出補：露木寛子、塩原幸雄、荻野和人、中野万作、平田陽一
+  - AD：陳賛淑、横山敦士（以前は制作進行）
+  - 制作進行：橋本崇、玉川晃、市葉純一（[ゼロクリエイト](../Page/ゼロクリエイト.md "wikilink")）、新井若菜、山口剛、高橋由佳、高柳奈緒子、金子永、深見一樹、関根健二、井汲亜紀子、武井陽介（ホールマン）
+  - ディレクター：井上陽二郎、陶山達也、橋本元康、高橋健二、中嶋征宏、稲葉則央、神山友和（ホールマン）、立野明史、関本文彦、石川修（ゼロクリエイト）
+  - ロケ演出：手塚政之、堀江一成、土方教裕、小野元照、江幡洋二（ホールマン）、横井仁、小口基輝、本道英門、西重雄、内山慶祐（ゼロクリエイト）、[佐久間宣行](https://ja.wikipedia.org/wiki/佐久間宣行 "wikilink")、石井辰之介、圡方真（テレビ東京）
+  - 演出：越山進、永田浩一、澤井伸之、大庭竹修、株木亘、三沢大助、森田昇（テレビ東京）
+  - プロデューサー：桜井卓也、[永井宏明](https://ja.wikipedia.org/wiki/永井宏明_\(テレビプロデューサー\) "wikilink")、斎藤勇（テレビ東京）／酒井英樹（ゼロクリエイト）、久保和也、新美信二（ホールマン）、安西義裕（[GUTS](../Page/ガッツエンターテイメント.md "wikilink")）
+  - チーフプロデューサー：[多田暁](https://ja.wikipedia.org/wiki/多田暁 "wikilink")（テレビ東京、以前はプロデューサー）
+  - 技術・美術協力：[テクノマックス](../Page/テクノマックス.md "wikilink")、[テレビ東京アート](../Page/テレビ東京アート.md "wikilink")、ライズカンパニー、パワービジョン、アビス（ABYSS）、[LOOP](https://ja.wikipedia.org/wiki/ループ_\(テレビ技術会社\) "wikilink")、港家、[CC Factory](https://ja.wikipedia.org/wiki/クリエイティヴ・コア#CCファクトリー（旧TDKビデオセンター） "wikilink")、[麻布プラザ](../Page/麻布プラザ.md "wikilink")、4DS、ヴィジュアルベイ
+  - 音楽協力：[テレビ東京ミュージック](https://ja.wikipedia.org/wiki/テレビ東京ミュージック "wikilink")
+  - 制作協力：[ホールマン](../Page/ホールマン.md "wikilink")、[零CREATE](../Page/ゼロクリエイト.md "wikilink")
+  - 製作著作：[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")
+
+### 2012年7月3日放送分
+
+  - 構成：カミヤチョウ、石井裕之、寺坂直毅
+  - TD：吉田健吾
+  - カメラ：野瀬一成
+  - 照明：井町成宏
+  - 音声：西山恵美子
+  - ロケ技術：宮川量康、野中康弘
+  - アートプロデューサー：薬師寺哲郎
+  - デザイン：三重野基
+  - 大道具：長島直
+  - 小道具：植田幸奈
+  - 電飾：平野拓也
+  - アクリル装飾：八島貴広
+  - ロケ美術：和田修吾（ル・オブジェ・アール・スタジオ）
+  - ロゴデザイン：OHRYS BIRD
+  - CG：大隈商店
+  - 編集：富田一弘
+  - MA：武田明賢
+  - 音効：松田創（tree BLUE BEAT）
+  - 技術協力：テクノマックス、テレビ東京アート、港家
+  - AD：桐生拓典、石谷浩貴、萩原樹
+  - ディレクター：杠政寛、古畑雅之、辻正記
+  - ロケ演出：西重雄
+  - プロデューサー：荻野和人、酒井英樹
+  - 総合演出P：株木亘
+  - 制作協力：零CREATE
+  - 制作著作：テレビ東京
+
+### 過去のスタッフ
+
+  - プロデューサー：[太田哲夫](https://ja.wikipedia.org/wiki/太田哲夫 "wikilink")、犬飼佳春（テレビ東京）
+  - ディレクター：佐藤千春、町田貴、鈴木康彦、石井秀一、川島成友、森健、奧田照美、鹿野裕昭、富田晶子（ホールマン）、丸山剛、横井仁、村上健一、瀧原栄一、藤原千里、八木沼邦彦、前川誠、池田水穂子、松尾知明、松山尚広（ゼロクリエイト）
+  - 制作進行：松木大輔、山下真理子、小板橋通雄、横山勉、貝田彩、佐藤由幸、横井武志、齋藤和明、田中次郎、河合邦人、佐藤弘之（ホールマン）、帆足誠仁、内田拓志、菊地真介、今井勘太、浦弘二、降幡健太郎、垣東充生、石塚忠宏、森下景右、内海雅、寺野慎一郎、藤枝誠、井上嘉子、吉野友紀子、高瀬淳子、都築寿雄（ゼロクリエイト）
+  - ロケ演出：白井章満、鈴木隆浩（ゼロクリエイト）、奧山豊、升田智晴（ホールマン）
+  - ロケ編集：田中孝史、行木忍、前田幸祐、村田忠晴、大松大介、稲垣浩二、倉若奈々、十川海次郎、濱田昇、名和田健介、須永美佐子、波江野剛、中尾逸子、飯田健一、金本一仁、松浦良夫
+  - ロケ技術：大竹繁夫、後藤弘幸、野崎保志
+  - 構成：福地邦夫、高瀬真尚、下尾雅美
+  - 技術：三原正弘、小森和一、前田博司
+  - 映像：村田豪、野崎秀人、中林明浩、石田秀徳、澤谷忠則、小出薰
+  - カメラ：笹村武史、桜井典雄、橋本尚志、田中寿子
+  - 音声：奈良初男、村松敏男、松本直人
+  - 照明：小川圭介、平井務
+  - デザイン：監物幸代
+  - 美術進行：五月女裕之、森本士朗
+  - 大道具：石塚誠一、藤根太郎、三原光史
+  - 電飾：南陽謙一、瀬之口康弘、鳴瀬洋子、恩田恵造
+  - メイク：玉村ルミ
+  - 演出補：市村剛、柳澤健一郎、島本亮
+  - 番宣：丸田晋、宮岡貞成
+  - 演出：只野研治、岡部紳二、岩尾庄一郎、小長光信、菅直満、大原潤三（テレビ東京）
+
+### 『TVチャンピオンへの道\!\!』出版時のスタッフ
+
+1997年7月19日出版
+
+#### 出版スタッフ
+
+  - プロデューサー：村嶋隆子（テレビ東京）
+  - 文：ゆうむはじめ
+  - 取材：圷直樹
+  - カバーデザイン：五十嵐たかし
+  - イラスト：川内宗康
+  - 取材・編集：尾和みゆき（データハウス）
+
+#### 番組スタッフ
+
+  - プロデューサー：多田暁、太田哲夫（テレビ東京）、石川修（ゼロクリエイト）、白川健夫、手塚政之（ホールマン）
+  - ディレクター：村上健一、新美信二、酒井英樹、橋本元康、白井章満、森健、横井仁、鹿野裕昭、松山尚広、土方教裕
+  - 構成：藤岡俊幸、石田章洋、政宗史子
+  - 制作協力：[ゼロクリエイト](../Page/ゼロクリエイト.md "wikilink")、[ホールマン](../Page/ホールマン.md "wikilink")
+  - 製作：テレビ東京
+
+## ネット局
+
+<table>
+<thead>
+<tr class="header">
+<th><p>放送対象地域</p></th>
+<th><p>放送局</p></th>
+<th><p>系列</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TXN" title="wikilink">テレビ東京系列</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
+<td><p><a href="../Page/テレビ北海道.md" title="wikilink">テレビ北海道</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
+<td><p><a href="../Page/青森テレビ.md" title="wikilink">青森テレビ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">IBC岩手放送</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
+<td><p><a href="../Page/東北放送.md" title="wikilink">東北放送</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a></p></td>
+<td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a></p></td>
+<td><p>1993年3月までは、テレビ朝日系列との<a href="../Page/クロスネット局.md" title="wikilink">クロスネット局</a>。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
+<td><p><a href="../Page/福島テレビ.md" title="wikilink">福島テレビ</a></p></td>
+<td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
+<td><p><a href="../Page/長野放送.md" title="wikilink">長野放送</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/山梨県.md" title="wikilink">山梨県</a></p></td>
+<td><p><a href="../Page/テレビ山梨.md" title="wikilink">テレビ山梨</a></p></td>
+<td><p>TBS系列</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a></p></td>
+<td><p>日本テレビ系列</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/北陸放送" title="wikilink">北陸放送</a></p></td>
+<td><p>TBS系列</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/福井テレビジョン放送" title="wikilink">福井テレビ</a></p></td>
+<td><p>フジテレビ系列</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
+<td><p><a href="../Page/静岡朝日テレビ.md" title="wikilink">静岡朝日テレビ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
+<td><p><a href="../Page/テレビ愛知.md" title="wikilink">テレビ愛知</a></p></td>
+<td><p>テレビ東京系列</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/岐阜県.md" title="wikilink">岐阜県</a></p></td>
+<td><p><a href="../Page/岐阜放送.md" title="wikilink">岐阜放送</a></p></td>
+<td><p><a href="../Page/全国独立放送協議会.md" title="wikilink">独立協</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三重テレビ放送" title="wikilink">三重テレビ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a></p></td>
+<td><p>テレビ東京系列</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/滋賀県.md" title="wikilink">滋賀県</a></p></td>
+<td><p><a href="../Page/びわ湖放送.md" title="wikilink">びわ湖放送</a></p></td>
+<td><p>独立協</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/奈良県.md" title="wikilink">奈良県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/奈良テレビ放送" title="wikilink">奈良テレビ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/和歌山県.md" title="wikilink">和歌山県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ和歌山" title="wikilink">テレビ和歌山</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/鳥取県.md" title="wikilink">鳥取県</a><br />
+<a href="../Page/島根県.md" title="wikilink">島根県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山陰放送" title="wikilink">山陰放送</a></p></td>
+<td><p>TBS系列</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県<br />
+香川県</a></p></td>
+<td><p><a href="../Page/テレビせとうち.md" title="wikilink">テレビせとうち</a></p></td>
+<td><p>テレビ東京系列</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
+<td><p><a href="../Page/中国放送.md" title="wikilink">中国放送</a></p></td>
+<td><p>TBS系列</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a></p></td>
+<td><p>日本テレビ系列</p></td>
+<td><p>1993年9月までは、テレビ朝日系列とのクロスネット局。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/南海放送" title="wikilink">南海放送</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/高知県.md" title="wikilink">高知県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高知放送" title="wikilink">高知放送</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
+<td><p>テレビ東京系列</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/佐賀県.md" title="wikilink">佐賀県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サガテレビ" title="wikilink">サガテレビ</a></p></td>
+<td><p>フジテレビ系列</p></td>
+<td><p>途中打ち切り</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
+<td><p><a href="../Page/テレビ長崎.md" title="wikilink">テレビ長崎</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
+<td><p><a href="../Page/テレビ熊本.md" title="wikilink">テレビ熊本</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
+<td><p><a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a></p></td>
+<td><p>日本テレビ系列<br />
+フジテレビ系列</p></td>
+<td><p>1993年9月までは、テレビ朝日系列とのトリプルネット局。<br />
+2000年代半ばまで</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a></p></td>
+<td><p>TBS系列</p></td>
+<td><p>2000年代半ばから</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮崎放送" title="wikilink">宮崎放送</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/南日本放送" title="wikilink">南日本放送</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
+<td><p><a href="../Page/沖縄テレビ放送.md" title="wikilink">沖縄テレビ</a></p></td>
+<td><p>フジテレビ系列</p></td>
+<td><p>2000年代半ばまで</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/琉球朝日放送.md" title="wikilink">琉球朝日放送</a></p></td>
+<td><p>テレビ朝日系列</p></td>
+<td><p>2000年代半ばから</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - TXN6局と独立U局4局は同時ネット（TXN6局のうち1〜2局は不定期にローカルの特番・野球中継などが入る場合があり、別時間・日時で代替放送）。
+  - [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")では毎週日曜日19:30〜20:54（JST。当該時間帯にプロ野球中継がある場合は日曜日の昼間帯または土曜日に繰り上げて放送される）に、1年以上前の内容を地上波の放送順ではないが地上波の放送終了後も継続して放送していた。
+  - 海外でも、[ハワイでNGN](../Page/ハワイ州.md "wikilink")（Nippon Golden Network。ケーブルTVの日本語専門チャンネル）が約1年近く遅れの番組を英語字幕付で放送しており（毎週現地時間水曜20:35〜21:15。CMなし。日本で1回の放送を2回に分けて放送）、[アメリカ本土や](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")などでも[テレビジャパン](https://ja.wikipedia.org/wiki/テレビジャパン "wikilink")を通じ2005年10月から放送が開始されている（遅れ期間は不明）。
+  - ネット局によっては青森テレビ・山陰放送・中国放送・サガテレビ（一時期のみ）など、編成の都合から1時間に編集して放送する局があった。福島テレビでの視聴率は非常に高く、何度も再放送されていた。
+  - テレビ東京では[1993年](../Page/1993年.md "wikilink")〜[1996年](../Page/1996年.md "wikilink")頃まで毎週日曜日午前11時台に、その後[2000年](../Page/2000年.md "wikilink")頃までは毎週金曜日の午後1時頃の時間帯に、再放送されていたことがあった。再放送は殆どが1時間に編集されたものであった。
+
+## 書籍
+
+放映された内容を元に、番組本としては次の3冊が刊行されている。
+
+  - 大食い入門 ISBN 4-7897-0911-6 ソニーマガジンズ刊 1994年10月発行
+      - 第1〜4回頃までの選手や登場した店の紹介。
+  - TVチャンピオンへの道\!\! ISBN 4-88718-370-4 データハウス刊 1997年7月発行
+      - 番組で誕生した“通もの”チャンピオン20人にスポットを当て、選手権当時を振り返ったインタビュー等を掲載。また、チャンピオンおすすめの商品・スポットなどやコレクションの様子なども載っている。
+  - TVチャンピオン 大食い選手権 ISBN 4-575-29349-0 双葉社刊 2002年3月発行
+      - 当時の大食い選手権で活躍していた選手たちへのインタビューや大食い選手権の裏側、過去の大食い選手権の歴史等をまとめている。
+
+この他、「ぴあ」との共同企画でパンや横浜中華街の本を出版するなど多数。
+
+## コンピューターゲーム
+
+  - TVチャンピオン（1994年10月28日、ユタカ）
+      - このゲームではパチンコと大食いの2種目のみが扱われる。大食いでは、落下するわんこそばをキャッチしたり、岡持ちの中身を揃える神経衰弱を行ったりする。それでもステージごとに違った内容のミニゲームになるため、こだわりを感じる作品にはなっている。パチンコ競技では4ステージを行うが、各ステージごとに制限時間が60分の試合を行う、良く言えば大ボリュームの、悪く言えば冗長な内容であり、実際のプレイでは9対1の比率でパチンコの方により多く時間を使う。当時のゲームボーイは充電池が別売りのため、単3乾電池でプレイしている低年齢層にとってはかなり非経済的なゲームであったと言える。そのため「もしかしてこれは、このゲームきっかけに本物のパチンコ王になって、単3乾電池に困らない経済力を身に着けろ、という開発者からの隠れたメッセージがあるのでは……いや、それはないか」という皮肉が2017年のゲーム専門ムックに掲載される事態となっている\[10\]。
+
+## 関連項目
+
+  - [早食い](https://ja.wikipedia.org/wiki/早食い "wikilink")（「大食い」についてもここで取り扱われる）
+  - [フードファイター](https://ja.wikipedia.org/wiki/フードファイター "wikilink")
+  - [プルプルラビリンス](../Page/プルプルラビリンス.md "wikilink")
+  - [バッテンマスク](../Page/バッテンマスク.md "wikilink")（主に「親子●●王選手権」などで使用）
+  - [元祖\!大食い王決定戦](../Page/元祖!大食い王決定戦.md "wikilink")
+  - [TVチャンピオン2](../Page/TVチャンピオン2.md "wikilink")
+  - [チャンピオンズ](https://ja.wikipedia.org/wiki/チャンピオンズ "wikilink")
+  - [TVチャンピオンR](https://ja.wikipedia.org/wiki/TVチャンピオンR "wikilink")
+  - [TVチャンピオン極 〜KIWAMI〜](https://ja.wikipedia.org/wiki/TVチャンピオン極_〜KIWAMI〜 "wikilink")（地上波テレ東系列は30分間、[BSテレ東は](../Page/BSテレビ東京.md "wikilink")1時間。）
+
+## 脚注
+
+## 外部リンク
+
+  - [TVチャンピオン](http://www.tv-tokyo.co.jp/tvchamp1/index.htm)
+  - [TVチャンピオン2](http://www.tv-tokyo.co.jp/tvchamp/index.html)
+  - [「TVチャンピオン」番組メイキング（テレビコ）](http://www.tvco.tv/interview/index.php?action=detail&id=19)
+
+[Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:TVチャンピオン](https://ja.wikipedia.org/wiki/Category:TVチャンピオン "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink")
+
+1.  当初は7月28日土曜日の『[土曜スペシャル](https://ja.wikipedia.org/wiki/土曜スペシャル_\(テレビ東京\) "wikilink")』枠である19:00-20:54となっていたが、ローカル番組扱いで土曜洋画劇場「[リーグ・オブ・レジェンド/時空を超えた戦い](https://ja.wikipedia.org/wiki/リーグ・オブ・レジェンド/時空を超えた戦い "wikilink")」の編成が組まれたため当初の予定を変更。
+2.  通常、火曜21時台は『開運\!なんでも鑑定団』が同時ネット放送されるが、同日はTXN系列局が[ロンドンオリンピック中継で同番組自体が放送休止となったため](https://ja.wikipedia.org/wiki/ロンドンオリンピック_\(2012年\) "wikilink")、[穴埋め番組](https://ja.wikipedia.org/wiki/穴埋め番組 "wikilink")扱いとして放送された。
+3.  ただし、稀にチャンピオンとなった人が仕事の都合などでスタジオに来られず、電話出演などでの登場となったケースもあった。
+4.  初回及び第2回の会場内では**スターパチンカー日本一選手権**のタイトルであった。
+5.  [全国パチンコ女王選手権](https://www.youtube.com/watch?v=mqvxj1CaPsg) - Youtube、2016年9月5日閲覧。
+6.  [第248回 テレビ東京 放送番組審議会報告　](http://www.tv-tokyo.co.jp/main/yoriyoi/singik/248.htm)テレビ東京(2000-5-17)2008年11月22日閲覧
+7.  問題として出されたのは、5種類のシロップが入った5本の試験管である。
+8.
+9.
+10. [株式会社QBQ](http://qbq.jp/)編　『ゲームボーイクソゲー番付』マイウェイ出版発行、2017年。ISBN 9784865117790 p76-77

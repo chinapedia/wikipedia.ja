@@ -1,0 +1,39 @@
+> この記事は[WBS](https://ja.wikipedia.org/wiki/WBS)から翻訳されています。
+
+
+**WBSゴールデンナイター**（ダブルビーエスゴールデンナイター）は、[和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")（WBS）で放送される[ラジオの](../Page/ラジオ番組.md "wikilink")[プロ野球中継](../Page/プロ野球中継.md "wikilink")。
+
+## 概要
+
+水曜 - 金曜に[NRNナイター](../Page/全国ラジオネットワーク.md "wikilink")（キー局：[ニッポン放送](../Page/ニッポン放送.md "wikilink")）をネットして放送する番組。
+
+他地方のNRNクロスネット局と同様に、[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")戦中心の編成となっており、同じ[近畿圏の在阪AM局](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")（[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")・[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）の[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦中心の編成とは異なる。このため、これらの局と中継カードが重なることは少ない。和歌山県内で聴取できるラジオ局としては、海を挟んだ隣の[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")にある[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")の『[JRTゴールデンナイター](../Page/JRTゴールデンナイター.md "wikilink")』とは中継カードが全く同一になる\[1\]。また、ABCやMBSが制作を担当するゲームをネットすることもある（[後述](https://ja.wikipedia.org/wiki/#制作担当局 "wikilink")）。
+
+[2009年](../Page/2009年.md "wikilink")までは、火・土・日曜に[JRNナイター](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")（キー局：[TBSラジオ](../Page/TBSラジオ.md "wikilink")）を編成。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に土・日曜が、[2018年](../Page/2018年.md "wikilink")から火曜の放送がなくなったため、NRNのみの3日間の編成に縮小された。各曜日とも後番組には、TBSラジオ制作の定時番組を編成（土・日は、後に独自編成に移行）。
+
+基本的に春編成最終日（9月最終週もしくは10月第1週）をもって放送を終了する。そのため、[日本シリーズや](../Page/日本選手権シリーズ.md "wikilink")[クライマックスシリーズ](../Page/クライマックスシリーズ.md "wikilink")は、中継しない。いずれの期間とも、[ニッポン放送制作のナイターオフ期の番組を](https://ja.wikipedia.org/wiki/ニッポン放送平日ナイターオフ18時台夕方帯ワイド番組 "wikilink")、同局からの[裏送り](../Page/裏送り.md "wikilink")で放送する\[2\]。
+
+[南海電気鉄道](../Page/南海電気鉄道.md "wikilink")がWBSの筆頭株主であることと、同電鉄沿線の[大阪湾](../Page/大阪湾.md "wikilink")・[泉州地区などで受信できる環境にあることから](../Page/和泉国.md "wikilink")、南海電鉄が親会社の[南海ホークスホームゲーム](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")（主として日曜日のデーゲーム）を中心に、[南海グループ](../Page/南海グループ.md "wikilink")[単独協賛で自社製作](../Page/一社提供.md "wikilink")・放送していたことがある。また、応援番組『**ガッツ\!\!ホークス**』があった。
+
+## 放送時間
+
+  - 水曜 - 金曜 18:30 - 21:00
+      - 最大延長は22:00。延長した場合は『ミュージックスケッチ』（フィラー番組）の開始時間を遅らせて対応。
+      - 2010年頃までは、延長制限なしで試合終了まで中継していた。その後、最大延長が21:50に制限され、2016年度からは、『[スポーツ伝説](https://ja.wikipedia.org/wiki/スポーツ伝説 "wikilink")』（ニッポン放送制作）のネット打ち切りに伴い、最大延長が22:00まで拡大された。
+      - 21時台に自社制作の単発番組が放送される場合は、最大延長に更なる制限が掛かる。『県議会ダイジェスト』（[和歌山県議会](../Page/和歌山県議会.md "wikilink")定例会期間中、随時放送）放送時は21:30\[3\]までとなるが、21時台が全編単発番組となる場合は、延長なしの21:00で中継を打ち切る。
+      - 中継を途中で打ち切る際は、2017年シーズンまでは、お断りのアナウンス等は一切なく、所定の時刻になると直ちに中継音声を遮断しCMに入った。2018年シーズンからは、平井理弘（和歌山放送アナウンサー）による事前収録の音源で、中継を終了する旨のアナウンスを流してCMに入る。
+      - 日曜日に中継を行っていた時代は、[和歌山県](../Page/和歌山県.md "wikilink")内の各市町村で大規模な選挙が行われる場合、開票速報のためにナイター中継を途中で打ち切ることがあった。
+
+## テーマソング
+
+下記は過去に使用していた曲で、2017年現在は別の曲を使用。
+
+  - [行進曲](../Page/行進曲.md "wikilink")・[士官候補生](../Page/士官候補生.md "wikilink")（[ジョン・フィリップ・スーザ](../Page/ジョン・フィリップ・スーザ.md "wikilink")作曲）
+
+## 脚注
+
+[Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:和歌山放送の帯番組](https://ja.wikipedia.org/wiki/Category:和歌山放送の帯番組 "wikilink") [Category:南海ホークス](https://ja.wikipedia.org/wiki/Category:南海ホークス "wikilink") [Category:南海グループ](https://ja.wikipedia.org/wiki/Category:南海グループ "wikilink")
+
+1.  但し、近年は[四国アイランドリーグplus](../Page/四国アイランドリーグplus.md "wikilink")・[徳島インディゴソックス](../Page/徳島インディゴソックス.md "wikilink")のホームゲーム中継に差し替えるケースも存在する。
+2.  ニッポン放送では、日本シリーズ・クライマックスシリーズ共に、中継を行う（クライマックスシリーズは、基本的にセ・リーグの試合）。
+3.  2015年度までは21:20。

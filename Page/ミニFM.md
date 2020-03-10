@@ -1,0 +1,219 @@
+> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/画像:Ryogoku_Kokugikan_Tsuriyane_05212006.jpg "wikilink")）\]\] **ミニFM**とは、[電波法](../Page/電波法.md "wikilink")に規定する**[免許を要しない無線局](../Page/免許を要しない無線局.md "wikilink")**の内、微弱電波で[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")の[周波数帯](https://ja.wikipedia.org/wiki/周波数帯 "wikilink")を使用して[放送](../Page/放送.md "wikilink")するもののことである。 [微弱無線局](https://ja.wikipedia.org/wiki/微弱無線局 "wikilink")であるため[無線局免許状](../Page/無線局免許状.md "wikilink")や[無線従事者](../Page/無線従事者.md "wikilink")は必要なく、**[放送法](../Page/放送法.md "wikilink")上の[放送局](../Page/放送局.md "wikilink")でもない**\[1\]。
+
+[コミュニティFM](../Page/コミュニティ放送.md "wikilink")（CFM）との混同を避け、**マイクロFM**と称することもある。
+
+## 概要
+
+比較的簡単に開設できるため、[児童館](../Page/児童館.md "wikilink")や[大学生](https://ja.wikipedia.org/wiki/大学生 "wikilink")の課外活動、[学園祭](https://ja.wikipedia.org/wiki/学園祭 "wikilink")や[運動会](../Page/運動会.md "wikilink")などの町の話題や地域のコミュニケーションの場としての実況放送、[商店街](../Page/商店街.md "wikilink")や[町興しや](../Page/地域おこし.md "wikilink")[イベント](../Page/イベント.md "wikilink")の会場案内などに使われる。反面、時間的にも空間的に限定されたものであり、内容としては個人又は[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")の[趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")やイベント会場の構内放送の延長上にあるものがほとんどである。
+
+広範囲をカバーしようと単に[出力を大きくするならば](../Page/空中線電力.md "wikilink")、第二級[陸上特殊無線技士](../Page/陸上特殊無線技士.md "wikilink")以上又は第三級[総合無線通信士](https://ja.wikipedia.org/wiki/総合無線通信士 "wikilink")以上の[無線従事者](../Page/無線従事者.md "wikilink")が管理する[地上基幹放送局](https://ja.wikipedia.org/wiki/地上基幹放送局 "wikilink")の免許を要する\[2\]こととなる。また、複数の場所から送信するにしても同一[周波数を使う限り相互干渉は避けられないので](../Page/電波の周波数による分類.md "wikilink")、不感地帯を設けざるを得ない。このような場合には[アンテナを](https://ja.wikipedia.org/wiki/空中線 "wikilink")[漏洩同軸ケーブル](https://ja.wikipedia.org/wiki/漏洩同軸ケーブル "wikilink")（LCX、Leaky Coaxial cable）に置き換えて敷設する。 LCXを施工できるのは、[JRA](../Page/日本中央競馬会.md "wikilink")[競馬場](../Page/競馬場.md "wikilink")での[グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")や[AM放送](https://ja.wikipedia.org/wiki/AM放送 "wikilink")の[再送信](https://ja.wikipedia.org/wiki/再送信 "wikilink")、[両国国技館](../Page/両国国技館.md "wikilink")での[大相撲中継](../Page/大相撲中継.md "wikilink")の再送信\[3\]、[富士スピードウェイ](https://ja.wikipedia.org/wiki/富士スピードウェイ "wikilink")、[鈴鹿サーキット](../Page/鈴鹿サーキット.md "wikilink")、[住之江競艇場](https://ja.wikipedia.org/wiki/住之江競艇場 "wikilink")での実況放送など一定以上の来場者が見込める施設であり、事業的な見地からもイベント開催時でないと行っていない。また、FM放送再送信や非常割込放送を行う道路[トンネル](../Page/トンネル.md "wikilink")や地下[駐車場](../Page/駐車場.md "wikilink")があるが、これもLCXによるのでミニFMの一種といえる。これは遮蔽された空間だからこそ地上基幹放送局と同一周波数で再送信できるのである。
+
+[地下街](../Page/地下街.md "wikilink")のように広範囲で[ノイズが大きくなると](https://ja.wikipedia.org/wiki/ノイズ_\(電子工学\) "wikilink")、LCXでは不十分となる。 [放送波遮蔽対策推進協会](https://ja.wikipedia.org/wiki/放送波遮蔽対策推進協会 "wikilink")では、FM放送再送信を[実験試験局](https://ja.wikipedia.org/wiki/実験試験局 "wikilink")により対処してきたが、一部が地下街の管理会社に事業承継され、この際に[受信障害対策中継放送](https://ja.wikipedia.org/wiki/受信障害対策中継放送 "wikilink")の制度による[特定地上基幹放送局](https://ja.wikipedia.org/wiki/特定地上基幹放送局 "wikilink")（通称[ギャップフィラー](https://ja.wikipedia.org/wiki/ギャップフィラー "wikilink")）に種別変更された。 実験試験局には第三級[陸上特殊無線技士](../Page/陸上特殊無線技士.md "wikilink")以上の無線従事者による管理を要するが、[適合表示無線設備](https://ja.wikipedia.org/wiki/適合表示無線設備 "wikilink")を用いたギャップフィラーにば無線従事者が不要だからである。 いずれにしても[無線局](https://ja.wikipedia.org/wiki/無線局 "wikilink")の免許を要するのでミニFMとはいえない。
+
+[東海道・山陽新幹線](../Page/東海道・山陽新幹線.md "wikilink")、[東北新幹線](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")などの[鉄道車両](../Page/鉄道車両.md "wikilink")内でのAM放送・FM放送再送信のサービスは、車両単位のミニFMといえる。開始当初は沿線で地上基幹放送局が使用していない周波数を選定したものの、新規開局したものと周波数が一致又は近接していることがあり、受信に支障をきたすこともある。 [ドライブインシアター](../Page/ドライブインシアター.md "wikilink")も初期はともかく[カーラジオ](https://ja.wikipedia.org/wiki/カーラジオ "wikilink")でFM放送が受信できるようになると[映画](../Page/映画.md "wikilink")上映の際の音響装置として使用されることとなり、これもミニFMといえる。
+
+恒久的に送信しているものは、ハイウェイラジオ上三川（[北関東自動車道](../Page/北関東自動車道.md "wikilink")[壬生パーキングエリア](../Page/壬生パーキングエリア.md "wikilink")で実施）などごく一部の[路側放送](../Page/路側放送.md "wikilink")のFM放送波による再送信および道路トンネルなどのFM放送再送信などの僅かな例しか見ない。
+
+**[\#沿革](https://ja.wikipedia.org/wiki/#沿革 "wikilink")**にもあるように話題になったのはせいぜい[1990年代](../Page/1990年代.md "wikilink")前半までで、長引く不況から聴取者の限られるミニFMは経費削減の対象となりやすく、JRA競馬場のグリーンウェーブ（旧称ターフサウンドステーション（TSS））、[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")のFMハマスタ、[浅草花やしき](https://ja.wikipedia.org/wiki/浅草花やしき "wikilink")の[あさくさFM](https://ja.wikipedia.org/wiki/あさくさFM "wikilink")、両国国技館のどすこいFMなどのイベント施設や東海道・山陽新幹線のミュージックサービスなど、独自放送をしていたミニFMが廃止または[ラジオ放送](https://ja.wikipedia.org/wiki/ラジオ放送 "wikilink")の再送信のみに縮小している。 ドライブインシアターも映画興行の変化に伴い、[21世紀](../Page/21世紀.md "wikilink")初頭には常設施設は皆無となり、イベントとして臨時に行うものしか見られない。
+
+一方、[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")の台頭は、かつてならミニFMを利用したであろう[企業](../Page/企業.md "wikilink")・[団体](../Page/団体.md "wikilink")がこれを利用することとなり、とって代られた形となった。 [エフエム・ギグ](../Page/エフエム・ギグ.md "wikilink")、[ソラトニワ](https://ja.wikipedia.org/wiki/ソラトニワ "wikilink")、[渋谷クロスFM](https://ja.wikipedia.org/wiki/渋谷クロスFM "wikilink")などはミニFMが主体のように事業を開始したが、実態はインターネットラジオが主でミニFMは従あるいは廃止している。 個人で行うのも、かつてのラジオ少年が年を重ねた中高年者や、インターネットラジオには手が出せないが放送に興味を持つ小中学生などしか見当たらなくなった。 送信機も容易に入手できるのは、組立てを要する[キット](https://ja.wikipedia.org/wiki/キット "wikilink")か[オーディオ機器用](../Page/音響機器.md "wikilink")[アクセサリー](https://ja.wikipedia.org/wiki/アクセサリー "wikilink")の[FMトランスミッター](../Page/FMトランスミッター.md "wikilink")しかない。
+
+## 解説
+
+### 微弱電波の定義
+
+「微弱電波」とは、電波法第4条第1項に規定する「発射する[電波](../Page/電波.md "wikilink")が著しく微弱な無線局」によるもので、これをうけた[総務](../Page/総務省.md "wikilink")[省令](../Page/省令.md "wikilink")[電波法施行規則](../Page/電波法施行規則.md "wikilink")第6条第1項第1号に「無線設備から3[メートル](../Page/メートル.md "wikilink")の距離において、[電界強度](https://ja.wikipedia.org/wiki/電界強度 "wikilink")が毎メートル500[マイクロ](../Page/マイクロ.md "wikilink")[ボルト以下のもの](../Page/ボルト_\(単位\).md "wikilink")」と1986年（昭和61年）\[4\]から規定されており、この距離から微弱電波に係わる技術者などは**3m法**と称している。 電界強度は出力のみではなくアンテナの形状や設置する高さが総合して関係するので、測定方法が総務省[告示](../Page/告示.md "wikilink")\[5\] \[6\]として規定されている。 この電界強度を[ダイポールアンテナ](../Page/ダイポールアンテナ.md "wikilink")を使った場合の送信電力に換算すると50nW\[7\]となる。 試験場などの設備が無ければ告示の条件による試験は困難であり「微弱無線設備性能証明」を行う企業がある。電波法令上の義務ではないが違法性が無いことを証明するにはこれを利用すればよい。
+
+1996年（平成8年）までは規則改正の経過措置\[8\]として、「100mの距離において15μV/m以下」が許容されていた。 3m法と比較すると、[自由空間](https://ja.wikipedia.org/wiki/自由空間 "wikilink")での[電波伝搬特性を基に](https://ja.wikipedia.org/wiki/電波伝播 "wikilink")100mでの値を3mでの値に換算した等価なものにみえるが、実際には100mの距離があると大地反射の影響を無視できず、伝搬減衰量は自由空間でのものより大きくなる。10m以上の距離で大地反射を考慮すると15μV/mの電界強度となるのは30m\[9\]と計算される。これは、実用感度が100μV/m程度（地上基幹放送局の[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")の電界強度の最低限が250μV/mと定義されている\[10\]のもこのため）の市販の廉価なFMラジオでの到達距離におおむね相当する。
+
+この微弱電波を超える出力で送信すれば電波法第110条第1項違反となり[総合通信局](../Page/総合通信局.md "wikilink")（[沖縄総合通信事務所](https://ja.wikipedia.org/wiki/沖縄総合通信事務所 "wikilink")を含む。従前は地方電気通信監理局、地方電波監理局、沖縄郵政管理事務所。）による取締り、刑事告発の対象となる。
+
+### 周波数の選定
+
+放送受信の妨害にならないよう、既設の地上基幹放送局およびその周辺の周波数を除いて使用周波数を決定しなければならない。 ここで一般的なFMラジオの[中間周波数](../Page/中間周波数.md "wikilink")（IF）は10.7MHzなので、ミニFMの10.7MHz上の周波数が使用されていれば、ミニFMの10.7MHz下の周波数の[イメージ周波数となり](https://ja.wikipedia.org/wiki/スーパーヘテロダイン受信機#イメージ周波数 "wikilink")、イメージ[混信](../Page/混信.md "wikilink")となる。
+
+2012年（平成24年）まではFM放送の直上の周波数の90-108MHzに[V-low帯と呼ばれる](https://ja.wikipedia.org/wiki/テレビ周波数チャンネル#移動受信用地上基幹放送 "wikilink")[アナログ](../Page/NTSC.md "wikilink")[テレビジョン放送](../Page/テレビジョン放送.md "wikilink")の1-3chがあったが、ミニFMの周波数をどこに設定してもテレビ放送の映像周波数と音声周波数は既設のFM放送局受信のイメージ周波数となりうるものではなかった。 しかし、2014年（平成26年）より[FM補完放送](https://ja.wikipedia.org/wiki/FM補完放送 "wikilink")が90-94.9MHzで開始され、95MHzまでがFM放送の周波数帯と認識されるようになった。 更に2016年（平成28年）より[i-dio](https://ja.wikipedia.org/wiki/i-dio "wikilink")の愛称で[マルチメディア放送](https://ja.wikipedia.org/wiki/マルチメディア放送 "wikilink")が開始された。 マルチメディア放送の周波数は101.285714MHz又は105.571429MHz、占有周波数帯域幅は使用セグメント数によるが最大9セグメントで3.857143MHz（±1.978571MHz）である。 ここでミニFMの周波数を90.6MHz又は94.9MHzとすると79.9MHz又は84.2MHzを中心に最大±1.98MHzがイメージ周波数となり、これらの周波数でFM放送をしていたらイメージ混信となり受信妨害となる。つまり補完放送の周波数帯をミニFMに利用することはイメージ混信の点から推奨できない。
+
+### 送信機とアンテナ
+
+ミニFMを開設するには、送信機とアンテナが必要となる。
+
+総務省は、微弱電波の範囲を超えるおそれがある無線機を一般市場で購入し測定を行い、この範囲を超えるものについて公表する[無線設備試買テストをしている](https://ja.wikipedia.org/wiki/不法無線局#無線設備試買テスト "wikilink")。 試買テストにより電界強度が基準を超えると公表された機器 \[11\] 中にはFMトランスミッターもあり、製造・販売業者は自主回収 \[12\] している。 **微弱無線マーク**（**ELPマーク**）は、この状況に対応して民間の任意制度として開始されたもので微弱無線設備と証明された機器が登録されるが、登録されたFMトランスミッターはロッドアンテナやアンテナ線などの露出したアンテナがない埋込構造のものばかりである。 これは、主に[自動車](../Page/自動車.md "wikilink")の車室内での使用を想定したものであるが、安易に外部アンテナを接続できないようにして電界強度の基準を超えないようにすることでもある。 一方で露出したアンテナを持つものは、かつては[家電製品](https://ja.wikipedia.org/wiki/家電製品 "wikilink")[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")が製造し販売店で容易に入手できたが、すでに製造を中止している。
+
+このような事情から、一般人が従前のような外部端子をもつ又はアンテナが露出した送信機の完成品を入手するとしたら、[ガレージキット](../Page/ガレージキット.md "wikilink")を製造するガレージメーカーに相当するような弱小業者が自社[ウェブサイト](../Page/ウェブサイト.md "wikilink")で販売するものか、国内外の[通信販売](../Page/通信販売.md "wikilink")サイトに出品されているものしかない。 しかし、電界強度は送信機の出力とアンテナの形状や高さが一体となって決定されるもので後述のように外部アンテナを接続すれば基準値を超えることは容易なこと、送信機の製造や販売に法規制は無いことから、基準値を超過すれば製造・販売業者ではなく使用者が責任を問われる。 このことは業務用として事業者向けに受注生産するメーカーが存在しないという意味ではなく、使用する目的や場所などの仕様を明確にすれば違法性の無い機器を製造する。
+
+完成品以外の送信機は組立キットしかなく、電子技術の知識が無い場合は製作が難しい。 完全に自作するには、[PLLシンセサイザーにより安定度が高く](https://ja.wikipedia.org/wiki/周波数シンセサイザ "wikilink")、高セパレーション（ステレオ送信時に左右の音が交わらない）の物が望ましい。 PLLシンセサイザーで周波数変調すると、PLLの周波数引込特性により、変調波の低域周波数成分がカットされる。PLLシンセサイザーの[VCOを安定に発振させると数μW](https://ja.wikipedia.org/wiki/電圧制御発振器 "wikilink")〜数mW程度の出力となるが、筐体輻射として外部に漏れるとこれだけで基準値を超えてしまうおそれがあるため、VCOを[シールド構造にするか非常に小形に作らねばならない](https://ja.wikipedia.org/wiki/電磁シールド "wikilink")。 後段についても基準値を超えない構造を要する。 つまり、送信機製作の技術的な難しさは、いかに電波を安定に弱くし、基準値をクリアするかにある。
+
+送信機とアンテナとの間の接続は[同軸ケーブル](../Page/同軸ケーブル.md "wikilink")を利用するが、一般に送信機の出力[インピーダンス](../Page/インピーダンス.md "wikilink")は50Ωのため受信用の75Ωより50Ωを用いるのがよい。 インピーダンス変換はマッチングトランス（インピーダンス整合器）または簡易的には25Ωまたはその近似値の無誘導抵抗を直列接続にする。 不整合損失を減らして許容値を超えた場合、こんどは送信出力を低下しなければならないので、インピーダンスを必要以上に気にすることは無い。
+
+飛距離を稼ごうとして高利得のアンテナを使用するとしても、送信側にFM用[八木アンテナなどの高指向性アンテナを安易に用いたら](../Page/八木・宇田アンテナ.md "wikilink")、特定方向にのみ電界強度が増大して基準値をオーバーしやすくなる。 これはサービスエリア、つまりどこまで確実に聴取できる範囲とするかに係わる問題でもあり、例えば施設の構造により、一部に不感地帯ができるのを承知の上で複数の場所にアンテナを設置する、臨時のイベントでアンテナではなくLCXを使用するなどの判断につながる。
+
+ところで電界強度の測定方法を規定した告示では、被測定機器を高さ1.5mの台（但し、アンテナの下端が地上高0.5m未満となるときは下端を地上高0.5m）に置いて測定するもの \[13\] としている。 このことは、ELPマーク機器をビルの屋上や柱など高所に設置して、地上高1.5mに設置した場合より遠距離で受信できるようにしても違法性は無いと言える。
+
+ミニFMを開設するにあたり、トンネルや駐車場または競技場や展示場などの恒久的な施設、スポーツ大会やドライブインシアターなどの行事であれば専門の施工業者やイベント業者によるが、零細な団体や個人で技術的な支援も得られないのならば、むやみに送信機の出力やアンテナを大きくするのではなく、違法性の無い機器をいかに見通しのきく場所に設置するかが重要になる。
+
+[受信設備についての法規制は無いため高利得のアンテナを使用するのが有利ではあるが](https://ja.wikipedia.org/wiki/無線設備#受信設備 "wikilink")、市販のFM放送用アンテナは携帯するには大きすぎ取扱いも不便なので、聴取者にラジオばかりでなくアンテナまで準備を呼びかけることは現実的ではない。 むしろ、イベントによってはラジオを[レンタル](../Page/レンタル.md "wikilink")することも必要になる。
+
+### 運用
+
+  - 電波法
+
+免許不要であってもミニFMは無線局の一種であり、電波法第82条によりミニFMの電波が「他の[無線設備](https://ja.wikipedia.org/wiki/無線設備 "wikilink")の機能に継続的かつ重大な障害を与えるとき」は、その障害を除去するための措置をとることを命じられることがあり、総務省職員により検査されることもある。
+
+また、次のようなことは電波法第9章の罰則の対象である。
+
+  - 自己又は他人に利益をもたらしたり他人に損害を与える虚偽の事項、ニセの「」（[遭難信号](https://ja.wikipedia.org/wiki/遭難信号 "wikilink")）の発信、[日本国憲法](https://ja.wikipedia.org/wiki/日本国憲法 "wikilink")及び政府を暴力で破壊する主張、猥褻な内容を送信すること。
+  - [警察無線](../Page/警察無線.md "wikilink")、[消防無線](../Page/消防無線.md "wikilink")などの重要無線通信を妨害すること。
+
+<!-- end list -->
+
+  - 著作権法
+
+ミニFMであっても[著作権法](../Page/著作権法.md "wikilink")の対象となるため、著作物を無断で送信する事は同法の 例外規定によるものを除き、違法である。
+
+## 沿革
+
+[NHK-FMが全県に普及し](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")[民放局が](../Page/民間放送.md "wikilink")[東京](../Page/東京.md "wikilink")、[名古屋市](../Page/名古屋市.md "wikilink")、[大阪市](../Page/大阪市.md "wikilink")、[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")に開局した[1970年代](../Page/1970年代.md "wikilink")にも類似の事例があったといわれるが、散発的で詳細は不明である。送信機の市販品も無く、[工作少年](https://ja.wikipedia.org/wiki/工作少年 "wikilink")、ラジオ少年といわれた年少者がラジオ雑誌を見て製作した送信機を用いた製作後の余技というべきものである。ただ、1970年代末頃には雑誌の広告にもトランスミッター（送信機）の完成品が見られるようになる。
+
+1979年（昭和54年）2月には、[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")で最大20Wの出力で送信していた「[FM西東京](https://ja.wikipedia.org/wiki/FM西東京_\(海賊放送\) "wikilink")」（CFMの「[エフエム西東京](../Page/エフエム西東京.md "wikilink")」とは無関係）が摘発された。
+
+同年7月25日号の『[POPEYE](../Page/POPEYE.md "wikilink")』には「100m放送局の面白い使い方」という記事が掲載 \[14\] \[15\] されている。これが一般人の耳目をひくようなカルチャー誌に取り上げられた走りであろう。
+
+1980年（昭和55年）には、[大阪芸術大学](../Page/大阪芸術大学.md "wikilink")の学生が「ミニコミFM放送サークル」と称して活動を始めた\[16\]。
+
+1982年（昭和57年）8月には音楽プロデューサーの[上野義美](https://ja.wikipedia.org/wiki/上野義美 "wikilink")が [港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[青山の](../Page/青山_\(東京都港区\).md "wikilink")[キラー通り](https://ja.wikipedia.org/wiki/キラー通り "wikilink")に「KIDS」を立ち上げた。これがミニFMの嚆矢（昭和57年8月5日 [スポーツ報知](../Page/スポーツ報知.md "wikilink")）とされることがある。これは、ロックバンド[C-C-B](../Page/C-C-B.md "wikilink")がこの局の企画で生まれたからで、商業的な側面をとらえてのことである。
+
+県域民放局が開局し、[評論家](../Page/評論家.md "wikilink")の[粉川哲夫](../Page/粉川哲夫.md "wikilink")が自由ラジオを提唱した1982年から1984年（昭和59年）ごろがブームであった。ラジオ雑誌のみではなく[新聞](../Page/新聞.md "wikilink")、[テレビ](../Page/テレビ.md "wikilink")等の[マスメディア](../Page/マスメディア.md "wikilink")に取り上げられたり、書籍『ミニFM全国マップ』（[亜紀書房](https://ja.wikipedia.org/wiki/亜紀書房 "wikilink") 1986年）が発行され128局が掲載されているが、日本全国で2000局はあった\[17\]とも書かれている。 この中にはネットワークを組んで[カセットテープ](../Page/カセットテープ.md "wikilink")に録音した放送素材を交換しあった者もいる。さらに、電波を通して他の局との連携を指向した者もいて、[大阪市](../Page/大阪市.md "wikilink")及びその周辺ではピーク時の1990年（平成2年）頃に番組を直接中継したり相互に交信を行える局が60局\[18\]、1981年（昭和56年）〜1999年（平成11年）までで延べ165局存在した\[19\]という。 後のCFM、[臨時災害放送局](../Page/臨時災害放送局.md "wikilink")や大規模なイベントに開局する[イベント放送局](../Page/イベント放送局.md "wikilink")はこの発展形ともいえ、ミニFMに携わった者が開局した例もある。
+
+1985年（昭和60年）9月には、[東京都](../Page/東京都.md "wikilink")[港区の](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")「KYFM」が摘発された。これは電波法違反を公言したため、[行政指導](../Page/行政指導.md "wikilink")にも従う見込みも無いと関東電気通信監理局が[警視庁](../Page/警視庁.md "wikilink")に告発した\[20\]からであるが、目に余るものに対し一罰百戒の効果をねらったといわれている。 なお、KYFM摘発の報道の中には「ミニFM局は全国で300以上」と書いた新聞記事 \[21\] もある。
+
+[1980年代](../Page/1980年代.md "wikilink")後半からは主要都市での民放局複数化や1992年（平成4年）のCFM登場によるFM受信の選択肢の増加、1988年（昭和63年）の微弱電波の電界強度の測定方法の明文化 \[22\] や1996年の規則の経過措置満了による規制強化などにより局数は減少した。
+
+1991年（平成3年）には、[映画](../Page/映画.md "wikilink")『[波の数だけ抱きしめて](../Page/波の数だけ抱きしめて.md "wikilink")』が公開された。 1982年の[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")の[湘南海岸](https://ja.wikipedia.org/wiki/湘南海岸 "wikilink")を舞台にミニFMの開設を[テーマとしている](https://ja.wikipedia.org/wiki/主題 "wikilink")。
+
+1995年（平成7年）の[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")では、[神戸市](../Page/神戸市.md "wikilink")[長田区](../Page/長田区.md "wikilink")の「[FMわぃわぃ](../Page/エフエムわいわい.md "wikilink")」（および前身の「FMヨボセヨ」「FMユーメン」）が、ミニFMによる多言語の生活支援放送を行い話題になった。1996年（平成8年）に「FMわいわい」はCFMとなった\[23\]。[西宮市](../Page/西宮市.md "wikilink")の[FMラルース](https://ja.wikipedia.org/wiki/FMラルース "wikilink")も同様な事例として知られ、1998年（平成10年）にCFMの[さくらFM](https://ja.wikipedia.org/wiki/さくらFM "wikilink")となった。
+
+2006年（平成18年）から翌2007年（平成19年）にかけて、[高知工業高等専門学校](../Page/高知工業高等専門学校.md "wikilink")が[四万十市](https://ja.wikipedia.org/wiki/四万十市 "wikilink")でFMラジオを用いた防災情報伝達システムを実験した。 川登集落に送信機を設置し、高知県防災システムのホームページから[四万十川](../Page/四万十川.md "wikilink")上流にある観測地点の情報をダウンロードし[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")に変換して放送するというものである。 半径1km程度の集落であるが、送信機1台では最大でも半径80m程度しか到達せず、[特定小電力無線を中継器として利用し複数の送信機で受信範囲の拡大を図ったと報告](../Page/無線電話用特定小電力無線局.md "wikilink") \[24\] されている。
+
+2006年にはまた、[京都市](../Page/京都市.md "wikilink")のエフエム・ギグが[近畿総合通信局](https://ja.wikipedia.org/wiki/近畿総合通信局 "wikilink")から電波法違反を指摘され送信を停止した。 その経緯が公表 \[25\] されており、貴重な事例報告である。 エフエム・ギグは、以後インターネットラジオに専念している。
+
+2011年（平成23年）7月には、[日野市](https://ja.wikipedia.org/wiki/日野市 "wikilink")の[アパート](../Page/アパート.md "wikilink")から無免許で最大42Wの出力で送信していた会社員の男を[関東総合通信局](../Page/関東総合通信局.md "wikilink")が告発し、警視庁が[現行犯](../Page/現行犯.md "wikilink")[逮捕](../Page/逮捕.md "wikilink")、身柄送検している\[26\]。 男は関東総合通信局から二度も警告されていたがこれを無視して送信を続けていた \[27\]。 男はまた「JOUT-FM百草」という[コールサインを用いていたが](https://ja.wikipedia.org/wiki/識別信号 "wikilink")、1990年代の[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")在住時から「JOUT-FM」と称して送信していたといわれる。 JOUTは[NHKに指定されるものとされ](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[第1放送に指定された事例はあるが](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")、JOUT-FMとしてFM放送に対しては無い。 これについては**[日本の放送局所の呼出符号](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号 "wikilink")**を参照。
+
+2013年（平成25年）には無線設備試買テストが、2015年（平成27年）にはELPマークの登録が開始された。 これらにより[\#送信機とアンテナ](https://ja.wikipedia.org/wiki/#送信機とアンテナ "wikilink")にあるように、一般人がミニFM用の機材を入手するのは従前より困難になった。
+
+2017年（平成29年）には、[アニメーション](../Page/アニメーション.md "wikilink")映画『[きみの声をとどけたい](https://ja.wikipedia.org/wiki/きみの声をとどけたい "wikilink")』が公開された。 舞台は『波の数だけ抱きしめて』と同じ[湘南](../Page/湘南.md "wikilink")だが時代は21世紀。 2001年から2005年にかけて定期的に放送が行われていたという[設定である](../Page/設定_\(物語\).md "wikilink")。
+
+## 音声アシスト規格の災害用FM
+
+2001年（平成13年）に[特定小電力無線局](../Page/特定小電力無線局.md "wikilink")の用途の一つとして視覚障害者の[音声アシスト用に周波数](https://ja.wikipedia.org/wiki/音声アシスト用無線電話用特定小電力無線局 "wikilink")75.8MHz、出力10mWが制定されたが、全く普及していない。
+
+[情報通信研究機構](../Page/情報通信研究機構.md "wikilink")は、2010年（平成22年）にこの規格を基にして災害時に小学校の校区程度をサービスエリアとすることを想定した装置を開発、[技術基準適合証明](https://ja.wikipedia.org/wiki/技術基準適合証明 "wikilink")を取得し、到達距離を検証する\[28\]と発表した。実験用装置は[未来技術研究所](https://ja.wikipedia.org/wiki/未来技術研究所 "wikilink")が製造\[29\]し、同年中に技術基準適合証明を取得\[30\]している。 2012年（平成24年）には、この装置を用いて[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")復興支援のフィールド試験を実施 \[31\] \[32\] \[33\]した。
+
+特定小電力無線局であるので免許や資格は不要、外部アンテナも接続でき、周波数がFM放送帯の直下にあるのでPLLシンセサイザーを使わない簡易なFM受信機なら受信できる。但し、30秒以上の連続送信はできず、キャリアセンス（同一周波数の電波を受信すると送信を停止する）機能を搭載することが義務付けられているので、一つの局が送信すればそのサービスエリア内では他の局は送信できない。
+
+## ミニAM
+
+[中波](../Page/中波.md "wikilink")で[振幅変調](../Page/振幅変調.md "wikilink")して送信すれば、ミニAMとなる。中波をFM放送の[VHF](https://ja.wikipedia.org/wiki/VHF "wikilink")と比較すると、
+
+  - 利点としては、直進性が弱いので建物の影にも回り込んで受信でき広範囲に届く。
+  - 欠点としては、波長が非常に長いためマッチング（共振）させるためにある程度長いアンテナが必要となる。また、夜間は[電離層](../Page/電離層.md "wikilink")のE層反射による遠隔地からの電波が到来し昼間より[混信](../Page/混信.md "wikilink")が増す。
+
+という特徴がある。 送信機は、[電子ブロック](../Page/電子ブロック.md "wikilink")等の電子回路学習キットや自作回路で組み立てることができるため、1970年代の小学生の間では、電子ブロックのブーム時に使われる傾向があったが、[トランジスタ](../Page/トランジスタ.md "wikilink")の[発振回路](../Page/発振回路.md "wikilink")に直接に[変調をかけた高周波増幅を持たない回路であったため実用性は乏しかった](../Page/変調方式.md "wikilink")。
+
+ミニFMより事例は少ないが[境港市](../Page/境港市.md "wikilink")の[水木しげるロード](https://ja.wikipedia.org/wiki/水木しげるロード "wikilink")で期間限定で行われた「妖怪ラヂオ」\[34\]がこれである。この送信機は駐車場や店舗など狭小な範囲の放送装置としても利用\[35\]されている。 また、[\#概要](https://ja.wikipedia.org/wiki/#概要 "wikilink")に述べた道路トンネルや地下駐車場でAM放送再送信や割込放送を行うものもあり、[八重洲地下街](../Page/八重洲地下街.md "wikilink")や[川崎アゼリア](https://ja.wikipedia.org/wiki/川崎アゼリア "wikilink")などの大規模地下街、[札幌ドーム](../Page/札幌ドーム.md "wikilink")や[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")\[36\]、[都営地下鉄](../Page/都営地下鉄.md "wikilink")\[37\]でもAM放送を再送信している。 これらの施設内や車両内への輻射という点ではミニAMといえる。
+
+ミニAMは中波を用いるので、トンネルなどの施設では誘導線または螺旋漏洩同軸ケーブルによることができれば、出力を大きくしても[高周波利用設備](https://ja.wikipedia.org/wiki/高周波利用設備 "wikilink")とする\[38\]ことができる。この場合、[高周波利用設備許可状を要するが無線従事者は不要](https://ja.wikipedia.org/wiki/無線局免許状#高周波利用設備許可状 "wikilink")\[39\]である。AMにおいてもこれらの施設が遮蔽されているから地上基幹放送局と同一周波数で再送信できるのであり、都営地下鉄の高架部では実施していない。
+
+なお、路側放送は、10W（1620kHz）又は5W（1629kHz）と微弱電波より大出力で送信するため、[警察又は](../Page/日本の警察.md "wikilink")[NEXCOなどの道路管理者が](../Page/ネクスコ.md "wikilink")[特別業務の局](https://ja.wikipedia.org/wiki/特別業務の局 "wikilink")の免許を取得し、第二級陸上特殊無線技士以上の無線従事者による管理により行うものでミニAMではない。
+
+## ミニテレビ
+
+[テレビ](../Page/テレビ.md "wikilink")電波を送信すればミニテレビとなるが、機材の調達が比較的難しく、サービスエリアも狭い。
+
+  - VHFの場合、微弱電波の送信機は[ビデオデッキなどから部品を取り加工するか自作するしか無い](../Page/ビデオテープレコーダ.md "wikilink")。
+  - [UHF](https://ja.wikipedia.org/wiki/UHF "wikilink")の場合、微弱電波の定義が「無線設備から3メートルの距離において、電界強度が毎メートル35マイクロボルト以下のもの」となるため、サービスエリアがVHFより極めて狭くなる。また、デジタル用微弱電波送信機は後述のワンセグ用送信機を除き市販されていない。
+
+地上基幹放送局の送信波は6MHz幅のアナログ方式では[残留側波帯であるのに対し](https://ja.wikipedia.org/wiki/振幅変調#残留側波帯 "wikilink")、安価なUHFトランスミッターの送信波は9.5MHz幅の[両側波帯のものがあるので](https://ja.wikipedia.org/wiki/振幅変調#全搬送波両側波帯 "wikilink")、放送チャンネルの隣接チャンネルを使用すると放送受信を妨害してしまう可能性がある。場合によっては[スプリアス](https://ja.wikipedia.org/wiki/スプリアス "wikilink")波により隣々接チャンネル以降も妨害してしまうこともあるので、事前に放送受信に影響を与えないか確認し、問題があれば対処してから送信しなければならない。なお、VHF送信機による隣接チャンネルへの影響は、UHFのものより小さい。これは、同じ6MHz幅であっても比率としてみれば周波数が低いほど相対的に離れており、[テレビ受像機](../Page/テレビ受像機.md "wikilink")内部の[同調回路](https://ja.wikipedia.org/wiki/同調回路 "wikilink")の減衰量のより大きい帯域を通過することになるからである。
+
+あまりにも稀有な存在でかつテレビの通常のプリセットチャンネル外で送信され、デジタル方式のテレビにとっては妨害電波となるため気がつかれない場合が多い。
+
+### ワンセグ用送信機
+
+2007年に[富士通](../Page/富士通.md "wikilink")が**スポットキャスト**と称する微弱電波を利用した[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")配信システムを発表した。受信可能な距離は、送信アンテナから数cm〜2m程度である。2011年に富士通は販売を終了したが、同様の機器は他社から民生用として販売されている。
+
+### エリア放送
+
+ワンセグ配信の延長上にあるのが[ホワイトスペースを利用する](https://ja.wikipedia.org/wiki/ホワイトスペース_\(電波\) "wikilink")[エリア放送](https://ja.wikipedia.org/wiki/エリア放送 "wikilink")である。2012年4月に制度化され、[地上一般放送局](https://ja.wikipedia.org/wiki/地上一般放送局 "wikilink")として免許される。地上一般放送局は適合表示無線設備を用いれば無線従事者は不要である。 エリア放送は、フルセグも可能な[地上一般放送](https://ja.wikipedia.org/wiki/地上一般放送 "wikilink")で、[地上基幹放送](https://ja.wikipedia.org/wiki/地上基幹放送 "wikilink")より規制は緩やかであり、個人による免許申請も制度上は不可能ではない。
+
+## ミニFMをテーマにした映画
+
+  - [波の数だけ抱きしめて](../Page/波の数だけ抱きしめて.md "wikilink")
+  - [FM89.3MHz](../Page/FM89.3MHz.md "wikilink")
+  - [きみの声をとどけたい](https://ja.wikipedia.org/wiki/きみの声をとどけたい "wikilink")
+
+## 脚注
+
+<references />
+
+## 関連項目
+
+  - [地下放送](https://ja.wikipedia.org/wiki/地下放送 "wikilink")
+  - [海賊放送](../Page/海賊放送.md "wikilink")
+  - [コミュニティ放送](../Page/コミュニティ放送.md "wikilink")
+  - [エリア放送](https://ja.wikipedia.org/wiki/エリア放送 "wikilink")
+  - [ミニFM局の一覧](https://ja.wikipedia.org/wiki/ミニFM局の一覧 "wikilink")
+
+## 外部リンク
+
+  - [微弱無線局の規定](http://www.tele.soumu.go.jp/j/material/rule.htm) 総務省電波利用ホームページ
+  - [ミニFM放送局](http://www.jolf-p.co.jp/official/event/fmstation.php) [ニッポン放送プロジェクト](https://ja.wikipedia.org/wiki/ニッポン放送プロジェクト "wikilink")
+  - [miniFM](http://www.popsound.jp/fm.html) [POPSOUND](https://ja.wikipedia.org/wiki/POPSOUND "wikilink")
+  - [トンネルFMラジオ再放送装置](http://www.first-ele.co.jp/Images/tunnel.html) [ファースト電子開発](https://ja.wikipedia.org/wiki/ファースト電子開発 "wikilink")
+  - [登録製品リスト](http://www.jaama.gr.jp/bijaku/summary/product-list.html) [全国自動車用品工業会](https://ja.wikipedia.org/wiki/全国自動車用品工業会 "wikilink")（JAAMA）
+  - [登録製品リスト](https://emcc-info.net/elp/registered-list.html) [電波環境協議会](https://ja.wikipedia.org/wiki/電波環境協議会 "wikilink")（EMCC）
+  - [粉川哲夫のウエブサイト](http://anarchy.k2.tku.ac.jp/index_jp.html)
+
+[Category:ラジオ局](https://ja.wikipedia.org/wiki/Category:ラジオ局 "wikilink") [Category:電波法](https://ja.wikipedia.org/wiki/Category:電波法 "wikilink") [Category:日本のミニFM放送局](https://ja.wikipedia.org/wiki/Category:日本のミニFM放送局 "wikilink")
+
+1.  放送法第176条第1項および[放送法施行規則](https://ja.wikipedia.org/wiki/放送法施行規則 "wikilink")第214条第1項により放送法令の適用が除外される。
+2.  pp.8〜9参照　地下街等電波遮蔽空間における地上放送の普及の在り方に関する調査研究会第1回資料4 平成17年6月27日（総務省の情報通信政策に関するポータルサイト 調査研究会）。なお、当時は第二級[陸上無線技術士](../Page/陸上無線技術士.md "wikilink")以上の無線従事者が必要だったが、平成31年政令第19号（平成31年1月30日施行）により、第二級陸上特殊無線技士以上及び第三級総合無線通信士以上にも一部の地上基幹放送局の操作が認められた。詳細は[陸上特殊無線技士](../Page/陸上特殊無線技士.md "wikilink")及び[総合無線通信士](https://ja.wikipedia.org/wiki/総合無線通信士 "wikilink")参照。
+3.  [国技館FM放送について](http://www.sumo.or.jp/Kansen/fm) 両国国技館
+4.  昭和61年郵政省令第24号による電波法施行規則改正
+5.  [昭和63年郵政省告示第127号 電波法施行規則第6条第1項第1号に規定する発射する電波が著しく微弱な無線局の電界強度の測定方法](http://www.tele.soumu.go.jp/horei/reiki_honbun/a720080001.html)（総務省電波利用ホームページ 総務省電波関係法令集）
+6.  [平成18年総務省告示第173号 電波法施行規則第6条第1項第1号の規定に基づく総務大臣が別に告示する試験設備](http://www.tele.soumu.go.jp/horei/reiki_honbun/a72aa79391.html)（同上）
+7.   サーキット・デザイン
+8.  昭和61年郵政省令第24号による電波法施行規則改正附則第2項
+9.
+10. [基幹放送局の開設の根本的基準](https://ja.wikipedia.org/wiki/基幹放送局の開設の根本的基準 "wikilink")第2条第2項（2）（一）低雑音区域で地上から4mの高さ
+11. [無線設備試買テストの結果について](http://www.tele.soumu.go.jp/j/adm/monitoring/illegal/result/index.htm) 電波利用ホームページ
+12. [消費者庁リコール情報サイト](http://www.recall.go.jp/result/)で検索可能
+13. 昭和63年郵政省告示第127号第2項第1号
+14. [なつかしの?ミニFM放送局](http://diary.awane-photo.com/2007/070710.htm) 撮影日記 2007年7月10日
+15. [「POPEYE」に「NC1000s」が](http://diary.awane-photo.com/2007/070711.htm) 同上 2007年7月11日
+16. [S.O.N.考古学研究所](http://son.studio-web.net/index.shtml) 南大阪ネットワークOB会付属
+17. 本書p.64の[日下和](https://ja.wikipedia.org/wiki/日下和 "wikilink")の記事中に「最盛期には2000局に及ぶ」とある。その根拠は不明。
+18. 和田敬「ローカルメディアの技術変容ーミニFMという実践を補助線に」『メディア技術史』[北樹出版](../Page/北樹出版.md "wikilink")　飯田豊編（2013年（平成25年））
+19. 和田敬 大阪大学（[情報通信学会](https://ja.wikipedia.org/wiki/情報通信学会 "wikilink")2010年（平成22年）大会個人研究発表予稿）
+20. [参議院会議録情報](http://kokkai.ndl.go.jp/SENTAKU/sangiin/103/1320/10312031320001a.html)（第103回国会逓信委員会第1号 昭和60年12月3日）
+21. [朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink") 1985年（昭和60年）9月5日夕刊、『ミニFM全国マップ』と同様に根拠は不明
+22. 『ミニFM全国マップ』掲載の座談会記事では、「100mの距離をどう測るか」という質問に対し「高さはどうでもいいから、地図で100mの地点を探して測定してもらいそのデータを提出してくれ」と回答があった（「なんてったって自由ラジオ！」pp.14-15）とあり、 旧基準では測定のための試験場を確保することすら容易ではなく、送信機側と測定器側と双方のアンテナの地上高について規定していなかったことがわかる。
+23. 2016年に廃局しインターネットラジオに移行
+24. pp.24-28 FMラジオを用いた防災情報伝達システム（[九州大学](../Page/九州大学.md "wikilink")西部地区自然災害資料センター）
+25.  注.「微弱電波停止の経緯」中の**判断**の第1項は出力と電界強度を取り違えている。**判断**の第3項も近畿総合通信局か指摘した時点で電界強度の測定方法を規定した告示は施行されており[テレコムエンジニアリングセンター](https://ja.wikipedia.org/wiki/テレコムエンジニアリングセンター "wikilink")など民間企業が実施していた。
+26.
+27. [「ＤＪすーさん」実は…　無許可ＦＭ局開設で逮捕](https://archive.fo/20120913102507/http://www.sponichi.co.jp/entertainment/news/2011/07/19/kiji/K20110719001241430.html) [スポーツニッポン](../Page/スポーツニッポン.md "wikilink") 2011年7月19日（[archive.is](https://ja.wikipedia.org/wiki/archive.is "wikilink")のアーカイブ:2012年9月13日収集）
+28. （2010年（平成22年）[電子情報通信学会](../Page/電子情報通信学会.md "wikilink")総合大会 B-5-178）
+29. （未来技術研究所 - FTL開発事例）
+30. \[<http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=001&TC=G&PK=1&FN=277tele&SN=%8F%D8%96%BE&LN=13&R1=>\*\*\*\*\*\&R2=\*\*\*\*\* 登録証明機関による技術基準適合証明に関する詳細情報\] 技術基準適合証明等を受けた機器の検索（総務省電波利用ホームページ）
+31. [音声アシスト規格FM送信機を用いた仮設住宅におけるフィールド試験について](http://www.nict.go.jp/info/topics/120124.html) イベント&トピックス 2012年1月24日（情報通信研究機構）
+32. [石巻北部バイパス仮設住宅（稲井地区）にて、中継装置設置実験を行なっています。 2012年1月10日](http://saigai.onagawafm.jp/archives/3393) 各種お知らせ（[女川さいがいFM](https://ja.wikipedia.org/wiki/おながわさいがいエフエム "wikilink")）
+33. [石巻北部バイパス仮設住宅（稲井地区） 中継装置設置実験終了のお知らせ 2012年5月10日](http://saigai.onagawafm.jp/archives/5023) 同上
+34. [水木しげるロード（鳥取県境港市）](http://tekuteku-radio.com/settirei/mizuki.html) 設置実績（[てくてくラジオ](https://ja.wikipedia.org/wiki/てくてくラジオ "wikilink")）
+35. [微弱電波 簡易放送装置](http://www.melcom.co.jp/products/voice_guide/parking_am/parking_am.html) 音声ガイドシステム（[メルコム](https://ja.wikipedia.org/wiki/メルコム "wikilink")）
+36. p.4 I-Radio AMラジオ再送信システム（ [NHKアイテック](https://ja.wikipedia.org/wiki/NHKアイテック "wikilink")）
+37. [AMラジオ再送信サービス](https://www.kotsu.metro.tokyo.jp/subway/kanren/radio.html) 都営地下鉄（[東京都交通局](../Page/東京都交通局.md "wikilink")）
+38.
+39. （[日本無線](../Page/日本無線.md "wikilink")技報No.53 防災ソリューション特集 2007年6月）

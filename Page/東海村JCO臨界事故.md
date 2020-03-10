@@ -1,0 +1,152 @@
+> この記事は[JCO](https://ja.wikipedia.org/wiki/JCO)から翻訳されています。
+
+
+**東海村JCO臨界事故**（とうかいむらジェー・シー・オーりんかいじこ）は、[1999年](../Page/1999年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")、[茨城県](../Page/茨城県.md "wikilink")[那珂郡](../Page/那珂郡.md "wikilink")[東海村](../Page/東海村.md "wikilink")にある株式会社[ジェー・シー・オー](../Page/ジェー・シー・オー.md "wikilink")（[住友金属鉱山](https://ja.wikipedia.org/wiki/住友金属鉱山 "wikilink")の[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")。以下「**JCO**」）の核燃料加工施設で発生した[原子力事故](../Page/原子力事故.md "wikilink")（[臨界事故](../Page/臨界事故.md "wikilink")）である。日本国内で初めて、事故[被曝](https://ja.wikipedia.org/wiki/被曝 "wikilink")による死亡者を出した。
+
+## 概要
+
+1999年[9月30日](../Page/9月30日.md "wikilink")、JCO東海事業所の核燃料加工施設内で核燃料を加工中に、[ウラン](../Page/ウラン.md "wikilink")溶液が[臨界](https://ja.wikipedia.org/wiki/臨界 "wikilink")に達し[核分裂連鎖反応が発生](../Page/連鎖反応_\(核分裂\).md "wikilink")、この状態が約20時間持続した。これにより、至近距離で[中性子線](../Page/中性子線.md "wikilink")を浴びた作業員3名中、2名が死亡、1名が重症となったほか、667名の被曝者を出した\[1\]。[国際原子力事象評価尺度](../Page/国際原子力事象評価尺度.md "wikilink") (INES) で**レベル4**（事業所外への大きなリスクを伴わない）の事故\[2\]。
+
+## 事故の推移
+
+JCOでは1999年度に、[高速増殖炉](../Page/高速増殖炉.md "wikilink")の研究炉「[常陽](../Page/常陽.md "wikilink")」で使用される核燃料（濃縮度18.8%、ウラン濃度380gU/リットル以下の[硝酸ウラニル](https://ja.wikipedia.org/wiki/硝酸ウラニル "wikilink")溶液、約160リットル）の製造を請け負っていた\[3\]。1999年9月、まずウランの精製作業が中旬から28日まで行われ、翌29日より硝酸ウラニル溶液の均一化作業が始まった。
+
+[9月30日](../Page/9月30日.md "wikilink")、転換試験棟にてJCOの作業員たちが、硝酸ウラニル溶液を沈殿槽にバケツで流し込む作業を行っていた。10時35分ごろ、7杯目をバケツで流し込んだところ、沈殿槽内で硝酸ウラニル溶液が[臨界](https://ja.wikipedia.org/wiki/臨界 "wikilink")となり、[警報](../Page/警報.md "wikilink")が鳴動した\[4\]。沈殿槽は言わば「むき出しの[原子炉](../Page/原子炉.md "wikilink")」の状態となり、[中性子線](../Page/中性子線.md "wikilink")は建物・敷地の外にも放出された\[5\]。
+
+11時15分、臨界事故の可能性ありとの第一報がJCOから[科学技術庁](https://ja.wikipedia.org/wiki/科学技術庁 "wikilink")に入る。そして11時52分、被曝した作業員3名を搬送するため[救急車](../Page/救急車.md "wikilink")が出動した。東海村から住民に対する[屋内退避](https://ja.wikipedia.org/wiki/屋内退避 "wikilink")の呼びかけの広報が始まったのは、12時30分からである\[6\]。なお、この広報に関しては、東海村村長の[村上達也](https://ja.wikipedia.org/wiki/村上達也 "wikilink")（当時）が[日本国政府](https://ja.wikipedia.org/wiki/日本国政府 "wikilink")・[茨城県庁](https://ja.wikipedia.org/wiki/茨城県庁 "wikilink")の対応を待たず独断で行った\[7\]。
+
+12時40分ごろ、[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")・[小渕恵三](../Page/小渕恵三.md "wikilink")（当時）に、事故の第一報が報告される\[8\]。現地では事故現場から半径350[m以内の住民約](../Page/メートル.md "wikilink")40世帯への避難要請、500m以内の住民への避難勧告、10[km以内の住民](../Page/キロメートル.md "wikilink")10万世帯（約31万人）への[屋内退避](https://ja.wikipedia.org/wiki/屋内退避 "wikilink")および換気装置停止の呼びかけ、現場周辺の[県道](../Page/都道府県道.md "wikilink")、[国道](../Page/国道.md "wikilink")、[常磐自動車道](../Page/常磐自動車道.md "wikilink")の閉鎖、[JR東日本の](../Page/東日本旅客鉄道.md "wikilink")[常磐線](https://ja.wikipedia.org/wiki/常磐線 "wikilink")[水戸](../Page/水戸駅.md "wikilink") - [日立間](../Page/日立駅.md "wikilink")、[水郡線](https://ja.wikipedia.org/wiki/水郡線 "wikilink")水戸 - [常陸大子](../Page/常陸大子駅.md "wikilink")・[常陸太田間の運転見合わせ](../Page/常陸太田駅.md "wikilink")、[自衛隊](../Page/自衛隊.md "wikilink")への[災害派遣](../Page/災害派遣.md "wikilink")要請といった措置がとられた。
+
+JCO社員は事故当初、誰も臨界事故を収束させようとする作業をしなかったが、「あなたたちでやらなければ、強制作業命令を出したあとに、結果的にすることになる」\[9\]と[日本国政府](https://ja.wikipedia.org/wiki/日本国政府 "wikilink")からの代理人に促された。その結果、「うちが起こした事故はうちで処理しなければならない」と、JCO社員が18人を2人1組で1分を限度に現場に向かい、冷却管の破壊、[アルゴン](../Page/アルゴン.md "wikilink")ガスを注入して冷却水を抜く、[ホウ酸](../Page/ホウ酸.md "wikilink")を沈殿槽に投入する作業を行い、[連鎖反応を止めることに成功して](../Page/連鎖反応_\(核分裂\).md "wikilink")、臨界は収束した。中性子線量が検出限界以下になったのが確認されたのは、臨界状態の開始から20時間経った翌[10月1日](../Page/10月1日.md "wikilink")の朝6時30分ごろであった\[10\]。
+
+## 事故原因
+
+本事故の原因は、[旧動燃が発注した](../Page/動力炉・核燃料開発事業団.md "wikilink")「常陽」用核燃料の製造工程における、JCOのずさんな作業工程管理にあった。
+
+JCOは燃料加工の工程において、臨界事故防止（[臨界安全](https://ja.wikipedia.org/wiki/臨界安全 "wikilink")）を重視した正規のマニュアルではなく、「裏マニュアル」に沿って作業をしていた。一例を挙げると、原料であるウラン化合物の粉末を溶解する工程では、正規マニュアルでは「溶解塔」という装置を使用すると定められていたが、裏マニュアルではステンレス製のバケツを用いるという手順に改変されていた(所謂「バケツでウラン」)。しかも事故前日の9月29日からは、作業の効率化をはかるため、この裏マニュアルとも異なる手順で作業がなされていた。具体的には、濃度の異なる[硝酸ウラニル溶液を混合して均一濃度の製品に仕上げる均質化工程において](https://ja.wikipedia.org/wiki/硝酸ウラニル\(VI\) "wikilink")、「貯塔」という容器を使用するべきところを「沈殿槽」という別の容器を使用していた。貯塔は臨界に至りづらい形状（背が高く、内径が狭い）であったが、使用目的が異なる沈殿槽は非常に臨界に至りやすい構造（背が低く、内径が広く、[冷却水](https://ja.wikipedia.org/wiki/冷却水 "wikilink")ジャケットに包まれている）であった\[11\]。
+
+その結果、濃縮度18.8%の[硝酸ウラニル](https://ja.wikipedia.org/wiki/硝酸ウラニル "wikilink")[水溶液](../Page/水溶液.md "wikilink")を不当に大量に貯蔵した容器の周りにある[冷却水](https://ja.wikipedia.org/wiki/冷却水 "wikilink")が[中性子](../Page/中性子.md "wikilink")の反射材となって溶液が[臨界](https://ja.wikipedia.org/wiki/臨界 "wikilink")状態となり、中性子線などの[放射線](../Page/放射線.md "wikilink")が大量に放射された\[12\]。ステンレスバケツで溶液を扱っていた作業員 は、「 ウラン溶液を溶解槽に移している時に[青い光が出た](../Page/チェレンコフ放射.md "wikilink")」と[証言](https://ja.wikipedia.org/wiki/証言 "wikilink")している\[13\]。
+
+## 事故被曝者
+
+この事故では、3名の作業員が推定1[グレイ](https://ja.wikipedia.org/wiki/グレイ_\(単位\) "wikilink")・イクイバレント以上の多量の[放射線](../Page/放射線.md "wikilink")（中性子線）を浴びた。作業員は[ヘリコプター](../Page/ヘリコプター.md "wikilink")で[放射線医学総合研究所](../Page/放射線医学総合研究所.md "wikilink")（以下「**放医研**」）へ搬送され、うち2名は[造血幹細胞移植](../Page/造血幹細胞移植.md "wikilink")の関係から、[東京大学医学部附属病院](../Page/東京大学医学部附属病院.md "wikilink")（東大病院）に転院し、[集中治療室](https://ja.wikipedia.org/wiki/集中治療室 "wikilink")での医療が施された。3名の治療経過や、本事故において被曝した者の経過は、それぞれ以下の通り。
+
+  - 16 - 20グレイ・イクイバレント（推定16 - 20[シーベルト](../Page/シーベルト.md "wikilink")以上\[14\]）の[放射線](../Page/放射線.md "wikilink")被曝をした作業員**A**（当時35歳）は、高線量被曝による[染色体](../Page/染色体.md "wikilink")破壊により[核型](https://ja.wikipedia.org/wiki/核型 "wikilink")が完全に壊れ、新しい細胞が生成できない状態となる。まず[白血球](../Page/白血球.md "wikilink")が生成されなくなったため、[無菌病室](https://ja.wikipedia.org/wiki/無菌病室 "wikilink")に移動され、実妹から提供された[造血幹細胞](../Page/造血幹細胞.md "wikilink")の[移植が行われた](../Page/造血幹細胞移植.md "wikilink")。移植術自体は成功し、直後は白血球の増加が見られたが、時間経過とともに新細胞の染色体にも異常が発見され、白血球数がふたたび減少に転じた。放射線障害により皮膚が形成されなくなり、事故から59日後の[11月27日](../Page/11月27日.md "wikilink")、心停止。救命処置により1時間後に[蘇生](../Page/蘇生.md "wikilink")したものの、心肺停止によるダメージから、[脳](../Page/脳.md "wikilink")および各[臓器](https://ja.wikipedia.org/wiki/臓器 "wikilink")の機能が著しく低下、[敗血症](https://ja.wikipedia.org/wiki/敗血症 "wikilink")から最終的に治療手段がなくなり、事故から83日後の1999年（平成11年）[12月21日](../Page/12月21日.md "wikilink")、[多臓器不全](https://ja.wikipedia.org/wiki/多臓器不全 "wikilink")により[死亡](../Page/死亡.md "wikilink")した。
+  - 6.0 - 10グレイ・イクイバレント（推定6 - 10シーベルト\[15\]）の放射線被曝をした作業員**B**（事故当時39歳、死亡時40歳）もAと同様に高線量被曝による染色体破壊を受け、造血幹細胞の移植が一定の成果をあげたことにより一時は警察への証言を行うまでに回復した。しかし放射線障害により徐々に容態が悪化、さらに[MRSA感染による肺炎を併発し](../Page/メチシリン耐性黄色ブドウ球菌.md "wikilink")\[16\]、事故から211日後の[2000年](../Page/2000年.md "wikilink")（平成12年）[4月27日](../Page/4月27日.md "wikilink")、多臓器不全により死亡した。
+  - 推定1 - 4.5グレイ・イクイバレントの放射線被曝をした作業員**C**（当時54歳）は、一時白血球数がゼロになったが、放医研の無菌病室において、[G-CSF製剤などによる骨髄治療を受け回復](../Page/顆粒球コロニー刺激因子.md "wikilink")。[12月20日](../Page/12月20日.md "wikilink")に放医研を退院した。
+  - 臨界状態を収束させるため、作業を行った関係者7人が年間許容線量を越える計画被曝をし、事故の内容を十分知らされずに、被曝した作業員を搬送すべく駆けつけた救急隊員3人が2次被曝を受けた。被曝被害者の受けた最高被曝線量は最大120ミリシーベルト、50ミリシーベルトを超えたものは6名であった\[17\]。さらに周辺住民207名への中性子線などの被曝も起こった。最大は25ミリシーベルトで、年間被曝線量限度の1ミリシーベルト以上の被曝者は112名であった\[18\]。被曝者の総数は、事故調査委員会（委員長：[吉川弘之](https://ja.wikipedia.org/wiki/吉川弘之 "wikilink")・[日本学術会議](../Page/日本学術会議.md "wikilink")会長）で認定されただけで667名（2000年4月）であった。
+
+### 治療に関する特記事項
+
+  - 急性被曝による[半数致死量](../Page/半数致死量.md "wikilink")（LD<sub>50</sub> :"Lethal Dose, 50%"の略）は4.0Sv（亜致死線量）で2 - 6週間で被曝者の50%に死をもたらし、6.0Sv（致死線量）では2週間以内に90%が死亡するとされており\[19\]、特に作業員Aに対しては当初から回復は絶望視されていた\[20\]。
+  - 医学的には、近代医学による被曝者治療の貴重な臨床例となった。特に日本ではこのような大量の放射線被曝をした患者の治療自体が初めてで、治療に当たった医師団も、毎日のように発生する新しい症状に試行錯誤をしながらの治療であったと証言している\[21\]。
+
+## 刑事責任
+
+この事故では、同時に会社側の刑事責任も問われた。事故から約1年後の[2000年](../Page/2000年.md "wikilink")10月16日には茨城[労働局](../Page/都道府県労働局.md "wikilink")・水戸[労働基準監督署](https://ja.wikipedia.org/wiki/労働基準監督署 "wikilink")がJCOと同社東海事業所所長を[労働安全衛生法](https://ja.wikipedia.org/wiki/労働安全衛生法 "wikilink")違反容疑で[書類送検](../Page/書類送検.md "wikilink")、翌11月1日には[水戸地検が所長の他](../Page/水戸地方検察庁.md "wikilink")、同社製造部長、計画グループ長、製造グループ職場長、計画グループ主任、製造部製造グループスペシャルクルー班副長、その他製造グループ副長の6名を[業務上過失致死罪](../Page/業務上過失致死傷罪.md "wikilink")、法人としてのJCOと所長を[原子炉等規制法](https://ja.wikipedia.org/wiki/原子炉等規制法 "wikilink")違反および[労働安全衛生法](https://ja.wikipedia.org/wiki/労働安全衛生法 "wikilink")違反の罪でそれぞれ起訴した。
+
+[2003年](../Page/2003年.md "wikilink")3月3日、[水戸地裁は被告企業としてのJCOに罰金刑](../Page/水戸地方裁判所.md "wikilink")、被告人6名に対し執行猶予つきの有罪判決を下した\[22\]。なお、被害者でもある作業員Cは、製造グループ副長としての現場責任を問われ有罪判決を受けた\[23\]。
+
+## 事故の影響
+
+### 当事者への影響
+
+この事故の結果、JCOは加工事業許可取り消し処分を受け、ウラン再転換事業の廃止を余儀なくされた。親会社の[住友金属鉱山](https://ja.wikipedia.org/wiki/住友金属鉱山 "wikilink")も[倒産](../Page/倒産.md "wikilink")寸前まで追い込まれた\[24\]。
+
+### 公共機関等への影響
+
+この事故を受けて、[原子力災害対策特別措置法](../Page/原子力災害対策特別措置法.md "wikilink")が制定されたほか、保安規程の遵守状況の国による確認、定期検査、主務大臣または原子力安全委員会への申告制度（[原子力施設安全情報申告制度](https://ja.wikipedia.org/wiki/原子力施設安全情報申告制度 "wikilink")、いわゆる[内部告発](../Page/内部告発.md "wikilink")制度）が導入された。
+
+事故当時の陸上自衛隊は、[災害派遣](../Page/災害派遣.md "wikilink")要請に基づき、第101化学防護隊（現[中央特殊武器防護隊](../Page/中央特殊武器防護隊.md "wikilink")）を派遣するなどの対処を行った。その後、同年12月に先述の[原子力災害対策特別措置法](../Page/原子力災害対策特別措置法.md "wikilink")が制定されたことを受け[自衛隊法](../Page/自衛隊法.md "wikilink")を改正、自衛隊の行動区分において「災害派遣」とは**自然災害による派遣**と定義づけ、原子力事故に起因する災害派遣は新たに「**[原子力災害派遣](https://ja.wikipedia.org/wiki/原子力災害派遣 "wikilink")**」を設け（自衛隊法第83条の3）、別個のものとして対処することとなった。
+
+### 経済・産業への影響
+
+事故の影響により、事故施設周辺はもとより、茨城県内全域で農水産物・加工品の返品や値崩れ、旅館や観光施設のキャンセルが相次いだ。
+
+このため、[農産物](https://ja.wikipedia.org/wiki/農産物 "wikilink")への[風評被害](https://ja.wikipedia.org/wiki/風評被害 "wikilink")があったとして東海村の農家がJCOに損害賠償を請求しており\[25\]、茨城県がJCOに対する補償窓口を設置した際は約8000件の被害申出があった\[26\]。
+
+この教訓は、のちの[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）による[福島第一原子力発電所事故](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")においても活かされ、茨城県内の農水産団体は、発災当初から各業者による個別請求ではなく、農水産団体による一括して交渉・請求体制をとった結果、全国に先駆けて、農畜産物及び水産物の補償請求を行った\[27\]。
+
+発生から間もない10月12日に、[水戸芸術館](../Page/水戸芸術館.md "wikilink")にて開催が予定されていた[ソプラノ](../Page/ソプラノ.md "wikilink")歌手[バーバラ・ボニー](../Page/バーバラ・ボニー.md "wikilink")の水戸リサイタルが中止された\[28\]。
+
+### 報道への影響
+
+翌[10月1日](../Page/10月1日.md "wikilink")の新聞[朝刊](https://ja.wikipedia.org/wiki/朝刊 "wikilink")から[読売新聞](../Page/読売新聞.md "wikilink")や[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")、[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")など各[全国紙](../Page/全国紙.md "wikilink")が足並みを揃えてトップニュースでこの事故を伝えた（第1面と社会面のほぼ全面をこの事故関連の報道に割り当てた）が、事故当日は[プロ野球](../Page/日本プロ野球.md "wikilink")・[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")が[明治神宮野球場](../Page/明治神宮野球場.md "wikilink")で11年ぶり5度目の[セ・リーグ優勝を決めている](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")。このためか、中日の親会社である[中日新聞社](../Page/中日新聞社.md "wikilink")が発行する[中日新聞](../Page/中日新聞.md "wikilink")（[東京新聞](../Page/東京新聞.md "wikilink")）は6大紙（読売・朝日・毎日・東京・[日本経済新聞](../Page/日本経済新聞.md "wikilink")・[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")）で唯一第1面および社会面の大部分がこの事故関連の記事と中日優勝関連記事で占められることとなった（38面はこの事故関連、39面は中日優勝関連記事で占められた）\[29\]。この件は「プロ野球で中日ドラゴンズが優勝すると政変及び大事件が起きる」という[ジンクス](https://ja.wikipedia.org/wiki/ジンクス "wikilink")の代表格として取り上げられることも多い\[30\]。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  -
+  -
+<!-- end list -->
+
+  -   - （上記の改題文庫版）
+
+  -
+  -
+  -
+  -
+  -
+## 関連書籍
+
+  -
+## 関連項目
+
+  - [燃料サイクル安全工学研究施設](https://ja.wikipedia.org/wiki/燃料サイクル安全工学研究施設 "wikilink")
+  - [ナトリウム24](https://ja.wikipedia.org/wiki/ナトリウム24 "wikilink") - 周辺住民等の被曝量の推定などに使用された
+  - [米山隆一](https://ja.wikipedia.org/wiki/米山隆一_\(政治家\) "wikilink") - 前新潟県知事。弁護士、医師。放医研勤務時、被害者の治療を担当。
+
+## 外部リンク
+
+  - [JCO臨界事故に関する見解](http://www.aesj.or.jp/~hms/link/joc-j.html)（[日本原子力学会](https://ja.wikipedia.org/wiki/日本原子力学会 "wikilink")ヒューマンマシンシステム研究部会 JCO事故調査特別作業会 主査 古田一雄）
+
+  - （[核燃料サイクル開発機構](https://ja.wikipedia.org/wiki/核燃料サイクル開発機構 "wikilink")）
+
+<!-- end list -->
+
+  - [原子力安全調査専門委員会](http://www.nr.titech.ac.jp/~hsekimot/AESJSafety/)
+
+  - [JCO臨界事故総合評価会議](http://cnic.jp/jco/jcac/)（[原子力資料情報室](https://cnic.jp/)）
+
+  - [東海村JCO臨界事故](http://www.nuketext.org/jco.html)（[原子力教育を考える会](http://www.nuketext.org/index.html)）
+
+  -
+  - [JCOウラン加工工場臨界被ばく事故の概要](https://atomica.jaea.go.jp/data/detail/dat_detail_04-10-02-03.html)（[原子力百科事典 ATOMICA](https://atomica.jaea.go.jp/)）
+
+[Category:日本の原子力事故](https://ja.wikipedia.org/wiki/Category:日本の原子力事故 "wikilink") [Category:1999年の日本における災害](https://ja.wikipedia.org/wiki/Category:1999年の日本における災害 "wikilink") [Category:茨城県の歴史](https://ja.wikipedia.org/wiki/Category:茨城県の歴史 "wikilink") [Category:東海村](https://ja.wikipedia.org/wiki/Category:東海村 "wikilink") [Category:核燃料](https://ja.wikipedia.org/wiki/Category:核燃料 "wikilink") [Category:1999年9月](https://ja.wikipedia.org/wiki/Category:1999年9月 "wikilink")
+
+1.
+2.
+3.  [日本原子力学会編 2000](https://ja.wikipedia.org/wiki/#日本原子力学会編_2000 "wikilink"), p. 7.
+4.  [日本原子力学会編 2000](https://ja.wikipedia.org/wiki/#日本原子力学会編_2000 "wikilink"), p. 8.
+5.
+6.
+7.
+8.
+9.  [NHKスペシャル](../Page/NHKスペシャル.md "wikilink")『被曝治療83日間の記録 - 東海村臨界事故』（2001年放送）
+10. 科学技術庁 (2000年10月13日) "[（株）ジェー・シー・オー東海事業所臨界事故に係る一時滞在者及び防災業務関係者等の線量評価の結果について](https://web.archive.org/web/20051102124740/http://www.mext.go.jp/b_menu/houdou/12/10/001023a.htm)". 文部科学省. 2005年11月2日時点の[オリジナル](http://www.mext.go.jp/b_menu/houdou/12/10/001023a.htm)よりアーカイブ。
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25. [風評被害による損害賠償詳細](http://www.jsdi.or.jp/~y_ide/991020jco_tokai2.htm) 茨城県議会議員・井手義弘公式WEB、1999年10月21日。
+26. 茨城県生活環境部原子力安全対策課『核燃料加工施設臨界事故の記録』P144〜P149
+27. 茨城県生活環境部防災・危機管理局原子力安全対策課『東日本大震災の記録 : 原子力災害編』P236\~P237
+28. [中止告知](http://www.arttowermito.or.jp/music/bonny99j.html) [水戸芸術館](../Page/水戸芸術館.md "wikilink")ホームページ
+29. 『中日新聞』1999年10月1日付 1, 38, 39面
+30. 夕刊フジ2005/08/11付、スポーツ報知2006/09/18付、ニッカンスポーツ2007/11/02付など

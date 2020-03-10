@@ -1,0 +1,84 @@
+> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+
+
+[Sthelensharrytruman.jpg](https://ja.wikipedia.org/wiki/File:Sthelensharrytruman.jpg "fig:Sthelensharrytruman.jpg") **ハリー・ランダル・トルーマン**（Harry Randall Truman, [1896年](../Page/1896年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink") - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[5月18日](../Page/5月18日.md "wikilink")）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ワシントン州](../Page/ワシントン州.md "wikilink")[セント・ヘレンズ山](https://ja.wikipedia.org/wiki/セント・ヘレンズ山 "wikilink")近郊の湖畔に居住していた[旅館](../Page/旅館.md "wikilink")『スピリットレイク・ロッジ』のオーナーである。
+
+死亡の数か月前よりセント・ヘレンズ山の異変を取材に来たアメリカのニュース番組を賑わす存在になり始め、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に同山が[噴火](../Page/噴火.md "wikilink")した際には避難を頑なに拒否した末、[火砕流](https://ja.wikipedia.org/wiki/火砕流 "wikilink")に巻き込まれて[行方不明](../Page/行方不明.md "wikilink")となった。
+
+## 半生
+
+トルーマンは[1896年](../Page/1896年.md "wikilink")に[ウエストバージニア州](https://ja.wikipedia.org/wiki/ウエストバージニア州 "wikilink")にて、ニューベリーとロザベル夫妻の長男として誕生する\[1\]。トルーマン一家はに在住。父ニューベリーは1923年に伐採作業における事故により49歳で死亡し、母ロザベルは1957年に84歳で死去した。トルーマンの近親は9歳年下の妹のジェラルディン(1905-1987年)ただ一人であった\[2\]。
+
+1917年8月4日、トルーマンは[アメリカ陸軍航空隊](https://ja.wikipedia.org/wiki/アメリカ陸軍航空隊 "wikilink")に入隊し、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")に従軍した。1918年1月24日、トルーマンは[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")[ホーボーケンより](../Page/ホーボーケン_\(ニュージャージー州\).md "wikilink")[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")船籍の[客船](https://ja.wikipedia.org/wiki/客船 "wikilink")号に乗船して欧州へ派兵された。米英間の[護送船団](https://ja.wikipedia.org/wiki/護送船団 "wikilink")の任務に[兵員輸送船](https://ja.wikipedia.org/wiki/兵員輸送船 "wikilink")として従事していたトゥスカニア号には乗員384名と乗客である[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")兵2,013名が乗船していたが、同年2月5日、[アイルランド](../Page/アイルランド.md "wikilink")沖を航行中に[独潜水艦](https://ja.wikipedia.org/wiki/Uボート "wikilink")の[雷撃を受けて撃沈され](../Page/魚雷.md "wikilink")、210名が[戦死](../Page/戦死.md "wikilink")・[殉職](../Page/殉職.md "wikilink")している。トゥスカニア号撃沈から生還したトルーマンは、1919年6月12日に[アメリカ軍](../Page/アメリカ軍.md "wikilink")を[除隊](https://ja.wikipedia.org/wiki/除隊 "wikilink")。[ワシントン州](../Page/ワシントン州.md "wikilink")[ルイス郡リッフェに移住し](https://ja.wikipedia.org/wiki/ルイス郡_\(ワシントン州\) "wikilink")、1926年まで在住した。1926年にスピリット湖にあるセント・ヘレンズ山のロッジの管理人の職を得たトルーマンは、1928年初頭にロッジの権利の半分を購入し、同年後半には残り半分も取得してロッジの正式な経営者となり、その後52年間に渡る余生を同地で送る事となった\[3\]。トルーマンは1938年以降、その死去までトゥスカニア号遺族会の会員でもあった\[4\]。
+
+トルーマンがスピリット湖畔に移住する事となった切っ掛けは、欧州から帰国した翌年にアメリカが[禁酒法の時代に突入した事であった](https://ja.wikipedia.org/wiki/アメリカ合衆国における禁酒法 "wikilink")。トルーマンはリッフェにて[ガソリンスタンド](../Page/ガソリンスタンド.md "wikilink")を経営する傍ら、裏では[ラム酒](../Page/ラム酒.md "wikilink")の大規模な密造にも関与しており、[マフィア](../Page/マフィア.md "wikilink")は多大な利益を手にしていた彼に対して刺客を差し向ける事を仄めかし始めた。トルーマンは1926年、[45口径の](../Page/.45ACP弾.md "wikilink")[拳銃](../Page/拳銃.md "wikilink")を片手に家族と共に僻地であるスピリット湖畔のロッジに避難し、管理人として滞在する事となったのである。トルーマンのロッジは200,000平方メートル以上の敷地面積に100部屋以上の個室があり、湖畔では[ボート](https://ja.wikipedia.org/wiki/ボート "wikilink")の[レンタル](../Page/レンタル.md "wikilink")も行っていた。1937年には[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")のにより、トルーマンのロッジをロケ地として[映画](../Page/映画.md "wikilink")『』が撮影されている\[5\]。
+
+トルーマンは最初の[配偶者](../Page/配偶者.md "wikilink")であるヘレン・アイリーン・ヒューズと、1935年に再婚したマジョリー・ベネットとは離婚しており、1947年に[結婚](../Page/結婚.md "wikilink")したエドナ・O・ヘンリックソンとは1978年に死別するまで人生を共にした。ヘレンとの間には一人娘のベティがいたが、1961年8月4日ににて39歳で死去している\[6\]。
+
+晩年の彼のロッジには16匹の[ネコ](../Page/ネコ.md "wikilink")が飼われ、[自動ピアノ](https://ja.wikipedia.org/wiki/自動ピアノ "wikilink")の奏でる曲と38本の[バーボン・ウイスキー](https://ja.wikipedia.org/wiki/バーボン・ウイスキー "wikilink")のボトル、若き日の自身や愛妻の[ポートレート](https://ja.wikipedia.org/wiki/ポートレート "wikilink")に囲まれながら、母の没年と同じ製造年の桃色の1956-57[年式](https://ja.wikipedia.org/wiki/モデルイヤー "wikilink")[キャディラック](https://ja.wikipedia.org/wiki/キャディラック "wikilink")を愛用する[独居生活を送っていた](../Page/独居老人.md "wikilink")。その一方でトルーマンにはベティ以外の子はおらず、親戚縁者の数は極僅かであった。1978年に妻エドナに先立たれるとトルーマンは失意に沈み、[鬱病](https://ja.wikipedia.org/wiki/鬱病 "wikilink")と[アルコール依存症](../Page/アルコール依存症.md "wikilink")に苦しむ日々を送るようになっていった\[7\]。
+
+## つかの間の栄光
+
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、セント・ヘレンズ山の火山活動が活発化し、噴火の約2ヶ月前にはセント・ヘレンズ山近郊からの避難が発令された。しかしながらトルーマンはこの避難を拒否し、世間の注目を集めた。トルーマンは[マスメディア](../Page/マスメディア.md "wikilink")からインタビューを受けた際、噴火の危険性は「ひどく誇張されている」と主張し\[8\]、「山がそうなる（噴火する）なら、俺もそれに身を任せるまでさ。このエリアには分厚い森林帯があるし、スピリット湖も俺と山を隔てている。それに山からはかなりの距離がある。山が俺を傷つけるとは思わない。」\[9\]「俺はここで50年以上も暮らしているんだ。もうセント・ヘレンズ山とスピリット・レイクは俺の体の一部であり、俺もまた山と湖の一部なんだ！」と言い放った。その一方で、ザ・ブルティン誌の取材に因るところでは、トルーマンは頻繁に観測される[地震](../Page/地震.md "wikilink")に備え、[ベッド](../Page/ベッド.md "wikilink")のマットレスを外して[地下室](../Page/地下室.md "wikilink")で就寝するようにしていたという\[10\]。
+
+[野球帽](../Page/野球帽.md "wikilink")を被り、社製バーボンを[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")で割った[ウイスキー・コーク](https://ja.wikipedia.org/wiki/ウイスキー・コーク "wikilink")の[ビアグラス](https://ja.wikipedia.org/wiki/ビアグラス "wikilink")を片手に、居並ぶマスコミの前で[酩酊](https://ja.wikipedia.org/wiki/酩酊 "wikilink")気味に持論をがなり立て、噴火による彼の身の安全を案ずる民衆の懸念を鼻で笑い飛ばし続けるトルーマンは、アメリカのお茶の間のちょっとした人気者となった\[11\]。トルーマンの元には全米の子供達から歌や詩が書かれたファンレターが届けられ\[12\]、[オレゴン州](../Page/オレゴン州.md "wikilink")[セイラムの児童グループからは](../Page/セイラム_\(オレゴン州\).md "wikilink")、「ハリー、私達はあなたを愛しています。」と書かれた[バナーが贈られた](https://ja.wikipedia.org/wiki/バナー_\(旗\) "wikilink")\[13\]。トルーマンの元に届くファンレター\[14\]の中には、トルーマンに対して求婚する内容のものも含まれていたという\[15\]。
+
+大衆感情やメディアの姿勢は、眼前に迫る大災害から人々の命を護るべく悲観的な予測を訴える州当局や火山学者よりも、むしろトルーマンの頑迷なまでの信念を支持する傾向があった。[科学者](../Page/科学者.md "wikilink")や国家権力がトルーマンに対して無知で前時代的な田舎者というレッテルを貼れば貼る程、民衆はトルーマンを権力に抵抗する的な存在として捉えるようになっていった。時の[ワシントン州知事](https://ja.wikipedia.org/wiki/ワシントン州知事 "wikilink")は1980年4月3日に[非常事態宣言](../Page/非常事態宣言.md "wikilink")を発令していたが、セント・ヘレンズ山が水蒸気と灰のみを噴き上げる一時的な小康状態に移行する中、トルーマンを支持する民衆の声や早期の作業再開を求める[林業](../Page/林業.md "wikilink")・[漁業](https://ja.wikipedia.org/wiki/漁業 "wikilink")従事者、あるいは[登山](../Page/登山.md "wikilink")者の意見に圧される形でトルーマンに対する特別な危険区域内滞在許可の発行、及び同年5月18日にスピリット湖畔で開催する予定として提出された[ボーイスカウト](../Page/ボーイスカウト.md "wikilink")・コロンビア太平洋協議会所有の[キャンプ場](https://ja.wikipedia.org/wiki/キャンプ場 "wikilink")の使用許可申請を承認せざるを得ない事態に追い込まれていた\[16\]。
+
+## 最期
+
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[5月18日](../Page/5月18日.md "wikilink")8時32分（[協定世界時](../Page/協定世界時.md "wikilink")同日15時32分）、セント・ヘレンズ山は123年ぶりに大噴火を起こした。ロッジにただ一人留まり続けていたトルーマンは、この噴火により発生した火砕流の直撃を受け死亡したと推定されている\[17\]。大火砕流はスピリット湖畔一帯を破壊し尽くし、トルーマンのロッジとスピリット湖は最大厚さ150フィート(46m)にも及ぶ[岩屑なだれ](https://ja.wikipedia.org/wiki/岩屑なだれ "wikilink")に埋め尽くされた\[18\]。トルーマンの遺体は現在に至るまで発見されていないが、ロッジや16匹の愛猫、愛車とともに9メートルの灰や土石流に埋もれていると推測されている。
+
+トルーマンの妹、ジェラルディンは彼の死の現実をなかなか受け入れようとしなかったが、最終的に「私はハリーが死んだとは思いません。しかし、もし飛行機でハリーのロッジが消滅しているのを見せられたら、多分私はそれを信じざるを得なくなるのだと思います。」というコメントを残している\[19\]。
+
+1980年のセント・ヘレンズ山噴火は、北米大陸の[有史史上最も致命的で最も破壊的な火山噴火であり](../Page/歴史時代.md "wikilink")、トルーマン以外にも他の地域に点在していた[火山学](../Page/火山学.md "wikilink")者の[デイヴィッド・ジョンストン](https://ja.wikipedia.org/wiki/デイヴィッド・ジョンストン "wikilink")、[報道写真](../Page/報道写真.md "wikilink")家のやを含む56人の住民や登山者、報道関係者が死亡または行方不明となった\[20\]\[21\]\[22\]。
+
+なお、現在のスピリット湖はトルーマンが住んでいた旧スピリット湖よりも70m近く高い標高に再び自然形成された[湖](https://ja.wikipedia.org/wiki/湖 "wikilink")であるが、豊富な森林資源は全て失われ、[2010年代](../Page/2010年代.md "wikilink")に入っても湖面の40%は未だ噴火当時に周辺丘陵から吹き飛ばされてきた何千本もの倒木による「倒木[筏](https://ja.wikipedia.org/wiki/筏 "wikilink")（ツリーマット）」で覆われている。湖底からは有毒な[火山ガス](../Page/火山ガス.md "wikilink")が立ち上り、水中の酸素濃度も1983年の植物性[プランクトン](../Page/プランクトン.md "wikilink")の再出現までは極めて低いレベルに留まり、岩屑なだれにより生成された周辺地形が崩落する[ラハール](../Page/ラハール.md "wikilink")を防ぐ為に、1985年に作られた重力トンネルにより湖面は常に1,040mが人工的に維持されるという、トルーマンが愛した旧湖とは全く別物の湖に変わり果ててしまった。その後[漁師](../Page/漁師.md "wikilink")により[カエル](../Page/カエル.md "wikilink")や[サンショウウオ](../Page/サンショウウオ.md "wikilink")などの[両生類](https://ja.wikipedia.org/wiki/両生類 "wikilink")が湖畔に再導入され、[植林](https://ja.wikipedia.org/wiki/植林 "wikilink")なども進められているが、1980年以前の水産・森林資源を回復するには未だ道半ばである。
+
+## 遺産
+
+[Mount_St._Helens_eruption_memorial,_Johnston_Ridge.jpg](https://ja.wikipedia.org/wiki/File:Mount_St._Helens_eruption_memorial,_Johnston_Ridge.jpg "fig:Mount_St._Helens_eruption_memorial,_Johnston_Ridge.jpg")\]\] トルーマンは生前の時点で避難の呼び掛けに抵抗する「民俗英雄」的な地位にあった\[23\]。トルーマンの死後、彼の友人や妹のジェラルディン（ジェリー）を含む彼の家族は、彼の死に次のように反応した。ジェリーは「兄はとても頑固な人でした。」と語り、友人のジョン・ガリテは「セント・ヘレンズ山とスピリット湖は彼の人生そのものだった。彼から山と湖を奪う事は、彼を殺すのに等しい事だ。彼はいつもスピリット・レイクで死にたいと言っていた。彼は自身が望むとおりの最期を遂げたのだ。」と述べた。別の友人のジョン・アンダーセンは「ハリーの名前と存在は、常にスピリット湖の一部で在り続けた。同地に彼以上の記念物は全く無いであろう。」と語り、トルーマンの従兄弟であるリチャード・アイスは「彼はとても早口で、大声でまくし立てる人だったが、全ての主題について明確な意見を持っていた。」と述べている。アイスはまた「[著名人](https://ja.wikipedia.org/wiki/著名人 "wikilink")として過ごした短い期間が、彼の人生の頂点であったのだろう。」とも述べた。
+
+[1981年](../Page/1981年.md "wikilink")にはトルーマンを主題とした[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")映画『』が[アート・カーニー](https://ja.wikipedia.org/wiki/アート・カーニー "wikilink")主演で製作され、さらに[1989年](../Page/1989年.md "wikilink")にはトルーマンを主題とした書物『Truman of St. Helens: The Man & His Mountain』が[シャーリー・ローゼン](https://ja.wikipedia.org/wiki/シャーリー・ローゼン "wikilink")によって著された\[24\]。[アイルランド](../Page/アイルランド.md "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、は彼を題材とした楽曲「ハリー・トルーマン」をリリースし、[歌詞](../Page/歌詞.md "wikilink")のリフレインに「お前が山を動かす事が出来ても、俺は決して山を下りない」という一節を添えた\[25\]。トルーマンを題材としたもう一つの楽曲は1980年にルーラ・ベル・ガーランドによって作詞され、ロン・ショー&ザ・デザートウインド・バンドにより演奏された『The Legend of Harry And The Mountain.』という曲である。
+
+さらに近年、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")のが2002年にリリースした「オールド・セントヘレン」という曲の中で、トルーマンの逸話について言及している\[26\]。
+
+セント・ヘレンズ山にあるトルーマン道（トルーマン・トレイル）とハリー尾根（ハリー・リッジ）は、トルーマンの名にちなんで付けられた。トルーマンは16匹の猫を家族の一員として飼育していた事でも有名であり、ほとんど全ての公式声明の中で愛猫について言及していた。猫達は噴火の日に彼と運命を共にしたものと推定されている\[27\]。
+
+## 脚注
+
+<references />
+
+## 関連書籍
+
+  - Shirley Rosen (1989). *Truman of St. Helens: The Man & His Mountain.* (ISBN 0962329711)
+
+[Category:ワシントン州の人物](https://ja.wikipedia.org/wiki/Category:ワシントン州の人物 "wikilink") [Category:火山災害で死亡した人物](https://ja.wikipedia.org/wiki/Category:火山災害で死亡した人物 "wikilink") [Category:1896年生](https://ja.wikipedia.org/wiki/Category:1896年生 "wikilink") [Category:1980年没](https://ja.wikipedia.org/wiki/Category:1980年没 "wikilink") [Category:第一次世界大戦期のアメリカ合衆国の軍人](https://ja.wikipedia.org/wiki/Category:第一次世界大戦期のアメリカ合衆国の軍人 "wikilink")
+
+1.
+2.
+3.
+4.
+5.  \[<http://www.fanopabo.com/?post/2010/05/15/Vancouver-!-Vancouver-!-This-is-it->\! Vancouver \! Vancouver \! This is it \!\] - Le Distrait、2010年6月14日。
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21. [Victims of Mount St.Helens](http://www.tdn.com/app/helens/victims.php)
+22. [The Victims of the Eruption](http://www.olywa.net/radu/valerie/mshvictims.html)
+23.
+24.
+25.
+26.
+27.

@@ -1,0 +1,158 @@
+> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+
+
+『**劇場版美少女戦士セーラームーンR**』（げきじょうばん びしょうじょせんしセーラームーンR）は、[1993年](../Page/1993年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")に公開された、『[美少女戦士セーラームーンR](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン_\(テレビアニメ\) "wikilink")』の[劇場版アニメ](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")。製作は[東映動画](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")。
+
+監督は、後に『[少女革命ウテナ](../Page/少女革命ウテナ.md "wikilink")』を監督した[幾原邦彦](https://ja.wikipedia.org/wiki/幾原邦彦 "wikilink")。
+
+同時上映は『[メイクアップ\!セーラー戦士](https://ja.wikipedia.org/wiki/メイクアップ!セーラー戦士 "wikilink")』と、『[ツヨシしっかりしなさい ツヨシのタイムマシーンでしっかりしなさい](https://ja.wikipedia.org/wiki/ツヨシしっかりしなさい "wikilink")』。
+
+## 概要
+
+シリーズ初の劇場化作品。配収13億円、94年邦画配給収入第7位\[1\]。
+
+映画化の話は、平成5年（[1993年](../Page/1993年.md "wikilink")）の年明け間もないころからあったが、女児向けの映画が本当にヒットするのかという興行的な不安から、[東映](../Page/東映.md "wikilink")が映画化をためらっていた。結局「正月映画にふさわしい劇映画が見当たらず、利益率の高いアニメで勝負した」（当時の東映常務・鈴木常承の話）\[2\]ということで制作に入ったのは8月からで、制作スケジュールはとても短いものだった\[3\]が、公開すると配収13億円の大ヒットでその後のシリーズの映画化への道筋をつけた。
+
+物語のクライマックス、挿入歌『[Moon Revenge](https://ja.wikipedia.org/wiki/Moon_Revenge/I_am_セーラームーン "wikilink")』が映画を効果的に盛り上げている\[4\]。歌詞は二番目の前半でそれぞれのキャラクターの声を担当した声優がソロで歌う構成だが、映画中、それぞれのキャラクターの回想と歌のソロパートがシンクロし、スペクタクルシーンと共に絶妙なタイミングで編集されている\[5\]。クライマックスはミュージカルのようにしたいという監督の幾原とプロデューサーの東の提案\[6\]で、[セーラームーン・ミュージカルで音楽を担当していた作詞](../Page/美少女戦士セーラームーン_\(ミュージカル\).md "wikilink")・[冬杜花代子](../Page/冬杜花代子.md "wikilink")、作曲・[小坂明子](https://ja.wikipedia.org/wiki/小坂明子 "wikilink")によるコンビが作詞・作曲を担当した。そのため、クライマックスはミュージカル映画のようでもあり、幾原の持ち味が強く出ているが\[7\]、それは東が、制作当初から幾原の個性を全面に押し立てた作品にしたいと考えていたからである\[8\]。挿入歌「Moon Revenge」は『[美少女戦士セーラームーンCrystal](https://ja.wikipedia.org/wiki/美少女戦士セーラームーンCrystal "wikilink")』オープニングテーマ収録の[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")のシングル『[MOON PRIDE](https://ja.wikipedia.org/wiki/MOON_PRIDE "wikilink")』にも、ももいろクローバーZが歌うアレンジバージョンとして収録された。
+
+公開当時、メイン客層である子供たちだけではなく同伴した多くの大人をも涙させた作品\[9\]である。
+
+テレビシリーズを支えていた作画監督（[伊藤郁子](../Page/伊藤郁子.md "wikilink")、[長谷川眞也](https://ja.wikipedia.org/wiki/長谷川眞也 "wikilink")、[香川久](https://ja.wikipedia.org/wiki/香川久 "wikilink")）たちと、そうそうたる顔ぶれのアニメーター陣（新井浩一・須賀重行・[濱洲英喜](https://ja.wikipedia.org/wiki/濱洲英喜 "wikilink")・[山内則康](https://ja.wikipedia.org/wiki/山内則康 "wikilink")など\[10\]）が作画（原画）に参加している。作画監督の[只野和子](../Page/只野和子.md "wikilink")は「セーラームーンのエキスをギュッと集めた集大成」と語っている\[11\]。全ての必殺技シーンを長谷川眞也が作画担当している\[12\]。
+
+本作に感動した[庵野秀明](../Page/庵野秀明.md "wikilink")は映画館で3度観た\[13\]。[緒方恵美](../Page/緒方恵美.md "wikilink")\[14\]が本作で衛の少年時代の声を担当していて、映画のビデオを[貞本義行](https://ja.wikipedia.org/wiki/貞本義行 "wikilink")に見せて、準備中だった「[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")」の[碇シンジ](../Page/碇シンジ.md "wikilink")の声は緒方しかないと力説した\[15\] 。
+
+セーラームーンの映画すべてを収録した「美少女戦士セーラームーン THE MOVIE DVD-BOX」は[2002年](../Page/2002年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売、単巻は[2004年](../Page/2004年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")発売。単巻はステレオ/モノラルの状態に加えて、登場人物のセリフなし、BGMと挿入歌と効果音のみが収録された音声状態を選択できる。
+
+時列的にはちびうさがセーラー戦士の正体を知っていることや、うさぎと衛の関係が修復していることから第77話から第82話までの間の出来事だと推測できる。
+
+本作のメインゲスト声優として、『R』テレビアニメ版のアニメオリジナルストーリーである「魔界樹編」で、銀河星十郎（エイル）を演じた[緑川光](../Page/緑川光.md "wikilink")がフィオレ役で、銀河夏美（アン）を演じた[冬馬由美](../Page/冬馬由美.md "wikilink")がキセニアン役で出演。
+
+セーラームーン25周年を記念し、主人公である[月野うさぎ](https://ja.wikipedia.org/wiki/月野うさぎ "wikilink")の誕生日・[6月30日](../Page/6月30日.md "wikilink")に劇場版『美少女戦士セーラームーン R』[HDリマスター](https://ja.wikipedia.org/wiki/HDリマスター "wikilink")版の初の発声可能応援上映イベントが開催されている\[16\]。
+
+## ストーリー
+
+うさぎ達の前に突然現れた、謎の異星人フィオレ。彼は子供の頃の衛と友人であった。衛との友情のために花を持って来たと言うフィオレだったが、彼の心は悪魔の花キセニアンによって支配されていた。弱い心に取り付き、取り付いた人間を支配し、憎しみを爆発させるキセニアンはフィオレを憎悪に駆り立てて地球を滅ぼそうと企んでいた。キセニアンに心を支配され、地球人を滅ぼすと言うフィオレには衛の言葉も届かない。しかも彼はセーラームーンのことを衛を騙している者として憎み、その命を狙う。やがて衛はフィオレの攻撃からセーラームーンを庇って深手を負い、フィオレに拉致され、いずこかへ攫われてしまった。その頃、地球に一個の小惑星が接近しつつあった。実はそれこそがキセニアンの本拠地であり、彼らは地球上の人間のエナジーを奪い尽くそうと考えていたのだ。セーラー戦士達は彼の野望を阻止すべく、その小惑星に向かう。
+
+## 登場人物
+
+### セーラー戦士
+
+  - [月野うさぎ](https://ja.wikipedia.org/wiki/月野うさぎ "wikilink")
+    [声](../Page/声優.md "wikilink") - [三石琴乃](../Page/三石琴乃.md "wikilink")
+  - [地場衛](../Page/地場衛.md "wikilink")
+    声 - [古谷徹](../Page/古谷徹.md "wikilink")/[緒方恵美](../Page/緒方恵美.md "wikilink")（少年時代）
+  - [火野レイ](../Page/火野レイ.md "wikilink")
+    声 - [富沢美智恵](../Page/富沢美智恵.md "wikilink")
+  - [水野亜美](../Page/水野亜美.md "wikilink")
+    声 - [久川綾](../Page/久川綾.md "wikilink")
+  - [木野まこと](../Page/木野まこと.md "wikilink")
+    声 - [篠原恵美](../Page/篠原恵美.md "wikilink")
+  - [愛野美奈子](../Page/愛野美奈子.md "wikilink")
+    声 - [深見梨加](../Page/深見梨加.md "wikilink")
+  - ルナ
+    声 - [潘恵子](../Page/潘恵子.md "wikilink")
+  - アルテミス
+    声 - [高戸靖広](../Page/高戸靖広.md "wikilink")
+  - [ちびうさ](../Page/ちびうさ.md "wikilink")
+    声 - [荒木香恵](../Page/荒木香衣.md "wikilink")
+
+### 敵キャラクター
+
+キセニアン以外は[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")作品『美少女戦士セーラームーン Another Story』にも敵として登場する。ただし、フィオレのみはイベント専用キャラクターである。
+
+  - フィオレ
+    声 - [緑川光](../Page/緑川光.md "wikilink")/[丸尾知子](../Page/Chiko.md "wikilink")（少年時代）
+    衛の幼馴染だったが、キセニアンに取りつかれて敵対することになる。テレビアニメ版『R』前半の「魔界樹編」に登場するエイルと風貌が似ているが、無関係の別人。
+  - キセニアン
+    声 - [冬馬由美](../Page/冬馬由美.md "wikilink")
+    本作の黒幕。宇宙の伝説に現れる妖花で、弱い心を持つ者に操る能力を発揮する。フィオレを利用し、地球をキセニアンの星にしようとした。
+  - グリシナ
+    声 - [山崎和佳奈](../Page/山崎和佳奈.md "wikilink")
+    6本の足を特徴とする花の妖魔で、非常に行動が速い。
+  - カンパニュラ
+    声 - [西川宏美](../Page/西川宏美.md "wikilink")
+    両腕にナイフのような翼を持つ花の妖魔で、速いスピードで飛行できる。
+  - ダリアン
+    蛇の尾のような下半身を持つ花の妖魔で、小惑星に大量を潜める。
+
+## スタッフ
+
+  - 監督 - [幾原邦彦](https://ja.wikipedia.org/wiki/幾原邦彦 "wikilink")
+  - 助監督 - [五十嵐卓哉](../Page/五十嵐卓哉.md "wikilink")
+  - キャラクターデザイン・作画監督 - [只野和子](../Page/只野和子.md "wikilink")
+  - 美術監修 - [窪田忠雄](https://ja.wikipedia.org/wiki/窪田忠雄 "wikilink")
+  - 美術監督 - [谷口淳一](https://ja.wikipedia.org/wiki/谷口淳一 "wikilink")
+  - 企画 - [東伊里弥](https://ja.wikipedia.org/wiki/東伊里弥 "wikilink")
+  - 脚本 - [富田祐弘](https://ja.wikipedia.org/wiki/富田祐弘 "wikilink")
+  - 原画 - 松下浩美、山内則康、新井浩一、濱洲英喜、須賀重行、長谷川眞也、[羽山淳一](../Page/羽山淳一.md "wikilink")、香川久、伊藤郁子 他
+  - 動画 - 岸祐弥、馬渡久 他
+  - 背景 - 浅井和久、橋本和幸、大河内稔、田尻健一 他
+  - 協力プロダクション - [スタジオ・ライブ](../Page/スタジオ・ライブ.md "wikilink")、[中村プロダクション](../Page/中村プロダクション.md "wikilink")、[スタジオコクピット](../Page/スタジオコクピット.md "wikilink")、[ムクオスタジオ](https://ja.wikipedia.org/wiki/ムクオスタジオ "wikilink")、[スタジオイースター](../Page/スタジオ・イースター.md "wikilink")、はだしぷろ、[トムスフォト](../Page/トムス・フォト.md "wikilink")、[トランスアーツ](https://ja.wikipedia.org/wiki/トランス・アーツ "wikilink")、[スワラプロダクション](https://ja.wikipedia.org/wiki/スワラ・プロ "wikilink") 他
+  - 製作担当 - [樋口宗久](https://ja.wikipedia.org/wiki/樋口宗久 "wikilink")
+  - 音楽 - [有澤孝紀](../Page/有澤孝紀.md "wikilink")
+  - 撮影 - [高橋基](https://ja.wikipedia.org/wiki/高橋基 "wikilink")
+  - 編集 - 吉川泰弘
+  - 色指定・検査 - [辻田邦夫](../Page/辻田邦夫.md "wikilink")
+  - 録音 - [立花康夫](https://ja.wikipedia.org/wiki/立花康夫 "wikilink")
+
+### 英語版スタッフ
+
+#### ビズメディア版スタッフ
+
+  - 製作総指揮 - ケン・ササキ
+  - 音声演出 - スザンヌ・ゴールディッシュ
+  - 英語制作 - [Viz Media, LLC](../Page/ビズメディア.md "wikilink")
+  - ADRとポストプロダクション - [Studiopolis, Inc.](https://ja.wikipedia.org/wiki/スタジオポリス "wikilink")
+
+## 主題歌
+
+### オープニングテーマ
+
+  - 「[ムーンライト伝説](https://ja.wikipedia.org/wiki/ムーンライト伝説 "wikilink")」
+    作詞 - [小田佳奈子](../Page/小田佳奈子.md "wikilink") / 作曲 - [小諸鉄矢](https://ja.wikipedia.org/wiki/川島だりあ "wikilink") / 編曲 - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink") / 歌 - [DALI](https://ja.wikipedia.org/wiki/MANISH "wikilink")
+
+### エンディングテーマ
+
+  - 「[Moon Revenge](https://ja.wikipedia.org/wiki/Moon_Revenge/I_am_セーラームーン "wikilink")」
+    作詞 - [冬杜花代子](../Page/冬杜花代子.md "wikilink") / 作曲 - [小坂明子](https://ja.wikipedia.org/wiki/小坂明子 "wikilink") / 編曲 - 林有三 / 歌 - 三石琴乃・久川綾・富沢美智恵・篠原恵美・深見梨加
+    途中挿入もあり。
+
+## ドラマCD
+
+映画のドラマCDが『**美少女戦士セーラームーンR 〜ドラマ編〜**』（びしょうじょせんしセーラームーンアール ドラマへん）として1994年4月21日に発売されている。収録時間は61分21秒。新規録音は月野うさぎ（三石琴乃）のナレーション部分のみで、キャストは映画と同じ。
+
+  - スタッフ
+
+<!-- end list -->
+
+  - プロデューサー - [東伊里弥](https://ja.wikipedia.org/wiki/東伊里弥 "wikilink")
+  - 脚本 - [富田祐弘](https://ja.wikipedia.org/wiki/富田祐弘 "wikilink")
+  - 演出 - [幾原邦彦](https://ja.wikipedia.org/wiki/幾原邦彦 "wikilink")
+  - 録音 - [立花康夫](https://ja.wikipedia.org/wiki/立花康夫 "wikilink")（タバック）
+  - 効果 - 今野康之（スワラプロ）
+  - タバックスタジオ - 9437MEN
+  - カバーイラスト - [東映動画](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")
+
+## 脚注
+
+## 外部リンク
+
+  -
+[Category:美少女戦士セーラームーンのアニメ](https://ja.wikipedia.org/wiki/Category:美少女戦士セーラームーンのアニメ "wikilink") [Category:1993年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1993年のアニメ映画 "wikilink") [Category:テレビ朝日製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:テレビ朝日製作のアニメ映画 "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:東京を舞台としたアニメ映画](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ映画 "wikilink") [Category:地球外生命体を題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材としたアニメ映画 "wikilink") [Category:花を題材とした作品](https://ja.wikipedia.org/wiki/Category:花を題材とした作品 "wikilink") [Category:日本のテレビアニメの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビアニメの劇場版 "wikilink")
+
+1.  社団法人日本映画製作者連盟調べ。
+2.  [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink") 1993年12月6日 27面内記事
+3.  「映画 美少女戦士セーラームーンR メモリアルアルバム」（[講談社](../Page/講談社.md "wikilink")）より。
+4.  「映画 美少女戦士セーラームーンR 音楽集」（日本コロムビア）の中のプロデューサー東伊里弥ライナーノートより。
+5.  「映画 美少女戦士セーラームーンR メモリアルアルバム」（講談社）の中の編集者クマさんの解説による。
+6.  「映画 美少女戦士セーラームーンR メモリアルアルバム」（講談社）より。
+7.  幾原はテレビシリーズの46話において、やはりクライマックスに歌を使用している。本作は、その表現をさらに推し進めたものだと言える。
+8.  「映画 美少女戦士セーラームーンR メモリアルアルバム」（[講談社](../Page/講談社.md "wikilink")）の中の[プロデューサー](../Page/プロデューサー.md "wikilink")東伊里弥の[インタビュー](../Page/インタビュー.md "wikilink")より。
+9.  「映画 美少女戦士セーラームーンR メモリアルアルバム」（講談社）の中でのプロデューサー東伊里弥のインタビューより。
+10. 新井浩一は「AKIRA」「MEMORIES 彼女の想い出」「スチームボーイ」など大友克洋の作品で原画担当。須賀重行は「キノの旅」「GR GIANT ROBO ジャイアントロボ」などのキャラクターデザインを担当。濱洲英喜は「PERFECT BLUE」「千年女優」などの作画監督、「AKIRA」「攻殻機動隊」の原画担当。山内則康は「王立宇宙軍」で飛行シーンの原画担当。
+11. 「映画 美少女戦士セーラームーンR メモリアルアルバム」（講談社）の中での只野和子のインタビューより。
+12. 「映画 美少女戦士セーラームーンR メモリアルアルバム」（[講談社](../Page/講談社.md "wikilink")）第67頁より。
+13. 「さらばセーラームーン 夢特集 幾原邦彦」（ハッピー興行新社）の中の庵野秀明の寄稿より。
+14. 緒方はテレビアニメ92話（『セーラームーンS』）から登場する[天王はるか](../Page/天王はるか.md "wikilink")役でレギュラー出演を果たしている。『R』時代にも[ブラック・ムーン一族](https://ja.wikipedia.org/wiki/ブラック・ムーン一族 "wikilink")のペッツ役で出演するなど、数回出演している。
+15. 「eve 2015年の女神たち―新世紀エヴァンゲリオンPHOTO FILE」（角川書店）の中での貞本の発言より。
+16.

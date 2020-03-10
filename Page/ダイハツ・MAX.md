@@ -1,0 +1,83 @@
+> この記事は[MAX](https://ja.wikipedia.org/wiki/MAX)から翻訳されています。
+
+
+**MAX**（マックス）は、[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")が生産・販売していた5ドアボディの[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")である。
+
+## 概要
+
+[2001年](../Page/2001年.md "wikilink")に[軽トールワゴン](https://ja.wikipedia.org/wiki/軽トールワゴン "wikilink")（[ムーヴ](../Page/ダイハツ・ムーヴ.md "wikilink")）と[ハッチバック](../Page/ハッチバック.md "wikilink")（[ミラ](https://ja.wikipedia.org/wiki/ダイハツ・ミラ "wikilink")）の間を埋める車種として、全高を抑え、[機械式駐車場に対応のパッケージングとした](https://ja.wikipedia.org/wiki/駐車場#形態による分類 "wikilink")[セミトールワゴンとして登場した](https://ja.wikipedia.org/wiki/軽セミトールワゴン "wikilink")。主要コンポーネンツは2代目ムーヴとほぼ共通である。
+
+軽自動車規格変更後から3年を経過し、新しい車種として高級、スポーティ路線を打ち出しており、サイバー4WDシステムや4気筒ターボエンジン\[1\]による高い運動性能、動きのあるダイナミックなデザインが特徴。[AT車にはインパネ中央設置のゲート式セレクターが採用された](../Page/オートマチックトランスミッション.md "wikilink")\[2\]。上級かつスポーティー路線で、パーソナルユースの若者がメインターゲットであった\[3\]。
+
+## メカニズム・機構
+
+[エンジン](../Page/エンジン.md "wikilink")はすべて659ccの[DOHC](../Page/DOHC.md "wikilink")である。愛称はTOPAZ（トパーズ）。
+
+  - EF-VE型　直列3気筒[自然吸気](../Page/自然吸気.md "wikilink")　[DVVT](https://ja.wikipedia.org/wiki/DVVT "wikilink")（[可変バルブタイミング機構](https://ja.wikipedia.org/wiki/可変バルブタイミング機構 "wikilink"))付　43kW(58[馬力](../Page/馬力.md "wikilink")）
+  - EF-DET型　直列3気筒[ターボ](../Page/ターボチャージャー.md "wikilink")　47kW（64馬力）
+  - JB-DET型　直列4気筒ターボ　47kW（64馬力）
+
+トランスミッションは5[MT](../Page/マニュアルトランスミッション.md "wikilink")、ESAT（イーサット）と呼ばれる4AT、eco[CVTの](../Page/無段変速機.md "wikilink")3種類である。最上位グレード「RS」にはフロント[LSDが装備されており](https://ja.wikipedia.org/wiki/ディファレンシャル "wikilink")、さらに[4WD車には](../Page/四輪駆動.md "wikilink")**サイバー4WD**と呼ばれた電子制御4WDを採用している。全グレードに[ステアリング](../Page/ステアリング.md "wikilink")のチルト・テレスコ機構が標準装備であった。
+
+## デザイン
+
+初期のデザイン案は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")人デザイナーが「草原を駈ける動物」をイメージして描いたものであった。全体的なフォルムはウエッジの効いたショートノーズ・ロングキャビンである。フロントガラスは2代目ムーヴより100mm前進しているが、Aピラーはムーヴよりも傾斜している。Cピラーは骨太感を強調した逆台形。フロントマスクには特徴的な縦長の[ヘッドライトと楕円形の](https://ja.wikipedia.org/wiki/前照灯 "wikilink")[フォグライト](https://ja.wikipedia.org/wiki/フォグライト "wikilink")\[4\]を採用。[テールライト](https://ja.wikipedia.org/wiki/テールライト "wikilink")は横長。しばしばテールライトの形状が[アルファロメオ](../Page/アルファロメオ.md "wikilink")の模倣であると指摘されるが、デザイナー側はそれを否定している。
+
+## 販売
+
+登場時の月販目標は6,000台。
+
+販売面においては成功したとはいえず、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月に、1代限りで販売を終了した。[ミラとムーヴに挟まれた中途半端な位置づけや知名度の低さ](https://ja.wikipedia.org/wiki/ダイハツ・ミラ "wikilink")、同時期に登場した[スズキ・MRワゴン](../Page/スズキ・MRワゴン.md "wikilink")、[三菱・eK](../Page/三菱・eK.md "wikilink")より割高な値段設定となってしまい弱点となり、当初MAXと同じく割高であった[ホンダ・ザッツ](../Page/ホンダ・ザッツ.md "wikilink")の大幅値下げにも押されていた。ただしこのクラスではekの後期モデル以外存在しなかったMTがMAXには搭載されていたため下位グレード同士で比較すれば安価ではあった。
+
+## 歴史
+
+### 初代L950S/952S/960S/962S型（2001年-2005年）
+
+  - [2001年](../Page/2001年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")-発表。
+      - [11月1日](../Page/11月1日.md "wikilink") - 販売開始。当初はEF-VE型自然吸気エンジン搭載の「L」・「Lリミテッド」・「X」・「Xリミテッド」、EF-DET型ターボエンジン搭載の「R」、JB-DET型ターボエンジン搭載の「RS」の6グレード体系。トランスミッションは4AT・5MT・[CVTが用意されるが](../Page/無段変速機.md "wikilink")、CVT車は「L」と「Lリミテッド」に、5MT車は「L」・「Lリミテッド」及び「X」・「Xリミテッド」・「R」の4WD車に設定される。また、4AT車に関しては「L」・「Lリミテッド」はフロア。「X」以上のグレードはインパネシフトとなる。(インパネシフト車以外は全てフロアシフト)
+  - [2002年](../Page/2002年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink") - 「Lリミテッド」・「Xリミテッド」・「R」と入れ替えで装備を充実した「Li」・「Xi」・「Ri」及び最上級グレードの「RSリミテッド」を新設。全ての追加グレードは4AT（インパネ）が基本となるが、「Xi」・「Ri」の4WD車には5MTも設定される。
+      - [7月24日](../Page/7月24日.md "wikilink") - [特別仕様車](../Page/特別仕様車.md "wikilink")「Lセレクション」・「Liセレクション」を発売。前者は「L」をベースにスモークドガラスとカラードドアアウターハンドルを装備。AT車はさらにゲート式インパネセンターシフト&足踏式パーキングブレーキとセンターアームレスト付フロントベンチシートを追加で装備しながらもベース車よりも3万円値下げしたお買い得仕様。後者は「Li」をベースにエアロパーツ（フロントロアスカート、リヤロアスカート、サイドストーンガード）を追加した仕様である。
+  - [2003年](../Page/2003年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink") - 特別仕様車「Lスーパーセレクション」・「Liスーパーセレクション」を発売。以前発売されていた「Lセレクション」・「Liセレクション」のバージョンアップ仕様で、フルホイールキャップ（「Lスーパーセレクション」）・アルミホイール（「Liスーパーセレクション」）及びシート表皮のデザインを変更し、価格を引き下げた。特に「Lスーパーセレクション」に関しては2WD・5MT車と2WD・4AT車で80万円台の価格設定となった。
+      - [8月26日](../Page/8月26日.md "wikilink") - マイナーチェンジ。外観をリファインし、「RS」はさらにディスチャージヘッドランプを標準装備。メーターをホワイトに変更したほか、明るめの内装色に変更した。グレード体系もベーシックグレード「L」、上級グレード「Li」、EF-DET型ターボエンジン搭載スポーツグレード「Ri」、JB-DET型ターボエンジン搭載最上級スポーツグレード「RS」の4グレードに整理され、CVT車を廃止、5MT車も「L」のみに縮小された。
+  - [2004年](../Page/2004年.md "wikilink")4月 - 仕様変更。車両本体価格を[消費税](../Page/消費税.md "wikilink")込の価格に改訂。
+      - 6月 - 仕様変更。「L」と「Li」の2WD車が「平成17年基準排出ガス50%低減レベル（☆☆☆）」認定を取得。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月](../Page/11月.md "wikilink")\[5\] ｰ 生産終了。以降は在庫対応分のみの販売となる。
+      - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - 在庫対応分が完売し販売終了。
+
+ファイル:2001 Daihatus MAX 01.jpg|前期型（2001年11月 - 2003年8月） ファイル:Daihatsu-max 1st zenki-front.jpg|前期型RS
+
+## 後継車
+
+  - [2006年](../Page/2006年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")に発売された軽セダンの[ソニカはMAXと同じく上級かつスポーティー路線であるが](../Page/ダイハツ・ソニカ.md "wikilink")、ダイハツ側はMAXの後継車であることを否定している。
+
+## 車名の由来
+
+  - 新しさ、楽しさを最大限(MAX)つめこんだクルマ
+  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")から[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")まで製造されていた[フェローMAX/MAXクオーレの車名復活](https://ja.wikipedia.org/wiki/ダイハツ・フェロー "wikilink")
+
+香港向けは「VMAX」の車名であった
+
+## 参考文献
+
+  - モーターファン別冊『2002年軽自動車のすべて』　三栄書房　2002年2月発行(2001年12月発売)　ISBN 4-87904-484-9
+
+## 関連項目
+
+  - [ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")
+  - [ダイハツ・フェロー](https://ja.wikipedia.org/wiki/ダイハツ・フェロー "wikilink")MAX/MAXクオーレ
+  - [ダイハツ・ムーヴ](../Page/ダイハツ・ムーヴ.md "wikilink")
+  - [ダイハツ・ネイキッド](../Page/ダイハツ・ネイキッド.md "wikilink")(MAXより前に発売されたダイハツの軽セミトールワゴン)
+  - [ダイハツ・YRV](https://ja.wikipedia.org/wiki/ダイハツ・YRV "wikilink")（MAXはデビュー前の[自動車雑誌](../Page/自動車雑誌.md "wikilink")の予想記事では[テリオス](https://ja.wikipedia.org/wiki/ダイハツ・テリオス "wikilink")/[テリオスキッドの関係になぞらえ](../Page/ダイハツ・テリオスキッド.md "wikilink")「YRVキッド」と呼ばれていた。当然のことながら実際に開発・販売されたMAXはYRVとは無関係のモデルである。）
+  - [軽セミトールワゴン](https://ja.wikipedia.org/wiki/軽セミトールワゴン "wikilink")
+
+## 脚注
+
+<references />
+
+[Category:ダイハツの車種](https://ja.wikipedia.org/wiki/Category:ダイハツの車種 "wikilink") [Category:軽セミトールワゴン](https://ja.wikipedia.org/wiki/Category:軽セミトールワゴン "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink")
+
+1.  サイバー4WD、4気筒ターボエンジンはいずれもRSグレードのみ
+2.  廉価グレードを除く
+3.  同じ若年層向け車種でもミニバンライクでドレスアップ志向のムーヴ・カスタム/RSとは位置づけが異なる
+4.  楕円形フォグライトは[2003年](../Page/2003年.md "wikilink")のマイナーチェンジまで
+5.

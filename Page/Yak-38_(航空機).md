@@ -1,0 +1,144 @@
+> この記事は[Yak-38 \(\)](https://ja.wikipedia.org/wiki/Yak-38_\(\))から翻訳されています。
+
+
+{{ Infobox 航空機 |名称=Yak-38（Як-38） |画像=<File:Yakovlev> Yak-38M at MAKS-1993 airshow.jpg |キャプション=1993年の[MAKS](https://ja.wikipedia.org/wiki/MAKS "wikilink")で展示されるYak-38M |用途=[艦上攻撃機](../Page/艦上攻撃機.md "wikilink") |分類=[垂直離着陸機](../Page/垂直離着陸機.md "wikilink") |設計者= |製造者=[ヤコブレフ設計局](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink") |運用者 more=　
+
+  -   - （[ソ連海軍](https://ja.wikipedia.org/wiki/ロシア海軍#ソ連海軍 "wikilink")）
+
+      - （[ロシア連邦海軍](https://ja.wikipedia.org/wiki/ロシア海軍#ロシア連邦海軍 "wikilink")）
+
+      - （[ウクライナ海軍](../Page/ウクライナ海軍.md "wikilink")）
+
+|初飛行年月日=[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[12月2日](../Page/12月2日.md "wikilink") |生産数=231機 |生産期間=[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink") - [1989年](../Page/1989年.md "wikilink") |運用開始年月日=[1977年](../Page/1977年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink") |退役年月日=[1992年](../Page/1992年.md "wikilink") |運用状況=退役 |ユニットコスト= }} **Yak-38**( <small>ヤーク・トリーッツァチ・ヴォースィェミ</small>)は、旧[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ヤコヴレフ設計局で開発された](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink")[垂直離着陸機](../Page/垂直離着陸機.md "wikilink")（VTOL機）。[軽襲撃機](../Page/シュトゥルモヴィーク.md "wikilink")（[艦上攻撃機](../Page/艦上攻撃機.md "wikilink")）として運用された。[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")（NATO）が使用した[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")では、「まがい物」という意味の「フォージャー」（Forger）と呼ばれた。
+
+やや先行して開発された[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ホーカー・シドレー ハリアーと類似した能力を持つが](../Page/ホーカー・シドレー_ハリアー.md "wikilink")、ハリアーが陸上での運用を前提に開発され、後に[艦上機](https://ja.wikipedia.org/wiki/艦上機 "wikilink")版の[シーハリアーが派生したのに対して](https://ja.wikipedia.org/wiki/BAe_シーハリアー "wikilink")、Yak-38は当初から[艦上機](https://ja.wikipedia.org/wiki/艦上機 "wikilink")として開発されており、世界初の艦上[V/STOL機となっている](https://ja.wikipedia.org/wiki/航空機の離着陸方法#垂直/短距離離着陸機 "wikilink")。
+
+主な派生型としては、原型試験機のYak-36M、複座[練習機](../Page/練習機.md "wikilink")型のYak-38U、単座改良型のYak-38Mがあった。
+
+## 来歴
+
+[1967年](../Page/1967年.md "wikilink")夏、[旧ソ連海軍総司令官](https://ja.wikipedia.org/wiki/ロシア海軍#ソ連海軍 "wikilink")[セルゲイ・ゴルシコフ](../Page/セルゲイ・ゴルシコフ.md "wikilink")[元帥は](../Page/ソ連邦海軍元帥.md "wikilink")、試作VTOL機である[Yak-36の性能に感銘を受け](https://ja.wikipedia.org/wiki/Yak-36_\(航空機\) "wikilink")、当時建造が計画されていた[1123.3型対潜巡洋艦（モスクワ級）への搭載を指示した](../Page/モスクワ級ヘリコプター巡洋艦.md "wikilink")\[1\]。12月、ソ連政府は[Yak-36を原型とした軽襲撃機としてYak](https://ja.wikipedia.org/wiki/Yak-36_\(航空機\) "wikilink")-38を設計するよう、ヤコヴレフ設計局に要請した\[2\]。また[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[9月2日](../Page/9月2日.md "wikilink")には、航空運用能力が不足と考えられた1123.3型の建造は中止され、かわって、より大型で強力な航空運用能力を備えた[1143型対潜巡洋艦（キエフ級; のちに重航空巡洋艦に種別変更）の建造が指示された](https://ja.wikipedia.org/wiki/キエフ級航空母艦 "wikilink")\[3\]。
+
+まず原型試験機として*Yak-36M*（「Yak-36の改良型」の意味）が開発され、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")1月、海軍総司令官と空軍総司令官は、Yak-36Mの作戦・技術規則（要求）を承認した。[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")3月に技術案が承認され、その翌月にはさっそく初号機が完成、数ヶ月後には2・3番機も完成して、各種試験が進められた\[4\]。この試験に供するため、ヘリコプター巡洋艦「モスクワ」の[ヘリコプター甲板は耐熱鋼板に換装され](https://ja.wikipedia.org/wiki/飛行甲板#ヘリコプター甲板 "wikilink")、さらにその上にAk-9F耐熱材を設置した特別発着プラットフォーム（20m四方）が設けられた。[1972年](../Page/1972年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")、[デクスバフの操縦するYak](https://ja.wikipedia.org/wiki/:ru:Дексбах,_Михаил_Сергеевич "wikilink")-36Mが同艦に初めて着艦し、「ソ連海軍[艦上機](https://ja.wikipedia.org/wiki/艦上機 "wikilink")の誕生日」として記録された\[5\]。
+
+[1973年](../Page/1973年.md "wikilink")、ソ連政府は、Yak-36Mを1143型重対潜巡洋艦の搭載機、Yak-38軽襲撃機として生産するよう指令した\[6\]。
+
+## 設計
+
+Yak-36Mの作戦・技術規則（要求）において、同機は「仮想敵の艦艇や地上目標、長距離レーダー偵察機、輸送機、哨戒ヘリコプターを破壊するV/STOL軽襲撃機」として規定されていた\[7\]。
+
+### 動力
+
+[Yak-38_Lift_Engines_NT.PNG](https://ja.wikipedia.org/wiki/File:Yak-38_Lift_Engines_NT.PNG "fig:Yak-38_Lift_Engines_NT.PNG") 本機は、推進用の主エンジンとは別に2基の離昇用エンジン（リフトエンジン）を搭載して垂直離着陸を行う方式を採用した。垂直離着陸時には、リフトエンジンの吸入用のエンジン扉とダクト・カバーが開き、前部荷重をリフトエンジンが、後部荷重を回転式の排気ノズルにより推力偏向した主エンジンがそれぞれ負担して、機体のローリングの制御は、エンジンの圧縮機で作られた高圧空気の一部が抽出された後、空気配管を介して主翼両端に装備されたロール制御バルブで制御され、機体のヨーイングの制御は、同じくエンジンの圧縮機で作られた高圧空気の一部が抽出された後、空気配管を介して機体後部に装備されたヨー制御バルブで制御される方式としている。ハリアーの[ロールス・ロイス ペガサスでは前](https://ja.wikipedia.org/wiki/ロールス・ロイス_ペガサス "wikilink")・後部偏向ノズルがともに主エンジンのパワーに頼るのに対し、本方式の場合は水平飛行時にはリフトエンジンは完全なデッドウェイトになることから、燃料や兵装の搭載量で不利となる。また[短距離発進（STO）を行う場合には](../Page/航空機の離着陸方法.md "wikilink")、ペガサスの場合は単純にノズルの角度を変更すれば良いのに対し、本方式の場合はノズルの角度を変えるだけでなく、主エンジンとリフトエンジンの出力を微調整していく必要があることから、技術的な難度が非常に高くなるという問題もあった。このため、本機は当初はSTOを行わない、純粋なVTOL機として運用されていた\[8\]。
+
+技術的難度克服のため、[クリミア半島](../Page/クリミア半島.md "wikilink")にあった[黒海艦隊](../Page/黒海艦隊.md "wikilink")のにおいて、精力的にSTO技術の開発が行われた。出力の微調整を手動で行うことは非現実的であり、スロットル操作だけで適切な推力とノズル角度をコントロールする装置の開発が志向された。コンピュータが未発達の当時、これは技術的には非常な冒険であったものの、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")より実際のSTOLでの試験が開始され、[1979年](../Page/1979年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")までに27回のテストを行ったのち、「[ミンスク](../Page/ミンスク_\(空母\).md "wikilink")」での艦上試験に移行した\[9\]。同年に同艦が極東に回航された際に行われた565回/300時間の飛行のうち、120回はSTOによる発艦であったと記録されている。またこの航海の途上で、低緯度地域の高温・高湿度環境では、特に離昇用エンジンの性能低下が顕著である（酷い例だと、1回の垂直離艦で燃料の3割近くを消費してしまい、その後の飛行可能時間は20分に過ぎなかった）ことが判明し、STO技術の開発が急務であると考えられ、さらに技術開発が進められた。この結果、当初VTOL運用時にはペイロード750kg搭載で航続距離185kmであったものが、[短距離離艦/垂直着艦（STOVL）運用とすることで](https://ja.wikipedia.org/wiki/航空機の離着陸方法#短距離離陸垂直着陸機 "wikilink")、2トンを搭載して400km、1トンに減らせば600kmにまで延伸された\[10\]。
+
+### 機体
+
+本機の機体構造の特徴は、実用機としては世界で初めてアルミ・リチウム合金を大規模採用している点にある。本機で採用されたのは01420と呼ばれる材料で、主翼の上面外板や胴体に採用された\[11\]。
+
+油圧システムとしては、メイン、アクチュエータ、バックアップの3系統に分離されている。メインは[補助翼](../Page/補助翼.md "wikilink")・[昇降舵](../Page/昇降舵.md "wikilink")・主翼折りたたみに、アクチュエータは[降着装置](../Page/降着装置.md "wikilink")や[高揚力装置](https://ja.wikipedia.org/wiki/高揚力装置 "wikilink")などに用いられ、バックアップはメイン故障時に使用される。作動液としては、メインでは通常の油圧作動油を使う一方で、アクチュエータとバックアップでは[ジェット燃料](../Page/ジェット燃料.md "wikilink")が用いられるという非常にユニークな手法が採用された。これは燃料のほうが油圧作動油よりも比重が小さく軽量化につながると期待しての措置であったが、実際の重量削減効果はわずかなものであったと考えられており、後継のYak-141では全系統が通常の油圧作動油を用いるように変更されている\[12\]。
+
+ソ連初の実用V/STOL機にして初の艦上機であったことから事故損耗が多発したが、皮肉にもこのような事態が緊急脱出時の[射出座席](../Page/射出座席.md "wikilink")の性能を上げることとなり、原型機のKYa-1Mにかえて、量産機では高性能の[K-36射出座席が搭載された](https://ja.wikipedia.org/wiki/K-36_\(射出座席\) "wikilink")。本機で採用されたK-36VMにおいては、VTOLモードの際にピッチとヨーの変化率が規定値を超えた場合、パイロットの操作に関係なく、自動的に射出座席が作動するよう設定されている。これは低高度でVTOLモードを使用中に故障が生じた場合にはパイロットがこれに対応できる時間的余裕が乏しいことから採用された措置であった\[13\]。計36機が様々な事故で失われたが、うち31機でパイロットが生還している\[14\]。
+
+### 装備
+
+本機は基本的に昼間攻撃機であり、[レーダー](../Page/レーダー.md "wikilink")[火器管制システム（FCS）はもちろん測距レーダーも備えていない](https://ja.wikipedia.org/wiki/射撃管制装置#レーダーFCS "wikilink")。照準装置としては光学式のASP-PFD-21を備えているが、これは[MiG-21PFで搭載されたものと同型である](https://ja.wikipedia.org/wiki/MiG-21_\(航空機\)#全天候型への発展 "wikilink")\[15\]。
+
+兵装は両翼下4ヶ所（左右2ヶ所ずつ）の[ハードポイント](https://ja.wikipedia.org/wiki/ハードポイント "wikilink")に搭載される。固定武装は持たず、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")から胴体下面に装着する[ガンポッド](https://ja.wikipedia.org/wiki/ガンポッド "wikilink")（[GSh-23](https://ja.wikipedia.org/wiki/GSh-23_\(機関砲\) "wikilink")[機関砲](../Page/機関砲.md "wikilink")と弾丸160発を収容）の試験が開始されたものの、装備化の決定は[1989年](../Page/1989年.md "wikilink")まで遅れたことから、実際にはハードポイントに吊下するためのUPK-23-250ガンポッド（GSh-23機関砲と弾丸250発を収容）が用いられることが多かった\[16\]。
+
+ハードポイントに搭載される兵装としては、[赤外線ホーミング誘導の](https://ja.wikipedia.org/wiki/光波ホーミング誘導#IRH-GEN2 "wikilink")[R-60](https://ja.wikipedia.org/wiki/R-60_\(ミサイル\) "wikilink")（AA-8「エイフィド」）[短距離空対空ミサイルと](https://ja.wikipedia.org/wiki/空対空ミサイル#BVR "wikilink")（AS-7「ケリー」）無線[指令誘導](https://ja.wikipedia.org/wiki/指令誘導 "wikilink")型[空対地ミサイル](../Page/空対地ミサイル.md "wikilink")、[S-5ロケット弾](https://ja.wikipedia.org/wiki/S-5ロケット弾 "wikilink")、[FAB-100](https://ja.wikipedia.org/wiki/FAB-100_\(爆弾\) "wikilink")、[FAB-500](https://ja.wikipedia.org/wiki/FAB-500_\(爆弾\) "wikilink")[無誘導爆弾](../Page/無誘導爆弾.md "wikilink")を運用できた。
+
+## 配備
+
+[1974年](../Page/1974年.md "wikilink")より[サラトフ](../Page/サラトフ.md "wikilink")航空機製造工場で量産機の製造が開始され、[1975年](../Page/1975年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")にはYak-36Mが「キエフ」に初着艦を記録。[10月24日](../Page/10月24日.md "wikilink")、サキ飛行場にて、マトコフスキー大佐を連隊長としてソ連海軍初の「艦上飛行連隊」が編制された。[1977年](../Page/1977年.md "wikilink")、Yak-38は1143型の搭載機として、正式に海軍に引き渡された。[1989年](../Page/1989年.md "wikilink")までに[派生型各種を含めて計](https://ja.wikipedia.org/wiki/#派生型 "wikilink")231機が製造された。総飛行時間は29,425時間であった\[17\]。
+
+兵装搭載量と航続性能の不足は、軽襲撃機であるYak-38にとっては問題であった。実際、[ソ連のアフガニスタン侵攻に伴い](https://ja.wikipedia.org/wiki/ソビエト連邦のアフガニスタン侵攻 "wikilink")、陸軍の要請を受けて、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に数機が同地に派遣されて対地攻撃任務に投入されたものの、肝心の対地攻撃能力がシステム・兵装両面で不足しておりほとんど役に立たなかった。結局、この任務のために特別の迷彩を施した若干機数が試験的に投入されただけでYak-38の実戦運用は終了した。
+
+VTOL機の応援者であった[ドミトリー・ウスチノフ](../Page/ドミトリー・ウスチノフ.md "wikilink")[国防相が](https://ja.wikipedia.org/wiki/ソビエト連邦の国防相 "wikilink")[1984年](../Page/1984年.md "wikilink")に、ゴルシコフ総司令官が1985年に死去すると、海軍はVTOL機への興味を急速に失っていった。[1991年](../Page/1991年.md "wikilink")には予備役編入され、[1992年](../Page/1992年.md "wikilink")には除籍された。母艦とされていた1143型重航空巡洋艦（就役後に艦種変更）も[1993年](../Page/1993年.md "wikilink")までに4隻中3隻が退役、残る「[バクー](https://ja.wikipedia.org/wiki/バクー_\(空母\) "wikilink")」も短期間のみ[ヘリ空母](../Page/ヘリ空母.md "wikilink")として活動した後、[MiG-29Kを運用する](https://ja.wikipedia.org/wiki/MiG-29K_\(航空機\) "wikilink")[STOBAR空母として改装の上で](https://ja.wikipedia.org/wiki/航空機の離着陸方法#短距離離陸拘束着艦機 "wikilink")[インド海軍](../Page/インド海軍.md "wikilink")に売却された\[18\]。
+
+成功作とはいえなかったYak-38であったが、その開発経験は次なるVTOL機の開発に大いに生かされた。しかし、後継機としてはるかに高性能の超音速VTOL戦闘機[Yak-141が設計](https://ja.wikipedia.org/wiki/Yak-141_\(航空機\) "wikilink")・製造されたときには[ソ連が崩壊し](https://ja.wikipedia.org/wiki/ソ連崩壊 "wikilink")、その生産は行われなかった。Yak-141のために開発された推力偏向ノズルなどのノウハウはアメリカに売却された。
+
+Yak-38は当初Yak-36Mとして開発されていたためか、冷戦期の[西側諸国](../Page/西側諸国.md "wikilink")ではYak-36としてYak-38の姿が描かれることが多かった。 {{-}}
+
+## 派生型
+
+  - Yak-36M
+    原型試験機。3機を製造。
+  - Yak-38
+    基本型。143機を製造。
+  - Yak-38M
+    Yak-38を元にした発展型。エンジンを強化。53機を製造。
+  - Yak-38U
+    複座練習機型。副操縦装置を備えた後席があり、ノーズコーンを変形させ、機首のレドームを撤去した。キエフ型航空巡洋艦には、地上との連絡用に最低1機が搭載されていた。38機を製造。
+
+## 諸元
+
+[Yak-38_3_point_view.svg](https://ja.wikipedia.org/wiki/File:Yak-38_3_point_view.svg "fig:Yak-38_3_point_view.svg")
+
+## 登場作品
+
+### 映画
+
+  - 『[レッド・オクトーバーを追え](../Page/レッド・オクトーバーを追え!.md "wikilink")』
+    「キエフ」搭載の「ヤク-36戦闘機フォージャー」として登場。偶発的に[R-3空対空ミサイルを発射してしまい](https://ja.wikipedia.org/wiki/R-3_\(ミサイル\) "wikilink")、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[F-14を中破させる](../Page/F-14_\(戦闘機\).md "wikilink")。
+  - 『[若き勇者たち](https://ja.wikipedia.org/wiki/若き勇者たち "wikilink")』
+    中盤、主人公達が襲撃するソ連軍基地に駐機している。本作は冷戦の真っ只中に作られた映画であるが、軍事に関して情報が少なかった当時にしては非常に精巧な原寸大模型が登場する。
+
+### アニメ
+
+  - 『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』
+    国連軍配備機として登場（ただし名称はYak-38改）。第6使徒戦の際、空母「オーバー・ザ・レインボー」から加持が脱出する際に使用。
+    『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』
+    テレビアニメ第2作第2期「ぼくらの大空中戦」[ミニ飛行機の一機として登場](https://ja.wikipedia.org/wiki/ドラえもんのひみつ道具_\(み\)#ミニ飛行機 "wikilink")。
+
+### 漫画
+
+  - 『[エリア88](../Page/エリア88.md "wikilink")』
+    主人公側と敵対する反政府軍の機体のひとつとして二度登場。1回目は、主人公達の山岳基地への[輸送機](../Page/輸送機.md "wikilink")部隊攻撃のためにその航空路直下に配備されており、2度目は、その能力を活用して山岳基地を奇襲する部隊として登場した。特殊任務での使用（森林中を飛行し敵の目を欺く）のため、内部機器に西側諸国の製品を使用し、樹木との衝突を避けるという設定と、なぜかミサイル搭載が出来ないという設定があった。
+    また、[タカラから](../Page/タカラトミー.md "wikilink")1/100スケールのプラモデルも発売されており。数少ない国内メーカーからの発売例である。
+
+### ゲーム
+
+  - 『[空戦乙女☆ヴァージンストライク](https://ja.wikipedia.org/wiki/空戦乙女☆ヴァージンストライク "wikilink")』
+    機体そのものではなく擬人化したYak-38の空乙女が複数登場している。
+  - 『[大戦略シリーズ](../Page/大戦略シリーズ.md "wikilink")』
+    ロシアの基本装備に組み込まれている。
+
+### 模型（プラモデルやバキュームキット等）
+
+冷戦期の為、国内での[東側機のスケールモデル単体での模型化による発売例は非常に少なく](../Page/東側諸国.md "wikilink")、国内メーカーによる模型化としては、前述の「エリア88」シリーズでの模型化に加え、後年に[ツクダから](../Page/ツクダオリジナル.md "wikilink")1/72スケールのプラモデルも発売されていた。
+
+またキエフ級系列艦のプラモデルに同スケールのYak-38数機が艦載機パーツとして付属している例が多い。
+
+## 参考文献
+
+## 外部リンク
+
+  - [](http://www.n-e-c.ru/foxbat/maks/kiev_museum/index.php?picid=kiev_museum131)
+
+## 関連項目
+
+  - [Yak-36 (航空機)](https://ja.wikipedia.org/wiki/Yak-36_\(航空機\) "wikilink")
+  - [Yak-141 (航空機)](https://ja.wikipedia.org/wiki/Yak-141_\(航空機\) "wikilink")
+
+[Category:ヤコブレフ設計局の航空機](https://ja.wikipedia.org/wiki/Category:ヤコブレフ設計局の航空機 "wikilink") [Category:ソ連・ロシアの戦闘機](https://ja.wikipedia.org/wiki/Category:ソ連・ロシアの戦闘機 "wikilink") [Category:VTOL機](https://ja.wikipedia.org/wiki/Category:VTOL機 "wikilink") [Category:艦載機](https://ja.wikipedia.org/wiki/Category:艦載機 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.

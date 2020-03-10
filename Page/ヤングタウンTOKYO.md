@@ -1,0 +1,108 @@
+> この記事は[TOKYO](https://ja.wikipedia.org/wiki/TOKYO)から翻訳されています。
+
+
+**ヤングタウンTOKYO**（ヤングタウントーキョー、*YOUNG TOWN TOKYO*）は、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")10月から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")9月までの間にかけて、[TBSラジオ](../Page/TBSラジオ.md "wikilink")が毎週土曜日の夜（一部日曜日未明）に放送していた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。愛称は「**ヤンタンTOKYO**」。
+
+## 概要
+
+[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")10月、『**ヤングタウン東京神出鬼没**（ヤングタウンとうきょうしんしつきぼつ）』として放送開始。[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")1月からは[TBSホールからの公開生放送に切り替わり](https://ja.wikipedia.org/wiki/赤坂メディアビル "wikilink")、同年10月『**ヤングタウンTOKIO**』に改題した後、『ヤングタウンTOKYO』となる。
+
+初代パーソナリティは[大橋巨泉](../Page/大橋巨泉.md "wikilink")。1970年6月からは桂三枝（現・[六代桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）が登場し、番組の顔として長年出演した。これはそもそもこの番組が[大阪](../Page/大阪府.md "wikilink")・[毎日放送](../Page/毎日放送.md "wikilink")（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）の『[MBSヤングタウン](../Page/MBSヤングタウン.md "wikilink")』をヒントに企画されたものであり、同番組の姉妹番組として位置付けられていたため、三枝抜きには成立しない内容となっていた。三枝は毎週土曜日午後、大阪・千里丘にある[毎日放送千里丘放送センター](../Page/毎日放送千里丘放送センター.md "wikilink")内の第1スタジオで公開録音を行った後、飛行機で東京へ移動し、夜の赤坂・TBSホールから公開[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")を行う強行スケジュールで凌いでいたという。
+
+[1972年](../Page/1972年.md "wikilink")4月15日からは『[パックインミュージック](../Page/パックインミュージック.md "wikilink")日曜（土曜）』に代わって『**ヤングタウンTOKYO・桂三枝の深夜営業**（ヤングタウントーキョー・かつらさんしのしんやえいぎょう）』がスタートして三枝が午前5時まで出演、以後[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")3月まで『**深夜営業**』が放送され、また[プロ野球ナイター中継枠のない期間も](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")1970年度から1972年度までは19時台、20時台から『ヤングタウンTOKYO』を題した番組が放送され、TBSラジオの土曜夜がほぼ全て『ヤングタウンTOKYO』だった時もあった（22・23時台は『ヤングタウンTOKYO・桂三枝の大放送』）。また[1973年](../Page/1973年.md "wikilink")10月から[1976年](../Page/1976年.md "wikilink")12月までは出演者をほぼ女性のみに限定した『**女の子だけで満員御礼**』というパートを放送していた。なお、ナイターオフ枠の『ヤングタウンTOKYO』が放送されていたころは、オフ枠を第1部、メインパートを第2部と称していた。 このころのレギュラー出演者として杉田二郎、オフコースがいる。
+
+[1984年](../Page/1984年.md "wikilink")3月で一旦終了するが、半年後の1984年10月から[ザ・グッバイのパーソナリティで](https://ja.wikipedia.org/wiki/THE_GOOD-BYE "wikilink")1年間復活。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")10月からも[中村繁之](../Page/中村繁之.md "wikilink")のパーソナリティで同じく1年間復活した。『ヤングタウンTOKYO』というタイトルでの番組は2010年現在、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")9月が最後となっている。
+
+## キャンディーズとヤンタン
+
+[キャンディーズ](../Page/キャンディーズ.md "wikilink")が大ブレイクした[1975年](../Page/1975年.md "wikilink")、メイン司会者は[桂三枝が務めており](../Page/桂文枝_\(6代目\).md "wikilink")、アシスタント的存在として[小島一慶](../Page/小島一慶.md "wikilink")（当時TBSアナウンサー）、[マリ・クリスティーヌ](https://ja.wikipedia.org/wiki/マリ・クリスティーヌ "wikilink")が居た。 夏にはメイン司会が[毒蝮三太夫](../Page/毒蝮三太夫.md "wikilink")に変更。紳士的な対応をしていた三枝に比べ、ワイルドな言動だった毒蝮は若者たちからの反発をかっていた。
+
+キャンディーズに対する時、特にスー（[田中好子](../Page/田中好子.md "wikilink")）へのセクハラまがい?の発言や行動が目立ち、その度に大ブーイングが起きていた。キャンファンの中には毒蝮を本気で憎む者も居たくらいである。
+
+ヤングタウンTOKYOの観覧には[TBSホール前で配布される整理券が必要とされた](https://ja.wikipedia.org/wiki/赤坂メディアビル "wikilink")。当時の公開放送では事前に往復ハガキで観覧申し込みを出し、返信ハガキにて入場の可否を確認するシステムが一般的であった。 ヤンタンではこの手続きが不要で、放送当日の朝（9時か10時だったと記憶…）にTBSホールへ行って整理券を取得すれば観覧することが出来た。ゲストによっては整理券を求める客が長蛇の列をなし、前夜から並ぶ徹夜組も珍しくは無かった。
+
+キャンディーズが出演する場合は100%徹夜の行列が出来ていた。当時結成間もない私設ファングループ、[スーパーキャンディーズ](https://ja.wikipedia.org/wiki/スーパーキャンディーズ "wikilink")はヤンタンの常連であり、行列の最前部を陣取っていることが多かった。
+
+公開放送への入場は整理券番号順に行われていた。TBSホールの収容人員は約400名。自由席だったため、当然整理券の番号が若いほど良席を得られた。しかしながら自由席というメリットを生かし、若番で入場した先行隊が上着や荷物で余分に座席を確保し、後から入場して来た仲間に与えるという作戦も横行していた。特に厚着となる冬季間ではマフラーなどが活躍し、1人で数名分の座席を取る手法も全く当たり前のように行われていた。
+
+キャンディーズの出演は番組の最後を飾ることが殆どであった。
+
+終演後、キャンディーズは必ず東京無線のタクシー3台に分乗して帰宅した。これを追跡するバイク隊は[スーパーキャンディーズ](https://ja.wikipedia.org/wiki/スーパーキャンディーズ "wikilink")の面々であった。
+
+[渡辺プロダクション](https://ja.wikipedia.org/wiki/渡辺プロダクション "wikilink")側はこれらの追跡や｢[出待ち](../Page/出待ち.md "wikilink")」から防御するため、カムフラージュの東京無線タクシー3台を楽屋口に横付けし、ファンの気を引きつつ当のメンバーたちは別の出口から帰らせる、という作戦に出た。
+
+ファンとしては当初は困惑したものの、バイク隊は各出口に分散して待ち伏せをし、運が良かった者だけが追跡できたという「別の楽しみ方」も発生した。
+
+毒蝮のメイン司会は[1977年](../Page/1977年.md "wikilink")までで、後継は[鈴木ヒロミツ](../Page/鈴木ヒロミツ.md "wikilink")が担当した。
+
+番組内でキャンディーズが歌っていたテーマソングはその後、歌詞違いで[アパッチの](https://ja.wikipedia.org/wiki/アパッチ_\(音楽グループ\) "wikilink")「ミッドナイト急行」としてリリースされた（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の4thシングル「カーニバル」のB面）。
+
+## 放送時間
+
+### メインパート
+
+  - 22:00 - 翌0:30 （[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")10月-[1972年](../Page/1972年.md "wikilink")9月）
+  - 22:00 - 23:55 （1972年10月-[1974年](../Page/1974年.md "wikilink")3月）
+  - 21:30 - 23:25 （1974年4月-[1981年](../Page/1981年.md "wikilink")3月）
+  - 21:00 - 22:55 （1981年4月-1981年9月、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")10月-[1984年](../Page/1984年.md "wikilink")3月）
+  - 21:00 - 22:00 （1984年10月-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")3月）
+  - 21:00 - 22:25 （[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月-1986年9月）
+
+### ナイターオフ枠（第1部）
+
+  - 20:00 - 22:00 （[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")10月-[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")3月）
+  - 19:30 - 22:00 （1971年10月-[1972年](../Page/1972年.md "wikilink")3月）
+  - 19:00 - 21:30 （1972年10月-[1973年](../Page/1973年.md "wikilink")3月）
+
+### 女の子だけで満員御礼
+
+  - 19:30 - 21:00 （1973年10月-1974年3月）
+  - 23:30 - 翌0:30 （1974年4月-[1976年](../Page/1976年.md "wikilink")12月）
+
+### 深夜営業
+
+**日曜日（土曜深夜）**
+
+  - 0:30 - 5:00 （[1972年](../Page/1972年.md "wikilink")4月-1973年9月）
+  - 1:00 - 5:00 （1973年10月-1974年9月、[1975年](../Page/1975年.md "wikilink")4月-1975年9月）
+  - 1:30 - 5:00 （1974年10月-1975年3月）
+  - 3:00 - 5:00 （1975年10月-[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")3月）
+
+## パーソナリティ
+
+### メインパート
+
+  - [大橋巨泉](../Page/大橋巨泉.md "wikilink")
+  - [はしだのりひことシューベルツ](../Page/はしだのりひことシューベルツ.md "wikilink")
+  - 桂三枝（現・[六代桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）、[小島一慶](../Page/小島一慶.md "wikilink")、[マリ・クリスティーヌ](https://ja.wikipedia.org/wiki/マリ・クリスティーヌ "wikilink") （1970年6月〜1975年9月）
+  - [毒蝮三太夫](../Page/毒蝮三太夫.md "wikilink")、小島一慶、マリ・クリスティーヌ （[1975年](../Page/1975年.md "wikilink")10月〜[1977年](../Page/1977年.md "wikilink")3月）
+      - [1976年](../Page/1976年.md "wikilink")10月にマリ・クリスティーヌから[アン・ルイス](../Page/アン・ルイス.md "wikilink")に交替。
+  - [鈴木ヒロミツ](../Page/鈴木ヒロミツ.md "wikilink")、[太田裕美](../Page/太田裕美.md "wikilink")、アン・ルイス、[岸本加世子](https://ja.wikipedia.org/wiki/岸本加世子 "wikilink") （1977年4月〜[1979年](../Page/1979年.md "wikilink")9月）
+  - [ハイ・ファイ・セット](https://ja.wikipedia.org/wiki/ハイ・ファイ・セット "wikilink") （1979年10月〜[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")3月、『サタデーハッピーハートコンサート』）
+  - [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")、[小室等](../Page/小室等.md "wikilink") （1980年4月〜[1981年](../Page/1981年.md "wikilink")9月、『サタデーナイトカーニバル』）
+  - [ザ・ぼんち](https://ja.wikipedia.org/wiki/ザ・ぼんち "wikilink")、[甲斐智枝美](https://ja.wikipedia.org/wiki/甲斐智枝美 "wikilink") （1981年10月〜1983年9月）
+  - [所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink") （1983年10月〜1984年3月）
+      - この後、引き続き同じ時間帯で『所ジョージのホロホロ天国すんごいですね』を1984年9月まで放送、同年10月からは平日に移って『所ジョージの[進め\!おもしろバホバホ隊](../Page/進め!おもしろバホバホ隊.md "wikilink")』を放送した。
+  - [ザ・グッバイ](https://ja.wikipedia.org/wiki/THE_GOOD-BYE "wikilink") （1984年10月〜1985年10月、『ザ・グッバイのマリーナ・マイ・フレッシュ・ライブ』）
+  - [中村繁之](../Page/中村繁之.md "wikilink") （1985年10月〜1986年4月・『Shige's Cafeへようこそ』、1986年4月〜1986年10月・『シゲのライブインハウス』）
+
+### 女の子だけで満員御礼
+
+  - [かまやつひろし](../Page/かまやつひろし.md "wikilink")、[鈴木ヒロミツ](../Page/鈴木ヒロミツ.md "wikilink")
+
+### 深夜営業
+
+  - 桂三枝（現・[桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")） （1972年4月〜1973年9月）
+  - [古今亭志ん朝](../Page/古今亭志ん朝.md "wikilink") （1973年10月〜1975年3月）
+  - [桂文朝](https://ja.wikipedia.org/wiki/桂文朝 "wikilink") （1975年4月〜1975年9月）
+  - [馬場こずえ](https://ja.wikipedia.org/wiki/馬場こずえ "wikilink") （1975年10月〜[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")3月）
+
+## 関連項目
+
+  - [おはようテレビ朝日](../Page/おはようテレビ朝日.md "wikilink")
+      - 東京の[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送されていた朝の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")で、大阪・[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）の『[おはよう朝日です](../Page/おはよう朝日です.md "wikilink")』を模範に作られた。この番組内のコーナー「ヤジウマ新聞」が後に『[やじうまワイド](../Page/やじうまワイド.md "wikilink")』として単一番組になり、『[やじうまテレビ\!](https://ja.wikipedia.org/wiki/やじうまテレビ! "wikilink")』に発展する。
+  - [お待たせしました 浜村淳です\!](../Page/お待たせしました_浜村淳です!.md "wikilink")
+  - [古今東西\!浜村淳](../Page/古今東西!浜村淳.md "wikilink")
+      - 上記2番組は、かつてTBSラジオで[浜村淳](../Page/浜村淳.md "wikilink")がパーソナリティを務めたラジオ番組で、MBSラジオで長年続いているワイド番組『[ありがとう浜村淳です](../Page/ありがとう浜村淳です.md "wikilink")』の東京版ともいわれた。
+
+[Category:1969年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1969年のラジオ番組_\(日本\) "wikilink") [Category:TBSラジオの番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSラジオの番組の歴史 "wikilink") [Category:TBSラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:TBSラジオのバラエティ番組 "wikilink") [Category:MBSヤングタウン](https://ja.wikipedia.org/wiki/Category:MBSヤングタウン "wikilink") [Category:大橋巨泉](https://ja.wikipedia.org/wiki/Category:大橋巨泉 "wikilink") [Category:桂文枝_(6代目)](https://ja.wikipedia.org/wiki/Category:桂文枝_\(6代目\) "wikilink") [Category:キャンディーズ](https://ja.wikipedia.org/wiki/Category:キャンディーズ "wikilink")

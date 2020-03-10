@@ -1,0 +1,112 @@
+> この記事は[Sweet Season](https://ja.wikipedia.org/wiki/Sweet_Season)から翻訳されています。
+
+
+**Sweet Season**（スウィート・シーズン）は、は[TBS系列で](../Page/TBSテレビ.md "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月15日](../Page/1月15日.md "wikilink")から[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。全11話。主演は[松嶋菜々子](https://ja.wikipedia.org/wiki/松嶋菜々子 "wikilink")。松嶋の民放連続ドラマ初主演作。放送時間は[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")[22:00-22:54](https://ja.wikipedia.org/wiki/TBS木曜10時枠の連続ドラマ "wikilink")（2月12日放送の第5話のみ、23:00-23:54）平均視聴率は12.4%、最高視聴率13.9%（第9話）。
+
+## 登場人物
+
+\*;藤谷真尋(24) - [松嶋菜々子](https://ja.wikipedia.org/wiki/松嶋菜々子 "wikilink")
+
+  -
+    [旅行会社](https://ja.wikipedia.org/wiki/旅行会社 "wikilink")[H.I.S.に勤めるOL](https://ja.wikipedia.org/wiki/エイチアイエス "wikilink")。同僚の中鉢豊と交際していたが別れ、課長の五嶋明良と[不倫](https://ja.wikipedia.org/wiki/不倫 "wikilink")関係になり、五嶋の子供を[妊娠](../Page/妊娠.md "wikilink")する。
+    かつて不倫をしていた父を憎んでいたが、その父と同じことをしている自分にジレンマを感じている。兄がいたが、10歳で事故死しており、その原因も父にあると思っている。
+
+\*;五嶋明良(33) - [椎名桔平](../Page/椎名桔平.md "wikilink")
+
+  -
+    H.I.S.の課長。会社では、部下に慕われるよき上司であったが、真尋と不倫関係に。
+    真尋が妊娠したことを知り、妻の千香子に[離婚](../Page/離婚.md "wikilink")を切り出すが、事故で[記憶喪失](https://ja.wikipedia.org/wiki/記憶喪失 "wikilink")になり、真尋との記憶を失ってしまう。
+
+\*;五嶋千香子(30) - [とよた真帆](https://ja.wikipedia.org/wiki/とよた真帆 "wikilink")
+
+  -
+    [女性誌](https://ja.wikipedia.org/wiki/女性誌 "wikilink")の記者で、明良の妻。旧姓：海老原。明良からは「**チカ**」と呼ばれている。
+    子供が無く、仕事の忙しさからすれ違い生活になっている間に明良が不倫、夫の会社に[怪文書](../Page/怪文書.md "wikilink")を送りつける。
+    叔父が明良の会社の常務。真尋を自宅に呼び出し、「ここは明良との、歴史なのよ！」と真尋を責める。
+
+\*;中鉢豊(24) - [袴田吉彦](../Page/袴田吉彦.md "wikilink")
+
+  -
+    真尋の元交際相手。真尋が妊娠し[中絶](https://ja.wikipedia.org/wiki/中絶 "wikilink")を考えている時に自分と結婚して生むよう持ちかける。
+
+\*;藤谷由真(19) - [矢田亜希子](../Page/矢田亜希子.md "wikilink")
+
+  -
+    真尋の妹。女子大生で、姉の会社でアルバイトをしている。
+    ぎくしゃくしがちな家族を和ませる役回りを果たしていたが、姉の不倫、父の過去の不倫を知り、態度を硬化させる。
+
+\*;神田真治(21) - [井ノ原快彦](../Page/井ノ原快彦.md "wikilink")
+
+  -
+    真也の隠し子。[仙台市](../Page/仙台市.md "wikilink")在住。ある日突然藤谷家を訪れる。
+
+\*;藤谷哉也子(47) - [市毛良枝](https://ja.wikipedia.org/wiki/市毛良枝 "wikilink")
+
+  -
+    真尋、由真の母。不倫の末戻って来た夫真也を受け入れたが、[隠し子](../Page/隠し子.md "wikilink")の存在を知るに至り、離婚を切り出す。
+    真尋と真也の不仲に悩む。
+
+\*;藤谷真也(53) - [蟹江敬三](../Page/蟹江敬三.md "wikilink")
+
+  -
+    真尋、由真の父。真尋が五嶋と不倫旅行中のところを偶然発見する。かつて不倫をし、そのせいで長男が事故死したため、真尋には十数年無視され続けてきた。
+    その際に愛人がいる仙台へ家出をしたが、子供ができていたとは知らず、結局家族の元に戻った。
+
+\*;小泉富士(61 - 62) - [野際陽子](../Page/野際陽子.md "wikilink")
+
+  -
+    哉也子の母で、真尋、由真の祖母。18歳で出産し、愛人を作った夫と別れ、女手一つで哉也子を育てた。娘や孫たちとは仲がよいが、真也には冷たく、不仲である。かつて真也の愛人が仙台から訪ねてきた際には、手切れ金を渡して追い返している。真也の隠し子の存在を唯一知る人物。
+
+\*;五嶋正(53) - [前田吟](../Page/前田吟.md "wikilink")
+
+  -
+    明良の父。第8話のみの出演。
+
+\*;小松原佐紀 - [安達香代子](https://ja.wikipedia.org/wiki/安達香代子 "wikilink")
+
+  -
+    真尋の友人。
+
+## スタッフ
+
+  - 脚本 - [青柳祐美子](../Page/青柳祐美子.md "wikilink")
+  - プロデューサー - [貴島誠一郎](https://ja.wikipedia.org/wiki/貴島誠一郎 "wikilink")
+  - 演出 - [福澤克雄](../Page/福澤克雄.md "wikilink")、[片山修](https://ja.wikipedia.org/wiki/片山修 "wikilink")、[三城真一](https://ja.wikipedia.org/wiki/三城真一 "wikilink")
+  - プロデューサー補 - 小松貴生
+  - 演出補 - 佐々木雅之、坪井敏雄、[瀬戸口克陽](../Page/瀬戸口克陽.md "wikilink")、川嶋龍太郎、浜崎空
+  - 選曲 - [辻田昇司](https://ja.wikipedia.org/wiki/辻田昇司 "wikilink")
+  - 音楽協力 - 日音
+  - 主題歌 - 「[LOVE AFFAIR 〜秘密のデート](../Page/LOVE_AFFAIR_〜秘密のデート.md "wikilink")」[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink") （[タイシタレーベル](https://ja.wikipedia.org/wiki/タイシタレーベル "wikilink")）
+  - 協力 - [東通](https://ja.wikipedia.org/wiki/東通 "wikilink")、[緑山スタジオ・シティ](../Page/緑山スタジオ・シティ.md "wikilink")
+  - 製作著作 - TBS
+
+## サブタイトル
+
+| 各話                                                                                                                 | 放送日        | サブタイトル    | 視聴率                                    |
+| ------------------------------------------------------------------------------------------------------------------ | ---------- | --------- | -------------------------------------- |
+| 第1話                                                                                                                | 1998年1月15日 | 愛人と呼ばないで  | 12.1%                                  |
+| 第2話                                                                                                                | 1998年1月22日 | 深みにはまる愛   | 12.4%                                  |
+| 第3話                                                                                                                | 1998年1月29日 | 父親の不倫を暴露  | 12.0%                                  |
+| 第4話                                                                                                                | 1998年2月5日  | シングル・マザー  | 12.7%                                  |
+| 第5話                                                                                                                | 1998年2月12日 | 別れられない言葉  | 11.6%                                  |
+| 第6話                                                                                                                | 1998年2月19日 | 妻の激しい反撃   | 12.1%                                  |
+| 第7話                                                                                                                | 1998年2月26日 | 私の人生返して\! | <span style="color:blue;">10.5%</span> |
+| 第8話                                                                                                                | 1998年3月5日  | 隠し子       | 13.5%                                  |
+| 第9話                                                                                                                | 1998年3月12日 | 記憶        | <span style="color:red;">13.9%</span>  |
+| 第10話                                                                                                               | 1998年3月19日 | 帰らざる愛の日々  | 12.2%                                  |
+| 最終話                                                                                                                | 1998年3月26日 | 幸せへの結論    | 13.3%                                  |
+| 平均視聴率 12.4%（視聴率は[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社調べ） |            |           |                                        |
+
+  - 第5話は『[長野オリンピック](../Page/1998年長野オリンピック.md "wikilink")』中継の為、23:00 - 23:54に放送\[1\]。
+
+## 受賞歴
+
+  - 第16回[ザテレビジョンドラマアカデミー賞](https://ja.wikipedia.org/wiki/ザテレビジョンドラマアカデミー賞 "wikilink")
+      - **撮影賞**
+      - **タイトルバック賞**（福澤克雄）
+
+## 脚注
+
+[Category:TBS木曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS木曜10時枠の連続ドラマ "wikilink") [Category:1998年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1998年のテレビドラマ "wikilink") [Category:恋愛ドラマ](https://ja.wikipedia.org/wiki/Category:恋愛ドラマ "wikilink") [Category:不倫を扱ったテレビドラマ](https://ja.wikipedia.org/wiki/Category:不倫を扱ったテレビドラマ "wikilink") [Category:横浜市を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:横浜市を舞台としたテレビドラマ "wikilink")
+
+1.  1998年2月12日 信濃毎日新聞 テレビ欄

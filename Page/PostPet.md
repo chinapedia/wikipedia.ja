@@ -1,0 +1,211 @@
+> この記事は[PostPet](https://ja.wikipedia.org/wiki/PostPet)から翻訳されています。
+
+
+**PostPet**（ポストペット）は、[ソニーコミュニケーションネットワーク株式会社](../Page/ソニーネットワークコミュニケーションズ.md "wikilink")（[So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")）が販売していた[電子メールクライアント](../Page/電子メールクライアント.md "wikilink")、およびそのキャラクターが登場する作品の総称。略称は「ポスペ」。
+
+## 概要
+
+単なる電子メールの送受信機能に留まらず、ソフトに内蔵された[ペットによるメール配達](../Page/バーチャルペット.md "wikilink")、ペットの育成、コミュニケーションなどが可能で、愛玩メールソフトとも呼ばれた。
+
+「- V3」まで及び「Webメール de - 」は電子メールクライアントだが、「- 4you」はソーシャルメッセージングクライアントとして開発。「- Now」は[Twitter](../Page/Twitter.md "wikilink")クライアント、「PostPetVR」はスマートフォンアプリとして開発されていた。その他にゲームとして、携帯電話アプリ「ポストペットパラダイス」（サービス終了）や、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")ソフト「PostPetDS 夢見るモモと不思議のペン」がある。
+
+モモ・コモモは[So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")や[ソニー銀行](../Page/ソニー銀行.md "wikilink")のマスコットキャラクターとしても活動しており、So-netの随所でモモが登場するほか、ソニー銀行ではPostPetのデザインが施された口座管理サービス「MONEYKit-PostPet」や、キャッシュカードもある\[1\]。
+
+## リリース履歴
+
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）
+      - 1月 - **PostPet for Macintosh β版**公開
+      - 5月 - **PostPet Park**開設（2008年8月31日閉鎖）
+      - 6月 - **PostPet for Macintosh Version 1.0**公開
+      - 7月 - **PostPet for Windows β版**公開
+      - 9月 - **PostPet for Windows Version 1.0**公開
+      - 11月 - **PostPet DX**（PostPet Version 1.1）発売 - パッケージ版が発売された最初のバージョン。
+      - 11月26日 - [マルチメディアグランプリ '97で通産大臣賞を受賞](https://ja.wikipedia.org/wiki/デジタルコンテンツグランプリ "wikilink")\[2\]。モモ妹が登場。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）
+      - **PostPet Version 1.0**
+  - 1998年（平成10年）12月 - **PostPet 2001**発売 - 最初のメジャーバージョンアップ版。
+  - [1999年](../Page/1999年.md "wikilink")（平成11年）
+      - 7月 - **PostPet for WindowsCE**発売\[3\]
+      - 9月 - **PostPet for Windows ver.2.0jp ViaVoice対応版**発売\[4\]
+  - [2000年](../Page/2000年.md "wikilink")（平成12年）
+      - 4月12日 - ポストペット専用端末機**PocketPostPet**発売（[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")）\[5\]
+      - 9月 - 子供向け電子メールソフト**PostPet kids**発売
+  - [2002年](../Page/2002年.md "wikilink")（平成14年）12月 - **PostPet V3**（[OpenGL](../Page/OpenGL.md "wikilink")版、Macintosh版）発売 - 2001に続くメジャーバージョンアップ版。フルポリゴン化された。
+  - [2003年](../Page/2003年.md "wikilink")（平成13年）
+      - 3月 - **PostPet V3**（Windows / Macintosh ハイブリッド版）発売
+      - 5月 - 携帯メールアプリ**ケータイポストペット**（NTTドコモ・ボーダフォン向け）サービス開始
+      - 6月 - **PostPet V3＋サービス**正式サービス開始
+  - [2004年](../Page/2004年.md "wikilink")（平成14年）2月 - **ケータイポストペットDX**サービス開始（NTTドコモFOMA900iシリーズ対応）
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）10月 - [ウェブメール](https://ja.wikipedia.org/wiki/ウェブメール "wikilink")サービス**Webメール de PostPet**サービス開始 - [So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")のウェブメールサービス。2013年9月1日 午前2:00をもってサービス終了\[6\]。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年） - **PostPet Window β**
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）
+      - **PostPet 4you** - V3以来の新バージョン。従来のメールクライアントサービスからウェブブラウザと[Flashを使用したソーシャルメッセージングサービスにリニューアルした](../Page/Adobe_Flash.md "wikilink")。
+      - 5月8日 - Windows向けオンラインゲーム「**PostPet Type-M**」を発表\[7\]。2008年冬にサービス開始予定だったが、開発中止。
+      - 5月26日 - 携帯電話向けRPG風すごろくゲーム「**ポストペットパラダイス**」をリリース\[8\]。
+      - 10月3日 - ブログをまとめた書籍「モモ妹のオトメな日々。」（モモ妹 著　[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")　ISBN 978-4-8401-2442-3）発売。
+  - [2009年](../Page/2009年.md "wikilink")（平成21年）
+      - So-net 台湾にてWebメールサービス「**電郵寵物PostPet**」を開始。
+      - 12月24日 - [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")ソフト『**PostPetDS 夢見るモモと不思議のペン**』発売（発売元:[マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスAQL "wikilink")）。 PostPetのキャラクターをそだてる“ 育成スローライフコミュニケーション ”ゲーム。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）5月31日 - PostPet 4youのサービスを終了\[9\]。
+  - [2011年](../Page/2011年.md "wikilink")（平成23年） - PostPetV3をベースとした[Twitter](../Page/Twitter.md "wikilink")クライアント・アプリケーション**PostPetNow**を開発開始。2010年夏のパブリックベータ版公開を目指していたが、採算が取れないと判断され、開発停止\[10\]。
+  - [2016年](../Page/2016年.md "wikilink")（平成28年）7月 - PostPetNowをベースとした**PostPetVR**の開発資金を[クラウドファンディング](https://ja.wikipedia.org/wiki/クラウドファンディング "wikilink")で募集。ただし2019年時点では、出資者を対象としたスマートフォンアプリ「PostPet VR Lite β版」の公開にとどまっている\[11\]。
+
+## 開発の背景
+
+開発者の[八谷和彦](https://ja.wikipedia.org/wiki/八谷和彦 "wikilink")が見た、テディベアがメールを運ぶという夢がアイデアになっている\[12\]。また『[ジョジョの奇妙な冒険 Part4 ダイヤモンドは砕けない](../Page/ダイヤモンドは砕けない.md "wikilink")』第四部に登場するスタンド・ハーヴェストから着想を得たとも述べている\[13\]\[14\]。 ペットは「切手の精霊」という概念で、大切な人とコミュニケーションをするために使うというコンセプトのもとで作られている\[15\]。
+
+## キャラクター
+
+  - PostPet Version 1.0、PostPet DXに登場するペットは以下の4種類。
+      - テディベア :ピンクのクマのぬいぐるみ。通称モモ。台湾名は毛毛。PostPetの象徴的キャラクターであり、So-netのイメージキャラクターとしてCMに出演することもある。その他[ソニー生命](https://ja.wikipedia.org/wiki/ソニー生命 "wikilink")等ソニーグループ企業にも使われている。
+        ミニウサギ :通称ミッピ。台湾名は蜜小兔。
+        オカガメ :通称スミコ。台湾名は小澄。
+        ネコ :通称フロ。台湾名は芙蘿。
+  - PostPet 2001、PostPet for WindowsCE、PostPet ViaVoice 対応版、PocketPostPet、PostPet kidsでは、上記に加え、以下の4種類のペットが登場。
+      - ビッグマウスハムスター :通称じんぱち。台湾名は金吉。
+        フクロペンギン :通称ウシェ。台湾名は羽榭。
+        イヌ :通称ジョン。台湾名は強強。
+        ひみつメカ :通称シンゴ。
+  - PostPetV3では上記のうちひみつメカを除く7種類のペットに加え、以下の3種類のペットが登場した。
+      - コモモ族 :通称コモモ。台湾名は可摩。いろいろな色がある。
+        ヤングポストマン :通称竹千代。台湾名は竹千代。
+        ひみつロボ :ひみつメカの変身した姿。通称シンゴR。台湾名は真吾R。
+  - Webメール de PostPetでは、10周年企画として、上記に加え、次のペットが登場した。
+      - キグルミヒツジ :通称モコ。台湾名は摩卡。
+  - この他、ペットではないが登場するキャラクターとして以下のものがある。
+      - アンノウン :紙袋をかぶったキャラクター。上位バージョンから自分の使っているポストペットにはないペットが訪問した場合、この姿で表示される。
+        ポストマン :ポストペットを使用していない相手とのやりとりに使われるキャラクター。
+        キングポストマン :ペットの行動を見守り、報告するキャラクター。
+        イソウロウ :自分の家にしばらく住み着き、世話などをすることが出来るキャラクター。しばらくすると家から出ていく。PostPetV3から登場。
+
+### 生モモファミリー
+
+イベントなどに登場する着ぐるみ。通称「生モモ」。生モモファミリーの中でも、「モモ妹」がPostPetのモモに相当する役割を担っており、CMやイベントなどで活躍している\[16\]\[17\]。生モモファミリーは、見た目がほとんど変わらないため見分けづらい。
+
+モモ妹は、[日本対がん協会](https://ja.wikipedia.org/wiki/日本対がん協会 "wikilink")・中華民國乳癌病友協會（[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")）の[ピンクリボン](https://ja.wikipedia.org/wiki/ピンクリボン "wikilink")運動\[18\]\[19\]\[20\]、東京都乳がん検診普及啓発事業\[21\]のイメージキャラクターを歴任している。
+
+  - モモ兄 - モモ族。生モモファミリーの長男。2000年7月5日に、CD「Make Me Happy」（[規格品番](../Page/規格品番.md "wikilink")：ESCB-2137）でCDデビュー。
+  - モモ弟 - モモ族。生モモファミリーの次男。ドイツにサッカー留学をしていた。現在は香港で料理人として修行中。
+  - モモ妹 - モモ族。生モモファミリーの長女。大学生でダンサー・マルチタレント志望であったが、2007年にポストペット新聞社に記者として就職。好物はメロンパン。So-netの広報活動も積極的に行っている。
+  - モモ末っ子 - モモ族。生モモファミリーの末っ子。性別不明。やんちゃな性格。
+  - モモの花 - モモ族。モモ兄弟のおじにあたるが、性別は不明。生モモファミリーの芸能担当。元格闘家。
+  - MOMOMIX - モモ族。モモ妹の友達。本名、モモ美。写真家志望。現在は台湾で活動している\[22\]\[23\]。
+  - コモ太 - コモモ族。考古学者志望。
+  - モモ太 - モモ族。オーストラリアを自転車で横断することが夢。
+  - ショー・コモモ - コモモ族の男。本名不明。アクション俳優志望。
+  - コモモ - コモモ族。パティシエ志望のフリーター。
+
+この他にも、モモりん（モモ族　[ゼリア新薬](https://ja.wikipedia.org/wiki/ゼリア新薬 "wikilink")専属の生モモ）、モコ・リョーシカ（キグルミヒツジ）などがいる。
+
+### moamomo
+
+PostPetのキャラクターを20代女性向けにデザインし直したもので、電子メールクライアントのPostPetとは世界観がやや異なり、切手の精霊ではなく、利用者の日常生活の中に溶け込んで暮らす妖精のような存在として定義されている\[24\]。2013年公開。これ以降、ウェブサイト・広告などでPostPetのイラストが使われる場合は、moamomoのデザインが使用されている。
+
+## 関連ソフト
+
+  - イタdeモモ - Window・Macintosh用ネットワーク対戦型ボードゲーム。 発売：ソニー・ミュージックディストリビューション　制作：株式会社ヴィアール・ワン
+  - PostPet TypeLand 打モモ - タイピング練習ソフト 発売：[DigiCube](https://ja.wikipedia.org/wiki/DigiCube "wikilink")
+  - PostPet TypeLand2 打モモも - タイピング練習ソフト 発売：[DigiCube](https://ja.wikipedia.org/wiki/DigiCube "wikilink")
+  - ケータイポストペット - [iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")
+  - ケータイポストペットDX - iアプリ
+  - ケータイポストペットEX - iアプリ・[S\!アプリ](../Page/S!アプリ.md "wikilink")
+  - ポストペットトラベラーズ - iアプリ・[Javaアプリ](../Page/S!アプリ.md "wikilink")
+  - ポストペットパラダイス - iアプリ・S\!アプリ
+  - PostPetDS 夢見るモモと不思議のペン - [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")ソフト
+
+## その他
+
+  - [2000年](../Page/2000年.md "wikilink")（平成12年）[7月15日](../Page/7月15日.md "wikilink")にモモが「モモ produce by [ケン・イシイ](../Page/ケン・イシイ.md "wikilink")」としてシングル『MAKE ME HAPPY』で[CDデビュー](../Page/コンパクトディスク.md "wikilink")。限定盤と通常盤の同時発売。限定盤は[オリコンシングルチャート初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")78位を記録。
+  - PostPet V3では、V3繋がりで『[仮面ライダーV3](../Page/仮面ライダーV3.md "wikilink")』とのコラボレーションが行われた\[25\]。
+  - 雑誌[なかよし](../Page/なかよし.md "wikilink")にて、2006年2月号から2008年2月号まで、[かなしろにゃんこ](https://ja.wikipedia.org/wiki/かなしろにゃんこ "wikilink")により「[ポストペットスクール](https://ja.wikipedia.org/wiki/ポストペットスクール "wikilink")」が連載された。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）は、[ゲームポット](https://ja.wikipedia.org/wiki/ゲームポット "wikilink")とSo-netが提携を行った記念として、「[スカッとゴルフ パンヤ](../Page/スカッとゴルフ_パンヤ.md "wikilink")」のイベントを実施している。
+
+## 関連項目
+
+  - [ポストペットモモ便](https://ja.wikipedia.org/wiki/ポストペットモモ便 "wikilink")
+  - [Webメール](https://ja.wikipedia.org/wiki/Webメール "wikilink")
+  - [八谷和彦](https://ja.wikipedia.org/wiki/八谷和彦 "wikilink")
+
+## 脚注・出典
+
+<references />
+
+## 関連サービス
+
+  - [MONEY Kit-PostPet](http://moneykit.net/visitor/pp/pp01.html)（[ソニー銀行](../Page/ソニー銀行.md "wikilink")）
+  - [PostPet FunFactory](http://www.ppf.taito.co.jp/)
+  - [Webメール de PostPet](http://postpet.jp/webmail/index.html)
+  - [ケータイポストペットパーク](http://www.postpet.so-net.ne.jp/keitai/)
+
+## 関連サイト
+
+SNS
+
+  -
+  -
+  - moamomo
+
+  - （台湾）
+
+生モモファミリー
+
+  - [生モモ兄のホームページ](http://www006.upp.so-net.ne.jp/momo_ani/)
+  - [チェキラッ](http://www.sonymusic.co.jp/MoreInfo/Chekila/Postpet/momomix/) - MOMOMIXのウェブサイト
+
+So-netの広報
+
+  - [モモ妹、PRESS腕章が入りません。](https://momo-imouto.blog.ss-blog.jp/) - モモ妹による広報用ウェブログ
+
+  - [モモなび](https://postpet.jp/momonavi/) - モモ妹によるソニーグループのPR
+
+  - モモ妹による広報アカウント
+
+  -
+  - 表情をアレンジしたモモ・コモモを、マスコットキャラクターとして使用
+
+企画
+
+  - [みんなで作ろう♪PostPet10年史](https://pphistory.blog.ss-blog.jp/)
+  - [PostPetつれづれ企画日記](https://postpetwm.blog.ss-blog.jp/) - Webメール de PostPetのブログ
+
+## 外部リンク
+
+  - [ポストペット](https://postpet.jp/) - <http://www.so-net.ne.jp/postpetjp/> と同一内容。
+
+  - [PostPet台灣官方網站-人氣明星MOMO熊](http://postpet.com.tw/)（台湾）
+
+  - [電郵寵物PostPet](http://www.postpet.com.tw/webmail/)
+
+  - [PostPetDS 夢見るモモと不思議のペン 公式サイト](https://postpet.jp/ds/)
+
+  - ポストペット公式サイトの広報アカウント
+
+  - [ポストペット省](https://www.postpet.info/) - ポストペット利用者によるファンサイト
+
+[Category:電子メールソフト](https://ja.wikipedia.org/wiki/Category:電子メールソフト "wikilink") [Category:So-net](https://ja.wikipedia.org/wiki/Category:So-net "wikilink") [Category:1997年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1997年のソフトウェア "wikilink")
+
+1.  「[MONEYKit-PostPet](https://moneykit.net/visitor/promo/promo_pp/promo_pp01.html?cid=so-net2012073)」『ソニー銀行』 ソニー銀行株式会社
+2.  庄田恵美「[ASCII.jp：マルチメディアグランプリ'97発表通商産業大臣賞は『ポストペット』に](https://ascii.jp/elem/000/000/301/301520/)」『ASCII.jp』 1997年11月26日、角川アスキー総合研究所
+3.
+4.  「[ソニー、ViaVoiceに対応し、音声で操作できるPostPet](https://pc.watch.impress.co.jp/docs/article/990727/sony.htm)」『PC Watch』 1999年7月27日、インプレス
+5.  「[So-net、カシオ、ドコモら、ポストペット専用端末を開発。4月12日より発売](https://internet.watch.impress.co.jp/www/article/2000/0404/postpet.htm)」『INTERNET Watch』 インプレス、2000年4月4日
+6.
+7.  株式会社ゲームポット「[株式会社ゲームポット『PostPet Type-M（タイプ エム：コードネーム）』の運営を決定！](http://www.gamepot.co.jp/pdf/press_release/080508_PostPet.pdf)」『GMO GP株式会社』 GMO GP株式会社、2008年5月8日
+8.  「[So-net、「PostPet」キャラクタのRPG風すごろく、iモード/Yahoo\! ケータイ「ポストペットパラダイス」](https://game.watch.impress.co.jp/docs/20080526/pp.htm)」『Game Watch』 インプレス、2008年5月26日
+9.  [PostPet 4you大切なお知らせ](http://postpet.jp/4you/information.html)
+10. 八谷和彦「ポストペットの新タイトル、PostPetVRを作ります。　[ホーム](https://camp-fire.jp/projects/14723/)」『CAMPFIRE』
+11. 八谷和彦「ポストペットの新タイトル、PostPetVRを作ります。　[活動報告](https://camp-fire.jp/projects/14723/activities#main)」『CAMPFIRE』
+12. 「[今注目のメールソフト、ポストペットで遊ぼう！](https://internet.watch.impress.co.jp/www/article/971013/special.htm#interview)」『internet Watch』 インプレス、1997年10月13日
+13.
+14.
+15. 三川夏代「[＼モモちゃんおかえり！／VR開発を機に振り返るPostPet（ポストペット）の今までとこれから](https://kakeru.me/other/natsu-postpet/)」『kakeru』 株式会社オプト、2017年11月28日
+16. 「[生モモ紹介](https://postpet.jp/imouto/)」『PostPet Official Site』 ソニーネットワークコミュニケーションズ株式会社、2018年
+17. 「[生モモ兄のホームページ](http://www006.upp.so-net.ne.jp/momo_ani/)」
+18. 「[ピンクリボンフェスティバルの歴史](http://www.pinkribbonfestival.jp/festival/list.html)」『ピンクリボンフェスティバル公式サイト』 ピンクリボンフェスティバル運営委員会
+19. 「[ピンクリボン活動](https://postpet.jp/pinkribbon/)」『PostPet』 ソニーネットワークコミュニケーションズ株式会社
+20. 「[So-net 粉紅絲帶活動 愛波大使MOMO響應乳癌防治](https://events.so-net.net.tw/pinkribbon2019)」『So-net』 So-net Entertainment Taiwan
+21. 「とうきょう健康ステーション　[ピンクリボン in 東京](http://www.fukushihoken.metro.tokyo.jp/kensui/gan/torikumi-tomin/pinkribon/)」『東京都福祉保健局』 東京都福祉保健局
+22. 「[日本語で安心！So-netでインターネット](https://www.taipeinavi.com/special/5050142)」『台北ナビ』 株式会社台湾ナビ、2014年2月18日
+23.
+24. 「[moamomoキャラクター制作](https://www.icca.co.jp/works/character/moamomo/)」『icca』 株式会社イッカ
+25. [LifeStyle：PostPet「モモV3」が変身する？](https://www.itmedia.co.jp/broadband/0210/16/momo.html)、ITmedia、2002年10月16日　02:46 AM 更新。

@@ -1,0 +1,45 @@
+> この記事は[MBS](https://ja.wikipedia.org/wiki/MBS)から翻訳されています。
+
+
+『**MBSナイトアングル**』（エムビーエスナイトアングル）は、[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")（[毎日放送](../Page/毎日放送.md "wikilink")）で放送されていた[報道番組](../Page/報道番組.md "wikilink")である。
+
+『[MBSニュースワイドアングル](../Page/MBSニュースワイドアングル.md "wikilink")』の姉妹編として、平日 21:00 - 21:30に放送。ただし、プロ野球シーズン中には原則『[MBSタイガースナイター](https://ja.wikipedia.org/wiki/MBSタイガースライブ "wikilink")』の終了後に30分間放送という形を取っていた。番組は大きく3コーナーからなり、序盤がその日1日のまとめのニュース、中盤が特集「トゥディズ・アングル」、終盤がスポーツと天気という構成だった。
+
+後継番組は23:55 - 0:00に放送の『[MBSニュース最終便](../Page/MBSニュース最終便.md "wikilink")』。
+
+## トゥディズ・アングル
+
+  - 月曜日 エコノアングル（経済情報）
+  - 火曜日 週刊プレジデント（インタビュアー：[子守康範](https://ja.wikipedia.org/wiki/子守康範 "wikilink")）
+  - 水曜日 週刊お仕事図鑑
+  - 木曜日 木曜アングルレポート
+  - 金曜日 来週の予定
+
+放送開始当初は火曜日が「アングルレポート」、木曜日が「週刊プレジデント」という構成だったが、半年で曜日を交換した。また、水曜日も当初は「データアングル」というコーナーだったが、1年後に内容が変更された。
+
+## キャスター
+
+### 2003年4月 - 2003年9月
+
+  - 月曜日 - 水曜日 [亀井希生](https://ja.wikipedia.org/wiki/亀井希生 "wikilink")
+  - 木曜日 - 金曜日 [大月勇](../Page/大月勇.md "wikilink")
+
+### 2003年10月 - 2004年3月
+
+  - 月曜日 - 水曜日 大月勇
+  - 木曜日 - 金曜日 [大八木友之](https://ja.wikipedia.org/wiki/大八木友之 "wikilink")
+
+### 2004年4月 - 2005年3月
+
+  - 月曜日 - 火曜日 [山中真](https://ja.wikipedia.org/wiki/山中真 "wikilink")
+  - 水曜日 - 金曜日 大八木友之
+
+## エピソード
+
+プロ野球シーズン中の『MBSタイガースナイター』で[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")が勝利した際には、オープニングで球場の放送席とスタジオを結び、その日の試合を振り返って いた（ビジター試合で他局製作時にはベンチリポート担当のアナウンサーが電話出演する時もあった）。しかし、2003年シーズン中担当の亀井は[名古屋市](../Page/名古屋市.md "wikilink")出身で[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")ファンだったため、担当日の阪神-中日戦で阪神の勝利（つまり中日の敗戦）の日には、放送席とスタジオの女性アシスタントが盛り上がっている中、一言も口を挟まなかった。
+
+## 補足
+
+本来MBSラジオは、他の[JRNのラジオネットワークと同様に](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")『[BATTLE TALK RADIO アクセス](../Page/BATTLE_TALK_RADIO_アクセス.md "wikilink")』の生放送をネットする予定で準備を進めていたが、契約成立直前に破談し、緊急報道特別番組を除いてネットできなくなったため、代わりにMBSラジオの自社制作によるニュース最終版を編成ざるを得なくなり、（詳細については[オレたちやってま〜す](../Page/オレたちやってま〜す.md "wikilink")を参照のこと）。この時間の前身番組は『[+M](../Page/+M.md "wikilink")』。
+
+[Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:毎日放送ラジオ帯番組の歴史](https://ja.wikipedia.org/wiki/Category:毎日放送ラジオ帯番組の歴史 "wikilink") [Category:ローカルラジオ局のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のニュース・報道番組 "wikilink")

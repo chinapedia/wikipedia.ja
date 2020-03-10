@@ -1,0 +1,1417 @@
+> この記事は[PSV](https://ja.wikipedia.org/wiki/PSV)から翻訳されています。
+
+
+**フィリップス・スポルト・フェレニヒング** (, ) は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[アイントホーフェン](../Page/アイントホーフェン.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")（1部）に所属している。正式名称はEindhovense Voetbalvereniging **P**hilips **S**port **V**ereniging。PSVは現地の発音をカタカナ表記すると、**ペーエスフェー**となる。PSVはフィリップス・スポーツクラブを意味し、その名の通りサッカー以外にも多くのスポーツチームを所有している。アイントホーフェンに本社を持つ[フィリップス](../Page/フィリップス.md "wikilink")（電機メーカー）の企業クラブとして創設され、2016年までメインスポンサーだったが経営面には立ち入らなかった\[1\]。株式公開会社(NV)だが上場せず、匿名の出資者に支えられている\[2\]。
+
+## 概要
+
+1913年創設。[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")では22回、[KNVBカップ](../Page/KNVBカップ.md "wikilink")では9回、[ヨハン・クライフ・スハール](../Page/ヨハン・クライフ・スハール.md "wikilink")では9回優勝している。[アヤックスや](../Page/アヤックス・アムステルダム.md "wikilink")[フェイエノールト](../Page/フェイエノールト.md "wikilink")とともに、[UEFAチャンピオンズカップの優勝経験があるオランダの](../Page/UEFAチャンピオンズリーグ.md "wikilink")3大クラブのひとつである。1987-88シーズンの同大会では決勝で[SLベンフィカ](../Page/SLベンフィカ.md "wikilink")（ポルトガル）を破って優勝し、同時にエールディヴィジとKNVBカップも含めた[トレブル](https://ja.wikipedia.org/wiki/トレブル "wikilink")（3冠）も達成した。1977-78シーズンには[UEFAカップで決勝に進出し](https://ja.wikipedia.org/wiki/UEFAカップ1977-78 "wikilink")、[SCバスティア](../Page/SCバスティア.md "wikilink")（フランス）を破って優勝した。
+
+「ブーレン (, , オランダ語で百姓) 」というニックネームがある。アイントホーフェンは[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")や[ロッテルダム](../Page/ロッテルダム.md "wikilink")などの都会から遠く離れた地方にあるため、当初はライバルクラブのサポーターが侮蔑的な意味合いで用いていたが、PSVのサポーターは[ブラバンティアン文化に対する誇りから](https://ja.wikipedia.org/wiki/北ブラバント州 "wikilink")、進んでこのニックネームを用いている。ユニフォームには[北ブラバント州](https://ja.wikipedia.org/wiki/北ブラバント州 "wikilink")旗がデザインされており、スタジアム周辺にも州旗が掲げられている。ホームスタジアムは35,000人収容の[フィリップス・スタディオン](https://ja.wikipedia.org/wiki/フィリップス・スタディオン "wikilink")であり、アイントホーフェン市のストレイプ地区に位置する。
+
+## 歴史
+
+[PSV_Kampioenselftal_1929.jpg](https://ja.wikipedia.org/wiki/File:PSV_Kampioenselftal_1929.jpg "fig:PSV_Kampioenselftal_1929.jpg")
+
+### フィリップスとの関係
+
+[フィリップス](../Page/フィリップス.md "wikilink")の創業者であるヘラルト・フィリップスとヘラルトの弟であるアントン・フィリップスがクラブの設立を命じ、フィリップス系列各社の企業チームとして歴史が始まった。設立日は1913年8月31日であり、オランダの独立（[ナポレオン戦争](../Page/ナポレオン戦争.md "wikilink")でのフランスの敗北）から100周年を記念して行なわれたフィリップス主催のスポーツ大会後に設立された（公式サイト）。クラブ創設と同時に、ホームスタジアムとしてフィリップス・スポルトパルクが建設された。このようにクラブ設立にフィリップスが密接にかかわっていたため、「胸スポンサー」の概念が[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")に導入された1982年以降は2016年まで例外なくフィリップスが胸スポンサーを務め、これはオランダの最長記録となっている。
+
+### 1960年代以前
+
+オランダサッカーリーグ選手権（エールディヴィジの前身となるアマチュアリーグ）が創設されたのは1888年であるが、PSVは1915年に初参戦した。10年間は下部リーグでプレーしていたが、1926年にトップリーグに初昇格し、[AFCアヤックス](../Page/アヤックス・アムステルダム.md "wikilink")（1917-18シーズンに初優勝）や[フェイエノールト](../Page/フェイエノールト.md "wikilink")（1923-24シーズンに初優勝）に遅れて、1928-29シーズンにトップリーグ初優勝を果たした。1934-35シーズンには2度目の優勝を果たしたが、この時期のアヤックスやフェイエノールトは強豪としての地位を固めており、1930年代にはアヤックスが5回、フェイエノールトが3回優勝している。1949-50シーズンには[KNVBカップ](../Page/KNVBカップ.md "wikilink")で初優勝し、1950-51シーズンにはリーグ戦で16年ぶり3回目の優勝を果たした。1950年代には[クーン・ディレン](https://ja.wikipedia.org/wiki/クーン・ディレン "wikilink")がエースとして活躍し、328試合出場288得点という驚きべき得点率を誇った。[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")が開始された1956-57シーズンのディレンは43得点を挙げているが、これは現在でも個人の1シーズン最多得点記録である。1962-63シーズンにはオランダリーグがプロ化されてから初めてのリーグ優勝を果たした。1960年代から1970年代には[ヴィリー・ファン・デル・カイレン](https://ja.wikipedia.org/wiki/ヴィリー・ファン・デル・カイレン "wikilink")が活躍し、通算308得点を挙げてディレンの記録を塗り替えたが、これは現在でもオランダ記録となっている。この時代は給料面で他クラブに対して劣勢であり、才能ある選手たちにとってはPSVがプロとしての飛躍のための踏み台となった。
+
+### 黄金期 (1970年代後半 - 1980年代後半)
+
+[Guus_Hiddink_Rusia_-_Azerbaiyan.jpg](https://ja.wikipedia.org/wiki/File:Guus_Hiddink_Rusia_-_Azerbaiyan.jpg "fig:Guus_Hiddink_Rusia_-_Azerbaiyan.jpg")をもたらしたフース・ヒディンク監督\]\]
+
+1960年代半ばから1970年代初頭にはタイトルから遠ざかっていたが、1972年に[ケース・レイヴェルス](https://ja.wikipedia.org/wiki/ケース・レイヴェルス "wikilink")監督が就任すると、1973-74シーズンのKNVBカップで24年ぶり2回目の優勝を果たし、1970年代中頃から後半にかけてPSVは1度目の黄金期を迎えた。ベテランのカイレン、[ウィリーと](https://ja.wikipedia.org/wiki/ウィリー・ファン・デ・ケルクホフ "wikilink")[レネのケルクホフ兄弟](https://ja.wikipedia.org/wiki/レネ・ファン・デ・ケルクホフ "wikilink")（双子）、キーパーの[ヤン・ファン・ベベレン](../Page/ヤン・ファン・ベベレン.md "wikilink")、若手ディフェンダーの[ヤン・ポールトヴリート](https://ja.wikipedia.org/wiki/ヤン・ポールトヴリート "wikilink")や[アドリー・ファン・クラーイ](https://ja.wikipedia.org/wiki/アドリー・ファン・クラーイ "wikilink")や[エルニー・ブランツ](https://ja.wikipedia.org/wiki/エルニー・ブランツ "wikilink")、ストライカーの[ハリー・ルブセ](https://ja.wikipedia.org/wiki/ハリー・ルブセ "wikilink")、ディフェンダーの[フーブ・ステーヴェンス](https://ja.wikipedia.org/wiki/フーブ・ステーヴェンス "wikilink")のような質の高い選手に牽引され、KNVBカップ優勝2回、エールディヴィジ優勝3回を果たした。1974-75シーズンと1975-76シーズンにはクラブ初のリーグ戦2連覇を達成し、1977-78シーズンの[UEFAカップでは](https://ja.wikipedia.org/wiki/UEFAカップ1977-78 "wikilink")、準々決勝で[1.FCマクデブルク](../Page/1.FCマクデブルク.md "wikilink")（西ドイツ）を、準決勝で[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")（スペイン）を下し、決勝で[SCバスティア](../Page/SCバスティア.md "wikilink")（フランス）を2試合合計3-0で破って優勝。初の欧州タイトルを獲得した\[3\]。オランダのクラブとしては1973-74シーズンに優勝したフェイエノールトに次ぐ2チーム目のUEFAカップ王者となった。1979年にはレイヴェルス監督が退任し、再びタイトルから遠ざかった。
+
+1983年には[ヤン・レケル](https://ja.wikipedia.org/wiki/ヤン・レケル "wikilink")監督が就任し、[ルート・フリット](../Page/ルート・フリット.md "wikilink")や[エリック・ヘレツなどが在籍していた](../Page/エリック・ゲレツ.md "wikilink")1985-86シーズンのリーグ戦で8年ぶり8回目の優勝を果たした。[ハンス・クラーイ](https://ja.wikipedia.org/wiki/ハンス・クラーイ "wikilink")監督を間に挟み、1987年に[フース・ヒディンク](../Page/フース・ヒディンク.md "wikilink")監督が就任すると、1988-89シーズンまでリーグ戦4連覇を達成した。ヘレツ、[ロナルド・クーマン](https://ja.wikipedia.org/wiki/ロナルド・クーマン "wikilink")、[セーレン・レアビー](../Page/セーレン・レアビー.md "wikilink")、[ウィム・キーフトなどの選手がチームを構成し](https://ja.wikipedia.org/wiki/ヴィム・キーフト "wikilink")、1987-88シーズンの[UEFAチャンピオンズカップではクラブ史上初めて決勝に進出](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1987-88 "wikilink")。決勝の[SLベンフィカ](../Page/SLベンフィカ.md "wikilink")戦は0-0で決着がつかずにPK戦に突入し、PK戦では両クラブとも5人ずつがPKを成功させたが、キーパーの[ハンス・ファン・ブレーケレンがベンフィカの](https://ja.wikipedia.org/wiki/ハンス・ファン・ブロイケレン "wikilink")6人目の[アントニオ・ヴェローゾ](https://ja.wikipedia.org/wiki/アントニオ・ヴェローゾ "wikilink")のキックをセーブして初優勝を決めた\[4\]。準々決勝の[FCジロンダン・ボルドー](https://ja.wikipedia.org/wiki/FCジロンダン・ボルドー "wikilink")（フランス）戦は2試合とも引き分けであり、準決勝の[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")（スペイン）戦も2試合ともに引き分けたが、アウェーゴール差で勝ち上がっていた。奇妙なことに、優勝したPSVは準々決勝からの5試合で1勝もできず、通算でも3勝5分1敗の成績だった。同シーズンはエールディヴィジ、KNVBカップ、UEFAチャンピオンズカップの3冠を達成したが、1988年末に行なわれた[インターコンチネンタルカップでは](../Page/インターコンチネンタルカップ_\(サッカー\).md "wikilink")[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")王者の[ナシオナル・モンテビデオ](../Page/ナシオナル・モンテビデオ.md "wikilink")（ウルグアイ）と対戦し、試合自体は2-2の引き分けだったがPK戦の末に敗れた。ヒディンク政権下ではエールディヴィジで3回、KNVBカップで3回、UEFAチャンピオンズカップで1回優勝した。
+
+**1987-88シーズンのUEFAチャンピオンズカップ決勝**
+
+### ロマーリオ、ロナウド、ニリス (1990年代)
+
+1990年にはヒディンク監督が退任し、[イングランド代表監督を務めた](../Page/サッカーイングランド代表.md "wikilink")[ボビー・ロブソン](../Page/ボビー・ロブソン.md "wikilink")監督が就任。1990-91シーズンと1991-92シーズンにはリーグ戦2連覇を果たしたが、欧州カップ戦では経営陣が期待したほどの成績を残せず、ロブソン監督は1991-92シーズン終了後に退任した\[5\]。ヒディンク政権下の1988年には[ピート・デ・ヴィッセル](https://ja.wikipedia.org/wiki/ピート・デ・ヴィッセル "wikilink")のスカウトによって[ロマーリオ](../Page/ロマーリオ.md "wikilink")が加入して主力選手となっていたが、ロブソン監督はロマーリオとの関係に問題を抱えていた。ロマーリオは1993年までクラブに在籍し、3個のタイトルをもたらした。ロブソンの後任には[ハンス・ウェステルホフ](https://ja.wikipedia.org/wiki/ハンス・ウェステルホフ "wikilink")監督が就任し、1992-93シーズンのリーグ戦では2位となった。1992-93シーズンにはUEFAチャンピオンズカップが大会形式を変更して[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")となったが、PSVは[本選に出場した](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1992-93 "wikilink")8クラブのうちのひとつである。1993-94シーズンは[ア・デ・モス監督が指揮を執り](../Page/ア・デモス.md "wikilink")、[ゲオルゲ・ポペスク](https://ja.wikipedia.org/wiki/ゲオルゲ・ポペスク "wikilink")、[ニイ・ランプティ](../Page/ニイ・ランプティ.md "wikilink")、[アーサー・ニューマン](https://ja.wikipedia.org/wiki/アーサー・ニューマン "wikilink")などの名選手がいたが3位に終わった。シーズン終了後にはブレーケレンが引退。ブレーケレンは10シーズンの間PSVのゴールを守り、クラブ史上最高のキーパーのひとりとみなされている。1994年夏には[ロナルト・ヴァーテリュース](https://ja.wikipedia.org/wiki/ロナルト・ヴァーテリュース "wikilink")と[スタンレイ・メンソ](https://ja.wikipedia.org/wiki/スタンレイ・メンソ "wikilink")のふたりのキーパーが加入してポジションを争い、より若いワテレースがポジションを掴んだ。デ・モス監督は1994年10月に解任され、[キース・ライフェルス](https://ja.wikipedia.org/wiki/キース・ライフェルス "wikilink")監督が暫定的にチームを指揮した後、12月に[ディック・アドフォカート](https://ja.wikipedia.org/wiki/ディック・アドフォカート "wikilink")が正式な監督に就任した。1994年夏に加入した[ロナウド](../Page/ロナウド.md "wikilink")は1994-95シーズンに30得点を挙げ、同じく新加入の[ルク・ニリス](https://ja.wikipedia.org/wiki/ルク・ニリス "wikilink")とコンビを組んだが、アヤックスと[ローダJC](../Page/ローダJC.md "wikilink")に次ぐ3位に終わった。1995-96シーズンはプレーの質を向上させて2位となり、[UEFAカップでは準々決勝に進出](https://ja.wikipedia.org/wiki/UEFAカップ1995-96 "wikilink")。バルセロナに敗れた。守備的ミッドフィールダーの[ウィム・ヨンク](../Page/ヴィム・ヨンク.md "wikilink")、ニリス、ニューマン、センターバックの[ヤープ・スタム](../Page/ヤープ・スタム.md "wikilink")、[フィリップ・コクー](https://ja.wikipedia.org/wiki/フィリップ・コクー "wikilink")、若手の[ボウデヴィン・ゼンデン](https://ja.wikipedia.org/wiki/ボウデヴィン・ゼンデン "wikilink")などが在籍していた1996-97シーズンには5年ぶりにリーグ優勝した。21得点を挙げたニリスがリーグ得点王となり、[オランダ年間最優秀選手賞](https://ja.wikipedia.org/wiki/オランダ年間最優秀選手賞 "wikilink")を受賞した。1997-98シーズンはアヤックスのシーズンとして記憶されており、ニリスと[ヒレス・デ・ビルデ](https://ja.wikipedia.org/wiki/ヒレス・デ・ビルデ "wikilink")の[ベルギー人](../Page/ベルギー人.md "wikilink")コンビが多くの得点を挙げたが、リーグ戦でもKNVBカップ決勝でもアヤックスに敗れた。UEFAチャンピオンズリーグでは1992-93シーズン以来となる本選に出場し、[ニューカッスル・ユナイテッドFC](../Page/ニューカッスル・ユナイテッドFC.md "wikilink")（イングランド）と[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")（スペイン）を上回る勝ち点を挙げたが、[FCディナモ・キエフ](https://ja.wikipedia.org/wiki/FCディナモ・キエフ "wikilink")に次ぐ2位でグループリーグ敗退となった。
+
+### ケズマンとファン・ニステルローイ (1998年 - 2002年)
+
+フランスで開催された[1998 FIFAワールドカップで](../Page/1998_FIFAワールドカップ.md "wikilink")[オランダ代表は](https://ja.wikipedia.org/wiki/サッカーオランダ代表 "wikilink")4位となり、PSVは代表の成功の代償を支払うこととなった。スタム、コクー、ヨンクなどの主力選手が相次いで移籍し、完全に新しいチームで1998-99シーズンに臨まざるを得なかった。6年ぶりにロブソン監督が復帰すると、ニリスと新加入の[ルート・ファン・ニステルローイ](../Page/ルート・ファン・ニステルローイ.md "wikilink")が計55得点を挙げる活躍を見せ、得点ランキングの1位と2位を独占した。最終節の[FCユトレヒト](../Page/FCユトレヒト.md "wikilink")戦は前半終了時に0-2と劣勢だったが、後半に3点を挙げて大逆転し、UEFAチャンピオンズリーグ出場権内の3位に浮上した。
+
+ロブソン監督は1999年夏に退任し、1980年代に選手として在籍したゲレツが[クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")からPSVの新監督に就任。[マルク・ファン・ボメル](../Page/マルク・ファン・ボメル.md "wikilink")、[ヨハン・フォーゲル](../Page/ヨハン・フォーゲル.md "wikilink")、クラブ・ブルッヘでの教え子[エリック・アッド](../Page/エリック・アッド.md "wikilink")などを獲得した。ベルギー出身のゲレツ監督にとっては国外クラブの初采配となったが、ニリスとファン・ニステルローイに[アルノルト・ブルッヒンク](https://ja.wikipedia.org/wiki/アルノルト・ブルッヒンク "wikilink")を加えた3トップは計67得点を挙げる抜群の破壊力を誇り、ファン・ニステルローイは2シーズン連続でリーグ得点王に輝いた。中盤のフォーゲルとファン・ボメルも成功の立役者のひとりであり、3シーズンぶり15回目のリーグ優勝を飾った。
+
+2000年夏にはニリスが退団し、十字靭帯断裂の大怪我を負ったファン・ニステルローイは2000-01シーズンの大半を欠場したが、新加入の[マテヤ・ケジュマン](https://ja.wikipedia.org/wiki/マテヤ・ケジュマン "wikilink")が大活躍してリーグ優勝に貢献し、同じく新加入の[ケヴィン・ホフラント](../Page/ケヴィン・ホフラント.md "wikilink")と[ジョン・デ・ヨング](../Page/ジョン・デ・ヨング.md "wikilink")も実力を発揮した。ケズマンは2000-01シーズンに24得点を、2002-03シーズンに35得点を、2003-04シーズンに31得点を挙げてリーグ得点王に輝いている。2000-01シーズンの[UEFAチャンピオンズリーグでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2000-01 "wikilink")[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")（ベルギー）と[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")（イングランド）の後塵を拝したが、ケズマンのマンチェスター・U戦での美しい得点は多くのサポーターの心に残っている。グループ3位となったため[UEFAカップに回ったが](../Page/UEFAヨーロッパリーグ.md "wikilink")、準々決勝の[1.FCカイザースラウテルン](https://ja.wikipedia.org/wiki/1.FCカイザースラウテルン "wikilink")（ドイツ）戦では怒ったサポーターがピッチに侵入し、クラブの歴史の汚点となった。準決勝に進出できず、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink") (UEFA) によって罰金処分とホームゲーム開催禁止（中立地開催）の処分を科された。エールディヴィジでは2連覇を果たした。
+
+2001年夏には怪我が完治したファン・ニステルローイがマンチェスター・Uに移籍し、[FCトゥウェンテ](../Page/FCトゥウェンテ.md "wikilink")から[ヤン・フェネホール・オフ・ヘッセリンク](../Page/ヤン・フェネホール・オフ・ヘッセリンク.md "wikilink")を獲得。ケズマンとポジションを争った。2001-02シーズンは序盤戦に出遅れ、3連覇はならずアヤックスに戴冠を許した。[UEFAチャンピオンズリーグでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2001-02 "wikilink")[FCナント](https://ja.wikipedia.org/wiki/FCナント "wikilink")（フランス）に1-4で敗れるなどし、グループ3位でUEFAカップに回った。4回戦では[リーズ・ユナイテッドAFC](https://ja.wikipedia.org/wiki/リーズ・ユナイテッドAFC "wikilink")（イングランド）を下し、欧州カップ戦の準々決勝ではオランダ史上初の同国対決が実現した。フェイエノールトとの試合は2試合とも1-1で引き分けたが、PK戦を制したフェイエノールトが準決勝に駒を進めた。ゲレツ監督はクラブからの信頼を失って解任された。
+
+### 2度目のヒディンク監督時代 (2002年 - 2006年)
+
+2002年夏、[2002 FIFAワールドカップで](../Page/2002_FIFAワールドカップ.md "wikilink")[韓国をベスト](../Page/サッカー大韓民国代表.md "wikilink")4に導いた[フース・ヒディンク](../Page/フース・ヒディンク.md "wikilink")監督がPSVの新監督に就任した。韓国代表の[朴智星](../Page/朴智星.md "wikilink")や[李榮杓](../Page/李榮杓.md "wikilink")が加入し、2002-03シーズンには[アリエン・ロッベン](https://ja.wikipedia.org/wiki/アリエン・ロッベン "wikilink")などのスター選手が誕生。リーグ戦では2シーズンぶりの優勝を果たしたが、[UEFAチャンピオンズリーグではグループリーグ最下位に終わった](../Page/UEFAチャンピオンズリーグ_2002-03.md "wikilink")。2003-04シーズンはリーグ優勝を逃し、[UEFAチャンピオンズリーグのグループリーグでは](../Page/UEFAチャンピオンズリーグ_2003-04.md "wikilink")[デポルティーボ・ラ・コルーニャ](../Page/デポルティーボ・ラ・コルーニャ.md "wikilink")（スペイン）と同勝ち点ながら3位でグループリーグ敗退となった。[UEFAカップに回り](../Page/UEFAヨーロッパリーグ.md "wikilink")、準々決勝では[ボビー・ロブソン](../Page/ボビー・ロブソン.md "wikilink")監督率いる[ニューカッスル・ユナイテッドFC](../Page/ニューカッスル・ユナイテッドFC.md "wikilink")を破った。
+
+キーパーの[ロナルト・ヴァーテリュース](https://ja.wikipedia.org/wiki/ロナルト・ヴァーテリュース "wikilink")は1994年から10シーズン在籍してリーグ戦285試合に出場したが、2003-04シーズン終了後に退団し、2004年夏にはロッベン、[デニス・ロンメダール](../Page/デニス・ロンメダール.md "wikilink")、[マテヤ・ケジュマン](https://ja.wikipedia.org/wiki/マテヤ・ケジュマン "wikilink")などの主力選手も退団した。センターバックの[アレックス](../Page/アレックス・ロドリゴ・ディアス・ダ・コスタ.md "wikilink")、キーパーの[ゴメス](../Page/エウレリョ・ダ・シウヴァ・ゴメス.md "wikilink")、フォワードの[ジェフェルソン・ファルファン](../Page/ジェフェルソン・ファルファン.md "wikilink")と[ダマルカス・ビーズリー](../Page/ダマルカス・ビーズリー.md "wikilink")などを獲得し、ヒディンク監督は新しいチームを作り上げた。2004-05シーズンは[マルク・ファン・ボメル](../Page/マルク・ファン・ボメル.md "wikilink")、[ヨハン・フォーゲル](../Page/ヨハン・フォーゲル.md "wikilink")、コクーなどが中盤を構成し、[ヤン・フェネホール・オフ・ヘッセリンク](../Page/ヤン・フェネホール・オフ・ヘッセリンク.md "wikilink")と朴智星がフォワードを構成。[UEFAチャンピオンズリーグでは](../Page/UEFAチャンピオンズリーグ_2004-05.md "wikilink")[アーセナルFC](../Page/アーセナルFC.md "wikilink")（イングランド）に次ぐグループ2位となり、大会名称変更後初めて決勝トーナメントに進出した。決勝トーナメント1回戦では前年度準優勝の[ASモナコ](../Page/ASモナコ.md "wikilink")（フランス）に2連勝し、準々決勝の[オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")（フランス）戦は2試合とも1-1の引き分けに終わったが、PK戦に勝利して準決勝進出を決めた。オランダのクラブが同大会の準決勝に進出するのは1996-97シーズンのアヤックス以来の出来事だった。準決勝の[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")戦のファーストレグには0-2で敗れたが、ホームで行なわれたセカンドレグでは朴智星とコクーの得点で2試合合計得点をタイに戻した。しかし、後半ロスタイムに[マッシモ・アンブロジーニ](https://ja.wikipedia.org/wiki/マッシモ・アンブロジーニ "wikilink")に得点を許し、その直後にコクーが2点目を決めて粘ったものの、アウェーゴール差での敗退が決定した。この試合はクラブ史に残る試合であり、多くのサポーターがタンク（戦車）の異名を持つアレックスの涙を記憶している。リーグ戦では2シーズンぶり18回目のリーグ優勝を飾り、またKNVBカップでは8回目の優勝を飾ったことから、2004-05シーズンは近年最高のシーズンとされている。
+
+2005年夏にはファン・ボメル、フォーゲル、朴智星、李榮杓、[ヴィルフレート・ボウマ](../Page/ヴィルフレート・ボウマ.md "wikilink")など多くの主力選手がチームを離れ、[マイケル・ボール](../Page/マイケル・ボール.md "wikilink")、[ミカ・ヴァイリネン](../Page/ミカ・ヴァイリネン.md "wikilink")、[ベルギー代表の](../Page/サッカーベルギー代表.md "wikilink")[ティミー・シモンス](../Page/ティミー・シモンス.md "wikilink")などが加入した。[イスマイル・アイサティ](../Page/イスマイル・アイサティ.md "wikilink")、[イブラヒム・アフェレイ](https://ja.wikipedia.org/wiki/イブラヒム・アフェレイ "wikilink")など下部組織出身の若手選手も加わった。2005-06シーズンの[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ_2005-06.md "wikilink")・グループリーグでは、ミラン、[シャルケ04](../Page/シャルケ04.md "wikilink")（ドイツ）、[フェネルバフチェSK](https://ja.wikipedia.org/wiki/フェネルバフチェSK "wikilink")（トルコ）などと同居する難しいグループに組み込まれたが、ホームでミランを破るなどしてグループ2位で終え、2シーズン連続で決勝トーナメントに進出。決勝トーナメント1回戦ではリヨンと再戦し、今度は2連敗して大会から敗退した。国内リーグでは2連覇を果たしたが、KNVBカップでは決勝でライバルのアヤックスに敗れ、この試合がヒディンク監督のラストゲームとなった。ヒディンク監督は第1期 (1986年 - 1990年) と第2期 (2002年 - 2006年) に計6回のリーグ優勝、計4回のKNVBカップ優勝、1回のUEFAチャンピオンズカップ優勝を果たした。
+
+### 経営面での混乱とスポーツ面での低迷 (2000年代後半)
+
+2006年夏にはヒディンク監督の後任として[ロナルド・クーマン](https://ja.wikipedia.org/wiki/ロナルド・クーマン "wikilink")監督が就任。[エクアドル代表の](../Page/サッカーエクアドル代表.md "wikilink")[エディソン・メンデス](../Page/エディソン・メンデス.md "wikilink")、[メキシコ代表の](../Page/サッカーメキシコ代表.md "wikilink")[カルロス・サルシド](../Page/カルロス・サルシド.md "wikilink")と、いずれも[2006 FIFAワールドカップに出場して決勝トーナメント進出に貢献した南米出身選手を獲得した](../Page/2006_FIFAワールドカップ.md "wikilink")。[アンドレ・オーイェル](../Page/アンドレ・オーイェル.md "wikilink")と[ヤン・フェネホール・オフ・ヘッセリンク](../Page/ヤン・フェネホール・オフ・ヘッセリンク.md "wikilink")はシーズン開幕後にクラブを離れ、代役として[ヤン・クロムカンプ](../Page/ヤン・クロムカンプ.md "wikilink")と[パトリック・クライファート](../Page/パトリック・クライファート.md "wikilink")を獲得した。2006-07シーズンは[ジェフェルソン・ファルファン](../Page/ジェフェルソン・ファルファン.md "wikilink")と[アルナ・コネ](../Page/アルナ・コネ.md "wikilink")がチーム内得点王を争い、一時は他クラブに大きな差を築いたものの、すぐに勝ち点差は消滅した。[UEFAチャンピオンズリーグ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2006-07 "wikilink")・グループリーグでは[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")（イングランド）、[FCジロンダン・ボルドー](https://ja.wikipedia.org/wiki/FCジロンダン・ボルドー "wikilink")（フランス）、[ガラタサライSK](https://ja.wikipedia.org/wiki/ガラタサライSK_\(サッカー\) "wikilink")（トルコ）と同組となったが、リヴァプールに次ぐグループ2位で3シーズン連続の決勝トーナメント進出を決めた。決勝トーナメント1回戦の[アーセナルFC](../Page/アーセナルFC.md "wikilink")（イングランド）戦では自陣にも敵陣にも攻め込んだアレックスの活躍で勝利したが、準々決勝では再びリヴァプールと対戦して2試合合計0-4で敗れた。UEFAチャンピオンズリーグからの敗退後、スフイテマ会長は国内リーグで優勝を逃すことが濃厚だとしてクーマン監督を批判したが、PSVは最後まで優勝争いに加わった。最終節を前にしてAZ、アヤックス、PSVの3クラブが勝ち点72で並び、得失点差でAZが首位に立っていた。AZは最終節で[SBVエクセルシオール](../Page/SBVエクセルシオール.md "wikilink")に敗れて優勝を逃し、PSVとアヤックスは揃って勝利したが、得失点差でアヤックス (+49) を逆転したPSV (+50) が3位からの大逆転優勝を飾った。2006-07シーズンはリーグ史上もっとも刺激的で、僅差で優勝が決まったシーズンのひとつに数えられている。
+
+[IbrahimAfellay.jpg](https://ja.wikipedia.org/wiki/File:IbrahimAfellay.jpg "fig:IbrahimAfellay.jpg")\]\]
+
+2007年夏にはスフイテマ会長が退いてヤン・レケル会長が就任したため、クーマン監督は留任を決めた。中心選手のコクーやアレックスやA・コネがクラブを離れ、[ケネス・ペレス](../Page/ケネス・ペレス.md "wikilink")や[ダンコ・ラゾビッチ](../Page/ダンコ・ラゾビッチ.md "wikilink")や[ダニー・クーフェルマンス](../Page/ダニー・クーフェルマンス.md "wikilink")などが加入。レンタル移籍していたアイサティなどが復帰した。クーマン監督はPSVとの契約途中の10月31日に[バレンシアCF](../Page/バレンシアCF.md "wikilink")（スペイン）監督に就任したため、[ヤン・ボウタース](../Page/ヤン・ボウタース.md "wikilink")暫定監督を経て元[名古屋グランパスエイト](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")（日本）監督の[セフ・フェルホーセン](../Page/セフ・フェルホーセン.md "wikilink")がシーズン終了までの契約で正式な後任監督に就任した\[6\]。12月31日には、半年前に加入したばかりのペレスがアヤックスに移籍したが、レケル会長は移籍がペレス自身の選択だと断言した\[7\]。2008年2月26日には、2005年に負った怪我からリハビリ途中だった[ジョン・デ・ヨンク](https://ja.wikipedia.org/wiki/ジョン・デ・ヨンク "wikilink")が30歳の若さで現役引退を発表\[8\]。このように人的な移動が激しいシーズンだったが、PSVは21回目の優勝を果たした。4連覇はリーグ史上3度目の偉業であり、[HVVデン・ハーグ](https://ja.wikipedia.org/wiki/HVVデン・ハーグ "wikilink")（1899-1900シーズンから1902-03シーズン）とPSV（1985-86シーズンから1988-89シーズン）しか達成していない。
+
+2008年夏には[フーブ・ステーフェンス](https://ja.wikipedia.org/wiki/フーブ・ステーフェンス "wikilink")監督が就任し、[ヨハン・クライフ・スハール](../Page/ヨハン・クライフ・スハール.md "wikilink")ではフェイエノールトを破って優勝。リーグ戦でも順調な滑り出しを見せたが、[UEFAチャンピオンズリーグ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2008-09 "wikilink")・グループリーグ初戦の[アトレティコ・マドリード](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")戦に0-3で敗れて歯車が狂いだした。[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")（イングランド）や[オリンピック・マルセイユ](../Page/オリンピック・マルセイユ.md "wikilink")（フランス）などと同居したグループリーグでは、ホームでのマルセイユ戦にしか勝利できず、最下位でのグループリーグ敗退となった。欧州カップ戦で年を越せなかったのは2002-03シーズン以来6年ぶりのことだった。2009年1月にはステーフェンス監督が辞任し、[ドワイト・ローデヴェーヘス](../Page/ドワイト・ローデヴェーヘス.md "wikilink")が後任監督に就任したが、リーグ戦は最終的に4位で終えた。4位以下に終わったのは1980-81シーズン（5位）以来であり、偶然ではあるが、どちらのシーズンも優勝したのは[AZアルクマール](https://ja.wikipedia.org/wiki/AZアルクマール "wikilink")だった。1996-97シーズン以降では初めてUEFAチャンピオンズリーグ出場権を逃し、代わりに[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")の第1回大会の出場権を得た。
+
+2009年夏には元シャルケ監督の[フレット・ルッテン](https://ja.wikipedia.org/wiki/フレット・ルッテン "wikilink")が監督に就任し、2009-10シーズン前半戦は公式戦（国内リーグ、国内カップ、[UEFAヨーロッパリーグ](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2009-10 "wikilink")）無敗で終えた。[FCトゥウェンテ](../Page/FCトゥウェンテ.md "wikilink")も前半戦のリーグ戦を無敗で終えていたため、年明け時点でトゥウェンテに次ぐ2位に付けていたが、後半戦には調子を落として取りこぼしを重ね（2010年最初の10試合は6勝2分2敗）、KNVBカップではフェイエノールトに、UEFAヨーロッパリーグでは[ハンブルガーSV](../Page/ハンブルガーSV.md "wikilink")にアウェーゴール差で敗れて大会からの敗退が決まった。2月の[NACブレダ](../Page/NACブレダ.md "wikilink")戦でリーグ戦初黒星を喫し、3月14日時点ではまだ2位につけていたが、その後アヤックスに抜かれて3位に順位を落とした。引き分けの多さから勝ち点を伸ばすことができず、2シーズン連続でUEFAチャンピオンズリーグ出場権を得られなかった。
+
+2010年10月24日のフェイエノールト戦には10-0で大勝。[ジョナタン・レイス](https://ja.wikipedia.org/wiki/ジョナタン・レイス "wikilink")が3得点、[オラ・トイヴォネン](https://ja.wikipedia.org/wiki/オラ・トイヴォネン "wikilink")が1得点、[イェレマイン・レンス](https://ja.wikipedia.org/wiki/イェレマイン・レンス "wikilink")が2得点、[ジュジャーク・バラージュ](https://ja.wikipedia.org/wiki/ジュジャーク・バラージュ "wikilink")が2得点、[オルランド・エンヘラール](../Page/オルランド・エンヘラール.md "wikilink")が1得点を挙げた（1点はオウンゴール）。PSVは1973年の[ゴー・アヘッド・イーグルス](../Page/ゴー・アヘッド・イーグルス.md "wikilink")戦と1998年の[FCフォレンダム](../Page/FCフォレンダム.md "wikilink")戦でも同スコアを記録しており、10点差で勝利するのは3度目だった\[9\]。2010-11シーズンの[UEFAヨーロッパリーグ](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2010-11 "wikilink")・決勝トーナメント1回戦では[LOSCリール・メトロポール](https://ja.wikipedia.org/wiki/LOSCリール・メトロポール "wikilink")（フランス）と対戦し、2試合合計5-3で勝利。決勝トーナメント2回戦では[レンジャーズFC](../Page/レンジャーズFC.md "wikilink")（スコットランド）に2試合合計1-0で勝利したが、準々決勝では[SLベンフィカ](../Page/SLベンフィカ.md "wikilink")に2試合合計3-6で敗れた。同シーズンの国内リーグ戦ではアヤックスやトゥウェンテとの優勝争いに競り負け、期待外れの3位に終わった。財政問題に悩まされ、資産差し押さえに発展する可能性を消すためにアイントホーフェン市議会から多額の援助を受けた。深刻な財政状況のため、名のある選手の獲得は不可能だった。キャプテンであり英雄的存在の[イブラヒム・アフェレイ](https://ja.wikipedia.org/wiki/イブラヒム・アフェレイ "wikilink")は冬の移籍期間に[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")（スペイン）に売却され、2011年夏にはハンガリー人ウインガーのジュジャークが金満クラブ化した[FCアンジ・マハチカラ](../Page/FCアンジ・マハチカラ.md "wikilink")（ロシア）に移籍した。
+
+[Kevin-strootman-1312798203.jpg](https://ja.wikipedia.org/wiki/File:Kevin-strootman-1312798203.jpg "fig:Kevin-strootman-1312798203.jpg")\]\]
+
+2011年夏には[ドリース・メルテンス](https://ja.wikipedia.org/wiki/ドリース・メルテンス "wikilink")、[ティム・マタヴジュ](https://ja.wikipedia.org/wiki/ティム・マタヴジュ "wikilink")などが加入し、レンタルで加入したポーランド人キーパーの[プシェミスワフ・ティトン](https://ja.wikipedia.org/wiki/プシェミスワフ・ティトン "wikilink")は後に買い取りオプションが行使されて完全移籍した。2011-12シーズンの[UEFAヨーロッパリーグ](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2011-12 "wikilink")・グループリーグでは5勝1分のグループ首位で決勝トーナメント進出を決め、決勝トーナメント1回戦では[トラブゾンスポル](../Page/トラブゾンスポル・クラブ_\(サッカー\).md "wikilink")（トルコ）を破ったが、決勝トーナメント2回戦の[バレンシアCF](../Page/バレンシアCF.md "wikilink")（スペイン）戦ファーストレグには2-4で敗れた。2012年3月12日には成績不振による[フレット・ルッテン](https://ja.wikipedia.org/wiki/フレット・ルッテン "wikilink")監督の解任が発表され、アシスタントコーチのコクーがシーズン終了までの暫定監督に就任。選手やユースチーム監督としてPSVに在籍経験がある[FCアイントホーフェン](../Page/FCアイントホーフェン.md "wikilink")監督の[エルネスト・ファベル](https://ja.wikipedia.org/wiki/エルネスト・ファベル "wikilink")がアシスタントコーチに就任した\[10\]。コクーの初采配試合となったバレンシア戦セカンドレグに引き分けて大会からの敗退が決まったが、KNVBカップでは決勝で[ヘラクレス・アルメロ](https://ja.wikipedia.org/wiki/ヘラクレス・アルメロ "wikilink")に3-0で快勝して7シーズンぶり9回目の優勝を決めた\[11\]。この試合には約17,000人のPSVサポーターが会場のロッテルダムに押し掛け、[オラ・トイヴォネン](https://ja.wikipedia.org/wiki/オラ・トイヴォネン "wikilink")が華麗なヒールシュートで先制点を決め、メルテンスとレンスが追加点を挙げた。リーグ戦は再び3位に終わってUEFAチャンピオンズリーグ出場権を逃したが、約4年ぶりのトロフィーとなったKNVBカップの優勝が慰めとなった。4月6日には[オランダサッカー協会](https://ja.wikipedia.org/wiki/オランダサッカー協会 "wikilink")による財政指数区分でカテゴリー3に分類された。これは「健全」を表す区分であり、財政強度に基づいて各クラブが分類されている\[12\]。5月10日には以前にもPSVの監督を務めた[ディック・アドフォカート](https://ja.wikipedia.org/wiki/ディック・アドフォカート "wikilink")が1年契約で正式な監督に就任した\[13\]。
+
+### 現在 (2010年代 - )
+
+2012年夏、下部組織出身の有望株である[ザカリア・ラビアド](https://ja.wikipedia.org/wiki/ザカリア・ラビアド "wikilink")が[スポルティングCPに売却され](../Page/スポルティング・クルーベ・デ・ポルトゥガル.md "wikilink")、既に契約を交わしていたデンマーク人の[マティアス・イェルゲンセン](https://ja.wikipedia.org/wiki/マティアス・イェルゲンセン "wikilink")が加入した。元キャプテンのファン・ボメルがミランから加入し\[14\]、[SCヘーレンフェーン](../Page/SCヘーレンフェーン.md "wikilink")からウインガーの[ルシアーノ・ナルシン](https://ja.wikipedia.org/wiki/ルシアーノ・ナルシン "wikilink")を獲得。ヨハン・クライフ・スハールではアヤックスを4-2で下して優勝し\[15\]、UEFAヨーロッパリーグ・予選プレーオフの[FKゼタ](../Page/FKゼタ・ゴルボヴツィ.md "wikilink")（モンテネグロ）戦では2試合合計14-0で圧勝してグループリーグ出場を決めた。[グループリーグでは](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2012-13 "wikilink")[FCドニプロ・ドニプロペトロウシク](https://ja.wikipedia.org/wiki/FCドニプロ・ドニプロペトロウシク "wikilink")（ウクライナ）、[SSCナポリ](https://ja.wikipedia.org/wiki/SSCナポリ "wikilink")（イタリア）、[AIKソルナ](../Page/AIKソルナ.md "wikilink")（スウェーデン）と同組となり、ナポリとのアウェーゲームには3-1で勝利したが、これはナポリにとって欧州カップ戦のホームゲームでの18年ぶりの敗北となった\[16\]。しかしPSVはドニプロとナポリに次ぐグループ3位で大会から敗退した。リーグ戦では前半戦だけで60得点を挙げ、ウィンターブレークの時点で首位に立っていた。2013年1月には[IFエルフスボリ](../Page/IFエルフスボリ.md "wikilink")（スウェーデン）から[オスカル・ヒルイェマルク](https://ja.wikipedia.org/wiki/オスカル・ヒルイェマルク "wikilink")を獲得\[17\]。2013年夏にクラブOBでもある[フィリップ・コクー](https://ja.wikipedia.org/wiki/フィリップ・コクー "wikilink")が監督に就任し、2014年夏に[ボルシアMGから](https://ja.wikipedia.org/wiki/ボルシア・メンヒェングラートバッハ "wikilink")[ルーク・デ・ヨング](https://ja.wikipedia.org/wiki/ルーク・デ・ヨング "wikilink")を完全移籍で[バレンシアから](../Page/バレンシアCF.md "wikilink")[アンドレス・グアルダード](../Page/アンドレス・グアルダード.md "wikilink")、[マンチェスター・シティから](../Page/マンチェスター・シティFC.md "wikilink")[カリム・レキク](https://ja.wikipedia.org/wiki/カリム・レキク "wikilink")をそれぞれ期限付き移籍で獲得した。2014-15シーズンでは[メンフィス・デパイ](https://ja.wikipedia.org/wiki/メンフィス・デパイ "wikilink")やデ・ヨングなどの活躍によって、序盤から好スタートを決め中盤戦で10連勝を含むリーグ戦17戦負けなしを記録し、首位を独走した。2015年4月15日[ヘーレンフェーンに](../Page/SCヘーレンフェーン.md "wikilink")4-1で勝利し2007-08シーズン以来となるリーグ制覇を果たした\[18\]。
+
+## スタジアムと練習施設
+
+[Philips_Stadion.jpg](https://ja.wikipedia.org/wiki/File:Philips_Stadion.jpg "fig:Philips_Stadion.jpg")\]\] [De_Herdgang_-_training_PSV.jpg](https://ja.wikipedia.org/wiki/File:De_Herdgang_-_training_PSV.jpg "fig:De_Herdgang_-_training_PSV.jpg")
+
+1911年1月、5歳の[フリッツ・フィリップス](../Page/フレデリック・フィリップス.md "wikilink")（後にフィリップス社のCEOとなる）によってフィリップス・エルフタルの落成式と初試合が行なわれたが、クラブはまだ創設されていなかった。スタジアムの近隣はフィリップスドルプ（フィリップス村）と呼ばれ、アイントホーフェンの中心部からほど近かった。1913年にクラブが創設してからも、ホームスタジアムは一貫して同じ場所にある。クラブ創設当初はフィリップス・スポルトパルクと呼ばれ、300人収容の小規模なグラウンドだった\[19\]。1941年には18,000人収容のスタジアムとなり、第二次世界大戦で被災したが、1958年には再び改築されて22,000人収容となった。2000年と2002年にも角部分の改修工事が行なわれ、現在の[フィリップス・スタディオン](https://ja.wikipedia.org/wiki/フィリップス・スタディオン "wikilink")という名称、サッカーの試合開催時の収容人数35,000人に落ち着いた。収容人数を45,000人まで拡張する計画があり、仮に[2018 FIFAワールドカップの開催地がオランダ](../Page/2018_FIFAワールドカップ.md "wikilink")・ベルギーに決定していた場合には計画の実施が決定的だったが、2010年12月に行なわれた投票でFIFAワールドカップの開催地はロシアに決定した。
+
+2000年にオランダとベルギーで共同開催された[UEFA EURO 2000の際には開催地のひとつとなった](../Page/UEFA_EURO_2000.md "wikilink")。2006年には[UEFAカップ決勝の開催地となり](../Page/UEFAヨーロッパリーグ.md "wikilink")、[セビージャFC](../Page/セビージャFC.md "wikilink")（スペイン）が[ミドルズブラFC](../Page/ミドルズブラFC.md "wikilink")（イングランド）を下して優勝した。2000年代の10年間は1試合平均観客数が31,000人から34,000人で推移しており、アヤックス、フェイエノールトに次いでオランダ第3位である。観客席は全席固定座席で屋根に覆われ、全席が暖房設備を有している。2005年夏にはピッチ周りの高いフェンスが取り除かれ、高さ90cmの手すりに代えられた。許可なくピッチに侵入すると15,000ユーロの罰金と10年間のスタジアム入場禁止処分が科せられる。
+
+スタジアム内には[レッドミシュランオランダ版で](../Page/ミシュランガイド.md "wikilink")1つ星の認定を受けたレストラン (Avant Garde) があり、サッカーの試合を観戦しながら食事を行なうことが可能である。オランダ国内でレッドミシュランの星付きレストランを抱えるスタジアムはここだけである。スタジアムから約3.5km北西にはデ・ヘルドハンフ(De Herdgang)と呼ばれる練習施設があり、天然芝や人工芝のピッチを持つ複合施設である。トップチームは練習を一般公開することもあり、また下部組織（ヨング・PSV）の拠点もデ・ヘルドハンフである。デ・ヘルドハンフの近くにはフィリップス・ヨンフパルクという緑豊かな公園がある。
+
+| エールディヴィジのビッグ3の1試合平均観客数\[20\] |
+| ---------------------------- |
+| シーズン                         |
+| アヤックス                        |
+| 1997-98                      |
+| 1998-99                      |
+| 1999-00                      |
+| 2000-01                      |
+| 2001-02                      |
+| 2002-03                      |
+| 2003-04                      |
+| 2004-05                      |
+| 2005-06                      |
+| 2006-07                      |
+| 2007-08                      |
+| 2008-09                      |
+| 2009-10                      |
+| 2010-11                      |
+| 2011-12                      |
+| 2012-13                      |
+| 2013-14                      |
+|                              |
+
+## タイトル
+
+### 国内タイトル
+
+  - **[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")：21回**
+      - 1962-63, 1974-75, 1975-76, 1977-78, 1985-86, 1986-87, 1987-88, 1988-89, 1990-91, 1991-92, 1996-97, 1999-00, 2000-01, 2002-03, 2004-05, 2005-06, 2006-07, 2007-08, 2014-15, 2015-16, 2017-18
+
+<!-- end list -->
+
+  - **[KNVBカップ](../Page/KNVBカップ.md "wikilink")：9回**
+      - 1949-50, 1973-74, 1975-76, 1987-88, 1988-89, 1989-90, 1995-96, 2004-05, 2011-12
+
+<!-- end list -->
+
+  - **[ヨハン・クライフ・スハール](../Page/ヨハン・クライフ・スハール.md "wikilink")：10回**
+      - 1992, 1996, 1997, 1998, 2000, 2001, 2003, 2008, 2012, 2015
+
+### 国際タイトル
+
+  - **[UEFAチャンピオンズカップ](../Page/UEFAチャンピオンズリーグ.md "wikilink")：1回**
+      - 1987-88
+
+<!-- end list -->
+
+  - **[UEFAカップ](../Page/UEFAヨーロッパリーグ.md "wikilink")：1回**
+      - 1977-78
+
+### 親善タイトル
+
+  - **フィリップス・トーナメント：3回**
+      - 1982, 1984, 1985
+
+<!-- end list -->
+
+  - **[韓国大統領杯](https://ja.wikipedia.org/wiki/コリアカップ国際サッカー大会 "wikilink")：1回**
+      - 1983
+
+<!-- end list -->
+
+  - **トルネオ・インテルナシオナル・デ・フトボル・デ・マスパロマス：3回**
+      - 1984, 1985, 2000
+
+<!-- end list -->
+
+  - トロフェオ・ビラ・デ・マドリード：1回'''
+      - 1984
+
+<!-- end list -->
+
+  - **[ピースカップ](../Page/ピースカップ_\(サッカー\).md "wikilink")：1回**
+      - 2003
+
+<!-- end list -->
+
+  - **[ロシア・レイルウェイズ・カップ](../Page/ロシア・レイルウェイズ・カップ.md "wikilink")：1回**
+      - 2007
+
+<!-- end list -->
+
+  - **ポリッシュ・マスターズ・カップ：1回**
+      - 2012
+
+## 成績
+
+<table>
+<thead>
+<tr class="header">
+<th><p>シーズン</p></th>
+<th><p>エール<br />
+ディヴィジ</p></th>
+<th><p>KNVB<br />
+カップ</p></th>
+<th><p>欧州カップ</p></th>
+<th><p>その他</p></th>
+<th><p>最多得点者</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>選手</p></td>
+<td><p>得点</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1956-57</p></td>
+<td><p>5位</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1957-58</p></td>
+<td><p>10位</p></td>
+<td><p>準々決勝敗退</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1958-59</p></td>
+<td><p>10位</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1959-60</p></td>
+<td><p>3位</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1960-61</p></td>
+<td><p>7位</p></td>
+<td><p>2回戦敗退</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1961-62</p></td>
+<td><p>2位</p></td>
+<td><p>準決勝敗退</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1962-63</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>3回戦敗退</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1963-64</p></td>
+<td><p>2位</p></td>
+<td><p>1回戦敗退</p></td>
+<td><p><a href="../Page/UEFAチャンピオンズカップ_1963-64.md" title="wikilink">EC</a></p></td>
+<td><p>ベスト8</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1964-65</p></td>
+<td><p>4位</p></td>
+<td><p>2回戦敗退</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1965-66</p></td>
+<td><p>8位</p></td>
+<td><p>準決勝敗退</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1966-67</p></td>
+<td><p>6位</p></td>
+<td><p>1回戦敗退</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1967-68</p></td>
+<td><p>14位</p></td>
+<td><p>ベスト16</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1968-69</p></td>
+<td><p>5位</p></td>
+<td><p>準優勝</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1969-70</p></td>
+<td><p>3位</p></td>
+<td><p>準優勝</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1970-71</p></td>
+<td><p>4位</p></td>
+<td><p>2回戦敗退</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ヨハン・デヴリンド" title="wikilink">ヨハン・デヴリンド</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1971-72</p></td>
+<td><p>8位</p></td>
+<td><p>ベスト16</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1971-72" title="wikilink">UC</a></p></td>
+<td><p>3回戦敗退</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1972-73</p></td>
+<td><p>6位</p></td>
+<td><p>準々決勝敗退</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1973-74</p></td>
+<td><p>4位</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1974-75</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>ベスト16</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1974-75" title="wikilink">CWC</a></p></td>
+<td><p>ベスト4</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1975-76</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1975-76" title="wikilink">EC</a></p></td>
+<td><p>ベスト4</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1976-77</p></td>
+<td><p>2位</p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1976-77" title="wikilink">EC</a></p></td>
+<td><p>2回戦敗退</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1977-78</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>ベスト16</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1977-78" title="wikilink">UC</a></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1978-79</p></td>
+<td><p>3位</p></td>
+<td><p>準決勝敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1978-79" title="wikilink">EC</a></p></td>
+<td><p>2回戦敗退</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1979-80</p></td>
+<td><p>3位</p></td>
+<td><p>ベスト4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1979-80" title="wikilink">UC</a></p></td>
+<td><p>2回戦敗退</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ヴィリー・ファン・デル・カイレン" title="wikilink">ヴィリー・ファン・デル・カイレン</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1980-81</p></td>
+<td><p>5位</p></td>
+<td><p>準決勝敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1980-81" title="wikilink">UC</a></p></td>
+<td><p>2回戦敗退</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1981-82</p></td>
+<td><p>2位</p></td>
+<td><p>ベスト16</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1981-82" title="wikilink">UC</a></p></td>
+<td><p>2回戦敗退</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1982-83</p></td>
+<td><p>3位</p></td>
+<td><p>準決勝敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1982-83" title="wikilink">UC</a></p></td>
+<td><p>1回戦敗退</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ユリー・クールホフ" title="wikilink">ユリー・クールホフ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1983-84</p></td>
+<td><p>2位</p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1983-84" title="wikilink">UC</a></p></td>
+<td><p>2回戦敗退</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ユリー・クールホフ" title="wikilink">ユリー・クールホフ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1984-85</p></td>
+<td><p>2位</p></td>
+<td><p>準決勝敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1984-85" title="wikilink">UC</a></p></td>
+<td><p>2回戦敗退</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1985-86</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>2回戦敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1985-86" title="wikilink">UC</a></p></td>
+<td><p>2回戦敗退</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1986-87</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>ベスト16</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1986-87" title="wikilink">EC</a></p></td>
+<td><p>1回戦敗退</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1987-88</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1987-88" title="wikilink">EC</a></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1988-89</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1988-89" title="wikilink">EC</a></p></td>
+<td><p>ベスト8</p></td>
+<td><p><a href="../Page/インターコンチネンタルカップ_(サッカー).md" title="wikilink">IC</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/UEFAスーパーカップ.md" title="wikilink">USC</a></p></td>
+<td><p>準優勝</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1989-90</p></td>
+<td><p>2位</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズカップ_1989-90.md" title="wikilink">EC</a></p></td>
+<td><p>ベスト8</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1990-91</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>準決勝敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1990-91" title="wikilink">CWC</a></p></td>
+<td><p>1回戦敗退</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1991-92</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>ベスト16</p></td>
+<td><p><a href="../Page/UEFAチャンピオンズカップ_1991-92.md" title="wikilink">EC</a></p></td>
+<td><p>2回戦敗退</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>1992-93</p></td>
+<td><p>2位</p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1992-93" title="wikilink">CL</a></p></td>
+<td><p>GS敗退</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1993-94</p></td>
+<td><p>3位</p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1993-94" title="wikilink">UC</a></p></td>
+<td><p>1回戦敗退</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/アーサー・ニューマン" title="wikilink">アーサー・ニューマン</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1994-95</p></td>
+<td><p>3位</p></td>
+<td><p>ベスト16</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1994-95" title="wikilink">UC</a></p></td>
+<td><p>1回戦敗退</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1995-96</p></td>
+<td><p>2位</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1995-96" title="wikilink">UC</a></p></td>
+<td><p>ベスト8</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1996-97</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>ベスト16</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1996-97" title="wikilink">CWC</a></p></td>
+<td><p>2回戦敗退</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>1997-98</p></td>
+<td><p>2位</p></td>
+<td><p>準優勝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1997-98" title="wikilink">CL</a></p></td>
+<td><p>GS敗退</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1998-99</p></td>
+<td><p>3位</p></td>
+<td><p>準決勝敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1998-99" title="wikilink">CL</a></p></td>
+<td><p>GS敗退</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>1999-00</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>ベスト16</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1999-2000" title="wikilink">CL</a></p></td>
+<td><p>1次GS敗退</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2000-01</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>準優勝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2000-01" title="wikilink">CL</a></p></td>
+<td><p>1次GS敗退</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/UEFAヨーロッパリーグ.md" title="wikilink">UC</a></p></td>
+<td><p>ベスト8</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2001-02</p></td>
+<td><p>2位</p></td>
+<td><p>準決勝敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2001-02" title="wikilink">CL</a></p></td>
+<td><p>1次GS敗退</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/UEFAヨーロッパリーグ.md" title="wikilink">UC</a></p></td>
+<td><p>ベスト8</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2002-03</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>準決勝敗退</p></td>
+<td><p><a href="../Page/UEFAチャンピオンズリーグ_2002-03.md" title="wikilink">CL</a></p></td>
+<td><p>1次GS敗退</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2003-04</p></td>
+<td><p>2位</p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p><a href="../Page/UEFAチャンピオンズリーグ_2003-04.md" title="wikilink">CL</a></p></td>
+<td><p>1次GS敗退</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/UEFAヨーロッパリーグ.md" title="wikilink">UC</a></p></td>
+<td><p>ベスト8</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2004-05</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><a href="../Page/UEFAチャンピオンズリーグ_2004-05.md" title="wikilink">CL</a></p></td>
+<td><p>ベスト4</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2005-06</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>準優勝</p></td>
+<td><p><a href="../Page/UEFAチャンピオンズリーグ_2005-06.md" title="wikilink">CL</a></p></td>
+<td><p>ベスト16</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2006-07</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2006-07" title="wikilink">CL</a></p></td>
+<td><p>ベスト8</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2007-08</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>失格</p></td>
+<td><p><a href="../Page/UEFAチャンピオンズリーグ_2007-08.md" title="wikilink">CL</a></p></td>
+<td><p>GS敗退</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2007-08" title="wikilink">UC</a></p></td>
+<td><p>ベスト8</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2008-09</p></td>
+<td><p>4位</p></td>
+<td><p>3回戦敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2008-09" title="wikilink">CL</a></p></td>
+<td><p>GS敗退</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2009-10</p></td>
+<td><p>3位</p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2009-10" title="wikilink">EL</a></p></td>
+<td><p>ベスト32</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2010-11</p></td>
+<td><p>3位</p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2010-11" title="wikilink">EL</a></p></td>
+<td><p>ベスト16</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2011-12</p></td>
+<td><p>3位</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2011-12" title="wikilink">EL</a></p></td>
+<td><p>ベスト16</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2012-13</p></td>
+<td><p>2位</p></td>
+<td><p>準優勝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2012-13" title="wikilink">EL</a></p></td>
+<td><p>GS敗退</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2013-14</p></td>
+<td><p>4位</p></td>
+<td><p>3回戦敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2013-14" title="wikilink">CL</a></p></td>
+<td><p>PO敗退</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2014-15</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>ベスト16</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2014-15" title="wikilink">EL</a></p></td>
+<td><p>GS敗退</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015-16</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2015-16" title="wikilink">CL</a></p></td>
+<td><p>ベスト16</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2016-17</p></td>
+<td><p>3位</p></td>
+<td><p>2回戦敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2016-17" title="wikilink">CL</a></p></td>
+<td><p>GS敗退</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2017-18</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2017-18" title="wikilink">EL</a></p></td>
+<td><p>予選3回戦敗退</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018-19</p></td>
+<td><p>2位'''</p></td>
+<td><p>2回戦敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2018-19" title="wikilink">CL</a></p></td>
+<td><p>GS敗退</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2019-20</p></td>
+<td><p><strong>位</strong></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2019-20" title="wikilink">CL</a></p></td>
+<td><p>予選2回戦敗退</p></td>
+<td><p><a href="../Page/ヨハン・クライフ・スハール.md" title="wikilink">SC</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2019-20" title="wikilink">EL</a></p></td>
+<td><p>GS敗退</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## スポンサー
+
+[Philips_logo_new.svg](https://ja.wikipedia.org/wiki/File:Philips_logo_new.svg "fig:Philips_logo_new.svg")
+
+<table>
+<thead>
+<tr class="header">
+<th><p>種類</p></th>
+<th><p>名称</p></th>
+<th><p>業種</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>メインスポンサー</p></td>
+<td><p><a href="../Page/フィリップス.md" title="wikilink">フィリップス</a></p></td>
+<td><p>家電</p></td>
+</tr>
+<tr class="even">
+<td><p>オフィシャルパートナー</p></td>
+<td><p><a href="../Page/ナイキ.md" title="wikilink">ナイキ</a></p></td>
+<td><p>スポーツ用品</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/メルセデス・ベンツ" title="wikilink">メルセデス・ベンツ</a></p></td>
+<td><p>自動車</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ババリアビール" title="wikilink">ババリアビール</a></p></td>
+<td><p>ビール</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ラボバンク" title="wikilink">ラボバンク</a></p></td>
+<td><p>銀行</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/VDL_グループ" title="wikilink">VDL グループ</a></p></td>
+<td><p>工業品製造</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/BDOインターナショナル" title="wikilink">BDOインターナショナル</a></p></td>
+<td><p>会計事務</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>デ・ラーゲ・ランデン</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>バニング</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>フレオ</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Driessen HRM Payroll</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Menzis</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>オフィシャルサプライヤー</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ザ_コカ・コーラ_カンパニー" title="wikilink">コカ・コーラ</a>　</p></td>
+<td><p>飲料</p></td>
+</tr>
+<tr class="even">
+<td><p>アスロン・カー・リース</p></td>
+<td><p>自動車リース</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>GymnaUniphy<a href="http://www.gymna.com/">1</a></p></td>
+<td><p>メディカルサポート</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Gentiluomo</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Maison van den Boer</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 現所属メンバー
+
+  - 2019-20シーズン フォーメーション
+
+<div style="position: relative;">
+
+[350px](https://ja.wikipedia.org/wiki/ファイル:Soccer_Field_Transparant.svg "wikilink")
+
+</div>
+
+  - 2020年1月31日時点\[21\]
+
+★        ★
+
+※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
+
+### ローン移籍選手
+
+  - in
+
+<!-- end list -->
+
+  - out
+
+### 欠番
+
+\- サポーター  - フォクシー（クラブのマスコット）
+
+## 歴代会長
+
+## 歴代監督
+
+<table>
+<thead>
+<tr class="header">
+<th><p>在任期間</p></th>
+<th><p>名前</p></th>
+<th><p>獲得タイトル</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>国内<br />
+リーグ</p></td>
+<td><p>国内<br />
+カップ</p></td>
+<td><p><small>国内スー<br />
+パーカップ</small></p></td>
+</tr>
+<tr class="even">
+<td><p>1914-1916</p></td>
+<td><p>ケース・メインデルス</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1916-1921</p></td>
+<td><p>ワウト・バイテンウェフ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1921-1922</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ヤン・ボス" title="wikilink">ヤン・ボス</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1922-1926</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・リービー" title="wikilink">ジョン・リービー</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1926-1927</p></td>
+<td><p>ベン・ホーフステーデ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1927-1928</p></td>
+<td><p>イグナス・クレイン</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1928-1929</p></td>
+<td><p>ヨープ・クレイン・ウェンティンク</p></td>
+<td><p><strong>1</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>1929-1935</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジャック・ホール" title="wikilink">ジャック・ホール</a></p></td>
+<td><p><strong>1</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>1935-1938</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サム・ワーズワース" title="wikilink">サム・ワーズワース</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1938-1942</p></td>
+<td><p>ヤン・ファン・デン・ブルーク</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1942-1945</p></td>
+<td><p>クーエン・デルセン</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1945-1951</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サム・ワーズワース" title="wikilink">サム・ワーズワース</a></p></td>
+<td><p><strong>1</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>1951-1952</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハリー・トッピング" title="wikilink">ハリー・トッピング</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1952-1956</p></td>
+<td><p>ハイプ・デ・レーウ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1956-1957</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/リュビシャ・ブロチッチ" title="wikilink">リュビシャ・ブロチッチ</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1957-1958</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョージ・ハードウィック" title="wikilink">ジョージ・ハードウィック</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1958-1959</p></td>
+<td><p>ケース・ファン・ダイケ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1959-1960</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/リュビチャ・ブロチッチ" title="wikilink">リュビチャ・ブロチッチ</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1960-1962</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フランツ・ビンダー" title="wikilink">フランツ・ビンダー</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1962-1967</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ブラム・アッペル" title="wikilink">ブラム・アッペル</a></p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>1967</p></td>
+<td><p>ミラン・ニコリッチ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1967-1968</p></td>
+<td><p>ウィム・ブロクランド</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1968.7-1972.6</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/クルト・リンデル" title="wikilink">クルト・リンデル</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1972.7-1979.12</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ケース・レイフェルス" title="wikilink">ケース・レイフェルス</a></p></td>
+<td><p><strong>3</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>1980.7-1983.6</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テイス・リブレフツ" title="wikilink">テイス・リブレフツ</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1983.7-1986.6</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ヤン・レケル" title="wikilink">ヤン・レケル</a></p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>1986.7-1987.3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハンス・クラーイ" title="wikilink">ハンス・クラーイ</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1987.3-1990.6</p></td>
+<td><p><a href="../Page/フース・ヒディンク.md" title="wikilink">フース・ヒディンク</a></p></td>
+<td><p><strong>3</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>1990.7-1992.6</p></td>
+<td><p><a href="../Page/ボビー・ロブソン.md" title="wikilink">ボビー・ロブソン</a></p></td>
+<td><p><strong>2</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>1992.7-1993.6</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハンス・ウェステルホフ" title="wikilink">ハンス・ウェステルホフ</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1993.7-1994.10</p></td>
+<td><p><a href="../Page/ア・デモス.md" title="wikilink">ア・デ・モス</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1994.10-1994.12</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ケース・ライフェルス" title="wikilink">ケース・ライフェルス</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1994.12-1998.6</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ディック・アドフォカート" title="wikilink">ディック・アドフォカート</a></p></td>
+<td><p><strong>1</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>1998.7-1999.6</p></td>
+<td><p><a href="../Page/ボビー・ロブソン.md" title="wikilink">ボビー・ロブソン</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1999.7-2002.5</p></td>
+<td><p><a href="../Page/エリック・ゲレツ.md" title="wikilink">エリック・ヘレツ</a></p></td>
+<td><p><strong>2</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>2002.7-2006.6</p></td>
+<td><p><a href="../Page/フース・ヒディンク.md" title="wikilink">フース・ヒディンク</a></p></td>
+<td><p><strong>3</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2006.7-2007.10</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ロナルド・クーマン" title="wikilink">ロナルド・クーマン</a></p></td>
+<td><p><strong>1</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>2008.1-2008.6</p></td>
+<td><p><a href="../Page/セフ・フェルホーセン.md" title="wikilink">セフ・フェルホーセン</a></p></td>
+<td><p><strong>1</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2008.7-2009.1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フーブ・ステーフェンス" title="wikilink">フーブ・ステーフェンス</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2009.7-2012.3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フレット・ルッテン" title="wikilink">フレット・ルッテン</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2012.3-2012.6</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フィリップ・コクー" title="wikilink">フィリップ・コクー</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2012.7-2013.6</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ディック・アドフォカート" title="wikilink">ディック・アドフォカート</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2013.7-2018.6</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フィリップ・コクー" title="wikilink">フィリップ・コクー</a></p></td>
+<td><p><strong>3</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>2018.6-2019.12</p></td>
+<td><p><a href="../Page/マルク・ファン・ボメル.md" title="wikilink">マルク・ファン・ボメル</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 歴代所属選手
+
+### 歴代主将
+
+<table>
+<thead>
+<tr class="header">
+<th><p>選手</p></th>
+<th><p>背番号</p></th>
+<th><p>在籍期間</p></th>
+<th><p>在任期間</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/アト・ファン・エールト" title="wikilink">アト・ファン・エールト</a></p></td>
+<td></td>
+<td><p>1927-1932</p></td>
+<td><p>1928-</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/スイェフ・ファン・ルン" title="wikilink">スイェフ・ファン・ルン</a></p></td>
+<td></td>
+<td><p>1926-1942</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ベルント・スホルテンス" title="wikilink">ベルント・スホルテンス</a></p></td>
+<td></td>
+<td><p>1937-1955</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ルール・ウィールスマ" title="wikilink">ルール・ウィールスマ</a></p></td>
+<td></td>
+<td><p>1954-1965</p></td>
+<td><p>1954-1965</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ヴィリー・ファン・デル・カイレン" title="wikilink">ヴィリー・ファン・デル・カイレン</a></p></td>
+<td></td>
+<td><p>1964-1981</p></td>
+<td><p>1965-1973</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/ヤン・ファン・ベベレン.md" title="wikilink">ヤン・ファン・ベベレン</a></p></td>
+<td><p>1</p></td>
+<td><p>1970-1983</p></td>
+<td><p>1973-1983</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ハルワルド・トーレセン" title="wikilink">ハルワルド・トーレセン</a></p></td>
+<td><p>9</p></td>
+<td><p>1981-1988</p></td>
+<td><p>1983-1986</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/ルート・フリット.md" title="wikilink">ルート・フリット</a></p></td>
+<td><p>10</p></td>
+<td><p>1985-1987</p></td>
+<td><p>1986-1987</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/エリック・ゲレツ.md" title="wikilink">エリック・ヘレツ</a></p></td>
+<td><p>2</p></td>
+<td><p>1985-1992</p></td>
+<td><p>1987-1992</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ヘラルト・ファネンブルフ" title="wikilink">ヘラルト・ファネンブルフ</a></p></td>
+<td><p>4</p></td>
+<td><p>1986-1993</p></td>
+<td><p>1992-1993</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/エルウィン・クーマン.md" title="wikilink">エルウィン・クーマン</a></p></td>
+<td><p>3</p></td>
+<td><p>1979-1982, 1990-1994</p></td>
+<td><p>1993-1994</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/アーサー・ニューマン" title="wikilink">アーサー・ニューマン</a></p></td>
+<td><p>5</p></td>
+<td><p>1992-1998</p></td>
+<td><p>1994-1998</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ルク・ニリス" title="wikilink">ルク・ニリス</a></p></td>
+<td><p>10</p></td>
+<td><p>1994-2000</p></td>
+<td><p>1998-2000</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/マルク・ファン・ボメル.md" title="wikilink">マルク・ファン・ボメル</a></p></td>
+<td><p>6</p></td>
+<td><p>1999-2005, 2012-2013</p></td>
+<td><p>2000-2005, 2012-2013</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/フィリップ・コクー" title="wikilink">フィリップ・コクー</a></p></td>
+<td><p>8</p></td>
+<td><p>1995-1998, 2004-2007</p></td>
+<td><p>2005-2007</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/ティミー・シモンス.md" title="wikilink">ティミー・シモンス</a></p></td>
+<td><p>6</p></td>
+<td><p>2005-2010</p></td>
+<td><p>2007-2010</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/イブラヒム・アフェレイ" title="wikilink">イブラヒム・アフェレイ</a></p></td>
+<td><p>20</p></td>
+<td><p>2003-2010</p></td>
+<td><p>2010</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/オルランド・エンヘラール.md" title="wikilink">オルランド・エンヘラール</a></p></td>
+<td><p>8</p></td>
+<td><p>2009-2013</p></td>
+<td><p>2011</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/オラ・トイヴォネン" title="wikilink">オラ・トイヴォネン</a></p></td>
+<td><p>7</p></td>
+<td><p>2009-2013</p></td>
+<td><p>2011-12</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョルジニオ・ワイナルドゥム" title="wikilink">ジョルジニオ・ワイナルドゥム</a></p></td>
+<td><p>10</p></td>
+<td><p>2011-2015</p></td>
+<td><p>2013-2015</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ルーク・デ・ヨング" title="wikilink">ルーク・デ・ヨング</a></p></td>
+<td><p>9</p></td>
+<td><p>2014-2019</p></td>
+<td><p>2015-2019</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/イブラヒム・アフェレイ" title="wikilink">イブラヒム・アフェレイ</a></p></td>
+<td><p>17</p></td>
+<td><p>2019-</p></td>
+<td><p>2019-</p></td>
+</tr>
+</tbody>
+</table>
+
+### クラブ記録保持者
+
+  - 通算得点数
+
+<!-- end list -->
+
+  - 1位 308得点  [ヴィリー・ファン・デル・カイレン](https://ja.wikipedia.org/wiki/ヴィリー・ファン・デル・カイレン "wikilink") (オランダ記録)
+  - 2位 288得点  [クーン・ディレン](https://ja.wikipedia.org/wiki/クーン・ディレン "wikilink")
+  - 3位 110得点  [ルク・ニリス](https://ja.wikipedia.org/wiki/ルク・ニリス "wikilink")
+
+<!-- end list -->
+
+  - 1シーズン最多得点数
+
+<!-- end list -->
+
+  - 1位 43得点  [クーン・ディレン](https://ja.wikipedia.org/wiki/クーン・ディレン "wikilink") (1956-57シーズン、オランダ記録)
+  - 2位 35得点  [マテヤ・ケジュマン](https://ja.wikipedia.org/wiki/マテヤ・ケジュマン "wikilink") (2002-03シーズン)
+  - 3位 31得点  [ルート・ファン・ニステルローイ](../Page/ルート・ファン・ニステルローイ.md "wikilink") (1998-99シーズン)
+  - 3位 31得点  [マテヤ・ケジュマン](https://ja.wikipedia.org/wiki/マテヤ・ケジュマン "wikilink") (2003-04シーズン)
+  - 5位 30得点  [ロナウド](../Page/ロナウド.md "wikilink") (1994-95シーズン)
+
+<!-- end list -->
+
+  - 通算出場試合数
+
+<!-- end list -->
+
+  - 1位 528試合  [ヴィリー・ファン・デル・カイレン](https://ja.wikipedia.org/wiki/ヴィリー・ファン・デル・カイレン "wikilink")
+  - 2位 425試合  [ヤン・ヘインツェ](https://ja.wikipedia.org/wiki/ヤン・ヘインツェ "wikilink")
+  - 3位 418試合  [ヴィリー・ファン・デル・ケルクホフ](https://ja.wikipedia.org/wiki/ヴィリー・ファン・デル・ケルクホフ "wikilink")
+  - 4位 388試合  [ベルント・スホルテンス](https://ja.wikipedia.org/wiki/ベルント・スホルテンス "wikilink")
+  - 5位 383試合  [イブラヒム・アフェレイ](https://ja.wikipedia.org/wiki/イブラヒム・アフェレイ "wikilink")
+
+<!-- end list -->
+
+  - 連続無失点時間
+
+<!-- end list -->
+
+  - 1位  [ゴメス](../Page/エウレリョ・ダ・シウヴァ・ゴメス.md "wikilink") /  [エトウィン・ズーテビール](https://ja.wikipedia.org/wiki/エトウィン・ズーテビール "wikilink") - 1159分 (2004年、オランダ記録)
+  - 2位  [ゴメス](../Page/エウレリョ・ダ・シウヴァ・ゴメス.md "wikilink") - 957分 (2006年10月 - 12月)
+  - 3位  [ゴメス](../Page/エウレリョ・ダ・シウヴァ・ゴメス.md "wikilink") - 817分 (2006年2月 - 4月)
+
+### GK
+
+### DF
+
+### MF
+
+### FW
+
+## サッカー以外のスポーツ
+
+PSVアイントホーフェンと呼ばれているクラブは17あり、全てフィリップス・スポーツ・ユニオン（Federatie van Philips Sport Verenigingen）のメンバーである。20種類のスポーツに5000人以上の会員がいる（2003年現在）。
+
+PSVアイントホーフェンの水泳クラブ所属である[ピーター・ファン・デン・ホーヘンバンド](../Page/ピーター・ファン・デン・ホーヘンバンド.md "wikilink")と[インヘ・デブルーイン](../Page/インヘ・デブルーイン.md "wikilink")は、[2000年](../Page/2000年.md "wikilink")の[シドニーオリンピック](https://ja.wikipedia.org/wiki/シドニーオリンピック "wikilink")の[競泳](../Page/競泳.md "wikilink")で8つのメダル（内5個の金メダル）を占めた。水泳クラブはサッカーの次に知られているが、そのほかのクラブもそれぞれの国内競技会で高いレベルにある。
+
+## 脚注
+
+## 外部リンク
+
+  - [公式サイト](https://www.psv.nl/)
+  - [公式サポーターズクラブ](https://www.supver-psv.nl/en_index.html?refresh=1567051432)
+  - [フォーメーション](http://www.football-lineups.com/team/PSV_Eindhoven/) Football Llineups.com
+  - [ギャラリー](https://www.pbase.com/tvw/football/) Tvw
+  - [ファンサイト](https://psvreport.nl/)
+
+[Category:PSVアイントホーフェン](https://ja.wikipedia.org/wiki/Category:PSVアイントホーフェン "wikilink") [Category:オランダのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オランダのサッカークラブ "wikilink") [Category:アイントホーフェン](https://ja.wikipedia.org/wiki/Category:アイントホーフェン "wikilink") [Category:フィリップス](https://ja.wikipedia.org/wiki/Category:フィリップス "wikilink")
+
+1.
+2.
+3.  [UEFA Cup final 1978](http://www.uefa.com/competitions/uefacup/history/season=1977/intro.html)UEFA.com
+4.  [Interview with Berend Scholten](http://www.uefa.com/uefaeuropaleague/matches/season=2011/round=2000131/match=2007723/prematch/focus/index.html/) UEFA.com
+5.  Robson. Farewell but Not Goodbye, p150–53.
+6.  [PSV appoint Huub Stevens as their new head coach](http://english.psv.nl/web/show/id=58980/contentid=22065) PSV公式サイト
+7.  [nrc.nl – Sport – Reker: Perez initieerde transfer zelf](http://www.nrc.nl/sport/article877373.ece/Reker_Perez_initieerde_transfer_zelf)
+8.
+9.
+10. [PSV appoint Phillip Cocu as caretaker](http://psv.nl/News/News-page/PSV-appoint-Phillip-Cocu-as-caretaker.htm) PSV公式サイト
+11. [Cocu's PSV seal Dutch Cup success by Berend Scholten](http://www.uefa.com/memberassociations/association=ned/news/newsid=1781995.html) UEFA.com
+12. [PSV terug in categorie voor financieel gezonde clubs](http://www.vi.nl/nieuws/218955/PSV-terug-in-categorie-voor-financieel-gezonde-clubs.htm) Voetbal International
+13. [Advocaat denkt snel rond te zijn met PSV](http://www.fcupdate.nl/voetbalnieuws/204077/advocaat-denkt-snel-rond-te-zijn-met-psv/) FC Update.nl
+14. [Van Bommel geeft PSV jawoord voor eenjarig contract](http://www.vi.nl/nieuws/220280/Van-Bommel-geeft-PSV-jawoord-voor-eenjarig-contract.htm) Voetbal International
+15. [PSV beat Ajax to claim Dutch Super Cup](http://www.uefa.com/memberassociations/association=ned/news/newsid=1845077.html) UEFA.com
+16. [Matavž hat-trick propels PSV to Napoli success](http://www.uefa.com/uefaeuropaleague/season=2013/matches/round=2000356/match=2010022/postmatch/report/index.html/) UEFA.com
+17. [PSV Eindhoven have signed midfielder Oscar Hiljemark from Elfsborg](http://www1.skysports.com/football/news/11914/8380741/PSV-Eindhoven-have-signed-midfielder-Oscar-Hiljemark-from-Elfsborg) Sky Sports
+18. [PSVが７年ぶりにリーグ優勝](http://jp.uefa.com/memberassociations/association=ned/news/newsid=2236350.html) UEFA.com
+19.
+20. [Eerste klasse Attendance](http://www.worldfootball.net/zuschauer/bel-eerste-klasse-2013-playoff-i/1/)World Football.net
+21. [PSV-selectie 2019-2020](http://www.psv.nl/psv/team/overzicht.htm)PSVアイントホーフェン公式サイト 2020年1月31日閲覧

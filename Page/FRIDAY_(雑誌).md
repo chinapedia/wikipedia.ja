@@ -1,0 +1,139 @@
+> この記事は[FRIDAY \(\)](https://ja.wikipedia.org/wiki/FRIDAY_\(\))から翻訳されています。
+
+
+**FRIDAY**（フライデー）は、[講談社](../Page/講談社.md "wikilink")が発行している、[1984年](../Page/1984年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")59年）[11月9日](../Page/11月9日.md "wikilink")創刊の[写真週刊誌](https://ja.wikipedia.org/wiki/写真週刊誌 "wikilink")である\[1\]。原則として毎週[金曜日](../Page/金曜日.md "wikilink")に発売される\[2\]。誌名は金曜日に由来\[3\]。
+
+## 概要
+
+写真週刊誌として知名度が高く、有名人がFRIDAYにより何らかの事実をスクープされることを指して、「**フライデーされる**」と呼称されることもある\[4\]\[5\]。
+
+一方、取材手法や記事内容については、[プライバシー](../Page/プライバシー.md "wikilink")や[人権](../Page/人権.md "wikilink")、[法律](../Page/法律.md "wikilink")を軽視していると指摘されることもある。
+
+[2003年](../Page/2003年.md "wikilink")（[平成](../Page/平成.md "wikilink")15年）には創刊1000号を突破した。[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")と[お盆](../Page/お盆.md "wikilink")・[年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")に合併号を発行する。また、年に数回、増刊号として「フライデーダイナマイト」を発行している。主な違いとしてグラビアの量や過去に掲載した記事の総集編、様々なジャンルの特集記事を行うことが多いという点がある。販売店の自主規制によって「ダイナマイト」は成年向け雑誌として扱われる場合もある。
+
+過去には、関連する刑事事件として[ビートたけし](../Page/ビートたけし.md "wikilink")らによる[フライデー襲撃事件](../Page/フライデー襲撃事件.md "wikilink")が発生している。
+
+一部人物（特にグラビアを掲載する女性）において、独特の表記をする例がある（『週刊現代』も同様）。
+
+  - [壇蜜](https://ja.wikipedia.org/wiki/壇蜜 "wikilink")は、それが1つの名前であることが定着した後も、プロフィール欄のふりがなは姓名区切りの「だん・みつ」としている。
+  - [高橋しょう子](https://ja.wikipedia.org/wiki/高橋しょう子 "wikilink")は、グラビアアイドル（高崎聖子）時代からの愛称「たかしょー」と表記しており、「高橋しょう子」という表記例は見られない（プロフィール欄のふりがなは「たかはし・しょうこ」と、芸名を隠していない）。
+  - [並木塔子](https://ja.wikipedia.org/wiki/並木塔子 "wikilink")は、AVデビューした2016年内まで「さん」付けで表記していた。
+
+### ライバル誌
+
+同じジャンルの写真週刊誌『[FOCUS](../Page/FOCUS.md "wikilink")』（[新潮社](../Page/新潮社.md "wikilink")）、『[FLASH](../Page/FLASH_\(写真週刊誌\).md "wikilink")』（発行元のグループ企業の[光文社](../Page/光文社.md "wikilink")が発行）と共に「**3F**（**スリーエフ**）」と呼ばれていた\[6\]が、『FOCUS』が[2001年](../Page/2001年.md "wikilink")に休刊して以降は、写真週刊誌では発行部数（40万9,082部 [日本雑誌協会](https://ja.wikipedia.org/wiki/日本雑誌協会 "wikilink")）で一位である。最盛期には毎号200万部を売り上げており、2015年度は年間26万部の売上であった\[7\]。
+
+FRIDAY創刊以降の[1980年代](../Page/1980年代.md "wikilink")半ばは写真週刊誌ブームで、『[Emma](../Page/Emma.md "wikilink")』（[文藝春秋](../Page/文藝春秋.md "wikilink")）、『[TOUCH](https://ja.wikipedia.org/wiki/TOUCH_\(週刊誌\) "wikilink")』（[小学館](../Page/小学館.md "wikilink")）など他の大手出版社もこぞって写真週刊誌を発行し「**3FET**」の時代となったが、『Emma』『TOUCH』の2誌は競争に勝てず、いずれも[1990年代](../Page/1990年代.md "wikilink")を迎えることなく短期間で休刊した。
+
+### 増刊号
+
+増刊号として『FRIDAYスペシャル』（2014年以降は発行なし）や『FRIDAYダイナマイト』が不定期に発売されている。
+
+## 歴代編集長
+
+※出典:『講談社の100年』（同社社史）
+
+|                                                       |                                                                                                                    |                                                                                                                                                                                                                                    |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 氏名                                                    | 在任期間                                                                                                               | 備考                                                                                                                                                                                                                                 |
+| [伊藤寿男](https://ja.wikipedia.org/wiki/伊藤寿男 "wikilink") | [1984年](../Page/1984年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 1985年6月                    | <small>元「[週刊現代](../Page/週刊現代.md "wikilink")」編集長。後に[テーミス社](https://ja.wikipedia.org/wiki/テーミス社 "wikilink")を設立して[学習研究社で](../Page/学研ホールディングス.md "wikilink")[週刊テーミス](https://ja.wikipedia.org/wiki/週刊テーミス "wikilink")を発行。\[8\]</small> |
+| 寺島昭彦                                                  | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月](../Page/6月.md "wikilink") - 1987年4月                    | <small>編集長退任後は「週刊現代」編集長に着任。</small>                                                                                                                                                                                                |
+| 須川真                                                   | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 1988年4月 |                                                                                                                                                                                                                                    |
+| 森岩弘                                                   | [1988年](../Page/1988年.md "wikilink")4月 - 1991年3月                                                                   | <small>編集長退任後は「週刊現代」編集長に着任。</small>                                                                                                                                                                                                |
+| [元木昌彦](https://ja.wikipedia.org/wiki/元木昌彦 "wikilink") | [1991年](../Page/1991年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 1993年3月                    | <small>編集長退任後は「週刊現代」編集長に着任。</small>                                                                                                                                                                                                |
+| 鈴木哲                                                   | [1993年](../Page/1993年.md "wikilink")3月 - 1996年7月                                                                   | <small>編集長退任後は他部署へ異動後、「週刊現代」編集長に着任。</small>                                                                                                                                                                                        |
+| 谷雅志                                                   | [1996年](../Page/1996年.md "wikilink")7月 - 1998年3月                                                                   |                                                                                                                                                                                                                                    |
+| 加藤晴之                                                  | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月 - 2000年7月                                                | <small>編集長退任後は[学芸図書](https://ja.wikipedia.org/wiki/学芸図書 "wikilink")出版部担当部長、「週刊現代」編集長を歴任。</small>                                                                                                                                   |
+| 鈴木智之                                                  | [2000年](../Page/2000年.md "wikilink")7月 - 2002年6月                                                                   |                                                                                                                                                                                                                                    |
+| 出樋一親                                                  | [2002年](../Page/2002年.md "wikilink")6月 - 2004年7月                                                                   |                                                                                                                                                                                                                                    |
+| 中本顕二                                                  | [2004年](../Page/2004年.md "wikilink")7月 - 2006年3月                                                                   |                                                                                                                                                                                                                                    |
+| 出樋一親                                                  | [2006年](../Page/2006年.md "wikilink")3月 - 2008年4月                                                                   | <small>2度目の編集長就任。「週刊現代」編集部（編集長）から異動。</small>                                                                                                                                                                                       |
+| 仙波久幸                                                  | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月 - 2009年6月                                                |                                                                                                                                                                                                                                    |
+| 秋吉敦司                                                  | [2009年](../Page/2009年.md "wikilink")6月 - 2012年6月                                                                   |                                                                                                                                                                                                                                    |
+|                                                       |                                                                                                                    |                                                                                                                                                                                                                                    |
+
+## スクープ・批判を受けた報道
+
+  - 創刊に際して、[中江滋樹](../Page/中江滋樹.md "wikilink")と[倉田まり子](https://ja.wikipedia.org/wiki/倉田まり子 "wikilink")のツーショットを掲載し名声を高めると同時に[三島由紀夫](https://ja.wikipedia.org/wiki/三島由紀夫 "wikilink")の生首\[9\]の写真を掲載したとして、三島の妻の[平岡瑤子](../Page/平岡瑤子.md "wikilink")が[講談社](../Page/講談社.md "wikilink")に抗議し、出版を差し止められた。
+  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（[昭和](../Page/昭和.md "wikilink")61年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[井上ひさし](../Page/井上ひさし.md "wikilink")の知人女性を隠し撮りしたものを掲載し、[東京法務局](../Page/東京法務局.md "wikilink")から[人権侵害だと勧告される](https://ja.wikipedia.org/wiki/人権蹂躙 "wikilink")。
+  - 1986年（昭和61年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")、[ビートたけし](../Page/ビートたけし.md "wikilink")と[たけし軍団](../Page/たけし軍団.md "wikilink")が編集部を襲撃する事件（[フライデー襲撃事件](../Page/フライデー襲撃事件.md "wikilink")）が起き、社会問題となった。
+  - [1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）[9月](../Page/9月.md "wikilink")、[幸福の科学](../Page/幸福の科学.md "wikilink")が記事の内容に抗議して講談社前でのデモや訴訟などを起こした（[講談社フライデー事件](https://ja.wikipedia.org/wiki/講談社フライデー事件 "wikilink")）。後に創刊1000号記念で掲載された特集記事では、「この一件により講談社の業務は一時的にストップした」と記されている。
+  - 『[進ぬ\!電波少年](../Page/進ぬ!電波少年.md "wikilink")』と『[電波少年に毛が生えた 最後の聖戦](../Page/電波少年に毛が生えた_最後の聖戦.md "wikilink")』の[やらせ](https://ja.wikipedia.org/wiki/やらせ "wikilink")やロケ中の出演者へ配慮が不十分だった実態 を暴露。これに対し番組側は、講談社の前でフライデーをネタにした替え歌（[グリーングリーン](https://ja.wikipedia.org/wiki/グリーングリーン "wikilink")の[替え歌](https://ja.wikipedia.org/wiki/替え歌 "wikilink")）を歌う[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")の企画を行い、反抗した。
+  - 2000年5月、当時の首相[森喜朗](../Page/森喜朗.md "wikilink")がアメリカ大統領[ビル・クリントン](../Page/ビル・クリントン.md "wikilink")に対してデタラメな英語の挨拶を行ったという報道が、7月末開催の[九州・沖縄サミット](https://ja.wikipedia.org/wiki/九州・沖縄サミット "wikilink")への揶揄と併せて、フライデー2000年7月21日号、[週刊文春](../Page/週刊文春.md "wikilink")により報じられた\[10\]。なお、[週刊朝日](../Page/週刊朝日.md "wikilink")はフライデー等の報道に当初から懐疑的で検証記事を載せている\[11\]。事実は[毎日新聞社](../Page/毎日新聞社.md "wikilink")論説委員高畑昭男による創作であり、森退陣後の2004年に本人が認めた\[12\]、森はこの[デマ](https://ja.wikipedia.org/wiki/デマ "wikilink")を批判している\[13\]（詳細は[Who are you ?捏造報道](https://ja.wikipedia.org/wiki/Who_are_you_?捏造報道 "wikilink")）。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）、[カンニングの](../Page/カンニング_\(お笑いコンビ\).md "wikilink")[竹山隆範](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")が[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")』で、「フライデー撮りに来い\!」と挑発した。そのネタ中に実際に電話もかけ、実際にスクープされたことがあった。竹山は同番組で発表し、フライデーの紙面には「撮れと言われたので撮りに行きました（笑）」と書かれていた。その後は周囲の説得により「フライデーも含めて、僕をスクープしたりしないで下さい」と発言している。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）[2月10日](../Page/2月10日.md "wikilink")発売のフライデーには「[加護亜依](../Page/加護亜依.md "wikilink")が[レストラン](../Page/レストラン.md "wikilink")で[タバコ](https://ja.wikipedia.org/wiki/タバコ "wikilink")を[吸っていた](https://ja.wikipedia.org/wiki/喫煙 "wikilink")」と見開きトップでスクープ掲載した。[アップフロントエージェンシー](../Page/アップフロントプロモーション.md "wikilink")（現：アップフロントプロモーション）が事実関係を確認したところ、ほぼ報道されている通りであったため、[未成年者喫煙禁止法](https://ja.wikipedia.org/wiki/未成年者喫煙禁止法 "wikilink")に触れることから謹慎処分となった。
+  - 2006年（平成18年）[10月13日](../Page/10月13日.md "wikilink")号において、[民主党](https://ja.wikipedia.org/wiki/民主党_\(日本_1998-2016\) "wikilink")[衆議院議員の](https://ja.wikipedia.org/wiki/日本の国会議員 "wikilink")[細野豪志](../Page/細野豪志.md "wikilink")と[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[山本モナ](https://ja.wikipedia.org/wiki/山本モナ "wikilink")との[東京都港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[南青山](https://ja.wikipedia.org/wiki/南青山 "wikilink")での『路上[キス写真](https://ja.wikipedia.org/wiki/接吻 "wikilink")』を見開きトップでスクープ掲載した。細野にとっては[不倫](https://ja.wikipedia.org/wiki/不倫 "wikilink")関係だったため、細野は民主党[政策調査会長代理の職位を](https://ja.wikipedia.org/wiki/政策部会 "wikilink")[10月5日](../Page/10月5日.md "wikilink")付で辞職、山本は当時出演していた[筑紫哲也 NEWS23を](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23 "wikilink")[10月2日](../Page/10月2日.md "wikilink")から『体調不良』を理由に休み、[10月23日](../Page/10月23日.md "wikilink")付けで降板した。この不倫スクープ写真（キス写真・通称『路チュー写真』）は、2006年度「[編集者が選ぶ雑誌ジャーナリズム賞](../Page/編集者が選ぶ雑誌ジャーナリズム賞.md "wikilink")・話題賞」を受賞した。
+  - [2007年](../Page/2007年.md "wikilink")（平成19年）、写真に重大な不備があったため訂正が間に合わず、同年[10月19日](../Page/10月19日.md "wikilink")号が創刊以来初の発売中止となった。なお、Internet FRIDAY、i-FRIDAYでは10月19日号の記事が掲載された。中止の理由として[時津風部屋力士暴行死事件](https://ja.wikipedia.org/wiki/時津風部屋力士暴行死事件 "wikilink")で、暴行を加えたとされる[時津風部屋](https://ja.wikipedia.org/wiki/時津風部屋 "wikilink")の兄弟子の写真を他人のものと間違えて掲載したためと報道された。翌週の[10月26日](../Page/10月26日.md "wikilink")号の巻末にはお詫び文が掲載された。
+  - 暴力団との関係をめぐる写真週刊誌フライデーの記事で名誉を傷つけられたとして、元タレントの[島田紳助](../Page/島田紳助.md "wikilink")が発行元の講談社側に5500万円の損害賠償などを求めた訴訟で、東京地裁は26日に330万円の支払いを命じ、謝罪広告掲載の請求は退けた。問題となったのは、紳助が芸能界引退を発表した後に発行された2011年9月16日号の「追及第2弾！『警察が注目する不動産トラブル』」などと題された記事\[14\]。
+  - 2015年4月17日号において、[バナナマン](https://ja.wikipedia.org/wiki/バナナマン "wikilink")の[日村勇紀](https://ja.wikipedia.org/wiki/日村勇紀 "wikilink")と[セント・フォース](../Page/セント・フォース.md "wikilink")所属の[神田愛花](https://ja.wikipedia.org/wiki/神田愛花 "wikilink")との交際を写真掲載し\[15\]、双方の事務所も[恋人](https://ja.wikipedia.org/wiki/恋人 "wikilink")交際を認めた\[16\]。その後、[2018年](../Page/2018年.md "wikilink")（平成30年）[4月7日](../Page/4月7日.md "wikilink")に、日村勇紀と神田愛花との[婚姻届](../Page/婚姻届.md "wikilink")を役所に提出し、[結婚](../Page/結婚.md "wikilink")している\[17\]。
+  - 2017年6月23日号において、[小出恵介](../Page/小出恵介.md "wikilink")が未成年者との飲酒が発覚した記事が掲載されたところ、小出自身がこれを認めたため、無期限活動停止処分に追い込まれた。
+  - [2019年](../Page/2019年.md "wikilink")6月21日号において、[カラテカの](../Page/カラテカ_\(お笑いコンビ\).md "wikilink")[入江慎也](../Page/入江慎也.md "wikilink")が所属事務所・[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")（当時）を通さずギャラを受け取る「闇営業」を男女40人詐欺グループ(被害総額40億以上、40人以上の逮捕者を出し、現在は解散済み)と行い、吉本の芸人を仲介していた事を報じ\[18\]、入江は吉本から契約を解消された\[19\]。2014年12月に開催された詐欺グループの忘年会には入江の他、[宮迫博之](https://ja.wikipedia.org/wiki/宮迫博之 "wikilink")（[雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink")）、[レイザーラモンHG](../Page/レイザーラモンHG.md "wikilink")（[レイザーラモン](https://ja.wikipedia.org/wiki/レイザーラモン "wikilink")）、[田村亮](../Page/田村亮_\(お笑い芸人\).md "wikilink")（[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")）、[福島善成](https://ja.wikipedia.org/wiki/福島善成 "wikilink")（[ガリットチュウ](https://ja.wikipedia.org/wiki/ガリットチュウ "wikilink")）らも参加していた\[20\]。[6月24日](../Page/6月24日.md "wikilink")、同グループの会合（忘年会以外の会合を含む）に参加していた吉本興業の芸人11名（宮迫、田村、HG、福島、[くまだまさし](https://ja.wikipedia.org/wiki/くまだまさし "wikilink")、パンチ浜崎（[ザ・パンチ](../Page/ザ・パンチ.md "wikilink")）、[木村卓寛](https://ja.wikipedia.org/wiki/木村卓寛 "wikilink")（[天津](../Page/天津_\(お笑いコンビ\).md "wikilink")）、[ムーディ勝山](../Page/ムーディ勝山.md "wikilink")、[2700](https://ja.wikipedia.org/wiki/2700_\(お笑いコンビ\) "wikilink")、ディエゴ（[ストロベビー](https://ja.wikipedia.org/wiki/ストロベビー "wikilink")））には当面の間活動を停止する謹慎処分が下された\[21\]。同じく同忘年会に参加していた[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")の[ザブングルも同事務所から謹慎処分が下された](../Page/ザブングル_\(お笑いコンビ\).md "wikilink")\[22\]。
+  - 2019年7月12日号において、「まだまだ出てくる吉本興業の「闇芸人」[稲川会](https://ja.wikipedia.org/wiki/稲川会 "wikilink")幹部の誕生会で「闇営業」 」というタイトルで[スリムクラブ](../Page/スリムクラブ.md "wikilink")が指定[暴力団](https://ja.wikipedia.org/wiki/暴力団 "wikilink")「稲川会」No・3に当たる本部長の男性の誕生会で闇営業していたと報道し\[23\]、吉本はフライデー発売の前日の6月27日にスリムクラブを無期限謹慎、また同じ誕生会に参加していた2700に対しては謹慎処分から無期限謹慎処分を下した\[24\]。
+  - 2019年8月2日号（7月19日発売）において、「吉本興業の闇営業／宮迫博之、半グレ金塊強奪犯と「ギャラ飲み」現場写真 」というタイトルで\[25\]、宮迫博之が福岡市で2016年、約7億5千万円相当の金塊を盗んだとして窃盗罪に問われた人物らと、飲食店で同席したとされる写真を掲載し、吉本は宮迫との契約を7月19日付で解消したと発表した\[26\]\[27\]。
+  - このほか、俳優・[成宮寛貴](../Page/成宮寛貴.md "wikilink")が2016年12月に違法薬物を使用した疑惑などが報じられたこと(本人は薬物使用を否定。)が原因で芸能界を引退した際、この件をリークしたとされる**成宮寛貴の友人A**を名乗る男(らの一部)が詐欺容疑で[愛媛県警に逮捕されている](../Page/愛媛県警察.md "wikilink")\[28\]。また、上述の[お笑い芸人による闇営業問題](https://ja.wikipedia.org/wiki/お笑い芸人による闇営業問題 "wikilink")やそれに関連する宮迫博之のギャラ飲み報道では事件で逮捕された[反社会勢力](https://ja.wikipedia.org/wiki/反社会勢力 "wikilink")の関係者からのリークであると言われており、これに対して一部メディアからは反社会的勢力とのつながりを疑う声も上がっている\[29\]\[30\]。
+
+## 発行部数
+
+|       | 1〜3月      | 4〜6月      | 7〜9月      | 10〜12月    |
+| ----- | --------- | --------- | --------- | --------- |
+| 2008年 |           | 380,000 部 | 375,834 部 | 364,616 部 |
+| 2009年 | 345,000 部 | 335,417 部 | 340,000 部 | 330,231 部 |
+| 2010年 | 316,667 部 | 315,734 部 | 324,892 部 | 305,546 部 |
+| 2011年 | 303,625 部 | 306,000 部 | 308,131 部 | 311,250 部 |
+| 2012年 | 296,539 部 | 296,100 部 | 311,850 部 | 305,910 部 |
+| 2013年 | 293,334 部 | 275,917 部 | 269,167 部 | 269,167 部 |
+| 2014年 | 273,637 部 | 275,834 部 | 277,500 部 | 278,462 部 |
+| 2015年 | 260,000 部 | 263,334 部 | 260,910 部 | 253,847 部 |
+| 2016年 | 254,167 部 | 256,364 部 | 257,500 部 | 254,167 部 |
+| 2017年 | 254,167 部 | 254,167 部 | 250,833 部 |           |
+
+発行部数（2008年4月以降）（[社団法人日本雑誌協会](https://www.j-magazine.or.jp/user/printed/index)）
+
+## 脚注
+
+## 関連項目
+
+  - [フライデー襲撃事件](../Page/フライデー襲撃事件.md "wikilink")
+
+## 外部リンク
+
+  - [FRIDAYデジタル GOLD](https://friday.kodansha.ne.jp/)
+
+  - [FRIDAYデジタル](https://friday.kodansha.co.jp/)
+
+  -
+  -
+  -
+  -
+[Category:日本の週刊誌](https://ja.wikipedia.org/wiki/Category:日本の週刊誌 "wikilink") [Category:日本のグラフ雑誌](https://ja.wikipedia.org/wiki/Category:日本のグラフ雑誌 "wikilink") [Category:講談社の雑誌](https://ja.wikipedia.org/wiki/Category:講談社の雑誌 "wikilink") [Category:1984年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1984年創刊の雑誌 "wikilink")
+
+1.
+2.
+3.  [FRIDAY（フライデー） 1～1035号 –](https://www.bunsei.co.jp/old-book/ctg-10/friday/) 文生書院
+4.
+5.
+6.
+7.
+8.
+9.  [三島事件](https://ja.wikipedia.org/wiki/三島事件 "wikilink")にて自決した際、介錯された。
+10.
+11. 中村真理子「森首相、クリントン大統領に「フー・アー・ユー」失言の真偽」『週刊朝日』2000年8月11日
+12.  この第141回琉球フォーラム講演会にて高畑は創作である旨を認めた。
+13. 「マスコミとの387日戦争」『[新潮45](../Page/新潮45.md "wikilink")』2001年6月
+14.  ※ 現在は[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")内に残存
+15.
+16.
+17.
+18. フライデー2019年6月21日号、26-29頁
+19.
+20.
+21.
+22.
+23. フライデー2019年7月12日号、26-29頁
+24.
+25. フライデー2019年8月2日号、26-29頁
+26.
+27.
+28.
+29.
+30.

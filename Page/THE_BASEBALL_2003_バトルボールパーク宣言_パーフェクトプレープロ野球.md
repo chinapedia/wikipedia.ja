@@ -1,0 +1,251 @@
+> この記事は[THE BASEBALL 2003  ](https://ja.wikipedia.org/wiki/THE_BASEBALL_2003__)から翻訳されています。
+
+
+『**THE BASEBALL 2003 バトルボールパーク宣言 パーフェクトプレープロ野球**』（ザ・ベースボール2003 バトルボールパークせんげん パーフェクトプレープロやきゅう）は、[2003年](../Page/2003年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（[※](https://ja.wikipedia.org/wiki/#備考 "wikilink")）から[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用ソフトとして発売されたリアル[野球ゲーム](../Page/スポーツゲーム.md "wikilink")。
+
+同年秋に選手データの更新や新要素が追加された『**THE BASEBALL 2003 バトルボールパーク宣言 パーフェクトプレープロ野球 秋季号**』を発売している（PlayStation 2版のみ）。
+
+## 概要
+
+コナミが『**[プロ野球JAPAN2001](https://ja.wikipedia.org/wiki/プロ野球JAPAN2001 "wikilink")**』、『**[THE BASEBALL 2002 バトルボールパーク宣言](https://ja.wikipedia.org/wiki/次の瞬間、熱くなれ。THE_BASEBALL#テレビゲーム "wikilink")**』に続いて発売した3作目にあたるリアル系のプロ野球ゲーム。前作から引き続き、[日本テレビの当時の](../Page/日本テレビ放送網.md "wikilink")[プロ野球中継](../Page/プロ野球中継.md "wikilink")「[THE BASEBALL バトルボールパーク宣言](https://ja.wikipedia.org/wiki/次の瞬間、熱くなれ。THE_BASEBALL "wikilink")」とのタイアップが行われている。
+
+前作はほとんど「プロ野球JAPAN2001」の流用だったが、DVD-ROMを使った今作はグラフィックやスコア表示など全て一新、中でもグラフィックは当時の水準としては高いものとなっている。しかしそのためか、操作が『[実況パワフルプロ野球](../Page/実況パワフルプロ野球.md "wikilink")』（パワプロ）シリーズ等に比べてやや難解な部分があり、試合時間も長いのが特徴。この作品で日本テレビとのタイアップが終わりシリーズも終了したが、開発スタッフやゲームシステムは[2004年](../Page/2004年.md "wikilink")春発売の『**[プロ野球スピリッツ2004](../Page/プロ野球スピリッツ2004.md "wikilink")**』に受け継がれている。
+
+また、エディットモードの代わりに、様々なチームと試合を重ね能力をあげていく「エンペラーカップモード」があり、これには『パワプロ』の[大豪月](https://ja.wikipedia.org/wiki/大豪月 "wikilink")が登場している。
+
+## 声の出演
+
+  - 実況
+
+<!-- end list -->
+
+  - [平川健太郎](../Page/平川健太郎.md "wikilink")（日本テレビ[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
+      -
+        『秋季号』では、ホームラン競争モードのときのみ、[山口富士夫](https://ja.wikipedia.org/wiki/山口富士夫 "wikilink")が実況を担当。
+
+<!-- end list -->
+
+  - 解説
+
+<!-- end list -->
+
+  - [掛布雅之](../Page/掛布雅之.md "wikilink")（日本テレビ野球解説者）
+  - [堀内恒夫](../Page/堀内恒夫.md "wikilink")（同上）
+
+<!-- end list -->
+
+  - ベンチリポート
+
+<!-- end list -->
+
+  - [蛯原哲](../Page/蛯原哲.md "wikilink")（日本テレビアナウンサー）
+
+## エンペラーカップ
+
+オリジナル選手を作成できるモード。システムは『[実況パワフルプロ野球'99](../Page/実況パワフルプロ野球'99開幕版.md "wikilink")』の「冥球島編」のように対戦相手を選んで試合を勝ち抜いていくことでポイントを取得し選手を育成するというもの。難易度が高めになっている。
+
+試合に勝つごとに対戦チームの選手1～2人が仲間となり、その後の試合で使うことができる（他のモードで使用することは不可能）。
+
+### 登場チーム
+
+<table>
+<caption>予選、全国大会出場チーム</caption>
+<thead>
+<tr class="header">
+<th><p>チーム名</p></th>
+<th><p>登場試合</p></th>
+<th><p>特徴</p></th>
+<th><p>勝利時に仲間になる選手</p></th>
+<th><p>守備位置</p></th>
+<th><p>球場</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>佐藤村野球同好会</p></td>
+<td><p>1・2戦</p></td>
+<td><p>選手は全員が<a href="https://ja.wikipedia.org/wiki/佐藤" title="wikilink">佐藤</a>姓。一番弱いチーム。</p></td>
+<td><p>佐藤一（はじめ）</p></td>
+<td><p>一塁手</p></td>
+<td><p>地方球場</p></td>
+</tr>
+<tr class="even">
+<td><p>ヤンキーズ</p></td>
+<td><p>1・2戦</p></td>
+<td><p>選手全員が<a href="../Page/ヤンキー_(不良少年).md" title="wikilink">ヤンキー</a>。</p></td>
+<td><p>時嵐（ときあらし）乱</p></td>
+<td><p>投手</p></td>
+<td><p><a href="../Page/横浜スタジアム.md" title="wikilink">横浜スタジアム</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>ハイスクール高校</p></td>
+<td><p>1～3戦</p></td>
+<td><p>外国人の生徒のみで構成された高校。先発のピエールが持つフォークボールは、ナポレオンフォークと名付けられたオリジナル変化球。</p></td>
+<td><p>ジョニー・ハースト</p></td>
+<td><p>外野手・一塁手</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/阪神甲子園球場" title="wikilink">阪神甲子園球場</a></p></td>
+</tr>
+<tr class="even">
+<td><p>青空少年野球部</p></td>
+<td><p>1～3戦</p></td>
+<td><p>序盤に出てくる相手の中では最大の敵。少年野球のチームなので、選手の背丈は小さい。</p></td>
+<td><p>浅見健太<br />
+浅見勇太</p></td>
+<td><p>投手(健太)<br />
+二塁手・遊撃手・三塁手(勇太)</p></td>
+<td><p>地方球場</p></td>
+</tr>
+<tr class="odd">
+<td><p>サクラサーカス団</p></td>
+<td><p>2戦</p></td>
+<td><p>2戦目に出るチームでは一番弱い。豪快な打撃フォームの選手が多いが、ミートでつなぐ戦法を取ってくる。</p></td>
+<td><p>江澤俊一</p></td>
+<td><p>内野手・外野手</p></td>
+<td><p><a href="../Page/千葉マリンスタジアム.md" title="wikilink">千葉マリンスタジアム</a></p></td>
+</tr>
+<tr class="even">
+<td><p>鉄板鉄鋼製作所</p></td>
+<td><p>2・3戦</p></td>
+<td><p>鉄壁の守備を誇る社会人野球のチーム。選手の名字には全て金が入る。</p></td>
+<td><p>金光銀二</p></td>
+<td><p>捕手</p></td>
+<td><p>東京ドーム</p></td>
+</tr>
+<tr class="odd">
+<td><p>トード製薬</p></td>
+<td><p>2戦</p></td>
+<td><p>選手全員がカエルの<a href="../Page/着ぐるみ.md" title="wikilink">着ぐるみ</a>をしている。</p></td>
+<td><p>蛙沼平吉</p></td>
+<td><p>二塁手</p></td>
+<td><p>東京ドーム</p></td>
+</tr>
+<tr class="even">
+<td><p>うっちゃりハム</p></td>
+<td><p>3・4戦</p></td>
+<td><p>パワー自慢のチーム。選手は全員太めの体型。</p></td>
+<td><p>餅田豊</p></td>
+<td><p>一塁手・外野手</p></td>
+<td><p>東京ドーム</p></td>
+</tr>
+<tr class="odd">
+<td><p>菩提樹大学</p></td>
+<td><p>3・4戦</p></td>
+<td><p>名前の通り仏教系の大学で、お坊さんで構成されたチーム。ミートや変化球に長けた選手が多い。</p></td>
+<td><p>鳳凰活明</p></td>
+<td><p>遊撃手</p></td>
+<td><p><a href="../Page/明治神宮野球場.md" title="wikilink">明治神宮野球場</a></p></td>
+</tr>
+<tr class="even">
+<td><p>イズミノスポーツ</p></td>
+<td><p>3・4戦</p></td>
+<td><p>スポーツ用具メーカーのチーム。社会人野球の強豪。</p></td>
+<td><p>轟鉄平</p></td>
+<td><p>遊撃手・外野手</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>彗星大学</p></td>
+<td><p>3・4戦</p></td>
+<td><p>スタメン選手の走力がほとんどA。エースの阿久津修平は<a href="../Page/実況パワフルプロ野球.md" title="wikilink">実況パワフルプロ野球</a>シリーズのサクセスモードに登場する流星高校の投手・阿久津と同じ能力。</p></td>
+<td><p>風見俊平</p></td>
+<td><p>外野手</p></td>
+<td><p>明治神宮野球場</p></td>
+</tr>
+<tr class="even">
+<td><p>仏契大学</p></td>
+<td><p>3・4戦</p></td>
+<td><p>『<a href="../Page/実況パワフルプロ野球6.md" title="wikilink">実況パワフルプロ野球6</a>』に登場した大学。菩提樹大学とは逆に、速球やパワー自慢の選手が多い。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大豪月" title="wikilink">大豪月</a></p></td>
+<td><p>投手</p></td>
+<td><p>明治神宮野球場</p></td>
+</tr>
+<tr class="odd">
+<td><p>覇道義塾高校</p></td>
+<td><p>4・5戦</p></td>
+<td><p>高校野球の強豪校。各ポジションに強力な選手が多く、隙の少ないチーム</p></td>
+<td><p>矢吹裕次郎</p></td>
+<td><p>三塁手</p></td>
+<td><p>阪神甲子園球場</p></td>
+</tr>
+<tr class="even">
+<td><p>亜細亜総合公司</p></td>
+<td><p>4・5戦</p></td>
+<td><p>社名の読みは「アジアコーポレーション」。メンバー全員が中国人で構成されたチーム。</p></td>
+<td><p>黒侠客（ヘイ・シャコ）</p></td>
+<td><p>外野手</p></td>
+<td><p><a href="../Page/福岡ドーム.md" title="wikilink">福岡ドーム</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>貴族館大学</p></td>
+<td><p>4・5戦</p></td>
+<td><p>貴族風のヨーロッパ人学生によるチーム。エースのギュスターヴはロイヤルナックルと言う名前の<a href="../Page/ナックルボール.md" title="wikilink">ナックルボール</a>を投げる。</p></td>
+<td><p>ギュスターヴ・ハインリッヒ</p></td>
+<td><p>投手</p></td>
+<td><p>明治神宮野球場</p></td>
+</tr>
+<tr class="even">
+<td><p>GGG警備保障</p></td>
+<td><p>4・5戦</p></td>
+<td><p>メンバーの一員として<a href="../Page/実況パワフルプロ野球&#39;98開幕版.md" title="wikilink">実況パワフルプロ野球'98開幕版</a>のサクセスモードに登場した滝本、久方という名前の選手がいる（能力は2人とも<a href="../Page/実況パワフルプロ野球&#39;99開幕版.md" title="wikilink">実況パワフルプロ野球'99開幕版</a>の冥球島編の時と同じ）。</p></td>
+<td><p>権俵太郎</p></td>
+<td><p>捕手</p></td>
+<td><p><a href="../Page/大阪ドーム.md" title="wikilink">大阪ドーム</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>灰徳商事</p></td>
+<td><p>5戦</p></td>
+<td><p>全チーム中一番強い。選手は全員役職名。</p></td>
+<td><p>課長</p></td>
+<td><p>三塁手・二塁手</p></td>
+<td><p>大阪ドーム</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 5戦目終了以降の特別試合
+
+<!-- end list -->
+
+  - U.S.A（6戦)
+  - パーフェクツ（7戦）
+      -
+        1～6戦目までに4試合以上[コールド勝ちをすると登場](../Page/コールドゲーム.md "wikilink")。[札幌ドーム](../Page/札幌ドーム.md "wikilink")で対戦。ロボットによるチーム。なお、この2戦では、勝利しても仲間になる選手はいない。
+
+<!-- end list -->
+
+  - 『秋季号』のみ登場するチーム
+
+<!-- end list -->
+
+  - ジュニアーズ
+      -
+        男性アイドルによって構成された、サクラサーカス団にかわる最弱のチーム。選手名は名前がカタカナで表記されている。
+  - 小粒島高校
+      -
+        地方予選初戦敗退が続く弱小高校野球部。[広島市民球場で対戦](../Page/広島市民球場_\(初代\).md "wikilink")。
+  - 大海原漁業組合
+  - シグマモーターサイクル
+      -
+        新鋭の社会人チーム。[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")で対戦。
+  - OS学園
+      -
+        データ重視の戦いを見せる高校。仲間になる選手は天野秀才。
+  - アルプス生命
+  - 七曲大学
+  - 真・完璧野球部
+      -
+        エンペラーカップの1〜6戦目（パーフェクツ戦）までに4試合以上コールド勝ちをすると登場。前作の完璧野球部が大幅にグレードアップして登場する。
+
+## 備考
+
+  - 本作品で刷新された審判の音声は以後のパワプロシリーズやプロスピシリーズにも受け継がれ、効果音が一新された「[プロ野球スピリッツ2019](https://ja.wikipedia.org/wiki/プロ野球スピリッツ2019 "wikilink")」でも審判に関しては従来のままである。
+  - この年は[日本ハムファイターズ](https://ja.wikipedia.org/wiki/日本ハムファイターズ "wikilink")が北海道に移転する前だが、移転後の本拠地となる札幌ドームをいち早く使用出来るのが特徴だった（日ハムを始めとする複数の球団が主催試合を組んでいたことも影響している）。
+  - 発売当時の版権は[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")の開発[子会社](../Page/子会社.md "wikilink")であるコナミコンピュータエンタテインメント大阪（同年[5月1日](../Page/5月1日.md "wikilink")より[コナミコンピュータエンタテインメントスタジオ](../Page/コナミコンピュータエンタテインメントスタジオ.md "wikilink")）が所有していたが、[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に同社を吸収したコナミに移行したのち、[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")にコナミの完全[持株会社](../Page/持株会社.md "wikilink")化に伴い新設された、子会社の[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")へ移行した。
+  - [西武ライオンズの](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")[三井浩二](../Page/三井浩二.md "wikilink")にはミツイボールという特有の変化球が投げられる。ただ､曲がりは普通のスクリューと変わらない（なお、現実での三井は同郷出身の[松山千春](../Page/松山千春.md "wikilink")に因み「チハルボール」と名づけている）。
+  - [『実況パワフルプロ野球9』、『実況パワフルプロ野球9決定版』のサクセスモードで作成した選手のパスワードを入力すれば本作で使用できる](../Page/実況パワフルプロ野球9.md "wikilink")（ハードが同じソフトのパスワードのみ使用可能）。この際、リアルな体にパワプロ君の顔をつけることができる。
+
+## 外部リンク
+
+  - [任天堂によるGC版紹介ページ](http://www.nintendo.co.jp/ngc/software/gbpj/index.html)
+
+[Category:プロ野球スピリッツ](https://ja.wikipedia.org/wiki/Category:プロ野球スピリッツ "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:日本テレビの歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの歴史 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")

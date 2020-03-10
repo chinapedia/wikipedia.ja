@@ -1,0 +1,20 @@
+> この記事は[Weitek](https://ja.wikipedia.org/wiki/Weitek)から翻訳されています。
+
+
+[KL_Weitek_4167.jpg](https://ja.wikipedia.org/wiki/File:KL_Weitek_4167.jpg "fig:KL_Weitek_4167.jpg") [Weitek_WTL1167_arch.svg](https://ja.wikipedia.org/wiki/File:Weitek_WTL1167_arch.svg "fig:Weitek_WTL1167_arch.svg") [KL_Weitek_SPARC_Power_uP.jpg](https://ja.wikipedia.org/wiki/File:KL_Weitek_SPARC_Power_uP.jpg "fig:KL_Weitek_SPARC_Power_uP.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:Weitek_Power9100_PCI.jpg "wikilink") **Weitek**（ウェイテック、*Weitek Corporation*）は、かつて存在した[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[半導体製造企業](../Page/半導体素子.md "wikilink")。特に他社の[CPU](../Page/CPU.md "wikilink")向けの[FPU](../Page/FPU.md "wikilink")を設計開発することを得意とした。
+
+1980年代中盤、Weitekの設計したものは各種の[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")マシンや[並列処理](https://ja.wikipedia.org/wiki/並列コンピューティング "wikilink")[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")などで使われている。 1990年代初め、各CPUはFPUを含めて設計されるようになってきたため、Weitekは汎用CPUと[グラフィックドライバの市場に打って出ようとした](../Page/Graphics_Processing_Unit.md "wikilink")。 1995年、Weitekはほとんど倒産寸前となった。1996年後半には、残った資産は[ロックウェルの](../Page/ロックウェル・インターナショナル.md "wikilink")[半導体部門に買収され](../Page/コネクサント.md "wikilink")、Weitekは消えていった。
+
+## 歴史
+
+1981年、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")の技術者たちが退職してWeitekを設立した。 Weitekはいくつかのシステム向けに科学技術計算用[コプロセッサ](../Page/コプロセッサ.md "wikilink")を開発していった。 [モトローラ](../Page/モトローラ.md "wikilink")[68000ファミリ向けの](../Page/MC68000.md "wikilink") **1064**、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")[80286向けの](../Page/Intel_80286.md "wikilink")**1067**などである。 インテル自身の[i386用のFPU設計は遅れに遅れ](../Page/Intel_80386.md "wikilink")、Weitekは**1167**をi386用に提供した。 後にこのシリーズは2167、3167、4167と進化していく。 Weitekは似たようなFPUを[MIPSアーキテクチャ](../Page/MIPSアーキテクチャ.md "wikilink")向けにも **XL**ラインとして開発した。 WeitekのFPUは少し変わっていて、単精度演算しかサポートしていなかったが非常に高速だった。
+
+スーパーコンピュータのアプリケーションの要求が高まるにつれて、Weitekは彼らの半導体工場が時代に乗り遅れていることを感じていた（後に改善された）。[HPはWeitekにHPの工場を使うことを提案した](../Page/ヒューレット・パッカード.md "wikilink")。これは両社にとって良い考えで、すぐにHPの工場は開かれた。WeitekはHPとも[PA-RISC](../Page/PA-RISC.md "wikilink")の設計で共同開発を行い、Weitek版PA-RISCである**RISC 8200**を[組み込みシステム](../Page/組み込みシステム.md "wikilink")向けに販売した。これは[レーザープリンター](../Page/レーザープリンター.md "wikilink")でいくつか使われている。
+
+1980年代終盤、Weitekは[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")の[ワークステーション](../Page/ワークステーション.md "wikilink")向けに[フレームバッファ](https://ja.wikipedia.org/wiki/フレームバッファ "wikilink")を開発する機会に恵まれた。 1990年代初め、**SPARC POWER μP** （"パワーアップ"と読ませた。正式名は WTL8601）を開発した。これは[SPARC](../Page/SPARC.md "wikilink")プロセッサとピン互換があり、SPARCstation2 のCPUと差し替えると 40MHzで約 50%高速に動作した。8701は内部的には二倍高速だったが、[バスの性能が](../Page/バス_\(コンピュータ\).md "wikilink")[ボトルネック](../Page/ボトルネック.md "wikilink")となって全体としては50～60%高速化するに止まった。しかし彼らは後のSPARCプロセッサでこの方向性を追求しなかった。
+
+Weitekはフレームバッファを開発した経験を生かして、90年代初めにPC市場に打って出て、"POWER"システムとして知られる[SVGA](https://ja.wikipedia.org/wiki/SVGA "wikilink")マルチメディアチップセットシリーズを投入する。 これはふたつのチップから成り、グラフィップス描画用の**P9000**と出力用の **VideoPower 5x86** で構成されている。POWERシリーズはいくつかの[サードパーティー](../Page/サードパーティー.md "wikilink")から出た[VESA ローカルバス用の](../Page/VESA_ローカルバス.md "wikilink")[グラフィックスカードで使われた](../Page/ビデオカード.md "wikilink")。次いで**P9001**は[PCI向けに設計され](../Page/Peripheral_Component_Interconnect.md "wikilink")、1994年に人気となった**Viper**で使われている。最後の**P9100**はP9001と5286をワンチップにしたものであった。Weitekのアダプターは[i486市場の初期には成功を収めたが](https://ja.wikipedia.org/wiki/Intel_486 "wikilink")、もっと低価格なシステムが他社から出てきたために90年代中盤には凋落した。
+
+Weitekは[ローエンド](https://ja.wikipedia.org/wiki/ローエンド "wikilink")市場に再挑戦するため**W464**（486用）と**W564**（P5用）を投入した。これらは主記憶の[RAMをフレームバッファとして使ってシステム価格を抑えるものだったが](../Page/Random_Access_Memory.md "wikilink")、これに目を付けた(と思われる)ロックウェルが製品出荷直後にWeitekを買収し、Weitekは消えていったのである。
+
+[Category:かつて存在したアメリカ合衆国の半導体企業](https://ja.wikipedia.org/wiki/Category:かつて存在したアメリカ合衆国の半導体企業 "wikilink") [Category:マイクロプロセッサ](https://ja.wikipedia.org/wiki/Category:マイクロプロセッサ "wikilink")

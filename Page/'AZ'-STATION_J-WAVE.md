@@ -1,0 +1,81 @@
+> この記事は[\'AZ\'-STATION J-WAVE](https://ja.wikipedia.org/wiki/\'AZ\'-STATION_J-WAVE)から翻訳されています。
+
+
+**'AZ'-STATION J-WAVE**（アズ・ステーション・ジェイウェーブ）はエフエムジャパン（現在の[J-WAVE](../Page/J-WAVE.md "wikilink")）の試験放送開始時に付けられた放送局名で、現在の放送局名であるJ-WAVEの前にサブタイトルがついた形である。
+
+## 概要
+
+[1988年](../Page/1988年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")から当時エフエムジャパンの本社があった西麻布に送信所を設けて試験放送を開始し、同年9月の上旬からサービス放送を行い、10月1日に[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")から本放送開始となる。
+
+なお「'AZ'」とは、当時のJ-WAVEがあった[麻布](../Page/麻布.md "wikilink")の略称であり、「A to Z」にもかけている。 なお、この「'AZ'」を冠したタイトルは[六本木ヒルズ](../Page/六本木ヒルズ.md "wikilink")に移転後も2008年6月まで土曜夕方に放送されていた「[AZ-BEAT](../Page/AZ-BEAT.md "wikilink")」に残っていた。
+
+## 編成方針
+
+1.  **MUSIC CURRENT** - リスナーの身体を気流（AIR CURRENT）のように包み込む“ミュージックステーション”を目指す。
+2.  **FLOW PROGLAMING** - こま切れのような番組編成をせず、大らかな曲線を描くような“流れ”を重視する。
+3.  **24時間編成** - 24時間眠らない[国際都市](https://ja.wikipedia.org/wiki/国際都市 "wikilink") TOKIO のリスナーのために生番組を多くする。
+4.  **NOFRILLS MORE MUSIC** - 余計なおしゃべりをせず、必要最小限の洗練されたトークで音楽をきわだたせる。
+5.  **SELECTED MUSIC** - 選曲をJ-WAVEの“生命”と位置づけ、いっそうクォリティの高い音楽を提供する。
+
+## 当時の番組から
+
+### 平日
+
+  - 5:00 スィート・モーニング・コール
+  - 7:00 [トキオ・トゥデイ](https://ja.wikipedia.org/wiki/TOKIO_TODAY "wikilink")
+      - 7:45〜8:15トキオ・スペック
+  - 9:00 サウンド・パティオ
+      - 9:15〜9:45ノンストップ・パワープレイ
+      - 10:00〜10:30ノンストップ・パワープレイ
+      - 10:40〜11:10スタディ・ステディ・スタジオ
+      - 11:20〜11:50ノンストップ・パワープレイ
+  - 12:00 [ミュージック・ファクトリー・’アズ’](https://ja.wikipedia.org/wiki/MUSIC_FACTORY_'AZ' "wikilink")
+      - 12:15〜12:45ノンストップ・パワープレイ
+      - 13:00〜13:30アーティスト・セレクション
+      - 13:45〜14:15ノンストップ・パワープレイ
+      - 14:30〜15:00ノンストップ・パワープレイ
+      - 15:15〜15:45ミッド・アフタヌーン・カフェ
+  - 16:00 J-WAVEキャットフィッシュ
+      - 16:15〜16:45ノンストップ・パワープレイ
+      - 17:00〜17:30アートフォレスト
+  - 18:00 [J-WAVEミュージック・デリバリー](https://ja.wikipedia.org/wiki/J-WAVE_MUSIC_DELIVARY "wikilink")
+  - 19:50 AZ WAVE
+  - 20:00
+  - 20:50 AZ WAVE
+  - 21:05 イン・フライト・ミュージック
+  - 21:35 AZ WAVE
+  - 21:55 [パズ・アンド・ジョップス](https://ja.wikipedia.org/wiki/PAZZ&JOPS "wikilink")
+  - 22:55 AZ WAVE
+  - 23:15 ワールド・ヘッドライン
+  - 23:45 AZ WAVE
+  - 0:00 クラッシー・ウェーブ・フロム・トキオ
+  - 0:50 AZ WAVE
+  - 1:00 トキオ・ホット・ウェーブ
+  - 3:00 [スティル・ライフ](https://ja.wikipedia.org/wiki/Still_Life_\(ラジオ番組\) "wikilink")
+
+### 土曜日
+
+  - 主な番組のみ掲載します
+
+<!-- end list -->
+
+  - 5:30 クラッシー・エア・カーレント
+  - 7:00 ラブリー・ブリーズ
+  - 8:30 スーパーQステーション
+  - 19:30 ロッキン・アメリカ
+  - 23:00 アズ・パーティ
+
+### 日曜日
+
+**主な番組のみ掲載します**
+
+  - 5:30 ハイパー・モーニング
+  - 7:00 ディズニー・ファンタジー
+  - 13:00 [トキオ・ホット100](https://ja.wikipedia.org/wiki/TOKIO_HOT_100 "wikilink")
+  - 1:00 J-WAVEトライアル
+
+## 関連項目
+
+  - [J-WAVE](../Page/J-WAVE.md "wikilink")
+
+[Category:J-WAVE](https://ja.wikipedia.org/wiki/Category:J-WAVE "wikilink")

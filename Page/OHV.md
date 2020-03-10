@@ -1,0 +1,105 @@
+> この記事は[OHV](https://ja.wikipedia.org/wiki/OHV)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Pushrod2.PNG "wikilink") **OHV**とは、 **O**ver **H**ead **V**alve（オーバー・ヘッド・バルブ）の略語で、[4ストローク機関](../Page/4ストローク機関.md "wikilink")の吸排気弁機構の形式の一つ。[バルブ機構を](https://ja.wikipedia.org/wiki/ポペットバルブ "wikilink")[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")上に備えた形式を言う。[日本語](../Page/日本語.md "wikilink")では**頭上弁式**と表記される。[カムシャフト](../Page/カムシャフト.md "wikilink")をシリンダヘッドに備えた[SOHC](../Page/SOHC.md "wikilink")や[DOHC](../Page/DOHC.md "wikilink")も吸排気弁をシリンダーヘッドの上部に持つため、広義には**頭上弁式**に含まれるが、一般的に**OHV**とはシリンダーヘッドにカムシャフトを持たないものを指し、SOHCとDOHCを除いたものを呼ぶ。
+
+## 構造
+
+カムシャフトが[シリンダーブロック](https://ja.wikipedia.org/wiki/シリンダーブロック "wikilink")側に位置し、[プッシュロッド](https://ja.wikipedia.org/wiki/プッシュロッド "wikilink")とよばれる長い棒を介して[ロッカーアーム](../Page/ロッカーアーム.md "wikilink")を押し上げ[バルブ](../Page/バルブ.md "wikilink")を開閉させる。したがって「**プッシュロッドエンジン**」と呼ばれることもある。最初のOHVエンジンは[スコットランド系](../Page/スコットランド人.md "wikilink")[アメリカ人](https://ja.wikipedia.org/wiki/アメリカ人 "wikilink")であるにより[開発](../Page/開発.md "wikilink")された。それ以前には[サイドバルブ](https://ja.wikipedia.org/wiki/サイドバルブ "wikilink")（以下SV）や[スライドバルブ](https://ja.wikipedia.org/wiki/スライドバルブ "wikilink")が用いられていた。
+
+SVに対してOHVが有利なのは、バルブ開口部をシリンダーボア径内に配置することで、[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")を小さくできる点である。 これによりOHVはSVに比べて燃焼室の[表面積](../Page/表面積.md "wikilink")が小さくなったことで、ヘッドから逃げる熱が少なくなり、さらに[ノッキング](../Page/ノッキング.md "wikilink")を起こしにくい燃焼室形状にしやすく[圧縮比](https://ja.wikipedia.org/wiki/圧縮比 "wikilink")も高くとれるため、一段と[熱効率](../Page/熱効率.md "wikilink")と[出力](https://ja.wikipedia.org/wiki/出力 "wikilink")を向上させることが可能となった。その一方で、古い分類に入るサイドバルブ式（[SV](https://ja.wikipedia.org/wiki/サイドバルブ "wikilink")）やスライドバルブ式に比べると燃費の面で優れるものの、高回転でも吸排気バルブの開閉タイミングを正しくとれる[シングルオーバーヘッドカムシャフト式](../Page/SOHC.md "wikilink")（以下、SOHCまたは単にOHC）や、さらに吸排気バルブを最適な位置にでき、開閉を独立して変化させることが可能な[ダブルオーバーヘッドカムシャフト式](../Page/DOHC.md "wikilink")（以下、DOHCまたは[いわゆるツインカム](../Page/DOHC.md "wikilink")）に比べると燃費の面で劣るという弱点がある\[1\]。
+
+SV方式からの移行期には吸気弁がOHV、排気弁がSVという[IOE(intake/inlet over exhaust)エンジンも存在した](https://ja.wikipedia.org/wiki/:en:IOE_engine "wikilink")。IOEエンジンはウィリス時代の[ジープ](../Page/ジープ.md "wikilink")や[ハーレーダビッドソン](../Page/ハーレーダビッドソン.md "wikilink")などにも見られ、[米国などでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")「Fヘッド」、日本では「F頭式」\[2\]と通称される。[自動車](../Page/自動車.md "wikilink")や[オートバイ](../Page/オートバイ.md "wikilink")ではOHVの登場によって廃れたが、[汎用石油発動機ではその後も多く見られた](../Page/石油発動機.md "wikilink")。また逆に吸気弁がSV、排気弁がOHVというEOI(Exhaust over intake)エンジンも存在した。
+
+SVのOHV化は吸排気ポートと動弁機構を持つヘッドに交換し、サイドバルブが通っていた部分にプッシュロッドを通すことでシリンダーヘッドのバルブを駆動させる事で可能となるため、初期のOHVエンジンにはSVエンジンをベースにしたものもみられた。この様に構造上は比較的容易にOHV化することも出来ることから、SVをOHV化する[キット](https://ja.wikipedia.org/wiki/キット "wikilink")なども存在する。
+
+長いプッシュロッドではその[慣性質量と](../Page/質量.md "wikilink")、[熱膨張](https://ja.wikipedia.org/wiki/熱膨張 "wikilink")による[寸法](https://ja.wikipedia.org/wiki/寸法 "wikilink")変化、および、駆動時の[弾性](../Page/弾性.md "wikilink")[変形](https://ja.wikipedia.org/wiki/変形 "wikilink")が問題となるため、カムシャフトを高い位置に配置してプッシュロッドを短くした、ハイカムシャフト方式と呼ばれるものもある\[3\]\[4\]。この場合、カムシャフトは[ローラーチェーン](../Page/ローラーチェーン.md "wikilink")などを介して駆動され、動弁系の往復慣性重量はSOHCと比べさほど大きくならず、また、ヘッド直上にカムシャフトがないためDOHC同様のセンター[プラグと理想的弁配置が取れる利点がある](../Page/点火プラグ.md "wikilink")。
+
+## OHV方式の採用例
+
+OHVは往復運動する[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")が多く、特にプッシュロッドの重量により高回転時の[ポペットバルブ](https://ja.wikipedia.org/wiki/ポペットバルブ "wikilink")の追従性を悪化させるバルブジャンプや、往復運動機構の[共振](../Page/共振.md "wikilink")による[バルブサージング](https://ja.wikipedia.org/wiki/バルブサージング "wikilink")が発生しやすく、[エンジン](../Page/エンジン.md "wikilink")の許容回転数を上げることが難しい。しかし、[飛行機](../Page/飛行機.md "wikilink")や[船舶](https://ja.wikipedia.org/wiki/船舶 "wikilink")で使われる[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")では[プロペラ](https://ja.wikipedia.org/wiki/プロペラ "wikilink")を定められた回転数よりも高速に回転させる必要がない上、耐久性と[信頼性](https://ja.wikipedia.org/wiki/信頼性 "wikilink")に優れるため、 OHV は多用されている。これは常用回転域が低い[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")にも当てはまる。ただし自動車用ディーゼルエンジンの内、小型のものはガソリンエンジンとの[設計](../Page/設計.md "wikilink")の共通化が進み、部品点数の削減や軽量化の面、さらに燃費の面でもOHCが有利とされ、OHVは淘汰された。[トラック](../Page/貨物自動車.md "wikilink")・[バス用の中](../Page/バス_\(交通機関\).md "wikilink")[排気量](../Page/排気量.md "wikilink")、および大排気量のエンジンに残ったOHVの中には、厳しさを増す[自動車排出ガス規制](../Page/自動車排出ガス規制.md "wikilink")に対応するため、OHV機構のまま[4バルブ化されたものもある](../Page/マルチバルブ.md "wikilink")\[5\]。
+
+### 四輪車
+
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では、[1960年代](../Page/1960年代.md "wikilink")から[1980年代](../Page/1980年代.md "wikilink")に製造された[乗用車](../Page/乗用車.md "wikilink")によく採用された。同一車種に複数のグレードを設定する場合、上位グレードにはSOHCエンジン、もしくはDOHCエンジンを、下位グレードにOHVエンジンを採用し、[差別化](https://ja.wikipedia.org/wiki/差別化 "wikilink")を計ることも少なくなかった\[6\]。代表的な車種は[トヨタ・コロナ](../Page/トヨタ・コロナ.md "wikilink")、[トヨタ・カリーナ](../Page/トヨタ・カリーナ.md "wikilink")、[トヨタ・カローラ](../Page/トヨタ・カローラ.md "wikilink")/[スプリンター](../Page/トヨタ・スプリンター.md "wikilink")、[トヨタ・セリカ](../Page/トヨタ・セリカ.md "wikilink")、[マツダ・ファミリア](../Page/マツダ・ファミリア.md "wikilink")、[マツダ・キャロル](../Page/マツダ・キャロル.md "wikilink")、[いすゞ・ベレット](../Page/いすゞ・ベレット.md "wikilink")、[いすゞ・フローリアン](../Page/いすゞ・フローリアン.md "wikilink")、[日産・サニー](../Page/日産・サニー.md "wikilink")、[日産・バイオレット](https://ja.wikipedia.org/wiki/日産・バイオレット "wikilink")/[オースター](../Page/日産・オースター.md "wikilink")\[7\]、[三菱・ランサー](../Page/三菱・ランサー.md "wikilink")\[8\]、[三菱・ギャランクーペFTO](../Page/三菱・ギャランクーペFTO.md "wikilink")\[9\]、[ダイハツ・シャルマン](../Page/ダイハツ・シャルマン.md "wikilink")など。なお[ホンダや](../Page/本田技研工業.md "wikilink")[スズキは](../Page/スズキ_\(企業\).md "wikilink")、四輪車にOHVエンジンを一切採用しなかった\[10\]。
+
+これらの車種で、モデルチェンジを行って存続したものは1980年代に入ってOHVの採用をやめた。[1990年代](../Page/1990年代.md "wikilink")以降の日本製の日本国内向け[小型自動車](../Page/小型自動車.md "wikilink")用[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")に限定すると、[トヨタの](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[LPG](https://ja.wikipedia.org/wiki/LPG "wikilink")車を含む一部の[商用車](../Page/商用車.md "wikilink")を除きOHVエンジンはほとんど採用されなくなり、現在はポペットバルブを持たない[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")を除いては、すべてSOHCエンジン、もしくはDOHCエンジンに置き換えられた。
+
+唯一の例外が[水平対向エンジン](../Page/水平対向エンジン.md "wikilink")で、エンジン両脇にシリンダーヘッドを持つ構造から、長らくOHC化はかえって非効率・[寸法](https://ja.wikipedia.org/wiki/寸法 "wikilink")・重量増過大・[整備性](../Page/メンテナンス.md "wikilink")（イニシャルコスト）悪化とされていた。[スバル・レオーネ](../Page/スバル・レオーネ.md "wikilink")は当時の[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")（現・[SUBARU](../Page/SUBARU.md "wikilink")）の[フラグシップ車という位置づけでありながら](https://ja.wikipedia.org/wiki/フラグシップ機 "wikilink")、長らくOHVであり、[1984年](../Page/1984年.md "wikilink")（昭和59年）になってようやくOHC（SOHC）化した。ただし、それも1,800 [ccエンジンのみで](../Page/立方センチメートル.md "wikilink")、1,600 ccエンジンは据え置かれた。その後[1989年](../Page/1989年.md "wikilink")まで同一車種に混在する\[11\]\[12\]という、バルブ駆動形式だけ見るならば他社に一段以上遅れた状況を展開していた。
+
+プッシュロッドやロッカーアームの「音」が心地よいことと、[オーバーホール](https://ja.wikipedia.org/wiki/オーバーホール "wikilink")や[リビルド](https://ja.wikipedia.org/wiki/リビルド "wikilink")がしやすく、特に[二輪車や汎用](../Page/オートバイ.md "wikilink")[ディーゼルを含む汎用OHVエンジン全般では](../Page/ディーゼルエンジン.md "wikilink")、[タイミングチェーン](../Page/タイミングチェーン.md "wikilink")がなく\[13\]、整備しやすいのが長所であることから、[日産・サニートラック](../Page/日産・サニートラック.md "wikilink")などが現在でも人気が高い。なお、日本の乗用車で最後までOHVを採用した車種は一般向け市販車では[ダイハツ・ラガー](../Page/ダイハツ・ラガー.md "wikilink")、それ以外では2008年7月以前のモデルまで存在していた[3Y-PE型LPGエンジンを搭載した](https://ja.wikipedia.org/wiki/トヨタ・Y型エンジン#3Y-PE "wikilink")[トヨタ・クラウンセダン](https://ja.wikipedia.org/wiki/トヨタ・クラウンセダン "wikilink")/[クラウンコンフォート](../Page/トヨタ・クラウンコンフォート.md "wikilink")/[コンフォートである](../Page/トヨタ・コンフォート.md "wikilink")。
+
+モータースポーツでは、[カーボンコンポジット](https://ja.wikipedia.org/wiki/カーボンコンポジット "wikilink")のプッシュロッドも登場している\[14\]。また、アメリカンモータースポーツの代表格といえる[NASCAR](../Page/NASCAR.md "wikilink")においては、原則として参加する車のエンジンがOHVに限定されているため、[トヨタ・タンドラ](../Page/トヨタ・タンドラ.md "wikilink")のように市販車ではDOHCエンジンを搭載している車がわざわざOHVにエンジンを換装して参加している例もある\[15\]。 [インディ500](https://ja.wikipedia.org/wiki/インディ500 "wikilink")においては、[1994年](../Page/1994年.md "wikilink")に[ペンスキー](https://ja.wikipedia.org/wiki/ペンスキー "wikilink")が3,400ccOHVターボの[メルセデスエンジンで優勝を飾っている](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")。当時[フォード・コスワース・DFSエンジンなどにおされ](https://ja.wikipedia.org/wiki/フォード・コスワース・DFVエンジン "wikilink")、旧式化していた[ビュイック](../Page/ビュイック.md "wikilink")エンジンの救済のために存在したOHV優遇規定\[16\]\[17\]に則る形で[イルモア](../Page/イルモア.md "wikilink")の手により作られたこのエンジンは、最高回転数10,000rpm以上で1,000[馬力](../Page/馬力.md "wikilink")を超える出力を発揮するOHVエンジン\[18\]となった。OHVエンジンは低出力というイメージがあるが、競技用エンジンとしては[NASCAR](../Page/NASCAR.md "wikilink")で用いられている自然吸気のエンジンが800馬力、[NHRA](https://ja.wikipedia.org/wiki/NHRA "wikilink")のトップフューエルクラスで用いられている過給エンジンが8,500〜10,000馬力と非常に高い出力を発生させている。
+
+またアメリカではコストダウンの波に押されて徐々に減りつつあるが、ピックアップトラック優遇税制とエンジンカスタムの容易さ特にシリンダブロックの頑丈さゆえの[ターボチャージャー](../Page/ターボチャージャー.md "wikilink")や[ナイトラス・オキサイド・システム](https://ja.wikipedia.org/wiki/ナイトラス・オキサイド・システム "wikilink")のようなパワーアップが容易であり、そうして作る[ホットロッド](../Page/ホットロッド.md "wikilink")はある意味アメリカのクルマ文化となっていることから、依然としてOHVエンジン搭載車が多く存在する。その一例として[シボレー・コルベット](https://ja.wikipedia.org/wiki/シボレー・コルベット "wikilink")には、1980年代末期にZR-1と呼ばれるDOHC搭載モデルが存在したが、現行モデルではDOHCを廃しすべてOHVエンジンとなっている。これは、SOHC・DOHCエンジンはシリンダーヘッド内にカムシャフトが通る関係でシリンダーヘッドが大型になりがちであり、エンジンの外寸・重量ともに同排気量のOHVエンジンより大きくなりやすい。また[直列エンジン](https://ja.wikipedia.org/wiki/直列エンジン "wikilink")や[V型エンジン](../Page/V型エンジン.md "wikilink")の場合、エンジン上部に重量物が載るため重心も高くなりやすい。しかしOHVのシリンダーヘッド部はバルブとロッカーアームだけの構成のため、結果として同排気量ならエンジンそのものを小型軽量かつ低重心にできる。またV型エンジンや水平対向エンジンでは、カムシャフトがDOHCでは4本、SOHCでも2本必要となるが、OHVであれば1本で済むためエンジン内部の摩擦抵抗を下げやすく、重量も減らせる。
+
+コルベットはエンジンフードが低いシルエットも売りの一つであり、全高を低くできるOHVエンジンはそのシルエットの構成に一役買っている。またコルベットには、DOHCのように回転数で馬力を稼ぐエンジンより、低回転だが大トルクによって馬力を稼ぐエンジンが似合う、それがコルベットのアイデンティティとする思想もあるとされる。また[クライスラー](../Page/クライスラー.md "wikilink")は半球形の燃焼室に由来する[ヘミエンジン](https://ja.wikipedia.org/wiki/ヘミエンジン "wikilink")を21世紀に復活させた。これには、数ある自動車メーカーのなかで、自社のアイデンティティを前面に打ち出し、他社との差別化を図る狙いがある。
+
+現代のDOHCエンジンにおいては、位相変化タイプの[可変バルブタイミング機構](https://ja.wikipedia.org/wiki/可変バルブタイミング機構 "wikilink")は一般的となっているが、OHVでは1本のカムシャフトで吸排気バルブを駆動する関係上、吸気の位相を変化させた場合排気の位相も共に変化するため、[オーバーラップ量変化による効果は得られない](https://ja.wikipedia.org/wiki/バルブオーバーラップ "wikilink")。このためOHVでの採用は遅れたが、オーバーラップ量が変化せずとも、負荷や回転数にあわせバルブタイミングを最適化することで一定の効果\[19\]が得られるため、[GMスモールブロックやHEMIなどの大排気量OHVエンジンにも可変バルブタイミング機構が採用されるようになっている](https://ja.wikipedia.org/wiki/:en:General_Motors_small-block_engine "wikilink")。また[マッスルカー](https://ja.wikipedia.org/wiki/マッスルカー "wikilink")など古いOHV車に後付けするホットロッド向けのアフターパーツも存在する。欧州でも[ベントレー](../Page/ベントレー.md "wikilink")のOHVエンジン\[20\]に可変バルブタイミング機構を採用している例がある。さらに近年では[ダッジ・バイパー](../Page/ダッジ・バイパー.md "wikilink")(2009年モデル以降)が二重構造の中空カムシャフトを用いることで、排気のみ位相変化をさせる機構を採用している\[21\]。バイパーでは排気のみの位相変化としているが、機構上は吸気のみ位相変化、さらには吸排気それぞれの位相変化も可能であり、可変バルブタイミング機構に関してのDOHCとの差はある程度減じているといえる。
+
+アメリカやイギリス、オーストラリアなどではOHVエンジンのプライベートチューンも盛んで、日本では1990年代の省燃費型エンジンからようやく採用が始まったローラーロッカーアームが、比較的早い時期からチューニングパーツとして販売されていた。OHVエンジンのカムとリフター（タペット）の間には高荷重がかかり、滑り摩擦となるフラットタペットなどでは極圧条件となるためエンジンオイルにはある程度の耐摩耗性が求められる。近年の新しい規格のエンジンオイルでは耐摩耗性が不足するケースもあるとされ、特にバルブスプリングレートを強化している場合はさらに高い荷重がかかるため注意が必要となる。海外ではフラットタペットOHVエンジン向けに耐摩耗性を強化したエンジンオイルが設定されていることもある。またローラーロッカーアームなどと同様に摩擦と摩耗を低減するためにローラーリフター仕様とするチューニングも一般的に行われている。
+
+なお節の冒頭に記したとおり大型トラックやバスの場合は、頑丈な構造のディーゼルエンジンが搭載されることがほとんどであり、またディーゼルエンジン自体が高速回転に向かないことから、相対的に堅牢かつ軽量な設計が可能なOHVエンジンが選択されることが一般的である\[22\]。SOHC・DOHCが選択される\[23\]のは高回転領域まで要求される乗用車用途など限られた車種にとどまる。
+
+### 二輪車
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Engine_134_Norton_ES2.jpg "wikilink") オートバイにおいては[ハーレーダビッドソン](../Page/ハーレーダビッドソン.md "wikilink")が[1936年](../Page/1936年.md "wikilink")のナックルヘッドエンジン以来、伝統的にOHV形式の空冷[V型2気筒](../Page/V型2気筒.md "wikilink")エンジンを搭載し続けていることが広く知られている。ハーレーのエンジンは典型的な低回転高トルク型の設計で、当時の競合他社の車両もおおむねハーレーと同様の状況であった。
+
+[ホンダは](../Page/本田技研工業.md "wikilink")[スーパーカブ](https://ja.wikipedia.org/wiki/スーパーカブ "wikilink")が[1958年](../Page/1958年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")33年）の発売開始時ではOHVであったが、[1964年](../Page/1964年.md "wikilink")（昭和39年）から排気量ごとで順次SOHC化が実施され主力となる50ccモデルは1966年に変更された。また、[1977年](../Page/1977年.md "wikilink")にOHVながら4バルブを採用した[V型2気筒](../Page/V型2気筒.md "wikilink")エンジンを搭載した[ホンダ・GL](https://ja.wikipedia.org/wiki/ホンダ・GL "wikilink")400/500を市販した。これは[キャブレター](../Page/キャブレター.md "wikilink")を内側に追い込んでライダーの膝元に余裕を持たせ、かつ吸排気を直線化するために、シリンダー方向をねじる目的であえてOHVを採用し（ツイステッドOHVと称している）、このエンジンは最高出力を9,000rpmで発生し、約10,000rpmまで回った。
+
+高回転指向でない[クルーザー型](../Page/クルーザー_\(オートバイ\).md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")では、近年では[ハーレーダビッドソン](../Page/ハーレーダビッドソン.md "wikilink")社の他に[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")や[カワサキもV型](../Page/川崎重工業.md "wikilink")2気筒エンジンを限界まで大型化するにあたって、エンジン高を抑えるためにOHVを採用している。また、[ホンダからは整備事情が悪い東南アジア](../Page/本田技研工業.md "wikilink")・南米諸国向けにOHV125ccエンジンを搭載した[CG125やXR](../Page/ホンダ・CG125.md "wikilink")125Lが現在でも販売されている。なお[スズキも](../Page/スズキ_\(企業\).md "wikilink")2003年から2007年にかけて製造販売した[チョイノリに専用設計のOHV](../Page/スズキ・チョイノリ.md "wikilink")50ccエンジンを採用していた。 {{-}}
+
+### 航空機用エンジン
+
+[right航空機用レシプロエンジンに求められる性能は](https://ja.wikipedia.org/wiki/ファイル:Wright_R-1820_Engine.jpg "wikilink")、中低回転数域での高いトルクである。これはプロペラにおいては、先端が音速に達すると[衝撃波](../Page/衝撃波.md "wikilink")による効率低下が発生するため、エンジンの回転をプロペラに伝える際に[変速機を用いて回転数を一定以下に抑える必要があるからである](../Page/トランスミッション.md "wikilink")。当然ながらエンジン回転数が高いと変速機もより大掛かりなものとなり、効率が悪い。したがって、前述された高速回転域におけるOHV特有の問題は発生し得ない。また、空冷エンジンではシリンダが直列に配置されることはまれで、特に[星型エンジン](../Page/星型エンジン.md "wikilink")の場合は、OHCによるバルブ駆動は気筒の数と同数のカムシャフトとその駆動系とを配することになるため、設計として現実的でない。 {{-}}
+
+### 汎用エンジン
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Gokoku_kerosene_engine.jpg "wikilink") OHVは、同じ排気量のSOHCエンジンと比べて構造が単純なため整備しやすく（とはいえSVほどではないが）、軽量・コンパクトという利点があり、[4ストロークエンジンによる](../Page/4ストローク機関.md "wikilink")[自家発電機](../Page/発電機.md "wikilink")、[ポンプ](../Page/ポンプ.md "wikilink")、農耕用等の汎用エンジンといった自動車以外の用途では主役の座を維持している。しかし、一方で汎用エンジン大手の[本田技研工業](../Page/本田技研工業.md "wikilink")は[2003年](../Page/2003年.md "wikilink")に従来の同社のOHVエンジンより軽量コンパクトな SOHCエンジン、[GX35](https://ja.wikipedia.org/wiki/ホンダ・GX25 "wikilink")（排気量：35.8cc、主に1インチエンジンポンプ、[動力散布機](https://ja.wikipedia.org/wiki/動力散布機 "wikilink")、[刈払い機](https://ja.wikipedia.org/wiki/刈払い機 "wikilink")用）を発表し、続いて[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にもSOHCの[iGX440](https://ja.wikipedia.org/wiki/ホンダ・iGX440 "wikilink")（排気量：438cc）を発表するなど動弁機構をOHV からSOHCに置き換えている。 {{-}}
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  -
+  -
+## 関連項目
+
+  - [DOHC](../Page/DOHC.md "wikilink")
+  - [SOHC](../Page/SOHC.md "wikilink")
+  - [サイドバルブ](https://ja.wikipedia.org/wiki/サイドバルブ "wikilink")
+  - [スリーブバルブ](../Page/スリーブバルブ.md "wikilink")
+  - [ロータリーバルブ](https://ja.wikipedia.org/wiki/ロータリーバルブ "wikilink")
+  - [ヘミエンジン](https://ja.wikipedia.org/wiki/ヘミエンジン "wikilink")
+  - [ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")
+  - [石油発動機](../Page/石油発動機.md "wikilink")
+
+[Category:往復動機関](https://ja.wikipedia.org/wiki/Category:往復動機関 "wikilink") [Category:自動車エンジン技術](https://ja.wikipedia.org/wiki/Category:自動車エンジン技術 "wikilink")
+
+1.
+2.  三菱自動車の[ジープや](../Page/三菱・ジープ.md "wikilink")[ジュピターなど](https://ja.wikipedia.org/wiki/三菱・ジュピター "wikilink")、JH4型エンジン搭載車のカタログの記述。
+3.  「ハイカム」と略されるが、高出力化のためにバルブのストロークを大きくとった「ハイリフトカム（シャフト）」もハイカムと略されるため注意が必要。
+4.  自動車用日本メーカーのOHVエンジンでの例・トヨタ・K型およびDOHCヘッド仕様を除く[T型](../Page/トヨタ・T型エンジン.md "wikilink")、日産・A型、三菱・4G4型、[ミンセイ・UD各型など](https://ja.wikipedia.org/wiki/民生デイゼル工業 "wikilink")。ミンセイ・UDは[ユニフロー掃気ディーゼルエンジン](../Page/ユニフロー掃気ディーゼルエンジン.md "wikilink")のため、頭上弁はすべて排気弁である。
+5.  中排気量クラスでは[トヨタ・15B-F型と](../Page/トヨタ・B型エンジン_\(2代目\).md "wikilink")[日野・N04C型系](../Page/日野・N型エンジン.md "wikilink")、[三菱ふそう・4V20型などが](https://ja.wikipedia.org/wiki/三菱ふそう・4V2系エンジン "wikilink")、大排気量クラスでは[三菱ふそう・6D40型などがこれに該当する](../Page/三菱ふそう・6D2系エンジン.md "wikilink")。
+6.  ただし逆の場合もあった。
+7.  前者は2代目モデルのみ。後者は初代モデルのみ。
+8.  初代A73型の1,200 cc車。
+9.  当初は1,400 cc車のみOHVだったが、後期型では1,400 cc車も含めて全てSOHC化された。
+10. スズキの場合、4サイクルエンジンのみが該当する。
+11. その後、1,800 cc車は[レガシィへの移行により廃止](../Page/スバル・レガシィ.md "wikilink")。しかしその後もレオーネ（[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")に[OEM](../Page/OEM.md "wikilink")供給されていた[ジェミネットIIを含む](../Page/いすゞ・ジェミネットII.md "wikilink")）の1,600cc車は廉価車種として生産され続け、[1994年](../Page/1994年.md "wikilink")にようやく終売となった。
+12. なお、スバルでも軽自動車専用を含む排気量1,200 cc以下の[直列エンジン](https://ja.wikipedia.org/wiki/直列エンジン "wikilink")は市販車初投入以降、一貫してSOHC、もしくはDOHCである。
+13. ただし一部の自動車用は例外的にタイミングチェーンや[タイミングベルト](https://ja.wikipedia.org/wiki/タイミングベルト "wikilink")が用いられる場合がある。
+14. B110・310系サニーは、レース仕様としてA12エンジンをベースにプッシュロッドをカーボン素材とし、10,000 rpmという高回転を実現し、現在に至るまで伝説になっている。当時はまだ、市販用エンジンベースではSOHCであっても達成不可能だった。
+15.
+16. 当時、DFSエンジンなどレース専用の[DOHC](../Page/DOHC.md "wikilink")エンジンは排気量が2,650ccと規定されていたが、ビュイックエンジンなど市販車用エンジンのブロックを用いOHVかつ1気筒当り2バルブの場合に限り、3,430ccまで排気量を拡大することが許されていた。市販車ブロックのみの間はそれほど意味が無かったが、専用ブロックの使用が許可されたことでメルセデスとイルモアの計画が動き出すことになる。
+17. 「勝利のエンジン５０選」カール・ルドヴィクセン著 二玄社 2004年11月10日発行 211ページ
+18. 高回転高出力を実現するための機構の工夫も特徴で、[ロッカーアーム](../Page/ロッカーアーム.md "wikilink")にはスイングアーム式ローラーロッカーアームを採用。ロッカーアームや[バルブリフター](https://ja.wikipedia.org/wiki/バルブリフター "wikilink")の支点、接点には全て[ニードルローラーベアリングを用いるなど徹底したフリクションロス低減の策が採られた](https://ja.wikipedia.org/wiki/転がり軸受#針軸受 "wikilink")。DOHCのDFSエンジンがカムが4本必要だったのに対し、OHVのメルセデスエンジンはカムが1本で済む事も軽量化の上で大きな差となった。
+19. 例えば低中回転・低中負荷時に遅角する事で吸気が遅閉じとなりポンピングロス低減、排気遅開きになる事で膨張エネルギーの有効回収、排気遅閉じで内部[EGRの導入ができ](../Page/排気再循環.md "wikilink")、省燃費性や排ガス清浄性の向上に寄与する。これは一般走行における負荷の低い大排気量車ほど有効となる。
+20. [ベントレー・ミュルザンヌ (2010)](https://ja.wikipedia.org/wiki/ベントレー・ミュルザンヌ_\(2010\) "wikilink")
+21. 吸気側ではなく排気側を可変させるのは大排気量で大トルクのバイパーでは吸気側を制御せずとも低中回転でも十分な出力があるためメリットは少なく、排気側の制御による省燃費性、排ガス清浄の向上の方がメリットがあるため。
+22.
+23. [マツダ・SKYACTIV-D](https://ja.wikipedia.org/wiki/マツダ・SKYACTIV-D "wikilink")など。

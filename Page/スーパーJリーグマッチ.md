@@ -1,0 +1,46 @@
+> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+
+
+『**スーパーJリーグマッチ**』は[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")の[Jリーグ実況中継のタイトル](../Page/日本プロサッカーリーグ.md "wikilink")。
+
+テレビ埼玉はJリーグ発足以来、[浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")のホームゲームをほぼ全試合完全中継していた\[1\]。1999年に[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")がJ2リーグ参戦を果たしてからは、年数試合大宮戦も放送。サッカーどころ・埼玉にふさわしく、サッカーの中継本数が地上波で比較的多く放送されていることで知られている。
+
+## 中継体裁
+
+  - 原則としてナイトゲームは生中継。デーゲームについては、かつてはウィークデーが祝日と重なる場合生中継になることもあったが、土曜日・日曜日は[中央競馬ワイド中継](../Page/中央競馬ワイド中継.md "wikilink")→[JRA競馬中継との絡みもあり](https://ja.wikipedia.org/wiki/BSイレブン競馬中継 "wikilink")、録画中継が多かった。録画中継で[二重音声放送](../Page/二重音声放送.md "wikilink")の場合、主音声では普通の中継放送を、副音声でその試合の結果を踏まえた上での解説を行っていた。しかし、[独立局制作の競馬中継が](../Page/全国独立放送協議会.md "wikilink")[LIVE\&REPORT 中央競馬中継を最後に終了となってからは](https://ja.wikipedia.org/wiki/LIVE&REPORT_中央競馬中継 "wikilink")、一部を除き放送される試合すべてが生中継となった。
+  - 2005年度からレッズ戦に関しては**「レッズスーパーマッチ」**、アルディージャ戦は**「アルディージャエキサイトマッチ」**して放映する。また2013年度のアルディージャ主管試合の中継では同クラブのユニフォームサプライヤーである「[アンダーアーマー](../Page/アンダーアーマー.md "wikilink")」（日本販売代理店・[（株）ドーム](../Page/ドーム_\(企業\).md "wikilink")）が冠協賛しており「**アルディージャエキサイトマッチ・Powerd by Under Armour**」として放送される。
+  - 2005年12月より全試合[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")で放送している。独立局において、Jリーグ中継のハイビジョン放送はテレ玉が最も早い。
+  - [2011年](../Page/2011年.md "wikilink")には[マルチチャンネル](../Page/マルチチャンネル.md "wikilink")編成を利用し、県内（[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")内）で同時開催となった県勢の試合を、031chで浦和、032chで大宮に分けて生中継したことがあった。
+  - [2012年](../Page/2012年.md "wikilink")より大宮主管試合について、[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[Jリーグメディアプロモーション](https://ja.wikipedia.org/wiki/Jリーグメディアプロモーション "wikilink")からの委託を受けて、[スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink")「[Jリーグ中継](../Page/Jリーグ中継.md "wikilink")」の映像を製作することになった。ただし、映像と解説・実況はテレ玉とスカパー\!で別々のものになる。
+
+## 実況アナウンサー
+
+### レギュラー
+
+  - [上野晃](../Page/上野晃.md "wikilink")（レッズ戦中心）
+  - [山田泰三](../Page/山田泰三.md "wikilink")（アルディージャ戦中心）
+
+### ゲスト
+
+  - [倉敷保雄](../Page/倉敷保雄.md "wikilink")（[さいたまダービー](../Page/さいたまダービー.md "wikilink")　2005年10月より不定期。ダービー以外では上野不在時の代役も担当）
+  - [矢野吉彦](https://ja.wikipedia.org/wiki/矢野吉彦 "wikilink")（土曜日は[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の競馬中継出演のため、日曜か平日開催での登場　同じ埼玉県のラジオ[NACK5の実況も担当](../Page/エフエムナックファイブ.md "wikilink")）
+
+### 過去のレギュラー
+
+  - [渡邊哲夫](../Page/渡邊哲夫.md "wikilink")（アルディージャ戦中心）
+
+## リポーター
+
+  - 浦和戦は2011年までは[REDS TV GGRのアシスタントが担当](../Page/REDS_TV_GGR.md "wikilink")（2012年より[羽田沙織](https://ja.wikipedia.org/wiki/羽田沙織 "wikilink")）、大宮戦は[Ole\! アルディージャのアシスタント](../Page/Ole!_アルディージャ.md "wikilink")（2010年現在は[佐藤弥生](../Page/佐藤弥生.md "wikilink")）が主に担当する。
+
+## 外部リンク
+
+  - [Jリーグ中継スケジュール](http://www.teletama.jp/sports/j-league.html)
+
+## 脚注
+
+<references />
+
+[Category:テレビ埼玉の番組](https://ja.wikipedia.org/wiki/Category:テレビ埼玉の番組 "wikilink") [Category:テレビのサッカー番組_(日本)](https://ja.wikipedia.org/wiki/Category:テレビのサッカー番組_\(日本\) "wikilink") [Category:浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/Category:浦和レッドダイヤモンズ "wikilink") [Category:大宮アルディージャ](https://ja.wikipedia.org/wiki/Category:大宮アルディージャ "wikilink")
+
+1.  以前はアウェイのゲームでも放映権の確保できる試合を中心に中継してきたが、現在は[さいたまダービー](../Page/さいたまダービー.md "wikilink")以外は[スカパー\!との契約の関係上アウェイゲームは中継しない](../Page/スカパー!プレミアムサービス.md "wikilink")

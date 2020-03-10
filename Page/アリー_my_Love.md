@@ -1,0 +1,366 @@
+> この記事は[ my Love](https://ja.wikipedia.org/wiki/_my_Love)から翻訳されています。
+
+
+『**アリー my Love**』（アリー・マイ・ラブ、*Ally McBeal*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[FOXで](../Page/フォックス放送.md "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2002年](../Page/2002年.md "wikilink")まで、5シーズンにわたって放送された[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")ドラマシリーズ。
+
+アメリカ・[ボストン市にある法律事務所で働く女性](https://ja.wikipedia.org/wiki/ボストン_\(マサチューセッツ州\) "wikilink")[弁護士](../Page/弁護士.md "wikilink")・アリー・マクビール（演：[キャリスタ・フロックハート](../Page/キャリスタ・フロックハート.md "wikilink")）を取り巻く恋愛模様や、法廷での活躍を描いたドラマ。日本では[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")より[NHK総合テレビで放送された](../Page/NHK総合テレビジョン.md "wikilink")\[1\]。[エミー賞](https://ja.wikipedia.org/wiki/エミー賞 "wikilink")や[ゴールデングローブ賞](../Page/ゴールデングローブ賞.md "wikilink")を受賞している。
+
+## 登場人物
+
+### ケイジ&フィッシュ法律事務所
+
+  - アリー・マクビール（全シーズン）
+    演：[キャリスタ・フロックハート](../Page/キャリスタ・フロックハート.md "wikilink")、吹替：[若村麻由美](https://ja.wikipedia.org/wiki/若村麻由美 "wikilink")
+    セクハラが原因で弁護士事務所を解雇された女性弁護士。ボストンの街を歩いているところを知人リチャード・フィッシュに声をかけられ、**ケイジ&フィッシュ**に就職する。
+  - リチャード・フィッシュ（全シーズン）
+    演：[グレッグ・ジャーマン](../Page/グレッグ・ジャーマン.md "wikilink")、吹替：[小杉十郎太](../Page/小杉十郎太.md "wikilink")
+    ケイジ&フィッシュ法律事務所のシニアパートナー（共同経営者のひとり）。アリーとは大学の同級生。フィッシュ哲学なるものを持ち、女性の「たるみ」に[フェティシズム](../Page/フェティシズム.md "wikilink")を感じる。
+  - ジョン・ケイジ（全シーズン、シーズン5は一部ゲスト扱い）
+    演：[ピーター・マクニコル](https://ja.wikipedia.org/wiki/ピーター・マクニコル "wikilink")、吹替：[江原正士](../Page/江原正士.md "wikilink")
+    ケイジ&フィッシュ法律事務所のシニアパートナー。変わり者だがアリーの良き理解者でもある。
+  - ビリー・トーマス（シーズン1 - 3、シーズン4と5はゲスト扱い）
+    演：[ギル・ベローズ](../Page/ギル・ベローズ.md "wikilink")、吹替：[宮本充](../Page/宮本充.md "wikilink")
+    ケイジ&フィッシュの弁護士。アリーの幼なじみで元彼。同じ大学に入ったがアリーの方が成績優秀だったため転校し、ジョージアと知り合い結婚。アリーとの関係が深まることでジョージアはアリーに嫉妬を抱くようになる。
+    シーズン3で[脳腫瘍](https://ja.wikipedia.org/wiki/脳腫瘍 "wikilink")を発症し幻覚に翻弄され、法廷でアリーに告白した直後に死去。以降幻影として、最終回までアリーの前に何度も現れる。
+  - ジョージア・トーマス（シーズン1 - 3、シーズン4と5はゲスト扱い）
+    演：[コートニー・ソーン＝スミス](https://ja.wikipedia.org/wiki/コートニー・ソーン＝スミス "wikilink")、吹替：[唐沢潤](https://ja.wikipedia.org/wiki/唐沢潤 "wikilink")
+    ビリーの妻。ケイジ&フィッシュの弁護士。
+  - エレイン・バッセル（全シーズン）
+    演：[ジェーン・クラコウスキー](https://ja.wikipedia.org/wiki/ジェーン・クラコウスキー "wikilink")、吹替：[高乃麗](../Page/高乃麗.md "wikilink")
+    アリーの[パラリーガル](../Page/パラリーガル.md "wikilink")。発明好きで、他人の揉め事も好き。
+  - ネル・ポーター（シーズン2 - 5）
+    演：[ポーシャ・デ・ロッシ](https://ja.wikipedia.org/wiki/ポーシャ・デ・ロッシ "wikilink")、吹替：[赤間麻里子](https://ja.wikipedia.org/wiki/赤間麻里子 "wikilink")
+    美人で仕事が出来る女性。リンとはロースクールで知り合う。ケイジ&フィッシュの弁護士。
+  - リン・ウー（シーズン2 - 4、シーズン5はゲスト扱い）
+    演：[ルーシー・リュー](../Page/ルーシー・リュー.md "wikilink")、吹替：[阿部桐子](https://ja.wikipedia.org/wiki/阿部桐子 "wikilink")
+    訴訟マニアで喧嘩っ早く偽悪趣味な女性。最初はケイジ&フィッシュの顧客だったが、弁護士資格を持っており、事件と関わるうちに弁護士に復帰したくなり強引に事務所に入社。
+
+### アリーの関係者
+
+  - レネ・ラディック（シーズン1 - 4、シーズン5はゲスト扱い）
+    演：[リサ・ニコル・カールソン](https://ja.wikipedia.org/wiki/リサ・ニコル・カールソン "wikilink")、吹替：[山像かおり](https://ja.wikipedia.org/wiki/山像かおり "wikilink")
+    アリーの親友でルームメイト。女性検事。後に検事を辞め、元女性判事のウィッパー（リチャードの昔の彼女）と弁護士事務所を設立。
+
+### その他
+
+  - ラリー・ポール（シーズン4）
+    演：[ロバート・ダウニー・Jr](https://ja.wikipedia.org/wiki/ロバート・ダウニー・Jr "wikilink")、吹替：[郷田ほづみ](../Page/郷田ほづみ.md "wikilink")
+  - グレッグ・バターズ（シーズン1第17話 - シーズン2）
+    演：[ジェシー・L・マーティン](https://ja.wikipedia.org/wiki/ジェシー・L・マーティン "wikilink")、吹替：
+  - マーク・アルバート（シーズン3第17話 - シーズン4）
+    演：[ジェームズ・レグロス](https://ja.wikipedia.org/wiki/ジェームズ・レグロス "wikilink")、吹替：[村治学](https://ja.wikipedia.org/wiki/村治学 "wikilink")
+  - ジャクソン・デューパー（シーズン4第13 - 23話）
+    演：[テイ・ディグス](../Page/テイ・ディグス.md "wikilink")、吹替：[竹若拓磨](https://ja.wikipedia.org/wiki/竹若拓磨 "wikilink")
+  - ジェニー・ショー（シーズン5第1 - 13話）
+    演：[ジュリアンヌ・ニコルソン](https://ja.wikipedia.org/wiki/ジュリアンヌ・ニコルソン "wikilink")、吹替：[純名りさ](../Page/純名里沙.md "wikilink")
+  - グレン・フォイ（シーズン5第1 - 13話）
+    演：[ジェームズ・マースデン](../Page/ジェームズ・マースデン.md "wikilink")、吹替：[小森創介](../Page/小森創介.md "wikilink")
+  - レイモンド・ミルベリー（シーズン5）
+    演：[ジョシュ・ホプキンス](../Page/ジョシュ・ホプキンス.md "wikilink")、吹替：[田中実](../Page/田中実_\(俳優\).md "wikilink")
+  - コレッタ・リップ（シーズン5）
+    演：[レジーナ・ホール](../Page/レジーナ・ホール.md "wikilink")、吹替：[込山順子](https://ja.wikipedia.org/wiki/込山順子 "wikilink")
+  - マディ・ハリントン（シーズン5第11話 -）
+    演：[ヘイデン・パネッティーア](../Page/ヘイデン・パネッティーア.md "wikilink")、吹替：[川上とも子](../Page/川上とも子.md "wikilink")
+  - ライザ・バンプ（シーズン5第16話 -）
+    演：[クリスティーナ・リッチ](../Page/クリスティーナ・リッチ.md "wikilink")、吹替：[岡本麻弥](../Page/岡本麻弥.md "wikilink")
+    本名はデビー。
+  - ウィルソン・ジェイド（シーズン5第18話 -）
+    演：ボビー・カナヴェイル、吹替：[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")
+  - ケイジ&フィッシュのメンバーが集まるバーの歌手（全シーズン）
+    演：[ヴォンダ・シェパード](https://ja.wikipedia.org/wiki/ヴォンダ・シェパード "wikilink")、吹替：
+
+### ゲスト
+
+#### シーズン1（ゲスト）
+
+  - ジェニファー・コーン判事（シーズン1 - 3）
+    演：[ダイアン・キャノン](../Page/ダイアン・キャノン.md "wikilink")、吹替：[弥永和子](../Page/弥永和子.md "wikilink")
+    通称ウィッパー。後に判事を辞め、レネと弁護士事務所を設立。
+  - サイモン・ウォルシュ判事（全シーズン）
+    演：[アルバート・ホール](https://ja.wikipedia.org/wiki/アルバート・ホール "wikilink")、吹替：[池田勝](../Page/池田勝.md "wikilink")
+    『[ザ・プラクティス ボストン弁護士ファイル](https://ja.wikipedia.org/wiki/ザ・プラクティス_ボストン弁護士ファイル "wikilink")』に登場する判事と同一人物。
+  - トレイシー・クラーク（シーズン1 - 3）
+    演：[トレイシー・ウルマン](https://ja.wikipedia.org/wiki/トレイシー・ウルマン "wikilink")、吹替：[藤田淑子](../Page/藤田淑子.md "wikilink")
+    アリーのセラピスト。
+  - キャロライン
+    演：[サンドラ・バーンハード](https://ja.wikipedia.org/wiki/サンドラ・バーンハード "wikilink")、吹替：[小山茉美](../Page/小山茉美.md "wikilink")
+    弁護士。シーズン1第9話でレズビアンの疑いを受ける。
+  - ボビー・ドネル（シーズン1第20・23話）
+    演：[ディラン・マクダーモット](https://ja.wikipedia.org/wiki/ディラン・マクダーモット "wikilink")、吹替：
+    『ザ・プラクティス ボストン弁護士ファイル』の主人公。
+  - ヘレン・ギャンブル（シーズン1第20話、シーズン2第6話、シーズン5第18話）
+    演：[ララ・フリン・ボイル](../Page/ララ・フリン・ボイル.md "wikilink")、吹替：
+    『[ザ・プラクティス ボストン弁護士ファイル](https://ja.wikipedia.org/wiki/ザ・プラクティス_ボストン弁護士ファイル "wikilink")』のシーズン2より登場する地方検事補佐官。
+    ※NHK放送版とビデオ版で吹替声優が異なる。『ザ・プラクティス』の「クロスオーバー」の項参照。
+  - マイケルソン（シーズン1第23話）
+    演：[ボブ・ガントン](../Page/ボブ・ガントン.md "wikilink")、吹替：[佐々木勝彦](../Page/佐々木勝彦.md "wikilink")
+    親友のバーニーの頼みで心臓を取りかえることを望む。
+  - バーニー（シーズン1第23話）
+    演：[リチャード・シフ](../Page/リチャード・シフ.md "wikilink")、吹替：[納谷六朗](../Page/納谷六朗.md "wikilink")
+    依頼人である会長の雑用係で元ホームレス。
+  - アラン・ファーマー（シーズン1第23話）
+    演：[ウィリー・ガーソン](https://ja.wikipedia.org/wiki/ウィリー・ガーソン "wikilink")、吹替：
+    ジョンの又従兄弟。幸せな人を見ると短く切り詰めたカヌーのパドルで殴る。
+
+#### シーズン2（ゲスト）
+
+  - ドクター・ニックル（シーズン2第12話）
+    演：[ブルース・ウィリス](../Page/ブルース・ウィリス.md "wikilink")、吹替：[大塚明夫](../Page/大塚明夫.md "wikilink")
+    精神科医。
+  - エリック・ストール（シーズン2第13話）
+    演：[ハーレイ・ジョエル・オスメント](../Page/ハーレイ・ジョエル・オスメント.md "wikilink")、吹替：
+    神に対して訴えを起こす少年。
+  - [バリー・ホワイト](../Page/バリー・ホワイト.md "wikilink")（シーズン2第18話）
+    演：本人役、吹替：
+    ジョンが裁判や性交時に自分をその人だと思い込む歌手。
+  - バリー・フィルブリック（シーズン2第22話）
+    演：[ロバート・ピカード](https://ja.wikipedia.org/wiki/ロバート・ピカード "wikilink")、吹替：
+    敵側の原告。11年に渡って空想上の恋人に手紙を書き続けた妻を、財産狙いの結婚詐欺として告訴。
+  - [アル・グリーン](https://ja.wikipedia.org/wiki/アル・グリーン "wikilink")（シーズン2第22・23話、シーズン3第3話）
+    演：本人役、吹替：
+    アリーが裁判中などに見る幻覚。
+
+#### シーズン3（ゲスト）
+
+  - ジョージ・マクビール（シーズン3第4・5・21話、シーズン4第23話）
+    演：[ジェイムズ・ノートン](https://ja.wikipedia.org/wiki/ジェイムズ・ノートン "wikilink")、吹替：
+    アリーの父。
+  - ジーニー・マクビール（シーズン3第5・21話、シーズン4第22・23話）
+    演：[ジル・クレイバーグ](../Page/ジル・クレイバーグ.md "wikilink")、吹替：[丘みつ子](../Page/丘みつ子.md "wikilink")
+    アリーの母。
+  - ロビン・ジョーンズ（シーズン3第6話）
+    演：[ファラ・フォーセット](../Page/ファラ・フォーセット.md "wikilink")、吹替：
+    86歳の元上司と関係を持ち昇進し、セクハラ裁判を起こす女性。
+  - [ティナ・ターナー](../Page/ティナ・ターナー.md "wikilink")（シーズン3第14話）
+    演：本人役、吹替：
+    アリーが出場するティナ・ターナーのバックコーラス・コンテストに登場。
+  - [グロリア・ゲイナー](https://ja.wikipedia.org/wiki/グロリア・ゲイナー "wikilink")（シーズン3第17話）
+    演：本人役、吹替：
+    アリーが見る幻覚。ヒット曲 "I Will Survive" の歌手。
+  - ホープ・マーシー弁護士（シーズン3第20・21話）
+    演：[アリシア・ウィット](https://ja.wikipedia.org/wiki/アリシア・ウィット "wikilink")、吹替：[冨永みーな](../Page/冨永みーな.md "wikilink")
+    ケイジ&フィッシュ法律事務所と対決する美貌の弁護士。
+  - 5歳の頃のアリー（シーズン3第21話）
+    演：[ダコタ・ファニング](../Page/ダコタ・ファニング.md "wikilink")、吹替：
+
+#### シーズン4（ゲスト）
+
+  - スティーブン・ミルター（シーズン4第7話 - シーズン5第9話）
+    演：[ジョン・マイケル・ヒギンズ](https://ja.wikipedia.org/wiki/ジョン・マイケル・ヒギンズ "wikilink")、吹替：[大川透](../Page/大川透.md "wikilink")
+    弁護士兼セラピスト。日本語吹替版では「剣呑」が口癖。
+  - ジェイミー（シーズン4第8・10話）
+    演：[ファムケ・ヤンセン](https://ja.wikipedia.org/wiki/ファムケ・ヤンセン "wikilink")、吹替：[勝生真沙子](../Page/勝生真沙子.md "wikilink")
+  - メラニー・ウェスト（シーズン4第9 - 16話）
+    演：[アン・ヘッシュ](../Page/アン・ヘッシュ.md "wikilink")、吹替：
+    [トゥレット障害](../Page/トゥレット障害.md "wikilink")に悩む教師。
+  - [バリー・マニロウ](https://ja.wikipedia.org/wiki/バリー・マニロウ "wikilink")（シーズン4第13話）
+    演：本人役、吹替：
+    アリーが見る幻覚。
+  - カサンドラ・ルイス（シーズン4第16・18話）
+    演：[バーナデット・ピーターズ](../Page/バーナデット・ピーターズ.md "wikilink")、吹替：[土居裕子](https://ja.wikipedia.org/wiki/土居裕子 "wikilink")
+    ジョンが旅先で出会う女性。
+  - [アナスタシア](../Page/アナスタシア.md "wikilink")（シーズン4第16・21話）
+    演：本人役、吹替：
+    バーにゲストとして歌いに来る。
+  - [スティング](../Page/スティング_\(ミュージシャン\).md "wikilink")（シーズン4第20話）
+    演：本人役、吹替：
+    顧客として登場。
+  - ルイス・フォイ（シーズン4第20話）
+    演：[ポール・ルーベンス](https://ja.wikipedia.org/wiki/ポール・ルーベンス "wikilink")、吹替：
+    スティングがコンサート中にステージから妻を誘惑したとして告訴。
+  - マルコム・ワイアット（シーズン4第23話、シーズン5第7話）
+    演：[ジョシュ・グローバン](../Page/ジョシュ・グローバン.md "wikilink")、吹替：[坂詰貴之](https://ja.wikipedia.org/wiki/坂詰貴之 "wikilink")
+    プロムの誘いを直前に断った同級生を告訴。
+
+#### シーズン5（ゲスト）
+
+  - クレア・オトムズ（シーズン5第2・3・13 - 22話）
+    演：[デイム・エドナ・エバリッジ](https://ja.wikipedia.org/wiki/デイム・エドナ・エバリッジ "wikilink")、吹替：[松橋登](../Page/松橋登.md "wikilink")
+    性欲過剰の老婦人。
+  - [エルトン・ジョン](../Page/エルトン・ジョン.md "wikilink")（シーズン5第5話）
+    演：本人役、吹替：
+  - ハリソン・ワイアット牧師（シーズン5第7話）
+    演：[トム・ベレンジャー](../Page/トム・ベレンジャー.md "wikilink")、吹替：
+    神を信じられなくなり解雇され訴えを起こす。
+  - キャンディ（シーズン5第8話）
+    演：[マライア・キャリー](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")、吹替：
+    原告側証人。外出時にスポットライトを携える女性。
+  - ビクター・モリソン（シーズン5第9話 - 19話）
+    演：[ジョン・ボン・ジョヴィ](https://ja.wikipedia.org/wiki/ジョン・ボン・ジョヴィ "wikilink")、吹替：
+    アリーの家を修理に来た配管工。
+  - トッド・メリック（シーズン5第16・17話）
+    演：[マシュー・ペリー](https://ja.wikipedia.org/wiki/マシュー・ペリー_\(俳優\) "wikilink")、吹替：山路和弘
+    採用面接を受けに来た弁護士。
+  - シーラ・ハント（シーズン5第19話）
+    演：[ヴァネッサ・ウィリアムス](../Page/ヴァネッサ・ウィリアムス.md "wikilink")、吹替：
+    ビクターの元恋人。ビクターを訴える。
+
+## スタッフ
+
+  - 企画・製作総指揮 - [デビッド・E・ケリー](https://ja.wikipedia.org/wiki/デビッド・E・ケリー "wikilink")
+  - 制作 - デビッド・E・ケリー・プロダクション、20世紀フォックス・テレビジョン
+
+## シリーズ
+
+  - 『アリーmyラブ』*Ally McBeal first season*
+  - 『アリーmyラブ2』*Ally McBeal second season*
+  - 『アリーmyラブ3』*Ally McBeal third season*
+  - 『アリーmyラブ4』*Ally McBeal forth season*
+  - 『アリーmyラブ5』*Ally McBeal fifth season*
+
+## エピソードリスト
+
+### シーズン1
+
+| 各話 | 邦題         | 原題                     | 放送日         |
+| -- | ---------- | ---------------------- | ----------- |
+| 1  | めぐりあい      | Pilot                  | 1997年9月8日   |
+| 2  | 愛は妥協から     | Compromising Positions | 1997年9月15日  |
+| 3  | 恋愛方程式      | The Kiss               | 1997年9月22日  |
+| 4  | ラブ・アフェア    | The Affair             | 1997年9月29日  |
+| 5  | 涙の数だけ      | One Hundred Tears Away | 1997年10月20日 |
+| 6  | 婚約         | The Promise            | 1997年10月20日 |
+| 7  | 魔性の女       | The Attitude           | 1997年11月3日  |
+| 8  | 友達以上恋人未満   | Drawing the Lines      | 1997年11月10日 |
+| 9  | ダーティ・ジョーク  | The Dirty Joke         | 1997年11月17日 |
+| 10 | 無慈悲な天使     | Boy to the World       | 1997年12月1日  |
+| 11 | 銀の鐘        | Silver Bells           | 1997年12月15日 |
+| 12 | ダンシング・ベイビー | Cro-Magnon             | 1998年1月5日   |
+| 13 | ペンギン作戦     | The Blame Game         | 1998年1月19日  |
+| 14 | ボディ・ランゲージ  | Body Language          | 1998年2月2日   |
+| 15 | 生涯に1度の愛    | Once in a Lifetime     | 1998年2月23日  |
+| 16 | 禁断の果実      | Forbidden Fruits       | 1998年3月2日   |
+| 17 | 人生のテーマソング  | Theme of Life          | 1998年3月9日   |
+| 18 | 大人のルール     | The Playing Field      | 1998年3月16日  |
+| 19 | 誕生日の憂うつ    | Happy Birthday Baby    | 1998年4月6日   |
+| 20 | 刑事弁護士      | The Inmates            | 1998年4月27日  |
+| 21 | しあわせ予備軍    | Being There            | 1998年5月4日   |
+| 22 | また独りぼっち    | Alone Again            | 1998年5月11日  |
+| 23 | 思い出にかわるまで  | These are the Days     | 1998年5月18日  |
+
+### シーズン2
+
+| 各話      | 邦題         | 原題                           | 放送日         |
+| ------- | ---------- | ---------------------------- | ----------- |
+| 1 (24)  | 切ない現実      | The Real World               | 1998年9月14日  |
+| 2 (25)  | 彼女のやり方     | They Eat Horses, Don't They? | 1998年9月21日  |
+| 3 (26)  | 別れの真相      | Fools Night Out              | 1998年9月28日  |
+| 4 (27)  | 男と女の処世術    | It's My Party                | 1998年10月19日 |
+| 5 (28)  | 友達の恋人      | Story of Love                | 1998年10月26日 |
+| 6 (29)  | 忘れられない人    | Worlds Without Love          | 1998年11月2日  |
+| 7 (30)  | 突然の旅立ち     | Happy Trails                 | 1998年11月9日  |
+| 8 (31)  | 罪作りな視線     | Just Looking                 | 1998年11月16日 |
+| 9 (32)  | 決めつけないで    | You Never Can Tell           | 1998年11月23日 |
+| 10 (33) | 汚れなき魂      | Making Spirits Bright        | 1998年12月14日 |
+| 11 (34) | 夢で会えたら     | In Dreams                    | 1999年1月11日  |
+| 12 (35) | 愛の賞味期限     | Love Unlimited               | 1999年1月18日  |
+| 13 (36) | 天使と飛行船     | Angels and Blimps            | 1999年2月8日   |
+| 14 (37) | あの日に帰りたい   | Pyramids on the Nile         | 1999年2月15日  |
+| 15 (38) | 忍びあい       | Sideshow                     | 1999年2月22日  |
+| 16 (39) | キスの代償      | Sex, Lies and Politics       | 1999年3月1日   |
+| 17 (40) | 愛をめぐる内戦    | Civil War                    | 1999年4月5日   |
+| 18 (41) | 虚無と執着      | Those Lips, That Hand        | 1999年4月19日  |
+| 19 (42) | 女の敵は女？     | Let's Dance                  | 1999年4月26日  |
+| 20 (43) | 傷付きたくない症候群 | Only the Lonely              | 1999年5月3日   |
+| 21 (44) | ジェラシーは緑色   | The Green Monster            | 1999年5月10日  |
+| 22 (45) | 愛は幻        | Love's Illusions             | 1999年5月17日  |
+| 23 (46) | 会える日を信じて   | I Know Him by Heart          | 1999年5月24日  |
+
+### シーズン3
+
+| 各話      | 邦題         | 原題                               | 放送日         |
+| ------- | ---------- | -------------------------------- | ----------- |
+| 1 (47)  | 大胆な目覚め     | Car Wash                         | 1999年10月25日 |
+| 2 (48)  | 未知の世界へ     | Buried Pleasures                 | 1999年11月1日  |
+| 3 (49)  | 心が風邪をひいたら  | Seeing Green                     | 1999年11月8日  |
+| 4 (50)  | 情熱を燃やして    | Heat Wave                        | 1999年11月15日 |
+| 5 (51)  | 行き違う心      | Troubled Water                   | 1999年11月22日 |
+| 6 (52)  | 別人願望       | Changes                          | 1999年11月29日 |
+| 7 (53)  | 過去からの使者    | Saving Santa                     | 1999年12月13日 |
+| 8 (54)  | 聖夜の子守歌     | Blue Christmas                   | 1999年12月20日 |
+| 9 (55)  | 悲しき街       | Out in the Cold                  | 2000年1月10日  |
+| 10 (56) | 心の友にときめいて  | Just Friends                     | 2000年1月17日  |
+| 11 (57) | 夢見るころを過ぎても | Over the Rainbow                 | 2000年2月7日   |
+| 12 (58) | 面影のダンス     | In Search of Pygmies             | 2000年2月14日  |
+| 13 (59) | 曇りのない目で    | Pursuit of Loneliness            | 2000年2月21日  |
+| 14 (60) | 君の個性に乾杯    | The Oddball Parade               | 2000年2月28日  |
+| 15 (61) | 第一容疑者      | Prime Suspect                    | 2000年3月20日  |
+| 16 (62) | 真心のすべてを    | Boy Next Door                    | 2000年3月27日  |
+| 17 (63) | 悲しみを乗り越えて  | I Will Survive                   | 2000年4月17日  |
+| 18 (64) | さよなら20代    | Turning Thirty                   | 2000年5月1日   |
+| 19 (65) | 出会いの予感     | Do You Wanna Dance               | 2000年5月8日   |
+| 20 (66) | 甘い誘惑       | Hope and Glory                   | 2000年5月15日  |
+| 21 (67) | 恋に歌えば      | Ally McBeal: The Musical, Almost | 2000年5月22日  |
+
+### シーズン4
+
+| 各話      | 邦題        | 原題                             | 放送日         |
+| ------- | --------- | ------------------------------ | ----------- |
+| 1 (68)  | 情熱至上主義    | Sex, Lies and Second Thoughts  | 2000年10月23日 |
+| 2 (69)  | 脱・恋愛下手宣言  | Girls Night Out                | 2000年10月30日 |
+| 3 (70)  | 天国と地獄     | Two's a Crowd                  | 2000年11月6日  |
+| 4 (71)  | 恋は舞い降りた   | Without A Net                  | 2000年11月13日 |
+| 5 (72)  | 人生のレッスン   | The Last Virgin                | 2000年11月20日 |
+| 6 (73)  | クリスマスの秘密  | Tis the Season                 | 2000年11月27日 |
+| 7 (74)  | 恋愛回避症     | Love on Holiday                | 2000年12月4日  |
+| 8 (75)  | 最後に愛は勝つ   | The Man With the Bag           | 2000年12月11日 |
+| 9 (76)  | 心へのアクセス   | Reasons to Believe             | 2001年1月8日   |
+| 10 (77) | 激しい胸騒ぎ    | The Ex-Files                   | 2001年1月15日  |
+| 11 (78) | 第一印象という神話 | Mr. Bo                         | 2001年1月22日  |
+| 12 (79) | 涙の決断      | Hats Off to Larry              | 2001年2月5日   |
+| 13 (80) | 遠距離恋愛     | Reach Out And Touch            | 2001年2月12日  |
+| 14 (81) | 永遠の少年たち   | Boys Town                      | 2001年2月19日  |
+| 15 (82) | 愛の苦い果実    | Falling Up                     | 2001年2月26日  |
+| 16 (83) | 傷心旅行      | The Getaway                    | 2001年3月19日  |
+| 17 (84) | しあわせ拒否症   | The Pursuit of Unhappiness     | 2001年3月26日  |
+| 18 (85) | 恋愛のハードル   | The Obstacle Course            | 2001年4月16日  |
+| 19 (86) | バリーにおまかせ  | In Search of Barry White       | 2001年4月23日  |
+| 20 (87) | 誕生日の贈り物   | Cloudy Skies, Chance of Parade | 2001年4月30日  |
+| 21 (88) | 女王バチの誘惑   | Queen Bee                      | 2001年5月7日   |
+| 22 (89) | 運命のいたずら   | Home Again                     | 2001年5月14日  |
+| 23 (90) | 新たな出発     | The Wedding                    | 2001年5月21日  |
+
+### シーズン5
+
+| 各話       | 邦題         | 原題                                | 放送日         |
+| -------- | ---------- | --------------------------------- | ----------- |
+| 1 (91)   | もう一人の自分    | Friends and Lovers                | 2001年10月29日 |
+| 2 (92)   | スター誕生      | Judge Ling                        | 2001年11月5日  |
+| 3 (93)   | 思いがけない告白   | Neutral Corners                   | 2001年11月12日 |
+| 4 (94)   | 四角い恋愛模様    | Fear of Flirting                  | 2001年11月19日 |
+| 5 (95)   | 年下の男の子     | I Want Love                       | 2001年11月26日 |
+| 6 (96)   | 青春の落とし物    | Lost and Found                    | 2001年12月3日  |
+| 7 (97)   | 悲劇からの再起    | |Nine One One                     | 2001年12月10日 |
+| 8 (98)   | 最後のチャンス    | Playing with Matches              | 2002年1月7日   |
+| 9 (99)   | 風に吹かれて     | Blowin' in the Wind               | 2002年1月14日  |
+| 10 (100) | 100粒の涙     | One Hundred Tears                 | 2002年1月21日  |
+| 11 (101) | 衝撃の事実      | A Kick in the Head                | 2002年2月4日   |
+| 12 (102) | 新しすぎる毎日    | The New Day                       | 2002年2月11日  |
+| 13 (103) | 苦渋の選択      | Woman                             | 2002年2月18日  |
+| 14 (104) | 過ぎし日の恋     | Homecoming                        | 2002年2月25日  |
+| 15 (105) | とらわれの魂     | Heart and Soul                    | 2002年3月4日   |
+| 16 (106) | 自立した女      | Love Is All Around (1)            | 2002年3月15日  |
+| 17 (107) | 恋人たちのバトル   | Love Is All Around (2)            | 2002年4月15日  |
+| 18 (108) | 私を生きる      | Tom Dooley                        | 2002年4月22日  |
+| 19 (109) | いつか来た道     | Another One Bites The Dust        | 2002年4月29日  |
+| 20 (110) | 敗者の美学      | What I'll Never Do for Love Again | 2002年5月6日   |
+| 21 (111) | 封じ込められた心   | All of Me                         | 2002年5月13日  |
+| 22 (112) | さよならは言わないで | Bygones                           | 2002年5月20日  |
+
+[:en:List of Ally McBeal episodes](https://ja.wikipedia.org/wiki/:en:List_of_Ally_McBeal_episodes "wikilink")（英語）
+
+## 関連事項
+
+  - [アメリカ合衆国のテレビドラマ一覧](../Page/アメリカ合衆国のテレビドラマ一覧.md "wikilink")
+
+## 脚注
+
+## 外部リンク
+
+  - [アリー・myラブ - 番組データ](http://www.geocities.co.jp/hollywood/4103/eplib1/amc_ep.htm) 海外ドラマ情報ページ
+  - [アリー・myラブ - 出演者データ](http://www.geocities.co.jp/hollywood/4103/guest/amc_gs.htm) 海外ドラマ情報ページ
+  - [英語と日本語のスクリプト（一部）](http://www007.upp.so-net.ne.jp/comet/am/am.htm) 海外ドラマ聞き取り挑戦！
+
+[Category:1997年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1997年のテレビドラマ "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:弁護士ドラマ](https://ja.wikipedia.org/wiki/Category:弁護士ドラマ "wikilink") [Category:ボストンを舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:ボストンを舞台としたテレビ番組 "wikilink") [Category:FOX](https://ja.wikipedia.org/wiki/Category:FOX "wikilink") [Category:Dlifeのテレビ番組](https://ja.wikipedia.org/wiki/Category:Dlifeのテレビ番組 "wikilink")
+
+1.  [番組エピソード 『アリー♥myラブ』-NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=drama025)

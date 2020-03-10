@@ -1,0 +1,1034 @@
+> この記事は[CDMA 1X WIN](https://ja.wikipedia.org/wiki/CDMA_1X_WIN)から翻訳されています。
+
+
+**CDMA 1X WIN**（シーディーエムエー ワン 〈いち〉エックス ウィン）は、[auブランドを展開する](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の[第3.5世代携帯電話](../Page/第3.5世代移動通信システム.md "wikilink") (3.5G) サービスの呼称。通称**WIN**。
+
+## 概要
+
+2003年10月22日に発表され、同年11月28日よりサービスが開始された。なお、2022年（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")4年）3月31日を以ってサービス終了の予定であることが、2018年11月に発表された。
+
+データ通信に[CDMA2000 1x EV-DO Rel.0方式](https://ja.wikipedia.org/wiki/CDMA2000_1x#Rel.0 "wikilink")\[1\]を使い、携帯電話で初めて[パケット定額制](https://ja.wikipedia.org/wiki/パケット定額制 "wikilink")を導入した。通信速度が下り最大2.4M[bps](../Page/ビット毎秒.md "wikilink") (Rel.0) または最大3.1Mbps(Rev.A)、最大9.3Mbps\[2\] (MC-Rev.A) と、NTTドコモの[mova](https://ja.wikipedia.org/wiki/mova "wikilink")などの[PDC](../Page/PDC.md "wikilink")や、auの[CDMA 1X](../Page/CDMA_1X.md "wikilink")（Aシリーズ全機種、および2013年冬モデルの[あんしんGPS KYS11など](https://ja.wikipedia.org/wiki/あんしんGPS "wikilink")）で採用された[CDMA2000 1x MC (CDMA2000 1xRTT)と比べて通信速度の向上を図った](https://ja.wikipedia.org/wiki/CDMA2000_1x#CDMA2000_1x_MC "wikilink")。[音声通話](https://ja.wikipedia.org/wiki/音声通話 "wikilink")、およびごく一部のエリアは[CDMA 1X同様](../Page/CDMA_1X.md "wikilink")、CDMA2000 1x MCを用いる。
+
+定額・高速というメリットを生かし、その名のとおり曲をフルコーラスのままダウンロードし端末で聞けるEZ「[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")」を筆頭に、「[EZチャンネル](https://ja.wikipedia.org/wiki/EZチャンネル "wikilink")」や大容量かつ高速で動作する[アプリケーション](../Page/アプリケーションソフトウェア.md "wikilink")「[EZアプリ (BREW)](https://ja.wikipedia.org/wiki/BREW "wikilink")」などのサービスを提供している。2004年までは、サービス・端末ともにCDMA 1Xが主流であったが、2005年春以降はWINを同社の主力サービス・商品としている。
+
+WIN端末は、CDMA2000 1xMC方式のエリアでも利用できるため、音声通話と下り最大144Kbpsのデータ通信 (CDMA2000 1xMC (CDMA2000 1xRTT) ) のみ可能なエリアもある。また、他社（他キャリア）の3Gサービスと異なり、2013年4月現在、[N800MHz帯](https://ja.wikipedia.org/wiki/800MHz帯 "wikilink")（新800MHz帯・CDMA Bandclass 0 Subclass 2）を主体に利用している。
+
+2012年7月24日までに総務省が行う電波周波数の再編を受けて、新たな電波帯域である[2GHz帯](../Page/2GHz帯.md "wikilink") (CDMA Bandclass 6) およびN800MHz帯を整備しており、au ICカード非対応機種（2005年以前の全モデルと2006年・2007年の一部モデル）の新規受付も2010年8月8日をもって終了した。
+
+その後、2012年7月22日をもってcdmaOne、およびCDMA 1Xの各サービスと同時にau ICカード非対応機種のサービスを終了し、au ICカード対応機種でN800MHz帯非対応機種についても、ほとんどのエリアで通話・通信サービスが終了したが、一部のエリア（2GHz帯エリアと思われる）で引き続き利用できる場合があるとしている\[3\]\[4\]。
+
+2012年9月21日より同キャリアによるLTEサービス「[au 4G LTE](https://ja.wikipedia.org/wiki/au_4G_LTE "wikilink")」（エーユー フォージー エルティーイー）が開始されたのに伴い、従来の3G (3.5G) サービスとなったCDMA 1X WINはCDMA 1Xと統合される形で、同年11月2日よりサービス名を「**au 3G**」（エーユー スリージー）に改称したため、現在では一部のサービス（「EZ WIN」「[WIN HIGH SPEED](https://ja.wikipedia.org/wiki/WIN_HIGH_SPEED "wikilink")」など）を除き、ほとんど使用されていない。
+
+2015年1月30日発売の[Android](../Page/Android.md "wikilink")搭載スマートフォンの「[miraie KYL23](https://ja.wikipedia.org/wiki/KYL23 "wikilink")」、同年2月20日発売の[Android搭載フィーチャーフォンの](https://ja.wikipedia.org/wiki/ガラホ "wikilink")「[AQUOS K SHF31](https://ja.wikipedia.org/wiki/SHF31 "wikilink")」（両者ともにデータ通信のみau 4G LTEにも対応）をもって対応機種の新規開発をすべて終了した\[5\]。
+
+なお、2017年10月現在の時点において、同サービス専用機種で、なおかつ新品として入手（購入）可能な機種は[mamorino3](https://ja.wikipedia.org/wiki/mamorino3 "wikilink") (KYY05) のみ（既に生産終了済みで在庫対応分のみの販売扱い）となっていたが、2018年2月をもって販売終了となった。
+
+## 沿革
+
+  - 2003年4月30日 - 2GHz帯での1xEV-DO Rel.0によるデータ通信試験サービスを開始。
+  - 2003年11月28日 - CDMA 1X WIN開始。
+  - 2004年8月1日 - EZフラットをダブル定額に変更。
+  - 2005年5月1日 - パケット割WINをダブル定額ライトに変更。
+  - 2005年11月1日 - 基本料金を改定。
+  - 2006年12月13日 - 1xEV-DO Rev.A によるデータ通信サービスを開始。
+  - 2009年11月9日 - 無料通話なし、Eメール無料の料金プラン「プランE」を追加。
+  - 2010年8月8日 - [au ICカード非対応機種の新規申込受付を終了](https://ja.wikipedia.org/wiki/au_ICカード "wikilink")。
+  - 2010年11月5日 - 1xEV-DO MC-Rev.A (1xEV-DO MC) による「**WIN HIGH SPEED**」データ通信サービスを開始。
+  - 2011年9月28日 - 無料通話なし、au宛通話が定額制の料金プラン「プランZシンプル」を追加。
+  - 2012年7月22日 - L800MHz（旧800MHz・CDMA Bandclass 3／[JTACS](https://ja.wikipedia.org/wiki/TACS#日本 "wikilink")）帯によるCDMA 1X WINサービスを終了\[6\]。
+  - 2012年11月2日 - CDMA 1Xと統合される形でサービス名を**au 3G**に改称。
+  - 2018年7月20日 - 同年11月7日をもって新規契約を終了する旨を発表\[7\]\[8\]。
+  - 2018年11月16日 本サービスを2022年（令和4年）[3月末に終了する旨を発表](../Page/3月31日.md "wikilink")\[9\]\[10\]\[11\]。
+  - 2022年3月31日 - サービス完全終了、および[停波](https://ja.wikipedia.org/wiki/停波 "wikilink")予定\[12\]\[13\]。
+
+## WIN開始の背景
+
+KDDIと沖縄セルラー電話の各auブランドは、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")に次いで日本で2番目の[第三世代携帯電話](https://ja.wikipedia.org/wiki/第三世代携帯電話 "wikilink")である[CDMA 1X](../Page/CDMA_1X.md "wikilink")（[CDMA2000 1x MC方式](../Page/CDMA2000_1x.md "wikilink")）を開始した。高速・低価格が特徴であったが、最大通信速度は144Kbpsに限られ、大容量データの配信にはさらなる高速化・効率化が必要であった。また、通信機能の発達によりデータ通信を多用するユーザーが増え、データ通信定額制も求められていた。そのため、KDDIと沖縄セルラー電話は、auブランドで2003年11月28日に日本初の第3.5世代携帯電話（[CDMA2000 1x EV-DO Rel.0方式](../Page/CDMA2000_1x.md "wikilink")）である、CDMA 1X WINを開始した。
+
+定額制の対象は、端末単独でEZwebやEメールを利用する場合であり、[パソコンや](../Page/パーソナルコンピュータ.md "wikilink")[携帯情報端末](../Page/携帯情報端末.md "wikilink")に繋げて利用するデータ通信が定額となるのは、トラフィック制御機能を備えた一部の機種に限られる。
+
+WINの名称は「We Innovate the Next」の略であり、他にはキャリア、ユーザー、コンテンツプロバイダ、端末納入メーカーなどの「WIN-WIN」の関係を築く、「ドコモにWIN（勝利する）」等の意味も込められているとされる。
+
+## 課金体系
+
+以下本項目全体において、日本国[消費税法](../Page/消費税法.md "wikilink")の規定に基づき、価格表記は原則として消費税課税後の価格を記載する。
+
+CDMA 1X の課金体系は旧IDO地域と旧セルラー地域で異なっていた\[14\]が、CDMA 1X WIN の課金体系は全国共通となった。なお、CDMA 1X に比べCDMA 1X WIN はパケット通信料金は値下げされたが、通話料金は料金プランの無料通話額が減ったために実質値上げされている。。
+
+最近では、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が仕掛けた「料金戦争」の結果、ソフトバンク、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")との差は小さくなった。
+
+### 料金プラン
+
+「無料通話分」は通話料金の先払い分であり、プランごとの単価に基づいて通話料金が精算され、無料通話分を使い切った後利用料金の加算が開始される。なお、通話料単価は、プランLLが1分あたり、ほかは30秒あたり。
+
+| 料金プラン     | 基本料金        | 通信・通話料単価 | 備考             |
+| --------- | ----------- | -------- | -------------- |
+| フルサポートコース | シンプルコース     | 無料通話分    | 音声             |
+| プランE      | 3,240円      | 1,560円   | なし             |
+| プランSS     | 3,780円      | 1,961円   | 1,050円         |
+| プランS      | 4,935円      | 3,255円   | 2,100円         |
+| プランM      | 6,930円      | 5,250円   | 4,252円         |
+| プランL      | 9,975円      | 8,295円   | 6,615円         |
+| プランLL     | 15,750円     | 14,070円  | 12,600円        |
+| プランW      | 6,640円      | 4,960円   | 2,480円（国際電話専用） |
+| プランZ      | （シンプルコース専用） | 1,961円   | なし             |
+
+**備考** プラン体系の名称が同一であるNTTドコモの新料金プランとの差は次のとおり。
+
+  - プランSSはドコモと同一である。
+  - プランSは、ドコモより基本使用料が高いが、その分通話料単価が低い。
+  - プランM以上では、無料通話分が多い。
+
+#### プランW、プランZシンプル
+
+プランW、プランZシンプルはau宛の[音声通話定額制](https://ja.wikipedia.org/wiki/音声通話定額制 "wikilink")、Cメール無料の料金プランである。
+
+プランWは2011年9月26日に発表された\[15\]。他のプランと比べて国際電話の通話料が安い。無料通話は、[国際電話](../Page/国際電話.md "wikilink")または[グローバルパスポート](https://ja.wikipedia.org/wiki/グローバルパスポート "wikilink")CDMA/グローバルパスポート[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")利用時に限り利用可能である。
+
+プランZは2011年8月4日発表、同年9月28日に受付開始された\[16\]。シンプルコースのみで受付しており、フルサポートコース契約者は契約期間の終了、または解除料の支払いが必要である。シンプルコース開始以前（2007年11月12日）の契約者はシンプルコースでの機種変更が必要である。
+
+|      | 国内通話    | Cメール            |
+| ---- | ------- | --------------- |
+|      | 1 - 21時 | 21 - 1時         |
+| 通信先  | au携帯    | 無料              |
+| au以外 | 21円/30秒 | 送信3.15円/1通 受信無料 |
+
+  - 「家族割」と「誰でも割」の加入で家族間通話は24時間無料。「指定通話定額（指定3件分）」の24時間通話無料も併用可能。
+
+### パケット通信料金
+
+いずれも1パケット（128バイト）あたりの単価。
+
+  - プランE以外で割引なし - 0.21円
+  - プランE - 0.105円。国内でEZ WINを利用するEメールは無料。
+  - [ダブル定額](https://ja.wikipedia.org/wiki/ダブル定額 "wikilink")スーパーライト - 0.105円
+  - [ダブル定額](https://ja.wikipedia.org/wiki/ダブル定額 "wikilink")ライト（旧パケット割WIN） - 0.084円
+  - [ダブル定額](https://ja.wikipedia.org/wiki/ダブル定額 "wikilink")（旧EZフラット） - 0.0525円
+  - パケット割WINミドル - 0.026.25円
+  - パケット割WINスーパー - 0.01575円
+  - ISフラット - パケット通信料の概念なし\[17\]\[18\]\[19\]
+
+## 端末
+
+### 携帯電話型端末
+
+*[auの端末一覧](https://ja.wikipedia.org/wiki/auの端末一覧 "wikilink")*も参照。
+
+#### 型番法則（2003年 - 2008年）
+
+この世代の型番は W*ynm*のようになり、*y*の部分にはWINが始まった2003年を1としての年数が、*n*の部分にはその年にそのメーカーが出した何番目の端末なのかが、*m*の部分にはメーカー識別用のアルファベットが入る。
+
+例 - 2006年の[三洋電機](../Page/三洋電機.md "wikilink")の最初の携帯電話型WIN端末は「W41SA」である。
+
+2008年夏までのNTTドコモなど世代毎に型番を決めている通信事業者とは異なり、同じ番号でもメーカーによって発売時期が異なる場合もある。
+
+例 - W21CAはW21HよりもW22Hの性能に近い。
+
+また、同じメーカーの端末で型番の*n*の数字の順に発売されるとは限らず、まれに*n*が大きいほうが先に発売されることがある。
+
+例 - W47TとDRAPE (W46T) 、INFOBAR2 (W55SA) とW54SA、W62SとW61Sなど。
+
+なお、マイナーチェンジ端末の場合はベース端末型番の後に「II」をつけるというルールがあり、発売年と*y*の数字は合致しないこともある。
+
+例 - LEXUS W44T IIIとW44K IIは2007年の発売であるが、ベース端末であるW44TとW44Kは2006年に発表および発売された端末であるため、2007年の端末だが*y=4*である。
+
+さらに、端末の発売が発表の翌年まで遅れた場合でも、*y*や*n*の数字は変更されないため、発売年と*y*の数字にずれが生じることもある。
+
+例) - W54S・W56T・W54SAは、*y=5*だが、発売は2008年春まで延期された。
+
+2008年度までに開発・発売された音声用端末にはWINのロゴが印刷、あるいは刻印されている\[20\]。また、[W31T](../Page/W31T.md "wikilink")、[W33SA](../Page/W33SA.md "wikilink")、[W45T](../Page/W45T.md "wikilink")、[W54SA](../Page/W54SA.md "wikilink")等このWINのロゴの下に[LED](https://ja.wikipedia.org/wiki/LED "wikilink")を埋め込み着信・充電ランプとしている機種もある\[21\]。
+
+#### 型番法則（2009年 - 2015年）
+
+2009年春モデルより、1X端末の開発停止と合わせ非携帯電話型端末・法人向け端末を除き、型番ルールが大幅に変更された。この世代の型番は*ms0n*であり、*m*の部分にはメーカー名、*s*の部分にはシリーズ名、*0n*の部分にはメーカーが何番目に発売した機種か\[22\]を示す。数字部分はこれまでと違い、年度が変わってもリセットされずにそのまま増える。このため、同じ番号でもメーカーによって発売時期が異なる傾向が、2008年までよりも強くなっている。さらに2013年夏モデル以降よりスマートフォン、およびフィーチャーフォン、タブレット、モバイルルーター、デジタルフォトスタンド、位置情報ツール等の通信モデム・モジュールを搭載したau端末は実際の製造型番に「CDMA xxDyy」「CDMA xxLyy」「CDMA xxTyy」「CDMA xxSyy」「CDMA xxXyy」「CDMA xxYyy」等と表記しなくてもよい新製造型番ルールに変更となった。
+
+例 - P001は2009年2月発売だが、F001は2011年11月発売と、同じ*0n=001*でもおよそ3年もの隔たりがある。
+
+端末シリーズは以下の4つ（＋従来型番の法人向け端末、データ通信専用端末）に分けられ、主に通常モデルかコンセプトモデルかの違いで区別される。YシリーズおよびXシリーズ、さらに2013年以降の京セラ製端末においてはカタログや本体に愛称のみが記載されているため型番はあまり知られていない。
+
+型番の小文字xはメーカーの略が入る。
+
+  - x000シリーズ - 通常端末（mamorinoを除く[安心ジュニアケータイシリーズ](../Page/ジュニアケータイ.md "wikilink")、[簡単ケータイ](../Page/簡単ケータイ.md "wikilink")シリーズを含む。製造型番はxx000）
+  - Y00シリーズ - スマートフォンを含む特定機能特化型および特定ユーザー特化型端末（[Walkman Phoneシリーズ](https://ja.wikipedia.org/wiki/Walkman_Phone "wikilink")、[Mobile Hi-Vision CAM Wooo](https://ja.wikipedia.org/wiki/Mobile_Hi-Vision_CAM_Wooo "wikilink")、[Sportio water beat](https://ja.wikipedia.org/wiki/Sportio_water_beat "wikilink")、[biblio](https://ja.wikipedia.org/wiki/biblio "wikilink")、[BRAVIA Phone U1](https://ja.wikipedia.org/wiki/U1_\(携帯電話\) "wikilink")、[URBANO BARONE](https://ja.wikipedia.org/wiki/URBANO_BARONE "wikilink")、mamorino、[beskey](https://ja.wikipedia.org/wiki/beskey "wikilink")、[URBANO PROGRESSOなど](https://ja.wikipedia.org/wiki/URBANO_PROGRESSO "wikilink") 製造型番はxxY00）
+  - Y20シリーズ - [au 4G LTE対応特定ユーザー特化型スマートフォン](https://ja.wikipedia.org/wiki/au_4G_LTE "wikilink")（[URBANO L01など](https://ja.wikipedia.org/wiki/URBANO_L01 "wikilink") 製造型番はxxY20以降）
+  - Lシリーズ - au 4G LTE対応スマートフォン（製造型番はxxL20以降で、Lシリーズの製品コードと同一）
+  - Tシリーズ - au 4G LTE対応タブレット（製造型番はxxT20以降で、Tシリーズの製品コードと同一）
+  - Fシリーズ - au 4G LTE対応フィーチャーフォン（製造型番はxxF30以降で、Fシリーズの製品コードと同一。このシリーズのみ[VoLTE](https://ja.wikipedia.org/wiki/VoLTE "wikilink")対応フィーチャーフォンもこれに含まれる）
+  - [iida](https://ja.wikipedia.org/wiki/iida "wikilink")シリーズ（X00/X20シリーズ） - デザイン特化型端末（製造型番はxxX00）。なお、iidaブランド（のちiidaコンセプト）のスマートフォンもこれに準ずる。ちなみにau 4G LTE対応iidaコンセプトスマートフォンの製造型番はxxX20以降となる。
+  - IS00シリーズ - 個人向け[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")/[スマートブック](https://ja.wikipedia.org/wiki/スマートブック "wikilink")（2010年までに発表された機種に限る。[IS01](https://ja.wikipedia.org/wiki/IS01 "wikilink") - [IS06](https://ja.wikipedia.org/wiki/IS06 "wikilink")までの通し番号で、製造型番はxxI00。ただし、例外として[IS02](https://ja.wikipedia.org/wiki/IS02 "wikilink")は、**[TSI01](https://ja.wikipedia.org/wiki/TSI01 "wikilink")**である）
+  - IS00xシリーズ - スマートフォン（2011年発表の機種以降で、製造型番はxxI00）
+  - EIS00xシリーズ - 法人向けスマートフォン（2011年夏以降発表の機種で、製造型番はxx00E）
+  - ISW00xシリーズ - [+WiMAX](https://ja.wikipedia.org/wiki/+WiMAX "wikilink")搭載スマートフォン（製造型番はxxI00で、ISシリーズの製造型番と同一）
+  - TBi00xシリーズ - タブレット型端末（Wi-Fi通信専用）（製造型番はxxT00）
+  - ETBW00xシリーズ - [+WiMAX](https://ja.wikipedia.org/wiki/+WiMAX "wikilink")搭載法人向けタブレット型端末
+  - DATA00/DATA00Wシリーズ - CDMA（EV-DO）（[モバイルWiMAX](https://ja.wikipedia.org/wiki/モバイルWiMAX "wikilink")デュアルを含む）非携帯電話型端末（[DATA01](https://ja.wikipedia.org/wiki/DATA01 "wikilink")、[DATA02](https://ja.wikipedia.org/wiki/DATA02 "wikilink")など。製造型番はxxD00）
+  - SP00シリーズ - CDMA (EV-DO) 通信モジュール内蔵[デジタルフォトフレーム](../Page/デジタルフォトフレーム.md "wikilink")・電子書籍端末（[SP01](https://ja.wikipedia.org/wiki/SP01 "wikilink")、[SP02](https://ja.wikipedia.org/wiki/SP02 "wikilink")、[SP03](https://ja.wikipedia.org/wiki/SP03 "wikilink")。製造型番はxxS00。ただし、SP01は01PTである）
+  - P00シリーズ - 非発売の試作用端末（TSP01、TSP02、TSP03、TSP04など[1](http://ameblo.jp/povtc/entry-10589394174.html)）
+
+なお、これまでと違い[JATE](https://ja.wikipedia.org/wiki/JATE "wikilink")を通過する際の型番と、発売される際の型番が異なる機種もあり、以下に例を示す。
+
+1.  NEW STANDARDシリーズの製品記載型番はJATE通過時の\*X0xでなくメーカー略称がないNS0\*だった。
+2.  [パナソニック](https://ja.wikipedia.org/wiki/パナソニック_モバイルコミュニケーションズ "wikilink")・[東芝](../Page/東芝.md "wikilink")（[富士通東芝→富士通モバイル製を含む](https://ja.wikipedia.org/wiki/富士通モバイルコミュニケーションズ "wikilink")）・[日立](https://ja.wikipedia.org/wiki/カシオ日立モバイルコミュニケーションズ "wikilink")・[京セラ](../Page/京セラ.md "wikilink")・[ソニーモバイル（旧：ソニー・エリクソン）](https://ja.wikipedia.org/wiki/ソニーモバイルコミュニケーションズ "wikilink")・[富士通](https://ja.wikipedia.org/wiki/富士通モバイルコミュニケーションズ "wikilink")・[NEC](https://ja.wikipedia.org/wiki/NECカシオ_モバイルコミュニケーションズ "wikilink")・[モトローラ製端末のJATE通過時のメーカー略称が](https://ja.wikipedia.org/wiki/モトローラ・モビリティ "wikilink")2桁である（それぞれP/MA、T/TS、H/HI、K/KY、S/SO、F/FJ、N/NE、M/MOである）。
+
+<!-- end list -->
+
+1.  iidaシリーズの製品記載型番はJATE通過時の\*X0xでなく愛称である。
+
+#### 2003年の端末
+
+[200px](https://ja.wikipedia.org/wiki/ファイル:W11K.JPG "wikilink")
+
+| 機器名                                                                   | 備考                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [W11H](../Page/W11H.md "wikilink")、[W11K](../Page/W11K.md "wikilink") | WIN端末の第一弾。MSM5500チップセットに[QVGA液晶](https://ja.wikipedia.org/wiki/Quarter_Video_Graphics_Array "wikilink")、回転型[カメラを搭載](../Page/デジタルカメラ.md "wikilink")。W11HとW11Kは筐体の外装が違うだけで、中身はほぼ共通である。電池パック背面に[miniSDカードスロットを装着する独特の構造を採用した](https://ja.wikipedia.org/wiki/SDメモリーカード#MiniSDカード "wikilink")。アプリケーションプロセッサに[SH-Mobile](https://ja.wikipedia.org/wiki/SH-Mobile "wikilink")を搭載していたためBREWを搭載できず、唯一[EZアプリ (Java) Phase3に対応するWIN機である](../Page/EZアプリ_\(Java\).md "wikilink")（W5Xシリーズから[オープンアプリプレイヤー](../Page/オープンアプリプレイヤー.md "wikilink")としてJavaアプリに再び対応。ただし互換性はない）。[EZweb](../Page/EZweb.md "wikilink")以外の通信速度は最大144kbpsである。 |
+
+#### 2004年春モデル
+
+| 機器名                                | 備考                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [W21H](../Page/W21H.md "wikilink") | 前年に発売された[CDMA 1X端末](../Page/CDMA_1X.md "wikilink")、[A5401CA](https://ja.wikipedia.org/wiki/A5401CA "wikilink")の設計を利用したWIN端末。チップセットは[クアルコム](https://ja.wikipedia.org/wiki/クアルコム "wikilink")・MSM5500。メガピクセルカメラを搭載するが、QVGA液晶やEZチャンネル、[EZアプリ](https://ja.wikipedia.org/wiki/EZアプリ "wikilink")などには対応していない。また、EZweb以外の通信速度は最大144kbpsである。また、[天野喜孝](../Page/天野喜孝.md "wikilink")がデザインする「N.Y. SALAD」と呼ばれるキャラクターの待ち受け画面や[スクリーンセーバー](https://ja.wikipedia.org/wiki/スクリーンセーバー "wikilink")が内蔵されている。 |
+
+#### 2004年夏モデル
+
+[W21K](../Page/W21K.md "wikilink")、[W21S](../Page/W21S.md "wikilink")、[W21SA](../Page/W21SA.md "wikilink")。全機種QVGA液晶、メガピクセルカメラ、[EZアプリ (BREW)に対応](https://ja.wikipedia.org/wiki/BREW "wikilink")。全機種[ARM9Eプロセッサとクアルコム](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")・MSM6500チップセット搭載で[Flashムービーにも対応し](../Page/Adobe_Flash_Lite.md "wikilink")、EZweb以外の通信も最大2.4Mbpsに引き上げられた。この3機種より、従来に比べ[EZアプリ (BREW)の容量が拡大され](https://ja.wikipedia.org/wiki/BREW "wikilink")、[ファイナルファンタジーや](https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズ "wikilink")[ドラゴンクエストなどの大容量アプリが遊べるようになった](../Page/ドラゴンクエストシリーズ.md "wikilink")。W21S、W21SAの外部メモリはセキュア\[23\]に対応している。
+
+| 機器名                                  | 備考                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [W21SA](../Page/W21SA.md "wikilink") | au初の[回転2軸ヒンジ携帯端末で](https://ja.wikipedia.org/wiki/日本における携帯電話#端末形状 "wikilink")、2.4インチ液晶を搭載した[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")モデル。録音機能付き[FM](../Page/超短波.md "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")、miniSD、[オートフォーカス](../Page/オートフォーカス.md "wikilink")付き2メガピクセルカメラ、英単語辞書、[ICレコーダ](https://ja.wikipedia.org/wiki/ICレコーダ "wikilink")、画像のTV出力、[電子コンパス](https://ja.wikipedia.org/wiki/電子コンパス "wikilink")を搭載。メニューアイコンや電池・アンテナピクトのカスタマイズも可能。 |
+| [W21S](../Page/W21S.md "wikilink")   | 約250カンデラの高輝度2.4インチ液晶を搭載したハイエンドモデル。電子コンパス、ステレオツインスピーカーを搭載している。また、赤外線機能を搭載しTVやオーディオプレーヤーの[リモコン](https://ja.wikipedia.org/wiki/リモコン "wikilink")にもなる。外部メモリは各種[メモリースティック](../Page/メモリースティック.md "wikilink")に対応。                                                                                                                                                                                                                                                    |
+| [W21K](../Page/W21K.md "wikilink")   | 2.2インチ液晶を搭載。ミドルレンジモデルとして製作されており、3機種の中で最も機能が少なく、コンパクトな仕上がりとなっている。                                                                                                                                                                                                                                                                                                                                                                                             |
+
+#### 2004年冬モデル
+
+[W21CA](../Page/W21CA.md "wikilink")、[W22H](../Page/W22H.md "wikilink")、[W22SA](../Page/W22SA.md "wikilink")、[W21T](../Page/W21T.md "wikilink")。夏モデルの機能（電子コンパスを除く）に加え、着うたを一曲まるごとダウンロードすることができる[EZ「着うたフル」に対応](https://ja.wikipedia.org/wiki/着うたフル "wikilink")。外部メモリはすべてセキュアに対応。全機種[ステレオ](../Page/ステレオ.md "wikilink")ツインスピーカー内蔵。
+
+| 機器名                                  | 備考                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [W21CA](../Page/W21CA.md "wikilink") | 2.6型のワイド液晶を搭載し、パソコン向けのサイトを閲覧できる[BREW](https://ja.wikipedia.org/wiki/BREW "wikilink")版[Opera](https://ja.wikipedia.org/wiki/Opera "wikilink")ブラウザ「[PCサイトビューアー](https://ja.wikipedia.org/wiki/PCサイトビューアー "wikilink")」を搭載。W21SAと同様、2軸ヒンジの端末である。                                                                                                                                                                                                     |
+| [W22H](../Page/W22H.md "wikilink")   | 2.4インチ液晶を搭載。au初のスライド式携帯端末。                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| [W22SA](../Page/W22SA.md "wikilink") | 外部メモリに対応しない代わりに内蔵メモリを40MB搭載し、他の端末と比べると2倍近くの容量である。また、赤外線通信やFMラジオに対応している。                                                                                                                                                                                                                                                                                                                                                                          |
+| [W21T](../Page/W21T.md "wikilink")   | 2.4インチ液晶、[東芝](../Page/東芝.md "wikilink")が独自開発した高性能[3D](../Page/3次元コンピュータグラフィックス.md "wikilink")[グラフィックアクセラレータ](https://ja.wikipedia.org/wiki/グラフィックアクセラレータ "wikilink")「MOBILE TURBO T4G」 (TC35285) を搭載し、3Dゲームに対応。EZアプリに[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")の「セガラリー1st stage」をプリインストール。[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")に対応し、同端末間でのデータ送受信や、自動車運転中の無線ハンズフリー通話(要・別売りBluetoothヘッドセットないしBluetooth対応カーAV)が可能。 |
+
+#### 2004年の他の端末
+
+| 機器名                                                             | 備考                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [愛・MATE](https://ja.wikipedia.org/wiki/愛・MATE "wikilink")（型番なし） | [2005年日本国際博覧会](../Page/2005年日本国際博覧会.md "wikilink")（愛・地球博、通称愛知万博）で用いられるためにKDDIが開発した、ハイブリッド情報端末、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")。一般向けに発売されておらず、基本的には博覧会関係者のみが手にすることになった。ただし、[長久手日本館内では一般向けにも貸し出された](https://ja.wikipedia.org/wiki/愛知万博の施設#.E6.97.A5.E6.9C.AC.E3.82.BE.E3.83.BC.E3.83.B3 "wikilink")。無線[インタフェースとして](../Page/インタフェース_\(情報技術\).md "wikilink")、CDMA 1X WIN、無線LAN ([IEEE 802.11](https://ja.wikipedia.org/wiki/IEEE_802.11#IEEE_802.11b "wikilink")) 、[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")、また[コンパクトフラッシュ](../Page/コンパクトフラッシュ.md "wikilink")スロットに挿入するオプションとして、[μチップ](https://ja.wikipedia.org/wiki/μチップ "wikilink")読み取り機能を搭載している。[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")には、[Windows Mobile 2003 Second Edition Software for Pocket PCを搭載している](../Page/Pocket_PC.md "wikilink")。 |
+
+#### 2005年春モデル
+
+[W21CA II](../Page/W21CA.md "wikilink")、[W31K](../Page/W31K.md "wikilink")、[W31SA](../Page/W31SA.md "wikilink")、[PENCK](../Page/PENCK.md "wikilink")（W31H）、[W31S](../Page/W31S.md "wikilink")。[Flashムービーを着信画面に設定できる新サービス](../Page/Adobe_Flash_Lite.md "wikilink")[着Flash](https://ja.wikipedia.org/wiki/着Flash "wikilink")（PENCKやW21CA IIを除く）や電子メールのバックグラウンド受信（PENCKやW21CA IIを除く）、[EZ「着うたフル」の](https://ja.wikipedia.org/wiki/着うたフル "wikilink")3Dサラウンド再生に標準対応。また、W31SAやW31K、W31SにはFMラジオ受信機能を搭載している。また、W31SからACアダプタの共通化が始まり、2005年冬モデルまではマイナーチェンジモデルを中心に非対応機種が残ったものの、2006年春モデル以降からは正式に全ての機種が別売の共通アダプタに対応した。
+
+| 機器名                                         | 備考                                                                                                                                                                                                               |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [W21CA II](../Page/W21CA.md "wikilink")     | W21CAのマイナーバージョンアップ版でPCサイトビューアー (Opera) を搭載。WIN対応機としては史上初のセカンドモデル。                                                                                                                                                |
+| [W31K](../Page/W31K.md "wikilink")          | フレンドリーデザイン。                                                                                                                                                                                                      |
+| [W31SA](../Page/W31SA.md "wikilink")        | スライド式。[OCR英和辞書機能および](../Page/光学文字認識.md "wikilink")「[SD-Audio](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")（[AAC](../Page/AAC.md "wikilink")[フォーマット](https://ja.wikipedia.org/wiki/フォーマット "wikilink")）」対応。 |
+| [PENCK](../Page/PENCK.md "wikilink") (W31H) | 「[au design project](https://ja.wikipedia.org/wiki/au_design_project "wikilink")」端末。                                                                                                                             |
+| [W31S](../Page/W31S.md "wikilink")          | スライド式。[AF付](../Page/オートフォーカス.md "wikilink")2メガピクセルカメラ。音楽再生機能。                                                                                                                                                    |
+
+#### 2005年夏モデル
+
+[W32K](../Page/W32K.md "wikilink")、[W31T](../Page/W31T.md "wikilink")、[W32SA](../Page/W32SA.md "wikilink")、[W31CA](../Page/W31CA.md "wikilink")。W32Kを除き、Eメールの最大添付容量が従来の150KBから500KBへ引き上げられた。W31T、W32SAはクアルコム社製最新チップセットの「**MSM6550**」チップセット（プロセッサ部の最大クロック周波数・約225MHz）が搭載されておりBREW3.1や**KDDI Common Platform** (KCP) に対応。
+
+| 機器名                                  | 備考                                                                                                                                                                                                                                                                         |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [W32K](../Page/W32K.md "wikilink")   | NTTドコモの「[らくらくホン](https://ja.wikipedia.org/wiki/らくらくホン "wikilink")」を意識した「[簡単ケータイ](../Page/簡単ケータイ.md "wikilink")」シリーズで初めての端末。EZ「着うたフル」や外部メモリには非対応。WIN対応端末としては中途半端な仕様で、話題にならなかった。 これらの失敗した経緯が、のちのCDMA 1X対応端末**[A5517T](../Page/A5509T.md "wikilink")**などの「簡単ケータイ」シリーズに生かされた。  |
+| [W31T](../Page/W31T.md "wikilink")   | PCサイトビューアー (Opera) と[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")を搭載した、厚さ20mmのWIN折り畳み型最薄機種（2005年6月当時）。「聞かせて検索」、「安心ナビ」、「着Flash」に対応し、[パンフォーカス](../Page/パンフォーカス.md "wikilink")式2.4メガピクセルカメラを搭載。W21Tと同じく高性能3Dグラフィックアクセラレータ「MOBILE TURBO T4G」を搭載し、3Dゲームに対応する。 |
+| [W32SA](../Page/W32SA.md "wikilink") | 地上アナログテレビチューナーを搭載。「聞かせて検索」「安心ナビ」「[SD-Audio](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")」「[SD-Video](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")」に対応。                                                                                                       |
+| [W31CA](../Page/W31CA.md "wikilink") | W21CAのバージョンアップ版。カメラを3メガピクセルに変更し、さらに「PCドキュメントビューアー」を搭載した。そのため、2005年夏モデルの新機能である「聴かせて検索」、「安心ナビ」、「着Flash」には対応しない。                                                                                                                                                              |
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Au_W32H.jpg "wikilink")。\]\]
+
+#### 2005年秋モデル
+
+[W32H](../Page/W32H.md "wikilink")、[W32S](../Page/W32S.md "wikilink")、[W31K II](../Page/W31K.md "wikilink")、[W31SA II](../Page/W31SA.md "wikilink")。W32H、W32SにBREW3.1および[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink") ([EZ FeliCa](https://ja.wikipedia.org/wiki/EZ_FeliCa "wikilink")) や[au ICカード](https://ja.wikipedia.org/wiki/au_ICカード "wikilink")（[UIMカード](../Page/UIMカード.md "wikilink")）を導入。ただしKCPには対応しない。
+
+| 機器名                                     | 備考                                                                                                                                                                                       |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [W32H](../Page/W32H.md "wikilink")      | SD-Audio対応。                                                                                                                                                                              |
+| [W32S](../Page/W32S.md "wikilink")      | au初の128和音対応サウンド制御用チップ「[ヤマハ](../Page/ヤマハ.md "wikilink")**MA-7**」を搭載。WIN対応端末として初のStyle-Upパネルにも対応。EZアプリに[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")の「リッジレーサーSE」（体験版）がプリインストールされている。 |
+| [W31K II](../Page/W31K.md "wikilink")   | W31Kのセカンドモデル。ボディカラーや待ち受け画面のデザインが変更されている。                                                                                                                                                 |
+| [W31SA II](../Page/W31SA.md "wikilink") | W31SAのセカンドモデル。ボディカラー等が異なっている。                                                                                                                                                            |
+
+[thumb対応の](https://ja.wikipedia.org/wiki/ファイル:w33sa_2.JPG "wikilink")[W33SA](../Page/W33SA.md "wikilink")。\]\]
+
+#### 2005年冬モデル
+
+[W33SA](../Page/W33SA.md "wikilink")、[W32T](../Page/W32T.md "wikilink")。[トランシーバーのように使える](https://ja.wikipedia.org/wiki/トランシーバー_\(無線機\) "wikilink")「[プッシュ・ツー・トーク](https://ja.wikipedia.org/wiki/プッシュ・ツー・トーク "wikilink")」サービス「[Hello Messenger](https://ja.wikipedia.org/wiki/Hello_Messenger "wikilink")」に対応。EZ FeliCaおよびau ICカードには非対応。BREW3.1やKCPに対応し、クアルコム社製「MSM6550」チップセットを搭載。
+
+| 機器名                                  | 備考                                                                                                                                                                                                                                                     |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [W33SA](../Page/W33SA.md "wikilink") | モバイル機器向けの[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")「[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")」を受信するためのチューナーを内蔵。またアナログテレビチューナーも内蔵しており録画にも対応する。前述の2005年秋モデルのW32S同様128和音対応サウンド制御用チップ「ヤマハMA-7」が搭載されている。SD-Audioも利用可能。 |
+| [W32T](../Page/W32T.md "wikilink")   | W31Tのマイナーチェンジモデル。[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")搭載。「Hello Messenger」を追加。本体のサブ液晶パネル周辺のデザインが大幅に変わっている。厚さは21mmとベース機に比べ若干厚くなっている。                                                                                          |
+
+#### 2006年春モデル
+
+[W41S](../Page/W41S.md "wikilink")、[MUSIC-HDD](../Page/MUSIC-HDD.md "wikilink") (W41T) 、[W41CA](../Page/W41CA.md "wikilink")、[W41H](../Page/W41H.md "wikilink")、[W41K](../Page/W41K.md "wikilink")、[W41SA](../Page/W41SA.md "wikilink")、[neon](https://ja.wikipedia.org/wiki/neon_\(携帯電話\) "wikilink") (W42T) 。[パソコンと連携し](../Page/パーソナルコンピュータ.md "wikilink")、[音楽配信](../Page/音楽配信.md "wikilink")サービス「[LISMO Music Store](https://ja.wikipedia.org/wiki/LISMO_Music_Store "wikilink")」・音楽転送・CD[リッピング](https://ja.wikipedia.org/wiki/リッピング "wikilink")等が可能な「au LISTEN MOBILE SERVICE」 ([LISMO](../Page/LISMO.md "wikilink")) に対応。また、全端末に「Hello Messenger」や「[EZ-FM](https://ja.wikipedia.org/wiki/EZ-FM "wikilink")」および音声認識入力（声de入力）に対応した「EZナビウォーク」、さらに3Dグラフィック対応[プログラム](../Page/プログラム_\(コンピュータ\).md "wikilink")[インタフェース](../Page/インタフェース_\(情報技術\).md "wikilink")[OpenGL ESを搭載](../Page/OpenGL_ES.md "wikilink")。外部メディアはW41SとW41Tを除きminiSDカードを使用する\[24\]。W41Kを除き[ヤマハ](../Page/ヤマハ.md "wikilink")製**MA-7**を搭載し、最大128和音に対応（W41Kはヤマハ製**MA-5**を搭載し、最大64和音）。2006年春モデル以降のCDMA 1X WIN対応端末から全機種がBREW3.1を導入した。W41T、neon、W41K、W41SAはKCPに対応。
+
+| 機器名                                                                   | 備考                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [W41S](../Page/W41S.md "wikilink")                                    | 「PCサイトビューアー」を搭載。EZ Felica対応（[モバイルSuica](../Page/モバイルSuica.md "wikilink")対応）。W32Sと同じくルミナスエンジンを搭載したパンフォーカス式1.25メガピクセルカメラや地磁気センサー（電子コンパス）に対応し、外部メディアはメモリースティックDuoを用いる。マイク付ミュージックリモコンが付属。                                                                                                                                                                                                                                                                                                                  |
+| [MUSIC-HDD](../Page/MUSIC-HDD.md "wikilink") (W41T)                   | 日本国内向けの携帯電話初の0.85インチ・4ギガバイトの[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")や、東芝が積極的に進める[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")を搭載し、さらに3D対応グラフィックアクセラレータ「MOBILE TURBO T4G」も搭載しているので3Dゲームアプリにも対応する。今回から電子辞書「辞スパ」のデータが端末本体のメモリにあらかじめインストールされた。音楽プレイヤーとして使用する場合、端末のトップ部分に付いている静電式のコントロールキーで操作\[25\]する。本体のサイズは比較的大きく、厚さは28mmある。パンフォーカス式3.2メガピクセルのカメラを搭載する。ハードディスクを搭載しているのでメモリーカード等の外部メディアは利用できない。付属のUSBケーブルでPCに接続し、外部のマスストレージメディアとして使用した場合、最大約512メガバイトの領域が使用可能。 |
+| [W41CA](../Page/W41CA.md "wikilink")                                  | カメラの画素数はW31CAの3.2メガピクセルから2.1メガピクセルにダウンしたものの、2.6インチの液晶画面やオートフォーカス機能は継承された。ボディサイズは若干薄く小さく、そして軽くなった。カシオ初のFMラジオチューナー (EZ FM) ・EZ FeliCa（モバイルSuica対応）・赤外線通信機能を搭載し、さらにSD-Audioにも対応する。au向けの2軸回転式（2軸ヒンジ）液晶パネルを採用した端末としては最薄\[26\]だった。                                                                                                                                                                                                                                                                           |
+| [W41H](../Page/W41H.md "wikilink")                                    | 2軸回転式2.7インチ液晶パネルおよび2.1メガピクセル・オートフォーカスカメラやワンセグ対応チューナーを搭載する\[27\]携帯電話端末である。EZ FeliCa（モバイルSuica対応）やSD-Audio、SD-Videoなど、auが携帯電話端末向けに提供する大部分の機能、サービスに対応する。付属の充電スタンドは小型のテレビスタンドになる。2006年のWIN対応春モデル中、本体の体積が最も大きく質量が大きいが最も多機能なモデルである。フルブラウザであるPCサイトビューアーやWordやExcelなどのファイルが表示できるPCドキュメントビューアーを搭載していた。                                                                                                                                                                                                          |
+| [W41K](../Page/W41K.md "wikilink")                                    | au初の手ぶれ補正機能対応3.2メガピクセル・オートフォーカスカメラを搭載。また付属する充電用スタンドには[ウーファー](https://ja.wikipedia.org/wiki/ウーファー "wikilink")が内蔵されている。本体のミラーパネル風のトップ部分には有機ELを用いたサブディスプレイが装備されている\[28\]。                                                                                                                                                                                                                                                                                                                                 |
+| [W41SA](../Page/W41SA.md "wikilink")                                  | パステル系のカラーに手に馴染む曲線的なラインが特徴の、コンパクトなWIN対応端末。実用性やコストパフォーマンスに秀でており、ステレオマイク内蔵ICレコーダー機能\[29\]や手書き入力機能「パシャ文字」、パンフォーカス式1.3メガピクセルカメラ、2006年春モデルのWIN端末では唯一カラーのサブ液晶画面などを搭載。また、セキュリティ機能にも対応しているので、若い女性ユーザーのみならず、ビジネスユーザーもターゲットとしている。2006年春モデルのWIN対応端末では最薄、最軽量\[30\]である。                                                                                                                                                                                                                                              |
+| [neon](https://ja.wikipedia.org/wiki/neon_\(携帯電話\) "wikilink") (W42T) | [東芝](../Page/東芝.md "wikilink")製初の「au design project」端末。W41Tと同じく3D対応グラフィックアクセラレータ「MOBILE TURBO T4G」を搭載し3Dゲームアプリに対応するほか、電子辞書「辞スパ」を端末本体のメモリにインストール。パンフォーカス式1.3メガピクセルカメラを搭載。なお本機に内蔵されたスピーカーは[モノラル](https://ja.wikipedia.org/wiki/モノラル "wikilink")（1つ）である。付属の充電スタンドに装着するとデジタルの卓上時計にもなる。東芝製として初の赤外線機能を搭載(その代わりBluetoothが非搭載となる)。デザインは[INFOBAR](https://ja.wikipedia.org/wiki/INFOBAR "wikilink")やW11Kを手がけた[深澤直人](https://ja.wikipedia.org/wiki/深澤直人 "wikilink")によるもの。                                        |
+
+#### 2006年夏モデル
+
+[W43T](../Page/W43T.md "wikilink")、[W42K](../Page/W42K.md "wikilink")、[ウォークマン](../Page/ウォークマン.md "wikilink")ケータイ ([W42S](../Page/W42S.md "wikilink")) 、[W42H](../Page/W42H.md "wikilink")、[W42CA](../Page/W42CA.md "wikilink") ([G'zOne](https://ja.wikipedia.org/wiki/G'zOne "wikilink")) 、[W44T](../Page/W44T.md "wikilink")、[W33SA II](../Page/W33SA.md "wikilink")。W33SA IIを除く全機種が音楽配信サービス「LISMO Music Store」・音楽転送・CDリッピング等が可能な「au LISTEN MOBILE SERVICE」 (LISMO) に対応。外部メディアはW42SはメモリースティックDuo、W42CAおよびW42Hは[microSDカード](https://ja.wikipedia.org/wiki/SDメモリーカード#microSDカード "wikilink")、それ以外の機種はminiSDカードを使用する。全機種が赤外線通信に対応。「EZ FM」はW43TおよびW42CAは非対応。またW42SはKCPに非対応。W42Kを除き[ヤマハ](../Page/ヤマハ.md "wikilink")製**MA-7**を搭載し、最大128和音に対応\[31\]。スピーカはW42CAおよびW42Hがモノラル、それ以外の機種はステレオのものを内蔵する。W42SおよびW44T以外の内蔵データフォルダ容量は約50Mバイト。全機種、音声認識入力（声de入力）に対応した「EZナビウォーク」に対応。「PCサイトビューアー」はW42Kを除く全機種に搭載する。
+
+| 機器名               | 備考                                                                                                                                                                                                                                                                                |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| W43T              | 3Dナビ対応。W41Tと同様、時計および楽曲表示専用の小さな白黒サブ液晶と音楽再生専用のコントロールキーを搭載する。[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")には非対応となっている。ベース機の「W31T」や「W32T」と異なり辞書ツール「辞スパ」は本体メモリ内にプリセットされている。                                                                                          |
+| W42K              | アナログテレビチューナ搭載。付属のリモコン付ステレオイヤフォンがテレビアンテナとなる。なおアナログテレビチューナーはこの端末以降搭載されていない。                                                                                                                                                                                                         |
+| ウォークマンケータイ (W42S) | プレーヤ操作用ミュージックシャトルや音楽用1GBメモリ搭載。W4\*シリーズでは唯一のスライド式である。                                                                                                                                                                                                                              |
+| W42H              | 2006年夏モデルでは唯一EZ FeliCa(モバイルSuica対応)を搭載。スピーカーはモノラルとなる。                                                                                                                                                                                                                             |
+| W42CA             | WIN端末初の防水・耐衝撃端末。スピーカーはモノラルとなる。                                                                                                                                                                                                                                                    |
+| W44T              | 1GBメモリ搭載、3Dナビや[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")（オーディオプロファイル「[A2DP](https://ja.wikipedia.org/wiki/A2DP "wikilink")」「[SCMS](../Page/SCMS.md "wikilink")-T」をサポート）に対応する2軸ヒンジ端末。付属のBluetoothレシーバーリモコンはヤマハと共同開発で、このレシーバーリモコンには音質向上のため超小型のデジタルアンプが搭載されている。 |
+| W33SA II          | ワンセグ・アナログテレビチューナーを搭載。                                                                                                                                                                                                                                                             |
+
+#### 2006年秋モデル
+
+[W43H](../Page/W43H.md "wikilink")、[W45T](../Page/W45T.md "wikilink")、[W43CA](../Page/W43CA.md "wikilink")、[W43S](../Page/W43S.md "wikilink")、[W42SA](../Page/W42SA.md "wikilink")、[W43SA](../Page/W43SA.md "wikilink")、[W43K](../Page/W43K.md "wikilink")、[W41SH](../Page/W41SH.md "wikilink")。
+
+全機種が対応するサービスは次のものである。
+
+  - 「LISMO Music Store」、音楽転送・CDリッピング等が可能な「au LISTEN MOBILE SERVICE」 (LISMO)
+  - EZ FM
+  - KCP
+  - PCサイトビューアー
+  - 3Dナビ
+  - グローバルエキスパート（au ICカード）
+
+外部メディアはW43SはメモリースティックDuo、W41SHはminiSDカード、それ以外の機種はmicroSDカードを使用する。W43SおよびW41SHを除く全機種に[ソニー](../Page/ソニー.md "wikilink")製の高音質ステレオイヤホン「MDR-E0931」が付属する。W41SHを除く全機種に**Flash Lite2.0**および「着うたフル」やワンセグの音質を原音に近づける高音質エンジン「DBEX」を採用しており、W41SHを除く全端末の音質調整はヤマハの監修の下で行われた（後述の2006年冬モデルも同様）。EZ FeliCa（モバイルSuica対応）はW43H、W43CA、W43S、W43K（京セラ製のau向け端末としては初）の4機種で利用可能。音源はW41SHのみヤマハ製**MA-5**を搭載し最大64和音、それ以外の1X WIN対応機種はヤマハ製**MA-7**を搭載し最大128和音。
+
+| 機器名   | 備考                                                                                                                                                            |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| W43H  | ワンセグチューナ搭載、EZチャンネルプラスやEZニュースフラッシュに対応                                                                                                                          |
+| W45T  | 「でかキー」を搭載したフレンドリーケータイ。ただし「簡単ケータイ」シリーズには含まれない。                                                                                                                 |
+| W43CA | EZチャンネルプラスやEZニュースフラッシュに対応                                                                                                                                     |
+| W43S  | 2.7型フルワイドQVGA液晶やLEDによる「あかり」とStyle-Upパネル搭載                                                                                                                     |
+| W42SA | 鳥取三洋電機初のWIN端末。ダイヤルキー部分にタッチパッドを内蔵し、[ノートパソコン](../Page/ノートパソコン.md "wikilink")感覚でスクロールや手書き入力ができる[スムースタッチ](https://ja.wikipedia.org/wiki/スムースタッチ "wikilink")機能を搭載。 |
+| W43SA | ワンセグチューナ搭載                                                                                                                                                    |
+| W43K  | サブ液晶の周辺部に音楽操作用センサーリングキーを搭載                                                                                                                                    |
+| W41SH | シャープ初のau端末。操作中に別の機能を呼び出す「Task Bar」に対応                                                                                                                         |
+
+#### 2006年冬モデル
+
+[DRAPE](../Page/DRAPE.md "wikilink")(W46T)、[W47T](../Page/W47T.md "wikilink")、[W44K](../Page/W44K.md "wikilink")、[W44S](../Page/W44S.md "wikilink")、[W43H II](../Page/W43H.md "wikilink")。 W44Kを除き「EZチャンネルプラス」や「EZニュースフラッシュ」が利用可能で音楽のプロモーションビデオ一曲分をダウンロード可能な新サービス「LISMOビデオクリップ」がW44K、W43H IIを除き利用可能。4機種ともFlash Lite2.0や「着うたフル」の音質を原音に近づける高音質エンジン「DBEX」を採用し、ソニー製の高音質ステレオイヤホン「MDR-E0931」が付属する。2006年秋モデル同様4機種ともに「グローバルエキスパート」（au ICカード）に対応し、外部メディアはW44S以外の3機種がmicroSDカードを使用する\[32\]。
+
+| 機器名     | 備考                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DRAPE   | ARM9Eプロセッサはそのままに新開発の[米国クアルコム社製](https://ja.wikipedia.org/wiki/クアルコム "wikilink")「MSM6800」チップセットを搭載。1X EV-DO Rev.Aに対応し、最大3.1Mbpsの通信や[テレビ電話](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")（au初）が利用可能。愛称が付けられているが、「au design project」端末ではない。EZ FeliCaや[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")は搭載しない。au最後の[GPS](https://ja.wikipedia.org/wiki/GPS "wikilink")非搭載機種（ただしW65Sは後述）。 |
+| W47T    | 1X EV-DO Rev.Aに対応し最大3.1Mbpsの通信や[テレビ電話](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")（au初）が利用可能。東芝初のEZ FeliCa対応機（モバイルSuica対応）。こちらもBluetoothは搭載しない。                                                                                                                                                                                                                                                  |
+| W44K    | au向けの折りたたみ式端末最薄\[33\]を実現。                                                                                                                                                                                                                                                                                                                                                                            |
+| W44S    | 業界初、[地上デジタル音声放送](../Page/地上デジタル音声放送.md "wikilink")実用化試験（地上デジタルラジオ）と[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")の両方に対応するチューナーを搭載。EZ FeliCa（モバイルSuica対応）を利用できる。auで初めて3.0型ワイド液晶を採用。また、日本で販売されている携帯電話では初めての[Wオープン](../Page/Wオープン.md "wikilink")端末。                                                                                                                                              |
+| W43H II | W43Hのセカンドモデル。microSDカードは正式に最大2GBまでサポート\[34\]された。その他の変更点はボディカラーおよびソフトウェアの不具合の修正など。                                                                                                                                                                                                                                                                                                                    |
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:P1050556.jpg "wikilink")\]\]
+
+#### 2007年春モデル
+
+[W51CA](../Page/W51CA.md "wikilink")、[W51H](../Page/W51H.md "wikilink")、[W51K](../Page/W51K.md "wikilink")、[MEDIA SKIN](../Page/MEDIA_SKIN.md "wikilink") (W52K) 、[W51P](../Page/W51P.md "wikilink")、[W51S](../Page/W51S.md "wikilink")、[W51SA](../Page/W51SA.md "wikilink")、[AQUOSケータイ](../Page/AQUOSケータイ.md "wikilink") ([W51SH](../Page/W51SH.md "wikilink")) 、[W51T](../Page/W51T.md "wikilink")、[W52T](../Page/W52T.md "wikilink")。 W51H、W51P、W51Sを除く7機種にワンセグチューナー（内、W51SH、W51T、W52Tは地上デジタルラジオにも対応）を搭載する。また、W51CA、W51H、W51S、W51SAにはJavaアプリをBREW上で実行するツール「[オープンアプリプレイヤー](../Page/オープンアプリプレイヤー.md "wikilink")」が搭載される。EZ FeliCaもW51SHとW51Tを除く8機種に搭載し、うちW51Pを除く7機種ではFeliCaチップの容量が拡大されている。外部メディアはW51SのみメモリースティックPro Duoに対応し、それ以外の全端末はmicroSDカードに対応する。2007年春モデルには1X EV-DO Rev.Aおよび新800MHz帯に対応した端末はなく、すべて1X EV-DO Rel.0（旧800MHz帯のみ対応）である。前述の2006年冬モデル同様全てのWIN対応端末が128和音（ヤマハ製MA-7を搭載）のメロディに対応し、「3Dナビ」を利用することが可能。「PCサイトビューアー」はW51Pを除き、Flashやタブブラウズに対応する新バージョンとなった。また法改正に伴い、春モデル以降の機種は[緊急通報位置通知](../Page/緊急通報位置通知.md "wikilink")に対応している。この2007年春モデル以降、全機種が**Flash Lite2.0**に標準対応した。
+
+| 機器名               | 備考                                                                                                                                                                                                                                                                                                                                                   |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| W51CA             | IPS方式の液晶を搭載し、ワンセグ視聴時間は業界最長の5時間30分を実現した2軸ヒンジ端末。大ヒットモデルW41CAの後継機で、W41CAでは非搭載だったサブディスプレイが搭載されている。内側のデザインがW21CA/CA IIをベースにしている。                                                                                                                                                                                                                          |
+| W51H              | 2.9型ワイドVGA液晶や指紋センサを搭載する2軸ヒンジ端末。PCサイトユーザー向けで、ワンセグは非搭載。                                                                                                                                                                                                                                                                                                |
+| W51K              | ウーファー付き充電台が付属し、携帯電話向けの音質向上技術"[BBE M3](http://bbesound.jp/techbbem3/)"に対応する2軸ヒンジ端末。W43Kの後継機。ワンセグにも対応。                                                                                                                                                                                                                                                 |
+| MEDIA SKIN (W52K) | メインディスプレイに有機ELを採用した、フリップ型のau design project端末。                                                                                                                                                                                                                                                                                                       |
+| W51P              | C3003P以来のパナソニック製au端末。間接照明と非対称のデザインを採用し、auで初めてワンプッシュオープン機構を搭載した折り畳み端末。女性ユーザー向け。                                                                                                                                                                                                                                                                       |
+| W51S              | イルミネーションや電子コンパス搭載の折り畳み端末。W43Sの発展型。                                                                                                                                                                                                                                                                                                                   |
+| W51SA             | IPS方式の液晶を搭載し、FMトランスミッタや1GBのメモリを搭載したスライド型端末。                                                                                                                                                                                                                                                                                                          |
+| W51SH             | 3.0型ワイド[QVGA](https://ja.wikipedia.org/wiki/QVGA "wikilink")液晶を搭載し、テレビ出力にも対応するサイクロイド型端末。通称「AQUOSケータイ」。                                                                                                                                                                                                                                               |
+| W51T              | カメラ機能と3D表示機能に関しては後述のW52Tとほぼ共通のスペックを持った2軸ヒンジ端末。ワンセグ対応の廉価機種である。ただしBluetoothは未搭載。                                                                                                                                                                                                                                                                       |
+| W52T              | 3.0型ワイド[VGA](https://ja.wikipedia.org/wiki/VGA "wikilink")液晶を搭載したスライド型端末。W44T / TiMO W44T II / LEXUS W44T IIIと共通の[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")対応レシーバーリモコンに対応するものの、付属せず別売となる。テレビ出力に対応し1GBのメモリを搭載。カメラは東芝製のau向け端末としては初めて、手振れ軽減機能やオートフォーカス対応の324万画素CMOSセンサーを採用する。3Dグラフィックアクセラレータには新開発の「MOBILE TURBO T5GP」（TC35296）を搭載。 |
+
+#### 2007年夏モデル
+
+[W52CA](../Page/W52CA.md "wikilink")、[W53CA](../Page/W53CA.md "wikilink")、[W52H](../Page/W52H.md "wikilink")、[W52P](../Page/W52P.md "wikilink")、[W52S](../Page/W52S.md "wikilink")、[W52SA](../Page/W52SA.md "wikilink")、[W53SA](../Page/W53SA.md "wikilink")、[W52SH](../Page/W52SH.md "wikilink")、[W53T](../Page/W53T.md "wikilink")、[W54T](../Page/W54T.md "wikilink")、[W44K II](../Page/W44K.md "wikilink")。 W44K IIを除きEZ FeliCaやLISMOビデオクリップに対応し、W53CA、W52P、W52S、W44K IIを除く7機種にワンセグチューナー（内、W52H、W54Tは地上デジタルラジオにも対応）を搭載する。2007年春モデル同様1X EV-DO Rev.Aに対応した端末はなく（このうちW52PとW53SAは新800MHz帯も非対応）、すべてmicroSDカードに対応し\[35\]W44K IIとW52SHを除く10機種がオープンアプリプレイヤーを利用することができる。
+
+| 機器名     | 備考                                                                                                                                                                                             |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| W52CA   | 2軸ヒンジ型ながら[IPX5/IPX7相当の](../Page/電気機械器具の外郭による保護等級.md "wikilink")[防水](../Page/防水.md "wikilink")性能を持つワンセグケータイ。                                                                                    |
+| W53CA   | 通称**EXILIMケータイ**。携帯電話内蔵カメラとしては最高クラスの515万画素CMOSカメラを搭載する。                                                                                                                                        |
+| W52H    | W43Hの発展型。ワンセグや地上デジタルラジオにも対応する。W51Hとは違い2.9インチワイド液晶だがワイドQVGAである。                                                                                                                                 |
+| W52P    | W51Pの発展型。W51Pでは非対応だったオープンアプリプレイヤーやauケータイクーポンに対応している。「+Panel（プラスパネル）」を用いて着せ替えも可能。                                                                                                               |
+| W52S    | W42Sの後継モデルで、au向けウォークマンケータイの2号機。内蔵メモリはW42Sの約2倍の2GBに、連続再生時間も最大約110時間に拡大されている。                                                                                                                    |
+| W52SA   | W33SA/W33SA IIの発展型。薄さ18.7mmの回転2軸型でワンセグやAF付き2メガピクセルカメラを搭載する。                                                                                                                                    |
+| W53SA   | 鳥取三洋電機初のワンセグ対応WIN端末。W52CAと同じく[IPX5/IPX7相当の防水性能を持つ](../Page/電気機械器具の外郭による保護等級.md "wikilink")。                                                                                                    |
+| W52SH   | サイクロイドスタイルを採用したW51SHから一転し、ワンセグ対応はそのままに回転2軸スタイルを採用する。シャープ製au端末としては初めてAF付きカメラとEZ FeliCaを搭載。                                                                                                      |
+| W53T    | 楔形の18mm回転2軸ボディスタイルを持つ。10月にカラーバリエーションが2色追加し、全5色展開となる。                                                                                                                                           |
+| W54T    | W52Tの発展型。トヨタ自動車が提供する[テレマティクス](../Page/テレマティクス.md "wikilink")サービス「[G-BOOK mX](../Page/G-BOOK.md "wikilink")」を正式にサポート。また、本機のワンセグチューナーは外部出力にも対応した。これにより手持ちの家庭用TVモニターに接続してワンセグ放送を大画面で楽しむことが可能になった。 |
+| W44K II | W44Kのセカンドモデル。ボディカラーやキーデザインに変更がある。またワンタッチ発信機能を搭載するほか、アドレス帳の登録件数が最大1,000件に増加している。                                                                                                                |
+
+#### 2007年冬モデル
+
+[W53S](../Page/W53S.md "wikilink")、[INFOBAR2](https://ja.wikipedia.org/wiki/INFOBAR2 "wikilink") (W55SA)。 、[W53K](../Page/W53K.md "wikilink")、[W53H](../Page/W53H.md "wikilink")、[W55T](../Page/W55T.md "wikilink")、[W54S](../Page/W54S.md "wikilink")、[W54SA](../Page/W54SA.md "wikilink")、[W56T](../Page/W56T.md "wikilink") W53SとW55Tは[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")に非対応。また全機種が「LISMOビデオクリップ」に対応し、W53K、W55Tを除く機種がEZ FeliCaに対応する。外部メディアはW53Sを除き全機種がmicroSDカードに対応する\[36\]。W55Tには[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")の「[みんなのGOLF](https://ja.wikipedia.org/wiki/みんなのGOLF "wikilink")モバイル 体験版」がプリインストールされている。 2007年冬モデル以降、EZ FMの非搭載やスピーカーのモノラル化など、開発コストが削減された仕様となった。また既存のサービスのひとつである「**Hello Messenger**」はW53Sを除く2007年秋冬モデル以降は非搭載となり、サービスも2009年8月で終了した。
+
+| 機器名              | 備考                                                                                                                                                                                                                                                                                                                    |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| W53S             | \+JOG（プラスジョグ）を搭載。外部メディアにメモリースティックPro Duoを用いた最後の端末であり\[37\]、最後の「Hello Messenger」対応端末でもある。                                                                                                                                                                                                                              |
+| W53H             | ワンセグチューナーを搭載する。通称「Woooケータイ」。ボディカラーはユーロパープルに限り[マジョーラ](../Page/マジョーラ.md "wikilink")塗装が用いられており、W43H以来、マジョーラ塗装が復活した。回転2軸としては世界最薄の14.2mmである。画面には2.8インチのワイドQVGA有機ELを採用しておりワンセグチューナー用のアンテナは本体に内蔵されている。                                                                                                                       |
+| INFOBAR2 (W55SA) | ワンセグチューナーを搭載した、ストレート型のau design project端末。EZ FeliCaに対応し画面には2.6インチのワイドQVGA有機ELを採用する。前述のW53H同様ワンセグチューナー用のアンテナは本体に内蔵されている。製造は初代と同じく鳥取三洋電機。                                                                                                                                                                               |
+| W53K             | デザインはW44K/K IIをベースにワンセグチューナーを搭載した端末。回転2軸型であるが薄型。                                                                                                                                                                                                                                                                      |
+| W55T             | 1X WIN端末としては9.9mm\[38\]という薄さの[クレジットカード](../Page/クレジットカード.md "wikilink")サイズの折りたたみ式端末。ただし、クレジットカードサイズを謳っているがおサイフケータイ非対応である。                                                                                                                                                                                             |
+| W54S             | ワンセグ、Bluetooth、「KCP+」 (KCP2.0) 等に対応。ほぼ全部入り。デザインが後述の**W56T**に類似しており、実質的にW56Tの兄弟機にあたる。画面には[韓国](../Page/大韓民国.md "wikilink")[サムスンSDI](https://ja.wikipedia.org/wiki/サムスンSDI "wikilink")社製の2.8インチワイドQVGA有機ELを採用。                                                                                                           |
+| W54SA            | ワンセグ、Bluetooth、「KCP+」 (KCP2.0) 等に対応。ほぼ全部入りで3.0インチのワイドVGA・IPS液晶やスムースタッチ機能などが搭載されている。三洋電機初の3.2メガAF付きカメラを搭載しており、同社のau向けの2005年冬モデルであるW33SA以来の[フラグシップ端末となる](https://ja.wikipedia.org/wiki/フラグシップモデル "wikilink")。なお後述のW61SAを含む「KCP+」対応の三洋機の場合、これまでの三洋機と異なり[AAC](../Page/AAC.md "wikilink")方式のICレコーダーやSD-Audioには対応しない。スライド式。 |
+| W56T             | 前述のW54SAと並ぶ全部入りのフラグシップ端末。画面には韓サムスンSDI社製の2.8インチワイドQVGA有機ELを採用。前述の**W54S**とは兄弟機の関係にあたる。[V603T](../Page/V603T.md "wikilink")以来のリバーシブルスタイル採用。                                                                                                                                                                             |
+
+#### 2008年春モデル
+
+AQUOSケータイ ([W61SH](https://ja.wikipedia.org/wiki/W61SH "wikilink")) 、[W61K](../Page/W61K.md "wikilink")、[W61P](../Page/W61P.md "wikilink")、[W61CA](../Page/W61CA.md "wikilink")、Cyber-Shotケータイ ([W61S](../Page/W61S.md "wikilink")) 、[W62S](https://ja.wikipedia.org/wiki/W62S "wikilink")、[W61H](../Page/W61H.md "wikilink")、[W61SA](../Page/W61SA.md "wikilink")、[W62SA](../Page/W62SA.md "wikilink")、[W61T](https://ja.wikipedia.org/wiki/W61T "wikilink")、[W61PT](../Page/W61PT.md "wikilink")。 前年冬モデルのW54S、W54SA、W56Tを含む「[KCP+](../Page/KCP+.md "wikilink")」 (KCP2.0) を採用した機種（今回はW61S、W61SA、W61Tが該当）はクアルコム社製のEV-DO Rev.A対応最新チップセット「**MSM7500**」（プロセッサ部の最大クロック周波数・約600MHz）が搭載され、[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")、「LISMO Port」等の機能と「LISMO Video\[39\]」に対応する。また、W61Tを除くKCP+対応機種ではテレビ電話を利用することができる。 全機種が[microSD](https://ja.wikipedia.org/wiki/microSD "wikilink")カードや「オープンアプリプレイヤー」、「LISMOビデオクリップ」、「LISMO」に対応する。W61T、W61S、W61SAの3機種が、圧縮で発生する音のゆがみを補正し、原音に近づける高音質再現エンジン「**net K2**」を搭載する\[40\]。「au Smart Sports『Run\&Walk』」はW61T、W61CA、W61S、W61SA、W62SAの5機種にプリインストールされ、残りの機種は別途ダウンロードにて対応する。なおW61K、W62S、W61PTの3機種はワンセグには非対応で、「絵しゃべりメール」はW61PTを除く全機種が対応。EZ FeliCaに対応した端末のうち、W61T、W61S、W62Sの3機種には[モバイルSuica](../Page/モバイルSuica.md "wikilink")用アプリがプリインストールされている。 なお、[KCP+](../Page/KCP+.md "wikilink")の開発の大幅な遅れにより、W54SA、W54S、W56Tは当初の予定である2007年秋冬に発売できなかったため、型番と販売年とのずれが生じた。 CA/H/SAについてはこのときに発売されたモデルが最後の[KCP+](../Page/KCP+.md "wikilink")非搭載モデルとなった（2009年11月現在）。
+
+| 機器名   | 備考                                                                                                                                                                                                                                                                 |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| W61SH | auのAQUOSケータイ第2弾。W51SHと比較すると小型化したものの、新開発の「リフレクトバリアパネル」を用いた2.8インチWQVGA液晶やステンレス製の背面パネルを採用しEZ FeliCaやシャープ製のau向け端末としては初めてオープンアプリプレイヤーや[フェイク着信](https://ja.wikipedia.org/wiki/フェイク着信 "wikilink")が利用可能となった。                                                               |
+| W61T  | スポーティーでカジュアルなイメージをコンセプトとする折りたたみ式端末で「KCP+」やワンセグ、[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")、EZ FeliCaに対応。テレビ電話や本体内の大容量フォルダ（メモリ）には非対応で実質的にはW56Tの廉価版にあたる。「リバーシブルスタイル」は採用しておらず、スピーカーはステレオではなくモノラルである。ワンセグ受信用アンテナは本体に内蔵され、FeliCaポートは本体の背面パネル内に内蔵する。 |
+| W61SA | au初のフルフロントデザイン（フルスライド式）端末。世界初搭載の3.0インチワイドQVGA・有機ELが採用されており、「KCP+」やワンセグ、Bluetoothには対応するがW54SAと異なり本体内の大容量フォルダやEZ FeliCa等が省略され、代わりにFMトランスミッターが搭載される。前述のW61T同様スピーカーはモノラル。                                                                                              |
+| W62SA | W53SAの発展型。W53SA同様防水機能に対応しステレオスピーカーを搭載するがW53SAと異なりEZ FeliCaには非対応。W61SA同様FMトランスミッターを搭載。SD-Audio (AAC) に対応。                                                                                                                                                           |
+| W61H  | 背面パネルに日本初の[電子ペーパー](https://ja.wikipedia.org/wiki/電子ペーパー "wikilink")ディスプレイを用いたワンセグチューナー対応端末。ただしW53Hと違いワンセグ機能に特化した端末でないため、Woooケータイの名称は付かない。SD-Audio (AAC) に対応。W53H同様ワンセグ受信用アンテナは本体に内蔵。                                                                               |
+| W61CA | W52CAの防水機能とW53CAの5メガピクセルAFカメラを組み合わせたワンセグチューナー対応端末。待ち受け画面にはW51CAからアニメーションデータが更新された「[アデリーペンギン](../Page/アデリーペンギン.md "wikilink")」がプリセットされ、ほかには[カツオ](../Page/カツオ.md "wikilink")の「ボニット」もEZケータイアレンジデータとしてプリセットされている。SD-Audio (AAC) に対応。                                   |
+| W61P  | au向けのワンセグチューナー対応端末としては12.9mmと薄い。[ドコモ向け端末](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")「[P705i](../Page/P705i.md "wikilink")」のau版との見方も。ワンプッシュオープン機構は引き続き採用。SD-Audio (AAC) に対応。                                                                                  |
+| W61PT | [パンテック&キュリテル](../Page/パンテック&キュリテル.md "wikilink")初の1X WIN対応端末。20 - 30歳台の女性ユーザーをターゲットにしたコンパクトでエレガントなスライド式端末。薄さ14.2mmと2008年1月現在の時点でau向けのスライド式端末としては最薄。EZ FeliCaには非対応。充電（給電）用およびデータ通信用の接続用端子はイヤホンマイク/ヘッドホン接続用平型端子と共用になっているため、専用のコネクター用変換アダプターが付属する。                    |
+| W61K  | フレンドリーデザインを採用し、EZ FeliCaやフェイク着信に対応したオーソドックスな折りたたみ式端末。基本的にW44K/K IIおよびA5526Kがベースとなっているが、主に20 - 30歳台の女性ユーザーをターゲットにした端末で女性ユーザーが日常的に使いやすくするという理由でベース機のW44K/K IIに対し本体はある程度厚みを持たせている\[41\]。なお、LISMOビデオクリップには対応するが、EZ FMには非対応。                                            |
+| W61S  | 通称[Cyber-shot](https://ja.wikipedia.org/wiki/Cyber-shot "wikilink")ケータイ。光学3倍ズームや顔検出機能の5MピクセルのAFカメラを搭載しテレビ電話、ワンセグ、Bluetoothなどに対応したほぼ全部入りの端末。スライド式。2008年春モデルの端末中、薄さが22mm（最厚部は24mm）と最も厚い。スピーカーは本体の上下にセットされており、本体を水平にした時にステレオ音声を効果的に再生する。                              |
+| W62S  | 1X WIN初のグローバルパスポート[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")\[42\]対応端末。背面パネルの一部に[ジュラルミン](../Page/ジュラルミン.md "wikilink")が用いられている。フェイク着信にも対応。                                                                                                                |
+
+#### 2008年夏モデル
+
+[フルチェンケータイ re](../Page/フルチェンケータイ_re.md "wikilink") (W63S) 、[G'zOne](https://ja.wikipedia.org/wiki/G'zOne "wikilink")（[W62CA](../Page/W62CA.md "wikilink")）、Woooケータイ ([W62H](../Page/W62H.md "wikilink")) 、[W63SA](../Page/W63SA.md "wikilink")、[W64SA](../Page/W64SA.md "wikilink")、[W62SH](../Page/W62SH.md "wikilink")、[W62T](../Page/W62T.md "wikilink")、[Sportio](../Page/Sportio.md "wikilink") (W63T) 、[W62K](../Page/W62K.md "wikilink")、[W63K](../Page/W63K.md "wikilink")、[W64K](../Page/W64K.md "wikilink")、簡単ケータイ ([W62PT](../Page/W62PT.md "wikilink")) 。W62K、W63K、W64K、W62PTを除く残りの8機種がEV-DO Rev.Aと「KCP+」(KCP2.0) に対応。W62K、W63K、W62PTはEZ「着うたフル」および「LISMOビデオクリップ」等の音楽再生機能 (LISMO Music) に非対応。W63SおよびW62CA、W63SAに限りステレオスピーカーを搭載する。W63SAのみ「[グローバルパスポート](https://ja.wikipedia.org/wiki/グローバルパスポート "wikilink")CDMA」に対応。なお、2008年夏モデル以降のEV-DO Rev.Aと「KCP+」対応機種より、全国のauショップまたはPiPitで、無償でユーザーの好みに合わせた[UIにカスタマイズする事が可能な新サービスの](../Page/ユーザインタフェース.md "wikilink")「ナカチェン」を利用することができる。さらにW63Sは上記の「ナカチェン」に加え、全国のauショップやPiPitで有料でユーザーの好みに合わせた端末の外装に交換出来る新サービスの「ソトチェン」にも対応する。SD-Audio (AAC) に対応した機種は2008年夏モデルでは1機種も存在しない。パナソニックの端末のリリースは開発および発売サイクルの都合で見送られた。
+
+#### 2008年冬モデル
+
+EXLIMケータイ ([W63CA](https://ja.wikipedia.org/wiki/W63CA "wikilink")) 、Woooケータイ ([W63H](https://ja.wikipedia.org/wiki/W63H "wikilink")) 、[URBANO](https://ja.wikipedia.org/wiki/URBANO "wikilink") (W63SH) 、AQUOSケータイ ([W64SH](https://ja.wikipedia.org/wiki/W64SH "wikilink")) 、[W64T](https://ja.wikipedia.org/wiki/W64T "wikilink")、[W65T](https://ja.wikipedia.org/wiki/W65T "wikilink")、[W63K](../Page/W63K.md "wikilink")カメラなしモデル、[W65K](https://ja.wikipedia.org/wiki/W65K "wikilink")、[W64S](https://ja.wikipedia.org/wiki/W64S "wikilink")、[W62P](https://ja.wikipedia.org/wiki/W62P "wikilink")（[島耕作ケータイを含む](../Page/課長島耕作.md "wikilink")）、[Walkman Phone, Xmini](https://ja.wikipedia.org/wiki/Xmini "wikilink") (W65S) 。W63CA、W64SH、W64T、W65T、W63H、W65Sの6機種はEV-DO Rev.Aと「KCP+」 (KCP2.0) に対応し、その内、W64Tを除きBluetoothに対応。それ以外の機種はW63Kカメラなしモデルを除きLISMOビデオクリップを含むLISMO Musicに対応。さらにW65TとW65Sは[AAC](../Page/AAC.md "wikilink")・320kbpsによる高音質の携帯電話向け新音楽配信サービスのEZ「着うたフルプラス」に対応。また、W65Kに限り外部メディアとして4GBまでの[microSDHCカードを利用できる](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")。ワンセグチューナーおよびEZ FelicaはW63Kカメラなしモデルを除く全機種に搭載。パンテックおよび京セラのSANYOブランドの端末のリリースは開発サイクルの都合で見送られた。W65SのみGPS機能はユーザーからもサイト管理者・アプリ開発者からも利用できない。
+
+| 機器名            | 備考                                                                                                                                                                                                                                                                                |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| URBANO (W63SH) | エルダーからシニア層向けの高機能端末。LISMO Music（EZ「着うたフル」、「LISMOビデオクリップ」）やワンセグ、EZ FeliCaなどに対応する。                                                                                                                                                                                                   |
+| W64T           | W62Tの発展型。女性ユーザー向けに特化した端末で基本的な機能と対応サービスはW62Tとほぼ同一。                                                                                                                                                                                                                                 |
+| W62P           | W61Pの発展型。上記のW64T同様、女性ユーザー向けに特化した端末で基本的な機能と対応サービスはW61Pと同一で2008年秋冬モデルとしては唯一、SD-Audio（AACファイル専用）に対応。また、本端末の限定モデルにあたる「島耕作ケータイ」が存在する。                                                                                                                                                  |
+| W64S           | W62Sに続くグローバルパスポートGSM対応端末第2弾。ワンセグ、3.2Mカメラを搭載し、auソニー・エリクソン端末初の2軸ヒンジ折りたたみ式を採用。                                                                                                                                                                                                       |
+| W65K           | 同キャリア向けとしては初のmicroSDHCカードに対応した端末。それ以外の機能としてワンセグチューナーおよびEZ Felica、IPX5／IPX7相当の防水機能などに対応。本体色は3色あり、それぞれの色ごとに端末のデザインおよび寸法などが異なる。                                                                                                                                                      |
+| W63CA          | EXILIMケータイとしては第2世代にあたる端末。国内向け携帯電話としては最高クラスの[スペックである](https://ja.wikipedia.org/wiki/性能 "wikilink")8.1Mカメラを搭載している（2008年12月現在）。今回よりワンセグチューナーおよびKCP+、Bluetoothなどを搭載し、更に本端末のムービー機能で録画した動画ファイルは専用のアプリを利用することで[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")へ容易に投稿することもできる。 |
+| W63H           | Woooケータイとしては第3世代にあたる端末。W53HやW61H同様、2軸ヒンジの折りたたみ式ボディを採用し、Woooケータイとしては初採用となるオートフォーカス対応の5.0Mカメラを搭載。                                                                                                                                                                                   |
+| W64SH          | 同キャリア向けのAQUOSケータイとしては第3世代にあたる端末。AQUOSケータイ史上初のフルスライドボディを採用し、3.5インチのFWVGA大型液晶および光タッチクルーザー、オートフォーカス対応5.2Mカメラ、FMトランスミッター、モーションセンサー、ステレオスピーカーなどの各機能が搭載される。また、モーションセンサーを利用したEZアプリ（BREW）やEZアプリ「Full Game\!」にも対応する。                                                                       |
+| W65T           | 業界初のEZ「着うたフルプラス」に対応したスライド式のハイエンド端末。                                                                                                                                                                                                                                               |
+| W65S           | 「Walkman Phone, Xmini」の名を持つ音楽再生機能に特化した非常にコンパクトなスライド式の音声用端末。W55T同様、充電台は添付されない。                                                                                                                                                                                                     |
+
+#### 2009年春モデル
+
+[Walkman Phone, Premier<sup>3</sup>](https://ja.wikipedia.org/wiki/Premier3 "wikilink") (SOY01) 、Cyber-shotケータイ ([S001](https://ja.wikipedia.org/wiki/S001 "wikilink") (SO001) ) 、Woooケータイ ([H001](https://ja.wikipedia.org/wiki/H001 "wikilink") (HI001) ) 、[CA001](https://ja.wikipedia.org/wiki/CA001 "wikilink")、[安心ジュニアケータイ](../Page/ジュニアケータイ.md "wikilink") ([K001](https://ja.wikipedia.org/wiki/K001 "wikilink") (KY001) ) 、フルチェンケータイ ([T001](https://ja.wikipedia.org/wiki/T001 "wikilink") (TS001) ) 、[P001](https://ja.wikipedia.org/wiki/P001 "wikilink") (MA001) 、[SH001](https://ja.wikipedia.org/wiki/SH001 "wikilink")。今回より型番が一新され従来のWIN端末の「W00xx」から「xx000」（xxはメーカー名）に変更され、端末の「WIN」のロゴが廃止された。さらに、旧型番は年が変わるごとに十の位の数字が増えていくルールだったが、新型番では年に関係なくメーカーごとの通し番号となる（例としてカシオ製端末なら1機種目は「CA001」、2機種目は「CA002」）。[京セラ](../Page/京セラ.md "wikilink")機を除く音声用端末は、EV-DO Rev.AならびにKCP+、EZ「着うたフル」を含むLISMOなどの音楽再生機能に対応し、従来のEV-DO Rel.0に対応した音声用端末は京セラ機（今回はK001が該当）のみである。SOY01 (Walkman Phone, Premier<sup>3</sup>) およびSOY02 (BRAVIA Phone U1) を除く2009年春モデルより充電用卓上スタンドやイヤホンマイク、データ通信用USBケーブルなどが全機種において付属しなくなった。充電用卓上スタンドなどが必要なユーザーはauショップや家電量販店などで別途購入する必要がある。
+
+| 機器名                                       | 備考                                                                                                                    |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Walkman Phone Premier<sup>3</sup> (SOY01) | 2代目Walkman Phone。ウォークマンケータイとしても初の折り畳み・デュアルオープン端末。                                                                     |
+| Cyber-shotケータイ S001                       | 2代目Cyber-shotケータイ。光学ズームはなくなったが代わりに超解像ズームを搭載し、画素数は808万画素にスペックアップした。また、au端末として初のグローバルパスポートGSM/CDMA両ローミングエリアに対応した端末でもある。 |
+| Woooケータイ H001                             | 2wayオープン機構を備え、携帯業界として初の3D液晶を搭載する端末。                                                                                   |
+| CA001                                     | au初のタッチパネル搭載機。プリセットされているTouch Sessionを利用する事で端末を楽器として使う事ができる。                                                          |
+| 安心ジュニアケータイ K001                           | 2年振りとなる児童向けの携帯端末。児童が利用する上で無駄な機能を省き、防犯ブザーを搭載。シリーズ唯一のWIN対応端末。                                                           |
+| フルチェンケータイ T001                            | 東芝製となる2代目フルチェンケータイ。先代より大幅なスペックアップが施されている。                                                                             |
+| P001                                      | 薄型ワンプッシュオープン端末。基本的には先代機種の特徴を踏襲している。                                                                                   |
+| SH001                                     | au初のProPixセンサーを搭載、W31CA以来となるCCDセンサーを搭載したカメラモデル。                                                                       |
+
+#### 2009年夏モデル
+
+[biblio](https://ja.wikipedia.org/wiki/biblio "wikilink") (TSY01) 、[T002](https://ja.wikipedia.org/wiki/T002 "wikilink") (TS002) 、G'zOne ([CA002](https://ja.wikipedia.org/wiki/CA002 "wikilink")) 、[Mobile Hi-Vision CAM Wooo](https://ja.wikipedia.org/wiki/Mobile_Hi-Vision_CAM_Wooo "wikilink") (HIY01) 、SOLAR PHONE ([SH002](https://ja.wikipedia.org/wiki/SH002 "wikilink")) 、[Sportio water beat](https://ja.wikipedia.org/wiki/Sportio_water_beat "wikilink") (SHY01) 、[K002](https://ja.wikipedia.org/wiki/K002 "wikilink") (KY002) 、簡単ケータイ ([K003](https://ja.wikipedia.org/wiki/K003 "wikilink")(KY003) ) 。biblioとT002はクイックアクセスメニューに対応した改良版の「KCP+」 (KCP2.1) および新サービスの[EZニュースEX](https://ja.wikipedia.org/wiki/EZニュースEX "wikilink")、最新版のPCサイトビューアー\[43\]にそれぞれ対応。このうちbiblio、T002、Mobile Hi-Vision CAM Wooo、K002、K003はmicroSDHCカードに対応。2009年春モデル同様、EV-DO Rev.AならびにKCP+に対応した音声用端末は京セラ機を除く納入メーカー全機種が対応。なお、biblioは新サービスの[Wi-Fi WIN](https://ja.wikipedia.org/wiki/Wi-Fi_WIN "wikilink")\[44\]、SH002のみテレビ電話をそれぞれ利用することが可能である。
+
+| 機器名                               | 備考                                                                                                                                                                                                          |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| biblio (TSY01)                    | auの個人向け端末として初のQWERTYキーボードを搭載。モーションセンサーでテンキー入力とキーボード入力を切り替えることができる。                                                                                                                                          |
+| T002                              | 防水機能を備え、さらにグローバルパスポートGSM/CDMAに両対応。                                                                                                                                                                          |
+| Mobile Hi-Vision CAM Wooo (HIY01) | ハイビジョンムービーの撮影に対応。光学3倍ズームと撮影時はビデオカメラの様に開く3wayオープンを搭載し、ムービー撮影を重視したモデル。                                                                                                                                        |
+| SOLAR PHONE SH002                 | 世界初のソーラーパネルを搭載したモデル。また、防水機能も備えている。                                                                                                                                                                          |
+| Spotio water beat (SHY01)         | 小型の防水機能付き端末。全面をタッチパネルとし、テンキーを排したモデル。                                                                                                                                                                        |
+| K002                              | 一般向けモデルとしては久々となるKCP端末。                                                                                                                                                                                      |
+| 簡単ケータイ K003                       | WIN端末として2代目となる簡単ケータイ。簡単ケータイSで搭載された電源のスイッチ切り替え式を採用。以降の簡単ケータイの土台とも言える機種となる。また、後述するS002を除くEV-DO Rel.0対応の旧KCP (KCP1.0) 端末はこの機種より新開発のクアルコム社製バリュー（エントリー）モデル向けチップセット「**QSC6075**」（プロセッサ部の最大クロック周波数・約192MHz）が搭載される。 |
+
+#### 2009年秋モデル
+
+[S002](https://ja.wikipedia.org/wiki/S002 "wikilink") (SO002) 、[SA001](https://ja.wikipedia.org/wiki/SA001 "wikilink")、[AQUOS SHOT](https://ja.wikipedia.org/wiki/AQUOS_SHOT "wikilink") ([SH003](https://ja.wikipedia.org/wiki/SH003 "wikilink")) 。S002を除く残りの全機種が「KCP+」 (KCP2.1) に対応しており、このうちSH003およびSA001はmicroSDHCカードと「LISMO Book（旧・EZブック）」を統合した「LISMO Player」に対応。また、グローバルパスポートGSMはS002のみが対応し、残りの機種はグローバルパスポートCDMAに対応する。SA001のみオープンアプリプレイヤーに非対応。
+
+| 機器名              | 備考                                                                  |
+| ---------------- | ------------------------------------------------------------------- |
+| S002             | 内部スペック等は従来に発売されたW64Sとほぼ変わらないが、外見は変更がされている。                          |
+| SA001            | W64SA以来約1年振りとなる。ワンセグ搭載のスライド式としては発売時世界最薄モデル。                         |
+| AQUOS SHOT SH003 | au端末として、初のAQUOS SHOTブランドを冠したモデル。1210万画素カメラ、3.4インチ大画面のタッチパネル液晶を搭載する。 |
+
+#### 2009年冬モデル
+
+EXLIMケータイ（[CA003](https://ja.wikipedia.org/wiki/CA003 "wikilink")、[CA004](https://ja.wikipedia.org/wiki/CA004 "wikilink")）、[SH004](https://ja.wikipedia.org/wiki/SH004 "wikilink")、[BRAVIA Phone U1](https://ja.wikipedia.org/wiki/U1_\(携帯電話\) "wikilink") (SOY02) 、[T003](https://ja.wikipedia.org/wiki/T003 "wikilink") (TS003) 。全機種がKCP+\[45\]および「LISMO Book」を統合した「LISMO Player」にそれぞれ対応しており、このうちBRAVIA Phone U1およびT003はIPX5/IPX7等級の防水機能および「カーナビ×LISMO\!」にそれぞれ対応\[46\]。また、microSDHCカードの対応に関してはCA004とSH004を除く残りの機種が対応。ただし、CA003およびBRAVIA Phone U1は「au one ガジェット」に、T003はオープンアプリプレイヤーにそれぞれ対応しない。
+
+| 機器名              | 備考                                                                            |
+| ---------------- | ----------------------------------------------------------------------------- |
+| EXILIMケータイ CA003 | 3代目EXILIMケータイ。カメラの画素数が1217万画素、液晶が3.3インチフルワイド有機ELと先代EXILIMケータイよりスペックアップした。     |
+| EXILIMケータイ CA004 | 4代目EXLIMケータイ。2代目EXLIMケータイ W63CAのスペックをほぼ踏襲しデザインを変更したモデル。EXLIMケータイ CA003の廉価モデル。 |
+| SH004            | EXLIMケータイ CA004と同じく先に登場したAQUOS SHOT SH003の廉価モデルであり、こちらはSH001のデザイン変更モデル。       |
+| BRAVIA Phone U1  | auとしては初、国内機種としてはdocomoのSO906i以来となるBRAVIAブランドのモデル。防水機能付き。                      |
+| T003             | 防水モデルとして登場時世界最薄のモデル。基本的にはT002をベースとし、一部の機能を変更している。                             |
+
+#### 2010年春モデル
+
+簡単ケータイ ([K004](https://ja.wikipedia.org/wiki/K004 "wikilink") (KY004) ) 、[URBANO BARONE](https://ja.wikipedia.org/wiki/URBANO_BARONE "wikilink") (SOY03) 、[SH005](https://ja.wikipedia.org/wiki/SH005 "wikilink")、AQUOS SHOT ([SH006](https://ja.wikipedia.org/wiki/SH006 "wikilink")) 、[mamorino](https://ja.wikipedia.org/wiki/mamorino "wikilink") (KYY01) 。mamorinoを除く全機種がmicroSDHCカードに対応。SH006のみWi-Fi WINを利用することができる。SH005はau向け端末としては初の7色のカラーバリエーションを同時展開する機種である。「au one ガジェット」に対応する機種はない。オープンアプリプレイヤーはURBANO BARONEのみ対応する。また、「カーナビ×LISMO\!」はURBANO BARONEおよびSH006が対応する。
+
+#### 2010年夏モデル
+
+[beskey](https://ja.wikipedia.org/wiki/beskey "wikilink") (HIY02) 、EXLIMケータイ ([CA005](https://ja.wikipedia.org/wiki/CA005 "wikilink")) 、Cyber-shotケータイ ([S003](https://ja.wikipedia.org/wiki/S003 "wikilink") (SO003) ) 、BRAVIA Phone ([S004](https://ja.wikipedia.org/wiki/S004 "wikilink") (SO004) ) 、[SA002](https://ja.wikipedia.org/wiki/SA002 "wikilink")、SOLAR PHONE ([SH007](https://ja.wikipedia.org/wiki/SH007 "wikilink")) 、AQUOS SHOT ([SH008](https://ja.wikipedia.org/wiki/SH008 "wikilink")) 、REGZA Phone ([T004](https://ja.wikipedia.org/wiki/T004 "wikilink") (TS004) ) 、[K006](https://ja.wikipedia.org/wiki/K006 "wikilink") (KY006) 、簡単ケータイ ([K005](https://ja.wikipedia.org/wiki/K005 "wikilink") (KY005) ) 、簡ケータイS ([PT001](https://ja.wikipedia.org/wiki/PT001 "wikilink")) 。このモデル以降より全機種が[auフェムトセル](../Page/フェムトセル.md "wikilink")（宅内用小型基地局）およびIPX5/IPX7等級の防水機能を標準でサポートし\[47\]、PT001のみ外部メモリに非対応で残りの機種が全てmicroSDHCカードに対応。SH008、S004、T004はWi-Fi WINに対応（ただしS004、T004は別途microSDIOカード型のWi-Fi WINカードが必要）。S004およびT004にはモバイル機器用プロセッサの[Snapdragon](https://ja.wikipedia.org/wiki/Snapdragon "wikilink") (QSD8650 1GHz) と最新プラットフォームの[KCP3.0](https://ja.wikipedia.org/wiki/KCP3.0 "wikilink")が搭載される。また、KCP+ (KCP2.1) およびKCP3.0搭載機種全てにおためし用アプリとして『[ドラゴンクエストIII そして伝説へ…](../Page/ドラゴンクエストIII_そして伝説へ….md "wikilink")』がプリセットされる。オープンアプリプレイヤーはSA002のみ対応。なお、[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")はKCP+およびKCP3.0搭載機種全てが対応している。端末本体の付属品として添付されたPC接続用ドライバ、およびPC用LISMO対応機種向け管理ソフト等のセットアップデータが収録された[CD-ROM](../Page/CD-ROM.md "wikilink")はこの夏モデルより廃止された。
+
+#### 2010年冬モデル
+
+[G'z One TYPE-X](https://ja.wikipedia.org/wiki/G'z_One_TYPE-X "wikilink") (CAY01) 、EXILIMケータイ（[CA006](https://ja.wikipedia.org/wiki/CA006 "wikilink")、BRAVIA Phone ([S005](https://ja.wikipedia.org/wiki/S005 "wikilink") (SO005) ) 、[URBANO MOND](https://ja.wikipedia.org/wiki/URBANO_MOND "wikilink") (SOY04) 、[SH009](https://ja.wikipedia.org/wiki/SH009 "wikilink")、AQUOS SHOT ([SH010](https://ja.wikipedia.org/wiki/SH010 "wikilink")) 、K006カメラなしモデル (KY006 Z) 、[T005](https://ja.wikipedia.org/wiki/T005 "wikilink") (TS005) 。K006カメラなしモデルを除く全機種がmicroSDHCカードに対応し、S005のみKCP3.1および下り9.2Mbps／上り5.5Mbpsの高速マルチキャリアデータ通信によるWIN HIGH SPEED (CDMA2000 1xEV-DO MC-Rev.A (EV-DO MC) ) に対応する。
+
+#### 2011年春モデル
+
+Cyber-Shotケータイ ([S006](https://ja.wikipedia.org/wiki/S006 "wikilink") (SO006) ) 、[K007](https://ja.wikipedia.org/wiki/K007 "wikilink") (KY007) 、簡単ケータイ ([K008](https://ja.wikipedia.org/wiki/K008 "wikilink") (KY008) )、[SH011](https://ja.wikipedia.org/wiki/SH011 "wikilink")、[T006](https://ja.wikipedia.org/wiki/T006 "wikilink") (TS006) 、[PT002](https://ja.wikipedia.org/wiki/PT002 "wikilink")。全機種がmicroSDHCカードに対応し、S006とT006はKCP3.1およびWIN HIGH SPEEDに対応。T006に限り[LISMO WAVEおよびEZアプリ](https://ja.wikipedia.org/wiki/LISMO_WAVE "wikilink") (J) を利用することができ、K008に限りIPX5/IPX7等級の防水機能のほか、防塵機能もサポートする。
+
+#### 2011年夏モデル
+
+[CA007](https://ja.wikipedia.org/wiki/CA007 "wikilink")、[S007](https://ja.wikipedia.org/wiki/S007 "wikilink") (SO007) 、[T007](https://ja.wikipedia.org/wiki/T007 "wikilink") (TS007) 、[T008](https://ja.wikipedia.org/wiki/T008 "wikilink") (TS008) 、[K009](https://ja.wikipedia.org/wiki/K009 "wikilink") (KY009) 、簡単ケータイ ([K010](https://ja.wikipedia.org/wiki/K010 "wikilink") (KY010) ) 、見守り歩数計 [Mi-Look](https://ja.wikipedia.org/wiki/Mi-Look "wikilink") (KYY03)。K010、およびMi-Lookを除く全機種がKCP3.2およびWIN HIGH SPEED、EZアプリ (J) に対応。S007およびT007はWi-Fi WINに対応する（さらに前者はEZ・FM、後者はLISMO WAVEに対応する）。Mi-Lookは既存のmamorinoシリーズをベースに再設計・再開発された防犯用の機種で[歩数計](../Page/歩数計.md "wikilink")が搭載されているのが特徴であり、70代以上の男女の老齢者を対象としている。またK010、およびMi-LookはKCPおよびCDMA2000 1xEV-DO Rel.0対応機種である。
+
+#### 2011年冬モデル
+
+[URBANO AFFARE](https://ja.wikipedia.org/wiki/URBANO_AFFARE "wikilink") (SOY05) 、[F001](https://ja.wikipedia.org/wiki/F001 "wikilink") (FJ001) 。全機種が防水およびKCP3.2、WIN HIGH SPEED、EZアプリ (J) に対応。F001では[USB マイクロBコネクタを採用した](../Page/ユニバーサル・シリアル・バス.md "wikilink")。
+
+#### 2012年夏モデル
+
+[K011](https://ja.wikipedia.org/wiki/K011 "wikilink") (KY011) 、簡単ケータイ（[K012](https://ja.wikipedia.org/wiki/K012 "wikilink") (KY012 ) )、[PT003](https://ja.wikipedia.org/wiki/PT003 "wikilink")。K011のみKCP3.2およびWIN HIGH SPEED、EZアプリ (J) 、LISMO Playerに対応。PT003のみmicro-SIMタイプのau ICカードを用いる（auフィーチャーフォンとしては初採用）。ワンセグ（K011のみ録画/再生機能対応）およびおサイフケータイはK012を除き全て対応。また、このモデルよりL800MHz（旧800MHz）帯にすべて非対応となった。
+
+#### 2013年春モデル
+
+| 機器名                                                                     | 備考 |
+| ----------------------------------------------------------------------- | -- |
+| [mamorino3](https://ja.wikipedia.org/wiki/mamorino3 "wikilink") (KYY05) |    |
+
+#### 2013年冬モデル
+
+[GRATINA](https://ja.wikipedia.org/wiki/GRATINA "wikilink") (KYY06) 、[MARVERA](https://ja.wikipedia.org/wiki/MARVERA "wikilink") (KYY08) 。この年度のモデルより納入メーカーが京セラのみとなる。KYY06はベーシックなフィーチャーフォンでありながらワンセグ（録画/再生機能非対応）やBluetoothなどの機能に対応している。ただしLISMO Music（「着うたフル」 & LISMOビデオクリップ）などの音楽再生機能には対応しない。一方、KYY08はKYY06の上位機種でK011同様、第1世代Snapdragon (QSD8650 1GHz) が搭載され、LISMO Music（「着うたフル/フルプラス」 & LISMOビデオクリップ）などの音楽再生機能に対応する。
+
+#### 2014年冬モデル
+
+| 機器名                                                                   | 備考 |
+| --------------------------------------------------------------------- | -- |
+| [MARVERA2](https://ja.wikipedia.org/wiki/MARVERA2 "wikilink") (KYY09) |    |
+
+#### 2015年春モデル
+
+| 機器名                                                                   | 備考 |
+| --------------------------------------------------------------------- | -- |
+| [GRATINA2](https://ja.wikipedia.org/wiki/GRATINA2 "wikilink") (KYY10) |    |
+
+#### NEW STANDARD端末
+
+| 機器名                                                                                                                                                  | 備考                                                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ベルトのついたケータイ NS01](https://ja.wikipedia.org/wiki/NS01 "wikilink") (KYX01) 、[ケースのようなケータイ NS02](https://ja.wikipedia.org/wiki/NS02 "wikilink") (PTX01) | 2009年に発売された、既存の[CDMA 1Xユーザーの受け皿を想定したベーシック系のシリーズ](../Page/CDMA_1X.md "wikilink")。全機種が従来のKCPおよびEV-DO Rel.0に対応し、LISMO Music（「着うたフル」 & LISMOビデオクリップ）などの音楽再生機能には対応しない。また、ブランドの方針としてメーカー名を表に出していない。 |
+
+#### iida端末
+
+実質的に[au design projectの後継となるデザイン重視のコンセプトモデル中心の新シリーズ](https://ja.wikipedia.org/wiki/au_design_project "wikilink")。NEW STANDARD (NS) シリーズ相当のモデルは本シリーズに吸収された。このうち、「ドッツ・オブセッション、 水玉で幸福いっぱい」、「私の犬のリンリン」、「宇宙へ行くときのハンドバッグ」の3モデルは「[iida Art Editions](https://ja.wikipedia.org/wiki/iida_Art_Editions "wikilink")」の一環として[前衛芸術家](https://ja.wikipedia.org/wiki/前衛芸術家 "wikilink")の[草間彌生](https://ja.wikipedia.org/wiki/草間彌生 "wikilink")がプロデュースした。※スマートフォンは後述
+
+##### 2009年モデル
+
+| 機器名                                                                   | 備考 |
+| --------------------------------------------------------------------- | -- |
+| [G9](https://ja.wikipedia.org/wiki/G9 "wikilink") (SOX01)             |    |
+| [misora](https://ja.wikipedia.org/wiki/misora "wikilink") (KYX02)     |    |
+| ドッツ・オブセッション                                                           |    |
+| 水玉で幸福いっぱい (TSX01)                                                     |    |
+| 宇宙へ行くときのハンドバッグ (TSX02)                                                |    |
+| 私の犬のリンリン (TSX03)                                                      |    |
+| [PLY](https://ja.wikipedia.org/wiki/PLY "wikilink") (TSX04)           |    |
+| [PRISMOID](https://ja.wikipedia.org/wiki/PRISMOID "wikilink") (KYX03) |    |
+
+##### 2010年モデル
+
+| 機器名                                                                       | 備考 |
+| ------------------------------------------------------------------------- | -- |
+| [lotta](https://ja.wikipedia.org/wiki/lotta "wikilink") (KYX04)           |    |
+| [LIGHT POOL](https://ja.wikipedia.org/wiki/LIGHT_POOL "wikilink") (TSX05) |    |
+| [X-RAY](https://ja.wikipedia.org/wiki/X-RAY_\(携帯電話\) "wikilink") (TSX06)  |    |
+
+##### 2011年モデル
+
+| 機器名                                                         | 備考 |
+| ----------------------------------------------------------- | -- |
+| [G11](https://ja.wikipedia.org/wiki/G11 "wikilink") (SOX02) |    |
+
+#### 自動車ディーラー専売端末
+
+<table>
+<thead>
+<tr class="header">
+<th><p>機器名</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/W44T.md" title="wikilink">トヨタケータイ TiMO W44T II</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/トヨタ自動車" title="wikilink">トヨタ自動車</a>との<a href="https://ja.wikipedia.org/wiki/コラボレーション" title="wikilink">コラボレーション</a>から生まれた端末。PiPitおよび全国のトヨタの各ディーラー[48]専売モデルで端末には「<strong>for TOYOTA</strong>」の文字が、また十字キーの下部にはトヨタの<a href="https://ja.wikipedia.org/wiki/コーポレートアイデンティティ" title="wikilink">CIがそれぞれ小さく表記されている</a>。auショップおよび家電量販店等では販売されない。実質的にはW44Tのセカンドモデル。また、2006年夏モデルの<strong>W44T</strong>との違いは、</p>
+<ul>
+<li>専用のデザインおよび計3色のTiMOオリジナルの本体色[49]</li>
+<li>緊急通報サービス「HELPNETケータイ」の1年間無料サービス（後述のLEXUS W44T IIIも共通）</li>
+<li><a href="../Page/着うた.md" title="wikilink">着うた</a>、<a href="https://ja.wikipedia.org/wiki/着うたフル" title="wikilink">着うたフル</a>（※）、<a href="https://ja.wikipedia.org/wiki/着メロ" title="wikilink">着メロ</a>などを1年間無料でダウンロードできる「無料コンテンツ倉庫」[50]<br />
+（※）ただし着うたフルの場合「無料コンテンツ倉庫」内のミニゲーム（毎月ごとにテーマが変わる）に勝利した場合のみ本コンテンツ利用開始から一年以内、毎月先着2,000名に限り好みの楽曲を1曲だけ無料でダウンロードする事が出来る[51]。</li>
+<li>トヨタ純正<a href="../Page/テレマティクス.md" title="wikilink">テレマティクス</a>サービス「<a href="../Page/G-BOOK.md" title="wikilink">G-BOOK ALPHA</a>」対応ナビを装備したトヨタ車との連動の強化[52]</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/W44T.md" title="wikilink">LEXUS W44T III</a></p></td>
+<td><p><strong>トヨタケータイ TiMO W44T II</strong>の<a href="https://ja.wikipedia.org/wiki/レクサス" title="wikilink">レクサス</a>店専売バージョン。デザインはTiMO W44T IIと共通だが本体色は異なっている[53]。au初のサードモデルでありau最後のminiSDカード対応端末である。全国10,000台限定の限定モデルであり、レクサスブランドの新車を購入したユーザーのみ購入可能。</p></td>
+</tr>
+</tbody>
+</table>
+
+#### その他の端末
+
+| 機器名                                                                     | 備考                                                                                                                                                          |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [W44K IIカメラなしモデル](../Page/W44K.md "wikilink") (W44K II Z)               | W44K IIからカメラ機能だけを省略した機種。それ以外の機能は既存のW44K IIとほぼ共通で、ビデオクリップを除く「LISMO Music」サービス（EZ「着うたフル」のみ）に対応する。法人ユーザーに向けた端末でボディカラーはクリアシルバーのみ。CDMA 1X WIN端末では初のカメラ非搭載モデルである。 |
+| [W63K カメラなしモデル](../Page/W63K.md "wikilink") (W63K Z)                    | W63Kからカメラ機能・外部メモリ (microSD) スロットを省略し、それ以外の機能は既存のW63Kとほぼ共通。上記のW44K IIZ同様、法人ユーザーに向けた端末でボディカラーはジェントルブラックのみ。                                                    |
+| [W62S カメラなしモデル](https://ja.wikipedia.org/wiki/W62S "wikilink") (W62S Z) | W62Sからカメラ機能・外部メモリ (microSD) スロットをそれぞれ省略し、それ以外の機能は既存のW62Sとほぼ共通。上記の機種同様、法人ユーザーに向けた端末でボディカラーはシルバー×レザーのみ。                                                       |
+| [K006](https://ja.wikipedia.org/wiki/K006 "wikilink")カメラなしモデル (KY006 Z) | K006からカメラ機能・外部メモリ (microSD) スロットを省略し、それ以外の機能は既存のK006とほぼ共通。上記のW44K II ZおよびW63K Z同様、法人ユーザーに向けた端末でボディカラーはグロッシーブラックのみ。                                          |
+| [K011](https://ja.wikipedia.org/wiki/K011 "wikilink")カメラなしモデル (KY011 Z) | K011からカメラ機能だけを省略し、それ以外の機能は既存のK011とほぼ共通。上記のW44K II ZおよびW63K Z、K006 Z同様、法人ユーザーに向けた端末でボディカラーはプレミアムブラックのみ。                                                      |
+
+#### 法人向けビジネスソリューション端末（データ端末、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")を含む）
+
+| 機器名                                                                  | 備考                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [E02SA](https://ja.wikipedia.org/wiki/W41SA#E02SA "wikilink")        | 無線LAN対応、W41SAがベースである。[ビジネスソリューション](https://ja.wikipedia.org/wiki/ビジネスソリューション "wikilink")用の端末なので一般（[コンシューマー](../Page/消費者.md "wikilink")）ユーザーは購入不可。                                                                                                                                                                                                                                                                                                                                                                                                            |
+| [E03CA](https://ja.wikipedia.org/wiki/W42CA#E03CA "wikilink")        | Bluetooth、防水、大容量バッテリ対応。法人向けビジネスソリューション音声用端末だが一般ユーザーも購入可能（2009年10月現在販売終了）。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| [W44K II法人アプリプリセットモデル](../Page/W44K.md "wikilink")/K                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| [W61K](../Page/W61K.md "wikilink")法人アプリプリセットモデル                      | 既存のW44K II/K IIおよびW61Kにビジネスソリューション専用アプリをプリインストールしたもの。本体色はW44K法人アプリプリセットモデルはスティルネスシルバーのみ、W44K II法人アプリプリセットモデルはフォーミーホワイトのみ、W61K法人アプリプリセットモデルはグリマーホワイトのみでいずれもビジネスソリューション向けの端末なので一般ユーザーは購入不可。                                                                                                                                                                                                                                                                                                                                                                    |
+| [E05SH](https://ja.wikipedia.org/wiki/E05SH "wikilink")              | 法人向け専用としては初のKCP+、ならびにEZ FeliCaに対応した端末。IPX5／IPX7準拠の防水機能や指紋認証などの各種セキュリティ機能、さらにmicroSDIO拡張スロットを搭載しており対応カードにより構内PHSや無線LANを使った内線サービスなどに対応する。一般ユーザーも購入可能。                                                                                                                                                                                                                                                                                                                                                                                                          |
+| [E06SH](https://ja.wikipedia.org/wiki/E06SH "wikilink")              | 上記のE05SHからEZ FelicaやmicroSDIO拡張スロットを省略し、代わりにレーザーガイド付き一次元／二次元コードの読み取りに対応したバーコードスキャナを搭載。特殊用途に特化した法人向け専用端末で、かつバーコードスキャナにレーザーを使用しているため、経済産業省の許可がないユーザーは購入不可。                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [E07K](https://ja.wikipedia.org/wiki/E07K "wikilink")                | 既存のK002をベースに情報漏洩リスクがある外部メモリや、ワンセグ、音楽・映像再生機能を非搭載とするなど、ビジネス用途に特化した端末。一般ユーザーも購入可能。                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| [E08T](https://ja.wikipedia.org/wiki/E08T "wikilink")                | 既存のT002をベースに法人向けにアレンジした端末。セキュリティ機能が強化された点を除けば、機能および対応サービスはT002にほぼ準拠。一般ユーザーも購入可能。                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| [E09F](https://ja.wikipedia.org/wiki/E09F "wikilink")                | E08Tの富士通ブランド版にあたる端末。基本的な機能および対応サービスはE08Tと同一。一般ユーザーも購入可能。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [E10K](https://ja.wikipedia.org/wiki/E10K "wikilink")                | K006の同型機種ではあるがFeliCaポート（おサイフケータイ）が省略されている。一般ユーザーも購入可能。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| [E30HT](https://ja.wikipedia.org/wiki/E30HT "wikilink")              | 2009年5月1日に発売されたau初のスマートフォン。[Touch Proをベースとしており](https://ja.wikipedia.org/wiki/Touch_Pro "wikilink")[Windows Mobile](https://ja.wikipedia.org/wiki/Windows_Mobile "wikilink") (6.1 Professional) 搭載でEV-DO Rev.AおよびグローバルパスポートCDMAに対応、カメラは320万画素のAF付きでBluetooth、無線LANなどを搭載する。ただし本端末の性格上、既存のau携帯の多くの主要サービスには非対応である（例 - 「au向けEメール」「Cメール」「LISMO Music（EZ「着うたフル」・「LISMOビデオクリップ」）」「EZアプリ（BREW）」「EZナビウォーク」など）。一般ユーザーも購入可能であり、既存のau携帯の料金割引サービス（例・「[誰でも割](../Page/誰でも割.md "wikilink")」、「[ダブル定額](https://ja.wikipedia.org/wiki/ダブル定額 "wikilink")/ダブル定額ライト」等）を適用することができる。 |
+| [E31T](https://ja.wikipedia.org/wiki/E31T "wikilink")                | [ヤマト運輸](../Page/ヤマト運輸.md "wikilink")の[セールスドライバー](https://ja.wikipedia.org/wiki/セールスドライバー "wikilink")向け専用に開発されたテンキーパッド付ストレート式[フィーチャー・フォン](https://ja.wikipedia.org/wiki/フィーチャー・フォン "wikilink")（[ガラパゴスケータイ](https://ja.wikipedia.org/wiki/日本における携帯電話 "wikilink")）風のスマートフォン。後述する[dynapocket IS02をベースに再設計](https://ja.wikipedia.org/wiki/IS02 "wikilink")・再開発された。Windows Mobile 6.5.3 Professional搭載でEV-DO Rev.AおよびグローバルパスポートGSMに対応、カメラは320万画素のAF付きでBluetooth、無線LAN、IPX5／IPX7準拠の防水機能などを搭載する。                                                                     |
+| [IS06](https://ja.wikipedia.org/wiki/IS06 "wikilink")法人向けモデル (PTI06) | コンシューマモデルでは非対応である[グローバルパスポート](https://ja.wikipedia.org/wiki/グローバルパスポート "wikilink")CDMAに対応させ、法人向けアプリを一部追加したモデル。                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| [EIS01PT](https://ja.wikipedia.org/wiki/EIS01PT "wikilink") (PT01E)  | [MIRACH IS11PT](https://ja.wikipedia.org/wiki/IS11PT "wikilink") (PTI11) の同型機種。                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| W07K                                                                 | 後述するデータ端末であるW06Kをベースに法人向け専用に再設計された[ExpressCard](../Page/ExpressCard.md "wikilink")/34型のデータ用端末。W06Kと異なりトラフィック制御機能には非対応。なお、対応する[OSは後述のW](../Page/オペレーティングシステム.md "wikilink")06Kを参照。                                                                                                                                                                                                                                                                                                                                                                            |
+
+### データ端末
+
+| 機器名          | 備考                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| W01K         | 800MHzに対応した[PCカード](../Page/PCカード.md "wikilink")型端末。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 2GHz Do-CARD | 2GHzに対応したPCカード型端末。専用の課金体系が用意されている。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| W02H         | 2GHz、800MHzに両対応した[CFカード型端末で](../Page/コンパクトフラッシュ.md "wikilink")、PCカードアダプタも付属する。専用ソフトを利用することで通話も可能。音声端末と同じ料金プランが適用される。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| W03H         | 800MHzに対応したCFカード型端末で音声通話非対応。データ通信のみに対応する。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| W04K         | 800MHz、2GHzに対応したCFカード型端末で音声通話非対応。データ通信のみに対応する。PCカードアダプタが付属。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| W05K         | 800MHz、2GHz、新800MHzに対応したCFカード型端末で、PCカードアダプタが付属する。[CDMA2000 1x EV-DO Rev.Aに対応し](https://ja.wikipedia.org/wiki/CDMA2000_1x#Rev.A "wikilink")、受信最大3.1Mbps／送信最大1.8Mbpsでのパケット通信が可能。WINデータ通信端末としては、初の定額制料金プラン（WINシングル定額）に対応。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| W06K         | 800MHz、2GHz、新800MHzに対応した[ExpressCard](../Page/ExpressCard.md "wikilink")/34型端末でEV-DO Rev.Aに対応。受信最大3.1Mbps／送信最大1.8Mbpsでのパケット通信が可能。また、本体にドライバソフトが保存されており、ExpressCard/34用[インターフェイス](https://ja.wikipedia.org/wiki/インターフェイス "wikilink")を装備した[ノート型PCに接続するとインストーラーが自動的に起動する](../Page/ノートパソコン.md "wikilink")「かんたんインストール」機能を搭載している。対応[OSは](../Page/オペレーティングシステム.md "wikilink")[Windows XP](../Page/Microsoft_Windows_XP.md "wikilink")（[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")/[x64](https://ja.wikipedia.org/wiki/x64 "wikilink")版）、[Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")（x86/x64版）、v10.4以降の[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")（Mac OS Xに対応した初めての1X WINデータ端末）。 |
+
+### 個人向けスマートフォン（ISシリーズ）
+
+#### 2010年夏モデル
+
+| 機器名                                                                      | 備考                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [IS01](https://ja.wikipedia.org/wiki/IS01 "wikilink") (SHI01)            | Android OS 1.6に対応した[スマートブック](https://ja.wikipedia.org/wiki/スマートブック "wikilink")。約5.0インチのフルワイドVGA＋＋サイズ（480×960ピクセル）のタッチパネル対応ディスプレイやQWERTYキーボードを搭載。このほか、KDDIが勧めるアプリケーションをピックアップした「au one Market」や、Android端末としては初の「[セカイカメラ](https://ja.wikipedia.org/wiki/セカイカメラ "wikilink")」や、Android版EZナビウォーク「au one ナビウォーク」を利用することができる。また、音楽コンテンツ「[LISMO\!](https://ja.wikipedia.org/wiki/LISMO! "wikilink")」のAndroid版がアップデートにより利用可能となる。CPUはSnapdragon S1 (QSD8650) 。 |
+| [dynapocket IS02](https://ja.wikipedia.org/wiki/IS02 "wikilink") (TSI01) | ISシリーズとしては最初にして最後となるWindows Mobile 6.5.3を搭載。海外市場向けスマートフォンである**K01**のau版にあたる。スマートフォンとしては世界初の[緊急地震速報](../Page/緊急地震速報.md "wikilink")サービスに対応。CPUはSnapdragon S1 (QSD8650) 。                                                                                                                                                                                                                                                                               |
+
+#### 2010年冬モデル
+
+| 機器名                                                                    | 備考                                                                                      |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [IS03](https://ja.wikipedia.org/wiki/IS03 "wikilink") (SHI03)          | Android OS 2.1に対応した本格的なスマートフォン。ワンセグ、おサイフケータイ、赤外線通信機能などが搭載。CPUはSnapdragon S1 (QSD8650) 。 |
+| [SIRIUS α IS06](https://ja.wikipedia.org/wiki/IS06 "wikilink") (PTI06) | Android OS 2.2に対応したスマートフォン。WIN HIGH SPEEDに対応する。CPUはSnapdragon S1 (QSD8650) 。            |
+
+#### 2011年春モデル
+
+<table>
+<thead>
+<tr class="header">
+<th><p>機器名</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/IS04" title="wikilink">REGZA Phone IS04</a> (TSI04)</p></td>
+<td><p>Android OS 2.1に対応したスマートフォン。ワンセグ、おサイフケータイ、赤外線通信機能のほか、IPX5／IPX7準拠の防水機能や下り9.2Mbps／上り5.5Mbpsの高速マルチキャリアデータ通信によるWIN HIGH SPEED (CDMA2000 1xEV-DO MC-Rev.A (EV-DO MC) ) に対応する。CPUはSnapdragon S1 (QSD8650) 。のちにAndroid OS 2.2にバージョンアップ済みの<strong><a href="https://ja.wikipedia.org/wiki/IS04FV" title="wikilink">IS04FV</a></strong>も発売。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/IS05" title="wikilink">IS05</a> (SHI05)</p></td>
+<td><p>Android OS 2.2に対応したスマートフォン。ワンセグ、おサイフケータイ、赤外線通信機能、インカメラ、HDMI端子 (HDMI Mini Connector) などが搭載。女性ユーザーもターゲットとしたコンパクト＆カラフルデザイン。CPUはSnapdragon S2 (MSM8655) 。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ISW11HT" title="wikilink">htc Evo WiMAX</a> (HTI11)</p></td>
+<td><p>Android OS 2.2に対応したスマートフォン。<a href="https://ja.wikipedia.org/wiki/+WiMAX" title="wikilink">+WiMAX</a>（<a href="https://ja.wikipedia.org/wiki/モバイルWiMAX" title="wikilink">モバイルWiMAX</a>）、<a href="https://ja.wikipedia.org/wiki/テザリング" title="wikilink">テザリング</a>に対応。CPUはSnapdragon S1 (QSD8650) 。</p>
+<h4 id="年夏モデル_10">2011年夏モデル</h4></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/IS11CA" title="wikilink">G'zOne IS11CA</a> (CAI11)</p></td>
+<td><p>Android OS 2.3に対応したスマートフォン。G'zOneシリーズ故に防水・防塵・耐衝撃設計である。WIN HIGH SPEEDに対応。CPUはSnapdragon S2 (MSM8655) 。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/IS11S" title="wikilink">Xperia acro IS11S</a> (SOI11)</p></td>
+<td><p>Android OS 2.3.3に対応したスマートフォン。au向けとしては初のXperiaシリーズである。WIN HIGH SPEEDに対応。CPUはSnapdragon S2 (MSM8655) 。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/IS11SH" title="wikilink">AQUOS PHONE IS11SH</a> (SHI11)</p></td>
+<td><p>Android OS 2.3に対応したスライド式<a href="https://ja.wikipedia.org/wiki/フィーチャー・フォン" title="wikilink">フィーチャー・フォン</a>（ガラパゴス・ケータイ）風のスマートフォン。au向けスマートフォンとしては初となる3D表示に対応したQHD液晶（3.7インチ・540×960ピクセル）を搭載。WIN HIGH SPEEDに対応。CPUはSnapdragon S2 (MSM8655T) 。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/IS12SH" title="wikilink">AQUOS PHONE IS12SH</a> (SHI12)</p></td>
+<td><p>Android OS 2.3に対応したスマートフォン。IS03の後継機種にあたる。上記のIS11SH同様3D表示に対応したQHD液晶（4.2インチ・540×960ピクセル）を搭載し、さらにau向けスマートフォンとしては初となる3D撮影に対応したツインカメラを搭載する。WIN HIGH SPEEDに対応。CPUはSnapdragon S2 (MSM8655T) 。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/IS11T" title="wikilink">REGZA Phone IS11T</a> (TSI11)</p></td>
+<td><p>Android OS 2.3に対応したQWERTY式キーボードを採用したPDA型スマートフォン。ワンセグ、おサイフケータイ、赤外線通信機能のほか広辞苑を始めとする電子辞書をプリセット。WIN HIGH SPEEDおよび<a href="https://ja.wikipedia.org/wiki/GSM" title="wikilink">GSM</a>（音声サービスのみ）の国際ローミングに対応。に対応。CPUはSnapdragon S2 (MSM8655T) 。<a href="../Page/東芝.md" title="wikilink">TOSHIBAブランド最終機種</a>。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/IS11PT" title="wikilink">MIRACH IS11PT</a> (PTI11)</p></td>
+<td><p>Android OS 2.3に対応したスマートフォン。「かんたんモード」を搭載し、スマートフォン初心者向けである。WIN HIGH SPEEDおよび<a href="https://ja.wikipedia.org/wiki/GSM" title="wikilink">GSM</a>（音声サービスのみ）、<a href="https://ja.wikipedia.org/wiki/GPRS" title="wikilink">GPRS</a>（データ通信のみ）、<a href="https://ja.wikipedia.org/wiki/UMTS" title="wikilink">UMTS</a>（<a href="../Page/W-CDMA.md" title="wikilink">W-CDMA</a>・データ通信のみ）等の国際ローミングに対応。CPUはSnapdragon S2 (MSM8655) 。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/Windows_Phone_7" title="wikilink">Windows Phone</a> <a href="https://ja.wikipedia.org/wiki/IS12T" title="wikilink">IS12T</a> (TSI12)</p></td>
+<td><p>世界初にして日本国内用唯一の<a href="https://ja.wikipedia.org/wiki/Windows_Phone_7.5" title="wikilink">Windows Phone 7.5</a>（内部OSは'''Windows Phone OS 7.1 (Mango) '''。のちWindows Phone 7.8にバージョンアップが可能となった）に対応したスマートフォン。約32GBの内部メモリを搭載。microSDカードなどの外部メモリ用スロットは非搭載。防水および防塵機能、FMラジオを搭載。WIN HIGH SPEEDおよび<a href="https://ja.wikipedia.org/wiki/GSM" title="wikilink">GSM</a>（音声サービスのみ）、<a href="https://ja.wikipedia.org/wiki/GPRS" title="wikilink">GPRS</a>（データ通信のみ）の国際ローミングに対応。CPUはSnapdragon S2 (MSM8655) 。</p></td>
+</tr>
+</tbody>
+</table>
+
+#### 2011年冬モデル
+
+全機種がAndroid2.3を搭載。このうちISW12HTおよびISW11M、ISW11K、ISW11Fは+WiMAX（モバイルWiMAX）とテザリングに対応し、ISW12HTおよびISW11Mを除く残りの機種がWIN HIGH SPEED (EV-DO MC-Rev.A) に対応する。またIS13SHにはIS03で好評を博したコンビネーション液晶ディスプレイが搭載される。ISW12HTおよびISW11M、IS14SH、IS12FはいずれもL800MHz（旧800MHz）帯に非対応。IS12Fのみmicro-SIMタイプのau ICカードを用いる。
+
+| 機器名                                                                               | 備考 |
+| --------------------------------------------------------------------------------- | -- |
+| [HTC EVO 3D ISW12HT](https://ja.wikipedia.org/wiki/ISW12HT "wikilink") (HTI12)    |    |
+| [MOTOROLA PHOTON ISW11M](https://ja.wikipedia.org/wiki/ISW11M "wikilink") (MOI11) |    |
+| [DIGNO ISW11K](https://ja.wikipedia.org/wiki/ISW11K "wikilink") (KYI11)           |    |
+| [ARROWS Z ISW11F](https://ja.wikipedia.org/wiki/ISW11F "wikilink") (FJI11)        |    |
+| [AQUOS PHONE IS13SH](https://ja.wikipedia.org/wiki/IS13SH "wikilink") (SHI13)     |    |
+| [MEDIAS BR IS11N](https://ja.wikipedia.org/wiki/IS11N "wikilink") (NEI11)         |    |
+| [ARROWS ES IS12F](https://ja.wikipedia.org/wiki/IS12F "wikilink") (TSI12)         |    |
+| [AQUOS PHONE IS14SH](https://ja.wikipedia.org/wiki/IS14SH "wikilink") (SHI14)     |    |
+
+#### 2012年春モデル
+
+全機種がAndroid 2.3、および1GBのワーキングメモリを搭載。ISW11SCのみ+WiMAXおよびテザリングに対応。IS11LGおよびIS12SはワンセグとWIN HIGH SPEED (EV-DO MC-Rev.A) に対応。IS12Mのみmicro-SIMタイプのau ICカードを用いる。このモデルより全てL800MHz（旧800MHz）帯に非対応となった。
+
+| 機器名                                                                                   | 備考 |
+| ------------------------------------------------------------------------------------- | -- |
+| [GALAXY S II WiMAX ISW11SC](https://ja.wikipedia.org/wiki/ISW11SC "wikilink") (SCI11) |    |
+| [Optimus X IS11LG](https://ja.wikipedia.org/wiki/IS11LG "wikilink") (LGI11)           |    |
+| [MOTROLA RAZR IS12M](https://ja.wikipedia.org/wiki/IS12M "wikilink") (MOI12)          |    |
+| [Xperia acro HD IS12S](https://ja.wikipedia.org/wiki/IS12S "wikilink") (SOI12)        |    |
+
+#### 2012年夏モデル
+
+全機種がAndroid4.0、および1GBのワーキングメモリを搭載。このうちIS17SHのみGSMローミングに非対応。またIS15SHおよびISW16SH、ISW13Fはmicro-SIMタイプのau ICカードを用いる。
+
+| 機器名                                                                                   | 備考 |
+| ------------------------------------------------------------------------------------- | -- |
+| [HTC J ISW13HT](https://ja.wikipedia.org/wiki/ISW13HT "wikilink") (HTI13)             |    |
+| [AQUOS PHONE SL IS15SH](https://ja.wikipedia.org/wiki/IS15SH "wikilink") (SHI15)      |    |
+| [AQUOS PHONE SERIE ISW16SH](https://ja.wikipedia.org/wiki/ISW16SH "wikilink") (SHI16) |    |
+| [AQUOS PHONE CL IS17SH](https://ja.wikipedia.org/wiki/IS17SH "wikilink") (SHI17)      |    |
+| [ARROWS Z ISW13F](https://ja.wikipedia.org/wiki/ISW13F "wikilink") (FJI13)            |    |
+
+### 個人向けスマートフォン、[ファブレット](https://ja.wikipedia.org/wiki/ファブレット "wikilink")（Lシリーズ ([au 4G LTE](https://ja.wikipedia.org/wiki/au_4G_LTE "wikilink")) ）
+
+※ ◎が付与された機種はファブレット。
+
+#### 2012年冬モデル
+
+| 機器名                                                                         | 備考 |
+| --------------------------------------------------------------------------- | -- |
+| [HTC J Butterfly HTL21](https://ja.wikipedia.org/wiki/HTL21 "wikilink")     |    |
+| [Xperia VL SOL21](https://ja.wikipedia.org/wiki/SOL21 "wikilink")           |    |
+| [GALAXY S III Progre SCL21](https://ja.wikipedia.org/wiki/SCL21 "wikilink") |    |
+| [G'zOne TYPE-L CAL21](https://ja.wikipedia.org/wiki/CAL21 "wikilink")       |    |
+| [DIGNO S KYL21](https://ja.wikipedia.org/wiki/KYL21 "wikilink")             |    |
+| [AQUOS PHONE SERIE SHL21](https://ja.wikipedia.org/wiki/SHL21 "wikilink")   |    |
+| [Optimus G LGL21](https://ja.wikipedia.org/wiki/LGL21 "wikilink")           |    |
+| [ARROWS ef FJL21](https://ja.wikipedia.org/wiki/FJL21 "wikilink")           |    |
+| [VEGA PTL21](https://ja.wikipedia.org/wiki/PTL21 "wikilink")                |    |
+
+#### 2013年夏モデル
+
+| 機器名                                                                       | 備考 |
+| ------------------------------------------------------------------------- | -- |
+| [HTC J One HTL22](https://ja.wikipedia.org/wiki/HTL22 "wikilink")         |    |
+| [Xperia UL SOL22](https://ja.wikipedia.org/wiki/SOL22 "wikilink")         |    |
+| [AQUOS PHONE SERIE SHL22](https://ja.wikipedia.org/wiki/SHL22 "wikilink") |    |
+
+#### 2013年冬モデル
+
+| 機器名                                                                       | 備考 |
+| ------------------------------------------------------------------------- | -- |
+| [Xperia Z1 SOL23](https://ja.wikipedia.org/wiki/SOL23 "wikilink")         |    |
+| [isai LGL22](https://ja.wikipedia.org/wiki/LGL22 "wikilink")              |    |
+| [DIGNO M KYL22](https://ja.wikipedia.org/wiki/KYL22 "wikilink")           |    |
+| [AQUOS PHONE SERIE SHL23](https://ja.wikipedia.org/wiki/SHL23 "wikilink") |    |
+| [ARROWS Z FJL22](https://ja.wikipedia.org/wiki/FJL22 "wikilink")          |    |
+| [GALAXY Note3 SCL22](https://ja.wikipedia.org/wiki/SCL22 "wikilink")      | ◎  |
+
+#### 2014年春モデル
+
+| 機器名                                                                            | 備考 |
+| ------------------------------------------------------------------------------ | -- |
+| [G Flex LGL23](https://ja.wikipedia.org/wiki/LGL23 "wikilink")                 | ◎  |
+| [Xperia Z Ultra SOL24](https://ja.wikipedia.org/wiki/SOL24 "wikilink")         | ◎  |
+| [AQUOS PHONE SERIE mini SHL24](https://ja.wikipedia.org/wiki/SHL24 "wikilink") |    |
+
+#### 2014年夏モデル
+
+| 機器名                                                                       | 備考 |
+| ------------------------------------------------------------------------- | -- |
+| [AQUOS PHONE SERIE SHL25](https://ja.wikipedia.org/wiki/SHL25 "wikilink") |    |
+| [Xperia ZL2 SOL25](https://ja.wikipedia.org/wiki/SOL25 "wikilink")        |    |
+| [Galaxy S5 SCL23](https://ja.wikipedia.org/wiki/SCL23 "wikilink")         |    |
+| [isai FL LGL24](https://ja.wikipedia.org/wiki/LGL24 "wikilink")           | ◎  |
+| [HTC J butterfly HTL23](https://ja.wikipedia.org/wiki/HTL23 "wikilink")   |    |
+
+#### 2014年冬モデル
+
+| 機器名                                                                      | 備考 |
+| ------------------------------------------------------------------------ | -- |
+| [Xperia Z3 SOL26](https://ja.wikipedia.org/wiki/SOL26 "wikilink")        |    |
+| [Galaxy Note Edge SCL24](https://ja.wikipedia.org/wiki/SCL24 "wikilink") | ◎  |
+| [Fx0 LGL25](https://ja.wikipedia.org/wiki/Fx0 "wikilink")                |    |
+
+#### 2015年春モデル
+
+  - [miraie KYL23](https://ja.wikipedia.org/wiki/KYL23 "wikilink")
+
+### 個人向けスマートフォン、ファブレット（ISシリーズ、Lシリーズ以外）
+
+※ ◎が付与された機種はファブレット。
+
+#### Apple iPhone端末
+
+##### 2011年冬モデル
+
+| 機器名                                                             | 備考 |
+| --------------------------------------------------------------- | -- |
+| [iPhone 4S](https://ja.wikipedia.org/wiki/iPhone_4S "wikilink") |    |
+
+##### 2012年冬モデル
+
+| 機器名                                                           | 備考 |
+| ------------------------------------------------------------- | -- |
+| [iPhone 5](https://ja.wikipedia.org/wiki/iPhone_5 "wikilink") |    |
+
+##### ;2013年冬モデル
+
+| 機器名                                                                       | 備考 |
+| ------------------------------------------------------------------------- | -- |
+| [iPhone 5s（モデルA1453）](https://ja.wikipedia.org/wiki/iPhone_5s "wikilink") |    |
+| [iPhone 5c（モデルA1456）](https://ja.wikipedia.org/wiki/iPhone_5c "wikilink") |    |
+
+##### 2014年冬モデル
+
+| 機器名                                                                     | 備考 |
+| ----------------------------------------------------------------------- | -- |
+| [iPhone 6](https://ja.wikipedia.org/wiki/iPhone_6 "wikilink")           |    |
+| [iPhone 6 Plus](https://ja.wikipedia.org/wiki/iPhone_6_Plus "wikilink") |    |
+
+##### 2015年冬モデル
+
+| 機器名                                                                       | 備考 |
+| ------------------------------------------------------------------------- | -- |
+| [iPhone 6s](https://ja.wikipedia.org/wiki/iPhone_6s "wikilink")           |    |
+| [iPhone 6s Plus](https://ja.wikipedia.org/wiki/iPhone_6s_Plus "wikilink") |    |
+
+#### 京セラ独自の端末（[VoLTE](https://ja.wikipedia.org/wiki/VoLTE "wikilink")対応機種を除く2012年以降のYシリーズ）
+
+##### 2012年夏モデル
+
+| 機器名                                                                                   | 備考 |
+| ------------------------------------------------------------------------------------- | -- |
+| [URBANO PROGRESSO](https://ja.wikipedia.org/wiki/URBANO_PROGRESSO "wikilink") (KYY04) |    |
+
+##### 2013年夏モデル
+
+| 機器名                                                                       | 備考 |
+| ------------------------------------------------------------------------- | -- |
+| [URBANO L01](https://ja.wikipedia.org/wiki/URBANO_L01 "wikilink") (KYY21) |    |
+
+##### 2014年春モデル
+
+| 機器名                                                                       | 備考 |
+| ------------------------------------------------------------------------- | -- |
+| [URBANO L02](https://ja.wikipedia.org/wiki/URBANO_L02 "wikilink") (KYY22) |    |
+
+##### 2014年夏モデル
+
+| 機器名                                                                       | 備考 | [URBANO L03](https://ja.wikipedia.org/wiki/URBANO_L03 "wikilink") (KYY23) |  |
+| ------------------------------------------------------------------------- | -- | ------------------------------------------------------------------------- |  |
+| [TORQUE G01](https://ja.wikipedia.org/wiki/TORQUE_G01 "wikilink") (KYY24) |    |                                                                           |  |
+
+#### iida端末（VoLTE対応機種を除く）
+
+デザイン重視のコンセプトモデル中心のシリーズ。「★」が付与された機種はiidaロゴの刻印がない機種である。
+
+##### 2011年夏モデル
+
+| 機器名                                                                         | 備考 |
+| --------------------------------------------------------------------------- | -- |
+| [INFOBAR A01](https://ja.wikipedia.org/wiki/INFOBAR_A01 "wikilink") (SHX11) |    |
+
+##### 2012年春モデル
+
+| 機器名                                                                         | 備考 |
+| --------------------------------------------------------------------------- | -- |
+| [INFOBAR C01](https://ja.wikipedia.org/wiki/INFOBAR_C01 "wikilink") (SHX12) | ★  |
+
+##### 2013年春モデル
+
+| 機器名                                                                         | 備考 |
+| --------------------------------------------------------------------------- | -- |
+| [INFOBAR A02](https://ja.wikipedia.org/wiki/INFOBAR_A02 "wikilink") (HTX21) | ★  |
+
+### Android搭載フィーチャーフォン（Fシリーズ (au 4G LTE) ）
+
+#### 2015年春モデル
+
+| 機器名                                                             | 備考 |
+| --------------------------------------------------------------- | -- |
+| [AQUOS K SHF31](https://ja.wikipedia.org/wiki/SHF31 "wikilink") |    |
+
+### 通信モジュール付デジタルフォトフレーム
+
+| 機器名                                                                   | 備考                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [PHOTO-U SP01](https://ja.wikipedia.org/wiki/SP01 "wikilink") (01PT)  | EV-DO Rev.A対応の通信モジュールを搭載した[デジタルフォトフレーム](../Page/デジタルフォトフレーム.md "wikilink")で静止画だけでなく、[Flashや](../Page/Adobe_Flash_Lite.md "wikilink")[GIF](https://ja.wikipedia.org/wiki/GIF "wikilink")などのアニメーションや音声（[3GPP2](https://ja.wikipedia.org/wiki/3GPP2 "wikilink")等）の再生が可能。また、本機はau端末だけでなく、他キャリア（[ドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[ソフトバンク等](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）の端末やPCからメール送信した写真の表示にも対応している。 |
+| [PHOTO-U SP03](https://ja.wikipedia.org/wiki/SP03 "wikilink") (HWS03) | EV-DO MC-Rev.A対応の通信モジュールを搭載したデジタルフォトフレーム。                                                                                                                                                                                                                                                                                                                                                                                                      |
+| [PHOTO-U TV](https://ja.wikipedia.org/wiki/ZTS11 "wikilink") (ZTS11)  | ワンセグ/フルセグチューナー（microSDHCメモリーカードを利用しての録画/再生機能に対応）、およびEV-DO Rel.0対応の通信モジュールを搭載した防水機能付デジタルフォトフレーム。このほか、Miracast対応のスマートフォン・タブレットの画面出力、およびau Cloudの写真のスライドショー再生を行なうことができる。                                                                                                                                                                                                                                                                          |
+| [PHOTO-U TV](https://ja.wikipedia.org/wiki/ZTS11 "wikilink") (ZTS12)  | 内蔵メモリを8GBに増やしたZTS11のマイナーチェンジモデル。                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+### 通信モジュール付き電子ブックリーダー
+
+| 機器名                                                                       | 備考                                                                                             |
+| ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [biblio leaf SP02](https://ja.wikipedia.org/wiki/SP02 "wikilink") (FCS02) | EV-DO Rev.A対応の通信モジュールを搭載した本格的な[電子ブックリーダー](https://ja.wikipedia.org/wiki/電子ブックリーダー "wikilink")。 |
+
+### 通信モジュール付きモバイルWi-Fiルーター
+
+| 機器名                                                                              | 備考                                                       |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| [Wi-Fi WALKER DATA05](https://ja.wikipedia.org/wiki/DATA05 "wikilink") (PTD05)   | EV-DO Rev.A対応の通信モジュールを搭載した本格的なモバイルWi-Fiルーター。             |
+| [Wi-Fi WALKER DATA06](https://ja.wikipedia.org/wiki/DATA06 "wikilink") (HWD06)   | EV-DO MC-Rev.A対応の通信モジュールを搭載した本格的なモバイルWi-Fiルーター。          |
+| [Wi-Fi WALKER DATA08W](https://ja.wikipedia.org/wiki/DATA08W "wikilink") (HWD08) | EV-DO Rev.AおよびモバイルWiMAX対応の通信モジュールを搭載した本格的なモバイルWi-Fiルーター。 |
+
+### 通信モジュール付ポータブルカーナビ
+
+| 機器名                                                                        | 備考                                                                                                                                                                                                                                                                                                                                                                      |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [CAR NAVITIME (WND-01K)](https://ja.wikipedia.org/wiki/WND-01K "wikilink") | EV-DO Rev.A対応の通信モジュールを搭載した[ポータブルカーナビポータブルカーナビ](../Page/カーナビゲーション.md "wikilink")。「EZナビウォーク」「EZ助手席ナビ」「[NAVITIME](https://ja.wikipedia.org/wiki/ナビタイムジャパン "wikilink")」と情報を共有することが可能で、ケータイやPCで事前に検索した行き先やルートを、「CAR NAVITIME」に送信できる。ただし、本機を購入後、別途通信契約は申込専用PCサイトまたはケータイサイトより申し込む必要がある。auショップおよびPiPit（トヨタ各ディーラー、トヨタレンタリース各店、トヨタ純正部品共販各店、トヨタL\&F各店を含む）、au各取扱店で通信契約を申し込むことはできない。 |
+
+### タブレット
+
+#### Wi-Fi通信専用タブレット
+
+| 機器名                                                                                     | 備考            |
+| --------------------------------------------------------------------------------------- | ------------- |
+| [SMT-i9100](https://ja.wikipedia.org/wiki/SMT-i9100 "wikilink") (AAT01)                 | Android2.2搭載。 |
+| [MOTOROLA XOOM Wi-Fi (TBi11M)](https://ja.wikipedia.org/wiki/TBi11M "wikilink") (MOT11) | Android3.0搭載。 |
+| REGZA Tablet AT500/26F                                                                  | Android4.0搭載。 |
+| [Nexus 7 (2013)](https://ja.wikipedia.org/wiki/Nexus_7_\(2013\) "wikilink")             | Android4.3搭載。 |
+
+#### au 4G LTE／WIN HIGH SPEED対応タブレット
+
+| 機器名                                                                      | 備考            |
+| ------------------------------------------------------------------------ | ------------- |
+| [AQUOS PAD SHT21](https://ja.wikipedia.org/wiki/SHT21 "wikilink")        | Android4.0搭載。 |
+| [ARROWS Tab FJT21](https://ja.wikipedia.org/wiki/FJT21 "wikilink")       | Android4.2搭載。 |
+| [AQUOS PAD SHT22](https://ja.wikipedia.org/wiki/SHT22 "wikilink")        | Android4.2搭載。 |
+| [Xperia Z2 Tablet SOT21](https://ja.wikipedia.org/wiki/SOT21 "wikilink") | Android4.4搭載。 |
+| [ASUS MeMO Pad 8 AST21](https://ja.wikipedia.org/wiki/AST21 "wikilink")  | Android4.4搭載。 |
+
+#### Apple iPadタブレット
+
+| 機器名                                                                            | 備考      |
+| ------------------------------------------------------------------------------ | ------- |
+| [iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")（第4世代）                    |         |
+| [iPad mini](https://ja.wikipedia.org/wiki/iPad_mini_\(第1世代\) "wikilink")（第1世代） | iOS6搭載。 |
+| [iPad Air](https://ja.wikipedia.org/wiki/iPad_Air_\(第1世代\) "wikilink")（第1世代）   |         |
+| [iPad mini](https://ja.wikipedia.org/wiki/iPad_mini_\(第2世代\) "wikilink")（第2世代） | iOS7搭載。 |
+
+### ノートパソコン
+
+| 機器名                                                                           | 備考                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [VAIO Duo 13 SVD13229DJB](https://ja.wikipedia.org/wiki/VAIOの機種一覧 "wikilink") | [Windows 8.1、またはWindows 8.1 Proが搭載される](https://ja.wikipedia.org/wiki/Microsoft_Windows_8#Windows_8.1 "wikilink")。au 4G LTE／WIN HIGH SPEED対応通信モジュールを搭載した[ウルトラブック](https://ja.wikipedia.org/wiki/ウルトラブック "wikilink")である。 |
+
+## 脚注
+
+## 関連項目
+
+  - [WIN HIGH SPEED](https://ja.wikipedia.org/wiki/WIN_HIGH_SPEED "wikilink")
+  - [au (携帯電話)](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")
+  - [CDMA 1X](../Page/CDMA_1X.md "wikilink")
+  - [CDMAぷりペイド](../Page/CDMAぷりペイド.md "wikilink")
+  - [ECナビケータイ](https://ja.wikipedia.org/wiki/ECナビケータイ "wikilink")
+
+## 外部リンク
+
+  - [au](http://www.au.kddi.com/)
+  - [ITMedia cdma2000 1xEVはなぜ安い？](http://www.itmedia.co.jp/mobile/news/0107/30/hdr_m.html)
+
+[Category:携帯電話_(au)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(au\) "wikilink")
+
+1.  2006年末発売以降の端末からは[Rev.A](https://ja.wikipedia.org/wiki/CDMA2000_1x#Rev.A "wikilink")、2010年11月以降発売の一部端末からは[MC-Rev.A](https://ja.wikipedia.org/wiki/CDMA2000_1x#MC-Rev.A "wikilink") ([WIN HIGH SPEED](https://ja.wikipedia.org/wiki/WIN_HIGH_SPEED "wikilink")) が用いられる。
+2.  2.1GHzがすべてLTEに転用されているエリアや、2GHzの3Gエリアがない場合は、最大6.2Mbpsまたは3.1Mbpsになる。またEV-DOがないエリアは144Kbpsになる（1xのみになるため）
+3.  [「CDMA 1X」などのサービス終了等のお知らせ](http://www.kddi.com/corporate/news_release/2011/0425/index.html) - KDDI（2011年4月25日）
+4.  [7「CDMA 1X」などのサービス終了等のお知らせ〈別紙〉](http://www.kddi.com/corporate/news_release/2011/0425/besshi.html) - KDDI（2011年4月25日）
+5.  ただし、純粋な3G専用端末に限定した場合では同年2月6日発売の「[GRATINA2 KYY10](https://ja.wikipedia.org/wiki/GRATINA2_KYY10 "wikilink")」が最終機種となる。
+6.
+7.
+8.
+9.
+10.
+11.
+12. [auの3Gサービス「CDMA 1X WIN」が2022年3月末をもって終了 VoLTE非対応4G LTE端末も対象](http://www.itmedia.co.jp/mobile/articles/1811/16/news072.html) - [ITmedia](../Page/ITmedia.md "wikilink") 2018年11月16日。
+13. [「CDMA 1X WIN」サービスの終了について](https://news.kddi.com/kddi/corporate/newsrelease/2018/11/16/3428.html) - KDDI 2018年11月16日。
+14. オペレータに申し込めば別地域の課金体系にすることもできた
+15. [国際電話のご利用が多いお客さまにお得な新料金「プランWシンプル」および「プランW」の提供開始について](http://www.kddi.com/corporate/news_release/2011/0804/)
+16. [月額980円でau携帯電話同士の国内通話が無料になる「プランZシンプル」の提供開始について](http://www.kddi.com/corporate/news_release/2011/0926e/)
+17. なお、auショップおよび電話のみの受付となるが、ISフラットプランにも、1X端末で加入できる。その場合パケット定額料金として月額固定で5460円がかかるが、同時にスマートバリュー割引の条件を満たせば、利用料金に対して1480円（最長2年間）の割引が適用され、差し引き月3980円で、ダブル定額（パケット料金最大4200円）等の上限金額より、220円安くなる。毎月、上限パケットまで使用するヘビーユーザーにとっては、2年間で5280円得になる。
+18. [スマートバリュー割引（表示下部の注１参照）](http://www.au.kddi.com/ryokin_waribiki/ryokin/smartvalue/)
+19. 機種変更等でスマートフォンに途中で切り替えた際は、1X端末時代に受けていたスマートバリューの割引経過期間はスマートフォンの契約には引き継がれず、再度2年間の割引が受けられる。 （2012年2月現在）
+20. 2009年度以降に開発・発売された音声用端末よりCDMA 1Xシリーズの新規開発・発売が打ち切られたため、全ての音声用端末がWINシリーズに統一されWINのロゴが印刷・刻印されなくなった。
+21. 先述の機種以外でも、主に三洋製、東芝製の機種に多い
+22. 例外的に通信モジュール搭載デジタルフォトフレームの型番の場合に限り*0nm*であり、*0n*と*m*の記号の位置が逆転する（ただし、*0n*の部分は2桁止まり）。
+23. コンテンツ提供者が許可した著作権保護ファイルを電話番号により暗号化し、外部メモリに移動できる機能。
+24. W41SはメモリースティックDuo、W41Tは外部メモリ非対応。
+25. 再生や停止、あるいは選曲など。
+26. 薄さ22mm。2006年2月当時。
+27. アナログ放送には非対応。
+28. 時計表示だけでなくネオンウェーブ等の表示も可能。
+29. 携帯電話として世界初。
+30. 薄さ21mm、重さ108g、電池を含む。
+31. W42Kはヤマハ製**MA-5**で最大64和音。
+32. W44SはメモリースティックDuo、メモリースティックPro Duo。
+33. 薄さ15.3mm 2006年8月発表時点。
+34. 既存のW43Hの場合、正式サポートは最大512MBまで。
+35. W52Sではメモリースティックマイクロとのデュアルスロットであり、microSDカードを使用する場合は付属のアダプターが必要。
+36. W53SはメモリースティックPro Duoに対応。
+37. W65Kが発売されるまでは、microSDHCに対応したWIN端末は全く存在しなかったため、長らく4GBのメモリーカードに対応した最後の端末でもあった。
+38. ただし最厚部は13.1mm。
+39. ユーザのブロードバンド回線とPCにより、大容量の動画データを入手するサービスである。配信されるのは主に[洋画](https://ja.wikipedia.org/wiki/洋画 "wikilink")（例・「[スパイダーマン](../Page/スパイダーマン.md "wikilink")シリーズ」等）あるいは一部の[海外ドラマ](../Page/海外ドラマ.md "wikilink")（例・「[宮廷女官チャングムの誓い](https://ja.wikipedia.org/wiki/宮廷女官チャングムの誓い "wikilink")」等）、アニメ（例・一部の「[ガンダムシリーズ](https://ja.wikipedia.org/wiki/ガンダムシリーズ "wikilink")」および一部の「[マクロスシリーズ](../Page/マクロスシリーズ.md "wikilink")」等）等である。コンテンツの詳細は[LISMO Video Store公式サイト](http://www.lismovideo.jp/)を参照。
+40. [『ビクターの高音質化技術「net K2」がau携帯電話に採用』](http://www.jvc-victor.co.jp/press/2008/netk2-au.html) - [日本ビクター](../Page/日本ビクター.md "wikilink")（2010年2月6日閲覧）
+41. W44K/K II→15.3mm、W61K→17.8mm。
+42. GSMローミングに対応し、約180ヵ国での音声通話、約100ヵ国でのパケット通信（例 - Eメール送受信、着うたフルのダウンロード等）が利用可能。
+43. Opera Mobile 9.5
+44. ただしWi-Fi WINを利用する場合、Wi-Fi WINサービスへの加入申し込みのほか、市販のWi-Fi対応のワイヤレスブロードバンドルーターが必要。また、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[ホームU](https://ja.wikipedia.org/wiki/ホームU "wikilink")と異なり[IP電話](../Page/IP電話.md "wikilink")サービスには対応しない。
+45. CA004とSH004はKCP2.0が搭載され、それ以外はすべてKCP2.1が搭載される。
+46. ただし、この機能を使用する場合、[G-BOOK mXに対応した](https://ja.wikipedia.org/wiki/G-BOOK_mX "wikilink")2009年モデル以降の一部のトヨタ純正[カーナビ](../Page/カーナビゲーション.md "wikilink")（2009年モデルでの例・NHZA-W59G、NSDT-W59）が必要となる。
+47. K005に限り防水機能のほか、防塵機能もサポートする。
+48. [トヨタ店](https://ja.wikipedia.org/wiki/トヨタ店 "wikilink")、[トヨペット店](https://ja.wikipedia.org/wiki/トヨペット店 "wikilink")、[カローラ店](https://ja.wikipedia.org/wiki/カローラ店 "wikilink")、[ネッツ店](https://ja.wikipedia.org/wiki/ネッツ店 "wikilink")、[トヨタレンタリース](../Page/トヨタレンタリース.md "wikilink")店、トヨタ部品共販店、[トヨタL\&F](../Page/トヨタL&F.md "wikilink")店。
+49. W44Tの本体色は計4色。
+50. [日本エンタープライズ](../Page/日本エンタープライズ.md "wikilink")提供。後述のLEXUS W44T IIIもオリジナルコンテンツ自体はTiMO W44T IIと共通。
+51. なお無料で貰える着うたフルの楽曲は邦楽、洋楽問わず[ソニー・ミュージック](https://ja.wikipedia.org/wiki/ソニー・ミュージック "wikilink")系および[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")系（いずれも2007年10月31日をもって配信終了）、[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")系（2007年11月1日以降から配信開始）の楽曲がほとんどで1970年代後半から1990年代後半までの楽曲が大多数を占める。ごくまれに最近の楽曲が無料でダウンロード可能な場合もある。
+52. 後述のLEXUS W44T IIIの場合は「G-Link」対応ナビを装備した車種との連動の強化
+53. LEXUS W44T IIIの場合はブラックのみ。

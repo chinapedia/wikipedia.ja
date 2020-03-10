@@ -1,0 +1,41 @@
+> この記事は[RADIO](https://ja.wikipedia.org/wiki/RADIO)から翻訳されています。
+
+
+**前頭のぶちかましRADIO**（**まえがしらのぶちかましラジオ**）は、2002年10月から2007年3月まで[中国放送](../Page/中国放送.md "wikilink")で放送されていた夜の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。 毎週[月曜](https://ja.wikipedia.org/wiki/月曜 "wikilink")21:50～24:00に[生放送](../Page/生放送.md "wikilink")されていた。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")、[maegashira](https://ja.wikipedia.org/wiki/maegashira "wikilink")の[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")野上智行と[HIPPY](https://ja.wikipedia.org/wiki/HIPPY "wikilink")（[イシカワヒロキ](https://ja.wikipedia.org/wiki/HIPPY "wikilink")）。
+
+放送時間は[2004年](../Page/2004年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")までは毎週[日曜日](../Page/日曜日.md "wikilink")だったが、同年[8月2日](../Page/8月2日.md "wikilink")より[月曜日](../Page/月曜日.md "wikilink")に変更され、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは22:00からの放送だったが、[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から現在の21:50からの放送と10分拡大した。
+
+兄弟番組に[モノイイ](https://ja.wikipedia.org/wiki/モノイイ "wikilink")(土23:05～23:10)があったが、こちらも2007年3月31日をもって終了した。
+
+## タイムテーブル
+
+  - 21:50 オープニング ぶちかまし
+  - 22:00 ぶちかまし フリートーク
+  - 22:15 お前は誰だっ\!
+  - 22:50 助けてトクエモンorヒピエモン\!
+  - 22:55 [中国新聞](../Page/中国新聞.md "wikilink")ニュース
+  - 23:00 パナ・プッシュ\!プッシュ\!GT(ジーティー)
+  - 23:30 アナログ親方\!\!
+  - 23:40 今週のつっぱり相撲
+  - 23:50 エンディング ぶちかまし
+
+## 全コーナー
+
+  - **お前は誰だっ\!**…「よく見かけるけど名前をしらない」「本当はこんな名前だと思う」というモノに名前を付けていくコーナー
+  - **QUIZ・カシラ TO ガッチンコ！！**…リスナーが電話でクイズに挑戦するコーナー。賞金は最大9000円
+  - **教えて\!ポクモンさん**…リスナーからの疑問質問難問に答えていく
+  - **パナ・プッシュ\!プッシュ\!GT**…ドラム・パナが一押しナンバーを紹介する
+  - **アナログ親方\!\!**…RCCのレコード室にあるアナログレコードの曲を、クジを引いて曲を流す
+  - **今週のつっぱり相撲**…一言ボケのネタコーナー
+  - **金どこのコーナー**…～世の中に一つでも大旋風を一つでも起こした「**金星さん\!**」そんな金星さんたちが、どこにいるか?何をしているのか?」をリスナーのみんなに、『**金星さん情報を、勝手に創造して、投稿して欲しい\!\!**』と言うネタコーナー
+  - **ぶちかましアタック25**…前頭のどちらか一人と、リスナーがクイズで勝負。リスナーが勝てば3000円をプレゼント
+  - **前頭22時50分**…「**考えると夜も眠れない･･･**」そんなリスナーからの素朴な疑問を前頭が答える
+  - **ぶちかまし番付**…世の中のあらゆることを「お題」にした、三段オチコーナー
+  - **かしらの体操**…毎週、エンディングになぞなぞ等を宿題に出す
+
+## 外部リンク
+
+  - [番組Webサイト](http://www.1350.jp/mae/)
+  - [maegashira official web site](http://maegashira.jp/)
+
+[Category:中国放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:中国放送のラジオ番組 "wikilink") [Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink")

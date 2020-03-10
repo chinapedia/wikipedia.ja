@@ -1,0 +1,40 @@
+> この記事は[CDian](https://ja.wikipedia.org/wiki/CDian)から翻訳されています。
+
+
+**CDian**（シーディアン）は、[日本ビクター](../Page/日本ビクター.md "wikilink")が[1988年](../Page/1988年.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで販売していた[CD](../Page/コンパクトディスク.md "wikilink")[ラジカセ](https://ja.wikipedia.org/wiki/ラジカセ "wikilink")のシリーズ名である。
+
+## 概要
+
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に発売され、1988年まで販売されていた**CDean**（シーディーン）シリーズの事実上の後継のシリーズで、全機種ダビングのできるダブル[カセットデッキを搭載しており](../Page/コンパクトカセット.md "wikilink")、多くの機種でG-HORN EXと呼ばれる[サブウーハー](https://ja.wikipedia.org/wiki/サブウーハー "wikilink")を搭載しているのが特徴である。
+
+また、同社にとっては初の本格的なCDラジカセの発売であったので、その後の同社のCDラジカセの原型となったモデルが多いのも特徴の一つである（CDeanシリーズは一部の部品に他社製のものを流用していたため、完全な自社設計ではなかった）。
+
+1990年にはCDianシリーズの後継として、[CDioss](https://ja.wikipedia.org/wiki/CDioss "wikilink")シリーズが発表されている。
+
+## 歴代ラインナップ
+
+### 1988年発売
+
+  - RC-X90
+    1988年に発売されたCDianシリーズのなかでは、最上級機種にあたるモデルであった。サブウーハーを搭載しており、カセットデッキは三機種のなかで唯一フルロジックとなっており、ノイズリダクションとして[ドルビー](https://ja.wikipedia.org/wiki/ドルビー "wikilink")Bを搭載していた。また、メインディスプレイは一般的な[液晶を使ったものではなく](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")、[FL管を使ったものになっており](../Page/蛍光灯.md "wikilink")、シリーズ中唯一[スペクトラムアナライザ](https://ja.wikipedia.org/wiki/スペクトラムアナライザ "wikilink")を搭載していた。当時の定価は87800円であった。
+  - RC-X70
+    シリーズの中堅に位置するモデル。サブウーハーは搭載しているものの、カセットデッキが一般的な手動式のものになり、チューナー部分もRC-X90が[シンセサイザー](https://ja.wikipedia.org/wiki/周波数シンセサイザ "wikilink")[チューナーだったのに対し](../Page/受信機.md "wikilink")、RC-X70ではアナログ式のものになっているなど、RC-X90から多くの機能が省かれている。また、メインディスプレイも液晶が使われており、ノイズリダクションも搭載されていない。当時の定価は56800円であった。
+    RC-X70のみ当時[TVCMが放送されていた](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")。当時人気だった[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")の[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")のメンバー全員が出演しており、ボーカルの[櫻井敦司](https://ja.wikipedia.org/wiki/櫻井敦司 "wikilink")、ギターの[今井寿](https://ja.wikipedia.org/wiki/今井寿 "wikilink")と[星野英彦](https://ja.wikipedia.org/wiki/星野英彦 "wikilink")がRC-X70を片手（星野は左手で持って担いでいた）に、全員で[成田国際空港](https://ja.wikipedia.org/wiki/成田国際空港 "wikilink")を練り歩くという内容であった。
+    またこのCMには、発売と同時に放送されたものと、発売から少し経ってから放送された2パターンがあり、台詞の部分などが若干異なる。
+    ちなみに、CMで登場する「重低音がバクチクする」というコピーは有名である。
+  - RC-X3
+    1988年に発売されたCDianシリーズのなかでは、もっとも安価なモデルであった。サブウーハーが搭載されておらず、RC-X90とRC-X70では対応していたリモコンにも非対応となっていた。また、オートリバースも搭載されていなかった。当時の定価は45800円であった。
+
+### [1989年](../Page/1989年.md "wikilink")発売
+
+基本的には、1988年発売の三機種のコンセプトを踏襲しつつ、細部の改良やコストダウンがなされている。
+
+  - RC-X50
+    1989年に発売されたCDianシリーズのなかでは、もっとも安価なモデルであった。サブウーハーは搭載していたものの、リモコンには非対応となっていた。また、オートリバースは再生専用のデッキのみ対応していた。当時の定価は不明である。
+
+## 関連項目
+
+  - [日本ビクター](../Page/日本ビクター.md "wikilink")
+  - [ラジカセ](https://ja.wikipedia.org/wiki/ラジカセ "wikilink")
+
+[Category:日本の音響機器メーカー](https://ja.wikipedia.org/wiki/Category:日本の音響機器メーカー "wikilink") [Category:日本ビクター](https://ja.wikipedia.org/wiki/Category:日本ビクター "wikilink")

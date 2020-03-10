@@ -1,0 +1,44 @@
+> この記事は[Jetpac](https://ja.wikipedia.org/wiki/Jetpac)から翻訳されています。
+
+
+**Jetpac**（ジェットパック）は1983年に[レアの前身であるUltimate](https://ja.wikipedia.org/wiki/レア_\(企業\) "wikilink") Play The Game社が発売した、固定画面のアクションシューティングゲーム。
+
+1999年12月10日発売の[NINTENDO64](../Page/NINTENDO64.md "wikilink")用ソフト『[ドンキーコング64](https://ja.wikipedia.org/wiki/ドンキーコング64 "wikilink")』に収録されたほか、2007年3月28日には[Xbox 360向けに](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")[Xbox Live Arcadeでリメイク版](https://ja.wikipedia.org/wiki/Xbox_Live "wikilink")『Jetpac Refuelled』が配信開始されている。
+
+## 概要
+
+Jetmanシリーズの最初の作品である。
+
+イギリスのSinclair ZX Spectrum用ソフトとしては1983年の9月度・10月度に最も多く売れた作品で、この年創設されたGolden Joystick Awardの第一回[ゲーム・オブ・ザ・イヤー](https://ja.wikipedia.org/wiki/ゲーム・オブ・ザ・イヤー "wikilink")の栄誉に輝き、1991年に発表されたYour Sinclair誌のゲーム史上トップ100では第14位に輝くなど、高い評価を受けている。
+
+イギリスのコンシューマーゲーム黎明期の傑作にして、レア社の最初期の傑作と位置付けられており、後に何度かリメイクされている。
+
+## プレイ内容
+
+まずプレイヤーはステージ上に3分割されて置かれているロケットを組み立てる（この段階は4面ごとに発生する）。各パーツの順番は決められており、正しい順番になるようにしかパーツを取れないようになっている。パーツはステージの最下層にある完成済みのロケットの上空に行くと自動的に落下を開始し組み立てられる。
+
+ロケットを組み立てた後は上空から降ってくる燃料タンクを集める事になる。燃料タンクも完成したロケットの上空に行くと自動的に落下しロケットに燃料が補給される。燃料タンクを6つロケットに送った後ロケットに乗り込めばステージクリア（次のステージに進む）。ステージが進むにつれ難易度が上がっていく。
+
+ゲーム中画面のいろいろなところから出てくる敵キャラはレーザーを撃つ事で撃退できる。また上空から降ってくるアイテムを取る事でボーナス点が得られる。
+
+なお『ドンキーコング64』の収録版は明確なラストステージがないため、5000点稼ぐと目標クリアで『ドンキーコング64』としてのキーアイテムが取れる仕様になっていたが、これと前述の後の方に行くほど難易度上昇の仕様がかみ合っておらず、目標クリアのためにはステージ1すらクリアする必要性が無くなっていた。
+
+### Refuelledでの変更点
+
+Xbox360版『Jetpac Refuelled』では以下の変更点がある。
+
+  - レーザーをパワーアップさせるアイテムがあり、取ると最初は前方のみであったレーザーを撃てる方向が前方+上空→拡散（上下45度の角度指定が可能）と変化する。拡散レーザーの状態でパワーアップアイテムを取ると前方のみに戻るが射程距離が伸びる。なおステージをクリアするとレーザーの発射方向は前方のみに戻り、ミスした場合はレーザーの状態は初期状態に戻る。
+  - 周囲の敵を一掃できるEMPが追加された（使用回数は限られており、アイテムにより補給する）。
+  - 時間制限がある。
+  - 対戦モードを追加。アイテムやロケットの組み立てによるスコアを競う物になっている。相手が抱える燃料やロケットパーツに向けて銃を連射すると奪取が可能。勝負はルームマスターが予め定めた終了時間が訪れるまで続き、ラストスコアで勝敗が決まる。
+
+なおXbox360版にもオリジナル版がRetroモードとして収録されている。
+
+## 注釈
+
+## 外部リンク
+
+  - [Xbox.com - Jetpac Refuelled](http://www.xbox.com/ja-JP/games/j/jetpacrefuelledxboxlivearcade/default.htm)
+  - [Jetpac Refuelled Game Guide](http://www.rareware.com/jetpacguide/)
+
+[Category:レアのゲームソフト](https://ja.wikipedia.org/wiki/Category:レアのゲームソフト "wikilink") [Category:1983年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1983年のコンピュータゲーム "wikilink") [Category:Xbox_Live_Arcade対応ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_Live_Arcade対応ソフト "wikilink")

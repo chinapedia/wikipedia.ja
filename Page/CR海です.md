@@ -1,0 +1,49 @@
+> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+
+
+**CR海です**（-うみです、機種名「See Study 海です」）は、[2003年](../Page/2003年.md "wikilink")に[ソフィアが開発し](https://ja.wikipedia.org/wiki/ソフィア_\(パチンコ\) "wikilink")、[西陣が発売した](https://ja.wikipedia.org/wiki/西陣_\(企業\) "wikilink")[三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")の[海物語シリーズ](https://ja.wikipedia.org/wiki/海物語シリーズ "wikilink")をモチーフとした[CR機](https://ja.wikipedia.org/wiki/CR機 "wikilink")または[現金機](https://ja.wikipedia.org/wiki/現金機 "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。
+
+## 特徴
+
+  - 三洋物産の『海物語シリーズ』をリメイクする形でリリースされた。いわゆるパロディやモチーフのかぶりなどではなく正式に三洋物産からライセンスされた上で発売したもので、当機は業界初の他社製パチンコシリーズの発売機種となる。
+  - 登場人物は、本家でお馴染みの「マリンちゃん」は登場せず、当機オリジナルキャラの「シンディ」が登場する。
+  - 回転数951回転～1051回転の間はリーチ発生率がアップする。
+
+## スペック
+
+  - 『CR海ですGS2』（BeBlue Model）、『CR海ですGS』（ELFIN MODEL）
+  - 台枠デザインの違いで、スペックは同一
+      - 大当たり確率 1/345（確率変動中 1/57.5）
+      - 確率変動割合 1/2（以後次回まで継続）
+      - 全ての大当たり終了後、100回転の時短
+      - 賞球数 4&15 大当たり15R9C
+  - 『CR海ですV2』（BeBlue Model）、『CR海ですV』（ELFIN MODEL）
+  - 台枠デザインの違いで、スペックは同一
+      - 大当たり確率 1/320（確率変動中 1/64）
+      - 確率変動割合 1/2（以後次回まで継続）
+      - 確率変動終了後、100回転の時短
+      - 賞球数 4&15 大当たり15R10C
+  - 『CR海ですVS2』（BeBlue Model）、『CR海ですVS』（ELFIN MODEL）
+  - 台枠デザインの違いで、スペックは同一
+      - 大当たり確率 1/315（確率変動中 1/63）
+      - 確率変動割合 1/2（以後次回まで継続）
+      - 確率変動終了後、100回転の時短
+      - 賞球数 4&15 大当たり15R9C
+  - 『海ですSV』（ELFIN MODEL）
+      - 大当たり確率 1/230
+      - 大当たり終了後「7」図柄当選時 10000回、「1、5、9」図柄当選時 100回、その他 40回の時短
+      - 賞球数 5&13 大当たり16R9C
+
+<small>※大当たり確率はメーカー発表値</small>
+
+## 演出
+
+  - 「シンディリーチ」
+  - 「ハンサムリーチ」
+  - 「全回転リーチ」
+
+## 関連項目
+
+  - [海物語シリーズ](https://ja.wikipedia.org/wiki/海物語シリーズ "wikilink")
+
+[Category:西陣_(企業)](https://ja.wikipedia.org/wiki/Category:西陣_\(企業\) "wikilink")

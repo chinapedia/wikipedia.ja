@@ -1,0 +1,115 @@
+> この記事は[ZERO  ](https://ja.wikipedia.org/wiki/ZERO__)から翻訳されています。
+
+
+『**ストリートファイターZERO ファイターズジェネレーション**』 (*STREET FIGHTER ZERO Fighter's Generation*) は[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")より発売された[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[ストリートファイターZERO](https://ja.wikipedia.org/wiki/ストリートファイターZERO "wikilink")』シリーズ4作品と『[ポケットファイター](https://ja.wikipedia.org/wiki/ポケットファイター "wikilink")』を1枚の[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")に収録した[PlayStation 2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
+
+日本では[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")に発売され、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[11月15日](../Page/11月15日.md "wikilink")には[廉価版](https://ja.wikipedia.org/wiki/廉価版 "wikilink")「**Best Price\!**」として再登場した。日本国外版のタイトルは『*Street Fighter Alpha Anthology*』。
+
+初期状態で出現しているのは以下の5タイトル。ゲーム内容は全てアーケード版をベースにしている。
+
+  - ストリートファイターZERO （1995年6月稼動）
+  - ストリートファイターZERO2 （1996年3月稼動）
+  - ストリートファイターZERO2 ALPHA （1996年8月稼動）
+  - ストリートファイターZERO3 （1998年7月稼動）
+  - ポケットファイター （1997年9月稼動）
+
+また、特定の条件を満たすと[シークレットゲームとして追加タイトルが出現する](https://ja.wikipedia.org/wiki/#シークレットゲーム "wikilink")。
+
+## 概要
+
+カプコンが[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から発売した対戦型格闘ゲーム『[ストリートファイターZERO](https://ja.wikipedia.org/wiki/ストリートファイターZERO "wikilink")』（以下『ZERO』）シリーズを一纏めにしたコレクションソフトである。『[ヴァンパイア ダークストーカーズコレクション](https://ja.wikipedia.org/wiki/ヴァンパイア_ダークストーカーズコレクション "wikilink")』で好評だったシークレットファクターや、[PlayStation BB Unit](../Page/PlayStation_BB_Unit.md "wikilink")（PS2専用[ハードディスク](https://ja.wikipedia.org/wiki/ハードディスク "wikilink")）にインストールできる要素は本作にも搭載されている。
+
+ポーズメニューからキャラクターごとの必殺技、スーパーコンボなどのコマンド表を閲覧することも可能。また、キャラクターのカラーエディット機能も搭載している。シークレットオプションではアーケード版に存在した[バグ](https://ja.wikipedia.org/wiki/バグ "wikilink")や怪現象を再現したり、それらを修正したバージョンにしたりと自由にプレイ環境を設定できる。
+
+なお、本作は基本的にアーケード版をベースとした作品のため、[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")版『ZERO3↑』や[PlayStation Portable版](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『ZERO3↑↑』で新たに追加された[イーグル](https://ja.wikipedia.org/wiki/イーグル_\(ストリートファイター\) "wikilink")、[ユン](https://ja.wikipedia.org/wiki/ユン_\(ストリートファイター\) "wikilink")、[マキ](https://ja.wikipedia.org/wiki/マキ_\(ファイナルファイト\) "wikilink")、[イングリッドの](https://ja.wikipedia.org/wiki/イングリッド_\(カプコン\) "wikilink")4名は登場しない。
+
+## ゲームモード
+
+  - アーケードモード
+    『ハイパーZERO』以外の全作品に収録。コンピュータ相手に勝ち抜くアーケードのゲームを再現したモード。乱入可。
+  - VSモード
+    全作品に収録。二人対戦に特化したモード。オプションのプレイヤー設定を変更することで片方、または両方をコンピュータ操作にすることができる。
+  - サバイバルモード
+    『ポケットファイター』と『ハイパーZERO』以外の全作品に収録。一本の体力で敵を何体倒せるか競うモード。
+  - トレーニングモード
+    全作品に収録。操作の練習が出来るモード。
+  - ドラマチックバトル
+    『ポケットファイター』と『ハイパーZERO』以外の全作品に収録。二対一でボス級のキャラクターと戦うモード。『ZERO』、『ZERO2』は体力ゲージを二人で共有し、『ZERO2』はスーパーコンボゲージが常時満タンになっている。
+  - アーケードモード（隠しモード）
+    『ポケットファイター』と『ハイパーZERO』以外の全作品に収録。隠しコマンドを要するモード。通常のアーケードモードには登場しないキャラクターが出現するようになる。
+  - VSモード（隠しモード）
+    全作品に収録。隠しコマンドを要するモード。設定された中からキャラクター、モードをランダムで選出し延々と対戦を繰り返すモード。『ポケットファイター』ではステージ曲の代わりに各キャラクターに設定されたBGMが流れるようになる。
+  - ランダムサバイバル
+    『ポケットファイター』に収録。隠しコマンドを要するモード。二本の体力ゲージで全12キャラクターと対戦する。1人倒すと次のキャラクターが間髪をいれずに出現する。メガクラッシュで回復アイテム（大）が出現し、挑発で体力が少し回復する。
+  - ドラマチックサバイバル
+    『ポケットファイター』と『ハイパーZERO』以外の全作品に収録。隠しコマンドを要するモード。二対一でのサバイバルモード。
+
+## 初期の収録ゲーム
+
+  - ストリートファイターZERO
+    『ZERO』シリーズ一作目。通常のドラマティックバトルに加え、アーケードと同じ隠しコマンドを入力することでリュウ&ケン対ベガのオリジナルのドラマチックバトルもプレイできる（このモードのBGMは『[恋しさと せつなさと 心強さと](https://ja.wikipedia.org/wiki/恋しさと_せつなさと_心強さと "wikilink")』\[1\]）。オプションでゲーム中のBGMをCPS1のものに切り替えることもできる。ダンのボイスはアーケード準拠。
+  - ストリートファイターZERO2
+    『ZERO』シリーズ二作目。アーケードでは本来『ZERO2 ALPHA』の搭載となったドラマチックバトルも新たに収録されている。
+  - ストリートファイターZERO2 ALPHA
+    『ZERO2』のアッパーバージョン。アーケードと同じく、殺意の波動に目覚めたリュウなどの追加キャラクター、追加カラーも収録されている。
+  - ストリートファイターZERO3
+    『ZERO』シリーズの三作目。他作品と同様にアーケードに忠実な再現がなされており、バイソン、ユーリ、ユーニもアーケードと同じ仕様（ベガと同じストーリー）で登場する。
+  - ポケットファイター
+    ボーナストラックとして収録。『[スーパーパズルファイターIIX](https://ja.wikipedia.org/wiki/スーパーパズルファイターIIX "wikilink")』風味のデフォルメキャラクターを使用した格闘ゲーム。他作品と異なりドラマチックバトル、サバイバルモードは無いが、オリジナルのモード「ランダムサバイバル」が追加。また、アーケードモードのデモに家庭用移植版と同様のボイスが付くなど、若干の改良もなされている。対戦を続ける隠しモードでは他ゲームのBGMが流れる。
+
+## シークレットゲーム
+
+条件を満たすと、以下の追加タイトルが出現する。
+
+  - ストリートファイターALPHA2
+    [北米で稼動していた](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")『ストリートファイターZERO2』のローカライズバージョン。正確には本作に収録されているものは、日本版『ZERO2』をベースにして『ALPHA2』風にアレンジしたものである。
+    日本国内版『ZERO2』とは違いメッセージが全て英語になっている他、一部のキャラクターの名前が変更されている（[NASH](https://ja.wikipedia.org/wiki/ナッシュ_\(ストリートファイター\) "wikilink")→CHARLIE、[GOUKI](https://ja.wikipedia.org/wiki/豪鬼 "wikilink")→AKUMA、[VEGA](https://ja.wikipedia.org/wiki/ベガ_\(ストリートファイター\) "wikilink")→M. BISON）。隠しキャラクターとして[殺意の波動に目覚めたリュウ](https://ja.wikipedia.org/wiki/リュウ_\(ストリートファイター\)#殺意の波動に目覚めたリュウ "wikilink")、『ストリートファイターII'』風の[ザンギエフ](../Page/ザンギエフ.md "wikilink")と[ダルシム](../Page/ダルシム.md "wikilink")が使える。
+    『ZERO2』をクリア後、セレクトボタンを押しながら『ZERO2』を選択すると出現する。
+  - ストリートファイターZERO2'（-ダッシュ）
+    アーケード版『ZERO2 ALPHA』の家庭用へのアレンジ移植版。正確には本作に収録されているものは、アーケード版『ZERO2 ALPHA』をベースにしてセガサターン版『ZERO2'』風にアレンジしたものとなっており、初期設定ではタイトルが『ZERO2 ALPHA』のままとなっている。
+    BGMがSS版でのアレンジ版になっている他、[キャミィ](https://ja.wikipedia.org/wiki/キャミィ "wikilink")が使えるようになっている。PS、SS版『ZERO2'』ではキャミィは対戦モードでしか使えなかったが、本モードでは全てのモードで使用可能になっており、アーケードモードではエンディングも追加されている。ただしSS版がベースのため、PS版でのキャミィステージのBGMは収録されていない。
+    『ZERO2 ALPHA』をクリア後、セレクトボタンを押しながら『ZERO2 ALPHA』を選択すると出現する。
+  - ストリートファイターZERO3↑（-アッパー）
+    『ストリートファイターZERO3』に[ディージェイ](https://ja.wikipedia.org/wiki/ディージェイ_\(ストリートファイター\) "wikilink")、[T.ホーク](https://ja.wikipedia.org/wiki/サンダー・ホーク "wikilink")、[フェイロン](https://ja.wikipedia.org/wiki/フェイロン "wikilink")、[ガイル](../Page/ガイル_\(ストリートファイター\).md "wikilink")、殺意の波動に目覚めたリュウ、真・豪鬼の6人を追加して、家庭用の要素も取り入れつつバランスを調整したバージョン。正確には本作に収録されているものは、アーケードのCPS-2版『ZERO3』をベースにしてアーケードの[NAOMI](https://ja.wikipedia.org/wiki/NAOMI "wikilink")版『ZERO3↑』風にアレンジしたものとなっており、初期設定ではタイトルが『ZERO3』のままとなっている。
+    『ZERO3』をクリア後、セレクトボタンを押しながら『ZERO3』を選択すると出現する。
+  - ハイパーストリートファイターZERO
+    『ZERO3』のシステムをベースとして、『ZERO』、『ZERO2』、『ZERO2 ALPHA』、『ZERO3↑』の全キャラクターを使用して対戦できるモード。作品ごとの性能差や、オートモードや隠しカラーといった作品固有の要素も再現。対戦とトレーニング専用のモードで、アーケードモードは無い。オープニングデモやCOMによるプレイデモは無く、またステージも3種類（中国・万里の長城、ギアナ高地・大瀑布、シークレットポイント31580）のみと対戦に特化した簡素な作りとなっている。ゲーム中BGMは使用キャラクターのホームステージの曲が流れるが、X-ISMなど一部のプレイモードはキャラクターによってBGMが通常と違うものになる。
+    隠しISMとして4種類のシャドルーISM (S-ISM) が用意されている。隠しISMのベースはいずれも『ZERO3↑』。
+      - SHADALOO-A（赤S-ISM） - 使用時は「クラシカル」から変化。『ZERO3』でのS-ISMに最も近い。基本はZ-ISMだがゲージが1本になり、派手な演出の新技が追加されるなど、性能が変更されているキャラクターもいる。ベガでこのISMを選択するとラストボスの「ファイナルベガ」に変化する。
+      - SHADALOO-B（青S-ISM） - 使用時は「マジ」から変化。基本はX-ISMだが、『[ストリートファイターIII](https://ja.wikipedia.org/wiki/ストリートファイターIII "wikilink")』にあったブロッキングやスーパーキャンセルが追加されている。『スーパーストリートファイターIIX』のキャラクターをこのISMで使用するとBGMが同作品の3DO版のテーマに差し変わる。
+      - SHADALOO-C（緑S-ISM） - 使用時は「ノーマル」から変化。基本はZ-ISMだがゲージが1本になり、『[ヴァンパイアセイヴァー](https://ja.wikipedia.org/wiki/ヴァンパイアセイヴァー "wikilink")』のようなチェーンコンボやガードキャンセル、アドバンシングガードが追加されている（用語の詳細は『[ヴァンパイア](../Page/ヴァンパイア_\(ゲーム\).md "wikilink")』の項目を参照）。
+      - SHADALOO-D（桃S-ISM） - 使用時は「サイキョー」から変化。『ストリートファイターII'（-ダッシュ）』をそのまま再現した性能になっている。選択できるのは『ストリートファイターII'』に登場した12人のみ。スーパーコンボや空中ガードなどはできないが、攻撃力が高い。このISMを使用するとBGMがアーケード版『ストリートファイターII』のテーマに差し変わる。
+    全収録作品（『ポケットファイター』や上記3つのシークレットゲームを含む8作品）をクリア後、セレクトボタンを押しながら『ZERO』を選択すると出現する。
+
+## サウンドテスト
+
+本作はサウンドテストが充実しているのも特徴のひとつ。シリーズの[BGM](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")、ボイス、効果音を自由に聞くことができる。また上記の『ハイパーストリートファイターZERO』では、『ZERO』シリーズのアーケード版BGM、家庭用移植版のアレンジBGM（[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")版『ZERO2』なども含む）に加え、『ストリートファイターII』シリーズや『スーパーパズルファイターIIX』などのBGM、さらに家庭用『スーパーパズルファイターIIX』に収録されていた[さくらの歌](https://ja.wikipedia.org/wiki/春日野さくら "wikilink")「この思いを伝えたい」や、同作をCDプレイヤーで再生したときのワーニングメッセージなども収録されている。
+
+## 日本国外版
+
+日本国外版 "***Street Fighter Alpha Anthology***" では、以下の作品が収録されている。
+
+  - *Street Fighter Alpha* - 日本版の『ZERO』に相当。
+  - *Street Fighter Alpha 2* - 日本版の『ALPHA2』に相当。
+  - *Street Fighter Alpha 2 Gold* - 日本版の『ZERO2'』に相当。
+  - *Street Fighter Alpha 3* - 日本版の『ZERO3』に相当。
+  - *Super Gem Fighter Mini Mix* - 日本版の『ポケットファイター』に相当。
+  - *Street Fighter Alpha 3 Upper* （シークレット） - 日本版の『ZERO3↑』に相当。『*Alpha 3*』をクリアすると出現。
+  - *Hyper Street Fighter Alpha* （シークレット） - 日本版の『ハイパーZERO』に相当。上記6作品をクリアすると出現。
+
+日本版とは異なり、標準で "*Street Fighter Alpha 2*" と "*Street Fighter Alpha 2 Gold* （国外版家庭用『ZERO2'』）" が出現しているため、シークレットゲームとして出現するものは "*Street Fighter Alpha 3 Upper*" と "*Hyper Street Fighter Alpha*" の2タイトルのみとなっている。日本版『ZERO2』や『ZERO2 ALPHA』に当たるものは収録されていない。
+
+## 脚注
+
+## 関連項目
+
+  - [ストリートファイターZERO](https://ja.wikipedia.org/wiki/ストリートファイターZERO "wikilink")
+  - [ポケットファイター](https://ja.wikipedia.org/wiki/ポケットファイター "wikilink")
+  - [ヴァンパイア ダークストーカーズコレクション](https://ja.wikipedia.org/wiki/ヴァンパイア_ダークストーカーズコレクション "wikilink")
+
+## 外部リンク
+
+  -
+[Category:ストリートファイター](https://ja.wikipedia.org/wiki/Category:ストリートファイター "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:カプコンのオムニバスゲーム](https://ja.wikipedia.org/wiki/Category:カプコンのオムニバスゲーム "wikilink")
+
+1.  日本国外版ではリュウ&ケン対ベガのオリジナルのドラマチックバトルのBGMがベガのテーマに変更されている。

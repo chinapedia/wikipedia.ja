@@ -1,0 +1,47 @@
+> この記事は[POLYPHONIC MEETING](https://ja.wikipedia.org/wiki/POLYPHONIC_MEETING)から翻訳されています。
+
+
+**POLYPHONIC MEETING**（ポリフォニック ミーティング）は、[2002年](../Page/2002年.md "wikilink")に結成された男女2人組の音楽ユニット。通称「ポリフォ」。
+
+## 概要・略歴
+
+ボーカルのヒライミエと、ギターの和田としひろからなる2人組ユニット。共に[大阪](../Page/大阪.md "wikilink")在住。2002年、共通の友人を通じて知り合い、当時、和田の企画イベントにヒライが、ゲストボーカルとして参加。これがきっかけとなりPOLYPHONIC MEETINGが結成された。結成後、最初に作られた曲は「今日の終わりに」。
+
+結成当時から、関西を中心にライヴ活動を展開。最近では東京など関東のライヴハウスにも出演している。演奏形態はステージごとに変化。結成から最初の3年間、ライヴは常にポリフォの2人以外に、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[ドラムスなどサポートメンバーを迎えた](../Page/ドラムセット.md "wikilink")、バンド編成で行われていた。2005年秋からは、和田の手による打ち込みサウンドをフィーチャーして、2人のみで行われることが多くなった。またこの頃より、ギター一本で行われるアコースティックライヴが定期的に行われている。サウンドも、アルバム毎に変化。近年はバンド編成解体を機に、[ロック路線から](../Page/ロック_\(音楽\).md "wikilink")[エレクトロ](https://ja.wikipedia.org/wiki/エレクトロ "wikilink")路線に傾倒している。
+
+## メンバー
+
+  - ヒライミエ （1983年12月9日 - ）
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[キーボード担当](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")。
+  - 和田としひろ （わだ としひろ、1983年6月2日 - ）
+    [ギター](../Page/ギター.md "wikilink")担当。
+
+## ディスコグラフィー
+
+1.  POLYPHONICMEETING （2003年）
+      -
+        自主制作による1stミニアルバム。
+        記憶／花火／今日の終わりに／引力
+2.  光 （2004年）
+      -
+        2ndミニアルバム。
+        ゲストにワカンタンカのTonchi（スチールパン、コーラス）を迎えている。
+        光／手紙／メビウス
+3.  Rainbow Trip\!\!\! （2007年）
+      -
+        [エレクトロ](https://ja.wikipedia.org/wiki/エレクトロ "wikilink")サウンドをフィーチャーした[ポップアルバム](https://ja.wikipedia.org/wiki/ポップミュージック "wikilink")。
+        「メビウス」が前アルバムとバージョン違いで収録されている。
+        Rainbow Trip／家出／beautiful night／メビウス／アイリス／traveler
+4.  UNDER THE MOON（2008年）
+      -
+        4thアルバム
+        『一瞬で、ドラマチック。』
+        前作のデジタルサウンドは影を潜め、よりメロウに、より壮大に。
+        ベーシストに新たにano-hiのtakacoを迎えている。
+        SEARCH/月だけが見てる/タイムリミット/グッバイ/last/逃避行/パーフェク トスターター
+
+## 外部リンク
+
+[POLYPHONIC MEETING OFFICIAL WEB](http://sound.jp/poly/)
+
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")

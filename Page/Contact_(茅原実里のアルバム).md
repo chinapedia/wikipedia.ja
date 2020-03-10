@@ -1,0 +1,230 @@
+> この記事は[Contact \(\)](https://ja.wikipedia.org/wiki/Contact_\(\))から翻訳されています。
+
+
+『**Contact**』（コンタクト）は、[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")の1枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")に[Lantisから発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")。
+
+## 概要
+
+2007年[1月24日](../Page/1月24日.md "wikilink")に[シングル](../Page/シングル.md "wikilink")「[純白サンクチュアリィ](../Page/純白サンクチュアリィ.md "wikilink")」で歌手活動を再開させた茅原実里の、ランティス移籍後初となるアルバム。今作が初出となる新曲10曲に、既存のシングル曲2曲を加えた全12曲の他、今作の13曲目として、『Message 01』の特典CDに「Contact 13th」が収録されている。
+
+茅原は[2004年](../Page/2004年.md "wikilink")に『[HEROINE](https://ja.wikipedia.org/wiki/HEROINE_\(茅原実里のアルバム\) "wikilink")』をリリースしており、今作はそれ以来となる2作目のアルバムだが、公式には「2nd」ではなく、「Re-start 1st ALBUM」と位置づけられていて、ディスコグラフィのカウントが1作目に戻っている。これは、通算2作目ながら「Re-start 1st SINGLE」として扱われている「純白サンクチュアリィ」と共通している。
+
+2007年[11月5日](../Page/11月5日.md "wikilink")付オリコン週間チャートで初登場11位を獲得し、当時の茅原にとっては「[らき☆すた キャラクターソング Vol.006 岩崎みなみ](https://ja.wikipedia.org/wiki/らき☆すた_キャラクターソング#Vol.006_岩崎みなみ "wikilink")」に並ぶ自己最高位を記録した。なお、個人名義の作品に限れば、順位・売上共に自己最高だった。
+
+初回限定盤に限り、「Silver Limited Edition」と銘打たれた、[銀色](https://ja.wikipedia.org/wiki/銀色 "wikilink")の特製スリーブケース4面デジパック仕様で、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月9日](../Page/2月9日.md "wikilink")〜[3月23日](../Page/3月23日.md "wikilink")にかけて行われた[コンサートツアー](https://ja.wikipedia.org/wiki/演奏会 "wikilink")「Minori Chihara 1st Live Tour 2008 〜Contact〜」のライブ[チケット先行予約案内を封入している](../Page/切符.md "wikilink")。
+
+## 制作の過程
+
+茅原は[2004年](../Page/2004年.md "wikilink")に前作『HEROINE』で歌手デビューを果たしたものの売り上げは振るわず、その後は歌手活動はおろか本業である[声優](../Page/声優.md "wikilink")としての活動もままならなかった。[イベント](../Page/イベント.md "wikilink")や[路上ライブ](https://ja.wikipedia.org/wiki/路上ライブ "wikilink")、[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")での[チラシ](https://ja.wikipedia.org/wiki/チラシ "wikilink")撒きを行うなど試行錯誤の日々を過ごし、現状への苛立ち、己との葛藤、未来への不安が入り乱れ、途中で挫けてもおかしくない状況であった\[1\]。
+
+その後、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[涼宮ハルヒの憂鬱](https://ja.wikipedia.org/wiki/涼宮ハルヒの憂鬱_\(アニメ\) "wikilink")』で[サブヒロインの](https://ja.wikipedia.org/wiki/ヒロイン "wikilink")[長門有希役を演じ](https://ja.wikipedia.org/wiki/涼宮ハルヒシリーズの登場人物#SOS団 "wikilink")、「涼宮ハルヒの憂鬱 キャラクターソング Vol.2 長門有希」が茅原の[CD作品としては最高となる約](../Page/コンパクトディスク.md "wikilink")4万枚を売り上げるなど、一躍ブレイクを果たした。茅原は、今作の発売に至ったのはこの長門役を演じたことが大きく\[2\]、また、[涼宮ハルヒ](https://ja.wikipedia.org/wiki/涼宮ハルヒシリーズの登場人物#SOS団 "wikilink")（同アニメの[メインヒロイン](https://ja.wikipedia.org/wiki/ヒロイン "wikilink")）や[朝比奈みくる](https://ja.wikipedia.org/wiki/涼宮ハルヒシリーズの登場人物#SOS団 "wikilink")（同サブヒロイン）でなく、長門だったからこそ今の自分がいると語っている\[3\]。さらに、「涼宮ハルヒの憂鬱 キャラクターソング Vol.2 長門有希」を制作した際、今作の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である斎藤滋から、「茅原実里はこういう方向性で音楽活動をしていったほうがいいのではないか」とアドバイスを受けたことが、今作まで続くきっかけになったという\[4\]。
+
+2007年に入ると、「純白サンクチュアリィ」で歌手活動を3年ぶりに再開させ、[6月6日](../Page/6月6日.md "wikilink")には歌手活動再開後2枚目のシングルとなる「[君がくれたあの日](../Page/君がくれたあの日.md "wikilink")」を発売したが、茅原自身、その後にアルバム発売が待っていると思っていなかったため\[5\]、制作が決定した際には驚きでいっぱいだったと語っている\[6\]。そして、[8月11日](../Page/8月11日.md "wikilink")[正午](../Page/正午.md "wikilink")から全国の[アニメショップ](https://ja.wikipedia.org/wiki/アニメショップ "wikilink")115店舗の店頭[モニターで](https://ja.wikipedia.org/wiki/ビデオモニター "wikilink")「重大発表」と称したプロモーション映像が放映され、同年[11月18日](../Page/11月18日.md "wikilink")にバースデーライブ『i melody 〜Minori Chihara Birthday Live 2007〜』の開催、[12月26日](../Page/12月26日.md "wikilink")に[PV集](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")『[Message 01](https://ja.wikipedia.org/wiki/Message_01 "wikilink")』の発売（当時は発売日・作品名は未定）と共に、今作の発売が発表された。
+
+アルバム制作中、茅原は「1枚のアルバムをガッツリ集中して音楽を作れる環境がすごく幸せ」と語っており\[7\]、斎藤は「制作途中なのに仕上がりの良さに思わずニヤニヤしてしまったり、作っている過程で『すごい』と思える作品はなかなか無い」と評している\[8\]。
+
+## 作風
+
+タイトルの「Contact」は「触れ合い」、「接触」、「出会い」を意味しており\[9\]\[10\]、今作には「茅原実里と新しい[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")との触れ合い。聞く人との触れ合い。新しい出会い。彼女の[音楽](../Page/音楽.md "wikilink")と人生、そして彼女を応援する[ファン](../Page/ファン.md "wikilink")、全ては『触れ合い』から始まり、そしてこれからも続いていく」という想いが込められている\[11\]。また、これまで出会った楽曲や、[スタッフ](../Page/スタッフ.md "wikilink")陣への感謝の気持ちも表している\[12\]。
+
+今作の制作中に斎藤は、「（『純白サンクチュアリィ』、『君がくれたあの日』で見せた）[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")主体でありながら、[弦楽器](../Page/弦楽器.md "wikilink")と取り入れるという従来の路線を、さらに幅広くしていきたい」と語っており\[13\]、「打ち込み・[トランス](https://ja.wikipedia.org/wiki/トランス_\(音楽\) "wikilink")+ストリングス」による、「無機質と有機質の融合」がコンセプトとなっている\[14\]。また、茅原は「今回のアルバムは、場所や時代を限定しない作りになっています。いつの時代、どの年代の方にも、自分に置き換えて聴いていただけるような内容になっているので、多くの方に聞いていただきたい」と語っている\[15\]。
+
+また、斎藤は銀色を今作のキーカラーとしており\[16\]、初回限定仕様の色を銀色にしたのも「銀色は青空の下で見ると[水色](../Page/水色.md "wikilink")に見えて、[炎](https://ja.wikipedia.org/wiki/炎 "wikilink")の近くで見ると[赤](../Page/赤.md "wikilink")色にも見える。さまざまな色を持っている銀色が楽曲[イメージ](https://ja.wikipedia.org/wiki/イメージ "wikilink")にぴったりだった」ためである\[17\]。
+
+なお、今作に収録された12曲だけでは未完成であり、『Message 01』の特典CDに収録された、今作の13曲目にあたる「Contact 13th」と合わせて、初めて完成する\[18\]。
+
+## 批評
+
+CDジャーナルは、「クールなスピード感溢れるデジポップナンバーが続くが、『夏を忘れたら』、『truth gift』の様な和らかな一面を見せる楽曲が一際印象に残る作品。」と批評した\[19\]。
+
+## 収録曲
+
+1.  **Contact** \[3:28\]
+      -
+        作詞：[畑亜貴](https://ja.wikipedia.org/wiki/畑亜貴 "wikilink")、作曲・編曲：[菊田大介](https://ja.wikipedia.org/wiki/菊田大介 "wikilink")
+        今作の表題曲で、[イントロダクション的な役割の楽曲](../Page/導入部.md "wikilink")<ref>Lantis web site
+
+「[『Contact』 クロスレビュー 澄川龍一](http://www.lantis.jp/special/chihara-contactreview14.html)」</ref>。[アウトロ](../Page/アウトロ.md "wikilink")が次曲「詩人の旅」と繋がっており、間髪入れずに次曲が始まる。
+
+1.  **詩人の旅** \[4:14\]
+      -
+        作詞：畑亜貴、作曲・編曲：菊田大介
+        今作のメインとなっている楽曲で\[20\]、茅原曰く「旅をしながら人やモノや風景や、様々なものに出会って感動して、そこから生まれた言葉や歌をあとに残しながら、また次の場所へ向かって進んでいくという歌」で、“旅=人生”がテーマになっている\[21\]。
+        茅原は[レコーディングの際](../Page/録音.md "wikilink")、「楽曲の[テンポ](../Page/テンポ.md "wikilink")が早いから、遅れないよう気をつけて歌った」と語っており、一番の[サビ](https://ja.wikipedia.org/wiki/サビ "wikilink")の最後の[歌詞](../Page/歌詞.md "wikilink")では憶測だったものが、楽曲の最後の大サビの歌詞で確信に変わる部分が気に入っているという\[22\]。
+        今作初出の楽曲の中では唯一PVが制作されており、前述の「重大発表」のプロモーション映像でも今作の発売の発表と共にこのPVが放映された。なお、PV[音源](../Page/音源.md "wikilink")ではCD音源では無かったイントロが挿入されている。なお『[茅原実里のradio minorhythm](https://ja.wikipedia.org/wiki/茅原実里のradio_minorhythm "wikilink")』2代目オープニングテーマでもある。
+2.  **ふたりのリフレクション** \[4:50\]
+      -
+        作詞：[こだまさおり](https://ja.wikipedia.org/wiki/こだまさおり "wikilink")、作曲・編曲：菊田大介
+        茅原は「この楽曲に出てくる『ふたり』の関係性は[恋人](https://ja.wikipedia.org/wiki/恋人 "wikilink")、[家族](../Page/家族.md "wikilink")、友達、仕事の同僚など、誰にでもその存在を置き換えられる。また、普段なかなか踏み出せず、伝えられない思いを勇気を出して相手に伝えることで、お互いの気持ちがぶつかり合って生まれた[光](../Page/光.md "wikilink")、それが『リフレクション』」であると語っており、「もっと素直に、自由になれば、今より理想的な関係になっていける、というメッセージが込められている、そばにいる大切な人への曲」がテーマになっている\[23\]。
+        茅原はこの楽曲を初めて聴いた際、「今までにない明るさを放っていて、ライブでは自分もファンも笑顔で歌えそうな、キラキラした雰囲気の曲」という印象を受けたという\[24\]。また、レコーディングが全て終わったあとに[アレンジを直すことになり](../Page/編曲.md "wikilink")、それに伴い再びレコーディングし直すことになったが、これは茅原自身初めての経験であり、「作品をよりよくしようという制作陣の思い、パワー、行動力がこういう形になったので、しっかり歌おうと思った」と語っている\[25\]。
+        茅原は「強い思いって胸が押し付けられたり、動いたりする感覚があるので、それをちゃんと言葉にしているな」と思ったことから、2番のBメロの歌詞が気に入っているという\[26\]。
+3.  **[純白サンクチュアリィ](../Page/純白サンクチュアリィ.md "wikilink")** \[4:53\]
+      -
+        作詞：畑亜貴、作曲・編曲：菊田大介
+4.  **Dears 〜ゆるやかな奇跡〜** \[6:37\]
+      -
+        作詞：こだまさおり、作曲：[Tatsh](https://ja.wikipedia.org/wiki/清水達也 "wikilink")、編曲：[大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink")
+        茅原曰く「親愛なる人への[愛](../Page/愛.md "wikilink")に満ち溢れた曲」\[27\]。茅原はこの楽曲を家族へ向けて歌ったと語っており、「家族はどんな時でも味方になって、力を与えてくれる。自分が生きていられるのは家族がいるお陰だと思う。[夢](../Page/夢.md "wikilink")ばかり追いかけて、親不孝な娘だったと思っているので、それでも支えてくれた両親を思って歌った。だから、温かい気持ちが伝わればいいなと思う」と語っている\[28\]。
+        レコーディングの際は、ゆったりとした曲のため、フレーズの歌い終わりの処理が苦労したらしく、「[ビブラート](../Page/ビブラート.md "wikilink")をかければ強い気持ちで、かけなければ柔らかい気持ちで伝わると思ったので、かけるかかけないかで悩んだ」という\[29\]。また、「素直に、等身大の自分で歌えた曲」だと語っている\[30\]。なお、演奏時間は6分36秒に及び、今作の中では最長である。
+5.  **Cynthia** \[4:44\]
+      -
+        作詞：こだまさおり　作曲：Tatsh　編曲：大久保薫
+        タイトルの「Cynthia」とは[月](https://ja.wikipedia.org/wiki/月 "wikilink")の[女神](../Page/女神.md "wikilink")[アルテミス](../Page/アルテミス.md "wikilink")の別称。茅原曰く「女性が恋をして、[少女](../Page/少女.md "wikilink")から[大人](../Page/大人.md "wikilink")へと変わっていく姿や気持ちを描いている\[31\]。恋をして戸惑っている[女性](../Page/女性.md "wikilink")が、勇気を出し、一歩踏み出して、恋を始めようとする。恋を始めることは怖いけど、お互いが惹かれ合っているなら、それは抵抗できない。ならば月の女神に導かれて、二人で恋を始めよう、というロマンチックな歌」であり、「テンポが早く、ノリが良い、スタイリッシュな曲。[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")が流れるようで、聴いていて気持ちが良い」と語っている\[32\]。茅原が初めて歌詞を読んだときは、「読めば読むほど大人な歌詞だな、と思った」らしく、「楽曲を聴いていて、[映画](../Page/映画.md "wikilink")を観ているような雰囲気を感じたので、気持ちをしっかり乗せて歌うっていう感じともまた違うんじゃないかな、と色々考えた」という\[33\]。
+        楽曲は[英語](../Page/英語.md "wikilink")の[コーラスから始まるが](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、茅原は「私は英語が苦手なので、歌うことにプレッシャーがあった。レコーディング前は[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")を聞くようにして、良い雰囲気を出せるよう色々練習した」と語っており、「サビのテンポが本当に早くって、[ブレスをする間が見つけられず苦労した](../Page/呼吸.md "wikilink")。歌の難度が私的に非常に高い曲」だという\[34\]。
+6.  **sleeping terror** \[5:13\]
+      -
+        作詞：畑亜貴、作曲・編曲：菊田大介
+        作詞した畑曰く、「生きていると、抱えきれないほどの痛みや苦しみがある。それらを全て抱え、引きずって前に進むことは出来ない。時には忘れて、前を向いて歩いて行ったほうが楽なこともあるという、マイナスのようでプラスな楽曲」\[35\]。茅原は初めてこの楽曲を聴いた際、「とてもダークで重々しくて、[海底](../Page/海底.md "wikilink")にいるようなイメージを受けた」と語っており、歌詞には「現状から現実逃避している、救われない悲しい歌」という印象を持っていたが、レコーディングの際に畑から歌詞の意味を聞き、「畑さんらしい歌詞だな」と納得したという\[36\]。また、斎藤が楽曲の最後に[チェロ](../Page/チェロ.md "wikilink")を入れるか入れないかで迷っていて、最終的に入れることとなったが、茅原は「チェロを入れることで曲の奥行き、深さがさらに増した」と語っている\[37\]。
+        茅原曰く「Aメロの入るところから[キーが高くて](../Page/音階.md "wikilink")、[リズム](../Page/リズム.md "wikilink")もとりにくい」ため、レコーディングは何度も[リテイク](../Page/リテイク.md "wikilink")することになり、レコーディングが終わると茅原もスタッフもぐったりしていたという\[38\]。また、1番のAメロの歌詞が「[朝](https://ja.wikipedia.org/wiki/朝 "wikilink")がやって来る瞬間を凄く上手に、幻想的に表していて、朝日が昇って[空](https://ja.wikipedia.org/wiki/空 "wikilink")を[オレンジや赤に染めていく様子が想像できる](https://ja.wikipedia.org/wiki/オレンジ色 "wikilink")」と、気に入っていると語っている\[39\]。
+7.  **too late? not late...** \[4:28\]
+      -
+        作詞：畑亜貴、作曲：[俊龍](https://ja.wikipedia.org/wiki/俊龍 "wikilink")、編曲：菊田大介
+        「恋をして、戸惑いながらも大切な人のもとへと飛び込んでいくとっても前向きな曲」であると茅原は語っており、初めてこの楽曲を聴いたときは「思いの強さを感じさせるような[メロディ](../Page/メロディ.md "wikilink")だなと思って、サビのメロディに引き付けられた。楽曲の構成自体もシンプルで、聴いていて心地よかった」という\[40\]。ちなみに、聴いた場所は[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")での[イベント](../Page/イベント.md "wikilink")を終えた帰路の[飛行機](../Page/飛行機.md "wikilink")の車内だったため、「忘れもしない」と語っている\[41\]。レコーディングでは、「終盤に向かうにつれて気持ちの強さが増していくように、気持ちを込めてかっこよく歌った」という\[42\]。レコーディングの最後には、頭サビの「too late?」という部分を、メインボーカルよりも1[オクターブ](https://ja.wikipedia.org/wiki/オクターブ "wikilink")高いものを録って重ねることになり、茅原「実際に現場でやってみたらすごく良くて、ここも聴きどころの一つ」と語っている\[43\]。
+        茅原は「まさに『恋』という感じで好き」と2番のサビの最後の部分の歌詞が気に入っており、また間奏の[ギター](../Page/ギター.md "wikilink")[ソロを](../Page/ソロ_\(音楽\).md "wikilink")「めちゃくちゃかっこいい。ライブで弾いてもらえたらすごく嬉しい」と絶賛している\[44\]。なお、ギターを演奏しているのは[鈴木マサキ](https://ja.wikipedia.org/wiki/鈴木マサキ "wikilink")である。また、作曲を担当した俊龍はこの楽曲が[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")作となる\[45\]。
+8.  **夏を忘れたら** \[4:46\]
+      -
+        作詞：畑亜貴、作曲：[虹音](../Page/松田彬人.md "wikilink")、編曲：大久保薫
+        茅原曰く「[夏](../Page/夏.md "wikilink")の終わりに過去の大切な懐かしい人を思い出すという、切なくも爽やかな曲」で、「この曲が『Contact』に入ることで、表情が豊かになったと思う」と語っており、茅原自身「とてもお気に入り」という楽曲\[46\]。レコーディングの際に斎藤から「[避暑地](../Page/避暑地.md "wikilink")な気分で、頑張らないで歌って」というディレクションがあり、楽曲中に入る[シャッター音のタイミングでポーズをとって遊んだり](https://ja.wikipedia.org/wiki/シャッター_\(カメラ\) "wikilink")、両手を左右に振って踊りながら歌うなど、楽しんで歌えたと語っている\[47\]。
+        今作で唯一、虹音が参加している楽曲。虹音は茅原が大好きな楽曲だという「[fixed mind](https://ja.wikipedia.org/wiki/涼宮ハルヒの憂鬱_キャラクターソング#Vol.7_喜緑江美里 "wikilink")」の編曲を担当しており、茅原は「一緒に仕事ができて嬉しかった」という\[48\]。
+9.  **mezzo forte** \[4:52\]
+      -
+        作詞：こだまさおり、作曲：俊龍、編曲：菊田大介
+        茅原曰く「二人がお互いの気持ちを確認し合って少しずつ距離が縮まり、心が動き始めて、理想の二人に向かっていくという、幸せな歌」\[49\]。レコーディングの際、茅原は「研ぎ澄まされた感覚で、全体的に静かに歌うのかなと思って勝手にイメージを膨らませていた」が、斎藤に「全体的に綺麗というよりは、情熱的に歌ってほしい」と言われたため、Aメロは静かに入り、Bメロ、サビと徐々に情熱的に歌っていき、特にサビは熱い思いをぶつけるようにして歌ったという\[50\]。
+        茅原は「人は人と永遠にめぐり合い続けるというメッセージを本当に上手に表現している」と2番のBメロの歌詞が気に入っており、「ストリングスも心に刺さってくるし、メロディも切なくて、凄くハマっている曲」と語っている\[51\]。
+10. **[君がくれたあの日](../Page/君がくれたあの日.md "wikilink")** \[5:34\]
+      -
+        作詞：畑亜貴、作曲・編曲：菊田大介
+11. **truth gift** \[5:54\]
+      -
+        作詞：畑亜貴、作曲：Tatsh、編曲：[中西亮輔](https://ja.wikipedia.org/wiki/中西亮輔 "wikilink")
+        ゆったりとしたミディアム[バラード](../Page/バラード.md "wikilink")で、茅原が「デビューしてから色々な仕事をさせてもらってきて、色んな人たちに出会って、そこから生まれた思いや受け取った思いを胸に、前に進んでいるので、支えてくれている皆に『ありがとう』という思いを込めて歌った」という、茅原曰く「私から皆へのメッセージを込めた、感謝の歌」\[52\]。作詞した畑は茅原に「ずっと前から応援してくれている人、最近茅原実里を知った人、今まで支えてくれた人など、全ての人にいっぺんにお礼が言えるようなものにしたかった」と語っており、茅原は「畑さんは私の楽曲にたくさん携わってくれている人なので、私のことをよく理解しているからこそ、私が素直な気持ちで歌える歌詞を書くことができるんだろうなと思った」らしく、「その言葉を聞いたときに改めて畑さんに感謝しました」と語っている\[53\]。
+        今作で唯一、中西亮輔が参加している楽曲であり、茅原は「中西さんのアレンジがとても素晴らしい。曲が始まってすぐに柔らかいストリングスが包み込んでくれるような感じで、歌だけでなく、演奏の一つ一つが聞き応えがある」と絶賛している\[54\]。
+        レコーディングでは「『純白サンクチュアリィ』を録ったときに近い気持ちで、一つ一つの言葉をかみ締めながら、自分にあるそのままの気持ちを素直に歌った」という\[55\]。
+
+## クレジット
+
+  - Performed by [茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")
+  - Producer：斎藤滋（[Lantis](https://ja.wikipedia.org/wiki/ランティス "wikilink")）
+  - Mixing Engineer：淺野浩伸
+  - Engineer：白井康裕／関朋充／森田信之／奥田基樹
+  - Studio：Magic Garden／Sound City／SOUND INN／WARNER MUSIC RECORDING STUDIO／一口坂スタジオ
+  - Design Producer：小島冬樹（Lantis）
+  - Art Direction & Design：田中勤郎（Sony Music Communications）
+  - Photography：Marcelo Reiji Ando
+  - Styling：中村実樹
+  - Hair & Make-up：CHICA
+  - Artist Management：瀬野大介（[avex Planning & Development](https://ja.wikipedia.org/wiki/エイベックス・プランニング&デベロップメント "wikilink")）
+  - Executive Promoter：松村起代子（Lantis）
+  - Promoter：鈴木めぐみ／岩下由希恵（Lantis）
+  - Seles Promotion：杉谷恵美（Lantis）
+  - Thanks：[Elements Garden](https://ja.wikipedia.org/wiki/Elements_Garden "wikilink")／POPHOLIC／HOT WAVE
+  - Supervisor：本多健二（avex Planning & Development）
+  - Executive Supervisor：伊藤善之
+  - Executive Producer：[井上俊次](https://ja.wikipedia.org/wiki/井上俊次 "wikilink")（Lantis）／青木義人（avex Planning & Development）
+  - Very Special Thanks：[ALL FANS](../Page/ファン.md "wikilink")
+
+### 参加ミュージシャン
+
+  - Contact
+      - [Guitar](../Page/ギター.md "wikilink")：飯室博
+      - [Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink")：[大先生室屋ストリングス](../Page/室屋光一郎.md "wikilink")
+  - 詩人の旅
+      - Guitar：飯室博
+      - Strings：大先生室屋ストリングス
+      - [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")：[仁科かおり](https://ja.wikipedia.org/wiki/仁科かおり "wikilink")
+  - ふたりのリフレクション
+      - Guitar：飯室博
+      - Chorus：石塚まみ
+  - 純白サンクチュアリィ
+      - Guitar：飯室博
+      - [Violin](../Page/ヴァイオリン.md "wikilink")：大先生室屋
+      - Chorus：[河合夕子](../Page/河合夕子.md "wikilink")
+  - Dears 〜ゆるやかな奇跡〜
+      - Guitar：今泉洋
+      - Strings：[弦一徹ストリングス](https://ja.wikipedia.org/wiki/落合徹也 "wikilink")
+  - Cynthia
+      - Guitar：高山一也
+      - Strings：弦一徹ストリングス
+  - sleeping terror
+      - Guitar：飯室博
+      - [Violoncello](../Page/チェロ.md "wikilink")：[向井航](https://ja.wikipedia.org/wiki/向井航 "wikilink")
+      - Chorus：Kazco
+  - too late? not late...
+      - Guitar：鈴木マサキ
+      - Chorus：河合夕子
+  - 夏を忘れたら
+      - Guitar：伊丹雅博
+  - mezzo forte
+      - Guitar：飯室博
+      - Violin：大先生室屋、永田真希
+      - Chorus：Kazco
+  - 君がくれたあの日
+      - Guitar：飯室博、[飯塚昌明](https://ja.wikipedia.org/wiki/飯塚昌明 "wikilink")
+      - Violin：大先生室屋、永田真希
+  - truth gift
+      - Guitar：飯室博
+      - Strings：CHICAストリングス
+
+## 出典
+
+## 外部リンク
+
+  - [ランティスによる紹介ページ](http://lantis.jp/new-release/data.php?id=55d1b313aeffc8e176bdae1fa5c1607b)
+
+[Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink") [Category:茅原実里のアルバム](https://ja.wikipedia.org/wiki/Category:茅原実里のアルバム "wikilink")
+
+1.  [avex planning & development](https://ja.wikipedia.org/wiki/エイベックス・プランニング&デベロップメント "wikilink") 「[茅原実里　重大発表内容](http://www.chiharaminori.jp/detail/index.html)」
+2.  とれたて\!ぼびーちゃんねる 「[ファン待望の大発表\!茅原実里さん重大発表記者会見レポート\!\!](http://hobby-channel.net/content/view/3275/67/)」
+3.  [ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink").com 「[茅原実里の重大発表記者会見で、ライブツアー開催が発表された\!](http://www.famitsu.com/anime/news/2007/08/16/681,1187238826,76704,0,0.html)」
+4.
+5.
+6.  [超\!アニメロ](../Page/超!放送局.md "wikilink") 「[茅原実里さん 重大発表記者会見レポート\!](http://www.cho-animelo.com/jouhou?p=246)」
+7.
+8.
+9.  [Lantis web site](https://ja.wikipedia.org/wiki/ランティス "wikilink") 「[『Contact』 特設サイト](http://www.lantis.jp/special/chihara-contact.html)」
+10. [ORICON STYLE](../Page/オリコン・エンタテインメント.md "wikilink") 「[“ハルヒ”声優、茅原実里がアルバム&ツアー開催を発表\!](http://www.oricon.co.jp/news/music/47253/)」
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18. Lantis web site 「[『Message 01』 特設サイト](http://www.lantis.jp/special/chihara_dvd/index.html)」
+19.
+20.
+21.
+22. [ランティスウェブラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink") 「[茅原実里のradio minorhythm](https://ja.wikipedia.org/wiki/茅原実里のradio_minorhythm "wikilink")」 第22回（2007年10月3日）放送分
+23.
+24.
+25.
+26.
+27. ランティスウェブラジオ 「茅原実里のradio minorhythm」 第23回（2007年10月10日）放送分
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45. Lantis web site 「[『Contact』 クロスレビュー 前田久](http://www.lantis.jp/special/chihara-contactreview18.html)」
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.

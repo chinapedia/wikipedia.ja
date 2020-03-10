@@ -1,0 +1,121 @@
+> この記事は[Lita](https://ja.wikipedia.org/wiki/Lita)から翻訳されています。
+
+
+**Lita**（リタ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。respond所属。
+
+## 概要
+
+ユニット名は[利他から](../Page/利他主義.md "wikilink")。ファンのことは「リタリン」と呼称される。
+
+[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、結成。楽曲制作とライブを重ね、[2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、シングル『蕾』で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。
+
+以降6枚のシングルと2枚のアルバムを発売し、[2003年](../Page/2003年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")に解散。解散後は、積はソロ歌手として活動し、幸は作曲家として活動している。
+
+## メンバー
+
+  - **積しの**（せき しの、[1979年](../Page/1979年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink") - ）
+      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[沖縄県](../Page/沖縄県.md "wikilink")出身。2003年のアルバム『ニライカナイ』リリースし解散。その後は[sekishino](https://ja.wikipedia.org/wiki/sekishino "wikilink")名義で活動している。
+  - [幸克哉](https://ja.wikipedia.org/wiki/幸克哉 "wikilink")（ゆき かつや、[1973年](../Page/1973年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink") - ）
+      - [ギター](../Page/ギター.md "wikilink")担当。[大分県](../Page/大分県.md "wikilink")出身。
+
+## ディスコグラフィー
+
+### シングル
+
+1.  蕾（[2001年](../Page/2001年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")）オリコン100位
+    1.  蕾\[6:24\]（作詞：積しの／作曲・編曲：幸克哉）
+    2.  繋がれた月\[4:56\]（作詞：積しの／作曲・編曲：幸克哉）
+    3.  飛べない鳥\[4:39\]（作詞：積しの／作曲・編曲：幸克哉）
+    <!-- end list -->
+      - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")『J-Popper on TV』2001年4月度オープニングテーマ
+      - [FM沖縄](../Page/エフエム沖縄.md "wikilink")『Ura-Dora』2001年4月度エンディングテーマ
+      - [BSN新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")『We're J・popper』2001年4月度エンディングテーマ
+2.  黒い雨･･･（2001年[7月25日](../Page/7月25日.md "wikilink")）オリコン82位
+    1.  黒い雨…\[5:53\]（作詞：積しの／作曲・編曲：幸克哉）
+    2.  qoopee\[2:28\]（作詞：積しの／作曲・編曲：幸克哉）
+    3.  回帰\[5:02\]（作詞・作曲・編曲：幸克哉）
+    <!-- end list -->
+      - [FM群馬](../Page/エフエム群馬.md "wikilink")『LOVE A GO\! GO\!』エンディングテーマ
+      - FM群馬『ミッドナイト・ジャム』2001年8月度エンディングテーマ
+      - [α-station](../Page/エフエム京都.md "wikilink")『NEO SWING』2001年8月度エンディングテーマ
+      - [FM秋田](../Page/エフエム秋田.md "wikilink")『イブニング・オペレーション』2001年8月度エンディングテーマ
+3.  悲しみのハンター（2001年[11月14日](../Page/11月14日.md "wikilink")）オリコン75位
+    1.  悲しみのハンター\[5:02\]（作詞：積しの／作曲・編曲：幸克哉）
+    2.  バニラの憂鬱\[3:04\]（作詞：積しの／作曲・編曲：幸克哉）
+    3.  デジャヴ\[3:40\]（作詞：積しの／作曲・編曲：幸克哉）
+    <!-- end list -->
+      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『AX MUSIC FACTORY』AX POWER PLAY \#057（エンディングテーマ）
+      - [中京テレビ](../Page/中京テレビ放送.md "wikilink")・日本テレビ系『[ろみひー](https://ja.wikipedia.org/wiki/ろみひー "wikilink")』2001年10・11月度エンディングテーマ
+      - [tvk制作](../Page/テレビ神奈川.md "wikilink")[UHF](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")28局ネット『Lap cafe』エンディングテーマ
+      - [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[UHF](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")20局ネット『MUSIC B.B』2001年12月度オープニングテーマ
+4.  あたしがあたしであるうちに（[2002年](../Page/2002年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")）オリコン96位
+    1.  あたしがあたしであるうちに\[4:39\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・[笹路正徳](https://ja.wikipedia.org/wiki/笹路正徳 "wikilink")）
+    2.  遊女の戯れ\[3:35\]（作詞：積しの／作曲・編曲：幸克哉）
+    3.  あたしがあたしであるうちに (encore)\[5:18\]
+    <!-- end list -->
+      - 日本テレビ系『[モグモグGOMBO](https://ja.wikipedia.org/wiki/モグモグGOMBO "wikilink")』2002年2・3月度エンディングテーマ
+      - 中京テレビ・日本テレビ系『[あんたにグラッツェ\!](https://ja.wikipedia.org/wiki/あんたにグラッツェ! "wikilink")』2002年2月度エンディングテーマ
+      - 日本テレビ系『ピンパパ』2002年2月度エンディングテーマ
+      - 中京テレビ・日本テレビ系『ろみひー』2002年2月度エンディングテーマ
+      - [テレビ熊本](../Page/テレビ熊本.md "wikilink")『サウンド・キッズ』2002年2月度エンディングテーマ
+      - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")『チャート・バスターズR』パワープレイ
+      - [名古屋テレビ](../Page/名古屋テレビ放送.md "wikilink")『J・BEAT』2002年3月度オープニングテーマ
+5.  天の川 〜ティンガーラ〜（2003年[5月21日](../Page/5月21日.md "wikilink")）オリコン192位
+    1.  天の川 〜ティンガーラ〜\[4:44\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・[亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")）
+    2.  ミルク\[2:19\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・亀田誠治）
+    3.  花園はいつも開いている\[4:03\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・亀田誠治）
+    4.  永遠。\[5:33\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・亀田誠治）
+6.  火の神 〜ヒヌカン〜（2003年[8月27日](../Page/8月27日.md "wikilink")）
+    1.  火の神 〜ヒヌカン〜\[4:41\]（作詞・作曲：積しの／編曲：幸克哉・亀田誠治）
+    2.  Frisbee Cat's\[3:51\]（作詞：積しの／作曲・編曲：幸克哉）
+    3.  影うつし\[6:16\]（作詞：積しの／作曲：幸克哉・積しの／編曲：幸克哉・亀田誠治）
+    4.  (エンハンスド)天の川 〜ティンガーラ〜 video clip
+
+### アルバム
+
+1.  色恋品定め（2001年[12月12日](../Page/12月12日.md "wikilink")）オリコン84位
+    1.  マンネリズムの夜\[3:48\]（作詞：積しの／作曲・編曲：幸克哉）
+    2.  悲しみのハンター\[5:50\]（作詞：積しの／作曲・編曲：幸克哉）
+    3.  環7ラビット\[5:44\]（作詞・作曲：積しの／編曲：幸克哉）
+          - [FM石川](../Page/エフエム石川.md "wikilink")『MUSIC NEXUS』2001年12月度テーマソング
+    4.  千年は闇の中に\[4:02\]（作詞・作曲・編曲：幸克哉）
+    5.  22。\[6:37\]（作詞：積しの／作曲・編曲：幸克哉）
+    6.  蕾\[6:25\]（作詞：積しの／作曲・編曲：幸克哉）
+    7.  エキゾチックカード\[4:58\]（作詞：積しの／作曲・編曲：幸克哉）
+    8.  qoopee\[2:28\]（作詞：積しの／作曲・編曲：幸克哉）
+    9.  飛べない鳥\[6:24\]（作詞：積しの／作曲・編曲：幸克哉）
+    10. Soft Exotica\[3:14\]（作曲・編曲：幸克哉）
+    11. 黒い雨…\[5:53\]（作詞：積しの／作曲・編曲：幸克哉）
+    12. でいごの花\[3:22\]（作詞：積しの／作曲・編曲：幸克哉）
+2.  ニライカナイ（2003年[10月1日](../Page/10月1日.md "wikilink")）
+    1.  天の川 〜ティンガーラ〜\[4:44\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・亀田誠治）
+    2.  こいのめ\[4:03\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・亀田誠治）
+    3.  今日も地球に朝が来る\[4:47\]（作詞・作曲：幸克哉／編曲：幸克哉・[根岸孝旨](../Page/根岸孝旨.md "wikilink")）
+    4.  ミルク\[2:18\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・亀田誠治）
+    5.  生誕カーニバル\[4:07\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・亀田誠治）
+    6.  段々畑の丘の上\[3:12\]（作詞・作曲：積しの／編曲：幸克哉・亀田誠治）
+    7.  O\[4:59\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・亀田誠治）
+    8.  フェアリー\[3:24\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・亀田誠治）
+    9.  teapot\[3:29\]（作詞・作曲・編曲：幸克哉）
+    10. うたき咲く花\[5:17\]（作詞：積しの／作曲：幸克哉／編曲：幸克哉・根岸孝旨）
+    11. 火の神 〜ヒヌカン〜\[4:44\]（作詞・作曲：積しの／編曲：幸克哉・亀田誠治）
+    12. (エンハンスド)火の神 〜ヒヌカン〜 (video clip)
+
+### インディーズデモテープ
+
+1.  色恋品定め（[2000年](../Page/2000年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")）
+      - ライブ会場限定配布
+2.  悲しみのハンター（2000年[7月19日](../Page/7月19日.md "wikilink")）
+      - ライブ会場限定配布
+
+## 出演
+
+  - Litaのねんねこね（[2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2002年](../Page/2002年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、[CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")）
+      - [2002年](../Page/2002年.md "wikilink")[9月](../Page/9月.md "wikilink")には『ニライカナイスペシャル』として特別番組が放送された。
+
+## 外部リンク
+
+  - [UNIVERSAL Jによる公式サイト](http://www.universal-music.co.jp/lita/)
+  - [sekishino公式サイト](http://www.sekishino.com/)
+
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink") [Category:2003年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に解散した音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink")

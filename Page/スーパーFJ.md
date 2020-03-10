@@ -1,0 +1,110 @@
+> この記事は[FJ](https://ja.wikipedia.org/wiki/FJ)から翻訳されています。
+
+
+**スーパーFJ**（スーパーエフジェイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[フォーミュラカー](https://ja.wikipedia.org/wiki/フォーミュラカー "wikilink")レースのカテゴリー名。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")より、[FJ1600](https://ja.wikipedia.org/wiki/FJ1600 "wikilink")に代わる新シリーズとして開催されている。いわゆる[ジュニア・フォーミュラ](https://ja.wikipedia.org/wiki/ジュニア・フォーミュラ "wikilink")に属する。
+
+## 概要
+
+### 成り立ち
+
+初級者用フォーミュラとして[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")にスタートしたFJ1600ではあったが、使用していた[エンジン](../Page/エンジン.md "wikilink")である[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")製の[水平対向](../Page/水平対向エンジン.md "wikilink") [EA71型](https://ja.wikipedia.org/wiki/スバル・EA型エンジン "wikilink")（[スバル・レオーネ](../Page/スバル・レオーネ.md "wikilink")用）の生産終了から10数年を経て、レースに耐えうるエンジンの確保が困難になってきた（既にクランク等、新品の部品の在庫がないパーツも出てきており、大幅なオーバーホールは困難であるとのこと\[1\]）。このため、次世代の初級者用フォーミュラとして新たなカテゴリーの必要性が叫ばれるようになり、この声を受けて[日本自動車連盟](https://ja.wikipedia.org/wiki/日本自動車連盟 "wikilink")（JAF）が新たに設置したカテゴリーが本カテゴリーである。
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")から[2009年](../Page/2009年.md "wikilink")までの3年間はFJ1600とスーパーFJが「JAF地方選手権」として並行して開催されたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")からはFJ1600のJAF地方選手権は廃止され、スーパーFJへと一本化された。しかしながら、現状では中古FJ1600やメンテナンスガレージにおけるレンタル等も豊富であるため、既存のエントラントやメンテナンスガレージの間ではエントリーに二の足を踏んでいる状況にあると言われる。一方で「エンジンの供給が困難である以上、いずれスーパーFJへの移行は避けられない」との認識もメンテナンスガレージの間で広がっており、現在は各エントラント・ガレージ単位で移行のタイミングを計っている段階にある\[2\]。実際[筑波サーキット](https://ja.wikipedia.org/wiki/筑波サーキット "wikilink")は2010年以降もFJ1600のシリーズを独自に開催しており、エントラントの完全移行にはなお時間を要する見込みである。
+
+### FJ1600との相違点
+
+FJ1600においては、コストの低減を目的として、前後ウィングが採用されなかったが、スーパーFJにおいては、早期からのウィング付きフォーミュラの特性を習熟させ、上位カテゴリーへのステップアップを容易にさせることを目的として、前後にウィングを採用している。
+
+エンジンは2代目[ホンダ・フィット](../Page/ホンダ・フィット.md "wikilink")等に搭載されていた[L15A型を採用](https://ja.wikipedia.org/wiki/ホンダ・L型エンジン "wikilink")。排気量は1,500ccと従来より100cc少なくなるが、ベースとなるエンジンの基本設計の新しさなどにより、性能的には従来とほぼ変わらないものとなるとアナウンスされている。
+
+### シリーズ
+
+2007年はJAF地方選手権シリーズとして、[ツインリンクもてぎ](https://ja.wikipedia.org/wiki/ツインリンクもてぎ "wikilink")全4戦・[筑波サーキット](https://ja.wikipedia.org/wiki/筑波サーキット "wikilink")全4戦・[鈴鹿サーキット](../Page/鈴鹿サーキット.md "wikilink")全5戦・[岡山国際サーキット](https://ja.wikipedia.org/wiki/岡山国際サーキット "wikilink")全3戦の4カ所に於いてシリーズ開催が予定された。尚、鈴鹿以外の3カ所においてはFJ1600と混走とし、鈴鹿のみスーパーFJ単独レースを開催した。エントラント数により開催が成立しない可能性もJAFによりアナウンスされており、結局筑波シリーズが全戦不成立となるなど一部では事前に危惧されたエントリー不足が現実のものとなったが、それ以外は鈴鹿シリーズが一戦減って全4戦となった程度で、シリーズ初年度としてはまずまずの出足を見せた。
+
+同年12月23日には鈴鹿サーキットで、FJ1600との混走で「FJ日本一決定戦」が開催されたが、ここではスーパーFJ勢が1〜4位を独占、上位10台中8台をスーパーFJが占めるなど、性能面でのスーパーFJ優位が如実に現れる形となった。
+
+2009年からは前述の4サーキットに加え[富士スピードウェイ](https://ja.wikipedia.org/wiki/富士スピードウェイ "wikilink")でもシリーズがスタート。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")からはさらに東北シリーズ（[スポーツランドSUGO](https://ja.wikipedia.org/wiki/スポーツランドSUGO "wikilink")・[仙台ハイランド](https://ja.wikipedia.org/wiki/仙台ハイランド "wikilink")）と[オートポリス](https://ja.wikipedia.org/wiki/オートポリス "wikilink")が加わり、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")までの旧FJ1600と同様の7シリーズ・8サーキット体制となった\[3\]。
+
+一時は[韓国でも](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")、スーパーFJのシャシーに[現代自動車](../Page/現代自動車.md "wikilink")のエンジンを搭載した独自のフォーミュラカーシリーズの発足が計画されていたが、2015年現在は企画倒れに終わっている（詳細は[インジェ・スピーディウム](https://ja.wikipedia.org/wiki/インジェ・スピーディウム "wikilink")を参照）。
+
+## スペック
+
+### 統一規格
+
+  - エンジン：[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink") [SOHC](../Page/SOHC.md "wikilink") 1,500cc（[ホンダ](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink") L15A）
+  - パワー：約120PS（2007年〜2016年：軽度のチューニングを施したもの、2017年〜：市販品から改造は認められない）
+  - ミッション：Hパターン 5速ドグミッション（[戸田レーシング](https://ja.wikipedia.org/wiki/戸田レーシング "wikilink") TODA S-FJ）
+  - フレーム：鋼管スペースフレーム
+  - ヘッドプロテクター：ヘッド／サイドパッド方式を採用
+  - 前後ウイング：断面プロフィールを統一したウイングを装備
+  - 最低地上高：50mm
+  - タイヤ：2007年 - 2009年は[ダンロップ](https://ja.wikipedia.org/wiki/ダンロップ "wikilink")、2010年からは[横浜ゴム](https://ja.wikipedia.org/wiki/横浜ゴム "wikilink")（[ADVAN](https://ja.wikipedia.org/wiki/ADVAN "wikilink")） ※いずれも[ワンメイク](https://ja.wikipedia.org/wiki/ワンメイク "wikilink")
+
+### 車両一覧
+
+  - WEST11J
+
+<!-- end list -->
+
+  -
+    コンストラクター：ウエストレーシングカーズ
+    全長：3,810mm
+    全幅：1,640mm
+    全高：1,010mm
+    ホイルベース：2,350mm
+    フロントトレッド：1,460mm
+    リアトレッド：1,440mm
+    重量：425kg
+    価格：4,095,000円（消費税込）（2013年9月時点）
+
+<!-- end list -->
+
+  - R\&D RD10V
+
+<!-- end list -->
+
+  -
+    コンストラクター：[東京R\&D](https://ja.wikipedia.org/wiki/東京R&D "wikilink") レース事業部
+    全長：3,836mm
+    全幅：1,684mm
+    全高：1,010mm
+    ホイルベース：2,350mm
+    フロントトレッド：1,474mm
+    リアトレッド：1,463mm
+    重量：422kg
+    価格：4,791,798円-（消費税込）（2013年9月時点）
+
+<!-- end list -->
+
+  - MYST KK-S
+
+<!-- end list -->
+
+  -
+    コンストラクター：自動車工房MYST
+    全長：3,624mm
+    全幅：1,684mm
+    全高：1,012mm
+    ホイルベース：2,320mm
+    フロントトレッド：1,498mm
+    リアトレッド：1,503mm
+    重量：428kg
+    価格：3,853,500円-（消費税込）
+
+## 脚注
+
+<references />
+
+## 外部リンク
+
+  - [Japan Scholarship System](http://www.jss-org.com/)
+  - [ウエストレーシングカーズ](http://www.west-racing.co.jp/)
+  - [東京アールアンドデー](http://www.tr-d.co.jp/)
+  - [ザップスピードメンテナンスファクトリー](http://www.zap-mf.co.jp/)
+  - [ZAP SPEED　ザップスピード](http://www.zap-speed.com/)
+
+[Category:日本の自動車レース](https://ja.wikipedia.org/wiki/Category:日本の自動車レース "wikilink")
+
+1.  『[Racing On](https://ja.wikipedia.org/wiki/Racing_On "wikilink")』（[ニューズ出版](../Page/ニューズ出版.md "wikilink")）2008年3月号 p.109
+2.
+3.  [JAFモータースポーツ公示・2009年12月号](http://www.jaf.or.jp/msports/msinfo/image/kouji_200912.pdf)の「公示No.2009-124」を参照。

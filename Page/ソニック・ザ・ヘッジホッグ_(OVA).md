@@ -1,0 +1,142 @@
+> この記事は[ \(OVA\)](https://ja.wikipedia.org/wiki/_\(OVA\))から翻訳されています。
+
+
+『**ソニック★ザ★ヘッジホッグ**』(SONIC THE HEDGEHOG) は[1996年](../Page/1996年.md "wikilink")に発売された[OVA](../Page/OVA.md "wikilink")（オリジナルビデオアニメーション）。\[1\]\[2\]『[ソニックX](https://ja.wikipedia.org/wiki/ソニックX "wikilink")』の先駆けでもある国内制作でもある。『[ソニック・ザ・ヘッジホッグCD](../Page/ソニック・ザ・ヘッジホッグCD.md "wikilink")』が元になっており、ソニック、テイルス、ナックルズ、Dr.エッグマン、メタルソニックとこのOVAのみのオリジナルキャラが登場する。
+
+## 概要
+
+OVAは[タキ・コーポレーション](https://ja.wikipedia.org/wiki/タキ・コーポレーション "wikilink")からVHSでリリースされた。各巻1話27分収録で全2話。北米ではDVD（編集して1本に纏められている）が発売されているが、日本では未だにビデオ版と[バンダイチャンネル](https://ja.wikipedia.org/wiki/バンダイチャンネル "wikilink")からの配信版のみ。Vol.1のセル版には[ナイツ関連の特典映像が収録されている](https://ja.wikipedia.org/wiki/ナイツ_\(ゲーム\) "wikilink")。
+
+  - Vol.1「エッグマンランドへむかえ」（1996年1月26日発売、THC-16411、レンタル版）
+    Vol.2「ソニックVSメタルソニック\!\!」（1996年3月22日発売、THC-16421、レンタル版）
+    Vol.1「エッグマンランドへむかえ」（1996年5月31日発売、THC-16491、セル版）
+    Vol.2「ソニックVSメタルソニック\!\!」（1996年5月31日発売、THC-16501、セル版）
+
+## キャラクター
+
+  - [ソニック・ザ・ヘッジホッグ](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグ "wikilink")（声：[菊池正美](https://ja.wikipedia.org/wiki/菊池正美 "wikilink")）
+    青いハリネズミ。世界一の俊足を誇る、この物語の主人公。本作の舞台・二重構造惑星フリーダムの外側「天の大地」にある小さな浮島で、テイルスと一緒に暮らしている。普段はクールでマイペース、他者に対して無関心を決め込むような言動が目立つが、仲間の危機は見過ごせない性格。
+    第2巻では「天の大地」の命運と、「“ソニック”という唯一無二の存在」＝自分自身を懸けて、己が分身ともいえるメタルソニックと激突する。
+  - [マイルス "テイルス" パウアー](https://ja.wikipedia.org/wiki/マイルス_"テイルス"_パウアー "wikilink")（声：[椎名へきる](../Page/椎名へきる.md "wikilink")）
+    メカに詳しい子ギツネで、ソニックの相棒。少々気弱なところもあるが芯は強く、理性的な判断力や分析能力に長けている。ソニックの愛機である複葉機・トルネードの操縦や修理も器用にこなし、第2巻ではエッグマンが作った機械を改造して逆に利用、窮地に陥ったソニックを助けた。その高度な知識と技術はエッグマンも認めるほどの腕前。
+  - [ナックルズ・ザ・エキドゥナ](https://ja.wikipedia.org/wiki/ナックルズ・ザ・エキドゥナ "wikilink")（声：[松本保典](https://ja.wikipedia.org/wiki/松本保典 "wikilink")）
+    トレジャーハンターをしている赤いハリモグラで、ソニック&テイルスとは旧知の仲。第1巻の終盤で登場し、ソニック達と共闘する。良くも悪くも単純素朴な性格のせいで、本編中は若干三枚目な役回りだが、要所では頼りがいのあるところを見せてくれる。また、世界中の地下を冒険しており、博識な一面も。
+  - セーラ（声：[かないみか](../Page/かないみか.md "wikilink")）
+    OVAオリジナルキャラクター。大統領の娘で自由奔放、わがままで勝気な性格。ソニックのことが好き。エッグマンは彼女を気に入っている様子だが、全く相手にされていない。
+  - [ドクター・エッグマン](https://ja.wikipedia.org/wiki/ドクター・エッグマン "wikilink")（声：[滝口順平](../Page/滝口順平.md "wikilink")）
+    惑星フリーダムの内側「闇の大地」に築いた拠点・エッグマンランドから「天の大地」へ向けて様々な悪事をおこなう科学者で、ソニックに「言うことの100に99は嘘」と言われているほど。今回も何か企んでいる。なお、「闇の大地」には大昔の遺跡が残っているが、劇中の描写から、今では知的生物も含めて動物は一切住んでおらず、植物しか自生していない模様。
+  - 大統領（声：[藤本譲](https://ja.wikipedia.org/wiki/藤本譲 "wikilink")）
+    OVAオリジナルキャラクター。「天の大地」にある国・サウスアイランドの大統領。セーラの父親である。自国の危機を何度かソニックに救われたことがあるらしく、今回も執事を通してソニックを頼ってくる。
+  - 執事（声：[茶風林](https://ja.wikipedia.org/wiki/茶風林 "wikilink")）
+    OVAオリジナルキャラクター。大統領の執事である老フクロウ。ソニックを自国の英雄だと認識しており、「様」付けで呼び敬語で話す。元・飛行機レーサーで、大統領専用機も任されているようだが、大変目が悪く、その操縦は危険かつ迷惑そのもの。
+  - 秘書（声：[高瀬右光](https://ja.wikipedia.org/wiki/高瀬右光 "wikilink")）
+    OVAオリジナルキャラクター。大統領の秘書。第2巻のみ登場。
+  - [メタルソニック](https://ja.wikipedia.org/wiki/ソニックシリーズに登場するキャラクターの一覧#悪役キャラクター "wikilink")（声：菊池正美）
+    エッグマンがソニックのライフデータを組み込んで作り上げた、ソニックに似たロボット。本編での正式名称は「ハイパーメタルソニック」。第2巻で覚醒、ソニックと苛烈なバトルを展開する。基本的には無口だが、同じライフデータを共有しているため、ある種のテレパシーのような形でソニックとの意思疎通は可能。
+    原作ゲームよりも「ソニックのコピー・クローン的存在」としての設定が深化しており、エッグマンの命令には忠実に従いながら、それ以上に「“ソニック”という唯一無二の存在」としてのアイデンティティを懸けて、オリジナルであるソニックとの決着をつけることを強く欲していた。その意思は最期まで揺るがず、ソニックに敗れた直後、噴出するマグマの近くへ落下した自分を助けようとしたソニックの手を振り払って拒絶し、広がるマグマの中に呑まれて自決する。
+
+## スタッフ
+
+  - 製作：[中山晴喜](https://ja.wikipedia.org/wiki/中山晴喜 "wikilink")
+  - 制作：森恭一
+  - プロデューサー：杉江幸一郎（第１巻）、大野彰則（第２巻）、杉崎隆行、朴谷直治
+  - 監修：[SONIC TEAM](https://ja.wikipedia.org/wiki/ソニックチーム "wikilink")、[中裕司](https://ja.wikipedia.org/wiki/中裕司 "wikilink")、[大島直人](https://ja.wikipedia.org/wiki/大島直人 "wikilink")
+  - 音楽プロデューサー：藤田純二
+  - 音楽：タダミツヒロ
+
+<!-- end list -->
+
+  -
+    エンディングテーマ：「LOOK-ALIKE」
+    作・編曲：タダミツヒロ
+    作詩・歌：[こなかりゆ](https://ja.wikipedia.org/wiki/こなかりゆ "wikilink")
+
+<!-- end list -->
+
+  - 構成：[関島眞頼](https://ja.wikipedia.org/wiki/関島眞頼 "wikilink")
+  - 脚本：[久保田雅史](../Page/久保田雅史.md "wikilink")
+  - 絵コンテ：池上和誉
+  - キャラクターデザイン・作画監督：[二宮常雄](../Page/二宮常雄.md "wikilink")
+  - 作画監督補佐：室井ふみえ（第１巻）
+  - メカ設定：宮川治雄（第２巻）
+  - 原画
+
+<!-- end list -->
+
+  -
+    第１巻：室井ふみえ、木場田実、早川淳一、鷲田敏弥、吉岡勝、伊藤広治、[伊東伸高](https://ja.wikipedia.org/wiki/伊東伸高 "wikilink")、[久高司郎](https://ja.wikipedia.org/wiki/久高司郎 "wikilink")、坂本英明
+    第２巻：室井ふみえ、小田不二夫、早川淳一、吉岡勝、松山正彦、阿蒜晃士、木場田実、嘉村弘之、[高岡淳一](https://ja.wikipedia.org/wiki/高岡淳一 "wikilink")、坂本英明
+
+<!-- end list -->
+
+  - 美術監督：明石聖子
+  - 背景：[スタジオ・ユニ](https://ja.wikipedia.org/wiki/スタジオ・ユニ "wikilink")
+
+<!-- end list -->
+
+  -
+    天水勝、[中村隆](https://ja.wikipedia.org/wiki/中村隆_\(美術監督\) "wikilink")、鈴木郎、池田玲子、西川かおり
+
+<!-- end list -->
+
+  - 動画チェック：山田玲子
+  - 動画
+
+<!-- end list -->
+
+  -
+    第１巻：アニメワールド大阪、[手塚プロダクション](https://ja.wikipedia.org/wiki/手塚プロダクション "wikilink")、成宝洋行、スタジオぴえろ福岡分室、スタジオぴえろ作画室
+    第２巻：[手塚プロダクション](https://ja.wikipedia.org/wiki/手塚プロダクション "wikilink")、成宝洋行、スタジオぴえろ福岡分室、スタジオぴえろ作画室
+
+<!-- end list -->
+
+  - 色指定：滝口佳子
+  - 仕上
+
+<!-- end list -->
+
+  -
+    第１巻：アニメワールド大阪、手塚プロダクション、スタジオOM青森ワークス、成宝洋行、スタジオぴえろ福岡分室
+    第２巻：スタジオるんるん、手塚プロダクション、スタジオOM青森ワークス、成宝洋行、スタジオぴえろ福岡分室
+
+<!-- end list -->
+
+  - デジタル･アニメーション：小柴純弥（第２巻）
+  - 特殊効果：池田健司
+  - 仕上げ検査：海藤敏男、村崎泉、清水佳子
+  - 撮影監督：池上元秋
+  - 撮影：[スタジオコスモス](../Page/スタジオコスモス.md "wikilink")
+
+<!-- end list -->
+
+  -
+    前原勝則、鈴木典子、大藤哲生、黒田洋一、野口博志、池上伸治、蓜島尚久、島田隆志
+
+<!-- end list -->
+
+  - 録音監督：[藤山房伸](../Page/藤山房伸.md "wikilink")
+  - 録音調整：依田章良
+  - 音響効果：[神保大介](https://ja.wikipedia.org/wiki/神保大介 "wikilink")（[スワラ・プロダクション](https://ja.wikipedia.org/wiki/スワラプロダクション "wikilink")）
+  - 録音スタジオ：スタジオエコー、[神南スタジオ](https://ja.wikipedia.org/wiki/神南スタジオ "wikilink")
+  - 音響制作：[神南スタジオ](https://ja.wikipedia.org/wiki/神南スタジオ "wikilink")、[菊田浩巳](https://ja.wikipedia.org/wiki/菊田浩巳 "wikilink")
+  - 編集：森田清次（森田編集室）
+  - 現像：[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")
+  - タイトル・リスワーク：[マキ・プロ](https://ja.wikipedia.org/wiki/マキ・プロ "wikilink")
+  - 制作進行：藤原浩幸、西岡大輔
+  - 制作：[ゼネラル・エンタテイメント](https://ja.wikipedia.org/wiki/ゼネラル・エンタテイメント "wikilink")
+  - アニメーション制作：[スタジオぴえろ](../Page/ぴえろ.md "wikilink")
+  - 製作・原作：株式会社[セガ・エンタープライゼス](https://ja.wikipedia.org/wiki/セガ・エンタープライゼス "wikilink")
+  - 監督：池上和誉
+
+## 脚注
+
+## 外部リンク
+
+  - [スタジオぴえろリンク1](https://web.archive.org/web/20101127054402/http://pierrot.jp/title/images/title_pic/prof/189.jpg)
+  - [スタジオぴえろリンク2](https://web.archive.org/web/20101127060704/http://pierrot.jp/title/images/title_pic/prof/190.jpg)
+  - [バンダイチャンネルリンク](http://www.b-ch.com/ttl/index.php?ttl_c=2754)
+
+[Category:アニメ作品_そ](https://ja.wikipedia.org/wiki/Category:アニメ作品_そ "wikilink") [Category:ソニックシリーズ](https://ja.wikipedia.org/wiki/Category:ソニックシリーズ "wikilink") [Category:1996年のOVA](https://ja.wikipedia.org/wiki/Category:1996年のOVA "wikilink") [Category:ぴえろ](https://ja.wikipedia.org/wiki/Category:ぴえろ "wikilink") [Category:セガゲームス原作のアニメ作品](https://ja.wikipedia.org/wiki/Category:セガゲームス原作のアニメ作品 "wikilink")
+
+1.
+2.

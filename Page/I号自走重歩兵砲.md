@@ -1,0 +1,33 @@
+> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+
+
+**I号自走重歩兵砲**（いちごうじそうじゅうほへいほう）、制式名 **15cm sIG33 (Sf) auf Panzerkampfwagen I Ausf B**（15cm33年型重歩兵砲（自走式）搭載I号戦車B型）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自走砲](../Page/自走砲.md "wikilink")である。
+
+## 概要
+
+[ラインメタル](https://ja.wikipedia.org/wiki/ラインメタル "wikilink")社により開発され、1933年に制式化された[15cm sIG33は](https://ja.wikipedia.org/wiki/15cm_sIG33 "wikilink")、歩兵部隊の直接の火力支援用に用いられる[歩兵砲](https://ja.wikipedia.org/wiki/歩兵砲 "wikilink")としては、第二次世界大戦を通し、[ドイツ国防軍](https://ja.wikipedia.org/wiki/ドイツ国防軍 "wikilink")で最も大口径かつ強力であり、敵の強固な拠点の破壊に威力を発揮することができた。しかし、その重量は約1.8トンと重く、取り回しに難があった。このため、機械化部隊の随伴用に、早くから自走砲化が計画されていた。
+
+I号自走重歩兵砲の開発はアルケット社によって行われ、1940年2月、同社工場において38両が[I号戦車](../Page/I号戦車.md "wikilink")B型から改装され生産された。これは、第二次世界大戦で使用されたドイツ軍の戦車車台利用の自走砲で最初のものであった。
+
+ベースに用いられた I号戦車B型から[砲塔](https://ja.wikipedia.org/wiki/砲塔 "wikilink")と戦闘室上部装甲が除かれた他は大きな改装は無い。15cm sIG33歩兵砲は牽引式のまま、車輪も取り外さずに搭載された。15cm sIG33と I号戦車はほぼ同幅で、戦闘室から[フェンダー上に張り出す形で](https://ja.wikipedia.org/wiki/フェンダー_\(自動車\) "wikilink")、左右を肋材で連結した車輪止めが設けられた。車体後部には 15cm sIG33後端のピントルを利用する固定具が付けられ、さらに車輪止めと後部固定具は左右で鋼材で結ばれていた。これに前・側方のみに10mm厚の装甲板で、大きな箱型の防盾が施された。
+
+15cm sIG33は旧式な単脚・箱型の砲架を持つため、専用の砲架を新規開発せずに早期の実用化を図るにはこのような搭載法を採らざるを得なかったものと考えられているが、その結果、I号自走重歩兵砲は全高は2.8mと、小型の車体に比較して非常に背高な車両となった。
+
+この車両の完成とともに、第701～706重歩兵砲（自走式）中隊が編成され、各中隊にはそれぞれ6両の I号自走重歩兵砲が配備された（2両装備の小隊3個）。第701中隊は第9機甲師団、第702中隊は第1機甲師団、第703中隊は第2機甲師団、第704中隊は第5機甲師団、第705中隊は第7機甲師団、第706中隊は第10機甲師団に配属され、1940年5月の[対西方戦役に投入されたのを皮切りに](https://ja.wikipedia.org/wiki/ナチス・ドイツのフランス侵攻 "wikilink")、[バルカン作戦や](https://ja.wikipedia.org/wiki/ユーゴスラビア侵攻 "wikilink")[バルバロッサ作戦](../Page/バルバロッサ作戦.md "wikilink")にも使用された。第5機甲師団に配属された第704中隊では、1943年時点でもまだ数両の I号自走重歩兵砲を保有していた。
+
+即製車両ではあるが、本車のような兵器は有用であることが判明したため、以降もsIG33を搭載する自走重歩兵砲が開発されることとなった。
+
+## 登場作品
+
+  - 『[World of Tanks](https://ja.wikipedia.org/wiki/World_of_Tanks "wikilink")』（オンラインゲーム）
+    ドイツ自走砲Sturmpanzer I Bisonとして登場。
+
+## 参考資料
+
+  - Peter Chamberlain, Hilary Doyle, 『*ENCYCLOPEDIA OF GERMAN TANKS OF WORLD WAR TWO* - 月刊モデルグラフィックス別冊・ジャーマンタンクス』、大日本絵画、1986年
+  - 尾藤満ほか、『アハトゥンク・パンツァー第7集　I号戦車・II号戦車と派生型編』、大日本絵画、2003年、ISBN 4-499-22773-9
+  - 箙浩一、「特集：15cm自走重歩兵砲グリレ」、『月刊グランドパワー2002/6号』、ガリレオ出版
+  - 佐藤光一、「特集：ドイツI号軽戦車」、『月刊グランドパワー2000/4号』、ガリレオ出版
+  - 斎木伸生、『異形戦車 ものしり大百科』、光人社、1998年、ISBN 4-7698-0843-7
+
+[Category:I号戦車](https://ja.wikipedia.org/wiki/Category:I号戦車 "wikilink") [Category:ドイツ国防軍の自走砲](https://ja.wikipedia.org/wiki/Category:ドイツ国防軍の自走砲 "wikilink") [Category:150mm砲](https://ja.wikipedia.org/wiki/Category:150mm砲 "wikilink")

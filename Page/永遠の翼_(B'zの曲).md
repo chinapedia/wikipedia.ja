@@ -1,0 +1,92 @@
+> この記事は[ \(B\'z\)](https://ja.wikipedia.org/wiki/_\(B\'z\))から翻訳されています。
+
+
+「**永遠の翼**」（えいえんのつばさ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")・[B'z](../Page/B'z.md "wikilink")の43作目の[シングル](../Page/シングル.md "wikilink")。
+
+## 概要
+
+B'zの2007年第1弾シングルとしてリリースされた\[1\]。
+
+[1st beatで](https://ja.wikipedia.org/wiki/1st_beat "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』以外の映画主題歌のタイアップは初である。
+
+前々作からプラスチックケースであったが、本作で再びデジパックに戻った。
+
+2007年[4月25日](../Page/4月25日.md "wikilink")から[5月24日](../Page/5月24日.md "wikilink")まで[Yahoo\!動画にて](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN#Yahoo!動画 "wikilink")、「永遠の翼」「ロンリースターズ」の[ビデオ・クリップが配信されていた](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")\[2\]。
+
+本作発売直後に、[VERMILLION RECORDSが親会社である](https://ja.wikipedia.org/wiki/VERMILLION_RECORDS "wikilink")[ビーイング](../Page/ビーイング.md "wikilink")と吸収合併された（法人自体は現存）ことに伴い、発売元がVERMILLION RECORDS、販売元が[J-DISC Beingと記載された最後の作品である](../Page/J-DISC_Being.md "wikilink")。
+
+## 参加ミュージシャン
+
+  - [松本孝弘](https://ja.wikipedia.org/wiki/松本孝弘 "wikilink")：[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")
+
+  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・編曲
+
+  - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")：編曲（\#1）
+
+  - [池田大介](https://ja.wikipedia.org/wiki/池田大介_\(編曲家\) "wikilink")：編曲（\#2）
+
+  - ：[ドラム](../Page/ドラムセット.md "wikilink")
+
+  - ショーン・ハーレー：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+
+  - TAMA STRINGS：[ストリングス](../Page/弦楽器.md "wikilink")（\#1）
+
+## 収録曲
+
+1.  **永遠の翼** （5:09）
+      -
+        映画『[俺は、君のためにこそ死ににいく](../Page/俺は、君のためにこそ死ににいく.md "wikilink")』のために書き下ろされた楽曲。メンバーは主題歌作成の依頼を受け、[鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")[知覧町](https://ja.wikipedia.org/wiki/知覧町 "wikilink")（現[南九州市](https://ja.wikipedia.org/wiki/南九州市 "wikilink")）にある[特攻平和会館を訪れ](https://ja.wikipedia.org/wiki/知覧特攻平和会館 "wikilink")、深い感銘を受け曲制作に入った\[3\]。イントロとエンディングのフレーズが先に存在し、その後[メロディ](../Page/メロディ.md "wikilink")が制作された。制作に当たって松本はこの曲のメロディを何度も書き直したという。
+        [歌詞](../Page/歌詞.md "wikilink")は全体的に、未来にあるものを信じて向かいゆくことや大切なものの尊さを描いており、稲葉によると「心の底から『誰かのために』と思って何かをしたとき、その人の背中に翼が生えて、その心が報われる…という希望の象徴を書いた」とのこと。
+        松本は映画『俺は、君のためにこそ死ににいく』タイトルイメージソングとして、自身名義の楽曲「[THE WINGS](https://ja.wikipedia.org/wiki/Strings_Of_My_Soul "wikilink")」を提供した\[4\]。この曲では「永遠の翼」のAメロのボーカルがそのままギターフレーズとして引用されている。
+        [PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[丸の内ビルディング](../Page/丸の内ビルディング.md "wikilink")や[セルリアンタワー](https://ja.wikipedia.org/wiki/セルリアンタワー "wikilink")東急ホテル等数箇所で撮影され、[俳優](../Page/俳優.md "wikilink")の[本郷奏多](https://ja.wikipedia.org/wiki/本郷奏多 "wikilink")\[5\]と[モデルの](https://ja.wikipedia.org/wiki/モデル_\(職業\) "wikilink")[本田翼](https://ja.wikipedia.org/wiki/本田翼 "wikilink")が出演している\[6\]。この曲で『[NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")』にニュース番組としては初出演した。また、その知覧を訪れたあとは[奄美大島](../Page/奄美大島.md "wikilink")で[LIVE-GYM](https://ja.wikipedia.org/wiki/LIVE-GYM "wikilink")を行った。
+        松本は本楽曲を制作した後も再び知覧に訪れた際のイメージを膨らませ、自身のソロ活動の際にリリースした『[TAKE YOUR PICK](https://ja.wikipedia.org/wiki/TAKE_YOUR_PICK "wikilink")』にて「hotalu」という楽曲を制作した。松本はこの楽曲を「『永遠の翼』の続編といった感じでしょうか」と語っている。
+        [アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")の[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")が編曲に携わった最後のシングルである。
+        [ギタリスト](../Page/ギタリスト.md "wikilink")の[マーティ・フリードマン](https://ja.wikipedia.org/wiki/マーティ・フリードマン "wikilink")はこの曲について、「イントロのフレーズが[Kiroro](../Page/Kiroro.md "wikilink")っぽい」「でもそのイントロのフレーズが最後の方になって再登場し、その後は静かにギターでイントロのメロディーを引く、という風に次から次へとそのメロディーの新しい解釈が出てくるのは、大物感があってさすがB'zって感じ。イントロも含めて1つ1つのメロディーを本当に大事にしていて軽く思っていない証拠。」と評している\[7\]。
+2.  **ロンリースターズ** （4:49）
+      -
+        『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』で披露された。PV（ワンコーラスのみ）は炎の中でのパフォーマンスになっている。編曲の[池田大介は](https://ja.wikipedia.org/wiki/池田大介_\(編曲家\) "wikilink")「[OCEAN](https://ja.wikipedia.org/wiki/OCEAN_\(B'zの曲\) "wikilink")」以来である（「[MVP](https://ja.wikipedia.org/wiki/SPLASH! "wikilink")」で[ストリングスアレンジには参加している](https://ja.wikipedia.org/wiki/編曲#ストリングス "wikilink")）。
+        2コーラス目最後の歌詞「それもまたひとつの」の後には、当初歌詞が入る予定であったが、「解決しないでおこう」という理由で「(　)」（発音しない）表記となった。
+
+## タイアップ
+
+  - [東映](../Page/東映.md "wikilink")系映画『[俺は、君のためにこそ死ににいく](../Page/俺は、君のためにこそ死ににいく.md "wikilink")』主題歌（\#1）
+  - [デスペラード系映画](https://ja.wikipedia.org/wiki/フェイス・ワンダワークス "wikilink")『[真救世主伝説 北斗の拳 ラオウ伝 激闘の章](https://ja.wikipedia.org/wiki/真救世主伝説_北斗の拳 "wikilink")』主題歌（\#2）
+  - [JOYSOUND](https://ja.wikipedia.org/wiki/JOYSOUND "wikilink")「ポケメロJOYSOUND」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")（\#2）
+
+## 収録アルバム
+
+**永遠の翼**
+
+  - [ACTION](https://ja.wikipedia.org/wiki/ACTION "wikilink")
+  - [B'z The Best "ULTRA Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")
+  - [B'z The Best XXV 1999-2012](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1999-2012 "wikilink")
+
+## ライブ映像作品
+
+**永遠の翼**
+
+  - [B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")（特典DVD）
+  - [B'z LIVE in なんば 2006 & B'z SHOWCASE 2007 -19- at Zepp Tokyo](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば_2006_&_B'z_SHOWCASE_2007_-19-_at_Zepp_Tokyo "wikilink")
+  - [B'z LIVE-GYM 2008 -ACTION-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2008_-ACTION- "wikilink")
+  - [B'z COMPLETE SINGLE BOX](https://ja.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")（特典DVD）
+
+**ロンリースターズ**
+
+  - [B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")（特典DVD）
+  - [B'z LIVE in なんば 2006 & B'z SHOWCASE 2007 -19- at Zepp Tokyo](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば_2006_&_B'z_SHOWCASE_2007_-19-_at_Zepp_Tokyo "wikilink")
+
+## 脚注
+
+## 外部リンク
+
+  - [B'z Official Website - 「永遠の翼」特設サイト-](http://bz-vermillion.com/bmcv-5015/)
+
+[Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink") [Category:ト長調](https://ja.wikipedia.org/wiki/Category:ト長調 "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.  [マーティ・フリードマン](https://ja.wikipedia.org/wiki/マーティ・フリードマン "wikilink")『い〜じゃん\!J-POP -だから僕は日本にやって来た-』日経BP社、2008年。ISBN 978-4-8222-6319-5

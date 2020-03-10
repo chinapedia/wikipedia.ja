@@ -1,0 +1,32 @@
+> この記事は[News Wave](https://ja.wikipedia.org/wiki/News_Wave)から翻訳されています。
+
+
+『**News Wave**』（ニュースウェーブ）は、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")で放送された平日夕方の[ローカルワイド](https://ja.wikipedia.org/wiki/ローカルワイド番組 "wikilink")・[ニュース番組である](../Page/報道番組.md "wikilink")。
+
+1987年秋の改編で17時台から撤退して以来、3年半ぶりに17時台にローカルニュースを復活させた。
+
+## 概略
+
+1987年9月、当時の基幹ニュース枠（[NNNライブオンネットワーク](../Page/NNNライブオンネットワーク.md "wikilink")）のネット・ローカル統合に伴い、17時台から撤退していたが、「自社制作枠の拡大」という目的から、番組開始時点の基幹ニュース『[ニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』をローカルニュースに内包するというスタイルを取っての再スタートとなった。
+
+ちなみに番組開始時点で[札幌テレビ放送](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")が『[どさんこワイド](https://ja.wikipedia.org/wiki/どさんこワイド "wikilink")』をスタートさせ、好調に推移していたことから、まず報道系の生番組をスタートさせ様子を見ようという目的があったと思われる。実際に視聴率や社内体制が安定したところを見計らい、[夕方ワイド番組](https://ja.wikipedia.org/wiki/夕方ワイド番組 "wikilink")（[静岡〇ごとワイド\!](https://ja.wikipedia.org/wiki/まるごと "wikilink")）をスタートさせている。
+
+## 番組構成
+
+  - 17時台で全国や県内の主なニュースをまず伝え（「NEWS INDEX」）、その後、新聞各紙の夕刊を伝える「今日の夕刊」、さらには県内各地からの中継や気象情報などで構成されていた。
+  - 18時台はこれまでのニュースプラス1を「**News Wave プラス1 NNN**」と改題し、あくまで「**News Waveの番組内ネットニュース**」と位置づけた（プラス1の番組タイトルも、その部分にローカルで作成したCGタイトルを被せ対応した）。
+  - 18時台後半は、ネット各局が飛び降りる18:30を過ぎてもネットを続け、スポーツコーナーが終わるまで[東京からの映像を流した](../Page/日本テレビ放送網.md "wikilink")。スポーツコーナー終了後、一旦SDTスタジオで引き取り、CMを挟み県内ニュースを改めて伝えるほか、きょうのニュースおさらいと気象情報、あすの予定で番組終了というものであった。
+
+## キャスター
+
+  - [田辺稔](https://ja.wikipedia.org/wiki/田辺稔 "wikilink")（当時SDTアナウンサー）
+  - [森喜久子](https://ja.wikipedia.org/wiki/森喜久子 "wikilink")（当時SDTアナウンサー、途中降板）
+  - [石関美穂](https://ja.wikipedia.org/wiki/石関美穂 "wikilink")（当時SDTアナウンサー、途中登板）
+
+## 雑記
+
+  - 番組開始に伴い、Jスタジオのセットを建て替えた。番組が比較的スタジオ内を頻繁に移動して伝えることが多かったためか、着席デスクのセットは廃してあった。
+  - 「今日の夕刊」コーナーでは、ライバル社系列である[静岡新聞](../Page/静岡新聞.md "wikilink")の紙面も比較的多く紹介されていたが、[中日新聞](../Page/中日新聞.md "wikilink")の紙面が紹介されることは皆無に近かったようである。
+  - この番組が放送されていた期間中、平成ガメラ3部作『[ガメラ 大怪獣空中決戦](https://ja.wikipedia.org/wiki/ガメラ_大怪獣空中決戦 "wikilink")』に特別協力、アナウンサー田辺稔が劇中ニュースに「地元局のニュースキャスター」役で出演。SDTのJスタジオ、当番組のセットから劇中の架空ニュースを伝えた。
+
+[Category:1991年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のテレビ番組_\(日本\) "wikilink") [Category:静岡第一テレビの番組](https://ja.wikipedia.org/wiki/Category:静岡第一テレビの番組 "wikilink") [Category:東海・北陸地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビの帯番組 "wikilink") [Category:東海・北陸地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:NNNニュースプラス1](https://ja.wikipedia.org/wiki/Category:NNNニュースプラス1 "wikilink")

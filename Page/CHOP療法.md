@@ -1,0 +1,120 @@
+> この記事は[CHOP](https://ja.wikipedia.org/wiki/CHOP)から翻訳されています。
+
+
+**CHOP療法**（チョップりょうほう）とは、[B細胞](../Page/B細胞.md "wikilink")性[悪性リンパ腫](../Page/悪性リンパ腫.md "wikilink")に用いられる[化学療法](https://ja.wikipedia.org/wiki/化学療法 "wikilink")の[レジメン](https://ja.wikipedia.org/wiki/レジメン "wikilink")のひとつ。
+
+## CHOP療法の内訳
+
+**CHOP**の内訳は、
+
+  - **C**yclophosphamide - [シクロフォスファミド](https://ja.wikipedia.org/wiki/シクロフォスファミド "wikilink")。商品名：エンドキサン
+
+<!-- end list -->
+
+  -
+    750 mg/m<sup>2</sup>, day 1
+
+<!-- end list -->
+
+  - **H**ydroxydaunorubicin - [ドキソルビシン](https://ja.wikipedia.org/wiki/ドキソルビシン "wikilink")、[アドリアマイシン](https://ja.wikipedia.org/wiki/アドリアマイシン "wikilink")の別名。商品名：アドリアシン
+
+<!-- end list -->
+
+  -
+    50 mg/m<sup>2</sup>, day 1
+
+<!-- end list -->
+
+  - **O**ncovin 商品名オンコビン - vincristine、[ビンクリスチン](https://ja.wikipedia.org/wiki/ビンクリスチン "wikilink")
+
+<!-- end list -->
+
+  -
+    1.4 mg/m<sup>2</sup>, day 1
+
+<!-- end list -->
+
+  - **P**rednisone または **P**rednisolone. - [ステロイド](https://ja.wikipedia.org/wiki/ステロイド系抗炎症薬 "wikilink")（[プレドニゾロン](../Page/プレドニゾロン.md "wikilink")など）
+
+<!-- end list -->
+
+  -
+    100 mg/body, day 1-5（プレドニゾン、プレドニゾロンの場合の用量）
+
+原則的には21日で1サイクルである。
+
+## CHOP療法の実際
+
+CYは[シクロホスファミド](https://ja.wikipedia.org/wiki/シクロホスファミド "wikilink")（エンドキサン）、DXRは[ドキソルビシン](https://ja.wikipedia.org/wiki/ドキソルビシン "wikilink")（アドリアシン）、VCRは[ビンクリスチン](https://ja.wikipedia.org/wiki/ビンクリスチン "wikilink")（オンコビン）、PSLは[プレドニゾロン](../Page/プレドニゾロン.md "wikilink")である。化学療法では骨髄抑制、嘔気、脱毛は必発なのだが、特にCHOPで重要な副作用としてはCY（エンドキサン）の出血性膀胱炎やSIADH、VCR（オンコビン）の便秘、腸閉塞、末梢神経障害、DXR（アドリアシン）の心筋障害である。DXR投与中は100mg/m2ごとに[心電図](../Page/心電図.md "wikilink")、200mg/m2ごとに[心エコー](https://ja.wikipedia.org/wiki/心エコー "wikilink")を実施し心毒性をチェックする。投与方法としては、CY（エンドキサン）は生理食塩水500mlに溶解し2～3時間かけて点滴静注する。DXR（アドリアシン）は生理食塩水100mlに溶解し約30分で点滴静注する。VCRは生理食塩水20mlに溶解し、側管からゆっくりと静注する。 点滴とプランとしては以下に一例を示す。
+
+  -
+    1.カイトリルバック　100ml 30min
+    2.オンコビンXmg 生理食塩水20ml iv
+    3.アドリアシン Xmg 生理食塩水100ml　30min
+    4.エンドキサン Xmg 生理食塩水 500ml 2hour
+    5.ソルデム3A 500ml メイロン 20ml プリンペラン 1A 2.5hour
+    6.ソルデム3A 500ml メイロン 20ml プリンペラン 1A 2.5hour
+    7.体重増加でラシックス10mg 生理食塩水50ml 15min
+
+[腫瘍融解症候群](https://ja.wikipedia.org/wiki/腫瘍融解症候群 "wikilink")予防で食事可能でも5,6,7は翌日、翌々日も[輸液](../Page/輸液.md "wikilink")、利尿を継続することもある。ただし、CHOP療法も、後述するR-CHOP療法も外来での治療が可能な[化学療法](https://ja.wikipedia.org/wiki/化学療法 "wikilink")である。翌日の輸液はなどは外来治療では行うことはできない。必要性がある場合は入院にて治療ということになる。
+
+## agressive lymphomaの治療の推移
+
+CHOP療法は1970年代に開発された第一世代の化学療法である。その後第二世代、第三世代の中悪性度リンパ腫（aggressive lymphoma）に対する化学療法が開発されたが1990年代の大規模比較試験で治療効果として3年生存率では差がなく、毒性は第一世代のCHOP療法が最も軽度であったため現在、CHOP療法は標準的な治療と言われている。Ageressive lymphomaの治療の原則としてはstageI～IIの限局期はCHOP療法3course＋RTであり、stageIII～IVではCHOP療法6～8course＋RTである。
+
+　限局期に関しては非常に面白いデータもある。CHOP療法8courseとCHOP療法3course＋RTを比較したデータがある。それによると5年のPFS（無憎悪生存期間）、OS（全生存期間）はCHOP療法3courseの方が優れているということである。1998年、[NEJMにこの論文が掲載されCHOP療法](https://ja.wikipedia.org/wiki/ニューイングランド・ジャーナル・オブ・メディシン "wikilink")3courseが標準療法となるかに思われた、しかし、2001年度に追跡調査が発表され、5年後以降の再発がCHOP療法3course＋RTではCHOP療法8courseでは多く、PFS（無憎悪生存期間）では7年以降でOS（全生存期間）では9年以降でいずれもCHOP療法8courseの方が成績が良いというデータが出ている。これらのデータがそろったのは2005年頃であり、2008年現在、CHOP療法3course＋RTで治療したため[悪性リンパ腫](../Page/悪性リンパ腫.md "wikilink")が再発したという症例もいくつか報告されている。現在、agressive lymphomaの治療がCHOP療法からR-CHOP療法に移行しており、R-CHOP療法8courseとR-CHOP療法3course＋RTの大規模比較実験はまだ報告されていないため、どのような治療をするかは主治医との相談によって決定するべきであると考えられている。化学療法だけなら週に数回の外来を7ヶ月ほど通うことになる。放射線療法併用ならば、週に数回の外来に3ヶ月ほど通ったあとひと月間だけ毎日朝だけ病院にきて放射線をあてる必要がある。こういったライフスタイルの違いも治療の選択によって出てくる。また放射線療法では頸部リンパ節に病変がある場合は唾液の分泌が阻害されることがある。
+
+## CHOP療法の改良
+
+前述のように、第二、第三世代の化学療法のレジメは[シクロホスファミド](https://ja.wikipedia.org/wiki/シクロホスファミド "wikilink")や[ドキソルビシン](https://ja.wikipedia.org/wiki/ドキソルビシン "wikilink")といった抗腫瘍効果の高い薬が従来のCHOP療法のレジメよりも少なかったことがCHOP療法よりも優れた治療効果が出なかった原因のひとつと考えられている。近年の支持療法の進歩、特にG－CSF投与によって重篤な骨髄抑制を防ぐことができるようになったため、CHOP療法をさらに強化できる可能性が示唆されている。
+
+考え方としてdose intensity（単純に抗ガン剤の投与量を増やす）とdose density（サイクル間隔を短くする）という二つが真っ先に考えることができる。
+
+もともとCHOP療法療法が効果的な疾患では毒性が増すだけで大きな効果は見込めないものの、[成人T細胞白血病](https://ja.wikipedia.org/wiki/成人T細胞白血病 "wikilink")など効果が予後不良な疾患に対しては効果があり、特にdose densityの方が治療効果が高い傾向がある。
+
+## 新しい分子標的薬リツキサン
+
+21世紀に入ってから[分子標的薬](https://ja.wikipedia.org/wiki/分子標的薬 "wikilink")である[リツキシマブ](https://ja.wikipedia.org/wiki/リツキシマブ "wikilink")を併用することでAgeressive lymphomaの治療は劇的に変わった。Ageressive lymphomaの治療はCHOP療法からR-CHOP療法が主流に変化したのである。R-CHOPではCHOP療法のプランでday-2,-1などにリツキシマブを投与することが多い。1サイクルが21日であることはCHOP療法と変わりはない。
+
+リツキシマブ（リツキサン）は遺伝子組み換え技術を用いて作りだされたマウス－ヒトキメラ型[モノクローナル抗体](../Page/モノクローナル抗体.md "wikilink")である。リツキシマブはヒトB細胞表面抗原である[CD20に結合し](../Page/CD分類.md "wikilink")、抗体依存性細胞介在性細胞障害作用（ADCC）および補体依存性細胞障害作用（CDC）によりB細胞を特異的に傷害する。すなわちB細胞性の悪性リンパ腫やB細胞性の白血病には効くがT細胞性には効かない。リツキシマブは骨髄抑制がほとんどないため通常量の化学療法との併用も可能である。21世紀に入ってからCHOP療法とR-CHOP療法の比較試験が数多くなされており、リツキシマブ併用の方が有用とされている。
+
+リツキシマブの投与にあたって気をつけるべきことはマウス抗原が一部体内に入るため[アレルギー](../Page/アレルギー.md "wikilink")反応が起こることである。おそらくアレルギーで良いのであるが、。臨床家にとってはリツキシマブを安全に投与できれば良いのでこのアプローチは非常によい。Infusion related toxicityは投与後1時間半から2時間の頃に最もよく見られ、[発熱](https://ja.wikipedia.org/wiki/発熱 "wikilink")、[皮疹](../Page/皮疹.md "wikilink")、胸部違和感、咽頭部違和感などが高頻度にみられる。重度の場合は[血圧](../Page/血圧.md "wikilink")低下、アナフィラキシー様症状を呈することがある。これらは炎症性[サイトカイン](https://ja.wikipedia.org/wiki/サイトカイン "wikilink")の増加によるものと理解されており炎症が軽度である場合は経過観察のみで自然軽快することも多い、重度のinfusion related toxicityは末梢血中のへの腫瘍細胞の出現、骨髄浸潤、bulky病変、頸部・咽頭部病変などを有する場合に多いと言われている。これらを予防するために[NSAIDs](https://ja.wikipedia.org/wiki/NSAIDs "wikilink")である[ブルフェン](https://ja.wikipedia.org/wiki/ブルフェン "wikilink")（100）2T、[セレスタミン](https://ja.wikipedia.org/wiki/セレスタミン "wikilink")1Tをリツキシマブ投与30分前に投与することとなっている。もちろん他の[解熱鎮痛剤](https://ja.wikipedia.org/wiki/解熱鎮痛剤 "wikilink")（アセトアミノフェン）や[抗ヒスタミン薬](../Page/抗ヒスタミン薬.md "wikilink")の投与でも良い。初回投与時は25mg/hrの速度で開始しgrade2以上のアレルギー反応がみられなければ、1時間ごとに100mg/hr, 200mg/hrまで増量する。初回投与時にgrade2以上の毒性が生じなければ二回目以降は100mg/hrから開始してよいと言われている。Grade2のアレルギー反応とは皮疹や[蕁麻疹](https://ja.wikipedia.org/wiki/蕁麻疹 "wikilink")、呼吸困難、38℃以上の発熱である。血圧の低下、ウィーズの聴取までいくとgrade3である。Grade2の毒性が見られたら、一旦点滴を中止し、ソルコーテフ200mgを点滴し、軽快を認めたら再開をしていく、という方法が知られているが、ステロイドによるADCC活性低下が予想されるため、「呼吸が止まるまで入れるべき」とする専門家もいる。いずれにしても加速は慎重に行うべきである。以下にリツキサン投与日の点滴の一例を示す。
+
+  -
+    1.前投薬ブルフェン（100）2T、セレスタミン1TをPO 投与30分前
+    2.ソルコーテフ100mg 生理食塩水注 100ml 30min
+    3.リツキサンXmg生理食塩水加えてXml（1mg/mlにするだけだが）25ml/hrから開始、1時間見て変化がなければ100ml/hrに加速、1時間見て変化がなければ200ml/hrに加速
+    4.蕁麻疹にてソルコーテフ200mg 生理食塩水注50ml 15min
+    5.体重増加でラシックス10mg 生理食塩水50ml 15min
+
+といった具合になる。 infusion related toxicityを発見し、安全な投薬を行うには、投与前、投与後、30分後、1時間後、2時間後のバイタルや各種所見（アレルギー症状として悪寒、悪心、頭痛、掻痒、皮疹、咳、虚脱感、血管外漏出）を記載することが望ましい。なお入院中なら翌日からはCHOP療法が行われる。
+
+## Agressive lymphomaのsalvage療法
+
+　再発例にもR-CHOPが効くというデータはいくつかあるが、その再発例が現在はほとんどがCHOP3course＋RTの症例（1998年のデータで流行ったからであろう）であるためリツキサンが効いているだけなのかもしれず現在は評価不能である。教科書的には原則として再発例はsalvage療法であり代表的な治療はEPOCH療法となる。
+
+VP-16（ETP）は[エトポシド](https://ja.wikipedia.org/wiki/エトポシド "wikilink")（ラステッド）である。それ以外はCHOPで用いた薬物である。前述のようにCYは[シクロホスファミド](https://ja.wikipedia.org/wiki/シクロホスファミド "wikilink")（エンドキサン）、DXRは[ドキソルビシン](https://ja.wikipedia.org/wiki/ドキソルビシン "wikilink")（アドリアシン）、VCRは[ビンクリスチン](https://ja.wikipedia.org/wiki/ビンクリスチン "wikilink")（オンコビン）、PSLは[プレドニゾロン](../Page/プレドニゾロン.md "wikilink")である。CHOPとの差はPSLが増量され、代わりにVCRとDXRは一日あたりは減量され、CYが最終日となっている。いずれにせよ、用いる薬物量自体は多くなりCHOPより副作用、効果とも強力であり悪性リンパ腫のsalvage療法としてよく用いられる。中悪性度リンパ腫において再発例や初回治療抵抗性患者に対して行われることが多い。基本的には前述のように初回治療に交叉性のない薬物を組み込んだり投与量や投与時間を変えたレジメンであり、同様のコンセプトで作られた化学療法にESHAP, DHAP, ICEがある。しかしそれぞれの比較試験は行われておらず、こういった場合の標準療法は未だ確立していない。注意点としては, CHOP3サイクル+RTにて5年以上たってから非RT部位に再発した場合はsalvage療法ではなく、R-CHOP療法にて再治療することが多い。
+
+CHOP療法、R-CHOP療法ではDXR、VCRの投与がday1のみであるので、当日に末梢静脈確保すれば、[漏出性皮膚障害](https://ja.wikipedia.org/wiki/漏出性皮膚障害 "wikilink")のリスクは軽減できるので末梢静脈確保で十分なのだが（ゆえに外来治療可能）、EPOCH療法になると連日のDXR、VCR投与があるために漏出性皮膚障害のリスクが高まるため、CVカテーテルを使う。そうなると投与方法の自由度が高まってくる。以下はほんの一例ということだ。CVカテーテルがあるので消化器障害が強く出ても、[中心静脈栄養](https://ja.wikipedia.org/wiki/中心静脈栄養 "wikilink")が可能である。
+
+  -
+    1.ラステッドXg 生理食塩水500ml 24h
+    2.アドリアシンXg オンコビンXg 5%ブドウ糖液500ml 24h
+    3.カイトリルバック 30min
+    4.悪心時カイトリルバック 追加1回のみ可
+    5.体重減少にてラシックス10mg 生理食塩水50ml 15min×2
+    6.体温38℃以上にてマキシピーム1g 生理食塩水100ml 1hr ×2
+
+またエンドキサンを用いる日は
+
+  -
+    7.エンドキサンXmg 生理食塩水500ml 3hr
+
+位でやることが多い。
+
+## 参考文献
+
+  - がん診療レジデントマニュアル　ISBN 978-4-260-00310-0
+  - 病態生理に基づく臨床薬理学　ISBN 4-89592-461-0
+
+[Category:抗がん剤](https://ja.wikipedia.org/wiki/Category:抗がん剤 "wikilink") [Category:化学療法_(悪性腫瘍)](https://ja.wikipedia.org/wiki/Category:化学療法_\(悪性腫瘍\) "wikilink")

@@ -1,0 +1,49 @@
+> この記事は[YAMABOKU](https://ja.wikipedia.org/wiki/YAMABOKU)から翻訳されています。
+
+
+[Yamaboku-.jpg](https://ja.wikipedia.org/wiki/File:Yamaboku-.jpg "fig:Yamaboku-.jpg")
+
+**YAMABOKUワイルドスノーパーク**は、[長野県](../Page/長野県.md "wikilink")[上高井郡](../Page/上高井郡.md "wikilink")[高山村にある](https://ja.wikipedia.org/wiki/高山村_\(長野県\) "wikilink")[スキー場](../Page/スキー場.md "wikilink")。**2010年に[山田牧場](https://ja.wikipedia.org/wiki/山田牧場 "wikilink")スキー場**から改名された。
+
+[スノーボード](../Page/スノーボード.md "wikilink")は全面滑走可能。ヘリスキーツアーを実施。[ナイター](../Page/ナイター.md "wikilink")営業は実施していない。
+
+## コース
+
+3基の[リフトにより](../Page/索道.md "wikilink")、7本のコースが設置されている。
+
+  - パノラマ
+  - シュテムクリスチャニア
+  - クリスチャニア
+  - ルッキーチロル
+  - ベビ・インスブルック
+  - ホーゲル
+  - ヒルシュ
+
+## アクセス
+
+  - [上信越自動車道](../Page/上信越自動車道.md "wikilink")[須坂長野東ICから約](https://ja.wikipedia.org/wiki/須坂長野東インターチェンジ "wikilink")23km
+  - [長野電鉄](../Page/長野電鉄.md "wikilink")[長野線](https://ja.wikipedia.org/wiki/長野電鉄長野線 "wikilink")：[須坂駅](https://ja.wikipedia.org/wiki/須坂駅 "wikilink")（バス）
+
+## 周辺観光スポット
+
+  - [山田温泉キッズスノーパーク](https://ja.wikipedia.org/wiki/山田温泉キッズスノーパーク "wikilink")（山田温泉スキー場）
+  - [YAMABOKUワイルドスノーパーク](https://ja.wikipedia.org/wiki/YAMABOKUワイルドスノーパーク "wikilink")（山田牧場スキー場）
+  - [山田温泉](https://ja.wikipedia.org/wiki/山田温泉_\(長野県\) "wikilink")
+  - [五色温泉](https://ja.wikipedia.org/wiki/五色温泉_\(長野県\) "wikilink")
+  - [七味温泉](https://ja.wikipedia.org/wiki/七味温泉 "wikilink")
+  - [松川渓谷](https://ja.wikipedia.org/wiki/松川_\(上高井郡\) "wikilink")
+  - [雷滝](https://ja.wikipedia.org/wiki/雷滝 "wikilink")
+  - [八滝](https://ja.wikipedia.org/wiki/八滝 "wikilink")
+  - [高山村五大桜](https://ja.wikipedia.org/wiki/高山村五大桜 "wikilink")　[シダレザクラ](https://ja.wikipedia.org/wiki/シダレザクラ "wikilink")（枝垂れ桜）（村内各地）
+  - [福島正則屋敷跡](https://ja.wikipedia.org/wiki/福島正則屋敷跡 "wikilink")
+  - [歴史公園信州高山一茶ゆかりの里一茶館](https://ja.wikipedia.org/wiki/一茶ゆかりの里_一茶館 "wikilink")
+
+## 関連項目
+
+  - [日本のスキー場一覧](https://ja.wikipedia.org/wiki/日本のスキー場一覧 "wikilink")
+
+## 外部リンク
+
+  - [YAMABOKUワイルドスノーパーク](http://www.yamaboku.jp//)
+
+[Category:長野県のスキー場](https://ja.wikipedia.org/wiki/Category:長野県のスキー場 "wikilink") [Category:高山村_(長野県)](https://ja.wikipedia.org/wiki/Category:高山村_\(長野県\) "wikilink")

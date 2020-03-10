@@ -1,0 +1,384 @@
+> この記事は[FNS27](https://ja.wikipedia.org/wiki/FNS27)から翻訳されています。
+
+
+『**FNS27時間テレビ**』（エフエヌエスにじゅうななじかんテレビ）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")以降の『[FNSの日](https://ja.wikipedia.org/wiki/FNSの日 "wikilink")』の通称であり、1年に1度[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")\[1\]されている[日本の長時間特別番組](https://ja.wikipedia.org/wiki/日本の長時間特別番組一覧 "wikilink")。その年のメインコンセプトテーマに沿った内容となる。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")以降は放送時間が25 - 26時間になることもあるが、本項目では便宜上、回数が多く通称として使われる「27時間テレビ」としている。「**27HTV**」と略されることもある。
+
+タイトルは[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")『[24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』を真似たもの。
+
+制作著作は[フジテレビではなく](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[テレビ大分](https://ja.wikipedia.org/wiki/テレビ大分 "wikilink")を除くFNS[フジネットワーク](../Page/フジネットワーク.md "wikilink")（または「フジネットワーク27社\[2\]」）となっている\[3\]。
+
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[1996年](../Page/1996年.md "wikilink")の『FNSの日』は『[FNSスーパースペシャルテレビ夢列島](https://ja.wikipedia.org/wiki/FNSスーパースペシャルテレビ夢列島 "wikilink")』を参照。
+  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink") - [1994年](../Page/1994年.md "wikilink")の『FNSの日』は『[平成教育テレビ](https://ja.wikipedia.org/wiki/平成教育テレビ "wikilink")』を参照。
+
+__TOC__
+
+## 放送遍歴
+
+### 第11回（1997年）疾風怒涛\!FNSの日スーパースペシャルXI真夏の27時間ぶっ通しカーニバル 〜REBORN〜
+
+  - 総合司会 : ダウンタウン（浜田雅功・松本人志）
+  - 番組のテーマは「REBORN」。
+
+フジテレビが[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[河田町](../Page/河田町.md "wikilink")から[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[台場](../Page/台場.md "wikilink")に移転してから初めての『[FNS27時間テレビ](https://ja.wikipedia.org/wiki/FNSの日 "wikilink")』。また4月1日に開局した[さくらんぼテレビと](../Page/さくらんぼテレビジョン.md "wikilink")[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")もこの回から参加している。山形県では[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")以来5年ぶりの放送で、高知県での放送は初めて。この年から[ステレオ](../Page/ステレオ.md "wikilink")放送になった。
+
+「[テレビ夢列島](https://ja.wikipedia.org/wiki/FNSスーパースペシャルテレビ夢列島 "wikilink")」や「[平成教育テレビ](https://ja.wikipedia.org/wiki/平成教育テレビ "wikilink")」などの[ビートたけし](../Page/ビートたけし.md "wikilink")を中心とした内容から一新し、総合司会に[ダウンタウンを起用した](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")。ダウンタウンが司会を務める『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』を主体としたコーナーを含め、歌手・アーティストが出演し例年より[音楽](../Page/音楽.md "wikilink")要素の多い番組となった。
+
+放送当日に[台風9号が直撃したため](https://ja.wikipedia.org/wiki/平成9年台風第9号 "wikilink")、全国各地から船で27時間内に食材を運ぶメイン企画を始めとして番組の企画内容が大幅な変更を余儀なくされた。
+
+#### 概要
+
+オープニングは、フジテレビが[河田町](../Page/河田町.md "wikilink")から[お台場](../Page/お台場.md "wikilink")に引っ越したということから、スタジオではなく社屋前の海に浮かぶ船上の生中継からスタート。松本は、乗り物酔い持ちのため「吐きそう」「なんでこんな船の上からするの。」と何度も嘆いていた。
+
+  - 台風関連
+
+19時台と21時台に台風情報を放送した。オープニングの後に放送する予定だった[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")での[中日](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")-[巨人戦が台風のため中止](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")（ナゴヤドームでプロ野球の試合が中止されたのは初めて）になり、急遽[ヤクルトの](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")[野村克也](../Page/野村克也.md "wikilink")監督、[古田敦也](../Page/古田敦也.md "wikilink")、[ドゥエイン・ホージー](https://ja.wikipedia.org/wiki/ドゥエイン・ホージー "wikilink")両選手（いずれも当時）が招かれ、オールスター戦のダイジェストとヤクルト選手などの名珍場面を放送した（[神宮球場のヤクルト戦も中止だった](../Page/明治神宮野球場.md "wikilink")）。また、[ゲーム企画](../Page/コンピュータゲーム.md "wikilink")「お台場GAME BATTLE」のみ出演の予定だった「[ビーチボーイズ](https://ja.wikipedia.org/wiki/ビーチボーイズ_\(テレビドラマ\) "wikilink")」の俳優陣（[反町隆史](https://ja.wikipedia.org/wiki/反町隆史 "wikilink")・[竹野内豊](../Page/竹野内豊.md "wikilink")・[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")・[稲森いずみ](https://ja.wikipedia.org/wiki/稲森いずみ "wikilink")・[マイク眞木](https://ja.wikipedia.org/wiki/マイク眞木 "wikilink")）が中継に登場した。後の「お台場GAME BATTLE」も当初は屋外の特設会場に1万人の観客を招いて行なう予定だったが、公開放送を中止。さらに、特設会場で使われる機械が故障。急遽、出演者が仮設のテントの中で「[ぷよぷよ](../Page/ぷよぷよ.md "wikilink")」対決を行うことになった。なお、夜8時台は仮設会場でダウンタウンが[西川貴教](../Page/西川貴教.md "wikilink")とトークしたり、「～GAME BATTLE」の後の「LOVE LOVE あいしてる」のスタジオでのクロストークを行った。 プロ野球は[福岡ドーム](../Page/福岡ドーム.md "wikilink")（当時）以外の5試合も中止となり1試合しかなかったため、「[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")」も内容を変更、前年に引き続き「居酒屋あぶさん」からの中継を継いで「緊急討論・巨人は優勝できるか?」を放送した。
+
+  - 深夜帯
+
+「[LOVE LOVE あいしてる](https://ja.wikipedia.org/wiki/LOVE_LOVE_あいしてる "wikilink")」スペシャル内で中居正広がKinKi Kidsに電話をかけた。
+
+深夜企画ではお色気企画も復活。ブレイクする前の[ココリコ](../Page/ココリコ.md "wikilink")、[雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink")、[ネプチューン](../Page/ネプチューン_\(お笑いトリオ\).md "wikilink")、[オセロや](../Page/オセロ_\(お笑い\).md "wikilink")[チュパチャップス](https://ja.wikipedia.org/wiki/チュパチャップス "wikilink")なども出演していた。ココリコはこの年以降「27時間テレビ」に連続出演している。
+
+浜田が志村けんと、大箱根カントリークラブにて早朝ゴルフ対決。
+
+  - お台場特設会場（観衆1万人）
+
+夜が明けると、前日のオープニングとは打って変わって晴天に恵まれた。
+
+前年に引き続いて「全国フリースロー選手権大会」を開催。決勝はお台場の特設会場。優勝は[福島テレビ](../Page/福島テレビ.md "wikilink")で、最終戦のドリームマッチでもデニス・ロッドマンに勝利。
+
+番組の随所では、『HEY\!HEY\!HEY\!』に縁があるアーティストがフジテレビの特設野外ステージでスペシャルライブを行った。土曜夜に[MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")、[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")、[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")、土曜深夜に[Every Little Thing](../Page/Every_Little_Thing.md "wikilink")、日曜朝に[GLAY](../Page/GLAY.md "wikilink")、日曜昼に[PUFFY](../Page/PUFFY.md "wikilink")、日曜夕方に[華原朋美](../Page/華原朋美.md "wikilink")、日曜夜に[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")が出演した。
+
+「大決戦！日本列島エエヒト怪獣ツルベVSワガママ怪獣ヒトシ」では、互いに同姓同名の素人（中継で登場）と組んで対決。
+
+「[さんまのスポーツするぞ\!](https://ja.wikipedia.org/wiki/明石家さんまのスポーツするぞ!大放送 "wikilink")」ではさんま・今田・東野・ナイナイのさんまチームがロッドマンとフリースロー対決をし、岡村と東野が決め2対1でさんまチームが勝利。松本vsロッドマンのビリヤード対決終了後、ダウンタウンとさんまの共演もあった。
+
+「お台場朝から大変だ\!\![めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink") 達人SP」では、1994年の開始から3年半の間に登場した達人たちがお台場に集結した。その中で武道家の玉城厚志が「1分間の瓦早割り」に挑戦、それまでの世界記録の191枚を89枚更新する280枚の世界新記録を樹立した。静岡、大阪、愛知、岩手、福島の5ヶ所からも達人が登場した。
+
+夕方は[川端健嗣](../Page/川端健嗣.md "wikilink")アナウンサー・[篠原ともえ](../Page/篠原ともえ.md "wikilink")司会の『[ザ・ヒューマンスペシャル](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")』を放送。
+
+[ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")には、司会のダウンタウンがゲスト出演。ナイナイも五秒ではあったが出演していた。
+
+  - FNS局対抗戦(第2回全国フリースロー選手権大会)
+
+今回は1回戦の試合数が前回の9試合から2試合増えて11試合に。又、大会的に有利とされるシード枠(1回戦は不戦勝で2回戦から登場)は前回の7チームから2枠減って5チームにと[トーナメントに若干](../Page/トーナメント方式.md "wikilink")、変更点があった。 [フジテレビが](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")1回戦で前回優勝の[鹿児島テレビを](../Page/鹿児島テレビ放送.md "wikilink")／続く2回戦で前回準優勝の[長野放送](../Page/長野放送.md "wikilink")を立て続けで破った(前回の[ファイナリスト](https://ja.wikipedia.org/wiki/ファイナリスト "wikilink")が連続して敗れる波乱があった)。 [決勝戦](https://ja.wikipedia.org/wiki/決勝戦 "wikilink")は[テレビ長崎](../Page/テレビ長崎.md "wikilink")と[福島テレビ](../Page/福島テレビ.md "wikilink")の対戦。1万人の観客が見守る目の前で行なわれて福島テレビが初めての優勝（入賞は1989年のさんま賞獲得以来2度目）。ドリームマッチのデニス・ロッドマンも含めて全国優勝・完全優勝の2冠達成となった。
+
+  - グランドフィナーレ
+
+漁船が続々と到着。放送エリアで唯一海のない（他の内陸県は広域局エリアに属するか、フジテレビ系列局がない県だった。）[長野県](../Page/長野県.md "wikilink")からは笹船が乗ったトラックに乗って登場した。
+
+PUFFYが「[渚にまつわるエトセトラ](https://ja.wikipedia.org/wiki/渚にまつわるエトセトラ "wikilink")」、西城秀樹が「[YOUNG MAN (Y.M.C.A.)](https://ja.wikipedia.org/wiki/YOUNG_MAN_\(Y.M.C.A.\) "wikilink")」を披露した。
+
+提供クレジットを読み上げた新人アナウンサーは[宇田麻衣子](https://ja.wikipedia.org/wiki/宇田麻衣子 "wikilink")、[春日由実](https://ja.wikipedia.org/wiki/春日由実 "wikilink")、[桜井堅一朗](https://ja.wikipedia.org/wiki/桜井堅一朗 "wikilink")、[深澤里奈](../Page/深澤里奈.md "wikilink")の4人。
+
+今回の27時間テレビの瞬間最高視聴率は[東野幸治](../Page/東野幸治.md "wikilink")と[篠原ともえ](../Page/篠原ともえ.md "wikilink")が担当したコーナー「[プリプリプリティ](https://ja.wikipedia.org/wiki/LOVE_LOVE_あいしてる#コーナー "wikilink")」で22.1%だった。この事が翌年の27時間テレビでも東野が登場した際にも、壁に「ウェルカム最高視聴率男」と書かれた張り紙が貼ってあった。
+
+#### 主要スタッフ
+
+  - 構成：[高平哲郎](https://ja.wikipedia.org/wiki/高平哲郎 "wikilink")／[高須光聖](../Page/高須光聖.md "wikilink")、[玉井貴代志](https://ja.wikipedia.org/wiki/玉井貴代志 "wikilink")、[伊藤正宏](https://ja.wikipedia.org/wiki/伊藤正宏 "wikilink")、大田一水、[高瀬真尚](https://ja.wikipedia.org/wiki/高瀬真尚 "wikilink")、[倉本美津留](https://ja.wikipedia.org/wiki/倉本美津留 "wikilink")、小笠原英樹、近沢宏和、宇野宇、中村健太郎、見崎新吾
+  - 技術プロデューサー：吉本治
+  - 美術プロデューサー：夏野展實、石鍋伸一朗、須藤康弘、北林福夫
+  - CG：松本幸也（orb）
+  - デスク：広瀬益己
+  - 制作進行：[清水宏泰](../Page/清水宏泰.md "wikilink")、[明松功](https://ja.wikipedia.org/wiki/明松功 "wikilink")
+  - 監修：[王東順](https://ja.wikipedia.org/wiki/王東順 "wikilink")、[三宅恵介](https://ja.wikipedia.org/wiki/三宅恵介 "wikilink")
+  - プロデューサー：[桜井郁子](https://ja.wikipedia.org/wiki/桜井郁子 "wikilink")／小西康弘、[小須田和彦](https://ja.wikipedia.org/wiki/小須田和彦 "wikilink")
+  - 総合演出・総合プロデューサー：[水口昌彦](https://ja.wikipedia.org/wiki/水口昌彦 "wikilink")
+
+### FNS1億2700万人の27時間テレビ夢列島（1998年 - 2000年）
+
+　SMAPの中居正広を総合司会に据え、当時若者を中心に人気だった「[サタ☆スマ](https://ja.wikipedia.org/wiki/サタ☆スマ "wikilink")」をベースに放送された。進行役はフジテレビの[西山喜久恵](../Page/西山喜久恵.md "wikilink")アナウンサー。
+
+この3回は、[荒井昭博](../Page/荒井昭博.md "wikilink")総合プロデューサー、[坪田譲治総合演出](https://ja.wikipedia.org/wiki/坪田譲治_\(フジテレビ\) "wikilink")、構成[鈴木おさむ](../Page/鈴木おさむ.md "wikilink")の3氏が製作を指揮していた。また、「笑っていいとも\!増刊号」が2部構成で放送された。
+
+#### 第12回（1998年）〜てれずにいいこと・てれずに楽しく〜
+
+  - 総合司会:中居正広（SMAP）
+
+番組テーマの「てれずに〜」は“照れず”にと“テレビ”をかけている。 「ドミノを27時間以内に立てられるか」という企画が始まり、翌年から[北広島市](../Page/北広島市.md "wikilink")で連続して行われた（[北海道文化放送](../Page/北海道文化放送.md "wikilink")が中継）。“倒れない車ドミノ”は特徴的。 ナゴヤドームから2年連続の生中継。この年はK-1中継を放送した。
+
+深夜の「プロ野球ニュース」では、中居と爆笑問題が出演した。
+
+この年のFNS系列・恒例の局対抗企画は**FNS空き缶アートフェスティバル**に使った空き缶の総数で争い結果、[テレビ愛媛](../Page/テレビ愛媛.md "wikilink")が四国勢初優勝を決めた。尚、東北の[仙台放送](../Page/仙台放送.md "wikilink")は時間内に作品が出来なかった為に大会史上初めての失格となってしまった。
+
+提供クレジットを読み上げた新人アナウンサーは[西岡孝洋](../Page/西岡孝洋.md "wikilink")、[荒瀬詩織](../Page/荒瀬詩織.md "wikilink")、[八馬淳也](https://ja.wikipedia.org/wiki/八馬淳也 "wikilink")、[島田彩夏](https://ja.wikipedia.org/wiki/島田彩夏 "wikilink")の4人。
+
+テーマソングはSMAPの『[たいせつ](https://ja.wikipedia.org/wiki/たいせつ "wikilink")』。
+
+#### 第13回（1999年）〜てれずに楽しく・てれずに愛して〜
+
+  - 総合司会:中居正広（SMAP）
+  - 18:00放送開始。1992年から行われていたスポーツ中継が廃止された。
+  - ドミノ倒し　タモリがドミノ監督
+
+<!-- end list -->
+
+  -
+    中村玉緒が福岡・[太宰府天満宮](https://ja.wikipedia.org/wiki/太宰府天満宮 "wikilink")から「成功祈願ドミノ」（実況・[川崎聡](https://ja.wikipedia.org/wiki/川崎聡 "wikilink")アナウンサー）。
+    前回（1998年）の夢ドミノで失敗した岡山と北海道だったが今回は明暗クッキリの結果に。岡山は前回止まってしまった石ドミノの下に[ベニヤ板](https://ja.wikipedia.org/wiki/ベニヤ板 "wikilink")を乗せて対策し、リベンジ成功。同局はドミノマッチに負けた為、罰ゲームとして人間ドミノ・10体も投入。北海道は車ドミノがまた上手く倒れず失敗。だがトラックドミノ3台の方は倒れた。
+    [鹿児島テレビのドミノ倒しでは超豪華なドミノが登場した](../Page/鹿児島テレビ放送.md "wikilink")。鹿児島県北部の[住友金属鉱山](https://ja.wikipedia.org/wiki/住友金属鉱山 "wikilink")菱刈鉱山の協力で1個10kgの金塊を20本、合計200kgを使用。総額は何と驚愕の2億円（1本／1000万円で1kg換算で200万円）にも上り現地リポーターの[角盈男](https://ja.wikipedia.org/wiki/角盈男 "wikilink")を驚かせたが実は本当の所、全て[レプリカ](../Page/レプリカ.md "wikilink")だった。角は**「えー！そんなの聞いてない」**と絶叫していた。[仙台放送](../Page/仙台放送.md "wikilink")のドミノ倒しは正しく大成功尽くしだった。先ず、[岡山放送](../Page/岡山放送.md "wikilink")との[一騎討ち](https://ja.wikipedia.org/wiki/一騎討ち "wikilink")となったドミノマッチのドミノ100M走を勝利したかと思えば大本番のドミノでも垂直落下ドミノが見事に決まる等とまさにこの上の無い最高の結果になった事で前年、石川が獲得したドミノMVPをこの年、仙台が獲得した。しかし、スタート直後、フジテレビ[V4スタジオ](https://ja.wikipedia.org/wiki/V4スタジオ "wikilink")から鹿児島テレビの会場へFAXが送信出来ないハプニングが起き、慌ててスタッフが紙を入れなおしたり、ディレクターの確認ミスでスタジオの絵に入っているときにドミノが出発するトラブルも多々あった。
+
+深夜コーナー「よる☆スマ」は[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")、[ココリコ](../Page/ココリコ.md "wikilink")、[極楽とんぼ](../Page/極楽とんぼ.md "wikilink")がヤング代表として、[ガッツ石松](https://ja.wikipedia.org/wiki/ガッツ石松 "wikilink")、[鈴木史朗](../Page/鈴木史朗.md "wikilink")、[大竹まこと](https://ja.wikipedia.org/wiki/大竹まこと "wikilink")、[石田純一](../Page/石田純一.md "wikilink")の4人がアダルト代表として参加。「サタ☆スマ」の[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")プレゼン企画で、香取と子供たちが作った手作りのコーナー「うたまるまるだいなくしょう」を放送。
+
+この年のFNS系列・恒例の局対抗企画は**スーパーバスケ**を開催した結果、[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")が優勝した。尚、2回戦では北の[北海道文化放送](../Page/北海道文化放送.md "wikilink")と歴史に残る延長ロング試合を演じた。
+
+提供クレジットを読み上げた新人アナウンサーは[内田恭子](https://ja.wikipedia.org/wiki/内田恭子 "wikilink")、[長谷川豊](https://ja.wikipedia.org/wiki/長谷川豊 "wikilink")、[大橋マキ](https://ja.wikipedia.org/wiki/大橋マキ "wikilink")の3人。
+
+#### 第14回（2000年）〜家族 愛 Love You〜
+
+  - 総合司会:中居正広（SMAP）
+
+[三宅島](../Page/三宅島.md "wikilink")の火山活動が6月末から活発化し、放送中に何度も地震速報のテロップが表示された。午前3時57分に三宅島でM6.0の地震が発生、新島村で震度6弱の地震が観測され、番組を中断して地震の情報を伝えた。
+
+『サタ☆スマ』の企画「中居の27時間赤ちゃん預かります！」が通し企画。各コーナーに赤ちゃんが登場した。『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』の企画（ゲーム）、スーパーバスケで各局が対戦し、前年に引き続き[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")チームが優勝した。
+
+サタ☆スマの企画「ボク生き境界線クイズ」をFNS各系列から選抜された12局で競う「ボク生き大家族対抗境界線特大号」を開催。試合は二者択一の問題を3問出題して3問終了時点での残り人数で勝敗を決するルールを採用した。鹿児島テレビと[山陰中央テレビが並び](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")、ジャンケン・プレーオフで鹿児島が優勝した。[勝俣州和](../Page/勝俣州和.md "wikilink")・キャイ〜ン・ココリコと大橋マキ・佐野瑞樹の7人が「お台場ドリームチーム」としてスーパーバスケに挑戦。生放送中は1回も成功しなかったが、後日「[100%キャイ〜ン\!](../Page/100%キャイ〜ン!.md "wikilink")」の中で再挑戦し、なんとか成功した。
+
+「[さんま・中居の今夜は眠れない（さんま・中居の今夜も眠れない）](https://ja.wikipedia.org/wiki/さんま・中居の今夜も眠れない "wikilink")」がこの年初めて行われ、以降2016年まで27時間テレビ恒例企画となった。
+
+深夜コーナー「[女子アナといろいろやってみようスペシャル](https://ja.wikipedia.org/wiki/女子アナスペシャル "wikilink")」の「[ココリコ投稿番長スペシャル](../Page/ココリコミラクルタイプ.md "wikilink")」でココリコが[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")、キャイ〜ンらとともにネタを制作し、FNS各局の女子アナがジャッジ。
+
+夕方は『[FNNスーパーニュース](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")』を放送。
+
+提供クレジットを読み上げた新人アナウンサーは[梅津弥英子](../Page/梅津弥英子.md "wikilink")、[千野志麻](https://ja.wikipedia.org/wiki/千野志麻 "wikilink")、[政井マヤ](https://ja.wikipedia.org/wiki/政井マヤ "wikilink")の3人。政井が新人アナとしては初めてスポンサー名を読み間違えてしまい、全て読み終えたあとに訂正するという一幕があった\[4\]。この年[露木茂](../Page/露木茂.md "wikilink")が定年退職するため、立会はこの年で最後になった。
+
+ドミノ倒しで2年連続失敗に終わっている北海道の車ドミノは10台目で止まってしまった。そしてこの年のドミノMVPは[長野放送](../Page/長野放送.md "wikilink")のファミリードミノに決まった。
+
+この年のFNS系列・恒例の局対抗企画は**7人兄弟スーパーバスケ**を開催した結果、[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")が前回に引き続き優勝、2連覇した。なお、決勝戦では北の北海道文化放送との再戦を演じた。
+
+ラストは放送時間残り6分で木村の提案により出演者全員による即興で『[夜空ノムコウ](https://ja.wikipedia.org/wiki/夜空ノムコウ "wikilink")』を歌唱した。
+
+#### 第15回（2001年）FNS ALLSTARS27時間笑いの夢列島
+
+  - 進行役（総合司会代理） : 西山喜久恵、[木佐彩子](https://ja.wikipedia.org/wiki/木佐彩子 "wikilink")、[小島奈津子](https://ja.wikipedia.org/wiki/小島奈津子 "wikilink")
+
+タイトルは当時放送されていたバラエティ「[プレゼンタイガー](https://ja.wikipedia.org/wiki/プレゼンタイガー "wikilink")」で2つの候補の中から決定したもの。もう1つの候補は「FNS1億2700万人の[ファイナルアンサー笑う](../Page/クイズ$ミリオネア.md "wikilink")27時間TV」だった。これまでのように総合司会はすえず、コーナーごとにメインMCをバトンタッチしながら進行する形をとった。また、番組全体の進行役としてフジテレビ女性アナウンサーの3人（西山・木佐・小島）を起用した。
+
+これまで出演を断っていた[とんねるず](../Page/とんねるず.md "wikilink")が、初めて「27時間テレビ」に出演した。
+
+番組のテーマ曲は[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の「[希望の轍](https://ja.wikipedia.org/wiki/希望の轍 "wikilink")」。（番組テーマが「希望」であったことから）。
+
+[福岡ドーム](../Page/福岡ドーム.md "wikilink")（当時）から中継し、同年の[オールスターゲーム両軍監督である](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")[長嶋茂雄](https://ja.wikipedia.org/wiki/長嶋茂雄 "wikilink")監督と[王貞治](../Page/王貞治.md "wikilink")監督が握手をして開会宣言した。しかし、選手インタビュー中に[堀内健](../Page/堀内健.md "wikilink")が周囲を凍り付かせるようなギャグを言い放ったことが[日本プロ野球選手会](../Page/日本プロ野球選手会.md "wikilink")（当時の選手会長は[ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")（フジテレビと系列的につながる）に所属していた[古田敦也](../Page/古田敦也.md "wikilink")）の怒りをかい、それを受けた[日本プロ野球機構](https://ja.wikipedia.org/wiki/日本プロ野球機構 "wikilink")から「今後フジテレビでのオールスターゲームの中継から手を引く」と通告されるに至る事態を招くこととなった（その後、2004年に再び中継を再開）\[5\]。
+
+[BIG3コーナーの車庫入れシリーズが復活](https://ja.wikipedia.org/wiki/平成教育テレビ "wikilink")、[名倉潤](https://ja.wikipedia.org/wiki/名倉潤 "wikilink")の[シボレー](https://ja.wikipedia.org/wiki/シボレー "wikilink")が破壊された。進行役は[今田耕司](../Page/今田耕司.md "wikilink")、[ほんこん](../Page/ほんこん.md "wikilink")、[村上ショージ](https://ja.wikipedia.org/wiki/村上ショージ "wikilink")の3人。[ビビる大木](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink")がハンドルを握り、花壇に乗り上げて登場した。かつてのたけし以上に派手にブロック塀に当ててしまう。CM後には車に付けられた風船をトスバッティングで割る企画に。途中軟球から硬球に変更され、さんまも「これは酷すぎる」と言い出した。最後には[山口智充](../Page/山口智充.md "wikilink")が砲丸投げ選手に扮して登場し、名倉が止める中、窓ガラスを粉々に割ってしまう。車庫入れシリーズ史上最も破壊されたが、壊された車の会社側が「宣伝になる」として無料で修理した。
+
+『[クイズ$ミリオネア](../Page/クイズ$ミリオネア.md "wikilink")』初の生放送スペシャルでは、当初[ココリコ](../Page/ココリコ.md "wikilink")の[遠藤章造](https://ja.wikipedia.org/wiki/遠藤章造 "wikilink")の応援で来ていた明石家さんまが突然クイズに挑戦。ライフラインのテレフォンで前妻の[大竹しのぶ](https://ja.wikipedia.org/wiki/大竹しのぶ "wikilink")に生電話。このときから並び替え早押しなしの「エキシビション ・マッチ」が登場した。
+
+| ピリオド | 挑戦者                                                   | 結果    | 賞金   | 備考                   |
+| ---- | ----------------------------------------------------- | ----- | ---- | -------------------- |
+| 1    | [遠藤章造](https://ja.wikipedia.org/wiki/遠藤章造 "wikilink") | Q09NG | 10万円 | テレフォンブレーン・横山三兄弟\[6\] |
+| 2    | [明石家さんま](../Page/明石家さんま.md "wikilink")                | Q10NG | 10万円 | テレフォンブレーン・大竹しのぶ      |
+| 3    | [ユースケ・サンタマリア](../Page/ユースケ・サンタマリア.md "wikilink")      | Q10NG | 10万円 | 7月26日に結果が放映          |
+
+以上、「**とっても安上がり**（の賞金放出）」で終了した。 深夜枠では「[めちゃ<sup>2</sup>イケてるッ\!](https://ja.wikipedia.org/wiki/めちゃ×2イケてるッ! "wikilink")」のコーナー「[七人のしりとり侍](https://ja.wikipedia.org/wiki/七人のしりとり侍 "wikilink")」をモチーフにした「27時間の裏めちゃイケ侍」のコーナーがあった。しかし、「-しりとり侍」自体が[放送倫理・番組向上機構 (BPO)で問題になってコーナーが中止になったということもあり](https://ja.wikipedia.org/wiki/放送倫理・番組向上機構 "wikilink")、内容はフェイクで伝説の深夜番組「[殿様のフェロモン](https://ja.wikipedia.org/wiki/殿様のフェロモン "wikilink")」のお色気企画を行った(また、この時に伝説のクイズ「ハケ水車」が復活した)。この回[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")が扮する[笑う犬](../Page/笑う犬.md "wikilink")のキャラクター「大嵐浩太郎」によるドミノ倒し企画が予定されていたが、放送中の20時30分頃に[明石花火大会歩道橋事故](https://ja.wikipedia.org/wiki/明石花火大会歩道橋事故 "wikilink")が発生した影響で中止となった（[関西テレビでは深夜に放送中断して臨時ニュースを放送した](../Page/関西テレビ放送.md "wikilink")）。
+
+『[とんねるずのハンマープライス](https://ja.wikipedia.org/wiki/とんねるずのハンマープライス "wikilink")』が一夜限り生放送で復活。木梨の車、[トヨタ・ランドクルーザー](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー "wikilink")シグナスを西山アナが乗り回した。
+
+この年のFNS局対抗企画は「**FNS最強キャラクター大相撲**」。FNS各局のキャラクター（の着ぐるみ）が相撲に挑戦し、優勝局を決める。当時はFNS27局全局のキャラクターが設定されていなかったため、[福島テレビ](../Page/福島テレビ.md "wikilink")のように急遽キャラクターを作って参加した局もあった。優勝したのは[テレビ愛媛](../Page/テレビ愛媛.md "wikilink")の[ビビットくん](https://ja.wikipedia.org/wiki/ビビットくん "wikilink")。
+
+提供クレジットを読み上げた新人アナウンサーは[岡田浩揮](../Page/川原浩揮.md "wikilink")、[森下知哉](https://ja.wikipedia.org/wiki/森下知哉 "wikilink")、[渡辺和洋](https://ja.wikipedia.org/wiki/渡辺和洋 "wikilink")、[高島彩](../Page/高島彩.md "wikilink")、[福元英恵](https://ja.wikipedia.org/wiki/福元英恵 "wikilink")、[森本さやかの](../Page/森本さやか_\(アナウンサー\).md "wikilink")6人。[とんねるず](../Page/とんねるず.md "wikilink")が「新人アナ披露」の立会人を担当した（入社20年以上のフジテレビのベテランアナが立会人を担当することが多いが、この年は唯一芸能人が担当した）。水口昌彦が「FNSの日」で総合プロデューサーを務めたのはこれが最後となった。
+
+この年から製作総指揮が6月の株主総会で社長に就任したばかりの[村上光一](https://ja.wikipedia.org/wiki/村上光一 "wikilink")に交代した（日枝会長は制作代表に復帰した）。
+
+### FNS27時間テレビ みんなのうた
+
+総合司会に[みのもんた](../Page/みのもんた.md "wikilink")を据え、これまでとは一線を画した感動企画をメインに据えた「27時間テレビ」となった。テーマ曲は「[あの素晴しい愛をもう一度](https://ja.wikipedia.org/wiki/あの素晴しい愛をもう一度 "wikilink")」。この年、初めて**FNS27時間テレビ**の冠が付き、これ以降FNS27時間テレビと冠がつくようになった。
+
+#### 第16回（2002年）〜あの素晴らしい日本をもう一度〜
+
+  - 総合司会 : みのもんた
+  - 進行 : 西山喜久恵、[内田恭子](https://ja.wikipedia.org/wiki/内田恭子 "wikilink")
+  - サブタイトルは「あの素晴らしい日本をもう一度」。テーマ曲であった「[あの素晴しい愛をもう一度](https://ja.wikipedia.org/wiki/あの素晴しい愛をもう一度 "wikilink")」になぞらえて。「もう一度プロジェクト」などの通し企画があった。
+
+1月の時点で[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")内で主な企画を発表し賛否両論を巻き起こした。その直後から「みんなでハモネプ」（「[力の限りゴーゴゴー\!\!](../Page/力の限りゴーゴゴー!!.md "wikilink")」の「[ハモネプ](https://ja.wikipedia.org/wiki/ハモネプ "wikilink")」コーナーの27時間テレビ版）の出場者募集及び予選会を「[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")」の中で放送し、各局の代表を決定。優勝したのは、[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")の音楽一家の日下ファミリーだった。[テレビ大分](https://ja.wikipedia.org/wiki/テレビ大分 "wikilink")がネット開始。クロスネット（FNN／[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")）の関係で中断を繰り返し、フィナーレは深夜（月曜未明）に録画で放送。
+
+  - オープニング
+
+画面の左上に「*July6&7 J.T.O/Japan Tokyo Odaiba 27Hour-TV START\!*」と書かれていた。ハモネプ全国大会の[決勝戦](https://ja.wikipedia.org/wiki/決勝戦 "wikilink")が[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")だった事から「七夕ファイナル」と銘打った。
+
+  - 「あの素晴らしい日本をもう一度」プロジェクト
+
+「あの素晴らしい日本をもう一度」プロジェクトと題し、27時間内で物を作ったりや各地を清掃する企画が北海道[富良野市](../Page/富良野市.md "wikilink")から宮崎県[西都市](../Page/西都市.md "wikilink")まで全国11ヶ所で展開された。 尚、★印が付いている局はさだまさしと[くずがライブを実施](https://ja.wikipedia.org/wiki/ワンナイR&R#くず（山口・宮迫） "wikilink")（後述）。
+
+テレビ長崎「あの平和な世界をもう一度」(オープニングライブとして★)、全長20メートルの特製鐘楼船と世界190カ国の平和を願って190個以上の灯篭を作り、改めて「世界平和」をこの原爆被災地の長崎から日本全国の皆さんに問いかける、という企画。[大村市](../Page/大村市.md "wikilink")と[長崎市](https://ja.wikipedia.org/wiki/長崎市 "wikilink")から中継。[山本耕一アナウンサーが進行役を務めた](../Page/山本耕一_\(アナウンサー\).md "wikilink")。
+
+テレビ宮崎「素晴らしい歴史遺産をもう一度」 : 地元の古墳周辺が草だらけになってしまったので、草を刈って遠いご先祖様に喜んで貰おうという主旨に。[西都市](../Page/西都市.md "wikilink")の[西都原古墳群](https://ja.wikipedia.org/wiki/西都原古墳群 "wikilink")から中継、[高橋巨典](../Page/高橋巨典.md "wikilink")アナウンサーが進行役、地元出身の[0930](https://ja.wikipedia.org/wiki/0930 "wikilink")がサポーター役で応援した。
+
+テレビ新広島「子供達が集まる学校をもう一度」★ : 全校児童がたった2人の[小学校](https://ja.wikipedia.org/wiki/小学校 "wikilink")にジャングルを作る。[三良坂町](../Page/三良坂町.md "wikilink")（現在の[三次市](../Page/三次市.md "wikilink")）から中継、[石井百恵](https://ja.wikipedia.org/wiki/石井百恵 "wikilink")アナウンサーが進行。
+
+岡山放送「あの素晴らしい伝統をもう一度」★ : 香川の名物[讃岐うどん](../Page/讃岐うどん.md "wikilink")をこの年に因んで2002杯再現させる。[香川県](../Page/香川県.md "wikilink")[善通寺市](https://ja.wikipedia.org/wiki/善通寺市 "wikilink")から中継、[上岡元](https://ja.wikipedia.org/wiki/上岡元 "wikilink")アナウンサーが進行役。
+
+関西テレビ「あの美しい川をもう一度」(東海への★で大阪空港) : 「道頓堀川を27時間でどの位、綺麗にするか？」の挑戦。[ペットボトル](../Page/ペットボトル.md "wikilink")で作ったイカダなども登場した。また、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")の[阪神タイガース優勝時に投げ込まれたカーネル・サンダース像の救出作戦も行われた](https://ja.wikipedia.org/wiki/カーネル・サンダースの呪い "wikilink")。[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[中央区の](../Page/中央区_\(大阪市\).md "wikilink")[道頓堀](../Page/道頓堀.md "wikilink")から中継され、[桑原征平](../Page/桑原征平.md "wikilink")アナウンサーが進行役。
+
+福井テレビ「あの素晴らしい森をもう一度」 : ダストポットを230個作って県内の小学校に送るプロジェクト。そして230個である一文字を作った。[和泉村からの中継](https://ja.wikipedia.org/wiki/和泉村_\(福井県\) "wikilink")、[桑原達秋](https://ja.wikipedia.org/wiki/桑原達秋 "wikilink")アナウンサー（桑原アナの息子が登場し親子共演が遂に実現した）が進行役、芸能界一の自然派タレント・[清水国明](../Page/清水国明.md "wikilink")がプロジェクトのリーダー役で登場した。
+
+東海テレビ「あの素晴らしい故郷をもう一度」(関西から★で二元中継) : 2001年に廃線になった[名鉄谷汲線](https://ja.wikipedia.org/wiki/名鉄谷汲線 "wikilink")[谷汲駅](https://ja.wikipedia.org/wiki/谷汲駅 "wikilink")の駅舎を掃除したり飾り付けをして現役当時の電車を迎える。[谷汲村](https://ja.wikipedia.org/wiki/谷汲村 "wikilink")（たにぐみむら）（現[揖斐川町](https://ja.wikipedia.org/wiki/揖斐川町 "wikilink")）から中継、[庄野俊哉](https://ja.wikipedia.org/wiki/庄野俊哉 "wikilink")アナウンサーが進行役。主役となる赤い電車（[名鉄モ750形](https://ja.wikipedia.org/wiki/名古屋鉄道デセホ700形電車 "wikilink")）の重量を庄野がオープニングで25tと言い間違い、地元の人に翌日の朝の大本番前に35tと訂正される場面があった。この放送以後、モ750形は展示車両として現在でも谷汲駅に停車している。
+
+石川テレビ「美しい物を作りたい/芸術の心をもう一度」 : 金沢城を舞台に繰り広げる芸術の祭典。[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[金沢市](https://ja.wikipedia.org/wiki/金沢市 "wikilink")の[金沢城](../Page/金沢城.md "wikilink")公園から中継、[小谷あゆみ](https://ja.wikipedia.org/wiki/小谷あゆみ "wikilink")アナウンサーが進行役。
+
+フジテレビ「あの綺麗な海岸をもう一度」 : [葉山](../Page/葉山町.md "wikilink")、[逗子](https://ja.wikipedia.org/wiki/逗子市 "wikilink")、[七里ヶ浜](https://ja.wikipedia.org/wiki/七里ヶ浜 "wikilink")、[江の島](../Page/江の島.md "wikilink")、[鵠沼](https://ja.wikipedia.org/wiki/鵠沼 "wikilink")、[辻堂](https://ja.wikipedia.org/wiki/辻堂 "wikilink")、[茅ヶ崎](../Page/茅ヶ崎市.md "wikilink")、[大磯の](../Page/大磯町.md "wikilink")8ヶ所で「湘南海岸クリーン大作戦」を展開。逗子では同時進行でシーグラスアートを作った。[島田彩夏](https://ja.wikipedia.org/wiki/島田彩夏 "wikilink")アナウンサー、[奥寺健](../Page/奥寺健.md "wikilink")アナウンサーが進行役、スペシャルゲストに[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")・[佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")・[TUBE](../Page/TUBE.md "wikilink")を迎えた。一部海岸ではクリーン大作戦を行う前にきれいになっていた。実際は[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")での呼びかけで集まった有志による清掃活動の結果であったが、レポーターはその裏をとらずに「[ライフセーバーによる活動](https://ja.wikipedia.org/wiki/ライフセービング "wikilink")」と誤放送した（[2ちゃんねるの歴史\#2002年](https://ja.wikipedia.org/wiki/2ちゃんねるの歴史#2002年 "wikilink")も参照）。
+
+仙台放送「あの活気ある街をもう一度」★ : 100台の[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")を漕いで人力でバッテリーに蓄電。どれだけのバッテリーが蓄積するのか、更にフィナーレにそれを[イルミネーション](https://ja.wikipedia.org/wiki/イルミネーション "wikilink")として一気に放出するという挑戦だった。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")の繁華街から中継、[柳沢剛](https://ja.wikipedia.org/wiki/柳沢剛 "wikilink")アナウンサーが進行役を務めた。
+
+北海道文化放送「あの感動をもう一度」(ラストライブとして★) : 22年間に渡って放送したドラマの『[北の国から](../Page/北の国から.md "wikilink")』が同年9月放送の「北の国から 2002遺言」で最後を迎えるのを前に、ドラマの舞台となった五郎の石の家周辺を草取りするという内容だった。富良野市から中継。[加藤寛アナウンサーが進行役](https://ja.wikipedia.org/wiki/加藤寛_\(アナウンサー\) "wikilink")。このプロジェクトは、『とくダネ\!』スペシャルでも放送した。
+
+「全国縦断27時間テレビ　ドリームさだまさし夢ライブ2002」 : [さだまさし](../Page/さだまさし.md "wikilink")らが、さだの故郷・長崎をスタートし、広島（後述のクイズ$ミリオネアSPの途中に中継）→香川→岐阜＆大阪（さだらは台風のため岐阜にヘリが飛べず[大阪国際空港](https://ja.wikipedia.org/wiki/大阪国際空港 "wikilink")止まり）→宮城→北海道・富良野＆旭川空港（さだとくずの3人は雨天のため富良野にヘリが飛べず[旭川空港](../Page/旭川空港.md "wikilink")止まり）→東京／さだのコンサート会場→東京／くずのスタジオの順に、ライブを行った。宮城では山口の相方が・北海道では宮迫の相方がそれぞれ応援にまわった。長崎から広島へ移動する時に[長崎空港](https://ja.wikipedia.org/wiki/長崎空港 "wikilink")でヘリコプターに搭乗する予定だったが台風並みに風が強まりヘリコプターでの移動が不可能（飛行許可が出ない）となり、急遽、通常報道専用で強風の影響を受けにくい高度で飛行可能な[フジサンケイグループ](https://ja.wikipedia.org/wiki/フジサンケイグループ "wikilink")所有の小型ジェット機「オーロラ」を[羽田空港から派遣](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")（報道用なので24時間体勢で待機している）し、同機で広島へ。（これ以降ヘリでの移動が危険なため、長距離移動には同機を使用）。
+
+[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")がライブ会場の福岡・[海の中道海浜公園](https://ja.wikipedia.org/wiki/海の中道海浜公園 "wikilink")から生出演した。
+
+スペシャル・ドラマは「[東京物語](../Page/東京物語.md "wikilink")」、出演は[宇津井健](https://ja.wikipedia.org/wiki/宇津井健 "wikilink")、[八千草薫](https://ja.wikipedia.org/wiki/八千草薫 "wikilink")、[松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")の3人。
+
+前年のクイズ$ミリオネアに引き続き、この年の「さんま・中居の今夜も眠れない」でも明石家さんまが大竹しのぶに生電話（原因：中居正広が大竹しのぶにプロポーズすると書いた為）。また、ミリオネアの延長でこのコーナーの時間は縮小されるはずだったが延長されてしまい、F1予選の中継に間に合わせるためその後に放送の「真夏の爆笑ヒットパレード」が大幅に短縮された。
+
+この年から土曜夜・日曜朝・昼・夕方に定時ニュースが入るようになった。
+
+『めざましテレビ』、『[とくダネ\!](../Page/情報プレゼンター_とくダネ!.md "wikilink")』を日曜日にも関わらず放送。「めざまし調査隊スペシャル」（日曜11時頃に放送）の中では、[爆笑問題](../Page/爆笑問題.md "wikilink")が、「真夏の爆笑ヒットパレード」の時間を大幅に擦り減らされた元凶・犯人である[明石家さんま](../Page/明石家さんま.md "wikilink")を捕まえて大激怒しその後、みのもんたや[久本雅美](../Page/久本雅美.md "wikilink")さらに[八木亜希子](../Page/八木亜希子.md "wikilink")も入れての入り乱れての大乱闘へと発展していった。
+
+中居とみのが「珍プレー」の[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")に生放送で挑戦した。特に中居が挑戦したのは本家・みのも難しいと認定するじっくり映像だったが中居はその映像を読み切り、みのから太鼓判を押された。当然みのも「珍プレー」のナレーションに生でチャレンジした。
+
+[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")と[ココリコ](../Page/ココリコ.md "wikilink")が[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")の[飛島に向かい](https://ja.wikipedia.org/wiki/飛島_\(山形県\) "wikilink")、放送時間内に何人の島民の夢を叶えられるか、という企画に挑戦した。ところが深夜の「さんま・中居の今夜も眠れない」で入った飛島からの中継では、酒を飲んだ末に泥酔していた鶴瓶がパンツ一枚の尻を丸出しにして寝ている様子が全国の茶の間に流され、さらには起き上がると「さんまの若手時代の駆け落ち話」を突然話し始めるなど、見るに耐えないシーンが放送された。
+
+F1世界選手権第10戦イギリスGP予選
+
+競馬中継は[マーメイドステークス](https://ja.wikipedia.org/wiki/マーメイドステークス "wikilink")を[石巻ゆうすけ](https://ja.wikipedia.org/wiki/石巻ゆうすけ "wikilink")の実況で生中継。その後、マーメイドステークス発走直前に行われた[七夕賞](https://ja.wikipedia.org/wiki/七夕賞 "wikilink")を[高橋雄一の実況で録画放送](https://ja.wikipedia.org/wiki/高橋雄一_\(福島テレビ\) "wikilink")。
+
+前年度と同じく「[笑う犬](../Page/笑う犬.md "wikilink")」より、[堀内健](../Page/堀内健.md "wikilink")演じる「お兄やん」が日本全国ホリケンサイズを行った。
+
+  - フィナーレ
+
+提供クレジットを読み上げた新人アナウンサーは[中野美奈子](https://ja.wikipedia.org/wiki/中野美奈子 "wikilink")、[渡邉卓哉](https://ja.wikipedia.org/wiki/渡邉卓哉 "wikilink")、[中村仁美](https://ja.wikipedia.org/wiki/中村仁美 "wikilink")の3人。[須田哲夫](../Page/須田哲夫.md "wikilink")アナウンサーが新人アナを紹介した。
+
+#### 第17回（2003年）
+
+  - 総合司会 : みのもんた
+  - 進行 : 西山喜久恵・高島彩
+  - 番組パーソナリティ : モーニング娘。
+      - この年は[1996年](../Page/1996年.md "wikilink")の『[第10回記念大会](https://ja.wikipedia.org/wiki/FNSスーパースペシャルテレビ夢列島#第10回（1996年）FNSの日十周年記念1億2500万人の超夢リンピック "wikilink")』以来7年ぶりに番組パーソナリティ制を導入し[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")が就任。
+
+<!-- end list -->
+
+  - 放送日
+    [2003年](../Page/2003年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") - [6月29日](../Page/6月29日.md "wikilink")
+    例年は7月の放送だが、第17回は初めて6月に放送した。
+  - テーマ
+    前年の「みんなのうた」に「再会」というテーマを加え、前年にも増して感動企画が多数を占めた。視聴率10.3%。「お笑い」コーナーであった「さんま・中居の今夜も眠れない」の視聴率は深夜帯にもかかわらず高かった。放送日が「[宝塚記念](https://ja.wikipedia.org/wiki/宝塚記念 "wikilink")」と重なった為、翌年からは7月放送に戻しバラエティ中心になった。
+    全国各地で再会企画を放送した。[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")・[東海テレビ](../Page/東海テレビ放送.md "wikilink")・[富山テレビの再会企画と](../Page/富山テレビ放送.md "wikilink")、[テレビ西日本](../Page/テレビ西日本.md "wikilink")と[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")の2局合同再会企画が放送された。
+  - 各コーナーの概要
+    「[桑田佳祐の音楽寅さん 〜MUSIC TIGER〜](https://ja.wikipedia.org/wiki/桑田佳祐の音楽寅さん_〜MUSIC_TIGER〜 "wikilink") サザンオールスターズスペシャル」を放送。鎌倉市[建長寺](../Page/建長寺.md "wikilink")からのライブを放送した。
+    この年の**FNS局対抗企画**は女子アナ家族歌合戦を開催。優勝は[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")だった。
+    鶴瓶の離島企画
+      -
+        鶴瓶とココリコが離島に上陸し島民が会いたい人との再会を実現させる企画で、この年は[長崎県](../Page/長崎県.md "wikilink")の[松浦市](https://ja.wikipedia.org/wiki/松浦市 "wikilink")にある飛島へ向かった。鶴瓶は前年の失態を受けて「今年は酒を飲みません」と宣言。だがそれにも関わらず、鶴瓶は中継中に何度も酒を飲んで泥酔。深夜、裸で寝ていた鶴瓶が起き抜けに[局部を露出してしまい](../Page/男性器.md "wikilink")、中居や高島アナが謝罪した。この失態は、放送翌日の[東京スポーツ](../Page/東京スポーツ.md "wikilink")に記事が掲載されるほどの騒ぎとなり、BPOにも多数の苦情が寄せられた\[7\]。またフジテレビからも鶴瓶に事情を聴いたが、局部露出について鶴瓶は、「（その瞬間は）覚えていない」と答え、意図的なものではないとした。鶴瓶は後日、フジテレビの村上社長に謝罪した。
+    「ドーハの悲劇」から10年を記念し、[ラモス瑠偉](../Page/ラモス瑠偉.md "wikilink")が当時の[イラク](../Page/イラク.md "wikilink")代表選手3人と当時の日本代表選手6人の合計9人との再会でドリームチームを組み、一般公募のフットサルチームと試合をした。
+    第16回（前回）のエンディングで見せた[内田恭子](https://ja.wikipedia.org/wiki/内田恭子 "wikilink")アナの[音痴](https://ja.wikipedia.org/wiki/音痴 "wikilink")を治す企画で、[ビビる大木](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink")、[米良美一](https://ja.wikipedia.org/wiki/米良美一 "wikilink")が協力した。
+    提供クレジットを読み上げた新人アナウンサーは[田中大貴](../Page/田中大貴.md "wikilink")、[石本沙織](https://ja.wikipedia.org/wiki/石本沙織 "wikilink")、[戸部洋子](https://ja.wikipedia.org/wiki/戸部洋子 "wikilink")、[長野翼](https://ja.wikipedia.org/wiki/長野翼 "wikilink")の4人。
+
+### 2004年～2013年
+
+詳細は以下を参照。
+
+  - [2004年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2004年\) "wikilink")
+  - [2005年](https://ja.wikipedia.org/wiki/FNS25時間テレビ "wikilink")
+  - [2006年](https://ja.wikipedia.org/wiki/FNS26時間テレビ_\(2006年\) "wikilink")
+  - [2007年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2007年\) "wikilink")
+  - [2008年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2008年\) "wikilink")
+  - [2009年](https://ja.wikipedia.org/wiki/FNS26時間テレビ_\(2009年\) "wikilink")
+  - [2010年](https://ja.wikipedia.org/wiki/FNS26時間テレビ_\(2010年\) "wikilink")
+  - [2011年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2011年\) "wikilink")
+  - [2012年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2012年\) "wikilink")
+  - [2013年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2013年\) "wikilink")
+
+### 2014年以降
+
+詳細は以下を参照。
+
+  - [2014年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2014年\) "wikilink")
+  - [2015年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2015年\) "wikilink")
+  - [2016年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2016年\) "wikilink")
+  - [2017年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2017年\) "wikilink")
+  - [2018年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2018年\) "wikilink")
+  - [2019年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2019年\) "wikilink")
+
+## 複数回行われた企画
+
+  - [笑っていいとも\!増刊号](https://ja.wikipedia.org/wiki/笑っていいとも!増刊号 "wikilink")生スペシャル（1987年 - 1990年、1992年 - 1996年、1998年 - 2001年、2004年 - 2013年）
+    『[笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』のダイジェスト番組『笑っていいとも\!増刊号』のスペシャル版。通常の『増刊号』の内容とは異なり、『笑っていいとも\!』司会のタモリをはじめとするレギュラー出演者がほぼ全員出演し、特別企画が行われる。1987年、1996年、1999年の3回は2部制だった。2013年は厳密には「増刊号スペシャル」ではないため、タイトルに『増刊号』とつかなかった。2012年は『いいとも\!』自体が27時間のベース番組を担当。2014年3月31日に『笑っていいとも\!』が最終回を迎えたため、2013年の放送が最後となった。
+
+※お台場で行った回もあれば、1998年では通常放送で借りていたスタジオアルタで行ったこともある
+
+  - [プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")スペシャル（1987年 - 2000年）→[すぽると\!](../Page/すぽると!.md "wikilink")スペシャル（2001年 - 2015年）
+    多彩なアスリートゲストの出演や生中継などが行われる。
+  - 全国縦断27時間夢ドミノ（[ドミノ倒し](https://ja.wikipedia.org/wiki/ドミノ倒し "wikilink")、1998年 - 2000年）
+    1998年の元旦に放送された「[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink") '97→'98/カウントダウンスペシャル」で行ったフジテレビ内ドミノの全国版。北海道文化放送の車・トラックドミノは3年連続で失敗した。
+  - [さんま・中居の今夜も眠れない](https://ja.wikipedia.org/wiki/さんま・中居の今夜も眠れない "wikilink")（2000年 - 2016年）
+    タイトルは「さんま・中居の今夜は眠れない」（2000年）、「さんま・中居の今年も眠れない」（2001年）、「さんま・中居の今夜も眠れない」（2002年 - 2004年、2006年 - 2016年）、「さんま・中居・鶴瓶の今夜も眠れない」（2005年）タイトルの上にそのときの27時間テレビのタイトルが付く。
+    深夜の定番となったさんまと中居による台本が一切ない[フリートークコーナー](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")。
+    当コーナー用のインフォメーション担当アナウンサーが、チャイム音と同時にテレビ画面から話しかけてくる。
+    インフォメーションアナウンサーは2000年・2001年が[小島奈津子](https://ja.wikipedia.org/wiki/小島奈津子 "wikilink")（現フリー）、2002年 - 2004年、2009年 ‐が[西山喜久恵](../Page/西山喜久恵.md "wikilink")、2005年 - 2008年が[佐々木恭子](../Page/佐々木恭子.md "wikilink")が担当した。
+    一部の年にはゲスト及びその年の総合司会者も登場しており、2004年・2011年は[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")（[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")、[矢部浩之](https://ja.wikipedia.org/wiki/矢部浩之 "wikilink")、ただし、2011年は矢部がマラソン挑戦中のため岡村のみ出演。矢部は中継で出演）、2005年・2009年・2010年が[島田紳助](../Page/島田紳助.md "wikilink")、2008年が[大竹しのぶ](https://ja.wikipedia.org/wiki/大竹しのぶ "wikilink")と[ビートたけし](../Page/ビートたけし.md "wikilink")が別々に、2012年は[森田一義そして中盤より](https://ja.wikipedia.org/wiki/タモリ "wikilink")[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")と[渡辺直美](https://ja.wikipedia.org/wiki/渡辺直美 "wikilink")が登場している。
+    このコーナーでは、[万年床](https://ja.wikipedia.org/wiki/万年床 "wikilink")に[ちゃぶ台](../Page/ちゃぶ台.md "wikilink")が置かれたうえに洗濯物が上から吊るされ無造作に物が散乱しているという、一人暮らしの男性が住む狭い部屋を思わせるセットが毎回組まれている（中居が最も好きな[原辰徳](../Page/原辰徳.md "wikilink")を始めとする[巨人軍の選手のポスターも](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")、毎回貼られている）。そのセットのなかにいる中居を、さんま（+ゲスト）が訪ねて来てトークが始まる、といった段取りになっている。また、「さんまと中居のどちらか一方が結婚したら、このコーナーは終了する」という設定もあったが、お互い結婚することのないまま2016年を以て休止（実質終了）した。
+  - 裏めちゃイケ（1998年、2001年、2011年）
+    [めちゃ×2イケてるッ\!](https://ja.wikipedia.org/wiki/めちゃ×2イケてるッ! "wikilink")の深夜版生放送。いわゆる「お色気企画」で、[殿様のフェロモン](https://ja.wikipedia.org/wiki/殿様のフェロモン "wikilink")のコーナーなどが再現された。
+  - BISTRO SMAP SPECIAL（1998年 - 2000年、2007年、2011年 - 2014年）
+    [SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")の1コーナー「[BISTRO SMAP](https://ja.wikipedia.org/wiki/BISTRO_SMAP "wikilink")」の生放送版。
+    ゲストは1回目の1998年が[細川護熙](../Page/細川護熙.md "wikilink")、2回目の1999年は[野猿](../Page/野猿.md "wikilink")、3回目の2000年は[田中眞紀子](../Page/田中眞紀子.md "wikilink")、4回目の2007年は総合司会の[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")（SMAPメンバーがゲストになるのは1996年のコーナー開始以来初）。5回目の2011年は「出張BISTRO SMAP」と題し、同年3月の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")で被災した[岩手県](../Page/岩手県.md "wikilink")と[福島県](../Page/福島県.md "wikilink")で料理を披露した。6回目の2012年は総合司会の[森田一義率いる](https://ja.wikipedia.org/wiki/タモリ "wikilink")「笑っていいとも\!」チーム（メンバーは[ベッキー](https://ja.wikipedia.org/wiki/ベッキー "wikilink")と[三ツ矢雄二](../Page/三ツ矢雄二.md "wikilink")）と、ウェイターの[中居正広](../Page/中居正広.md "wikilink")、マラソン挑戦中の[草彅剛を除く](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")「SMAP」チームによる料理対決が行われた（判定はいいともレギュラー陣）。7回目の2013年は女芸人のお母さん達が判定していた。8回目の2014年はSMAPが来店し、[今田耕司](../Page/今田耕司.md "wikilink")+[馬場裕之](https://ja.wikipedia.org/wiki/馬場裕之 "wikilink")（[ロバート](https://ja.wikipedia.org/wiki/ロバート_\(お笑いトリオ\) "wikilink")）対[坂上忍](https://ja.wikipedia.org/wiki/坂上忍 "wikilink")と[高橋尚子](https://ja.wikipedia.org/wiki/高橋尚子 "wikilink")対[荒川静香](https://ja.wikipedia.org/wiki/荒川静香 "wikilink")の対決が行われた。
+  - ボク生きスペシャル（1998年 - 2000年）
+    「[中居正広のボクらはみんな生きている](https://ja.wikipedia.org/wiki/中居正広のボクらはみんな生きている "wikilink")」の生放送版。
+  - SATURDAY NIGHT LIVE×LIVE（1999年、2000年、2002年）
+    アーティストを迎えての音楽コーナー。2007年は「CLUB天竺」というこれとほぼ同趣旨の企画を放送した。なお2011年にレギュラー放送されていた『[サタデー・ナイト・ライブ JPN](https://ja.wikipedia.org/wiki/サタデー・ナイト・ライブ_JPN "wikilink")』とは無関係。
+  - 真夏の爆笑ヒットパレード（2001年 - 2003年、2005年）
+    若手芸人が登場しネタを披露するコーナー。
+  - 真夜中の大かま騒ぎ（2004年、2005年、2009年、2011年）
+    [めちゃ×2イケてるッ\!](https://ja.wikipedia.org/wiki/めちゃ×2イケてるッ! "wikilink")の人気コーナー、[恋のかま騒ぎ](https://ja.wikipedia.org/wiki/恋のかま騒ぎ "wikilink")（さんまが司会の日本テレビ『[恋のから騒ぎ](https://ja.wikipedia.org/wiki/恋のから騒ぎ "wikilink")』のパロディ）の生放送版。レギュラーメンバーのほかに普段他番組に出演している芸人も出演するため、出演者の人数が多い。2011年は「真夜中の恋の若騒ぎ」と題して若手芸人をメインに据えて放送（以下「かま騒ぎ」の項目参照）。
+
+## スペシャルドラマ
+
+  - 1999年「めぐりあい」主演：[菅野美穂](https://ja.wikipedia.org/wiki/菅野美穂 "wikilink")（脚本・[橋田壽賀子](https://ja.wikipedia.org/wiki/橋田壽賀子 "wikilink")）
+  - 2000年「父さん」主演：[萩原健一](https://ja.wikipedia.org/wiki/萩原健一 "wikilink")、[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")、[井上真央](https://ja.wikipedia.org/wiki/井上真央 "wikilink")
+  - 2002年「[東京物語](../Page/東京物語.md "wikilink")」主演：[宇津井健](https://ja.wikipedia.org/wiki/宇津井健 "wikilink")、[松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")
+  - 2003年「[海のオルゴール](https://ja.wikipedia.org/wiki/海のオルゴール "wikilink")」主演：[松雪泰子](https://ja.wikipedia.org/wiki/松雪泰子 "wikilink")
+  - 2005年「[THE WAVE\!](https://ja.wikipedia.org/wiki/THE_WAVE! "wikilink")」主演：[明石家さんま](../Page/明石家さんま.md "wikilink")
+  - 2013年「約1回目のプロポーズ」\[8\]主演：[女芸人イレブン](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2013年\) "wikilink")\[9\]
+  - 2014年「俺たちに明日はある」主演：[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+  - 2017年「[源氏さん！物語](https://ja.wikipedia.org/wiki/源氏物語 "wikilink")」主演：[城田優](https://ja.wikipedia.org/wiki/城田優 "wikilink")
+  - 2017年「僕の[金ヶ崎](https://ja.wikipedia.org/wiki/金ヶ崎の戦い "wikilink")」主演：[大杉漣](../Page/大杉漣.md "wikilink")
+  - 2017年「私たちの[薩長同盟](../Page/薩長同盟.md "wikilink")」主演：[剛力彩芽](https://ja.wikipedia.org/wiki/剛力彩芽 "wikilink")
+
+## スポーツ中継
+
+  - [プロ野球](https://ja.wikipedia.org/wiki/プロ野球 "wikilink")
+  - [K-1](../Page/K-1.md "wikilink")
+  - [F1](../Page/フォーミュラ1.md "wikilink")
+  - [競馬](../Page/競馬.md "wikilink")
+
+## その他
+
+  - [ザ・ノンフィクション](https://ja.wikipedia.org/wiki/ザ・ノンフィクション "wikilink")
+
+## 脚注・出典
+
+<references />
+
+## 関連項目
+
+  - [フジネットワーク](../Page/フジネットワーク.md "wikilink")
+  - [フジテレビ番組一覧](https://ja.wikipedia.org/wiki/フジテレビ番組一覧 "wikilink")
+  - [カスペ\!](../Page/カスペ!.md "wikilink")
+  - [ザッツお台場エンターテイメント\!](https://ja.wikipedia.org/wiki/ザッツお台場エンターテイメント!#第7夜・特番の38年 "wikilink")
+  - [日本の長時間特別番組一覧](https://ja.wikipedia.org/wiki/日本の長時間特別番組一覧 "wikilink")
+
+## 外部リンク
+
+  - [フジテレビ](http://www.fujitv.co.jp/)
+
+[Category:FNSの日](https://ja.wikipedia.org/wiki/Category:FNSの日 "wikilink") [Category:フジテレビの特別番組](https://ja.wikipedia.org/wiki/Category:フジテレビの特別番組 "wikilink") [Category:FNS特別番組](https://ja.wikipedia.org/wiki/Category:FNS特別番組 "wikilink")
+
+1.  2017年と2018年は収録放送。その他、一部のみ収録放送だった回もある。
+2.  [2002年](../Page/2002年.md "wikilink") - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")はテレビ大分を含む28社
+3.  2002年 - 2006年はテレビ大分でも放送されていたが、2007年以降、同局の週末のゴールデンタイムが専ら[日本テレビ系列となり放送枠の確保が難しくなったため](../Page/日本テレビネットワーク協議会.md "wikilink")、打ち切られた。
+4.
+5.
+6.  [横山やすし](../Page/横山やすし.md "wikilink")に扮した[明石家さんま](../Page/明石家さんま.md "wikilink")・[今田耕司](../Page/今田耕司.md "wikilink")・[村上ショージ](https://ja.wikipedia.org/wiki/村上ショージ "wikilink")で、「[明石家マンション物語](https://ja.wikipedia.org/wiki/明石家マンション物語 "wikilink")」のキャラクター。
+7.  [2003年度 放送局への回答のお願い 『27時間テレビみんなのうた』（フジテレビ/2003年8月）](http://www.bpo.gr.jp/youth/answer/036_cx.html)より
+8.  このドラマのみがオムニバス形式である。
+9.  女芸人イレブンとは、2013年の総合司会を務めた女芸人たちの事。

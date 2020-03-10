@@ -1,0 +1,53 @@
+> この記事は[003MANIA](https://ja.wikipedia.org/wiki/003MANIA)から翻訳されています。
+
+
+**003MANIA**（ゼロゼロさんマニア）は、かつて[京やプロダクション](https://ja.wikipedia.org/wiki/京やプロダクション "wikilink")で活動していた[お笑い](../Page/演芸.md "wikilink")[トリオ](https://ja.wikipedia.org/wiki/トリオ "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")結成。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")解散。
+
+## メンバー
+
+**[堀井祥明](https://ja.wikipedia.org/wiki/堀井祥明 "wikilink")**（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[5月11日](../Page/5月11日.md "wikilink") - ）
+
+  -
+    かつては藤代達生と共にお笑いコンビ「**[まじかるず](../Page/まじかるず.md "wikilink")**」として活動していた。
+    結成当時は「**堀井宇宙**」名義だった。[2001年](../Page/2001年.md "wikilink")をもって脱退し、[タレント](../Page/タレント.md "wikilink")として活動中。
+
+**峰本大作**（[1974年](../Page/1974年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink") - ）
+
+  -
+    高知県土佐清水市出身。
+    解散後、「**大ちゃん**」と改名し、**あちゅ**と共に「**[ツーライス](../Page/ツーライス.md "wikilink")**」を結成。
+
+**吉名崇朗**（[1974年](../Page/1974年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")）
+
+  -
+    高知県土佐清水市出身。
+    2004年に慢性骨髄性白血病と診断される\[1\]。その後病気療養のため芸能界を引退。
+    2012年鉄板もんじゃおか柳開業。2015年芸能事務所株式会社OBIプロモーション設立。2016年に死去。\[2\]
+
+## 概要
+
+  - 保育園の頃からの幼なじみである峰本と吉名は「**大吉マニア**」と言うコンビで活動しており、そこへまじかるずを解散したばかりの堀井が加入して「003MANIA」を結成した。
+  - 結成後[NHK新人演芸大賞](https://ja.wikipedia.org/wiki/NHK新人演芸大賞 "wikilink")などの賞を受賞し、テレビ番組にも頻繁に出演していた。
+  - [2001年](../Page/2001年.md "wikilink")に堀井がタレントへの転向に伴い脱退し、峰本と吉名のコンビ「**23区**」を結成。その後、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に解散した。
+
+## 芸風
+
+  - 下ネタ、マニアックなネタがかなり多い。また、効果音を用いたコントも得意する。身体を張ったコントなどもよく行うので、ジャンルはかなり多岐に渡っていたと思われる。
+  - ファンや番組の視聴者からは「**ユニークで独創的**」、「**面白いけど分かりにくい**」と言われることもあった。万人受けするネタは、あまりやっていなかった。
+
+## 受賞歴
+
+  - [NHK新人演芸大賞](https://ja.wikipedia.org/wiki/NHK新人演芸大賞 "wikilink")・演芸部門大賞（1998年）
+
+## 出演番組
+
+  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink") 戦績1勝3敗 最高353KB（番組史上初めてトリオとしてオンエアを果たした。）
+  - [お笑いダンクシュート](../Page/お笑いダンクシュート.md "wikilink")
+  - [NHK新人演芸大賞](https://ja.wikipedia.org/wiki/NHK新人演芸大賞 "wikilink")
+
+## 脚注
+
+[Category:日本のお笑いグループ](https://ja.wikipedia.org/wiki/Category:日本のお笑いグループ "wikilink")
+
+1.  [プライム・トーク](http://primetalk.seesaa.net/article/419277540.html)
+2.

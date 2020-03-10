@@ -1,0 +1,100 @@
+> この記事は[ \(EU\)](https://ja.wikipedia.org/wiki/_\(EU\))から翻訳されています。
+
+
+**第一審裁判所**（だいいっしんさいばんしょ）は、[1989年](../Page/1989年.md "wikilink")に設立された[欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")の[裁判所](../Page/裁判所.md "wikilink")。[欧州司法裁判所](https://ja.wikipedia.org/wiki/欧州司法裁判所 "wikilink")に併設されており、特定の分野に関する紛争の第1審を行い、[控訴](https://ja.wikipedia.org/wiki/控訴 "wikilink")された場合は案件を欧州司法裁判所に送る。
+
+## 概要
+
+第一審裁判所の設立によって2審制が導入され、第一審裁判所で扱われた案件はすべて欧州司法裁判所に上訴することができるが、このときは法律の解釈のみが争点となる。
+
+[2003年](../Page/2003年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")に[ニース条約](../Page/ニース条約.md "wikilink")が発効したが、この条約では、直前の5年間で欧州司法裁判所に持ち込まれる案件が増加したことを受けて、その負担軽減を目的に、特定分野の案件を取り扱う司法小委員会の設置を認めている。
+
+[2004年](../Page/2004年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")、[欧州連合理事会](https://ja.wikipedia.org/wiki/欧州連合理事会 "wikilink")は[欧州連合公務員裁判所](https://ja.wikipedia.org/wiki/欧州連合公務員裁判所 "wikilink")の設立決議を採択した。この新たな裁判所は8人の判事で構成され、欧州連合の諸機関に勤務する職員の労働問題に関する紛争を第一審で取り扱うこととされている。公務員裁判所の決定については法律の解釈のみを争点として、第一審裁判所に控訴することができ、さらにこの分野においては第一審裁判所の決定について、例外的に欧州司法裁判所が再審議することができる。欧州連合公務員裁判所は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月2日](../Page/12月2日.md "wikilink")に正式に発足した。
+
+なお現在、[欧州連合特許裁判所](https://ja.wikipedia.org/wiki/欧州連合特許裁判所 "wikilink")の設置が議論されている。
+
+## 判事
+
+2014年以降、第一審裁判所は28人の[判事](../Page/判事.md "wikilink")で構成されており、[加盟各国から](../Page/欧州連合加盟国.md "wikilink")1人ずつ選出されている。判事は任期6年、再任可能で、各国政府の相互間の合意を受けて選任されている。
+
+判事はそれぞれ任期3年、再任可能である裁判所の代表となる長官と、5人からなる小法廷の裁判長を互選する。
+
+第一審裁判所では、欧州司法裁判所と異なり、法務官を常設していない。法務官を要する案件はごく限られており、またそのような案件では判事が法務官を兼ねることとされ、実際に法務官を要する事例は稀であるといえる。
+
+### 長官
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年</p></th>
+<th><p>長官</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1989-1995</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョゼ・ルイス・ダ・クルス・ヴィラサ" title="wikilink">ジョゼ・ルイス・ダ・クルス・ヴィラサ</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1995-1998</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アントニオ・サッジョ" title="wikilink">アントニオ・サッジョ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>1998-2007</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ボー・ヴェステルドルフ" title="wikilink">ボー・ヴェステルドルフ</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2007-</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マルク・イェーガー" title="wikilink">マルク・イェーガー</a></p></td>
+</tr>
+</tbody>
+</table>
+
+## 管轄
+
+第一審裁判所では、欧州司法裁判所と同様、各種法律が欧州諸共同体の根拠となる条約の解釈・適用の範囲内で運用されているか、また適切な共同体機関の採択を受けているかどうかについて判断する。
+
+この使命を実行するために第一審裁判所の管轄権は、司法小委員会に分担した案件と欧州司法裁判所で扱うべきとされる案件を除いて、個人や加盟国が提起した訴訟の第1審をすべてに及んでいる。
+
+### 訴訟類型
+
+  - 取消訴訟 - 共同体機構の行為に対するもの
+  - 不作為訴訟 - 共同体機構の不作為に対するもの
+  - 損害賠償請求訴訟 - 共同体機構の不法行為による損害の補償を求めるもの
+  - 仲裁条項に基づく訴訟 - 共同体が当事者となる公法・私法上の規約で、第一審裁判所が仲裁機関に指定されているもの
+  - EU機関の職員の労働問題に関する訴訟 - 共同体とその職員との間でのもの。ただし2006年以降は公務員裁判所に移管されている。
+
+訴訟の案件となりうるのは以下の分野のものである。
+
+  - 農業
+  - 国庫補助
+  - 市場競争
+  - 商業政策
+  - 地域政策
+  - 社会政策
+  - 機構に関する法
+  - 商標法
+  - 運送
+
+## 審理手続
+
+第一審裁判所には独自の手続が存在する。一般に審理は書面によるものと口頭によるものとがある。また審理に用いられる言語については、原告が選択することができる。また首席判事 () は開廷にあたって長官が任命し、裁判手続きに従って審理が進められる。書面審理がなされたとしても、場合によっては尋問が行われることがあり、このような案件は公開法廷で審議される。裁判の一連の審議は必要に応じて、ほかの[欧州連合の公用語に同時通訳される](https://ja.wikipedia.org/wiki/欧州連合の言語#EUの公用語 "wikilink")。判決は首席判事の判決案を土台として審理・決定し、公開法廷において判決を下す。
+
+## 関連項目
+
+  - [欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")
+  - [欧州司法裁判所](https://ja.wikipedia.org/wiki/欧州司法裁判所 "wikilink")
+  - [欧州連合公務員裁判所](https://ja.wikipedia.org/wiki/欧州連合公務員裁判所 "wikilink")
+  - [3つの柱 (EU)](../Page/3つの柱_\(EU\).md "wikilink")
+  - [単一欧州議定書](https://ja.wikipedia.org/wiki/単一欧州議定書 "wikilink")
+  - [欧州憲法](https://ja.wikipedia.org/wiki/欧州憲法 "wikilink")
+  - [EU法](https://ja.wikipedia.org/wiki/EU法 "wikilink")
+
+## 外部リンク
+
+  - [欧州司法裁判所](http://curia.europa.eu/)（加盟各国語）
+  - [第一審裁判所](http://www.lu.emb-japan.go.jp/japanese/eu/justice.htm#II)（在ルクセンブルク日本国大使館）
+
+
+
+[Category:欧州司法裁判所](https://ja.wikipedia.org/wiki/Category:欧州司法裁判所 "wikilink") [Category:ルクセンブルクの組織](https://ja.wikipedia.org/wiki/Category:ルクセンブルクの組織 "wikilink") [Category:行政救済法](https://ja.wikipedia.org/wiki/Category:行政救済法 "wikilink")

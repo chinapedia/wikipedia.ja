@@ -1,0 +1,80 @@
+> この記事は[YZF750SP](https://ja.wikipedia.org/wiki/YZF750SP)から翻訳されています。
+
+
+[250px](https://ja.wikipedia.org/wiki/ファイル:Yamaha_YZF_750_SP.jpg "wikilink")
+
+**ヤマハ・YZF750SP**（ワイゼットエフななひゃくごじゅうエスピー）は、[ヤマハ発動機](https://ja.wikipedia.org/wiki/ヤマハ発動機 "wikilink")が[1993年](../Page/1993年.md "wikilink")に発売した[4ストローク](../Page/4ストローク機関.md "wikilink")749ccの[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")（[モーターサイクル](https://ja.wikipedia.org/wiki/モーターサイクル "wikilink")）である。
+
+## 概要
+
+[スーパーバイク世界選手権](https://ja.wikipedia.org/wiki/スーパーバイク世界選手権 "wikilink")参戦の[ホモロゲーション](https://ja.wikipedia.org/wiki/ホモロゲーション "wikilink")・[モデルとして](https://ja.wikipedia.org/wiki/形式 "wikilink")、全面新設計で開発された。1995年にマイナーチェンジを行った。
+
+日本国外市場では2人乗り仕様の[YZF750Rと併売され](https://ja.wikipedia.org/wiki/ヤマハ・YZF750R "wikilink")、日本国内向けには限定車として販売された。
+
+## モデル一覧
+
+  - 1993年式
+
+<!-- end list -->
+
+  - 形式:4JD(機種コード:4JD1)
+  - 発売:1993年2月
+  - 店頭販売希望小売価格125万円（限定350台）
+
+スーパーバイクレースのレギュレーションに合わせ、FCRD[キャブレター](../Page/キャブレター.md "wikilink")などの競技用部品を標準装備したモデルとして発売される。 市販車と同じ名称でなければならないというスーパーバイクの規則に沿い、FZRではなくYZFという名称で販売された。YZFと名づけられた初の市販車である。
+
+  - 1995年式
+
+<!-- end list -->
+
+  - 形式:4JD(機種コード:4JD2)
+  - 発売:1995年1月
+  - 店頭販売希望小売価格130万円（限定500台）
+
+<!-- end list -->
+
+  - リア[サスペンション](../Page/サスペンション.md "wikilink")を[オーリンズ製にし](https://ja.wikipedia.org/wiki/オーリンズ_\(自動車部品メーカー\) "wikilink")、全長およびリンク比を改良、
+  - シートフレームを着脱式に
+  - スイングアームピボットを可変式に
+  - [ラジエーター](https://ja.wikipedia.org/wiki/ラジエーター "wikilink")の大型化
+
+## 諸元
+
+(4JD1:カッコ内は輸出仕様(4HS))
+
+  - 型式 4JD
+  - 全長 2070mm (2160mm)
+  - 全幅 735mm (730mm)
+  - 全高 1155mm (1145mm)
+  - 軸間距離 1420mm
+  - シート高 785mm
+  - 最低地上高 140mm
+  - 乾燥重量 194kg
+  - エンジン種類 4ストローク/水冷/DOHC/20バルブ
+  - 気筒数配列 並列4気筒
+  - 総排気量 749cc
+  - 内径×行程 72mm×46mm
+  - 圧縮比 11.5:1
+  - 燃料供給 京浜FCRD39×4
+  - 最高出力 77PS/9500rpm (125PS/12000rpm)
+  - 最大トルク 6.0kgm/9000rpm (8.1kgm/9500rpm)
+  - 燃料タンク容量 19.0 リットル
+  - エンジンオイル容量 4.0 リットル
+  - 第1速 2.462
+  - 第2速 1.941
+  - 第3速 1.632
+  - 第4速 1.435
+  - 第5速 1.300
+  - 第6速 1.190
+  - 減速機　歯車形式 チェーンドライブ
+  - 最終減速比 2.294 (2.438)
+  - フロントタイヤ 120/70ZR17
+  - リアタイヤ 180/55ZR17
+  - フロントブレーキ 油圧式ダブルディスク
+  - リアブレーキ 油圧式シングルディスク
+
+## 外部リンク
+
+  - [BBB The History 時代を彩ったバイクたち ヤマハ YZF750SP](http://www.bbb-bike.com/history/data18_1.html)
+
+[Category:ヤマハのオートバイの車種](https://ja.wikipedia.org/wiki/Category:ヤマハのオートバイの車種 "wikilink")

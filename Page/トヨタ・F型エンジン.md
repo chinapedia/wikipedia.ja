@@ -1,0 +1,153 @@
+> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+
+
+**トヨタ・F型エンジン**（トヨタ・Fがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")（[1981年](../Page/1981年.md "wikilink")〈[昭和](../Page/昭和.md "wikilink")56年〉以前は[トヨタ自動車工業](https://ja.wikipedia.org/wiki/トヨタ自動車工業 "wikilink")名義）がかつて製造していた[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")の系列である。
+
+[初代B型に代わるバス](https://ja.wikipedia.org/wiki/トヨタ・B型エンジン_\(初代\) "wikilink")、トラック用高速エンジンとして[1949年](../Page/1949年.md "wikilink")（昭和24年）に登場。基本的にはB型のボアを拡大して[排気量](https://ja.wikipedia.org/wiki/排気量 "wikilink")を増大し、各部を強化したエンジンシリーズである。
+
+本来の大型車両用のほか、[特殊用途自動車](https://ja.wikipedia.org/wiki/特殊用途自動車 "wikilink")用シャーシの[パトロールカー](https://ja.wikipedia.org/wiki/パトロールカー "wikilink")や[救急車](https://ja.wikipedia.org/wiki/救急車 "wikilink")にも特殊高出力エンジンとして搭載され、[四輪駆動](../Page/四輪駆動.md "wikilink")車[トヨタ・ランドクルーザー](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー "wikilink")のエンジンとしても用いられて成功を収めた。
+
+基本レイアウトはトヨタ創業当初に[シボレー](https://ja.wikipedia.org/wiki/シボレー "wikilink")エンジンをコピーした[初代A型エンジン](../Page/トヨタ・A型エンジン_\(初代\).md "wikilink")（[1935年](../Page/1935年.md "wikilink")〈昭和10年〉）にまで遡ることができるほど古いものであるが、改良を重ねながら現在でもトヨタフォークリフト用エンジンとして生産が続けられており、トヨタではもちろんのこと、日本国内で市販向け生産されるエンジンとしても現役最古のエンジンシリーズである。 　
+
+## 系譜
+
+  - [エンジン型式一覧の](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
+
+## 型式
+
+[1949年](../Page/1949年.md "wikilink")10月登場
+
+[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")
+
+[水冷](https://ja.wikipedia.org/wiki/水冷 "wikilink")[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")[OHV](https://ja.wikipedia.org/wiki/OHV "wikilink")
+
+### F - 3,900cc
+
+|           |
+| --------- |
+|           |
+| F         |
+| 登場年月      |
+| エンジン種別    |
+| 冷却方式      |
+| シリンダー配置・数 |
+| 弁形式       |
+| ボア×ストローク  |
+| 排気量       |
+| 圧縮比       |
+| 馬力 1      |
+| 馬力 2      |
+| トルク 1     |
+| トルク 2     |
+| 重量        |
+|           |
+
+  - （初）トヨタ・BL(FL)型バスシャーシ（1949年10月）
+  - トヨタ・FY型バスシャーシ
+  - トヨタ・ボンネットバスFB60系
+  - トヨタ・ボンネットバスFB70系
+  - トヨタ・ボンネットバスFB80、90系
+  - トヨタ・ボンネットバスFB100系
+  - トヨタ・BM（FM）型トラック 4t積（1949年11月）
+  - トヨタ・FX型トラック 4t積（1951年8月）
+  - トヨタ・FA型トラック 4.5t積（1954年）
+  - トヨタ・トラックFA5型 5t積（1954年-1956年3月）
+  - トヨタ・トラックFA60系 5t積（1956年2月1958年2月）
+  - トヨタ・トラックFA70系 5t積（1958年1月1959年10月）
+  - トヨタ・トラックFA80、90系 5t、6t積（1959年9月）
+  - トヨタ・トラックFA100・110・115系 5t、6t積（1964年9月）
+  - トヨタ・BS（FS）型トラック 4t積（1949年11月1950年10月）
+  - トヨタ・FZ、FZJ型トラック 2.5t積（1951年10月-1953年3月）
+  - トヨタ・FCトラック 2.5t積（1954年9月-1956年2月年）
+  - トヨタ・トラックFC60系 2.5t積（1956年1月-1958年1月）
+  - トヨタ・トラックFC70系 2.5t積（1958年1月-1959年11月）
+  - トヨタ・トラックFC80系 3t積（1959年11月-1964年9月）
+  - トヨタ・トラックFC100系 3t積（1964年10月-？）
+  - トヨタ・キャブオーバートラックFA115C系 5.5t積
+  - トヨタ・2FQ15 3/4t ウエポンキャリアー - [自衛隊](../Page/自衛隊.md "wikilink")向け[3/4tトラック](https://ja.wikipedia.org/wiki/3/4tトラック "wikilink")
+  - [初代ランドクルーザー消防用シャーシ](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー "wikilink")・FJJ型（1954年-1955年）
+  - ランドクルーザー20系（1955年-1959年12月）
+  - ランドクルーザー40系（1960年1月-1975年1月）
+  - ランドクルーザー55型（1967年7月-1975年1月）
+  - [トヨタ・パトロール](https://ja.wikipedia.org/wiki/トヨタ・パトロール "wikilink")FH26型（1957年-1959年）
+  - トヨタ・パトロールFS40型
+  - トヨタ・救急車FS45V型
+  - トヨタ・救急車FS55V型
+  - トヨタ・消防用シャーシFH26型
+  - [マッシーダイナFC](https://ja.wikipedia.org/wiki/トヨタ・マッシーダイナ "wikilink")10型
+  - [大原](https://ja.wikipedia.org/wiki/大原鉄工所 "wikilink")・スノータイガー
+
+### 2F - 4,200cc
+
+|           |
+| --------- |
+|           |
+| 2F        |
+| 登場年月      |
+| エンジン種別    |
+| 冷却方式      |
+| シリンダー配置・数 |
+| 弁形式       |
+| ボア×ストローク  |
+| 排気量       |
+| 圧縮比       |
+| 馬力        |
+| トルク       |
+| 重量        |
+|           |
+
+  - トヨタ・トラックFA100・110・115系（1975年？のマイナーチェンジでF型から2F型へ変更-生産中）
+  - トヨタ・トラックFC100系 3t積
+  - ランドクルーザー40系（1975年1月-1984年10月 海外のみ）
+  - ランドクルーザー55型（1975年1月1980年6月 海外FJ55G・V、国内FJ56V）
+      -
+        1975年？、各車とも排ガス規制に対応して、F型から2F型への変更が行われた。
+  - ランドクルーザー60系（1980年7月-1984年10月 海外FJ60G・V、国内FJ60V、61V）
+
+### 3F - 4,000cc
+
+2Fの小型化と高速化のため、[シリンダーブロック](https://ja.wikipedia.org/wiki/シリンダーブロック "wikilink")の丈が短くなり、ストロークが減らされた。軽量化や内部のフリクション低減も同時に行われた。
+
+[バルブタイミング](https://ja.wikipedia.org/wiki/バルブタイミング "wikilink")の変更や[フライホイール](https://ja.wikipedia.org/wiki/フライホイール "wikilink")の軽量化もあり、低速では扱い辛くなる。
+
+  - ランドクルーザー60系（1984年11月-1990年1月 海外FJ62G・V、国内FJ62V）
+  - ランドクルーザー70系（1984年11月-1992年?月）
+  - トヨタフォークリフト
+
+### 3F-E - 4,000cc
+
+|           |
+| --------- |
+|           |
+| 3F-E      |
+| 登場年月      |
+| エンジン種別    |
+| 冷却方式      |
+| シリンダー配置・数 |
+| 弁形式       |
+| ボア×ストローク  |
+| 排気量       |
+| 圧縮比       |
+| 馬力        |
+| トルク       |
+| 重量        |
+|           |
+
+北米の排出ガス規制に対応させるため、燃料供給を[EFIとしたもの](../Page/燃料噴射装置.md "wikilink")。フラップ式のエアフローメーターを持つ。
+
+  - ランドクルーザー60系（1988年3月-1990年1月 海外FJ62G・V、国内FJ62G）
+  - ランドクルーザー80系（1990年1月-1992年 海外FJ80G・V、国内FJ80G）
+
+## 関連項目
+
+  - [トヨタ・B型エンジン (初代)](https://ja.wikipedia.org/wiki/トヨタ・B型エンジン_\(初代\) "wikilink")
+  - [トヨタ・FZエンジン](https://ja.wikipedia.org/wiki/トヨタ・FZエンジン "wikilink") - 後継機種
+  - [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
+  - [トヨタのエンジン系列名](https://ja.wikipedia.org/wiki/トヨタのエンジン系列名 "wikilink")
+  - [トヨタのエンジン型式一覧](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")
+
+## 外部リンク
+
+  - [大型エンジンの改良](http://www.toyota.co.jp/jpn/company/history/75years/text/taking_on_the_automotive_business/chapter2/section8/item2.html) - トヨタ自動車75年史
+
+[Category:トヨタ自動車のエンジン](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のエンジン "wikilink")

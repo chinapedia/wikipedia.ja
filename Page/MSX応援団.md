@@ -1,0 +1,46 @@
+> この記事は[MSX](https://ja.wikipedia.org/wiki/MSX)から翻訳されています。
+
+
+『**MSX応援団**』（エム・エス・エックスおうえんだん）とは1987年7月から1988年9月にかけて、[マイクロデザインが編集](https://ja.wikipedia.org/wiki/マイクロマガジン社 "wikilink")・発行、[大陸書房](https://ja.wikipedia.org/wiki/大陸書房 "wikilink")が発売していた[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")専門の[パソコン雑誌](https://ja.wikipedia.org/wiki/パソコン雑誌 "wikilink")。1988年5月号からMSX OENDANに改名。
+
+## 内容
+
+MSX専門誌の中で最後発だったため、先行する『[MSXマガジン](https://ja.wikipedia.org/wiki/MSXマガジン "wikilink")』や『[MSX・FAN](https://ja.wikipedia.org/wiki/MSX・FAN "wikilink")』と差別化を図るべく、特に創刊初期において様々な試みがなされていた。
+
+代表的なものを上げると
+
+  - 表紙を[雨宮慶太](https://ja.wikipedia.org/wiki/雨宮慶太 "wikilink")が担当
+  - 紙製ボードゲームや擬似ゲームブックなど雑誌内ゲーム
+  - MSXを使って構築するIT家電を漫画で提案
+  - どの記事・企画にもコミック・イラストを大胆に絡ませる
+  - ブレイク前のアイドルを使った記事
+
+などである。
+
+また、様々な外部ライターを寄せ集めたためか、10代前半が主な層であるMSXユーザー向けらしくない[サブカルチャー](../Page/サブカルチャー.md "wikilink")系オタク記事・コラムが充実していた。
+
+例を挙げると
+
+  - [唐沢なをき](../Page/唐沢なをき.md "wikilink")の漫画（ちなみに当時当人はMSXのことを全く知らずに描いていた）
+  - [大徳哲雄](https://ja.wikipedia.org/wiki/大徳哲雄 "wikilink")による映画批評
+  - 次期MSX規格はどうあるべきかといったMSX業界評論
+
+などである。
+
+中でも最大の特徴は記事の叙述様式で、一般的なゲーム誌でありがちな紹介や攻略ではなく、記者がゲームの主人公を半ば演じる形で主観的に書かれるのが基本となっていた。
+
+また先行二誌が読者ならびに編集部の作ったプログラムリストを毎号多数掲載し、[MSX-BASIC](../Page/MSX-BASIC.md "wikilink")の解説記事も充実させていたのとは対照的に、本誌ではMSX-BASICのプログラムリストはほとんど掲載されておらず、編集部の作成したプログラムリストが多くても2、3本、中にはプログラムリストが全く無い号も存在した。しかし、こうした雑誌構成では当時のMSXユーザーの多くをつかめなかったためか、次第に他誌同様の当たり障りのない記事内容に変化していき、先行二誌に対する独自性を失っていく。そしてわずか1年2ヶ月で廃刊となり、短命に終わることになる。
+
+MSX応援団での数々の実験的な試みの多くは、後に1990年前後の『[コンプティーク](../Page/コンプティーク.md "wikilink")』等、同じくマイクロデザインが関係した雑誌で花開いたものが多い。
+
+## 脚注
+
+## 参考文献
+
+[ゾルゲ市蔵](https://ja.wikipedia.org/wiki/ゾルゲ市蔵 "wikilink") 『謎のゲーム魔境』キルタイムコミュニケーション
+
+## 外部リンク
+
+  - [投稿文化学会 「休刊しますよ」～パソコン雑誌、最後のメッセージ～](http://pharaoh-france.com/toukou/study/kyukan/index.html)
+
+[Category:MSX](https://ja.wikipedia.org/wiki/Category:MSX "wikilink") [Category:パソコン雑誌の歴史](https://ja.wikipedia.org/wiki/Category:パソコン雑誌の歴史 "wikilink")

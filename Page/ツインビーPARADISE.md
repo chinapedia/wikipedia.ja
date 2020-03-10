@@ -1,0 +1,390 @@
+> この記事は[PARADISE](https://ja.wikipedia.org/wiki/PARADISE)から翻訳されています。
+
+
+『**ツインビーPARADISE**』（ツインビーパラダイス）は[1993年](../Page/1993年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")から[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")にて放送されたラジオ番組。[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")のシューティングゲーム「[ツインビー](../Page/ツインビー.md "wikilink")」シリーズを原作とする[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")。
+
+## 概要
+
+全3シリーズで第3シリーズは[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")に終了。3シリーズ通じての番組メインテーマ曲は[コナミ矩形波倶楽部](https://ja.wikipedia.org/wiki/コナミ矩形波倶楽部 "wikilink")による書き下ろし曲「HOPE」、番組前半はナビゲータ[國府田マリ子](../Page/國府田マリ子.md "wikilink")によるお便り・トークコーナー、後半はラジオドラマという番組構成が主である。キャラクターの設定を流用していたため誤解されることが多いが、『[出たな\!\!ツインビー](https://ja.wikipedia.org/wiki/出たな!!ツインビー "wikilink")』や『[Pop'nツインビー](https://ja.wikipedia.org/wiki/Pop'nツインビー "wikilink")』のゲーム内の音声は、本作品の[声優](../Page/声優.md "wikilink")とは関係が無い。
+
+『[出たな\!\!ツインビー](https://ja.wikipedia.org/wiki/出たな!!ツインビー "wikilink")』でデザインされた[Shuzilow.HA](https://ja.wikipedia.org/wiki/Shuzilow.HA "wikilink")によるキャラクターたちが登場する\[1\]。本作品より前は登場キャラクターに特に名前は設定されていなかったが、ラジオドラマでは機体名とパイロットの名前を区別する必要があることから、ライト、パステルといった名前が全シリーズ通してのドラマパートの脚本を担当した[井出安軌](https://ja.wikipedia.org/wiki/井出安軌 "wikilink")らによって設定され定着、 同時に世界観も形成されていった。後にゲーム自体にも本作品の設定を取り入れ『[ツインビー レインボーベルアドベンチャー](https://ja.wikipedia.org/wiki/ツインビー_レインボーベルアドベンチャー "wikilink")』では主人公のキャラクター名こそまだツインビー、ウインビー、グインビーのままでキャラクターと戦闘機との名称の区別の無いままであったが本作の敵役でもあったワルモン博士とザコビーがゲームでも敵役として登場することとなった。『[ツインビー対戦ぱずるだま](https://ja.wikipedia.org/wiki/対戦ぱずるだま "wikilink")』以降はキャラクター名もツインビー、ウインビー、グインビーからライト、パステル、ミントと戦闘機のツインビー、ウインビー、グインビーと区別されるようになった。後年には本作品の世界観をベースにした『[ツインビーヤッホー\!](https://ja.wikipedia.org/wiki/ツインビーヤッホー!_ふしぎの国で大あばれ!! "wikilink")』や『[ツインビーRPG](https://ja.wikipedia.org/wiki/ツインビーRPG "wikilink")』等のゲームも発表されている。
+
+それまでのコナミにはシューティングゲームが中心のアーケードゲームメーカーという印象があったが、当時コナミは[キングレコード](../Page/キングレコード.md "wikilink")内に[自社レーベルを持っていたこともありメディアミックスに対し積極的でその一環でパステルことウインビーを](https://ja.wikipedia.org/wiki/コナミレーベル "wikilink")[ヴァーチャルアイドル](https://ja.wikipedia.org/wiki/ヴァーチャルアイドル "wikilink")として売り出す「ウインビー国民的アイドル化計画」をはじめとする企画を打ち立てた。本作である「ツインビーPARADISE」も「ウインビー国民的アイドル化計画」のメディアミックスの一部であり。大きな反響と新たな利益をもたらしたことで。このコナミの[メディアミックス](../Page/メディアミックス.md "wikilink")路線はその後の作品である『[ときめきメモリアル](https://ja.wikipedia.org/wiki/ときめきメモリアル "wikilink")』にも踏襲され、より一層の発展を見せた。
+
+第1シリーズは、後に[アニラジ](../Page/アニラジ.md "wikilink")界の中心人物として一時代を築くことになる[おたっきぃ佐々木](https://ja.wikipedia.org/wiki/おたっきぃ佐々木 "wikilink")のディレクターデビュー作でもある。\[2\]
+
+## 各シリーズの放送期間など
+
+  - ナビゲーター（パーソナリティ）：國府田マリ子（シリーズ全期間）
+  - 番組OPテーマ「HOPE」（シリーズ全期間）
+      -
+        作曲：[古川もとあき](https://ja.wikipedia.org/wiki/古川もとあき "wikilink")　演奏：[コナミ矩形波倶楽部](https://ja.wikipedia.org/wiki/コナミ矩形波倶楽部 "wikilink")
+  - ツインビーPARADISE（第1シリーズ）
+      -
+        [1993年](../Page/1993年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")-[1994年](../Page/1994年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") 全24話
+        毎週日曜日24:00-24:30（放送時間はJST・文化放送）
+        ドラマOP主題歌「Twin memories」
+          -
+            作詞：WINBEE　作曲：[コナミ矩形波倶楽部](https://ja.wikipedia.org/wiki/コナミ矩形波倶楽部 "wikilink")　歌：國府田マリ子
+        番組EDテーマ「夢の約束」
+          -
+            作詞：山本秀行　作曲：[前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink")　歌：市川陽子
+  - ツインビーPARADISE2（第2シリーズ）
+      -
+        [1994年](../Page/1994年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月2日](../Page/4月2日.md "wikilink") 全24話
+        毎週日曜日20:30-21:00（放送時間はJST・文化放送）
+        ドラマOP主題歌「[僕らのステキ](https://ja.wikipedia.org/wiki/僕らのステキ/Harmony "wikilink")」
+          -
+            作詞：戸沢暢美　作曲：[前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink")　歌：國府田マリ子
+        番組EDテーマ（前期）「[Harmony](https://ja.wikipedia.org/wiki/僕らのステキ/Harmony "wikilink")」
+          -
+            作詞：國府田マリ子　作曲：[松原みき](https://ja.wikipedia.org/wiki/松原みき "wikilink")　歌：國府田マリ子
+        番組EDテーマ（後期）「瞳はVenus」
+          -
+            作詞：[長沢ゆりか](https://ja.wikipedia.org/wiki/長沢ゆりか "wikilink")　作曲：土井淳一　歌：長沢ゆりか
+  - ツインビーPARADISE3（第3シリーズ）
+      -
+        [1996年](../Page/1996年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink") 全48話
+        毎週土曜日24:00-24:30（放送時間はJST・文化放送）
+        ドラマOP主題歌「Miracle Power」
+          -
+            作詞：久保裕美 鶴田加奈子　作曲：三原淑治　歌：[鶴田加奈子](https://ja.wikipedia.org/wiki/鶴田加奈子 "wikilink")
+        番組EDテーマ（前期）「[私が天使だったらいいのに](https://ja.wikipedia.org/wiki/私が天使だったらいいのに "wikilink")」
+          -
+            作詞：[三浦徳子](https://ja.wikipedia.org/wiki/三浦徳子 "wikilink")　國府田マリ子　作曲：[松原みき](https://ja.wikipedia.org/wiki/松原みき "wikilink")　歌：國府田マリ子
+        番組EDテーマ（後期）「[夢はひとりみるものじゃない](https://ja.wikipedia.org/wiki/夢はひとりみるものじゃない "wikilink")」
+          -
+            作詞：國府田マリ子　作曲：松原みき　歌：國府田マリ子
+  - ワルモンMONMONパラダイス（スピンオフ）
+      -
+        [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")
+        毎週土曜日24:00-24:30（放送時間はJST・文化放送）
+  - ツインビーPARADISE'99（特別番組）
+      -
+        [1999年](../Page/1999年.md "wikilink")1月-3月
+        毎週土曜21:40～21:50（放送時間はJST・文化放送）
+  - [文化放送モバイルplus presents 國府田マリ子の生放送！復活！ツインビーPARADISE SPECIAL 合言葉はBee！](https://ja.wikipedia.org/wiki/文化放送モバイルplus_presents_生放送! "wikilink")（特別番組）
+      -
+        [2018年](../Page/2018年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")\[3\]
+        22:00-23:00（放送時間はJST・[超A\&G+](https://ja.wikipedia.org/wiki/超A&G+ "wikilink")）
+
+第2シリーズの第21話から最終話は「大規模な地震が発生する」というエピソードであり、当時発生した[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")の被災者に配慮したためラジオでは放送されず、ドラマCDでのリリースのみとなった。第20話の内容も若干異なっており、ラジオでは第20話で完結している。
+
+第2シリーズ最終回の翌週、一部放送局で「ツインビーPARADISE2+1」（プラスワン）という特別番組が1回だけ放送された。それまでのシリーズを振り返る内容であった。文化放送では放送されていない。
+
+第3シリーズ終了後、ワルモン博士が電波ジャックによって「ツインビーPARADISE」を乗っ取ったという設定にて1か月限定で「ワルモンMONMONパラダイス」が放送された。パーソナリティはワルモン博士役の[岸野幸正](https://ja.wikipedia.org/wiki/岸野幸正 "wikilink")と、ザコビー役の[沼田祐介](https://ja.wikipedia.org/wiki/沼田祐介 "wikilink")。この番組は後続番組[CLUB db stationの前身となる](https://ja.wikipedia.org/wiki/CLUB_db "wikilink")。
+
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の[10月10日](../Page/10月10日.md "wikilink")には[文化放送A\&Gゾーン](https://ja.wikipedia.org/wiki/文化放送A&Gゾーン "wikilink")の[超機動放送アニゲマスター](https://ja.wikipedia.org/wiki/超機動放送アニゲマスター "wikilink")内において一夜限りの特別番組として特番で復活。
+
+その後の[1999年](../Page/1999年.md "wikilink")の1月～3月にかけて同じく[文化放送A\&Gゾーン](https://ja.wikipedia.org/wiki/文化放送A&Gゾーン "wikilink")の[超機動放送アニゲマスター](https://ja.wikipedia.org/wiki/超機動放送アニゲマスター "wikilink")の特別番組として「ごめんねアニゲマスター、ツインビーPARADISEは今夜も電波ジャックしますよ！」として主人公であるライト、パステルらのデザート中学の卒業式を描いたドラマ完結編にあたる「ツインビーPARADISE'99」が放送された。
+
+2018年11月28日にはツインビーPARADISE番組放送開始25周年を記念し、超A\&G+の「文化放送モバイルplus presents 生放送\!」枠内で「文化放送モバイルplus presents 國府田マリ子の生放送！復活！ツインビーPARADISE SPECIAL 合言葉はBee！」が放送された。番組特別ゲストとしては沼田祐介が登場した。番組内容はドラマパートはなくトークコーナーがメインで番組リスナーからよせられたメールの紹介や番組で使用された楽曲がかけられるなどされた。
+
+## 主なキャスト
+
+※年齢などの表記は、[ツインビー レインボーベルアドベンチャーのデモ画面に基づく](https://ja.wikipedia.org/wiki/ツインビー_レインボーベルアドベンチャー "wikilink")。
+
+  - ライト
+    声 - [山口勝平](../Page/山口勝平.md "wikilink")
+    アンナモンの息子でツインビーのパイロット。デザート中学に通う。13歳で身長160cm。明るくて熱くなりやすい性格で、かわいい女の子にはすぐ鼻の下をのばす。デザート中学のミスコンが原因でお騒がせな美少女ライラに女装したこともあるが、あまりに可愛すぎてヒロイン二人に嫉妬されたりワルモン博士に惚れられる場面も。ソルティアス人であるアンナモンを父に持つ事から、身体は丈夫であるものの地球人はかからない病気に対しての免疫力が無い。名前はライトブルーから。
+  - ツインビー
+    声 - [田中真弓](../Page/田中真弓.md "wikilink")
+    アンナモンと一緒に惑星ソルティアスからやってきた戦闘機。大きくなったり小さくなったりできる。必殺技はピコハンマー。
+  - パステル
+    声 - [椎名へきる](../Page/椎名へきる.md "wikilink")
+    シナモンの孫でライトの従兄妹。彼を「おにいちゃん」と呼ぶ。ウィンビーのパイロット。13歳で身長157cm。ライトが女の子にメロメロになっていると嫉妬してへそをまげたり、怒りだしたりする。特に[太もも](https://ja.wikipedia.org/wiki/太もも "wikilink")に[コンプレックス](../Page/コンプレックス.md "wikilink")を持っているため「大根」は禁句である。第3シリーズでミスコンに出場する事になったライトを女装させる際パッドを用意した事から、偽胸疑惑が浮上している。名前はパステルピンクから。
+  - ウィンビー（ウインビー）
+    声 - [西原久美子](https://ja.wikipedia.org/wiki/西原久美子 "wikilink")
+    ツインビーをもとにシナモン博士が作り出した戦闘機。必殺技はリボンアタック。
+  - ミント
+    声 - [伊藤美紀](https://ja.wikipedia.org/wiki/伊藤美紀_\(声優\) "wikilink")
+    パステルの弟。赤ちゃんだが生まれもっての天才。グインビーのパイロット。泣き声は超音波なので武器＝ミラクルボイスとして使うことも。名前はミントグリーンから。
+  - グインビー
+    声 - 伊藤美紀
+    ウィンビーと同じく、ツインビーをもとに作られた戦闘機。ミントの通訳兼お守役で必殺技はガラグレネード。
+  - シナモン博士
+    声 - [田中和実](https://ja.wikipedia.org/wiki/田中和実 "wikilink")
+    ライト達を暖かく見守る科学者でパステルとミントの祖父。第3シリーズ中盤で冷凍睡眠に入るが、結局起き出して来た。
+  - エンジェルコンピューター
+    声 - 西原久美子
+    シナモンの研究所にあるスーパーコンピューター。
+  - マドカ
+    声 - [國府田マリ子](../Page/國府田マリ子.md "wikilink")
+    ライト達のクラスメイト。クッキーの神様を信じる乙女チックなかわいらしい女の子。喫茶店『ファンタジアン』を経営しておりコーヒーは絶品である。料理全般得意で、元々はクッキーが特に得意だったのだが自分なりのアレンジが進みすぎて何故かクッキーに酢や[砂肝](https://ja.wikipedia.org/wiki/砂肝 "wikilink")やイカを入れたとんでもない味のものを作るようになり恐れられている。（本人曰く「お酢が効いてないから自分なりのアレンジ（ドラマCD内で発言））第3シリーズではパステル達クラスメート曰く「首から下の発育が著しくなった」との事。
+  - アップル先生
+    声 - 西原久美子
+    デザート中学のセクシーな女性教師。ライト達の担任の先生。
+  - ピーチ先生
+    声 - 伊藤美紀
+    デザート中学の養護教諭。美人だが毒舌。
+  - ホワイト
+    声 - [私市淳](https://ja.wikipedia.org/wiki/私市淳 "wikilink")
+    ライト達の通うクラスの学級委員長。パステルに思いを寄せている。当初は名前が設定されていなかったが、「デザート中学幽霊奇譚ぱーと2」から設定され、その事が話のネタにされている。
+  - マスタード
+    声 - [神谷浩史](https://ja.wikipedia.org/wiki/神谷浩史 "wikilink")
+    デザート中学に通う男子生徒でライト達の悪友。
+  - マリ
+    声 - [やなせなつみ](https://ja.wikipedia.org/wiki/やなせなつみ "wikilink") ＊出演当時は柳瀬なつみ
+    ライト達が通うデザート中学の生徒でクラスメート。ホワイトに思いを寄せている。
+  - ライム
+    声 - [青山美帆](https://ja.wikipedia.org/wiki/青山美帆 "wikilink")
+    デザート中学の生徒でライト達のクラスメート。ショートカットで雀斑が特徴。
+  - ワルモン博士
+    声 - [岸野幸正](https://ja.wikipedia.org/wiki/岸野幸正 "wikilink")
+    ザコビーやシーズ、サリュートの生みの親でシナモン博士とはライバル。世間にシナモン博士より自分の実力が上だと知らしめるため鉄王シリーズやデビルスパイカーを開発しツインビーチームに戦いを挑むものの毎回敗れている。兵器が破壊されすぎて資金が尽きツインビー達に対抗する為の兵器の開発費用捻出の為に道路工事等のアルバイトに精を出すなど結構苦労人。第1シリーズ最終回でシナモン博士は自分と違いツインビーを元にせずとも自分の力だけでザコビーを作り上げた彼の力を認めている発言をしていた。
+  - ザコビー
+    声 - [沼田祐介](https://ja.wikipedia.org/wiki/沼田祐介 "wikilink")
+    ワルモン博士が作った自立型ロボ（量産型）。初期に作られた「ダブルオーナンバー（一桁ナンバー）」にはその稼働時間から自我（個性）が生まれており、特に「004」は「ビーちゃん」という名前を持っている（命名：パステル）。ワルモンと一緒に悪さを働いたりするがザコビー自体は常識のある普通の性格である。
+  - マードック博士
+    声 - [八奈見乗児](../Page/八奈見乗児.md "wikilink")
+    マドカの祖父。シナモン博士の友人。飄々とした、とぼけた性格でトラブルを起こす事も。少しエッチ。マドカ曰く「鼻唄を歌っている時は開き直っている証拠」との事。
+  - シーズ
+    声 - [緒方恵美](../Page/緒方恵美.md "wikilink")
+    ワルモン博士の作り出したアンドロイド。ブラックツインビー1号機のパイロットでサリュートの弟にあたる。ライト達とは敵対していたが、心を通じ合わせて和解した。サリュートと共にレンゲ島で暮らす。パステルの事が気になる模様。本番組のディレクターおたっきぃ佐々木のお気に入り。
+  - サリュート
+    声 - [山崎和佳奈](../Page/山崎和佳奈.md "wikilink")
+    ワルモン博士の作り出したアンドロイド。ブラックツインビー2号機のパイロットでシーズの姉にあたる。後にライトに対して好意を抱く。当初はゲスト扱いだったが、第3シリーズでは事実上ヒロインへと昇格する。
+  - アンナモン
+    声 - [堀秀行](https://ja.wikipedia.org/wiki/堀秀行 "wikilink")
+    ソルティアス人でライトの父。ツインビーの先代パイロット。ライトが産まれて間もない頃にクイーンズ星へ旅立っていった。2のエピソード「バグってリセット」で中学生になったライトと対面したが、ある事が原因で話がリセットされた為、なかった事になっている。
+  - ラピス
+    声 - [金丸日向子](https://ja.wikipedia.org/wiki/金丸日向子 "wikilink")
+    レンゲ島に住む少年でシーズ、サリュートの友人。
+  - メローラ姫
+    声 - [井上喜久子](https://ja.wikipedia.org/wiki/井上喜久子 "wikilink")
+    実体を持たない、良い意識の集合体。
+
+## Beeメイツ
+
+この番組のリスナーは**Beeメイツ**と呼ばれた。「合言葉は？」の質問に「Bee」と返答すればその人はBeeメイツである。リスナーであることを示す目印として所持品にベルを付けることも推奨され、ドラマのサブタイトルから「13日の日曜日」に近所の公園に集まり13時に合言葉を唱和するというミニイベントも提唱されていた。この際5人以上が集まれば番組に申し込むことで「支部」として認められる制度も存在していた 。この「合言葉はBee\!」は駅の掲示板に書き込まれるなど、一大センセーションを起こした\[4\]。ボイスアニメージュのライターによれば、「どこの駅の掲示板を見ても書かれていた」という\[5\]。
+
+一方、ワルモン博士等の（一応の）敵キャラクターのファンに対しては**ワルワルメイツ**の呼称が岸野らから提唱された。こちらの合言葉は「ワルワル」であり、目印は[福助](https://ja.wikipedia.org/wiki/福助 "wikilink")足袋もしくは何らかの[福助マスコットとされていた](https://ja.wikipedia.org/wiki/福助人形 "wikilink")。
+
+## アニメ
+
+### ツインビー ウィンビーの1/8パニック
+
+1993年末から1994年年始かけて発売した[SFC用ソフトの購入特典の当選者限定ビデオとして発売](../Page/スーパーファミコン.md "wikilink")。その後1998年12月28日にOVA発売の際に改めて『Vol.0』として一般販売された。
+
+#### ストーリー
+
+マードック博士の作った薬の入ったクッキーを食べて小さい身体になってしまったパステル。ミスどんぶりコンテストまでは時間が無く、しかも元に戻す為に必要なエネルギーとなるベルのベル雲は伝説の幽霊島に奪われていた。本番開始に間に合うようツインビーチームが出撃する。
+
+#### スタッフ
+
+  - 製作総指揮 - 上月景正
+  - プロデューサー - 酒井雅人、[三浦亨](https://ja.wikipedia.org/wiki/三浦亨_\(プロデューサー\) "wikilink")
+  - 企画 - 池田孝冶、八木良子
+  - 監督・脚本・絵コンテ - [井出安軌](https://ja.wikipedia.org/wiki/井出安軌 "wikilink")
+  - キャラクターデザイン - [SHUZILOW.HA](https://ja.wikipedia.org/wiki/Shuzilow.HA "wikilink")
+  - アートディレクター - シモシモ、野澤菜茶漬
+  - ゲストキャラクターデザイン - 越智信次
+  - 演出 - [橋本みつお](https://ja.wikipedia.org/wiki/橋本みつお "wikilink")
+  - 作画監督 - [毛利和昭](https://ja.wikipedia.org/wiki/毛利和昭 "wikilink")
+  - 美術監督 - 竹田悠介
+  - 撮影監督 - 山口利明
+  - 音響監督 - [岩浪美和](https://ja.wikipedia.org/wiki/岩浪美和 "wikilink")
+  - 音楽 - [古川もとあき](https://ja.wikipedia.org/wiki/古川もとあき "wikilink")&[コナミ矩形波倶楽部](https://ja.wikipedia.org/wiki/コナミ矩形波倶楽部 "wikilink")
+  - 制作協力 - 株式会社[読売広告社](https://ja.wikipedia.org/wiki/読売広告社 "wikilink")
+  - 制作 - [AIC](https://ja.wikipedia.org/wiki/アニメインターナショナルカンパニー "wikilink")、[童夢](https://ja.wikipedia.org/wiki/童夢_\(アニメ制作会社\) "wikilink")
+  - 制作・著作 - コナミ株式会社
+
+#### 主題歌
+
+  - オープニングテーマ「[Twin memories](https://ja.wikipedia.org/wiki/Twinbee_Vocal_Paradise_featuring_Mariko_Kouda "wikilink")」
+    作詞 - WINBEE / 補作詞・編曲 - 光田健一 / 歌 - 國府田マリ子
+  - エンディングテーマ「[ラッキー・ラッパー・パーティー](https://ja.wikipedia.org/wiki/Twinbee_Vocal_Paradise_featuring_Mariko_Kouda "wikilink")」
+    作詞・作曲・編曲・演奏 - [葉山宏治](../Page/葉山宏治.md "wikilink") / 歌 - 葉山宏治&國府田マリ子
+
+### チューリップ海岸物語
+
+WINDOWS用ソフト『ツインビーPARADISE in どんぶり島』に収録されている短編アニメ。1995年制作。後に『Vol.0』発売の際の特典映像として収録。
+
+#### ストーリー
+
+チューリップ海岸に海水浴に来たパステル達の日焼けオイルを巡るハプニング。
+
+#### スタッフ
+
+  - 監督・脚本・絵コンテ - 井出安軌
+  - キャラクターデザイン - SHUZILOW.HA
+  - アニメーショキャラクターデザイン・作画監督 - 数井浩子
+  - 美術監督 - 森川裕美
+  - 色彩設定 - 渋谷圭子
+  - 撮影監督 - 藤田正明
+  - 音響監督 - 岩浪美和
+  - 音楽 - コナミ矩形波倶楽部
+  - イラストレーション - [合田浩章](https://ja.wikipedia.org/wiki/合田浩章 "wikilink")
+  - プロデューサー - 安西武
+  - プロダクションマネージャー - 中山晴夫
+  - 製作担当 - 星川孝文
+  - 制作事務 - 渡部圭
+  - アニメーション制作 - 童夢
+  - 制作・著作 - コナミ株式会社
+
+#### 主題歌
+
+  - エンディングテーマ「[あいことばはBe\!\!](https://ja.wikipedia.org/wiki/B_Side_Collection "wikilink")」（OVA『Vol.0』）
+    作詞 - 國府田マリ子 / 作曲 - [松原みき](https://ja.wikipedia.org/wiki/松原みき "wikilink") / 編曲 - 亀田誠治 / 歌 - 國府田マリ子
+
+### ツインビーPARADISE（OVA）
+
+OVA全3巻。1999年2月25日よりVHSおよびLDでの発売の後、1999年8月25日にはDVD（単品）発売。2007年10月26日には『ツインビーPARADISE DVD/BOX～ハイ・エンコードリマスターバージョン～』としてVol.0も含めた5作品のセットDVDも発売された。
+
+#### スタッフ
+
+  - 原作 - コナミ株式会社
+  - 製作総指揮 - 永田昭彦
+  - 企画 - 寺沢久紀
+  - プロデューサー - 池田孝冶、河西潔、松浦公基
+  - 監督 - [高本宣弘](https://ja.wikipedia.org/wiki/高本宣弘 "wikilink")
+  - 脚本 - 井出安軌
+  - キャラクターデザイン - 浅沼昭弘
+  - メカデザイン - 大倉雅彦
+  - 美術監督 - 脇威志
+  - 色彩設計 - 田中直人、西田佳奈子（1）、早川奈生美（2、3）
+  - 撮影監督 - 嶋川竜太郎
+  - デジタル編集 - 森田清次
+  - 音楽 - コナミ矩形波倶楽部
+  - 音響監督 - 岩浪美和
+  - 音響効果 - [神保大介](https://ja.wikipedia.org/wiki/神保大介 "wikilink")（[楽音舎](https://ja.wikipedia.org/wiki/楽音舎 "wikilink")）
+  - 音響プロデューサー - [中野徹](../Page/なかのとおる.md "wikilink")
+  - 制作協力 - [オフィス蒼](https://ja.wikipedia.org/wiki/オフィス蒼 "wikilink")
+  - アニメーション制作 - [AIC](https://ja.wikipedia.org/wiki/アニメインターナショナルカンパニー "wikilink")
+  - 制作 - 株式会社[パブリックアンドベーシック](https://ja.wikipedia.org/wiki/パブリック&ベーシック "wikilink")
+  - 協力 - 株式会社コナミミュージックエンタテインメント
+  - 製作 - TDKコア株式会社
+
+#### 主題歌
+
+  - オープニングテーマ「[Twin memories](https://ja.wikipedia.org/wiki/Twinbee_Vocal_Paradise_featuring_Mariko_Kouda "wikilink")」
+    作詞 - WINBEE / 補作詞・編曲 - 光田健一 / 歌 - 國府田マリ子
+  - エンディングテーマ「[太陽でいこう](https://ja.wikipedia.org/wiki/待っていました "wikilink")」
+    作詞 - 國府田マリ子 / 作曲・編曲 - 奥居香 / 歌 - 國府田マリ子
+
+#### 各話リスト
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話数</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>絵コンテ</p></th>
+<th><p>演出</p></th>
+<th><p>作画監督</p></th>
+<th><p>発売日</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Vol.1</p></td>
+<td><p>ヴィーナスの微笑み</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高本宣弘" title="wikilink">高本宣弘</a></p></td>
+<td><p>浅沼昭弘</p></td>
+<td><p>1999年2月25日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>UFOの残骸から宇宙人の赤ちゃんが見つかった。赤ちゃんの親を捜すため金星に向かう。</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Vol.2</p></td>
+<td><p>真夏の蜃気楼（そのままじゃん）</p></td>
+<td><p>小村敏明</p></td>
+<td><p>高本宣弘</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/進藤満尾" title="wikilink">進藤満尾</a><br />
+浅沼昭弘（総作画監督）</p></td>
+<td><p>1999年3月25日</p></td>
+</tr>
+<tr class="even">
+<td><p>軍資金を稼ぐ為バイトをするワルモン博士とザコビーだがバレてしまう。次の日に起きてみるとザコビーがパステルの部屋に?</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Vol.3</p></td>
+<td><p>悪よ復活せよ!</p></td>
+<td><p>高本宣弘</p></td>
+<td><p>浅沼昭弘</p></td>
+<td><p>1999年4月25日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>株で大損したワルモン博士。予算がない中で作ったソウルチェンジャーミニで、パステルと猫が入れ替わってしまう。</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 他作品へのゲスト出演
+
+OVA「[がんばれゴエモン 次元城の悪夢](https://ja.wikipedia.org/wiki/がんばれゴエモン_次元城の悪夢 "wikilink")」ではウインビーちゃんがゲスト出演している。
+
+## ツインビーパラダイス関連商品
+
+  - **ラジオドラマCD**
+      - ツインビーPARADISE（Vol.1\~6）
+      - ツインビーPARADISE2（Vol.1\~6）
+      - ツインビーPARADISE3（Vol.1\~12）
+      - ツインビーPARADISE ドラマコレクション（1\~4）
+      - ツインビーPARADISE'99（赤・青）
+  - **ソングアルバム**
+      - ツインビーカラオケパラダイス
+      - ツインビーPARADISE 熱唱\!ボーカルバトル編
+      - ツインビーPARADISE2 熱唱\!激唱\!爆唱\!編
+      - ツインビーPARADISE3 ボーカル祭りだ\!ワッショイ編
+      - ツインビーPARADISE3 ボーカルボム\!
+      - ツインビーPARADISE 5th. Anniversary
+      - [Twinbee Vocal Paradise featuring Mariko Kouda](https://ja.wikipedia.org/wiki/Twinbee_Vocal_Paradise_featuring_Mariko_Kouda "wikilink")
+  - **サウンドアルバム**
+      - ツインビーPARADISE MUSIC BOX
+      - ツインビーPARADISE3 サントラセレクション
+  - **スピンアウトCD**
+      - ワルモンMONMONパラダイス（いち・に・さん）
+      - ウィンビーのネオシネマ倶楽部（1\~3）
+      - ツインビーPARADISE サウンドファンタジア
+      - パステルカラー
+      - アイドル伝説ウィンビー
+      - しあわせの楽園ウィンビー
+  - **その他関連CD**
+      - 國府田マリ子のRadio Canvas（Vol.1\~3、スペシャル）
+      - CDドラマ ツインビーヤッホー\!
+  - **パソコンソフト**
+      - ツインビーPARADISE in どんぶり島
+  - **パチスロ**
+      - [ツインビーJG](https://ja.wikipedia.org/wiki/ツインビーJG "wikilink")
+
+## 脚注
+
+## 関連項目
+
+  - [コナミレーベル](https://ja.wikipedia.org/wiki/コナミレーベル "wikilink") - かつてコナミのゲーム音楽を専門に扱うためにキングレコードが作ったレーベル、ツインビーPARADISE関連のドラマCDや音楽CDも同レーベルから発売された。
+  - [CLUB db](https://ja.wikipedia.org/wiki/CLUB_db "wikilink") - 「ワルモンMONMONパラダイス」の放送後、ツインビーPARADISEの舞台である「どんぶり島」\[6\]の放送局という設定を受け継いで放送されたコナミスポンサーによる文化放送系ラジオ番組、主にコナミのゲーム関連やコナミレーベルオリジナルのラジオドラマ等を放送していた。
+  - [db-FM](https://ja.wikipedia.org/wiki/db-FM "wikilink") - ツインビーPARADISEの舞台である「どんぶり島」にあるFMラジオ放送局という設定で「國府田マリ子のRadio Canvas vol.1」において「ツインビーPARADISE」と「國府田マリ子のGAME MUSEUM」を放送する架空の放送局として登場した。後年には名称と設定を受け継ぎ「ツインビーPARADISE」や「CLUB db」等で放送されたコナミレーベル関連のラジオドラマやラジオ番組を再放送するインターネットラジオサイトとして運営された。
+  - [コナミ矩形波倶楽部](https://ja.wikipedia.org/wiki/コナミ矩形波倶楽部 "wikilink") - [コナミのサウンドチームの総称](../Page/コナミホールディングス.md "wikilink")、ラジオ番組のメインテーマや番組やドラマ使用されている劇伴、キャラクターボーカル曲等多くの楽曲を同チームのスタッフが手がけた。
+  - [Shuzilow.HA](https://ja.wikipedia.org/wiki/Shuzilow.HA "wikilink") - [コナミに所属していたキャラクターデザイナー](../Page/コナミホールディングス.md "wikilink")、「[出たな\!\!ツインビー](https://ja.wikipedia.org/wiki/出たな!!ツインビー "wikilink")」に始まり「ツインビーPARADISE」に連なるツインビーシリーズの多くのキャラクターデザインを手がけた。
+
+## 外部リンク
+
+  - [ツインビーPARADISE（i-revo）](http://movie.i-revo.jp/ice/special/060502/twinbee/)
+
+[Category:ツインビー](https://ja.wikipedia.org/wiki/Category:ツインビー "wikilink") [Category:コナミのラジオ番組](https://ja.wikipedia.org/wiki/Category:コナミのラジオ番組 "wikilink") [Category:文化放送A\&Gゾーン](https://ja.wikipedia.org/wiki/Category:文化放送A&Gゾーン "wikilink") [Category:文化放送のラジオドラマ](https://ja.wikipedia.org/wiki/Category:文化放送のラジオドラマ "wikilink") [Category:1993年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のラジオ番組_\(日本\) "wikilink") [Category:1993年のラジオドラマ](https://ja.wikipedia.org/wiki/Category:1993年のラジオドラマ "wikilink") [Category:アニメ作品_つ](https://ja.wikipedia.org/wiki/Category:アニメ作品_つ "wikilink") [Category:1999年のOVA](https://ja.wikipedia.org/wiki/Category:1999年のOVA "wikilink")
+
+1.  第3シリーズ以降はメインイラストレーターが[Shuzilow.HA](https://ja.wikipedia.org/wiki/Shuzilow.HA "wikilink")から[かーのじゅんこへと変更となった](https://ja.wikipedia.org/wiki/河野純子_\(ゲームクリエイター\) "wikilink")。
+2.  おたっきぃ佐々木はこの番組をディレクションするにあたり、過去に[TBSラジオ](../Page/TBSラジオ.md "wikilink")にて放送されていた同じくゲームメーカーである[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")（現：[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）がスポンサーをしておりナムコのゲームのBGM、効果音を効果的に使っていた『[ラジオはアメリカン](https://ja.wikipedia.org/wiki/ラジオはアメリカン "wikilink")』を意識したとのこと。
+3.  おたっきぃ佐々木はこの日付についてとしている。
+4.
+5.
+6.  dbは「どんぶり」の略称である。

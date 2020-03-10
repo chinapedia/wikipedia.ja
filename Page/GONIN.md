@@ -1,0 +1,252 @@
+> この記事は[GONIN](https://ja.wikipedia.org/wiki/GONIN)から翻訳されています。
+
+
+『**GONIN**』（ゴニン）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に公開された[ぶんか社](https://ja.wikipedia.org/wiki/ぶんか社 "wikilink")製作、[石井隆](https://ja.wikipedia.org/wiki/石井隆 "wikilink")監督によるスタイリッシュ[バイオレンス](https://ja.wikipedia.org/wiki/バイオレンス "wikilink")・[アクション](../Page/アクション映画.md "wikilink")[映画](../Page/映画.md "wikilink")作品。 当初の公開は8月中旬を予定していたが、内容的に重いので夏場の番組としてふさわしくないという具申があり、9月公開の運びとなった。また当初は[R-15](https://ja.wikipedia.org/wiki/R-15 "wikilink")指定作品としてチラシやポスターで告知されていたが、再編集によりR指定から一般作品へと変更になった。
+
+## あらすじ
+
+借金まみれの[ディスコ](https://ja.wikipedia.org/wiki/ディスコ "wikilink")・バーズのオーナー・万代、[男性](../Page/男性.md "wikilink")相手の[コールボーイ](https://ja.wikipedia.org/wiki/男娼 "wikilink")・三屋、元[刑事](https://ja.wikipedia.org/wiki/刑事 "wikilink")・氷頭、[リストラ](../Page/リストラ.md "wikilink")された[サラリーマン](../Page/サラリーマン.md "wikilink")・荻原、[パンチドランカー](https://ja.wikipedia.org/wiki/パンチドランカー "wikilink")の元[ボクサー](https://ja.wikipedia.org/wiki/ボクサー_\(スポーツ\) "wikilink")・ジミー。社会から弾き出された5人は大胆にも[暴力団](https://ja.wikipedia.org/wiki/暴力団 "wikilink")・大越組の事務所から大金を強奪する計画を企て、辛くも成功する。しかし、ジミーを拷問し万代たち5人の仕業と突き止めた大越組は、二人組の[ヒットマン](https://ja.wikipedia.org/wiki/ヒットマン "wikilink")・京谷と柴田を雇って報復に出る。恋人のナミィーを殺されたジミーは大越組に乗り込むが射殺される。荻原は自宅に戻ったところを京谷に射殺される。氷頭は、元妻と娘との会食中を襲われ、元妻と娘が射殺されたものの逃げ延びる。万代と三屋は逃走のため共に新宿バスターミナルに来たところを襲われ、万代は死に、三屋は逃げ延びる。合流した三屋と氷頭は大越組事務所を襲い、組長の大越のほか、久松ら組員を殺すが、氷頭は京谷によって射殺される。逃げ延びた三屋は長距離バスで逃走するが、休憩中に乗り込んできた京谷と相討ちとなって死ぬ。
+
+## 登場人物（キャスト）
+
+  - 万代樹彦 - [佐藤浩市](https://ja.wikipedia.org/wiki/佐藤浩市 "wikilink")
+    ディスコ「Birds」の[オーナー](https://ja.wikipedia.org/wiki/オーナー "wikilink")。かつては[バンドの](../Page/バンド_\(音楽\).md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")で、[バブル時代](../Page/バブル時代.md "wikilink")には[ヤングエグゼクティブ](https://ja.wikipedia.org/wiki/ヤングエグゼクティブ "wikilink")として[マスコミにももてはやされたこともあったが](../Page/マスメディア.md "wikilink")、[バブルがはじけ大越組に多大な借金をしている](../Page/バブル景気.md "wikilink")。犯行が露見した後は三屋と行動を共にし、長距離バスで身内の故郷まで逃走を図るが、バスターミナルで京谷に襲われ射殺される。その後は彼の遺骨は三屋の手に渡ることとなる\[1\]。
+    『[GONIN サーガ](https://ja.wikipedia.org/wiki/GONIN_サーガ "wikilink")』では妻子がいることが判明する。
+  - 三屋純一 - [本木雅弘](https://ja.wikipedia.org/wiki/本木雅弘 "wikilink")
+    金持ちの男相手のコールボーイを装い金を巻き上げている美青年。傷害罪で逮捕されたことがあり、それが万代の密告のせいだと勘違いし逆恨みしている。[童謡](https://ja.wikipedia.org/wiki/童謡 "wikilink")の『こがね虫』の[替え歌](https://ja.wikipedia.org/wiki/替え歌 "wikilink")をよく口ずさむ。犯行が露見した後は万代と共に逃走を企てるが京谷に襲われ、万代が死ぬ。氷頭と共に大越組事務所を襲い大越組長ほか組員を射殺し、その後は万代の骨壺を手に長距離バスで逃走を図るが、途中のパーキングエリアにてその車内で京谷と相討ちになり死ぬ。
+  - 氷頭要 - [根津甚八](https://ja.wikipedia.org/wiki/根津甚八_\(俳優\) "wikilink")
+    元刑事で裏の世界の情報に通じている。[汚職](../Page/汚職.md "wikilink")でクビになり現在は場末の[キャバレー](../Page/キャバレー.md "wikilink")「ピンキー」にて用心棒をしている。刑事時代から万代とは因縁がある。離婚した妻と娘がおり復縁を望んでいる。強奪後、元妻と娘との会食中に京谷に襲われ、元妻と娘を殺されてしまう。その後、三屋と共に大越組事務所を襲撃し大越を射殺するも京谷によって自分も射殺されたように劇中では描写されたが、『GONIN サーガ』では植物状態で生きながらえていたことが判明する。
+    なお、演じる根津は『[GONIN2](https://ja.wikipedia.org/wiki/GONIN2 "wikilink")』でも別役で出演している。
+  - 荻原昌平 - [竹中直人](../Page/竹中直人.md "wikilink")
+    リストラされたサラリーマン。キレやすい性格で武器はバット。家族にこまめに連絡をする素振りを見せ、円満な家庭をにおわせていたが、実は妻と子供たちを殺害しており、自宅には遺体が放置されていた。帰宅したところを京谷に襲われ射殺される。
+    なお、演じる竹中は本作の企画段階から携わっていたほか、『[GONIN2](https://ja.wikipedia.org/wiki/GONIN2 "wikilink")』『GONIN サーガ』でも別役で出演している。
+  - ジミー(山路美治) - [椎名桔平](https://ja.wikipedia.org/wiki/椎名桔平 "wikilink")
+    元ボクサーで大越組の[チンピラ](https://ja.wikipedia.org/wiki/チンピラ "wikilink")。新宿の[バッティングセンター](https://ja.wikipedia.org/wiki/バッティングセンター "wikilink")でも働いている。[パンチドランカー](https://ja.wikipedia.org/wiki/パンチドランカー "wikilink")の障害があるため組の人間からやっかい者扱いされている。強奪成功後、大越組によって拷問され、犯行を自白。ナミィーを殺され、大越組事務所に乗り込んだところで射殺された。
+    なお、演じる椎名は『[GONIN2](https://ja.wikipedia.org/wiki/GONIN2 "wikilink")』でも別役で出演している。
+  - 京谷一郎 - [ビートたけし](../Page/ビートたけし.md "wikilink")
+    式根から直々に雇われた凄腕の殺し屋。一馬とは[サディスティックな恋仲にある](../Page/サディズム.md "wikilink")。三屋と相討ちとなり死ぬ。
+    なお組事務所に駆け付けた際に彼が発砲したパトカーに乗っていた警官の一人の息子が『GONIN サーガ』に登場している。
+  - 柴田一馬 - [木村一八](https://ja.wikipedia.org/wiki/木村一八 "wikilink")
+    京谷の相棒兼恋人。京谷を「アニィ」と呼んでいる。京谷を庇って三屋に撃たれ、死ぬ。
+  - 久松茂 - [鶴見辰吾](https://ja.wikipedia.org/wiki/鶴見辰吾 "wikilink")
+    大越組の若頭。三屋と氷頭の襲撃に遭い、死ぬ。
+    『GONIN サーガ』では妻子が登場する。
+    なお、演じる鶴見は『GONIN2』でも別役で出演している。
+  - 大越康正 - [永島敏行](https://ja.wikipedia.org/wiki/永島敏行 "wikilink")
+    大越組の組長。式根を慕っている。組事務所を襲撃してきた氷頭によって射殺される。
+    『GONIN サーガ』では妻子が登場する。
+    なお、演じる永島は『GONIN2』でも別役で出演している。
+  - 式根 - [室田日出男](../Page/室田日出男.md "wikilink")
+    数々の暴力団を束ねる五誠会の会長。GONINの大越組襲撃現場にたまたま遭遇する。
+    『GONIN サーガ』では息子に会長の座が譲られていることが語られている。
+  - ナミィー - [横山めぐみ](https://ja.wikipedia.org/wiki/横山めぐみ "wikilink")
+    [タイ出身で大越組に](../Page/タイ王国.md "wikilink")[パスポート](https://ja.wikipedia.org/wiki/パスポート "wikilink")を奪われ[売春婦](https://ja.wikipedia.org/wiki/売春婦 "wikilink")をやっている。ジミーの恋人。大越組によって強姦された末、殺される。
+  - キム - [川上麻衣子](https://ja.wikipedia.org/wiki/川上麻衣子 "wikilink")
+    ぼったくり[キャバレー](../Page/キャバレー.md "wikilink")「ピンキー」の摺れた[ホステス](https://ja.wikipedia.org/wiki/ホステス "wikilink")。
+  - アケミ - [滝沢涼子](https://ja.wikipedia.org/wiki/滝沢涼子 "wikilink")
+    「ピンキー」のホステス。
+  - 早紀 - [永島暎子](https://ja.wikipedia.org/wiki/永島暎子 "wikilink")
+    氷頭の元妻。右足に[障害](../Page/障害.md "wikilink")がある。氷頭と会食の際に京谷と柴田の襲撃を受け、死ぬ。
+  - 未来（みき) - [五十嵐瑞穂](https://ja.wikipedia.org/wiki/五十嵐瑞穂 "wikilink")
+    氷頭の娘\[2\]。氷頭と会食の際に京谷と柴田の襲撃を受け、死ぬ。
+  - 荻原京子 - [夏川加奈子](https://ja.wikipedia.org/wiki/夏川加奈子 "wikilink")
+    萩原の妻。荻原によって殺されていた。
+  - 荻原ひろみ - [栗山千明](https://ja.wikipedia.org/wiki/栗山千明 "wikilink")
+    荻原の娘。[ピアノ](../Page/ピアノ.md "wikilink")をたしなんでいる。荻原によって殺されていた。
+  - 荻原健一 - [山田哲也](https://ja.wikipedia.org/wiki/山田哲也_\(俳優\) "wikilink")
+    荻原の息子。ファミコンばかりやってる。荻原によって殺されていた。
+  - ピンキーのマスター - [不破万作](https://ja.wikipedia.org/wiki/不破万作_\(俳優\) "wikilink")
+    式根専属ドライバー - [松岡俊介](https://ja.wikipedia.org/wiki/松岡俊介 "wikilink")
+    木崎 - [伊藤洋三郎](../Page/伊藤洋三郎.md "wikilink")
+    式根ボディーガード
+  - 野本 - [飯島大介](https://ja.wikipedia.org/wiki/飯島大介 "wikilink")
+    大越組の組員。GONINの大越組襲撃時、荻原に射殺される。
+  - トイレの男 - [岩松了](https://ja.wikipedia.org/wiki/岩松了 "wikilink")
+    高速バス運転手 - 小形雄二
+    暴力団組員 - [津田寛治](https://ja.wikipedia.org/wiki/津田寛治 "wikilink")
+    ディスコの客 - [渡辺真起子](https://ja.wikipedia.org/wiki/渡辺真起子 "wikilink")　　
+    本編では「渡辺真紀子」の[クレジット](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")
+
+## スタッフ
+
+  - 監督・脚本：[石井隆](https://ja.wikipedia.org/wiki/石井隆 "wikilink")
+  - 製作総指揮：[奥山和由](https://ja.wikipedia.org/wiki/奥山和由 "wikilink")
+  - 音楽：[安川午朗](https://ja.wikipedia.org/wiki/安川午朗 "wikilink")
+  - 主題歌：[ちあきなおみ](https://ja.wikipedia.org/wiki/ちあきなおみ "wikilink")「紅い花」
+  - 撮影：[佐々木原保志](https://ja.wikipedia.org/wiki/佐々木原保志 "wikilink")
+  - 美術：山崎輝（[山崎美術](https://ja.wikipedia.org/wiki/山崎美術 "wikilink")）
+  - 録音：北村峰晴
+  - 照明：牛場賢二
+  - 編集：[川島章正](https://ja.wikipedia.org/wiki/川島章正 "wikilink")
+  - 助監督：石田和彦、横山浩幸、原正弘、佐藤公俊、阿知波孝、[武正晴](https://ja.wikipedia.org/wiki/武正晴 "wikilink")
+  - 音響効果：斉藤昌利、中村佳央([東洋音響カモメ](https://ja.wikipedia.org/wiki/東洋音響カモメ "wikilink")）
+  - 技斗：[柴原孝典](https://ja.wikipedia.org/wiki/柴原孝典 "wikilink")
+  - 特殊メイク：[原口智生](https://ja.wikipedia.org/wiki/原口智生 "wikilink")
+  - 刺青：[霞涼二](https://ja.wikipedia.org/wiki/霞涼二 "wikilink")
+  - ガンエフェクト：[BIGSHOT](https://ja.wikipedia.org/wiki/ビッグショット_\(特殊効果\) "wikilink")
+  - スタジオ：[日活撮影所](https://ja.wikipedia.org/wiki/日活撮影所 "wikilink")
+  - 現像：[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")
+  - プロデューサー：新津岳人、[本木克英](https://ja.wikipedia.org/wiki/本木克英 "wikilink")
+  - エグゼクティブプロデューサー：三浦寛二、[小口健二](https://ja.wikipedia.org/wiki/小口健二 "wikilink")（ノークレジット）
+  - 制作協力：[フロム・ファーストプロダクション](https://ja.wikipedia.org/wiki/フロム・ファーストプロダクション "wikilink")、[カノックス](https://ja.wikipedia.org/wiki/カノックス "wikilink")
+
+## メディア
+
+  - VHS『GONIN』109分（廃盤）
+    発売元：イメージファクトリー・アイエム
+    劇場公開版
+    リバーシブルジャケット仕様（表：各出演者が叫んでいる表情。裏：万代と三屋、京谷と一馬）
+  - VHS『GONIN<特別版>』119分　（廃盤）
+    発売元：イメージ・ファクトリー・アイエム
+    LDで発売されたものが「GONIN2」VHSリリースにあたり、ビデオテープで発売。
+
+<!-- end list -->
+
+  - LD『GONIN特別版』119分（廃盤）
+    発売元：イメージファクトリーアイエム、[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")　邦画初の[ドルビー・デジタル5.1システム](../Page/ドルビーデジタル.md "wikilink")。
+    LDのために新しく編集された。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")発売の「リアル・エディション」とは異なる。
+  - LDシングル『promotion of GONIN』 約15分(非売品)
+    特別版発売にあたり製作された非売品20cmLDシングル。非売品だが、一部ショップではLD予約先着で配布された。
+    石井隆はじめ、スタッフ5人のインタビューと、劇場版予告編・TVスポットが収録。なお、これらの同内容は2007年のDVDに映像特典として収録される。
+
+<!-- end list -->
+
+  - DVD『GONIN』109分(2007/3/28)
+    発売元：[松竹](../Page/松竹.md "wikilink")
+    劇場公開版　映像特典：予告編・1種/ 特報・1種/ TVスポット(15sec.)・1種/96年編集版スタッフインタビュー（『promotion of GONIN』）。
+
+<!-- end list -->
+
+  - DVDレンタル版『GONIN』109分(2007/3/28-レンタル中 )
+    本編のみ収録。
+
+<!-- end list -->
+
+  - DVD『GONINコンプリートボックス』(2007/3/28 完売)
+    発売元：松竹
+    品番：DV-47
+
+<!-- end list -->
+
+  -
+    初回限定(雑誌広告では5000セットと記載だが、商品帯には初回限定生産と記載)。100p超豪華ブックレット（DVD化にあたり石井隆監督のインタビュー、劇場パンフレットからの解説、ある日記、公開時発売された「GONINインサイドストーリー」より転載のキャスト・インタビュー、初公開の「GONIN」絵コンテなどで構成。）、石井隆描き下ろしイラストBOX。DVDトールケース表紙は単品のジャケットと同じ絵柄（各出演者が叫んでいる表情（1）と女性が横たわり、下に緒形拳の影（2））が両面仕様。DVD3枚組。
+
+<!-- end list -->
+
+  -
+    Disc1:GONIN（劇場公開版）109分　映像特典：予告編・1種/ 特報・1種/ TVスポット(15sec.)・1種/96年編集版スタッフインタビュー（『promotion of GONIN』）。
+
+<!-- end list -->
+
+  -
+    Disc2:GONIN2（一般映画制限付R）108分　映像特典：特報・1種/予告編・1種/初日舞台挨拶映像　音声特典：2007年版オーディオコメンタリー（[石井隆](https://ja.wikipedia.org/wiki/石井隆 "wikilink")監督、[佐々木原保志](https://ja.wikipedia.org/wiki/佐々木原保志 "wikilink")撮影監督、[阿知波孝](https://ja.wikipedia.org/wiki/阿知波孝 "wikilink")助監督、ちひろ役・[喜多嶋舞](https://ja.wikipedia.org/wiki/喜多嶋舞 "wikilink")）
+
+<!-- end list -->
+
+  -
+    Disc3:GONIN REAL EDITION 　121分　音声特典：2007年版オーディオコメンタリー（[石井隆](https://ja.wikipedia.org/wiki/石井隆 "wikilink")監督、佐々木原保志撮影監督、阿知波孝助監督、GONINファン代表・喜多嶋舞、大越組幹部・久松役・[鶴見辰吾](https://ja.wikipedia.org/wiki/鶴見辰吾 "wikilink")）
+      -
+        【GONIN　REAL EDITION 追加変更シーン】
+
+<!-- end list -->
+
+1.  バッディングセンター路地裏の恐喝シーンの明るさ・色彩を初期の構想に戻す。
+2.  万代がトイレのドアを開けるシーンに音楽を追加変更
+3.  路地裏での万代の目の充血をCG追加
+4.  万代の眠っている部屋の雨漏りの音を明瞭に付け直す
+5.  タイトル・クレジットからバッディングセンターへ画面がクローズするカットとアングルを挿入変更
+6.  ディスコバーズの電光看板の発光電子音を追加
+7.  ディスコバーズで踊る三屋と一馬のシーンを追加
+8.  大越組幹部・野本が荻原に銃殺される場面に「石井フリーズ（場面停止）」を追加
+9.  荻原家の腐乱死体描写を自然なクローズアップに修正
+10. 荻原が浴室で京谷に射殺される別アングルからのショットを追加
+11. 京谷が浴室の手すりの指紋を拭きとるシーンと一馬に対してのセリフを追加
+12. 氷頭・早紀・未来たちが食事をするレストランの外観カットに自動車の走行音とクラクションを追加
+13. 高速バス待合所の発車アナウンスを追加
+14. 三屋、氷頭による暴力団襲撃シーンに別アングルからのショット追加と複数の「石井フリーズ」処理
+15. 京谷と三屋の相撃ちシーンの銃の着弾音を変更
+16. 「しんどいわ・・・休憩」の後、観光旅行客がバスに乗り込む直前のカットにスロー・ズーム処理を加えた
+17. 全編において着弾音を追加変更
+18. キャスト・スタッフ、エンドクレジットの配置を劇場版の右端・中央混同から中央に統一
+19. レーザーディスクのドルビー・デジタル5.1から劇場オリジナル版のドルビー・デジタル2.0に変更
+20. DVD用マスターは「GONIN」「REAL EDITION」ともにニュープリント・デジタル・リマスター版での収録
+21. 「REAL EDITION」はLD特別版より2分長くなりラストが劇場公開版に戻された。
+
+<!-- end list -->
+
+  - ブルーレイ　あの頃映画 the BEST 松竹ブルーレイ・コレクション『GONIN』（2015/09/02-発売中　￥3,300＋税）
+    発売元：松竹
+
+    品番：SHBR-0329
+
+  - 1080p Hi-Drf ／ビスタ・サイズ／50G／カラー
+    佐々木原保志撮影監修による2015年版最新HDデジタルリマスター
+    本編：リニアPCM（48Khz/24bitステレオ）、ディレクターズ・カット本編：リニアPCM（48khz/16bitステレオ）
+    映像特典：特報・劇場予告篇・TVスポット、GONINディレクターズ・カット本編（121分）
+    音声特典：2007年版オーディオ・コメンタリー（石井隆監督、鶴見辰吾、喜多嶋舞、佐々木原保志撮影監督、阿知波孝助監督）
+    初回封入特典：ロビーカード風ポストカード（全1種類）
+    販売キャッチコピー：鬼才・石井隆監督が描くキレたら止まらない男たちの危険な挽歌！
+
+※コンプリートボックスに収録の「スタッフ・インタビュー」は未収録
+
+  - CD『GONIN オリジナル・サウンドトラック』[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")発売 COCY-78771　（廃盤）
+    発売元：[日本コロムビア](../Page/日本コロムビア.md "wikilink")
+    01：GONINメインテーマ　（★★）
+    02：万代の夢
+    03：DISCO ARABICA （★）
+    04：悪魔の囁き （★）
+    05：偵察
+    06：出会い
+    07：ピンキー裏
+    08：玄関前から　（★）
+    09：ナミィーのアパート
+    10：バーズホール（★）
+    11：紅い大階段
+    12：京谷と一馬　（★）
+    13：夜に想いを
+    14：どしゃぶりの復讐
+    15：骨壷
+    16：エンディングテーマ（※）
+
+※：16曲目後半に収録のシークレット・トラック「GONINメインテーマ〜テクノ・ヴァージョン」はDVDボックス[GONIN REAL EDITIONのメインメニューBGMとして使用された](https://ja.wikipedia.org/wiki/GONIN_REAL_EDITION "wikilink")。
+
+★：2015年公開の続編[GONIN サーガでも流用された](https://ja.wikipedia.org/wiki/GONIN_サーガ "wikilink")。
+
+★★：2015年公開の続編[GONIN サーガではエンディングに使用されたが](https://ja.wikipedia.org/wiki/GONIN_サーガ "wikilink")、音圧が深まり、終わり方が異なる。
+
+  - 挿入歌『[紅い花](https://ja.wikipedia.org/wiki/紅い花_\(ちあきなおみの曲\) "wikilink")』歌：[ちあきなおみ](https://ja.wikipedia.org/wiki/ちあきなおみ "wikilink")　　1995年[10月11日](../Page/10月11日.md "wikilink")発売（SCD）TEDA-10350（SCT）TESA-350　（廃盤）
+    1：松竹映画「GONIN」挿入歌　紅い花
+    2：同：オリジナル・メロ入りカラオケ
+    3：百花繚乱
+    4：同：オリジナル・メロ入りカラオケ（「百花繚乱」カラオケはCDシングルのみショートバージョンで収録）
+
+ちあきなおみ・オリジナル・アルバム「百花繚乱」2007年11月21日発売　TECE-25716 2007年11月21日 価格: 2500円（税込）
+
+※2015年公開[GONIN サーガでも使用された](https://ja.wikipedia.org/wiki/GONIN_サーガ "wikilink")。
+
+  - 書籍『GONIN―インサイド・ストーリー』（1995年[9月23日](../Page/9月23日.md "wikilink")刊）＝絶版
+    発売元：[情報センター出版局](https://ja.wikipedia.org/wiki/情報センター出版局 "wikilink")
+    ISBN 978-4-7958-0903-1
+    本体価格：1,165円（税込：1,223円）
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [GONIN サーガ](https://ja.wikipedia.org/wiki/GONIN_サーガ "wikilink") - [2015年](../Page/2015年.md "wikilink")に公開された「本作の続編」。本作の登場人物の遺児たちが主人公となる。
+
+## 外部リンク
+
+  -
+  -
+  -
+  -
+  -
+[Category:1995年の映画](https://ja.wikipedia.org/wiki/Category:1995年の映画 "wikilink") [Category:日本の犯罪映画](https://ja.wikipedia.org/wiki/Category:日本の犯罪映画 "wikilink") [Category:ヤクザ映画](https://ja.wikipedia.org/wiki/Category:ヤクザ映画 "wikilink") [Category:日本のアクション映画](https://ja.wikipedia.org/wiki/Category:日本のアクション映画 "wikilink") [Category:R指定の映画](https://ja.wikipedia.org/wiki/Category:R指定の映画 "wikilink") [Category:石井隆の監督映画](https://ja.wikipedia.org/wiki/Category:石井隆の監督映画 "wikilink") [Category:松竹配給の映画](https://ja.wikipedia.org/wiki/Category:松竹配給の映画 "wikilink")
+
+1.  『GONIN サーガ』では三屋の手に渡る経緯の一部が語られている。
+2.  『GONIN サーガ』では4歳であることが語られている。

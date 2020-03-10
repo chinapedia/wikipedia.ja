@@ -1,0 +1,56 @@
+> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+
+
+**ここがSF一丁目**（ - えすえふいっちょうめ）は、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で放送されていた夜の若者向けワイド[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")10月から[1988年](../Page/1988年.md "wikilink")9月まで放送されていた。
+
+## 概要
+
+（\[1\]）
+東海ラジオは、『[ミッドナイト東海](https://ja.wikipedia.org/wiki/ミッドナイト東海 "wikilink")』『[とびっきりNiGHT](../Page/とびっきりNiGHT.md "wikilink")』など深夜放送でリードしてきた感があったが、その手法を夜ワイドに持ってくることになった。東海ラジオではそれまでに実質上夜9時台～12時台の夜ワイドは存在しておらず、ほぼ新設というような形であった。当時、東海地区のAMラジオにおける夜間の若年層向けプログラムは、既に『[小堀勝啓のわ\!Wide とにかく今夜がパラダイス](https://ja.wikipedia.org/wiki/小堀勝啓のわ!Wide_とにかく今夜がパラダイス "wikilink")』（[CBCラジオ](../Page/CBCラジオ.md "wikilink")）が覇権を握っており、それに対抗できるパーソナリティをということで、ミッドナイト東海で大きな人気を誇っていた[宮地佑紀生](https://ja.wikipedia.org/wiki/宮地佑紀生 "wikilink")、[河原龍夫](https://ja.wikipedia.org/wiki/河原龍夫 "wikilink")の2人が選ばれた。[1988年](../Page/1988年.md "wikilink")4月からは、レポーターを務めていた[原光隆](https://ja.wikipedia.org/wiki/原光隆 "wikilink")アナウンサーもメインパーソナリティに昇格した。
+
+なお、この番組のタイトルの『SF』とは、東海ラジオのコールサイン『JO**SF**』のことである（同じ1986年10月に深夜でスタートした『[SF Rock Station](https://ja.wikipedia.org/wiki/SF_Rock_Station "wikilink")』と同じネーミング）。ただし東海ラジオ制作の番組表では、シャレなのか、宇宙服に身を包む人の絵が描かれていた。
+
+しかし、この番組の放送時間が『わ\!Wide』の半分以下の1時間30分だったうえ、番組独自のコーナー・企画などの進行が可能な、この番組の売りとも言える時間帯がほぼ午後9時台に集中したこともあって、この直前に放送されていた『[ガッツナイター](https://ja.wikipedia.org/wiki/東海ラジオ_ガッツナイター "wikilink")』が延長すると当然放送時間が短くなり、22:30を過ぎてもナイター中継が終わらず、番組自体がまるまる休止になってしまうこともあった。こういった面でも、24:40まで放送のあった『わ\!Wide』と比べて不利な状況にあったと言える。なお、午後10時台は、[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")付きのコーナー、内包番組が存在するなど横割りの編成になっていた時間帯であり、この番組が始まる以前から午後10時台で放送されていた[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")の殆どが、そのままこの時間帯にスライドしてきていた。わずかな新機軸は[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")の帯番組（後述）程度しかないという状態だった。
+
+1988年3月に午後9時台において、それまで全曜日で同じコーナーをやっていた横割りの編成を、曜日別に違うコーナーを行う縦割りの編成にするなど、番組のリニューアルを図ったものの、結局本番組は2年で終了することとなった。なお、この番組の末期パーソナリティ陣であった宮地佑紀生、河原龍夫、原光隆、[鈴木恵美](https://ja.wikipedia.org/wiki/鈴木恵美 "wikilink")アナウンサーの4人は全員が、この後[1988年](../Page/1988年.md "wikilink")10月から20:40-21:30の時間で始まった『[うたワイドベスト50](https://ja.wikipedia.org/wiki/うたワイドベスト50 "wikilink")』のパーソナリティとしてスライド登板している。
+
+番組テーマ曲は「河原龍夫バンド」の作曲、演奏によるオリジナル曲「ここがSF一丁目のテーマ」\[2\]。
+
+## 放送時間
+
+  - 毎週[月曜日](../Page/月曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink")　21:00 - 22:30
+
+## パーソナリティ
+
+**メインパーソナリティ**
+
+  - [宮地佑紀生](https://ja.wikipedia.org/wiki/宮地佑紀生 "wikilink") （月曜・火曜・水曜 → 1988年4月から月曜・火曜）
+  - [河原龍夫](https://ja.wikipedia.org/wiki/河原龍夫 "wikilink") （木曜・金曜 → 1988年4月から水曜・木曜）
+  - [原光隆](https://ja.wikipedia.org/wiki/原光隆 "wikilink") （東海ラジオアナウンサー　当初レポーター、1988年4月から金曜メイン）
+
+**アシスタント**
+
+  - [久保田玲子](https://ja.wikipedia.org/wiki/久保田玲子 "wikilink") （東海ラジオアナウンサー　月曜～金曜　1986年10月～1988年3月）
+  - [鈴木恵美](https://ja.wikipedia.org/wiki/鈴木恵美 "wikilink")　（東海ラジオアナウンサー　月曜～金曜　1988年4月～1988年9月）
+
+## 主なコーナー
+
+  - 特ダネ最前線
+  - 呼んでちょー\!ヤジウマカー
+  - こちら社会部デスク
+  - 今日の[ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")
+  - [メルサ](https://ja.wikipedia.org/wiki/メルサ "wikilink")・チャームコーナー
+  - [おニャン子のあぶない夜だよ](https://ja.wikipedia.org/wiki/おニャン子のあぶない夜だよ "wikilink") （[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作、ネット受け内包番組　22:15頃）
+  - [おちゃめな夜だよいたずらレモン](https://ja.wikipedia.org/wiki/おちゃめな夜だよいたずらレモン "wikilink") （ニッポン放送制作　『おニャン子のあぶない夜だよ』の後継番組　22:15頃）
+  - おばん子クラブのあぶない夜だよ
+      -
+        （『おニャン子 - 』『おちゃめな夜だよ - 』は金曜の放送が無かったため、その金曜22:15頃に放送していたコーナー。堀田美也子、石川嘉子が出演）
+
+## 脚注
+
+<references />
+
+[Category:1986年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1986年のラジオ番組_\(日本\) "wikilink") [Category:東海ラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:東海ラジオの帯番組の歴史 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink") [Category:ローカルラジオ局の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の情報・ワイドショー番組 "wikilink") [Category:中日ドラゴンズの歴史](https://ja.wikipedia.org/wiki/Category:中日ドラゴンズの歴史 "wikilink")
+
+1.  この節においての出典は、「[ラジオ新番組速報版](https://ja.wikipedia.org/wiki/ラジオ番組表 "wikilink")」、月刊「[ラジオパラダイス](https://ja.wikipedia.org/wiki/ラジオパラダイス "wikilink")」1988年8月号特集「全国4大エリア 夜ワイド合戦絵巻」（いずれも[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")刊）より。
+2.  月刊[ラジオパラダイス](https://ja.wikipedia.org/wiki/ラジオパラダイス "wikilink") 1988年9月号 p.117「お答えしませう」にて紹介

@@ -1,0 +1,305 @@
+> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+
+
+**クロサタX**（クロサタ・エックス）は[CROSS FMが放送していたラジオ番組](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")。放送期間は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")。放送時間は毎週[土曜日](../Page/土曜日.md "wikilink")12:00-18:00。天神岩田屋新館1階にある天神きらめき通りスタジオからの公開生放送。[ナビゲーターは](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")[スマイリー原島](https://ja.wikipedia.org/wiki/スマイリー原島 "wikilink")と[山本真理子](https://ja.wikipedia.org/wiki/山本真理子 "wikilink")。
+
+## 概要
+
+  - キャッチコピーは「**サタデー・ベタ生プログラム**」（2007年春-）。
+      - 番組開始当初-2007年春は「**GREAT ADVENTURE RADIO SHOW**」。
+  - [2003年](../Page/2003年.md "wikilink")4月にスタートした「**CROSS SUPER SATURDAY**」がリニューアルして誕生した番組。（後述）
+  - 番組の内容は「**CROSS SUPER SATURDAY**」の流れをそのまま組んだものになっており、コーナーのほとんどもタイトルを差し替える形で引き継がれている。
+      - 例として、「**CROSS SUPER SATURDAY**」内で「時報クイズ」→「なぞなぞタイム」→「頭の体操」と引き継がれたクイズやなぞなぞのコーナーは「脳内運動会」にタイトルが変更されている。
+  - 月に1回くらいのペースで、スタジオ以外の場所から公開生放送を行うことがある。
+
+## ナビゲーター
+
+  - スマイリー原島
+
+<!-- end list -->
+
+  -
+    同局では「[CROSS SMILEY FRIDAY](https://ja.wikipedia.org/wiki/CROSS_SMILEY_FRIDAY "wikilink")」から引き続き担当。
+
+<!-- end list -->
+
+  - 山本真理子
+
+<!-- end list -->
+
+  -
+    以前は同局で「[J-STAGE](https://ja.wikipedia.org/wiki/J-STAGE "wikilink")」などの番組を担当して以来、レギュラー番組は5年振りの担当となった。
+
+<!-- end list -->
+
+  - [レフリー](https://ja.wikipedia.org/wiki/レフリー\(MC\) "wikilink") （16:30頃から登場）
+
+<!-- end list -->
+
+  -
+    [福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")内でバー「バランス」を経営。またコミュニティFMのパーソナリティや情報誌「フクオカナウ」のコーナー担当を務めたこともあり、後述の「SUNSET LIVE」などのイベントでMCを務めている。
+
+<!-- end list -->
+
+  - [アンディ・マスター](https://ja.wikipedia.org/wiki/アンディ・マスター "wikilink") （不定期）
+
+<!-- end list -->
+
+  -
+    [SPEEDSTAR MUSICの会社役員](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink")。スマイリー原島の先輩でもある。
+
+<!-- end list -->
+
+  - [ルーシー](https://ja.wikipedia.org/wiki/ルーシー "wikilink") （不定期、レポーターとしてよく登場する）
+
+## CROSS SUPER SATURDAYからの変遷
+
+この番組の前身番組である「**CROSS SUPER SATURDAY**」は[2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")、CROSS FM開局10周年を意として編成された10時間番組としてスタートした。
+
+当初の内容は3部構成で、12:00～18:00をスマイリー原島と山本真理子が担当、北九州第1スタジオから放送された。この6時間の中で[八木徹](https://ja.wikipedia.org/wiki/八木徹 "wikilink")がレポーターとして登場、後述のコーナー「TENJIN JOINT」や「FUKUOKA AROUND」、「ホークスタウンヒーローズ」を担当した。18:00～21:00は[FM NORTH WAVEとの共同制作番組](https://ja.wikipedia.org/wiki/FM_NORTH_WAVE "wikilink")「[TRANS J-NIC online](https://ja.wikipedia.org/wiki/TRANS_J-NIC_online "wikilink")」（ナビゲーターは[クリス・ペプラー](https://ja.wikipedia.org/wiki/クリス・ペプラー "wikilink")）を放送、その間に[八木徹](https://ja.wikipedia.org/wiki/八木徹 "wikilink")は北九州スタジオへ移動し、21:00～21:45までの「[J'S POWER](https://ja.wikipedia.org/wiki/J'S_POWER "wikilink")」を含め、21:00〜22:00を第2スタジオからワンマンDJスタイルで放送した。
+
+翌年[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")4月の番組改編からは12:00〜18:00までが「**CROSS SUPER SATURDAY**」となり、天神きらめき通りスタジオへ移動、引き続き[スマイリー原島](https://ja.wikipedia.org/wiki/スマイリー原島 "wikilink")と[山本真理子](https://ja.wikipedia.org/wiki/山本真理子 "wikilink")が担当した。「**J'S POWER**」は独立した番組になり、八木徹がレポートを担当したコーナーも終了となった。
+
+この番組のスタート以来、毎年9月の第1土曜日は、[糸島市](https://ja.wikipedia.org/wiki/糸島市 "wikilink")の芥屋海水浴場で行われている野外ライヴイヴェント「SUNSET LIVE」の会場から放送するようになった。これは同ライヴの[MCをスマイリー原島が担当していることによるものであり](https://ja.wikipedia.org/wiki/司会 "wikilink")、また同ライヴのスタッフでもあるレフリーやアンディ・マスターもこれがきっかけで2年目以降番組に出演するようになった。
+
+そして番組4年目を迎えた2006年4月、番組のリニューアルを図り、この番組の愛称であった**クロサタ**を取って「**クロサタX**」へ改題、コーナーの大半がリニューアルされた。そして本来、「**CROSS SUPER SATURDAY**」で生かされるはずであった、スマイリー原島の持っている音楽情報や人脈をもっと活用できる場として、金曜日の夜に同じスタッフで放送される「[クロキン激音団](../Page/クロキン激音団.md "wikilink")」がスタートすることとなった。
+
+## 主なコーナー
+
+  - 脳内運動会（随時）
+
+<!-- end list -->
+
+  -
+    主になぞなぞを出題するリスナー参加コーナー。週平均2回出題される。2007年10月より「おつむのストレッチ」という意の「つむレッチ」というサブタイトルが付けられた。
+
+<!-- end list -->
+
+  - シネマガイド（12:50頃）
+
+<!-- end list -->
+
+  -
+    毎週公開される、もしくは公開直前の映画を紹介する。映画関係者を迎えて放送することが多い。スポンサーは同局のオフィシャルカードである[クロスクラブカード](https://ja.wikipedia.org/wiki/九州日本信販 "wikilink")。
+
+<!-- end list -->
+
+  - u don't cry(う・どん・食らい）\!\!（13:15頃）
+
+<!-- end list -->
+
+  -
+    [うどん](../Page/うどん.md "wikilink")をテーマに[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月から始まったコーナー。このコーナーでは特に福岡県独特の文化でもある[ごぼう天うどん](https://ja.wikipedia.org/wiki/ごぼう天うどん "wikilink")に着目し、県内各地でのごぼう天うどんについての情報を集め、「うどん地図」なるものの作成を目指しているほか、その他の名物うどんの情報をリスナーから募集している。また、このコーナーにはスマイリー原島の同級生であり毎日麺類を食べているという、「麺の達人」で[ブログ](https://ja.wikipedia.org/wiki/ブログ "wikilink")「HENO HENO」の管理人「への」が参加しており、本人も毎月1回の頻度で登場する。
+
+<!-- end list -->
+
+  - ゲストコーナー（13:50頃、15:50頃など不定期）
+
+<!-- end list -->
+
+  -
+    ライヴやプロモーションなどで来福しているアーティストをスタジオに招いて対談する。ゲストが電話で登場することもあるが、ゲストのない週もある。
+
+<!-- end list -->
+
+  - ゲッツオンエアー・リターンズ（14:30頃）
+
+<!-- end list -->
+
+  -
+    各音楽会社のプロモーター2～3名がイントロクイズに挑戦し、先に2問正解すれば30秒のプロモーション時間と、プロモーションされるアーティストの楽曲がその週の番組中2回オンエアされる。尚、敗者にも10秒程度のプロモーション時間と、プロモーションされるアーティストの楽曲がその週の番組中1回だけオンエアされる。また現在はリスナーがイヴェントなどの紹介のために出場することも可能となっている。
+    前身の「**CROSS SUPER SATURDAY**」では「ゲッツオンエアー」のタイトルで行われ、一度中断したがその後「ゲッツオンエアー・リターンズ」として復活、それが番組スタート時に「クロサタオンエアバトル」と改名されて引き継がれたものの、参加するプロモーターがコーナータイトルをよく間違えていたため、2006年12月頃からタイトルが戻された。
+
+<!-- end list -->
+
+  - プロフェッショナルX （15:00頃）
+
+<!-- end list -->
+
+  -
+    各業界のプロをゲストに迎えて話を聞くコーナー。
+
+<!-- end list -->
+
+  - クロサタ・キャッチアップ（15:30頃、16:50頃など不定期）
+
+<!-- end list -->
+
+  -
+    [インフォマーシャル](https://ja.wikipedia.org/wiki/インフォマーシャル "wikilink")のコーナー。
+
+<!-- end list -->
+
+  - レフリーの赤坂二丁目の夕陽（16:30頃）
+
+<!-- end list -->
+
+  -
+    2008年1月から始まったコーナー。コーナータイトルはコーナーを担当するレフリーのお気に入りの映画「[ALWAYS 三丁目の夕日](https://ja.wikipedia.org/wiki/ALWAYS_三丁目の夕日 "wikilink")」に範を取り、「赤坂二丁目」はレフリーが営むバーの住所地にちなむ。毎週1つのテーマに沿ってリスナーから昔なつかしいものやエピソードを募集するコーナー。
+
+### 終了したコーナー
+
+#### CROSS SUPER SATURDAY時代のコーナー
+
+  - THIS WEEK （2003年4月〜2004年3月 12:15頃、12:40頃→12:30頃）
+
+<!-- end list -->
+
+  -
+    スマイリー原島が扮する「おスマ」（[おすぎ](../Page/おすぎ.md "wikilink")のものまね口調）と「スケ村」（[竹村健一](../Page/竹村健一.md "wikilink")のものまね口調）が毎週交互に登場し、毎週の出来事を語る時事放談コーナー。
+
+<!-- end list -->
+
+  - TENJIN JOINT （2003年4月〜2003年12月 12:30、12:50、13:30）
+
+<!-- end list -->
+
+  -
+    八木徹が[FREE WAVEの番組](https://ja.wikipedia.org/wiki/天神エフエム "wikilink")「FANTASY BOX」（2003年10月からは「DAYTIME GANG」）に登場、パーソナリティの櫻井まなみとともに[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")を行うコーナー。ちなみに八木自身も以前FREE WAVEでパーソナリティを経験していた。
+
+<!-- end list -->
+
+  - 時報クイズ→なぞなぞタイム→頭の体操 （2003年4月〜2004年3月 13:00頃、14:00頃、15:00頃、16:00頃、17:00頃、2004年4月以降は不定時）
+
+<!-- end list -->
+
+  -
+    1時間毎にクイズを出しリスナーからその回答を募集、正解者の中から抽選で数名にプレゼントを贈るコーナーとしてスタートしたが、なぞなぞ問題が多かったため「なぞなぞタイム」に改称、コーナータイトルのジングルの声を[松井伸一](https://ja.wikipedia.org/wiki/松井伸一 "wikilink")が担当した。2003年10月からは「頭の体操」に改題しなぞなぞの出題は14時台と15時台のみとなり、13時台は「あるなしクイズ」、16時台と17時台は毎週出されるお題にたいしてリスナーから川柳を募集する「リスナー川柳」のコーナーとなった。
+    2004年4月以降は「なぞなぞタイム」が毎週2〜3回出題されるようになったが、時間が定まっておらず、番組の冒頭で出題されて後半に入るまでその正解が発表されないこともしばしばあり、その傾向は現在の「脳内運動会」でも続いている。また番組の後半では「リスナー川柳」が定着し、2006年12月までは毎週リスナーから川柳を募集していた。
+
+<!-- end list -->
+
+  - FUKUOKA AROUND（2003年4月〜2004年3月 13:50頃など不定時）
+
+<!-- end list -->
+
+  -
+    八木徹が福岡市内をレポートするコーナー。2003年秋頃からは14時過ぎに必ず、福岡市内にあった[NTT DoCoMoのショールーム](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")「FOMA GATE」から放送していた。
+
+<!-- end list -->
+
+  - クロサタ探偵団（2004年4月〜2006年3月 不定時）
+
+<!-- end list -->
+
+  -
+    リスナーの疑問にリスナーが答えるというコーナー。このコーナーは現在の「クロサタX」でもたまに復活する。
+
+<!-- end list -->
+
+  - 「テクまり（てくまく真理子）」（2004年4月〜2006年3月 14:00頃）
+
+<!-- end list -->
+
+  -
+    山本真理子がその週に気になった話題を取り上げたり、芸能人のインタビューを紹介したりしたコーナー。コーナータイトルは漫画「[ひみつのアッコちゃん](https://ja.wikipedia.org/wiki/ひみつのアッコちゃん "wikilink")」に登場する変身の言葉「テクマクマヤコン」にひっかけている。「クロサタX」になってからは「マリコレ・マリコラ」に改題された。
+
+#### クロサタX時代のコーナー
+
+  - お出かけ情報〜Let's go out\!（13:15頃）
+
+<!-- end list -->
+
+  -
+    毎週福岡県内で行われるイヴェントを紹介する。
+
+<!-- end list -->
+
+  - マリコレ・マリコラ （2006年4月〜2007年3月 14:30頃）
+
+<!-- end list -->
+
+  -
+    前述の「テクまり」とほぼ同じ内容で、タイトルは「真理子コレクション、真理子のコラム」の略。なぜかコーナーの冒頭でBGMにのせてスマイリー原島がタイトルを歌うのが慣習になっていた。
+
+<!-- end list -->
+
+  - [ホークスタウン](https://ja.wikipedia.org/wiki/ホークスタウン "wikilink")ヒーローズ (2003年4月〜2004年3月 16:10-16:20、2004年4月〜2007年3月 16:16-16:26）
+
+<!-- end list -->
+
+  -
+    ホークスタウン広報営業担当者を迎えて、[ホークスタウン](https://ja.wikipedia.org/wiki/ホークスタウン "wikilink")のイベント情報を紹介する。「CROSS SUPER SATURDAY」時代は[八木徹](https://ja.wikipedia.org/wiki/八木徹 "wikilink")、「クロサタX」になってからは[長谷川ひろし（長谷川弘志）が聞き手を務めた](https://ja.wikipedia.org/wiki/長谷川弘志 "wikilink")。
+
+<!-- end list -->
+
+  - クロサタ川柳アワード （2006年4月〜2006年12月 16:30頃）
+
+<!-- end list -->
+
+  -
+    CROSS SUPER SATURDAY時代から人気だった川柳のコーナーをリニューアル。毎週出されるお題に対してリスナーから川柳を募集し紹介した。
+
+<!-- end list -->
+
+  - ゴーゴー・レフリー　堅い玉一杯～ （17時台）
+
+<!-- end list -->
+
+  -
+    レフリーによるお悩み相談コーナー。
+
+<!-- end list -->
+
+  - 新ことわざ研究所 （16:30頃）
+
+<!-- end list -->
+
+  -
+    [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")1月から始まった新しいことわざをリスナーから募集するコーナー。このコーナーでは作家の[上大岡トメ](https://ja.wikipedia.org/wiki/上大岡トメ "wikilink")が研究所長を務め、スマイリー原島は所長代理、山本真理子は部長、レフリーは研究所員（当初は「8段の名人」という肩書きだったが、毎週提案する新しいことわざが冴えないため、降格となった）を務め、送られてきたことわざを審査して級段を与えた。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink")の放送では1年間の集大成として「K-わざグランプリ」（「K-わざ」は「ことわざ」と「[K-1](../Page/K-1.md "wikilink")グランプリ」の掛け合わせ）を開催、送られたことわざの中から優秀作品を紹介した。
+
+## テーマソング
+
+  - 1曲目
+
+<!-- end list -->
+
+  -
+    What A Wonderful World／[Joey Ramone](https://ja.wikipedia.org/wiki/Joey_Ramone "wikilink")
+
+<!-- end list -->
+
+  - エンディング
+
+<!-- end list -->
+
+  -
+    People Have The Power／[パティ・スミス](https://ja.wikipedia.org/wiki/パティ・スミス "wikilink")
+
+## エピソードなど
+
+  - 「**CROSS SUPER SATURDAY**」時代を通じて、スマイリー原島は毎年初夏に苗場スキー場にて行われる「FUJI ROCK FESTIVAL」にMCとして参加するため、その週は休演している。最初の年の休演時には[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")がそのピンチヒッターを務め、その後も八木徹や[深町健二郎](https://ja.wikipedia.org/wiki/深町健二郎 "wikilink")などがピンチヒッターを務めた。なお2007年は山本真理子1人で進行した。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月18日](../Page/12月18日.md "wikilink")には、「**CROSS SUPER SATURDAY**」主催のライヴイヴェント「クロサタLIVE X'MAS」が福岡市のライヴハウスBEAT STATIONにて行われた。出演者は[スカロケッツ](https://ja.wikipedia.org/wiki/スカロケッツ "wikilink")、[ザ・トラベラーズ](https://ja.wikipedia.org/wiki/ザ・トラベラーズ "wikilink")、[ザ・スリル](https://ja.wikipedia.org/wiki/ザ・スリル "wikilink")。またスマイリー原島と深町健二郎がザ・スリルをバックに2曲ほど歌を披露した。
+
+## 関連項目
+
+  - [クロキン激音団](../Page/クロキン激音団.md "wikilink")
+      -
+        この番組の別館的位置づけの番組。
+
+<!-- end list -->
+
+  - 前後の番組
+
+<!-- end list -->
+
+  - 前：[CROSS SATURDAY MORNING](https://ja.wikipedia.org/wiki/CROSS_SATURDAY_MORNING "wikilink") - 北九州スタジオ、土曜 7:00～12:00
+  - 後：[BEAT DELUXE](https://ja.wikipedia.org/wiki/BEAT_DELUXE "wikilink") - 土曜 18:00～20:00
+
+<!-- end list -->
+
+  - 天神きらめき通りスタジオからの番組
+
+<!-- end list -->
+
+  - [CROSS POWER CAST](https://ja.wikipedia.org/wiki/CROSS_POWER_CAST "wikilink") - 月曜～金曜 11:00～15:00
+  - [CATEGORY T.T.](https://ja.wikipedia.org/wiki/CATEGORY_T.T. "wikilink") - 月曜～金曜 16:00～19:00
+  - [COUNTDOWN KYUSHU HOT 100](https://ja.wikipedia.org/wiki/COUNTDOWN_KYUSHU_HOT_100 "wikilink") - 日曜 11:00～14:45
+  - [信川スポーツ](https://ja.wikipedia.org/wiki/信川スポーツ "wikilink") - 日曜 19:00～21:00
+
+## 外部リンク
+
+  - [クロサタX](http://www.crossfm.co.jp/clg/cs.php)
+  - [HENO HENO](http://heno.biz/blog/) - 麺の達人「への」が管理するブログ
+
+[Category:CROSS_FMの番組](https://ja.wikipedia.org/wiki/Category:CROSS_FMの番組 "wikilink") [Category:JFL系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組の歴史 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")

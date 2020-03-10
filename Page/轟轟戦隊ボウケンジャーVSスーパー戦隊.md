@@ -1,0 +1,207 @@
+> この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
+
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong><a href="../Page/スーパー戦隊Vシネマ.md" title="wikilink">スーパー戦隊Vシネマ</a></strong><br />
+VSシリーズ</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>第12作</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>第13作</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>第14作</strong></p></td>
+</tr>
+</tbody>
+</table>
+
+『**轟轟戦隊ボウケンジャーVSスーパー戦隊**』は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月9日](../Page/3月9日.md "wikilink")に発売されたオリジナルビデオ作品。『[轟轟戦隊ボウケンジャー](https://ja.wikipedia.org/wiki/轟轟戦隊ボウケンジャー "wikilink")』のオリジナルビデオ作品であり、スーパー戦隊VSシリーズの一つ。
+
+## 概要
+
+[スーパー戦隊Vシネマ](../Page/スーパー戦隊Vシネマ.md "wikilink")第13作。スーパー戦隊30作記念作の締めくくりとして、本作は『[百獣戦隊ガオレンジャーVSスーパー戦隊](https://ja.wikipedia.org/wiki/百獣戦隊ガオレンジャーVSスーパー戦隊 "wikilink")』同様、現役戦隊と歴代戦隊選抜メンバーの共演を描いた。今作では『ハリケンジャー』から『マジレンジャー』までの4戦隊から選抜された戦士達とボウケンジャーが共闘する。登場する歴代戦士は、ハリケンブルー（『[忍風戦隊ハリケンジャー](../Page/忍風戦隊ハリケンジャー.md "wikilink")』）、アバレブラック（『[爆竜戦隊アバレンジャー](../Page/爆竜戦隊アバレンジャー.md "wikilink")』）、デカブレイク（『[特捜戦隊デカレンジャー](https://ja.wikipedia.org/wiki/特捜戦隊デカレンジャー "wikilink")』）、マジイエロー、マジシャイン（『[魔法戦隊マジレンジャー](https://ja.wikipedia.org/wiki/魔法戦隊マジレンジャー "wikilink")』）の5名。さらに本作オリジナルの戦士・アカレッドが登場。
+
+本作ではこれまでのスーパー戦隊Vシネマとは異なり、通常戦隊シリーズ中盤で加入する6人目の戦士（高丘映士 / ボウケンシルバー）から見た視点で描かれているのも大きな特徴である。また戦闘シーンもレッドコンビ（アカレッド＆ボウケンレッド）、男性戦士チーム（アバレブラック、マジイエロー、ボウケンブラック、ボウケンブルー）、女性戦士チーム（ハリケンブルー、ボウケンイエロー、ボウケンピンク）、6人目チーム（デカブレイク、マジシャイン、ボウケンシルバー）に戦隊メンバーもチーム分けされて敵幹部軍団と戦闘した。
+
+敵側も再生された敵幹部として、ツエツエ（『[ガオレンジャー](../Page/百獣戦隊ガオレンジャー.md "wikilink")』）、フラビージョ（『ハリケンジャー』）、メーミィ（『マジレンジャー』）が登場。フラビージョが戦隊シリーズに登場するのはこれで4作品目になる。爆竜ブラキオサウルスも登場しているが、オリジナルキャスト（[銀河万丈](../Page/銀河万丈.md "wikilink")）の声の出演は無かった。『ボウケンジャー』レギュラーの敵組織で登場したのはゴードム文明のガジャだけで、その他の敵キャラクターは登場しない。オリジナルロボとして、ダイボイジャーに追加パーツを配したバーニングレジェンドダイボイジャーが登場する。
+
+DVD版のデザインギャラリーにて本編にも登場した「スーパー戦隊住所録」の各戦士のページを閲覧することが可能で、『ハリケンジャー』から『マジレンジャー』の主な事件の時系列を知ることが出来る。なお、恐竜やの設定も健在である。特に、時期が不明瞭だったVシネマや劇場版の時系列が確認できるが、『アバレンジャーVSハリケンジャー』のように、辻褄が合わない場合も存在する。
+
+『[轟轟戦隊ボウケンジャー](https://ja.wikipedia.org/wiki/轟轟戦隊ボウケンジャー "wikilink")』の本放送では[ハイビジョンでの放送だったが](https://ja.wikipedia.org/wiki/16:9 "wikilink")、本作は通常の[4:3での収録となっている](https://ja.wikipedia.org/wiki/標準画質映像 "wikilink")。本シリーズのハイビジョンでの制作は、次作『ゲキレンジャーVSボウケンジャー』からとなる。
+
+本作はタイトルバックはないものの、[前作](https://ja.wikipedia.org/wiki/魔法戦隊マジレンジャーVSデカレンジャー "wikilink")、[前々作では存在しなかったオープニングテーマが復活し](https://ja.wikipedia.org/wiki/特捜戦隊デカレンジャーVSアバレンジャー "wikilink")、オープニングナレーションは本作オリジナルとなっている（これは[次作も同様](https://ja.wikipedia.org/wiki/獣拳戦隊ゲキレンジャーVSボウケンジャー "wikilink")）。
+
+[中川幸太郎](https://ja.wikipedia.org/wiki/中川幸太郎 "wikilink")の本編音楽に加え、BGM「対決」 とエンディングテーマ「伝説」（後者の歌唱は[串田アキラ](https://ja.wikipedia.org/wiki/串田アキラ "wikilink")・[宮内タカユキ](https://ja.wikipedia.org/wiki/宮内タカユキ "wikilink")・[MoJo](https://ja.wikipedia.org/wiki/MoJo "wikilink")、作詞は[會川昇](https://ja.wikipedia.org/wiki/會川昇 "wikilink")）の作・編曲で[渡辺宙明](../Page/渡辺宙明.md "wikilink")が参加。スーパー戦隊Vシネマで初めて、サウンドトラックCDが発売された。
+
+## あらすじ
+
+いつものようにゴードム文明と戦うボウケンジャーの5人。しかし、大神官ガジャと手を組んだ**時の魔人クロノス**によって、異空間に飛ばされてしまう。1人残された高丘映士（ボウケンシルバー）の前に、**アカレッド**が現れる。単独ではクロノスにかなわないというアカレッドの助言に従い、映士は先輩戦士たちの元へ向かう。
+
+先輩戦士たちと共にクロノスへ立ち向かうボウケンシルバーだったが、その連携は全くのバラバラ。クロノスたちに苦戦する。しかし、映士とボウケンジャーの仲間との絆を知った彼らは改めて団結する。一方、クロノスは歴代の悪の幹部を復活させることで、ある陰謀を進めていた。
+
+## 登場キャラクター
+
+『[轟轟戦隊ボウケンジャー](https://ja.wikipedia.org/wiki/轟轟戦隊ボウケンジャー "wikilink")』の登場キャラクターについては、[轟轟戦隊ボウケンジャーの登場人物](../Page/轟轟戦隊ボウケンジャーの登場人物.md "wikilink")を参照。ゲストキャラクターについては各リンク先を参照。
+
+  - ゲストキャラクター
+
+<!-- end list -->
+
+  - [野乃七海 / ハリケンブルー](https://ja.wikipedia.org/wiki/忍風戦隊ハリケンジャー#野乃七海 "wikilink")
+  - [アスカ / アバレブラック](https://ja.wikipedia.org/wiki/爆竜戦隊アバレンジャー#アスカ "wikilink")
+  - [姶良鉄幹 / デカブレイク](https://ja.wikipedia.org/wiki/特捜戦隊デカレンジャーの登場人物#姶良鉄幹 "wikilink")
+  - [小津翼 / マジイエロー](https://ja.wikipedia.org/wiki/魔法戦隊マジレンジャーの登場人物#小津翼 "wikilink")
+  - [ヒカル / マジシャイン](https://ja.wikipedia.org/wiki/魔法戦隊マジレンジャーの登場人物#ヒカル "wikilink")
+  - [ツエツエ](https://ja.wikipedia.org/wiki/百獣戦隊ガオレンジャー#ツエツエ "wikilink")
+  - [フラビージョ](https://ja.wikipedia.org/wiki/忍風戦隊ハリケンジャー#フラビージョ "wikilink")
+  - [メーミィ](https://ja.wikipedia.org/wiki/魔法戦隊マジレンジャーの登場人物#メーミィ "wikilink")
+
+### オリジナルキャラクター
+
+  - アカレッド
+    全身真紅の謎の戦士で赤の魂を受け継ぐ者。初めて映士の前に現れた際は「**スーパー戦隊 アカレッド**」と名乗り、「戦隊のリーダーたる赤の戦士達の、平和への願いより生まれし者」と自己紹介した。時の魔神クロノスによって異空間に閉じ込められたボウケンジャーを救うため、ただ1人残った映士にスーパー戦隊住所録を渡して先輩戦士たちの力を借りるよう助言する。
+    「**ソウル降臨\!（戦士名）\!**」の後のコールで偉大なる戦士の魂を宿すことで歴代のレッド系戦士の姿に変化することが可能で劇中ではガオレッドとマジレッドになって敵と戦い、ハリケンレッド、アバレッド、デカレッドは名乗りの際に一瞬だけ変身したのみだが、設定上はアカレンジャー～タイムレッドにも変身可能。また、左胸の「30th ANNIVERSARY」マークから歴代レッドの武器を取り出すことも出来、劇中ではティラノロッドを自ら使用し、ボウケンレッドにハヤテ丸とディーマグナムを貸し与えた。
+    それから4年後に放送された35作記念作品の『[海賊戦隊ゴーカイジャー](https://ja.wikipedia.org/wiki/海賊戦隊ゴーカイジャー "wikilink")』では**キャプテン・マーベラス/ゴーカイレッド**が所属していた「赤き海賊団」のリーダーとして登場。スーツのデザインは基本的に本作と同様だが、左胸のマークの数字が35に変更され、ベルトのバックルにVが追加されている他、ゴーカイジャーの武器であるゴーカイサーベルとゴーカイガンを武器として所持している。ゲスト出演の暁（ボウケンレッド）がこの名をつぶやいたことから同一人物であることが伺える。
+    さらに5年後の40作記念作品『[動物戦隊ジュウオウジャー](https://ja.wikipedia.org/wiki/動物戦隊ジュウオウジャー "wikilink") Blu-ray COLLECTION』の映像特典である『動物戦隊ジュウオウジャー スーパー動物大戦』にも登場。左胸のマークの数字が40、ベルトのバックルのVがXに変更されている。
+    元々はシリーズ30作目を記念しての宣伝用キャラクターとして企画されたものだったが、「現行戦隊であるボウケンジャーの存在感が薄くなる」として一度お蔵入り。その後、本作の企画が立ち上がったことで再利用された\[1\]。
+    『[炎神戦隊ゴーオンジャー](https://ja.wikipedia.org/wiki/炎神戦隊ゴーオンジャー "wikilink")』GP-39「郷愁ノコドモ」に登場した害気目蛮機獣ヤタイバンキの胴体に付けられたお面の中に、彼の顔のお面が確認できる。後に『スーパー戦隊VSシリーズ劇場』にて「ハイド（ゴセイブルー）の変身」という形で登場している。
+    なお、前述の『スーパー動物大戦 第1話』でセラ/ジュウオウシャークの「アカレッドがいるってことはアオブルーもいるの？」の発言に対し、「アオブルーはいない。アカブルーだ！」と答えている。
+  - 時の魔神クロノス
+    ガジャからゴードムエンジン3つを受け取り、それらと砂時計と自らの特殊能力とを合わせて、メーミィ、ツエツエ、フラビージョを邪悪な巫女として復活させ、三人のパワーを合体させてプレシャス・三賢者の杖（ハザードレベル：666）の効果でパワーアップして巨大化する。その過程で映士を除くボウケンジャーやヒカルらを異空間に閉じ込める。ヒカルによればこの空間は（『マジレンジャー』本編でたびたび使用された）マルデヨーナ世界のようなものでいつ崩壊してもおかしくない不安定な世界とのこと。
+    当初は『ボウケンジャーVSマジレンジャー』として企画が進んでいたため、等身大時は『[魔法戦隊マジレンジャー](https://ja.wikipedia.org/wiki/魔法戦隊マジレンジャー "wikilink")』の冥獣人としてデザインされている\[2\]\[3\]。巨大化後に装備した鎧は時間に関するものという繋がりで『[未来戦隊タイムレンジャー](../Page/未来戦隊タイムレンジャー.md "wikilink")』のプロバイダスをモチーフとしている\[4\]。
+
+## 装備・戦力
+
+  - ピンクイエローフルスロットルクラッシュ
+    ボウケンイエローとボウケンピンクがハリケンブルーの肩を踏み台にしてジャンプ、2人で同時にサバイブレードで垂直斬りを繰り出す技。
+  - ブラックハンマーノック
+    ボウケンブラックの技。落ちてくる敵を横スイングで殴り飛ばす。
+  - ブルーフライングヒット
+    ボウケンブルーの技。敵に飛びかかり、敵を掴んで浮遊しながら壁に叩き付ける。
+  - スーパー戦隊ボール
+    ボウケンシルバー・アカレッド・4人の先輩戦士によるボール型爆弾を使用した必殺技。
+  - バーニングレジェンドダイボイジャー
+    「希望」「愛」「勇気」「正義」「情熱」「友情」のスーパー戦隊魂の力をアカレッドに集結し、ダイボイジャーが新たな強化パーツを合体させた姿。炎の拳で叩き付ける**ダブルファイヤーパンチ**や30戦隊の魂で敵を討つ**30thスーパー戦隊ソウル**などの技を使う。
+    当初は『[魔法戦隊マジレンジャー](https://ja.wikipedia.org/wiki/魔法戦隊マジレンジャー "wikilink")』に登場するマジレジェンドとの魔法合体を想定してデザインされていたと当時のインタビューで語られている。名前に「レジェンド」と付くのはその名残である。
+
+## スタッフ
+
+  - 製作：テレビ朝日、東映ビデオ、東映、東映エージエンシー
+  - 原作：八手三郎、石ノ森章太郎
+  - プロデュース：八木征志（テレビ朝日）、[日笠淳](https://ja.wikipedia.org/wiki/日笠淳 "wikilink")・[宇都宮孝明](https://ja.wikipedia.org/wiki/宇都宮孝明 "wikilink")（東映）、加藤和夫（東映ビデオ）、矢田晃一（東映エージエンシー）
+  - 脚本：[大和屋暁](https://ja.wikipedia.org/wiki/大和屋暁 "wikilink")
+  - 音楽：[中川幸太郎](https://ja.wikipedia.org/wiki/中川幸太郎 "wikilink")、[渡辺宙明](../Page/渡辺宙明.md "wikilink")
+  - 音楽プロデューサー：前山寛邦（コロムビア・ミュージック・エンタテイメント）
+  - 撮影：[松村文雄](https://ja.wikipedia.org/wiki/松村文雄 "wikilink")
+  - 計測：[岩崎智之](https://ja.wikipedia.org/wiki/岩崎智之 "wikilink")
+  - 助監督：[加藤弘之](https://ja.wikipedia.org/wiki/加藤弘之_\(テレビドラマ監督\) "wikilink")
+  - 監督助手：大峯靖弘、須上和泰、田中孝典
+  - ガンエフェクト：近藤佳徳
+  - ボクシング指導：渡邊昌宏（ジャパンアクションエンタープライズ）
+  - プロデューサー補：[大森敬仁](https://ja.wikipedia.org/wiki/大森敬仁 "wikilink")、泉谷裕
+  - アクション監督：[石垣広文](https://ja.wikipedia.org/wiki/石垣広文 "wikilink")（[ジャパンアクションエンタープライズ](https://ja.wikipedia.org/wiki/ジャパンアクションエンタープライズ "wikilink")）、[新堀和男](https://ja.wikipedia.org/wiki/新堀和男 "wikilink")
+  - 特撮監督：[佛田洋](https://ja.wikipedia.org/wiki/佛田洋 "wikilink")
+  - 監督：[渡辺勝也](https://ja.wikipedia.org/wiki/渡辺勝也 "wikilink")
+
+## キャスト
+
+  - 明石暁 / ボウケンレッド（声） - [高橋光臣](https://ja.wikipedia.org/wiki/高橋光臣 "wikilink")
+  - 伊能真墨 / ボウケンブラック（声） - [齋藤ヤスカ](https://ja.wikipedia.org/wiki/齋藤ヤスカ "wikilink")
+  - 最上蒼太 / ボウケンブルー（声） - [三上真史](https://ja.wikipedia.org/wiki/三上真史 "wikilink")
+  - 間宮菜月 / ボウケンイエロー（声） - [中村知世](https://ja.wikipedia.org/wiki/中村知世 "wikilink")
+  - 西堀さくら / ボウケンピンク（声） - [末永遥](../Page/末永遥.md "wikilink")
+  - 高丘映士 / ボウケンシルバー（声） - [出合正幸](https://ja.wikipedia.org/wiki/出合正幸 "wikilink")
+  - 野乃七海 / ハリケンブルー（声） - [長澤奈央](https://ja.wikipedia.org/wiki/長澤奈央 "wikilink")
+  - アスカ / アバレブラック（声） - [阿部薫](https://ja.wikipedia.org/wiki/阿部薫_\(俳優\) "wikilink")
+  - 姶良鉄幹 / デカブレイク（声） - [吉田友一](https://ja.wikipedia.org/wiki/吉田友一 "wikilink")
+  - 小津翼 / マジイエロー（声） - [松本寛也](https://ja.wikipedia.org/wiki/松本寛也 "wikilink")
+  - ヒカル / マジシャイン（声） - [市川洋介](https://ja.wikipedia.org/wiki/市川洋介 "wikilink")
+  - 牧野森男 - [斉木しげる](https://ja.wikipedia.org/wiki/斉木しげる "wikilink")
+  - 大神官ガジャ - [大高洋夫](https://ja.wikipedia.org/wiki/大高洋夫 "wikilink")
+  - 再生ツエツエ - [斉藤レイ](https://ja.wikipedia.org/wiki/斉藤レイ "wikilink")
+  - 再生フラビージョ - [山本梓](https://ja.wikipedia.org/wiki/山本梓 "wikilink")
+
+### 声の出演
+
+  - アカレッド - [古谷徹](../Page/古谷徹.md "wikilink")
+  - ミスター・ボイス - [田中信夫](https://ja.wikipedia.org/wiki/田中信夫 "wikilink")
+  - 大剣人ズバーン - [堀秀行](https://ja.wikipedia.org/wiki/堀秀行 "wikilink")
+  - 魔法猫スモーキー - [草尾毅](../Page/草尾毅.md "wikilink")
+  - 時の魔神クロノス - [緒方文興](https://ja.wikipedia.org/wiki/緒方文興 "wikilink")
+  - 再生メーミィ - [高戸靖広](https://ja.wikipedia.org/wiki/高戸靖広 "wikilink")
+  - ナレーション - [太田真一郎](https://ja.wikipedia.org/wiki/太田真一郎 "wikilink")
+
+### スーツアクター
+
+  - ボウケンレッド\[5\] - [福沢博文](https://ja.wikipedia.org/wiki/福沢博文 "wikilink")
+  - ボウケンブラック、マジイエロー、レジェンドマジイエロー - [今井靖彦](https://ja.wikipedia.org/wiki/今井靖彦 "wikilink")
+  - ボウケンブルー - [竹内康博](https://ja.wikipedia.org/wiki/竹内康博 "wikilink")
+  - ボウケンイエロー - [蜂須賀祐一](https://ja.wikipedia.org/wiki/蜂須賀祐一 "wikilink")
+  - ボウケンピンク - [中川素州](https://ja.wikipedia.org/wiki/中川素州 "wikilink")
+  - ボウケンシルバー - [日下秀昭](https://ja.wikipedia.org/wiki/日下秀昭 "wikilink")
+  - アカレッド\[6\] - [矢部敬三](https://ja.wikipedia.org/wiki/矢部敬三 "wikilink")
+  - [甲斐将馬](https://ja.wikipedia.org/wiki/甲斐将馬 "wikilink")
+  - 大剣人ズバーン - [清家利一](../Page/清家利一.md "wikilink")
+  - ハリケンブルー - [小野友紀](https://ja.wikipedia.org/wiki/小野友紀 "wikilink")
+  - アバレブラック - [縄田雄哉](../Page/縄田雄哉.md "wikilink")
+  - デカブレイク - [大岩永徳](https://ja.wikipedia.org/wiki/永徳_\(俳優\) "wikilink")
+  - マジイエロー - [大林勝](https://ja.wikipedia.org/wiki/大林勝 "wikilink")
+  - アルティメットダイボウケン、ボウケンシルバー、マジシャイン - [岡元次郎](https://ja.wikipedia.org/wiki/岡元次郎 "wikilink")
+  - [村岡弘之](https://ja.wikipedia.org/wiki/村岡弘之 "wikilink")
+  - [佐藤賢一](../Page/佐藤賢一_\(俳優\).md "wikilink")
+  - [末野卓磨](https://ja.wikipedia.org/wiki/末野卓磨 "wikilink")
+  - [三住敦洋](https://ja.wikipedia.org/wiki/三住敦洋 "wikilink")
+  - [神尾直子](https://ja.wikipedia.org/wiki/神尾直子 "wikilink")
+
+## 音楽
+
+  - 主題歌
+
+:; オープニングテーマ「[轟轟戦隊ボウケンジャー](https://ja.wikipedia.org/wiki/轟轟戦隊ボウケンジャー/冒険者_ON_THE_ROAD "wikilink")」
+
+:: 作詞：[岩里祐穂](https://ja.wikipedia.org/wiki/岩里祐穂 "wikilink") / 作曲：[山田信夫](https://ja.wikipedia.org/wiki/山田信夫_\(歌手\) "wikilink") / 編曲：[京田誠一](https://ja.wikipedia.org/wiki/京田誠一 "wikilink") / 歌：[NoB](https://ja.wikipedia.org/wiki/山田信夫_\(歌手\) "wikilink")
+
+:; エンディングテーマ「伝説」
+
+  -
+
+      -
+        作詞：[會川昇](https://ja.wikipedia.org/wiki/會川昇 "wikilink") /作・ 編曲：[渡辺宙明](../Page/渡辺宙明.md "wikilink") / 歌：[串田アキラ](https://ja.wikipedia.org/wiki/串田アキラ "wikilink")・[宮内タカユキ](https://ja.wikipedia.org/wiki/宮内タカユキ "wikilink")・[MoJo](https://ja.wikipedia.org/wiki/MoJo "wikilink")
+
+  - 挿入歌
+
+:; 「Start up\! 〜絆〜」
+
+  -
+
+      -
+        作詞・作曲：山田信夫 / 編曲：[岩崎貴文](https://ja.wikipedia.org/wiki/岩崎貴文 "wikilink") / 歌：NoB
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  -
+  -
+  -
+  -
+## 関連項目
+
+  - [海賊戦隊ゴーカイジャー](https://ja.wikipedia.org/wiki/海賊戦隊ゴーカイジャー "wikilink") - 本作オリジナルキャラクターのアカレッドが登場する。
+
+[Category:スーパー戦隊シリーズのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:スーパー戦隊シリーズのクロスオーバー作品 "wikilink") [Category:スーパー戦隊Vシネマ](https://ja.wikipedia.org/wiki/Category:スーパー戦隊Vシネマ "wikilink") [Category:巨大ロボットを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材とした映画作品 "wikilink") [Category:轟轟戦隊ボウケンジャー](https://ja.wikipedia.org/wiki/Category:轟轟戦隊ボウケンジャー "wikilink")
+
+1.  [スーパー戦隊VSシリーズ劇場 BATTLE-26 轟轟戦隊ボウケンジャーVSスーパー戦隊（前編）](http://www.toei.co.jp/tv/sentaivs/story/1193770_1753.html)
+2.  DVDのアートギャラリー。
+3.
+4.
+5.
+6.

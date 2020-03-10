@@ -1,0 +1,135 @@
+> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+
+
+**ドランクドラゴンのオールナイトニッポンR**（**どらんくどらごんのおーるないとにっぽんあーる**）とは[ニッポン放送](../Page/ニッポン放送.md "wikilink")の人気[深夜放送](../Page/深夜放送.md "wikilink")[オールナイトニッポンR](https://ja.wikipedia.org/wiki/オールナイトニッポンR "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[ドランクドラゴン](https://ja.wikipedia.org/wiki/ドランクドラゴン "wikilink")（[塚地武雅](https://ja.wikipedia.org/wiki/塚地武雅 "wikilink")、[鈴木拓](https://ja.wikipedia.org/wiki/鈴木拓 "wikilink")）。
+
+## 放送時間
+
+  - 初回は[芸人魂〜dead or alive〜内](https://ja.wikipedia.org/wiki/芸人魂〜dead_or_alive〜 "wikilink")（2004年11月19日金曜日）での放送
+  - 2006年2月3日金曜日27:00-29:00（2008年2月16日は1部）で[日本アカデミー賞](../Page/日本アカデミー賞.md "wikilink")スペシャルとして放送。
+
+毎月第1土曜日 27:00-29:00（日曜3:00-5:00）
+
+1.  2007年4月7日
+2.  2007年5月5日
+3.  2007年6月2日
+4.  2007年7月28日
+5.  2007年8月5日
+6.  2007年9月1日
+7.  2007年10月6日
+8.  2007年11月3日
+9.  2007年12月1日
+10. 2008年1月5日
+11. 2008年2月2日
+12. 2008年3月1日
+13. 2008年4月5日
+14. 2008年5月3日
+15. 2008年6月7日
+16. 2008年7月5日
+17. 2008年8月2日
+18. 2008年9月6日
+19. 2008年10月4日
+20. 2008年11月1日
+21. 2008年12月6日（最終回）
+
+※2007年7月7日に特別番組[Live Earthで休みだったため](https://ja.wikipedia.org/wiki/Live_Earth "wikilink")、2007年7月28日に代替放送を行い。翌週8月5日に[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")での公開収録（2007年8月3日収録）の模様を放送した(内容は2週連続で[27時間テレビ裏話](https://ja.wikipedia.org/wiki/FNS27時間テレビ#2007年 "wikilink"))。
+
+ニッポン放送の携帯サイトのコンテンツ「[オールナイトニッポンモバイル](https://ja.wikipedia.org/wiki/オールナイトニッポンモバイル "wikilink")」でも新録音の「ドランクドラゴンのオールナイトニッポンモバイル」が配信されている。
+
+2009年10月5日は本来のパーソナリティである[城田優](https://ja.wikipedia.org/wiki/城田優 "wikilink")がインフルエンザのため、[城田優のオールナイトニッポン](https://ja.wikipedia.org/wiki/城田優のオールナイトニッポン "wikilink")の代役として急遽放送(月曜25:00 - 27:00)
+
+## ネット局
+
+※全国21局ネットで放送
+
+  - 27:00 - 29:00
+    [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink") ・ [茨城放送](https://ja.wikipedia.org/wiki/茨城放送 "wikilink") ・ [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink") ・ [KBS京都](../Page/京都放送.md "wikilink") ・ [九州朝日放送](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")
+  - 27:00 - 28:30
+    ニッポン放送
+  - 27:00 - 28:00
+    [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink") ・ [山形放送](../Page/山形放送.md "wikilink") ・ [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") ・ [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink") ・ [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") ・ [中部日本放送](../Page/CBCラジオ.md "wikilink") ・ [和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink") ・ [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink") ・ [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink") ・ [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") ・ [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") ・ [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") ・ [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink") ・ [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") ・ [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
+
+## 出来事
+
+  - 2007年8月5日
+
+<!-- end list -->
+
+  - 富士急ハイランドでの公開録音の模様を放送。
+
+<!-- end list -->
+
+  - 2008年7月5日
+
+<!-- end list -->
+
+  - 初代ディレクター木村が卒業し、新ディレクターに就任。
+
+<!-- end list -->
+
+  - 2008年9月6日
+
+<!-- end list -->
+
+  - ゲストに[悲愴感](https://ja.wikipedia.org/wiki/悲愴感 "wikilink")メンバーが登場。しかしニッポン放送では、[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[アジアカップ関連の番組のため放送されなかった](https://ja.wikipedia.org/wiki/AFCアジアカップ "wikilink")。
+
+<!-- end list -->
+
+  - 2008年11月1日
+
+<!-- end list -->
+
+  - 『拓相談』のコーナーに、アポなしで鈴木の母親が電話出演。ダメな息子についてと、実家の居酒屋について相談をした。
+
+<!-- end list -->
+
+  - 2008年12月6日（最終回）
+
+<!-- end list -->
+
+  - 最終回総集編スペシャル。数々の問題発言を振り返る。最後は鈴木のキン肉マンのモノマネで終わった。
+
+## 現在のコーナー
+
+\*;鈴木拓改造計画 ラジオ以外では活躍できない鈴木拓が、他のメディアで活躍できる方法を考えるコーナー。
+
+\*;レインボーボイス鈴木 『鈴木拓改造計画』から派生。七色の声を持つ鈴木拓に言ってもらいたいセリフを送る。このコーナーで鈴木がキン肉マンの声（神谷明）に、そっくりなことが分かった。
+
+\*;すずたんのニックネーム 鈴木拓のニックネームを考えるコーナー。鈴木への悪口をもじったものが多い。
+
+\*;拓相談 お悩み相談コーナー。名目上は鈴木が答えることになっているが、実際は塚地が答えていることが多い。
+
+\*;日本ぬかし話（4:30以降〜） 抜きやすい妄想話を紹介するコーナー。
+
+## 終了したコーナー
+
+\*;拓争論 鈴木拓が現代のキーワードを解説するコーナー。珍回答しか得られなかったため、10月から『拓相談』へ移行。
+
+\*;鈴木拓 the movie ドラマ出演の多い塚地に対抗して、鈴木拓にピッタリの映画、役柄を考えるコーナー。
+
+\*;濡れる拓語辞典 鈴木拓が言ってもモテそうな言葉を送ってもらう。
+
+\*;声の拓急便 ラジオを使って届けたい言葉や手紙を鈴木拓に読んでもらうコーナー。
+
+\*;オツなもんですな リスナーがオツなAVを紹介するコーナー。一部マニアに大好評だったが、お偉いさんに怒られたらしく終了。
+
+\*;すずたん語 『改造計画』から生まれた、しょこたん語に続く、鈴木拓発の言葉＝すずたん語を作るコーナー。鈴木が全然使わないため終了。
+
+## スタッフ
+
+  - 初代ディレクター 木村
+      - 2007年のオールナイトニッポン武道館でオープニングに登場。鈴木とケンカするVTRが流れた。
+      - 2008年7月に新ディレクターに交代（新ディレクターは不明）
+  - 構成作家 宮澤一彰(ソース [ライター集団Reezent](http://www12.ocn.ne.jp/~espresso/reezent/4p.html))
+      - かつて「ダビッツのメガネ」のペンネームでハガキ職人をしていた。
+
+## 関連項目
+
+  - [ニッポン放送番組一覧](https://ja.wikipedia.org/wiki/ニッポン放送番組一覧 "wikilink")
+  - [オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")
+  - オールナイトニッポンR・GAGナイト
+  - [オールナイトニッポンR スペシャルナイト](https://ja.wikipedia.org/wiki/オールナイトニッポンR_スペシャルナイト "wikilink")
+  - [ドランクドラゴンのドラゴンアワー](https://ja.wikipedia.org/wiki/ドランクドラゴンのドラゴンアワー "wikilink")
+  - ドランクドラゴンのドラゴンタイム
+
+[Category:オールナイトニッポンR](https://ja.wikipedia.org/wiki/Category:オールナイトニッポンR "wikilink")

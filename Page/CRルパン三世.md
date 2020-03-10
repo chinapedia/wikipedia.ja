@@ -1,0 +1,62 @@
+> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+
+
+**CRルパン三世**（シーアールルパンさんせい）は、[平和が開発](https://ja.wikipedia.org/wiki/平和_\(パチンコ\) "wikilink")・販売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")の[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")作の漫画・アニメ作品『[ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世 "wikilink")』とのタイアップ機である。本項では、[CR機](https://ja.wikipedia.org/wiki/CR機 "wikilink")版と同時に販売された[現金機](https://ja.wikipedia.org/wiki/現金機 "wikilink")版についても述べる。
+
+## 概要
+
+CR機デジパチの[確変による連チャンが](https://ja.wikipedia.org/wiki/確率変動 "wikilink")5回（合計80ラウンド）までと規制され、パチンコ新機種のリリースが減少する中、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月](../Page/11月.md "wikilink")に、『CRルパン三世K』・『CRルパン三世A』と現金機版の『ルパン三世V』が販売された。当時、タイアップ機はさほどメジャーな存在ではなかったが、一般に馴染み深いキャラクターを起用したことでそれまでパチンコを打たなかった新規客層の開拓にも貢献し、20万台を超える大ヒットを収める。また本機のヒットにより、他のメーカーからも漫画作品や著名人とのタイアップ機が大量に開発されることとなった。
+
+本機のヒットで平和にとってもルパン三世は看板キャラクター的存在となり、パチンコ・[パチスロ](../Page/パチスロ.md "wikilink")において同作のシリーズ作品を次々と輩出する契機となった。
+
+CR機デジパチの確変のリミット規制が実質撤廃されたことに合わせ、[1999年](../Page/1999年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")には、マイナーチェンジした『CRルパン三世X』と、現金機版『ルパン三世R』が販売されている。
+
+## スペック
+
+本シリーズの大当たり絵柄はいずれも0～9、[五ェ門](https://ja.wikipedia.org/wiki/石川五ェ門_\(ルパン三世\) "wikilink")、[不二子](https://ja.wikipedia.org/wiki/峰不二子 "wikilink")、[次元](https://ja.wikipedia.org/wiki/次元大介 "wikilink")、[ルパン](https://ja.wikipedia.org/wiki/ルパン三世_\(架空の人物\) "wikilink")。
+
+  - CRルパン三世K
+      - 出玉数 - 約2240個
+      - 賞球数 - 6＆10＆14
+      - 大当たり確率 - 1/330.5 → 1/73.4
+      - 確変割合 - 1/2（50%）
+      - 確変図柄 - 3、5、7、五ェ門、不二子、次元、ルパン
+      - リミット - 5回
+
+<!-- end list -->
+
+  - CRルパン三世A
+      - 出玉数 - 約2080個
+      - 賞球数 - 5＆10＆13
+      - 大当たり確率 - 1/296.5 → 1/98.8
+      - 確変割合 - 1/2（50%）
+      - 確変図柄 - 3、5、7、五ェ門、不二子、次元、ルパン
+      - リミット - 5回
+
+<!-- end list -->
+
+  - ルパン三世V
+      - 出玉数 約2000個
+      - 賞球数 5＆10＆13
+      - 大当たり確率 1/210.5
+      - 3・7・ルパンで150回、5・次元・五ェ門・不二子で80回、その他で50回の[時短](https://ja.wikipedia.org/wiki/時短_\(パチンコ\) "wikilink")
+
+<!-- end list -->
+
+  - CRルパン三世X
+      - 出玉数 約2240個
+      - 賞球数 5＆10＆14
+      - 大当たり確率 1/315.5 → 1/90.1
+      - 確変割合 - 1/2（50%）
+      - 確変図柄 3、5、7、五ェ門、不二子、次元、ルパン
+      - リミット - 20回
+
+<!-- end list -->
+
+  - ルパン三世R
+      - 出玉数 約2300個
+      - 賞球数 6＆10＆15
+      - 大当たり確率 1/230.5
+      - 3・7・ルパンで150回、5・五ェ門・不二子・次元で100回の時短
+
+[Category:平和_(パチンコ)](https://ja.wikipedia.org/wiki/Category:平和_\(パチンコ\) "wikilink") [Category:パチンコ機種](https://ja.wikipedia.org/wiki/Category:パチンコ機種 "wikilink") [Category:ルパン三世のゲーム作品](https://ja.wikipedia.org/wiki/Category:ルパン三世のゲーム作品 "wikilink")

@@ -1,0 +1,166 @@
+> この記事は[INOUI ID](https://ja.wikipedia.org/wiki/INOUI_ID)から翻訳されています。
+
+
+**INOUI ID**（インウイ アイディー）は、[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")からかつて発売されていた[化粧品](../Page/化粧品.md "wikilink")[ブランド](../Page/ブランド.md "wikilink")である。
+
+## 概要
+
+事実上の[インウイの後継ブランドである](https://ja.wikipedia.org/wiki/INOUI "wikilink")。それまでのインウイよりもさらに美意識の高い人にターゲットを絞り、資生堂カウンターや専門店の販売とは異なり、専用のカウンターを設けて販売していたが、販路が違ったためインウイID販売期間もインウイが並行販売された。なお、インウイのほうは2007年6月現在も販売中である（一部商品のみ）。
+
+新世代を生きる女性たちに向け、「それぞれの個性を活かして、化粧をもっと自由な気持ちで楽しんでもらう」がブランドコンセプトで、商品はすべてヘアメーキャップアーティストの[ディック・ページ](https://ja.wikipedia.org/wiki/ディック・ページ "wikilink")のプロデュースで開発されていた。パッケージデザインは信藤洋二が手掛け、[2003年](../Page/2003年.md "wikilink")には[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")（商品デザイン部門）に選ばれている\[1\]。商品はモード色が強いのが特徴である。また、従来のデパートの資生堂カウンターではなく、一部の大手デパートの専用カウンターのみで発売されていた。今後ディック・ページは、同じ資生堂の[ザ・メーキャップの商品プロデュースをするとのことである](https://ja.wikipedia.org/wiki/The_Makeup "wikilink")。
+
+## 歴史
+
+  - [2002年](../Page/2002年.md "wikilink")[8月](../Page/8月.md "wikilink")- 同月31日にインウイID最初の店舗が開店、発売。
+  - [2003年](../Page/2003年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")- 同月1日に最初の新色・新商品「シャドースティック」、「ケークライナーズ」発売。
+  - [2003年](../Page/2003年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")- 同月1日に新色・新商品「リップライナーペンシル」発売。
+  - [2003年](../Page/2003年.md "wikilink")[8月](../Page/8月.md "wikilink")- 同月1日に新色・新商品「シマリングパウダー」発売。
+  - [2003年](../Page/2003年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")- 同月15日に新商品「パウダーファンデーション」発売。
+  - [2003年](../Page/2003年.md "wikilink")[11月](../Page/11月.md "wikilink")- 同月21日に新色・新商品「リップグロス」、「メタリックライナーズ」発売。
+  - [2004年](../Page/2004年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")- 同月21日に新色発売。
+  - [2004年](../Page/2004年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")- 同月21日に新色・新商品「シェーディングパウダー」発売。
+  - [2004年](../Page/2004年.md "wikilink")[8月](../Page/8月.md "wikilink")- 同月21日に新色・新商品「リキッドアイライナー」、「ネールカラーうすめ液」発売。
+  - [2004年](../Page/2004年.md "wikilink")[11月](../Page/11月.md "wikilink")- 同月21日に「ウルトラミスト」新発売。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")- 同月21日に新色・新商品「カラーベース」発売。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")- 同月21日に新色・新商品「シマリングチークカラー(2)」発売。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月](../Page/8月.md "wikilink")- 同月21日に新色発売。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月](../Page/9月.md "wikilink")- 同月21日に「アイブライトナー」新発売。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")- 同月1日に「ボリュームマスカラ」新発売。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")- 同月21日に新色・新商品「リップスティック」発売。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")- 同月21日に新色発売。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月](../Page/6月.md "wikilink")- この辺りから[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")を中心に撤退がささやかれ始める。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月](../Page/8月.md "wikilink")- 同月25日に最後の新色発売。
+  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")- メーカーから撤退のアナウンスが発表。
+  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")- 同月30日の[札幌三越](https://ja.wikipedia.org/wiki/札幌三越 "wikilink")店をもって全ての[デパート](https://ja.wikipedia.org/wiki/デパート "wikilink")から撤退した。
+
+## 商品の発売順
+
+  - [2002年](../Page/2002年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")- インウイID発売。発売当時の製品は**「[発売当時の商品一覧](https://ja.wikipedia.org/wiki/INOUI_ID#発売当時の商品一覧 "wikilink")」**参考。
+
+<!-- end list -->
+
+  - [2003年](../Page/2003年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")- 最初の新色となるリップカラー（新6色）・ネールカラー（新5色）・新商品「シャドースティック」（10色）、「ケークライナーズ」、「マットローション」、「ウルトラマット」発売。
+  - [2003年](../Page/2003年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")- アイカラー（新3色）・ネールカラー（新5色）・新商品「リップライナーペンシル」（6色）発売。
+  - [2003年](../Page/2003年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")- アイカラー（新3色）・リップカラー（新6色）・新商品「シマリングパウダー」（3色）発売。
+  - [2003年](../Page/2003年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")- 新商品「パウダーファンデーション」（6色）
+  - [2003年](../Page/2003年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")- アイカラー（新2色）・ネールカラー（新2色）・新商品「リップグロス」（新3色）、「メタリックライナーズ」発売。
+  - [2004年](../Page/2004年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")- アイカラー（新2色）・リップカラー（新4色）・チークカラー（新2色）発売。
+  - [2004年](../Page/2004年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")- アイカラー（新2色）・リップグロス（新3色）・新商品「シェーディングパウダー」（新2色）発売。
+  - [2004年](../Page/2004年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")- アイカラー（新2色）・ネールカラー（新2色）・新商品「リキッドアイライナー」、「ネールカラーうすめ液」発売。
+  - [2004年](../Page/2004年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")- 「ウルトラミスト」新発売。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月21日](../Page/2月21日.md "wikilink") - アイカラー（新3色）・リップカラー（新6色）・ネールカラー（新4色）・新商品「カラーベース」（3色）発売。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")5月21日 - アイカラー（新2色）・アイライナーペンシル（新2色）・リップグロス（新3色）・新商品「シマリングチークカラー(2)」発売。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")8月21日- アイカラー（新3色）・アイライナーペンシル（新1色）リップカラー（新5色）・ネールカラー（4色）発売。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")- 「アイブライトナー」（3色）新発売。
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月1日](../Page/12月1日.md "wikilink") - 「ボリュームマスカラ」新発売。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月21日- アイカラー（新2色）・新商品「リップスティック」（20色）発売。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")5月21日- アイカラー（新2色）・リップグロス（新3色）発売。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月25日](../Page/8月25日.md "wikilink") - 最後の新色となるアイカラー（新2色）・リップスティック（新20色）発売。
+
+## かつて存在した商品
+
+### ベースメーキャップ
+
+  - クレンジングオイル
+  - クレンジングローション
+  - アイ＆リップカラーリムーバー
+  - ウルトラミスト
+  - シアーベース
+  - カラーベース
+  - マットローション
+  - モイストローション
+  - ウルトラマット
+  - ウルトラモイスト
+  - パウダーファンデーション
+  - マットファンデーション
+  - モイストファンデーション
+  - コンシーラー
+  - アイブライトナー
+  - ルースパウダー
+  - プレストパウダー
+  - シマリングパウダー
+  - シェーディングパウダー
+
+### ポイントメーキャップ
+
+  - アイカラー
+  - シャドースティック
+  - クリームライナーズ
+  - メタリックライナーズ
+  - アイライナーペンシル
+  - リキッドアイライナー
+  - マスカラ
+  - ボリュームマスカラ
+  - グロスマスカラ
+  - アイブローライナー
+  - アイブローカラー
+  - ケークライナーズ
+  - クリームフェースカラー
+  - スキンティンツ
+  - チークカラー
+  - シマリングチークカラー
+  - リップスティック
+  - リップカラー
+  - リップグロス
+  - リップティンツ
+  - リップライナーペンシル
+  - リップベース
+  - ネールカラー
+  - ネールカラーうすめ液
+  - ネールカラーリムーバー
+
+## 発売当時の商品一覧
+
+  - クレンジングオイル
+  - クレンジングローション
+  - アイ＆リップカラーリムーバー
+  - シアーベース
+  - モイストローション
+  - マットファンデーション　全6色
+  - モイストファンデーション　全6色
+  - コンシーラー　全3色
+  - ルースパウダー
+  - プレストパウダー
+  - アイカラー　全10色
+  - クリームライナーズ
+  - アイライナーペンシル　全5色
+  - マスカラ
+  - グロスマスカラ
+  - アイブローライナー　全4色
+  - クリームフェースカラー　全16色
+  - スキンティンツ
+  - チークカラー　全4色
+  - リップカラー　全30色
+  - リップティンツ
+  - リップベース
+  - ネールカラー　全20色
+  - ネールカラーリムーバー
+
+## かつて入っていたデパート
+
+  - 閉店が早い順（下順）
+
+<!-- end list -->
+
+  - [ジェイアール名古屋タカシマヤ](../Page/ジェイアール名古屋タカシマヤ.md "wikilink")（2002/8/31～2006/7/31）
+  - [池袋西武](../Page/西武百貨店.md "wikilink")（2002/8/31～2006/8/21）
+  - 福岡[岩田屋](../Page/岩田屋.md "wikilink")本店（～2006/8/22）
+  - [広島そごう](https://ja.wikipedia.org/wiki/そごう広島店 "wikilink")（～2006/8/27）
+  - 難波[高島屋](../Page/高島屋.md "wikilink")（2005/8/31～2006/10/15）
+  - [渋谷東急東横店](https://ja.wikipedia.org/wiki/東急百貨店東横店 "wikilink")（2004/9/30～2007/1/29）
+  - [神戸そごう](https://ja.wikipedia.org/wiki/そごう神戸店 "wikilink")（2002/9/7～2007/2/26）
+  - [新宿高島屋](../Page/タカシマヤタイムズスクエア.md "wikilink")（2003/9/27～2007/2/28）
+  - 梅田[大丸](../Page/大丸.md "wikilink")（2004/9/14～2007/3/27）
+  - [札幌三越](https://ja.wikipedia.org/wiki/札幌三越 "wikilink")（2003/3/4～2007/3/30）
+
+## 出典
+
+<references />
+
+## 外部リンク
+
+  - [フォーエバー、INOUI ID](http://www.daily-soleil.com/beautychronicle/inoui-id/) - 「daily soleil」（[2013年](../Page/2013年.md "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")付の記事）
+
+[Category:資生堂](https://ja.wikipedia.org/wiki/Category:資生堂 "wikilink") [Category:グッドデザイン賞](https://ja.wikipedia.org/wiki/Category:グッドデザイン賞 "wikilink") [Category:化粧品メーカー・ブランド](https://ja.wikipedia.org/wiki/Category:化粧品メーカー・ブランド "wikilink")
+
+1.

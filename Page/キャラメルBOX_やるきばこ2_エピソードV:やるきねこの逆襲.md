@@ -1,0 +1,136 @@
+> この記事は[BOX 2 V:](https://ja.wikipedia.org/wiki/BOX_2_V:)から翻訳されています。
+
+
+『**やるきばこ2 エピソードV:やるきねこの逆襲**』は、[キャラメルBOX](https://ja.wikipedia.org/wiki/キャラメルBOX "wikilink")より[2007年](../Page/2007年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")作品。
+『[キャラメルBOX やるきばこ](https://ja.wikipedia.org/wiki/キャラメルBOX_やるきばこ "wikilink")』に次ぐ**キャラメルBOX**ファンディスク第2弾。
+タイトルは映画『[スター･ウォーズ エピソード5 帝国の逆襲](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード5/帝国の逆襲 "wikilink")』のパロディである。
+(オフィシャルHPで配布された壁紙には｢YARUKIBAKO2 EPISODE V The Yarukineko Strikes Backs｣の表記がある)
+
+## コンテンツ
+
+  - ｢[処女はお姉さまに恋してる](https://ja.wikipedia.org/wiki/処女はお姉さまに恋してる "wikilink")｣ ミニシナリオ2本
+  - ｢[あえかなる世界の終わりに](https://ja.wikipedia.org/wiki/あえかなる世界の終わりに "wikilink")｣ ミニシナリオ2本
+  - ｢[終末少女幻想アリスマチック](../Page/終末少女幻想アリスマチック.md "wikilink")｣ ミニシナリオ2本+オマケ2本
+  - ｢[うつりぎ七恋天気あめ](https://ja.wikipedia.org/wiki/うつりぎ七恋天気あめ "wikilink")｣ ミニシナリオ1本
+  - オリジナルADV ｢深紅のチョコレート｣
+  - カードバトルゲーム ｢きゃらスタ\!?｣
+
+### 処女はお姉さまに恋してる
+
+おまけシナリオ (APPENDIX)。紫苑･貴子シナリオの後日談で瑞穂を含めた3人の大学進学後の話である。
+特に貴子シナリオでは、｢紫苑シナリオ以外では紫苑の婚約話はどうなったのか｣とのユーザーの声に対する解答が示されている。
+また、本作の約2ヶ月後に発売された小説版(｢乙女はお姉さまに恋してる 櫻の園のエトワール｣)との関連をうかがわせる記述もいくつか散在している。
+
+  - そして、そこに立つ者たちの肖像 (ポートレイト)
+  - 恋と愛の主題による変奏曲 (ヴァリエーション)
+
+### あえかなる世界の終わりに
+
+本編から一年後を舞台に、セドナを震撼させる大規模テロ事件を阻止しようとするなつめ達の活躍を、それぞれRipple･ひまわりをヒロインにした2バージョンで描いている。
+
+  - Coffin - Ripple編 -
+  - Coffin - ひまわり編 -
+
+### 終末少女幻想アリスマチック
+
+本編の後日談シナリオ2本+オマケ2本が収録されている。
+
+  - 南十字星 (サザンクロス)、漏剋の臺 (うてな)
+  - 夢幻劇･聖 (ひじ) る戀 (こい) の重荷
+
+### うつりぎ七恋天気あめ
+
+本編で攻略対象外だった文子を主人公にしたミニシナリオが収録されている。
+
+  - 文子編 ｢恋蛍｣
+
+### 深紅のチョコレート
+
+#### ストーリー
+
+#### キャラクター
+
+  - 森崎 春也 (もりさき はるや) / 魔力ランク : C
+
+<!-- end list -->
+
+  -
+    人虎の妖魔なのだが、外見は人間そのものらしい。
+
+<!-- end list -->
+
+  - 霧生 紅雪 (きりゅう べにゆき) ([声](../Page/声優.md "wikilink") : [由良香](https://ja.wikipedia.org/wiki/由良香 "wikilink")) / 魔力ランク : A
+
+<!-- end list -->
+
+  -
+    吸血鬼。 とある事情から夕月に連れられ、森崎家に同居する。
+
+<!-- end list -->
+
+  - 夕月(ゆうづき) (声 : [松永雪希](https://ja.wikipedia.org/wiki/松永雪希 "wikilink")) / 魔力ランク : 不明
+
+<!-- end list -->
+
+  -
+    森崎家のメイド。 とある事情から旅に出ていたが紅雪を連れて帰ってきた所から物語は始まる。
+
+<!-- end list -->
+
+  - 森崎 花凜 (もりさき かりん) (声 : [文月かな](https://ja.wikipedia.org/wiki/文月かな "wikilink")) / 魔力ランク : B
+
+<!-- end list -->
+
+  -
+    春也の義妹。 人虎の妖魔で”ある確率”を持って生まれた子。 虎の要素が強く尻尾と虎耳を持っている。
+
+<!-- end list -->
+
+  - 風祭 鳥子 (かざまつり とりこ) (声 : [木原泉](https://ja.wikipedia.org/wiki/木原泉 "wikilink")) / 魔力ランク : 不明
+
+<!-- end list -->
+
+  -
+    鳥の妖魔。 春也にアプローチをかけるもスルーされることが多い。
+
+<!-- end list -->
+
+  - 塚原 耀 (つかはら よう) (声 : [乃嶋架菜](https://ja.wikipedia.org/wiki/乃嶋架菜 "wikilink"))
+
+<!-- end list -->
+
+  -
+    唯一の人間。 妖魔の見張り役として派遣されている。
+
+#### 小ネタ
+
+  -
+    ストーリー中の英語の小テストの問題は今までの作品の台詞である。
+    例 : ある意味、笑われる方がよっぽど屈辱的です (処女はお姉さまに恋してる / 紫苑)
+
+#### スタッフ
+
+  - シナリオ：[森林彬](https://ja.wikipedia.org/wiki/森林彬 "wikilink")
+  - 原画：アマクラ
+
+### きゃらスタ\!?
+
+｢やるきばこ｣収録の｢きゃらばと\!｣に続く、キャラメルBOX作品に登場するキャラクターカードを用いた対戦型カードゲームである。オンラインでのユーザー対戦が可能であった。予めサーバにデッキを登録しておき、集計時間になるとランダムな相手と自動的に対戦が行われ、それ以降に対戦結果が見られる仕組み。勝敗数差によるランキングも表示された。このサービスは発売日から1年後の[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月20日](../Page/10月20日.md "wikilink")午前をもって終了した。
+
+## その他
+
+  - 初回版にはもはや恒例となった感のある絵本が同梱されている。タイトルは「長靴をはいたネコ」で、「大きい少年少女世界名作の森」のシリーズ第2巻となっている。内容は同名の物語「[長靴をはいたネコ](../Page/長靴をはいた猫.md "wikilink")」のパロディだが、挿絵は前回（「[うな天](https://ja.wikipedia.org/wiki/うつりぎ七恋天気あめ "wikilink")」初回特典）の「ももたろう」と同様[ヨダ](../Page/ヨダ.md "wikilink")ではなく[クロサキ](https://ja.wikipedia.org/wiki/クロサキ "wikilink")が担当している。
+  - 初回版のパッケージは従来通りの紙箱であるが、通常版のそれは「やるきばこ復刻版」同様のDVDトールケースとなっている。
+  - 収録作品のうち「終末少女幻想アリスマチック」には「なかまるコマンド」によるちょっとしたオマケがある。やり方は、「アリスマ」のタイトル画面でキーボードから「nkmr」と入力する。
+
+## 関連項目
+
+  - [キャラメルBOX やるきばこ](https://ja.wikipedia.org/wiki/キャラメルBOX_やるきばこ "wikilink")
+
+## 外部リンク
+
+  - [キャラメルBOX](http://www.caramel-box.com/)
+
+[en:Caramel Box Yarukibako\#Caramel Box Yarukibako 2](https://ja.wikipedia.org/wiki/en:Caramel_Box_Yarukibako#Caramel_Box_Yarukibako_2 "wikilink")
+
+[Category:キャラメルBOX](https://ja.wikipedia.org/wiki/Category:キャラメルBOX "wikilink") [Category:アダルトゲームのファンディスク](https://ja.wikipedia.org/wiki/Category:アダルトゲームのファンディスク "wikilink") [Category:2007年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2007年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink")

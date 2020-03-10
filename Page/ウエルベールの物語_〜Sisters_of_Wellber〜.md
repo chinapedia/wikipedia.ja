@@ -1,0 +1,427 @@
+> この記事は[ Sisters of Wellber](https://ja.wikipedia.org/wiki/_Sisters_of_Wellber)から翻訳されています。
+
+
+『**ウエルベールの物語 〜Sisters of Wellber〜**』（ウエルベールのものがたり シスターズ オブ ウエルベール）は、[トランス・アーツ](https://ja.wikipedia.org/wiki/トランス・アーツ "wikilink")制作（[Production I.G制作協力](../Page/プロダクション・アイジー.md "wikilink")）の日本の[深夜アニメ](https://ja.wikipedia.org/wiki/深夜アニメ "wikilink")作品。2007年4月より6月まで放送された（以降、2007年放送分を第一幕と呼称する）。また第二幕が2008年1月から3月まで放送された。第1部に新作カットも大量に盛り込んだディレクターズカット版「哀しみの戦士ガラハドの挽歌」がある。
+
+## 作品概要
+
+18世紀初頭の西洋社会に似た国に剣と魔法や妖精、蒸気機関のみならず内燃機関から重機関砲、あるいは人格機能まで持つ人工知能搭載のロボットマシンまでが存在する架空の世界を舞台に、性格・立場の違う美少女二人の友情と冒険譚を描く。
+
+## あらすじ
+
+### 第一幕
+
+小国ウエルベールのリタ王女は、戦争を避けるため大国サンガトラスのゲルニア王子と政略結婚するはずだったが、さる事情から王子をやむを得ず刺してしまう。折りしも偶然城内に忍びこんでいた女盗賊ティナと出会ったリタは共に城を脱出。憤慨したサンガトラス国王はリタの処刑を要求、指定の期限までに姫を確保せねば開戦も辞さないと申し入れてきた。
+
+こうして賞金を掛けられたリタは、ティナ、[妖精](../Page/妖精.md "wikilink")のシェリー、人工知能搭載戦車ジラノ・ド・ボルジュラックと共に、仲裁依頼の訴状を持って中立国グリーダムへ向かって逃亡の旅に出た。
+
+### 第二幕
+
+怒涛の旅にひとまずのケリをつけたティナは、かつて自分の両親を殺した“ 死神蜂の男 ”を本格的に捜す決意を固め、リタ姫もティナへの大恩を返すべく共に旅立つ。道中加勢したガラハドやジンとの恋愛が絡んだトラブルを乗り越えつつ、戦災から立ち直っていない各地の人々の苦悩を目撃しながら旅を続けた一行は、やがて“ 死神蜂の男 ”の衝撃的な正体と、再びウエルベールに迫る戦争の危機を知る。
+
+## 登場人物
+
+### ウエルベール国
+
+  - リタ・シオール
+    [声](../Page/声優.md "wikilink") - [高橋美佳子](https://ja.wikipedia.org/wiki/高橋美佳子 "wikilink")
+    本作の主人公。19歳（推定）。ウエルベール国の[王女](https://ja.wikipedia.org/wiki/王女 "wikilink")。やや桃色がかった赤毛のストレートロング。額には[王家](https://ja.wikipedia.org/wiki/王家 "wikilink")の者であるのを示す[刺青](https://ja.wikipedia.org/wiki/刺青 "wikilink")がある。
+    和平のため、已む無くサンガトラスの王子ゲルニアと[政略結婚](https://ja.wikipedia.org/wiki/政略結婚 "wikilink")することを承諾するも、婚約の段階でお忍びで会いにきたゲルニアを刺して重傷を負わせてしまう。自身の命を守るためと、事件仲裁のために中立国グリーダムへ訴状を届けるという命令を密かに受ける。世間知らずで、最初は自分で服を着替えることも出来なかったが、頭は切れる模様。王族として[護身術](https://ja.wikipedia.org/wiki/護身術 "wikilink")の心得がある。
+    ゲルニア王子暗殺事件の真相は、ゲルニアが彼の母への憎しみから青い目の女性を殺害し続けているという告白をリタにし、その後同じく青い目の持ち主であるリタを短刀で襲おうとしたために、咄嗟に刺してしまったというもの。なお自身の処刑日までに結局中立国グリーダムには辿りつけなかったものの、無事に開戦阻止という目的は果たした。
+  - ティナ・ローター
+    声 - [竹内順子](https://ja.wikipedia.org/wiki/竹内順子 "wikilink")
+    [盗賊](https://ja.wikipedia.org/wiki/盗賊 "wikilink")の少女。17歳（推定）。ある晩、ウエルベールの城に盗みに入ったところ、偶然リタがゲルニアを刺した場面に出くわし、駆けつけてきたガラハドにリタ共々追われることになる。そして、リタの旅にボディガードとしてついて行くことになった。得意武器は三銃身式の[ペッパーボックス](https://ja.wikipedia.org/wiki/ペッパーボックス "wikilink")拳銃。敵を撃つときは命を奪わない峰撃ちショットを多用する。幼い頃に[傭兵](../Page/傭兵.md "wikilink")に家族を殺され、盗賊となって生計を立てていた。家族の[敵](https://ja.wikipedia.org/wiki/敵 "wikilink")（かたき）である、死神蜂の[刺青](https://ja.wikipedia.org/wiki/刺青 "wikilink")をした傭兵を追っている。
+  - ジラノ・ド・ボルジュラック
+    声 - [チョー](../Page/チョー_\(俳優\).md "wikilink")
+    この世界の技術水準から見て驚異的な、各種センサーシステムのみならず人工知能まで搭載した小型[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")（ただし、走行装置は[履帯](https://ja.wikipedia.org/wiki/履帯 "wikilink")ではなく[車輪](../Page/車輪.md "wikilink")。[砲塔](https://ja.wikipedia.org/wiki/砲塔 "wikilink")もなく、全兵装は前方固定型の格納式）。
+    車体前部に騎士の[ヘルメット](../Page/ヘルメット.md "wikilink")が載っており、ここが動くことにより会話可能。一応[伯爵](../Page/伯爵.md "wikilink")の位を持っている。人工知能の機能を担う装置は30年前に病死した超天才発明家の力作でもあり、ウエルベール国軍人の無骨な壮年男子・ジラノの人格と魂を魔法的な手段によって移植している。ティナやシェリーは、階級などものともせず、「ボル爺」と呼ぶ。
+  - シェリー
+    声 - [仙台エリ](https://ja.wikipedia.org/wiki/仙台エリ "wikilink")
+    ティナの相棒の[小妖精](../Page/フェアリー.md "wikilink")。外見は薄緑の肌と緑の縦ロールを持つ全裸の少女。翼や翅の類は見当たらないが、空を飛ぶことができる。語尾に「-ベル」をつけて話す。
+  - ローデン・シオール
+    声 - [杉田智和](https://ja.wikipedia.org/wiki/杉田智和 "wikilink")
+    ウエルベール国の[王子](https://ja.wikipedia.org/wiki/王子 "wikilink")で、リタの兄。実戦面での勘のみならず決断と行動力に富む武人でもあり、ウエルベール征服をもくろむサンガトラスに強い敵意を抱いている。[水晶球](https://ja.wikipedia.org/wiki/水晶球 "wikilink")を使った占いができる。
+    開戦間際にサンガトラス国が巨大[戦艦](https://ja.wikipedia.org/wiki/戦艦 "wikilink")を建造していることを知り、自ら直接特殊工作員を率いて戦艦を爆破した。このことがサンガトラス国の戦力を大きく削ぐ結果となり、開戦中止に大きく貢献することとなった。なお、過去に重大な秘密があることをゲルニア王子にほのめかされ動揺する一幕もあった。胸に死神蜂の刺青を持つ。
+  - ハイデル・シオール
+    声 - [上別府仁資](https://ja.wikipedia.org/wiki/上別府仁資 "wikilink")
+    ウエルベール国王で、リタの父。表向きはサンガトラスの要求を呑み、ゲルニアを刺して逃亡したリタを[指名手配](https://ja.wikipedia.org/wiki/指名手配 "wikilink")する。しかし本心ではリタがグリーダムへ逃亡することを密かに望み、ヴァイスを通じてティナにリタの身を託した。慎重な性格だが、決断が遅く、息子のローデンからたびたび責められている。
+  - ヴァイス・エッジ
+    声 - [鶴岡聡](https://ja.wikipedia.org/wiki/鶴岡聡 "wikilink")
+    ウエルベール国に仕える武官でハイデル王の側近。ゲルニアを刺して逃亡したリタと密かに会い、共にグリーダムへ向かおうとするが、ガラハドに襲撃されて重傷を負ってしまい、やむなく盗賊のティナにリタと訴状を託す。
+  - ジン
+    声 - [寺島拓篤](https://ja.wikipedia.org/wiki/寺島拓篤 "wikilink")
+    ティナの相棒で恋人。ティナ同様、明朗快活で女性には優しいが、ティナと親しげな美男子（例えばガラハド）には敵意のこもった態度で接する。
+
+### サンガトラス国
+
+  - ゲルニア・ハン
+    声 - [楠田敏之](https://ja.wikipedia.org/wiki/楠田敏之 "wikilink")
+    サンガトラスの王子。30歳（推定）。リタの婚約者。ある意味、リタ姫とは対極的な存在として物語の鍵を握る人物。
+    本来は文武両道の心優しい少年だったが、愛する母が他の男と浮気している場面を見た彼は苦しみ、母を憎み、そして冷淡に接するあまり自殺に追い込んでしまう。以来、母と同様の青い目の女性を見ると女性への思慕と憎悪という両極端な感情からくるストレスに苛まれるようになり、それに耐え切れず目をつぶして殺したいという狂気に犯されるようになった。以後、人の愛情を信じることができない策略家に変貌。一夜を共にした女性を殺して顔を潰すなど[快楽殺人](https://ja.wikipedia.org/wiki/快楽殺人 "wikilink")的な嗜好の持ち主となった。
+    お忍びでリタに逢いにきたその夜も、自らの本性を明かして剣で脅したところを、護身術に長けたリタに逆に刺され重傷を負う。リタとは遠い親類関係（伯母がリタの叔父と夫婦）にあたる。国一番の剣士でもあり、旧来の体制を周辺諸国もろとも一掃し、より強大な理想の王国の建国を目論む大野心家でもある。リタに刺された後、青い目を持つ女性への憎しみが薄れたということで、彼女に一層惚れこむことに。リタの強い意思と行動力に惚れ込んでおり、本気で妻に娶ろうとする。ジャミルの仇としてガラハドに刺され、その後建物の倒壊に巻き込まれて死亡した。
+  - ガラハド・アイガー
+    声 - [浪川大輔](https://ja.wikipedia.org/wiki/浪川大輔 "wikilink")
+    ゲルニア・ハンに忠誠を誓う騎士。28歳（推定）。[料理人の息子として産まれた](https://ja.wikipedia.org/wiki/コック_\(職業\) "wikilink")。王国の二大精鋭部隊・黒獅子連隊の隊長で、ゲルニアとは幼馴染同士である。上官のジャミル・カエラと密かに愛を育んで来た。
+    ゲルニアがリタに刺された日、事件現場にいち早く急行する。そしてそのまま、ゲルニア王子暗殺未遂事件の犯人として、リタとティナの二人を独断で追跡する。その過程で彼は、リタの口から、彼女が正当防衛でゲルニアを刺したということ、またゲルニアがサンガトラス王国で起こっている連続殺人事件の犯人だということを知らされることに。彼はその真偽を確かめるべく、連続殺人事件の件をゲルニアに直接尋ねに行く。そしてゲルニアはあっさりと自分が連続殺人事件の犯人であることを認め、そのことは王をはじめ、自分の近しい部下なら周知のことだと言い放った。しかもその中に、自分にとって最愛のジャミルまでが含まれていた。それに衝撃を受けたガラハドは、誰も信じられなくなり、軍を去ることを決断した。
+    その後しばらくの間、彼を軍に連れ戻しにきた隻眼となったジャミルが現れるまでは、サンガトラス領の小さな村で静かに暮らしていた。彼の意思を無視して城に戻るようにと一方的に主張するジャミルと口論になり、彼女と銃で決闘をすることになった。決闘の末、彼はジャミルを撃ち殺してしまう。最期の瞬間に、彼女から左目はゲルニアに潰されたこと、そしてゲルニアの命令とはいえ、何度も青い目の女性を彼に献上していたことから、ゲルニアに連続殺人事件の共犯者扱いされ、苦しんでいたことを告白される。その後、ガラハドはゲルニア・ハンに復讐することを誓い、ティナとリタと共闘し、本懐を果たした。
+  - ジャミル・カエラ
+    声 - [甲斐田ゆき](../Page/甲斐田ゆき.md "wikilink")
+    王国の二大精鋭部隊・白獅子連隊の隊長。優れた銃の使い手である。ガラハドの上官で恋人である。長年に渡り、ゲルニア王子の命令を受け、青い目を持つ女性を街中から探し出しては、献上していた。そのことからゲルニア王子に連続殺人事件の共犯者呼ばわりされて、そのことにずっと苦しんでいた。脱走したガラハドを庇った際、二人の関係を知っているゲルニア王子に、ガラハドへの愛の証明を示せと左目を潰される。その後、ガラハドとの決闘の末、死亡する。
+  - ランバノフ・ハン
+    声 - [秋元羊介](../Page/秋元羊介.md "wikilink")
+    サンガトラス国王。ガラハドやジャミルのように若くとも才能あるものを取り立てたり、兵器開発指導も優秀で、優れた武人でもあるが、軍事力による勢力拡大を躊躇わない征服者でもある。その一方で後継者の王子の狂気がもたらす災禍に鈍感だった。その結果、第一幕の終盤に巨大戦艦と王子を失い、外交面での和解に応じながらも心からの怒りと憎悪でウエルベールへの復讐を誓うことになる。なお、第二幕において中立国であったはずのグリーダム国王から打倒ウエルベールの密謀を持ちかけられ、グリーダム国王の策略であることに気づかずに、打倒ウエルベールを目標に再度戦艦を建造する。
+
+## スタッフ
+
+  - 原作 - BOYAKASHA
+  - 監督 - [浜名孝行](https://ja.wikipedia.org/wiki/浜名孝行 "wikilink")
+  - シリーズ構成 - [前川淳](https://ja.wikipedia.org/wiki/前川淳_\(脚本家\) "wikilink")
+  - キャラクターデザイン - [飯塚晴子](https://ja.wikipedia.org/wiki/飯塚晴子 "wikilink")、高橋成之
+  - レイアウト監修・小物デザイン - 飯田宏義
+  - メカデザイン - [岩永悦宜](https://ja.wikipedia.org/wiki/岩永悦宜 "wikilink")（第二幕）
+  - 美術監督 - 明石聖子
+  - 撮影監督 - だいけんいち、齋藤昭裕
+  - CG監督 - 磯部兼士
+  - 色彩設計 - 赤間三佐子
+  - 編集 - 植松淳一
+  - 音響監督 - [平光琢也](https://ja.wikipedia.org/wiki/平光琢也 "wikilink")
+  - 音楽 - [土橋安騎夫](https://ja.wikipedia.org/wiki/土橋安騎夫 "wikilink")
+  - 製作 - [石川光久](https://ja.wikipedia.org/wiki/石川光久 "wikilink")、鈴木篤志
+  - アニメーション制作 - [トランス・アーツ](https://ja.wikipedia.org/wiki/トランス・アーツ "wikilink")
+  - 制作協力 - [Production I.G](../Page/プロダクション・アイジー.md "wikilink")
+  - 制作 - [メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")（第一幕のみ）
+  - 製作著作 - [avex entertainment](https://ja.wikipedia.org/wiki/avex_entertainment "wikilink")、Production I.G
+
+## 主題歌
+
+  - オープニングテーマ「Theme of Wellber」
+    作曲・編曲 - 土橋安騎夫（ZOOM FLICKER）
+  - 第一幕エンディングテーマ「絆 -eternal rainbow-」（第二幕第14話まで使用。）
+    作曲・編曲 - 土橋安騎夫 / 作詞 - [SAEKO](https://ja.wikipedia.org/wiki/日永沙絵子 "wikilink") / 演奏 - [E.O.D](https://ja.wikipedia.org/wiki/E.O.D "wikilink")（ZOOM FLICKER）
+  - 第二幕エンディングテーマ「End Of the Dream」（第15話〜）
+    作曲・編曲 - 土橋安騎夫 / 作詞 - SAEKO / 演奏 - E.O.D（ZOOM FLICKER）
+
+<!-- end list -->
+
+  - 「絆 -eternal rainbow-」は第二幕以降は挿入曲として使用されている（20・24話で使用）。
+
+## 各話リスト
+
+第一幕・第二幕ともに「〜の章」と言う形で統一されている。第二幕の話数は第一幕からの続きとなる。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話数</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>脚本</p></th>
+<th><p>絵コンテ</p></th>
+<th><p>演出</p></th>
+<th><p>作画監督</p></th>
+<th><p>総作画監督</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第一幕</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>始まりの章</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/前川淳_(脚本家)" title="wikilink">前川淳</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/浜名孝行" title="wikilink">浜名孝行</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/飯塚晴子" title="wikilink">飯塚晴子</a></p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>旅立ちの章</p></td>
+<td><p>松澤建一</p></td>
+<td><p>澤田譲治</p></td>
+<td><p>高橋成之</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>復讐の章</p></td>
+<td><p>坂井史世</p></td>
+<td><p>安藤貴史</p></td>
+<td><p>松浦仁美</p></td>
+<td><p>飯塚晴子</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>決意の章</p></td>
+<td><p>前川淳<br />
+奥原璃奈緒</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山田勝久" title="wikilink">山田健学</a></p></td>
+<td><p>安藤貴史</p></td>
+<td><p>浜森理宏</p></td>
+<td><p>高橋成之</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>脱出の章</p></td>
+<td><p>前川淳</p></td>
+<td><p>浜名孝行</p></td>
+<td><p>玉田博</p></td>
+<td><p>松岡秀明</p></td>
+<td><p>飯塚晴子</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>真実の章</p></td>
+<td><p>高橋順</p></td>
+<td><p>冨田収子</p></td>
+<td><p>高橋成之</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>追跡の章</p></td>
+<td><p>坂井史世</p></td>
+<td><p>松澤建一</p></td>
+<td><p>澤田譲治</p></td>
+<td><p>飯塚晴子</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>告白の章</p></td>
+<td><p>前川淳</p></td>
+<td><p>浜名孝行</p></td>
+<td><p>安藤貴史</p></td>
+<td><p>田畑昭</p></td>
+<td><p>高橋成之</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>決別の章</p></td>
+<td><p>山田健学</p></td>
+<td><p>玉田博</p></td>
+<td><p>松岡秀明</p></td>
+<td><p>飯塚晴子</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>絆の章</p></td>
+<td><p>坂井史世</p></td>
+<td><p>高橋順</p></td>
+<td><p>松浦仁美</p></td>
+<td><p>高橋成之</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>慟哭の章</p></td>
+<td><p>前川淳</p></td>
+<td><p>曙竜倶</p></td>
+<td><p>石田ひろし</p></td>
+<td><p>波風立流</p></td>
+<td><p>飯塚晴子</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>情念の章</p></td>
+<td><p>浜名孝行</p></td>
+<td><p>ながはまのりひこ</p></td>
+<td><p>渡辺るりこ</p></td>
+<td><p>高橋成之</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>血戦の章</p></td>
+<td><p>蔵本穂高</p></td>
+<td><p>冨田収子</p></td>
+<td><p>飯塚晴子</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第二幕</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>再会の章</p></td>
+<td><p>前川淳</p></td>
+<td><p>山田健学</p></td>
+<td><p>安藤貴史</p></td>
+<td><p>澤田譲治</p></td>
+<td><p>高橋成之</p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>疵跡の章</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/冨岡淳広" title="wikilink">冨岡淳広</a></p></td>
+<td><p>高橋順</p></td>
+<td><p>浜森理宏</p></td>
+<td><p>飯塚晴子</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p>秘密の章</p></td>
+<td><p>ハラダサヤカ</p></td>
+<td><p>松澤建一</p></td>
+<td><p>松浦仁美</p></td>
+<td><p>高橋成之</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p>傷心の章</p></td>
+<td><p>坂井史世</p></td>
+<td><p>見出洋</p></td>
+<td><p>玉田博</p></td>
+<td><p>松岡秀明</p></td>
+<td><p>飯塚晴子</p></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p>流転の章</p></td>
+<td><p>前川淳</p></td>
+<td><p>布施木一喜</p></td>
+<td><p>田畑昭</p></td>
+<td><p>高橋成之</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
+<td><p>抗争の章</p></td>
+<td><p>冨岡淳広</p></td>
+<td><p>山田建学</p></td>
+<td><p>蔵本穂高</p></td>
+<td><p>柄谷綾子<br />
+岡本真由美</p></td>
+<td><p>飯塚晴子</p></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+<td><p>別離の章</p></td>
+<td><p>ハラダサヤカ</p></td>
+<td><p>安藤貴史</p></td>
+<td><p>澤田譲治</p></td>
+<td><p>高橋成之</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>21</p></td>
+<td><p>追憶の章</p></td>
+<td><p>坂井史世</p></td>
+<td><p>山田建学</p></td>
+<td><p>松澤建一</p></td>
+<td><p>田畑昭<br />
+沼津雅人</p></td>
+<td><p>飯塚晴子</p></td>
+</tr>
+<tr class="even">
+<td><p>22</p></td>
+<td><p>死神蜂の章</p></td>
+<td><p>冨岡淳広</p></td>
+<td><p>田中一</p></td>
+<td><p>浜森理宏</p></td>
+<td><p>高橋成之</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>23</p></td>
+<td><p>暗殺の章</p></td>
+<td><p>前川淳</p></td>
+<td><p>布施木一喜</p></td>
+<td><p>松浦仁美</p></td>
+<td><p>飯塚晴子</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>24</p></td>
+<td><p>開戦の章</p></td>
+<td><p>浜名孝行</p></td>
+<td><p>蔵本穂高</p></td>
+<td><p>松岡秀明</p></td>
+<td><p>高橋成之</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>25</p></td>
+<td><p>天命の章</p></td>
+<td><p>安藤貴史</p></td>
+<td><p>飯塚晴子</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>26</p></td>
+<td><p>結実の章</p></td>
+<td><p>浜名孝行</p></td>
+<td><p>高橋成之</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 放送局
+
+| 放送地域                                                        | 放送局                                                                              | 放送期間                                                                                                                                                                   | 放送日時                                 | 放送区分                                                                        | 備考                                                     |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | --------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 第一幕                                                         |                                                                                  |                                                                                                                                                                        |                                      |                                                                             |                                                        |
+| [中京広域圏](../Page/広域放送.md "wikilink")                         | [メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")                                           | [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - [6月26日](../Page/6月26日.md "wikilink")                    | 火曜 26:43 - 27:13                     | [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink") | **制作局**                                                |
+| [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")         | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")                                | 2007年[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink") - [7月1日](../Page/7月1日.md "wikilink")                                                                        | 日曜 23:30 - 24:00                     | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                                   | [アニフリ](https://ja.wikipedia.org/wiki/アニフリ "wikilink")枠 |
+| [近畿広域圏](../Page/広域放送.md "wikilink")                         | [朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")                          | 2007年[4月11日](../Page/4月11日.md "wikilink") - [7月4日](../Page/7月4日.md "wikilink")                                                                                         | 水曜 26:51 - 27:21                     | テレビ朝日系列                                                                     |                                                        |
+| [日本全域](../Page/全国放送.md "wikilink")                          | [AT-X](../Page/アニメシアターX.md "wikilink")                                           | 2007年[5月20日](../Page/5月20日.md "wikilink") - [8月12日](../Page/8月12日.md "wikilink")                                                                                       | 日曜 12:30 - 13:00                     | [CSチャンネル](https://ja.wikipedia.org/wiki/専門チャンネル "wikilink")                 | リピート放送あり                                               |
+| [GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink") | 2007年[4月19日](../Page/4月19日.md "wikilink") - [7月12日](../Page/7月12日.md "wikilink") | 木曜 更新                                                                                                                                                                  | [ネット配信](../Page/ネット配信.md "wikilink") |                                                                             |                                                        |
+| 第二幕                                                         |                                                                                  |                                                                                                                                                                        |                                      |                                                                             |                                                        |
+| 東京都                                                         | TOKYO MX                                                                         | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink") - [3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") | 火曜 26:30 - 27:00                     | 独立UHF局                                                                      |                                                        |
+| 日本全国                                                        | AT-X                                                                             | 2008年[1月31日](../Page/1月31日.md "wikilink") - [4月24日](../Page/4月24日.md "wikilink")                                                                                       | 木曜 9:00 - 9:30                       | CSチャンネル                                                                     | リピート放送あり                                               |
+| GyaO                                                        | 2008年[1月15日](../Page/1月15日.md "wikilink") - [4月7日](../Page/4月7日.md "wikilink")   | 火曜 更新                                                                                                                                                                  | ネット配信                                |                                                                             |                                                        |
+
+第一幕を放送した『アニフリ』枠では『[もっけ](../Page/もっけ.md "wikilink")』を2007年10月より2クール放送。そのためTOKYO MXの第二幕は別の枠での放送となった。
+
+## 漫画
+
+[月刊コミックブレイド](https://ja.wikipedia.org/wiki/月刊コミックブレイド "wikilink")2006年4月号から2007年1月号まで連載。ティナの過去を描いた外伝ストーリー。
+
+  - 『MUZZLE-LOADER 〜ウエルベールの物語〜』
+    原作：[BOYAKASHA](https://ja.wikipedia.org/wiki/BOYAKASHA "wikilink") / 作画：[高見鳴瀬](https://ja.wikipedia.org/wiki/高見鳴瀬 "wikilink") / ストーリー協力：[前川淳](https://ja.wikipedia.org/wiki/前川淳_\(脚本家\) "wikilink")
+    1.  ISBN 978-4-86127-440-4
+    2.  ISBN 978-4-86127-471-8
+
+## ネットラジオ
+
+[ウエルベールの物語 〜ラジオの章〜](https://ja.wikipedia.org/wiki/ウエルベールの物語_〜ラジオの章〜 "wikilink")
+
+  - パーソナリティーは高橋美佳子（リタ・シオール役）・竹内順子（ティナ・ローター役）
+
+## ドラマCD
+
+  - ウエルベールの物語 ドラマCD
+
+## 関連項目
+
+  - [UHFアニメ一覧](https://ja.wikipedia.org/wiki/UHFアニメ一覧 "wikilink")
+
+## 外部リンク
+
+  - [avex movie公式サイト](http://mv.avex.jp/wellber/)
+
+[Category:アニメ作品_う](https://ja.wikipedia.org/wiki/Category:アニメ作品_う "wikilink") [Category:2007年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2007年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:名古屋テレビの深夜アニメ](https://ja.wikipedia.org/wiki/Category:名古屋テレビの深夜アニメ "wikilink") [Category:Production_I.Gのアニメ作品](https://ja.wikipedia.org/wiki/Category:Production_I.Gのアニメ作品 "wikilink") [Category:エイベックス・グループのアニメ作品](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアニメ作品 "wikilink") [Category:ファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ "wikilink") [Category:王女を主人公としたアニメ作品](https://ja.wikipedia.org/wiki/Category:王女を主人公としたアニメ作品 "wikilink") [Category:漫画作品_う](https://ja.wikipedia.org/wiki/Category:漫画作品_う "wikilink") [Category:月刊コミックブレイドの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミックブレイドの漫画作品 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:王女を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:王女を主人公とした漫画作品 "wikilink")

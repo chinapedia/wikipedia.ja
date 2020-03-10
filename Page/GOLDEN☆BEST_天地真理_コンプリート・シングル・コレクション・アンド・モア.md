@@ -1,0 +1,174 @@
+> この記事は[GOLDENBEST  ](https://ja.wikipedia.org/wiki/GOLDENBEST__)から翻訳されています。
+
+
+『**GOLDEN☆BEST 天地真理 コンプリート・シングル・コレクション・アンド・モア**』（ゴールデン☆ベスト あまちまり コンプリート・シングル・コレクション・アンド・モア）は、[天地真理](https://ja.wikipedia.org/wiki/天地真理 "wikilink")のベスト・アルバム。2002年11月20日発売。発売元は[ソニー・ミュージックハウス](https://ja.wikipedia.org/wiki/ソニー・ミュージックダイレクト "wikilink")。[規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink")はMHCL-175/6。2009年8月19日には[Blu-spec CD盤](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")（MHCL20074-5）が限定発売された。
+
+## 解説
+
+[CD帯コピー](https://ja.wikipedia.org/wiki/帯_\(出版\)#レコード類の帯 "wikilink")：**“ソニーの白雪姫”・真理ちゃんの初のコンプリート・シングル・コレクション 未発表の2曲に初CD化25曲を含む全46曲収録\!\!**
+
+各[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")から発売されている[ゴールデン☆ベスト](../Page/ゴールデン☆ベスト.md "wikilink")シリーズのうちで、ソニーレコード系列から初期に発売された作品のひとつである。天地真理にとっては、初めて[CD](../Page/コンパクトディスク.md "wikilink")2枚組で発売された商品。未発表曲が各ディスクに1曲ずつ収録された。内容は下記の通り。
+
+  - ディスク1は、[1970年代](../Page/1970年代.md "wikilink")と[1980年代](../Page/1980年代.md "wikilink")に発表した全[シングルレコードA面曲を収録](https://ja.wikipedia.org/wiki/シングル#シングル・レコード "wikilink")。アルバム名で言うところの「コンプリート・シングル・コレクション」に該当。加え、公式なシングルA面ではない楽曲「夏を忘れた海」の未発表バージョンが追加収録された。
+  - ディスク2は、シングルレコードB面曲や[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")、[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")からの選曲。当時、CD化があまり進んでいなかった1970年代中期の楽曲を中心とし、オリジナル楽曲のみならず[カバー](../Page/カバー.md "wikilink")曲も含まれている。アルバム名で言うところの「アンド・モア」に該当。未発表曲「ひとかかえの愛」が収録された。
+
+2006年10月1日には、歌手デビュー35周年を記念した[CD-BOX](https://ja.wikipedia.org/wiki/ボックス・セット#CD-BOX "wikilink")『[天地真理 プレミアム・ボックス](https://ja.wikipedia.org/wiki/天地真理_プレミアム・ボックス "wikilink")』（DYCL-1201/10）が発売されたが、そのボックス内にシングルA面曲だけを集めたディスクがあり、本ベスト・アルバムのディスク1とほぼ同等の内容である\[1\]。
+
+歌詞[ブックレットの最終ページに](../Page/小冊子.md "wikilink")、ベスト盤を除くLPアルバムとシングルレコードの簡略な[ディスコグラフィ](https://ja.wikipedia.org/wiki/ディスコグラフィ "wikilink")及び天地本人のプロフィールが掲載されている。裏表紙には収録シングル盤の[ディスクジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")一覧付。ブルースペック盤（後述）には、ディスコグラフィに『天地真理 プレミアム・ボックス』が追加されている。
+
+音源は、[SBM](https://ja.wikipedia.org/wiki/SBM "wikilink")（SuperBitMapping）という、ソニーが持つ技術のフォーマットで[デジタル・リマスタリングされたため](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink")、高音質になった。2009年8月19日には、特殊な[CDプレーヤー](https://ja.wikipedia.org/wiki/CDプレーヤー "wikilink")でなくても高音質再生が可能、と喧伝されている[ブルースペックCD](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")（Blu-spec CD）盤が初回生産限定で発売された。パッケージ内には、ブルースペックCDの技術を解説した[フライヤーが封入](https://ja.wikipedia.org/wiki/チラシ "wikilink")。
+
+2013年4月17日には、1970年代のシングルから選ばれたA面曲と後期のアルバム収録曲に、冠番組『[真理ちゃんシリーズ](https://ja.wikipedia.org/wiki/真理ちゃんシリーズ "wikilink")』のテーマ曲を[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")として収録した廉価盤『[GOLDEN☆BEST 天地真理](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_天地真理 "wikilink")』が発売された。
+
+## 収録曲
+
+### Disc 1
+
+1.  **[水色の恋](../Page/水色の恋.md "wikilink")**（3分3秒）
+      - 作詞: 田上えり・PESCE CARLOS 、作曲: 田上みどり・LATASA FELICIANO、編曲: [森岡賢一郎](https://ja.wikipedia.org/wiki/森岡賢一郎 "wikilink")
+2.  **[ちいさな恋](../Page/ちいさな恋.md "wikilink")**（3分27秒）
+      - 作詞: [安井かずみ](https://ja.wikipedia.org/wiki/安井かずみ "wikilink")、作曲: [浜口庫之助](../Page/浜口庫之助.md "wikilink")、編曲: [馬飼野俊一](https://ja.wikipedia.org/wiki/馬飼野俊一 "wikilink")
+3.  **[ひとりじゃないの](../Page/ひとりじゃないの.md "wikilink")**（3分36秒）
+      - 作詞: [小谷夏](https://ja.wikipedia.org/wiki/久世光彦 "wikilink")、作曲: [森田公一](https://ja.wikipedia.org/wiki/森田公一 "wikilink")、編曲: 馬飼野俊一
+4.  **[虹をわたって](../Page/虹をわたって.md "wikilink")**（3分9秒）
+      - 作詞: [山上路夫](https://ja.wikipedia.org/wiki/山上路夫 "wikilink")、作曲: 森田公一、編曲: 馬飼野俊一
+5.  **[ふたりの日曜日](../Page/ふたりの日曜日.md "wikilink")**（3分14秒）
+      - 作詞: 山上路夫、作曲: [平尾昌晃](../Page/平尾昌晃.md "wikilink")、編曲: [竜崎孝路](https://ja.wikipedia.org/wiki/竜崎孝路 "wikilink")
+6.  **[若葉のささやき](../Page/若葉のささやき.md "wikilink")**（3分3秒）
+      - 作詞: 山上路夫、作曲: 森田公一、編曲: 竜崎孝路
+7.  **[恋する夏の日](../Page/恋する夏の日.md "wikilink")**（3分0秒）
+      - 作詞: 山上路夫、作曲: 森田公一、編曲: 馬飼野俊一
+8.  **[空いっぱいの幸せ](../Page/空いっぱいの幸せ.md "wikilink")**（2分58秒）
+      - 作詞: 山上路夫、作曲: 森田公一、編曲: 竜崎孝路
+9.  **[恋人たちの港](../Page/恋人たちの港.md "wikilink")**（3分1秒）
+      - 作詞: 山上路夫、作曲: 森田公一、編曲: 竜崎孝路
+10. **[恋と海とTシャツと](../Page/恋と海とTシャツと.md "wikilink")**（2分39秒）
+      - 作詞: 安井かずみ、作曲: 森田公一、編曲: 竜崎孝路
+11. **[想い出のセレナーデ](../Page/想い出のセレナーデ.md "wikilink")**（3分37秒）
+      - 作詞: 山上路夫、作曲: 森田公一、編曲: 竜崎孝路
+12. **[木枯らしの舗道](https://ja.wikipedia.org/wiki/木枯らしの舗道 "wikilink")**（3分27秒）
+      - 作詞: 山上路夫、作曲: 森田公一、編曲: [穂口雄右](https://ja.wikipedia.org/wiki/穂口雄右 "wikilink")
+13. **[愛のアルバム](https://ja.wikipedia.org/wiki/愛のアルバム_\(天地真理の曲\) "wikilink")**（3分18秒）
+      - 作詞: 山上路夫、作曲・編曲: 森田公一
+14. **初めての涙**（3分46秒）
+      - 作詞: 安井かずみ、作曲: [宮川泰](../Page/宮川泰.md "wikilink")、編曲: 森岡賢一郎
+15. **さよならこんにちわ**（2分41秒）
+      - 作詞: [山口洋子](https://ja.wikipedia.org/wiki/山口洋子 "wikilink")・安井かずみ、作曲・編曲: 筒美京平
+16. **夕陽のスケッチ**（3分22秒）
+      - 作詞: [宮中雲子](https://ja.wikipedia.org/wiki/宮中雲子 "wikilink")、作曲: 筒美京平、編曲: [萩田光雄](https://ja.wikipedia.org/wiki/萩田光雄 "wikilink")
+17. **矢車草**（3分3秒）
+      - 作詞: [岩谷時子](https://ja.wikipedia.org/wiki/岩谷時子 "wikilink")、作曲: 筒美京平、編曲: 森岡賢一郎
+18. **愛の渚**（2分36秒）
+      - 作詞: 岩谷時子、作曲: [弾厚作](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")、編曲: 森岡賢一郎
+19. **夢ほのぼの**（3分18秒）
+      - 作詞: [橋本淳](https://ja.wikipedia.org/wiki/橋本淳_\(作詞家\) "wikilink")、作曲: [小林亜星](../Page/小林亜星.md "wikilink")、編曲: 森岡賢一郎
+20. **愛・つづれ織り**（4分5秒）
+      - 作詞: [松本隆](../Page/松本隆.md "wikilink")、作曲: 森田公一、編曲: [渡辺茂樹](../Page/渡辺茂樹.md "wikilink")
+21. **初恋のニコラ**（4分21秒）
+      - 作詞・作曲: MATE PETERS・NAGY ISTVAN・MICHEL MALLORY、訳詞: 麻木かおる、編曲: [青木望](../Page/青木望.md "wikilink")
+22. **私が雪だった日**（3分36秒）
+      - 作詞: [山川啓介](../Page/山川啓介.md "wikilink")、作曲: [網倉一也](https://ja.wikipedia.org/wiki/網倉一也 "wikilink")、編曲: [石川鷹彦](https://ja.wikipedia.org/wiki/石川鷹彦 "wikilink")
+23. **夏を忘れた海**（未発表バージョン）（3分31秒）
+      - 作詞: 安井かずみ、作曲: 森田公一、編曲: [戸塚修](https://ja.wikipedia.org/wiki/戸塚修 "wikilink")
+
+### Disc 2
+
+1.  **一枚の写真**（3分54秒）
+      - 作詞: 安井かずみ、作曲・編曲: [川口真](../Page/川口真.md "wikilink")
+      - スタジオ・アルバム『小さな人生』（1975年12月：SOLL-197）より
+2.  **レイン・ステイション**（3分33秒）
+      - 作詞: 松本隆、作曲: 筒美京平、編曲: [林哲司](https://ja.wikipedia.org/wiki/林哲司 "wikilink")
+      - スタジオ・アルバム『小さな人生』より
+3.  **家なき子**（2分58秒）
+      - 作詞: 松本隆、作曲: 筒美京平、編曲: 萩田光雄
+      - スタジオ・アルバム『小さな人生』より
+4.  **ある恋の感想**（2分49秒）
+      - 作詞: 安井かずみ、作曲: 筒美京平、編曲: 穂口雄右
+      - スタジオ・アルバム『小さな人生』より
+5.  **明日また**（3分11秒）
+      - 作詞: 安井かずみ・山口洋子、作曲・編曲: 筒美京平
+      - シングル「さよならこんにちわ」（1975年9月：SOLB-309）B面曲
+6.  **明日への愛**（3分45秒）
+      - 作詞: 安井かずみ、作曲: 筒美京平、編曲: 萩田光雄
+      - スタジオ・アルバム『小さな人生』より
+7.  **小さな人生**（2分58秒）
+      - 作詞: 安井かずみ、作曲: 筒美京平、編曲: 萩田光雄
+      - シングル「夕陽のスケッチ」（1975年12月：SOLB-343）B面曲
+8.  **一杯のレモンティー**（2分46秒）
+      - 作詞: 岩谷時子、作曲: 筒美京平、編曲: 森岡賢一郎
+      - シングル「矢車草」（1976年4月：SOLB-412）B面曲
+9.  **[ひまわりの小径](https://ja.wikipedia.org/wiki/ひまわりの小径 "wikilink")**（3分6秒）
+      - 作詞: [林春生](https://ja.wikipedia.org/wiki/林春生 "wikilink")、作曲: 筒美京平、編曲: 馬飼野俊一、原曲歌唱: [チェリッシュ](https://ja.wikipedia.org/wiki/チェリッシュ_\(歌手グループ\) "wikilink")
+      - スタジオ・アルバム『虹をわたって』（1972年9月：SOLL-12）より
+10. **[恋の風車](https://ja.wikipedia.org/wiki/恋の風車 "wikilink")**（3分17秒）
+      - 作詞: 林春生、作曲: 筒美京平、編曲: 竜崎孝路、原曲歌唱: チェリッシュ
+      - スタジオ・アルバム『恋と海とTシャツと/恋人たちの港』（1974年6月：SOLL-73）より
+11. **[ある雨の日の情景](https://ja.wikipedia.org/wiki/結婚しようよ#収録曲 "wikilink")**（2分38秒）
+      - 作詞: 伊庭啓子、作曲: [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")、編曲: 竜崎孝路、原曲歌唱: よしだたくろう
+      - スタジオ・アルバム『恋と海とTシャツと/恋人たちの港』より
+12. **[サルビアの花](https://ja.wikipedia.org/wiki/サルビアの花 "wikilink")**（3分35秒）
+      - 作詞: 相沢靖子、作曲: [早川義夫](https://ja.wikipedia.org/wiki/早川義夫 "wikilink")、編曲: 竜崎孝路、原曲歌唱: 早川義夫
+      - スタジオ・アルバム『恋と海とTシャツと/恋人たちの港』より
+13. **[あなた](../Page/あなた_\(小坂明子の曲\).md "wikilink")**（4分52秒）
+      - 作詞・作曲: [小坂明子](https://ja.wikipedia.org/wiki/小坂明子 "wikilink")、編曲: 竜崎孝路、原曲歌唱: 小坂明子
+      - スタジオ・アルバム『恋と海とTシャツと/恋人たちの港』より
+14. **牧場の乙女**（2分49秒）
+      - 作詞: 山上路夫、作曲: 森田公一、編曲: 竜崎孝路
+      - スタジオ・アルバム『恋する夏の日』（1973年9月：SOLJ-77）より
+15. **明日への出発**（2分48秒）
+      - 作詞: 安井かずみ、作曲: [加藤和彦](../Page/加藤和彦.md "wikilink")、編曲: 竜崎孝路
+      - スタジオ・アルバム『恋する夏の日』より
+16. **渚の誓い**（3分21秒）
+      - 作詞: [ちあき哲也](https://ja.wikipedia.org/wiki/ちあき哲也 "wikilink")、作曲・編曲: 馬飼野俊一
+      - スタジオ・アルバム『恋する夏の日』より
+17. **さよならは心をこめて**（3分18秒）
+      - 作詞: 山上路夫、作曲: 森田公一、編曲: 馬飼野俊一
+      - スタジオ・アルバム『空いっぱいの幸せ/ポップス&フォーク』（1973年12月：SOLL-55）より
+18. **素晴らしい青春**（3分20秒）
+      - 作詞: 山上路夫、作曲: 森田公一、編曲: 竜崎孝路
+      - スタジオ・アルバム『恋と海とTシャツと/恋人たちの港』より
+19. **わたしの場合**（3分14秒）
+      - 作詞: 安井かずみ、作曲: 森田公一、編曲: 馬飼野俊一
+      - シングル「想い出のセレナーデ」（1974年9月：SOLB-173）B面曲
+20. **ブランコ**（3分13秒）
+      - 作詞: 山上路夫、作曲: 森田公一、編曲: 竜崎孝路
+      - シングル「木枯らしの舗道」（1974年12月：SOLB-202）B面曲
+21. **君よ知るや南の国**（3分22秒）
+      - 原作: [ゲーテ](https://ja.wikipedia.org/wiki/ヨハン・ウォルフガング・フォン・ゲーテ "wikilink")、訳詞: 安井かずみ、作曲: トーマ、編曲: 宮川泰
+      - シングル「初めての涙」（1975年5月：SOLB-273）B面曲
+22. **ひとかかえの愛**（2分5秒）
+      - 作詞: 藤公之介、作曲: 森田公一、編曲: 戸塚修
+23. **また逢うためにさようなら -Live-**（3分13秒）
+      - 作詞: 鈴木悦夫、作曲: 森田公一、編曲: 竜崎孝路
+      - ライブ・アルバム『天地真理オン・ステージ』（1974年12月：SOLI-1-2）より
+
+## 関連作品
+
+  - [天地真理 プレミアム・ボックス](https://ja.wikipedia.org/wiki/天地真理_プレミアム・ボックス "wikilink")（2006年10月1日発売：DYCL-1201/10）
+  - [GOLDEN☆BEST 小柳ルミ子 シングル・コレクション](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_小柳ルミ子_シングル・コレクション "wikilink")（2005年3月24日発売：MHCL-518/9）
+  - [GOLDEN☆BEST 南沙織 コンプリート・シングルコレクション](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_南沙織_コンプリート・シングルコレクション "wikilink")（2010年9月8日発売：MHCL-1788/9）
+  - [GOLDEN☆BEST 南沙織 筒美京平を歌う](../Page/GOLDEN☆BEST_南沙織_筒美京平を歌う.md "wikilink")（2002年6月19日発売：MHCL-113/4）
+  - [GOLDEN☆BEST 新三人娘 〜天地真理・小柳ルミ子・南沙織〜](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_新三人娘_〜天地真理・小柳ルミ子・南沙織〜 "wikilink")（2011年8月17日発売：MHCL-1933/4）
+
+## 脚注
+
+## 関連項目
+
+  - [1971年の音楽](https://ja.wikipedia.org/wiki/1971年の音楽 "wikilink") - Disc 1 M-1
+  - [1972年の音楽](https://ja.wikipedia.org/wiki/1972年の音楽 "wikilink") - Disc 1 M-2・3・4・5 、Disc 2 M-9
+  - [1973年の音楽](https://ja.wikipedia.org/wiki/1973年の音楽 "wikilink") - Disc 1 M-6・7・8 、Disc 2 M-14〜17
+  - [1974年の音楽](https://ja.wikipedia.org/wiki/1974年の音楽 "wikilink") - Disc 1 M-9・10・11・12 、Disc 2 M-10〜13・18〜20・23
+  - [1975年の音楽](https://ja.wikipedia.org/wiki/1975年の音楽 "wikilink") - Disc 1 M-13・14・15・16 、Disc 2 M-1〜7・21
+  - [1976年の音楽](https://ja.wikipedia.org/wiki/1976年の音楽 "wikilink") - Disc 1 M-17・18・19 、Disc 2 M-8
+  - [1979年の音楽](https://ja.wikipedia.org/wiki/1979年の音楽 "wikilink") - Disc 1 M-20
+  - [1980年の音楽](https://ja.wikipedia.org/wiki/1980年の音楽 "wikilink") - Disc 1 M-21
+  - [1983年の音楽](https://ja.wikipedia.org/wiki/1983年の音楽 "wikilink") - Disc 1 M-22
+
+## 外部リンク
+
+  - [『GOLDEN☆BEST 天地真理 コンプリート・シングル・コレクション・アンド・モア』紹介ページ](http://www.sonymusicshop.jp/m/item/itemShw.php?site=S&cd=MHCL000000175) - Sony Music Shop
+  - [『GOLDEN☆BEST 天地真理 コンプリート・シングル・コレクション・アンド・モア（Blu-spec CD）【完全生産限定盤】』紹介ページ](http://www.sonymusicshop.jp/m/item/itemShw.php?site=S&ima=2831&cd=MHCL000020074) - Sony Music Shop
+
+[Category:天地真理のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:天地真理のベスト・アルバム "wikilink") [Category:2002年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2002年のベスト・アルバム "wikilink") [Category:GOLDEN☆BEST](https://ja.wikipedia.org/wiki/Category:GOLDEN☆BEST "wikilink") [Category:ソニー・ミュージックダイレクトのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックダイレクトのアルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+
+1.  『[天地真理 プレミアム・ボックス](https://ja.wikipedia.org/wiki/天地真理_プレミアム・ボックス "wikilink")』には、過去に発表された全音源が収録されたほかに未発表曲も1曲収録され、往年の冠番組[『真理ちゃん』シリーズの映像を収めた](https://ja.wikipedia.org/wiki/真理ちゃんシリーズ "wikilink")[DVD付きでもある](../Page/DVD-Video.md "wikilink")。

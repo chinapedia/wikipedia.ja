@@ -1,0 +1,204 @@
+> この記事は[NHK6](https://ja.wikipedia.org/wiki/NHK6)から翻訳されています。
+
+
+**NHK教育テレビ土曜夕方6時台枠のアニメ**は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")から[NHK教育テレビ（Eテレ）の土曜](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")18時台に断続的に放送されている[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")枠の総称。
+
+## 概要
+
+[NHK総合テレビで放送されていた](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[アニメ放送枠を](https://ja.wikipedia.org/wiki/子供の時間_\(NHKテレビ番組\)#アニメ "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")4月からNHK教育テレビの土曜18時台に移動。
+
+枠移動を繰り返し、2000年度と2003年度は放送なし。2011年10月の改編で30分繰り上げ、[土曜17時30分からの放送となる](https://ja.wikipedia.org/wiki/NHK教育テレビ午後枠のアニメ "wikilink")。2013年3月をもって土曜17時55分枠を廃止し、一旦はEテレ土曜18時台のアニメ放送がなくなったが、2015年4月より2年ぶりに再開。
+
+## 作品早見表
+
+| 前半枠                                                                                  | 開始年月                                                                | 年度                                                                                           | 後半枠                                                                                          |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [飛べ\!イサミ](https://ja.wikipedia.org/wiki/飛べ!イサミ "wikilink")                           | 1995年4月                                                             | 1995年度                                                                                       | [忍たま乱太郎](../Page/忍たま乱太郎.md "wikilink")                                                       |
+| 1995年10月                                                                             | [おまかせスクラッパーズ](https://ja.wikipedia.org/wiki/おまかせスクラッパーズ "wikilink") |                                                                                              |                                                                                              |
+| [忍たま乱太郎](../Page/忍たま乱太郎.md "wikilink")                                               | 1996年4月                                                             | 1996年度                                                                                       |                                                                                              |
+| 1996年7月                                                                              | [あずきちゃん](../Page/あずきちゃん.md "wikilink")                              |                                                                                              |                                                                                              |
+| [YAT安心\!宇宙旅行](https://ja.wikipedia.org/wiki/YAT安心!宇宙旅行 "wikilink")                   | 1996年10月                                                            |                                                                                              |                                                                                              |
+| 1997年4月                                                                              | 1997年度                                                              |                                                                                              |                                                                                              |
+| 1998年4月                                                                              | 1998年度                                                              |                                                                                              |                                                                                              |
+| [飛べ\!イサミ](https://ja.wikipedia.org/wiki/飛べ!イサミ "wikilink")                           | 1998年10月                                                            |                                                                                              |                                                                                              |
+| アニメ放送なし                                                                              | 1999年4月                                                             | 1999年度                                                                                       | [カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink")                                             |
+| 2000年4月                                                                              | 2000年度                                                              | アニメ放送なし                                                                                      |                                                                                              |
+| 2001年4月                                                                              | 2001年度                                                              | [コレクター・ユイ](https://ja.wikipedia.org/wiki/コレクター・ユイ "wikilink")                                |                                                                                              |
+| 2001年10月                                                                             | [カスミン](../Page/カスミン.md "wikilink")                                  |                                                                                              |                                                                                              |
+| 2002年4月                                                                              | 2002年度                                                              |                                                                                              |                                                                                              |
+| 2003年4月                                                                              | 2003年度                                                              | アニメ放送なし                                                                                      |                                                                                              |
+| [カスミン](../Page/カスミン.md "wikilink")                                                   | 2004年4月                                                             | 2004年度                                                                                       | [カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink")                                             |
+| [メジャー](https://ja.wikipedia.org/wiki/メジャー_\(アニメ\) "wikilink")                        | 2004年11月                                                            |                                                                                              |                                                                                              |
+| 2005年4月                                                                              | 2005年度                                                              | [ツバサ・クロニクル](https://ja.wikipedia.org/wiki/ツバサ-RESERVoir_CHRoNiCLE- "wikilink")               |                                                                                              |
+| 2006年4月                                                                              | 2006年度                                                              |                                                                                              |                                                                                              |
+| 2007年4月                                                                              | 2007年度                                                              |                                                                                              |                                                                                              |
+| 2007年5月                                                                              | [電脳コイル](../Page/電脳コイル.md "wikilink")                                |                                                                                              |                                                                                              |
+| 2008年4月                                                                              | 2008年度                                                              |                                                                                              |                                                                                              |
+| 2008年6月                                                                              | [テレパシー少女 蘭](https://ja.wikipedia.org/wiki/テレパシー少女_蘭 "wikilink")     |                                                                                              |                                                                                              |
+| 2009年1月                                                                              | [獣の奏者 エリン](https://ja.wikipedia.org/wiki/獣の奏者 "wikilink")           |                                                                                              |                                                                                              |
+| 2009年4月                                                                              | 2009年度                                                              |                                                                                              |                                                                                              |
+| [エレメントハンター](https://ja.wikipedia.org/wiki/エレメントハンター "wikilink")                      | 2009年7月                                                             |                                                                                              |                                                                                              |
+| [メジャー](https://ja.wikipedia.org/wiki/メジャー_\(アニメ\) "wikilink")                        | 2010年4月                                                             | 2010年度                                                                                       | [スター・ウォーズ/クローン・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ/クローン・ウォーズ_\(テレビアニメ\) "wikilink") |
+| 2010年9月                                                                              | [GIANT KILLING](../Page/GIANT_KILLING.md "wikilink")                |                                                                                              |                                                                                              |
+| [バクマン。](https://ja.wikipedia.org/wiki/バクマン。_\(アニメ\) "wikilink")                      | 2010年10月                                                            |                                                                                              |                                                                                              |
+| 2011年4月                                                                              | 2011年度                                                              | [スター・ウォーズ/クローン・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ/クローン・ウォーズ_\(テレビアニメ\) "wikilink") |                                                                                              |
+| [もしドラ](https://ja.wikipedia.org/wiki/もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら "wikilink") | 2011年10月                                                            | アニメ放送なし                                                                                      |                                                                                              |
+| [日常](../Page/日常_\(漫画\).md "wikilink")                                                | 2012年1月                                                             |                                                                                              |                                                                                              |
+| [ふしぎの海のナディア](https://ja.wikipedia.org/wiki/ふしぎの海のナディア "wikilink")                    | 2012年4月                                                             | 2012年度                                                                                       |                                                                                              |
+| [ザ・ペンギンズ from マダガスカル](https://ja.wikipedia.org/wiki/ザ・ペンギンズ_from_マダガスカル "wikilink")  | 2013年1月                                                             |                                                                                              |                                                                                              |
+| アニメ放送なし                                                                              | 2013年4月                                                             | 2013年度                                                                                       |                                                                                              |
+| 2014年4月                                                                              | 2014年度                                                              |                                                                                              |                                                                                              |
+| [スポンジ・ボブ](https://ja.wikipedia.org/wiki/スポンジ・ボブ "wikilink")                          | 2015年4月                                                             | 2015年度                                                                                       |                                                                                              |
+| ザ・ペンギンズ from マダガスカル                                                                  | 2015年10月                                                            |                                                                                              |                                                                                              |
+| スポンジ・ボブ                                                                              | 2016年4月                                                             | 2016年度                                                                                       |                                                                                              |
+| ザ・ペンギンズ from マダガスカル                                                                  | 2016年10月                                                            |                                                                                              |                                                                                              |
+| スポンジ・ボブ                                                                              | 2017年4月                                                             | 2017年度                                                                                       |                                                                                              |
+| 前半枠                                                                                  | 開始年月                                                                | 年度                                                                                           | 後半枠                                                                                          |
+
+## 前半枠 放送作品
+
+### 1995年度 - 1998年度
+
+※[NHK総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink") [土曜18時10分枠](https://ja.wikipedia.org/wiki/子供の時間_\(NHKテレビ番組\)#アニメ "wikilink")（[モンタナ・ジョーンズ](https://ja.wikipedia.org/wiki/モンタナ・ジョーンズ "wikilink")）から実質枠移動
+
+  - [飛べ\!イサミ](https://ja.wikipedia.org/wiki/飛べ!イサミ "wikilink")
+      - 1995年4月8日 - 1996年3月30日 初放送
+  - [忍たま乱太郎](../Page/忍たま乱太郎.md "wikilink")
+      - 1996年4月6日 - 1996年9月28日 第1期 再放送
+  - [YAT安心\!宇宙旅行](https://ja.wikipedia.org/wiki/YAT安心!宇宙旅行 "wikilink")
+      - 1996年10月5日 - 1997年9月27日 第1期 初放送
+      - 1997年10月4日 - 1998年4月4日 第1期 再放送
+      - 1998年4月11日 - 1998年10月3日 第2期 初放送
+  - [飛べ\!イサミ](https://ja.wikipedia.org/wiki/飛べ!イサミ "wikilink")
+      - 1998年10月10日 - 1999年4月3日 再放送
+
+※[金曜18時00分枠](https://ja.wikipedia.org/wiki/NHK教育テレビ午後枠のアニメ#金曜18時00分枠 "wikilink")（[コレクター・ユイ](https://ja.wikipedia.org/wiki/コレクター・ユイ "wikilink")）に実質枠移動。
+
+### 2004年度 - 2011年度前期
+
+※[水曜19時00分枠から枠移動](https://ja.wikipedia.org/wiki/NHK教育テレビ午後枠のアニメ#水曜19時00分枠 "wikilink")
+
+  - [カスミン](../Page/カスミン.md "wikilink")
+      - 2004年4月10日 - 2004年11月6日 再放送
+  - [メジャー](https://ja.wikipedia.org/wiki/メジャー_\(アニメ\) "wikilink")
+      - 2004年11月13日 - 2005年5月21日 第1期 初放送
+      - 2005年5月28日 - 2005年12月3日 第1期 再放送
+      - 2005年12月10日 - 2006年6月10日 第2期 初放送
+      - 2006年6月17日 - 2006年12月16日 第2期 再放送
+      - 2007年1月6日 - 2007年6月30日 第3期 初放送
+      - 2007年7月7日 - 2007年12月29日 第3期 再放送
+      - 2008年1月5日 - 2008年6月28日 第4期 初放送
+      - 2008年7月5日 - 2008年12月27日 第4期 再放送
+      - 2009年1月10日 - 2009年6月27日 第5期 初放送
+  - [エレメントハンター](https://ja.wikipedia.org/wiki/エレメントハンター "wikilink")
+      - 2009年7月4日 - 2010年3月27日 初放送
+  - [メジャー](https://ja.wikipedia.org/wiki/メジャー_\(アニメ\) "wikilink")
+      - 2010年4月3日 - 2010年9月25日 第6期 初放送
+  - [バクマン。](https://ja.wikipedia.org/wiki/バクマン。_\(アニメ\) "wikilink")
+      - 2010年10月2日 - 2011年4月2日 第1期 初放送
+      - 2011年4月9日 - 2011年9月24日 第1期 再放送
+
+※[土曜17時30分枠に枠移動](https://ja.wikipedia.org/wiki/NHK教育テレビ午後枠のアニメ#土曜17時30分→17時35分枠（2011年10月_-_） "wikilink")
+
+### 2011年度後期 - 2012年度
+
+  - 土曜17時55分枠
+
+※[土曜18時25分枠](https://ja.wikipedia.org/wiki/#2004年度_-_2011年度前期_2 "wikilink")（[スター・ウォーズ/クローン・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ/クローン・ウォーズ_\(テレビアニメ\) "wikilink")）から実質枠移動
+
+  - [もしドラ](https://ja.wikipedia.org/wiki/もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら#テレビアニメ "wikilink")
+      - 2011年10月1日 - 2011年12月3日 Eテレ初放送
+  - [日常](../Page/日常_\(漫画\).md "wikilink")
+      - 2012年1月7日 - 2012年3月24日 Eテレ版 初放送
+  - [ふしぎの海のナディア](https://ja.wikipedia.org/wiki/ふしぎの海のナディア "wikilink")
+      - 2012年4月7日 - 2013年1月19日 再放送（デジタルリマスター版）
+  - [ザ・ペンギンズ from マダガスカル](https://ja.wikipedia.org/wiki/ザ・ペンギンズ_from_マダガスカル "wikilink")
+      - 2013年1月26日 - 2013年3月30日 第2期 再放送
+
+### 2015年度以降
+
+  - [スポンジ・ボブ](https://ja.wikipedia.org/wiki/スポンジ・ボブ "wikilink")
+      - 2015年4月4日 - 2015年9月26日
+  - [ザ・ペンギンズ from マダガスカル](https://ja.wikipedia.org/wiki/ザ・ペンギンズ_from_マダガスカル "wikilink")
+      - 2015年10月3日 - 2016年1月16日 第3期 Eテレ初放送
+      - 2016年1月23日 - 2016年4月2日 第2期 Eテレ初放送
+  - [スポンジ・ボブ](https://ja.wikipedia.org/wiki/スポンジ・ボブ "wikilink")
+      - 2016年4月9日 - 2016年10月1日
+  - [ザ・ペンギンズ from マダガスカル](https://ja.wikipedia.org/wiki/ザ・ペンギンズ_from_マダガスカル "wikilink")
+      - 2016年10月8日 -　2017年4月1日
+  - [スポンジ・ボブ](https://ja.wikipedia.org/wiki/スポンジ・ボブ "wikilink")
+      - 2017年4月8日 -
+
+## 後半枠 放送作品
+
+### 1995年度 - 1999年度
+
+※[土曜17時35分枠から枠移動](https://ja.wikipedia.org/wiki/NHK教育テレビ午後枠のアニメ#土曜17時35分枠 "wikilink")
+
+  - [忍たま乱太郎](../Page/忍たま乱太郎.md "wikilink")
+      - 1995年4月15日 - 1995年9月23日 第1期 NHK教育テレビ初放送
+  - [おまかせスクラッパーズ](https://ja.wikipedia.org/wiki/おまかせスクラッパーズ "wikilink")
+      - 1995年10月7日 - 1996年6月29日 NHK教育テレビ初放送
+  - [あずきちゃん](../Page/あずきちゃん.md "wikilink")
+      - 1996年7月6日 - 1997年4月5日 第1期 NHK教育テレビ初放送
+      - 1997年4月12日 - 1998年1月24日 第2期 NHK教育テレビ初放送
+      - 1998年1月31日 - 1998年4月4日 第2期 再放送
+      - 1998年4月11日 - 1999年4月3日 第3期 NHK教育テレビ初放送 / 第1期 - 第2期 再放送
+  - [カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink")
+      - 1999年4月10日 - 1999年12月18日 第1期 NHK教育テレビ初放送
+      - 1999年12月25日 - 2000年4月1日 第1期 再放送
+
+※[日曜18時00分枠に枠移動](https://ja.wikipedia.org/wiki/NHK教育テレビ午後枠のアニメ#日曜18時00分枠 "wikilink")
+
+### 2001年度 - 2002年度
+
+※[金曜18時00分枠から枠移動](https://ja.wikipedia.org/wiki/NHK教育テレビ午後枠のアニメ#金曜18時00分枠 "wikilink")
+
+  - [コレクター・ユイ](https://ja.wikipedia.org/wiki/コレクター・ユイ "wikilink")
+      - 2001年4月7日 - 2001年10月6日 第2期 再放送
+  - [カスミン](../Page/カスミン.md "wikilink")
+      - 2001年10月13日 - 2002年4月6日 第1期 初放送
+      - 2002年4月13日 - 2002年9月21日 第1期 再放送
+      - 2002年10月5日 - 2003年4月5日 第2期 初放送
+
+※[水曜19時00分枠に枠移動](https://ja.wikipedia.org/wiki/NHK教育テレビ午後枠のアニメ#水曜19時00分枠 "wikilink")
+
+### 2004年度 - 2011年度前期
+
+※[月曜19時25分枠](https://ja.wikipedia.org/wiki/NHK教育テレビ午後枠のアニメ#月曜19時台枠 "wikilink")（[冒険航空会社モンタナ](https://ja.wikipedia.org/wiki/モンタナ・ジョーンズ "wikilink")）から実質枠移動
+
+  - [カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink")
+      - 2004年4月10日 - 2005年1月8日 第1期 再放送
+      - 2005年1月15日 - 2005年4月2日 第2期 再放送
+  - [ツバサ・クロニクル](https://ja.wikipedia.org/wiki/ツバサ-RESERVoir_CHRoNiCLE-#テレビアニメ "wikilink")
+      - 2005年4月9日 - 2005年10月15日 第1期 初放送
+      - 2005年10月22日 - 2006年4月22日 第1期 再放送
+      - 2006年4月29日 - 2006年11月4日 第2期 初放送
+      - 2006年11月11日 - 2007年5月5日 第2期 再放送
+  - [電脳コイル](../Page/電脳コイル.md "wikilink")
+      - 2007年5月12日 - 2007年12月1日 初放送
+      - 2007年12月8日 - 2008年6月14日 再放送
+  - [テレパシー少女 蘭](https://ja.wikipedia.org/wiki/テレパシー少女「蘭」事件ノート#テレビアニメ "wikilink")
+      - 2008年6月21日 - 2008年12月20日 初放送
+  - [獣の奏者 エリン](https://ja.wikipedia.org/wiki/獣の奏者#テレビアニメ "wikilink")
+      - 2009年1月10日 - 2009年12月26日 初放送
+      - 2010年1月9日 - 2010年3月13日 総集編
+  - [スター・ウォーズ/クローン・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ/クローン・ウォーズ_\(テレビアニメ\) "wikilink")
+      - 2010年4月3日 - 2010年9月4日 第1期 NHK教育テレビ初放送
+  - [GIANT KILLING](../Page/GIANT_KILLING.md "wikilink")
+      - 2010年9月25日 - 2011年4月2日 NHK教育テレビ初放送
+  - [スター・ウォーズ/クローン・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ/クローン・ウォーズ_\(テレビアニメ\) "wikilink")
+      - 2011年4月9日 - 2011年9月10日 第2期 NHK教育テレビ初放送
+
+※[土曜17時55分枠](https://ja.wikipedia.org/wiki/#2011年度後期_-_2012年度 "wikilink")（[もしドラ](https://ja.wikipedia.org/wiki/もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら#テレビアニメ "wikilink")）に実質枠移動
+
+## 関連項目
+
+  - [NHK教育テレビ少年少女・若者番組](https://ja.wikipedia.org/wiki/NHK教育テレビ少年少女・若者番組 "wikilink")
+  - [NHK教育テレビ午後枠のアニメ](https://ja.wikipedia.org/wiki/NHK教育テレビ午後枠のアニメ "wikilink")
+  - [NHK教育テレビ深夜アニメ枠](https://ja.wikipedia.org/wiki/NHK教育テレビ深夜アニメ枠 "wikilink")
+  - [衛星アニメ劇場](https://ja.wikipedia.org/wiki/衛星アニメ劇場 "wikilink")
+  - [毎日放送制作土曜夕方6時枠のアニメ](https://ja.wikipedia.org/wiki/毎日放送制作土曜夕方6時枠のアニメ "wikilink") - [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）制作・[TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[全国ネット](https://ja.wikipedia.org/wiki/全国ネット "wikilink")アニメ枠。2008年3月までは当枠の前半と後半の一部で競合。
+  - [名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink") - [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")（ytv）制作・[日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")[全国ネット](https://ja.wikipedia.org/wiki/全国ネット "wikilink")アニメ。2009年4月から当枠（2011年秋の改編前までは当枠の前半と後半の一部）で競合。
+
+[Category:NHKアニメの放送枠](https://ja.wikipedia.org/wiki/Category:NHKアニメの放送枠 "wikilink") [Category:NHK教育テレビジョンのアニメ](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンのアニメ "wikilink")

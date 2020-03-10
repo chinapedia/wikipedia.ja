@@ -1,0 +1,72 @@
+> この記事は[ RADIO RONDO](https://ja.wikipedia.org/wiki/_RADIO_RONDO)から翻訳されています。
+
+
+**武装神姫 RADIO RONDO** (ぶそうしんき らじお ろんど) は、『[武装神姫](../Page/武装神姫.md "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[i-revo](https://ja.wikipedia.org/wiki/i-revo "wikilink")にて[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（平成19年）[4月26日](../Page/4月26日.md "wikilink")から[10月25日](../Page/10月25日.md "wikilink")まで配信された。また、[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")でも１週間遅れで配信された。毎週木曜日更新。
+
+## 概要
+
+『[武装神姫 BATTLE RONDO](https://ja.wikipedia.org/wiki/武装神姫_BATTLE_RONDO "wikilink")』のオンラインサービス開始に合わせて、配信が開始された。
+
+パーソナリティは[阿澄佳奈](https://ja.wikipedia.org/wiki/阿澄佳奈 "wikilink")（天使型アーンヴァル 役）と[喜多村英梨](https://ja.wikipedia.org/wiki/喜多村英梨 "wikilink")（犬型ハウリン 役）。なお、アーンヴァル、ハウリンは本来の設定では機種名だが、ここでは個人名扱いされている。これはゲストの担当する神姫においても同様。
+
+2008年（平成20年）3月21日に、今まで配信された全26回の音声データ([MP3](../Page/MP3.md "wikilink"))と未配信の特別編、『[武装神姫 BATTLE RONDO](https://ja.wikipedia.org/wiki/武装神姫_BATTLE_RONDO "wikilink")』のテーマ曲で番組のテーマ曲である「I Will Follow You」のフルヴァージョンを収録したアルバムが、[コナミスタイル](https://ja.wikipedia.org/wiki/コナミスタイル "wikilink")専売で発売された。早期購入特典はアルバムのジャケットと同じ図柄の特製マウスパッド（光学式マウス用）。
+
+また、2009年（平成21年）11月20日には、『[武装神姫 BATTLE RONDO オリジナルサウンドトラック](https://ja.wikipedia.org/wiki/武装神姫_BATTLE_RONDO_オリジナルサウンドトラック "wikilink")』のディスク2に収録の特別版で再度の復活を果たし、2011年（平成23年）3月17日には、『[武装神姫 CHARACTER SONG and SPECIAL RADIO RONDO Vol.2](https://ja.wikipedia.org/wiki/武装神姫_CHARACTER_SONG_and_SPECIAL_RADIO_RONDO_Vol.2 "wikilink")』のディスク3にて発売記念特別編として収録された。
+
+## コーナー
+
+  - フリートーク＆[ふつおた](https://ja.wikipedia.org/wiki/ふつおた "wikilink")
+    パーソナリティの自己紹介とともに始まる最初のコーナー。リスナーより寄せられるメールの番組独自の挨拶は、いくつかの変遷を経て「シンキシンキー♪」に落ち着いた。
+  - 武装神姫ラジオ劇場
+    大別して、初めて神姫オーナーとなったアリトと、その神姫スピカの交流を描く連続ストーリーの前期（第1回から13回）と、アリトとスピカを進行役として、神姫とそのオーナーとの１話完結エピソードを描く後期（第15回以降）に分けられる。
+    主な登場人物
+      - スピカ（天使型アーンヴァル）
+      - アルドラ（犬型ハウリン）
+      - アリト（スピカのオーナーの少年）
+      - マホ（アルドラのオーナーの少女）
+  - 教えて\! アスミ先生☆
+    後述
+  - ウチの神姫（こ）が一番っ\!
+    リスナーがオーナーになっている神姫の「我が子自慢」をするコーナー。
+  - オリジナルパーツ開発室
+    リスナーが考えたオリジナルパーツを紹介するコーナー。
+  - 神姫リング de BATTLE
+    パーソナリティ同士が色々なミニゲームで対決するコーナー。勝者にはごほうびが与えられる。基本的に真剣勝負だが、ゲストを迎えている場合はこの限りではない。
+  - 武装神姫インフォメーション
+    [コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")広報の[スーパーバイザー](https://ja.wikipedia.org/wiki/スーパーバイザー "wikilink")玉川（通称タマちゃん）によるお知らせコーナー。第14回以降は、タマちゃんが「教えて\! アスミ先生」のコーナーに異動したため、同じくコナミ広報の鈴木敦子（通称あつ子ちゃん）が担当に変わっている。
+
+## 教えて\! アスミ先生☆
+
+神姫センターの職員が初心者からの質問に答える形でリスナーに向けての神姫の世界への手引きとする。設定背景等はラジオ劇場と同じだが、配信期間中に両作品の[クロスオーバーは果たされなかった](https://ja.wikipedia.org/wiki/クロスオーバー作品 "wikilink")。
+
+登場人物は
+
+  - アスミ先生: 神姫センターの美人所長。受けた質問や苦情は全て部下に丸投げする。
+    タマガワさん: アスミ先生の補佐役。ダメ上司と[クレーマー小学生に悩まされる真面目な青年](https://ja.wikipedia.org/wiki/クレーム "wikilink")。
+    スズキさん: アスミ先生の補佐役。アッコちゃんの愛称で呼ばれる。
+    ユズキさん: アスミ先生の先輩で神姫センターの責任者。大人の魅力で周囲を誘惑する。
+    喜多村ハウリン犬子: 近所に住む女の子。アスミ先生の天敵。不躾な態度と質問攻めで大人達を翻弄する。
+    喜多村ハウリン太子: 犬子の双子の姉で次女。犬子と外見も中身もほとんど同じらしい。家業を継いでいる。
+    喜多村ハウリン明太子: 犬子の姉で長女。タマガワさんの秘密を握っており、質問を拒否されるとそれをネタに脅迫する。
+    喜多村ハウリンでんでん太鼓: 喜多村ハウリン家の父。太鼓のようにしか喋れない。
+    喜多村ハウリンティンパニー: 喜多村ハウリン家の母。画面には足しか映らないほど巨大らしい。
+
+## ゲスト
+
+  - 第 5回 [茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")（悪魔型ストラーフ）
+  - 第 7回 [笹川亜矢奈](https://ja.wikipedia.org/wiki/笹川亜矢奈 "wikilink")（兎型ヴァッフェバニー）
+  - 第 9回 [橋本まい](../Page/橋本まい.md "wikilink")（猫型マオチャオ）
+  - 第12回　[福井裕佳梨](https://ja.wikipedia.org/wiki/福井裕佳梨 "wikilink")（忍者型フブキ）
+  - 第22回　[門脇舞以](https://ja.wikipedia.org/wiki/門脇舞以 "wikilink")（侍型紅緒）
+  - 第24回　[柚木涼香](https://ja.wikipedia.org/wiki/柚木涼香 "wikilink")（砲台型フォートブラッグ）
+
+それぞれの役で〔武装神姫ラジオ劇場〕にも登場した。
+
+## ラジオCD
+
+## 外部リンク
+
+  - [i-revo内武装神姫RADIO RONDO 公式ページ](http://www.i-revo.jp/busou/)
+  - [インターネットラジオステーション＜音泉＞](http://www.onsen.ag/)
+
+[Category:音泉](https://ja.wikipedia.org/wiki/Category:音泉 "wikilink") [Category:コナミのラジオ番組](https://ja.wikipedia.org/wiki/Category:コナミのラジオ番組 "wikilink") [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink")

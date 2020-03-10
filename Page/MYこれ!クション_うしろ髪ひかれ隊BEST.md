@@ -1,0 +1,89 @@
+> この記事は[MY! BEST](https://ja.wikipedia.org/wiki/MY!_BEST)から翻訳されています。
+
+
+『**MYこれ\!クション うしろ髪ひかれ隊BEST**』（マイコレ\!クション うしろがみひかれたいベスト）は、[うしろ髪ひかれ隊](https://ja.wikipedia.org/wiki/うしろ髪ひかれ隊 "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。2001年12月5日発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
+
+## 解説
+
+ポニーキャニオンから単独でシリーズ化されている "MYこれ\!クション" の中の一作で、全[シングル](../Page/シングル.md "wikilink")[A・B面曲が収録されたほか](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")、アルバム曲やメンバー3人の[ソロ楽曲も追加収録された](../Page/ソロ_\(音楽\).md "wikilink")[廉価版](https://ja.wikipedia.org/wiki/廉価版 "wikilink")。活動期間が短かったため（1年程度）楽曲自体がさほど多くはなかったことや、自然消滅のため解散時期があやふやであったこともあり、本作品が初めてのベスト・アルバムになる。
+
+[フジテレビ系番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（アニメ：『[ハイスクール\!奇面組](../Page/ハイスクール!奇面組.md "wikilink")』『[ついでにとんちんかん](../Page/ついでにとんちんかん.md "wikilink")』、子供番組：『[ひらけ\!ポンキッキ](https://ja.wikipedia.org/wiki/ひらけ!ポンキッキ "wikilink")』）の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")に使用された曲のほか、アルバムからの曲を多数収録。ちなみに「**Nice\!**」は、[工藤静香](../Page/工藤静香.md "wikilink")のソロ・デビュー曲候補だったといわれている。
+
+いずれもデジタル・[リマスタリングが実施され](https://ja.wikipedia.org/wiki/マスタリング#リマスタリング "wikilink")、音質が向上した。
+
+同時発売で、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")と、関連歌手・[うしろゆびさされ組](https://ja.wikipedia.org/wiki/うしろゆびさされ組 "wikilink")と工藤静香のベストも発売された。
+
+2007年には、"MYこれ\!" をさらに発展させた"SINGLESコンプリート" が発売された。こちらは「うしろゆびさされ組」どドッキングした2枚組ベストで、両グループのシングルA・B面曲が網羅されている。『[うしろゆびさされ組+うしろ髪ひかれ隊 SINGLESコンプリート](https://ja.wikipedia.org/wiki/うしろゆびさされ組+うしろ髪ひかれ隊_SINGLESコンプリート "wikilink")』参照のこと。
+
+## 収録曲
+
+1.  **[時の河を越えて](../Page/時の河を越えて.md "wikilink")**（3:53）
+      - 作詞: [秋元康](../Page/秋元康.md "wikilink") 、作曲・編曲: [後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
+      - フジテレビ系『[ハイスクール\!奇面組](../Page/ハイスクール!奇面組.md "wikilink")』オープニング・テーマ
+2.  **うしろ髪ひかれたい**（3:57）
+      - 作詞: 秋元康 、作曲・編曲: 後藤次利
+      - フジテレビ系『ハイスクール\!奇面組』エンディング・テーマ
+3.  **[あなたを知りたい](../Page/あなたを知りたい.md "wikilink")**（3:45）
+      - 作詞: 秋元康 、作曲・編曲: 後藤次利
+      - フジテレビ系『ハイスクール\!奇面組』オープニング・テーマ
+4.  **立つ鳥跡を濁さず**（3:56）
+      - 作詞: 秋元康 、作曲・編曲: 後藤次利
+      - フジテレビ系『ハイスクール\!奇面組』エンディング・テーマ
+5.  **[メビウスの恋人](../Page/メビウスの恋人.md "wikilink")**（3:48）
+      - 作詞: 秋元康 、作曲・編曲: 後藤次利
+      - フジテレビ系『[ついでにとんちんかん](../Page/ついでにとんちんかん.md "wikilink")』エンディング・テーマ
+6.  **ごめんねカウボーイ**（3:47）
+      - 作詞: 秋元康 、作曲・編曲: 後藤次利
+      - フジテレビ系『ついでにとんちんかん』オープニング・テーマ
+7.  **[ほらね、春が来た](../Page/ほらね、春が来た.md "wikilink")**（4:07）
+      - 作詞: 秋元康 、作曲・編曲: 後藤次利
+      - フジテレビ系『ついでにとんちんかん』オープニング・テーマ
+8.  **誰も知らないブルー・エンジェル**（3:55）
+      - 作詞: 秋元康 、作曲・編曲: 後藤次利
+      - フジテレビ系『ついでにとんちんかん』エンディング・テーマ
+      - 工藤静香のベスト盤『[intimate](https://ja.wikipedia.org/wiki/intimate "wikilink")』（1991.12.11）にソロ・バージョンが収録されている。
+9.  **[ご期待下さい\!](../Page/ご期待下さい!.md "wikilink")**（4:03）
+      - 作詞: 秋元康 、作曲・編曲: 後藤次利
+      - フジテレビ系『[ひらけ\!ポンキッキ](https://ja.wikipedia.org/wiki/ひらけ!ポンキッキ "wikilink")』オープニング・テーマ
+10. **今日はサイコー\!**（3:44）
+      - 作詞: 秋元康 、作曲・編曲: 後藤次利
+      - フジテレビ系『ひらけ\!ポンキッキ』エンディング・テーマ
+11. **予感のスコール**（3:44）
+      - 作詞: [サエキけんぞう](../Page/サエキけんぞう.md "wikilink")、作曲・編曲: 後藤次利
+      - セカンド・アルバム『[BAB](https://ja.wikipedia.org/wiki/BAB_\(アルバム\) "wikilink")』（1988.3.21）より、[斉藤満喜子](https://ja.wikipedia.org/wiki/斉藤満喜子 "wikilink")のソロ。
+12. **素敵なモーニングドライブ**（3:46）
+      - 作詞: 吉澤久美子 、作曲・編曲: 後藤次利
+      - ファースト・アルバム『うしろ髪ひかれ隊』（1988.9.5）より、[生稲晃子](../Page/生稲晃子.md "wikilink")のソロ。
+13. **引き潮**（4:44）
+      - 作詞: [有川正沙子](../Page/有川正沙子.md "wikilink") 、作曲・編曲: 後藤次利
+      - セカンド・アルバム『BAB』より、工藤静香のソロ。
+14. **Nice\!**（3:32）
+      - 作詞: [三浦徳子](https://ja.wikipedia.org/wiki/三浦徳子 "wikilink") 、作曲・編曲: 後藤次利
+      - ファースト・アルバム『うしろ髪ひかれ隊』より
+15. **BAB CALL**（3:51）
+      - 作詞: サエキけんぞう 、作曲: [沖山優司](https://ja.wikipedia.org/wiki/沖山優司 "wikilink") 、編曲: 後藤次利
+      - セカンド・アルバム『BAB』より
+16. **Honey**（4:11）
+      - 作詞: 三浦徳子 、作曲・編曲: 後藤次利
+      - セカンド・アルバム『BAB』より
+
+## メンバー
+
+  - [工藤静香](../Page/工藤静香.md "wikilink")
+  - [生稲晃子](../Page/生稲晃子.md "wikilink")
+  - [斉藤満喜子](https://ja.wikipedia.org/wiki/斉藤満喜子 "wikilink")
+
+## 関連項目
+
+  - [1987年の音楽](https://ja.wikipedia.org/wiki/1987年の音楽 "wikilink") M-1〜6・12・14
+  - [1988年の音楽](https://ja.wikipedia.org/wiki/1988年の音楽 "wikilink") M-7〜11・13・15・16
+
+## 関連作品
+
+  - [MYこれ\!クション おニャン子クラブBEST](https://ja.wikipedia.org/wiki/MYこれ!クション_おニャン子クラブBEST "wikilink")
+  - [MYこれ\!クション うしろゆびさされ組BEST](../Page/MYこれ!クション_うしろゆびさされ組BEST.md "wikilink")
+  - [MYこれ\!クション 工藤静香BEST](https://ja.wikipedia.org/wiki/MYこれ!クション_工藤静香BEST "wikilink")
+  - [MYこれ\!クション 福永恵規BEST](../Page/MYこれ!クション_福永恵規BEST.md "wikilink")
+  - [MYこれ\!クション 高井麻巳子BEST](https://ja.wikipedia.org/wiki/MYこれ!クション_高井麻巳子BEST "wikilink")
+
+[Category:うしろ髪ひかれ隊のアルバム](https://ja.wikipedia.org/wiki/Category:うしろ髪ひかれ隊のアルバム "wikilink") [Category:2001年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2001年のベスト・アルバム "wikilink") [Category:MYこれ\!](https://ja.wikipedia.org/wiki/Category:MYこれ! "wikilink")

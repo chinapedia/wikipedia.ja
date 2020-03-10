@@ -1,0 +1,112 @@
+> この記事は[MIVEC](https://ja.wikipedia.org/wiki/MIVEC)から翻訳されています。
+
+
+**MIVEC**（マイベック、**M**itsubishi **I**ntelligent\&Innovative **V**alve timing\&lift **E**lectronic **C**ontrol system：ミツビシ・インテリジェント&イノヴェイティヴ・バルブタイミング&リフト・エレトクロニック・コントロール・システム）は、[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")が開発した[可変バルブタイミング・リフト機構の](https://ja.wikipedia.org/wiki/可変バルブ機構 "wikilink")**総称名**である。
+
+[thumbの](https://ja.wikipedia.org/wiki/ファイル:2007_Mitsubishi_Galant_Fortis_4B11_engine.jpg "wikilink") 4B11 [DOHC](../Page/DOHC.md "wikilink")16バルブ MIVECエンジン\]\] [thumbの](https://ja.wikipedia.org/wiki/ファイル:6B31.jpg "wikilink") 6B31 V6 [SOHC](../Page/SOHC.md "wikilink")24バルブ MIVECエンジン\]\] [thumbの](https://ja.wikipedia.org/wiki/ファイル:Mitsubishi-4G69_MIVEC.JPG "wikilink") 4G69 SOHC16バルブ MIVECエンジン\]\]
+
+## 概要
+
+[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")は、ピストンの上下動にともなう吸入・排気の気体流速に合わせ、低回転時はバルブの開く間隔を短くし、高回転時はバルブの開く間隔を長くすると効率が良くなる。MIVECはバルブの開閉の長さと時期をエンジンの回転数に応じて変化させる技術である。
+
+三菱自動車が開発した、可変バルブタイミング機構の**MIVEC**は、[ホンダの](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")[VTEC](../Page/VTEC.md "wikilink")や[トヨタの](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[VVT](https://ja.wikipedia.org/wiki/VVT "wikilink")などの様に数種類のタイプが存在するが、記号などで分類しておらず、三菱では後述のMIVEC-MDを除きすべて**MIVEC**と表記する、そのため混同されやすく注意が必要である。
+
+## 主なMIVECの種類
+
+### DOHCカム切り替えタイプ
+
+[ホンダの](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")[VTEC](../Page/VTEC.md "wikilink")と同じく、1本の[カムシャフト](https://ja.wikipedia.org/wiki/カムシャフト "wikilink")に低回転用と高回転用の2つの[カムを搭載し](https://ja.wikipedia.org/wiki/カム_\(機械要素\) "wikilink")、ある一定の回転数でこの2つが切り替わり、吸排気バルブのタイミングとリフト量を変化させる。VTECが3つのカムプロフィール（低速：2　高速：1）を持つのに対してMIVECでは低速・高速1つずつの計2つのカムプロフィールとなる。ロッカーアームを介する油圧を用いたカム切替機構はVTECと同様だが、分割された1本のスライドピンにより低速と高速のロッカーアームを一括して結合するVTECに対し、MIVECではバルブを押すT字型レバーに低速と高速のロッカーアームが独立して取り付けられ、それぞれに結合を行う制御ピストンがあるなど切替機構の内容は異なる。
+
+最初に出たMIVECはこのタイプであり、その後にランサーがランサーセディアとして発売されるまで、改良は加えられているものの基本的にこのタイプをベースにして他のMIVECが作られた。
+
+MIVECに限らずVTECも同様だが、2つの異なるタイプのカムを使い分ける方式は、機構的にはそこまで複雑になるわけではないが、2つのカムが切り替わる際にトルクの「谷間」があるのが欠点。
+
+なお、カム切り替え方式のMIVECは[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")が二重構造となっており、通常のシリンダーヘッドでは一体となっている[ポペットバルブ](https://ja.wikipedia.org/wiki/ポペットバルブ "wikilink")や[給排気ポートを含む](https://ja.wikipedia.org/wiki/ポート加工 "wikilink")[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")側と、[カムシャフト](https://ja.wikipedia.org/wiki/カムシャフト "wikilink")を保持する**カムホルダー**を２つに分離することが出来るようになっている。通常のシリンダーヘッドでは、カムホルダーのカムキャップとカムシャフト間の[ジャーナルの隙間](https://ja.wikipedia.org/wiki/バビットメタル "wikilink")(クリアランス)が規定値を超えて磨耗した場合、シリンダーヘッド全体を交換しなければならないが、カム切り替え方式のMIVECでは同様の状況になった場合でもカムホルダーのみの交換で対処することができる。カム切り替え方式のMIVECはカムキャップ側のジャーナルに刻まれたオイル溝を通してカム切り替えの油圧が供給されており、磨耗の進行でジャーナルのクリアランスが広がると、規定の切り替え油圧が掛からなくなり、俗に「半ベック」と呼ばれるカムの切り替えが一部の気筒又は全気筒において正常に行えない不具合が発生する。この症状が発生した場合、[エンジンオイル](https://ja.wikipedia.org/wiki/エンジンオイル "wikilink")の[粘度](https://ja.wikipedia.org/wiki/粘度 "wikilink")を固いグレードに変更してみて、なお不具合が解消出来ない場合には、カムホルダーの摩耗、オイルコントロールバルブ(OCV)の不良、ロッカーアームの破損のいずれか、又は全ての不良と判断して交換を行う必要がある。
+
+### カム切り替え・気筒休止タイプ
+
+MIVEC-MD（**M**odulated **D**isplacement 可変排気量）は、カム切り替えに加え、気筒休止をさせる構造で、MIVECで唯一記号で区別されている。 [気筒休止エンジン](https://ja.wikipedia.org/wiki/気筒休止エンジン "wikilink")にも分類される。 上で述べているように初期のMIVECは低速と高速のロッカーアームがそれぞれ独立してT字型レバーへ結合する形となっているため、低速・高速の結合を両方とも解除することでロッカーアームをフリーとする事が出来る。これによりカムからバルブへの力の伝達はなされず気筒休止が行える。[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")の4G92の場合は1番及び4番のシリンダーを[アイドリング](https://ja.wikipedia.org/wiki/アイドリング "wikilink")時に休止させ、[直列2気筒](https://ja.wikipedia.org/wiki/直列2気筒 "wikilink")として振る舞わせる事で燃費の低減を狙った。
+
+当時の風潮に押されて低燃費を謳っており、[ランサーや](https://ja.wikipedia.org/wiki/三菱・ランサー "wikilink")[エメロードなどに搭載されたものの](https://ja.wikipedia.org/wiki/三菱・エメロード "wikilink")、実際はそれほど燃費が伸びるわけでもなく、[エンジンの振動](https://ja.wikipedia.org/wiki/エンジンの振動 "wikilink")の増大も大きかった事から、多くの車種では燃費を特に重視する顧客に対して[受注生産という形で販売店に供給されたのみである為](https://ja.wikipedia.org/wiki/個別受注生産 "wikilink")、販売台数もさほど多くは伸びず、結局短命に終わった。
+
+通常のカム切り替え方式とのパーツレベルでの相違点は、カムホルダー内の油圧経路の構造と、[エンジンコントロールユニット](https://ja.wikipedia.org/wiki/エンジンコントロールユニット "wikilink")(ECU)のみであった為、MIVEC-MDが搭載された車両では、カムホルダーとECUを通常のカム切り替え方式のものと交換する事で、気筒休止機構をキャンセルする[チューニングメニューが存在した](https://ja.wikipedia.org/wiki/チューニングカー "wikilink")\[1\]。
+
+### カム位相タイプ
+
+[VVT-i](https://ja.wikipedia.org/wiki/VVT-i "wikilink")のように、[クランクシャフト](https://ja.wikipedia.org/wiki/クランクシャフト "wikilink")に対して[カム](https://ja.wikipedia.org/wiki/カム "wikilink")を位相変化させ低回転時と高回転時でバルブタイミングを変化させる。負荷状態でも位相を変化させるが、バルブの開いている間隔とバルブリフト量の変化は無い。現在でも小排気量車はこの方式が主流である。
+
+### 両側カム位相タイプ
+
+[DUAL VVT-iと同じように吸気側](https://ja.wikipedia.org/wiki/VVT-i#DUAL_VVT-i "wikilink")、排気側両方を位相制御する。
+
+### SOHCカム切り替えタイプ
+
+[SOHC](../Page/SOHC.md "wikilink")で吸気側のみカム切替を行う方式\[2\]。カムシャフトのカムローブは端から中リフト-排気カム-高リフト-排気カム-低リフトと5つ設けられている。ロッカーアームの形状はやや複雑だが、大きく分けると低・中リフトカムに接するアームと高リフトカムに接するアームに別れる。左右に低・中リフトカムに接するアームがあり、中央に高リフトカムと接するアームが配置される形となっている。中央アームの上部にはT字型のレバーがあり左右のアームの上部にあるピストンを内蔵した凸部位に接する。通常はピストンが下がっている事で遊びが生じ、高リフトカムが中央の[ロッカーアーム](https://ja.wikipedia.org/wiki/ロッカーアーム "wikilink")を押し上げても接触すること無く空振りする。これにより低回転時には低・中リフトカムが左右それぞれのアームを押し上げ吸気バルブを作動させる形となる。2つの吸気バルブ間でリフト差を設けているのは筒内流動を強化し燃焼安定性を向上させるためである。 高回転では左右の各アーム上部の遊び部分が油圧でせり上がったピストンにより塞がれる。この事により中央のアームのT字型のレバーが左右のアームの凸部位内のピストンと接触し、高リフトカムの力を左右のアームに伝達し両バルブを高リフトで開閉する。
+
+### 次世代MIVEC(連続可変バルブリフト・カム位相タイプ)
+
+[thumbエンジンで正式採用された次世代MIVECのカットモデル](https://ja.wikipedia.org/wiki/ファイル:Next_MIVEC_at_TMS2005.jpg "wikilink")\]\] 2005年東京モーターショーで技術展示され、バルブリフト量を連続可変することで、スロットルバルブを使わずに出力を制御するエンジンで、[BMW](../Page/BMW.md "wikilink")の[バルブトロニック](https://ja.wikipedia.org/wiki/バルブトロニック "wikilink")やトヨタの[バルブマチック](https://ja.wikipedia.org/wiki/バルブマチック "wikilink")などと同じ様に連続可変バルブリフト制御するが、三菱では**DOHCではなく、SOHCで作動**させている。
+
+本システムは吸気バルブ制御をカム位相変化を伴う連続可変リフトとし、位相はリフト量の増大に連動しカムが遅角する。それとは別にカムシャフトの位相変化も行なっている。 一般的な連続可変バルブリフト機構は単独ではリフト量の変化のみで位相変化はほぼ生じない。このため吸気の開弁時期をリフト量に関わらず上死点前後とするにはカムシャフトの位相変化を行う必要性があった\[3\]。この点から吸気バルブを位相変化した場合に排気バルブの位相も変化してしまうSOHCでの従来方式の連続可変リフト機構の採用を困難としていた\[4\]。 しかし本システムではリフト量と連動して遅角を行うため、リフト量に関わらず開弁時期はほぼ一定となり、カムシャフトの位相変化を必要とせずSOHCでも十分に成立する形となっている。 この様に開発時はカム位相変化機構が不要になるというメリットも謳っていたが、導入にあたってはカム位相変化機構を併用する形になった。 これは吸排気の位相を同時に変化させる事で下記の様な作用が得られるためである。
+
+吸気バルブはリフト量が大きくなるほど遅角する。これにより低負荷の低リフト時では吸気は早閉じとなり、さらにカム位相も進角することで早閉じ[ミラーサイクル](https://ja.wikipedia.org/wiki/ミラーサイクル "wikilink")として作用し吸気ポンプ損失を低減、また連動して排気も早開きとなるため排出ポンプ損失が低減する。 中負荷時は高リフトとなると共に遅角、さらにカム位相も遅角する事で遅閉じミラーサイクルとして作用し吸気ポンプ損失を低減、排気も遅開きとなり膨張エネルギーを最大限回収する形となる。さらにリフト量増大によるオーバーラップ拡大と排気遅閉じとなる事から排気を再導入する形となり内部[EGRとしても作用する](../Page/排気再循環.md "wikilink")。このため本タイプのMIVECを採用した[4J10エンジンのベースになった](https://ja.wikipedia.org/wiki/三菱・4J1型エンジン "wikilink")[4B10](https://ja.wikipedia.org/wiki/4B10 "wikilink")エンジンで使用されていたEGR装置は4J10では省略されている。
+
+SOHCではカム位相を変化させると吸気と排気の位相が同時に変化してしまう事からバルブオーバーラップは変わらず、排気バルブのタイミングにも常に影響を与えてしまうため、SOHCエンジンでカム位相可変機構が採用される事は限定的\[5\]で本システムは結果的にではあるがSOHCながらカム位相変化機構を持つ比較的珍しい形式となっている。
+
+なお完全なスロットルレスではなくアイドル時の燃焼安定やブレーキサーボやブローバイガス吸引の負圧を発生させるためなどにスロットルバルブは残され、[フェイルセーフ](https://ja.wikipedia.org/wiki/フェイルセーフ "wikilink")も兼ねている。
+
+## 三菱可変バルブ機構の歴史
+
+  - 1982年、日本初の[気筒休止エンジン](https://ja.wikipedia.org/wiki/気筒休止エンジン "wikilink")の[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[SOHC](../Page/SOHC.md "wikilink")1400オリオンMDエンジンを発売、当時キャブレター仕様で気筒休止していた。
+  - 1984年、気筒休止技術を応用し、日本初の[可変バルブタイミング・リフト機構の](https://ja.wikipedia.org/wiki/可変バルブ機構 "wikilink")[シリウスDASH3x2を発売](https://ja.wikipedia.org/wiki/三菱・シリウスDASH3×2 "wikilink")、この当時はMIVECとは呼ばれておらずターボ専用エンジンであった。
+  - 1992年、[ランサーMR](https://ja.wikipedia.org/wiki/三菱・ランサー "wikilink")、[ミラージュサイボーグ、VR](https://ja.wikipedia.org/wiki/三菱・ミラージュ "wikilink") の4G92エンジンに初搭載され、[FTOや](https://ja.wikipedia.org/wiki/三菱・FTO "wikilink")[ギャランの](https://ja.wikipedia.org/wiki/三菱・ギャラン "wikilink")6A12,ディアマンテ(6G72),パジェロエボリューション(6G74)など順次ラインナップを拡充していった。後にバルブタイミング機構を[気筒休止に応用し](https://ja.wikipedia.org/wiki/気筒休止エンジン "wikilink")、高出力と低燃費の両立を謳ったMIVEC-MD（Modulated Displacement 可変排気量）もギャラン、ミラージュ・ランサー用に発表された。
+  - 1990年代後半から主力エンジンがMIVECから[ガソリン直噴エンジン](https://ja.wikipedia.org/wiki/ガソリン直噴エンジン "wikilink")のGDIに移り変わっていき、ランサーがランサーセディアとして売り出された際に完全にMIVECからGDIに移り変わり、MIVECは一時姿を消した。
+  - 2002年10月、[コルトの](https://ja.wikipedia.org/wiki/三菱・コルト "wikilink")4G15にMIVECが搭載され、これによってMIVECが復活する。しかしこのMIVECは制御するのはバルブタイミングのみであり、以前のMIVECと名前は同じであるが動作は違う。これ以降、排出ガス規制の問題で、リーンバーンでの排気ガス清浄化が難しいGDIに代わり、MIVECを搭載するエンジンが増えてきた。
+  - 2003年5月、[グランディスにSOHCカム切替タイプのMIVECが搭載される](https://ja.wikipedia.org/wiki/三菱・グランディス "wikilink")。MIVECは吸気側のみとなる。
+  - 2005年、[アウトランダーの](https://ja.wikipedia.org/wiki/三菱・アウトランダー "wikilink")[4B12に吸](https://ja.wikipedia.org/wiki/三菱・4B1型エンジン "wikilink")・排気連続可変バルブタイミング機構が搭載されて発売される。
+  - 2011年10月、マイナーチェンジした[RVR](https://ja.wikipedia.org/wiki/RVR "wikilink")と[ギャランフォルティス](https://ja.wikipedia.org/wiki/ギャランフォルティス "wikilink")(スポーツバック含)に連続可変バルブリフト・位相変化タイプMIVECとなる4J10を搭載。
+  - 2012年、10年ぶりにブランド復活したミラージュ\[6\]にMIVEC付の3A90が搭載。機構自体は吸気のみの連続可変バルブタイミングであり新しいものではない。
+
+## 採用状況
+
+なお、ここでは、日本車には搭載されていないエンジンも含む。
+
+  - 4G92 1,597cc [直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")（[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink") - [2000年](../Page/2000年.md "wikilink")）DOHC切り替えタイプ
+  - 6A12 1,998cc [V型6気筒](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")（[1994年](../Page/1994年.md "wikilink") - 2000年）DOHC切り替えタイプ
+  - 6G72 2,972cc V型6気筒（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - 1997年）DOHC切り替えタイプ
+  - [4G15](https://ja.wikipedia.org/wiki/三菱・4G1型エンジン "wikilink") 1,468cc 直列4気筒（[2003年](../Page/2003年.md "wikilink") – 現行）　
+  - 4G69 2,378cc 直列4気筒（2003年 - 現行）　SOHC切り替えタイプ
+  - [4A90](https://ja.wikipedia.org/wiki/三菱・4A9型エンジン "wikilink") 1,332cc 直列4気筒（[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink") - 現行）
+  - [4A91](https://ja.wikipedia.org/wiki/三菱・4A9型エンジン "wikilink") 1,499cc 直列4気筒　（2004年 - 現行）
+  - [3B20](https://ja.wikipedia.org/wiki/三菱・3B2型エンジン "wikilink") 659cc [直列3気筒](https://ja.wikipedia.org/wiki/直列3気筒 "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") – 現行）※[日産・デイズ](https://ja.wikipedia.org/wiki/日産・デイズ "wikilink")用を含む
+  - [3B21](https://ja.wikipedia.org/wiki/三菱・3B2型エンジン "wikilink") 999cc 直列3気筒（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - 現行）※[スマート・フォーツー](https://ja.wikipedia.org/wiki/smart_\(自動車\) "wikilink")（2代目）専用
+  - [4G63](https://ja.wikipedia.org/wiki/三菱・4G63 "wikilink") 1,997cc 直列4気筒（2005年 - 2007年）　位相タイプ
+  - 6G75 3,828cc V型6気筒（2005年 - 現行）　SOHC切り替えタイプ
+  - [4B12](https://ja.wikipedia.org/wiki/三菱・4B1型エンジン "wikilink") 2,359cc 直列4気筒（2005年 - 現行）　両側位相タイプ
+  - 4B11 1,998cc 直列4気筒（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink") - 現行）両側位相タイプ
+  - [6B31](https://ja.wikipedia.org/wiki/三菱・6B3型エンジン "wikilink") 2,998cc V型6気筒（2007年 - 現行）SOHC切り替えタイプ
+  - [4J10](https://ja.wikipedia.org/wiki/三菱・4J1型エンジン "wikilink") 1,798cc 直列4気筒(2011年 - 現行)連続可変バルブリフト・位相タイプ
+  - [3A90](https://ja.wikipedia.org/wiki/三菱・3A9型エンジン "wikilink") 999cc 直列3気筒（[2012年](../Page/2012年.md "wikilink") - 現行）※ミラージュ（6代目）専用
+  - [4B40](https://ja.wikipedia.org/wiki/三菱・4B4型エンジン "wikilink") 1,498cc 直列4気筒（[2018年](../Page/2018年.md "wikilink") - 現行）※[エクリプスクロス専用](https://ja.wikipedia.org/wiki/三菱・エクリプスクロス "wikilink")
+
+## 関連項目
+
+  - [可変バルブ機構](https://ja.wikipedia.org/wiki/可変バルブ機構 "wikilink")
+  - [気筒休止エンジン](https://ja.wikipedia.org/wiki/気筒休止エンジン "wikilink")
+  - [三菱・シリウスDASH3×2](https://ja.wikipedia.org/wiki/三菱・シリウスDASH3×2 "wikilink")
+
+## 外部リンク
+
+  - [三菱自動車技術紹介ページ](http://www.mitsubishi-motors.co.jp/corporate/technology/environment/mivec.html)
+  - [2005東京モーターショー 技術展示コーナー NEW ENGINES](http://www.mitsubishi-motors.co.jp/special/tms2005/index.html)（リンク切れ）
+
+## 注
+
+[Category:往復動機関](https://ja.wikipedia.org/wiki/Category:往復動機関 "wikilink") [Category:自動車エンジン技術](https://ja.wikipedia.org/wiki/Category:自動車エンジン技術 "wikilink") [Category:三菱自動車工業のエンジン](https://ja.wikipedia.org/wiki/Category:三菱自動車工業のエンジン "wikilink")
+
+1.  [三菱ランサーＭＲ　Ｖｅｒ2003 - Ｓ07’ｓ-Ｆａｃｔｏｒｙ](http://www.geocities.co.jp/MotorCity-Rally/4515/S07CB4A.htm)
+2.  [三菱テクニカルレビュー2003(PDF)](http://www.mitsubishi-motors.com/jp/spirit/technology/technical_review/pdf/technical_review_2003.pdf)61ページ
+3.  位相が不変の場合、例えば低リフト時に上死点で開弁する設定にすると高リフト時は開弁時期が上死点より早くなりオーバーラップが過大、閉弁も理想的な時期より早くなってしまう。逆に高リフト時に上死点で開弁する設定とすると低リフト時では吸気工程の中間位置で開閉が行うわれる形となり、出力特性的に好ましくない。
+4.  フィアットのマルチエアはSOHCの連続可変リフトではあるが、油圧を介するシステムであるためカムプロフィールのリフト部分の範囲で開弁時期を自由に設定できる。このためカムシャフトの位相変化は必要としない。
+5.  SOHCでカム位相可変機構を採用したものとしてはフォードのモジュラーV8などがある
+6.  派生車種の[ミラージュディンゴ以来となる](https://ja.wikipedia.org/wiki/三菱・ミラージュディンゴ "wikilink")。

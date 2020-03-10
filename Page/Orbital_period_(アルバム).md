@@ -1,0 +1,149 @@
+> この記事は[Orbital period \(\)](https://ja.wikipedia.org/wiki/Orbital_period_\(\))から翻訳されています。
+
+
+『**orbital period**』（オービタル・ピリオド）は、[BUMP OF CHICKENのメジャー](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")3枚目、通算5枚目の[アルバム](../Page/アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")から発売された。
+
+## 解説
+
+前作『[ユグドラシル](https://ja.wikipedia.org/wiki/ユグドラシル_\(アルバム\) "wikilink")』以来、3年4か月ぶりのアルバム。ジャケット写真はBUMP OF CHICKENのロゴにも使われ、「メーデー」のPVにも登場する「星の鳥」。
+
+タイトルの「orbital period」は、[公転周期](../Page/公転周期.md "wikilink")（軌道周期）を意味する。歌詞カードは[藤原が書き下ろしたオリジナルストーリー](https://ja.wikipedia.org/wiki/藤原基央 "wikilink")「星の鳥」のブックレットと一体型になっており、88ページにも及ぶものとなっている（後述）。また、ブックレットと[CDケースを収納するスリーブケースが付属している](../Page/コンパクトディスク.md "wikilink")。
+
+隠しトラックを含めると全部で18曲、無音の曲も含めたトラック数は28曲になる。「**28**」という数字は、BUMP OF CHICKENのメンバーの当時の年齢であり、タイトルの公転周期をも意味する。『orbital period』オリジナルプレミアムグッズ抽選応募券同梱。
+
+オリコンチャートでは3作連続の1位獲得はならなかったものの、初動売上と年間順位はアルバムでは自己最高を記録した。 初動売上は38.1万枚を記録。2016年現在シングル、アルバム通して自己最高の初動売上となっており、この記録を超える作品は存在しない。
+
+裏ジャケットには「星の鳥」の中で作っていた「土でできた星の鳥」を写したと思われる写真がある。よく見ると、BUMP OF CHICKENのロゴマークの形になっている。この写真の元は、[世界遺産](../Page/世界遺産.md "wikilink")の[カナイマ国立公園](../Page/カナイマ国立公園.md "wikilink")である。
+
+## 収録曲
+
+  - 全曲作詞・作曲：藤原基央　編曲：BUMP OF CHICKEN
+
+<!-- end list -->
+
+1.  **voyager**
+      -
+        「flyby」と対になる曲。
+        「flyby」と同時に作られた曲で、他の曲が全て揃って[ミックスをしている最中に藤原が](https://ja.wikipedia.org/wiki/ミキシング "wikilink")[スタジオ](https://ja.wikipedia.org/wiki/スタジオ "wikilink")の会議室のような部屋で書き上げ、その後すぐにスタッフやメンバーに聞いてもらったという。[直井曰く](https://ja.wikipedia.org/wiki/直井由文 "wikilink")、この曲は藤原が[ライブの](https://ja.wikipedia.org/wiki/演奏会 "wikilink")[リハーサル](../Page/リハーサル.md "wikilink")などで[ギター](../Page/ギター.md "wikilink")を持つと常に弾いていた[アルペジオ](https://ja.wikipedia.org/wiki/アルペジオ "wikilink")で、直井自身もアルペジオだけで構成されている曲だと思っていたところ、[歌詞](../Page/歌詞.md "wikilink")と[メロディ](../Page/メロディ.md "wikilink")が付くと知らされて驚いたらしい\[1\]。このアルペジオは、ギターのそれぞれの[弦が別々に](../Page/弦_\(楽器\).md "wikilink")[録音](../Page/録音.md "wikilink")され、別々に[パンニングされている](https://ja.wikipedia.org/wiki/パンニング_\(音響\) "wikilink")。「アルバムの製作では最後にできた曲だが、『orbital period』という作品に真っ直ぐ芯を通してくれた2曲だ」と語っている。タイトルの由来は発売年から28年前（1979年）に木星に接近(flyby)した[ボイジャー1号](https://ja.wikipedia.org/wiki/ボイジャー1号 "wikilink")。
+        アウトロは次の「星の鳥」と繋がっている。
+2.  **星の鳥**
+      -
+        [インストゥルメンタル楽曲](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。この曲は「[メーデー](../Page/メーデー_\(BUMP_OF_CHICKENの曲\).md "wikilink")」のレコーディング中にディレクターが「「メーデー」をアルバムに入れるときは、前奏を長くして入れよう」と発案したことがきっかけで製作され、藤原自身、そのアイディアについてすごくドラマチックなことだと感じていた\[2\]。曲の製作過程は、「メーデー」で使用されているアルペジオで、リード・フレーズ的な表情や役割を持っているものを抜き出し、それに[和音](../Page/和音.md "wikilink")を加えるというもの。その為にいろいろな和音の数や[小節](https://ja.wikipedia.org/wiki/小節 "wikilink")の数を考え、最終的にしっくりきた組み合わせは、藤原曰く「理論的にはすごく変な小節」だという。
+        「星の鳥」と「メーデー」は曲としては繋がっているが、トラックは分かれている。
+3.  **[メーデー](../Page/メーデー_\(BUMP_OF_CHICKENの曲\).md "wikilink")**
+      -
+        14thシングル。
+        前曲「星の鳥」と音が繋がっている。その関係で、シングルバージョンより前奏部分が約8秒カットされている。
+        PVはシングル発売当初は発表されず、本作の発売期になって発表された。なおPVの一部が、本作のCMに用いられている。
+4.  **才悩人応援歌**
+      -
+        2007年早春に作られた曲。製作中の意図は藤原もあまり覚えておらず、曰く「バーッと書いた曲」\[3\]。
+        [プリプロの前日に曲について考えていたがまとまらず](https://ja.wikipedia.org/wiki/プリプロダクション "wikilink")、そのまま徹夜でプリプロに行くという事態になり、バンド練習の時間がなかったためにその場の勢いでギターを弾いて歌った、とのこと\[4\]。[増川はその時のことについて](https://ja.wikipedia.org/wiki/増川弘明 "wikilink")「[リズム](../Page/リズム.md "wikilink")のきっかけやトリックが全く解らず、驚きの連続だったが、聴いて弾いている方がハマってくる魅力のある曲。聴いたその瞬間からハマっていた」と語っている\[5\]。
+5.  **[プラネタリウム](https://ja.wikipedia.org/wiki/プラネタリウム_\(BUMP_OF_CHICKENの曲\) "wikilink")**
+      -
+        10thシングル。
+6.  **[supernova](https://ja.wikipedia.org/wiki/supernova/カルマ "wikilink")**
+      -
+        11thシングル「supernova/カルマ」1曲目。
+7.  **ハンマーソングと痛みの塔**
+      -
+        シングルを除けばアルバムの中で最も早い2006年の秋に完成した曲\[6\]。[コード進行](https://ja.wikipedia.org/wiki/コード進行 "wikilink")やメロディの断片的なアイディアだけが最初にあり、何か書こうと思って書いていたら完成した、と藤原は述べている。藤原は、「あの曲は大きな声で歌わないと書けなかったと思いますね」と語っている。藤原はこの曲が書き上がるとマンションの自室に直井と升を呼び（増川は携帯電話の電波が圏外の場所にいたため連絡が取れなかった）、2人に披露したが、その際マンションの共用掲示板に苦情の貼り紙を貼り出されてしまったという\[7\]。
+8.  **時空かくれんぼ**
+      -
+        「ひとりごと」と同時期に作られた。「8分の6拍子をやってみたい」という藤原の思いから作られた楽曲\[8\]。直井は「8分の6拍子のリズムなのに、メロディがそう聞こえさせてくれない。本当に8分の6拍子なのか、それとも[変拍子](https://ja.wikipedia.org/wiki/変拍子 "wikilink")なのか考えさせられた」としている\[9\]。
+9.  **かさぶたぶたぶ**
+      -
+        [ビートルズ](https://ja.wikipedia.org/wiki/ビートルズ "wikilink")が使用していたものに近い[楽器](../Page/楽器.md "wikilink")で録音されている。元々、藤原が持ち込んだ[隠しトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")の予定だったが、急遽アルバム曲へ昇格した\[10\]。「何の制作でも一度も手を抜いたことは無く、こういうイレギュラーな形で曲が生まれることもある」ということを表した一曲\[11\]。
+        アウトロの余韻が次の 「花の名」 に繋がっている。
+10. **[花の名](../Page/花の名.md "wikilink")**
+      -
+        13thシングル。
+        特に表記はされていないがアルバムバージョンであり、シングルバージョンと比べて[弦一徹ストリングスによるストリングスの音が抑えられている](https://ja.wikipedia.org/wiki/落合徹也 "wikilink")。
+11. **ひとりごと**
+      -
+        「時空かくれんぼ」と同時期に作られた曲\[12\]。
+12. **飴玉の唄**
+      -
+        2006年末に書かれた曲で、「ハンマーソングと痛みの塔」の次にこのアルバムの中で早い段階で作られた曲である\[13\]。曲を書いた時、ギターで弾き小さな声で歌いながらできたという\[14\]。藤原はこの曲以降、弾き語りでデモを録っている時に他のメンバーがブースにいるのを気恥ずかしく思い、プリプロで1人で作業するようになったという\[15\]。
+13. **星の鳥 reprise**
+      -
+        インストゥルメンタル。こちらも「星の鳥」と同様に「メーデー」の前奏の一部が使用されている。
+14. **[カルマ](https://ja.wikipedia.org/wiki/supernova/カルマ "wikilink")**
+      -
+        11thシングル「supernova/カルマ」2曲目。
+        [PS2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[テイルズ オブ ジ アビス](https://ja.wikipedia.org/wiki/テイルズ_オブ_ジ_アビス "wikilink")』主題歌。
+15. **arrows**
+      -
+16. **[涙のふるさと](https://ja.wikipedia.org/wiki/涙のふるさと "wikilink")**
+      -
+        12thシングル。
+17. **flyby**
+      -
+        「voyager」と[伴奏](https://ja.wikipedia.org/wiki/伴奏 "wikilink")はほぼ同じだが、歌詞やメロディーに差異がある。
+
+<!-- end list -->
+
+  - [隠しトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")に「**ハテナッチセブンクエスチョンズ**」が歌う「**BELIEVE**」(作詞・作曲:BUMP OF CHICKEN)が収録されている。
+      - メンバーの家で会議をするバンドがアドリブ・[アカペラ](https://ja.wikipedia.org/wiki/アカペラ "wikilink")で[即興演奏](../Page/即興演奏.md "wikilink")をするという内容の寸劇。曲中では「ワンダーセブン」「トリプルミーニング（間違えて「トリプルミー**ミ**ング」と言っている）」などがバンド名を決める話し合いの際の候補に挙がっているが、実際にそれが「ハテナッチセブンクエスチョンズ」に決定したのは隠しジャケットでのみわかる。
+
+## ブックレット「星の鳥」
+
+88ページに及ぶ歌詞カードを兼ねたブックレットで、オリジナルストーリーが収録されている。「星の鳥」を手にいれようとする王様と動物たちを巡る物語だが、モチーフを一部共有している以外に収録曲との直接的な関連性はない。イラストレーションは藤原基央、デザインは[タイクーングラフィックス](../Page/タイクーングラフィックス.md "wikilink")。歌詞カードのアイデアを練っていた時に藤原の発案で収録が決定したが、構想を練るうちにCDケースに収まらないものにまで膨れ上がっていき、アルバムの〆切間近にカンヅメ状態で一気に描き上げなければならなくなった。結局、最も忙しい時期で1〜2時間しか眠れないほどのタイトなスケジュールになってしまった。藤原は「もうやりたくない」というほどであった。
+
+## 参加ミュージシャン
+
+  - 弦一徹ストリングス：Strings(M-10)
+
+## PV集
+
+BUMP OF CHICKENの4作目の[PV集](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月14日](../Page/5月14日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")から発売された。
+
+### 解説
+
+「[涙のふるさと](https://ja.wikipedia.org/wiki/涙のふるさと "wikilink")」の監督は[山崎貴](https://ja.wikipedia.org/wiki/山崎貴 "wikilink")。それ以外の全てのPVの監督は[番場秀一](https://ja.wikipedia.org/wiki/番場秀一 "wikilink")。同名のアルバム『**orbital period**』の曲を中心に収録。
+
+特典として、ポストカードとステッカーが封入されている。また、翌月発売のアルバム『present from you』との連動プレミアム・グッズ応募抽選券も封入されている。「ALL PLAY」で見ると、「星の鳥」エディット映像に続きダイレクトで「メーデー」が再生される。
+
+### 収録曲
+
+1.  [メーデー](../Page/メーデー_\(BUMP_OF_CHICKENの曲\).md "wikilink")
+      -
+        音源はシングルバージョンである。2008年度の[SPACE SHOWER Music Video Awardsの](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink")「BEST YOUR CHOICE」部門において、「花の名」に次ぐ2位を獲得している。
+2.  [花の名](../Page/花の名.md "wikilink")
+      -
+        「メーデー」と同一の子役が出演している。SPACE SHOWER Music Video Awardsで2008年度「BEST VIDEO OF THE YEAR」「BEST YOUR CHOICE」「BEST GROUP VIDEO」を受賞した。同一年での3冠達成は史上初である。
+3.  [プラネタリウム](https://ja.wikipedia.org/wiki/プラネタリウム_\(BUMP_OF_CHICKENの曲\) "wikilink")
+      -
+        撮影は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[厚木市](https://ja.wikipedia.org/wiki/厚木市 "wikilink")の厚木こども科学館のプラネタリウムで行われた。
+4.  [supernova](https://ja.wikipedia.org/wiki/supernova/カルマ "wikilink")
+      -
+        六本木ヒルズにセットを組み上げ、インターネット上で募集した数千人のファンの中で撮影された。『[天体観測](https://ja.wikipedia.org/wiki/天体観測_\(曲\) "wikilink")』のPVの出演者（子役）も出演している。
+5.  [カルマ](https://ja.wikipedia.org/wiki/supernova/カルマ "wikilink")
+      -
+        メンバー全員に対してそれぞれの「もう一人の自分」が登場している。[テイルズ オブ ジ アビスと多少リンクされている](https://ja.wikipedia.org/wiki/テイルズ_オブ_ジ_アビス "wikilink")。通常版シングルのジャケットとも連動している。
+6.  [涙のふるさと](https://ja.wikipedia.org/wiki/涙のふるさと "wikilink")
+      -
+        [ロッテ](../Page/ロッテ.md "wikilink")のチョコレート『エアーズ』のCMソングであり、PVはCMの延長線上にある内容で、CMと同様[堀北真希](https://ja.wikipedia.org/wiki/堀北真希 "wikilink")と[森岡龍](../Page/森岡龍.md "wikilink")が出演し、映画監督の山崎貴が監督した。メジャーデビュー以降PVを手掛けて来た番場秀一は初めてスタッフから外れた。
+7.  [ギルド](https://ja.wikipedia.org/wiki/ユグドラシル_\(アルバム\) "wikilink")
+      -
+        4thアルバム『ユグドラシル』の収録曲。2006年9月に無声映像作品『人形劇ギルド』としてリリースされる際に製作されたもの。『人形劇ギルド』の映像と2006年3月に行われた代々木第一体育館でのライブ映像を組み合わせたものである。
+
+## 脚注
+
+[Category:BUMP_OF_CHICKENのアルバム](https://ja.wikipedia.org/wiki/Category:BUMP_OF_CHICKENのアルバム "wikilink") [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink")
+
+1.  「MUSICA」2008年1月号
+2.  DROPS Special Issue「BUMP OF CHICKEN」（2007年12月19日発行）
+3.  DROPS Special Issue「BUMP OF CHICKEN」（2007年12月19日発行）
+4.  DROPS Special Issue「BUMP OF CHICKEN」（2007年12月19日発行）
+5.  DROPS Special Issue「BUMP OF CHICKEN」（2007年12月19日発行）
+6.  「MUSICA」2008年1月号
+7.  「MUSICA」2008年1月号
+8.  「MUSICA」2008年1月号
+9.  DROPS Special Issue「BUMP OF CHICKEN」（2007年12月19日発行）
+10. BASS MAGAZINE 2008年1月号より
+11. DROPS Special Issue「BUMP OF CHICKEN」（2007年12月19日発行）
+12. 「MUSICA」2008年1月号
+13. 「MUSICA」2008年1月号
+14. 「MUSICA」2008年1月号
+15. DROPS Special Issue「BUMP OF CHICKEN」（2007年12月19日発行）

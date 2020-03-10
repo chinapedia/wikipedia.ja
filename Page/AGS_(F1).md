@@ -1,0 +1,121 @@
+> この記事は[AGS \(F1\)](https://ja.wikipedia.org/wiki/AGS_\(F1\))から翻訳されています。
+
+
+**AGS** (**Automobiles Gonfaronaises Sportives**) は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")まで[F1に参戦していた](../Page/フォーミュラ1.md "wikilink")[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")のレーシングチームである。
+
+## 歴史
+
+### F1参戦前
+
+1968年、南フランスのゴンファロンを本拠地に[アンリ・ジュリアン](https://ja.wikipedia.org/wiki/アンリ・ジュリアン "wikilink")が500ccのシングルシーターのマシンを製作するために作ったチームが発祥である。
+
+その後、チームは[F3や国際](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")[F2](../Page/フォーミュラ2.md "wikilink")、その後身である国際[F3000にチームは参戦](../Page/フォーミュラ3000.md "wikilink")。F2時代にはチャンピオンを経験するなどの活躍をしていた。
+
+### F1参戦
+
+#### 1986年
+
+チームはスポット参戦ながらF1に打って出た。
+
+シャーシは[ルノーF1](https://ja.wikipedia.org/wiki/ルノーF1 "wikilink")の前年型マシン[RE60を](https://ja.wikipedia.org/wiki/ルノー・RE60 "wikilink")[クリスチャン・バンダープレイン](https://ja.wikipedia.org/wiki/クリスチャン・バンダープレイン "wikilink")が改良した[JH21C](https://ja.wikipedia.org/wiki/AGS・JH21C "wikilink")、エンジンは[モトーリ・モデルニ](https://ja.wikipedia.org/wiki/モトーリ・モデルニ "wikilink")V型6気筒ターボを搭載したもので、ドライバーは国際F3000でスタードライバーとされていた[イヴァン・カペリ](https://ja.wikipedia.org/wiki/イヴァン・カペリ "wikilink")を起用した。タイヤは[ピレリ](https://ja.wikipedia.org/wiki/ピレリ "wikilink")を装着した。
+
+JH21Cは明らかに過重で、参戦したイタリアGPとポルトガルGPではともに予選25位、決勝はリタイヤに終わった。
+
+#### 1987年
+
+チームは1台体制ながらもフル参戦を果たす。
+
+マシンはJH21Cの改良型[JH22でエンジンは自然吸気の](https://ja.wikipedia.org/wiki/AGS・JH22 "wikilink")[フォード・コスワース・DFZ](https://ja.wikipedia.org/wiki/フォード・コスワース・DFVエンジン#DFZ "wikilink")（V型8気筒）エンジンを搭載。タイヤは[グッドイヤー](https://ja.wikipedia.org/wiki/グッドイヤー "wikilink")を装着した。
+
+ドライバーは[レイトンハウス](https://ja.wikipedia.org/wiki/レイトンハウス "wikilink")・[マーチに移籍したカペリにかわり国際F](https://ja.wikipedia.org/wiki/マーチ・エンジニアリング "wikilink")3000ドライバーの[パスカル・ファブル](https://ja.wikipedia.org/wiki/パスカル・ファブル "wikilink")を起用した。
+
+しかしながら状況は改善することはなく、決勝では9位を獲得したりしたものの、予選では通過ギリギリの26位であることが多く、また資金難でマシン開発が進まず第11戦イタリアGPでは予選落ちを喫し、第14戦[メキシコGPで](https://ja.wikipedia.org/wiki/メキシコグランプリ "wikilink")3回目の予選落ちを喫したところでファブルを解雇、代わりに[ロベルト・モレノ](https://ja.wikipedia.org/wiki/ロベルト・モレノ "wikilink")を起用した。
+
+モレノも最後列からのスタートながら最終戦[オーストラリアGPでは完走](https://ja.wikipedia.org/wiki/1987年オーストラリアグランプリ "wikilink")9台のレースで6位となり、チームの初ポイントを記録した。
+
+#### 1988年
+
+新車[JH23は前年までのマシンとは全く変わってシンプルでコンパクトな設計だった](https://ja.wikipedia.org/wiki/AGS・JH23 "wikilink")。エンジンはフォード・コスワースのエンジンを使用した。タイヤはグッドイヤー。
+
+ドライバーは国際F3000に戻ったモレノにかわって、F2時代に起用していた[フィリップ・ストレイフ](https://ja.wikipedia.org/wiki/フィリップ・ストレイフ "wikilink")を起用。
+
+シーズン序盤には予選10位（[カナダグランプリ](https://ja.wikipedia.org/wiki/カナダグランプリ "wikilink")）を記録するなどそこそこのポテンシャルを見せたものの、信頼性が低く、また資金難でマシン開発が進まず、シーズンが進むにつれて後退していくという状況であった。
+
+この年の決勝における最高位は[日本グランプリでストレイフが記録した](https://ja.wikipedia.org/wiki/1988年日本グランプリ_\(4輪\) "wikilink")8位である。
+
+#### 1989年
+
+参戦4年目にして2台体制になる。
+
+ドライバーは当初ストレイフが残留予定だったものの、シーズン前のテストでクラッシュ、半身不随となり引退を余儀なくされる。
+
+開幕戦ではとりあえず新人の[ヨアヒム・ヴィンケルホック](https://ja.wikipedia.org/wiki/ヨアヒム・ヴィンケルホック "wikilink")単独で出走し、第2戦から[ガブリエル・タルキーニ](https://ja.wikipedia.org/wiki/ガブリエル・タルキーニ "wikilink")を2台目で走らせた。
+
+マシンは第7戦まで前年型で走らせ、第8戦から[クロード・ギャロパン](https://ja.wikipedia.org/wiki/クロード・ギャロパン "wikilink")設計の[JH24をまず](https://ja.wikipedia.org/wiki/AGS・JH24 "wikilink")1台、第12戦で2台目を登場させた。エンジンは[コスワース・DFR](https://ja.wikipedia.org/wiki/フォード・コスワース・DFVエンジン#DFR "wikilink")、タイヤはグッドイヤー。
+
+タルキーニがそれでもなお熟練の走りを見せ、[メキシコグランプリ](https://ja.wikipedia.org/wiki/メキシコグランプリ "wikilink")では6位入賞し、チームに久々のポイントをもたらした。
+
+しかし、前半戦を前年型で走らせるところからわかるとおり、チームはかなりの資金難に陥っており、新型マシンのポテンシャルも低く、後半戦からタルキーニも[予備予選組に落ちた途端に予備予選を通過できなくなった](https://ja.wikipedia.org/wiki/予備予選_\(F1\) "wikilink")。
+
+ビンケルホックは予備予選落ちを繰り返し、チームは第8戦から[ヤニック・ダルマス](../Page/ヤニック・ダルマス.md "wikilink")を起用した。
+
+#### 1990年
+
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、タルキーニとダルマスが残留し、マシンは最初の2戦、前年のJH24で走らせ、第3戦から[ミシェル・コスタ](https://ja.wikipedia.org/wiki/ミシェル・コスタ "wikilink")設計の[JH25を投入する](https://ja.wikipedia.org/wiki/AGS・JH25 "wikilink")。エンジンはコスワース・DFR、タイヤはグッドイヤー。
+
+二人とも予備予選からの出走で、マシンのポテンシャルも低く、常に後方集団に居るという状況で、決勝進出はタルキーニが4回、ダルマスが5回のみだった。この年の決勝における最高位は[スペイングランプリ](https://ja.wikipedia.org/wiki/スペイングランプリ "wikilink")でダルマスが記録した9位である。
+
+このシーズンオフ、同じフランスの[ラルースとの合併話があったが](https://ja.wikipedia.org/wiki/ラルース_\(F1チーム\) "wikilink")、ラルースの失格騒動（詳しくはラルースの項参照）で立ち消えとなった。
+
+また、これまでチーム代表だったジュリアンが辞職し、[シリル・ド・ルーブル](https://ja.wikipedia.org/wiki/シリル・ド・ルーブル "wikilink")が新たに代表についたが、チームの借金はすでに膨大な額にまで膨れ上がっており、参戦は不可能に思われた。
+
+#### 1991年
+
+しかしながら、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")、150億円の借金を抱えながらチームはエントリーし、F1関係者は非常に驚いた。
+
+ドライバーはタルキーニが残留し、新たに[ステファン・ヨハンソン](https://ja.wikipedia.org/wiki/ステファン・ヨハンソン "wikilink")を迎え入れた。
+
+シーズン序盤は前年型のJH25、次いで[JH27を投入した](https://ja.wikipedia.org/wiki/AGS・JH27 "wikilink")。エンジンはハイニ・マーダーがメンテナンスするコスワース・DFR、タイヤはグッドイヤーを使用した。
+
+だが、エピソードに後述するような状況に陥るほどチームは資金難が進んでおり、第3戦ではチームはイタリア人の[ガブリエーレ・ラファネリ](https://ja.wikipedia.org/wiki/ガブリエーレ・ラファネリ "wikilink")と[パトリツィオ・カンツォ](https://ja.wikipedia.org/wiki/パトリツィオ・カンツォ "wikilink")（前は[スクーデリア・イタリアのマネージャーだった](https://ja.wikipedia.org/wiki/BMSスクーデリア・イタリア "wikilink")。）に売却された。ペイドライバーではなかったヨハンソンを解雇し、代わりに[ファブリツィオ・バルバッツァ](../Page/ファブリツィオ・バルバッツァ.md "wikilink")が起用された。
+
+さらに第14戦スペイングランプリでは[フォンドメタル](https://ja.wikipedia.org/wiki/フォンドメタル "wikilink")とトレードの形でタルキーニを放出し、[オリビエ・グルイヤール](https://ja.wikipedia.org/wiki/オリビエ・グルイヤール "wikilink")を起用した。
+
+前年の成績から予備予選を免除され予選からの出走となったが、チームは予選落ちを繰り返し、後半戦は予備予選組に戻された。資金難も限界に達し、フライアウェイとなる日本グランプリと[オーストラリアグランプリ](https://ja.wikipedia.org/wiki/オーストラリアグランプリ "wikilink")への遠征資金が調達できず\[1\]、シーズン途中でのF1撤退を余儀なくされた。
+
+### F1撤退後
+
+[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")、F1から撤退したAGSは手元に残ったマシンを元手に「F1レジャー」なる事業を始めた。
+
+それはある程度の代金と講習を受ければF1マシンをドライブできるというもので、現在はファクトリーの横にある「Circuit du Var」というところで同事業を行っている。
+
+同サーキットは[ポール・リカールのようにコースを変形させることができる](https://ja.wikipedia.org/wiki/ポール・リカール・サーキット "wikilink")。
+
+使用できるマシンは[アロウズ・A20](https://ja.wikipedia.org/wiki/アロウズ・A20 "wikilink")（[ペドロ・デ・ラ・ロサ](https://ja.wikipedia.org/wiki/ペドロ・デ・ラ・ロサ "wikilink")仕様）、[プロスト・AP02](https://ja.wikipedia.org/wiki/プロスト・AP02 "wikilink")（[ジャン・アレジ](../Page/ジャン・アレジ.md "wikilink")仕様）、[ジョーダン・EJ11](https://ja.wikipedia.org/wiki/ジョーダン・EJ11 "wikilink")（ジャン・アレジ仕様）、2003年に独自に製造したSH03の4台のF1マシンの他に、2台のツーシーターカーや、[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")で優勝した[プジョー・905](../Page/プジョー・905.md "wikilink")などがある。
+
+一方、チーム代表を務めていたシリル・ド・ルーブルは[ギ・リジェ](https://ja.wikipedia.org/wiki/ギ・リジェ "wikilink")と接触し、[1993年の](https://ja.wikipedia.org/wiki/1993年のF1世界選手権 "wikilink")[リジェ](https://ja.wikipedia.org/wiki/リジェ "wikilink")の新オーナーとして就任したが、シーズン途中に横領容疑で逮捕されている。
+
+## エピソード
+
+  - 1986年のF1参戦前に行ったテストでは[ディディエ・ピローニ](https://ja.wikipedia.org/wiki/ディディエ・ピローニ "wikilink")がシートに座っていた。ピローニはAGSからのF1復帰を狙っていたが、マシンにポテンシャルが無いと判断、契約をしなかった。
+  - 1987年に起用した[ロベルト・モレノ](https://ja.wikipedia.org/wiki/ロベルト・モレノ "wikilink")とはギャラの未払い、ホテル代の立替、クリーニング代の立替などのトラブルにより裁判沙汰になった模様。（すべてモレノの立替払いであった）
+  - 1991年のAGSの資金難の状況は以下に示すような悲惨なものだった。
+      - 開幕戦前にオーナーのルーブルが撤退を表明したり（後撤回）、マネージャーの[アンリ・コーシャン](https://ja.wikipedia.org/wiki/アンリ・コーシャン "wikilink")が資金を持ち逃げしたとの噂が広まった。
+      - 仕方なしに現れた開幕戦[アメリカグランプリ](https://ja.wikipedia.org/wiki/アメリカグランプリ "wikilink")で当初現れたメカニックは**9人**。これはピットクルーの人数にも満たない。さらに給料は支払われておらず、航空機のチケットに関してはタルキーニが立て替えたという噂が立った。
+      - 昼飯が[マクドナルド](../Page/マクドナルド.md "wikilink")だった。通常はチームがコックを雇ったり、[ケータリング](https://ja.wikipedia.org/wiki/ケータリング "wikilink")会社に頼んで料理を作ってもらう。
+      - スポンサーを持たないヨハンソンが当初起用された理由は、当初起用予定だった[アンドレア・デ・チェザリス](https://ja.wikipedia.org/wiki/アンドレア・デ・チェザリス "wikilink")が新規参戦チームのジョーダンに鞍替えしたため、欠場の罰金回避をしようという苦肉の策だった。
+
+## 脚注
+
+## 関連項目
+
+  - [モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")
+  - [F1コンストラクターの一覧](https://ja.wikipedia.org/wiki/F1コンストラクターの一覧 "wikilink")
+
+## 外部リンク
+
+  - [AGS](http://www.agsformule1.com/) - 現在営んでいるF1レジャー事業のサイト。
+
+[Category:かつて存在したF1コンストラクター](https://ja.wikipedia.org/wiki/Category:かつて存在したF1コンストラクター "wikilink") [Category:フランスのレーシングチーム](https://ja.wikipedia.org/wiki/Category:フランスのレーシングチーム "wikilink")
+
+1.  AGS 日本GPに来日せず - 資金面の問題から来日できないのでは、と案じられていたAGSは、やはり日本に移動できなかった。チームの存続も危ぶまれている。　[F1速報](../Page/F1速報.md "wikilink") 1991年第15戦日本GP 21頁 [ニューズ出版](../Page/ニューズ出版.md "wikilink")

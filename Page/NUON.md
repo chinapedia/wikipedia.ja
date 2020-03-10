@@ -1,0 +1,35 @@
+> この記事は[NUON](https://ja.wikipedia.org/wiki/NUON)から翻訳されています。
+
+
+**NUON**（ヌオン）は、2000年代前半に、米国・欧州の一部の国で発売された[DVD](../Page/DVD.md "wikilink")ゲームプレイヤーである。
+
+## 誕生の経緯
+
+1998年、アメリカのVm labs社が規格を提唱。コンセプトは、「普段、DVD視聴をメインにしているAVユーザーが、たまにはゲームもしたいという層にアピールしたい。」というもの。2000年の[CESで初めて実機が展示](https://ja.wikipedia.org/wiki/Consumer_Electronics_Show "wikilink")、販売された。
+
+## 特徴
+
+1993年に米国で発売された[3DO](../Page/3DO.md "wikilink")同様、規格の提唱者であるVm labs社は、本体を製造せず、更にはソフト開発も行わなかった。NUON規格の本体は、日韓の大手家電メーカーである[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")と[サムスンの二社から発売された](../Page/サムスン電子.md "wikilink")。両社にとっては3DO以来のテレビゲームビジネスとなった。基本的な性能は、当時出回っていた中級グレードのDVD再生機にゲーム機能を組み込んだため、[日本円にしておよそ](../Page/円_\(通貨\).md "wikilink")6～7万円前後と、値段的には高くなった。
+
+以下、主なNUON本体の特徴を紹介する。
+
+  -
+    N2000<サムスン>→499ドルにて販売されたNUON規格のDVDプレイヤー一号機。デモディスク、コントローラー標準装備。
+    N501<サムスン>→MP3対応。ただし、コントローラーは別売。デモディスクは付いていない。
+    SD2300<東芝>→コントローラー別売でデモディスク無し。見た目は殆ど通常のDVD再生機と変わらない。
+
+また、NUONのコントローラーは、[NINTENDO64](../Page/NINTENDO64.md "wikilink")と同じく方向キー、A、B、L、R、スタートボタン、4方向のCボタンユニットで構成されていっている。
+
+## 展開
+
+Vm labs社は1998年、日本のゲームメーカーをはじめ、複数の企業に参入を促した。しかし、当時[PlayStationが破竹の勢いで売れていたのに加え](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")、ゲームマシンとしては3DO同様、中途半端な性格だったという事もあり、サードパーティーはなかなか集まらなかった。日本のメーカーでは[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")と[サンソフト](https://ja.wikipedia.org/wiki/サンソフト "wikilink")が参入したに留まった。
+
+業界初のDVDゲームプレイヤーとして発売されたが、元々デビューからソフト不足、サードパーティー不足に泣かされた上、ゲームマシンとしてもDVD再生機としても割高だった。しかも、発売まもなく[ソニー](../Page/ソニー.md "wikilink")から、[PlayStation 2が発売され](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、早くも窮地に陥ってしまう。
+
+日本では、NUONは正式発売されなかった。またゲームマシンとしてよりはDVDプレーヤーとしての性格が強かったため、国によって[リージョンコード](https://ja.wikipedia.org/wiki/リージョンコード "wikilink")が設けられているDVDの特性から、輸入等でもあまり出回らず、知名度は高くはなかった。
+
+規格提唱者のVm labs社は、NUON事業の失敗が元で、本体発売からわずか3年で倒産の憂き目に遭った。その3年間に発売されたソフトの数は僅か40数本足らずに留まった。
+
+内容的には、[アタリの昔のアーケードゲームのアレンジ移植ものが多かった](../Page/アタリ_\(企業\).md "wikilink")。その他[パズルボブル](https://ja.wikipedia.org/wiki/パズルボブル "wikilink")や[テトリス](https://ja.wikipedia.org/wiki/テトリス "wikilink")の様なパズルゲーム、レーシングゲーム、シューティングゲーム等あったが、大作RPGや、本格対戦格闘ゲーム等当時のヒットジャンルの作品が無かった。 しかし、ごく一部の[アタリファンは](../Page/アタリ_\(企業\).md "wikilink")、「テンペスト3000」等アタリのアーケードゲームのアレンジ版が楽しめるという事で、細々とNUONを支持していた。
+
+[Category:ゲーム機](https://ja.wikipedia.org/wiki/Category:ゲーム機 "wikilink") [Category:1990年代の玩具](https://ja.wikipedia.org/wiki/Category:1990年代の玩具 "wikilink")

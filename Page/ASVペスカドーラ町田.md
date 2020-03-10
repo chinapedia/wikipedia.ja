@@ -1,0 +1,201 @@
+> この記事は[ASV](https://ja.wikipedia.org/wiki/ASV)から翻訳されています。
+
+
+**ASVペスカドーラ町田**（エーエスヴイ ペスカドーラまちだ、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[町田市](../Page/町田市.md "wikilink")をホームタウンとする\[1\]、[日本フットサルリーグ](https://ja.wikipedia.org/wiki/日本フットサルリーグ "wikilink")（Fリーグ）に加盟するフットサルクラブ。呼称は**ペスカドーラ町田**である。
+
+## 沿革
+
+1999年に**CASCAVEL TOKYO**（カスカヴェウ・トウキョウ）として発足した。2001年には[全日本フットサル選手権大会](https://ja.wikipedia.org/wiki/全日本フットサル選手権大会 "wikilink")で優勝。2007年に**ペスカドーラ町田**と改称して、同年より発足した[日本フットサルリーグ](https://ja.wikipedia.org/wiki/日本フットサルリーグ "wikilink")（Fリーグ）に参加した。日本フットサルリーグへの申請時のチーム名はカスカヴェーラ町田であった。
+
+2018年1月18日、Fリーグが2018-2019シーズンから2部制を導入するにあたって新設されるFリーグディビジョン1（F1）へ参加することが決定した\[2\]。
+
+## 名称
+
+チーム名は、アマレーロ（、黄色）のA、サルビア（Salvia、町田市の市花）のS、ゼルコバ（、[ケヤキ](../Page/ケヤキ.md "wikilink")（町田市の市木））のVをとってASV、そしてMartim-Pescador（ポルトガル語で[カワセミ](../Page/カワセミ.md "wikilink")・町田市の市鳥）とLaco（ポルトガル語で絆）を組み合わせてできたペスカドーラに由来している\[3\]。
+
+## 主な戦績
+
+  - 2000年度
+
+<!-- end list -->
+
+  - 第6回[全日本フットサル選手権大会](https://ja.wikipedia.org/wiki/全日本フットサル選手権大会 "wikilink"):優勝
+  - SuperLeague2000:優勝
+
+<!-- end list -->
+
+  - 2001年度
+
+<!-- end list -->
+
+  - SuperLeague2001:優勝
+
+<!-- end list -->
+
+  - 2002年度
+
+<!-- end list -->
+
+  - 第4回[関東フットサルリーグ](https://ja.wikipedia.org/wiki/関東フットサルリーグ "wikilink"):優勝
+  - 第8回全日本選手権:3位
+  - 第3回[FUTSAL地域チャンピオンズリーグ](../Page/FUTSAL地域チャンピオンズリーグ.md "wikilink"):優勝
+
+<!-- end list -->
+
+  - 2003年度
+
+<!-- end list -->
+
+  - 第5回関東リーグ:準優勝
+  - 第9回全日本選手権:関東大会優勝
+  - 第4回FUTSAL地域チャンピオンズリーグ:3位
+
+<!-- end list -->
+
+  - 2004年度
+
+<!-- end list -->
+
+  - 第5回関東リーグ:4位
+  - 第2回東京都カップ:優勝
+
+<!-- end list -->
+
+  - 2005年度
+
+<!-- end list -->
+
+  - 第7回関東リーグ:優勝
+  - 第11回全日本選手権:ベスト8
+  - 第6回FUTSAL地域チャンピオンズリーグ:ベスト4
+
+<!-- end list -->
+
+  - 2006年度
+
+<!-- end list -->
+
+  - 第8回関東リーグ:3位
+  - 第7回FUTSAL地域チャンピオンズリーグ:出場
+
+<!-- end list -->
+
+  - 2007年度
+
+<!-- end list -->
+
+  - 第13回全日本選手権:ベスト8
+
+<!-- end list -->
+
+  - 2008年度
+
+<!-- end list -->
+
+  - [大洋薬品オーシャンアリーナカップ](https://ja.wikipedia.org/wiki/Fリーグ_オーシャンカップ "wikilink"):4位
+  - 第14回全日本選手権:ベスト8
+
+<!-- end list -->
+
+  - 2009年度
+
+<!-- end list -->
+
+  - 第15回全日本選手権:ベスト8
+
+<!-- end list -->
+
+  - 2011年度
+
+<!-- end list -->
+
+  - 第17回全日本選手権:ベスト8
+
+<!-- end list -->
+
+  - 2015年度
+
+<!-- end list -->
+
+  - 第21回全日本選手権:優勝
+
+### Fリーグ成績
+
+| 年度                                                                   | 所属                                                          | 勝点  | 試合 | 勝利  | 引分  | 敗戦  | 得点   | 失点   | 得失   | 順位 |
+| -------------------------------------------------------------------- | ----------------------------------------------------------- | --- | -- | --- | --- | --- | ---- | ---- | ---- | -- |
+| [2007-08](https://ja.wikipedia.org/wiki/2007-08シーズンのFリーグ "wikilink") | [Fリーグ](https://ja.wikipedia.org/wiki/日本フットサルリーグ "wikilink") | 31  | 21 | 10  | 1   | 10  | 88   | 72   | \+16 | 4位 |
+| [2008-09](https://ja.wikipedia.org/wiki/2008-09シーズンのFリーグ "wikilink") | 30                                                          | 21  | 10 | 0   | 11  | 73  | 80   | \-7  | 5位   |    |
+| [2009-10](https://ja.wikipedia.org/wiki/2009-10シーズンのFリーグ "wikilink") | 51                                                          | 27  | 15 | 6   | 6   | 98  | 84   | \+14 | 2位   |    |
+| [2010-11](https://ja.wikipedia.org/wiki/2010-11シーズンのFリーグ "wikilink") | 24                                                          | 27  | 7  | 3   | 17  | 86  | 118  | \-32 | 9位   |    |
+| [2011-12](https://ja.wikipedia.org/wiki/2011-12シーズンのFリーグ "wikilink") | 35                                                          | 27  | 11 | 2   | 14  | 71  | 74   | \-3  | 7位   |    |
+| [2012-13](https://ja.wikipedia.org/wiki/2012-13シーズンのFリーグ "wikilink") | 25                                                          | 27  | 6  | 7   | 14  | 66  | 88   | \-22 | 8位   |    |
+| [2013-14](https://ja.wikipedia.org/wiki/2013-14シーズンのFリーグ "wikilink") | 57                                                          | 36  | 16 | 9   | 11  | 92  | 79   | \+13 | 5位   |    |
+| [2014-15](https://ja.wikipedia.org/wiki/2014-15シーズンのFリーグ "wikilink") | 43                                                          | 33  | 11 | 10  | 12  | 82  | 79   | \+3  | 8位   |    |
+| [2015-16](https://ja.wikipedia.org/wiki/2015-16シーズンのFリーグ "wikilink") | 70                                                          | 33  | 22 | 4   | 7   | 104 | 65   | \+39 | 5位   |    |
+| [2016-17](https://ja.wikipedia.org/wiki/2016-17シーズンのFリーグ "wikilink") | 65                                                          | 33  | 21 | 2   | 10  | 120 | 91   | \+29 | 3位   |    |
+| [2017-18](https://ja.wikipedia.org/wiki/2017-18シーズンのFリーグ "wikilink") | 71                                                          | 33  | 21 | 8   | 4   | 104 | 63   | \+41 | 2位   |    |
+| 合計                                                                   | 318                                                         | 150 | 52 | 116 | 984 | 893 | \+91 |      |      |    |
+
+## Fリーグチーム通算対戦成績と得失点
+
+2012年3月現在
+
+| 対戦チーム                                                                           | リーグ戦 |    | カップ戦 |   | 全日本 |
+| ------------------------------------------------------------------------------- | ---- | -- | ---- | - | --- |
+| 勝                                                                               | 分    | 敗  |      | 得 | 失   |
+| [エスポラーダ北海道](https://ja.wikipedia.org/wiki/エスポラーダ北海道 "wikilink")                 | 4    | 1  | 4    |   | 31  |
+| [ステラミーゴいわて花巻](../Page/ステラミーゴいわて花巻.md "wikilink")                                | 12   | \- | 3    |   | 77  |
+| [バルドラール浦安](https://ja.wikipedia.org/wiki/バルドラール浦安フットボールサラ "wikilink")           | 3    | \- | 12   |   | 35  |
+| [立川・府中アスレティックFC](https://ja.wikipedia.org/wiki/東京府中アスレティックフットボールクラブ "wikilink") | 6    | 1  | 2    |   | 29  |
+| [湘南ベルマーレ](https://ja.wikipedia.org/wiki/湘南ベルマーレフットサルクラブ "wikilink")             | 9    | 2  | 4    |   | 63  |
+| [アグレミーナ浜松](https://ja.wikipedia.org/wiki/アグレミーナ浜松 "wikilink")                   | \-   | \- | \-   |   | \-  |
+| [名古屋オーシャンズ](https://ja.wikipedia.org/wiki/名古屋オーシャンズ "wikilink")                 | \-   | 1  | 14   |   | 29  |
+| [シュライカー大阪](https://ja.wikipedia.org/wiki/シュライカー大阪 "wikilink")                   | 6    | 1  | 8    |   | 50  |
+| [デウソン神戸](https://ja.wikipedia.org/wiki/デウソン神戸 "wikilink")                       | 5    | 3  | 7    |   | 54  |
+| [バサジィ大分](../Page/バサジィ大分.md "wikilink")                                          | 8    | 3  | 4    |   | 47  |
+| 計                                                                               | 53   | 12 | 58   |   | 416 |
+
+## ユニフォーム
+
+### チームカラー
+
+  - イエロー
+
+### ユニフォームサプライヤー
+
+  - 2008年 - 現在　ATHLETA
+
+### ユニフォームスポンサー
+
+|      |                                    |             |                                                                |     |         |
+| ---- | ---------------------------------- | ----------- | -------------------------------------------------------------- | --- | ------- |
+| 年度   | 胸                                  | 袖           | 背中                                                             | パンツ | サプライヤー  |
+| 2008 | [東横イン](../Page/東横イン.md "wikilink") | \-          | [GALLERY-2](https://ja.wikipedia.org/wiki/横浜黒川スポーツ "wikilink") | \-  | ATHLETA |
+| 2009 | \-                                 | \-          |                                                                |     |         |
+| 2010 | \-/東横イン                            | \-          | [CENTRAL](https://ja.wikipedia.org/wiki/セントラルスポーツ "wikilink")  |     |         |
+| 2011 | \-                                 | Tahian NONI |                                                                |     |         |
+| 2012 | EAGLE KENSO                        | morinda     |                                                                |     |         |
+
+2010年は当初胸スポンサーなし、11月よりシーズン終了まで。
+
+## 2018-19シーズン所属選手
+
+  - 監督 : [岡山孝介](https://ja.wikipedia.org/wiki/岡山孝介 "wikilink")
+  - コーチ : [甲斐修侍](https://ja.wikipedia.org/wiki/甲斐修侍 "wikilink")
+  - コーチ : 小川亮
+
+## 脚注
+
+<references />
+
+## 外部リンク
+
+  -
+  -
+  -
+
+[Category:Fリーグクラブ](https://ja.wikipedia.org/wiki/Category:Fリーグクラブ "wikilink") [Category:東京都のスポーツチーム](https://ja.wikipedia.org/wiki/Category:東京都のスポーツチーム "wikilink") [Category:町田市のスポーツ](https://ja.wikipedia.org/wiki/Category:町田市のスポーツ "wikilink")
+
+1.
+2.
+3.  [ペスカドーラ町田 チーム概要](http://www.fleague.jp/teams/machida/index.jsp) Fリーグ公式サイト 2013年11月18日閲覧

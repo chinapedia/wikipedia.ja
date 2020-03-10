@@ -1,0 +1,126 @@
+> この記事は[  overture](https://ja.wikipedia.org/wiki/__overture)から翻訳されています。
+
+
+『**聖闘士星矢 天界編 序奏〜overture〜**』（セイントセイヤ てんかいへん じょそう）は、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")に公開された『[聖闘士星矢](https://ja.wikipedia.org/wiki/聖闘士星矢 "wikilink")』シリーズの劇場公開作品第5弾。
+
+同作品の劇場版前4作とは異なり、原作の冥王ハーデス編の正式な続編として制作されている。
+
+## 概要
+
+劇場版第4作『[最終聖戦の戦士たち](https://ja.wikipedia.org/wiki/聖闘士星矢_最終聖戦の戦士たち "wikilink")』から実に15年を経て制作された劇場版作品。本来この天界編は、冥王ハーデス編の次の物語として構想されていたが、原作の連載は冥王ハーデス編終了とともに一応の完結をみていたため、天界編は幻の作品となっていた\[1\]。
+
+OVA『[冥王ハーデス十二宮編](https://ja.wikipedia.org/wiki/聖闘士星矢_冥王ハーデス編 "wikilink")』の好評を受け、劇場版作品の企画が始動。原作者である[車田正美](https://ja.wikipedia.org/wiki/車田正美 "wikilink")の当初の意向は、OVA『冥王ハーデス編』の完結後に劇場版に取り組むことであったが、メディアミックス戦略上、映画が先行して制作されることとなった。制作時に車田は、劇場公開という大規模であるからには、前4作のような小規模作品ではなく、まだ実現していない天界編を、全3部作で制作することを提案。原作のために温存していた構想を劇場版の原案として提供した\[2\]。車田は当初、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")を本職とする以上、天界編も自らの手で漫画として執筆することを強く希望していたが、漫画家として30周年を迎えたことで新しいことに挑戦したいという気持ちや、21世紀を迎えた当時は作品の表現方法も様々に変化していることから、本作品を漫画ではなくアニメ媒体で発表することを決断したという\[3\]。こうして天界編は、原作よりアニメが先行されるという異例の公開となった。
+
+イメージアップのため、車田は雑誌『[スーパージャンプ](https://ja.wikipedia.org/wiki/スーパージャンプ "wikilink")』[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")4号に予告編としてオールカラー全8ページの特別エピソードを描き下ろしている\[4\]（後にイラスト集『宙』に収録）。この作品は車田が執筆した原稿に東映アニメーションが彩色を行なったという、両者の初の[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")作品でもある\[5\]。また映画誌『[キネマ旬報](https://ja.wikipedia.org/wiki/キネマ旬報 "wikilink")』上では、編集者が『聖闘士星矢』ファンという私情混じりの理由ではあるが、特集記事が企画されたほどだった\[6\]。キャスト陣には、車田と親交が深いという理由で、[プロレスラー](../Page/プロレスラー.md "wikilink")の[永田裕志](https://ja.wikipedia.org/wiki/永田裕志 "wikilink")と元女子プロレスラーの[風間ルミ](https://ja.wikipedia.org/wiki/風間ルミ "wikilink")が[友情出演を果たした](https://ja.wikipedia.org/wiki/カメオ出演#友情出演 "wikilink")\[7\]。
+
+こうして鳴り物入りで制作された本作ではあるが、実際に完成した映画は、車田の構想とはほど遠いものとなった\[8\]。原作が終了し、現行オンエア番組も存在しない中、映画としての興業を成り立たせるにはOVAを買ってくれた倍以上の人が見に来てくれなければならないと、主演の[古谷徹](../Page/古谷徹.md "wikilink")も語っていたが\[9\]、旧来のファンからも厳しい意見が多い結果となった\[10\]。主人公の[星矢たち](https://ja.wikipedia.org/wiki/天馬星座の星矢 "wikilink")[青銅聖闘士](https://ja.wikipedia.org/wiki/青銅聖闘士 "wikilink")の友情を強く描いた原作に対し、本作では星矢と[城戸沙織](https://ja.wikipedia.org/wiki/城戸沙織 "wikilink")との交流を主点としていることや、星矢以外の青銅聖闘士の出番が非常に少ないことも、こうした意見の厳しさや、視聴者に違和感を植えつけたことの要因の一つと見られている\[11\]。
+
+後半において描写が省略された部分が多く、新聖衣を代表例として多くの謎が次回作に持ち越されることとなったが\[12\]、その後は映画としての続編の発表はない。[2009年](../Page/2009年.md "wikilink")以降は車田自身の執筆による続編作品『[聖闘士星矢 NEXT DIMENSION 冥王神話](https://ja.wikipedia.org/wiki/聖闘士星矢_冥王神話 "wikilink")』において、冥王ハーデス編後の物語が展開されているが\[13\]、その内容は映画天界編とは大きく異なっており、設定もキャラクターも大部分が一新されている。
+
+また映画制作時において、年月経過に伴うレギュラー声優の声質の変化という、長編作品に避けられない問題が指摘されている。これはOVA『冥王ハーデス十二宮編』リリース時から露見しており、一時は本作にあたって声優陣の交替も提案されていたが、制作時間の都合もあり、結局はオリジナルの声優陣で制作されることとなった。声質については、星矢役の[古谷徹](../Page/古谷徹.md "wikilink")がオリジナルキャストの重要性を熱論し、サンプルボイスを送るなどしてテレビアニメ時と決して変わらない演技と太鼓判を押したものの、この声優の問題は、後々の『聖闘士星矢』のアニメ展開である『冥王ハーデス冥界編』において重く圧し掛かることになった\[14\]（顛末は[聖闘士星矢 冥王ハーデス編\#声優交代の波紋を参照](https://ja.wikipedia.org/wiki/聖闘士星矢_冥王ハーデス編#声優交代の波紋 "wikilink")）。
+
+## あらすじ
+
+冥界での死闘の後、[冥王ハーデスの呪いによりすべての力を失った](https://ja.wikipedia.org/wiki/冥闘士#ハーデス "wikilink")[星矢は](https://ja.wikipedia.org/wiki/天馬星座の星矢 "wikilink")、[アテナ](../Page/アテーナー.md "wikilink")・[城戸沙織](https://ja.wikipedia.org/wiki/城戸沙織 "wikilink")の介護のもとで静かに生活していた。しかし[オリンポス十二神の月の女神アルテミスは](../Page/オリュンポス十二神.md "wikilink")、神に抗った星矢の抹殺のため、3人の天闘士（エンジェル）を送り込む。沙織は星矢の命を救うため、女神の地位と地上世界の支配権をアルテミスに譲り渡す。地上の神となったアルテミスは地上への天罰として人類滅亡を企て、神としての力を失った沙織は自ら血を流すことで人類を守ろうとする。この未曾有の危機に、力を失ったはずの星矢が再び立ち上がり、[紫龍](https://ja.wikipedia.org/wiki/龍星座の紫龍 "wikilink")、[氷河](https://ja.wikipedia.org/wiki/白鳥星座の氷河 "wikilink")、[瞬](https://ja.wikipedia.org/wiki/アンドロメダ星座の瞬 "wikilink")、[一輝もまたアテナのもとへと向かう](https://ja.wikipedia.org/wiki/鳳凰星座の一輝 "wikilink")。しかしその行く手を天闘士たちが阻み、最後にはオリンポス十二神のアポロンまでもが降臨する。全宇宙最強の神を相手に、人類の命運をかけた最大の闘いが始まる。
+
+## ゲストキャラクター
+
+### オリンポス十二神
+
+全能の神[ゼウス](../Page/ゼウス.md "wikilink")率いる選ばれた神々による天界軍。設定上では神々の究極の鎧・神衣（カムイ）を纏うとされるが\[15\]、本作中には登場していない。神話における十二神は[オリュンポス十二神](../Page/オリュンポス十二神.md "wikilink")を参照。
+
+  - [アルテミス](../Page/アルテミス.md "wikilink")
+    声 - [日野由利加](https://ja.wikipedia.org/wiki/日野由利加 "wikilink")
+    年齢：不明。身長：159cm（推定）。体重：測定不能。誕生日：不明。血液型：不明。出身地：[オリンポス](https://ja.wikipedia.org/wiki/オリンポス山#神話 "wikilink")\[16\]。
+    深き闇を治める月の女神。アテナの姉。薄翠の髪と瞳を持つ。アルテミスが天界から地上へ降臨する際は一瞬で空が月夜と化し、月が太陽よりも激しく輝き、女神を照らすためだけの光が地に注ぐという。神として人を導き裁くはずのアテナが人間の味方として堕落したとし、彼女から黄金の杖と地上の支配権を奪い取る。
+  - [アポロン](../Page/アポローン.md "wikilink")
+    声 - [山路和弘](https://ja.wikipedia.org/wiki/山路和弘 "wikilink")
+    年齢：不明。身長：198cm（推定）。体重：測定不能。誕生日：不明。血液型：不明。出身地：オリンポス。修行地：無し\[17\]。
+    [太陽神](https://ja.wikipedia.org/wiki/太陽神 "wikilink")。最後に現れたアテナ、アルテミスの兄。青い瞳、炎のように波打った赤い髪が特徴。その強大な力の前には人間である[星矢はおろか](https://ja.wikipedia.org/wiki/天馬星座の星矢 "wikilink")、アテナの力すら無に等しいという。星矢との戦いにおいて人間を認めるも、代償として記憶を消去した。
+
+### 天闘士
+
+エンジェルと読む。月の女神アルテミスを始め、[オリンポス十二神の神々を守る闘士](../Page/オリュンポス十二神.md "wikilink")。天衣（グローリー。語源は[ブロッケン現象](../Page/ブロッケン現象.md "wikilink")の別名から）と呼ばれる鎧を纏う。多くは神に仕える本物の[天使だが](https://ja.wikipedia.org/wiki/天使_\(通用\) "wikilink")、月の女神アルテミスに従う天闘士の中には、例外的にイカロスのように人間が天闘士になっている場合もある。ほかの神々の天闘士は本作中には登場せず、総人数は不明。
+
+  -
+    声 - [緑川光](../Page/緑川光.md "wikilink")、[井上富美子](https://ja.wikipedia.org/wiki/井上富美子 "wikilink")〈幼少時〉
+    年齢：13歳。身長：168cm。体重：53kg。誕生日：12月1日。血液型：B型。出身地：[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")。修行地：オリンポス\[18\]。
+    技：ハイエスト・アルティテュード
+    アルテミスが天闘士として選んだただ1人の人間。顔半分を銀色の仮面で隠し、髪は赤茶色で仮面の下の瞳は澄んだ空色。右肩に片翼のついた天衣を纏う。神に近い力を求め、多くの神との闘いを勝ち抜いた[星矢を倒すことで神に近づこうとする](https://ja.wikipedia.org/wiki/天馬星座の星矢 "wikilink")。人間であるために真の天闘士ではなく\[19\]、テセウスたちのような翼は持たないが、その実力はほかの天闘士たちに引けをとらない\[20\]。その正体は[魔鈴の生き別れの弟](https://ja.wikipedia.org/wiki/白銀聖闘士#魔鈴 "wikilink")、斗馬（トウマ）。幼少時、災害により姉と生き別れになったことで人間の無力さを実感。姉を守る強い力を得るために天闘士となった。感情を消し去ることで人間的な弱さを捨てようとしていたため、魔鈴に会っても彼女を姉と認めようとしなかったが、星矢の渾身の拳を受け、人の想いの強さを実感して魔鈴と和解。最後はアルテミスがアテナに対して射た矢をかばい、自らが矢に射抜かれる。
+
+<!-- end list -->
+
+  -
+    声 - [森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
+    年齢：不明。身長：180cm（推定）。体重：測定不能。誕生日：不明。血液型：不明。出身地：オリンポス。修行地：無し\[21\]。
+    アルテミスに仕える天闘士。緑の瞳と肩までの金髪をドレッドにしているのが特徴。武闘派であり\[22\]、翼で空を飛ぶ、掌から槍を撃ち出すなど圧倒的な力を持つ。[一輝](https://ja.wikipedia.org/wiki/鳳凰星座の一輝 "wikilink")、[瞬を襲うも](https://ja.wikipedia.org/wiki/アンドロメダ星座の瞬 "wikilink")、2人の凄まじい闘志に戦慄を覚え\[23\]、[黄金聖闘士](https://ja.wikipedia.org/wiki/黄金聖闘士 "wikilink")たちの小宇宙を得た2人の連携技によって敗れ去る。
+
+<!-- end list -->
+
+  -
+    声 - [高橋広樹](../Page/高橋広樹.md "wikilink")
+    年齢：不明。身長：175cm（推定）。体重：測定不能。誕生日：不明。血液型：不明。出身地：オリンポス。修行地：無し\[24\]。
+    アルテミスに仕える天闘士。ギリシャのヘルメットを思わせるトサカの様な紫の髪、赤く鋭い瞳が特徴。知性派だがその小宇宙は強大であり\[25\]、相手の技を倍加して跳ね返す技を持つ。圧倒的な力で[紫龍](https://ja.wikipedia.org/wiki/龍星座の紫龍 "wikilink")、[氷河の](https://ja.wikipedia.org/wiki/白鳥星座の氷河 "wikilink")2人を倒すが、自身も2人の拳によって致命傷を受けており、神にない力を人間が秘めていることに驚愕しつつ、体内から破裂して死亡した。
+
+### 神々
+
+  -
+    声 - [永田裕志](https://ja.wikipedia.org/wiki/永田裕志 "wikilink")、[風間ルミ](https://ja.wikipedia.org/wiki/風間ルミ "wikilink")（[友情出演](https://ja.wikipedia.org/wiki/カメオ出演#友情出演 "wikilink")）
+    肉体を失って魂のみの存在となった[黄金聖闘士](https://ja.wikipedia.org/wiki/黄金聖闘士 "wikilink")たちの前に不定形の姿で現れた神々。神に逆らった彼らを罪人とし、その魂を永遠に安らぎを与えられない存在とし、石像の中に封印した。
+
+## スタッフ
+
+  - 原作・ストーリー原案 - 車田正美
+  - 企画 - 櫻田博之
+  - 脚本 - [横手美智子](https://ja.wikipedia.org/wiki/横手美智子 "wikilink")、[大和屋暁](https://ja.wikipedia.org/wiki/大和屋暁 "wikilink")
+  - 音楽 - [横山菁児](https://ja.wikipedia.org/wiki/横山菁児 "wikilink")
+  - 美術監督 - [飯島由樹子](https://ja.wikipedia.org/wiki/飯島由樹子 "wikilink")
+  - キャラクターデザイン・作画監督 - [荒木伸吾](https://ja.wikipedia.org/wiki/荒木伸吾 "wikilink")、[姫野美智](https://ja.wikipedia.org/wiki/姫野美智 "wikilink")
+  - 色彩設計 - [辻田邦夫](https://ja.wikipedia.org/wiki/辻田邦夫 "wikilink")
+  - デジタル撮影監督 - 福田岳志、白鳥友和
+  - 編集 - [西山茂](https://ja.wikipedia.org/wiki/西山茂_\(編集技師\) "wikilink")
+  - 監督 - [山内重保](https://ja.wikipedia.org/wiki/山内重保 "wikilink")
+  - 製作 - [東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")、[集英社](../Page/集英社.md "wikilink")、[東映](../Page/東映.md "wikilink")、[バンダイ](../Page/バンダイ.md "wikilink")、[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")
+  - 主題歌 - 『Never -聖闘士星矢のテーマ-』
+      - 作詞 - [山田信夫](https://ja.wikipedia.org/wiki/山田信夫_\(歌手\) "wikilink") / 作曲 - [河野陽吾](https://ja.wikipedia.org/wiki/河野陽吾 "wikilink") / 歌 - [MAKE-UP](https://ja.wikipedia.org/wiki/MAKE-UP "wikilink")
+
+## 脚注
+
+## 外部リンク
+
+  - [劇場版 聖闘士星矢 天界編 序奏〜overture〜](http://www.toei-anim.co.jp/movie/2004_seiya/)（公式サイト）
+
+  -
+## 関連項目
+
+  - [聖闘士星矢 NEXT DIMENSION 冥王神話](https://ja.wikipedia.org/wiki/聖闘士星矢_NEXT_DIMENSION_冥王神話 "wikilink")
+
+[en:List of Saint Seiya films\#Heaven Chapter: Overture (2004)](https://ja.wikipedia.org/wiki/en:List_of_Saint_Seiya_films#Heaven_Chapter:_Overture_\(2004\) "wikilink")
+
+[Category:聖闘士星矢のアニメ](https://ja.wikipedia.org/wiki/Category:聖闘士星矢のアニメ "wikilink") [Category:2004年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2004年のアニメ映画 "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:バンダイビジュアルのアニメ映画](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ映画 "wikilink") [Category:山内重保の監督映画](https://ja.wikipedia.org/wiki/Category:山内重保の監督映画 "wikilink")
+
+1.
+2.
+3.  映画パンフレットより。
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12. DVD『聖闘士星矢 天界編 序奏〜overture〜』オーディオコメンタリーより。
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.

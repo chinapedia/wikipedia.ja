@@ -1,0 +1,58 @@
+> この記事は[SS](https://ja.wikipedia.org/wiki/SS)から翻訳されています。
+
+
+**SS**（エスエス、スーパースポーツ、*Super Sport*）とは、[ドゥカティ](https://ja.wikipedia.org/wiki/ドゥカティ "wikilink")がかつて製造販売していた[オートバイ](../Page/オートバイ.md "wikilink")の車種である。これまでに3度、SSの名を冠したシリーズ車種が登場した。
+
+## 概要
+
+[サーキット](https://ja.wikipedia.org/wiki/サーキット "wikilink")における競技走行よりも、一般の舗装路における走りを楽しむことを主眼に置いて製作されたモデルである。やや前傾がきつい乗車姿勢となる。
+
+どのシリーズでも、[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")[デスモドロミック](https://ja.wikipedia.org/wiki/デスモドロミック "wikilink")2バルブ[90度V型2気筒の通称](https://ja.wikipedia.org/wiki/V型2気筒 "wikilink")「*Lツイン*」エンジンを採用、外装として[カウルが装着されている](https://ja.wikipedia.org/wiki/カウル#オートバイ "wikilink")。
+
+## モデル一覧
+
+### 初代(1974年-1982年)
+
+748ccエンジンを搭載した750SSと、864ccエンジンを搭載した900SSがあった。 [Ducati_750_Supersport.jpg](https://ja.wikipedia.org/wiki/File:Ducati_750_Supersport.jpg "fig:Ducati_750_Supersport.jpg") [1972年](../Page/1972年.md "wikilink")にイモラサーキットで行われた200マイルレースで優勝した[ポール・スマート](https://ja.wikipedia.org/wiki/ポール・スマート "wikilink")の乗っていたレーサーをモチーフとして作られたプリプロダクションモデル、通称**イモラレプリカ**が[1973年](../Page/1973年.md "wikilink")に少量生産され、翌年の[1974年](../Page/1974年.md "wikilink")にはこれを基に量産車化された**750SS**が発売された。なお750SSは、ドゥカティとして「*Lツイン*」エンジンに初めて[デスモドロミック](https://ja.wikipedia.org/wiki/デスモドロミック "wikilink")機構を搭載した市販車でもある。 [Ducati_900SuperSport.JPG](https://ja.wikipedia.org/wiki/File:Ducati_900SuperSport.JPG "fig:Ducati_900SuperSport.JPG") [1975年](../Page/1975年.md "wikilink")には**900SS**も登場した。900SSのエンジンは[1979年](../Page/1979年.md "wikilink")に登場した900MHR（[マイク・ヘイルウッド](https://ja.wikipedia.org/wiki/マイク・ヘイルウッド "wikilink")・レプリカ）にも搭載された。その後、750SSと900SSは細部の改良を続けながらも外観はほぼ変わらずに生産され続け、750SSは[1979年](../Page/1979年.md "wikilink")、900SSは[1982年](../Page/1982年.md "wikilink")まで製造販売された。その後は[1979年](../Page/1979年.md "wikilink")発売の**900SSダーマ**、[1982年](../Page/1982年.md "wikilink")発売の**900S2**、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")発売の**1000S2**に引き継がれている。
+
+この時代のSSに搭載されたエンジンは、ベベルギアシャフトによる[カムシャフト](https://ja.wikipedia.org/wiki/カムシャフト "wikilink")駆動から通称「*ベベルエンジン*」とも呼ばれる。更にクランクケースの形状により、丸みを帯びた外観の「*ラウンドケース*」、角ばった形状の「*スクエアケース*」、という二種類のエンジンがあった。ラウンドケースエンジンは[1974年](../Page/1974年.md "wikilink")まで採用され、以降はスクエアケースエンジンが搭載された。つまり、1975年から登場した900SSにはラウンドケースを搭載した車両は存在しない。なお、ラウンドケースは右足で変速操作を行なう「右チェンジ」であり、スクエアケースは左足で変速操作を行なう「左チェンジ」である。
+
+この時代のSSのもう一つの特徴としては、現在のドゥカティでは代名詞となっている鋼管トレリスフレームはまだ採用されず、一般的な形状の[ダイアモンドフレームが採用されている点が挙げられる](https://ja.wikipedia.org/wiki/フレーム形式_\(オートバイ\)#ダイアモンドフレーム "wikilink")。また、750SSと900SSともに、1975年までは[FRP製燃料タンクを標準装備していたが](https://ja.wikipedia.org/wiki/繊維強化プラスチック "wikilink")、1976年以降は鉄鋼製タンクが標準装備となった。
+
+### 2代目(1989年-1997年)
+
+[Ducati_600_SS_face.jpg](https://ja.wikipedia.org/wiki/File:Ducati_600_SS_face.jpg "fig:Ducati_600_SS_face.jpg") 900SS、900SL、750SS、600SS、400SS(日本市場限定)があった。
+
+[1988年](../Page/1988年.md "wikilink")発売の750スポルトの上位車種として、[1989年](../Page/1989年.md "wikilink")夏に1990年式として、久々に「スーパースポーツ」の名を冠する**900SS**が登場した。[750パゾや](https://ja.wikipedia.org/wiki/ドゥカティ・パゾ#750パゾ "wikilink")[851で採用された技術や部品を取り入れられ](https://ja.wikipedia.org/wiki/ドゥカティ・851 "wikilink")、排気量904ccに拡大された空冷デスモドロミック90度V型2気筒エンジンを搭載し、車体の軽量化などがはかられた。しかしその約2年後となる[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")には、早々とエンジンやフレームを含む車両全体に大幅な改良を加えられた後期型が登場することとなる。
+
+当初は排気量904ccの900SSのみが発売され、1991年に後期型が登場すると、同時期に販売を終了した750スポルトと入れ替わるように排気量748ccの750SSや排気量583ccの600SS等も発売された。
+
+日本においては、免許制度に合わせて排気量を398ccに縮小した、[普通自動二輪車](../Page/普通自動二輪車.md "wikilink")免許でも乗れる**400SS**も[1989年](../Page/1989年.md "wikilink")から発売された。ただし[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")までは**400SSジュニア**という車種名であった。
+
+また[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")以降には、一人乗り仕様として更なる軽量化を施した**900SL**(Super Light、スーパーライト)も限定で販売されていた。なお[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に発売された**900SS FE**(Final Edition、ファイナルエディション)の仕様は塗装色以外は900SLとほぼ同じであった。
+
+この時代のSSに搭載されたのは、[1979年](../Page/1979年.md "wikilink")の500SLに端を発する[コグドベルトによるカムシャフト駆動を採用するエンジンである](https://ja.wikipedia.org/wiki/タイミングベルト "wikilink")。ただしこれは、先に同様のカム駆動方式を採用した、500SLから750F1までの通称「*パンタ(系)エンジン*」を750パゾや750スポルトで更に進化させたものであり、細部は異なる。特に一番の違いは給排気の方向で、750パゾで採用された「*内側吸気+外側排気*」の方式となっている。吸気機構には2連装のダウンドラフト式[キャブレター](../Page/キャブレター.md "wikilink")が採用され、初期型([1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで)では750パゾや750スポルトと同様の[ウェーバー製が](https://ja.wikipedia.org/wiki/ウェーバー_\(企業\) "wikilink")、後期型([1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")以降)では新たに[ミクニ](https://ja.wikipedia.org/wiki/ミクニ "wikilink")製が使われている。
+
+フレームは、この時代のSSになって、後のドゥカティの代名詞ともなった[鋼管トレリスフレームが採用される](https://ja.wikipedia.org/wiki/フレーム形式_\(オートバイ\)#ボックスフレーム "wikilink")。1990年までの初期型SSのフレームは[750F1の流れを汲む](https://ja.wikipedia.org/wiki/ドゥカティ・750F1 "wikilink")750スポルトとほぼ同じものだったが、1991年以降の後期型では同じフレーム形式ながら高剛性化やキャスター角の変更など様々な改良を施された新たなフレームとなった。またフレームの変更と同時に、フロント[サスペンションを正立式から倒立式へ](https://ja.wikipedia.org/wiki/サスペンション#オートバイのサスペンション "wikilink")、フロント[タイヤ](../Page/タイヤ.md "wikilink")のサイズを若干細くする等、細部に渡って様々な改良が行なわれた。
+
+この代の後期型から、フルカウルとハーフカウルという、[カウルの違いによる二種類の車体が購入時に選べるようになったのも大きな特徴である](https://ja.wikipedia.org/wiki/カウル#オートバイ "wikilink")(初期型はフルカウル版のみだった)。これらはサイドカウルの大きさの違いとそれに伴う車両重量の違いだけだったので、後からもう一方のサイドカウルを購入すれば、簡単にフルカウルとハーフカウルを「着替える」事もできた。
+
+### 3代目(1998年-2006年)
+
+[Ducati_Supersport_620.jpg](https://ja.wikipedia.org/wiki/File:Ducati_Supersport_620.jpg "fig:Ducati_Supersport_620.jpg") SS900、SS750、SS1000DS、SS800があった。このシリーズのみSSの文字が排気量を示す数字の前に付けられた。
+
+[ドゥカティ](https://ja.wikipedia.org/wiki/ドゥカティ "wikilink")のデザイナー、[ピエール・テルブランチによってデザインされたカウルを装着した](https://ja.wikipedia.org/wiki/:en:Pierre_Terblanche "wikilink")。登場当初は、フルカウル版であるフルフェアリング(FF)だけだったが、その後ハーフカウル版であるハーフフェアリング(HF)が追加された。
+
+エンジンは先代のものと基本設計は同じながら、吸気が電子制御式[燃料噴射となった](../Page/燃料噴射装置.md "wikilink")。[2003年](../Page/2003年.md "wikilink")には、[ムルティストラーダ用に開発された排気量](https://ja.wikipedia.org/wiki/ドゥカティ・ムルティストラーダ "wikilink")992ccの1000DSエンジンを搭載した**SS1000DS**が登場し、**SS900**に取って代わった。**SS750**も排気量が803ccに拡大され**SS800**となった。
+
+なお一時期、同じ外観ながらも外装の塗色を簡素化したり排気量を縮小したりした廉価版が併売された。これには年式により**900スポーツ**と**750スポーツ**(2003年)、**800スポーツ**と**620スポーツ**(2004年)があったが、その車種名が示す通り、厳密にはこれらはSS(Super Sport)と呼ばれていない。
+
+[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にはSS800の販売が終了してSS1000DSのみのラインナップとなり、SS1000DSも[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には販売を終了した。
+
+## 外部リンク
+
+  - \[<http://www.ducati.com/heritage/anni70/750ss/750ss.jhtml>; Ducati.com Heritage 1970's 750SS(公式 英語)\]
+  - \[<http://www.ducati.com/heritage/anni70/900supersport/900supersport.jhtml>; Ducati.com Heritage 1970's 900SS(公式 英語)\]
+  - \[<http://www.ducati.com/bikes/my2004/supersport.jhtml>; 2004年の販売ラインナップ(公式 英語)\]
+
+[Category:ドゥカティのオートバイの車種](https://ja.wikipedia.org/wiki/Category:ドゥカティのオートバイの車種 "wikilink")

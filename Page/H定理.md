@@ -1,0 +1,67 @@
+> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+
+
+[統計力学](../Page/統計力学.md "wikilink")において、**H定理**（エイチていり）とは、[理想気体](../Page/理想気体.md "wikilink")の[エントロピー](../Page/エントロピー.md "wikilink")が不可逆過程では増大することを示す[定理](../Page/定理.md "wikilink")。すなわち[熱力学第二法則](../Page/熱力学第二法則.md "wikilink")を分子論的に説明するものである。[1872年](../Page/1872年.md "wikilink")、[ルートヴィッヒ・ボルツマン](../Page/ルートヴィッヒ・ボルツマン.md "wikilink")が[ボルツマン方程式](https://ja.wikipedia.org/wiki/ボルツマン方程式 "wikilink")の考察から導いた。
+
+微視的には可逆（[時間](../Page/時間.md "wikilink")反転可能）なはずの[力学](https://ja.wikipedia.org/wiki/力学 "wikilink")的過程から、エントロピーの不可逆な増大が結論されるということで、当時から大いに議論を呼び、現在でも一般的に証明されたとはいえない状況にある。
+
+なお、この定理は現在ではエイチ定理と呼ばれるが、 はラテン文字の[エイチではなくギリシャ文字](../Page/H.md "wikilink")  （[イータ](../Page/Η.md "wikilink")）の[大文字](../Page/大文字.md "wikilink")である、とする意見もある\[1\]。
+
+## H定理
+
+という量は、[速度](../Page/速度.md "wikilink")[空間](../Page/空間.md "wikilink")上の積分
+
+\[H \equiv \int { P ({\ln P}) \mathrm d^3 v} = \left\langle { \ln P
+}\right\rangle\]
+
+  -
+    ここで  は粒子の速度  に関する[確率密度関数](https://ja.wikipedia.org/wiki/確率密度関数 "wikilink")
+
+で定義される（つまり  の[平均](../Page/平均.md "wikilink")である）。これはのちに[クロード・シャノン](../Page/クロード・シャノン.md "wikilink")の定義した[情報エントロピーと同じ形である](https://ja.wikipedia.org/wiki/情報量 "wikilink")。
+
+[ボルツマン](https://ja.wikipedia.org/wiki/ボルツマン "wikilink")は[ボルツマン方程式](https://ja.wikipedia.org/wiki/ボルツマン方程式 "wikilink")を用いてこの  を求めた。ボルツマン方程式は粒子間の衝突を表す項を含んでおり、これは一般には計算できないが、**[分子的混沌](https://ja.wikipedia.org/wiki/分子的混沌 "wikilink")の仮定**（衝突数の仮定）、つまり2粒子の速度の間には[相関](https://ja.wikipedia.org/wiki/相関 "wikilink")がないという仮定をおけば計算できる。
+
+この場合、 を時間で微分したものの被積分関数は、 という形になる（ はそれぞれ2粒子の確率密度関数）。これは常に負または0であることから、 **は決して増大しない**ことが証明される。
+
+個の[統計学](../Page/統計学.md "wikilink")的に独立な粒子からなる系を考えると、 には熱力学エントロピー  と次のような関係がある：
+
+\[S \equiv - N k H\]
+
+ゆえに  定理から、 は減少しないことになる。
+
+## 批判と反論
+
+[ヨハン・ロシュミット](https://ja.wikipedia.org/wiki/ヨハン・ロシュミット "wikilink")は「時間対称的な力学から不可逆過程が導かれるはずがない、どこかに間違いがあるはずだ」と反論した（ロシュミットの逆行性批判、または[時間の矢](https://ja.wikipedia.org/wiki/時間の矢 "wikilink")の[パラドックス](../Page/パラドックス.md "wikilink")）。
+
+これに対する答えこそが、「[分子的混沌](https://ja.wikipedia.org/wiki/分子的混沌 "wikilink")の仮定」である。これにより、巨視的には時間対称性は破れることになる。ただし現在も、この仮定がない一般的な場合には、H定理は証明されていない。
+
+一方[エルンスト・ツェルメロ](../Page/エルンスト・ツェルメロ.md "wikilink")は、[ポアンカレの再帰性定理](https://ja.wikipedia.org/wiki/ポアンカレの再帰性定理 "wikilink")に基づき、「もとと同じ微視的状態に限りなく近づくことがあるはずだ」と主張した（ツェルメロの再帰性批判）。
+
+これに対しては、確かに同じ状態に戻る（ が増大する）確率は全くのゼロではないが、それに要する再帰時間は途方もなく長くて、現実にはありそうもないという反論が成り立つ\[2\]\[3\]。
+
+## その後の進展
+
+[ギブズ](../Page/ギブズ.md "wikilink")は[1902年](../Page/1902年.md "wikilink")に別の方法で  を定義し、やはり  が増加しないことを示した。
+
+この  はボルツマンの  とは異なり、[相空間](https://ja.wikipedia.org/wiki/相空間 "wikilink")内での分布関数を有限微小体積で平均化（[粗視化](https://ja.wikipedia.org/wiki/粗視化 "wikilink")）した上で、これから[積分](https://ja.wikipedia.org/wiki/積分 "wikilink")ではなく[総和](https://ja.wikipedia.org/wiki/総和 "wikilink")として定義したものである。厳密な分布関数を元にした  は[リウヴィルの定理により時間変化しないが](https://ja.wikipedia.org/wiki/リウヴィルの定理_\(物理学\) "wikilink")、粗視化すると減少しうるのである。
+
+ボルツマンの  は微視的な粒子の速度分布から求められた量である。それに対しギブズの  は、全粒子からなる微視的系の、巨視的系の中における分布（[統計集団](https://ja.wikipedia.org/wiki/統計集団 "wikilink")）から求められる点で異なる。
+
+ギブズの粗視化  は[平衡状態](https://ja.wikipedia.org/wiki/平衡状態 "wikilink")に向かって一方的に減少する傾向を示し、また平衡状態ではボルツマンの  と一致する。またボルツマンの分子的混沌仮定も、統計集団の乱雑さを分子論的に解釈したものと考えられ、それゆえこの"ギブズのH定理"はボルツマンのH定理を一般化したものと考えられている\[4\]。しかしギブズの粗視化  は、非平衡[定常状態](../Page/定常状態.md "wikilink")をうまく説明できないことが指摘されており、必ずしも一般的なものとはいえない。
+
+さらにその後、古典力学でなく[量子力学](https://ja.wikipedia.org/wiki/量子力学 "wikilink")に基づいた証明も提案されている\[5\]が、これについては遷移確率の適用法や解釈をめぐって現在でも議論の的になっている。
+
+また分子運動のカオス性にもとづき、[カオス理論](../Page/カオス理論.md "wikilink")を用いた説明も試みられている\[6\]。しかし現在も、非平衡状態における  の（そしてエントロピーの）定義として、すべての物理学者のコンセンサスを得られるものには至っていない。
+
+H定理は、 が増加する（つまりエントロピーが減少する）確率は全くゼロではないけれども完全に無視できるほど小さい、ということを述べている。その確率はH定理からは具体的に示されないが、20世紀末に提出された[ゆらぎの定理](https://ja.wikipedia.org/wiki/ゆらぎの定理 "wikilink")によって見積ることが可能となった。
+
+## 参考文献
+
+[Category:統計力学](https://ja.wikipedia.org/wiki/Category:統計力学 "wikilink") [Category:非平衡熱力学](https://ja.wikipedia.org/wiki/Category:非平衡熱力学 "wikilink") [Category:統計力学の哲学](https://ja.wikipedia.org/wiki/Category:統計力学の哲学 "wikilink") [Category:物理学の定理](https://ja.wikipedia.org/wiki/Category:物理学の定理 "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink")
+
+1.  ボルツマンの当初の論文 L. Boltzmann, Wien Ber. 66, 275 (1872). では、そもそも *H* ではなく *E* で表されていた。*H* が用いられるようになる過程については  等を参照のこと。
+2.  「物理学辞典-改訂版」培風館(1992/05) "ポアンカレサイクル"
+3.  原島鮮「熱力学・統計力学-改訂版」培風館 (1978/09) 11.1
+4.  J. W. Gibbs (1902): Elementary Principles of Statistical Mechanics. ISBN 978-0-918024-20-6
+5.  J. R. Waldram (1985): The theory of thermodynamics. ISBN 0-521-28796-0
+6.  田崎秀一(2000): カオスから見た時間の矢 ISBN 978-4-06-257287-3

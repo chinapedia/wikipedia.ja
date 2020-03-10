@@ -1,0 +1,279 @@
+> この記事は[Maple Colors](https://ja.wikipedia.org/wiki/Maple_Colors)から翻訳されています。
+
+
+『**Maple Colors**』（メイプルカラーズ）は、[2003年](../Page/2003年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド[CROSSNET](https://ja.wikipedia.org/wiki/CROSSNET "wikilink")から発売（開発は[ApRicoT](https://ja.wikipedia.org/wiki/ApRicoT "wikilink")）された[18禁](https://ja.wikipedia.org/wiki/18禁 "wikilink")恋愛フィールドアドベンチャーゲームである。
+
+## 概要
+
+紅華学園を舞台にした18禁フィールドアドベンチャーゲーム。紅華祭で演劇発表をすることになった主人公達は、まったくやる気のないクラスメートを指揮して演劇部と勝負することになる。はじめはいやいや作業していた主人公だったが、同じく代表になったクラスメートの女の子のために、一癖も二癖もあるクラスメートを指揮して演劇を成功させ、演劇部のエリート部長に勝つことを決意する。プレイヤーは仲間を集め、問題の処理やミニゲームを繰り返し、演劇に必要な道具を調達しながら、30人ほどいるクラスメートを効率よく使い演劇を成功させなければならない。男女ともにほぼフルボイスで収録。初回版にはカラー画集・装丁ハードカバーを同梱。
+
+2005年3月31日に、[角川書店](../Page/角川書店.md "wikilink")より[PS2コンシューマー版として](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**Maple Colors〜決戦は学園祭\!〜**』が発売される。
+
+2008年12月26日、Maple Colorsから5年後の世界を描いた『[Maple Colors 2](https://ja.wikipedia.org/wiki/Maple_Colors_2 "wikilink")』（メイプルカラーズセカンド）が[ApRicoT](https://ja.wikipedia.org/wiki/ApRicoT "wikilink")/[CROSSNET](https://ja.wikipedia.org/wiki/CROSSNET "wikilink")より発売。
+
+## ストーリー
+
+紅華学園演劇部は、コンクールで2年連続全国一に輝く実績がある陰で、陰湿な面も持ち合わせていた。問題児だらけの2年B組に所属する主人公が、同級生をいじめていた演劇部員を殴り飛ばしたところ、当人は退学・クラス全員は停学という一方的な処分を申し渡される。
+
+演劇勝負で勝てば不問になると聞かされた主人公はクラスの協力を取り付けようとするが、対戦相手がエリート演劇部と知っているため誰もが非協力的な態度をとる。果たして2年B組はひとつとなって学園祭の決戦に臨むことができるのだろうか。
+
+## 登場キャラクター
+
+このゲームには総勢30人以上のキャラクターが登場し、メインヒロイン以外のクラスの女子にもイベントが用意されている。
+
+### メインヒロイン
+
+  - 葵 未来（あおい みらい）
+    声：[北都南](../Page/北都南.md "wikilink")
+    無所属・脚本担当。
+    2年B組の参謀的な役割を務め、「キャプテン」と呼ばれ恐れられる危険な女の子。演劇部に所属していたが、色々とあって退部している。演劇部との演劇勝負に勝利するために、悪知恵を駆使して2年B組を扇動する。
+  - 秋穂 もみじ（あいお もみじ）
+    声：[木村あやか](https://ja.wikipedia.org/wiki/木村あやか "wikilink")
+    演劇部所属・小道具担当。
+    天才演劇少女だが、その才能に気付いているのは未来と愛善部長のみ。愛善部長が彼女の演技力に嫉妬して役を与えないので、衣装係をしている。不遇な扱いを受けているが、前向きで明るい（天然ボケ）ので、その状況に気付いていない。
+  - 卯月 あむ（うづき あむ）
+    声：[宇佐美桃香](https://ja.wikipedia.org/wiki/宇佐美桃香 "wikilink")
+    無所属・大道具担当。
+    天才子役の呼び声も高い芸能人。芸能活動を中心に行ってきたが、突然、休養宣言を発表。学園に通い出すがそこでも芸能人という特殊な目で見られがち。常に演じることを余儀なくされているため、誰かに本当の自分を見てほしいと思っている。
+  - 咲守 素子（さきもり もとこ）
+    声：[Ruru](https://ja.wikipedia.org/wiki/Ruru "wikilink")
+    合気道部所属・役者担当。
+    神社の娘で、延々と受け継がれている古武術の担い手。心技体を完璧に会得し、毅然とした立居振舞いで、融通が利かないほどに真面目。だが実は、可愛いものに目がない一面も。
+  - 鈴原 空（すずはら そら）
+    声：[青山ゆかり](https://ja.wikipedia.org/wiki/青山ゆかり "wikilink")
+    水泳部所属・役者担当。
+    虚無的で何事に対しても冷めた雰囲気、他人に合わせようという意思がなく、好んで独りでいることが多い。冷静に現実を見つめる目には、フィクションの類は受け入れられないようで、どこか蔑んでいる様子。
+  - 桃井 葉子（ももい ようこ）
+    声：[大波こなみ](https://ja.wikipedia.org/wiki/大波こなみ "wikilink")
+    ソフトボール部所属・大道具担当。
+    ソフトボール部のエースピッチャー。だが、極度のアガリ症で凄まじくプレッシャーに弱い。過去に演劇の経験があり、どうやら、その時のことがトラウマになっている様子。
+
+### 2B女子
+
+  - 香月 みりん（かづき みりん）
+    声：[桐野香澄](https://ja.wikipedia.org/wiki/桐野香澄 "wikilink")
+    ソフトボール部所属・小道具担当。
+  - 肴倉 裕美（さかなくら ゆみ）
+    声：[生稲誓子](https://ja.wikipedia.org/wiki/生稲誓子 "wikilink")
+    演劇部所属・大道具担当。
+  - 桜井 まこと（さくらい まこと）
+    声：[福元コヒロ](https://ja.wikipedia.org/wiki/福元コヒロ "wikilink")
+    陸上部所属・大道具担当。
+  - 真原 牧（さねはら まき）
+    声：[春野桜雪](https://ja.wikipedia.org/wiki/春野桜雪 "wikilink")
+    手芸部所属・小道具担当。
+  - 高野 聖（たかの ひじり）
+    声：[有賀桃](https://ja.wikipedia.org/wiki/有賀桃 "wikilink")
+    図書委員会所属・小道具担当。
+  - 田中 加奈多（たなか かなた）
+    声：[松永雪希](https://ja.wikipedia.org/wiki/松永雪希 "wikilink")
+    学生会書記・大道具担当。
+  - 千曲川 夜渡（ちくまがわ やと）
+    声：[かわの亜衣](https://ja.wikipedia.org/wiki/かわの亜衣 "wikilink")
+    ソフトボール部所属・小道具担当。
+  - 夏目 千佳（なつめ ちか）
+    声：[芹園みや](https://ja.wikipedia.org/wiki/芹園みや "wikilink")
+    飼育委員会所属・小道具担当。
+  - 二曜 頼子（によう よりこ）
+    声：[内野ぽち](https://ja.wikipedia.org/wiki/内野ぽち "wikilink")
+    天文部所属・小道具担当。
+  - 馬場 美野里（ばば みのり）
+    声：[みやびりん](https://ja.wikipedia.org/wiki/みやびりん "wikilink")
+    陸上部所属・小道具担当。
+  - 林 木葉（はやし このは）
+    声：[金田まひる](../Page/金田まひる.md "wikilink")
+    図書委員会所属・役者担当。
+  - 百地 桃（ももち もも）
+    声：[三園あすか](https://ja.wikipedia.org/wiki/三園あすか "wikilink")
+    演劇部所属・小道具担当。
+  - 山形 晶（やまがた あきら）
+    声：[柏倉れん](https://ja.wikipedia.org/wiki/柏倉れん "wikilink")
+    バスケットボール部所属・大道具担当。
+
+### 2B男子
+
+  - 佐久 良次郎（さく よしじろう）
+    声：[氷河流](https://ja.wikipedia.org/wiki/氷河流_\(声優\) "wikilink")
+    本編主人公。
+  - 大久保 力（おおくぼ ちから）
+    声：[風見裕介](https://ja.wikipedia.org/wiki/風見裕介 "wikilink")
+    演劇部所属・大道具担当。
+  - 鬼小島 篤志（おにこじま あつし）
+    声：[高嶺悠賀](https://ja.wikipedia.org/wiki/高嶺悠賀 "wikilink")
+    美術部所属・大道具担当。
+  - 久遠 那由他（くおん なゆた）
+    声：[芳幸末](https://ja.wikipedia.org/wiki/芳幸末 "wikilink")
+    合気道部所属・役者担当。
+  - 小石 小二郎（こいし こじろう）
+    声：[ショニー小倉](https://ja.wikipedia.org/wiki/ショニー小倉 "wikilink")
+    野球部所属・役者担当。
+  - 東雲 東風（しののめ こち）
+    声：[松陰真](https://ja.wikipedia.org/wiki/松陰真 "wikilink")
+    バスケットボール部所属・大道具担当。
+  - 菩提樹 武男（ぼだいじゅ たけお）
+    天文部所属・大道具担当。
+  - 服部 君信（はっとり きみのぶ）
+    声：ショニー小倉
+    新聞部所属・役者担当。
+  - 蛇目 至（へびめ いたる）
+    声：[五反田正人](https://ja.wikipedia.org/wiki/五反田正人 "wikilink")
+    放送委員会所属・役者担当。
+  - 右田 純一（みぎた じゅんいち）
+    声：[緒田マリ](https://ja.wikipedia.org/wiki/緒田マリ "wikilink")
+    サッカー部所属・大道具担当。
+  - 美作 上野介（みまさか こうずのすけ）
+    声：[佐藤宏](https://ja.wikipedia.org/wiki/佐藤宏_\(声優\) "wikilink")
+    アニメ漫画研究会所属・小道具担当。
+  - 目々倉 下駄郎（めめくら げたろう）
+    声：かわの亜衣
+    演劇部所属・小道具担当。
+  - 山田 太郎（やまだ たろう）
+    声：[鉄仮面](https://ja.wikipedia.org/wiki/鉄仮面_\(声優\) "wikilink")
+    野球部所属・大道具担当。
+
+### その他
+
+  - 坂本 加奈子（さかもと かなこ）
+    声：緒田マリ
+
+    2-B担任。
+
+  - 渡会 しのぶ（わたらい しのぶ）
+    声：[みやびりん](https://ja.wikipedia.org/wiki/みやびりん "wikilink")
+
+    水泳部所属。
+
+  - 岩田 鉄子（いわた てつこ）
+    声：[三園あすか](https://ja.wikipedia.org/wiki/三園あすか "wikilink")
+
+    ソフトボール部部長。
+
+  - 神宮寺 夢子（じんぐうじ ゆめこ）
+    声：[柚木かなめ](https://ja.wikipedia.org/wiki/柚木かなめ "wikilink")
+
+    演劇部副部長。
+
+  - 愛善 幸仁（あいぜん ゆきひと）
+    声：鉄仮面
+
+    演劇部部長。
+
+  - 大杉 曾胡（おおすぎ ひいこ）
+    声：佐藤宏
+
+    演劇部顧問。
+
+  - チビ
+    声：[高嶺悠賀](https://ja.wikipedia.org/wiki/高嶺悠賀 "wikilink")
+
+  - デブ
+    声：五反田正人
+
+  - ノッポ
+
+  - 演劇部員A
+    声：高嶺悠賀
+
+  - 演劇部員B
+    声：鉄仮面
+
+  - 演劇部員C
+    声：[松陰真](https://ja.wikipedia.org/wiki/松陰真 "wikilink")
+
+  - 三崎先生（みさき）
+    声：松陰真
+
+    養護教諭。
+
+  - 緑ジャージ
+    声：ショニー小倉
+
+    生活指導教諭。
+
+  - 学生会長
+    声：佐藤宏
+
+    学生会会長。
+
+  - 野球部主将
+    声：[松陰真](https://ja.wikipedia.org/wiki/松陰真 "wikilink")
+
+    野球部主将。
+
+  - 阿州 樹安登（あす きあと）
+    声：五反田正人
+
+    新聞部部長。
+
+  - 新聞部員α
+    声：高嶺悠賀
+
+  - 新聞部員β
+    声：佐藤宏
+
+  - 秋穂幸洋（あいお ゆきひろ）
+    声：ショニー小倉
+
+    秋穂もみじの兄。
+
+  - 姉小路（あねこうじ）
+    声：[坂本正吾](https://ja.wikipedia.org/wiki/坂本正吾 "wikilink")
+
+    卯月あむのマネージャー。
+
+  - 神宮寺夢子の父
+    声：[風見裕介](https://ja.wikipedia.org/wiki/風見裕介 "wikilink")
+
+    神宮寺夢子の父。
+
+  - マタギじいさん
+    声：風見裕介
+
+  - 詩人
+    声：松陰真
+
+## スタッフ
+
+  - 原画：TOMA、浮月たく
+  - シナリオ：TOMA、芳右島ドリル、鏡裕之、渋谷五壱、七瀬夕奈
+  - BGM作成：七巻ヒ熊、RYO、ドン☆ハラペーニョ、イナヲ
+
+## テーマソング
+
+  - オープニングテーマ：**Breakthrough Your Heart**
+      - 作詞：A. Masato / 作曲：響玉之助 / 歌：[YURIA](https://ja.wikipedia.org/wiki/YURIA "wikilink")
+    <!-- end list -->
+      -
+        OVAではエンディングだった。
+  - エンディングテーマ：**出会いも別れも**
+      - 作詞：A. Masato / 作曲：不知火ぴゅー太郎 / 歌：YURIA
+
+## 関連商品
+
+### PCソフト
+
+2004年1月30日、ファンディスク『**Maple Colors H**』（メイプルカラーズえっち）が発売された。未来・あむ・鈴原・咲守・林の5人が良次郎の家に押しかけてくるメインシナリオのほか、桜井と高野のシナリオを収録している。
+
+2006年3月24日には本編とファンディスクのカップリング版『MaplePack -メイプルぱっく-』が発売。
+
+### OVA
+
+2004年12月25日、成人向け[OVA](../Page/OVA.md "wikilink")「Maple Colors 第一幕 Hな激闘編」が発売。翌年3月25日には「Maple Colors 第二幕 青春H編」が発売された。
+
+### 書籍
+
+  - メイプルカラーズ ファンサイド（[メディアックス](../Page/メディアックス.md "wikilink")）ISBN 4-89613-938-0
+  - Maple Colors アンソロジーコミックス（[イーグルパブリシング](https://ja.wikipedia.org/wiki/イーグルパブリシング "wikilink")）ISBN 4-901191-91-8
+  - 小説『Maple Colors』（著：九頭竜坂瞬 / イーグルパブリシング〈パンプキンノベルズ〉）ISBN 4-901191-92-6
+
+### CD
+
+  - Maple Colors オリジナルサウンドトラック（[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")）
+  - Maple Colors オリジナルドラマアルバム（ランティス）
+
+## 外部リンク
+
+  - [ApRicoT](http://www.t-apricot.jp/)
+  - [Maple Colors〜決戦は学園祭\!〜](http://web.archive.org/web/20140820155414/http://www.kadokawa.co.jp/game/game/maple/index.html)
+
+[Category:2003年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2003年のアダルトゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:角川書店のゲームソフト](https://ja.wikipedia.org/wiki/Category:角川書店のゲームソフト "wikilink") [Category:アニメ作品_め](https://ja.wikipedia.org/wiki/Category:アニメ作品_め "wikilink") [Category:2004年の成人向けOVA](https://ja.wikipedia.org/wiki/Category:2004年の成人向けOVA "wikilink") [Category:演劇を題材とした作品](https://ja.wikipedia.org/wiki/Category:演劇を題材とした作品 "wikilink") [Category:学校を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:学校を舞台としたコンピュータゲーム "wikilink") [Category:学園アニメ](https://ja.wikipedia.org/wiki/Category:学園アニメ "wikilink")

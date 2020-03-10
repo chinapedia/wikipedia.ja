@@ -1,0 +1,114 @@
+> この記事は[E-CUP SLAVE ](https://ja.wikipedia.org/wiki/E-CUP_SLAVE_)から翻訳されています。
+
+
+**E-CUP SLAVE 愉芽の絆** （いーかっぷ　すれいぶ　ゆめのきずな）は、[岡本百合](https://ja.wikipedia.org/wiki/岡本百合 "wikilink")主演の[シネマジック](https://ja.wikipedia.org/wiki/シネマジック "wikilink")の[AV作品である](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")。
+
+[1988年](../Page/1988年.md "wikilink")に活躍したAV女優・[岡本百合](https://ja.wikipedia.org/wiki/岡本百合 "wikilink")を主演とし、彼女のセールスポイントとしていた大きく且つ美しい[乳房](../Page/乳房.md "wikilink")「美巨乳」と豊満な肉体の魅力を[接写](https://ja.wikipedia.org/wiki/接写 "wikilink")を多用した撮影で余す所なく引き出し、その上ハイレベルで過激な[SMプレイが大反響を呼ぶ](../Page/SM_\(性風俗\).md "wikilink")。
+
+それまでいわゆる"単体モノ"にしか出演しなかった岡本であったが、同作品では過激なSMプレイに体当たりで挑んでいる。
+
+監督はシネマジックの社長でもある吉村彰一。後に氏の作品は「ヨーロッパの映画作品のように綺麗に撮ろう」というコンセプトで撮影していた事を\[1\]インタビューで答えている。
+
+## 出演
+
+  - 岡本百合（[岡本百合](https://ja.wikipedia.org/wiki/岡本百合 "wikilink")）
+      - 山深い片田舎に住む娘。
+      - 後にセックスパートナーとなる先生に密かな恋心を抱いていた。そして先生に処女を捧げる。
+      - 女校生の頃は二つ結びで清楚な服装だったが、卒業してからはボディコン風、三つ編みワンピース、[ゴシック風衣装と着衣に経年変化は窺い知れるが](https://ja.wikipedia.org/wiki/ゴシック・ファッション "wikilink")、普段の暮らしは窺い知れない。
+      - 先生とは喫茶店で待ち合わせしてからデートをしており、普段は距離を置いて暮らしている。
+      - そのためか、先生とは深い仲となるが、別な男性と[婚約](https://ja.wikipedia.org/wiki/婚約 "wikilink")してしまう。
+
+<!-- end list -->
+
+  - 先生（[日比野達郎](https://ja.wikipedia.org/wiki/日比野達郎 "wikilink")（恵比寿太一郎名義））
+      - 元々は百合の通っていた学校の先生であった。いつも[北原白秋](../Page/北原白秋.md "wikilink")の詩集等、文庫本を持ち歩く所から科目は国語と思われる。
+      - 女性を緊縛しないと性的興奮が得られない性癖を持っている。そのため黒い縄は必需品となっており、いつも大きなカバンを持ち歩いている。
+      - 百合と[デート](https://ja.wikipedia.org/wiki/デート "wikilink")をする時は黒ずくめの[サングラス](https://ja.wikipedia.org/wiki/サングラス "wikilink")をどんなプレイ中でも一貫して外さずかけている（但し写真を撮影する際は銀縁の眼鏡を着用する）。
+      - 百合を愛し、百合の事を真剣に考えていたのだが、他の男性と婚約してしまう百合に愛情から怨念へと変化してゆく。
+
+## ストーリー
+
+白い無機質なロッジの二階に男に無理矢理連れ込まれベッドに押し倒される女。「嫌っ、止めて、許して」と許しを得ようとするが、 男は構い無く女を黒い縄で縛りスカートを剥ぎ取り[臀部](https://ja.wikipedia.org/wiki/臀部 "wikilink")を露にして[スパンキング](../Page/スパンキング.md "wikilink")を浴びせる。
+
+作中時折過去からの映像が[モノクロ](https://ja.wikipedia.org/wiki/モノクロ "wikilink")画像で挟み込まれる。男と女がかつては先生と生徒の関係であった。先生は学校から去る事になり、 立ち去る際に先生に告白しようと駆け寄るも出来ないまま別れてしまう。生徒だった女が18歳になったのを機に先生のほうからコンタクトする。
+
+女が高校から卒業すると雪降る雑木林へ連れ込み二人はキスを交わす。男はかばんから黒い縄を取り出すと女は一瞬たじろぐが 「こうしないと駄目なんだ」と説得する男に女は仕方ない表情で受け入れ木に縛り付けられる。
+
+目隠しをされ声が漏れないように女の口にハンカチを詰め込むと立位[ファック](https://ja.wikipedia.org/wiki/ファック "wikilink")される。女の股間から血を流し、目隠しから涙を流す。 男に処女を捧げたのであった。
+
+その後二人は互いにSMセックスを楽しむような関係に発展したが、やがて二人は会っても会話少なく醒めた空気が流れるようになる。 その時、女が紅茶を飲むその指に光るものを男は見つける。「その[指輪](https://ja.wikipedia.org/wiki/指輪 "wikilink")どうしたの」と聞くと「今度私、結婚するの･･･」と答える女。 男は「君が結婚しようがしまいが君は私のものだよ･･･」この言葉を女の体に刻み込むように激しい責めが女に科せられるのである。
+
+## プレイメニュー
+
+  - [スパンキング](../Page/スパンキング.md "wikilink")（[臀部](https://ja.wikipedia.org/wiki/臀部 "wikilink")、[乳房](../Page/乳房.md "wikilink")）
+  - 乳房責め
+      - 舐め回し
+      - 揉みしだき
+      - 洗濯挟みによるクリッピング
+      - 吸引カップにより[乳首](https://ja.wikipedia.org/wiki/乳首 "wikilink")吸い上げ
+  - [クンニリングス](../Page/クンニリングス.md "wikilink")
+  - [鼻責め](../Page/鼻責め.md "wikilink")
+      - [鼻フック](https://ja.wikipedia.org/wiki/鼻フック "wikilink")
+      - 鼻鏡による鼻拡張
+  - 鈴つき洗濯挟みによる[陰唇](https://ja.wikipedia.org/wiki/陰唇 "wikilink")クリッピング
+  - 脱糞ファック([浣腸](https://ja.wikipedia.org/wiki/浣腸 "wikilink")後[性交中に](https://ja.wikipedia.org/wiki/性行為 "wikilink")[排便](https://ja.wikipedia.org/wiki/排便 "wikilink"))
+  - 浣腸
+  - [アナルセックス](https://ja.wikipedia.org/wiki/アナルセックス "wikilink")
+  - [飲尿](https://ja.wikipedia.org/wiki/飲尿 "wikilink")
+  - [イラマチオ](https://ja.wikipedia.org/wiki/イラマチオ "wikilink")
+  - 熱蝋責め（舌の上にも熱蝋を落とす）
+
+## 発売来歴
+
+  - [1988年](../Page/1988年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")に初版[VHS](../Page/VHS.md "wikilink")ビデオカセット版が発売される。
+
+<!-- end list -->
+
+  -
+    番号:VS-63　定価:¥17,000
+    レンタル、セルとも好調の売上げで、ほぼ下半期の発売ながらも1988年年間売上げランキングでは2位の2,830本を売上げる。<ref>[白夜書房](../Page/白夜書房.md "wikilink")刊：ビデオ・ザ・ワールド
+
+[1989年](../Page/1989年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")号より。</ref>
+
+  -
+    後年、同時期の作品の多くが廃盤に追い込まれる中、後述の廉価版が発売されるまで現行カタログとして残り続ける。
+
+<!-- end list -->
+
+  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")に[大洋図書](https://ja.wikipedia.org/wiki/大洋図書 "wikilink")から廉価セル版[VHS](../Page/VHS.md "wikilink")ビデオカセット版が発売される。
+
+<!-- end list -->
+
+  -
+    番号:なし\[2\]　定価:¥3,800([消費税](../Page/消費税.md "wikilink")別)
+    書店向けにシネマジックの作品群から秀作を選りすぐって発売した「シネマジック・クラシックス」の3作目として発売。
+    販売価格は大幅に下がったものの、内容は全く同一。但しカセットの質感が低いのとカセットレーベルが貼られておらずユーザーが貼る形になっていた。
+    後に廉価セル版がシネマジック本体から発売されるようになると早々に廃盤となってしまった。但しシネマジック本体からセル版は発売されていない。
+
+<!-- end list -->
+
+  - [2003年](../Page/2003年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")に[DVD](../Page/DVD.md "wikilink")版が発売される。
+
+<!-- end list -->
+
+  -
+    番号:DD-65　定価:¥4,800(消費税別)
+    藤岡未玖主演「背徳の絆」とカップリングして「背徳の絆・愉芽の絆」として発売。
+    宣伝グラビア用スチルのオマケ付きだが、現代の倫理審査では通過出来ないのか一部で[モザイクの上書きによる消し込み濃度が高くなってしまっている](https://ja.wikipedia.org/wiki/モザイク処理 "wikilink")。
+    [2007年](../Page/2007年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、シネマジック製品の販路変更\[3\]に伴い廃盤。
+
+[2013年](../Page/2013年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")現在、動画ダウンロードサイトで購入可能である。
+
+## 参照・出典
+
+<references />
+
+## リンク
+
+  - [シネマジック](http://www.cinemagic.co.jp/) - 同作品の制作元。
+
+[Category:日本のアダルトビデオ作品](https://ja.wikipedia.org/wiki/Category:日本のアダルトビデオ作品 "wikilink") [Category:BDSM作品](https://ja.wikipedia.org/wiki/Category:BDSM作品 "wikilink")
+
+1.  [S\&Mスナイパーインタビュー。](http://sniper.jp/008sniper/0083interview/post_124.php)第三回に同作品の事がちょっとだが取り上げられている。
+2.  但し[ISBN](https://ja.wikipedia.org/wiki/ISBN "wikilink")コードが付与されている。ISBN 4-88672-113-3
+3.  [詳細参照](https://ja.wikipedia.org/wiki/シネマジック#歴史 "wikilink")。

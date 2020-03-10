@@ -1,0 +1,264 @@
+> この記事は[OB](https://ja.wikipedia.org/wiki/OB)から翻訳されています。
+
+
+**明治高校マンドリン部・孝友会オーケストラ**は、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")に明治高校マンドリン部のOBによって結成された新進の[オーケストラ](../Page/オーケストラ.md "wikilink")。音楽監督・指揮は[久保田孝](https://ja.wikipedia.org/wiki/久保田孝 "wikilink")。運営委員長は[加藤英之](https://ja.wikipedia.org/wiki/加藤英之 "wikilink")。メンバーは現役時に久保田孝より直接指導を受けた者で構成されている。
+
+2011年4月より、明治高校マンドリン部・孝友会オーケストラに改称した。
+
+## 過去の演奏曲目
+
+### 第1回定期演奏会
+
+2004年9月26日 [日本大学カザルスホール](https://ja.wikipedia.org/wiki/日本大学カザルスホール "wikilink")
+
+  - 序曲「メリアの平原に立ちて」… [ジュゼッペ・マネンテ](https://ja.wikipedia.org/wiki/ジュゼッペ・マネンテ "wikilink")（編曲　久保田孝）
+  - 海の組曲… A.アマディ　（編曲　久保田孝）
+  - 喜歌劇「愛の悪戯」第一幻想曲 … [ウーゴ・ボッタキアリ](https://ja.wikipedia.org/wiki/ウーゴ・ボッタキアリ "wikilink")（編曲　久保田孝）
+  - 喜歌劇「[こうもり](https://ja.wikipedia.org/wiki/こうもり_\(オペレッタ\) "wikilink")」序曲… [ヨハン・シュトラウス2世](https://ja.wikipedia.org/wiki/ヨハン・シュトラウス2世 "wikilink")（編曲　久保田孝）
+  - [弦楽の為のセレナーデ](https://ja.wikipedia.org/wiki/弦楽の為のセレナーデ "wikilink")　ホ長調　作品22… [アントニン・ドヴォルザーク](../Page/アントニン・ドヴォルザーク.md "wikilink")（編曲　久保田孝）
+
+### 第2回定期演奏会〜久保田孝マンドリン演奏活動50年記念〜
+
+2005年9月25日 [第一生命ホール](https://ja.wikipedia.org/wiki/第一生命ホール "wikilink")
+
+  - 歌劇「[ルスランとリュドミラ](../Page/ルスランとリュドミラ.md "wikilink")」序曲… [ミハイル・グリンカ](https://ja.wikipedia.org/wiki/ミハイル・グリンカ "wikilink")　（編曲　久保田孝）
+  - 第二ギリシャ狂詩曲… [ニコラス・ラウダス](https://ja.wikipedia.org/wiki/ニコラス・ラウダス "wikilink")
+  - マンドリンオーケストラの為の幻想曲第2番　ホ短調　作品24… 久保田孝
+  - [悲劇的序曲](https://ja.wikipedia.org/wiki/悲劇的序曲 "wikilink")　ニ短調　作品81… [ヨハネス・ブラームス](../Page/ヨハネス・ブラームス.md "wikilink")　（編曲　久保田孝）
+  - [ツィゴイネルワイゼン](https://ja.wikipedia.org/wiki/ツィゴイネルワイゼン "wikilink")… [パブロ・デ・サラサーテ](https://ja.wikipedia.org/wiki/パブロ・デ・サラサーテ "wikilink")（編曲　久保田孝）
+
+<!-- end list -->
+
+  -
+    マンドリン独奏　　山室繁央
+
+<!-- end list -->
+
+  - [舞踊風組曲第2番](https://ja.wikipedia.org/wiki/舞踊風組曲第2番 "wikilink")　作品21… 久保田孝
+
+### 第3回定期演奏会
+
+2006年10月1日 [紀尾井ホール](https://ja.wikipedia.org/wiki/紀尾井ホール "wikilink")
+
+  - 序曲ニ短調… サルヴァトーレ・ファルボ＝ジャングレコ（編曲　久保田孝）
+  - アーベントムジーク… [クルト・シュヴァーエン](https://ja.wikipedia.org/wiki/クルト・シュヴァーエン "wikilink")
+  - ウイーンの森の物語… ヨハン・シュトラウス2世　（編曲　久保田孝）
+  - 交響的前奏曲… [ウーゴ・ボッタキアリ](https://ja.wikipedia.org/wiki/ウーゴ・ボッタキアリ "wikilink")
+  - ハンガリアの黄昏…D.ベルッティ　（編曲　久保田孝）
+
+<!-- end list -->
+
+  -
+    マンドリン独奏　　山室繁央
+
+<!-- end list -->
+
+  - [舞踊風組曲第3番](https://ja.wikipedia.org/wiki/舞踊風組曲第3番 "wikilink")　作品25… 久保田孝
+
+### 前橋マンドリンフェスタ2006
+
+2006年10月29日
+
+  - 交響的前奏曲… ウーゴ・ボッタキアリ
+  - 歌劇「[ルスランとリュドミラ](../Page/ルスランとリュドミラ.md "wikilink")」序曲… ミハイル・グリンカ（編曲　久保田孝）
+
+### 第4回定期演奏会
+
+2007年9月30日 [第一生命ホール](https://ja.wikipedia.org/wiki/第一生命ホール "wikilink")
+
+  - 歌劇「[秘密の結婚](https://ja.wikipedia.org/wiki/秘密の結婚 "wikilink")」序曲… [ドメニコ・チマローザ](../Page/ドメニコ・チマローザ.md "wikilink")（編曲　久保田孝）
+  - ロマン的間奏曲… アリアーゴ・カペレッティ
+  - マンドリン協奏曲〜山室繁央氏に捧ぐ〜(改訂初演)… 二橋潤一
+
+<!-- end list -->
+
+  -
+    マンドリン独奏　　山室繁央
+
+<!-- end list -->
+
+  - [マンドリンオーケストラの為に幻想曲第1番イ短調](https://ja.wikipedia.org/wiki/マンドリンオーケストラの為に幻想曲第1番イ短調 "wikilink")… 久保田孝
+  - [皇帝円舞曲](https://ja.wikipedia.org/wiki/皇帝円舞曲 "wikilink")…ヨハン・シュトラウス2世　（編曲　久保田孝）
+  - [スラヴ行進曲](https://ja.wikipedia.org/wiki/スラヴ行進曲 "wikilink")　…[ピョートル・イリイチ・チャイコフスキー](../Page/ピョートル・チャイコフスキー.md "wikilink")（編曲　久保田孝）
+
+### 第5回定期演奏会
+
+2008年9月28日 [紀尾井ホール](https://ja.wikipedia.org/wiki/紀尾井ホール "wikilink")
+
+  - アンダンテとポロネーズ… [メッツァカーポ](https://ja.wikipedia.org/wiki/メッツァカーポ "wikilink")（編曲　久保田孝）
+  - マンドリン協奏曲ト長調… フンメル（編曲　久保田孝）
+
+<!-- end list -->
+
+  -
+    独奏　高橋邦明
+
+<!-- end list -->
+
+  - [舞踊風組曲第1番](https://ja.wikipedia.org/wiki/舞踊風組曲第1番 "wikilink")… 久保田孝
+  - [弦楽セレナーデ](https://ja.wikipedia.org/wiki/弦楽セレナーデ "wikilink")　…[ピョートル・イリイチ・チャイコフスキー](../Page/ピョートル・チャイコフスキー.md "wikilink")（編曲　久保田孝）
+
+### 第6回定期演奏会
+
+2009年9月27日 [紀尾井ホール](https://ja.wikipedia.org/wiki/紀尾井ホール "wikilink")
+
+  - 歌劇「アルテミシア」序曲…[ドメニコ・チマローザ](../Page/ドメニコ・チマローザ.md "wikilink") （編曲　中野二郎、補筆　久保田孝）
+  - 組曲第1番ロ短調Op.4… [久保田孝](https://ja.wikipedia.org/wiki/久保田孝 "wikilink")
+  - マンドリンの群れ… カルロ・アルベルト・ブラッコ（編曲　久保田孝）
+
+<!-- end list -->
+
+  - [劇付随音楽「真夏の夜の夢」序曲](https://ja.wikipedia.org/wiki/劇付随音楽「真夏の夜の夢」序曲 "wikilink")… フェリックス・メンデルスゾーン（編曲　久保田孝）
+  - 「ヴェニスの謝肉祭」による変奏曲…エルケ・トーバー=フォクト（加筆　久保田孝）
+
+<!-- end list -->
+
+  -
+    独奏　丸橋弘雅【第21回（2008年）日本マンドリン独奏コンクール第1位】
+
+<!-- end list -->
+
+  - [マンドリンオーケストラの為の幻想曲第3番ニ短調Op.26](https://ja.wikipedia.org/wiki/マンドリンオーケストラの為の幻想曲第3番ニ短調Op.26 "wikilink")　…[久保田孝](https://ja.wikipedia.org/wiki/久保田孝 "wikilink")（編曲　久保田孝）
+
+### 朔太郎音楽祭2009
+
+2009年10月25日
+
+  - 組曲第1番ロ短調Op.4… [久保田孝](https://ja.wikipedia.org/wiki/久保田孝 "wikilink")
+  - 「ヴェニスの謝肉祭」による変奏曲…エルケ・トーバー=フォクト（加筆　久保田孝）
+
+<!-- end list -->
+
+  -
+    独奏　丸橋弘雅【第21回（2008年）日本マンドリン独奏コンクール第1位】
+
+### 第7回定期演奏会
+
+2010年9月26日 [紀尾井ホール](https://ja.wikipedia.org/wiki/紀尾井ホール "wikilink")
+
+  - [演奏会用序曲「フィンガルの洞窟」](https://ja.wikipedia.org/wiki/演奏会用序曲「フィンガルの洞窟」 "wikilink")　　フェリックス・メンデルスゾーン　（編曲　久保田孝）
+  - [弦楽のためのアダージョ](https://ja.wikipedia.org/wiki/弦楽のためのアダージョ "wikilink")　　　サミュエル・バーバー　（編曲　久保田孝）
+  - [マンドリン協奏曲ハ長調　RV425](https://ja.wikipedia.org/wiki/マンドリン協奏曲ハ長調_RV425 "wikilink")　　　アントニオ・ヴィヴァルディ　（編曲　久保田孝）
+
+<!-- end list -->
+
+  -
+    マンドリン独奏　　丸橋弘雅【第21回（2008年）日本マンドリン独奏コンクール第1位】
+
+<!-- end list -->
+
+  - [悲劇的序曲](https://ja.wikipedia.org/wiki/悲劇的序曲 "wikilink")　　　ヨハネス・ブラームス　（編曲　久保田孝）
+  - [交響曲第7番ロ短調　D759「未完成」](https://ja.wikipedia.org/wiki/交響曲第7番ロ短調_D759「未完成」 "wikilink")　　　フランツ・シューベルト　（編曲　久保田孝）
+
+### 第6回大阪国際マンドリンフェスティバル＆コンクール　〜フェスティバルコンサート4〜
+
+2010年10月10日 [いずみホール](https://ja.wikipedia.org/wiki/いずみホール "wikilink")
+
+  - [演奏会用序曲「フィンガルの洞窟」](https://ja.wikipedia.org/wiki/演奏会用序曲「フィンガルの洞窟」 "wikilink")　　フェリックス・メンデルスゾーン　（編曲　久保田孝）
+  - [弦楽のためのアダージョ](https://ja.wikipedia.org/wiki/弦楽のためのアダージョ "wikilink")　　　サミュエル・バーバー　（編曲　久保田孝）
+  - [交響曲第7番ロ短調　D759「未完成」](https://ja.wikipedia.org/wiki/交響曲第7番ロ短調_D759「未完成」 "wikilink")　　　フランツ・シューベルト　（編曲　久保田孝）
+  - ENC.歌劇「[ルスランとリュドミラ](../Page/ルスランとリュドミラ.md "wikilink")」序曲… [ミハイル・グリンカ](https://ja.wikipedia.org/wiki/ミハイル・グリンカ "wikilink")　　（編曲　久保田孝）
+
+### 第8回定期演奏会
+
+Festa Italiana〜マンドリン発祥の地　イタリア特集〜
+
+2011年9月25日 [紀尾井ホール](https://ja.wikipedia.org/wiki/紀尾井ホール "wikilink")
+
+  - [歌劇「運命の力」序曲](https://ja.wikipedia.org/wiki/歌劇「運命の力」序曲 "wikilink")　　ジュゼッペ・ヴェルディ　（編曲　久保田孝）
+  - [ミヌエット](https://ja.wikipedia.org/wiki/ミヌエット "wikilink")　　　ディーノ・ベルッティ
+  - [マンドリン協奏曲第2番　第1楽章マエストーソ](https://ja.wikipedia.org/wiki/マンドリン協奏曲第2番_第1楽章マエストーソ "wikilink")　　　ラファエレ・カラーチェ
+
+<!-- end list -->
+
+  -
+    マンドリン独奏　　山室繁央
+
+<!-- end list -->
+
+  - [瞑想曲「夢の魅惑」](https://ja.wikipedia.org/wiki/瞑想曲「夢の魅惑」 "wikilink")　　　ウーゴ・ボッタキアリ
+  - [ハ短調序曲](https://ja.wikipedia.org/wiki/ハ短調序曲 "wikilink")　　　ヴィンチェンツォ・ベッリーニ　　(編曲　中野二郎)
+  - [組曲「田園写景」](https://ja.wikipedia.org/wiki/組曲「田園写景」 "wikilink")　　　サルヴァトーレ・ファルボ
+  - [奇想曲「イタリア」](https://ja.wikipedia.org/wiki/奇想曲「イタリア」 "wikilink")　　　久保田 孝
+
+<!-- end list -->
+
+  -
+    メゾソプラノ独唱　井坂惠
+
+### 第9回定期演奏会
+
+久保田孝の古希を祝して 明治高校マンドリン部での 久保田孝作曲と編曲の初演を集めてみました。 “GLORIA”
+
+2012年9月30日 [紀尾井ホール](https://ja.wikipedia.org/wiki/紀尾井ホール "wikilink")
+
+  - [歌劇「オベロン」序曲](https://ja.wikipedia.org/wiki/歌劇「オベロン」序曲 "wikilink")　／　カール・マリア・フォン・ウェーバー（編曲　久保田孝）
+  - クレオパトラの死と変貌　／　ディーノ・ベルッティ（編曲　久保田孝）
+  - [ツィゴイネルワイゼン](https://ja.wikipedia.org/wiki/ツィゴイネルワイゼン "wikilink")　／　パブロ・デ・サラサーテ（編曲　久保田孝）
+
+　マンドリン独奏　山室繁央【第12回（1990年）日本マンドリン独奏コンクール第1位】
+
+  - 序曲第1番ハ短調　作品1　／　久保田　孝
+  - 組曲第1番ロ短調　作品4　／　久保田　孝
+  - マンドリンオーケストラのための幻想曲第2番ホ短調　作品24　／　久保田　孝
+
+### 第10回定期演奏会
+
+繊細かつ勇壮な響きII クボタイズム
+
+2013年9月29日 [紀尾井ホール](https://ja.wikipedia.org/wiki/紀尾井ホール "wikilink")
+
+  - 舞踊風組曲第1番／　久保田孝
+  - ユーモレスク　／　久保田孝
+  - ソナタ　イ短調　／　久保田孝
+  - イセアーナ　／　久保田孝
+  - 序曲第2番　／　久保田　孝
+  - 組曲第2番　／　久保田　孝
+  - マンドリンオーケストラのための幻想曲第1番　／　久保田　孝
+
+### 第11回定期演奏会
+
+繊細かつ勇壮な響きIII ノスタルジア
+
+2014年10月5日 [紀尾井ホール](https://ja.wikipedia.org/wiki/紀尾井ホール "wikilink")
+
+  - 序曲ニ短調… サルヴァトーレ・ファルボ＝ジャングレコ（編曲　久保田孝）
+  - 組曲第3番　／　久保田　孝
+  - 交響的前奏曲… [ウーゴ・ボッタキアリ](https://ja.wikipedia.org/wiki/ウーゴ・ボッタキアリ "wikilink")
+  - [弦楽の為のセレナーデ](https://ja.wikipedia.org/wiki/弦楽の為のセレナーデ "wikilink")　ホ長調　作品22… [アントニン・ドヴォルザーク](../Page/アントニン・ドヴォルザーク.md "wikilink")（編曲　久保田孝）
+
+### 第12回定期演奏会
+
+『久保田孝マンドリン演奏活動60年記念　極上の舞踊風とふたりのヴィルトゥオーゾ』
+
+2015年9月27日 [紀尾井ホール](https://ja.wikipedia.org/wiki/紀尾井ホール "wikilink")
+
+  - 舞踊風組曲第1番／　久保田孝
+  - 舞踊風組曲第2番／　久保田孝
+  - 夜曲／　久保田孝
+
+<!-- end list -->
+
+  -
+    独奏　山室繁央【第12回（1990年）日本マンドリン独奏コンクール第1位】
+
+<!-- end list -->
+
+  - Elegie／　久保田孝
+
+<!-- end list -->
+
+  -
+    独奏　丸橋弘雅【第21回（2008年）日本マンドリン独奏コンクール第1位】
+
+<!-- end list -->
+
+  - 舞踊風組曲第3番／　久保田孝
+  - 舞踊風組曲第4番／　久保田孝
+
+## 外部リンク
+
+  - [明治高校マンドリン部OB孝友会オーケストラ](http://sound.jp/koyukai/)
+  - [YouTube](http://www.youtube.com/watch?v=Mq5GEmOgMLM/)
+
+[Category:マンドリン](https://ja.wikipedia.org/wiki/Category:マンドリン "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink")

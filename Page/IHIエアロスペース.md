@@ -1,0 +1,84 @@
+> この記事は[IHI](https://ja.wikipedia.org/wiki/IHI)から翻訳されています。
+
+
+**株式会社IHIエアロスペース**（IHI AEROSPACE CO., LTD.）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロケット](../Page/ロケット.md "wikilink")飛翔体の総合メーカー。[株式会社IHIの子会社である](../Page/IHI.md "wikilink")。
+
+主として[固体燃料ロケット](https://ja.wikipedia.org/wiki/固体燃料ロケット "wikilink")（ロケットモーター）技術を応用し、各種宇宙用ロケットの開発及び防衛用ロケットの開発と製造を行っている。
+
+## 概要
+
+IHIエアロスペースの固体燃料ロケット技術は、戦前[中島飛行機](../Page/中島飛行機.md "wikilink")が独自に行っていたロケットの研究に端を発し、戦後には、[富士産業](../Page/SUBARU.md "wikilink")→[富士精密工業→プリンス自動車工業](https://ja.wikipedia.org/wiki/プリンス自動車工業 "wikilink")→[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")へと受け継がれて行った。しかし、日産自動車が[ルノー](../Page/ルノー.md "wikilink")の資本参入を受けたことにより、日産自動車の宇宙航空部門は分離され、[2000年](../Page/2000年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に[石川島播磨重工業（現IHI）傘下のアイ](../Page/IHI.md "wikilink")･エイチ・アイ・エアロスペースへと社名を変えた。日産からIHIへ事業譲渡された理由については、日産が経営効率化のために自動車関連以外の事業から撤退したかった一方で、日本のロケット技術が海外資本の参入したメーカーの下にあることをよしとしない、という判断も働いたのではないかと言われている\[1\]。
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")に石川島播磨重工業がIHIへ社名変更を行ったことに伴い、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月1日に社名がIHIエアロスペースへと変更された。
+
+現在IHIエアロスペースは、IHIで行われていた宇宙開発事業の多くを取り込み、IHIグループの中の宇宙開発の拠点となっている。
+
+## 沿革
+
+  - [1924年](../Page/1924年.md "wikilink") - [中島飛行機](../Page/中島飛行機.md "wikilink")株式会社の原動機工場（東京・荻窪）
+  - [1945年](../Page/1945年.md "wikilink") - [富士産業株式会社](../Page/SUBARU.md "wikilink")
+  - [1950年](../Page/1950年.md "wikilink") - [富士精密工業株式会社](https://ja.wikipedia.org/wiki/プリンス自動車工業 "wikilink")
+  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") - [プリンス自動車工業](https://ja.wikipedia.org/wiki/プリンス自動車工業 "wikilink")株式会社
+  - [1966年](../Page/1966年.md "wikilink") - [日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")株式会社
+  - [2000年](../Page/2000年.md "wikilink") - 株式会社アイ・エイチ・アイ・エアロスペース
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - 株式会社IHIエアロスペース
+
+## 主な製品
+
+**宇宙用ロケット製品**
+
+  - [イプシロン](https://ja.wikipedia.org/wiki/イプシロンロケット "wikilink")（M-Vの3段・キックステージと[H-IIA用SRB](../Page/H-IIAロケット.md "wikilink")-Aで構成されたロケット）
+  - [M-V](https://ja.wikipedia.org/wiki/M-Vロケット "wikilink")（全段固体燃料の大型ロケット）
+  - [J-I](../Page/J-Iロケット.md "wikilink")（[M-3SIIと](https://ja.wikipedia.org/wiki/M-3SIIロケット "wikilink")[H-II用SRBで構成されたロケット](../Page/H-IIロケット.md "wikilink")）
+  - [TR-I](../Page/TR-Iロケット.md "wikilink")（H-IIロケット開発用）
+  - [TR-IA](https://ja.wikipedia.org/wiki/TR-IAロケット "wikilink")（無重力実験用小形ロケット）
+  - [SS-520](https://ja.wikipedia.org/wiki/SS-520 "wikilink")（科学観測ロケット）
+  - [S-520](https://ja.wikipedia.org/wiki/S-520ロケット "wikilink")（科学観測ロケット）
+  - [S-310](https://ja.wikipedia.org/wiki/S-310ロケット "wikilink")（科学観測ロケット 南極[昭和基地](../Page/昭和基地.md "wikilink")から発射の経験あり）
+  - [S-210](https://ja.wikipedia.org/wiki/S-210ロケット "wikilink")（科学観測ロケット 南極昭和基地から発射の経験あり）
+  - [MT-135](https://ja.wikipedia.org/wiki/MT-135ロケット "wikilink")（気象観測ロケット）
+
+**国際宇宙ステーション [きぼう](https://ja.wikipedia.org/wiki/きぼう "wikilink")関連製品**
+
+  - 船外パレット
+  - [宇宙ステーション補給機](https://ja.wikipedia.org/wiki/宇宙ステーション補給機 "wikilink")曝露パレットI型/III型
+  - 船外実験プラットフォーム（石川島播磨重工業から譲渡）
+  - [国際標準実験ラック](https://ja.wikipedia.org/wiki/国際標準実験ラック "wikilink")(ISPR)（石川島播磨重工業から譲渡）
+  - 共通ガス供給装置(CGSE)（石川島播磨重工業から譲渡）
+  - 実験データ処理装置(PDH)（石川島播磨重工業から譲渡）
+
+**宇宙実験機用製品**
+
+  - [LUNAR-A](https://ja.wikipedia.org/wiki/LUNAR-A "wikilink")ペネトレータ（月観測用）
+  - [USERS](https://ja.wikipedia.org/wiki/USERS "wikilink")/REM（軌道上長期実験用 [大気圏再突入](https://ja.wikipedia.org/wiki/大気圏再突入 "wikilink")回収型）
+  - [小惑星探査機「はやぶさ」MUSES-C再突入カプセルシステム](../Page/はやぶさ_\(探査機\).md "wikilink")
+  - [i-Ball](https://ja.wikipedia.org/wiki/i-Ball "wikilink") [大気圏再突入](https://ja.wikipedia.org/wiki/大気圏再突入 "wikilink")観測装置
+
+**宇宙用コンポーネント製品**
+
+  - [H-II](https://ja.wikipedia.org/wiki/H-II "wikilink")/[H-IIA用](../Page/H-IIAロケット.md "wikilink") [SRB](https://ja.wikipedia.org/wiki/SRB "wikilink")/[SRB-A](https://ja.wikipedia.org/wiki/SRB-A "wikilink")（固体燃料ロケットブースタ）
+  - 人工衛星用[スラスタ](https://ja.wikipedia.org/wiki/スラスタ "wikilink") [BT-4](https://ja.wikipedia.org/wiki/BT-4 "wikilink"), [BT-6](https://ja.wikipedia.org/wiki/BT-6 "wikilink")等（石川島播磨重工業から譲渡）
+  - LNGエンジン [LE-8](https://ja.wikipedia.org/wiki/GXロケット "wikilink")、推力3-4トン級アブレータ型、推力10トン級再生冷却型（石川島播磨重工業から譲渡）
+  - 各種[火工品](https://ja.wikipedia.org/wiki/火工品 "wikilink")
+
+**防衛関連製品**
+
+  - [多連装ロケットシステム](https://ja.wikipedia.org/wiki/MLRS "wikilink")（MLRS ライセンス生産 主契約者）
+  - [70式地雷原爆破装置](https://ja.wikipedia.org/wiki/70式地雷原爆破装置 "wikilink")
+  - [92式地雷原処理車](https://ja.wikipedia.org/wiki/92式地雷原処理車 "wikilink")・ロケット弾（MBRS 主契約者）
+  - [パンツァーファウスト3](https://ja.wikipedia.org/wiki/パンツァーファウスト3 "wikilink")（ライセンス生産）
+
+## 出典
+
+## 関連項目
+
+  - [日本の宇宙開発](https://ja.wikipedia.org/wiki/日本の宇宙開発 "wikilink")
+
+## 外部リンク
+
+  - [IHIエアロスペース](https://www.ihi.co.jp/ia/)
+  - [IHI](https://www.ihi.co.jp/)
+
+[Category:IHI](https://ja.wikipedia.org/wiki/Category:IHI "wikilink") [Category:江東区の企業](https://ja.wikipedia.org/wiki/Category:江東区の企業 "wikilink") [Category:2000年設立の企業](https://ja.wikipedia.org/wiki/Category:2000年設立の企業 "wikilink") [Category:日本の航空宇宙企業](https://ja.wikipedia.org/wiki/Category:日本の航空宇宙企業 "wikilink") [Category:日本の軍需産業](https://ja.wikipedia.org/wiki/Category:日本の軍需産業 "wikilink") [Category:日産自動車](https://ja.wikipedia.org/wiki/Category:日産自動車 "wikilink") [Category:プリンス自動車工業](https://ja.wikipedia.org/wiki/Category:プリンス自動車工業 "wikilink") [Category:SUBARU](https://ja.wikipedia.org/wiki/Category:SUBARU "wikilink")
+
+1.

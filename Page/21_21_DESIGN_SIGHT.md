@@ -1,0 +1,169 @@
+> この記事は[21 21 DESIGN SIGHT](https://ja.wikipedia.org/wiki/21_21_DESIGN_SIGHT)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:21_21_DESIGN_SIGHT.jpg "wikilink") [21_21_DESIGN_SIGHT_Interior_2015.jpg](https://ja.wikipedia.org/wiki/File:21_21_DESIGN_SIGHT_Interior_2015.jpg "fig:21_21_DESIGN_SIGHT_Interior_2015.jpg") [21_21_DESIGN_SIGHT_Interior1_2015.jpg](https://ja.wikipedia.org/wiki/File:21_21_DESIGN_SIGHT_Interior1_2015.jpg "fig:21_21_DESIGN_SIGHT_Interior1_2015.jpg") [21_21_DESIGN_SIGHT_Gift_shop_2018.jpg](https://ja.wikipedia.org/wiki/File:21_21_DESIGN_SIGHT_Gift_shop_2018.jpg "fig:21_21_DESIGN_SIGHT_Gift_shop_2018.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:21_21_disign_sight_mark.jpg "wikilink") **21_21 DESIGN SIGHT**（トゥーワン・トゥーワン・デザインサイト）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂](../Page/赤坂_\(東京都港区\).md "wikilink")9丁目・旧[防衛庁](https://ja.wikipedia.org/wiki/防衛庁 "wikilink")跡地に誕生した複合施設「[東京ミッドタウン](https://ja.wikipedia.org/wiki/東京ミッドタウン "wikilink")」内に作られたデザイン専門施設である。以下、同項目を**21_21**と略して表記する。
+
+## 概要
+
+デザインという視点から日常的な出来事や物事に目を向け、企画展を通して様々な発見や提案を行う。「[デザイン](../Page/デザイン.md "wikilink")についてリサーチし考える場所であると共に、ものづくりの現場でもある」として、従来の『ミュージアム』との違いが強調されている。この背後には、すでに海外に存在している様な工業製品を並べただけの展示場所から脱したいという思いと、デザイナー・企業・職人・使い手という個々の点を一つの線へとつなぐ『デザインの拠点』が必要であるとの考えがある。
+
+[ディレクター](../Page/ディレクター.md "wikilink")にはデザイナーの[三宅一生](https://ja.wikipedia.org/wiki/三宅一生 "wikilink")、グラフィックデザイナー・[佐藤卓](https://ja.wikipedia.org/wiki/佐藤卓 "wikilink")<small>（「明治おいしい牛乳（[明治乳業](https://ja.wikipedia.org/wiki/明治乳業 "wikilink")）」「キシリトールガム（[ロッテ](../Page/ロッテ.md "wikilink")）」などのパッケージ）</small>、[プロダクトデザイナー](https://ja.wikipedia.org/wiki/プロダクトデザイナー "wikilink")・[深澤直人](https://ja.wikipedia.org/wiki/深澤直人 "wikilink")<small>（携帯電話「[INFOBAR](https://ja.wikipedia.org/wiki/INFOBAR "wikilink")（[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")/[KDDI](../Page/KDDI.md "wikilink")）」等）</small>が就任。アソシエイトディレクターにデザインジャーナリストの川上典李子を加え、この4名で[ギャラリーのプログラム企画を担当する](../Page/ギャラリー_\(美術\).md "wikilink")。原則的には年3回から4回、1人のディレクターが1つのテーマを扱い企画展を開催。また展示期間中にも様々なプログラムを予定している。
+
+建築設計は[安藤忠雄](../Page/安藤忠雄.md "wikilink")が担当した。安藤がテーマとしたのは「日本の顔としての建築」。日本一長い複層ガラス（11.4 m）や、折り曲げられた巨大な一枚鉄板の屋根（約54 m／約450 m<sup>2</sup>）を用いるなど、日本が持つ建築技術を最大限に追求し設計された。また一枚鉄板には、三宅一生が取り組んできたテーマ「一枚の布」に対応するという意味が込められている。地下階が延床面積の約8割を占め、地上で見ただけでは想像出来ないボリュームがある。
+
+## 沿革
+
+[1988年](../Page/1988年.md "wikilink")5月13日、ニューヨークでの[イサム・ノグチ](https://ja.wikipedia.org/wiki/イサム・ノグチ "wikilink")展の会場で安藤・三宅・ノグチの三者が顔を合わせ、デザインの為のミュージアムの必要性を語り合った。同年12月にイサム・ノグチは亡くなっているが、その遺志を継ぎ約20年を経て21_21は開業となる。
+
+[2003年](../Page/2003年.md "wikilink")1月28日の[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")紙上で、三宅一生はグラフィックデザイナーの[田中一光](https://ja.wikipedia.org/wiki/田中一光 "wikilink")が急逝したことをきっかけに「造ろう デザインミュージアム」と題した記事を発表。「日本のデザイン向上のためには自国の技術や伝統を形にして示し、やる気や自信をつける事が必要。その知的エネルギーを発揮することで世界に通用する道を探ることもできるのではないか」とした上で、「ただ消費するばかりでなく、つくることの大事さをもう一度考えよう」と呼びかけた。これを機に三井不動産の賛同を得、防衛庁跡地計画の打診があり、企画がスタートした。
+
+同年6月10日、[経済産業省](../Page/経済産業省.md "wikilink")は「デザインの戦略的活用、競争力強化のための40の提言（企画支援・需要側の意識向上策）」を発表している。また11月21日には慶應義塾大学SFC研究所主催で「東京デザインミュージアム設立構想」と題されたセッションが開かれており、日本のデザインを保存・継承する為の施設について意見交換がなされた。これは21_21とは全く別のプロジェクトであるが、深澤直人も有識者として参加している。
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")7月14日、東京ミッドタウン記者会見で初めて21_21の創設が発表された。この段階での名称は「21/21 DESIGN SIGHT」。ディレクター3名と安藤に加え、基本構想担当として[北山孝雄](https://ja.wikipedia.org/wiki/北山孝雄 "wikilink")が出席している。
+
+11月9日・10日には「Designing 21_21 DESIGN SIGHT ― デザイン施設のデザインを考える」「深澤直人 × 鈴木康広 × 高井薫　デザインの視点」と題されたプレオープンイベントが行われ、ウェブサイトやマーク等に込めた意図、日常をとらえ直す新たなデザインの視点などが語られた。続く11月12日には三宅一生の第22回[京都賞思想・芸術部門](https://ja.wikipedia.org/wiki/京都賞思想・芸術部門 "wikilink")受賞に際し、記念シンポジウムにて「21_21 DESIGN SIGHTディレクターズトーク」が行われるなど、企画内容が徐々に明らかにされてゆく。
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")2月に施工が終了。同年3月30日、東京ミッドタウンと合わせてオープンした。
+
+2017年3月、21_21 DESIGN SIGHTは開館10周年を機に、従来の展示室であるギャラリー1、ギャラリー2に加えて、ギャラリー3を開設。
+
+## 名称
+
+### 表記・由来
+
+2つの数字はアンダーバーで繋ぎ、DESIGN SIGHTは大文字で表記する。読み方は冒頭の通りだが限定はされていない。数字の2と1は各国共通であることから、それぞれの母国語で発音して親しんで貰いたいという願いもある。
+
+英米では優れた視力のことを「20/20 Vision（Sight）」と言う。当初はそこから「20/21」という名称が検討されたが、「20世紀・21世紀」を意識させてしまうことやビジュアル化の難しさなどがあった。その結果、今よりもさらに一つ先を見通してデザインを発信する場になるようにと「21/21」となり、最終的に「21_21 DESIGN SIGHT」と命名された。
+
+### ロゴマーク
+
+デザインは佐藤卓が担当。一般的な[シンボルマーク](../Page/シンボルマーク.md "wikilink")は平面であることに対し、ここでは一枚の鉄板から作るプロダクトである事から「プロダクトロゴ」という独自の名称で呼ばれている。住所案内板を制作している東京の町工場で製造され、21_21の部分は金型で浮き彫りになっている。サイズは縦45mm×横165mm×厚さ2mm。21と21の間を人間の目の幅にすることで、デザインの視点（DESIGN SIGHT）を表現している。配布用のパッケージは[宮崎光弘](https://ja.wikipedia.org/wiki/宮崎光弘 "wikilink")がデザインした。（21_21内で配られている企画案内パンフレットも同じサイズである。尚、エントランスのプレートは横60cm。）
+
+住所番地を示すプレートの様な造形にすることによって、21_21がデザインの「場所」であることを示す。同時に、デザインという行為によって、日常に潜む可能性を引き出そうという理念も込められている。
+
+通常デザイナーはクライアントに対していくつかのアイデアを提示するが、今回佐藤は採用されたこのロゴしか出さなかった。また色については、ポスターなどに応じて今後様々な展開を考えているという。
+
+オープン前の[ウェブサイト](../Page/ウェブサイト.md "wikilink")では期間限定でこのロゴをダウンロード出来るようになっていた。入手したロゴを日常のワンシーンに置いたり、ロゴをモチーフにしたケーキを作ったりという具体例を挙げ、デザインの可能性を一緒に考えてみようという試みが行われた。更に実際にロゴを使った写真を自由に公開出来るようにと、無料のフォトアルバムサイト「[flickr](https://ja.wikipedia.org/wiki/flickr "wikilink")（フリッカー）」に21_21グループを開設し、投稿を呼びかけた。
+
+## 歴代企画展
+
+  - 2007年3月30日〜2007年4月18日「[安藤忠雄](../Page/安藤忠雄.md "wikilink")2006年の現場　悪戦苦闘」
+
+<!-- end list -->
+
+  -
+    関連展示：4月7日〜18日「アディティヴ・インヴァース」[ウィリアム・フォーサイスによる](https://ja.wikipedia.org/wiki/ウィリアム・フォーサイス_\(バレエダンサー\) "wikilink")[インスタレーション](https://ja.wikipedia.org/wiki/インスタレーション "wikilink")
+
+<!-- end list -->
+
+  - 2007年4月27日〜2007年7月29日 第1回企画展 [深澤直人](https://ja.wikipedia.org/wiki/深澤直人 "wikilink")ディレクション「Chocolate」
+  - 2007年10月5日〜2008年1月14日 第2回企画展 [佐藤卓](https://ja.wikipedia.org/wiki/佐藤卓 "wikilink")ディレクション「water」
+  - 2008年3月30日〜2008年7月6日 第3回企画展 [三宅一生](https://ja.wikipedia.org/wiki/三宅一生 "wikilink")ディレクション「XXIc.- 21世紀人」
+  - 2008年10月17日〜2009年1月18日 第4回企画展 [吉岡徳仁](https://ja.wikipedia.org/wiki/吉岡徳仁 "wikilink")ディレクション「セカンド・ネイチャー」
+  - 2009年5月29日〜2009年8月30日 第5回企画展 [山中俊治](https://ja.wikipedia.org/wiki/山中俊治 "wikilink")ディレクション「骨」
+
+## 周辺施設
+
+### 21_21 Q
+
+ミッドタウンガーデンに設置された2台の車型ショップ。車体制作は[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")デザイン本部による。同社の「[キューブ](../Page/日産・キューブ.md "wikilink")」をモチーフに制作された事から「21_21 Q」という愛称となった。「21_21 Q・FOODS」では飲料・軽食、「21_21 Q・GOODS」は展覧会関連グッズを販売している。
+
+ロゴデザインは佐藤卓が担当し、ギャラリーと同じ水色で統一されている。
+
+  - 2009年2月28日に閉店。
+
+### CANOVIANO CAFE
+
+[渋谷](../Page/渋谷.md "wikilink")[代官山](https://ja.wikipedia.org/wiki/代官山 "wikilink")『CANOVIANO』初の直営店。21_21をギャラリー棟・こちらをカフェ棟として対を為した建築となっている。設計は21_21と同じく安藤忠雄によるが、地下階は無い。食材の豊かな風味を生かした自然派[イタリアンを提供する](../Page/イタリア料理.md "wikilink")。
+
+  - 営業時間：10:00〜23:30 土・日・祝は8:00〜23:30
+
+<!-- end list -->
+
+  -
+    L.O. 21:30
+    席数：59席　全席[禁煙](https://ja.wikipedia.org/wiki/禁煙 "wikilink")／お子様対応
+    2016年12月に閉店。
+
+## アクセス等
+
+  - 開館時間: 10:00 - 19:00（入館時間は18:30まで）
+  - 休館日: 火曜日、年末年始、展示替期間
+  - 入場料: 一般1,100　大学生800円　高校生500円　中学生以下無料
+
+<!-- end list -->
+
+  -
+    （15名以上は各料金から200円割引、いずれも消費税込み）
+    展示やイベントによって、上記3点は変更の場合有り
+
+<!-- end list -->
+
+  - 住所: 東京都港区赤坂9-7-6
+  - [都営大江戸線](https://ja.wikipedia.org/wiki/都営地下鉄大江戸線 "wikilink"): [六本木駅](../Page/六本木駅.md "wikilink")、東京ミッドタウン直結出口より徒歩約1分
+  - [東京メトロ日比谷線](https://ja.wikipedia.org/wiki/東京メトロ日比谷線 "wikilink"): 六本木駅6番出口より徒歩約5分
+  - [東京メトロ千代田線](../Page/東京メトロ千代田線.md "wikilink"): [乃木坂駅](https://ja.wikipedia.org/wiki/乃木坂駅 "wikilink")3番出口より徒歩約5分
+
+## 建築概要
+
+[21_21_DESIGN_SIGHT_2018-3.jpg](https://ja.wikipedia.org/wiki/File:21_21_DESIGN_SIGHT_2018-3.jpg "fig:21_21_DESIGN_SIGHT_2018-3.jpg")
+
+  - 設計: 安藤忠雄／安藤忠雄建築研究所＋[日建設計](https://ja.wikipedia.org/wiki/日建設計 "wikilink")
+  - 建築主: [三井不動産](../Page/三井不動産.md "wikilink")　他5社
+  - 企画構想: 北山孝雄／北山創造研究所
+  - 施行者: 株式会社 [竹中工務店](https://ja.wikipedia.org/wiki/竹中工務店 "wikilink")・[大成建設](https://ja.wikipedia.org/wiki/大成建設 "wikilink")　工事共同企業体
+  - 敷地面積: 2039.15 m<sup>2</sup>
+  - 建築面積: 394.93 m<sup>2</sup>
+  - 延床面積: 1,732.61 m<sup>2</sup>
+  - 展示室: 576 m<sup>2</sup>
+  - ギャラリー1: 133 m<sup>2</sup>、ギャラリー2: 443 m<sup>2</sup>
+  - 主体構造: 鉄筋コンクリート造、一部鉄骨造、地下1階地上1階
+
+<!-- end list -->
+
+  -
+    地上階最高高さ: 4.8 m
+    地下階天井高さ: 5.0 m (ギャラリー1), 4.8 m (ギャラリー2)
+
+<!-- end list -->
+
+  - 主要仕上: 外壁／コンクリート打ち放しフッ素樹脂クリア塗装
+
+<!-- end list -->
+
+  -
+    屋根: スチールプレート、全溶接、フッ素樹脂塗装　
+    外部床: 石貼り（花崗岩\]）スチールチェッカープレート　溶融亜鉛めっき燐酸処理
+    内部床: 石貼り（花崗岩）コンクリート直均し、浸透性表面硬化剤塗装
+    内壁: コンクリート打放し、プラスターボード貼り、EP
+    天井: コンクリート打放し 、プラスターボード貼り、EP
+
+<!-- end list -->
+
+  - 設計期間: 2004年3月〜2005年9月
+  - 施工期間: 2005年10月〜2007年2月
+  - オープン: 2007年3月30日
+
+## 参考文献
+
+  - 朝日新聞 「造ろうデザインミュージアム」 三宅一生、2003年1月28日付。
+  - ジャパンデザインネット「[Tokyo Midtown 記者会見](http://www.japandesign.ne.jp/HTM/JDNREPORT/050831/midtown/)」　 2005年8月31日。
+  - 『21_21 DESIGN SIGHT　BOOK vol.1』 財団法人　三宅一生デザイン文化財団 、2007年3月28日初版発行。
+  - 和樂　2007年2月号 「NEW SPOT」 p219、小学館 、2007年2月1日。
+  - 21_21 DESIGN SIGHT公式サイト「[・21_21 DESIGN SIGHT](http://www.2121designsight.jp)」 2007年3月30日。
+  - 東京ミッドタウン・店舗情報「[CANOVIANO CAFE](http://www.tokyo-midtown.com/jp/shop/49/index.html)」 2007年3月30日。
+  - デザインノート No,12 「21_21 DESIGN SIGHT 三宅一生×佐藤 卓×深澤直人 」 誠文堂新光社 、2007年4月1日。
+  - 日経ビジネスオンライン「[「デザイン」から現実社会に、明るく問いかける場](http://business.nikkeibp.co.jp/article/manage/20070402/122218/)」 2007年4月11日。
+
+<!-- end list -->
+
+  -
+    <small>（日経デザイン2007年3月号 No.237、 2007年2月24日に同記事有り。）</small>
+
+## 外部リンク
+
+  - [■　21_21 DESIGN SIGHT](http://www.2121designsight.jp)
+  - [■　21_21 DESIGN SIGHTギャラリー3](http://www.2121designsight.jp/gallery3/)
+  - [■　flickr / 21_21 DESIGN SIGHT's photos](http://www.flickr.com/photos/2121designsight/)
+
+[Category:東京都区部の美術館](https://ja.wikipedia.org/wiki/Category:東京都区部の美術館 "wikilink") [Category:デザイン関連の団体](https://ja.wikipedia.org/wiki/Category:デザイン関連の団体 "wikilink") [Category:デザイン博物館](https://ja.wikipedia.org/wiki/Category:デザイン博物館 "wikilink") [Category:赤坂](https://ja.wikipedia.org/wiki/Category:赤坂 "wikilink") [Category:東京都港区の博物館](https://ja.wikipedia.org/wiki/Category:東京都港区の博物館 "wikilink")

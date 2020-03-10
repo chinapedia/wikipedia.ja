@@ -1,0 +1,63 @@
+> この記事は[WWE](https://ja.wikipedia.org/wiki/WWE)から翻訳されています。
+
+
+**WWEディーヴァズ王座**(*WWE Divas Championship*)は、かつて[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")団体[WWE](../Page/WWE.md "wikilink")において認定されていた[王座の一つである](https://ja.wikipedia.org/wiki/チャンピオンベルト "wikilink")。WWEに所属する[ディーヴァの争う王座であった](https://ja.wikipedia.org/wiki/ディーヴァ_\(プロレス\) "wikilink")。
+
+## 歴史
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月20日、[SmackDown\!においてGMの](https://ja.wikipedia.org/wiki/スマックダウン "wikilink")[ヴィッキー・ゲレロ](https://ja.wikipedia.org/wiki/ヴィッキー・ゲレロ "wikilink")により創設された\[1\]。
+
+[ミシェル・マクール](https://ja.wikipedia.org/wiki/ミシェル・マクール "wikilink")が[ナタリヤを](https://ja.wikipedia.org/wiki/ナッティ・ナイドハート "wikilink")[グレート・アメリカン・バッシュで下して初代王者となった](https://ja.wikipedia.org/wiki/グレート・アメリカン・バッシュ#第22回大会（2008年）WWE_The_Great_American_Bash_2008 "wikilink")。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")9月19日に行われた[ナイト・オブ・チャンピオンズで](https://ja.wikipedia.org/wiki/WWEナイト・オブ・チャンピオンズ#第10回大会（2010年）WWE_Night_of_Champions_2010 "wikilink")[WWE女子王座と統一され](https://ja.wikipedia.org/wiki/WWE・女子王座 "wikilink")**WWE統一ディーヴァズ王座**に改称した（ベルトはWWEディーヴァズ王座のものが使われている）が、すぐに『統一』の文字が取られて元の名称に戻った。
+
+2016年4月3日の[レッスルマニア32で当初行われる予定であったディーバズ王座戦に変わって](https://ja.wikipedia.org/wiki/レッスルマニア#第32回大会（2016年）Wrestle_Mania_32 "wikilink")、[WWE女子王座](https://ja.wikipedia.org/wiki/WWE・ロウ女子王座 "wikilink")\[2\]戦が組まれることとなり、ディーバズ王座は女子王座と入れ替わる形で自然消滅した。最終王者は[シャーロットであった](https://ja.wikipedia.org/wiki/アシュリー・フレアー "wikilink")。
+
+## 歴代王者
+
+| レスラー                                                                           | 戴冠回数 | 戴冠日付                                                         | 番組                                                                                                                                     | 試合形式           |
+| ------------------------------------------------------------------------------ | ---- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| ※SmackDown管轄で誕生。                                                               |      |                                                              |                                                                                                                                        |                |
+| [ミシェル・マクール](https://ja.wikipedia.org/wiki/ミシェル・マクール "wikilink")                | 1    | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月20日 | [The Great American Bash 2008](https://ja.wikipedia.org/wiki/グレート・アメリカン・バッシュ#第22回大会（2008年）WWE_The_Great_American_Bash_2008 "wikilink") | One Fall       |
+| [マリース](https://ja.wikipedia.org/wiki/マリース・ウエレ "wikilink")                      | 1    | 2008年12月26日                                                  | [SmackDown\!](https://ja.wikipedia.org/wiki/スマックダウン "wikilink")                                                                        | One Fall       |
+| マリースがドラフトによりRAWへ移籍してRAWの管轄となる                                                  |      |                                                              |                                                                                                                                        |                |
+| [ミッキー・ジェームス](https://ja.wikipedia.org/wiki/ミッキー・ジェームス "wikilink")              | 1    | [2009年](../Page/2009年.md "wikilink")7月26日                    | [Night of Chanpions 2009](https://ja.wikipedia.org/wiki/WWEナイト・オブ・チャンピオンズ#第9回大会（2009年）WWE_Night_of_Champions_2009 "wikilink")          | One Fall       |
+| [ジリアン・ホール](https://ja.wikipedia.org/wiki/ジリアン・フレッチャー "wikilink")               | 1    | 2009年10月12日                                                  | [RAW](https://ja.wikipedia.org/wiki/WWE・ロウ "wikilink")                                                                                 | One Fall       |
+| [メリーナ](https://ja.wikipedia.org/wiki/メリーナ・ペレス "wikilink")                      | 1    | 2009年10月12日                                                  | RAW                                                                                                                                    | One Fall       |
+| ※王者負傷のため空位                                                                     |      |                                                              |                                                                                                                                        |                |
+| マリース                                                                           | 2    | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月22日 | RAW                                                                                                                                    | One Fall       |
+| [イヴ・トーレス](https://ja.wikipedia.org/wiki/イヴ・トーレス "wikilink")                    | 1    | 2010年4月12日                                                   | RAW                                                                                                                                    | One Fall       |
+| [アリシア・フォックス](https://ja.wikipedia.org/wiki/ビクトリア・クロフォード "wikilink")            | 1    | 2010年6月20日                                                   | [Fatal 4-Way](https://ja.wikipedia.org/wiki/WWEフェイタル・4ウェイ#第1回大会（2010年）WWE_Fatal_4-Way_2010 "wikilink")                                 | Fatal-four Way |
+| メリーナ                                                                           | 2    | 2010年8月15日                                                   | [SummerSlam 2010](https://ja.wikipedia.org/wiki/サマースラム#第23回大会\(2010年\)WWE_SummerSlam_2010 "wikilink")                                  | One Fall       |
+| ミシェル・マクール                                                                      | 2    | 2010年9月19日                                                   | [Night of Champions 2010](https://ja.wikipedia.org/wiki/WWEナイト・オブ・チャンピオンズ#第10回大会（2010年）WWE_Night_of_Champions_2010 "wikilink")         | One Fall       |
+| ※WWE女子王座と統合して**WWE統一ディーヴァズ王座**に改称、それに伴い、RAW・SmackDownの共通王座となる                  |      |                                                              |                                                                                                                                        |                |
+| ※([レイラとのコンビ](https://ja.wikipedia.org/wiki/レイラ・エル "wikilink")「レイ・クール」で王座を共同保持) |      |                                                              |                                                                                                                                        |                |
+| [ナタリア](https://ja.wikipedia.org/wiki/ナッティ・ナイドハート "wikilink")                   | 1    | 2010年11月21日                                                  | [Survivor Series 2010](https://ja.wikipedia.org/wiki/サバイバー・シリーズ#第24回大会（2010年）WWE_Survivor_Series_2010 "wikilink")                      | Handicap       |
+| イヴ・トーレス                                                                        | 2    | [2011年](../Page/2011年.md "wikilink")1月30日                    | [Royal Rumble 2011](https://ja.wikipedia.org/wiki/ロイヤルランブル#第24回大会（2011年）WWE_Royal_Rumble_2011 "wikilink")                              | Fatal-four Way |
+| [ブリー・ベラ](https://ja.wikipedia.org/wiki/ベラ・ツインズ "wikilink")                     | 1    | 2011年4月11日                                                   | RAW                                                                                                                                    | One Fall       |
+| [ケリー・ケリー](https://ja.wikipedia.org/wiki/バービー・ブランク "wikilink")                  | 1    | 2011年6月20日                                                   | RAW                                                                                                                                    | One Fall       |
+| [ベス・フェニックス](https://ja.wikipedia.org/wiki/ベス・フェニックス "wikilink")                | 1    | 2011年10月2日                                                   | [Hell in a Cell 2011](https://ja.wikipedia.org/wiki/WWEヘル・イン・ア・セル#第3回大会（2011年）WWE_Hell_in_a_Cell_2011 "wikilink")                      | One Fall       |
+| [ニッキー・ベラ](https://ja.wikipedia.org/wiki/ベラ・ツインズ "wikilink")                    | 1    | [2012年](../Page/2012年.md "wikilink")4月23日                    | RAW SuperShow                                                                                                                          | One Fall       |
+| [レイラ](https://ja.wikipedia.org/wiki/レイラ・エル "wikilink")                         | 1    | 2012年4月29日                                                   | [Extreme Rules 2012](https://ja.wikipedia.org/wiki/WWEエクストリーム・ルールズ#第4回大会（2012年）WWE_Extreme_Rules_2012 "wikilink")                      | One Fall       |
+| イヴ・トーレス                                                                        | 3    | 2012年9月16日                                                   | [Night of Champions 2012](https://ja.wikipedia.org/wiki/WWEナイト・オブ・チャンピオンズ#第5回大会（2012年）WWE_Night_of_Champions_2012 "wikilink")          | One Fall       |
+| [ケイトリン](https://ja.wikipedia.org/wiki/チェレステ・ボニン "wikilink")                    | 1    | [2013年](../Page/2013年.md "wikilink")1月14日                    | RAW                                                                                                                                    | One Fall       |
+| [AJ・リー](https://ja.wikipedia.org/wiki/エイプリル・ジャネット "wikilink")                  | 1    | 2013年6月16日                                                   | [Payback 2013](https://ja.wikipedia.org/wiki/WWEペイバック#第1回大会（2013年）WWE_Payback_2013 "wikilink")                                         | One Fall       |
+| [ペイジ](https://ja.wikipedia.org/wiki/サラヤ・ジェイド・ベヴィス "wikilink")                  | 1    | [2014年](../Page/2014年.md "wikilink")4月7日                     | RAW                                                                                                                                    | One Fall       |
+| AJ・リー                                                                          | 2    | 2014年6月30日                                                   | RAW                                                                                                                                    | One Fall       |
+| ペイジ                                                                            | 2    | 2014年8月17日                                                   | [Summer Slam 2014](https://ja.wikipedia.org/wiki/サマースラム#第27回大会（2014年）WWE_Summer_Slam_2014 "wikilink")                                  | One Fall       |
+| AJ・リー                                                                          | 3    | 2014年9月21日                                                   | [Night of Champions 2014](https://ja.wikipedia.org/wiki/ナイト・オブ・チャンピオンズ#第7回大会（2014年）WWE_Night_of_Champions_2014 "wikilink")             | Triple Threat  |
+| ニッキー・ベラ                                                                        | 2    | 2014年11月23日                                                  | [Survivor Series 2014](https://ja.wikipedia.org/wiki/サバイバー・シリーズ#第28回大会（2014年）WWE_Survivor_Series_2014 "wikilink")                      | One Fall       |
+| [シャーロット](https://ja.wikipedia.org/wiki/アシュリー・フレアー "wikilink")                  | 1    | 2015年9月20日                                                   | [Night of Champions 2015](https://ja.wikipedia.org/wiki/WWEナイト・オブ・チャンピオンズ "wikilink")                                                  | One Fall       |
+| ※レッスルマニア32で新しいWWE女子王座が設立されて自然消滅                                                |      |                                                              |                                                                                                                                        |                |
+|                                                                                |      |                                                              |                                                                                                                                        |                |
+
+## 脚注
+
+### 注釈
+
+## 外部リンク
+
+  - [Divas Championship](http://www.wwe.com/inside/titlehistory/divas/)
+
+[Category:WWEの王座](https://ja.wikipedia.org/wiki/Category:WWEの王座 "wikilink") [Category:女子プロレスの王座](https://ja.wikipedia.org/wiki/Category:女子プロレスの王座 "wikilink")
+
+1.  創設されるまではディーヴァが争う王座がRAW管轄の[WWE女子王座だけであった](https://ja.wikipedia.org/wiki/WWE・女子王座 "wikilink")。
+2.  後の「ロウ女子王座」。統一されていた女子王座とは別

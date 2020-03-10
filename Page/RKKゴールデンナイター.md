@@ -1,0 +1,68 @@
+> この記事は[RKK](https://ja.wikipedia.org/wiki/RKK)から翻訳されています。
+
+
+**RKKゴールデンナイター**（アールケーケーゴールデンナイター）は、RKK[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")ラジオ局で放送されている[プロ野球中継](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")である。
+
+## 放送日時
+
+### 2009年度まで
+
+  - 年度上半期の4月から9月までの月曜を除く毎夜
+  - 日曜日のみ19時から、他の曜日は18時30分から放送される。原則として、火曜～金曜は21:52まで、土曜・日曜は22時まで放送時間が延長される。22時までに試合が終わった場合、[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")番組「RKK気まぐれ流星群」を放送する。
+
+### 2010年度以降
+
+  - 年度上半期の4月から9月までの月曜・土曜・日曜を除く平日の毎夜。2009年度を持ってJRNの週末ナイターの放送が廃止されたのに伴い、RKKでも土曜・日曜の放送も廃止になった。
+  - 2018年現在は、19時から放送される。放送時間の延長は原則22時。22時までに試合が終了した場合、[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")番組[駒田徳広のミュージックブルペンを放送する](https://ja.wikipedia.org/wiki/ミュージックブルペン "wikilink")。
+
+## ネット受け
+
+曜日別の放送内容【】印は、中継する主な球団
+
+  - 火曜：【[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")】／[RKBエキサイトホークス](https://ja.wikipedia.org/wiki/RKBエキサイトホークス "wikilink")（キー局：[RKBラジオ](https://ja.wikipedia.org/wiki/RKBラジオ "wikilink")）
+      - ソフトバンク戦については[セ・パ交流戦](https://ja.wikipedia.org/wiki/セ・パ交流戦 "wikilink")のヤクルト主催試合以外を中継する。ソフトバンク戦が非開催またはデーゲーム、もしくはヤクルト主催試合の場合、RKBが指定する中継を放送
+  - 水曜：【福岡ソフトバンクホークス】／[KBCホークスナイター](https://ja.wikipedia.org/wiki/KBCホークスナイター "wikilink")（キー局：[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")）
+      - 2012年以降は火曜とは異なりビジターゲームの中継カードに制限が設けられた。ソフトバンク戦が非開催またはデーゲーム、もしくはKBCのソフトバンク戦中継が文化放送（西武戦）・STVラジオ（日本ハム戦）・TBCラジオ（楽天戦）・東海ラジオ（セ・パ交流戦の中日戦）・RCCラジオ（セ・パ交流戦の広島戦）のネット受けの場合には、NRN全国ネットの中継を放送（ただし中継対象外カードも、全国放送となった場合はそのまま中継する）。2011年まではどの対戦カードでも中継していた。
+  - 木・金曜：【[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")・[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")など全球団主催試合】／[NRNナイター](../Page/全国ラジオネットワーク.md "wikilink")（[ニッポン放送ショウアップナイター](../Page/ニッポン放送ショウアップナイター.md "wikilink")、キー局：[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
+
+ただし、熊本で公式戦が開催され、かつ該当カードが全国ネット（火曜はJRN、水曜はNRN）の本番カードとなった場合は、火曜・水曜であっても全国ネットの中継を放送する。2017年4月18日の巨人対ヤクルト戦（火曜のためTBSラジオ制作）、2019年4月17日の巨人対広島戦（水曜のためニッポン放送制作\[1\]）が該当。
+
+以前放送されていた土・日曜の中継は[JRNナイター](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")（[TBSラジオ エキサイトベースボール](../Page/TBSラジオ_エキサイトベースボール.md "wikilink")、キー局：[TBSラジオ](../Page/TBSラジオ.md "wikilink")。2010年より土・日の放送を休止）のネット受けであった。
+
+2018年7月14日に熊本でオールスターが開催され、本来なら土曜に中継枠がないが「RKKゴールデンスペシャルナイター」として放送、NRNナイター（[文化放送ホームランナイター](../Page/文化放送ホームランナイター.md "wikilink")、キー局：[文化放送](https://ja.wikipedia.org/wiki/文化放送 "wikilink")）ネット受けで18:00\[2\]から中継した。
+
+### 制作担当局
+
+| 地域（球団）／曜日                                                                                                                                                                                                                                                                                     | 火                                                                                                                                          | 水                                                             | 木   | 金 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- | --- | - |
+| 基本系列                                                                                                                                                                                                                                                                                          | [JRN](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")\[3\]                                                                   | [NRN](../Page/全国ラジオネットワーク.md "wikilink")                      |     |   |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")（[日](../Page/北海道日本ハムファイターズ.md "wikilink")）                                                                                                                                                                                                 | [HBC](https://ja.wikipedia.org/wiki/HBCファイターズナイター "wikilink")                                                                              | [STV](https://ja.wikipedia.org/wiki/STVファイターズLIVE "wikilink") |     |   |
+| [宮城](https://ja.wikipedia.org/wiki/宮城県 "wikilink")（[楽](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")）                                                                                                                                                                              | [TBC](https://ja.wikipedia.org/wiki/TBCパワフルベースボール "wikilink")                                                                              |                                                               |     |   |
+| [関東](../Page/広域放送.md "wikilink")（[巨](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")・[ヤ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")\[4\]・[横](../Page/横浜DeNAベイスターズ.md "wikilink")・[西](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")・[ロ](../Page/千葉ロッテマリーンズ.md "wikilink")） | [RF](../Page/ラジオ日本ジャイアンツナイター.md "wikilink")/[QR](../Page/文化放送ライオンズナイター.md "wikilink")/[TBS](../Page/TBSラジオ_エキサイトベースボール.md "wikilink")\[5\] | [LF](../Page/ニッポン放送ショウアップナイター.md "wikilink")                  |     |   |
+| [東海](../Page/広域放送.md "wikilink")（[中](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")）                                                                                                                                                                                                       | [CBC](https://ja.wikipedia.org/wiki/CBCドラゴンズナイター "wikilink")                                                                               | [SF](https://ja.wikipedia.org/wiki/東海ラジオ_ガッツナイター "wikilink")  |     |   |
+| [近畿](../Page/広域放送.md "wikilink")（[神](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")・[オ](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")）                                                                                                                                            | [ABC](../Page/ABCフレッシュアップベースボール.md "wikilink")                                                                                             | [MBS](../Page/MBSベースボールパーク.md "wikilink")                     | ABC |   |
+| [広島](../Page/広島県.md "wikilink")（[広](../Page/広島東洋カープ.md "wikilink")）                                                                                                                                                                                                                           | [RCC](https://ja.wikipedia.org/wiki/RCCカープナイター "wikilink")                                                                                 |                                                               |     |   |
+| [福岡](https://ja.wikipedia.org/wiki/福岡県 "wikilink")（[ソ](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")）                                                                                                                                                                                | [RKB](https://ja.wikipedia.org/wiki/RKBエキサイトホークス "wikilink")                                                                               | [KBC](https://ja.wikipedia.org/wiki/KBCホークスナイター "wikilink")   |     |   |
+
+<references group="*" />
+
+火曜日のRKBおよび水曜日のKBCが、ホークスのビジターゲーム中継を自社制作した場合、当該試合はビジター側の地元局での中継有無に関係なく両局の放送分に準拠したものとなる。つまり、火曜日はRKBと、水曜日はKBCと同じ中継を放送する（ただし、後者は前述したように他局制作分のネットに制限がある）。
+
+[オールスターゲームは曜日に合わせたネットワークで放送するが](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")、[日本シリーズについては基本的に放送しない](../Page/日本選手権シリーズ.md "wikilink")（[NHKラジオの放送が](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")でも聴取できる為だと思われる）。
+
+## 備考
+
+  - ホークスが熊本で主催試合を行い、かつRKKでも放送する場合には、本来の制作局のアナウンサーに代わり、RKKのアナウンサーがベンチリポーターを務める事がある。
+  - 多くのラジオ局のナイター中継ではイニング間CMのCM明けにタイトルコールが行われるが、当番組ではCM入り前にタイトルコールが行われる。
+
+## 外部リンク
+
+  - [RKKきまぐれ流星群](http://kimagure.sumimama.com/)
+
+[Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:熊本放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:熊本放送のラジオ番組 "wikilink")
+
+1.  当日のソフトバンクはロッテ戦のビジターゲームのため、通常は中継対象試合となる
+2.
+3.  TBSラジオが自社およびJRNネットワーク番組としての野球中継を廃止した2018年以降は、厳密には（NRNとのクロスネットを含む）JRN加盟局他との個別ネット扱いとなる。
+4.  ヤクルト主催試合についてはTBS及びRKBに中継権がないため、水 - 金曜のみ放送可能（日本シリーズおよび[本拠地球場開催の](../Page/明治神宮野球場.md "wikilink")[オールスターゲームを除く](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")）。
+5.  基本的には巨人戦はRF、DeNA戦はTBS、西武・ロッテ戦はQRからネット受けまたは裏送りとなる。

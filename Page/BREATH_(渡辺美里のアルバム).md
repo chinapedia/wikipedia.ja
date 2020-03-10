@@ -1,0 +1,125 @@
+> この記事は[BREATH \(\)](https://ja.wikipedia.org/wiki/BREATH_\(\))から翻訳されています。
+
+
+『**BREATH**』（ブレス）は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[7月15日](../Page/7月15日.md "wikilink")にリリースされた渡辺美里の3枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+
+## 解説
+
+  - このアルバムから[2000年](../Page/2000年.md "wikilink")に発売される『[Love♥Go Go\!\!](https://ja.wikipedia.org/wiki/Love_Go_Go!! "wikilink")』まで一部の曲を除き、渡辺が全曲作詞を担当しうち数曲作詞・作曲両方を手掛けることとなる。
+  - ジャケットが本人の顔をアップにしたものとなっている。
+  - 今作で作曲家デビューした[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")や、高校時代の先輩だった[清水信之](https://ja.wikipedia.org/wiki/清水信之 "wikilink")、[佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")が作曲や編曲で参加。そして後に[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")のサウンドプロデュースを手掛ける[西平彰](https://ja.wikipedia.org/wiki/西平彰 "wikilink")も参加している。
+
+## 収録曲
+
+  - 全作詞：[MISATO](../Page/渡辺美里.md "wikilink")
+
+<!-- end list -->
+
+1.  **[BOYS CRIED (あの時からかもしれない)](https://ja.wikipedia.org/wiki/IT'S_TOUGH/BOYS_CRIED（あの時からかもしれない） "wikilink")**
+      - 作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲：[西平彰](https://ja.wikipedia.org/wiki/西平彰 "wikilink")
+2.  **HAPPY TOGETHER**
+      - 作曲・編曲：[佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")
+3.  **[IT'S TOUGH](https://ja.wikipedia.org/wiki/IT'S_TOUGH/BOYS_CRIED（あの時からかもしれない） "wikilink")**
+      - 作曲：伊秩弘将、編曲：西平彰
+4.  **MILK HALLでおあいしましょう**
+      - 作曲：佐橋佳幸、編曲：[清水信之](https://ja.wikipedia.org/wiki/清水信之 "wikilink")
+5.  **BREATH**
+      - 作曲：伊秩弘将、編曲：清水信之
+6.  **RICHじゃなくても**
+      - 作曲：MISATO、編曲：清水信之
+7.  **BORN TO SKIP**
+      - 作曲：[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、編曲：清水信之
+8.  **HERE COMES THE SUN (ビートルズに会えなかった)**
+      - 作曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、編曲：西平彰
+9.  **PAJAMA TIME**
+      - 作曲：小室哲哉、編曲：清水信之
+10. **風になれたら**
+      - 作曲：渡辺美里・佐橋佳幸、編曲：佐橋佳幸
+
+## 参加ミュージシャン
+
+**[BOYS CRIED (あの時からかもしれない)](https://ja.wikipedia.org/wiki/IT'S_TOUGH/BOYS_CRIED（あの時からかもしれない） "wikilink")**
+
+  - e.guitar, a.guitar and flat mandoline : [佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")
+  - keyboards : [西平彰](https://ja.wikipedia.org/wiki/西平彰 "wikilink")
+  - drums : [青山純](https://ja.wikipedia.org/wiki/青山純 "wikilink")
+  - bass : 荻原“メッケン”基文
+  - percussions : [浜口茂外也](https://ja.wikipedia.org/wiki/浜口茂外也 "wikilink")
+  - manipulate : 松井隆雄
+  - chorus : [木戸泰弘](https://ja.wikipedia.org/wiki/木戸やすひろ "wikilink"), 比山清
+
+**HAPPY TOGETHER**
+
+  - The Loversoul
+      - e.guitar : 佐橋佳幸
+      - keyboards : [柴田俊文](https://ja.wikipedia.org/wiki/UGUISS "wikilink")
+      - drums and percussion : 松本淳
+      - bass : 井上哲也
+  - chorus : [Cindy](https://ja.wikipedia.org/wiki/CINDY "wikilink"), Suzi Kim, Wornell Jones, [Joey MacCoy](https://ja.wikipedia.org/wiki/オメガトライブ#1986オメガトライブ／カルロス・トシキ&オメガトライブ "wikilink") and“Smile”Sahashi
+
+**[IT'S TOUGH](https://ja.wikipedia.org/wiki/IT'S_TOUGH/BOYS_CRIED（あの時からかもしれない） "wikilink")**
+
+  - e.guitar : 佐橋佳幸
+  - keyboards : [富樫春生](https://ja.wikipedia.org/wiki/富樫春生 "wikilink"), 西平彰
+  - drums : [古田たかし](../Page/Dr.StrangeLove.md "wikilink")
+  - bass : [有賀啓雄](https://ja.wikipedia.org/wiki/有賀啓雄 "wikilink")
+  - manipulate : 松井隆雄
+  - trumpet : [数原晋](https://ja.wikipedia.org/wiki/数原晋 "wikilink"), 兼崎“Don-pei”順一
+  - trombone : 早川隆章
+  - saxophone : [Jake H. Concepcion](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")
+  - chorus : [MISATO](../Page/渡辺美里.md "wikilink")
+
+**MILK HALLでおあいしましょう**
+
+  - e.guitar : 佐橋佳幸
+  - keyboards, bass and drums : [清水信之](https://ja.wikipedia.org/wiki/清水信之 "wikilink")
+  - chorus : [安部恭弘](https://ja.wikipedia.org/wiki/安部恭弘 "wikilink"), 木戸泰弘, 比山清 and MISATO
+
+**BREATH**
+
+  - a.piano : 清水信之
+  - strings : [金子飛鳥](https://ja.wikipedia.org/wiki/金子飛鳥 "wikilink")グループ
+  - flute : 衛藤幸雄, 西沢幸彦
+  - oboe : 石橋雅一
+  - horn : 沖田晏
+
+**RICHじゃなくても**
+
+  - electronics, a.piano, glockenspiel and percussions : 清水信之
+  - horns : 東京 Jazz Ensemble
+
+**BORN TO SKIP**
+
+  - electronics and percussions : 清水信之
+
+**HERE COMES THE SUN (ビートルズに会えなかった)**
+
+  - e.guitar : 佐橋佳幸
+  - keyboards : 富樫春生, 西平彰
+  - drums : 青山純
+  - bass : 有賀啓雄
+  - percussions : 古田たかし
+  - manipulate : 松井隆雄
+  - chorus : [TM NETWORK](../Page/TM_NETWORK.md "wikilink"), MISATO
+
+**PAJAMA TIME**
+
+  - e.guitar : 佐橋佳幸
+  - electronics and percussions : 清水信之
+  - chorus : 安部恭弘, 木戸泰弘, 比山清, MISATO
+
+**風になれたら**
+
+  - a.guitar and keyboards : 佐橋佳幸
+  - manipulate : [石川鉄男](https://ja.wikipedia.org/wiki/石川鉄男 "wikilink")
+  - chorus : MISATO
+
+## 関連項目
+
+  - [1987年の音楽](https://ja.wikipedia.org/wiki/1987年の音楽 "wikilink")
+
+## 外部リンク
+
+  - [Sony Music Online Japan : 渡辺美里 : BREATH](http://www.sonymusic.co.jp/Music/Arch/ES/MisatoWatanabe/ESCB-1163/index.html)
+
+[Category:渡辺美里のアルバム](https://ja.wikipedia.org/wiki/Category:渡辺美里のアルバム "wikilink") [Category:1987年のアルバム](https://ja.wikipedia.org/wiki/Category:1987年のアルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink") [Category:1987年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1987年のオリコンアルバムチャート1位獲得作品 "wikilink")

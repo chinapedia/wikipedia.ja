@@ -1,0 +1,55 @@
+> この記事は[CR ](https://ja.wikipedia.org/wiki/CR_)から翻訳されています。
+
+
+**CRぱちんこ仮面ライダー～ショッカー全滅大作戦～**（シーアールぱちんこかめんライダー ショッカーぜんめつだいさくせん）は、[京楽産業.](https://ja.wikipedia.org/wiki/京楽産業. "wikilink")が発売した[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。[2007年](../Page/2007年.md "wikilink")7月導入。[保通協における登録名は](../Page/保安通信協会.md "wikilink")「CRぱちんこ仮面ライダー2」。[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプ。
+
+## スペック
+
+  - CRぱちんこ仮面ライダー2 WR85TF6
+
+<!-- end list -->
+
+  - 賞球数：3&4&10
+  - 大当たり確率：低確率 1/221.5 → 高確率 1/22.15
+  - 大当たりラウンド：2、7または15ラウンド・9カウント
+  - 確変割合：85%（15R：15%、7R：59%、2R：11%の複合確率）
+  - 全ての大当たり終了後（10回：4%、20回：5%、30回：6%）の時短
+
+## 概要
+
+2004年に発売された「[CR仮面ライダー](https://ja.wikipedia.org/wiki/CR仮面ライダー "wikilink")」の後継機。大当たり確率と確変継続率が高い代わりに1回あたりの出玉が少ない、いわゆる『甘デジ』機と低確率機の中間位置の**ミドルスペック**で、大当たりは「[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳_\(パチスロ\) "wikilink")」「[CRぱちんこウルトラセブン](https://ja.wikipedia.org/wiki/CRぱちんこウルトラセブン "wikilink")」のような**バトルボーナス**形式となっている。同社は2007年春に甘デジ機でバトルボーナスシステムを採用した「[CRぱちんこ歌舞伎剣](../Page/CRぱちんこ歌舞伎剣.md "wikilink")」をリリースしており、今回の「仮面ライダー」はスペック的に「歌舞伎剣」のアッパータイプとも言える。メーカーの通称は「ハイパー甘デジ」。
+
+ゲーム的には前作「CR仮面ライダー」のイメージをそのまま引き継いでいるが、各種モードも増えたほか仮面ライダー2号が参戦し、リーチアクションやライダーバトルに登場する怪人もプレミアキャラクターの蜂女や最終決戦の相手であるショッカー首領を含めると16体に及ぶ。ライダーバトルと「本郷潜入モード」（後述）は劇中に登場した四大幹部の名を冠したステージ構成となっており、[ゾル大佐](../Page/ゾル大佐.md "wikilink")→[死神博士](https://ja.wikipedia.org/wiki/死神博士 "wikilink")→[地獄大使](https://ja.wikipedia.org/wiki/地獄大使 "wikilink")→[ブラック将軍の順に展開していく](https://ja.wikipedia.org/wiki/ゲルショッカー#ブラック将軍 "wikilink")。バトル勝利の演出は大別すると、ライダーが先制攻撃を出す、怪人の攻撃を回避して反撃する、あるいは倒れたライダーが声援を受けて再び立ち上がり見事勝利する、の3種類である。ライダーの攻撃はチョップ、パンチ、ライダーキック、そして2号ライダーとのライダーダブルキックの4種類で、そのうちライダーダブルキックで怪人を倒すとダブルライダーボーナスが確定する。また、怪人の攻撃を回避した際、歴代ライダーが登場して必殺技で怪人を倒す演出があり、この場合もダブルライダーボーナスが確定する。歴代ライダーとそれぞれ対戦する怪人の組み合わせは、以下のように決められている。
+
+  - ライダーマン：[蜘蛛男](https://ja.wikipedia.org/wiki/蜘蛛男_\(仮面ライダー\) "wikilink")・[こうもり男](https://ja.wikipedia.org/wiki/蝙蝠男 "wikilink")
+  - 仮面ライダーX：[さそり男](https://ja.wikipedia.org/wiki/ショッカー怪人_\(テレビシリーズ\)#さそり男 "wikilink")・[死神カメレオン](https://ja.wikipedia.org/wiki/ショッカー怪人_\(テレビシリーズ\)#死神カメレオン "wikilink")
+  - 仮面ライダーアマゾン：[コブラ男](https://ja.wikipedia.org/wiki/コブラ男 "wikilink")・[サボテグロン](https://ja.wikipedia.org/wiki/ショッカー怪人_\(テレビシリーズ\)#サボテグロン "wikilink")
+  - 仮面ライダーストロンガー：[ドクガンダー](https://ja.wikipedia.org/wiki/ショッカー怪人_\(テレビシリーズ\)#ドクガンダー "wikilink")・[カニバブラー](https://ja.wikipedia.org/wiki/ショッカー怪人_\(テレビシリーズ\)#カニバブラー "wikilink")
+  - 仮面ライダーV3：大幹部
+  - 仮面ライダー2号：[ショッカー首領](https://ja.wikipedia.org/wiki/ショッカー首領 "wikilink")
+
+各ステージで4体の怪人とのバトルに勝利すると四大幹部のそれぞれが怪人体となり、ボスキャラとして登場する。
+
+ミドルスペック機であるため、大当たりは大部分が7Rの「ライダーボーナス」であり、「ダブルライダーボーナス（15R）」も出玉は約1150発（京楽産業HPより）と、他の低確率機の15R大当たりよりも大幅に少ない。
+
+突確・時短中は「本郷潜入モード」に突入し、10回転ごとに扉が閉まり、31回転目に扉が開いた時にベルトが回転して変身すると、高確率状態確定の「ライダー潜入モード」に変化する。潜入モード中は怪人に出会った時点で、何らかの当たりが確定する。その際、ライダーが戦いに敗れた直後に変身が解けた本郷猛が立ち上がらければ、カットインによる声援を受けて復活→勝利するという特殊な演出もある。またプレミアキャラクターの蜂女は潜入モードで遭遇する以外には登場しない。なお、潜入モード突入時に盤面右下の「7セグ」によって突確か時短か事前に判別が可能である。
+
+## 声の出演
+
+  - [本郷猛](https://ja.wikipedia.org/wiki/本郷猛 "wikilink") - [藤岡弘、](../Page/藤岡弘、.md "wikilink")
+  - [一文字隼人](https://ja.wikipedia.org/wiki/一文字隼人 "wikilink") - [佐々木剛](../Page/佐々木剛.md "wikilink")
+  - ナレーター - [中江真司](https://ja.wikipedia.org/wiki/中江真司 "wikilink")
+
+## 備考
+
+  - 同機は全国各地のパチンコ店にとって[SANKYOの](https://ja.wikipedia.org/wiki/三共_\(パチンコ\) "wikilink")「[CRフィーバー倖田來未](https://ja.wikipedia.org/wiki/CRフィーバー倖田來未 "wikilink")」と共に2007年夏の主力機種となっている。
+  - 開発当初はダブルアタッカーだった（[CRぱちんこウルトラマン](../Page/CRぱちんこウルトラマン.md "wikilink")の様な）。しかし、初心者でも分かり易くという事で採用を見送った。
+  - このほかにも[羽根モノ](https://ja.wikipedia.org/wiki/羽根モノ "wikilink")の「[CRぱちんこ仮面ライダー](https://ja.wikipedia.org/wiki/CRぱちんこ仮面ライダー "wikilink")」も2004年夏にリリースされていた。
+  - [PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『ぱちんこ仮面ライダー ショッカー全滅大作戦 パチってちょんまげ達人14』が2008年2月21日に発売された。
+  - 映画『[仮面ライダー THE NEXT](https://ja.wikipedia.org/wiki/仮面ライダー_THE_NEXT "wikilink")』での最後のオチで本商品が出てくるシーンがある。
+
+## 外部リンク
+
+  - [ぱちんこ仮面ライダー ショッカー全滅大作戦](http://www.kyoraku.co.jp/public/products/2007/rider_s/index.html)
+
+[Category:仮面ライダー](https://ja.wikipedia.org/wiki/Category:仮面ライダー "wikilink") [Category:京楽産業.](https://ja.wikipedia.org/wiki/Category:京楽産業. "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink")

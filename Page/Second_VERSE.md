@@ -1,0 +1,60 @@
+> この記事は[Second VERSE](https://ja.wikipedia.org/wiki/Second_VERSE)から翻訳されています。
+
+
+**second VERSE**（セカンド バース）は、[より子](https://ja.wikipedia.org/wiki/より子 "wikilink")のメジャー2枚目のアルバム。
+
+## 解説
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月16日](../Page/2月16日.md "wikilink")に発売された。作詞・作曲は[より子](https://ja.wikipedia.org/wiki/より子 "wikilink")（「HIKARI」のみ作詞・作曲：Fumiko & より子）。
+
+タイトルは直訳すると「第2章」という意味に取れるが、2枚目のアルバムであることと、もう一度生まれ変わること（「VERSE」を「BIRTH」に掛けている）の2つの意味を持っている。前作『[Cocoon](../Page/Cocoon_\(より子のアルバム\).md "wikilink")』はコンセプトアルバムとなっていたのに対し、今作はその時その時で自分の中に生まれたものをそのまま再現することにこだわって制作が進められた。
+
+アルバムの発売を記念して、2度目の全国ツアー『Second Birthday Party』が全国5ヶ所で行われる予定であったが、卵巣腫瘍による急性腹症によって公演は中止となっている。
+
+## 収録曲
+
+1.  N.Y
+      - ビデオプランニング配給映画『ユリシス』エンディングテーマ
+    <!-- end list -->
+      -
+        「HIKARI」の[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")レコーディングの際に作ったという楽曲。タイトルはニューヨークの「N.Y.」でもあるが、ニューヨークレコーディングを通して新しく生まれ変わった自分、「New Yorico」という言葉からも取られている。タイアップはアルバム発売後の[6月](../Page/6月.md "wikilink")に決定された。
+2.  タイヨウ
+      -
+        本人曰く、タイトルをカタカナにしたのは漢字で「太陽」とするイメージではなかったからであるという。
+3.  [さあ今きみと](https://ja.wikipedia.org/wiki/さあ今きみと "wikilink")
+4.  [HIKARI](https://ja.wikipedia.org/wiki/HIKARI/ダイアの花 "wikilink")
+5.  復唱
+      -
+        歌詞がこれまでの楽曲にはない程攻撃性を孕んでいる楽曲。
+6.  second Birthday
+      -
+        前作『Cocoon』収録曲「introduction」が楽曲に取り入れられている。コーラスには制作スタッフ（通称より子チーム）の他、本人曰く「アイドル俳優も秘かに参加している」という。
+7.  Vant
+      -
+        タイトルは『[ドラゴンクエストIII そして伝説へ…](../Page/ドラゴンクエストIII_そして伝説へ….md "wikilink")』で自身がつけたキャラクターの名前から。自身が初めてドラムを担当している。
+8.  koi
+      -
+        アウトロ部分では自身がデモ音源で叩いたドラムの音を使用している。
+9.  [ダイアの花](https://ja.wikipedia.org/wiki/HIKARI/ダイアの花 "wikilink")
+10. ただ手をあなたに伸ばして
+      - オンラインゲーム『[リネージュII クロニクル4 運命の継承者たち](../Page/リネージュII.md "wikilink")』キャンペーンソング
+    <!-- end list -->
+      -
+        『リネージュII』のキャンペーンソングに起用され、アルバム発売前から比較的早く存在が明らかになっていた楽曲。卵巣腫瘍による急性腹症から復帰した際のコメントでは、この曲に入院休養中の自分の想いが全て詰まっていて驚いたという。
+11. 紡ぐ糸
+      -
+        ディレクターとひたすらミックスを練り直し、こだわり抜いたという楽曲。本人曰く「完全に自分自身を表した曲」であるという。
+12. うた
+      -
+        アルバムでは唯一の弾き語り楽曲。アルバム収録曲の中でも最後に制作され、本人曰く「アルバムを制作する過程で、以前なら『こういう風に聴いて欲しい』という気持ちがあったが、今作は音楽そのものを楽しんで欲しいという気持ちが歌詞にある」とコメントしている。
+
+## 関連項目
+
+  - [2006年の音楽](https://ja.wikipedia.org/wiki/2006年の音楽 "wikilink")
+
+## 外部リンク
+
+  - [AI MUSICによるインタビュー](http://www.ai-station.co.jp/aimusic/interview/interview012.php)
+  - [ORICON STYLEによるインタビュー](http://www.oricon.co.jp/music/interview/060208_01.html)
+
+[Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:EMIミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアルバム "wikilink")

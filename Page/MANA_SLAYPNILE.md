@@ -1,0 +1,58 @@
+> この記事は[MANA SLAYPNILE](https://ja.wikipedia.org/wiki/MANA_SLAYPNILE)から翻訳されています。
+
+
+**MANA SLAYPNILE**（マナ・[スレイプニル](../Page/スレイプニル.md "wikilink")）は[高知県](../Page/高知県.md "wikilink")出身の4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に行われた「[FMフェスティバル](https://ja.wikipedia.org/wiki/FMフェスティバル "wikilink") LOCK ON ROCK super audition 05/06」にてグランプリを獲得。同年[ユニバーサルJよりメジャーデビュー](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+
+## メンバー
+
+  - **市川幸司**（[1981年](../Page/1981年.md "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink") - ）ボーカル・ギター・作詞・作曲
+  - **正木太陽**（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[9月7日](../Page/9月7日.md "wikilink") - ）ギター（2008年5月末脱退）
+  - **沖雅仁**（[1981年](../Page/1981年.md "wikilink")[10月31日](https://ja.wikipedia.org/wiki/10月31日 "wikilink") - ）ベース
+  - **武市容典**（[1982年](../Page/1982年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink") - ）ドラム
+
+## バイオグラフィー
+
+2004年夏に彼等の地元高知県で結成のギターロックバンド。 市川と正木は専門学校の同級生で、その頃からバンドはしていたが繰り返すメンバーの脱退。 市川のバイト先で一緒に働いていた武市がドラムに、ベースには市川の友人の紹介で沖が加入して現メンバーになる。
+
+Robinという名前のままでしばらくは活動していたが、その後になぜか「MANA　SLAYPNILE」へと改名。 MANAはハワイの言葉で「自然」、SLAYPNILEは北欧神話に出てくる「八本足の馬の神様」の名前。 メンバー4人の楽器と声を合わせた8つの音とかけて「自然気ままに駆け抜けて行こう」という意味になる。
+
+2005年6月、2曲入り無料[CD-R](https://ja.wikipedia.org/wiki/R盤 "wikilink")「ソングライター」を作成。 地元CDショップ、ライブハウス等での限定配布にもかかわらず、約1ヶ月で1,000枚を配布。
+
+2005年秋、結成からおよそ1年で[TOKYO FM](../Page/エフエム東京.md "wikilink")・[Vodafoneのコラボレーションで行われたオーディション](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")「Vodafone LOCK ON ROCK super audition 05/06」に「ソングライター」で応募。 応募と同時期に500枚限定1st CD-R「デイブレイクストーリー」を発売。 これもライブ会場・地元CDショップでの販売のみにもかかわらず、わずか1ヶ月足らずで500枚を完売。 オーディションでは音源審査の1次予選を突破し、ライブ審査・そして「LOR」のラジオリスナーや公式WEBページからの一般投票で行われる2次予選へと進出。ライブ審査では僅差で2位であったのだが、リスナーからの支持を集め一般投票で1位となった。結果、総合で1位となり四国ブロック代表に駒を進める。 最終審査、沖縄から北海道までの各ブロック代表全10組でのライブ審査、WEB上での一般投票で選考。 ここでもやはり一般投票で票を集め、応募総数約900組の中から初めてのオーディションでグランプリを受賞。 審査委員長のCharに「将来、一緒に音楽で遊んでみたい奴等だ。もう一度会いたいと思ったバンド。」と言われた。 TOKYO FM/JFN全国37局とVodafoneの全面バックアップのもと、プロデューサーにCharを迎え、結成からわずか1年半の「MANA SLAYPNILE」はUNIVERSAL Jよりメジャーデビューした。
+
+2006年12月6日、UNIVERSAL Jよりミニアルバム『super　star』でデビューし、MANA　SLAYPNILEをとりまく環境は一変することになる。 新人では異例のTOKYO　FMでの12月度パワープレイを含む全国7FM局でパワープレイまたは準パワープレイを獲得。 ライブでは布袋寅泰・char・TRICERATOPS・RIZE・ナイス橋本などのアーティストと競演。渋谷公会堂やステラボウルでのステージにも出演を果たす。 北海道から沖縄までのラジオ全国プロモーション、テレビの生出演と一気にメジャーアーティストとして活動が始まった。
+
+2008年5月、ギター正木太陽脱退。2008年12月解散。現段階ボーカル市川のソロ活動中。
+
+## ディスコグラフィー
+
+〇2005年5月頃 1,000枚無料デモCD－R「ソングライター」（ライブ会場・地元CDショップのみ）
+
+収録曲 1.ソングライター 2.レクイエム
+
+〇2005年11月 500枚限定CD-R「デイブレイクストーリー」（ライブ会場・地元CDショップのみ）
+
+収録曲 1.デイブレイクストーリー 2.ロストフラフ 3.風切 4.サンキュー・グッバイ
+
+〇2006年春 「Vodafone LOCK ON ROCK ｺﾝﾋﾟﾚｰｼｮﾝｱﾙﾊﾞﾑ」（全国流通）
+
+1.ソングライター 2.風切 で参加
+
+〇2006年12月6日 1st mini album「super star」（全国流通）
+
+収録曲 1.super star 2.ソングライター 3.ロストグラフ 4.デイブレイクストーリー 5.ホワイト 6.パズル
+
+〇2007年9月 オムニバスCD「DROP」（全国流通）
+
+1.風切 で参加
+
+## 関連項目
+
+  - [Char](../Page/Char.md "wikilink")
+  - [2006年の音楽](https://ja.wikipedia.org/wiki/2006年の音楽 "wikilink")
+
+## 外部リンク
+
+  - [公式サイト](http://www.universal-music.co.jp/manaslaypnile/index.html)
+
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:高知県出身の人物](https://ja.wikipedia.org/wiki/Category:高知県出身の人物 "wikilink")

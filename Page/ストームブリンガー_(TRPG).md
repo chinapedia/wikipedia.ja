@@ -1,0 +1,42 @@
+> この記事は[ \(TRPG\)](https://ja.wikipedia.org/wiki/_\(TRPG\))から翻訳されています。
+
+
+『**ストームブリンガー**』（*Stormbringer*）は、米国の[ケイオシアム](https://ja.wikipedia.org/wiki/ケイオシアム "wikilink")社が製作した[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")のタイトル。[マイケル・ムアコック](../Page/マイケル・ムアコック.md "wikilink")の『[エターナル・チャンピオンシリーズ](../Page/エターナル・チャンピオンシリーズ.md "wikilink")』の世界観を原作としたゲームで、日本語版も[ホビージャパン](../Page/ホビージャパン.md "wikilink")と[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")から出版されている。『ストームブリンガー』と同じ世界観を持つ『エルリック\!』『Hawkmoon』（未訳）についてもこの項目で併せて扱う。
+
+## 概要
+
+法と混沌の神々による永遠の闘争を描いた壮大なファンタジー小説「エターナル･チャンピオンシリーズ」の世界観を舞台に、運命に翻弄される英雄たちの活躍を描いたテーブルトークRPG。ゲームシステムには[ベーシック・ロールプレイング](../Page/ベーシック・ロールプレイング.md "wikilink")が使われている。ゲームの主要な舞台として、原作でも重要な地域である「新王国」が用意されていて、ルールブックやサプリメントには新王国の詳細なガイドが掲載されている。ゲームデザインは、『[トンネルズ&トロールズ](https://ja.wikipedia.org/wiki/トンネルズ&トロールズ "wikilink")』の作者として知られる[ケン・セント・アンドレ](https://ja.wikipedia.org/wiki/ケン・セント・アンドレ "wikilink")が担当。最近の版では『クトゥルフの呼び声』のデザイナーである[リン・ウィリス](https://ja.wikipedia.org/wiki/リン・ウィリス "wikilink")がメインの作者としてクレジットされている。
+
+ゲームとしては同じくベーシック・ロールプレイングが使われている『[ルーンクエスト](https://ja.wikipedia.org/wiki/ルーンクエスト "wikilink")』と『[クトゥルフの呼び声](../Page/クトゥルフの呼び声_\(TRPG\).md "wikilink")』の二つの要素をミックスしたようなものになっていて、剣や格闘での物理的な戦闘の部分は『ルーンクエスト』で表現された残虐さが、魔術については『クトゥルフの呼び声』の狂気と恐怖が、更に強調される形でシステムに実装されている。そのため、剣を振るえば敵や味方の腕や鼻が無残にもげ、魔術を使えば恐怖にとらわれ正気が失われるという他のファンタジーもののTRPGでは類を見ない過酷なゲームルールになっている。しかし、これこそが「エターナル･チャンピオンシリーズ」の暗く耽美なヒロイックファンタジーの雰囲気を表している特徴にもなっている。
+
+[魔術](../Page/魔術.md "wikilink")については『ストームブリンガー』のゲームシステムにおける最大のウリであり、ファンタジーゲームでありがちな「呪文を唱えると火の玉が掌から発射される」というものではなく、[デーモン](../Page/デーモン.md "wikilink")や[力天使](https://ja.wikipedia.org/wiki/力天使 "wikilink")といった異世界の魔法生物を[召喚して魔力を行使してもらうというものになっている](https://ja.wikipedia.org/wiki/召喚魔術 "wikilink")。召喚にはかなりのリスクがあり、殆どの場合生贄を要求する（生贄用の奴隷が売られている世界である）うえ失敗すると命の危機に陥ることもしばしばあるが、その分、魔術の効果はとてつもなく強力である。
+
+[プレイヤーキャラクター](../Page/プレイヤーキャラクター.md "wikilink")の作成については『ルーンクエスト』に似ており、とカルト（宗派）を決定することでおおまかな技能が決定される。
+
+## 作品一覧
+
+日本語化されているものを中心に扱う。
+
+  - ストームブリンガー
+    基本ルールブック。[1988年](../Page/1988年.md "wikilink")に[ホビージャパン](../Page/ホビージャパン.md "wikilink")からボックス版で発売。原書の第二版ルールブックにあたる『Stormbringer 2nd Edition』の翻訳。翻訳は[グループSNE](../Page/グループSNE.md "wikilink")の[安田均](../Page/安田均.md "wikilink")が担当。ボックスアートは[天野喜孝](../Page/天野喜孝.md "wikilink")によって手がけられた。
+      - ストームブリンガー・コンパニオン
+        [サプリメント](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")にホビージャパンより書籍版で発売（ISBNコードなし）。カバーアートは[天野喜孝](../Page/天野喜孝.md "wikilink")。内容は追加ルールとシナリオ2本。
+      - デーモンマジック
+        サプリメント。[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")にホビージャパンより書籍版で発売（ISBNコードなし）。カバーアートは[韮沢靖](https://ja.wikipedia.org/wiki/韮沢靖 "wikilink")。魔術とデーモンに関する改訂版ルールとシナリオを掲載。
+      - ヴェルヴェットサークル
+        サプリメント。[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")にホビージャパンより書籍版で発売（ISBNコードなし）。カバーアートは天野喜孝。[キャンペーンシナリオ集](../Page/キャンペーン_\(TRPG\).md "wikilink")。
+      - ストームブリンガースーパースクリーン
+        [スーパースクリーンのシリーズの一つ](https://ja.wikipedia.org/wiki/マスタースクリーン#スーパースクリーン "wikilink")。[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")にホビージャパンより発売。
+  - エルリック！
+    基本ルールブック。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[ホビージャパン](../Page/ホビージャパン.md "wikilink")から書籍版で発売（ISBN 4-89425-072-1）。原書の『Elric\!』の翻訳。翻訳は（グループSNEでストームブリンガー担当であった）[北川直](https://ja.wikipedia.org/wiki/北川直 "wikilink")が担当。カバーアートは[韮沢靖](https://ja.wikipedia.org/wiki/韮沢靖 "wikilink")によって手がけられた。ゲームバランスの向上のためにルールがそれまでの版より大幅にリファインされ、そのために今までの『Stormbringer』とは違うゲームとして、別のシリーズタイトル『Elric\!』として発表された。（ただし、ベーシックロールプレイングが使われている点は同じなため、基本的なプレイ感覚は変わらない）
+    キャンペーンプレイを重ねていくにつれ、世界が法と混沌のどちらに傾くかが決定されるという**「アリージャンス・ポイント」**というルールが新たに導入され、プレイヤーキャラクターが世界の未来を左右するコマの一つであるということがダイレクトに伝わるようになった。
+  - MICHAEL MOORCOCK'S ストームブリンガー
+    基本ルールブック。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")\[1\]に[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")から書籍版で発売（ISBN 978-4757728554）。原書の第5版ルールブックにあたる『Stormbringer 5th Edition』の翻訳。翻訳は[グループSNE](../Page/グループSNE.md "wikilink")の[江川晃](https://ja.wikipedia.org/wiki/江川晃 "wikilink")が担当。カバーアートは[天野喜孝](../Page/天野喜孝.md "wikilink")によって手がけられた。ルールはそれまでの『ストームブリンガー』ではなく『エルリック\!』を後継するものになっている。
+
+## 脚注・出典
+
+<references />
+
+[Category:テーブルトークRPG作品](https://ja.wikipedia.org/wiki/Category:テーブルトークRPG作品 "wikilink") [Category:アメリカ合衆国のテーブルトークRPG](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテーブルトークRPG "wikilink") [Category:ホビージャパンのテーブルトークRPG](https://ja.wikipedia.org/wiki/Category:ホビージャパンのテーブルトークRPG "wikilink") [Category:エンターブレインのテーブルトークRPG](https://ja.wikipedia.org/wiki/Category:エンターブレインのテーブルトークRPG "wikilink") [Category:ベーシック・ロールプレイング](https://ja.wikipedia.org/wiki/Category:ベーシック・ロールプレイング "wikilink") [Category:マイケル・ムアコック](https://ja.wikipedia.org/wiki/Category:マイケル・ムアコック "wikilink")
+
+1.  <http://www.enterbrain.co.jp/product/mook/login_trpg/06392101.html>

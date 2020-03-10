@@ -1,0 +1,33 @@
+> この記事は[V!V!V!](https://ja.wikipedia.org/wiki/V!V!V!)から翻訳されています。
+
+
+『**日曜V\!V\!V\!テレビ**』（にちようビビビテレビ）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[西日本放送で放送された](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 11:40 - 12:30 ([JST](../Page/日本標準時.md "wikilink"))。
+
+## 概要
+
+日曜昼の時間帯に放送されていたローカル情報番組で、司会は西日本放送のアナウンサーと同局に出向しているフリーアナウンサーたちが務めていた。また、放送開始翌年からは落語家の[笑福亭小つるも出演していた](https://ja.wikipedia.org/wiki/笑福亭枝鶴_\(6代目\) "wikilink")。番組は公式[サイトと番組専用](../Page/ウェブサイト.md "wikilink")[メールアドレス](https://ja.wikipedia.org/wiki/メールアドレス "wikilink")を設け、視聴者からのお便りや情報を随時募集していた。
+
+## 出演者
+
+  - [山崎達也](https://ja.wikipedia.org/wiki/山崎達也 "wikilink")（西日本放送アナウンサー）
+  - 菅綾（フリーアナウンサー）
+  - [笑福亭小つる](https://ja.wikipedia.org/wiki/笑福亭枝鶴_\(6代目\) "wikilink") - 1999年1月から出演。
+  - [岸猛](../Page/岸猛.md "wikilink")（西日本放送アナウンサー） - 山崎に替わって1999年4月から出演。この番組には岸たけし名義で出演していた。
+  - 辻文子 - 菅に替わって1999年4月から出演。
+
+## コーナー
+
+  - 話題チェック&話題ナンバーワン\!
+    街頭で取ったアンケートの集計結果を基に行われていたコーナーで、放送日前週に伝えられたニュースの中でどれが一番印象に残ったのかをアンケートのテーマにしていた。そして、視聴者と電話を繋いで集計結果の予測を伝えてもらい、見事当てた視聴者には後述の「ラッキーチャレンジ」に挑戦する権利を与えていた。
+  - 小つるの「アレ食べたい\!」
+    小つるが番組の放送対象エリア各地の飲食店を紹介していたグルメコーナー。
+  - 今週の「ココ行きたい\!」
+    日帰りで行ける観光スポットを紹介していたレジャーコーナー。
+  - ラッキーチャレンジ
+    「話題チェック&話題ナンバーワン\!」のコーナーと連動して行われていたコーナーで、集計結果を当てた視聴者が最高金額50,000円の賞金が貰えるゲームに電話で挑戦していた。2001年度から行われるようになった「**ラッキーチャレンジ CHOKIN\!か DEKIN?か**」では、賞金の金額が2倍もしくは半分になる、もしくは別の視聴者に還元するなどのゲーム性も追加された。
+
+## 外部リンク
+
+  - [西日本放送 日曜V\!V\!V\!テレビ](https://web.archive.org/web/20010602032642/http://www.rnc.co.jp/vivivi/vivivi.htm)（インターネット・アーカイブ保存データ）
+
+[Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:西日本放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:西日本放送のテレビ番組 "wikilink") [Category:中国・四国地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの情報・ワイドショー番組 "wikilink") [Category:視聴者参加型番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型番組 "wikilink")

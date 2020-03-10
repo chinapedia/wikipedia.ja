@@ -1,0 +1,31 @@
+> この記事は[Bruce Lee in G.O.D ](https://ja.wikipedia.org/wiki/Bruce_Lee_in_G.O.D_)から翻訳されています。
+
+
+『**Bruce Lee in G.O.D 死亡的遊戯**』は、[2000年](../Page/2000年.md "wikilink")制作の日本・香港映画。[ブルース・リー](../Page/ブルース・リー.md "wikilink")が遺した『[死亡遊戯](https://ja.wikipedia.org/wiki/死亡遊戯 "wikilink")』の未使用フィルムを、関係者のインタビューや、一部再現フィルムを交えて公開した、セミドキュメンタリー作品。[大串利一](https://ja.wikipedia.org/wiki/大串利一 "wikilink")監督。
+
+劇場公開時には[ユン・ワー](https://ja.wikipedia.org/wiki/ユン・ワー "wikilink")がガイド役を、DVD版では[ユン・ピョウ](https://ja.wikipedia.org/wiki/ユン・ピョウ "wikilink")がガイド役を、それぞれ務めている。
+
+## 内容
+
+『死亡的遊戯』は、リーがクライマックスのシーンのみを撮影した時点で『[燃えよドラゴン](https://ja.wikipedia.org/wiki/燃えよドラゴン "wikilink")』の撮影が始まったため中断し、のち再開の段となってリーが急死したため未完に終わった作品である。リーが撮影していたときのタイトルは『死亡的遊戯』で、なぜ彼の死後『死亡遊戯』というタイトルが流布したのかははっきりしない。当時の香港映画ではよくあったことであるが、シナリオなしで撮影が開始されており、のちシナリオが書かれたのだとしても現時点では発見されておらず、製作・監督でもあったリーがどのような全体ストーリーを考えていたかは部分的にしか分かっていない。ただリーが残したオリジナル・フィルムは、1978年に『[燃えよドラゴン](https://ja.wikipedia.org/wiki/燃えよドラゴン "wikilink")』の[ロバート・クローズ](https://ja.wikipedia.org/wiki/ロバート・クローズ "wikilink")監督が中心となって製作・公開した『[死亡遊戯](https://ja.wikipedia.org/wiki/死亡遊戯 "wikilink")』のクライマックスとは違い、、と3人で塔を上っていくものであることである\[1\]。このことは長くファンにも知られず、わずかなスチル写真が公開されたのもリーの死後、かなり経ってからのことであった。本作では、オリジナルである「3人」版で編集がなされている。『死亡遊戯』とは同じシーンの別テイクも使っている。
+
+本作では最初から広東語ではなく、英語での撮影が行われていたが、録音はされていなかったため、読唇により台詞を抽出し、声優が声を当てている。さらにその声をコンピューター加工によりリーの声に似せている。怪鳥音はリー本人のものが当てられている。
+
+ワーナーが2000年に製作した『Bruce Lee: A Warrior's Journey』（[英語版](https://ja.wikipedia.org/wiki/:en:Bruce_Lee:_A_Warrior's_Journey "wikilink")）（『ウォリアーズ・ジャーニー』）では吹替は行われず、「失われたセリフ」としてスーパー処理されているシーンがある（対[ダン・イノサント](https://ja.wikipedia.org/wiki/ダン・イノサント "wikilink")戦）。なお、この作品はワーナー・ホーム・ビデオより発売され、2004年のDVD『燃えよドラゴンSPECIAL EDITION』、2007年のBlu-ray『燃えよドラゴン ディレクターズカット版』に収録されているが、現在権利期限切れにより収録不可となり実質的な廃盤扱いとなっている\[2\]。
+
+一方、本作は2003年に新たな編集とBGMの差し替えが行われDVD版の発売後、Blu-ray版『死亡遊戯』の特典映像としてもドラマ部分をカットした後半約40分のファイトシーンが収録されているので視聴可能となっている。
+
+本作では[カリーム・アブドゥル＝ジャバー](https://ja.wikipedia.org/wiki/カリーム・アブドゥル＝ジャバー "wikilink")演じるハキムが光に弱いという弱点（ロバート・クローズ版でもそれと解る描写がある）があり、それに気づいたリーが障子紙を破って外の太陽光を入れて形勢を逆転するという分かりやすい展開もある一方、ジャバーを倒したリーがそれ以上塔の上へは上がらずに昇って来た階段を下りていき、その際、外へ向かって何かを叫び、外（塔の下）からの答にさらに何か応答するといったどんなシーンか不明であった場面も使われている。外への叫びのシーンは、リーが「ゲームオーバー\!」と叫んだのに対し、「まだ終わってない\!」と返され「じゃあ待ってろ」と返すシーンと本作ではされている。
+
+ジェームズ・ティエンがカリーム・アブドゥル＝ジャバー戦の最後に助けを求める叫びをあげるが、本作では「Hlep Me\!」なのに対し、上記『ウォリアーズ・ジャーニー』では「Hai Tien\!」になっている。これは、企画段階におけるブルース・リーの役名が「Hai Tien(ハイ・ティエン)」であったため。
+
+## 脚注
+
+## 外部リンク
+
+  -
+  -
+[Category:日本と香港の合作映画](https://ja.wikipedia.org/wiki/Category:日本と香港の合作映画 "wikilink") [Category:日本のドキュメンタリー映画](https://ja.wikipedia.org/wiki/Category:日本のドキュメンタリー映画 "wikilink") [Category:日本の伝記映画](https://ja.wikipedia.org/wiki/Category:日本の伝記映画 "wikilink") [Category:日本のアクション映画](https://ja.wikipedia.org/wiki/Category:日本のアクション映画 "wikilink") [Category:香港の伝記映画](https://ja.wikipedia.org/wiki/Category:香港の伝記映画 "wikilink") [Category:香港のアクション映画](https://ja.wikipedia.org/wiki/Category:香港のアクション映画 "wikilink") [Category:2000年の映画](https://ja.wikipedia.org/wiki/Category:2000年の映画 "wikilink") [Category:カンフー映画](https://ja.wikipedia.org/wiki/Category:カンフー映画 "wikilink") [Category:死亡遊戯](https://ja.wikipedia.org/wiki/Category:死亡遊戯 "wikilink") [Category:俳優を題材とした作品](https://ja.wikipedia.org/wiki/Category:俳優を題材とした作品 "wikilink")
+
+1.  クローズ版『死亡遊戯』でもリーが戦っている間にティエンやユアンが隅で倒れているショットが見られる。ユアンは1977年に死去していたため、撮影が再開された『死亡遊戯』への出演は不可能であった。
+2.  <http://www.ld-dvd.2-d.jp/gallery2/hikakumoedora.html>　2017年2月閲覧済

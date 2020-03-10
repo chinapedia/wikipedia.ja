@@ -1,0 +1,106 @@
+> この記事は[IV \(\)](https://ja.wikipedia.org/wiki/IV_\(\))から翻訳されています。
+
+
+{{ Infobox 航空機 | 名称=ミラージュIV / [Logo_Mirage_IV.png](https://ja.wikipedia.org/wiki/File:Logo_Mirage_IV.png "fig:Logo_Mirage_IV.png") | 画像=<File:Mirage_IV_A_Musee_du_Bourget_P1020036.JPG> | キャプション=ミラージュIV A
+爆弾倉には[AN-11核爆弾の模擬弾が装着されている](https://ja.wikipedia.org/wiki/AN-11_\(核爆弾\) "wikilink")
+[ル・ブルジェ航空宇宙博物館](https://ja.wikipedia.org/wiki/ル・ブルジェ航空宇宙博物館 "wikilink")の展示機 | 用途=[戦略爆撃](../Page/戦略爆撃.md "wikilink")/[偵察](https://ja.wikipedia.org/wiki/偵察 "wikilink") | 分類=超音速戦略爆撃機 | 設計者=[ダッソー](../Page/ダッソー.md "wikilink")社 | 製造者=[ダッソー](../Page/ダッソー.md "wikilink")社 | 運用者=（[フランス空軍](https://ja.wikipedia.org/wiki/フランス空軍 "wikilink")） | 初飛行年月日=1959年6月17日（ミラージュIV 01） | 生産数=66 | 生産開始年月日=1962年5月29日 | 運用開始年月日=1964年10月1日 | 退役年月日=2005年6月23日 | 運用状況=退役 | ユニットコスト= }} **ミラージュIV**（Mirage IV）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[超音速](https://ja.wikipedia.org/wiki/超音速 "wikilink")[戦略爆撃機](../Page/戦略爆撃機.md "wikilink")。
+
+フランスの核抑止力（*Force de Frappe*）として最初に戦力化された。
+
+## 概要
+
+[第二次中東戦争](https://ja.wikipedia.org/wiki/第二次中東戦争 "wikilink")への[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の介入を受け、独自の[核戦力が必要であると判断したフランスは](https://ja.wikipedia.org/wiki/核兵器 "wikilink")、その一環として[核爆弾](../Page/核爆弾.md "wikilink")とそれを運用する爆撃機の開発を、1950年代半ばより開始した。爆撃機の運用構想では、少なくとも爆撃行における半分の行程を高々度超音速巡航し、敵の防空網から逃れられることが求められた。
+
+当時、[ミラージュIIIAの開発中であったダッソーでは](https://ja.wikipedia.org/wiki/ミラージュIII_\(戦闘機\) "wikilink")、並行して双発の攻撃機を開発することとなったが、1956年11月に爆撃機としての方向性が固まり、まず、超音速巡航飛行による問題点を洗い出すため（当時、マッハ1.8以上の巡航速度で飛行する航空機は存在しなかった）、[試験機](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")**ミラージュIV 01**（Mirage IV 01）が製作される事となった。その任務の性格上ナビゲーターを伴うため複座機として開発されることとなった機体は、ミラージュIIIを複座化して拡大したような機体となり、ほぼ2倍の翼面積、機体重量、複座、双発、3倍の機内燃料を有する機体として完成した。試作機はパリ近郊の工場で18ヶ月を要して完成し、その構造・設計にはミラージュIIIに比べて、特に超音速飛行時の温度変化による金属の収縮・膨張に配慮された設計となっていた。
+
+1959年6月17日、ロラン・グラヴァニが操縦するミラージュIV 01は初飛行に成功した。3日後の6月20日、第23回[パリ・エアショー開催中の](https://ja.wikipedia.org/wiki/パリ航空ショー "wikilink")[ル・ブルジェ空港](https://ja.wikipedia.org/wiki/ル・ブルジェ空港 "wikilink")で[シャルル・ド・ゴール](https://ja.wikipedia.org/wiki/シャルル・ド・ゴール "wikilink")大統領を含む観客の上空をフライパスしたのが、一般へのデビューとなった。
+
+その後、ミラージュIV 01は試験飛行を続け、1960年9月19日には1,000kmを時速1,822kmで飛行する当時の世界記録を樹立し、9月22日には500kmを時速1,972kmで飛行した（マッハ2.08～2.14で飛行したことになる）。
+
+一方、ソビエト領内へ侵攻するには航続力が不足であるとして、1959年5月5日には、より大型の機体の開発が**ミラージュIV B**（Mirage IV B）の計画名称で開始され、1961年6月1日の完成を目標に3機が発注された。この計画では、機体を更に2倍ほど大型化し、[スネクマ](https://ja.wikipedia.org/wiki/スネクマ "wikilink")社製[アター9](https://ja.wikipedia.org/wiki/スネクマ_アター "wikilink") ターボジェットに換えて[プラットアンドホイットニー](https://ja.wikipedia.org/wiki/プラットアンドホイットニー "wikilink")のJ75を使用する計画であったが、[ライセンス生産](https://ja.wikipedia.org/wiki/ライセンス生産 "wikilink")によるエンジンの使用を回避するため、縮小型の**ミラージュIV A**（Mirage IV A）計画が選択され、1959年9月にミラージュIV B計画は終了した。
+
+ミラージュIV Aは、ミラージュIV 01を拡大することにより燃料搭載量を30%増加させた上で[空中給油](https://ja.wikipedia.org/wiki/空中給油 "wikilink")受油機構を追加した機体に、[スネクマ](https://ja.wikipedia.org/wiki/スネクマ "wikilink")より提案された推力向上型のアター9D（後に9K）エンジンを組み合わせることから設計が開始された。同時に、航法装置及び核爆弾照準装置の開発も行われることとなった。まず、部分的な改良に留められた**ミラージュIV A 02**（Mirage IV A 02）が1961年10月12日に飛行し、全面的に改良が反映された**ミラージュIV A 03**（Mirage IV A 03）と、推力5tのロケット12基による[RATO](https://ja.wikipedia.org/wiki/RATO "wikilink")（噴射式離陸補助装置）にも対応した完成型**ミラージュIV A 04**（Mirage IV A 04）が後に続き、制式化される事となった。
+
+1962年5月29日、50機の発注が行われた。11月4日には12機の発注が上積みされ、1963年12月に生産型の初飛行、1964年2月の納入と続き、10月には最初の飛行隊が編成された。合計62機のミラージュIV Aが1968年3月までに納入され、9個爆撃飛行隊（）と1個練習飛行隊（）が編成された。
+
+尚、ミラージュIV A 及び IV B はイギリス空軍が開発して後に計画が断念された[BAC TSR-2の代替機としてイギリスに提案されたが](https://ja.wikipedia.org/wiki/BAC_TSR-2 "wikilink")、イギリス側の要求する低空高速侵攻能力に乏しいとされ、選定考慮の段階で除外された。
+
+### ミラージュIV P
+
+当初に計画されていた、マッハ1.85の快速を活かした高々度侵入による戦略爆撃機としての運用は、進出半径3,500kmを達成した。しかし、速度に頼った高高度侵入というコンセプトそのものが、既に防空システムの発達により自殺的な行為となっており、1966年には早くも電子技術の発達を反映して低高度侵入による運用へ切り替える方針が立てられたが、これによって速度・進出距離の双方が低下することとなった。更に、1970年代には低高度であっても[無誘導爆弾](https://ja.wikipedia.org/wiki/無誘導爆弾 "wikilink")による攻撃は危険性が高くなり、[空対地](../Page/空対地ミサイル.md "wikilink")[巡航ミサイル](../Page/巡航ミサイル.md "wikilink")[ASMPの開発と平行して](../Page/ASMP_\(ミサイル\).md "wikilink")、ASMPへの対応を含めた改造型ミラージュIV N、後に変更され**ミラージュIV P**（Mirage IV P）となる型の開発が開始された。Pは、（戦略侵攻型）の頭文字である。
+
+ミラージュIV Pは、ASMP1発か偵察用カメラポッドのいずれかを機体下部に搭載可能であった。1982年10月12日に初飛行を遂げ、18機が改造され、1986年5月1日に戦力化された。
+
+ミラージュIVは長らく[弾道ミサイル](../Page/弾道ミサイル.md "wikilink")及び[弾道ミサイル潜水艦](https://ja.wikipedia.org/wiki/弾道ミサイル潜水艦 "wikilink")と共にフランス核戦力（*Force de Frappe*）の三本柱を担ったが、基本設計の古さは否めず、また老朽化も進んでいたために、1996年、核兵器運用任務を[ミラージュ2000Nに引き継ぎ](https://ja.wikipedia.org/wiki/ミラージュ2000N/D_\(航空機\) "wikilink")、残るミラージュIV Pは、全て偵察飛行隊（）に転属された。当初の予定では偵察飛行隊もミラージュ2000Nに更新する予定であったが、搭載予定の新型偵察ポッドが間に合わず、暫定的に[ミラージュF1CRに引き継ぐ形で](https://ja.wikipedia.org/wiki/ミラージュF1_\(戦闘機\) "wikilink")2005年6月23日に退役し、全ての機体が退役した。
+
+## 実戦での運用
+
+ミラージュIVは本来の戦略爆撃機としては実戦に投入されたことはなく、核兵器搭載機としての実戦運用は1966年7月19日に[ファンガタウファ環礁](https://ja.wikipedia.org/wiki/ファンガタウファ環礁 "wikilink")で行われた[核実験](https://ja.wikipedia.org/wiki/核実験 "wikilink")で、[AN-11](https://ja.wikipedia.org/wiki/AN-11_\(核爆弾\) "wikilink")[核爆弾](../Page/核爆弾.md "wikilink")を投下したのみである。
+
+偵察機としては、偵察飛行隊に移管後のミラージュIV Pが、[イラク](../Page/イラク.md "wikilink")（1998年～2003年）、[コソボ](../Page/コソボ.md "wikilink")（1999年）、[アフガニスタン](../Page/アフガニスタン.md "wikilink")（2001年）等で運用されている。
+
+## 機体
+
+[Mirage_IV_DN-ST-87-02585.JPEG](https://ja.wikipedia.org/wiki/File:Mirage_IV_DN-ST-87-02585.JPEG "fig:Mirage_IV_DN-ST-87-02585.JPEG") 大型の[デルタ翼](https://ja.wikipedia.org/wiki/デルタ翼 "wikilink")、胴体両脇の[エアインテーク](../Page/エアインテーク.md "wikilink")、アター9エンジン（2基）により全体的な印象はミラージュIIIの拡大発展型となっている。最大速度はマッハ2超を発揮することが可能だが、高度などの周辺環境にもよるが出せる速度はマッハ2.2が限界とされている。エンジンの燃費が悪いこともあり、機内には14,000リットルもの燃料タンクを持ち、更に両翼下に大型の増槽を装備することが可能な他、空中受油装置を装備する。
+
+操縦席は乗員が前後に並んで搭乗するタンデム型で、キャノピーは分割されている。機首には給油用のプローブが収納されているため、レーダーは珍しく機首ではなく胴体下部（左右のエアインテークの間）に収められている。両翼にはそれぞれ2本の[パイロン](https://ja.wikipedia.org/wiki/パイロン "wikilink")があり、内側には2,500リットルの増槽、外側にはECMポッドやチャフ／フレアディスペンサーなどを搭載する。内側パイロンには通常爆弾の装備も可能であった。
+
+胴体下部のエンジン間は各種兵装を半埋め込み式に搭載する兵装ステーションとなっており、核爆弾以外にも通常爆弾の搭載が可能で、ミラージュIV PではASMPを搭載できた。IV Aのうち1972年以降に生産された後期生産型の12機は、CT-52偵察用カメラポッドの搭載にも対応していた。CT-52は低高度/高々度のそれぞれに4機のフィルム式カメラを装備し、赤外線画像の撮影にも対応していた。
+
+## 派生型
+
+  - ミラージュIV 01
+    試験機。1機製作。
+      - ミラージュIV A 02
+        IV 01の部分改良型。一部装置を搭載していない飛行試験機。
+      - ミラージュIV A 03
+        全面改良型。爆撃システム等搭載した実用試作機。
+      - ミラージュIV A 04
+        [RATO](https://ja.wikipedia.org/wiki/RATO "wikilink")に対応した完全実用型。
+  - ミラージュIV A
+    生産型。62機生産。
+      - ミラージュIV N
+        A改造の近代化型。IV P と改称。
+  - ミラージュIV P
+    ASMP 巡航ミサイルの運用能力他を追加した性能向上型。IV N より改称。IV A より18機が改修。
+  - ミラージュIV B
+    開発中止となった長距離型。
+  - ミラージュIV TSR.X
+    イギリス空軍に提案された型。選定されず。
+
+## 要目（ミラージュIV P）
+
+[Mirage_IVP_-_CI.jpg](https://ja.wikipedia.org/wiki/File:Mirage_IVP_-_CI.jpg "fig:Mirage_IVP_-_CI.jpg")
+
+  - 全長：23.49 m
+  - 全幅：11.85 m
+  - 全高：5.65 m
+  - 翼面積：78m<sup>2</sup>
+  - 翼面荷重：405 - 429kg/m<sup>2</sup>
+  - 空虚重量：14,500kg
+  - 搭載重量：31,600kg
+  - 最大離陸重量：33,475kg
+  - 最高速度：マッハ2.2(高度 11,000 m)
+  - エンジン：[スネクマ アター 9K50](https://ja.wikipedia.org/wiki/スネクマ_アター "wikilink") 2基
+      - 出力：65kN
+      - 推力重量比：0.46
+  - 航続距離：4,000km(増槽使用時)
+  - 戦闘行動半径：1,240km
+  - 実用上昇限度：20,000m
+  - 上昇速度：43.1m/s
+  - 乗員：2人
+  - 武装
+      - 胴体： [AN-11または](https://ja.wikipedia.org/wiki/AN-11_\(核爆弾\) "wikilink")[AN-22核爆弾](https://ja.wikipedia.org/wiki/AN-22_\(核爆弾\) "wikilink")、CT-52偵察ポッド、ASMP（IV P改造後）
+      - 翼下： 増槽、ECMポッド、通常爆弾など6,800kgまで
+
+## 関連項目
+
+  - [ル・ルドゥタブル級原子力潜水艦](../Page/ル・ルドゥタブル級原子力潜水艦.md "wikilink")
+  - [プリュトン (ミサイル)](https://ja.wikipedia.org/wiki/プリュトン_\(ミサイル\) "wikilink")
+
+## 外部リンク
+
+  - [Dassauly form A to Z](http://www.dassault-aviation.com/passion/gb/dassault_a_a_z/avions/detail.cfm?id=81)
+  - [ミラージュIVの画像と略歴（フランス語）](http://perso.orange.fr/aeromil-yf/mirage_iv.htm)
+
+[Category:フランスの爆撃機](https://ja.wikipedia.org/wiki/Category:フランスの爆撃機 "wikilink") [Category:戦略爆撃機](https://ja.wikipedia.org/wiki/Category:戦略爆撃機 "wikilink") [Category:ダッソーの航空機](https://ja.wikipedia.org/wiki/Category:ダッソーの航空機 "wikilink")

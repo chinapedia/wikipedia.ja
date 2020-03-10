@@ -1,0 +1,128 @@
+> この記事は[Glow \(\)](https://ja.wikipedia.org/wiki/Glow_\(\))から翻訳されています。
+
+
+**株式会社glow**（グロウ）は、[ノンリニア編集](https://ja.wikipedia.org/wiki/ノンリニア編集 "wikilink")と[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")（CG）を主体とした[ポストプロダクション](https://ja.wikipedia.org/wiki/ポストプロダクション "wikilink")である。
+
+## 沿革
+
+  - 2006年7月18日 - [スウィッシュ・ジャパン](https://ja.wikipedia.org/wiki/スウィッシュ・ジャパン "wikilink")編集CG部から分社化に設立。
+  - 2007年10月 - 株式会社umpdが株式会社glowに社名変更。
+  - 2009年6月 - 品川区上大崎から港区芝大門に移転。MA室を増設。
+
+## 役員
+
+  - 代表取締役：馬場革
+  - 取締役：小城功夫
+
+## 所属スタッフ
+
+### ノンリニア編集
+
+  - 藤井竜也
+  - 生江正俊
+  - 井川貴史
+
+### CG
+
+  - 林 宏美
+
+## 主な作品
+
+（判例）**太字**：現在放映中の番組。編：編集のみ、C：CGのみ、☆：編集・MA、無：編集・CG。
+
+### テレビ番組
+
+#### 2006年7月〜2009年12月
+
+  - レギュラー番組
+
+<!-- end list -->
+
+  - [NUDE](https://ja.wikipedia.org/wiki/NUDE "wikilink")（[テレビ大阪](../Page/テレビ大阪.md "wikilink")、[スクラッチ](https://ja.wikipedia.org/wiki/スクラッチ_\(テレビ制作会社\) "wikilink")　2003年1月6日〜2007年3月30日、業務開始は2006年7月以降）
+  - [浜ちゃんと\!](https://ja.wikipedia.org/wiki/浜ちゃんと! "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")、[ビーダッシュ](https://ja.wikipedia.org/wiki/ビーダッシュ "wikilink")　2003年10月4日〜2008年9月25日、業務開始は2006年7月以降）
+  - [ロンブーの怪傑\!トリックスター](https://ja.wikipedia.org/wiki/ロンブーの怪傑!トリックスター "wikilink")（テレビ東京、吉本興業、ビーダッシュ　2006年4月7日〜2009年4月3日）
+  - [ニッポン縦断おかず発見\!ルート88](https://ja.wikipedia.org/wiki/ニッポン縦断おかず発見!ルート88 "wikilink")（[中京テレビ](../Page/中京テレビ放送.md "wikilink")、吉本興業、ビーダッシュ　2008年4月6日〜2009年3月29日）
+  - **[浜ちゃんが\!](https://ja.wikipedia.org/wiki/浜ちゃんが! "wikilink")**（読売テレビ、吉本興業、ビーダッシュ　2008年10月2日〜）
+  - [フットンダ](https://ja.wikipedia.org/wiki/フットンダ "wikilink")（中京テレビ、吉本興業、ビーダッシュ　2009年4月1日〜2014年3月25日）
+
+<!-- end list -->
+
+  - スペシャル番組
+
+<!-- end list -->
+
+  - [すくいず\!](https://ja.wikipedia.org/wiki/すくいず! "wikilink") [いきなりプレゼント GET OR LOST](https://ja.wikipedia.org/wiki/いきなりプレゼント_GET_OR_LOST "wikilink")（テレビ朝日、古舘プロジェクト、ビーダッシュ　2007年6月27日〜7月4日）
+  - [一攫千金ヤマワケQ\! "責任者はお前だ\!"](https://ja.wikipedia.org/wiki/一攫千金ヤマワケQ!_"責任者はお前だ!" "wikilink")（ABC、吉本興業、ビーダッシュ　2007年9月21日〜2008年10月7日）
+  - [お笑いエピソードGP THE芸人伝説\!](https://ja.wikipedia.org/wiki/お笑いエピソードGP_THE芸人大図鑑 "wikilink")（ABC、吉本興業、ビーダッシュ　2009年4月3日）
+  - [おしろツアーズ](https://ja.wikipedia.org/wiki/おしろツアーズ "wikilink") 〜お城好き芸能人大集合SP〜（[東海テレビ](../Page/東海テレビ放送.md "wikilink")、[東海テレビプロダクション](../Page/東海テレビプロダクション.md "wikilink")、吉本興業、ビーダッシュ　2009年9月14日）
+  - [お笑いエピソードGP THE芸人大図鑑](https://ja.wikipedia.org/wiki/お笑いエピソードGP_THE芸人大図鑑 "wikilink")（ABC、吉本興業、ビーダッシュ　2009年10月2日）
+
+#### 2010年代
+
+  - レギュラー番組
+
+<!-- end list -->
+
+  - [ミュージャック](https://ja.wikipedia.org/wiki/ミュージャック "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")、[メディアプルポ](https://ja.wikipedia.org/wiki/メディアプルポ "wikilink")）
+  - [ニッポン インポッシブル](https://ja.wikipedia.org/wiki/ニッポン_インポッシブル "wikilink")（フジテレビ、ディ・コンプレックス　2010年10月12日〜2011年3月15日）
+  - [333 トリオさん](https://ja.wikipedia.org/wiki/333_トリオさん "wikilink")（テレビ朝日、吉本興業、ビーダッシュ　2010年10月30日〜2015年9月27日）
+  - [Oh\!どや顔サミット](https://ja.wikipedia.org/wiki/Oh!どや顔サミット "wikilink")（ABC、吉本興業、ビーダッシュ　2011年4月15日〜2013年3月1日）
+  - [ジャパーン47ch](https://ja.wikipedia.org/wiki/ジャパーン47ch "wikilink")（毎日放送、吉本興業、ジャパンプロデュース、ビーダッシュ　2011年4月27日〜9月21日）☆
+  - ジャパーン47chスーパー\!（毎日放送、吉本興業、ジャパンプロデュース、ビーダッシュ　2011年10月19日〜12月7日）☆
+  - [千原★芸能社](https://ja.wikipedia.org/wiki/千原芸能社 "wikilink")（関西テレビ、吉本興業、[ウインズウイン](https://ja.wikipedia.org/wiki/ウインズウイン "wikilink")　2012年1月12日〜3月29日）
+  - [広告の番組 ヒットの秘密\! 世界★オモシロCMグランプリ](https://ja.wikipedia.org/wiki/ヒットの秘密 "wikilink")（テレビ東京、共同テレビ　2012年4月15日〜2014年9月28日）編
+  - [使える芸能人は誰だ\!?プレッシャーバトル\!\!](https://ja.wikipedia.org/wiki/プレバト!! "wikilink")（毎日放送、吉本興業、ビーダッシュ　2012年10月11日〜2013年6月）
+  - ヒットの復習（テレビ東京、共同テレビ　2012年11月4日〜12月30日）編
+  - [AKB子兎道場](https://ja.wikipedia.org/wiki/AKB子兎道場 "wikilink")（[電通](../Page/電通.md "wikilink")、[ロコモーション](https://ja.wikipedia.org/wiki/ロコモーション_\(企業\) "wikilink")　2012年12月7日〜2014年3月28日）編
+  - ヒットの秘密 BIZ（テレビ東京、共同テレビ、ホールマン　2013年1月6日〜3月31日）
+  - **[プレバト\!\!](https://ja.wikipedia.org/wiki/プレバト!! "wikilink")**（毎日放送、吉本興業、ビーダッシュ　2013年7月〜）
+  - [ビックラコイタ箱](https://ja.wikipedia.org/wiki/ビックラコイタ箱 "wikilink")（中京テレビ、吉本興業、ビーダッシュ　2014年4月1日〜2016年9月27日）編
+  - [ペットの王国 ワンだランド](https://ja.wikipedia.org/wiki/ペットの王国_ワンだランド "wikilink")（ABC、ビーダッシュ　2014年10月5日〜2017年3月16日）編
+  - [ザ・ラストヒロイン〜ワルキューレの審判〜](https://ja.wikipedia.org/wiki/ザ・ラストヒロイン〜ワルキューレの審判〜 "wikilink")（東海テレビ、[ソニーミュージック](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")、ビーダッシュ　2015年1月〜6月）編
+  - [チェンジ3](https://ja.wikipedia.org/wiki/チェンジ3 "wikilink")（テレビ朝日、吉本興業、ビーダッシュ　2015年10月4日〜2017年9月26日）編
+  - [センニュウ★感](https://ja.wikipedia.org/wiki/センニュウ★感 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")　2014年10月6日〜2016年3月27日）
+  - [ほぼほぼ](https://ja.wikipedia.org/wiki/ほぼほぼ "wikilink")～真夜中のツギクルモノ探し～（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、共同テレビ、ベイシス　2016年4月6日〜2017年4月1日）
+  - **[採用\!フリップNEWS](https://ja.wikipedia.org/wiki/採用!フリップNEWS "wikilink")**（中京テレビ、吉本興業、ビーダッシュ　2016年10月4日〜）
+  - **[ごるごる](https://ja.wikipedia.org/wiki/ごるごる "wikilink")**（毎日放送、吉本興業、ビーダッシュ　2017年10月6日〜）
+  - **[※注 芸人調べ](https://ja.wikipedia.org/wiki/※注_芸人調べ "wikilink")**（テレビ朝日、吉本興業、オフィスクライン　2017年10月6日〜）
+
+<!-- end list -->
+
+  - スペシャル番組
+
+<!-- end list -->
+
+  - ロンブーの怪傑\!トリックスター〜芸能人に挑戦状SP\!\!〜（テレビ東京、吉本興業、ビーダッシュ　2010年4月2日）
+  - おしろツアーズ 〜絶対行きたくなる\!おもしろ名城旅〜（東海テレビ、東海テレビプロダクション、吉本興業、ビーダッシュ　2010年5月16日）
+  - おしろツアーズ2 〜絶対行きたくなる\!おもしろ名城旅〜（東海テレビ、東海テレビプロダクション、吉本興業、ビーダッシュ　2010年12月5日）
+  - 世界\!どや顔サミット（ABC、吉本興業、ビーダッシュ　2010年12月17日）
+  - **[タカアンドトシのおねだり牛肉宅配便](https://ja.wikipedia.org/wiki/タカアンドトシのおねだり牛肉宅配便 "wikilink")**（中京テレビ、吉本興業、ビーダッシュ　2012年2月5日〜）
+  - おしろツアーズ3 〜絶対行きたくなる\!おもしろ名城旅〜（東海テレビ、東海テレビプロダクション、吉本興業、ビーダッシュ　2011年12月4日）
+  - **[芸人ベストパフォーマンス](https://ja.wikipedia.org/wiki/芸人ベストパフォーマンス "wikilink")**（毎日放送、吉本興業、ビーダッシュ　2012年3月7日〜）
+  - [王様のチョイス\!〜使える芸能人は誰だ\!?〜](https://ja.wikipedia.org/wiki/使える芸能人は誰だ!?プレッシャーバトル!! "wikilink")（毎日放送、吉本興業、ビーダッシュ　2012年8月9日）
+  - 特別なヒットの秘密\!（テレビ東京、共同テレビ　2012年9月9日）
+  - おしろツアーズ4 〜絶対行きたくなる\!おもしろ名城旅〜（東海テレビ、東海テレビプロダクション、吉本興業、ビーダッシュ　2012年12月2日）
+  - [タカトシの上がり目下がり目](https://ja.wikipedia.org/wiki/タカトシの上がり目下がり目 "wikilink")（TBS　2013年3月25日）編
+  - [笑える新世代の逆襲 よくできたネタ\!テン](https://ja.wikipedia.org/wiki/笑える新世代の逆襲_よくできたネタ!テン "wikilink")（TBS、吉本興業、ビーダッシュ　2013年4月1日）編
+  - [芸能人格付けチェック](https://ja.wikipedia.org/wiki/芸能人格付けチェック "wikilink")〜主婦芸能人に品格はあるのか\!?スペシャル〜（ABC、吉本興業、ビーダッシュ　2013年10月4日）編
+  - おしろツアーズ5 〜絶対行きたくなる\!おもしろ名城旅〜（東海テレビ、東海テレビプロダクション、吉本興業、ビーダッシュ　2013年12月1日）
+  - おしろツアーズ 〜絶対行きたくなる\!おもしろ名城旅〜（東海テレビ、東海テレビプロダクション、吉本興業、ビーダッシュ　2014年7月22日）
+  - 芸能人格付けチェック〜大御所芸能人に品格はあるのか\!?スペシャル〜（ABC、吉本興業、ビーダッシュ　2014年11月11日）編
+  - 芸能人格付けチェック〜大御所芸能人に常識はあるのか\!?スペシャル〜（ABC、吉本興業、ビーダッシュ　2015年3月31日）編
+
+### ネット動画配信
+
+#### 2010年代
+
+  - レギュラー番組
+
+<!-- end list -->
+
+  - [おもてなしグルメ旅](https://ja.wikipedia.org/wiki/おもてなしグルメ旅 "wikilink")（[Amazonプライム・ビデオ](https://ja.wikipedia.org/wiki/Amazon.co.jp#Amazonプライム "wikilink")、吉本興業、YDクリエイション、ビーダッシュ　2016年11月16日〜）編
+  - **[戦闘車](https://ja.wikipedia.org/wiki/戦闘車_\(バラエティ番組\) "wikilink")**（Amazonプライム・ビデオ、吉本興業、YDクリエイション、ビーダッシュ　2017年10月6日〜）編
+
+## 外部リンク
+
+  - [glow official HP](http://www.g6w.jp/)
+
+[Category:テレビ技術会社](https://ja.wikipedia.org/wiki/Category:テレビ技術会社 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:2006年設立の企業](https://ja.wikipedia.org/wiki/Category:2006年設立の企業 "wikilink")

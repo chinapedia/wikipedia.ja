@@ -1,0 +1,290 @@
+> この記事は[ZERO \(\)](https://ja.wikipedia.org/wiki/ZERO_\(\))から翻訳されています。
+
+
+『**ZERO**』（ゼロ）は、[やまざき貴子](../Page/やまざき貴子.md "wikilink")作の[少女漫画](../Page/少女漫画.md "wikilink")。
+
+[前世](https://ja.wikipedia.org/wiki/前世 "wikilink")と現世が交差し、謎が謎を呼ぶ、[近未来](../Page/近未来.md "wikilink")[SFサバイバル](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[サスペンス](https://ja.wikipedia.org/wiki/サスペンス "wikilink")。
+
+## 概要
+
+1996年8月号の『[LaLa](../Page/LaLa.md "wikilink")』で掲載開始し、2001年より掲載誌を『[月刊メロディ](../Page/MELODY_\(雑誌\).md "wikilink")』に変更、同誌2005年5月号で完結した。
+
+基本的に前後編の2話構成で連載され、「ZERO IV」、「VII」、「IX」、「X」、「XI」は完結編もプラスされ3話構成で掲載された。
+
+## あらすじ
+
+西暦2000年8月、中国の実験用[核爆弾](../Page/核爆弾.md "wikilink")が[房総半島](https://ja.wikipedia.org/wiki/房総半島 "wikilink")沖で爆発、日本は壊滅状態になってしまう。アメリカの手によって[軍事基地](https://ja.wikipedia.org/wiki/軍事基地 "wikilink")「[ZOO](https://ja.wikipedia.org/wiki/#ZOO（ズー） "wikilink")」が建設され、生き残った日本人が収容・管理されることになった。
+
+17年後、ZOOで育った少年・ゲオは、仲間達と「[Zero](https://ja.wikipedia.org/wiki/#Zero（ゼロ） "wikilink")」という薬にハマっていた。これを飲んだ者は共通して、爆発が起こる以前の「自分の[前世](https://ja.wikipedia.org/wiki/前世 "wikilink")」の夢を見ることになる。
+
+そんな中、突然仲間のカイエが何者かに殺されてしまう。嫌疑をかけられたゲオは、もう1人の容疑者・バツと共にZOOを脱走するが、それがきっかけで17年前の爆発が、日本にある世界最大のコンピュータ「[ZIPANGU](https://ja.wikipedia.org/wiki/#PROJECT_ZIPANGU（プロジェクト・ジパング） "wikilink")」を手に入れるためにZOOの[元帥](../Page/元帥.md "wikilink")が仕組んだ「計画」だったことを知る。
+
+ZOOの存在に疑念を抱いたゲオたちは、仲間のアギ・ザットと共にZOOの外の[スラム](https://ja.wikipedia.org/wiki/スラム "wikilink")へと脱出する。元帥の孫であるバツは、ZIPANGUを動かすための要となる「[クリスタル・チップ](https://ja.wikipedia.org/wiki/#PROJECT_ZIPANGU（プロジェクト・ジパング） "wikilink")」を父の形見として持っていた。それを狙う元帥は執拗にバツを追う。
+
+一方Zeroの夢の世界では、不気味な[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")「[PROJECT ZIPANGU](https://ja.wikipedia.org/wiki/#PROJECT_ZIPANGU（プロジェクト・ジパング） "wikilink")」が流行り始める。選ばれた参加者に神々の称号「12天」が与えられるそのゲームは、ZIPANGUで世界を支配するプログラムの始まりだった…。
+
+## 登場人物
+
+### ZOO-Z
+
+  - 影尾 暁（かげお あかつき）
+    前世：遠藤 友也 役名：毘紐天
+    本作の主人公。ゲオと呼ばれている。米軍に追われながら[新都を目指す](https://ja.wikipedia.org/wiki/#新都（しんと） "wikilink")。
+    影尾 明と妹の華月(両親は離婚していて互いに気づかぬまま接触していた)の遺伝子を持つ。
+    核爆弾で華月の死後、卵子を取り出して受精させていた。
+    クローン実験は暁を守る為のフェイク。
+  - 伐・F・永史（バツ フランソワーズ えいし）
+    前世：千堂 知哉／クローン アキラ 役名：弥勒菩薩／大自在天
+    バツと呼ばれている。[ZOO](https://ja.wikipedia.org/wiki/#ZOO（ズー） "wikilink")[元帥](../Page/元帥.md "wikilink")の孫。伐 明史とユヴェールの息子であり、フレッドとは叔父と甥の関係にあたる。 [クリスタル・チップを所有する](https://ja.wikipedia.org/wiki/#PROJECT_ZIPANGU（プロジェクト・ジパング） "wikilink")。
+    伐家に遺伝で現れる人格障害で、またの名を凶悪・凶暴な殺人鬼の性格を持つ「王龍(ワンロン)」。
+    クローン アキラとして生まれ変わり、1〜2週間で死亡し、伐・F・永史として生まれ変わる。
+  - 沙羅 灰依（さら かいえ）
+    前世：阪内 政司 役名：帝釈天
+    カイエと呼ばれている。イザヤの姉。ゲオに想いを寄せている。
+    [12天のキーワードは](https://ja.wikipedia.org/wiki/#PROJECT_ZIPANGU（プロジェクト・ジパング） "wikilink")「**E.O.T.I.M.O.S**」
+  - 阿義 芳亜（あぎ よしあ）
+    前世：横田 元樹 役名：梵天
+    アギと呼ばれている。末期[ガン](https://ja.wikipedia.org/wiki/ガン "wikilink")患者の[痛み止めから](../Page/アヘン.md "wikilink")[Zeroを開発](https://ja.wikipedia.org/wiki/#Zero（ゼロ） "wikilink")。
+    12天のキーワードは「**―（空）**」（「火天」の榎本春香が「Z」として使用される時のみ対として使われる「空間」）
+  - 雑斗田 孝（ざっとだ こう）
+    前世：川松 涼太 役名：焔魔天
+    ザットと呼ばれている。ZOOを出てからは仲間内で一番甲斐甲斐しく働き、炊事・洗濯等なんでもこなす家事係。
+    12天のキーワードは「**E.R.O.O.T.O.R.I.M.O.D.O.E**」
+  - 固加 不二人（こか ふひと）
+    前世：村山 光 役名：羅刹天
+    コカと呼ばれている。Zeroの副作用で眠ったままになる。
+    12天のキーワードは「**S**」
+  - 沙羅 依挫矢（さら いざや）
+    前世：阪内 美代子 役名：毘沙門天
+    イザヤと呼ばれている。カイエの弟。ゲオをカイエを殺した犯人と思いこみ、命を狙う。
+    12天のキーワードは「**R.O.O.R.O.D.E**」
+  - 小川・B・ジュリア（おがわ ブドワール ジュリア）
+    前世：相川 梨香子 役名：毘紐天
+    [ZIPANGUを作動するための要員として米軍にさらわれ](https://ja.wikipedia.org/wiki/#PROJECT_ZIPANGU（プロジェクト・ジパング） "wikilink")、元明に籠の鳥のように扱われる。
+  - 榎本 春香（えのもと はるか） 役名：火天
+    元明の[側室](https://ja.wikipedia.org/wiki/側室 "wikilink")。12天の情報を提供することで、自分の身を守る。
+    12天のキーワードは「**―Z**」（「梵天」の横田元樹と対となって機能する）
+
+### 廃都
+
+  - 雅羅沙（ガラシャ）
+    前世：葉月 洋 役名：風天
+    ガラシャ、またはガラと呼ばれている。シャグナの[双子](https://ja.wikipedia.org/wiki/双子 "wikilink")の兄で恋人。[廃都で伝説の](https://ja.wikipedia.org/wiki/#廃都（はいと） "wikilink")[救世主](https://ja.wikipedia.org/wiki/救世主 "wikilink")として崇められる。
+    12天のキーワードは「**R.T.I.D.E**」
+  - 紗球那耶（シャグナーヤ）
+    前世：那々見 小都 役名：水天
+    シャグナ、またはシャグと呼ばれている。ガラシャの双子の妹で恋人。廃都で伝説の救世主として崇められる。[予知](https://ja.wikipedia.org/wiki/予知 "wikilink")能力を持つ。
+    12天のキーワードは「**E.O.O.O.R.M.O.O**」
+  - 焼 老人（シャオ ラオレン）
+    廃都の影の指導者。爆発後に[孤児](../Page/孤児.md "wikilink")となったタツローを引き取り、息子として育てる。
+  - 木場（きば）
+    [盗賊](https://ja.wikipedia.org/wiki/盗賊 "wikilink")。砂漠の途中でゲオたちと出会い、行動を共にするようになる。
+  - 報（椋囲・むくい）
+    砂漠の途中でゲオたちと出会い、行動を共にするようになる。キバに想いを寄せている。
+
+### 米軍
+
+  - 伐 元明（バツ ウォンミン）
+    ZOOの[元帥](../Page/元帥.md "wikilink")。中国とアメリカの二重[スパイ](../Page/スパイ.md "wikilink")。世界を支配するため、ZIPANGUの起動をもくろみ、12天の抹殺を指示する。
+  - Edward Stuart（エドワード・スチュアート）
+    [大佐](../Page/大佐.md "wikilink")。エディと呼ばれている。元明の指示下でZOOの米軍を取り仕切る。フレッドと同期。
+  - Minerva Juno（ミネルヴァ・ジュノー）
+    [中尉](../Page/中尉.md "wikilink")。バツとクリスタル・チップを奪還するため様々な作戦を仕掛ける。エディの婚約者。
+  - Frederick Skyhawk（フレデリック・スカイホーク）
+    [曹長](https://ja.wikipedia.org/wiki/曹長 "wikilink")。フレッドと呼ばれている。スラムに逃げていたイザヤを保護し、殺人術を教え込む。エディと同期。
+
+### ZONE
+
+  - 立下 順（たてした じゅん） 役名：地天
+    [ZONE勤務の大尉](https://ja.wikipedia.org/wiki/#ZONE（ゾーン） "wikilink")。シゲト・アヤコとはゼロ時代からの友人。
+    12天のキーワードは「**R.T.I.D.E**」
+
+### AIR
+
+  - 飛田 茂人（ひだ しげと） 役名：月天
+    [AIR勤務](https://ja.wikipedia.org/wiki/#AIR（エア） "wikilink")。タテシタの友人。アヤコの夫。
+    12天のキーワードは「**S**」
+  - 飛田 綾子（ひだ あやこ） 役名：日天
+    AIR勤務。タテシタの友人。シゲトの妻。旧姓：**河野（こうの）**。
+    12天のキーワードは「**Z.E.O.O.O.R.M.O.O**」
+  - 飛田 守（ひだ まもる）
+    シゲトとアヤコの息子。
+    銃撃を受け瀕死状態のところを、タテシタに助けられる。
+
+## 世界の動向
+
+西暦2000年8月9日、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")を目標とする[核爆弾](../Page/核爆弾.md "wikilink")投下プロジェクトの発動により、[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")の核爆弾「[小皇帝](../Page/小皇帝.md "wikilink")」が[房総半島](https://ja.wikipedia.org/wiki/房総半島 "wikilink")東側（[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")旧[大原町](https://ja.wikipedia.org/wiki/大原町_\(千葉県\) "wikilink")）に位置する横田理研所上空に投下され、同日14時14分17秒に爆発。この出来事は、表向きには「中国の[核実験](https://ja.wikipedia.org/wiki/核実験 "wikilink")が行われる際、輸送途中にトラブルが起こり、[太平洋](../Page/太平洋.md "wikilink")側の日本近海に核がうちこまれてしまった」ということになっている。以降人々は、2000年のその「事故」以前を、旧暦として「**ゼロ時代**」と呼ぶようになる。
+
+何百万人の犠牲者と都市機能の停止、瓦礫の中に充満する[放射線](https://ja.wikipedia.org/wiki/放射線 "wikilink")に人々は[首都](../Page/首都.md "wikilink")を棄てる。最終的に生き残った3万弱の人々は[ZOOに収容された](https://ja.wikipedia.org/wiki/#ZOO（Zipangu_of_Outside_Observation・ズー） "wikilink")。
+
+## 環境
+
+爆発の局部的な[六フッ化ウラン](https://ja.wikipedia.org/wiki/六フッ化ウラン "wikilink")の燃焼により[オゾン層](https://ja.wikipedia.org/wiki/オゾン層 "wikilink")は消滅、宇宙からの放射線が降り注ぐ。地球規簿で[温暖化](https://ja.wikipedia.org/wiki/温暖化 "wikilink")、[砂漠化](../Page/砂漠化.md "wikilink")が進行。日本は加速度を増して熱せられ、河川は干上がり、土は乾燥し、地形が原形をとどめられていない。爆発から17年後も放射能は消えていないものの、部分的に放射線が薄い部分ができてきている。[砂漠](../Page/砂漠.md "wikilink")は[日較差が激しいため](../Page/気温.md "wikilink")、昼は暑く、夜は寒い。
+
+爆心地近辺の土では植物は育たず、わずかに生息する生物も、放射線の影響で巨大化などの[染色体異常](https://ja.wikipedia.org/wiki/染色体異常 "wikilink")を起こしている。魚は、あらゆる[汚染](https://ja.wikipedia.org/wiki/汚染 "wikilink")物質を食べて[奇形](../Page/奇形.md "wikilink")と化している。
+
+[白血病](../Page/白血病.md "wikilink")・[皮膚病](https://ja.wikipedia.org/wiki/皮膚病 "wikilink")・[甲状腺](../Page/甲状腺.md "wikilink")[ガン](https://ja.wikipedia.org/wiki/ガン "wikilink")など、人々にも[放射線障害](https://ja.wikipedia.org/wiki/放射線障害 "wikilink")や[紫外線](../Page/紫外線.md "wikilink")による影響が多々出現している。特に砂漠での[出生率](https://ja.wikipedia.org/wiki/出生率 "wikilink")は低く、[障害](../Page/障害.md "wikilink")を持って産まれることも多い。
+
+## 組織・地域等
+
+### ZOO（ズー）
+
+アメリカが日本を監視するために作った、表向き日本援助を目的とする[軍事基地](https://ja.wikipedia.org/wiki/軍事基地 "wikilink")。正式名称はZipangu of Outside Observation。「A」から「Z」まで、[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")の数だけ存在する。
+
+収容された日本人で、6歳以上の者はバーコードをつけ、クラス編成され、学業・労働をする義務を負う。大人になるにしたがって、1日のプログラムが学業重視から仕事重視に変わっていき、[半導体](../Page/半導体.md "wikilink")など基地に必要になるものをその都度造る。義務をまっとうすることで点数を得、生活することができる。逆に怠った場合は、体罰・減俸・残業などが課される。適度な運動、適度な余暇、適度な生活を管理され、飢餓も危険も無い毎日を送ることができるが、教えられる情報は体制側にとって都合のいいものとなっている。例えば、ZOOの外は紫外線と放射能汚染で生活できる環境ではないと言われているが、実際は廃都のような対米軍組織が存在したり、日本人の生き残りは10万人弱と言われているが、実際は3万人弱しかいないなど、情報と現実にかなり相違点がある。
+
+作業着のようなユニフォームがある。
+
+  - 登録番号
+    ZOOへ収容された日本人につけられる番号。アルファベット1文字と3桁の数字で表される。身分証明としても用いられる。
+    登録された日本人は、利き腕側の耳に登録番号と名前、生年月日が刻印された[ピアス](https://ja.wikipedia.org/wiki/ピアス "wikilink")をつけられる。ピアスの中には[クリスタル発振子が入っており](https://ja.wikipedia.org/wiki/水晶発振子 "wikilink")、熱で動いている。そのため、装着者が生きている限り電波を出し続け、死亡すると止まる。死亡率が高い上、誰がどこに居るのか分からないため、人口調査として行われている。
+    [東京23区](https://ja.wikipedia.org/wiki/東京23区 "wikilink")以外は、X=[モンゴロイド](https://ja.wikipedia.org/wiki/モンゴロイド "wikilink")、Y=[ネグロイド](../Page/ネグロイド.md "wikilink")、Z=[コーカソイド](../Page/コーカソイド.md "wikilink")に分けられた。
+  - バーコード
+    ZOOにおいて、主に[キャッシュカード](../Page/キャッシュカード.md "wikilink")や[IDカード](https://ja.wikipedia.org/wiki/IDカード "wikilink")のような役割を果たし、発信機としての機能もある。
+    左手首に腕輪状につけられ、取り外しできる仕様にはなっていないが、壊して外すことは容易。
+  - ZOO-Z
+    2001年に房総半島東（千葉県旧大原町）に建設される。爆発後いち早く援助を開始し、施設の規模が大きかったことから、2万人という他のZOOとは桁違いの民間人を収容している。その巨大な収容施設は、一種の[城塞都市](https://ja.wikipedia.org/wiki/城塞都市 "wikilink")のような外観。建物はA棟からE棟まであり、Eにいくにしたがって設備や治安は悪いものとなっている。1階はいつも外気が入るためほとんど人がいない。
+    生活用品は主に自販ショップで賄われる。
+    何か事件があった場合「チェック」という家宅捜査か身辺調査のようなものが行われる。ケンカや競争で男が死ぬことはよくあるが、女は1/7の人数しかいないことで大事にされている上、年配から若輩まで仲が良い。
+    民間人は地下に行けないようになっているが、通気口から進入することは可能で、そこには巨大[コンピュータ](../Page/コンピュータ.md "wikilink")[ZIPANGU](https://ja.wikipedia.org/wiki/#PROJECT_ZIPANGU（プロジェクト_ジパング） "wikilink") が眠っている。米軍がZOO-Zの建設にいち早く着手したのはこれを手にするためであり、また巨大な施設はその存在を隠すためでもある。
+  - 居住区
+    建物の構造から、ドーナツとも呼ばれる。
+    A棟は、[UVカバーシートつきでドアノブにカードを掛ければ食事から洗濯まですべてフロアマザーが世話をするという](../Page/紫外線.md "wikilink")、いわゆる[ホテル](../Page/ホテル.md "wikilink")の高級客室のような待遇になっている。対してE棟は、食事は食堂の[セルフサービス](../Page/セルフサービス.md "wikilink")で、食べ損ねれば自炊、洗濯は各自ランドリーへ行かなけらばならない（ただし洗剤は使い放題）。E棟の中でも特にゲオたち4人の部屋は、外側ネイキッド（むき出し）の屋上部で一番安い場所に位置し、騒音もかなりする。
+  - 後宮
+    元明のプライベートエリア。[側室](https://ja.wikipedia.org/wiki/側室 "wikilink")として一度入ると二度と出ることは許されない。
+  - ZOO-Y
+    米軍の[給油](https://ja.wikipedia.org/wiki/給油 "wikilink")機地。ZOOと名が付いているが、[ゼロ時代の建物を使っており](https://ja.wikipedia.org/wiki/#世界の動向 "wikilink")、使用基地としてただ[ナンバリング](https://ja.wikipedia.org/wiki/ナンバリング "wikilink")されただけであるため、日本人収容型ではない。米兵はほとんど他の基地と接触が無いため隔離されているに等しく、情報に疎い。また、民間人とも仲が良い。
+  - ZOO-X
+    [科学者](../Page/科学者.md "wikilink")の研究室を中心に作られた医療用ZOO。[あきる野に位置し](../Page/あきる野市.md "wikilink")、科学者達は[リニアでこことZOO](https://ja.wikipedia.org/wiki/#リニア "wikilink")-Zを行き来する。
+    旧科学者棟（ZOO-X1）のシンボルである科学者塔を境に、新医療区と旧研究室を兼ねた旧居住区とが分離されている。しかし旧施設は廃屋と化しているため、新科学者棟（ZOO-X2）である新施設のみが機能している。
+    旧居住区の地下には無人化したスラムがあり、旧科学者棟で生み出された巨大生物が息を潜めている。
+  - 育成室
+    ZOO-Xで作り出された[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")体を管理・育成する特別研究室。科学者塔の地下に位置し、科学者塔と個人研究室を結ぶバイパスの要であったが、2001年に突然新科学者棟から切り離される。
+  - 巨大生物
+    旧科学者棟から放たれた生物が、放射線によって巨大化したもの。もはや誰も手を下すことができず、これのため米兵も旧施設には踏み入ることができない。
+    \*ネズミ
+    野生化した[モルモット](https://ja.wikipedia.org/wiki/モルモット "wikilink")。[雑食](https://ja.wikipedia.org/wiki/雑食 "wikilink")性で、木や肉、人までも捕食対称とし、かなりの数に繁殖している。
+    \*バケモノ
+    科学者が[キメラ](../Page/キメラ.md "wikilink")を攻撃性の強い種とかけあわせて下水に放した生物。変態を重ね、放射能で巨大化している。口から[酸](../Page/酸.md "wikilink")を分泌し、[イモムシ](https://ja.wikipedia.org/wiki/イモムシ "wikilink")のような外見を持つ。
+
+### 新都（しんと）
+
+新都市のこと。爆発による放射線で汚染された首都に代わる新しい都市。米軍側の情報ではその存在はハッキリとされていなく、ZOOでは放射能を避けて移動し「[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")」のまま存在するとの噂がある。
+
+### 廃都（はいと）
+
+ZOOから来た者とZOOに収容されなかった者の約2000人で構成されている反ZOO体制組織。[新宿](../Page/新宿.md "wikilink")に位置し、[都庁](https://ja.wikipedia.org/wiki/都庁 "wikilink")の建物は廃都の[シンボル](../Page/シンボル.md "wikilink")になっている。
+
+ZOOから逃げて来た者は全て受け入れており、[傭兵](../Page/傭兵.md "wikilink")として生活させている。元から住んでいる者が志願して傭兵になることも出来る。外部から入ってきた者は住宅区の外側の家が順番に仮屋として保護し、ある程度年配の者が家長を務めることになっている。
+
+米軍は対立組織でありながら、ZOO内スペシャルAクラスの[トップシークレット](https://ja.wikipedia.org/wiki/トップシークレット "wikilink")で街の存在を黙認している。その理由は相互利用にあり、米軍側がリニアでZOO-Zへ運ぶ[アヘン](../Page/アヘン.md "wikilink")や物資を廃都側に略奪させる代わりに、廃都側は[LSIを造り米軍側に提供する仕組み](../Page/集積回路.md "wikilink")。また、互いにスパイを送り込み合っている。アヘンはもともと[末期ガン患者のためのものだが](../Page/悪性腫瘍.md "wikilink")、相互利用の旨としてはLSI工場で仕事の能率を上げるために利用される。飲めば眠らずに働く者もいるが、ミスも多くなる。
+
+廃都側が提供するLSIは、一帯の[磁気嵐](../Page/磁気嵐.md "wikilink")を計算した上で、[ZIPが](https://ja.wikipedia.org/wiki/#PROJECT_ZIPANGU（プロジェクト_ジパング） "wikilink")[電波障害](https://ja.wikipedia.org/wiki/電波障害 "wikilink")による自動制御などで切れる直前に「ze ro o to ri mo do se」という画面表示が出るように細工された[不良品](https://ja.wikipedia.org/wiki/不良品 "wikilink")。これらを潜入している[スパイ](../Page/スパイ.md "wikilink")達がZIPに組み込み、米軍によるZIPの完成を妨害している。
+
+廃都周辺は米軍の[ヘリが偵察のため定時巡回する](../Page/ヘリコプター.md "wikilink")。
+
+都庁の42階には焼の部屋があり、タツローとの密会の場になっている。
+
+  - 双子信仰
+    廃都に伝わる「[半陰陽](https://ja.wikipedia.org/wiki/半陰陽 "wikilink")の神が世界を救う」という[伝説](https://ja.wikipedia.org/wiki/伝説 "wikilink")のもと、砂漠では珍しくなくなった[両性体に代わり](https://ja.wikipedia.org/wiki/#中性体・両性体 "wikilink")、男女の[双子](https://ja.wikipedia.org/wiki/双子 "wikilink")で産まれたガラシャとシャグナが神の子・[救世主](https://ja.wikipedia.org/wiki/救世主 "wikilink")として崇められるようになった。シャグナは[ヴィシュヌ](https://ja.wikipedia.org/wiki/ヴィシュヌ "wikilink")神の生まれ変わりとして[冠婚葬祭](../Page/冠婚葬祭.md "wikilink")を取り仕切り、ガラシャは[ミロクの生まれ変わりとして軍事](../Page/弥勒菩薩.md "wikilink")・政事・大会の象徴とされている。
+
+    街はこの双子信仰を中心に動いており、人々の信仰心は相当なもの。というのも、この伝説は爆発後にアキフミ（焼）が「黙示録ジパング」の名で「[PROJECT ZIPANGU](https://ja.wikipedia.org/wiki/#PROJECT_ZIPANGU（プロジェクト_ジパング） "wikilink")」の黙示録になぞらえて広めたものであり、黙示録とはいっても、実際、爆発はこれによって起こされたものであるため、結果的にその的中性が信仰心を高めている。
+
+  - 地下組織
+
+  - アヘン窟
+    スラムと同じく、本来は病院区だったが、末期ガン患者が増えアヘンを大量に使っているうちに病人以外の者が[中毒](https://ja.wikipedia.org/wiki/中毒 "wikilink")者となり、ほとんど殺人鬼の巣と化している。
+
+### ZONE（ゾーン）
+
+米兵駐屯基地。米兵の一時訓練所。米兵はここから各ZOOへ配属される。
+
+20階まであるが[エレベーター](../Page/エレベーター.md "wikilink")は15階までしか行かない。10階から上は住宅区、17階より上へは[士官](https://ja.wikipedia.org/wiki/士官 "wikilink")クラスの兵しか入ることが出来ない。部屋は電子ロック。
+
+### AIR（エア）
+
+アメリカからの空輸基地。[八王子](../Page/八王子.md "wikilink")に位置する。物資はここからリニアで各ZOOへ運ばれる。
+
+### リニア
+
+ZOO-ZからAIRまでをつなぎ、主にアメリカからの物資を各ZOOへ運ぶ役割を担う。ZOO-Zの人間と廃都の人間の相互利用にも使われる。
+
+## 用語
+
+### Zero（ゼロ）
+
+薬品名170-1248の通称。登録番号無し。[モルヒネ](../Page/モルヒネ.md "wikilink")から抽出されたアヘンアルカロイドの混合物。いわば[麻薬](../Page/麻薬.md "wikilink")である。
+
+末期ガン患者の痛み止めとして使用されている[アヘン](../Page/アヘン.md "wikilink")を原料にアギが開発。比較的高値で取引され、アギの造った薬から成分を調べて造る者も存在し、[ZOO内外かなりの範囲に出回る](https://ja.wikipedia.org/wiki/#ZOO（ズー） "wikilink")。
+
+本人の脳の記憶の一番楽しかった時期を思い出しやすいように手助けする作用があるだけで強い概念はない。しかし大部分の人間の脳の記憶がゼロ時代に固執しているため、ほとんどが2000年以前頃の自分（または自分の前世）の記憶の夢を見る。このことから「Zero」と呼ばれるようになる。
+
+飲むと眠くなり、眠っている間は全身の力が抜けたようになる。後遺症も無く寝覚めがいいことや、通常の夢と違いリアルな「感覚」が得られることから、[睡眠薬](https://ja.wikipedia.org/wiki/睡眠薬 "wikilink")代わりや一種の娯楽として簡単に使用されていた。しかししばらくして、バッド[トリップ](https://ja.wikipedia.org/wiki/トリップ "wikilink")して暴れたり、[夢遊病のような状態になったり](https://ja.wikipedia.org/wiki/睡眠時遊行症 "wikilink")、と副作用の出る者が現れ始める。
+
+カイエの事件後ZOO内で本格的なチェックが行われ、2017年7月に全て没収・処分され禁止となる。しかし依然として出回り、その結果「Zero症候群患者」を大量に生み出すことになる。
+
+白い[カプセル剤](https://ja.wikipedia.org/wiki/カプセル剤 "wikilink")であり、作中で「[錠剤](https://ja.wikipedia.org/wiki/錠剤 "wikilink")」「[タブレット](https://ja.wikipedia.org/wiki/タブレット "wikilink")」と表されることがあるが、これは間違いである。
+
+  - Zero症候群（ゼロシンドローム）
+    Zeroの夢の中の核爆発の衝撃にとらわれ、眠ったままになる病。重症化すると死に至り、全身に[ケロイド](../Page/ケロイド.md "wikilink")が現れる。
+
+### PROJECT ZIPANGU（プロジェクト・ジパング）
+
+クリスタル・チップに入った、ZIPANGUによって世界を支配するプログラムの初期設定。[ヒンドゥー教](../Page/ヒンドゥー教.md "wikilink")の物語風の[ゲーム](../Page/ゲーム.md "wikilink")を終了させると、ゲームに参加した人物の中から、プログラム停止のキーワードを所有する12人（12天）と、プログラムを支配する2人（ミロク・ヴィシュヌ）が登録され、日本を目標とする核爆弾の着弾点が決定する。チップを持ち出し、解析を始めた横田らによって世間で謎のゲームとして広まり、全ての席がごく普通の生活を送る一般人によって埋められる。
+
+  - ZIPAMGU（ジパング）
+    ゼロ時代に横田理研所によって製作された世界最大のコンピュータ。通称「ZIP」。
+    破壊兵器含む、世界中のコンピュータを操ることができる超[頭脳を持つ](../Page/人工知能.md "wikilink")。
+  - クリスタル・チップ
+    初期プログラムの書き込まれた[ディスク](../Page/電子媒体.md "wikilink")。純度の高い[水晶](https://ja.wikipedia.org/wiki/水晶 "wikilink")で、強い紫外線も一切吸収しない完璧な[単結晶](../Page/単結晶.md "wikilink")。複雑な[電波](../Page/電波.md "wikilink")で作動する。
+  - キーワード
+    「Z・E・R・O・O・T・O・R・I・M・O・D・O・S・E」の15個のアルファベットのうち、いくつかが組み合わさったもの。12天にそれぞれ与えられ、通常3人一組で全てのアルファベットが揃う（これを「キーワードが成立する」という）。設定当初は15個を等分しただけだったが、横田が解析を終えた際、遊び半分の遠藤によってランダムに振り分けられた。
+  - 12天
+    PROJECT ZIANGUで登録された、プログラム停止のキーワードを所有する12人。キーワードの成立する組がZIPANGUに確認されると、ZIPANGUを自爆させ、破壊することができる。
+    [仏教](../Page/仏教.md "wikilink")の[護法善神](https://ja.wikipedia.org/wiki/護法善神 "wikilink")「[十二天](https://ja.wikipedia.org/wiki/十二天 "wikilink")」をもとにしている。
+      - [梵天](../Page/梵天.md "wikilink")
+      - [地天](https://ja.wikipedia.org/wiki/地天 "wikilink")
+      - [日天](https://ja.wikipedia.org/wiki/日天 "wikilink")
+      - [月天](https://ja.wikipedia.org/wiki/月天 "wikilink")
+      - [帝釈天](../Page/帝釈天.md "wikilink")
+      - [毘沙門天](../Page/毘沙門天.md "wikilink")
+      - [焔魔天](https://ja.wikipedia.org/wiki/焔摩天 "wikilink")
+      - [水天](https://ja.wikipedia.org/wiki/水天 "wikilink")
+      - [風天](https://ja.wikipedia.org/wiki/風天 "wikilink")
+      - [羅刹天](https://ja.wikipedia.org/wiki/羅刹天 "wikilink")
+      - [火天](https://ja.wikipedia.org/wiki/火天 "wikilink")
+      - [大自在天](https://ja.wikipedia.org/wiki/大自在天 "wikilink")（[シヴァ](../Page/シヴァ.md "wikilink")）
+    シヴァは12天の1人でありながら、停止キーワードの成立を阻止する役として設定された。
+  - [弥勒菩薩](../Page/弥勒菩薩.md "wikilink")（ミロク）
+    ヴィシュヌと対になる存在。
+  - [毘紐天](https://ja.wikipedia.org/wiki/ヴィシュヌ "wikilink")（ヴィシュヌ）
+    ミロクと対になる存在。PROJECT ZIPANGUを停止させるパスワードを入力した際、どうするか決めることが出来る、12天の上位に立つ。全ての解析を終えた横田の咄嗟の判断で2名登録された。
+
+### 中性体・両性体
+
+環境の変化に適応するため、[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の[突然変異](../Page/突然変異.md "wikilink")で生まれる半陰陽体。幼児期の死亡率の高い時期を越えたあとは、ほとんどが11-12歳くらいまでに[分化](https://ja.wikipedia.org/wiki/分化 "wikilink")する。ZOOではほとんど知られていないが、砂漠での出産率は高く、放射線の影響により染色体異常が起こったことで異常発生している。極端な女性減少の影響か、[環境ホルモンの影響か](../Page/内分泌攪乱物質.md "wikilink")、大抵女性に分化すると言われる。
+
+## 余談
+
+作中でゲオやタツローが歌っているのは、ディズニーアニメ映画『ピーターパン』の主題歌である『右から2番目の星（The Second Star To The Right）』という歌である。
+
+## 関連項目
+
+  - [白泉社](../Page/白泉社.md "wikilink")
+
+## 単行本
+
+  - [白泉社](../Page/白泉社.md "wikilink")〈[花とゆめコミックス](https://ja.wikipedia.org/wiki/花とゆめコミックス "wikilink")〉全11巻
+    1.  『ZERO I』1997年6月5日発売、ISBN 4592128710
+    2.  『ZERO II』1998年8月5日発売、ISBN 4592175522
+    3.  『ZERO III』1999年7月5日発売、ISBN 4592175530
+    4.  『ZERO IV』2000年8月5日発売、ISBN 4592175549
+    5.  『ZERO V』2001年8月4日発売、ISBN 4592175557
+    6.  『ZERO VI』2002年8月5日発売、ISBN 4592175565
+    7.  『ZERO VII』2003年8月5日発売、ISBN 4592175573
+    8.  『ZERO VIII』2004年10月5日発売、ISBN 4592175581
+    9.  『ZERO IX』2005年8月5日発売、ISBN 459217559X
+    10. 『ZERO X』2006年10月5日発売、ISBN 4592175603
+    11. 『ZERO XI』2006年10月5日発売、ISBN 4592174011
+
+[Category:漫画作品_せ](https://ja.wikipedia.org/wiki/Category:漫画作品_せ "wikilink") [Category:LaLa](https://ja.wikipedia.org/wiki/Category:LaLa "wikilink") [Category:MELODY](https://ja.wikipedia.org/wiki/Category:MELODY "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:クローンを題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:クローンを題材としたフィクション作品 "wikilink") [Category:転生を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:転生を題材とした漫画作品 "wikilink") [Category:未来を題材にした作品](https://ja.wikipedia.org/wiki/Category:未来を題材にした作品 "wikilink") [Category:薬物を題材とした作品](https://ja.wikipedia.org/wiki/Category:薬物を題材とした作品 "wikilink")

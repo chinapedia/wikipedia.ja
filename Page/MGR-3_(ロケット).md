@@ -1,0 +1,91 @@
+> この記事は[MGR-3 \(\)](https://ja.wikipedia.org/wiki/MGR-3_\(\))から翻訳されています。
+
+
+{{ Infobox 航空機 | 名称=MGR-3 リトル・ジョン | 画像=Image:MGR-3 Little John 03.jpg | キャプション=M34牽引式発射機上にあるMGR-3A リトル・ジョン。 | 用途=地対地戦域攻撃 | 分類=[地対地ロケット弾](https://ja.wikipedia.org/wiki/ロケット弾 "wikilink")、[核ロケット](../Page/核ミサイル.md "wikilink") | 設計者= | 製造者=エマーソン・エレクトリック | 運用者=[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（[アメリカ陸軍](https://ja.wikipedia.org/wiki/アメリカ陸軍 "wikilink")） | 初飛行年月日=[1956年](../Page/1956年.md "wikilink")（XM47） | 生産数= | 生産開始年月日=[1956年](../Page/1956年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")（XM47） | 運用開始年月日=[1957年](../Page/1957年.md "wikilink")[8月](../Page/8月.md "wikilink") | 退役年月日=[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[8月](../Page/8月.md "wikilink") | 運用状況=退役 | ユニットコスト= }}
+
+**MGR-3 リトル・ジョン**（）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の地対地[核ロケット(弾)である](https://ja.wikipedia.org/wiki/ロケット弾 "wikilink")。リトル・ジョンは、ヘリコプターによる運搬を可能にするために同じ地対地核ロケットである[MGR-1 オネスト・ジョンよりも小型](../Page/MGR-1_\(ロケット\).md "wikilink")・軽量であり、空挺強襲作戦に用いられることを目的としていた。また、空挺部隊に戦術核攻撃能力を持たせることを意図していた。オネスト・ジョンと同様に、[核弾頭](../Page/核弾頭.md "wikilink")と通常弾頭の両方を搭載できるようになっていた。[1957年](../Page/1957年.md "wikilink")[8月](../Page/8月.md "wikilink")から少数が部隊に配備されたが、小型にしすぎてしまったために空挺以外の用途に応用できず、オネスト・ジョンよりも早い[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[8月](../Page/8月.md "wikilink")には退役した。
+
+## 開発
+
+[アメリカ陸軍武器科](https://ja.wikipedia.org/wiki/アメリカ陸軍武器科 "wikilink")は[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、[MGR-1 オネスト・ジョンを基にした](../Page/MGR-1_\(ロケット\).md "wikilink")、お互いに重なり合う射程を持つ核ロケット兵器ファミリーの研究計画を立案した。「ジョン・ファミリー」は、中距離射程のオネスト・ジョン、短距離射程のオネスト・ジョン・ジュニア及び長距離射程のオネスト・ジョン・シニアを含むことになっていた。[ダグラス・エアクラフト](https://ja.wikipedia.org/wiki/ダグラス・エアクラフト "wikilink")はオネスト・ジョン・ジュニアの技術研究を開始し、それが後にリトル・ジョンとなった。
+
+短距離システムのための技術研究は、ダグラスとの基本研究開発契約で進められ、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")から[1954年](../Page/1954年.md "wikilink")までの間に短距離システムのためのいくつかの異なる構成を検討したが、それらのほとんどは最終的なリトル・ジョンの設計や特徴に採用されることはなかった。
+
+[1954年](../Page/1954年.md "wikilink")[8月](../Page/8月.md "wikilink")。[アメリカ合衆国陸軍省](../Page/アメリカ合衆国陸軍省.md "wikilink")はオネスト・ジョン・ジュニアの安定した要求仕様を承認し、陸軍陸戦軍長にシステムの正式な軍用性能を準備するよう指示した。リトル・ジョンの軍用性能は、陸軍省によって[1955年](../Page/1955年.md "wikilink")[6月](../Page/6月.md "wikilink")に承認された。[レッドストーン兵器廠](https://ja.wikipedia.org/wiki/レッドストーン兵器廠 "wikilink")は、[1954年](../Page/1954年.md "wikilink")[8月](../Page/8月.md "wikilink")からシステム設計の研究を開始し、[1955年](../Page/1955年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")には、完全なリトル・ジョン・システムのために予備設計研究を開始した。
+
+[1954年](../Page/1954年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")。アメリカ陸軍武器科長官房局 (OCO) は、オネスト・ジョン・ジュニアとしてよりもむしろリトル・ジョンとして知られている新しい兵器システムの開発に対する計画の骨子を設定し、[1955年](../Page/1955年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink")にリトル・ジョン計画は、正式に確立された。計画遂行の主な責任は、レッドストーン兵器廠に割り当てられた。ダグラスがオネスト・ジョンの開発に絡む契約の所有権条項を固定料金の相当な割増をせずに受け入れるという問題を抱えていたため、レッドストーン兵器廠は同社から許容できる提案を得ることができず、同兵器廠は計画の全体的な技術管理監督を行っただけでなく、システムの主契約者の役目をも引き受けることになった。
+
+陸軍幕僚は[1955年](../Page/1955年.md "wikilink")[8月](../Page/8月.md "wikilink")、陸軍武器科長に17.35 in（440 mm）弾の研究をやめ、より小さな直径約11.5 in（292 mm）の核弾頭を搭載するためにリトル・ジョン・ロケットを開発するように命じ、440 mm（17.35 in）のリトル・ジョンは[1955年](../Page/1955年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")に公式に中止され、計画はより小型のロケットの開発へと方向修正した。更にリトル・ジョン計画は、[1956年](../Page/1956年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に臨時システム（イントリム・システム、フェイズ1）及び最適システム（オプティマム・システム、フェイズ2）の2つの段階に分割された。
+
+### 臨時型リトル・ジョン
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:MGR-3_Little_John_01.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:MGR-3_Little_John_02.jpg "wikilink") 臨時型リトル・ジョンの開発は[1956年](../Page/1956年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に始まったが、1955[会計年度](../Page/会計年度.md "wikilink")の最終四半期にはいくらかの予備研究が終わっていた。この時期の差し迫った目的は、空挺作戦のために臨時の核搭載兵器を開発することであり、精度よりむしろ早急な配備に重きが置かれた。また、フェイズ2リトル・ジョンもフェイズ1と平行して開始された。
+
+レッドストーン兵器廠は[1956年](../Page/1956年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、エマーソン・エレクトリック・マニュファクチャリング社に設計、開発及び20セットの弾体構成要素と[1956年](../Page/1956年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")まで1ヵ月あたり24セットの率で構成要素を生産するのに十分な工作機械類の製造に関する213,688ドルの契約を与えた。飛行試験プログラムの実現可能性段階は予定より3ヵ月早い[1956年](../Page/1956年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に始まったが、アメリカ国内の全国的な鉄鋼業界のストライキによってロケット・モーターの納入が6週間遅れ、大きく予定が狂うことになった。プログラムが更にロケット発射機干渉問題のために難航したことで、この遅れは更に[1957年](../Page/1957年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")にまでずれ込むことになる。臨時システム用の発射機の仕様は、[1956年](../Page/1956年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")にヘリコプター可搬発射機として望ましいものに修正され、臨時型リトル・ジョンの新しい軍用性能が確立された。これは、発射機に関する部分以外は[1955年](../Page/1955年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に確立されたものと同様であった。
+
+[1957年](../Page/1957年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から[1957年](../Page/1957年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")まで最終的な弾頭搭載の開発試験が実施されたが、結果を統計的に分析したところ、臨時型リトル・ジョンの精度が当初予測されたものよりもかなり不足することが示された。[1957年](../Page/1957年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")にフェイズ1リトル・ジョンはひとまず予定通りに完成し、[1957年](../Page/1957年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")にレッドストーン兵器廠は、臨時型リトル・ジョンの正式な研究開発リリースをしたが、当初見積られた精度を実現するために、フィールド-タイプ改造の可否を決定するための調査を実行できるよう最初の部隊配備を遅らせた。精度に関して軍用性能に示された最小限の要件を満たすことができなかったため、[1957年](../Page/1957年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")から[1957年](../Page/1957年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")まで臨時型リトル・ジョンの複合エンジニア・テスト-ユーザー・テスト・プログラムが実施されたが、やはりシステムはT317E1弾頭を搭載するのに十分な精度がないことが判明した。これらの試験は、リトル・ジョン精度問題の主な原因を特定することに成功し、修正案が決定されたが、改造は承認されなかった。
+
+[1957年](../Page/1957年.md "wikilink")[8月](../Page/8月.md "wikilink")に第101空挺師団がフェイズ1リトル・ジョン・ユニットを初めて受領したが、臨時型リトル・ジョンは戦術使用のためには決して配備されず、部隊訓練目的のためだけに使われた。その3年後の[1960年](../Page/1960年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")にフェイズ1リトル・ジョン・プログラムは終了した。
+
+### 最適型リトル・ジョン
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:MGR-3_Little_John_04.jpg "wikilink") フェイズ2は、期間30ヵ月、見積り額210万ドルのプログラムとして計画されたが、最終的には54ヵ月と3,760万ドルにまで膨れ上がった。フェイズ2の目的は、精度の改善、システムの軽量化、モーターの改良、2種類の弾頭運搬能力と自走式発射機を持つ最適システムを開発することであった。フェイズ2リトル・ジョンは、核弾頭及び通常弾頭の両方を最小射程3,500 ydから最大射程20,000 ydに到達させることができる自由飛行ロケットであることになっていた。しかし、弾頭の詳細仕様が[1956年](../Page/1956年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に固まるまで、この時期にほとんど開発は進展しなかった。
+
+[1957年](../Page/1957年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、最適システムの開発が正式に始まったが、アメリカ陸軍が[1958年](../Page/1958年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")に自走式リトル・ジョン・システムの要求仕様をキャンセルし、陸軍武器科長にその部分の開発計画を中止するように命じたため、フェイズ2でも引き続き牽引式の発射機を使い続けることになった。[1958年](../Page/1958年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")から[1959年](../Page/1959年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に[ホワイトサンズ・ミサイル実験場](https://ja.wikipedia.org/wiki/ホワイトサンズ・ミサイル実験場 "wikilink")でフェイズ2開発試験が行われた。試験プログラム中に、ARGMA研究開発部は戦術用リトル・ジョンの設計を確定し、限定生産のためにARGMA工業部に研究開発図面を発簡した。
+
+XM51 リトル・ジョン・ロケット（弾頭なし）、XM34 発射機及びすべての地上支援装置の条件つきの研究開発リリースは、XM85E3 コンディショニング・キットとトラック搭載のハンドリング・ユニットを除き[1959年](../Page/1959年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")に完了した。[1959年](../Page/1959年.md "wikilink")[11月](../Page/11月.md "wikilink")、陸軍省は、フェイズ2リトル・ジョンを限定生産カテゴリに指定し、システム・コンポーネントの限定調達を開始した。
+
+ARGMA研究開発部は、XM51 ロケット、XM34 発射機及び補助器材、XM8 訓練弾頭とT54 高性能炸薬弾頭の最終研究開発図面と各種文書を[1960年](../Page/1960年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")にARGMA工業部へ発簡した。リトル・ジョン・プログラムの主要な管理監督は、研究開発部から工業部に移行し、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から1960会計年度のフェイズ2リトル・ジョンの生産ユニットの納入が1ヵ月あたり60基で開始された。
+
+エンジニアリング・テスト/サービス・テスト (ET/ST) の間に判明したフェイズ2リトル・ジョンの主な欠点は、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[8月](../Page/8月.md "wikilink")にユーザーの要望に添って修正された。XM26E1 ロケット・モーターの低温点火限度を除いて関連する軍用性能も満たされ、化学核弾頭と改善されたXM85E4 コンディショニング・キットを除くフェイズ2リトル・ジョンのすべての構成要素は、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[9月](../Page/9月.md "wikilink")にスタンダードA (TC-STD-A) に指定された。
+
+スタンダードAに指定された後も[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[9月](../Page/9月.md "wikilink")から[1965年](../Page/1965年.md "wikilink")[8月](../Page/8月.md "wikilink")にかけてそれまでに見つかっている欠点を克服するためのリトル・ジョンの改善努力が続けられ、[1964年](../Page/1964年.md "wikilink")には改善されたリトル・ジョン・システムのすべての構成要素は、XM185 高性能炸薬弾頭を除いてサービス・テスト後、スタンダードAに指定された。フェイズ2リトル・ジョンの改善の大半は[1965年](../Page/1965年.md "wikilink")中頃には終了し、リトル・ジョン計画は、[1965年](../Page/1965年.md "wikilink")[8月](../Page/8月.md "wikilink")に公式に終了した。陸軍省が[1954年](../Page/1954年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")から[1966年](../Page/1966年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")までの12年間にリトル・ジョン・プログラムのフェイズ1及びフェイズ2の全段階に投資した資金の総計は、ほぼ1億ドルにまで達していた。
+
+## 運用
+
+フェイズ1リトル・ジョンは、[1957年](../Page/1957年.md "wikilink")[8月](../Page/8月.md "wikilink")に[ケンタッキー州](../Page/ケンタッキー州.md "wikilink")フォートキャンベルの第101空挺師団に初めて導入され、[1958年](../Page/1958年.md "wikilink")前半まで送達は続いたが、大陸軍司令部 (CONARC) はその後、当該兵器システムが一般的な部隊使用に不適当であると判断した。臨時型リトル・ジョンは、最適型（フェイズ2）リトル・ジョンが使用できるようになるまで、訓練と戦技開発のために保持され、実戦部隊には配備されなかった。
+
+[1960年](../Page/1960年.md "wikilink")[8月](../Page/8月.md "wikilink")には使用可能なXM47 臨時型リトル・ジョン・ロケットの数が合計67基になった。その内訳は、Blue Grass Ordnance Depotの戦時備蓄用の42基、第101空挺師団が保有する10基、[MGM-23 ホークの目標として](https://ja.wikipedia.org/wiki/ホーク_\(ミサイル\) "wikilink")[ホワイトサンズ・ミサイル実験場](https://ja.wikipedia.org/wiki/ホワイトサンズ・ミサイル実験場 "wikilink")に割り当てられた3基である。残りの12基は軽微な欠陥のため、戦時備蓄で保持されることも、部隊訓練で用いられることもなかった。
+
+[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")及び[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に最初のフェイズ2リトル・ジョン大隊2個が活動を開始した。同年[11月](../Page/11月.md "wikilink")には、フェイズ2リトル・ジョンは日本に返還される前の沖縄にあった第57野戦砲兵連隊第1ミサイル大隊に最初に配備され、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")のうちに7つの戦術リトル・ジョン部隊が配備されたが、[1966年](../Page/1966年.md "wikilink")[11月](../Page/11月.md "wikilink")の時点でわずか4個部隊で運用されているにすぎなかった。[1966年](../Page/1966年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に2つのリトル・ジョン部隊は南太平洋に配備され、残り2つは[アメリカ合衆国本土](https://ja.wikipedia.org/wiki/アメリカ合衆国本土 "wikilink") (CONtinental United States, CONUS) で展開された。その3年後の[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[8月](../Page/8月.md "wikilink")、リトル・ジョンは、陸軍の標準装備の目録から外され、その運用を終えた。
+
+## 仕様
+
+### MGR-3A
+
+<small>*出典：Designation-Systems.Net\[1\]*</small>
+
+  - 全長： 4.41 m （14 ft 5.7 in）
+  - 翼幅： 0.60 m （1 ft 11.75 in）
+  - 直径： 0.32 m （12.5 in）
+  - 発射重量： 353 kg （779 lb）
+  - 速度： [M](../Page/マッハ数.md "wikilink") 1.5
+  - 射程： 3.2 - 18.3 km （3,500 - 20,000 yd）
+  - 機関： ハーキュリーズ XM26 固体燃料ロケット・モーター
+  - 弾頭
+      - [W45核弾頭](https://ja.wikipedia.org/wiki/W45_\(核弾頭\) "wikilink")（[核出力](../Page/核出力.md "wikilink")：1 - 10 kt）
+      - 高性能炸薬弾頭
+
+## 脚注
+
+<div class="references-small">
+
+<references />
+
+  -
+
+</div>
+
+## 関連項目
+
+  - [MGR-1 オネスト・ジョン](../Page/MGR-1_\(ロケット\).md "wikilink")
+  - [オルガー・N・トフトイ](https://ja.wikipedia.org/wiki/オルガー・トフトイ "wikilink")
+  - [アメリカ合衆国のミサイル一覧](../Page/アメリカ合衆国のミサイル一覧.md "wikilink")
+  - [68式30型ロケットりゅう弾](https://ja.wikipedia.org/wiki/67式30型ロケット弾発射機 "wikilink")
+  - [FROG](https://ja.wikipedia.org/wiki/FROG_\(ロケット兵器\) "wikilink") - ソビエト連邦の無誘導ロケット兵器。
+
+## 外部リンク
+
+[Category:アメリカ合衆国のロケット砲](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のロケット砲 "wikilink")
+
+1.

@@ -1,0 +1,103 @@
+> この記事は[WWE Anthology](https://ja.wikipedia.org/wiki/WWE_Anthology)から翻訳されています。
+
+
+**WWE Anthology**は[アメリカのプロレス団体](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[WWE](../Page/WWE.md "wikilink")が[2002年](../Page/2002年.md "wikilink")[11月12日](../Page/11月12日.md "wikilink")に発売した[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")。3枚組CDで発売され、それぞれ*THE FEDERATION YEARS*、*THE ATTITUDE ERA*、*NOW\!*にわかれており、計86曲もの新旧[スーパースターの入場曲を収録している](https://ja.wikipedia.org/wiki/スーパースター_\(プロレス\) "wikilink")。
+
+## 収録曲
+
+### The Federation Years
+
+1.  "World Wrestling Federation Signature"
+2.  "Real American" ([Hulk Hogan](https://ja.wikipedia.org/wiki/ハルク・ホーガン "wikilink"))
+3.  "Hitman" ([Bret Hart](https://ja.wikipedia.org/wiki/ブレット・ハート "wikilink"))
+4.  "Walkabout" ([The Bushwhackers](https://ja.wikipedia.org/wiki/ザ・ブッシュワッカーズ "wikilink"))
+5.  "Together" ([Randy Savage](https://ja.wikipedia.org/wiki/ランディ・サベージ "wikilink") and [Miss Elizabeth](https://ja.wikipedia.org/wiki/ミス・エリザベス "wikilink")'s Wedding)
+6.  "It's All About the Money" ([Ted DiBiase](https://ja.wikipedia.org/wiki/テッド・デビアス "wikilink"))
+7.  "Snake Bit" ([Jake Roberts](../Page/ジェイク・ロバーツ.md "wikilink"))
+8.  "Bad Boy" ([Razor Ramon](https://ja.wikipedia.org/wiki/スコット・ホール "wikilink"))
+9.  "No Holds Barred" (Theme to [No Holds Barred](https://ja.wikipedia.org/wiki/:en:No_Holds_Barred "wikilink"))
+10. "Unstable" ([The Ultimate Warrior](../Page/アルティメット・ウォリアー.md "wikilink"))
+11. "I Love You" ([Brother Love](https://ja.wikipedia.org/wiki/ブルース・プリチャード "wikilink"))
+12. "Cool Cocky Bad" ([The Honky Tonk Man](https://ja.wikipedia.org/wiki/ウェイン・ファリス "wikilink"))
+13. "One Two Three" ([The 1-2-3 Kid](https://ja.wikipedia.org/wiki/ショーン・ウォルトマン "wikilink"))
+14. "Sweet Lovin' Arms" ([Bertha Faye](https://ja.wikipedia.org/wiki/モンスター・リッパー "wikilink"))
+15. "Can't Get Enough" ([Flash Funk](https://ja.wikipedia.org/wiki/チャールズ・スキャッグス "wikilink"))
+16. "I Know You Want Me" ([Sunny](https://ja.wikipedia.org/wiki/タミー・リン・シッチ "wikilink"))
+17. "I'll Be Your Hero" ([Lex Express](../Page/レックス・ルガー.md "wikilink"))
+18. "Sexy Boy" ([Shawn Michaels](https://ja.wikipedia.org/wiki/ショーン・マイケルズ "wikilink"))
+19. "Los Boricuas" ([Los Boricuas](https://ja.wikipedia.org/wiki/サビオ・ベガ "wikilink"))
+20. "Schizophrenic" ([Mankind](https://ja.wikipedia.org/wiki/ミック・フォーリー "wikilink"))
+21. "Smokin'" ([The Smoking Gunns](https://ja.wikipedia.org/wiki/マイク・ポルクロペック "wikilink"))
+22. "Sumo" ([Yokozuna](https://ja.wikipedia.org/wiki/ロドニー・アノアイ "wikilink"))
+23. "Snapped" ([Sycho Sid](../Page/シッド・ビシャス.md "wikilink"))
+24. "Tell Me a Lie" ([Shawn Michaels](https://ja.wikipedia.org/wiki/ショーン・マイケルズ "wikilink") Tribute)
+25. "Enough Is Enough" ([Owen Hart](https://ja.wikipedia.org/wiki/オーエン・ハート "wikilink"))
+26. "With My Baby Tonight" ([Jesse James](https://ja.wikipedia.org/wiki/ブライアン・ジェイムス "wikilink"))
+27. "Wild Cat" ([Sable](https://ja.wikipedia.org/wiki/レナ・メロ "wikilink"))
+28. "You Start the Fire" ([Bret Hart](https://ja.wikipedia.org/wiki/ブレット・ハート "wikilink") Tribute)
+29. "Diesel Blues" ([Diesel](https://ja.wikipedia.org/wiki/ケビン・ナッシュ "wikilink"))
+30. "Dude's Shack" ([Mick Foley](https://ja.wikipedia.org/wiki/ミック・フォーリー "wikilink"))
+31. "Power" ([Nation of Domination](https://ja.wikipedia.org/wiki/ネーション・オブ・ドミネーション "wikilink"))
+32. "Corporate Ministry" ([Corporate Ministry](https://ja.wikipedia.org/wiki/コーポレート・ミニストリー "wikilink"))
+33. "The Dudester" ([Dude Love](https://ja.wikipedia.org/wiki/ミック・フォーリー "wikilink"))
+
+### The Attitude Era
+
+1.  "Attitude Signature"
+2.  "Break It Down" ([D-Generation X](https://ja.wikipedia.org/wiki/D-ジェネレーションX "wikilink"))
+3.  "I Won't Do What You Tell Me" ([Steve Austin](https://ja.wikipedia.org/wiki/ストーン・コールド・スティーブ・オースチン "wikilink"))
+4.  "Ass Man" ([Billy Gunn](https://ja.wikipedia.org/wiki/モンティ・ソップ "wikilink"))
+5.  "Brawl for All" ([Brawl for All Theme](https://ja.wikipedia.org/wiki/WWF_Brawl_For_All "wikilink"))
+6.  "Gold-Lust" ([Goldust](https://ja.wikipedia.org/wiki/ヴァージル・ラネルズ3世 "wikilink"))
+7.  "California" ([WrestleMania 2000](https://ja.wikipedia.org/wiki/レッスルマニア#第16回大会（2000年）WrestleMania_2000 "wikilink") Theme)
+8.  "Who I Am" ([Chyna](https://ja.wikipedia.org/wiki/ジョーニー・ローラー "wikilink"))
+9.  "The Real Deal" ([D'Lo Brown](https://ja.wikipedia.org/wiki/ディーロ・ブラウン "wikilink"))
+10. "Deadly Game" ([Survivor Series 1998](https://ja.wikipedia.org/wiki/サバイバー・シリーズ "wikilink") Theme)
+11. "The Ultimate" ([Ken Shamrock](https://ja.wikipedia.org/wiki/ケン・シャムロック "wikilink"))
+12. "You Think You Know Me" ([Edge](https://ja.wikipedia.org/wiki/アダム・コープランド "wikilink"))
+13. "Blood" ([Gangrel](https://ja.wikipedia.org/wiki/デビッド・ヒース "wikilink"))
+14. "The Ho Train" ([The Godfather](https://ja.wikipedia.org/wiki/チャールズ・ライト_\(プロレスラー\) "wikilink"))
+15. "Fist" ([DX](https://ja.wikipedia.org/wiki/D-ジェネレーションX "wikilink") with [Mike Tyson](../Page/マイク・タイソン.md "wikilink"))
+16. "Oh, You Didn't Know?" ([New Age Outlaws](https://ja.wikipedia.org/wiki/ニュー・エイジ・アウトローズ "wikilink"))
+17. "Burned" ([Kane](https://ja.wikipedia.org/wiki/グレン・ジェイコブズ "wikilink"))
+18. "Hello Ladies" ([Val Venis](https://ja.wikipedia.org/wiki/ショーン・モーリー "wikilink"))
+19. "Real Man's Man" ([William Regal](https://ja.wikipedia.org/wiki/ダレン・マシューズ "wikilink"))
+20. "I Don't Suck" ([Kurt Angle](https://ja.wikipedia.org/wiki/カート・アングル "wikilink"))
+21. "Latino Heat" ([Eddie Guerrero](https://ja.wikipedia.org/wiki/エディ・ゲレロ "wikilink"))
+22. "It Just Feels Right" ([Lita](https://ja.wikipedia.org/wiki/エーミィ・ダーマス "wikilink"))
+23. "Sexual Chocolate" ([Mark Henry](https://ja.wikipedia.org/wiki/マーク・ヘンリー "wikilink"))
+24. "No Chance in Hell" ([Vince McMahon](https://ja.wikipedia.org/wiki/ビンス・マクマホン "wikilink"))
+25. "Oh Hell Yeah" ([Steve Austin](https://ja.wikipedia.org/wiki/ストーン・コールド・スティーブ・オースチン "wikilink"))
+26. "If You Smell..." ([The Rock](https://ja.wikipedia.org/wiki/ザ・ロック_\(プロレスラー\) "wikilink"))
+27. "Bad Man" ([Rikishi](https://ja.wikipedia.org/wiki/ソロファ・ファトゥ "wikilink"))
+28. "Bangin' It" ([Scotty 2 Hotty](../Page/スコット・ガーランド.md "wikilink"))
+29. "13" ([Tazz](https://ja.wikipedia.org/wiki/ピート・セネルシア "wikilink"))
+30. "We're Comin' Down" ([Dudley Boyz](https://ja.wikipedia.org/wiki/ダッドリー・ボーイズ "wikilink"))
+31. "My Time" ([Triple H](https://ja.wikipedia.org/wiki/トリプルH "wikilink"))
+32. "Rabid" ([Chris Benoit](https://ja.wikipedia.org/wiki/クリス・ベノワ "wikilink"))
+33. "How Do You Like Me Now?" ([Hardcore Holly](https://ja.wikipedia.org/wiki/ボブ・ホーリー "wikilink"))
+34. "Dark Side" ([The Undertaker](https://ja.wikipedia.org/wiki/ジ・アンダーテイカー "wikilink"))
+35. "Break Down the Walls" ([Chris Jericho](https://ja.wikipedia.org/wiki/クリス・ジェリコ "wikilink"))
+
+### Now\!
+
+1.  "WWE Signature"
+2.  "Next Big Thing" ([Brock Lesnar](https://ja.wikipedia.org/wiki/ブロック・レスナー "wikilink"))
+3.  "Dead Man" ([The Undertaker](https://ja.wikipedia.org/wiki/ジ・アンダーテイカー "wikilink"))
+4.  "At Last" ([Christian](https://ja.wikipedia.org/wiki/ジェイソン・リソ "wikilink"))
+5.  "I'm Back" ([Eric Bischoff](https://ja.wikipedia.org/wiki/エリック・ビショフ "wikilink"))
+6.  "Eyes of Righteousness" ([Reverend D-Von](https://ja.wikipedia.org/wiki/ディーボン・ヒューズ "wikilink"))
+7.  "Fight" ([SummerSlam 2002](https://ja.wikipedia.org/wiki/サマースラム#第15回大会（2002年）WWE_SummerSlam_2002 "wikilink") Theme)
+8.  "619" ([Rey Mysterio](https://ja.wikipedia.org/wiki/レイ・ミステリオ・ジュニア "wikilink"))
+9.  "Time to Rock & Roll" - [Lil' Kim](../Page/リル・キム.md "wikilink") ([Trish Stratus](https://ja.wikipedia.org/wiki/トリッシュ・ストラタス "wikilink"))
+10. "Eye of the Hurricane" ([The Hurricane](https://ja.wikipedia.org/wiki/グレゴリー・ヘルムズ "wikilink"))
+11. "King of My World" - [Saliva](https://ja.wikipedia.org/wiki/サライヴァ "wikilink") ([Chris Jericho](https://ja.wikipedia.org/wiki/クリス・ジェリコ "wikilink"))
+12. "All Grown Up" ([Stephanie McMahon](https://ja.wikipedia.org/wiki/ステファニー・マクマホン＝レヴェック "wikilink"))
+13. "Need a Little Time"- [Lilian Garcia](https://ja.wikipedia.org/wiki/リリアン・ガルシア "wikilink") ([Torrie Wilson](https://ja.wikipedia.org/wiki/トリー・ウィルソン "wikilink"))
+14. "The Game"- [The DX Band](https://ja.wikipedia.org/wiki/:en:Chris_Warren_\(musician\) "wikilink") ([Triple H](https://ja.wikipedia.org/wiki/トリプルH "wikilink"))
+15. "You're Gonna Pay" ([The Undertaker](https://ja.wikipedia.org/wiki/ジ・アンダーテイカー "wikilink"))
+16. "You Look So Good to Me" ([Billy and Chuck](../Page/ビリー&チャック.md "wikilink"))
+17. "The End" ([Armageddon](https://ja.wikipedia.org/wiki/WWE・アルマゲドン "wikilink") Theme)
+18. "Here Comes the Money"- [Naughty by Nature](https://ja.wikipedia.org/wiki/:en:Naughty_by_Nature "wikilink") ([Shane McMahon](https://ja.wikipedia.org/wiki/シェイン・マクマホン "wikilink"))
+
+[Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:WWE](https://ja.wikipedia.org/wiki/Category:WWE "wikilink")

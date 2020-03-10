@@ -1,0 +1,33 @@
+> この記事は[Deore LX](https://ja.wikipedia.org/wiki/Deore_LX)から翻訳されています。
+
+
+**Deore LX**（デオーレ エルエックス）は、株式会社[シマノ](../Page/シマノ.md "wikilink")が開発、販売する[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")向け[コンポーネントである](https://ja.wikipedia.org/wiki/コンポーネント_\(自転車\) "wikilink")。
+
+## 概要 M580シリーズまで
+
+同社の提供する製品群では、[XTR](https://ja.wikipedia.org/wiki/シマノ・XTR "wikilink")、[Deore XTに次ぐグレードであり](https://ja.wikipedia.org/wiki/シマノ・Deore_XT "wikilink")、[Deore](../Page/シマノ・Deore.md "wikilink")、[Alivioの上位に相当する](https://ja.wikipedia.org/wiki/シマノ・Alivio "wikilink")。同社によれば「上位機種に引けをとらない本格的マウンテンバイクコンポとしての実力を備える」とされている。
+
+かつてはXTとLXの間にDXというグレードがあったが、MTBへの人気が落ち着きを見せ、不景気も重なって、DXグレードは消滅。この穴を埋めるべくLXはワンランク上のグレードへと進化していった（後年、LXのグレードアップによって空いた部分にDeoreグレードが新設された。かつてのLXが担っていたスポーツ向けグレードの入門用を担当する。）。
+
+[シマノ](../Page/シマノ.md "wikilink")の[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")向けコンポーネントとしては、スポーツ向けグレードの上位に位置づけられるものであり、全般的に下位の[Deoreよりは軽量化されつつも十分な強度を有し](../Page/シマノ・Deore.md "wikilink")、レース用としても十分対応できる。完成車では定価15～20万円前後で販売されるものに採用されていることが多い。スプロケットは9速であり、クランクセットはより上位のシリーズと同様の、ボトムブラケット一体設計の中空クランクであるHOLLOWTECH 2が採用される。
+
+## 概要 M600シリーズ以降
+
+2008年5月、Deore LXのフルモデルチェンジが発表された。Deore LXの名称はクロスバイク用コンポーネント向け製品群に付されることとなり、従来のMTB向け製品群は、同時に設定されたSLXシリーズが受け持つこととなった。クロスバイク向け製品群という設定になったものの、個々のパーツにおける技術的特徴は、MTB向け製品群とほぼ等しく、ボトムブラケット一体設計の中空クランクであるHOLLOWTECH 2や、9速リアスプロケット、Vブレーキ・油圧ディスクブレーキシステムなどが、従来のDeoreLXシリーズ同様に提供されている。
+
+平地の高速走行の多いクロスバイク向けとして、チェーンリングは48-36-26Tの構成となり、リアスプロケットもロー側を28Tとする製品が追加されている。またブレーキレバーは３フィンガー型の長いレバーとなっている。型番にはM650番台のDeore DX\[1\]を継ぐM660番台を付されている。
+
+## SLX発表
+
+上記2008年のDeore LXのフルモデルチェンジに伴い、Deore LXの名称は[クロスバイク](../Page/クロスバイク.md "wikilink")用コンポーネントとして継承され、今までのマウンテンバイク用コンポーネントは新たに「[SLX](https://ja.wikipedia.org/wiki/SLX "wikilink")」の名称が与えられ、M660の品番を与えられた新シリーズとなった。SLXでは、これまでのクロスカントリーMTB向けだった構成から、20ミリスルーアクスルのハブなど、[オールマウンテン](https://ja.wikipedia.org/wiki/オールマウンテン "wikilink")系のパーツが中心となる、同社の[HONEシリーズを受け継ぐ構成となっている](https://ja.wikipedia.org/wiki/シマノ・HONE "wikilink")。
+
+## 脚注
+
+## 関連項目
+
+  - [マウンテンバイク](../Page/マウンテンバイク.md "wikilink")
+  - [シマノコンポーネント一覧](https://ja.wikipedia.org/wiki/シマノ#コンポーネント "wikilink")
+
+[Category:自転車部品](https://ja.wikipedia.org/wiki/Category:自転車部品 "wikilink") [Category:シマノ](https://ja.wikipedia.org/wiki/Category:シマノ "wikilink")
+
+1.

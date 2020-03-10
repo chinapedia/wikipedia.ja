@@ -1,0 +1,170 @@
+> この記事は[Rera](https://ja.wikipedia.org/wiki/Rera)から翻訳されています。
+
+
+**麗娜輪**（リーナールゥン）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")籍の高速[フェリー](../Page/フェリー.md "wikilink")である。
+
+かつては**ナッチャンRera**（ナッチャンれら）という船名で、[東日本フェリー](https://ja.wikipedia.org/wiki/東日本フェリー "wikilink")の[青森港](../Page/青森港.md "wikilink")と[函館港](https://ja.wikipedia.org/wiki/函館港 "wikilink")の間（[青函航路](../Page/青函航路.md "wikilink")）に就航していた。[2012年](../Page/2012年.md "wikilink")に[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の企業に売却された後は、船名を**麗娜輪**と改め、台湾の[蘇澳港](https://ja.wikipedia.org/wiki/蘇澳港 "wikilink")-[花蓮港](https://ja.wikipedia.org/wiki/花蓮港 "wikilink")等の航路に就いている\[1\]\[2\]。
+
+## 概要
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:ナッチャンRera後部.jpg "wikilink") 建造は[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")の[インキャット](https://ja.wikipedia.org/wiki/インキャット "wikilink")・タスマニア社。[ウォータージェット高速フェリーとしては世界最大級](https://ja.wikipedia.org/wiki/ウォータージェット推進 "wikilink")。建造費は約90億円。
+
+インキャット社では本船と同様の技術・形状を用いているウェーブピアサー型高速船を多数建造しており、本船は112m型に分類される。インキャット社は建造した船舶に一連の「Hull No」を付与しているが、本船は064である。これは、姉妹船のナッチャンWorldの065と連番である\[3\]。
+
+日本での船名の「ナッチャンRera」は、船体塗装のイラストをデザインした[京都市](../Page/京都市.md "wikilink")在住の小学生の愛称「ナッチャン」と、[アイヌ語](../Page/アイヌ語.md "wikilink")で[風](../Page/風.md "wikilink")を意味する「Rera」（レラ）を合わせたもの。
+
+日本では、[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[9月1日](../Page/9月1日.md "wikilink")に青函航路に就航し、青森港 - 函館港間をおよそ夏季1時間45分、冬季2時間15分、深夜便2時間30分で結び、カーフェリーとしては[日本最速であった](https://ja.wikipedia.org/wiki/交通に関する日本一の一覧#船舶 "wikilink")。
+
+2008年5月には、ヨーロッパフェリーシッピング会議にて本船や先進的なターミナルや統合フェリーシステムが評価され「シップパックス高速船賞」を受賞\[4\]\[5\]。
+
+## 来歴
+
+### 日本での運航
+
+青函航路の高速化を図るため、旧・東日本フェリーは1990年から1996年まで[ジェットフォイル](https://ja.wikipedia.org/wiki/ボーイング929 "wikilink")、1997年から2000年までウォータージェット小型フェリー（船名はいずれも「[ゆにこん](https://ja.wikipedia.org/wiki/ゆにこん "wikilink")」）を導入した。しかし、燃費がかさむことや波浪への弱さ、[曳き波](https://ja.wikipedia.org/wiki/曳き波 "wikilink")による漁業被害、およびトラックを積載できないことによる低収益性などの理由により運航が中止されていた。 ナッチャンReraの建造にあたり、新・東日本フェリーおよび親会社のリベラホールディングス（現・[リベラ](https://ja.wikipedia.org/wiki/リベラ_\(海運業\) "wikilink")）では、インキャット社とともに[風洞](https://ja.wikipedia.org/wiki/風洞 "wikilink")実験などを行い過去の問題点を精査し、本船の安定した運航に一定のメドを得たとしていた。しかし、運行開始後、前述の曳き波による漁業被害が再発し、漁民らは速度を落とすよう求めていた\[6\]。
+
+[青函トンネル](../Page/青函トンネル.md "wikilink")の開通以降、青函間の旅客輸送の多くは鉄道が担っているが、ナッチャンReraは鉄道と比して、青森-函館間において所要時間やエコノミークラスの運賃の安さの点で優位に立つことから、今後の巻き返しがなるか注目されていた。[弘南バス](https://ja.wikipedia.org/wiki/弘南バス "wikilink")の[青森上野号](https://ja.wikipedia.org/wiki/青森上野号 "wikilink")や一時期の[十和田観光電鉄](../Page/十和田観光電鉄.md "wikilink")の[ブルースター号](https://ja.wikipedia.org/wiki/ブルースター号 "wikilink")（[国際興業バス](https://ja.wikipedia.org/wiki/国際興業バス "wikilink")と[共同運行](https://ja.wikipedia.org/wiki/共同運行 "wikilink")していた時期）の[夜行バスとの連携も積極的に進めていた](../Page/高速バス.md "wikilink")。一方で、在来船の2倍以上となる運賃や、ファーストクラスでも横になれないなど在来船との差も残った。車両輸送の運賃格差は旅客輸送以上に影響が大きく、就航直後には減便された在来船で車両航送の満車が頻繁に発生した。
+
+2008年11月末をもって運航会社の[東日本フェリー](https://ja.wikipedia.org/wiki/東日本フェリー "wikilink")は国内フェリー事業から撤退し、これにより多くの航路が運航を休止したが、当船は同社の撤退に先立つ同年11月1日をもって、僚船の[ナッチャンWorld](https://ja.wikipedia.org/wiki/ナッチャンWorld "wikilink")とともに定期運航を休止した\[7\]。こののち、ナッチャンWorldが夏期限定ながらも青函航路に復活運航を果たしたのに対し当船にはそういった動きはなかったが、東日本フェリーを吸収合併した[津軽海峡フェリー](https://ja.wikipedia.org/wiki/津軽海峡フェリー "wikilink")によって、2010年7月に係船地変更のため室蘭港へ回航された後、船内見学会やミニクルーズが実施された\[8\]。
+
+### 台湾での運航
+
+その後、[防衛省](../Page/防衛省.md "wikilink")にて離島奪還作戦に不可欠な高速輸送艦として利用するため購入が検討される\[9\]などの動きもあったが、結局2012年10月に台湾の（Wagon Group）に約54億円で売却された\[10\]。華岡集団では傘下の（Uni-Wagon Marine）において、[台北港](https://ja.wikipedia.org/wiki/台北港 "wikilink")と[福建省](../Page/福建省.md "wikilink")中部の[平潭島](https://ja.wikipedia.org/wiki/平潭島 "wikilink")間の航路に利用する方針を明らかにしていた\[11\]。
+
+[2013年](../Page/2013年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")から[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")までの間、台湾の - の航路に週6往復の計画で仮運航を開始した。片道料金はエコノミークラスで700台湾ドル（2013年8月現在約2,246円）で、同区間の[台鉄](https://ja.wikipedia.org/wiki/台湾鉄路管理局 "wikilink")[北廻線](https://ja.wikipedia.org/wiki/北廻線 "wikilink")の運賃と比べると高額であるが、観光ツアー客の乗船と災害時の緊急輸送を見込んでいた\[12\]。船名表記が**麗娜輪**と改められたが、英語表記は*' NATCHAN RERA*'のままで、船体塗装も維持されている。
+
+[2014年](../Page/2014年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")から、台湾の台北港と中国[福建省](../Page/福建省.md "wikilink")の[平潭島間を結ぶ航路に就航した](https://ja.wikipedia.org/wiki/平潭県 "wikilink")。これは、台湾所属の客船で運航される史上初の台中定期航路である。就航当初は、週2往復、所要時間は片道3時間で、運賃はエコノミークラスで3,450台湾ドル、ビジネスクラスで3,950台湾ドル、ファーストクラスで4,500台湾ドルである。\[13\]就航当初の時点では、台湾と中国の間の車両交流に対する会談が行われていないため、旅客のみの乗船となった。車両輸送も検討されたが、実現にはナンバープレートと運転免許の相互認証に関する問題の解決が必要とされた。
+
+2015年6月、船体の船名表記が「麗娜輪」から「麗娜」に変更されているのが確認された\[14\]。ただし、華岡集団のウェブサイト等では引き続き「麗娜輪」の船名が用いられている。
+
+[2016年](../Page/2016年.md "wikilink")4月、華岡集団と[沖縄県](../Page/沖縄県.md "wikilink")の総合物流グループである[シンバネットワーク](https://ja.wikipedia.org/wiki/シンバネットワーク "wikilink")の[あんしん](../Page/あんしん.md "wikilink")が共同で、本船を花蓮 - 石垣航路に就航させる計画を発表した。片道の所要時間は最短4時間で試験運航の第1便は台湾の[立法委員を代表とした経済交流視察団約](https://ja.wikipedia.org/wiki/立法院_\(中華民国\) "wikilink")100名\[15\]を乗せて[2016年](../Page/2016年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")夕、[石垣港](https://ja.wikipedia.org/wiki/石垣港 "wikilink")に初入港した\[16\]。2015年内に10回のチャーター運航が予定され、将来的に週1便程度の定期運航が構想されていた\[17\]。しかし、石垣港への入港は試験運航の1回のみで、以後の運航は数度にわたり延期され\[18\]\[19\]、[2017年](../Page/2017年.md "wikilink")11月には台湾での集客が見込めないこと等を理由に運航を断念することが明らかになった\[20\]。
+
+## 船体と装置類
+
+### 船内設備
+
+  - TIER4
+
+<!-- end list -->
+
+  - エグゼクティブクラス - 日本ではドリンク・ビデオサービスが提供された。
+  - バーラウンジ
+  - シャワー
+
+<!-- end list -->
+
+  - TIER3
+
+<!-- end list -->
+
+  - エコノミークラス
+  - ビジネスクラス
+  - エントランスラウンジ
+  - 売店
+  - カフェ
+  - キッズルーム
+  - パブリックカウンター
+
+### ウェーブ・ピアーサー
+
+[thumbの船首形状](https://ja.wikipedia.org/wiki/ファイル:The_bow_of_WavePiercer_ship_NatchanWorld.JPG "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:The_stern_of_WavePiercer_ship_NatchanWorld.JPG "wikilink") 本船は双胴船の中でも比較的新しい船型である「[ウェーブ・ピアーサー](https://ja.wikipedia.org/wiki/船舶工学#ウェーブ・ピアーサー "wikilink")」形状をしており、水線下の2つの船体が非常に細く作られている。船長112mの船体で最大積載は1500tであり、高速船としては非常に優秀といえる。本船では船首側がわずかに1度低い船首トリムと呼ばれる状態での航行が最も抵抗が少なくなる。
+
+下部船体は水密隔壁によって左右それぞれ10区画の水密区画に分けられており、万一の場合にも簡単には沈まないようにできている。 {{-}}
+
+### ウォータージェット
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Pump-jet_on_NatchanWorld_01.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Pump-jet_on_NatchanWorld_02.JPG "wikilink") 一般的な[スクリュー](../Page/スクリュー.md "wikilink")ではなく、[ウォータージェット推進](https://ja.wikipedia.org/wiki/ウォータージェット推進 "wikilink")器を左右合わせて4基備えており、強力な水流の噴射によって高速航行を可能にしている。ウォータージェットでは水流の向きを左右に最大30度まで変えられるので、舵を必要とせずにすばやく船の向きを変えられる。また、ウォータージェットには後進バスケットと呼ぶ偏向板があり、後進時にはこれを噴射口へ押し上げることで水流の方向を前方下方へ変えることで推進力を180度逆の後進へと変えられる。また、後進バスケットを中間位置にすれば、エンジンを回したままで推力をかけない停止状態にもできる。
+
+左右での水の噴射方向を逆にすることで、横方向への移動や、その場での回転がおこなえる。
+
+41.5ノットで旋回したときの旋回円の直径は620mであり、41ノットでのクラッシュ・アスターン（Crash Astern）による停止では1分27秒後にまっすぐ721m先に停止できた。これらはいずれも、非常に優秀な成績といえる。 {{-}}
+
+### エンジン
+
+中速回転のディーゼル・エンジン（MAN B\&W 20RK280）を左右の下部船体後部に合計4基備えている。片側2基のエンジンは下部船体の幅が狭いために前後に互い違いに据えられている。それぞれが12,245PS（メートル馬力、9,000kW）の[V型20気筒](https://ja.wikipedia.org/wiki/V型20気筒 "wikilink")ディーゼル・エンジンは毎分1,000回転を減速機によって470回転まで落として、ウォータージェットのポンプを駆動している。
+
+燃費は旅客と貨物を満載した1,450tの状態で36ノットで航行したとき、軽油を8,625リットル/時間だけ消費して、リッターあたりでは8mとなる。
+
+### 減揺装置
+
+高速で航行する本船は、波による揺れを押さえるために減揺装置として、船首下に「Tフォイル」（T-foil）、左右の船尾にはトリムタブを備える。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:T-foil.PNG "wikilink")
+
+  - Tフォイル
+    Tフォイル（T-foil）は、船首下から海水中へ垂直に伸びる支持部とその先端部の水中翼により、[フィン・スタビライザーにも似たしくみで揺れを抑える](https://ja.wikipedia.org/wiki/フィンスタビライザー "wikilink")。
+  - トリムタブ
+    トリムタブは、必要に応じて船尾の船底部分に板を突き出すことで揚力を発生して、船尾に上向きの力を作り出す装置である。これが左右の船尾に備えられている。
+
+{{-}}
+
+### ブリッジ
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Bridge_and_Passenger_cabin_on_NatchanWorld.jpg "wikilink") ブリッジ、つまり船を操船する船橋は船の中央最上部にある。他の船と異なり、機械装置を操作するためにブリッジ内を歩き回るようにはできておらず、航空機の操縦席にも少し似た「統合型ブリッジ」になっている。ブリッジの前3分の1ほどが横3人掛けのシートになっており、左から機関長/機関士席、船長席、航海士席となっている。船長席の後ろに、後ろ向きに操作する接岸用操船パネルがあり、接岸時の細かな操船のためのレバーとテレビカメラ映像パネルが備わっている。右肘掛けの端につまみのような小さな舵輪があり、文字通り手元で操作が可能になっている。
+
+3人席のコックピットの後ろには、情報分析スペースとして海図や外部からの情報を入手・分析できるようになっている。ブリッジの後部3分の1は休憩のためのいくつかの座席が用意されていて、隅に階下への階段と後部デッキへのドアが付いている。 {{-}}
+
+## その他
+
+### 緊急避難
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:LifeRaft_and_Cookpit_for_get_or_leave_shore_on_NatchanWorld.JPG "wikilink")
+
+  - ライフラフト
+    緊急時の避難先としての「ライフラフト」には、乗り移るための滑り台式スロープがラフトと同時に膨らむガス展張式のものが備わっている。
+
+{{-}}
+
+### 乗船・下船
+
+日本での本船の停泊時間はわずか45分であったため、200台あまりの車輌と800人ほどの乗客をこの短時間で下船させて、また乗船させなければならなかった。車輌の乗船時には、重い車が前後や左右に集中すると船が傾いてしまう（前後・左右トリム）ため、一等航海士などの船員が場所を指示して駐車させていた。特に下船や搭乗中に船が傾きすぎると、ランプウェイに角度が付きすぎて車輌の底を打つ危険があるので注意が必要であった。
+
+## 脚注
+
+## 出典
+
+  -
+  -
+## 関連項目
+
+  - [ナッチャンWorld](https://ja.wikipedia.org/wiki/ナッチャンWorld "wikilink") - 本船の姉妹船。2008年5月2日から2012年夏まで函館 - 青森航路に就航。2014年度からは[防衛省](../Page/防衛省.md "wikilink")に借り上げられている。
+  - [あかね (高速フェリー)](https://ja.wikipedia.org/wiki/あかね_\(高速フェリー\) "wikilink") - 本船と同じインキャット・タスマニア社製の双胴高速輸送船。2015年4月21日から佐渡小木港～上越市直江津港の航路に就航。85m型で、ナッチャンの112m型より小さい。
+  - [HSV-X1 ジョイントベンチャー](https://ja.wikipedia.org/wiki/ジョイントベンチャー_\(輸送船\) "wikilink") - 本船と同じインキャット・タスマニア社製の双胴高速輸送船。アメリカ海軍・陸軍が使用。
+  - [HSV-2 スウィフト](https://ja.wikipedia.org/wiki/スウィフト_\(輸送船\) "wikilink") - 本船と同じインキャット・タスマニア社製の双胴高速輸送船。アメリカ海軍が使用。
+  - [リベラ](https://ja.wikipedia.org/wiki/リベラ_\(海運業\) "wikilink")
+  - [小野竹喬](../Page/小野竹喬.md "wikilink") - 日本画家。ナッチャンReraの船体塗装のイラストをデザインした女児の高祖父。
+  - [竹財輝之助](https://ja.wikipedia.org/wiki/竹財輝之助 "wikilink")、[戸田恵梨香](https://ja.wikipedia.org/wiki/戸田恵梨香 "wikilink") - CM出演。
+  - [テクノスーパーライナー](https://ja.wikipedia.org/wiki/テクノスーパーライナー "wikilink")
+
+## 外部リンク
+
+  - [東聯航運](http://www.uni-wagon.com/)
+  - [天海旅行社](http://rera.tourking.com.tw/rerain/rerainfo.php)
+  - [津軽海峡フェリー](http://www.tsugarukaikyo.co.jp/)
+  - [Incat公式ウェブサイト](http://www.incat.com.au/)
+
+<!-- end list -->
+
+  -
+[Category:台湾の交通](https://ja.wikipedia.org/wiki/Category:台湾の交通 "wikilink") [Category:日本のフェリー](https://ja.wikipedia.org/wiki/Category:日本のフェリー "wikilink") [Category:2007年竣工船](https://ja.wikipedia.org/wiki/Category:2007年竣工船 "wikilink") [Category:青函航路](https://ja.wikipedia.org/wiki/Category:青函航路 "wikilink") [Category:北海道の交通史](https://ja.wikipedia.org/wiki/Category:北海道の交通史 "wikilink") [Category:青森県の交通史](https://ja.wikipedia.org/wiki/Category:青森県の交通史 "wikilink")
+
+1.  [ナッチャンRera台湾へ](http://h-crossroad.seesaa.net/article/298572869.html) - ゲストハウス 函館クロスロード・2012年10月22日
+2.
+3.  [112 Metre Wave Piercing Catamaran](http://www.incat.com.au/domino/incat/incatweb.nsf/0/A283856779A561B4CA2571AF0019EDE5?OpenDocument) - Incat（2013年12月31日閲覧）
+4.  [東日本フェリー/「ナッチャンRera」、国際賞を受賞](https://www.jmd.co.jp/article.php?no=112117) - 2008年6月5日
+5.  [International Award for Incat 112 metre Natchan Rera](https://www.incat.com.au/international-award-for-incat-112-metre-natchan-rera/) - Incat
+6.  [ホタテ漁師：押し寄せる波と砂に「困った」 青森・陸奥湾](http://mainichi.jp/select/today/news/20080829k0000m040161000c.html?inb=ff) - 毎日jp（リンク切れ）
+7.  [北海道新聞](http://www.hokkaido-np.co.jp/news/economic/116514.php)（2008年9月9日付、リンク切れ）
+8.  [高速船“美人”ナッチャンRera、室蘭港に到着](http://www.muromin.mnw.jp/murominn-web/back/2010/07/06/20100706m_02.html) - 室蘭民報（2010年7月6日付、同月16日閲覧）
+9.  [フェリーを高速輸送艦に 防衛省が転用検討 離島奪還で陸自輸送の切り札](http://sankei.jp.msn.com/politics/news/110221/plc11022101000000-n1.htm) - 産経新聞（2011年2月21日付）
+10. [高速船「ナッチャンRera」、台湾への売却額54億円](http://www.cruise-mag.com/news.php?obj=20121122_03) - WEB CRUISE・2012年11月22日
+11. [2012/08/20の台湾経済ニュース](http://www.ys-consulting.com.tw/news/date/20120820.html) - ワイズコンサルティング
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.

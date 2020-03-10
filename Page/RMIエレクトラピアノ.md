@@ -1,0 +1,51 @@
+> この記事は[RMI](https://ja.wikipedia.org/wiki/RMI)から翻訳されています。
+
+
+**RMIエレクトラピアノ** (**RMI Electra-piano and Harpsichord**) は、[エレクトロニックピアノ](https://ja.wikipedia.org/wiki/エレクトロニックピアノ "wikilink")（電子ピアノ）の一種である。
+
+## 概要
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:RMI368X2.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:RMItablets.jpg "wikilink") 1960年代にアレン・オルガン・カンパニー (Allen Organ Company) が設立したブランド、ロッキーマウント・インストゥルメンツ (Rocky Mount Instruments) が発表した[エレクトロニックピアノ](https://ja.wikipedia.org/wiki/エレクトロニックピアノ "wikilink")で、モデル100「ロキシコード(Rock-Si-Chord)」の発展改良型である。[電子オルガン](https://ja.wikipedia.org/wiki/電子オルガン "wikilink")と同様にタブレットと呼ばれるスイッチで電子音を混ぜ合わせて音色を生成する。"PIANO"、"PIANO PP"、"HARPSI"、"HARPSI PP"、"LUTE"（PPはピアニッシモの意味）のほか、音色の減衰を伸ばす（電圧やコンディションによって音の伸び方は変わる）"ORGAN MODE"、パキパキとしたアタックノイズを付加する"ACCENTER"のタブレットを装備する。最初に登場したのはモデル300と呼ばれるもので、木製の天板と61鍵の鍵盤を装備していた。[トレモロ](https://ja.wikipedia.org/wiki/トレモロ "wikilink")を装備する300B、鍵盤数を7鍵追加した368、天板を軽く丈夫な樹脂製とした368Xといったバリエーションがあり、それぞれスピーカーを内蔵した400シリーズとしても作られた。この楽器は「ピアノ」というよりも「音が減衰する電子オルガン」と言ったほうがふさわしく、タッチの強弱による音量や音色の変化は起こらない。しかしながら、当時の機材としては軽量であったこと、チープながらも暖かく[ローズ・ピアノ](https://ja.wikipedia.org/wiki/ローズ・ピアノ "wikilink")よりは[グランドピアノ](https://ja.wikipedia.org/wiki/グランドピアノ "wikilink")に似た音色や切れのいい[ハープシコードサウンドが人気を博し](../Page/チェンバロ.md "wikilink")、[ジョン・ロード](https://ja.wikipedia.org/wiki/ジョン・ロード "wikilink")([ディープ・パープル](../Page/ディープ・パープル.md "wikilink"))、[トニー・バンクス](https://ja.wikipedia.org/wiki/トニー・バンクス_\(ミュージシャン\) "wikilink")([ジェネシス](https://ja.wikipedia.org/wiki/ジェネシス_\(バンド\) "wikilink"))、[リック・ウェイクマン](https://ja.wikipedia.org/wiki/リック・ウェイクマン "wikilink")([イエス](../Page/イエス_\(バンド\).md "wikilink"))を筆頭に1970年代中盤までは広く使われた。ジョン・ロードは自分の[ハモンドC-3に内蔵したほどである](../Page/ハモンドオルガン.md "wikilink")。[マイルス・デイヴィス](../Page/マイルス・デイヴィス.md "wikilink")も初期の電化バンドで使用しており、ワイト島のライブ映像で確認できる。[スパークスのロン](https://ja.wikipedia.org/wiki/スパークス_\(バンド\) "wikilink")・メイルは1970年代を通じてエレクトラピアノをほぼ唯一の使用楽器として愛用した。
+
+## 機種一覧
+
+300シリーズ：生産された殆どのエレクトラピアノはここに属する。現在ビンテージ市場で見かける楽器の殆どは368Xまたは368で、ごく稀に300Aや300Bも見られる。
+
+  - 300A (1967-1969): 青い天板が目を引く最初のモデル。鍵盤はF0-F5の61鍵。[スティーヴ・ウィンウッド](https://ja.wikipedia.org/wiki/スティーヴ・ウィンウッド "wikilink")らにより広く使われた。
+  - 300B (1969-1972): 天板のレザーは黒に変更され、タブレット右側にボリュームスライダーが増設。後期型は"warbler"というビブラート回路も搭載。
+  - 368 (1972-1974): 鍵盤数をF0-C6の68鍵に増加。低音成分のカット/ブーストのスライダーをタブレット左側に増設。
+  - 368X (1974-1980): 天板を木製から樹脂製に変更。天板を開けた際に以前のモデルと違い、コントロールパネルが鍵盤側に残る構造に。最も多く生産された。
+  - 68D (1980): 最終型。タッチ・レスポンスが初めて搭載された。生産数は極めて少ない。
+
+400シリーズ：スピーカー内蔵タイプで、家庭用に開発された。非常に希少なモデル。
+
+  - 400 (1970-1971): 300Bのスピーカー内蔵タイプ。非常に生産数は少ない。
+  - 468 (1972-1974): 400の68鍵タイプ。
+
+600シリーズ：Electra-piano and Rock-Si-Chordというシリーズで、各鍵盤に8'だけでなく4'の音源も持つ。600A/B、668、668Xというバリエーションがある。668Xはリック・ウェイクマンが1974年から1976年ごろまで使用。
+
+DK-20 (1979-1982): エレクトラピアノの次世代機として開発された。DKはDigital Keyboardの略で、文字通りデジタルオシレーターを採用。タッチ・レスポンスのほかにエンベロープ・ジェネレーター(スライダーでの設定のほか、プリセットからも選択できる)、フェイザー、フィルターを搭載。音色はLUTE、CLAV、PIANO、JAW、FAZOR、TINE各2種から選択、もしくは組み合わせて使用する。専用のペダルにはソステヌートスイッチが追加された。RMIが開発した最後の製品となった。
+
+エレクトラピアノ以前の同種の楽器
+
+  - Explorer (1966-1967): RMIブランド最初の製品。押鍵によって振動するリードが接点と触れ合って発音する独特の機構をもち、マンドリンのようなトレモロ演奏が可能(アコースティック楽器に例えると[マークソフォンが近い](https://ja.wikipedia.org/wiki/:w:marxophone "wikilink"))。鍵盤はC1-C5の49鍵。改良型のExplorer IIも作られた。
+  - Model 100 Rock-Si-Chord (1966-1967): 各鍵盤に8'と4'の2系統の音源を持ち、ハープシコード再現に特化したもの。オルガンモードなし。鍵盤はC1-C5の49鍵。
+  - Model 200 Rock-Si-Chord (1968): 音色数を増やしたもの。後期型はエレクトラピアノと同じ筐体(色はグリーン)になる。
+
+その他のRMIブランドの電子楽器
+
+  - Lark/ Lark II Combo Organ (1968-1970): 37鍵のコンボオルガン。ヴォックス社の[ジャガーに良く似たオレンジの天板と音色タブレットをもつ](https://ja.wikipedia.org/wiki/:w:Vox_Jaguar "wikilink")。
+  - Band Organ/ Calliope/ Calliope B (1966-1969): カリオペ(蒸気オルガン)を電子回路で再現した楽器。Band OrganはRMIブランドで初めて作られた製品。
+  - Harmonic Synthesizer (1974-1976): 世界初の実用デジタル・モノフォニックシンセサイザー。2系統の加算合成オシレーターを持ち、[周波数変調で複雑な倍音生成も可能である](../Page/FM音源.md "wikilink")。筐体は368Xと同様のものを使用。
+  - Keyboard Computer I/ II (KC I: 1974-1975, KC II: 1975-1982): 世界初のデジタル・サンプリング音源を用いたシンセサイザー。IとIIではインターフェースが大幅に異なるが、筐体は368Xと同様のものを使用。音色プログラムがパンチカードで供給された。
+
+## 関連項目
+
+  - [電子ピアノ](../Page/電子ピアノ.md "wikilink")
+  - [ローズ・ピアノ](https://ja.wikipedia.org/wiki/ローズ・ピアノ "wikilink")
+
+## 外部リンク
+
+  - [Synthmuseum.com内のページ(英文)](http://www.synthmuseum.com/rmi/rmiele30001.html)
+
+[Category:鍵盤楽器](https://ja.wikipedia.org/wiki/Category:鍵盤楽器 "wikilink") [Category:電子楽器](https://ja.wikipedia.org/wiki/Category:電子楽器 "wikilink")

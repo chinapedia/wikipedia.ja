@@ -1,0 +1,46 @@
+> この記事は[B \(\)](https://ja.wikipedia.org/wiki/B_\(\))から翻訳されています。
+
+
+|                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [USS_Richard_B._Russell_(SSN-687).jpg](https://ja.wikipedia.org/wiki/File:USS_Richard_B._Russell_\(SSN-687\).jpg "fig:USS_Richard_B._Russell_(SSN-687).jpg") |
+| 艦歴                                                                                                                                                               |
+| 発注:                                                                                                                                                              |
+| 起工:                                                                                                                                                              |
+| 進水:                                                                                                                                                              |
+| 就役:                                                                                                                                                              |
+| 退役:                                                                                                                                                              |
+| 除籍:                                                                                                                                                              |
+| その後:                                                                                                                                                             |
+| 性能諸元                                                                                                                                                             |
+| [排水量](https://ja.wikipedia.org/wiki/排水量 "wikilink"):                                                                                                             |
+| 全長:                                                                                                                                                              |
+| 全幅:                                                                                                                                                              |
+| 吃水:                                                                                                                                                              |
+| 機関:                                                                                                                                                              |
+| 最大速:                                                                                                                                                             |
+| 乗員:                                                                                                                                                              |
+| 兵装:                                                                                                                                                              |
+| モットー:                                                                                                                                                            |
+
+**リチャード・B・ラッセル** (**USS Richard B. Russell, SSN-687**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[原子力潜水艦](../Page/原子力潜水艦.md "wikilink")。[スタージョン級原子力潜水艦](https://ja.wikipedia.org/wiki/スタージョン級原子力潜水艦 "wikilink")の37番艦。艦名は[ジョージア州](../Page/ジョージア州.md "wikilink")選出[上院議員](../Page/アメリカ合衆国上院.md "wikilink")、[リチャード・B・ラッセル・ジュニア](https://ja.wikipedia.org/wiki/リチャード・B・ラッセル・ジュニア "wikilink")に因んで命名された。
+
+## 艦歴
+
+リチャード・B・ラッセルの建造は1969年7月25日に[バージニア州](../Page/バージニア州.md "wikilink")[ニューポート・ニューズ](https://ja.wikipedia.org/wiki/ニューポート・ニューズ "wikilink")の[ニューポート・ニューズ造船所](https://ja.wikipedia.org/wiki/ニューポート・ニューズ造船所 "wikilink")に発注され、1971年10月19日にイナ・ラッセル・ステーシー（ラッセル上院議員の妹）によって起工した。1974年1月12日に[ハーマン・E・タルマージ](https://ja.wikipedia.org/wiki/ハーマン・E・タルマージ "wikilink")夫人（タルマージ上院議員の妻）によって命名、進水し、1975年8月16日に就役した。
+
+1977年8月、ラッセルはアンテナ・ブイを収めた巨大なハウジングがセイル後部の船体に増設された。（後に建造された潜水艦はアンテナ・ブイを船体フェアリングに内蔵することとなった。）このハウジングはユニークな特徴として「ラッセル・バスル *Russell Bustle*」として知られるようになった。
+
+1980年に5ヶ月の地中海配備を完了する。1981年には北海での配備を完了し、その功績で殊勲部隊章を受章する。1982年にラッセルは[パナマ運河](../Page/パナマ運河.md "wikilink")を通過し[メア・アイランド海軍工廠](https://ja.wikipedia.org/wiki/メア・アイランド海軍工廠 "wikilink")で拡張オーバーホールを行う。この間にラッセルは特殊任務艦への改修が決定し、[オーバーホール](https://ja.wikipedia.org/wiki/オーバーホール "wikilink")後の短期任務の後広範囲な修正が行われた。ラッセルは第1潜水艦開発部隊に配属され、いくつかの作戦活動に対して殊勲部隊章が授与された。
+
+リチャード・B・ラッセルは1993年7月1日に予備役となる。1994年6月24日に退役、除籍され、[ワシントン州](../Page/ワシントン州.md "wikilink")[ブレマートン](../Page/ブレマートン.md "wikilink")で2001年10月1日まで保管された。その後[原子力艦再利用プログラム](../Page/原子力艦再利用プログラム.md "wikilink")に基づき2002年9月19日に解体された。
+
+## 関連項目
+
+  - [アメリカ海軍艦艇一覧](https://ja.wikipedia.org/wiki/アメリカ海軍艦艇一覧 "wikilink")
+
+## 外部リンク
+
+  - [navsource.org](http://www.navsource.org/archives/08/08687.htm)
+
+[Category:スタージョン級原子力潜水艦](https://ja.wikipedia.org/wiki/Category:スタージョン級原子力潜水艦 "wikilink") [Category:1975年竣工船](https://ja.wikipedia.org/wiki/Category:1975年竣工船 "wikilink")

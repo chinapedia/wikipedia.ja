@@ -1,0 +1,208 @@
+> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+
+
+**FMニセコ放送株式会社**（エフエムニセコほうそう、*FM NISEKO Broadcasting*）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[虻田郡](../Page/虻田郡.md "wikilink")[倶知安町](../Page/倶知安町.md "wikilink")の一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")とする[超短波放送](../Page/超短波放送.md "wikilink")（[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")）をしていた[一般放送事業者](https://ja.wikipedia.org/wiki/一般放送事業者#従前の定義 "wikilink")（現・民間[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")）である。 **FMニセコ**の愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしていた。
+
+## 概要
+
+北海道では初めての[町](../Page/町.md "wikilink")を対象としたコミュニティ放送をしていた。 放送局（現・[特定地上基幹放送局](https://ja.wikipedia.org/wiki/特定地上基幹放送局 "wikilink")）の[コールサインはJOZZ](https://ja.wikipedia.org/wiki/識別信号#呼出符号 "wikilink")1AW-FM、[呼出名称は](https://ja.wikipedia.org/wiki/識別信号#呼出名称 "wikilink")「くっちゃんエフエムニセコ」、[周波数](../Page/周波数.md "wikilink")は83.5MHz、[空中線電力](https://ja.wikipedia.org/wiki/空中線電力 "wikilink")20W ([ERP](https://ja.wikipedia.org/wiki/実効放射電力 "wikilink")37W) で樺山から送信していた。
+
+自社番組の時間帯以外は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")の[J-WAVE](../Page/J-WAVE.md "wikilink")の[再送信](https://ja.wikipedia.org/wiki/再送信 "wikilink")を行っており、24時間放送をしていた。また、マスコットキャラクターの「ラジーモ」があった。
+
+## 開局後の経過
+
+開局から3か月後の2007年3月には給与の延滞問題が発生していることが発覚。この時点で赤字額は毎月190万円ほど出ており2月分の給与も未払い状態であった。 6月30日には当時の社長が暴行容疑で逮捕された。
+
+7月からは給与の支払いは完全になくなり、8月末には社員は全員解雇され[ボランティア](../Page/ボランティア.md "wikilink")による運営となった。この後[代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink")による謝罪があり、経営難の最大の要因を「ほとんど営業活動を行っていなかったこと」とした。
+
+9月16日の[株主総会](../Page/株主総会.md "wikilink")で解散を決議。 初年度（5か月）売上げが640万円ほどであったのに対し、未払金だけでも4,600万円ほどあった。 17日の17時ごろには[北海道電力](../Page/北海道電力.md "wikilink")から電気が止められ\[1\]、 翌18日からは[送信所](https://ja.wikipedia.org/wiki/送信所 "wikilink")から直接放送を行っていた\[2\]。 22日の15時から1時間の[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")の後、放送を終了した。演奏所は30日までに撤収を完了した。 北1条の駅前通りにあった[演奏所](https://ja.wikipedia.org/wiki/演奏所 "wikilink")（スタジオ）も撤収済みである。
+
+廃局後の一時期、出演者らにより[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")「ニセコラジオ」が運営されていた。
+
+## 沿革
+
+2006年（平成18年）
+
+  - 8月 - FMニセコ放送株式会社設立。
+  - 11月16日 - 放送局の[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")取得。
+  - 12月2日 - 試験放送開始。
+  - 12月12日 - 放送局の免許取得。
+  - 12月18日 - 本放送開始。
+
+2007年（平成19年）
+
+  - 9月16日 - 株主総会において経営困難のため解散を議決。
+  - 9月22日 - 15時からの1時間の[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")をもって放送終了。
+  - 9月30日 - 演奏所の撤収を完了。
+
+2008年（平成20年）3月21日 - 廃止届が受理される。
+
+## 番組表
+
+[北海道新聞](../Page/北海道新聞.md "wikilink")の小樽・後志版（朝刊）に開局日から2007年9月17日まで番組表を掲載していた。また、倶知安町の広報誌「広報くっちゃん」に2007年1月 - 7月号まで「FMニセコ 83.5」（自社製作番組紹介）が掲載されていた。
+
+## 放送されていた番組
+
+  - 月曜 - 金曜
+
+<!-- end list -->
+
+  - モーニングブリーズ　7:00 - 9:00 - 土曜・日曜は1時間番組として放送。2ヶ国語で番組は進行。
+  - 朝のPOPS（洋楽）　9:10 - 10:00
+  - Global Information 11:30 - 12:00
+  - おはようMUSIC（邦楽）10:00 - 12:00
+  - 山麓インフォメーション　11:30 - 12:00
+  - 午後のカントリーロード　12:00 - 14:30
+  - ミニ　カントリー（リクエストタイム）　14:30 - 15:00
+  - 午後のカントリーロード　2（セカンドシーズン）月曜 - 木曜　12:00 - 14:00・金曜　12:00 - 13:00
+  - イノセントコーヒー　14:30 - 16:30 - 2ヶ国語で番組は進行。
+  - 邦楽セレクション　15:00 - 16:00
+  - 午後のPOPS　16:00 - 16:20
+  - 道路情報　16:20 - 16:30
+
+<!-- end list -->
+
+  - 月曜
+
+<!-- end list -->
+
+  - MART835　11:00 - 12:00
+  - MUSH UP REGGAE TIME　22:00 - 23:00　(再放送 日曜14:00 - 15:00）
+  - ENAGY　TIME　22:00 - 23:00　(再放送 日曜14:00 - 15:00）
+
+<!-- end list -->
+
+  - 火曜
+
+<!-- end list -->
+
+  - ガイジンシル（英語放送）22:00 - 23:00
+  - お笑いナイト　22:00 - 23:00
+
+<!-- end list -->
+
+  - 水曜
+
+<!-- end list -->
+
+  - お気楽じゅうくぼっくす　22:00 - 23:00（再放送 木曜14:00 - 15:00）
+
+<!-- end list -->
+
+  - 木曜
+
+<!-- end list -->
+
+  - zappu soulful Raido　22:00 - 23:00　(再放送 日曜15:00 - 16:00）
+  - ミュージックフィールズ　22:00 - 23:00　（再放送 金曜15:00 - 16:00）
+  - Another　Party 23:00 - 24:00
+
+<!-- end list -->
+
+  - 金曜
+
+<!-- end list -->
+
+  - MART835　11:00 - 11:45
+  - more by way　11:45 - 12:00（北海道開発局の提供）
+  - 駅前金曜日　15:00 - 16:20
+  - ミュージックアンソロジー　22:00 - 23:00（再放送 火曜14:00 - 15:00）
+  - トリオ　ザ　マダムスのオールナイトくっちゃん　23:00 - 24:00（再放送 木曜23:00 - 24:00）
+  - ローズとりんのオールナイトくっちゃん　23:00 - 24:00（再放送 木曜23:00 - 24:00）
+
+<!-- end list -->
+
+  - 土曜
+
+<!-- end list -->
+
+  - [結城モイラ](https://ja.wikipedia.org/wiki/結城モイラ "wikilink")のハッピートーク　11:00 - 11:30
+  - シーニック宝島　11:30 - 12:00
+  - マコトのムービーライフ　11:30 - 12:00（再放送 月曜14:00 - 15:00）
+  - Global Information　12:00 - 12:30
+  - ザッツ！北海道（仮）12:00 - 14:00
+  - ハローサタデー　12:00 - 15:00
+  - ゲームをやる番組（仮）　15:00 - 16:30
+  - 道路情報　16:20 - 16:30
+  - アニメ・ソング　16:30 - 17:00
+  - ひろこの音部屋　16:30 - 17:00
+  - ザ・演歌　17:00 - 18:00（再放送 金曜13:00 - 14:00、土・日曜5:00 - 6:00）
+  - エンジョイクラシック　22:00 - 23:00（再放送 火曜15:00 - 16:00）
+  - ワインを飲まナイト　18:00 - 19:00（再放送 火曜22:00 - 23:00）
+
+<!-- end list -->
+
+  - 日曜
+
+<!-- end list -->
+
+  - ナイス\!ファイターズチャンネル　9:00 - 9:30（[三角山放送局の制作](../Page/らむれす.md "wikilink")、[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")による協力）
+  - 日曜落語　9:30 - 10:30（再放送 水曜14:00 - 15:00）
+  - 邦楽セレクション　10:30 - 11:50
+  - Global Information 11:30 - 12:00
+  - 道路情報　11:50 - 12:00
+  - The Good Life 12:00 - 14:00
+  - サンデーリクエスト　12:00 - 14:00
+  - WEEKDAYダイジェスト それいけカントリーキッズ　17:00 - 18:00
+  - WEEKDAYダイジェスト ペンション物語　18:00 - 19:00
+  - Mt.niseko JAZZ STORY　22:00 - 23:00（再放送 水曜15:00 - 16:00）
+
+<!-- end list -->
+
+  - 選挙開票速報番組
+
+<!-- end list -->
+
+  - 2007年1月21日 - 倶知安町長選挙
+  - 2007年4月8日 - [第16回統一地方選挙](https://ja.wikipedia.org/wiki/第16回統一地方選挙 "wikilink")・北海道知事選挙・北海道議会議員選挙
+  - 2007年4月22日 - 第16回統一地方選挙・町村議会議員（羊蹄山麓の町村）選挙 (20:00 - )
+
+<!-- end list -->
+
+  - 特別番組
+
+<!-- end list -->
+
+  - 2007年2月25日 - 雪トピア　フェスティバル「激走\!水面滑走トライアル」（生放送）
+  - 2007年5月4日 - 黄金太郎とウイークKの「聴けよ\!83.5　道の駅　探検隊」16:30 - 18:00、生放送（再放送を同月12日の19:00から実施）
+  - 2007年8月4日 - 「じゃが祭りだよ\! 全員集合\!\!」15:00 - 16:30、生放送（再放送を同月8日の23:00から実施）　
+  - 2007年9月8日 - なまザパーティ（21:00 - 28:00、生放送）
+  - 2007年9月14日 - FMニセコ放送の存続に関して（22:00 - 23:00、再放送を同月15日の15:00から実施）
+
+<!-- end list -->
+
+  -
+    FMニセコ放送株式会社取締役とFMニセコ存続支援会会長の対談を放送。放送内容は[\#外部リンク](https://ja.wikipedia.org/wiki/#外部リンク "wikilink")の「がんばれ、FMニセコ」から聴取可能。
+
+## 脚注・出典
+
+<references />
+
+## 関連項目
+
+  - [かつて日本に存在した放送局](https://ja.wikipedia.org/wiki/かつて日本に存在した放送局 "wikilink")
+  - [ラジオニセコ](https://ja.wikipedia.org/wiki/ラジオニセコ "wikilink") - 隣町[ニセコ町](../Page/ニセコ町.md "wikilink")を対象としたコミュニティ放送局で、2012年（平成24年）3月31日に開局。当局とは無関係、コールサインも異なる。
+
+## 外部リンク
+
+  - [FM Niseko Web Site](http://fmniseko835.web.fc2.com/)
+  - 番組ブログ
+      - [羊蹄山麓カントリーロード](http://blog.livedoor.jp/fmniseko835/) 午後のカントリーロード
+
+      -
+      - [オールナイトくっちゃん](http://plaza.rakuten.co.jp/fmniseko835/) ローズとりんのオールナイトくっちゃん
+
+      - ハローサタデー
+
+      - [ひろこの音部屋](https://web.archive.org/web/20100802003332/http://hiroko.radilog.net/)（[Internet Archiveのアーカイブ](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink"):2010年8月2日収集）
+  - [倶知安町のコミュニティ放送局の免許申請を受理](http://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.hokkaido-bt.go.jp/2006/0831a.htm) 北海道総合通信局 報道資料 平成18年8月31日（[国立国会図書館](../Page/国立国会図書館.md "wikilink")のアーカイブ:2009年1月13日収集）
+  - [倶知安町のコミュニティ放送局に予備免許](http://warp.da.ndl.go.jp/info:ndljp/pid/258151/www.hokkaido-bt.go.jp/2006/1116.htm) 同上 平成18年11月16日（同上:2007年8月8日収集）
+  - [倶知安町のコミュニティ放送局に免許](http://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/hokkaido/2006/1212.htm) 同上 平成18年12月12日（同上:2009年7月22日収集）
+  - [コミュニティ放送局の廃止について](http://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/hokkaido/2008/0321.htm) 同上 平成20年3月21日（同上:2009年7月22日収集）
+  - [がんばれ、FMニセコ](http://www.niseko.net/fmniseko/) 勝手にFMニセコを応援するページ
+  - [ニセコラジオ](https://web.archive.org/web/20091005230943/http://www.nisekoradio.com/) ニセコラジオの会（Internet Archiveのアーカイブ:2009年10月5日収集）
+
+[Category:かつて存在した日本のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のコミュニティ放送局 "wikilink") [Category:北海道地方のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:北海道地方のコミュニティ放送局 "wikilink") [Category:北海道のマスメディア](https://ja.wikipedia.org/wiki/Category:北海道のマスメディア "wikilink") [Category:倶知安町](https://ja.wikipedia.org/wiki/Category:倶知安町 "wikilink") [Category:2006年設立の企業](https://ja.wikipedia.org/wiki/Category:2006年設立の企業 "wikilink") [Category:2007年廃止の企業](https://ja.wikipedia.org/wiki/Category:2007年廃止の企業 "wikilink")
+
+1.  [放送停止](http://yaplog.jp/fmniseko835/archive/73)　駅前金曜日 2007年9月18日（番組ブログ）
+2.  [あのねぇ～](http://yaplog.jp/fmniseko835/archive/76)　駅前金曜日 2007年9月19日（番組ブログ）

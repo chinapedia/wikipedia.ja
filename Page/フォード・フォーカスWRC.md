@@ -1,0 +1,45 @@
+> この記事は[WRC](https://ja.wikipedia.org/wiki/WRC)から翻訳されています。
+
+
+<div class="pathnavbox">
+
+</div>
+
+[2017-03-07_Geneva_Motor_Show_0899.JPG](https://ja.wikipedia.org/wiki/File:2017-03-07_Geneva_Motor_Show_0899.JPG "fig:2017-03-07_Geneva_Motor_Show_0899.JPG") **フォーカスWRC**（フォーカスダブリューアールシー、**ford　focus world Rallycar**)は、[フォードと](https://ja.wikipedia.org/wiki/フォード・モーター "wikilink")[Mスポーツ](https://ja.wikipedia.org/wiki/Mスポーツ "wikilink")が[世界ラリー選手権](../Page/世界ラリー選手権.md "wikilink")（WRC）に出場するために開発した競技専用車（[ワールドラリーカー](https://ja.wikipedia.org/wiki/ワールドラリーカー "wikilink")）である。
+
+## 第一世代モデル
+
+これまでのフォードのラリー活動においてのベース車であった[エスコートに代わり](https://ja.wikipedia.org/wiki/フォード・エスコート "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発売された[フォーカスをベースに](https://ja.wikipedia.org/wiki/フォード・フォーカス "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[FIAが導入したワールドラリーカー](https://ja.wikipedia.org/wiki/国際自動車連盟 "wikilink")（WRカー）規定に沿って開発された車両である。それ以前の[エスコートWRCは本来は規定に合致しない](../Page/フォード・エスコートWRC.md "wikilink")[エスコート・コスワースがベースであったため](https://ja.wikipedia.org/wiki/フォード・エスコート・コスワース "wikilink")、1998年までの2年間の使用期間条件があり、新しいマシン開発が急務だった。また、WRCでの活動がフォードの新しい世界戦略車のマーケティングの一環とされたことで、本社からも多大な支援が得られた。開発は1997年よりフォードのワークス活動を委託された[Mスポーツ](https://ja.wikipedia.org/wiki/Mスポーツ "wikilink")にて行われ、従来のエスコートとは対照的に、新機構が多く取り込まれた車両となっている。
+
+[Xtrac](https://ja.wikipedia.org/wiki/Xtrac "wikilink")製6段縦置きギアボックスを採用し、フロントの重量軽減が測られている（採用は[プジョー](../Page/プジョー.md "wikilink")、[ヒュンダイ](https://ja.wikipedia.org/wiki/ヒュンダイ "wikilink")より先）。また、サスペンションは、クロスメンバーの断面にも補強を施されており、チタン製のアップライトと相まって、特に悪路で効果を発揮した。エンジンは鋳鉄ブロックのコスワースYBTに変わって、市販仕様にも搭載されているアルミブロックのゼテックEをベースにイギリスのマウンチューンが開発を手がけ、[ターボチャージャー](../Page/ターボチャージャー.md "wikilink")、ウォーターインジョクション、[ミスファイアリングシステム](https://ja.wikipedia.org/wiki/ミスファイアリングシステム "wikilink")を備えていた。ところが、パワーアップしたエンジンに対し、大容量ウォーターポンプの認可がおりず、未認可のものを搭載したデビュー戦の[1999年](../Page/1999年.md "wikilink")[ラリー・モンテカルロ](https://ja.wikipedia.org/wiki/ラリー・モンテカルロ "wikilink")では車検で失格となっている。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Cm_ford.jpg "wikilink") 数々の新技術を投入されたフォーカスWRCだが、それら高価軽量パーツを多用しても参戦当初は重量過多に悩まされた。良好な重量配分を狙い採用された縦置きギアボックスにおいては、予想以上に駆動ロスが多く、それに伴うエンジントラブルも少なくなかった。参戦初年の1999年からフォードのエースドライバーに採用された[コリン・マクレー](https://ja.wikipedia.org/wiki/コリン・マクレー "wikilink")でも、サファリとポルトガルの2勝に留まっている。1999年シーズン終了後、時折ロックする欠陥を持つステアリング系は見直され、シーズンを通し悩まされたギヤボックスも、振動の発生源だった[クラッチ](https://ja.wikipedia.org/wiki/クラッチ "wikilink")を[クランクシャフト](https://ja.wikipedia.org/wiki/クランクシャフト "wikilink")と同軸上に移し、揺れを抑制。ドライバーから不評だったシフトレバーは改良され、[2000年](../Page/2000年.md "wikilink")の[ツール・ド・コルスとラリー](https://ja.wikipedia.org/wiki/コルシカ島#ツール・ド・コルス "wikilink")・サンレモで試験的に投入された[セミオートマチックトランスミッション](../Page/セミオートマチックトランスミッション.md "wikilink")も、[2001年](../Page/2001年.md "wikilink")モデルから本格的に採用された。パワー不足だったエンジンは、翌2000年からは全面的にコスワースが担当し、ブレーキもターマック仕様は前後同サイズに強化されている。それでも同時期にデビューした[プジョー・206](../Page/プジョー・206.md "wikilink")WRCには苦戦することが多かった。
+
+[François_Duval_-_2004_Rally_Finland.jpg](https://ja.wikipedia.org/wiki/File:François_Duval_-_2004_Rally_Finland.jpg "fig:François_Duval_-_2004_Rally_Finland.jpg") [2002年](../Page/2002年.md "wikilink")に[プロドライブ](https://ja.wikipedia.org/wiki/プロドライブ "wikilink")から移籍し、フォードのチーフエンジニアに就任した[クリスチャン・ロリオー](https://ja.wikipedia.org/wiki/クリスチャン・ロリオー "wikilink")が手がけた2003年モデルからはさらに大幅な改良がなされ、彼自身がプロドライブで開発を手がけた[スバル・インプレッサ WRC 2000に倣っての軽量化](https://ja.wikipedia.org/wiki/スバル・インプレッサ#ラリー "wikilink")、低重心化がなされている。それはドライバーシートの位置や、[ロールケージ](../Page/ロールケージ.md "wikilink")の変更だけでなく、サイドブレーキレバーを緊急時のシフトレバーとして使用する等のことにまで至っており、非常に徹底された内容となっている。足回りも変更が加えられ、形式はストラットのままだが、リアはより路面の追従性をあげるためにサスペンションストロークが増やされ、トレーリングアームは旧モデルより延長、ストラットの取り付け位置はやや後退したものに直された。なお、ベース車両がUSモデル（全長が増している）に切り替わったため、空力パーツが改良され、外観に変化が見られる。これらの大幅な改良によって性能は向上し、[2003年](../Page/2003年.md "wikilink")は[マルコ・マルティン](https://ja.wikipedia.org/wiki/マルコ・マルティン "wikilink")のドライブでアクロポリス・ラリー、ラリー・フィンランドで勝利。翌[2004年](../Page/2004年.md "wikilink")はプジョーに代わって戦闘力を上げたシトロエンやスバルを相手に、マルティンはラリー・メキシコで勝利。また、これまでフォーカスにとって得意とはいえなかった舗装路のラリーでも、ラリー・カタロニア、ツール・ド・コルスと勝利している。
+
+## 第二世代モデル
+
+[Ford_Foucus_WRC05.JPG](https://ja.wikipedia.org/wiki/File:Ford_Foucus_WRC05.JPG "fig:Ford_Foucus_WRC05.JPG") [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")最終戦ラリー・オーストラリアからは、2代目フォーカスをベースにした車両が投入された。
+
+パワートレーンは、先代マシンの特徴でありアキレス腱でもあった縦置きギアボックスは採用せず、従来的な横置きギアボックスに改められた他、不評だった緊急用マニュアルシフトレバーとの兼用サイドブレーキレバーは廃された。
+
+サスペンションは、よりストロークを伸ばし、熱対策のため、フロントのショックアブソーバーは通常よりもややキャスター角度がつけられた形式に変更された。リアサスペンションは先代の2003年モデルから基本的な構造は大きく変わっていない。また、先代マシンで推し進められた低重心化は2代目にベースが変わってからも徹底され、スペアタイヤは、室内からリアバンパー下に設置された。　
+
+エンジンはベースモデルのSTは5気筒だが、同一メーカーのエンジンが流用出来るWRカー規定を利用し、標準モデルが採用している[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")開発のエンジン（マツダ内ではMZRと呼ばれる）を基に、これまでプジョーのワークスエンジンを担っていたフランスのピポ・モチュールが開発。同社のトルク重視のチューニングにより、これまでの弱点であった低回転域のトルク不足を改善している。これらの改良が功を奏し、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")と[2007年](../Page/2007年.md "wikilink")には[マーカス・グロンホルム](https://ja.wikipedia.org/wiki/マーカス・グロンホルム "wikilink")と[ミッコ・ヒルボネン](https://ja.wikipedia.org/wiki/ミッコ・ヒルボネン "wikilink")らによって、マニュファクチャラーズタイトルを獲得している。
+
+[Latvala_Catalunya2010.jpg](https://ja.wikipedia.org/wiki/File:Latvala_Catalunya2010.jpg "fig:Latvala_Catalunya2010.jpg") [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")モデルは、2008年中盤のドイツに登場。外観はフェイスリフトを受けた市販車に倣いフロントマスクの変更のみに留まったが、エンジンはライバルよりも劣っていたピークパワーのアップを狙って、カムシャフトとクランクシャフト、タービンが改良されている。[2009年](../Page/2009年.md "wikilink")に入っても手が加えられ、シーズン序盤にはエンジンの出力軸から動力を取っていたウォーターポンプが、電気モーターで駆動するタイプに変更された。
+
+2010年一杯でフォードはフォーカスによるワークスラリー活動を終了し、2011年から始まる新レギュレーション発足に伴い、[フィエスタRS WRCへスイッチした](https://ja.wikipedia.org/wiki/フォード・フィエスタ_RS_WRC "wikilink")。
+
+Image:Matthew WILSON FORD Focus RS WRC06.JPG|ストバートカラー Image:Luis PEREZ COMPANC FORD Focus RS WRC06.JPG|ミュンヒスカラー
+
+## 脚注
+
+## 関連項目
+
+  - [世界ラリー選手権](../Page/世界ラリー選手権.md "wikilink")
+  - [ワールドラリーカー](https://ja.wikipedia.org/wiki/ワールドラリーカー "wikilink")
+  - [フォード・エスコートWRC](../Page/フォード・エスコートWRC.md "wikilink")
+  - [フォード・フィエスタWRC](https://ja.wikipedia.org/wiki/フォード・フィエスタWRC "wikilink")
+
+[Category:フォードの車種](https://ja.wikipedia.org/wiki/Category:フォードの車種 "wikilink") [Category:ワールドラリーカー](https://ja.wikipedia.org/wiki/Category:ワールドラリーカー "wikilink")

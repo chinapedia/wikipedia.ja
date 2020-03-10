@@ -1,0 +1,198 @@
+> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+
+
+**スーパー桃太郎電鉄III**（スーパーももたろうでんてつスリー）は、[ハドソン](../Page/ハドソン.md "wikilink")が発売したボードゲーム。[桃太郎電鉄シリーズ](../Page/桃太郎電鉄シリーズ.md "wikilink")の第4作である。 __TOC__
+
+## 概要
+
+今作はキングボンビー対策にロボット研究所が初登場し、カード売り場のうちいくつかがこのマスに変更になった。新駅の登場が無い分、イベントの数・カードの種類・物件数が増加し、よりゲームのボリュームが増している。
+
+## 前作からの変更点
+
+  - 夜叉姫がCOMキャラから外れ、桃太郎のアシスタントとして「PBS NEWS」に登場する。
+      - 入れ替わりにかぐや姫が夜叉姫の思考パターンを引き継いで対戦相手として登板した。
+  - プラス駅やマイナス駅・イベントなどで出てくる収入や支出が、基本的に年数に比例するようになった。
+  - 物件ジャンルが見直された。「外食」が「食品」になり、「ホテル」「レジャー」「温泉」「その他」が「観光」「商業」に組み直された。
+  - 収益率マイナスの物件は、独占することで損失が半減する（『II』までは損失も倍増していた）。
+  - 貧乏神がつくプレイヤーの告知の際のセリフ回しが変更された。
+  - 貧乏神やキングボンビーの悪行は、種類が増加し、年数を追うごとに強化される。また、『II』から引き継がれた悪行も補強されている。
+
+:\* キングボンビーに変身した際、キングボンビーが落雷のエフェクトと共に出現する（本作のみ）。
+
+:\* 本作より各種悪行を行う前に、悪行ごとの固有のエフェクトが挿入されるようになった。
+
+:\* キングボンビーへの対抗手段であるメカボンビーを販売する「ロボット研究所」が初登場。全国数か所にあり、本作では1回の訪問で1回だけ投資できるシステム。1億円単位で99億円まで投資でき、投資金がメカボンビーの価格に達すると購入したことになる。
+
+  - 「リニアカード」が30マス進める効果になる\[1\]。従来のリニアカードは「のぞみカード」として登場する。
+  - 「イトーヨーカード」が1つの都市の物件を安い順にまとめ買いする仕様になった。
+  - 本作のみ、ドジラ出現から都市を襲うまで4か月間の猶予期間があり、モモトラマンカードを用意する準備期間が与えられるようになった。ただし襲う直前までどの都市がターゲットになるかはわからない。
+
+:\* モモトラマンが勝負に負けることがある。モモトラマンカードは勝負に負けるまで手元に残るようになる。また、カードを持っていても強制的に使われることはなく、出動させるかどうかプレイヤーが判断する。
+
+  - 物件が8件ある駅が、全国的に大幅に増える。
+  - 収益率2%の物件が登場する（『II』までは全て収益率が5%刻みだった）。低収益率の物件が増加しているため、収益率を考えて物件を購入する必要がある。
+  - 景気変動イベントが登場。[バブル](../Page/バブル景気.md "wikilink")（プラス駅収入・到着援助金が2倍、マイナス駅支出が半分）と不景気（プラス駅収入・到着援助金が半分、マイナス駅支出が2倍）がある。
+  - 初登場のカード : [のぞみカード](https://ja.wikipedia.org/wiki/のぞみ_\(列車\) "wikilink")(300系新幹線登場に伴い登場)、スペシャルカード、イエローカード、[テレポートカード](https://ja.wikipedia.org/wiki/瞬間移動 "wikilink")、[ダイヤモンド](../Page/ダイヤモンド.md "wikilink")カード、とびちりカードなど
+  - 特定のプレイ回数のみ、記念ゲームとして特別な状態でスタートすることができる。
+
+## 登場駅
+
+### 物件駅（81駅）
+
+**太字**の駅は目的地になる駅。
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+  - **[稚内](../Page/稚内市.md "wikilink")**
+  - [旭川](../Page/旭川市.md "wikilink")
+  - [網走](../Page/網走市.md "wikilink")
+  - **[釧路](https://ja.wikipedia.org/wiki/釧路市 "wikilink")**
+  - [トマム](../Page/トマム駅.md "wikilink")
+  - [富良野](../Page/富良野市.md "wikilink")
+  - **[札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")**
+  - [小樽](../Page/小樽市.md "wikilink")
+  - [ニセコ](../Page/ニセコ町.md "wikilink")
+  - [苫小牧](https://ja.wikipedia.org/wiki/苫小牧市 "wikilink")
+  - [襟裳](../Page/えりも町.md "wikilink")
+  - [長万部](https://ja.wikipedia.org/wiki/長万部町 "wikilink")
+  - [函館](../Page/函館市.md "wikilink")
+  - **[青森](https://ja.wikipedia.org/wiki/青森市 "wikilink")**
+  - [弘前](../Page/弘前市.md "wikilink")
+  - [秋田](../Page/秋田市.md "wikilink")
+  - [盛岡](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")
+  - [山形](../Page/山形市.md "wikilink")
+  - [鳴子](../Page/鳴子町.md "wikilink")
+  - **[仙台](https://ja.wikipedia.org/wiki/仙台市 "wikilink")**
+  - [福島](../Page/福島市.md "wikilink")
+  - [那須](../Page/那須町.md "wikilink")
+  - [水戸](../Page/水戸市.md "wikilink")
+  - [上野](https://ja.wikipedia.org/wiki/上野駅 "wikilink")
+  - [千葉](../Page/千葉市.md "wikilink")
+  - **[東京](https://ja.wikipedia.org/wiki/東京駅 "wikilink")**
+  - [勝浦](../Page/勝浦市.md "wikilink")
+
+</div>
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+  - [横浜](../Page/横浜市.md "wikilink")
+  - **[新潟](https://ja.wikipedia.org/wiki/新潟市 "wikilink")**
+  - [佐渡](../Page/佐渡市.md "wikilink")
+  - [湯沢](../Page/湯沢町.md "wikilink")
+  - [甲府](../Page/甲府市.md "wikilink")
+  - [長野](../Page/長野市.md "wikilink")
+  - [軽井沢](../Page/軽井沢町.md "wikilink")
+  - [松本](https://ja.wikipedia.org/wiki/松本市 "wikilink")
+  - [白馬](../Page/白馬村.md "wikilink")
+  - [熱海](https://ja.wikipedia.org/wiki/熱海市 "wikilink")
+  - [静岡](https://ja.wikipedia.org/wiki/静岡市 "wikilink")
+  - [木曽](https://ja.wikipedia.org/wiki/木曽町 "wikilink")
+  - [浜松](https://ja.wikipedia.org/wiki/浜松市 "wikilink")
+  - **[名古屋](../Page/名古屋市.md "wikilink")**
+  - [高山](../Page/高山市.md "wikilink")
+  - [岐阜](../Page/岐阜市.md "wikilink")
+  - [松阪](../Page/松阪市.md "wikilink")
+  - [伊勢](../Page/伊勢市.md "wikilink")
+  - **[新宮](../Page/新宮市.md "wikilink")**
+  - [富山](https://ja.wikipedia.org/wiki/富山市 "wikilink")
+  - [金沢](https://ja.wikipedia.org/wiki/金沢市 "wikilink")
+  - [敦賀](https://ja.wikipedia.org/wiki/敦賀市 "wikilink")
+  - [京都](../Page/京都市.md "wikilink")
+  - **[大阪](https://ja.wikipedia.org/wiki/大阪市 "wikilink")**
+  - [奈良](https://ja.wikipedia.org/wiki/奈良市 "wikilink")
+  - [白浜](../Page/白浜町.md "wikilink")
+  - [和歌山](../Page/和歌山市.md "wikilink")
+
+</div>
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+  - [神戸](../Page/神戸市.md "wikilink")
+  - [姫路](https://ja.wikipedia.org/wiki/姫路市 "wikilink")
+  - [鳥取](../Page/鳥取市.md "wikilink")
+  - [岡山](../Page/岡山市.md "wikilink")
+  - **[出雲](../Page/出雲市.md "wikilink")**
+  - [尾道](../Page/尾道市.md "wikilink")
+  - [広島](https://ja.wikipedia.org/wiki/広島市 "wikilink")
+  - [萩](../Page/萩市.md "wikilink")
+  - [下関](../Page/下関市.md "wikilink")
+  - [高松](https://ja.wikipedia.org/wiki/高松市 "wikilink")
+  - [徳島](https://ja.wikipedia.org/wiki/徳島市 "wikilink")
+  - **[高知](../Page/高知市.md "wikilink")**
+  - [宇和島](../Page/宇和島市.md "wikilink")
+  - [松山](../Page/松山市.md "wikilink")
+  - **[博多](../Page/博多.md "wikilink")**
+  - [小倉](https://ja.wikipedia.org/wiki/小倉駅_\(福岡県\) "wikilink")
+  - [佐世保](../Page/佐世保市.md "wikilink")
+  - **[長崎](../Page/長崎市.md "wikilink")**
+  - [別府](../Page/別府市.md "wikilink")
+  - [大分](../Page/大分市.md "wikilink")
+  - [熊本](https://ja.wikipedia.org/wiki/熊本市 "wikilink")
+  - [宮崎](https://ja.wikipedia.org/wiki/宮崎市 "wikilink")
+  - **[鹿児島](../Page/鹿児島市.md "wikilink")**
+  - [沖縄](../Page/沖縄県.md "wikilink")
+  - [グアム](../Page/グアム.md "wikilink")
+  - [サイパン](https://ja.wikipedia.org/wiki/サイパン "wikilink")
+  - **[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")**
+
+</div>
+
+### カード売り場（19駅）
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+  - [根室](../Page/根室市.md "wikilink")
+  - [様似](../Page/様似町.md "wikilink")
+  - [恐山](https://ja.wikipedia.org/wiki/恐山 "wikilink")
+  - [遠野](../Page/遠野市.md "wikilink")
+  - [宮古](https://ja.wikipedia.org/wiki/宮古市 "wikilink")
+  - [陸前高田](../Page/陸前高田市.md "wikilink")
+  - [日光](../Page/日光市.md "wikilink")
+  - [館山](../Page/館山市.md "wikilink")
+  - [新島](../Page/新島.md "wikilink")
+  - [下田](../Page/下田市.md "wikilink")
+
+</div>
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+  - [尾鷲](https://ja.wikipedia.org/wiki/尾鷲市 "wikilink")
+  - [輪島](https://ja.wikipedia.org/wiki/輪島市 "wikilink")
+  - [マキノ](https://ja.wikipedia.org/wiki/マキノ町 "wikilink")
+  - [田辺](https://ja.wikipedia.org/wiki/田辺市 "wikilink")
+  - [倉吉](../Page/倉吉市.md "wikilink")
+  - [新居浜](../Page/新居浜市.md "wikilink")
+  - [中村](../Page/中村市.md "wikilink")
+  - [高千穂](https://ja.wikipedia.org/wiki/高千穂町 "wikilink")
+  - [指宿](../Page/指宿市.md "wikilink")
+
+</div>
+
+### ロボット研究所（3駅）
+
+  - [気仙沼](https://ja.wikipedia.org/wiki/気仙沼市 "wikilink")
+  - [七尾](../Page/七尾市.md "wikilink")
+  - [阿蘇](https://ja.wikipedia.org/wiki/阿蘇市 "wikilink")
+
+## TVCM
+
+[土佐電鉄](https://ja.wikipedia.org/wiki/土佐電鉄 "wikilink")電車両内にてロケ撮影。
+
+[荒井注](../Page/荒井注.md "wikilink")氏がスリの銀次役で出演された。
+
+## 関連書籍
+
+  - ベストセラーズ スーパー桃太郎電鉄究極本 (ISBN 4584160198)
+  - スーパー桃太郎電鉄必勝攻略法 (ISBN 4584160198)
+  - スーパー桃太郎電鉄 : ハドソン公式ガイドブック (ISBN 409102498X)
+
+## 脚注
+
+## 外部リンク
+
+  - ハドソンゲームナビ
+      -
+      -
+[Category:桃太郎電鉄シリーズ](https://ja.wikipedia.org/wiki/Category:桃太郎電鉄シリーズ "wikilink") [Category:1994年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1994年のコンピュータゲーム "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:ゲームギア用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームギア用ソフト "wikilink")
+
+1.  前作『II』でも「ぱろぷんてカード」による30マス移動の際は列車がリニアに変化するため、「リニアで30マス移動する概念」自体は既に存在していたが、「確実に30マスをリニアで進める」のは本作が初となる。

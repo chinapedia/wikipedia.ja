@@ -1,0 +1,122 @@
+> この記事は[JBV](https://ja.wikipedia.org/wiki/JBV)から翻訳されています。
+
+
+**ビーチバレーJBVツアー**は、[日本ビーチバレーボール連盟](../Page/日本ビーチバレーボール連盟.md "wikilink")が主催する[ビーチバレー](../Page/ビーチバレー.md "wikilink")大会である。国内各地を転戦し、総合ポイントで順位を争う。
+
+本項では2008年より創設された「**JBVグランドスラム**」「**JBVチャンピオンズカップ**」についても詳述する。
+
+## 歴史
+
+[1994年](../Page/1994年.md "wikilink")にツアー方式の「**ビーチバレージャパンサーキット**」として開始。
+
+[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には年5回開催の「**JBVビーチバレージャパンツアー**」に改称、スポーツ用品メーカーの[ファイテン](https://ja.wikipedia.org/wiki/ファイテン "wikilink")が冠スポンサーとなり、賞金付きプロツアー制に移行した。
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")より「ビーチバレーJBVツアー」に改称され現在に至る。
+
+2016年2月、日本バレーボール協会は「JBVツアー」と[JVAビーチバレーボールシリーズA](https://ja.wikipedia.org/wiki/JVAビーチバレーボールシリーズA "wikilink")を発展統合し、2016年シーズンから[ジャパンビーチバレーボールツアー](https://ja.wikipedia.org/wiki/ジャパンビーチバレーボールツアー "wikilink")の開催を発表した\[1\]。
+
+## 大会概要
+
+年間8戦行い、総合ポイントで順位を決定する。
+
+**開催大会（2013年）**
+
+  - 第1戦 ビーチバレー東京オープン（東京[お台場海浜公園](../Page/お台場海浜公園.md "wikilink")・5月上旬）
+  - 第2戦 JBVツアー2013 POCARI SWEAT ION WATER presents ビーチバレー福岡オープン（シーサイドももち海浜公園・5月下旬）
+  - 第3戦 ビーチバレー[霧島酒造](https://ja.wikipedia.org/wiki/霧島酒造 "wikilink")オープン（宮崎[霧島ファクトリーガーデン](https://ja.wikipedia.org/wiki/霧島ファクトリーガーデン "wikilink")・9月上旬）
+  - 第4戦 ペボニアカップ（お台場海浜公園・9月下旬）
+  - 第5戦 ビーチバレー川崎市長杯（女子のみ、川崎マリエンビーチバレーコート・10月上旬）
+
+各試合期間は3日間。初日に予選、2日目に本選、3日目に準決勝・決勝が行われていたが、2009年からは予選がJBVサテライトとして本戦と別会場となり、1日目より本選が行われる（第2戦東京オープン除く）。2010年からはさらなるリニューアルを決行。トッププロツアーとJBVサテライトに完全分離した。
+
+本選ではサテライトを勝ち上がった組にシード組を加えた12組（大会によって出場組数は変わる）で争われる。本選では1回戦で敗れても[敗者復活戦](https://ja.wikipedia.org/wiki/敗者復活戦 "wikilink")に回る。3回戦を勝ち上がった2組と敗者復活戦を勝ち上がった2組により準決勝・決勝が行われる。優勝賞金は各大会200万円。さらに順位によってポイントが与えられ、上位は翌年のシード権を獲得できる。
+
+2010年よりシード4チームに予選会を突破した2チームが全大会出場。各大会ごとにワイルドカード2チームを合わせた8チームがトッププロツアー出場となる。
+
+### JBVグランドスラム
+
+2008年より創設された[カップ戦](../Page/カップ戦.md "wikilink")要素の強い大会。正式名称は「ふくいカップJBVグランドスラム○○大会（○○には開催地が入る）」。
+
+2009年まではツアー第4戦まで1年以内の直近3大会で上位に入った16チーム（主催者推薦最大2チーム可）が参加。JBVツアー全日程終了後に[福井県](../Page/福井県.md "wikilink")内で開催され、グループリーグとノックアウトトーナメントで争った。
+
+2010年からはトッププロ8チームにそれらを除く日本ランキング上位8チームが出場する。
+
+### JBVチャンピオンズカップ
+
+2008年に開催された[プレーオフ](https://ja.wikipedia.org/wiki/プレーオフ "wikilink")要素の強い大会。
+
+グランドスラムを含めたJBVツアーランキング上位3チームに主催者推薦1チームを加えた4チームが進出。[六本木ヒルズ](../Page/六本木ヒルズ.md "wikilink")アリーナにてラウンドロビン方式で争う。
+
+## JBVツアーランキング
+
+ツアー各大会10位以内に入ると「JBVツアーポイント」が与えられ、合計ポイントにより「JBVツアーランキング」が形成される。
+
+ポイントは1位を100ポイントとして、100ポイントを順位の数字で割って小数点以下を切り捨てた値が獲得ポイントとなる（例：6位の場合、100 ÷ 6＝16.666…→16ポイント）。
+
+## 年間王者
+
+| 年    | 男子                                                                                                                       | 女子                                                                                                                 |
+| ---- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| 2005 | [渡辺聡](https://ja.wikipedia.org/wiki/渡辺聡_\(ビーチバレー\) "wikilink") / [朝日健太郎](https://ja.wikipedia.org/wiki/朝日健太郎 "wikilink") | [田中姿子](https://ja.wikipedia.org/wiki/田中姿子 "wikilink") / [小泉栄子](../Page/小泉栄子.md "wikilink")                         |
+| 2006 | [森川太地](../Page/森川太地.md "wikilink") / [山本辰生](https://ja.wikipedia.org/wiki/山本辰生 "wikilink")                               | 田中姿子 / 小泉栄子                                                                                                        |
+| 2007 | 朝日健太郎 / [白鳥勝浩](https://ja.wikipedia.org/wiki/白鳥勝浩 "wikilink")                                                            | [西堀健実](https://ja.wikipedia.org/wiki/西堀健実 "wikilink") / [浅尾美和](https://ja.wikipedia.org/wiki/浅尾美和 "wikilink")      |
+| 2008 | 朝日健太郎 / 白鳥勝浩                                                                                                             | [楠原千秋](../Page/楠原千秋.md "wikilink") / [佐伯美香](https://ja.wikipedia.org/wiki/佐伯美香 "wikilink")                         |
+| 2009 | 朝日健太郎 / 白鳥勝浩                                                                                                             | 楠原千秋 / [浦田聖子](https://ja.wikipedia.org/wiki/浦田聖子 "wikilink")                                                       |
+| 2010 | 朝日健太郎 / 白鳥勝浩                                                                                                             | 田中姿子 / [溝江明香](https://ja.wikipedia.org/wiki/溝江明香 "wikilink")                                                       |
+| 2011 | [井上真弥](https://ja.wikipedia.org/wiki/井上真弥 "wikilink") / [長谷川徳海](https://ja.wikipedia.org/wiki/長谷川徳海 "wikilink")          | 田中姿子 / 溝江明香                                                                                                        |
+| 2012 | 朝日健太郎 / 白鳥勝浩                                                                                                             | [尾崎睦](https://ja.wikipedia.org/wiki/尾崎睦_\(競輪選手\) "wikilink") / [草野歩](https://ja.wikipedia.org/wiki/草野歩 "wikilink") |
+| 2013 | [西村晃一](https://ja.wikipedia.org/wiki/西村晃一 "wikilink") / [日高裕次郎](https://ja.wikipedia.org/wiki/日高裕次郎 "wikilink")          | 尾崎睦 / 草野歩                                                                                                          |
+|      |                                                                                                                          |                                                                                                                    |
+
+### JBVグランドスラム
+
+| 年    | 男子                                                                                                            | 女子                                                                                                                 |
+| ---- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 2008 | 朝日健太郎 / 白鳥勝浩                                                                                                  | 楠原千秋 / 佐伯美香                                                                                                        |
+| 2009 | 朝日健太郎 / 白鳥勝浩                                                                                                  | [尾崎睦](https://ja.wikipedia.org/wiki/尾崎睦_\(競輪選手\) "wikilink") / [草野歩](https://ja.wikipedia.org/wiki/草野歩 "wikilink") |
+| 2010 | [西村晃一](https://ja.wikipedia.org/wiki/西村晃一 "wikilink") / [仲矢靖央](https://ja.wikipedia.org/wiki/仲矢靖央 "wikilink") | 田中姿子 / 溝江明香                                                                                                        |
+
+### JBVチャンピオンズカップ
+
+| 年    | 男子           | 女子          |
+| ---- | ------------ | ----------- |
+| 2008 | 朝日健太郎 / 白鳥勝浩 | 楠原千秋 / 佐伯美香 |
+
+## 放送
+
+2007年の福岡オープンから2008年までは[WOWOW](../Page/WOWOW.md "wikilink")で中継された。
+
+2009年より[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")に放映権が移り、「バボChannelSP」と題して注目選手の試合をダイジェストにまとめて放送をしている。2009年第5戦以降は決勝戦の生中継を実施しており、[BSフジ](../Page/BSフジ.md "wikilink")で録画中継される場合もある。
+
+2012年は第1戦は[BS-TBS](../Page/BS-TBS.md "wikilink")、大日本印章オープンは[東海テレビでの中継となった](../Page/東海テレビ放送.md "wikilink")。
+
+2013年は第2戦福岡オープンを[テレビ西日本](../Page/テレビ西日本.md "wikilink")で放送。
+
+グランドスラム及び大阪カップは[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")で放送。
+
+チャンピオンズカップは[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")・[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")で放送された。
+
+## マスコット
+
+  - ユニコ（日本ビーチバレー連盟公式キャラクタ、手塚プロダクション製作）
+  - 2011年まではビーチ・バボちゃん（フジテレビバレーボール中継マスコット「[バボちゃん](https://ja.wikipedia.org/wiki/バボちゃん "wikilink")」のビーチバレーバージョン）
+
+## テーマ曲
+
+  - [逗子3兄弟](https://ja.wikipedia.org/wiki/逗子3兄弟 "wikilink")「スイート・サマー・ストーリー」
+  - [hy4_4yh](https://ja.wikipedia.org/wiki/hy4_4yh "wikilink")「BEACH POWER」（2012年）
+
+## 脚注
+
+## 関連項目
+
+  - [ビーチバレージャパン](https://ja.wikipedia.org/wiki/ビーチバレージャパン "wikilink")
+  - [全日本ビーチバレー女子選手権大会](https://ja.wikipedia.org/wiki/全日本ビーチバレー女子選手権大会 "wikilink")
+
+## 外部リンク
+
+  - [JBVツアー](http://www.jbvtour.jp/)
+
+[Category:日本のビーチバレー大会](https://ja.wikipedia.org/wiki/Category:日本のビーチバレー大会 "wikilink") [Category:現存しないバレーボール大会](https://ja.wikipedia.org/wiki/Category:現存しないバレーボール大会 "wikilink") [Category:1994年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1994年開始のスポーツイベント "wikilink") [Category:2015年終了のスポーツイベント](https://ja.wikipedia.org/wiki/Category:2015年終了のスポーツイベント "wikilink")
+
+1.

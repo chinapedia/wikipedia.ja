@@ -1,0 +1,83 @@
+> この記事は[CM](https://ja.wikipedia.org/wiki/CM)から翻訳されています。
+
+
+**ラジオCMコンテスト**（ラジオシーエムコンテスト）とは、[ラジオCM](https://ja.wikipedia.org/wiki/ラジオCM "wikilink")の広告[キャッチコピー](../Page/キャッチコピー.md "wikilink")大会のことである。主にラジオCMの[脚本](../Page/脚本.md "wikilink")を創作するコンテストを意味する場合が多い。依頼内容にあった文章、[キャッチコピー](../Page/キャッチコピー.md "wikilink")を作るコンテストもある。
+
+ラジオCMコンテストは、
+
+1.  ラジオ局が主催となりコンテスト形式で、複数のスポンサーのCMを依頼するもの。
+2.  ラジオ局が自局主催のイベント、ラジオ番組のCMをコンテスト形式で依頼するもの。
+3.  ラジオ局は関係なく、スポンサーが単独にラジオCMをコンテスト形式で依頼するもの。
+4.  ラジオ局と1つのスポンサーが主催になり、コンテスト形式でスポンサーのラジオCMを依頼するもの。
+5.  ラジオ局以外の団体が主催となりコンテスト形式で、複数のスポンサーのCMを依頼するもの（関連項目参照）。
+
+の5つに分けられる。
+
+この項目では、**1.4の用途**を取り上げる。CMコンテスト名称がラジオCMコンテストと記載されていない場合でも、同様の機能を果たすものをすべてラジオCMコンテストとして扱うものとする（ラジオCM大賞、ラジオCMコピーグランプリ、CMアワード等を指す）。
+
+## コンテスト内容
+
+主に20 - 60秒のラジオCMを作る場合が多い。アマチュア、プロでも応募は可能。
+
+グループ参加の応募を認めているコンテストもある。応募を全国から募る局が多い。
+
+コンテストによっては、学生限定また開催局の都道府県内在住者のみと制限を設けているコンテストがある。なお、開催時期等は年度ごとに変わるため、詳しい時期等はラジオ局に問い合わせること、もしくは公式ウェブサイト等での確認が必要である。
+
+コンテストに入賞すると賞状、記念盾等が進呈される。そして、5千円 - 100万円の賞金、もしくは賞品が与えられる（賞金は金券の場合がある。詳細は開催局の応募要項参照）。
+
+## 実施ラジオ局
+
+※注 2013年10月現在（開催時期については2013年度のものを記載）（西暦）は開催年、○は開催回
+
+  - [静岡エフエム放送](../Page/静岡エフエム放送.md "wikilink")「第○回K-MIX RADIO CMコピーコンテスト あなたが宣伝本部長」（開催時期 11月末 - 翌年2月初旬）
+  - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")「YBSラジオ AM765kHz 1ミニッツ ストーリーCMアワード」（開催時期 11月末 - 翌年1月末日）\[1\]
+  - [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")「第○回RBCiラジオCMグランプリ」（開催時期 12月初旬 - 翌年3月初旬）\[2\]
+  - [エフエムおびひろ](https://ja.wikipedia.org/wiki/エフエムおびひろ "wikilink")「FM-JAGA CMアワード（西暦）」（開催時期 1月末 - 2月中旬）
+  - [エフエム秋田](../Page/エフエム秋田.md "wikilink")「輝け！コピーライター大賞（西暦）」（開催時期 1月末 - 2月末日）
+  - [エフエム仙台](../Page/エフエム仙台.md "wikilink")「第○回賞金10万円 Date fm CM コピーコンテスト」（開催時期 3月中旬 - 4月下旬）
+  - [エフエム高知](../Page/エフエム高知.md "wikilink")「Hi-six CMコピー大賞（西暦）」（開催時期 4月1日 - 5月末日）
+  - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")「第○回[SBSラジオCMコンテスト](http://ssl2.at-s.com/cm2013/)」（開催時期 4月下旬 - 6月末日）
+  - [エフエム愛媛](../Page/エフエム愛媛.md "wikilink")「FM愛媛 CMコピー大賞（西暦）」（開催時期 5月1日 - 6月30日）
+  - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")「RNBラジオCMコンテスト」（開催時期 6月1日 - 8月30日）
+  - [NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")「第○回NBCラジオ佐賀CMコピーグランプリ」（開催時期 8月初旬 - 9月30日）
+  - [文化放送](../Page/文化放送.md "wikilink")「文化放送 第○回100万円争奪！ラジオCMコンテスト」（開催時期 8月初旬 - 10月31日）
+  - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")「（西暦）RNCラジオCMグランプリ」（開催時期 8月初旬 - 9月30日）
+  - [エフエム熊本](../Page/エフエム熊本.md "wikilink")「（西暦）FMKラジオCMコピーコンテスト」（開催時期 8月下旬 - 9月27日）
+  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")「第○回KRYラジオCM大賞」（開催時期 9月1日 - 10月18日）
+  - [エフエム栃木](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")「BERRY GOOD CM（西暦）」（開催時期 9月1日 - 10月31日）
+  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")×[エフエム長崎](../Page/エフエム長崎.md "wikilink")（共同企画）「ラジオCMコピーグランプリ（西暦）」（開催時期 10月1日 - 10月31日）
+  - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")「第○回MBCラジオCMグランプリ」（開催時期 10月6日 - 10月27日）
+  - [エフエム徳島](../Page/エフエム徳島.md "wikilink")「CMコピー大賞（西暦）」（開催時期 9月1日 - 11月20日）
+
+<!-- end list -->
+
+  - [エフエム滋賀](../Page/エフエム滋賀.md "wikilink") 2012年度と2013年度はガス会社のラジオCMコンテスト「LPガス協会CMコンテスト」を開催（開催期間　1月末 - 2月末）。2013年度の秋には「UL・OS（ウル・オス）CMコンテスト」を開催している（開催期間 10月4日 - 10月23日）。
+
+## 過去開催されていたラジオ局
+
+  - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")「BSNラジオCMグランプリ」
+  - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")「MRTラジオCM大賞」\[3\]
+  - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")「RKCラジオCM大賞」
+  - [札幌テレビ放送](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")「STVラジオCMグランプリ」
+  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")「SBCラジオCMグランプリ コピーライターコンクール」
+  - [エフエム滋賀](../Page/エフエム滋賀.md "wikilink") 2011年度に「第1回e-radio CMコンテスト〜コピーライターは君だ！」を開催。現在は不定期に単独社のラジオCMコンテストを開催している。
+
+他多数。山陽放送でも過去に行われていた 。
+
+## 脚注
+
+## 関連項目
+
+  - [宣伝会議賞](http://award.sendenkaigi.com/)（ラジオCMの課題がある公募賞）
+  - [京都広告賞](http://www.kaaa.jp/)（ラジオCMの課題がある公募賞）年齢制限がある。
+  - [ACC学生CMコンクール](http://www.acc-cm.or.jp/festival/index_student.html)（ラジオCMの課題がある公募賞）注）学生のみ応募可能。
+  - [全国FM放送協議会](https://ja.wikipedia.org/wiki/全国FM放送協議会 "wikilink") 「全国放送争奪！JFN学生ラジオCMコンテスト」学生のみ応募可能。
+  - [KBS京都](../Page/京都放送.md "wikilink") 「自転車交通安全CMコンテスト」学生のみ応募可能。
+  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")「高校生交通安全CMコンテスト」学生のみ応募可能。
+  - [ラジオCMコピー大会](https://ja.wikipedia.org/wiki/ラジオCMコピー大会 "wikilink")「100万円大賞 ラジオCMコピー大会〜本家本元 ラジオCMまるかじり\!\!〜」文化放送の旧ラジオCMコンテストについて記載されている。
+
+[Category:日本のラジオ放送](https://ja.wikipedia.org/wiki/Category:日本のラジオ放送 "wikilink") [Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink")
+
+1.  「765CMコピーグランプリ」から内容を変更。
+2.  応募は県内在住者限定。
+3.

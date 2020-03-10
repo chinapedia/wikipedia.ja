@@ -1,0 +1,52 @@
+> この記事は[ANZEN](https://ja.wikipedia.org/wiki/ANZEN)から翻訳されています。
+
+
+**ANZENグループ**（あんぜんグループ ANZEN Group株式会社）は、[東京](https://ja.wikipedia.org/wiki/東京都 "wikilink")[23区](https://ja.wikipedia.org/wiki/東京都区部 "wikilink")[武](../Page/武蔵野市.md "wikilink")[三地区を営業地域にしていた運行車両数約](../Page/三鷹市.md "wikilink")640台\[1\]のタクシー事業者である\[2\]。
+
+## 概要
+
+[1960年](../Page/1960年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")35年）に[板橋区](https://ja.wikipedia.org/wiki/板橋区 "wikilink")[坂下で創業した安全興業株式会社が母体](https://ja.wikipedia.org/wiki/坂下_\(板橋区\) "wikilink")。
+
+[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（[平成](../Page/平成.md "wikilink")16年）からはANZEN板橋株式会社・ANZEN品川株式会社・ANZEN新宿株式会社の運営子会社を束ねるANZENグループ株式会社として再編された\[3\]。
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に[投資ファンド](https://ja.wikipedia.org/wiki/投資ファンド "wikilink")のヴァリアント・パートナーズへ株式が譲渡され、経営権が同社に移行。代表取締役社長も創業家一族出身の太田雅彦\[4\]からヴァリアントパートナーズの本村正秀に代わった。
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")12月にヴァリアント・パートナーズが保有するANZEN株すべて\[5\]をkmホールディングスへ売却する株式譲渡契約を締結。[2011年](../Page/2011年.md "wikilink")1月に[国際自動車](https://ja.wikipedia.org/wiki/国際自動車 "wikilink")グループ傘下となり\[6\]、[2014年](../Page/2014年.md "wikilink")までにグループ全社が国際自動車株式会社板橋・新宿・世田谷へ社名変更したためANZENグループは消滅した。
+
+### 車両・営業上の特徴
+
+[2012年](../Page/2012年.md "wikilink")3月16日より車両を自社仕様から国際自動車仕様に順次更新を行ったため[2013年](../Page/2013年.md "wikilink")現在では全廃となったが、以下の仕様ならびに営業上の特徴があった。
+
+  - 車両
+    全車自社無線を搭載するほか、塗装はボンネットを朱色とし帯・屋根・Cピラーを白色とした\[7\]。
+    ただし、黒塗りの[ハイグレード車も導入した](https://ja.wikipedia.org/wiki/ハイグレードタクシー "wikilink")。
+  - 喫煙車
+    同グループは[社団法人](../Page/社団法人.md "wikilink")東京乗用旅客自動車協会（現：[一般社団法人](https://ja.wikipedia.org/wiki/一般社団法人 "wikilink")[東京ハイヤー・タクシー協会](https://ja.wikipedia.org/wiki/東京ハイヤー・タクシー協会 "wikilink")）に加盟しておらず、同協会が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")にタクシー内での全面禁煙を実施した後にも喫煙乗車が可能であった。しかし「喫煙車」の表示がなかったため、禁煙車を当然とする旅客とのトラブルも報告されていた。このため[2009年](../Page/2009年.md "wikilink")4月以降は全車両が禁煙車となり、東旅協と足並みを揃えた格好となった。
+  - 独自サービス
+    日本初の航空会社マイレージ提携およびクレジットカードオンライン決済導入事業者であるほか、2008年1月には地域・予約時間に応じて決められた料金で利用できるサービスである「**定額制タクシー**」を開始。さらに[2009年](../Page/2009年.md "wikilink")4月には、病院の順番取り・薬の代理受取り&配達・子供の送迎・買い物代行・ペットのお届けなどを行う「**サポートタクシー**\[8\]」を開始した。
+
+## 歴史
+
+  - 1960年 - 安全興業として創業。
+  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - 製薬会社[三共](https://ja.wikipedia.org/wiki/三共_\(製薬会社\) "wikilink") （現・[第一三共](https://ja.wikipedia.org/wiki/第一三共 "wikilink")）の子会社だった三共交通（品川区）を譲受し合併。
+  - [1999年](../Page/1999年.md "wikilink") - チェッカーキャブ無線加盟の東都コミタスと[EM自交無線](https://ja.wikipedia.org/wiki/EM自交無線 "wikilink")加盟の東興自動車交通を吸収合併。それぞれ品川営業所・玉川営業所とした。
+  - [2000年](../Page/2000年.md "wikilink") - 安全自動車に改称。チェッカーキャブ無線に加盟していた東海自動車を吸収合併し世田谷営業所とした。
+  - 2004年 - 3社に分社。
+  - 2008年 - 本社を[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[中落合から板橋区坂下へ移転](https://ja.wikipedia.org/wiki/中落合_\(新宿区\) "wikilink")。ANZEN新宿株式会社が牛込営業所ならびに駒込営業所を廃止。
+  - 2011年 - 株式の譲渡により国際自動車グループ傘下となる。
+  - [2012年](../Page/2012年.md "wikilink") - ANZEN品川株式会社が2月14日に品川営業所を廃止。ANZEN新宿株式会社が7月15日に江東営業所を廃止し坂下営業所を開設。
+  - [2013年](../Page/2013年.md "wikilink") - ANZEN品川株式会社が国際自動車株式会社（世田谷）へ社名変更。
+  - 2014年 - ANZEN新宿株式会社落合営業所が国際自動車株式会社（新宿）へ、ANZEN板橋株式会社板橋営業所はANZEN新宿株式会社坂下営業所を統合した上で国際自動車株式会社（板橋）へ社名変更。これによりANZENの社名が消滅した。
+
+## 脚注
+
+[Category:板橋区の企業](https://ja.wikipedia.org/wiki/Category:板橋区の企業 "wikilink") [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:かつて存在した日本のタクシー事業者](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のタクシー事業者 "wikilink")
+
+1.
+2.
+3.  [ANZENグループ概要](http://web.archive.org/web/20110621043439/http://www.anzentaxi.com/outline/index.htm) ANZENグループ株式会社 2011年6月19日閲覧（2011年6月21日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+4.  [東京無線加盟の同盟交通社長も兼任していたが](https://ja.wikipedia.org/wiki/東京無線協同組合 "wikilink")、同社は国際自動車グループ加入時に経営分離され、境交通（[チェッカーキャブ](https://ja.wikipedia.org/wiki/チェッカーキャブ無線 "wikilink")）傘下となった。
+5.  全発行株数の約90％を保有していたとされる。
+6.  タクシーの再編が加速　『日本経済新聞』 2011年6月17日東京夕刊
+7.  東京地区で朱色を基調色とするタクシーグループには[チェッカーキャブ無線](https://ja.wikipedia.org/wiki/チェッカーキャブ無線 "wikilink")があり、こちらはボンネットが白色である。
+8.  「救援事業」として東京運輸支局に届出済。

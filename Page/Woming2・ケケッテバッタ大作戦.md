@@ -1,0 +1,29 @@
+> この記事は[Woming2](https://ja.wikipedia.org/wiki/Woming2)から翻訳されています。
+
+
+『**Woming2・ケケッテバッタ大作戦**』（ウーミンツー・ケケッテバッタだいさくせん）は、[1994年](../Page/1994年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から同年[9月](../Page/9月.md "wikilink")まで[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")で放送された[テレビ番組](../Page/テレビ番組.md "wikilink")である。
+
+## 概要
+
+鳴り物入りでスタートした前番組『[Woming](../Page/Woming.md "wikilink")』が低視聴率だったため、想定視聴者層や番組コンセプトを練り直し、新たな「[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")」としてスタート。『Woming』とは違い、客入れもやめ、ゲストも毎週は迎えず、スタジオセットも後に控えた「Aスタジオ改修工事」をネタとしたラフなものとなった。Aスタジオの改修工事終了後最初の放送からはセットも新たにした。
+
+この番組は『Woming』よりは視聴率も上向き、好評だったとされるが、1994年秋から平日夕方枠で『[静岡○ごとワイド](https://ja.wikipedia.org/wiki/まるごと "wikilink")』の開始が決定したことにともない、制作部の制作能力などを考え、この枠からの撤退が決まり、わずか半年で終了となった。
+
+## 出演者
+
+  - [芹澤名人](https://ja.wikipedia.org/wiki/芹澤名人 "wikilink") - メインMC
+  - [西村育子](https://ja.wikipedia.org/wiki/西村育子 "wikilink")（当時静岡第一テレビアナウンサー） - メインMC
+  - [マイケル・ロイド](https://ja.wikipedia.org/wiki/マイケル・ロイド "wikilink")（英会話講師・静岡のローカルタレント） - 番組レギュラー
+  - [車田由美](https://ja.wikipedia.org/wiki/車田由美 "wikilink")（タレント） - セミレギュラー
+  - [木田吉彦](https://ja.wikipedia.org/wiki/木田吉彦 "wikilink")（当時静岡第一テレビアナウンサー） - ナレーター
+  - [田辺稔](https://ja.wikipedia.org/wiki/田辺稔 "wikilink")（静岡第一テレビアナウンサー） - ナレーター
+
+## エピソード
+
+  - 番組にはメインMCである芹澤との絡みからか、リポーターとして[たけし軍団](../Page/たけし軍団.md "wikilink")の若手タレントが頻繁に出演していた。
+  - 番組を放送していたAスタジオが改修工事に入っている間（1994年5月下旬 - 6月下旬）は、毎週外からの中継で放送していた。サブはJサブを使用。
+  - 番組開始当初は対象年齢層を幅広く想定していたが、7月の「第一テレビの日」特番あたりを境として、若年層を対象とした企画を増やしていった。
+  - メインMCの西村に内緒で本人の実家（三重県）へ押しかけて取材する企画を放送したところ、西村は絶句し、さらにその回で実家の父親と電話を繋いだことで放心状態となり、アナウンサーの立場を忘れてしまうことがあった。後にOAを見ていたアナウンス部長から叱咤されたと語っている。
+  - 先述のように、平日夕方枠に帯ワイドを開始するため、土曜17時枠は制作部から報道部に担当が移り、以後報道系番組がしばらく編成される。その後は生番組を取りやめ、VTR主体の番組を経て、この枠自体が日本テレビからのネット受け枠に変更されて現在に至る。
+
+[Category:1994年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1994年のテレビ番組_\(日本\) "wikilink") [Category:静岡第一テレビの番組](https://ja.wikipedia.org/wiki/Category:静岡第一テレビの番組 "wikilink") [Category:東海・北陸地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビの情報・ワイドショー番組 "wikilink") [Category:東海・北陸地方のバラエティ番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のバラエティ番組 "wikilink")

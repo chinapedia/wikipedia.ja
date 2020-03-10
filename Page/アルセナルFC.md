@@ -1,0 +1,136 @@
+> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+
+
+**アルセナルFC**（, ）は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")・[ブエノスアイレス州](https://ja.wikipedia.org/wiki/ブエノスアイレス州 "wikilink")[アベジャネーダ・パルティード](https://ja.wikipedia.org/wiki/アベジャネーダ・パルティード "wikilink")の[サランディ](https://ja.wikipedia.org/wiki/サランディ "wikilink")地区を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。**アルセナル・デ・サランディ**（, ）とも呼ばれる。
+
+[アベジャネーダ・パルティード](https://ja.wikipedia.org/wiki/アベジャネーダ・パルティード "wikilink")は[ブエノスアイレス](../Page/ブエノスアイレス.md "wikilink")の南部郊外にあり、[マタンサ川](https://ja.wikipedia.org/wiki/マタンサ川 "wikilink")でブエノスアイレスと隔てられている。同じアベジャネーダ・パルティードの[アベジャネーダ市には](https://ja.wikipedia.org/wiki/アベジャネーダ_\(ブエノスアイレス州\) "wikilink")[ラシン・クラブ](https://ja.wikipedia.org/wiki/ラシン・クラブ "wikilink")と[CAインデペンディエンテ](https://ja.wikipedia.org/wiki/CAインデペンディエンテ "wikilink")が本拠地を置いている。クラブ名はイングランドの名門[アーセナルFC](../Page/アーセナルFC.md "wikilink")に、クラブカラーは[ラシン・クラブ](https://ja.wikipedia.org/wiki/ラシン・クラブ "wikilink")（水色）と[CAインデペンディエンテ](https://ja.wikipedia.org/wiki/CAインデペンディエンテ "wikilink")（赤）に由来する。
+
+## 歴史
+
+[アルゼンチンサッカー協会](https://ja.wikipedia.org/wiki/アルゼンチンサッカー協会 "wikilink") (AFA) 元会長の[フリオ・グロンドーナ](https://ja.wikipedia.org/wiki/フリオ・グロンドーナ "wikilink")（インデペンディエンテのサポーターでもあった）と弟の[エクトル・グロンドーナ](https://ja.wikipedia.org/wiki/エクトル・グロンドーナ "wikilink")によって1957年に創設された。
+
+2006年にスペインの[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")と若手選手の育成を目的とする業務提携を結んだ。2007年には[コパ・スダメリカーナ](https://ja.wikipedia.org/wiki/コパ・スダメリカーナ "wikilink")で優勝し、クラブ史上初となる国際タイトルを獲得。なお、本来のアルセナルのホームスタジアムであるが規定の観客収容人数を満たしていなかったため、急遽[ラシン・クラブ](https://ja.wikipedia.org/wiki/ラシン・クラブ "wikilink")のホームスタジアムであるで行われた。この試合の放送で解説を担当した[亘崇詞](https://ja.wikipedia.org/wiki/亘崇詞 "wikilink")によると、アルセナルの選手全員の給料を足しても、クラブ・アメリカの[フェデリコ・インスア](https://ja.wikipedia.org/wiki/フェデリコ・インスア "wikilink")一人の給料に満たないという。2008年には[スルガ銀行チャンピオンシップで](https://ja.wikipedia.org/wiki/Jリーグカップ/コパ・スダメリカーナ王者決定戦 "wikilink")[Jリーグカップ](../Page/Jリーグカップ.md "wikilink")（ナビスコカップ）王者の[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")に勝利して優勝した。2012年の[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")では[ボカ・ジュニアーズ](../Page/ボカ・ジュニアーズ.md "wikilink")（アルゼンチン）、[フルミネンセFC](https://ja.wikipedia.org/wiki/フルミネンセFC "wikilink")（ブラジル）、（ベネズエラ）と同組となったが、ボカとフルミネンセの壁は厚く、2勝（ともにサモラFCから）4敗のグループ3位でグループリーグ敗退となった。クラウスーラ2012では[クリスティアン・カンペストリーニ](https://ja.wikipedia.org/wiki/クリスティアン・カンペストリーニ "wikilink")、[ギジェルモ・ブルディッソ](https://ja.wikipedia.org/wiki/ギジェルモ・ブルディッソ "wikilink")、[フェリクス・レギサモン](https://ja.wikipedia.org/wiki/フェリクス・レギサモン "wikilink")などを擁し、組織力と守備力を武器に上位を保ち続け、第18節では優勝争いのライバルボカ・ジュニアーズに[ラ・ボンボネーラ](../Page/ラ・ボンボネーラ.md "wikilink")で3-0と完勝した\[1\]。[CAティグレ](https://ja.wikipedia.org/wiki/CAティグレ "wikilink")と同勝ち点ながら得失点差で上回り、首位で最終節を迎えると、最終節では[CAベルグラーノ](https://ja.wikipedia.org/wiki/CAベルグラーノ "wikilink")を1-0で下し、リーグ初優勝を決めた\[2\]。
+
+## ライバル
+
+アルセナルのライバルは[キルメスAC](https://ja.wikipedia.org/wiki/キルメスAC "wikilink")、[ラシン・クラブ](https://ja.wikipedia.org/wiki/ラシン・クラブ "wikilink")、[CAインデペンディエンテ](https://ja.wikipedia.org/wiki/CAインデペンディエンテ "wikilink")である。
+
+## タイトル
+
+### 国内タイトル
+
+  - **[スーペルリーガ](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン_\(アルゼンチン\) "wikilink") : 1回**
+      - 2011-12[C](https://ja.wikipedia.org/wiki/アペルトゥーラとクラウスーラ "wikilink")
+  - **[コパ・アルヘンティーナ](https://ja.wikipedia.org/wiki/コパ・アルヘンティーナ "wikilink") : 1回**
+      - 2012-13
+  - **[スーペルコパ・アルヘンティーナ](https://ja.wikipedia.org/wiki/スーペルコパ・アルヘンティーナ "wikilink") : 1回**
+      - 2012
+  - **プリメーラC (4部) : 1回**
+      - 1964
+  - **プリメーラD (5部) : 1回**
+      - 1962
+
+### 国際タイトル
+
+  - **[コパ・スダメリカーナ](https://ja.wikipedia.org/wiki/コパ・スダメリカーナ "wikilink") : 1回**
+      - 2007
+  - **[スルガ銀行チャンピオンシップ](https://ja.wikipedia.org/wiki/Jリーグカップ/コパ・スダメリカーナ王者決定戦 "wikilink") : 1回**
+      - 2008
+
+## 過去の成績
+
+| シーズン                                                              | ディビジョン                                                             | 順位                                                                        | 試合数    | 勝  | 分  | 敗  | 得点 | 失点     | 勝ち点                                                                                      | 備考     |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------- | ------ | -- | -- | -- | -- | ------ | ---------------------------------------------------------------------------------------- | ------ |
+| **2006-07**                                                       | [アペルトゥーラ](https://ja.wikipedia.org/wiki/アペルトゥーラとクラウスーラ "wikilink") | [プリメーラ](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン_\(アルゼンチン\) "wikilink") | **5**  | 19 | 9  | 5  | 5  | 26     | 22                                                                                       | **32** |
+| [クラウスーラ](https://ja.wikipedia.org/wiki/アペルトゥーラとクラウスーラ "wikilink") | **5**                                                              | 19                                                                        | 8      | 6  | 5  | 31 | 24 | **30** |                                                                                          |        |
+| **2007-08**                                                       | アペルトゥーラ                                                            | プリメーラ                                                                     | **12** | 19 | 7  | 5  | 7  | 19     | 24                                                                                       | **26** |
+| クラウスーラ                                                            | **10**                                                             | 19                                                                        | 7      | 4  | 8  | 22 | 25 | **25** | [スルガ銀行チャンピオンシップ2008](https://ja.wikipedia.org/wiki/スルガ銀行チャンピオンシップ2008 "wikilink") **優勝** |        |
+| **2008-09**                                                       | アペルトゥーラ                                                            | プリメーラ                                                                     | **6**  | 19 | 8  | 4  | 7  | 26     | 27                                                                                       | **28** |
+| クラウスーラ                                                            | **18**                                                             | 19                                                                        | 4      | 6  | 9  | 19 | 30 | **18** |                                                                                          |        |
+| **2009-10**                                                       | アペルトゥーラ                                                            | プリメーラ                                                                     | **12** | 19 | 7  | 6  | 6  | 20     | 24                                                                                       | **27** |
+| クラウスーラ                                                            | **18**                                                             | 19                                                                        | 5      | 4  | 10 | 19 | 33 | **19** |                                                                                          |        |
+| **2010-11**                                                       | アペルトゥーラ                                                            | プリメーラ                                                                     | **3**  | 19 | 9  | 5  | 5  | 22     | 19                                                                                       | **32** |
+| クラウスーラ                                                            | **10**                                                             | 19                                                                        | 6      | 7  | 6  | 25 | 22 | **25** |                                                                                          |        |
+| **2011-12**                                                       | アペルトゥーラ                                                            | プリメーラ                                                                     | **13** | 19 | 6  | 6  | 7  | 21     | 20                                                                                       | **24** |
+| クラウスーラ                                                            | **1**                                                              | 19                                                                        | 11     | 5  | 3  | 30 | 15 | **38** | [コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")2012 GS敗退             |        |
+| **2012-13**                                                       | イニシアル                                                              | プリメーラ                                                                     | **7**  | 19 | 9  | 4  | 6  | 19     | 22                                                                                       | **31** |
+| フィナール                                                             | **8**                                                              | 19                                                                        | 8      | 5  | 6  | 25 | 22 | **29** | [コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")2013 GS敗退             |        |
+| **2013-14**                                                       | イニシアル                                                              | プリメーラ                                                                     | **5**  | 19 | 7  | 9  | 3  | 22     | 19                                                                                       | **30** |
+| フィナール                                                             | **17**                                                             | 19                                                                        | 5      | 3  | 11 | 19 | 28 | **18** | [コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")2014 準々決勝敗退           |        |
+| **2014**                                                          | \-                                                                 | プリメーラ                                                                     | **9**  | 19 | 7  | 5  | 7  | 27     | 25                                                                                       | **26** |
+| **2015**                                                          | \-                                                                 | プリメーラ                                                                     | **28** | 30 | 7  | 6  | 17 | 25     | 44                                                                                       | **27** |
+| **2016**                                                          | \-                                                                 | プリメーラ ソナ1                                                                 | **4**  | 16 | 8  | 3  | 5  | 21     | 15                                                                                       | **27** |
+| **2016-17**                                                       | \-                                                                 | プリメーラ                                                                     |        |    |    |    |    |        |                                                                                          |        |
+
+## 現所属メンバー
+
+  - 2016年10月16日現在
+
+<!-- end list -->
+
+  - 監督
+
+<!-- end list -->
+
+  - [リカルド・カルソ・ロンバルディ](https://ja.wikipedia.org/wiki/リカルド・カルソ・ロンバルディ "wikilink")
+
+## 歴代監督
+
+  - [ロベルト・イトゥリエタ](https://ja.wikipedia.org/wiki/ロベルト・イトゥリエタ "wikilink") (1989-1994)
+
+  - [ロベルト・フェレイロ](https://ja.wikipedia.org/wiki/ロベルト・フェレイロ "wikilink") (1994-1995)
+
+  - [ウンベルト・グロンドーナ](https://ja.wikipedia.org/wiki/ウンベルト・グロンドーナ "wikilink") (1995)
+
+  - [ロベルト・イトゥリエタ](https://ja.wikipedia.org/wiki/ロベルト・イトゥリエタ "wikilink") (1995-1997)
+
+  - [ロベルト・フェレイロ](https://ja.wikipedia.org/wiki/ロベルト・フェレイロ "wikilink") (1997-1998)
+
+  - [ホセ・マリア・ビアンコ](https://ja.wikipedia.org/wiki/ホセ・マリア・ビアンコ "wikilink") (1998-2001)
+
+  - [ロベルト・マリアーニ](https://ja.wikipedia.org/wiki/ロベルト・マリアーニ "wikilink") (2001)
+
+  - [ホルヘ・ブルチャガ](../Page/ホルヘ・ブルチャガ.md "wikilink") (2002-2005)
+
+  - [マリア・ビアンコ](https://ja.wikipedia.org/wiki/マリア・ビアンコ "wikilink") (2005-2006)
+
+  - [ミゲル・アンヘル・ロペス](https://ja.wikipedia.org/wiki/ミゲル・アンヘル・ロペス_\(サッカー選手\) "wikilink") (2006)
+
+  - [グスタボ・アルファロ](https://ja.wikipedia.org/wiki/グスタボ・アルファロ "wikilink") (2006-2008)
+
+  - [ダニエル・ガルネロ](https://ja.wikipedia.org/wiki/ダニエル・ガルネロ "wikilink") (2008-2009)
+
+  - [ホルヘ・ブルチャガ](../Page/ホルヘ・ブルチャガ.md "wikilink") (2009-2010)
+
+  - [グスタボ・アルファロ](https://ja.wikipedia.org/wiki/グスタボ・アルファロ "wikilink") (2010-2014)
+
+  - [マルティン・パレルモ](../Page/マルティン・パレルモ.md "wikilink") (2014-2015)
+
+  - [リカルド・カルーソ・ロンバルディ](https://ja.wikipedia.org/wiki/リカルド・カルーソ・ロンバルディ "wikilink") (2015)
+
+  - [セルヒオ・ロンディーナ](https://ja.wikipedia.org/wiki/セルヒオ・ロンディーナ "wikilink") (2015-2016)
+
+  - [ルーカス・ベルナルディ](../Page/ルーカス・ベルナルディ.md "wikilink") (2016)
+
+  - [ウンベルト・グロンドーナ](https://ja.wikipedia.org/wiki/ウンベルト・グロンドーナ "wikilink") (2016-2017)
+
+  - [セルヒオ・ロンディーナ](https://ja.wikipedia.org/wiki/セルヒオ・ロンディーナ "wikilink") (2018-)
+
+## 歴代所属選手
+
+### DF
+
+### MF
+
+### FW
+
+## 脚注
+
+## 外部リンク
+
+  - [公式サイト](http://www.celesteyrojo.com.ar/)
+
+[Category:アルゼンチンのサッカークラブ](https://ja.wikipedia.org/wiki/Category:アルゼンチンのサッカークラブ "wikilink") [Category:ブエノスアイレス州](https://ja.wikipedia.org/wiki/Category:ブエノスアイレス州 "wikilink")
+
+1.
+2.

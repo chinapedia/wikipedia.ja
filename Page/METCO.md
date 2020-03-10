@@ -1,0 +1,24 @@
+> この記事は[METCO](https://ja.wikipedia.org/wiki/METCO)から翻訳されています。
+
+
+**METCO**（*Metropolitan Council for Educational Opportunity*）**事業**は、[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")の[教育省](https://ja.wikipedia.org/wiki/教育省 "wikilink")が行う[ボストン](../Page/ボストン.md "wikilink")を拠点とする取り組みである。ボストン市や[スプリングフィールド市の](https://ja.wikipedia.org/wiki/スプリングフィールド_\(マサチューセッツ州\) "wikilink")[インナーシティ](https://ja.wikipedia.org/wiki/インナーシティ "wikilink")に暮らす家庭に対して、その子供たちを[郊外](https://ja.wikipedia.org/wiki/郊外 "wikilink")の[学校](https://ja.wikipedia.org/wiki/学校 "wikilink")に通うことができるように支援を行っている。
+
+ボストンで[強制バス通学が始まるよりも](../Page/差別撤廃に向けたバス通学.md "wikilink")、かなり前の段階の[1966年](../Page/1966年.md "wikilink")に独自の取り組みが行われていた。現在、METCO事業を通じて、30の[学区にまたがる](../Page/アメリカ合衆国の学区.md "wikilink")3000人の子供たちの支援が行われている。これは、アメリカ国内では、5箇所でしか実施されていない独自のバス通学事業の1つである。
+
+この事業を通じて、子供たちが通学することになる学校の人種的不均等を是正し、またその校区で見られる人種的孤立を軽減することを目指している。通学する学校は[くじ引き](https://ja.wikipedia.org/wiki/くじ引き "wikilink")で決められ、バス通学は[幼稚園](../Page/幼稚園.md "wikilink")から開始される。受けて側の校区は、毎年、この事業への参加の意思表示を行わねばならない。校区に対して、州からの資金援助や寄付金の配当などは行われない。
+
+事業に対する批判としては、納税者の負担に不平等が生じる、METCOの子供たちと郊外の子供たちのまとまりが今一である、ボストン市内の[白人](../Page/白人.md "wikilink")はこの事業に参加することはできない、などが挙げられる。
+
+事業支持者によれば、METCO事業を通じて、子供たちを迎え入れる人種的/経済的に単一な都市や町で、異文化理解や人種間理解を高めることが可能である。平均的な大学進学意欲と比べ、METCOの卒業生たちは、より高い進学意欲を示している。課外行事などを通じ、受け手/送り手の子供たちや保護者は、親密な関係を築き、そのことが人種差別や偏見を軽減する可能性もある。
+
+## 関連項目
+
+  - [マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")
+  - [差別撤廃に向けたバス通学](../Page/差別撤廃に向けたバス通学.md "wikilink")
+
+## 外部リンク
+
+  - [METCO事業のホームページ](http://www.metcoinc.org/)
+  - [マサチューセッツ州教育省のMETCOに関するページ](http://www.doe.mass.edu/metco/)
+
+[Category:マサチューセッツ州の教育](https://ja.wikipedia.org/wiki/Category:マサチューセッツ州の教育 "wikilink")

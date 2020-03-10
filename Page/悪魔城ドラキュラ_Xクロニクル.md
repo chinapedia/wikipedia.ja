@@ -1,0 +1,83 @@
+> この記事は[ X](https://ja.wikipedia.org/wiki/_X)から翻訳されています。
+
+
+『**悪魔城ドラキュラ Xクロニクル**』（あくまじょうドラキュラ エックスクロニクル、英題: *[Castlevania: The Dracula X Chronicles](https://ja.wikipedia.org/wiki/:en:Castlevania:_The_Dracula_X_Chronicles "wikilink")*）は、[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")から2007年11月8日に発売された[PlayStation Portable用ソフトのアクションゲーム](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。旧作『[悪魔城ドラキュラX 血の輪廻](https://ja.wikipedia.org/wiki/悪魔城ドラキュラX_血の輪廻 "wikilink")』と『[悪魔城ドラキュラX 月下の夜想曲](https://ja.wikipedia.org/wiki/悪魔城ドラキュラX_月下の夜想曲 "wikilink")』も同時収録されている。
+
+## 概要
+
+ゴシックホラーアクションゲーム・[悪魔城ドラキュラ](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ "wikilink")シリーズの中でも10作目にあたる初CD-ROM作品であり日本でしか発売されていなかった[PCエンジン](../Page/PCエンジン.md "wikilink")の『悪魔城ドラキュラX 血の輪廻』を[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")した『悪魔城ドラキュラ Xクロニクル』に、その元のオリジナル版『血の輪廻』（『あくまぢょおどらきゅらペケ』含む）の移植と、[PlayStation版](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")『悪魔城ドラキュラX 月下の夜想曲』の移植の3作+αを収録している。リメイク版である新作『Xクロニクル』は最初からプレイ可能であるが、移植作である『血の輪廻』と『月下の夜想曲』は、『Xクロニクル』のゲーム中の条件をクリアすることでプレイ可能となる。
+
+なお、日本国内および国外でXのリメイク移植として発売された『[悪魔城ドラキュラXX](https://ja.wikipedia.org/wiki/悪魔城ドラキュラXX "wikilink")』について収録こそされていないが、当作で描かれた要素もXクロニクルで多分に含まれている。
+
+### コナミスタイル特別版
+
+コナミの運営する通信販売サイト[コナミスタイル](https://ja.wikipedia.org/wiki/コナミスタイル "wikilink")で販売された特別版。以下の特典が同梱されている数量限定のバージョン。発売前に予約完売になった。
+
+  - Dracula X Chronicle Art book for Konami Style Special Ver.
+
+<!-- end list -->
+
+  -
+    本作のイラストレーターの小島文美によるイラストをオールカラーで収録したアートブック。
+
+<!-- end list -->
+
+  - 悪魔城ドラキュラXクロニクル特製ポーチ
+
+<!-- end list -->
+
+  -
+    PSPサイズの黒いポーチ。
+
+<!-- end list -->
+
+  - 悪魔城ドラキュラXクロニクル PSP液晶保護フィルム
+
+<!-- end list -->
+
+  -
+    PSPの画面用フィルムと台紙。
+
+<!-- end list -->
+
+  - 悪魔城ドラキュラXクロニクル 特製ストラップ
+
+<!-- end list -->
+
+  -
+    リヒターのゲームドット絵のストラップ。
+
+<!-- end list -->
+
+  - 悪魔城ドラキュラXクロニクル B2ポスター
+
+## 収録タイトル
+
+### 悪魔城ドラキュラ Xクロニクル
+
+『血の輪廻』をPSPの性能を生かし[3Dポリゴン](https://ja.wikipedia.org/wiki/3Dポリゴン "wikilink")でリメイクした作品で、本作のメイン。グラフィックは3Dで作成されているが、ゲーム性そのものはオリジナルと同じで横スクロールアクションである。PCエンジン版ではアニメーションだったデモシーンも、CGムービーになっている。ストーリーや設定等は大筋は『血の輪廻』と同じだが、いろいろリメイクで変更もされている。
+
+オリジナルはコナミスタッフによるイラストだったが、リメイク版では『月下の夜想曲』と『[悪魔城年代記 悪魔城ドラキュラ](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ_\(X68000版\) "wikilink")』の[小島文美](https://ja.wikipedia.org/wiki/小島文美 "wikilink")によるリニューアルイラストとなっている。アドホック通信による2人同時プレイ、新規イベントムービーの追加、ボスラッシュモードなど様々な新要素が付加されており、プロデューサーの[五十嵐孝司](https://ja.wikipedia.org/wiki/五十嵐孝司 "wikilink")（IGA）は「色々手を加えて、より楽しめるようになっている」と語っている。また、マルチエンディングに変更されている他、特定のアイテムを入手しないと破壊出来ない壁があり（破壊が攻略に必須ではない）、それぞれの条件としてサブキャラクターの救出が必要になったため、旧作以上に特別な意味が持たされている。新たなボス戦も追加された。オプションから日本語/英語の音声切り替えが可能。各ステージのBGMをゲーム中で入手したサウンドアイテムの曲にできる（『血の輪廻』や『月下の夜想曲』の曲も含まれている）。他にリヒターやドラキュラ役の声優は後年に発売された『月下の夜想曲』のキャストに変更され、マリアや他のキャラクターの声優も変更されている。
+
+ゲーム内のステージに隠された特殊なアイテムを取得することで以下の移植ゲームがプレイ可能になる。
+
+### 悪魔城ドラキュラX 血の輪廻
+
+1993年にPCエンジンで発売された悪魔城ドラキュラシリーズ10作目。シリーズ初のCD-ROM対応作品ということでアニメ調のオープニングデモや音声による会話デモなどが盛り込まれた。本作収録版では、オープニングナレーションがXクロニクル版のものに差し替えられていたり、ステージ2のボス・ウェアウルフの死亡時グラフィックが一部書き換えられている等、PCエンジン版と異なる部分もいくつかある。メディアの違いからエンディングなどのアニメーションムービー再生時に音と画面に大幅なズレが生じている。
+
+#### あくまぢょおどらきゅら X（ペケ）
+
+『血の輪廻』でのミニゲーム風の注意メッセージ画面。PCエンジンは、SUPERでない[CD-ROM²](https://ja.wikipedia.org/wiki/CD-ROM² "wikilink")で[SUPER CD-ROM²用ソフトを起動すると](https://ja.wikipedia.org/wiki/SUPER_CD-ROM² "wikilink")、ハードが違うという旨の注意メッセージ画面が表示されるが、『血の輪廻』ではそれが多少の操作性を加えたミニゲーム調になっており、ちょっとしたおまけ要素となっていた。本作収録版では、最初のサブタイトルと最後に表示される注意メッセージがPCエンジン版とは別のものに差し替えられている。また、オリジナルのペケはゲーム本編と同様に攻撃ボタン押しっぱなしでリヒターの向きを固定したまま移動できたが、本作収録版だと鞭を振り続けて移動できないなど再現度が低い。
+
+### 悪魔城ドラキュラX 月下の夜想曲
+
+1997年にPlayStationで発売され、シリーズ初の探索型アクションRPGとなった新生悪魔城ドラキュラ。ストーリーは『血の輪廻』から5年後、ドラキュラの息子アルカードが、何故か復活した悪魔城へ挑むというもの。『血の輪廻』とは違い、ステージクリア型ではなく、城内を自由に行き来して探索する[メトロイド](https://ja.wikipedia.org/wiki/メトロイド "wikilink")タイプ。本作収録版では、条件を満たすとマリア・ラーネッドがプレイキャラクターとして使用可能になる（SS版での性能と違い、『血の輪廻』での挙動に沿ったものとなっている）等、多少の追加要素もある。
+
+## 外部リンク
+
+  - [悪魔城ドラキュラシリーズ総合サイト](http://www.konami.jp/gs/game/dracula/)
+  - [悪魔城ドラキュラ Xクロニクル 公式サイト](http://www.konami.jp/gs/game/dracula_psp/)
+
+[en:Castlevania: Rondo of Blood\#Versions and re-releases](https://ja.wikipedia.org/wiki/en:Castlevania:_Rondo_of_Blood#Versions_and_re-releases "wikilink")
+
+[Category:悪魔城ドラキュラ](https://ja.wikipedia.org/wiki/Category:悪魔城ドラキュラ "wikilink") [Category:コナミのオムニバスゲーム](https://ja.wikipedia.org/wiki/Category:コナミのオムニバスゲーム "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:リメイクゲーム](https://ja.wikipedia.org/wiki/Category:リメイクゲーム "wikilink")

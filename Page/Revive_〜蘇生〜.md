@@ -1,0 +1,67 @@
+> この記事は[Revive ](https://ja.wikipedia.org/wiki/Revive_)から翻訳されています。
+
+
+『**REVIVE... 〜蘇生〜**』（リバイブ そせい）は、[1999年](../Page/1999年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に発売された[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。『[慟哭 そして…](https://ja.wikipedia.org/wiki/慟哭_そして… "wikilink")』の続編。後に[Windowsにも移植されている](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。開発中の仮題は『慟哭2』。
+
+基本的なシステムは前作と同様であるが、前作よりも難易度が相当高くグロテスクなシーンも存在する。
+
+## 概要
+
+ゲームの舞台は、主人公と6人の少女たち、そして複数の人物が閉じ込められた「研究所」。この研究所に仕掛けられた様々なトラップ（罠）を解除し、隠された真相を暴いて脱出することを目的としたトラップアドベンチャー。使用アイテムや解除方法により物語が分岐する新システム「TDS」（トラップディバージェントストーリー）を採用しており、プレイごとに異なるストーリー展開を楽しめる。
+
+豪華[声優](../Page/声優.md "wikilink")陣の起用を謳い文句にしている。また、各キャラクターに「感情度」を導入することで、現実的な会話シーンを演出している。エンディングは20種類以上用意されている。
+
+[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")と[原画](../Page/原画.md "wikilink")は[うめつゆきのり](https://ja.wikipedia.org/wiki/うめつゆきのり "wikilink")が担当した。
+
+開発当初は『慟哭2 惨劇の回廊』というタイトルがつけられていた。
+
+## ストーリー
+
+小川希春は、死んだはずの生母が存命であるという手紙を受け取り、手掛かりを求めて海洋開発研究所を訪れた。幼馴染の水谷菜緒からそのことを知った義兄の秋月実は、義妹の後を追って海洋開発研究所に向かった。
+
+## 登場人物
+
+  - 秋月 実（あきつき みのる）
+    本作の主人公でありプレイヤー。姓名変更可。星ヶ丘高校の3年生。
+  - 小川 希春（おがわ きはる）
+    声：[雪乃五月](../Page/ゆきのさつき.md "wikilink")
+    誕生日：[7月6日](../Page/7月6日.md "wikilink")。血液型：A型。星座：かに座。
+    主人公の義理の妹。主人公や菜緒と学年が一緒だが別クラス。幼い頃に母親を亡くしている。菜緒とは親友。
+  - 水谷 菜緒（みずたに なお）
+    声：[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
+    誕生日：[5月18日](../Page/5月18日.md "wikilink")。血液型：O型。星座：おうし座。
+    主人公や菜緒の同学年の幼馴染。[バスケ部のキャプテンを務めている](../Page/バスケットボール.md "wikilink")。クラスメイトの主人公へひそかに想いを寄せている。
+  - 穂高 由月（ほだか ゆつき）
+    声：[丹下桜](https://ja.wikipedia.org/wiki/丹下桜 "wikilink")
+    誕生日：[11月21日](../Page/11月21日.md "wikilink")。血液型：B型。星座：さそり座。
+    主人公達の1つ下の後輩。水泳部に所属し、自由形では全国レベルの実力を持つ。運動だけでなく、成績も優秀である。
+  - 笠原 美澄（かさはら みすみ）
+    声：[永島由子](https://ja.wikipedia.org/wiki/永島由子 "wikilink")
+    誕生日：[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")。血液型：O型。星座：さそり座。
+    海洋開発研究所で受付業務を担当するOL。京都出身。由月とは[いとこ](https://ja.wikipedia.org/wiki/いとこ "wikilink")にあたる。
+  - 高野 玲子（たかの れいこ）
+    声：[根谷美智子](../Page/根谷美智子.md "wikilink")
+    誕生日：[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")。血液型：AB型。星座：おとめ座。
+    海洋開発研究所の非公式な研究員。気丈な性格で、自分のプライベートに干渉されるのを極端に嫌っている。グラマラスな体型でそれを強調するような服装をしている。
+  - 北条 千尋（ほうじょう ちひろ）
+    声：[南央美](../Page/南央美.md "wikilink")
+    誕生日：[12月25日](../Page/12月25日.md "wikilink")。血液型：？型。星座：やぎ座。
+    北条義兼の孫娘。無口で無表情な中学生くらいの少女。学校には通っていないらしい。
+  - 藤沢 あおい（ふじさわ あおい）
+    声：[小西寛子](../Page/小西寛子.md "wikilink")
+    誕生日：[2月2日](../Page/2月2日.md "wikilink")。血液型：？型。星座：みずがめ座。
+    研究所内の「素体保管室」でカプセルに保管された状態で発見された謎の女性。重い病を患っている。
+  - 北条 義兼（ほうじょう よしかね）
+    声：[阪脩](https://ja.wikipedia.org/wiki/阪脩 "wikilink")
+  - 水谷 陵三（みずたに りょうぞう）
+    声：[沢木郁也](https://ja.wikipedia.org/wiki/沢木郁也 "wikilink")
+    海洋開発研究所の所長。菜緒の父親。
+  - 神田 巧（かんだ たくみ）
+    声：[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
+    海洋開発研究所の所員。
+
+## 外部リンク
+
+  - [REVIVE... 〜蘇生〜（セガ）](http://web.archive.org/web/20140806101319/http://sega.jp/dc/990806/)（インターネットアーカイブ2014年8月6日分キャッシュ）
+
+[Category:ドリームキャスト用ソフト](https://ja.wikipedia.org/wiki/Category:ドリームキャスト用ソフト "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:脱出ゲーム](https://ja.wikipedia.org/wiki/Category:脱出ゲーム "wikilink") [Category:データイーストのゲームソフト](https://ja.wikipedia.org/wiki/Category:データイーストのゲームソフト "wikilink") [Category:1999年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1999年のコンピュータゲーム "wikilink")

@@ -1,0 +1,77 @@
+> この記事は[RD](https://ja.wikipedia.org/wiki/RD)から翻訳されています。
+
+
+**RDエンジン**とは、[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")が1980年代後半から2000年代前半まで[LD型エンジンの後継として生産していた](https://ja.wikipedia.org/wiki/日産・L型エンジン "wikilink")[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")。主に乗用車を中心に搭載された。排気量は2,825cc。
+
+## バリエーション
+
+## RD28系 2,825cc
+
+### RD28
+
+SOHC 12バルブ（1993年以降はSOHC 18バルブも混在）。[RB型をベースにしたディーゼルエンジン](https://ja.wikipedia.org/wiki/日産・RBエンジン "wikilink")。
+
+  - スペック：（1）74[kW](../Page/ワット.md "wikilink")(100[PS](https://ja.wikipedia.org/wiki/馬力#仏馬力 "wikilink"))/4,800[rpm](https://ja.wikipedia.org/wiki/Rpm_\(単位\) "wikilink")　181N・m(18.5kg・m)/2,400rpm(12バルブ・グロス値）
+  - （2）69kW(94PS)/4,800rpm　177N・m(18.0kg・m)/2,400rpm(12バルブ・ネット値）
+  - （3）74kW(100PS)/4,800rpm　178N・m(18.2kg・m)/2,400rpm(18バルブ)
+  - [軽油](https://ja.wikipedia.org/wiki/軽油 "wikilink")
+
+### RD28T
+
+  - SOHC 18バルブ シングルターボ。RD28の[ターボチャージャー](../Page/ターボチャージャー.md "wikilink")仕様。
+  - スペック：92kW(125PS)/4,400rpm 255N・m(26.0kg・m)/2,400rpm
+  - 軽油
+
+### RD28E
+
+  - SOHC 18バルブ。RD28の電子制御[燃料噴射装置](../Page/燃料噴射装置.md "wikilink")付。
+  - スペック：74kW(100PS)/4,800rpm　178N・m(18.2kg・m)/2,400rpm
+  - 軽油
+
+### RD28ETi
+
+  - SOHC 18バルブ [インタークーラー](https://ja.wikipedia.org/wiki/インタークーラー "wikilink")付きシングルターボ。RD28Eのターボチャージャー仕様。
+  - スペック:（1-1） 99kW(135PS)/4,000rpm　287N・m(29.3kg・m)/2,000rpm
+  - （1-2）99kW(135PS)/4,000rpm　261N・m(26.6kg・m)/2,000rpm
+  - 軽油
+
+### 搭載された車種
+
+  - RD28（1）12バルブ
+      - [セドリック](https://ja.wikipedia.org/wiki/日産・セドリック "wikilink")・[グロリア](../Page/日産・グロリア.md "wikilink")（Y30）1985年6月-1987年12月
+      - [スカイライン](https://ja.wikipedia.org/wiki/日産・スカイライン "wikilink")（R31）1985年8月-1987年8月
+  - RD28（2）12バルブ
+      - [ローレル](../Page/日産・ローレル.md "wikilink")（C32～C34）1986年10月-1993年12月
+      - グロリア・セドリック（Y30ワゴン・バン）1987年12月-1993年11月
+      - グロリア・セドリック（Y31～Y32）1987年6月-1993年6月
+      - スカイライン（R31）1987年8月-1989年5月
+      - グロリア・セドリックセダン・営業車（Y31）1987年6月-1999年8月
+      - [クルー](../Page/日産・クルー.md "wikilink")（K30）1993年7月-1999年8月
+  - RD28（3）18バルブ
+      - グロリア・セドリック（Y32～33）1993年6月-1999年6月
+      - ローレル（C34～C35）1994年1月-1999年8月
+
+<!-- end list -->
+
+  - RD28T
+      - [サファリ](https://ja.wikipedia.org/wiki/日産・サファリ "wikilink")（Y60・2ドアハードトップ・スピリット系）1994年10月-1997年10月
+
+<!-- end list -->
+
+  - RD28E
+      - セドリックセダン・営業車（Y31）1999年8月-2002年6月
+      - ローレル（C35）1999年8月-2001年5月
+      - クルー（K30）1999年8月-2002年6月
+
+<!-- end list -->
+
+  - RD28ETi（1-1）
+      - サファリ（Y61・2ドアハードトップ）1997年10月-1999年8月<AT車>
+  - RD28ETi（1-2）
+      - サファリ（Y61・2ドアハードトップ）1997年10月-1999年8月<MT車>
+
+## 関連項目
+
+  - [日産のエンジン型式一覧](../Page/日産のエンジン型式一覧.md "wikilink")
+
+[Category:日産自動車のエンジン](https://ja.wikipedia.org/wiki/Category:日産自動車のエンジン "wikilink")

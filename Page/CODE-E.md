@@ -1,0 +1,473 @@
+> この記事は[CODE-E](https://ja.wikipedia.org/wiki/CODE-E)から翻訳されています。
+
+
+『**CODE-E**』（コードイー）、および『**Mission-E**』（ミッションイー）は、[スタジオディーン](https://ja.wikipedia.org/wiki/スタジオディーン "wikilink")制作の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメ](../Page/アニメ.md "wikilink")作品。CODE-Eは[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")7月から[9月](../Page/9月.md "wikilink")まで、Mission-Eは2008年7月から9月まで放送されていた。また、2作品の間をつなぐエピソードとして漫画『**CODE-EX**』（コードイーエックス）、番外編として小説版『**CODE-E 遥かなる囁き**』も発表されている。
+
+## あらすじ
+
+  - CODE-E
+    [電磁波](../Page/電磁波.md "wikilink")事件多発\! 疑わしきは転校生?
+    舞台は隕石が落下してから20年後の[2017年](../Page/2017年.md "wikilink")\[1\]。
+    [吉祥寺](https://ja.wikipedia.org/wiki/吉祥寺 "wikilink")にある高校に転校することになった海老原千波美は、感情が高ぶると周囲の[電子機器](https://ja.wikipedia.org/wiki/電子機器 "wikilink")を狂わせる能力『TYPE-E』の持ち主だった。本人の意志に関係なく発動する特殊能力のため、否応なくトラブル（電化製品にノイズを発生させたり、壊したりしてしまう）を引き起こしてしまう。ヒロインと科学バカの男子生徒とのドタバタラブコメである。
+  - CODE-EX
+    CODE-Eの3年後、由真のもとに治療のためにやってきた少年、遠野克紀。しかし彼には由真達とは切っても切り離すことの出来ない大きな事情を抱えていた。そしてさらわれた克紀、由真は克紀を救うことが出来るのか。さらに彼女の特殊能力をとりまくある組織との因縁と、いつしか芽生えた2人の絆を描いた物語である。
+  - Mission-E
+    CODE-Eの5年後\[2\]の[2022年](../Page/2022年.md "wikilink")。千波美は麻織とともに「OZ」のエージェントとして、TYPE-Eを敵視する「ファウンデーション」からTYPE-E能力を持つ人々を守る日々を送っていた。特殊能力を活かし、同じ力を持つ人と持たない人との共存を目指して戦う2人のヒロイン。5年前の事件を巡る因縁と誤解、力を持つ者を排除しようとする組織との戦いを描いたサイバーアクションストーリーである。
+  - CODE-E 遥かなる囁き
+    CODE-Eの半年後、相手に触れることで思考を読み取れる接触テレパスである澪は、人に触れることを極度に恐れていた。幼馴染の直弥とも2メートル以内には近付かず、友達以上・恋人未満の関係のままだった…。しかし、千波美たちとの出会いが変化をもたらし、ついに奇蹟が起こる。特殊能力によって微妙に隔てられた幼馴染同士の関係を描いたラブストーリーである。
+
+## 登場人物
+
+### CODE-E・Mission-Eの登場人物
+
+  - 海老原 千波美（えびはら ちなみ）
+    [声](../Page/声優.md "wikilink") - [橋本まい](https://ja.wikipedia.org/wiki/橋本まい "wikilink")
+    **CODE-Eでの主人公。**身体から電磁波を発する（実際は神経電流を外部に放出する）TYPE-Eの能力を持つが、その能力が原因で転校を繰り返してきた。真面目で気が弱いため、余計に感情が高ぶり易く、謝り癖が付いてしまっている。安満沢村の事件後は「OZ」のエージェントとして活動し、光太郎とは遠距離恋愛中だったが、あまりのバカップルぶりと進展の無さにしびれを切らした園美によって半ば強制的に婚約させられた。また、由真の元で体術の訓練を積んだ成果から身体能力は上がったが未だにドジである。
+  - 君塚 麻織（きみづか まおり）
+    声 - [稲村優奈](https://ja.wikipedia.org/wiki/稲村優奈 "wikilink")
+    **Mission-Eでの主人公**でTYPE-E能力者。千波美たちの通っていた高校に通いながら驚異的な身体能力を武器に「OZ」のエージェントとして千波美と行動している。千波美とケンカして一時OZを離脱したときに助けられて以降、アドルに恋心を抱いている。CODE-Eでも愛犬のろろたと共に作中で毎回登場し、エンディング映像にもただ1人出ていたが、当時は名前は登場せず、エンディングテーマの歌い手としてクレジットされるのみだった。
+  - 斎橋 由真（さいはし ゆま）
+    声 - [水野理紗](https://ja.wikipedia.org/wiki/水野理紗 "wikilink")
+    **CODE-EXでの主人公**でTYPE-E能力者。神社の家に生まれ、弓道、合気道、古武術をたしなむ傍ら、自らの能力で近所の人たちにマッサージ治療を施している。史上初めて確認されたTYPE-Eであり、幼少時には赤松教授の人体実験の実験道具にされた辛い過去を持つ。千波美との出会いや克紀をめぐる一件を機に自分の能力に前向きになれるようになった。一件クールだが実は誰よりも世話好きでお節介な性格で、克紀に告白されてからは克紀のことになると取り乱す一面もある。[1970年代](../Page/1970年代.md "wikilink")の[SF映画](../Page/SF映画.md "wikilink")に詳しい。巫女を務めながら「OZ」にエージェントや操縦士（[ヘリコプター](../Page/ヘリコプター.md "wikilink")や[クルーザー](https://ja.wikipedia.org/wiki/クルーザー "wikilink")の操縦資格を持っている）として協力している。
+  - 巫 光太郎（かんなぎ こうたろう）
+    声 - [野村勝人](https://ja.wikipedia.org/wiki/野村勝人 "wikilink")
+    科学バカ。楽天家で朴念仁。恋愛感情には疎く、園美の想いにも気付いていなかった。転校してきた千波美の特殊体質に気付き、研究をしていくうちに恋に落ち、安満沢村の一件以降はすっかりバカップルとなっている。その後は大学で神経系の知識を身につけたのち、園美らと共にOZを設立、北海道研究所の主任を務めているが、野菜の仕送りの度に本部に来ている（そのため、「野菜が届いた」という言葉は半ば「光太郎が来た」という隠語と化している）。「科学は人のためにある」が信条で座右の銘。
+  - 九条 園美（くじょう そのみ）
+    声 - [名塚佳織](../Page/名塚佳織.md "wikilink")
+    あだ名は「そのその」。大金持ちのお嬢様で、光太郎の幼なじみで千波美が転校してくるまでは、好意を抱いていたが、光太郎の千波美への思いを受け入れたあとはスッパリ諦め、さっさと新しい恋人を作ってそのまま結婚してしまった（現在は一児の母）。ライバルだった千波美のこともそれ以降は親友として大切に思っているが、光太郎ともどもバカップルぶりと朴念仁ぶりにはイライラさせられっぱなしである。事件後、ファウンデーションの手からTYPE-E能力を持つ人々を守り手助けをする組織「OZ」を設立、良家の強みを生かした人脈も武器に代表として手腕を振るっている。
+  - アドル・ブリンベルケ
+    声 - [神谷浩史](https://ja.wikipedia.org/wiki/神谷浩史 "wikilink")
+    ミリスの双子の弟。千波美たちの学校に転入して来たドイツの留学生。千波美の情報を収集するために北欧のブリンガルドから来日した。事件後、「OZ」の対抗組織、ファウンデーションのエージェントとなる。姉であるミリスの件で、千波美を恨んでいる（ただし、本心ではファウンデーションの実験が原因だと言うことは知っていたが、麻織の想いを知るまで素直になれなかった）。犬のろろたが苦手。
+  - 柊 登喜雄（ひいらぎ ときお）
+    声 - [矢尾一樹](https://ja.wikipedia.org/wiki/矢尾一樹 "wikilink")
+    ファウンデーション創設者。赤松の危険な実験の影響からかTYPE-E能力を持つ人々に異常なまでの敵愾心を見せ、TYPE-Eを危険な存在だと信じ続けている。そして最終的にTYPE-Eを世間に公表しようとしていた。
+  - 鬼里久（きりく）
+    声 - [遊佐浩二](https://ja.wikipedia.org/wiki/遊佐浩二 "wikilink")
+    ファウンデーションのエージェント。少年時代に受けた赤松の実験によって男でありながらTYPE-E能力を持っている。赤松逮捕後はファウンデーション入りし、OZとの抗争状態を楽しんでいる。
+  - 漆 丙五郎（うるし へいごろう）
+    声 - [上別府仁資](https://ja.wikipedia.org/wiki/上別府仁資 "wikilink")
+    OZに園美の秘書兼参謀として務める中年の男性。膨大なデータを処理・解析し作戦の軸となっている。
+  - 小松菜 圭子（こまつな けいこ）
+    声 - [桃井はるこ](../Page/桃井はるこ.md "wikilink")
+    千波美の高校時代のクラスメイト。世話焼きで、転校して来た千波美にあれこれ教えてくれた。その後、麻織の通う学校の保険医となり、生徒からも人気がある。TYPE-Eのことは未だに知らない。恋人がいる模様。
+  - 戸隠 美雪（とがくし みゆき）
+    声- [中山さら](../Page/中山さら.md "wikilink")
+    麻織のクラスメイトで、周囲から孤立していた麻織を気にかけていたが、麻織が心を開くようになって友人となることができ、その後は一緒に買い物をしたり宿題を一緒にやる仲となった。
+  - ミリス・ブリンベルケ
+    声 - [豊口めぐみ](../Page/豊口めぐみ.md "wikilink")
+    アドルの双子の姉。お家再興が目的で、アドルと同様に留学生として千波美の特異体質の情報を収集するためにやって来た。事件後、意識不明となるも回復するが、植物状態に近い状態になる。
+  - 勝浦 美春（かつうら みはる）
+    声 - [浅川悠](../Page/浅川悠.md "wikilink")
+    OZにお世話になったOL。社会復帰のための適合訓練を受けた後、OZにエージェントとして再就職した。
+  - 倉本 茜（くらもと あかね）
+    声 - [天野由梨](../Page/天野由梨.md "wikilink")
+    ファウンデーションと繋がりをもつTYPE-E能力者。その行動や情報源には謎が多く、麻織達の手助けをすることもあった。しかし、麻織には嫌われている。
+  - 海老原 啓介（えびはら けいすけ）
+    声 - [塩屋浩三](https://ja.wikipedia.org/wiki/塩屋浩三 "wikilink")
+    千波美の父親。小説家で東京と大阪を行き来しながら、普段は地下に篭って原稿を書いている。
+  - 海老原 美月（えびはら みつき）
+    声 - [平松晶子](../Page/平松晶子.md "wikilink")
+    千波美の母親。仕事が忙しく家事全般を千波美に任せている。千波美の体質のことを夫婦共々いつも心配している。
+
+### CODE-EXの登場人物
+
+  - 遠野克紀（とおの かつき）
+    主要人物の1人で中学生。交通事故が原因で負った突発的に全身が麻痺する病気の治療のために由真と知り合い、最初は煙たがっていたが次第に惹かれあっていった。実は柊の息子で（親が離婚して親権が母にあるため遠野姓である）、それが原因で赤松にさらわれたが由真に助けられた。その後千波美たちの通った高校に進み、由真とも恋人同士となった模様。Mission-Eの最終話にも登場した。
+  - 赤松（あかまつ）
+    TYPE-E研究のかつての第一人者。大学病院の教授をしていた頃に幼少時の由真のTYPE-E能力を発見、興味本位で実験を重ねてきたが、男性をTYPE-Eにするという人体実験を行ったことで糾弾され、指名手配される。被検体であった鬼里久と共に姿を眩ませていたが、克紀をさらって実験対象にしようとしたことをきっかけに投獄され、その後獄中死した模様。
+  - 紬（つむぎ）
+    由真の恩人で、武術の師匠。酒癖が悪く由真をからかうことも多いがしっかりと気にかけている。武術の腕を磨きすぎたせいで人を「倒す対象」としか見られなくなってしまったため、由真には同じようにならないで欲しいと思っている。
+
+### CODE-E 遥かなる囁きの登場人物
+
+  - 萱村澪（かやむら みお）
+    **CODE-E 遥かなる囁きの主人公**で電磁波の感知に特化したTYPE-E能力者。対象者に触れることで表層意識を読み取ることができる接触型テレパスであり、接触を極度に避けている。接触していないにもかかわらずどこからか聞こえてくる「天使の声」の正体を探して千波美たちに出会う。
+  - 古賀直弥（こが なおや）
+    澪の幼馴染み。能力が発現した頃に澪に対し嫌悪感を抱かなかった唯一の人物であり、そのことから澪の両親に澪の面倒をみるよう頼まれている。
+  - 鍋島綾乃（なべしま あやの）
+    澪のクラスの女子の中心人物。澪が接触を避けるのは他人を汚いと考えているからだと誤解している。
+  - 峰岸沙織（みねぎし さおり）
+    綾乃のグループの一人で直弥に好意をもつ。
+  - 鹿原輝明（かはら てるあき）
+    直弥の隣の席の男子生徒。綾乃に好意をもつ。
+
+## CODE-E
+
+### スタッフ（第1期）
+
+  - 製作 - 鈴木篤志、長谷川洋
+  - 原作 - 笹原楓
+  - 原案 - [榊一郎](../Page/榊一郎.md "wikilink")
+  - 監督 - [加藤敏幸](https://ja.wikipedia.org/wiki/加藤敏幸_\(アニメ監督\) "wikilink")
+  - シリーズ構成 - [佐藤卓哉](https://ja.wikipedia.org/wiki/佐藤卓哉 "wikilink")
+  - キャラクターデザイン・総作画監督 - 斎藤哲人
+  - 美術監督 - 伊東和宏
+  - 色彩設計 - もちだたけし
+  - 撮影監督 - 森下成一
+  - 編集 - 松村正宏
+  - 音響監督 - [郷田ほづみ](https://ja.wikipedia.org/wiki/郷田ほづみ "wikilink")
+  - 音楽 - [かの香織](https://ja.wikipedia.org/wiki/かの香織 "wikilink")
+  - 番組プロデューサー - 水野政明、西本崇史
+  - 制作 - [メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")
+  - アニメーション制作 - [スタジオディーン](https://ja.wikipedia.org/wiki/スタジオディーン "wikilink")
+  - 製作 - [avex entertainment](https://ja.wikipedia.org/wiki/avex_entertainment "wikilink")、Studio DEEN
+
+### 主題歌（第1期）
+
+  - オープニングテーマ
+    ; 「E☆スキャンダル」
+
+      -
+        作曲・編曲 - [かの香織](https://ja.wikipedia.org/wiki/かの香織 "wikilink")
+
+  - エンディングテーマ
+    ; 「きみからの奇跡」
+
+      -
+        作詞・作曲・編曲 - かの香織 / 歌 - 君塚麻織（[稲村優奈](https://ja.wikipedia.org/wiki/稲村優奈 "wikilink")）
+
+  - キャラクターソング
+    ; 「恋はビリビリSENSATION\!」
+
+      -
+        歌 - B・Bガ〜ルズ（ビリビリガ〜ルズ）
+
+### 各話リスト（第1期）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話数</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>脚本</p></th>
+<th><p>絵コンテ</p></th>
+<th><p>演出</p></th>
+<th><p>作画監督</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>転校生と告白のこと。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐藤卓哉" title="wikilink">佐藤卓哉</a></p></td>
+<td><p>加藤敏幸</p></td>
+<td><p>斉藤哲人</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>科学と幸せのこと。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/川瀬敏文" title="wikilink">川瀬敏文</a></p></td>
+<td><p>加藤敏幸</p></td>
+<td><p>吉田俊司</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/沼田誠也" title="wikilink">沼田誠也</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>電磁波と研究のこと。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西村純二" title="wikilink">西村ジュンジ</a></p></td>
+<td><p>開祐二</p></td>
+<td><p>大久保修</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>秘密とバカのこと。</p></td>
+<td><p>佐藤卓哉</p></td>
+<td><p>飯村正之</p></td>
+<td><p>新井淳</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>憂鬱と親子のこと。</p></td>
+<td><p><a href="../Page/榊一郎.md" title="wikilink">榊一郎</a></p></td>
+<td><p>加藤敏幸</p></td>
+<td><p>吉本毅</p></td>
+<td><p>村上勉</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>巫女さんと修行のこと。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/花田十輝" title="wikilink">花田十輝</a></p></td>
+<td><p>葛谷直行</p></td>
+<td><p>小野田雄亮</p></td>
+<td><p>原田峰文</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>外国人と初恋のこと。</p></td>
+<td><p>西村ジュンジ</p></td>
+<td><p>加藤敏幸</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/うえだしげる" title="wikilink">うえだしげる</a></p></td>
+<td><p>沼田誠也</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>色仕掛けとすれ違いのこと。</p></td>
+<td><p>川瀬敏文</p></td>
+<td><p>新井淳</p></td>
+<td><p>開祐二</p></td>
+<td><p>大久保修</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>お見合いと恋敵のこと。</p></td>
+<td><p>佐藤卓哉</p></td>
+<td><p>うえだしげる</p></td>
+<td><p>吉田俊司</p></td>
+<td><p>西岡忍</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>消えた力と気持ちのこと。</p></td>
+<td><p>花田十輝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/飯島正勝" title="wikilink">飯島正勝</a></p></td>
+<td><p>蔵本穂高</p></td>
+<td><p>新井淳</p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>サマースクールと陰謀のこと。</p></td>
+<td><p>榊一郎</p></td>
+<td><p>開祐二</p></td>
+<td><p>小野田雄亮</p></td>
+<td><p>原田峰文</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>破滅と再生のこと。</p></td>
+<td><p>佐藤卓哉</p></td>
+<td><p>加藤敏幸</p></td>
+<td><p>吉本毅</p></td>
+<td><p>大久保修<br />
+原田峰文<br />
+能篠理行</p></td>
+</tr>
+</tbody>
+</table>
+
+### 放送局（第1期）
+
+| 放送地域                                                | 放送局                                                                              | 放送期間                                                                                                                                                | 放送日時                                                        | 放送区分                                                                        | 備考                                                      |
+| --------------------------------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------- |
+| [中京広域圏](../Page/広域放送.md "wikilink")                 | [メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")                                           | [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink") - [9月18日](../Page/9月18日.md "wikilink") | 火曜 26時43分 - 27時13分                                          | [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink") | 制作局                                                     |
+| [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink") | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")                                | 2007年[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") - [9月23日](../Page/9月23日.md "wikilink")                                                   | 日曜 23時30分 - 24時00分                                          | [独立UHF局](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")             | [アニフリ](https://ja.wikipedia.org/wiki/アニフリ "wikilink")枠内 |
+| [近畿広域圏](../Page/広域放送.md "wikilink")                 | [朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")                          | 2007年[7月11日](../Page/7月11日.md "wikilink") - [9月26日](../Page/9月26日.md "wikilink")                                                                    | 水曜 26時51分 - 27時21分                                          | テレビ朝日系列                                                                     |                                                         |
+| [日本全域](../Page/全国放送.md "wikilink")                  | [BANDAI CHANNEL](https://ja.wikipedia.org/wiki/バンダイチャンネル "wikilink")             | 2007年[8月9日](../Page/8月9日.md "wikilink") - [10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")                                                   | 木曜 12時00分更新                                                 | [ネット配信](../Page/ネット配信.md "wikilink")                                        | \-                                                      |
+| [AT-X](../Page/アニメシアターX.md "wikilink")              | 2007年[8月19日](../Page/8月19日.md "wikilink") - [11月4日](../Page/11月4日.md "wikilink") | 日曜 12時30分 - 13時00分                                                                                                                                  | [CSチャンネル](https://ja.wikipedia.org/wiki/専門チャンネル "wikilink") | リピートあり                                                                      |                                                         |
+| [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink") | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")                            | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - [6月19日](../Page/6月19日.md "wikilink") | 木曜 24時30分 - 25時00分                                          | 独立UHF局                                                                      | [アニたま](https://ja.wikipedia.org/wiki/アニたま "wikilink")枠内 |
+
+## Mission-E
+
+### スタッフ（第2期）
+
+  - 原作 - 笹原楓
+  - 原案・シリーズ構成 - 榊一郎
+  - 監督 - 加藤敏幸
+  - キャラクターデザイン・総作画監督 - 斎藤哲人
+  - メカデザイン - [菅沼栄治](https://ja.wikipedia.org/wiki/菅沼栄治 "wikilink")
+  - 美術監督 - 伊東和宏
+  - 色彩設計 - もちだたけし
+  - 撮影監督 - 森下成一
+  - 編集 - 松村正宏
+  - 音響監督 - 郷田ほづみ
+  - 音楽 - かの香織
+  - プロデューサー - 松田桂一、飯泉朝一
+  - アニメーション制作 - スタジオディーン
+  - 製作 - avex entertainment、スタジオディーン
+
+### 主題歌（第2期）
+
+  - オープニングテーマ
+    ; 「E☆シークレッツ」
+
+      -
+        作曲・編曲 - [かの香織](https://ja.wikipedia.org/wiki/かの香織 "wikilink")
+
+  - エンディングテーマ
+    ; 「[Feel so Easy\!](https://ja.wikipedia.org/wiki/Feel_so_Easy! "wikilink")」（第1・2・6・7・9・11話）
+
+      -
+        作詞・作曲・編曲・歌 - [桃井はるこ](../Page/桃井はるこ.md "wikilink")
+
+  - ; 「Feel so Easy\! ビリビリver.」（第3 - 5・8・10話）
+
+      -
+        作詞・作曲 - 桃井はるこ / 編曲 - MISSILE CHEWBACCA / 歌 - B・Bガ〜ルズ（ビリビリガ〜ルズ）
+
+  - ; 「きみからの奇跡」（最終話）
+
+      -
+        作詞・作曲・編曲 - かの香織 / 歌 - 君塚麻織（[稲村優奈](https://ja.wikipedia.org/wiki/稲村優奈 "wikilink")）
+
+### 各話リスト（第2期）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話数</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>脚本</p></th>
+<th><p>絵コンテ</p></th>
+<th><p>演出</p></th>
+<th><p>作画監督</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Mission 1</p></td>
+<td><p>OLさん誘拐大作戦!</p></td>
+<td><p><a href="../Page/榊一郎.md" title="wikilink">榊一郎</a></p></td>
+<td><p>加藤敏幸</p></td>
+<td><p>斎藤哲人</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Mission 2</p></td>
+<td><p>女子校潜入大作戦!</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/川瀬敏文" title="wikilink">川瀬敏文</a></p></td>
+<td><p>飯島正勝</p></td>
+<td><p>開祐二</p></td>
+<td><p>大久保修</p></td>
+</tr>
+<tr class="odd">
+<td><p>Mission 3</p></td>
+<td><p>黄昏の大作戦!</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西村純二" title="wikilink">西村ジュンジ</a></p></td>
+<td><p>神崎ユウジ</p></td>
+<td><p>中野彰子<br />
+Seo Jung-Duk<br />
+（GEUMWOO）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Mission 4</p></td>
+<td><p>北の大地で大作戦!</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/花田十輝" title="wikilink">花田十輝</a></p></td>
+<td><p>松本佳久</p></td>
+<td><p>浅見松雄</p></td>
+<td><p>能條理行</p></td>
+</tr>
+<tr class="odd">
+<td><p>Mission 5</p></td>
+<td><p>GOGO WEST大作戦!（前編）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐藤卓哉" title="wikilink">佐藤卓哉</a></p></td>
+<td><p>加藤敏幸</p></td>
+<td><p>小野田雄亮</p></td>
+<td><p>中野彰子<br />
+土橋昭人</p></td>
+</tr>
+<tr class="even">
+<td><p>Mission 6</p></td>
+<td><p>GOGO WEST大作戦!（後編）</p></td>
+<td><p>榊一郎</p></td>
+<td><p>浅見松雄</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/青野厚司" title="wikilink">青野厚司</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Mission 7</p></td>
+<td><p>大丈夫かな?大作戦!</p></td>
+<td><p>西村ジュンジ</p></td>
+<td><p>飯島正勝</p></td>
+<td><p>開祐二</p></td>
+<td><p>遠藤省二<br />
+今村麻美</p></td>
+</tr>
+<tr class="even">
+<td><p>Mission 8</p></td>
+<td><p>ちょいヤバ、デート大作戦!</p></td>
+<td><p>川瀬敏文</p></td>
+<td><p>中野彰子</p></td>
+<td><p>神崎ユウジ</p></td>
+<td><p>金沢愛美<br />
+山沢実</p></td>
+</tr>
+<tr class="odd">
+<td><p>Mission 9</p></td>
+<td><p>コンビ再起動大作戦!</p></td>
+<td><p>佐藤卓哉</p></td>
+<td><p>小野田雄亮</p></td>
+<td><p>Seo Jung-Duk<br />
+（GEUMWOO）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Mission 10</p></td>
+<td><p>過去の因縁大作戦!</p></td>
+<td><p>西村ジュンジ</p></td>
+<td><p>BoB白旗</p></td>
+<td><p>浅見松雄</p></td>
+<td><p>大久保修</p></td>
+</tr>
+<tr class="odd">
+<td><p>Mission 11</p></td>
+<td><p>クリスマスナイト大作戦!</p></td>
+<td><p>榊一郎</p></td>
+<td><p>吉田俊司</p></td>
+<td><p>Sin Min-Sub<br />
+（GEUMWOO）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Last Mission</p></td>
+<td><p>最後の最後の大作戦</p></td>
+<td><p>加藤敏幸</p></td>
+<td><p>加藤敏幸<br />
+開祐二</p></td>
+<td><p>斎藤哲人<br />
+青野厚司<br />
+能條理行</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 放送局（第2期）
+
+| 放送地域                                                    | 放送局                                                                                                                              | 放送期間                                                                                                                                                | 放送日時                                                  | 放送区分                                                            | 備考     |
+| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------------- | ------ |
+| [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")     | [とちぎテレビ](../Page/とちぎテレビ.md "wikilink")                                                                                           | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - [9月22日](../Page/9月22日.md "wikilink") | 月曜 25時05分 - 25時35分                                    | [独立UHF局](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink") |        |
+| [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")     | [チバテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")                                                                        | 月曜 26時40分 - 27時10分                                                                                                                                  |                                                       |                                                                 |        |
+| [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")     | [群馬テレビ](../Page/群馬テレビ.md "wikilink")                                                                                             | 2008年[7月9日](../Page/7月9日.md "wikilink") - [9月24日](../Page/9月24日.md "wikilink")                                                                      | 水曜 25時00分 - 25時30分                                    |                                                                 |        |
+| [岐阜県](../Page/岐阜県.md "wikilink")                        | [ぎふチャン](../Page/岐阜放送.md "wikilink")                                                                                              | 水曜 25時45分 - 26時15分                                                                                                                                  |                                                       |                                                                 |        |
+| [日本全域](../Page/全国放送.md "wikilink")                      | [AT-X](../Page/アニメシアターX.md "wikilink")                                                                                           | 2008年[7月10日](../Page/7月10日.md "wikilink") - [9月25日](../Page/9月25日.md "wikilink")                                                                    | 木曜 10時30分 - 11時00分                                    | [CSチャンネル](https://ja.wikipedia.org/wiki/専門チャンネル "wikilink")     | リピートあり |
+| [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")     | [KBS京都](../Page/京都放送.md "wikilink")                                                                                              | 木曜 25時30分 - 26時00分                                                                                                                                  | 独立UHF局                                                |                                                                 |        |
+| [和歌山県](../Page/和歌山県.md "wikilink")                      | [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")                                                                        | 木曜 25時40分 - 26時10分                                                                                                                                  |                                                       |                                                                 |        |
+| [奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")     | [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")                                                                        | 木曜 26時30分 - 27時00分                                                                                                                                  |                                                       |                                                                 |        |
+| [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")     | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")                                                                            | 2008年[7月12日](../Page/7月12日.md "wikilink") - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")                                                 | 土曜 26時00分 - 26時30分                                    |                                                                 |        |
+| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")   | [tvk](../Page/テレビ神奈川.md "wikilink")                                                                                              | 土曜 28時00分 - 28時30分                                                                                                                                  |                                                       |                                                                 |        |
+| 日本全域                                                    | [BANDAI CHANNEL](https://ja.wikipedia.org/wiki/バンダイチャンネル "wikilink")                                                             | 2008年[7月14日](../Page/7月14日.md "wikilink") - [9月29日](../Page/9月29日.md "wikilink")                                                                    | 月曜 12時00分更新                                           | [ネット配信](../Page/ネット配信.md "wikilink")                            |        |
+| [BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink") | [2009年](../Page/2009年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink") - [3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink") | 土曜 24時30分 - 25時00分                                                                                                                                  | [BS放送](https://ja.wikipedia.org/wiki/衛星放送 "wikilink") | 『[ANIME+](https://ja.wikipedia.org/wiki/アニメ+ "wikilink")』枠      |        |
+
+## CODE-EX
+
+『[月刊サンデージェネックス](https://ja.wikipedia.org/wiki/月刊サンデージェネックス "wikilink")』誌上で原尾有美子が連載していた。全2巻。アニメ第1期からの3年後の話で、CODE-EとMission-Eを繋ぐ内容になっており、事実上「Eシリーズ三部作」の第2部的な位置にある（CODE-Eが第1部、Mission-Eが第3部となる）。なお、こちらは斎橋由真が主人公を務めている。
+
+  - [榊一郎](../Page/榊一郎.md "wikilink")・原尾有美子『CODE-EX』[小学館](../Page/小学館.md "wikilink")〈サンデーGXコミックス〉
+    1.  2008年2月19日発売、ISBN 978-4-09-157124-3
+    2.  2008年7月18日発売、ISBN 978-4-09-157139-7
+
+## CODE-E 遙かなる囁き
+
+小学館・[ガガガ文庫](../Page/ガガガ文庫.md "wikilink")より発売。全1巻のオリジナルストーリー。原案の榊一郎が執筆、イラストは[緒方剛志](https://ja.wikipedia.org/wiki/緒方剛志 "wikilink")。接触型テレパスである萱村澪を主人公としたCODE-Eの半年後の話。
+
+  - 榊一郎『CODE-E 遙かなる囁き』[小学館](../Page/小学館.md "wikilink")〈[ガガガ文庫](../Page/ガガガ文庫.md "wikilink")〉 2008年7月18日発売、ISBN 978-4-09-451081-2
+
+## 脚注
+
+## 外部リンク
+
+  - CODE-EX（漫画版）
+      - [MAMA GOOSE（サンデーGX版・原尾有美子の個人サイト）](http://harao.chagasi.com/)
+  - CODE-E（TVアニメ）
+      - [CODE-E（エイベックス）](http://mv.avex.jp/code-e/)
+      - [CODE-E（ディーン）](http://deen.co.jp/works/codee/)
+  - Mission-E（TVアニメ）
+      - [Mission-E（エイベックス）](http://mv.avex.jp/mission-e/)
+
+[Category:アニメ作品_こ](https://ja.wikipedia.org/wiki/Category:アニメ作品_こ "wikilink") [Category:2007年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2007年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:名古屋テレビの深夜アニメ](https://ja.wikipedia.org/wiki/Category:名古屋テレビの深夜アニメ "wikilink") [Category:スタジオディーン](https://ja.wikipedia.org/wiki/Category:スタジオディーン "wikilink") [Category:エイベックス・グループのアニメ作品](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアニメ作品 "wikilink") [Category:SFアニメ](https://ja.wikipedia.org/wiki/Category:SFアニメ "wikilink") [Category:吉祥寺を舞台とした作品](https://ja.wikipedia.org/wiki/Category:吉祥寺を舞台とした作品 "wikilink") [Category:多摩地域を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:多摩地域を舞台としたアニメ作品 "wikilink") [Category:榊一郎](https://ja.wikipedia.org/wiki/Category:榊一郎 "wikilink")
+
+1.  第1話 Aパート冒頭のテロップより。
+2.  作中「平成34年度」という表記が登場する。

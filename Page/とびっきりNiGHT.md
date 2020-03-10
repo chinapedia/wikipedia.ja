@@ -1,0 +1,92 @@
+> この記事は[NiGHT](https://ja.wikipedia.org/wiki/NiGHT)から翻訳されています。
+
+
+**とびっきりNiGHT**（とびっきりないと）は、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で放送していた[深夜番組](../Page/深夜番組.md "wikilink")。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")9月まで放送されていた。
+
+15年6か月続いた[ミッドナイト東海](https://ja.wikipedia.org/wiki/ミッドナイト東海 "wikilink")の後番組。当初は地元[名古屋](../Page/名古屋.md "wikilink")で活躍するタレント、東海ラジオアナウンサー を起用して女性パーソナリティのみでスタート。半年後からは男性パーソナリティも加入し、[イモ欽トリオ](../Page/イモ欽トリオ.md "wikilink")を脱退後の[長江健次](../Page/長江健次.md "wikilink")、[中原めいこ](https://ja.wikipedia.org/wiki/中原めいこ "wikilink")ら全国展開をしていたタレント、歌手を招聘。
+
+最初は午前2時を境に1部と2部に分かれていたが、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")11月からは1曜日1枠に統一される。この際に、それまで2部に出演していたパーソナリティは1部のパーソナリティと共演か、録音出演するという形となった。
+
+全体的にリスナーとのつながりを重視、お便りを大切にしていた番組であり、『[ラジオマガジン](../Page/ラジオマガジン_\(雑誌\).md "wikilink")』『[ラジオパラダイス](https://ja.wikipedia.org/wiki/ラジオパラダイス "wikilink")』など雑誌の取材、掲載も多かった。
+
+本番組のオープニングテーマ曲は、[奥山敬造](https://ja.wikipedia.org/wiki/奥山敬造 "wikilink")の作曲によるオリジナル曲。
+
+## 放送時間
+
+  - 1983年9月1日-1985年3月・1985年10月
+      - 1部：毎週[月曜日](../Page/月曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink") 24:30 - 26:00
+      - 2部：毎週月曜日 - 金曜日 26:00 - 27:00
+  - 1985年4月-1985年9月
+      - 1部：毎週月曜日 - 金曜日 25:00 - 26:00
+      - 2部：毎週月曜日 - 金曜日 26:00 - 27:00
+  - 1985年11月-1986年3月
+      - 毎週月曜日 - 金曜日 24:30 - 27:00
+  - 1986年4月-1986年9月
+      - 毎週月曜日 - 金曜日 25:00 - 27:00
+
+### 変遷
+
+| 放送期間    | 放送時間 ([JST](../Page/日本標準時.md "wikilink")) |
+| ------- | ----------------------------------------- |
+| 第1部     | 第2部                                       |
+| 1983.09 | 1985.03                                   |
+| 1985.04 | 1985.09                                   |
+| 1985.10 | 24:30 - 26:00（90分）                        |
+| 1985.11 | 1986.03                                   |
+| 1986.04 | 1986.09                                   |
+
+## パーソナリティ
+
+  - [大島千佳子](https://ja.wikipedia.org/wiki/大島千佳子 "wikilink") （月曜1部、1983年9月-1985年6月）
+  - [渡辺浩美](https://ja.wikipedia.org/wiki/渡辺浩美 "wikilink") （月曜2部、1983年9月-1984年3月）
+  - [重光久美](https://ja.wikipedia.org/wiki/重光久美 "wikilink") （火曜1部、1983年9月-1984年3月）
+  - [三浦弘恵](https://ja.wikipedia.org/wiki/三浦弘恵 "wikilink") （火曜2部、1983年9月-1984年10月）
+  - [井上池鶴](https://ja.wikipedia.org/wiki/井上池鶴 "wikilink") （水曜2部、1983年9月-1984年3月 → 火曜1部・火曜、1984年4月-1986年5月 → 月曜、1986年6月）
+  - [中川雅恵](https://ja.wikipedia.org/wiki/中川雅恵 "wikilink") （水曜2部→水曜、1983年9月-1986年2月25日）
+  - [小椋みどり](https://ja.wikipedia.org/wiki/小椋みどり "wikilink") （木曜1部・木曜、1983年9月-1986年9月）
+  - [金子弥生](https://ja.wikipedia.org/wiki/金子弥生 "wikilink") （木曜2部、1983年9月-1984年3月）
+  - [平松圭子](https://ja.wikipedia.org/wiki/平松圭子 "wikilink") （金曜1部・金曜、1983年9月-1986年9月）
+  - [岡山玲子](https://ja.wikipedia.org/wiki/岡山玲子 "wikilink") （金曜2部、1983年9月-1984年3月 → 1984年4月-1985年10月）
+  - [中神滋斗](https://ja.wikipedia.org/wiki/中神滋斗 "wikilink") （月曜2部、1984年4月-1985年10月 → 火曜、1986年6月-1986年9月）
+  - [長江健次](../Page/長江健次.md "wikilink") （水曜1部・水曜、1984年4月-1986年9月）
+  - [林あさ美](https://ja.wikipedia.org/wiki/林あさ美_\(タレント\) "wikilink") （金曜2部・金曜、1984年4月-1986年9月）
+  - [原光隆](https://ja.wikipedia.org/wiki/原光隆 "wikilink") （火曜2部、1984年11月-1985年10月）
+  - [中原めいこ](https://ja.wikipedia.org/wiki/中原めいこ "wikilink") （月曜1部・月曜、1985年7月-1986年5月）
+  - [横田佳代子](https://ja.wikipedia.org/wiki/横田佳代子 "wikilink") （木曜、1986年4月-1986年9月）
+  - [及出泰](https://ja.wikipedia.org/wiki/YASU "wikilink") （火曜、1986年6月-1986年9月）
+  - [鎌田英子](https://ja.wikipedia.org/wiki/鎌田英子 "wikilink") （月曜、1986年7月-1986年9月）
+
+## 主なコーナー
+
+**大島千佳子**
+
+  - 君ならどっち、どっちが偉い
+
+**井上池鶴**
+
+  - 疑問珍問、池鶴の珍解釈
+
+**長江健次**
+
+  - さしすせ川柳
+
+**及出泰・中神滋斗**
+
+  - なに「東海小町」のコーナー\!?
+  - あっ\!ストリートダンサーだ（及出泰の局入りの際に、局前へ差し入れ等を持ってきた人にTシャツをプレゼントしていた）
+  - 純子と森田の日記（身の回りに居る変な奴を紹介していたコーナー）
+
+**小椋みどり・横田佳代子**
+
+  - しゃべりてゃ～名古屋弁
+
+**平松圭子**
+
+  - 好きです （好きな人へのラブレターを代わりに紹介してくれるコーナー）
+  - THE標語 （毎回のテーマに沿って[標語](../Page/標語.md "wikilink")をリスナーから募集していた。このコーナーの中で当時[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")の現役[大関](../Page/大関.md "wikilink")だった[朝潮のネタで盛り上がり](../Page/朝潮太郎_\(4代\).md "wikilink")、**朝潮大賞**が作られて一番面白かったネタを送ったリスナーに実際に朝潮の[手形](../Page/手形.md "wikilink")入り色紙が贈られたということがあった。）
+
+**林あさ美**
+
+  - ピアノアノアノ
+
+[Category:1983年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1983年のラジオ番組_\(日本\) "wikilink") [Category:東海ラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:東海ラジオの帯番組の歴史 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink") [Category:深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:深夜ラジオ番組 "wikilink")

@@ -1,0 +1,149 @@
+> この記事は[TOHO](https://ja.wikipedia.org/wiki/TOHO)から翻訳されています。
+
+
+**TOHOシネマズ渋谷**（とうほうシネマズしぶや、**TOHO CINEMAS SHIBUYA**）は、[TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink")[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")が経営・運営する[シネマコンプレックス](../Page/シネマコンプレックス.md "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[道玄坂](../Page/道玄坂.md "wikilink")の『渋東シネタワー』（ビル名称）内にある。
+
+チケット売り場は1階にあり、上映されている作品のチケットはすべてここで購入できる。[2011年](../Page/2011年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink")、**渋東シネタワー**を改装し、「vit」および「シネマイレージ」を導入の上リニューアルオープン\[1\]\[2\]\[3\]。同年[11月30日](../Page/11月30日.md "wikilink")、下層階（地下1階、地上1階・2階・3階）を改築し、6スクリーンに増設してリニューアルオープンした。
+
+## 沿革
+
+  - [1991年](../Page/1991年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")：[渋谷東宝会館](https://ja.wikipedia.org/wiki/渋谷東宝会館 "wikilink")跡地に**渋東シネタワー**（4スクリーン）が開業。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")：運営会社が東宝株式会社から[TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink")株式会社に変更。
+  - [2007年](../Page/2007年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")：株式会社渋谷文化劇場がTOHOシネマズに吸収合併される。
+  - [2011年](../Page/2011年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")：渋東シネタワー1・2を一時閉館。同年[7月15日](../Page/7月15日.md "wikilink")、**TOHOシネマズ渋谷**のスクリーン1・2・3・4として再開業する。
+  - 2011年[11月30日](../Page/11月30日.md "wikilink")：渋東シネタワー3・4を改修し、TOHOシネマズ渋谷スクリーン5・6とする。
+
+## 概要
+
+### 渋東シネタワー
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Shibutoh_Cine_Tower.JPG "wikilink")』『[LIAR GAME ザ・ファイナル・ステージ](../Page/LIAR_GAME_\(テレビドラマ\).md "wikilink")』『[パーシー・ジャクソンとオリンポスの神々](https://ja.wikipedia.org/wiki/パーシー・ジャクソンとオリンポスの神々_\(映画\) "wikilink")』『[のだめカンタービレ最終楽章（後編）](https://ja.wikipedia.org/wiki/のだめカンタービレ_\(テレビドラマ\) "wikilink")』の告知看板が掲げられていた。\]\] [1991年](../Page/1991年.md "wikilink")（平成3年）[7月6日](../Page/7月6日.md "wikilink")、渋谷東宝会館は『**渋東シネタワー**』と改称し、4スクリーンに増設して再オープンした。「渋東」の名称は、かつてこの地にあった「**渋**谷**東**宝」に由来する。
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[9月30日](../Page/9月30日.md "wikilink")までは、シネタワー1・2・4は東宝が、シネタワー3は[2007年](../Page/2007年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")まで渋谷文化劇場が所有していたが、[2007年](../Page/2007年.md "wikilink")（平成19年）[3月1日](../Page/3月1日.md "wikilink")よりTOHOシネマズに合併統合された。
+
+#### シネタワー時代の概要
+
+<table>
+<thead>
+<tr class="header">
+<th><p>スクリーン</p></th>
+<th><p>定員（座席数）</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/車椅子" title="wikilink">車椅子</a>席</p></th>
+<th><p>音響方式</p></th>
+<th><p>詳細</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>シネタワー1</p></td>
+<td><p>606</p></td>
+<td><p>rowspan = "4"| 2</p></td>
+<td><p><a href="../Page/ドルビーデジタル.md" title="wikilink">SRD</a>/SRD-EX/<a href="https://ja.wikipedia.org/wiki/デジタル・シアター・システムズ" title="wikilink">DTS</a>/<a href="https://ja.wikipedia.org/wiki/ソニー・ダイナミック・デジタル・サウンド" title="wikilink">SDDS</a></p></td>
+<td><p>ビルの7階（現在のスクリーン1・2）。椅子の色は青。<br />
+常に洋画と、ヒット予想の高い邦画が上映された。<br />
+<a href="https://ja.wikipedia.org/wiki/TOHOシネマズスカラ座" title="wikilink">TOHOシネマズスカラ座</a>系の東宝洋画系チェーンであった。</p></td>
+</tr>
+<tr class="even">
+<td><p>シネタワー2</p></td>
+<td><p>790</p></td>
+<td><p>ビルの4階・5階（現在のスクリーン3・4。5階は2階席）。椅子の色は赤。<br />
+常に、大作の東宝洋画系作品が上映された。<br />
+<a href="https://ja.wikipedia.org/wiki/TOHOシネマズ日劇" title="wikilink">TOHOシネマズ日劇</a>（以下TC日劇）スクリーン1系のチェーン。<br />
+2階席を設けており、かつては<a href="../Page/座席指定席.md" title="wikilink">全席指定で料金は</a>2,500円であった。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>シネタワー3</p></td>
+<td><p>342</p></td>
+<td><p>SRD/SRD-EX/DTS</p></td>
+<td><p>ビルの2階。椅子の色はピンク。洋画と邦画が上映された。TC日劇スクリーン3系のチェーン。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>シネタワー4</p></td>
+<td><p>248</p></td>
+<td><p>SRD/SRD-EX</p></td>
+<td><p>ビルの地下1階（現在のスクリーン5・6）。椅子の色は紫。東宝邦画系作品のみを上映していた。<br />
+TC日劇スクリーン2系のチェーンであった。1カ月に1作程度の割合で、新作が公開された。<br />
+オープン当時は<a href="https://ja.wikipedia.org/wiki/日比谷映画" title="wikilink">日比谷映画</a>、<a href="https://ja.wikipedia.org/wiki/TOHOシネマズみゆき座" title="wikilink">みゆき座系のチェーンだったが</a>、<strong>渋谷宝塚劇場</strong>の老朽化による閉館のため、<a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><a href="../Page/5月31日.md" title="wikilink">5月31日</a>より同劇場からTC日劇スクリーン2（当時は<strong>日劇東宝</strong>）系=東宝邦画系のチェーンを引き継いだ。<br />
+<a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/12月18日.md" title="wikilink">12月18日</a>、渋谷宝塚跡地に複合商業ビル「<a href="../Page/QFRONT.md" title="wikilink">QFRONT</a>」がオープンし、同ビルの7階に映画館「<a href="https://ja.wikipedia.org/wiki/渋谷シネフロント" title="wikilink">渋谷シネフロント</a>」が開館した。<br />
+なお、シネフロントは<a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/1月22日.md" title="wikilink">1月22日</a>をもって閉館し、同年<a href="../Page/4月23日.md" title="wikilink">4月23日</a>、核テナントである<a href="https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ" title="wikilink">TSUTAYA渋谷店のコミックフロアに改装オープンした</a>。</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+※ただし、シネタワー時代末期（[2009年](../Page/2009年.md "wikilink")以降）はヒット予想の高い作品により、客入りなどで上映館を4館内で入れ変えることも多かった。
+
+### TOHOシネマズ渋谷
+
+[2011年](../Page/2011年.md "wikilink")（平成23年）、開館から20周年を迎えた渋東シネタワーは大幅なリニューアル工事を実施。まず同年2月より上層階にあったシネタワー1と2を閉鎖・改装し、同年[7月15日](../Page/7月15日.md "wikilink")、**TOHOシネマズ渋谷**スクリーン1・2・3・4がオープン。次いで下層階のシネタワー3・4を改装し、同年[11月30日](../Page/11月30日.md "wikilink")にTOHOシネマズ渋谷スクリーン5・6がオープン。同時に全スクリーンの上映方式も長らく続いた[35mmフィルム](https://ja.wikipedia.org/wiki/35mmフィルム "wikilink")上映から[デジタル上映へと移行した](https://ja.wikipedia.org/wiki/デジタルシネマ "wikilink")。これにより映画館としての渋東シネタワーは消滅することになったが、建物自体は引き続き渋東シネタワーの名称が使用されている。
+
+TOHOシネマズになってからは、東宝系の邦画・洋画のみならず、[丸の内ピカデリー](https://ja.wikipedia.org/wiki/丸の内ピカデリー "wikilink")1・2・3で上映される[松竹](../Page/松竹.md "wikilink")映画や[ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")映画も一部上映するようになった\[4\]。
+
+#### 各館の概要
+
+| スクリーン | 定員（座席数） | [車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")席 | 音響方式             |
+| ----- | ------- | ---------------------------------------------------- | ---------------- |
+| 1     | 154     | 2                                                    | 5.1チャンネルデジタルサウンド |
+| 2     | 197     |                                                      |                  |
+| 3     | 297     |                                                      |                  |
+| 4     | 115     |                                                      |                  |
+| 5     | 234     |                                                      |                  |
+| 6     | 215     |                                                      |                  |
+|       |         |                                                      |                  |
+
+全スクリーンともデジタル[3D](https://ja.wikipedia.org/wiki/3D "wikilink")上映に対応している。
+
+## 代表作
+
+### スクリーン1
+
+ビルの7階。定員608人。常に洋画と、ヒット予想の高い邦画が上映された。[TOHOシネマズスカラ座](https://ja.wikipedia.org/wiki/TOHOシネマズスカラ座 "wikilink")系の東宝洋画系チェーンである。
+
+  - 代表作：『[ホーム・アローン](https://ja.wikipedia.org/wiki/ホーム・アローン "wikilink")』（オープニング上映作品）、『[曼荼羅 若き日の弘法大師・空海](https://ja.wikipedia.org/wiki/曼荼羅_若き日の弘法大師・空海 "wikilink")』、『[シティ･スリッカーズ](https://ja.wikipedia.org/wiki/シティ・スリッカーズ_\(映画\) "wikilink")』、『[ミンボーの女](https://ja.wikipedia.org/wiki/ミンボーの女 "wikilink")』、『[遥かなる大地へ](https://ja.wikipedia.org/wiki/遥かなる大地へ "wikilink")』、『[ブーメラン](https://ja.wikipedia.org/wiki/:en:Boomerang_\(1992_film\) "wikilink")』、『[プリティ・リーグ](../Page/プリティ・リーグ.md "wikilink")』、『[永遠に美しく…](https://ja.wikipedia.org/wiki/永遠に美しく… "wikilink")』、『[天使にラブ・ソングを…](https://ja.wikipedia.org/wiki/天使にラブ・ソングを… "wikilink")』シリーズ、『[アラジン](https://ja.wikipedia.org/wiki/アラジン_\(1992年の映画\) "wikilink")』、『[めぐり逢えたら](../Page/めぐり逢えたら.md "wikilink")』、『[シンドラーのリスト](https://ja.wikipedia.org/wiki/シンドラーのリスト "wikilink")』、『[メジャーリーグ](https://ja.wikipedia.org/wiki/メジャーリーグ_\(映画\) "wikilink")』シリーズ（[2](https://ja.wikipedia.org/wiki/メジャーリーグ2 "wikilink")、[3](../Page/メジャーリーグ3.md "wikilink")）、『[フリントストーン/モダン石器時代](https://ja.wikipedia.org/wiki/フリントストーン/モダン石器時代 "wikilink")』、『[ビバリーヒルズ・コップ3](../Page/ビバリーヒルズ・コップ3.md "wikilink")』、『[薔薇の素顔](https://ja.wikipedia.org/wiki/薔薇の素顔 "wikilink")』、『[ジュニア](https://ja.wikipedia.org/wiki/ジュニア_\(映画\) "wikilink")』、『[ストリートファイター](../Page/ストリートファイター_\(1994年の映画\).md "wikilink")（ハリウッド実写版）』、『[ポカホンタス](https://ja.wikipedia.org/wiki/ポカホンタス_\(映画\) "wikilink")』、『[ブレイブハート](https://ja.wikipedia.org/wiki/ブレイブハート "wikilink")』、『[ショーガール](https://ja.wikipedia.org/wiki/ショーガール_\(1995年の映画\) "wikilink")』、『[セブン](../Page/セブン_\(映画\).md "wikilink")』、『[カジノ](../Page/カジノ_\(映画\).md "wikilink")』、『[ミッション:インポッシブル](https://ja.wikipedia.org/wiki/ミッション:インポッシブル "wikilink")』、『[デイライト](../Page/デイライト_\(映画\).md "wikilink")』、『[身代金](https://ja.wikipedia.org/wiki/身代金_\(映画\) "wikilink")』、『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")』シリーズ（[エピソード4](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード4/新たなる希望 "wikilink")・[5](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード5/帝国の逆襲 "wikilink")・[6の特別篇](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード6/ジェダイの帰還 "wikilink")）、『[スピード2](../Page/スピード2.md "wikilink")』、『[コン・エアー](../Page/コン・エアー.md "wikilink")』、『[エアフォース・ワン](https://ja.wikipedia.org/wiki/エアフォース・ワン_\(映画\) "wikilink")』、『[ゲーム](https://ja.wikipedia.org/wiki/ゲーム_\(映画\) "wikilink")』、[ジェームズ・ボンド](https://ja.wikipedia.org/wiki/ジェームズ・ボンド "wikilink") シリーズ（『[007 トゥモロー・ネバー・ダイ](https://ja.wikipedia.org/wiki/007_トゥモロー・ネバー・ダイ "wikilink")』、『[007 ワールド・イズ・ノット・イナフ](https://ja.wikipedia.org/wiki/007_ワールド・イズ・ノット・イナフ "wikilink")』）、『[スターシップ・トゥルーパーズ](../Page/スターシップ・トゥルーパーズ.md "wikilink")』、『[仮面の男](https://ja.wikipedia.org/wiki/仮面の男 "wikilink")』、『[Xファイル ザ・ムービー](https://ja.wikipedia.org/wiki/Xファイル#Xファイル_ザ・ムービー "wikilink")』、『[メリーに首ったけ](../Page/メリーに首ったけ.md "wikilink")』、『[パッチ・アダムス トゥルー・ストーリー](https://ja.wikipedia.org/wiki/パッチ・アダムス_トゥルー・ストーリー "wikilink")』、『[エントラップメント](../Page/エントラップメント.md "wikilink")』、『[ファイト・クラブ](https://ja.wikipedia.org/wiki/ファイト・クラブ_\(映画\) "wikilink")』、『[ザ・ビーチ](https://ja.wikipedia.org/wiki/ザ・ビーチ "wikilink")』、『[スチュアート・リトル](../Page/スチュアート・リトル.md "wikilink")』、『[U-571](https://ja.wikipedia.org/wiki/U-571 "wikilink")』、『[シックス・デイ](../Page/シックス・デイ.md "wikilink")』、『[クリムゾン・リバー](https://ja.wikipedia.org/wiki/クリムゾン・リバー "wikilink")』、『[JSA](https://ja.wikipedia.org/wiki/JSA_\(映画\) "wikilink")』、『[千と千尋の神隠し](../Page/千と千尋の神隠し.md "wikilink")』、『[バニラ・スカイ](https://ja.wikipedia.org/wiki/バニラ・スカイ "wikilink")』、『[ビューティフル・マインド](https://ja.wikipedia.org/wiki/ビューティフル・マインド "wikilink")』、『[K-19](https://ja.wikipedia.org/wiki/K-19_\(映画\) "wikilink")』、『[8 Mile](https://ja.wikipedia.org/wiki/8_Mile "wikilink")』、『[踊る大捜査線 THE MOVIE 2](https://ja.wikipedia.org/wiki/踊る大捜査線_THE_MOVIE_2_レインボーブリッジを封鎖せよ! "wikilink")』、『[リーグ・オブ・レジェンド](https://ja.wikipedia.org/wiki/リーグ・オブ・レジェンド "wikilink")』、『[シュレック2](https://ja.wikipedia.org/wiki/シュレック2 "wikilink")』、『[ヴァン・ヘルシング](https://ja.wikipedia.org/wiki/ヴァン・ヘルシング_\(映画\) "wikilink")』、『[ハウルの動く城](https://ja.wikipedia.org/wiki/ハウルの動く城 "wikilink")』、『[宇宙戦争](https://ja.wikipedia.org/wiki/宇宙戦争_\(2005年の映画\) "wikilink")』、『[四月の雪](https://ja.wikipedia.org/wiki/四月の雪 "wikilink")』、『[春の雪](https://ja.wikipedia.org/wiki/春の雪 "wikilink")』、『[Mr.\&Mrs. スミス](https://ja.wikipedia.org/wiki/Mr.&Mrs._スミス "wikilink")』、『[カーズ](https://ja.wikipedia.org/wiki/カーズ_\(映画\) "wikilink")』、『[X-MEN: ファイナル ディシジョン](https://ja.wikipedia.org/wiki/X-MEN:_ファイナル_ディシジョン "wikilink")』、『[プラダを着た悪魔](../Page/プラダを着た悪魔.md "wikilink")』、『[ナイト ミュージアム](../Page/ナイト_ミュージアム.md "wikilink")』、『[バベル](https://ja.wikipedia.org/wiki/バベル_\(映画\) "wikilink")』、『[西遊記](../Page/西遊記_\(2007年の映画\).md "wikilink")』、『[HERO](../Page/HERO_\(2007年の映画\).md "wikilink")』、『[アース](../Page/アース_\(2007年の映画\).md "wikilink")』、『[エリザベス:ゴールデン・エイジ](../Page/エリザベス:ゴールデン・エイジ.md "wikilink")』、『[スパイダーウィックの謎](../Page/スパイダーウィックの謎.md "wikilink")』、『[ランボー/最後の戦場](https://ja.wikipedia.org/wiki/ランボー/最後の戦場 "wikilink")』、『[奇跡のシンフォニー](https://ja.wikipedia.org/wiki/奇跡のシンフォニー "wikilink")』、『[崖の上のポニョ](../Page/崖の上のポニョ.md "wikilink")』、『[ウォーリー](https://ja.wikipedia.org/wiki/ウォーリー_\(映画\) "wikilink")』、『[感染列島](https://ja.wikipedia.org/wiki/感染列島 "wikilink")』、『[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア_\(映画\) "wikilink")』、『[マーリー 世界一おバカな犬が教えてくれたこと](https://ja.wikipedia.org/wiki/マーリー_世界一おバカな犬が教えてくれたこと "wikilink")』、『[バーン・アフター・リーディング](https://ja.wikipedia.org/wiki/バーン・アフター・リーディング "wikilink")』、『[消されたヘッドライン](https://ja.wikipedia.org/wiki/消されたヘッドライン "wikilink")』、『[アマルフィ 女神の報酬](https://ja.wikipedia.org/wiki/アマルフィ_女神の報酬 "wikilink")』、『[BALLAD 名もなき恋のうた](https://ja.wikipedia.org/wiki/BALLAD_名もなき恋のうた "wikilink")』、『[イングロリアス・バスターズ](https://ja.wikipedia.org/wiki/イングロリアス・バスターズ "wikilink")』、『[パブリック・エネミーズ](https://ja.wikipedia.org/wiki/パブリック・エネミーズ "wikilink")』、『[のだめカンタービレ 最終楽章](https://ja.wikipedia.org/wiki/のだめカンタービレ_\(テレビドラマ\)#劇場版 "wikilink")』（前編）、『[サロゲート](https://ja.wikipedia.org/wiki/サロゲート_\(映画\) "wikilink")』、『[パーシー・ジャクソンとオリンポスの神々](https://ja.wikipedia.org/wiki/パーシー・ジャクソンとオリンポスの神々_\(映画\) "wikilink")』、『[ダレン・シャン](https://ja.wikipedia.org/wiki/ダレン・シャン_\(小説\)#映画版 "wikilink")』、『[シャッター アイランド](https://ja.wikipedia.org/wiki/シャッター_アイランド "wikilink")』、『[グリーン・ゾーン](https://ja.wikipedia.org/wiki/グリーン・ゾーン "wikilink")』、『[プリンス・オブ・ペルシャ/時間の砂](https://ja.wikipedia.org/wiki/プリンス・オブ・ペルシャ/時間の砂_\(映画\) "wikilink")』、『[トイ・ストーリー3](https://ja.wikipedia.org/wiki/トイ・ストーリー3 "wikilink")』、『[十三人の刺客（2010）](https://ja.wikipedia.org/wiki/十三人の刺客_\(2010年の映画\) "wikilink")』、『[ノルウェイの森](https://ja.wikipedia.org/wiki/ノルウェイの森#映画 "wikilink")』、『[僕と妻の1778の物語](https://ja.wikipedia.org/wiki/僕と妻の1778の物語 "wikilink")』 ほか
+
+### スクリーン2
+
+ビルの4階・5階（5階は2階席）。定員792人。常に、大作の東宝洋画系作品が上映された。[TOHOシネマズ日劇](https://ja.wikipedia.org/wiki/TOHOシネマズ日劇 "wikilink")（以下TC日劇）スクリーン1系のチェーン。2階席を設けており、かつては[全席指定で料金は](../Page/座席指定席.md "wikilink")2,500円であった。
+
+  - 代表作：『[バックドラフト](https://ja.wikipedia.org/wiki/バックドラフト_\(映画\) "wikilink")』（オープニング上映作品）、『[ターミネーター](../Page/ターミネーター_\(映画\).md "wikilink")』シリーズ（[2](https://ja.wikipedia.org/wiki/ターミネーター2 "wikilink")、[3](https://ja.wikipedia.org/wiki/ターミネーター3 "wikilink")。『[T4](https://ja.wikipedia.org/wiki/ターミネーター4 "wikilink")』からは[松竹](../Page/松竹.md "wikilink")[東急系の為上映無し](https://ja.wikipedia.org/wiki/東急レクリエーション "wikilink")）、『[ケープ・フィアー](../Page/ケープ・フィアー.md "wikilink")』、『[愛人/ラマン](https://ja.wikipedia.org/wiki/愛人/ラマン "wikilink")』、『[エイリアン](https://ja.wikipedia.org/wiki/エイリアン_\(映画\) "wikilink")』シリーズ（[3](https://ja.wikipedia.org/wiki/エイリアン3 "wikilink")、[4](https://ja.wikipedia.org/wiki/エイリアン4 "wikilink")）、『[ホーム・アローン2](https://ja.wikipedia.org/wiki/ホーム・アローン2 "wikilink")』、『[ロボコップ3](https://ja.wikipedia.org/wiki/ロボコップ3 "wikilink")』、『[ジュラシック・パーク](https://ja.wikipedia.org/wiki/ジュラシック・パーク "wikilink")』シリーズ、『[クリフハンガー](https://ja.wikipedia.org/wiki/クリフハンガー_\(映画\) "wikilink")』、『[ライオン・キング](https://ja.wikipedia.org/wiki/ライオン・キング "wikilink")』、『[トゥルーライズ](https://ja.wikipedia.org/wiki/トゥルーライズ "wikilink")』、『[スピード](https://ja.wikipedia.org/wiki/スピード_\(映画\) "wikilink")』、『[フォレスト・ガンプ/一期一会](https://ja.wikipedia.org/wiki/フォレスト・ガンプ/一期一会 "wikilink")』、『[ダイ・ハード](https://ja.wikipedia.org/wiki/ダイ・ハード "wikilink")』シリーズ（[3](https://ja.wikipedia.org/wiki/ダイ・ハード3 "wikilink")、[4.0](../Page/ダイ・ハード4.0.md "wikilink")）、『[クリムゾン・タイド](https://ja.wikipedia.org/wiki/クリムゾン・タイド "wikilink")』、『[007 ゴールデンアイ](https://ja.wikipedia.org/wiki/007_ゴールデンアイ "wikilink")』、『[ブロークン・アロー](https://ja.wikipedia.org/wiki/ブロークン・アロー "wikilink")』、『[ツイスター](https://ja.wikipedia.org/wiki/ツイスター_\(映画\) "wikilink")』、『[ザ・ロック](../Page/ザ・ロック_\(映画\).md "wikilink")』、『[インデペンデンス・デイ](https://ja.wikipedia.org/wiki/インデペンデンス・デイ "wikilink")』、『[タイタニック](https://ja.wikipedia.org/wiki/タイタニック_\(1997年の映画\) "wikilink")』、『[プライベート・ライアン](../Page/プライベート・ライアン.md "wikilink")』、『[アルマゲドン](https://ja.wikipedia.org/wiki/アルマゲドン_\(映画\) "wikilink")』、『スター・ウォーズ』シリーズ（[エピソード1](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード1/ファントム・メナス "wikilink")・[2](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード2/クローンの攻撃 "wikilink")・[3](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード3/シスの復讐 "wikilink")）、『[ハムナプトラ](https://ja.wikipedia.org/wiki/ハムナプトラ/失われた砂漠の都 "wikilink")』シリーズ、『[シックス・センス](../Page/シックス・センス.md "wikilink")』、『[エンド・オブ・デイズ](https://ja.wikipedia.org/wiki/エンド・オブ・デイズ "wikilink")』、[『ミッション:インポッシブル』シリーズ](https://ja.wikipedia.org/wiki/ミッション:インポッシブルシリーズ "wikilink")（『[M:I-2](https://ja.wikipedia.org/wiki/ミッション:インポッシブル2 "wikilink")』、『[M:i:III](https://ja.wikipedia.org/wiki/ミッション:インポッシブル3 "wikilink")』）、『[X-MEN](../Page/X-メン_\(映画\).md "wikilink")』シリーズ（1、[2](../Page/X-MEN2.md "wikilink")）、『[チャーリーズ・エンジェル](https://ja.wikipedia.org/wiki/チャーリーズ・エンジェル_\(映画\) "wikilink")』、『[ホワット・ライズ・ビニース](https://ja.wikipedia.org/wiki/ホワット・ライズ・ビニース "wikilink")』、『[トゥームレイダー](https://ja.wikipedia.org/wiki/トゥームレイダー_\(映画\) "wikilink")』、『[地獄の黙示録](../Page/地獄の黙示録.md "wikilink")（2002年の特別完全版）』、『[ブラックホーク・ダウン](../Page/ブラックホーク・ダウン.md "wikilink")』、『[スパイダーマン](https://ja.wikipedia.org/wiki/スパイダーマン_\(映画\) "wikilink")』シリーズ、『[マイノリティ・リポート](https://ja.wikipedia.org/wiki/マイノリティ・リポート "wikilink")』、『[戦場のピアニスト](../Page/戦場のピアニスト.md "wikilink")』、『[ザ・コア](https://ja.wikipedia.org/wiki/ザ・コア "wikilink")』、『[デイ・アフター・トゥモロー](https://ja.wikipedia.org/wiki/デイ・アフター・トゥモロー "wikilink")』、『[ボーン・スプレマシー](https://ja.wikipedia.org/wiki/ボーン・スプレマシー "wikilink")』、『[ダ・ヴィンチ・コード](https://ja.wikipedia.org/wiki/ダ・ヴィンチ・コード_\(映画\) "wikilink")』、『[ハンニバル・ライジング](../Page/ハンニバル・ライジング_\(映画\).md "wikilink")』、『[トランスフォーマー](../Page/トランスフォーマー_\(2007年の映画\).md "wikilink")』シリーズ（正編、続編『[リベンジ](https://ja.wikipedia.org/wiki/トランスフォーマー/リベンジ "wikilink")』）、『[ファンタスティック・フォー:銀河の危機](../Page/ファンタスティック・フォー:銀河の危機.md "wikilink")』、『[ボーン・アルティメイタム](../Page/ボーン・アルティメイタム.md "wikilink")』、『[インディ・ジョーンズ/クリスタル・スカルの王国](https://ja.wikipedia.org/wiki/インディ・ジョーンズ/クリスタル・スカルの王国 "wikilink")』、『[ウォンテッド](https://ja.wikipedia.org/wiki/ウォンテッド_\(映画\) "wikilink")』、『[レッドクリフ](../Page/レッドクリフ.md "wikilink")』（Part I・Part II）、『[地球が静止する日](https://ja.wikipedia.org/wiki/地球が静止する日 "wikilink")』、『[マンマ・ミーア\!](https://ja.wikipedia.org/wiki/マンマ・ミーア!_\(映画\) "wikilink")』、『[ワルキューレ](https://ja.wikipedia.org/wiki/ワルキューレ_\(映画\) "wikilink")』、『[天使と悪魔](https://ja.wikipedia.org/wiki/天使と悪魔_\(映画\) "wikilink")』、『[ROOKIES -卒業-](https://ja.wikipedia.org/wiki/ROOKIES#映画 "wikilink")』、『[ごくせん THE MOVIE](https://ja.wikipedia.org/wiki/ごくせん_THE_MOVIE "wikilink")』、『[ナイト ミュージアム2](https://ja.wikipedia.org/wiki/ナイト_ミュージアム2 "wikilink")』、『[20世紀少年](https://ja.wikipedia.org/wiki/20世紀少年#映画 "wikilink") 最終章 -ぼくらの旗-』、『[沈まぬ太陽](https://ja.wikipedia.org/wiki/沈まぬ太陽 "wikilink")』、『[アバター](https://ja.wikipedia.org/wiki/アバター_\(映画\) "wikilink")』、『[オーシャンズ](https://ja.wikipedia.org/wiki/オーシャンズ_\(映画\) "wikilink")』、『[LIAR GAME The Final Stage](https://ja.wikipedia.org/wiki/LIAR_GAME_\(テレビドラマ\)#映画 "wikilink")』、『[ウルフマン](https://ja.wikipedia.org/wiki/ウルフマン_\(2010年の映画\) "wikilink")』、『のだめカンタービレ 最終楽章』（後編）、『[劇場版TRICK 霊能力者バトルロイヤル](https://ja.wikipedia.org/wiki/劇場版TRICK_霊能力者バトルロイヤル "wikilink")』、『[アイアンマン2](https://ja.wikipedia.org/wiki/アイアンマン2 "wikilink")』、『[踊る大捜査線 THE MOVIE3](https://ja.wikipedia.org/wiki/踊る大捜査線_THE_MOVIE3_ヤツらを解放せよ! "wikilink")』、『[借りぐらしのアリエッティ](https://ja.wikipedia.org/wiki/借りぐらしのアリエッティ "wikilink")』、『[THE LAST MESSAGE 海猿](https://ja.wikipedia.org/wiki/海猿#映画3作目 "wikilink")』、『[ナイト&デイ](https://ja.wikipedia.org/wiki/ナイト&デイ "wikilink")』、『[SP THE MOTION PICTURE](https://ja.wikipedia.org/wiki/SP_THE_MOTION_PICTURE "wikilink") 野望篇』、『[SPACE BATTLESHIP ヤマト](https://ja.wikipedia.org/wiki/SPACE_BATTLESHIP_ヤマト "wikilink")』、『[アンストッパブル](https://ja.wikipedia.org/wiki/アンストッパブル_\(映画\) "wikilink")』 ほか
+
+### スクリーン3
+
+ビルの2階。定員344人。洋画と邦画が上映された。TC日劇スクリーン3系のチェーン。
+
+  - 代表作：『[キンダガートン・コップ](https://ja.wikipedia.org/wiki/キンダガートン・コップ "wikilink")』（オープニング上映作品）、『[美女と野獣](https://ja.wikipedia.org/wiki/美女と野獣_\(アニメ映画\) "wikilink")』、『[平成狸合戦ぽんぽこ](https://ja.wikipedia.org/wiki/平成狸合戦ぽんぽこ "wikilink")』、『[9か月](https://ja.wikipedia.org/wiki/9か月 "wikilink")』、『[もののけ姫](../Page/もののけ姫.md "wikilink")』、『[ドクター・ドリトル](https://ja.wikipedia.org/wiki/ドクター・ドリトル "wikilink")』、『[恋に落ちたシェイクスピア](https://ja.wikipedia.org/wiki/恋に落ちたシェイクスピア "wikilink")』、『[PLANET OF THE APES/猿の惑星](https://ja.wikipedia.org/wiki/PLANET_OF_THE_APES/猿の惑星 "wikilink")』、『[光の旅人 K-PAX](https://ja.wikipedia.org/wiki/光の旅人_K-PAX "wikilink")』、『[ボーン・アイデンティティー](https://ja.wikipedia.org/wiki/ボーン・アイデンティティー "wikilink")』、『[ハルク](https://ja.wikipedia.org/wiki/ハルク_\(映画\) "wikilink")』、『[阿修羅のごとく](https://ja.wikipedia.org/wiki/阿修羅のごとく#映画 "wikilink")』、『[ブルース・オールマイティ](https://ja.wikipedia.org/wiki/ブルース・オールマイティ "wikilink")』、『[クリムゾン・リバー2 黙示録の天使たち](../Page/クリムゾン・リバー2_黙示録の天使たち.md "wikilink")』、『[オペラ座の怪人](../Page/オペラ座の怪人_\(2004年の映画\).md "wikilink")』、『[AVP](https://ja.wikipedia.org/wiki/エイリアンVSプレデター "wikilink")』、『[ナショナル・トレジャー](https://ja.wikipedia.org/wiki/ナショナル・トレジャー "wikilink")』、『[NANA](https://ja.wikipedia.org/wiki/NANA#映画 "wikilink")』、『[ファンタスティック・フォー ［超能力ユニット］](https://ja.wikipedia.org/wiki/ファンタスティック・フォー_［超能力ユニット］ "wikilink")』、『[THE 有頂天ホテル](https://ja.wikipedia.org/wiki/THE_有頂天ホテル "wikilink")』、『[ゲド戦記](https://ja.wikipedia.org/wiki/ゲド戦記_\(映画\) "wikilink")』、『[ドリームガールズ](../Page/ドリームガールズ_\(映画\).md "wikilink")』、『[ホリデイ](../Page/ホリデイ_\(映画\).md "wikilink")』、『[レミーのおいしいレストラン](https://ja.wikipedia.org/wiki/レミーのおいしいレストラン "wikilink")』、『[ミス・ポター](../Page/ミス・ポター.md "wikilink")』、『[スターダスト](https://ja.wikipedia.org/wiki/スターダスト_\(小説\)#映画 "wikilink")』、『[椿三十郎（2008）](https://ja.wikipedia.org/wiki/椿三十郎_\(2007年の映画\) "wikilink")』、『[少林少女](../Page/少林少女.md "wikilink")』、『[ミスト](https://ja.wikipedia.org/wiki/ミスト_\(映画\) "wikilink")』（夜のみ）、『[ザ・マジックアワー](../Page/ザ・マジックアワー.md "wikilink")』、『[ハプニング](https://ja.wikipedia.org/wiki/ハプニング_\(映画\) "wikilink")』、『[セックス・アンド・ザ・シティ](https://ja.wikipedia.org/wiki/セックス・アンド・ザ・シティ_\(映画\) "wikilink")』、『[アイアンマン](https://ja.wikipedia.org/wiki/アイアンマン_\(映画\) "wikilink")』、『[Xファイル：真実を求めて](https://ja.wikipedia.org/wiki/Xファイル#Xファイル：真実を求めて "wikilink")』、『[私は貝になりたい](https://ja.wikipedia.org/wiki/私は貝になりたい#2008年版 "wikilink")』 、『[ソウ5](https://ja.wikipedia.org/wiki/ソウ5 "wikilink")』（夜のみ）、『ザ・[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")・[シャイン・ア・ライト](https://ja.wikipedia.org/wiki/シャイン・ア・ライト "wikilink")』（夜のみ）、『[チェ](https://ja.wikipedia.org/wiki/チェ_\(映画\) "wikilink")』（28歳の革命・39歳 別れの手紙）、『[チェンジリング](https://ja.wikipedia.org/wiki/チェンジリング_\(2008年の映画\) "wikilink")』、『[DRAGONBALL EVOLUTION](../Page/DRAGONBALL_EVOLUTION.md "wikilink")』、『[クローズZERO II](https://ja.wikipedia.org/wiki/クローズZERO#クローズZERO_II "wikilink")』、『[サブウェイ123 激突](https://ja.wikipedia.org/wiki/サブウェイ123_激突 "wikilink")』、『[ウルヴァリン: X-MEN ZERO](https://ja.wikipedia.org/wiki/ウルヴァリン:_X-MEN_ZERO "wikilink")』、『[私の中のあなた](https://ja.wikipedia.org/wiki/私の中のあなた "wikilink")』、『[カールじいさんの空飛ぶ家](https://ja.wikipedia.org/wiki/カールじいさんの空飛ぶ家 "wikilink")』、『[ハート・ロッカー](https://ja.wikipedia.org/wiki/ハート・ロッカー "wikilink")』、『[プレデターズ](../Page/プレデターズ.md "wikilink")』（夜のみ）、『[魔法使いの弟子](https://ja.wikipedia.org/wiki/魔法使いの弟子_\(映画\) "wikilink")』、『[ロビン・フッド](https://ja.wikipedia.org/wiki/ロビン・フッド_\(2010年の映画\) "wikilink")』 ほか
+
+### スクリーン4
+
+ビルの地下1階。定員250人。東宝邦画系作品のみを上映していた。TC日劇スクリーン2系のチェーンである。1カ月に1作程度の割合で、新作が公開された。
+オープン当時は[日比谷映画](https://ja.wikipedia.org/wiki/日比谷映画 "wikilink")、[みゆき座系のチェーンだったが](https://ja.wikipedia.org/wiki/TOHOシネマズみゆき座 "wikilink")、**渋谷宝塚劇場**の老朽化による閉館のため、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")より同劇場からTC日劇スクリーン2（当時は**日劇東宝**）系=東宝邦画系のチェーンを引き継いだ。[1999年](../Page/1999年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")、渋谷宝塚跡地に複合商業ビル「[QFRONT](../Page/QFRONT.md "wikilink")」がオープンし、同ビルの7階に映画館「[渋谷シネフロント](https://ja.wikipedia.org/wiki/渋谷シネフロント "wikilink")」が開館した。なお、シネフロントは[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月22日](../Page/1月22日.md "wikilink")をもって閉館し、同年[4月23日](../Page/4月23日.md "wikilink")、核テナントである[TSUTAYA渋谷店のコミックフロアに改装オープンした](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")。
+
+  - 代表作：『[おもひでぽろぽろ](../Page/おもひでぽろぽろ.md "wikilink")』 、『[七人の侍](https://ja.wikipedia.org/wiki/七人の侍 "wikilink")』（リバイバル上映）、『[ホット･ショット](../Page/ホット・ショット_\(映画\).md "wikilink")』、『[紅の豚](../Page/紅の豚.md "wikilink")』、『[ミスター・ベースボール](../Page/ミスター・ベースボール.md "wikilink")』、『[クール・ランニング](../Page/クール・ランニング.md "wikilink")』、『[家なき子](https://ja.wikipedia.org/wiki/家なき子_\(1994年のテレビドラマ\)#劇場版 "wikilink")』、平成『[ガメラ](https://ja.wikipedia.org/wiki/ガメラ "wikilink")』シリーズ（[大怪獣空中決戦](https://ja.wikipedia.org/wiki/ガメラ_大怪獣空中決戦 "wikilink")、[レギオン襲来](https://ja.wikipedia.org/wiki/ガメラ2_レギオン襲来 "wikilink")）、『[耳をすませば](../Page/耳をすませば.md "wikilink")』、『[ゲレンデがとけるほど恋したい。](https://ja.wikipedia.org/wiki/ゲレンデがとけるほど恋したい。 "wikilink")』、『[ナッティ・プロフェッサー クランプ教授の場合](https://ja.wikipedia.org/wiki/ナッティ・プロフェッサー_クランプ教授の場合 "wikilink")』、『[ロミオ+ジュリエット](../Page/ロミオ+ジュリエット.md "wikilink")』、『[恋は舞い降りた。](../Page/恋は舞い降りた。.md "wikilink")』（渋谷宝塚閉鎖後の続映）、『[学校の怪談](https://ja.wikipedia.org/wiki/学校の怪談_\(映画\) "wikilink")』（3・4）、『[リング](https://ja.wikipedia.org/wiki/リング_\(映画\) "wikilink")』3部作、『[らせん](https://ja.wikipedia.org/wiki/らせん_\(鈴木光司の小説\)#映画 "wikilink")』、『[踊る大捜査線 THE MOVIE](https://ja.wikipedia.org/wiki/踊る大捜査線_THE_MOVIE "wikilink")』、『[死国](https://ja.wikipedia.org/wiki/死国#映画 "wikilink")』、[『ホイチョイ・ムービー』シリーズ](https://ja.wikipedia.org/wiki/ホイチョイ・プロダクションズ#映画 "wikilink")（『[メッセンジャー](../Page/メッセンジャー_\(1999年の映画\).md "wikilink")』、『[バブルへGO\!\! タイムマシンはドラム式](../Page/バブルへGO!!_タイムマシンはドラム式.md "wikilink")』）、『[ゴジラ](../Page/ゴジラ.md "wikilink")』シリーズ（[ミレニアムシリーズ以降](https://ja.wikipedia.org/wiki/ゴジラ#第3期・ミレニアムシリーズ "wikilink")）、『[どら平太](../Page/どら平太.md "wikilink")』、『[世にも奇妙な物語 映画の特別編](https://ja.wikipedia.org/wiki/世にも奇妙な物語_映画の特別編 "wikilink")』、『[仄暗い水の底から](https://ja.wikipedia.org/wiki/仄暗い水の底から "wikilink")』、『[トリック劇場版](https://ja.wikipedia.org/wiki/トリック劇場版 "wikilink")』（1・[2](https://ja.wikipedia.org/wiki/トリック劇場版2 "wikilink")）、『[黄泉がえり](https://ja.wikipedia.org/wiki/黄泉がえり_\(映画\) "wikilink")』、『[着信アリ](https://ja.wikipedia.org/wiki/着信アリ "wikilink")』（1・2）、『[世界の中心で、愛をさけぶ](../Page/世界の中心で、愛をさけぶ.md "wikilink")』、『[海猿 ウミザル](https://ja.wikipedia.org/wiki/海猿#フジテレビ制作版 "wikilink")』（1・2）、『[いま、会いにゆきます](https://ja.wikipedia.org/wiki/いま、会いにゆきます "wikilink")』、『[ALWAYS 三丁目の夕日](https://ja.wikipedia.org/wiki/ALWAYS_三丁目の夕日 "wikilink")』（正編・[続編](https://ja.wikipedia.org/wiki/ALWAYS_続・三丁目の夕日 "wikilink")）、『[NANA2](https://ja.wikipedia.org/wiki/NANA#NANA2 "wikilink")』、『[愛の流刑地](https://ja.wikipedia.org/wiki/愛の流刑地 "wikilink")』、『[舞妓Haaaan\!\!\!](https://ja.wikipedia.org/wiki/舞妓Haaaan!!! "wikilink")』、『[チーム・バチスタの栄光](https://ja.wikipedia.org/wiki/チーム・バチスタの栄光#映画 "wikilink")』、『[ノーカントリー](../Page/ノーカントリー.md "wikilink")』（夜のみ）、『[クローバーフィールド/HAKAISHA](https://ja.wikipedia.org/wiki/クローバーフィールド/HAKAISHA "wikilink")』（夜のみ）、『[フィクサー](../Page/フィクサー_\(2007年の映画\).md "wikilink")』（夜のみ）、『[隠し砦の三悪人 THE LAST PRINCESS](https://ja.wikipedia.org/wiki/隠し砦の三悪人#隠し砦の三悪人_THE_LAST_PRINCESS "wikilink")』、『[花より男子FINAL](https://ja.wikipedia.org/wiki/花より男子#2008年（東宝版） "wikilink")』、『[20世紀少年](https://ja.wikipedia.org/wiki/20世紀少年 "wikilink")』（第1章・2章）、『[容疑者Xの献身](../Page/容疑者Xの献身.md "wikilink")』、『[アンダーワールド ビギンズ](https://ja.wikipedia.org/wiki/アンダーワールド_ビギンズ "wikilink")』（夜のみ）、『[ピンクパンサー2](https://ja.wikipedia.org/wiki/ピンクパンサー2 "wikilink")』（夜のみ）、『[ラスト・ブラッド](https://ja.wikipedia.org/wiki/BLOOD_THE_LAST_VAMPIRE#実写映画版 "wikilink")』、『[ノウイング](https://ja.wikipedia.org/wiki/ノウイング "wikilink")』、『[ボルト](https://ja.wikipedia.org/wiki/ボルト_\(映画\) "wikilink")』、『[ワイルド・スピード MAX](https://ja.wikipedia.org/wiki/ワイルド・スピード_MAX "wikilink")』、『[スペル](https://ja.wikipedia.org/wiki/スペル_\(映画\) "wikilink")』、『[パラノーマル・アクティビティ](https://ja.wikipedia.org/wiki/パラノーマル・アクティビティ "wikilink")』、『[恋するベーカリー](https://ja.wikipedia.org/wiki/恋するベーカリー "wikilink")』、『[特攻野郎Aチーム THE MOVIE](https://ja.wikipedia.org/wiki/特攻野郎Aチーム_THE_MOVIE "wikilink")』（夜のみ）、『[キス&キル](https://ja.wikipedia.org/wiki/キス&キル "wikilink")』、『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん映画作品 "wikilink")』シリーズ（『[南海大冒険](https://ja.wikipedia.org/wiki/ドラえもん_のび太の南海大冒険 "wikilink")』以降）、『[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\)#劇場版 "wikilink")』シリーズ（[第1作および](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_アクション仮面VSハイグレ魔王 "wikilink")[第6作以降](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_電撃!ブタのヒヅメ大作戦 "wikilink")）、『[ポケットモンスター](https://ja.wikipedia.org/wiki/ポケットモンスター_\(劇場版\) "wikilink")』シリーズ（[第2作以降](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_幻のポケモン_ルギア爆誕 "wikilink")）、『[とっとこハム太郎](https://ja.wikipedia.org/wiki/とっとこハム太郎_\(アニメ\)#劇場版 "wikilink")』シリーズ（第3作まで） ほか
+
+## 脚注・出典
+
+## 参考文献
+
+  - 『映画年鑑 昭和十七年版』、日本映画協会、1942年発行
+
+## 関連項目
+
+  - [LEC東京リーガルマインド](https://ja.wikipedia.org/wiki/東京リーガルマインド "wikilink") - 渋東シネタワービル内（9階〜11階）に渋谷駅前本校がある。
+  - [クリスピー・クリーム・ドーナツ](https://ja.wikipedia.org/wiki/クリスピー・クリーム・ドーナツ "wikilink") - 渋東シネタワービル1階に日本6号店が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月14日](../Page/6月14日.md "wikilink")開店。
+  - [蒙古タンメン中本](../Page/蒙古タンメン中本.md "wikilink") - 渋東シネタワービル地下2階に渋谷店がある。
+
+## 外部リンク
+
+  - [TOHOシネマズ株式会社](http://www.tohocinemas.co.jp/) - 運営会社
+  - [TOHOシネマズ渋谷](https://hlo.tohotheater.jp/net/schedule/043/TNPI2000J01.do) - TOHOシネマズによる劇場案内
+  - [渋東シネタワー1・2・3・4（現・TOHOシネマズ渋谷）](http://www.cinema-st.com/road/r029.html) - 「港町キネマ通り」サイト内（2003年6月取材のもの）
+
+[Category:渋谷](https://ja.wikipedia.org/wiki/Category:渋谷 "wikilink") [Category:TOHOシネマズ](https://ja.wikipedia.org/wiki/Category:TOHOシネマズ "wikilink") [Category:東京都の映画館](https://ja.wikipedia.org/wiki/Category:東京都の映画館 "wikilink") [Category:渋谷区の建築物](https://ja.wikipedia.org/wiki/Category:渋谷区の建築物 "wikilink") [Category:1991年開業の施設](https://ja.wikipedia.org/wiki/Category:1991年開業の施設 "wikilink") [Category:1991年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1991年竣工の日本の建築物 "wikilink")
+
+1.
+2.  [「TOHOシネマズ渋谷」7月15日（金）オープン “渋東シネタワー”が“TOHOシネマズ 渋谷”としてリニューアル致します。](http://www.tohocinemas.co.jp/news/pdf/2011/110601a.pdf)（TOHOシネマズ株式会社 2011年6月）
+3.  [TOHOシネマズ 渋谷リニューアルOPEN ∥ TOHOシネマズ](http://www.tohotheater.jp/theater/043/shibuya_renewal/)（2011年7月15日閲覧）
+4.  [2009年](../Page/2009年.md "wikilink")（平成21年）[1月30日](../Page/1月30日.md "wikilink")に[渋谷ピカデリー](https://ja.wikipedia.org/wiki/渋谷ピカデリー "wikilink")、[2013年](../Page/2013年.md "wikilink")（平成25年）[5月23日](../Page/5月23日.md "wikilink")に[渋谷東急](https://ja.wikipedia.org/wiki/渋谷東急 "wikilink")といった松竹・[東急洋画系映画館や](https://ja.wikipedia.org/wiki/東急レクリエーション "wikilink")、[2018年](../Page/2018年.md "wikilink")（平成30年）[5月27日](../Page/5月27日.md "wikilink")に松竹映画も上映していた[渋谷シネパレス](https://ja.wikipedia.org/wiki/渋谷シネパレス "wikilink")（跡地に[シネクイント](https://ja.wikipedia.org/wiki/シネクイント "wikilink")が入居）が閉館していることも関係している。

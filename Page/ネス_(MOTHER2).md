@@ -1,0 +1,65 @@
+> この記事は[ \(MOTHER2\)](https://ja.wikipedia.org/wiki/_\(MOTHER2\))から翻訳されています。
+
+
+**ネス**()は、[任天堂](../Page/任天堂.md "wikilink")が発売した[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")『[MOTHER2 ギーグの逆襲](https://ja.wikipedia.org/wiki/MOTHER2_ギーグの逆襲 "wikilink")』に登場する架空の人物で、同作の主人公。
+
+## 概要
+
+[MOTHERシリーズ](https://ja.wikipedia.org/wiki/MOTHERシリーズ "wikilink")の第2作目『[MOTHER2 ギーグの逆襲](https://ja.wikipedia.org/wiki/MOTHER2_ギーグの逆襲 "wikilink")』に登場する少年。本来、公式名は定められていないが、説明書等での記載やゲームを開始する際の命名時では「ネス」が名前の候補の一つとなっている\[1\]ほか、後述の[対戦アクションゲーム](../Page/対戦アクションゲーム.md "wikilink")『[大乱闘スマッシュブラザーズ](../Page/大乱闘スマッシュブラザーズシリーズ.md "wikilink")』シリーズや関連書籍・グッズ等では「ネス」の名前で扱われている\[2\]。「ネス」の英名「**Ness**」は、『MOTHER2 ギーグの逆襲』の日本国外版である『[Earthbound](https://ja.wikipedia.org/wiki/:en:Earthbound "wikilink")』が対応するゲーム機「[Super Nintendo Entertainment System](../Page/Super_Nintendo_Entertainment_System.md "wikilink")」の略称「SNES」の[アナグラム](../Page/アナグラム.md "wikilink")が由来だという説もある。
+
+シリーズ1作目『[MOTHER](https://ja.wikipedia.org/wiki/MOTHER_\(ゲーム\) "wikilink")』の主人公と服装が酷似しているが、関係性は不明。
+
+## 人物
+
+イーグルランドの地方都市オネットに住んでいる。12歳\[3\]。母親、妹のトレーシー、飼い犬とともに暮らしており、父親は仕事で長期間家を離れている。赤い[野球帽](https://ja.wikipedia.org/wiki/野球帽 "wikilink")を被り、青と黄のボーダーシャツを身につけ、黄色い[リュックサック](../Page/リュックサック.md "wikilink")を背負っている。
+
+ある日の夜、自宅の裏山に隕石が落下したことを受け、様子を見ようと山頂へ向かう。その後、落下現場でくすぶる隕石を確認し、その場から立ち去ろうとした時、突然、隕石の中から[カブトムシ](../Page/カブトムシ.md "wikilink")のような姿をした生物が現れ声をかけられる。10年後の未来からやってきたというその生物・ブンブーンの口から、ギーグという名の侵略者によって引き起こされた未来世界の惨状について語られ、ギーグの手が及んでいない現代の時点でギーグの計画を阻止するよう命運を託される。そうしたブンブーンの想いに応えるべく、翌朝、冒険へと出発することになる。
+
+道中では自宅の隣家に住む少年・[ポーキーから様々な妨害を受けるものの](https://ja.wikipedia.org/wiki/ポーキー・ミンチ "wikilink")、自分と同じ使命を帯びる少年少女たちと力を合わせ冒険を進める。世界各地にある8箇所の特別な場所を巡って自らの中に眠る力を呼び起こしたのち、ギーグが攻撃を仕掛ける世界へ仲間と共に向かい、野望を阻止するため戦いに臨む。
+
+## 能力・特徴
+
+武器は主に[バットを使用する](https://ja.wikipedia.org/wiki/バット_\(野球\) "wikilink")。また、[レベルの上昇とともに](https://ja.wikipedia.org/wiki/レベル_\(ロールプレイングゲーム\) "wikilink")「PSI」と呼ばれる[超能力](../Page/超能力.md "wikilink")を会得する。仲間の治療・回復・能力の補助といった用途のPSIのほか、敵全体を攻撃できる強力なPSIも覚える。
+
+他の仲間たちと比べて全体的な能力が高いが素早さがやや低めで、戦闘中の行動は後に回ることが多い。物語終盤のイベント後には全ての能力が大きく向上する。
+
+冒険を続けていると、時折「ホームシック」状態になる。この状態で敵との戦闘を行うと、母親のことを思い出すなどして戦意を喪失し行動不能になることがある。実家へ帰ったり電話で母親と会話したりすることで状態が回復する。
+
+## MOTHER2以外の登場作品
+
+### 大乱闘スマッシュブラザーズシリーズ
+
+シリーズ全作品に「ネス」の名前で登場している。原作同様にバットや[ヨーヨー](https://ja.wikipedia.org/wiki/ヨーヨー "wikilink")を用いて攻撃し、独特の挙動でジャンプをする。また必殺ワザとして様々なPSIを用いるが、「PKフラッシュ」を除きいずれも原作でネスが使用しないものである。声優はシリーズを通して[大本眞基子](https://ja.wikipedia.org/wiki/大本眞基子 "wikilink")が担当している。
+
+  - [ニンテンドウオールスター\!大乱闘スマッシュブラザーズ](https://ja.wikipedia.org/wiki/ニンテンドウオールスター!大乱闘スマッシュブラザーズ "wikilink")
+    初期段階では選択できるキャラクターに含まれていないが、特定の条件を満たすことで登場する。
+  - [大乱闘スマッシュブラザーズDX](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズDX "wikilink")
+    初期段階から選択できるキャラクターとして登場。
+  - [大乱闘スマッシュブラザーズX](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズX "wikilink")
+    特定の条件を満たすことで登場する。オープニングムービーには初めから登場している。
+    強力な必殺ワザ「最後の切りふだ」として、原作で仲間の一人・プーが用いるPSI「PKスターストーム」を使用する。
+    オリジナルの物語が展開されるモード「亜空の使者」にも登場する。この中では、荒廃した動物園で[ポーキーに襲われていた](https://ja.wikipedia.org/wiki/ポーキー・ミンチ "wikilink")『[MOTHER3](https://ja.wikipedia.org/wiki/MOTHER3 "wikilink")』の主人公・[リュカの前に現れ](https://ja.wikipedia.org/wiki/リュカ_\(MOTHER3\) "wikilink")、共に闘いポーキーを撃破する。しかし、直後に襲いかかってきた[ワリオ](../Page/ワリオ.md "wikilink")からリュカを庇った際に、ワリオが持つ装置によって[フィギュア](../Page/フィギュア.md "wikilink")の姿に変えられ持ち去られてしまう。その後、元の姿を取り戻し、同じくフィギュア化された他のキャラクターたちを救出するため、[デデデ](../Page/デデデ大王.md "wikilink")、[ルイージと行動を共にする](../Page/ルイージ_\(ゲームキャラクター\).md "wikilink")。
+  - [大乱闘スマッシュブラザーズ for Nintendo 3DS / Wii U](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_for_Nintendo_3DS_/_Wii_U "wikilink")
+    『for Nintendo 3DS』では特定の条件を満たすことで登場。『for Wii U』では最初から選択可能。『X』では『DX』のボイスを流用していたが、本作では大本によりボイスが新録されている。
+  - [大乱闘スマッシュブラザーズ SPECIAL](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_SPECIAL "wikilink")
+    「最後の切りふだ」でPKスターストームを使用する際に、原作ででともに冒険した仲間のポーラとプーがネスの両側に現れる。
+
+### その他の登場作品
+
+  - [MOTHER3](https://ja.wikipedia.org/wiki/MOTHER3 "wikilink")
+    本人は登場しないが、作中に登場する町「ニューポークシティ」の[映画館](../Page/映画館.md "wikilink")で、『MOTHER2 ギーグの逆襲』の仲間たちと共にいる姿が[スクリーン](../Page/スクリーン.md "wikilink")に映し出されている。
+  - [スーパーマリオメーカー](https://ja.wikipedia.org/wiki/スーパーマリオメーカー "wikilink")
+    主人公の[マリオの](https://ja.wikipedia.org/wiki/マリオ_\(ゲームキャラクター\) "wikilink")[ドット絵](https://ja.wikipedia.org/wiki/ドット絵 "wikilink")を変更して操作できるキャラクター「キャラマリオ」の一つとして、「ネス」の名前で登場する。ネスの操作時には、効果音が原作のものに変わる。
+
+## 関連商品
+
+様々なゲームと連動する[フィギュア](../Page/フィギュア.md "wikilink")「[amiibo](https://ja.wikipedia.org/wiki/amiibo "wikilink")」の一種として、ネスのamiiboが[2015年](../Page/2015年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink")に発売された\[4\]。
+
+## 脚注
+
+[Category:MOTHERシリーズの登場人物](https://ja.wikipedia.org/wiki/Category:MOTHERシリーズの登場人物 "wikilink") [Category:大乱闘スマッシュブラザーズの登場キャラクター](https://ja.wikipedia.org/wiki/Category:大乱闘スマッシュブラザーズの登場キャラクター "wikilink")
+
+1.
+2.
+3.
+4.

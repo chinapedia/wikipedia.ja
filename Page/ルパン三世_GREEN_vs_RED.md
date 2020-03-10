@@ -1,0 +1,198 @@
+> この記事は[ GREEN vs RED](https://ja.wikipedia.org/wiki/_GREEN_vs_RED)から翻訳されています。
+
+
+『**ルパン三世 GREEN vs RED**』（ルパンさんせい グリーン バーサス レッド）は、[モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")原作の[アニメ](../Page/アニメ.md "wikilink")『[ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世 "wikilink")』の[OVA](../Page/OVA.md "wikilink")第3作。
+
+## 概要
+
+ルパン三世生誕40周年記念作品\[1\]として[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月2日に発売された。発売に先駆け、全国6箇所の「[TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink")」において、3月に一回限りの上映会も行われた。
+
+非常に試験的、思想的な傾向の強い作品となっており、ストーリー進行における時間軸の分散・結果の曖昧化などでストーリーの読解が難しくなっている。また反核、現代の若者の価値観などと言った思想的な主張が随所に見られて独特の癖の強さが売りとなっている。過去に劇場版で計画されながら諸事情で頓挫した「[押井版ルパン三世](https://ja.wikipedia.org/wiki/押井版ルパン三世 "wikilink")」の再解釈作品と見る向きもあり、事実ストーリーには原爆やルパンの存在を問う等の共通項が見られる。
+
+本作品ではスポンサーとして[マクドナルド](../Page/マクドナルド.md "wikilink")と[フィアット](../Page/フィアット.md "wikilink")グループオートモービルズジャパンが協賛しており、前者は店舗やメニューが実名で登場し、後者も製作当時国内発表されたばかりの3代目[フィアット・500](../Page/フィアット・500.md "wikilink")等が登場している。
+
+## あらすじ
+
+今日も世界中で活動をするルパン三世。しかし、それはほとんどが違う格好、違う顔、違うジャケットを着ていた。何十人のルパンを海を越えて捜査していた銭形は、それはすべて偽者だと感づいていた……。いったい本物は何処に?
+
+そして、ついに万引きをする劣化版ルパンまで現れた。そのニュースに驚愕し、東京に集結したルパンたちは、銭形による集団検挙を喰らう。どういうわけかその検挙を逃れたのは、劣化版ルパンと彼を助けた兄貴分のルパンの二人だけであった。だがその兄貴分も、ルパンを続けることに限界を感じて去ってしまう。
+
+同じ東京の寂れた街。夢も希望も無く、ただ毎日を漠然と過ごすしかなく[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")屋のアルバイトで生計を立てる青年ヤスオ\[2\]。恋人である人気レポーターのユキコ\[3\]からも愛想をつかされつつあり、叶う事の無い「刺激」を求め続けていた。しかしそんな時、店内に残っていた緑色のジャケットとスった[ワルサーP38](https://ja.wikipedia.org/wiki/ワルサーP38 "wikilink")を切っ掛けに、彼の人生は大きく狂い始めて行く。
+
+それからしばらくして東京で飛行機事故が発生した。実際は民間の軍事組織「ナイトホークス」によるものであった。その「ナイトホークス」の持つお宝・アイスキューブを目当てに、飛行機事故の現場の近くにいたルパンは、次元とともに事故の生き残りの少年を車に助け入れるが、その少年の頭には脳手術の跡が有った。少年の脳の中にデータがあると気付きデータをダウンロードしたルパンだが、そんな彼の車の中に、なんとジャケットの色を除いて自分と瓜二つの姿をしたもう一人のルパンが現れた。その後、二人のルパンは橋の上で対峙する。ルパンの追跡取材を行っていたユキコは、二人のルパンの姿を目撃し驚愕する。ルパンが2人\!?
+
+**赤**と**緑**。果たして、アイスキューブを手に入れるのはどちらのルパンなのか?次元や五ェ門、そして不二子はどちらのルパンの味方につくのか?銭形は本物のルパンを見分けることができるのか\!?
+
+ルパンの姿を偽るもう一人のルパンの正体、そしてアイスキューブに隠された秘密とはいったい何なのか…?
+
+## ゲストキャラクター
+
+  - ヤスオ（緑ジャケットのルパン）
+    [声](../Page/声優.md "wikilink") - [片桐仁](../Page/片桐仁.md "wikilink")（[ラーメンズ](../Page/ラーメンズ.md "wikilink")）
+    この作品の実質的な主人公。定職につかず、東京の寂れたラーメン屋でアルバイトをしてアパートで暮らすごく普通の青年。
+    夢も希望も無く、ただ毎日を生きていたが、スリルを求めてスリを始めるようになった。
+    ある日、ルパン三世の使用する銃と同じワルサーP38（「紅」と書いてある飾りのついた赤い袋に入っていた）をすってしまい、それをきっかけに店内に残されていた緑ジャケットを着込んでルパンとして本物の次元と行動を共にするようになり、そしてついに本物の座を賭けて赤ルパンと対決する。
+  - ユキコ
+    声 - [平野綾](../Page/平野綾.md "wikilink")
+    ヤスオの恋人。TVレポーターが職業で、ルパンの追跡取材を行っている。
+    定職に就かないヤスオに苛立ちながらも、ヤスオとの結婚も真剣に考えていたが、偽ルパンの一人として暗躍するヤスオとの距離は離れていく。
+    ルパンの追跡取材を続ける中、偶然偽ルパンと本物が出会って戦う現場に遭遇する。
+  - 青ジャケットのルパン
+    声 - [酒井相一郎](https://ja.wikipedia.org/wiki/酒井相一郎 "wikilink")
+    偽ルパンの一人。
+    万引きで捕まったルパン（黄色）を救出するも、他の大勢の偽ルパン達に捕まってしまう。
+    彼らや警察からは逃れることに成功したものの、自分達の行いは結局本物のルパンへの侮辱でしかない事や、本物のルパンに遠く及ばない自らの器の小ささを実感した結果、ルパンであり続けることを諦め、ルパン（黄色）と別れて実家のネジ工場に戻った。
+  - 黄色ジャケットのルパン
+    声 - [粟野史浩](https://ja.wikipedia.org/wiki/粟野史浩 "wikilink")
+    偽ルパンの一人。
+    コンビニで650円の万引きをして逮捕されて、これが世界中の偽ルパンに知れ渡るところとなり、東京に集結した彼らに捕まり説教される。その後、ルパン（青）とともにルパン（赤）の元と警察の包囲網から脱出、別れた後に祖父が経営する鉄工場に戻る。
+    が、ルパン（青）とはちがってそこでは終わらず、祖父が建造していた巨大ロボットで緑ルパンを救出する。二度までも敗れて意気消沈する緑ルパンのために偽の挑戦状を作り、ルパン同士の三度目の対決を実現させるなど意外なアシストぶりを見せる。
+    なお、逃走後は髪型を[アフロヘアー](https://ja.wikipedia.org/wiki/アフロヘアー "wikilink")に変えている。
+    エンディングイラストでは巨大ロボを駆って三上刑事と対決しており、「ルパンにはなれなかったが、別の『誰か』に、別な一人前の男になった」ことが暗示されている。
+  - 偽ヤスオ（赤ジャケットのルパン）
+    声 - [栗田貫一](../Page/栗田貫一.md "wikilink")
+    上記緑、青、黄色のルパンのほか、大勢の偽ルパンが劇中に登場する。
+  - 日下部晋三
+    声 - [福田信昭](https://ja.wikipedia.org/wiki/福田信昭 "wikilink")
+    民間軍事会社「ナイト・ホークス」の社長。
+    自社の金庫にアイスキューブを隠し、国家の安全と平和のためには陰謀を知る者や邪魔者はすべて排除する冷酷な男。[長崎弁](https://ja.wikipedia.org/wiki/長崎弁 "wikilink")を使い、片山同様被爆者であることが暗示されている。
+  - 片山正造
+    声 - [宝亀克寿](https://ja.wikipedia.org/wiki/宝亀克寿 "wikilink")
+    [1945年](../Page/1945年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")生まれ。[警視庁](../Page/警視庁.md "wikilink")のルパン三世特別対策本部指揮官。
+    5つ上の銭形の事を「銭さん」と呼ぶ。
+    誕生直後に[長崎で被爆し](https://ja.wikipedia.org/wiki/長崎市への原子爆弾投下 "wikilink")[原爆症](../Page/原爆症.md "wikilink")を患い、入退院を繰り返している。
+  - 三上警部
+    声 - [藤真秀](https://ja.wikipedia.org/wiki/藤真秀 "wikilink")
+    片山の部下。片山が不在の時は代わって指揮を執る。
+  - 紅屋の主人
+    声 - [麦人](https://ja.wikipedia.org/wiki/麦人 "wikilink")
+    古本屋の店長。ヤスオが働いているグリーン軒によく出入りしている不思議な老人。
+    何故か注文したラーメンを食べず、気づいたときには代金を置いて去っている。
+    ヤスオの着る緑のジャケットは彼の忘れ物。
+    本物のルパンの事を詳しく知っており、ユキコにルパンについての取材を受ける。
+
+## 声の出演
+
+  - [ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世_\(架空の人物\) "wikilink")、偽ルパン三世 - [栗田貫一](../Page/栗田貫一.md "wikilink")
+  - [次元大介](https://ja.wikipedia.org/wiki/次元大介 "wikilink") - [小林清志](https://ja.wikipedia.org/wiki/小林清志 "wikilink")
+  - [石川五ェ門](https://ja.wikipedia.org/wiki/石川五ェ門_\(ルパン三世\) "wikilink") - [井上真樹夫](https://ja.wikipedia.org/wiki/井上真樹夫 "wikilink")
+  - [峰不二子](https://ja.wikipedia.org/wiki/峰不二子 "wikilink") - [増山江威子](https://ja.wikipedia.org/wiki/増山江威子 "wikilink")
+  - [銭形警部](https://ja.wikipedia.org/wiki/銭形幸一 "wikilink") - [納谷悟朗](../Page/納谷悟朗.md "wikilink")
+  - ヤスオ - [片桐仁](../Page/片桐仁.md "wikilink")（[ラーメンズ](../Page/ラーメンズ.md "wikilink")）
+  - ユキコ - [平野綾](../Page/平野綾.md "wikilink")
+  - 警視総監 - [島香裕](https://ja.wikipedia.org/wiki/島香裕 "wikilink")
+  - 店長 - [清川元夢](https://ja.wikipedia.org/wiki/清川元夢 "wikilink")
+  - オヤジ - [緒方賢一](../Page/緒方賢一.md "wikilink")
+  - 紅屋の主人 - [麦人](https://ja.wikipedia.org/wiki/麦人 "wikilink")
+  - 片山正造 - [宝亀克寿](https://ja.wikipedia.org/wiki/宝亀克寿 "wikilink")
+  - 日下部晋三 - [福田信昭](https://ja.wikipedia.org/wiki/福田信昭 "wikilink")
+  - 三上警部 - [藤真秀](https://ja.wikipedia.org/wiki/藤真秀 "wikilink")
+  - 研ぎ師 - [田口昂](https://ja.wikipedia.org/wiki/田口昂 "wikilink")
+  - ローガン - [ジョシュ・ケラー](https://ja.wikipedia.org/wiki/ジョシュ・ケラー "wikilink")
+  - ローガンの子供 - [アダム・ジャーニュ](https://ja.wikipedia.org/wiki/アダム・ジャーニュ "wikilink")
+  - ルパンA - [酒井相一郎](https://ja.wikipedia.org/wiki/酒井相一郎 "wikilink")
+  - ルパンK - [粟野史浩](https://ja.wikipedia.org/wiki/粟野史浩 "wikilink")
+  - 刑事 - [今大輔](https://ja.wikipedia.org/wiki/今大輔 "wikilink")
+  - 傭兵 - [雨宮弘樹](https://ja.wikipedia.org/wiki/雨宮弘樹 "wikilink")
+  - ユキコの母 - [久保田民絵](https://ja.wikipedia.org/wiki/久保田民絵 "wikilink")
+  - ヤマナカさん - [峰あつ子](https://ja.wikipedia.org/wiki/峰あつ子 "wikilink")
+  - サラリーマンA - [田島裕也](https://ja.wikipedia.org/wiki/田島裕也 "wikilink")
+  - サラリーマンB - [三浦潤也](../Page/三浦潤也.md "wikilink")
+  - バイト君 - [伊牟田大](https://ja.wikipedia.org/wiki/伊牟田大 "wikilink")
+  - ラジオの声 - [安斉一博](https://ja.wikipedia.org/wiki/安斉一博 "wikilink")
+  - 美女A - [田代有紀](https://ja.wikipedia.org/wiki/田代有紀 "wikilink")
+  - 美女B - [赤池裕美子](https://ja.wikipedia.org/wiki/赤池裕美子 "wikilink")
+  - DJ - [武田華](https://ja.wikipedia.org/wiki/武田華 "wikilink")
+  - 少年A - [新井海人](https://ja.wikipedia.org/wiki/新井海人 "wikilink")
+  - 少年B - [田中雄士](https://ja.wikipedia.org/wiki/田中雄士_\(俳優\) "wikilink")
+  - 少年C - [大隈祐輝](https://ja.wikipedia.org/wiki/大隈祐輝 "wikilink")
+
+## スタッフ
+
+  - 原作 - [モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")
+  - 監督・絵コンテ・演出 - [宮繁之](https://ja.wikipedia.org/wiki/宮繁之 "wikilink")
+  - 企画 - [松元理人](https://ja.wikipedia.org/wiki/松元理人 "wikilink")、三浦姫、平山博志
+  - プロデューサー - 浄園祐、植野浩之、植田泰生
+  - 脚本 - [大川俊道](../Page/大川俊道.md "wikilink")
+  - 音楽 - [大野雄二](https://ja.wikipedia.org/wiki/大野雄二 "wikilink")
+  - 音楽監督 - [鈴木清司](https://ja.wikipedia.org/wiki/鈴木清司 "wikilink")
+  - 音響監督 - [加藤敏](https://ja.wikipedia.org/wiki/加藤敏_\(音響監督\) "wikilink")
+  - 音響制作 - [東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
+  - 音響効果 - [倉橋静男](https://ja.wikipedia.org/wiki/倉橋静男 "wikilink")、山谷尚人（[サウンドボックス](https://ja.wikipedia.org/wiki/サウンドボックス "wikilink")）
+  - 音楽プロデューサー - 山田慎也、澤藤弘一、松尾康治
+  - 録音技術 - 室克彦
+  - 録音スタジオ - [アオイスタジオ](../Page/アオイスタジオ.md "wikilink")
+  - キャラクターデザイン･総作画監督 - [西村貴世](https://ja.wikipedia.org/wiki/西村貴世 "wikilink")
+  - メカニックデザイン作画 - 水村良男、村松尚雄、石本英治
+  - メカニックデザイン - 水村良男
+  - ロボットデザイン原案 - [さとうけいいち](https://ja.wikipedia.org/wiki/さとうけいいち "wikilink")
+  - 作画監督 - ナカタケマナブ、[平山智](https://ja.wikipedia.org/wiki/平山智_\(アニメーター\) "wikilink")
+  - 作画監督補佐 - 相馬満
+  - 美術監督 - 明石聖子
+  - 色彩設定 - [西香代子](https://ja.wikipedia.org/wiki/西香代子 "wikilink")
+  - CGデザイン - 石原由梨
+  - 撮影監督 - 宮川佳和
+  - 編集 - 佐野由里子
+  - 編集スタジオ - [トムス・フォト](../Page/トムス・フォト.md "wikilink")
+  - スポンサー - フィアットグループ　オートモビルズジャパン、[日本マクドナルド](../Page/日本マクドナルド.md "wikilink")
+  - 取材協力 - 揚子江
+  - 企画協力 - 加藤州平、ルパン三世GREENvsRED製作委員会
+  - 宣伝広告 - 山田洋二、大森遙
+  - WEB担当 - 佐々木孝博
+  - 主題歌 - 「[炎のたからもの](https://ja.wikipedia.org/wiki/炎のたからもの "wikilink")」（アレンジバージョン）
+      - 作詞 - [橋本淳](https://ja.wikipedia.org/wiki/橋本淳_\(作詞家\) "wikilink") / 作曲・編曲 - 大野雄二 / 唄 - [今井美樹](https://ja.wikipedia.org/wiki/今井美樹 "wikilink")
+  - 製作 - [トムス・エンタテインメント](https://ja.wikipedia.org/wiki/トムス・エンタテインメント "wikilink")、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、[VAP](https://ja.wikipedia.org/wiki/バップ "wikilink")
+
+## 関連作品
+
+  - 『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』
+    主人公の[江戸川コナン](https://ja.wikipedia.org/wiki/江戸川コナン "wikilink")とヒロインの[毛利蘭](https://ja.wikipedia.org/wiki/毛利蘭 "wikilink")らしきキャラクターが、モブに紛れて一瞬登場している。
+
+### 他のルパン三世作品
+
+  - アジト内のポスター
+    アジト内に『[ルパン三世 カリオストロの城](../Page/ルパン三世_カリオストロの城.md "wikilink")』のポスターが貼られている。
+  - R-33のナンバープレート
+    『カリオストロの城』など、多くの作品で用いられたナンバープレート。様々な場所に登場する。
+  - 幸運のブローチ
+    『[ルパン三世 1$マネーウォーズ](https://ja.wikipedia.org/wiki/ルパン三世_1$マネーウォーズ "wikilink")』でのターゲット。ルパンの一人が盗んでくる。
+  - ヤスオ・ユキコ
+    重要登場人物として登場するヤスオ及びその彼女のユキコの名前は、それぞれルパン三世、峰不二子の初代声優である[山田康雄](https://ja.wikipedia.org/wiki/山田康雄 "wikilink")、[二階堂有希子](https://ja.wikipedia.org/wiki/二階堂有希子 "wikilink")に符合する。
+  - 片山正造
+    片山の銭形に対する「銭さん」という呼び方は、原作漫画版の銭形に対するルパン一味の呼び方である。
+  - ルパン三世のテーマ
+    本作では、TVスペシャルで使用されていた楽曲が随所に使用されている。
+      - ルパン三世のテーマ'89(THEME FROM LUPIN III '89)
+      - ルパン三世のテーマ'97(THEME FROM LUPIN III '97)
+      - ルパン三世のテーマ'78(2002 Version)
+  - フィアット
+    本作では、「中野71 10-24」「中野77 10-03」「中野89 04-01」の3つのナンバーのフィアットが登場する。これはそれぞれ、第1シリーズ、第2シリーズの放送開始日、TVスペシャル1作目の放送日と符合している。なお、色違いで同じナンバーの車や、77が78になっている車も登場する。また[新型フィアット・500の記者発表では](https://ja.wikipedia.org/wiki/フィアット・500_\(2007年\) "wikilink")、その中で赤いジャケットのルパンが、新型に乗る予告編が放送された\[4\]。
+
+## 商品内容
+
+すべて[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")に同時発売。発売元は「[ルパン三世 GREEN vs RED製作委員会](../Page/製作委員会方式.md "wikilink")」。販売元は[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")。
+
+  - DVD通常版
+    音楽CD付き。
+  - DVD限定版
+    特典映像ディスクとルパン三世[フィギュア](../Page/フィギュア.md "wikilink")付き。
+  - Blu-ray版
+    [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月15日](../Page/9月15日.md "wikilink")に発売された。
+
+## 脚注
+
+## 関連項目
+
+  - [アニメ作品一覧](../Page/アニメ作品一覧.md "wikilink")
+  - [アニメ関係者一覧](../Page/アニメ関係者一覧.md "wikilink")
+
+## 外部リンク
+
+  - [ルパン三世「GREEN vs RED」](http://lupin-3rd.net/sakuhin_ova.html)
+
+[Category:ルパン三世のアニメ作品](https://ja.wikipedia.org/wiki/Category:ルパン三世のアニメ作品 "wikilink") [Category:2008年のOVA](https://ja.wikipedia.org/wiki/Category:2008年のOVA "wikilink") [Category:東京を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ作品 "wikilink") [Category:核兵器を題材とした作品](https://ja.wikipedia.org/wiki/Category:核兵器を題材とした作品 "wikilink")
+
+1.  次元も劇中、マグナムを40年も扱っているという発言をしている
+2.  なお、DVD特典の設定資料では「康雄」「有希子」と漢字表記となっている。
+3.  なお、DVD特典の設定資料では「康雄」「有希子」と漢字表記となっている。
+4.  なお、新型に乗っているシーンは本編のラストシーンである。

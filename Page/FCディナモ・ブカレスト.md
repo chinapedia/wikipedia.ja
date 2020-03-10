@@ -1,0 +1,467 @@
+> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+
+
+**フォトバル・クルブ・ディナモ・ブクレシュティ**（, ）は、[ルーマニア](../Page/ルーマニア.md "wikilink")・[ブカレスト](https://ja.wikipedia.org/wiki/ブカレスト "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。[リーガ1](https://ja.wikipedia.org/wiki/リーガ1 "wikilink")で18回、[クパ・ロムニエイ](https://ja.wikipedia.org/wiki/クパ・ロムニエイ "wikilink")で13回、[スーペルクパ・ロムニエイ](https://ja.wikipedia.org/wiki/スーペルクパ・ロムニエイ "wikilink")で2回優勝しており、[FCステアウア・ブカレスト](https://ja.wikipedia.org/wiki/FCステアウア・ブカレスト "wikilink")と並んでルーマニアでもっとも成功を収めた2クラブのひとつである。
+
+1948年に設立され、それ以来すべてのシーズンをリーガ1で過ごしている。伝統的にホームユニフォームは全身赤色であり、現在のエンブレムは1998年に修正された版である。1951年から、ブカレスト市内中心部にある[スタディオヌル・ディナモをホームスタジアムとしている](https://ja.wikipedia.org/wiki/ディナモ・スタジアム_\(ブカレスト\) "wikilink")。1983-84シーズンの[UEFAチャンピオンズカップではベスト](../Page/UEFAチャンピオンズリーグ.md "wikilink")4となり、同大会で準決勝に進出したルーマニア初のクラブとなった。最大のライバルはステアウアであり、両クラブの対戦は[エテルヌル・デルビー](https://ja.wikipedia.org/wiki/エテルヌル・デルビー "wikilink")（エターナル・ダービー、永遠のダービー）と呼ばれる。
+
+## 歴史
+
+### 黎明期
+
+1948年5月14日、ウニレア・トリコロールMAIがチオカヌル・ブカレストと合併し、ディナモ・ブカレストという名称の総合スポーツクラブが創設された。ウニレア・トリコロールMAIは1948年1月に設立されていた、[共産主義政権の庇護の下にあったクラブである](https://ja.wikipedia.org/wiki/ルーマニア共産党 "wikilink")。ディナモ・ブカレストもルーマニア共産党を象徴するスポーツクラブとなり、体制側のクラブという側面が常に付きまとった \[1\]。1947-48シーズンのリーグ戦が終わるまでは、チオカヌルがディナモA、ウニレア・トリコロールがディナモBという扱いだったが、ウニレア・トリコロールはシーズン終了後にディヴィジアB（2部）降格となった。両チームはディナモのAチーム、Bチームとして共存していたが、1950年シーズン開幕時にはディナモAがディナモBから分割され、ディナモBはまず[ブラショヴ](https://ja.wikipedia.org/wiki/ブラショヴ "wikilink")に、次に[クルジュ＝ナポカ](https://ja.wikipedia.org/wiki/クルジュ＝ナポカ "wikilink")に、結局は1958年に[バカウ](https://ja.wikipedia.org/wiki/バカウ "wikilink")に移転し、[FCMバカウ](https://ja.wikipedia.org/wiki/FCMバカウ "wikilink")となった\[2\]。
+
+1948年7月14日、Zidnice（チェコスロバキア）と初の国際試合を戦い、4-1で勝利した。1948-49シーズンには（ディナモAが）ディナモという名称で初めて[リーガ1](https://ja.wikipedia.org/wiki/リーガ1 "wikilink")（1部）に参戦。コロマン・ブラウン＝ボグダン監督がチームを率い、ティトゥス・オゾン\[3\]などの選手たちがプレーした。1948-49シーズン終了後には[アンジェロ・ニクレスク](https://ja.wikipedia.org/wiki/アンジェロ・ニクレスク "wikilink")が現役引退。指導者に転身し、後にディナモやルーマニア代表の監督を務めている。1950年にはドゥミトル・ニコラが加入。1951年10月14日には現在のディナモ・スタジアムがオープンし、ディナモ＝ロコモティーヴァ・ティミショアラとの間で行われた落成記念試合に1-0で勝利した\[4\]。1951年シーズンから1953年シーズン\[5\]までの3シーズンは、いずれも[CCAブカレスト](https://ja.wikipedia.org/wiki/FCステアウア・ブカレスト "wikilink")（現在のステアウア）に次ぐ2位でシーズンを終えた。1954年の[クパ・ロムニエイ](https://ja.wikipedia.org/wiki/クパ・ロムニエイ "wikilink")では決勝に進出したが、[メタルル・レシツァに](https://ja.wikipedia.org/wiki/CSMスカラー・レシツァ "wikilink")0-2で敗れた。ニクレスク監督が率いた1955年シーズンには、アレグザンドレ・エネ\[6\]などの攻撃陣による攻撃サッカーで強い印象を与え、リーガ1初優勝を飾った。守備陣にはバクト、スゾコ、カリノユなどがおり、リーグ最少の19失点に抑えた\[7\]。1956-57シーズンには初めて[UEFAチャンピオンズカップに出場](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1956-57 "wikilink")。ルーマニアで初めて国際大会に出場したクラブとなった。予選では[ガラタサライSK](https://ja.wikipedia.org/wiki/ガラタサライSK_\(サッカー\) "wikilink")（トルコ）と対戦。32,000人の観客が詰めかけたホームでのファーストレグには3-1で勝利し、[イスタンブール](../Page/イスタンブール.md "wikilink")でのセカンドレグには1-2で敗れたものの、2試合合計4-3で勝ち上がりを決めた。1回戦では[CDNAソフィア](https://ja.wikipedia.org/wiki/PFC_CSKAソフィア "wikilink")（ブルガリア）と対戦し、2試合合計4-10で敗れて敗退した。
+
+### 1960年代と1970年代
+
+1961-62シーズンのチームにはイリエ・ダトク、ステファン、ウングロユなどが在籍しており、ニクショル・ドゥミトル・ネデレスク監督の下で 2回目のリーグ優勝を飾った。1962-63シーズンにはリーグ戦2連覇を果たした。1963-64シーズンにはクパ・ロムニエイで決勝に進出し、ライバルの[FCステアウア・ブカレスト](https://ja.wikipedia.org/wiki/FCステアウア・ブカレスト "wikilink")を5-3で下して2回目の優勝を飾った。[UEFAチャンピオンズカップでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1963-64 "wikilink")[アルフレッド・ディ・ステファノ](../Page/アルフレッド・ディ・ステファノ.md "wikilink")擁する[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")（スペイン）と対戦。ブカレストの[スタディオヌル・リア・マノリウで行われた試合にはスタジアム記録となる](https://ja.wikipedia.org/wiki/スタディオヌル・ナツィオナル "wikilink")100,000人もの観客を集めた\[8\]。1964-65シーズンの[UEFAチャンピオンズカップでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1964-65 "wikilink")「グランデ・インテル」と呼ばれた[インテル](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")（イタリア）と対戦し、[ルイス・スアレス](../Page/ルイス・スアレス・ミラモンテス.md "wikilink")、[ジャチント・ファッケッティ](https://ja.wikipedia.org/wiki/ジャチント・ファッケッティ "wikilink")、[サンドロ・マッツォーラ](https://ja.wikipedia.org/wiki/サンドロ・マッツォーラ "wikilink")などと対面したが、2試合合計0-7で完敗した。同シーズンのリーグ戦では4連覇を果たした。1965年には[ミルチェア・ルチェスク](https://ja.wikipedia.org/wiki/ミルチェア・ルチェスク "wikilink")などを獲得し、[UEFAチャンピオンズカップでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1965-66 "wikilink")2シーズン連続でインテルと顔を合わせたが、ホームゲームでは2-1で勝利するなど善戦した。
+
+1970-71シーズンには6回目のリーグ優勝を飾った。1971-72シーズンの[UEFAチャンピオンズカップでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1971-72 "wikilink")1回戦で[FCスパルタク・トルナヴァ](https://ja.wikipedia.org/wiki/FCスパルタク・トルナヴァ "wikilink")（スロベニア）を下したが、2回戦で[フェイエノールト](../Page/フェイエノールト.md "wikilink")（オランダ）に敗れた。1972-73シーズンには[FCウニヴェルシタテア・クラヨーヴァ](https://ja.wikipedia.org/wiki/FCウニヴェルシタテア・クラヨーヴァ "wikilink")などを突き放し、7回目のリーグ優勝を果たした\[9\]。1973-74シーズンのUEFAチャンピオンズカップでは、1回戦で[クルセイダーズFC](https://ja.wikipedia.org/wiki/クルセイダーズFC "wikilink")（北アイルランド）を2試合合計12-0で破った。ホームで行われたセカンドレグでは11点差 (11-0) の勝利を記録し、同大会におけるクラブ史上最大得点差記録として現在も残っている。2回戦では[ハビエル・イルレタ](https://ja.wikipedia.org/wiki/ハビエル・イルレタ "wikilink")などを擁する[アトレティコ・マドリード](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")（スペイン）と対戦し、2試合合計2-4で敗れた。1974-75シーズンは[UEFAカップに出場し](https://ja.wikipedia.org/wiki/UEFAカップ1974-75 "wikilink")、1回戦で[ボルスポル](https://ja.wikipedia.org/wiki/ボルスポル "wikilink")（トルコ）を退けたが、2回戦で[1.FCケルン](https://ja.wikipedia.org/wiki/1.FCケルン "wikilink")（西ドイツ）に2試合合計3-4で敗れた。リーグ戦では8回目の優勝を果たし、32得点を挙げた[ドゥドゥ・ゲオルゲスク](https://ja.wikipedia.org/wiki/ドゥドゥ・ゲオルゲスク "wikilink")が[ヨーロッパ・ゴールデンシュー](https://ja.wikipedia.org/wiki/ヨーロッパ・ゴールデンシュー "wikilink")（ヨーロッパ全体の得点王）に輝いた。1976-77シーズンの[UEFAカップでは](https://ja.wikipedia.org/wiki/UEFAカップ1976-77 "wikilink")1回戦で[ファビオ・カペッロ](https://ja.wikipedia.org/wiki/ファビオ・カペッロ "wikilink")などが在籍していた[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")（イタリア）と対戦し、2試合合計1-2と健闘した。リーグ戦では9回目の優勝を果たし、47得点を挙げたゲオルゲスクが2度目のヨーロッパ・ゴールデンシューに輝いた\[10\]。1977-78シーズンのUEFAチャンピオンズカップでは1回戦でアトレティコ・マドリードと対戦し、ホームで行われたファーストレグには2-1で勝利したが、アウェーでは0-2で敗れ、2試合合計2-3で敗退となった。1979-80シーズンの[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ1979-80 "wikilink")1回戦では[アルキ・ラルナカFC](https://ja.wikipedia.org/wiki/アルキ・ラルナカFC "wikilink")（キプロス）を2試合合計12-0で下し、2回戦では[ブルーノ・ペッツァイ](https://ja.wikipedia.org/wiki/ブルーノ・ペッツァイ "wikilink")などが牽引した[アイントラハト・フランクフルト](https://ja.wikipedia.org/wiki/アイントラハト・フランクフルト "wikilink")（西ドイツ）と対戦。ファーストレグに2-0で勝利したが、セカンドレグに0-3で敗れて敗退した\[11\]。
+
+### 1980年代
+
+1981-82シーズンの[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ1981-82 "wikilink")・1回戦では[レフスキ・ソフィア](https://ja.wikipedia.org/wiki/レフスキ・ソフィア "wikilink")（ブルガリア）と対戦し、2試合合計4-2で勝利した。2回戦では17年ぶりにインテルと対戦し、クラブ史に残る勝利を挙げた。インテルには[アレッサンドロ・アルトベッリ](https://ja.wikipedia.org/wiki/アレッサンドロ・アルトベッリ "wikilink")、[ジュゼッペ・バレージ](https://ja.wikipedia.org/wiki/ジュゼッペ・バレージ "wikilink")、[ガブリオレ・オリアリ](https://ja.wikipedia.org/wiki/ガブリオレ・オリアリ "wikilink")、[ヘルベルト・プロハスカ](https://ja.wikipedia.org/wiki/ヘルベルト・プロハスカ "wikilink")などの名選手が在籍していたが、ミラノでのファーストレグは1-1の引き分けに持ち込み、ブカレストでのセカンドレグはロスタイムの得点により3-2で勝利。2試合合計4-3とし、西欧の強豪を破って3回戦進出を決めた\[12\]。3回戦では[IFKヨーテボリ](https://ja.wikipedia.org/wiki/IFKヨーテボリ "wikilink")（スウェーデン）と対戦し、後に優勝するクラブ相手に敗れた。同シーズンには10回目のリーグ優勝を飾った。1982-83シーズンには5シーズンぶりに[UEFAチャンピオンズカップに出場し](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1982-83 "wikilink")、予選と1回戦で[ヴォレレンガ・フォトバル](https://ja.wikipedia.org/wiki/ヴォレレンガ・フォトバル "wikilink")（ノルウェー）と[FKデュクラ・プラハ](https://ja.wikipedia.org/wiki/FKデュクラ・プラハ "wikilink")（オーストリア）を破ったが、2回戦で[アストン・ヴィラFC](https://ja.wikipedia.org/wiki/アストン・ヴィラFC "wikilink")（イングランド）に敗れた。国内リーグでは2連覇を達成した。1983年には国内リーグと国内カップでそれぞれ6回の優勝を果たした[コルネル・ディヌ](https://ja.wikipedia.org/wiki/コルネル・ディヌ "wikilink")が引退。ディヌはルーマニア代表として75試合に出場し、ディナモでは通算454試合に出場した。1983-84シーズンには国内リーグ3連覇を果たし、欧州の舞台でも躍進を遂げた。[UEFAチャンピオンズカップでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1983-84 "wikilink")1回戦で[FCクーシュシ](https://ja.wikipedia.org/wiki/FCラハティ "wikilink")（フィンランド）を破り、2回戦で[ハンブルガーSV](https://ja.wikipedia.org/wiki/ハンブルガーSV "wikilink")（西ドイツ）と対戦。ハンブルガーSVは前回大会王者であり、[ヴィリ・シュルツ](https://ja.wikipedia.org/wiki/ヴィリ・シュルツ "wikilink")や[フェリックス・マガト](https://ja.wikipedia.org/wiki/フェリックス・マガト "wikilink")などを擁していた。ブカレストでのファーストレグには3-0で勝利し\[13\]\[14\]、セカンドレグは2-3で敗れたが、2試合合計5-3で準々決勝に進出。準決勝では[FCディナモ・ミンスク](https://ja.wikipedia.org/wiki/FCディナモ・ミンスク "wikilink")（ソビエト連邦）を2試合合計2-1で破り、ルーマニアのクラブとして初めて同大会の準決勝進出を決めた\[15\]。準決勝では[イアン・ラッシュ](https://ja.wikipedia.org/wiki/イアン・ラッシュ "wikilink")擁する[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")（イングランド）と対戦し、2試合合計1-3で敗れて敗退した。1984-85シーズンの[同大会では](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1984-85 "wikilink")1回戦で[オモニア・ニコシア](https://ja.wikipedia.org/wiki/オモニア・ニコシア "wikilink")（キプロス）に勝利したが、[ジャン・ティガナ](https://ja.wikipedia.org/wiki/ジャン・ティガナ "wikilink")や[ベルナール・ラコンブ](https://ja.wikipedia.org/wiki/ベルナール・ラコンブ "wikilink")が在籍していた[FCジロンダン・ボルドー](https://ja.wikipedia.org/wiki/FCジロンダン・ボルドー "wikilink")（フランス）に敗れた。1985-86シーズンのクパ・ロムニエイでは決勝でステアウアを1-0で破って優勝した。1985-86シーズンには18年ぶりに[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")に出場。1986-87シーズンにはリーグ戦で44得点を挙げた[ロディオン・カマタル](https://ja.wikipedia.org/wiki/ロディオン・カマタル "wikilink")がヨーロッパ・ゴールデンシューに輝いた。1987-88シーズンのクパ・ロムニエイ決勝ではステアウアと対戦したが、ステアウアの選手たちが判定への抗議の意味で試合途中にピッチを去ったため、ディナモにトロフィーが与えられた。しかし、後にルーマニアサッカー連盟はステアウアが2-1で勝利したという裁定を下している。1989年12月の[ルーマニア革命後](https://ja.wikipedia.org/wiki/ルーマニア革命_\(1989年\) "wikilink")、ステアウアはディナモにトロフィーを返還する提案を行なったが、ディナモは受け取ることを拒否した。1988-89シーズンのUEFAカップウィナーズカップではラハティと[ダンディー・ユナイテッドFC](https://ja.wikipedia.org/wiki/ダンディー・ユナイテッドFC "wikilink")（スコットランド）を下したが、[UCサンプドリア](https://ja.wikipedia.org/wiki/UCサンプドリア "wikilink")（イタリア）にアウェーゴール差で敗れた。
+
+### 1990年代
+
+1960年代から1970年代にディナモでプレーしたルチェスク監督が指揮を執った1989-90シーズンの[UEFAカップウィナーズカップでは](https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1989-90 "wikilink")、1回戦で[KSディナモ・ティラナ](https://ja.wikipedia.org/wiki/KSディナモ・ティラナ "wikilink")（アルバニア）に2試合合計2-1で勝利し、2回戦で[パナシナイコスFC](https://ja.wikipedia.org/wiki/パナシナイコスFC "wikilink")（ギリシャ）に2試合合計8-1で勝利し、準々決勝ではミヤトヴィッチ擁する[パルチザン・ベオグラード](https://ja.wikipedia.org/wiki/パルチザン・ベオグラード "wikilink")（ユーゴスラビア）に2試合合計4-1で勝利したが、準決勝で[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト "wikilink")（ベルギー）に2試合合計0-2で敗れた。同シーズンには13回目のリーグ優勝を果たし、クパ・ロムニエイでは決勝でステアウアを6-4で破って優勝。国内2冠を達成した。1990-91シーズンの[UEFAチャンピオンズカップでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1990-91 "wikilink")1回戦で[セント・パトリックス・アスレティックFC](https://ja.wikipedia.org/wiki/セント・パトリックス・アスレティックFC "wikilink")（アイルランド）に勝利したが、2回戦で[FCポルト](https://ja.wikipedia.org/wiki/FCポルト "wikilink")（ポルトガル）に敗れた。1991-92シーズンの[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ1991-92 "wikilink")1回戦では[ルイス・フィーゴ](../Page/ルイス・フィーゴ.md "wikilink")擁する[スポルティングCPに勝利したが](https://ja.wikipedia.org/wiki/スポルティング・クルーベ・デ・ポルトゥガル "wikilink")、2回戦で[ジェノアCFC](../Page/ジェノアCFC.md "wikilink")（イタリア）に敗れた。同シーズンのリーグ戦では34試合21勝13分で無敗優勝を達成した。
+
+1990年代中盤には国内でも国外でも低迷した。3シーズン連続でUEFAカップに出場したが、[1993-94シーズンは](https://ja.wikipedia.org/wiki/UEFAカップ1993-94 "wikilink")[カリアリ・カルチョ](https://ja.wikipedia.org/wiki/カリアリ・カルチョ "wikilink")（イタリア）に、[1994-95シーズンは](https://ja.wikipedia.org/wiki/UEFAカップ1994-95 "wikilink")[トラブゾンスポル](https://ja.wikipedia.org/wiki/トラブゾンスポル・クラブ_\(サッカー\) "wikilink")（トルコ）に、[1995-96シーズンは](https://ja.wikipedia.org/wiki/UEFAカップ1995-96 "wikilink")[レフスキ・ソフィア](https://ja.wikipedia.org/wiki/レフスキ・ソフィア "wikilink")（ブルガリア）に、いずれも予選1回戦で敗れた。この時期には[カタリン・ヒルダン](https://ja.wikipedia.org/wiki/カタリン・ヒルダン "wikilink")、[フローレンティン・ペトレ](https://ja.wikipedia.org/wiki/フローレンティン・ペトレ "wikilink")、[コスミン・コントラ](https://ja.wikipedia.org/wiki/コスミン・コントラ "wikilink")などが加入し、[アドリアン・ミハルチェア](https://ja.wikipedia.org/wiki/アドリアン・ミハルチェア "wikilink")や[ジアニ・キリツァ](https://ja.wikipedia.org/wiki/ジアニ・キリツァ "wikilink")などがいたルーマニア代表組からは[フロリン・プルネア](https://ja.wikipedia.org/wiki/フロリン・プルネア "wikilink")が離脱した。1998-99シーズンにはリーグ最高のプレーを見せるクラブと称賛されたが、タイトル争いでは[FCラピド・ブカレスト](https://ja.wikipedia.org/wiki/FCラピド・ブカレスト "wikilink")に敗れた。1990年代終盤には再び優勝争いに顔を見せるようになり、暗黒期を脱した。
+
+### 2000年代
+
+[20aug0034.jpg](https://ja.wikipedia.org/wiki/File:20aug0034.jpg "fig:20aug0034.jpg")
+
+1999年夏には主力選手の多くを売却し、1999-2000シーズンの[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ1999-2000 "wikilink")・1回戦では[SLベンフィカ](https://ja.wikipedia.org/wiki/SLベンフィカ "wikilink")（ポルトガル）と対戦し、[エスタディオ・ダ・ルス](https://ja.wikipedia.org/wiki/エスタディオ・ダ・ルス "wikilink")でのファーストレグには1-0で勝利を収めたが、ブカレストのセカンドレグには0-2で敗れて敗退した。しかし、リーグ戦では（前半戦のみ）[アドリアン・ムトゥ](https://ja.wikipedia.org/wiki/アドリアン・ムトゥ "wikilink")を擁して8シーズンぶりの優勝を果たした。2000-01シーズンの[UEFAチャンピオンズリーグでは予選](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2000-01 "wikilink")2回戦で[ポロニア・ワルシャワ](https://ja.wikipedia.org/wiki/ポロニア・ワルシャワ "wikilink")（ポーランド）に敗れ、リーグ戦もステアウアに優勝をさらわれた。しかし2001-02シーズンにはタイトルを奪還した。同シーズンのUEFAカップでは予選で[KSディナモ・ティラナ](https://ja.wikipedia.org/wiki/KSディナモ・ティラナ "wikilink")（アルバニア）を破ったが、本選1回戦で[グラスホッパー・チューリッヒ](https://ja.wikipedia.org/wiki/グラスホッパー・クラブ・チューリッヒ "wikilink")（スイス）に敗れた。2002年には再び多くの選手の売却を余儀なくされ、2002-03シーズンの成績に大きく影響した。中盤戦までは2位や3位につけていたが、7連敗を喫して9位まで落ち込んだこともあり、最終的には6位に終わった。[UEFAチャンピオンズリーグでは予選](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2002-03 "wikilink")2回戦で[クラブ・ブルッヘ](https://ja.wikipedia.org/wiki/クラブ・ブルッヘ "wikilink")（ベルギー）に敗れた。クパ・ロムニエイでは準決勝で[FCアストラ](https://ja.wikipedia.org/wiki/FCアストラ "wikilink")・プロイェシュティを、決勝で[ナツィオナル・ブカレストを破り](https://ja.wikipedia.org/wiki/AFCプログレスル・ブカレスト "wikilink")、2シーズンぶり10回目の優勝を飾った。2003-04シーズンのUEFAカップ1回戦では[FCシャフタール・ドネツク](https://ja.wikipedia.org/wiki/FCシャフタール・ドネツク "wikilink")（ウクライナ）に勝利したが、2回戦で[FCスパルタク・モスクワ](https://ja.wikipedia.org/wiki/FCスパルタク・モスクワ "wikilink")に敗れた。リーグ戦ではステアウアと熾烈な優勝争いを演じ、僅差で優勝を決めた。クパ・ロムニエイでは決勝で[FCオツェルル・ガラツィ](https://ja.wikipedia.org/wiki/FCオツェルル・ガラツィ "wikilink")を下して2連覇を果たした。
+
+2004-05シーズンの[UEFAチャンピオンズリーグ予選](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2004-05 "wikilink")3回戦では[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")（イングランド）と対戦し、2試合合計1-5で敗れた\[16\]。2005-06シーズンのUEFAカップ1回戦では[エヴァートンFC](https://ja.wikipedia.org/wiki/エヴァートンFC "wikilink")（イングランド）を2試合合計5-2で下した\[17\]。グループリーグでは[オリンピック・マルセイユ](https://ja.wikipedia.org/wiki/オリンピック・マルセイユ "wikilink")（フランス）、[レフスキ・ソフィア](https://ja.wikipedia.org/wiki/レフスキ・ソフィア "wikilink")（ブルガリア）、[SCヘーレンフェーン](https://ja.wikipedia.org/wiki/SCヘーレンフェーン "wikilink")（オランダ）、[PFC CSKAモスクワ](https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ "wikilink")（ロシア）と同組となり、前回大会王者のCSKAモスクワに勝利したが、1勝1分2敗のグループ最下位で敗退した。[スタッド・ヴェロドローム](https://ja.wikipedia.org/wiki/スタッド・ヴェロドローム "wikilink")で行われたマルセイユ戦 (1-2) ではロスタイムにオクタヴィアン・チハジャがゴールネットを揺らしたが、すでに試合終了の笛が鳴っていたとしてゴールは認められなかった\[18\]。
+
+2006-07シーズンのUEFAカップ・グループリーグでは[トッテナム・ホットスパーFC](https://ja.wikipedia.org/wiki/トッテナム・ホットスパーFC "wikilink")（イングランド）、[バイエル・レバークーゼン](https://ja.wikipedia.org/wiki/バイエル・レバークーゼン "wikilink")（ドイツ）、[ベシクタシュJK](https://ja.wikipedia.org/wiki/ベシクタシュJK "wikilink")（トルコ）、クラブ・ブルッヘと同組となり、2勝1分け1敗の勝ち点4でグループ2位となって決勝トーナメント進出を果たした。久々に欧州カップ戦での年越しを果たしたが、決勝トーナメント1回戦でベンフィカに敗れた。国内の舞台では前半戦を首位で終えると、その後も順調に勝ち点を伸ばし、4試合を残して18回目のリーグ優勝を果たした。最終的には2位に勝ち点13差を付けた\[19\]。2006-07シーズンのUEFAチャンピオンズリーグでマンチェスター・Uか[チェルシーFC](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")（イングランド）が優勝していたら、ディナモに同大会の本選グループリーグ出場権が与えられたが、ミランが優勝したため、ディナモは予選を戦うはめになった\[20\]。予選3回戦では[SSラツィオ](../Page/SSラツィオ.md "wikilink")（イタリア）に敗れ、本選出場権を逃した\[21\]。2007-08シーズンは3回も監督が交代する激動のシーズンとなり、4位に終わった。
+
+2008年夏、[ミルチェア・レドニク](https://ja.wikipedia.org/wiki/ミルチェア・レドニク "wikilink")が監督に復帰。2008-09シーズンはリーグ優勝とUEFAチャンピオンズリーグ出場権獲得が目標であり、シーズン前半戦を首位で終えたが、最終的には3位に終わった。2009-10シーズンの[UEFAヨーロッパリーグでは](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2009-10 "wikilink")、プレーオフで[FCスロヴァン・リベレツ](https://ja.wikipedia.org/wiki/FCスロヴァン・リベレツ "wikilink")（チェコ）と対戦した。ホームで行われたファーストレグでは、スロヴァンが2-0とリードした88分にディナモのサポーターがピッチ内に乱入したために試合が中断された\[22\]。試合後、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink") (UEFA) の管理規律委員会はスロヴァンの3-0勝利という裁定を下した\[23\]。1週間後にリベレツで行われたセカンドレグでは、アウェーのディナモが3-0で勝利し、延長戦でも決着がつかなかった。試合の行方はPK戦に持ち込まれたが、10人ずつが蹴ったPK戦に9-8で勝利したディナモが劇的な勝ち上がりを決めた\[24\]。同シーズンのリーグ戦では6位という結果に終わった。
+
+2010-11シーズンのリーグ戦は6位に終わった。同シーズンのクパ・ロムニエイでは決勝に進出したが、ステアウアとの決勝ではオウンゴールが決勝点となって敗れた。2011夏にはかつてディナモでプレーした[リヴィウ・チョボタリウ](https://ja.wikipedia.org/wiki/リヴィウ・チョボタリウ "wikilink")監督が就任し、[ガブリエル・トルジェ](https://ja.wikipedia.org/wiki/ガブリエル・トルジェ "wikilink")が[セリエAの](../Page/セリエA_\(サッカー\).md "wikilink")[ウディネーゼ・カルチョ](https://ja.wikipedia.org/wiki/ウディネーゼ・カルチョ "wikilink")に移籍した。UEFAヨーロッパリーグプレーオフでは[FCヴォルスクラ・ポルタヴァ](https://ja.wikipedia.org/wiki/FCヴォルスクラ・ポルタヴァ "wikilink")に敗れたが、10節終了後には最多得点・最少失点で首位に位置した。年明けの時点でも[CFRクルジュ](https://ja.wikipedia.org/wiki/CFRクルジュ "wikilink")に勝ち点1差で首位に立っており、3月3日、ディナモのホームゲームとしては初めて[スタディオヌル・ナツィオナル](https://ja.wikipedia.org/wiki/スタディオヌル・ナツィオナル "wikilink")で行われた[ガスメタン・メディアシュ](https://ja.wikipedia.org/wiki/ガスメタン・メディアシュ "wikilink")戦には2-0で勝利した。しかし、ディナモは春に大きく調子を落とし、34試合で勝ち点62の5位に終わった。クパ・ロムニエイでは決勝でラピドを破り、7年ぶりの優勝を飾った。2012年夏には[スーペルクパ・ロムニエイ](https://ja.wikipedia.org/wiki/スーペルクパ・ロムニエイ "wikilink")でCFRクルジュと対戦し、7年ぶり2度目の優勝を飾った。
+
+## 文化
+
+### スタジアム
+
+[Dinamo_stadium.JPG](https://ja.wikipedia.org/wiki/File:Dinamo_stadium.JPG "fig:Dinamo_stadium.JPG")
+
+特別に重要試合は[アレーナ・ナツィオナラ](https://ja.wikipedia.org/wiki/スタディオヌル・ナツィオナル "wikilink")（かつては[スタディオヌル・リア・マノリウ](https://ja.wikipedia.org/wiki/スタディオヌル・ナツィオナル "wikilink")）で行なっているが、ホームスタジアムは[スタディオヌル・ディナモである](https://ja.wikipedia.org/wiki/ディナモ・スタジアム_\(ブカレスト\) "wikilink")。1951年に建設され、[ロコモティーヴァ・ティミショアラ](https://ja.wikipedia.org/wiki/ロコモティーヴァ・ティミショアラ "wikilink")戦が初試合となった。完成当初は16,000人収容だったが、立見区域への座席の設置などで15,032人まで収容人数が減少した。このスタジアムは大型複合施設の一部であり、ディナモIIと呼ばれるBチームが使用するスタディオヌル・フロレア・ドゥミトラチェ、体育館、プールなども内部に存在する。
+
+一般のスタジアムのように地上にスタンドを組み上げるのではなく、地面を掘り起こしてスタンドを設置する方法で建設されたため、スタジアムはグロアパ（穴ぐら）というニックネームで呼ばれている。ペルーサ・カタリン・ヒルダン（略称：PCH）\[25\]と呼ばれるサポーターグループは北スタンドに陣取る。
+
+### サポーター
+
+ルーマニアでもっとも人気のあるサッカークラブは[FCステアウア・ブカレスト](https://ja.wikipedia.org/wiki/FCステアウア・ブカレスト "wikilink")である。ディナモはサッカーファン全体の16.3%が応援しており、[FCウニヴェルシタテア・クラヨーヴァ](https://ja.wikipedia.org/wiki/FCウニヴェルシタテア・クラヨーヴァ "wikilink")と並んでルーマニアで2番目に人気があるサッカークラブである\[26\]。ディナモのファンはブカレストの北東部に多いが、ブカレスト以外のルーマニア国内や国外にも多くのファンが存在する。
+
+ディナモのウルトラスの起源は、1995年にドラクーラ（Dracula、吸血鬼）やラムス・パンテリモン（Rams Pantelimon）などのグループが北側スタンドに現れたことによる。1996年、忠誠心の高い若者によってNuova Guardia（ヌオヴァ・グァルディア、新卒衛兵）というグループが組織され、ディナモのみならずルーマニアサッカー界全体でもっとも大きなウルトラスとなった\[27\]。2000年に[カタリン・ヒルダン](https://ja.wikipedia.org/wiki/カタリン・ヒルダン "wikilink")が死去すると、サポーターは北側スタンドをペルーサ・カタリン・ヒルダン（カタリン・ヒルダン兵団）と呼ぶようになった。サポーターの大部分は北側スタンドに陣取るが、南側スタンドに移転した派閥もある。
+
+クラブ創設以来、ディナモのクラブカラーは赤色と白色である。現在のエンブレムには、ヌンヴェイラー兄弟\[28\]と呼ばれる2匹の赤い犬が刻み込まれている。
+
+### ライバル
+
+[Dinamo-steauaPicture109.jpg](https://ja.wikipedia.org/wiki/File:Dinamo-steauaPicture109.jpg "fig:Dinamo-steauaPicture109.jpg")
+
+ディナモの最大のライバルは[FCステアウア・ブカレスト](https://ja.wikipedia.org/wiki/FCステアウア・ブカレスト "wikilink")であり、両クラブはルーマニアでもっとも大きな成功を収めている。両クラブの対戦は[エテルヌル・デルビー](https://ja.wikipedia.org/wiki/エテルヌル・デルビー "wikilink")（エターナル・ダービー、永遠のダービー\[29\]）と呼ばれ、ルーマニア最大のダービーマッチである。ダービーの際には両クラブのサポーターがスタジアム内外で衝突する。1997年に[スタディオヌル・ゲンチェア](https://ja.wikipedia.org/wiki/スタディオヌル・ゲンチェア "wikilink")で行われたダービーでは、アウェーのディナモサポーターがスタジアムの一区画に放火した事件が起こった\[30\]。
+
+ステアウアの他には、[FCウニヴェルシタテア・クラヨーヴァ](https://ja.wikipedia.org/wiki/FCウニヴェルシタテア・クラヨーヴァ "wikilink")、[FCラピド・ブカレスト](https://ja.wikipedia.org/wiki/FCラピド・ブカレスト "wikilink")にもライバル意識を抱いている。[FCペトロルル・プロイェシュティ](https://ja.wikipedia.org/wiki/FCペトロルル・プロイェシュティ "wikilink")、[FCファルル・コンスタンツァ](https://ja.wikipedia.org/wiki/FCファルル・コンスタンツァ "wikilink")、[FCアルジェシュ・ピテシュティ](https://ja.wikipedia.org/wiki/FCアルジェシュ・ピテシュティ "wikilink")、[FCポリテフニカ・ティミショアラ](https://ja.wikipedia.org/wiki/FCポリテフニカ・ティミショアラ "wikilink")のファンはディナモをライバルとみなしているが、ディナモのファンは彼らに特別な感情を抱いていない。ディナモはかつてルーマニア共産党を象徴するクラブだったことから、ルーマニアサッカー界の悪役的存在であり、ブカレスト以外の地域にもファンが多数存在する。
+
+### 下部組織
+
+下部組織は年齢別に9のカテゴリーに分けられており、9歳から18歳までの選手約180人が所属している。すべてのカテゴリーはブカレストサッカー協会またはルーマニアサッカー連盟が管轄する大会に参加している。拠点組織としてディナモ・スポーツセンターがあり、センターの敷地内にはいくつものグラウンドがある\[31\]。
+
+### 欠番
+
+  -  [カタリン・ヒルダン](https://ja.wikipedia.org/wiki/カタリン・ヒルダン "wikilink")
+
+<!-- end list -->
+
+  -
+    1994年にディナモからデビューしたミッドフィールダー。2000年10月5日に行われた[FCオルテニツァ](https://ja.wikipedia.org/wiki/FCオルテニツァ "wikilink")との試合中に心停止を起こして倒れ、そのまま死去した。ディナモ・スタジアムの北スタンドは「カタリン・ヒルダン・スタンド」と命名されている。ディナモのファンには「最高のキャプテン」(The Only Captain)と称され、すべての試合でヒルダンを称えるチャントが歌われる。
+
+<!-- end list -->
+
+  -  [パトリック・エケング](https://ja.wikipedia.org/wiki/パトリック・エケング "wikilink")
+
+<!-- end list -->
+
+  -
+    カメルーン代表ミッドフィールダー。2016年1月11日に加入、同年5月6日に行われた[FCヴィトルル・コンスタンツァ](https://ja.wikipedia.org/wiki/FCヴィトルル・コンスタンツァ "wikilink")との試合中に心停止を起こして倒れ、病院へ緊急搬送されたものの2時間後に死亡が確認された。享年26歳。
+
+## タイトル
+
+### 国内タイトル
+
+  - **[リーガ1](https://ja.wikipedia.org/wiki/リーガ1 "wikilink")：18回**
+      - 1955, 1961-62, 1962-63, 1963-64, 1964-65, 1970-71, 1972-73, 1974-75, 1976-77, 1981-82, 1982-83, 1983-84, 1989-90, 1991-92, 1999-00, 2001-02, 2003-04, 2006-07
+
+<!-- end list -->
+
+  - **[クパ・ロムニエイ](https://ja.wikipedia.org/wiki/クパ・ロムニエイ "wikilink")：13回**
+      - 1958-59, 1963-64, 1967-68, 1981-82, 1983-84, 1985-86, 1989-90, 1999-00, 2000-01, 2002-03, 2003-04, 2004-05, 2011-12
+
+<!-- end list -->
+
+  - **[スーペルクパ・ロムニエイ](https://ja.wikipedia.org/wiki/スーペルクパ・ロムニエイ "wikilink")：2回**
+      - 2004-05, 2011-12
+
+### 国際タイトル
+
+  - **[UEFAチャンピオンズカップ](../Page/UEFAチャンピオンズリーグ.md "wikilink")：0回**
+      - 最高位ベスト4：1983-84
+
+<!-- end list -->
+
+  - **[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")：0回**
+      - 最高位ベスト4：1989-90
+
+## 近年の成績
+
+| シーズン    | 国内リーグ                                                    | 国内カップ | [欧州カップ](https://ja.wikipedia.org/wiki/UEFA "wikilink") | 備考 |
+| ------- | -------------------------------------------------------- | ----- | ------------------------------------------------------ | -- |
+| ディビジョン  | 試                                                        | 勝     | 引                                                      | 敗  |
+| 2001-02 | [ディヴィジアA](https://ja.wikipedia.org/wiki/リーガ1 "wikilink") | 30    | 17                                                     | 9  |
+| 2002-03 | ディヴィジアA                                                  | 30    | 13                                                     | 5  |
+| 2003-04 | ディヴィジアA                                                  | 30    | 22                                                     | 4  |
+| 2004-05 | ディヴィジアA                                                  | 30    | 20                                                     | 2  |
+| 2005-06 | ディヴィジアA                                                  | 30    | 17                                                     | 5  |
+| 2006-07 | [リーガ1](https://ja.wikipedia.org/wiki/リーガ1 "wikilink")    | 34    | 23                                                     | 8  |
+| 2007-08 | リーガ1                                                     | 34    | 17                                                     | 10 |
+| 2008-09 | リーガ1                                                     | 34    | 20                                                     | 5  |
+| 2009-10 | リーガ1                                                     | 34    | 13                                                     | 14 |
+| 2010-11 | リーガ1                                                     | 34    | 16                                                     | 8  |
+| 2011-12 | リーガ1                                                     | 34    | 18                                                     | 8  |
+| 2012-13 | リーガ1                                                     | 34    | 16                                                     | 8  |
+| 2013-14 | リーガ1                                                     | 34    | 17                                                     | 8  |
+| 2014-15 | リーガ1                                                     | 34    | 13                                                     | 9  |
+| 2015-16 | リーガ1                                                     | 26    | 13                                                     | 9  |
+| プレーオフ   | 10                                                       | 2     | 6                                                      | 2  |
+| 2016-17 | リーガ1                                                     | 26    | 12                                                     | 5  |
+| プレーオフ   | 10                                                       | 5     | 4                                                      | 1  |
+| 2017-18 | リーガ1                                                     | 26    | 11                                                     | 6  |
+| プレーオフ   | 14                                                       | 11    | 1                                                      | 2  |
+| 2018-19 | リーガ1                                                     |       |                                                        |    |
+| プレーオフ   |                                                          |       |                                                        |    |
+
+## 記録
+
+### 国内リーグ
+
+  - **最長連勝記録**
+
+<!-- end list -->
+
+  -
+    17試合 (1988年6月12日 - 1988年11月27日)
+
+<!-- end list -->
+
+  - **最長不敗記録**
+
+<!-- end list -->
+
+  -
+    47試合 (1991年5月26日 - 1992年9月20日)
+
+<!-- end list -->
+
+  - **最多出場者**
+
+<!-- end list -->
+
+  -
+
+    [コルネル・ディヌ](https://ja.wikipedia.org/wiki/コルネル・ディヌ "wikilink") (454試合)
+
+<!-- end list -->
+
+  - **最多得点者**
+
+<!-- end list -->
+
+  -
+
+    [ドゥドゥ・ゲオルゲスク](https://ja.wikipedia.org/wiki/ドゥドゥ・ゲオルゲスク "wikilink") (207試合)
+
+### 欧州カップ
+
+  - **ホームでの最大得点差勝利**
+
+<!-- end list -->
+
+  -
+    11-0 (1973-74シーズン[UEFAチャンピオンズカップ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1973-74 "wikilink") -  [クルセイダーズFC](https://ja.wikipedia.org/wiki/クルセイダーズFC "wikilink")戦)\[32\]
+
+<!-- end list -->
+
+  - **アウェーでの最大得点差勝利**
+
+<!-- end list -->
+
+  -
+    9-0 (1979-80シーズン[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ1979-80 "wikilink") -  [アルキ・ラルナカFC](https://ja.wikipedia.org/wiki/アルキ・ラルナカFC "wikilink")戦)
+
+<!-- end list -->
+
+  - **ホームでの最大得点差敗北**
+
+<!-- end list -->
+
+  -
+    0-3 (1971-72シーズン[UEFAチャンピオンズカップ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1971-72 "wikilink") -  [フェイエノールト](../Page/フェイエノールト.md "wikilink")戦、2009-10シーズン[UEFAヨーロッパリーグ](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2009-10 "wikilink") -  [ガラタサライSK戦](https://ja.wikipedia.org/wiki/ガラタサライSK_\(サッカー\) "wikilink"))
+
+<!-- end list -->
+
+  - **アウェーでの最大得点差敗北**
+
+<!-- end list -->
+
+  -
+    1-8 (1956-57シーズン[UEFAチャンピオンズカップ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1956-57 "wikilink") -  [PFC CSKAソフィア戦](https://ja.wikipedia.org/wiki/PFC_CSKAソフィア "wikilink"))
+
+#### 欧州カップ戦での記録
+
+<table>
+<thead>
+<tr class="header">
+<th><p>大会</p></th>
+<th><p>シーズン</p></th>
+<th><p>試合数</p></th>
+<th><p>勝利</p></th>
+<th><p>引分</p></th>
+<th><p>敗北</p></th>
+<th><p>得点</p></th>
+<th><p>失点</p></th>
+<th><p>点差</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/UEFAチャンピオンズリーグ.md" title="wikilink">UEFAチャンピオンズリーグ</a><br />
+(<a href="../Page/UEFAチャンピオンズリーグ.md" title="wikilink">UEFAチャンピオンズカップ</a>)</p></td>
+<td><p>18</p></td>
+<td><p>66</p></td>
+<td><p>24</p></td>
+<td><p>10</p></td>
+<td><p>32</p></td>
+<td><p>96</p></td>
+<td><p>106</p></td>
+<td><p>–10</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/UEFAカップウィナーズカップ.md" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
+<td><p>5</p></td>
+<td><p>20</p></td>
+<td><p>8</p></td>
+<td><p>4</p></td>
+<td><p>8</p></td>
+<td><p>25</p></td>
+<td><p>18</p></td>
+<td><p>+7</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/UEFAヨーロッパリーグ.md" title="wikilink">UEFAヨーロッパリーグ</a><br />
+（<a href="../Page/UEFAヨーロッパリーグ.md" title="wikilink">UEFAカップ</a>）</p></td>
+<td><p>23</p></td>
+<td><p>90</p></td>
+<td><p>37</p></td>
+<td><p>14</p></td>
+<td><p>39</p></td>
+<td><p>147</p></td>
+<td><p>127</p></td>
+<td><p>+20</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/UEFAインタートトカップ.md" title="wikilink">UEFAインタートトカップ</a></p></td>
+<td><p>1</p></td>
+<td><p>4</p></td>
+<td><p>1</p></td>
+<td><p>0</p></td>
+<td><p>3</p></td>
+<td><p>4</p></td>
+<td><p>6</p></td>
+<td><p>–2</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>通算</p></td>
+<td><p>47</p></td>
+<td><p>180</p></td>
+<td><p>70</p></td>
+<td><p>28</p></td>
+<td><p>82</p></td>
+<td><p>272</p></td>
+<td><p>257</p></td>
+<td><p>+15</p></td>
+</tr>
+</tbody>
+</table>
+
+## 現所属メンバー
+
+  - 2018年2月2日現在
+
+([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))
+
+## 歴代監督
+
+ディナモでもっとも有名な監督はアンジェロ・ニクレスクである。ニクレスク監督は1955年の国内リーグ初優勝時の監督であり、1964-65シーズンにもリーグ戦を制した。ニコラエ・ニクソル・ドゥミトル監督は、1961-62シーズン、1963-64シーズン、1970-71シーズン、1974-75シーズン、1982-83シーズン、1983-84シーズンの計6回の優勝を監督として経験しており、1983-84シーズンの[UEFAチャンピオンズカップ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ "wikilink")では準決勝に到達した。イオン・ヌンヴェイラー監督は1972-73シーズンと1976-77シーズンのリーグ優勝時の監督である。
+
+[ミルチェア・ルチェスク](https://ja.wikipedia.org/wiki/ミルチェア・ルチェスク "wikilink")監督は5年間の在任期間中にクパ・ロムニエイで2回、国内リーグで1回優勝。1988-89シーズンの[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")では準々決勝に進出し、1989-90シーズンの同大会では準決勝に進出した。選手としてディナモのレジェンドの地位にあるコルネル・ディヌは1996年と1998年に監督に就任し、1999-2000シーズンに国内リーグを、2000-01シーズンにクパ・ロムニエイを制した。
+
+  - [ミルチェア・ルチェスク](https://ja.wikipedia.org/wiki/ミルチェア・ルチェスク "wikilink") 1985-1990
+
+  - [イオン・モルドヴァン](https://ja.wikipedia.org/wiki/イオン・モルドヴァン "wikilink") 1994, 2002
+
+  - [コルネル・ディヌ](https://ja.wikipedia.org/wiki/コルネル・ディヌ "wikilink") 1996, 1998-2001, 2002-2003
+
+  - [コルネル・ツァルナル](https://ja.wikipedia.org/wiki/コルネル・ツァルナル "wikilink") 1996-1997, 2007, 2009-2010, 2012-2013
+
+  - [マリン・イオン](https://ja.wikipedia.org/wiki/マリン・イオン "wikilink") 2001-2002, 2009
+
+  - [ヨアン・アンドネ](https://ja.wikipedia.org/wiki/ヨアン・アンドネ "wikilink") 2003-2005, 2010-2011, 2016-2017
+
+  - [エステバン・ビーゴ](https://ja.wikipedia.org/wiki/エステバン・ビーゴ "wikilink") 2005-2006
+
+  - [ミルチェア・レドニク](https://ja.wikipedia.org/wiki/ミルチェア・レドニク "wikilink") 2006-2007, 2008-2009, 2015.5-2016, 2018.10-
+
+  - [ワルテル・ゼンガ](https://ja.wikipedia.org/wiki/ワルテル・ゼンガ "wikilink") 2007
+
+  - [ゲオルゲ・ムルツェスク](https://ja.wikipedia.org/wiki/ゲオルゲ・ムルツェスク "wikilink") 2008, 2013.6-9
+
+  - [ダリオ・ボネッティ](https://ja.wikipedia.org/wiki/ダリオ・ボネッティ "wikilink") 2009.6-10, 2012.4-11
+
+  - [リヴィウ・チョボタリウ](https://ja.wikipedia.org/wiki/リヴィウ・チョボタリウ "wikilink") 2011.6-2012.4
+
+  - [ドリネル・ムンテアヌ](https://ja.wikipedia.org/wiki/ドリネル・ムンテアヌ "wikilink") 2012.11-12
+
+  - [フラヴィウス・ストイカン](https://ja.wikipedia.org/wiki/フラヴィウス・ストイカン "wikilink") 2013.9-2014.11, 2015.3-5
+
+  - [イオネル・ダンチウレスク](https://ja.wikipedia.org/wiki/イオネル・ダンチウレスク "wikilink") 2014.11-2015.1
+
+  - [ミハイ・テヤ](https://ja.wikipedia.org/wiki/ミハイ・テヤ "wikilink") 2015.1-3
+
+  - [コスミン・コントラ](https://ja.wikipedia.org/wiki/コスミン・コントラ "wikilink") 2017.2-9
+
+  - [ヴァシレ・ミリウツァ](https://ja.wikipedia.org/wiki/ヴァシレ・ミリウツァ "wikilink") 2017.9-2018.2
+
+  - [フロリン・ブラトゥ](https://ja.wikipedia.org/wiki/フロリン・ブラトゥ "wikilink") 2018.2-9
+
+  - [クラウディウ・ニクレスク](https://ja.wikipedia.org/wiki/クラウディウ・ニクレスク "wikilink") 2018.9-10
+
+## 歴代所属選手
+
+### GK
+
+  - [ボグダン・ステレア](https://ja.wikipedia.org/wiki/ボグダン・ステレア "wikilink") 1988-1992, 2004-2005
+
+  - [フローリアン・プルネア](https://ja.wikipedia.org/wiki/フローリアン・プルネア "wikilink") 1992-1998
+
+  - [ボグダン・ロボンツ](https://ja.wikipedia.org/wiki/ボグダン・ロボンツ "wikilink") 2002-2003, 2007-2009
+
+### DF
+
+  - [コスミン・コントラ](https://ja.wikipedia.org/wiki/コスミン・コントラ "wikilink") 1995-1999
+
+  - [オビデュ・ブルカ](https://ja.wikipedia.org/wiki/オビデュ・ブルカ "wikilink") 2002-2005
+
+  - [ゲオルゲ・ポペスク](https://ja.wikipedia.org/wiki/ゲオルゲ・ポペスク "wikilink") 2002
+
+  - [ガブリエル・タマシュ](https://ja.wikipedia.org/wiki/ガブリエル・タマシュ "wikilink") 2002-2003, 2008-2009
+
+  - [シュテファン・ラドゥ](https://ja.wikipedia.org/wiki/シュテファン・ラドゥ "wikilink") 2004-2008
+
+  - [コスミン・モツィ](https://ja.wikipedia.org/wiki/コスミン・モツィ "wikilink") 2005-2012
+
+### MF
+
+  - [ドリン・マテウツ](https://ja.wikipedia.org/wiki/ドリン・マテウツ "wikilink") 1986-1990, 1994-1995
+
+  - [ドリネル・ムンテアヌ](https://ja.wikipedia.org/wiki/ドリネル・ムンテアヌ "wikilink") 1991-1993
+
+  - [パウル・コドレア](https://ja.wikipedia.org/wiki/パウル・コドレア "wikilink") 1996-1997
+
+  - [ヴラド・ムンテアヌ](https://ja.wikipedia.org/wiki/ヴラド・ムンテアヌ "wikilink") 2000-2006, 2011
+
+  - [デニス・シェルバン](https://ja.wikipedia.org/wiki/デニス・シェルバン "wikilink") 2004, 2006-2007
+
+### FW
+
+## 脚注
+
+### 注釈
+
+<references group="注釈"/>
+
+### 脚注
+
+## 外部リンク
+
+  - [公式サイト](http://www.fcdinamo.ro/)
+
+  - [Online Tickets](http://www.biletedinamo.ro/)
+
+  - [FCD.ro](http://www.fcd.ro/)
+
+  -
+  - [Fan Club Dinamo Bucuresti](http://www.fcdb.ro/)
+
+  - [FCDinamo.net](http://www.fcdinamo.net/)
+
+  - [Dinamo Mania](http://www.dinamomania.net)
+
+  - [Ultras Tei](http://www.ultrastei.ro)
+
+  - [The history of Dinamo Bucharest](http://www.istoriafotbalului.go.ro/istoria-echipei-dinamo-bucuresti.html)
+
+  - [Dinamo - Liga 1 ranking](http://www.liga1.ro/html/informatii_echipa/Dinamo_Bucuresti-3.html)
+
+  - [Statistics on Labtof](http://www.labtof.ro/diviziaa/echipa/Dinamo_Bucuresti/60/)
+
+[Category:FCディナモ・ブカレスト](https://ja.wikipedia.org/wiki/Category:FCディナモ・ブカレスト "wikilink") [Category:ルーマニアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ルーマニアのサッカークラブ "wikilink") [Category:ブカレストのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ブカレストのサッカークラブ "wikilink")
+
+1.
+2.
+3.  1952年シーズンと1953年シーズンにリーグ得点王となった。
+4.
+5.  秋春制で行われた1948-49シーズン以前や1957-58シーズン以降とは異なり、1950年シーズンから1956年シーズンまでは春秋制で行われた。
+6.  1954年シーズンに得点王となった。1960年代に在籍したストライカーのゲオルゲ・エネと区別するために、アレグザンドレはエネⅠ、ゲオルゲはエネⅡと呼ばれる
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25. 「カタリン・ヒルダン兵団」という意味であり、北スタンドの名称やサポーター全体の呼称として使用される。[カタリン・ヒルダン](https://ja.wikipedia.org/wiki/カタリン・ヒルダン "wikilink")は24歳で死去したディナモの元選手。
+26.
+27.
+28. ヌンヴェイラー家はルーマニアで有名なスポーツ一家であり、三男のイオン、四男のリカ、六男のラドゥがディナモとルーマニア代表それぞれでプレーしている。
+29. エターナル・ダービーと呼ばれるダービーは多くの国に存在する。ブルガリア（[レフスキ・ソフィア](https://ja.wikipedia.org/wiki/レフスキ・ソフィア "wikilink")対[CSKAソフィア](https://ja.wikipedia.org/wiki/PFC_CSKAソフィア "wikilink")）、クロアチア（[ディナモ・ザグレブ対](../Page/NKディナモ・ザグレブ.md "wikilink")[ハイドゥク・スプリト](https://ja.wikipedia.org/wiki/ハイドゥク・スプリト "wikilink")）、ギリシャ（[オリンピアコスFC](https://ja.wikipedia.org/wiki/オリンピアコスFC "wikilink")対[パナシナイコスFC](https://ja.wikipedia.org/wiki/パナシナイコスFC "wikilink")）、マケドニア共和国（[FKバルダール](https://ja.wikipedia.org/wiki/FKバルダール "wikilink")対[FKペリステル](https://ja.wikipedia.org/wiki/FKペリステル "wikilink")）、セルビア（[レッドスター・ベオグラード](https://ja.wikipedia.org/wiki/レッドスター・ベオグラード "wikilink")対[パルチザン・ベオグラード](https://ja.wikipedia.org/wiki/パルチザン・ベオグラード "wikilink")）、スロベニア（[NKオリンピア・リュブリャナ対](https://ja.wikipedia.org/wiki/NKオリンピア・リュブリャナ_\(2005年\) "wikilink")[NKマリボル](https://ja.wikipedia.org/wiki/NKマリボル "wikilink")）などである。
+30.
+31.
+32. 大会記録でもある。

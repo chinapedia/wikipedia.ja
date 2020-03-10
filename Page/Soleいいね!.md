@@ -1,0 +1,333 @@
+> この記事は[Sole!](https://ja.wikipedia.org/wiki/Sole!)から翻訳されています。
+
+
+『**Soleいいね\!**』（ソレいいね）は、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBSテレビ）にて平日午前に放送されている[ローカルワイド](https://ja.wikipedia.org/wiki/ローカルワイド番組 "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
+
+## 概略
+
+1999年4月5日、『**おしゃべりパークSoleいいね\!**』（おしゃべりパークソレいいね\!）の番組名で月曜日から金曜日に放送開始。当初『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』は9時53分（以下、[日本時間](../Page/日本標準時.md "wikilink")）のニュース終了時に途中に飛び降りとなっていた。その後、『はなまるマーケット』自体が番組枠を短縮し、9時53分終了となったため、飛び降り状態は解消された。
+
+時間枠としては月曜日から木曜日は75分、金曜日のみ編成上の都合から25分の短縮版（全て中継先からの放送）であった。
+
+2004年秋改編で、平日16時台に『[とく報\!4時ら](https://ja.wikipedia.org/wiki/とく報!4時ら "wikilink")』がスタートすることに伴い、放送曜日が毎週金曜日のみに縮小されるが\[1\]、2010年秋改編から再び、月曜日から金曜日までの帯番組に改められた\[2\]。
+
+Soleはイタリア語で「太陽」をあらわすことから、タイトルロゴに太陽のイラストが描かれている。
+
+2014年3月31日、番組開始以来変わることがなかったスタジオセットが放送15周年を機に一新された。
+
+2016年4月18日、放送開始3000回を達成した\[3\]。
+
+同年10月3日より、静岡放送でも『[ひるおび\!](https://ja.wikipedia.org/wiki/ひるおび! "wikilink")・午前』をフルネット（11時から11時55分\[4\]）に移行することにともない、本番組の終了時刻を月曜日から水曜日は11時に繰り下げ（改編前比5分枠大。CMを挟まず「ひるおび・午前」に直結）、また木曜日と金曜日は[テレビショッピング](../Page/テレビショッピング.md "wikilink")放送のため10時30分に繰り上げた（改編前比25分枠小）。
+
+2017年10月2日より、静岡放送では『ひるおび\!・午前』を再度11時30分飛び乗りに変更したのに合わせ、本番組の終了時刻を月曜日から水曜日は11時20分に繰り下げ、また木曜日と金曜日は10時50分に繰り下げた（いずれも改編前比20分枠大）。
+
+2018年1月より、水曜日の放送が木曜日と金曜日に合わせて10時50分終了に30分繰り上げた。
+
+2018年4月2日より、月曜日から木曜日は9時55分から10時50分に、金曜日は9時55分から11時20分に放送時間を変更した。
+
+2019年4月2日(4月1日は、新[元号](../Page/元号.md "wikilink")「[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")」発表に伴うJNN報道特番の為、休止)より、『**放送20周年Anniversary Year**』がスタートした。
+
+2019年5月30日、6月3日からのラジオの[聴取率](../Page/聴取率.md "wikilink")調査週間に合わせて、同時間に放送のラジオ番組「[鉄崎幹人のWASABI](https://ja.wikipedia.org/wiki/鉄崎幹人のWASABI "wikilink")」との同時[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")を実施。「WASABI」パーソナリティー[鉄崎幹人](../Page/鉄崎幹人.md "wikilink")が「いいね\!」スタジオに登場して番組をＰＲし、「いいね\!」ＭC[牧野克彦](https://ja.wikipedia.org/wiki/牧野克彦 "wikilink")が「WASABI」スタジオに乗り込んで、[大槻有沙](https://ja.wikipedia.org/wiki/大槻有沙 "wikilink")と[クロストーク](https://ja.wikipedia.org/wiki/クロストーク "wikilink")を繰り広げた。
+
+2019年6月20日、[富士市](../Page/富士市.md "wikilink")に本店を置く御菓子庵 田子の月と[コラボした](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")[和菓子](../Page/和菓子.md "wikilink")『**Sole山頂？**』(定番和菓子「富士山頂」がモチーフ)の7月1日からの発売を発表(同年8月31日で発売終了)。
+
+2019年7月1日、『Sole山頂？』発売開始。当日、田子の月静岡城北店にて通常、月曜日には登場しない[原田亜弥子](https://ja.wikipedia.org/wiki/原田亜弥子 "wikilink")、新城健太アナウンサーが登場して商品を手売りした。また、同時刻に[袋井市](../Page/袋井市.md "wikilink")の[油山寺](https://ja.wikipedia.org/wiki/油山寺 "wikilink")にて、[鬼頭里枝](../Page/鬼頭里枝.md "wikilink")がヒット祈願の[滝行](../Page/滝行.md "wikilink")を実施した。
+
+2019年8月13日、『Sole山頂?』に続く20周年コラボ企画第２弾として、9月11日に入場者数400万人を達成した[三島スカイウォークとのコラボレーションが発表された](https://ja.wikipedia.org/wiki/箱根西麓・三島大吊橋 "wikilink")。
+
+2019年8月19日、三島スカイウォークとのコラボ商品『**Sola(ソラ)いいね\![スカッシュ](https://ja.wikipedia.org/wiki/エード "wikilink")**』を開発。同日より三島スカイウォーク売店にて販売を開始した（同月30日までの発売）\[5\]。
+
+2019年9月11日、三島スカイウォークから、この日に400万人を達成しそうだとの一報を受けて、牧野克彦と鬼頭里枝が現地に参上(通常、水曜日に中継の新城健太が代わってこの日はスタジオ入り)。10時43分頃、400万人目の来場者に『Solaいいね\!スカッシュ』を無事に提供した。
+
+2019年9月30日、この日からスタートの新番組『[グッとラック\!](https://ja.wikipedia.org/wiki/グッとラック! "wikilink")』がこの日のみ9時54分59秒までの放送となった為、本番組への移行はＣＭを挟まない形となるも、翌日からは9時52分30秒終了となり、前日は未放送だった本番組の見どころを紹介する10秒ＣＭもこの日から復活した。
+
+2019年10月18日、[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")放送の為、通常85分放送の金曜日が10時25分終了の30分に短縮。そこで、通常はスタジオ常駐の金曜レギュラー[コトブキツカサ](https://ja.wikipedia.org/wiki/コトブキツカサ "wikilink")がロケ係として登場。鬼頭里枝とともに三島スカイウォークに参上して、同所にて12月15日に開催の『ミニオンズラン』などのＰＲ活動を行った。
+
+2019年10月28日、田子の月、三島スカイウォークに続くコラボ企画第３弾として、沼津魚がし鮨で特別な[静岡おでん](https://ja.wikipedia.org/wiki/静岡おでん "wikilink")を開発・発売することが発表された。
+
+2019年11月27日、同月13日放送の「SHINJO Riport」にて紹介された、第32回[ジュノン・スーパーボーイ・コンテスト](https://ja.wikipedia.org/wiki/ジュノン・スーパーボーイ・コンテスト "wikilink")の[ファイナリスト](https://ja.wikipedia.org/wiki/ファイナリスト "wikilink")、渡邉多緒(わたなべ・たお)君([静岡市](https://ja.wikipedia.org/wiki/静岡市 "wikilink")在住・12歳)が、去る11月24日に開催された最終選考会で[グランプリ](https://ja.wikipedia.org/wiki/グランプリ "wikilink")(史上最年少にして[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")初)に輝いた。この日の放送で、グランプリ決定までの道のりを振り返るとともに、28・29の両日が特番で休止となった為に、通常は金曜日に放送の「いいね\!ショッピング」と「[さわやかウォーキング](https://ja.wikipedia.org/wiki/さわやかウォーキング "wikilink")」の告知も行った。
+
+2019年12月18日、沼津魚がし鮨とのコラボ企画の静岡おでんの最難間、太陽マークをかたどった「[なると](https://ja.wikipedia.org/wiki/なると "wikilink")」の[金型](../Page/金型.md "wikilink")作りに密着。また、コーナーのラストで、12月25日（[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")）から魚がし鮨全店で特別な静岡おでんの販売が発表された。
+
+2019年12月25日、コラボ商品のおでん『**サンキュー[海老](../Page/エビ.md "wikilink")～マッチ**』\[6\]販売開始。この日、流れ鮨 藤枝駅南口店から[原口大輝](https://ja.wikipedia.org/wiki/原口大輝 "wikilink")と、通常水曜日は休みの鬼頭里枝が同所から生中継した。
+
+2020年1月27日、コラボ企画第４弾として、静岡市のベーカリーショップ『ナチュール』とのコラボ企画が始動\[7\]。
+
+2020年1月31日、ＭＣ・[泉ピン子](../Page/泉ピン子.md "wikilink")による[テレビショッピング](../Page/テレビショッピング.md "wikilink")特番放送の為、通常85分放送の金曜日が10時25分終了の30分に短縮した。
+
+2020年2月4日、同月15日に[エコパアリーナで開催のコンサートのＰＲを兼ねて](https://ja.wikipedia.org/wiki/静岡県小笠山総合運動公園アリーナ "wikilink")、[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")の[青木詩織](https://ja.wikipedia.org/wiki/青木詩織 "wikilink")（[焼津市](../Page/焼津市.md "wikilink")出身)と[赤堀君江](https://ja.wikipedia.org/wiki/赤堀君江 "wikilink")（[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")出身)が生出演した（二人はこの後「[ORANGE](https://ja.wikipedia.org/wiki/ORANGE_\(テレビ番組\) "wikilink")」にも生出演した）。
+
+## 放送時間の変遷
+
+| 期間        | 放送時間（[日本時間](../Page/日本標準時.md "wikilink")） |
+| --------- | ----------------------------------------- |
+| 月曜日       | 火曜日                                       |
+| 1999.4.5  | 2004.10.1                                 |
+| 2004.10.4 | 2010.10.1                                 |
+| 2010.10.4 | 2016.9.30                                 |
+| 2016.10.3 | 2017.9.29                                 |
+| 2017.10.2 | 2017.12                                   |
+| 2018.1    | 2018.3.30                                 |
+| 2018.4.2  |                                           |
+|           |                                           |
+
+## コーナー
+
+  - 気になる\!
+  - いいねショッピング
+  - たなてん
+  - 特集ですよ\!
+      - テキトー調査員キトーは見た\!
+      - テキトーじゃない調査員マキノは見た\!
+      - [ブリリアン](https://ja.wikipedia.org/wiki/ブリリアン "wikilink")と。
+      - 七間町であいましょう（2018年12月24日の16:54 - 17:50に、これまでの歴史を一まとめにした形で「Hello\! わたしの町～しずおか七間町であいましょう～」のタイトルで[特番として放送](https://ja.wikipedia.org/wiki/特別番組 "wikilink")）。
+      - この角曲がりませんか?
+      - 静岡おマッチングルメ
+      - 静岡いいね遺産
+      - トコトコちっち♪
+      - シズオカに暮らす[外国人](https://ja.wikipedia.org/wiki/外国人 "wikilink")を訪ねて
+      - 駅から1万歩の旅(2014年10月にコースを厳選し単行本として出版\[8\])
+      - 原田亜弥子(牧野克彦)のSUNSETウォーク\!\!
+      - ブラマキノ
+      - 静岡ぶらり昼めし探訪
+      - 大槻の お～つきあいさせてください
+      - SHNJYO Report(しんじょーりぽーと)
+      - Makino Fitness(マキノフィットネス)
+      - 克彦の[富嶽三十六景](https://ja.wikipedia.org/wiki/富嶽三十六景 "wikilink")
+      - 田中くんのひとり散歩
+      - ＠SUPERプレゼンテーション
+  - きょうの中継
+  - うふふな中継
+      - キトちゃんの あそびばみ〜っけ
+  - いいねMAGIC
+  - いいね\!コレいいっSHOW
+
+### 過去のコーナー
+
+  - いいね\!ザ・ベストワン
+      - コーナータイトルは「[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")」の[オマージュ](https://ja.wikipedia.org/wiki/オマージュ "wikilink")だが、「ベストテン｣風のセットでの放送は去る2019年6月14日をもって終了。
+  - いいね\!ヒットパレード
+  - いいね\!オールヒット1030
+
+<!-- end list -->
+
+  -
+    ※「ヒットパレード」以前に放送の「新品さん」「いいね\!カフェ」「行ってきました」を統合したコーナー
+
+<!-- end list -->
+
+  - いいね\!のね
+  - ずぼらクッキング
+  - THIS IS いず
+  - いいねフラッシュ
+  - 静岡MEN図鑑
+  - 鬼頭里枝のしずおか甘味紀行
+  - shizuoka UP TOWN [DOWN TOWN](https://ja.wikipedia.org/wiki/DOWN_TOWN "wikilink")
+  - キトちゃんの[神社](https://ja.wikipedia.org/wiki/神社 "wikilink")探訪
+  - 華\*花まじ推し
+  - プラっと
+  - oh\! となりのイケシル〜イケてるシルバー世代〜
+  - 太鼓判いただきます
+  - 俺の[東海道](https://ja.wikipedia.org/wiki/東海道 "wikilink")
+  - 音街道(おとのみち)
+  - ママトーーク
+  - ブラアヤコ
+  - [雑居ビル](https://ja.wikipedia.org/wiki/雑居ビル "wikilink")だー
+  - マチ工場(こうば)X
+  - 月刊アダムとイヴ
+  - エンジョイ\!いいね村（[ジャンボエンチョーとの](https://ja.wikipedia.org/wiki/エンチョー "wikilink")[コラボ企画](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")）
+  - ケンタの一日イチゼン
+  - 小嶋アナの新スポット発見\!
+  - こじまツアーズ\!
+  - Cocina Kenta（コシーナケンタ）
+  - [ローカル線](../Page/ローカル線.md "wikilink")でGO\!
+  - チャリ[izu](https://ja.wikipedia.org/wiki/伊豆 "wikilink")
+  - 旬イチ
+  - 斉藤花奈の高原へいらっしゃい
+  - いいね\!カフェ
+  - 新品さんニュース
+  - あなたはどっちどっち
+  - グルメ探偵団モグパチ
+  - MOGUMOGU楽っキング\!
+  - おやつ食べ隊2013
+  - なにコレ
+  - とれたてトレンド
+  - 三ツ星ランチ
+  - いいね\![MAY ONE](https://ja.wikipedia.org/wiki/メイワン "wikilink")
+  - イキイキしぞーか野菜\!
+  - よくばりボード 電話DEアタッQ
+  - We Love ホームランチ
+  - 佐藤慶子先生のお片付け
+  - 旬感さきどり〜な
+  - ほっこり調査隊
+  - [伊勢丹チェック](https://ja.wikipedia.org/wiki/静岡伊勢丹 "wikilink")
+  - おまかせください\!わくわく本舗
+  - お茶の間エクササイズ
+  - [朝倉さや](https://ja.wikipedia.org/wiki/朝倉さや "wikilink")のひとり[観光協会](https://ja.wikipedia.org/wiki/観光協会 "wikilink")\!
+
+## 出演者（2019年9月30日から）
+
+過去も含めて☆は出演時静岡放送アナウンサー、★は元静岡放送アナウンサー
+
+### パーソナリティ
+
+  - 司会
+
+<!-- end list -->
+
+  - [牧野克彦](https://ja.wikipedia.org/wiki/牧野克彦 "wikilink")☆※（2018年4月2日から）木曜日担当。1月23日は[冬休み](../Page/冬休み.md "wikilink")の為休み。
+  - [原口大輝](https://ja.wikipedia.org/wiki/原口大輝 "wikilink")☆※（2019年10月1日から）火曜日担当。11月22日は、出張で休業の新城健太に代わって出演(2020年1月24日・29日にも代理で出演)。1月23日は牧野克彦の代理として登場。2月18・19日は冬休みの為休み。
+  - [原田亜弥子](https://ja.wikipedia.org/wiki/原田亜弥子 "wikilink")（2004年10月 - 2015年2月\[9\]・2016年4月 - 2019年9月）☆※水 - 金曜日(2019年4月2日から同年6月18日まで火曜も)、2019年9月30日 - 月・火曜日担当、2月13日は久しぶりに木曜スタジオに登場して、フリーアナウンサー(元・[東北放送](../Page/東北放送.md "wikilink"))[袴田彩会](https://ja.wikipedia.org/wiki/袴田彩会 "wikilink")(姉は[葉加瀬マイ](https://ja.wikipedia.org/wiki/葉加瀬マイ "wikilink"))を[自動車](../Page/自動車.md "wikilink")を使って接待した模様を紹介。同月19日、原口大輝の代理で水曜スタジオに登場。
+  - [新城健太](https://ja.wikipedia.org/wiki/新城健太 "wikilink")☆（2018年4月6日から）※水・金曜日担当、2月18・19日は原口大輝に代わって18日はスタジオ、19日は中継に登場。
+  - [大槻有沙](https://ja.wikipedia.org/wiki/大槻有沙 "wikilink")☆（2019年10月2日から）※水・木曜日担当、11月27日は休み。
+  - [小沼みのり](https://ja.wikipedia.org/wiki/小沼みのり "wikilink")☆（2019年10月4日から）※金曜日担当。10月28・29日、12月2日・3日、原田亜弥子の代理として登場。
+
+<!-- end list -->
+
+  - アシスタント
+
+<!-- end list -->
+
+  - [鬼頭里枝](../Page/鬼頭里枝.md "wikilink")★※月曜日担当、2010年3月まで☆
+
+<!-- end list -->
+
+  -
+    2月10日は小嶋健太に代わって中継を担当。
+
+<!-- end list -->
+
+  - 渡辺愛（2019年4月4日から）※木・金曜担当
+
+### コーナー司会
+
+  - [コトブキツカサ](https://ja.wikipedia.org/wiki/コトブキツカサ "wikilink")※金曜日担当
+
+<!-- end list -->
+
+  -
+    1月31日は特番放送によるコーナーカットに伴い、休み。
+
+### 中継
+
+  - [小嶋健太](https://ja.wikipedia.org/wiki/小嶋健太 "wikilink")☆（2019年9月30日 - 現在）※月曜日担当
+
+<!-- end list -->
+
+  -
+    1月29日は、原口大輝に代わって中継を担当。2月10日は鬼頭里枝に代わってスタジオに登場。
+
+<!-- end list -->
+
+  - 鬼頭里枝★（2009年4月 - 現在）※火・金曜日担当。2010年3月まで☆
+  - [原口大輝](https://ja.wikipedia.org/wiki/原口大輝 "wikilink")☆※水曜日担当
+
+### その他の出演者
+
+  - Mr.UME\&Mr.MATSU（マジシャン）
+  - [ブリリアン](https://ja.wikipedia.org/wiki/ブリリアン "wikilink") - 月イチ月曜日担当
+
+### リポーター
+
+  - 鬼頭里枝★
+  - [橋本奈都江](https://ja.wikipedia.org/wiki/橋本奈都江 "wikilink")★
+  - [BREATHE](https://ja.wikipedia.org/wiki/BREATHE "wikilink")（2014年4月から）
+  - [井川絵美](https://ja.wikipedia.org/wiki/井川絵美 "wikilink")（2016年4月から）
+  - 梶山美佐（2016年4月から）
+
+### お天気キャスター
+
+  - 田中健太郎（[ウェザーマップ](../Page/ウェザーマップ.md "wikilink")所属[気象予報士](../Page/気象予報士.md "wikilink")、2017年10月30日 - ）※11月27日は休み。
+  - [植木奈緒子](https://ja.wikipedia.org/wiki/植木奈緒子 "wikilink")（[NPO気象キャスターネットワーク会員](https://ja.wikipedia.org/wiki/気象キャスターネットワーク "wikilink")、2017年10月2日 - 10月20日、2018年8月27日 - 8月31日）
+  - [崎濱綾子](https://ja.wikipedia.org/wiki/崎濱綾子 "wikilink")（ウェザーマップ所属気象予報士、2017年10月23日 - 10月27日）
+  - [中村美公](https://ja.wikipedia.org/wiki/ウェザーマップ#所属している気象予報士 "wikilink")（ウェザーマップ所属気象予報士、2019年8月14日 - 8月16日）
+
+<!-- end list -->
+
+  - [村木祐輔](https://ja.wikipedia.org/wiki/ウェザーマップ#所属している気象予報士 "wikilink")(ウェザーマップ所属気象予報士、2019年8月13日)
+
+## 過去の出演者
+
+### パーソナリティ
+
+  - 司会
+
+<!-- end list -->
+
+  - [野田靖博](https://ja.wikipedia.org/wiki/野田靖博 "wikilink")☆（1999年4月 - 2005年9月・2010年10月 - 2013年3月）
+  - [吉田幸真](https://ja.wikipedia.org/wiki/吉田幸真 "wikilink")☆（2005年10月 - 2010年9月）
+  - [野路毅彦](https://ja.wikipedia.org/wiki/野路毅彦 "wikilink")☆（2015年4月 - 2018年3月、2018年9月19日、2019年3月18・20日）
+  - [小嶋健太](https://ja.wikipedia.org/wiki/小嶋健太 "wikilink")☆（2013年4月 - 2018年3月）
+  - [桑原秀和](https://ja.wikipedia.org/wiki/桑原秀和 "wikilink")☆（2017年10月 - 2018年3月、2018年9月21日）
+
+<!-- end list -->
+
+  - アシスタント
+
+<!-- end list -->
+
+  - 佐藤理絵☆（1999年4月 - 2003年3月）
+  - [鈴木康子](../Page/鈴木康子.md "wikilink")☆（2003年4月 - 2004年9月）
+  - [柳澤亜弓](https://ja.wikipedia.org/wiki/柳澤亜弓 "wikilink")☆（2015年9月15日 - 2019年3月26日）
+  - 壁谷梨絵（2004年10月 - 2008年9月）
+  - [木村佳那子](https://ja.wikipedia.org/wiki/木村佳那子 "wikilink")（2008年10月 - 2010年3月）
+  - [河内優美子](https://ja.wikipedia.org/wiki/河内優美子 "wikilink")（2010年4月 - 2013年3月）
+  - [木下歌織](https://ja.wikipedia.org/wiki/木下歌織 "wikilink")（2013年4月 - 2014年3月）
+  - [増田美香](https://ja.wikipedia.org/wiki/増田美香 "wikilink")（2014年4月 - 2015年3月）
+  - 斉藤花奈(さいとう・はるな、2016年4月 - 2019年3月)
+  - [荒木麻里子](../Page/荒木麻里子.md "wikilink")★（2015年3月31日 - 9月10日\[10\]）
+  - [山崎加奈](https://ja.wikipedia.org/wiki/山崎加奈 "wikilink")☆（2019年6月25日- 同年9月24日)
+
+### コーナー司会
+
+  - 遠山由美（シニア[野菜ソムリエ](https://ja.wikipedia.org/wiki/ベジタブル&フルーツマイスター "wikilink") 2010年10月 - 2012年9月）
+  - [団長安田](https://ja.wikipedia.org/wiki/団長安田 "wikilink")（[安田大サーカス](../Page/安田大サーカス.md "wikilink") 2017年10月 - 2018年3月）
+
+### 中継
+
+  - 吉田幸真☆（1999年4月 - 2004年9月）
+  - 上田朋子☆（1999年4月 - 2002年12月）
+  - [大原裕美](../Page/大原裕美.md "wikilink")☆（2003年1月 - 2003年9月）
+  - 原田亜弥子☆（2003年10月 - 2004年9月）
+  - [牧野克彦](https://ja.wikipedia.org/wiki/牧野克彦 "wikilink")☆（2003年10月 - 2004年9月）
+  - [岡村久則](https://ja.wikipedia.org/wiki/岡村久則 "wikilink")☆（ - 2017年9月）※主に水曜日担当
+  - 矢田優季（2015年4月 - 2016年3月）※月曜日担当
+  - [重長智子](https://ja.wikipedia.org/wiki/重長智子 "wikilink")☆（2019年4月8・15日、5月13日、6月3・10日）※月曜日担当
+  - [矢端名結](https://ja.wikipedia.org/wiki/矢端名結 "wikilink")☆（2019年4月22日、5月20・27日）※月曜日担当
+  - 原口大輝☆（2019年6月17・24日）※月曜日担当
+
+### リポーター
+
+  - [影島香代子](https://ja.wikipedia.org/wiki/影島香代子 "wikilink")☆
+  - [松永直子](../Page/松永直子.md "wikilink")☆
+  - 平尾典子（2001年4月 - 2004年9月）
+  - 牧野光子（2001年4月 - 2004年9月）
+  - 壁谷梨絵（2001年10月 - 2008年9月）※2004年10月以降、アシスタントを兼務。
+  - [木村佳那子](https://ja.wikipedia.org/wiki/木村佳那子 "wikilink")（2008年10月 - 2010年3月）※アシスタントを兼務。
+  - [マイケル・リーヴァス](https://ja.wikipedia.org/wiki/マイケル・リーヴァス "wikilink")（2011年4月 - 2014年3月）
+  - 島田真梨子（2013年4月 - 2014年3月）
+  - [柳瀬若菜](https://ja.wikipedia.org/wiki/柳瀬若菜 "wikilink")（2014年4月 - 2015年9月）
+
+## 脚注
+
+## 外部リンク
+
+  - [Soleいいね\!番組公式サイト](http://www.at-s.com/sbstv/program/iine/)（静岡放送）
+
+  - [Soleいいね\!](http://www.youtube.com/playlist?list=PLFEDC9B8CDBFED29B)（Youtube）
+
+  -
+[Category:ひるおび\!](https://ja.wikipedia.org/wiki/Category:ひるおび! "wikilink")
+
+[Category:1999年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のテレビ番組_\(日本\) "wikilink") [Category:静岡放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:静岡放送のテレビ番組 "wikilink") [Category:東海・北陸地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビの情報・ワイドショー番組 "wikilink") [Category:東海・北陸地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビの帯番組 "wikilink")
+
+1.  本番組のスタッフが『とく報 - 』と兼務になるため、一度は番組終了も検討されたというが、本番組も好調だったことから、週1回に縮小の上で継続となった。
+2.  『とく報 - 』終了及び『[SBSイブニングeye（現：イブアイしずおか）](https://ja.wikipedia.org/wiki/イブアイしずおか "wikilink")』前半の制作担当が編成制作局から報道局へ移ったことに伴い、再び月曜日から金曜日までの帯番組に変更された
+3.  [学研プラス](https://ja.wikipedia.org/wiki/学研プラス "wikilink")発行『[TV LIFE](../Page/TV_LIFE.md "wikilink") 静岡版』2016年4月9日 - 22日号による。
+4.  ただし、静岡放送では同番組に設けられているローカル枠はすべて行使する。
+5.  [Sola(ソラ)いいね\!スカッシュ](http://mishima-skywolk.jp/16212/) 三島スカイウォーク公式、2019年8月19日
+6.  [沼津魚がし鮨×Soleいいね\!コラボおでん「サンキュー海老～マッチ」](https://www.uogashizushi.co.jp/osusume/collaboration-oden/) 沼津魚がし鮨公式、2020年1月4日
+7.  [原田亜弥子のあやコラム Soleいいね\!コラボ企画始動(^o^)](http://www.at-s.com/blogs/ayako/2020/01/o_8.html#more) 2020年1月28日
+8.  [1](http://www.at-s.com/book/article/leisure/142354.html) 『Soleいいね\! 駅から1万歩の旅BOOK』静岡新聞アットエス、2016年8月8日閲覧
+9.  自身の[産休により](../Page/産前産後休業.md "wikilink")、一時降板。
+10. 自身の産休により、降板。

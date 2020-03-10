@@ -1,0 +1,162 @@
+> この記事は[HBC!](https://ja.wikipedia.org/wiki/HBC!)から翻訳されています。
+
+
+'''HBCミュージックナイター「フルカウント\!」 '''は、[HBCラジオ](../Page/HBCラジオ.md "wikilink")が[2007年](../Page/2007年.md "wikilink")からプロ野球のオフシーズンに[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")している[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+
+## 放送時間
+
+  - 2007年度・2008年度・2010年・2011年度
+
+<!-- end list -->
+
+  -
+    火 - 金曜日 19:00 - 21:00
+
+<!-- end list -->
+
+  - 2009年度
+
+<!-- end list -->
+
+  -
+    火 - 金曜日 17:47 - 18:30（第1部）、19:00 - 21:00（第2部）\[1\]
+
+<!-- end list -->
+
+  - 2016年度・2017年度・2019年度(『スポーツ＆ミュージックスタジアム「フルカウント！」』として放送)
+
+<!-- end list -->
+
+  -
+    火 - 金曜日 18:00 - 18:45
+
+<!-- end list -->
+
+  - 2018年度(『スポーツ＆ミュージックスタジアム「フルカウント！」』として放送)
+
+<!-- end list -->
+
+  -
+    火 - 金曜日 18:00 - 18:30
+
+## 概要
+
+同局のプロ野球中継「[HBCファイターズナイター](https://ja.wikipedia.org/wiki/HBCファイターズナイター "wikilink")」の実況アナウンサーと若手女性パーソナリティーが曜日代わりにパーソナリティーを務める、音楽バラエティ番組。リクエストなども含め、音楽はすべてフルコーラス放送する。
+
+番組冒頭の決め台詞は「この番組はファイターズ中継の実況アナウンサーと若手女性アナウンサー、もしくはパーソナリティが野球のオフシーズンにお届けする期間限定プログラム」。 なお、この時間帯ではかつて1973年から1983年まで音楽ランキング番組「ジャンボとケロ子のHBCベスト100マラソンランキング」が生放送されていた。 2012年10月からは「Music Delivery BAN BAN RADIO！」時間移動の為、2012年3月に終了。 なお、2014年10月から2016年3月までの土曜日10時からはかつて「フルカウント」でパーソナリティを務めていた水野よしまさと佐藤舞による「水野よしまさ　サタデーフルサウンド」が放送されていた。「サタデー〜」は1980年〜1990年代の曲をフルコーラスで放送、なおかつメールアドレスも同じな事から、事実上「フルカウント」の後継番組とも言える。
+
+放送終了から約4年の期間を経て、『スポーツ＆ミュージックスタジアム「フルカウント！」』として再出発。なお今回は2012年3月まで出演していた女性パーソナリティーの起用は無く、日替わりで実況アナウンサーがソロでパーソナリティーを務める。なお、今回の再始動に伴い、2016年実況アナウンサーデビューを果たした矢萩尚太郎アナが新加入、さらに2009年10月から2016年3月「山ちゃん美香の朝ドキッ！」担当の為「フルカウント」から去っていた山内要一アナウンサーが再登板することも併せて発表された。また放送時間がこれまで2時間から3時間枠だったものを、「Music Delivery BAN BAN RADIO\!」放送の為、18時からの45分編成になる。（2018年度は18時30分から「musica　lab」放送の為、30分編成となっていた。）
+
+## 出演者
+
+### パーソナリティー（2019年度）
+
+  - [川畑恒一](https://ja.wikipedia.org/wiki/川畑恒一 "wikilink")
+  - [卓田和広](https://ja.wikipedia.org/wiki/卓田和広 "wikilink")
+  - [山内要一](../Page/山内要一.md "wikilink")
+  - [渕上紘行](https://ja.wikipedia.org/wiki/渕上紘行 "wikilink")
+
+以上4名から1人が担当曜日を定めずに放送。
+
+### パーソナリティー（2018年度）
+
+  - [川畑恒一](https://ja.wikipedia.org/wiki/川畑恒一 "wikilink")
+  - [卓田和広](https://ja.wikipedia.org/wiki/卓田和広 "wikilink")
+  - [山内要一](../Page/山内要一.md "wikilink")
+  - [渕上紘行](https://ja.wikipedia.org/wiki/渕上紘行 "wikilink")
+  - [矢萩尚太郎](https://ja.wikipedia.org/wiki/矢萩尚太郎 "wikilink")
+
+以上5名から1人が担当曜日を定めずに放送。
+
+### パーソナリティー（2017年度）
+
+  - [川畑恒一](https://ja.wikipedia.org/wiki/川畑恒一 "wikilink")
+  - [卓田和広](https://ja.wikipedia.org/wiki/卓田和広 "wikilink")
+  - [山内要一](../Page/山内要一.md "wikilink")
+  - [渕上紘行](https://ja.wikipedia.org/wiki/渕上紘行 "wikilink")
+  - [矢萩尚太郎](https://ja.wikipedia.org/wiki/矢萩尚太郎 "wikilink")
+  - [水野善公](https://ja.wikipedia.org/wiki/水野善公 "wikilink")
+
+以上6名から1人が担当曜日を定めずに放送。また、前年行われていた、金曜日のHBC野球解説者のゲスト出演がなくなった。
+
+また、番組表上は水野の名前があるものの、前年と同様「ナルミッツ\!\!\!」のパーソナリティを務めている関係上、2018年2月末時点で出演実績はなく、本人も放送上ネタにしていた。 しかし、2018年3月20日の放送で矢萩と共に登場した。
+
+### パーソナリティー（2016年度）
+
+  - [川畑恒一](https://ja.wikipedia.org/wiki/川畑恒一 "wikilink")
+  - [卓田和広](https://ja.wikipedia.org/wiki/卓田和広 "wikilink")
+  - [山内要一](../Page/山内要一.md "wikilink")
+  - [渕上紘行](https://ja.wikipedia.org/wiki/渕上紘行 "wikilink")
+  - [矢萩尚太郎](https://ja.wikipedia.org/wiki/矢萩尚太郎 "wikilink")
+
+以上5名から1人が担当曜日を定めずに放送。また、金曜日はHBC野球解説者をゲストに迎えて放送する。
+
+### パーソナリティー（2011年度）
+
+  - (火)[水野善公](https://ja.wikipedia.org/wiki/水野善公 "wikilink")、佐藤舞
+  - (水)[川畑恒一](https://ja.wikipedia.org/wiki/川畑恒一 "wikilink")、[浦本可奈子](https://ja.wikipedia.org/wiki/浦本可奈子 "wikilink")
+  - (木)[卓田和広](https://ja.wikipedia.org/wiki/卓田和広 "wikilink")、[佐藤彩](../Page/佐藤彩.md "wikilink")
+  - (金)[渕上紘行](https://ja.wikipedia.org/wiki/渕上紘行 "wikilink")、[MAYU](https://ja.wikipedia.org/wiki/MAYU_\(パーソナリティ\) "wikilink")
+
+### パーソナリティー（2010年度）
+
+  - (火)卓田和広、佐藤舞
+  - (水)川畑恒一、[佐々木佑花](../Page/佐々木佑花.md "wikilink")
+  - (木)渕上紘行、[堰八紗也佳](https://ja.wikipedia.org/wiki/堰八紗也佳 "wikilink")
+  - (金)水野善公、MAYU
+
+### パーソナリティー（2009年度）
+
+  - (火)卓田和広、[若林聖子](https://ja.wikipedia.org/wiki/若林聖子 "wikilink")
+  - (水)渕上紘行、MAYU
+  - (木)川畑恒一、堰八紗也佳
+  - (金)水野善公、佐藤舞
+
+### パーソナリティー（2008年度）
+
+  - (火)川畑恒一、若林聖子
+  - (水)川畑恒一、[星りな](https://ja.wikipedia.org/wiki/星りな "wikilink")
+  - (木)卓田和広、MAYU
+  - (金)[山内要一](../Page/山内要一.md "wikilink")、[伊藤沙菜](https://ja.wikipedia.org/wiki/伊藤沙菜 "wikilink")
+
+### パーソナリティー（2007年度）
+
+  - (火)川畑恒一、佐藤彩
+  - (水)川畑恒一、[松坂有希子](../Page/松坂有希子.md "wikilink")
+  - (木)卓田和広、[奥田ゆか](https://ja.wikipedia.org/wiki/奥田ゆか "wikilink")
+  - (金)山内要一、星りな
+  - (毎日)川井"J"竜輔(中継)
+
+## 主なコーナー
+
+  - フルカウントクイズ
+      - リスナー参加のクイズコーナー。「音楽」と「スポーツ」に関するクイズ6問（2007年は左記2つのジャンルと「一般教養」の中から選ぶ）を出題。4問間違える前に3問正解したら([四球](../Page/四球.md "wikilink")を出さずに[三振](https://ja.wikipedia.org/wiki/三振 "wikilink")が取れれば)2000円分のミュージックギフト券が送られる。
+  - ミュージックフルカウント
+      - 実況アナウンサーの思い入れのある曲や話題の新譜を紹介するコーナー。毎日1つのテーマ（特定のアーティストやテーマに関連する曲）から3曲紹介する。
+      - アナウンサー陣にはそれぞれ特徴が見られる
+          - 川畑…80年代から90年代の邦楽が多い。
+          - 卓田…洋楽が多い。ただし、邦楽では2年連続で[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")特集を組んでいた。
+          - 山内…圧倒的に80年代から90年代前半の[女性アイドルの特集が多い](https://ja.wikipedia.org/wiki/アイドル "wikilink")。
+
+## 過去のコーナー
+
+  - Jのビジター中継（2007年度）
+      - 札幌市内(稀に札幌市外)からの中継コーナー
+
+## 関連番組
+
+  - [プチフル\!](https://ja.wikipedia.org/wiki/プチフル! "wikilink")
+  - [ファイターズDEナイト\!](https://ja.wikipedia.org/wiki/ファイターズDEナイト! "wikilink")
+  - [Kakiiin](../Page/Kakiiin.md "wikilink")
+  - [HBCファイターズナイター](https://ja.wikipedia.org/wiki/HBCファイターズナイター "wikilink")
+  - HBCミュージックナイター「フルカウント\!」女子会スペシャル（2011年3月19日19:00 - 20:00 JST放送。DJ:佐藤舞、MAYU）
+
+## 脚注
+
+## 外部リンク
+
+[HBCミュージックナイター「フルカウント\!」](http://www.hbc.jp/radio/full/index.html)
+
+[Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink") [Category:北海道放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:北海道放送のラジオ帯番組 "wikilink") [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink")
+
+1.  第1部と第2部の間は「[ミュージックギフト〜音楽・地球号](https://ja.wikipedia.org/wiki/ミュージックギフト〜音楽・地球号 "wikilink")」（[文化放送](../Page/文化放送.md "wikilink")制作）を放送。

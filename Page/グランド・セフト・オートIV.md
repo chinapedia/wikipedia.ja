@@ -1,0 +1,167 @@
+> この記事は[IV](https://ja.wikipedia.org/wiki/IV)から翻訳されています。
+
+
+**『グランド・セフト・オートIV』**（グランド・セフト・オート フォー、英名:**Grand Theft Auto IV**）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ロックスター・ゲームス](https://ja.wikipedia.org/wiki/ロックスター・ゲームス "wikilink")社（GTAIVの制作は[ロックスター・ノース](https://ja.wikipedia.org/wiki/Rockstar_North "wikilink")）から発売された[オープンワールド](https://ja.wikipedia.org/wiki/オープンワールド "wikilink")型[クライムアクションゲーム](https://ja.wikipedia.org/wiki/クライムアクションゲーム "wikilink")である。[グランド・セフト・オートシリーズ](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")の第9作目（メインタイトルでは6作目）。略称は『**GTA IV**』、『**グラセフIV**』。
+
+アメリカで[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")に[PLAYSTATION 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[Xbox 360用として発売され](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")、後に[PC版も発売された](../Page/パーソナルコンピュータ.md "wikilink")。[日本語](../Page/日本語.md "wikilink")版は[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")より2008年[10月30日](../Page/10月30日.md "wikilink")に発売された。
+
+## 概要
+
+本作の舞台は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の[アメリカ東海岸の架空の都市](https://ja.wikipedia.org/wiki/アメリカ合衆国東海岸 "wikilink")「[リバティーシティ](https://ja.wikipedia.org/wiki/リバティーシティ "wikilink")」である\[1\]。『[III](../Page/グランド・セフト・オートIII.md "wikilink")』の発売以来、同シリーズは『III』に関係する作品であったが、本作は前シリーズから独立しており、関連は無い。
+
+リバティーシティは『III』の舞台となり、初代「GTA」などにも登場する架空の都市であるが、本作では大分様変わりしている。 本作からゲームエンジンが一新され[RAGEによって製作された](https://ja.wikipedia.org/wiki/ロックスター・アドバンスド・ゲーム・エンジン "wikilink")。 最新作である「[グランド・セフト・オートV](https://ja.wikipedia.org/wiki/グランド・セフト・オートV "wikilink")』(1億本）に記録を塗り替えられてしまったが、それまでは2,500万本売り上げた作品であった。そして『GTAV』と世界観を共有しており、本作の5年後の[サンアンドレアス州ロスサントスが舞台となっている](https://ja.wikipedia.org/wiki/サンアンドレアス_\(グランド・セフト・オート\) "wikilink")。
+
+## ストーリー
+
+過去の出来事により、とても良いとは言えない人生を送っていた主人公[ニコ・ベリックは](https://ja.wikipedia.org/wiki/グランド・セフト・オートIVの登場人物#ニコ・ベリック "wikilink")、[リバティーシティ](https://ja.wikipedia.org/wiki/リバティーシティ "wikilink")にいる従兄弟の[ローマンから度々](https://ja.wikipedia.org/wiki/グランド・セフト・オートIVの登場人物#ローマン・ベリック "wikilink")[メール](https://ja.wikipedia.org/wiki/メール "wikilink")や[手紙](https://ja.wikipedia.org/wiki/手紙 "wikilink")を受けとっていた。
+
+スポーツカー、豪邸、女、金、アメリカンドリームの中で暮らしてる、そんなローマンの話を聞いたニコはリバティーシティでなら自分の暗い過去を捨ててやり直すことができるのではないかと思い、リバティーシティのローマンを訪れる。
+
+しかし聞いていた話とは裏腹にローマンの生活は借金とトラブルまみれで、アメリカンドリームとはかけ離れた生活だった。ニコはそんなローマンと共に、本当にアメリカンドリームを実現し、リバティーシティで自分の過去を清算しようと動き始める。
+
+## 舞台
+
+本作では過去のシリーズに出てきたリバティーシティが一新され、実際の[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")の地理に基づき、4つの地域に分割されたリバティーシティが舞台となる。ブローカーは[ブルックリン](https://ja.wikipedia.org/wiki/ブルックリン地区 "wikilink")、デュークスは[クイーンズ](https://ja.wikipedia.org/wiki/クイーンズ区 "wikilink")、ボーハンは[ブロンクス](https://ja.wikipedia.org/wiki/ブロンクス区 "wikilink")、アルゴンキンは[マンハッタン](../Page/マンハッタン.md "wikilink")に相当する。リバティーシティの西側に隣接する島はリバティーシティとは別の州として存在するオルダニーという地域であり、これはニューヨーク州に隣接する[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")を元にしている。冒頭では島の間に架けられている橋は[テロ対策により封鎖されているが](https://ja.wikipedia.org/wiki/テロリズム "wikilink")、後にその封鎖は解除され、プレイヤーは自由に街中を行き来できるようになる。
+
+リバティーシティには多くのパロディが取り入れられており、地区名のホーヴ・ビーチは[ブライトンビーチをモデルにし](https://ja.wikipedia.org/wiki/:en:Brighton_Beach "wikilink")、名前の由来は[イングランド](../Page/イングランド.md "wikilink")にある地域[ブライトン・アンド・ホーヴからきている](https://ja.wikipedia.org/wiki/:en:Brighton_and_Hove "wikilink")。また、アルゴンキンとオルダニーを結ぶブーストンネルは[リンカーン・トンネル](https://ja.wikipedia.org/wiki/リンカーン・トンネル "wikilink")をモデルにしており、名前は第16代アメリカ大統領の[エイブラハム・リンカーン](https://ja.wikipedia.org/wiki/エイブラハム・リンカーン "wikilink")を暗殺した[ジョン・ウィルクス・ブース](../Page/ジョン・ウィルクス・ブース.md "wikilink")にちなんでいる。
+
+## 登場人物
+
+## システム上の特徴
+
+本作は過去のシリーズ作と比べ、システム面でかなりの変更が加えられた。以下に特徴的なものを記述する。
+
+### ゲーム進行におけるもの
+
+  - 主人公は、ストーリーの進行により隠れ家を転々とすることになる。
+  - [携帯電話](../Page/携帯電話.md "wikilink")に通話をはじめとする様々な機能が盛り込まれており、ストーリー上の重要な要素のひとつとなっている。登場人物に電話をかけることによって（サブ）ミッションやアクティビティを発動させることができる。また、今作では特定の電話番号を入力することで[チート](https://ja.wikipedia.org/wiki/チート "wikilink")の効果が出るようになっている（このため従来の「コマンド」方式のチートは廃止されている。）一度出現させたチート項目はメニューのチートから選べる。
+  - [ネットカフェ](https://ja.wikipedia.org/wiki/ネットカフェ "wikilink")などに設置された[パソコンから接続できる仮想の](../Page/パーソナルコンピュータ.md "wikilink")[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")が存在し、[ウェブサイト](../Page/ウェブサイト.md "wikilink")を閲覧したり、メールに返信する事によってミッションを受けたりすることができる。
+  - [警察](https://ja.wikipedia.org/wiki/警察 "wikilink")のホストコンピューターが存在し、[パトカーからアクセスしてミッションを実行することができる](https://ja.wikipedia.org/wiki/パトロールカー "wikilink")。この中には[指名手配](https://ja.wikipedia.org/wiki/指名手配 "wikilink")犯を名前で検索することができる機能が存在し、ゲーム中に登場するキャラクターの多くが登録されている。
+  - 一部のミッションは一度失敗するなどしてリトライすると、キャラクターの会話が一度目と異なる。ロードを行うことによって再度ミッションを受けると、リトライでなくとも一部の台詞が若干異なることがある。
+  - 一部のミッションでは、敵となる人物の運命をプレイヤーが選択する場面が存在する。生かしておいた場合は友人になったり、後の場面で敵として再登場することがある。
+  - 指名手配システムが一新された。手配度が付くとマップ主人公を中心とした警官の包囲網が表示される。これはストーリー上で重要な要素となっている。
+  - [素手や近接](https://ja.wikipedia.org/wiki/パンチング "wikilink")[格闘](https://ja.wikipedia.org/wiki/格闘 "wikilink")武器による攻撃は、[防弾チョッキ](https://ja.wikipedia.org/wiki/防弾チョッキ "wikilink")の着用の有無に関わらず直接体力にダメージを与えるようになった。
+  - 銃撃戦におけるカバーアクションが採用された。主人公やその仲間や警察、敵のほぼ全てがこのカバーアクションを使用することによって、銃撃戦がこれまでのシリーズに比べて激しく、高度なものへと変わった。同時に武器の集弾性が重要視されるようになっている。
+  - シリーズ初のオートセーブ機能が備わった。ミッションをクリアすると自動的にセーブされる。オプションでオフにすることが可能。
+  - シリーズ初のマルチエンディングを採用している。
+  - シリーズ恒例のサブミッションのいくつかは廃止されている（例外として、物語序盤のみタクシーミッションを、パトカーに搭載されているコンピュータにアクセスする事で自警団ミッションを行える）。
+  - PS3版ではモーションセンサーを活用した操作をすることができる。
+  - PS3版、Xbox版とWindows版では若干グラフィックの違いがある。また、システムも一部異なる。
+  - ミッションの内容によってクリアした後のBGMが異なる。これはシリーズ初となる。
+
+### 主人公操作における特徴
+
+  - 服装の自由度は、前作『[SA](https://ja.wikipedia.org/wiki/グランド・セフト・オート・サンアンドレアス "wikilink")』より少なくなった。
+  - 体型や髪型を変えることはできなくなった。
+  - 前作までは車は真横、[バイクなどは前](https://ja.wikipedia.org/wiki/オートバイク "wikilink")・真横にしか撃てなかったが、車からのドライブバイがほぼ全方向に打てるようになった。ドライブバイに使用できる武器として新たに[ハンドガン](../Page/拳銃.md "wikilink")、[手榴弾](../Page/手榴弾.md "wikilink")、[火炎瓶](../Page/火炎瓶.md "wikilink")が加わったこともあり、[カーチェイス](https://ja.wikipedia.org/wiki/カーチェイス "wikilink")時の銃撃戦がより一層激しいものとなった。
+  - フレンドとのアクティビティを実行中に[酒屋](https://ja.wikipedia.org/wiki/酒屋 "wikilink")、[バーなどに入ると飲酒した状態になる](https://ja.wikipedia.org/wiki/バー_\(酒場\) "wikilink")。歩行中や乗車中は視界と操作が著しく悪化し、[飲酒運転](https://ja.wikipedia.org/wiki/飲酒運転 "wikilink")が[警察](https://ja.wikipedia.org/wiki/警察 "wikilink")に見つかると手配度が上がる。
+
+### 乗り物における特徴
+
+  - 本作からは、車両がより高度な挙動を示す様になり、それに比例してプレイヤーによる運転技術の要求が格段と上昇した。
+  - ほとんどの駐車してある車には鍵がかかっているので、盗難をする際には肘や足でガラスを割り、内鍵からドアを開けて盗むというモーションが追加された。市民に[窃盗](https://ja.wikipedia.org/wiki/窃盗 "wikilink")を目撃されると[警察](https://ja.wikipedia.org/wiki/警察 "wikilink")に通報される。
+  - 乗り物の特徴
+      - [自動車](../Page/自動車.md "wikilink")、[ボート](https://ja.wikipedia.org/wiki/ボート "wikilink")、[ヘリコプター](../Page/ヘリコプター.md "wikilink")など、全ての乗り物のディテールがリアルになった。
+      - 登場車両は全て架空のものだが、外見は実車をベースとしたものが多数存在する。
+      - 殆どの自動車には[ABSが搭載され](https://ja.wikipedia.org/wiki/アンチロック・ブレーキ・システム "wikilink")、ブレーキの使い勝手が向上した。
+      - [GTAシリーズとしては初めて](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")[タクシー](../Page/タクシー.md "wikilink")に客として乗れるようになっており、道路沿いであればどこへでも行くことができる。
+      - 本作から[GPSが実装され](../Page/グローバル・ポジショニング・システム.md "wikilink")、ミッションなどで車両に乗車するとレーダーに道順が表示されるようになった。また、ポーズメニューから目的地を設定すれば同システムが作動する。
+      - 車両の保管は車庫に代わって路上のパーキングエリアで行う。スペースはすべて一律2台まで駐車可能となっている。
+  - 乗り物の損傷による特徴
+      - 物理エンジンが一新されたことで、衝突時の車両のダメージがよりリアルになった。
+      - 銃撃を受けると、窓は被弾した場所を中心に蜘蛛の巣状のヒビが入り、車体には穴が開くようになっている。
+      - タイヤをパンクさせた状態でしばらく走行すると、バーストしてホイールだけになる。
+      - 転覆・横転しても、従来のように爆発はしない。
+      - 破損の部位や度合いによってはホイールハウスがタイヤを巻き込み、回転しなくなることがある。
+      - 足回りが損傷すると[ホイール・アライメント](https://ja.wikipedia.org/wiki/ホイール・アライメント "wikilink")が狂った状態になり、直進安定性が損なわれて右や左に進路が偏る。
+      - 猛スピードで障害物にぶつかると、主人公がフロントガラスを突き破って車外に放り出される。同様に停車及び走行中、対面走行中の車に衝突すると、NPCが同じように放り出されたり、ハンドルに頭をぶつけて死亡する事がある。稀に乗っていたNPCに火が点くこともある。
+      - [エンジン](../Page/エンジン.md "wikilink")部分を激しく損傷すると、エンジンがかからなくなることがある。
+      - 緊急自動車の警光灯が損傷すると、サイレンに異常が生じ、音が乱れる。
+  - その他
+      - 車両は改造や、[SAで存在したトレーラーの牽引などはできない](https://ja.wikipedia.org/wiki/グランド・セフト・オート・サンアンドレアス "wikilink")。しかし同車種でも細かい仕様の違いがある。特定のミッションで登場するレアカラーのものも存在する。
+      - [列車](../Page/列車.md "wikilink")や[飛行機](../Page/飛行機.md "wikilink")を操作できなくなった。また、シリーズ恒例の[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")（APCという[装甲車](../Page/装甲車.md "wikilink")は、本編には無いが[DLC](https://ja.wikipedia.org/wiki/DLC "wikilink")のEFLCにある）やSA・[VCSに登場した](../Page/グランド・セフト・オート・バイスシティ・ストーリーズ.md "wikilink")[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")は登場しない。
+      - [軍隊](../Page/軍隊.md "wikilink")は存在しない。そのため、戦闘ヘリ、装甲車はN.O.O.S.Eという[特殊部隊](../Page/特殊部隊.md "wikilink")（モデルは[SWAT](https://ja.wikipedia.org/wiki/SWAT "wikilink")）の物になった。
+
+### 一般人における特徴
+
+[GTAシリーズに必ず登場する](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")[一般人](https://ja.wikipedia.org/wiki/一般人 "wikilink")は、本作でこれまでのシリーズに比べてその動きが多彩になった。
+
+  - 顔・表情のグラフィックが向上し、主人公の一般人に対する行動によって一般人の表情が変化する。
+  - ゲームの物理エンジンが一新されたことにより、歩行や走行によって体が触れると相手が反応し、文句を言いながらよろめいたり、転倒する。
+  - 攻撃（体当たり/打撃）や銃による脅しの反応も多様化した。女性の場合、[売春婦](https://ja.wikipedia.org/wiki/売春婦 "wikilink")や[看護婦](https://ja.wikipedia.org/wiki/看護婦 "wikilink")を除いてはほとんど逃げ出すようになっている。男性の場合、[ギャング](https://ja.wikipedia.org/wiki/ギャング "wikilink")など柄の悪い者は体当たりを受けると攻撃してくることがある。ここでプレイヤーが銃を取り出すと、叫びながら逃げたり、同じく銃を取り出して反撃（発砲）する。逆に、本作のギャングは街を歩いている状態では、基本的に防衛目的以外で発砲することはない。
+  - 飲み物やバッグ、書類、携帯音楽プレイヤーなどを持ち歩く者が現れ、体を当てるとそれらを道に落とす（拾うことはない）。落ちた[タバコ](https://ja.wikipedia.org/wiki/タバコ "wikilink")などの小さな所持物は、プレイヤーが拾って投げつけることもできる。駅のホームなどでは[アルトサックス](https://ja.wikipedia.org/wiki/アルトサックス "wikilink")を吹く者もおり、指定のボタンで金を与えることができる。
+  - [犯罪](https://ja.wikipedia.org/wiki/犯罪 "wikilink")を犯し、[現行犯逮捕](https://ja.wikipedia.org/wiki/現行犯逮捕 "wikilink")され[パトカー](https://ja.wikipedia.org/wiki/パトカー "wikilink")で署へ連行される者がいる。これまでのシリーズでは[警察官](https://ja.wikipedia.org/wiki/警察官 "wikilink")は犯罪者を殺害するまで追いかけたが、本作でこのシステムは変更された。
+  - ホームレスのアクションが追加され、夜になると人目につかない場所で[ドラム缶](https://ja.wikipedia.org/wiki/ドラム缶 "wikilink")に火を起こし、仲間と共に寒さをしのいでいる。また、ニコに金を求めやってくる者もおり、いくらかの金を与えることができる。
+  - 夜になると、シリーズ恒例の売春婦が現れる。車に乗って彼女達の近くでクラクションを鳴らすと、車の前で妖しい踊りを始める。指定のボタンで乗せ、人気の無い所へ行くと3つのサービスから1つを選んで受けることができる。金額はそれぞれ異なっており、カメラアングルが制限されなくなっている。これはGTAシリーズで初となる。
+  - [タクシー](../Page/タクシー.md "wikilink")の運転手には[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")がおり、[銃口](https://ja.wikipedia.org/wiki/銃口 "wikilink")を向けると[日本語](../Page/日本語.md "wikilink")を話すこともある。
+
+### 店における特徴
+
+『[SA](https://ja.wikipedia.org/wiki/グランド・セフト・オート・サンアンドレアス "wikilink")』で可能になった[ファストフード](https://ja.wikipedia.org/wiki/ファストフード "wikilink")店や[ホットドッグ](../Page/ホットドッグ.md "wikilink")の屋台での食事や[ストリップクラブのシステムも](https://ja.wikipedia.org/wiki/ストリップ_\(性風俗\) "wikilink")、本作ではシステムに変更がなされている。
+
+  - ファストフード店や洋服屋、ストリップクラブなど、いずれも入店はドアを開けてそのまま行える（ロードがなくなった）。
+  - ファストフード店ではメニューを選ぶことができなくなった代わりに、店舗によって食べ物の種類が異なる。
+  - 屋台はこれまでよりリアルになり、ホットドッグと[ナッツ](../Page/種実類.md "wikilink")、[ハンバーガー](../Page/ハンバーガー.md "wikilink")の3種類に増えた。屋台や売主を攻撃すると一時的に販売してもらえなくなる。
+  - ストリップクラブではプライベートルームについて変更がなされた。あらかじめ店内を[ストリッパーが歩いており](https://ja.wikipedia.org/wiki/ストリップ_\(性風俗\) "wikilink")、近づくと話しかけられ特定のボタンでプライベートルームへ案内される。また、サービスを受けている間はニコやストリッパーが喋るようになっている。ポールを使って踊っている者に対して金を与え、踊りを変更させることはできなくなった。
+
+### 武器における特徴
+
+武器の種別は下記となって全体の数も減り、シンプルなものになった。
+
+  - 近接格闘武器
+  - [ハンドガン](../Page/拳銃.md "wikilink")
+  - [サブマシンガン](../Page/短機関銃.md "wikilink")
+  - [アサルトライフル](../Page/アサルトライフル.md "wikilink")
+  - [ショットガン](../Page/散弾銃.md "wikilink")
+  - [スナイパーライフル](https://ja.wikipedia.org/wiki/狙撃銃 "wikilink")
+  - [重火器](../Page/重火器.md "wikilink")
+  - 投擲武器
+
+## ラジオ局・サウンドトラック
+
+## ダウンロードコンテンツ
+
+## 備考
+
+  - 当初[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の発売予定であったが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")に延期となった。
+  - 発売直後からプレイ中または読み込み中にフリーズを起す事案が発生、ゲーム関連フォーラムに報告が殺到する事態となった。ほとんどがPS3版（Rockstar社のサーバーがトラブルを起こした状態で自動的にアクセスを行うため、ハングしてしまう）だが、360版でも発生している\[2\]。ちなみにPS3の場合はPlaystation Networkのアカウントをログアウトさせるか、LANケーブルを抜くことで回避できる。この案件については後日修正パッチが配布された。
+  - 本作では[飲酒運転](https://ja.wikipedia.org/wiki/飲酒運転 "wikilink")ができることから、[アメリカの飲酒運転防止活動団体MADD](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（Mothers Against Drunk Driving、直訳すると飲酒運転防止母の会）が、アメリカのレーティング団体[ESRB](https://ja.wikipedia.org/wiki/ESRB "wikilink")に対し、現行のM（Mature）（17歳以上対象）の販売レーティングをAO（Adult Only）に変更するよう要請し、発売中止を求めている\[3\]。なお、AOレーティングになると、アメリカの一般量販店での取り扱いはしない傾向がある。
+  - 本作は開発費が約1億ドルと言われているが、発売数日で回収し1週間で5億ドルの売上を達成した\[4\]。[ギネスブック](https://ja.wikipedia.org/wiki/ギネスブック "wikilink")に「最も開発費が使用されたテレビゲーム」として、これまで1位の[シェンムー](https://ja.wikipedia.org/wiki/シェンムー "wikilink")（約7,000万ドル）を抜いて記載された。
+  - [Take-Two Interactive社の第](https://ja.wikipedia.org/wiki/Take-Two_Interactive "wikilink")2四半期決算発表では、2008年[5月31日](../Page/5月31日.md "wikilink")時点での出荷本数は1,300万本、累計販売本数は850万本に及んでいる。日本語版を含めると約870万本を超えている。
+  - 発売初日で3億1,000万ドルの売り上げを記録、[Halo3](https://ja.wikipedia.org/wiki/Halo3 "wikilink")の記録を1日で破った。さらに1週間で600万本以上を販売し、これによる収益は5億ドル以上とされており、エンターテインメント業界の売り上げにおいて[ギネス記録を更新した](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")（これまでの過去最高は[J・K・ローリング](../Page/J・K・ローリング.md "wikilink")著作の『[ハリー・ポッターと死の秘宝](https://ja.wikipedia.org/wiki/ハリー・ポッターと死の秘宝 "wikilink")』で、発売後24時間で2億2,000万ドルの売り上げ）以上の評価の高さから、前作『[SA](https://ja.wikipedia.org/wiki/グランド・セフト・オート・サンアンドレアス "wikilink")』の2,150万本の記録を抜くのはほぼ確実と見られている<ref>[全米で驚異的なセールスを記録したゲームとは？](http://www.varietyjapan.com/news/showbiz/2k1u7d000001bjmp.html)
+
+</ref>\[5\]。
+
+  - Take-Twoの2013会計年度第1四半期の業績報告会で本作の売り上げが2,500万本を突破したことを明らかにした。2011年3月時点で2,000万本セールスを達していたと考慮すれば、およそ2年で500万本の売り上げを上乗せしたことになる\[6\]。
+  - [Steam](https://ja.wikipedia.org/wiki/Steam "wikilink")でもダウンロード発売されている。発売当初は日本からでは購入ができなかったが、現在では購入が可能である。
+
+## 日本語版
+
+[日本語](../Page/日本語.md "wikilink")版の[PLAYSTATION 3版](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、および[Xbox 360版が](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月30日](../Page/10月30日.md "wikilink")に発売された。前作『[SA](https://ja.wikipedia.org/wiki/グランド・セフト・オート・サンアンドレアス "wikilink")』などにあった表現やプレイヤーの行動の規制はなくなったが、取扱説明書のページの一部分やゲームの一部が変更されている。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に総販売元のTake-Two Interactiveの日本支社設立が発表され、発売元をカプコンから2Kに委譲した。
+
+PC完全日本語版は、[2009年](../Page/2009年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")に[サイバーフロント](https://ja.wikipedia.org/wiki/サイバーフロント "wikilink")より発売された。2009年[11月10日](../Page/11月10日.md "wikilink")に配布されたバージョン1.0.5.2より海外版と日本版は共通化され、[MOD無しに完全日本語化された](https://ja.wikipedia.org/wiki/Mod_\(コンピューターゲーム\) "wikilink")。
+
+また、[CEROの審査を受けた](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")として初めて[Z（18才以上のみ対象）の区分となった](https://ja.wikipedia.org/wiki/CEROレーティング18才以上のみ対象ソフトの一覧 "wikilink")。
+
+[2014年](../Page/2014年.md "wikilink")1月、主に当ゲームを含めた「残虐ゲーム」の過度および強要によるプレーにより9歳の男児が「ストレス性の自律神経障害」を被ったとして、男児の父親が強要容疑で[逮捕](../Page/逮捕.md "wikilink")された。ゲームの強要罪による逮捕は前例がなく「異例の事件」であると報じられた。逮捕にふみきった京都府警木津署の幹部は「副次的ではあるが、社会に対する警鐘にもなれば」と話しているという\[7\]。
+
+2014年5月31日、PlayStation3版『グランド・セフト・オート IV』のSocial Clubウェブサイトのステータス確認とランキング、ゲーム内のマルチプレイランキングが終了した\[8\]。なお、オンライン対戦は可能になっている。
+
+## 脚注
+
+## 外部リンク
+
+  - [Rockstar Games: Grand Theft Auto IV - カプコン](http://www.gtaiv.jp/)
+  - [グランド・セフト・オートIV PC版【日本語マニュアル版】 - サイバーフロント](http://www.cyberfront.co.jp/title/gta4/)
+  - [Rockstar Games: Grand Theft Auto IV - Rockstar Games](http://rockstargames.com/IV/)
+
+[Category:Grand_Theft_Auto](https://ja.wikipedia.org/wiki/Category:Grand_Theft_Auto "wikilink") [Category:2008年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2008年のコンピュータゲーム "wikilink") [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink") [Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:オープンワールドゲーム](https://ja.wikipedia.org/wiki/Category:オープンワールドゲーム "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:復讐を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:復讐を題材としたコンピュータゲーム "wikilink")
+
+1.  ゲームユニオン ｐ29 [株式会社三才ブックス](https://ja.wikipedia.org/wiki/株式会社三才ブックス "wikilink")
+2.  [1](http://mainichi.jp/life/electronics/cnet/archive/2008/04/30/20372379.html)
+3.  [2](http://www.gamespark.jp/modules/news/index.php?p=5815)
+4.  [販売本数600万本！ 『Grand Theft Auto IV』一週間で5億ドルのセールスを記録](http://gs.inside-games.jp/news/158/15846.html)
+5.
+6.  [『GTA IV』の売り上げが2,500万本を突破、この2年間で500万本を上乗せする驚異的なセールスに](http://www.gamespark.jp/article/2013/07/31/42415.html)
+7.
+8.  [グランド・セフト・オートIV](https://store.playstation.com/ja-jp/product/JP0230-NPJB00500_00-GTAIVDIGITAL0001)プレイステーション公式サイト

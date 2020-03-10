@@ -1,0 +1,404 @@
+> この記事は[LDH \(\)](https://ja.wikipedia.org/wiki/LDH_\(\))から翻訳されています。
+
+
+**株式会社LDH** (*LDH Corporation*) は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")にあった[清算株式会社である](https://ja.wikipedia.org/wiki/清算#会社法上の清算 "wikilink")。かつては**株式会社ライブドア**（）として、[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")、[メディア](../Page/メディア_\(媒体\).md "wikilink")、[金融](../Page/金融.md "wikilink")に関する事業を行っていた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")であった。
+
+「ライブドア」ブランドそのものは1999年に[前刀禎明](https://ja.wikipedia.org/wiki/前刀禎明 "wikilink")らが[株式会社ライブドア](https://ja.wikipedia.org/wiki/ライブドア_\(インターネットサービスプロバイダ\) "wikilink")（）として設立し、広告収入の形態をとることにより[インターネット接続サービスを無料で提供するサービスに遡る](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")。その後、ビジネスモデルの崩壊と経営悪化により、2002年に[堀江貴文](https://ja.wikipedia.org/wiki/堀江貴文 "wikilink")が率いる株式会社オン・ザ・エッヂ（）にサービスを譲渡し、ライブドア（前刀）は後に解散した。堀江の会社はエッジ株式会社（）への商号変更を経て2004年に株式会社ライブドア（）に商号変更した。
+
+2006年の有価証券報告書の虚偽記載事件（[ライブドア事件](https://ja.wikipedia.org/wiki/ライブドア事件 "wikilink")）と株式市場の混乱（[ライブドア・ショック](../Page/ライブドア・ショック.md "wikilink")）を経て、ライブドア（堀江）は持株会社化により株式会社ライブドアホールディングス（のちに株式会社LDHへ商号変更）に変更し、新たにライブドアの事業会社として株式会社ライブドア（出澤）が設立された。2010年にLDHが保有するライブドア（出澤）の全株式をNHN Japanに譲渡し、2012年1月に[データセンター](https://ja.wikipedia.org/wiki/データセンター "wikilink")と有料のインターネット接続サービス事業を残し、ポータルサイト「ライブドア」事業をNHN Japan（→[LINE](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")）に吸収、株式会社ライブドア（出澤）は株式会社データホテル（→[テコラス](https://ja.wikipedia.org/wiki/NHNテコラス "wikilink")）に商号変更し、会社名としてのライブドアは消滅した。
+
+便宜上本項における社名としての「ライブドア」を、
+
+  - 最初に無料ISPサービスを提供するために[前刀禎明](https://ja.wikipedia.org/wiki/前刀禎明 "wikilink")が設立した会社を「**ライブドア（前刀）**」
+  - [堀江貴文](https://ja.wikipedia.org/wiki/堀江貴文 "wikilink")が設立したオン・ザ・エッヂの流れを汲み、ライブドア（前刀）から事業を譲受した後に社名をライブドアへ変更した会社を「**ライブドア（堀江）**」（オン・ザ・エッヂ→エッジ→ライブドア→ライブドアホールディングス→LDH）
+  - ライブドア事件後にライブドア（堀江）の一部事業を承継すると同時に[出澤剛](https://ja.wikipedia.org/wiki/出澤剛 "wikilink")が初代代表取締役を務めた事業会社を「**ライブドア（出澤）**」（ライブドア→データホテル）
+
+と表記する。
+
+なお、[同名の芸能プロダクションおよびその企業グループとは無関係である](../Page/LDH_\(芸能プロダクション\).md "wikilink")。
+
+## 概要
+
+### オン・ザ・エッヂの設立と急速な事業拡大
+
+1996年、当時[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")に在学していた[堀江貴文](https://ja.wikipedia.org/wiki/堀江貴文 "wikilink")ら大学生4人によって[ウェブサイト](../Page/ウェブサイト.md "wikilink")の制作請負を手がける「**有限会社オン・ザ・エッヂ**」として設立される。
+
+インターネット関連ビジネスで急成長を遂げ、株式会社への組織変更および[東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")[マザーズ](../Page/マザーズ.md "wikilink")市場への上場を果たした。この頃には[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")や[globe](https://ja.wikipedia.org/wiki/globe "wikilink")などのオフィシャルサイトも制作している。
+
+その後、インターネット広告事業やインターネットデータセンター事業にも参入。2002年2月には電子メールソフト[Eudora](https://ja.wikipedia.org/wiki/Eudora "wikilink")日本語版の開発販売をするなど、ソフトウェアの代理店も手がけていた。電子決済サービスの[ビットキャッシュ](https://ja.wikipedia.org/wiki/ビットキャッシュ "wikilink")やソフトウェア販売の[プロジー](https://ja.wikipedia.org/wiki/プロジー "wikilink")など企業の買収も同時期に始め、同年11月には経営破綻した（初代）株式会社ライブドアから同社のインターネット無料接続サービスとライブドアのブランドを譲り受けた。
+
+2003年には事業の主軸をポータルサイト「ライブドア」に移行し、「**エッジ株式会社**」に商号変更。さらに2004年2月には「**株式会社ライブドア**」に商号変更、本社機能を東京都[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")から[六本木ヒルズ森タワー](../Page/六本木ヒルズ森タワー.md "wikilink")に移転（登記上の本店はデータホテルのサーバがあった東京都[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[歌舞伎町](https://ja.wikipedia.org/wiki/歌舞伎町 "wikilink")）。その後も[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")の開発販売を手がける[ターボリナックス](https://ja.wikipedia.org/wiki/ターボリナックス "wikilink")と会計ソフトの開発販売を手がける[弥生の完全子会社化](../Page/弥生_\(ソフトウェア\).md "wikilink")、電子掲示板の[したらばJBBS](https://ja.wikipedia.org/wiki/したらばJBBS "wikilink")やインターネットラジオ[ねとらじ](../Page/ねとらじ.md "wikilink")の営業権を譲受するなど急速的に拡大を続けた。
+
+2005年2月には[通信と放送の融合](https://ja.wikipedia.org/wiki/通信と放送の融合 "wikilink")を目指して[AMラジオ放送会社である](../Page/ラジオ.md "wikilink")[ニッポン放送](../Page/ニッポン放送.md "wikilink")の発行済み株式の35%を取得し筆頭株主になったことで、同社の子会社で[株式公開買い付け](https://ja.wikipedia.org/wiki/株式公開買い付け "wikilink") (TOB) を行なっていた[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")とニッポン放送の株をめぐる騒動が起きるも4月18日には和解。ライブドアが保有するニッポン放送の株式を段階的にフジテレビジョンへ譲渡した。同年6月にはライブドア（前刀）から譲り受けた無料接続サービスを終了し、中古自動車販売の[ジャック・ホールディングス](https://ja.wikipedia.org/wiki/カーチスホールディングス "wikilink")（ライブドアオートを経てカーチス）及び通信販売会社の[セシール](https://ja.wikipedia.org/wiki/セシール "wikilink")を買収した。
+
+### ライブドア事件
+
+2006年1月16日、[証券取引法](https://ja.wikipedia.org/wiki/証券取引法 "wikilink")違反（有価証券報告書虚偽記載）により東京地方検察庁[特別捜査部](https://ja.wikipedia.org/wiki/特別捜査部 "wikilink")の捜索を受けたことがきっかけで、翌日から同社と系列会社の株の売り注文が殺到、18日には[東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")の売買システムの処理可能件数に迫ったことで、全銘柄取引停止という異例の措置が取られるまでに至った（[ライブドア・ショック](../Page/ライブドア・ショック.md "wikilink")）。23日には堀江や同社の財務担当を務めた[宮内亮治](https://ja.wikipedia.org/wiki/宮内亮治 "wikilink")ほか4名が証券取引法違反で逮捕された。25日に堀江は社長を辞任し、後任として[熊谷史人](https://ja.wikipedia.org/wiki/熊谷史人 "wikilink")が代表取締役に、[平松庚三](https://ja.wikipedia.org/wiki/平松庚三 "wikilink")が取締役でないまま社長（[執行役員](https://ja.wikipedia.org/wiki/執行役員 "wikilink")社長）に就任する。翌月22日に堀江ら3名を有価証券報告書の虚偽記載で再逮捕、熊谷も新たに逮捕され、代表取締役は[山崎徳之](https://ja.wikipedia.org/wiki/山崎徳之 "wikilink")に交代した。平松が社長でありながら代表権がなく取締役でもなかった事情は、平松は同社の上級副社長ではあったが元々取締役ではなく、また急な就任であった為取締役として指名されるのに必要な株主総会を経ていなかったことによる。よって、平松が取締役に指名されるまでの間の代表権は既に取締役であった熊谷と山崎が担当することになった。
+
+3月13日、証券取引等監視委員会から2004年9月期の連結決算を粉飾した疑いがあるとして、堀江、宮内、熊谷ほか5名とライブドア社は東京地検特捜部に告発され、東京証券取引所はライブドア株および子会社のライブドアマーケティング社の株式を4月14日に廃止することを決定し、予定通り上場が廃止された。
+
+6月14日に株主総会で社長の平松庚三ほか執行役員2名が取締役に就任したと同時に、直後の取締役会で平松と副社長の清水が共に代表取締役となった。前代表取締役の山崎は取締役から退きライブドアを離れた。
+
+### 再編、NHN Japanとの統合へ
+
+2007年、ライブドアオートとして運営してきたカーチスを筆頭に子会社の売却を進めると同時に持株会社への移行も進み、2007年（平成19年）4月1日に「**株式会社ライブドアホールディングス**」へ社名変更し、ライブドアの事業会社として新たに株式会社ライブドア（出澤）を設立した。ライブドア（堀江）から社名変更したライブドアホールディングスの社長は平松が継続し、事業子会社のライブドア（出澤）の初代代表取締役社長には[出澤剛](https://ja.wikipedia.org/wiki/出澤剛 "wikilink")が就任した。同年中にライブドアホールディングスはライブドアグループ各社の売却及び清算をたて続けに行い、年末に平松は代表取締役社長を退任した。新しい代表取締役社長に[アリックスパートナーズ](https://ja.wikipedia.org/wiki/アリックスパートナーズ "wikilink")の[石坂弘紀](https://ja.wikipedia.org/wiki/石坂弘紀 "wikilink")を迎え、グループの解体と再編などの整理を継続しつつ、2008年（平成20年）8月1日には「**株式会社LDH**」へ再び商号変更した。
+
+2010年5月10日、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")[NHN](https://ja.wikipedia.org/wiki/NHN "wikilink")社傘下の[NHN Japan社にLDHが保有するライブドア全株式を](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")63億460万円（約900億ウォン）で譲渡された\[1\]。これによって、ライブドア（出澤）はライブドア（堀江）との関係が消滅した。LDHはライブドア（出澤）の売却で関連子会社などのグループ解体・再編に一定の目処がついたことから、2011年8月の取締役会で解散を決議\[2\]。清算手続き開始した。
+
+2012年1月1日にはライブドア（出澤）のポータルサイト事業などが親会社のNHN Japan（→LINE）本体に移管され、データセンターやインターネット接続サービスなどの通信事業はライブドア（出澤）に残される形となり、同日に株式会社ライブドアから株式会社[データホテルに商号変更した](https://ja.wikipedia.org/wiki/テコラス "wikilink")。
+
+## 沿革
+
+### 黎明期
+
+  - 1996年（平成8年）4月 - [堀江貴文](https://ja.wikipedia.org/wiki/堀江貴文 "wikilink")、[有馬あきこ](https://ja.wikipedia.org/wiki/有馬あきこ "wikilink")ら大学生4人によって、[ホームページ](../Page/ホームページ.md "wikilink")制作を業とする『**有限会社オン・ザ・エッヂ**』（）が設立。資本金には、有馬の父からの出資600万円が用いられた。
+  - 1997年（平成9年）7月 - 増資を行い、株式会社に組織変更。
+  - 1998年（平成10年）
+      - 9月 - [インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")広告事業、サイバークリックを開始。
+      - 12月 - クリック保障型[電子メール](../Page/電子メール.md "wikilink")広告サービスサイバークリック開始。
+  - 1999年（平成11年）
+      - 10月 - **CYBERCLICK AGENT S.L.**をスペインで設立（2000年6月に[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")化）。
+      - 11月 - インターネットコミュニティ運営目的の『株式会社フープス』を設立（2001年6月売却）。
+  - 2000年（平成12年）1月 - 本店を東京都渋谷区渋谷三丁目3番5号に移転。
+
+### 上場後
+
+  - 2000年
+      - 4月 - [東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")[マザーズ](../Page/マザーズ.md "wikilink")市場に[上場](../Page/株式公開.md "wikilink")。証券コードは4753。
+      - 4月 - 投資事業子会社、『株式会社キャピタリスタ』設立。
+      - 4月 - 携帯情報端末向けシステム開発、『株式会社スクイズ研究所』を設立（2004年3月MBOにより独立）。
+      - 4月 - インターネットデータセンター事業「データホテル」開始。
+      - 5月 - EC（[電子商取引](../Page/電子商取引.md "wikilink")）事業を行う『株式会社エッヂコマース』設立（2001年12月事業統合）。
+      - 10月 - [中国](../Page/中華人民共和国.md "wikilink")[大連に](https://ja.wikipedia.org/wiki/大連市 "wikilink")『英極軟件開発有限公司』設立。
+  - 2001年（平成13年）12月 - [株式交換](../Page/株式交換.md "wikilink")で『株式会社パイナップルサーバーサービス』を完全子会社化（2003年4月に合併）。
+  - 2002年（平成14年）
+      - 2月 - 電子メールソフト「Eudora」の日本語版開発・販売開始。
+      - 3月 - 株式交換で『株式会社アットサーバー』を完全子会社化（2003年4月に合併）
+      - 5月 - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")に現地法人を設立
+      - 6月 - 『株式会社アスキーイーシー』の営業権を譲受。
+      - 8月 - 『ビットキャッシュ株式会社』、『ビットキャッシュコミュニケーションズ』の株式を取得し完全子会社化。（2003年4月『ビットキャッシュ』株式会社と合併）
+      - 9月 - 『プロジーグループ株式会社』の株式を取得し子会社化（2002年11月に株式交換により完全子会社化2003年4月合併）。
+      - 11月 - 経営破綻した『[株式会社ライブドア](https://ja.wikipedia.org/wiki/ライブドア_\(インターネットサービスプロバイダ\) "wikilink")』（前刀、）より営業権を譲受。
+  - 2003年（平成15年）
+      - 3月 - 『エッジテレコム株式会社』設立（2005年6月、『株式会社ライブドアマーケティング』（現『株式会社[メディアイノベーション](https://ja.wikipedia.org/wiki/メディアイノベーション "wikilink")』）に全株式譲渡、2005年7月、『株式会社ビジネスソリューションズ』に商号変更）
+      - 3月 - 『株式会社イーエックスマーケティング』設立（2004年11月に『バリュークリックジャパン株式会社』に吸収合併）
+      - 4月 - 商号を『**エッジ株式会社**』（）に変更。ソフトウェア販売事業を行っている子会社、『[プロジー](https://ja.wikipedia.org/wiki/プロジー "wikilink")グループ株式会社』を吸収合併。
+      - 5月 - 『株式会社バガボンド』の株式を取得し子会社化（2003年12月、『ネットアンドセキュリティ総研株式会社』（NS総研）に社名変更）
+      - 9月 - [イーバンク銀行と資本提携](../Page/楽天銀行.md "wikilink")。その後両社間に摩擦が生じ訴訟問題に発展した。2004年10月和解契約を結び提携解消\[3\]\[4\]。
+
+### 「ライブドア」
+
+  - 2004年（平成16年）
+      - 2月 - ライブドア（前刀）から譲り受けた無料[ISPのサービス名](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")「livedoor」を社名に採用し、『**株式会社ライブドア**』（）に商号変更。[株式分割](../Page/株式分割.md "wikilink")1:100（以下[項目を参照](https://ja.wikipedia.org/wiki/#株式分割 "wikilink")）。
+      - 2月 - 『株式会社ブロードバンドピクチャーズ』設立
+      - 3月 - 『日本グローバル証券株式会社』（現 『ライブドア証券株式会社』）の株式を93.84%取得。連結子会社化。後に完全子会社化
+      - 3月 - 『[バリュークリックジャパン](https://ja.wikipedia.org/wiki/バリュークリックジャパン "wikilink")株式会社』（現 『株式会社[メディアイノベーション](https://ja.wikipedia.org/wiki/メディアイノベーション "wikilink")』）の株式を84.68％取得。連結子会社化。
+      - 5月 - [Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")の1つとして知られる[Turbolinux](../Page/Turbolinux.md "wikilink")を開発する『[ターボリナックス](https://ja.wikipedia.org/wiki/ターボリナックス "wikilink")株式会社』を完全子会社化。
+      - 6月 - [プロ野球](../Page/プロ野球.md "wikilink")球団[大阪近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")を買収したい旨の意思を表明（以下[項目を参照](https://ja.wikipedia.org/wiki/#プロ野球参入計画 "wikilink")）。
+      - 9月 - 大手[出会い系サイト](../Page/出会い系サイト.md "wikilink")出会いステーションを運営する『キューズネット』を買収。また、『株式会社メディアクリップ』から、スレッドフロート型掲示板無料レンタルサービス「[したらばJBBS](https://ja.wikipedia.org/wiki/したらばJBBS "wikilink")」を、『有限会社トリプルエーコミュニケーションズ』より「[AAA\! CAFE](https://ja.wikipedia.org/wiki/AAA!_CAFE "wikilink")」の無料レンタル掲示板サービスとレンタルホームページサービスを、個人運営のネットラジオサービス「[ねとらじ](../Page/ねとらじ.md "wikilink")」の営業権を続けて譲渡を受ける。
+      - 10月 - [Skype](https://ja.wikipedia.org/wiki/Skype "wikilink")よりライセンス（独占契約ではない）を得て「**livedoor Skype**」ソフトウェアを配布開始し、マニュアルなどを同梱させたパッケージを発売した。パッケージには堀江の顔を起用していたが、2006年に堀江が逮捕されてからはパッケージが回収されることとなった。
+      - 11月9日 - 会計ソフトを主業とする[弥生株式会社の株式を](../Page/弥生_\(ソフトウェア\).md "wikilink")100億円で取得。株式交換も併用し、同年12月20日に完全子会社化。
+  - 2005年（平成17年）
+      - 1月24日 - [山口県](../Page/山口県.md "wikilink")の[第二地方銀行](../Page/第二地方銀行.md "wikilink")・[西京銀行](../Page/西京銀行.md "wikilink")と提携してインターネット専業銀行の[西京ライブドア銀行](https://ja.wikipedia.org/wiki/西京ライブドア銀行 "wikilink")（仮称）を設立する方針を明らかにした。[銀行免許](https://ja.wikipedia.org/wiki/銀行免許 "wikilink")を取得次第、同年内めどの営業開始を目指していた。
+      - 2月8日 - 『[ニッポン放送](../Page/ニッポン放送.md "wikilink")』の発行済み株式の35%を取得。調達資金は『[リーマン・ブラザーズ](https://ja.wikipedia.org/wiki/リーマン・ブラザーズ "wikilink")証券』に対して、MSCB（転換価格の修正条項付き[転換社債型新株予約権付社債](https://ja.wikipedia.org/wiki/転換社債型新株予約権付社債 "wikilink")）を発行して得た800億円より。
+      - 5月23日 - 『ニッポン放送』の株式を32.4%保有する『ライブドア・パートナーズ』を『フジテレビ』に売却（貸付金の回収を含め670億円）。フジテレビを割当先とした[第三者割当増資](https://ja.wikipedia.org/wiki/第三者割当増資 "wikilink")を実施（発行総額440億円）。
+      - 6月30日 - ライブドア（前刀）から引き継いでいた無料ISPを終了。有料サービスのみへ。
+      - 9月15日 - 『ジャック・ホールディングス株式会社』（現社名 『株式会社[カーチス](https://ja.wikipedia.org/wiki/カーチスホールディングス "wikilink")』）の増資引受等により、株式の51%を取得し連結子会社化。
+      - 9月20日 - [ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")[Opera](https://ja.wikipedia.org/wiki/Opera "wikilink")の完全無広告、無料化に伴い、国内のOpera代理販売及びサポート業務を終了。
+      - 11月22日 - 関連会社の『株式会社ライブドアマーケティング』（現『株式会社メディアイノベーション』）が『株式会社[セシール](https://ja.wikipedia.org/wiki/セシール "wikilink")』の株式の過半数を取得。連結子会社化。
+      - 12月5日 - [経団連への入会が承認される](https://ja.wikipedia.org/wiki/日本経済団体連合会 "wikilink")。
+      - 12月25日 - 本店所在地を東京都新宿区歌舞伎町から東京都[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[六本木](../Page/六本木.md "wikilink")に変更。
+  - 2006年（平成18年）
+      - 1月16日 - [証券取引法](https://ja.wikipedia.org/wiki/証券取引法 "wikilink")違反の容疑により、六本木ヒルズ内の本社・堀江社長の自宅・新宿の事業所などが東京地方検察庁特別捜査部による家宅捜査を受ける。翌日はライブドア関連銘柄の株価が軒並みストップ安になり、他の新興市場を中心とした株価も影響され全面安になる。また急激な出来高増加による負荷増大のために東京証券取引所の取引が停止するなどの事態も発生した。この出来事は「**[ライブドア・ショック](../Page/ライブドア・ショック.md "wikilink")**」と呼ばれた。
+      - 1月23日 - 証券取引法違反の疑いで東京地方検察庁特別捜査部に堀江貴文代表取締役、財務担当の宮内亮治取締役、関連会社『ライブドアマーケティング』（現 『メディアイノベーション』）の社長を兼ねる[岡本文人](https://ja.wikipedia.org/wiki/岡本文人 "wikilink")取締役、金融子会社ライブドアファイナンスの中村長也社長4名が逮捕された。
+      - 1月24日 - 宮内亮治取締役の辞任が発表され、ライブドアの取締役は5人となり、堀江・岡本の両取締役が取締役会を欠席しても取締役会の決議が可能となった。これを受けて取締役会が招集され、堀江貴文代表取締役社長の代表権及び社長の異動が発表された。後任の代表取締役に[熊谷史人](https://ja.wikipedia.org/wiki/熊谷史人 "wikilink")取締役が、執行役員社長として[平松庚三](https://ja.wikipedia.org/wiki/平松庚三 "wikilink")執行役員上級副社長が就任。
+      - 1月25日 - 堀江貴文前社長、岡本文人前『ライブドアマーケティング』（現 『メディアイノベーション』）社長がライブドア取締役を辞任。
+      - 2月1日 - 完全子会社5社（『株式会社サイバーアソシエイツ』、『プロジー株式会社』、『株式会社ワイワイシー』、『株式会社キューズ・ネット』、『有限会社セッション』）を吸収合併。
+      - 2月9日 - 『株式会社ライブドアオート』（現社名 『株式会社カーチス』）と『[メディアエクスチェンジ](https://ja.wikipedia.org/wiki/メディアエクスチェンジ "wikilink")株式会社』がライブドアグループからの離反を表明。
+      - 2月22日 - 証券取引法違反（有価証券報告書の虚偽記載）の疑いで、堀江貴文前代表取締役ら3名を再逮捕し、熊谷史人ライブドア代表取締役を新たに逮捕した。これを受け、代表取締役の異動を発表し、[山崎徳之](https://ja.wikipedia.org/wiki/山崎徳之 "wikilink")取締役が代表取締役に就任。
+      - 3月13日 - 証券取引等監視委員会は、2004年9月期の連結決算を[粉飾した疑いで堀江貴文元代表取締役社長](https://ja.wikipedia.org/wiki/粉飾決算 "wikilink")、宮内亮治元財務担当取締役、熊谷史人元代表取締役、関連会社『ライブドアマーケティング』（現 『メディアイノベーション』）の元社長の岡本文人元取締役、金融子会社[ライブドアファイナンス](https://ja.wikipedia.org/wiki/ライブドアファイナンス "wikilink")の中村長也元社長4名と法人としてのライブドアを証券取引法違反（有価証券報告書の虚偽記載）の疑いで東京地方検察庁特別捜査部に告発した。告発を受け、東京証券取引所はライブドア株およびライブドアマーケティング（現 メディアイノベーション）株の上場廃止を2006年4月14日に下すことを決定した。また、同日ライブドアでも記者会見を行い、山崎徳之代表取締役・羽田寛取締役・熊谷史人取締役が退任することを決めた。
+      - 3月13日 - 取締役会を開催し、2006年6月中旬に臨時[株主総会](../Page/株主総会.md "wikilink")の開催、新任取締役候補の一部を決定。新任取締役候補に選任されたのは、[平松庚三](https://ja.wikipedia.org/wiki/平松庚三 "wikilink")社長、[清水幸裕](https://ja.wikipedia.org/wiki/清水幸裕 "wikilink")執行役員上級副社長、[落合紀貴](https://ja.wikipedia.org/wiki/落合紀貴 "wikilink")執行役員副社長。
+      - 3月13日 - [東京地方裁判所](../Page/東京地方裁判所.md "wikilink")へ一時[取締役](https://ja.wikipedia.org/wiki/取締役 "wikilink")の選任を申し立て。
+      - 3月16日 - 『株式会社[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")』が保有のライブドア株式1億3374万株について、フジテレビを売主、株式会社[USEN](https://ja.wikipedia.org/wiki/USEN "wikilink")の[宇野康秀](https://ja.wikipedia.org/wiki/宇野康秀 "wikilink")社長を買主とする株式譲渡契約を締結したと発表した。
+      - 3月16日 - ライブドア（堀江）と『株式会社USEN』は共同の記者会見を開催し、包括的業務提携の締結を発表した。
+      - 3月17日 - 東京地方裁判所より腰塚和男弁護士が一時取締役として選任された。
+
+### 上場廃止後
+
+  - 2006年
+      - 4月14日 - ライブドアの株式が[上場廃止](https://ja.wikipedia.org/wiki/上場廃止 "wikilink")。
+      - 5月29日 - 『株式会社ライブドアオート』が、8月1日付で『株式会社カーチス』に商号を変更することを発表。理由として、一連の事件により失墜したライブドア・ブランドの営業への悪影響を払拭することを挙げている。
+      - 6月14日 - 臨時[株主総会](../Page/株主総会.md "wikilink")が[幕張メッセ](../Page/幕張メッセ.md "wikilink")にて開催され、取締役選任等の全議案が賛成多数で可決された。ただ、この臨時株主総会は2万人規模の会場を用意していたにもかかわらず参加者は1800人程度であり、「なんで平日の、誰もが忙しい時間帯に開くのか。あれだけの事件を起こしておきながら。普通はみんなが来られる休日にやるもんでしょ?」といった批判が相次ぎ、総会終了間際にはあちらこちらから怒号も飛んだ。
+      - 6月14日 - 臨時[株主総会](../Page/株主総会.md "wikilink")終了後の臨時[取締役会](https://ja.wikipedia.org/wiki/取締役会 "wikilink")に於いて、平松取締役と清水取締役に代表権を与えることを決議。
+      - 7月20日 - [Lunascape](https://ja.wikipedia.org/wiki/Lunascape "wikilink")をベースとした新製品「**livedoor TOVIRA**」を発表\[5\]。
+      - 12月20日 - 連結子会社の『株式会社ライブドアフィナンシャルホールディングス』（現・[かざかフィナンシャルグループ](https://ja.wikipedia.org/wiki/かざかフィナンシャルグループ "wikilink")、傘下に『ライブドア証券』（現・[かざか証券](https://ja.wikipedia.org/wiki/かざか証券 "wikilink")）等）を『アドバンテッジパートナーズLLP』に売却。
+  - 2007年（平成19年）
+      - 1月15日 - 連結子会社の『株式会社カーチス』の株式を、『株式会社ソリッドアコースティックス』による[TOBに保有株式すべて応募し売却](https://ja.wikipedia.org/wiki/株式公開買い付け "wikilink")。
+      - 2月1日 - 持株法適用子会社の『株式会社メディアイノベーション』の株式（保有している全株式）を『アルファグループ株式会社』に売却。
+      - 3月2日 - ライブドアの従業員らが労働組合『[ライブドアユニオン](https://ja.wikipedia.org/wiki/ライブドアユニオン "wikilink")』設立を発表。
+
+### 持株会社化
+
+  - 2007年
+      - 4月2日 - 『**株式会社ライブドアホールディングス**』（）へ商号変更。ポータルサイト事業などを分社化し、子会社としてライブドア（出澤）を設立。
+      - 6月12日 - 関連子会社のInnovation Interactive Inc.の全株式をInnovation Acquisition, LLCに売却したことを発表。
+      - 6月15日 - 関連子会社のClickDiario Network Internet Corp.の全株式をFox International Channels, Inc.に売却したことを発表。
+      - 7月30日 - 『ライブドア事件』の影響などにより、本店所在地を「[六本木ヒルズ森タワー](../Page/六本木ヒルズ森タワー.md "wikilink")」から「[赤坂ツインタワー](../Page/赤坂ツインタワー.md "wikilink")」に移転。
+      - 8月24日 - 関連子会社の[弥生株式会社の全株式を](../Page/弥生_\(ソフトウェア\).md "wikilink")、[MBKパートナーズ](https://ja.wikipedia.org/wiki/MBKパートナーズ "wikilink")に710億円で売却することを発表。
+      - 9月28日 - 関連子会社の弥生株式会社がグループから分離。
+      - 10月24日 - 代表取締役社長の平松庚三が、取締役会・株主総会で承認を得た上で、2007年12月に退任することを発表。後任には、[産業再生機構](../Page/産業再生機構.md "wikilink")・[アリックスパートナーズ](https://ja.wikipedia.org/wiki/アリックスパートナーズ "wikilink")出身の[石坂弘紀](https://ja.wikipedia.org/wiki/石坂弘紀 "wikilink")の予定。
+      - 12月21日 - 代表取締役社長に、石坂弘紀が就任。平松庚三は同日で社長職から退任。
+  - 2008年（平成20年）
+      - 6月13日 - 東京地裁が、[日本生命保険](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink")と信託銀行5社に対し約95億円の損害賠償金の支払いを命じる判決を下す。個人株主や企業から提起された損害賠償を求める訴訟に対する初めての判決。6月25日に控訴した。
+      - 7月1日 - 関連子会社の株式会社[ぽすれん](https://ja.wikipedia.org/wiki/ぽすれん "wikilink")の全株式を、株式会社[ゲオ](https://ja.wikipedia.org/wiki/ゲオ "wikilink")に売却。
+      - 8月1日 - ライブドアホールディングスを『**株式会社LDH**』（）へ商号変更。[フジ・メディア・ホールディングス](https://ja.wikipedia.org/wiki/フジ・メディア・ホールディングス "wikilink")から、旧[証券取引法](https://ja.wikipedia.org/wiki/証券取引法 "wikilink")18条・19条に基づき345億492万円の損害賠償とその[遅延損害金](https://ja.wikipedia.org/wiki/遅延損害金 "wikilink")の支払いを求める訴えを提起される。
+      - 8月11日 - 旧経営陣・元[会計監査人](https://ja.wikipedia.org/wiki/会計監査人 "wikilink")[社員](../Page/社員.md "wikilink")らの民事責任について、35億2330万3120円の損害賠償請求訴訟を提起。
+  - 2009年（平成21年）
+      - 1月22日 - [フジ・メディア・ホールディングス](https://ja.wikipedia.org/wiki/フジ・メディア・ホールディングス "wikilink")に、損害賠償金として310億5442万8000円を支払うことで、[裁判上の和解](https://ja.wikipedia.org/wiki/裁判上の和解 "wikilink")が成立。賠償金は、平成21年3月期決算に[特別損失](https://ja.wikipedia.org/wiki/特別損失 "wikilink")として計上する予定。
+      - 2月10日 - フジ・メディア・ホールディングスとの裁判上の和解成立を受けて、旧経営陣・元会計監査人社員らに対する損害賠償請求について、35億2330万3120円の支払いから345億7773万1120円の支払いに請求の趣旨を拡張する申立て。
+      - 3月17日 - [練馬文化センター](https://ja.wikipedia.org/wiki/練馬文化センター "wikilink")で開かれた[臨時株主総会](https://ja.wikipedia.org/wiki/臨時株主総会 "wikilink")において、[資本金](../Page/資本金.md "wikilink")を1億円、[資本準備金](https://ja.wikipedia.org/wiki/資本準備金 "wikilink")を0円とすることを決議（効力発生日2009年3月31日）。資本金861億円と資本準備金871億円（計1732億円）は、[資本剰余金](https://ja.wikipedia.org/wiki/資本剰余金 "wikilink")に振り替え。
+      - 11月24日 - 本店所在地を「赤坂ツインタワー」から「住友不動産西新宿ビル」に移転。
+      - 12月25日 - 元代表取締役社長 堀江貴文と和解。和解条件は約208億7千万円の資産引き渡し。内訳はLDHの株式と配当金。
+  - 2010年4月12日 - 韓国[NHN](https://ja.wikipedia.org/wiki/NHN "wikilink")社傘下の[NHN Japan社に傘下のライブドア全株式を](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")63億460万円（約900億ウォン）で譲渡すると発表\[6\]（実施は同年5月10日）。
+  - 2011年8月5日 - 臨時株主総会で[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")を決議。翌6日から、会社清算の手続きを始めた\[7\]。
+  - 2012年（平成24年）
+      - 9月 - 残余財産分配金計算書が株主へと送付された。1株あたり残余財産分配金は1,134円。
+      - 12月27日 - 清算結了\[8\]。
+
+## かつての事業概要
+
+### ファイナンス・金融 事業
+
+ライブドア（堀江）は、利益の90%、売り上げの53%を金融関連事業から得ていた。このことから事実上の金融企業であったとも言われる。当時買収にさらされた[フジテレビはこの経営実態を挙げ放送会社とネットとの融合とは馬鹿げていると反論し批判した](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。 ライブドアグループの中間持ち株会社である株式会社ライブドアフィナンシャルホールディングスが管轄していたが、2006年に同社及びそのグループ企業は[アドバンテッジパートナーズ](https://ja.wikipedia.org/wiki/アドバンテッジパートナーズ "wikilink")のファイナンス部門に売却されライブドアグループから分離、翌年[かざかフィナンシャルグループ](https://ja.wikipedia.org/wiki/かざかフィナンシャルグループ "wikilink")に改称した。
+
+クレジットカード決済代行業の[株式会社ゼロも傘下に入れることで一度は合意したが](https://ja.wikipedia.org/wiki/ゼロ_\(決済代行\) "wikilink")、直後にライブドア事件が起きたため、破談となった。
+
+### ソフトウェア事業
+
+ソフトウェア事業は、主に海外製の[CD](../Page/コンパクトディスク.md "wikilink")/[DVD](../Page/DVD.md "wikilink")ライティングソフト「[Neroシリーズ](https://ja.wikipedia.org/wiki/Nero_Burning_ROM "wikilink")」（現在は開発会社Nero AGの日本法人である株式会社Neroが取り扱っている）等を主力製品として販売していた。ソフトウェア販売時のブランドは社名と同じ「livedoor」と「[PRO-G](https://ja.wikipedia.org/wiki/プロジー "wikilink")」を製品によって使い分けていた。なお、PRO-Gは2003年（平成15年）に同社へ吸収合併した子会社のプロジーグループ株式会社が使用していたブランドである。また、PCゲームソフトのローカライズ（海外版を日本語化する）事業にも参入しており、[SWAT4](https://ja.wikipedia.org/wiki/SWAT4 "wikilink")、[F.E.A.R.](https://ja.wikipedia.org/wiki/F.E.A.R. "wikilink")、[Quake](https://ja.wikipedia.org/wiki/Quake "wikilink")4などを手がけていた。
+
+2006年（平成18年）6月6日に、「ソフトウェア一部商品取扱い終了と業務移管のお知らせ」の発表が行われ、livedoorおよびPRO-Gブランドの一部製品（Cloneシリーズ、[弥生シリーズ](../Page/弥生_\(ソフトウェア\).md "wikilink")、[ターボリナックス](https://ja.wikipedia.org/wiki/ターボリナックス "wikilink")株式会社製品、livedoorGamesブランドのパソコン用ゲームソフトウェア）を除くソフトウェア販売およびサポートが、[ソニック・ソルーションズ](https://ja.wikipedia.org/wiki/ソニック・ソルーションズ "wikilink")株式会社の「[ロキシオ](https://ja.wikipedia.org/wiki/ロキシオ "wikilink")」ブランドに移管される事が発表された。Eudoraを除くロキシオ移管製品は販売は継続されずにアップデータ提供の継続に留まり、一部を除くCloneシリーズはアーティストハウス・ソリューションズ（現[株式会社AHS](https://ja.wikipedia.org/wiki/AH-Software "wikilink")）へ取り扱いが移管された。
+
+### ネットワーク事業
+
+主に法人向けに、日本の企業としては比較的早い時期から、[iDC事業を行っており](https://ja.wikipedia.org/wiki/インターネットデータセンター "wikilink")「livedoor [データホテル](https://ja.wikipedia.org/wiki/データホテル "wikilink")」というブランド名で事業を展開していた。この事業は株式会社データホテル（旧・ライブドア（堀江））が現在継続している。
+
+また、[公衆無線LAN](../Page/公衆無線LAN.md "wikilink")接続「[livedoor Wireless](https://ja.wikipedia.org/wiki/livedoor_Wireless "wikilink")」などの事業。他には、[ICANN](https://ja.wikipedia.org/wiki/ICANN "wikilink")公認のレジストラー(商用ドメイン名登録機関）として[ドメイン名](../Page/ドメイン名.md "wikilink")販売・管理（[livedoor ドメイン](http://domain.livedoor.com/)他）事業を行ったり、[SSL](https://ja.wikipedia.org/wiki/Secure_Sockets_Layer "wikilink")[電子証明書](https://ja.wikipedia.org/wiki/電子証明書 "wikilink")の発行などの事業を行っている。
+
+### メディア事業等
+
+ポータルサイトの運営及び広告配信、コンテンツ配信、[ショッピングモールなどの事業](../Page/電子商店街.md "wikilink")。「livedoor デパート」、「livedoor BOOKS」、「livedoorリサイクル」は、2007年（平成19年）2月より、株式会社カウイチ（現：[買う市](https://ja.wikipedia.org/wiki/買う市 "wikilink")株式会社）との間で業務提携契約を結び、運営が続けられていたが、2013年4月をもって終了となった\[9\]。
+
+### 国際事業
+
+ヨーロッパ・中南米・中国などにおいて、携帯端末向けコンテンツや広告配信などの事業を行っていた。
+
+なお中国語の社名「活力門（Huólìmén）」は、ライブドアの意訳であると同時にライブドア（堀江）社長であった[堀江貴文](https://ja.wikipedia.org/wiki/堀江貴文 "wikilink")の愛称「ホリエモン」の音訳にもなっている。
+
+### 弥生事業
+
+子会社の[弥生が](../Page/弥生_\(ソフトウェア\).md "wikilink")、業務用会計ソフトウェアの開発・販売・導入・サポートなどの事業を行っている。中小企業向け会計ソフトウェアとしては、国内シェアトップ。
+
+### USENとの業務提携
+
+2006年（平成18年）3月16日に業務提携契約を締結、業務提携推進委員会を設置、同時にメディア・コンテンツ分科会、法人サービス分科会、技術・インフラ分科会の3会議体を毎週開催している。2006年3月28日、livedoor、GyaOにおいて相互リンク設置したのを皮切りに、GyaOコンテンツのブログを共同開設、本格的な業務提携事業として、2006年6月12日に「livedoor 動画」を開始した。その他、共同でコンテンツの開発及び相互連携配信等を行った。
+
+## 証券取引法違反容疑
+
+  - 詳細については、「[ライブドア事件](https://ja.wikipedia.org/wiki/ライブドア事件 "wikilink")」を参照のこと。
+
+## プロ野球参入計画
+
+2004年（平成16年）6月から[プロ野球](../Page/プロ野球.md "wikilink")球団[オリックス・ブルーウェーブと](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")[大阪近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")の合併協議に対抗して、大阪近鉄バファローズの買収計画や[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")を[フランチャイズ](../Page/フランチャイズ.md "wikilink")にした新球団設立計画を次々と発表した。新球団名をオンライン投票で募集、最多投票数であった「[仙台ライブドアフェニックス](https://ja.wikipedia.org/wiki/ライブドアベースボール "wikilink")」とすることを発表するが、[楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")（[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")）の参入により頓挫する。しかし、ライブドアはこの一件により一躍有名になる。また、新規参入失敗後も運営会社（ライブドアベースボール）自体は存続しており、翌年もプロ野球参入報道がなされた。
+
+  - 略歴
+
+<!-- end list -->
+
+  - 2004年6月 - 大阪近鉄バファローズを買収したい旨の意思を表明。
+  - 2004年9月16日 - 株式会社[ライブドアベースボール](https://ja.wikipedia.org/wiki/ライブドアベースボール "wikilink")が[日本プロ野球機構に加盟申請](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")、本拠地を[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")の[宮城球場](../Page/宮城球場.md "wikilink")とした。
+  - 2004年11月2日 - 最終審査の結果、ライブドアの参入は認められず。楽天の参入が認められる。
+  - 2005年（平成17年） - [広島東洋カープ](../Page/広島東洋カープ.md "wikilink")の支援説が浮上したが、当時の堀江社長本人はあいまいな答えを返す。
+
+## 株式分割
+
+2003年（平成15年）11月13日にエッジ（現LDH）は1:100の大幅な[株式分割](../Page/株式分割.md "wikilink")を発表した。この初めて行った大幅な株式分割が、株価にどのような影響を与えるかは、株式市場において未知の領域であった。株式分割後、1株あたり株価が小額になった事で、買い易くなるなどの理由から需要が増え、2003年12月25日から2004年（平成16年）1月20日まで株価は15営業日連続[ストップ高となった](../Page/値幅制限.md "wikilink")。
+
+この現象の原因の一つには、分割権利落日（2003年12月26日）には1株単価が100分の1になるが、当時、新株は制度上の理由からおよそ2ヵ月後（2004年2月2日）にならないと受渡が行われなかったので、その間、流通株の時価総額が分割前の100分の1となり需給が逼迫したとされている\[10\]。
+
+なお、大型分割の前例が出来た事で複数の上場企業が追従した。例として、1:1000分割を行った[ニューディール](https://ja.wikipedia.org/wiki/ニューディール_\(企業\) "wikilink")、1:200分割を行った[スカイマーク](https://ja.wikipedia.org/wiki/スカイマーク "wikilink")などを挙げることができる。詳細は[株式分割バブル](https://ja.wikipedia.org/wiki/株式分割バブル "wikilink")の項を参照。
+
+## かつての関連会社
+
+関連会社はすべて、以下のとおり、売却・合併・清算などにより連結対象から外れている。
+
+  - 2006年
+
+<!-- end list -->
+
+  - 1月 - 株式会社ジャック・フランチャイズ・ステーションの株式を売却。
+  - 2月 - 株式会社キューズ・ネット、株式会社ワイワイシー、[プロジー](https://ja.wikipedia.org/wiki/プロジー "wikilink")株式会社、株式会社サイバーアソシエイツ、有限会社セッションの計5社を、ライブドア（堀江）が吸収合併。
+  - 3月
+      - 株式会社ジャックリアルエステートは、親会社である株式会社ライブドアオート（現社名 株式会社[カーチス](https://ja.wikipedia.org/wiki/カーチスホールディングス "wikilink")）と合併。
+      - エス・アンド・ジェイ・プロパティ・ジャパン有限会社を清算。
+      - 株式会社[ライブドアドリームテクノロジー](https://ja.wikipedia.org/wiki/ライブドアドリームテクノロジー "wikilink")の株式を売却。
+  - 5月 - 株式会社[ブロードバンドピクチャーズ](https://ja.wikipedia.org/wiki/ブロードバンドピクチャーズ "wikilink")（ネットシネマの制作・配信等）の株式を売却。
+  - 5月21日 - [ネットアンドセキュリティ総研株式会社](https://ja.wikipedia.org/wiki/サイボウズ・メディアアンドテクノロジー "wikilink")（旧株式会社バガボンド）の株式を[サイボウズ](https://ja.wikipedia.org/wiki/サイボウズ "wikilink")に売却。
+  - 6月 - 株式会社イノベーションラボの株式を譲渡。
+  - 7月
+      - 株式会社[ライブドア不動産](https://ja.wikipedia.org/wiki/ヴィンテージ_\(企業\) "wikilink")（[不動産業](../Page/不動産会社.md "wikilink")、ライブドアポータルサイトにて不動産物件情報提供予定）の株式を譲渡。
+      - 株式会社ライブドアリアルエステートの株式を譲渡。
+      - ライブドア債権回収株式会社の株式を譲渡。
+      - ザ・ゴルフ・ジーオー・ジェービー株式会社の株式を譲渡。
+      - livedoor Interactive (Thailand) Co.,Ltd.（タイのグルメサイト運営、広告配信）の株式を譲渡。
+  - 9月 - MyRice Limited（中国のポータルサイトMyrice運営）の株式を譲渡。
+  - 12月20日 - 株式会社[ライブドアフィナンシャルホールディングス](https://ja.wikipedia.org/wiki/かざかフィナンシャルグループ "wikilink")（金融関連事業の中間[持株会社](../Page/持株会社.md "wikilink")）の株式を[アドバンテッジパートナーズ](https://ja.wikipedia.org/wiki/アドバンテッジパートナーズ "wikilink")LLPに売却。以下ライブドアコモディティまで当会社の子会社。
+      - [ライブドア証券株式会社](https://ja.wikipedia.org/wiki/かざか証券 "wikilink")（オンライン専業ではない[証券会社](../Page/証券会社.md "wikilink")、旧日本グローバル証券株式会社）
+      - [ビットキャッシュ](https://ja.wikipedia.org/wiki/ビットキャッシュ "wikilink")株式会社（インターネット[小額決済](https://ja.wikipedia.org/wiki/小額決済 "wikilink")システム「BitCash」の開発運営）
+      - 株式会社[ライブドアクレジット](https://ja.wikipedia.org/wiki/かざかファイナンス "wikilink")（[消費者金融](../Page/消費者金融.md "wikilink")会社、旧ロイヤル信販株式会社）
+      - 株式会社[ライブドアカード](https://ja.wikipedia.org/wiki/かざかカード "wikilink")（[クレジットカード](../Page/クレジットカード.md "wikilink")、ショッピングクレジット）
+      - 株式会社[ライブドアコモディティ](https://ja.wikipedia.org/wiki/かざかコモディティ "wikilink")（商品先物取引、旧日商岩井フューチャーズ株式会社）
+  - 日付不明 - 360i LLC（アメリカ、検索エンジン・マーケティング）の株式を売却。
+  - 日付不明 - eXact Advertising LLC（アメリカ、インターネット広告）の株式を売却。
+  - 日付不明 - Search Ignite,Inc.（アメリカ、検索エンジン・マーケティング）の株式を売却。
+  - 日付不明 - MailCreations.com, Inc.（米国フロリダ州でインターネット広告代理店、ポータルサイトseekover運営）は解散。
+
+<!-- end list -->
+
+  - 2007年
+
+<!-- end list -->
+
+  - 1月15日 - 株式会社[カーチス](https://ja.wikipedia.org/wiki/カーチスホールディングス "wikilink")（中古車買取販売大手、東証2部上場企業。2006年8月1日株式会社ライブドアオートから商号変更）を株式会社ソリッドアコースティックスによるTOBに応募し、売却。
+  - 1月31日 - [メディアエクスチェンジ](https://ja.wikipedia.org/wiki/メディアエクスチェンジ "wikilink")株式会社（[インターネットエクスチェンジ](../Page/インターネットエクスチェンジ.md "wikilink")、[インターネットデータセンター](https://ja.wikipedia.org/wiki/インターネットデータセンター "wikilink")運営など、東証マザーズ上場）を[日本SGI](https://ja.wikipedia.org/wiki/日本SGI "wikilink")株式会社に株式を売却し、業務提携関係を解消。
+  - 2月1日 - 株式会社[メディアイノベーション](https://ja.wikipedia.org/wiki/メディアイノベーション "wikilink")（インターネット広告配信、2006年9月1日株式会社ライブドアマーケティングから商号変更）を[アルファグループ](https://ja.wikipedia.org/wiki/アルファグループ "wikilink")株式会社に株式を売却。
+  - 4月19日 - 株式会社[ライブドアファイナンス](https://ja.wikipedia.org/wiki/ライブドアファイナンス "wikilink")（オンライン[外国為替](https://ja.wikipedia.org/wiki/外国為替 "wikilink")取引サービスなど、ライブドアの金融サービス事業部門）を[特別清算](https://ja.wikipedia.org/wiki/特別清算 "wikilink")。
+  - 5月31日 - Innovation Interactive Inc.（米国ニューヨーク州で広告代理店、広告配信技術）をInnovation Acquisition, LLCに株式を売却。
+  - 6月7日 - ClickDiario Network Internet Corp.（主にスペイン語圏でウェブサイト運営）をFox International Channels, Inc.に株式を売却。
+  - 8月24日 - [弥生株式会社](../Page/弥生_\(ソフトウェア\).md "wikilink")（業務用ソフトウェアの開発・販売・サポート等）をMBKパートナーズに株式を売却。
+  - 12月14日 - 株式会社[ベストリザーブ](https://ja.wikipedia.org/wiki/ベストリザーブ "wikilink")（インターネット宿泊予約運営等）を[e-まちタウン](https://ja.wikipedia.org/wiki/e-まちタウン "wikilink")株式会社に株式を売却。
+  - 日付不明 - 株式会社モノリスの株式を売却。
+  - 日付不明 - livedoor Europe GmbH（携帯電話向けコンテンツ配信事業）を清算。
+
+<!-- end list -->
+
+  - 2008年
+
+<!-- end list -->
+
+  - 7月1日 - 株式会社[ぽすれん](https://ja.wikipedia.org/wiki/ぽすれん "wikilink")（オンラインDVDレンタル事業等）を株式会社[ゲオ](https://ja.wikipedia.org/wiki/ゲオ "wikilink")に株式を売却。
+  - 日付不明 - [ターボリナックス](https://ja.wikipedia.org/wiki/ターボリナックス "wikilink")株式会社（[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink") [OSの開発および販売](../Page/オペレーティングシステム.md "wikilink")、大証[ヘラクレス上場](https://ja.wikipedia.org/wiki/ヘラクレス_\(有価証券市場\) "wikilink")）を売却検討。
+  - 日付不明 - livedoor Interactive S.L.（携帯電話向けコンテンツ配信事業、インターネット広告事業）の株式を売却。
+
+<!-- end list -->
+
+  - 2009年
+
+<!-- end list -->
+
+  - 7月8日 - 株式会社[セシール](https://ja.wikipedia.org/wiki/セシール "wikilink")（カタログ通信販売大手、東証1部上場）を株式会社フジ・メディア・サービス（[フジメディアHD関連会社](https://ja.wikipedia.org/wiki/フジ・メディア・ホールディングス "wikilink")）に株式を売却。
+  - 日付不明 - 株式会社[ライブドアパブリッシング](https://ja.wikipedia.org/wiki/ライブドアパブリッシング "wikilink")（出版事業、[幻冬舎](https://ja.wikipedia.org/wiki/幻冬舎 "wikilink")との合弁による）の株式を売却。
+  - 日付不明 - 有限会社アジア物産を清算。
+
+<!-- end list -->
+
+  - 2010年
+
+<!-- end list -->
+
+  - 5月10日 - ライブドア（出澤）をNHN Japan（現：[LINE](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")）株式会社に譲渡。および、ライブドア（出澤）子会社の株式会社エイシスを株式会社[ゲオ](https://ja.wikipedia.org/wiki/ゲオ "wikilink")に譲渡。
+
+<!-- end list -->
+
+  - 2011年
+
+<!-- end list -->
+
+  - 6月8日 - TLホールディングス株式会社（[持分法適用会社](https://ja.wikipedia.org/wiki/持分法適用会社 "wikilink")、現：[ターボリナックスHD](https://ja.wikipedia.org/wiki/ターボリナックスHD "wikilink")株式会社）の株式28.86%すべてを、個人に譲渡\[11\]。
+
+## 脚注・出典
+
+## 関連項目
+
+  - [ライブドア事件](https://ja.wikipedia.org/wiki/ライブドア事件 "wikilink")
+  - [ライブドア・ショック](../Page/ライブドア・ショック.md "wikilink")
+  - [清水幸裕](https://ja.wikipedia.org/wiki/清水幸裕 "wikilink")（元代表取締役副社長）
+  - [落合紀貴](https://ja.wikipedia.org/wiki/落合紀貴 "wikilink")（元上級執行役員兼経営企画本部長）
+  - [真崎晃郎](https://ja.wikipedia.org/wiki/真崎晃郎 "wikilink")（元取締役）
+  - [有馬あきこ](https://ja.wikipedia.org/wiki/有馬あきこ "wikilink")（元取締役、創業者の1人）
+  - [佐藤英志](https://ja.wikipedia.org/wiki/佐藤英志 "wikilink")（元取締役）
+
+### 歴代の代表者
+
+  - ライブドア（堀江）
+
+<!-- end list -->
+
+  - [堀江貴文](https://ja.wikipedia.org/wiki/堀江貴文 "wikilink")（初代代表取締役社長）　有限会社オン・ザ・エッヂ→株式会社オン・ザ・エッヂ→エッジ株式会社→株式会社ライブドア（堀江）
+  - [熊谷史人](https://ja.wikipedia.org/wiki/熊谷史人 "wikilink")（2代目代表取締役）　株式会社ライブドア（堀江）
+  - [山崎徳之](https://ja.wikipedia.org/wiki/山崎徳之 "wikilink")（3代目代表取締役）　株式会社ライブドア（堀江）
+  - [平松庚三](https://ja.wikipedia.org/wiki/平松庚三 "wikilink")（4代目代表取締役、2代目社長）　株式会社ライブドア（堀江）→株式会社ライブドアホールディングス
+  - [石坂弘紀](https://ja.wikipedia.org/wiki/石坂弘紀 "wikilink")（5代目代表取締役、3代目社長）　株式会社ライブドアホールディングス→株式会社LDH
+
+<!-- end list -->
+
+  - ライブドア（出澤）
+
+<!-- end list -->
+
+  - [出澤剛](https://ja.wikipedia.org/wiki/出澤剛 "wikilink")（初代代表取締役社長）　株式会社ライブドア（出澤）
+  - [嶋田健作](https://ja.wikipedia.org/wiki/嶋田健作 "wikilink")（2代目代表取締役社長）　株式会社ライブドア（出澤）→株式会社データホテル
+
+### 法人
+
+  - [フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
+  - [ニッポン放送](../Page/ニッポン放送.md "wikilink")
+  - [USEN](https://ja.wikipedia.org/wiki/USEN "wikilink")
+  - [港陽監査法人](https://ja.wikipedia.org/wiki/港陽監査法人 "wikilink")
+  - [リーマン・ブラザーズ](https://ja.wikipedia.org/wiki/リーマン・ブラザーズ "wikilink")
+  - [村上ファンド](https://ja.wikipedia.org/wiki/村上ファンド "wikilink")
+
+### 労働組合
+
+  - [首都圏青年ユニオン](https://ja.wikipedia.org/wiki/首都圏青年ユニオン "wikilink")（[ライブドアユニオン](https://ja.wikipedia.org/wiki/ライブドアユニオン "wikilink")）
+
+### 人物（歴代秘書他）
+
+  - [乙部綾子](https://ja.wikipedia.org/wiki/乙部綾子 "wikilink")（元ライブドア広報担当）
+  - [木内美穂](https://ja.wikipedia.org/wiki/木内美穂 "wikilink")（元[女優](../Page/俳優.md "wikilink")・ライブドア広報担当）
+  - [村上世彰](https://ja.wikipedia.org/wiki/村上世彰 "wikilink")（村上ファンド創設者）
+
+### その他
+
+  - [ブログ](../Page/ブログ.md "wikilink")
+  - [ビーイング](../Page/ビーイング.md "wikilink") - 大半がライブドアのブログを使用。
+  - [ワナップ](../Page/ワナップ.md "wikilink") - 同上（この芸能事務所の原則ではあるが、同社の情報もこのブログを使用している）
+  - [プロ野球再編問題 (2004年)](https://ja.wikipedia.org/wiki/プロ野球再編問題_\(2004年\) "wikilink")
+  - [ホリエモン](https://ja.wikipedia.org/wiki/ホリエモン "wikilink")（[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")）
+  - [Skype](https://ja.wikipedia.org/wiki/Skype "wikilink")
+  - [ニッポン放送の経営権問題](https://ja.wikipedia.org/wiki/ニッポン放送の経営権問題 "wikilink")
+  - [通信と放送の融合](https://ja.wikipedia.org/wiki/通信と放送の融合 "wikilink")
+  - [DRAGON DOOR](https://ja.wikipedia.org/wiki/ドラゴンドア "wikilink")
+  - [多村仁](https://ja.wikipedia.org/wiki/多村仁 "wikilink")
+  - [中村藍子](https://ja.wikipedia.org/wiki/中村藍子 "wikilink")
+  - [横浜FC](../Page/横浜FC.md "wikilink")（オフィシャルメディアパートナー）
+  - [梅木千世](https://ja.wikipedia.org/wiki/梅木千世 "wikilink")
+  - [矢野さとる](https://ja.wikipedia.org/wiki/矢野さとる "wikilink")
+
+## 外部リンク
+
+  -
+[Category:ライブドア](https://ja.wikipedia.org/wiki/Category:ライブドア "wikilink") [Category:かつて存在した日本の持株会社](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の持株会社 "wikilink") [Category:かつて存在した日本の情報通信業者](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の情報通信業者 "wikilink") [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:堀江貴文](https://ja.wikipedia.org/wiki/Category:堀江貴文 "wikilink") [Category:1997年設立の企業](https://ja.wikipedia.org/wiki/Category:1997年設立の企業 "wikilink") [Category:2000年上場の企業](https://ja.wikipedia.org/wiki/Category:2000年上場の企業 "wikilink") [Category:2012年廃止の企業](https://ja.wikipedia.org/wiki/Category:2012年廃止の企業 "wikilink")
+
+1.  [子会社株式の譲渡に関するお知らせ](http://www.ldh-corp.co.jp/ir/2010/20100412_01.pdf) LDH 2010年4月12日
+2.
+3.  [泥沼化した「イーバンク・ライブドア論争」〜双方の言い分 (1/3)](http://www.itmedia.co.jp/lifestyle/articles/0402/18/news083.html) ITmedia ライフスタイル 2004年2月18日報道
+4.  [ライブドアとイーバンクが包括和解契約](http://japan.cnet.com/news/biz/story/0,2000050156,20075323,00.htm) CNET Japan 2004年10月23日報道
+5.  [livedoor TOVIRA](http://event.livedoor.com/tovira/) livedoor TOVIRAホームページ
+6.  [子会社株式の譲渡に関するお知らせ](http://www.ldh-corp.co.jp/ir/2010/20100412_01.pdf) LDH 2010年4月12日
+    [韓国ネット大手がライブドアを63億円で買収「日本攻略にはずみ」](http://news.searchina.ne.jp/disp.cgi?y=2010&d=0413&f=business_0413_083.shtml) サーチナ 2010年4月13日
+7.  [旧ライブドア、臨時株主総会で解散を決議](http://www.yomiuri.co.jp/atmoney/news/20110805-OYT1T00911.htm) 読売新聞・2011年8月5日
+8.  登記情報提供サービスより2019年3月1日に閉鎖登記簿を閲覧。
+9.  [重要なお知らせ:livedoorリサイクルは「2013年2月15日」の受付分をもってサービス終了となります（ライブドアリサイクルホームページ）](http://recycle.livedoor.com/info/)
+10. [基礎からわかるライブドア事件 Q 株式分割はもうかる?](http://www.yomiuri.co.jp/atmoney/special/96/livedoor007.htm) YOMIURI ONLINE 2006年2月14日報道
+11. [その他の関係会社、主要株主である筆頭株主の異動に関するお知らせ](http://www.tl-holdings.com/images/stories/ir/11060801.pdf) TLホールディングス株式会社・平成23年6月8日

@@ -1,0 +1,192 @@
+> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+
+
+**FCクバン・クラスノダール**（****, [英語](../Page/英語.md "wikilink"): Football Club Kuban Krasnodar）は、[ロシア](../Page/ロシア.md "wikilink")連邦・[クラスノダール](https://ja.wikipedia.org/wiki/クラスノダール "wikilink")にあった[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+
+## 概要
+
+[1928年](../Page/1928年.md "wikilink")にディナモ・クラスノダールとして創設され、数回の改名を経て、[1963年](../Page/1963年.md "wikilink")に現在のクラブ名となった。[ソ連時代は](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")から[1982年](../Page/1982年.md "wikilink")までの3シーズンを[ソビエトトップリーグで過ごした](https://ja.wikipedia.org/wiki/ソビエト連邦サッカーリーグ "wikilink")。
+
+連邦崩壊直後の[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")にロシアのトップリーグ（現[プレミアリーグ](https://ja.wikipedia.org/wiki/ロシアサッカー・プレミアリーグ "wikilink")）へと組み込まれたが、1シーズンで降格。[2004年](../Page/2004年.md "wikilink")にプレミアリーグに昇格した時にも1シーズンで降格。[2007年](../Page/2007年.md "wikilink")にも再びプレミアリーグに昇格し、わずか1年で降格するが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")シーズンは1部で好成績を収め、1年でプレミアリーグに復帰するものの、[2009年](../Page/2009年.md "wikilink")シーズンは15位に終わり、またしても1部リーグに降格してしまった。
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")シーズンは監督に[ルーマニア人](https://ja.wikipedia.org/wiki/ルーマニア人 "wikilink")の[ダン・ペトレスク](https://ja.wikipedia.org/wiki/ダン・ペトレスク "wikilink")を招聘し、1部で優勝を成し遂げ、わずか1年でプレミアリーグに復帰。2011-12シーズンはプレミアリーグ定着を目指して意欲的な補強を行い、[FCスパルタク・モスクワ](https://ja.wikipedia.org/wiki/FCスパルタク・モスクワ "wikilink")を撃破するなど躍進を遂げている。
+
+近年はプレミアと1部を往復する**[エレベータークラブ](https://ja.wikipedia.org/wiki/エレベータークラブ "wikilink")**であり、プレミアリーグ発足後、5度の昇・降格を経験している。
+
+2011-12シーズンに[プレミアリーグに復帰すると](https://ja.wikipedia.org/wiki/ロシアサッカー・プレミアリーグ "wikilink")、リーグ8位という好成績を残す。翌2012-13シーズンは過去最高のリーグ5位で終え、初の[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")出場権（予備予選3回戦から）を獲得した。3回戦で[スコットランドの](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")[マザーウェルFC](https://ja.wikipedia.org/wiki/マザーウェルFC "wikilink")、プレーオフで[オランダの](../Page/エールディヴィジ.md "wikilink")[フェイエノールト](../Page/フェイエノールト.md "wikilink")に勝って本大会（グループステージ）に進出した。
+
+2012-13シーズンの[プレミアリーグでホームで開催された試合の平均観客数がもっとも多かった](https://ja.wikipedia.org/wiki/ロシアサッカー・プレミアリーグ "wikilink")（20,933人）。
+
+2018年5月17日に財政難のため解散した。その後サポーターを中心に新クラブが設立された。
+
+## クラブ名の遍歴
+
+  - 1928年 - 1953年 ディナモ (Динамо, Dynamo)
+  - 1954年 - 1957年 ネフチャニク (Нефтяник, Neftyanik)
+  - 1958年 - 1959年 クバン (Кубань, Kuban)
+  - 1960年 - 1962年 スパルタク (Спартак, Spartak)
+  - 1963年 - 2018年 クバン
+
+## タイトル
+
+### 国内タイトル
+
+  - **ロシア・ソビエト連邦社会主義共和国リーグ：4回**
+
+<!-- end list -->
+
+  -
+    1948, 1962, 1973, 1987
+
+### 国際タイトル
+
+なし
+
+## 過去の成績
+
+| シーズン    | ディヴィジョン                                                              | 順位     | 試  | 勝  | 分  | 負   | 得  | 失      | 点      | [カップ](https://ja.wikipedia.org/wiki/ロシア・カップ_\(サッカー\) "wikilink")     | 欧州カップ戦   |
+| ------- | -------------------------------------------------------------------- | ------ | -- | -- | -- | --- | -- | ------ | ------ | -------------------------------------------------------------------- | -------- |
+| 1992    | **[プレミア](https://ja.wikipedia.org/wiki/ロシアサッカー・プレミアリーグ "wikilink")** | **18** | 30 | 4  | 9  | 17  | 24 | 53     | **17** | \-                                                                   | —        |
+| 1993    | [1部（西地区）](https://ja.wikipedia.org/wiki/ロシア・ファーストディビジョン "wikilink")  | **15** | 42 | 15 | 8  | 19  | 62 | 84     | **38** | ベスト64                                                                | —        |
+| 1994    | [2部（西地区）](https://ja.wikipedia.org/wiki/ロシア・セカンドディビジョン "wikilink")   | **6**  | 40 | 23 | 6  | 11  | 83 | 44     | **52** | ベスト256                                                               | —        |
+| 1995    | **2**                                                                | 42     | 27 | 6  | 9  | 107 | 61 | **87** | ベスト128 | —                                                                    |          |
+| 1996    | 1部                                                                   | **10** | 42 | 15 | 14 | 13  | 65 | 60     | **59** | ベスト32                                                                | —        |
+| 1997    | **16**                                                               | 42     | 16 | 9  | 17 | 63  | 66 | **57** | ベスト512 | —                                                                    |          |
+| 1998    | **20**                                                               | 42     | 10 | 13 | 19 | 42  | 68 | **43** | ベスト16  | —                                                                    |          |
+| 1999    | 2部（南地区）                                                              | **1**  | 36 | 29 | 4  | 3   | 80 | 13     | **91** | ベスト128                                                               | —        |
+| 2000    | **1**                                                                | 38     | 32 | 3  | 3  | 95  | 13 | **99** | ベスト128 | —                                                                    |          |
+| 2001    | 1部                                                                   | **3**  | 34 | 16 | 12 | 6   | 56 | 29     | **60** | ベスト16                                                                | —        |
+| 2002    | **4**                                                                | 34     | 15 | 9  | 10 | 44  | 30 | **54** | ベスト16  | —                                                                    |          |
+| 2003    | **2**                                                                | 42     | 27 | 5  | 10 | 75  | 38 | **86** | ベスト32  | —                                                                    |          |
+| 2004    | **プレミア**                                                             | **15** | 30 | 6  | 10 | 14  | 26 | 42     | **28** | ベスト16                                                                | —        |
+| 2005    | 1部                                                                   | **5**  | 42 | 23 | 12 | 7   | 55 | 25     | **81** | ベスト16                                                                | —        |
+| 2006    | **2**                                                                | 42     | 30 | 7  | 5  | 92  | 25 | **97** | ベスト32  | —                                                                    |          |
+| 2007    | **プレミア**                                                             | **15** | 30 | 7  | 11 | 12  | 27 | 38     | **32** | ベスト32                                                                | —        |
+| 2008    | 1部                                                                   | **2**  | 42 | 27 | 6  | 9   | 84 | 36     | **87** | ベスト16                                                                | —        |
+| 2009    | **プレミア**                                                             | **15** | 30 | 6  | 10 | 14  | 23 | 51     | **28** | ベスト32                                                                | —        |
+| 2010    | 1部                                                                   | **1**  | 38 | 24 | 8  | 6   | 51 | 20     | **80** | ベスト32                                                                | —        |
+| 2011-12 | **プレミア**                                                             | **8**  | 44 | 15 | 16 | 13  | 50 | 45     | **61** | ベスト32                                                                | —        |
+| 2012-13 | **5**                                                                | 30     | 14 | 9  | 7  | 48  | 28 | **51** | 準々決勝敗退 | —                                                                    |          |
+| 2013-14 | **8**                                                                | 30     | 10 | 8  | 12 | 40  | 42 | **38** | ベスト16  | [UEL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2013-14 "wikilink") | グループA 3位 |
+| 2014-15 | **10**                                                               | 30     | 8  | 12 | 10 | 32  | 36 | **36** | 準優勝    | —                                                                    |          |
+| 2015-16 | **14**                                                               | 30     | 5  | 11 | 14 | 34  | 44 | **26** | 準々決勝敗退 | —                                                                    |          |
+| 2016-17 | 1部                                                                   | **7**  | 38 | 14 | 13 | 11  | 44 | 37     | **55** | ベスト64                                                                | —        |
+| 2017-18 | **-**                                                                | \-     | \- | \- | \- | \-  | \- | **-**  | \-     | —                                                                    |          |
+
+## 歴代監督
+
+  - [ジョセフ・ホヴァネツ](https://ja.wikipedia.org/wiki/ジョセフ・ホヴァネツ "wikilink") 2005
+
+  - [オレグ・プロタソフ](https://ja.wikipedia.org/wiki/オレグ・プロタソフ "wikilink") 2008
+
+  - [セルゲイ・オフチンニコフ](https://ja.wikipedia.org/wiki/セルゲイ・オフチンニコフ "wikilink") 2009
+
+  - [ダン・ペトレスク](https://ja.wikipedia.org/wiki/ダン・ペトレスク "wikilink") 2010-2012, 2016
+
+  - [ユーリー・クラスノジャン](https://ja.wikipedia.org/wiki/ユーリー・クラスノジャン "wikilink") 2012-2013.1
+
+  - [レオニード・クチュク](https://ja.wikipedia.org/wiki/レオニード・クチュク "wikilink") 2013.1-2013.6, 2014.11-2015.5
+
+  - [ドリネル・ムンテアヌ](https://ja.wikipedia.org/wiki/ドリネル・ムンテアヌ "wikilink") 2013.7-2013.10
+
+  - [ヴィクトル・ゴンチャレンコ](https://ja.wikipedia.org/wiki/ヴィクトル・ゴンチャレンコ "wikilink") 2013.10-2014.11
+
+  - [アンドレイ・ソスニツキー](https://ja.wikipedia.org/wiki/アンドレイ・ソスニツキー "wikilink") 2015.5(暫定）
+
+  - [ドミトリー・ホフロフ](https://ja.wikipedia.org/wiki/ドミトリー・ホフロフ "wikilink") 2015
+
+## 歴代所属選手
+
+### GK
+
+  - [アンドリー・ディカン](https://ja.wikipedia.org/wiki/アンドリー・ディカン "wikilink") 2004-2008
+
+  - [エフゲニー・ポマザン](https://ja.wikipedia.org/wiki/エフゲニー・ポマザン "wikilink") 2006-2007
+
+  - [ウラジーミル・ガブロフ](https://ja.wikipedia.org/wiki/ウラジーミル・ガブロフ "wikilink") 2007
+
+  - [アレクサンドル・フィリモノフ](https://ja.wikipedia.org/wiki/アレクサンドル・フィリモノフ "wikilink") 2008
+
+  - [エフゲニー・ポマザン](https://ja.wikipedia.org/wiki/エフゲニー・ポマザン "wikilink") 2014-2017
+
+### DF
+
+  - [アンドレイ・ソロマティン](https://ja.wikipedia.org/wiki/アンドレイ・ソロマティン "wikilink") 2004
+
+  - [アレクサンドル・オレホフ](https://ja.wikipedia.org/wiki/アレクサンドル・オレホフ "wikilink") 2004-2007
+
+  - [レナト・ヤンバエフ](https://ja.wikipedia.org/wiki/レナト・ヤンバエフ "wikilink") 2006-2007
+
+  - [ドミトリー・クルグロフ](https://ja.wikipedia.org/wiki/ドミトリー・クルグロフ "wikilink") 2006
+
+  - [アレクセイ・コズロフ](https://ja.wikipedia.org/wiki/アレクセイ・コズロフ_\(1986年生のサッカー選手\) "wikilink") 2010-2013
+
+  - [フランティシェック・クビク](https://ja.wikipedia.org/wiki/フランティシェック・クビク "wikilink") 2011
+
+  - [イゴール・ロロ](https://ja.wikipedia.org/wiki/イゴール・ロロ "wikilink") 2011-2013
+
+  - [アンヘル・デアルベルト](https://ja.wikipedia.org/wiki/アンヘル・デアルベルト "wikilink") 2012-2014
+
+  - [シャンドン](https://ja.wikipedia.org/wiki/シャンドン "wikilink") 2013-2016
+
+  - [ロレンソ・メルガレホ](https://ja.wikipedia.org/wiki/ロレンソ・メルガレホ "wikilink") 2013-2016
+
+  - [アンドレイ・エシュチェンコ](https://ja.wikipedia.org/wiki/アンドレイ・エシュチェンコ "wikilink") 2014-2015
+
+### MF
+
+  - [ユーリー・ショミン](https://ja.wikipedia.org/wiki/ユーリー・ショミン "wikilink") 1978-1980
+
+  - [リュボミール・カントニストフ](https://ja.wikipedia.org/wiki/リュボミール・カントニストフ "wikilink") 2002-2005
+
+  - [オレグ・イワノフ](https://ja.wikipedia.org/wiki/オレグ・イワノフ "wikilink") 2006-2007
+
+  - [アラン・カサエフ](https://ja.wikipedia.org/wiki/アラン・カサエフ "wikilink") 2008-2009
+
+  - [アレクセイ・イオノフ](https://ja.wikipedia.org/wiki/アレクセイ・イオノフ "wikilink") 2012-2013
+
+  - [マルコ・ネー](https://ja.wikipedia.org/wiki/マルコ・ネー "wikilink") 2009-2011
+
+  - [ハミヌ・ドラマニ](https://ja.wikipedia.org/wiki/ハミヌ・ドラマニ "wikilink") 2009
+
+  - [ユリス・ライザンス](https://ja.wikipedia.org/wiki/ユリス・ライザンス "wikilink") 2007
+
+  - [サニ・カイタ](https://ja.wikipedia.org/wiki/サニ・カイタ "wikilink") 2009
+
+  - [シャルル・カボレ](https://ja.wikipedia.org/wiki/シャルル・カボレ "wikilink") 2013-2016
+
+### FW
+
+  - [ウラジミール・ベスチャツニフ](https://ja.wikipedia.org/wiki/ウラジミール・ベスチャツニフ "wikilink") 2003-2004
+
+  - [デニス・ポポフ](https://ja.wikipedia.org/wiki/デニス・ポポフ "wikilink") 2004-2005
+
+  - [セルゲイ・ダヴィドフ](https://ja.wikipedia.org/wiki/セルゲイ・ダヴィドフ_\(1985年生のサッカー選手\) "wikilink") 2010-2011
+
+  - [アレクサンドル・プルドニコフ](https://ja.wikipedia.org/wiki/アレクサンドル・プルドニコフ "wikilink") 2012-2013
+
+  - /  [ロベルト・ゼベリャン](https://ja.wikipedia.org/wiki/ロベルト・ゼベリャン "wikilink") 2006-2007
+
+  - /  [マルコス・ピッゼッリ](https://ja.wikipedia.org/wiki/マルコス・ピッゼッリ "wikilink") 2012-2013
+
+  - /  [アラス・オズビリズ](https://ja.wikipedia.org/wiki/アラス・オズビリズ "wikilink") 2012-2013
+
+  - /  [ラシナ・トラオレ](https://ja.wikipedia.org/wiki/ラシナ・トラオレ "wikilink") 2011-2012
+
+  - [ゲオルゲ・ブクル](https://ja.wikipedia.org/wiki/ゲオルゲ・ブクル "wikilink") 2010-2016
+
+  - [ダニエル・ニクラエ](https://ja.wikipedia.org/wiki/ダニエル・ニクラエ "wikilink") 2012-2013
+
+  - [イブラヒマ・バルデ](https://ja.wikipedia.org/wiki/イブラヒマ・バルデ "wikilink") 2012-2016
+
+  - [ジブリル・シセ](https://ja.wikipedia.org/wiki/ジブリル・シセ "wikilink") 2013
+
+  - [セク・オリセー](https://ja.wikipedia.org/wiki/セク・オリセー "wikilink") 2014-2015
+
+  - [イェウヘン・セレズニョウ](https://ja.wikipedia.org/wiki/イェウヘン・セレズニョウ "wikilink") 2016
+
+## 外部リンク
+
+  - [クバン公式サイト](http://www.fckuban.ru/)
+
+[Category:現在活動していないロシアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:現在活動していないロシアのサッカークラブ "wikilink") [Category:クラスノダールのスポーツチーム](https://ja.wikipedia.org/wiki/Category:クラスノダールのスポーツチーム "wikilink") [Category:1928年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1928年設立のスポーツチーム "wikilink")

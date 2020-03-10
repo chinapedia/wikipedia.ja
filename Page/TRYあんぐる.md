@@ -1,0 +1,64 @@
+> この記事は[TRY](https://ja.wikipedia.org/wiki/TRY)から翻訳されています。
+
+
+『**TRYあんぐる**』（トライあんぐる）は、[2000年](../Page/2000年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[名古屋テレビで放送されていた](../Page/名古屋テレビ放送.md "wikilink")[夕方ワイド番組](https://ja.wikipedia.org/wiki/夕方ワイド番組 "wikilink")（[報道番組](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")）である。当初は『**ニュースTRYあんぐる**』と題して放送されていた。
+
+## 概要
+
+『[情報ライブ トゥー・ユー\!](https://ja.wikipedia.org/wiki/情報ライブ_トゥー・ユー! "wikilink")』の後番組としてスタート。17時台前半には[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")発の全国ニュース『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』第1部を内包し、17:54 - 18:17には『スーパーJチャンネル』第2部を内包していた。番組のラストには『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』の見どころ紹介コーナーがあった。
+
+番組はその後、2003年3月31日に名古屋テレビが愛称を「ナゴヤテレビ」から「メ〜テレ」へ変更するのに合わせて改題リニューアル。以後は『[メ〜テレワイド スーパーJチャンネル](https://ja.wikipedia.org/wiki/メ〜テレワイドスーパーJチャンネル "wikilink")』と題して放送された。
+
+## 放送時間
+
+| 放送期間       | 放送時間       |
+| ---------- | ---------- |
+| 2000.04.03 | 2000.09.29 |
+| 2000.10.02 | 2002.03.29 |
+| 2002.04.01 | 2003.03.28 |
+
+## 出演者
+
+### キャスター
+
+  - [羽川英樹](https://ja.wikipedia.org/wiki/羽川英樹 "wikilink") - メインキャスター兼コメンテーター。2000年4月から2000年12月まで担当。
+  - [加藤歩](https://ja.wikipedia.org/wiki/加藤歩_\(アナウンサー\) "wikilink") - サブキャスター。2000年4月から2001年3月まで担当。
+  - [星恭博](https://ja.wikipedia.org/wiki/星恭博 "wikilink") - メインキャスター。2001年1月から2003年3月まで担当。
+  - [大川敦子](https://ja.wikipedia.org/wiki/大川敦子 "wikilink") - サブキャスター。2001年4月から2003年3月まで担当。
+
+### リポーター
+
+  - 星恭博 - 2000年4月から同年12月まで担当。
+  - 加藤歩 - 2001年4月から2003年3月まで「あんぐる探偵団」→「怒〜なの\!」を担当。
+  - [佐藤裕二](https://ja.wikipedia.org/wiki/佐藤裕二_\(アナウンサー\) "wikilink") - フィールドキャスター。金曜担当。
+  - [齋藤寿幸](https://ja.wikipedia.org/wiki/齋藤寿幸 "wikilink") - 「斎藤ノススメ」を担当。
+  - [立松大和](https://ja.wikipedia.org/wiki/立松大和 "wikilink") - 「東海256景立松の旅」を担当。
+  - [倉橋友和](https://ja.wikipedia.org/wiki/倉橋友和 "wikilink") - フィールドキャスター。
+  - [神取恭子](https://ja.wikipedia.org/wiki/神取恭子 "wikilink") - フィールドキャスター。水曜担当。
+
+### 天気予報担当
+
+  - [小川玄](https://ja.wikipedia.org/wiki/小川玄 "wikilink")（[気象予報士](../Page/気象予報士.md "wikilink")）
+
+## 番組内コーナー
+
+前番組『情報ライブトゥー・ユー\!』のフォーマットを踏襲し、特集VTRの映像に案内役として登場するアナウンサー主導のコーナーを増やした。
+
+  - 羽川秀樹のコテコテ（コメントコーナー）
+  - 寿将がゆく
+  - 手作り道具で素敵生活
+  - 行列・人気・うまい店
+  - ナゴヤタウンタウン
+  - 東海256景立松の旅
+  - 女の時間
+  - 怒〜なの\!
+  - あんぐる美学
+  - 極上\!ふるさと三つ星ごはん
+  - 秘伝\!直伝\!まかないグルメ
+  - 名人\!達人\!こだわりの人\!その技いただきます\!
+  - 暮らしの達人
+  - あんぐる探偵団
+  - ヘルシークッキング
+  - 教えて\!名店料理人の味
+
+[Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:名古屋テレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:名古屋テレビの帯番組の歴史 "wikilink") [Category:名古屋テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:名古屋テレビの情報・ワイドショー番組 "wikilink") [Category:東海・北陸地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")

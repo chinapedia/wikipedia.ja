@@ -1,0 +1,203 @@
+> この記事は[BLEACH The DiamondDust Rebellion ](https://ja.wikipedia.org/wiki/BLEACH_The_DiamondDust_Rebellion_)から翻訳されています。
+
+
+『**劇場版BLEACH The DiamondDust Rebellion もう一つの氷輪丸**』（げきじょうばん ブリーチ ザ ダイアモンドダスト リベリオン もうひとつのひょうりんまる）は、[2007年](../Page/2007年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に[東宝](../Page/東宝.md "wikilink")系で公開された漫画『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH "wikilink")』を原作とした[テレビアニメの劇場版第](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")2作。
+
+## 概要
+
+本作は『BLEACH』の人気キャラクター・[日番谷冬獅郎](https://ja.wikipedia.org/wiki/日番谷冬獅郎 "wikilink")を物語の中心に据えたストーリーを展開、原作では描かれていない日番谷の院生時代のエピソードなど、アニメオリジナルの日番谷の過去も描く。戦闘シーンでは死神達や前作では戦闘シーンが無かった現世メンバーの活躍も描かれている。
+
+上記の通り、本作のストーリーは「日番谷をメインにしたストーリー」というコンセプトから作られた。原作者の[久保帯人](https://ja.wikipedia.org/wiki/久保帯人 "wikilink")も本作では「原作のキャラを軸に据えたストーリー」を希望していた。久保も原案の段階で製作に参加しており、キャラクターのデザインやシナリオ、サブタイトル「The DiamondDust Rebellion」の命名等に関わっている。
+
+また2007年12月9日には劇場版の関連番組として『劇場版BLEACH法廷\!日番谷冬獅郎事件に迫る\!\!』が放送された。2007年12月24日に放送された劇場版第1作『[MEMORIES OF NOBODY](https://ja.wikipedia.org/wiki/劇場版BLEACH_MEMORIES_OF_NOBODY "wikilink")』では、本編の冒頭約4分を放送した。
+
+本作の公開と連動して[2007年](../Page/2007年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")発売の「週刊少年ジャンプ」2008年3号では日番谷の過去のエピソードが描かれ、本作の伏線も隠されている。
+
+映画本編の最後には、制作期間中に死去したスタッフ・[高橋資祐](../Page/高橋資祐.md "wikilink")への追悼メッセージが登場した。
+
+また、[ローソン](../Page/ローソン.md "wikilink")で前売り券を購入したときには、ナビゲート[CD](https://ja.wikipedia.org/wiki/CD "wikilink")がセットになっていた。ストーリーは、一護がローソンで（日番谷の計らいではあるが）[アルバイト](../Page/アルバイト.md "wikilink")をするというストーリーである。
+
+キャッチコピーは、「**日番谷冬獅郎を処刑せよ。**」。
+
+## ストーリー
+
+尸魂界にある王族の秘宝「**[王印](https://ja.wikipedia.org/wiki/#王印 "wikilink")**」。それを警護及び運搬していた日番谷・乱菊率いる十番隊が謎の集団に襲撃され王印が奪われてしまう。同時に、首謀者と刃を交えていた日番谷も失踪を遂げる。その後、現世の森にある気配を感じた一護は砕蜂に王印が奪われたということを聞かされる。
+
+そんな中一護は森の中で傷つき「クサカ」という言葉を残して倒れた日番谷を発見し保護するが、何も言わずに去ろうとする日番谷と刃を交えてしまい、加えて日番谷は突如現れ日番谷の身柄を要求してきた謎の少女「イン」と「ヤン」を追うように立ち去ってしまう。その後、一護は合流したルキアと恋次、そして織姫ら現世メンバーと共に日番谷を捜索するが、『氷輪丸』による攻撃で京楽は重傷を負い、そして同時刻に檜佐木、吉良率いる日番谷捜索部隊を日番谷が退けたことで、山本総隊長並びに尸魂界は日番谷への疑念を強め、日番谷処刑の決定を下す。
+
+反逆の疑いを掛けられながらも全てを捨ててある決意を秘める日番谷。そんな中一護は今までの日番谷の行動の真意に気付く。だが王印強奪から発した事態は尸魂界を巻き込む未曾有の危機を迎えようとしていた。
+
+## 登場人物
+
+*詳細は、[BLEACHの登場人物](https://ja.wikipedia.org/wiki/BLEACHの登場人物 "wikilink")、[護廷十三隊](https://ja.wikipedia.org/wiki/護廷十三隊 "wikilink")を参照。*
+
+### メイン
+
+  - [黒崎一護](../Page/黒崎一護.md "wikilink")（くろさき いちご）
+    声 - [森田成一](../Page/森田成一.md "wikilink")
+    本作の主人公。ルキアから死神の力を得たのをきっかけに死神代行となる。今回王印強奪で失踪した日番谷と一連の真相を追究する。本作では一護とその家族の話も描かれ、その経験が日番谷の真意を知る起因となる。
+  - [日番谷冬獅郎](https://ja.wikipedia.org/wiki/日番谷冬獅郎 "wikilink")（ひつがや とうしろう）
+    声 - [朴璐美](../Page/朴ロ美.md "wikilink")
+    本作のメイン及びキーパーソン。護廷十三隊十番隊隊長。高い見識を持った銀髪の天才児。今回王印強奪事件に伴う謎の失踪を契機に尸魂界から反逆者として追われる身となる。
+
+### その他現世及び尸魂界関係者
+
+  - [朽木ルキア](https://ja.wikipedia.org/wiki/朽木ルキア "wikilink")（くちき ルキア）
+    声 - [折笠富美子](https://ja.wikipedia.org/wiki/折笠富美子 "wikilink")
+    『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH "wikilink")』の準主人公。護廷十三隊十三番隊隊員。本作では乱菊の頼みを受け恋次と共に現世へ赴き、一護と合流する。
+  - [阿散井恋次](https://ja.wikipedia.org/wiki/阿散井恋次 "wikilink")（あばらい れんじ）
+    声 - [伊藤健太郎](https://ja.wikipedia.org/wiki/伊藤健太郎_\(声優\) "wikilink")
+    護廷十三隊六番隊副隊長。ルキアとは幼馴染の間柄。乱菊の頼みを受けルキアと共に現世へ赴くが、日番谷の残した「クサカ」という言葉を調べるため尸魂界へ帰還した。
+  - 松本乱菊（まつもと らんぎく）
+    声 - [松谷彼哉](https://ja.wikipedia.org/wiki/松谷彼哉 "wikilink")
+    日番谷の副官。護廷十三隊中、最も妖艶な魅力を放つ美女。有事の際には日常の姿とは一転、峻烈かつ真撃な表情を見せる。今回の事件において、何も言わずに姿を消した日番谷をただ信じ、その固い信頼は変わることはなかった。
+  - 斑目一角（まだらめ いっかく）
+    声 - [檜山修之](../Page/檜山修之.md "wikilink")
+    護廷十三隊十一番隊第三席。自分が楽しむための戦いを好む好戦的な性格。席官の身にありながら卍解を習得している。
+  - 綾瀬川弓親（あやせがわ ゆみちか）
+    声 - [福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")
+    護廷十三隊十一番隊第五席。美意識が強いナルシストで美しいものを好む。一角とはよく行動を共にする。その実力は席次で示される以上。
+  - [朽木白哉](https://ja.wikipedia.org/wiki/朽木白哉 "wikilink")（くちき びゃくや）
+    声 - [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
+    護廷十三隊六番隊隊長。ルキアの義兄。四大貴族のうちの一つ、朽木家当主。
+  - [更木剣八](https://ja.wikipedia.org/wiki/更木剣八 "wikilink")（ざらき けんぱち）
+    声 - [立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")
+    護廷十三隊十一番隊隊長。前十一番隊隊長を倒し十一番隊隊長になった。
+    相変わらず化け物染みた霊圧と強さを誇る。
+  - 山本元柳斎重國（やまもとげんりゅうさい しげくに）
+    声 - [塚田正昭](https://ja.wikipedia.org/wiki/塚田正昭 "wikilink")
+    護廷十三隊一番隊隊長。日番谷の行動に謀反の疑いを向け、ついには処刑命令を下す。
+  - 砕蜂（ソイフォン）
+    声 - [川上とも子](../Page/川上とも子.md "wikilink")
+    護廷十三隊二番隊隊長・隠密機動総司令官及び同第一分隊「刑軍」総括軍団長。
+  - 卯ノ花烈（うのはな れつ）
+    声 - [久川綾](../Page/久川綾.md "wikilink")
+    護廷十三隊四番隊隊長。穏やかな雰囲気の女性。本作では元柳斎の決断に対し「聊か拙速では」と進言する場面も見られる。
+  - 狛村左陣（こまむら さじん）
+    声 - [稲田徹](https://ja.wikipedia.org/wiki/稲田徹 "wikilink")
+    護廷十三隊七番隊隊長。元柳斎の命令に絶対服従を貫く[人狼](../Page/狼男.md "wikilink")。
+  - 京楽春水（きょうらく しゅんすい）
+    声 - [大塚明夫](../Page/大塚明夫.md "wikilink")
+    護廷十三隊八番隊隊長。七緒と共に真相を探っていたが『氷輪丸』の攻撃を受け重傷を負う。だが、この出来事が事件の真相にたどり着く。
+  - [涅マユリ](https://ja.wikipedia.org/wiki/涅マユリ "wikilink")（くろつち マユリ）
+    声 - [中尾隆聖](../Page/中尾隆聖.md "wikilink")
+    護廷十三隊十二番隊隊長・技術開発局2代目局長。白哉と浮竹に『氷輪丸』に関する謎の調査を依頼される
+  - 浮竹十四郎（うきたけ じゅうしろう）
+    声 - [石川英郎](../Page/石川英郎.md "wikilink")
+    護廷十三隊十三番隊隊長。病弱で体は弱いが厚い人望の持ち主。
+  - 雀部長次郎（ささきべ ちょうじろう）
+    声 - [山口太郎](https://ja.wikipedia.org/wiki/山口太郎 "wikilink")
+    護廷十三隊一番隊副隊長。元柳斎の命を受け十番隊に内通者がいる虞を考慮し斬魄刀を回収する役回りを受けた。
+  - 大前田希千代（おおまえだ まれちよ）
+    声 - [樫井笙人](https://ja.wikipedia.org/wiki/樫井笙人 "wikilink")
+    護廷十三隊二番隊副隊長。実家が金持ちのボンボン。
+  - 吉良イヅル（きら イヅル）
+    声 - [櫻井孝宏](https://ja.wikipedia.org/wiki/櫻井孝宏 "wikilink")
+    護廷十三隊三番隊副隊長。檜佐木と共に日番谷を捜索、発見し、連れ戻そうとするが日番谷に倒されてしまう。
+  - 虎徹勇音（こてつ いさね）
+    声 - [ゆかな](../Page/ゆかな.md "wikilink")
+    護廷十三隊四番隊副隊長。清音の姉。身長187cmの長身の持ち主。
+  - 伊勢七緒（いせ ななお）
+    声 - [生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")
+    護廷十三隊八番隊副隊長。京楽と共に真相を探っていたが、京楽が重傷を負ったことに責任を感じてしまう。
+  - 檜佐木修兵（ひさぎ しゅうへい）
+    声 - [小西克幸](https://ja.wikipedia.org/wiki/小西克幸 "wikilink")
+    護廷十三隊九番隊副隊長。吉良と共に日番谷を捜索・発見し、連れ戻そうとするが日番谷に倒されてしまう。
+  - 虎徹清音（こてつ きよね）
+    声 - [西村ちなみ](../Page/西村ちなみ.md "wikilink")
+    護廷十三隊十三番隊第三席・副隊長代理。勇音の妹。
+  - [井上織姫](https://ja.wikipedia.org/wiki/井上織姫 "wikilink")（いのうえ おりひめ）
+    声 - [松岡由貴](../Page/松岡由貴.md "wikilink")
+    一護のクラスメイト。『盾舜六花』という小人達から成る盾であらゆる物を「拒絶」する霊能力を持つ。
+  - [茶渡泰虎](../Page/茶渡泰虎.md "wikilink")（さど やすとら）
+    声 - [安元洋貴](https://ja.wikipedia.org/wiki/安元洋貴 "wikilink")
+    一護のクラスメイトで、愛称は「チャド」。本作では技「巨人の一撃」（エル・ディレクト）でイン、ヤンの攻撃を弾き返し、一護、ルキアを援護した。
+  - [石田雨竜](../Page/石田雨竜.md "wikilink")（いしだ うりゅう）
+    声 - [杉山紀彰](https://ja.wikipedia.org/wiki/杉山紀彰 "wikilink")
+    一護のクラスメイト。死神に滅ぼされた一族『滅却師（クインシー）』の生き残り。本作では「銀嶺弧雀」（ギンレイコジャク）で虚を倒し、一護、ルキアを援護した。
+  - [浦原喜助](https://ja.wikipedia.org/wiki/浦原喜助 "wikilink")（うらはら きすけ）
+    声 - [三木眞一郎](https://ja.wikipedia.org/wiki/三木眞一郎 "wikilink")
+    [駄菓子屋](https://ja.wikipedia.org/wiki/駄菓子屋 "wikilink")『浦原商店』店主。一護ら現世メンバーをサポートする。
+  - 四楓院夜一（しほういん よるいち）
+    声 - [雪野五月](../Page/ゆきのさつき.md "wikilink")
+    元隠密機動総司令官及び同第一分隊「刑軍」総括軍団長。尸魂界での抗争では砕蜂と共に戦闘に参加する。
+  - 黒崎一心（くろさき いっしん）、黒崎遊子（くろさき ゆず）、黒崎夏梨（くろさき かりん）、黒崎真咲（くろさき まさき）
+    声 - [森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")（一心）、[瀬那歩美](https://ja.wikipedia.org/wiki/瀬那歩美 "wikilink")（遊子）、[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")（夏梨）、[大原さやか](../Page/大原さやか.md "wikilink")（真咲）
+    [一護の家族達](https://ja.wikipedia.org/wiki/BLEACHの登場人物#黒崎家 "wikilink")。本作では一護の回想シーンに登場。一護が日番谷の真意を理解するきっかけとなった。小説版では王印強奪事件後、倒れている日番谷を見つけたのは夏梨になっている
+  - [斬月](https://ja.wikipedia.org/wiki/黒崎一護#本体 "wikilink")（ざんげつ）
+    声 - [菅生隆之](https://ja.wikipedia.org/wiki/菅生隆之 "wikilink")
+    一護の精神世界に存在する一護の斬魄刀『斬月』の本体。人の話を聞かないで勝手に話を進める癖がある。本作では、一護が草冠の攻撃を受けた際に一護の精神世界に現れ、日番谷を信じる理由を一護自身に確かめさせた。
+  - [氷輪丸](https://ja.wikipedia.org/wiki/日番谷冬獅郎#本体 "wikilink")（ひょうりんまる）
+    声 - [松岡大介](../Page/松岡大介.md "wikilink")
+    斬魄刀『氷輪丸』の本体。姿は大きな翼を纏った氷の竜。
+
+### オリジナルキャラクター
+
+  - 草冠宗次郎（くさか そうじろう）
+    声 - [石田彰](../Page/石田彰.md "wikilink")
+    王印強奪事件の首謀者。日番谷とは真央霊術院時代からの友人で同期の間柄。かつては尸魂界のために死神を目指していたが、後述の経緯により尸魂界への復讐を目論んでいる。尸魂界の記録では既に死亡したことになっている。顔の右側に火傷のような傷跡がある。
+    彼もまた日番谷と同じ斬魄刀『氷輪丸』の持ち主である。日番谷と同じ氷輪丸を得たことを喜んでいたが、[中央四十六室は氷輪丸が二つ存在することを認めず](https://ja.wikipedia.org/wiki/BLEACH#中央四十六室 "wikilink")、『氷輪丸』の真の所有者を決めるため日番谷と殺し合うよう命じられ[一騎討ち](https://ja.wikipedia.org/wiki/一騎討ち "wikilink")の末、日番谷に敗北。その後隠密機動に粛清されるが、自身の魂魄が消えかける寸前に偶然浴びた王印の力により虚圏（ウェコムンド）で再構築される。その後、王印の力を解放する為に日番谷の卍解を利用しようとしていた。PSPソフトBLEACH～ヒート・ザ・ソウルシリーズとニンテンドーDSソフトBLEACH The 3rd Phantom にも登場している。
+      - 斬魄刀：『氷輪丸（ひょうりんまる）』
+        日番谷と同じ斬魄刀。基本的な能力は同じだが、鍔の形状と発する氷の色に違いがあり、日番谷の氷輪丸が水色であるのに対しこちらは紫色である。なお、卍解は習得していない。
+  - イン
+    声 - [久川綾](../Page/久川綾.md "wikilink")
+    青い髪を持つ女性。ヤンと容姿がそっくりで、額から後頭部にかけて細長い仮面がある。後頭部にある[鞭](https://ja.wikipedia.org/wiki/鞭 "wikilink")の様な武器を持ち、電気を纏わせて伸縮させることが可能。
+  - ヤン
+    声 - [ゆかな](../Page/ゆかな.md "wikilink")
+    赤い髪を持つ女性。インと容姿がそっくりで、格好も仮面の形もほとんど同じ。後頭部にある小刀が武器で、炎を纏わせて攻撃したり巨大な火球を放ったりすることができる。
+
+## 王印
+
+本作で登場するキーアイテム。[中央四十六室よりさらに上に存在する王族の秘宝であり](https://ja.wikipedia.org/wiki/BLEACH#瀞霊廷（せいれいてい） "wikilink")、神器。王族以外の者は誰も存在を見たことが無い。保管地は数十年ごとに遷移されており、その際、能楽師や鬼道衆で構成された神輿で運ばれるといった神々しい行列を作る。
+
+全ての時間・空間・次元を操る神同等の能力を持ち、それにより空間移動を容易に行え、傷を受けても次元の移動により織姫の「双天帰盾」さながらに傷を負う以前の状態に戻すことができる。さらに斬魄刀で王印を斬ることにより最強の力を得ることが出来るが、その力は【卍解】の力で斬らないと制御することができず、【卍解】以外の剣で開放すると暴走してしまう。
+
+## スタッフ
+
+  - 原作 - [久保帯人](https://ja.wikipedia.org/wiki/久保帯人 "wikilink")
+  - 監督 - [阿部記之](https://ja.wikipedia.org/wiki/阿部記之 "wikilink")
+  - 脚本 - [横手美智子](https://ja.wikipedia.org/wiki/横手美智子 "wikilink")、大久保昌弘（戦闘シーン担当）
+  - 絵コンテ - 阿部記之、斉藤哲人、[水野和則](https://ja.wikipedia.org/wiki/水野和則 "wikilink")、深澤学、佐々木守
+  - 演出 - 阿部記之、水野和則、小柴純弥、[神谷純](https://ja.wikipedia.org/wiki/神谷純 "wikilink")
+  - キャラクターデザイン - [工藤昌史](https://ja.wikipedia.org/wiki/工藤昌史 "wikilink")
+  - 作画監督 - 工藤昌史、高木弘樹、[河村明夫](https://ja.wikipedia.org/wiki/かわむらあきお "wikilink")、[大西雅也](https://ja.wikipedia.org/wiki/大西雅也 "wikilink")、三好和也、小木曽伸吾、細越裕治、ふかざわまなぶ、[もりやまゆうじ](https://ja.wikipedia.org/wiki/森山雄治 "wikilink")
+  - エフェクト作画監督 - [橋本敬史](https://ja.wikipedia.org/wiki/橋本敬史 "wikilink")
+  - 美術監督 - 清水友幸
+  - 色彩設計 - 上谷秀夫、安斉寛美、阿部紀子
+  - 撮影監督 - 福島敏行
+  - 編集 - 植松淳一、奥野英俊
+  - 音楽 - [鷺巣詩郎](https://ja.wikipedia.org/wiki/鷺巣詩郎 "wikilink")
+  - プロデューサー - 深沢幹彦、青木俊志、萩野賢
+  - アニメーション制作 - [studioぴえろ](../Page/ぴえろ.md "wikilink")
+  - 製作 - 劇場版BLEACH2製作委員会（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[集英社](../Page/集英社.md "wikilink")、ぴえろ、[電通](../Page/電通.md "wikilink")、[アニプレックス](../Page/アニプレックス.md "wikilink")、[東宝](../Page/東宝.md "wikilink")、[バンダイ](../Page/バンダイ.md "wikilink")、[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")）
+
+## 主題歌
+
+  - 「[光のロック](https://ja.wikipedia.org/wiki/光のロック "wikilink")」
+    作詞・作曲 - 山口隆 / 歌 - [サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")
+
+## 関連商品
+
+  - 小説
+    2007年12月18日発行。
+    本作のノベライズ本。著者は[松原真琴](https://ja.wikipedia.org/wiki/松原真琴 "wikilink")。映画とは違い、本編には登場しない[コンとチャッピーが登場している](../Page/コン_\(BLEACH\).md "wikilink")。
+  - DVD
+    2008年9月3日発売。
+    完全限定生産版にはメイキング映像が収録されたDVDと週刊少年ジャンプと単行本32巻に収録された日番谷の過去を描いた「氷原に死す」のドラマCDが特典としてついてくる。
+  - アニメコミックス
+    2008年12月発売、ISBN 978-4-0887-4802-3
+    本作のアニメコミックス。[久保帯人](https://ja.wikipedia.org/wiki/久保帯人 "wikilink")へのインタビュー、草冠や幼少時代の日番谷のラフデザインも収録。
+
+## 『劇場版 NARUTO -ナルト- 疾風伝』限定の予告編
+
+『[劇場版 NARUTO -ナルト- 疾風伝](../Page/劇場版_NARUTO_-ナルト-_疾風伝.md "wikilink")』の上映期間中に、テレビアニメ版のエンディングコーナー『死神図鑑ゴールデン』バージョンの予告編が上映された。
+
+冒頭のコンのスタジオの壁には、『劇場版 NARUTO -ナルト- 疾風伝』のポスターが貼られている（合成ではなく手書き）。
+
+## 脚注
+
+## 外部リンク
+
+  - [公式サイト](http://www.tv-tokyo.co.jp/bleach/2007/index.html)
+
+[Category:BLEACH](https://ja.wikipedia.org/wiki/Category:BLEACH "wikilink") [Category:2007年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2007年のアニメ映画 "wikilink") [Category:日本のテレビアニメの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビアニメの劇場版 "wikilink") [Category:テレビ東京製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:テレビ東京製作のアニメ映画 "wikilink") [Category:電通のアニメ作品](https://ja.wikipedia.org/wiki/Category:電通のアニメ作品 "wikilink") [Category:アニプレックスのアニメ映画](https://ja.wikipedia.org/wiki/Category:アニプレックスのアニメ映画 "wikilink") [Category:東宝製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:東宝製作のアニメ映画 "wikilink") [Category:セガグループのアニメ作品](https://ja.wikipedia.org/wiki/Category:セガグループのアニメ作品 "wikilink") [Category:ソニー・インタラクティブエンタテインメントのアニメ作品](https://ja.wikipedia.org/wiki/Category:ソニー・インタラクティブエンタテインメントのアニメ作品 "wikilink") [Category:ジャンプ・コミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ジャンプ・コミックスのアニメ作品 "wikilink") [Category:ファンタジーアニメ映画](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ映画 "wikilink") [Category:格闘技を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:格闘技を題材とした映画作品 "wikilink") [Category:阿部記之の監督映画](https://ja.wikipedia.org/wiki/Category:阿部記之の監督映画 "wikilink") [Category:鷺巣詩郎の作曲映画](https://ja.wikipedia.org/wiki/Category:鷺巣詩郎の作曲映画 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")

@@ -1,0 +1,110 @@
+> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+
+
+『**スーパーJチャンネルおおいた**』（スーパージェイチャンネルおおいた）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2019年](../Page/2019年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[大分朝日放送](../Page/大分朝日放送.md "wikilink")で平日 18:25 - 18:55（[JST](../Page/日本標準時.md "wikilink")）に放送された。夕方の[ローカルワイド](https://ja.wikipedia.org/wiki/ローカルワイド番組 "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。
+
+## 概要
+
+1993年のOAB開局時から2007年3月30日まで放送されていた『[OABプライムニュース](https://ja.wikipedia.org/wiki/OABプライムニュース "wikilink")』の後継番組。キャッチフレーズは「**ニュースな時代（とき）に**」。
+
+2007年4月2日から2009年3月27日までは18:28（実際は18:28.30）開始だったが、2009年3月30日からは『OABプライムニュース』時代と同じく18:30開始になった。
+
+2010年3月29日からは『[スーパーJチャンネル九州・沖縄](https://ja.wikipedia.org/wiki/スーパーJチャンネル九州・沖縄 "wikilink")』終了後（18:28.30 - 18:28.45）に予告を挿むようになった。
+
+2013年1月7日、『スーパーJチャンネル九州・沖縄』の枠移動に伴い、18:27開始となる。2015年4月1日からは18:25開始となり、放送時間が2分拡大した。
+
+2018年4月2日から『[シリタカ\!](https://ja.wikipedia.org/wiki/シリタカ! "wikilink")』が18:15 - 18:25まで放送する。番組表では『スーパーJチャンネル九州・沖縄』と表示している。『シリタカ\!』とは[ステーションブレイク無しで接続する](https://ja.wikipedia.org/wiki/コマーシャルメッセージ#CMの種類 "wikilink")。
+
+## 出演者
+
+### キャスター
+
+  - [椎木麻衣](https://ja.wikipedia.org/wiki/椎木麻衣 "wikilink")
+  - [大久保千夏](../Page/大久保千夏.md "wikilink")
+  - [冨永実加子](https://ja.wikipedia.org/wiki/冨永実加子 "wikilink")
+
+### トリニータコーナー
+
+  - [増田忠俊](https://ja.wikipedia.org/wiki/増田忠俊 "wikilink") - [大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")のJ2リーグ戦の試合があった翌月曜日（もしくは木曜日）にのみVTR出演。増田's EYEで試合の分析を行っている。2010年からは出演しない日もある。
+
+### お天気コーナー
+
+  - 坂井一郎（[気象予報士](../Page/気象予報士.md "wikilink")）
+
+### 過去の出演者　
+
+#### キャスター
+
+  - [長田次郎](https://ja.wikipedia.org/wiki/長田次郎 "wikilink") - 『OABプライムニュース』時代から2012年まで19年間キャスターを務めていた。
+  - [児玉泰一郎](https://ja.wikipedia.org/wiki/児玉泰一郎 "wikilink")
+  - [村島里佳](https://ja.wikipedia.org/wiki/村島里佳 "wikilink")
+  - [楠元正孝](https://ja.wikipedia.org/wiki/楠元正孝 "wikilink")
+  - [高嶋和代](https://ja.wikipedia.org/wiki/高嶋和代 "wikilink")
+
+#### コメンテーター
+
+  - 辻野功（[別府大学](https://ja.wikipedia.org/wiki/別府大学 "wikilink")[教授](https://ja.wikipedia.org/wiki/教授 "wikilink")）
+  - 古庄玄知（[弁護士](../Page/弁護士.md "wikilink")）
+  - [松田健太郎](https://ja.wikipedia.org/wiki/松田健太郎 "wikilink")（弁護士）
+
+#### お天気コーナー
+
+  - [山下拓見](https://ja.wikipedia.org/wiki/山下拓見 "wikilink")
+
+### レポーター
+
+  - [きどゆういち](https://ja.wikipedia.org/wiki/きどゆういち "wikilink")
+
+## タイトルロゴ
+
+  - 初代：2007年4月2日 - 2015年3月29日
+      - カラーリング：
+
+<!-- end list -->
+
+  -
+    何重にも重なったオレンジ色の円の中に白の「」、その上は円に沿うように「」の文字、円の右にゴシック体の「」。「チャンネル」の右には楕円に入った「」が付いていた。
+
+<!-- end list -->
+
+  - 2代目：2015年3月30日 - 2019年3月29日
+      - カラーリング：
+
+<!-- end list -->
+
+  -
+    ひとつの赤い円の中に「」が左、「」が右、「」が下。
+
+## 備考
+
+  - 2009年3月27日までは、実質的な放送時間が『OABプライムニュース』時代よりも前後1分30秒、計3分長くなっていたが、2007年8月27日からは番組放送終了が18:51.30に戻ったため、前1分30秒だけ長くなったことになり、2009年3月30日からは放送時間が以前と同様になった。
+
+  - 『スーパーJチャンネル九州・沖縄』の放送終了後、1分30秒の[ステーションブレイク無しで接続](https://ja.wikipedia.org/wiki/コマーシャルメッセージ#CMの種類 "wikilink")（放送開始からの2年間はステーションブレイク無しだった）。OABの17時台 - 18時台は『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』のタイトルで統一された。
+
+  - 。
+
+  - 一方で他の局に比べると天気予報の時間が非常に短く（平均で1分 - 1分半、短い時は20秒程度）、予想最高気温も画面には表示されずに口頭で伝えるのみ（たまに表示される日も）だったが、坂井一郎気象予報士が出演するようになり、時間も、内容も充実された。
+
+  - [コメンテーター](../Page/コメンテーター.md "wikilink")は3人いたが、古庄と松田は裁判や刑事事件のニュースがある際に出演することが多く、また2人とも弁護士であるために代理人としてニュースの当事者になる場合もあり、その場合はニュースの公平性から出演できないことから、辻野の出演が必然的に多くなっていた（古庄は2009年3月まで）。2009年10月5日からはコメンテーターがいなくなった。
+
+  - 週末には短時間ではあるが、県内ニュースを伝えている。
+
+  - 一部新聞等のテレビ番組欄では『スーパーJチャンネル九州・沖縄』と一括で『スーパーJチャンネル』に内包扱いされている（事実上[コンプレックス状態](https://ja.wikipedia.org/wiki/コンプレックス_\(番組形式\) "wikilink")）。
+
+## イベント
+
+  - 「スーパーJチャンネルOABファンのつどい」（大分朝日放送主催、2007年[3月10日](../Page/3月10日.md "wikilink")、大分県内）
+
+## 関連項目
+
+  - [OABニュース](https://ja.wikipedia.org/wiki/OABニュース "wikilink")
+  - [OABプライムニュース](https://ja.wikipedia.org/wiki/OABプライムニュース "wikilink") - 前番組。
+  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+  - [スーパーJチャンネル九州・沖縄](https://ja.wikipedia.org/wiki/スーパーJチャンネル九州・沖縄 "wikilink")
+  - [ANN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/ANN夕方ローカルニュース一覧 "wikilink")
+
+## 外部リンク
+
+  - [スーパーJチャンネルおおいた│OAB番組制作｜番組案内｜OAB 大分朝日放送](http://www.oab.co.jp/programguide/oab_jchannel.html)
+
+[Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:大分朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:大分朝日放送のテレビ番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組 "wikilink") [Category:九州・沖縄地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの帯番組 "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")

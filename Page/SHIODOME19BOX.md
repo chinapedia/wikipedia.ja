@@ -1,0 +1,57 @@
+> この記事は[SHIODOME19BOX](https://ja.wikipedia.org/wiki/SHIODOME19BOX)から翻訳されています。
+
+
+**SHIODOME 19BOX** (しおどめじゅうくぼっくす・汐留19BOX) は、[日本テレビ系の技術会社](../Page/日本テレビ放送網.md "wikilink") [日テレ・テクニカル・リソーシズ](../Page/日テレ・テクニカル・リソーシズ.md "wikilink")(略称 NiTRo)によって運営される[汐留](../Page/汐留.md "wikilink")・[日本テレビタワー](../Page/日本テレビタワー.md "wikilink")内19階にある[ポストプロダクション](https://ja.wikipedia.org/wiki/ポストプロダクション "wikilink")拠点。
+
+## 所在地
+
+[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[東新橋](../Page/東新橋.md "wikilink")1丁目6番1号
+
+## 概要
+
+SHIODOME 19BOXは、主に日本テレビの[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")の素材編集や収録番組の編集作業を行うために、[日本テレビタワー](../Page/日本テレビタワー.md "wikilink")内に設置されているポスト・プロダクション拠点であり、以前は旧[NTV映像センター](https://ja.wikipedia.org/wiki/NTV映像センター "wikilink")、旧[日本テレビビデオ](https://ja.wikipedia.org/wiki/日本テレビビデオ "wikilink")、旧[日本テレビエンタープライズ](https://ja.wikipedia.org/wiki/日本テレビエンタープライズ "wikilink")の3社によって運営されていた。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の日本テレビ・グループ会社の再編に伴い、現在は技術会社の株式会社 [日テレ・テクニカル・リソーシズ](../Page/日テレ・テクニカル・リソーシズ.md "wikilink")（NiTRo）によって運営されており、[映像編集スタジオ](https://ja.wikipedia.org/wiki/スタジオ_\(映像編集\) "wikilink")27室、[MA室](https://ja.wikipedia.org/wiki/マルチオーディオ "wikilink")4室を有する。
+なお、同社では日本テレビタワーと道を挟んで向かいにある丸進ビル新館にもポストプロダクション拠点を持ち、映像編集・MA・CG製作等の業務を行っている。
+
+## 主な編集参加作品
+
+（丸新ビル新館での編集を含む）
+
+  - [NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")　スポーツニュース・コーナー
+  - [スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")
+  - [ズームイン\!\!SUPER](https://ja.wikipedia.org/wiki/ズームイン!!SUPER "wikilink")
+  - [ズームイン\!\!サタデー](../Page/ズームイン!!サタデー.md "wikilink")
+  - [THE・サンデー](https://ja.wikipedia.org/wiki/THE・サンデー "wikilink")
+  - [真相報道 バンキシャ\!](../Page/真相報道_バンキシャ!.md "wikilink")
+  - [Going\!Sports\&News](https://ja.wikipedia.org/wiki/Going!Sports&News "wikilink")
+  - [DON\!](https://ja.wikipedia.org/wiki/DON! "wikilink")
+  - [PON\!](https://ja.wikipedia.org/wiki/PON! "wikilink")
+  - [踊る\!さんま御殿\!\!](https://ja.wikipedia.org/wiki/踊る!さんま御殿!! "wikilink")
+  - [行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")
+  - [メレンゲの気持ち](../Page/メレンゲの気持ち.md "wikilink")
+  - [スパモク\!\!](https://ja.wikipedia.org/wiki/スパモク!! "wikilink")（[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）
+  - [火曜サプライズ](https://ja.wikipedia.org/wiki/火曜サプライズ "wikilink")
+  - [ジャック10](https://ja.wikipedia.org/wiki/ジャック10 "wikilink")
+  - [アナザースカイ](https://ja.wikipedia.org/wiki/アナザースカイ "wikilink")
+  - [レコ☆HITS\!](https://ja.wikipedia.org/wiki/レコ☆HITS! "wikilink")
+  - [笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")
+  - [ぶらり途中下車の旅](https://ja.wikipedia.org/wiki/ぶらり途中下車の旅 "wikilink")
+  - [サッカーアース](https://ja.wikipedia.org/wiki/サッカーアース "wikilink")
+  - [NNNドキュメント](https://ja.wikipedia.org/wiki/NNNドキュメント "wikilink")
+  - [音のソノリティ](https://ja.wikipedia.org/wiki/音のソノリティ "wikilink")
+  - [キユーピー3分クッキング](../Page/キユーピー3分クッキング.md "wikilink")
+  - [ラジかるッ](https://ja.wikipedia.org/wiki/ラジかるッ "wikilink")
+  - [午後は○○おもいッきりテレビ](../Page/午後は○○おもいッきりテレビ.md "wikilink")
+  - [ザ・ワイド](../Page/ザ・ワイド.md "wikilink")
+  - [今田ハウジング](https://ja.wikipedia.org/wiki/今田ハウジング "wikilink")
+  - [スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")
+
+## 関連項目
+
+  - [日テレ・テクニカル・リソーシズ](../Page/日テレ・テクニカル・リソーシズ.md "wikilink")
+  - [日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")
+
+## 外部リンク
+
+  - [日テレ・テクニカル・リソーシズ](http://www.nitro.co.jp/)
+
+[Category:日本テレビ放送網](https://ja.wikipedia.org/wiki/Category:日本テレビ放送網 "wikilink") [Category:テレビ技術会社](https://ja.wikipedia.org/wiki/Category:テレビ技術会社 "wikilink")

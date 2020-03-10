@@ -1,0 +1,115 @@
+> この記事は[BIZ](https://ja.wikipedia.org/wiki/BIZ)から翻訳されています。
+
+
+**BIZシリーズ**とは、劇団[AGAPE storeの](https://ja.wikipedia.org/wiki/AGAPE_store "wikilink")、「**BIG BIZ**」「**BIGGER BIZ**」「**BIGGEST BIZ**」から成る演劇作品三部作。
+
+[松尾貴史](../Page/松尾貴史.md "wikilink")演じる**健三**を中心とした、トラブルを起こしながらも大金を掴むストーリーとなっている。
+
+## スタッフ
+
+  - 作：[後藤ひろひと](https://ja.wikipedia.org/wiki/後藤ひろひと "wikilink")
+  - 演出：[G2](https://ja.wikipedia.org/wiki/G2_\(演出家\) "wikilink")
+
+## BIG BIZ 〜宮原木材危機一髪\!〜
+
+AGAPE store\#4、\#6（再演）。3部作の1作目である。初演は[2001年](../Page/2001年.md "wikilink")5月で、[2002年](../Page/2002年.md "wikilink")9月に再演。
+
+### ストーリー
+
+ある企業に勤める男・**結城**は、「税金対策の為のペーパーカンパニーを作れ」との命令を受ける。結城は適当に「宮原木材」と名前を付け、暇な日々を過ごしていた。
+
+そこに、結城の旧友である**健三**がやってくる。全てをトラブルに変えるこの男は、たまたま宮原木材にかかってきた電話を、様々な声色を使いこなして引き受けてしまうのである。
+
+結城はどうにか健三にそれを止めさせようとするのだが、怪しげな連中が次々と事務所に集まってきて……。
+
+### キャスト
+
+  - 健三：[松尾貴史](../Page/松尾貴史.md "wikilink")
+  - 結城：[粟根まこと](https://ja.wikipedia.org/wiki/粟根まこと "wikilink")
+  - 木太郎：[八十田勇一](https://ja.wikipedia.org/wiki/八十田勇一 "wikilink")
+  - 皿袋：[松永玲子](https://ja.wikipedia.org/wiki/松永玲子 "wikilink")
+  - 神崎：[後藤ひろひと](https://ja.wikipedia.org/wiki/後藤ひろひと "wikilink")
+
+## BIGGER BIZ 〜絶体絶命\!結城死す?〜
+
+AGAPE store\#7、\#9（再演）。3部作の2作目。初演は[2003年](../Page/2003年.md "wikilink")2月で、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月に再演。
+
+### ストーリー
+
+前作「BIG BIZ」で大企業となった会社に、危機が訪れる。ミラノの大富豪・デルベッキオとの契約が切れ、再契約しなければ会社の存続に係わるというのだ。
+
+社長の**結城**は新入社員・**加賀**と一緒にシンガポールへ向かうが、**健三**のせいで謎の発作を起こし、失踪してしまう。他のメンバーである**木太郎**や**皿袋**、**神崎**は役に立たず、相手側の代理人である**川島**にも怪しい影が……。
+
+### キャスト
+
+  - 健三：[松尾貴史](../Page/松尾貴史.md "wikilink")
+  - 結城：[粟根まこと](https://ja.wikipedia.org/wiki/粟根まこと "wikilink")（今回は声のみの出演である）
+  - 木太郎：[八十田勇一](https://ja.wikipedia.org/wiki/八十田勇一 "wikilink")
+  - 皿袋：[松永玲子](https://ja.wikipedia.org/wiki/松永玲子 "wikilink")
+  - 神崎：[後藤ひろひと](https://ja.wikipedia.org/wiki/後藤ひろひと "wikilink")
+  - 加賀：[坂田聡](https://ja.wikipedia.org/wiki/坂田聡 "wikilink")
+  - 川島：[三上市朗](https://ja.wikipedia.org/wiki/三上市朗 "wikilink")
+
+## BIGGEST BIZ 〜最後の決戦\!ハドソン川を越えろ〜
+
+AGAPE store\#11。3部作の3作目。初演は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月。
+
+「BIGGER BIZ」再演時は「最期の決戦！二人の木太郎」という副題だった。
+
+### ストーリー
+
+**神崎**が経営する雑貨＆カフェに、**摩耶**と**潤一**が強盗に入る。レジの金を奪うだけのはずだったが、勘違いの達人である**木太郎**や社長となった**加賀**、そして例の男・**健三**との出会いにより、話はどんどんこじれていく。
+
+そしていつものメンバーがそこに集まってきて、ちっぽけな強盗話は何億ドルもの大金を巡るビジネスゲームへ……。
+
+### キャスト
+
+  - 健三：[松尾貴史](../Page/松尾貴史.md "wikilink")
+  - 結城：[粟根まこと](https://ja.wikipedia.org/wiki/粟根まこと "wikilink")
+  - 木太郎：[八十田勇一](https://ja.wikipedia.org/wiki/八十田勇一 "wikilink")
+  - 皿袋：[松永玲子](https://ja.wikipedia.org/wiki/松永玲子 "wikilink")
+  - 神崎：[後藤ひろひと](https://ja.wikipedia.org/wiki/後藤ひろひと "wikilink")
+  - 加賀：[坂田聡](https://ja.wikipedia.org/wiki/坂田聡 "wikilink")
+  - 川島：[三上市朗](https://ja.wikipedia.org/wiki/三上市朗 "wikilink")
+  - 摩耶：[篠原ともえ](../Page/篠原ともえ.md "wikilink")
+  - 潤一：[菅原永二](https://ja.wikipedia.org/wiki/菅原永二 "wikilink")
+
+## 登場人物
+
+### BIG BIZから登場
+
+  - 健三（[松尾貴史](../Page/松尾貴史.md "wikilink")）
+      -
+        日本一能天気な男。楽しければそれでいい性格。完全無欠のトラブルメイカーである。BIGでは声色を使い分けて、およそ50人もの人格を演じきる。結城とは幼馴染。
+  - 結城（[粟根まこと](https://ja.wikipedia.org/wiki/粟根まこと "wikilink")）
+      -
+        ペーパーカンパニー「宮原木材」の電話番だったが、幼馴染の健三の引き起こしたトラブルがきっかけで、「結城ビッグビズエンタープライズ」という大会社の社長となる。しかしBIGGERでは失踪中に社長から国際テロリストに肩書きが変更してしまった。
+  - 皿袋（[松永玲子](https://ja.wikipedia.org/wiki/松永玲子 "wikilink")）
+      -
+        超天才[ハッカー](../Page/ハッカー.md "wikilink")。愛称は**サラ**。普段は小汚い年齢不詳女だが、仕事となると無駄にエロい衣装でハッキングに挑む。チームの頭脳的存在。
+  - 木太郎（[八十田勇一](https://ja.wikipedia.org/wiki/八十田勇一 "wikilink")）
+      -
+        勘違いの天才。地味ではあるが、意外な職歴でピンチを救うことも。
+  - 神崎（[後藤ひろひと](https://ja.wikipedia.org/wiki/後藤ひろひと "wikilink")）
+      -
+        自称・画家。[フランク・シナトラ](https://ja.wikipedia.org/wiki/フランク・シナトラ "wikilink")を心から愛する髭の男。シナトラの歌を聴くと並々ならぬパワーを発揮する。川島とは永遠のライバル。
+
+### BIGGER BIZから登場
+
+  - 加賀（[坂田聡](https://ja.wikipedia.org/wiki/坂田聡 "wikilink")）
+      -
+        新入社員。結城と共にシンガポールへ向かったが、そこでの事件の結果、BIGGESTでは新社長として登場する。
+  - 川島（[三上市朗](https://ja.wikipedia.org/wiki/三上市朗 "wikilink")）
+      -
+        ミラノの大富豪・デルベッキオの代理人として調印にやってきたが、正体は乗っ取り屋。結城の会社を乗っ取ろうと画策したが、[トム・ジョーンズを愛するが故に神崎と死闘を繰り広げた](https://ja.wikipedia.org/wiki/トム・ジョーンズ_\(歌手\) "wikilink")。
+
+### BIGGEST BIZから登場
+
+  - 潤一（[菅原永二](https://ja.wikipedia.org/wiki/菅原永二 "wikilink")）
+      -
+        政治家見習いとして渡米したのだが、幼馴染の摩耶と共に、何故か田舎町で強盗を企てている。
+  - 摩耶（[篠原ともえ](../Page/篠原ともえ.md "wikilink")）
+      -
+        潤一の幼馴染で、アメリカの大学に通っていた。
+
+[Category:日本の舞台作品](https://ja.wikipedia.org/wiki/Category:日本の舞台作品 "wikilink") [Category:2001年の舞台作品](https://ja.wikipedia.org/wiki/Category:2001年の舞台作品 "wikilink") [Category:三部作](https://ja.wikipedia.org/wiki/Category:三部作 "wikilink")

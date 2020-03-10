@@ -1,0 +1,100 @@
+> この記事は[KPE](https://ja.wikipedia.org/wiki/KPE)から翻訳されています。
+
+
+**KPE株式会社**（ケーピーイー）は、[コナミグループの](../Page/コナミホールディングス.md "wikilink")[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")・[パチスロ](../Page/パチスロ.md "wikilink")機器製造会社。
+
+## 概要
+
+[1999年](../Page/1999年.md "wikilink")6月、**コナミパーラーエンタテインメント**として設立、[2002年](../Page/2002年.md "wikilink")11月より現社名となる。当初はパチンコ機の[液晶](../Page/液晶.md "wikilink")表示装置・映像コンテンツの開発・製造・販売を手がけたが、[OEM](../Page/OEM.md "wikilink")提供のためKPEとして表に出ることは少ない。東京都[カジノ](../Page/カジノ.md "wikilink")構想が持ち上がった時は、重点をゲーミングマシンにシフトしたこともある。
+
+[2004年](../Page/2004年.md "wikilink")からはパチスロ機本体の開発・製造・販売に参入。4号機時代は試作機の開発に留まり、実際に販売にこぎつけたのは[5号機からとなる](https://ja.wikipedia.org/wiki/5号機_\(パチスロ\) "wikilink")。主にコナミグループのゲーム等各種コンテンツを原作とした機種や、[マジカルハロウィン](../Page/マジカルハロウィン.md "wikilink")シリーズ等の[萌えスロ](https://ja.wikipedia.org/wiki/萌えスロ "wikilink")を手がけている。KPEが製造・発売するパチスロは、KPEのコピーライト標記がなされている。
+
+2012年2月、前年コナミグループ入りした同業の高砂電器産業（現・[コナミアミューズメント](../Page/コナミアミューズメント.md "wikilink")）と「KPE・高砂販売株式会社(KTS)」を設立、同年4月に営業部門を統合したものの、KTSは2017年4月1日付でコナミアミューズメントへ吸収合併された。
+
+2018年以降の企業活動は、連動サービスであったe-SLOTが同年1月9日の10:00をもって終了した他\[1\]、（コナミホールディングス公式サイトのグループ会社の項からもKPEが削除されている）\[2\]。
+
+2019年7月に本店所在地を愛知県一宮市（コナミアミューズメント本社）へ移転している\[3\]。
+
+## 事業所
+
+  - 一宮事業所：[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[一宮市](../Page/一宮市.md "wikilink")[高田](https://ja.wikipedia.org/wiki/高田 "wikilink")池尻1（コナミ一宮事業所内）
+  - 赤坂事業所：[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂](../Page/赤坂_\(東京都港区\).md "wikilink")9-7-2 （コナミホールディングス本社内）
+
+## 機種一覧
+
+### 5号機
+
+| 機種名                                                                               | 発売年月     | 備考                                                                      |
+| --------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------- |
+| [ランブルローズ](https://ja.wikipedia.org/wiki/ランブルローズ "wikilink")                       | 2006年8月  | 初参入機種                                                                   |
+| パチスロあっぱれ応援団                                                                       | 2007年2月  | [京楽産業.](https://ja.wikipedia.org/wiki/京楽産業. "wikilink")の同名パチンコ機からのスピンオフ |
+| トレジャーパイレーツ                                                                        | 2007年3月  | 業界初「デュアルリンクスクリーン」を搭載                                                    |
+| パチスロ女ねずみ小僧ただいま参上\!                                                                | 2007年6月  | [ニューギン](https://ja.wikipedia.org/wiki/ニューギン "wikilink")の同名パチンコ機からのスピンオフ |
+| [マジカルハロウィン](../Page/マジカルハロウィン.md "wikilink")                                      | 2007年7月  |                                                                         |
+| [ツインビー](https://ja.wikipedia.org/wiki/ツインビーJG "wikilink")                         | 2007年9月  |                                                                         |
+| サンバ×サンバ                                                                           | 2007年12月 |                                                                         |
+| [beatmania](https://ja.wikipedia.org/wiki/beatmania_\(パチスロ\) "wikilink")          | 2008年4月  | 新筐体採用                                                                   |
+| [爆音伝説サクラ](https://ja.wikipedia.org/wiki/爆音伝説サクラ "wikilink")                       | 2008年8月  |                                                                         |
+| キャプテンシャーク                                                                         | 2008年11月 |                                                                         |
+| ランブルローズXX                                                                         | 2008年11月 |                                                                         |
+| [悪魔城ドラキュラ](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ_\(曖昧さ回避\) "wikilink")           | 2009年1月  |                                                                         |
+| マジカルハロウィンR                                                                        | 2009年3月  | マジカルハロウィンのマイナーチェンジ版                                                     |
+| プリティ戦記                                                                            | 2009年4月  |                                                                         |
+| 国際サラリーマンとおるくん                                                                     | 2009年4月  |                                                                         |
+| [がんばれゴエモン](https://ja.wikipedia.org/wiki/がんばれゴエモン "wikilink")                     | 2009年5月  |                                                                         |
+| [ときめきメモリアル](../Page/ときめきメモリアル.md "wikilink")                                      | 2009年11月 |                                                                         |
+| [マジカルハロウィン2](https://ja.wikipedia.org/wiki/マジカルハロウィン2 "wikilink")                 | 2010年1月  | マジカルハロウィンの後継機                                                           |
+| スパイガール                                                                            | 2010年4月  |                                                                         |
+| 悪魔城ドラキュラII                                                                        | 2010年7月  | 悪魔城ドラキュラの後継機                                                            |
+| [極楽パロディウス](https://ja.wikipedia.org/wiki/極上パロディウス_〜過去の栄光を求めて〜 "wikilink")         | 2010年9月  |                                                                         |
+| 極楽パロディウスA                                                                         | 2010年11月 |                                                                         |
+| [幻想水滸伝](https://ja.wikipedia.org/wiki/幻想水滸伝シリーズ "wikilink")                       | 2011年1月  |                                                                         |
+| 雀龍桜花                                                                              | 2011年5月  | [麻雀格闘倶楽部](https://ja.wikipedia.org/wiki/麻雀格闘倶楽部 "wikilink")シリーズのスピンオフ   |
+| [グラディウス・ザ・スロット](https://ja.wikipedia.org/wiki/グラディウス・ザ・スロット "wikilink")           | 2011年7月  |                                                                         |
+| [マジカルハロウィン3](https://ja.wikipedia.org/wiki/マジカルハロウィン3 "wikilink")                 | 2011年9月  | マジカルハロウィン2の後継機                                                          |
+| がんばれゴエモン2                                                                         | 2011年11月 | がんばれゴエモンの後継機                                                            |
+| 悪魔城ドラキュラIII                                                                       | 2012年2月  | 悪魔城ドラキュラIIの後継機                                                          |
+| スパイガール2                                                                           | 2012年5月  | スパイガールの後継機                                                              |
+| 戦人-[上杉謙信](../Page/上杉謙信.md "wikilink")-                                            | 2012年9月  |                                                                         |
+| ランブルローズ3D                                                                         | 2012年11月 |                                                                         |
+| [戦国コレクション](https://ja.wikipedia.org/wiki/戦国コレクション#パチスロ "wikilink")                | 2013年1月  |                                                                         |
+| [魂斗羅](https://ja.wikipedia.org/wiki/魂斗羅 "wikilink")3D                             | 2013年8月  |                                                                         |
+| マジカルハロウィン4                                                                        | 2013年11月 | マジカルハロウィン3の後継機                                                          |
+| 激闘\! 西遊記                                                                          | 2014年1月  | AT新技術「アクセルAT」を搭載                                                        |
+| 喧嘩祭                                                                               | 2014年4月  | 「アクセルAT」第2弾                                                             |
+| [麻雀格闘倶楽部](https://ja.wikipedia.org/wiki/麻雀格闘倶楽部 "wikilink")                       | 2014年5月  |                                                                         |
+| [Dororonえん魔くん メ〜ラめら](https://ja.wikipedia.org/wiki/Dororonえん魔くん_メ〜ラめら "wikilink") | 2014年12月 |                                                                         |
+| 戦国コレクション2                                                                         | 2015年3月  |                                                                         |
+| [ハイスクールD×D](https://ja.wikipedia.org/wiki/ハイスクールD×D "wikilink")                   | 2015年11月 |                                                                         |
+
+### 5.5号機・5.9号機
+
+| 機種名                                                                       | 発売年月     | 備考                       |
+| ------------------------------------------------------------------------- | -------- | ------------------------ |
+| マジカルハロウィン5                                                                | 2016年2月  |                          |
+| セブンズビート                                                                   | 2016年8月  | beatmaniaとのコラボ第2弾        |
+| [メタルギアソリッド スネークイーター](https://ja.wikipedia.org/wiki/メタルギアソリッド3 "wikilink") | 2016年10月 | 32インチ液晶搭載の新筐体「BIGBOSS」採用 |
+| 麻雀格闘倶楽部2                                                                  | 2016年12月 |                          |
+| GI優駿倶楽部                                                                   | 2017年2月  |                          |
+| 防空少女ラブキューレ                                                                | 2017年3月  |                          |
+| ラッキーベガス                                                                   | 2017年5月  |                          |
+| 悪魔城ドラキュラ Lords of Shadow                                                  | 2017年7月  | BIGBOSS枠                 |
+| 戦国コレクション3                                                                 | 2017年11月 | 5.9号機初のART機、BIGBOSS枠     |
+| マジカルハロウィン6                                                                | 2018年5月  | 5.9号機\[4\]               |
+| エルインカ〜黄金文明〜                                                               | 2018年7月  | 5.9号機\[5\]               |
+
+## 脚注
+
+<references />
+
+## 外部リンク
+
+  - [株式会社コナミアミューズメント（商品情報）](https://www.konami.com/amusement/psm/)
+
+[Category:KPE](https://ja.wikipedia.org/wiki/Category:KPE "wikilink") [Category:一宮市の企業](https://ja.wikipedia.org/wiki/Category:一宮市の企業 "wikilink") [Category:コナミグループ](https://ja.wikipedia.org/wiki/Category:コナミグループ "wikilink") [Category:パチスロメーカー](https://ja.wikipedia.org/wiki/Category:パチスロメーカー "wikilink") [Category:1999年設立の企業](https://ja.wikipedia.org/wiki/Category:1999年設立の企業 "wikilink")
+
+1.  [e-SLOTサービス終了のお知らせ](https://www.konami.com/amusement/psm/mobile/eslot.html)コナミアミューズメント
+2.  [グループ会社・財団](https://www.konami.com/corporate/ja/subsidiaries/)コナミホールディングス
+3.  [国税庁法人番号公表サイト](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=9010401088121)
+4.
+5.

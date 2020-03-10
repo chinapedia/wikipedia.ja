@@ -1,0 +1,158 @@
+> この記事は[Well-formed formula](https://ja.wikipedia.org/wiki/Well-formed_formula)から翻訳されています。
+
+
+[数理論理学](../Page/数理論理学.md "wikilink")において **well-formed formula** とは、[形式言語](../Page/形式言語.md "wikilink")といったような概念が広まる以前に、"formula" を単なる「記号を任意の順序に並べたもの」であるとして、それらのうち、[数式](https://ja.wikipedia.org/wiki/数式 "wikilink")などとして意味をなすような記号列を特に区別したものである\[1\]。[形式言語](../Page/形式言語.md "wikilink")の考え方が広まるにつれ、そもそも意味のある数式などは何らかのルールに従って導出されるもので、それ以外の、任意の順序に並べたようなものは最初から議論の対象外として扱われるのが普通となった。
+
+## 語誌
+
+[thumbを構成する統語論的実体の概念図](https://ja.wikipedia.org/wiki/ファイル:Formal_languages.svg "wikilink")。記号 (symbol) と記号列 (strings of symbols) は、その形式言語に含まれないものと含まれるもの（整式）に大別される。形式言語はその整論理式の集合と等価と考えることができる（大袈裟な言いかたをしているだけで、コンピュータの[プログラミング言語](../Page/プログラミング言語.md "wikilink")で言えば要するに、構文規則に沿ってないソースコードは構文エラー（シンタックスエラー）である、というのと同じ話）。整論理式の集合は[定理](../Page/定理.md "wikilink") (theorem) とそうでないものに大別される。\]\] 初期の[数理論理学](../Page/数理論理学.md "wikilink")者の幾人かは、"formula" を「単なる記号列」、wff を「formulaのうち、正しい構成規則に従って作られた記号列」として区別し\[2\]、幾人かは単に "formula" と総称した\[3\]\[4\]\[5\]\[6\]。
+
+いずれにせよ[形式言語](../Page/形式言語.md "wikilink")という考え方が定着した現代では、わざわざ断ることなどなく、wffのみが議論の対象である。すなわち、定められている構文規則に従った記号の並び（たとえば数式であれば`1 * (2 + 3)`といったような）のみが議論の対象となる式であり、同様の記号を使っていても、単なるデタラメに並べたものにしか見えないようなもの（たとえば数式であれば`* + ) 3 5 /`といったような）は、何か変な議論を仕掛けようとしている哲学者などでもない限り、単に、議論の対象から外すだけである（[オッカムの剃刀](../Page/オッカムの剃刀.md "wikilink")）。
+
+とはいえある程度は意識される概念であり、well-formed formula というフレーズは様々な著作に見られる\[7\]\[8\]\[9\]。
+
+## 論理式
+
+ここでは、論理における well-formed formula について述べる。[非古典論理](https://ja.wikipedia.org/wiki/非古典論理 "wikilink")をはじめ、他にも多くの論理（論理の体系）があり、それらについても同様な議論は可能だが、ここでは[古典論理](https://ja.wikipedia.org/wiki/古典論理 "wikilink")を主に対象とする。そういった[形式体系](../Page/形式体系.md "wikilink")において対象は記号列 φ で書かれ、φ の中の[自由変数に値を設定したとき](https://ja.wikipedia.org/wiki/自由変数と束縛変数 "wikilink")「φ は真か?」という問いが意味を持つ。形式論理において[証明](../Page/証明.md "wikilink")はある特性を持つ一連の論理式で表現され、その並びの最後の論理式は証明結果を意味する。
+
+### 命題論理
+
+[命題論理](https://ja.wikipedia.org/wiki/命題論理 "wikilink")の論理式はとも呼ばれ\[10\]、例えば \((A \land (B \lor C))\) といった形で表現される。命題論理式は、と[論理演算](../Page/論理演算.md "wikilink")を表す記号と括弧で定義され、命題変数を表すアルファベットは論理演算記号や括弧を含まないものとされる。論理式はそれらを並べたものである。
+
+論理式は次のように[再帰的に定義される](../Page/再帰的定義.md "wikilink")。
+
+  - 命題変数は、単独でも論理式である。
+  - φ が論理式であるとき、\(\lnot\)φ も論理式である。
+  - φ と ψ が論理式であるとき、二項結合子を • で表すとすると、(φ • ψ) も論理式である。一般には、∨、∧、→、↔ といった記号が二項結合子として使われる。
+
+この定義を[バッカス・ナウア記法](../Page/バッカス・ナウア記法.md "wikilink")で形式文法として記述することもできる。変数の種類は有限とすると、次のようになる。
+
+  -
+    <alpha set> ::= p | q | r | s | t | u | ... （命題変数の有限集合）
+    <form>
+    ::= <alpha set> | \(\neg\)
+    <form>
+    | (
+    <form>
+    \(\wedge\)
+    <form>
+    ) | (
+    <form>
+    \(\vee\)
+    <form>
+    ) | (
+    <form>
+    \(\rightarrow\)
+    <form>
+    ) | (
+    <form>
+    \(\leftrightarrow\)
+    <form>
+    )
+
+この文法を使って次のような記号列が記述できる。
+
+  -
+    (((*p* \(\rightarrow\) *q*) \(\wedge\) (*r* \(\rightarrow\) *s*)) \(\vee\) (\(\neg\)*q* \(\wedge\) \(\neg\)*s*))
+
+これは、文法的に正しいので論理式である。一方、
+
+  -
+    ((*p* \(\rightarrow\) *q*)\(\rightarrow\)(*qq*))*p*))
+
+こちらは文法に従っていないので論理式ではない。
+
+複雑な論理式、特に括弧を多用した論理式は理解するのが難しい。この問題を緩和するため、数学における[演算子の優先順位](https://ja.wikipedia.org/wiki/演算子の優先順位 "wikilink")のように結合子間の優先順位を設けることもできる。例えば、優先される順に \(\neg\) 、\(\rightarrow\)、\(\wedge\)、\(\vee\) とする。すると
+
+  -
+    (((*p* \(\rightarrow\) *q*) \(\wedge\) (*r* \(\rightarrow\) *s*)) \(\vee\) (\(\neg\)*q* \(\wedge\) \(\neg\)*s*))
+
+という論理式は次のようにも表現できる。
+
+  -
+    *p* \(\rightarrow\) *q* \(\wedge\) *r* \(\rightarrow\) *s* \(\vee\) \(\neg\)*q* \(\wedge\) \(\neg\)*s*
+
+ただし、これは論理式の記述を簡略化するための単なる取り決めである。したがって例えば、左結合性で優先順を \(\neg\)、\(\wedge\)、\(\vee\)、\(\rightarrow\) と取り決めれば、上の括弧のない論理式は次のように解釈される。
+
+  -
+    (*p* \(\rightarrow\) (*q* \(\wedge\) *r*)) \(\rightarrow\) (*s* \(\vee\) ((\(\neg\)*q*) \(\wedge\) (\(\neg\)*s*)))
+
+### 述語論理
+
+[一階述語論理](https://ja.wikipedia.org/wiki/一階述語論理 "wikilink") \(\mathcal{QS}\) における論理式の定義は、その理論のに左右される。シグネチャとは、当該理論の非論理記号である定数記号、述語記号、関数記号を指定するもので、同時に関数記号や述語記号のアリティ（引数の数）の定義もシグネチャに含まれる。
+
+論理式の定義はいくつかの部分から構成される。まず、**項** (term) が再帰的に定義される。項とは、[議論領域](https://ja.wikipedia.org/wiki/議論領域 "wikilink")の対象物を表現したものである。
+
+1.  任意の変数は項である。
+2.  シグネチャに含まれる任意の定数記号は項である。
+3.  *t*<sub>1</sub>,...,*t*<sub>*n*</sub> が項、*f* がアリティ *n* の関数記号ならば、*f*(*t*<sub>1</sub>,...,*t*<sub>*n*</sub>) は項である。
+
+次に[原子論理式](https://ja.wikipedia.org/wiki/原子論理式 "wikilink")が定義される。
+
+1.  *t*<sub>1</sub> と *t*<sub>2</sub> が項ならば、*t*<sub>1</sub>=*t*<sub>2</sub> は原子論理式である。
+2.  *R* がアリティ *n* の述語記号、*t*<sub>1</sub>,...,*t*<sub>*n*</sub> が項ならば、*R*(*t*<sub>1</sub>,...,*t*<sub>*n*</sub>) は原子論理式である。
+
+最後に論理式は、原子論理式の集合を含む最小の集合として次のように定義される。
+
+1.  任意の原子論理式は論理式である。
+2.  \(\ \phi\) が論理式ならば、\(\neg\phi\) は論理式である。
+3.  \(\ \phi\) と \(\ \psi\) が論理式ならば、\((\phi \land \psi)\) と \((\phi \lor \psi)\) は論理式である。
+4.  \(\ x\) が変数、\(\ \phi\) が論理式ならば、\(\exists x\, \phi\) は論理式である。
+5.  \(\ x\) が変数、\(\ \phi\) が論理式ならば、\(\forall x\, \phi\) は論理式である（\(\forall x\, \phi\) は \(\neg\exists x\, \neg\phi\) の省略形と定義することもできる）。
+
+何らかの変数 \(\ x\) があるとき、\(\exists x\) あるいは \(\forall x\) が全く出現しない論理式は「量化子のない論理式」(quantifier-free formula) と呼ばれる。量化子のない論理式の前に[存在量化がある論理式を](../Page/存在記号.md "wikilink")「存在論理式」(existential formula) と呼ぶ。
+
+### 原子論理式と開論理式
+
+原子論理式とは、[論理結合子や](../Page/論理演算.md "wikilink")[量化](https://ja.wikipedia.org/wiki/量化 "wikilink")子を含まない論理式、あるいは厳密な部分論理式を持たない論理式である。原子論理式の厳密な形式は、どんな[形式体系](../Page/形式体系.md "wikilink")のものかで変わってくる。例えば[命題論理](https://ja.wikipedia.org/wiki/命題論理 "wikilink")での原子論理式はである。[一階述語論理](https://ja.wikipedia.org/wiki/一階述語論理 "wikilink")では、項である引数を伴った述語記号が原子論理式である。
+
+量化子を伴わず、論理結合子のみを使って原子論理式を結合した論理式を「開論理式」(open formula) と呼ぶこともある\[11\]。
+
+### 閉論理式
+
+「閉論理式」(closed formula) または「文」(sentence) とは、[自由変数がない論理式を指す](https://ja.wikipedia.org/wiki/自由変数と束縛変数 "wikilink")。一階述語論理の論理式に変数が出現する場合、閉論理式とするためにはそれぞれの変数に対応して束縛作用素（[量化](https://ja.wikipedia.org/wiki/量化 "wikilink")子など）を前置する必要がある。
+
+## 属性
+
+  - 言語 \(\mathcal{Q}\) におけるformulaが「[妥当](https://ja.wikipedia.org/wiki/妥当性 "wikilink")」であるとは、\(\mathcal{Q}\) のあらゆる[解釈](../Page/解釈.md "wikilink")において真であることを意味する。
+  - 言語 \(\mathcal{Q}\) におけるformulaが「」であるとは、\(\mathcal{Q}\) のある解釈で真であることを意味する。
+  - A が [算術](../Page/ペアノの公理.md "wikilink") におけるformulaで、それが「決定可能」であるとは、それが[決定可能集合を表している場合](https://ja.wikipedia.org/wiki/帰納的集合 "wikilink")、すなわち A に出現する自由変数に値を代入したとき、その真偽を判定する実効的方法がある場合である。
+
+## 脚注
+
+## 参考文献
+
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+## 関連項目
+
+  - [原子論理式](https://ja.wikipedia.org/wiki/原子論理式 "wikilink")
+
+## 外部リンク
+
+  -
+  - [Well-Formed Formula for First Order Predicate Logic](http://www.cs.odu.edu/~toida/nerzic/content/logic/pred_logic/construction/wff_intro.html) - includes a short [Java](https://ja.wikipedia.org/wiki/Java "wikilink") quiz.
+
+  - [Well-Formed Formula at ProvenMath](http://www.apronus.com/provenmath/formulas.htm)
+
+  - [WFF N PROOF game site](http://wffnproof.com/)
+
+[Category:論理式](https://ja.wikipedia.org/wiki/Category:論理式 "wikilink") [Category:形式言語](https://ja.wikipedia.org/wiki/Category:形式言語 "wikilink") [Category:数理論理学](https://ja.wikipedia.org/wiki/Category:数理論理学 "wikilink") [Category:述語論理](https://ja.wikipedia.org/wiki/Category:述語論理 "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink")
+
+1.  初歩的概念であり、多くの論理学の入門書で説明されている。例えば , ,
+2.  Alonzo Church, \[1996\] (1944), Introduction to mathematical logic, page 49
+3.  Hilbert, David; Ackermann, Wilhelm (1950) \[1937\], Principles of Mathematical Logic, New York: Chelsea
+4.  Hodges, Wilfrid (1997), A shorter model theory, Cambridge University Press, ISBN 978-0-521-58713-6
+5.  Barwise, Jon, ed. (1982), Handbook of Mathematical Logic, Studies in Logic and the Foundations of Mathematics, Amsterdam: North-Holland, ISBN 978-0-444-86388-1
+6.  Cori, Rene; Lascar, Daniel (2000), Mathematical Logic: A Course with Exercises, Oxford University Press, ISBN 978-0-19-850048-3
+7.  Enderton, Herbert \[2001\] (1972), A mathematical introduction to logic (2nd ed.), Boston, MA: Academic Press, ISBN 978-0-12-238452-3
+8.  R. L. Simpson (1999), Essentials of Symbolic Logic, page 12
+9.  Mendelson, Elliott \[2010\] (1964), An Introduction to Mathematical Logic (5th ed.), London: Chapman & Hall
+10. [First-order logic and automated theorem proving](http://books.google.com/books?id=T8OMqvXvWWQC&lpg=PA11&dq=%22propositional%20formula%22&hl=fr&pg=PA11#v=onepage&q=%22propositional%20formula%22&f=false), Melvin Fitting, Springer, 1996
+11. [Handbook of the history of logic, (Vol 5, Logic from Russell to Church)](http://books.google.fr/books?id=IMgg0Uc00I4C&printsec=frontcover&dq=Logic+from+Russell+to+Church&hl=ja&sa=X&ei=QjtiUaO1E8i4rgfN94GoCg&ved=0CCwQ6AEwAA#v=onepage&q=Logic%20from%20Russell%20to%20Church&f=false), Tarski's logic by Keith Simmons, D. Gabbay and J. Woods Eds, p568.

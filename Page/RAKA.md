@@ -1,0 +1,61 @@
+> この記事は[RAKA](https://ja.wikipedia.org/wiki/RAKA)から翻訳されています。
+
+
+『**RAKA**』（ラカ）は[志方あきこ](https://ja.wikipedia.org/wiki/志方あきこ "wikilink")の2ndアルバム。題名は[サンスクリット](../Page/サンスクリット.md "wikilink")で「満月の夜」を意味し、各曲に「月」というキーワードを織り込んで全体で「月」の持つ「神秘性」「幻想性」「癒し」「祈り」をテーマとしている。
+
+## 曲目
+
+1.  **大地の鼓動**
+      -
+        インストルメンタル
+2.  **金環蝕**
+      -
+        [スワヒリ語](https://ja.wikipedia.org/wiki/スワヒリ語 "wikilink")の冒頭コーラス。
+3.  **春告げ ～Raggi di primavera～**
+      -
+        [イタリア語](../Page/イタリア語.md "wikilink")詞。『[花帰葬](../Page/花帰葬.md "wikilink")』エンディング曲。ゲームサントラ未収録。
+4.  **まほろば**
+5.  **蒼碧の森**
+      -
+        功刀丈弘共演。
+6.  **黎明 ～Aurora～**
+      -
+        イタリア語詞。『花帰葬』エンディング曲。ゲームサントラ未収録。功刀丈弘共演。
+7.  **祈り ～モンラム～**
+      -
+        [チベット語](../Page/チベット語.md "wikilink")詞。
+8.  **Luna piena**
+      -
+        イタリア語詞。
+9.  **うたかたの花**
+10. **晴れすぎた空の下で**
+11. **[AVE MARIA](https://ja.wikipedia.org/wiki/アヴェ・マリア "wikilink")**
+      -
+        イタリア語詞。[葉加瀬太郎](https://ja.wikipedia.org/wiki/葉加瀬太郎 "wikilink")共演。
+12. **謳う丘 ～EXEC_HARVESTASYA/.～**
+      -
+        日本語+[ヒュムノス語](https://ja.wikipedia.org/wiki/ヒュムノス語 "wikilink")（ゲーム内の造語）詞。『[アルトネリコ 世界の終わりで詩い続ける少女](https://ja.wikipedia.org/wiki/アルトネリコ_世界の終わりで詩い続ける少女 "wikilink")』主題歌「謳う丘 -Harmonics EOLIA-」のフルアレンジ。
+
+## スタジオ・ミュージシャン
+
+  - ヴァイオリン：壷井彰久
+  - ギター：[四月朔日義昭](https://ja.wikipedia.org/wiki/四月朔日義昭 "wikilink")
+  - フィドル：功刀丈弘（レーベルメイト）
+  - ヴァイオリン：大貫聖子
+  - ピアノ：[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")
+  - リコーダー＆ティン・ホイッスル：安井敬
+  - ディジリドゥ＆口琴＆カリンバ：GORO
+  - フルート：Takayo Kudou
+  - オカリナ：川上志乃
+  - 琴：中垣雅葉
+  - パーカッション：佐藤直子
+  - ハープ：朝川朋之
+  - ストリングス：阿部美緒
+  - 二胡：野沢香苗
+  - ガット・ギター＆Ａ.ギター：伊藤 浩紀
+  - オーボエ：石橋雅一
+  - リュート：[水戸茂雄](https://ja.wikipedia.org/wiki/水戸茂雄 "wikilink")
+  - カウンターバス：Jun Kawasaki
+  - チェロ：四家卯大
+
+[Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink")

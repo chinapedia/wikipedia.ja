@@ -1,0 +1,126 @@
+> この記事は[ \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/_\(GUILTY_GEAR\))から翻訳されています。
+
+
+**ブリジット** (Bridget) は、2D対戦型格闘ゲーム「[GUILTY GEARシリーズ](https://ja.wikipedia.org/wiki/GUILTY_GEARシリーズ "wikilink")」に登場する架空の人物。声優は[小西寛子](../Page/小西寛子.md "wikilink")(GGXX～SLASH)、[加藤有希子](https://ja.wikipedia.org/wiki/加藤有希子 "wikilink")(ΛC)。
+
+## 概要
+
+  - 元はとある村の富豪の息子で、[双子](https://ja.wikipedia.org/wiki/双子 "wikilink")の兄がいる。しかし村には男の双子を不吉とする[迷信](../Page/迷信.md "wikilink")があったため、両親に女の子として育てられる。そのため[少女然とした風貌や言動が身に付いてしまった](https://ja.wikipedia.org/wiki/ロリショタ "wikilink")。
+  - [一人称](https://ja.wikipedia.org/wiki/一人称 "wikilink")は「ウチ」（ウにアクセントが付く）。[性格](../Page/性格.md "wikilink")は明るく楽しいことが大好きで、やや[天然ボケ](https://ja.wikipedia.org/wiki/天然ボケ "wikilink")。武器はYOYO（[ヨーヨー](https://ja.wikipedia.org/wiki/ヨーヨー "wikilink")）。
+  - 金色の髪にエメラルドグリーンの瞳をした[童顔](https://ja.wikipedia.org/wiki/童顔 "wikilink")。髪は短いが、サイドの髪は少し長い。小柄で華奢な体つきをしており、格好は一見すると[シスターのような帽子に](https://ja.wikipedia.org/wiki/修道女 "wikilink")、白を基調とした[ミニスカート](https://ja.wikipedia.org/wiki/ミニスカート "wikilink")の[ワンピース](https://ja.wikipedia.org/wiki/ワンピース "wikilink")を着用し、丈が短い[スパッツ](https://ja.wikipedia.org/wiki/スパッツ "wikilink")を穿いている。更に腰部には大きな[手錠](../Page/手錠.md "wikilink")らしきものが付いている。ゲーム中はよく女性と間違われるが、[ジョニー](../Page/ジョニー_\(GUILTY_GEAR\).md "wikilink")、[紗夢](../Page/蔵土縁紗夢.md "wikilink")、[ロボカイ](https://ja.wikipedia.org/wiki/ロボカイ "wikilink")は男性と見抜いている（ジョニーは最初間違えたが、最終的には見抜いた）。
+  - 終戦管理局から本来取り上げられることはないが、危険度S++クラスのギア・[ディズィー](../Page/ディズィー.md "wikilink")を追っているということで危険度が設定されている（ただし最低の「Dクラス」）。
+
+## ロジャー
+
+声優：[石原明広](https://ja.wikipedia.org/wiki/石原明広 "wikilink")(GGXX～SLASH)、[井口屋タクミ](https://ja.wikipedia.org/wiki/井口屋タクミ "wikilink")(ΛC)
+
+ブリジットが大切にしている熊の[ぬいぐるみ](https://ja.wikipedia.org/wiki/ぬいぐるみ "wikilink")。何故か喋って動く。声質は渋く、口調もいかめしい。必殺技で召喚された時には[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")をこいだり、パンチを繰り出す。『[パチスロ ギルティギア ヴァステッジ](https://ja.wikipedia.org/wiki/パチスロ_ギルティギア_ヴァステッジ "wikilink")』では、年季が入ったためかツギハギになっている。
+
+名前の由来は[QUEENのドラム担当の](../Page/クイーン_\(バンド\).md "wikilink")[ロジャー・テイラー](https://ja.wikipedia.org/wiki/ロジャー・テイラー "wikilink")から。
+
+## ストーリー
+
+  - GUILTY GEAR XX
+    女として育てられたブリジットだったが、それにより両親が心を痛め続けているのを救うために、自分がちゃんと男として生きていこうと決心する。そして男の双子が不吉という迷信を覆すために、高額の懸賞金がかかったギア・[ディズィー](../Page/ディズィー.md "wikilink")の捕獲に旅立つ。そのギアが、手配が既に解除されているとは知らずに…。
+
+  - GUILTY GEAR XX Λ CORE PLUS
+
+## ゲーム中の性能
+
+  - 特徴
+    画面内にYOYOを配置できる。HSボタンで配置する為、HS系の通常技を持っていない。
+    防御力自体は多少低めなものの、通常技のリーチも長く性能のいい無敵必殺技も持ち、切り返し手段が豊富であるため防御能力が非常に高く、総合的な倒されにくさはむしろ上位に入る。
+    YOYOを駆使する事で、上段中段下段のガードを同時に崩す『ガード不能』状態を作り出すことが可能であり、そこから繋げる事でチャンスを増やす事が可能。
+    弱点は火力が若干低い事。
+  - 専用システム：YOYO配置 (XX\~)
+    画面内にYOYOを配置する。配置後、引き戻しやYOYOを変化させた専用の必殺技を出すことが出来る。
+    尚ブリジットはYOYOを複数持っているので、配置後YOYOを使用した攻撃が出来なくなるということは無い。
+    対応必殺技は「ローリング移動」・「ロジャーラッシュ」・「ジャッグ ド ロジャー」・「ロジャーハグ」・「ロジャーゲット」・「俺とキルマシーン」。
+
+## 技の解説
+
+### 必殺技
+
+  - YOYO配置 \[XX\~\] （空中可）
+    YOYOを配置する。レバー入力なしで前方に配置、レバー入力で任意の方向にも配置可能。YOYOはその後引き戻すか派生必殺技を出すまでその場に留まり続ける。配置する時も配置後もYOYOに攻撃判定は無い。
+    『SLASH』で真後ろへの配置が一旦後方に下がった後前方に移動、斜め後ろへの配置が円を描くように前方の画面端まで移動するようになる。
+      - YOYO引き戻し \[XX\~\] （空中可）
+        YOYOを手元に引き戻す。なおこの時のYOYOには攻撃判定が付く。YOYO配置途中でも引き戻すことは可能。
+        『SLASH』で引き戻しのタイミングをずらすことが出来るように。
+      - ローリング移動 \[XX\~\] （空中可）
+        YOYOの糸を伝ってYOYO配置地点へ丸まりながら空中移動する。配置地点までの距離が長いほど慣性がつく。
+        移動後も配置したYOYOは残る。
+      - ロジャーラッシュ \[XX\~\] (FRC)
+        YOYOがロジャーに変化し、パンチを繰り出しながらブリジットの元へ戻る。
+      - ジャッグ ド ロジャー \[XX\~\] （空中可／FRC）
+        YOYOが回転する刃を付けたロジャーに変化し、ブリジットの元へ戻る。
+      - ロジャーハグ \[XX\~\]
+        YOYOが円形のマーカーに変化し、相手にしばらく張り付く。張り付いている間は相手に向かってローリング移動が可能。
+        『＃RELOAD』以降、YOYO技が出せるように。
+      - ロジャーゲット \[SLASH\~\] （空中可）
+        ロジャーが上空から降ってくる。YOYO配置時の高度が高いと地面に着いた後、ヘッドスライディングを出す。
+  - YOYO配置起き上がり
+    YOYOを真上に配置しながら起き上がる。
+  - スターシップ \[XX\~\] （空中可／FRC）
+    両手に持ったYOYOを振り回す。
+  - キックスタート マイ ハート \[XX\~\] （⇒停止or発射）
+    YOYOの上に乗って地面を突進する。
+    技名の由来は[Mötley Crüeの楽曲](https://ja.wikipedia.org/wiki/モトリー・クルー "wikilink")「Kickstart My Heart」から。
+      - 停止
+        その場で火花を出して急停止する。
+      - 発射
+        両手でYOYOを振り回しながら前方にジャンプする。
+  - エアホップマイハート\[EX\]
+    両手でYOYOを振り回しながら前方に進む。
+
+### フォースブレイク
+
+  - ロジャーラッシュ \[ΛC\]
+    ブリジットから離れるように移動しながらパンチを繰り出す。
+  - ジャッグ ド ロジャー \[ΛC\] （空中可）
+    相手へ向かってロジャーが移動する。
+
+### 覚醒必殺技
+
+  - 俺とキルマシーン \[XX\~\]
+    YOYO配置後に出せる覚醒必殺技。YOYOが火がついた輪の中を自転車で走るロジャーに変化し、ブリジットの元へ戻る。
+  - メンテナンス中の悲劇 \[XX\~\]
+    後方に転んだ後、前方で爆発が起こる。
+  - ループ ザ ループ \[XX\~\]
+    YOYOを振り回した後、上空から大きなロジャーが落下してくる。
+  - メンテナンス後の喜劇 \[EX\]
+    投げ扱いの技。YOYOで相手を捕らえ浮かした後、爆発が起こる。
+
+### 一撃必殺技
+
+  - シュート ザ ムーン \[XX\~\]
+    YOYOと一緒に相手を飛ばす。相手は月面に頭が刺さってしまう。
+
+## テーマミュージック
+
+  - Simple Life \[XX\~\]
+
+## ステージ
+
+  - VERDANT(XX～)
+  - England：大展望台(ISUKA)
+
+## その他
+
+  - 誕生日が、担当声優の小西寛子(GGXX\~SLASH)と同じである。
+  - 企画当初は女性だったが、[石渡太輔](https://ja.wikipedia.org/wiki/石渡太輔 "wikilink")の意向により男性に変更された。いわゆる「[男の娘](https://ja.wikipedia.org/wiki/男の娘 "wikilink")」のコンセプトで生まれたキャラクターでもある。
+  - [プロスピナーの](https://ja.wikipedia.org/wiki/ヨーヨー#スピナー "wikilink")[長谷川貴彦が監修を行っており](https://ja.wikipedia.org/wiki/Taka_\(スピナー\) "wikilink")、彼が完成させた技『[ソロハム](https://ja.wikipedia.org/wiki/ソロハム "wikilink")』を登場デモで披露している。
+  - 公式ホームページの人気投票において、[ソル＝バッドガイなどの主役を差し置さえ](https://ja.wikipedia.org/wiki/ソル・バッドガイ "wikilink")1位になっている。
+
+## 参考資料
+
+  - 「アートワークス･オブ･ギルティギアゼクス 2000-2004」ソフトバンククリエイティブ、2004年 ISBN 4-7973-2687-5
+
+## 関連項目
+
+  - [GUILTY GEARシリーズ](https://ja.wikipedia.org/wiki/GUILTY_GEARシリーズ "wikilink")
+  - [GUILTY GEARの用語集](https://ja.wikipedia.org/wiki/GUILTY_GEARの用語集 "wikilink")
+
+[ru:Список персонажей Guilty Gear\#Бриджет (Bridget)](https://ja.wikipedia.org/wiki/ru:Список_персонажей_Guilty_Gear#Бриджет_\(Bridget\) "wikilink")
+
+[Category:GUILTY_GEARの登場人物](https://ja.wikipedia.org/wiki/Category:GUILTY_GEARの登場人物 "wikilink") [Category:架空の異性装者](https://ja.wikipedia.org/wiki/Category:架空の異性装者 "wikilink") [Category:架空の双子](https://ja.wikipedia.org/wiki/Category:架空の双子 "wikilink")

@@ -1,0 +1,403 @@
+> この記事は[NG \(\)](https://ja.wikipedia.org/wiki/NG_\(\))から翻訳されています。
+
+
+『**NG**』（エヌジー）とは、かつてナムコ（後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）が発行していた広報誌。正式名称は『namco COMMUNITY MAGAZINE NG』。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に創刊され、ナムコ直営の[ゲームセンター](../Page/ゲームセンター.md "wikilink")等で無料で配布された。現在でいう[フリーマガジンにあたる](https://ja.wikipedia.org/wiki/フリーペーパー "wikilink")。
+
+## 概要
+
+季刊時代は、発行されていた[1980年代](../Page/1980年代.md "wikilink")前半 - 中盤にかけてがいわゆる「ナムコ黄金期」\[1\]と称される年代にあたる。発行日は1・4・7・10月の25日とされていたが、実際に店舗に届くのは何日か前後することもあった。初期は予算の都合もあって発行部数が少なかったため、店舗によっては店員と仲の良い常連客にしか行き渡らないという状況もよくあった。当時はまだアーケードゲームを扱う定期刊行物は『[AMライフ](https://ja.wikipedia.org/wiki/アミューズメントライフ_\(雑誌\) "wikilink")』くらいしかなく、メーカーが直接発行する情報誌という特殊性とナムコブランドの人気と相まって、アーケードゲーム好事家の間では情報誌という側面とともに、貴重な「ナムコグッズ」として持っているだけで羨ましがられるステータスシンボル的な要素があった。
+
+原則としてナムコ直営店のみでの配布だったが、一部のシングルロケ（ナムコは機器のリースのみで経営は独自の店舗）での配布もあったほか、郵送での定期購読や実費分の切手を送付することによって、バックナンバーや最新号の郵送取り寄せも可能だった（実質的にはフリーペーパーであるものの、定価が設定されており郵送取り寄せ時にはこの定価が実費として必要だった。また、実際に有料で頒布していた時期や店舗もあった）。
+
+会社とファンとの交流の場でもあったことから、ゲーム開発者が直接回答する質問コーナーや読者投稿ページもあり、初期の投稿者の中には[田尻智](../Page/田尻智.md "wikilink")など、現在では著名なゲーム開発者やゲームライター、雑誌編集者などの名前が見受けられる。掲載者にはオリジナルTシャツなどが送られたり、頒布用カレンダーが余った年には応募者にプレゼントするなどファンサービスは旺盛だった。ゲームに関係する記事のほか、読み物として発行当時ナムコ社員だった[冨士宏](https://ja.wikipedia.org/wiki/冨士宏 "wikilink")の「[午後の国](https://ja.wikipedia.org/wiki/午後の国 "wikilink")」や「[迷廊館のチャナ](https://ja.wikipedia.org/wiki/迷廊館のチャナ "wikilink")」、[大場惑](https://ja.wikipedia.org/wiki/大場惑 "wikilink")のショートSFが掲載されていたこともあった。
+
+なお、NGのファンクラブ「NGクラブ」も存在する。月刊No.17で編集者より募集が行われたものの、その後一年半音沙汰が無く、[1989年](../Page/1989年.md "wikilink")夏ごろより活動を開始。同クラブのメンバーが誌面に登場する事もあった（後述）。
+
+## 主な構成
+
+「新作ゲーム紹介」や「特集記事（「キャンプ特集」など、アウトドア志向のものもあった）」などのほか、以下のような記事で構成されていた。
+
+  - トピックス（表紙裏）
+  - 付録
+      - [ペーパークラフト](../Page/ペーパークラフト.md "wikilink")や[カセットテープ用インデックスカードなど](../Page/コンパクトカセット.md "wikilink")。
+  - インターフェース（後にハードウェアサポートと改称）
+      - 開発担当者が直接質問に答える。[遠藤雅伸](https://ja.wikipedia.org/wiki/遠藤雅伸 "wikilink")が企画したと言われる。
+      - 月刊化以降もNo.14まで連載。のちにNo.29より、ゲーム開発について解説する「ナムコ・教養講座 OS」も連載された。
+  - 全国ロケーション（店舗）紹介→ロケーション・ネットワーク（月刊化以降）
+      - 全国各地のナムコ直営店への取材レポート。
+  - 図画工作教室
+      - 「[Mr.ドットマン](https://ja.wikipedia.org/wiki/小野浩_\(ゲームクリエイター\) "wikilink")」によるドット絵講座。後にフルスクラッチモデルの製作・解説も行った。
+  - ロボット
+      - [マイクロマウス](https://ja.wikipedia.org/wiki/マイクロマウス "wikilink")や催事用ロボットなどの紹介。
+  - [ラジオはアメリカン](https://ja.wikipedia.org/wiki/ラジオはアメリカン "wikilink")
+  - マンガ
+      - 「[午後の国](https://ja.wikipedia.org/wiki/午後の国 "wikilink")」（季刊時代）、「[迷廊館のチャナ](https://ja.wikipedia.org/wiki/迷廊館のチャナ "wikilink")」（No.30 - 最終号）、「まけないクン」等。単発で『[超絶倫人ベラボーマン](https://ja.wikipedia.org/wiki/超絶倫人ベラボーマン "wikilink")』や『[爆突機銃艇](https://ja.wikipedia.org/wiki/爆突機銃艇 "wikilink")』などのマンガも掲載。
+      - 「午後の国」は月刊化後のNo.4にバレンタインスペシャルが掲載された。
+  - 読者投稿ページ
+      - NG TALK（季刊時代）→元気新聞（月刊化以降）
+      - 月刊化以降は「京極院静鳳先生の書道塾」「ことわざ予備校」など、企画物のコーナーが増加した。
+  - ナムコグッズ通信販売カタログ
+      - 季刊時代、巻末に掲載。
+  - 「遊び」をクリエイトするコラム VOICE OF PLAY
+      - 月刊創刊号より開始された、著名人へのインタビュー。No.13を最後に一時期途絶えるが、No.21 - 26までの短期間復活した。
+  - NGファンアンケート
+      - 月刊化以降、巻末に掲載されたアンケート。ここから生まれた記事や企画もある。
+  - WHAT'S NAMCO?
+      - No.13より不定期連載。広報誌ながらナムコらしさを内外に問う内容で、時に読者に挑発的なメッセージを掲載するなど波紋を呼んだが、No.26を最後に掲載されなくなった。
+  - チャレンジマン'88
+      - [1988年](../Page/1988年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - [1989年](../Page/1989年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")の間、読者が一年を通して目標を立てて実行する企画。No.16にて募集を行い、No.29の最終報告をもって終了。
+  - ゲームインプレッションコーナー
+      - No.33より開始。毎回決められたナムコゲームについて読者の採点を募集し、NG読者代表（NGクラブメンバー）が意見をまとめ、開発担当者からコメントをもらう企画。
+
+## 刊行リスト
+
+### 季刊期（1983年 - 1986年）
+
+A5判の小冊子で、40ページ前後で構成されていた。
+
+  - **創刊号**：特集記事 [ゼビウス](../Page/ゼビウス.md "wikilink")
+  - **2号**：[マッピー](https://ja.wikipedia.org/wiki/マッピー "wikilink")
+      - 海賊版（デッドコピー）の見分け方や、社長（[中村雅哉](https://ja.wikipedia.org/wiki/中村雅哉 "wikilink")）の一日を紹介。
+  - **3号**：エレメカ
+  - **4号**：[リブルラブル](https://ja.wikipedia.org/wiki/リブルラブル "wikilink")
+  - **5号**：[ギャプラス](https://ja.wikipedia.org/wiki/ギャプラス "wikilink")
+  - **6号**：[ドルアーガの塔](../Page/ドルアーガの塔.md "wikilink")
+  - **7号**：[パックランド](https://ja.wikipedia.org/wiki/パックランド "wikilink")
+  - **8号**：ナムコット
+  - **9号**：[科学万博 つくば'85](../Page/国際科学技術博覧会.md "wikilink")
+      - ナムコはマスコットキャラクターである「コスモ星丸」のロボットの製作、および会場内「星丸ランド」のゲームセンター部分の出展を担当した。
+      - [風営法が改正施行され](../Page/風俗営業等の規制及び業務の適正化等に関する法律.md "wikilink")、ゲームセンターが規制対象になったことに対しての「新風営法を考える」という特集ページがある。
+  - **10号**：ナムコ創立30周年（1）
+  - **11号**：ナムコ創立30周年（2）
+  - **12号**：ナムコ創立30周年（3）
+  - **13号**：[トイポップ](https://ja.wikipedia.org/wiki/トイポップ "wikilink")
+  - **14号**：[イシターの復活](https://ja.wikipedia.org/wiki/イシターの復活 "wikilink")
+
+### 月刊期（1986年 - 1989年）
+
+1986年11月から本の体裁がA5判からB5判へ大型化され月刊となった。月刊化に伴い定価150円となったが、一部の直営店では無料配布されていた。
+
+**月刊創刊号**：1986年11月号
+<ゲーム紹介>
+
+  - [源平討魔伝](https://ja.wikipedia.org/wiki/源平討魔伝 "wikilink")
+  - [マッピーランド](https://ja.wikipedia.org/wiki/マッピーランド "wikilink")
+
+**No.2**：1986年12月号
+
+  - [パックマン](https://ja.wikipedia.org/wiki/パックマン "wikilink")が表紙（No.13まで）
+  - 巻頭特集に[ダチョウ倶楽部](../Page/ダチョウ倶楽部.md "wikilink")（[南部寅太在籍時](https://ja.wikipedia.org/wiki/南部虎弾 "wikilink")）が登場
+
+<ゲーム紹介>
+
+  - [プロ野球ファミリースタジアム](../Page/プロ野球ファミリースタジアム.md "wikilink")
+  - [メトロクロス](https://ja.wikipedia.org/wiki/メトロクロス "wikilink")（[FC版](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")）
+
+**No.3**：1987年1月号
+<ゲーム紹介>
+
+  - [3DサンダーセプターII](https://ja.wikipedia.org/wiki/3DサンダーセプターII "wikilink")
+  - [ローリングサンダー](https://ja.wikipedia.org/wiki/ローリングサンダー_\(コンピュータゲーム\) "wikilink")
+  - [ドラゴンバスター](https://ja.wikipedia.org/wiki/ドラゴンバスター "wikilink")（FC版）
+
+**No.4**：1987年2月号
+
+**No.5**：1987年3月号
+<ゲーム紹介>
+
+  - [ワンダーモモ](https://ja.wikipedia.org/wiki/ワンダーモモ "wikilink")
+
+**No.6**：1987年4月号
+<ゲーム紹介>
+
+  - [妖怪道中記](https://ja.wikipedia.org/wiki/妖怪道中記 "wikilink")
+  - [さんまの名探偵](https://ja.wikipedia.org/wiki/さんまの名探偵 "wikilink")
+  - [ファミリージョッキー](https://ja.wikipedia.org/wiki/ファミリージョッキー "wikilink")
+
+**No.7**：1987年5月号
+<ゲーム紹介>
+
+  - さんまの名探偵
+  - ファミリージョッキー
+
+**No.8**：1987年6月号
+<ゲーム紹介>
+
+  - [ドラゴンスピリット](https://ja.wikipedia.org/wiki/ドラゴンスピリット "wikilink")
+  - [ファミリーボクシング](https://ja.wikipedia.org/wiki/ファミリーボクシング "wikilink")
+  - [ドラゴンスレイヤーIV ドラスレファミリー](https://ja.wikipedia.org/wiki/ドラゴンスレイヤーIV_ドラスレファミリー "wikilink")
+
+**No.9**：1987年7月号
+<ゲーム紹介>
+
+  - ドラゴンスピリット
+
+**No.10**：1987年8月号
+<ゲーム紹介>
+
+  - ドラゴンスピリット
+  - [ブレイザー](https://ja.wikipedia.org/wiki/ブレイザー "wikilink")
+  - [ファミリーマージャン](https://ja.wikipedia.org/wiki/ファミリーマージャン "wikilink")
+  - [デジタル・デビル物語 女神転生](https://ja.wikipedia.org/wiki/デジタル・デビル物語_女神転生 "wikilink")
+
+**No.11**：1987年9月号
+<ゲーム紹介>
+
+  - デジタル・デビル物語 女神転生
+  - [クエスター](https://ja.wikipedia.org/wiki/クエスター "wikilink")
+
+**No.12**：1987年10月号
+<ゲーム紹介>
+
+  - [パックマニア](https://ja.wikipedia.org/wiki/パックマニア "wikilink")
+
+**No.13**：1987年11月号
+
+**No.14**：1987年12月号
+<ゲーム紹介>
+
+  - [ファイナルラップ](../Page/ファイナルラップ.md "wikilink")
+  - [ギャラガ'88](https://ja.wikipedia.org/wiki/ギャラガ'88 "wikilink")
+  - [プロ野球ファミリースタジアム'87](https://ja.wikipedia.org/wiki/プロ野球ファミリースタジアム'87 "wikilink")
+  - [ファミリーテニス](https://ja.wikipedia.org/wiki/ファミリーテニス "wikilink")
+  - [スターウォーズ](https://ja.wikipedia.org/wiki/スターウォーズ "wikilink")
+
+**No.15**：1988年1月号
+<ゲーム紹介>
+
+  - [ファミリーサーキット](https://ja.wikipedia.org/wiki/ファミリーサーキット "wikilink")
+  - ドラゴンバスター（[MSX2](../Page/MSX2.md "wikilink")版）
+  - 妖怪道中記（[PCエンジン](../Page/PCエンジン.md "wikilink")版）
+  - [独眼竜政宗](https://ja.wikipedia.org/wiki/独眼竜政宗_\(ゲーム\) "wikilink")
+
+**No.16**：1988年2月号
+<ゲーム紹介>
+
+  - 独眼竜政宗
+
+**No.17**：1988年3月号
+
+  - 読者投票の結果、[バビロニアン・キャッスル・サーガ](../Page/バビロニアン・キャッスル・サーガ.md "wikilink")のキャラクターである**カイ**が表紙を飾る（No.26まで）
+
+**No.18**：1988年4月号
+<ゲーム紹介>
+
+  - [アサルト](https://ja.wikipedia.org/wiki/アサルト "wikilink")
+  - [超絶倫人ベラボーマン](https://ja.wikipedia.org/wiki/超絶倫人ベラボーマン "wikilink")
+
+**No.19**：1988年5・6月合併号
+<ゲーム紹介>
+
+  - [三国志 中原の覇者](https://ja.wikipedia.org/wiki/三国志_中原の覇者 "wikilink")
+
+**No.21**：1988年7月号
+<ゲーム紹介>
+
+  - [カイの冒険](https://ja.wikipedia.org/wiki/カイの冒険 "wikilink")
+
+**No.22**：1988年8月号
+
+**No.23**：1988年9月号
+<ゲーム紹介>
+
+  - [爆突機銃艇](https://ja.wikipedia.org/wiki/爆突機銃艇 "wikilink")
+
+**No.24**：1988年10月号
+<ゲーム紹介>
+
+  - [オーダイン](../Page/オーダイン.md "wikilink")
+  - [メタルホーク](https://ja.wikipedia.org/wiki/メタルホーク "wikilink")
+  - [プロテニスワールドコート](https://ja.wikipedia.org/wiki/プロテニスワールドコート "wikilink")
+  - [貝獣物語](https://ja.wikipedia.org/wiki/貝獣物語 "wikilink")
+
+**No.25**：1988年11月号
+<ゲーム紹介>
+
+  - [未来忍者](https://ja.wikipedia.org/wiki/未来忍者 "wikilink")
+  - オーダイン
+  - [キングオブキングス](https://ja.wikipedia.org/wiki/キングオブキングス_\(ゲーム\) "wikilink")
+
+**No.26**：1988年12月号
+
+  - この号から無料化される
+  - WHAT'S NAMCO?の記事として、[中潟憲雄](https://ja.wikipedia.org/wiki/中潟憲雄 "wikilink")と[藤子不二雄<span class="Unicode">Ⓕ</span>の対談が掲載される](../Page/藤子・F・不二雄.md "wikilink")
+
+<ゲーム紹介>
+
+**No.27**：1989年1・2月号
+<ゲーム紹介>
+
+  - [ウイニングラン](https://ja.wikipedia.org/wiki/ウイニングラン_\(コンピューターゲーム\) "wikilink")
+
+**No.28**：1989年3・4月号
+
+  - NGのロゴが変更。[フェリオス](https://ja.wikipedia.org/wiki/フェリオス "wikilink")のキャラクターである**アルテミス**のポスターが付録として付いた
+
+<ゲーム紹介>
+
+  - フェリオス
+  - [ロンパーズ](https://ja.wikipedia.org/wiki/ロンパーズ "wikilink")
+
+なお、No.20は存在しない。
+
+### 隔月刊期（1989年 - 1993年）
+
+**No.29**：1989年6月号
+
+  - 表紙から月刊の文字が消える
+
+<ゲーム紹介>
+
+  - [ワルキューレの伝説](https://ja.wikipedia.org/wiki/ワルキューレの伝説 "wikilink")
+
+**No.30**：1989年8月号
+<ゲーム紹介>
+
+  - [ダートフォックス](https://ja.wikipedia.org/wiki/ダートフォックス "wikilink")
+
+**No.31**：1989年10月号
+<ゲーム紹介>
+
+  - [バーニングフォース](https://ja.wikipedia.org/wiki/バーニングフォース "wikilink")
+  - [ファイネストアワー](https://ja.wikipedia.org/wiki/ファイネストアワー "wikilink")
+  - [フォートラックス](https://ja.wikipedia.org/wiki/フォートラックス "wikilink")
+
+**No.32**：1989年12月号
+<ゲーム紹介>
+
+  - [ウイニングラン鈴鹿GP](https://ja.wikipedia.org/wiki/ウイニングラン鈴鹿GP "wikilink")
+
+**No.33**：1990年2月号
+<ゲーム紹介>
+
+  - [マーベルランド](https://ja.wikipedia.org/wiki/マーベルランド "wikilink")
+
+**No.34**：1990年4月号
+<ゲーム紹介>
+
+  - [ギャラクシアン3](https://ja.wikipedia.org/wiki/ギャラクシアン3 "wikilink")
+  - [ドルアーガの塔 (アトラクション)](https://ja.wikipedia.org/wiki/ドルアーガの塔_\(アトラクション\) "wikilink")
+
+**No.35**：1990年6月号
+
+  - [花の万博開催時](../Page/国際花と緑の博覧会.md "wikilink")、読者に前号付録のお面を着けさせ、ドルアーガの塔の前に集合させる企画を行った。
+
+**No.36**：1990年8月号
+<ゲーム紹介>
+
+  - [ファイナルラップ2](https://ja.wikipedia.org/wiki/ファイナルラップ2 "wikilink")
+
+**No.37**：1990年10月号
+<ゲーム紹介>
+
+  - [ドラゴンセイバー](https://ja.wikipedia.org/wiki/ドラゴンセイバー "wikilink")
+  - [ピストル大名の冒険](https://ja.wikipedia.org/wiki/ピストル大名の冒険 "wikilink")
+
+**No.38**：1990年12月号
+<ゲーム紹介>
+
+  - ドラゴンセイバー
+
+**No.39**：1991年2月号
+<ゲーム紹介>
+
+  - [スティールガンナー](https://ja.wikipedia.org/wiki/スティールガンナー "wikilink")
+
+**No.40**：1991年4月号
+<ゲーム紹介>
+
+  - [ローリングサンダー2](https://ja.wikipedia.org/wiki/ローリングサンダー2 "wikilink")
+  - [ウイニングラン'91](https://ja.wikipedia.org/wiki/ウイニングラン'91 "wikilink")
+  - [ドライバーズアイ](https://ja.wikipedia.org/wiki/ドライバーズアイ "wikilink")
+
+**No.41**：1991年6月号
+<ゲーム紹介>
+
+  - [ゴーリーゴースト](https://ja.wikipedia.org/wiki/ゴーリーゴースト "wikilink")
+
+**No.42**：1991年8月号
+<ゲーム紹介>
+
+  - [スターブレード](https://ja.wikipedia.org/wiki/スターブレード "wikilink")
+
+**No.43**：1991年10月号
+<ゲーム紹介>
+
+  - [スーパーワールドスタジアム](https://ja.wikipedia.org/wiki/スーパーワールドスタジアム "wikilink")
+
+**No.44**：1991年12月号
+<ゲーム紹介>
+
+  - [ソルバルウ](../Page/ソルバルウ.md "wikilink")
+  - ギャラクシアン3プロジェクト・ドラグーン
+
+**No.45**：1992年2月号
+<ゲーム紹介>
+
+  - [スティールガンナー2](https://ja.wikipedia.org/wiki/スティールガンナー2 "wikilink")
+
+**No.46**：1992年4月号
+<ゲーム紹介>
+
+**No.47**：1992年6月号
+<ゲーム紹介>
+
+  - [コカコーラ鈴鹿8アワーズ](https://ja.wikipedia.org/wiki/コカコーラ鈴鹿8アワーズ "wikilink")
+
+**No.48**：1992年8月号
+<ゲーム紹介>
+
+  - [バブルトラブル](https://ja.wikipedia.org/wiki/バブルトラブル "wikilink")
+  - [スーパーワールドスタジアム'92](https://ja.wikipedia.org/wiki/スーパーワールドスタジアム'92 "wikilink")
+
+**No.49**：1992年10月号
+<ゲーム紹介>
+
+  - [ファイナルラップ3](https://ja.wikipedia.org/wiki/ファイナルラップ3 "wikilink")
+  - [F/A](https://ja.wikipedia.org/wiki/F/A "wikilink")
+
+**No.50**：1992年12月号
+<ゲーム紹介>
+
+  - [コズモギャング・ザ・パズル](https://ja.wikipedia.org/wiki/コズモギャング・ザ・パズル "wikilink")
+  - [エクスバニア](https://ja.wikipedia.org/wiki/エクスバニア "wikilink")
+
+**No.51**：1993年2月号
+<ゲーム紹介>
+
+  - [シュータウェイII](https://ja.wikipedia.org/wiki/シュータウェイII "wikilink")
+
+**No.52**：1993年4月号
+
+  - 最終号
+    <ゲーム紹介>
+  - [ナックルヘッズ](https://ja.wikipedia.org/wiki/ナックルヘッズ "wikilink")
+  - [スーパーワールドコート](https://ja.wikipedia.org/wiki/スーパーワールドコート "wikilink")
+
+## 休刊後
+
+『NG』休刊後、季刊誌『**NOURS**』（ノワーズ）が発行され、52号刊行された。[バンダイ](../Page/バンダイ.md "wikilink")との合併後、『**B-NOURS**』（ビィ・ノワーズ）と改称し12号刊行された。知的エンターテインメントを切り口とした構成で、最新ゲーム情報のみならず、映画、音楽、ショップなど一般エンターテインメント情報を掲載。ナムコと読者が遊び心で交流するマガジンで、ヤングアダルトを中心に幅広い読者層から好評を得た\[2\]。ロケーションを紹介するページや、読者からの投稿を掲載するページは『NG』時代から継続して存在した。
+
+『B-NOURS』は2009年4月発行の12号をもって休刊し、『季刊NG』から26年続いた歴史に終止符が打たれた\[3\]。
+
+## 書籍
+
+ザ・ナムコ・グラフィティ〈1〉完全保存版\!NG総集編&特別編集号（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")、ISBN 4-89052-585-8、1994年）
+
+## 脚注
+
+<references />
+
+## 関連項目
+
+  - [冨士宏](https://ja.wikipedia.org/wiki/冨士宏 "wikilink")
+  - [新明解ナム語辞典](https://ja.wikipedia.org/wiki/新明解ナム語辞典 "wikilink")
+
+## 外部リンク
+
+  -
+[Category:ナムコ](https://ja.wikipedia.org/wiki/Category:ナムコ "wikilink") [Category:アーケードゲーム雑誌](https://ja.wikipedia.org/wiki/Category:アーケードゲーム雑誌 "wikilink") [Category:コンピュータゲーム雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:コンピュータゲーム雑誌_\(休廃刊\) "wikilink") [Category:フリーペーパー](https://ja.wikipedia.org/wiki/Category:フリーペーパー "wikilink") [Category:1983年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1983年創刊の雑誌 "wikilink") [Category:1993年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:1993年休廃刊の雑誌 "wikilink")
+
+1.
+2.  [ノワーズバックナンバー](https://www.bandainamcoent.co.jp/corporate/bnours/nours/)
+3.

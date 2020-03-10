@@ -1,0 +1,419 @@
+> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+
+
+**ベルリンSバーン** (S-Bahn Berlin) は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の首都[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")における都市高速鉄道網（[Sバーン](https://ja.wikipedia.org/wiki/Sバーン "wikilink")）である。ドイツで最初のSバーンであり、[第三軌条方式](../Page/第三軌条方式.md "wikilink")による電化が採用されている。
+
+## 概要
+
+ベルリンのSバーンは、[東西ドイツ統一以降も数年間は旧](https://ja.wikipedia.org/wiki/ドイツ再統一 "wikilink")[西ベルリン](https://ja.wikipedia.org/wiki/西ベルリン "wikilink")側と旧[東ベルリン](https://ja.wikipedia.org/wiki/東ベルリン "wikilink")側で別々の事業者が運営していたが、[1994年](../Page/1994年.md "wikilink")1月1日に[ドイツ鉄道](../Page/ドイツ鉄道.md "wikilink") (DB) が発足したことで同日より同社による一元運営となり、さらに[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")1月1日からはDBの完全子会社である**S-Bahn Berlin GmbH**（Sバーンベルリン社）に移管されている。
+
+1995年当時の年間輸送量は約2億4,500万人であったが、その後毎年、年平均で2%程度の利用客増加があり、10年後の[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の年間輸送量は3億5,600万人であった。ただしこれは、Sバーン網の復活による総営業距離の伸びを考慮する必要がある。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の年間輸送量は、ドイツで開催された[サッカーワールドカップの効果もあり](../Page/2006_FIFAワールドカップ.md "wikilink")、前年比5.3%増の約3億7,500万人（1日平均で約100万人）を輸送し、1995年以降で最高となった。ただし、ベルリンのSバーンとして最も利用が多かったのは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[1943年](../Page/1943年.md "wikilink")で、年間約7億3,700万人（1日平均で約200万人）の利用があった。
+
+## 運行
+
+ベルリンのSバーンは各駅停車で、一部区間でのみ快速運転が行われている\[1\]。路線によっては、ベルリン市内と郊外を結ぶ中・長距離列車（[REまたは](https://ja.wikipedia.org/wiki/レギオナルエクスプレス "wikilink")[RB](https://ja.wikipedia.org/wiki/レギオナルバーン "wikilink")）が快速の役割を果たしている。東京における[京浜東北線](https://ja.wikipedia.org/wiki/京浜東北線 "wikilink")と[東海道線](https://ja.wikipedia.org/wiki/東海道線_\(JR東日本\) "wikilink")・[宇都宮線](https://ja.wikipedia.org/wiki/宇都宮線 "wikilink")・[高崎線](https://ja.wikipedia.org/wiki/高崎線 "wikilink")・[上野東京ライン](https://ja.wikipedia.org/wiki/上野東京ライン "wikilink")、あるいは[総武緩行線と](../Page/中央・総武緩行線.md "wikilink")[総武快速線](https://ja.wikipedia.org/wiki/総武快速線 "wikilink")の関係に近い。
+
+土曜・休日には、終夜運転が実施される。
+
+ベルリンSバーンには、以下の16系統が設定されている（2019年12月ダイヤ改正時点。[公式サイト路線図](https://map.sbahn.berlin/pdf/S+U-Bahn_12_2019-Internetversion-S-Bahn.pdf)）。一部の系統では、途中駅で折り返し運転となる列車も設定されている。
+
+### 南北地下線を経由する系統
+
+左側が北方向、右側が南方向である。
+
+  - ：オラーニエンブルク (Oranienburg) - 南北地下線 - [ヴァンゼー](https://ja.wikipedia.org/wiki/ヴァンゼー "wikilink") (Wannsee)
+
+  - ：ベルナウ (Bernau) - 南北地下線 - ブランケンフェルデ (Blankenfelde)
+
+  - ：ヘニヒスドルフ (Hennigsdorf) - 南北地下線 - テルトウ市 (Teltow Stadt)
+
+  - ：ヴァイトマンスルスト (Waidmannslust) - 南北地下線 - テルトウ市
+
+### 市街線（シュタットバーン、東西高架線）を経由する系統
+
+左側が西方向、右側が東方向である。
+
+  - ：シュパンダウ (Spandau) - [市街線](https://ja.wikipedia.org/wiki/ベルリン市街線 "wikilink") - エルクナー (Erkner) ※快速運行する区間列車あり\[2\]
+
+  - ：[ヴェストクロイツ](https://ja.wikipedia.org/wiki/ヴェストクロイツ駅 "wikilink") (Westkreuz) - 市街線 - [シュトラウスベルク](https://ja.wikipedia.org/wiki/シュトラウスベルク "wikilink")北 (Strausberg Nord)
+
+  - ：[ポツダム中央駅](https://ja.wikipedia.org/wiki/ポツダム中央駅 "wikilink") (Potsdam Hbf.) - 市街線 - アーレンスフェルデ (Ahrensfelde)
+
+  - ：シュパンダウ - 市街線 - [ベルリン・シェーネフェルト空港](https://ja.wikipedia.org/wiki/ベルリン・シェーネフェルト空港 "wikilink") ()
+
+### 環状線（リングバーン）を経由する系統
+
+ドイツの鉄道は右側通行であるため、外回り・内回りは、日本とは逆になる。
+
+  - ：環状線右回り（内回り）
+
+  - ：環状線左回り（外回り）
+
+  - ：ベルリン・シェーネフェルト空港 - [環状線](https://ja.wikipedia.org/wiki/ベルリン環状線 "wikilink") [ズュートクロイツ](https://ja.wikipedia.org/wiki/ベルリン＝ズュートクロイツ駅 "wikilink") (Südkreuz)
+
+  - ：ケーニヒス・ヴスターハウゼン () - 環状線 ヴェストエント (Westend)
+
+  - ：シュピンドラースフェルト (Spindlersfeld) - 環状線 ヘルマン通り ()
+
+  - ：ツォイテン (Zeuthen) - 環状線 - ビルケンヴェルダー (Birkenwerder)
+
+  - ：グリュナウ () - 環状線 - パンコウ (Pankow)
+
+### その他の系統
+
+  - ：ワルシャワ通り (Warschauer Str.) - ヴァルテンベルク (Wartenberg)
+
+## 路線
+
+区間はSバーン運転区間に限る。
+
+### 南北方向
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:S-Bahn_Berlin_Potsdamer_Platz.JPG "wikilink")\]\]
+
+  - ： -  –  - [フリードリヒ通り](https://ja.wikipedia.org/wiki/フリードリヒ通り駅 "wikilink") - [ブランデンブルク門駅](https://ja.wikipedia.org/wiki/ブランデンブルク門駅 "wikilink") - [ポツダム広場](https://ja.wikipedia.org/wiki/ポツダム広場駅 "wikilink") -
+
+ベルリン市街の中心部の地下を南北に貫く、Sバーンの重要路線である。沿線には[フンボルト大学ベルリン](https://ja.wikipedia.org/wiki/フンボルト大学ベルリン "wikilink")、[ウンター・デン・リンデン](../Page/ウンター・デン・リンデン.md "wikilink")、[ポツダム広場](https://ja.wikipedia.org/wiki/ポツダム広場 "wikilink")、[ブランデンブルク門](https://ja.wikipedia.org/wiki/ブランデンブルク門 "wikilink")といった観光名所のほか、[国会議事堂などの政府](https://ja.wikipedia.org/wiki/国会議事堂_\(ドイツ\) "wikilink")・行政機関、あるいは商業施設や企業のオフィスなどが集中しており、利用客も多い。
+
+Sバーン専用の複線路線である。北側のフンボルトハインでは[シュテティーン線に直通](https://ja.wikipedia.org/wiki/ベルリン-シュチェチン線 "wikilink")、南側のアンハルト駅では二手に分かれ、と[アンハルト線に直通している](https://ja.wikipedia.org/wiki/ベルリン-ハレ線 "wikilink")。また、フリードリヒ通り駅で[ベルリン市街線](https://ja.wikipedia.org/wiki/ベルリン市街線 "wikilink")（シュタットバーン）と直交する。
+
+南北地下線の構想自体は19世紀から存在するが、[アドルフ・ヒトラー](https://ja.wikipedia.org/wiki/アドルフ・ヒトラー "wikilink")政権による社会基盤整備の一環として、また、[ベルリンオリンピック](https://ja.wikipedia.org/wiki/ベルリンオリンピック "wikilink")を控えての都市交通の拡充のため建設された。オリンピック開幕直前の1936年7月に北半分の[ウンター・デン・リンデン駅](https://ja.wikipedia.org/wiki/ウンター・デン・リンデン駅 "wikilink")（現：[ブランデンブルク門駅](https://ja.wikipedia.org/wiki/ブランデンブルク門駅 "wikilink")）まで開業、1939年に2段階に分けて延長され、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")勃発直後の同年10月に全通した。
+
+「[ベルリンの壁](../Page/ベルリンの壁.md "wikilink")」時代（1961年 - 1989年）は、[西ベルリン](https://ja.wikipedia.org/wiki/西ベルリン "wikilink")側の路線となっていたが、地下線の大部分は[東ベルリン](https://ja.wikipedia.org/wiki/東ベルリン "wikilink")側に存在していたため、東ベルリン側の駅は、検問所が置かれたフリードリヒ通り駅を除き、全て閉鎖されていた。ベルリンの壁崩壊後は、閉鎖されていた駅は順次、営業を再開した。
+
+  - [シュテティーン線](https://ja.wikipedia.org/wiki/ベルリン-シュチェチン線 "wikilink")：フンボルトハイン - [ゲズントブルンネン](https://ja.wikipedia.org/wiki/ベルリン＝ゲズントブルンネン駅 "wikilink") –  –
+
+[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")と[バルト海](../Page/バルト海.md "wikilink")沿いの港町[シュテティーン](https://ja.wikipedia.org/wiki/シュテティーン "wikilink")を結ぶ約134 kmの路線の内、ベルリン側約23 kmにあたる。ベルリン北東部の[パンコウ区](https://ja.wikipedia.org/wiki/パンコウ区 "wikilink")などを経由して、[ブランデンブルク州](https://ja.wikipedia.org/wiki/ブランデンブルク州 "wikilink")のに至る。
+
+1924年8月に電化され、電車によるSバーンの運行が始まった。もともとはシュテティーン駅（の旧称）を起点としていたが、南北地下線の開通でひとつ手前のフンボルトハインから同線と直通するようになる。
+
+戦後、ボルンホルム通り駅から[環状線の](https://ja.wikipedia.org/wiki/ベルリン環状線 "wikilink")の間に連絡線を敷設。壁建設ではボルンホルム通り駅が東側管轄地域となり駅営業を休止、西側Sバーンは通過扱いとし、東側は西側路線と離れた位置に線路を移設し、路線が分断された。現在は列車線とSバーンの路線別複々線となっている。
+
+  - [ベルリン北部線](https://ja.wikipedia.org/wiki/ベルリン北部線 "wikilink")：ボルンホルム通り –  –  -
+
+ベルリンとドイツ北部の港町[シュトラールズント](https://ja.wikipedia.org/wiki/シュトラールズント "wikilink")を結ぶ約220 kmの路線の、ベルリン側約26kmにあたる。ベルリン北部の地区などを経由して、[ブランデンブルク州](https://ja.wikipedia.org/wiki/ブランデンブルク州 "wikilink")の[オラーニエンブルク](https://ja.wikipedia.org/wiki/オラーニエンブルク "wikilink")に至る。1925年6月 - 10月に電化され、電車によるSバーンの運行がはじまった。ボルンホルム通りから[シュテティーン線経由で都心方向へ向かう](https://ja.wikipedia.org/wiki/ベルリン-シュチェチン線 "wikilink")。
+
+[ベルリンの壁](../Page/ベルリンの壁.md "wikilink")建設で（[西ベルリン](https://ja.wikipedia.org/wiki/西ベルリン "wikilink")側）と（[東ドイツ側](../Page/ドイツ民主共和国.md "wikilink")）の間で分断された。この時、オラーニエンブルクへは[外環状線を経由し](https://ja.wikipedia.org/wiki/ベルリン外環状線 "wikilink")、シュテティーン線と接続することで運行を継続した。なお、[東西再統一後](https://ja.wikipedia.org/wiki/ドイツ再統一 "wikilink")、この区間が再び接続されたため、もとの運行形態に戻り、外環状線経由の列車はビルケンヴェルダー駅止まりとまった。
+
+本来、列車線とSバーンの路線別複々線であるが、ボルンホルム通り - ホーエン・ノイエンドルフの間は壁建設で列車線が剥がされたままになっている。
+
+  - ： -  -
+
+ベルリンの北西の町を結ぶ約37 kmの路線のうち、ベルリン側約19 kmにあたる。1927年3月に電化され、電車によるSバーンの運行がはじまった。シェーンホルツから北部線・シュテティーン線経由で都心へ向かう。
+
+もともとヘニヒスドルフから数駅先のまでがSバーン運転区間だったが、壁建設で（[西ベルリン](https://ja.wikipedia.org/wiki/西ベルリン "wikilink")側）とヘニヒスドルフ（[東ドイツ側](../Page/ドイツ民主共和国.md "wikilink")）の間で分断された。その後、東側区間も1983年に電車運転を取りやめた。また西側区間は1984年のBVG移管時に引き継がれず廃止された。[東西再統一後](https://ja.wikipedia.org/wiki/ドイツ再統一 "wikilink")、1995年にテーゲルまで、1998年にはヘニヒスドルフまで復活したが、その先は見送られている。もともとは列車線と共用の複線だったが、現在は単線となり、また途中のテーゲル附近には踏切が存在する。
+
+  - ： -  -  -
+
+  - [アンハルト線](https://ja.wikipedia.org/wiki/ベルリン-ハレ線 "wikilink")： アンハルト駅 - [ズュートクロイツ](https://ja.wikipedia.org/wiki/ベルリン＝ズュートクロイツ駅 "wikilink") -  -
+
+      - ：リヒターフェルデ南 -
+
+  - [ドレスデン線](https://ja.wikipedia.org/wiki/ベルリン-ドレスデン線 "wikilink")：プリースターヴェーク –
+
+### 東西方向
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Berlin_SBahn_HackescherMarkt_east.jpg "wikilink")[ハッケシャー・マルクト駅](https://ja.wikipedia.org/wiki/ハッケシャー・マルクト駅 "wikilink")付近。左側が長距離線、右側がSバーン。\]\]
+
+  - [ベルリン市街線](https://ja.wikipedia.org/wiki/ベルリン市街線 "wikilink")（シュタットバーン Stadtbahn 東西高架線）ベルリン東駅 - フリードリヒ通り - [ベルリン中央駅](https://ja.wikipedia.org/wiki/ベルリン中央駅 "wikilink") - ヴェストクロイツ
+
+ベルリン市街中心部を東西に貫く高架線で、Sバーンの重要路線である。 沿線には[ベルリン動物園](https://ja.wikipedia.org/wiki/ベルリン動物園 "wikilink")、[シャルロッテンブルク宮殿](https://ja.wikipedia.org/wiki/シャルロッテンブルク宮殿 "wikilink")、[カイザー・ヴィルヘルム記念教会](https://ja.wikipedia.org/wiki/カイザー・ヴィルヘルム記念教会 "wikilink")、[ティーアガルテン](https://ja.wikipedia.org/wiki/ティーアガルテン "wikilink")、[ベルリンテレビ塔](../Page/ベルリンテレビ塔.md "wikilink")、[シャルロッテンブルク宮殿](https://ja.wikipedia.org/wiki/シャルロッテンブルク宮殿 "wikilink")といった観光名所のほか、南北地下線同様に、政府・行政機関、あるいは商業施設や企業のオフィスなどが多く、利用客も多い。また、2006年5月に開業した[ベルリン中央駅](https://ja.wikipedia.org/wiki/ベルリン中央駅 "wikilink")も通る。
+
+Sバーンと長距離線の路線別複々線である。東側のベルリン東駅でシュレージエン線・プロイセン東線・同線経由ヴリーツェン線と直通、西側のヴェストクロイツでヴェツラー線・シュパンダウ郊外線と直通する。フリードリヒ通り駅で南北地下線と直交する。
+
+19世紀後期に、分散していたベルリンの鉄道ターミナルを都心経由で結ぶべく計画・建設され、1882年に開業した。大都市の中心部を貫く鉄道は、当時としては世界的にも珍しいものであった。「都市鉄道」を意味する "Stadtbahn" は、現在の "S-Bahn" の語源になったとされている。もっとも、ベルリン以外の都市ではS-bahnは高速鉄道 (Schnellbahn) が語源とされており、ドイツ語辞書でもこちらが記載されている。
+
+[ベルリンの壁](../Page/ベルリンの壁.md "wikilink")時代は、レールテ駅（現：[中央駅](https://ja.wikipedia.org/wiki/ベルリン中央駅 "wikilink") 西ベルリン側）とフリードリヒ通り駅（東ベルリン側）の間のシュプレー川が東西境界となっていた。ただし、西ベルリン側の電車は、検問所があるフリードリヒ通り駅まで直通しており、東ベルリン側とは厳重な管理の下で隔てられていた。ベルリンの壁崩壊後は再び1本の路線として運営され、1990年代には列車線の電化や駅の改装をはじめとする大幅な改良工事が実施された。
+
+  -
+    駅：[ヴェストクロイツ](https://ja.wikipedia.org/wiki/ヴェストクロイツ駅 "wikilink") (Westkreuz) - [シャルロッテンブルク](https://ja.wikipedia.org/wiki/ベルリン＝シャルロッテンブルク駅 "wikilink") (Charlottenburg) - [ザヴィニー広場](https://ja.wikipedia.org/wiki/ザヴィニー広場駅 "wikilink") (Savignyplatz) - [動物園](https://ja.wikipedia.org/wiki/ベルリン動物園駅 "wikilink") (Zoologischer Garten) - [ティーアガルテン](https://ja.wikipedia.org/wiki/ティーアガルテン駅 "wikilink") (Tiergarten) - [ベルヴュー](https://ja.wikipedia.org/wiki/ベルヴュー駅 "wikilink") (Bellevue) - [ベルリン中央駅](https://ja.wikipedia.org/wiki/ベルリン中央駅 "wikilink") (Hauptbahnhof) - フリードリヒ通り - [ハッケシャー・マルクト](https://ja.wikipedia.org/wiki/ハッケシャー・マルクト駅 "wikilink") (Hackescher Markt) - [アレクサンダー広場](https://ja.wikipedia.org/wiki/アレクサンダー広場駅 "wikilink") (Alexanderplatz) - [ヤノヴィッツ橋](https://ja.wikipedia.org/wiki/ヤノヴィッツ橋駅 "wikilink") () - [ベルリン東駅](https://ja.wikipedia.org/wiki/ベルリン東駅 "wikilink") (Ostbahnhof)
+
+<!-- end list -->
+
+  - [シュパンダウ近郊線](https://ja.wikipedia.org/wiki/シュパンダウ近郊線 "wikilink") (Spandauer Vorortbahn)：ヴェストクロイツ - シュパンダウ（一部、レールテ線含む）
+  - [ヴェツラー線](https://ja.wikipedia.org/wiki/ヴェツラー線 "wikilink") (Wetzlarer Bahn)：ヴェストクロイツ - ヴァンゼー
+  - [プロイセン東線](https://ja.wikipedia.org/wiki/プロイセン東線 "wikilink") ()：ベルリン東駅 - オストクロイツ - リヒテンベルク - フリードリヒスフェルデ東 - シュトラウスベルク
+      - 東線支線：シュトラウスベルク - シュトラウスベルク北
+  - [ヴリーツェン線](https://ja.wikipedia.org/wiki/ヴリーツェン線 "wikilink") (Wriezener Bahn)：フリードリヒスフェルデ東 - アーレンスフェルデ
+  - [シュレージエン線](https://ja.wikipedia.org/wiki/ニーダーシュレージッシュ-メルキッシュ線 "wikilink") (Schlesische Bahn)：ベルリン東駅 - オストクロイツ - フリードリヒスハーゲン - エルクナー
+
+ベルリンと[シュレージエン地方のブレスラウ](https://ja.wikipedia.org/wiki/シレジア "wikilink")（Breslau, 現在はポーランド領[ヴロツワフ](https://ja.wikipedia.org/wiki/ヴロツワフ "wikilink")）を結ぶ約329 kmの路線（[ベルリン-グーベン線](https://ja.wikipedia.org/wiki/ニーダーシュレージッシュ-メルキッシュ線 "wikilink")）の、ベルリン側約24 kmにあたる。ベルリン東駅からその東部のケーペニック () 地区を経由してブランデンブルク州のエルクナー (Erkner) に至る。1928年7月に電化され、電車によるSバーンの運行がはじまった。なお、ベルリン東駅 - オストクロイツ間のSバーンは、ベルリン東線とは別に当線用の複線もあって路線別複々線の状態であった。同区間は改良工事を経て現在は方向別複々線で運行されている。
+
+  - [ゲルリッツ線](https://ja.wikipedia.org/wiki/ベルリン-ゲルリッツ線 "wikilink") ()：トレプトウ公園 - バウムシューレンヴェーク - シェーネヴァイデ - アードラースホーフ - ケーニヒス・ヴスターハウゼン
+      - ゲルリッツ線支線：シェーネヴァイデ - シュピンドラースフェルト
+
+### 環状方向
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Bahnhof_Ostkreuz_01.jpg "wikilink")。上が環状線、下が東西方向の路線。\]\]
+
+  - [ベルリン環状線](https://ja.wikipedia.org/wiki/ベルリン環状線 "wikilink")（リングバーン Ringbahn）[ゲズントブルンネン駅](https://ja.wikipedia.org/wiki/ベルリン＝ゲズントブルンネン駅 "wikilink") - オストクロイツ - トレプトウ公園 - ノイケルン - ズュートクロイツ - シェーネベルク - ヴェストクロイツ - ユングフェルンハイデ - ゲズントブルンネン
+      - 連絡線 ノイケルン - バウムシューレンヴェーク
+
+ベルリン市街を取り巻く形で敷設されている環状路線であり、環状線の内側が都心部となる。路線の総延長は[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")よりもわずかに長い。ノイケルンで分岐しゲルリッツ線バウムシューレンヴェークへ至る連絡線があるほか、放射方向の路線との連絡線がトレプトウ公園 - シュレージエン線／プロイセン東線ワルシャワ通り、トレプトウ公園 - ゲルリッツ線プレンターヴァルト、シェーンハウザーー・アレー - シュテティーン線ボルンホルム通りの各所にあり、列車が直通している。なお戦前にはパーペ通り（現・ズュートクロイツ）およびシェーネベルクの両駅から北へ枝線が分岐し、両方からの枝線が途中で合流してベルリン･ポツダム駅（環状線駅）に至る路線があった。これは環状線本線が市外周部を囲む路線だったために市中心部の[ポツダム広場](https://ja.wikipedia.org/wiki/ポツダム広場 "wikilink")への連絡を図ったもので、列車の運転も休日を除きベルリン・ポツダム駅から出発した列車が内回り・外回りともに環状線をほぼ一周 してベルリン・ポツダム駅に戻る運行形態で、純粋な環状運転ではなかった。
+
+放射方面の各線とは、オストクロイツ、ヴェストクロイツ、ズュートクロイツは直角交差だが、ゲズントブルンネンはシュテティーン線と方向別ホームによる対面乗り換えとなっている。
+
+19世紀中ごろに、ベルリンから放射状に延びる鉄道路線を相互に連絡するために計画・建設され、1871年から数年間かけて順次開業し、1877年に環状線が 全通した。環状線の開業までは、ベルリンの鉄道は、ベルリンと郊外あるいは他都市を結ぶ列車が主流であったが、環状線の開業により、各路線を相互に連絡する旅客・貨物列車が運転されるようになったほか、ベルリンの都市鉄道としての役割も担うようになった。そのため環状線は、現在のベルリンSバーン網のルーツとされている。
+
+ベルリンの壁建設により、北側がゲズントブルンネン（西ベルリン側）とシェーンハウザー・アレー（東ベルリン側）の間 で、南側がトレプトウ公園（東ベルリン側）とゾンネンアレー（西ベルリン側）の間で分断され、東西で別々に運行されていた。西ベルリン側の環状線は1980年に運行中止となり、壁崩壊時点でも復旧していなかった。
+
+ベルリンの壁崩壊以前から環状線の復旧工事は西側で一部着手されていたが、壁崩壊により工事が強力に推進され、1993年にノイケルン - ヴェストエント間が再開、以後9年の歳月をかけて、2002年のヴェストハーフェン（Westhafen）- ゲズントブルンネンの再開により全線復旧し、41年ぶりの全線開通となった。2006年には、45年ぶりの完全環状運転も復活している。
+
+Sバーンと列車線の線路別複々線である。列車線はトレプトウ公園 - ゾンネンアレーの間で途切れているため、完全な環状線ではない。また、フランクフルター・アレー - トレプトウ公園の間は東ベルリン時代に路線が剥がされている。
+
+  -
+    駅（北側から時計回り）：ゲズントブルンネン (Gesundbrunnen) - シェーンハウザー・アレー () - プレンツラウアー・アレー (Prenzlauer Allee) - グライフスヴァルト通り () - ランツベルガー・アレー (Landsberger Allee) - シュトルコウ通り () - フランクフルター・アレー (Frankfurter Allee) - オストクロイツ (Ostkreuz) - トレプトウ公園 (Treptower Park) - ゾンネンアレー (Sonnenallee) - ノイケルン () - ヘルマン通り () - テンペルホーフ (Tempelhof) - ズュートクロイツ () - シェーネベルク () - インスブルック広場 (Innsbrucker Platz) - ブンデス広場 (Bundesplatz) - ハイデルベルク広場 (Heidelberger Platz) - ホーエンツォレルンダム (Hohenzollerndamm) - ハーレンゼー (Halensee) - ヴェストクロイツ (Westkreuz) - メッセ北/国際会議場 (Messe Nord/ICC) - ヴェストエント (Berlin-Westend) - ユングフェルンハイデ (Jungfernheide) - ボイセル通り () - ヴェストハーフェン (Westhafen) - ヴェディング (Wedding) - ゲズントブルンネン
+
+<!-- end list -->
+
+  - [ベルリン外環状線](https://ja.wikipedia.org/wiki/ベルリン外環状線 "wikilink") () ホーエン・ノイエンドルフ - ブランケンブルク、ヴァルテンベルク - シュプリングプフール
+
+環状線の更に外側の郊外部を走る形の路線である。列車線は環状路線を形成しているが、Sバーンが走るのはそのうちの一部区間のみであり、すべて放射状の路線との直通運転になっている。Sバーンが走るようになったのは東西分断後であり、ホーエン・ノイエンドルフ - ブランケンブルク間は1961年、ヴァルテンベルク - シュプリングプフール間は1984・1985年からである\[3\]。Sバーンの線路と列車線の線路は分離されているが、列車線は全線複線であるのに対し、ホーエン・ノイエンドルフ - ブランケンブルク間の一部には単線区間が存在する\[4\]。
+
+  - 外環状貨物線 ()
+
+### 建設中の路線
+
+  - 新空港への連絡線：現在S45・S9の起終点である[ベルリン・シェーネフェルト空港](https://ja.wikipedia.org/wiki/ベルリン・シェーネフェルト空港 "wikilink")駅から[ベルリン・ブランデンブルク空港](https://ja.wikipedia.org/wiki/ベルリン・ブランデンブルク空港 "wikilink")へ至る、約8kmの路線。新設駅は途中のとターミナル地下の。施設はすでに完成しているが、新空港の開港遅れにともない、一般営業は開始していない。
+
+<!-- end list -->
+
+  - ：ベルリン環状線内をベルリン中央駅経由で南北に結ぶSバーン計画。すでに開通している[南北長距離線](https://ja.wikipedia.org/wiki/南北長距離線 "wikilink")の東側に並走する。環状線ヴェストハーフェン駅・ヴェディング駅から分岐・合流し地下のベルリン中央駅までの約4kmが建設中。開通は土木技術の問題などにより遅れており、2020年予定\[5\]。計画ではさらに、中央駅 - ポツダム広場駅 - グライスドライエック駅 - ヨルク通り駅などへ延長される。
+
+### 休廃止路線・区間
+
+電化路線のみ
+
+  - ：ユングフェルンハイデ - ガルテンフェルト。ジーメンス社の従業員輸送を目的として1929年に開通。[地下鉄の並行区間が開通した](https://ja.wikipedia.org/wiki/ベルリン地下鉄7号線 "wikilink")1980年、運行が休止された。同社のイノベーション・キャンパス建設計画などにともない、路線の再開が決定し、2021年にも工事が開始される見込みである\[6\]。
+
+以下の路線は、復活したとしても2020年以降か、廃止の見込みである。ハンブルク線・レールテ線は厳密には休止線ではなく、列車線が整備され近距離列車が多数運行されている。ポツダム線は復活する場合にはSバーンではなく列車線としての復旧となる。フリートホーフ線のみが将来S25系統がテルトウ市駅から延長された時に、一体化して復活する計画がある。
+
+  - [ハンブルク線](https://ja.wikipedia.org/wiki/ベルリン-ハンブルク線 "wikilink") (Hamburger Bahn) ユングフェルンハイデ - シュパンダウ - シュターケン
+  - [レールテ線](https://ja.wikipedia.org/wiki/ベルリン-レールテ線 "wikilink") (Lehrter Bahn) シュパンダウ - ファルケンゼー
+  - [ポツダム線](https://ja.wikipedia.org/wiki/ポツダム線 "wikilink") ツェーレンドルフ - デュッペル・クラインマッハノウ
+  - [フリートホーフ線](https://ja.wikipedia.org/wiki/フリートホーフ線 "wikilink") (Friedhofsbahn) ヴァンゼー - シュターンスドルフ
+
+## 電車
+
+ベルリンSバーンでは専用に設計・製造された電車が使用されている。車両塗装はドイツ鉄道の標準塗装を採用する他都市と異なり、伝統色である黄色と赤のツートン塗装を維持している。
+
+戦前から使用されてきた旧型車（475, 477など）は、[488形電車に改造された車両を除き](https://ja.wikipedia.org/wiki/ドイツ鉄道488形電車 "wikilink")、[2002年](../Page/2002年.md "wikilink")までに全て営業運転から撤退している。
+
+### 現在の電車
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:S-Bahn_Berlin_Baureihe_480.jpg "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:S-Bahn_Berlin_Baureihe_485.jpg "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Berlin-Panoramabahn-Olympiastadion-050728_P1030117.JPG "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:ET_165_01.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:ET_165_Wannseebahn_01.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:ET_166_01.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:ET_167_01.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:ET_167_Peenemünde_01.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:S-Bahn_Berlin_Baureihe_477.jpg "wikilink")
+
+  - [480形](https://ja.wikipedia.org/wiki/ベルリン運輸公社480形電車 "wikilink")
+    西ベルリンのSバーンの運営が[東ドイツ国鉄からBVG](https://ja.wikipedia.org/wiki/ドイツ国営鉄道_\(東ドイツ\) "wikilink")（ベルリン運輸公社）に移管されてから投入された電車。1986年 - 1987年に試作車2両編成×4本、1990年 - 1994年に量産車2両編成×81本の、合計2両編成×85本（170両）が投入された。量産車のうち後半40本は、旧東ドイツ国鉄の発注である。
+    4つの面で構成された、特徴的な前面形状を有する。全電動車方式で、パワートランジスタ素子による[チョッパ](../Page/チョッパ制御.md "wikilink")-[インバータ](../Page/インバータ.md "wikilink")制御方式、三相交流誘導電動機を採用する。塗色は試作車はグレー一色だったが、量産車は伝統色で登場している。
+    火災や事故で廃車になったものがあるため、2005年現在、78編成が運用されている。
+    現在は[IGBT](../Page/絶縁ゲートバイポーラトランジスタ.md "wikilink")-[VVVFインバータ制御への更新が進められている](https://ja.wikipedia.org/wiki/可変電圧可変周波数制御 "wikilink")。
+  - [485形](https://ja.wikipedia.org/wiki/東ドイツ国鉄485形電車 "wikilink")
+    東ドイツ国鉄が[東ベルリン](https://ja.wikipedia.org/wiki/東ベルリン "wikilink")のSバーン用として投入した電車。東ドイツ国鉄時代は270形で、1992年に現在の形式に改称した。1M1T方式で、制御車は870形→885形（1992 - ）である。傾斜した前面形状と、外吊り式の側扉が特徴。[電機子チョッパ制御](../Page/電機子チョッパ制御.md "wikilink")方式を採用する。1980年に試作車2両編成×4本が製造されたが、1986年までに全車が引退している。
+    量産車は1987年と1990年 - 1992年に、2両編成×166本（332両）が投入された。塗色が赤1色（側窓周りは黒）に変更され、前照灯の形状が丸型から角型に変更された。近年はおもに東西高架線経由の系統で運用されているが、2004年からは急速に廃車が進められている一方、残存車両は伝統色への塗色変更が進められた。
+  - [481形](https://ja.wikipedia.org/wiki/ドイツ鉄道481形電車 "wikilink")
+    DB 発足後、戦前製の旧型車（475形・476形・477形）を一掃するために投入された電車。1996年から2005年にかけて、2両編成×494本と、4 両編成×3本の、合計1000両が投入されている。前面は曲面1枚ガラスの形状を有する。全電動車方式で、三相交流誘導電動機を採用する。現在、ベルリン Sバーンの主力車両として使用されている。
+    塗色は当初は黄色を基調とした新塗色だったが増備途中から伝統色に戻っており、結局どの系列においても新塗色が定着しなかった。
+  - [488形](https://ja.wikipedia.org/wiki/ドイツ鉄道488形電車 "wikilink")（パノラマSバーン）
+    観光用の電車として、側窓をパノラミックウインドウに交換し、眺望を楽しめるようにした「パノラマSバーン」。1998年に3両編成1本が、戦前製の477形電車から改造された。
+    現在、営業用としては唯一残る旧型電車でもあるが、改造時の記録を見る限りにおいて車体は台枠と運転室周りを残し新製されており、電気品を除けばほとんど新車同然である。
+
+### 過去の電車
+
+  - [ET・EB・ES165形](https://ja.wikipedia.org/wiki/:de:DRG-Baureihe_ET_165 "wikilink")
+    1927年の「大電化」および1933年のヴァンゼー線電化に際し、1927 - 1933年に電動車688両・制御車465両・附随車223両の計1,376両が、[AEG](https://ja.wikipedia.org/wiki/AEG "wikilink")・[シーメンス](../Page/シーメンス.md "wikilink")・コッペル・DMVで製造された形式。1927・1930年設計の車両は市街線形、1932年設計の車両はヴァンゼー形と呼ばれる。
+
+    1925年設計のET・ES168形（オラーニエンブルク形）をベースとしたもので、車体の長さ16,980 mm, 幅2,871 mmである。前面は3つ折の非貫通3枚窓、側面の窓は位置は1D2D2D2Dで両開き扉を4つ備える。シュタット線形とヴァンゼー形では、リベットの数や前面の窓形状などが異なっている。台車は板台枠式で、電動車の主電動機は出力90 kWのものを4機備える。
+
+    1942年にET・EB・ES165形（ETは電動車／Triebwagen, ESは制御車／Steuerwagen, EBは附随車／Baiwagen を表す）の形式が付与され、東ドイツ国鉄時代の1970年に275形に、1992年に475・875形（以下475形）となった。
+
+    1965 - 1969年に、ワンマン化改造ならびに前照灯の1灯→2灯化が行なわれた。また、1979年から更新工事が一部車両に実施され、前面が2枚窓になったものがある。こちらは形式が276形100 - 300番台になり、1992年には476・877形（以下476形）になった。また未更新車のうち238両は1984年の西側路線網の西側移管時にBVGに譲渡されて原型のまま更新、さらに東側に残った未更新車の多数が東側Uバーン車両に転用改造されて、未更新のまま壁崩壊を迎えた車両は少数であった。
+
+  - [ET・EB125形](https://ja.wikipedia.org/wiki/:de:DRG-Baureihe_ET_125 "wikilink")
+    1936 - 1937年に、電動車・附随車ともに18両ずつ36両が製造された。銀行形と呼ばれる。1933年のポツダム線電化に際し、電車の高速化を視野に入れて製造された。
+
+    車体・窓配置等はET165形に準じるものの、全面は上半分が傾斜した流線形スタイルとなり、前照灯・尾灯も窓下に2つが配置される。主電動機の出力は 167 kW×4に増強され、設計最高速度140 km/hになった。ただし、営業運転では、最高速度は120 km/hに抑えられた。
+
+    1942年に形式ET・EB125形（以下ET125形）が付与された。大戦後の1949年には主電動機の出力を110 kWに変更し、後述のET・EB166形（以下ET166形）に編入。035 - 052になる。
+
+  - [ET・EB166形](https://ja.wikipedia.org/wiki/:de:DRG-Baureihe_ET_166 "wikilink")
+    1936年に電動車・附随車ともに34両ずつ68両が製造された。同年に実施された[ベルリンオリンピック](https://ja.wikipedia.org/wiki/ベルリンオリンピック "wikilink")にちなんでオリンピック形と呼ばれる。車体はET125形に準じているが、主電動機の出力は110 kW×4と抑えられている。
+
+    1942年に形式ET・EB166形（以下ET166形）が付与された。東ドイツ国鉄時代の1970年には276形000番台に変更。1975 - 1982年に更新工事が実施され、前面が2枚窓になった。ただし、1992年の改番では275形の改造車と異なり後述の277形とともに477・877形（以下477形）となっている。
+
+  - [ET・EB167形](https://ja.wikipedia.org/wiki/:de:DRG-Baureihe_ET_167 "wikilink")
+    南北地下線の開業・延長にあわせ、1938 - 1941年にかけて、電動車283両、附随車261両の計544両が、アルゲマイネ、コッペル、ヴェグマン、ジーメンスで製造された。基本的にET166形に準じている。
+
+    東ドイツ国鉄時代の1970年には277形に変更。1973年から更新工事が実施され、前面が2枚窓になった。1992年の改番では477形となっている。2003年まで使用され、現在は2編成4両が動態保存されている。
+
+    なお、これら戦前製の車両のうち大戦後[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")に約280両が接収され、同国の[モスクワ](https://ja.wikipedia.org/wiki/モスクワ "wikilink")・[キエフ](../Page/キエフ.md "wikilink")・[タリン](../Page/タリン.md "wikilink")（[エストニア](../Page/エストニア.md "wikilink")）近郊で使用された。のちにこれらの約半数は返還されている。また[ポーランド](../Page/ポーランド.md "wikilink")領となった[シレジア](https://ja.wikipedia.org/wiki/シレジア "wikilink")地方に空襲の激化により疎開していた車両のうち160両がそのままポーランドに帰属し、[ダンツィヒ](https://ja.wikipedia.org/wiki/ダンツィヒ "wikilink")近郊で架線集電式に改造の上で使用された。終戦時の可動車が約700両まで落ち込んだ中でこれだけの数の車両が接収されたのは復興の上で大きな痛手となった。終戦時に[西ドイツ](../Page/西ドイツ.md "wikilink")領内に疎開していたごく少数の車両も架線集電式に改造され、[ミュンヘン](../Page/ミュンヘン.md "wikilink")近郊で使用された。
+
+  - [ペーネミュンデ高速鉄道](https://ja.wikipedia.org/wiki/:de:Peenemünder_Schnellbahnzüge "wikilink")
+    バルト海沿いの[ペーネミュンデと](https://ja.wikipedia.org/wiki/ウーゼドム島 "wikilink")[ツィノヴィッツ](https://ja.wikipedia.org/wiki/:de:Zinnowitz "wikilink")（いずれも現在の[メクレンブルク＝フォアポンメルン州](https://ja.wikipedia.org/wiki/メクレンブルク＝フォアポンメルン州 "wikilink")）の間にあった専用線（当時ペーネミュンデで行われていた[ロケット兵器などの開発のための労働者輸送用に敷設されたもの](../Page/V2ロケット.md "wikilink")）の車両を転用したもの。
+
+    直流1,100 V [架線集電式](https://ja.wikipedia.org/wiki/架線集電式 "wikilink")であり、ET167形の車体と[アルゼンチン](../Page/アルゼンチン.md "wikilink")の[ブエノスアイレス地下鉄](https://ja.wikipedia.org/wiki/ブエノスアイレス地下鉄 "wikilink")C線用車両"Siemens O＆K"の電気機器（シーメンス製）に準じた設計である。1940 - 1941年に電動車・制御車それぞれ15両 (Trw/Stw 01 - 15) が製造された。1943年8月の空襲で10両が被災したが、このうちの4両が戦後ベルリンでEB167 242 - 243, ET167 284 - 285として復旧している。
+
+    専用線は1946年4月に運行を停止、車両はソ連に接収された。いきさつは不明だが、2両は終戦時に西ドイツ領内の[ニュルンベルク](../Page/ニュルンベルク.md "wikilink")に留置されていた。これは同じくニュルンベルクにあった6両のベルリンSバーン車両とともに改造の上で[ミュンヘン](../Page/ミュンヘン.md "wikilink")近郊のイーザルタール線に投入され、ドイツ連邦鉄道 (DB) ET・ES182 01となった。のちに交流化改造を受けET・ES 26 002に、さらに426 002 / 826 602に改番されて[マインツ](../Page/マインツ.md "wikilink")付近で使用された。現在はペーネミュンデの[歴史技術情報センターに保存されている](https://ja.wikipedia.org/wiki/:de:Historisch-technisches_Informationszentrum_Peenemünde "wikilink")。また、ソ連に接収されたうちの14両が東ドイツ国鉄に返還され、改造の上でET167形に編入、286 - 292となる。その後、1966年の更新でET166形に編入され054 - 060となった。
+
+    1970年には276形になった。1992年の改番では旧ET125形、ET166形とともに477形に再編入され601 - 608となった。
+
+  - [ET・EB170形](https://ja.wikipedia.org/wiki/:de:DR-Baureihe_ET_170 "wikilink")
+
+## 運賃
+
+ベルリンSバーンは、ベルリン市内とブランデンブルク州の公共交通機関によって組織される「ベルリン・ブランデンブルク運輸連合」 (**VBB: Verkehrsverbund Berlin-Brandenburg GmbH**) の一員であり、チケットは他の加盟交通機関と共通化されている。
+
+またベルリン近郊の交通機関の運賃は基本的に「ゾーン制運賃」が採用されており、乗車券に指定されたゾーン（Aゾーン（環状線内）・Bゾーン（環状線外のベルリン市内）・Cゾーン（ベルリン市外））のどこからでも乗車でき、どこでも降車できる。
+
+つまりSバーン、[地下鉄](https://ja.wikipedia.org/wiki/ベルリン地下鉄 "wikilink")、[近郊電車](https://ja.wikipedia.org/wiki/レギオナルバーン "wikilink")、[トラム](https://ja.wikipedia.org/wiki/ベルリン市電 "wikilink")、、 は、追加の初乗運賃なしで乗り換えが可能である（ただし短距離券の扱いは異なる）。
+
+また観光に便利な一日切符の設定もある。打刻当日から翌日の午前3時まで使用可能である。また追加料金を払うことで、自転車の車内持ち込みも可能である（混雑時間帯を除く）\[7\]。
+
+ヨーロッパでは一般的な「信用乗車方式」が採用されており、駅には改札はないが、抜き打ちの検札が行われることがある。そこで不正乗車が発覚した場合は、理由のいかんにかかわらず罰金を徴収される（無賃乗車の罰金は60ユーロ\[8\]）。 ドイツの鉄道における列車は多くの場合1等車と2等車が連結されているが、ベルリンのSバーンは2等車のみである。
+
+<table>
+<caption>VBBの料金例（2020年1月改定）[9]</caption>
+<thead>
+<tr class="header">
+<th><p>券種</p></th>
+<th><p>ゾーン</p></th>
+<th><p>料金</p></th>
+<th><p>有効期間</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>短距離券</p></td>
+<td><p>地下鉄およびSバーンの3駅以内（乗換可能）<br />
+<small>（バスおよびトラムは6停留所以内、乗換不可）</small>[10]</p></td>
+<td><p>1.90 ユーロ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>一回券</p></td>
+<td><p>Berlin AB</p></td>
+<td><p>2.90 ユーロ</p></td>
+<td><p>2時間[11]</p></td>
+</tr>
+<tr class="odd">
+<td><p>Berlin BC</p></td>
+<td><p>3.30 ユーロ</p></td>
+<td><p>同上</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Berlin ABC</p></td>
+<td><p>3.60 ユーロ</p></td>
+<td><p>同上</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>一日券</p></td>
+<td><p>Berlin AB</p></td>
+<td><p>8.60 ユーロ</p></td>
+<td><p>翌日午前3時まで[12]</p></td>
+</tr>
+<tr class="even">
+<td><p>Berlin BC</p></td>
+<td><p>9.00 ユーロ</p></td>
+<td><p>同上</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Berlin ABC</p></td>
+<td><p>9.60 ユーロ</p></td>
+<td><p>同上</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 歴史
+
+### 第二次世界大戦まで
+
+ベルリンの鉄道は1838年に、[ポツダム](../Page/ポツダム.md "wikilink")への路線（ベルリン・ポツダム駅 - ポツダム）が開通したことにはじまる。以降、[ハンブルク](../Page/ハンブルク.md "wikilink")、[シュテティーン](https://ja.wikipedia.org/wiki/シュテティーン "wikilink")、アンハルト、[ゲルリッツ](../Page/ゲルリッツ.md "wikilink")など国内各地へ放射状の路線網が建設されてゆく。これらを環状に結ぶ路線も整備された、1850年代にはターミナル同士を直接結んでいたが、市街地の発展に応じ、1870年代には各起点駅から一駅ほど郊外側を結ぶようになった。現在の環状線である。一方、[シュレージエン駅から](https://ja.wikipedia.org/wiki/ベルリン東駅 "wikilink")[シュプレー川](https://ja.wikipedia.org/wiki/シュプレー川 "wikilink")に沿って、都心を西に横断する路線が建設された。1882年に完成した[市街線である](https://ja.wikipedia.org/wiki/ベルリン市街線 "wikilink")。
+
+本来、長距離輸送を目的とした鉄道ではあるが、ベルリンでは、ここに市内移動用の列車を走らせた事が特徴である。1871年の[環状線での運行が起源とされ](https://ja.wikipedia.org/wiki/ベルリン環状線 "wikilink")、のちにSバーンとして発展してゆくことになる。施設面でも、長距離線と市内移動用路線の路線別複々線を備えるものが多く なった。
+
+列車の電化は1903年に[アンハルト線ポツダム](https://ja.wikipedia.org/wiki/ベルリン-ハレ線 "wikilink")（環状線）駅 - リヒターフェルデ東で実施されたものの、その後は大戦などの影響で途絶える。本格的なものは[第一次大戦](https://ja.wikipedia.org/wiki/第一次大戦 "wikilink")後の[鉄道国有化後である](../Page/ドイツ国営鉄道.md "wikilink")。利便性を向上し、市内の他の交通機関に対抗するためであった。
+
+1924年8月8日、[シュテティーン線シュテティーン駅](https://ja.wikipedia.org/wiki/ベルリン-シュチェチン線 "wikilink") - ベルナウで電車運転が開始され、これがSバーンのはじまりとされる。つづいて、翌1925年には北部線、1927年にはクレメン線と北部方面の電化が完成。そして、1928 - 1929年に都市線など東西方向の各線と環状線が電化され、のちのET・EB・ES165形（ET165形）が大量に製造された。これらは「大電化」と呼ばれる。
+
+その後、1933年に、ポツダム線とそれに並行するヴァンゼー線が電化され、ほぼ戦前の電化区間が揃うことになる。なお、[レールテ駅を起点とする路線](https://ja.wikipedia.org/wiki/ベルリン中央駅 "wikilink")、および非電化区間への直通するSバーンは蒸気機関車牽引の列車のままであった。
+
+1933年、[ナチスが政権をとると](https://ja.wikipedia.org/wiki/国家社会主義ドイツ労働者党 "wikilink")、[ベルリンでのオリンピックの開催と](https://ja.wikipedia.org/wiki/1936年ベルリンオリンピック "wikilink")、それに合わせた都市基盤整備が行なわれた。この一環として、都心を南北に貫く地下線が建設され、1936 - 1939年に開通。北側からはシュテティーン駅を起点とする各線が、南側からはポツダム駅を起点とするヴァンゼー線とアンハルト線が乗り入れた。なお、この地下線は、アンハルト駅 - ゲルリッツ駅、レールテ駅 - ポツダム広場などにも建設計画があり、一部着工したものの完成することはなかった。
+
+その1939年9月1日、ドイツの[ポーランド侵攻](https://ja.wikipedia.org/wiki/ポーランド侵攻 "wikilink")により[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")がはじまる。末期には[ベルリンで激しい地上戦が行なわれ](https://ja.wikipedia.org/wiki/ベルリンの戦い "wikilink")、鉄道施設は崩壊した。とくに南北地下線はベルリン市街戦において運河を潜る区間が[ナチス親衛隊によって爆破され水没](../Page/親衛隊_\(ナチス\).md "wikilink")、避難民など多数の犠牲者を出し、また復旧まで時間を要することになる。
+
+### 第二次世界大戦後 - 東西ベルリン時代
+
+1945年5月8日、[ドイツが降伏し](https://ja.wikipedia.org/wiki/欧州戦線における終戦_\(第二次世界大戦\)#ドイツの降伏 "wikilink")、ドイツとその首都ベルリンは、それぞれ[戦勝4か国（米国、英国、仏国、ソ連）に分割統治されることになった結果](https://ja.wikipedia.org/wiki/連合軍軍政期_\(ドイツ\) "wikilink")、2つの政治体制が生まれ、1949年5月には米・英・仏の統治地域がドイツ連邦共和国（[西ドイツ](../Page/西ドイツ.md "wikilink")）、同年10月には[ソ連の統治地域が](https://ja.wikipedia.org/wiki/ソ連占領地域 "wikilink")[ドイツ民主共和国](../Page/ドイツ民主共和国.md "wikilink")（東ドイツ）としてバラバラに独立。鉄道も西側は[ドイツ連邦鉄道](../Page/ドイツ連邦鉄道.md "wikilink") (DB) となり、東側は引き続き[ドイツ帝国鉄道](https://ja.wikipedia.org/wiki/ドイツ国営鉄道_\(東ドイツ\) "wikilink") (DR) の名称が使用され続けた。東西ドイツ間の行き来は大きく制限されることになる。
+
+しかし、ベルリンに関しては米・英・仏の統治地域が[西ベルリン](https://ja.wikipedia.org/wiki/西ベルリン "wikilink")、ソ連の統治地域が[東ベルリン](https://ja.wikipedia.org/wiki/東ベルリン "wikilink")になったものの、名目上は4か国による統治のままであった。また、ベルリンは東ドイツの中にあるため同じ政治体制の両者は一体化したが、東西ベルリン（および西ベルリンと東ドイツ）の間の往来も場所は限られているが自由だった。鉄道は運営一元化の観点から、東西ベルリンともにSバーン・長距離線が東ドイツ国営鉄道（DR）、[Uバーンがベルリン交通公社](https://ja.wikipedia.org/wiki/ベルリン地下鉄 "wikilink")（BVG）による運営となった。しかし後者は東西ベルリンが異なる政治主体となった時に分裂している（以下、単にBVGと表記した時は西側のそれを指す）。
+
+戦災、ならびに敗戦後[ソ連軍による](../Page/赤軍.md "wikilink")[施設の接収もありズタズタになったSバーンは](https://ja.wikipedia.org/wiki/第二次世界大戦後におけるドイツの戦後補償#デモンタージュ "wikilink")、1947年ごろには戦前の規模を取り戻している。またマールスドルフ - シュトラウスベルク、グリュナウ - ケーニヒス・ヴスターハウゼンなど、おもに東側で路線の延長が行なわれている。一方で、長距離線は戦前のターミナルの殆どが西ベルリン側になったため、復興は最低限の区間に留まった。
+
+このように東西問わずベルリン市民の足としてSバーンは復興した。しかし、東西ベルリン間の通行が自由なことが、東ドイツ国民（東ベルリン市民含む）の西ドイツへの逃亡を、また逆に西側諸国のスパイの東ドイツ入国を許すことになっていた。これは東ドイツにとって死活問題であった。
+
+それらを阻止するために、東ドイツの手で建設されたのが[ベルリンの壁](../Page/ベルリンの壁.md "wikilink")である。1961年8月13日未明、東西ベルリン（および西ベルリンと東ドイツ）間の通行は、突如として全面的に遮断された。Sバーンも分断され、西側区間と東側区間で完結するようになる。この時に、リヒターフェルデ - テルトウ、シュパンダウ以西、ヴァンゼー以南など東西を跨ぐ末端区間は廃止になっている。
+
+しかし、壁建設後もSバーンは全てがDRの経営であることに変わりはなかった。そのため、西側では「Sバーンの運賃は鉄条網（壁）に払われる」「[ウルブリヒトには](../Page/ヴァルター・ウルブリヒト.md "wikilink")1[ペニヒも払うな](https://ja.wikipedia.org/wiki/ドイツマルク "wikilink")」として[ボイコット](../Page/ボイコット.md "wikilink")運動が行なわれた。また並行してバスやUバーンなども整備されたため、利用客は減少の一途を辿る。赤字額は年々膨らむ一方となり、保守も満足に行なえない状態になった。それでもDRによって細々と運行が続けられていたが、ついには1980年9月に待遇改善を求める西ベルリン居住の従業員による[ストライキ](../Page/ストライキ.md "wikilink")が発生。これを機に大多数の従業員が解雇され、環状線など多くの路線が休止（廃止）となった。そして、壁建設前は70万人いた利用者は1983年には1万人を割ってしまった。
+
+ここに至り西側当局も市内約150kmにおよぶSバーン施設が廃墟となることを放置できず、東側との交渉に入り、1984年1月から西ベルリン側のSバーンについては、西ドイツ政府の補助のもとにBVGが列車運行を引き継ぐことになった。長距離線はDRの運営のまま残った。なお、当時西ベルリンの[動物園駅と西ドイツの](https://ja.wikipedia.org/wiki/ベルリン動物園駅 "wikilink")[ハンブルク](../Page/ハンブルク.md "wikilink")・[ハノーファー](../Page/ハノーファー.md "wikilink")・[ニュルンベルク](../Page/ニュルンベルク.md "wikilink")を結ぶ[回廊列車](../Page/回廊列車.md "wikilink")が運行されていたが、列車の運行は[フリードリヒ通り駅](https://ja.wikipedia.org/wiki/フリードリヒ通り駅 "wikilink")を起点としていた。
+
+当初、市街線・ヴェツラー線（フリードリヒ通り - ヴェストクロイツ - ヴァンゼー）、ドレスデン線（アンハルト駅 - リヒテンラーデ）で営業を開始、以降、ヴァンゼー線（アンハルト駅 - ヴァンゼー）、南北地下線・北部線（アンハルト駅 - ゲズントブルンネン - フローナウ）が復活した。これが西ベルリンにおけるSバーンの最終形となる。車両の面では、480形電車が数編成投入された。
+
+一方東側では、ベルリンの壁建設を期に[外環状線の一部区間を電化してSバーンが乗りいれた](https://ja.wikipedia.org/wiki/ベルリン外環状線 "wikilink")。その後も、ヴリーツェン線の電化など運転区間の拡大が実施された。これは、ベルリンの地下鉄網が連合国の取り決めにより一部区間（[U2の東側区間および全線が東側であった](https://ja.wikipedia.org/wiki/ベルリン地下鉄2号線 "wikilink")[U5](https://ja.wikipedia.org/wiki/ベルリン地下鉄5号線 "wikilink")）を除き西側管轄で、東側はSバーンが主力交通機関であったためである。しかし車両の面では前述のボイコット運動による西側路線の需要減少およびソ連からの接収車両の返還による余剰車両の発生、新形式ET170の開発失敗もあって、冷戦末期の485形登場まで全く置き換えが進まなかった。そのほかの背景に電車の生産能力不足もあり、Uバーンにおいても壁崩壊直前の[U5](https://ja.wikipedia.org/wiki/ベルリン地下鉄5号線 "wikilink")（東側管轄）延伸開業時、西ベルリンBVGより中古車100両以上の譲渡を受けている。
+
+### 東西再統一後
+
+[ベルリンの壁崩壊](https://ja.wikipedia.org/wiki/ベルリンの壁崩壊 "wikilink")および[ドイツ再統一](https://ja.wikipedia.org/wiki/ドイツ再統一 "wikilink")後もしばらくは西ベルリン地区はBVG、東ベルリン地区はDRの運行のまま残ったが、1994年に旧[ドイツ連邦鉄道](../Page/ドイツ連邦鉄道.md "wikilink")（DB）およびDRの合併・民営化によって成立した[ドイツ鉄道](../Page/ドイツ鉄道.md "wikilink")（DB）発足に伴いBVGの路線もDBに移管された。1995年以降はDBの完全子会社であるによって運行されている。
+
+壁により分断されていた路線はその多くが復活したものの、Sバーンに並行していた列車線は未だに復活していない区間も多い。
+
+## その他
+
+[right](https://ja.wikipedia.org/wiki/ファイル:Berlin_-_S-Bahnhof_Jannowitzbruecke.jpg "wikilink")。手前は[シュプレー川](https://ja.wikipedia.org/wiki/シュプレー川 "wikilink")）。\]\] ベルリンの南西に位置する付近には、があった（同所は[ドイツ鉄道](../Page/ドイツ鉄道.md "wikilink")との賃貸契約が更新されず閉鎖。別所での再開は2021年にずれ込む見通し\[13\]）。
+
+ベルリンSバーンが架線集電式ではなく第三軌条式電化を推進した背景には将来の市内中心部への地下乗り入れ時にトンネル断面を小さくする意図があったといわれる。[ハンブルクSバーン](https://ja.wikipedia.org/wiki/ハンブルクSバーン "wikilink")も当初は架線集電式を採用したにもかかわらず、同様の理由から途中で第三軌条式に変更している。しかし新路線建設費低減の一方で特殊規格の車両仕様を生み、[交流電化](../Page/交流電化.md "wikilink")の進んだ現在では車両運用も限定されてしまうことから、戦後にSバーン網を整備した[ミュンヘン](../Page/ミュンヘン.md "wikilink")などのドイツ他都市では採用されなかった。
+
+日本では[明治時代](https://ja.wikipedia.org/wiki/明治時代 "wikilink")に、東京の中央停車場（現在の[東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink")：[1914年](../Page/1914年.md "wikilink")（大正3年）開業）を建設するにあたり、[頭端式ではなく](https://ja.wikipedia.org/wiki/頭端式ホーム "wikilink")、通過式を採用することで計画された。これは、[ベルリンの市街線](https://ja.wikipedia.org/wiki/ベルリン市街線 "wikilink")（シュタットバーン）の建設に携わった鉄道技師で、20世紀初頭に来日した[お雇い外国人](https://ja.wikipedia.org/wiki/お雇い外国人 "wikilink")である[ヘルマン・ルムシュッテルや](https://ja.wikipedia.org/wiki/ヘルマン・ルムシュッテル_\(鉄道技術者\) "wikilink")[フランツ・バルツァー](https://ja.wikipedia.org/wiki/フランツ・バルツァー "wikilink")のアイデアで、二人は当時のヨーロッパ各都市での頭端式ターミナルの失敗とシュタットバーンの利点を念頭に強力に提言したとされる。[八重洲口](https://ja.wikipedia.org/wiki/八重洲口 "wikilink")側に客車ヤード・貨物ヤードを設け、将来の需要増大の用地確保に備えたのも、先を見据えたバルツァーのアイデアである。もっとも、バルツァーがデザインした当初の和風建築の駅舎案、および[東海道本線](https://ja.wikipedia.org/wiki/東海道本線 "wikilink")と[東北本線](https://ja.wikipedia.org/wiki/東北本線 "wikilink")との列車線直通運転は結果的には採用されなかった。
+
+東京駅から[新橋駅](https://ja.wikipedia.org/wiki/新橋駅 "wikilink")に至る赤煉瓦の高架線もバルツァーが基本設計し、彼の薫陶を受けた日本人技術者により建設され完成した。そのため、その構造・外観はベルリンのシュタットバーンと酷似している。東京 - [御茶ノ水間は一見煉瓦造り高架橋であるが](https://ja.wikipedia.org/wiki/御茶ノ水駅 "wikilink")、レンガ貼りの鉄筋コンクリート製でシュタットバーンの仕様とは異なる。
+
+ルムシュッテルとバルツァーは当時未完であった[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")の環状運転化などの東京の鉄道路線網の整備を提言した。当時のベルリンの鉄道網を理想形に修正した内容だが、都内の国鉄鉄道網設は[総武快速線](https://ja.wikipedia.org/wiki/総武快速線 "wikilink")の地下乗り入れをもってほぼこの二人の立案したスケッチ通りの路線網が完成している。実現していなかった東海道本線と東北本線の直通運転も、2015年3月[上野東京ライン](https://ja.wikipedia.org/wiki/上野東京ライン "wikilink")の開業とともに開始された。
+
+## 脚注
+
+## 参考文献
+
+  - Peter Bley, *Berliner S-Bahn*, [Düsseldorf](https://ja.wikipedia.org/wiki/デュッセルドルフ "wikilink")・Alba, 1997. ISBN 3-87094-354-8
+  - 宇都宮浄人「ベルリンのSバーン」『[鉄道ファン](../Page/鉄道ファン_\(雑誌\).md "wikilink")』315号、東京・[交友社](../Page/交友社.md "wikilink")、1987年7月
+
+## 関連項目
+
+  - [ベルリン地下鉄](https://ja.wikipedia.org/wiki/ベルリン地下鉄 "wikilink")
+
+## 外部リンク
+
+  - [ベルリンSバーン公式サイト](http://www.s-bahn-berlin.de/)
+
+  - [Sバーン博物館](http://www.s-bahn-museum.de/)
+
+  -
+[Category:ドイツのSバーン](https://ja.wikipedia.org/wiki/Category:ドイツのSバーン "wikilink") [Category:ベルリンの交通](https://ja.wikipedia.org/wiki/Category:ベルリンの交通 "wikilink") [Category:1924年の鉄道](https://ja.wikipedia.org/wiki/Category:1924年の鉄道 "wikilink") [Category:ベルリンSバーン](https://ja.wikipedia.org/wiki/Category:ベルリンSバーン "wikilink")
+
+1.  S3 Express。平日混雑時間帯にベルリン東駅・フリードリヒスハーゲン間で快速運行。 <https://sbahn.berlin/fileadmin/user_upload/Linien/Regelfahrplaene/2019_12_15_neue_Fahrplaene/191128_Fahrplan_S3_Express___S-Bahn-Layout.pdf>
+2.  S3 Express。平日混雑時間帯にベルリン東駅・フリードリヒスハーゲン間で快速運行。 <https://sbahn.berlin/fileadmin/user_upload/Linien/Regelfahrplaene/2019_12_15_neue_Fahrplaene/191128_Fahrplan_S3_Express___S-Bahn-Layout.pdf>
+3.  Robert Schwandl, *Schnellbahnen in Deutschland*, Berlin: Ruksaldruck, 2007, p.69.
+4.  *Eisenbahnatlas Deutschland*, Köln: Verlag Schweers + Wall Gmbh, 2007, pp.126-129.
+5.  [1](http://www.berliner-zeitung.de/berlin/vom-nordring-zum-hauptbahnhof-neue-strecke-fuer-s21-wird-2020-fertig-28257812) Berliner Zeitung　2017年8月31日付
+6.  <https://www.tagesspiegel.de/berlin/stillgelegte-s-bahntrasse-in-zehn-jahren-soll-die-siemensbahn-wieder-rollen/24506192.html>
+7.  <http://www.bvg.de/index.php/de/131826/name/Fuer+Fahrraeder.html>
+8.  <http://www.bvg.de/index.php/de/3157/name/Kontakt/contact/extratax/17956.html>
+9.  <https://www.vbb.de/en/tickets>
+10. <http://www.vbb.de/de/article/fahrausweissortiment/einzelfahrausweise/10736.html#kurzstrecke>
+11. <http://www.vbb.de/de/article/fahrausweissortiment/einzelfahrausweise/10736.html#einzelfahrausweis>
+12. <http://www.vbb.de/de/article/fahrausweissortiment/tageskarten/10745.html#tageskarte>
+13. 2020年2月時点の同サイト記述による。 <http://www.s-bahn-museum.de/wir_ueber_uns.html>

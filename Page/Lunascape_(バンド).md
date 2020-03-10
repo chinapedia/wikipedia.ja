@@ -1,0 +1,102 @@
+> この記事は[Lunascape \(\)](https://ja.wikipedia.org/wiki/Lunascape_\(\))から翻訳されています。
+
+
+**Lunascape**は1990年代の半ばキョーコ・バートソーン（Kyoko Baertsoen）とウォルター・ヒルホースト（Walter Hilhorst）によって結成された [ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の トリップ・ホップバンド。結成当初はCalyxと名乗っていたが、同名の[ドラムンベース](https://ja.wikipedia.org/wiki/ドラムンベース "wikilink")グループが既にロンドンにいたので混乱を避けるために変えた。
+
+## バイオグラフィー
+
+バートソーンとヒルホーストが1993年に[ブリュッセル](../Page/ブリュッセル.md "wikilink")の映像系の芸術大学で会ったのがきっかけで、その時に小規模ながら音楽活動を始め出した。しかし、1997年にバートソーンが[Hooverphonic](https://ja.wikipedia.org/wiki/Hooverphonic "wikilink")に入り、彼らとともにヨーロッパツアーに行った事でその活動は中断となる。彼女がツアーから戻ってくると、Lunascapeの前身となる活動をヒルホーストと再開した。そして2枚のアルバム（**Reflecting Seyelence**、**Mindstalking**）が制作されたが、それらはヨーロッパのみの販売だった。2005年になってようやく北米の**Dancing Ferret Discs**のNoir labelから「**Reminiscence**」が出された。
+
+このアルバムは前文の二枚のアルバムから曲目を選出して構成されている。そうして新しい聴衆を作り出した。「Reflecting Seyelence」の曲目にはIMAXの[3D映画である](../Page/3次元コンピュータグラフィックス.md "wikilink")「[Haunted Castle](https://ja.wikipedia.org/wiki/Haunted_Castle "wikilink")」で使用されているものがある。
+
+ボーカルのバートソーンの霊妙な声と、どこか[インド](../Page/インド.md "wikilink")の雰囲気漂うダンスは観る者に異様でいてとても美しい印象を与える。楽曲も[ゴス](https://ja.wikipedia.org/wiki/ゴス "wikilink")や[サイケ](https://ja.wikipedia.org/wiki/サイケ "wikilink")の影響を強く受けた様なムーディーな雰囲気を作り出している。
+
+2003年、[Rhys Fulberのエレクトロ音楽のプロジェクト](https://ja.wikipedia.org/wiki/Rhys_Fulber "wikilink")　Conjure One　に収録されている**Lunascape**の[カバー](../Page/カバー.md "wikilink")「**Tears from the Moon**」(Vo. Sinéad O'Connor )で初めて耳にしたリスナーは少なくない。
+
+## ディスコグラフィー
+
+  - Reflecting Seyelence (2002)
+
+:\#"Your Shadow"
+
+:\#"Tears From the Moon"
+
+:\#"My 2nd Skin"
+
+:\#"Love = Creepy"
+
+:\#"Lane Navachi"
+
+:\#"Sin for Me"
+
+:\#"Love Leather"
+
+:\#"Sequoia"
+
+:\#"Yairo"
+
+:\#"Inferno"
+
+:\#"Mourning Star"
+
+:\#"Dream Scenario"
+
+  - Mindstalking (2004)
+
+:\#"Praise Me"
+
+:\#"Right to Be Wrong"
+
+:\#"Mindstalking"
+
+:\#"Mute Emotion"
+
+:\#"Perfume Recalling"
+
+:\#"Feigned Affair"
+
+:\#"Masquerade"
+
+:\#"State of Mind"
+
+:\#"Daydream History"
+
+:\#"Nude Nature"
+
+:\#"SOS Planet"
+
+  - Reminiscence (2005)
+
+:\#"Mindstalking"
+
+:\#"Praise Me"
+
+:\#"Tears From the Moon"
+
+:\#"Your Shadow"
+
+:\#"Lane Navachi"
+
+:\#"State of Mind"
+
+:\#"Carolyn"
+
+:\#"Yairo"
+
+:\#"Sequoia"
+
+:\#"Inferno"
+
+:\#"Severed Heart"
+
+:\#"SOS Planet"
+
+:\#\[untitled\]
+
+## 外部リンク
+
+  - [Lunascape公式サイト](http://www.lunascape.net)
+  - [All Music Guide](http://www.allmusic.com/artist/p729548)
+  - [Noir Records](http://www.noir-records.com/)
+
+[Category:ベルギーの音楽グループ](https://ja.wikipedia.org/wiki/Category:ベルギーの音楽グループ "wikilink")

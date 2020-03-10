@@ -1,0 +1,67 @@
+> この記事は[SAPIX](https://ja.wikipedia.org/wiki/SAPIX)から翻訳されています。
+
+
+**SAPIX中学部**（サピックスちゅうがくぶ）は、小学5年生～中学3年生の難関高校受験を対象とした[学習塾](../Page/学習塾.md "wikilink")。[1989年](../Page/1989年.md "wikilink")設立。2011年10月1日より、「株式会社日本入試センター」が経営母体となっている。
+
+## 歴史的経緯と現況
+
+[1989年](../Page/1989年.md "wikilink")、[中学受験](../Page/中学受験.md "wikilink")・[高校受験](../Page/高校受験.md "wikilink")に合格実績を伸ばしていた[TAP進学教室](https://ja.wikipedia.org/wiki/TAP進学教室 "wikilink")から、講師が生徒ともに独立して誕生した。その際[小学部は](https://ja.wikipedia.org/wiki/SAPIX小学部 "wikilink")「株式会社ジーニアスエデュケーション」、中学部は「株式会社サピエンス研究所」としてそれぞれ独立した。1990年代以降、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")度より、株式会社サピエンス研究所では、大学受験のNEXUS部門をSAPIX高校部と改称している（現在では、高校部は「[Y-SAPIX](https://ja.wikipedia.org/wiki/Y-SAPIX "wikilink")高校生コース」として独立している）。なお、2011年10月1日付けでSAPIX中学部を運営する「株式会社サピエンス研究所」は小学部を運営する「株式会社ジーニアスエデュケーション」を吸収合併した。現在は、小学部・中学部とも「株式会社日本入試センター」。
+
+もともと難関国私立を中心とした実績がブランドであったが、公立高校希望の中堅層生徒も在籍し、近年は増加傾向にある。「夜スペ」として注目されている[杉並区立和田中学校](../Page/杉並区立和田中学校.md "wikilink")（前任の[民間人校長](../Page/民間人校長.md "wikilink")[藤原和博](https://ja.wikipedia.org/wiki/藤原和博 "wikilink")、後任の代田昭久共々[リクルート出身](https://ja.wikipedia.org/wiki/リクルートホールディングス "wikilink")）における課外授業も担当していた。SAPIXでは大手資本塾のように急拡大戦略をとらず、25校舎の展開であり、質の高い教師を各校舎に配置すべく教師の育成に力を入れている。創立以来、[開成](../Page/開成中学校・高等学校.md "wikilink")・[慶應女子](https://ja.wikipedia.org/wiki/慶應義塾女子高等学校 "wikilink")・国立大学附属（[筑駒](https://ja.wikipedia.org/wiki/筑波大学附属駒場中学校・高等学校 "wikilink")、[筑附](../Page/筑波大学附属中学校・高等学校.md "wikilink")、[学附](https://ja.wikipedia.org/wiki/東京学芸大学附属高等学校 "wikilink")、[お茶女等](https://ja.wikipedia.org/wiki/お茶の水女子大学附属高等学校 "wikilink")）・[早慶](../Page/早慶.md "wikilink")附属等へ多くの合格者を輩出しており、既に30台後半を迎える1期生以下の卒業生は、
+
+[2009年](../Page/2009年.md "wikilink")9月、[日本入試センター](https://ja.wikipedia.org/wiki/日本入試センター "wikilink")がSAPIX中学部・高校部を運営するサピエンス研究所の全株式を取得し、子会社化した。
+
+## 独自のカリキュラム
+
+[英語](../Page/英語.md "wikilink")・[数学](../Page/数学.md "wikilink")の主要教科は公立中学校3年分を2年でほぼ終わらせ、残った1年で総復習や難関国私立で出題される高校分野及び入試演習にあてている。そのため、進度は非常に速い。
+
+「MAIN Sapix」と呼ばれるテキストが基本教材である(小学6年生は「コアマスター」を国語、理科、社会で使用)。教科や学年によってそれぞれの位置づけは異なる。また、別途発展的な内容やまとめ、学校別入試問題などの補足的なテキストが「ASSIST」として中学3年生の時期を中心に配布される(中1、中2でも配布あり)。代表的なものとしては、数学のテキストとして「Basic Exercises」という冊子を月に一度配布している。中2のみ、A授業とB授業があり、二度繰り返し復習することで定着を図る。
+
+各教材は、原則1授業に1冊配布されることを売りにしている。そのことによって生徒の好奇心をくすぐると称している。テキストは自社正社員による製作である。全体に物量的に非常に多くなっているのは、授業中に扱うテキストと宿題とをかねているせいでもある。
+
+主なテスト名称はマンスリーテスト、クラス分けテスト、公開模試(サピックスオープン、サピックスチャレンジテスト、学校別入試プレ等)。
+
+3年は前期にＳＳ特訓(サンデー・サピックス)筑駒理社クラス、2年・3年は後期にＳＳ特訓(サンデー・サピックス)を受けられる。更に受験期直前の3年に対して、正月特訓が用意されている。(慶女開成のみ対象)
+
+## 指導体制・方針
+
+基本的に各講師が1科目を担当する科目選科制をとっている（教師数の問題から複数科目を担当する講師もある）。また、科目ごとに専任正社員講師が分担して直接自社テキストを製作をしている。
+
+小学5,6年生は45分授業。週1(6年生のみ理社が受講可能な限定校舎も含む場合は週2)。
+
+中学１年生は60分授業。5科目の場合は週2。授業時間は週5時間。　3科目の場合は週1。授業時間は週3時間。
+
+中学2年生は60分授業。5科目の場合は週3。授業時間は週8時間。　3科目の場合は週2。授業時間は週6時間。
+
+中学3年生は180分授業。5科目の場合も3科目の場合も週3。授業時間は週11時間。
+
+小5,6は学習を習慣付ける。中1で基礎を身に付け、中2で発展させる。中3で演習するというらせん型カリキュラムが特徴的。拘束時間が長いのも特徴の一つである。3年生にもなると、主要科目は1日3時間行われる。しかし一方でゆったりとした時間をいかして生徒と教師とのコミュニケーションをとれるという利点もあり、雑談のなかに難関校合格のための受験に終わらない知識をちりばめる講師もいれば、生徒との関係性構築とリラックスとに当てる講師もいる。長い時間の中で各講師が自由に教育をアレンジでき、それが特徴となっている。
+
+### R-SAPIX
+
+SAPIX中学部を経営しているサピエンス研究所が経営している中高一貫校生向けの[大学受験](../Page/大学受験.md "wikilink")対策塾である。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")度から始まった。1つの授業に2人の教師がついているという授業方針を取り入れている。SAPIX中学部の校舎で授業を展開しているため、基本的にはSAPIX中学部の教師が授業を担当している。
+
+2011年3月に「[Y-SAPIX](https://ja.wikipedia.org/wiki/Y-SAPIX "wikilink")中学部」として独立し、現在は「Y-SAPIX 中高一貫・中学生コース」として展開している。
+
+## 校舎
+
+  - 東京都：東京校（[人形町駅](../Page/人形町駅.md "wikilink")）・[荻窪校](https://ja.wikipedia.org/wiki/杉並区 "wikilink")・[成城](https://ja.wikipedia.org/wiki/成城 "wikilink")校・[練馬校](https://ja.wikipedia.org/wiki/練馬区 "wikilink")・[自由が丘](https://ja.wikipedia.org/wiki/自由が丘 "wikilink")校・[成増](../Page/成増.md "wikilink")校・[明大前校](https://ja.wikipedia.org/wiki/明大前駅 "wikilink")・[高田馬場](https://ja.wikipedia.org/wiki/高田馬場 "wikilink")校・[大井町校](https://ja.wikipedia.org/wiki/大井町駅 "wikilink")・[国立校](../Page/国立市.md "wikilink")・[田無校](../Page/西東京市.md "wikilink")・[三鷹校](../Page/三鷹市.md "wikilink")・[調布校](../Page/調布市.md "wikilink")・[町田校](../Page/町田市.md "wikilink")・[渋谷](../Page/渋谷.md "wikilink")校
+  - 神奈川県：[横浜](../Page/横浜.md "wikilink")校・[たまプラーザ](https://ja.wikipedia.org/wiki/たまプラーザ "wikilink")校・[日吉](https://ja.wikipedia.org/wiki/日吉 "wikilink")校
+  - 千葉県：[松戸](https://ja.wikipedia.org/wiki/松戸 "wikilink")校・[西船橋](https://ja.wikipedia.org/wiki/西船橋 "wikilink")校・[新浦安校](https://ja.wikipedia.org/wiki/新浦安駅 "wikilink")・[柏](https://ja.wikipedia.org/wiki/柏 "wikilink")校
+  - 埼玉県：[南浦和校](https://ja.wikipedia.org/wiki/南区_\(さいたま市\) "wikilink")・[大宮校](https://ja.wikipedia.org/wiki/大宮区 "wikilink")
+  - 兵庫県：[西宮北口校](https://ja.wikipedia.org/wiki/西宮北口駅 "wikilink")
+
+## 脚注
+
+<references />
+
+## 関連項目
+
+  - [SAPIX小学部](https://ja.wikipedia.org/wiki/SAPIX小学部 "wikilink")
+  - [Y-SAPIX](https://ja.wikipedia.org/wiki/Y-SAPIX "wikilink") - SAPIX高校部が[代々木ゼミナール](https://ja.wikipedia.org/wiki/代々木ゼミナール "wikilink")のノウハウを取り入れて改称
+
+## 外部リンク
+
+  - [SAPIX中学部](http://www.sapix.co.jp/)
+
+[Category:代々木ゼミナール](https://ja.wikipedia.org/wiki/Category:代々木ゼミナール "wikilink") [Category:学習塾](https://ja.wikipedia.org/wiki/Category:学習塾 "wikilink")

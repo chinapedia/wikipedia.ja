@@ -1,0 +1,54 @@
+> この記事は[BBC Two](https://ja.wikipedia.org/wiki/BBC_Two)から翻訳されています。
+
+
+**BBC Two**（ビービーシー・ツー）は、[英国放送協会](../Page/英国放送協会.md "wikilink") (BBC) の[テレビチャンネル](https://ja.wikipedia.org/wiki/チャンネル_\(テレビ放送\) "wikilink")。[1964年](../Page/1964年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")に開局し、全世界に放送を行っている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")に**BBC2**から現在の名称に改められた。日本における[NHK Eテレに相当する](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")。イメージカラーは[鴨の羽色](https://ja.wikipedia.org/wiki/鴨の羽色 "wikilink")。
+
+## 概要
+
+さまざまなジャンルの「知的好奇心」を満たす番組を専門的に扱うことを目的とする。BBCのほかの国内向けテレビ・ラジオ局同様[コマーシャル](https://ja.wikipedia.org/wiki/コマーシャル "wikilink")の入らない[公共放送](../Page/公共放送.md "wikilink")であるが、経営状態は比較的よい。世界の公共放送の中では高い視聴率を誇っている。
+
+BBCがイギリスで放送する2番目のチャンネルである。1967年には、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")のテレビ局ではじめて[カラー放送のレギュラー化を行った](https://ja.wikipedia.org/wiki/カラーテレビ "wikilink")。決して主流には乗らないが野心的なテレビ番組を多く送り出している。
+
+## 沿革
+
+### BBC2の発足
+
+1955年に開局した民間放送局 [ITV](https://ja.wikipedia.org/wiki/ITV_\(イギリス\) "wikilink")（独立テレビジョン）は、公共放送である[BBCテレビジョンの](https://ja.wikipedia.org/wiki/BBC_One "wikilink")[ポピュリズム](https://ja.wikipedia.org/wiki/ポピュリズム "wikilink")を批判した。放送に関するピリキントン委員会は報告書を出し、BBCがイギリス第3のテレビ局を持つことを勧告した。この結果、1964年4月20日に **BBC2** が開局された。なお、BBCテレビジョンはまもなくBBC1と改名された（現在の[BBC One](https://ja.wikipedia.org/wiki/BBC_One "wikilink")）。
+
+BBC2の発足に先立ち、BBCテレビジョンでは、カンガルーの母子のキャラクター "Hullabaloo" と "Custard" を用いた[アニメーション](../Page/アニメーション.md "wikilink")で新チャンネルの広告を行った。また、正式放送開始に先立って（正式放送開始後も数年間）技術試験放送（Trade Test Transmissions）と呼ばれる短編映像を放送していた。これは、[BP](https://ja.wikipedia.org/wiki/BP_\(企業\) "wikilink") や[シェルのような外部の企業によって制作されたもので](https://ja.wikipedia.org/wiki/ロイヤル・ダッチ・シェル "wikilink")、技術者がテレビの受信を確認するのに用いられた。この技術試験カラー映像は、[カルト](../Page/カルト.md "wikilink")な人気を博すことになる。
+
+### 波乱の初放送
+
+BBC2は、[1964年](../Page/1964年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")の午後7時20分に正式の放送を開始し、内外のコメディアンによる娯楽番組と花火打ち上げで新チャンネルの発足を祝うはずであった。しかし、当日午後6時45分頃に、[バタシー発電所](https://ja.wikipedia.org/wiki/バタシー発電所 "wikilink")の火災により大規模な停電が発生して[BBCテレビジョンセンター](../Page/BBCテレビジョンセンター.md "wikilink")は電力を喪失し、BBC2の予定の番組を放送することは不可能となってしまった（BBC1は無事だった[アレクサンドラ・パレス](https://ja.wikipedia.org/wiki/アレクサンドラ・パレス "wikilink")のニュースセンターから放送を続けることができた）\[1\]。この事態に、ライバルである Associated-Rediffusion（ITV の ロンドンにおける[フランチャイズ](../Page/フランチャイズ.md "wikilink")放送局）が放送協力を申し出る一幕もあったが、BBC2側は断っている。ともあれ、午後10時に至ってBBC2は当日の放送を断念、初放送は翌朝に延期された。
+
+4月21日午前11時までにはスタジオの電力が復旧した。子供番組「プレイスクール」によって BBC2 の正式放送がはじまった。番組冒頭ではプレゼンターがろうそくの火を吹き消し、放送局の門出を見舞った事態をネタにした。
+
+### 初期の放送
+
+BBCは、新しい局のアイデンティティを確立し、視聴者をひきつけるために、ぜいたくな番組を投入した。[ジョン・ゴールズワージー](https://ja.wikipedia.org/wiki/ジョン・ゴールズワージー "wikilink")の『[フォーサイト・サガ](https://ja.wikipedia.org/wiki/フォーサイト・サガ "wikilink")』のドラマ化で、ベテランの俳優である[ケネス・モア](https://ja.wikipedia.org/wiki/ケネス・モア "wikilink")と[エリック・ポーター](https://ja.wikipedia.org/wiki/エリック・ポーター "wikilink")を配した。このドラマは、当時テレビを視聴することのできた900万人のうち、3人に2人までが見たという成功を収め、BBC2は人々の間に定着した。
+
+他の2局（BBC1とITV）と異なり、BBC2は[UHF](../Page/極超短波.md "wikilink")（走査線625本）のみで放送しており、[VHF](../Page/超短波.md "wikilink")（走査線405本）受像機では受信できなかった。このため、2つの方式双方を受信できる受像機の市場が生み出されることとなる。また、初期の放送の技術的な問題点としては、[アメリカ製のビデオテープが放送できなかったことが挙げられる](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。これは、アメリカの[NTSC](../Page/NTSC.md "wikilink")規格との変換技術が未確立だったためであり、これはジェームズ・レッドモンドを長とする委員会で解決されることになる。
+
+1967年7月、BBC2は[PAL](../Page/PAL.md "wikilink")システムを用いてレギュラーのカラー放送を行う、ヨーロッパ初の放送局となった。13回シリーズの「シヴィライゼーション」は、西洋美術・西洋文化の2世紀を新しいカラー放送システムで称える作品として制作された。BBC1とITVのカラー放送はこれより遅れ、1969年11月15日、2局同時に開始している。
+
+### 地上デジタルテレビ放送への移行
+
+イギリスでは地域ごとに[地上デジタルテレビ放送](../Page/地上デジタルテレビ放送.md "wikilink")への移行が行われているが、BBC Two は BBC の持つほかの局よりも4か月先駆けて移行が行われている。視聴者に機材を導入する時間を与えるための措置である。
+
+## プログラムの特徴
+
+『[テレタビーズ](../Page/テレタビーズ.md "wikilink")』などの子供向け番組や、主に日中に放送される学校教育番組などを制作。深夜には放送大学の講座を放送している。
+
+テレビドラマ（[シチュエーション・コメディ](https://ja.wikipedia.org/wiki/シチュエーション・コメディ "wikilink")）『[The Office](https://ja.wikipedia.org/wiki/The_Office "wikilink")』（2001年 - 2003年）は、[英国アカデミー賞](https://ja.wikipedia.org/wiki/英国アカデミー賞 "wikilink")テレビ部門で作品賞を3年連続で受賞するなど好評を博した。
+
+1977年から放送している自動車番組『[トップ・ギア](https://ja.wikipedia.org/wiki/トップ・ギア "wikilink")』は（特に1988年の[ジェレミー・クラークソン](https://ja.wikipedia.org/wiki/ジェレミー・クラークソン "wikilink")加入以後）高い知名度と人気を得ている。『トップ・ギア』の出演者の[ジェームズ・メイ](https://ja.wikipedia.org/wiki/ジェームズ・メイ "wikilink")が司会を務める『トイ・ストーリー』や『マン・ラボ』、[ギャレス・マローン](https://ja.wikipedia.org/wiki/ギャレス・マローン "wikilink")の『ザ・クワイア』、ヴィクトリア朝時代の農村生活を再現した『ヴィクトリアン・ファーム』シリーズなどBBC Oneに比べて、知識層でも満足できる[リアリティ番組](https://ja.wikipedia.org/wiki/リアリティ番組 "wikilink")を放送している。
+
+## 脚注
+
+## 外部リンク
+
+  - [公式サイト](https://www.bbc.co.uk/bbctwo)
+
+[Category:英国放送協会](https://ja.wikipedia.org/wiki/Category:英国放送協会 "wikilink")
+
+1.

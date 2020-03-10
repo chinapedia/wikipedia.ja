@@ -1,0 +1,70 @@
+> この記事は[ \(MOTHER3\)](https://ja.wikipedia.org/wiki/_\(MOTHER3\))から翻訳されています。
+
+
+**リュカ**(**Lucas**)は、[任天堂](../Page/任天堂.md "wikilink")が発売した[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")用[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")『[MOTHER3](https://ja.wikipedia.org/wiki/MOTHER3 "wikilink")』に登場する架空の人物で、同作の主人公。
+
+## 概要
+
+[MOTHERシリーズ](https://ja.wikipedia.org/wiki/MOTHERシリーズ "wikilink")の第3作目『[MOTHER3](https://ja.wikipedia.org/wiki/MOTHER3 "wikilink")』に登場する少年。物語の全般にわたって登場するが、第4章以降で主人公を務める。
+
+従来のMOTHERシリーズでは主人公の名前が明確に設定されていなかったが\[1\]、『MOTHER3』における「リュカ」は公式の名称となっている\[2\]。「リュカ」と後述の双子の兄「クラウス」の名前は、作者の[糸井重里](../Page/糸井重里.md "wikilink")が影響を受けた[アゴタ・クリストフ](https://ja.wikipedia.org/wiki/アゴタ・クリストフ "wikilink")の小説三部作『[悪童日記](https://ja.wikipedia.org/wiki/悪童日記 "wikilink")』『ふたりの証拠』『第三の嘘』に登場する双子からとられており\[3\]、それぞれの英語名「LUCAS」「CLAUS」は[アナグラム](../Page/アナグラム.md "wikilink")の関係になっている。ゲーム開始時に任意で名前を付ける際の説明文は「ふたごの おとうと やさしい おとこのこだ」。
+
+## 人物
+
+時代も場所もわからない島「ノーウェア島」にあるタツマイリ村に住んでいる。父・フリントと母・ヒナワのもとに生まれ、双子の兄にクラウス、母方の祖父にアレックがおり、栗毛色の[犬](https://ja.wikipedia.org/wiki/イヌ "wikilink")・ボニーを飼っている。[金髪](https://ja.wikipedia.org/wiki/金髪 "wikilink")の前髪を斜めに逆立て、赤と黄色のボーダーシャツを着ている。気弱で引っ込み思案な性格。動物と意思相通できる能力を持っている。
+
+平和な村で穏やかに暮らしていたが、ある時、村で起きた異変によって家族に悲劇が襲い、一家離散の憂き目にあう。
+
+その後、村にやって来た行商人・ヨクバの施策により3年の間で村の近代化が進み、寡欲だった村人の意識が変化していくが、その動向に不信感を抱き近代化の流れを拒んでいると、ヨクバを支持する一部の村人たちから疎外されるようになる。そうした中、理解者の一人である村の老人・ウエスから行方不明の息子の捜索を依頼され、愛犬のボニーを連れて村から旅立つ。
+
+冒険を進める中で、島の地下に眠る「闇のドラゴン」の封印に用いる7本の針を抜こうと暗躍する者がいることを知る。そうした事態を憂慮する針の守護者「マジプシー」たちから、自分がその針を抜く能力を持つ存在であると知らされ、悪しき者の代わりに封印を解く使命を託される。その後、針を巡って自分と同じ能力を持つ悪の組織の指揮官「仮面の男」と幾度も対峙し、世界の命運をかけて戦うことになる。
+
+## 能力
+
+武器は主に棒を使用する。特技として[超能力](../Page/超能力.md "wikilink")「PSI」を使うことができ、仲間の回復・治療・能力の補助に関するPSIを得意とする。また、物語の進行によって、専用の攻撃PSI「PKLOVE」\[4\]を会得する。武器による攻撃力は高めだが素早さが低めで、攻撃の順番が最後に回ることが多い。戦闘中に連続攻撃できるシステム「サウンドバトル」時の音は[ギター](../Page/ギター.md "wikilink")。
+
+## MOTHER3以外の登場作品
+
+### 大乱闘スマッシュブラザーズシリーズ
+
+『[大乱闘スマッシュブラザーズ](../Page/大乱闘スマッシュブラザーズシリーズ.md "wikilink")』シリーズでは、第3作目『[大乱闘スマッシュブラザーズX](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズX "wikilink")』以降に登場している。同じくシリーズに登場している『[MOTHER2 ギーグの逆襲](https://ja.wikipedia.org/wiki/MOTHER2_ギーグの逆襲 "wikilink")』の主人公・[ネスとワザの種類が似ているが](../Page/ネス_\(MOTHER2\).md "wikilink")、性能は異なる。必殺ワザとして使うPSIは、いずれもリュカが本編で使用しないものである。また、一部のワザでは本編で仲間のダスターが用いるアイテム「ヒモヘビ」を使用する。試合開始時には、本編に登場する乗り物「ちゃぶ台」に乗って現れる。声優は[Lani Minellaが担当している](https://ja.wikipedia.org/wiki/:en:Lani_Minella "wikilink")。
+
+  - [大乱闘スマッシュブラザーズX](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズX "wikilink")
+    独自の物語が展開されるモード「亜空の使者」では、荒廃した動物園で[ポーキーが搭乗したロボット](https://ja.wikipedia.org/wiki/ポーキー・ミンチ "wikilink")「キングの像」に襲われたところをネスに助けられ、ネスと共闘してポーキーを撃退する。しかし直後に[ワリオ](../Page/ワリオ.md "wikilink")に襲撃され、自らを庇ったネスを残して逃げ出してしまう。その後、歩き付いた場所でポケモントレーナーと出会い、共にネスの救出に向かう。
+
+<!-- end list -->
+
+  -
+    なお、本来は前作の『[大乱闘スマッシュブラザーズDX](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズDX "wikilink")』に登場する予定だったが、諸々の事情で見送られた\[5\]。
+
+<!-- end list -->
+
+  - [大乱闘スマッシュブラザーズ for Nintendo 3DS / Wii U](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_for_Nintendo_3DS_/_Wii_U "wikilink")
+    発売当初は作品内に登場しなかったが、[2015年](../Page/2015年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")放映の「[Nintendo Direct](https://ja.wikipedia.org/wiki/Nintendo_Direct "wikilink")」にて[DLCによる追加キャラクターとして配信されることが発表され](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")、同年[6月15日](../Page/6月15日.md "wikilink")より配信を開始した。見た目を変更できるカラーバリエーションの多くが前作のものから差し替えられている。
+
+<!-- end list -->
+
+  - [大乱闘スマッシュブラザーズ SPECIAL](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_SPECIAL "wikilink")
+    強力なワザ「最後の切りふだ」としてPSIの一種「PKスターストーム」を使用する際に、原作でともに冒険した仲間のクマトラとボニーがリュカの両側に現れる。
+
+### その他の登場作品
+
+  - [スーパーマリオメーカー](https://ja.wikipedia.org/wiki/スーパーマリオメーカー "wikilink")
+    主人公の[マリオの](https://ja.wikipedia.org/wiki/マリオ_\(ゲームキャラクター\) "wikilink")[ドット絵](https://ja.wikipedia.org/wiki/ドット絵 "wikilink")を別のキャラクターのものに変更できる「キャラマリオ」の1つとして登場する。変更時には、様々な効果音も『MOTHER3』のものに変わる。
+
+## 関連商品
+
+様々なゲームと連動するフィギュア「[amiibo](https://ja.wikipedia.org/wiki/amiibo "wikilink")」の一種として、リュカのamiiboが[2015年](../Page/2015年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")に発売された\[6\]。
+
+## 脚注
+
+<references/>
+
+[Category:MOTHERシリーズの登場人物](https://ja.wikipedia.org/wiki/Category:MOTHERシリーズの登場人物 "wikilink") [Category:大乱闘スマッシュブラザーズの登場キャラクター](https://ja.wikipedia.org/wiki/Category:大乱闘スマッシュブラザーズの登場キャラクター "wikilink") [Category:架空の双子](https://ja.wikipedia.org/wiki/Category:架空の双子 "wikilink")
+
+1.
+2.
+3.  『[The64DREAM](https://ja.wikipedia.org/wiki/ニンテンドードリーム "wikilink")』（[毎日コミュニケーションズ](https://ja.wikipedia.org/wiki/毎日コミュニケーションズ "wikilink")）2000年5月号より。
+4.  「LOVE」の部分は初期設定のもので、ゲーム開始時に任意で名前を付けることができる。
+5.
+6.

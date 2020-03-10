@@ -1,0 +1,278 @@
+> この記事は[Kawaii! JeNny](https://ja.wikipedia.org/wiki/Kawaii!_JeNny)から翻訳されています。
+
+
+『**Kawaii\! JeNny**』（かわいい！ジェニー）は、[東宝](../Page/東宝.md "wikilink")・[タカラトミー](https://ja.wikipedia.org/wiki/タカラトミー "wikilink")制作の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[特撮](../Page/特撮.md "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")（[深夜特撮](../Page/深夜特撮.md "wikilink")）である。1回2話で全13回（全26話）。
+
+[首都圏トライアングル](https://ja.wikipedia.org/wiki/首都圏トライアングル "wikilink")3局（[チバテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")、[tvk](../Page/テレビ神奈川.md "wikilink")）にて[2007年](../Page/2007年.md "wikilink")（平成19年）10月から放映開始（現時点では[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")）。また、同年[10月18日](https://ja.wikipedia.org/wiki/10月18日 "wikilink")からは[Yahoo\!](https://ja.wikipedia.org/wiki/Yahoo! "wikilink")動画においてストリーミング配信も開始した（毎週2話更新）事により、日本国内で視聴可能であった。2008年10月からは[CS放送局の](../Page/衛星放送.md "wikilink")[カートゥーン ネットワークにて](https://ja.wikipedia.org/wiki/カートゥーン_ネットワーク "wikilink")3本6話立てでの放送も始まった。
+
+## 概要
+
+本作の特徴は、[着せ替え人形](https://ja.wikipedia.org/wiki/着せ替え人形 "wikilink")[玩具](../Page/玩具.md "wikilink")である[ジェニー](https://ja.wikipedia.org/wiki/ジェニー "wikilink")を登場[キャラクター](../Page/キャラクター.md "wikilink")としてそのまま用い、[操演](https://ja.wikipedia.org/wiki/操演 "wikilink")によって人形を動かして撮影されている点である\[1\]。[人形劇](../Page/人形劇.md "wikilink")専用に新規に制作された[人形](../Page/人形.md "wikilink")ではなく、首など、一部の部分は動かしやすいように既存商品から若干の改造を施している。本作ではこの手法を**スーパー・ドールラマ**と呼んでいる\[2\]。
+
+一部引用はあるが基本的に本来のジェニーの設定と相互関係はなく、世界観やキャラクター設定は本作品の独自設定となっている。
+
+本作の助監督である[今井聡は](https://ja.wikipedia.org/wiki/今井聡_\(映像作家\) "wikilink")、かつて本作同様ジェニーを使用した自主制作実写作品『ドリームエンジェルジェニーV』を製作した経験があり、監督の[川北紘一](https://ja.wikipedia.org/wiki/川北紘一 "wikilink")は今井を「本作の企画者」であると発言している\[3\]\[4\]。
+
+実制作は川北紘一が代表取締役を務めるドリーム・プラネット・ジャパンが担当\[5\]。[コマ撮りなどの判りやすい特撮を使っていないが](https://ja.wikipedia.org/wiki/ストップモーション "wikilink")、所々に川北紘一が有する特撮技術や特殊CGを決して潤沢とは言えない制作予算内でやりくりしながら投入。また、小物の装飾協力をしている[リーメント](https://ja.wikipedia.org/wiki/リーメント "wikilink")の装飾品も、良い引き立て役となっている。
+
+ストーリー面では[シリーズ構成](https://ja.wikipedia.org/wiki/シリーズ構成 "wikilink")を務める[浦沢義雄](https://ja.wikipedia.org/wiki/浦沢義雄 "wikilink")の十八番である“ シュールで奇抜な作風 ”が遺憾なく発揮されている\[6\]。脚本家は『[人造昆虫カブトボーグV×V](https://ja.wikipedia.org/wiki/人造昆虫カブトボーグV×V "wikilink")』や『[BLUE DRAGON](https://ja.wikipedia.org/wiki/BLUE_DRAGON_\(アニメ\) "wikilink")』に参加している者が多い。
+
+キャスティングにはアニメファンに人気の女性声優たちを配役。ジェニーの声を演じる[野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")は自らのラジオ番組で「人形は顔の表情の変化を付けにくい分だけ、声の演技の重要性が高い」とコメントしている。
+
+## ストーリー
+
+ジェニー、アキラ、なでしこの3人は、ひょんなことからMr.クラウンによって結成されたスイーツ・エンジェルスとしておしゃれとスイーツを地球上からなくそうと企むシスターB率いる秘密結社エイブランと戦う事になった！はずだが…。
+
+## キャラクター
+
+### スイーツ・エンジェルス
+
+  -
+    Mr.クラウンによって結成された、美少女3人組。
+    地球のオシャレとスイーツを守るため、悪の秘密結社エイブランと戦う。無報酬でこき使われ、交通費も支給されない為か、Mr.クラウンに不満を抱き、たびたび衝突を繰り返しており、それを見かねたエイブランたちが仲裁しようとした事もあるほど。街中を移動する二階建てバスが本部となっている。
+  - ジェニー
+    おしゃれとスイーツが大好きで、ファッションセンス抜群、でも漢字は苦手なアメリカLA出身獅子座の17歳。表向きは典型的な美少女タイプだが、妄想癖があったり本音を剥き出しにしてキレる時があったり、腹黒い発言を天然で吐く事がある。ファッションモデルになりたい夢を持っている事が第2話で描かれており、第8話ではファッションデザイナーになる夢を1エピソード丸々使って描かれている。エイブランと対峙した時にはフェアリーテクターを装着してスイーツ・エンジェルスとして闘う。変身後の必殺技は「シャイニング・バトン・フラッシュ」。
+  - アキラ
+    ボーイッシュで体育会系美少女。数字に弱いおうし座の17歳。一人称は俺。エンジェルス中では比較的常識人。イヤリングはエメラルドグリーン色のハート型の物をしている。ジェニーのついでにスイーツ・エンジェルスに入れられた。変身後の必殺技は「ダイナミック・シュート」「スパークリング・シュート」。
+  - なでしこ
+    才色兼備で和風情緒溢れるお嬢様。度々公園で琴を弾く。実家は京都にある。普段はおしとやかで「○○ですわ〜」が口調。要所要所で腹黒いセリフを吐いたり、静かにキレる行動の端々を見るにジェニーと違い二面性な面を持ち合わせてる。アキラと共にスィーツ・エンジェルスに入れられた。変身後の必殺技は「スイーツ・アロー（電撃ビリビリ）」。
+
+### 秘密結社エイブラン
+
+  -
+    オシャレとスイーツを地球から無くしてしまおうと企むシスターB率いる秘密結社。ある時はロボを操り、ある時は知略?を駆使してジェニーたちを苦しめる。実はアジトが賃貸で、資金難の為にアルバイトをしたりする。
+
+#### 首領
+
+  - シスターB
+    個人的な事情により秘密結社を結成した17歳の謎の美少女。13・14話後のミニコーナーで「現リーダーがあたし」と話していることから前リーダーが存在するようだ。
+    その事情は、お洒落を無くして他の子が地味になれば、自分だけが目立ちモテると思ったり、スイーツを食べ過ぎて太ったからと、どちらも個人的な理由であるが、その意に反して劇中のアジト内では平然とスイーツがテーブルに並んでいる描写が見られる。ミリタリーファッション（迷彩服）に独自の拘りを持っている。興奮すると語尾に"○○ちゃ！"が付くようだ。24話の「こわかばい」というセリフから、九州出身と思われる。
+
+#### 幹部
+
+  -
+    エイブランの幹部でシスターBの配下の[熊](https://ja.wikipedia.org/wiki/クマ "wikilink")。普段は忠実な配下だが、時にはシスターBのわがまま放題ぶりに反してキレたりもする。シスターBとは一緒に住んでいるらしく、寝食を共にしている。毎日お風呂に入って綺麗好きで、シスターBは「全然匂わないわ！」と言うが、ジェニー達は臭いらしい。ISPの特殊飛行機を難なく操縦した事もある。
+
+<!-- end list -->
+
+  - クマさん（クマブーさん）
+    黒クマのオカマ。
+  - クマくん（クマ吉くん）
+    茶色（ブラウン）のクマ。関西弁使い。片目がアイパッチになっている。
+  - クマちゃん（クマPちゃん）
+    白クマ。子供っぽい口調だが一番毒舌を吐く。
+
+### その他
+
+  - Mr.クラウン
+    スイーツ・エンジェルスの司令官。国際科学警察「ISP(International Science Police)」所属。常にサングラスをかけているが、サングラスを外すとつぶらな瞳があらわになる。スイーツ・エンジェルスの出動要請が無視されるとヘリで自ら探しに来る。ISP独自の戦力を指揮できる立場にいるようだ。エンジェルスとは賃金をめぐってしばしば抗争を繰り返しており、果てはエイブランに依頼してエンジェルスたちを倒そうとするなど黒い言動が多い。最終決戦でゴミモンスターが倒された後、「ゴミモンスターは君たちの心の中にいる」と意味深な発言をし、ジェニー達(エイブラン含む)からゴミを投げられる。
+  - リナ
+    Mr.クラウンの秘書。ジェニーたちにスィーツを運んだり、IDFの受付をやっていたり、最終回では戦闘ヘリ部隊の一員としてゴミモンスターとの戦いに挑んだりと仕事の幅が広い。余談だが、本家ジェニーのフレンドドールにも同名のキャラクターがいる。
+  - ぱぴー
+    スイーツ・エンジェルス本部（二階建てバス）にいる子犬型ロボットで、その運転も行っている。頭頂部を回転し耳をローター代わりにすることで飛行も可能。
+  - ハリー
+    ジェニーが憧れるハイスクールでの先輩。なぜか[ひょっとこ](https://ja.wikipedia.org/wiki/ひょっとこ "wikilink")が好き。実は苦学生でアルバイトをしている。なぜかエイブランの幹部たち（クマ軍団）と仲が良いなど、色々と謎の多い人物。最終決戦はなぜか地球防衛軍の一員としてゴミモンスターに立ち向かうが、ゴミモンスターによって防衛軍は全滅。ハリーとリナが生き残っていてゴミモンスター足元で分別に奔走する場面は撮影されたが、時間の都合で本編ではカットされた。DVDの特典でその名残が見受けられる。10話に登場したハリー激似のバリー教官との関係は本編では特に語られていない。
+  - ゴミモンスター
+    宇宙空間に漂っていたゴミの怨念が合体して誕生したモンスター。口からゴミを吐き出したり、身体のゴミを撒き散らして相手を攻撃する。やさしくされれば素直に言うことを聞く一面も。最期はカシマCにゴミを分別され、スイートハートズバッシュ・ダブルとエンジェルジェットカッターに敗れて宇宙空間に追放。
+
+## メカ等
+
+  - イタズラン
+    第1話にて登場した、シスターBが搭乗した巨大ロボ。自我があり自律稼動も可。シスターBの命によりいたずら書きをしたり、スイーツエンジェルスを倒そうとするが、逆に倒される。後に修理・改造され、赤いボディの「イタズランII」として復活する。
+  - ジャイロジェスパ
+    スイーツエンジェルス用の1人乗り特殊スクーター。普通のスクーター同様地上走行が可能だが、変形する事により空も飛べる。但し変形作業には20分もかかる。ISPの予算の都合で1台のみ配置されている。
+  - バスバス
+    スイーツ・エンジェルスの本部である二階建てバス。Mr.クラウンとの連絡は主にバス内で行っている（Mr.クラウンを呼び出せるのはパピーのみ）。なぜかシスターB達に所在がバレている。
+  - ダイカイテン
+    ISPの巨大ロボ。イタズランIIと共にゴミモンスターを倒す…はずだったが、仲間割れで破壊。
+  - カシマC
+    ISPの超天使ロボ。ダイカイテンに代わりゴミモンスターとミュージカル(\!)で戦う。
+    必殺技は「スイートハートズバッシュ」。その他の装備はラブラブ光線、エンジェルジェットカッター。
+
+### ISPの特殊飛行機
+
+  - スカイスワロウ
+    ジェニーが搭乗。ツバメを模したデザインで、翼にハイパワーエンジンを搭載し、高速飛行や急旋回、空中ストップが可能。強化ブースターをつければ宇宙にも行けるらしい。
+  - サブマリンGF
+    アキラが搭乗。金魚を模したデザイン。空も飛べるが主に水中で活躍。
+  - グランドリル
+    なでしこが搭乗。リスを模したデザイン。先端にドリルを出して、地中を掘り進むことが出来る。
+
+## キャスト
+
+表記は本編／パイロット版
+
+  - ジェニー：[野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")／[たがみかおり](../Page/たがみかおり.md "wikilink")
+  - アキラ：[小林ゆう](https://ja.wikipedia.org/wiki/小林ゆう "wikilink")／[花井なお](../Page/花井なお.md "wikilink")
+  - なでしこ：[桑谷夏子](https://ja.wikipedia.org/wiki/桑谷夏子 "wikilink")／[岩野なつみ](https://ja.wikipedia.org/wiki/岩野なつみ "wikilink")
+  - シスターB：[桃井はるこ](../Page/桃井はるこ.md "wikilink")／[尾張由美子](https://ja.wikipedia.org/wiki/尾張由美子 "wikilink")
+  - クマさん（クマブーさん）：[福井信介](https://ja.wikipedia.org/wiki/福井信介 "wikilink")
+  - クマくん（クマ吉くん）：[武虎](../Page/武虎.md "wikilink")
+  - クマちゃん（クマPちゃん）：[尾張由美子](https://ja.wikipedia.org/wiki/尾張由美子 "wikilink")
+  - Mr.クラウン：[松岡大介](../Page/松岡大介.md "wikilink")／[五島貴史](https://ja.wikipedia.org/wiki/五島貴史 "wikilink")
+  - リナ：[タルタエリ](https://ja.wikipedia.org/wiki/タルタエリ "wikilink")
+  - ハリー：[寺島拓篤](https://ja.wikipedia.org/wiki/寺島拓篤 "wikilink")
+  - ゴミモンスター：[園部好徳](https://ja.wikipedia.org/wiki/園部好徳 "wikilink")
+  - 巨大ロボダイカイテン：[松岡大介](../Page/松岡大介.md "wikilink")
+  - 超天使ロボカシマC：[松岡由貴](../Page/松岡由貴.md "wikilink")
+  - 巨大ロボイタズラン（スーツアクター）：[岩崎晋弥](https://ja.wikipedia.org/wiki/岩崎晋弥 "wikilink")
+  - イタズランII（スーツアクター）：[南辻史人](https://ja.wikipedia.org/wiki/南辻史人 "wikilink")
+  - ダイカイテン（スーツアクター）：[小倉直紀](https://ja.wikipedia.org/wiki/小倉直紀 "wikilink")
+  - 超天使ロボカシマC（スーツアクター）：[日野由佳](https://ja.wikipedia.org/wiki/日野由佳 "wikilink")
+
+## スタッフ
+
+  - 製作：「Kawaii\! JeNny」製作委員会、東宝、タカラトミー
+  - 制作プロダクション：[ドリーム・プラネット・ジャパン](https://ja.wikipedia.org/wiki/ドリーム・プラネット・ジャパン "wikilink")
+  - 企画：藤原正道・佐藤慶太・[川北紘一](https://ja.wikipedia.org/wiki/川北紘一 "wikilink")
+  - プロデューサー：大島孝幸・功刀文喬・田中満
+  - 監督：川北紘一
+  - 助監督・企画協力：[今井聡](https://ja.wikipedia.org/wiki/今井聡_\(映像作家\) "wikilink")
+  - シリーズ構成・脚本：[浦沢義雄](https://ja.wikipedia.org/wiki/浦沢義雄 "wikilink")
+  - VFXスーパーバイザー：三輪智章
+  - 撮影：[桜井景一](https://ja.wikipedia.org/wiki/桜井景一 "wikilink")
+  - 音楽：[高梨康治](https://ja.wikipedia.org/wiki/高梨康治 "wikilink")
+
+## 主題歌
+
+### オープニング
+
+  - ルミカ
+
+<!-- end list -->
+
+  -
+
+      -
+        作詞・作曲・編曲・歌：桃井はるこ
+          - 悪役を務める声優がエンディング曲を歌う例は幾つかあるが、オープニングを手掛けるのは異例である。
+
+### エンディング
+
+  - ハイ・エナジー
+
+<!-- end list -->
+
+  -
+
+      -
+        作詞・作曲：桃井はるこ 編曲：[斎藤真也](https://ja.wikipedia.org/wiki/斎藤真也 "wikilink") 歌：野川さくら・桃井はるこ
+
+## 放映リスト
+
+放映日は最速のチバテレビのものを記載する。30分枠の前後15分で1本ずつ、別途のストーリーを放送している。
+
+| 放送日     | 話数               | サブタイトル               | 脚本                                                    |
+| ------- | ---------------- | -------------------- | ----------------------------------------------------- |
+| 10月1日   | 1                | スイーツ・エンジェルス          | 浦沢義雄                                                  |
+| 2       | なぜ、スイーツ・エンジェルスに? | 浦沢義雄                 |                                                       |
+| 10月8日   | 3                | エイブランを解散せよ\!         | 浦沢義雄                                                  |
+| 4       | 憧れの先輩、ハリー        | 浦沢義雄                 |                                                       |
+| 10月15日  | 5                | 宇宙人のペット              | 浦沢義雄                                                  |
+| 6       | ビーチバレー大会         | 浦沢義雄                 |                                                       |
+| 10月22日  | 7                | ハリーのアルバイト            | 浦沢義雄                                                  |
+| 8       | デザイナーのポリシー       | 浦沢義雄                 |                                                       |
+| 10月29日  | 9                | エンジェルス解散？            | [千葉克彦](../Page/千葉克彦.md "wikilink")                    |
+| 10      | 大空のジェニー          | 千葉克彦                 |                                                       |
+| 11月5日   | 11               | ストライキ                | [大和屋暁](https://ja.wikipedia.org/wiki/大和屋暁 "wikilink") |
+| 12      | バレリーナ            | 大和屋暁                 |                                                       |
+| 11月12日  | 13               | スイーツ・エンジェルス\&Mr.クラウン | [下山健人](https://ja.wikipedia.org/wiki/下山健人 "wikilink") |
+| 14      | スイーツ・エンジェルスと音楽祭  | 下山健人                 |                                                       |
+| 11月19日  | 15               | 宝くじ                  | [川端信也](https://ja.wikipedia.org/wiki/川端信也 "wikilink") |
+| 16      | ダイエット            | 川端信也                 |                                                       |
+| 11月26日  | 17               | 新しい乗り物               | 浦沢義雄                                                  |
+| 18      | 入れ替わったけどそれが何か?   | 大和屋暁                 |                                                       |
+| 12月3日   | 19               | ゴミモンスター              | 浦沢義雄                                                  |
+| 20      | なでしこ姫様           | 下山健人                 |                                                       |
+| 12月10日  | 21               | 改良イタズランII            | 浦沢義雄                                                  |
+| 22      | 三匹の小熊            | 千葉克彦                 |                                                       |
+| 12月17日  | 23               | 最強ロボカシマC登場           |                                                       |
+| 24      | 古城への招待           | 川端信也                 |                                                       |
+| 12月24日  | 25               | ミュージカル決戦             | 浦沢義雄                                                  |
+| 26（最終話） | ゴミモンスターの最期       | 浦沢義雄                 |                                                       |
+|         |                  |                      |                                                       |
+
+## 放送局
+
+<table>
+<thead>
+<tr class="header">
+<th><p>放送地域</p></th>
+<th><p>放送局</p></th>
+<th><p>放送期間</p></th>
+<th><p>放送日時</p></th>
+<th><p>放送区分</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/千葉県" title="wikilink">千葉県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/千葉テレビ放送" title="wikilink">チバテレビ</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/10月1日.md" title="wikilink">10月1日</a> - 2007年<a href="../Page/12月24日.md" title="wikilink">12月24日</a></p></td>
+<td><p>月曜 25時40分 - 26時10分</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/全国独立UHF放送協議会" title="wikilink">独立UHF局</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/埼玉県" title="wikilink">埼玉県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ埼玉" title="wikilink">テレ玉</a></p></td>
+<td><p>2007年<a href="../Page/10月2日.md" title="wikilink">10月2日</a> - 2007年<a href="../Page/12月25日.md" title="wikilink">12月25日</a></p></td>
+<td><p>火曜 26時00分 - 26時30分</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
+<td><p><a href="../Page/テレビ神奈川.md" title="wikilink">tvk</a></p></td>
+<td><p>2007年<a href="../Page/10月6日.md" title="wikilink">10月6日</a> - 2007年<a href="https://ja.wikipedia.org/wiki/12月29日" title="wikilink">12月29日</a></p></td>
+<td><p>土曜 26時00分 - 26時30分</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/全国放送.md" title="wikilink">全国放送</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Yahoo!動画" title="wikilink">Yahoo!動画</a></p></td>
+<td><p>2007年<a href="https://ja.wikipedia.org/wiki/10月18日" title="wikilink">10月18日</a> - <a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/1月10日.md" title="wikilink">1月10日</a></p></td>
+<td><p>木曜更新</p></td>
+<td><p><a href="../Page/ネット配信.md" title="wikilink">ネット配信</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/カートゥーン_ネットワーク" title="wikilink">カートゥーン ネットワーク</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/10月3日.md" title="wikilink">10月3日</a> - 2008年<a href="../Page/10月31日.md" title="wikilink">10月31日</a></p></td>
+<td><p>金曜 24時00分 - 25時30分<br />
+3話連続放送、リピートあり</p></td>
+<td><p><a href="../Page/衛星放送.md" title="wikilink">CS</a>、<a href="https://ja.wikipedia.org/wiki/CATV" title="wikilink">CATV</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 映像ソフト
+
+  - 2008年に東宝からDVDが発売された。全7巻\[7\]。
+
+## その他の話題
+
+  - [リカちゃんキャッスル](https://ja.wikipedia.org/wiki/リカちゃんキャッスル "wikilink")
+      - Kawaii\! JeNny仕様のジェニー、アキラ、なでしこ、シスターBの人形が期間限定で『リカちゃんキャッスル』で販売された。パッケージは通常のものとは違い、『Kawaii\! JeNny』仕様になっている。
+
+## 脚注
+
+## 参考文献
+
+  - （ページ数は別冊のもの）
+
+## 外部リンク
+
+  - [タカラトミー公式サイト](http://www.takaratomy.co.jp/products/k_jenny/)
+  - [東宝公式サイト](http://www.toho-a-park.com/character/jenny/)
+  - [ドリームプラネットジャパン作品紹介](http://www.dreamplanet-j.co.jp/jenny.htm)
+  - [制作日記ブログ](http://dpjblog.blog122.fc2.com/)
+  - [マーブリングファインアーツ特設ページ](http://www.marbling.net/jenny/top.html)
+
+[Category:2007年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2007年のテレビドラマ "wikilink") [Category:深夜特撮](https://ja.wikipedia.org/wiki/Category:深夜特撮 "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:東宝特撮作品](https://ja.wikipedia.org/wiki/Category:東宝特撮作品 "wikilink") [Category:東宝製作のテレビ作品](https://ja.wikipedia.org/wiki/Category:東宝製作のテレビ作品 "wikilink") [Category:変身ヒロイン](https://ja.wikipedia.org/wiki/Category:変身ヒロイン "wikilink")
+
+1.
+2.
+3.  「[特撮ニュータイプ](https://ja.wikipedia.org/wiki/月刊ニュータイプ#NEWTYPE_THE_LIVE_.E7.89.B9.E6.92.AE.E3.83.8B.E3.83.A5.E3.83.BC.E3.82.BF.E3.82.A4.E3.83.97 "wikilink")」誌2007年9月号
+4.  「[フィギュア王](https://ja.wikipedia.org/wiki/フィギュア王 "wikilink")」誌の特集でも同様の発言が掲載されている。
+5.
+6.
+7.

@@ -1,0 +1,39 @@
+> この記事は[VCF](https://ja.wikipedia.org/wiki/VCF)から翻訳されています。
+
+
+**VCF**（Voltage-controlled filter）は、[電圧](../Page/電圧.md "wikilink")で音声信号の倍音成分を制御する機能。主に[アナログシンセサイザー](https://ja.wikipedia.org/wiki/アナログシンセサイザー "wikilink")の音色制御に用いられる。
+
+## 概要
+
+[アナログシンセサイザー](https://ja.wikipedia.org/wiki/アナログシンセサイザー "wikilink")は、[VCO](https://ja.wikipedia.org/wiki/VCO "wikilink")で任意の波形を持つ音声信号を出力し、VCFでその音声信号を加工することにより、様々な音色を得る基本的構造になっている。VCFは入力された音に含まれる[倍音](../Page/倍音.md "wikilink")をカットして音色を加工する「音色フィルタ」の役割を担う。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Filtercircuit.png "wikilink") VCFには主に以下の種類がある。
+
+  - [ローパスフィルタ](../Page/ローパスフィルタ.md "wikilink")（LPF）
+    ロー（低域）をパス（通過）させるフィルタ。周波数成分を高域からカットする機能を持つ。
+  - [ハイパスフィルタ](../Page/ハイパスフィルタ.md "wikilink")（HPF）
+    ハイ（高域）をパスさせるフィルタ。周波数成分を低域からカットする機能を持つ。
+  - [バンドパスフィルタ](../Page/バンドパスフィルタ.md "wikilink")（BPF）
+    任意の帯域（バンド）のみをパスさせるフィルタ。いくつかの機種ではこの機能は搭載されておらず、LPFとHPFを直列につなぐことで機能を得る。
+  - [バンドエリミネーションフィルタ](https://ja.wikipedia.org/wiki/フィルタ回路#バンドエリミネーションフィルタ "wikilink")（BEF、別称バンドリジェクトフィルタ：BRF、またはノッチフィルタ）
+    任意の帯域のみをカットするフィルタ。いくつかの機種ではこの機能は搭載されておらず、LPFとHPFを並列につなぐことで機能を得る。
+
+LPFやHPFでは、減衰が始まる周波数を[遮断周波数](https://ja.wikipedia.org/wiki/遮断周波数 "wikilink")（カットオフ周波数）と呼び、-3dBの減衰のあるポイントを指す。BPFやBEFでは、残留・除去する帯域の中心を[中心周波数](https://ja.wikipedia.org/wiki/中心周波数 "wikilink")と呼ぶ。VCFでは主に遮断周波数／中心周波数が電圧で制御される。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Butterworth_Filter_Orders.svg "wikilink") VCFは設計によって減衰傾度（ロールオフ特性）の違いがあり、次数が増すごとに-6[dB](../Page/デシベル.md "wikilink")/[oct傾度が増し](../Page/オクターヴ.md "wikilink")、一般的に-6, -12, -18, -24[dB](../Page/デシベル.md "wikilink")/[oct程度のVCFが用いられる](../Page/オクターヴ.md "wikilink")。例えば[モーグ・シンセサイザー](https://ja.wikipedia.org/wiki/モーグ・シンセサイザー "wikilink")には-24dB/octのVCFが良く用いられ、[オーバーハイム](https://ja.wikipedia.org/wiki/オーバーハイム "wikilink")のシンセサイザーには-12dB/octのVCFが良く用いられる。減衰傾度は設計によるVCFの個性を測る1つの目安であるが、他の設計要素も音質には関わる。
+
+## モジュレーション（変調）
+
+外部信号で回路の動作（ここでは遮断周波数／中心周波数）を制御することをモジュレーションと呼ぶ。一般的にアナログシンセサイザーでは[エンベロープ・ジェネレーターや](https://ja.wikipedia.org/wiki/ADSR "wikilink")[LFO](https://ja.wikipedia.org/wiki/LFO "wikilink")の制御信号をVCFのモジュレーションに利用することで、音色に時間的な変化がつけられる。
+
+演奏された音程の変化に伴ってカット領域を変化させることを、特にキーボード・トラッキングと呼ぶ。例えば演奏された音程の基本周波数が440Hzで、カットしたい倍音が880Hzである場合、まずVCFは880Hzの音域をカットする様に設定される。だが次に1オクターブ上の音程を演奏した場合、基本周波数は880Hzに変化する。この変化の情報をVCFに伝えない場合、VCFは880Hzに変化した基本周波数をカットする様に作動してしまう。このようなことを避けたい場合、キーボード・トラッキングが用いられる。
+
+## レゾナンス（共鳴）
+
+Resonance （[レゾナンス](https://ja.wikipedia.org/wiki/レゾナンス "wikilink")、またはリゾナンス。直訳すると「[共鳴](../Page/共鳴.md "wikilink")」）は、VCFのパラメータのひとつとして搭載されている機能。遮断周波数付近の倍音成分を強調する事で音色の変化を得る。またいくつかの機種では、特定の値を超えると自己発振を始め、それ自体を音源として利用することもできる。
+
+## 関連項目
+
+  - [アナログシンセサイザー](https://ja.wikipedia.org/wiki/アナログシンセサイザー "wikilink")
+
+[Category:シンセサイザー](https://ja.wikipedia.org/wiki/Category:シンセサイザー "wikilink") [Category:電子音源の合成方式](https://ja.wikipedia.org/wiki/Category:電子音源の合成方式 "wikilink")

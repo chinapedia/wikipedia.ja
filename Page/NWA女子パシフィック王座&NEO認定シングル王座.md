@@ -1,0 +1,51 @@
+> この記事は[NWA\&NEO](https://ja.wikipedia.org/wiki/NWA\&NEO)から翻訳されています。
+
+
+**NWA女子パシフィック王座\&NEO認定シングル王座**（エヌ・ダブリュー・エーじょしパシフィックおうざ・アンド・エヌ・イー・オーにんていシングルおうざ）は、[NEO女子プロレス](https://ja.wikipedia.org/wiki/NEO女子プロレス "wikilink")が管理、認定する[フラッグシップタイトル](https://ja.wikipedia.org/wiki/チャンピオンベルト "wikilink")。
+
+## 歴史
+
+2000年8月24日、アメリカのアトランティックシティ・ワイルドウッド・コンベンションホールにおいて、[田村欣子](https://ja.wikipedia.org/wiki/田村欣子 "wikilink")とニコル・バスが王座決定戦を行い、勝利した田村欣子が初代NWA女子パシフィック王者\&NEO認定シングル王者となった。
+
+2010年限りでのNEO解散に伴い、王座の行方が注目されていたが\[1\]、12月31日の解散興行で田村がフリーの[栗原あゆみ](https://ja.wikipedia.org/wiki/栗原あゆみ "wikilink")に王座を明け渡したため\[2\]、2011年以降の王座管理権などの扱いは未定であった（なお、田村は「チャンピオンに任せる」とコメントし、一方の栗原は「防衛戦を行う」と宣言している）。その後、栗原と[甲田哲也](https://ja.wikipedia.org/wiki/甲田哲也 "wikilink")元NEO社長を始めとする関係者と協議に入ったものの\[3\]、栗原がCMLL王座挑戦権を得たこともあり、防衛戦を行わぬまま2011年5月25日に甲田元社長にベルトを返還して事実上封印となった\[4\]。
+
+## 歴代王者
+
+| 歴代   | レスラー                                                                                                                   | 戴冠回数 | 防衛回数 | 獲得日付        | 獲得した場所（対戦相手・その他）                                                                         |
+| ---- | ---------------------------------------------------------------------------------------------------------------------- | ---- | ---- | ----------- | ---------------------------------------------------------------------------------------- |
+| 初代   | [田村欣子](https://ja.wikipedia.org/wiki/田村欣子 "wikilink")                                                                  | 1    | 3    | 2000年8月24日  | アトランティックシティ・ワイルドウッド・コンベンションホール、ニコル・バス                                                    |
+| 第2代  | [下田美馬](https://ja.wikipedia.org/wiki/下田美馬 "wikilink")（フリー）                                                             | 1    | 1    | 2001年2月11日  | [板橋産文ホール](https://ja.wikipedia.org/wiki/板橋グリーンホール "wikilink")                            |
+| 第3代  | [井上京子](../Page/井上京子_\(プロレスラー\).md "wikilink")                                                                          | 1    | 1    | 2001年3月25日  | [北沢タウンホール](https://ja.wikipedia.org/wiki/北沢タウンホール "wikilink")                            |
+| 第4代  | [元気美佐恵](https://ja.wikipedia.org/wiki/元気美佐恵 "wikilink")                                                                | 1    | 1    | 2001年6月15日  | 北沢タウンホール                                                                                 |
+| 第5代  | [ライオネス飛鳥](https://ja.wikipedia.org/wiki/ライオネス飛鳥 "wikilink")（フリー）                                                       | 1    | 1    | 2001年9月1日   | [ディファ有明](https://ja.wikipedia.org/wiki/ディファ有明 "wikilink")、王座返上                           |
+| 第6代  | 田村欣子                                                                                                                   | 2    | 3    | 2001年12月7日  | [後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")、王座決定戦6WAYサバイバル時間無制限イリミネーションマッチ |
+| 第7代  | [三田英津子](https://ja.wikipedia.org/wiki/三田英津子 "wikilink")（フリー）                                                           | 1    | 0    | 2002年4月13日  | 北沢タウンホール                                                                                 |
+| 第8代  | 田村欣子                                                                                                                   | 3    | 2    | 2002年6月8日   | 北沢タウンホール、HJPG（ホリプロ女子プロレス軍団）により王座剥奪                                                       |
+| 第9代  | 田村欣子                                                                                                                   | 4    | 0    | 2002年10月14日 | 板橋産文ホール、王座決定3WAYマッチ                                                                      |
+| 第10代 | 井上京子                                                                                                                   | 2    | 0    | 2003年2月2日   | 北沢タウンホール                                                                                 |
+| 第11代 | [日向あずみ](https://ja.wikipedia.org/wiki/日向あずみ "wikilink")（[JWP](https://ja.wikipedia.org/wiki/JWP女子プロレス "wikilink")）     | 1    | 3    | 2003年3月6日   | 北沢タウンホール                                                                                 |
+| 第12代 | 田村欣子                                                                                                                   | 5    | 3    | 2003年5月5日   | 後楽園ホール                                                                                   |
+| 第13代 | [中西百重](https://ja.wikipedia.org/wiki/中西百重 "wikilink")（フリー）                                                             | 1    | 2    | 2004年3月14日  | [川崎市体育館](../Page/川崎市体育館.md "wikilink")                                                   |
+| 第14代 | 元気美佐恵                                                                                                                  | 2    | 3    | 2004年8月14日  | 後楽園ホール                                                                                   |
+| 第15代 | [倉垣翼](https://ja.wikipedia.org/wiki/倉垣翼 "wikilink")（JWP）                                                               | 1    | 2    | 2005年2月20日  | [東京キネマ倶楽部](https://ja.wikipedia.org/wiki/東京キネマ倶楽部 "wikilink")                            |
+| 第16代 | 元気美佐恵                                                                                                                  | 3    | 3    | 2005年7月3日   | 後楽園ホール                                                                                   |
+| 第17代 | 田村欣子                                                                                                                   | 6    | 15   | 2005年12月11日 | 後楽園ホール                                                                                   |
+| 第18代 | [松尾永遠](https://ja.wikipedia.org/wiki/松尾永遠 "wikilink")                                                                  | 1    | 2    | 2007年9月17日  | 後楽園ホール                                                                                   |
+| 第19代 | 井上京子                                                                                                                   | 3    | 0    | 2008年5月5日   | 後楽園ホール                                                                                   |
+| 第20代 | [高橋奈苗](https://ja.wikipedia.org/wiki/高橋奈苗 "wikilink")（[パッション・レッド](https://ja.wikipedia.org/wiki/パッション・レッド "wikilink")） | 1    | 2    | 2008年10月4日  | 川崎市体育館                                                                                   |
+| 第21代 | [さくらえみ](https://ja.wikipedia.org/wiki/さくらえみ "wikilink")（[アイスリボン](../Page/アイスリボン.md "wikilink")）                        | 1    | 0    | 2009年5月3日   | 板橋グリーンホール                                                                                |
+| 第22代 | 田村欣子                                                                                                                   | 7    | 12   | 2009年5月5日   | 後楽園ホール                                                                                   |
+| 第23代 | [栗原あゆみ](https://ja.wikipedia.org/wiki/栗原あゆみ "wikilink")（フリー）                                                           | 1    | 0    | 2010年12月31日 | 後楽園ホール、2011年5月25日王座返上（王座封印）                                                              |
+
+## 脚注
+
+## 外部リンク
+
+  - [NWA Pacific Women's Title NEO Singles Title](http://www.wrestling-titles.com/japan/neo/nwa-pac-wm.html)
+
+[Category:NEO女子プロレスの王座](https://ja.wikipedia.org/wiki/Category:NEO女子プロレスの王座 "wikilink") [Category:NWAの王座](https://ja.wikipedia.org/wiki/Category:NWAの王座 "wikilink") [Category:封印されたプロレスの王座](https://ja.wikipedia.org/wiki/Category:封印されたプロレスの王座 "wikilink")
+
+1.
+2.  [V12の田村が王座陥落　栗原がNEO2冠王へ](http://sportsnavi.yahoo.co.jp/fight/headlines/20101231-00000015-spnavi-fight.html) スポーツナビ 2010年12月31日
+3.  [栗原あゆみがCMLL王座に挑戦／レイナ](http://www.nikkansports.com/battle/news/f-bt-tp0-20110508-772889.html) - 日刊スポーツ 2011年5月8日
+4.  [栗原がNEO2冠を返上＆CMLL遠征が決定／栗原あゆみ記者会見](http://ameblo.jp/ringstars/entry-10902664505.html) - RINGSTARS 2011年5月25日

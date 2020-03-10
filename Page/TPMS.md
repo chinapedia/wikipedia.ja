@@ -1,0 +1,43 @@
+> この記事は[TPMS](https://ja.wikipedia.org/wiki/TPMS)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:TPMS_front_side.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:TPMS_back_side.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:DamagedTPMSSensorBeingRemoved.jpg "wikilink") **TPMS** (タイヤ・プレッシャー・モニタリング・システム　**T**ire **P**ressure **M**onitoring **S**ystem)または**タイヤ圧監視システム**は、[自動車](../Page/自動車.md "wikilink")の[タイヤ](../Page/タイヤ.md "wikilink")空気圧を常時モニタリングする[システム](../Page/システム.md "wikilink")で、問題があれば警告で運転者に知らせる。
+
+## 概要
+
+[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[2000年](../Page/2000年.md "wikilink")に起きたタイヤ空気圧の低下により発生した事故により、自動車の安全規制が可決された。そのため、タイヤ空気圧を監視し低下を警告するシステムの装着が義務付けされた。アメリカでは、新車販売に対し数年前から段階的に義務化され、2007年9月より完全義務化となる。又、[ランフラットタイヤ](https://ja.wikipedia.org/wiki/ランフラットタイヤ "wikilink")を装着する場合は、本ユニットを装着する事が協定で定められている。
+
+## システム
+
+システムには以下の二方式がある。
+
+### 間接式TPMS
+
+タイヤ内部の空気圧が低下すると外径が小さくなる為、結果的に回転数も変わる（増加する）事を利用して、空気圧の低下を検知する方法。回転数の検出はABSで利用されているセンサーを利用する。この為ソフトウェアの変更で使用できるため安価に出来る事がメリット。しかし走行状況に左右されるケースが多い。一部の車種ではエア圧の調整やタイヤ交換を行った際は、システムをリセットする必要がある。過去、トヨタやスバルなどの一部車種に採用された事もあるが、信頼性に欠ける物だった。現在は、BMWやメルセデス・ベンツに採用されているが、現状、アメリカのTREAD法の基準に適合していない。この為、タイヤ空気圧が低下した際のサスペンションの動きの差を検知する方式が開発中である。
+
+### 直接式TPMS
+
+直接式はタイヤやホイール内部にセンサー（送信機）を取り付け、タイヤの空気圧や温度を検知し、車体側の受信機へ電波で情報を送信し、空気圧が基準外になっている場合は警報を発する。直接式にはタイプが2種類あり、エアバルブと一体式のバルブタイプ、ホイール内部にベルトで固定するベルトタイプがある。現在はバルブタイプ（エア[バルブ](https://ja.wikipedia.org/wiki/バルブ "wikilink")と一体化した物）が一般的である。又、車内で空気圧などをモニタリングできるタイプも多い。
+
+10年ほど前から、一部の自動車メーカー（ベンツ、アウディなど）で採用されていた。ドイツのアリゲーター社（バルブメーカー）とBeru社（センサー）の物が有名である。現在は、シーメンス・TRWなど数々のメーカーがセンサーを製造している。日本では、レクサスの一部車種が[太平洋工業](../Page/太平洋工業.md "wikilink")製を採用しているほか、後付け用として同社の「TPMS B-01」が[ブリヂストン](../Page/ブリヂストン.md "wikilink")系のタイヤ店等で販売されている。
+
+電波を使用する関係上、国（地域）毎に使用可能な電波（周波数と強さ）が異なる為、センサー（送信機）や受信機をそれらのエリア別に製造する必要がある。（日本国内においては、海外の製品が電波法により使用できないケースも多い）又、センサー側に電源（バッテリー）を必要とする。　
+
+## 日本での義務化遅れ
+
+TPMSは米国だけでなく、2012年では[欧州](https://ja.wikipedia.org/wiki/欧州 "wikilink")で義務化が決定され、2013年には[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")でも義務化され、 \[1\] こうした国への日本車もTPMSを標準装備している。ただし、日本では義務化が遅れている。
+
+日本では、輸入車はもちろん、国産車でも車種によってはTPMSを装置している車種もある。2019年7月現在、[日本自動車連盟](https://ja.wikipedia.org/wiki/日本自動車連盟 "wikilink")（JAF）が「タイヤのパンクによる出動件数が10年前に比べて約10万件増加した。」と発表している一方、[国土交通省](https://ja.wikipedia.org/wiki/国土交通省 "wikilink")[自動車局](https://ja.wikipedia.org/wiki/自動車局 "wikilink")技術政策課は「日本でTPMS義務化の動きはあるのか？」との問い合わせに対して「義務化の時期の見通しなどはなく、現在事故実態の検証や有識者の意見を集めながら検討中である。」と三十年来の答えをしている\[2\]\[3\]。
+
+米国と欧州での法制化を受けて、[国際連合](../Page/国際連合.md "wikilink")でもTPMSに関する多国間協定が進められた（UNECE-Regulation No. 64 / 「応急用予備走行装置及びタイヤ空気圧監視装置に係る協定規則」（第64号））\[4\]。
+
+## 脚注
+
+## 外部リンク
+
+[Category:自動車](https://ja.wikipedia.org/wiki/Category:自動車 "wikilink") [Category:タイヤ](https://ja.wikipedia.org/wiki/Category:タイヤ "wikilink") [Category:自動車安全技術](https://ja.wikipedia.org/wiki/Category:自動車安全技術 "wikilink") [Category:先進運転支援システム](https://ja.wikipedia.org/wiki/Category:先進運転支援システム "wikilink")
+
+1.  [装着義務化するべきＴＰＭＳ：タイヤ空気圧警報装置](http://www.kodansha-bc.com/bc/archives/5810)
+2.  [【急増するパンクに効果絶大\!\!】 タイヤ空気圧センサー なぜ日本だけ義務化遅れる\!\!?（ベストカーWeb、2019年7月）](https://bestcarweb.jp/feature/column/81836)
+3.  [［遠藤功治］【空気圧低下警告装置が義務化されない日本】（Japan In Depth、2015年6月）](https://japan-indepth.jp/?p=19269)
+4.  [（TPMSの）法制化について（LDL Technology）](https://www.ldl-technology.com/ja/tire-pressure-monitoring-systems-2/%E6%B3%95%E5%88%B6%E5%8C%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-regulation-world/)

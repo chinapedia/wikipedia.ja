@@ -1,0 +1,170 @@
+> この記事は[2in1 \(NTT\)](https://ja.wikipedia.org/wiki/2in1_\(NTT\))から翻訳されています。
+
+
+**2in1**（ツー・イン・ワン）とは、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[携帯電話](../Page/携帯電話.md "wikilink")サービス[FOMA](../Page/FOMA.md "wikilink")で提供される、1台の携帯電話で2契約分の[電話番号](https://ja.wikipedia.org/wiki/電話番号 "wikilink")・[メールアドレス](https://ja.wikipedia.org/wiki/メールアドレス "wikilink")・[電話帳](../Page/電話帳.md "wikilink")機能・ネットワークサービスなどを利用できるサービス。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")5月25日からサービス提供開始。
+
+## 概要
+
+[2009年](../Page/2009年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")末現在の契約数は**約458,200件**。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月1日](../Page/5月1日.md "wikilink")から発売開始された904iシリーズ全5機種に標準搭載された。月額料金の他、[ユニバーサルサービス料が](https://ja.wikipedia.org/wiki/基礎的電気通信役務#基礎的電気通信役務基金制度 "wikilink")2in1回線用に*2012年7月から3円*かかる。1台で2契約分の各種機能・サービスを利用するため、1契約（回線）目を用いる「Aモード」ともう一契約（回線）目を用いる「Bモード」、A・Bどちらの機能も使える「デュアルモード」を切り替えて利用する。通話料金やパケット料金は、Aモードの契約（基本使用料やパケットプラン）に準拠する。従って、「[パケ・ホーダイ](https://ja.wikipedia.org/wiki/パケ・ホーダイ "wikilink")」系の定額サービスも利用可能。
+
+Aナンバーを個人名義、Bナンバーを法人名義にするといった用途などで利用が可能となり、請求書なども分割することも可能となる。なおパケット利用料や[iコンシェル](https://ja.wikipedia.org/wiki/iコンシェル "wikilink")や[メロディーコール(待ちうた)といったオプションの利用料は公平に分割することができないため](https://ja.wikipedia.org/wiki/待ちうた "wikilink")、Aナンバーか、Bナンバーどちらにどのオプション利用料を請求するか分けることは可能となる。
+
+同社には、従前より複数の番号を1台で扱える「マルチナンバー」がある（903i･703i以前、60Xiの各FOMAでも利用できる）が、本サービスはメールアドレスも2つになるという点、従前に別に契約していた番号をBモードに割り当てることも出来る点、携帯電話の電話帳などが分かれる点が異なる。
+
+こうした点から、サービス開始の2007年5月の時点では「2in1」に契約した場合2回線分の契約としてカウントしていた。しかし、[KDDI](../Page/KDDI.md "wikilink")（[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")）や[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")などの競合他社から「純増数・回線数の水増しではないか」との問題提起がなされ、総務省は「1契約と扱うのが適当」との検討結果を出している。2回線とするのを不適当とされた理由として、名義や料金プランを別に出来ない点が挙げられている。2台利用している人が2in1を利用すると、1契約は一旦解約をすることが必要であった。
+
+そこでドコモは、2008年[3月3日](../Page/3月3日.md "wikilink")より、同名義2契約を含む異名義での契約を可能にすると共に、今まで一つしかなかった2in1料金プランを複数にした。また、2台利用している人は、契約を解約することなく継続したまま、新2in1を申し込むことが可能となった。これにより、2契約としてカウントされることになった。法人名義と個人名義といった組み合わせも可能となる。 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")より、Aナンバー契約とBナンバー契約の名義が「個人名義と個人名義」である場合の新規契約ができなくなった。 この提供条件の変更は、例えば、恋人同士のXとYがいるとする。Xの携帯電話で「2in1」を契約してAナンバー契約をX名義、Bナンバー契約をY名義とすると、Yが所有する別のドコモ携帯電話との間で家族内割引サービスを適用でき、その結果、XとYとの間で24時間無料通話（国内）が可能になっていたが、それができなくなる。 この点でNTTドコモは「『2in1』はもともと個人用と会社用で一人で2台を持ち歩くユーザーの利用を想定したもので、提供条件を見直すことにした。」とコメント。
+
+また、ドコモの携帯電話と他社の携帯電話を各々1台持っている場合、Aモードに既存のドコモの携帯電話番号、Bモードに[番号ポータビリティ](https://ja.wikipedia.org/wiki/番号ポータビリティ "wikilink")で他社から乗り換えた携帯電話番号を登録することもできる。またAモード番号とBモード番号を2枚のSIMカードに分離することも可能となる。
+
+## メール機能
+
+2009年夏モデルの以降の2in1対応機種は、電話番号だけでなくAナンバー、Bナンバーともに[iモードメール](https://ja.wikipedia.org/wiki/iモードメール "wikilink")アドレスの[プッシュメールでの着信](https://ja.wikipedia.org/wiki/プッシュ型電子メール "wikilink")、及び端末内のメーラーでの送信ができるようになった。そのため、これらの機種では以下のような制限はない。なお、設定でBモードメールを従来通りの[Webメール](https://ja.wikipedia.org/wiki/Webメール "wikilink")にすることもできる。
+
+### 2009年春モデル以前の制限
+
+2009年春モデル以前の機種\[1\]ではBモードにおいて利用できるメール機能はWebメールとなるため、Aモードのメール機能とは大きく使い勝手が異なるものである。通常、Bモードで受信したメールは[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")センタに蓄積され、その旨が携帯電話にメールで通知される（通常のiモードメールのようにメール本文を携帯電話に受信できる設定もある）。ユーザは、Webメールサイトに接続し、そのメールを閲覧する。
+
+Bモードのメールアドレスでメールを送信する場合も、Webメールサイトに接続する必要がある（2008年4月より、「クイック返信」機能が提供され、受信メール本文に挿入されるURLからすぐに返信用のサイトにアクセスすることが可能）。
+
+このWebメールサイトに接続する仕様のため、これらのモデルでは、BモードはAモードに比べ、メールのパケット通信料がやや高額になる。
+
+また、Webメールの仕様上の制限により、メールに添付ファイルを新たに付加することができない（転送は可能）。このため、Bモードのアドレスで添付ファイルつきのメールを送信したい場合、Aモードであらかじめファイルを添付したメールを作成し、それをBモードのアドレス宛に送り、そこから転送するしか方法がない。[デコメール](../Page/デコメール.md "wikilink")にも同様の制限がある。
+
+## 料金プラン（Bモード）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>2in1用プラン</p></th>
+<th><p>基本使用料<br />
+（無料通話分）</p></th>
+<th><p>通話料</p></th>
+<th><p>割引後基本使用料[2]<br />
+（無料通話分）</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>タイプ2in1</p></td>
+<td><p>840円</p></td>
+<td><p>21円/30秒</p></td>
+<td><p>適用対象外</p></td>
+</tr>
+<tr class="even">
+<td><p>タイプ2in1<br />
+同一名義オプション</p></td>
+<td><p>840円</p></td>
+<td><p>基本契約の<br />
+通話料に準じる</p></td>
+<td><p>適用対象外</p></td>
+</tr>
+<tr class="odd">
+<td><p>タイプSS 2in1</p></td>
+<td><p>1,957円<br />
+（1,050円）</p></td>
+<td><p>21円/30秒</p></td>
+<td><p>980円<br />
+（1,050円）</p></td>
+</tr>
+<tr class="even">
+<td><p>タイプS 2in1</p></td>
+<td><p>3,150円<br />
+（2,100円）</p></td>
+<td><p>18.9円/30秒</p></td>
+<td><p>1,575円<br />
+（2,100円）</p></td>
+</tr>
+<tr class="odd">
+<td><p>タイプM 2in1</p></td>
+<td><p>5,250円<br />
+（4,200円）</p></td>
+<td><p>14.7円/30秒</p></td>
+<td><p>2,625円<br />
+（4,200円）</p></td>
+</tr>
+<tr class="even">
+<td><p>タイプL 2in1</p></td>
+<td><p>8,400円<br />
+（6,300円）</p></td>
+<td><p>10.5円/30秒</p></td>
+<td><p>4,200円<br />
+（6,300円）</p></td>
+</tr>
+<tr class="odd">
+<td><p>タイプLL 2in1</p></td>
+<td><p>13,650円<br />
+（11,550円）</p></td>
+<td><p>7.875円/30秒</p></td>
+<td><p>6,825円<br />
+（11,550円）</p></td>
+</tr>
+<tr class="even">
+<td><p>タイプビジネス 2in1</p></td>
+<td><p>8,610円<br />
+（5,775円）</p></td>
+<td><p>10.5円/分<br />
+<small>平日昼間ドコモ同士</small></p></td>
+<td><p>4,305円<br />
+（5,775円）</p></td>
+</tr>
+<tr class="odd">
+<td><p>ファミリーワイド 2in1</p></td>
+<td><p>1,470円</p></td>
+<td><p>26.25円/30秒</p></td>
+<td><p>735円</p></td>
+</tr>
+</tbody>
+</table>
+
+## 注意点
+
+  - 以前は自動契約で付加されていた電話帳お預かりサービス（現：[ケータイデータお預かりサービス](https://ja.wikipedia.org/wiki/ケータイデータお預かりサービス "wikilink")）は、初期設定で契約日の翌日に電話帳をセンターに転送するシステムになっており、手動設定に変更を行わなければ、定期的に変更部分が自動転送されパケット代が発生する。
+      - 電話帳預かりサービスが不要な場合は、2in1契約後すぐに端末より自動転送停止を選択する必要がある（端末より操作可能）。
+      - 2008年3月3日に提供条件が変更されており、それ以降に2in1を申し込んだ場合は電話帳お預かりサービスの契約は任意となっている。
+      - 2009年7月21日に開始された、[ドコモ ケータイ送金の利用時は](https://ja.wikipedia.org/wiki/ドコモ_ケータイ送金 "wikilink")、Bモードで操作している場合であってもAモード側の番号（または、Aモード側のユーザNo.）が相手側に通知される。
+  - Bモード側の番号では[SMSの受信はできるが](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")、送信はできない。
+  - 新料金プラン「カケホーダイ&パケあえる」では2in1は非対応なる。
+
+## 対応機種
+
+  - [対応機種 | サービス・機能 | NTTドコモ](http://www.nttdocomo.co.jp/service/communication/2in1/compatible_model/index.html)を参照。
+
+## スマートフォンと2in1
+
+2013年7月現在、2in1に公式に対応した[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")は発売されていない。 またドコモは、スマートフォンでも2in1は契約できるものの、[spモード](https://ja.wikipedia.org/wiki/spモード "wikilink")でBアドレスは使用できないとしている\[3\]。
+
+[2013年](../Page/2013年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")のドコモの株主総会において、スマートフォンで2in1を利用したいという要望があげられた。これに対し、ドコモはAndroidの仕様上複数の番号やアドレスを扱うことが困難なため、実現の目処が立っていない旨の回答をしている\[4\]。
+
+しかし、非公式で自己責任においての利用となるが、擬似的な環境を構築できることが報告されている\[5\]。ただし、以下のような制限がある。
+
+  - A・Bナンバーのどちらに着信したかは判別できず、A・Bモードのように一方のみを着信させることはできない (常時デュアルモードのような状態)
+  - Bナンバーで発信するには、発信したい番号の末尾に「\*593\#+」を入力しなければならない。ただし、この方法でも機種やOSのバージョンによっては発信できないことがある。[Android](https://ja.wikipedia.org/wiki/Android "wikilink")系のスマートフォンであれば、発信時に非公式アプリのABPhone\[6\]や2in1 Dialer\[7\]を使うとこの操作が自動で行われる。
+  - メールアドレスを2つ利用するには[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")契約を残した上で、有料の[spモード](https://ja.wikipedia.org/wiki/spモード "wikilink")と[iモード.net](https://ja.wikipedia.org/wiki/iモード.net "wikilink")に契約しなければならないため、割高になる
+  - 上記に関連して、iモード.netの初期設定のため、一時的にiモード対応の携帯電話が必要である (大きさの関係でスマートフォンのSIMカードをそのまま従来の携帯電話に使えない場合もあるので注意が必要)
+
+## 脚注
+
+## 関連項目
+
+  - [ドコモWebメール](https://ja.wikipedia.org/wiki/ドコモWebメール "wikilink")
+  - [DoCoMo2.0](https://ja.wikipedia.org/wiki/DoCoMo2.0 "wikilink")
+  - [公私分計サービス](https://ja.wikipedia.org/wiki/公私分計サービス "wikilink") - 用途別集計サービス
+  - [電話帳お預かりサービス](https://ja.wikipedia.org/wiki/電話帳お預かりサービス "wikilink")
+  - [マルチナンバー](https://ja.wikipedia.org/wiki/マルチナンバー "wikilink") - NTTドコモの音声のみ付加番号を付与できるサービス。
+  - [ダブルナンバー](https://ja.wikipedia.org/wiki/ダブルナンバー "wikilink") - ソフトバンクモバイルの同種サービス
+  - [DUAL SIM](https://ja.wikipedia.org/wiki/DUAL_SIM "wikilink")
+
+## 外部リンク
+
+  - [NTTドコモ｜サービス・機能｜2in1](http://www.nttdocomo.co.jp/service/communication/2in1/index.html)
+
+[Category:携帯電話_(NTTドコモ)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(NTTドコモ\) "wikilink") [Category:携帯電話の料金システム](https://ja.wikipedia.org/wiki/Category:携帯電話の料金システム "wikilink")
+
+1.  90x、70xシリーズ、F-04A以前、N-05A以前、P-06A以前、SH-04A以前
+2.  [ひとりでも割](https://ja.wikipedia.org/wiki/ひとりでも割 "wikilink")、[ファミ割MAX50](https://ja.wikipedia.org/wiki/ファミ割MAX50 "wikilink")、[オフィス割MAX50](https://ja.wikipedia.org/wiki/オフィス割MAX50 "wikilink")適用の場合
+3.  [スマートフォン向けISP「spモード」の提供を開始](http://www.nttdocomo.co.jp/info/news_release/2010/08/27_00.html)
+4.  [NTTドコモ、株主総会で2013年冬モデルのバッテリー駆動時間目標に言及](http://www.itmedia.co.jp/mobile/articles/1306/18/news105.html)
+5.  [ドコモの2in1をスマートフォンで使う方法](http://smartphone.o-84.com/about/docomo-2in1-65/)
+6.  [docomo 2in1発信対応スマートフォンアプリ ABPhone 登場](http://mackysoft.homeunix.com/abphone.html)
+7.  [2in1電話発信アプリ『2in1Dialer』公開](http://www.tknology.org/?p=51)

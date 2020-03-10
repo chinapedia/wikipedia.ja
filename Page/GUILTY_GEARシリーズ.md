@@ -1,0 +1,452 @@
+> この記事は[GUILTY GEAR](https://ja.wikipedia.org/wiki/GUILTY_GEAR)から翻訳されています。
+
+
+**GUILTY GEARシリーズ**（ギルティギアシリーズ）は、[アークシステムワークス](https://ja.wikipedia.org/wiki/アークシステムワークス "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から製作を行っている2D[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")シリーズ（後に3Dも展開した）である。略称は「**ギルティ**」「**GG**」など。格闘ゲームの中でも、早期にアニメのようなキャラクター重視の世界観を提唱したシリーズである。
+
+第1作は自社で販売し、ゼクス以降は[サミー](https://ja.wikipedia.org/wiki/サミー "wikilink")が販売元となっていたが、経営統合によりセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）に移管された。現在はアークシステムワークスの自社ブランドでの販売を行っている。
+
+なお、作品によってはピックパック・エアリアルが開発に関わっている\[1\]。
+
+※用語や詳細なゲームシステムについては、[GUILTY GEARの用語集を参照](https://ja.wikipedia.org/wiki/GUILTY_GEARの用語集 "wikilink")。
+
+## 概要
+
+キャラクターを前面に出した[ファンタジー](../Page/ファンタジー.md "wikilink")系の世界観、派手なビジュアル、痛快な[コンボシステム](https://ja.wikipedia.org/wiki/コンボ_\(ゲーム\) "wikilink")、[ハードロック](../Page/ハードロック.md "wikilink")・[メロディックスピードメタル](https://ja.wikipedia.org/wiki/メロディックスピードメタル "wikilink")風のサウンドなど、往年の格闘ゲームには見られなかった要素を含むことで多くのファンを獲得し、日本国外にまで進出するヒットシリーズとなる。なお、物語は「[魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")の理論化により発生した紛争から生み出された生命体『ギア』を巡る多くの人々の戦い」を一貫して描いている。
+
+開発のトップを務めるゼネラルディレクター・[石渡太輔](https://ja.wikipedia.org/wiki/石渡太輔 "wikilink")は、システム・シナリオ・デザイン・BGM・ボイスキャストと大部分に関与している。そのため、キャラクター名や技名は石渡の趣味である[ハードロック](../Page/ハードロック.md "wikilink")や[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")のバンド名やプレイヤー名に由来するものが多い。
+
+### シリーズの歴史
+
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に第1作『[GUILTY GEAR](../Page/GUILTY_GEAR.md "wikilink")』が[PlayStationで発売](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。対戦型格闘ゲームとしては多くのゲームシステムを盛り込み、その多くが他作品に影響を受けたものだったが、独自の世界観や美術、ゲームシステムは対戦型格闘ゲームの新たな可能性を感じさせるに足るものであった。
+
+[2000年](../Page/2000年.md "wikilink")には、第2作『[GUILTY GEAR X](https://ja.wikipedia.org/wiki/GUILTY_GEAR_X "wikilink")』がアーケードでリリースされ、前作を進化させた多彩なゲームシステムは対戦型格闘ゲームに新たな旋風を巻き起こし、一躍格闘ゲームの人気シリーズとなった。[2002年](../Page/2002年.md "wikilink")には、第3作『[GUILTY GEAR XX](https://ja.wikipedia.org/wiki/GUILTY_GEAR_XX "wikilink")』を発売。ゲームシステムを洗練し対戦ツールとしての完成度をより高めたこの作品で、シリーズは黄金時代を迎えることとなった。その後は対戦ツールとしての完成度を向上させるため、マイナーチェンジ版を次々と発売した。
+
+その一方、『ISUKA』や『DS』など『XX』のフレームを基にしながらも対戦型格闘ゲームの範疇に留まらない作品を製作し、2014年現在におけるシリーズ唯一の正統続編『[GUILTY GEAR 2 OVERTURE](https://ja.wikipedia.org/wiki/GUILTY_GEAR_2_OVERTURE "wikilink")』では、対戦型格闘ゲームから脱却した3D[アクションゲーム](../Page/アクションゲーム.md "wikilink")と[リアルタイムストラテジー](../Page/リアルタイムストラテジー.md "wikilink")を融合させた「メーレーアクション」という新ジャンルを提唱するなど、シリーズの多様な方向性を示している。
+
+[2013年](../Page/2013年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")、パシフィコ横浜にて開催した「ARC SYSTEM WORKS FESTIVAL」にて、シリーズ完全新作であるアーケードタイトル『[GUILTY GEAR Xrd -SIGN-](https://ja.wikipedia.org/wiki/GUILTY_GEAR_Xrd_-SIGN- "wikilink")』が発表された。全てを一新し、ステージ背景やキャラクターが3Dとなっている。アーケード版は[2014年](../Page/2014年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に稼働。
+
+ゲーム内の設定は初代が「[BASTARD\!\! -暗黒の破壊神-](../Page/BASTARD!!_-暗黒の破壊神-.md "wikilink")」の影響を受けつつ独自の要素が組まれ、その後「X」や「XX」等の外伝作品、ドラマCDや小説などの他媒体での展開。一気に時系列が進む続編となる「2」、Xrdでの脅威に対抗するための準備を描く「ヴァステッジ」で設定がさらに壮大になり、「Xrd」でこれらを整理・統合・一部取捨する形で続いている。一部取捨と記述しているのは、「XX」が石渡太輔が携わってないシリーズであるため、設定面でぶれが生じているためである。
+
+## 格闘ゲームとしての特徴
+
+特殊なシステムを数多く持ち、それらを駆使することで自由度の高い攻防を展開できるが、その弊害としてシステムの把握に時間がかかるため、2D対戦型格闘ゲーム初心者にとってはハードルが高いことでも知られる。
+
+牽制技で主導権を取り合う、いわゆる「差し合い」より重点が攻めることに置かれている点が、本シリーズの大きな特徴である。特に相手の起き上がりを攻める「起き攻め」\[2\]に顕著に現れており、起き攻めのパターンが非常に豊富かつそこからの連続技が強力。中には1回の起き攻めで体力の半分以上を奪うものがあるため、立ち回りなど他の要素が弱くても起き攻めが強いだけでキャラクターの評価が上がることもある。
+
+キャラクター間におけるバランスは、シリーズによってバラつきがあるため、一概には決められない。差が無いというわけではなく、むしろキャラクターの性能による相性が重要になっている。例えば、近距離での攻めに強いポチョムキンは接近戦を挑む必要があるチップに有利ではあるが、逆に小回りがきかないために遠距離戦重視のアクセルは非常に辛い。しかし、前述の起き攻めやシステムの利用により、下位とされているキャラクターでも上位キャラクターに勝つことは充分に可能である。
+
+## 作品一覧
+
+  - [GUILTY GEAR](../Page/GUILTY_GEAR.md "wikilink")（[PS](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")・[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[PSP](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")・[PS Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")）
+  - [GUILTY GEAR X](https://ja.wikipedia.org/wiki/GUILTY_GEAR_X "wikilink")（[AC](../Page/アーケードゲーム.md "wikilink")・[DC](../Page/ドリームキャスト.md "wikilink")・[PC](../Page/パソコンゲーム.md "wikilink")）
+      - [GUILTY GEAR X ver1,5](https://ja.wikipedia.org/wiki/GUILTY_GEAR_X#GUILTY_GEAR_X_ver1,5 "wikilink")（AC）
+      - GUILTY GEAR X PLUS（[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+      - GUILTY GEAR X ADVANCE EDITION（[GBA](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")）
+  - [GUILTY GEAR XX](https://ja.wikipedia.org/wiki/GUILTY_GEAR_XX "wikilink")（AC・PS2）
+      - [GUILTY GEAR XX \#RELOAD](https://ja.wikipedia.org/wiki/GUILTY_GEAR_XX#GUILTY_GEAR_XX_.23RELOAD_.5BThe_Midnight_Carnival.5D "wikilink")（AC・PS2・[Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")・PSP・PC）
+      - [GUILTY GEAR XX SLASH](https://ja.wikipedia.org/wiki/GUILTY_GEAR_XX#GUILTY_GEAR_XX_.2F_-SLASH-_.5BThe_Midnight_Carnival.5D "wikilink")（AC・PS2）
+      - [GUILTY GEAR XX Λ CORE](https://ja.wikipedia.org/wiki/GUILTY_GEAR_XX#GUILTY_GEAR_XX_.CE.9B_CORE_-ACCENT_CORE- "wikilink")（AC・PS2・[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")）
+      - [GUILTY GEAR XX Λ CORE PLUS](https://ja.wikipedia.org/wiki/GUILTY_GEAR_XX#GUILTY_GEAR_XX_.CE.9B_CORE_PLUS "wikilink")（PS2・PSP・PS3・[Xbox 360](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")）
+      - [GUILTY GEAR XX Λ CORE PLUS R](https://ja.wikipedia.org/wiki/GUILTY_GEAR_XX#GUILTY_GEAR_XX_.CE.9B_CORE_PLUS_R "wikilink")（AC・PS Vita・PC）
+  - [GUILTY GEAR ISUKA](https://ja.wikipedia.org/wiki/GUILTY_GEAR_ISUKA "wikilink")（AC・Xbox・PS2・PC）
+  - [GUILTY GEAR 2 OVERTURE](https://ja.wikipedia.org/wiki/GUILTY_GEAR_2_OVERTURE "wikilink")（Xbox 360・PC）
+  - [GUILTY GEAR Xrd -SIGN-](https://ja.wikipedia.org/wiki/GUILTY_GEAR_Xrd_-SIGN- "wikilink")（AC・PS3・[PS4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")・PC）
+      - [GUILTY GEAR Xrd -REVELATOR-](https://ja.wikipedia.org/wiki/GUILTY_GEAR_Xrd_-SIGN-#GGXrdR "wikilink")（AC・[PS4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")・PC)
+      - [GUILTY GEAR Xrd REV 2](https://ja.wikipedia.org/wiki/GUILTY_GEAR_Xrd_REV_2 "wikilink")（AC・[PS4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")・PC)
+  - GUILTY GEAR PETIT ([WS](../Page/ワンダースワン.md "wikilink"))
+  - ギルティギア プチ2（WS）
+  - [GUILTY GEAR JUDGMENT](https://ja.wikipedia.org/wiki/GUILTY_GEAR_JUDGMENT "wikilink")（PSP）
+  - GUILTY GEAR Dust Strikers（[DS](../Page/ニンテンドーDS.md "wikilink")）
+
+なお、複数機種に移植されている作品は、単なる移植ではなくモード追加などを行っている場合も多い。
+
+1.  コンパスにはコラボキャラとして参戦している。
+
+## その他のシリーズ解説
+
+本項では携帯機などで発売されている、GUILTY GEARの『PETIT』シリーズ、『Dust Strikers』について解説する。そのほかの作品については作品ごとの個別記事を参照されたい。
+
+### GUILTY GEAR PETIT
+
+[2001年](../Page/2001年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")、[ワンダースワンカラー](https://ja.wikipedia.org/wiki/ワンダースワンカラー "wikilink")版発売。
+
+システムこそ従来のシリーズとは大差が無いものの、キャラクターの頭身がSDとなっている。また今までのキャラクターの他にプチのオリジナルキャラクターである[ファニーも登場する](https://ja.wikipedia.org/wiki/ファニー_\(GUILTY_GEAR\) "wikilink")。また翌年9月には続編に当たる『**GUILTY GEAR PETIT 2**』（ギルティギア プチ 2）も出た。
+
+キャラクターデザインは、『1』・『2』いずれも岩崎恵美子が担当している。
+
+### GUILTY GEAR PETIT 2
+
+[2001年](../Page/2001年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")、[ワンダースワンカラー](https://ja.wikipedia.org/wiki/ワンダースワンカラー "wikilink")版発売。
+
+キャラクターデザインは、「GUILTY GEAR PETIT」と同じく岩崎恵美子が担当。キャラやモードの追加。
+
+### GUILTY GEAR DS（Dust Strikers）
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")版発売。
+
+2画面を生かした縦に長いステージ、無線通信による4人対戦に対応している。ストーリーは『GGXX』より少し後の話で、「あの男」が製作した暴走ギア「GIG」を巡る内容になっている。
+
+格闘ゲームというよりは、『大乱闘スマッシュブラザーズ』や『ジャンプスーパースターズ』のような[対戦アクション](https://ja.wikipedia.org/wiki/対戦アクション "wikilink")といった作りになっている。
+
+## 登場キャラクター一覧
+
+メインキャラクターの詳細はそれぞれの人物記事を参照。
+
+### メインキャラクター
+
+  - [ソル=バッドガイ](https://ja.wikipedia.org/wiki/ソル・バッドガイ "wikilink")(Sol Badguy)/[聖騎士団ソル](../Page/聖騎士団ソル.md "wikilink")(Order Sol)/フレデリック＝バルサラ(Frederic Balsara)
+  - [カイ=キスク](https://ja.wikipedia.org/wiki/カイ・キスク "wikilink")(Ky Kiske)
+  - [メイ](../Page/メイ_\(GUILTY_GEAR\).md "wikilink")(May)
+  - [ミリア=レイジ](../Page/ミリア・レイジ.md "wikilink")(Millia Rage)
+  - [ザトー＝ONE](../Page/ザトー＝ONE.md "wikilink")(ZATO=One)/エディ(Eddie)
+  - [ポチョムキン](../Page/ポチョムキン_\(GUILTY_GEAR\).md "wikilink")(Potemkin)
+  - [チップ=ザナフ](../Page/チップ・ザナフ.md "wikilink")(Chipp Zanuff)
+  - [アクセル=ロウ](../Page/アクセル・ロウ.md "wikilink")(Axl Low)
+  - [クリフ＝アンダーソン](../Page/クリフ・アンダーソン.md "wikilink")(Kliff Undersn)
+  - [テスタメント](https://ja.wikipedia.org/wiki/テスタメント_\(GUILTY_GEAR\) "wikilink")(Testament)
+  - [ジャスティス](../Page/ジャスティス_\(GUILTY_GEAR\).md "wikilink")(Justice)
+  - [梅喧](../Page/梅喧.md "wikilink")（ばいけん - Baiken）
+  - [ファウスト](../Page/ファウスト_\(GUILTY_GEAR\).md "wikilink")(Faust)/[Dr.ボルドヘッド](https://ja.wikipedia.org/wiki/Dr.ボルドヘッド "wikilink")(Dr.Baldhead)
+  - [蔵土縁紗夢](../Page/蔵土縁紗夢.md "wikilink")（クラドベリ ジャム - Jam Kuradoberi）
+  - [ジョニー](../Page/ジョニー_\(GUILTY_GEAR\).md "wikilink")(Johnny)
+  - [御津闇慈](../Page/御津闇慈.md "wikilink")（みと あんじ - Anji Mito）
+  - [ヴェノム](../Page/ヴェノム_\(GUILTY_GEAR\).md "wikilink")(Venom)
+  - [ディズィー](../Page/ディズィー.md "wikilink")(Dizzy) / 木陰の君（こかげのきみ）
+  - [ファニー](https://ja.wikipedia.org/wiki/ファニー_\(GUILTY_GEAR\) "wikilink")(Fanny)
+  - [スレイヤー](../Page/スレイヤー_\(GUILTY_GEAR\).md "wikilink")(Slayer)
+  - [イノ](../Page/イノ_\(GUILTY_GEAR\).md "wikilink")(I-no)
+  - [ザッパ](../Page/ザッパ_\(GUILTY_GEAR\).md "wikilink")(Zappa)
+  - [ブリジット](../Page/ブリジット_\(GUILTY_GEAR\).md "wikilink")(Bridget)
+  - [ロボカイ](../Page/ロボカイ.md "wikilink")(Robo-Ky)/ロボカイII(Robo-Ky II)
+  - [アバ](../Page/アバ_\(GUILTY_GEAR\).md "wikilink")(A.B.A)
+  - シン(Sin) / [シン=キスク](https://ja.wikipedia.org/wiki/シン・キスク "wikilink")(Sin Kiske)
+  - [レイヴン](https://ja.wikipedia.org/wiki/レイヴン_\(ギルティギア\) "wikilink")(Raven)
+  - [ベッドマン](https://ja.wikipedia.org/wiki/ベッドマン "wikilink")(Bedman)
+  - [ラムレザル=ヴァレンタイン](https://ja.wikipedia.org/wiki/ラムレザル＝ヴァレンタイン "wikilink")(Ramlethal Valentine)
+  - [エルフェルト=ヴァレンタイン](https://ja.wikipedia.org/wiki/エルフェルト＝ヴァレンタイン "wikilink")(Elphelt Valentine)
+  - [レオ=ホワイトファング](https://ja.wikipedia.org/wiki/レオ・ホワイトファング "wikilink")(Leo Whitefang)
+  - [ジャック・オー](https://ja.wikipedia.org/wiki/ジャック・オー "wikilink")(Jack-O')
+  - [琴慧弦](https://ja.wikipedia.org/wiki/琴慧弦 "wikilink")（クム ヘヒョン - Kum Haehyun）
+  - [アンサー](https://ja.wikipedia.org/wiki/アンサー_\(GUILTY_GEAR\) "wikilink")(Answer)
+
+### 『2』のマスター
+
+  - [イズナ](https://ja.wikipedia.org/wiki/イズナ_\(ギルティギア\) "wikilink")(Izuna)
+  - [Dr.パラダイム](https://ja.wikipedia.org/wiki/Dr.パラダイム "wikilink")(Dr.Paradigm)
+  - [ヴァレンタイン](https://ja.wikipedia.org/wiki/ヴァレンタイン_\(ギルティギア\) "wikilink")(Valentine)
+
+### サブキャラクター
+
+#### ソル（フレデリック）の関係者
+
+  - あの男(That Man) / ギアメーカー(GEAR MAKER) / 飛鳥=R=クロイツ
+    初出は『GGXX』（名前だけなら『GG』のカイEDにて既出）。声優は[増谷康紀](https://ja.wikipedia.org/wiki/増谷康紀 "wikilink")（『GGXX』ストーリーモード）、[杉田智和](https://ja.wikipedia.org/wiki/杉田智和 "wikilink")（『GG2』以降）。ソルをギアに改造し、ジャスティスを始めほぼ全てのギアを生み出した物語の黒幕でソルの宿敵。本名や素顔などの一切が謎に包まれている。[シルエット](https://ja.wikipedia.org/wiki/シルエット "wikilink")を中心に描写されていたが、『GG2』以降は子供の姿で登場している。『GG2』後半で、ソルに子供の姿を指摘された時には「大人のままじゃ駄目みたいなんだ」という主旨の言葉を返している。
+    従者であるイノやレイヴン達と同様、時間を超越した存在。だが、その本質はあくまで人間であり、若返る事が出来る機械で、命を繋いでいるらしい（アクセルとも同じと言える存在＝因果律干渉体）とされてきたが、アクセルがタイムトラベル（時間旅行）をしているのに対して、彼自身のタイムトラベルの描写がない。
+    贖罪的な口調で語りかけるその台詞には意味深な物が多く、「ギアはギアを超え人は人を超えねばならない」という発言を残している。ディズィーに対しては「自らの思惑を超えた世界の希望である」と発言して、彼女は他のギアとは違う特別な存在であると示唆している。
+    『GGXrdS』ストーリーモードでは元老院を相手にソルと共闘。「ゆりかご」撃破の立役者となる。その後ゆりかごの中から現れたジャスティスに対処しようとするも[ベッドマン](https://ja.wikipedia.org/wiki/ベッドマン "wikilink")に阻まれどこかへ連れ去られてしまう。
+    『GGXrdR』にて、本名とその姿が明かされた。アーケード版オープニングでは、ベッドマンにより何らかの処置を施されて「抜け出せない」状態となっており、「エルフェルトとジャスティスが融合したらすべて終わりだ」と融合を阻止すべく、ジャック=オーの早期覚醒を判断した。
+    『GGXrdR rev2』のアフターストーリーでは、本名が判明したため、名前の表記が今までの『あの男』から『飛鳥』となっている。
+  - アリア
+    ソルと「あの男」のかつての研究仲間であり、ソルの恋人であった女性。ジャスティスの素体でもある。当時の医療水準では治療不可能な死病を患い、フレデリックからは「治療法発見まで冷凍睡眠する」という対処法を提示されるも、冷凍睡眠に入ればフレデリックと同じ時間を共有できなくなり置いて行かれてしまうという理由から頑なに拒んでいた。
+
+#### ジェリーフィッシュ快賊団団員
+
+  - エイプリル
+    声優は[緒川ゆみこ](https://ja.wikipedia.org/wiki/桜庭わかな "wikilink")、Xrdから[磯村知美](../Page/磯村知美.md "wikilink")。青いバンダナ（『Xrd』では水兵帽）を付けている少女。舵を手に持っている。メイとは親友の間柄で仲が良い。メイの勝利ポーズには必ず登場している。名前の由来は「四月（April）」より。
+  - リープ
+    エプロンを着た中年の女性。団の料理長を勤めている。愛称は「リープおばさん」。名前の由来は「閏年（leap year）」より。
+
+#### その他の関係者
+
+  - クロウ
+    声優は[安元洋貴](https://ja.wikipedia.org/wiki/安元洋貴 "wikilink")。終戦管理局に所属する技術者で、ロボカイの開発者でもある。『GUILTY GEAR XX Λ CORE PLUS』ストーリーモードにのみ登場してプレイヤーの前に立ちはだかるが、彼自身と直接戦う事は無い。やたらと英語を混ぜたがる口調と常に飄々としている人を食った性格と雰囲気だが、命令を聞かないロボカイの性格と発言に手を焼いておりツッコミを入れるなど、苦労人な一面もある。また紗夢から無理やり気絶させられ彼女の店へ誘拐される、紗夢とロボカイと共にアクセルのタイムスリップに巻き込まれるなど、コミカルな描写も目立つ。しかし試作型とはいえジャスティスのコピーロボットや通称ロボムキンと呼ばれるPシリーズを作ったなど、技術者としての腕や頭脳は確かである（ただしファウスト曰く「医者としては優秀だが、学者としては三流」）。
+    その正体は謎に包まれているが、ジョニーや雲長博文、ファウスト、闇慈、梅喧たちとどこかで出会ったようで、本名は「**郭羽九郎（くるわば くろう）」**」というジャパニーズであり、さらにジョニー曰く「死んだと聞かされていた」らしい。しかし本人は真っ向否定し「（人の顔を覚えるのは苦手と前置きしたが）面識がない」「そのような名前ではなく別人」だと発言している。過去、多少ながら面識を持っていた雲長博文によって次元牢に叩き込まれたことがあり、梅喧から「ジャパニーズの面汚し」と罵倒されている。また「終戦管理局支部長」と名乗っているが、その実下っ端で上には逆らえないらしい。
+    本人は外での活動をほとんどしておらず、機器の開発や操作を始めとした作業に勤しんでいることが多いためか「運動不足」であることを語っている。
+    終戦管理局からジャパニーズの回収を命じられているが、本人はギアと人間のハーフであるディズィーに興味と執念を持っている。なお、ディズィーのバッドエンドでは彼女がクロウに囚われ、彼の手で複数のクローンを生み出されることになる。
+
+<!-- end list -->
+
+  - 元老院（げんろういん）
+    初出は『パチスロ ギルティギア ヴァステッジ』（名前だけなら『GG2』にて既出、ゲームでは『GGXrd』から）。
+
+    正式名称「国際連合元老院」。メンバーは4人。聖皇庁の最高顧問であり、イリュリア連王国の陰の支配者でもある。
+
+    カイに王位を与え、ザトーを蘇生させた張本人かつ、事の大元を引き起こした存在の一派。
+
+    「あの男」と同じく当該シリーズの背景裏で暗躍しており、いわば黒幕に当たる集団。
+
+    『ヴァステッジ』でバルディウスがソルとの戦闘で死亡。以降、元老院の一席が空席となる。
+
+    『GGXrdS』ではアーケードモードクリア時におけるエンドクレジット直後のムービーにて、更なる野望を口にしている。
+
+    『GGXrdS』ストーリーモードでは「ゆりかご」を使いジャスティスの復活に着手。イリュリアでのソル達との戦闘の末に敗北した。
+
+  - ; バルディウス
+
+      -
+        元老院の一員。『パチスロ ギルティギア ヴァステッジ』におけるボス。禁呪によって既に人としての姿を逸脱しており、仮面を取ると異形の姿に変貌し、ザトーが所有していた影を操る能力を持つ。アウトレイジの一部である「閃牙」を所有しており、GG2の事件である「パプテスマ13」以降に脅威に備えて封炎剣の強化のためアウトレイジのパーツを回収するソル一行に対して、元老院の計画の障害と認識し徹底抗戦を仕掛ける。最終的に異形の戦闘状態でソルと対峙するが敗北し、死亡する。
+
+  - ; クロノス
+
+      -
+        元老院の一員でリーダー格。ジャスティスと融合しようとするもソルらの作戦の前に敗北。リブライアに助けられ、元老院で唯一生き残る。その後はファウストとの会話で真の黒幕の存在に気付き、共に調査を行うことになる（そこから元老院がイリュリアを手放したかどうかは不明）。
+
+  - ; アクソス
+
+      -
+        元老院の一員。イリュリアでの戦闘でカイを射殺するも、ギアの力で復活したカイに返り討ちにあった。
+
+  - ; リブライア
+
+      -
+        元老院の一員で紅一点。敗北したクロノスの身代わりになり死亡。
+
+<!-- end list -->
+
+  - ガブリエル
+    初出は『GUILTY GEAR』。声優は[菅生隆之](https://ja.wikipedia.org/wiki/菅生隆之 "wikilink")(Xrd)。軍事国家ツェップで[クーデター](../Page/クーデター.md "wikilink")を起した元[将軍](../Page/将軍.md "wikilink")であり、現在はツェップ共和国大統領として活動している。GGX以降でポチョムキンが勝利した後に彼方から飛んでくる黒髭の男である。クーデターを起す前は当初の叛逆を気づかれないよう軍国主義者を装って冷血非道に振舞っていた。そのため部下であるポチョムキンも当初はガブリエルを嫌悪していたが、後に全てクーデターで平和自治を唱えるための演技であったことを知ると、一転してポチョムキンから絶対的な忠誠を得ることになる。
+    スレイヤー・ソルとは旧知の仲で互いに何度も本気で拳を交えており、「私に挑むならまず、ヤツ（ガブリエル）を超えてもらいたいものだ」という戦闘前の専用台詞から、ポチョムキンより遥かに強い存在であることが伺える（ディレクターの石渡曰く、人類最強の人物とのこと）。
+
+<!-- end list -->
+
+  - ヴァーノン
+    初出は『GGXrdR』。ストーリーモードのみに登場。A国の大統領であり、黒色系の初老の男性。見た目によらず強かで計算高く、自分や自国を有利な状況へ導くためなら何でも行なう策士である。
+    各公的機関に顔が利く人物であり、イリュリア連王国の各王とも面識があるがその交流の範囲は公の組織だけに止まらず、ジェリーフィッシュ快賊団のリーダーであるジョニーとも交流を深めている。
+    『胡蝶と疾風』に登場した、A国大統領を務める少女「エリカ」の後任として、その職に就いていることが明かされている。
+
+<!-- end list -->
+
+  - ダレル
+    初出は『GGXrdR』。声優は[岩澤俊樹](https://ja.wikipedia.org/wiki/岩澤俊樹 "wikilink")。ストーリーモードのみに登場。イリュリア連王国第三連王。第一連王のカイや第二連王のレオと並びイリュリア連王国を統治している。
+    あらゆる物事や事象に対して常に冷静沈着に対処することを前提としており、行動においては機械的な見解を見せている上に相手に対しても冷徹な言動で接することが多い。また、知略家であり、感情よりも理詰めで事を見ている為にカイやレオとは歩調が合わない面を見せており、特にレオに対しては折り合いが付かないことが目立っている。
+
+<!-- end list -->
+
+  - ランディ
+    初出は『GGXrdR』。ストーリーモードのみに登場。ザッパの同僚で彼と同じく[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")の片隅で[公務員](https://ja.wikipedia.org/wiki/公務員 "wikilink")として勤務している。
+    元は[ハッカー](../Page/ハッカー.md "wikilink")で、世間を騒がせるレベルの事件を起こしていた事からそこそこ高めのランクの犯罪者としてマークされていたが、逮捕時に政府からその腕前を買われて釈放され、公的機関の情報監理に関する業務を請け負う部署に所属するも、フィンランドの支局へ異動させられ現在に至る。
+    当人にとって今の生活はあまりに退屈らしく、隙さえあれば[ハッキング](https://ja.wikipedia.org/wiki/ハッキング "wikilink")を行おうとしているが、その都度ザッパに窘められることが多いためか実現に至らずにいる。
+
+### 限定ラストボス
+
+  - レオパルドン（Leopaldon）
+    『GUILTY GEAR ISUKA』のラストボス。アーケード版ではCPU専用。本来は白く巨大なギアだが、現在は茶色の雌犬を捕食し在半融合状態にある。行動不能のはずであるが、ギアの操縦能力を持つ謎の男「ソーサラー」によって操縦されている。ソーサラー自身に悪意は無く、極地で暮らす人々のためにギアの能力を役立てているようである。『ISUKA』のみのボスキャラクターで、すさまじい性能を誇る。
+
+  - 必殺技
+    ;超ハイタッチ\!
+
+      -
+        片腕を振り上げるようにして攻撃する。
+
+  - ;リバースリバー
+
+      -
+        口の中から、魚のような物を吐き出す。魚がヒットした相手（同キャラ戦でのレオパルドンや気絶中を除く）は気絶する。
+
+  - ;超お手
+
+      -
+        地面から白い板のようなものを3回出す。
+
+  - ;パーフェクトレインボウ
+
+      -
+        口から水色のレーザーのようなものを出す。
+
+  - ;キラーノート（Lv1）
+
+      -
+        赤い筋の入った黒い大きな玉を飛ばす。
+
+  - ;キラーノート（Lv2）
+
+      -
+        赤い筋の入った黒い大きな玉を飛ばし、直後それが2つに分かれる。
+
+  - ;覚醒必殺技
+    ;キラーノート（Lv3）
+
+      -
+        黄色と黒の煙のような物を纏った、赤い筋の入った黒い大きな玉を飛ばす。
+
+  - ;808
+
+      -
+        両手両足を広げ、身の回りに衝撃波のようなものを放つ。
+
+    ステージ：Antarctica
+
+    テーマミュージック：Kill DOG As A Sacrifice To DOG
+
+<!-- end list -->
+
+  - ジャッジメント(JUDGMENT)
+    声優は[出利葉恭行](https://ja.wikipedia.org/wiki/出利葉恭行 "wikilink")。『GUILTY GEAR JUDGMENT』におけるラストボス。南海の孤島「イセネ」の罪無き人々を利用し、「ギア」を超える生体兵器を作る研究をしていた学者・レイモンドが魔界の王「イヌス」の力を手に入れ化身した存在。研究者らしく理知的でキャラの名前や経歴を詳しく知っており、また自分の研究や計算に絶対の自信がある。しかしスレイヤーにマッドサイエンティストと称されるほど、自身の目的のために手段を選ばず、イセネの人々を自分の研究材料としたことを何とも思っていない冷酷さと、自分を神と呼ぶほど傲慢で独善的な性格を持つ。また自分にミスは許されないと発言するなど完璧主義者でもある。
+
+    イヌスに捕食されたが、プレイヤーキャラに倒させイヌスの自我を取り除くことで、レイモンドの自我を侵させずイヌスの力を取り入れることに成功した結果、姿が変わり強大な戦闘能力を手にした。その後新たな異界の王であり地上に君臨する神として、世界を支配するという野望を目論見実行しようとする。聖戦とジャスティスのことをある程度知っているらしく、彼はそのことについて「聖戦の闇を照らすのは正義ではなく審判だ」と語り、自分の野望を阻むプレイヤーキャラを罪人として裁くためバトルを挑んでくる。プレイヤーキャラに倒された後、「イヌスは死んでいるので、レイモンドの精神や自我だけ入っても、生き長らえることも何もできない。その上イヌスが朽ち果て腐っていくことも止められない」と指摘され、自分のミスに気づき笑いながらも結果を認めず、助けを求めながら消滅の末死亡した。
+
+  - ;必殺技
+    ;アブソリュート・パニッシュ
+
+      -
+        多段ヒットする突進技。ヒット時、派生がある。
+
+  - ;ルイナス・ペイン
+
+      -
+        前方に紫色の巨大な球体を飛ばす飛び道具。球体が画面上にまだあっても繰り返し出せる。
+
+  - ;サブバート・オラクル
+
+      -
+        足元に楕円形～横一直線の炎のフィールドを発生させ、触れた相手にダメージを与える。
+
+  - ;デイティー・プロテクト
+
+      -
+        背中の板で防御体制を取り防御した後、突進で反撃する。しかし、投げは防げない。
+
+  - ;覚醒必殺技
+    ;ラスト・アポカリプス
+
+      -
+        地面から自身の周囲に光の剣を数本繰り出す。本作ではガードがなく当たると大ダメージを受けるので、ジャッジメントの背後に立って回避するしか対処法はない。
+
+<!-- end list -->
+
+  - ギグ(GIG)
+    声優は不明。『GUILTY GEAR DUST STRIKERS』におけるラストボス。「あの男」によって作られたといわれるギア。化け物の下に人間の上半身を無理矢理接合したような姿と、無防備な状態の2形態を持つ。
+
+## メディアミックス展開
+
+ゲーム本編が人気を博した事により、ドラマCD、コミック、小説等でメディアミックス展開がされた（それらの商品に関しては[後述を参照](https://ja.wikipedia.org/wiki/#関連商品 "wikilink")）。
+
+### アニメーション
+
+PS2版『GUILTY GEAR X+』限定版では、約5分間のアニメーションも製作されている。このアニメは欧米へのプロモーションも兼ねていた為、殆どのキャラクターが字幕付きの英語で吹き替えられている。シナリオ担当は[海法紀光](https://ja.wikipedia.org/wiki/海法紀光 "wikilink")。
+
+### ギャラリー
+
+  - 2001～2002年にはゲーム情報誌『[ザ・プレイステーション2](https://ja.wikipedia.org/wiki/ザ・プレイステーション2 "wikilink")』内の連載コーナー「GUILTY GEAR XTACY」にて、石渡ゼネラルディレクター描き下ろしのイラストを公開していた（全7回）。これらのイラストは全て画集に収録されているが、コメントが雑誌に掲載されていたものと全く違う。
+  - 2006年8月からゲーム雑誌『[ゲーマガ](https://ja.wikipedia.org/wiki/ゲーマガ "wikilink")』にて、描き下ろしギャラリーの連載が開始される。
+  - 2007年9月には、初の専門雑誌『ギルティギアマガジン』が刊行される。
+
+### Webラジオ
+
+  - 2006年7月からアークシステムワークス公式HP内にてWebラジオ「ギルティギアのうぇぶらじおかもしれない…」を月2回（第2、第4木曜日）配信した。パーソナリティは石渡ゼネラルディレクター、[鈴木高雄](https://ja.wikipedia.org/wiki/鈴木高雄 "wikilink")、[近藤佳奈子](https://ja.wikipedia.org/wiki/近藤佳奈子 "wikilink")、ゲーム雑誌『[月刊アルカディア](https://ja.wikipedia.org/wiki/月刊アルカディア "wikilink")』のゲームライター・パチが担当している。
+  - 2007年3月から「CAFE DE ARC（カフェ・ド・アーク）」としてリニューアルスタートしている。[東京ゲームショウ](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")2007では、公開収録を実施した。10月11日には「[インプレスTV](https://ja.wikipedia.org/wiki/インプレスTV "wikilink")」内で23日の公開収録の様子が公開される。
+
+### パチスロ
+
+GG2とGGXrdの間をつなぐエピソードを描く。スマートフォン用アプリとしても配信されている。
+
+## 備考
+
+  - 既存の[格闘家](https://ja.wikipedia.org/wiki/格闘家 "wikilink")をベースにしたキャラクターを登場させず、架空の超人達が派手に闘う格闘ゲームと言うコンセプトで企画された。また、世界観は漫画『[バスタード](../Page/BASTARD!!_-暗黒の破壊神-.md "wikilink")』の影響を色濃く受け継いでいる。
+  - ギルティギアシリーズは日本以外にも輸出しているが、その際の音声は日本語で、音楽も原曲のままで統一されている。ただし韓国版だけは例外であり、『[GUILTY GEAR X PLUS](https://ja.wikipedia.org/wiki/GUILTY_GEAR_X "wikilink")』では音声が韓国語になっている。さらに『[GUILTY GEAR XX \#RELOAD](https://ja.wikipedia.org/wiki/GUILTY_GEAR_XX "wikilink")』では日本語・韓国語の音声選択が可能、音楽も[申海チョル](https://ja.wikipedia.org/wiki/申海チョル "wikilink")の手による全曲取り降ろしとなり、2つのステージグラフィックを新たに追加するなど熱の入った移植に仕上がっている。日本ではX-BOX版を使用する際、本体の言語設定を韓国語に設定する事で同様の物を遊ぶ事ができる。
+
+## 関連商品
+
+### 周辺機器
+
+  - FighterStick -GUILTY GEAR XX Custom-
+    ギルティギア専用に開発されたPS2用アーケードスティック。2002年12月12日にPS2版『XX』と並んで、サミーから定価4500円で発売された。1レバー+5ボタン+Startボタンの配置は公式大会などにも採用されている一般的な物である。底部にすべり止め用のゴムがついており、スティックの上面にはキャラクターカットがプリントされている。
+  - FighterPad -GUILTY GEAR XX \#RELOAD Custom-
+    ギルティギア用に開発されたPS2用コントローラー。2003年7月31日にPS2版『\#RELOAD』と並行してサミーからリリースされた。コントローラー右辺部のボタン配置がアーケードスティックを意識した作りとなっており、×、△、○、□ボタンの横にRボタンが割当てられている。
+
+### サウンドトラック
+
+  - ギルティ・ギア オリジナルサウンドコレクション
+    1998年5月21日にコロムビアミュージックエンタテインメントから発売。『GUILTY GEAR』のBGM全27曲を収録、うち1曲はSE集となっている。
+  - ギルティギアX HEAVY ROCK TRACKS The Original Sound Track of Dreamcast\!\!
+    2001年1月17日にファーストスマイル・エンタテインメントから発売。ドリームキャスト版XのBGM全23曲を収録。
+  - ギルティギアX RISING FORCE OF GEAR IMAGE VOCAL TRACKS-SIDE I ROCK YOU\!\!
+    ギルティギアX RISING FORCE OF GEAR IMAGE VOCAL TRACKS-SIDE II SLASH\!\!
+    ギルティギアX RISING FORCE OF GEAR IMAGE VOCAL TRACKS-SIDE III DESTROY\!\!
+    2001年5月16日にファーストスマイル・エンタテインメントから同時発売されたボーカルアレンジCD。楽曲は全て[Lapis Lazuliによる物で](https://ja.wikipedia.org/wiki/きただにひろし "wikilink")、オリジナルソングも発表されている。
+  - ギルティギア XX オリジナルサウンドトラック
+    2002年7月24日にサイトロン・デジタルコンテンツから発売。『XX』シリーズのBGM全37曲を収録した2枚組のサウンドトラック。
+  - ギルティギア・シリーズ ベストサウンドコレクション
+    2003年1月21日にインディペンデントレーベルから発売。『GUILTY GEAR』から4曲、『X』から14曲を厳選収録し、リミックスアレンジ曲を5曲収録。
+  - ギルティギア XX サウンドアライブ
+    2003年3月19日に[ティームエンタテインメント](https://ja.wikipedia.org/wiki/ティームエンタテインメント "wikilink")から発売。『XX』のBGMを担当したA.S.Hが手掛けたライブアルバム。
+  - ギルティギア XX \#RELOAD オリジナルサウンドトラック KOREAN VERSION
+    2003年11月6日にティームエンタテインメントから発売。申海チョルが制作した韓国版『XX』のBGM全48曲を収録した2枚組のサウンドトラック。
+  - ギルティギア イスカ オリジナルサウンドトラック
+    2004年4月21日にティームエンタテインメントから発売。『ISUKA』のBGM全20曲を収録。
+  - ギルティギア XX in LA ボーカルエディション
+    2004年5月19日にティームエンタテインメントから発売。ロスのアーティストが複数参加したボーカルアレンジCD。
+  - ギルティギア XX in NY ボーカルエディション
+    2004年9月23日にティームエンタテインメントから発売。ニューヨークのアーティストが複数参加したボーカルアレンジCD。
+  - ギルティギア サウンドコンプリートBOX
+    2004年11月23日にティームエンタテインメントから発売。CD8枚組に、楽譜やライナーノーツを収録した3000個限定のBOXセット。『GUILTY GEAR』、『X』シリーズ（「HOLY ORDERS?」除く）、『ISUKA』、『XX』シリーズ（『SLASH』まで）のBGMを全て収録。さらに『GUILTY GEAR』のアレンジ10曲を新録し、制作陣の対談なども収録されている。
+
+### 小説
+
+ゼクス関連については[ファミ通文庫](../Page/ファミ通文庫.md "wikilink")から刊行。著者は両作品とも[海法紀光](https://ja.wikipedia.org/wiki/海法紀光 "wikilink")、挿絵は生みの親である石渡ゼネラルディレクターが担当。多くのキャラクターが小説オリジナル衣装で登場。2作品とも外伝ではなく本編に関わるストーリー。
+
+  - 「ギルティギアゼクス 白銀の迅雷」
+    カイが主人公。製薬会社の調査の為、[ロンドン](../Page/ロンドン.md "wikilink")に赴く中、カイはソルと再会する。
+    ソル、カイ、ファウスト、レイヴン、あの男が登場。挿絵だけだがイノもこの小説で初めて登場している。セリフはないが若かりし頃のクリフ、一言だけだがメイも出ている。
+  - 「ギルティギアゼクス 胡蝶と疾風」
+    チップが主人公。A国大統領の少女エリカと出会い、アサシン組織と対立派との攻防戦を開始する。
+    カイ、ポチョムキン、チップ、ファウスト、ヴェノム、ガブリエルが登場。
+
+2018年1月20日に、公式監修のもとで執筆された「BEGIN」が発売された。
+
+  - 「GUILTY GEAR BEGIN」
+    原案・監修・イラスト:石渡太輔。著:根岸和哉。
+    本編前日譚にあたるフレデリック（ソルの人間時代）とあの男の出会いを描く始まりの物語。フレデリック時代の情報は資料等で明かされていたが、詳細な出来事については本作が初めてとなる。
+
+### 漫画
+
+  - ギルティギアXTRA
+    読み方は「エクストラ」。[講談社](../Page/講談社.md "wikilink")の月刊誌『[月刊マガジンZ](https://ja.wikipedia.org/wiki/月刊マガジンZ "wikilink")』に連載（原作:海法紀光、漫画：[隈井章二](https://ja.wikipedia.org/wiki/隈井章二 "wikilink")）。
+    漫画版オリジナルキャラクターである少年「ティール」と少女「瑞葉（ゆずは）」を主軸に置いた物語。「X」と銘打たれているが詳細な時期は不明。
+    主に登場するのはカイ・ポチョムキン・アクセル・闇慈・ガブリエル。また、回想シーンで若き日のクリフも登場している。話の主軸に関わっていないが、ソル・梅喧・紗夢も登場している。
+  - その他
+    「[スタジオDNA](https://ja.wikipedia.org/wiki/スタジオDNA "wikilink")（[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")）」・「ブロスコミックス（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")）」・「ミッシィコミックス（[宙出版](https://ja.wikipedia.org/wiki/宙出版 "wikilink")）」からは、[コミックアンソロジー](https://ja.wikipedia.org/wiki/コミックアンソロジー "wikilink")或いは4コマ漫画が刊行されている。『GG』は[ブロッコリー社から刊行された](../Page/ブロッコリー_\(企業\).md "wikilink")。『[電撃マ王](https://ja.wikipedia.org/wiki/電撃マ王 "wikilink")』2007年6～8月号にて『ΛC』の4コマが、2008年3～5月号にて『GG2』の4コマが掲載されている。
+
+### ドラマCD
+
+ソルの声優が[花田光](https://ja.wikipedia.org/wiki/花田光 "wikilink")に、ボルドヘッドも[塩沢兼人](../Page/塩沢兼人.md "wikilink")から[近藤隆](https://ja.wikipedia.org/wiki/近藤隆 "wikilink")に変更されている。他のキャラは、ゲーム版と同一。
+
+  - 『ギルティギアゼクス ドラマCD Vol.1～2』
+    （小説『白銀の迅雷』から少し経過した後）
+    シナリオ：海法紀光
+    とある見世物小屋で見つかった科学技術を収録したディスクの争奪戦。カイはツェップとソル、ジョニーはアサシン組織と争奪戦を繰り広げる。
+    ソルは、アクセルからディスクの情報を得てコピーディスクを入手し、そのディスクでオリジナルの所在を知った後、処分。本物を処分すべくカイの飛空挺を襲撃する。時間軸はカイがツェップからディスクを奪還した直後。
+    ラジオ番組「[ゲムドラナイト](https://ja.wikipedia.org/wiki/子安・氷上のゲムドラナイト "wikilink")」内のドラマで、放送時にはリスナーからのアンケートによりジョニーが主役の話が放送された。
+    Vol.1には未収録分としてカイを中心においたエピソードを収録。Vol.2ではソルが中心で、Vol.1とリンクしている。
+    Vol.2には外伝「ディズィー&テスタメント」（2人の出会い）が収録されている。
+    登場キャラクターは、ソル・カイ・メイ・ミリア・アクセル・チップ・ポチョムキン・テスタメント・紗夢・ジョニー・ヴェノム・ファウスト・ディズィー。
+  - 『ギルティギア イグゼクス ドラマCD RED, BLACK（紅い戦い）』
+    （聖戦時代の[パラレルワールド](https://ja.wikipedia.org/wiki/パラレルワールド "wikilink")）
+    シナリオ：海法紀光
+    2173年に勃発したローマ会戦を軸に、歴史のターニングポイントをイノの視点で話を進めている。前半はカイが、後半はソルが主役。また、イノの『あの男』との邂逅も描かれている。
+    外伝はザッパの幽霊屋敷体験談「ナイト・オブ・リビング・ドール」(RED)とディズィーの休日「手紙」(BLACK)。他にはキャストのメッセージを収録（イノ役の井上とディズィー役の藤田）。
+    登場キャラクターは、ソル・カイ・メイ・ポチョムキン・Dr.ボルドヘッド・ディズィー・ロボカイ・イノ・ザッパ・あの男・エイプリル。
+  - 『ギルティギア イグゼクス ドラマCD ナイト・オブ・ナイブズVol.1～3』
+    （聖戦末期のアサシン組織）
+    シナリオ：Vol.1海法紀光、Vol.2、3：[小太刀右京](https://ja.wikipedia.org/wiki/小太刀右京 "wikilink")
+    聖戦末期当時のアサシン組織を描いている。
+    小心で普通の男性であったザトーが、人間としても優れた偉大なリーダーとして描かれているなど、独自の解釈が見受けられる。
+    外伝では、スレイヤーがリスナーを邸宅に招き入れると言う設定でナビゲートを務め、過去に出会った希有な人物達を語り継ぐ。
+    登場キャラクターは、ミリア・ザトー・ヴェノム・スレイヤーなど。外伝はロボカイ・A.B.A・アクセル。
+
+## 脚注
+
+## 関連項目
+
+  - [サイエンス・ファンタジー](https://ja.wikipedia.org/wiki/サイエンス・ファンタジー "wikilink")
+  - [ダーク・ファンタジー](https://ja.wikipedia.org/wiki/ダーク・ファンタジー "wikilink")
+  - [GUILTY GEARの用語集](https://ja.wikipedia.org/wiki/GUILTY_GEARの用語集 "wikilink")
+
+## 外部リンク
+
+  - [GuiltyGearx.com（公式Webサイト）](http://www.guiltygearx.com/)
+
+[Category:GUILTY_GEAR](https://ja.wikipedia.org/wiki/Category:GUILTY_GEAR "wikilink")
+
+1.  [作品紹介](https://web.archive.org/web/20041210191707/http://www.picpac.co.jp/web/html/product.html) - ピックパック・エアリアル（インターネットアーカイブ2004年12月10日分キャッシュ）
+2.  対戦型格闘ゲームにおいてダウンを奪った相手の起き上がりを攻める行動のこと。ダウンを奪った側が有利な場面が多いため、立ちガードでしか防げない中段技としゃがみガードでしか防げない下段技の択一攻撃などを迫れる。

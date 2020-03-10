@@ -1,0 +1,59 @@
+> この記事は[NAR](https://ja.wikipedia.org/wiki/NAR)から翻訳されています。
+
+
+**NARグランプリばんえい最優秀馬**は、[NARグランプリ](../Page/NARグランプリ.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門の1つ。
+
+## 概要
+
+NARグランプリ創設当初から、年間の獲得賞金1位馬を対象とする**ばんえい年度代表馬**が設けられていた。その後、1994年より現在と同じ形となり、当該年間に[ばんえい競馬で活躍したばんえい競走馬を対象に表彰を行っている](https://ja.wikipedia.org/wiki/ばんえい競走 "wikilink")。
+
+ばんえい競馬では競走馬や騎手・調教師の記録を開催年度（4月 - 翌年3月）単位で集計しているが、NARグランプリは暦年単位となる。このため、1月から3月に行われた競走は前年度のものとなっている。
+
+## 歴代受賞馬
+
+### ばんえい年度代表馬
+
+| 年                                                       | 受賞馬      | 年度成績 | 主な重賞勝ち鞍 |
+| ------------------------------------------------------- | -------- | ---- | ------- |
+| [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") | タカラフジ    | \-   | \-      |
+| [1991年](../Page/1991年.md "wikilink")                    | ヒカリテンリュウ | \-   | \-      |
+| [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink") | ダイヤテンリュウ | \-   | \-      |
+| [1993年](../Page/1993年.md "wikilink")                    | マルゼンバージ  | \-   | \-      |
+
+### ばんえい最優秀馬
+
+| 年                                                       | 受賞馬                                                           | 年度成績  | 主な重賞勝ち鞍                                                                                                      |
+| ------------------------------------------------------- | ------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------ |
+| [1994年](../Page/1994年.md "wikilink")                    | ダイヤキャップ                                                       | 22戦8勝 | [旭川記念](../Page/旭川記念.md "wikilink")                                                                           |
+| [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") | マルゼンシルバー                                                      | 26戦4勝 | [旭王冠賞](../Page/旭川記念.md "wikilink")、[帯広記念](../Page/帯広記念.md "wikilink")                                        |
+| [1996年](../Page/1996年.md "wikilink")                    | フクイチ                                                          | 23戦6勝 | 帯広記念                                                                                                         |
+| [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") | フクイチ                                                          | 21戦3勝 | [農林水産大臣賞典](../Page/ばんえい記念.md "wikilink")                                                                     |
+| [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") | サカノタイソン                                                       | 6戦6勝  | [銀河賞](../Page/銀河賞.md "wikilink")                                                                             |
+| [1999年](../Page/1999年.md "wikilink")                    | シマヅショウリキ                                                      | 23戦5勝 | [ばんえい記念](../Page/ばんえい記念.md "wikilink")、[北斗賞](../Page/北斗賞.md "wikilink")、[岩見沢記念](../Page/岩見沢記念.md "wikilink") |
+| [2000年](../Page/2000年.md "wikilink")                    | シマヅショウリキ                                                      | 23戦3勝 | ばんえい記念                                                                                                       |
+| [2001年](../Page/2001年.md "wikilink")                    | サカノタイソン                                                       | 14戦9勝 | ばんえい記念                                                                                                       |
+| [2002年](../Page/2002年.md "wikilink")                    | [スーパーペガサス](https://ja.wikipedia.org/wiki/スーパーペガサス "wikilink") | 13戦5勝 | 北斗賞、[北見記念](../Page/北見記念.md "wikilink")、岩見沢記念                                                                 |
+| [2003年](../Page/2003年.md "wikilink")                    | スーパーペガサス                                                      | 22戦8勝 | ばんえい記念、旭王冠賞、北斗賞                                                                                              |
+| [2004年](../Page/2004年.md "wikilink")                    | スーパーペガサス                                                      | 14戦6勝 | ばんえい記念、北斗賞、帯広記念                                                                                              |
+| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") | スーパーペガサス                                                      | 13戦7勝 | 帯広記念、ばんえい記念、旭王冠賞                                                                                             |
+| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") | アンローズ                                                         | 20戦7勝 | 岩見沢記念、北見記念                                                                                                   |
+| [2007年](../Page/2007年.md "wikilink")                    | [トモエパワー](https://ja.wikipedia.org/wiki/トモエパワー "wikilink")     | 25戦3勝 | 帯広記念、ばんえい記念、岩見沢記念                                                                                            |
+| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") | ナリタボブサップ                                                      | 18戦5勝 | 帯広記念、旭川記念、北斗賞                                                                                                |
+| [2009年](../Page/2009年.md "wikilink")                    | [カネサブラック](https://ja.wikipedia.org/wiki/カネサブラック "wikilink")   | 14戦9勝 | 北斗賞、岩見沢記念、北見記念                                                                                               |
+| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") | ニシキダイジン                                                       | 26戦3勝 | ばんえい記念、北見記念                                                                                                  |
+| [2011年](../Page/2011年.md "wikilink")                    | カネサブラック                                                       | 15戦8勝 | ばんえい記念、旭川記念                                                                                                  |
+| [2012年](../Page/2012年.md "wikilink")                    | カネサブラック                                                       | 20戦6勝 | 帯広記念、旭川記念、岩見沢記念                                                                                              |
+| [2013年](../Page/2013年.md "wikilink")                    | カネサブラック                                                       | 6戦2勝  | 帯広記念、ばんえい記念                                                                                                  |
+| [2014年](../Page/2014年.md "wikilink")                    | インフィニティー                                                      | 27戦2勝 | ばんえい記念、[ドリームエイジカップ](https://ja.wikipedia.org/wiki/ドリームエイジカップ "wikilink")                                     |
+| [2015年](../Page/2015年.md "wikilink")                    | キタノタイショウ                                                      | 26戦3勝 | ばんえい記念、北見記念                                                                                                  |
+| [2016年](../Page/2016年.md "wikilink")                    | フジダイビクトリー                                                     |       | ばんえい記念、岩見沢記念、北見記念                                                                                            |
+| [2017年](../Page/2017年.md "wikilink")                    | オレノココロ                                                        |       | ばんえい記念、帯広記念、旭川記念、岩見沢記念                                                                                       |
+| [2018年](../Page/2018年.md "wikilink")                    | オレノココロ                                                        |       | ばんえい記念、チャンピオンカップ、旭川記念、ばんえいグランプリ、ドリームエイジカップ                                                                   |
+| [2019年](../Page/2019年.md "wikilink")                    | センゴクエース                                                       |       |                                                                                                              |
+
+### 受賞についての出典
+
+  - [NARグランプリ](http://www.keiba.go.jp/guide/grandprix/index.html)
+      - [NARグランプリ歴代受賞者一覧](http://www.keiba.go.jp/guide/grandprix/winner-generations.html)
+
+[Category:NARグランプリ](https://ja.wikipedia.org/wiki/Category:NARグランプリ "wikilink") [Category:ばんえい競走](https://ja.wikipedia.org/wiki/Category:ばんえい競走 "wikilink")

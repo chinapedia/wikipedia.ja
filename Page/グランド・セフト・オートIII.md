@@ -1,0 +1,451 @@
+> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+
+
+[Grand_Theft_Auto_III.svg](https://ja.wikipedia.org/wiki/File:Grand_Theft_Auto_III.svg "fig:Grand_Theft_Auto_III.svg") **『グランド・セフト・オートIII』**（グランド・セフト・オートスリー、英名:**Grand Theft Auto III**）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")にある[ロックスター・ゲームズ社](../Page/Rockstar_Games.md "wikilink")（GTAIIIの制作は[スコットランド](../Page/スコットランド.md "wikilink")の[ロックスター・ノース](https://ja.wikipedia.org/wiki/Rockstar_North "wikilink")）から発売された[オープンワールド](https://ja.wikipedia.org/wiki/オープンワールド "wikilink")型[クライムアクションゲーム](https://ja.wikipedia.org/wiki/クライムアクションゲーム "wikilink")である。[グランド・セフト・オートシリーズ](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")の第3作目(メインタイトルでは第3作目、ナンバリングタイトルでも第3作目)にあたる作品である。略称は『**GTAIII**』『**グラセフIII**』。
+
+前作『[グランド・セフト・オート2](https://ja.wikipedia.org/wiki/グランド・セフト・オート2 "wikilink")』などは、[アラビア数字](../Page/アラビア数字.md "wikilink")(『GTAII』とは書かれない)だったが、今作『GTAIII』から、今後のナンバリングタイトルの作品(『[グランド・セフト・オートIV](https://ja.wikipedia.org/wiki/グランド・セフト・オートIV "wikilink")』、『[グランド・セフト・オートV](https://ja.wikipedia.org/wiki/グランド・セフト・オートV "wikilink")』など)は、全て**[ローマ数字](../Page/ローマ数字.md "wikilink")**に、統一された。また、『[GTA](https://ja.wikipedia.org/wiki/グランド・セフト・オート・サンアンドレアス "wikilink")』、『GTA2』は見下ろし型となっていたが、今作から現在のGTAの様に[TPS](https://ja.wikipedia.org/wiki/TPS "wikilink")視点(一部例外あり)となった。今作の[パッケージ](../Page/パッケージ.md "wikilink")の[タイトルロゴ](https://ja.wikipedia.org/wiki/タイトルロゴ "wikilink")は今後のGTAシリーズ、全てに使用されてる事になった。また、次回作から現在まで、『GTAIII』を基本とし、今後のGTAシリーズが構築されていく事になった。
+
+[PS2版は](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、北米版は[2001年](../Page/2001年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に発売され、その後、[2003年](../Page/2003年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")に日本版が発売された。
+
+[PC版は](../Page/パーソナルコンピュータ.md "wikilink")、[2002年](../Page/2002年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")に北米版が発売され、日本版が2003年9月25日とPS2版と同時発売された。
+
+[Xbox版は](../Page/Xbox_\(ゲーム機\).md "wikilink")、2003年[10月31日](https://ja.wikipedia.org/wiki/10月31日 "wikilink")に北米版が発売された。日本版は、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[7月29日](../Page/7月29日.md "wikilink")に発売された。
+
+[PS3](https://ja.wikipedia.org/wiki/PS3 "wikilink")版は、北米版は、[2012年](../Page/2012年.md "wikilink")9月25日に発売されたが、日本版は未定である。
+
+[ios版](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")、[Android](https://ja.wikipedia.org/wiki/Android "wikilink")版は、[2011年](../Page/2011年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に、全世界同時有料配信となった。
+
+## 概要
+
+[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")において[2001年](../Page/2001年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[PlayStation 2で発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。後に[PCや](../Page/パーソナルコンピュータ.md "wikilink")[Xboxにも移植され](../Page/Xbox_\(ゲーム機\).md "wikilink")、世界中で1450万本を売り上げる大ヒット作となった。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも[2003年](../Page/2003年.md "wikilink")秋に[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")より[CERO](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")[レーティング](https://ja.wikipedia.org/wiki/レーティング "wikilink")18歳以上対象ソフトとしてPlayStation 2版とXbox版（続編である[GTA:VCとのセットでのみ](https://ja.wikipedia.org/wiki/グランド・セフト・オート・バイスシティ "wikilink")）が発売され、当時の海外製ゲーム（所謂[洋ゲー](https://ja.wikipedia.org/wiki/洋ゲー "wikilink")）としては異例の30万本、[廉価版](https://ja.wikipedia.org/wiki/廉価版 "wikilink")を含めて40万本のヒットを記録した。
+
+シリーズで初めて3Dシステムを採用している。街全体が[オープンワールド](https://ja.wikipedia.org/wiki/オープンワールド "wikilink")で構築され、前作、前々作に比べ自由度は大幅に向上した。[架空の街](https://ja.wikipedia.org/wiki/ヴァーチャルリアリティ "wikilink")「[リバティーシティ](https://ja.wikipedia.org/wiki/リバティーシティ "wikilink")」の中をプレイヤーが自由に行動できることが人気の要因となった。同時に、[暴力](../Page/暴力.md "wikilink")描写、特に[チート](https://ja.wikipedia.org/wiki/チート "wikilink")を使用することで体がバラバラになる描写が話題となり\[1\]、青少年による暴力や無差別殺人事件を誘発したとして批判され、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")では[有害図書](https://ja.wikipedia.org/wiki/有害図書 "wikilink")に認定されている。
+
+日本版と[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")版は一部表現が規制されたバージョンであるが、しばらくして解除パッチが非公式に出回った。
+
+『GTAIV』や『GTAV』、『[GTACTW](https://ja.wikipedia.org/wiki/グランド・セフト・オート・チャイナタウンウォーズ "wikilink")』とは世界観が全く違う。
+
+発売から10周年を記念して、[2011年](../Page/2011年.md "wikilink")12月にAndroid版、iOS版がリリースされた。
+
+## CEROレーティング制度において
+
+CEROの旧レーティング制度における審査では「18歳以上対象」となっていて、厳密に購入制限されることはなかった。しかし現在施行されているレーティング制度では「CERO:Z（18歳以上のみ対象）」となり購入規制の対象となる。
+
+そのため、現在原則として18歳未満は購入することができない。ただしCEROによる審査を受けていない日本語PC版は購入可能（現在は絶版）。
+
+## 公式チートコード使用時の注意点
+
+### 『GTAIII』公式チートコードについて
+
+[チート](https://ja.wikipedia.org/wiki/チート "wikilink")コードを使用したままゲームをセーブすると、ディスク内容が故障し続行が不可能となるバグが発生する事がある。『[VC](https://ja.wikipedia.org/wiki/グランド・セフト・オート・バイスシティ "wikilink")』以降の[GTAシリーズでセーブをする時](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")「チートコードが使用されています。と表示されるのはこの為。
+
+iOS向けでは**チートコードは使用不可**であるが、Android版は[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")キーボードがあれば、PC版とほぼ同じチートコードが使用できる。
+
+## ゲームシステム
+
+舞台は[2001年](../Page/2001年.md "wikilink")の[米国の架空の大都市](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")「[リバティーシティ](https://ja.wikipedia.org/wiki/リバティーシティ "wikilink")」で、ゲームの進行具合によって三つの島を自由に移動することができるようになる。それぞれ「**ポートランド**」《工業地域》、「**ストートンアイランド**」《商業地域》、「**ショアサイドベイル**」《住居地域》という名前が付けられている。プレイヤーは「リバティーシティ」で無数に使用されている[自動車](../Page/自動車.md "wikilink")の中から自由に一台を選び使うことができる。
+
+一部の[パトカーなどのようにロックされているものの他は](https://ja.wikipedia.org/wiki/パトロールカー "wikilink")、ほとんど全ての自動車を使用できる。あらかじめ組織などから用意された車を使うミッションもあるものの、タイトルのように、基本的にこれらの自動車は窃取しなければならない。
+
+この自動車を用い、各島に存在している依頼者から仕事（大半が犯罪）を請け負ってこなしていくことがゲームの流れであり、基本はミッションゲームということができる。本編のミッションはほとんど犯罪・暴力に関係するものである。
+
+これは主人公が強盗に失敗し、護送中に脱走した犯罪者であることから、「リバティーシティ」で生活するには[警察](https://ja.wikipedia.org/wiki/警察 "wikilink")の目をかいくぐり、街を裏で仕切る犯罪組織や個人と手を組むという物語から発するためである。
+
+また現代の米国が舞台であるため、様々な人種が存在する。主人公は、それらの縄張りを持つ特定の人種の組織と結託するが、異なる人種においてどちら側につくということはない。ようは誰にでもつき、誰からも離れて行くことでゲームのクリアまで突き進んでいく。
+
+登場するマフィアの国籍は、[イタリアン・マフィアを始め](../Page/マフィア.md "wikilink")、[コロンビア人](https://ja.wikipedia.org/wiki/コロンビア人 "wikilink")マフィア、中国人マフィア、[ヒスパニック](../Page/ヒスパニック.md "wikilink")、[ジャマイカ](../Page/ジャマイカ.md "wikilink")、[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")などである。彼らの職業は映画などのメディアで表現されるような[ステレオタイプ](https://ja.wikipedia.org/wiki/ステレオタイプ "wikilink")に基づいている。日本人は[ヤクザ](../Page/ヤクザ.md "wikilink")（Yakuza）として登場している。
+
+PC版限定の要素として、リプレイ再生や保存\[2\]、[MP3](../Page/MP3.md "wikilink")ファイルを取り込んでBGMとして再生することが可能となっている\[3\]。
+
+## サイドミッション
+
+### 今作のサブミッションについて
+
+本作では特定の車に乗ることでその車を使ったサイドミッションを開始することができ、資金稼ぎができる。
+
+また、一定の段階までクリアすると能力が上がる、特別な車やアイテムが手に入るといった特典がもらえる。
+
+  - タクシーミッション **Taxi Driver**
+    対象車：[タクシー](../Page/タクシー.md "wikilink")
+    タクシーの運転手になって客を目的地まで送り届ける。客を運んだ距離に応じた報酬がもらえるほか、連続で客を運ぶとボーナスが加算される。合計100人クリアすると赤い改造タクシーが出現する。
+  - 救命ミッション **Paramedic**
+    対象車：[救急車](https://ja.wikipedia.org/wiki/救急車 "wikilink")
+    救急車で各地にいる患者を拾い、病院まで搬送する。制限時間内に全員を搬送しなければならないが、救急車を衝突させると患者の命が危うくなり、制限時間が減ってしまうため、速さと慎重さの両方が必要である。
+    レベル制になっており、レベルが上がるごとにもらえる報酬や患者の人数が増える。レベル12までクリアすると主人公が無限に走れるようになる。
+  - 消火ミッション **Fire Fighter**
+    対象車：[消防車](https://ja.wikipedia.org/wiki/消防車 "wikilink")
+    消防車に乗り、制限時間内に消防車のホースを使って燃えている車を消火する。連続で消火するたびに報酬が増える。
+    各マップで20件ずつクリアすると隠れ家に[火炎放射器](https://ja.wikipedia.org/wiki/火炎放射器 "wikilink")が出現する。また、[火炎瓶](../Page/火炎瓶.md "wikilink")で自分が燃えなくなる。
+  - 処刑ミッション **Vigilante**
+    対象車：警察車両、[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")
+    逃走する犯罪者を追跡、攻撃して制限時間内に倒す。連続で犯罪者を倒すたびに報酬が増える。このサイドミッションでは1分間だけ車から降りることが許されている。
+    その間に車から降りて攻撃したり、別の車に乗り換えたりすることができる。各マップで10件クリアするたびに警察への賄賂が隠れ家に出現する。
+
+## ストーリー
+
+2001年、ギャング組織**コロンビアン・カルテル**がリバティーシティにて銀行強盗を決行。
+
+銀行強盗メンバーの一人、組織の幹部であり、今作の主人公である、**クロード**は逃走の最中にリーダーの**カタリーナ**の**裏切り**によって、銃で胸を撃たれ、警察に逮捕されてしまう。
+そして刑務所への護送中、コロンビアン・カルテルがクロードら犯罪者を乗せた護送車を襲撃する事件が起こる。
+
+その混乱に乗じて逃走に成功したクロードは、数々のメンバーと共にアメリカ最悪の町、リバティーシティの裏社会で多くの悪事をこなして、カタリーナに復讐する事になっていく。
+
+## 舞台
+
+## 登場人物
+
+*斜体* は英語名、（）内は声優名を表す。
+
+### 主な登場人物
+
+  - クロード *Claude*
+
+<!-- end list -->
+
+  - *ミッション"Give Me Liberty"から登場*
+
+<!-- end list -->
+
+  -
+    本作の主人公で、コロンビアン・カルテルの元幹部。ゲーム本編においては名前は一切明かされず、台詞も一切存在しない。また、本作の9年前を描いた『[グランド・セフト・オート・サンアンドレアス](https://ja.wikipedia.org/wiki/グランド・セフト・オート・サンアンドレアス "wikilink")（以下SA）』にもカタリーナと共に登場しているが、同作で名前が「クロード（Claude）」であることが示唆され、本作の10周年記念にちなんだロックスター・ゲームスによるプロモーションによって改めて『GTAIII』の主人公の名前は「クロード（Claude）」であることが明らかとなっている。冒頭でカタリーナやその部下と共に銀行強盗を行うが、裏切ったカタリーナに銀行前で撃たれてしまい、動けなくなったところを[警察](https://ja.wikipedia.org/wiki/警察 "wikilink")に逮捕された。その後、コロンビアン・カルテルによる護送車襲撃の混乱に乗じてエイトボールと共に逃走し、自分を裏切ったカタリーナに復讐する為に様々な組織の仕事に就く。
+
+<!-- end list -->
+
+  - マリア *Maria Latore*（[デビ・メイザー](https://ja.wikipedia.org/wiki/デビ・メイザー "wikilink")）
+
+<!-- end list -->
+
+  - *ミッション"Chaperone"から登場*
+  - *ミッション"The Exchange"の後に死亡（？）*
+
+<!-- end list -->
+
+  -
+    『SA』や『[グランド・セフト・オート・リバティーシティ・ストーリーズ](https://ja.wikipedia.org/wiki/グランド・セフト・オート・リバティーシティ・ストーリーズ "wikilink")（以下LCS）』にも登場しているサルバトーレの愛人。毎日を遊んで暮らしており、またドラッグを常用している。卑劣なサルバトーレに愛想を尽かしてクロードに好意を持つようになるが、それが原因でサルバトーレに命を狙われる事となり、友人のアスカを頼ってクロードと共にポートランドを脱出することになる。その後はアスカのマンションで暮らしていたが、ミゲールの監禁されている建設現場に顔を出したことでクロードが不在の隙を突いたカタリーナによって誘拐されてしまい、最終的にはクロードに救出される。最終ミッションクリア後は延々と喋り続けたところを銃声が遮るという演出になる（映像はなく音声のみ）が、クロードによって撃ち殺されたかクロードがただひたすらしゃべる自身を黙らせるために威嚇発砲したものと思われる\[4\]。
+
+  - ルイージ・ゴトレッリ *Luigi Goterelli*（[ジョー・パントリアーノ](https://ja.wikipedia.org/wiki/ジョー・パントリアーノ "wikilink")）
+
+<!-- end list -->
+
+  - *ミッション"Give Me Liberty"から登場*
+
+<!-- end list -->
+
+  -
+    レッドライト地区でナイトクラブ「セックスクラブセブン」を経営しているレオーネファミリーの幹部。縄張りが重なるためか、ディアブロと抗争している。物語中に最初にクロードに仕事を与える。
+
+  - サルバトーレ・レオーネ *Salvatore Leone*（[フランク・ヴィンセント](https://ja.wikipedia.org/wiki/フランク・ヴィンセント "wikilink")）
+
+<!-- end list -->
+
+  - *ミッション"Salvatore's Called A Meeting"から登場*
+  - *ミッション"Sayonara Salvatore"で死亡*
+
+<!-- end list -->
+
+  -
+    ポートランド・セントマークス一帯を支配するマフィア「レオーネファミリー」の首領で、ジョーイの父親。冷酷且つ[疑心暗鬼](https://ja.wikipedia.org/wiki/疑心暗鬼 "wikilink")な性格で、邪魔者や裏切り者は全て始末する。幹部達や自身に与える数々の仕事を淡々とこなすクロードを気に入り、ファミリーに加えようとしていたところを自身の愛人であるマリアに「（クロードと）付き合っている」と（嘘を）伝えられたことから嫉妬し、罠にかけて始末しようとするも失敗した。その後、アスカの命を受けたクロードによって暗殺される。
+
+  - トニー・シプリアーニ *Antonio "Toni" Cipriani*（[マイケル・マドセン](https://ja.wikipedia.org/wiki/マイケル・マドセン "wikilink")）
+
+<!-- end list -->
+
+  - *ミッション"Taking Out The Laundry"から登場*
+
+<!-- end list -->
+
+  -
+    レオーネファミリーの幹部で、ファミリーにおける借金取り立て係。短気かつ暴力的で、過去には母親に重傷を負わせたこともあるが、その一方では重度のマザコンといった一面を持つ。また、『LCS』では**主人公**を努めており、『LCS』の時より太った体型になっている。中国マフィアのトライアドと縄張り争いしてる関係上、依頼されるミッションは大抵トライアドが絡んでいる。また、母親はセントマークスにてレストランを経営している。
+
+  - ジョーイ・レオーネ *Joey Leone*（[マイケル・ラパポート](https://ja.wikipedia.org/wiki/マイケル・ラパポート "wikilink")）
+
+<!-- end list -->
+
+  - *ミッション"Drive Misty For Me"から登場*
+
+<!-- end list -->
+
+  -
+    レオーネファミリーのアンダーボスで、サルバトーレの息子であり、『SA』の主人公であるCJのかつての雇い主でもある。普段はトレントンの自動車修理工場で働いており、フォレッリファミリーとは昔からのいがみ合いが長じて抗争を起こしている。また、ミスティという女を愛人にしているが、父親であるサルバトーレからは「早く結婚相手を見つけろ」とせっつかれている。クロードにフォレッリ・ファミリー絡みの仕事の他に銀行強盗や現金輸送車強奪を依頼する。
+
+  - エイトボール *8-ball*（[グル](https://ja.wikipedia.org/wiki/グル_\(ラッパー\) "wikilink")）
+
+<!-- end list -->
+
+  - *ミッション"Give Me Liberty"から登場*
+
+<!-- end list -->
+
+  -
+    [爆弾](../Page/爆弾.md "wikilink")のエキスパートで、レオーネファミリーの一員。リバティーシティの各地に爆弾屋のガレージを持っている。また、『[グランド・セフト・オート・アドバンス](https://ja.wikipedia.org/wiki/グランド・セフト・オート・アドバンス "wikilink")』や『LCS』にも登場している。護送車襲撃の際にクロードと一緒に[護送車](https://ja.wikipedia.org/wiki/護送車 "wikilink")から逃走し、その際に手を怪我しながらも自由の身となる。
+
+  - アスカ・カサイ *Asuka Kasai*（Liana Pai）
+
+<!-- end list -->
+
+  - *ミッション"Last Requests"から登場*
+  - *ミッション"Ransom"で死亡*
+
+<!-- end list -->
+
+  -
+    [ヤクザ](../Page/ヤクザ.md "wikilink")の組長で、マリアの友人であり、ケンジと『LCS』に登場したカズキ・カサイの妹でもある。ストーントンアイランドの海岸近くのマンションに住んでいる。また、兄のケンジよりも立場は上であり、クロードのことを「便利屋さん」と呼んでいる。ポートランドから逃げてきたマリアを匿う際にクロードと知り合い、クロードを立派な外国人と認めて様々な仕事を任せる。その後、ケンジを暗殺した犯人をミゲールだと思い込み、カルテルに復讐を誓う。その後はクロードによって捕えられたミゲールを拷問し、カルテルに関する情報を得るが、最後は建設現場に赴いたカタリーナによって殺害される。
+
+  - ケンジ・カサイ *Kenji Kasai*（Les Mau）
+
+<!-- end list -->
+
+  - *ミッション"Kanbu Bust-Out"から登場*
+  - *ミッション"Waka-Gashira Wipeout"で死亡*
+
+<!-- end list -->
+
+  -
+    ヤクザの若頭で、アスカの兄であり、『LCS』に登場したカズキ・カサイの弟でもある。礼儀を重んじており、クロードに仕事の依頼をする時も礼に始まり、礼で終わるが、ヤーディーズとカルテルが同盟を結んだ際に面会に来たクロードの礼を無視して詰め寄るなど激怒すると礼儀を忘れてしまう事があり、またこの失態をクロードに押し付けて後始末をつけさせようとする等の無責任な一面を見せていた。また、トレントンにてカジノ（元はカズキの物）を経営しており、ヤーディーズやカルテルと抗争している。アスカの紹介でクロードと出会い、彼に色々な仕事を任せる。その後、ニューポートの立体駐車場で会合中にドナルドの依頼を受けてカルテルの車に乗ったクロードによって暗殺される\[5\]。
+
+  - ミゲール *Miguel*（アル・エスピノーザ）
+
+<!-- end list -->
+
+  - *ミッション"Give Me Liberty"から登場*
+  - *ミッション"Ransom"で死亡*
+
+<!-- end list -->
+
+  -
+    常にカタリーナと行動しているコロンビアン・カルテルの幹部で、カルテルの指揮官的存在。カタリーナからはただの太鼓持ちのような扱いを受けており、その座にもクロードの後釜として着いたに過ぎない。また、『LCS』にも登場している。クロードがカルテルに奪われたブツを奪還するために建設現場を襲撃した際にはクロードに不意を突かれて銃を突きつけられ、直後に進退きわまったカタリーナに裏切られてしまい、更には到着したアスカにケンジ暗殺の真犯人と勘違いされる。その後、アスカの拷問によって何もかもぶちまけてしまうが、後にカタリーナによってアスカ共々殺害される。
+
+  - ドナルド・ラブ *Donald Love*（[カイル・マクラクラン](https://ja.wikipedia.org/wiki/カイル・マクラクラン "wikilink")）
+
+<!-- end list -->
+
+  - *ミッション"Liberator"から登場*
+  - *ミッション"Love's Disappearance"で失踪*
+
+<!-- end list -->
+
+  -
+    数々のラジオ局を運営するラブ・メディアの社長で、『[グランド・セフト・オート・バイスシティ](https://ja.wikipedia.org/wiki/グランド・セフト・オート・バイスシティ "wikilink")』と『LCS』に登場した不動産王エイブリーの元付き人。趣味は偽札造りと[人肉愛食](../Page/カニバリズム.md "wikilink")（『LCS』で発覚）で、高層ビルが立ち並ぶストートンアイランドの中でも群を抜いて高い超高層ビルに事務所を構えている。汚職の証拠を警察に掴まれていたが、後にレイの命を受けたクロードがその汚職の証拠を抹消したことで窮地から救われ、それによりクロードに感謝した。その後、屋上にある東洋風の庭園でクロードに仕事の依頼の話をするが、クロードに最後の仕事をさせた後は謎の失踪を遂げた。
+
+  - カタリーナ *Catalina*（Cynthia Farrell）
+
+<!-- end list -->
+
+  - *ミッション"Give Me Liberty"から登場*
+  - *ミッション"The Exchange"で死亡*
+
+<!-- end list -->
+
+  -
+    本作における最終的な敵で、コロンビアン・カルテルのリーダーであり、CJとクロードのかつての恋人でもある。利己的な性格で、自分の為ならば平気で他人を切り捨てる。冒頭でクロードらと共に銀行強盗を行った際はクロードらを裏切って銃撃した挙句に独りで逃走し、物語後半では自身のピンチを切り抜けるために腹心であったミゲールをも裏切る。その後は自分に報復しようとするクロードに対して処刑部隊を送り込み、彼を始末しようとするも失敗し、後にクロードの不在の隙を突いて建設現場に赴き、アスカとミゲールを殺害してマリアを誘拐し、クロードにマリアの身代金を要求する。その後、身代金を用意したクロードを再び裏切って身代金を奪い取った上に再度始末を図るが、またしても失敗に終わる。その後は追い詰められた先のコクランダムでヘリコプターを用いて逃走しようとするが、最後はクロードによりヘリを撃墜されてダムの藻屑と消える。
+
+### その他の登場人物
+
+  - レイ・マショウスキー *Ray Machowski*（[ロバート・ロッジア](https://ja.wikipedia.org/wiki/ロバート・ロッジア "wikilink")）
+
+<!-- end list -->
+
+  - *ミッション"Silence The Sneak"から登場*
+
+<!-- end list -->
+
+  -
+    [LCPD本部の](https://ja.wikipedia.org/wiki/本部 "wikilink")[汚職](../Page/汚職.md "wikilink")[警官](https://ja.wikipedia.org/wiki/警察官 "wikilink")。性格の卑劣さのせいか、相棒に裏切られている\[6\]。[ヤクザ](../Page/ヤクザ.md "wikilink")の[スパイとしてアスカに雇われているが](https://ja.wikipedia.org/wiki/工作員 "wikilink")、[CIAに目をつけられている為に公園の公衆便所でクロードに保身の為の仕事を依頼する](https://ja.wikipedia.org/wiki/中央情報局 "wikilink")。その後はCIAに追われ、クロードの助けを借りて[マイアミ](../Page/マイアミ.md "wikilink")に逃げる\[7\]。
+
+  - エル・ブッロ *El Burro*（Chris Phillips）
+
+<!-- end list -->
+
+  - *ミッション"Turismo"から登場*
+
+<!-- end list -->
+
+  -
+    ヘップバーン・ハイツを仕切るヒスパニック系ギャング「ディアブロ」のボス。過去作『[グランド・セフト・オート](https://ja.wikipedia.org/wiki/グランド・セフト・オート "wikilink")』にも名前のみだが、ボスとして登場している。また、本編に姿こそ現さないものの、[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は用意されており、体中に[刺青](https://ja.wikipedia.org/wiki/刺青 "wikilink")をし、また世界観は異なる今後の作品の『[グランド・セフト・オートIV](https://ja.wikipedia.org/wiki/グランド・セフト・オートIV "wikilink")』では壁に書かれた[落書き](https://ja.wikipedia.org/wiki/落書き "wikilink")として登場している。自身が制作や監督のポルノ映画に出演しており\[8\]、その仕事を邪魔する者たちの始末を姿を現すことなく電話のみでクロードに依頼する。
+
+  - キング・コートニー *King Courtney*（Walter Mudu）
+
+<!-- end list -->
+
+  - *ミッション"Bling-Bling Scramble"から登場*
+
+<!-- end list -->
+
+  -
+    ニューポート付近を縄張りとするジャマイカ系ギャング「ヤーディーズ」のボス。ミッションは何故か車に関係するものばかりである。また、『[グランド・セフト・オート・アドバンス](https://ja.wikipedia.org/wiki/グランド・セフト・オート・アドバンス "wikilink")』にも登場している。エル・ブッロと同じく姿は見せず、電話で主人公にコンタクトを取る。その後、最後のミッション「Kingdom Come」では指令どおりに指定された車に乗ろうとすると、実はカタリーナの罠だったことが判明\[9\]し、このため電話は本人ではない、あるいはカタリーナに雇われてクロードを始末しようとしたと思われる\[10\]が、真相は定かではない。
+
+  - D-アイス *D-Ice*（Walter Mudu）
+
+<!-- end list -->
+
+  - *ミッション"Uzi Money"から登場*
+
+<!-- end list -->
+
+  -
+    ウィチタ・ガーデンのローカルギャング「レッドジャックス」のリーダー。同じくフーズでスパンクに手を出している「ナインズ」に対し、ライバル意識を抱いている。また、刑務所に服役中である\[11\]が、どうやって電話でクロードに依頼していたのかは不明である。やはり電話のみで主人公に仕事の依頼をする。
+
+  - ミスティ *Misty*（Kim Gurney）
+
+<!-- end list -->
+
+  - *ミッション"Luigi's Girls"から登場*
+
+<!-- end list -->
+
+  -
+    ルイージ・ゴトレッリが経営する「セックスクラブセブン」で働く娼婦で、ジョーイ・レオーネの情婦。出番は少なく、逆にイラストでは目立っており、ゲーム中のグラフィックとイラストではかなり容姿が異なるが、また『グランド・セフト・オート・アドバンス』にも登場しており、ジョーイと共にラジオのChatterbox FMにも出演している。また、ヘップバーンハイツのアパートに住んでいる。
+
+  - ミッキー・ハムフィスツ *Micky Hamfists*
+
+<!-- end list -->
+
+  - *ミッション"Give Me Liberty"から登場*
+
+<!-- end list -->
+
+  -
+    ルイージと共にセックスクラブセブンを経営しているレオーネファミリーの幹部。ルイージからは「ミック」という名で呼ばれている。また、『[LCS](https://ja.wikipedia.org/wiki/グランド・セフト・オート・リバティーシティ・ストーリーズ "wikilink")』にも登場している。
+
+  - ママ・シプリアーニ *Ma Cipriani*（Sondra James）
+    トニーの母親。物語中に姿を見せることはないが、息子のトニーに対して非常に厳しく、ことあるごとに彼に対して罵声を浴びせており、また主人公や客がいる前でも構わず怒鳴り込んでくる。また、一度トニーに重傷を負わされたことがある。『LCS』にも登場するが、やはり声だけで姿は見せなかった。また、セントマークスにてレストランを営んでいる。
+
+  - マイク・フォレッリ *Mike "Lips" Forelli*
+
+<!-- end list -->
+
+  - *ミッション"Mike Lips Last Lunch"から登場*
+  - *同ミッションで死亡*
+
+<!-- end list -->
+
+  -
+    フォレッリファミリーの一員（地位は不明）。ジョーイから借りた金を返さなかったため、見せしめとしてレストラン「マルコズ・ビストロ」で食事中だったところをクロードによって車に爆弾を仕掛けられ、最後は車に乗った後に爆死した。
+
+  - リー・チョン *"Chunky" Lee Chong*
+
+<!-- end list -->
+
+  - *ミッション"Farewell 'Chunky' Lee Chong"から登場*
+  - *同ミッションで死亡*
+
+<!-- end list -->
+
+  -
+    チャイナタウンの「Punk Noodles」で働くコック。カルテルとスパンクの売買を行っていたが、それを知ったジョーイの命を受けたクロードにより殺害される。
+
+  - カーリー・ボブ *Curly Bob*（Hunter Platin）
+
+<!-- end list -->
+
+  - *ミッション"Cutting The Grass"から登場*
+  - *同ミッションで死亡*
+
+<!-- end list -->
+
+  -
+    ルイージのセックスクラブセブンで働いている金遣いの荒いバーテンダー。カタリーナからスパンクを譲り受けてはカルテルにレオーネファミリーの内情を漏らしており、そのことをかぎ付けたサルバトーレの命を受けたクロードにより殺される。
+
+  - マーティー・チョンクス *Marty Chonks*（Chris Phillips）
+
+<!-- end list -->
+
+  - *ミッション"The Crook"から登場*
+  - *ミッション"Her Loverで死亡*
+
+<!-- end list -->
+
+  -
+    トレントンにあるドッグフード工場「Bitch'N'Dog Food Factory」の経営者。経営が苦しく金に困っており、工場の外にある公衆電話を通じてクロードに様々な人物を連れてくるように依頼してはその人物を殺し、証拠隠滅を任せてくるが、それ故か報酬金額も少ない。最初は頭取、次は泥棒二人組み、遂には自らの妻をも手に掛け、最後には貸した金を返すように催促してくるカールの殺害を企むが、逆に[ショットガンで撃たれて死亡する](../Page/散弾銃.md "wikilink")。
+
+  - カール *Carl*
+
+<!-- end list -->
+
+  - *ミッション"Her Lover"から登場*
+  - *同ミッション後、プレイヤーの選択によっては死亡*
+
+<!-- end list -->
+
+  -
+    マーティーの妻の愛人（厳密にいえば浮気相手）。貸した金を返さないマーティーに業を煮やし、言い訳をしようとする彼を殺害する。
+
+  - レオン・マカフリー *Leon McAffrey*
+
+<!-- end list -->
+
+  - *ミッション"Silence The Sneak"から登場*
+  - *ミッション"Plaster Blaster"で死亡*
+
+<!-- end list -->
+
+  -
+    レイの元上司で、同様に悪徳警官。レイの悪事を警察に密告しようとするが、裁判で証言する前に証人保護用アパートから出てきたところをレイの命を受けたクロードに襲われて瀕死の重傷を負う。その後、一命を取り留めており、救急車で搬送されるが、再びレイの命を受けたクロードに再度襲撃され、最後は彼によって殺害された。
+
+  - 東洋の紳士 *Oriental Gentleman*
+
+<!-- end list -->
+
+  - *ミッション"Liberator"から登場*
+
+<!-- end list -->
+
+  -
+    ドナルドの知人という他は名前や素性が一切不明のアジア系の老人。何故逮捕されたのか、また何故カルテルに拉致されたのかは謎である。また、ドナルドに[太極拳](../Page/太極拳.md "wikilink")らしきものを指導していたり、カルテルや警察とやり合いながら[装甲](https://ja.wikipedia.org/wiki/装甲 "wikilink")バンを運転するなど、かなりの多芸のようである。冒頭で護送中にカルテルにより拉致され、アスパトリアにあるカルテルのアジトに監禁されていたが、クロードによって救出される。
+
+  - フィル・キャシディ *Phil "the One Armed Bandit" Cassidy*（Hunter Platin）
+
+<!-- end list -->
+
+  - *ミッション"Arms Shortage"から登場*
+
+<!-- end list -->
+
+  -
+    [ニカラグア](https://ja.wikipedia.org/wiki/ニカラグア "wikilink")においてのレイのかつての戦友。左腕を失くしていながら[アサルトライフルを撃つという離れ業を持ち](https://ja.wikipedia.org/wiki/M16自動小銃 "wikilink")、「"Phil the One Armed Bandit"（片腕の傭兵フィル）」の異名を取るが、『VCS』や『VC』にも登場しており、『VC』では左腕を失った原因が描かれている。また、ロックフォードの外れで軍用銃器を取り扱う店「Army Surplus」を営んでおり、かなりの軍マニアであるために敷地内は店というよりほとんど軍施設に近い。
+
+## 使用可能の登場武器一覧表
+
+  - [素手](https://ja.wikipedia.org/wiki/パンチング "wikilink")
+  - [バット](https://ja.wikipedia.org/wiki/バット_\(野球\) "wikilink")
+  - [Pistol](https://ja.wikipedia.org/wiki/M1911 "wikilink")
+  - [Uzi](https://ja.wikipedia.org/wiki/UZI_\(SMG\)#マイクロ_UZI "wikilink")
+  - [Shotgun](https://ja.wikipedia.org/wiki/レミントンM870 "wikilink")
+  - [AK-47](../Page/AK-47.md "wikilink")
+  - [M16](https://ja.wikipedia.org/wiki/M16自動小銃#M16A2_\(モデル645\) "wikilink")
+  - [Sniper Rifle](https://ja.wikipedia.org/wiki/レミントンM700 "wikilink")
+  - [Rocket Launcher](https://ja.wikipedia.org/wiki/M72_LAW "wikilink")
+  - [Flame-Thrower](https://ja.wikipedia.org/wiki/M1/M2火炎放射器 "wikilink")
+  - [Molotov Cocktail](../Page/火炎瓶.md "wikilink")
+  - [Grenades](https://ja.wikipedia.org/wiki/M67破片手榴弾 "wikilink")
+
+## GTAIIIのラジオ局・サウンドトラック
+
+## 関連項目
+
+・[護送車](https://ja.wikipedia.org/wiki/護送車 "wikilink") ・[残酷ゲーム](https://ja.wikipedia.org/wiki/残酷ゲーム "wikilink")
+
+## 脚注・出典
+
+<references/>
+
+## 外部リンク
+
+  - [公式サイト](http://www.rockstargames.com/grandtheftauto3/)
+  - [Rockstar Games Info サイト](https://www.rockstargames.com/games/info/grandtheftauto3)
+  - [公式サイト](http://www.gta3.jp)
+  - [Rockstar Games Info サイト](http://www.rockstargames.com/jp/games/info/grandtheftauto3)
+
+[Category:Grand_Theft_Auto](https://ja.wikipedia.org/wiki/Category:Grand_Theft_Auto "wikilink") [Category:2001年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2001年のコンピュータゲーム "wikilink") [Category:ロックスター・ゲームスのゲームソフト](https://ja.wikipedia.org/wiki/Category:ロックスター・ゲームスのゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:Xbox用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox用ソフト "wikilink") [Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:iPad用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPad用ゲームソフト "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:オープンワールドゲーム](https://ja.wikipedia.org/wiki/Category:オープンワールドゲーム "wikilink") [Category:オールタイム100ビデオゲーム選出](https://ja.wikipedia.org/wiki/Category:オールタイム100ビデオゲーム選出 "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:復讐を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:復讐を題材としたコンピュータゲーム "wikilink")
+
+1.  [「グランド・セフト・オート3」を有害図書類指定へ――神奈川県](http://www.itmedia.co.jp/games/articles/0505/30/news029.html)[ITMedia](https://ja.wikipedia.org/wiki/ITMedia "wikilink")2005年5月30日、2015年4月16日観覧
+2.  [リプレイの保存方法は？？](http://gta3.zoo.co.jp/support_question.html#no006)ZOO版GTA3公式サイト
+3.  [好きな音楽をゲーム中に再生できますか？](http://gta3.zoo.co.jp/support_question.html#no003)ZOO版GTA3公式サイト
+4.  <http://www.rockstargames.com/newswire/article/741/updated-asked-answered-re-vice-city-red-dead-redemption-and-chin.html>
+5.  アスカ含む残されたヤクザ達はケンジ殺しをカルテルによるものと思い込み、カルテルに復讐を誓うことになる。
+6.  後のミッションで殺害する。
+7.  その際にクロードに今までのお礼として倉庫の鍵を渡しており、その中には報酬の金や複数の武器、防弾パトリオットが入っている。
+8.  『[VC](https://ja.wikipedia.org/wiki/グランド・セフト・オート・バイスシティ "wikilink")』においてリカルド・ディアスがビデオを所持していた。
+9.  この車に乗ってしまうと体に[爆弾](../Page/爆弾.md "wikilink")をつけたジャンキーが襲って自爆するが、乗った時点で死亡することはない。
+10. ゲーム終盤のアスカのミッションでカルテルとヤーディーズが繋がっていることを示す描写がある。
+11. 最後のミッションのムービーシーンで「俺は仮釈放の審査がある」と言っている。

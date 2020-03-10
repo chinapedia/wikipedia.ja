@@ -1,0 +1,77 @@
+> この記事は[\?\?\?V](https://ja.wikipedia.org/wiki/\?\?\?V)から翻訳されています。
+
+
+**岩田光央と???のVナビ**（いわたみつおと???のぶいナビ）は、[2001年](../Page/2001年.md "wikilink")4月～9月に[ラジオ大阪で放送されていたラジオ番組](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")。通称は「**Vナビ**」。[岩田光央](https://ja.wikipedia.org/wiki/岩田光央 "wikilink")がメインパーソナリティを務めていた。
+
+## 放送時間
+
+  - 2001年4月7日～9月29日
+      - 毎週土曜　21:30～22:30
+
+ただしプロ野球の試合が長引いて中継が21:30までに終われなかった場合は、22:00までに終了したら野球中継終了後随時、22:00近くになってもまだ試合が終わりそうにない場合は野球中継を22:00で強制終了し、遅くとも22:00からVナビの放送を開始した。なお開始が遅れても終了時刻は22:30であり、ゆえに番組の放送時間はプロ野球の試合の流れに従属していた。
+
+## 概要
+
+[1314 V-STATION枠の番組としては初の](https://ja.wikipedia.org/wiki/1314_V-STATION "wikilink")**毎週・毎回生放送**を実施した番組。毎回テーマを定め、それに沿った話題を[BBSや](https://ja.wikipedia.org/wiki/電子掲示板 "wikilink")[E-mail](../Page/電子メール.md "wikilink")、[FAXを通じてリスナーに募集した](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")。たまにFAXに電話番号を書いて投稿されたリスナーの自宅に電話をかけ、いわゆる生電話を実施した回もあった。
+
+また、ほぼ毎週ゲスト（岩田光央やV-STATIONにゆかりのある声優が殆ど）を招いていたが、ゲストというよりはウィークリーパーソナリティ同然であった。その理由は、
+
+  - 番組タイトルの「???」にはゲストの名前が入る。
+  - ゲストも岩田とともにBBSやメールなどを紹介する事が普通だった。
+
+といった点である。
+
+なお、ゲストを招かず岩田が一人で番組を進行させた回も少々あり、その際はタイトル名が「岩田光央のVナビ」となった。また、ゲストを招かなかった回ではよくリスナーとの[チャット](../Page/チャット.md "wikilink")を番組と連動して実施した。
+
+## オフィシャル・ファンクラブ 「Vメイツ」
+
+この番組では1314 V-STATIONの公式ファンクラブ「**Vメイツ**」の会員を募集していた。Vメイツに加入すると、ホームページを介して番組の裏側を少し知ることができたり、2002年に公開された映画「[EAT\&RUN](https://ja.wikipedia.org/wiki/EAT&RUN "wikilink")」のエキストラとしての参加権利が得られるなどの特典があった（ただし結果としてVメイツの登録者は、EAT\&RUNでは写真による参加となった）。しかし響きが[某バックダンサーチームの名前と類似していて](https://ja.wikipedia.org/wiki/スクールメイツ "wikilink")、ウィークリーゲストの大半はそちらの方をイメージして誤解することもしばしばあった。
+
+## ウィークリーゲスト一覧
+
+1.  2001年4月7日　→ [新・世紀ちゃん](https://ja.wikipedia.org/wiki/川口秀樹 "wikilink")、[佐藤卓矢](https://ja.wikipedia.org/wiki/佐藤卓矢 "wikilink")（ラジオ大阪ディレクター）
+2.  4月14日　→ [宮村優子](https://ja.wikipedia.org/wiki/宮村優子_\(声優\) "wikilink")
+3.  4月21日　→ [三重野瞳](https://ja.wikipedia.org/wiki/三重野瞳 "wikilink")、[正岡謙一郎](https://ja.wikipedia.org/wiki/正岡謙一郎 "wikilink")
+4.  4月28日　→ [豊嶋真千子](https://ja.wikipedia.org/wiki/豊嶋真千子 "wikilink")
+5.  5月5日　→ [愛河里花子](https://ja.wikipedia.org/wiki/愛河里花子 "wikilink")
+6.  5月12日　→ [麻績村まゆ子](../Page/おみむらまゆこ.md "wikilink")
+7.  5月19日　→ [笠原弘子](../Page/笠原弘子.md "wikilink")
+8.  5月26日　→ [小林由美子](../Page/小林由美子.md "wikilink")、三重野瞳
+9.  6月2日　→ [森久保祥太郎](../Page/森久保祥太郎.md "wikilink")
+10. 6月9日　→ stub
+11. 6月16日　→ [國府田マリ子](../Page/國府田マリ子.md "wikilink") （※）
+12. 6月23日　→ ゲストなし（Vステ夏の陣JAPAN　開催）
+13. 6月30日　→ ゲストなし
+14. 7月7日　→ stub
+15. 7月14日　→ 森久保祥太郎
+16. 7月21日　→ [飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
+17. 7月28日　→ ゲストなし
+18. 8月4日　→ 三重野瞳
+19. 8月11日　→ [山本麻里安](../Page/山本麻里安.md "wikilink")
+20. 8月18日　→ 愛河里花子
+21. 8月25日　→ [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")
+22. 9月1日　→ [真田アサミ](https://ja.wikipedia.org/wiki/真田アサミ "wikilink")
+23. 9月8日　→ ゲストなし
+24. 9月15日　→ [水野愛日](../Page/水野愛日.md "wikilink")
+25. 9月22日　→ 三重野瞳
+26. 9月29日（最終回）　→ ゲストなし
+
+※ 6月16日放送分においては「日本のアニラジをお楽しみいただく2週間」の一環として、**Vステ夏の丼**という企画が行われていた関係で、國府田マリ子がメインパーソナリティ、岩田光央がゲストといった形式で放送されていた。
+
+## メール、FAX、BBS紹介以外のコーナー
+
+  - ふつつか日記
+    この番組の開始される前の週まで土曜夜に放送されていた[瞳と光央の爆発ラジオ](../Page/瞳と光央の爆発ラジオ.md "wikilink")の中にあったコーナーを、タイトルだけ変更してVナビ仕様としたもの。リスナーのたわいもない体験談を面白おかしく紹介する。このコーナーのみ、[ハガキによる募集であった](https://ja.wikipedia.org/wiki/はがき "wikilink")。
+
+<!-- end list -->
+
+  - 今週の○○○
+    岩田光央のお気に入りの曲をかけるコーナー。○○○の部分には歌手名またはそれにちなむ言葉が入るが、岩田は[さだまさし](../Page/さだまさし.md "wikilink")の大ファンであり、さだまさしの曲をかける回が圧倒的に多かった。[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")（[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")）もそれに次いで多かった。
+
+## 関連項目
+
+  - [1314 V-STATION](https://ja.wikipedia.org/wiki/1314_V-STATION "wikilink")
+  - [1314V-STATION FRIDAY SPECIAL V-kingdom](https://ja.wikipedia.org/wiki/V-Kingdom "wikilink")（Vナビ終了後、毎週・毎回生放送を行った番組）
+  - [豊嶋真千子](https://ja.wikipedia.org/wiki/豊嶋真千子 "wikilink")･･･Vナビ終了後、岩田は豊嶋とパーソナリティコンビを組んで、[豊嶋真千子・岩田光央 アスパラFUN\!\!の放送を開始した](https://ja.wikipedia.org/wiki/豊嶋真千子・岩田光央_アスパラFUN!! "wikilink")。
+
+[Category:1314_V-STATION](https://ja.wikipedia.org/wiki/Category:1314_V-STATION "wikilink") [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink")

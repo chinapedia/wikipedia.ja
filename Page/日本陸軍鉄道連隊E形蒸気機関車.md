@@ -1,0 +1,86 @@
+> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+
+
+**日本陸軍鉄道連隊E形蒸気機関車**（にほんりくぐんてつどうれんたいEがたじょうききかんしゃ）は、かつて[日本陸軍](../Page/大日本帝国陸軍.md "wikilink")[鉄道連隊](https://ja.wikipedia.org/wiki/鉄道連隊 "wikilink")に所属していた[蒸気機関車](../Page/蒸気機関車.md "wikilink")である。
+
+## 概要
+
+日本の[陸軍省](https://ja.wikipedia.org/wiki/陸軍省 "wikilink")の発注により、鉄道連隊で使用する[野戦](https://ja.wikipedia.org/wiki/野戦 "wikilink")[軽便鉄道](../Page/軽便鉄道.md "wikilink")用機関車として、[1921年](../Page/1921年.md "wikilink")にE1 - E25\[1\]の25両、[1925年](../Page/1925年.md "wikilink")にE101 - E106\[2\]の6両、と2回に分けて合計31両が発注され、ドイツの[オーレンシュタイン・ウント・コッペル](https://ja.wikipedia.org/wiki/オーレンシュタイン・ウント・コッペル "wikilink")-アルトゥル・コッペル([Orensteim & Koppel-Arthur Koppel A.-G.](https://ja.wikipedia.org/wiki/:de:Orenstein_&_Koppel "wikilink"))社\[3\]で製造された。
+
+これは、[1901年](../Page/1901年.md "wikilink")より鉄道大隊→鉄道連隊が193セット386両をドイツより輸入した[A/B形双合機関車では勾配区間での取り扱いなどに難があった](https://ja.wikipedia.org/wiki/日本陸軍鉄道連隊A/B形蒸気機関車 "wikilink")\[4\]ことから、1両での牽引力の増大と曲線通過性能の維持の両立を図って5動軸の強力機\[5\]としたもので、元来は双合機関車と同様、ドイツ帝国陸軍の野戦軽便鉄道()向けとして設計されたもの\[6\]である。
+
+双合機関車の場合は納期の関係もあって8社が製造を分担したが、本形式については動軸遊動機構がオーレンシュタイン・ウント・コッペル-アルトゥル・コッペル社の技師長であったグスタフ・ルッターメラー博士（）の考案になるものであったため、特許権を保有する同社の1社独占受注となっている。
+
+## 構造
+
+軸配列0-10-0(E)形で、600mm軌間向けの飽和式単式2気筒[サイドタンク機である](../Page/タンク機関車.md "wikilink")。
+
+前述の通り、急曲線通過に備え、第1・5動軸にはそれぞれ第2・4動軸から左右に首振り可能な密閉式ギアボックス\[7\]によって動力を伝達し、さらに第3動軸が左右にスライド可能な[ルッターメラー式（コッペル・ギアシステム）](https://ja.wikipedia.org/wiki/ギアードロコ#コッペル・ギアシステム "wikilink")([Luttermöller-Achsantrieb](https://ja.wikipedia.org/wiki/:de:Luttermöller-Achsantrieb "wikilink"))動軸遊動機構を採用している。このため、動輪が台枠の内側に収められた外側台枠方式となり、水タンクも複雑なギアボックスが車輪間に内装される関係で、この種のドイツ製小型蒸気機関車では標準的に採用されていた、台枠の一部を水タンクに利用する[ウェルタンク](https://ja.wikipedia.org/wiki/ウェルタンク "wikilink")式ではなく、台枠上のボイラー左右にタンクを振り分けて搭載するサイドタンク式とされている。
+
+このルッターメラー式は、曲線通過が容易になり、先行する[クリン-リントナー式と比較してギアボックスが密閉されているため塵埃の多い過酷な環境での使用にも良く耐えたが](https://ja.wikipedia.org/wiki/ギアードロコ#クリン＝リントナー式 "wikilink")、その反面第1・5動軸の軸重抜けが発生しやすく、いざという時に踏ん張りが効かない\[8\]という問題があり、またクリン-リントナー式ほどではないにせよ保守にも難があり、日本国内向けとしてはこの鉄道連隊向け以外での採用例は存在しない。
+
+弁装置は一般的な[ワルシャート式で](https://ja.wikipedia.org/wiki/ワルシャート式弁装置 "wikilink")、メインロッドは第3動軸に、サイドロッドは第2\~4動軸にそれぞれかけられている。
+
+## 運用
+
+1921年と1925年の輸入後、鉄道連隊に配備されて運用が開始されたが、日本では重心が高く脱線しやすいという問題点が指摘された。そのため、後にボイラーの火室部などを改造して寸法を縮小してボイラー中心高さを下げ、重心を引き下げる工事が実施されている\[9\]。
+
+その後の増備については、日本で本形式のアウトラインを模倣した[K1形](https://ja.wikipedia.org/wiki/日本陸軍鉄道連隊K1形蒸気機関車 "wikilink")（[1929年](../Page/1929年.md "wikilink")、[川崎車輛製](../Page/川崎重工業.md "wikilink")）1両および[N1形](https://ja.wikipedia.org/wiki/日本陸軍鉄道連隊N1形蒸気機関車 "wikilink")（[1929年](../Page/1929年.md "wikilink")、[雨宮製作所](../Page/雨宮製作所.md "wikilink")製）1両の競争試作を経て、川崎車輛製のK1形を基本に[1942年](../Page/1942年.md "wikilink")より量産された[K2形がこれに充てられている](../Page/日本陸軍鉄道連隊K2形蒸気機関車.md "wikilink")。
+
+本形式の大半は[満州](../Page/満州.md "wikilink")に配置されていたため、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後のそれらの消息は不明\[10\]であるが、国内に残されていた一部は終戦後[西武鉄道](../Page/西武鉄道.md "wikilink")・[小湊鉄道](https://ja.wikipedia.org/wiki/小湊鉄道 "wikilink")などに払い下げられ、使用された。
+
+もっとも、動軸遊動機構の特殊さから改軌工事が困難であったらしく、日本国内に残存したK2形の多くが1067mm軌間用に改造されたのに対し、本形式はいずれも600mm軌間のままで最後まで使用された。
+
+このうち西武鉄道[安比奈駅](https://ja.wikipedia.org/wiki/安比奈駅 "wikilink")の砂利採取線で使用されたものは、その後3両が長く同地に放置された後、玉川上水の西武倉庫に保管されていたが、このうちE18、E103の2両は整備の上、[ユネスコ村](https://ja.wikipedia.org/wiki/ユネスコ村 "wikilink")に[静態保存](../Page/静態保存.md "wikilink")された。
+
+その後[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の同村閉園に際し、E18は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")の株式会社[エリエイ](https://ja.wikipedia.org/wiki/エリエイ "wikilink")出版部に、E103は[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[紋別郡](../Page/紋別郡.md "wikilink")[遠軽町](https://ja.wikipedia.org/wiki/遠軽町 "wikilink")の[丸瀬布森林公園いこいの森](https://ja.wikipedia.org/wiki/丸瀬布森林公園いこいの森 "wikilink")に移設のうえ保存されたが、E103は[2002年](../Page/2002年.md "wikilink")10月に同車の動態復元を目的として、ドイツの鉄道保存団体である、フランクフルト軽便鉄道博物館([:de:Frankfurter Feldbahnmuseum](https://ja.wikipedia.org/wiki/:de:Frankfurter_Feldbahnmuseum "wikilink"))\[11\]へ譲渡・搬出された。[2012年](../Page/2012年.md "wikilink")現在、ボイラーや台枠、ルッターメラー式動輪遊動装置をはじめとした走り装置等の再生、腐食の著しい運転室や水タンク、喪失したサイドロッド等の新製を含む大規模なレストア作業が継続されている。[2013年](../Page/2013年.md "wikilink")10月には、新製したボイラーを含めた組み上げが完了し翌[2014年](../Page/2014年.md "wikilink")3月には試運転を成功させている。
+
+一方、E18は長らく[エリエイ](https://ja.wikipedia.org/wiki/エリエイ "wikilink")の玄関前に保存されていたが、荒廃著しいことと同社社屋改築により、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[大井川鐵道](../Page/大井川鐵道.md "wikilink")に搬出された。大井川鐵道では[新金谷駅](../Page/新金谷駅.md "wikilink")の大代川側線にしばらく留置されていたが、[2012年](../Page/2012年.md "wikilink")修理が行われ、同年[東京ビッグサイトで開催された](../Page/東京国際展示場.md "wikilink")[国際鉄道模型コンベンション](../Page/国際鉄道模型コンベンション.md "wikilink")会場にてお披露目の後、新築されたエリエイ社屋前に再設置された。
+
+## 脚注
+
+## 参考文献
+
+  - リュディガー・ファッハ 著＼青木真美 訳「コッペルE103ものがたり」
+
+<!-- end list -->
+
+  -
+    交友社『[鉄道ファン](../Page/鉄道ファン_\(雑誌\).md "wikilink")』2003年7月号 No.507　150～154頁
+
+<!-- end list -->
+
+  - 中川浩一「安比奈での鉄道聯隊E形蒸機」
+
+<!-- end list -->
+
+  -
+    交友社『鉄道ファン』2003年7月号 No.507　155～159頁
+
+<!-- end list -->
+
+  - 花井正弘編著『鉄道聯隊の軽便機関車 上』草原社、2011年
+
+## 関連項目
+
+  - [大日本帝国陸軍兵器一覧](https://ja.wikipedia.org/wiki/大日本帝国陸軍兵器一覧 "wikilink")
+  - [鉄道連隊演習線](https://ja.wikipedia.org/wiki/鉄道連隊演習線 "wikilink")
+  - [日本陸軍鉄道連隊A/B形蒸気機関車](https://ja.wikipedia.org/wiki/日本陸軍鉄道連隊A/B形蒸気機関車 "wikilink")
+  - [日本陸軍鉄道連隊K1形蒸気機関車](https://ja.wikipedia.org/wiki/日本陸軍鉄道連隊K1形蒸気機関車 "wikilink")
+  - [日本陸軍鉄道連隊K2形蒸気機関車](../Page/日本陸軍鉄道連隊K2形蒸気機関車.md "wikilink")
+
+
+
+[Category:日本の蒸気機関車](https://ja.wikipedia.org/wiki/Category:日本の蒸気機関車 "wikilink") [Category:大日本帝国陸軍の鉄道車両](https://ja.wikipedia.org/wiki/Category:大日本帝国陸軍の鉄道車両 "wikilink") [Category:西武鉄道の鉄道車両](https://ja.wikipedia.org/wiki/Category:西武鉄道の鉄道車両 "wikilink") [Category:コッペル製の蒸気機関車](https://ja.wikipedia.org/wiki/Category:コッペル製の蒸気機関車 "wikilink") [Category:1921年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1921年製の鉄道車両 "wikilink") [Category:車輪配置0-10-0の機関車](https://ja.wikipedia.org/wiki/Category:車輪配置0-10-0の機関車 "wikilink") [Category:飽和式蒸気機関車](https://ja.wikipedia.org/wiki/Category:飽和式蒸気機関車 "wikilink")
+
+1.  メーカー[製造番号](https://ja.wikipedia.org/wiki/製造番号 "wikilink")9521 - 9545。
+2.  メーカー製造番号11071 - 11076。
+3.  本形式製造の時点では、かつて販売・製造などで複数に分社していたコッペル社は合同してオーレンシュタイン・ウント・コッペル-アルトゥル・コッペル社となっていた。
+4.  水面の傾斜の関係で空焚きになって[溶栓を溶かしてしまう恐れがあり](https://ja.wikipedia.org/wiki/可溶栓 "wikilink")、55‰以上の勾配での双合状態での運転は禁止された。
+5.  1両で双合機関車1組の1.5倍の出力を発揮した。
+6.  ドイツ陸軍向けとしては、双合機関車の次に設計されたD形の旅団機関車（[Brigadelokomotive](https://ja.wikipedia.org/wiki/:de:HFB_Brigadelokomotive "wikilink")：75PS級）が出力不足と判断されたことから、1917年から1918年にかけてオーレンシュタイン・ウント・コッペル-アルトゥル・コッペル、[ボルジッヒ](https://ja.wikipedia.org/wiki/ボルジッヒ "wikilink")、[ベルリン機械製造](https://ja.wikipedia.org/wiki/ベルリン機械製造 "wikilink")(BMAG)、[J.A.マッファイ](https://ja.wikipedia.org/wiki/J.A.マッファイ "wikilink")の4社で90PS級のE形機関車の競争試作が行われた。評価試験の結果、オーレンシュタイン・ウント・コッペル-アルトゥル・コッペルとBMAGの設計案が採用され、2社で別設計のまま平行して生産された。当然ながら、本形式はそのうちのオーレンシュタイン・ウント・コッペル-アルトゥル・コッペル社の設計に従っている。
+7.  ピンを植えたボール状の部品を用いる、特殊な構造の自在継ぎ手を内蔵する大歯車を第2・4動軸に取り付け、ここから平ギアで第1・5動軸に動力を伝達した。この自在継ぎ手の介在により、第1・5動軸の遊動を許容する構造であった。
+8.  この方式は左右の首振り状態から中心位置への復元にバネを用いるが、バネ圧を強くしすぎると曲線通過時に線路にかかる側圧が大きくなりすぎてフランジ磨耗や軌道負担が過大となり、逆に弱くすると第1・5動軸の軸重抜けが発生しやすくなるという問題があって、通常は軌道負担力を考慮して復元力を弱く設定していたため、軸重抜けが不可避であった。
+9.  1939年に20両を改造している記録がのこっているが、前年に10両が関東軍に特別支給されており原型のままであったと考えられる。『鉄道聯隊の軽便機関車 上』35頁
+10. 終戦直前に、同地に侵攻したソビエト連邦軍が「戦利品」として強奪したと推測されている。
+11. フランクフルト軽便鉄道博物館（Frankfurter Feldbahnmuseum e.V.）。公式サイトは[こちら](http://www.feldbahn-ffm.de/index.html)。

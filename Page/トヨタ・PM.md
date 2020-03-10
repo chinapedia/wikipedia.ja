@@ -1,0 +1,27 @@
+> この記事は[PM](https://ja.wikipedia.org/wiki/PM)から翻訳されています。
+
+
+**PM**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が開発した[コンセプトカー](https://ja.wikipedia.org/wiki/コンセプトカー "wikilink")である。
+
+## 概要
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:トヨタPM.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Toyota_PM_01.jpg "wikilink") [2003年](../Page/2003年.md "wikilink")の東京モーターショーでワールドプレミアを飾った。PMとは「**Personal Mobility with visual communication system**」の略称。「**であう、つながる、あつまる**」を開発コンセプトとし、先端の[ITを活用することで](../Page/情報技術.md "wikilink")、人とクルマとの一体感を追求したパーソナルモビリティである。
+
+カプセルのような形状の運転席で、正面が上下に開閉するというグラッシーキャノビーを採用。乗降時にはシートが前方にスライドし乗りやすい位置まで下がることで、良好な乗降性を確保している。また、触覚のようなヘッドランプや、ボディの所々にうめこまれた[LEDなど](../Page/発光ダイオード.md "wikilink")、どこか生命を感じさせるようなデザインを取り入れている。前輪はシャフトを使用していない「シースルーホイール」となっている。
+
+正面のインストルメントパネルには、指先検出センサーによる空間入力を利用した「ビジュアルコミュニケーションシステム」を採用。これによりストレスなく走行情報などを得られる。また、PMには[アクセルペダル](https://ja.wikipedia.org/wiki/アクセルペダル "wikilink")と[ステアリング](../Page/ステアリング.md "wikilink")の代わりに「ドライビングコントローラー」という、[ドライブ・バイ・ワイヤ](https://ja.wikipedia.org/wiki/ドライブ・バイ・ワイヤ "wikilink")技術を応用したシステムを採用している。これにより、ハンドルとアクセルを片手で操作でき、その場で回転したりなどの複雑な操作を行える。
+
+PMは走行状況にあわせて4つのモードを備えている。乗降時や低速走行時のための「**乗降モード**」、市街地走行のための「**市街地モード**」は視点を高く、ホイールベースを短く取っている。さらに高速走行時の「**高速モード**」は、ホイールベースを最大まで延長しており、ドライバーはほとんど寝たような姿勢で運転する。また、その場で回転するための「**その場回転モード**」時は、前輪がハの字に向いている。
+
+さらにPMは、複数のPM間と情報のやり取りを行える。例えば、PM同士で情報を交換し合ったり、[チャット](../Page/チャット.md "wikilink")のように気軽にPM間で交信を行ったり、自分が運転しなくても他のPMにくっついて走行したりなどを行える。
+
+[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の[愛・地球博には](https://ja.wikipedia.org/wiki/2005年日本国際博覧会 "wikilink")、PMのコンセプトをさらに進化させたコンセプトカー「[i-unit](../Page/トヨタ・i-unit.md "wikilink")」が出展された。他にも、PMのコンセプトをさらに進化させたコンセプトカーが[東京モーターショー](../Page/東京モーターショー.md "wikilink")などに出展されている。
+
+## 関連項目
+
+  - [トヨタ](https://ja.wikipedia.org/wiki/トヨタ "wikilink")
+  - [i-unit](../Page/トヨタ・i-unit.md "wikilink")
+  - [i-swing](https://ja.wikipedia.org/wiki/トヨタ・i-swing "wikilink")
+  - [i-REAL](https://ja.wikipedia.org/wiki/トヨタ・i-REAL "wikilink")
+
+[Category:トヨタのコンセプトカー](https://ja.wikipedia.org/wiki/Category:トヨタのコンセプトカー "wikilink")

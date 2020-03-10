@@ -1,0 +1,489 @@
+> この記事は[WAON](https://ja.wikipedia.org/wiki/WAON)から翻訳されています。
+
+
+**WAON**（ワオン）は、[イオンリテール](https://ja.wikipedia.org/wiki/イオンリテール "wikilink")\[1\]が発行し、[イオングループ](../Page/イオングループ.md "wikilink")が主導する[ICカード](../Page/ICカード.md "wikilink")型前払い式[電子マネー](../Page/電子マネー.md "wikilink")、及びそのマスコットキャラクター（後述）である[犬の通称である](https://ja.wikipedia.org/wiki/イヌ "wikilink")。[イオンの](../Page/イオン_\(企業\).md "wikilink")[登録商標](../Page/商標.md "wikilink")（第5081687号\[2\]）。
+
+## 概要
+
+先行して実績を重ねてきた交通系（[Suica](../Page/Suica.md "wikilink")など）、独立系（[楽天Edy](../Page/楽天Edy.md "wikilink")など）に対して「流通系」と称される電子マネーの一つである。プラットフォームには[ソニー](../Page/ソニー.md "wikilink")（現・[ソニーイメージングプロダクツ&ソリューションズ](https://ja.wikipedia.org/wiki/ソニーイメージングプロダクツ&ソリューションズ "wikilink")〈SIPS〉）が開発した非接触型ICカード通信技術「[FeliCa](../Page/FeliCa.md "wikilink")」が採用されており、[非接触型決済](https://ja.wikipedia.org/wiki/非接触型決済 "wikilink")（コンタクトレス決済、タッチ決済）サービスの部類に入る。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")（[平成](../Page/平成.md "wikilink")19年）[4月25日](../Page/4月25日.md "wikilink")から会員募集を開始し、[4月27日](../Page/4月27日.md "wikilink")にサービスを開始した。
+
+ICカードタイプと、FeliCa搭載の携帯電話（[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")）に内蔵させるモバイルタイプがあり、ICカードタイプは単独カード（基本カードとも呼ばれる）のほか、[クレジットカード](../Page/クレジットカード.md "wikilink")や[キャッシュカード](../Page/キャッシュカード.md "wikilink")と一体化されたものを始め、他社のカードとのジョイントカード（もしくは他社カードを親カードとし、子カードとして機能するもの）など多数発行されている（[後述](https://ja.wikipedia.org/wiki/#種類 "wikilink")）。
+
+名前の由来は複数の音が調和してできる「[和音](../Page/和音.md "wikilink")」。キャラクターには白い[犬を採用](https://ja.wikipedia.org/wiki/イヌ "wikilink")、一般公募により**Happy Waon**（ハッピーワオン）と名付けられている（詳細[後述](https://ja.wikipedia.org/wiki/#マスコットキャラクター "wikilink")）。
+
+## 普及状況
+
+前述の通り[非接触型電子マネーとしては](https://ja.wikipedia.org/wiki/非接触型決済 "wikilink")2007年スタートと後発に属するが、2016年2月末時点における[普及状況は](https://ja.wikipedia.org/wiki/電子マネー#普及状況 "wikilink")、累計発行枚数約5,610万枚、利用可能箇所約246,000（うち、[自動販売機](../Page/自動販売機.md "wikilink")や[宅配便](../Page/宅配便.md "wikilink")ドライバー端末が約134,000）箇所に上る。また、2015年度の年間利用金額は約2兆592億円となっている\[3\]。
+
+## 導入場所
+
+2012年10月時点で、[イオングループの商業施設を中心に多数のグループ企業に導入されている](https://ja.wikipedia.org/wiki/イオングループの商業ブランド "wikilink")（[沿革参照](https://ja.wikipedia.org/wiki/#沿革 "wikilink")）。[イオン](https://ja.wikipedia.org/wiki/イオン_\(店舗ブランド\) "wikilink")、[マックスバリュ](https://ja.wikipedia.org/wiki/マックスバリュ "wikilink")の一部店舗に設置されている[セルフレジや](https://ja.wikipedia.org/wiki/キャッシュレジスター#特殊なレジ "wikilink")[イオンモール](https://ja.wikipedia.org/wiki/イオンモール "wikilink")・イオンショッピングセンター・[イオンタウン](https://ja.wikipedia.org/wiki/イオンタウン "wikilink")内に出店している専門店テナントでも一部店舗を除き利用可能。
+
+導入店舗では毎月の「お客さま感謝デー（原則20，30日）」や[イオン九州](https://ja.wikipedia.org/wiki/イオン九州 "wikilink")・[マックスバリュ九州](https://ja.wikipedia.org/wiki/マックスバリュ九州 "wikilink")（[ザ・ビッグ](https://ja.wikipedia.org/wiki/ザ・ビッグ "wikilink")/ザ・ビッグエクスプレスを除く）の「お10（と）くデー」などで、WAON精算金額が5%割引となる特典が受けられる。当初出来なかったWAON決済時のポイント加算とイオンオーナーズカードの返金特典併用は2008年4月21日より可能となった。
+
+2009年5月から2010年4月にかけて[吉野家](../Page/吉野家.md "wikilink")が導入した\[4\]\[5\]\[6\]\[7\]のを皮切りに、[イオングループ](../Page/イオングループ.md "wikilink")以外の企業・店舗での積極的な導入が進められている。以下、主にイオングループに属さない企業での導入例を示す。
+
+### 商業施設
+
+#### コンビニエンスストア
+
+  - イオングループの[ミニストップ](https://ja.wikipedia.org/wiki/ミニストップ "wikilink")で導入されている。
+  - 2009年10月13日にイオングループ外のコンビニエンスストアで初となる[ファミリーマート](../Page/ファミリーマート.md "wikilink")全店（[西武鉄道](../Page/西武鉄道.md "wikilink")との共同展開の「[TOMONY](https://ja.wikipedia.org/wiki/TOMONY "wikilink")」を除く）\[8\]で導入。なお、2010年12月に[ココストアイースト](https://ja.wikipedia.org/wiki/ココストアイースト "wikilink")（のちのココストア）が運営する[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")・[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・沖縄県の[ココストア](../Page/ココストア.md "wikilink")に、2016年8月30日に[サークルK](../Page/サークルK.md "wikilink")・サンクス全店で導入\[9\]されたが、合併や商号変更に伴うファミリーマートへの運営移行及びブランド転換・閉店に伴い、ココストアは2016年10月31日、サークルKとサンクスは2018年11月30日をもって順次営業を終了している。
+  - 2012年10月30日より[ポプラグループ](../Page/ポプラ_\(コンビニエンスストア\).md "wikilink")（ポプラ・スリーエイト・生活彩家）全店舗へ導入。
+  - 2015年12月15日より[ローソン](../Page/ローソン.md "wikilink")（[ナチュラルローソン](https://ja.wikipedia.org/wiki/ナチュラルローソン "wikilink")・[ローソンストア100](https://ja.wikipedia.org/wiki/ローソンストア100 "wikilink")を含む）へ正式導入\[10\]。
+  - 2017年7月25日からは[セイコーマート](../Page/セイコーマート.md "wikilink")全店舗へ導入。決済のほかに現金チャージにも対応する\[11\]。
+
+#### ドラッグストア・保険薬局
+
+  - [ハピコム](../Page/ハピコム.md "wikilink")加盟企業においては、2011年8月22日にハックドラック（現在は[ウエルシア薬局](https://ja.wikipedia.org/wiki/ウエルシア薬局 "wikilink")が運営）へ導入されたのを皮切りに、2013年7月1日より[ツルハ](../Page/ツルハ.md "wikilink")ドラッグ・[くすりの福太郎](https://ja.wikipedia.org/wiki/くすりの福太郎 "wikilink")・[ドラッグストアウェルネス](https://ja.wikipedia.org/wiki/ウェルネス湖北 "wikilink")（現在は[ツルハグループドラッグ&ファーマシー西日本](https://ja.wikipedia.org/wiki/ツルハグループドラッグ&ファーマシー西日本 "wikilink")が運営）に、同年7月26日より[ドラッグストア ダックスに順次導入された](https://ja.wikipedia.org/wiki/シミズ薬品 "wikilink")。ウエルシア、[金光薬品](https://ja.wikipedia.org/wiki/金光薬品 "wikilink")、[レデイ薬局](https://ja.wikipedia.org/wiki/レデイ薬局 "wikilink")、[クスリのアオキ](https://ja.wikipedia.org/wiki/クスリのアオキ "wikilink")でも導入されている。
+  - 2017年8月4日より[サツドラに導入](https://ja.wikipedia.org/wiki/サッポロドラッグストアー "wikilink")（ハピコム非加盟のドラッグストアでは初のWAON導入）。サツドラでは決済に加えチャージ（現金・オート）にも対応する。
+  - 2017年8月21日より[富士薬品グループのドラッグセイムス](https://ja.wikipedia.org/wiki/富士薬品#富士薬品ドラッグストアグループ "wikilink")・[ドラッグストアスマイル](https://ja.wikipedia.org/wiki/スマイルドラッグ "wikilink")・[ドラッグユタカ](https://ja.wikipedia.org/wiki/ユタカファーマシー "wikilink")・[アメリカンドラッグ](https://ja.wikipedia.org/wiki/アメリカンドラッグ "wikilink")（[モリキ](https://ja.wikipedia.org/wiki/モリキ "wikilink")が運営）・くすりの救命堂（九州セイムスが運営）に導入。
+  - 2017年10月23日より[キリン堂](https://ja.wikipedia.org/wiki/キリン堂 "wikilink")とドラッグストア サーバに導入（一部店舗は利用不可）。
+  - 2018年7月6日より[スギ薬局](https://ja.wikipedia.org/wiki/スギ薬局 "wikilink")全店に導入（グループ系列の[ディスカウントストア](../Page/ディスカウントストア.md "wikilink")「ジャパン」にも導入）。
+  - 2018年より[新生堂薬局](https://ja.wikipedia.org/wiki/新生堂薬局 "wikilink")（ドラッグ新生堂・くすりのハッピー）に導入。
+  - 2019年3月1日より[薬王堂](https://ja.wikipedia.org/wiki/薬王堂 "wikilink")全店に導入。
+  - 一部の店舗で導入されていた[ココカラファイン ヘルスケアは](https://ja.wikipedia.org/wiki/ココカラファインヘルスケア "wikilink")2019年12月11日より全店へ拡大導入された。
+
+#### 家電量販店
+
+  - 2011年11月14日より[ビックカメラ](https://ja.wikipedia.org/wiki/ビックカメラ "wikilink")全店に導入され、2013年10月1日にグループ店舗の[コジマ](../Page/コジマ.md "wikilink")及びコジマ×ビックカメラに導入されており、[ソフマップ](https://ja.wikipedia.org/wiki/ソフマップ "wikilink")でも導入されている。
+  - 2012年8月7日より[エディオン](https://ja.wikipedia.org/wiki/エディオン "wikilink")の直営全店及びネバーランド広島本店（[エディオン広島本店](https://ja.wikipedia.org/wiki/エディオン広島本店 "wikilink")内）、携帯電話ショップの一部、[フランチャイズ](../Page/フランチャイズ.md "wikilink")店舗の一部（[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")の一部店舗及び[沖縄県](../Page/沖縄県.md "wikilink")）に導入\[12\]。
+  - 2016年4月11日より[ジョーシン全店に導入](https://ja.wikipedia.org/wiki/上新電機 "wikilink")\[13\]。
+
+#### 専門店
+
+  - 衣料品では[はるやま](https://ja.wikipedia.org/wiki/はるやま "wikilink")、P.S.FA、[フォーエル](https://ja.wikipedia.org/wiki/フォーエル "wikilink")、[ライトオン](https://ja.wikipedia.org/wiki/ライトオン "wikilink")（一部店舗を除く）に導入。2019年12月11日より[しまむら](https://ja.wikipedia.org/wiki/しまむら "wikilink")と系列店舗のディバロにも導入されている（同じくしまむらの系列店舗であるアベイル・バースディ・シャンブルにも導入されている）。
+  - 眼鏡店では、2011年2月26日より[武田メガネ](https://ja.wikipedia.org/wiki/武田メガネ "wikilink")に、同年8月11日より[メガネのヨネザワ](https://ja.wikipedia.org/wiki/メガネのヨネザワ "wikilink")に順次導入されている。
+  - [レンタル店](https://ja.wikipedia.org/wiki/レンタル店 "wikilink")では、2017年3月9日より[TSUTAYAに導入](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")。
+
+#### 飲食店
+
+  - 2009年12月8日より[マクドナルド](../Page/マクドナルド.md "wikilink")に導入。
+  - 2012年3月21日より[安楽亭](https://ja.wikipedia.org/wiki/安楽亭 "wikilink")に導入。
+  - 2015年8月3日より[かっぱ寿司](https://ja.wikipedia.org/wiki/かっぱ寿司 "wikilink")に導入。
+  - 2016年4月27日より[ドミノ・ピザ](../Page/ドミノ・ピザ.md "wikilink")に導入。
+
+### 交通機関
+
+#### バス
+
+  - 2013年4月1日より[鳥取市](../Page/鳥取市.md "wikilink")[コミュニティバス](../Page/コミュニティバス.md "wikilink")「[くる梨](../Page/くる梨.md "wikilink")」で導入\[14\]
+  - 2013年11月19日に運行開始した[三岐バス](https://ja.wikipedia.org/wiki/三岐バス "wikilink")の[イオンモール東員](https://ja.wikipedia.org/wiki/イオンモール東員 "wikilink")線で利用可能\[15\]。
+  - 2018年5月21日より[十勝バス](https://ja.wikipedia.org/wiki/十勝バス "wikilink")の西コミュニティバスで導入\[16\]\[17\]。
+  - 2018年5月21日より[くしろバス](https://ja.wikipedia.org/wiki/くしろバス "wikilink")のたくぼく循環線で導入\[18\]。
+  - 2018年秋に[阿寒バス](https://ja.wikipedia.org/wiki/阿寒バス "wikilink")が3路線で導入予定\[19\]。
+  - 2019年2月4日より多区間運賃制路線のくしろバスのイオン線、阿寒バスの鶴野ニュータウン線、高専まりも線で導入\[20\]\[21\]。
+
+[バスにおいては](../Page/バス_\(交通機関\).md "wikilink")[Suica](../Page/Suica.md "wikilink")、[PASMO](https://ja.wikipedia.org/wiki/PASMO "wikilink")など全国相互利用の交通系ICカード、あるいは地域独自の乗車カードを導入する例が多く、利用できる例は限定的であるが、2018年秋に非交通系ICカードでは初となる、多区間運賃路線での導入を開始すると発表されていた\[22\]。2019年に道東地域の多区間運賃路線に導入された\[23\]。
+
+#### タクシー
+
+[タクシー](../Page/タクシー.md "wikilink")においては、2014年7月25日に[大和自動車交通](https://ja.wikipedia.org/wiki/大和自動車交通 "wikilink")が初めて導入した\[24\]。その後、2015年6月15日にSKタクシーグループのタクシー\[25\]、2015年10月22日に岡山市内の[両備グループ](https://ja.wikipedia.org/wiki/両備グループ "wikilink")4社（[岡山交通](https://ja.wikipedia.org/wiki/岡山交通 "wikilink")・[両備タクシー](../Page/両備タクシー.md "wikilink")・[岡山タクシー](https://ja.wikipedia.org/wiki/岡山タクシー "wikilink")・両備グレースタクシー）\[26\]が導入し、その後も導入する事業者が増えている。
+
+## 決済方法
+
+一般的な電子マネー同様、FeliCaリーダー/ライター（R/W）にかざすことで決済が実行される。決済完了時（[マスコットの鳴き声と言う設定。後述](https://ja.wikipedia.org/wiki/#マスコットキャラクター "wikilink")）やエラー時（残高不足など）には音で知らせる。
+
+イオングループではWAON導入以前より電子マネー決済として[Suica電子マネー](https://ja.wikipedia.org/wiki/Suica電子マネー "wikilink")と[iDを先行導入していた](https://ja.wikipedia.org/wiki/ID_\(クレジット決済サービス\) "wikilink")\[27\]こともあり、当初はイオングループ共通の[POSターミナル](../Page/販売時点情報管理.md "wikilink")（[東芝テック](../Page/東芝テック.md "wikilink")（TEC）製。以下、TECレジ）に[JR東日本メカトロニクス](https://ja.wikipedia.org/wiki/JR東日本メカトロニクス "wikilink")（JREM）製のFeliCa R/Wを接続しており、客が併設されたPINパッドのボタン\[28\]を押すことでどの決済を行うかを選択し、R/Wにカードをかざす、という方式を取っていた\[29\]。その後、POSターミナルの更新に合わせてR/Wが[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")製の決済端末（JT-R700CR\[30\]）に交換されている。
+
+また、2018年から進められているイオングループのPOSシステム全面刷新\[31\]によってイオングループ直営売場のPOSターミナル（システム更新後のTECレジ・[寺岡精工](https://ja.wikipedia.org/wiki/寺岡精工 "wikilink")のセミセルフレジ・[富士通フロンテック](https://ja.wikipedia.org/wiki/富士通フロンテック "wikilink")製レジ）ではPINパッドのボタン選択は基本的に必要なくなった\[32\]。ただし、専門店街もしくはイオングループの一部店舗では引き続きPINパッドのボタン選択が必要。
+
+## チャージ（入金）
+
+入金限度額はイオンバンクカード（イオンカードセレクト、イオン銀行CASH+DEBIT含む。以下同じ）が発行開始当初より50,000円である。それ以外のカードは20,000円でスタートしたが、2010年10月22日発行の「ゆふいん湯歩WAON」以降に発行された一部のものは入金限度額が50,000円になっている。なお、限度額20,000円のものでも、2011年3月10日以降WAONステーションで手続きを行うことによって50,000円に変更することができる（手続きをしないカードは20,000円のままである。そのまま使用しても問題は無い）。1度の入金可能金額は最大29,000円までで、30,000円以上の入金は2度に分けて入金する必要があったが、現在は再手続きによって49,000円までに変更される。
+
+以下のような方法がある。
+
+  - 店頭チャージ
+    イオングループの主な直営店舗ではチャージや残高照会、その他の設定ができる機器が設置されており、自分で操作してチャージを行える。
+      -
+        「WAONチャージャー（無印）」 - 現金チャージと登録クレジットカードからのチャージ（クレジットチャージ）が可能。現金チャージは、一度のチャージで紙幣1枚のみ投入可能で、投入した紙幣金額が全額チャージされるため、おつりは出ない。
+        「WAONチャージャーmini」 - 筐体側面に「charge」と書かれた青いエサ皿とワオンが描かれた機器。現金チャージと全ポイントチャージ（後述）のみ可能。無印同様現金チャージのおつりは出ない。
+        「WAONステーション」 - WAONのアクセプタンスマークと「station」の文字が記載された仕切りが設置されている機器。現金チャージは行えず、クレジットチャージとポイントチャージ（後述）のみが可能。
+    主な直営店舗や一部加盟店のレジにて1,000円単位での現金チャージを行うことが可能。ただし、コンビニエンスストアなど特定額のチャージしか受け付けない店舗もある。
+  - 端末チャージ
+    [イオン銀行](https://ja.wikipedia.org/wiki/イオン銀行 "wikilink")の[ATMを使い](../Page/現金自動預け払い機.md "wikilink")、現金チャージまたはイオン銀行口座からの直接チャージ（銀行チャージ）が可能（一部対応していないATMもある）。
+    現金チャージは、チャージ額の指定（1,000円単位）や一度のチャージにおける複数枚の紙幣投入が可能で、1,000円分のチャージに[5,000円札を投入するなど](https://ja.wikipedia.org/wiki/五千円紙幣 "wikilink")、設定したチャージ額が投入金額よりも少ない場合はおつりが出る\[33\]。
+    銀行チャージはイオンバンクカード限定。
+    なおイオン銀行のATMは「WAONステーション」の機能も兼ねる。
+  - モバイル・PCオンラインチャージ
+    [FeliCaポート](https://ja.wikipedia.org/wiki/FeliCaポート "wikilink")搭載パソコンもしくは[PaSoRi](https://ja.wikipedia.org/wiki/PaSoRi "wikilink")を用いて「WAONネットステーション」に接続し、登録してあるイオンカードからのクレジットチャージまたは銀行チャージ、ポイントチャージが可能。[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")版「WAONネットステーション」アプリもある（別途WAONカードと[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")対応PaSoRiが必要）。
+    モバイルWAONへは登録してあるイオンカードからのクレジットチャージとポイントチャージのみ可能。
+  - [オートチャージ](https://ja.wikipedia.org/wiki/オートチャージ "wikilink")
+    WAONカードプラス、イオンカード（WAON一体型）、イオンバンクカード、モバイルWAONで利用できる。設定額（決済後のWAON残高及び1回辺りのチャージ額）に基づいて加盟店（一部を除く）利用時に自動的にチャージされる。金額設定はWAONステーションやイオン銀行ATMで行う。
+    イオンバンクカードはチャージ額が銀行口座から直接引落される即時引落しのため、普通預金口座の残高が入金設定額未満の場合はチャージされない。オートチャージされるのは1日1回までとなる。イオンカードセレクトとイオン銀行CASH+DEBITのみ、オートチャージでもWAONポイントが付与される。
+    上記以外は、[紐付けてあるクレジットカードでチャージされる](https://ja.wikipedia.org/wiki/関連付け "wikilink")。1日何回でも利用できるが、1度の会計につき1回までとなる。オートチャージされた金額はクレジット利用分として請求される。
+
+### クレジットカードの扱い
+
+WAONカードプラスとイオンカード（WAON一体型）のWAON部分は、そのカードのクレジットカード部分が親カードになる。モバイルWAONはあらかじめ登録してあるイオン銀行発行の各種イオンカード（「イオンJMBカード」を除く）を親カードとしてクレジットチャージが可能である。
+
+イオンカード（WAON一体型）のクレジットカード部分でWAON部分にチャージした場合には同カードのWAON部分にWAONポイントが付与される（ときめきポイントは付与されない）。なお、モバイルWAONへのオンラインチャージでは同カードへのWAON部分にはWAONポイントは付与されず、モバイルWAONにWAONポイントが付与される。
+
+JMB WAONカード・BIC CAMERA JMB WAONカード・モバイルJMB WAONはあらかじめ登録してある[JALカード](https://ja.wikipedia.org/wiki/JALカード "wikilink")（[ビューカード](https://ja.wikipedia.org/wiki/ビューカード "wikilink")・[小田急電鉄](https://ja.wikipedia.org/wiki/小田急ポイントカード "wikilink")・[シティカードジャパン発行カード](../Page/ダイナースクラブ.md "wikilink")、及びJAL[アメリカン・エキスプレス](../Page/アメリカン・エキスプレス.md "wikilink")カードを除く）を親カードとしクレジットチャージ（モバイルJMB WAONによるクレジットチャージを含む）が可能である。
+
+[三井住友カード](../Page/三井住友カード.md "wikilink")WAON（一部の[VJA](https://ja.wikipedia.org/wiki/VJA "wikilink")グループ発行分含む）・JP BANK カード WAONはあらかじめ登録してある三井住友カード（VJAグループ）・[ゆうちょ銀行](https://ja.wikipedia.org/wiki/ゆうちょ銀行 "wikilink")の発行するクレジットカードを親カードとしクレジットチャージが可能である。ただし、三井住友カード・ゆうちょ銀行のポイントは付与対象外となる。
+
+## ポイントサービス
+
+### 電子マネーWAONポイント
+
+WAON加盟店での決済200円（[消費税](../Page/消費税.md "wikilink")込）ごとに、「電子マネーWAONポイント」が1ポイント付与される。200円未満の端数は切り捨てとなる。ボーナスポイントが付く商品以外では一回の会計が200円未満の場合はポイントは付与されない。後述のWAON POINT運用開始までは、単に「WAONポイント」としていた。
+
+イオングループの店舗では特定商品を購入すると上記ポイントとは別にボーナスポイントが付与される。さらに、毎月15日から月末までは「G.G WAON」・「ゆうゆうワオン」で特定商品を購入すると「G.G WAONボーナスポイント」が付与される。なお、後述の「お客さまわくわくデー」などのポイント変倍の対象は通常ポイント部分についてのみで、ボーナスポイント部分は倍付けにならない。
+
+JMB系WAONは、JALマイルが貯まる（200円ごとに1マイル）代わりに電子マネーWAONポイントは付与されない。また、WAONで加算されるボーナスポイントの代わりに、WAONボーナスポイントの1/2がボーナスマイルとして付与される。マイル加算は毎月10日・20日・月末にまとめて行われる。後述の「WAONポイントまとめてプログラム」とWAONポイントからの募金は全て対象外。
+
+WAONが使用可能なイオングループの店舗では、2008年10月15日から毎月5日・15日・25日を電子マネーWAONポイントが2倍となる「お客さまわくわくデー」としている\[34\]。ただし、イオングループ内でも一部対象外店舗もある。
+
+土曜日と日曜日は
+
+  - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")、[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")、[東海地方](../Page/東海地方.md "wikilink")、[沖縄県](../Page/沖縄県.md "wikilink")の総合スーパーイオン・イオンスタイル
+  - イオンスーパーセンター
+  - [新潟県](../Page/新潟県.md "wikilink")、[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")、沖縄県のマックスバリュ
+  - 山陽マルナカの庭瀬店、老松店、広畑店、泉大津店、西宮店、水谷店
+
+に設置されている「ハッピーゲート」に電子マネーWAONカードをタッチすると2WAONポイント（JMB WAONの場合は2WAON（電子マネー））が付与される（WAON POINTカードは対象外）。複数枚のカードを持っている場合、1日最多で10枚までタッチできる\[35\]。
+
+[年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")・店舗（グループ）のセール期間や、一部店舗のセルフレジ・限定時間帯などに、電子マネーWAONポイントが2倍 - 5倍になるキャンペーンを行うこともある\[36\]（ボーナスポイントは対象外。他の倍付けキャンペーンとは重複せず、3倍以上のキャンペーンが他にある時はそちらが適用される）。
+
+イオンなどの一部の店舗には「リサイクルステーション」が設置されており、持ち込んだ資源物の量に応じてWAONポイントが付与される。対象となる資源物の種類は古紙（1kgにつき1WAONポイント）、ペットボトル（5本につき1WAONポイント）、紙パック（10枚につき1WAONポイント）の3種類で\[37\]、回収している資源物の種類は店舗によって異なる。一部の店舗を除き、WAON POINTカードも利用可能\[38\]。
+
+イオンカードセレクトとイオン銀行CASH+DEBITの場合、紐付けされたイオン銀行からの月間オートチャージ合計金額に対し、200円毎に電子マネーWAONポイントが1ポイントが付与される。また、この口座から電気料金・固定電話・携帯電話・[NHK受信料](https://ja.wikipedia.org/wiki/NHK受信料 "wikilink")への自動引き落とし1件につき5ポイントが、この口座への「給与」扱いでの給与振り込みで10ポイントが付与される。これらのポイントは翌月17日以降に合算してWAONステーション等で受け取る事ができる。
+
+[カーセブン](https://ja.wikipedia.org/wiki/カーセブンディベロプメント "wikilink")、[サカイ引越センター](https://ja.wikipedia.org/wiki/サカイ引越センター "wikilink")、[大東建託](https://ja.wikipedia.org/wiki/大東建託 "wikilink")のサービスを利用した場合は、WAON決済以外でもWAON番号とコードの入力（または通知）でWAONポイントが付与される。ポイントを受け取るには有効期限内に「イオン銀行ATM（一部未対応のATMあり）」「WAONステーション」「[Famiポート](https://ja.wikipedia.org/wiki/Famiポート "wikilink")」でチャージ済みのWAONにポイントをダウンロードする必要がある。JMB系WAONでは提携先からのWAONポイントの付与はできず、大東建託では代替としてWAONポイント相当のチャージサービスが実施されている。
+
+### WAON POINTサービス（共通ポイントサービス）
+
+「[イオンモール](https://ja.wikipedia.org/wiki/イオンモール "wikilink")」に入居する専門店\[39\]や、「[イオン](https://ja.wikipedia.org/wiki/イオン_\(店舗ブランド\) "wikilink")」などのグループ内GMSにて利用できる、イオングループの共通[ポイントサービス](https://ja.wikipedia.org/wiki/ポイントサービス "wikilink")である。2016年6月23日にサービス開始し、同時に現金払い等向けに決済機能が無い共通ポイントカードである「WAON POINTカード」の発行も開始した。なおイオングループ内でも、[スポーツオーソリティ](https://ja.wikipedia.org/wiki/スポーツオーソリティ "wikilink")は半年遅れの12月14日に利用開始、[ミニストップ](https://ja.wikipedia.org/wiki/ミニストップ "wikilink")では当初一部店舗からスタートし、全店対応は半年遅れの12月27日であった。
+
+イオンカードや2016年6月15日までに所有者登録のあるWAON（WAONカード、G.G.WAON、ゆうゆうワオン、モバイルWAONなど）は自動的にWAON POINTへ会員登録された。ポイントの付与方法・付与率は電子マネーWAONポイントと同じだが、WAON POINT会員登録済のWAONは、WAON POINT加盟店での月間累計利用金額に応じて税込500円毎に1WAON POINTが翌月付与される月間WAON POINTが新たに設けられ、2019年6月まで付与された。イオンカードの場合、ポイント付与はWAON払いや現金払いに限らず[Suica](../Page/Suica.md "wikilink")や[SUGOCA](https://ja.wikipedia.org/wiki/SUGOCA "wikilink")をはじめとした[交通系ICカード](../Page/乗車カード.md "wikilink")、商品券などでの支払い等も対象となる。
+
+WAON POINT加盟店にてWAON POINT会員登録済みのWAONおよびモバイルWAONで決済した場合は、電子マネーWAONポイントではなくWAON POINTで付与される\[40\]。貯まったWAON POINTは加盟店レジでWAON POINT利用の旨を伝えれば値引きに利用できるほか、「センターお預かりの電子マネーWAONポイント」の扱いで「WAONステーション」等で一旦ダウンロード（電子マネーWAONポイントに交換）した上で電子マネーに再度交換（ポイントチャージ）して利用する。「WAONチャージャーmini」と「WAONステーション」ではセンターお預かりポイントの全額ダウンロードと電子マネーWAONポイントの全額交換からなる一連のプロセスが続けて実行される（全ポイントチャージ）。
+
+会員登録は、JMB WAONを除くすべてのWAONで可能である。会員登録後に「smart WAON」Webサイト上でカード追加の手続きを行うことで、WAON POINTカードを追加登録してWAON POINTの一括管理が可能である（一括管理に関しては、WAON POINTカードで会員登録し、JMB系を除くWAONやイオンカードをカード追加することでも可能である）。
+
+なお、WAON POINTカードの導入に伴って、株式会社ダイエーが展開していた「[ハートポイントカード](https://ja.wikipedia.org/wiki/ハートポイントサービス "wikilink")」が廃止された。
+
+2018年3月1日からは、イオングループの店舗（一部対象外の店舗あり）でWAONを利用した場合に付与されるポイントがWAON POINTに変更となり、それに伴って、レシートのWAON取扱票の表記内容やWAONポイント[約款](https://ja.wikipedia.org/wiki/約款 "wikilink")が変更となった\[41\]。
+
+2019年7月1日からは、会員登録or所有者登録済のWAONでの決済に限りWAON POINTが常時2倍に変更された（他の倍付け企画実施日はそちらが優先）。
+
+### WAONポイントの合算（WAONポイントまとめてプログラム）
+
+複数のカードのWAONポイントを1枚のカードに合算させることができる。合算手続きは自身で「WAONステーション」により、画面の指示に従って操作することで行う。合算元のカードは所有者情報の登録の済否は問わないが、合算先のカードは所有者情報が登録されていることが前提であるカードか、購入後に所有者情報を登録したカードに限られる。なお、JMB系WAONは合算元・合算先いずれも対象外（前述）。
+
+### ポイント交換
+
+提携している他社のポイントを電子マネーWAONポイントに交換することが可能で、交換したポイントを利用する時には、さらに電子マネーに交換する手続きが必要であり、「イオン銀行ATM（一部未対応のATMあり）」や「WAONステーション」、「[Famiポート](https://ja.wikipedia.org/wiki/Famiポート "wikilink")」、ミニストップのレジなどで、あらかじめポイント交換（交換は1ポイントを1円相当として100ポイント以上、100ポイント単位）を行ってから利用可能となる。また、電子マネーWAONポイントを提携他社のポイントに交換することも可能であるが、このサービスはSuicaポイントのみに留まっている。可能ポイントの交換先や交換条件などについてはWAON公式サイトを参照。
+
+### 募金
+
+2008年（WAONが全国展開された年）より、所有者情報登録済みのWAON（ご当地WAONを含む）とゆうゆうワオンで、WAONポイントを使った募金が可能となった（受付は募金受付期間内のみ）。
+
+1WAONポイント以上、1WAONポイント単位で募金が可能で、WAONステーションにてポイントを預け入れる手続きを済ませ、WAON公式サイトで寄付・募金申請を行う。
+
+モバイルWAONの場合は携帯電話の通信機能を利用して預け入れから申請まで、その場で行える。なお、JMB系WAONでの募金は（前述した理由により）できない。
+
+過去「東日本大震災 復興支援募金」「熊本地震緊急支援募金」などが行われ、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")からイオンが[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列の](../Page/日本テレビネットワーク協議会.md "wikilink")[チャリティー番組](https://ja.wikipedia.org/wiki/チャリティー#チャリティー番組 "wikilink")『[24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』の[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")になっていることもあり、同番組のチャリティー募金も可能となっている（募金できるのは募金受付期間のみ）。
+
+## 種類
+
+基本機能は同一であるが、発行形態や発行条件などによって種類がある。
+
+### ICカード型
+
+  - 原則、表面右上\[42\]にWAONのアクセプタンスマークが配置され、それとは別に基本的にはカードの表面左下（特記以外）もしくは裏面右下\[43\]にマスコットのワオンが描かれている。
+  - ★は55歳以上対象のG.G.（Grand Generation）マーク付仕様が用意されているカード。
+
+#### WAONカード単体型
+
+  - **WAONカード** - 基本カード。チャージは現金のみ対応。標準カード以外にも周年記念、ファミリーマート\&WAON限定（ファミリーマートの看板を模した柄、期間・枚数限定）\[44\]、懸賞プレゼント専用といくつかの限定デザインのカードが発行された。
+  - **ゆうゆうワオン** - 機能は基本カードと同じだが、65歳以上を対象に発行され、署名された本人のみが利用できる。購入時に300ポイントがあらかじめ付与されているほか、「G.G感謝デー」「G.G WAONボーナスポイント」の対象ともなっている。当初、2009年4月15日より東北地方のジャスコ・サティ各店にて先行導入された後\[45\]、同年9月から全国展開された。ゆうゆうワオンの発行に伴い、「イオンシニアクラブカード」の新規加入受付を終了している。このカードのみカード名称が「ゆうゆう**WAON**」ではなく「ゆうゆう**ワオン**」。
+  - **G.G WAON** - 55歳以上を対象に発行される単体カードで、対象年齢以外の利用条件は基本的にゆうゆうワオンと同じ。
+  - **オリジンWAON** - [オリジン弁当・中華東秀で発行される単体カード](https://ja.wikipedia.org/wiki/オリジン東秀 "wikilink")。ポイント機能等はなく、利用条件は基本カードと同じ。
+  - **吉野家WAON** - [吉野家](../Page/吉野家.md "wikilink")で発行される単体カード。ポイント機能等はなく、利用条件は基本カードと同じ。「牛丼」と「お店」の2バージョンがあり（前者のワオンは裏面）、ワオンが吉野家の店員の帽子を被っている。イオンカードと同時に申し込めばWAONカードプラスと同様に扱われ、オートチャージにも対応する。
+  - **近畿日本ツーリストスチューデントWAON** - [近畿日本ツーリスト](https://ja.wikipedia.org/wiki/近畿日本ツーリスト "wikilink")およびグループ地域会社が取り扱う[修学旅行](../Page/修学旅行.md "wikilink")に参加する生徒向けに発行されるカード（主に体験学習の料金決済や土産物の購入に使用する）。利用条件は基本カードと同じ。
+  - **近畿日本ツーリストWAON** - 近畿日本ツーリストで発行される単体カード。利用条件は基本カードと同じ。
+  - **クラブツーリズムWAON** - 近畿日本ツーリストと同じ[KNT-CTホールディングス](https://ja.wikipedia.org/wiki/KNT-CTホールディングス "wikilink")傘下の[クラブツーリズム](https://ja.wikipedia.org/wiki/クラブツーリズム "wikilink")が企画・実施するバスツアーに参加する会員に向けて発行されるカード。利用条件は基本カードと同じ。
+  - **KASUMI WAON** - [カスミ](../Page/カスミ.md "wikilink")で発行されるカード。利用条件は基本カードと同じ。
+
+#### ポイントカード/会員カード一体型
+
+  - **タキヤWAONカード** - [タキヤ](https://ja.wikipedia.org/wiki/タキヤ "wikilink")メンバーズカードとの一体型カード。ワオンが薬箱のそばにいる。下記のハックドラッグWAONと同じ理由でラインナップ落ち。
+  - **ハックドラッグWAON** - カムズクラブカード（[CFSコーポレーション](https://ja.wikipedia.org/wiki/CFSコーポレーション "wikilink")）との一体型カード。2012年7月1日に販売開始するが、CFSコーポレーションが[ウエルシア薬局](https://ja.wikipedia.org/wiki/ウエルシア薬局 "wikilink")と合併し、ウエルシアが導入している[Tポイント](https://ja.wikipedia.org/wiki/Tポイント "wikilink")サービスへ切り替えるため、2015年12月31日で申込受付終了。以降は電子マネーWAONのみ利用可能。
+  - **BonBeltaWAON** - [ボンベルタ成田店の会員カード機能を持つカード](https://ja.wikipedia.org/wiki/ボンベルタ百貨店 "wikilink")。
+  - **JMB WAON**★ - [日本航空](../Page/日本航空.md "wikilink")の[マイレージサービス](../Page/マイレージサービス.md "wikilink")「[JALマイレージバンク](../Page/JALマイレージバンク.md "wikilink")（JMB）」との一体型カード。ポイントはWAONポイントではなくJMBマイルとして加算される。JMB G.G WAONは55歳以上限定のカード（申込時に年齢確認が必要で、書面のみの受け付け）で、JMBのマイルの有効期限が一般の会員より延長される優遇がなされる。ワオンは裏面。
+  - **BIC CAMERA JMB WAON** - JMB WAONカードにビックポイントカード（[ビックカメラ](https://ja.wikipedia.org/wiki/ビックカメラ "wikilink")）の機能を付加したもの。ビックカメラ店頭配布の申込書でのみ発行を受け付ける。なお、すでにJMB WAONなどのWAONの入った何かしらのJMBカードを保有している場合はJMB側がWAON付きJMBカードの複数枚の所持を認めていないため、申込書を郵送しても発行が拒絶される。ビックカメラのポイントカード登録（ネット上で行う）の中にJMB番号の紐付けが済んでいれば、一般のJMB WAON\[46\]で同じ使い方ができるようになっている。ワオンは裏面。
+  - **藤田観光グループ・メンバーズカードWAON** - [藤田観光](https://ja.wikipedia.org/wiki/藤田観光 "wikilink")グループ・メンバーズカードとの一体型カード。
+  - **TLC WAONカード** - [TOKAIホールディングス](https://ja.wikipedia.org/wiki/TOKAIホールディングス "wikilink")の「TLC会員サービス」会員カード機能を持つカード。「りんごと木」「散歩道」「リング」の3バージョンがある。
+  - **鳥取ガスグループ Smart Life WAON** - [鳥取ガス](https://ja.wikipedia.org/wiki/鳥取ガス "wikilink")グループの「Smart Life会員サービス」会員カード機能を持つカード。本カードは[三井住友カード](../Page/三井住友カード.md "wikilink")が発行元となる。
+  - **JRSメンバーズクラブWAON** - [日本ロードサービス](https://ja.wikipedia.org/wiki/日本ロードサービス "wikilink")の会員制ロードサービス（カーコンシェルジュデスク・Life Netサービスを含む）機能を付加したもの。
+  - **イオンペットWAON** - [イオンペット](https://ja.wikipedia.org/wiki/イオンペット "wikilink")で発行されるカード。元々はポイント機能等がない単体カードだったが、2014年3月から「イオンペットポイントカード」と一体化された。
+  - **イオンライフWAON**★ - イオンライフの会員カード機能を持つカード。
+  - **クロネコメンバーズWAON** - [ヤマト運輸](../Page/ヤマト運輸.md "wikilink")の「クロネコメンバーズ」会員のみ申し込み可能なカード\[47\]。ヤマト運輸のオリジナル電子マネー「クロネコメンバー割」機能が付随するが、WAON自体は一般的な記名式カードとほぼ同一。ヤマト運輸の大口割引「BIG割」に対応した「クロネコメンバーズBIG専用カード」も用意されている。いずれもワオンは裏面。
+
+#### キャッシュカード一体型
+
+全て[イオン銀行](https://ja.wikipedia.org/wiki/イオン銀行 "wikilink")のICキャッシュカードとの一体型カード。WAONのアクセプタンスマークは裏面左下に配置されている。前述の「銀行チャージ」が可能。
+
+  - **イオン銀行キャッシュカード（イオンバンクカード）** - イオン銀行の基本キャッシュカード。他のWAONカードと異なりワオンが大きく描かれている。
+  - **イオン銀行CASH+DEBIT** - イオンバンクカードに[JCBブランドの](../Page/ジェーシービー.md "wikilink")[デビットカード](../Page/デビットカード.md "wikilink")機能を統合したもの。「一般」「ディズニー」「スイーツ」の3バージョンがあるがいずれにもワオンは描かれていない。
+  - **イオンカードセレクト**★ - イオンバンクカードとイオンカードを一体化させたカードで、イオン銀行のキャッシュカードとイオンカードの主力カード。WAON自体はイオンバンクカード側のためクレジットチャージはできない。「[ミッキーマウス](../Page/ミッキーマウス.md "wikilink")」「[トイ・ストーリー](https://ja.wikipedia.org/wiki/トイ・ストーリーシリーズ "wikilink")」「[ミニオンズ](https://ja.wikipedia.org/wiki/ミニオンズ_\(キャラクター\) "wikilink")」といったデザインカードがあるが、それによってはワオンが描かれていない。なお、イオン銀行の総合口座開設と共に入会申込をした場合は原則として口座は開設されるため、新規口座が開設されたのに入会審査が否決された場合は代替のカード\[48\]が発行される\[49\]。
+
+#### クレジットカード一体型
+
+全て、[イオンクレジットサービス](https://ja.wikipedia.org/wiki/イオンクレジットサービス "wikilink")のプロセシングによりイオン銀行が発行するカード。WAONのアクセプタンスマークはクレジットカード自体のアクセプタンスマーク配置の兼ね合いもあり裏面左下に配置されている。ワオンが表面に描かれているカードではワオンを避けて刻印がされており、ワオンが裏面に描かれているカードではアクセプタンスマークとワオンが並べられている（なお特記以外のカードにはワオンが描かれているとは限らない）。
+
+  - [提携カード](https://ja.wikipedia.org/wiki/提携カード "wikilink")も含めた[イオンカードシリーズ](https://ja.wikipedia.org/wiki/イオンクレジットサービス#イオンカード "wikilink")
+
+<!-- end list -->
+
+  - **イオンカード（WAON一体型）**★ - イオンカードとの一体型カード。これまでにWAONが付随しておらずICチップも搭載されていないイオンカードはこのカードへの移行が進められており、更新のタイミングでこのカードに自動切替される。接触型ICチップの有無によってワオンの配置が異なる（無：裏面、有：表面）。「ミッキーマウス」「トイ・ストーリー」「[TGC](https://ja.wikipedia.org/wiki/東京ガールズコレクション "wikilink")」「[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")」「[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")」といったデザインカードがあるが、それによってはワオンが描かれていない。
+      - **イオンサンデーカード** - [サンデーとの提携イオンカード](https://ja.wikipedia.org/wiki/サンデー_\(ホームセンター\) "wikilink")。
+      - **（ETC併用型イオンカード）** - [高速道路会社との提携イオンカードで](../Page/日本の高速道路.md "wikilink")、いずれも[ETC](../Page/ETC.md "wikilink")カードが自動付帯。「イオン[首都高カード](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")」「イオン[THRU WAYカード](https://ja.wikipedia.org/wiki/THRU_WAYカード "wikilink")（[阪神高速道路](https://ja.wikipedia.org/wiki/阪神高速道路 "wikilink")）」「イオン[E-NEXCO](https://ja.wikipedia.org/wiki/東日本高速道路 "wikilink") passカード」「イオン[NEXCO中日本カード](https://ja.wikipedia.org/wiki/中日本高速道路 "wikilink")」「イオン[NEXCO西日本カード](https://ja.wikipedia.org/wiki/西日本高速道路 "wikilink")」がある。
+      - **荘銀イオンカード** - [荘内銀行](../Page/荘内銀行.md "wikilink")のキャッシュカードとの一体型イオンカード。
+      - **住友不動産 ショッピングシティ イオンカード** - [住友不動産](https://ja.wikipedia.org/wiki/住友不動産 "wikilink")との提携イオンカード。イオンカードシリーズでは珍しい独自デザイン。
+      - **ベネッセ・イオンカード** - [ベネッセコーポレーション](https://ja.wikipedia.org/wiki/ベネッセコーポレーション "wikilink")との提携イオンカード。ワオンは裏面。
+  - **イオンカードセレクト**★ - 前述。
+  - **イオンJMBカード（WAON一体型）**★ - JMB WAONカードとイオンカードを一体化させたカード。ワオンは裏面。
+
+<!-- end list -->
+
+  - イオンカードシリーズ以外の提携カード
+
+<!-- end list -->
+
+  - **カスミカード（WAON一体型）** - [カスミ](../Page/カスミ.md "wikilink")発行のクレジットカード。以前から発行されていたが、2018年3月にカスミでもWAONでの決済が可能になったことに伴い、WAON一体型カードに切り替わった。
+  - **コスモ・ザ・カード・オーパス** - [コスモ石油](../Page/コスモ石油.md "wikilink")のクレジットカードとの一体型カード。ユーザーから預かった年会費を環境保全活動を行うNPO法人や公益法人などに、コスモ石油からの分も合わせて寄付する『コスモ・ザ・カード・オーパス「エコ」』もある（「エコ」のみワオンは裏面）。
+  - **コジマ×ビックカメラカード** - [コジマ](../Page/コジマ.md "wikilink")のクレジットカードとの一体型カード。ワオンは描かれていない。
+  - **サンエックスカード（リラックマ）** - [リラックマ](https://ja.wikipedia.org/wiki/リラックマ "wikilink")がデザインされた[サンエックス](https://ja.wikipedia.org/wiki/サンエックス "wikilink")のクレジットカード。
+  - **ツルハドラッグカード** - [ツルハ](../Page/ツルハ.md "wikilink")のクレジットカード。
+  - **トイザらス・ベビーザらス・カード** - [トイザらス](../Page/トイザらス.md "wikilink")と[ベビーザらス](https://ja.wikipedia.org/wiki/ベビーザらス "wikilink")のクレジットカード。
+  - **BE KOBEカード** - [三宮センター街](../Page/三宮センター街.md "wikilink")のクレジットカード。
+  - **マルエツカード** - [マルエツ](../Page/マルエツ.md "wikilink")のクレジットカード。2019年9月1日会員募集開始。
+  - **メイクマンカード** - [メイクマン](https://ja.wikipedia.org/wiki/メイクマン "wikilink")のクレジットカード。
+  - **やまやカード** - [やまや](https://ja.wikipedia.org/wiki/やまや "wikilink")のクレジットカード。
+  - **より、そう、ちから。東北電力カード** - [東北電力](../Page/東北電力.md "wikilink")のクレジットカード。
+
+#### 子カードとしてのみ発行されるカード
+
+  - **WAONカードプラス** - イオンカードの子カード。
+  - **スポーツオーソリティWAONカードプラス** - [スポーツオーソリティ](https://ja.wikipedia.org/wiki/スポーツオーソリティ "wikilink")カード会員が取得できる子カード。スタジアムにいるワオンが首にメガホンをかけている。
+  - **三井住友カードWAON** - [三井住友カード](../Page/三井住友カード.md "wikilink")の子カード。なお、[VJA](https://ja.wikipedia.org/wiki/VJA "wikilink")グループ17社からも同等の機能を持つカードを発行している。
+  - **JP BANK カード WAON** - [ゆうちょ銀行](https://ja.wikipedia.org/wiki/ゆうちょ銀行 "wikilink")のクレジットカード「JP BANK カード」の子カード。実質的には三井住友カードWAONの色違い。
+
+### バーチャルカード（モバイルWAON）
+
+FeliCa（[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")）機能を有する携帯電話に利用者自身でWAONアプリをダウンロードし、起動後に利用登録することで、おサイフケータイでもWAONを利用出来る。
+
+WAONカードとWAONカードプラスに相当する「モバイルWAON」と、JMB WAONカードに相当する「モバイルJMB WAON」の2種類が存在する。アプリ自体は同一で、前者のバーチャルカードはイオンクレジットサービスが、後者のバーチャルカードは日本航空がそれぞれ発行する。なお、両者を同時に設定することはできず、変更したい場合は残高を使い切ってから一旦退会する必要がある。
+
+2008年3月1日から[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")（2007年から先行対応）、[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")、[SoftBankの](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")3社の端末で利用可能になった。
+
+[Android](https://ja.wikipedia.org/wiki/Android "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")では2010年11月24日からおサイフケータイ対応機種で利用可能になった。この場合、プリインストールの「おサイフケータイ」アプリで初期設定を行ってから[Google PlayからWAONアプリをダウンロードし利用登録する事となる](https://ja.wikipedia.org/wiki/Google_Play "wikilink")。2012年4月にはバージョンアップされており、新たに[ウィジェット](https://ja.wikipedia.org/wiki/ウィジェット "wikilink")機能に対応した\[50\]。なお、バージョンアップ後のアプリは起動時にワオンの鳴き声（決済音と同じ音）が出るようになっていたが、利用者からの評価が芳しくなく廃された。
+
+2018年5月24日からは[Google Payへの対応も開始した](https://ja.wikipedia.org/wiki/Google_Pay "wikilink")。ただし実質的にはモバイルWAONの機能制限版であり、既にモバイルWAONのアプリでモバイルWAONを利用している場合はそれをGoogle Payに紐付ける事になる。後からモバイルWAONのアプリをインストールすることでモバイルWAONへのアップグレードも可能。なお、モバイルJMB WAONをGoogle Payに紐付けることはできない。
+
+また、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")については、[iPhone 4と](https://ja.wikipedia.org/wiki/iPhone_4 "wikilink")[iPhone 4Sにおいて](https://ja.wikipedia.org/wiki/iPhone_4S "wikilink")、[ソフトバンクBB](../Page/ソフトバンクBB.md "wikilink")（現・[ソフトバンクコマース&サービス](https://ja.wikipedia.org/wiki/ソフトバンクコマース&サービス "wikilink")）が「SoftBank SELECTION（ソフトバンクセレクション）」ブランドで発売されていた「WAON用電子マネーシール for iPhone 4\[51\]」を背面に貼り付けることで対応できる。
+
+### 地域カード
+
+WAONには多数の地域カードが存在する。
+
+システムは全て、通常のWAONカード（単体型）にFeliCaのアプリケーションである「FeliCaポケット」を搭載することで実現されている。このためいずれの地域カードにも裏面左上のWAONのカード番号に加え、左下にFeliCaポケットのカード番号（「FP（FeliCa Pocket）」で始まる12桁の英数字）が記載され、カードの発行元も「[フェリカポケットマーケティング](https://ja.wikipedia.org/wiki/フェリカポケットマーケティング "wikilink")株式会社」（FPM）\[52\]もしくはFeliCaポケットのロゴが併記されている。
+
+WAON自体の機能に変更は一切加えられていないため、通常のWAONカードと同様に全国で利用可能。
+
+#### ご当地WAON
+
+特定の地域のみで発行される、通称「**ご当地WAON**」（ごとうちワオン）が存在する。ご当地WAONには大きく分けて「[地域通貨](../Page/地域通貨.md "wikilink")・地域ポイントとの一体型」と「（売り上げの一部が地域の子育てや自然環境整備に寄付される）地域還元型」の2種類が存在するが、根幹を成すシステムはいずれもFeliCaポケットで変わらない。
+
+一部のご当地WAONはイオンリテール運営のオンラインショップ「イオンショップ」でカードと各種WAONグッズ（ぬいぐるみ、絵本、文具など）のセットにて販売（カードのみの単品販売は無い）されており、このセット品であれば全国で入手可能\[53\]。なお、2011年11月25日より、一部の店舗を除き、全国発売されていなかったご当地WAONの発売が開始された。
+
+具体的なカードの種類及び機能・寄付先等については公式サイト内の「[ご当地WAON](https://www.waon.net/card/region/)」参照。
+
+東北復興支援WAONに限りワオンが描かれていない（「岩手」「宮城」「福島」の3バージョン共通）が、その他のカードには表面・裏面は問わずに**原則ワオンは描かれる**\[54\]。また、後述のエリンも描かれているカードも存在する。
+
+#### サッカー大好きWAON
+
+2015年5月18日、[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）所属クラブと提携した「**サッカー大好きWAON**」（サッカーだいすきワオン）の発行が発表された\[55\]。地域還元型のご当地WAONと全く同じシステムであるため、根幹には同様にFeliCaポケットが存在する。カード名は「大好き（クラブ名）WAON」で統一されている。
+
+2015年の[湘南ベルマーレ](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")、[モンテディオ山形](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")、[北海道コンサドーレ札幌](https://ja.wikipedia.org/wiki/北海道コンサドーレ札幌 "wikilink")、[ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")の4クラブとの提携を皮切りに、2017年5月19日現在33クラブと提携を行っている\[56\]。
+
+なお、同じくFeliCaのシステムを用いている[ワンタッチパス](https://ja.wikipedia.org/wiki/ワンタッチパス "wikilink")（Jリーグ全試合対象観戦記録システム）には基本的に非対応となっているが、イオングループの[マックスバリュ西日本](https://ja.wikipedia.org/wiki/マックスバリュ西日本 "wikilink")がスポンサーとなっている[レノファ山口FC](https://ja.wikipedia.org/wiki/レノファ山口FC "wikilink")では、2017年シーズンからサッカー大好きWAON（大好きレノファ山口FC WAON）の機能を搭載したワンタッチパス対応シーズンチケットを発行している\[57\]。
+
+いずれのカードもワオンは裏面。
+
+#### 応用例
+
+WAONの地域カードを利用して、各地域でも独自のサービスが展開されている。厳密にはそのFeliCaポケットを利用しており、WAONとの直接の関係はない。
+
+  - 東北・北陸地域ではFPM（かつては[廣済堂](https://ja.wikipedia.org/wiki/廣済堂 "wikilink")）などが提供する[ポイントサービス](https://ja.wikipedia.org/wiki/ポイントサービス "wikilink")「[まるっと](https://ja.wikipedia.org/wiki/まるっと "wikilink")」\[58\]の機能が利用できる（利用には、対象となるカードを用意の上でまるっとのサイトから要登録）。
+  - 島根県では[メディアスコープ](https://ja.wikipedia.org/wiki/メディアスコープ "wikilink")が提供する「あいポケット」の機能が利用できる。このため「石見銀山WAON」以前から発行されているカード\[59\]には発行元にFPMの代わりに「株式会社メディアスコープ」が併記されており、あいポケットのキャラクターであるペリカンもあしらわれている。
+
+### その他
+
+以下のイベント等とコラボレーションしたオリジナルWAONを発行している。
+
+  - [お台場合衆国](https://ja.wikipedia.org/wiki/お台場合衆国 "wikilink")WAONカード\[60\]・[めざまし one](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink") WAONカード\[61\]（[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - ミニストップ限定オリジナルWAONカード（[ミニストップ](https://ja.wikipedia.org/wiki/ミニストップ "wikilink")）…現在もミニストップの店頭で入手可能。
+  - ファミリーマート限定オリジナルWAONカード（旧[ファミリーマート](https://ja.wikipedia.org/wiki/ユニー・ファミリーマートホールディングス "wikilink")）…[ファミリーマート](../Page/ファミリーマート.md "wikilink")でのWAONサービスイン時に限定販売されたため、現在は入手不可。
+  - 東京ガールズコレクション名古屋限定オリジナルWAONカード・東京ガールズコレクション'11 A/W オリジナルWAONカード\[62\]（[東京ガールズコレクション](https://ja.wikipedia.org/wiki/東京ガールズコレクション "wikilink")）
+  - 福岡ソフトバンクホークス×WAONカード\[63\]（[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")・九州地区のイオン系店舗で発行）
+
+## 沿革
+
+  - 2007年（平成19年）
+      - 4月27日 - 関東地域および[新潟県](../Page/新潟県.md "wikilink")の[ジャスコ](../Page/ジャスコ.md "wikilink")、マックスバリュ、[イオンスーパーセンター](https://ja.wikipedia.org/wiki/イオンスーパーセンター "wikilink")など96店舗（直営フロアのみ）で決済サービスを開始\[64\]。
+      - 9月10日 - イメージキャラクターである白い犬の名前が一般公募により、**Happy Waon**（ハッピーワオン）に決まったと発表される。
+      - 10月9日 - イオンと日本航空（JAL）との業務提携の第一弾として、JALマイレージバンク（JMB）と連携する『JMB WAON』および『イオンJMBカード（JMB WAON一体型）』の2種類のカードを2008年3月を目途に発行とすることを発表\[65\]\[66\]。
+      - 10月15日 - 東海・近畿地域の一部イオン店舗で利用を開始。同時にオートチャージのサービスも開始（関東エリアの店舗は12日から開始）。
+      - 11月5日 - NTTドコモのおサイフケータイに対応する「モバイルWAON」サービスを追加。
+      - 11月20日 - 関東地域全店舗および九州地域を除く一部店舗のミニストップで利用の一斉開始。当初は11月15日サービスイン予定だったが、システムトラブルにより延期されていた。12月10日までに九州地域を除く全国約1,700店舗のミニストップでサービスの導入が完了。
+  - 2008年（平成20年）
+      - 3月1日
+          - 全国のイオングループのショッピングセンター内の専門店ほか約23,000店舗、九州地区のミニストップ全店舗に導入。以降、全国のイオングループ各店舗への導入が進められる。
+          - モバイルWAONがau、ソフトバンクモバイルの各おサイフケータイに対応。
+          - 日本航空との提携カード（イオンJMBカード）の新規入会・切替を開始\[67\]\[68\]。
+      - 8月21日 - イオンの純粋持株会社化に伴い、WAONに関する業務を同社から事業子会社の[イオンリテール](https://ja.wikipedia.org/wiki/イオンリテール "wikilink")に譲渡（一部のWAONは引き続き[イオンクレジットサービス](https://ja.wikipedia.org/wiki/イオンクレジットサービス "wikilink")・[イオン銀行](https://ja.wikipedia.org/wiki/イオン銀行 "wikilink")がWAONおよびカード発行元となる）。
+      - 10月2日 - [イオンレイクタウン](https://ja.wikipedia.org/wiki/イオンレイクタウン "wikilink")の[自動販売機](../Page/自動販売機.md "wikilink")・[駐車場](../Page/駐車場.md "wikilink")ゲート・遊園地「[モーリーファンタジー](../Page/イオンファンタジー.md "wikilink")」内の[メダル貸機に決済を導入](https://ja.wikipedia.org/wiki/メダルゲーム "wikilink")\[69\]。
+      - 10月4日 - [島根県](../Page/島根県.md "wikilink")内で新規発行するWAONすべてを、[メディアスコープ](https://ja.wikipedia.org/wiki/メディアスコープ "wikilink")との提携カード「あいポケットWAON」に切り替え\[70\]。なお、当時はご当地WAONが展開されていなかった。
+      - 10月10日 - この日をもって「WAONデー」終了。10月15日から「お客さまわくわくデー」開始。
+      - 12月1日 - [日本郵便](https://ja.wikipedia.org/wiki/日本郵便 "wikilink")（旧・[郵便事業](https://ja.wikipedia.org/wiki/郵便事業 "wikilink")）より、[代金引換](https://ja.wikipedia.org/wiki/代金引換 "wikilink")の支払いに利用可能となる\[71\]と発表があり、2009年秋頃開始と報道されたが、その後報道も無く実現されている様子もないが、頓挫したという公式な発表も無い状況である。
+  - 2009年（平成21年）
+      - 2月1日 - クレジット・キャッシュ・WAON一体型『イオンカードセレクト』の申し込み受付開始\[72\]。
+      - 4月15日 - 東北地方のジャスコ・サティ各店において「ゆうゆうワオンカード」（65歳以上の高齢者が申込可能）の取扱を開始\[73\]。9月には日本全国の店舗に拡大（一部店舗を除く）。
+      - 5月11日 - 吉野家で導入開始（イオングループ外で初）\[74\]。
+      - 5月18日 - 「JP BANK カードWAON」の取扱を開始\[75\]。
+      - 6月15日 - 発行枚数1,000万枚突破\[76\]。
+      - 6月19日 - [エコポイント](https://ja.wikipedia.org/wiki/エコポイント "wikilink")の交換対象商品の一つとして選ばれる。
+      - 8月1日 - ポプラが広島市内の7店舗へ順次試験導入\[77\]（コンビニエンスストア初）。
+  - 2010年（平成22年）
+      - 3月11日 - 「モバイルJMB WAON」サービスを追加\[78\]。
+      - 10月5日 - 「イオンショップ」を皮切りに、ネット決済を開始。
+  - 2011年（平成23年）2月18日 - ソフトバンクBBが [iPhone 4](https://ja.wikipedia.org/wiki/iPhone#iPhone_4 "wikilink") 向けのWAONシールを発売\[79\]。
+  - 2012年（平成24年）
+      - 4月1日 - 鳥取市のコミュニティバス「くる梨」にWAONなどでの決済を開始（交通機関初）\[80\]。
+      - 12月20日 - スマートフォン向けアプリケーション「WAONサービスアプリ」を公開。
+  - 2014年（平成26年）4月1日 - [神田外語大学](../Page/神田外語大学.md "wikilink")の[学生証](../Page/学生証.md "wikilink")をIC学生証WAONに切り替え、発行開始\[81\]。
+  - 2016年（平成28年）
+      - 3月22日 - 2015年度（2015年3月～2016年2月）の年間利用金額が、日本国内におけるIC型電子マネーで初の2兆円を突破したことを発表\[82\]。
+      - 6月23日 - WAON POINTサービスを開始。
+  - 2020年（令和2年）
+      - 2月3日 - 日本郵便が運営する[郵便局](../Page/郵便局.md "wikilink")の郵便窓口で導入された[キャッシュレス決済](https://ja.wikipedia.org/wiki/キャッシュレス決済 "wikilink")においてWAONが対応電子マネーの一つとして選ばれ、利用可能となる（導入当初は全国65ヶ所に限られるが、順次拡大される予定）\[83\]。
+
+## マスコットキャラクター
+
+公式[マスコット](https://ja.wikipedia.org/wiki/マスコット "wikilink")キャラクターは、ワオン（通称）と言う名の白いオス犬である。公式HPによれば、公募によって決まった本名は**Happy Waon**（ハッピーワオン）。サービス開始日の2007年4月27日が生年月日で「Electronic Money Dog」という[犬種で](../Page/犬の品種一覧.md "wikilink")、ポイントを集めて鳴くことを専門とし、[趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")は[買い物](../Page/買物.md "wikilink")\[84\]と言う設定である。イオングループのロゴにある輪を彷彿とさせる不思議な赤い首輪（首からは離れて宙に浮いている）が特徴\[85\]で、この首輪はWAONのアクセプタンスマークにも用いられている。前述の「**ワオン\!**」という決済音は、このワオンの鳴き声という設定である。
+
+公式HPのプロフィールには「エリン」という友達\[86\]や飼い主一家が描かれている\[87\]。
+
+## 事件
+
+  - [2018年](../Page/2018年.md "wikilink")3月から4月にかけて、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")在住の男が[イオン九州](https://ja.wikipedia.org/wiki/イオン九州 "wikilink")の公式アプリ内来店ポイントサービス（イオン九州内の店舗の位置情報から来店1回ごとにWAONポイント2点を付与）に目をつけ、45台の[パソコンを使い位置情報を改ざんする手口で約](../Page/パーソナルコンピュータ.md "wikilink")270万回の来店を装い約540万点分のポイントを[だまし取ろうとして](../Page/詐欺罪.md "wikilink")[福岡県警に](https://ja.wikipedia.org/wiki/福岡県警察 "wikilink")[逮捕](../Page/逮捕.md "wikilink")された。イオン九州の担当者が来店履歴の異常に気づき通報したため、実際の被害額は140点相当にとどまった\[88\]\[89\]\[90\]。ポイントサービスを悪用した逮捕事件は大手小売業では初。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 外部リンク
+
+  - [電子マネー WAON ［ワオン］ 公式サイト](https://www.waon.net/)
+  - [smart WAON](https://www.smartwaon.com/)
+
+[Category:イオングループ](https://ja.wikipedia.org/wiki/Category:イオングループ "wikilink") [Category:電子マネー](https://ja.wikipedia.org/wiki/Category:電子マネー "wikilink") [Category:ポイントカード](https://ja.wikipedia.org/wiki/Category:ポイントカード "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink")
+
+1.  2008年8月21日より。サービス開始時は[イオンが業務をおこなっていた](../Page/イオン_\(企業\).md "wikilink")（[沿革参照](https://ja.wikipedia.org/wiki/#沿革 "wikilink")）。
+2.  イオングループと無関係な他社も別分野で商標登録している。詳細は [特許情報プラットフォーム](https://www.j-platpat.inpit.go.jp/web/all/top/BTmTopPage) の検索結果を参照。
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11. [セイコーマートで電子マネー「WAON」決済サービス開始](https://www.jiji.com/jc/article?k=000001157.000007505&g=prt)時事通信社
+12.
+13. [ジョーシン::WAONが使えます！](http://shop.joshin.co.jp/payment/waon/)
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.  - [NTTデータ](https://ja.wikipedia.org/wiki/NTTデータ "wikilink")
+28. PINパッドのボタンの数は4個であり、左からWAON・交通系カード（地域によって種類が異なる）・iD・[QUICPay](https://ja.wikipedia.org/wiki/QUICPay "wikilink")となっているが、一部非対応の電子マネーがある店舗ではその部分が空白となる。
+29.
+30. 本機自体は本来[CARDNET](https://ja.wikipedia.org/wiki/CARDNET "wikilink")用[JET-SのためIC](https://ja.wikipedia.org/wiki/信用照会端末 "wikilink")・磁気クレジットカードにも対応しているがイオングループではそのFeliCa R/W部分のみを使用しており、クレジットカードやWAON POINTカードはPOSターミナルで読み取る。PINパッド（厳密には本体のテンキーで、本機を客側に向けることでテンキーがPINパッドとして機能する）のボタンは5個存在するが配置はJREM製R/Wと同じ（5個目は空白）。
+    [非接触ICカード対応 日本カードネットワーク専用ターミナル JT-R700CR-40](https://sol.panasonic.biz/mobile/jt-r700cr.html)
+31.
+32. システム更新後のTECレジと富士通レジの場合、店員側のオペレーションでPINパッドのボタンが既に選択済の状態になる。
+33. ATMの例に漏れず、5,000円以上のおつりが生じても5,000円札は出ない。
+34. [お客さまわくわくデー](http://www.aeonretail.jp/otoku/wakuwakuday.html) - イオンリテール
+35.
+36. [1年間のご愛顧に感謝いたします。12/31(木) 1日限りWAONポイント5倍\!](http://www.waon.com/campaign/waon_2009_yearend.html)、[2010 SMILE BARGAIN 初売り WAONポイント・ときめきポイント2倍\!](http://www.waon.com/campaign/waon_2010_newyear.html) - WAON公式サイト
+37.
+38.
+39. <https://www.smartwaon.com/pc/#/member-store>
+40. <https://www.aeon.co.jp/mypage/creditcard/waon_point.html>
+41.
+42. JMB WAONは表面右下。
+43. 両面に描かれている場合、裏面のワオンは後ろを向いている。
+44. [ファミリーマート WAONキャンペーン告知](http://www.family.co.jp/campaign/waon_201001/?fla=fb) - （2010年1月19日-実施）より（2010年1月20日閲覧）
+45. [65歳からおトクにお買い物\!ゆうゆうワオンカード新登場](http://www2.aeon.jp/tencho_scripts/weblog_detail.asp?Seq=747) - イオンリテール 2009年4月12日
+46. または、[JAL ICサービスに対応しているカードであれば](https://ja.wikipedia.org/wiki/JAL_ICサービス "wikilink")、他の提携カードでもビックポイントないしはマイルの加算が可能。ただし、[コジマ](../Page/コジマ.md "wikilink")×ビックカメラの店舗では[JAL ICサービスでのポイント付与はできない](https://ja.wikipedia.org/wiki/JAL_ICサービス "wikilink")。
+47. [クロネコメンバーズカードを便利に利用する - ヤマト運輸](http://www.kuronekoyamato.co.jp/webservice_guide/members_card_off.html)
+48. 当初はイオンバンクカードだったが、CASH+DEBIT発行開始後はCASH+DEBIT（一般）に変更。
+49. 既存の開設者の審査否決時は既存のカードを継続利用することになるため、審査否決の通知しか来ない。
+50. [モバイルWAON 様｜電子マネー事業者様 ご紹介｜電子マネー推進検討会 -電子マネーの普及に向けた活動-｜普及に向けた啓発活動｜おサイフケータイについて｜FeliCa Networks](http://www.felicanetworks.co.jp/osaifu/com_waon.html)
+51. [WAON用電子マネーシール for iPhone 4｜ソフトバンクセレクション](http://www.softbankselection.jp/products/ProductDetail.aspx?sku=4580152982585&cd=F1000183) - 2015年6月25日閲覧
+52. イオン、[イオンフィナンシャルサービス](https://ja.wikipedia.org/wiki/イオンフィナンシャルサービス "wikilink")、ソニー、[大日本印刷](https://ja.wikipedia.org/wiki/大日本印刷 "wikilink")が出資する企業。
+53. [「WAON」検索結果](http://search.aeonshop.com/index.php/search?keyword=%A3%D7%A3%C1%A3%CF%A3%CE) - イオンオンラインショップ
+54. たとえ表面に本来なら特定の地域とは無関係のキャラクターおよびそれを原案とする各地域のキャラクターがデザインされていてもワオンは描かれる（「元気発進\! 北九州WAON」における「[銀河鉄道999](../Page/銀河鉄道999.md "wikilink")」の[メーテル](https://ja.wikipedia.org/wiki/メーテル "wikilink")、「SAPPORO 雪ミク WAON」における[雪ミク](https://ja.wikipedia.org/wiki/雪ミク "wikilink")＝[初音ミク](https://ja.wikipedia.org/wiki/初音ミク "wikilink")。前者のワオンは表面、後者のワオンは裏面）。
+55.
+56.
+57.
+58. [まるっとナビ](http://www.maltto.jp) を参照。
+59. 「あいポケットWAON」「出雲路縁結びWAON（「松江」「出雲」の2バージョン共通）」「隠岐ジオパークWAON」。この3カードは「ご当地WAON」の先駆けとなったカード群にあたる。
+60. [お台場合衆国WAONカード登場\!](http://www.waon.com/odaiba_2009/index.html) - WAON公式サイト
+61. [お台場合衆国をWAONでもっと\!楽しもう\!](http://www.waon.com/odaiba_2010/mezamashi.html) - WAON公式サイト
+62. [「東京ガールズコレクション'11 A/W」- 公式ホームページ内『AEONスペシャルサイト』](http://tgc.st/11aw/special/pr/aeon/) より
+63. [九州のイオングループは福岡ソフトバンクホークスを応援します「福岡ソフトバンクホークス×ＷＡＯＮ」発行について](http://aeon-kyushu.info/files/management_news/873/pdf.pdf) - イオン九州・マックスバリュ九州・ダイエー3社共同発表のニュースリリース、。2015年3月29日閲覧
+64. [イオンから電子マネー「WAON」が生まれます](http://www.aeon.info/news/newsrelease/200704/0403-2.pdf) - イオン ニュースリリース 2007年4月3日
+65. [イオンとJALの業務提携について](http://press.jal.co.jp/ja/release/200710/000622.html) - 日本航空 イオン 共同リリース 2007年10月09日
+66. [イオンとJALの業務提携について](http://www.jal.com/ja/press/0001136/img/20071009A.pdf) - 日本航空 イオン 2007年10月09日
+67. [『JMB WAON』『イオンJMBカード（JMB WAON一体型）』発行について](http://press.jal.co.jp/ja/release/200801/000834.html) - 日本航空 イオン 共同リリース 2008年01月28日
+68. [『JMB WAON』『イオンJMBカード(JMB WAON一体型)』発行について](http://press.jal.co.jp/ja/uploads/20080128A.pdf) - 日本航空 ニュースリリース 2008年1月28日
+69. [自動販売機・駐車場・メダル貸機で「WAON」による決済サービススタート](http://www.aeon.info/ICSFiles/afieldfile/2008/09/22/080922R_1.pdf) - イオン ニュースリリース 2008年9月22日
+70. [2008年10月4日 「あいポケットWAON」 一般販売開始](http://www.ms-ltd.co.jp/2008/09/post-4.html) - メディアスコープ社公式サイト 2008年9月29日
+71. [商品配達時の代金支払いにイオンの電子マネー「WAON」がご利用可能に！、日本郵便、閲覧2017年7月13日](https://www.post.japanpost.jp/whats_new/2008/1201_01.html)
+72. [クレジットカード・キャッシュカード・電子マネー一体型「イオンカードセレクト」の募集開始について](http://www.aeonbank.co.jp/about/news/news_pdf/n2009012901.pdf) - イオン銀行 ニュースリリース 2009年1月29日
+73.
+74.
+75. [「JP BANK カード WAON」の取扱開始について](http://www.jp-bank.japanpost.jp/aboutus/press/2009/abt_prs_id000391.html) - ゆうちょ銀行 プレスリリース 2009年5月15日
+76.
+77. [電子マネーWAONの実験導入](http://www.poplar-cvs.co.jp/ir/mt-pdf/WAON.pdf) - ポプラ公式サイト
+78. [JALマイレージバンク - 「モバイルJMB WAON」新登場\!](http://www.jal.co.jp/jalmile/card/waon/mobile.html) - JALマイレージバンク公式サイト
+79. [「電子マネーシール for iPhone 4」を発売](http://www.softbankmobile.co.jp/ja/news/press/2010/20101227_02/) - ソフトバンクモバイル プレスリリース
+80.
+81.
+82.
+83.
+84. [WAONの特徴](http://www.waon.com/about/index.html) - WAON公式サイト
+85. [ワオンの絵本 ワオンと不思議な首輪](http://www.waon.com/picbook/index.html?3) - WAON公式サイト
+86. メス犬。2周年記念のカードで初登場して以来、「大阪ミュージアムWAON（シンボルバージョン）」や「高砂結びのWAON」にも描かれており、時折プレスリリースにも登場する（年間決済金額2兆円突破等）。
+87. [ワオンの絵本 ワオン2才のおたんじょうび](http://www.waon.com/picbook/index.html?1) - WAON公式サイト
+88. [イオン九州公式アプリ来店ポイント不正取得と取得未遂に関してのお知らせ](http://aeon-kyushu.info/files/management_news/1656/pdf.pdf) - イオン九州ニュースリリース、2018年11月18日閲覧。
+89. [1回2pt...イオン来店ポイント詐取 無職男、270万回来店装う](https://www.fnn.jp/posts/00405381CX) - [FNN](../Page/フジニュースネットワーク.md "wikilink")[プライムニュース](https://ja.wikipedia.org/wiki/プライムニュース "wikilink")、2018年11月18日閲覧。
+90. 538万円分のポイントを・・・イオン“270万回”来店装う(18/11/13) - [ANNnewsCH](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")、2018年11月18日閲覧

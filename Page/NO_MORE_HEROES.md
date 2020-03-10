@@ -1,0 +1,345 @@
+> この記事は[NO MORE HEROES](https://ja.wikipedia.org/wiki/NO_MORE_HEROES)から翻訳されています。
+
+
+『**NO MORE HEROES**』『**ノーモア★ヒーローズ**』は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[12月6日](../Page/12月6日.md "wikilink")に発売された[グラスホッパー・マニファクチュア](../Page/グラスホッパー・マニファクチュア.md "wikilink")開発、[マーベラスエンターテイメントからプロデュース](https://ja.wikipedia.org/wiki/マーベラスAQL "wikilink")・発売の[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
+
+発表当初はこの2社に加え、発売元が[スパイクの](../Page/スパイク_\(ゲーム会社\).md "wikilink")3社共同プロジェクトを予定していたが、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月22日](../Page/6月22日.md "wikilink")にスパイクがプロジェクトから外れ、マーベラスエンターテイメント単独での発売になったことが公表された。
+
+2010年4月15日にはPS3/Xbox360移植版『**NO MORE HEROES 英雄たちの楽園**』が発売された。また2011年7月21日にはZ指定となったPS3用ソフト『**NO MORE HEROES RED ZONE Edition**』が発売。
+
+## 概要
+
+米国暗殺者協会（UAA）第11位の[殺し屋](https://ja.wikipedia.org/wiki/殺し屋 "wikilink")に認定された[主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")トラヴィス・タッチダウンが10人のランカーを殺し、ランキングトップになることが目的の[アクションアドベンチャーゲーム](https://ja.wikipedia.org/wiki/アクションアドベンチャーゲーム "wikilink")。
+
+[アメリカ西海岸](https://ja.wikipedia.org/wiki/アメリカ西海岸 "wikilink")をモデルとした街『サンタデストロイ』が舞台で、[須田剛一](https://ja.wikipedia.org/wiki/須田剛一 "wikilink")が製作した作品としては、自由度の高いゲームシステムが特徴。本作では、過去に発表された須田のゲームでは要所では見られた「[バカゲー](../Page/バカゲー.md "wikilink")」としての要素を、登場人物、物語、演出、設定、ゲームシステムやエンディングに至るまで、徹底して全面に散りばめている。また、デモシーンに限らずゲーム全体を通して、登場キャラクター台詞にいわゆる英スラングが無数に飛び交う。また、[玉井健二](https://ja.wikipedia.org/wiki/玉井健二 "wikilink")と[水口哲也](https://ja.wikipedia.org/wiki/水口哲也 "wikilink")がプロデュースするユニットである[元気ロケッツ](https://ja.wikipedia.org/wiki/元気ロケッツ "wikilink")の『Heavenly Star』がゲーム内に収録されている（Wii版のみ）。
+
+全世界出荷ベースでは40万本ベース（国内出荷4万本、北米出荷20万本（セルスルー10万本以上）、欧州受注16万本）にも及ぶ\[1\]。また、年末にはEdgeの「Top 30 of 2008」で9位、英国テレグラフ紙の「Top50」では8位、Gamasutra Best of 2008の4位にそれぞれランクイン。
+
+## ストーリー
+
+流れ者の殺害依頼を受けた[殺し屋](https://ja.wikipedia.org/wiki/殺し屋 "wikilink")トラヴィスの前に立ちはだかった[イケメン](../Page/イケメン.md "wikilink")[暗殺](https://ja.wikipedia.org/wiki/暗殺 "wikilink")者ヘルター・スケルター。
+壮絶な戦いの末、ヘルターを倒すことに成功したトラヴィス。そこに『全米殺し屋協会』(通称、UAA)のエージェントを名乗る女性シルヴィア・クリステルが現れ、トラヴィスを勝手にUAA第11位の殺し屋に認定する。「10人のランカーを殺してランカートップになりたくない?」というシルヴィアの提案にノリノリのトラヴィス。そしてトラヴィスのスリリングな物語が始まる。
+
+## ゲームシステム
+
+### ゲームの流れ
+
+10人のランカーを殺害してランキングトップになる事が最終目的であるが、1つ上のランカーに挑むには多額の参加費が必要。そこで、特定の施設でバイトや殺し屋としての依頼を探し、稼いだお金（LB$）をUAAに振り込んでランキング戦への挑戦権を得る。そのランキング戦に勝利することで、初めて新たなランカーに認定されるという形になる。稼いだお金は武器の強化やトラヴィスの着るTシャツの購入に使うことも可能。
+
+### 戦闘
+
+戦闘は主にトラヴィスの武器「ビーム・カタナ」を使って進めていく。 基本攻撃はAボタンで繰り出し、とどめを刺す際に[Wiiリモコン](https://ja.wikipedia.org/wiki/Wiiリモコン "wikilink")を振る形となる。基本攻撃はWiiリモコンを傾ける角度によって上段・下段と斬り分ける事が可能。上段攻撃は素早く繰り出すことが出来、下段攻撃は大振りだがリーチが長く、攻撃力が高い。Aボタンを長押しすれば溜め攻撃が繰り出せる。
+
+ビーム・カタナを使用するには電力を要し、充電が切れるとビーム・カタナは使えなくなってしまう。その場合落ちているバッテリーパックを拾う、Wiiリモコンを振って非常用チャージをするなどして電力回復（リロード）する必要がある。
+
+また、ビーム・カタナ以外にも[スープレックス](https://ja.wikipedia.org/wiki/スープレックス "wikilink")などといった[プロレス技](https://ja.wikipedia.org/wiki/プロレス技 "wikilink")による攻撃が可能。
+
+ランキング戦でトラヴィスの体力が0になると「今のランキング戦をもう一度挑戦する」か「サンタデストロイの街に戻る」のどちらかになる。
+
+### 日本版と北米版の相違点
+
+  - 一部の残虐な表現があるムービーシーンの修正。
+  - 出血量は北米版が若干多い。
+  - 日本版では敵を倒すと灰のように崩れ落ちるが、北米版では敵の首が落ちる。
+
+#### 「英雄たちの楽園」とWii版の相違点
+
+  - HD仕様に伴い、グラフィックが大幅に向上している。キャラクターのディテールもより原画に近づいている。
+  - 日本語吹替が追加収録。
+  - ゲームパッドによる操作となっている。
+  - 元気ロケッツの「Heavenly Star」に代わり、アレンジサントラに収録された楽曲等を使用している。
+  - スロットで得た必殺技をストック出来る。
+  - 自宅で既に見たボス戦などのデモシーンを見る事が出来る。
+  - 使用したプロレス技が表示される。
+  - 360版は区分がZ指定であり、残酷な描写を一部追加している。
+
+等いくつかの変更点がある。
+
+「英雄たちの楽園」では、PS3版・Xbox360版共に頻発するフリーズや異常に長いロード、ムービーの音ズレ、放っておけば大量に溜まりフリーズや本体の故障を引き起こす原因となるキャッシュの問題等に対して苦情が相次いだ。 現在は音ズレや実績関係の細かいバグが修正されたパッチが配布されているが、依然としてフリーズやロードの問題は解決していない。
+
+#### 「英雄たちの楽園」と「RED ZONE Edition」の相違点
+
+  - Z指定となり、北米版同様の出血・身体の一部欠落表現が追加。
+  - [PlayStation Move対応](https://ja.wikipedia.org/wiki/PlayStation_Move "wikilink")。これによりWii版に近い遊び方が可能になった。通常コントローラーも使用可能。
+
+<!-- end list -->
+
+  -
+    ただしSIXAXISコントローラーでは動作しない症状が起きている（7/26配信のパッチで修正）。
+
+<!-- end list -->
+
+  - 続編『[NO MORE HEROES 2 DESPERATE STRUGGLE](https://ja.wikipedia.org/wiki/NO_MORE_HEROES_2_DESPERATE_STRUGGLE "wikilink")』から5人のボスが追加参戦。
+  - 未収録となっていたミッションを追加。
+  - 初回ダウンロードコンテンツによってバイクのカラーリングと、新たなビーム・カタナが追加される。
+  - テクスチャ解像度の向上。より鮮明な映像となっている。
+  - 価格が安くなっている。
+  - 日本語吹替が廃止。
+  - 前作にあったバグ関係は修正されている。またロード時間も短縮されている。
+
+## 登場人物
+
+### ランカー
+
+  - トラヴィス・タッチダウン（Travis Touchdown） 第11位
+    声：[ロビン・アトキン・ダウンズ](https://ja.wikipedia.org/wiki/:en:Robin_Atkin_Downes "wikilink")/[中井和哉](https://ja.wikipedia.org/wiki/中井和哉 "wikilink")
+    本作の主人公。[ジャパニメーション](../Page/アニメ.md "wikilink")、[格闘技](../Page/格闘技.md "wikilink")、[映画](../Page/映画.md "wikilink")[オタク](https://ja.wikipedia.org/wiki/オタク "wikilink")のしがない青年殺し屋。中でも[劇中劇](https://ja.wikipedia.org/wiki/劇中劇 "wikilink")の魔女っ娘アニメ『純白の恋人 ビザールジェリー』をこよなく愛している。[ライトセーバー](../Page/ライトセーバー.md "wikilink")に似た武器「ビーム・カタナ」を使うのも『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")』好きが高じたもの。UAAランキング第11位の暗殺者ヘルター・スケルターを倒したことでUAAランキング第11位に新たに認定されてしまう。シルヴィアに乗せられてUAAランキング1位を目指す。殺し屋らしく、敵を殺すことに躊躇はない一方で女性に弱いところがある。
+    モデルとなったキャラは[MTV](https://ja.wikipedia.org/wiki/MTV "wikilink")の人気番組『[ジャッカス](../Page/ジャッカス.md "wikilink")』のメンバーである[ジョニー・ノックスヴィル](https://ja.wikipedia.org/wiki/ジョニー・ノックスヴィル "wikilink")。
+
+<!-- end list -->
+
+  - ヘルター・スケルター（Helter Skelter） 元・第11位
+    声：[ディー・ブラッドリー・ベイカー](https://ja.wikipedia.org/wiki/ディー・ブラッドリー・ベイカー "wikilink")
+    白い長髪に赤い瞳、胸を大胆に開けたシャツを着込んだ、流れ者の美形暗殺者。武器は[二丁拳銃](https://ja.wikipedia.org/wiki/二丁拳銃 "wikilink")と超小型[ミサイル](../Page/ミサイル.md "wikilink")・[ガトリング](https://ja.wikipedia.org/wiki/ガトリング "wikilink")・[剣](../Page/剣.md "wikilink")を仕込んだ両腕にはめる筒。葉巻を愛飲している。流れ者の殺害依頼を受けたトラヴィスの手で殺される。トラヴィス曰く「強いのか弱いのかもよくわからない奴」。ニヒルでクールな、典型的ダークヒーロー像を皮肉ったようなキャラクター。
+    因みにヘルター・スケルターとトラヴィスのバトルは、ゲーム中ではオープニングのワンシーンに途切れ途切れに使われているのみ。発売前のトレーラーでは戦闘シーンの完全なバージョンを見ることができる。
+
+<!-- end list -->
+
+  - デスメタル（Death Metal） 第10位
+    声：[J・グラント・アルブレット](http://www.imdb.com/name/nm0016944/)/[成田剣](https://ja.wikipedia.org/wiki/成田剣 "wikilink")
+    サンタデストロイのはずれの豪邸に住む男。表社会ではタウンゼント伯爵の名前で通っており、『デスメタル』は職業名である。聖剣（ホーリーソード）とあだ名される凄腕であり、企業専属の殺し屋であるらしい。全身の[刺青](https://ja.wikipedia.org/wiki/刺青 "wikilink")が特徴で、背中には「六道最下層」と入れられている。毎日のように美しい女性達を招いて刹那的な日々を送っている。
+    武器はオレンジ社製のビーム・カタナの一種。身の丈ほどもある大型のビーム・カタナでのダイナミックな剣技に加え分身なども使う。
+    「ただ強い奴を決める」ためだけにランカートップを目指すトラヴィスを見て「何も分かっていない」と忠告した。
+
+<!-- end list -->
+
+  - ドクター・ピース（Dr. Peace） 第9位
+    声：[リチャード・マッゴーネイグル](https://ja.wikipedia.org/wiki/:en:Richard_McGonagle "wikilink")/[大塚周夫](../Page/大塚周夫.md "wikilink")
+    黒い噂の絶えない悪徳刑事。ダンディな髭に、どことなくウェスタン映画を思わせる服装をしている。武器は黄金の改造[リボルバー](https://ja.wikipedia.org/wiki/リボルバー "wikilink")2丁。不正捜査、密売、横流しなど悪行ならなんでもござれの、人呼んで“犯罪のデパート”。離婚歴があるらしく、ランカー戦の前に高級レストランで食事を取り娘とカラオケに行ったらしいが、一度も目を合わせてもらえなかったと言う。愛娘のために[カラオケ](../Page/カラオケ.md "wikilink")のレパートリーを増やしたい。
+    UAAランカー戦の舞台にドーム球場を選び、素晴らしい歌声を披露。彼の歌はシングルCDとして、グラスホッパー・マニファクチュアのホームページで販売されている。
+
+<!-- end list -->
+
+  - シノブ（Shinobu） 第8位
+    声：[キンバリー・ブルックス](https://ja.wikipedia.org/wiki/キンバリー・ブルックス "wikilink")/[喜多村英梨](https://ja.wikipedia.org/wiki/喜多村英梨 "wikilink")
+    サンタデストロイのハイスクールに通う女子高生。白いアフロヘアーに褐色の肌を持つ。武器は[日本刀](../Page/日本刀.md "wikilink")だが、女子高生らしくストラップなどで飾り立てられている。学園では素性を隠しているためトラヴィスが訪れた際自分の正体を知った人間を皆殺しにしてからランカー戦に挑んでいる。武士道精神を重んじており、外見の割に言葉遣いも古めかしい。ソニックソードと呼ばれる、真空波のような飛ぶ斬撃を操る。
+    本名はスカーレット・ジェイコブス。トラヴィスが師と仰ぐプロレスラーの実の娘であり、ビーム・カタナで殺された事からトラヴィスを仇だと思い込んでいた。
+
+<!-- end list -->
+
+  - デストロイマン（Destroyman） 第7位
+    声：[ジョシュ・キートン](https://ja.wikipedia.org/wiki/ジョシュ・キートン "wikilink")/[坂口候一](https://ja.wikipedia.org/wiki/坂口候一 "wikilink")
+    筋骨隆々の、アメリカンヒーローのような体型の男。普段はあるお堅い職業に勤めているが、[アメリカン・スーパーヒーローになりきって殺し屋活動に勤しむという裏の顔も持つ](https://ja.wikipedia.org/wiki/スーパーヒーロー "wikilink")。
+    変身前はいたって腰が低いのだが、[FSX](https://ja.wikipedia.org/wiki/FSX "wikilink")コンバータと呼ばれる装置によってデストロイマンに変身するや、尊大な口調に変わる。ヒーロー然とした風体でありながら姑息で卑怯な性格であり、騙まし討ちも厭わない。「デストロイビーム」、「デストロイスパーク」、「デストロイキャノン」といった必殺技で攻撃を仕掛ける。
+
+<!-- end list -->
+
+  - ホリー・サマーズ（Holly Summers） 第6位
+    声：[:en:Kim Mai Guest |キム・メイ・ゲスト](https://ja.wikipedia.org/wiki/:en:Kim_Mai_Guest\<!--_[[:ja:キム・マイ・ゲスト "wikilink")/[折笠富美子](https://ja.wikipedia.org/wiki/折笠富美子 "wikilink")
+    [モデル業を生業とする女性の殺し屋](https://ja.wikipedia.org/wiki/モデル_\(職業\) "wikilink")。セクシーな衣装に身を包んだ可憐な外見とは裏腹に、[シャベル](https://ja.wikipedia.org/wiki/シャベル "wikilink")や[小火器](https://ja.wikipedia.org/wiki/小火器 "wikilink")を使ったゲリラ戦法を得意とする。左足の義足には小型ミサイルが多数格納されており、悩ましいポージングと共にフィールド中にばら撒いてくる。
+    彼女との戦いは、トラヴィスの心に変化をもたらす要因となる。
+
+<!-- end list -->
+
+  - レッツ・シェイク（Letz Shake） 第5位
+    声（レッツ・シェイク）：[ディー・ブラッドリー・ベイカー](https://ja.wikipedia.org/wiki/ディー・ブラッドリー・ベイカー "wikilink")/[佐藤せつじ](https://ja.wikipedia.org/wiki/佐藤せつじ "wikilink")
+    声（Dr.シェイク）：[フレッド・タタショア](https://ja.wikipedia.org/wiki/フレッド・タタショア "wikilink")
+    緑色のモヒカンヘアと背中のギターが印象的な男性の殺し屋。普段はパンクバンドのボーカルであるらしい。
+    Dr.シェイクという名前の巨大な地震発生装置を用いる。Dr.シェイクは巨大な円筒状のマシンに、カプセルに包まれたこれもまた巨大な脳がくっついているというもの。[赤いスコープで照準を定めマグニチュード](../Page/バーチャルボーイ.md "wikilink")100の局地的大地震を起こして対象を殺害するという、大掛かりな戦闘スタイルの持ち主。
+    Dr.シェイクの地震発生までのプロセスは、『[宇宙戦艦ヤマト](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト "wikilink")』の[波動砲](../Page/波動砲.md "wikilink")の発射プロセスをイメージしたものらしい。
+
+<!-- end list -->
+
+  - ハーヴェイ・モイセイェヴィチ・ヴォロダールスキー（Harvey Moiseiwitsch Volodarskii） 第4位
+    声：[ジェームズ・ホラン](https://ja.wikipedia.org/wiki/ジェームズ・ホラン_\(俳優\) "wikilink")/[遊佐浩二](https://ja.wikipedia.org/wiki/遊佐浩二 "wikilink")
+    表社会では世界的なマジシャンとして名を馳せる男。顔半分を隠すマスクをつけている。二人のアシスタントがおり、口癖は「イッツショータイム\!」。
+    武器は2本のステッキ型ビーム・カタナ。このほかにも、ハトを飛ばして攻撃したり、画面の上下を逆にするなどのトリッキーな戦法で戦う。
+    名前の頭文字だけとると「[HMV](../Page/HMV.md "wikilink")」。
+
+<!-- end list -->
+
+  - スピードバスター（Speed Buster） 第3位
+    声：[ミッツィ・マコール](https://ja.wikipedia.org/wiki/:en:Mitzi_McCall "wikilink")/[斉藤貴美子](https://ja.wikipedia.org/wiki/斉藤貴美子 "wikilink")
+    スピードシティと呼ばれる廃墟に住む“[魔女](../Page/魔女.md "wikilink")”。トラヴィスの師匠、サンダー龍と何らかの因縁があるようである。老齢なためか、最近[痴呆](https://ja.wikipedia.org/wiki/痴呆 "wikilink")気味らしい。
+    武器は買い物カートを変形させた砲台“バスターランチャー”。鶏をイメージした形状をしている。
+
+<!-- end list -->
+
+  - バッドガール（Bad Girl） 第2位
+    声：[キャサリン・フィオーレ](https://ja.wikipedia.org/wiki/:en:Kathryn_Fiore "wikilink")/[三瓶由布子](https://ja.wikipedia.org/wiki/三瓶由布子 "wikilink")
+    ロリータファッションで身を包んだ快楽殺人者。非常に凶暴で、粗野な言動をしており、加えてビール好きの[おやじギャル](https://ja.wikipedia.org/wiki/おやじギャル "wikilink")。趣味はコスプレ。ドーム球場の地下で、次々出てくるクローン人間を殺し続けている。劇中トラヴィスを「クソガキ」と呼び捨てるが、彼女はトラヴィスよりも年下である。
+    武器は木製バットであるが、これは「バッド（BAD）」と「バット（BAT）」、そして「[バド](https://ja.wikipedia.org/wiki/バドガール "wikilink")（BUD）」をかけたトリプルミーニングである。
+    クローン人間を打ってぶつけてきたり、嘘泣きで不意打ちを仕掛けてくるなど、多彩な攻撃パターンを持つ。ピンチに陥ると酒を吹き付けたバットに火を点け、炎のバットを振り回して襲い掛かってくる。
+    2019年にリリースされた本シリーズ外伝『Travis Strikes Again: No More Heroes』では、父親である**バッドマン**が登場するほか、追加コンテンツの一つにバッドガールが登場する。詳細は『[Travis Strikes Again: No More Heroes](https://ja.wikipedia.org/wiki/Travis_Strikes_Again:_No_More_Heroes "wikilink")』を参照。
+
+<!-- end list -->
+
+  - ダークスター（Dark Star） 第1位
+    声：[スティーヴン・ブルーム](https://ja.wikipedia.org/wiki/スティーヴン・ブルーム "wikilink")/[玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")
+    荒野の中の城に住む殺し屋。スーツ姿に、顔面全体を覆う兜を被っている。トラヴィスの父親を名乗る。
+    武器は兜に仕込んだ龍のように伸びるムチ状の巨大ビームカタナ。
+    モデルは[ダース・ベイダー](../Page/ダース・ベイダー.md "wikilink")。
+
+### 関係者
+
+  - シルヴィア・クリステル（Sylvia Christel）
+    声：[ポーラ・ティソ](https://ja.wikipedia.org/wiki/:en:Paula_Tiso "wikilink")/[井上麻里奈](https://ja.wikipedia.org/wiki/井上麻里奈 "wikilink")
+    米国殺し屋協会（UAA）エージェントのフランス出身の女性で、トラヴィスを誘い入れた張本人。協会のランキング戦手配などを引き受ける、やり手の[美女](https://ja.wikipedia.org/wiki/美女 "wikilink")。少々強引な性格。明らかにトラヴィスが払った費用の一部でエステに行ったりバカンスに出掛けたりもしているが、何故か紛争地帯で戦闘していた事もある。決め台詞は「さあ、狂い咲きの園へ」で、同じ台詞を彼女の母も使用している。
+
+<!-- end list -->
+
+  - ナオミ博士（Dr. Naomi）
+    声：[ヴァネッサ・マーシャル](https://ja.wikipedia.org/wiki/ヴァネッサ・マーシャル "wikilink")/[植竹香菜](../Page/植竹香菜.md "wikilink")
+    トラヴィス専用のビーム・カタナ"椿"シリーズを開発した博士。切れ者で天才肌の美女だが、気性が荒く言葉遣いも乱暴。サンタデストロイに研究所をかまえ、武器の開発や研究をしている。
+    実は60代という高齢であり、美の限界に挑戦するためにトラヴィスが払った料金でエステや美容整形に勤しんでいるらしい。なお、『ファミ通』での須田剛一のインタビューでは80代と言われており矛盾している。
+
+<!-- end list -->
+
+  - サンダー龍（Thunder Ryu）
+    声：[ポール・ナカウチ](https://ja.wikipedia.org/wiki/ポール・ナカウチ "wikilink")/[小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink")
+    元プロレスラーの日本人ヤクザで、トラヴィスに剣術や体術を教える師匠。腰に[白鞘を携えている](../Page/鞘.md "wikilink")。『アレ』が口癖。
+    [ファイヤープロレスリング](https://ja.wikipedia.org/wiki/ファイヤープロレスリング "wikilink")シリーズからのゲスト出演。
+
+<!-- end list -->
+
+  - ランドル・ロビィコフ（Randall Lovicov）
+    声：[フレッド・タタショア](https://ja.wikipedia.org/wiki/フレッド・タタショア "wikilink")
+    サンタデストロイのゴールド街で一日中飲んだくれているオヤジ。人嫌い風で、諦めを含んだ話し方をする。彼の過去は謎に包まれているが、サンタデストロイ中に散らばっている『ロビィコフボール』を集めることで、多彩な技をトラヴィスに伝授してくれる。
+    [ファイヤープロレスリング](https://ja.wikipedia.org/wiki/ファイヤープロレスリング "wikilink")シリーズからのゲスト出演。
+    続編では登場しないが、その理由は『2』の限定版に同梱されているアニメ『1.5』にて判明する。また同時にトラヴィスから師と仰がれている様子もうかがえる。
+
+<!-- end list -->
+
+  - ビショップ・シダックス（Bishop Shudux）
+    声：[マット・マーサー](https://ja.wikipedia.org/wiki/マシュー・マーサー "wikilink")
+    トラヴィスの親友であり、近所のビデオショップ「ビーフヘッド」の店長。トラヴィスにプロレスのビデオを売ってくれるほか、電話一本でバイク「シュペルタイガー」を持ってきてくれる。
+    どうやら彼女がいるらしいが、メールに「死ね」と延々と書かれていたらしくやる気を無くし気味。
+    因みに店名は[三池崇史](../Page/三池崇史.md "wikilink")監督作品『牛頭』からで、彼も「三池」と書かれたTシャツを着ている。
+
+<!-- end list -->
+
+  - マスク・ド・UH（Mask de UH）
+    Tシャツショップ「エリア51」店長。モデルは実在する須田剛一の友人。
+
+<!-- end list -->
+
+  - ジーン（Jeane）
+    声：[カリ・ウォールグレン](https://ja.wikipedia.org/wiki/カリ・ウォールグレン "wikilink")/[能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink")
+    トラヴィスの元恋人。別れの日から会っていないようだが、とある場所で衝撃的な再会を果たす。その際に自身の過去を話し出すが「コードに引っかかる（発売できなくなる）」とのことで早送りで語られることになる。
+    トラヴィスの部屋の電話横には、彼女の写真が飾ってある。
+    因みにトラヴィスの飼っているネコの名前でもある。
+
+<!-- end list -->
+
+  - ヘンリー（Henry）
+    声：[クイントン・フリン](https://ja.wikipedia.org/wiki/:en:Quinton_Flynn "wikilink")/[小西克幸](https://ja.wikipedia.org/wiki/小西克幸 "wikilink")
+    トラヴィスの[ライバル](https://ja.wikipedia.org/wiki/ライバル "wikilink")で、謎めいたキャラクター。十字型のビームカタナを使う。
+    彼の正体は、一定の条件を満たした『真のエンディング』を見ることで明らかになる。
+
+## その他
+
+### ビーム・カタナ
+
+  - ブラッドベリー
+    トラヴィスがネットオークションで落札したビーム・カタナ。初期装備。
+
+<!-- end list -->
+
+  - 椿
+    ナオミ博士が開発したビーム・カタナ。プロトタイプだが、バランスがよく非常に扱いやすい。
+
+<!-- end list -->
+
+  - 椿MK-II
+    ゲームが進行することで入手する「米軍のアレ」を入手後ナオミ博士に渡すと作ってもらえる。
+    変形型のビーム・カタナで、光刃が5本ついている。その様はまるで椿の花のようである。
+    威力は相当なモノだが、消費電力も重量もあるシロモノ。
+
+<!-- end list -->
+
+  - 椿MK-III
+    ゲームが進行することで入手する「日本刀」を入手後ナオミ博士に渡すと作ってもらえる。
+    これまでのビーム・カタナと違い、光刃が緑色である。
+    威力、扱いやすさ共に最強。また、エナジーセイビングパーツを購入すると充電が不要になる。
+
+### ロビィコフボール
+
+オレンジ色に光るボール。サンタデストロイ各地に落ちている。 7つ集めてロヴィコフのもとに行くと技を教えてもらえる。全49個。
+
+### 乗り物
+
+  - シュペルタイガー
+    トラヴィスの愛車であるモンスター[バイク](../Page/オートバイ.md "wikilink")。サンタデストロイの街をこのバイクで走る。
+    [車両形式](https://ja.wikipedia.org/wiki/車両形式 "wikilink")T-65。[総排気量](https://ja.wikipedia.org/wiki/総排気量 "wikilink")3,700cc。全長3,946mm。全高1,530mm。全幅1,488mm。重量1050kg。乗車定員1名。最高速度・計測不能。
+
+### バイト
+
+  - ココナッツ拾い
+    ヤシの木にローリング・ソバットを決めて[ココナッツ](https://ja.wikipedia.org/wiki/ココナッツ "wikilink")を落とし、運ぶバイト。
+
+<!-- end list -->
+
+  - 芝刈り
+    伸びた[芝](../Page/芝.md "wikilink")を刈るバイト。
+
+<!-- end list -->
+
+  - ゴミ拾い
+    サンタデストロイの街に捨ててあるゴミを回収する。
+
+<!-- end list -->
+
+  - ガソリンスタンド
+    ガソリンスタンドに来る車に給油する。給油の適量を守らなければならない。
+
+<!-- end list -->
+
+  - 地雷撤去
+    [地雷](https://ja.wikipedia.org/wiki/地雷 "wikilink")センサーを用いて、サンタデストロイの砂浜にある地雷を撤去する。
+
+<!-- end list -->
+
+  - グラフィティ・クリーニング
+    サンタデストロイの街の建物に描かれているラクガキを落とす。
+
+<!-- end list -->
+
+  - ニャンニャン
+    サンタデストロイの街で逃げたネコをつかまえる。
+
+<!-- end list -->
+
+  - サソリ駆除
+    アトミックドロップ地区にいる[サソリ](https://ja.wikipedia.org/wiki/サソリ "wikilink")を駆除する。サソリに刺された場合は、毒がまわらないうちに血清を打つ必要がある。
+
+<!-- end list -->
+
+  - バイクジャンプ
+    サンタデストロイの海岸近くにあるジャンプ台からバイクで大ジャンプする。
+
+### 続編
+
+本作の続編として『[NO MORE HEROES 2 DESPERATE STRUGGLE](https://ja.wikipedia.org/wiki/NO_MORE_HEROES_2_DESPERATE_STRUGGLE "wikilink")』が北米で[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に発売され、日本では2010年[10月21日](../Page/10月21日.md "wikilink")に発売された。
+
+[2019年](../Page/2019年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")には外伝作品『[Travis Strikes Again: No More Heroes](https://ja.wikipedia.org/wiki/Travis_Strikes_Again:_No_More_Heroes "wikilink")』が[Nintendo Switch用ソフトとして発売され](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、『Complete Edition​』のタイトルを冠した[PlayStation 4版](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[Steam](../Page/Steam.md "wikilink")版が2019年[10月17日](../Page/10月17日.md "wikilink")（Steam版は[10月18日](https://ja.wikipedia.org/wiki/10月18日 "wikilink")）に発売された。その後、10年ぶりのナンバリングタイトルとして『[NO MORE HEROES 3](https://ja.wikipedia.org/wiki/NO_MORE_HEROES_3 "wikilink")』の製作が発表された。
+
+## スタッフ
+
+  - [須田剛一](https://ja.wikipedia.org/wiki/須田剛一 "wikilink")（ディレクター、シナリオ）
+  - [木村祥朗](https://ja.wikipedia.org/wiki/木村祥朗 "wikilink")（プロデューサー）
+  - [和田康宏](https://ja.wikipedia.org/wiki/和田康宏 "wikilink")（エグゼクティブプロデューサー）
+  - [コザキユースケ](https://ja.wikipedia.org/wiki/コザキユースケ "wikilink")（キャラクターデザイン）
+  - [コヤマシゲト](https://ja.wikipedia.org/wiki/コヤマシゲト "wikilink")（武器・メカデザイン）
+  - [OKAMA](../Page/OKAMA.md "wikilink")（ゲストデザイン、主人公が好きな魔女っ娘萌えアニメのキャラクターデザインを担当）
+
+## 受賞歴
+
+  - IGN「BEST of 2008」においてWii Best Action及びBest Storyを受賞。
+  - Game SpotではBest Wii Gameを受賞、Game of the Yearにノミネート。
+  - SPIKE TV主催の「VIDEO GAME AWARDS 2008」において、Best Wii Games部門にノミネート\[2\]。
+  - G4主催の「X-Play Best of 2008 AWARDS」において、Most Original Game、Best Action/Adventure Game、Best Writing（最優秀シナリオ）、Best Original Soundtrack、Best New Characterの六部門にノミネートされた\[3\]。
+
+## 脚注
+
+## 外部リンク
+
+  - [NO MORE HEROES 公式サイト](http://www.marv.jp/special/game/wii/nomoreheroes/)
+  - [NO MORE HEROES 英雄たちの楽園 公式サイト](http://www.marv.jp/special/game/nomoreheroes/)
+  - [NO MORE HEROES RED ZONE Edition 公式サイト](http://www.marv.jp/special/game/ps3/nomoreheroesrz/)
+  - [NO MORE HEROES 北米、EU 公式サイト](http://www.risingstargames.com/nomoreheroes/) （英語）
+
+[カテゴリ:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/カテゴリ:2007年のコンピュータゲーム "wikilink") [カテゴリ:Wii用ソフト](https://ja.wikipedia.org/wiki/カテゴリ:Wii用ソフト "wikilink") [カテゴリ:アクションアドベンチャーゲーム](https://ja.wikipedia.org/wiki/カテゴリ:アクションアドベンチャーゲーム "wikilink") [カテゴリ:暗殺者を主人公としたコンピュータゲーム](https://ja.wikipedia.org/wiki/カテゴリ:暗殺者を主人公としたコンピュータゲーム "wikilink") [カテゴリ:グラスホッパー・マニファクチュアのゲームソフト](https://ja.wikipedia.org/wiki/カテゴリ:グラスホッパー・マニファクチュアのゲームソフト "wikilink") [カテゴリ:マーベラスのゲームソフト](https://ja.wikipedia.org/wiki/カテゴリ:マーベラスのゲームソフト "wikilink")
+
+1.  <http://www.famitsu.com/game/news/1213638_1124.html>
+2.  <http://www.spike.com/event/vga/page/vote/category/29533>
+3.  <http://www.g4tv.com/xplay/articles/65779/XPlay_Best_of_2008_Awards.html>

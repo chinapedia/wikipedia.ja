@@ -1,0 +1,62 @@
+> この記事は[PwC](https://ja.wikipedia.org/wiki/PwC)から翻訳されています。
+
+
+**PwC京都監査法人**（PwCきょうとかんさほうじん、*PricewaterhouseCoopers Kyoto*）は、日本における準大手[監査法人](https://ja.wikipedia.org/wiki/監査法人 "wikilink")。旧[みすず監査法人](https://ja.wikipedia.org/wiki/みすず監査法人 "wikilink")の京都事務所が独立して設立された。
+
+[big4](https://ja.wikipedia.org/wiki/4大会計事務所 "wikilink")（4大会計事務所）の一つ、[プライスウォーターハウスクーパース](../Page/プライスウォーターハウスクーパース.md "wikilink")（[PricewaterhouseCoopers](https://ja.wikipedia.org/wiki/:en:PricewaterhouseCoopers "wikilink")） のメンバーファームであり、[PwCあらた有限責任監査法人](https://ja.wikipedia.org/wiki/PwCあらた有限責任監査法人 "wikilink")・プライスウォーターハウスクーパース株式会社・PwC税理士法人などとともにPwC Japanグループを形成している。
+
+## 概要
+
+[みすず監査法人](https://ja.wikipedia.org/wiki/みすず監査法人 "wikilink")解散の際、東京事務所は大部分が[新日本監査法人へ](https://ja.wikipedia.org/wiki/EY新日本有限責任監査法人 "wikilink")、大阪・広島・福岡事務所は[監査法人トーマツへ](https://ja.wikipedia.org/wiki/有限責任監査法人トーマツ "wikilink")、名古屋事務所は[あずさ監査法人へそれぞれ移管された](https://ja.wikipedia.org/wiki/有限責任あずさ監査法人 "wikilink")。一方、京都事務所は当初こそ[あらた監査法人へ幹部が移る見通しであったものの](https://ja.wikipedia.org/wiki/PwCあらた有限責任監査法人 "wikilink")、メインクライアントの一つである[京セラ](../Page/京セラ.md "wikilink")の[稲盛和夫](../Page/稲盛和夫.md "wikilink")名誉会長の意向により独立した監査法人を設立することとなった。このように地方事務所が独立した監査法人となった他の例としては、くまもと監査法人を設立した熊本事務所がある\[1\]。
+
+京都監査法人はあらた監査法人同様、当初より[PwCと提携している](../Page/プライスウォーターハウスクーパース.md "wikilink")。あらた監査法人はPwCのメンバーファームであるのに対し、当初の京都監査法人は協力ファーム（Cooperating Firm）として位置付けられていた。つまりPwCからの業務委託の可能性はあるものの、グローバルファームとしての方針や[品質管理基準などはPwCとは全く無関係の](https://ja.wikipedia.org/wiki/監査に関する品質管理基準 "wikilink")、いわば独自路線の法人ということである\[2\]。しかしながら、[2013年](../Page/2013年.md "wikilink")（平成25年）には正式にPwCのメンバーファームへ加入し\[3\]、[2016年](../Page/2016年.md "wikilink")（平成28年）には法人名にPwCを冠する\[4\]など、あらた同様PwCの国際色に染まりつつある。
+
+クライアント数は準大手監査法人で最も少なく限られるものの、大手監査法人の系譜から複数の大口クライアントを抱え、業務収入や人員リソースもそれらが大部分を占めている点、及び大手法人以外で唯一4大会計事務所と提携している点から準大手というよりは小さな大手監査法人という状態に近く、他の準大手法人とは一線を画している。うち最大手の[KDDI](../Page/KDDI.md "wikilink")から受け取る報酬は監査・非監査合わせて10億円を超えており、大手4法人以外で10億円超の業務収入のクライアントを擁する法人はここだけである。そのため2015年度の業務収入は36億円と、[太陽有限責任監査法人](https://ja.wikipedia.org/wiki/太陽有限責任監査法人 "wikilink")に次ぐ業界第6位の規模である。人員数（公認会計士数）は太陽・[東陽](https://ja.wikipedia.org/wiki/東陽監査法人 "wikilink")・[仰星に次ぐ第](https://ja.wikipedia.org/wiki/仰星監査法人 "wikilink")8位となっている\[5\]。
+
+  - 本部 - [京都市](../Page/京都市.md "wikilink")[下京区](../Page/下京区.md "wikilink")四条通烏丸東入ル 京都三井ビル
+  - 東京オフィス - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[芝浦](https://ja.wikipedia.org/wiki/芝浦 "wikilink")3-1-21 田町ステーションタワーS
+  - 人員 - 社員29名、職員278名（うち公認会計士95名、試験合格者37名）、計307名（2019年8月31日時点）
+  - 被監査会社数 - 金商法クライアント46社を含む251社（2019年6月30日時点）
+
+### 主な金商法監査クライアント
+
+有価証券報告書より、最近の監査報酬上位10社を以下に示す。
+
+| 順位 | 会社名                                                                     | 業種    | 2018年度監査報酬 |
+| -- | ----------------------------------------------------------------------- | ----- | ---------- |
+| 1  | [KDDI](../Page/KDDI.md "wikilink")                                      | 情報・通信 | 10億3,400万円 |
+| 2  | [日本電産](https://ja.wikipedia.org/wiki/日本電産 "wikilink")                   | 電気機器  | 6億円        |
+| 3  | [京セラ](../Page/京セラ.md "wikilink")                                        | 電気機器  | 4億2,100万円  |
+| 4  | [ジェイテクト](https://ja.wikipedia.org/wiki/ジェイテクト "wikilink")               | 機械    | 2億4,800万円  |
+| 5  | [任天堂](../Page/任天堂.md "wikilink")                                        | その他製品 | 1億1,800万円  |
+| 6  | [ニチイ学館](https://ja.wikipedia.org/wiki/ニチイ学館 "wikilink")                 | サービス  | 9,000万円    |
+| 7  | [サンマルクホールディングス](https://ja.wikipedia.org/wiki/サンマルクホールディングス "wikilink") | 外食    | 5,000万円    |
+| 8  | リアルワールド                                                                 | 情報・通信 | 4,873万円    |
+| 9  | [岩井コスモホールディングス](https://ja.wikipedia.org/wiki/岩井コスモホールディングス "wikilink") | 証券    | 4,200万円    |
+| 10 | [平和堂](https://ja.wikipedia.org/wiki/平和堂 "wikilink")                     | 小売    | 4,100万円    |
+
+  - 他、主要な会社法単独監査クライアントとして[ジュピターテレコム](../Page/ジュピターテレコム.md "wikilink")、[UQコミュニケーションズ](https://ja.wikipedia.org/wiki/UQコミュニケーションズ "wikilink")などがある。
+
+## 沿革
+
+  - [2007年](../Page/2007年.md "wikilink")（平成19年）[3月19日](../Page/3月19日.md "wikilink") - **京都監査法人**設立届出。
+  - 2007年（平成19年）[7月1日](../Page/7月1日.md "wikilink") - [みすず監査法人](https://ja.wikipedia.org/wiki/みすず監査法人 "wikilink")京都事務所からの業務移管受入。
+  - [2013年](../Page/2013年.md "wikilink")（平成25年）[3月15日](../Page/3月15日.md "wikilink") - プライスウォーターハウスクーパースのメンバーファームになる。
+  - [2016年](../Page/2016年.md "wikilink")（平成28年）[12月1日](../Page/12月1日.md "wikilink") - **PwC京都監査法人**に名称変更。
+  - [2018年](../Page/2018年.md "wikilink")（平成30年）[7月2日](../Page/7月2日.md "wikilink") - 東京オフィスを東京都港区浜松町の世界貿易センタービルから東京都港区芝浦の田町ステーションタワーSに移転。
+
+## 脚注
+
+<references />
+
+## 外部リンク
+
+  - [PwC京都監査法人公式サイト](http://www.pwc.com/jp/ja/kyoto.html)
+
+[Category:日本の監査法人](https://ja.wikipedia.org/wiki/Category:日本の監査法人 "wikilink") [Category:下京区の企業](https://ja.wikipedia.org/wiki/Category:下京区の企業 "wikilink") [Category:2007年設立の企業](https://ja.wikipedia.org/wiki/Category:2007年設立の企業 "wikilink")
+
+1.  [日本的監査風土の「いま」と今後](http://repository.ul.hirosaki-u.ac.jp/dspace/html/10129/800/AA11349190_20_19.pdf) - 柴田秀樹（弘前大学）著、2008年。
+2.  [監査法人の未来像：監査法人の研究](http://repository.ul.hirosaki-u.ac.jp/dspace/bitstream/10129/3261/1/JinbunShakaiRonso_S23_67.pdf) - 柴田秀樹（弘前大学）著、2010年。
+3.  [京都監査法人がPwCのメンバーファームとなり、PwC Japanに加入（2013年3月15日、PwC Japan）](http://www.pwc.com/jp/ja/japan-press-room/press-release/2013/kyoto-audit130315.html)
+4.  [京都監査法人　法人名変更に関するお知らせ（2016年11月15日、京都監査法人）](http://www.pwc.com/jp/ja/japan-press-room/press-release/2016/pwc-kyoto161115.html)
+5.  会社四季報 業界地図 2017年版より

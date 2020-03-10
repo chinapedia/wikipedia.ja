@@ -1,0 +1,609 @@
+> この記事は[Gears of War](https://ja.wikipedia.org/wiki/Gears_of_War)から翻訳されています。
+
+
+**GEARS OF WAR**（ギアーズ・オブ・ウォー）
+
+1.  [Epic Gamesが開発し](https://ja.wikipedia.org/wiki/Epic_Games "wikilink")、2006年にマイクロソフトが発売したテレビゲーム。本項目で解説。
+2.  2008年11月（日本では2009年7月）に発売された1の続編。『[Gears of War 2](https://ja.wikipedia.org/wiki/Gears_of_War_2 "wikilink")』を参照。
+3.  2011年9月（全世界同時発売）に発売されたトリロジー最終作。『[Gears of War 3](https://ja.wikipedia.org/wiki/Gears_of_War_3 "wikilink")』を参照。
+4.  2016年10月発売の新トリロジー第1作。『[Gears of War 4](https://ja.wikipedia.org/wiki/Gears_of_War_4 "wikilink")』を参照。
+5.  2019年9月発売の新トリロジー第2作。『[Gears5](https://ja.wikipedia.org/wiki/Gears5 "wikilink")』を参照。
+6.  2013年3月に発売された外伝。『[Gears of War Judgment](https://ja.wikipedia.org/wiki/Gears_of_War_Judgment "wikilink")』を参照。
+7.  1をイメージして綴られた[ロックバンド・メガデスの楽曲](../Page/メガデス_\(バンド\).md "wikilink")。「[Gears of War（Song）](https://ja.wikipedia.org/wiki/:en:Gears_of_War_\(song\) "wikilink")」も参照。
+8.  1の映画化作品。『[ギアーズ・オブ・ウォー（映画）](https://ja.wikipedia.org/wiki/ギアーズ・オブ・ウォー_\(映画\) "wikilink")』を参照。
+
+-----
+
+『**Gears of War**』（ギアーズ・オブ・ウォー）はアメリカのゲーム開発会社[エピックゲームズが開発し](https://ja.wikipedia.org/wiki/Epic_Games "wikilink")、[マイクロソフト](../Page/マイクロソフト.md "wikilink")から発売された[Xbox 360用の](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")[サードパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/サードパーソン・シューティングゲーム "wikilink")である。2007年にはグラフィックスがさらに強化されステージが追加された[Windows版も発売された](https://ja.wikipedia.org/wiki/PCゲーム "wikilink")。2015年にリマスター版が発売された。
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")にエピックゲームズ副社長、マーク・レインが、[Mac OS X版もリリース予定であることを発表したが](https://ja.wikipedia.org/wiki/macOS "wikilink")、結局発売されなかった。シリーズの[IPは](https://ja.wikipedia.org/wiki/知的所有権 "wikilink")2013年半ばまでEpicとマイクロソフトが半々で所持していたが、2013年下半期にEpicがテンセントに買収されたため、マイクロソフトがEpicの持つ残りの版権を買い取り、マイクロソフトのIPとしてシリーズを管理している。
+
+[メディアミックス](../Page/メディアミックス.md "wikilink")展開として[漫画化や](https://ja.wikipedia.org/wiki/:en:Gears_of_War_\(comics\) "wikilink")[小説化もされているが日本では未発売である](https://ja.wikipedia.org/wiki/:en:Gears_of_War_\(series\)#Books "wikilink")\[1\]。また、アメリカの玩具・フィギュアメーカーであるによってフィギュア化もされていて日本でも輸入品が入手できる。
+
+タイトルの『Gears of War』とは、日本語で「戦争の歯車」という意味。即ち戦場の兵士を意味する。英語版では主人公の属する軍隊の兵士のことを"Gear"（もしくは"Gears"）と呼称するシーンがある（日本版では「兵士」という訳語に置き換えられている）。
+
+## 概要
+
+[X06_Canada-GOW_Theme_Area.jpg](https://ja.wikipedia.org/wiki/File:X06_Canada-GOW_Theme_Area.jpg "fig:X06_Canada-GOW_Theme_Area.jpg")での "X06" イベントにて。\]\] 『ギアーズ オブ ウォー』は2003年に開発が始まった。当初は『Unreal Warfare』（アンリアル ウォーフェア）という題名の対戦主体のゲームとして作られていたが、早い段階で物語を持ち、拠点を中心に任務を一つずつ達成していく方式のゲームに変更となる。最終的にはさらに変更されて、物語と激しい銃撃戦が強固に結びついた一本道のアクションアドベンチャーゲームとして開発が進められる事となった\[2\]。
+
+ゲーム発売前は新たに開発された[ゲームエンジン](https://ja.wikipedia.org/wiki/ゲームエンジン "wikilink")「[アンリアルエンジン3](https://ja.wikipedia.org/wiki/Unreal_Engine "wikilink")」を駆使した、当時としては圧倒的な美しさと質感を持つグラフィックスで注目を集めた。発売後は、複雑なカバーアクション（詳細は後述）をほぼ一つのボタンで行えるようにした簡単かつ洗練された操作システム・変化と一貫性を両立しプレイヤーを飽きさせない工夫をこらした良好なレベルデザイン（ステージの構成や敵の配置や仕掛け、難易度などの設計のこと）、随所にある地形へ隠れながら相手の隙をつき敵を追い詰めていく頭脳的で緊張感に満ちた戦闘や、それらを引き立てる重厚かつ凄絶な演出や視覚効果などが好評を博した。
+
+また、ゲームの「遊び」としての部分以外の要素である、物語の舞台である地球によく似た架空の惑星「セラ」の独特の文化や舞台設定・キャラクターや武器や建築物などの個性的かつ緻密な美術様式・「大人のプレイヤーを対象とした戦闘主体のゲーム」に適した物語なども本作の高い人気に貢献している。
+
+## ゲームとしての設計（ゲームデザイン）およびシステムの特徴
+
+突如として人類を襲撃してきた銃火器や動物兵器を駆使する[地底人](https://ja.wikipedia.org/wiki/地底人 "wikilink")「ローカスト」を多種多様な[銃](../Page/銃.md "wikilink")と複雑な移動を駆使して撃退していく。戦闘の合間には開かない扉を開けるために探索したり、隅に置いてある弾薬や武器を探して補充したり、必要な物資や機器を捜索したりといった一息つくための軽いアドベンチャー要素もある。
+
+会話もアクションゲームとしてはかなり豊富に用意されており、カットシーン（いわゆるムービー）以外にも探索中や戦闘中にもリアルタイムで盛んに行われる。仲間の口から戦闘の注意点や最初に破壊するべき目標や敵部隊の裏に回れる迂回路のヒントなどが語られることも多く、単なる演出に止まらないものとなっている。
+
+ゲームは全て[Xbox Live上でのオンラインプレイが可能で](https://ja.wikipedia.org/wiki/Xbox_Live "wikilink")、キャンペーンの一人用モード・キャンペーンの二人用協力プレイモード（Co-op）・2〜8人までの対戦モードを選択できる。対戦は途中参加不可能だが、協力プレイはホストプレイヤーへの途中参加が随時可能となっており、対戦と並んで好評であった。一人用モードもフレンドをゲームに招待することで、協力プレイへ移行することが可能。
+
+  - カバーシステム
+    本作の最大の特徴と言えるシステム。このゲームはキャラクターの移動速度があまり早くないため、銃撃を見てからかわすのはまず不可能となっている。そのため、ステージのいたるところにある瓦礫や柱、ドア内、窓、家具、車などの物陰となる部分に張り付いて身を隠し（[カバー](https://ja.wikipedia.org/wiki/:en:Cover_\(military\) "wikilink")）敵の激しい攻撃をやり過ごしつつ合間を縫って反撃したり、地の利を得られるポジションへ移動したりする。[ブラインドファイア](https://ja.wikipedia.org/wiki/:en:Blindfire "wikilink")（カバーの状態で武器だけを出して攻撃する）も可能。物陰を利用するアクションは無数にあるが、その全てがアナログスティックの倒す向きとAボタンの組み合わせによって簡単かつ直感的に行えるので能動的な操作が可能となっている。
+
+<!-- end list -->
+
+  -
+    このカバーにかかわる動作は普通の移動とは対称的に「素早いが小回りの効かない」ものとなっている。漠然と使ったりあわてて連打したり操作を失敗したりすると大きな隙を敵に見せる事となるが、よく考えて上手に使いこなせば隙のない鋭くテンポの早い移動が可能となる。
+
+<!-- end list -->
+
+  -
+    また、全てをひとつのボタンにまとめた副作用としてプレイヤーが予期せぬアクションを行う事もある。
+
+<!-- end list -->
+
+  - 自動回復
+    本作では回復用のアイテムが一切登場しない。代わりに敵の攻撃を受けてから数秒後に体力が自動で回復する様になっており、回復のためのアイテム探しで戦闘を長時間中断する必要がない。ただし、連続で攻撃を受け過ぎると死亡してしまううえ、一部の攻撃は即死であるため過信は出来ないものとなっている。ダメージを受けると画面中央に赤い歯車が徐々に現れ、中心部分に髑髏のマークが出現すると死亡する。このマークは「クリムゾンオーメン」と言い、本ゲームのシンボルでもある。
+
+<!-- end list -->
+
+  -
+    キャンペーンでは味方のみが自動回復で敵は回復しない。対戦では全員が自動回復であるため、いかにして敵を素早く倒すかを考える必要がある。
+
+<!-- end list -->
+
+  - 武器・アクティブリロード
+    銃器は一部を除き全て[実弾系で](../Page/弾丸.md "wikilink")、それぞれ装弾数や残弾数が異なる。『アクティブリロード』というシステムが採用されており、手動（[マガジンが空になった場合は自動](https://ja.wikipedia.org/wiki/弾倉 "wikilink")）リロードを行う際に、タイミング良くRBボタンを押すことでリロード時間を短縮できたり、一時的に弾の威力を上げたりすることが出来る（タイミングを間違えると[排莢不良を起こし](https://ja.wikipedia.org/wiki/ジャム_\(曖昧さ回避\) "wikilink")、リロードの完了が大幅に遅くなる）。
+
+<!-- end list -->
+
+  -
+    アクティブリロードを駆使する事で隙を小さく出来る上、攻撃の手をゆるめずに済むようになる。特に敵も体力が自動回復する対戦では効果が高い。
+
+<!-- end list -->
+
+  - 協力プレイ（Co-op） *※Co-opはCooperativeの略で「協力」の意*
+    ストーリーモードの協力プレイ自体は本作以前のゲームにも存在した（おもにPCゲームに存在）が、その多くは飽くまで「おまけのモード」として存在する物がほとんどであり、頭数が増える事で難易度が極端に下がる・物語を無視した色違いの主人公が複数人存在する、といった問題点も存在していた。
+
+<!-- end list -->
+
+  -
+    本作では物語の内容からキャラクター設定からレベルデザイン（ステージの設計）などにいたるまで、一人でも二人でも遊べる事を大前提にした徹底した作りになっている。具体的には常に主人公と相棒の二人は全ての場面で一緒に行動し続けていること（一人用ではAIが相棒を操作）、十分なステージの広さ・遮蔽物やアイテムの配置および敵の数のなどの調整、協力を推奨（時に強制）する数々の仕掛けなど（一人用ではAIの相棒が自動で解除などを行ってくれる）である\[3\]。
+
+<!-- end list -->
+
+  -
+    一人用では敵に倒された際に主人公は即死となるが、協力プレイ時のみダウンしてから一定時間後に死亡となる。ダウン中に仲間に救出されれば全快する。ただし、一部の攻撃および場面では協力プレイ中でも即死となる。
+
+<!-- end list -->
+
+  - 対戦
+    それまでのアクションシューティングゲームには無かった、本作独自のカバーシステムを駆使した独特かつ戦略的なチーム戦が楽しめる。詳細は[後述](https://ja.wikipedia.org/wiki/Gears_of_War#対戦 "wikilink")。
+
+## ゲームモード
+
+  - キャンペーン
+    いわゆるストーリーモード。一人ないし二人で遊ぶ事が出来る。主人公「マーカス フェニックス」とその相棒「ドミニク サンチャゴ」を操作して全5章(Act 1 \~ Act 5)の物語を進めて行く。難易度は簡単な順から「カジュアル」・「ハードコア」・「インセイン（2周目から選択可能）」の三つが存在する。協力プレイはオフラインでもオンラインでも可能となっている。
+
+<!-- end list -->
+
+  -
+    各章は複数のチャプターに分かれており、一度クリアしたチャプターは自由に選んで遊ぶ事が出来る。
+
+<!-- end list -->
+
+  - 対戦
+    他のプレイヤーと対戦出来る。詳細は[こちらを参照のこと](https://ja.wikipedia.org/wiki/Gears_of_War#対戦 "wikilink")。
+
+## プロローグ
+
+舞台は地球とよく似た人類の繁栄する[惑星](https://ja.wikipedia.org/wiki/惑星 "wikilink")セラ。[地下](https://ja.wikipedia.org/wiki/地下 "wikilink")から偶然[採掘](https://ja.wikipedia.org/wiki/採掘 "wikilink")された液体「イミュルシオン」が直接エネルギーに変換できることが判明、人類は安価で無尽蔵のエネルギーを得た。しかし、新エネルギー開発への過剰な投機、旧来の化石燃料を使った技術の開発破棄などにより世界経済は破綻。そしてイミュルシオン産出国への嫉妬は、やがて世界大戦を引き起こした。
+
+79年にわたる世界大戦の最中、突如として地底より現れた異種族「ローカスト」が人類に対して総攻撃を仕掛けてきた。人間より大きく醜悪で強靭なローカストは、最初の出現から僅か24時間でセラに住む人類の25%を[虐殺](https://ja.wikipedia.org/wiki/虐殺 "wikilink")。「エマージェンス デー（「出現の日」の意）」と呼ばれるこの大虐殺を機にイミュルシオンを巡る世界大戦は終結。人類の完全なる殲滅のみが目的であるローカストに人間側の交渉は全て無視され、それまでの戦争で疲弊していた国々は、地中から自在に現れ数々の強力な火器と[動物兵器](https://ja.wikipedia.org/wiki/動物兵器 "wikilink")を操るローカストの大軍によって次々と滅ぼされていった。
+
+圧倒的不利となった人類は、ローカストが採掘できない堅い岩で形成された[地層](https://ja.wikipedia.org/wiki/地層 "wikilink")のあるハシント高原へ退却。そして追い詰められた人類は[化学兵器](../Page/化学兵器.md "wikilink")と[軌道衛星のビーム兵器で](https://ja.wikipedia.org/wiki/戦略防衛構想#光線/粒子線兵器 "wikilink")、[占領](https://ja.wikipedia.org/wiki/占領 "wikilink")された都市を逃げ遅れた市民ごと焼き尽くす作戦を決行した。
+
+セラの地表90%以上が焦土と化す余りにも大き過ぎる犠牲を払い、どうにかローカストの総攻撃を阻むことに成功した人類だったが、ローカストの大部分は地底へと逃げ延びており、未だ人類への苛烈な攻撃を続けていた。
+
+## 用語の解説
+
+  - セラ（Sera）
+    本作の舞台となる惑星。地球によく似ているが、地球とは微妙に違った文化や生態系を持つ。人類や ニワトリなどの地球と同じ生物が居る一方で、ローカストや怪獣のような生き物なども存在する。
+
+<!-- end list -->
+
+  - イミュルシオン（Imulsion）
+    石油の探査の際に偶然地底で発見されたねばりのある金色に輝く液体。発見当初は注目されていなかったが、「ライトマス工法」という技術によって直接エネルギーに変換出来る様になったため、産出国は一夜にして巨万の富を得る事となった。上記の通り最終的には世界大戦の原因にもなっている。元々は人体には害がないとされていたが、近年では不穏な噂も立ち始めている。
+
+<!-- end list -->
+
+  - 世界大戦（Pendulum Wars / ペンデュラム戦争とも）
+    イミュルシオンを巡った人類同士の大規模な戦争で79年間も続いた。主人公も若い頃に参戦している。ローカストの襲撃によって中途で終戦することになる。
+
+<!-- end list -->
+
+  - エマージェンス デー（Emergence Day）
+    物語が始まる14年前に起きたローカストの侵攻が始まった日。人類同士の世界大戦が終わった日でもある。縮めて「Eデー」とも呼ばれる。
+
+<!-- end list -->
+
+  - ハシント高原（Jacinto Plateau）
+    堅い花崗岩の岩盤の上にある高原で、人類最後の都市がある場所である。岩盤は確かにローカストに採掘出来ないものではあるが、小さい隙間は無数に存在するため、そこから小規模な部隊が侵攻して来る事は非常に多い。
+
+<!-- end list -->
+
+  - COG
+    統一連合政府（Coalition of Ordered Governments）の略称。読みは「**コグ**」。
+
+<!-- end list -->
+
+  -
+    創立当初は「秩序、勤勉、潔白、労働、吊誉、信念、謙遜」を活動基盤とした狂信的な[社会主義](../Page/社会主義.md "wikilink")団体でしかなかったが、戦争の時代が続くにつれて[政党](../Page/政党.md "wikilink")化する。エマージェンス デーにおけるローカストの襲撃にいち早く対応し、住民をハシント高原へと避難させてその地を[要塞](../Page/要塞.md "wikilink")化させた。[戒厳令](https://ja.wikipedia.org/wiki/戒厳令 "wikilink")によって[市民権](https://ja.wikipedia.org/wiki/市民権 "wikilink")を制限させているものの、彼らの活躍に人類の存亡がかかっているため、市民の人気は非常に高い。
+
+<!-- end list -->
+
+  -
+    なお、"Cog"は英語で歯車という意味の単語である。実際にCOGのシンボルやハシント高原の建物には歯車のモチーフが多用されている。
+
+<!-- end list -->
+
+  - ギア（もしくはギアーズ）（Gear（s））
+    COGの兵士の通称。非常に重装備で鎧のような分厚い戦闘服が特徴。**日本版では「COG兵士」や「兵士」という言葉に置き換えられている**。
+
+<!-- end list -->
+
+  - タグ
+    COGの兵士全員が身に付けている軍認識票。例え原形を留めていない程のダメージを受けて死亡しても、タグが残っていれば誰なのか識別が可能。形は様々あり、プレートタイプから歯車の形をした物まである。
+
+<!-- end list -->
+
+  - ローカスト（Locust Horde）
+    [原住生物の](https://ja.wikipedia.org/wiki/先住民族 "wikilink")[変異体とも](../Page/突然変異.md "wikilink")[異星人](https://ja.wikipedia.org/wiki/異星人 "wikilink")とも噂される[地底生物](https://ja.wikipedia.org/wiki/地底人 "wikilink")。セラの[地殻](../Page/地殻.md "wikilink")内に無数の[トンネル](../Page/トンネル.md "wikilink")を築き生息している。多くの者は爬虫類を思わせる質感の堅く白い皮膚を持つ（例外も居る）。
+
+<!-- end list -->
+
+  -
+    人類のものと酷似した[武器](../Page/武器.md "wikilink")の他に独自の[生体兵器](https://ja.wikipedia.org/wiki/生体兵器 "wikilink")を操り、[地中](https://ja.wikipedia.org/wiki/地中 "wikilink")から出現して人間を襲う。様々な種族が存在し、そのいずれも[光](../Page/光.md "wikilink")を嫌うという共通の性質を持っている。また、何故か人間の言葉を話す。人類側がこの謎の地底生物を“ローカスト”と仮称するように、彼らもまた人類を“グラウンドウォーカー（Ground Walker）”と呼ぶ。
+
+<!-- end list -->
+
+  -
+    なお、"Locust"は本来[イナゴ](https://ja.wikipedia.org/wiki/イナゴ "wikilink")という意味の単語である。語感の良さから付けられたとのこと\[4\]。
+
+<!-- end list -->
+
+  - ドーンハンマー（Hammer of Dawn）
+    主人公マーカス フェニックス（後述）の父、アダム フェニックス教授が開発した軌道衛星を使ったビーム兵器。イミュルシオンをエネルギー源としている。本来は世界大戦を終わらせるための兵器であったが、ローカストが出現したために人類の都市を敵味方関係無く片端から焼き払う事になってしまう。実はセーフティーが設定されており、アダム フェニックス以外には操作が出来ないように設計されている。ゲームの武器としても登場するがこちらについては後述する。
+
+<!-- end list -->
+
+  - 難民（Stranded）
+    ドーンハンマーで焼かれた都市の生き残りたち。問答無用で自分たちの街を焼き払ったCOGを憎んでいる。なお、"Stranded"とは本来は「途方に暮れた」という意味の単語で、日本版の「[難民](https://ja.wikipedia.org/wiki/難民 "wikilink")」は意訳（難民を表す英単語は"Refugee"）。
+
+<!-- end list -->
+
+  - ローカストホール（Emergence Hole）
+    ローカストが地上を襲撃する際に地面に開く大穴。グレネードなどの爆発物で塞ぐ事が出来る。
+
+<!-- end list -->
+
+  - ライトマス爆弾（Lightmass Bomb）
+    イミュルシオンを使ったCOGの[大量破壊兵器](../Page/大量破壊兵器.md "wikilink")。これを使ってローカストの拠点である地底を攻撃するのが本作の目的である。正確に拠点を攻撃するにはレゾネーターを使って地底のデータを得る必要がある。
+
+<!-- end list -->
+
+  - レゾネーター（Sonic Resonator）
+    地底の正確な構造を探るのに必要な装置。岩をも砕く程の強力な[音波](../Page/音波.md "wikilink")を利用して探査するため、作動後は急いで退避する必要がある。
+
+<!-- end list -->
+
+  - ライトマス爆撃（Lightmass Offensive）
+    前述のライトマス爆弾を使ってローカストを殲滅する事を目的とした作戦。今回の物語で主人公たちが遂行する任務。
+
+## キャラクター
+
+（）内は[声の出演](../Page/声優.md "wikilink")（日本語版：英語版）
+
+### COG
+
+COGの兵士は大半が筋骨隆々の巨漢である。ただしセラの男性が皆巨漢ぞろいという訳では無く、一部の兵士や非戦闘員などは普通の人間の体形をしている。
+
+  - マーカス・フェニックス：Marcus Fenix（[廣田行生](https://ja.wikipedia.org/wiki/廣田行生 "wikilink")：[John DiMaggio](https://ja.wikipedia.org/wiki/ジョン・ディマジオ "wikilink")）
+    **デルタ[部隊](https://ja.wikipedia.org/wiki/部隊 "wikilink")所属、[階級](https://ja.wikipedia.org/wiki/軍隊における階級呼称一覧 "wikilink")：[二等兵](https://ja.wikipedia.org/wiki/二等兵 "wikilink")（後に[軍曹](https://ja.wikipedia.org/wiki/軍曹 "wikilink")へ昇格）**
+    身長1m85cm、体重105kg。本作の主人公。年齢は35歳で頭に黒いバンダナを巻き、黒髪と碧眼を持つ。
+    世界大戦やローカスト戦役において数々の[勲章](https://ja.wikipedia.org/wiki/勲章 "wikilink")を授かり、[兵士](../Page/兵士.md "wikilink")達の間ではその活躍が半ば[伝説](https://ja.wikipedia.org/wiki/伝説 "wikilink")化されている驚異的[軍人](../Page/軍人.md "wikilink")。
+    物語開始の4年前に[軍](https://ja.wikipedia.org/wiki/軍 "wikilink")の研究所勤務で父でもあるアダム・フェニックスがローカストに襲われ、救出のために[上官命令を無視](https://ja.wikipedia.org/wiki/指揮_\(軍事\) "wikilink")。しかし、父を助ける事は出来ず、臆病行為と職務放棄の罪による[懲役](../Page/懲役.md "wikilink")40年の刑のみが彼に残る。囚人番号:098356-GXとして[投獄](https://ja.wikipedia.org/wiki/投獄 "wikilink")されて4年が過ぎたある日、ローカストが[刑務所](https://ja.wikipedia.org/wiki/刑務所 "wikilink")を襲撃した際にすんでの所で親友のドミニクに救出され、彼の計らいでデルタ部隊へ配属となり戦線復帰を果たす。
+    後に[戦死](https://ja.wikipedia.org/wiki/戦死 "wikilink")したキムの後任としてデルタ部隊の隊長となり、ドミニク、コール、ベアードを率いて作戦の実行部隊として行動する。
+  - ドミニク・サンチャゴ：Dominic Santiago（[髙階俊嗣](https://ja.wikipedia.org/wiki/高階俊嗣 "wikilink")：Carlos Ferro）
+    **デルタ部隊所属、階級：二等兵**
+    準主人公で、協力プレイ時の操作キャラクター。通称は**ドム**。マーカスの[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")で[親友](https://ja.wikipedia.org/wiki/親友 "wikilink")でもある陽気な男。刈り込んだ黒髪と茶色い目、そして手入れのされた顎髭が特徴。年齢は32歳。
+    [分隊長](https://ja.wikipedia.org/wiki/分隊長 "wikilink")であるキムにマーカスを復帰させデルタ部隊へ迎え入れるよう説得。キムの許しを得てホフマンに無断で刑務所へ突入し、マーカスを救出した。その後もマーカスと頻繁に行動を共にして[作戦](https://ja.wikipedia.org/wiki/作戦 "wikilink")をサポートする。キャンペーンモードにおけるAI操作のドムはカバーが重要なゲームであるにも関わらず、しばしば特攻しては敵にやられてプレイヤーの足を引っ張る。しかし、いざと言うとき一番頼りになるのもまた彼である。ちなみに、マーカスから20ドルの[借金](https://ja.wikipedia.org/wiki/借金 "wikilink")がある。
+    彼はまたある人物を捜している。その人物が誰であるかは2作目で明らかになる。
+  - オーガスタス・コール：Augustus Cole（[大西健晴](https://ja.wikipedia.org/wiki/大西健晴 "wikilink")：Lester'Rasta'Speight）
+    **アルファ部隊所属、階級：二等兵**
+    壊滅したアルファ部隊の生き残りで後にデルタ部隊へ配属。メンバー唯一の黒人である。坊主頭。
+    [アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")によく似たセラの人気スポーツ「スラッシュボール」の元スター選手で現役時代は「コール トレイン（トレインは「暴走列車」の意味合い）」の異名で呼ばれていた。戦場でも常に[最前線](https://ja.wikipedia.org/wiki/最前線 "wikilink")へ立って危険を顧みず敵陣へ突入する[アドレナリン](../Page/アドレナリン.md "wikilink")中毒者。軽口だが自分の能力には絶対の自信を持っており、怯む事が無い。ベアードの数少ない友人でもある。
+    レゾネーター発見後は地底に設置するまで彼が背負い続ける事になるが、全く動きが鈍らない。
+  - デーモン・ベアード：Damon Baird（[松田健一郎](https://ja.wikipedia.org/wiki/松田健一郎 "wikilink")：[Fred Tataciore](https://ja.wikipedia.org/wiki/フレッド・タタショア "wikilink")）
+    **アルファ部隊所属、階級：二等兵**
+    壊滅したアルファ部隊の生き残りの一人で、後にデルタ部隊へ配属。金髪碧眼でゴーグルを額にずらしている。
+    臆病で皮肉屋だが優れた知恵を持ち、[メカニックや](../Page/機械.md "wikilink")[ハッキング](https://ja.wikipedia.org/wiki/ハッキング "wikilink")にも精通している大変有能な[兵士](../Page/兵士.md "wikilink")。しかし態度の悪さと自己中心的で短気な性格の為に一度も昇進したことが無い。本人は「望んで入隊したわけじゃねえ」と主張しており、自分が生き残れればそれでいいと考えている。とはいえ何だかんだ言いながらも、結局部隊を助ける事が多い。外伝『Gears of War Judgment』では主役（プレイヤーキャラクター）となる。
+  - アーニャ・ストラウド：Anya Stroud（[引田有美](https://ja.wikipedia.org/wiki/引田有美 "wikilink")：Nan McNamara）
+    **階級：[少尉](../Page/少尉.md "wikilink")**
+    ホフマンと行動を共にする女性の軍人。本部から[無線](../Page/無線.md "wikilink")を通じ、マーカスたちへ指示を与える[通信](../Page/通信.md "wikilink")担当となる。彼女の声は全編通して頻繁に聞けるが、姿を見ることが出来るのはほんの一時だけである。
+    ちなみに"Anya"とは[ハンガリー語](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")で「母」の意。
+  - ミン・ヤン・キム：Minh Young Kim（[竹内良太](https://ja.wikipedia.org/wiki/竹内良太 "wikilink")：Robin Atkin Downes）
+    **デルタ部隊所属、階級：[中尉](../Page/中尉.md "wikilink")**
+    デルタ部隊の隊長。規律に忠実で誇り高き軍人。黄色人種でありマーカスやコールに比べるとやや線が細い。また、禿頭でもある。
+    COGが人類最後の希望であると固く信じている。ドミニクの説得を聞き入れ、マーカスをデルタ部隊へ迎え入れる。アルファ部隊との合流時にローカストと交戦。ローカスト軍の[将軍](../Page/将軍.md "wikilink")ラームに襲われ、命を落とす。
+  - アンソニー・カーマイン：Anthony Carmine（[桑原敬一](https://ja.wikipedia.org/wiki/桑原敬一_\(声優\) "wikilink")：Michael Gough）
+    **デルタ部隊所属、階級：二等兵**
+    デルタ部隊の隊員。頭部を[ヘルメット](../Page/ヘルメット.md "wikilink")で覆っているため素顔は不明。兵士たちの中では線の細い部類に入る（キム中尉と同程度）。マーカスの活躍を知っており、彼を歓迎する。『戦場で最も撃たれやすい男』なる何とも不名誉な肩書きを持つ。Act1中盤、アルファ部隊との合流直前でローカストの[狙撃](https://ja.wikipedia.org/wiki/狙撃 "wikilink")により[戦死](https://ja.wikipedia.org/wiki/戦死 "wikilink")。
+    4人兄弟ということが続編の『[2](https://ja.wikipedia.org/wiki/Gears_of_War_2 "wikilink")』で明らかになった。末っ子のベンジャミンは2作目に、長男クレイトンは3作目に登場する。英語版・日本版ともに毎回同じ声優がカーマイン兄弟を演じている。
+  - ビクター・ホフマン："Colonel" Victor Hoffman（[沢木郁也](https://ja.wikipedia.org/wiki/沢木郁也 "wikilink")：Jamie Alcroft）
+    **階級：[大佐](../Page/大佐.md "wikilink")**
+    キム直属の上司で、『ライトマス爆撃』の作戦[指揮官](https://ja.wikipedia.org/wiki/指揮官 "wikilink")。禿頭に軍帽を被っている。年配の軍人だがマーカスやドム同様の巨体の持ち主。
+    作戦実行に必要な空間構造確認用装置『レゾネーター』を運搬中のアルファ部隊が消息を絶った為、同部隊の捜索及びレゾネーターの回収をキムヘ命令する。[軍規に背いて服役中であるはずのマーカスがCOGの](https://ja.wikipedia.org/wiki/軍法 "wikilink")[戦闘服](https://ja.wikipedia.org/wiki/戦闘服 "wikilink")姿で現れたのを見て「裏切者が\!」と罵る頭の固い男。但し彼を戦死したキムの後任として即時に軍曹へ昇格させるなど、兵士としての能力は高く評価している。
+  - ジャック：JACK
+    サポート用の[ロボット](../Page/ロボット.md "wikilink")。普段は目に見えない状態（[光学迷彩](https://ja.wikipedia.org/wiki/光学迷彩 "wikilink")）で最初からマーカス達の側を飛行しており、開かない扉をレーザーで焼き切ったり、データを表示したり通信をする時のみ姿を現す。人間の言葉は話さないが、[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")シリーズの[R2-D2](../Page/R2-D2.md "wikilink")の様な機械音声を発する。Act4でブルマックをおちょくる場面がある事から、[人工知能](../Page/人工知能.md "wikilink")が搭載されている事がわかる。ジャックと名付けたのはコールであり、その出会いは前日談である『[Gears of War Judgment](https://ja.wikipedia.org/wiki/Gears_of_War_Judgment "wikilink")』にて明かされている。
+
+### ローカスト
+
+  - ドローン：Drone
+    最も多く確認されるローカストで[歩兵](../Page/歩兵.md "wikilink")的存在。しかし平均身長2メートル超、体重120kg超と通常の人間を上回る体躯を持ち、体力、膂力も優れている。知力も人類に近い程度で武器を使い、言葉を話し、退避もする。数々の[銃器](https://ja.wikipedia.org/wiki/銃器 "wikilink")で[武装](https://ja.wikipedia.org/wiki/武装 "wikilink")しており、人間を見つけると執拗なまでに[攻撃してくる](../Page/攻撃_\(戦術論\).md "wikilink")。
+
+<!-- end list -->
+
+  - グレネーディア：Grenadier
+    体格はドローンと同程度だが、分厚い皮と頑強な[頭蓋骨](https://ja.wikipedia.org/wiki/頭蓋骨 "wikilink")を持つ。より[アグレッシブ](https://ja.wikipedia.org/wiki/アグレッシブ "wikilink")で主に[ショットガン](https://ja.wikipedia.org/wiki/ショットガン "wikilink")、[グレネード](https://ja.wikipedia.org/wiki/グレネード "wikilink")を[武装](https://ja.wikipedia.org/wiki/武装 "wikilink")しており、[接近戦を好む](../Page/白兵戦.md "wikilink")。
+
+<!-- end list -->
+
+  - [スナイパー](https://ja.wikipedia.org/wiki/スナイパー "wikilink")：Sniper
+    基本的にドローンと同種だが、ドローンやグレネーディアに比べ耐久力がかなり低めに設定されている。代わりに[スナイパーライフル](https://ja.wikipedia.org/wiki/スナイパーライフル "wikilink")を装備している事が多く、遠距離戦が得意。時々フルフェイスの[マスク](https://ja.wikipedia.org/wiki/マスク "wikilink")を被っている者もいる。
+
+<!-- end list -->
+
+  - ブーマー：Boomer
+    ドローン以上の巨体を持つ。ドローンと比べて動きは鈍く頭も悪いが、その分タフで非常に[怪力](https://ja.wikipedia.org/wiki/怪力 "wikilink")。ブームショット（[グレネードランチャー](https://ja.wikipedia.org/wiki/グレネードランチャー "wikilink")）を武器にしている。
+
+<!-- end list -->
+
+  - セロン・[ガード](https://ja.wikipedia.org/wiki/ガード "wikilink")：Theron Guard（[丸山純路](https://ja.wikipedia.org/wiki/丸山純路 "wikilink")：）
+    ドローンの[指揮官](https://ja.wikipedia.org/wiki/指揮官 "wikilink")的存在。動きが素早く、知力も耐久力もドローンより数段上。人類の事をサピエンスと呼ぶ。強力な武器、トルクボウを装備している個体が多い。
+
+<!-- end list -->
+
+  - セロン・[センチネル](https://ja.wikipedia.org/wiki/センチネル "wikilink")：Theron Sentinel
+    セロン・ガードの中でもより階級の高い戦士。終盤に多く登場する。
+
+<!-- end list -->
+
+  - [ベルセルク](../Page/ベルセルク.md "wikilink")：Berserker
+    ドローンの“[メス](https://ja.wikipedia.org/wiki/雌 "wikilink")”である身長2m20cmの大型ローカストで、いわば本作の[中ボス的存在](https://ja.wikipedia.org/wiki/ボスキャラクター#中ボス "wikilink")。目が見えない代わりに[聴覚](../Page/聴覚.md "wikilink")と[嗅覚](../Page/嗅覚.md "wikilink")が異様に発達しており、人間を足音と匂いで判別して襲い掛かる。ブーマーを遥かに上回る膂力を持ち、攻撃された場合は一撃でバラバラにされる。鉱物に似た硬い皮膚を持ち、途方も無い体力を持つためドーンハンマー以外の通常の[火器](https://ja.wikipedia.org/wiki/火器 "wikilink")では倒すことが出来ない。
+    『3』のDLCである『ラームの影』にも登場するが、その場合は誘導して車に衝突させる事でイミュルシオンを浴びせ、皮膚を軟らかくして銃撃する事で倒せる。
+
+<!-- end list -->
+
+  - レッチ：Wretch
+    群生する小型のローカスト。知性はあまり高くない。小型とはいえ、小個体でも150cmはある。鋭い[爪が武器で](https://ja.wikipedia.org/wiki/鉤爪 "wikilink")、天井や壁にしがみついて集団で[奇襲](../Page/奇襲.md "wikilink")をかけるのが得意。
+      - ダークレッチ：Dark Wretch（『1』）→ランベントレッチ（『3』）
+        イミュルシオンの影響で突然変異した[発光性の種が存在し](https://ja.wikipedia.org/wiki/生物発光 "wikilink")、こちらは攻撃を受けると[爆発](../Page/爆発.md "wikilink")する性質がある。『3』にてランベント化したレッチであったと判明。
+
+<!-- end list -->
+
+  - シーダー：Seeder
+    [嘴](https://ja.wikipedia.org/wiki/嘴 "wikilink")状の尾部をもつ[虫](../Page/虫.md "wikilink")の様な姿をした巨大ローカスト。地中を掘り進み、尾部のみを地上に出してそこからネーマシストを発射して攻撃させる。頭部は地中に存在し,サポート役のローカストがネーマシストを口から補充する。この敵がいると[電波障害](https://ja.wikipedia.org/wiki/電波障害 "wikilink")が発生する。ドーンハンマーによって倒すことが出来る。
+
+<!-- end list -->
+
+  - ネーマシスト：Nemacyst
+    シーダーの尾部から吹き出される大型の飛行型生物。外見は超巨大な[ノミ](https://ja.wikipedia.org/wiki/ノミ "wikilink")といったところ。頭部が非常に硬く目標を見つけると突撃する。また、ネーマシストが空にたくさん居るとドーンハンマーが使用不可能になる。
+
+<!-- end list -->
+
+  - リーバー：Reaver
+    ネーマシストの変異体。外見もネーマシストと殆ど同じ。ドローンを乗せて飛行することが出来る。今作では直接攻撃はしてこない。
+
+<!-- end list -->
+
+  - クリル：Kryll
+    [蝙蝠](https://ja.wikipedia.org/wiki/蝙蝠 "wikilink")のような小型のローカストで、常に何百匹もの[群れ](https://ja.wikipedia.org/wiki/群れ "wikilink")を成して飛び回っている。エマージェンス デー以後、[夜](https://ja.wikipedia.org/wiki/夜 "wikilink")ごと惑星セラの地表に現れおびただしい数のクリルが空を覆いつくすようになった。[肉食](../Page/肉食.md "wikilink")性で大変獰猛。生物を見つけると敵味方の区別無く襲い掛かる。[紫外線](../Page/紫外線.md "wikilink")（UV）に大変弱く、強い光を浴びると燃えてしまう。そのため明かりのある箇所には決して近付かない。主にAct2の中盤から終わりにかけて登場し、COG軍・ローカスト共に大幅に行動が制限される事となる（明かりの無い場所に長く居るとクリルに殺される為）。
+
+<!-- end list -->
+
+  -
+    『[2](https://ja.wikipedia.org/wiki/Gears_of_War_2 "wikilink")』および『[3](https://ja.wikipedia.org/wiki/Gears_of_War_3 "wikilink")』では登場しないがその理由はライトマス爆撃によってクリルの[巣](https://ja.wikipedia.org/wiki/巣 "wikilink")が破壊されたため。
+
+<!-- end list -->
+
+  - コープサー：Corpser
+    [節足動物](https://ja.wikipedia.org/wiki/節足動物 "wikilink")のような、現在確認されている中で最大のローカスト。巨大な手を思わせる外観をしている。ローカストにとっての採掘マシンで、地底の巨大なトンネルはコープサーによって掘り進められたものである。Act3の後半で直接戦闘する事になるが、身体の大部分が非常に硬い[外殻で覆われており](https://ja.wikipedia.org/wiki/外骨格 "wikilink")、通常の[兵器](../Page/兵器.md "wikilink")は通じない。
+
+<!-- end list -->
+
+  - ブルマック：Brumak
+    猿を品種改良して作られた身長15m・体重15tの巨大動物兵器。背中に身長の3分の2はある巨大な[キャノン砲](https://ja.wikipedia.org/wiki/キャノン砲 "wikilink")を装備している。XBOX 360版ではゲーム開始前のデモとAct4の終盤に少し登場するだけだが、PC版では戦闘可能。
+
+<!-- end list -->
+
+  - ラーム[将軍](../Page/将軍.md "wikilink")：General RAAM（[野中秀哲](https://ja.wikipedia.org/wiki/野中秀哲 "wikilink")：[Dee Bradley Baker](https://ja.wikipedia.org/wiki/ディー・ブラッドリー・ベイカー "wikilink")）
+    ローカスト軍の[最高司令官](https://ja.wikipedia.org/wiki/司令部 "wikilink")。身長は3mで等身大のローカストとしては最大の大きさを誇る。Act1でキム中尉を襲い、[刀](../Page/刀.md "wikilink")で惨殺した。『ライトマス爆撃』[作戦](https://ja.wikipedia.org/wiki/作戦 "wikilink")妨害のため、Act5の最後にマーカスの前に立ちはだかる。本来一人では運搬出来ない重機関銃「トロイカ」を抱え持ち、さらに全身に無数のクリルを防具代わりに纏っているため、攻守とも非常に優れた本作最強の敵。
+    実はベルセルクの突然変異種。
+
+<!-- end list -->
+
+  - ミラ：Myrrah（[岡本嘉子](https://ja.wikipedia.org/wiki/岡本嘉子 "wikilink")：Carolyn Seymour）
+    ローカストの[女王](../Page/女王.md "wikilink")と噂される存在。本作では声だけの出場。
+
+## 武器
+
+プレイヤーは、方向パッド（いわゆる[十字キー](https://ja.wikipedia.org/wiki/十字キー "wikilink")）に対応した[武器](../Page/武器.md "wikilink")を、最高4つまで所持することが可能。武器は、以下の3種類に大別される。
+
+### ライフル/ランチャー系
+
+**方向パッド左右に対応**　左右に、同じ武器を装備することはできない
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Cliff_B.jpg "wikilink")。\]\]
+
+  - ランサー COGアサルトライフル：Lancer Assault Rifle
+    COG軍制式の[アサルトライフル](../Page/アサルトライフル.md "wikilink")。地球のそれと異なるのは、[銃剣](../Page/銃剣.md "wikilink")の代わりに[チェーンソー](../Page/チェーンソー.md "wikilink")が装備されていることである。これは[接近戦の際](../Page/白兵戦.md "wikilink")、強靭な体躯を持つローカスト兵を一刀両断するために装備されたもので、モードや難易度を問わず必ず対象を[即死](https://ja.wikipedia.org/wiki/即死 "wikilink")させる（ドローン、セロン・ガードより大きなローカスト、キャンペーンモードのラーム将軍には効かない）。
+
+<!-- end list -->
+
+  -
+    チェーンソーはその強烈なインパクトから本作を象徴する[武装](https://ja.wikipedia.org/wiki/武装 "wikilink")となっている。
+
+<!-- end list -->
+
+  - ハンマーバースト ローカストライフル：Hammerburst Assault Rifle
+    ローカスト軍が装備するセミオート連射のアサルトライフル。1回で6発の[バースト](https://ja.wikipedia.org/wiki/バースト "wikilink")射撃を行う。COGライフルと比較して[弾丸](../Page/弾丸.md "wikilink")1発の威力が高く、発射時の反動が強い。
+
+<!-- end list -->
+
+  - ナッシャー ショットガン：Gnasher Shotgun
+    [レバーアクション式の](https://ja.wikipedia.org/wiki/小銃#レバーアクション小銃 "wikilink")[散弾銃](../Page/散弾銃.md "wikilink")。[銃床](https://ja.wikipedia.org/wiki/銃床 "wikilink")はない。至近距離では敵を一撃で倒すこともできるが、一般的な散弾銃と同様に長距離ではあまり役立たない。
+
+<!-- end list -->
+
+  - ロングショット スナイパーライフル：Longshot Sniper Rifle
+    大[口径の](https://ja.wikipedia.org/wiki/口径#口径（銃火器） "wikilink")[狙撃銃](https://ja.wikipedia.org/wiki/狙撃銃 "wikilink")。備え付けの[スコープにより長距離でもヘッドショットを狙うことが可能である](https://ja.wikipedia.org/wiki/照準器 "wikilink")。一発撃つごとにリロードが必要なため中近距離における射撃戦には向かない。
+
+<!-- end list -->
+
+  - ブームショット：Boomshot Grenade Launcher
+    ブーマーが使用する[グレネードランチャー](https://ja.wikipedia.org/wiki/グレネードランチャー "wikilink")。[ダネルMGL](https://ja.wikipedia.org/wiki/ダネルMGL "wikilink")のような形状をしている。発射された[弾は緩い放物線を描き](https://ja.wikipedia.org/wiki/グレネード "wikilink")、硬い壁などで跳弾する。
+
+<!-- end list -->
+
+  - トルクボウ：Torque Bow
+    セロン・ガードが好んで使用する金属製の[弓矢](../Page/弓矢.md "wikilink")。機械式で矢を非常に遠くまで飛ばす事が出来る。[鏃](https://ja.wikipedia.org/wiki/鏃 "wikilink")に[爆薬](https://ja.wikipedia.org/wiki/爆薬 "wikilink")が仕込まれており、標的へ突き刺さった後に[爆発](../Page/爆発.md "wikilink")するため凄まじい破壊力を持つ。反面、クセが強く矢の本数も少ないため扱いには慣れが必要。
+
+<!-- end list -->
+
+  - ドーン ハンマー：Hammer of Dawn
+    COGの[軍事衛星](https://ja.wikipedia.org/wiki/軍事衛星 "wikilink")に搭載された[粒子ビーム砲](https://ja.wikipedia.org/wiki/戦略防衛構想#光線/粒子線兵器 "wikilink")。プレイヤーが手にするのは、その目標を指示するための照準器である。現代の[レーザー照準器と同様](https://ja.wikipedia.org/wiki/レーザー誘導 "wikilink")、目標に命中するまで銃と同じように狙い続ける。シーダーなどの巨大なローカストをも殺傷する威力を持つが、衛星が上空にあり、かつ照準指示が届くよう屋外にいる場合でないと使用することができない。
+
+### ピストル系
+
+**方向パッド下に対応**
+
+  - スナッブ ピストル：Snub Pistol
+    COG軍の[制式](https://ja.wikipedia.org/wiki/制式名称 "wikilink")[自動拳銃](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")。「スナッブ（Snub）」とは「猪鼻」を意味し、[銃身](https://ja.wikipedia.org/wiki/銃身 "wikilink")の短い様子を表現している。単射だが、左トリガーを引きながら右スティックを押し込むことで2段階にズームし、簡易的な[狙撃銃](https://ja.wikipedia.org/wiki/狙撃銃 "wikilink")としての役割を果たす。モード共通の初期装備でもある。
+
+<!-- end list -->
+
+  - ボルトック ピストル：Boltok Pistol
+    [マグナム](https://ja.wikipedia.org/wiki/マグナム "wikilink")弾を発射する[回転式拳銃](https://ja.wikipedia.org/wiki/回転式拳銃 "wikilink")。1発の威力が高く、ヘッドショットにより対象を即死させることも期待できる。連射性能とリロード時間においてはスナッブピストルに劣る。
+
+### グレネード系
+
+**方向パッド上に対応**
+
+  - [フラグ](../Page/フラグ.md "wikilink")グレネード：Bolo Grenade
+    破片[手榴弾](../Page/手榴弾.md "wikilink")。[モーニングスターのような形状をしており](https://ja.wikipedia.org/wiki/モーニングスター_\(武器\) "wikilink")、振り回した勢いで[投擲](https://ja.wikipedia.org/wiki/投擲 "wikilink")する。ブラインドファイア同様にブラインド[スローも可能である](https://ja.wikipedia.org/wiki/投擲 "wikilink")。また接近戦においては敵に直接突き刺すこともできる。
+
+<!-- end list -->
+
+  - スモークグレネード：Smoke Grenade
+    着弾と同時に[煙幕](https://ja.wikipedia.org/wiki/煙幕 "wikilink")を噴出する。殺傷効果は無い。対戦モード専用武器。フラググレネード同様に直接突き刺す（通称：スモ刺し）事も可能だが、対戦では非常に嫌われる為やらない方が良い。
+
+### その他
+
+  - トロイカ：Troika Heavy Machine Gun
+    ローカスト軍の[重機関銃](https://ja.wikipedia.org/wiki/重機関銃 "wikilink")で水平二連の銃身を持つ。基本的に[銃架](https://ja.wikipedia.org/wiki/銃架 "wikilink")にすえられた状態で運用されており、射手の体を守るための装甲板も付いている。凄まじい殺傷能力と装甲板のため対処が困難だが、頭部には装甲板が無いためスナイパーライフルによるヘッドショットが有効。
+
+<!-- end list -->
+
+  -
+    敵の射手が居ない場合はプレイヤーが利用する事も可能である。
+
+<!-- end list -->
+
+  -
+    またラーム将軍はその巨体を活かし、銃架のない状態で[汎用機関銃](https://ja.wikipedia.org/wiki/汎用機関銃 "wikilink")のように腕に抱えて使用する。
+
+## 対戦
+
+アクションシューティングゲーム（シューター）ではおなじみの対戦モードは本作にも搭載されている。本作の場合はすべてCOGとローカストに分かれてのチーム戦となっており、複雑な地形とカバーシステムを駆使して戦術的な戦闘を行える様に設計されている。対戦では全員の体力が自動回復する他、**キャラクターごとの有利不利を無くすためにローカストのキャラクターも全員COG兵士と同じ大きさに縮小されている**。
+
+元々、ストーリーモード同様のカバーを駆使した頭脳的な中距離戦を想定して作られたモードであるが、発売後はショットガンとダイブ（回避のための飛び込み）・ローディーラン（力走）を組み合わせた格闘戦のような近接戦闘が人気となり、開発者の想定外の遊び方が中心となってしまった。このため開発者たちは2作目以降でさまざまな対策を講じる事となる\[5\]。
+
+対戦人数は2人から8人まで。
+
+基本ルールは以下の3種。
+
+  - Warzone
+    二つのチームに分かれての対戦。相手チームを全滅させた方が勝利となる。シューターで一般的な「チームデスマッチ」とほぼ同じもの。
+
+<!-- end list -->
+
+  - Execution
+    基本ルールは"Warzone"と同じだが、銃撃でとどめを刺す事が出来ないモード。とどめを刺すにはダウンした敵に近づいての「処刑」アクションを行う必要がある。処刑されなかった場合は一定時間後に全快する。
+
+<!-- end list -->
+
+  - Assasination
+    それぞれのチームに1人の「リーダー」が存在し、このリーダーを倒す事で初めてチームの勝利となる。リーダーとなるプレイヤーは一定の条件で毎ラウンド変わる（条件を満たしたプレイヤーが連続でリーダーになる事はある）。また、このモードでは一部の強力な武器はリーダー専用となるのも特徴。
+
+※発売後にアップデートが行われ以下のルールも追加された。
+
+  - Annex
+    ステージ上にランダムで設定される「目標地点」を占領する事が目的。目標地点は光る輪として表示され、そこに一定時間留まると占領出来る。これを繰り返し、先に目標点に達したチームの勝利となる。
+
+### オンラインマップ
+
+<div style="background: white; font-size: 80%; width: 125px; text-align: left; border: 1px solid black; padding: 1em; margin: 0 3em; float: right;">
+
+<div align="center">
+
+オンラインマップ
+
+</div>
+
+1.  War Machine
+2.  Tyro Station
+3.  Roof Tops
+4.  Mausoleum
+5.  Mansion
+6.  Fuel Depot
+7.  Gridlock
+8.  Escalation
+9.  Clocktower
+10. Canals
+11. Raven Down
+12. Old Bones
+13. Garden
+14. Bullet Marsh
+15. Process
+16. SubWay
+
+</div>
+
+1.  ウォーマシーン
+2.  タイロゥステーション
+3.  ルーフトップス
+4.  モーソリエム（マウソレウム）
+5.  マンション
+6.  フューエルデポ
+7.  グリッドロック
+8.  エスカレーション
+9.  クロックタワー
+10. キャナルズ
+11. レイヴンダウン
+12. オールドボーンズ
+13. ガーデン
+14. ブレットマーシュ
+15. プロセス
+16. サブウェイ
+
+（全16マップ）
+
+## 日本語版の相違点
+
+日本語版では以下の相違点がある。
+
+  - 欠損箇所のある遺体の削除。
+  - 一部の固有名詞の変更。（例：Berserker → ベルセルク、Emergence Hole → ローカストホール、Hammer of Dawn → ドーンハンマーなど）
+  - 人型生物がバラバラになった断面が見えないように黒く塗りつぶされている。
+
+日本語版は日本語翻訳の他、本国版の英語データも内包しており、通常日本語化された箇所（音声・字幕・メニュー）であるところをXbox 360ダッシュボードの本体設定で言語をEnglish（英語）にすることで、それらを北米版と同じにすることが出来る（ただし日本語音声+英語字幕のような組み合わせは不可）。
+
+## 記録と賞与
+
+北米、アジアで本作が発売されるや否や初日から品薄が続き、その後2週間（欧州では1週間）で売上総本数が100万本を突破。そして2006年12月15日には販売総本数が200万本を突破したとマイクロソフトから発表された\[6\]。これは2006年までに発売されたXbox 360のゲームソフト中で最速である。更に2007年1月、発売から10週間で販売本数が300万本を突破したと発表された。さらに、本作発売から約1年で500万本を突破するメガヒットとなり、その時点で、歴代Xbox 360ソフトの中で4番目に売れたソフトとなった（1位は『[Halo 3](https://ja.wikipedia.org/wiki/Halo_3 "wikilink")』、2位は『[Call of Duty4](https://ja.wikipedia.org/wiki/コール_オブ_デューティ4_モダン・ウォーフェア "wikilink")』、3位は『[GTA IV](https://ja.wikipedia.org/wiki/グランド・セフト・オートIV "wikilink")』）。エピックゲームズが2006年までに開発してきたゲームの中でも、最速かつ最多の販売本数記録を樹立している。
+
+2006年11月22日に[Xbox Liveでのプレイユーザー数において](https://ja.wikipedia.org/wiki/Xbox_Live "wikilink")、それまでの王者であった『[HALO](https://ja.wikipedia.org/wiki/HALO "wikilink")2』を上回り『現在最もプレーされているXboxゲーム』の地位に輝いた。2006年度に最もプレーされたXboxゲームの記録も立てた。
+
+賞与においては2007年2月に行われた[Academy of Interactive Arts & Sciences](https://ja.wikipedia.org/wiki/Academy_of_Interactive_Arts_&_Sciences "wikilink")（**AIAS**）の 10th AIAS Interactive Achievement Awards にて当時点で歴代最多である8部門を受賞した。受賞したのは以下の通り。
+
+  - Overall Game of the Year（年間最優秀ゲーム/総合）
+  - Console Game of the Year（年間最優秀ゲーム/コンソール）
+  - Action/Adventure Game of the Year（年間最優秀ゲーム/アクション・アドベンチャー）
+  - Outstanding Achievement in Animation（アニメーション）
+  - Outstanding Achievement in Art Direction（美術）
+  - Outstanding Character Performance - Male（キャラクターパフォーマンス/男性）
+  - Outstanding Achievement in Online Game Play（オンラインゲーム）
+  - Outstanding Achievement in Visual Engineering（映像技術）
+
+またいくつかのメディアの2006年度[ゲーム・オブ・ザ・イヤー](https://ja.wikipedia.org/wiki/ゲーム・オブ・ザ・イヤー "wikilink")（年間最優秀ゲーム）にも選ばれている。
+
+日本でも[日本ゲーム大賞](https://ja.wikipedia.org/wiki/日本ゲーム大賞 "wikilink")2007のグローバル賞（海外作品部門）を受賞している。
+
+## 音楽
+
+本作の音楽は[ホラー映画](../Page/ホラー映画.md "wikilink")を髣髴とさせる、不気味で不穏な曲調が特徴である。[オーケストラ](../Page/オーケストラ.md "wikilink")演奏はNorthwest Sinfonia（ノースウェスト・シンフォニア交響楽団）で、同楽団は『[Halo 3](https://ja.wikipedia.org/wiki/Halo_3 "wikilink")』や映画『[ランボー/最後の戦場](https://ja.wikipedia.org/wiki/ランボー/最後の戦場 "wikilink")』の演奏でも知られている。また、アメリカでは[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")が発売されており、日本でも輸入品が入手できる。作曲はケヴィン・リープル（Kevin Riepl）。曲数28曲、長さ69分。リミテッド・エディションに付属したボーナスDVDの特典映像の中には、楽曲の収録光景が収められている。
+
+ケヴィン・リープルの公式サイトでは[収録光景](http://www.kevinriepl.com/gow_session.htm)や[楽曲の視聴](http://www.kevinriepl.com/gears.htm)が可能。
+
+## 映画化
+
+  - 詳細は『[ギアーズ・オブ・ウォー（映画）](https://ja.wikipedia.org/wiki/ギアーズ・オブ・ウォー_\(映画\) "wikilink")』を参照。
+
+本作のデザイン・ディレクターの[クリフ・ブレジンスキー](https://ja.wikipedia.org/wiki/クリフ・ブレジンスキー "wikilink")がエグゼクティブ・プロデューサーとなり、実写映画の企画が進行中。2009年5月現在、予算配分の段階だという。監督は[レン・ワイズマン](https://ja.wikipedia.org/wiki/レン・ワイズマン "wikilink")。脚本は[クリス・モーガン](https://ja.wikipedia.org/wiki/クリス・モーガン "wikilink")で、彼は主人公であるマーカス・フェニックス役に[ザ・ロック](https://ja.wikipedia.org/wiki/ザ・ロック "wikilink")を希望しているという\[7\]。
+
+映画『[ダイ・ハード4.0](https://ja.wikipedia.org/wiki/ダイ・ハード4.0 "wikilink")』に本作が登場しているが、これは監督の[レン・ワイズマン](https://ja.wikipedia.org/wiki/レン・ワイズマン "wikilink")が沢山あった人気ゲームの中から「よくわからないけどクールだ」と選んだものである。後に彼は[Xbox 360を購入してこのゲームに惹かれて行くのだが](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")、このゲームこそが彼が監督を務める次回作であった。また、同氏は「ギアーズは[ロード・オブ・ザ・リング](../Page/ロード・オブ・ザ・リング.md "wikilink")のように、トリロジー（三部作）にしたい」と語っていた\[8\]がしばらく進展はなかった。2016年10月にマイクロソフトとユニバーサルの業務提携によって映画化の計画が再始動した。
+
+## 略称について
+
+略称はおもに2つ存在し、ひとつは『Gears』（日本ではカタカナで『ギアーズ』とも）、もうひとつは『GoW』である。
+
+後者は[ソニー発売の](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")[プレイステーションシリーズ向けアクションゲーム](https://ja.wikipedia.org/wiki/PlayStation "wikilink")『[ゴッド・オブ・ウォー](https://ja.wikipedia.org/wiki/ゴッド・オブ・ウォー "wikilink")』（God of War）と同じ略称であるため、混同を避けるために『ギアーズ オブ ウォー』を『GoW』とし、『ゴッド オブ ウォー』を『GOW』とする場合もあるが、徹底されているわけでは無くこれら三つの略称が混用されている状態である。
+
+## そのほか
+
+  - 上記にあるように、大人気で売り切れ続出だった本作だが、それゆえにトラブルもあった。アメリカの[デトロイト](../Page/デトロイト.md "wikilink")のとあるゲームショップで本作を購入しようとした36歳の男性が、本作を購入できなかったという理由で店にいた15歳の少年に暴力行為を働いたという事件である。この男性は『Gears』を購入するため店の長い列に並んでいたのだが、店の店員から在庫切れだという知らせを聞いた途端に逆上。何としてでも最後の一本を手に入れようとレジに割り込み、そこにいた15歳の少年に暴行を働き重傷を負わせたのだという。この男性はすぐさま駆けつけた警察に逮捕され、加重暴行の罪で矯正施設に収容された。ちなみに、その「最後の『Gears of War』ソフト」は、証拠品として警察に押収された模様\[9\]。
+
+<!-- end list -->
+
+  - 上記の『ダイ・ハード4.0』同様、映画『[ハート・ロッカー](https://ja.wikipedia.org/wiki/ハート・ロッカー "wikilink")』劇中で本作の遊戯シーンがある。しかし、映画は**2003年の出来事**という設定なので、本作（2006年発売）どころかXbox360本体（2005年発売）すら発売されていない。
+
+<!-- end list -->
+
+  - 『[こちら葛飾区亀有公園前派出所](../Page/こちら葛飾区亀有公園前派出所.md "wikilink")』第183巻に収録された「オンラインサバゲー?の巻」にて[両津勘吉](../Page/両津勘吉.md "wikilink")の台詞から大原部長の孫と頓田署長の子供が本作をプレイしているとあるが、**劇中の両者は共に18歳未満**であり、CEROレーティングZの18歳未満購入禁止に抵触している。『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』編集部から本件に関するアナウンスはない。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [クリフ・ブレジンスキー](https://ja.wikipedia.org/wiki/クリフ・ブレジンスキー "wikilink") - 本作の[ゲームデザイナー](https://ja.wikipedia.org/wiki/ゲームデザイナー "wikilink")
+  - [CONAN](https://ja.wikipedia.org/wiki/CONAN "wikilink")
+  - [Gears of War 2](https://ja.wikipedia.org/wiki/Gears_of_War_2 "wikilink")
+  - [Gears of War 3](https://ja.wikipedia.org/wiki/Gears_of_War_3 "wikilink")
+  - [Gears of War 4](https://ja.wikipedia.org/wiki/Gears_of_War_4 "wikilink")
+  - [ダイ・ハード4.0](https://ja.wikipedia.org/wiki/ダイ・ハード4.0 "wikilink")
+  - [クウォンタム セオリー](https://ja.wikipedia.org/wiki/クウォンタム_セオリー "wikilink") - 開発者がギアーズを真似て制作したと公言している。
+
+## 外部リンク
+
+  - [Gears of War 公式サイト](http://gearsofwar.xbox.com/)
+  - [Gears of War 公式サイト](http://www.xbox.com/ja-JP/Marketplace/Product/GearsofWar/)
+  - [Epic Games 公式サイト](http://www.epicgames.com/)
+  - [Gears of War: Destroyed Beauty（設定資料集）の全ページが掲載されたIGNの記事](http://xbox360.ign.com/articles/631/631860p1.html/)
+
+[Category:マイクロソフトのゲームソフト](https://ja.wikipedia.org/wiki/Category:マイクロソフトのゲームソフト "wikilink") [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink") [Category:2007年のパソコンゲーム](https://ja.wikipedia.org/wiki/Category:2007年のパソコンゲーム "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:アクションアドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:アクションアドベンチャーゲーム "wikilink") [Category:サードパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:サードパーソン・シューティングゲーム "wikilink") [Category:オールタイム100ビデオゲーム選出](https://ja.wikipedia.org/wiki/Category:オールタイム100ビデオゲーム選出 "wikilink")
+
+1.  [Gears of War（コミック）](http://www.comicvine.com/gears-of-war/49-23333/)
+2.  『The Art and Design of Gears of War』（『Gears of War 3』エピックエディション同封の書籍）より
+3.
+4.
+5.
+6.  MSNニュース、[「ギアーズ・オブ・ウォー」200万本突破](http://www.mainichi-msn.co.jp/entertainment/game/xbox360/news/20061218org00m300102000c.html)、毎日新聞、2006年12月16日
+7.  [劇場版Gears of War、脚本家はマーカス・フェニックス役にザ・ロックを希望](http://www.xbox-news.com/index.php?e=6889)
+8.  [L・ワイズマン 映画版Gearsは出来れば3部作に](http://www.360gameszone.com/?p=4742)
+9.  [36歳の男が『Gears of War』欲しさに暴力行為＠アメリカ](http://gs.inside-games.jp/news/101/10140.html)

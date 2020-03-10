@@ -1,0 +1,68 @@
+> この記事は[Movin\'](https://ja.wikipedia.org/wiki/Movin\')から翻訳されています。
+
+
+『**情報ライブMovin**'』（じょうほうライブムービン）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")まで[仙台放送](../Page/仙台放送.md "wikilink")で放送されていた[夕方ワイド番組](https://ja.wikipedia.org/wiki/夕方ワイド番組 "wikilink")。
+
+## 概要
+
+仙台放送はそれまでにも夕方ワイド番組を放送してきたが、今度は[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作の夕方ワイド番組を放送することになった。それがこの『情報ライブMovin'』である。司会は『[ヨジテレビ\!](https://ja.wikipedia.org/wiki/ヨジテレビ! "wikilink")』や『[仙台放送スーパーニュース](https://ja.wikipedia.org/wiki/仙台放送スーパーニュース "wikilink")』で一番人気のあった[浅見博幸](https://ja.wikipedia.org/wiki/浅見博幸 "wikilink")が約3年ぶりに務めることになったが、番組は1年3か月で終了した。
+
+## 放送時間の変遷
+
+| 期間        | 放送時間（[JST](../Page/日本標準時.md "wikilink")） |
+| --------- | ---------------------------------------- |
+| 2007.4.2  | 2007.7.13                                |
+| 2007.7.17 | 2007.9.28                                |
+| 2007.10.1 | 2008.6.27                                |
+
+## 出演者
+
+### 最終回時点での出演者
+
+**総合司会**
+
+  - [浅見博幸](https://ja.wikipedia.org/wiki/浅見博幸 "wikilink")（仙台放送アナウンサー）
+  - [梅島三環子](https://ja.wikipedia.org/wiki/梅島三環子 "wikilink")（仙台放送アナウンサー）
+
+**コーナーキャスター**
+
+  - [寺田早輪子](https://ja.wikipedia.org/wiki/寺田早輪子 "wikilink")（ムービンニュース、仙台放送アナウンサー） - 『[FNN仙台放送スーパーニュース](https://ja.wikipedia.org/wiki/仙台放送スーパーニュース "wikilink")』を兼務。
+  - [金澤聡](https://ja.wikipedia.org/wiki/金澤聡 "wikilink")（金スポ、仙台放送アナウンサー）
+  - [酒井紀子](https://ja.wikipedia.org/wiki/酒井紀子 "wikilink")（天気予報、気象予報士）
+  - [マギー審司](../Page/マギー審司.md "wikilink")（マギー審司のお宝発見福耳ツアー）
+  - [出射由佳](https://ja.wikipedia.org/wiki/出射由佳 "wikilink")（マギー審司のお宝発見福耳ツアー、当時仙台放送アナウンサー）
+  - [早坂牧子](https://ja.wikipedia.org/wiki/早坂まき子 "wikilink")（ムービンすぽっと（特集）・ジュニ体操、当時仙台放送アナウンサー）
+  - [櫻田彩子](https://ja.wikipedia.org/wiki/櫻田彩子 "wikilink")（ムービンすぽっと（特集））
+  - [齋藤幸恵](../Page/齋藤幸恵.md "wikilink")（ムービンすぽっと（特集））
+  - [中村かおり](https://ja.wikipedia.org/wiki/中村かおり_\(アナウンサー\) "wikilink")（持ち込みアゴラ）
+  - [JUNI](https://ja.wikipedia.org/wiki/JUNI "wikilink")（ジュニ体操）
+
+**ナレーター**
+
+  - [平塚裕子](https://ja.wikipedia.org/wiki/平塚裕子 "wikilink")
+
+### 過去の出演者
+
+**コーナーキャスター**
+
+  - [山口美穂子](https://ja.wikipedia.org/wiki/山口美穂子 "wikilink")（持ち込みアゴラ→2007年7月に中村かおりと交代）
+
+## コーナー・企画
+
+  - ムービンニュース - 他、「しぼり出し\!ニューススクイーズ」という特集的な枠も存在。
+  - ムービンすぽっと - いわゆる「特集」コーナー。
+  - マギー審司のお宝発見福耳ツアー\! - マギー審司と出射由佳が町をぶらぶらしながらお宝を発掘するコーナー。
+  - ドラ☆恋 - [ドラリオンの情報コーナー](https://ja.wikipedia.org/wiki/シルク・ドゥ・ソレイユ "wikilink")。
+  - おとなり安近短 - 隣県の気軽な日帰り旅行を紹介するコーナー。
+  - エンタメムービン - ゲストや映画について紹介するコーナー。
+  - ムービンスポーツ - 主に週明けに放送されていたコーナーだが、不定期コーナーゆえに必ずしも放送されるとは限らなかった。
+  - 金スポ\! - [ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")や[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")の勝敗を伝えるスポーツコーナー。
+  - 持ち込みアゴラ
+  - 天気予報
+  - [ジュニ体操](https://ja.wikipedia.org/wiki/ジュニ体操 "wikilink") - エンディングの体操番組。2007年10月1日から実施。本番組終了後、独立番組として放送。
+
+## 外部リンク
+
+  - [仙台放送／情報ライブ Movin'](https://web.archive.org/web/20080624231841/http://www.ox-tv.co.jp/movin/)（インターネット・アーカイブ保存データ）
+
+[Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:仙台放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:仙台放送のテレビ番組 "wikilink") [Category:東北地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの情報・ワイドショー番組 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink")

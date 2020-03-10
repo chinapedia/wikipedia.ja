@@ -1,0 +1,109 @@
+> この記事は[SPICA](https://ja.wikipedia.org/wiki/SPICA)から翻訳されています。
+
+
+**SPICA**（スピカ、）は、2027 – 28年にかけての打上げ実現を目指して日本、欧州諸国、カナダ、アメリカ、台湾などが共同して開発を進めている次世代[赤外線](../Page/赤外線.md "wikilink")天文衛星。打上げには[H3ロケット](https://ja.wikipedia.org/wiki/H3ロケット "wikilink")が使用される予定である。
+
+## 概説
+
+検討が始められた1997年当初は「[H-IIロケット](../Page/H-IIロケット.md "wikilink")によって第2[ラグランジュ点](../Page/ラグランジュ点.md "wikilink")（L）に打ち上げる」ということから「HII/L2ミッション」という名称で呼ばれていた。のちに改称して、現在のSPICAとなった。2005年3月14日、検討を進めてきた次期赤外線天文衛星ワーキンググループから[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink") (JAXA) ・[宇宙科学研究所](../Page/宇宙科学研究所.md "wikilink") (ISAS) ・宇宙理学委員会に正式なミッションとして提案された。
+
+高感度の赤外線観測を行うためには、望遠鏡から発生する熱放射によるノイズを減らす必要がある。[欧州宇宙機関](../Page/欧州宇宙機関.md "wikilink") (ESA) の[ハーシェル宇宙天文台](https://ja.wikipedia.org/wiki/ハーシェル宇宙天文台 "wikilink")では、望遠鏡の温度を-193℃ (80 K) まで冷却して高感度の赤外線観測を行った。SPICAでは、これを上回る-265 ℃（8 [K](../Page/ケルビン.md "wikilink")) の極低温に冷却することで望遠鏡自身から放射される赤外線の強度をハーシェルの約10万分の1に抑え、ハーシェルの100倍の高感度を実現する。
+
+太陽 – 地球系の[ラグランジュ点](../Page/ラグランジュ点.md "wikilink")（L）に衛星を同期させることによって、長期間の安定した観測を可能にする。Lでは地球と太陽が常に同一の方向にあるため、地球と太陽からの熱を同時に遮断して効率的に望遠鏡を冷却できるという利点もある。
+
+これまで宇宙からの赤外線観測は、[IRTS](https://ja.wikipedia.org/wiki/IRTS "wikilink")、[IRAS](https://ja.wikipedia.org/wiki/IRAS "wikilink")、「[あかり](https://ja.wikipedia.org/wiki/あかり_\(人工衛星\) "wikilink")」による全天観測、[赤外線宇宙天文台](https://ja.wikipedia.org/wiki/赤外線宇宙天文台 "wikilink")(ISO)、[スピッツァー宇宙望遠鏡](https://ja.wikipedia.org/wiki/スピッツァー宇宙望遠鏡 "wikilink")、ハーシェル宇宙天文台による個別領域の精密観測などが行われてきた。また、NASAの[ジェイムズ・ウェッブ宇宙望遠鏡](https://ja.wikipedia.org/wiki/ジェイムズ・ウェッブ宇宙望遠鏡 "wikilink")が2021年に打ち上げられる予定である。SPICAは中間赤外線から遠赤外線領域において高感度の観測が可能であり、他の宇宙望遠鏡と相補的な役割を担う。
+
+## 目的
+
+名前の通り、[宇宙論](../Page/宇宙論.md "wikilink")と[天体物理学](https://ja.wikipedia.org/wiki/天体物理学 "wikilink")の進展が大きな目的である。具体的な研究分野として「銀河の進化」と「惑星系の形成」の2点が挙げられている。
+
+  - 銀河の進化
+
+天体からの放射は広い波長領域にわたっているが、宇宙初期に誕生した[原始銀河](https://ja.wikipedia.org/wiki/原始銀河 "wikilink")など遠方の天体からの放射は、[赤方偏移](../Page/赤方偏移.md "wikilink")によって赤外線からサブミリ波領域に偏って観測される。SPICAが観測する中間〜遠赤外線領域はこのような放射をとらえるのに適している。
+
+  - 惑星系の形成
+
+原始惑星系円盤のガスの量や成分、塵の成分を分光分析することで、惑星系形成のメカニズムを研究する。
+
+## 国際協力
+
+JAXAとESAによる国際共同ミッションである。ESAがプロジェクト全体を取りまとめ、望遠鏡やサービスモジュールを開発する。日本ではISASを中心に、ペイロードモジュール、冷凍機、中間赤外線観測装置の開発が行われる。打上げにはJAXAのH3ロケットが使用される予定。総額1000億円程度と想定される所要経費のうち、日本は戦略的中型計画相当の300億円、ESAは「コスミック・ビジョン (Cosmic Vision) 」中型ミッション相当の5億5000万ユーロを、それぞれ分担する見込み。
+
+Lは、地球から150万キロメートルを超える距離の深宇宙ミッションとなるため、[臼田宇宙空間観測所](https://ja.wikipedia.org/wiki/臼田宇宙空間観測所 "wikilink")にあるような24時間のダウンリンク・アップリンクが求められており、国際協力体制で進めることで準備を行っている。
+
+## スケジュール
+
+2019年現在、日本ではJAXAでのプロジェクト化、ヨーロッパでは欧州宇宙機関の宇宙科学プログラム「コスミック・ビジョン」の中型ミッション5号機（M5）への採択を目指して、開発・検討を進めている。
+
+2016年7月8日、[宇宙科学研究所](../Page/宇宙科学研究所.md "wikilink") (ISAS) 内で、フェーズA1活動（システム要求審査までのプロジェクト推進活動）開始の妥当性の審査が行われ、合格と判断された。最終的には、技術仕様の確定、搭載装置の確定、打ち上げスケジュール、運用体制等が確定した後、宇宙航空研究開発機構理事会の承認を経て、[内閣府](../Page/内閣府.md "wikilink")[宇宙政策委員会](https://ja.wikipedia.org/wiki/宇宙政策委員会 "wikilink")の承認によって確定する。
+
+2018年5月7日、ESAの宇宙科学プログラム「コスミック・ビジョン」の中型ミッション5号機 (M5) への25件の提案の中から、候補の1つとして⼀次選抜で選出された。2021年に、SPICAを含む3件の候補から1件に絞り込まれる予定。
+
+## 機器
+
+### 望遠鏡
+
+望遠鏡の製作はESAが担当する。望遠鏡の[口径は](https://ja.wikipedia.org/wiki/アパーチャー "wikilink")2.5 mで、[リッチー・クレチアン式の光学系を採用](https://ja.wikipedia.org/wiki/リッチー・クレチアン式望遠鏡 "wikilink")、視野は満月とほぼ同じ30 [分となる](https://ja.wikipedia.org/wiki/分_\(角度\) "wikilink")。検討当初、望遠鏡の口径は3.2 mを予定していたが、2014年11月から12月にかけての設計見直しで2.5 mに変更された。「あかり」やハーシェルでも実績のある軽量素材シリコンカーバイド (SiC) を採用することで、望遠鏡の重量を約600 ㎏に抑える。また、望遠鏡に太陽やサービスモジュールで発生する熱が伝わらないよう、サービスモジュールと望遠鏡の間にESAの天文衛星[プランクで実績のあるV](https://ja.wikipedia.org/wiki/プランク_\(人工衛星\) "wikilink")-groove式の熱シールドを3層設置する。
+
+望遠鏡の冷却には、日本が開発する1 Kクラス、 4 Kクラスの2種類のジュールトムソン冷凍機と2段スターリング冷凍機の機械式冷凍機を用いる。これまでの天文衛星では、液体ヘリウムを[寒剤](https://ja.wikipedia.org/wiki/寒剤 "wikilink")として用いたため、機器の大型化、短い運用期間（1年程度）などの弱点があった。SPICAでは機械式冷却技術を用いることで、口径2.5 mの大型望遠鏡全体を冷却すると共に、3年という長い設計寿命を確保する。
+
+### 観測装置
+
+  - SMI（中間赤外線観測装置 SPICA Mid-Infrared Instrument）
+
+波長12 – 36 μmの中間赤外線帯の観測のため、LR、MR、HRの3つの分光装置と撮像装置 (CAM)が搭載される。SMIの開発は、[名古屋大学](../Page/名古屋大学.md "wikilink")と宇宙科学研究所を中心とするSMIコンソーシアムが担当する。SMIコンソーシアムには、大阪大学、東京大学、東北大学、京都大学、台湾[中央研究院天文及天文物理研究所](https://ja.wikipedia.org/wiki/中央研究院天文及天文物理研究所 "wikilink") (ASIAA) が参加している。
+
+  - SAFARI（遠赤外線観測装置 SpicA FAR-infrared Instrument）
+
+波長34 – 230 μmの広帯域で、適度な波長分解能 (R=300) を持つ高感度回折格子分光器。この帯域には電離したガス中のイオンが放出する様々な輝線が存在するため、遠方の銀河からこれらの輝線を検出することで、銀河における星生成や銀河中心の超巨大ブラックホールの活動の歴史を探ることが可能となる。SAFARIの開発は、[オランダ宇宙研究所](https://ja.wikipedia.org/wiki/オランダ宇宙研究所 "wikilink") (SRON) を中心とするSAFARIコンソーシアムが担当する。SAFARIコンソーシアムにはヨーロッパ10か国、アメリカ、カナダ、台湾、および日本が参加している。
+
+  - B-BOP（遠赤外線偏光観測装置 Magnetic field explorer with BOlometric Polarimeter）
+
+旧称POL。100μm、200μm、350μmの3つの帯域で動作するイメージング偏光計で、銀河のフィラメント構造の偏光マッピングによって、フィラメント構造および星形成における磁場の役割を研究する。B-BOPの開発は、フランスの[CEAを中心とするヨーロッパチームが担当する](https://ja.wikipedia.org/wiki/原子力・代替エネルギー庁 "wikilink")。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+### 研究分野
+
+  - [赤外線](../Page/赤外線.md "wikilink")
+  - [赤外線天文学](../Page/赤外線天文学.md "wikilink")
+  - [宇宙望遠鏡](https://ja.wikipedia.org/wiki/宇宙望遠鏡 "wikilink")
+
+### 研究機関
+
+  - [宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")(JAXA)
+      - [宇宙科学研究所](../Page/宇宙科学研究所.md "wikilink")(ISAS)
+  - [国立天文台](https://ja.wikipedia.org/wiki/国立天文台 "wikilink")
+
+### 国際共同研究機関
+
+  - ヨーロッパSPICA コンソーシアム
+  - 台湾[中央研究院天文及天文物理研究所](https://ja.wikipedia.org/wiki/中央研究院天文及天文物理研究所 "wikilink")
+
+### 技術開発協力企業
+
+  - NEC東芝スペースシステム（株）
+  - 住友重機（株）
+  - 三菱電機（株）
+  - NEC 航空宇宙システム（株）
+
+### これまでの赤外線天文衛星
+
+  - [あかり](https://ja.wikipedia.org/wiki/あかり_\(人工衛星\) "wikilink") (赤外線天文衛星)
+  - [IRAS](https://ja.wikipedia.org/wiki/IRAS "wikilink") (赤外線天文衛星)
+  - [赤外線宇宙天文台](https://ja.wikipedia.org/wiki/赤外線宇宙天文台 "wikilink")
+  - [スピッツァー宇宙望遠鏡](https://ja.wikipedia.org/wiki/スピッツァー宇宙望遠鏡 "wikilink") (赤外線宇宙望遠鏡)
+
+## 外部リンク
+
+  - [Spica Mission](http://www.ir.isas.jaxa.jp/SPICA/index_j.html) (ISAS)
+      - [次世代赤外線天文衛星 SPICA ミッション提案書](http://www.ir.isas.jaxa.jp/SPICA/WG/proposal/)
+  - [SPICA](https://spica-mission.org/) (SPICA欧州チーム)
+
+[Category:宇宙望遠鏡](https://ja.wikipedia.org/wiki/Category:宇宙望遠鏡 "wikilink") [Category:日本の人工衛星](https://ja.wikipedia.org/wiki/Category:日本の人工衛星 "wikilink") [Category:赤外線天文学](https://ja.wikipedia.org/wiki/Category:赤外線天文学 "wikilink")

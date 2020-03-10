@@ -1,0 +1,491 @@
+> この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
+
+
+**NNN夕方ローカルニュース一覧**（エヌエヌエヌゆうがたローカルニュースいちらん）は、[日本テレビ系列の](../Page/日本テレビ放送網.md "wikilink")[NNN各局で現在放送中の](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")、夕方の[ニュース番組の一覧である](../Page/報道番組.md "wikilink")。
+
+基本的には各局とも、平日17:53-18:15は全国パート（『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』）。その後各局ごとにローカルニュースを放送。ただし、各局ごとに[ローカルワイド番組](https://ja.wikipedia.org/wiki/ローカルワイド番組 "wikilink")に内包する形、あるいは独立型とそれぞれ放送形態が異なる。
+
+地方の老舗局を中心に長寿番組化している番組もあり、『[RABニュースレーダー](https://ja.wikipedia.org/wiki/RABニュースレーダー "wikilink")』『[ニュースプラス1いわて](https://ja.wikipedia.org/wiki/ニュースプラス1いわて "wikilink")』『[YBSワイドニュース](https://ja.wikipedia.org/wiki/YBSワイドニュース "wikilink")』『[フォーカス徳島](https://ja.wikipedia.org/wiki/フォーカス徳島 "wikilink")』など30～40年以上続いている番組も存在している。特に『RABニュースレーダー』は日本の民間放送で初めてのローカルワイドニュースとして開始されたが、開始から数年間は現在のような夕方ではなく朝の時間帯に編成されていた。
+
+なお、過去に各局で放送されていた番組に関しては各局の項を参照されたい。
+
+※各局の番組タイトル、キャスターは次の通り。また[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")での動画配信を行っている局は「■」マーク付き。また特集コーナーで放送された項目は一部が[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")経由でも全国配信されている。
+
+## 北海道・東北
+
+  - STV [札幌テレビ](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")
+      - [どさんこワイド](https://ja.wikipedia.org/wiki/どさんこワイド "wikilink")179（月-金曜 15:48 - 19:00、ローカルニュース『[STV NEWS](https://ja.wikipedia.org/wiki/STVニュース#テレビ版 "wikilink")』は18:15 - 19:00）
+          -
+            ニュースキャスター：[宮永真幸](https://ja.wikipedia.org/wiki/宮永真幸 "wikilink")
+            スポーツキャスター:[岡崎和久](https://ja.wikipedia.org/wiki/岡崎和久 "wikilink")・[神谷誠](https://ja.wikipedia.org/wiki/神谷誠 "wikilink")・[工藤聖太](https://ja.wikipedia.org/wiki/工藤聖太 "wikilink")・[佐藤宏樹](https://ja.wikipedia.org/wiki/佐藤宏樹 "wikilink")・[永井公彦](https://ja.wikipedia.org/wiki/永井公彦 "wikilink")・[藤井孝太郎](https://ja.wikipedia.org/wiki/藤井孝太郎 "wikilink")
+  - RAB [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")
+      - [RABニュースレーダー](https://ja.wikipedia.org/wiki/RABニュースレーダー "wikilink")（月-金曜 18:15 - 19:00）
+          -
+            キャスター：[菅原厚](https://ja.wikipedia.org/wiki/菅原厚 "wikilink")、[猪股南](https://ja.wikipedia.org/wiki/猪股南 "wikilink")
+            フィールドキャスター:[鮫島大史](https://ja.wikipedia.org/wiki/鮫島大史 "wikilink")・[中村香音](https://ja.wikipedia.org/wiki/中村香音 "wikilink")
+  - TVI [テレビ岩手](../Page/テレビ岩手.md "wikilink")
+      - [ニュースプラス1いわて](https://ja.wikipedia.org/wiki/ニュースプラス1いわて "wikilink")（月-金曜 18:15 - 18:55・土曜 17:20 - 17:30・日曜 17:25 - 17:30）
+          -
+            キャスター：[柴柳二郎](https://ja.wikipedia.org/wiki/柴柳二郎 "wikilink")（月 - 木）、[古舘友華](https://ja.wikipedia.org/wiki/古舘友華 "wikilink")（月 - 水）、[藤村惠一](https://ja.wikipedia.org/wiki/藤村惠一 "wikilink")（金）、[江口アミ](https://ja.wikipedia.org/wiki/江口アミ "wikilink")（木・金）。土日はシフト制
+            フィールドキャスター:[渡辺裕太](https://ja.wikipedia.org/wiki/渡辺裕太_\(俳優\) "wikilink")
+  - MMT [ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")
+      - [OH\!バンデス](https://ja.wikipedia.org/wiki/OH!バンデス "wikilink")（月-金曜 15:50 - 19:00、ローカルニュース『[ミヤギnews every.](https://ja.wikipedia.org/wiki/ミヤギnews_every. "wikilink")』は18:15 - 19:00）
+          -
+            ニュースキャスター：[柳瀬洋平](https://ja.wikipedia.org/wiki/柳瀬洋平 "wikilink")、[浮ヶ谷美穂](https://ja.wikipedia.org/wiki/浮ヶ谷美穂 "wikilink")
+  - ABS [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
+      - [ABS news every.](https://ja.wikipedia.org/wiki/ABS_news_every. "wikilink")（月-金曜 18:15 - 19:00）
+          -
+            キャスター：[田村修](https://ja.wikipedia.org/wiki/田村修 "wikilink")（月 - 金）、[鴨下望美](https://ja.wikipedia.org/wiki/鴨下望美 "wikilink")（月 - 水）、[佐藤有希](https://ja.wikipedia.org/wiki/佐藤有希 "wikilink")（木・金）
+            スポーツキャスター:[廣田裕司](https://ja.wikipedia.org/wiki/廣田裕司 "wikilink")
+  - YBC [山形放送](../Page/山形放送.md "wikilink")
+      - [YBC news every.](https://ja.wikipedia.org/wiki/YBC_news_every. "wikilink")（月-金曜 18:15 - 19:00）
+          -
+            キャスター：[小坂憲央](https://ja.wikipedia.org/wiki/小坂憲央 "wikilink")、[大木瞳美](https://ja.wikipedia.org/wiki/大木瞳美 "wikilink")
+            フィールドキャスター：[山川麻衣子](https://ja.wikipedia.org/wiki/山川麻衣子 "wikilink")
+  - FCT [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")
+      - [ゴジてれ Chu \!](https://ja.wikipedia.org/wiki/ゴジてれ_Chu_! "wikilink")（月-金曜 15:50 - 19:00、ローカルニュース『ゴジてれ Chu\!news』は18:15 - 19:00）
+          -
+            ニュースキャスター：[緒方太郎](https://ja.wikipedia.org/wiki/緒方太郎 "wikilink")（月 - 金）、[大橋聡子](https://ja.wikipedia.org/wiki/大橋聡子 "wikilink")（月 - 木）、[野尻英恵](https://ja.wikipedia.org/wiki/野尻英恵 "wikilink")（金）
+
+## 中部
+
+  - YBS [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
+      - [YBSワイドニュース](https://ja.wikipedia.org/wiki/YBSワイドニュース "wikilink")（月 - 金曜 18:15 - 19:00）
+          -
+            キャスター：[酒井康宜](https://ja.wikipedia.org/wiki/酒井康宜 "wikilink")、[水越千尋](https://ja.wikipedia.org/wiki/水越千尋 "wikilink")
+  - TSB [テレビ信州](../Page/テレビ信州.md "wikilink")
+      - [news every. (テレビ信州)](https://ja.wikipedia.org/wiki/news_every._\(テレビ信州\) "wikilink") ■（月 - 金曜 17:53 - 19:00、ローカルニュースは18:15 - 19:00）
+          -
+            キャスター：[藤原里瑛](https://ja.wikipedia.org/wiki/藤原里瑛 "wikilink")、[木下歌織](https://ja.wikipedia.org/wiki/木下歌織 "wikilink")、[伊東秀一](https://ja.wikipedia.org/wiki/伊東秀一 "wikilink")
+  - TeNY [テレビ新潟](../Page/テレビ新潟放送網.md "wikilink")
+      - [夕方ワイド新潟一番](https://ja.wikipedia.org/wiki/夕方ワイド新潟一番 "wikilink")（月 - 金曜15:50 - 19:00、ローカルニュースは18:15 - 18:57頃）
+          -
+            ニュースキャスター：[須山司](https://ja.wikipedia.org/wiki/須山司 "wikilink")、[斎藤久美子](https://ja.wikipedia.org/wiki/斎藤久美子_\(テレビ新潟のアナウンサー\) "wikilink")
+  - SDT [静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")
+      - [news every.しずおか](https://ja.wikipedia.org/wiki/news_every.しずおか "wikilink")■（月 - 金曜 18:15 - 19:00）
+          -
+            キャスター：[徳増ないる](https://ja.wikipedia.org/wiki/徳増ないる "wikilink")、[垣内麻理亜](https://ja.wikipedia.org/wiki/垣内麻理亜 "wikilink")
+  - KNB [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
+      - [いっちゃん★KNB](../Page/いっちゃん★KNB.md "wikilink")■（月 - 金曜 16:23 - 18:55、ローカルニュース『[KNB news every.](https://ja.wikipedia.org/wiki/KNB_news_every. "wikilink")』は、18:15 - 18:55）
+          -
+            キャスター：[数家直樹](https://ja.wikipedia.org/wiki/数家直樹 "wikilink")、[武道優美子](../Page/武道優美子.md "wikilink")
+            スポーツキャスター：[中島凪](https://ja.wikipedia.org/wiki/中島凪 "wikilink")
+  - KTK [テレビ金沢](../Page/テレビ金沢.md "wikilink")
+      - [となりのテレ金ちゃん](https://ja.wikipedia.org/wiki/となりのテレ金ちゃん "wikilink")■（月 - 木曜 15:53 - 19:00、ローカルニュースは18:15 - 19:00、金曜日は『花のテレ金ちゃん』）
+          -
+            キャスター：[高橋泉](https://ja.wikipedia.org/wiki/高橋泉_\(アナウンサー\) "wikilink")（月 - 木曜）・[越崎成人](https://ja.wikipedia.org/wiki/越崎成人 "wikilink")（金曜）
+  - FBC [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")
+      - [おじゃまっテレ ワイド&ニュース](https://ja.wikipedia.org/wiki/おじゃまっテレ_ワイド&ニュース "wikilink")（月 - 木曜 16:20 - 19:00、金曜 16:50 - 19:00、ローカルニュースは18:15 - 18:36、金曜日は『おじゃまっテレ ワイド&ニュース FRIDAY』）
+          -
+            キャスター：[伊藤裕樹](https://ja.wikipedia.org/wiki/伊藤裕樹 "wikilink")、[東海佳奈子](https://ja.wikipedia.org/wiki/東海佳奈子 "wikilink")
+  - CTV [中京テレビ](../Page/中京テレビ放送.md "wikilink")
+      - [キャッチ\!](https://ja.wikipedia.org/wiki/キャッチ! "wikilink") ■（月 - 金曜 15:48 - 19:00。ローカルニュースは15:48 - 16:50と18:15 - 19:00）
+          -
+            キャスター：[恩田千佐子](https://ja.wikipedia.org/wiki/恩田千佐子 "wikilink")、[佐藤和輝](https://ja.wikipedia.org/wiki/佐藤和輝 "wikilink")、[佐野祐子](https://ja.wikipedia.org/wiki/佐野祐子 "wikilink")（月・火曜）、[松原朋美](https://ja.wikipedia.org/wiki/松原朋美 "wikilink")（水 - 金曜）、天気キャスター：[石橋武宣](https://ja.wikipedia.org/wiki/石橋武宣 "wikilink")
+
+## 近畿
+
+  - ytv [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")
+      - [かんさい情報ネットten.](https://ja.wikipedia.org/wiki/かんさい情報ネットten. "wikilink")（月-金曜 16:47 - 19:00。ローカルニュースは16:47 - 17:53と18:15 - 19:00）
+          -
+            キャスター：[中谷しのぶ](https://ja.wikipedia.org/wiki/中谷しのぶ "wikilink")、天気キャスター：[蓬莱大介](https://ja.wikipedia.org/wiki/蓬莱大介 "wikilink") ほか
+
+## 中国・四国
+
+  - NKT [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")
+      - [ニュースevery日本海](https://ja.wikipedia.org/wiki/ニュースevery日本海 "wikilink")（月-金曜 18:15 - 19:00）
+          -
+            キャスター：[福谷貞夫](https://ja.wikipedia.org/wiki/福谷貞夫 "wikilink")、[松岡史子](https://ja.wikipedia.org/wiki/松岡史子 "wikilink")（月-水曜）、[前田彩野](https://ja.wikipedia.org/wiki/前田彩野 "wikilink")（木・金曜）
+  - HTV [広島テレビ](../Page/広島テレビ放送.md "wikilink")
+      - [テレビ派](https://ja.wikipedia.org/wiki/テレビ派 "wikilink")■（月-木曜 16:53 - 18:55、金曜 16:50 - 18:55、ローカルニュースは18:15 - 18:55）
+          -
+            キャスター：[森拓磨](https://ja.wikipedia.org/wiki/森拓磨 "wikilink")（月-木曜）、[宮脇靖知](../Page/宮脇靖知.md "wikilink")（金曜）、[馬場のぶえ](https://ja.wikipedia.org/wiki/馬場のぶえ "wikilink")
+            ニュースキャスター:[長島清隆](https://ja.wikipedia.org/wiki/長島清隆 "wikilink")、[野口七海](https://ja.wikipedia.org/wiki/野口七海 "wikilink")（月-水曜）、[西名みずほ](https://ja.wikipedia.org/wiki/西名みずほ "wikilink")（木曜・金曜）
+  - KRY [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")
+      - [KRYニュースライブ](https://ja.wikipedia.org/wiki/KRYニュースライブ "wikilink")（月-金曜 18:15 - 19:00）
+          -
+            キャスター：[高橋良](https://ja.wikipedia.org/wiki/高橋良 "wikilink")、[徳田琴美](https://ja.wikipedia.org/wiki/徳田琴美 "wikilink")、
+            天気キャスター：[山本昇治](../Page/山本昇治.md "wikilink")（KRY気象予報士）
+  - JRT [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")
+      - [フォーカス徳島](https://ja.wikipedia.org/wiki/フォーカス徳島 "wikilink")（月-木曜 18:15 - 18:55、金曜 18:15 - 18:51）
+          -
+            キャスター：[宗我部英久](https://ja.wikipedia.org/wiki/宗我部英久 "wikilink")、[物部純子](https://ja.wikipedia.org/wiki/物部純子 "wikilink")（月-木曜）、[森本真司](https://ja.wikipedia.org/wiki/森本真司 "wikilink")、[野口七海](https://ja.wikipedia.org/wiki/野口七海 "wikilink")（金曜）
+  - RNC [西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink")
+      - [RNC news every.](https://ja.wikipedia.org/wiki/RNC_news_every. "wikilink")（月-金曜 18:15 - 19:00）
+          -
+            ニュースキャスター：[岸たけし](../Page/岸猛.md "wikilink")、[小御門千絵](https://ja.wikipedia.org/wiki/小御門千絵 "wikilink")
+      - [RNC JUST NEWS](https://ja.wikipedia.org/wiki/RNCニュース "wikilink")（土17:20 - 17:30・日17:25 - 17:30）
+          -
+            キャスターはシフト制
+  - RNB [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")
+      - [News Ch.4](https://ja.wikipedia.org/wiki/News_Ch.4 "wikilink")（月-金曜 16:50 - 19:00。ローカルニュース部は16:50 - 17:53と18:15 - 19:00）
+          -
+            キャスター：[松岡宏忠](https://ja.wikipedia.org/wiki/松岡宏忠 "wikilink")、[清家夕貴](https://ja.wikipedia.org/wiki/清家夕貴 "wikilink")、スポーツキャスター：[白石紘一](https://ja.wikipedia.org/wiki/白石紘一 "wikilink")、天気キャスター：[小谷渉子](https://ja.wikipedia.org/wiki/小谷渉子 "wikilink")
+  - RKC [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")
+      - [こうちeye](https://ja.wikipedia.org/wiki/こうちeye "wikilink")（月-金曜 18:15 - 18:56）
+          -
+            キャスター：[河内真](https://ja.wikipedia.org/wiki/河内真 "wikilink")（月-金曜）、[有吉都](https://ja.wikipedia.org/wiki/有吉都 "wikilink")（月-水曜）、[井手上恵](https://ja.wikipedia.org/wiki/井手上恵 "wikilink")（木・金曜）
+
+## 九州
+
+  - FBS [福岡放送](../Page/福岡放送.md "wikilink")
+      - [めんたいワイド](https://ja.wikipedia.org/wiki/めんたいワイド "wikilink")（月-金曜 15:48 - 19:00。ローカルニュース部は15:48 - 17:53と18:15 - 19:00）
+          -
+            キャスター：[松井礼明](../Page/松井礼明.md "wikilink")、[若林麻衣子](https://ja.wikipedia.org/wiki/若林麻衣子 "wikilink")
+  - NIB [長崎国際テレビ](https://ja.wikipedia.org/wiki/長崎国際テレビ "wikilink")
+      - [NIB news every.](https://ja.wikipedia.org/wiki/長崎国際テレビの夕方帯ローカルニュース#NIB_news_every.（news_every.長崎） "wikilink")（月-金曜 18:15 - 19:00）
+          -
+            キャスター：[佐藤肖嗣](../Page/佐藤肖嗣.md "wikilink")、[中島彩](https://ja.wikipedia.org/wiki/中島彩_\(長崎国際テレビ\) "wikilink")
+  - KKT [くまもと県民テレビ](../Page/熊本県民テレビ.md "wikilink")
+      - [てれビタ](https://ja.wikipedia.org/wiki/てれビタ "wikilink")■（月-金曜 16:50 - 19:00、ローカルニュース『てれビタNEWS』は18:15 - 18:36に放送）
+          - 『てれビタ』の放送がない日は、『[news every.くまもと](https://ja.wikipedia.org/wiki/news_every.くまもと "wikilink")』として18:15 - 19:00に放送する。
+        <!-- end list -->
+          -
+            メインキャスター：[上野聡行](../Page/上野聡行.md "wikilink")、[村上めぐみ](https://ja.wikipedia.org/wiki/村上めぐみ "wikilink")、ニュースキャスター：[三宅宣行](../Page/三宅宣行.md "wikilink")
+  - KYT [鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")
+      - [KYT news every.](https://ja.wikipedia.org/wiki/KYT_news_every. "wikilink")（月-木曜 18:15 - 19:00、金曜 [かごピタ](https://ja.wikipedia.org/wiki/かごピタ "wikilink")内 18:15頃 -）
+          -
+            キャスター：[内田直之](https://ja.wikipedia.org/wiki/内田直之 "wikilink")、[橋口秀一](https://ja.wikipedia.org/wiki/橋口秀一 "wikilink")、[塚田舞](https://ja.wikipedia.org/wiki/塚田舞 "wikilink")
+
+## 過去に放送
+
+  - STV 札幌テレビ
+
+<!-- end list -->
+
+  -
+
+      -
+        [STVニュース](../Page/STVニュース.md "wikilink") - [STVニュースToday](https://ja.wikipedia.org/wiki/STVニュースToday "wikilink") - [STVニュースTodayプラス1](https://ja.wikipedia.org/wiki/STVニュースTodayプラス1 "wikilink")
+
+<!-- end list -->
+
+  - RAB 青森放送
+
+<!-- end list -->
+
+  -
+
+      -
+        [東奥日報ニュース](https://ja.wikipedia.org/wiki/東奥日報ニュース "wikilink")
+
+<!-- end list -->
+
+  - TVI テレビ岩手
+
+<!-- end list -->
+
+  -
+
+      -
+        [TVIニュース](https://ja.wikipedia.org/wiki/TVIニュース "wikilink") - [TVIニュースワイド](https://ja.wikipedia.org/wiki/TVIニュースワイド "wikilink") - [TVIニュースToday](https://ja.wikipedia.org/wiki/TVIニュースToday "wikilink") - [テレビ岩手ニュースアイ](https://ja.wikipedia.org/wiki/テレビ岩手ニュースアイ "wikilink")
+
+<!-- end list -->
+
+  - MMT ミヤギテレビ
+
+<!-- end list -->
+
+  -
+
+      -
+        [MTBニュース](https://ja.wikipedia.org/wiki/NNNミヤギテレビニュース "wikilink") - [MM34ニュース](https://ja.wikipedia.org/wiki/NNNミヤギテレビニュース "wikilink") - [ミヤギテレビニュース](https://ja.wikipedia.org/wiki/NNNミヤギテレビニュース "wikilink") - [みやぎToday](https://ja.wikipedia.org/wiki/NNNみやぎToday "wikilink") - [MMTニュースプラス1](https://ja.wikipedia.org/wiki/MMTニュースプラス1 "wikilink") - [ミヤギテレビニュースプラス1](https://ja.wikipedia.org/wiki/ミヤギテレビニュースプラス1 "wikilink") - [ニュースプラス1みやぎ](https://ja.wikipedia.org/wiki/ニュースプラス1みやぎ "wikilink") - [Newsリアルタイムミヤギ](https://ja.wikipedia.org/wiki/Newsリアルタイムミヤギ "wikilink")
+
+<!-- end list -->
+
+  - ABS 秋田放送
+
+<!-- end list -->
+
+  -
+
+      -
+        [さきがけニュース](https://ja.wikipedia.org/wiki/秋田魁新報#さきがけABSニュース "wikilink") - [ワイドレーダーあきた](https://ja.wikipedia.org/wiki/ワイドレーダーあきた "wikilink") - [ABSニュースワイド](https://ja.wikipedia.org/wiki/ABSニュースワイド "wikilink") - [NNNニュースプラス1あきた](https://ja.wikipedia.org/wiki/プラス1あきた "wikilink") - [Newsリアルタイムあきた](https://ja.wikipedia.org/wiki/Newsリアルタイムあきた "wikilink")
+
+<!-- end list -->
+
+  - YBC 山形放送
+
+<!-- end list -->
+
+  -
+
+      -
+        [山形新聞ニュース](https://ja.wikipedia.org/wiki/山形新聞ニュース "wikilink") - [YBC6時です](https://ja.wikipedia.org/wiki/YBC6時です "wikilink") - [YBCワイド60](https://ja.wikipedia.org/wiki/YBC6時です "wikilink") - [YBCニュースToday](https://ja.wikipedia.org/wiki/YBCニュースToday "wikilink") - [YBC6:00きょうのニュース](https://ja.wikipedia.org/wiki/YBCきょうのニュース "wikilink") - [YBCライブオンネットワーク](https://ja.wikipedia.org/wiki/YBCきょうのニュース "wikilink") - [YBCきょうのニュース](https://ja.wikipedia.org/wiki/YBCきょうのニュース "wikilink") - [YBCきょうのニュース・プラス1](https://ja.wikipedia.org/wiki/YBCニュースプラス1 "wikilink") - [YBCニュースプラス1](https://ja.wikipedia.org/wiki/YBCニュースプラス1 "wikilink") - [YBC Newsリアルタイム](https://ja.wikipedia.org/wiki/YBC_Newsリアルタイム "wikilink")
+
+<!-- end list -->
+
+  - FCT 福島中央テレビ
+
+<!-- end list -->
+
+  -
+
+      -
+        [FCTワイドニュース](https://ja.wikipedia.org/wiki/FCTワイドニュース "wikilink") - [FCTニュース](https://ja.wikipedia.org/wiki/FCTニュース "wikilink") - [ふくしまToday](https://ja.wikipedia.org/wiki/NNNふくしまToday "wikilink") - [ニュースプラス1ふくしま](https://ja.wikipedia.org/wiki/NNNニュースプラス1ふくしま "wikilink") - [FCTニュースプラス1](https://ja.wikipedia.org/wiki/FCTニュースプラス1 "wikilink") - [ゴジてれシャトル](https://ja.wikipedia.org/wiki/ゴジてれシャトル "wikilink")
+
+<!-- end list -->
+
+  - NTV 日本テレビ
+
+<!-- end list -->
+
+  -
+
+      -
+        [6時です\!4チャンネル](../Page/6時です!4チャンネル.md "wikilink")
+
+<!-- end list -->
+
+  - TeNY テレビ新潟
+
+<!-- end list -->
+
+  -
+
+      -
+        [TNNニュース](https://ja.wikipedia.org/wiki/TeNYニュース "wikilink") - [TNNきょうの新潟](https://ja.wikipedia.org/wiki/TNNきょうの新潟 "wikilink") - [にいがたNOW](https://ja.wikipedia.org/wiki/にいがたNOW "wikilink") - [TeNYニュースプラス1](https://ja.wikipedia.org/wiki/TeNYニュースプラス1 "wikilink")
+
+<!-- end list -->
+
+  - TSB テレビ信州
+
+<!-- end list -->
+
+  -
+
+      -
+        [ニュースプラス1信州](https://ja.wikipedia.org/wiki/ニュースプラス1信州 "wikilink") - [TSBニュースプラス1](https://ja.wikipedia.org/wiki/TSBニュースプラス1 "wikilink") - [TSB Newsリアルタイム](https://ja.wikipedia.org/wiki/TSB_Newsリアルタイム "wikilink") - [TSB NEWS 報道ゲンバ](https://ja.wikipedia.org/wiki/報道ゲンバ_Face "wikilink") - [報道ゲンバ Face](https://ja.wikipedia.org/wiki/報道ゲンバ_Face "wikilink")
+
+<!-- end list -->
+
+  - YBS 山梨放送
+
+<!-- end list -->
+
+  -
+
+      -
+        [山日YBSニュース](https://ja.wikipedia.org/wiki/YBSニュース "wikilink") - [YBSテレビ夕刊](https://ja.wikipedia.org/wiki/YBSテレビ夕刊 "wikilink")
+
+<!-- end list -->
+
+  - SDT 静岡第一テレビ
+
+<!-- end list -->
+
+  -
+
+      -
+        [第一テレビニュース](https://ja.wikipedia.org/wiki/NNN第一テレビニュース "wikilink") - [Today静岡](../Page/Today静岡.md "wikilink") - [Todayしずおか](../Page/Todayしずおか.md "wikilink") - [NNNしずおかプラス1](../Page/しずおかプラス1.md "wikilink") - [News Waveプラス1 NNN](../Page/News_Wave.md "wikilink") - [ニュースプラス1しずおか](https://ja.wikipedia.org/wiki/ニュースプラス1しずおか "wikilink") - [NewsリアルタイムSHIZUOKA](https://ja.wikipedia.org/wiki/NewsリアルタイムSHIZUOKA "wikilink") - [○ごとワイド](https://ja.wikipedia.org/wiki/まるごと "wikilink")
+
+<!-- end list -->
+
+  - KNB 北日本放送
+
+<!-- end list -->
+
+  -
+
+      -
+        [KNBニュース](https://ja.wikipedia.org/wiki/KNBニュース "wikilink") - [チャンネル1](https://ja.wikipedia.org/wiki/チャンネル1 "wikilink") - [KNBニュースプラス1](https://ja.wikipedia.org/wiki/KNBニュースプラス1 "wikilink") - [KNB Newsリアルタイム](https://ja.wikipedia.org/wiki/KNB_Newsリアルタイム "wikilink")
+
+<!-- end list -->
+
+  - KTK テレビ金沢
+
+<!-- end list -->
+
+  -
+
+      -
+        [テレビ金沢ニュースプラス1](https://ja.wikipedia.org/wiki/テレビ金沢ニュースプラス1 "wikilink") - [2時間ワイドじゃんけんぽん](https://ja.wikipedia.org/wiki/2時間ワイドじゃんけんぽん "wikilink") - [びービーみつばち](https://ja.wikipedia.org/wiki/びービーみつばち "wikilink") - [テレビ金沢Newsリアルタイム](https://ja.wikipedia.org/wiki/テレビ金沢Newsリアルタイム "wikilink")
+
+<!-- end list -->
+
+  - FBC 福井放送
+
+<!-- end list -->
+
+  -
+
+      -
+        [FBCニュース](https://ja.wikipedia.org/wiki/FBCニュース "wikilink") - [TODAYふくい](https://ja.wikipedia.org/wiki/TODAYふくい "wikilink") - [情報フロント530](https://ja.wikipedia.org/wiki/情報フロント530 "wikilink") - [FBCニュースプラス1](https://ja.wikipedia.org/wiki/FBCニュースプラス1 "wikilink") - [FBCニュースプラス1サタデー・サンデー](https://ja.wikipedia.org/wiki/FBCニュースプラス1サタデー・サンデー "wikilink") - [夕方いちばんプラス1](https://ja.wikipedia.org/wiki/夕方いちばんプラス1 "wikilink") - [Newsリアルタイムふくい](https://ja.wikipedia.org/wiki/Newsリアルタイムふくい "wikilink") - [FBC Newsリアルタイムサタデー](https://ja.wikipedia.org/wiki/FBC_Newsリアルタイムサタデー "wikilink") - [イケてる福井 ワイド&ニュース](https://ja.wikipedia.org/wiki/イケてる福井_ワイド&ニュース "wikilink")（金曜のみ）
+
+<!-- end list -->
+
+  - CTV 中京テレビ
+
+<!-- end list -->
+
+  -
+
+      -
+        [中京テレビニュース](https://ja.wikipedia.org/wiki/中京テレビニュース "wikilink") - [6時のNEWS](https://ja.wikipedia.org/wiki/6時のNEWS "wikilink") - [中京TODAY](https://ja.wikipedia.org/wiki/中京TODAY "wikilink") - [中京テレビニュースプラス1](https://ja.wikipedia.org/wiki/中京テレビニュースプラス1 "wikilink") - [中京テレビNewsリアルタイム](https://ja.wikipedia.org/wiki/中京テレビNewsリアルタイム "wikilink") - [news every.](https://ja.wikipedia.org/wiki/news_every._\(中京テレビ\) "wikilink")
+
+<!-- end list -->
+
+  - ytv 読売テレビ
+
+<!-- end list -->
+
+  -
+
+      -
+        [よみうりニュース](https://ja.wikipedia.org/wiki/よみうりニュース_NNN "wikilink") - [テレトーク10](https://ja.wikipedia.org/wiki/テレトーク10 "wikilink") - [きんきTODAY](https://ja.wikipedia.org/wiki/きんきTODAY "wikilink") - [ニュースワイド TODAY](https://ja.wikipedia.org/wiki/ニュースワイド_TODAY "wikilink") - [大阪発プラス1](https://ja.wikipedia.org/wiki/大阪発プラス1 "wikilink") - [ニューススクランブル](../Page/ニューススクランブル.md "wikilink")
+
+<!-- end list -->
+
+  - NKT 日本海テレビ
+
+<!-- end list -->
+
+  -
+
+      -
+        [NKTニュース](https://ja.wikipedia.org/wiki/NKTニュース "wikilink") - [ワイドニュース日本海](https://ja.wikipedia.org/wiki/ワイドニュース日本海 "wikilink") - [ニュース日本海プラス1](https://ja.wikipedia.org/wiki/ニュース日本海プラス1 "wikilink") - [Newsリアルタイム日本海](https://ja.wikipedia.org/wiki/Newsリアルタイム日本海 "wikilink")
+
+<!-- end list -->
+
+  - HTV 広島テレビ
+
+<!-- end list -->
+
+  -
+
+      -
+        [広島テレビニュース](../Page/広島テレビNEWS.md "wikilink") - [広島テレビニュースアイ](https://ja.wikipedia.org/wiki/広島テレビニュースアイ "wikilink") - [ひろしまTODAY60](https://ja.wikipedia.org/wiki/ひろしまTODAY60 "wikilink") - [NNNひろしまTODAY](../Page/NNNひろしまTODAY.md "wikilink") - [NNNニュースプラス1ひろしま](../Page/NNNニュースプラス1ひろしま.md "wikilink") - [テレビ宣言](../Page/テレビ宣言.md "wikilink") - [広島テレビニュースプラス1](https://ja.wikipedia.org/wiki/広島テレビニュースプラス1 "wikilink")
+
+<!-- end list -->
+
+  - KRY 山口放送
+
+<!-- end list -->
+
+  -
+
+      -
+        [KRYニュース](https://ja.wikipedia.org/wiki/KRYニュース "wikilink") - [KRY テレビ夕刊](https://ja.wikipedia.org/wiki/KRY_テレビ夕刊 "wikilink") - [プラス1やまぐち](https://ja.wikipedia.org/wiki/プラス1やまぐち "wikilink") - [Newsリアルタイムやまぐち](https://ja.wikipedia.org/wiki/Newsリアルタイムやまぐち "wikilink") - [スクープアップやまぐち](https://ja.wikipedia.org/wiki/スクープアップやまぐち "wikilink")
+
+<!-- end list -->
+
+  - JRT 四国放送
+
+<!-- end list -->
+
+  -
+
+      -
+        [徳島新聞ニュース](https://ja.wikipedia.org/wiki/徳島新聞ニュース "wikilink") - [徳島新聞テレビ夕刊](https://ja.wikipedia.org/wiki/徳島新聞テレビ夕刊 "wikilink")
+
+<!-- end list -->
+
+  - RNC 西日本放送
+
+<!-- end list -->
+
+  -
+
+      -
+        [RNCニュース](https://ja.wikipedia.org/wiki/RNCニュース "wikilink") - [RNC6:00](https://ja.wikipedia.org/wiki/RNC6:00 "wikilink") - [RNCニュースプラス1](https://ja.wikipedia.org/wiki/RNCニュースプラス1 "wikilink") - [RNCワイド90プラス1](https://ja.wikipedia.org/wiki/RNCワイド90プラス1 "wikilink") - [RNCワイドニュースプラス1](https://ja.wikipedia.org/wiki/RNCワイドニュースプラス1 "wikilink") - [RNC Newsリアルタイム](https://ja.wikipedia.org/wiki/RNC_Newsリアルタイム "wikilink")
+
+<!-- end list -->
+
+  - RNB 南海放送
+
+<!-- end list -->
+
+  -
+
+      -
+        [南海放送ニュース](https://ja.wikipedia.org/wiki/なんかいNEWS "wikilink") - [なんかいワイドニュースtoday](https://ja.wikipedia.org/wiki/なんかいワイドニュースtoday "wikilink") - [なんかいNEWS5-30](https://ja.wikipedia.org/wiki/なんかいNEWS5-30 "wikilink") - [なんかいNEWS5-30](https://ja.wikipedia.org/wiki/なんかいNEWS5-30 "wikilink")プラス1 - [特急\!なんかいNEWSプラス1](https://ja.wikipedia.org/wiki/なんかいNEWS5-30 "wikilink") - [おかえりテレビ](https://ja.wikipedia.org/wiki/おかえりテレビ "wikilink") - [Newsリアルタイムえひめ](https://ja.wikipedia.org/wiki/Newsリアルタイムえひめ "wikilink")
+
+<!-- end list -->
+
+  - RKC 高知放送
+
+<!-- end list -->
+
+  -
+
+      -
+        [RKCニュース](https://ja.wikipedia.org/wiki/RKCニュース "wikilink") - テレビレポートRKC６時です - [RKCテレビ夕刊](https://ja.wikipedia.org/wiki/RKCテレビ夕刊 "wikilink") - [RKCきょうのニュース](https://ja.wikipedia.org/wiki/RKCきょうのニュース "wikilink") - [こうちtoday](https://ja.wikipedia.org/wiki/こうちtoday "wikilink") - [NNNこうちToday](https://ja.wikipedia.org/wiki/NNNこうちToday "wikilink") - [NNNニュースプラス1こうち](https://ja.wikipedia.org/wiki/ニュースプラス1こうち "wikilink") - [こうちNOW](https://ja.wikipedia.org/wiki/こうちNOW "wikilink") - [こうちNOW friday](https://ja.wikipedia.org/wiki/こうちNOW_friday "wikilink")（金曜のみ）
+
+<!-- end list -->
+
+  - FBS 福岡放送
+
+<!-- end list -->
+
+  -
+
+      -
+        [FBSニュース](https://ja.wikipedia.org/wiki/FBSニュース "wikilink") - [FBSニュースリポート](https://ja.wikipedia.org/wiki/FBSニュースリポート "wikilink") - [FBS EVENING NEWS](https://ja.wikipedia.org/wiki/FBS_EVENING_NEWS "wikilink") - [FBSきょうのニュース](https://ja.wikipedia.org/wiki/FBSきょうのニュース "wikilink") - [FBSニュースプラス1](https://ja.wikipedia.org/wiki/FBSニュースプラス1 "wikilink") - [MENTAI NEWS FUKUOKA](https://ja.wikipedia.org/wiki/めんたいワイド "wikilink") - [NEWS5ちゃん](https://ja.wikipedia.org/wiki/NEWS5ちゃん "wikilink") - [めんたいPlus](https://ja.wikipedia.org/wiki/NEWSめんたいPlus "wikilink")
+
+<!-- end list -->
+
+  - NIB 長崎国際テレビ
+
+<!-- end list -->
+
+  -
+
+      -
+        [ニュースプラス1ながさき - NIB日曜夕刊 - NEWSリアルタイムNAGASAKI](https://ja.wikipedia.org/wiki/長崎国際テレビの夕方帯ローカルニュース "wikilink")
+
+<!-- end list -->
+
+  - KKT 熊本県民テレビ
+
+<!-- end list -->
+
+  -
+
+      -
+        [KKTニュース](https://ja.wikipedia.org/wiki/KKTニュース "wikilink") - [くまもとNOW](https://ja.wikipedia.org/wiki/くまもとNOW "wikilink") - [ニュースプラス1くまもと](https://ja.wikipedia.org/wiki/ニュースプラス1くまもと "wikilink") - [KKTニュースプラス1](https://ja.wikipedia.org/wiki/KKTニュースプラス1 "wikilink") - [Newsリアルタイムくまもと](https://ja.wikipedia.org/wiki/Newsリアルタイムくまもと "wikilink")
+
+<!-- end list -->
+
+  - KTS [鹿児島テレビ](https://ja.wikipedia.org/wiki/鹿児島テレビ "wikilink")（1985年3月31日までNNN、同年4月よりFNNにネットチェンジ）
+
+<!-- end list -->
+
+  -
+
+      -
+        [KTSテレビ夕刊](https://ja.wikipedia.org/wiki/KTSテレビ夕刊 "wikilink")
+
+<!-- end list -->
+
+  - KYT 鹿児島読売テレビ
+
+<!-- end list -->
+
+  -
+
+      -
+        [KYTニュースプラス1](https://ja.wikipedia.org/wiki/KYTニュースプラス1 "wikilink") - [KYT Newsリアルタイム](https://ja.wikipedia.org/wiki/KYT_Newsリアルタイム "wikilink")
+
+## 他系列
+
+  - [JNN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/JNN夕方ローカルニュース一覧 "wikilink")
+  - [FNN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/FNN夕方ローカルニュース一覧 "wikilink")
+  - [ANN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/ANN夕方ローカルニュース一覧 "wikilink")
+  - [TXN夕方ローカルニュース一覧](../Page/テレビ東京系列夕方ニュース枠.md "wikilink")
+
+## 関連項目
+
+  - [日本テレビ系列夕方ニュース枠](../Page/日本テレビ系列夕方ニュース枠.md "wikilink")
+  - [NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")（放送終了）
+  - [NNN JUST NEWS](https://ja.wikipedia.org/wiki/NNN_JUST_NEWS "wikilink")（放送終了）
+  - [NNN6:30きょうのニュース](https://ja.wikipedia.org/wiki/NNN6:30きょうのニュース "wikilink")（放送終了）
+  - [NNNライブオンネットワーク](../Page/NNNライブオンネットワーク.md "wikilink")（放送終了）
+  - [NNN日曜夕刊](../Page/NNN日曜夕刊.md "wikilink")（放送終了）
+  - [NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")（放送終了）
+  - [news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")
+  - [NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")
+  - [日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")
+  - [ラジオ局ローカルニュースタイトル一覧](https://ja.wikipedia.org/wiki/ラジオ局ローカルニュースタイトル一覧 "wikilink")
+  - [ローカルニュース動画配信実施局一覧](../Page/ローカルニュース動画配信実施局一覧.md "wikilink")
+
+[Category:NNN番組](https://ja.wikipedia.org/wiki/Category:NNN番組 "wikilink") [Category:ローカルテレビ局のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のニュース・報道番組 "wikilink") [Category:News_every.](https://ja.wikipedia.org/wiki/Category:News_every. "wikilink") [Category:NNN番組の歴史](https://ja.wikipedia.org/wiki/Category:NNN番組の歴史 "wikilink") [Category:テレビ番組一覧](https://ja.wikipedia.org/wiki/Category:テレビ番組一覧 "wikilink")

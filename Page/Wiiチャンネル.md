@@ -1,0 +1,155 @@
+> この記事は[Wii](https://ja.wikipedia.org/wiki/Wii)から翻訳されています。
+
+
+**Wii**（ウィーチャンネル）とは、[任天堂](../Page/任天堂.md "wikilink")より販売されている家庭用ゲーム機・[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")に内蔵もしくは追加可能な[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")の総称である。各々のソフトは**チャンネル**と呼ばれる。
+
+## 概要
+
+「誰でも気軽に触れることが出来るゲーム機」「毎日電源を入れたくなるゲーム機」という[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")のコンセプトによって考案、そして誕生した機能が**Wiiチャンネル**である。[天気](../Page/天気.md "wikilink")・[ニュース](../Page/ニュース.md "wikilink")・[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")等と、テレビゲームを普段しない人もWiiに触れることが出来るチャンネルも用意されている。
+
+Wiiを起動すると、**Wiiメニュー**が表示され、12個のチャンネル枠が表示される。チャンネル枠が12個並んでいるページが全4ページあり、合計48個までチャンネルを増やすことができる。ただし、初めから『ディスクドライブチャンネル』等を含め6個が既に埋まっているため、後から追加できるチャンネル数は実質42個までとなる。チャンネル枠が全て埋まった場合はこれ以上チャンネルを増やすことは出来ないが、購入時から表示されている6つのチャンネル以外は、削除することが出来る。
+
+Wii購入時は『[似顔絵チャンネル](https://ja.wikipedia.org/wiki/似顔絵チャンネル "wikilink")』『[写真チャンネル](https://ja.wikipedia.org/wiki/写真チャンネル "wikilink")』の2つのチャンネルのみが利用可能で、一緒に表示されている『[Wiiショッピングチャンネル](https://ja.wikipedia.org/wiki/Wiiショッピングチャンネル "wikilink")』『[お天気チャンネル](https://ja.wikipedia.org/wiki/お天気チャンネル_\(Wiiチャンネル\) "wikilink")』『[ニュースチャンネル](https://ja.wikipedia.org/wiki/ニュースチャンネル "wikilink")』はWiiをインターネットに接続することで利用可能になる。その他のチャンネルは、『Wiiショッピングチャンネル』内よりダウンロードする。さらに、ゲームソフトによっては、そのゲームソフトに関連したチャンネルが追加される場合もある。また、ダウンロードした[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")や[Wiiウェア](https://ja.wikipedia.org/wiki/Wiiウェア "wikilink")のゲーム、Wiiや[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")のディスクゲームも一つのチャンネルという扱いになっているため、Wiiメニューに他のチャンネルと一緒に表示される。
+
+現在、全てのチャンネルが無料でダウンロード可能である。
+
+任天堂は[2013年](../Page/2013年.md "wikilink")4月12日、Wii向けネットワークサービスの一部を同年6月28日で終了すると発表した。 終了するのは、「お天気チャンネル」「デジカメプリントチャンネル」「ニュースチャンネル」「みんなで投票チャンネル」「みんなのニンテンドーチャンネル」「Miiコンテストチャンネル」と、「WiiConnect24」でのWiiフレンドとのデータ交換\[1\]。
+
+## チャンネル一覧
+
+### 購入時から利用可能なチャンネル
+
+  - ディスクドライブチャンネル
+    Wii用ソフト、ニンテンドーゲームキューブ用ソフトを起動するチャンネル。メニューの一番左のページの左上に固定されており、配置場所を変えることはできない。
+    また、ゲームキューブ用ソフトを起動させた場合、本体の機能は完全にゲームキューブと同じものに切り替わるため、直接Wiiメニューに戻ることはできない\[2\]。また、Wiiリモコンにも反応しなくなるため、電源を落とす際には直接本体の電源スイッチに触れる必要がある。
+    Wii用ソフトを入れるとそのソフトのタイトル表示やWiiチャンネルと同じようにアニメーションや音が流れ、ゲームキューブ用のソフトの場合は全てゲームキューブのロゴマークしか表示されない。
+  - [似顔絵チャンネル](https://ja.wikipedia.org/wiki/似顔絵チャンネル "wikilink")\[3\]
+    「[Mii](https://ja.wikipedia.org/wiki/Mii "wikilink")」（ミー）という家族や友達などに似たキャラクターを作成するチャンネル。
+  - [写真チャンネル](https://ja.wikipedia.org/wiki/写真チャンネル "wikilink")
+    SDメモリーカード対応の[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")や[携帯電話](../Page/携帯電話.md "wikilink")などで撮った写真・動画や、電子メールで「[Wii伝言板](https://ja.wikipedia.org/wiki/Wii伝言板 "wikilink")」に送られてきた画像を閲覧するチャンネル。なお、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")以降販売分のWii本体には写真チャンネル1.1が搭載されている。それ以前に販売されたWii本体には写真チャンネル1.0（バージョン表記無し）が搭載されている。
+  - Wii インターネットにつなぐと、できること。
+    2008年秋以降出荷のWiiに内蔵されている。Wiiを[ネットワークに繋ぐことで](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")、利用できる事項が映像で確認できる。このチャンネルはインターネットに接続すると不要になるため、接続後は映像の最後にて削除の確認画面が表示される。また、Wiiオプションから削除することも可能。
+
+### インターネット接続後に利用可能になるチャンネル
+
+  - [Wiiショッピングチャンネル](https://ja.wikipedia.org/wiki/Wiiショッピングチャンネル "wikilink")\[4\]
+    [バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")のソフトやWii専用ソフト（Wiiチャンネル、[Wiiウェア](https://ja.wikipedia.org/wiki/Wiiウェア "wikilink")）を購入及びダウンロードするチャンネル。2019年1月31日にサービス終了。
+
+### Wiiショッピングチャンネルでダウンロードするチャンネル
+
+  - [インターネットチャンネル](https://ja.wikipedia.org/wiki/インターネットチャンネル "wikilink")\[5\]
+    [ウェブページ](../Page/ウェブページ.md "wikilink")を閲覧するチャンネル。「お試し版」は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")に、「正式版」は2007年[4月12日](../Page/4月12日.md "wikilink")に配信が開始された。[2009年](../Page/2009年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")まで有料（500ポイント）で配信されていたが、2009年[9月1日](../Page/9月1日.md "wikilink")より無料で配信されている。なお、有料期間にダウンロードしたユーザーには、2009年[10月21日](../Page/10月21日.md "wikilink")から2009年[12月31日](../Page/12月31日.md "wikilink")までの間、「500ポイント分の[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")の[ファミコンソフトを](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")1本プレゼント」という形で、購入時に支払った500ポイントの実質返還が行われた。
+  - [写真チャンネル1.1](https://ja.wikipedia.org/wiki/写真チャンネル#バージョン1.1 "wikilink")
+    写真チャンネルのバージョンアップ版。2007年[12月11日](../Page/12月11日.md "wikilink")に配信が開始された。ただし、写真チャンネル1.0（バージョン表記無し）が搭載されているWii本体のみダウンロード可能で、2007年12月以降販売分のWii本体については、この写真チャンネル1.1が初めから搭載されているためダウンロードの必要はない。
+  - [大合奏\!バンドブラザーズDX専用 スピーカーチャンネル](https://ja.wikipedia.org/wiki/大合奏!バンドブラザーズDX専用_スピーカーチャンネル "wikilink")
+    [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト『[大合奏\!バンドブラザーズDX](https://ja.wikipedia.org/wiki/大合奏!バンドブラザーズDX "wikilink")』で使用できるチャンネル。『大合奏\!バンドブラザーズDX』を購入したユーザーのみが1本のソフトにつき1台のWiiにダウンロードすることができる。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月26日](../Page/6月26日.md "wikilink")に配信が開始された。
+    DSとのワイヤレス通信によって、最大8人までテレビのスピーカーからの高音質かつ大音量のサウンドで演奏することができる。
+  - [きょうとあしたの占いラッキーチャンネル](https://ja.wikipedia.org/wiki/きょうとあしたの占いラッキーチャンネル "wikilink")\[6\]
+    [生年月日](https://ja.wikipedia.org/wiki/生年月日 "wikilink")等のデータを利用して、今日・明日の運勢や「みちしるべ」を占うチャンネル。2008年[12月2日](../Page/12月2日.md "wikilink")に配信が開始された。
+  - [ゼルダの伝説スカイウォードソード データ修復チャンネル](https://ja.wikipedia.org/wiki/ゼルダの伝説_スカイウォードソード "wikilink")
+    ゲーム進行に不具合が起きた時に使用するチャンネル（[ゼルダの伝説 スカイウォードソード\#その他も参照](https://ja.wikipedia.org/wiki/ゼルダの伝説_スカイウォードソード#その他_3 "wikilink")）。[2011年](../Page/2011年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に配信が開始された。
+  - [Wii Uへの引っ越し](https://ja.wikipedia.org/wiki/Wii_U "wikilink")\[7\]
+    WiiのセーブデータやWiiショッピングチャンネルで購入したゲームをWii Uに引っ越しさせるためのチャンネル。2012年[12月8日](../Page/12月8日.md "wikilink")に配信が開始された。
+
+#### 配信・サービスを終了したチャンネル
+
+  - [テレビの友チャンネル Gガイド for Wii](https://ja.wikipedia.org/wiki/テレビの友チャンネル_Gガイド_for_Wii "wikilink")\[8\]
+    テレビ番組表を見るチャンネル。番組表を見るだけでなく、ジャンル別やキーワード入力等による番組検索をしたり、様々な表示方法で見たりすることもできた。2008年[3月4日](../Page/3月4日.md "wikilink")に配信が開始され、2011年[7月24日](../Page/7月24日.md "wikilink")に配信・サービス終了。
+  - [Wiiの間](https://ja.wikipedia.org/wiki/Wiiの間 "wikilink")\[9\]
+    任天堂と[電通](../Page/電通.md "wikilink")が共同で運営していた、動画配信サービスを利用するためのチャンネル。2009年[5月1日](../Page/5月1日.md "wikilink")に配信が開始され、2012年[4月30日](../Page/4月30日.md "wikilink")に配信・サービス終了。
+  - [お天気チャンネル](https://ja.wikipedia.org/wiki/お天気チャンネル_\(Wiiチャンネル\) "wikilink")\[10\]
+    本体にあらかじめ組み込まれているチャンネルの一つで、ウェザーニュースによる天気予報を見ることができた。2013年[6月28日](../Page/6月28日.md "wikilink")にサービス終了。
+  - [ニュースチャンネル](https://ja.wikipedia.org/wiki/ニュースチャンネル "wikilink")\[11\]
+    本体にあらかじめ組み込まれているチャンネルの一つで、最新のニュースを確認できた。2013年6月28日にサービス終了。
+  - [みんなで投票チャンネル](https://ja.wikipedia.org/wiki/みんなで投票チャンネル "wikilink")\[12\]
+    [WiiConnect24](https://ja.wikipedia.org/wiki/WiiConnect24 "wikilink")を利用し、世界規模のアンケートを行うことが出来た。2007年[2月14日](../Page/2月14日.md "wikilink")に配信が開始された。2013年6月28日に配信・サービス終了。
+  - [Miiコンテストチャンネル](https://ja.wikipedia.org/wiki/Miiコンテストチャンネル "wikilink")\[13\]
+    自分の作成した[Mii](https://ja.wikipedia.org/wiki/Mii "wikilink")を全国のWiiユーザーと共有したり、出されたテーマに沿ったMiiを投稿・評価することが可能だった。2007年[11月12日](../Page/11月12日.md "wikilink")に配信開始された。2013年6月28日に配信・サービス終了。
+  - [みんなのニンテンドーチャンネル](https://ja.wikipedia.org/wiki/みんなのニンテンドーチャンネル "wikilink")\[14\]
+    最新のゲームソフトの紹介映像やテレビCMを見たり[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフトの体験版をダウンロードするサービスが行われた。2007年[11月27日](../Page/11月27日.md "wikilink")に配信が開始された。2013年6月28日に配信・サービス終了。
+  - [デジカメプリントチャンネル](https://ja.wikipedia.org/wiki/デジカメプリントチャンネル "wikilink")\[15\]
+    デジタルカメラ等で撮った写真のプリントサービスを申し込むチャンネル。2008年[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")に配信が開始された。2013年6月28日に配信・サービス終了。
+  - [Wiiスピーク](https://ja.wikipedia.org/wiki/Wiiスピーク "wikilink")チャンネル\[16\]
+    [Wiiスピーク](https://ja.wikipedia.org/wiki/Wiiスピーク "wikilink")を利用して[ボイスチャットをするためのチャンネル](https://ja.wikipedia.org/wiki/インターネット電話#ボイスチャット "wikilink")。WiiスピークもしくはWiiスピーク同梱ソフトを購入したユーザーのみがダウンロード可能。2008年[12月4日](../Page/12月4日.md "wikilink")に配信が開始された。2014年[5月20日](../Page/5月20日.md "wikilink")にサービス終了。
+  - 出前チャンネル\[17\]
+    料理の出前を注文できるチャンネル。[夢の街創造委員会](https://ja.wikipedia.org/wiki/夢の街創造委員会 "wikilink")の宅配・デリバリーポータル「[出前館](https://ja.wikipedia.org/wiki/出前館 "wikilink")」のシステムを利用する。2009年[5月26日](../Page/5月26日.md "wikilink")に配信が開始された。[2017年](../Page/2017年.md "wikilink")2月22日にソフトの配信を終了し、同年3月31日にサービス終了。
+  - [Hulu](https://ja.wikipedia.org/wiki/Hulu "wikilink")\[18\]
+    動画配信サービスを利用するためのチャンネル。[2012年](../Page/2012年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")に配信が開始された。任天堂以外の他社が初めて運営しているチャンネル。2017年5月17日にサービス終了。
+  - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")\[19\]
+    多数の投稿動画を視聴をするためのチャンネル。[2013年](../Page/2013年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に配信が開始された。こちらも任天堂以外の他社が運営しているチャンネル。なお、ログインはWiiからは直接行えず、（[Google](https://ja.wikipedia.org/wiki/Google "wikilink")アカウントを予め取得しかつログインした状態の）[PCまたは](../Page/パーソナルコンピュータ.md "wikilink")[携帯端末経由で行う必要がある](../Page/携帯電話.md "wikilink")。2017年6月30日にサービス終了。
+
+### ゲームディスクよりインストールするチャンネル
+
+  - [Wii Fitチャンネル](https://ja.wikipedia.org/wiki/Wii_Fit#Wii_Fitチャンネル "wikilink")（Wii Fit Plusチャンネル）
+    『[Wii Fit](https://ja.wikipedia.org/wiki/Wii_Fit "wikilink")』のトレーニングの成果をグラフやカレンダーで確認できるチャンネル。『Wii Fit』のゲームディスクよりインストールする。成果を確認する以外にも[バランスWiiボード](https://ja.wikipedia.org/wiki/バランスWiiボード "wikilink")を用いて[BMIを計って記録することができるが](../Page/ボディマス指数.md "wikilink")、『Wii Fit』のゲームディスク内に収録されているトレーニングをプレイするためには、ゲームディスクを挿入する必要がある。
+  - [マリオカートチャンネル](https://ja.wikipedia.org/wiki/マリオカートWii#マリオカートチャンネル "wikilink")\[20\]
+    『[マリオカートWii](https://ja.wikipedia.org/wiki/マリオカートWii "wikilink")』内で記録された成績の世界ランキングを確認したり、定期的に開かれる大会に参加したりするチャンネル。『マリオカートWii』のゲームディスクよりインストールする。レースを行う際にはゲームディスクを挿入する必要がある。
+
+### その他のチャンネル
+
+  - Wii Fit からだチェックチャンネル\[21\]
+    『[Wii Fit](https://ja.wikipedia.org/wiki/Wii_Fit "wikilink")』の記録データや『[歩いてわかる 生活リズムDS](https://ja.wikipedia.org/wiki/歩いてわかる_生活リズムDS "wikilink")』の歩数データを利用して、専門の保健指導者から個別に健康指導・アドバイスを受けられるチャンネル。[NEC](../Page/日本電気.md "wikilink")・[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")メディカルソリューションズ・[日立との共同開発および運営](../Page/日立製作所.md "wikilink")。2009年4月より一部の健康保険組合や特定保健指導サービス機関向けに提供が開始された。このチャンネルはこれらの機関の利用者に必要に応じて提供される仕組みとなっているため、『Wiiショッピングチャンネル』等を通して誰でも入手・利用できるものではない。
+
+## Wii Uでの利用
+
+次世代機である[Wii Uでも](https://ja.wikipedia.org/wiki/Wii_U "wikilink")「Wiiメニュー」を起動することによってWiiと同様の機能を利用することができるが、Wii UはWiiConnect24に対応していないこともあって、多くのチャンネルが利用不可となっている。逆に利用可能であるチャンネルは以下の通り。
+
+  - ディスクドライブチャンネル\[22\]
+  - 似顔絵チャンネル\[23\]
+  - Wiiショッピングチャンネル
+  - 大合奏\!バンドブラザーズDX専用 スピーカーチャンネル
+  - ゼルダの伝説スカイウォードソード データ修復チャンネル
+  - Wii Fitチャンネル（Wii Fit Plusチャンネル）
+
+また、以下の3つのチャンネルはWii UのWiiメニューでのみ利用できる。
+
+  - Wiiメニュー電子説明書
+    Wii Uの取扱説明書にも載っていないWiiメニューの説明部分を更にここで見ることができる。
+  - Wii Uメニューへ
+    このチャンネルを起動させるとWii U本体が再起動しWii Uメニューに戻ることができる。
+  - Wiiからの引っ越し
+    Wii本体からデータを引越しさせる際に利用するチャンネル。
+
+## 脚注
+
+<references />
+
+## 関連項目
+
+  - [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")
+  - [Wiiショッピングチャンネル](https://ja.wikipedia.org/wiki/Wiiショッピングチャンネル "wikilink")
+  - [バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")
+  - [Wiiウェア](https://ja.wikipedia.org/wiki/Wiiウェア "wikilink")
+
+## 外部リンク
+
+  - [Wiiチャンネル（任天堂ホームページ）](http://www.nintendo.co.jp/wii/features/wii_channel.html) - Wiiチャンネルの概要
+  - [Wiiチャンネル（Wii.com）](http://wii.com/jp/wii-channel) - Wiiチャンネルの紹介映像・テレビCM
+
+[is:Wii stöðvar](https://ja.wikipedia.org/wiki/is:Wii_stöðvar "wikilink") [sv:Wii Channels](https://ja.wikipedia.org/wiki/sv:Wii_Channels "wikilink")
+
+[Category:Wiiチャンネル](https://ja.wikipedia.org/wiki/Category:Wiiチャンネル "wikilink")
+
+1.  [「Wii」ネットワークサービス　一部終了のお知らせ](http://www.nintendo.co.jp/support/information/2013/0412.html) - 任天堂ホームページ 2013年4月12日
+2.  唯一の例外が『[エターナルダークネス 〜招かれた13人〜](https://ja.wikipedia.org/wiki/エターナルダークネス_〜招かれた13人〜 "wikilink")』のような、ゲーム中に「メモリーカードを整理する」の項目を持つゲームである。この項目を選択すると、Wiiメニューに戻る。
+3.  一部機能を利用するには、[ニンテンドーWi-Fiコネクション](https://ja.wikipedia.org/wiki/ニンテンドーWi-Fiコネクション "wikilink")に接続する必要がある。
+4.  利用するには、ニンテンドーWi-Fiコネクションに接続する必要がある。
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22. ゲームキューブの互換性が取り除かれたためゲームキューブ用ディスクは起動できない。
+23. 一部の機能が削除されている。

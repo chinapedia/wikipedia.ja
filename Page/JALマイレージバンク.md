@@ -1,0 +1,352 @@
+> この記事は[JAL](https://ja.wikipedia.org/wiki/JAL)から翻訳されています。
+
+
+**JALマイレージバンク**（ジャルマイレージバンク、）は、[日本航空](../Page/日本航空.md "wikilink")および[日本航空](../Page/日本航空.md "wikilink")グループ（**株式会社JALマイレージバンク**）が提供する[マイレージサービス](../Page/マイレージサービス.md "wikilink")である。
+
+## 概要
+
+[2014年](../Page/2014年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")現在で約2,840万人と[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内最大の会員数を持つマイレージサービスであり、かつポイント会員組織としても最大の会員数を誇る\[1\]。また、国内航空会社として初めてのマイレージサービスを開始し、当初はサービス名称を「JALスカイプラス」としていた。
+
+JMB会員のカード（お得意様）番号は7桁と9桁が存在する。7桁の会員は便宜的にカード番号の頭に"00"を付加することがある。ちなみに、最も古参のカード番号は100-xxxxであり、25年以上前に入会した会員である。
+
+なお、現在のJALマイレージバンクは正式には、従来からあったJMBと[2003年](../Page/2003年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に旧[日本エアシステム](../Page/日本エアシステム.md "wikilink")のマイレージサービス「JASマイレッジサービス (JMS) 」とが統合して発足したものである。旧JMS会員は統合に同意しなかった会員を除きJMBに統合され、JMSの旧会員番号（7-8桁）の頭に"60"（旧番号が7桁の場合、8桁の場合は"6"のみ付加）等の番号が付加されたカード番号が与えられている（両方所有していた場合は、元からのJMBの会員番号が生きる形となり、JMSから移行になった番号にたまったマイルを元からのJMBの会員番号に移した上で、使用不可とする措置を取った）。
+
+## 運営会社
+
+運営は株式会社JALマイレージバンクが行っている。カードの発行は、[日本航空](../Page/日本航空.md "wikilink")([2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")～[2011年](../Page/2011年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")の間は、[日本航空インターナショナル](https://ja.wikipedia.org/wiki/日本航空インターナショナル "wikilink"))名で行われる。
+
+日本航空株式会社（2011年3月までの株式会社日本航空インターナショナル）の[完全子会社](https://ja.wikipedia.org/wiki/完全子会社 "wikilink")で、JALマイレージバンクの会員向けサービス業務、出張航空券一括精算サービス（パッセージ及びJALオンライン）の精算業務を行うほか、2010年4月以降は、eマイル事業を日本航空株式会社(当時は、日本航空インターナショナル)から受託している。
+
+## 沿革
+
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月1日](../Page/7月1日.md "wikilink") - 株式会社[ジャルカードが](https://ja.wikipedia.org/wiki/JALカード "wikilink")[会社分割](../Page/会社分割.md "wikilink")を行い設立。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月1日](../Page/4月1日.md "wikilink") - 株式会社イーマイルネットを合併。
+
+## 積算対象会社
+
+### 日本航空グループ
+
+  - [日本航空](../Page/日本航空.md "wikilink")
+
+※国内線では[フジドリームエアラインズ](https://ja.wikipedia.org/wiki/フジドリームエアラインズ "wikilink")、[天草エアライン](https://ja.wikipedia.org/wiki/天草エアライン "wikilink")、[ジェットスター・ジャパン](https://ja.wikipedia.org/wiki/ジェットスター・ジャパン "wikilink")のコードシェア便も含む。
+
+  - [ジェイエア](https://ja.wikipedia.org/wiki/ジェイエア "wikilink")
+  - [日本トランスオーシャン航空](../Page/日本トランスオーシャン航空.md "wikilink")
+      - [琉球エアーコミューター](https://ja.wikipedia.org/wiki/琉球エアーコミューター "wikilink")
+  - [日本エアコミューター](../Page/日本エアコミューター.md "wikilink")
+  - [北海道エアシステム](https://ja.wikipedia.org/wiki/北海道エアシステム "wikilink")
+  - ジェットスター・ジャパン（GK便名の場合は対象運賃のみ）\[2\]
+
+### ワンワールド加盟各社
+
+  - [アメリカン航空](../Page/アメリカン航空.md "wikilink")
+      - [アメリカン・イーグル航空](https://ja.wikipedia.org/wiki/アメリカン・イーグル航空 "wikilink")
+      - [アメリカン・コネクション](https://ja.wikipedia.org/wiki/アメリカン・コネクション "wikilink")
+      - [USエアウェイズ](https://ja.wikipedia.org/wiki/USエアウェイズ "wikilink")
+      - エグゼクティブ航空
+  - [ブリティッシュ・エアウェイズ](https://ja.wikipedia.org/wiki/ブリティッシュ・エアウェイズ "wikilink")
+      - [BAシティフライヤー](https://ja.wikipedia.org/wiki/BAシティフライヤー "wikilink")
+      - コムエア
+      - サン・エア
+      - オープンスカイズ
+  - [キャセイパシフィック航空](../Page/キャセイパシフィック航空.md "wikilink")
+      - [キャセイドラゴン航空](https://ja.wikipedia.org/wiki/キャセイドラゴン航空 "wikilink")
+  - [カンタス航空](https://ja.wikipedia.org/wiki/カンタス航空 "wikilink")
+      - [カンタスリンク](https://ja.wikipedia.org/wiki/カンタスリンク "wikilink")
+      - [イースタン・オーストラリア航空](https://ja.wikipedia.org/wiki/イースタン・オーストラリア航空 "wikilink")
+      - ジェットコネクト
+      - サンステート航空
+  - [フィンエアー](https://ja.wikipedia.org/wiki/フィンエアー "wikilink")
+      - [フライビー・フィンランド](https://ja.wikipedia.org/wiki/フライビー・フィンランド "wikilink")
+  - [イベリア航空](https://ja.wikipedia.org/wiki/イベリア航空 "wikilink")
+      - エア・ノストラム
+      - イベリア・エクスプレス
+  - [ラン航空](https://ja.wikipedia.org/wiki/ラン航空 "wikilink")
+      - [ラン・アルヘンティナ航空](https://ja.wikipedia.org/wiki/ラン・アルヘンティナ航空 "wikilink")
+      - [ラン・ペルー航空](https://ja.wikipedia.org/wiki/ラン・ペルー航空 "wikilink")
+      - ラン・エクアドル
+      - ラン・エクスプレス
+      - ラン・コロンビア航空
+  - [ロイヤル・ヨルダン航空](https://ja.wikipedia.org/wiki/ロイヤル・ヨルダン航空 "wikilink")
+  - [S7航空](https://ja.wikipedia.org/wiki/S7航空 "wikilink")
+      - グローバス航空
+  - [マレーシア航空](https://ja.wikipedia.org/wiki/マレーシア航空 "wikilink")
+  - [カタール航空](https://ja.wikipedia.org/wiki/カタール航空 "wikilink")
+  - [スリランカ航空](https://ja.wikipedia.org/wiki/スリランカ航空 "wikilink")
+  - [TAM航空](https://ja.wikipedia.org/wiki/TAM航空 "wikilink")
+
+### その他の提携会社
+
+  - [エールフランス](https://ja.wikipedia.org/wiki/エールフランス "wikilink")
+  - [中国東方航空](https://ja.wikipedia.org/wiki/中国東方航空 "wikilink")
+  - [エミレーツ航空](https://ja.wikipedia.org/wiki/エミレーツ航空 "wikilink")
+  - [バンコク・エアウェイズ](https://ja.wikipedia.org/wiki/バンコク・エアウェイズ "wikilink")
+  - [アラスカ航空](https://ja.wikipedia.org/wiki/アラスカ航空 "wikilink")
+  - [大韓航空](../Page/大韓航空.md "wikilink")
+
+### 特記事項
+
+  - 琉球エアーコミューターは、かつては沖縄（那覇）から久米島・宮古（季節運航）・与那国を結ぶ路線および、石垣から宮古・与那国を結ぶ路線のみマイル積算対象であったが、2012年7月18日より全路線に拡大された\[3\]。拡大された路線は2012年9月1日以降、特典航空券での利用も可能となったが、本土 - 沖縄路線の特典航空券プラス5,000マイルで交換できる路線の対象外である。
+  - [エールフランス](https://ja.wikipedia.org/wiki/エールフランス "wikilink")（エコノミークラス特別運賃）は日本発着路線でマイル積算ができない\[4\]。[ワンワールド](../Page/ワンワールド.md "wikilink")加盟以前は[キャセイパシフィック航空](../Page/キャセイパシフィック航空.md "wikilink")（全運賃）も同様だった。
+  - 中国東方航空および[メキシカーナ航空](https://ja.wikipedia.org/wiki/メキシカーナ航空 "wikilink")は、2008年2月1日搭乗分より積算。なお、それぞれの利用により積算されたマイルはFLY ONポイントの対象外である。また、日中間のすべての中国東方航空はマイル積算対象外だったが、2011年6月1日搭乗分より積算対象となった\[5\]。
+  - [北海道エアシステム](https://ja.wikipedia.org/wiki/北海道エアシステム "wikilink")は、2011年3月のJALグループ離脱後もマイル積算・特典航空券利用とも従来通りの扱いをしばらく継続していたが、2011年9月1日以降はFLY ONポイントおよび上級会員向け各種サービスの対象外であった\[6\]。さらに、2013年7月から実施されたJALとHACのコードシェアに伴いHAC便でのマイル積算は終了したが、HAC特典航空券との交換は引き続き可能であった\[7\]\[8\]。2016年10月からは、HAC便からJAL便扱いとなり、JALグループ利用時と同一の扱いに完全に戻された。
+  - フジドリームエアラインズ（FDA）および天草エアライン（AMX）についてはコードシェア開始当初はマイレージの加算のみとなり特典航空券の利用対象外だったが、FDAは2015年9月3日、AMXは2018年3月25日より特典航空券の適用開始。FDAまたはAMX運航便を含む場合の特典航空券はインターネットから予約ができず、電話予約に限って対応している\[9\] \[10\]。
+  - 大韓航空は日本-韓国間の路線における特典航空券利用に限る（ただし、那覇空港発着路線は利用できない）。日本-韓国間直行便以外での大韓航空特典航空券利用はできない。2016年12月1日から提携開始。\[11\]また、2018年12月20日搭乗分より両社の日本-韓国間直行便においてマイルの相互加算を開始した。https://www.jal.co.jp/jmb/earn/travel/flight/ke.html
+
+## JMB FLY ON プログラム
+
+いわゆる上級会員の制度。日本航空グループのフライトで積算される「FLY ONポイント」のポイント数または搭乗回数に応じて、以下のサービスステイタスが付与される。「FLY ONポイント」・搭乗回数は[暦年](https://ja.wikipedia.org/wiki/暦年 "wikilink")で集計し、それぞれのステータスに達成した翌々月～翌々年3月末までの期間有効となる。（JGCプレミア・JMBダイヤモンド会員への「サービスセレクション」や2012年まで存在したアップグレードクーポン等はステータス達成の翌年4月から翌々年3月までとなる。）
+
+2007年4月より、日本航空グループが[ワンワールド](../Page/ワンワールド.md "wikilink")に加盟し FLY ONポイントがワンワールド加盟他社便への搭乗でも獲得可能となったため、これに伴い、以下の基準に加えて「FLY ONポイント積算対象となるJALグループ航空会社便に対象期間中4回以上搭乗」の要件が追加される。さらに、2013年度（2012年1月1日以降搭乗）からは、「達成基準となるFLY ONポイント、もしくは搭乗回数のうち半数以上はJALグループ便利用」という要件に変更されている。
+
+また、JGCプレミア・JMBダイヤモンドの達成条件に、2008年に無くなった搭乗回数での達成も2009年から復活している。
+
+### JMBクリスタル
+
+[JMB_Crystal01s3.jpg](https://ja.wikipedia.org/wiki/File:JMB_Crystal01s3.jpg "fig:JMB_Crystal01s3.jpg")
+
+  - 達成条件： 30,000ポイント以上（うちJALグループ便15,000ポイント以上）、または30回以上（うちJALグループ便15回以上）の搭乗で10,000ポイント以上
+  - ワンワールド エリートステイタス： ルビー（[JALグローバルクラブ](https://ja.wikipedia.org/wiki/JALグローバルクラブ "wikilink")(JGC)会員はサファイア）
+  - サービス内容
+      - ボーナスマイル55%（2014年3月31日までは50%）
+      - マイル引き換えラウンジクーポン
+      - 国際線優先搭乗
+      - クラスJ利用時、プライオリティーバッゲージサービス
+      - 超過手荷物優遇（超過10kgまたは1個）
+      - マイル引き換えクラスJクーポン（廃止）
+      - クラスJ-eクーポン6区間分（廃止）
+      - 予約時の優先キャンセル待ち
+      - 国際線・国内線　空港優先空席待ち
+      - クラスJ利用時、カード提示チェックインカウンター優遇
+      - カード提示+国内線ラウンジクーポン（5,000マイル=5枚）提出で国内線ラウンジ利用（JGC会員はカード提示のみで国内線および国際線ラウンジ利用可）
+      - 羽田空港国内線[サクララウンジ](https://ja.wikipedia.org/wiki/サクララウンジ "wikilink")専用のラウンジクーポン5枚（JGC会員は除く）
+
+### JMBサファイア
+
+[JMB_Sapphire01s3.jpg](https://ja.wikipedia.org/wiki/File:JMB_Sapphire01s3.jpg "fig:JMB_Sapphire01s3.jpg")
+
+  - 達成条件： 50,000ポイント以上（うちJALグループ便25,000ポイント以上）、または50回以上（うちJALグループ便25回以上）の搭乗で15,000ポイント以上
+  - ワンワールド エリートステイタス： サファイア
+  - サービス内容
+      - ボーナスマイル105%（2014年3月31日までは100%）
+      - マイル引き換えラウンジクーポン
+      - 成田国際空港ファストセキュリティーレーン
+      - プライオリティーバッゲージサービス
+      - 超過手荷物優遇（超過20kgまたは1個）
+      - マイル引き換えクラスJクーポン（廃止）
+      - クラスJ-eクーポン6区間分（廃止）
+      - 予約時の優先キャンセル待ち
+      - 国際線・国内線　空港優先空席待ち
+      - 国際線優先搭乗
+      - カード提示チェックインカウンター優遇
+      - カード提示ラウンジ利用
+
+### JGCプレミア
+
+  - 達成条件： 80,000ポイント以上（うちJALグループ便40,000ポイント以上）、または80回以上（うちJALグループ便40回以上）の搭乗で25,000ポイント以上のJALグローバルクラブ会員
+  - ワンワールド エリートステイタス： エメラルド
+  - サービス内容
+      - ボーナスマイル105%（2014年3月31日までは100%）
+      - マイル引き換えラウンジクーポン
+      - 成田国際空港ファストセキュリティーレーン
+      - プライオリティーバッゲージサービス
+      - 超過手荷物優遇（超過20kgまたは1個）
+      - マイル引き換えクラスJクーポン（廃止）
+      - 予約時の優先キャンセル待ち
+      - 国際線・国内線　空港優先空席待ち(国内線種別S)
+      - 国内線・国際線優先搭乗(国際線 ファーストプライオリティ)
+      - ファーストクラスチェックインカウンター
+      - ラウンジ利用（国際線「JALファーストクラスラウンジ」、国内線「ダイヤモンド・プレミアラウンジ」も利用可能）
+      - 専用予約デスク
+      - マイル有効期間の廃止（2009年から加わった）
+      - サービスセレクション
+
+### JMBダイヤモンド
+
+  - 達成条件： 達成条件： 100,000ポイント以上（うちJALグループ便50,000ポイント以上）、または120回以上（うちJALグループ便60回以上）の搭乗で35,000ポイント以上
+  - ワンワールド エリートステイタス： エメラルド
+  - サービス内容
+      - ボーナスマイル130%\[12\]（2014年3月31日までは125%）
+      - マイル引き換えラウンジクーポン
+      - 成田国際空港ファストセキュリティーレーン
+      - プライオリティーバッゲージサービス
+      - 超過手荷物優遇（超過20kgまたは1個）
+      - マイル引き換えクラスJクーポン（廃止）
+      - クラスJ-eクーポン6区間分（廃止）
+      - 国内線ファーストクラスアップグレードクーポン2区間分（廃止）
+      - 予約時の優先キャンセル待ち
+      - 国際線・国内線　空港優先空席待ち
+      - 国内線・国際線優先搭乗
+      - カード提示チェックインカウンター優遇
+      - カード提示ラウンジ利用（国際線「JALファーストクラスラウンジ」、国内線「ダイヤモンド・プレミアラウンジ」も利用可能）
+      - 専用予約デスク
+      - マイル有効期間の廃止
+      - サービスセレクション
+
+## JALマイレージバンクカード
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:JMB-New_card.JPG "wikilink") [JAL ICサービス機能を基本に](https://ja.wikipedia.org/wiki/JAL_ICサービス "wikilink")、国際ブランドと提携した[クレジットカード](../Page/クレジットカード.md "wikilink")、[VISAデビットカード](https://ja.wikipedia.org/wiki/デビットカード#VISA.E3.83.87.E3.83.93.E3.83.83.E3.83.88 "wikilink")、[ポイントカード](https://ja.wikipedia.org/wiki/ポイントカード "wikilink")や[電子マネー](../Page/電子マネー.md "wikilink")とのデュアルカードなどを提供している。
+
+### JMBカード
+
+クレジット機能は付いていない。
+
+  - **JMBカード**
+      -
+        会員証機能のみ
+        ※ ネット申込ないしは書面の申込書（後述のJMB WAONカード用の申込書を使用し、記入の際に、[JAL ICサービスおよび](https://ja.wikipedia.org/wiki/JAL_ICサービス "wikilink")[WAON](https://ja.wikipedia.org/wiki/WAON "wikilink")なしのカードを指定する必要がある。指定を行わなかった場合は、強制的にJMB WAONカードでの発行となる）の郵送で入会可能。JMB WAONカードはもちろんのこと、何かしらのJAL ICサービスがついたカードをすでに有する場合は、当カードを追加することは不可。
+        ※ なお、紛失等の際の発行時は、JAL ICサービスのない、かつ、クレジットカード一体型などの多機能カードでもないため、JMB事務局コールセンターへの連絡により、再発行手数料は無料で対応している（[JAL ICサービス付きのカードは](https://ja.wikipedia.org/wiki/JAL_ICサービス "wikilink")、WAONや提携有無に関わらず、再発行カード送付時に同封されるコンビニ用請求書で540円の支払いが発生する）。
+        ※ 後述のように、[JAL ICサービスだけがついているJMB](https://ja.wikipedia.org/wiki/JAL_ICサービス "wikilink") ICカードについては、JMB WAONカードの発行開始に伴い、新規発行を停止している。
+  - **JMB WAONカード**
+      -
+        JAL ICサービス、[WAON](https://ja.wikipedia.org/wiki/WAON "wikilink")
+        ※ ネット申込または、書面の申込書の郵送で入会（切替ないしは追加）可能。
+        ※ JMBが付加された[郵便貯金共用カード](https://ja.wikipedia.org/wiki/郵便貯金共用カード "wikilink")や[新銀行東京](https://ja.wikipedia.org/wiki/新銀行東京 "wikilink")多機能キャッシュカードなど、新規発行停止ではなく、カードの使用自体が廃止されたカードを所有し、提携カードを含む別のJMB会員カードを保有していない場合は、利用者側で特にカードの種類をJMB事務局に対して希望を伝えなかった場合は、このカードが原則差換カードとして送付される。
+  - **JMB G.G.WAONカード**
+      -
+        JAL ICサービス、G.G.[WAON](https://ja.wikipedia.org/wiki/WAON "wikilink")
+    \*: [年齢確認](https://ja.wikipedia.org/wiki/年齢確認 "wikilink")が必要なため、申込には、書面のものに限られ、[本人確認書類](https://ja.wikipedia.org/wiki/本人確認書類 "wikilink")の同封を要する。すでにJMB WAONカードを保有している場合は、既存カードの積算マイルやWAONのチャージをユーザ自身で移行するなどして、使用不可とした上で、利用する形となる。なお、このカードを所持する場合は、マイルの有効期限が、一般のカードより延長される優遇（通常は付与から最大36ヶ月有効→G.G.WAON発行により、付与から最大60ヶ月有効）がとられる。
+  - **[BIC CAMERA](https://ja.wikipedia.org/wiki/ビックカメラ "wikilink") JMB WAONカード**
+      -
+        JAL ICサービス、WAON、ビックポイント（JAL＆Bicジョイントサービス）、JMB旅プラス
+    \*: [ビックカメラ](https://ja.wikipedia.org/wiki/ビックカメラ "wikilink")直営店で配布する書面を郵送する形での申し込みを要する。既存のJMB WAONカードを保有している場合は発行不可。
+
+### JMB提携カード
+
+#### クレジットカード機能なし
+
+  - **JTBトラベルポイント JMBカード**
+      -
+        JAL ICサービス、JTBトラベルポイント
+        ※ ネット申込または、書面の申込書の郵送で入会（切替ないしは追加）可能。併せて、申込時に、本カードをJTBトラベルポイントとJMBマイルの双方の付与に対応した店で当カードを提示した際に提供されるポイントサービスに関して、付与される対象をトラベルポイントとするかJMBのマイルとするか、いずれか一方を選択する必要があり（書面申込の場合で、いずれかを指定しなかった場合は、トラベルポイント付与として設定される）、発行後の変更はできない（どうしても変更したい場合は、有手数料でのカード差替再発行の扱いとなる）。
+
+<!-- end list -->
+
+  - **[りそなVisaデビットカード](../Page/りそな銀行.md "wikilink")〈JMB〉**\[13\]
+      -
+        JMB 旅プラス、[ICキャッシュカード](https://ja.wikipedia.org/wiki/ICキャッシュカード "wikilink")、[VISAデビット](https://ja.wikipedia.org/wiki/デビットカード#VISAデビット "wikilink")
+  - **[りそなJALスマート口座Visaデビットカード](../Page/りそな銀行.md "wikilink")〈JMB〉**\[14\]
+      -
+        JMB 旅プラス、[ICキャッシュカード](https://ja.wikipedia.org/wiki/ICキャッシュカード "wikilink")、[VISAデビット](https://ja.wikipedia.org/wiki/デビットカード#VISAデビット "wikilink")
+
+<!-- end list -->
+
+  -
+    現在発行中のカードでは、存在しない。
+
+#### クレジットカード機能あり
+
+  - **[JTB](../Page/JTB.md "wikilink")旅カード JMB**
+      -
+        JAL ICサービス、JTBトラベルポイント
+
+<!-- end list -->
+
+  - **[TOP&](https://ja.wikipedia.org/wiki/東急カード "wikilink") ClubQ JMBカード PASMO**
+      -
+        JAL ICサービス、[TOKYUポイント](https://ja.wikipedia.org/wiki/東急カード#TOKYUポイント "wikilink")、[ClubQ機能（東急百貨店特典）](https://ja.wikipedia.org/wiki/東急カード#東急百貨店特典（ClubQ特典） "wikilink")、[PASMO](https://ja.wikipedia.org/wiki/PASMO "wikilink")
+  - **TOP& ClubQ JMBカード PASMO**（コンフォートメンバーズ機能付）
+      -
+        JAL ICサービス、TOKYUポイント、ClubQ機能（東急百貨店特典）、PASMO、[コンフォートメンバーズポイント](https://ja.wikipedia.org/wiki/東急ホテルズ#コンフォートメンバーズ "wikilink")
+  - **[JMB KIPSカード](https://ja.wikipedia.org/wiki/JMB_KIPSカード "wikilink")**
+      -
+        JAL ICサービス、KIPSポイント（旧きっぴぃポイント）
+  - **JMB nimocaカード**
+      -
+        JAL ICサービス、nimocaポイント、[nimoca](https://ja.wikipedia.org/wiki/nimoca "wikilink")
+
+<!-- end list -->
+
+  - **[イオンJMBカード](https://ja.wikipedia.org/wiki/イオンクレジットサービス "wikilink")**（JMB WAON一体型）
+      -
+        JAL ICサービス、WAON
+    \*: G.G WAON一体型での発行となる場合は、クレジットなしのJMB G.G. WAONカードと同じく、マイルの有効期限延長の優遇が設定される。
+  - **JMB[ローソン](../Page/ローソン.md "wikilink")[Ponta](https://ja.wikipedia.org/wiki/Ponta "wikilink")カードVISA**
+      -
+        JAL ICサービス、Pontaポイント（旧マイローソンポイント）
+  - **TOP& ClubQ JMBカード**
+      -
+        JAL ICサービス、TOKYUポイント、ClubQ機能（東急百貨店特典）
+  - **TOP& ClubQ JMBカード**（コンフォートメンバーズ機能付）
+      -
+        JAL ICサービス、TOKYUポイント、ClubQ機能（東急百貨店特典）、コンフォートメンバーズポイント
+
+### 過去に発行していたJMBカード
+
+  - JMB ICカード
+      -
+        JMB WAONカード発行開始に伴い、2008年2月29日より新規募集終了。
+  - [クラブツーリズム](https://ja.wikipedia.org/wiki/クラブツーリズム "wikilink") JMBカード
+      -
+        2009年3月31日で新規募集終了。2009年4月1日以降はプロパーの [JMB ICカードと同等扱いとなる](https://ja.wikipedia.org/wiki/JAL_ICサービス "wikilink")。
+  - [近畿日本ツーリスト](https://ja.wikipedia.org/wiki/近畿日本ツーリスト "wikilink") JMBカード
+      -
+        2011年9月30日で新規募集終了\[15\]。2011年10月1日以降はプロパーの JMB ICカードと同等扱いとなる\[16\]。
+  - [日本旅行](../Page/日本旅行.md "wikilink") JMBカード
+      -
+        2011年10月31日を以って募集終了\[17\]。2011年11月1日以降はプロパーの JMB ICカードと同等扱いとなる\[18\]。
+  - JMBたびカード
+      -
+        2008年3月31日で新規募集終了。2009年4月1日以降はプロパーの JMB ICカードと同等扱いとなる。
+  - JMB[ゆうちょカード](https://ja.wikipedia.org/wiki/郵便貯金共用カード "wikilink")
+      -
+        2007年9月30日で新規募集終了。2011年3月31日を以って廃止。
+  - JMB[ワールドキャッシュ](https://ja.wikipedia.org/wiki/ワールドキャッシュ "wikilink")
+      -
+        2006年3月31日で新規募集終了。2009年3月31日までに廃止。
+  - JMBゆうちょ[ワールドキャッシュ](https://ja.wikipedia.org/wiki/ワールドキャッシュ "wikilink")
+      -
+        2008年2月29日で新規募集終了。2010年9月30日までに廃止。有効期限が近づいた時点でゆうちょICキャッシュカードないしはJP BANKカードの保有がない場合は、キャッシュカード部分を「ゆうちょICキャッシュカード」に差し換えた上で、他のJMBカードを保有していない場合は、有効期限の前後にJMB部分については JMB WAONカード（希望があれば、提携カードも可能）に強制切替された。
+  - [新銀行東京](https://ja.wikipedia.org/wiki/新銀行東京 "wikilink")多機能型カード
+      -
+        JMBと三越ポイントが付加されたキャッシュカードで、2008年2月8日で新規募集終了。既存の利用者で他のJMBカードを保有していない場合は、SGTのICキャッシュカード部分を2008年4月頃に分割発行した上で、2008年6月までに JMB WAONカード（希望があれば、提携カードも可能）に強制切替。三越ポイントについては、既に付加されているポイントの消化のみの利用となり、消化済の時点で強制解約のため、利用継続を希望の場合は、取扱店舗各々で再度入会を要する。この際、従来利用できた6店舗すべてでの利用を希望する場合は、6店舗それぞれで申込が必要となり、三越ポイントカードも店舗別となるため都合6枚となる。ただし、三越ポイントカード自体は、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月30日](../Page/12月30日.md "wikilink")を以って、当該6店舗を含め、採用していた全拠点で廃止されている。
+  - JMB[ローソンパス](https://ja.wikipedia.org/wiki/ローソンパス "wikilink")VISA
+      -
+        JMBローソンPontaカードVISA発行開始に伴い、2010年2月28日より新規募集終了。JMBローソンPontaカードVISAとしてそのまま使用することができる。
+  - JMB伊予鉄い～カード
+      -
+        JAL ICサービス、[ICい〜カード](https://ja.wikipedia.org/wiki/ICい〜カード "wikilink")
+        [2015年](../Page/2015年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")受付分を以て新規発行停止。既存の利用者は引き続き利用できるが、再発行は不可となり、[ICい〜カード](https://ja.wikipedia.org/wiki/ICい〜カード "wikilink")部分については、全額払い戻しか伊予鉄が発行する一般の記名式カードにチャージを移行する形となる。
+
+## 出典
+
+<references/>
+
+## 関連項目
+
+  - [JALカード](https://ja.wikipedia.org/wiki/JALカード "wikilink") - [JALグローバルクラブ](https://ja.wikipedia.org/wiki/JALグローバルクラブ "wikilink") - [マイル修行](https://ja.wikipedia.org/wiki/マイル修行 "wikilink")
+  - [東急](../Page/東急.md "wikilink")
+      - [TOP& ClubQ](https://ja.wikipedia.org/wiki/東急カード#東急百貨店向けカード "wikilink")
+  - [小田急電鉄](../Page/小田急電鉄.md "wikilink")
+      - [JALカード OPクレジット](https://ja.wikipedia.org/wiki/小田急ポイントカード#クレジットカード "wikilink")
+  - [近畿日本鉄道](https://ja.wikipedia.org/wiki/近畿日本鉄道 "wikilink")
+  - [マイレージサービス](../Page/マイレージサービス.md "wikilink") - [マイレージサービス一覧](https://ja.wikipedia.org/wiki/マイレージサービス一覧 "wikilink")
+      - [ANAマイレージクラブ](https://ja.wikipedia.org/wiki/ANAマイレージクラブ "wikilink")
+
+## 外部リンク
+
+  - [JALマイレージバンク](https://www.jal.co.jp/jmb/)
+  - [株式会社JALマイレージバンク](https://www.jal.com/ja/group/jmb/)
+
+[en:Japan Airlines\#JAL Mileage Bank](https://ja.wikipedia.org/wiki/en:Japan_Airlines#JAL_Mileage_Bank "wikilink")
+
+[Category:マイレージサービス](https://ja.wikipedia.org/wiki/Category:マイレージサービス "wikilink") [Category:日本航空](https://ja.wikipedia.org/wiki/Category:日本航空 "wikilink")
+
+1.  「セオリー」P.28 2010年 Vol.2 講談社刊
+2.  [JALマイレージバンク](http://www.jetstar.com/jp/ja/help/articles/jal-mileage-bank) - ジェットスター（2016年12月29日閲覧）
+3.  [琉球エアーコミューター(RAC)ご利用時におけるJMBサービスでの取り扱い変更について](https://www.jal.co.jp/cms/jalmile/ja/jmb_00059.html) - - JALマイレージバンク（日本航空）
+4.  [日本＝パリ間の "M, U, K, H, L, Qクラス"は 積算対象外となります。](http://www.jal.co.jp/cms/jalmile/ja/jmb_1338.html) - JALマイレージバンク（日本航空）
+5.  [2011年6月1日（ご搭乗分）から、日本＝中国大陸線も積算対象になります。](http://www.jal.co.jp/cms/jalmile/ja/jmb_1324.html) - JALマイレージバンク（日本航空）
+6.  [北海道エアシステム（HAC）ご利用時におけるJMBでの取り扱い変更について](http://www.jal.co.jp/cms/jalmile/ja/jmb_1328.html) - JALマイレージバンク（日本航空）
+7.  [北海道エアシステム(HAC)ご利用時におけるフライトマイル積算終了について](https://www.jal.co.jp/cms/jalmile/ja/jmb_00329.html) - JALマイレージバンク（日本航空）
+8.  [JALフライトマイルの積算終了について](https://www.info.hac-air.co.jp/campaign/mile_campaign.html) - 北海道エアシステム（2013年11月7日閲覧）
+9.  [フジドリームエアラインズ（FDA）とのコードシェア便が国内線特典航空券の対象に！](https://www.jal.co.jp/jalmile/use/jal/dom/fda/) - 日本航空（2016年4月2日閲覧）
+10. [天草エアライン（AMX）とのコードシェア便を国内線特典航空券で予約したいのですができますか。](http://faq.jal.co.jp/app/answers/detail/a_id/25008/~/%E5%A4%A9%E8%8D%89%E3%82%A8%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B3%EF%BC%88amx%EF%BC%89%E3%81%A8%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89%E3%82%B7%E3%82%A7%E3%82%A2%E4%BE%BF%E3%82%92%E5%9B%BD%E5%86%85%E7%B7%9A%E7%89%B9%E5%85%B8%E8%88%AA%E7%A9%BA%E5%88%B8%E3%81%A7%E4%BA%88%E7%B4%84%E3%81%97%E3%81%9F%E3%81%84%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%E3%80%82) - 日本航空（2018年3月26日閲覧）
+11. [JALと大韓航空(KE)、特典航空券の相互交換を開始](http://press.jal.co.jp/ja/release/201611/004053.html)
+12. ブリティッシュ・エアウェイズ便名の航空券で同社を利用した時は100%となる
+13. [埼玉りそな銀行](../Page/埼玉りそな銀行.md "wikilink")および[近畿大阪銀行](../Page/近畿大阪銀行.md "wikilink")の場合は、JMBなしのVISAデビットカードでの発行となる。りそな銀行も、当初はJMBつきが必須であったが、JMBなしのカードを発行することは可能となった。
+14. [りそな銀行](../Page/りそな銀行.md "wikilink")の[ネット支店](https://ja.wikipedia.org/wiki/ネット支店 "wikilink")への口座開設者専用口座に抱き合わせとなるカード。
+15. [近畿日本ツーリスト JMBカード](http://www.jal.co.jp/jmbknt/) JALマイレージバンク公式サイト
+16. [「近畿日本ツーリスト JMBカード」ツアーマイル積算終了のお知らせ](http://www.jal.co.jp/cms/jalmile/ja/jmb_1348.html) JALマイレージバンク その他 キャンペーン&お知らせ
+17. [日本旅行 JMBカード](http://www.jal.co.jp/jmbnta/) JALマイレージバンク公式サイト
+18. [「日本旅行 JMBカード」ツアーマイル積算終了のお知らせ](http://www.jal.co.jp/cms/jalmile/ja/jmb_1347.html) JALマイレージバンク その他 キャンペーン&お知らせ

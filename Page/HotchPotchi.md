@@ -1,0 +1,140 @@
+> この記事は[HotchPotchi](https://ja.wikipedia.org/wiki/HotchPotchi)から翻訳されています。
+
+
+**Hotch Potchi**（ハッチ ポッチ）は、[スターダストプロモーション](https://ja.wikipedia.org/wiki/スターダストプロモーション "wikilink")に所属していた男性グループである。
+
+スターダストプロモーションの「ボーイズオーディション」をきっかけに結成され、ライブやイベント出演を中心に活動。
+
+## 来歴
+
+  - 2004年
+
+<!-- end list -->
+
+  - 12月頃 - 黒川洋介・川﨑健・火向俊平・神谷隼也人の4人で結成。毎週日曜日に渋谷[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")付近で路上ライブを行うようになる。
+
+<!-- end list -->
+
+  - 2005年
+    路上ライブに加え、所属事務所のライブ「Clap\!」などで活動。オリジナル楽曲「空気を読め\!」「空気を読んで」を配信で発表。
+
+<!-- end list -->
+
+  - 7月25日 - 公式ブログ開設。
+
+<!-- end list -->
+
+  - 2006年
+
+<!-- end list -->
+
+  - 5月 - 火向が脱退。
+  - 11月 - 弟分が結成され、福山聖二・越山凌太・仙道直也・神崎竜之祐が加入。
+  - 12月 - 新曲「Bow Wow」配信。
+
+<!-- end list -->
+
+  - 2007年
+
+<!-- end list -->
+
+  - 1月 - 弟分に井澤勇貴が加入。
+  - 4月4日 - 原宿アストロホールにて初の単独ライブを開催。同時期からオリジナル楽曲「ダメダメ Bad Boys」の配信が始まる。
+  - 6月 - 神谷と弟分と仙道・神崎のプロフィールがオフィシャルサイトから消え、脱退が明らかになる。井澤・越山が弟分から正式メンバーとなる。
+  - 7月3日 - 同月29日をもって路上ライブを一旦終了すると発表\[1\]。
+  - **8月8日** - 黒川・越山・井澤・川﨑・福山の5人と『[ペット大集合\!ポチたま](../Page/ペット大集合!ポチたま.md "wikilink")』に出演中のマスコット犬・ネロ君と一緒に「**ハッチポッチとネロくん**」としてシングル「Surfin' Dog」でデビュー。
+  - 8月9日 ２回目のワンマンライブをラフォーレミュージアム原宿にて開催。
+  - 10月1日 - 新メンバー候補の募集を告知\[2\]。
+  - 12月5日 - HotchPotchiとしてのデビューシングル「こんにちワンからワンツースリー」をリリース。この時点で川﨑・福山が脱退していた。
+  - 12月22日、23日 - [ステラボールにて行われた韓国のアーティスト](https://ja.wikipedia.org/wiki/エプソン_アクアパーク品川 "wikilink")[FTIslandのコンサートにゲスト出演する](https://ja.wikipedia.org/wiki/FTISLAND "wikilink")。
+
+<!-- end list -->
+
+  - 2008年
+
+<!-- end list -->
+
+  - 3月31日 -　原宿アストロホールにて行われた単独ライブを最後に黒川が脱退。
+  - 6月8日 - 弟分として志村勇樹・大澤歩佳・森下雅也の加入が、公式ブログで発表される。
+
+<!-- end list -->
+
+  - 2009年
+
+<!-- end list -->
+
+  - **4月21日** - オフィシャルブログにてグループの解散が発表される\[3\]。
+
+## メンバー
+
+  - [越山凌太](https://ja.wikipedia.org/wiki/白水萌生 "wikilink")
+  - [井澤勇貴](https://ja.wikipedia.org/wiki/井澤勇貴 "wikilink")
+
+### 弟分
+
+  - 志村勇樹
+  - [森下雅也](https://ja.wikipedia.org/wiki/森下雅也 "wikilink")
+  - 大澤歩佳
+
+### マスコット犬
+
+  - ハッチくん
+  - ポッチくん
+
+### 途中脱退メンバー
+
+  - 黒川洋介
+  - 神谷隼也人
+  - 火向俊平
+  - 川﨑健
+
+<!-- end list -->
+
+  - 弟分
+
+<!-- end list -->
+
+  - 仙道直也
+  - 神崎竜之祐
+  - [福山聖二](https://ja.wikipedia.org/wiki/福山聖二 "wikilink")
+
+## 出演
+
+### ラジオ番組
+
+  - ハッチポッチのポッチ・ラジ（2005年10月 - 2006年、[コミュニティFM](../Page/コミュニティ放送.md "wikilink")）
+  - ハッチポッチのがぜん強めで\!（2005年10月 - 2006年9月30日、[CBCラジオ](../Page/CBCラジオ.md "wikilink")）
+  - WE LOVE Hotch Potchi（2007年4月 - 2009年3月、CBCラジオ）
+
+## ディスコグラフィー
+
+### CDシングル
+
+1.  [Surfin'Dog](https://ja.wikipedia.org/wiki/Surfin'Dog "wikilink")（2007年8月8日） - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[ペット大集合\!ポチたま](../Page/ペット大集合!ポチたま.md "wikilink")』ネロくんテーマソング
+2.  [こんにちワンからワンツースリー](https://ja.wikipedia.org/wiki/こんにちワンからワンツースリー "wikilink")（2007年12月5日）
+
+### 配信
+
+  - 空気を読め\!（2005年）
+  - 空気を読んで（2005年）
+  - 風雪(2005年)
+  - Bow Wow（2006年）
+  - ダメダメBad Boys（2007年）
+
+### ライブ発表のみの楽曲
+
+  - 蘭
+  - Bang\! Bang\! Bang\!
+  - 香り
+  - 笑み
+  - 合い言葉はLove is all
+
+## 脚注
+
+<references />
+
+[Category:過去のスターダストプロモーション所属者](https://ja.wikipedia.org/wiki/Category:過去のスターダストプロモーション所属者 "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
+
+1.  [オフィシャルブログ 2007年7月3日付記事「お知らせ」](http://ameblo.jp/hotch-potchi/entry-10038631050.html)
+2.  [スターダスト「ボーイズユニット」オーディション Vol.5](http://stardust-web.net/pc/news/07100101/07100101.html)
+3.  [オフィシャルブログ 2009年4月21日付記事「大切なお知らせ」](http://ameblo.jp/hotch-potchi/archive1-200904.html)

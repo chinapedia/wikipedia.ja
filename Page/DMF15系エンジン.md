@@ -1,0 +1,85 @@
+> この記事は[DMF15](https://ja.wikipedia.org/wiki/DMF15)から翻訳されています。
+
+
+**DMF15系エンジン**（DMF15けいエンジン）は、[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（→[JR](../Page/JR.md "wikilink")グループに継承）の[気動車](../Page/気動車.md "wikilink")に走行用として搭載され、また[客車](../Page/客車.md "wikilink")・[特急形気動車の](../Page/特急形車両.md "wikilink")[発電](https://ja.wikipedia.org/wiki/発電 "wikilink")用エンジンとしても用いられる[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")である。[キハ40系用として大量に採用された](../Page/国鉄キハ40系気動車_\(2代\).md "wikilink")。ちなみに[DMF15HZ系エンジン](https://ja.wikipedia.org/wiki/DMF15HZ系エンジン "wikilink")と呼ばれている[コマツ](https://ja.wikipedia.org/wiki/コマツ "wikilink")製SA6D140Hエンジンは別の系列エンジンである。
+
+## 概要
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:DMF15HSA.jpg "wikilink")
+
+DMF15系は、[水平](https://ja.wikipedia.org/wiki/水平 "wikilink")[シリンダー式](https://ja.wikipedia.org/wiki/シリンダーブロック "wikilink")（国鉄[用語](../Page/用語.md "wikilink")では「横形」）の[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")で、基本的には[予燃焼室式](https://ja.wikipedia.org/wiki/燃焼室#副室式 "wikilink")、[ターボチャージャー](../Page/ターボチャージャー.md "wikilink")を搭載\[1\]。[排気量](https://ja.wikipedia.org/wiki/排気量 "wikilink")は約15 [l](../Page/リットル.md "wikilink")、連続[定格](https://ja.wikipedia.org/wiki/定格 "wikilink")[出力](https://ja.wikipedia.org/wiki/出力 "wikilink")は180 - 300 [PSである](../Page/馬力.md "wikilink")。
+
+このエンジンを[バンク](../Page/バンク.md "wikilink")角180度の[V型12気筒](https://ja.wikipedia.org/wiki/V型12気筒 "wikilink")に設計変更したものが[DML30系エンジン](https://ja.wikipedia.org/wiki/DML30系エンジン "wikilink")であり、[動弁系](https://ja.wikipedia.org/wiki/ポペットバルブ "wikilink")、[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")、[ピストン](https://ja.wikipedia.org/wiki/ピストン "wikilink")、[コンロッドなど](https://ja.wikipedia.org/wiki/コネクティングロッド "wikilink")、両者で[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")の共通化が図られている。
+
+エンジン音は[DMH17系エンジン](../Page/DMH17系エンジン.md "wikilink")と比較して、ギャリギャリという感じの甲高く短いサイクルの[アイドリング音が特徴的で](https://ja.wikipedia.org/wiki/アイドリング#内燃機関におけるアイドリング "wikilink")、1,500 [rpmから](https://ja.wikipedia.org/wiki/rpm_\(単位\) "wikilink")1,800 rpm で定速運転される[発電セットではかなりの](../Page/発電機.md "wikilink")[騒音](https://ja.wikipedia.org/wiki/騒音 "wikilink")となる。
+
+## 歴史
+
+[1950年代](../Page/1950年代.md "wikilink")から国鉄の気動車の標準機関として大量に製作されていた[DMH17系エンジン](../Page/DMH17系エンジン.md "wikilink")は、その試作段階でさえ[技術陣の間では既に時代遅れのものとの認識があった](https://ja.wikipedia.org/wiki/技術者 "wikilink")。[1960年代](../Page/1960年代.md "wikilink")に入り、DMH17系エンジンを2基搭載した[キハ80系や](https://ja.wikipedia.org/wiki/国鉄キハ80系気動車 "wikilink")[キハ58系がそれぞれ](../Page/国鉄キハ58系気動車.md "wikilink")[特急](https://ja.wikipedia.org/wiki/特別急行列車 "wikilink")、[急行列車](../Page/急行列車.md "wikilink")として日本各地の高速輸送体系に使われ始めると、エンジンの出力に由来する[走行性能](../Page/走行性能.md "wikilink")（動力性能 = [パワーウエイトレシオ](https://ja.wikipedia.org/wiki/パワーウエイトレシオ "wikilink")）の低さが際だってきた。
+
+その解決のためにさらなる大出力機関が計画され、[DD13形ディーゼル機関車に搭載されている](https://ja.wikipedia.org/wiki/国鉄DD13形ディーゼル機関車 "wikilink")[DMF31系エンジン](https://ja.wikipedia.org/wiki/DMF31系エンジン "wikilink")を横形（水平[シリンダー](https://ja.wikipedia.org/wiki/シリンダー "wikilink")形）に設計変更した400 PS級の過給器付き直列6気筒機関である[DMF31HSAを搭載した](https://ja.wikipedia.org/wiki/DMF31系エンジン "wikilink")[キハ60系試作車が](../Page/国鉄キハ60系気動車.md "wikilink")[1960年](../Page/1960年.md "wikilink")（昭和35年）に3両製造された。しかし、これらはエンジンの[振動](https://ja.wikipedia.org/wiki/振動 "wikilink")・[騒音](https://ja.wikipedia.org/wiki/騒音 "wikilink")と[ピストン](https://ja.wikipedia.org/wiki/ピストン "wikilink")の[潤滑](../Page/潤滑.md "wikilink")、変速機、特にDW1と呼称する新開発の2段直結式[液体変速機とその](https://ja.wikipedia.org/wiki/気動車・ディーゼル機関車の動力伝達方式#液体式（流体式） "wikilink")[クラッチ](https://ja.wikipedia.org/wiki/クラッチ "wikilink")機構に解決すべき問題が多く、最終的にDMF31系エンジンを気動車に流用するプランは放棄されるに至った\[2\]。
+
+しかしながら、DMH17系に代わるべき新たな気動車用大出力機関の開発と実用化は、[電化とディーゼル化による蒸気機関車の淘汰を主眼とする](../Page/鉄道の電化.md "wikilink")[動力近代化計画](https://ja.wikipedia.org/wiki/動力近代化計画 "wikilink")（無煙化）の遂行上急務であり、そこで気動車専用設計として全く新しい大出力エンジンの開発が計画された。こうして国鉄と[新潟鐵工所](https://ja.wikipedia.org/wiki/新潟鐵工所 "wikilink")、[ダイハツディーゼル](https://ja.wikipedia.org/wiki/ダイハツディーゼル "wikilink")、[神鋼造機](../Page/神鋼造機.md "wikilink")の各社によって共同開発されたのが本系列である。
+
+まず国鉄は、[1962年](../Page/1962年.md "wikilink")（昭和37年）にDW3[液体変速機を試作](https://ja.wikipedia.org/wiki/トルクコンバータ "wikilink")、翌年にはDMH17系より2気筒数減としながらも、[ボア](https://ja.wikipedia.org/wiki/ボア "wikilink")（シリンダー内径）を10 mm 拡大し、[石川島播磨重工業製TB](../Page/IHI.md "wikilink")15[ターボ過給器](../Page/ターボチャージャー.md "wikilink")\[3\]を加えることで出力を3割以上高めたDMF15HSを試作した。これは過去にDMH17系で起きた問題を抜本的に解決する構造を持った「新系列」と国鉄自ら呼ぶエンジンであった。さらに翌年には[中間冷却器を備えた出力](https://ja.wikipedia.org/wiki/インタークーラー "wikilink")300 PS のDMF15HZを試作。それらの機関と液体変速機で試験を重ね、[1966年](../Page/1966年.md "wikilink")（昭和41年）には同エンジンを改良したDMF15HZAを搭載した[キハ90形と](https://ja.wikipedia.org/wiki/国鉄キハ90系気動車 "wikilink")、中間冷却器のないDMF15HSを水平対向12気筒に拡張した500 PS の[DML30系エンジン](https://ja.wikipedia.org/wiki/DML30系エンジン "wikilink")を搭載した[キハ91形を同時に試作し](https://ja.wikipedia.org/wiki/国鉄キハ90系気動車 "wikilink")、長期比較試験を行った。
+
+試験の結果や経済性の検討の結果、1エンジン搭載でも在来型2エンジン搭載気動車を上回る走行性能を発揮可能で、その余力により編成への[付随車](../Page/付随車.md "wikilink")組み込みも可能、しかも冷房用電源搭載スペースも確保可能な500PSのDML30系エンジンのみを気動車用として展開することになった。
+
+こうして新系列気動車用次世代エンジンの競争試作に敗北したDMF15系であったが、それでもDML30系と摩耗部品が共通でDMH17系と比較してシリンダ数が少なく、かつ出力も大きかったことから電源装置用エンジンとして制式採用されることとなった。
+
+定速運転用に特性を変更しDMF15H-GやDMF15HS-Gとなった本系列は[1960年代](../Page/1960年代.md "wikilink")後半から[1970年代](../Page/1970年代.md "wikilink")前半にかけ、[キハ181系や](https://ja.wikipedia.org/wiki/国鉄キハ181系気動車 "wikilink")[12系客車等の分散式電源方式を採用する](../Page/国鉄12系客車.md "wikilink")[客車](../Page/客車.md "wikilink")の発電用エンジンとして量産された\[4\]。
+
+その後1970年代後半に入り、[キハ17系の老朽化対策として代替用に](../Page/国鉄キハ10系気動車.md "wikilink")[キハ40系気動車が製造されることになった](../Page/国鉄キハ40系気動車_\(2代\).md "wikilink")。本系列はここでようやく走行用エンジンとして[制式採用されることになったが](https://ja.wikipedia.org/wiki/制式名称 "wikilink")、姉妹系列であるDML30系エンジンが特急型気動車でトラブルを頻発させていたことから、設計時点での同系列の最新モデルであったDML30HSHでの改良・変更点\[5\]を反映したDMF15HSAが設計され、後に[キハ183系の走行用エンジンとしても採用された](https://ja.wikipedia.org/wiki/国鉄キハ183系気動車 "wikilink")。しかしながらこのDMF15HSAは、DML30HS系でのエンジントラブル続出や、当時の国鉄の[労使状況の悪化などを背景として](https://ja.wikipedia.org/wiki/労働争議 "wikilink")、出力が220 PS と発電用のDMF15HS-Gと比較してさえ10 PS 分抑制されており、元々ターボ過給を前提とした部品[強度](../Page/強度.md "wikilink")を確保していることもあり、機関単体でのトンあたり出力はDMH17系を下回る非効率なエンジンとなってしまった。
+
+このため本機関を搭載したキハ40系およびキハ183系は、頑丈だが重い車体や、直結1段で常用速度域の大半において効率の悪い変速段で使用することを強いられる専用液体式変速機の特性面での問題もあいまって、[国鉄分割民営化](https://ja.wikipedia.org/wiki/国鉄分割民営化 "wikilink")後には明らかに出力不足かつ[燃費](https://ja.wikipedia.org/wiki/燃費 "wikilink")が悪く不経済な車両と見なされるようになった。
+
+そこで、本系列を搭載する各車を承継した[JR](../Page/JR.md "wikilink")各社のうち、元々キハ40系の保有両数がわずか50両程度と少なかった[四国旅客鉄道](https://ja.wikipedia.org/wiki/四国旅客鉄道 "wikilink")（JR四国）を除く5社では、車両性能向上や燃費の改善を企図してキハ40系について小形・軽量・低燃費を謳い文句とする[カミンズ](https://ja.wikipedia.org/wiki/カミンズ "wikilink")、[小松製作所](https://ja.wikipedia.org/wiki/小松製作所 "wikilink")、[新潟鐵工所](https://ja.wikipedia.org/wiki/新潟鐵工所 "wikilink")などによる直列6気筒[直噴式の大出力エンジンへの換装が広く行われたほか](https://ja.wikipedia.org/wiki/燃焼室#ディーゼルエンジンの燃焼室 "wikilink")、エンジンはそのままに[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")を改造し、予燃焼室式から直噴式へ変更したものや、[燃料噴射タイミングの変更で燃焼効率を改善する工事を実施したものも一部で出現した](https://ja.wikipedia.org/wiki/噴射ポンプ "wikilink")。
+
+その一方で、キハ40系の性能が芳しいものではないことから、本来置き換えるべき[キハ20系のうち](../Page/国鉄キハ20系気動車.md "wikilink")、2機関強力形のキハ52形だけはJR化後も[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")まで運用されることになっている。
+
+このような事情から、オリジナルのDMF15HSAをそのまま搭載する車両は国鉄の分割民営化後、急速に減少している。
+
+## 特記事項
+
+  - [冷却水容量は](https://ja.wikipedia.org/wiki/水冷 "wikilink")400リットル前後
+  - [潤滑油](https://ja.wikipedia.org/wiki/潤滑油 "wikilink")容量は80リットル前後
+  - クランクケースとシリンダは一体構造
+  - DMF15HSAのシリンダヘッドは気筒ごとに独立。DML30HSHと共通
+  - 弁は吸気2、排気2
+
+## 諸元
+
+  - 6気筒4ストロークディーゼルエンジン
+  - 燃焼順序 1-4-2-6-3-5
+  - DM82形発電機は180kVA
+  - DM93形発電機は210kVA
+
+|                              | DMF15HS  | DMF15H-G  | DMF15HS-G            | DMF15HSA        | DMF15HSA-G | DMF15HSA-P                   | DMF15HZ       | DMF15HZ-G            | DMF15HZA      |
+| ---------------------------- | -------- | --------- | -------------------- | --------------- | ---------- | ---------------------------- | ------------- | -------------------- | ------------- |
+| 主な搭載車種                       | 試作       | キハ181-1～6 | キハ181-7～、スハフ12形（0番台） | キハ40系           | キハ183・184形 | キハ40形7000番台・キハ47形5000・6000番台 | 試作            | スハフ12形（100番台）、スハフ14形 | キハ90形         |
+| 形式                           | 過給、予燃焼室式 | 予燃焼室式     | 過給、予燃焼室式             | 過給、予燃焼室式        | 過給、予燃焼室式   | 過給、直接噴射式                     | 過給・中間冷却、予燃焼室式 | 過給・中間冷却、予燃焼室式        | 過給・中間冷却、予燃焼室式 |
+| シリンダ径×行程(mm)                 | 140×160  | 140×160   | 140×160              | 140×160         | 140×160    | 140×160                      | 140×160       | 140×160              | 140×160       |
+| 排気量(l)                       | 14.77    | 14.77     | 14.77                | 14.77           | 14.77      | 14.77                        | 14.77         | 14.77                | 14.77         |
+| 圧縮比                          |          |           | 16                   | 14              |            | 14                           |               |                      | 16            |
+| 定格出力(PS/rpm)                 | 240/1600 | 180/1500  | 230/1800             | 220/1600        | 230/1800   | 300/2000                     | 300/1600      | 270/1800             | 300/1600      |
+| 定格時ピストン平均速度(m/s)             |          |           | 9.6                  | 8.54            |            | 8.54                         |               |                      | 8.5           |
+| 定格時平均有効圧力(kg/cm<sup>2</sup>) |          |           | 7.77                 | 8.36            |            | 8.36                         |               |                      | 11.4          |
+| 定格時燃料消費率(g/PS/h)             |          |           | 190                  | 185             |            | 185                          |               |                      | 180           |
+| 最大出力(PS/rpm)                 |          |           | 250-1800             | 250-2000        |            |                              |               |                      | 350-2000      |
+| 最大時ピストン平均速度(m/s)             |          |           | 9.6                  | 10.65           |            | 10.65                        |               |                      | 10.7          |
+| 最大時平均有効圧力(kg/cm<sup>2</sup>) |          |           | 8.45                 | 7.6             |            | 7.6                          |               |                      | 10.6          |
+| 起動電動機                        |          |           | DC24V-7PS×2          | DC24V-7PS×2     |            | DC24V-7PS×2                  |               |                      | DC24V-7PS×2   |
+| 組み合わされる液体変速機または発電機           | DW3      |           | DM82                 | DW10            | DM82       | DW10                         |               | DM93                 | DW3B          |
+| 長さ×幅×高さ(mm)                  |          |           | 2485×1561×723        | 2686×1880.5×959 |            | 2630×1880×935                |               |                      | 2300×1550×820 |
+| 乾燥重量(kg)                     |          |           | 1950                 | 2720            |            | 2720                         |               |                      | 2500          |
+|                              |          |           |                      |                 |            |                              |               |                      |               |
+
+## 脚注
+
+[Category:鉄道車両のエンジン](https://ja.wikipedia.org/wiki/Category:鉄道車両のエンジン "wikilink")
+
+1.  [中間冷却器はDMF](https://ja.wikipedia.org/wiki/インタークーラー "wikilink")15HZ・HZAのみ装備。
+2.  その経緯については[キハ60系の項を参照されたい](../Page/国鉄キハ60系気動車.md "wikilink")。
+3.  最高許容回転数50,000 rpm、機関定格出力での回転数41,600 rpm、圧力比1.28。
+4.  この系列の発電用エンジンを搭載した12・14系客車、それにキハ181形を合わせると340両以上になり、その製作台数は決して少なくない。
+5.  [ヘッドガスケット](https://ja.wikipedia.org/wiki/ヘッドガスケット "wikilink")の吹き抜け対策として3シリンダ1[ヘッド構成であったものを](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")3シリンダ3ヘッド構成（DMH17系など旧来と同様）に変更、[潤滑油](https://ja.wikipedia.org/wiki/潤滑油 "wikilink")のエンジン・[圧縮機](https://ja.wikipedia.org/wiki/圧縮機 "wikilink")での系統分離、定格出力の引き下げなど。

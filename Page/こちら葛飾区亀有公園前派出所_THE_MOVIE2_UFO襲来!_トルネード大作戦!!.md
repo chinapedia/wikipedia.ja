@@ -1,0 +1,153 @@
+> この記事は[ THE MOVIE2 UFO! !!](https://ja.wikipedia.org/wiki/_THE_MOVIE2_UFO!_!!)から翻訳されています。
+
+
+『**こちら葛飾区亀有公園前派出所 THE MOVIE2 UFO襲来\! トルネード大作戦\!\!**』（こちらかつしかくかめありこうえんまえはしゅつじょ ザ ムービー2 ユーフォーしゅうらい\! トルネードだいさくせん\!\!）は[2003年](../Page/2003年.md "wikilink")12月20日に公開された『[こちら葛飾区亀有公園前派出所](https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所_\(アニメ\) "wikilink")』の[アニメーション映画](../Page/アニメーション映画.md "wikilink")第2作である。エンディング曲は[SEX MACHINEGUN](../Page/SEX_MACHINEGUNS.md "wikilink")「語れ\! 涙\!」。
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月19日](../Page/8月19日.md "wikilink")（金曜日）2:00 - 4:07（[JST](../Page/日本標準時.md "wikilink")）には、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列でテレビ初放送された](../Page/フジネットワーク.md "wikilink")。
+
+## あらすじ
+
+ある日、[亀有](../Page/亀有.md "wikilink")の河川敷でUFOの目撃情報が相次いだ。[両津勘吉](../Page/両津勘吉.md "wikilink")は早速、[本田速人](https://ja.wikipedia.org/wiki/本田速人 "wikilink")と共にUFOグッズを売って儲けようとするが、実は両津自身が首謀したヤラセだったことが発覚。例によって[大原大次郎](../Page/大原大次郎.md "wikilink")の大目玉を喰らうのだった。
+
+数日後、公園前派出所のメンバーは持ち回りの研修旅行で[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")に行くことに。先日の騒ぎもあって一人置いてけぼりとなった両津だが、荷物に紛れてこっそり飛行機に同乗。キャビンアテンダントに成りすまして大原の土産を機内で2倍の$1500で売り飛ばし、さらにハワイでもアロハ・藤山と名乗り大原と[寺井洋一](https://ja.wikipedia.org/wiki/寺井洋一 "wikilink")に詐欺容疑で[ホノルル](../Page/ホノルル.md "wikilink")警察に追い回される。だがそんな両津の元に少女の駆るセスナ172が飛来、両津を救い上げて行った。
+
+両津を助けたのはミーナという名の15歳の少女だった。ミーナは飛行機の操縦が得意で、[アクロバット飛行](https://ja.wikipedia.org/wiki/アクロバット飛行 "wikilink")までして両津をビビらせた。
+
+実は両津には、小学生の頃ハワイに転校していった親友・竜平がいた。今回無理やりついて来たのも、その竜平に会うためだったのだ。だが彼が住んでいるはずの町・[ヒロで両津は](https://ja.wikipedia.org/wiki/ヒロ_\(ハワイ島\) "wikilink")、竜平が15年も前に既に亡くなっていること、自分を助けてくれた少女・ミーナが彼の一人娘であることを聞かされる。
+
+その夜両津は、ミーナがステージで歌う豪華客船のパーティーに参加した。だがそこで、謎の男がミーナをじっと見ている。その顔に竜平の面影を見た両津は彼に声をかけるが、その時、謎のテロリスト集団が突如船を襲撃してきた。彼らに連れ去られるようにヘリに乗り込んだ男は、両津に「勘吉、飛竜丸が暴れだすぞ\!」という言葉を残していく。男はやはり竜平だった。飛竜丸とは、彼が小学生の時に自作したラジコンの[UFOだ](../Page/未確認飛行物体.md "wikilink")。そして、二人は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に向かう。
+
+ある朝、[隅田川](../Page/隅田川.md "wikilink")から巨大なUFOが出現。下部に竜巻を発生させ、首都[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")が壊滅されようとしていた。
+
+事件を知った派出所のメンバーは急遽、[中川圭一](https://ja.wikipedia.org/wiki/中川圭一 "wikilink")の自家用ジャンボジェットで帰路についた。両津もミーナと共に、[零戦](https://ja.wikipedia.org/wiki/零戦 "wikilink")を駆って日本へ向かうが、途中で零戦の燃料が切れてしまう。その上をたまたま通りかかった中川の自家用[ジャンボジェット](https://ja.wikipedia.org/wiki/ジャンボジェット "wikilink")にロープをくりつけて引っ張っていってもらうものの大型台風に巻き込まれロープが切れてしまう。派出所に不時着するがすぐに飛竜丸が来て葛飾署に着陸する。果たして竜平に何があったのか。そして両津は竜平を救い、首都東京を守ることが出来るのだろうか？
+
+## 登場キャラクター
+
+### 主要キャラクター
+
+  - 両津勘吉（りょうつ かんきち）
+    本作の主人公。前作に引き続きトラブルメーカーを務める。竜平とは深い関係があるようである。本作ではトラブルを起こしたせいでハワイ旅行に連れて行ってもらえなかったり、ミーナに船を沈没させた犯人の濡れ衣を着せられるなど終始ひどい扱いを受ける羽目になる（後者は考えを改め、反省したミーナに救われたことで和解に至った）。しかし終盤では見事活躍したことで全員に認められ、派出所の面々とも和解した。
+  - 秋本・カトリーヌ・麗子（あきもと・カトリーヌ・れいこ）
+    両津の同僚の婦人警官。当初は大原同様に両津に対して冷たい態度を取っていたが、両津が事件を解決した時には心を改めた。
+  - 中川圭一（なかがわ けいいち）
+    両津の後輩の新人警官。大原や麗子と比べると、両津を敵視するような描写は控えめで、ハワイ旅行の際も「お土産は買ってきます」と約束するなど、両津のことを気にかけていた。
+  - 大原大次郎（おおはら だいじろう）
+    両津の上司。当初はトラブルばかり起こす両津を終始見下していた。しかし両津をハワイへ置き去りにして帰国をする際はある程度同情するような態度（最初は終身刑にしようとしたが、帰国時には流石にやり過ぎたと自分の過ちを素直に認めて反省し、嘆願書を減刑に書き直そうとしていた）や、両津がUFOを暴走させた時も隠し切れないほどの戸惑いの表情（この時本人は「あのバカ、これじゃタイガーの方がまだマシだった」と呟いていた）を見せたが、両津が事件を解決した活躍を見て改心する。
+  - 寺井洋一（てらい よういち）
+    両津の部下の警官。中川同様、あまり両津を敵視しておらず、両津のことを心配していた。
+  - 本田速人（ほんだ はやと）
+    両津の部下で後輩。バイクに乗ると性格が豹変する。両津の策略で宇宙人や竜平に変装する（前者はバレた、後者は竜平本人が行ったため、いずれも失敗に終わっている）。
+  - 小野小町（おのこまち）、清正奈緒子（せいしょう なおこ）
+    両津の自作UFOを最初に目撃する。二人そろって両津のことが嫌いだが、終盤で両津の活躍を見て感激する。
+  - 屯田五目須（とんだ ごめす）
+    署長。両津がUFOを暴走させた時は辞表を出すほど、戸惑っていた。
+  - ボルボ西郷（ボルボ さいごう）、左近寺竜之介（さこんじ たつのすけ）
+    両津の悪友たち。ボルボは銃撃、左近寺は柔道が得意。強引にハワイ旅行へ向かった両津に公園前派出所の代行を任された。中盤ではミーナを助けるために活躍するが、運悪くもタイミングを誤ってしまう。
+  - 警視総監（けいしそうかん）
+    両津達が務める警察庁の警視総監。本作の事件を聞きつけ、屯田に電話をかける。本作では口のみの登場。
+  - 絵崎コロ助（えざき コロすけ）
+    中川の恩師。[中川橋](https://ja.wikipedia.org/wiki/中川橋 "wikilink")付近でUFOを釣り上げた。終盤では屋形船の宴会に参加し、傘回しを披露した。
+
+### 本作オリジナルキャラクター
+
+  - ミーナ
+    ハワイで育った両津の幼馴染である竜平の一人娘。
+    男勝り且つ無鉄砲な性格な上に少しだけ焼けた肌にボーイッシュな格好が特徴で、その容姿は[アグネス・ラム](https://ja.wikipedia.org/wiki/アグネス・ラム "wikilink")を彷彿とさせるようである（また、ミーナ自身を初めて見たボルボもその事を呟きながら鼻血を出していた）。また、普段は歌手としてステージに立っているが、一方では観光用の[セスナ](../Page/セスナ.md "wikilink")の[パイロットもこなしている](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")。
+    死亡したと聞かされていた父が実は生きていたことを知り、その真相を探るために両津と共にハワイから零戦で日本に向かい、生まれてから15年間一度も会っていなかった父親と初めて顔を会わせることが出来たのも束の間、過去の出来事から父を反発し疎遠となっていたが、コントロールを失い暴走する[ゆりかもめから父に救出され](https://ja.wikipedia.org/wiki/ゆりかもめ東京臨海新交通臨海線 "wikilink")、後に和解する。
+    アニメ版本編の最終回では両津の送別会に姿を見せている（ただし、送別の件が嘘と明らかになると両津に怒った）。
+  - 田中竜平（たなか たっぺい）
+    [浅草](../Page/浅草.md "wikilink")に住んでいた両津の小学校時代の親友で、ミーナの父親。子供の頃から手先が器用で、ラジコンのUFO「飛竜丸」を造って浅草から[上野](../Page/上野.md "wikilink")まで飛ばしたことで大騒動になった事もある。
+    小学3年生の夏に両親を台風で亡くし、ハワイの叔父の所へ引き取られて以降は音信不通となっていた。後にタイガーに拘束され彼が目論んでいた東京壊滅作戦の手引きをさせられていたことが判明する。その後自身が生きていることを知った両津やミーナと再会を果たし、長い間面倒を見てあげなかった事を娘ミーナに謝罪し和解した。
+  - タイガー（タイガー虎山）
+    ハワイで[クルーザー](https://ja.wikipedia.org/wiki/クルーザー "wikilink")を爆破し、死亡したはずの竜平を拘束している謎の[テロリスト](https://ja.wikipedia.org/wiki/テロリスト "wikilink")。自らリーダーとしてテログループを率いており、超巨大UFOに乗り込み東京を襲撃する。本作の黒幕にして最後の敵に当たる。
+    実は子供の頃に浅草に一年だけ住んでいた[ガキ大将](https://ja.wikipedia.org/wiki/ガキ大将 "wikilink")で、竜平をいじめていた時に対決した両津によって赤っ恥をかかされたために以降は私怨から東京壊滅を目論むようになる（本人は「一生の屈辱」と語っている）。その後、自らをリーダーとしてテログループを率いるようになり、後に竜平を拘束し、無理やり協力をさせて超巨大UFOを開発。それに乗り込んで東京を襲撃するが、終盤ではUFOに乗り込んできた両津と対決し、UFOから落ちて倒されたかに思われた。しかし竜平とミーナの再会の場に現れ、激情のままナイフで竜平に襲い掛かるが、そこを両津に阻まれ、子供の頃の赤っ恥と同じように股間を思いっきり蹴り上げられて今度こそ敗北（その際、両津と竜平はタイガーがかつてのガキ大将だったことに気付き、驚きを隠せなかった。両津曰く「何という運命の巡り合わせ」）。最後まで両津に勝つことはできず、倒れたところを多数の警官に取り押さえられ、ボルボと左近寺に連行されて行った。
+  - ラッキー田中（ラッキーたなか）
+    ハワイ島のヒロで「田中理髪店」を営む竜平の叔父で、ハワイアンバンド「ラッキー田中とハッピーカムカム」のリーダー。早くに両親を亡くしたミーナを育てる。
+  - ハッピー殿山（ハッピーとのやま）
+    「ラッキー田中とハッピーカムカム」のメンバー。ミーナが務める「ハッピー航空」を経営しており、その格納庫には旧日本軍の戦闘機「零戦」を所有している。
+  - カムカム内藤（カムカムないとう）
+    ヒロの町のタクシー運転手で、「ラッキー田中とハッピーカムカム」のメンバー。
+  - キャシー
+    竜平の妻で、ミーナの母親。夫とは大学時代に知り合った。幼いミーナを残して病死する。
+  - デューク藤堂（デュークとうどう）
+    ハワイで詐欺をする[日系人](https://ja.wikipedia.org/wiki/日系人 "wikilink")アロハ・フジヤマ（両津）の逮捕に命を燃やす敏腕警部。
+
+## キャスト
+
+  - [両津勘吉](../Page/両津勘吉.md "wikilink") - [ラサール石井](../Page/ラサール石井.md "wikilink")
+  - [秋本・カトリーヌ・麗子](https://ja.wikipedia.org/wiki/秋本・カトリーヌ・麗子 "wikilink") - [森尾由美](https://ja.wikipedia.org/wiki/森尾由美 "wikilink")
+  - [中川圭一](https://ja.wikipedia.org/wiki/中川圭一 "wikilink") - [宮本充](https://ja.wikipedia.org/wiki/宮本充 "wikilink")
+  - [大原大次郎](../Page/大原大次郎.md "wikilink") - [佐山陽規](https://ja.wikipedia.org/wiki/佐山陽規 "wikilink")
+  - [寺井洋一](https://ja.wikipedia.org/wiki/丸井ヤング館 "wikilink") - [林家こぶ平](../Page/林家正蔵_\(9代目\).md "wikilink")
+  - [本田速人](https://ja.wikipedia.org/wiki/本田速人 "wikilink") - [家中宏](https://ja.wikipedia.org/wiki/家中宏 "wikilink")
+  - 小野小町 - [三浦理恵子](https://ja.wikipedia.org/wiki/三浦理恵子 "wikilink")
+  - 清正奈緒子 - [三橋加奈子](../Page/三橋加奈子.md "wikilink")
+  - 屯田五目須 - [江角英明](https://ja.wikipedia.org/wiki/江角英明 "wikilink")
+  - ボルボ西郷 - [岸祐二](https://ja.wikipedia.org/wiki/岸祐二 "wikilink")
+  - [左近寺竜之介](https://ja.wikipedia.org/wiki/左近寺竜之介 "wikilink") - [岩崎征実](https://ja.wikipedia.org/wiki/岩崎征実 "wikilink")
+  - [麻里愛](https://ja.wikipedia.org/wiki/麻里愛 "wikilink") - [麻生かほ里](https://ja.wikipedia.org/wiki/麻生かほ里 "wikilink")
+  - 絵崎コロ助 - [松山鷹志](https://ja.wikipedia.org/wiki/松山鷹志 "wikilink")
+  - [擬宝珠夏春都](https://ja.wikipedia.org/wiki/擬宝珠家 "wikilink") - [小宮孝泰](../Page/小宮孝泰.md "wikilink")
+  - 擬宝珠纏 - [土居裕子](https://ja.wikipedia.org/wiki/土居裕子 "wikilink")
+  - 擬宝珠檸檬 - [齋藤彩夏](../Page/齋藤彩夏.md "wikilink")
+  - ラッキー田中 - [キートン山田](https://ja.wikipedia.org/wiki/キートン山田 "wikilink")
+  - ハッピー殿山 - [大谷亮介](https://ja.wikipedia.org/wiki/大谷亮介 "wikilink")
+  - カムカム内藤 - [亀山助清](../Page/亀山助清.md "wikilink")
+  - キャシー - [本多知恵子](https://ja.wikipedia.org/wiki/本多知恵子 "wikilink")
+  - デューク藤堂 - [清水宏](../Page/清水宏_\(コメディアン\).md "wikilink")
+  - タイガーの部下 - [竹本英史](https://ja.wikipedia.org/wiki/竹本英史 "wikilink")、[冨田真](../Page/冨田真.md "wikilink")、[下崎紘史](https://ja.wikipedia.org/wiki/下崎紘史 "wikilink")
+  - 警視総監 - [西村仁](../Page/西村仁.md "wikilink")
+  - 自転車の人 - [木内秀信](https://ja.wikipedia.org/wiki/木内秀信 "wikilink")
+  - アナウンサー - [長浜満里子](../Page/長浜満里子.md "wikilink")
+  - 西山喜久恵 - [西山喜久恵](../Page/西山喜久恵.md "wikilink")
+  - 田中竜平 - [渡辺正行](../Page/渡辺正行.md "wikilink") / [大浦冬華](https://ja.wikipedia.org/wiki/大浦冬華 "wikilink")（少年時代）
+  - ミーナ - [平山あや](https://ja.wikipedia.org/wiki/平山あや "wikilink")
+  - タイガー（タイガー虎山） - [生瀬勝久](https://ja.wikipedia.org/wiki/生瀬勝久 "wikilink")
+
+セリフはないが、ラストには[特殊刑事課](https://ja.wikipedia.org/wiki/特殊刑事課 "wikilink")の面々や亀有商店街の人々、乙姫菜々、爆竜大佐、ジョディー、電極スパーク、電極＋、[日暮熟睡男](https://ja.wikipedia.org/wiki/日暮熟睡男 "wikilink")なども登場している。
+
+## スタッフ
+
+  - 原作 - [秋本治](../Page/秋本治.md "wikilink")、アトリエびーだま
+  - 監督 - [高松信司](https://ja.wikipedia.org/wiki/高松信司 "wikilink")
+  - 脚本 - [大川俊道](../Page/大川俊道.md "wikilink")
+  - キャラクター・メカデザイン・総作画監督 - [時永宜幸](https://ja.wikipedia.org/wiki/時永宜幸 "wikilink")
+  - 演出 - [小野勝巳](https://ja.wikipedia.org/wiki/小野勝巳 "wikilink")
+  - 作画監督：寺沢伸介
+  - メカ作画監督 - 鈴木勤、安藤義信
+  - 美術監督 - 柴田聡
+  - 撮影監督 - 枝光弘明
+  - 編集 - [中川晶男](https://ja.wikipedia.org/wiki/中川晶男 "wikilink")
+  - 音楽 - [佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink")
+  - 音響監督 - [藤山房伸](../Page/藤山房伸.md "wikilink")
+  - プロデューサー - [清水賢治](https://ja.wikipedia.org/wiki/清水賢治 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）、[浜野貴敏](https://ja.wikipedia.org/wiki/浜野貴敏 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）、[松下洋子](https://ja.wikipedia.org/wiki/松下洋子 "wikilink")（[NAS](https://ja.wikipedia.org/wiki/日本アドシステムズ "wikilink")）、三宅将典（NAS）、[若菜章夫](https://ja.wikipedia.org/wiki/若菜章夫 "wikilink")（[ぎゃろっぷ](https://ja.wikipedia.org/wiki/ぎゃろっぷ "wikilink")）[杉村重郎](https://ja.wikipedia.org/wiki/杉村重郎 "wikilink")（ぎゃろっぷ）
+  - アニメーション制作 - ぎゃろっぷ
+  - 制作 - [亀山千広](../Page/亀山千広.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）、永井秀之、[山下秀樹](https://ja.wikipedia.org/wiki/山下秀樹 "wikilink")、フジテレビ、NAS
+
+## 主題歌
+
+### エンディング・テーマ
+
+  -
+    「語れ\! 涙\!」
+
+  - 作詞・作曲・編曲・唄 - [SEX MACHINEGUN](https://ja.wikipedia.org/wiki/Anchang "wikilink")
+
+### 挿入歌
+
+  -
+    「Missin' you」LOL
+
+  - 作曲・編曲 - [佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink") / 作詞 - [山田ひろし](https://ja.wikipedia.org/wiki/山田ひろし "wikilink") / 唄 - [平山あや](https://ja.wikipedia.org/wiki/平山あや "wikilink")
+
+## 映像ソフト
+
+本作の[DVDは](https://ja.wikipedia.org/wiki/デジタル・バーサタイル・ディスク "wikilink")[2004年](../Page/2004年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に発売及びレンタル開始された。
+
+## 脚注
+
+## 外部リンク
+
+  -
+  -
+[Category:こちら葛飾区亀有公園前派出所](https://ja.wikipedia.org/wiki/Category:こちら葛飾区亀有公園前派出所 "wikilink") [Category:2003年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2003年のアニメ映画 "wikilink") [Category:ぎゃろっぷ](https://ja.wikipedia.org/wiki/Category:ぎゃろっぷ "wikilink") [Category:フジテレビ製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:フジテレビ製作のアニメ映画 "wikilink") [Category:日本アドシステムズのアニメ作品](https://ja.wikipedia.org/wiki/Category:日本アドシステムズのアニメ作品 "wikilink") [Category:警察官を主人公としたアニメ映画](https://ja.wikipedia.org/wiki/Category:警察官を主人公としたアニメ映画 "wikilink") [Category:日本のテレビアニメの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビアニメの劇場版 "wikilink") [Category:日本のコメディ映画](https://ja.wikipedia.org/wiki/Category:日本のコメディ映画 "wikilink") [Category:日本のアクション映画](https://ja.wikipedia.org/wiki/Category:日本のアクション映画 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink") [Category:東京を舞台としたアニメ映画](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ映画 "wikilink") [Category:ホノルルを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ホノルルを舞台とした映画作品 "wikilink") [Category:未確認飛行物体を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:未確認飛行物体を題材とした映画作品 "wikilink")

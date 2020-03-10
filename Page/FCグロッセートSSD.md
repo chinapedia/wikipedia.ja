@@ -1,0 +1,182 @@
+> この記事は[FCSSD](https://ja.wikipedia.org/wiki/FCSSD)から翻訳されています。
+
+
+**フットボール・クラブ・グロッセート・ソチェタ・スポルティーヴァ・ディレッタンティスティカ**（**Football Club Grosseto Società Sportiva Dilettantistica a r.l.**）は、[イタリア](../Page/イタリア.md "wikilink")・[トスカーナ州](../Page/トスカーナ州.md "wikilink")[グロッセート](../Page/グロッセート.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2016-17シーズンは[セリエD](../Page/セリエD_\(サッカー\).md "wikilink")・ジローネEに所属している。
+
+## 歴史
+
+前身となる**UGSグロッセート**（*Unione Ginnico Sportiva Grosseto*）は1912年に創設され、1921-22シーズンからリーグに参加している。主に[セリエC](https://ja.wikipedia.org/wiki/レガ・プロ "wikilink")、[セリエDに所属していたが](../Page/セリエD_\(サッカー\).md "wikilink")、1995年にクラブが破産、セリエDの下位リーグであるエッチェッレンツァへ降格することになる。エッチェッレンツァ初年度となる1995-96シーズン、クラブは15位と低迷。さらに下位のプロモツィオーネに降格してしまう。プロモツィオーネに所属した1996-97シーズン以降、クラブはようやく上昇傾向となり、同シーズンはプロモツィオーネ・ジローネBで優勝し、1年でエッチェッレンツァに復帰。翌シーズンもエッチェッレンツァ・ジローネAで2位となり、セリエD復帰を決めている。それ以降、大きく崩れることなく、2001-02シーズンには[セリエC2昇格](../Page/レガ・プロ・セコンダ・ディヴィジオーネ.md "wikilink")、2003-04シーズンには[セリエC1昇格を決めている](../Page/レガ・プロ・プリマ・ディヴィジオーネ.md "wikilink")。
+
+セリエC1に所属した2004-05シーズン以降、クラブは常に[セリエB昇格争いに加わり](https://ja.wikipedia.org/wiki/セリエB_\(サッカー\) "wikilink")、2004-05シーズンは4位でプレイオフに進出（初戦の対[ACパヴィーア](https://ja.wikipedia.org/wiki/ACパヴィーア "wikilink")で敗退）、続く05-06シーズンも4位でプレイオフに進出し、決勝まで進むもフロジノーネに敗れていた。そしてセリエC1で3年目となる2006-07シーズン、序盤こそ振るわなかったものの、監督を交代した11月以降クラブは躍進し、実に25試合で勝ち点53（1試合平均2.12点）を積み上げた。そして最大12まで開いていた首位との勝ち点差を逆転、セリエC1・ジローネA優勝を果たした。この結果セリエB昇格を決定、これは約100年におよぶクラブの歴史の中で史上初の快挙である。
+
+また、同シーズン、セリエC1優勝の2チームが争う[スーペルコッパ・ディ・レガ・プロフェッショニスティ・ディ・セリエC1](https://ja.wikipedia.org/wiki/スーペルコッパ・ディ・レガ・プロフェッショニスティ・ディ・セリエC1 "wikilink")（Supercoppa di Lega Professionisti di Serie C1）において、ジローネB優勝の[ラヴェンナ・カルチョと対戦](https://ja.wikipedia.org/wiki/ラヴェンナFC "wikilink")。ホームアンドアウェーの初戦は1-1で引き分け、グロッセートのホームとなる第二戦で1-0の勝利を収め、こちらもクラブ史上初となる国内タイトルを獲得している。
+
+2008-09シーズンにはセリエB6位となり、[セリエA昇格プレイオフに臨んだが](../Page/セリエA_\(サッカー\).md "wikilink")、[ASリヴォルノ・カルチョ](https://ja.wikipedia.org/wiki/ASリヴォルノ・カルチョ "wikilink")に敗退した。
+
+2012-13シーズン前に八百長問題で一度はセリエBからの降格処分が言い渡されたが、その後控訴が認められてセリエB残留となった\[1\]。しかし、結局そのシーズンはセリエB最下位となり、[レガ・プロ・プリマ・ディヴィジオーネ](../Page/レガ・プロ・プリマ・ディヴィジオーネ.md "wikilink")（3部）降格となった。2014-15シーズン終了後、クラブは破産宣告を受ける。2015年8月6日に再建され、**USグロッセートFC**（*Unione Sportiva Grosseto Football Club*）から現在のクラブ名となった\[2\]。
+
+## タイトル
+
+### 国内タイトル
+
+  - **[スーペルコッパ・ディ・レガ・ディ・セリエC1](https://ja.wikipedia.org/wiki/スーペルコッパ・ディ・レガ・ディ・セリエC1 "wikilink") ：1回**
+
+<!-- end list -->
+
+  -
+    2006-07
+
+<!-- end list -->
+
+  - **[セリエC](https://ja.wikipedia.org/wiki/レガ・プロ "wikilink") : 1回**
+
+<!-- end list -->
+
+  -
+    1946-47（ジローネD）
+
+<!-- end list -->
+
+  - **[セリエC1](../Page/レガ・プロ・プリマ・ディヴィジオーネ.md "wikilink") : 1回**
+
+<!-- end list -->
+
+  -
+    2006-07（ジローネA）
+
+<!-- end list -->
+
+  - **[セリエC2](../Page/レガ・プロ・セコンダ・ディヴィジオーネ.md "wikilink") : 2回**
+
+<!-- end list -->
+
+  -
+    2003-04（ジローネB）、2006-07（ジローネA）
+
+<!-- end list -->
+
+  - **[セリエD](../Page/セリエD_\(サッカー\).md "wikilink") : 2回**
+
+<!-- end list -->
+
+  -
+    1960-61（ジローネD）、1972-73（ジローネE）
+
+<!-- end list -->
+
+  - **[カンピオナート・ナツィオナーレ・ディレッタンティ](../Page/セリエD_\(サッカー\).md "wikilink") : 1回**
+
+<!-- end list -->
+
+  -
+    1994-95（ジローネA）
+
+<!-- end list -->
+
+  - ** : 2回**
+
+<!-- end list -->
+
+  -
+    1951-52（ジローネH）、1996-97（ジローネA）
+
+### 国際タイトル
+
+なし
+
+## 過去の成績
+
+  - 1994-95 セリエD・ジローネA 優勝 **クラブ破産により降格**
+  - 1995-96 エッチェッレンツァ・ジローネA 15位 **降格**
+  - 1996-97 プロモツィオーネ・ジローネB **優勝** **昇格**
+  - 1997-98 エッチェッレンツァ・ジローネA 2位 **昇格**
+  - 1998-99 セリエD・ジローネF 3位
+  - 1999-00 セリエD・ジローネE 7位
+  - 2000-01 セリエD・ジローネF 3位
+  - 2001-02 セリエD・ジローネF 2位 **リーグ裁定により昇格**
+  - 2002-03 セリエC2・ジローネB 4位 *プレイオフ準決勝でリミニに敗退*
+  - 2003-04 セリエC2・ジローネB **優勝** **昇格**
+  - 2004-05 セリエC1・ジローネA 4位 *プレイオフ準決勝でパヴィアに敗退*
+  - 2005-06 セリエC1・ジローネB 4位 *プレイオフ決勝でフロジノーネに敗退*
+  - 2006-07 セリエC1・ジローネA **優勝** **昇格**
+  - 2007-08 セリエB 13位
+  - 2008-09 セリエB 6位 *セリエA昇格プレイオフでリヴォルノに敗退*
+  - 2009-10 セリエB 7位
+  - 2010-11 セリエB 16位
+  - 2011-12 セリエB 15位
+  - 2012-13 セリエB 22位 **八百長問題で勝ち点6ポイント剥奪及び降格**
+  - 2013-14 [レガ・プロ・プリマ・ディヴィジオーネ](../Page/レガ・プロ・プリマ・ディヴィジオーネ.md "wikilink")・ジローネB 11位
+  - 2014-15 [レガ・プロ](https://ja.wikipedia.org/wiki/レガ・プロ "wikilink")・ジローネB 11位
+  - 2015-16 セリエD ・ジローネG
+
+## 現所属メンバー
+
+  - [2016年](../Page/2016年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink")現在\[3\]
+
+([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))
+
+## 歴代監督
+
+  - [マッシミリアーノ・アッレグリ](https://ja.wikipedia.org/wiki/マッシミリアーノ・アッレグリ "wikilink") 2005-2006
+
+  - [アントネッロ・クックレドゥ](https://ja.wikipedia.org/wiki/アントネッロ・クックレドゥ "wikilink") 2006-2007
+
+  - [ステファーノ・ピオリ](https://ja.wikipedia.org/wiki/ステファーノ・ピオリ "wikilink") 2007-2008
+
+  - [エリオ・グスティネッティ](https://ja.wikipedia.org/wiki/エリオ・グスティネッティ "wikilink") 2008-2009.2, 2009.3-2010.3
+
+  - [エツィオ・ロッシ](https://ja.wikipedia.org/wiki/エツィオ・ロッシ "wikilink") 2009.2-3
+
+  - [ルイジ・アポローニ](https://ja.wikipedia.org/wiki/ルイジ・アポローニ "wikilink") 2010.7-9
+
+  - [フランチェスコ・モリエーロ](https://ja.wikipedia.org/wiki/フランチェスコ・モリエーロ "wikilink") 2010.9-2011.1, 2012.7-10
+
+  - [ミケーレ・セレーナ](https://ja.wikipedia.org/wiki/ミケーレ・セレーナ "wikilink") 2011.1-6
+
+  - [ジュゼッペ・ジャンニーニ](https://ja.wikipedia.org/wiki/ジュゼッペ・ジャンニーニ "wikilink") 2011
+
+  - [マリオ・ソンマ](https://ja.wikipedia.org/wiki/マリオ・ソンマ "wikilink") 2012.10-11
+
+## 歴代所属選手
+
+### GK
+
+### DF
+
+  - [マリアーノ・ステンダルド](https://ja.wikipedia.org/wiki/マリアーノ・ステンダルド "wikilink") 2008-2009
+
+  - [ケブライ・コンテー](https://ja.wikipedia.org/wiki/ケブライ・コンテー "wikilink") 2009-2010
+
+### MF
+
+  - [アンドレア・ラッツァーリ](https://ja.wikipedia.org/wiki/アンドレア・ラッツァーリ "wikilink") 2007-2008
+
+  - [ニコラス・コルドバ](https://ja.wikipedia.org/wiki/ニコラス・コルドバ "wikilink") 2008-2009
+
+  - [ケコ](https://ja.wikipedia.org/wiki/セルヒオ・ゴンタン "wikilink") 2012
+
+  - [ジェンナーロ・デルヴェッキオ](https://ja.wikipedia.org/wiki/ジェンナーロ・デルヴェッキオ "wikilink") 2012-2013
+
+### FW
+
+  - [アンディ・セルヴァ](https://ja.wikipedia.org/wiki/アンディ・セルヴァ "wikilink") 2002
+
+  - [トマス・ダニレビシウス](https://ja.wikipedia.org/wiki/トマス・ダニレビシウス "wikilink") 2008
+
+  - [マウリシオ・ピニジャ](https://ja.wikipedia.org/wiki/マウリシオ・ピニジャ "wikilink") 2009-2010
+
+  - [マウロ・エスポージト](https://ja.wikipedia.org/wiki/マウロ・エスポージト "wikilink") 2010
+
+  - [パパ・ワイゴ](https://ja.wikipedia.org/wiki/パパ・ワイゴ "wikilink") 2011
+
+## 出典
+
+## 外部リンク
+
+  - [公式サイト](http://www.fcgrosseto.com/)
+
+[Category:イタリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:イタリアのサッカークラブ "wikilink") [Category:トスカーナ州のサッカークラブ](https://ja.wikipedia.org/wiki/Category:トスカーナ州のサッカークラブ "wikilink") [Category:グロッセート県](https://ja.wikipedia.org/wiki/Category:グロッセート県 "wikilink")
+
+1.  [コンテに対する１０カ月の停止処分は変わらず](http://www.goal.com/jp/news/1867/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2/2012/08/23/3324596/%E3%82%B3%E3%83%B3%E3%83%86%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%EF%BC%91%EF%BC%90%E3%82%AB%E6%9C%88%E3%81%AE%E5%81%9C%E6%AD%A2%E5%87%A6%E5%88%86%E3%81%AF%E5%A4%89%E3%82%8F%E3%82%89%E3%81%9A) - 2012.8.23 Goal.com
+2.
+3.

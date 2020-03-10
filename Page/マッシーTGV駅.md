@@ -1,0 +1,6 @@
+> この記事は[TGV](https://ja.wikipedia.org/wiki/TGV)から翻訳されています。
+
+
+**マッシーTGV駅**(*Gare de Massy-TGV*)は[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")南郊[マシー](https://ja.wikipedia.org/wiki/マシー "wikilink")にある、[フランス国鉄](https://ja.wikipedia.org/wiki/フランス国鉄 "wikilink")[LGV大西洋線](../Page/LGV大西洋線.md "wikilink")の[鉄道駅](../Page/鉄道駅.md "wikilink")である。直ぐ近くには[RER](https://ja.wikipedia.org/wiki/RER_\(イル＝ド＝フランス\) "wikilink") (B・C線) の駅である[マッシー・パレゾー駅](https://ja.wikipedia.org/wiki/マッシー・パレゾー駅 "wikilink")がある。LGV大西洋線が、[モンパルナス駅](https://ja.wikipedia.org/wiki/モンパルナス駅 "wikilink")を発車し暫く行くと直ぐの停車駅である。マッシィでは[ストラスブール](../Page/ストラスブール.md "wikilink")から[ボルドー](../Page/ボルドー.md "wikilink")、[レンヌ](https://ja.wikipedia.org/wiki/レンヌ "wikilink")から[マルセーユ](https://ja.wikipedia.org/wiki/マルセーユ "wikilink")と言うようにパリ中心部を迂回するTGVの中継駅としての機能も有している。モンパルナス駅ではRERとの接続が無いため、当駅で乗り換える方法もある。
+
+[Category:フランスの鉄道駅](https://ja.wikipedia.org/wiki/Category:フランスの鉄道駅 "wikilink") [Category:1989年開業の鉄道駅](https://ja.wikipedia.org/wiki/Category:1989年開業の鉄道駅 "wikilink") [Category:エソンヌ県の建築物](https://ja.wikipedia.org/wiki/Category:エソンヌ県の建築物 "wikilink") [Category:エソンヌ県の交通](https://ja.wikipedia.org/wiki/Category:エソンヌ県の交通 "wikilink") [Category:イル＝ド＝フランスの鉄道駅](https://ja.wikipedia.org/wiki/Category:イル＝ド＝フランスの鉄道駅 "wikilink")

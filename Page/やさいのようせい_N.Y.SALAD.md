@@ -1,0 +1,199 @@
+> この記事は[ N.Y.SALAD](https://ja.wikipedia.org/wiki/_N.Y.SALAD)から翻訳されています。
+
+
+『**やさいのようせい N.Y.SALAD**』（やさいのようせい ニューヨークサラダ）は、[NHK教育で放送された](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")[アニメ](../Page/アニメ.md "wikilink")作品。
+
+第1シリーズは[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")より毎週木曜、金曜の午前7時15分 - 7時25分に全26話放送された。第2シリーズは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月5日](../Page/5月5日.md "wikilink")から[6月27日](../Page/6月27日.md "wikilink")にかけて月曜から金曜の午前7時40分 - 7時45分、午後5時10分 - 5時15分（再放送）に放送された。また、『おかあさんといっしょあそびだいすき！』内でも放映された。
+
+[2009年](../Page/2009年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")にかけて、土曜の午前7時25分 - 7時30分、午後5時30分 - 5時35分（午前の再放送）に、第1シリーズ、第2シリーズの再放送をまとめて放送した。
+
+## 概要
+
+[天野喜孝](../Page/天野喜孝.md "wikilink")の画集「N.Y.SALAD」をアニメ化した作品。[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")のとあるキッチンを舞台に、野菜の妖精たちの日常を描いたメルヘンチックな作品となっている。[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")に[原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")を起用している。
+
+鉛筆素描風の描線と淡い色彩が特徴的である。一見[水彩画](https://ja.wikipedia.org/wiki/水彩画 "wikilink")を思わせるが、実際は[3DCGソフトウェア](../Page/3次元コンピュータグラフィックス.md "wikilink")[Softimage XSIを用いて描画されている](https://ja.wikipedia.org/wiki/Softimage "wikilink")\[1\]。
+
+2007年度[文化庁メディア芸術祭](https://ja.wikipedia.org/wiki/文化庁メディア芸術祭 "wikilink")においてアニメーション部門の審査委員会推薦作品に選出されたほか、[日本オタク大賞](https://ja.wikipedia.org/wiki/日本オタク大賞 "wikilink")2007では[アニメディア](https://ja.wikipedia.org/wiki/アニメディア "wikilink")賞を受賞。第41回アニフェスト・[ヒューストン国際映画祭](https://ja.wikipedia.org/wiki/ヒューストン国際映画祭 "wikilink")ではプラチナ・ゴールド・ブロンズという3賞の同時受賞という快挙を成し遂げた。
+
+2010年2月13日より、全国の[ワーナー・マイカル](https://ja.wikipedia.org/wiki/ワーナー・マイカル・シネマズ "wikilink")（現・[イオンシネマ](https://ja.wikipedia.org/wiki/イオンシネマ "wikilink")）系映画館にて映画版『やさいのようせい N.Y.SALAD The Movie』が上映。テレビ版のリマスターバージョン（3話、全15分）と映画オリジナルストーリー1話（全20分）で構成される。なお映画オリジナル版は[3D映画として上映された](https://ja.wikipedia.org/wiki/立体映画 "wikilink")。
+
+## 主な受賞
+
+  - 海外
+
+:\* 第11回[SICAF](https://ja.wikipedia.org/wiki/SICAF "wikilink") 入選
+
+:\* 第31回[アヌシー国際アニメーション映画祭](https://ja.wikipedia.org/wiki/アヌシー国際アニメーション映画祭 "wikilink") 入選
+
+:\* 第8回アニマドリッド国際アニメーション映画祭 入選
+
+:\* 第12回シュリンゲル 入選
+
+:\* 第28回ANIMA2008 入選
+
+:\* 第41回[ヒューストン国際映画祭](https://ja.wikipedia.org/wiki/ヒューストン国際映画祭 "wikilink") プラチナ「ガーリックのウソ」/ゴールド「妖精たちの演奏会」/ブロンズ「はっぱのそり」
+
+  - 国内
+
+:\* 第11回[文化庁メディア芸術祭](https://ja.wikipedia.org/wiki/文化庁メディア芸術祭 "wikilink") 審査委員会推薦作品入選
+
+:\* 第7回日本オタク大賞 [アニメディア](https://ja.wikipedia.org/wiki/アニメディア "wikilink")編集長個人賞受賞
+
+:\* 第7回日本映画テレビ技術協会[映像技術賞](https://ja.wikipedia.org/wiki/映像技術賞 "wikilink")、TVアニメ部門
+
+## 登場キャラクター
+
+### 主要キャラクター
+
+  - 芽キャベツ
+    声 - [白鳥由里](../Page/白鳥由里.md "wikilink")
+    芽キャベツの精。誰とでも仲良くなれる明るい性格。得意な楽器はフルート。
+  - ガーリック
+    声 - [青山桐子](https://ja.wikipedia.org/wiki/青山桐子 "wikilink")
+    ガーリックの精。やんちゃな性格だが、実は怖がり。白ナスと仲がいい。得意な楽器はサックス。
+  - レタス
+    声 - [井浦愛](https://ja.wikipedia.org/wiki/井浦愛 "wikilink") / [後藤沙緒里](https://ja.wikipedia.org/wiki/後藤沙緒里 "wikilink")（2010年劇場版）
+    レタスの精。優しい女の子らしい性格だが、少しおしゃま。得意な楽器はピアノ。歌を歌うのも好き。
+  - 白ナス
+    声 - [松来未祐](../Page/松来未祐.md "wikilink")
+    白ナスの精。のんきな性格でいつも寝ている。羽はあるが飛べない。得意な楽器は太鼓。
+
+### その他のキャラクター
+
+  - サニーおばさん
+    声 - [菊池いづみ](https://ja.wikipedia.org/wiki/菊池いづみ "wikilink")
+    サニーレタスの精。ほかの妖精たちを我が子のように可愛がっている。
+  - プチトマト
+    声 - [宮崎優子](https://ja.wikipedia.org/wiki/宮崎優子_\(声優\) "wikilink")
+    レタスと仲良し。まじめで正義感が強い。得意な楽器はスネアドラム。
+  - ニンジン
+    声 - [太田哲治](https://ja.wikipedia.org/wiki/太田哲治 "wikilink")
+    ジャガイモと仲良し。口が達者の自慢屋だが、いざとなると腰が引けてしまう。得意な楽器はバイオリン。
+  - ジャガイモ
+    声 - 磯見大
+    ニンジンと仲良し。無口で不器用だけど力持ち。芽が伸びてくると元気を吸い取られる。得意な楽器はスーザフォン。
+  - トウガラシ
+    声 - 太田哲治
+    いたずらが大好き。口から辛い種を飛ばすのが特技。ギターの演奏が得意。プチトマトの事が好き。
+  - ハラペーニョ
+    声 - 太田哲治
+    トウガラシの弟。兄のトウガラシと同様にプチトマトの事が好き。同じくギターが得意。
+  - モルドレイス
+    声 - [松宏彰](https://ja.wikipedia.org/wiki/松宏彰 "wikilink")
+    カビのお化け。触れたものを真っ黒にして塵にしてしまうため、みんなから恐れられている。トウガラシの種が苦手。
+  - ライチ
+    声 - 高橋夏穂
+    氷の洞窟で集団にいる。帰り道を教えてくれたりと、物知り。
+  - ピーナッツ
+    いつも大勢で登場する。殻にこもる事でモルドレイスから回避するという技も持っている。また、水浴びをするときは殻を脱ぐ。普段並ばないと落ち着かない。
+  - きのこ
+    不思議な存在。胞子で増え、体を発光することができる。
+  - カボチャ
+    ハロウィンに使われるカボチャの精で、ピーナッツのように大勢いる。トウガラシと一緒にいたずらをした時にそのうちの一人がモルドレイスに巻き込まれて、真っ黒にカビて塵になってしまう。
+  - ティーニー/フローラ
+    劇場版に登場した紫の花の蕾から生まれた妖精。芽キャベツをお兄ちゃんのように慕う｡「ティーニー」という名前は芽キャベツが付けたもの。
+    実は満月の夜にしか咲かない[月下美人の妖精で](https://ja.wikipedia.org/wiki/ゲッカビジン "wikilink")、花のドレスを着た女性が本当の姿。夜が明けると種を残して消えてしまう。
+
+<!-- end list -->
+
+  - ナレーション - [原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")
+
+## スタッフ
+
+  - 原作 - [天野喜孝](../Page/天野喜孝.md "wikilink")
+  - 総合演出・脚本 - [松宏彰](https://ja.wikipedia.org/wiki/松宏彰 "wikilink")
+  - アニメーション監督 - 青海徳之
+  - 音楽 - [藤野浩一](https://ja.wikipedia.org/wiki/藤野浩一 "wikilink")
+  - 背景美術 - 児玉徹郎、松村麻郁
+  - 効果 - [川田清貴](https://ja.wikipedia.org/wiki/スワラ・プロ "wikilink")
+  - 録音 - 細貝真弓、[はたしょうじ](https://ja.wikipedia.org/wiki/はたしょう二 "wikilink")
+  - プロデューサー - 鈴木真理子、中村哲志、佐々木拾
+  - アニメーションプロデューサー - 浦澤貴洋、小林正俊、中野美穂子
+  - アニメーション制作 - [デジタル・メディア・ラボ](https://ja.wikipedia.org/wiki/デジタル・メディア・ラボ "wikilink")
+  - 制作・著作 - N.Y.SALAD 製作委員会（[加賀電子](https://ja.wikipedia.org/wiki/加賀電子 "wikilink")、[NHKエデュケーショナル](../Page/NHKエデュケーショナル.md "wikilink")、[デジタル・メディア・ラボ](https://ja.wikipedia.org/wiki/デジタル・メディア・ラボ "wikilink")、[モンスターフィルムス](https://ja.wikipedia.org/wiki/モンスターフィルムス "wikilink")）
+
+## 各話リスト
+
+タイトルに（※）が付いているものは劇場版で上映されるエピソード。
+
+| 第1シリーズ |               | 第2シリーズ |
+| ------ | ------------- | ------ |
+| 話数     | サブタイトル        | 話数     |
+| 1      | 妖精たちの目覚め （※）  | 1      |
+| 2      | 知りたがりやの芽キャベツ  | 2      |
+| 3      | ピクニック         | 3      |
+| 4      | 水あそび          | 4      |
+| 5      | ぎんいろの湖        | 5      |
+| 6      | ガーリックのウソ      | 6      |
+| 7      | 妖精たちの演奏会      | 7      |
+| 8      | ピーナッツ大騒ぎ      | 8      |
+| 9      | モルドレイス （※）    | 9      |
+| 10     | こまったジャガイモ     | 10     |
+| 11     | ゆかいなジャンプ      | 11     |
+| 12     | きのこのなぞ        | 12     |
+| 13     | 氷の国の冒険        | 13     |
+| 14     | プレゼント         | 14     |
+| 15     | びっくりカボチャ      | 15     |
+| 16     | トウガラシのいたずら    | 16     |
+| 17     | しめった季節        | 17     |
+| 18     | はっぱのそり （※）    | 18     |
+| 19     | やさしいまなざし      | 19     |
+| 20     | はじめてのダンスパーティー | 20     |
+| 21     | かくれんぼ         | 21     |
+| 22     | 消えたお月さま       | 22     |
+| 23     | 炎の谷           | 23     |
+| 24     | ひろがるもののかげ     | 24     |
+| 25     | ふしぎな砂時計       | 25     |
+| 26     | 夜のつぎにくるもの     | 26     |
+|        |               |        |
+
+## DVD
+
+### 第1シリーズ
+
+  - 『やさいのようせい N.Y.SALAD DVDBOX』 2007年12月19日発売 [ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")（第1話～26話収録、DVD5枚組）
+      - 『やさいのようせい N.Y.SALAD あつまれようせいたち』 2008年2月発売（1話～7話収録）
+      - 『やさいのようせい N.Y.SALAD みんなともだち』 2008年2月発売（8話～14話収録）
+      - 『やさいのようせい N.Y.SALAD たのしいあそび』 2008年2月発売（15話～20話）
+      - 『やさいのようせい N.Y.SALAD ふしぎなキッチン』 2008年2月発売（21話～26話収録）
+
+### 第2シリーズ
+
+  - 『やさいのようせい N.Y. SALAD DVD BOX 2』 2009年1月21日発売 ポニーキャニオン（第1話～26話収録、DVD4枚組）
+      - 『やさいのようせい N.Y.SALAD げんきいっぱい』 2009年3月発売（1話～6話収録）
+      - 『やさいのようせい N.Y.SALAD ゆかいななかま』 2009年3月発売（7話～13話収録）
+      - 『やさいのようせい N.Y.SALAD いつでもいっしょ』 2009年3月発売（14話～20話収録）
+      - 『やさいのようせい N.Y.SALAD まんまるおつきさま』 2009年3月発売（21話～26話収録）
+
+## 原作・絵本など
+
+  - 『N.Y.SALAD―THE WORLD OF VEGETABLE FAIRIES』 2002年5月 天野喜孝事務所
+  - 『眠れるレタス姫 (N.Y.salad)』 2005年5月 [主婦の友社](https://ja.wikipedia.org/wiki/主婦の友社 "wikilink")
+  - 『知りたがりやの芽キャベツ』 2008年11月 [PHP研究所](../Page/PHP研究所.md "wikilink")
+  - 『水あそび』 2009年3月 PHP研究所
+  - 『はっぱのそり』 2009年8月 PHP研究所
+  - 『びっくりカボチャ』 2009年10月 PHP研究所
+  - 『お星さまさがし』 2009年11月 PHP研究所
+  - 『お花畑みつけた！』 2010年5月 PHP研究所
+  - 『プチトマトの誕生日』 2010年9月 PHP研究所
+  - 『やさいのようせい N.Y.SALAD』 \[わくわくシールえほん\] 2008年4月 [小学館](../Page/小学館.md "wikilink")
+  - 『やさいのようせい N.Y.SALAD ひみつじてん』（テレビ超ひゃっか）2009年3月 小学館
+  - 『やさいのようせい N.Y.SALAD』（まるごとシールブック）2010年2月 小学館
+
+## 脚注
+
+## 関連項目
+
+  - [NHK Eアニメ一覧](https://ja.wikipedia.org/wiki/NHK教育テレビ番組一覧#アニメ "wikilink")
+
+## 外部リンク
+
+  - [公式サイト](http://www.yasainoyousei.jp/)　※リンク切れ
+
+  -
+
+  - [天野喜孝さんのイラストはキモカワ系\!? 『やさいのようせい』インタビュー！](https://dengekionline.com/elem/000/000/134/134039/) - 電撃オンライン（2009年1月21日）
+
+[Category:ミニアニメ](https://ja.wikipedia.org/wiki/Category:ミニアニメ "wikilink") [Category:アニメ作品_や](https://ja.wikipedia.org/wiki/Category:アニメ作品_や "wikilink") [Category:2007年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2007年のテレビアニメ "wikilink") [Category:ニューヨーク市を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台としたアニメ作品 "wikilink") [Category:妖精を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:妖精を題材としたアニメ作品 "wikilink") [Category:野菜を題材とした作品](https://ja.wikipedia.org/wiki/Category:野菜を題材とした作品 "wikilink") [Category:日本のテレビアニメの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビアニメの劇場版 "wikilink") [Category:2010年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2010年のアニメ映画 "wikilink") [Category:日本の3D映画作品](https://ja.wikipedia.org/wiki/Category:日本の3D映画作品 "wikilink") [Category:加賀電子グループ](https://ja.wikipedia.org/wiki/Category:加賀電子グループ "wikilink")
+
+1.

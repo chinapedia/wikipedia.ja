@@ -1,0 +1,55 @@
+> この記事は[COVERS](https://ja.wikipedia.org/wiki/COVERS)から翻訳されています。
+
+
+『**真心COVERS**』（まごころカヴァーズ）は日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[真心ブラザーズ](https://ja.wikipedia.org/wiki/真心ブラザーズ "wikilink")の[トリビュート・アルバム](https://ja.wikipedia.org/wiki/トリビュート・アルバム "wikilink")である。
+
+[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")に[キューンレコードよりリリースされた](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+
+## 解説
+
+デビュー15周年記念として製作された。豪華アーティスト参加のトリビュートアルバム。
+
+## 収録曲
+
+1.  **[ENDLESS SUMMER NUDE](https://ja.wikipedia.org/wiki/ENDLESS_SUMMER_NUDE "wikilink") (Tomita Lab. Remix)** / [冨田ラボ](https://ja.wikipedia.org/wiki/冨田ラボ "wikilink")
+      -
+        17th[シングル](../Page/シングル.md "wikilink")
+        後に33rdシングル「[紺色](https://ja.wikipedia.org/wiki/紺色_\(真心ブラザーズの曲\) "wikilink")」に収録
+2.  **[空にまいあがれ](https://ja.wikipedia.org/wiki/空にまいあがれ "wikilink")** / [奥田民生](../Page/奥田民生.md "wikilink")
+      -
+        15thシングル
+3.  **愛** / [HALCALI](../Page/HALCALI.md "wikilink")
+      -
+        シングル「[サマーヌード](https://ja.wikipedia.org/wiki/サマーヌード_\(曲\) "wikilink")」収録
+4.  **[ループスライダー](https://ja.wikipedia.org/wiki/ループスライダー "wikilink")** / [スネオヘアー](../Page/スネオヘアー.md "wikilink")
+      -
+        16thシングル
+5.  **[人間はもう終わりだ\!](https://ja.wikipedia.org/wiki/人間はもう終わりだ! "wikilink")** / [PUFFY](../Page/PUFFY.md "wikilink")
+      -
+        28thシングル
+6.  **STONE** / [東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")
+      -
+        アルバム『[KING OF ROCK](https://ja.wikipedia.org/wiki/KING_OF_ROCK "wikilink")』収録
+7.  **スタンダード3** / [Rosetta Garden](https://ja.wikipedia.org/wiki/Rosetta_Garden "wikilink")
+      -
+        アルバム『[GREAT ADVENTURE](https://ja.wikipedia.org/wiki/GREAT_ADVENTURE_\(真心ブラザーズのアルバム\) "wikilink")』収録
+        真心ブラザーズとRosetta Garden両方のメンバーである[桜井秀俊](https://ja.wikipedia.org/wiki/桜井秀俊 "wikilink")にとっては、[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")にあたる
+8.  **[拝啓、ジョン・レノン](https://ja.wikipedia.org/wiki/拝啓、ジョン・レノン "wikilink")** / [サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")
+      -
+        14thシングル
+9.  **[BABY BABY BABY](https://ja.wikipedia.org/wiki/BABY_BABY_BABY "wikilink")** / [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")
+      -
+        19thシングル
+10. **素晴らしきこの世界** / [忌野清志郎](https://ja.wikipedia.org/wiki/忌野清志郎 "wikilink")
+      -
+        シングル「[自転車に乗って](https://ja.wikipedia.org/wiki/自転車に乗って "wikilink")」収録
+11. **新しい夜明け** / MB's（[真心ブラザーズ](https://ja.wikipedia.org/wiki/真心ブラザーズ "wikilink")）
+      -
+        アルバム『GREAT ADVENTURE』収録
+        セルフカバー
+
+## 外部リンク
+
+  - [ソニーミュージック](http://www.sonymusic.co.jp/Music/Arch/VA/Compilation/KSCL-867/index.html)
+
+[Category:2004年のトリビュート・アルバム](https://ja.wikipedia.org/wiki/Category:2004年のトリビュート・アルバム "wikilink") [Category:真心ブラザーズのアルバム](https://ja.wikipedia.org/wiki/Category:真心ブラザーズのアルバム "wikilink")

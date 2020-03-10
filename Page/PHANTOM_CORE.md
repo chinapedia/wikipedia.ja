@@ -1,0 +1,37 @@
+> この記事は[PHANTOM CORE](https://ja.wikipedia.org/wiki/PHANTOM_CORE)から翻訳されています。
+
+
+『**PHANTOM CORE**』（ファントム・コア）は[韮沢靖](https://ja.wikipedia.org/wiki/韮沢靖 "wikilink")の手による漫画作品。[アメリカン・コミックス](https://ja.wikipedia.org/wiki/アメリカン・コミックス "wikilink")風で[サイバーパンク](https://ja.wikipedia.org/wiki/サイバーパンク "wikilink")的な絵柄で描かれている。
+
+## 出版元
+
+[ホビージャパン](../Page/ホビージャパン.md "wikilink")刊。「HOBBY JAPAN EXTRA」に連載されていた。
+
+## あらすじ
+
+生物科学が発達している世界での話。紛争についても生物の兵器が使われている。その世界で、生体兵器の暴走事件が続発している。[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")の繰り返しによる性能の劣化が原因であるといわれているが・・・。
+
+## 主要な登場人物
+
+  - ファンキュア・スカルフロッグ
+    本作の多くの話の主役。戦闘で瀕死の重傷を負い、脳だけ保存されていたところをカッシュに見つかり生体兵器となった。カッシュの鎮圧屋の戦闘要員。ビールが大好き。
+  - イン/ヤン
+    白黒2匹の大蛇。生体[注射器](https://ja.wikipedia.org/wiki/注射器 "wikilink")としてファンキュアの体に様々な薬剤を送り込んで強化や治癒を行う。名前は伝説に登場する双子の悪魔に由来しているが、後にチィミドゥロの手下としてその悪魔本人が登場している。
+  - ニナ・ドロノ
+    フリーの女鎮圧屋。左腕が[義手](https://ja.wikipedia.org/wiki/義手 "wikilink")で様々な装備を装着可能。夜は秘密のアルバイトで情報を集めている。EPISODE Vでは主役。
+  - ショーク・ロングストーン
+    ファンキュアの相棒で情報屋。都市ヒュドラのダウンタウン、エンジェルダスト地区で育つ。ウークス出身。カッシュと共に｢ウェプチャー鎮圧オフィス｣を設立。ウークスのコネを活かして経営を担当している。
+  - カッシュ・アイアンブラッド
+    科学者。故あって鎮圧屋を開いている。死体いじりや生体実験を好む[マッドサイエンティスト](../Page/マッドサイエンティスト.md "wikilink")。
+  - ズールー・アスファルト
+    ファンキュアの悪友。戦闘で死に掛け、[サイボーグ](../Page/サイボーグ.md "wikilink")になった。ウークス出身でフリーで鎮圧屋をやっている。本作随一のHヤローで、有名女優の[トルソー](https://ja.wikipedia.org/wiki/トルソー "wikilink")を装甲と称して持ち歩いている。
+  - チィミドゥロ
+    異界の住人。生体兵器の暴走にかかわっているらしい。昔は[サタン](../Page/サタン.md "wikilink")であったが有名になりすぎたので名前と姿を変えたと言っている。実際にかなり高位らしく、事件の解決に協力したファンキュア達への報酬として手下の魔物達をレンタルしている。
+  - ウークス
+    公営の鎮圧組織。[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")で隊員を増やしているため同じ顔が多い。
+
+## 付録
+
+単行本にはきらきら光るステッカーシールが綴じこまれている。
+
+[Category:漫画作品_ふ](https://ja.wikipedia.org/wiki/Category:漫画作品_ふ "wikilink") [Category:情報誌掲載漫画作品](https://ja.wikipedia.org/wiki/Category:情報誌掲載漫画作品 "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:クローンを題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:クローンを題材としたフィクション作品 "wikilink")

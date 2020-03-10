@@ -1,0 +1,168 @@
+> この記事は[Self](https://ja.wikipedia.org/wiki/Self)から翻訳されています。
+
+
+**Self** は、「[プロトタイプ](https://ja.wikipedia.org/wiki/プロトタイプベース "wikilink")」の概念に基づいた[オブジェクト指向](../Page/オブジェクト指向プログラミング.md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")である。[1980年代](../Page/1980年代.md "wikilink")から[1990年代](../Page/1990年代.md "wikilink")にかけて言語設計の実験的システムとして使われていたが、[2018年](../Page/2018年.md "wikilink")、Self の開発は続けられており、Self言語自身で書かれた Selfバーチャルマシンを構築する Klein プロジェクトが進められ、2006年7月にバージョン 4.3 がリリースされた。
+
+## 歴史
+
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、[パロアルト研究所](https://ja.wikipedia.org/wiki/パロアルト研究所 "wikilink")で働いていたDavid UngarとRandall SmithがSelfを設計した。[Smalltalk](../Page/Smalltalk.md "wikilink")-80が一般にリリースされて産業界から真剣に受け止められ始めていることから、[オブジェクト指向](../Page/オブジェクト指向プログラミング.md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")の研究をさらに進めることを目的として行われた。彼らは[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")に移り、Selfの作業を進め、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に最初のコンパイラを完成させた。そして、言語だけではなくSelfのシステム全体を構築することに注力することになった。
+
+一般への最初のリリースは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")であり、翌年には彼らチームは[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")に移り、さらに Selfに関する作業を続けた。その後、何回かのリリースが行われ、1995年のバージョン 4.0リリースで長い活動休止状態に入った。最近のバージョン 4.2は[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")にリリースされ、[Mac OS Xと](https://ja.wikipedia.org/wiki/macOS "wikilink")[Solaris](../Page/Solaris.md "wikilink")上で動作した。
+
+Selfはいくつかの言語に概念的な影響を与えた。特筆すべきものとしては、[アップル・ニュートン](https://ja.wikipedia.org/wiki/アップル・ニュートン "wikilink")の[NewtonScript](https://ja.wikipedia.org/wiki/NewtonScript "wikilink")と、動的ウェブページ構築に使われる[JavaScript](../Page/JavaScript.md "wikilink")がある。他に、[Io言語](https://ja.wikipedia.org/wiki/Io_\(プログラミング言語\) "wikilink")、[Cel言語](https://ja.wikipedia.org/wiki/Cel言語 "wikilink")、[Agora](https://ja.wikipedia.org/wiki/Agora "wikilink")などがある。
+
+## プロトタイプベース・プログラミング
+
+本来のオブジェクト指向言語は以下の双対関係に基づいている:
+
+1.  [クラスはオブジェクトの基本的な機能と振る舞いを定義する](../Page/クラス_\(コンピュータ\).md "wikilink")。
+2.  [オブジェクト・インスタンスはあるクラスの個別の具現である](../Page/オブジェクト_\(プログラミング\).md "wikilink")。
+
+例えば、`Vehicle` クラスのオブジェクトが「名前」を持ち、「運転」とか「建材を運ぶ」といった機能を持つとする。`Porsche 911` が `Vehicle` クラスの1つのオブジェクト（インスタンス）で、「ポルシェ 911」という「名前」を持つとする。理論的には `Porsche 911` に対して「建材を運べ」というメッセージを送ることができる。
+
+この例はオブジェクト指向のはらんでいる問題を示している。ポルシェはどう考えても建材を運ぶのには適さないが、モデル化された `Vehicle` にはその機能が与えられている。より適したモデルを生成するには `Vehicle` に特殊化を施したサブクラスを使えばよい。例えば、`Sports Car` とか `Flatbed Truck` である。この場合、`Flatbed Truck` クラスのオブジェクトだけが「建材を運ぶ」という機能を持てばよい。一方、`Sports Car` にその機能を与えるのは間違いであり、単に高速に運転できればよい。
+
+このような問題が**プロトタイプ**という考え方を生む要因となった。クラスやオブジェクトが将来どのような機能を持つようになるか確実に予測できないと、クラス階層を正しく設計することはできないのである。[Smalltalk](../Page/Smalltalk.md "wikilink")のような初期のオブジェクト指向言語では、この手の問題が頻繁に生じた。システムがある程度まで成長すると、全体として硬直化が起きて、特に基本的なクラス群は相互の関連に縛られ、機能追加が困難となる。
+
+Smalltalk のような[動的言語](https://ja.wikipedia.org/wiki/動的言語 "wikilink")では、クラスの変更によって容易にオブジェクトの振る舞いを変えられるという特徴でこれに対処できる。しかし、このような変更は注意深く行われるべきである。さもなくば、変更されたクラスに所属する、挙動が変更されるべきでないオブジェクトは「誤った」挙動を示してしまう。この問題は[脆弱な基底クラス](https://ja.wikipedia.org/wiki/脆弱な基底クラス "wikilink")問題の一つである。一方で、[C++](../Page/C++.md "wikilink")のように、基底クラスと派生クラスを別々にコンパイルできる言語では、事前にコンパイルした派生クラスのメソッドに、基底クラスでの変更が派生しない。この問題は脆弱な基底クラス問題のもう一つの形式であり、[脆弱なバイナリ・インターフェース](https://ja.wikipedia.org/wiki/脆弱なバイナリ・インターフェース "wikilink")問題の一つでもある。
+
+Self や他のプロトタイプベース言語では、クラスとオブジェクトの双対関係が排除されている。
+
+何らかの「クラス」に基づくオブジェクトの「インスタンス」を作るのではなく、Self では既存のオブジェクトをコピーし、それに修正を加える。従って、`Porsche 911` を作るには、他の Vehicle オブジェクトをコピーし、「高速運転」メソッドを追加すればよい。コピー元となるオブジェクトを「プロトタイプ」と呼ぶ。この技法によりダイナミズムが劇的に単純化されると言われている。既存のオブジェクトがモデルとして不適切であった場合、プログラマは単にオブジェクトに修正を加えて正しい振る舞いをするようにして、それを新たなプロトタイプとして使えばよい。既存のオブジェクトを使っているコードはそのまま使うことができる。
+
+## 言語としての記述
+
+Self のオブジェクトは「スロット」の集まりである。スロットとは、値を返すメッセージであり、スロット名の後にコロンをつければ値をセットするメッセージになる。例えば、"name" というスロットがあるとする。
+
+`   myPerson name`
+
+これは name の値を返す。
+
+`   myPerson name:'gizifa'`
+
+これは値をセットする。
+
+Self は Smalltalk と同様「ブロック」を使って処理の流れを制御する。メッセージを受け取るメソッドはスロット群以外にコードを持つオブジェクトであり、任意のスロットの値としてメソッドを格納できる。メソッドの持つスロットは引数や一時変数として使われる。いずれの場合も文法的には同じである。
+
+Self ではフィールドとメソッドに区別はなく、どちらもスロットである。メッセージによるスロットアクセスで Self の文法の大部分が説明されるため、自分自身（self）へのメッセージも多い。そのため "self" は省略できる（また、これが言語名の由来）。
+
+### 基本文法
+
+スロットアクセスの構文は Smalltalk に似ている。3種類のメッセージを利用可能である:
+
+  - 単項 : *`receiver`*`  slot_name `
+    二項 : *`receiver`*`  +  `*`argument`*
+    キーワード : *`receiver`*`  keyword:  `*`arg1`*`  With:  `*`arg2`*
+
+どのメッセージも値を返すので、receiver や argument もメッセージ形式をとることが可能である。メッセージの後ろにピリオドをつけると、リターン値を捨てることを意味する。例えば、
+
+`   'Hello, World!' print.`
+
+これは Self による[Hello worldプログラムである](../Page/Hello_world.md "wikilink")。`'`（シングルクォート）はリテラル文字列オブジェクトを意味する。その他のリテラル（即値）として、数、ブロック、汎用オブジェクトがある。
+
+グループ化は括弧を使って明示される。明示的なグループ化をしない場合、優先順位は単項メッセージが最も高く、次に二項メッセージ（左から右にグループ化）、キーワードメッセージは最も優先順位が低い。代入にキーワードを使うとき、式にもキーワードが含まれている場合に追加の括弧が必要となる。それによって最初のキーワードメッセージセレクタを小文字から開始したり、次の部分を大文字で開始したりといった必要がなくなる。
+
+`   valid: base bottom between: ligature bottom + height And: base top / scale factor.`
+
+この一文は曖昧さがなく、次のものと同じに解釈される:
+
+`   valid: ((base bottom) between: ((ligature bottom) + height) And: ((base top) / (scale factor))).`
+
+Smalltalk-80 では、同じ式が次のように記述される:
+
+`   valid := self base bottom between: self ligature bottom + self height and: self base top / self scale factor.`
+
+### 新しいオブジェクトの生成
+
+もう少し複雑な例として次の記述を示す:
+
+`   labelWidget copy label: 'Hello, World!'.`
+
+"labelWidget" オブジェクトへの copy メッセージでコピーを作り、そのコピーの "label" スロットに "Hello, World" メッセージを格納すべくメッセージを送っている。これを使ってみると次のようになる。
+
+`   (desktop activeWindow) draw: (labelWidget copy label: 'Hello, World!').`
+
+この場合、`(desktop activeWindow)` が最初に評価され、desktop オブジェクトが知っているウィンドウのリストからアクティブウィンドウを表すオブジェクトが返される。次に（内側から外側へ、左から右へという順で）前掲のコードが評価され labelWidget が返される。最後にその[ウィジェットがアクティブウィンドウの](https://ja.wikipedia.org/wiki/ウィジェット_\(GUI\) "wikilink") draw スロットに送られる。
+
+### 継承/委譲
+
+理論上、全ての Self オブジェクトはスタンドアロンな実体である。Self にはクラスもメタクラスもない。あるオブジェクトを変更しても他には影響がないが、影響があったほうがよい場合もある。通常、オブジェクトは自身のローカルなスロットへのメッセージしか認識しないが、「親」オブジェクトを指定するスロットを持つことによって、そのオブジェクト自身が解釈できないメッセージを親オブジェクトに**委譲**することができる。スロット名の後ろにアスタリスクがあるものは親へのポインタとなる。このような手法で、クラスベースの言語で[継承機能が担っていることを実現する](https://ja.wikipedia.org/wiki/継承_\(プログラミング\) "wikilink")。委譲によって[名前空間](../Page/名前空間.md "wikilink")や[スコープ](https://ja.wikipedia.org/wiki/スコープ "wikilink")といった機能も実装できる。
+
+### 特徴
+
+例えば、「銀行口座」というオブジェクトを定義し、口座の残高を管理するとしよう。一般にこのようなオブジェクトには「入金」と「出金」のメソッドが作られ、それに必要なデータスロットも作られる。これはプロトタイプであるが、そのまま汎用の口座を表すオブジェクトとしても使える。
+
+このオブジェクトのクローン「ボブの口座」を作ることで、上記オブジェクトがプロトタイプとして使われたことになる。このとき、そのオブジェクトが持つ全てのメソッドやデータがスロットとしてコピーされる。しかし、より典型的な手法は、もっと単純な traits object（特徴オブジェクト）と呼ばれるオブジェクトをつくり、そこにクラスに関連するものを含める。
+
+この例では、「銀行口座」オブジェクトに入金や出金メソッドを備えさせるのではなく、その親オブジェクトに持たせる。このようにすると、多数の銀行口座オブジェクトのコピーを作っても、親オブジェクトの修正によって全銀行口座オブジェクトの動作を更新できる。
+
+これはいわゆるクラスと何が違うのだろうか？ 次の意味を考えてみよう:
+
+`   myObject parent: someOtherObject.`
+
+これは、'parent\*' スロットに適当なオブジェクトを代入することで myObject の「クラス」を実行時に動的に変更できることを意味する（アスタリスクはスロット名の一部だが、メッセージには表記されない）。継承やスコープとは違い、委譲オブジェクトは実行時に変更可能である。
+
+### スロット追加
+
+Self のオブジェクトにはスロットを追加可能である。グラフィカルなプログラミング環境でもできるし、'_AddSlots:' プリミティブでも可能である。**プリミティブ**は通常のキーワードメッセージと同様の構文だが、その名前は常にアンダースコアで始まる。＿AddSlots プリミティブ自身は古い実装の名残りであるため、使うべきでないとされている。しかし、これを使うとコードを短縮できるため、以下ではあえて解説する。
+
+Vehicle という単純なクラスのリファクタリングで乗用車とトラックで振る舞いを変えることを上の例で示した。Self ではこれを次のように実現できる:
+
+`   _AddSlots: (| vehicle <- (|parent* = traits clonable|) |).`
+
+'_AddSlots' プリミティブの受信者オブジェクトが明示されていないので、これは "self" に対するものである。これを対話型のプロンプトで入力すると、"self" オブジェクトに相当するのは "lobby" と呼ばれるオブジェクトである。'_AddSlots' の引数はオブジェクトであり、そのスロットが受信者オブジェクトにコピーされる。この例では、それは1つのスロットだけを持つリテラルオブジェクトである。スロット名は 'vehicle' で、その値が別のリテラルオブジェクトとなっている。"\<-" という記号は、第一のスロットの値を変更するのに使われる 'vehicle:' という第二のスロットを暗に示している。
+
+"=" は定数スロットを意味するので、'parent\*' には対応する 'parent:' が無い。このリテラルオブジェクトは 'vehicle' の初期値であり、クローン作成に関するメッセージを理解できるスロットを1つもっている。完全に空のオブジェクトは、(| |) あるいは単に () で示され、メッセージを全く受け付けられない。
+
+`    vehicle _AddSlots: (| name <- 'automobile'|).`
+
+これも、前と同じオブジェクトが受信者であり、'parent\*' に加えて新たに 'name' と 'name:' スロットが追加されている。
+
+`   _AddSlots: (| sportsCar <- vehicle copy |).`
+`   sportsCar _AddSlots: (| driveToWork = (`*`何かのコード、これがメソッドになる`*`) |).`
+
+以前の 'vehicle' と 'sportsCar' はほとんど同じだが、ここでは後者にオリジナルが持っていなかったメソッドを伴うスロットが含まれている。メソッドを持つことができるスロットは定数スロットだけである。
+
+`   _AddSlots: (| porsche911 <- sportsCar copy |).`
+`   porsche911 name:'Bobs Porsche'.`
+
+新たなオブジェクト 'porsche911' は 'sportsCar' とほぼ同じだが、最後のメッセージでその 'name' スロットの値が変更されている。これらはスロットの値は異なるものの、持っているスロットは同じであることに注意されたい。
+
+## 環境
+
+Self の特徴の1つとして、Smalltalk システムが使っていた[仮想機械](../Page/仮想機械.md "wikilink")と同様の仕組みに基づいている点が挙げられる。つまり、Self のプログラムは[C言語](../Page/C言語.md "wikilink")などとは異なり、それ[単独では機能しない](https://ja.wikipedia.org/wiki/スタンドアローン "wikilink")。常に実行環境が必要となる。しかし、このようになっているため、Self 環境は強力なデバッグツールを提供できる。プログラムを任意の時点で停止させ、コードや値を変更し、実行を再開させるといったことが可能である。
+
+さらに、Self 環境はオブジェクトを素早くかつ継続的に変更することを考慮している。「クラス」設計のリファクタリングは、単に既存のメソッドを新しいオブジェクトに引っ張ってくればよいだけである。メソッドの評価のような単純な作業は、コピーを作って、メソッドをコピーに引っ張ってきて、そこで修正すればよい。他のシステムとは異なり、その新たなオブジェクトだけが新しいコードを持っており、テストするにも他に影響が発生しない。そのメソッドがうまく動いたら、それを元のオブジェクトに戻せばよい。
+
+### 性能
+
+Self の VM（仮想機械）は C言語と比較して（一部のベンチマークで）約半分程度の性能を達成している。
+
+これは[ジャストインタイムコンパイル(JIT)方式によるもので](https://ja.wikipedia.org/wiki/ジャストインタイムコンパイル方式 "wikilink")、特に研究が進んでいる部分である。特に、起動当初はインタプリタとして実行し、よく送信されるメッセージや繰り返し実行されるコードの検出（プロファイリング）を行い、そのようなコードのみをコンパイルするadaptive compilationという技術は最初Selfの処理系で実装され、後にJavaの[HotSpot](https://ja.wikipedia.org/wiki/HotSpot "wikilink")で採用された。
+
+### ガベージコレクション
+
+Self の[ガベージコレクション](../Page/ガベージコレクション.md "wikilink")は世代型であり、オブジェクトを世代で管理する。メモリ管理システムを使ってページへの書き込みを記録し、ライトバリアを保つ。この手法は性能がよいが、ある期間実行を行っていると全体ガベージコレクションが発生し、無視できない時間を取られてしまう。
+
+### 最適化
+
+実行時環境は選択的に呼び出し構造を平坦化することで性能向上を図っている。そのためには、[型情報](https://ja.wikipedia.org/wiki/型情報 "wikilink")や異なる型に応じた複数の実行コードを[キャッシュ](../Page/キャッシュ.md "wikilink")しておく必要があるが、時間の掛かるメソッド探索の回数を減らしたり、メソッド探索を条件分岐や[ハードコード](https://ja.wikipedia.org/wiki/ハードコード "wikilink")された呼出しで置き換えたりすることができる。これにより言語としての一般性を保ち、ガベージコレクションを備えつつ、C言語に近い性能が達成されているのである。
+
+## 関連項目
+
+  - [Smalltalk](../Page/Smalltalk.md "wikilink")
+
+## 外部リンク
+
+  - [Welcome to Self — Self - the power of simplicity](http://selflanguage.org/)
+  - [Self Home Page at Sun Microsystems](http://research.sun.com/self/)
+  - [Papers on Self from UCSB (mirror for the Sun papers page)](http://www.cs.ucsb.edu/labs/oocsb/self/papers/papers.html)
+  - [Self resources at Cetus Links](http://www.cetus-links.org/oo_self.html)
+  - [Merlin Project](http://www.merlintec.com/lsi/)
+  - [Self ported to Linux (without many optimizations)](http://gliebe.de/self/index.html)
+  - [Automated Refactoring application on sourceforge.net, written for and in Self](http://selfguru.sourceforge.net/)
+  - [Gordon's Page on Self](http://www.self-support.com/)
+  - [Prometheus object system on the Community Scheme Wiki](http://community.schemewiki.org/?prometheus)
+  - [Video demonstrating self](http://www.smalltalk.org.br/movies/)
+
+[Category:オブジェクト指向言語](https://ja.wikipedia.org/wiki/Category:オブジェクト指向言語 "wikilink")

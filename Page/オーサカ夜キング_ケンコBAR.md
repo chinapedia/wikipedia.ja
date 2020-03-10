@@ -1,0 +1,101 @@
+> この記事は[ BAR](https://ja.wikipedia.org/wiki/_BAR)から翻訳されています。
+
+
+『**オーサカ夜キング ケンコBAR**』（オーサカよるキング ケンコバー）は、[2007年](../Page/2007年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")および同年[7月30日](../Page/7月30日.md "wikilink")から[8月5日](../Page/8月5日.md "wikilink")までの深夜（日付上では7月29日および7月31日から8月6日）に30分間ずつ[毎日放送](../Page/毎日放送.md "wikilink")（[MBSテレビ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）で[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")として放送された[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。
+
+## 概要
+
+2004年から[夏休み](../Page/夏休み.md "wikilink")前半（7月下旬 - 8月上旬）に[大阪城](https://ja.wikipedia.org/wiki/大阪城 "wikilink")・[大阪城公園](https://ja.wikipedia.org/wiki/大阪城公園 "wikilink")一帯で開催されているイベント『**[オーサカキング](https://ja.wikipedia.org/wiki/オーサカキング "wikilink")**』。2006年には[ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")の司会で『**[ケンドーコバヤシのオーサカ夜キング](https://ja.wikipedia.org/wiki/ケンドーコバヤシのオーサカ夜キング "wikilink")**』が放送されたが、翌2007年にもケンコバの司会で少し趣向を変えて放送された。それがこの『オーサカ夜キング ケンコBAR』である。タイトルの「ケンコBAR」とは、会場内に実際にあるスペースの1つである。また、番組は「**[アサヒビール](../Page/アサヒビール.md "wikilink") Presents**」を副題に冠していた。アサヒビールの一社提供番組ではなかったものの、同社は数あるスポンサーの一社になっていた。
+
+途中、7月29日（日付上では7月30日）の放送が欠けているのは、同日に[第21回参議院議員通常選挙](../Page/第21回参議院議員通常選挙.md "wikilink")の[選挙特番](https://ja.wikipedia.org/wiki/選挙特別番組 "wikilink")『[乱\!参議院選挙2007](../Page/乱!参議院選挙2007.md "wikilink")』が放送されたためである。
+
+## 出演者
+
+### 司会
+
+  - [ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink") - 「ケンコBAR」の店長という設定で出演。8月1日放送分では、冒頭10分間が同じくケンコバ出演の『[週刊プラチケ\!](../Page/週刊プラチケ!.md "wikilink")』（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）に出演していることから、ゲストの[たむらけんじ](https://ja.wikipedia.org/wiki/たむらけんじ "wikilink")が途中まで代理司会を務めた。また、同日放送分ではタイトルも『**オーサカ夜キング たむケンコBAR**』と表示されていた。その後、ケンコバは登場した際に「[扇町](https://ja.wikipedia.org/wiki/扇町 "wikilink")でチケット売ってました」と発言し、出演者とスタッフの笑いを誘った。
+
+### アシスタント
+
+  - [松本麻衣子](https://ja.wikipedia.org/wiki/松本麻衣子 "wikilink")（毎日放送アナウンサー） - 7月28日・7月31日・8月1日・8月4日・8月5日放送分出演。
+  - [八木早希](https://ja.wikipedia.org/wiki/八木早希 "wikilink")（当時毎日放送アナウンサー） - 7月30日・8月2日・8月3日放送分出演。
+
+### 夜キンガールズ
+
+  - [岸田奈緒美](https://ja.wikipedia.org/wiki/岸田奈緒美 "wikilink")
+  - [前野ケーティ都](https://ja.wikipedia.org/wiki/前野ケーティ都 "wikilink")
+  - [深川愛](https://ja.wikipedia.org/wiki/深川愛 "wikilink")
+  - [柳川真菜](https://ja.wikipedia.org/wiki/柳川真菜 "wikilink") - 8月1日放送分では欠席。
+  - 乾亜由美
+  - [新見佳世](https://ja.wikipedia.org/wiki/新見佳世 "wikilink")
+
+### ゲスト
+
+  - 7月28日：[陣内智則](../Page/陣内智則.md "wikilink")
+  - 7月30日：[小籔千豊](https://ja.wikipedia.org/wiki/小籔千豊 "wikilink")
+  - 7月31日：[バッファロー吾郎](../Page/バッファロー吾郎.md "wikilink")
+  - 8月1日：[たむらけんじ](https://ja.wikipedia.org/wiki/たむらけんじ "wikilink")（ケンコバの代理司会も担当）・[篠原真衣](../Page/篠原真衣.md "wikilink")
+  - 8月2日：[チュートリアル](https://ja.wikipedia.org/wiki/チュートリアル_\(お笑いコンビ\) "wikilink")
+  - 8月3日：[ほしのあき](../Page/ほしのあき.md "wikilink")
+  - 8月4日：[ザ・プラン9](https://ja.wikipedia.org/wiki/ザ・プラン9 "wikilink")
+  - 8月5日：[シャンプーハット](https://ja.wikipedia.org/wiki/シャンプーハット_\(お笑いコンビ\) "wikilink")・[サバンナ](https://ja.wikipedia.org/wiki/サバンナ_\(お笑いコンビ\) "wikilink")
+  - 「テレフォンキングスペシャル」ゲスト：[土肥ポン太](https://ja.wikipedia.org/wiki/土肥ポン太 "wikilink")・[なかやまきんに君](../Page/なかやまきんに君.md "wikilink")
+
+## 主なコーナー
+
+この順番通り放送されたが、8月1日のみ、「テレフォンキング」と「燃え燃えオーサカキングリサーチ」を入れ替えて放送した。
+
+  - オープニング
+    司会のケンコバとアシスタントアナウンサーの挨拶、ゲストの登場、タイトルコールを行う。バー（お店）の設定のため、「**ケンコBAR、オープン**」と叫ぶ。
+  - テレフォンキング
+    昨年の「夜キング」でも実施されたコーナー。会場に来た来場者が「**私は○○キング**（○○自慢、○○に長けている）」など電話でアピールする。ケンコバが判定し、それに見合ったオーサカキングのグッズ1つがプレゼントされる。
+  - 燃え燃えオーサカキングリサーチ
+    夜キンガールズ2人が、「オーサカキング」の噂や情報など、別の楽しみ方をリポートした。8月1日は特別編として、ゲストの篠原真衣が、昼間の「ケンコBAR」の様子などをレポートした。
+  - ケンコBAR コースタートーク
+    放送した翌日に、「ケンコBAR」で限定販売する飲み物を飲みながら大人のトークを展開する。飲み物には、ケンコバから名前が付けられる。トークにはコースターを用い、3つのコースターそれぞれに書かれた質問にゲストが答えてゆく。その内訳は、来場者が2問、ケンコバから1問。
+  - BARコント・エンディング
+    内容は、同局でも放送されている『[チューボーですよ\!](https://ja.wikipedia.org/wiki/チューボーですよ! "wikilink")』でのエンディングのバーコントに近い。ケンコバが振られたり、ゲストの面白ギャグで締めたりと様々なオチがある。提供テロップの提示後、翌放送日のゲストが紹介される。
+
+### 最終日のコーナー
+
+  - オープニング
+    司会のケンコバとアシスタントアナウンサーの挨拶で、ケンコバから去年のアシスタント[NIGHT SIGHTの思い出話](https://ja.wikipedia.org/wiki/NIGHT_SIGHT "wikilink")（[NIGHTは泣いて](https://ja.wikipedia.org/wiki/内藤萌亜 "wikilink")、[SIGHTは大笑いしていた](https://ja.wikipedia.org/wiki/斉藤美穂_\(グラビアアイドル\) "wikilink")）に触れた。そしてゲストが登場して、タイトルコールを行ってきたが、景気付けということでサバンナ八木のギャグからスタートした。
+  - テレフォンキングスペシャル
+    1人目のみ視聴者につないだが、2人目は土肥ポン太が、3人目は[アメリカに筋肉留学をしているなかやまきんに君が電話で出演した](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
+  - ケンコBAR コースタートーク
+    最終日のため、飲み物は出されずにトークのみであった。
+  - 「[永遠にともに](https://ja.wikipedia.org/wiki/永遠にともに "wikilink")」大合唱・フィナーレ
+    2006年のエンディングで「[サライ](https://ja.wikipedia.org/wiki/サライ_\(曲\) "wikilink")」を歌ったのと同様に、2007年は陣内が自身の[結婚式](../Page/結婚式.md "wikilink")で、妻の[藤原紀香](https://ja.wikipedia.org/wiki/藤原紀香 "wikilink")のために弾き語った[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")の「永遠にともに」を全員で合唱した。その際ケンコバは、おもちゃのピアノを弾く真似をしながら歌った。途中に2006年同様、期間内で実施した特番のハイライト（初日の開幕特番、[ロザン](../Page/ロザン.md "wikilink")[菅のドラムパフォーマンスの模様](https://ja.wikipedia.org/wiki/菅広文 "wikilink")、「世帯陸上 かみさんかつぎ」など）や、「ケンコBAR」の収録風景、陣内と篠原と以外のゲストが事前に歌っている模様も挟まれた。最後にケンコバの挨拶の後、陣内がVTR越しに「えっ?\!何、このエンディング」とツッコミを入れた。
+
+## 「ケンコBAR コースタートーク」で紹介され販売した飲み物
+
+前述の通り、「ケンコBAR コースタートーク」で紹介した翌日（日付上は紹介されたその日）に限定販売された飲み物の一覧と、その名前の付けられた理由や経緯について記載する。
+
+  - 7月28日紹介「**[ボヴァ](https://ja.wikipedia.org/wiki/ボヴァ "wikilink")にともに**」（これのみ全日程販売された）
+      - 「ボヴァ」。アメリカでブレイクし、『[ちちんぷいぷい](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")』でも紹介されたドリンク。[ブラックタピオカ](../Page/タピオカ.md "wikilink")、[アイスクリーム](../Page/アイスクリーム.md "wikilink")[シェイク](https://ja.wikipedia.org/wiki/シェイク "wikilink")、[杏仁豆腐](https://ja.wikipedia.org/wiki/杏仁豆腐 "wikilink")とフルーツ（ミックスベリーまたはマンゴー）をのせたデザート風の飲み物。ネーミングの理由は、やさしい甘さと、この日のゲストが陣内であったことから。
+  - 7月30日紹介「**逆・新喜劇**」（7月31日に販売）
+      - 「三ツ矢サイダービア」。[三ツ矢サイダー](https://ja.wikipedia.org/wiki/三ツ矢サイダー "wikilink")と[ビール](../Page/ビール.md "wikilink")を半分ずつ割った爽快感のあるカクテルビール。ネーミングの理由は、爽やかな飲み心地と、ゲストの小籔が座長も務め、自身も演者の1人として出演している「[吉本新喜劇](https://ja.wikipedia.org/wiki/吉本新喜劇 "wikilink")」がコテコテという意味であることから。
+  - 7月31日紹介「**ウォッカ坊や**」（8月1日に販売）
+      - 「ウィルキンソン・レッドレーベル」。[ウォッカ](../Page/ウォッカ.md "wikilink")ベースで、[ライム](https://ja.wikipedia.org/wiki/ライム "wikilink")の果汁シロップを少し入れたすっきりとした苦味と爽やかな酸味があるカクテル。ネーミングの理由は、この日のアシスタントの松本が「爽やかなカクテルが似合いませんね」と言うと、ゲスト出演していたバッファロー吾郎の[木村が](https://ja.wikipedia.org/wiki/木村明浩 "wikilink")「ウォッカ坊やは俺らのことやで」と発言したことから。
+  - 8月1日紹介「**オツカレーナ**」（8月2日に販売）
+      - 「ウィルキンソン・グリーンレーベル」。これもウォッカベースで、辛味のある[ジンジャーエール](../Page/ジンジャーエール.md "wikilink")と、甘みと酸味のあるドライジンジャーエールの絶妙なバランスを楽しむもの。ネーミングの理由は、その日1日のシメとして飲みたい感じと、その日の3人目の「テレフォンキング」で「[モー娘。キング](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")」が電話出演して話題になったことから。
+  - 8月2日紹介「**ウゥゥ〜ゥ**」（8月3日に販売）
+      - 「紫の野菜ジュース・ビア」。ビールの苦味と[野菜ジュース](https://ja.wikipedia.org/wiki/野菜ジュース "wikilink")のカクテルビール。ネーミングの理由は、どんどん飲めて体に染み込まれていく感じを表現したことから。
+  - 8月3日紹介「**グビグビグビグビ**」（8月4日に販売）
+      - 「パイナップル・ビア」。[パインアップル](https://ja.wikipedia.org/wiki/パインアップル "wikilink")ジュースとビールを半分ずつで割った甘い香りがするカクテルビール。ネーミングの理由は、ビールがベースなのに、グビグビ飲めるところから。
+  - 8月4日紹介「**竹若**」（8月5日に販売）
+      - 「レッドオレンジジュース・ビア」。「ブラッドオレンジ」呼ばれると赤い[オレンジジュース](../Page/オレンジジュース.md "wikilink")とビールを半分ずつ割ったフルーティーな味わいのカクテルビール。ネーミングの理由は、この日のゲストのザ・プラン9の[なだぎ武](https://ja.wikipedia.org/wiki/なだぎ武 "wikilink")が「女の子にウケる、バッファロー吾郎の木村よりウケる」と発言したことから、ケンコバが「それよりもウケる」ということで付けられた。なお「[竹若](https://ja.wikipedia.org/wiki/竹若元博 "wikilink")」とは、木村の相方の苗字である。
+
+## 関連項目
+
+  - [アサヒビール](../Page/アサヒビール.md "wikilink")
+      - [アサヒ飲料](../Page/アサヒ飲料.md "wikilink")
+  - [オーサカキング](https://ja.wikipedia.org/wiki/オーサカキング "wikilink")
+  - [オーサカ夜キング](https://ja.wikipedia.org/wiki/オーサカ夜キング "wikilink")
+      - [ケンドーコバヤシのオーサカ夜キング](https://ja.wikipedia.org/wiki/ケンドーコバヤシのオーサカ夜キング "wikilink")
+  - [ちちんぷいぷい夏休み 西から南からアツアツオーサカキングSP](https://ja.wikipedia.org/wiki/ちちんぷいぷい夏休み_西から南からアツアツオーサカキングSP "wikilink")
+  - [開幕\!オーサカキング 今年は5時間アツアツバトル大阪真夏の陣\!陣\!陣\!](https://ja.wikipedia.org/wiki/開幕!オーサカキング_今年は5時間アツアツバトル大阪真夏の陣!陣!陣! "wikilink")
+  - [ちちんぷいぷいは夏休み オモロイことはぜ〜んぶやる\!ニッポンの夏じるし](https://ja.wikipedia.org/wiki/ちちんぷいぷいは夏休み_オモロイことはぜ〜んぶやる!ニッポンの夏じるし "wikilink")
+  - [スッごい\!おとなの時間](https://ja.wikipedia.org/wiki/スッごい!おとなの時間 "wikilink")
+
+[Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:吉本興業の番組](https://ja.wikipedia.org/wiki/Category:吉本興業の番組 "wikilink") [Category:毎日放送の特別番組](https://ja.wikipedia.org/wiki/Category:毎日放送の特別番組 "wikilink") [Category:毎日放送の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:毎日放送の深夜テレビ番組 "wikilink") [Category:毎日放送のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:毎日放送のバラエティ番組の歴史 "wikilink")

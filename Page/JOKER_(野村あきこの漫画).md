@@ -1,0 +1,90 @@
+> この記事は[JOKER \(\)](https://ja.wikipedia.org/wiki/JOKER_\(\))から翻訳されています。
+
+
+『**JOKER**』（ジョーカー）は、[野村あきこ](../Page/野村あきこ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[なかよし](../Page/なかよし.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")12月号から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")11月号まで連載された。[単行本](../Page/単行本.md "wikilink")は全2巻。
+
+## 物語
+
+**中園江梨衣**（なかぞの えりい）は、[演歌](../Page/演歌.md "wikilink")が好きな高校2年生。趣味と実益を兼ねて、家の[銭湯](../Page/銭湯.md "wikilink")の番台で、お客さんがリクエストしたド演歌を歌う「人間[ジュークボックス](../Page/ジュークボックス.md "wikilink")」をやっている。
+
+そんな江梨衣は、展示の他は[お化け屋敷](../Page/お化け屋敷.md "wikilink")と[喫茶店](../Page/喫茶店.md "wikilink")しか許されないお堅い[文化祭](../Page/文化祭.md "wikilink")において、文化祭実行委員長のメンツをかけて、斬新でどでかい企画をやりたがっていた。その時、クラスメートの**市堂尊**（いちどう たける）が、表向きは屋外喫茶と称して、生[バンド演奏つきの](../Page/バンド_\(音楽\).md "wikilink")[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")をやろうと言い出す。
+
+なんとかバンドのメンバーをそろえて迎えた文化祭当日。しかし、時間になっても[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の**浦川街子**（うらかわ まちこ）が現れない。そこで、なんと江梨衣に白羽の矢が立ち、急遽、江梨衣がボーカルをすることになり……。
+
+## 登場人物
+
+### JOKER（ジョーカー）メンバー
+
+  - 中園 江梨衣（なかぞの えりい）
+    バンド「JOKER（ジョーカー）」の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")で[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")担当。私立新英知学館高等科2-B。文化祭実行委員長。
+    家族構成は、[両親](https://ja.wikipedia.org/wiki/両親 "wikilink")、[兄](https://ja.wikipedia.org/wiki/兄 "wikilink")、[妹](https://ja.wikipedia.org/wiki/妹 "wikilink")の5人で、[銭湯](../Page/銭湯.md "wikilink")「松の湯」を経営している。
+    性格は明朗快活の元気娘。演歌が好きで、[趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")兼特技は歌をうたうこと。
+    あだ名は「エリー」、尊からは「委員長」と呼ばれている。また、家の銭湯では、「人間[ジュークボックス](../Page/ジュークボックス.md "wikilink")」というお客の希望曲をうたうサービスを行っていることから、「松の湯の歌姫」と称される。
+    文化祭において、いなくなった街子の代わりに急遽バンドのボーカルになった。その後、バンドの活動を続けていくうちに、いつも自分を励ましてくれる尊に惹かれてゆく。
+  - 市堂 尊（いちどう たける）
+    バンド「JOKER」の[ギタリスト](../Page/ギタリスト.md "wikilink")で[作曲](../Page/作曲.md "wikilink")担当。私立新英知学館高等科2-B。文化祭でライブハウスを企画した張本人。
+    バンド「BLOODY ROUGE（ブラッディ ルージュ）」のギタリストだったが、[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")から[メジャーデビューの話がきてから](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")、曲は二の次になってしまったメンバーに反発していた。ボーカリストだった街子と付き合っていたが、バンドは尊抜きでメジャーデビューが決まってしまう。
+    涙もろい。
+  - 早乙女 藤馬（さおとめ とうま）
+    バンド「JOKER」の[ベーシスト](../Page/ベーシスト.md "wikilink")。私立新英知学館高等科2-B。江梨衣の[中学校](../Page/中学校.md "wikilink")時代からの3年越しの[親友](https://ja.wikipedia.org/wiki/親友 "wikilink")。
+    中学時代に[ベースをかじった経験があることから文化祭のライブ実行班となり](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、「JOKER」のベーシストになる。
+    「父親は昔死んだ」、「バンドの経験はない」と江梨衣に言っていたが、実は中1の時に両親が[離婚](../Page/離婚.md "wikilink")して、桂木姓から早乙女姓になっていた。昔は荒れていてケンカばかりしていた。そんな時に[バイト先で出会った孝也との出会いと別れによって変わってしまう](../Page/アルバイト.md "wikilink")。
+    親友思い。
+  - 桜井 春夜（さくらい はるや）
+    バンド「JOKER」の[キーボーディスト](https://ja.wikipedia.org/wiki/キーボーディスト "wikilink")。私立新英知学館高等科2-A。清華とは中等科時代に一度同じクラスだった。
+    [ピアノ](../Page/ピアノ.md "wikilink")の名手で方々の[コンクール](https://ja.wikipedia.org/wiki/コンクール "wikilink")で優勝する経歴を持つが、中3のコンクールで演奏中に倒れて以来ピアノは辞めてしまっていた。実は、家は[医者](https://ja.wikipedia.org/wiki/医者 "wikilink")の家系で、周りに反発してピアノに走っていた。そのため、楽しいと思ったことはないという。
+    その発言から江梨衣は意地になり、春夜をバンドに入れるべく落としにかかる。その甲斐あって、セカンドライブ終了後「JOKER」に入る。
+    清華とは犬猿の仲。
+  - 中園 比呂衣（なかぞの ひろい）
+    バンド「JOKER」の[ドラマー](https://ja.wikipedia.org/wiki/ドラマー "wikilink")。江梨衣の兄。[大学生](https://ja.wikipedia.org/wiki/大学生 "wikilink")で、私立新英知学館の卒業生。
+    文化祭でのライブのためドラマーを探している最中、町内祭りの[和太鼓](https://ja.wikipedia.org/wiki/和太鼓 "wikilink")を叩いているところから江梨衣に強制的にバンドに引き込まれた。
+    バンドの最年長として練習場所の交渉をしたりするなどしっかりしていて、江梨衣だけでなく「JOKER」メンバーの兄貴分である。
+
+### その他
+
+  - 宮島 清華（みやじま さやか）
+    私立新英知学館高等科2-B。江梨衣の友達で、JOKERのマネージャー的存在。新聞部の部長であり、そのせいか、いつもメモ帳を手放さない。
+    宮島物産の社長令嬢であり、自分は[楽器](../Page/楽器.md "wikilink")ができないことから、母親やみんなには秘密で会社の倉庫を練習場所として提供していた。しかし見つかってしまい、交渉の結果R・W・F（ロック・ウエーブ・フェスティバル）で優勝することで無料・無期限使用を約束、同時にもし駄目だった場合は[不法侵入](https://ja.wikipedia.org/wiki/不法侵入 "wikilink")で訴えられることにもなった。
+  - 浦川 街子（うらかわ まちこ）
+    バンド「BLOODY ROUGE」のボーカリスト。元・新英知学館高等科2-B。
+    歌が上手く、バンドの人気もデビュー前からライブでは長蛇の列を作るほどであった。常々「メジャデビューがきまったら学校をやめる」と言っていて、文化祭でバンドボーカルがいないと探されている間、本人は[退学](https://ja.wikipedia.org/wiki/退学 "wikilink")届を提出していた。
+    無愛想だが、昔は喜怒哀楽があった。しかし両親が別居し始めてから変わってしまった。尊と付き合っている。
+
+## サブタイトル一覧
+
+*' JOKER 第1巻収録*'
+
+  - 第1話 おふざけ者
+  - 第2話 天災児
+  - 第3話 セカンドライブ\!?
+  - 第4話 セカンドライブ\!\!
+  - 第5話 R・W・F（ロック・ウエーブ・フェスティバル）
+
+*' JOKER 第2巻収録*'
+
+  - 第6話 さやちゃんのユウウツ
+  - 第7話 Erie's Special（エリーズ スペシャル）
+  - 第8話 爆弾発言
+  - 第9話 1次予選
+  - 第10話 だれかのために
+  - 第11話 だれだろうと
+  - 第12話 JOKER
+
+## 書誌情報
+
+  - [野村あきこ](../Page/野村あきこ.md "wikilink")『JOKER』[講談社](../Page/講談社.md "wikilink")〈[講談社コミックスなかよし](https://ja.wikipedia.org/wiki/講談社コミックスなかよし "wikilink")〉全2巻
+    1.  1998年6月3日発売、ISBN 978-4-06-178890-9\[1\]
+    2.  1998年11月4日発売、ISBN 978-4-06-178904-3\[2\]
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 外部リンク
+
+[Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:なかよし本誌の漫画作品](https://ja.wikipedia.org/wiki/Category:なかよし本誌の漫画作品 "wikilink") [Category:音楽漫画](https://ja.wikipedia.org/wiki/Category:音楽漫画 "wikilink") [Category:ロックを題材とした作品](https://ja.wikipedia.org/wiki/Category:ロックを題材とした作品 "wikilink")
+
+1.
+2.

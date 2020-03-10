@@ -1,0 +1,67 @@
+> この記事は[Varnish](https://ja.wikipedia.org/wiki/Varnish)から翻訳されています。
+
+
+**varnish〜キレイのサプリ〜**（ヴァーニッシュ）は、「varnish」と言う架空の男性専用の[エステティックサロン](https://ja.wikipedia.org/wiki/エステティックサロン "wikilink")を舞台にそこに勤める従業員（[エステティシャン](https://ja.wikipedia.org/wiki/エステティシャン "wikilink")）が繰り広げるエステティックコメディーで、ドラマCDとコミックで展開されている、メディアミックス作品である。
+
+## 作品概要
+
+  - メンズエステ「varnish」、そこのエステティシャンは個性豊か過ぎるものの確実に成果をしているエステサロンである。彼らにかかれば身体の悩みは必ず解決する、今日もまた迷える子羊がこのエステサロンに顔を出す、自分の悩みを解決する為に…。
+  - ドラマCDが全3巻でリリースされている。また『[月刊ウィングス](https://ja.wikipedia.org/wiki/月刊ウィングス "wikilink")』（[新書館](https://ja.wikipedia.org/wiki/新書館 "wikilink")）にてコミックも不定期で連載されている。
+
+## 登場人物
+
+（※）キャストはドラマCDからのもの
+
+  - 兵庫仁　（ひょうご じん）
+    [声](../Page/声優.md "wikilink")：[櫻井孝宏](https://ja.wikipedia.org/wiki/櫻井孝宏 "wikilink")
+    varnish指名No.1、エステティシャンとしての腕は一流で確実に成果を出しているが、口が悪くスパルタでものすごく短気な性格で少しナルシストの気がある為客や孝太、店の物まで巻き込まれている、客は一度逃げ出すものの次の日以降に戻って来ている（その背景にはオーナーや他の従業員がフォローに入っている）。名字の由来は[兵庫県](../Page/兵庫県.md "wikilink")から。
+  - 宮城潤一 （みやぎ じゅんいち）
+    声：[遊佐浩二](https://ja.wikipedia.org/wiki/遊佐浩二 "wikilink")
+    varnish指名No.2、仁とは違い口調は丁寧でその美貌から性格の優しさを醸し出しているが、その裏にはものすごく毒舌でサディストな部分を隠している。仁には少し及ばないがエステティシャンとしてなかなかのものである。しかしマッサージをしている時に客が苦悶している表情を見るのが好きな迷惑な部分がありその時の笑い声はものすごくアブナイ…、店長曰くサディストな部分がなければ仁と指名度を張れるらしい。名字の由来は[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")から。
+  - 宇都宮孝太 （うつのみや こうた）
+    声：[宮田幸季](https://ja.wikipedia.org/wiki/宮田幸季 "wikilink")
+    varnish指名No.3、いつも明るく元気な青年だが一言多くいつも仁から制裁をくらっている、しかしそれでも歯に衣着せぬ性格でめげずに抵抗する。口調からして体育会系で愛すべきおバカであり、その部分が憎めない得な性格でその部分が客には大人気である。家族構成が両親と姉2人と妹2人おり姉妹から良いように扱われており、客からの依頼を断れない損な性格の持ち主でもある。名字の由来は[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")の県庁所在地である[宇都宮市](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")から。
+  - 安芸祥平 （あき しょうへい）
+    声：[浪川大輔](https://ja.wikipedia.org/wiki/浪川大輔 "wikilink")
+    varnish指名No.4、varnishメンバーの中では一番の若手で宮城と同じく口調が丁寧だが、宮城と違い可愛い感じの癒し系だが、かなり天然でおっとりしておりすぐに色んな事に感動してしまうと言うものすごく純粋な性格。唯一の欠点はブレンドする[ハーブティー](https://ja.wikipedia.org/wiki/ハーブティー "wikilink")の作る腕が壊滅的な事でありそれを飲んだ客はすぐに気絶してしまうほどで従業員達もその被害に遭っている。名字の由来は[高知県](../Page/高知県.md "wikilink")の[安芸市](https://ja.wikipedia.org/wiki/安芸市 "wikilink")から。
+  - 加賀毅 （かが つよし）
+    声：[東地宏樹](https://ja.wikipedia.org/wiki/東地宏樹 "wikilink")
+    varnishの店長、かつてvarnishのエステティシャンだった。現在は店長に出世した為その腕を奮うことは滅多に無いがその腕はゴッドハンドと呼ばれるほど超一流だったらしい。店長となった今ではメンバーの管理とメンバーや客にトラブルに追われ頭を抱える日々である。名字の由来は[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")の[加賀市](https://ja.wikipedia.org/wiki/加賀市 "wikilink")から。
+  - 木更津隆 （きさらづ たかし）
+    声：[小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink")
+    varnishのオーナー、いつもやっかいのお客を拾ってきては店長や従業員達を無意識に振りまわす、一番のトラブルメーカー、仁もこのオーナーにだけは頭が上がらない。varnishの定例ミーティングにも顔を出している。名字の由来は[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")の[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")から。
+  - 西川光輝 （にしかわ こうき）
+    声：[緑川光](../Page/緑川光.md "wikilink")
+    失恋して泣いていた所を木更津に拾われvarnishの客となる、その後向きな性格から彼女にフラれ続けておりそのストレスで何十キロも体重が増えてしまう。或る意味varnishメンバーからの一番の被害に遭っているキャラクター。
+  - 二階堂歩 （にかいどう あゆむ）
+    声：[千葉進歩](https://ja.wikipedia.org/wiki/千葉進歩 "wikilink")
+    varnishの客、一度仁を指名しあまりの痛みに耐え切れず仁に追い出されたが再び仁の下に戻り何回か施術を受けているうちに、肌を若くすることに成功して依頼仁のその腕前に惚れ込み超が付くほどのマゾな客になった。
+  - 結木貴史 （ゆうき たかふみ）
+    声：[大川透](https://ja.wikipedia.org/wiki/大川透 "wikilink")
+    vol.2から登場するvarnishの客、木更津が拾い加賀考案の特別メニューに参加するが、身体中にセルライトが肥大していて感覚がすっかり麻痺し感情表現がものすごく乏しい為、他のエステサロンもさじを投げた客。
+  - 留萌千歳 （るもい ちとせ）
+    声：[杉田智和](https://ja.wikipedia.org/wiki/杉田智和 "wikilink")
+    vol.2から登場する仁と同期のエステティシャン、仁が唯一名前で呼ぶほど仲が良いと思われるが詳細は不明である。名字の由来は[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[留萌市](../Page/留萌市.md "wikilink")と[千歳市](../Page/千歳市.md "wikilink")から。
+
+## 漫画
+
+キャラクターデザインを手掛ける麻々原絵里依によって、『[月刊ウィングス](https://ja.wikipedia.org/wiki/月刊ウィングス "wikilink")』（[新書館](https://ja.wikipedia.org/wiki/新書館 "wikilink")刊）で2007年7月号から連載開始される。
+
+## ドラマCD
+
+  - varnish～キレイのサプリ～Vol.1（2007年5月25日発売）
+  - varnish～キレイのサプリ～Vol.2（2007年8月24日発売）
+  - varnish～キレイのサプリ～Vol.3（2007年11月30日発売）
+
+### スタッフ
+
+  - 原作：直江梨緒
+  - キャラクターデザイン：麻々原絵里依
+  - 脚本：鷹村コージ
+  - プロデュース：渡辺圭子
+
+## 外部リンク
+
+  - [ドラマ販売元による公式サイト](http://rio-cd.com/varnish/)
+
+[Category:美容を題材とした作品](https://ja.wikipedia.org/wiki/Category:美容を題材とした作品 "wikilink") [Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:月刊ウィングス](https://ja.wikipedia.org/wiki/Category:月刊ウィングス "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink")

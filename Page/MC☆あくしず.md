@@ -1,0 +1,273 @@
+> この記事は[MC](https://ja.wikipedia.org/wiki/MC)から翻訳されています。
+
+
+『**MC☆あくしず**』（エムシー あくしず）とは[イカロス出版](https://ja.wikipedia.org/wiki/イカロス出版 "wikilink")刊の『[MILITARY CLASSICS](https://ja.wikipedia.org/wiki/MILITARY_CLASSICS "wikilink")』（ミリタリー・クラシックス。以下『MC』『ミリクラ』）から派生した季刊誌である。[ミリタリー](../Page/軍事.md "wikilink")[雑誌](../Page/雑誌.md "wikilink")としては初めて「[萌え要素](https://ja.wikipedia.org/wiki/萌え要素 "wikilink")」を前面に大きく押し出した紙面構成。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月20日](../Page/6月20日.md "wikilink")創刊。
+
+## 概要
+
+編集部の暴走によって明らかに[萌え](../Page/萌え.md "wikilink")雑誌の方向へ傾いていた『MC』本誌から萌え要素を追放するという名目で分冊された形で\[1\]創刊されている。[島田フミカネ](../Page/島田フミカネ.md "wikilink")、[じじ](https://ja.wikipedia.org/wiki/じじ_\(イラストレーター\) "wikilink")、[野上武志](https://ja.wikipedia.org/wiki/野上武志 "wikilink")、[松田未来](https://ja.wikipedia.org/wiki/松田未来 "wikilink")など以前から本誌に寄稿していたミリタリーに造詣深い[萌え絵師](https://ja.wikipedia.org/wiki/萌え絵師 "wikilink")らの多くも同誌への連載を開始した。
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")発売のVol.5にて『MC』から独立創刊した。同時に発売日も（発売月の）20日から21日に変更された。
+
+タイトルの「あくしず」とは「枢軸」という意味で、大戦中[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")や[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")が「[枢軸国](../Page/枢軸国.md "wikilink")」であった事に由来する。『[機動戦士Ζガンダム](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム "wikilink")』等に登場する小惑星基地および組織の[アクシズ](../Page/アクシズ.md "wikilink")とは、語源が同じだけで無関係である。また枢軸びいきではあるが[連合国側や現用の兵器](../Page/連合国_\(第二次世界大戦\).md "wikilink")、軍事情報も扱う。
+
+## 特徴
+
+保利ケンスケによれば、本誌発刊以前、ミリタリー趣味は「筋骨隆々とした（=[マッチョ](https://ja.wikipedia.org/wiki/マッチョ "wikilink")な）オトコが中心で、ちょっとむさ苦しい」というイメージさえ浸透していたと評している。そのような状況でイカロス出版が萌え路線に手を出した契機としては『萌えよ\!戦車学校』の出版が挙げられており、同社の浅井太輔によれば若年層の軍事ファン予備軍をターゲットとした旨が述べられている\[2\]。一方、斎藤雅道によれば2003年頃より漫画、アニメ分野以外で萌えを取り入れた出版ブームが発生したが、大半は一発モノであった。その中で雑誌として生き残った唯一の例と評している\[3\]。
+
+特徴としては下記が指摘されている\[4\]。
+
+  - 紙面内容はどちらかと言うとミリタリー初心者向けであり、通常のミリタリー紙では省かれる用語解説なども毎号丁寧に説明されている。
+  - 戦艦を[美少女](../Page/美少女.md "wikilink")キャラに[擬人化](../Page/擬人化.md "wikilink")し、排水量を[バスト](https://ja.wikipedia.org/wiki/バスト "wikilink")に置き換えて解説
+  - [ツィタデレ作戦](https://ja.wikipedia.org/wiki/ツィタデレ作戦 "wikilink")を「[ツンデレ](https://ja.wikipedia.org/wiki/ツンデレ "wikilink")―」と、ビルマ航空戦を“**[ブルマ](https://ja.wikipedia.org/wiki/ブルマ "wikilink")**―”と、言い換える
+  - 表紙は必ず、官帽やヘルメットを被っていながらワンピースやビキニの水着姿の、二次元美少女（[萌え絵](https://ja.wikipedia.org/wiki/萌え絵 "wikilink")。但し通常の萌え絵と異なり肉感的）キャラクターが描かれる
+
+上記のような表現はふざけでなされたものであるが、資料収集は同社の普通の軍事雑誌と同程度のリソースが割かれている\[5\]。このような内容にも拘らず、[有害図書](https://ja.wikipedia.org/wiki/有害図書 "wikilink")扱いにはなっておらず、書店では「趣味」「アニメ」の棚に陳列されていることが多い（もっとも他のアニメ雑誌同様、立ち読みが出来ないようにシュリンクパックがされている店もある）。
+
+斉藤によれば読者層として
+
+  - アニメの作中などに登場する実在兵器から興味を持つ人
+  - 元々ミリオタで自分の好きな兵器がアニメで動いているとアニメにも興味を持た人
+
+などを取り込んだことが本誌成功の要因であると分析している\[6\]。
+
+[秋葉系](https://ja.wikipedia.org/wiki/秋葉系 "wikilink")に受けているという評価も見られる\[7\]。
+
+創刊当初は過激なお色気要素やフェティッシュ描写を含むイラストや誌面が構成されていたが、2000年代末頃から徐々にそれら過激かつ尖鋭的な描写は鳴りを潜めていき、替わって同誌の連載陣や関係者の多くが制作に関わるアニメ『[ストライクウィッチーズ](https://ja.wikipedia.org/wiki/ストライクウィッチーズ "wikilink")』や『[ガールズ&パンツァー](https://ja.wikipedia.org/wiki/ガールズ&パンツァー "wikilink")』の特集やピンナップが多く組まれることとなった。
+
+## 巻頭特集
+
+毎号の巻頭特集は、主に解説の文章パートと[美少女](../Page/美少女.md "wikilink")を用いた[萌え擬人化](https://ja.wikipedia.org/wiki/萌え擬人化 "wikilink")兵器（≒[戦闘美少女](https://ja.wikipedia.org/wiki/戦闘美少女 "wikilink")）などのイラストパートに分かれている。文章パートは比較的真面目な内容だがイラストパートは各絵師の妄想全開で描かれる傾向にあり（しかも萌え系）、さらに巻を追うごとにエスカレートしている。解説パートには、進行役のキャラとして『[萌えよ\!戦車学校](https://ja.wikipedia.org/wiki/萌えよ!戦車学校 "wikilink")』『[はつ恋連合艦隊](https://ja.wikipedia.org/wiki/はつ恋連合艦隊 "wikilink")』などのイカロス出版の「萌え+ミリタリー」[書籍](https://ja.wikipedia.org/wiki/書籍 "wikilink")のキャラクターが使用されることも多い（それら書籍、[ムックの宣伝も兼ねている](https://ja.wikipedia.org/wiki/ムック_\(出版\) "wikilink")）。
+
+テーマは「[ティーガーI](https://ja.wikipedia.org/wiki/ティーガーI "wikilink")」など特定の兵器、「[真珠湾攻撃](../Page/真珠湾攻撃.md "wikilink")」など戦史上の著名な出来事に参加した兵器、「日本の[航空母艦](../Page/航空母艦.md "wikilink")」など一定のカテゴリーで括った兵器群・兵器体系など様々である。上述のように「[ビルマ航空戦](https://ja.wikipedia.org/wiki/ビルマ航空戦 "wikilink")」→「[ブルマ](https://ja.wikipedia.org/wiki/ブルマ "wikilink")航空戦」、「[ツィタデレ作戦](https://ja.wikipedia.org/wiki/ツィタデレ作戦 "wikilink")」→「[ツンデレ](https://ja.wikipedia.org/wiki/ツンデレ "wikilink")作戦」など[駄洒落](https://ja.wikipedia.org/wiki/駄洒落 "wikilink")を織り込んだテーマも多い。
+
+イラストパートで描かれた「擬人化美少女キャラ」は使い捨てではなく後の号の特集や連載記事などで再登場したり\[8\]、最近ではグッズ展開も数々企画されている。
+
+有名な戦闘を扱ったテーマの時、「クロスレビュー」と称して横軸に参加兵器、縦軸に著名な軍人をモデルにしたキャラクターをレビュアーとして配し各兵器に点数をつけるコーナーが設けられることがある。元ネタは『[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の新作ゲームレビュー。
+
+副題は[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")などにちなむものが多い。
+
+### 特集一覧
+
+  - Vol.1「重戦車ティーガーI」 表紙・島田フミカネ
+    戦車界のヒーローとして名高い[ティーガーI](https://ja.wikipedia.org/wiki/ティーガーI "wikilink")（タイガー戦車）を解説する。
+      - 参加絵師／野上武志、重戦車工房 他
+      - 文章執筆／なし
+  - Vol.2「ドキッ☆ブルマだらけの空戦大会・ビルマ航空戦\!\!」 表紙・野上武志
+    ビルマ航空戦に参戦した[戦闘機](../Page/戦闘機.md "wikilink")・[爆撃機](../Page/爆撃機.md "wikilink")を[ブルマ](https://ja.wikipedia.org/wiki/ブルマ "wikilink")を穿いた[美少女](../Page/美少女.md "wikilink")にして解説する。副題は『[ドキッ\!丸ごと水着\!女だらけの水泳大会](https://ja.wikipedia.org/wiki/アイドル水泳大会 "wikilink")』から。
+      - 参加絵師／[山本七式](https://ja.wikipedia.org/wiki/山本七式 "wikilink")、じじ、重戦車工房、野上武志、[宇佐見遥](https://ja.wikipedia.org/wiki/宇佐見遥 "wikilink")、越阪部俊之
+      - 文章執筆／[内田弘樹](https://ja.wikipedia.org/wiki/内田弘樹 "wikilink")
+  - Vol.3「零（れい）ちゃんといっしょに戦（や）ろうよっ\!」 表紙・島田フミカネ
+    [ゼロ戦を](https://ja.wikipedia.org/wiki/零式艦上戦闘機 "wikilink")「血統の良い、[お嬢様](https://ja.wikipedia.org/wiki/お嬢様 "wikilink")戦闘機」と捉え、バリエーションを交えて解説する。副題は『[姉、ちゃんとしようよっ\!](https://ja.wikipedia.org/wiki/姉、ちゃんとしようよっ! "wikilink")』から。
+      - 参加絵師／じじ、野上武志、重戦車工房、[藤沢孝](https://ja.wikipedia.org/wiki/藤沢孝 "wikilink")、上田梯子、田村萌雄
+      - 文章執筆／[佐原晃](https://ja.wikipedia.org/wiki/佐原晃 "wikilink")、内田弘樹
+  - Vol.4「空母な姉さんは好きですか?」 表紙・野上武志
+    旧日本軍、[連合艦隊](../Page/連合艦隊.md "wikilink")の空母を「お姉さんキャラ」に擬人化して解説する。上記「萌え戦」の乃木真香はこの特集の解説パートでデビューした。空「母」だけに「母親・人妻・子持ちキャラ（乃木典子の母）」という訳である。副題はパナソニック・エステジェンヌシリーズ「[きれいなおねえさん](https://ja.wikipedia.org/wiki/きれいなおねえさん "wikilink")」から。
+      - 参加絵師／野上武志、重戦車工房、[こがしゅうと](https://ja.wikipedia.org/wiki/こがしゅうと "wikilink")、宇佐見遥、藤沢孝、じじ、蒔島梓
+      - 文章執筆／内田弘樹、深闇文貴
+  - Vol.5「始動、ツン（ツィタ）デレ作戦」 表紙・じじ
+    クルスク大戦車戦（[ツィタデレ作戦](https://ja.wikipedia.org/wiki/ツィタデレ作戦 "wikilink")）に参戦したドイツ・[ソ連戦車を](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")「[ツンデレ](https://ja.wikipedia.org/wiki/ツンデレ "wikilink")[美少女](../Page/美少女.md "wikilink")」にして解説する。
+      - 参加絵師／野上武志、上田梯子、じじ、藤沢孝、重戦車工房、蒔島梓、宇佐見遥、[おぐし篤](https://ja.wikipedia.org/wiki/おぐし篤 "wikilink")、[天之有](https://ja.wikipedia.org/wiki/天之有 "wikilink")
+      - 文章執筆／内田弘樹、深闇文貴
+  - Vol.6「F-Xは俺の嫁だろ、常識的に考えて」 表紙・宇佐美遥
+    [航空自衛隊](../Page/航空自衛隊.md "wikilink")などで採用される次世代戦闘機「[F-X](https://ja.wikipedia.org/wiki/F-X_\(航空自衛隊\) "wikilink")」の候補になった「[F-22](https://ja.wikipedia.org/wiki/F-22_\(戦闘機\) "wikilink")」などの解説。副題は「[俺の嫁](https://ja.wikipedia.org/wiki/俺の嫁 "wikilink")」から。
+      - 参加絵師／宇佐見遥 他
+      - 文章執筆／なし
+  - Vol.7「日本戦艦は箱入り娘?\!」 表紙・野上武志
+    [大和をはじめとする](../Page/大和_\(戦艦\).md "wikilink")[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")時の日本の戦艦を「箱入り娘のお嬢様」と捉えて解説。
+      - 参加絵師／野上武志、こがしゅうと、[まもウィリアムズ](https://ja.wikipedia.org/wiki/まもウィリアムズ "wikilink")、田村萌雄、じじ、藤沢孝、重戦車工房、宇佐見遥、天之有、[桐緒](https://ja.wikipedia.org/wiki/桐緒 "wikilink")
+      - 文章執筆／内田弘樹、[鈴木貴昭](https://ja.wikipedia.org/wiki/鈴木貴昭 "wikilink")
+  - Vol.8「九七式中戦車チハはせつなくて敵陣を思うとすぐ躍進射しちゃうの」 表紙・じじ
+    旧日本軍の[主力戦車](../Page/主力戦車.md "wikilink")「[九七式中戦車](../Page/九七式中戦車.md "wikilink")」（愛称「チハたん」）をバリエーションを交えて解説する。副題は『[恋する妹はせつなくてお兄ちゃんを想うとすぐHしちゃうの](https://ja.wikipedia.org/wiki/恋する妹はせつなくてお兄ちゃんを想うとすぐHしちゃうの "wikilink")』から。
+      - 参加絵師／じじ、上田梯子、田村紀雄、藤沢孝、重戦車工房、[K.G.bros](https://ja.wikipedia.org/wiki/K.G.bros "wikilink")、宇佐見遥、おぐし篤
+      - 文章執筆／[堀場亙](https://ja.wikipedia.org/wiki/堀場亙 "wikilink")、内田弘樹、[山下次郎](https://ja.wikipedia.org/wiki/山下次郎 "wikilink")、市ヶ谷橋魔法☆商店街
+  - Vol.9「ドイツ本土防空戦・[B-17に](https://ja.wikipedia.org/wiki/B-17_\(航空機\) "wikilink")\!ロケット弾撃ったら逃がさないっ\!」 表紙・重戦車工房
+    [東部戦線](../Page/東部戦線.md "wikilink")の[ドイツ本土防空戦](https://ja.wikipedia.org/wiki/ドイツ本土防空戦 "wikilink")と、参戦した戦闘機・爆撃機などの解説。副題は『[妹に\!スク水着せたら脱がさないっ\!](https://ja.wikipedia.org/wiki/妹に!スク水着せたら脱がさないっ! "wikilink")』から。
+      - 参加絵師／上田梯子、じじ、[竿尾悟](https://ja.wikipedia.org/wiki/竿尾悟 "wikilink")、藤沢孝、重戦車工房、宇佐見遥、天之有、[波紋愛](https://ja.wikipedia.org/wiki/波紋愛 "wikilink")、おぐし篤
+      - 文章執筆／堀場亙、内田弘樹、市ヶ谷橋魔法☆商店街
+  - Vol.10「真珠湾攻撃トラ・トラ・トラ\!」 表紙・宇佐美遥
+    [真珠湾攻撃](../Page/真珠湾攻撃.md "wikilink")と、参戦した日本空母・[艦載機](https://ja.wikipedia.org/wiki/艦載機 "wikilink")などの解説。
+      - 参加絵師／野上武志、まもウィリアムズ、上田梯子、じじ、藤沢孝、重戦車工房、宇佐見遥、天之有、[そうかあ](https://ja.wikipedia.org/wiki/そうかあ "wikilink")
+      - 文章執筆／内田弘樹
+  - Vol.11「陸自の戦車がこんなに可愛いわけがない」 表紙・野上武志
+    [陸上自衛隊](../Page/陸上自衛隊.md "wikilink")の、戦車の歴史や運用法、[90式戦車](../Page/90式戦車.md "wikilink")までの歴代戦車、さらに次世代戦車の「[TK-X](https://ja.wikipedia.org/wiki/10式戦車 "wikilink")」などの解説。副題は『[俺の妹がこんなに可愛いわけがない](https://ja.wikipedia.org/wiki/俺の妹がこんなに可愛いわけがない "wikilink")』から。
+      - 参加絵師／じじ、野上武志、上田梯子、藤沢孝、重戦車工房、天之有、K.G.bros
+      - 文章執筆／堀場亙、内田弘樹、[鈴崎利治](https://ja.wikipedia.org/wiki/鈴崎利治 "wikilink")
+  - Vol.12「太平洋戦線1945 最強戦闘機GRAND PRIX」 表紙・藤沢孝
+    第二次世界大戦末期の、日米両軍の戦闘機の解説。
+      - 参加絵師／宇佐見遥、じじ、[S.Z.3](https://ja.wikipedia.org/wiki/S.Z.3 "wikilink")、野上武志、上田梯子、重戦車工房、まもウィリアムズ、K.G.bros
+      - 文章執筆／内田弘樹、[有馬桓次郎](https://ja.wikipedia.org/wiki/有馬桓次郎 "wikilink")、[金子賢一](https://ja.wikipedia.org/wiki/金子賢一 "wikilink")
+  - vol.13「cagayake\! 海自の新鋭護衛艦&潜水艦」 表紙・重戦車工房
+    海自の護衛艦と潜水艦についての解説。副題は『[けいおん\!](https://ja.wikipedia.org/wiki/けいおん! "wikilink")』の派生CD「Cagayake\!GIRLS」から。
+      - 参加絵師／[上田信](https://ja.wikipedia.org/wiki/上田信_\(イラストレーター\) "wikilink")、野上武志、じじ、藤沢孝、宇佐美遥、重戦車工房、天之有、竿尾悟、まもウィリアムズ、こがしゅうと
+      - 文章執筆／堀場亙、[伊吹秀明](https://ja.wikipedia.org/wiki/伊吹秀明 "wikilink")
+  - vol.14「砂漠のキツネ娘ロンメルと北アフリカ戦車戦」 表紙・上田梯子
+    ドイツ国防軍の将軍、[ロンメルを少女化し](https://ja.wikipedia.org/wiki/エルヴィン・ロンメル "wikilink")、北アフリカ戦線の戦闘や使用された戦車について解説する。
+      - 参加絵師／じじ、藤沢孝、宇佐美遥、重戦車工房、itou、野上武志、天之有、S.Z.3、まもウィリアムズ、K.G.bros
+      - 文章執筆／堀場亙、内田弘樹
+  - vol.15「そらをまもるものたち 航空自衛隊の戦闘機&支援機」 表紙・じじ
+    航空自衛隊で運用されている航空機についての解説。F-Xの最新情報も掲載されている。副題は『[エルフを狩るモノたち](https://ja.wikipedia.org/wiki/エルフを狩るモノたち "wikilink")』から。
+      - 参加絵師／上田信、じじ、野上武志、宇佐見遥、藤沢孝、重戦車工房、S.Z.3、まもウィリアムズ、K.G.bros
+      - 文章執筆／堀場亙、伊吹秀明、浜田一穂
+  - vol.16「伊号潜水艦の水着が有頂天でとどまる事を知らない」 表紙・（宇佐見遥改め）US@MYO
+    太平洋戦争中に日本海軍で活躍した潜水艦についての解説。副題は『[オレの妹のエロさが有頂天でとどまる事を知らない](../Page/ZERO_\(ブランド\).md "wikilink")』から。
+      - 参加絵師／じじ、藤沢孝、野上武志、US@MYO、重戦車工房、S.Z.3、まもウィリアムズ、おぐし篤、こがしゅうと、峠タカノリ
+      - 文章執筆／堀場亙、伊吹秀明、三八式しゅしゅしゅ銃
+  - vol.17「本当はヘタレじゃない?イタリア軍入門」 表紙・藤沢孝
+    第二次世界大戦中のイタリア軍についての解説。副題は『[ヘタリア](https://ja.wikipedia.org/wiki/ヘタリア "wikilink")』から。
+      - 参加絵師／野上武志、じじ、藤沢孝、US@MYO、重戦車工房、竿尾悟、S.Z.3、K.G.bros、おぐし篤、峠タカノリ
+      - 文章執筆／堀場亙、伊吹秀明、吉川和篤、三八式しゅしゅしゅ銃
+  - vol.18「世界の最新戦車にゃんペロペロ（^ω^）」 表紙・野上武志
+    10式戦車、[レオパルド2A6](https://ja.wikipedia.org/wiki/レオパルト2 "wikilink")、[M1A2エイブラムスなど世界の最新第](../Page/M1エイブラムス.md "wikilink")3.5世代戦車を解説。副題は[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")での定番レスポンス「あずにゃんペロペロ（＾ω＾）」から。
+      - 参加絵師／じじ、重戦車工房、US@MYO、藤沢孝、野上武志、S.Z.3、まもウィリアムズ、柏餅よもぎ、おぐし篤、峠タカノリ
+      - 文章執筆／堀場亙、有馬桓次郎、三八式しゅしゅしゅ銃
+
+以下、2019年12月現在、第55号まで刊行。
+
+## 主な連載・コーナー
+
+  - 萌えよ\!戦車学校〜戦史編〜
+    （文／[田村尚也](https://ja.wikipedia.org/wiki/田村尚也 "wikilink") 漫画・イラスト／野上武志 図版／[田村紀雄](https://ja.wikipedia.org/wiki/田村紀雄 "wikilink")）
+    「萌え+ミリタリー」本の嚆矢『萌えよ\!戦車学校』を連載化したもの。「戦史編」と題して第二次世界大戦中の戦車戦のエピソードを紹介する。漫画パート（および文章パートの挿絵）ではキャラたちがエピソード中の登場人物に扮する。のちに『萌えよ\!戦車学校III型』として単行本化された。現在（2009年2月）も単行本化企画中。また、キャラの1人「乃木典子」は『萌えよ\!陸自学校』刊行の布石として先にこちらでデビューした。
+    キャラクターの詳しい紹介については「[萌えよ\!戦車学校](https://ja.wikipedia.org/wiki/萌えよ!戦車学校 "wikilink")」の項を参照。
+  - ワールド・バトルフィールド・サテライト（WBS）
+    （文／[伊藤龍太郎](https://ja.wikipedia.org/wiki/伊藤龍太郎 "wikilink") 他 イラスト／[重戦車工房](https://ja.wikipedia.org/wiki/重戦車工房 "wikilink")、[上田梯子](https://ja.wikipedia.org/wiki/上田梯子 "wikilink") 他）
+    ニュース番組の体裁で、毎回特定の年・季節に世界各地で起きた戦闘（例：[1940年](../Page/1940年.md "wikilink")秋なら[支那事変](https://ja.wikipedia.org/wiki/支那事変 "wikilink")におけるゼロ戦デビュー、[イタリア軍](https://ja.wikipedia.org/wiki/イタリア軍 "wikilink")の[ギリシャ侵攻](https://ja.wikipedia.org/wiki/ギリシャの戦い "wikilink") 等）を解説する。元ネタは[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")のニュース番組『[ワールドビジネスサテライト](../Page/ワールドビジネスサテライト.md "wikilink")』。各記事はそれぞれ文章・絵ともに複数のライター・絵師に割り当てられており、巻頭特集に負けず劣らず「真面目な解説・過激な萌え絵」の傾向を示している。初期は戦闘の当事者（含む、擬人化兵器）にインタビュアーが付いていた。
+  - 空軍大戦略\!〜ふぁいてぃんぐ☆うぃんぐす〜
+    （漫画／松田未来 解説／[山口進](https://ja.wikipedia.org/wiki/山口進 "wikilink") 図面／田村紀雄）
+    第二次大戦中の旧日本軍（陸軍・海軍）の戦闘機（のちに爆撃機なども）を解説する。話題によっては、その敵役の[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")やドイツの機体も登場する。2009年2月、『日本陸海軍戦闘機編』として単行本化。その他、同じ絵師で文章を田村尚也が担当した『萌えよ\!空戦学校』という書籍も存在する。
+    現在、本誌連載分までが随時単行本化。
+  - ばとしす（Battleship Sisters\!）
+    （テキスト／[鈴木貴昭](https://ja.wikipedia.org/wiki/鈴木貴昭 "wikilink")（深闇文貴） イラスト・キャラクターデザイン／[しのづかあつと](https://ja.wikipedia.org/wiki/しのづかあつと "wikilink")）
+    連載小説。[擬人化](../Page/擬人化.md "wikilink")された12隻の[日本海軍の](../Page/大日本帝国海軍.md "wikilink")[戦艦](https://ja.wikipedia.org/wiki/戦艦 "wikilink")がヒロイン。女子高「**[古鷹（ふるたか）女学園](https://ja.wikipedia.org/wiki/海軍兵学校_\(日本\) "wikilink")**」の代用教官として赴任した[山本悟郎は](https://ja.wikipedia.org/wiki/山本五十六 "wikilink")、生徒会「**[水交会](https://ja.wikipedia.org/wiki/水交会 "wikilink")**」の12人のメンバーたちからなぜか「お兄ちゃん」と呼ばれてしまう。どうやら彼女達は悟郎の過去にまつわる秘密があるらしいのだが、悟郎には分からない。他にも「海の女王」などの多くの謎を抱えたまま、悟郎と生徒たちとの学校生活が始まった\[9\]。
+  - シャル&ゼナ劇場
+    （漫画／じじ）
+    1Pマンガ。双子の魔法少女[シャル](../Page/シャルンホルスト_\(戦艦\).md "wikilink")&[ゼナと](../Page/グナイゼナウ_\(戦艦\).md "wikilink")、他の（特集記事でじじがデザインした）兵器少女たち（ティーガーIなど）の織り成すドタバタ。当初は穴埋めとして製作されたらしく、「とっぱつページ」として正式タイトルが付いていなかった。
+  - 蒼穹の女神 WWI飛行機教室
+    （文／[すずきあきら](https://ja.wikipedia.org/wiki/鈴木ドイツ "wikilink") イラスト／[がんぽん](https://ja.wikipedia.org/wiki/がんぽん "wikilink")）
+    [ライトノベル](../Page/ライトノベル.md "wikilink")『[蒼穹の女神](https://ja.wikipedia.org/wiki/蒼穹の女神 "wikilink")』シリーズのキャラたちをナビゲート役に、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")（WWI）に活躍した軍用航空機を紹介する。Vol.1・2では『蒼穹の女神 111ヤークトシュタッフェル』と『蒼穹の女神II アドラーアングリフオペラツィオン』の間のエピソードを描く外伝小説を掲載していた。同小説には、実在の戦闘機が多数登場する。
+      - 戦乙女（わるきゅーれ）のWWI兵器教室
+        （文／すずきあきら イラスト／[S.Z.3](https://ja.wikipedia.org/wiki/S.Z.3 "wikilink")）
+        航空機の紹介が終わったため、キャラクターを一新してリニューアルした。第一次世界大戦の戦車を取り上げる。その後は艦船も取り上げる予定。
+  - 放課後ワールドウォー（WW）
+    （文／[銅大](https://ja.wikipedia.org/wiki/銅大 "wikilink") イラスト・キャラクターデザイン／[とんぷう](https://ja.wikipedia.org/wiki/とんぷう "wikilink")）
+    「強い女性」を育てる[関東](../Page/関東.md "wikilink")の名門校、忍（おし）女学院の「**世界大戦研究会**」のメンバーが過去に実際に起こった戦争（第二次世界大戦、[日露戦争](../Page/日露戦争.md "wikilink")）の当事者である国家になり切るロールプレイ（役割演技）を通して、「なぜそのような行動を起こしたか」などの国家戦略について解説する。メンバーの少女達はそれぞれ当時の国家元首や軍の最高責任者の名前を名乗るため、本名は不明（日本担当のみ戦時中に[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")が頻繁に交代したせいか、この限りではない）。
+    Vol.4から、メンバーの紹介文で「**あなた=読者**」とメンバーの少女達とのショートストーリーが入るようになった。
+  - [黒鉄（くろがね）ぷかぷか隊](https://ja.wikipedia.org/wiki/黒鉄ぷかぷか隊 "wikilink")
+    （漫画／[栗橋伸祐](https://ja.wikipedia.org/wiki/栗橋伸祐 "wikilink")）
+    太平洋戦争緒戦、[インド洋](../Page/インド洋.md "wikilink")に送り込まれた[巡洋艦](../Page/巡洋艦.md "wikilink")「**畝傍（うねび）**」は連合軍の海上輸送路を破壊するため[イギリス海軍](../Page/イギリス海軍.md "wikilink")などと戦う。なお「畝傍」は元々が商船を改造した物でさらに正規の乗員が「ある事情」で戦えなくなったため、艦長以外は全員寄せ集めの素人\[10\]でしかも女性\[11\]である。
+    現在、Vol.49連載分までが随時単行本化。
+  - 絶対防空\!まじょ巫女ひそか
+    （漫画／[颯田直斗](https://ja.wikipedia.org/wiki/颯田直斗 "wikilink")）
+    とある神社の巫女・中島密花はある時、蔵にあった古い[箒](https://ja.wikipedia.org/wiki/箒 "wikilink")の「つくも神」の封印を解いてしまう。つくも神は密花に下僕となるよう命じるが、密花はその代わりに本土爆撃に飛来する[B-29](https://ja.wikipedia.org/wiki/B-29 "wikilink")を撃退するよう依頼。つくも神はエンジンと機銃が付いた「**翅箒（はねぼうき）**」に変化、密花の操縦でこれを撃破する。その後も零戦を駆る「少尉」や仲間の巫女たちとドタバタしつつ、日本の空に飛来する敵機と戦っていく。そして、どこからともなく飛来して日本軍の危機を救う彼女達の存在は「まじょ巫女」として次第にあらゆる所で噂となっていく。
+  - 銃（GUN）とれっと
+    （イラスト・CG／[はせ☆裕](https://ja.wikipedia.org/wiki/はせ☆裕 "wikilink") 文／[巫清彦](https://ja.wikipedia.org/wiki/巫清彦 "wikilink")）
+    古今東西の有名な銃を、美少女イラスト（擬人化ではない）を添えて紹介する。のちに同じ絵師で、コミック『**レンジャーっ娘（こ）さんズ**』の連載もスタートした。
+      - ASSAULT☆ANGEL レンジャーっ娘（こ）さんズ
+        （作／はせ☆裕）
+        VOL.10に掲載された読みきり作品『続・レンジャーっ娘さん』が、読者に好評だったため連載化した。[レンジャー](../Page/レンジャー.md "wikilink")部隊の少女隊員達の超人的な活躍（と劇中の銃火器の解説）を描く。元々はVOL.9のピンナップ用のキャラクターだった。
+
+### その他の主な連載
+
+  - 少女艦艇学入門
+    （文／[鈴木貴昭](https://ja.wikipedia.org/wiki/鈴木貴昭 "wikilink")（深闇文貴） イラスト／[蒔島梓](https://ja.wikipedia.org/wiki/蒔島梓 "wikilink")（越阪部俊之））
+    軍の艦艇を「戦艦=女王様」「工作艦=女医さん」など、[萌え擬人化](https://ja.wikipedia.org/wiki/萌え擬人化 "wikilink")で例えつつカテゴリーごとに解説する。
+    現在、本誌連載分までが書籍化。
+  - ミリクラプレビュー\!（MILICLA PREVIEW）
+    （イラスト／[巻田佳春](https://ja.wikipedia.org/wiki/巻田佳春 "wikilink") 図版／[田村萌雄](https://ja.wikipedia.org/wiki/田村萌雄 "wikilink")）
+    次回「ミリクラ」で特集する兵器を、擬人化イラストを添えて先行解説する。巻頭特集などと異なりこのコーナーの擬人化少女はコスチュームに元ネタの兵器の砲塔や翼などのメカパーツが付かず、比較的普通の服装デザインになる事が多い。
+  - ぱすぽん\!（Passed Future Weppons\!）
+    （イラスト・文／[かこいかずひこ](https://ja.wikipedia.org/wiki/かこいかずひこ "wikilink")）
+    計画だけで実用化されなかった兵器、または噂だけが先行してその結果軍事雑誌やプラモメーカーなどで様々な想像図が描かれた兵器を紹介する。
+  - HA・DA・KA軍人列伝
+    （イラスト／[鷲尾直広](https://ja.wikipedia.org/wiki/鷲尾直広 "wikilink") 文／巫清彦）
+    古今東西の「名将」や「エース」と呼ばれた軍人を美少女化して紹介する。タイトルに反して、イラストで裸にされる率は実はそれほど高くない。
+  - MonMon
+    （文／[金子賢一](https://ja.wikipedia.org/wiki/金子賢一 "wikilink")（ヤリタリミン） イラスト／[大藤玲一郎](https://ja.wikipedia.org/wiki/大藤玲一郎 "wikilink")）
+    大戦中の各国の軍服や軍装品、また現代のいわゆる「ミリタリーファッション」などをそれを着用している少女のイラストと共に解説。タイトルは「Militaria of Nations,Moe-ON\!」（萌ゆる諸国家の軍装品学）の略。
+  - ロシア妄想主義概論
+    （イラスト・文／[速水螺旋人](https://ja.wikipedia.org/wiki/速水螺旋人 "wikilink")）
+    「古代からプーチンまでロシア大好き」と公言する作者が、[ロシア](../Page/ロシア.md "wikilink")の軍や文化にまつわるあらゆる物事を取り上げる。
+  - ぱのぷりあ〜
+    （イラスト・文／[希有馬](https://ja.wikipedia.org/wiki/希有馬 "wikilink")）
+    1Pコラム。「古今東西から究極の鎧を探す」をコンセプトに、「騎士の鎧」など実在した戦闘コスチュームを紹介する。巨乳で金髪、ツインテールの**盾ちゃん**と貧乳で黒髪、ショートカットの**矛ちゃん**が実際にその格好をする。盾ちゃんは作者自身の手により、自費製作でフィギュア化された。
+  - 枢軸の絆
+    （文／[内田弘樹](https://ja.wikipedia.org/wiki/内田弘樹 "wikilink") イラスト／[EXCEL](https://ja.wikipedia.org/wiki/EXCEL_\(イラストレーター\) "wikilink")）
+    第二次世界大戦の枢軸国側の国家で、日独伊（日本、ドイツ、イタリア）以外のマイナーな国家（[インド](../Page/インド.md "wikilink")、[バルト三国](../Page/バルト三国.md "wikilink")など）が辿った運命を解説する。筆者曰く「挿絵以外は萌え成分皆無」。同じ執筆陣で[独ソ戦](../Page/独ソ戦.md "wikilink")を解説した本『どくそせん』が出版されている。
+    現在、本誌連載分までが書籍化。
+  - ころ萌（も）がえ研究室
+    （文／[ワダツミ･ガーランド](https://ja.wikipedia.org/wiki/ワダツミ･ガーランド "wikilink") イラスト／[西川魯介](https://ja.wikipedia.org/wiki/西川魯介 "wikilink")）
+    戦車の車体から[突撃砲](../Page/突撃砲.md "wikilink")への改造など、特異な経歴を歩んだ兵器をその変遷を女の子に例えて紹介する。
+    現在、本誌連載分までが書籍化。
+  - 萌ゆる\!妹兵器占いリローデッド
+    （イラスト／野上武志）
+    元々は『MC』の連載だった。いわゆる「十二星座占い」で各星座に陸海空、古今東西、大小様々な兵器を割り当てその兵器にちなんだ運勢を解説する。例：「兄さんは[B-29だよ](../Page/B-29_\(航空機\).md "wikilink")。運気は絶好調だけど、『太った男の人』や『小さな男の子』とは一緒にいないで欲しいな」（B-29が運んだ[原子爆弾](../Page/原子爆弾.md "wikilink")のコードネームが「ファットマン」と「リトルボーイ」だった）。
+
+## メディアミックス
+
+### ドラマCD
+
+本誌での企画として[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")も発売されている\[12\]。タイトルは『MC☆あくしず ドラマCD 美少女兵器 F-Xは俺の嫁\!』。
+
+### ブラウザゲーム
+
+2012年4月5日に『ブラウザ MCあくしず -鋼鉄の戦姫-』がオープン開始され、同年4月17日から正式サービスが開始。2016年3月31日にサービスを終了した。
+
+[MooGGAME](https://ja.wikipedia.org/wiki/MooGGAME "wikilink")のみであったが、[ニコニコアプリ](https://ja.wikipedia.org/wiki/ニコニコアプリ "wikilink")や[Yahoo\!モバゲー](https://ja.wikipedia.org/wiki/Yahoo!モバゲー "wikilink")でも対応した。サービス提供は株式会社マーベラス。
+
+## 逸話
+
+『あくしず』は基本的に男性向けの雑誌なのだが野上と編集者、そして一部の読者を中心に時折ゲリラ的に[腐女子](../Page/腐女子.md "wikilink")向けのネタが出現する。例としてVol.4の読者コーナー「鋼鉄協約」で編集者が「『歴史あくしず』もやってみたいが、ヘタすると[BLネタばかりになる](../Page/ボーイズラブ.md "wikilink")」「じゃあ[栗田と](https://ja.wikipedia.org/wiki/栗田健男 "wikilink")[小沢のB](../Page/小沢治三郎.md "wikilink")-BOYゴールドやりますか?」というネタを振り、それを次の号で読者から「ぜひ見たいです\!」と反響があり、それを受けた野上が「妹兵器占い」で実際に絵にした（無論どちらも美少年化）という具合。
+
+## 関連書籍
+
+  - [萌えよ\!戦車学校](https://ja.wikipedia.org/wiki/萌えよ!戦車学校 "wikilink")シリーズ
+      - 『萌えよ\!陸自学校』 - 文／田村尚也 イラスト／野上武志
+          -
+            元祖萌えミリタリー本。「初代」「II型」「III型」とある。「陸自」は番外編。
+      - 『萌えよ\!空戦学校』 - 文／田村尚也 マンガ／松田未来
+          -
+            古今東西のスター戦闘機を女の子キャラを添えて解説する。
+  - 『どくそせん』 - 文／内田弘樹 イラスト／EXCEL
+      -
+        史上最大・空前絶後の地上戦「[独ソ戦](../Page/独ソ戦.md "wikilink")」を解説する。
+  - 『ドキッv乙女だらけの帝国陸軍入門』 - 文／堀場亙 イラスト／[峠タカノリ](https://ja.wikipedia.org/wiki/峠タカノリ "wikilink")
+      -
+        [日本陸軍の組織](https://ja.wikipedia.org/wiki/旧日本陸軍 "wikilink")・編成・兵器等を解説する。
+  - 『はつ恋連合艦隊』 - 文／[本吉隆](https://ja.wikipedia.org/wiki/本吉隆 "wikilink") イラスト／まもウィリアムズ
+      -
+        明治時代から太平洋戦争までの[日本海軍](../Page/大日本帝国海軍.md "wikilink")、[連合艦隊](../Page/連合艦隊.md "wikilink")の歩みを解説。
+  - 『空軍大戦略〜ふぁいてぃんぐ☆うぃんぐす〜日本陸海軍戦闘機編』 - 文・イラスト／松田未来
+  - 『黒鉄ぷかぷか隊VOL.1』 - 著／栗橋伸祐
+
+## 脚注
+
+<references />
+
+## 関連項目
+
+  - [萌え本](https://ja.wikipedia.org/wiki/萌え本 "wikilink")
+  - [萌え擬人化](https://ja.wikipedia.org/wiki/萌え擬人化 "wikilink")
+  - [萌え萌え2次大戦(略)](https://ja.wikipedia.org/wiki/萌え萌え2次大戦\(略\) "wikilink") - 「MC☆あくしず」に寄稿しているイラストレーターが多数参加。
+  - [メカ少女](https://ja.wikipedia.org/wiki/メカ少女 "wikilink")／[ビキニアーマー](../Page/ビキニアーマー.md "wikilink")
+  - [艦隊これくしょん -艦これ-](https://ja.wikipedia.org/wiki/艦隊これくしょん_-艦これ- "wikilink") - [ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")。ゲームに登場する一部の艦艇が、「MC☆あくしず」に寄稿しているイラストレーター数人により擬人化されている。
+
+## 外部リンク
+
+  - [MC☆あくしずウェブ【公式】](http://www.ikaros.jp/mcaxis/)（[イカロス出版](https://ja.wikipedia.org/wiki/イカロス出版 "wikilink")）
+      - [MC☆あくしずバックナンバー](http://www.ikaros.jp/mcaxis/axis_bn.html)
+
+[Category:日本の雑誌](https://ja.wikipedia.org/wiki/Category:日本の雑誌 "wikilink") [Category:軍事関連の雑誌](https://ja.wikipedia.org/wiki/Category:軍事関連の雑誌 "wikilink") [Category:おたく](https://ja.wikipedia.org/wiki/Category:おたく "wikilink") [Category:萌え本](https://ja.wikipedia.org/wiki/Category:萌え本 "wikilink") [Category:萌え擬人化](https://ja.wikipedia.org/wiki/Category:萌え擬人化 "wikilink") [Category:無機物の擬人化](https://ja.wikipedia.org/wiki/Category:無機物の擬人化 "wikilink") [Category:2006年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2006年創刊の雑誌 "wikilink") [Category:青年漫画雑誌](https://ja.wikipedia.org/wiki/Category:青年漫画雑誌 "wikilink") [Category:季刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:季刊漫画雑誌 "wikilink") [Category:イカロス出版](https://ja.wikipedia.org/wiki/Category:イカロス出版 "wikilink")
+
+1.  とはいうものの、この後も本誌では萌え要素や話題には触れられていたりする。
+2.  保利ケンスケ「[美少女たちがセクシーに戦う 萌え系ミリタリー本が大人気](http://www.j-cast.com/mono/2009/11/24054125.html)」 『[J-CAST](https://ja.wikipedia.org/wiki/J-CAST "wikilink")』2009年11月24日12時13分配信
+3.  [【雅道のサブカル見聞録】 萌え本雑誌 “唯一”の成功者「MC☆あくしず」の魅力とは?](http://npn.co.jp/article/detail/20743857/) 『[リアルライブ](https://ja.wikipedia.org/wiki/リアルライブ "wikilink")』2010年5月10日12時30分配信
+4.
+5.
+6.
+7.  [【カオス通信】「美少女&ミリタリー妄想大作戦」](http://news.livedoor.com/article/detail/3308614/) 『ITライフハック』2006年12月12日0時57分配信
+8.  例として、Vol.4「空母特集」のキャラがVol.10「真珠湾攻撃」のキャラたちの姉妹等として再登場している。
+9.  ニコニコ大百科の当該記事を参照⇒[ばとしす（ニコニコ大百科）](http://dic.nicovideo.jp/a/%E3%81%B0%E3%81%A8%E3%81%97%E3%81%99)
+10. 『[機動戦士ガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム "wikilink")』の初期設定を頂いたもの
+11. 『[超時空要塞マクロス](../Page/超時空要塞マクロス.md "wikilink")』の設定を頂いたもの。マクロスのブリッジクルーは艦長以外全員女性。実は女性は、居住空間の問題もあり原則として[軍艦](../Page/軍艦.md "wikilink")乗組員にはなれないので、絶対にあり得ない。
+12. [クウジの嫁はどの最新美少女兵器? ドラマCD『MC☆あくしず ドラマCD 美少女兵器 F-Xは俺の嫁\!』が4月21日発売\!](http://www.animate.tv/news/details.php?id=1271831463) 2010年4月21日18時45分配信

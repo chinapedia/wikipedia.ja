@@ -1,0 +1,80 @@
+> この記事は[USA](https://ja.wikipedia.org/wiki/USA)から翻訳されています。
+
+
+[Cassidy_Wolf_2012.jpg](https://ja.wikipedia.org/wiki/File:Cassidy_Wolf_2012.jpg "fig:Cassidy_Wolf_2012.jpg")
+
+**ミス・ティーンUSA**（**Miss Teen USA**）は、[ミス・ユニバース機構](https://ja.wikipedia.org/wiki/ミス・ユニバース機構 "wikilink")（Miss Universe Organization）が保有・運営するアメリカの[ミス・コンテスト](https://ja.wikipedia.org/wiki/ミス・コンテスト "wikilink")。
+
+対象年齢は2009大会から引き下げられ、14～18歳（州代表選出大会では、全国大会が開催される頃に14歳以上19歳未満であることが応募条件である）で、ティーンであれば全員が出場できるわけではない。
+
+毎年夏、全米各地で大会が開催され、各州の州大会で優勝した候補者たちが出場する。審査方法は[ミス・ユニバース](https://ja.wikipedia.org/wiki/ミス・ユニバース "wikilink")と同一で、大会の前に事前審査（水着審査・イヴニングガウン審査・面接）を行い、大会当日にその結果を踏まえてTOP15を発表する。この15名が、水着審査・イヴニングガウン審査でTOP5にまで絞られ、5人が最後の質疑応答コーナーに進む。優勝者は[ミス・ユニバース](https://ja.wikipedia.org/wiki/ミス・ユニバース "wikilink")、[ミスUSA](../Page/ミスUSA.md "wikilink")同様Diamond Nexus Labs製の王冠を戴冠されるほか、ミス・ユニバースとほぼ同じデザインのタスキ（サッシュ）が貸与される。
+
+優勝者は、約一年間の在任期間中、[ミス・ユニバース](https://ja.wikipedia.org/wiki/ミス・ユニバース "wikilink")、[ミスUSA](../Page/ミスUSA.md "wikilink")と共にチャリティ活動やイベント出演などを行う。一年間給与が支給されるほか、Diamond Nexus Labs製のティアラ、ヘアケア商品一年分、水着、洋服、靴、3000ドルの賞金、[ニューヨークフィルムアカデミー](https://ja.wikipedia.org/wiki/ニューヨークフィルムアカデミー "wikilink")で学ぶための6万ドルの奨学金、フォトグラファーによる撮影、一年間の皮膚科サービスなど、ほぼ[ミス・ユニバース](https://ja.wikipedia.org/wiki/ミス・ユニバース "wikilink")同様の賞品を手にすることができる。
+
+なお、この大会に出場した者が数年後[ミスUSA](../Page/ミスUSA.md "wikilink")に出場するケースが相次いでおり、[ミスUSA](../Page/ミスUSA.md "wikilink")前哨戦ともいえる。
+
+2016年の本大会から水着審査が廃止され、代わりにスポーツウェア審査に変更される。
+
+## テレビ中継
+
+ミス・ティーンUSAはミスUSA、ミス・ユニバース同様アメリカの主要テレビ局で生中継されていた。1983年の第1回大会は[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[レイクランドで](https://ja.wikipedia.org/wiki/レイクランド_\(フロリダ州\) "wikilink")8月30日に[CBS](../Page/CBS.md "wikilink")テレビで放送された。司会はマイケル・ヤングが勤めた。マイケルは1984年、1986年、1987年の4度司会を務めた。ただし第2回は4月、第3・4回は1月に開催され、第5回以降は再び夏開催に戻る。第36回大会からはミスUSA直前に開催されるようになる。
+
+2003年から[NBCユニバーサル](https://ja.wikipedia.org/wiki/NBCユニバーサル "wikilink")が所有権が移管したため[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")で放送。2007年でNBCの放映の契約が満了し、契約が更新されず、8月16日に[バハマ](../Page/バハマ.md "wikilink")で開催された2008大会はテレビ生中継は行われなかった。2009年大会から[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")公式チャンネルで生放送されている。
+
+## 歴代ミス・ティーンUSA
+
+| 年     | ミス・ティーンUSA                                                            | 選出州        |
+| ----- | --------------------------------------------------------------------- | ---------- |
+| 1983年 | ルース・ザカリアン                                                             | ニューヨーク州    |
+| 1984年 | Cherise Haugen                                                        | イリノイ州      |
+| 1985年 | [ケリー・ヒュー](https://ja.wikipedia.org/wiki/ケリー・ヒュー "wikilink")           | ハワイ州       |
+| 1986年 | アリソン・ブラウン                                                             | オクラホマ州     |
+| 1987年 | クリスティ・アディス                                                            | ミシシッピ州     |
+| 1988年 | ミンディ・ダンカン                                                             | オレゴン州      |
+| 1989年 | [ブランディ・シャーウッド](https://ja.wikipedia.org/wiki/ブランディ・シャーウッド "wikilink") | アイダホ州      |
+| 1990年 | [ブリジット・ウィルソン](https://ja.wikipedia.org/wiki/ブリジット・ウィルソン "wikilink")   | オレゴン州      |
+| 1991年 | ジャネル・ビショップ                                                            | ニューハンプシャー州 |
+| 1992年 | Jamie Solinger                                                        | アイオワ州      |
+| 1993年 | [シャーロット・ロペス](https://ja.wikipedia.org/wiki/シャーロット・アヤナ "wikilink")     | バーモント州     |
+| 1994年 | シャウナ・ガンビル                                                             | カリフォルニア州   |
+| 1995年 | Keylee Sue Sanders                                                    | カンザス州      |
+| 1996年 | クリスティー・ウッズ                                                            | テキサス州      |
+| 1997年 | シェリー・ムーア                                                              | テネシー州      |
+| 1998年 | [ヴァネッサ・ミニロ](https://ja.wikipedia.org/wiki/ヴァネッサ・ミニロ "wikilink")       | サウスカロライナ州  |
+| 1999年 | アシュリー・コールマン                                                           | デラウェア州     |
+| 2000年 | ジリアン・パリー                                                              | ペンシルベニア州   |
+| 2001年 | Marissa Whitley                                                       | ミズーリ州      |
+| 2002年 | Vanessa Semrow                                                        | ウィスコンシン州   |
+| 2003年 | タミ・ファレル                                                               | オレゴン州      |
+| 2004年 | [シェリー・ヘニッヒ](https://ja.wikipedia.org/wiki/シェリー・ヘニッヒ "wikilink")       | ルイジアナ州     |
+| 2005年 | アリー・ラフォース                                                             | オハイオ州      |
+| 2006年 | ケイティ・ブレア                                                              | モンタナ州      |
+| 2007年 | ヒラリー・クルス                                                              | コロラド州      |
+| 2008年 | ステーヴィ・ペリー                                                             | アーカンソー州    |
+| 2009年 | ストーミ・ヘンリー                                                             | テネシー州      |
+| 2010年 | ケイミー・クロフォード                                                           | メリーランド州    |
+| 2011年 | ダニエル・ドウティー                                                            | テキサス州      |
+| 2012年 | ローガン・ウェスト                                                             | コネチカット州    |
+| 2013年 | キャシディ・ウルフ                                                             | カリフォルニア州   |
+| 2014年 | K・リー・グレアム                                                             | サウスカロライナ州  |
+| 2015年 | キャサリン・ヘイク                                                             | ルイジアナ州     |
+| 2016年 | カーリー・ヘイ                                                               | テキサス州      |
+| 2017年 | ソフィア・ドミンゲス＝ヘイソフ                                                       | ミズーリ州      |
+| 2018年 | ヘイリー・コルボーン                                                            | カンザス州      |
+| 2019年 | Kaliegh Garris                                                        | コネチカット州    |
+
+### ミス・ティーンとミスUSAの2冠達成者
+
+1989年の本大会優勝者である[ブランディ・シャーウッド](https://ja.wikipedia.org/wiki/ブランディ・シャーウッド "wikilink")は、その8年後の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")のミスUSAの本選で準ミスUSAを獲得したが、その年のミスUSA（優勝）に輝いた[ブルック・マヘアラニ・リー](https://ja.wikipedia.org/wiki/ブルック・マヘアラニ・リー "wikilink")が、この大会優勝者に出場権が与えられる[ミス・ユニバース](https://ja.wikipedia.org/wiki/ミス・ユニバース "wikilink")世界大会でもミスに選ばれたため、ブルックは規定によりミス・ユニバースを優先。そのためブランディがミスUSAに繰り上げ当選となり、初めてミス・ティーンとミスUSAの「2冠」となった。2011年現在、ミス・ティーンとミスUSAの2冠を達成したのはこのブランディ1名のみである。
+
+なお、ミス・ティーンとミス・ユニバースの2冠達成者はまだいない。
+
+## 近年のミス・ティーンUSA
+
+<File:Stormi> Henley.jpg|ストーミ・ヘンリー（2009年ミス・ティーンUSA） <File:Miss> Teen USA Stevi Perry at Mercedes-Benz Fashion Week.jpg|ステーヴィ・ペリー（2008年ミス・ティーンUSA） [File:HilaryCruz.png|ヒラリー・クルス（2007年ミス・ティーンUSA](File:HilaryCruz.png%7Cヒラリー・クルス（2007年ミス・ティーンUSA)） [File:KatieBlair.jpg|ケイティ・ブレア（2006年ミス・ティーンUSA](File:KatieBlair.jpg%7Cケイティ・ブレア（2006年ミス・ティーンUSA)） [File:KellyHuHITUSA.jpg|ケリー・ヒュー（1985年ミス・ティーンUSA](File:KellyHuHITUSA.jpg%7Cケリー・ヒュー（1985年ミス・ティーンUSA)）
+
+## 外部リンク
+
+  - [ミス・ティーンUSA公式ウェブサイト](http://www.missuniverse.com/missteenusa)（英語）
+
+[Category:ミス・ユニバース](https://ja.wikipedia.org/wiki/Category:ミス・ユニバース "wikilink") [Category:アメリカ合衆国の美人コンテスト](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の美人コンテスト "wikilink") [Category:1983年開始のイベント](https://ja.wikipedia.org/wiki/Category:1983年開始のイベント "wikilink")

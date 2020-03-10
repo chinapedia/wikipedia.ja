@@ -1,0 +1,199 @@
+> この記事は[POSSIBILITY \(\)](https://ja.wikipedia.org/wiki/POSSIBILITY_\(\))から翻訳されています。
+
+
+『**POSSIBILITY**』（ポシビリティ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の6枚目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。このアルバムは1984年10月10日にワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）よりリリースされた ([LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-12592, [CT](../Page/コンパクトカセット.md "wikilink"): LKF-8092)。
+
+## 概要
+
+『POSSIBILITY』は、中森の8枚目の[シングル](../Page/シングル.md "wikilink")「[サザン・ウインド](https://ja.wikipedia.org/wiki/サザン・ウインド "wikilink")」、9枚目のシングル「[十戒 (1984)](https://ja.wikipedia.org/wiki/十戒_\(1984\) "wikilink")」を収録した7枚目のアルバムである\[1\]\[2\]。本作の[ディスクジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")にも"7th ALBUM"と表記されている\[3\]。[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")としては通算6枚目で、1984年に発表した2枚目となるスタジオ・アルバムである\[4\]。このアルバムは1984年10月10日に、[LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink") (L-12592)、[CT](../Page/コンパクトカセット.md "wikilink") (LKF-8092)の2形態で同時発売された\[5\]\[6\]\[7\]。同年10月25日には、[CD](../Page/コンパクトディスク.md "wikilink") (35XL-47)でも発売された。本作のプロデュースは、前作『[ANNIVERSARY](https://ja.wikipedia.org/wiki/ANNIVERSARY_\(中森明菜のアルバム\) "wikilink")』に引き続き[島田雄三が担当した](https://ja.wikipedia.org/wiki/島田雄三_\(プロデューサー\) "wikilink")\[8\]\[9\]。レコーディングは、アオイスタジオ、チェリーアイランドスタジオで行われた\[10\]。本作は主に、この時期までに中森のシングル作品を担当してきた作家陣が手掛けている\[11\]。本作10曲目には7枚目のシングル「[北ウイング](https://ja.wikipedia.org/wiki/北ウイング "wikilink")」の続編曲「ドラマティック・エアポート -北ウイング Part II-」が収録されている\[12\]\[13\]。本作収録楽曲は、1985年7月6日より開催された全国[コンサート・ツアー](https://ja.wikipedia.org/wiki/コンサート・ツアー "wikilink")[BITTER & SWEETで披露された](https://ja.wikipedia.org/wiki/BITTER_&_SWEET_1985_SUMMER_TOUR#BITTER_&_SWEET_\(中森明菜のコンサート・ツアー\) "wikilink")\[14\]\[15\]\[16\]。
+
+## シングル
+
+「[サザン・ウインド](https://ja.wikipedia.org/wiki/サザン・ウインド "wikilink")」が、本作からのリード・シングルとして1984年4月11日に発売された\[17\]\[18\]\[19\]。この楽曲は1984年の[オリコン年間シングルチャートでトップテン入りを果たした](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")\[20\]。続いて本作から2枚目となったシングル「[十戒 (1984)](https://ja.wikipedia.org/wiki/十戒_\(1984\) "wikilink")」が、同年7月25日に発売された\[21\]\[22\]\[23\]。この楽曲も、同社年間シングルチャートにてトップテン入りを果たした\[24\]。同年12月15日には、本作4曲目の「リ・フ・レ・イ・ン」が、シングル「[北ウイング／リ・フ・レ・イ・ン](https://ja.wikipedia.org/wiki/北ウイング#北ウイング/リ・フ・レ・イ・ン "wikilink")」として発売された\[25\]\[26\]\[27\]。この楽曲は、[TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[スペシャルドラマ](https://ja.wikipedia.org/wiki/2時間ドラマ "wikilink")『[恋はミステリー劇場](https://ja.wikipedia.org/wiki/月曜ドラマスペシャル "wikilink")』のエンディング・テーマに起用された\[28\]。
+
+## 批評
+
+『CDジャーナル』は、本作について「ジャケットのきわどい雰囲気の写真そのままに、大人びた女を感じさせる曲で構成されている。」と批評した\[29\]。『Hotwax presents 歌謡曲 名曲名盤ガイド 1980's』の馬飼野元宏は、本作の収録楽曲はシングル楽曲を連想させ、その路線を進めたものであると楽曲について指摘し、「彼女のこれまでの歩みを総括した作品集で、シンガーとしての安定した力量を堪能できる。」と批評した\[30\]。
+
+## 記録
+
+本作は[オリコン週間LPチャートの](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1984年10月22日付で初登場し、最高順位1位を記録、以降翌週の1984年10月29日付まで2週連続で1位を獲得した\[31\]\[32\]。1984年のオリコン年間アルバムチャートでは18位を記録した。
+
+## 収録曲
+
+## クレジット
+
+『POSSIBILITY』のライナー・ノーツより\[33\]
+
+### ミュージシャン
+
+  - 「[サザン・ウインド](https://ja.wikipedia.org/wiki/サザン・ウインド "wikilink")」
+      - キーボード: [倉田信雄](https://ja.wikipedia.org/wiki/倉田信雄 "wikilink")、山田秀俊、田代真紀子
+      - E.ベース: 岡沢茂
+      - ドラムス: 滝本季延
+      - E.ギター: [矢島賢](https://ja.wikipedia.org/wiki/矢島賢 "wikilink")、[松原正樹](https://ja.wikipedia.org/wiki/松原正樹 "wikilink")
+      - A.ギター: [吉川忠英](https://ja.wikipedia.org/wiki/吉川忠英 "wikilink")
+      - パーカッション: [斉藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノヴ "wikilink")
+      - ストリングス: JOEストリングス
+      - ブラス ([T.P](../Page/トランペット.md "wikilink")): [数原晋](https://ja.wikipedia.org/wiki/数原晋 "wikilink")、[小林正弘](https://ja.wikipedia.org/wiki/小林正弘 "wikilink")
+      - ブラス ([T.B](../Page/トロンボーン.md "wikilink")): 新井英治
+      - ブラス ([T.S](../Page/サクソフォーン.md "wikilink")): ジェイク
+      - コーラス: [イブ](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")
+  - 「秋はパステルタッチ」
+      - [DSX、OB-8、DMX](https://ja.wikipedia.org/wiki/オーバーハイム "wikilink"): [高中正義](../Page/高中正義.md "wikilink")
+      - E.ギター: 高中正義
+      - コーラス: イブ
+  - 「October Storm -十月の嵐-」
+      - キーボード: [大谷和夫](https://ja.wikipedia.org/wiki/大谷和夫 "wikilink")、[西本明](https://ja.wikipedia.org/wiki/西本明 "wikilink")
+      - E.ベース: 富倉安生
+      - ドラムス: [島村英二](https://ja.wikipedia.org/wiki/島村英二 "wikilink")
+      - E.ギター: 松原正樹、[鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")
+  - 「リ・フ・レ・イ・ン」
+      - キーボード: 矢島真紀子、富樫春生
+      - E.ベース: 富倉安生
+      - ドラムス: [青山純](https://ja.wikipedia.org/wiki/青山純 "wikilink")
+      - E.ギター: 矢島賢
+      - A.ギター: 谷康一
+      - パーカッション: 鳴島英治
+      - ストリングス: 加藤グループ
+      - ハープ: 山川恵子
+      - コーラス: イブ
+  - 「地平線（ホライゾン）」
+      - キーボード: 大谷和夫、富樫春生
+      - E.ベース: 高水健司
+      - ドラムス: [山木秀夫](https://ja.wikipedia.org/wiki/山木秀夫 "wikilink")
+      - E.ギター: 矢島賢
+      - A.ギター: 谷康一
+      - ストリングス: 加藤グループ
+      - ハープ: 山川恵子
+      - コーラス: [山川恵津子](https://ja.wikipedia.org/wiki/山川恵津子 "wikilink")、比山清、[木戸泰弘](https://ja.wikipedia.org/wiki/木戸やすひろ "wikilink")
+
+<!-- end list -->
+
+  - 「哀愁のMidnight」
+      - キーボード: 西本明
+      - E.ベース: 富倉安生
+      - ドラムス: [岡本郭男](https://ja.wikipedia.org/wiki/岡本郭男 "wikilink")
+      - E.ギター: 松原正樹
+      - A.ギター: 谷康一
+      - パーカッション: 鳴島英治
+      - ストリングス: 加藤グループ
+      - コーラス: イブ
+  - 「[十戒 (1984)](https://ja.wikipedia.org/wiki/十戒_\(1984\) "wikilink")」
+      - キーボード: 高中正義、富樫春生
+      - [CMI](https://ja.wikipedia.org/wiki/フェアライトCMI "wikilink"): 高中正義
+      - E.ギター: 高中正義、矢島賢
+      - ストリングス: 加藤グループ
+      - コーラス: イブ
+  - 「白い迷い（ラビリンス）」
+      - キーボード: 西本明
+      - E.ベース: 富倉安生
+      - ドラムス: 岡本郭男
+      - E.ギター: 松原正樹
+      - A.ギター: 谷康一
+      - パーカッション: 鳴島英治
+      - ストリングス: 加藤グループ
+      - [Ob](../Page/オーボエ.md "wikilink"): 石橋雅一
+      - コーラス: 山川恵津子、比山清、木戸泰弘
+  - 「Blue Misty Rain」
+      - キーボード: 矢島真紀子、富樫春生
+      - E.ベース: 富倉安生
+      - ドラムス: 青山純
+      - E.ギター: 矢島賢
+      - パーカッション: 鳴島英治
+      - ブラス (T.P): 数原晋、横山均
+      - ブラス (T.B): 新井英治
+      - ブラス (T.S): ジェイク、淵野繁雄
+      - コーラス: イブ
+  - 「ドラマティック・エアポート -北ウイングPart II-」
+      - キーボード: 大谷和夫、西本明
+      - E.ベース: 富倉安生
+      - ドラムス: 島村英二
+      - E.ギター: 松原正樹、鳥山雄司
+      - ストリングス: 加藤グループ
+      - コーラス: イブ
+
+### スタッフ
+
+  - プロデューサー: [島田雄三](https://ja.wikipedia.org/wiki/島田雄三_\(プロデューサー\) "wikilink")
+  - エンジニア: 石崎信郎、諸鍛冶辰也
+  - アシスタント・エンジニア: HIROYUKI SATO、MASAO OSAKA
+  - リミックス: [萩田光雄](https://ja.wikipedia.org/wiki/萩田光雄 "wikilink")、石崎信郎
+  - 録音: アオイスタジオ、チェリーアイランドスタジオ
+  - Mixed & Mastered at ワーナー・パイオニア・スタジオ
+  - マスタリング・エンジニア: 石崎信郎、小林光晴
+  - アート・ディレクション: 持田恭男
+  - 撮影: [清水清太郎](https://ja.wikipedia.org/wiki/清水清太郎 "wikilink")
+  - スタイリスト: 東野邦子
+  - ヘア・ドレッシング&メークアップ: JUN TOGASHI
+  - プロモーション・スタッフ: 田中良明、畠山政行
+  - プロダクション・コーディネーター: 北村篤識
+  - アソシエイト・プロダクション・コーディネーター: 太田晶子
+  - マネジメント: [研音](../Page/研音グループ.md "wikilink")（茅根浩康、名幸房則、柳沢秀昭、森山みどり）
+
+## 再発盤
+
+  - 1985年8月25日 - [CD](../Page/コンパクトディスク.md "wikilink"): 32XL-105（廉価盤、色分けビニール帯）\[34\]
+  - 1991年6月17日 - CD: WPCL-416（廉価盤、紙帯）\[35\]
+  - 1996年4月25日 - CD: WPC6-8187（音泉1500シリーズ、[Q盤](https://ja.wikipedia.org/wiki/Q盤 "wikilink")）\[36\]
+  - 2006年6月21日 - CD: WPCL-10282（紙ジャケット仕様完全生産限定盤）、[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[37\]\[38\]
+  - 2006年7月5日（再発） - デジタル・ダウンロード\[39\]
+  - 2012年8月22日 - [SACD](https://ja.wikipedia.org/wiki/SACD "wikilink"): WPCL-11140（紙ジャケット仕様完全生産限定盤）\[40\]
+
+## セルフカバー
+
+このアルバムの提供作家である[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")が、本作8曲目の「白い迷い（ラビリンス）」を[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")し、タイトルを「白いラビリンス（迷い）」として1984年11月1日にシングルリリースしている\[41\]\[42\]\[43\]。来生のこの楽曲は、同年12月1日発売の来生のアルバム『[LABYRINTH](https://ja.wikipedia.org/wiki/LABYRINTH_\(来生たかおのアルバム\) "wikilink")』にも収録された\[44\]\[45\]。 また、編曲は[ポール・モーリア](https://ja.wikipedia.org/wiki/ポール・モーリア "wikilink")が担当している。
+
+## 参照
+
+## 外部リンク
+
+  - [中森明菜 「POSSIBILITY」|Warner Music Japan](https://wmg.jp/akina/discography/3279/)
+
+[Category:中森明菜のアルバム](https://ja.wikipedia.org/wiki/Category:中森明菜のアルバム "wikilink") [Category:1984年のアルバム](https://ja.wikipedia.org/wiki/Category:1984年のアルバム "wikilink") [Category:ワーナーミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアルバム "wikilink") [Category:1984年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1984年のオリコンアルバムチャート1位獲得作品 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15. (1985年) 中森明菜『[BITTER & SWEET](https://ja.wikipedia.org/wiki/BITTER_&_SWEET_1985_SUMMER_TOUR#BITTER_&_SWEET_\(中森明菜のコンサート・ツアー\) "wikilink")』のツアー・パンフレット. [ケン企画](../Page/研音グループ.md "wikilink") (MILKY HOUSE)
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.

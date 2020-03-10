@@ -1,0 +1,180 @@
+> この記事は[Bang!](https://ja.wikipedia.org/wiki/Bang!)から翻訳されています。
+
+
+『**生たまごBang\!**』（なまたまごバン\!）は、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSSテレビ）で放送されている[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。毎週水曜日 19:00 - 19:54に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されている。[山陰地方](../Page/山陰地方.md "wikilink")のローカル情報番組がゴールデンタイムでレギュラー放送を行うのは初めて。
+
+[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から2014年3月までは、『**土曜日の生たまご**』（どようびのなまたまご）として土曜 9:25 - 10:15に放送されていた。
+
+## 概要
+
+### 土曜日の生たまご
+
+[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")10月スタートの『BSS座・テレビ』（土曜17:30から30分）の後番組で、山陰エリアにおける情報バラエティ番組のパイオニアである。
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink")の放送で777回、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月12日](../Page/4月12日.md "wikilink")の放送で800回、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月24日](../Page/4月24日.md "wikilink")の放送で900回を迎えた。そして[2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")には20周年を迎え、同年[5月26日](../Page/5月26日.md "wikilink")に放送1000回を達成した。
+
+[2014年](../Page/2014年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")の放送をもって、土曜 9:25 - 10:15枠での放送は終了。2014年4月からは後述の『生たまごBang\!』として水曜夜に移動。土曜朝の同時間帯は2014年[4月12日](../Page/4月12日.md "wikilink")から2019年9月14日まで情報番組『[まいどっ♪](https://ja.wikipedia.org/wiki/まいどっ♪ "wikilink")』が放送された。2019年10月5日から土曜朝の同時間帯は『生たまごBang\!』の姉妹番組『Bang\!+』が放送されている。
+
+### 生たまごBang\!
+
+2014年[4月9日](../Page/4月9日.md "wikilink")から『**生たまごBang\!**』とタイトルを変更し、毎週水曜日19:00 - 19:54に移動。2017年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から毎週水曜日19:00 - 20:00に変更。出演者やコーナーを一新した。水曜の当該枠はローカルセールス枠で「[東大王](https://ja.wikipedia.org/wiki/東大王 "wikilink")」は原則として同時ネットはしない。TBS系で特番が編成される場合は当番組を休止することがある。また全国高等学校野球選手権島根県大会開催時もスタッフ確保のため休止する。
+
+[放送倫理・番組向上機構](https://ja.wikipedia.org/wiki/放送倫理・番組向上機構 "wikilink")（BPO）が選ぶ2014年度4月「青少年へのおすすめ番組」に選ばれた\[1\]。
+
+## 出演者
+
+☆はBSSアナウンサー。
+
+### 現在
+
+#### 出演者
+
+  - [山根伸志](https://ja.wikipedia.org/wiki/山根伸志 "wikilink")（☆、2013年5月11日 - ）
+  - [森田初実](https://ja.wikipedia.org/wiki/森田初実 "wikilink") (☆、2019年10月 - )
+  - MOE（2014年4月 - ） - 2018年3月までガールズユニット[kotonoha](https://ja.wikipedia.org/wiki/kotonoha "wikilink")のメンバーとして出演。
+  - [近藤夏子](https://ja.wikipedia.org/wiki/近藤夏子 "wikilink")（2018年4月 - ）
+  - [森谷佳奈](https://ja.wikipedia.org/wiki/森谷佳奈 "wikilink")（☆、2019年4月 - ） - tabetterナレーション担当。2019年4月からMC。
+  - [山田ちゃーはん](https://ja.wikipedia.org/wiki/山田裕亮 "wikilink") - 米子市出身。よしもとクリエイティブ・エージェンシー
+
+#### tabetter
+
+  - ともちん
+  - エリちゃん
+  - [柚月めい](https://ja.wikipedia.org/wiki/柚月めい "wikilink")
+
+#### ナレーション・リポーター
+
+  - [古原奈々](https://ja.wikipedia.org/wiki/古原奈々 "wikilink") - 番組ナレーション担当
+  - [べるを](https://ja.wikipedia.org/wiki/べるを "wikilink")（ローカルタレント、2014年4月 - ）
+
+### 過去
+
+#### 土曜日の生たまご
+
+  - [宇田川修一](https://ja.wikipedia.org/wiki/宇田川修一 "wikilink")（☆、1992年4月 - 2000年3月） - 初代MC
+  - [山本リエ](https://ja.wikipedia.org/wiki/山本リエ "wikilink")（1992年4月 - 2001年3月） - 初代MC
+  - [和田季子](https://ja.wikipedia.org/wiki/和田季子 "wikilink")（当時☆、1992年4月 - 1997年12月） - 中継リポーター
+  - [ユッコ](https://ja.wikipedia.org/wiki/ユッコ "wikilink")（1998年4月 - 2000年3月）
+  - [大田祐樹](https://ja.wikipedia.org/wiki/大田祐樹 "wikilink")（☆、2000年4月 - 2001年3月）
+  - 多田ともえ（2000年4月 - 2005年3月）
+  - [谷口あつし](https://ja.wikipedia.org/wiki/谷口篤史 "wikilink")（☆、2001年4月 - 2014年3月）
+  - [MASAKO](https://ja.wikipedia.org/wiki/MASAKO "wikilink")（ローカルタレント、2001年8月18日 - 2006年3月、2007年4月 - 2014年3月）
+  - みんみん（ローカルタレント、未詳 - 2014年3月）
+
+#### 生たまごBang\!
+
+  - [橋本航介](https://ja.wikipedia.org/wiki/橋本航介 "wikilink")（当時☆、2014年4月 - 2015年3月）
+  - [美留香](https://ja.wikipedia.org/wiki/美留香 "wikilink")（ものまねタレント、2014年4月 - 2015年3月）
+  - [御秒奈々](https://ja.wikipedia.org/wiki/御秒奈々 "wikilink")（モデル・タレント、不定期出演） - 2014年から生たまごファミリーとして不定期出演し、2015年4月15日から2016年3月23日までは産休中の丸山に代わりメインMCを担当。
+  - [kotonoha](https://ja.wikipedia.org/wiki/kotonoha "wikilink")（MOE・YUKA）（ガールズユニット、2014年4月 - 2018年3月）
+  - [丸山聡美](https://ja.wikipedia.org/wiki/丸山聡美 "wikilink")（☆、2008年4月 - 2015年3月、2016年4月6日 - 2018年4月） - メインMC
+  - [山田弥希寿](https://ja.wikipedia.org/wiki/山田弥希寿 "wikilink")（☆） - 「本日創刊ヤマダジャーナル」のコーナーなどを担当
+  - [平川彩佳](https://ja.wikipedia.org/wiki/平川彩佳 "wikilink")（☆、2014年4月 - 2015年9月） - 「今夜のあて」のコーナー担当
+  - [岡村帆奈美](https://ja.wikipedia.org/wiki/岡村帆奈美 "wikilink")（☆、2014年4月 - 2016年3月23日） - 「今夜のあて」のコーナー担当
+  - [板井文昭](../Page/板井文昭.md "wikilink")（☆、2014年4月 - ） - 「今夜のあて」ナレーション、常連客
+  - [北川佳歩](https://ja.wikipedia.org/wiki/北川佳歩 "wikilink")（2015年11月18日 - 2017年3月22日 ） - 「今夜のあて」のコーナー担当
+  - [秦まりな](https://ja.wikipedia.org/wiki/秦まりな "wikilink")（☆） - 「今夜のあて」のコーナー担当
+  - えり - tabetter担当
+  - ハラミ - tabetter担当
+
+## コーナー
+
+### 現在
+
+  - 特集
+  - 月刊ヤマネジャーナル　(<small>1/月</small>)（担当：山根伸志）
+  - tabetter
+  - あすメシ（2020年1月～）（担当：中島早也佳）
+
+### 過去
+
+  - たまスペ
+  - 大人のお散歩〜山陰ぶらぶら町歩き〜
+  - MASAKOのらくちんビューティー
+  - みんみんのコレ作ってみん?
+  - 山陰ピカイチ
+  - ススメ\!MASAKO進め\!\!
+  - ゴー\!ゴー\!Bravos\!\!\!
+  - 味なリレー
+  - 味な逸品
+  - 中四国麺紀行
+  - オトコラボ
+  - かりコレ\!
+  - かおりの旅してラララ
+  - たい子の知りたい\!なりたい\!やってみたい\!
+  - 橋本スポーツ店（担当：橋本航介）
+  - ガッチリマルデー（担当：丸山聡美）
+  - 調べるを\!行ってミルカ\!?（担当：べるを・美留香）
+  - キャラBang\!隊が行く（担当：kotonoha）
+  - アナの手料理今夜のあて（担当：平川彩佳・岡村帆奈美・森谷佳奈・北川佳歩）
+
+## Bang\!+
+
+2019年[10月5日](../Page/10月5日.md "wikilink")から『**Bang\!+**』（バン\!ぷらす）がスタートした。
+
+### 出演者
+
+スタジオMC（大田祐樹、山田弥希寿、森谷佳奈、[中島早也佳](https://ja.wikipedia.org/wiki/中島早也佳 "wikilink")など週替わり）
+
+### 主なコーナー
+
+  - 中継（担当：べるを、[田中友香理](https://ja.wikipedia.org/wiki/田中友香理 "wikilink")、山﨑瑞穂など週替わり） - 冒頭のコーナー、中継なしの場合あり
+  - 生たまごBang\!（生たまごBang\!の過去の放送の再構成） - 原則として前回放送分、前回休止のときはアンコール放送
+  - 樹里の社会科見学（担当：阿部樹里） - 不定期
+  - Bang\!+information（担当：倉内たいこ）
+
+## 特番
+
+### ゴールデンタイム放送
+
+いずれも『土曜日の生たまご』時代
+
+  - 「ブラボー\!\!\!山陰 生たまごザ・ゴールデン」（2008年8月28日 19:00 - 20:00 ※放送17年目でゴールデンタイム初進出）
+  - 「生たまごザ・ゴールデン 人気者の祭典\!\!」（2009年2月5日 19:00 - 20:00）
+  - 「生たまごザ・ゴールデン あなたが選ぶ 山陰 がいな\!おべた\!わったいな\!大賞」（2010年2月17日 20:00 - 21:00）
+  - 「生たまごザ・ゴールデン アッパレ\!山陰 おしごと魂」（2011年2月23日 19:00 - 20:00）
+  - 「生たまごザ・ゴールデン 対決ふるさと自慢 島根VS鳥取」（2011年9月7日 19:00 - 20:00）
+  - 「生たまごザ・ゴールデン グアムVSハワイ?\! ぶらぶら町歩き」（2012年2月15日 19:00 - 20:00）
+  - 「生たまごザ・ゴールデン 国際まんが博 開幕SP」（2012年8月8日 19:00 - 20:00）
+  - 「生たまごザ・ゴールデン 山陰ぶらぶら町歩きSP 登って下って大山満喫！出会い旅」（2013年7月10日 20:00 - 20:54）
+  - 「生たまごザ・ゴールデン 時を越えて 植田正司生誕100年」（2013年7月24日 19:00 - 19:54）
+  - 「生たまごザ・ゴールデン 歴史の源流・出雲SP」（2013年8月28日 19:00 - 19:54）
+  - 「生たまごザ・ゴールデン 山陰ぶらぶら町歩き 秋満喫 若葉ツアーズ 男旅VS女旅」（2013年10月16日 19:00 - 19:55）
+  - 「生たまごザ・ゴールデン 2014この顔がスゴい！」（2014年1月15日 19:00 - 19:54）
+  - 「生たまごザ・ゴールデン 春よ来い！ドキドキ旅SP」（2014年2月26日 19:00 - 19:55）
+
+### 特別編
+
+  - 「土曜日の生たまご特別編 松江ぶらぶら町歩き 〜へるん先生に出会う旅〜」（2011年10月30日 14:00 - 14:30）
+  - 「放送1000回スペシャル 土曜日の生たまご in 米子天満屋」（2012年5月26日 9:25 - 10:15）
+  - 「生たまご番外編 冬の山陰 美女とめぐる湯けむりツアー」（2013年2月11日 19:00 - 19:53）
+  - 「山陰放送開局60周年 土曜日の生たまご30分枠大SP 感謝還暦60分！」（2014年3月1日 9:25 - 10:45）
+  - 「テレポート山陰×生たまごBang\!合体スペシャル」（2015年9月30日 18:15 - 19:56）
+  - 「生たまごBang\! クリスマスSP」（2019年12月25日 18:30 - 19:54）
+
+## テーマ曲
+
+  - egg strut （Black Bottom Brass Band、未定 - 2010年4月）
+  - Goody Goody （[小野リサ](https://ja.wikipedia.org/wiki/小野リサ "wikilink")、2010年4月 - 2012年5月）
+  - HAPPY RAP （2012年6月 - ）
+  - Bang\! Bang\! Bang\!（[kotonoha](https://ja.wikipedia.org/wiki/kotonoha "wikilink")、2014年4月 - ）
+
+## 備考
+
+  - BSSラジオのラジオ番組『[谷口あつしのRADIO☆MONDAY](https://ja.wikipedia.org/wiki/谷口あつしのRADIO☆MONDAY "wikilink")』（月曜日18:30 - 19:30）には、本番組の姉妹コーナーとも言える「月曜日のゆでたまご」のコーナーがあった。
+  - 『土曜日の生たまご』時代は毎年春と秋に行われる[BSSまつり](https://ja.wikipedia.org/wiki/BSSまつり "wikilink")のときには会場からの公開生放送を行っていた。
+  - 『土曜日の生たまご』時代の2008年8月-2014年3月まで不定期でスペシャル版として 山陰地方ローカル番組史上初となるゴールデンタイム放送を行っていた。2008年のスペシャルではタレントの[ルー大柴](../Page/ルー大柴.md "wikilink")、2010年2月の放送では元[サッカー日本代表](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")の[岡野雅行選手](https://ja.wikipedia.org/wiki/岡野雅行_\(サッカー選手\) "wikilink")、2011年2月の放送では空手形女子アジア王者の[宇佐美里香](https://ja.wikipedia.org/wiki/宇佐美里香 "wikilink")選手をゲストに迎えた。
+  - 『土曜日の生たまご』時代の2010年4月 - 2014年3月までは､その日の深夜（日曜日になってから）に『**土曜日の生たまごAGAIN**』として[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")していた（ただし、一部コーナーをカットして40分程度の枠として放送。またBSSまつりの生中継回の場合、再放送は休止になった。）が、当番組では再放送を行わない予定。
+
+## 脚注
+
+<references />
+
+## 外部リンク
+
+  - [生たまごBang\!](https://www.bss.jp/bang/)
+
+  -
+[Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:山陰放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:山陰放送のテレビ番組 "wikilink") [Category:中国・四国地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの情報・ワイドショー番組 "wikilink")
+
+1.  [青少年へのおすすめ番組 | BPO | 放送倫理・番組向上機構 |](http://www.bpo.gr.jp/?page_id=1153&meta_key=2014&m=04&program_key=9)

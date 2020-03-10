@@ -1,0 +1,52 @@
+> この記事は[RD](https://ja.wikipedia.org/wiki/RD)から翻訳されています。
+
+
+**ギブソン・RD**（ギブソン・アールディー）は、[ギブソンによって製作されていた](https://ja.wikipedia.org/wiki/ギブソン_\(楽器メーカー\) "wikilink")、[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")。
+
+## 概要
+
+ギブソンが[ロバート・モーグ](https://ja.wikipedia.org/wiki/ロバート・モーグ "wikilink")と共同開発したギターで、[ギブソン・ファイヤーバード](../Page/ギブソン・ファイヤーバード.md "wikilink")・リバース・モデルに似たボディ・シェイプを持っている。
+
+[1977年](../Page/1977年.md "wikilink")から生産されたが、わずか2年で生産中止になっており、現在ではレア物として人気が高い。[2009年](../Page/2009年.md "wikilink")には日本限定で、スタンダードモデルのリイシューが生産された。
+
+同名の[エレクトリックベース](../Page/エレクトリックベース.md "wikilink")も存在し、[ニルヴァーナの](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")[クリス・ノヴォセリック](https://ja.wikipedia.org/wiki/クリス・ノヴォセリック "wikilink")が使用していることで有名。
+
+日本では、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")、[咲人](https://ja.wikipedia.org/wiki/咲人 "wikilink")、[菊地英昭](../Page/菊地英昭.md "wikilink")、TAKUMA([10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink"))がステージで使用する。
+
+## 仕様
+
+  -
+    ボディは[メイプル製ソリッド](../Page/カエデ.md "wikilink")・タイプで、弦のスケール長は[フェンダー・ストラトキャスター](../Page/フェンダー・ストラトキャスター.md "wikilink")などと同じ25 1/2インチスケールとなっており、[レスポールなどで採用されているギブソンの一般的な](../Page/ギブソン・レスポール.md "wikilink")24 3/4インチスケールよりも若干長い。
+    ネックはメイプル、指板は22フレット、ネックジョイントはセット・ネックを採用。ブリッジ、テールピースはほとんどレスポールと同じで、チューン0マチック・ブリッジ、ストップ・テールピースが採用されている。
+    [ピックアップには](https://ja.wikipedia.org/wiki/ピックアップ_\(楽器\) "wikilink")[ハムバッキング](https://ja.wikipedia.org/wiki/ハムバッキング "wikilink")・タイプを2個、コントロール・ノブにはギブソン・スピード・ノブを4個使用している。アーティストとカスタムはアクティブ・タイプの回路となっており、トグル・スイッチはピックアップ切換用と、エクスパンション-コンプレッション用の2個がついており、ノブは白と黒に色分けされている。
+
+## モデル
+
+  - RDアーティスト (RD Artist)
+    RDシリーズの最上位機種。指板は[エボニー](https://ja.wikipedia.org/wiki/コクタン "wikilink")、ポジションマークはスクエア型のインレイを使用。コントロール系に[イコライザー](../Page/イコライザー_\(音響機器\).md "wikilink")、[コンプレッサー](../Page/コンプレッサー_\(音響機器\).md "wikilink")、[エクスパンダー](https://ja.wikipedia.org/wiki/エクスパンダー "wikilink")などが内蔵されており、内部の[バッテリーにより駆動されている](../Page/電池.md "wikilink")。
+
+<!-- end list -->
+
+  - RDカスタム (RD Custom)
+    コントロール系にイコライザーのみ内蔵された機種で、ネックと指板がメイプル1ピースとなっている。
+
+<!-- end list -->
+
+  - RDスタンダード (RD Standard)
+    従来と同じパッシブ・タイプの回路を持つ機種で、トグル・スイッチもピックアップ切換用のみ。指板は[ローズウッドとなっている](https://ja.wikipedia.org/wiki/ローズウッド_\(木材\) "wikilink")。
+
+<!-- end list -->
+
+  - RDスタンダード ギター オブ ザ ウィーク \#48　(Guitar Of The Week \#48　RD Standard Reissue 2007 Silverburst)
+    2007年、世界中のコレクターからの強い要望に応え、現代仕様での400本限生産復活モデル。カラーは当時では珍しいシルバーバースト。指板はエボニー、ピックアップはDirty Finger×2。のちに日本限定版の元となる仕様のボディ・ネックにマホガニー、ネックスケールが24 3/4インチスケール、Vo×2、Tone×1。
+
+<!-- end list -->
+
+  - RD Standard 2009 Japan Limited Run
+    2009年に日本限定で発売された、スタンダードの復刻版。ボディ・ネックに[マホガニー](https://ja.wikipedia.org/wiki/マホガニー "wikilink")を採用し、ネックはレスポールなどと同じ24 3/4インチスケールと短くなり、トーンコントロール・ノブが1つとなった他は、従来のスタンダードと同様である。
+
+## 外部リンク
+
+  - [Gibson RD Series](http://www.vintageguitars.org.uk/RD.php) (英語)
+
+[Category:ギターの機種](https://ja.wikipedia.org/wiki/Category:ギターの機種 "wikilink")

@@ -1,0 +1,78 @@
+> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+
+
+**ベルリナーFCディナモ**（）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[冷戦](../Page/冷戦.md "wikilink")期の[東ドイツにおいて](../Page/ドイツ民主共和国.md "wikilink")[シュタージ](https://ja.wikipedia.org/wiki/シュタージ "wikilink")（国家保安省。東ドイツの[秘密警察](https://ja.wikipedia.org/wiki/秘密警察 "wikilink")）の支援を受け、審判に圧力を掛け試合結果を不正に操る事などで悪名高く忌み嫌われた存在であった。
+
+## 略歴
+
+### シュタージの支援
+
+クラブは1953年3月27日に｢SVディナモ｣として創立された。同年に[ドレスデン](../Page/ドレスデン.md "wikilink")を本拠地とする[ディナモ・ドレスデン](https://ja.wikipedia.org/wiki/ディナモ・ドレスデン "wikilink")が各地の有力選手を集め[DDRオーバーリーガ](https://ja.wikipedia.org/wiki/DDRオーバーリーガ "wikilink")（東ドイツ1部リーグ）を制すると、その事を快く思わなかったシュタージ長官の[エーリッヒ・ミールケ](https://ja.wikipedia.org/wiki/エーリッヒ・ミールケ "wikilink")は1954年10月1日にディナモ・ドレスデンから選手を大量に引き抜きクラブを再編、｢SCディナモ・ベルリン｣と改称した。この強引な補強により1957年に2部リーグへ昇格、翌年には1部リーグ(DDRオーバーリーガ)へ昇格。1959年にFDGB Pokalを制し初タイトルをもたらした。
+
+[200px](https://ja.wikipedia.org/wiki/ファイル:Bundesarchiv_Bild_183-U0529-0306,_BFC_Dynamo_-_Dynamo_Dresden_3-1,_Mannschaftsfoto.jpg "wikilink") 1966年1月15日に従来の複合型スポーツクラブから独立し「BFCディナモ・ベルリン」と改称した。これには長年低迷を続ける[東ドイツ代表の強化には選手の集中強化しかないという結論に達した東ドイツサッカー協会の思惑もあった](https://ja.wikipedia.org/wiki/サッカー東ドイツ代表 "wikilink")。またベルリンの他にドレスデン、ライプツィヒ、イェーナ等、国内の11クラブが同じ様に独立したサッカークラブとなり「特別強化クラブ」へ指定された。
+
+この狙いは見事に嵌り東ドイツ代表は1974年の[西ドイツW杯ではベスト](../Page/1974_FIFAワールドカップ.md "wikilink")8進出を成し遂げた。 またクラブでは1970年代にディナモ・ドレスデンが5度の東ドイツリーグ制覇を果たしたり、[1.FCマクデブルク](https://ja.wikipedia.org/wiki/1.FCマクデブルク "wikilink")が1974年の[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")で優勝する等、一定の成果を収める様になった。しかしディナモは一つのタイトルも獲得する事は出来ず蚊帳の外に置かれた状態であった。
+
+この状態に業を煮やしたミールケは1970年代後半に入ると審判に圧力を掛けるなど影響力を最大限に行使する様になった。そして優位性を確実にする為のあらゆる不公正で歪んだジャッジによって援助されたクラブは1979年から1988年までリーグタイトル10連覇という驚異的な記録を達成した。しかしこの強引な手法はベルリン市民を始め東ドイツ国民の憎悪の対象となり、試合の際には激しい罵声で迎えられる事となった。
+
+### ドイツ再統一後
+
+1990年の[ドイツ再統一](https://ja.wikipedia.org/wiki/ドイツ再統一 "wikilink")後、クラブはシュタージとの繋がりや過去の記憶と決別する為「FCベルリン」と改称した。しかし東西ドイツの再統一は選手の自由な移籍が可能となり有力選手は引き抜かれ戦力の低下が始まった。またかつての様にシュタージの圧力による試合の操作も行使する事が適わなくなり瞬く間に下位リーグを低迷する様になった。 1999年には再び以前の「BFCディナモ」へ戻したが、2000-01シーズン中に経営状態の悪化からクラブは破産した。
+
+その後、ベルリナーFCディナモとして生まれ変わったクラブは2004年のVerbandsliga（5部リーグに相当）で優勝し、[オーバーリーガ](https://ja.wikipedia.org/wiki/オーバーリーガ "wikilink")（当時4部リーグに相当）に所属。以後、2007-08シーズンまでの4シーズン所属した。
+
+2008-09シーズンからは、ブンデスリーガ3部の[3. リーガが新設された関係で](https://ja.wikipedia.org/wiki/3._リーガ_\(ドイツサッカー\) "wikilink")、オーバーリーガが5部リーグ相当となり、同リーグに所属。
+
+2013-14シーズンにオーバーリーガ優勝を果たし、4部相当の[レギオナルリーガ・ノルトスト（北東部）に昇格](https://ja.wikipedia.org/wiki/レギオナルリーガ_\(ドイツサッカー\) "wikilink")。
+
+## クラブの特徴
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Sportforum_Dynamostadion_01.jpg "wikilink") ホームスタジアムは「ディナモ・シュポルトフォールム」（Dynamo-Sportforum）を使用している。1970年に建設された10,000人収容（2,000席）の小さなスタジアムで、[スピードスケート](https://ja.wikipedia.org/wiki/スピードスケート "wikilink")、[陸上競技](../Page/陸上競技.md "wikilink")、[サイクリング](https://ja.wikipedia.org/wiki/サイクリング "wikilink")などの設備を併設した総合スポーツセンターの一画にある。
+
+東ドイツ時代は「フリードリッヒ・ヤーン・シュポルトパーク」（Friedrich Ludwig Jahn Sportpark）を使用していたが、ドイツ再統一後の経営難により使用料が支払えなくなり手放している。
+
+また同じ東ドイツ時代の「SCディナモ・ベルリン」を前身としている[アイスホッケー](../Page/アイスホッケー.md "wikilink")クラブの[アイスベーレン・ベルリン](https://ja.wikipedia.org/wiki/アイスベーレン・ベルリン "wikilink")（Eisbären Berlin）は、最近10年間で4度の国内リーグ制覇を成し遂げた強豪として知られている。
+
+## タイトル
+
+### 国内タイトル
+
+  - DDRオーバーリーガ: 10回
+      - 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988
+  - FDGBポカール: 3回
+      - 1959, 1988, 1989
+  - GDRスーパーカップ: 1回
+      - 1989
+  - Paul Rusch CUP　: 1回
+      - 1999
+  - オーバーリーガ・Nordost-Nord （ドイツ4部）: 1回
+      - 2002
+  - Verbandsliga Berlin（ドイツ5部）: 1回
+      - 2004
+
+## 過去の成績
+
+  - 2006-2007: レギオナルリーガ 10位
+
+## 歴代監督
+
+  - ユルゲン・ボグス 1977-1989
+
+## 歴代所属選手
+
+  - [アンドレアス・トーム](https://ja.wikipedia.org/wiki/アンドレアス・トーム "wikilink") 1974–1990
+
+  - [ライナー・エルンスト](https://ja.wikipedia.org/wiki/ライナー・エルンスト "wikilink") 1975–1990
+
+  - [トーマス・ドル](https://ja.wikipedia.org/wiki/トーマス・ドル "wikilink") 1986-1990
+
+## 参考文献
+
+  - サイモン・クーパー『サッカーの敵（原題*Football Against the Enemy*）』（[白水社](https://ja.wikipedia.org/wiki/白水社 "wikilink")、2001年）
+  - ウルリッヒ・ヘッセ・リヒテンベルガー『ブンデスリーガ - ドイツサッカーの軌跡』（バジリコ株式会社、2005年）
+
+## 外部リンク
+
+  - [公式サイト](http://www.bfcdynamo.biz/)
+
+[Category:ドイツのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ドイツのサッカークラブ "wikilink") [Category:ドイツ民主共和国のサッカークラブ](https://ja.wikipedia.org/wiki/Category:ドイツ民主共和国のサッカークラブ "wikilink") [Category:ベルリンのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ベルリンのサッカークラブ "wikilink") [Category:1953年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1953年設立のスポーツチーム "wikilink")

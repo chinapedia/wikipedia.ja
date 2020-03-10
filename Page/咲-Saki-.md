@@ -1,0 +1,2475 @@
+> この記事は[-Saki-](https://ja.wikipedia.org/wiki/-Saki-)から翻訳されています。
+
+
+|- |colspan="2" style="padding:0"|
+
+<table>
+<thead>
+<tr class="header">
+<th><p><strong>アニメ</strong> {{Infobox animanga/TVAnime</p></th>
+<th><p>タイトル= 咲-Saki-</p></th>
+<th><p>原作= 小林立</p></th>
+<th><p>監督= <a href="https://ja.wikipedia.org/wiki/小野学_(アニメーション監督)" title="wikilink">小野学</a></p></th>
+<th><p>シリーズ構成= <a href="https://ja.wikipedia.org/wiki/浦畑達彦" title="wikilink">浦畑達彦</a></p></th>
+<th><p>脚本= 浦畑達彦</p></th>
+<th><p>キャラクターデザイン= <a href="https://ja.wikipedia.org/wiki/佐々木政勝" title="wikilink">佐々木政勝</a></p></th>
+<th><p>音楽= <a href="https://ja.wikipedia.org/wiki/渡辺剛_(キーボード奏者)" title="wikilink">渡辺剛</a></p></th>
+<th><p>アニメーション制作= <a href="../Page/ゴンゾ.md" title="wikilink">GONZO</a>（第1局 - 第14局）<br />
+<a href="https://ja.wikipedia.org/wiki/ピクチャーマジック" title="wikilink">ピクチャーマジック</a>（第15局 - 第25局）</p></th>
+<th><p>製作= 清澄高校麻雀部</p></th>
+<th><p>放送局= <a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>ほか</p></th>
+<th><p>放送開始= <a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></th>
+<th><p>放送終了= <a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></th>
+<th><p>話数= 全25話</p></th>
+<th><p>その他= }} {{Infobox animanga/TVAnime</p></th>
+<th><p>タイトル= 咲-Saki- 阿知賀編 episode of side-A</p></th>
+<th><p>原作= 小林立</p></th>
+<th><p>監督= 小野学</p></th>
+<th><p>シリーズ構成= 浦畑達彦</p></th>
+<th><p>脚本= 浦畑達彦</p></th>
+<th><p>キャラクターデザイン= 佐々木政勝</p></th>
+<th><p>音楽= 渡辺剛</p></th>
+<th><p>アニメーション制作= <a href="https://ja.wikipedia.org/wiki/Studio五組" title="wikilink">Studio五組</a></p></th>
+<th><p>製作= 咲阿知賀編製作委員会</p></th>
+<th><p>放送局= テレビ東京ほか</p></th>
+<th><p>放送開始= <a href="../Page/2012年.md" title="wikilink">2012年</a><a href="https://ja.wikipedia.org/wiki/4月8日" title="wikilink">4月8日</a></p></th>
+<th><p>放送終了= <a href="../Page/7月1日.md" title="wikilink">7月1日</a></p></th>
+<th><p>話数= 全12話 + テレビ未放送4話</p></th>
+<th><p>その他= }} {{Infobox animanga/TVAnime</p></th>
+<th><p>タイトル= 咲-Saki- 全国編</p></th>
+<th><p>原作= 小林立</p></th>
+<th><p>監督= 小野学</p></th>
+<th><p>シリーズ構成= 浦畑達彦</p></th>
+<th><p>脚本= 浦畑達彦</p></th>
+<th><p>キャラクターデザイン= 佐々木政勝</p></th>
+<th><p>音楽= 渡辺剛</p></th>
+<th><p>アニメーション制作= Studio五組</p></th>
+<th><p>製作= 咲全国編製作委員会</p></th>
+<th><p>放送局= テレビ東京ほか</p></th>
+<th><p>放送開始= <a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/1月5日.md" title="wikilink">1月5日</a></p></th>
+<th><p>放送終了= <a href="../Page/4月6日.md" title="wikilink">4月6日</a></p></th>
+<th><p>話数= 全13話</p></th>
+<th><p>その他= }}</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+|- |colspan="2" style="padding:0"|
+
+<table>
+<thead>
+<tr class="header">
+<th><p><strong>インターネットラジオ</strong> {{Infobox animanga/Radio</p></th>
+<th><p>タイトル= 咲らじ-清澄高校麻雀部-</p></th>
+<th><p>愛称=</p></th>
+<th><p>放送開始= <a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/5月31日.md" title="wikilink">5月31日</a></p></th>
+<th><p>放送終了= <a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/1月31日.md" title="wikilink">1月31日</a></p></th>
+<th><p>放送局= <a href="https://ja.wikipedia.org/wiki/アニメイトTV" title="wikilink">アニメイトTV</a></p></th>
+<th><p>放送時間= 隔週<a href="https://ja.wikipedia.org/wiki/木曜日" title="wikilink">木曜日</a>・途中から不定期木曜</p></th>
+<th><p>放送回数=</p></th>
+<th><p>放送形式= <a href="https://ja.wikipedia.org/wiki/収録" title="wikilink">収録</a>、<a href="../Page/ストリーミング.md" title="wikilink">ストリーミング</a></p></th>
+<th><p>スタジオ=</p></th>
+<th><p>ネット局=</p></th>
+<th><p>パーソナリティ= <a href="https://ja.wikipedia.org/wiki/植田佳奈" title="wikilink">植田佳奈</a>、<a href="https://ja.wikipedia.org/wiki/小清水亜美" title="wikilink">小清水亜美</a></p></th>
+<th><p>構成作家=</p></th>
+<th><p>ディレクター=</p></th>
+<th><p>プロデューサー=</p></th>
+<th><p>提供=</p></th>
+<th><p>その他=</p></th>
+<th><p>インターネット= 1 }} {{Infobox animanga/Radio</p></th>
+<th><p>タイトル=<br />
+咲らじ-阿知賀女子学院麻雀部-</p></th>
+<th><p>愛称=</p></th>
+<th><p>放送開始= 2012年<a href="../Page/4月24日.md" title="wikilink">4月24日</a></p></th>
+<th><p>7月24日]]</p></th>
+<th><p>放送局= <a href="https://ja.wikipedia.org/wiki/ニコニコ生放送" title="wikilink">ニコニコ生放送</a></p></th>
+<th><p>放送時間= 第2・第4<a href="../Page/火曜日.md" title="wikilink">火曜日</a> 21:00 - 22:00</p></th>
+<th><p>放送回数=全7回</p></th>
+<th><p>放送形式= <a href="https://ja.wikipedia.org/wiki/生放送" title="wikilink">生放送</a>、ストリーミング</p></th>
+<th><p>スタジオ=</p></th>
+<th><p>ネット局=</p></th>
+<th><p>ネットワーク=</p></th>
+<th><p>パーソナリティ= <a href="https://ja.wikipedia.org/wiki/悠木碧" title="wikilink">悠木碧</a><br />
+<a href="https://ja.wikipedia.org/wiki/内山夕実" title="wikilink">内山夕実</a>（第2火曜日）<br />
+<a href="https://ja.wikipedia.org/wiki/東山奈央" title="wikilink">東山奈央</a>（第4火曜日）</p></th>
+<th><p>DJ=</p></th>
+<th><p>アシスタント=</p></th>
+<th><p>構成作家=</p></th>
+<th><p>ディレクター=</p></th>
+<th><p>プロデューサー=</p></th>
+<th><p>ミキサー=</p></th>
+<th><p>脚本=</p></th>
+<th><p>演出=</p></th>
+<th><p>その他のスタッフ=</p></th>
+<th><p>提供=</p></th>
+<th><p>その他=</p></th>
+<th><p>インターネット=1 }} {{Infobox animanga/Radio</p></th>
+<th><p>タイトル=<br />
+咲らじ-全国編-</p></th>
+<th><p>愛称=</p></th>
+<th><p>放送開始= 2013年<a href="../Page/12月27日.md" title="wikilink">12月27日</a></p></th>
+<th><p>4月23日]]</p></th>
+<th><p>放送局= <a href="https://ja.wikipedia.org/wiki/音泉" title="wikilink">音泉</a></p></th>
+<th><p>放送時間= 毎週<a href="../Page/水曜日.md" title="wikilink">水曜日</a></p></th>
+<th><p>放送回数=全13回 ＋ 第0回（プレ放送）</p></th>
+<th><p>放送形式= 収録、ストリーミング</p></th>
+<th><p>スタジオ=</p></th>
+<th><p>ネット局=</p></th>
+<th><p>ネットワーク=</p></th>
+<th><p>パーソナリティ= 植田佳奈、小清水亜美</p></th>
+<th><p>DJ=</p></th>
+<th><p>アシスタント=</p></th>
+<th><p>構成作家=</p></th>
+<th><p>ディレクター=</p></th>
+<th><p>プロデューサー=</p></th>
+<th><p>ミキサー=</p></th>
+<th><p>脚本=</p></th>
+<th><p>演出=</p></th>
+<th><p>その他のスタッフ=</p></th>
+<th><p>提供=</p></th>
+<th><p>その他=</p></th>
+<th><p>インターネット=1 }}</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+『**咲-Saki-**』（さき）は、[小林立](https://ja.wikipedia.org/wiki/小林立 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[麻雀漫画](https://ja.wikipedia.org/wiki/麻雀漫画 "wikilink")。主人公を含めた多くの主要登場人物は[女子高生](https://ja.wikipedia.org/wiki/女子高生 "wikilink")。麻雀がより社会に浸透した架空の世界で、主人公たちは競技会に参加するなどして腕を競い合う。2006年より雑誌連載が開始され、[2019年](../Page/2019年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")現在も連載中。
+
+## 概要
+
+[スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")『[ヤングガンガン](https://ja.wikipedia.org/wiki/ヤングガンガン "wikilink")』[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4号から6号にかけて短期掲載され、その後同年12号より連載中\[1\]。
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")8号にて、[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")の放送と[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")（2007年[12月21日](../Page/12月21日.md "wikilink")発売）のリリースが発表された。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")12月に[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化が発表され、[2009年](../Page/2009年.md "wikilink")4月から9月まで放送された。
+
+[2011年](../Page/2011年.md "wikilink")6月発行の単行本第8巻および『[増刊ヤングガンガンビッグ](https://ja.wikipedia.org/wiki/月刊ビッグガンガン "wikilink")』Vol.2において、テレビアニメの新シリーズを制作することが発表され、同時に[五十嵐あぐり](https://ja.wikipedia.org/wiki/五十嵐あぐり "wikilink")作画による外伝作品『**咲-Saki-阿知賀編 episode of side-A**』（さき あちがへん エピソード オブ サイド エー）が『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』2011年9月号より連載が開始されることも発表\[2\]、2011年10月発行の『ヤングガンガン』2011年20号およびアニメ公式サイトで『阿知賀編』を原作として制作すると発表され、[2012年](../Page/2012年.md "wikilink")4月から7月まで放送された。
+
+テレビアニメ第3作として『全国編』の制作も決定し、[2014年](../Page/2014年.md "wikilink")1月から4月まで放送された。また、阿知賀編の作画を担当した五十嵐あぐり作画による外伝作品『'''シノハユ the dawn of age '''』が『月刊ビッグガンガン』2013年Vol.10より連載が開始している。
+
+2016年9月2日発行の『ヤングガンガン』2016年18号において、実写ドラマ及び映画の製作が発表され、2016年12月に全4話で[深夜ドラマ](https://ja.wikipedia.org/wiki/深夜ドラマ "wikilink")として放送された後、2017年2月3日に映画が公開された\[3\]。
+
+### 咲-Saki-阿知賀編 episode of side-A
+
+『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』2011年9月号から2013年4月号まで連載された[外伝](https://ja.wikipedia.org/wiki/外伝 "wikilink")作品。作画は[五十嵐あぐり](https://ja.wikipedia.org/wiki/五十嵐あぐり "wikilink")が担当している。話数カウントは本編と同じく「第●局」。
+
+かつて原村和が在籍していた[奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")の女子校・阿知賀女子学院を舞台に、インターミドルでの和の活躍をテレビで見たかつての旧友・高鴨穏乃達が「和とまた遊びたい」と奮起、麻雀同好会を結成し部員を集めて麻雀部にした後インターハイ出場を目指す。
+
+時系列としては小学校時代の高鴨穏乃・新子憧や和の交流から始まり、中学進学後の和の転校、高等部での麻雀部結成や県予選を経てインターハイでの内容を描いている。第3局以降では時間軸的に本編と並行しているため清澄高校や龍門渕高校、風越女子高校や鶴賀学園などが話に登場してくる場合がある。
+
+2012年4月から7月までテレビアニメが放送（地上波は12話まで）、追加で4話分が放送、配信された。詳細は[テレビアニメの節を参照](https://ja.wikipedia.org/wiki/#咲-Saki-_阿知賀編_episode_of_side-A（第2作） "wikilink")。
+
+また本編同様、実写化も行われ、2017年12月に全4話で深夜ドラマとして放送された後、2018年1月に映画が公開された\[4\]。
+
+### 咲日和
+
+『ヤングガンガン』2011年13号から『ビッグガンガン』2018年Vol.04まで連載された[木吉紗](https://ja.wikipedia.org/wiki/木吉紗 "wikilink")によるパロディ[4コマ漫画](../Page/4コマ漫画.md "wikilink")。麻雀に関連する描写は比較的少なく、登場人物たちの日常におけるやりとりが中心になっている。小林によると「咲日和であったことは本編でもあったことにしている」との説明がある\[5\]。
+
+当初は本編休載時の[読み切り](https://ja.wikipedia.org/wiki/読み切り "wikilink")だったが、15号からの3号連続掲載を経て18号より正式に連載開始となった。増刊の『[月刊ビッグガンガン](https://ja.wikipedia.org/wiki/月刊ビッグガンガン "wikilink")』でも2011年Vol.1より『ヤングガンガン』と並行連載を開始、『ヤングガンガン』での連載は2012年17号で終了し以降は『ビッグガンガン』のみでの連載に移行している。
+
+『ビッグガンガン』誌上や『咲-Saki-』本編13巻の帯にて、本編14巻の初回限定特装版（[2015年](../Page/2015年.md "wikilink")7月発売）として[OVA](../Page/OVA.md "wikilink")化された。
+
+### シノハユ the dawn of age
+
+『ビッグガンガン』2013年Vol.10より掲載。[阿知賀編に引き続き五十嵐あぐりが作画を担当](https://ja.wikipedia.org/wiki/#咲-Saki-阿知賀編_episode_of_side-A "wikilink")。
+
+咲達の世代から10年前に行われたインターハイ出場者となる白築慕を、彼女が小学生の頃から描いた物語で、[島根県](../Page/島根県.md "wikilink")[松江市](../Page/松江市.md "wikilink")を舞台としている。
+
+### 立-Ritz-
+
+[大和田秀樹](../Page/大和田秀樹.md "wikilink")によるスピンオフ作品。小林立を主人公とし彼女の半生記が虚虚実実混じえて語られる。
+
+2009年に本作が休載されたのを受けて、本作の応援漫画として執筆された（『[ムダヅモ無き改革](https://ja.wikipedia.org/wiki/ムダヅモ無き改革 "wikilink")』第3巻に収録）。その後2013年に『立-Ritz-阿知賀編 episode of side-A』が掲載、2014年8月発行の 『ムダヅモ無き改革』第14巻には特別付録読み切りとして『立-Ritz- season3』が収録されている。2015年8月からは[月刊ビッグガンガン](https://ja.wikipedia.org/wiki/月刊ビッグガンガン "wikilink")2015年Vol.08より4号連続短期連載が行われた。
+
+### 怜-Toki-
+
+『ビッグガンガン』2016年Vol.7より掲載。「阿知賀編」や「シノハユ」と違い原案として設定のみ提供し、漫画は[めきめき](https://ja.wikipedia.org/wiki/めきめき "wikilink")が担当する\[6\]。
+
+『阿知賀編』に登場した千里山女子高校の園城寺怜を主人公にした物語が描かれる。
+
+### 染谷まこの雀荘メシ
+
+『ヤングガンガン』2019年Vol.12より月イチ掲載。「[怜-Toki-](https://ja.wikipedia.org/wiki/怜-Toki- "wikilink")」に引き続き原案として設定のみ提供し、漫画も[めきめき](https://ja.wikipedia.org/wiki/めきめき "wikilink")が担当する。
+
+染谷まこを主人公としたグルメ漫画で、雀荘「roof-top」で料理を振る舞う物語となっている。
+
+## 登場人物
+
+  -
+    ※ 声はアニメの[声優](../Page/声優.md "wikilink")、演は実写の[キャスト](../Page/キャスト.md "wikilink")。
+
+### 本編の主な登場人物
+
+  - 宮永 咲（みやなが さき）
+    声 - [植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink") / 演 - [浜辺美波](https://ja.wikipedia.org/wiki/浜辺美波 "wikilink")\[7\]
+    本作の主人公。清澄高校1年生。
+    普段は気が弱くて泣き虫な[ドジっ娘](https://ja.wikipedia.org/wiki/ドジっ娘 "wikilink")だが、麻雀においては「プラマイゼロ」といった点数調整に長け、超人的な勘も持ち合わせた感性派の打ち手。[嶺上開花](../Page/嶺上開花.md "wikilink")を得意とする。
+  - 原村 和（はらむら のどか）
+    声 - [小清水亜美](https://ja.wikipedia.org/wiki/小清水亜美 "wikilink") / 演 - [浅川梨奈](https://ja.wikipedia.org/wiki/浅川梨奈 "wikilink")\[8\]
+    清澄高校1年生。[巨乳](../Page/巨乳.md "wikilink")と[ツインテール](https://ja.wikipedia.org/wiki/ツインテール "wikilink")が特徴の美少女。
+    全国中学生麻雀大会（インターミドル）個人戦優勝の経験を持つ実力者で、運に頼らない[完全理論派（デジタル）の打ち手](https://ja.wikipedia.org/wiki/デジタル_\(麻雀\) "wikilink")。
+  - 片岡 優希（かたおか ゆうき）
+    声 - [釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink") / 演 - [廣田あいか](https://ja.wikipedia.org/wiki/廣田あいか "wikilink")\[9\]
+    清澄高校1年生。和とは中学時代からの友人。お気楽にして豪快な性格。「だじょ」が口癖。
+    速攻型の打ち手で、東場では強さを発揮するが、南場になると集中力が切れて失速する。[タコス](https://ja.wikipedia.org/wiki/タコス "wikilink")が大好物。
+  - 染谷 まこ（そめや まこ）
+    声 - [白石涼子](https://ja.wikipedia.org/wiki/白石涼子 "wikilink") / 演 - [山田杏奈](https://ja.wikipedia.org/wiki/山田杏奈 "wikilink")\[10\]
+    清澄高校2年生。広島弁（[中国方言](../Page/中国方言.md "wikilink")）でしゃべる[眼鏡っ子](https://ja.wikipedia.org/wiki/眼鏡キャラクター "wikilink")。染め手を得意としている。
+    家は[雀荘](https://ja.wikipedia.org/wiki/雀荘 "wikilink")を経営しており、その関係で膨大な量の対局を記憶していて、その記憶を元に戦術に組み込むことができる。
+    染谷まこの雀荘メシの主人公でもある。
+  - 竹井 久（たけい ひさ）
+    声 - [伊藤静](https://ja.wikipedia.org/wiki/伊藤静 "wikilink") / 演 - [古畑星夏](https://ja.wikipedia.org/wiki/古畑星夏 "wikilink")\[11\]
+    清澄高校3年生、学生議会長（生徒会長）、麻雀部部長。廃部寸前だった麻雀部を建て直し、インターハイ優勝を目指し静かな闘志を燃やす。
+    オーソドックスなデジタル打ちをするが、状況に応じてセオリーを無視した打ち方も行う。
+  - 須賀 京太郎（すが きょうたろう）
+    声 - [福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")
+    清澄高校1年生。咲とは中学時代から現在に至るまでのクラスメイト。
+    清澄高校麻雀部唯一の男性部員でもあり、咲を麻雀部に誘った張本人だが麻雀は初心者。
+
+### 阿知賀編の主な登場人物
+
+  - 高鴨 穏乃（たかかも しずの）
+    声 - [悠木碧](https://ja.wikipedia.org/wiki/悠木碧 "wikilink") / 演 - [桜田ひより](https://ja.wikipedia.org/wiki/桜田ひより "wikilink")
+    阿知賀女子学院高等部1年生、阿知賀編の主人公。いつも紺色の[ジャージを着用している](../Page/ジャージー_\(衣類\).md "wikilink")。
+    ポジティブな性格で、相手が誰であろうと粘り強く麻雀を打つ。牌の山を支配する能力を持つ。
+  - 新子 憧（あたらし あこ）
+    声 - [東山奈央](https://ja.wikipedia.org/wiki/東山奈央 "wikilink") / 演 - [伊藤萌々香](https://ja.wikipedia.org/wiki/伊藤萌々香 "wikilink")
+    阿知賀女子学院高等部1年生。穏乃の幼馴染で同級生。ツーサイドアップに束ねた髪型と吊り目が特徴。
+    能力者では無いが阿知賀では一番麻雀がうまいと言われている。
+  - 松実 玄（まつみ くろ）
+    声 - [花澤香菜](https://ja.wikipedia.org/wiki/花澤香菜 "wikilink") / 演 - [恒松祐里](https://ja.wikipedia.org/wiki/恒松祐里 "wikilink")
+    阿知賀女子学院高等部2年生。穏乃たちの幼馴染。
+    手牌にドラが集まるという特殊な能力を持ち、その能力から**阿知賀のドラゴンロード**と呼ばれている。
+  - 松実 宥（まつみ ゆう）
+    声 - [MAKO](https://ja.wikipedia.org/wiki/MAKO "wikilink") / 演 - [渡邉幸愛](https://ja.wikipedia.org/wiki/渡邉幸愛 "wikilink")
+    阿知賀女子学院高等部3年生で玄の姉。極度の寒がりで夏でも[マフラーや](https://ja.wikipedia.org/wiki/襟巻き "wikilink")[手袋](https://ja.wikipedia.org/wiki/手袋 "wikilink")を身に着けている。
+    妹と同じく能力者で、赤い部分がある牌が集まる能力を持つ。
+  - 鷺森 灼（さぎもり あらた）
+    声 - [内山夕実](https://ja.wikipedia.org/wiki/内山夕実 "wikilink") / 演 - [中山莉子](https://ja.wikipedia.org/wiki/中山莉子 "wikilink")
+    阿知賀女子学院高等部2年生で玄の同級生。麻雀部部長。実家は[ボウリング](../Page/ボウリング.md "wikilink")場を経営しており、対局時にはボウリングのグローブを腕にはめている。
+    牌をボウリングのピンに見立て、ピンの倒し方に見立てて筒子の多面張であがる能力を持つ。
+  - 赤土 晴絵（あかど はるえ）
+    声 - [進藤尚美](../Page/進藤尚美.md "wikilink") / 演 - [南沢奈央](https://ja.wikipedia.org/wiki/南沢奈央 "wikilink")
+    阿知賀女子学院のOGで麻雀部の監督。高校時代には選手として阿知賀を全国へと導いたことから、**阿知賀のレジェンド**と呼ばれている。
+
+### シノハユの主な登場人物
+
+  - 白築 慕（しらつき しの）
+    シノハユの主人公。湯町小学校出身。幼少期に行方不明となった母がおり、その時から母と麻雀に興じていた。
+    どんな状況下でも麻雀を心から楽しみ、常に笑顔で打つことが多い。
+  - 石飛 閑無（いしとび かんな）
+    慕の幼馴染。湯町小学校出身。荒々しい口調でしゃべる。大会で負けたはやりに対して強い対抗心を抱き、打倒はやりを目指している。
+  - 瑞原 はやり（みずはら はやり）
+    声 - [田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")（全国編）
+    北堀小学校出身。咲本編にもプロ雀士として登場。この頃から麻雀大会での優勝経験が何度もあり、マスコミからも注目されている。
+
+### 怜-Toki-の主な登場人物
+
+  - 園城寺 怜（おんじょうじ とき）
+    声 - [小倉唯](https://ja.wikipedia.org/wiki/小倉唯 "wikilink")（阿知賀編） / 演 - [咲良菜緒](https://ja.wikipedia.org/wiki/咲良菜緒 "wikilink")（阿知賀編）
+    怜-Toki-の主人公。千里山女子高校3年生。病弱ではあるが、対局時に一巡先を見る能力を持ち、全国屈指のエース選手となる。
+    阿知賀編ではインターハイ2回戦・準決勝と阿知賀女子学院と戦うことになる。
+  - 清水谷 竜華（しみずだに りゅうか）
+    声 - [石原夏織](https://ja.wikipedia.org/wiki/石原夏織 "wikilink")（阿知賀編） / 演 - [小倉優香](https://ja.wikipedia.org/wiki/小倉優香 "wikilink")（阿知賀編）
+    千里山女子高校3年生で麻雀部部長兼チーム主将。怜とは中学時代からの友人で、病弱な怜を常に気にかけている。
+
+## 作中での競技ルール
+
+### 基本ルール
+
+[一発](../Page/一発.md "wikilink")[裏ドラ](https://ja.wikipedia.org/wiki/裏ドラ "wikilink")あり、[赤ドラ](https://ja.wikipedia.org/wiki/赤ドラ "wikilink")4枚、頭ハネ、ダブル[役満なし](../Page/役満貫.md "wikilink")、数え役満あり、[喰いタン](../Page/断ヤオ九.md "wikilink")[後付けあり](../Page/完全先付け.md "wikilink")（[アリアリ](https://ja.wikipedia.org/wiki/麻雀のルール#アリアリとナシナシ "wikilink")）と、インターハイという競技を扱う漫画であるものの、運の要素を重視しているルールが採用されている。他に細かいルールとして、大明槓の[責任払い](https://ja.wikipedia.org/wiki/責任払い#大明槓の包 "wikilink")、[連風対子の4符扱い](https://ja.wikipedia.org/wiki/符計算 "wikilink")、等が採用されている。
+
+前年は[プロの競技ルールに近い内容だったが](https://ja.wikipedia.org/wiki/競技麻雀 "wikilink")、作中時間内の本年から大幅なレギュレーションの変更があったとのこと。
+
+シノハユで行われる小学生の大会では、赤ドラがないだけでなく、一発、カンドラ、裏ドラ、[流し満貫](../Page/流し満貫.md "wikilink")もなし。ほぼ[プロの競技ルールに準拠している](https://ja.wikipedia.org/wiki/競技麻雀 "wikilink")。またダブロン、トリプルロンもなく頭ハネ（上家優先）となる。
+
+### 団体戦ルール
+
+  - 本編、阿知賀編
+      - 各校5人ずつ選手を登録し、先鋒、次鋒、中堅、副将、大将の順に各選手が半荘1回ないし2回ずつ打つ。大会中、選手のポジション変更は出来ない。ただし、緊急時向けの補欠選手を指名することができる。また、作中時間の今年度から留学生の先鋒起用が禁止された。インターハイの開催期間中の間は、代表校になったら他県の代表校との練習試合は出来ないが、予選2位以下の高校との練習試合は可能。また、代表校の団体戦のメンバーが個人戦の方にも出場していない場合は個人戦の県代表メンバーとの練習試合も可能。
+      - 各校100,000点持ちでスタート、[ウマや](../Page/ウマ_\(麻雀\).md "wikilink")[オカは無く](https://ja.wikipedia.org/wiki/麻雀の点#オカ "wikilink")、点数はそのまま次の選手に引き継がれる。大将戦終了時または[トビ](https://ja.wikipedia.org/wiki/箱_\(麻雀\) "wikilink")（0点ちょうどは続行）終了時点で最も点数の高いチーム（全国1回戦）、もしくは上位2校（全国2回戦、全国準決勝）が勝ち抜けとなる。同点の場合は上家取りを採用する。上位2校通過の場合、1位、2位どちらであっても同格の勝ち抜けであるが、1位狙いにこだわるチームもある。
+      - 後続になるほど点差によって自由が利かなくなり、さらに前述の通りトビ終了があるため、強い選手を前から順に据えることが多い。特に先鋒は唯一平等な条件下で戦えるため、各チームのエースが出ることが多い。
+  - シノハユ
+      - 基本的には上記と同じだが、以下の点が大きく異なる。
+      - 1試合に1か所のみポジション変更が可能（例：先鋒と副将を入れ替え）。また、補欠選手とも交代できる。
+      - 各ポジションごとに30,000点持ちの30,000点返しで次の選手への点数引き継ぎはなく、先鋒～副将がトビ終了しても次の選手へ移行。プロの競技ルールに似た打点の伸びにくさも相まって単独での荒稼ぎは難しく、総合力が求められる。また、個人の失点にも下限があるので後続が比較的挽回しやすい。
+      - 大将戦終了時に5人の合計点が最も高い1チームの勝ち抜けとなるが、区間1位を3回取ればその時点で点数に関係なく勝ち抜け決定。このため、3勝を狙う（防ぐ）目的で先鋒～中堅に強い選手を置くチームが多い。
+
+## 作風
+
+全国高校生麻雀大会（[インターハイ](../Page/全国高等学校総合体育大会.md "wikilink")）優勝を目指す清澄高校麻雀部と、その新入部員である宮永咲の物語。金銭の絡む[ギャンブル](https://ja.wikipedia.org/wiki/ギャンブル "wikilink")特有の殺伐とした雰囲気が漂う従来の麻雀漫画とは一線を画し、麻雀が[将棋](../Page/将棋.md "wikilink")、[囲碁](../Page/囲碁.md "wikilink")などと同様の知的スポーツとして認知され現実より一般大衆に浸透し、高校生・中学生の[競技麻雀](https://ja.wikipedia.org/wiki/競技麻雀 "wikilink")公式大会も行われる（作中ではインターハイの県大会団体戦決勝戦や全国大会がテレビ中継されている描写もある）世界観の中で物語が進む。
+
+本作の特徴として麻雀漫画では珍しい[萌え絵](https://ja.wikipedia.org/wiki/萌え絵 "wikilink")で[美少女](../Page/美少女.md "wikilink")雀士が活躍すること、[主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")の宮永咲をはじめとする登場キャラたちが超人的な闘牌を見せる一方で初心者と上級者でツモ牌を切る動作に違いがあったり捨牌の並べ方がキャラクターによって異なるなど麻雀描写が丁寧であることが挙げられる。
+
+作中では「意図的に狙った役で上がり続ける」と思わせるようなキャラクターも存在するが、それが特殊能力であると断定するシーンは無く固有の能力名なども語られていない。 その為、存在しない能力が勝敗に起因する必然性は無くなり、可能性は限りなく低くとも「卓上では起こりうる」範疇となっている。
+
+なお、作者の小林は作中における麻雀描写の牌譜は作中で描写されていない部分も含め全て作者が1人で考えていると述べている\[12\]\[13\]\[14\]。
+
+県予選編までは[長野県](../Page/長野県.md "wikilink")を舞台としている\[15\]。小林立の作品で長野が舞台となるのは、漫画家としてのデビュー作『[FATALIZER](https://ja.wikipedia.org/wiki/FATALIZER "wikilink")』以来となる。
+
+## 休載について
+
+『ヤングガンガン』に掲載されている作品は1つの号に掲載可能な作品数よりも連載作品数が多いために誌の方針上定期的に休載するが、その中でも本作品は比較的休載が多く掲載された場合でもページ数が圧倒的に不足している場合もある（アニメ放映中は顕著であり通常16P前後であるが10P前後で掲載されることもあった）。2015年初頭からは原稿が未完成（下書きのまま・トーンが貼られていない・背景が描かれていない、等）のまま雑誌掲載されることもあった。
+
+## 書誌情報
+
+### 単行本
+
+<table>
+<thead>
+<tr class="header">
+<th><p>!初版発行日付（発売日）</p></th>
+<th><p>ISBN</p></th>
+<th><p>表紙絵の中心キャラクター（所持牌）</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/小林立" title="wikilink">小林立</a> 『咲-Saki-』 <a href="https://ja.wikipedia.org/wiki/スクウェア・エニックス" title="wikilink">スクウェア・エニックス</a>〈<a href="https://ja.wikipedia.org/wiki/ヤングガンガンコミックス" title="wikilink">ヤングガンガンコミックス</a>〉、既刊19巻（2019年5月25日現在）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第1巻</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a>初版発行（<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/12月25日.md" title="wikilink">12月25日</a>発売[16]）</p></td>
+<td><p>ISBN 4-7575-1782-3</p></td>
+</tr>
+<tr class="odd">
+<td><p>第2巻</p></td>
+<td><p>2007年<a href="../Page/6月25日.md" title="wikilink">6月25日</a>初版発行（同年<a href="../Page/5月25日.md" title="wikilink">5月25日</a>発売[17]）</p></td>
+<td><p>ISBN 978-4-7575-2019-6</p></td>
+</tr>
+<tr class="even">
+<td><p>第3巻</p></td>
+<td><p>2007年12月25日初版発行（同年<a href="../Page/11月24日.md" title="wikilink">11月24日</a>発売[18]）</p></td>
+<td><p>ISBN 978-4-7575-2164-3</p></td>
+</tr>
+<tr class="odd">
+<td><p>第4巻</p></td>
+<td><p>2008年<a href="../Page/7月25日.md" title="wikilink">7月25日</a>初版発行（同年6月25日発売[19]）</p></td>
+<td><p>ISBN 978-4-7575-2316-6</p></td>
+</tr>
+<tr class="even">
+<td><p>第5巻</p></td>
+<td><p>2009年<a href="../Page/4月25日.md" title="wikilink">4月25日</a>初版発行（同年<a href="https://ja.wikipedia.org/wiki/3月25日" title="wikilink">3月25日</a>発売[20]）</p></td>
+<td><p>ISBN 978-4-7575-2517-7</p></td>
+</tr>
+<tr class="odd">
+<td><p>第6巻</p></td>
+<td><p>2009年<a href="../Page/8月25日.md" title="wikilink">8月25日</a>初版発行（同年7月25日発売[21]）</p></td>
+<td><p>ISBN 978-4-7575-2623-5</p></td>
+</tr>
+<tr class="even">
+<td><p>第7巻</p></td>
+<td><p>2010年<a href="../Page/4月24日.md" title="wikilink">4月24日</a>初版発行（同日発売[22]）</p></td>
+<td><p>ISBN 978-4-7575-2859-8</p></td>
+</tr>
+<tr class="odd">
+<td><p>第8巻</p></td>
+<td><p>2011年6月25日初版発行（同日発売[23]）</p></td>
+<td><p>ISBN 978-4-7575-3272-4</p></td>
+</tr>
+<tr class="even">
+<td><p>第9巻</p></td>
+<td><p>2012年<a href="../Page/3月24日.md" title="wikilink">3月24日</a>初版発行（同日発売[24]）</p></td>
+<td><p>ISBN 978-4-7575-3537-4</p></td>
+</tr>
+<tr class="odd">
+<td><p>第10巻</p></td>
+<td><p>2012年6月25日初版発行（同日発売[25]）</p></td>
+<td><p>ISBN 978-4-7575-3635-7</p></td>
+</tr>
+<tr class="even">
+<td><p>第11巻</p></td>
+<td><p>2013年4月25日初版発行（同日発売[26]）</p></td>
+<td><p>ISBN 978-4-7575-3934-1</p></td>
+</tr>
+<tr class="odd">
+<td><p>第12巻</p></td>
+<td><p>2013年12月25日初版発行（同日発売[27]）</p></td>
+<td><p>ISBN 978-4-7575-4182-5</p></td>
+</tr>
+<tr class="even">
+<td><p>第13巻</p></td>
+<td><p>2014年9月25日初版発行（同日発売[28]）</p></td>
+<td><p>ISBN 978-4-7575-4422-2</p></td>
+</tr>
+<tr class="odd">
+<td><p>第14巻</p></td>
+<td><p>2015年7月25日初版発行（同日発売[29][30]）</p></td>
+<td><p>ISBN 978-4-7575-4490-1<br />
+ISBN 978-4-7575-4489-5(初回限定特装版)</p></td>
+</tr>
+<tr class="even">
+<td><p>第15巻</p></td>
+<td><p>2016年3月25日初版発行（同日発売[31]）</p></td>
+<td><p>ISBN 978-4-7575-4919-7</p></td>
+</tr>
+<tr class="odd">
+<td><p>第16巻</p></td>
+<td><p>2016年12月24日初版発行（同日発売[32]）</p></td>
+<td><p>ISBN 978-4-7575-5193-0</p></td>
+</tr>
+<tr class="even">
+<td><p>第17巻</p></td>
+<td><p>2017年11月25日初版発行（同日発売[33]）</p></td>
+<td><p>ISBN 978-4-7575-5530-3</p></td>
+</tr>
+<tr class="odd">
+<td><p>第18巻</p></td>
+<td><p>2018年10月25日初版発行（同日発売[34]）</p></td>
+<td><p>ISBN 978-4-7575-5889-2</p></td>
+</tr>
+<tr class="even">
+<td><p>第19巻</p></td>
+<td><p>2019年5月25日初版発行（同日発売[35]）</p></td>
+<td><p>ISBN 978-4-7575-6133-5</p></td>
+</tr>
+<tr class="odd">
+<td><p>小林立（原作）・<a href="https://ja.wikipedia.org/wiki/五十嵐あぐり" title="wikilink">五十嵐あぐり</a>（作画） 『咲-Saki-阿知賀編 episode of side-A』 スクウェア・エニックス〈<a href="https://ja.wikipedia.org/wiki/ガンガンコミックス" title="wikilink">ガンガンコミックス</a>〉、全6巻</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第1巻</p></td>
+<td><p>2012年3月24日初版（同日発売[36]）</p></td>
+<td><p>ISBN 978-4-7575-3535-0</p></td>
+</tr>
+<tr class="odd">
+<td><p>第2巻</p></td>
+<td><p>2012年6月25日初版（同日発売[37]）</p></td>
+<td><p>ISBN 978-4-7575-3636-4</p></td>
+</tr>
+<tr class="even">
+<td><p>第3巻</p></td>
+<td><p>2012年8月25日初版（同日発売[38]）</p></td>
+<td><p>ISBN 978-4-7575-3709-5</p></td>
+</tr>
+<tr class="odd">
+<td><p>第4巻</p></td>
+<td><p>2012年11月24日初版（同日発売[39]）</p></td>
+<td><p>ISBN 978-4-7575-3809-2</p></td>
+</tr>
+<tr class="even">
+<td><p>第5巻</p></td>
+<td><p>2013年4月25日初版（同日発売[40]）</p></td>
+<td><p>ISBN 978-4-7575-3911-2</p></td>
+</tr>
+<tr class="odd">
+<td><p>第6巻</p></td>
+<td><p>2013年8月24日初版（同日発売[41]）</p></td>
+<td><p>ISBN 978-4-7575-4052-1</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/木吉紗" title="wikilink">木吉紗</a>・小林立（キャラクター原案） 『咲日和』 スクウェア・エニックス〈<a href="https://ja.wikipedia.org/wiki/スクウェア・エニックスの漫画レーベル#現行のレーベル" title="wikilink">ビッグガンガンコミックス</a>〉、全7巻</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第1巻</p></td>
+<td><p>2012年3月24日初版発行（同日発売[42]）</p></td>
+<td><p>ISBN 978-4-7575-3538-1</p></td>
+</tr>
+<tr class="even">
+<td><p>第2巻</p></td>
+<td><p>2012年8月25日初版発行（同日発売[43]）</p></td>
+<td><p>ISBN 978-4-7575-3708-8</p></td>
+</tr>
+<tr class="odd">
+<td><p>第3巻</p></td>
+<td><p>2013年12月25日初版発行（同日発売[44]）</p></td>
+<td><p>ISBN 978-4-7575-4183-2</p></td>
+</tr>
+<tr class="even">
+<td><p>第4巻</p></td>
+<td><p>2015年7月25日初版発行（同日発売[45]）</p></td>
+<td><p>ISBN 978-4-7575-4698-1</p></td>
+</tr>
+<tr class="odd">
+<td><p>第5巻</p></td>
+<td><p>2016年3月25日初版発行（同日発売[46]）</p></td>
+<td><p>ISBN 978-4-7575-4938-8</p></td>
+</tr>
+<tr class="even">
+<td><p>第6巻</p></td>
+<td><p>2016年12月24日初版発行（同日発売[47]）</p></td>
+<td><p>ISBN 978-4-7575-5194-7</p></td>
+</tr>
+<tr class="odd">
+<td><p>第7巻</p></td>
+<td><p>2018年3月24日初版発行（同日発売[48]）</p></td>
+<td><p>ISBN 978-4-7575-5677-5</p></td>
+</tr>
+<tr class="even">
+<td><p>小林立（原作）・五十嵐あぐり（作画） 『シノハユ the dawn of age』 スクウェア・エニックス〈ビッグガンガンコミックスSUPER〉、既刊11巻（2019年5月25日現在）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第1巻</p></td>
+<td><p>2013年12月25日初版発行（同日発売[49]）</p></td>
+<td><p>ISBN 978-4-7575-4184-9</p></td>
+</tr>
+<tr class="even">
+<td><p>第2巻</p></td>
+<td><p>2014年9月25日初版発行（同日発売[50]）</p></td>
+<td><p>ISBN 978-4-7575-4423-9</p></td>
+</tr>
+<tr class="odd">
+<td><p>第3巻</p></td>
+<td><p>2015年2月25日初版発行（同日発売[51]）</p></td>
+<td><p>ISBN 978-4-7575-4571-7</p></td>
+</tr>
+<tr class="even">
+<td><p>第4巻</p></td>
+<td><p>2015年7月25日初版発行（同日発売[52]）</p></td>
+<td><p>ISBN 978-4-7575-4699-8</p></td>
+</tr>
+<tr class="odd">
+<td><p>第5巻</p></td>
+<td><p>2015年11月25日初版発行（同日発売[53]）</p></td>
+<td><p>ISBN 978-4-7575-4811-4</p></td>
+</tr>
+<tr class="even">
+<td><p>第6巻</p></td>
+<td><p>2016年3月25日初版発行（同日発売[54]）</p></td>
+<td><p>ISBN 978-4-7575-4920-3</p></td>
+</tr>
+<tr class="odd">
+<td><p>第7巻</p></td>
+<td><p>2016年12月24日初版発行（同日発売[55]）</p></td>
+<td><p>ISBN 978-4-7575-5195-4</p></td>
+</tr>
+<tr class="even">
+<td><p>第8巻</p></td>
+<td><p>2017年11月25日初版発行（同日発売[56]）</p></td>
+<td><p>ISBN 978-4-7575-5531-0</p></td>
+</tr>
+<tr class="odd">
+<td><p>第9巻</p></td>
+<td><p>2018年3月24日初版発行（同日発売[57]）</p></td>
+<td><p>ISBN 978-4-7575-5676-8</p></td>
+</tr>
+<tr class="even">
+<td><p>第10巻</p></td>
+<td><p>2018年10月25日初版発行（同日発売[58]）</p></td>
+<td><p>ISBN 978-4-7575-5890-8</p></td>
+</tr>
+<tr class="odd">
+<td><p>第11巻</p></td>
+<td><p>2019年5月25日初版発行（同日発売[59]）</p></td>
+<td><p>ISBN 978-4-7575-6134-2</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/大和田秀樹.md" title="wikilink">大和田秀樹</a> 『立-Ritz-』 スクウェア・エニックス〈ビッグガンガンコミックス〉、全1巻</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第1巻</p></td>
+<td><p>2016年3月25日初版発行（同日発売）</p></td>
+<td><p>ISBN 978-4-7575-4921-0</p></td>
+</tr>
+<tr class="even">
+<td><p>小林立（原案）・<a href="https://ja.wikipedia.org/wiki/めきめき" title="wikilink">めきめき</a>（漫画） 『怜-Toki-』 スクウェア・エニックス〈ビッグガンガンコミックスSUPER〉、既刊5巻（2019年5月25日現在）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第1巻</p></td>
+<td><p>2016年12月24日初版発行（同日発売[60]）</p></td>
+<td><p>ISBN 978-4-7575-5196-1</p></td>
+</tr>
+<tr class="even">
+<td><p>第2巻</p></td>
+<td><p>2017年11月25日初版発行（同日発売[61]）</p></td>
+<td><p>ISBN 978-4-7575-5532-7</p></td>
+</tr>
+<tr class="odd">
+<td><p>第3巻</p></td>
+<td><p>2018年3月24日初版発行（同日発売[62]）</p></td>
+<td><p>ISBN 978-4-7575-5678-2</p></td>
+</tr>
+<tr class="even">
+<td><p>第4巻</p></td>
+<td><p>2018年10月25日初版発行（同日発売[63]）</p></td>
+<td><p>ISBN 978-4-7575-5891-5</p></td>
+</tr>
+<tr class="odd">
+<td><p>第5巻</p></td>
+<td><p>2019年5月25日初版発行（同日発売[64]）</p></td>
+<td><p>ISBN 978-4-7575-6135-9</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 『咲-Saki-』第7巻までと『阿知賀編』第2巻までの表紙に描かれた中心キャラクターは全て麻雀牌を持っており、『咲-Saki-』第6巻以外のそれは各巻の番号に一致している。『咲-Saki-』第8巻以降および『阿知賀編』第3巻以降、『シノハユ』『立-Ritz-』では牌を所持する描写がない。
+  - 『咲-Saki-』第6巻以降では『ヤングガンガン』などの雑誌付録や一部店舗での初回特典として、描き下ろしの別イラストver.カバーが存在することもある。
+  - 『咲日和』初版分には地の部分（下側）の裁断面にカバー下表紙のキャラクターの顔とセリフが浮き上がる仕掛けが施されている。
+
+### 関連書籍
+
+  - 『咲-Saki- OFFICIAL FAN BOOK』 [学研パブリッシング](https://ja.wikipedia.org/wiki/学研パブリッシング "wikilink")、2009年12月22日初版発行（同年12月8日発売\[65\]）、ISBN 978-4-05-404367-1
+      - アニメ1作目の公式ガイドブック。アニメ全話のストーリーダイジェストや設定資料、版権イラストギャラリー、スタッフや主要出演者へのインタビューなどで構成。
+  - 『咲-Saki- ラブじゃん♥ マホちゃんの必殺技完成\!』 スクウェア・エニックス〈ガイドブック〉、2010年1月29日初版発行（同日発売\[66\]）、ISBN 978-4-7575-2634-1
+      - 原作の公式ガイドブック。麻雀の入門ガイドも兼ねている。
+      - 原作単行本同様に、表紙に描かれた夢乃マホも麻雀牌（中）を持っている。
+  - 『TV ANIMATION 咲-Saki-阿知賀編 episode of side-A OFFICIAL FANBOOK』 スクウェア・エニックス、2012年8月25日初版発行（同日発売\[67\]）、ISBN 978-4-7575-3710-1
+      - アニメ『阿知賀編』の公式ガイドブック。
+  - 『咲-Saki- ビジュアルコレクション 上』 学研パブリッシング〈メガミマガジンスペシャルセレクション〉、2012年9月25日第1刷発行（同年9月14日発売\[68\]）、ISBN 978-4-05-405462-2
+  - 『咲-Saki- ビジュアルコレクション 下』 学研パブリッシング〈メガミマガジンスペシャルセレクション〉、2012年11月6日第1刷発行（同年10月26日発売\[69\]）、ISBN 978-4-05-405485-1
+      - アニメ1作目の版権イラスト集。
+
+## インターネットラジオ
+
+### 咲らじ-清澄高校麻雀部-
+
+2007年[5月31日](../Page/5月31日.md "wikilink")から2008年[1月31日](../Page/1月31日.md "wikilink")まで、[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて放送された。パーソナリティは[植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")と[小清水亜美](https://ja.wikipedia.org/wiki/小清水亜美 "wikilink")。番組の前半では麻雀（[東風戦](https://ja.wikipedia.org/wiki/東風戦 "wikilink")）を打ちながら進行を行い、後半ではコーナーなどを実施した。東風戦の結果により後半で各パーソナリティおよびゲストに出されるおやつが変わっていたので、出演者は全員真剣に臨んでいた。1位には高級スイーツや高級焼肉店の焼き肉弁当などの豪華なおやつが、2位以下には柿の種が順位により量を変えて出されていたがこの柿の種はエサ呼ばわりされていた。なお、第7局で初めてスイーツで無いものがトップの商品で登場した。
+
+第4局と第5局の間で行われた特別局は「「咲-Saki-」麻雀牌（試作品）完成記念 第1回・咲杯争奪麻雀大会」。
+
+基本的にはドラマCDに声をあてる声優がゲストとして招かれラジオ内でゲストの配役が明かされるが、第5局のゲストである藤田咲はドラマCDへの声あての予定は明かされなかった（後にドラマCDへの声あてが公表された\[70\]）。ゲストとして招かれた理由としてラジオ内で明かされたのは、「初心者の人にも麻雀を楽しんでもらおう企画だ」ということと「名前が『咲』である」の2点。そんな理由で招かれた藤田は東風戦を見事にプラスマイナスゼロで終えるという、まるで咲のような戦績を残した。
+
+第10局の放送（2007年[10月18日](https://ja.wikipedia.org/wiki/10月18日 "wikilink")）までは隔週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")に更新されていたが、その後不定期木曜日更新へと変更された。
+
+#### コーナー
+
+  - ここはこう打て！（仮）
+    リスナーからの相談コーナー。
+  - 今日の二翻（リャンハン）縛り（仮）
+    パーソナリティの2人が、リスナーからの投稿による制約を2つ付けて番組を進行。その後、東風戦の東3局を始める前に1人が1つずつ制約を選び東3局の間は制約を付けて麻雀を打つ形式へと変更された。
+  - 今日の格言
+    今日の格言をパーソナリティの2人とゲストが色紙に書くというもので、主に東風戦で印象的な台詞を書いているケースが多かった。
+
+#### サブタイトル
+
+※○はゲストがトップを取った回
+
+| 話数   | サブタイトル                   | 放送日                                                                                                            | ゲスト                                                     |
+| ---- | ------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 第1局  | 「とりあえず打ってみました」           | [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")                    |                                                         |
+| 第2局  | 「私に振り込みなさい」              | 2007年[6月14日](../Page/6月14日.md "wikilink")                                                                      | [福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink") ○   |
+| 第3局  | 「ツンデレってなんだニャン」           | 2007年[6月28日](../Page/6月28日.md "wikilink")                                                                      | [白石涼子](https://ja.wikipedia.org/wiki/白石涼子 "wikilink")   |
+| 第4局  | 「オレと麻雀どっちが大切なんだ！」「麻雀」    | 2007年[7月12日](../Page/7月12日.md "wikilink")                                                                      | [伊藤静](https://ja.wikipedia.org/wiki/伊藤静 "wikilink")     |
+| 特別局  | 「ゲスト立てようという気、ないよね」       | 2007年[7月26日](../Page/7月26日.md "wikilink")                                                                      | [堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")   |
+| 第5局  | 「同じなのは、名前だけじゃないのか！」      | 2007年[8月9日](../Page/8月9日.md "wikilink")                                                                        | [藤田咲](https://ja.wikipedia.org/wiki/藤田咲 "wikilink")     |
+| 第6局  | 「「鬼ヅモ」の涼子、再び」            | 2007年[8月23日](../Page/8月23日.md "wikilink")                                                                      | 白石涼子                                                    |
+| 第7局  | 「どこかご旅行ですかあ？」            | 2007年[9月6日](../Page/9月6日.md "wikilink")                                                                        |                                                         |
+| 第8局  | 「昭和の雀鬼、来たる」              | 2007年[9月20日](../Page/9月20日.md "wikilink")                                                                      | [中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")   |
+| 第9局  | 「小清水亜美、絶叫す」              | 2007年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")                                                   | [小野坂昌也](../Page/小野坂昌也.md "wikilink") ○                  |
+| 第10局 | 「ミーアーにコミフリしちゃう感じ?」       | 2007年[10月18日](https://ja.wikipedia.org/wiki/10月18日 "wikilink")                                                 | 伊藤静                                                     |
+| 第11局 | 「靴下の中に札束とか入ってんの。ちょっと嬉しい」 | 2007年[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")                                                 |                                                         |
+| 第12局 | 「ウワサの真相、そして接戦のゆくえ」       | 2007年[12月27日](../Page/12月27日.md "wikilink")                                                                    | [喜多村英梨](https://ja.wikipedia.org/wiki/喜多村英梨 "wikilink") |
+| 第13局 | 「大吉対大吉、そして中吉」            | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink") | [佐藤利奈](https://ja.wikipedia.org/wiki/佐藤利奈 "wikilink")   |
+| 第14局 | 「ゲストに優しくない番組の本懐」（最終回）    | 2008年[1月31日](../Page/1月31日.md "wikilink")                                                                      | [三瓶由布子](https://ja.wikipedia.org/wiki/三瓶由布子 "wikilink") |
+
+### 咲らじ-阿知賀女子学院麻雀部-
+
+阿知賀編のTV放送に合わせ、[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")にて収録ではなく生放送(音声のみ)で配信された。全7回。
+
+| 話数  | 放送日        | パーソナリティ                                                                                                   | ゲスト                                                   |
+| --- | ---------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| 第1局 | 2012年4月24日 | [悠木碧](https://ja.wikipedia.org/wiki/悠木碧 "wikilink")・[東山奈央](https://ja.wikipedia.org/wiki/東山奈央 "wikilink") |                                                       |
+| 第2局 | 2012年5月8日  | 悠木碧・[内山夕実](https://ja.wikipedia.org/wiki/内山夕実 "wikilink")                                                 |                                                       |
+| 第3局 | 2012年5月22日 | 悠木碧・東山奈央                                                                                                  | [MAKO](https://ja.wikipedia.org/wiki/MAKO "wikilink") |
+| 第4局 | 2012年6月12日 | 悠木碧・内山夕実                                                                                                  |                                                       |
+| 第5局 | 2012年6月26日 | 悠木碧・東山奈央                                                                                                  |                                                       |
+| 第6局 | 2012年7月10日 | 悠木碧・内山夕実                                                                                                  |                                                       |
+| 第7局 | 2012年7月24日 | 悠木碧・東山奈央・内山夕実                                                                                             |                                                       |
+
+Blu-rayの初回限定版特典として、撮り下ろしのラジオ特別編を収録したCDも同梱された。全3回。
+
+| 話数   | 放送日    | パーソナリティ       | ゲスト                                                          |
+| ---- | ------ | ------------- | ------------------------------------------------------------ |
+| 特別編1 | BD2巻特典 | 悠木碧・東山奈央      | MAKO・[藤田由美子](https://ja.wikipedia.org/wiki/藤田由美子 "wikilink") |
+| 特別編2 | BD4巻特典 | 悠木碧・東山奈央・内山夕実 | [花澤香菜](https://ja.wikipedia.org/wiki/花澤香菜 "wikilink")        |
+| 特別編3 | BD6巻特典 | 悠木碧・東山奈央・内山夕実 | 小清水亜美                                                        |
+
+13話以降の配信 & パッケージ発売に合わせ、特別番組として復活した。[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")にて配信。
+
+| 話数    | 放送日        | パーソナリティ                                                                                                                                                             | タイトル                 |
+| ----- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| SP第1回 | 2013年2月12日 | 東山奈央・MAKO・内山夕実                                                                                                                                                      | 咲らじ-阿知賀女子学院麻雀部-SP    |
+| SP第2回 | 2013年3月12日 | [能登有沙](https://ja.wikipedia.org/wiki/能登有沙 "wikilink")・[三澤紗千香](https://ja.wikipedia.org/wiki/三澤紗千香 "wikilink")・[松永真穂](https://ja.wikipedia.org/wiki/松永真穂 "wikilink") | 咲らじ-千里山女子高校麻雀部-SP    |
+| SP第3回 | 2013年7月19日 | [鹿野優以](https://ja.wikipedia.org/wiki/鹿野優以 "wikilink")・[大亀あすか](https://ja.wikipedia.org/wiki/大亀あすか "wikilink")                                                       | 咲らじ-新道寺女子高校麻雀部-SP    |
+| SP第4回 | 2013年8月30日 | 悠木碧・東山奈央・内山夕実                                                                                                                                                       | 咲らじ-阿知賀女子学院麻雀部-最終回SP |
+
+### 咲らじ-全国編-
+
+2013年12月27日から2014年4月23日まで音泉にて配信。毎週水曜日更新。パーソナリティは植田佳奈、小清水亜美。
+
+| 話数   | 放送日         | ゲスト                                                               |
+| ---- | ----------- | ----------------------------------------------------------------- |
+| 第0回  | 2013年12月27日 |                                                                   |
+| 第1回  | 2014年1月15日  |                                                                   |
+| 第2回  | 2014年1月22日  |                                                                   |
+| 第3回  | 2014年1月29日  |                                                                   |
+| 第4回  | 2014年2月5日   |                                                                   |
+| 第5回  | 2014年2月12日  | [早見沙織](https://ja.wikipedia.org/wiki/早見沙織 "wikilink")             |
+| 第6回  | 2014年2月19日  |                                                                   |
+| 第7回  | 2014年2月26日  | [赤﨑千夏](https://ja.wikipedia.org/wiki/赤﨑千夏 "wikilink")             |
+| 第8回  | 2014年3月5日   |                                                                   |
+| 第9回  | 2014年3月12日  | [内田真礼](https://ja.wikipedia.org/wiki/内田真礼 "wikilink")             |
+| 第10回 | 2014年3月19日  | 伊藤静                                                               |
+| 第11回 | 2014年3月26日  |                                                                   |
+| 第12回 | 2014年4月2日   | [松田颯水](https://ja.wikipedia.org/wiki/松田颯水 "wikilink")             |
+| 第13回 | 2014年4月23日  | [小野学](https://ja.wikipedia.org/wiki/小野学_\(アニメーション監督\) "wikilink") |
+
+## アニメ
+
+### 咲-Saki-（第1作）
+
+<table>
+<caption>スタッフ</caption>
+<thead>
+<tr class="header">
+<th><p>原作</p></th>
+<th><p>小林立（スクウェア・エニックス）</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>監督</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小野学_(アニメーション監督)" title="wikilink">小野学</a></p></td>
+</tr>
+<tr class="even">
+<td><p>助監督</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/瀬藤健嗣" title="wikilink">セトウケンジ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>シリーズ構成・脚本</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/浦畑達彦" title="wikilink">浦畑達彦</a></p></td>
+</tr>
+<tr class="even">
+<td><p>キャラクターデザイン<br />
+総作画監督</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐々木政勝" title="wikilink">佐々木政勝</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>美術監督</p></td>
+<td><p>松本浩樹</p></td>
+</tr>
+<tr class="even">
+<td><p>色彩設計</p></td>
+<td><p>内林裕美</p></td>
+</tr>
+<tr class="odd">
+<td><p>撮影監督</p></td>
+<td><p>林コージロー</p></td>
+</tr>
+<tr class="even">
+<td><p>編集</p></td>
+<td><p>三嶋章紀</p></td>
+</tr>
+<tr class="odd">
+<td><p>音響監督</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鶴岡陽太" title="wikilink">鶴岡陽太</a></p></td>
+</tr>
+<tr class="even">
+<td><p>音楽</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/渡辺剛_(キーボード奏者)" title="wikilink">渡辺剛</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>音楽制作</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ランティス" title="wikilink">ランティス</a>、フューチャービジョンミュージック</p></td>
+</tr>
+<tr class="even">
+<td><p>プロデューサー</p></td>
+<td><p>高畑裕一郎、櫻井優香<br />
+青木隆夫、熊谷拓登</p></td>
+</tr>
+<tr class="odd">
+<td><p>アニメーションプロデューサー</p></td>
+<td><p>柴田知典</p></td>
+</tr>
+<tr class="even">
+<td><p>アニメーション制作</p></td>
+<td><p><a href="../Page/ゴンゾ.md" title="wikilink">GONZO</a>（第1局 - 第14局、第15局より制作協力）<br />
+<a href="https://ja.wikipedia.org/wiki/ピクチャーマジック" title="wikilink">ピクチャーマジック</a>（第15局 - 第25局）</p></td>
+</tr>
+<tr class="odd">
+<td><p>製作</p></td>
+<td><p>清澄高校麻雀部[71]</p></td>
+</tr>
+</tbody>
+</table>
+
+2009年4月から9月まで[テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink") (TXN) にて放送された。全25話。話数カウントは原作に合わせ、「第○局」となっている\[72\]。なお、[8月30日](../Page/8月30日.md "wikilink")は[第45回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第45回衆議院議員総選挙 "wikilink")に伴う開票特番『[ニッポン戦略会議〜あすへの提言〜](https://ja.wikipedia.org/wiki/ニッポン戦略会議〜あすへの提言〜 "wikilink")』の影響により休止\[73\]となった。
+
+咲の家族麻雀の勝ち負けの結果が[お年玉](../Page/お年玉.md "wikilink")からお菓子へ、まこの家が雀荘から[喫茶店](../Page/喫茶店.md "wikilink")へそれぞれ変更（ただし、第10局ではかつて雀荘だったことが久の口から語られている）されているなど、[賭博](../Page/賭博.md "wikilink")を連想させる表現には修正が入っている。第19局で当時の原作エピソード\[74\]を全て消化したため、第20局から最終話（第25局）まではアニメオリジナルストーリー\[75\]となり、原作未登場の照や南浦、最終話では各都道府県代表の顔見せや対局もダイジェストではあるが描かれた。
+
+また、2011年10月から12月までテレビ東京（[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")）で傑作選として一部エピソードの[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")が行われたほか、2014年4月から9月までテレビ東京および[BSジャパン](../Page/BSテレビ東京.md "wikilink")\[76\]にて再放送を行った（同年5月にホールに導入された[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")台のリリースに伴う再放送で、販売元の[三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")がスポンサーとなっている）。
+
+なお、牌譜検証はプロ連盟。
+
+#### 主題歌（第1作）
+
+  - オープニングテーマ
+
+:; 「[Glossy:MMM](https://ja.wikipedia.org/wiki/Glossy:MMM "wikilink")」（第1局 - 第14局）
+
+:: 作詞 - [畑亜貴](https://ja.wikipedia.org/wiki/畑亜貴 "wikilink") / 作曲・編曲 - [虹音](https://ja.wikipedia.org/wiki/松田彬人 "wikilink") / 歌 - [橋本みゆき](https://ja.wikipedia.org/wiki/橋本みゆき "wikilink")
+
+:: 第1局・第25局ではエンディングテーマとして、第24局では挿入歌として使用された。
+
+:; 「[bloooomin'](https://ja.wikipedia.org/wiki/bloooomin' "wikilink")」（第15局 - 第25局）
+
+  -
+
+      -
+        作詞・作曲・歌 - [Little Non](https://ja.wikipedia.org/wiki/Little_Non "wikilink") / 編曲 - Little Non、[安藤高弘](https://ja.wikipedia.org/wiki/安藤高弘 "wikilink")
+
+  - エンディングテーマ
+
+:; 「[熱烈歓迎わんだーらんど](https://ja.wikipedia.org/wiki/熱烈歓迎わんだーらんど "wikilink")」（第2局 - 第6局、第8局、第9局、第11局 - 第14局）
+
+:: 作詞 - [畑亜貴](https://ja.wikipedia.org/wiki/畑亜貴 "wikilink") / 作曲 - [福本公四郎](https://ja.wikipedia.org/wiki/福本公四郎 "wikilink") / 編曲 - 安藤高弘 / 歌 - 宮永咲（[植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")）、原村和（[小清水亜美](https://ja.wikipedia.org/wiki/小清水亜美 "wikilink")）、片岡優希（[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")）、染谷まこ（[白石涼子](https://ja.wikipedia.org/wiki/白石涼子 "wikilink")）、竹井久（[伊藤静](https://ja.wikipedia.org/wiki/伊藤静 "wikilink")）
+
+:: 第20局では挿入歌として使用された。
+
+:; 「[残酷な願いの中で](https://ja.wikipedia.org/wiki/熱烈歓迎わんだーらんど "wikilink")」（第7局、第10局、第16局、第18局、第22局）
+
+:: 作詞 - 畑亜貴 / 作曲 - [rino](https://ja.wikipedia.org/wiki/rino "wikilink") / 編曲 - [虹音](https://ja.wikipedia.org/wiki/松田彬人 "wikilink") (GloryHeaven) / 歌 - 宮永咲（植田佳奈）、原村和（小清水亜美）
+
+:; 「[四角い宇宙で待ってるよ](https://ja.wikipedia.org/wiki/四角い宇宙で待ってるよ "wikilink")」（第15局、第17局、第19局 - 第21局、第23局、第24局）
+
+  -
+
+      -
+        作詞 - 畑亜貴 / 作曲・編曲 - [木下智哉](https://ja.wikipedia.org/wiki/木下智哉 "wikilink") / 歌 - 宮永咲（植田佳奈）、原村和（小清水亜美）、片岡優希（釘宮理恵）、染谷まこ（白石涼子）、竹井久（伊藤静）
+
+#### 各話リスト（第1作）
+
+  - 各話スタッフはエンドクレジットより。アニメスペシャルサイトでの発表とは一部異なっている。
+  - ☆が付いている話数は傑作選で放送されたことを指す。
+  - オープニングの原村和の登場シーンだけが第4局から変更されている。第3局までは風になびく髪で顔が隠れている描写だったが、顔を隠さない描写のための変更と思われる。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話数</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>絵コンテ</p></th>
+<th><p>演出</p></th>
+<th><p>作画監督</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第1局☆</p></td>
+<td><p>出会い</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小野学_(アニメーション監督)" title="wikilink">小野学</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐々木政勝" title="wikilink">佐々木政勝</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第2局</p></td>
+<td><p>勝負</p></td>
+<td><p>小野学</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/瀬藤健嗣" title="wikilink">セトウケンジ</a></p></td>
+<td><p>輿石暁</p></td>
+</tr>
+<tr class="odd">
+<td><p>第3局</p></td>
+<td><p>対立</p></td>
+<td><p>祝浩司</p></td>
+<td><p>杉藤さゆり</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第4局</p></td>
+<td><p>翻弄</p></td>
+<td><p>熊澤祐嗣</p></td>
+<td><p>青木美穂</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第5局</p></td>
+<td><p>合宿</p></td>
+<td><p>小野学</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/博史池畠" title="wikilink">池畠博中</a></p></td>
+<td><p>海堂ヒロユキ</p></td>
+</tr>
+<tr class="even">
+<td><p>第6局</p></td>
+<td><p>開幕</p></td>
+<td><p>片桐まろん</p></td>
+<td><p>中野英明</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西尾公伯" title="wikilink">西尾公伯</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>第7局</p></td>
+<td><p>伝統</p></td>
+<td><p>セトウケンジ</p></td>
+<td><p>藤崎賢二<br />
+山本晃宏<br />
+斎賀政樹</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第8局</p></td>
+<td><p>前夜</p></td>
+<td><p>麦野アイス</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/木村寛" title="wikilink">木村寛</a></p></td>
+<td><p>沈宏<br />
+菅井翔</p></td>
+</tr>
+<tr class="odd">
+<td><p>第9局☆</p></td>
+<td><p>開眼</p></td>
+<td><p>小美野雅彦</p></td>
+<td><p>金田貞徳</p></td>
+<td><p>輿石暁</p></td>
+</tr>
+<tr class="even">
+<td><p>第10局☆</p></td>
+<td><p>初心者</p></td>
+<td><p>小滝礼</p></td>
+<td><p>矢花馨</p></td>
+<td><p>内野明雄</p></td>
+</tr>
+<tr class="odd">
+<td><p>第11局☆</p></td>
+<td><p>悪戯</p></td>
+<td><p>祝浩司</p></td>
+<td><p>杉藤さゆり</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第12局☆</p></td>
+<td><p>目醒め</p></td>
+<td><p>吉沢俊一</p></td>
+<td><p>南伸一郎</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第13局☆</p></td>
+<td><p>微熱</p></td>
+<td><p>池白博中</p></td>
+<td><p>砂川正和</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第14局☆</p></td>
+<td><p>存在</p></td>
+<td><p>中野英明</p></td>
+<td><p>崎山知明<br />
+川島尚</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第15局☆</p></td>
+<td><p>魔物</p></td>
+<td><p>渡邊哲哉</p></td>
+<td><p>高乗陽子</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第16局☆</p></td>
+<td><p>結託</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/坂田純一" title="wikilink">坂田純一</a></p></td>
+<td><p>唐戸光博</p></td>
+<td><p>輿石暁<br />
+杉藤さゆり</p></td>
+</tr>
+<tr class="odd">
+<td><p>第17局☆</p></td>
+<td><p>悪夢</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日高政光" title="wikilink">日高政光</a></p></td>
+<td><p>矢花馨</p></td>
+<td><p>杉本光司<br />
+菊永千里<br />
+藤原未来夫</p></td>
+</tr>
+<tr class="even">
+<td><p>第18局☆</p></td>
+<td><p>繋がり</p></td>
+<td><p>木村寛</p></td>
+<td><p>JIN BACK-IN</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第19局☆</p></td>
+<td><p>友達</p></td>
+<td><p>小野学</p></td>
+<td><p>渡邊哲哉</p></td>
+<td><p>小美野雅彦<br />
+椛島洋介</p></td>
+</tr>
+<tr class="even">
+<td><p>第20局</p></td>
+<td><p>姉妹</p></td>
+<td><p>田中宏紀</p></td>
+<td><p>吉沢俊一</p></td>
+<td><p>菅井翔<br />
+田中宏紀</p></td>
+</tr>
+<tr class="odd">
+<td><p>第21局</p></td>
+<td><p>追想</p></td>
+<td><p>比嘉直</p></td>
+<td><p>南伸一郎</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第22局</p></td>
+<td><p>約束</p></td>
+<td><p>日高政光<br />
+山本珠代</p></td>
+<td><p>金田貞徳</p></td>
+<td><p>植田和幸<br />
+水上ろんど</p></td>
+</tr>
+<tr class="odd">
+<td><p>第23局</p></td>
+<td><p>本気</p></td>
+<td><p>祝浩司</p></td>
+<td><p>清丸悟<br />
+杉藤さゆり</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第24局</p></td>
+<td><p>夏祭り</p></td>
+<td><p>池白發中</p></td>
+<td><p>砂川正和</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第25局☆</p></td>
+<td><p>全国</p></td>
+<td><p>小野学</p></td>
+<td><p>佐々木政勝</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 放送局（第1作）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>放送地域</p></th>
+<th><p>放送局</p></th>
+<th><p>放送期間</p></th>
+<th><p>放送日時</p></th>
+<th><p>系列局</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a></p></td>
+<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/4月6日.md" title="wikilink">4月6日</a> - <a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
+<td><p>月曜 2:00 - 2:30（日曜深夜）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TXN" title="wikilink">テレビ東京系列</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/10月7日.md" title="wikilink">10月7日</a> - <a href="../Page/12月30日.md" title="wikilink">12月30日</a></p></td>
+<td><p>金曜 2:15 - 2:45（木曜深夜）</p></td>
+<td><p>傑作選</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
+<td><p><a href="../Page/テレビ愛知.md" title="wikilink">テレビ愛知</a></p></td>
+<td><p>2009年<a href="../Page/4月7日.md" title="wikilink">4月7日</a> - <a href="../Page/9月29日.md" title="wikilink">9月29日</a></p></td>
+<td><p>火曜 2:28 - 2:58（月曜深夜）</p></td>
+<td><p>エンドカードあり</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
+<td><p>2009年<a href="https://ja.wikipedia.org/wiki/4月8日" title="wikilink">4月8日</a> - <a href="../Page/9月30日.md" title="wikilink">9月30日</a></p></td>
+<td><p>水曜 2:23 - 2:53（火曜深夜）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="../Page/テレビせとうち.md" title="wikilink">テレビせとうち</a></p></td>
+<td><p>2009年<a href="../Page/4月9日.md" title="wikilink">4月9日</a> - <a href="../Page/10月1日.md" title="wikilink">10月1日</a></p></td>
+<td><p>木曜 1:18 - 1:48（水曜深夜）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
+<td><p><a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a></p></td>
+<td><p>2009年<a href="../Page/4月11日.md" title="wikilink">4月11日</a> - <a href="../Page/10月3日.md" title="wikilink">10月3日</a></p></td>
+<td><p>土曜 3:35 - 4:05（金曜深夜）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
+<td><p><a href="../Page/テレビ北海道.md" title="wikilink">テレビ北海道</a></p></td>
+<td><p>2009年<a href="../Page/4月15日.md" title="wikilink">4月15日</a> - <a href="../Page/10月7日.md" title="wikilink">10月7日</a></p></td>
+<td><p>水曜 2:00 - 2:30（火曜深夜）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/全国放送.md" title="wikilink">日本全域</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Rakuten_TV#ShowTime" title="wikilink">ShowTime</a></p></td>
+<td><p>2009年<a href="../Page/5月1日.md" title="wikilink">5月1日</a> - <a href="../Page/10月16日.md" title="wikilink">10月16日</a></p></td>
+<td><p>金曜 18:00 更新</p></td>
+<td><p>|<a href="https://ja.wikipedia.org/wiki/インターネットテレビ" title="wikilink">ネット配信</a></p></td>
+<td><p>第1局と最新局のみ無料配信<br />
+バックナンバー有料配信</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/アニメシアターX.md" title="wikilink">AT-X</a></p></td>
+<td><p>2009年<a href="../Page/5月6日.md" title="wikilink">5月6日</a> - <a href="../Page/10月21日.md" title="wikilink">10月21日</a></p></td>
+<td><p>水曜 10:00 - 10:30</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CSデジタル放送" title="wikilink">CS放送</a></p></td>
+<td><p>リピート放送あり</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 映像特典
+
+<table>
+<caption>スタッフ</caption>
+<thead>
+<tr class="header">
+<th><p>監督</p></th>
+<th><p>小野学</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>脚本</p></td>
+<td><p>浦畑達彦</p></td>
+</tr>
+<tr class="even">
+<td><p>絵コンテ<br />
+演出</p></td>
+<td><p>セトウケンジ</p></td>
+</tr>
+<tr class="odd">
+<td><p>作画監督</p></td>
+<td><p>佐々木政勝</p></td>
+</tr>
+<tr class="even">
+<td><p>アニメーション制作</p></td>
+<td><p>GONZO（第5スタジオ）</p></td>
+</tr>
+<tr class="odd">
+<td><p>製作</p></td>
+<td><p>清澄高校麻雀部</p></td>
+</tr>
+</tbody>
+</table>
+
+DVD第3 - 9巻収録の映像特典ピクチャードラマ。全7話。レンタル版には未収録。
+
+  - 第1話 - 優希と和の温泉のエピソード。
+  - 第2話 - 末春と華菜が親友になるまでのエピソード。
+  - 第3話 - 智紀が衣に語る、透華が自分をスカウトすることになったエピソード。
+  - 第4話 - 智美の思いつきで鶴賀学園麻雀部の親睦会をすることになったエピソード。
+  - 第5話 - 県予選後、ゆみとモモが2人旅行に行く途中で今までを回想するエピソード。
+  - 第6話 - 県予選敗退後に、美穂子が華菜の妹達の誕生日に訪れたエピソード。原作は『増刊ヤングガンガン』2009年第6号収録の外伝。
+  - 第7話 - 中学時代の優希と和が、進路について相談し合うエピソード。原作は『増刊ヤングガンガン』2008年第5号収録の外伝。
+
+#### Blu-ray BOX
+
+  - 『咲-Saki- 嶺上開花 スペシャルBD-BOX』
+    2012年[3月7日](../Page/3月7日.md "wikilink")発売。完全受注生産限定で、アニメ版麻雀牌セット、ブックレットなどの特典が同梱。本編映像は一部リテイク及び最終回のラストに新規作画が加えられた。DVD版のピクチャードラマも収録されている。後に付属特典類を省いた廉価版BD-BOXも発売されている。
+
+### 咲-Saki- 阿知賀編 episode of side-A（第2作）
+
+<table>
+<caption>スタッフ</caption>
+<thead>
+<tr class="header">
+<th><p>原作</p></th>
+<th><p>小林立『咲-Saki-』</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>コミック作画</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/五十嵐あぐり" title="wikilink">五十嵐あぐり</a>（スクウェア・エニックス）</p></td>
+</tr>
+<tr class="even">
+<td><p>監督</p></td>
+<td><p>小野学</p></td>
+</tr>
+<tr class="odd">
+<td><p>助監督</p></td>
+<td><p>セトウケンジ</p></td>
+</tr>
+<tr class="even">
+<td><p>演出チーフ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/イシグロキョウヘイ" title="wikilink">イシグロキョウヘイ</a>[77]</p></td>
+</tr>
+<tr class="odd">
+<td><p>シリーズ構成・脚本</p></td>
+<td><p>浦畑達彦</p></td>
+</tr>
+<tr class="even">
+<td><p>キャラクターデザイン<br />
+総作画監督</p></td>
+<td><p>佐々木政勝</p></td>
+</tr>
+<tr class="odd">
+<td><p>美術監督</p></td>
+<td><p>松本浩樹、高須賀真二[78]</p></td>
+</tr>
+<tr class="even">
+<td><p>色彩設計</p></td>
+<td><p>池田ひとみ</p></td>
+</tr>
+<tr class="odd">
+<td><p>撮影監督</p></td>
+<td><p>林コージロー</p></td>
+</tr>
+<tr class="even">
+<td><p>編集</p></td>
+<td><p>三嶋章紀</p></td>
+</tr>
+<tr class="odd">
+<td><p>音響監督</p></td>
+<td><p>鶴岡陽太</p></td>
+</tr>
+<tr class="even">
+<td><p>音楽</p></td>
+<td><p>渡辺剛</p></td>
+</tr>
+<tr class="odd">
+<td><p>音楽プロデューサー</p></td>
+<td><p>関根陽一</p></td>
+</tr>
+<tr class="even">
+<td><p>音楽制作</p></td>
+<td><p>ランティス</p></td>
+</tr>
+<tr class="odd">
+<td><p>プロデューサー</p></td>
+<td><p>高畑裕一郎、櫻井優香、大野亮介</p></td>
+</tr>
+<tr class="even">
+<td><p>アニメーションプロデューサー</p></td>
+<td><p>柴田知典</p></td>
+</tr>
+<tr class="odd">
+<td><p>アニメーション制作</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Studio五組" title="wikilink">Studio五組</a></p></td>
+</tr>
+<tr class="even">
+<td><p>製作</p></td>
+<td><p>咲阿知賀編製作委員会</p></td>
+</tr>
+</tbody>
+</table>
+
+2012年4月から7月まで、[テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink") (TXN) にて放送された。全12話+地上波未放送全4話。おおむねアニメ1作目と同じスタッフが引き続き手がけるが、制作会社はアニメ1作目の中核スタッフが創設した[Studio五組](https://ja.wikipedia.org/wiki/Studio五組 "wikilink")に変わった。
+
+テレビアニメ『咲-Saki-』の2作目にあたるが同名の外伝作品を原作としており、直接の続編ではないものの前作のストーリに深く関わっており、県予選終了以降から1作目のメインキャラクターもサブキャラクターとして再登場するなど実質的な続編扱いとされ、テレビCMでも「咲2ndシリーズ」と銘打たれている。ただしキャラクターのデザインはコミック作画の五十嵐あぐりによるものではなく、原作の小林立によるものを基にしている。
+
+全12話で制作を進行していたが原作の小林から送られてくるネームの分量や打ち合わせを進めた結果、内容が12話で納まりきらないことが判明。準決勝の内容もしっかりと描きたいという判断から全15話（その後全16話に変更\[79\]）構成に変更され、通常のテレビ放送終了後残りのエピソードを放送・ネット配信した\[80\]\[81\]。第13話については12月に[AT-Xで先行放送した後](../Page/アニメシアターX.md "wikilink")、順次配信展開を行うことが10月28日に行われたイベント「咲-Saki-フェス」およびアニメ公式サイトで発表され、第14話については、同局にて2013年1月に先行放送されることがアニメ公式サイトで発表された。また同年初頭から13話以降の映像ソフトの販売も行われている。なお、13話以降は船久保浩子役の声優が変更されている\[82\]。
+
+[5月27日](../Page/5月27日.md "wikilink")はサッカー[トゥーロン国際大会](../Page/トゥーロン国際大会.md "wikilink")・[オリンピック・サッカー日本代表対](https://ja.wikipedia.org/wiki/U-23サッカー日本代表 "wikilink")[U-23エジプト代表戦中継のため休止](https://ja.wikipedia.org/wiki/U-23サッカーエジプト代表 "wikilink")\[83\]。
+
+前作と同じく、アメリカの[Crunchyroll](https://ja.wikipedia.org/wiki/Crunchyroll "wikilink")や中国の[Tudouで公式配信されている](https://ja.wikipedia.org/wiki/土豆網 "wikilink")。
+
+#### 主題歌（第2作）
+
+  - オープニングテーマ
+
+:; 「[MIRACLE RUSH](https://ja.wikipedia.org/wiki/MIRACLE_RUSH "wikilink")」（第2局 - 第12局）
+
+:: 作詞 - [こだまさおり](https://ja.wikipedia.org/wiki/こだまさおり "wikilink") / 作曲 - [山口朗彦](https://ja.wikipedia.org/wiki/山口朗彦 "wikilink") / 歌 - [StylipS](https://ja.wikipedia.org/wiki/StylipS "wikilink")
+
+:: 第1局、第16局ではエンディングテーマとして使用。
+
+:; 「TSU・BA・SA」（第14局 - 第15局）
+
+  -
+
+      -
+        作詞 - こだまさおり / 作・編曲 - 山口朗彦 / 歌 - StylipS
+        第13局ではエンディングテーマとして使用。
+
+  - エンディングテーマ
+
+:; 「[SquarePanicSerenade](https://ja.wikipedia.org/wiki/SquarePanicSerenade/Futuristic_Player "wikilink")」（第2局、第5局 - 第7局、第12局）
+
+:: 作詞・作曲・編曲 - [ZAQ](https://ja.wikipedia.org/wiki/ZAQ_\(シンガーソングライター\) "wikilink") / 歌 - 高鴨穏乃（[悠木碧](https://ja.wikipedia.org/wiki/悠木碧 "wikilink")）、新子憧（[東山奈央](https://ja.wikipedia.org/wiki/東山奈央 "wikilink")）、松実玄（[花澤香菜](https://ja.wikipedia.org/wiki/花澤香菜 "wikilink")）、松実宥（[MAKO](https://ja.wikipedia.org/wiki/MAKO "wikilink")）、鷺森灼（[内山夕実](https://ja.wikipedia.org/wiki/内山夕実 "wikilink")）
+
+:; 「[Futuristic Player](https://ja.wikipedia.org/wiki/SquarePanicSerenade/Futuristic_Player "wikilink")」（第3局、第4局、第8局 - 第11局、第14局 - 第15局）
+
+  -
+
+      -
+        作詞・作曲・編曲 - ZAQ / 歌 - [橋本みゆき](https://ja.wikipedia.org/wiki/橋本みゆき "wikilink")
+
+#### 各話リスト（第2作）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話数</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>絵コンテ</p></th>
+<th><p>演出</p></th>
+<th><p>作画監督</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第1局</p></td>
+<td><p>邂逅</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小野学_(アニメーション監督)" title="wikilink">小野学</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/イシグロキョウヘイ" title="wikilink">イシグロキョウヘイ</a></p></td>
+<td><p>杉藤さゆり、沈宏、<a href="https://ja.wikipedia.org/wiki/渡辺真由美" title="wikilink">渡辺真由美</a><br />
+竹上貴雄、鈴木雄大、武智敏光<br />
+山本真嗣、酒井孝弘、片岡英之、関口雅浩</p></td>
+</tr>
+<tr class="even">
+<td><p>第2局</p></td>
+<td><p>始動</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/瀬藤健嗣" title="wikilink">セトウケンジ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/実原登" title="wikilink">実原登</a>、橋口隼人、藤原未来夫</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第3局</p></td>
+<td><p>接触</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/博史池畠" title="wikilink">博史池畠</a></p></td>
+<td><p>酒井孝裕、横松雄馬</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第4局</p></td>
+<td><p>全国</p></td>
+<td><p>イシグロキョウヘイ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/上坪亮樹" title="wikilink">上坪亮樹</a></p></td>
+<td><p>大田謙治</p></td>
+</tr>
+<tr class="odd">
+<td><p>第5局</p></td>
+<td><p>強豪</p></td>
+<td><p>博史池畠</p></td>
+<td><p>岩田和也</p></td>
+<td><p>谷圭史、酒井智史</p></td>
+</tr>
+<tr class="even">
+<td><p>第6局</p></td>
+<td><p>奪回</p></td>
+<td><p>駒井一也</p></td>
+<td><p>羽多野浩平</p></td>
+<td><p>牛島勇二、Heo Gi Dong</p></td>
+</tr>
+<tr class="odd">
+<td><p>第7局</p></td>
+<td><p>信念</p></td>
+<td><p>北條史也</p></td>
+<td><p>大原大、小美戸幸代、藤本真由、胡陽樹</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第8局</p></td>
+<td><p>修行</p></td>
+<td><p>イシグロキョウヘイ<br />
+小野学</p></td>
+<td><p>イシグロキョウヘイ</p></td>
+<td><p>実原登、沈宏、橋口隼人</p></td>
+</tr>
+<tr class="odd">
+<td><p>第9局</p></td>
+<td><p>最強</p></td>
+<td><p>博史池畠</p></td>
+<td><p>酒井孝裕、横松雄馬</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第10局</p></td>
+<td><p>連荘</p></td>
+<td><p>林直孝</p></td>
+<td><p>野亦則行</p></td>
+<td><p>大田謙治、菊池聡延</p></td>
+</tr>
+<tr class="odd">
+<td><p>第11局</p></td>
+<td><p>決意</p></td>
+<td><p>北條史也<br />
+セトウケンジ</p></td>
+<td><p>中川淳</p></td>
+<td><p>小笠原聖、Seo Jung Ha<br />
+Kim Myoung Hyun</p></td>
+</tr>
+<tr class="even">
+<td><p>第12局</p></td>
+<td><p>約束</p></td>
+<td><p>小野学</p></td>
+<td><p>セトウケンジ</p></td>
+<td><p>酒井孝裕、横松雄馬、片岡英之、武智敏光<br />
+大原大、三股浩史、橋口隼人</p></td>
+</tr>
+<tr class="odd">
+<td><p>第13局</p></td>
+<td><p>混戦</p></td>
+<td><p>沈宏、酒井孝裕、片岡英之<br />
+橋口隼人、杉藤さゆり</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第14局</p></td>
+<td><p>憧憬</p></td>
+<td><p>セトウケンジ<br />
+イシグロキョウヘイ</p></td>
+<td><p>イシグロキョウヘイ</p></td>
+<td><p>酒井孝裕、横松雄馬、片岡英之<br />
+小島彰、大原大、橋口隼人</p></td>
+</tr>
+<tr class="odd">
+<td><p>第15局</p></td>
+<td><p>激化</p></td>
+<td><p>小野学</p></td>
+<td><p>セトウケンジ</p></td>
+<td><p>沈宏、杉藤さゆり、片岡英之<br />
+橋口隼人、大原大、横松雄馬</p></td>
+</tr>
+<tr class="even">
+<td><p>第16局</p></td>
+<td><p>軌跡</p></td>
+<td><p>佐々木政勝</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 放送局（第2作）
+
+| 放送地域                                                                                  | 放送局                                                                      | 放送期間                                                                                                                               | 放送日時                           | 放送系列                                                                                                   | 備考             |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------ | -------------- |
+| 第1局 - 第12局                                                                            |                                                                          |                                                                                                                                    |                                |                                                                                                        |                |
+| [関東広域圏](../Page/広域放送.md "wikilink")                                                   | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")                  | [2012年](../Page/2012年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink") - [7月1日](../Page/7月1日.md "wikilink")     | 日曜 25:05 - 25:35               | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")                                                |                |
+| [日本全域](../Page/全国放送.md "wikilink")                                                    | |[AT-X](../Page/アニメシアターX.md "wikilink")                                  | |2012年[4月9日](../Page/4月9日.md "wikilink") - [7月2日](../Page/7月2日.md "wikilink")                                                      | 月曜 08:30 - 09:00               | [アニメ専門](https://ja.wikipedia.org/wiki/アニメ専門チャンネル一覧 "wikilink")[CS放送](../Page/日本における衛星放送.md "wikilink") | リピート放送あり\[84\] |
+| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")                                   | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                                     | 2012年[4月10日](../Page/4月10日.md "wikilink") - [7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")                                  | 火曜 26:30 - 27:00               | テレビ東京系列                                                                                                |                |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")                                   | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                                   |                                                                                                                                    |                                |                                                                                                        |                |
+| [岡山県・香川県](https://ja.wikipedia.org/wiki/岡山県・香川県の放送 "wikilink")                        | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                                 | 2012年[4月13日](../Page/4月13日.md "wikilink") - [7月6日](../Page/7月6日.md "wikilink")                                                     | 金曜 25:53 - 26:23               |                                                                                                        |                |
+| [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")                                   | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                                     | 2012年[4月14日](../Page/4月14日.md "wikilink") - [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")                                  | 土曜 26:25 - 26:55               |                                                                                                        |                |
+| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")                                   | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                                 | 土曜 26:40 - 27:10                                                                                                                   |                                |                                                                                                        |                |
+| 日本全域                                                                                  | [バンダイチャンネル](https://ja.wikipedia.org/wiki/バンダイチャンネル "wikilink")          | 2012年[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink") - [7月9日](../Page/7月9日.md "wikilink")                                  | 月曜 12:00 更新                    | [ネット配信](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")                                           |                |
+| ビデオマーケット                                                                              |                                                                          |                                                                                                                                    |                                |                                                                                                        |                |
+| [テレビドガッチ](https://ja.wikipedia.org/wiki/テレビドガッチ "wikilink")                           |                                                                          |                                                                                                                                    |                                |                                                                                                        |                |
+| [ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")                           | 月曜 25:00 - 25:30                                                         |                                                                                                                                    |                                |                                                                                                        |                |
+| [ニコニコチャンネル](https://ja.wikipedia.org/wiki/ニコニコチャンネル "wikilink")                       | 月曜 25:30 更新                                                              |                                                                                                                                    |                                |                                                                                                        |                |
+| [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")                                   | [とちぎテレビ](../Page/とちぎテレビ.md "wikilink")\[85\]                             | [2017年](../Page/2017年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - [5月11日](../Page/5月11日.md "wikilink") | 木曜 23:30 - 24:00 23:00 - 23:30 | [独立局](../Page/全国独立放送協議会.md "wikilink")                                                                 | \[86\]         |
+| 第13局                                                                                  |                                                                          |                                                                                                                                    |                                |                                                                                                        |                |
+| 日本全域                                                                                  | AT-X                                                                     | 2012年[12月24日](../Page/12月24日.md "wikilink")                                                                                        | 月曜 23:30 - 24:00               | アニメ専門CS放送                                                                                              | リピート放送あり       |
+| ニコニコ生放送                                                                               | [2013年](../Page/2013年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink") | 日曜 24:30 - 25:00                                                                                                                   | ネット配信                          |                                                                                                        |                |
+| [みんなでストリーム](https://ja.wikipedia.org/wiki/バンダイチャンネル "wikilink")                       |                                                                          |                                                                                                                                    |                                |                                                                                                        |                |
+| ニコニコチャンネル                                                                             | 日曜 25:00 更新                                                              |                                                                                                                                    |                                |                                                                                                        |                |
+| バンダイチャンネル                                                                             |                                                                          |                                                                                                                                    |                                |                                                                                                        |                |
+| ビデオマーケット                                                                              |                                                                          |                                                                                                                                    |                                |                                                                                                        |                |
+| [あにてれしあたー](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")                            | 2013年[1月14日](../Page/1月14日.md "wikilink")                                | 月曜 更新                                                                                                                              |                                |                                                                                                        |                |
+| [ShowTime](https://ja.wikipedia.org/wiki/Rakuten_TV#ShowTime "wikilink")              | 2013年[1月15日](../Page/1月15日.md "wikilink")                                | 火曜 更新                                                                                                                              |                                |                                                                                                        |                |
+| [DMM.com](https://ja.wikipedia.org/wiki/DMM.com "wikilink")                           | 2013年[1月20日](../Page/1月20日.md "wikilink")                                | 日曜 更新                                                                                                                              |                                |                                                                                                        |                |
+| [TSUTAYA TV](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")              |                                                                          |                                                                                                                                    |                                |                                                                                                        |                |
+| [PlayStation Store](https://ja.wikipedia.org/wiki/PlayStation_Store "wikilink")\[87\] | 2013年[1月30日](../Page/1月30日.md "wikilink")                                | 水曜 更新                                                                                                                              |                                |                                                                                                        |                |
+| [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")                                   | [とちぎテレビ](../Page/とちぎテレビ.md "wikilink")\[88\]                             | [2017年](../Page/2017年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")                                                           | 木曜 23:00 - 23:31               | [独立局](../Page/全国独立放送協議会.md "wikilink")                                                                 |                |
+| 第14局                                                                                  |                                                                          |                                                                                                                                    |                                |                                                                                                        |                |
+| 日本全域                                                                                  | AT-X                                                                     | 2013年[1月29日](../Page/1月29日.md "wikilink")                                                                                          | 火曜 19:30 - 20:00               | アニメ専門CS放送                                                                                              | リピート放送あり       |
+| [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")                                   | [とちぎテレビ](../Page/とちぎテレビ.md "wikilink")                                   | [2017年](../Page/2017年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")                                                           | 木曜 23:00 - 23:31               | [独立局](../Page/全国独立放送協議会.md "wikilink")                                                                 |                |
+| 第15局                                                                                  |                                                                          |                                                                                                                                    |                                |                                                                                                        |                |
+| 日本全域                                                                                  | AT-X                                                                     | 2013年[4月2日](../Page/4月2日.md "wikilink")                                                                                            | 火曜 19:30 - 20:00               | アニメ専門CS放送                                                                                              | リピート放送あり       |
+| [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")                                   | [とちぎテレビ](../Page/とちぎテレビ.md "wikilink")                                   | [2017年](../Page/2017年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                                                             | 木曜 23:00 - 23:31               | [独立局](../Page/全国独立放送協議会.md "wikilink")                                                                 |                |
+| 第16局                                                                                  |                                                                          |                                                                                                                                    |                                |                                                                                                        |                |
+| 日本全域                                                                                  | AT-X                                                                     | 2013年[5月25日](../Page/5月25日.md "wikilink")                                                                                          | 土曜 19:30 - 20:00               | アニメ専門CS放送                                                                                              | リピート放送あり       |
+| [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")                                   | [とちぎテレビ](../Page/とちぎテレビ.md "wikilink")                                   | [2017年](../Page/2017年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")                                                             | 木曜 23:00 - 23:31               | [独立局](../Page/全国独立放送協議会.md "wikilink")                                                                 |                |
+
+第13局は[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")・[アクトビラ](https://ja.wikipedia.org/wiki/アクトビラ "wikilink")・[J:COM オンデマンド](../Page/ジュピターテレコム.md "wikilink")・ムービーフルでも配信された。
+
+### 咲-Saki- 全国編（第3作）
+
+<table>
+<caption>スタッフ</caption>
+<thead>
+<tr class="header">
+<th><p>原作</p></th>
+<th><p>小林立『咲-Saki-』</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>監督</p></td>
+<td><p>小野学</p></td>
+</tr>
+<tr class="even">
+<td><p>助監督</p></td>
+<td><p>セトウケンジ</p></td>
+</tr>
+<tr class="odd">
+<td><p>シリーズ構成・脚本</p></td>
+<td><p>浦畑達彦</p></td>
+</tr>
+<tr class="even">
+<td><p>キャラクターデザイン<br />
+総作画監督</p></td>
+<td><p>佐々木政勝</p></td>
+</tr>
+<tr class="odd">
+<td><p>デザインワークス</p></td>
+<td><p>片岡英之、三股浩史</p></td>
+</tr>
+<tr class="even">
+<td><p>美術監督</p></td>
+<td><p>松本浩樹</p></td>
+</tr>
+<tr class="odd">
+<td><p>色彩設計</p></td>
+<td><p>池田ひとみ</p></td>
+</tr>
+<tr class="even">
+<td><p>撮影監督</p></td>
+<td><p>林コージロー</p></td>
+</tr>
+<tr class="odd">
+<td><p>3DCGIプロデューサー</p></td>
+<td><p>松浦裕暁</p></td>
+</tr>
+<tr class="even">
+<td><p>編集</p></td>
+<td><p>三嶋章紀</p></td>
+</tr>
+<tr class="odd">
+<td><p>音響監督</p></td>
+<td><p>鶴岡陽太</p></td>
+</tr>
+<tr class="even">
+<td><p>音楽</p></td>
+<td><p>渡辺剛</p></td>
+</tr>
+<tr class="odd">
+<td><p>音楽制作</p></td>
+<td><p>ランティス</p></td>
+</tr>
+<tr class="even">
+<td><p>プロデューサー</p></td>
+<td><p>高畑裕一郎、櫻井優香、大野亮介</p></td>
+</tr>
+<tr class="odd">
+<td><p>アニメーションプロデューサー</p></td>
+<td><p>柴田知典</p></td>
+</tr>
+<tr class="even">
+<td><p>アニメーション制作</p></td>
+<td><p>Studio五組</p></td>
+</tr>
+<tr class="odd">
+<td><p>製作</p></td>
+<td><p>咲全国編製作委員会</p></td>
+</tr>
+</tbody>
+</table>
+
+2012年12月にテレビアニメ『咲-Saki-』の続編となる『全国編』の製作がアニメ公式サイトで発表され、2014年1月から4月にかけて、[テレビ東京系列](https://ja.wikipedia.org/wiki/テレビ東京系列 "wikilink")(TXN)にて放送された。
+
+前作の別ブロックにあたる阿知賀女子も本編が進行するほど深く関わっていくため、「阿知賀編」のレギュラーキャラもゲストとして第1話から登場している。
+
+#### 主題歌（第3作）
+
+  - オープニングテーマ
+
+:; 「[New SPARKS\!](https://ja.wikipedia.org/wiki/New_SPARKS! "wikilink")」（第2局 - 第11局）
+
+  -
+
+      -
+        作詞 - [畑亜貴](https://ja.wikipedia.org/wiki/畑亜貴 "wikilink") / 作曲 - fandelmale（Arte Refact）/ 編曲 - 酒井拓也（Arte Refact）/ 歌 - [橋本みゆき](https://ja.wikipedia.org/wiki/橋本みゆき "wikilink")
+        第1話ではエンディングテーマとして使用。
+
+  - エンディングテーマ
+
+:; 「[TRUE GATE](https://ja.wikipedia.org/wiki/New_SPARKS! "wikilink")」（第2局、第7局、第9局、第11局）
+
+:: 作詞 - 畑亜貴 / 作曲・編曲 - 酒井拓也（Arte Refact）/ 歌 - 橋本みゆき
+
+:; 「[この手が奇跡を選んでる 宮守女子高校 ver.](https://ja.wikipedia.org/wiki/この手が奇跡を選んでる "wikilink")」（第3局、第8局）
+
+:: 作詞・作曲・編曲 - [ZAQ](https://ja.wikipedia.org/wiki/ZAQ_\(シンガーソングライター\) "wikilink") / 歌 - 宮守女子高校［小瀬川白望（[長妻樹里](https://ja.wikipedia.org/wiki/長妻樹里 "wikilink")）、エイスリン・ウィッシュアート（[水野マリコ](https://ja.wikipedia.org/wiki/水野マリコ "wikilink")）、鹿倉胡桃（[豊田萌絵](https://ja.wikipedia.org/wiki/豊田萌絵 "wikilink")）、臼沢塞（[佐藤利奈](https://ja.wikipedia.org/wiki/佐藤利奈 "wikilink")）、姉帯豊音（[内田真礼](https://ja.wikipedia.org/wiki/内田真礼 "wikilink")）］
+
+:; 「[この手が奇跡を選んでる 永水女子高校 ver.](https://ja.wikipedia.org/wiki/この手が奇跡を選んでる "wikilink")」（第4局、第6局、第10局）
+
+:: 作詞・作曲・編曲 - ZAQ / 歌 - 永水女子高校［神代小蒔（[早見沙織](https://ja.wikipedia.org/wiki/早見沙織 "wikilink")）、狩宿巴（[赤﨑千夏](https://ja.wikipedia.org/wiki/赤崎千夏 "wikilink")）、滝見春（[水橋かおり](../Page/水橋かおり.md "wikilink")）、薄墨初美（[辻あゆみ](https://ja.wikipedia.org/wiki/辻あゆみ "wikilink")）、石戸霞（[大原さやか](../Page/大原さやか.md "wikilink")）］
+
+:; 「[この手が奇跡を選んでる 姫松高校 ver.](https://ja.wikipedia.org/wiki/この手が奇跡を選んでる "wikilink")」（第5局、第12局）
+
+:: 作詞・作曲・編曲 - ZAQ / 歌 - 姫松高校［上重漫（[伊達朱里紗](https://ja.wikipedia.org/wiki/伊達朱里紗 "wikilink")）、真瀬由子（[佳村はるか](https://ja.wikipedia.org/wiki/佳村はるか "wikilink")）、愛宕洋榎（[松田颯水](https://ja.wikipedia.org/wiki/松田颯水 "wikilink")）、愛宕絹恵（[中津真莉](https://ja.wikipedia.org/wiki/中津真莉 "wikilink")子）、末原恭子（[寿美菜子](https://ja.wikipedia.org/wiki/寿美菜子 "wikilink")）］
+
+:; 「[Glossy:MMM](https://ja.wikipedia.org/wiki/Glossy:MMM "wikilink")」（第13局）
+
+  -
+
+      -
+        作詞 - 畑亜貴 / 作曲・編曲 - 虹音 / 歌 - 橋本みゆき
+
+#### 各話リスト（第3作）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話数</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>絵コンテ</p></th>
+<th><p>演出</p></th>
+<th><p>作画監督</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第1局</p></td>
+<td><p>上京</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小野学_(アニメーション監督)" title="wikilink">小野学</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山本天志" title="wikilink">山本天志</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐々木政勝" title="wikilink">佐々木政勝</a></p></td>
+</tr>
+<tr class="even">
+<td><p>第2局</p></td>
+<td><p>応援</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/瀬藤健嗣" title="wikilink">セトウケンジ</a></p></td>
+<td><p>橋口隼人</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第3局</p></td>
+<td><p>始動</p></td>
+<td><p>小野学</p></td>
+<td><p>玉田博</p></td>
+<td><p>酒井孝裕</p></td>
+</tr>
+<tr class="even">
+<td><p>第4局</p></td>
+<td><p>東風</p></td>
+<td><p>比嘉直</p></td>
+<td><p>いわたかずや</p></td>
+<td><p>樋口博美、成川多加志</p></td>
+</tr>
+<tr class="odd">
+<td><p>第5局</p></td>
+<td><p>神鬼</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/名村英敏" title="wikilink">名村英敏</a></p></td>
+<td><p>大嶋博之</p></td>
+<td><p>横松雄馬、酒井孝裕</p></td>
+</tr>
+<tr class="even">
+<td><p>第6局</p></td>
+<td><p>萎縮</p></td>
+<td><p>黒崎武</p></td>
+<td><p>仁昌寺義人</p></td>
+<td><p>森前和也</p></td>
+</tr>
+<tr class="odd">
+<td><p>第7局</p></td>
+<td><p>注目</p></td>
+<td><p>比嘉直</p></td>
+<td><p>下司泰弘</p></td>
+<td><p>大田謙治</p></td>
+</tr>
+<tr class="even">
+<td><p>第8局</p></td>
+<td><p>防塞</p></td>
+<td><p>吉沢俊一</p></td>
+<td><p>橋口隼人、横松雄馬<br />
+大原大</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第9局</p></td>
+<td><p>出撃</p></td>
+<td><p>セトウケンジ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鳥羽聡" title="wikilink">鳥羽聡</a></p></td>
+<td><p>空流辺広子</p></td>
+</tr>
+<tr class="even">
+<td><p>第10局</p></td>
+<td><p>仲間</p></td>
+<td><p>山本天志</p></td>
+<td><p>酒井孝裕</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第11局</p></td>
+<td><p>脅威</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日高政光" title="wikilink">日高政光</a></p></td>
+<td><p>いわたかずや</p></td>
+<td><p>樋口博美、高山幸二</p></td>
+</tr>
+<tr class="even">
+<td><p>第12局</p></td>
+<td><p>真実</p></td>
+<td><p>小野学</p></td>
+<td><p>仁昌寺義人</p></td>
+<td><p>横松雄馬、大原大</p></td>
+</tr>
+<tr class="odd">
+<td><p>第13局</p></td>
+<td><p>旧友</p></td>
+<td><p>小野学<br />
+セトウケンジ</p></td>
+<td><p>セトウケンジ</p></td>
+<td><p>佐々木政勝</p></td>
+</tr>
+</tbody>
+</table>
+
+#### 放送局（第3作）
+
+| 放送地域                                                            | 放送局                                                     | 放送期間                                                                                                        | 放送日時             | 放送系列                                                                                                   | 備考       |
+| --------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------ | -------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                             | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") | [2014年](../Page/2014年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - [4月7日](../Page/4月7日.md "wikilink") | 月曜 1:35 - 2:05   | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")                                                |          |
+| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")             | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                    |                                                                                                             |                  |                                                                                                        |          |
+| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")             | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                | 月曜 2:30 - 3:00                                                                                              |                  |                                                                                                        |          |
+| [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")             | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                    | 2014年[1月8日](../Page/1月8日.md "wikilink") - [4月9日](../Page/4月9日.md "wikilink")                                | 水曜 2:10 - 2:40   |                                                                                                        |          |
+| [岡山県・香川県](https://ja.wikipedia.org/wiki/岡山県・香川県の放送 "wikilink")  | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                | 2014年[1月10日](../Page/1月10日.md "wikilink") - [4月11日](../Page/4月11日.md "wikilink")                            | 金曜 2:15 - 2:45   |                                                                                                        |          |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")             | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                  | 2014年[1月11日](../Page/1月11日.md "wikilink") - [4月12日](../Page/4月12日.md "wikilink")                            | 土曜 2:30 - 3:00   |                                                                                                        |          |
+| [日本全域](../Page/全国放送.md "wikilink")                              | |[AT-X](../Page/アニメシアターX.md "wikilink")                 | 2014年[1月11日](../Page/1月11日.md "wikilink") - [4月12日](../Page/4月12日.md "wikilink")                            | 土曜 18:00 - 18:30 | [アニメ専門](https://ja.wikipedia.org/wiki/アニメ専門チャンネル一覧 "wikilink")[CS放送](../Page/日本における衛星放送.md "wikilink") | リピート放送あり |
+| [ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")     | 土曜 22:30 - 23:00                                        | [ネット配信](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")                                                |                  |                                                                                                        |          |
+| [ニコニコチャンネル](https://ja.wikipedia.org/wiki/ニコニコチャンネル "wikilink") | 土曜 23:00 更新                                             |                                                                                                             |                  |                                                                                                        |          |
+| [バンダイチャンネル](https://ja.wikipedia.org/wiki/バンダイチャンネル "wikilink") |                                                         |                                                                                                             |                  |                                                                                                        |          |
+
+### 咲日和（OAD）
+
+  - 咲日和 ANIMATION
+
+咲-Saki- 第14巻初回限定特装版に同梱されている。
+
+#### スタッフ（OAD）
+
+  - 原作 - [木吉紗](https://ja.wikipedia.org/wiki/木吉紗 "wikilink")　掲載[月刊ビッグガンガン](https://ja.wikipedia.org/wiki/月刊ビッグガンガン "wikilink")スクウェア・エニックス刊
+  - キャラクター原案 - 小林立
+  - 総監督 - 小野学
+  - 監督 - セトウケンジ
+  - シリーズ構成・脚本 - 浦畑達彦
+  - キャラクターデザイン - 佐々木政勝
+  - 美術監督 - 松本浩樹
+  - 色彩設計 - 池田ひとみ
+  - 撮影監督 - 林コージロー
+  - 編集 - 三嶋章紀
+  - 音楽 - 渡辺剛
+  - 音楽制作 - ランティス
+  - 音響監督 - 鶴岡陽太
+  - プロデューサー - 高畑裕一郎、櫻井優香、大野亮介
+  - アニメーションプロデューサー - 柴田知典
+  - アニメーション制作 - Studio五組
+  - 製作 - 咲全国編製作委員会
+
+#### 主題歌（OAD）
+
+  - オープニングテーマ
+
+:; 「ドラマティック＊サイクル」
+
+  -
+
+      -
+        作詞 - [真崎エリカ](https://ja.wikipedia.org/wiki/真崎エリカ "wikilink") / 作曲・編曲 - [高田暁](https://ja.wikipedia.org/wiki/高田暁 "wikilink") / 歌 - [StylipS](https://ja.wikipedia.org/wiki/StylipS "wikilink")
+
+  - エンディングテーマ
+
+:; 「ころもびより」
+
+  -
+
+      -
+        作詞・作曲・編曲 - [rino](https://ja.wikipedia.org/wiki/rino "wikilink")/ 歌 - 龍門渕高校麻雀部［龍門渕透華（[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")）、天江衣（[福原香織](https://ja.wikipedia.org/wiki/福原香織 "wikilink")）、国広一（[清水愛](../Page/清水愛.md "wikilink")）、井上純（[甲斐田裕子](https://ja.wikipedia.org/wiki/甲斐田裕子 "wikilink")）、沢村智紀（[大橋歩夕](https://ja.wikipedia.org/wiki/大橋歩夕 "wikilink")）］
+
+#### 各話リスト（第3作）
+
+| サブタイトル | 絵コンテ                                                    | 演出             | 作画監督 |
+| ------ | ------------------------------------------------------- | -------------- | ---- |
+| アニメの巻① | [セトウケンジ](https://ja.wikipedia.org/wiki/瀬藤健嗣 "wikilink") | 酒井孝裕、橋口隼人、澤田謙治 |      |
+
+## CD
+
+### 主題歌CD
+
+<table>
+<thead>
+<tr class="header">
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>アーティスト</p></th>
+<th><p>規格品番</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2009年4月22日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Glossy:MMM" title="wikilink">Glossy:MMM</a></p></td>
+<td><p>橋本みゆき</p></td>
+<td><p>LASM-4003</p></td>
+</tr>
+<tr class="even">
+<td><p>2009年5月27日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/熱烈歓迎わんだーらんど" title="wikilink">熱烈歓迎わんだーらんど</a></p></td>
+<td><p>宮永咲（植田佳奈）<br />
+原村和（小清水亜美）<br />
+片岡優希（釘宮理恵）<br />
+染谷まこ（白石涼子）<br />
+竹井久（伊藤静）</p></td>
+<td><p>LASM-4005</p></td>
+</tr>
+<tr class="odd">
+<td><p>2009年7月22日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/四角い宇宙で待ってるよ" title="wikilink">四角い宇宙で待ってるよ</a></p></td>
+<td><p>LASM-4022</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2009年8月5日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/bloooomin&#39;" title="wikilink">bloooomin'</a></p></td>
+<td><p>Little Non</p></td>
+<td><p>LASM-4019</p></td>
+</tr>
+<tr class="odd">
+<td><p>2012年4月25日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/SquarePanicSerenade/Futuristic_Player" title="wikilink">SquarePanicSerenade/Futuristic Player</a></p></td>
+<td><p>高鴨穏乃（悠木碧）<br />
+新子憧（東山奈央）<br />
+松実玄（花澤香菜）<br />
+鷺森灼（内山夕実）<br />
+松実宥（MAKO）<br />
+橋本みゆき</p></td>
+<td><p>LASM-4133</p></td>
+</tr>
+<tr class="even">
+<td><p>2012年5月16日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/MIRACLE_RUSH" title="wikilink">MIRACLE RUSH</a></p></td>
+<td><p>StylipS</p></td>
+<td><p>LACM-34920（初回盤）<br />
+LACM-4920（通常盤）</p></td>
+</tr>
+<tr class="odd">
+<td><p>2014年1月22日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/New_SPARKS!" title="wikilink">New SPARKS!</a></p></td>
+<td><p>橋本みゆき</p></td>
+<td><p>LACM-14174</p></td>
+</tr>
+<tr class="even">
+<td><p>2014年2月26日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/この手が奇跡を選んでる" title="wikilink">この手が奇跡を選んでる</a></p></td>
+<td><p>姫松高校<br />
+永水女子高校<br />
+宮守女子高校</p></td>
+<td><p>LACM-14197</p></td>
+</tr>
+</tbody>
+</table>
+
+### サウンドトラック
+
+| 発売日        | タイトル                                         | 規格品番      |
+| ---------- | -------------------------------------------- | --------- |
+| 2009年10月7日 | 咲-Saki- オリジナルサウンドトラック                        | LASA-5018 |
+| 2012年7月25日 | 咲-Saki- 阿知賀編 episode of side-A オリジナルサウンドトラック | LASA-5137 |
+| 2014年3月26日 | 咲-Saki- 全国編 オリジナルサウンドトラック                    | LACA-9342 |
+
+### キャラクターソング
+
+| Vol                                                                                                                           | 発売日         | タイトル         | アーティスト          | 規格品番      |
+| ----------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------ | --------------- | --------- |
+| [咲-Saki- THE 夢のヒットスクエア](https://ja.wikipedia.org/wiki/咲-Saki-_THE_夢のヒットスクエア "wikilink")                                       |             |              |                 |           |
+| 1                                                                                                                             | 2009年7月29日  | キャラソン対局編     | Various Artists | LASA-5007 |
+| 2                                                                                                                             | 2009年12月23日 | キャラソン清澄対局編   | LASA-5014       |           |
+|                                                                                                                               | 2013年3月27日  | 阿知賀編         | LASA-5151       |           |
+| [咲-Saki- 阿知賀編 episode of side-A キャラクターソング](https://ja.wikipedia.org/wiki/咲-Saki-_阿知賀編_episode_of_side-A_キャラクターソング "wikilink") |             |              |                 |           |
+| 1                                                                                                                             | 2012年6月20日  | YES          | READY to PLAY   | 高鴨穏乃（悠木碧） |
+| 2                                                                                                                             | Live A-Life | 新子憧（東山奈央）    | LASM-4140       |           |
+| 3                                                                                                                             | 2012年7月4日   | Dragon Magic | 松実玄（花澤香菜）       | LASM-4141 |
+| 4                                                                                                                             | 麻雀あったかぽっぷ   | 松実宥（MAKO）    | LASM-4142       |           |
+| 5                                                                                                                             | Next Legend | 鷺森灼（内山夕実）    | LASM-4143       |           |
+| 6                                                                                                                             | 2012年10月24日 | One Vision   | 園城寺怜（小倉唯）       | LASM-4146 |
+| 7                                                                                                                             | Little Pray | 清水谷竜華（石原夏織）  | LASM-4147       |           |
+
+### ベストアルバム
+
+  - [橋本みゆき「咲-Saki-」Best Album 〜Anthology〜](https://ja.wikipedia.org/wiki/橋本みゆき「咲-Saki-」Best_Album_〜Anthology〜 "wikilink")
+    2014年6月4日発売
+    橋本みゆきがこれまで歌ってきたアニメ・ゲーム・パチンコでの楽曲を収録したアルバム。
+
+### ラジオCD
+
+  - 咲らじ-清澄高校麻雀部- 疾風編
+    2007年[8月24日](../Page/8月24日.md "wikilink")発売
+    インターネットラジオ『咲らじ -清澄高校麻雀部-』の第1局から5局までを収録（特別局は未収録）。
+    パーソナリティ - [植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")・[小清水亜美](https://ja.wikipedia.org/wiki/小清水亜美 "wikilink")
+    ゲスト - [福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")、[白石涼子](https://ja.wikipedia.org/wiki/白石涼子 "wikilink")、[伊藤静](https://ja.wikipedia.org/wiki/伊藤静 "wikilink")、[藤田咲](https://ja.wikipedia.org/wiki/藤田咲 "wikilink")
+  - 咲らじ-清澄高校麻雀部- 怒濤編
+    2008年[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")発売
+    インターネットラジオ『咲らじ -清澄高校麻雀部-』のDJCD第2弾。
+    パーソナリティ - 植田佳奈・小清水亜美
+    ゲスト - 白石涼子、中田譲治、小野坂昌也、伊藤静
+
+### ドラマCD
+
+  - 咲-Saki- ドラマCD
+    2007年[12月21日](../Page/12月21日.md "wikilink")発売
+    声の出演 - 植田佳奈（宮永咲 役）、小清水亜美（原村和 役）、[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")（片岡優希 役）、伊藤静（竹井久 役）、白石涼子（染谷まこ 役）、福山潤（須賀京太郎 役）、[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")（宮永照 役）、[小野坂昌也](../Page/小野坂昌也.md "wikilink")（咲の父 役）、[中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")（和の父 役）、藤田咲（西田順子 役）、[高本めぐみ](https://ja.wikipedia.org/wiki/高本めぐみ "wikilink")、[寺島拓篤](https://ja.wikipedia.org/wiki/寺島拓篤 "wikilink") 他
+  - 咲-Saki- ドラマCD Vol.1
+    2009年[8月26日](../Page/8月26日.md "wikilink")発売
+    アニメ版のドラマCD。[子安秀明](https://ja.wikipedia.org/wiki/子安秀明 "wikilink")によるオリジナルストーリー。
+    声の出演 - 植田佳奈（宮永咲 役）、小清水亜美（原村和 役）、釘宮理恵（片岡優希 役）、伊藤静（竹井久 役）、白石涼子（染谷まこ 役）、福山潤（須賀京太郎 役）、[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")（龍門渕透華 役） 他。
+  - 咲-Saki- 阿知賀編 episode of side-A ドラマCD「バイト&バイト」
+    [2012年](../Page/2012年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")発売
+    アニメ版阿知賀編のドラマCD。[浦畑達彦](https://ja.wikipedia.org/wiki/浦畑達彦 "wikilink")によるオリジナルストーリー。
+    声の出演 - [悠木碧](https://ja.wikipedia.org/wiki/悠木碧 "wikilink")（高鴨穏乃 役）、[東山奈央](https://ja.wikipedia.org/wiki/東山奈央 "wikilink")（新子憧 役）、[花澤香菜](https://ja.wikipedia.org/wiki/花澤香菜 "wikilink")（松実玄 役）、[MAKO](https://ja.wikipedia.org/wiki/MAKO "wikilink")（松実宥 役）、[内山夕実](https://ja.wikipedia.org/wiki/内山夕実 "wikilink")（鷺森灼 役） 他。
+
+## 実写作品
+
+実写化プロジェクトでドラマ化と映画化がなされ、ともに主演は[浜辺美波](https://ja.wikipedia.org/wiki/浜辺美波 "wikilink")が演じる\[89\]。尚、[百合作品である事を踏まえて製作された](https://ja.wikipedia.org/wiki/百合_\(ジャンル\) "wikilink")\[90\]。
+
+2017年9月、実写化プロジェクト第2弾として、「阿知賀編 episode of side-A」のドラマ化と映画化が発表された\[91\]。第1期と同じ製作陣・スタッフによって製作され、主演は[桜田ひより](https://ja.wikipedia.org/wiki/桜田ひより "wikilink")が演じる。
+
+### テレビドラマ
+
+2016年12月に、[毎日放送の制作により](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、[TBSをはじめとする同系列局の一部で放送の](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[ドラマイズム](https://ja.wikipedia.org/wiki/ドラマイズム "wikilink")枠で4話放送された\[92\]\[93\]。また、2017年1月に単発の特別編が放送された。
+
+#### スタッフ（テレビドラマ）
+
+  - 原作：小林立（掲載「ヤングガンガン」スクウェア・エニックス刊）
+  - 脚本：[森ハヤシ](https://ja.wikipedia.org/wiki/森ハヤシ "wikilink")
+  - 音楽：T$UYO$HI（The BONEZ）
+  - 麻雀指導：[ケネス徳田](https://ja.wikipedia.org/wiki/ケネス徳田 "wikilink")、[黒木真生](https://ja.wikipedia.org/wiki/黒木真生 "wikilink")、[馬場裕一](https://ja.wikipedia.org/wiki/馬場裕一 "wikilink")／バビロン
+  - チーフプロデューサー：岡本東郎、茶ノ前香、原田知明、[丸山博雄](https://ja.wikipedia.org/wiki/丸山博雄 "wikilink")、中川岳、宇田川寧、阿部隆二
+  - プロデューサー：行実良、竹内崇剛、深迫康之、山田香菜子、柴原祐一、[木村康貴](https://ja.wikipedia.org/wiki/木村康貴 "wikilink")
+  - 制作プロダクション：[ダブ](https://ja.wikipedia.org/wiki/ダブ_\(企業\) "wikilink")
+  - 製作：[VAP](https://ja.wikipedia.org/wiki/バップ "wikilink")、[AMUSE](https://ja.wikipedia.org/wiki/アミューズ "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、[A-Sketch](https://ja.wikipedia.org/wiki/A-Sketch "wikilink")、DUB SQUARE ENIX
+  - 監督：小沼雄一
+
+#### 放送局（テレビドラマ）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>放送対象地域</p></th>
+<th><p>放送局</p></th>
+<th><p>系列</p></th>
+<th><p>放送期間</p></th>
+<th><p>放送日時</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/広域放送.md" title="wikilink">近畿広域圏</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">毎日放送</a>（MBS）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/12月5日.md" title="wikilink">12月5日</a> - <a href="../Page/12月26日.md" title="wikilink">12月26日</a></p></td>
+<td><p>月曜 0:50 - 1:20（日曜深夜）</p></td>
+<td><p><strong>製作局</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBSテレビ</a>（TBS）</p></td>
+<td><p>2016年<a href="../Page/12月7日.md" title="wikilink">12月7日</a> - <a href="../Page/12月28日.md" title="wikilink">12月28日</a></p></td>
+<td><p>水曜 1:28 - 1:58（火曜深夜）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a>（NBC）</p></td>
+<td><p>2016年<a href="../Page/12月16日.md" title="wikilink">12月16日</a> - <a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/1月13日.md" title="wikilink">1月13日</a></p></td>
+<td><p>金曜 1:25 - 1:55（木曜深夜）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">IBC岩手放送</a>（IBC）</p></td>
+<td><p>2016年<a href="../Page/12月21日.md" title="wikilink">12月21日</a> - 2017年<a href="../Page/1月18日.md" title="wikilink">1月18日</a></p></td>
+<td><p>水曜 1:28 - 1:58（火曜深夜）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/テレビユー山形.md" title="wikilink">テレビユー山形</a>（TUY）</p></td>
+<td><p>水曜 1:40 - 2:10（火曜深夜）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
+<td><p><a href="../Page/テレビユー福島.md" title="wikilink">テレビユー福島</a>（TUF）</p></td>
+<td><p>2017年<a href="../Page/1月7日.md" title="wikilink">1月7日</a> - <a href="../Page/1月28日.md" title="wikilink">1月28日</a></p></td>
+<td><p>土曜 1:25 - 1:55（金曜深夜）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a>（SBC）</p></td>
+<td><p>2017年<a href="../Page/1月10日.md" title="wikilink">1月10日</a> - <a href="../Page/1月31日.md" title="wikilink">1月31日</a>[94]</p></td>
+<td><p>火曜 1:54 - 2:24（月曜深夜）</p></td>
+<td><p>原作の舞台</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a>（RKK）</p></td>
+<td><p>2017年<a href="https://ja.wikipedia.org/wiki/1月12日" title="wikilink">1月12日</a> - <a href="../Page/2月2日.md" title="wikilink">2月2日</a></p></td>
+<td><p>木曜 0:55 - 1:25（水曜深夜）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/北陸放送" title="wikilink">北陸放送</a>（MRO）</p></td>
+<td><p>2017年<a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a> - <a href="../Page/2月16日.md" title="wikilink">2月16日</a></p></td>
+<td><p>木曜 1:15 - 1:45（水曜深夜）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
+<td><p><a href="../Page/テレビ神奈川.md" title="wikilink">テレビ神奈川</a>（TVK）</p></td>
+<td><p>独立放送</p></td>
+<td><p>2017年<a href="https://ja.wikipedia.org/wiki/5月4日" title="wikilink">5月4日</a> - <a href="../Page/6月1日.md" title="wikilink">6月1日</a></p></td>
+<td><p>木曜 23:00 - 23:30</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
+<td><p><a href="../Page/北海道放送.md" title="wikilink">北海道放送</a>（HBC）</p></td>
+<td><p>TBS系列</p></td>
+<td><p>2017年<a href="../Page/12月11日.md" title="wikilink">12月11日</a> - <a href="../Page/12月25日.md" title="wikilink">12月25日</a></p></td>
+<td><p>12月11日 1:57 - 2:57（1～2話）<br />
+12月18日 2:25 - 3:25（3～4話）<br />
+12月25日 2:27 - 2:57（特別編）</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 映画
+
+2017年2月3日に公開。監督は[小沼雄一](https://ja.wikipedia.org/wiki/小沼雄一 "wikilink")、脚本は[森ハヤシ](https://ja.wikipedia.org/wiki/森ハヤシ "wikilink")\[95\]。
+
+#### スタッフ（映画）
+
+  - 原作：小林立（掲載「ヤングガンガン」スクウェア・エニックス刊）
+  - 脚本：森ハヤシ
+  - 音楽：T$UYO$HI（The BONEZ）
+  - 麻雀指導：ケネス徳田、黒木真生、[馬場裕一](https://ja.wikipedia.org/wiki/馬場裕一 "wikilink")／バビロン
+  - チーフプロデューサー：岡本東郎、茶ノ前香、原田知明、丸山博雄、中川岳、宇田川寧、阿部隆二
+  - プロデューサー：行実良、竹内崇剛、深迫康之、山田香菜子、柴原祐一、木村康貴
+  - 制作プロダクション：ダブ
+  - 製作委員会メンバー：VAP、AMUSE、MBS、A-Sketch、DUB、SQUARE ENIX
+  - 監督：小沼雄一
+
+{{-}}
+
+### 「阿知賀編 episode of side-A」実写版
+
+「咲-Saki-」の実写化プロジェクト第2弾として、スピンオフ作品「咲-Saki- 阿知賀編 episode of side-A」のドラマと映画が製作される\[96\]。いずれも主演は[桜田ひより](https://ja.wikipedia.org/wiki/桜田ひより "wikilink")。桜田にとってドラマ・映画の初主演作となる\[97\]。
+
+ドラマ版は2017年12月に全4話の深夜ドラマとして放送。ドラマ版特別編が2018年1月に放送され、映画版は同月より全国公開される\[98\]。
+
+オープニングテーマ曲「笑顔ノ花」はユカ([タカオユキ](https://ja.wikipedia.org/wiki/タカオユキ "wikilink")、[みみめめMIMI](https://ja.wikipedia.org/wiki/みみめめMIMI "wikilink"))が作詞・作曲を担当。ユカは2017年9月をもって芸能界を卒業しているが、この楽曲は引退前に書き下ろした。
+
+本作は株式会社CMサイトが運営するランキングサイト「ランキングー」で行われた「2018年最も成功したマンガ実写化映画ランキング」TOP10において10代から40代の男女15,181名による投票の結果、10位を獲得した\[99\]。
+
+#### スタッフ（「阿知賀編」実写版）
+
+  - 原作：小林立（掲載「[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")」スクウェア・エニックス刊）
+  - 作画：五十嵐あぐり
+  - 脚本：森ハヤシ
+  - 音楽：T$UYO$HI（The BONEZ）
+  - チーフプロデューサー：岡本東郎、清水達也、丸山博雄、中川岳、渡辺勝也、長谷幸範、宇田川寧、阿部隆二
+  - プロデューサー：行実良、竹内崇剛、村島亘、藤江将希、三枝俊光、鈴木英昭、柴原祐一、木村康貴
+  - 制作プロダクション：ダブ
+  - 監督：小沼雄一
+
+#### 放送局（「阿知賀編」実写版）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>放送対象地域</p></th>
+<th><p>放送局</p></th>
+<th><p>系列</p></th>
+<th><p>放送期間</p></th>
+<th><p>放送日時</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/広域放送.md" title="wikilink">近畿広域圏</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">毎日放送</a>（MBS）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/12月4日.md" title="wikilink">12月4日</a> - <a href="../Page/12月25日.md" title="wikilink">12月25日</a></p></td>
+<td><p>月曜 0:50 - 1:20（日曜深夜）</p></td>
+<td><p><strong>製作局</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBSテレビ</a>（TBS）</p></td>
+<td><p>2017年<a href="../Page/12月6日.md" title="wikilink">12月6日</a> - <a href="../Page/12月27日.md" title="wikilink">12月27日</a></p></td>
+<td><p>水曜 1:28 - 1:58（火曜深夜）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a>（RKK）</p></td>
+<td><p>2018年<a href="../Page/1月5日.md" title="wikilink">1月5日</a> - <a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p>金曜 0:56 - 1:26（木曜深夜）</p></td>
+<td><p><a href="../Page/2月2日.md" title="wikilink">2月2日</a>は特別編を放送</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
+<td><p><a href="../Page/北海道放送.md" title="wikilink">北海道放送</a>（HBC）</p></td>
+<td><p>2018年<a href="../Page/1月8日.md" title="wikilink">1月8日</a> - <a href="../Page/1月29日.md" title="wikilink">1月29日</a></p></td>
+<td><p>月曜 1:20 - 1:50（日曜深夜）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">IBC岩手放送</a>（IBC）</p></td>
+<td><p>2018年<a href="../Page/1月10日.md" title="wikilink">1月10日</a> - <a href="../Page/1月31日.md" title="wikilink">1月31日</a></p></td>
+<td><p>水曜 1:28 - 1:58（火曜深夜）</p></td>
+<td><p><a href="../Page/2月7日.md" title="wikilink">2月7日</a>は特別編を放送</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
+<td><p><a href="../Page/テレビユー福島.md" title="wikilink">テレビユー福島</a>（TUF）</p></td>
+<td><p>2018年<a href="../Page/2月3日.md" title="wikilink">2月3日</a> - <a href="https://ja.wikipedia.org/wiki/2月24日" title="wikilink">2月24日</a></p></td>
+<td><p>土曜 1:40 - 2:10（金曜深夜）</p></td>
+<td><p><a href="../Page/3月3日.md" title="wikilink">3月3日</a>は特別編を放送</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a>（RBC）</p></td>
+<td><p>第1話 2018年<a href="../Page/2月13日.md" title="wikilink">2月13日</a><br />
+第2話 2018年<a href="../Page/2月14日.md" title="wikilink">2月14日</a><br />
+第3話 2018年<a href="../Page/2月15日.md" title="wikilink">2月15日</a><br />
+第4話 2018年<a href="../Page/2月16日.md" title="wikilink">2月16日</a><br />
+特別編 2018年<a href="../Page/2月17日.md" title="wikilink">2月17日</a></p></td>
+<td><p>火曜 1:54 - 2:24（月曜深夜）<br />
+水曜 2:09 - 2:39（木曜深夜）<br />
+木曜 2:14 - 2:44（金曜深夜）<br />
+金曜 2:09 - 2:39（土曜深夜）<br />
+土曜 2:05 - 2:35（金曜深夜）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a> (SBC)</p></td>
+<td><p>2018年<a href="../Page/5月22日.md" title="wikilink">5月22日</a> - <a href="../Page/6月12日.md" title="wikilink">6月12日</a></p></td>
+<td><p>火曜 2:05 - 2:35 (月曜深夜)</p></td>
+<td><p><a href="../Page/6月19日.md" title="wikilink">6月19日</a>は特別編を放送</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 音楽（実写版）
+
+  - 咲-Saki-
+
+:; オープニングテーマ「きみにワルツ」\[100\]
+
+  -
+
+      -
+        歌：清澄高校麻雀部［[浜辺美波](https://ja.wikipedia.org/wiki/浜辺美波 "wikilink")、[浅川梨奈](https://ja.wikipedia.org/wiki/浅川梨奈 "wikilink")（[SUPER☆GiRLS](https://ja.wikipedia.org/wiki/SUPER☆GiRLS "wikilink")）、[廣田あいか](https://ja.wikipedia.org/wiki/廣田あいか "wikilink")（[私立恵比寿中学](https://ja.wikipedia.org/wiki/私立恵比寿中学 "wikilink")）、[古畑星夏](https://ja.wikipedia.org/wiki/古畑星夏 "wikilink")、[山田杏奈](https://ja.wikipedia.org/wiki/山田杏奈 "wikilink")］
+        作詞：[ユカ](https://ja.wikipedia.org/wiki/タカオユキ "wikilink")（[みみめめMIMI](https://ja.wikipedia.org/wiki/みみめめMIMI "wikilink")）、編曲：[CHRYSANTHEMUM BRIDGE](https://ja.wikipedia.org/wiki/CHRYSANTHEMUM_BRIDGE "wikilink")
+
+    <!-- end list -->
+
+      - エンディングテーマ
+
+    :; 「ハローグッバイ」（第1局 - 第3局）
+
+    :: 歌：[フレデリック](https://ja.wikipedia.org/wiki/フレデリック_\(バンド\) "wikilink")
+
+    :; 「[NO MORE CRY](https://ja.wikipedia.org/wiki/NO_MORE_CRY#カバー "wikilink")」（第4局、映画版）
+
+      -
+
+          -
+            歌：清澄高校麻雀部
+
+  - 咲-Saki- 阿知賀編
+
+:; オープニングテーマ「笑顔ノ花」
+
+:: 歌：阿知賀女子学院麻雀部［[桜田ひより](https://ja.wikipedia.org/wiki/桜田ひより "wikilink")、[伊藤萌々香](https://ja.wikipedia.org/wiki/伊藤萌々香 "wikilink")（[フェアリーズ](https://ja.wikipedia.org/wiki/フェアリーズ "wikilink")）、[恒松祐里](https://ja.wikipedia.org/wiki/恒松祐里 "wikilink")、[渡邉幸愛](https://ja.wikipedia.org/wiki/渡邉幸愛 "wikilink")（[SUPER☆GiRLS](https://ja.wikipedia.org/wiki/SUPER☆GiRLS "wikilink")）、[中山莉子](https://ja.wikipedia.org/wiki/中山莉子 "wikilink")（[私立恵比寿中学](https://ja.wikipedia.org/wiki/私立恵比寿中学 "wikilink")）］
+
+:; エンディングテーマ「春～spring～」
+
+  -
+
+      -
+        歌：阿知賀女子学院麻雀部
+
+## ゲーム作品
+
+### 咲-Saki- Portable
+
+2009年[8月15日](../Page/8月15日.md "wikilink")に[コミックマーケット](../Page/コミックマーケット.md "wikilink")で行われた[アルケミストのイベント](../Page/アルケミスト_\(企業\).md "wikilink")「アルケ祭2009 ぷち」において同社が[PlayStation Portable用ゲームを発売すると発表](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")\[101\]、同年11月に『**咲-Saki- Portable**』として2010年春に発売されることが発表され、同年3月25日に発売された。
+
+麻雀ゲームとなっており、アニメ本編およびPSPオリジナルストーリーを[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")として楽しめる「ストーリーモード」、指定された条件をクリアしていく「チャレンジモード」、指定したキャラクターと個人戦または団体戦で対局できる「フリー対局モード」、無線LANのアドホック通信を使って最大4人による対戦が可能な「通信対局モード」、他のモードで手に入れたCGや音声を閲覧・視聴できる「ギャラリーモード」で構成される。
+
+登場キャラクターはそれぞれ各種パラメータが振り分けられているほか、特定のキャラクターは『[兎-野性の闘牌-](https://ja.wikipedia.org/wiki/兎-野性の闘牌- "wikilink")』のように固有の能力を持ち、そのパラメータや能力が反映される打ち方が行われる。こうしたパラメータや能力を無効にして純粋な麻雀を打つことも可能になっているほか、ストーリーモードでは難易度設定や初心者向けのサポート機能を搭載している。演出面でも各キャラクターごとにCG200枚以上を使用したカットイン演出が盛り込まれている。
+
+ゲーム原画をアニメ版同様GONZO第5スタジオが担当、各キャラクターの音声も声優によるフルボイス対応\[102\]となっている。
+
+また通常版だけでなくミニフィギュアと設定資料集が同梱された限定版の『「roof-top」BOX』が発売されている。
+
+  - 主題歌
+
+:; オープニングテーマ「[君が笑ってくれたから、今日も夢の種を蒔こう。-キミたね-](https://ja.wikipedia.org/wiki/君が笑ってくれたから、今日も夢の種を蒔こう。-キミたね- "wikilink")」
+
+:; エンディングテーマ「爆発始動レボリューション」
+
+  -
+
+      -
+        共に作詞・作曲・編曲・歌 - Little Non
+
+### 咲-Saki- 阿知賀編 episode of side-A Portable
+
+アルケミストより[2013年](../Page/2013年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink")に発売されたPSP用ゲームソフト。阿知賀編を原作として製作され、CG原画はアニメを製作したStudio五組が担当、主要キャラクターはフルボイスとなり、前作になかった役の読み上げも追加される。また前作からの改良点として、データインストールの対応やデータ読み込み速度の改善などがある。通常版のほか、オープニングテーマを収録したCDと設定資料集を同梱した限定版、ダウンロード版も同時発売される\[103\]。
+
+  - 主題歌
+
+:; オープニングテーマ「moment of glory」
+
+  -
+
+      -
+        作詞・作曲・編曲 - ZAQ、歌 - 橋本みゆき
+
+### 咲-Saki- 全国編
+
+[加賀クリエイトより](https://ja.wikipedia.org/wiki/加賀電子 "wikilink")[2015年](../Page/2015年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")に発売された[PlayStation Vita用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")。咲-Saki- 全国編を元に制作され、前作と同じくCG原画はStudio五組が担当、主要なキャラクターはフルボイスになっており、シチュエーションパートから、麻雀パートの掛け声、つぶやきなどが追加された。通常版のほか、ダウンロード版、設定資料集と本作の主題歌とBGMを収録したサウンドトラックCDを同梱した初回限定版が同時発売された。
+
+加賀クリエイトが解散したことにより一時販売を停止していたが、販売権を引き継いだ[エンターグラム](https://ja.wikipedia.org/wiki/エンターグラム "wikilink")から、2016年12月22日に「咲-Saki- 全国編Plus」と改題の上で配信でのみ再発売された。オンライン対戦等のシステムの追加やバグの修正、浴衣の追加衣装が配布されており、加賀クリエイト版のジャージ衣装の初回特典も限定配布されていた。オリジナル版との互換性は無い。なお、オンライン対戦では発動能力の兼ね合い上、使用できないキャラクターが存在する（後に使用できるように調整された）。
+
+  - 主題歌
+    **オープニングテーマ「UPDATE:SHINE」**
+      -
+        作詞 - 松井洋平　作曲・編曲 - 酒井陽一　歌 - 橋本みゆき
+
+### セガネットワーク対戦麻雀MJ4・MJ5・アプリ版MJ
+
+[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")が業務用アーケードゲームとして運営する、オンライン対戦麻雀ゲーム。本作のテレビアニメ化にあたってのタイアップで、ゲームのCPUキャラとして本作の主要キャラクター3名（咲・和・優希）が登場し、それぞれの声優にも担当キャラクター名義での特製ICカードが配布された。また、本作のタイトルを冠した全国大会がMJ4で第1回が2009年[7月10日](../Page/7月10日.md "wikilink")、第2回が2009年[12月11日](../Page/12月11日.md "wikilink")、MJ5で第3回が2012年[3月2日](../Page/3月2日.md "wikilink")から、第4回が2012年6月20日から、第5回が2012年12月27日から、MJ5とアプリ版MJ（アプリ版MJは[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")が運営）で第6回が2014年3月27日から、第7回が2014年12月22日から、第8回が2015年8月4日から開催された。さらに第9回がアプリ版MJでは2016年8月5日、MJ5では同8日から開催が決定している。その他、タッチペン付きカードケース・キャラクターフィギュアなどの[プライズゲーム](../Page/プライズゲーム.md "wikilink")用景品がセガプライズからリリースされている。
+
+## パチンコ
+
+  -
+    [三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")から[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機「CR咲-Saki-」が2014年5月に発売された\[104\]。
+    2019年3月に「P咲-Saki-阿知賀編」が発売された<ref>[P咲-Saki-阿知賀編 episode of side-A：SANYO](https://www.sanyobussan.co.jp/products/pk_saki_achiga/)
+
+</ref>。
+
+## タイアップ
+
+### 飲食でのタイアップ
+
+  - タコデリオ
+    [タコス](https://ja.wikipedia.org/wiki/タコス "wikilink")[チェーン店](https://ja.wikipedia.org/wiki/チェーンストア "wikilink")「タコデリオ」とのタイアップで、本作の人気キャラクター\[105\]の一人である優希がタコス好きであるという設定から実現した企画\[106\]。2009年[7月1日](../Page/7月1日.md "wikilink")から[8月31日](../Page/8月31日.md "wikilink")までの間、店内で使用されるトレイマットに優希の姿が描かれた\[107\]。また2009年[8月1](../Page/8月1日.md "wikilink")・[2日には](../Page/8月2日.md "wikilink")、コラボレーション第2弾として「優希オリジナルタコス」「優希オリジナルタコスキット」が[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")駅前スペースにて販売された\[108\]。
+  - パセラリゾート（SANYOグループのレジャー施設部門）
+    三洋物産とは遊技機タイトル使用におけるライセンス契約の他でも業務提携しており、同社のレジャー施設『パセラリゾート』内にて各主要キャラクターイメージの独自メニューを複数回、期間限定で開発・提供している。
+
+### ゲームでのタイアップ
+
+  - ChaosTCG
+    一時期[ブシロード](https://ja.wikipedia.org/wiki/ブシロード "wikilink")制作元の[TCGに本作の参戦が予報されていたが](../Page/トレーディングカードゲーム.md "wikilink")、何らかの原因で中止となった。
+  - 麻雀MJ シリーズ
+    [セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")（現在は[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）のオンライン対戦麻雀ゲーム「[セガネットワーク対戦麻雀MJ4](https://ja.wikipedia.org/wiki/セガネットワーク対戦麻雀MJ4 "wikilink")」「[セガネットワーク対戦麻雀MJ5 REVOLUTION](https://ja.wikipedia.org/wiki/セガネットワーク対戦麻雀MJ5 "wikilink")」「[セガNET麻雀 MJ](https://ja.wikipedia.org/wiki/セガNET麻雀_MJ "wikilink")」の通称『麻雀MJ』シリーズでそれぞれタイアップが行われた。
+  - [天鳳](https://ja.wikipedia.org/wiki/天鳳_\(オンラインゲーム\) "wikilink")
+    シー・エッグのオンライン対戦麻雀「天鳳」では、2010年3月に「咲-Saki-杯@天鳳」という大会が開かれた。賞品として、アニメ台本やアニメDVD1巻などが提供された\[109\]。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [テレビ東京系アニメ](https://ja.wikipedia.org/wiki/テレビ東京系アニメ "wikilink")
+  - [J-1グランプリ](https://ja.wikipedia.org/wiki/J-1グランプリ "wikilink") - 声優による麻雀大会。植田、小清水、福山、神崎、小山が出場している。
+  - [エトピリカ](../Page/エトピリカ.md "wikilink") - 「エトペン」は、「エトピリカになりたかった[ペンギン](https://ja.wikipedia.org/wiki/ペンギン "wikilink")」という絵本（実在しない）の主人公がモチーフとされている。
+  - [宇佐美うみ](https://ja.wikipedia.org/wiki/宇佐美うみ "wikilink") - アニメ15話で著作『恋する麻雀』が取り上げられた。
+  - [大洋化学](https://ja.wikipedia.org/wiki/大洋化学 "wikilink") - 第1作から協力としてクレジット。
+
+## 外部リンク
+
+  - 原作関連
+      - [咲-Saki- | 作品紹介 | ヤングガンガン YOUNG GANGAN OFFICIALSITE](https://magazine.jp.square-enix.com/yg/introduction/saki/)
+      - [ガンガンNET | 咲-Saki- 阿知賀編 episode of side-A](https://magazine.jp.square-enix.com/gangan/introduction/saki_side_a/)
+      - [咲日和 | ビッグガンガン | SQUARE ENIX](https://magazine.jp.square-enix.com/biggangan/introduction/sakibiyori/)
+      - [シノハユ the dawn of age | ビッグガンガン | SQUARE ENIX](https://magazine.jp.square-enix.com/biggangan/introduction/shinohayu/)
+  - アニメ関連
+      - [テレビアニメ「咲-Saki-」スペシャルサイト](http://saki-anime.com/1st/)
+
+      - [テレビアニメ「咲-Saki- 阿知賀編 episode of side-A」スペシャルサイト](http://saki-anime.com/achiga/)
+
+      - [テレビアニメ「咲-Saki- 全国編」スペシャルサイト](http://saki-anime.com/)
+
+      - [GONZO WORKS -咲 -Saki-](http://www.gonzo.co.jp/works/saki/)
+
+      - [テレビ東京・あにてれ 咲-Saki-](https://www.tv-tokyo.co.jp/anime/saki/)
+
+      - [テレビ東京・あにてれ 咲-Saki- 阿知賀編 episode of side-A](https://www.tv-tokyo.co.jp/anime/saki2/)
+
+      - [テレビ東京・あにてれ 咲-Saki- 全国編](https://www.tv-tokyo.co.jp/anime/saki3/)
+
+      -
+  - その他
+      - [SANKYO：CR 咲-Saki-](https://www.sanyobussan.co.jp/products/pk_saki/)
+
+      - [ドラマ『咲-Saki-』番組サイト - MBS](https://www.mbs.jp/saki/)
+
+      - [咲-saki-｜実写化プロジェクト](http://vap.co.jp/saki-project/)
+
+      -
+      - [咲-Saki-全国編Plus](http://www.entergram.co.jp/saki/)
+
+[Category:咲-Saki-](https://ja.wikipedia.org/wiki/Category:咲-Saki- "wikilink") [Category:漫画作品_さ](https://ja.wikipedia.org/wiki/Category:漫画作品_さ "wikilink") [Category:ヤングガンガン](https://ja.wikipedia.org/wiki/Category:ヤングガンガン "wikilink") [Category:月刊ビッグガンガン](https://ja.wikipedia.org/wiki/Category:月刊ビッグガンガン "wikilink") [Category:麻雀漫画](https://ja.wikipedia.org/wiki/Category:麻雀漫画 "wikilink") [Category:長野県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:長野県を舞台とした作品 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:アニメ作品_さ](https://ja.wikipedia.org/wiki/Category:アニメ作品_さ "wikilink") [Category:2009年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2009年のテレビアニメ "wikilink") [Category:テレビ東京の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜アニメ "wikilink") [Category:ゴンゾ](https://ja.wikipedia.org/wiki/Category:ゴンゾ "wikilink") [Category:ピクチャーマジック](https://ja.wikipedia.org/wiki/Category:ピクチャーマジック "wikilink") [Category:ポニーキャニオンのアニメ作品](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアニメ作品 "wikilink") [Category:ランティスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ランティスのアニメ作品 "wikilink") [Category:クロックワークスのアニメ作品](https://ja.wikipedia.org/wiki/Category:クロックワークスのアニメ作品 "wikilink") [Category:創通のアニメ作品](https://ja.wikipedia.org/wiki/Category:創通のアニメ作品 "wikilink") [Category:テレビ東京メディアネットのアニメ作品](https://ja.wikipedia.org/wiki/Category:テレビ東京メディアネットのアニメ作品 "wikilink") [Category:ガンガンコミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ガンガンコミックスのアニメ作品 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink") [Category:2016年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2016年のテレビドラマ "wikilink") [Category:ドラマイズム](https://ja.wikipedia.org/wiki/Category:ドラマイズム "wikilink") [Category:2017年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2017年のテレビドラマ "wikilink") [Category:TBSのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:TBSのスペシャルドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:2017年の映画](https://ja.wikipedia.org/wiki/Category:2017年の映画 "wikilink") [Category:漫画を原作とする映画作品](https://ja.wikipedia.org/wiki/Category:漫画を原作とする映画作品 "wikilink") [Category:日本のテレビドラマの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビドラマの劇場版 "wikilink") [Category:バップ](https://ja.wikipedia.org/wiki/Category:バップ "wikilink") [Category:アミューズ](https://ja.wikipedia.org/wiki/Category:アミューズ "wikilink") [Category:毎日放送製作の映画](https://ja.wikipedia.org/wiki/Category:毎日放送製作の映画 "wikilink") [Category:バップの映画作品](https://ja.wikipedia.org/wiki/Category:バップの映画作品 "wikilink") [Category:A-Sketch](https://ja.wikipedia.org/wiki/Category:A-Sketch "wikilink")
+
+1.  この経緯から単行本では短期掲載時のエピソードに「第○話」、現行連載のエピソードに「第○局」と振っている。短期掲載版と現行連載との橋渡し的エピソードである「勝負」は「第3話/第0局」となっている。
+2.
+3.  [咲－Saki－：ドラマと映画で実写化　12月に4話放送＆来年初頭に公開へ](http://mantan-web.jp/2016/09/02/20160901dog00m200045000c.html),毎日新聞デジタル,2016年9月2日
+4.
+5.  作者サイト「dreamscape」2014年3月16日更新分。
+6.  [咲-Saki-：スピンオフマンガ「怜-Toki-」連載へ](http://mainichi.jp/articles/20160524/dyo/00m/200/014000c),毎日新聞,2016年5月25日
+7.
+8.
+9.
+10.
+11.
+12. [作者の公式blog 08.03.06](https://web.archive.org/web/20080512122721/http://sciasta.com/ritz/)（2008年5月12日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）中の発言。
+13. 『オトナアニメ』vol.12 - 12ページ。
+14.
+15. このことは第65局で明らかにされた。県予選編では一部の出場校や建物（例えば第2巻122ページには[七久保駅](../Page/七久保駅.md "wikilink")に類似した[駅が登場している](https://ja.wikipedia.org/wiki/鉄道駅 "wikilink")）には長野県内の地名や建物が引用されている。アニメ版においても第3局では久とまこが県大会予選抽選会に行く際に、同第10局・同第11局で和の後輩が大会会場に行く際に[JR東海の](https://ja.wikipedia.org/wiki/東海旅客鉄道 "wikilink")[飯田線](https://ja.wikipedia.org/wiki/飯田線 "wikilink")を[当時走行していた電車と外見が同じ列車に乗車し](../Page/国鉄119系電車.md "wikilink")、第6局では七久保駅に似た駅の行き先案内板に「[辰野](../Page/辰野駅.md "wikilink")」の文字が書かれているなどの描写がある。
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49. [シノハユ 1巻 公式サイト: 小林立: 五十嵐あぐり: ビッグガンガンコミックスSUPER: スクウェア・エニックス](http://www.jp.square-enix.com/magazine/top/introduction/detail/9784757541849.html) 2013年12月25日閲覧。
+50. [シノハユ 2巻 公式サイト: 小林立: 五十嵐あぐり: ビッグガンガンコミックスSUPER: スクウェア・エニックス](http://www.jp.square-enix.com/magazine/top/introduction/detail/9784757544239.html) 2014年10月3日閲覧。
+51. [シノハユ 3巻 公式サイト: 小林立: 五十嵐あぐり: ビッグガンガンコミックスSUPER: スクウェア・エニックス](http://www.jp.square-enix.com/magazine/top/introduction/detail/9784757545717.html) 2015年2月27日閲覧。
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65. [『咲-Saki- OFFICIAL FAN BOOK』 | 学研出版サイト](http://hon.gakken.jp/book/1340436700) 2012年12月7日閲覧。
+66.
+67.
+68. [メガミマガジンスペシャルセレクション『咲-Saki- ビジュアルコレクション 上』 | 学研出版サイト](http://hon.gakken.jp/book/1340546200) 2012年12月7日閲覧。
+69. [メガミマガジンスペシャルセレクション『咲-Saki- ビジュアルコレクション 下』 | 学研出版サイト](http://hon.gakken.jp/book/1340548500) 2012年12月7日閲覧。
+70. [『“タコス”優希役に釘宮理恵さんが決定！ドラマCD『咲-Saki-』12/21発売迫る！』(2007.11.24)](https://web.archive.org/web/20071126031641/http://fwinc.boxerblog.com/production_diary/2007/11/cdsaki122120071_2ebc.html)（2007年11月26日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）。
+71. スクウェア・エニックス、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")、[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")、[クロックワークス](https://ja.wikipedia.org/wiki/クロックワークス "wikilink")、[テレビ東京メディアネット](../Page/テレビ東京メディアネット.md "wikilink")、[創通](https://ja.wikipedia.org/wiki/創通 "wikilink")。
+72. ただし、アニメスペシャルサイトでは第○話で振られている。
+73. [遅れネット](https://ja.wikipedia.org/wiki/遅れネット "wikilink")のTXN各局では別番組に差し替えたり、放送終了時間を繰り上げるなどで対応した。
+74. 第52局まで。
+75. 県予選個人戦を含む。『咲-Saki-Official Fan Book』での小野学の発言によれば企画段階では原作でも個人戦があるかどうかわからない状態だったが、打ち合わせで小林から「団体戦の後には個人戦がある」と明かされ、その設定もされていたという。
+76. なお、無料BS放送局で全国放送（再放送）されるのは初の事例。
+77. 第4話 - 第7話、第9話 - 第13話。
+78. 第1話、第4話 - 第12話。
+79. 『月刊少年ガンガン』2013年2月号「咲取り\!\! 阿知賀にゅーす GG版」より。
+80. 『月刊少年ガンガン』2012年7月号p10-11「小野学×浦畑達彦スペシャル対談」およびアニメ公式ウェブサイト「[監督、シリーズ構成・脚本インタビュー](http://saki-anime.com/achiga/special/interview.php)」2015年11月5日閲覧より。
+81. テレビ放映の最終回に当たる第12話の[エンドカードでは](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")「**まだまだ行くよ！**」の文言が添えられた。
+82. [船久保浩子 キャスト変更のお知らせ](http://www.saki-anime.com/blog/information/post_655/), 咲-Saki-応援ブログ, 2012年12月12日, 2013年8月28日閲覧。
+83.
+84. テレ東版と異なり、省略された予告が付いている回もある。
+85.
+86. 第1局から第6局まで木曜23:30から放送、第7局から木曜23:00から放送
+87. アニメ公式サイトでは[PlayStation Networkと表記されている](https://ja.wikipedia.org/wiki/PlayStation_Network "wikilink")。
+88.
+89.
+90. [『咲-Saki-』小沼雄一監督インタビュー　実写化の秘訣は「ビジュアル、エロス、百合ではなく“物語の核心”を考える」 | SPICE - エンタメ特化型情報メディア スパイス](https://spice.eplus.jp/articles/104486) - 2017年12月27日閲覧。
+91.
+92.
+93.
+94. [2月7日](../Page/2月7日.md "wikilink")には特別編を放送。
+95.
+96.
+97.
+98.
+99.
+100.
+101.
+102. ただし、京太郎はボイスが入っていない。
+103. [「咲-Saki- 阿知賀編 episode of side-A Portable」発売日が8月29日に決定。本作の追加要素や限定版の同梱内容なども明らかに](http://www.4gamer.net/games/213/G021369/20130530028/), 4gamer.net, 2013年5月30日, 2013年8月28日閲覧。
+104. [大人気本格麻雀アニメがパチンコで登場！『CR 咲‐Saki‐』……三洋より](http://777.nifty.com/cs/catalog/777_87/catalog_140313183129_1.htm)（777[@nifty](https://ja.wikipedia.org/wiki/@nifty "wikilink")、2014年3月18日）
+105.
+106.
+107.
+108.
+109.

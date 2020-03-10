@@ -1,0 +1,885 @@
+> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+
+
+『**スケバン刑事II 少女鉄仮面伝説**』（スケバンデカツー しょうじょてつかめんでんせつ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月23日](../Page/10月23日.md "wikilink")まで毎週木曜日19:30 - 20:00に、[フジテレビ系で放送された日本の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[学園ドラマ](https://ja.wikipedia.org/wiki/学園ドラマ "wikilink")。主演は[南野陽子](https://ja.wikipedia.org/wiki/南野陽子 "wikilink")。
+
+[和田慎二](../Page/和田慎二.md "wikilink")の漫画『[スケバン刑事](../Page/スケバン刑事.md "wikilink")』を原作としたテレビドラマの第2作である。翌1987年にはセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から[セガ・マークIII](../Page/セガ・マークIII.md "wikilink")用の同名ゲームソフトも発売された。
+
+本稿ではこのゲームソフトに加え、後日談となる1987年公開の劇場映画『**スケバン刑事**』についても併せてここで扱う。
+
+## 概要
+
+「鉄仮面\[1\]」「梁山高校\[2\]」「青狼会」「信楽老」のキーワードから分かるように、原作第2部がベースとなっている。このシリーズ以降、「麻宮サキ」は[コードネーム](../Page/コードネーム.md "wikilink")として引き継がれている。「おまんら、許さんぜよ」など、主人公の使う[土佐弁](https://ja.wikipedia.org/wiki/土佐弁 "wikilink")での決めセリフは有名となった\[3\]。また本作ではサキに二人の仲間が加わって三人組となり、「主人公側は三人組」という設定は次作『[III](https://ja.wikipedia.org/wiki/スケバン刑事III_少女忍法帖伝奇 "wikilink")』でも引き継がれている\[4\]。劇中ナレーションは[来宮良子](../Page/来宮良子.md "wikilink")が担当。放送開始前の予告編では来宮のナレーションで「今、セーラー服は学園の戦闘服だ\!」というコピーが用いられ、関連書籍のタイトルでも使用されている。
+
+和田によると、番組制作サイドからは原作を離れるという通知があったものの、実際にできあがった作品としては「常に孤独でありながら、自分のためでなく他人のために戦う」サキ本来の生き様や、敵と戦って友や仲間を得ていく部分など、このシリーズが原作のイメージに一番近いという。「自分がいち視聴者として学生時代に観ていたら、夢中になっていた」と絶賛している。\[5\]
+
+出演レギュラーに当時の現役[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")在籍者がいたことから、他の現役メンバーも2本のサブタイトル回をはじめとして多数ゲスト出演した。
+
+## 登場人物
+
+### 主要人物
+
+  - 五代 陽子（ごだい ようこ、2代目麻宮サキ）
+    演 - [南野陽子](https://ja.wikipedia.org/wiki/南野陽子 "wikilink")（少女時代：片桐尚美）
+    本作の主人公で、本名は**早乙女志織（さおとめ しおり）**。[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")生まれ。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")在住（第6話）。身長：160cm、体重：45kg。スリーサイズ　B：80cm　W：56cm　H：82cm（第1話）。梁山高校2年B組（第21話で3年B組に進級）。初代同様、敵の目の前に[ヨーヨー](https://ja.wikipedia.org/wiki/ヨーヨー "wikilink")を投げた後、組み込まれている桜の代紋（[旭日章](https://ja.wikipedia.org/wiki/旭日章_\(警察章\) "wikilink")）を見せて「**鉄仮面に顔を奪われ、十（とお）と七とせ、生まれの証しさえ立たんこの私（あてぇ）が何の因果か警察（マッポ）の手先。**」で始まる名乗りの口上\[6\]を行うが、名乗りの部分は省略されることが多い。
+    次回予告では「**おまんら、許さんぜよ\!**」（第1話 - ）、「**おまんら、気合入れんかい\!**」（第18話 - ）で締める。
+    [高知県](../Page/高知県.md "wikilink")土佐青柳高校出身。土佐では、四国全体のスケバングループから“**スケバン鉄仮面**”として恐れられていた。幼い時から鉄仮面を被らされ、小・中・高と仮面のままで通学する。その背景には、鎌倉の老人の息がかかっていることから鉄仮面での通学を余儀なくされた経緯がある（鉄仮面の設定に関するエピソードは[補足を参照](https://ja.wikipedia.org/wiki/スケバン刑事II_少女鉄仮面伝説#補足 "wikilink")）。麻宮サキを失った事から暗闇指令の組織が次期・スケバン刑事候補を選抜中、部下である西脇によって2代目麻宮サキ候補として紹介され、目を付けられる。暗闇指令からの特命刑事の勧誘や西脇からの再三の要請にも頑なに拒否していたが、スケバン刑事になる事で父親の死の真相や鉄仮面を被せた人物の謎が解明されるという西脇の言葉を信じ、重合金のヨーヨーと黒皮の手袋を受け取り、2代目スケバン刑事 麻宮サキ襲名を決意した。[カワサキ・GPZ400R](https://ja.wikipedia.org/wiki/カワサキ・GPZ400R "wikilink")に搭乗している。
+    生まれてからずっと高知の田舎で過ごしていたせいか、都会の世間的な風俗にはかなり疎い。設定上は運動神経抜群だが、演じる南野は運動がまったく苦手だった為、腕立て伏せのシーンでは身体をワイヤーで吊ってもらいながら撮影した。なお、後ろ姿は前作の斉藤由貴に続き[大野剣友会](../Page/大野剣友会.md "wikilink")の高木政人が吹き替えている\[7\]。
+    エンディングでは一貫して「麻宮サキ」とクレジットされており、ナレーションでも登場人物からもそう呼ばれているが、初代との混同を防ぐことと本名を名乗るのは全ての事件が解決した後であるため、本稿では彼女については初期からの仮名である「五代陽子」と表記することにする。
+  - 矢島 雪乃（やじま ゆきの）
+    演 - [吉沢秋絵](https://ja.wikipedia.org/wiki/吉沢秋絵 "wikilink")
+    第2話より登場。財閥の総帥令嬢。[袱紗](https://ja.wikipedia.org/wiki/袱紗 "wikilink")と琴の爪（山田流）を[武器](../Page/武器.md "wikilink")に使用。和傘を併用することもある。梁山高校に転校する前に陽子が潜入した桐の葉学園で出会う。陽子を慕い、後に梁山高校に転校してくる。[古武道](../Page/古武道.md "wikilink")の達人で、[薙刀](../Page/薙刀.md "wikilink")を武器に戦ったこともある。好きな飲み物はカルピス。
+    演じる吉沢秋絵は、学業との両立が困難になってきた為、目を患って入院するという設定にして一時戦線離脱していたが、後半復帰している。なお吉沢は[夕やけニャンニャン](../Page/夕やけニャンニャン.md "wikilink")内「アイドルを探せ スケバン刑事パートIIスペシャル」で2代目麻宮サキとして選ばれ、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")加入とともに本作への出演が決まったものの、サキ役は前述のとおり南野に変更されている。（しかし、フジテレビ側のプロデューサーである岡正は、2代目スケバン刑事の候補にはアイドル歌手、CFモデル、新人女優など数十名の名前が挙がっていたものの、主役は最初から南野陽子に決めていたと語っている。南野に決めたのは会った瞬間にこれだと閃くものがあったからだという\[8\]。また、東映側のプロデューサーである中曽根千治も、[DELUXEマガジン](https://ja.wikipedia.org/wiki/DELUXEマガジン "wikilink")で初めて見た時から主役は南野陽子だと心に決めて、半ば強引にキャスティングしたと述べている\[9\]。）
+  - 中村 京子（なかむら きょうこ）
+    演 - [相楽ハル子](https://ja.wikipedia.org/wiki/相楽晴子 "wikilink")
+    通称「[ビー玉](../Page/ビー玉.md "wikilink")のお京」、第3話より登場。その名の通り、ビー玉を武器に使用。礫として使う他、大量にばら撒いて追手を転ばせたりもしている。ショートカットで、目つきが鋭い。[新宿](../Page/新宿.md "wikilink")生まれ。下町育ちの典型的な江戸っ子気質で、面倒見が良い姉御肌。家族はおらず、一人暮らしをしている。３人の子分がいる。転校してきた陽子に齧っていた林檎を投げつけるが、後ろを向いたまま受けられた挙句に片手で握りつぶされて驚愕する。その後陽子と対決の後に実力を認めて親友となる。
+
+### 暗闇機関
+
+  - 西脇（にしわき）
+    演 - [蟹江敬三](https://ja.wikipedia.org/wiki/蟹江敬三 "wikilink")
+    原作の「ムウ=ミサ」がモデル。元刑事の暗闇機関腕利きエージェントで、陽子の父・早乙女七郎とは友人でもあった。盟友との約束を頑なに守り、信楽老の圧力に世の中の全てが敵となった時でも、ただ一人陽子を護り続けた。また[前作の](https://ja.wikipedia.org/wiki/スケバン刑事_\(ドラマ第1作\) "wikilink")[神](https://ja.wikipedia.org/wiki/神恭一郎 "wikilink")、[次作の依田とは異なり物語](https://ja.wikipedia.org/wiki/スケバン刑事III_少女忍法帖伝奇 "wikilink")（劇場版含む）の最後まで生存している。表の顔は、梁山高校のさえない教員（頭髪やスーツはヨレヨレで、レンズが厚い眼鏡を着用。また、生徒達に対しては敬語を用いており、生徒達曰く「何をやっても怒らない」らしい）で、陽子達のクラスの担任をしている。教師姿でも指令を下すことはあり、その際も陽子に対しては基本的に敬語を用いているが、普段（エージェント姿）は普通の口調で陽子に指令を下す。雪乃やお京の担任でもあるが、本編では最後まで正体を見せることはなかった。しかし劇場版では普段の姿で彼女らとも接している。
+    エンディングのキャスト紹介（第16話以降）では、主演の南野陽子と同じ演出がなされた。
+  - 暗闇指令
+    演 - [長門裕之](../Page/長門裕之.md "wikilink")
+    前作より引き続きの出演。ただし本作では前作のように自ら指令を発するシーンはないため、4話程度の出演。終盤、信楽老の圧力に屈し、陽子に特命刑事解任（麻宮サキの名前の使用禁止）と命令違反による制裁と逮捕を通告するも、後から来た西脇に妨害される。その後圧力に屈したことを悔い、陽子の攻撃で虫の息の信楽老に止めを刺した。前作、次作と異なり最終回にも出演している。
+
+### 矢島家
+
+  - 宮本（みやもと）
+    演 - 鎌田功
+    矢島家に仕える雪乃のお抱え運転手。
+
+### 梁山高校
+
+  - 上原 丈（うえはら じょう）〈梁山高校新聞部員〉
+    演 - [小野寺丈](../Page/小野寺丈.md "wikilink")
+    梁山高校2年B組の生徒で陽子のクラスメート。新聞部部長で三人組のリーダー的な存在。
+  - 高田 大介（たかだ だいすけ）〈梁山高校新聞部員〉
+    演 - [内藤典彦](https://ja.wikipedia.org/wiki/内藤典彦 "wikilink")
+    梁山高校2年B組の生徒で陽子のクラスメート。新聞部に籍を置き、部長である上原をリーダーとして常に3人組でつるんで行動する。
+  - 中野（なかの）〈梁山高校新聞部員〉
+    演 - 横山浩
+    梁山高校2年B組の生徒で陽子のクラスメート。新聞部に籍を置き、部長である上原をリーダーとして常に3人組でつるんで行動する。
+
+### 早乙女家
+
+  - 早乙女 七郎（さおとめ しちろう）
+    演 - [宮内洋](../Page/宮内洋.md "wikilink")
+    陽子（志織）の父。考古学の権威でありながら、名の知れた武道家でもあった。鬼怒良（きどら）古墳の「ある」謎を解明した為、家族の命を狙われてしまう。家族を庇って信楽老の部下に殺害された。
+  - 五代 道子（ごだい みちこ）
+    演 - [泉晶子](https://ja.wikipedia.org/wiki/泉晶子 "wikilink")
+    七郎の妻であり陽子（志織）の母。夫の遺志を継ぎ、鉄仮面を被せられた志織を連れて土佐でひっそりと暮らしていた。自らの境遇に負けず、清い心で真っ直ぐに生きるように陽子を常に諭して育てた。幼少期の陽子と恭志郎に、それぞれペンダントを渡している。死ぬ間際、陽子に「鉄仮面を外した時に、陽子の戦いが始まる」こと告げた。
+  - 源十郎（げんじゅうろう）
+    演 - [睦五朗](https://ja.wikipedia.org/wiki/睦五朗 "wikilink")
+    早乙女家の執事。長らく廃墟に監禁されていたが、恭志郎の画策によってひきあわされた陽子に救出される。
+
+### 青狼会関係
+
+  - 信楽 恭志郎（しがらき きょうしろう）
+    演 - [長島ナオト](https://ja.wikipedia.org/wiki/長島ナオト "wikilink")
+    クレジットでは「謎の美少年→影の総統」表記で、初期は常に顔の一部を隠していた。信楽老の養子で青狼会の総統。陽子の幼馴染でもあり、対のオルゴール内蔵ペンダントを持っている。XEKU（ゼクウ）という名でロック歌手として活動もしていた。心臓が弱くその[ペースメーカーの調整をするため](../Page/心臓ペースメーカー.md "wikilink")、17話で一時海外に渡り帰国後にその正体を現した。次第に信楽老に利用されている事に気づき、組織を裏切るも陽子との敵対心は変わらなかった。しかし信楽老配下のコマンド部隊の攻撃から陽子を庇った際、ペースメーカーに矢が命中し死んでいった。
+  - 美智雄（みちお）
+    演 - 津川俊之
+    青狼会の幹部で、影の総統が国外にいる間、指揮を任されていた。30話で総統に処刑される。
+  - 蘭丸（らんまる）
+    演 - 中林正智
+    恭志郎の弟として、信楽老にどこかから拾われ、育てられた青狼会の一員。最終話で信楽老を暗殺しようとするも逆に返り討ちにされ、爆死した。
+
+### 鎌倉関係
+
+  - 信楽老（しがらきろう）
+    演 - [森塚敏](https://ja.wikipedia.org/wiki/森塚敏 "wikilink")
+    クレジットでは「鎌倉の老人」と表記。政治的権力を持ち、日本を影から操る化け物と言われている。早乙女教授の研究結果を奪い鬼怒良（きどら）の財宝で不老不死となろうとしたが、あと一歩のところで陽子（志織）によって妨害され虫の息になり、その後暗闇指令によって止めとして射殺される。
+  - 鬼界坊（きかいぼう）
+    演 - [きくち英一](https://ja.wikipedia.org/wiki/きくち英一 "wikilink")
+    信楽老の部下。陽子に本名が早乙女志織であること、影の総統の名前が恭志郎であることを伝える。陽子から鉄仮面を奪うことに成功するも蘭丸に殺害されてしまう。
+
+### 梁山連合関係
+
+  - 李 麗香（リ・レイファ）
+    演 - [前田賀奈子](https://ja.wikipedia.org/wiki/前田夏菜子 "wikilink")（第8話）
+    私立セレーヌ女学園生徒。[ヨコハマを仕切るスケバンで生まれ育ったヨコハマをこよなく愛する](../Page/横浜市.md "wikilink")。学園では頭にヘアーバンドをつけており、普段は三つ編みに赤い[チャイナ服を愛用している](../Page/チャイナドレス.md "wikilink")。赤いバラを武器とする。仲間が何者からか襲撃を受け、ヨコハマから去っていくのを黙認しながらも抵抗を続け、ヨコハマを守ろうとする。そのため、余所者に対しては冷たく、当初は陽子の加勢も拒絶していたが、陽子が正体不明の敵を暴き、倒したことで大きな借りが出来たとして協力を惜しまない事を伝える。その後、梁山連合が結成された頃、青狼会の重要な拠点である関東第一支部を襲撃して重傷を負ったことが第35話で語られている。
+  - 平田 たい子（ひらた たいこ）
+    演 - 吉田康子（第19話、第33話 - 第36話、劇場映画第一作にも登場）
+    千葉[勝浦紅](../Page/勝浦市.md "wikilink")（くれない）組番長。何者かに闇討ちされた事から余所者である陽子とお京に嫌疑をかけ、お京を人質の交換条件として陽子に真犯人を探させる。地元・勝浦をこよなく愛し、普段は港の手伝いや[青海苔](https://ja.wikipedia.org/wiki/青海苔 "wikilink")かきを行なう。強情で意地っ張りの性格からか陽子とは「フグ」「タコ」と言い合う。[八代亜紀](https://ja.wikipedia.org/wiki/八代亜紀 "wikilink")の『[おんな港町](https://ja.wikipedia.org/wiki/おんな港町 "wikilink")』を歌い、投げ鉤を武器とする。後に梁山連合に参加。陽子とともに青狼会と戦う。劇場版では、陽子達と共に戦うために合流するが、そこをヘリコプターからの銃撃にあい負傷する。
+  - 加瀬 コウジ
+    演 - 矢追幸宏（第22話、第23話、第33話 - 第36話）
+    白銅学園高校の不良。白銅高校の応援団長に頼まれ、白銅と梁山のバスケットボールの試合中、[応援団](https://ja.wikipedia.org/wiki/応援団 "wikilink")の大団旗を掲揚する。この時に再会した陽子のそばにいたい一心で梁山高校に一時転校する。ただ、この転校は正式なものではなく、学籍はずっと白銅高校にあったようだ。後に梁山連合に参加し、陽子達と共に青狼会と戦う。モデルは『BE-BOP HIGH SCHOOL』の加藤浩志で、23話のエピソードは「高校無頼派死闘篇」を下敷きにしたものである。
+  - 仲井 テツ
+    演 - [渡辺浩行](https://ja.wikipedia.org/wiki/渡浩行 "wikilink")（第22話、第23話、第33話 - 第36話）
+    白銅学園高校の不良。白銅と梁山の応援合戦の際は鼓手を担当する。コウジと同様、陽子のそばにいたい一心で梁山高校に一時転校する。ただ、この転校は正式なものではなく、学籍はずっと白銅高校にあったようだ。後に梁山連合に参加し、陽子達と共に青狼会と戦う。モデルは加瀬コウジと同様『BE-BOP HIGH SCHOOL』の中間徹である。
+  - 伊集院 要（いじゅういん かなめ）
+    演 - [柴田時江](../Page/柴田時江.md "wikilink")（第30話、第33話 - 第36話）
+    共領女子学園生徒会長。学園にやってきた陽子の話を聞き、全国の女生徒会長達を集めた集会への潜入捜査への協力（要になりかわって陽子が集会に参加すること）を了承する。後に梁山連合に参加し、陽子達と共に青狼会と戦う。
+  - 工藤 美紀（くどう みき）
+    演 - 鈴木亜紀子（第33話 - 第36話）
+    近畿にある麗心女学園生徒会長。ナメラの術にとりつかれた陽子に襲われるが、その様子から陽子が操られているにすぎないことに気づき、後からやってきたお京と雪乃に解毒剤の入った壺を持ってくる。その後、梁山連合に参加し、陽子達と共に青狼会と戦った。
+
+## スタッフ
+
+  - 企画 - 岡正、植田泰治
+  - 脚本 - [土屋斗紀雄](https://ja.wikipedia.org/wiki/土屋斗紀雄 "wikilink")、[橋本以蔵](https://ja.wikipedia.org/wiki/橋本以蔵 "wikilink")、[杉村のぼる](../Page/杉村升.md "wikilink")、[戸田博史](https://ja.wikipedia.org/wiki/戸田博史 "wikilink")、[山中伊知郎](https://ja.wikipedia.org/wiki/山中伊知郎 "wikilink")
+  - 音楽 - 新田一郎
+  - 監督 - [田中秀夫](https://ja.wikipedia.org/wiki/田中秀夫 "wikilink")、[大井利夫](https://ja.wikipedia.org/wiki/大井利夫 "wikilink")、[坂本太郎](https://ja.wikipedia.org/wiki/坂本太郎_\(テレビドラマ監督\) "wikilink")、前嶋守男
+  - 主題歌
+      - 吉沢秋絵 with おニャン子クラブ「[なぜ?の嵐](https://ja.wikipedia.org/wiki/なぜ?の嵐 "wikilink")」（[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")）（第1話 - 第15話）
+      - 南野陽子「[悲しみモニュメント](https://ja.wikipedia.org/wiki/悲しみモニュメント "wikilink")」（[CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")）（第16話 - 第32話）
+      - 南野陽子「[風のマドリガル](https://ja.wikipedia.org/wiki/風のマドリガル "wikilink")」（CBSソニー）（第33話 - 第42話）
+  - 挿入歌
+      - 南野陽子「[さよならのめまい](https://ja.wikipedia.org/wiki/さよならのめまい "wikilink")」（CBSソニー）（第1話 - 第15話）
+      - 吉沢秋絵「季節はずれの恋」（フォーライフ・レコード）（第16話 - 第42話）
+      - 相楽ハル子「ヴァージン・ハート」（CBSソニー）（第25話 - 第42話）
+  - 撮影 - 奥村正祐、池田健策、林迪雄、大町進、村上俊郎
+  - 助監督 -　前嶋守男、武田秀雄、竹内英孝
+  - アクションクリエーター - [岡田勝](https://ja.wikipedia.org/wiki/岡田勝 "wikilink")、[上田弘司](https://ja.wikipedia.org/wiki/上田弘司 "wikilink")
+  - プロデューサー - 前田和也、中曽根千治・[手塚治](../Page/手塚治.md "wikilink")
+  - 制作 - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[東映](../Page/東映.md "wikilink")
+
+## 放送日程
+
+<table>
+<thead>
+<tr class="header">
+<th><p>各話</p></th>
+<th><p>放送日</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>脚本</p></th>
+<th><p>監督</p></th>
+<th><p>視聴率</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第1話</p></td>
+<td><p>1985年11月7日</p></td>
+<td><p>「登場! 謎のスケバン鉄仮面」</p></td>
+<td><p>土屋斗紀雄</p></td>
+<td><p>田中秀夫</p></td>
+<td><p>14.5%</p></td>
+</tr>
+<tr class="even">
+<td><p>第2話</p></td>
+<td><p>11月14日</p></td>
+<td><p>「カンフー学園を叩け!」</p></td>
+<td><p>橋本以蔵</p></td>
+<td><p>13.4%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第3話</p></td>
+<td><p>11月21日</p></td>
+<td><p>「参上! ビー玉のお京」</p></td>
+<td><p>土屋斗紀雄</p></td>
+<td><p>大井利夫</p></td>
+<td><p>13.8%</p></td>
+</tr>
+<tr class="even">
+<td><p>第4話</p></td>
+<td><p>11月28日</p></td>
+<td><p>「戦いの鐘は12時に鳴る」</p></td>
+<td><p>橋本以蔵</p></td>
+<td><p>12.0%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第5話</p></td>
+<td><p>12月5日</p></td>
+<td><p>「秀才ドラフト会議をつぶせ!」</p></td>
+<td><p>土屋斗紀雄</p></td>
+<td><p>田中秀夫</p></td>
+<td><p>13.5%</p></td>
+</tr>
+<tr class="even">
+<td><p>第6話</p></td>
+<td><p>12月12日</p></td>
+<td><p>「なぜ? の嵐! 鉄仮面の謎」</p></td>
+<td><p>橋本以蔵</p></td>
+<td><p>14.3%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第7話</p></td>
+<td><p>12月19日</p></td>
+<td><p>「二代目サキはクリスチャン!?」</p></td>
+<td><p>大井利夫</p></td>
+<td><p>12.4%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第8話</p></td>
+<td><p>12月26日</p></td>
+<td><p>「おニャン子vs謎のDJ」[10]</p></td>
+<td><p>戸田博史</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第9話</p></td>
+<td><p>1986年1月9日</p></td>
+<td><p>「おニャン子クラブ全員集合</p></td>
+<td><p>」</p></td>
+<td><p>土屋斗紀雄</p></td>
+<td><p>15.3%</p></td>
+</tr>
+<tr class="even">
+<td><p>第10話</p></td>
+<td><p>1月16日</p></td>
+<td><p>「雪乃、涙の純愛物語です」</p></td>
+<td><p>田中秀夫</p></td>
+<td><p>14.1%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第11話</p></td>
+<td><p>1月23日</p></td>
+<td><p>「ベールをぬいだ影の総統」</p></td>
+<td><p>14.0%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第12話</p></td>
+<td><p>1月30日</p></td>
+<td><p>「ビー玉お京の子守歌」</p></td>
+<td><p>戸田博史</p></td>
+<td><p>坂本太郎</p></td>
+<td><p>14.0%</p></td>
+</tr>
+<tr class="odd">
+<td><p>第13話</p></td>
+<td><p>2月6日</p></td>
+<td><p>「白銀の決闘! スキー場は大パニック」</p></td>
+<td><p>杉村のぼる</p></td>
+<td><p>13.6%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第14話</p></td>
+<td><p>2月13日</p></td>
+<td><p>「危うしサキ! 恐怖の刺客七人衆」</p></td>
+<td><p>土屋斗紀雄</p></td>
+<td><p>大井利夫</p></td>
+<td><p>14.5%</p></td>
+</tr>
+<tr class="odd">
+<td><p>第15話</p></td>
+<td><p>2月20日</p></td>
+<td><p>「雪乃重傷!? サキ怒りの逆襲」</p></td>
+<td><p>16.0%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第16話</p></td>
+<td><p>2月27日</p></td>
+<td><p>「悲しみの弾丸! サキ撃たれる」</p></td>
+<td><p>橋本以蔵</p></td>
+<td><p>田中秀夫</p></td>
+<td><p>16.7%</p></td>
+</tr>
+<tr class="odd">
+<td><p>第17話</p></td>
+<td><p>3月6日</p></td>
+<td><p>「迷走! 暗殺カー! 影の総統を消せ」</p></td>
+<td><p>土屋斗紀雄</p></td>
+<td><p>15.8%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第18話</p></td>
+<td><p>3月13日</p></td>
+<td><p>「サキ、男子校入学!? ツッパリ・ハイスクール</p></td>
+<td><p>」</p></td>
+<td><p>戸田博史</p></td>
+<td><p>前嶋守男</p></td>
+</tr>
+<tr class="odd">
+<td><p>第19話</p></td>
+<td><p>3月20日</p></td>
+<td><p>「海辺の死闘! サキvsサーファー軍団」</p></td>
+<td><p>橋本以蔵</p></td>
+<td><p>田中秀夫</p></td>
+<td><p>16.6%</p></td>
+</tr>
+<tr class="even">
+<td><p>第20話</p></td>
+<td><p>3月27日</p></td>
+<td><p>「愛と悲しみのビー玉勝負」</p></td>
+<td><p>土屋斗紀雄</p></td>
+<td><p>前嶋守男</p></td>
+<td><p>14.3%</p></td>
+</tr>
+<tr class="odd">
+<td><p>第21話</p></td>
+<td><p>4月3日</p></td>
+<td><p>「おニャン子クラブが危機一発」</p></td>
+<td><p>田中秀夫</p></td>
+<td><p>16.7%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第22話</p></td>
+<td><p>4月10日</p></td>
+<td><p>「ああ! 怪力サキの花の応援団長」</p></td>
+<td><p>橋本以蔵</p></td>
+<td><p>大井利夫</p></td>
+<td><p>13.7%</p></td>
+</tr>
+<tr class="odd">
+<td><p>第23話</p></td>
+<td><p>4月17日</p></td>
+<td><p>「サキ命です! ツッパリコンビの大熱愛」</p></td>
+<td><p>15.4%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第24話</p></td>
+<td><p>5月8日</p></td>
+<td><p>「疑惑のサキ! お前は人を殺したのか」</p></td>
+<td><p>田中秀夫</p></td>
+<td><p>14.2%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第25話</p></td>
+<td><p>5月15日</p></td>
+<td><p>「恐怖からの脱出! サキは二度死ぬ」</p></td>
+<td><p>14.8%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第26話</p></td>
+<td><p>5月29日</p></td>
+<td><p>「お京vsお京!? 闇に出没! 謎の仮面女」</p></td>
+<td><p>大井利夫</p></td>
+<td><p>16.2%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第27話</p></td>
+<td><p>6月5日</p></td>
+<td><p>「雪乃復活! 暗くなるまで待てない」</p></td>
+<td><p>土屋斗紀雄</p></td>
+<td><p>11.1%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第28話</p></td>
+<td><p>6月12日</p></td>
+<td><p>「打倒サキ! 女子中学生ツッパリ組」</p></td>
+<td><p>土屋斗紀雄<br />
+山中伊知郎</p></td>
+<td><p>田中秀夫</p></td>
+<td><p>13.6%</p></td>
+</tr>
+<tr class="odd">
+<td><p>第29話</p></td>
+<td><p>6月26日</p></td>
+<td><p>「特別編 戦いの日々に愛を見た」</p></td>
+<td><p>橋本以蔵</p></td>
+<td><p>大井利夫</p></td>
+<td><p>13.7%</p></td>
+</tr>
+<tr class="even">
+<td><p>第30話</p></td>
+<td><p>7月10日</p></td>
+<td><p>「第二部 激動編! 帰って来た影の総統」</p></td>
+<td><p>田中秀夫</p></td>
+<td><p>12.7%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第31話</p></td>
+<td><p>7月17日</p></td>
+<td><p>「サキ失神! 秘孔を突かれる」</p></td>
+<td><p>土屋斗紀雄</p></td>
+<td><p>大井利夫</p></td>
+<td><p>12.1%</p></td>
+</tr>
+<tr class="even">
+<td><p>第32話</p></td>
+<td><p>7月24日</p></td>
+<td><p>「決死の戦い! ウラ秘孔を突け」</p></td>
+<td><p>15.4%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第33話</p></td>
+<td><p>7月31日</p></td>
+<td><p>「変身! 邪悪の少女サキ」</p></td>
+<td><p>橋本以蔵</p></td>
+<td><p>田中秀夫</p></td>
+<td><p>11.6%</p></td>
+</tr>
+<tr class="even">
+<td><p>第34話</p></td>
+<td><p>8月7日</p></td>
+<td><p>「キバ少女サキ! 雪乃・京子を襲う」</p></td>
+<td><p>12.4%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第35話</p></td>
+<td><p>8月14日</p></td>
+<td><p>「今明かされる</p></td>
+<td><p>恐るべき鉄仮面の謎」</p></td>
+<td><p>土屋斗紀雄</p></td>
+<td><p>大井利夫</p></td>
+</tr>
+<tr class="even">
+<td><p>第36話</p></td>
+<td><p>8月21日</p></td>
+<td><p>「奪われた鉄仮面! サキに明日はあるか」</p></td>
+<td><p>14.5%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第37話</p></td>
+<td><p>8月28日</p></td>
+<td><p>「黒バラ館の男・父上は生きていた!?」</p></td>
+<td><p>橋本以蔵</p></td>
+<td><p>14.6%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第38話</p></td>
+<td><p>9月4日</p></td>
+<td><p>「暴かれたサキと総統の出生の秘密」</p></td>
+<td><p>19.0%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第39話</p></td>
+<td><p>9月11日</p></td>
+<td><p>「天と地が鳴り合う時 鉄仮面が動き出す」</p></td>
+<td><p>土屋斗紀雄</p></td>
+<td><p>田中秀夫</p></td>
+<td><p>13.3%</p></td>
+</tr>
+<tr class="even">
+<td><p>第40話</p></td>
+<td><p>9月25日</p></td>
+<td><p>「悲しみのサキ 総統、愛のために死す」</p></td>
+<td><p>16.7%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第41話</p></td>
+<td><p>10月16日</p></td>
+<td><p>「壮烈! サキ、雪乃、お京 最後の戦い」</p></td>
+<td><p>橋本以蔵</p></td>
+<td><p>14.4%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>最終話</p></td>
+<td><p>10月23日</p></td>
+<td><p>「少女鉄仮面伝説・完 さらば2代目サキ」</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>平均視聴率 14.3%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 放送局
+
+系列は当時のもの
+
+<table>
+<thead>
+<tr class="header">
+<th><p>対象地域</p></th>
+<th><p>放送局</p></th>
+<th><p>系列</p></th>
+<th><p>放送日時</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a></p></td>
+<td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a></p></td>
+<td><p>木曜 19:30 - 20:00</p></td>
+<td><p><strong>キーステーション</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
+<td><p><a href="../Page/北海道文化放送.md" title="wikilink">北海道文化放送</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
+<td><p><a href="../Page/青森テレビ.md" title="wikilink">青森テレビ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">岩手放送</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/秋田テレビ" title="wikilink">秋田テレビ</a></p></td>
+<td><p>フジテレビ系列<br />
+<a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a></p></td>
+<td><p>フジテレビ系列</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
+<td><p><a href="../Page/仙台放送.md" title="wikilink">仙台放送</a></p></td>
+<td><p>木曜 19:30 - 20:00[11]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
+<td><p><a href="../Page/福島テレビ.md" title="wikilink">福島テレビ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/山梨県.md" title="wikilink">山梨県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山梨放送" title="wikilink">山梨放送</a></p></td>
+<td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
+<td><p><a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a></p></td>
+<td><p>フジテレビ系列</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
+<td><p><a href="../Page/長野放送.md" title="wikilink">長野放送</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
+<td><p><a href="../Page/テレビ静岡.md" title="wikilink">テレビ静岡</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
+<td><p><a href="../Page/富山テレビ放送.md" title="wikilink">富山テレビ</a></p></td>
+<td><p>木曜 19:30 - 20:00[12]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
+<td><p><a href="../Page/石川テレビ放送.md" title="wikilink">石川テレビ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/福井テレビジョン放送" title="wikilink">福井テレビ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/広域放送.md" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/東海テレビ放送.md" title="wikilink">東海テレビ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/広域放送.md" title="wikilink">近畿広域圏</a></p></td>
+<td><p><a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/島根県.md" title="wikilink">島根県</a>・<a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送" title="wikilink">山陰中央テレビ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a>・<a href="../Page/香川県.md" title="wikilink">香川県</a></p></td>
+<td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ新広島" title="wikilink">テレビ新広島</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
+<td><p>日本テレビ系列</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
+<td><p><a href="../Page/テレビ愛媛.md" title="wikilink">テレビ愛媛</a></p></td>
+<td><p>フジテレビ系列</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/高知県.md" title="wikilink">高知県</a></p></td>
+<td><p><a href="../Page/テレビ高知.md" title="wikilink">テレビ高知</a></p></td>
+<td><p>|TBS系列</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a></p></td>
+<td><p>フジテレビ系列</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/佐賀県.md" title="wikilink">佐賀県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サガテレビ" title="wikilink">サガテレビ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
+<td><p><a href="../Page/テレビ長崎.md" title="wikilink">テレビ長崎</a></p></td>
+<td><p>フジテレビ系列<br />
+日本テレビ系列</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
+<td><p><a href="../Page/テレビ熊本.md" title="wikilink">テレビ熊本</a></p></td>
+<td><p>フジテレビ系列<br />
+テレビ朝日系列</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ大分" title="wikilink">テレビ大分</a></p></td>
+<td><p>フジテレビ系列<br />
+日本テレビ系列<br />
+テレビ朝日系列</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
+<td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a></p></td>
+<td><p>フジテレビ系列<br />
+日本テレビ系列<br />
+テレビ朝日系列</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ</a></p></td>
+<td><p>フジテレビ系列<br />
+日本テレビ系列</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
+<td><p><a href="../Page/沖縄テレビ放送.md" title="wikilink">沖縄テレビ</a></p></td>
+<td><p>フジテレビ系列</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+高知県では当初ネットされていなかったため、「ずいぶん古い高知弁が使われているのは当地でネットされていないからだ」と高知県出身者からの批判が絶えなかったという。
+
+シリーズ第1作をネットしていたテレビ山口ではスケバン刑事II以降の放送は行われず、また、競合局である[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")（当時は[日本テレビ系列(NNS加盟局)および](../Page/日本テレビネットワーク協議会.md "wikilink")[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系列クロスネット局）でも放送されなかった。
+
+## 映像ソフト化
+
+  - ビデオ（[VHS](../Page/VHS.md "wikilink")、セル・レンタル共通）は全11巻が[東映ビデオ](../Page/東映ビデオ.md "wikilink")よりリリースされている。
+  - [LDは全](../Page/レーザーディスク.md "wikilink")11巻が[CBS・ソニーよりリリースされている](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
+  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")にかけて[DVD](../Page/DVD.md "wikilink")が東映ビデオより発売された。全4巻の各2枚組で各巻10話（Vol.4のみ11話）収録。
+
+## 劇場版
+
+『**スケバン刑事**』のタイトルで、テレビシリーズ終了後にその後日談という形で製作された。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")、東映系にて公開。『スケバン刑事』シリーズとしては初の映画化作品となる。放映中のテレビシリーズ第3作『[スケバン刑事III 少女忍法帖伝奇](https://ja.wikipedia.org/wiki/スケバン刑事III_少女忍法帖伝奇 "wikilink")』のキャラクターも登場し、2代目サキ（陽子）と3代目サキ（風間唯）の共演などが話題となった。劇中後半では2代目サキが4倍の重量、16倍の破壊力を持つ「究極のヨーヨー（新超密度合金製ヨーヨー）」を使用する。この武器は使用者にも大きな負担が伴うという諸刃の剣となっており、2代目サキが自らも傷つきながら強大な敵と戦うシーンが見せ場となっている。BGMはこの作品のために新たに作曲されたもののほか、歴代テレビシリーズからのものも使用されている。同時上映は台湾映画『[カンフーキッド/好小子](https://ja.wikipedia.org/wiki/カンフーキッド/好小子 "wikilink")』。
+
+### 登場人物（劇場版）
+
+主要人物は[\#登場人物](https://ja.wikipedia.org/wiki/#登場人物 "wikilink")を参照。
+
+  - 服部
+    演 - [伊武雅刀](../Page/伊武雅刀.md "wikilink")
+    三晃学園（地獄城）の校長。その正体は5年前に国防省でクーデターを起こした北時宗。クーデターに失敗し、暗闇指令により追い詰められた際に、爆死したと思われていたが実は生きており、地獄城を設立して、学生を殺人兵器として洗脳し再びクーデターを企てる。その正体はサイボーグであり、戦闘中に剥離した皮膚から金属製の内部が露出した。メカ部分のデザインは[出渕裕](../Page/出渕裕.md "wikilink")。戦闘能力は非常に高く体中の至る所に武器を持ち、ヌンチャクを使用して立ち向かう2代目サキを圧倒した。その後めぐみにより地獄城が炎上される中でサキと[一騎討ち](https://ja.wikipedia.org/wiki/一騎討ち "wikilink")を展開。サキが電線にヨーヨーをつないだことで感電し顔の金属部が露出、炎上し爆発する地獄城とともに最期を迎えた\[13\]。
+  - 加藤めぐみ
+    演 - [小林亜也子](https://ja.wikipedia.org/wiki/小林亜也子 "wikilink")（映画オーディション優勝者）
+    喜久男の妹。サキ達と共に地獄城に向かうが、実は情報を漏らせば喜久男を助けるという条件の下でサキ達に同行したスパイであった。しかし廃人にされた兄の姿を見て驚愕し、地獄城の武器庫に手榴弾を投げ込んで爆破する。サキと服部が一騎討ちをしている中、服部はサキに手から矢を放つが、その矢からサキを庇い死亡した。
+  - 萩原和夫
+    演 - [坂上忍](https://ja.wikipedia.org/wiki/坂上忍 "wikilink")
+    三晃学園の男子生徒。地獄城から脱出し、逃走している時にサキと出会い、その後、めぐみに喜久男が作ったマスコットを渡しに行く。サキたちがヘリコプターからの襲撃をうけた際に盾となり、銃撃を受けて死亡する。
+  - 加藤喜久男
+    演 - [杉本哲太](https://ja.wikipedia.org/wiki/杉本哲太 "wikilink")
+    三晃学園の男子生徒。和夫とともに地獄城から脱出し逃亡する途中に足を怪我したため和夫と別れ、電話ボックスに入ってめぐみに連絡しようとしたところを、男たちに取り囲まれて襲われ、連れ戻される。その後、教頭である香坂により、地下治療室でロボトミー手術を施されて廃人にされる。めぐみにより地下から救出され、その後はの他の生徒たちに助けられ地獄城から脱出した。
+  - 風間 唯
+    演 - [浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")
+    3代目スケバン刑事・麻宮サキ。地獄城攻略に向かう2代目サキたちのために暗闇指令が助っ人として差し向けた。お京からは「3代目」と呼ばれる。
+  - 風間 結花
+    演 - [大西結花](https://ja.wikipedia.org/wiki/大西結花 "wikilink")
+  - 風間 由真
+    演 - [中村由真](https://ja.wikipedia.org/wiki/中村由真 "wikilink")
+    唯の姉たち。ラストシーンにのみ登場し、唯を迎える。
+  - 黒幕
+    演 - [内藤武敏](https://ja.wikipedia.org/wiki/内藤武敏 "wikilink")
+    服部をバックアップする政界の大物。終盤に暗闇指令により、計画が少女たちによって破られた事を聞かされ自決する。サキたちに最後までその存在を知られることはなかった。
+
+※作者の和田慎二も「ヨーヨー売りのおじさん」役で冒頭に出演している。
+
+### スタッフ（劇場版）
+
+  - 監督 - [田中秀夫](https://ja.wikipedia.org/wiki/田中秀夫 "wikilink")
+  - 脚本 - [橋本以蔵](https://ja.wikipedia.org/wiki/橋本以蔵 "wikilink")、[土屋斗紀雄](https://ja.wikipedia.org/wiki/土屋斗紀雄 "wikilink")
+  - 主題歌 - 南野陽子「[楽園のDoor](https://ja.wikipedia.org/wiki/楽園のDoor "wikilink")」（CBSソニー）
+  - 撮影 - 大町進
+  - 助監督 - 伊与田一雄、井上隆、[道木広志](https://ja.wikipedia.org/wiki/道木広志 "wikilink")
+  - 製作 - 東映、フジテレビ
+
+### 影響
+
+[南野陽子](https://ja.wikipedia.org/wiki/南野陽子 "wikilink")の人気が急上昇していた1986年12月21日に\[14\]、本作の[テレホンカード](../Page/テレホンカード.md "wikilink")付きの[前売り券一万枚を売り出すと即日完売](https://ja.wikipedia.org/wiki/前売り#前売り券 "wikilink")\[15\]。これに驚いた[岡田茂東映社長が](https://ja.wikipedia.org/wiki/岡田茂_\(東映\) "wikilink")、南野の映画デビューはまだ一ヵ月半も先だったが、東映で南野の二作目、三作目の映画製作を決めた\[16\]。[加東康一](https://ja.wikipedia.org/wiki/加東康一 "wikilink")は「大スターになるには一度映れば消えるテレビでなく、持続性のある映画でヒットを出さなければいけません。[吉永小百合](../Page/吉永小百合.md "wikilink")や[薬師丸ひろ子](../Page/薬師丸ひろ子.md "wikilink")は一作目で資質が認められ二作目で主演した。南野の場合、東映の社長自身によって、二作目三作目の指令が出ているわけです。吉永や薬師丸とそっくりの道を歩き出したんです。しかも彼女は一作目から主役なんです」と評し\[17\]、当時の映画の影響力がそこまであったか分からないが、本作は大ヒットした\[18\]\[19\]。封切り初日の朝、[丸の内東映には男の子](https://ja.wikipedia.org/wiki/丸の内TOEI "wikilink")95%、ほとんど男子中高校生が押し寄せ\[20\]、急遽、洋画系の地下の[東映パラスを](https://ja.wikipedia.org/wiki/丸の内TOEI "wikilink")『スケバン刑事』に切り換えた\[21\]。東映はテレビと映画の「スケバン刑事」で南野の売り出しに貢献した\[22\]\[23\]\[24\]。南野の映画二作目として製作された『[はいからさんが通る](https://ja.wikipedia.org/wiki/はいからさんが通る#実写映画 "wikilink")』も併映が『[ビー・バップ・ハイスクール 高校与太郎狂騒曲](https://ja.wikipedia.org/wiki/ビー・バップ・ハイスクール_高校与太郎狂騒曲 "wikilink")』だったこともあって大ヒットした\[25\]。三作目として[林葉直子](https://ja.wikipedia.org/wiki/林葉直子 "wikilink")原作の『とんでもポリスは恋泥棒』を決定したが\[26\]\[27\]、南野が拒否\[28\]。また、これととどちらが先か分からないが1988年の春先に『[魔法使いサリー](../Page/魔法使いサリー.md "wikilink")』を実写化して、南野に合わせてサリーを20歳前後に設定を変える[2012年](../Page/2012年.md "wikilink")の[松竹](../Page/松竹.md "wikilink")『[映画 ひみつのアッコちゃん](https://ja.wikipedia.org/wiki/ひみつのアッコちゃん#実写映画 "wikilink")』に似た[プロットを持つ映画が](https://ja.wikipedia.org/wiki/プロット_\(物語\) "wikilink")1988年夏のお盆作品として公開が決定と報じられたが\[29\]、これも製作されなかった。結局『[菩提樹 リンデンバウム](https://ja.wikipedia.org/wiki/菩提樹_リンデンバウム "wikilink")』が製作され9億円のヒットを記録し企画変更の影響はなかった\[30\]。[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")と[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")をしっかり両立させたという意味で\[31\]、『[BOMB](https://ja.wikipedia.org/wiki/BOMB "wikilink")』は南野を「アイドル女優路線の先駆的存在」と評価している\[32\]。しかし超売れっ子で仕方のない部分はあるが\[33\]、あまりに南野中心のスケジュールに他の役者が共演を嫌がり\[34\]、また病気を理由に南野が撮影を休んだりし\[35\]、東映のスタッフが南野との仕事を嫌がるようになった\[36\]\[37\]。東映の[ドル箱](../Page/ドル箱.md "wikilink")スターを手離すのは惜しかったが、やむなく東映は南野の映画はしばらく作らないことを決めた\[38\]。これを受け、[松竹](../Page/松竹.md "wikilink")が南野の映画を企画したがこれも製作されなかった\[39\]。いろいろあったが\[40\]、人気が落ち着いた1990年代に東映は再び南野の映画を作った\[41\]。特に1992年の『[私を抱いてそしてキスして](https://ja.wikipedia.org/wiki/私を抱いてそしてキスして "wikilink")』は南野の持ち込み企画とされ\[42\]\[43\]、[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")の持ち込み企画が映画化とされるというレアケースであった\[44\]。南野は思い出の場所として[大泉の](https://ja.wikipedia.org/wiki/大泉町_\(練馬区\) "wikilink")[東映東京撮影所](https://ja.wikipedia.org/wiki/東映東京撮影所 "wikilink")を時折訪れる\[45\]\[46\]。撮影が立て込むはときは家に帰らず、東京撮影所に寝泊りしていたという\[47\]。
+
+## ゲーム
+
+青狼会との戦いをゲーム化したアクションアドベンチャーゲーム。会話や謎解きを行うアドベンチャーゲームパートに、横スクロールアクションを絡めて展開される。終盤は3Dダンジョンをクリアして信楽老とのラストバトル、という流れである。またこの3Dダンジョンでは、初代サキが敵キャラクターとして登場する。
+
+## パチンコ
+
+  - [CRびっくりぱちんこスケバン刑事](https://ja.wikipedia.org/wiki/CRびっくりぱちんこスケバン刑事 "wikilink")（[京楽産業.](https://ja.wikipedia.org/wiki/京楽産業. "wikilink")、[2011年](../Page/2011年.md "wikilink")11月発売）
+
+## 補足
+
+  - 二代目麻宮サキ 五代陽子（演：南野陽子）の設定では「顔を見られると命を狙われるとの理由から小さい頃に母親から鉄仮面を被せられて17歳頃まで一度も外すことなく暮らしてきた」とされる。だが、視聴者からは「じゃ10年ぐらい顔も髪の毛も洗ったことがないのか、それであんなキレイな顔・髪の毛に成長するわけない」と指摘されることも多く、放送当時の『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』の読者投稿コーナー『[ジャンプ放送局](https://ja.wikipedia.org/wiki/ジャンプ放送局 "wikilink")』などでもネタにされた。製作側は「それではヴィジュアル的にまずいだろう」と判断し、初めて鉄仮面を外されるシーンを撮影したとのこと。
+  - 主演の南野は、初主演となるこの仕事が決まったときにたいそう喜んだが、「鉄仮面をかぶっている」という設定を知るや「『[中の人](https://ja.wikipedia.org/wiki/スーツアクター "wikilink")』か…」とひどく落胆したという。
+  - [2009年](../Page/2009年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")放送のテレビ朝日系ドラマ『[メイド刑事](https://ja.wikipedia.org/wiki/メイド刑事 "wikilink")』第6話で南野が暴力団組長の役で客演した際、和服姿で当時のヨーヨーアクションと「おまんら許さんぜよ\!\!」のセリフを再現した。そもそも上述作品は『スケバン刑事』シリーズへのオマージュと位置づけられていたのと、主演の[福田沙紀](https://ja.wikipedia.org/wiki/福田沙紀 "wikilink")も麻宮サキにちなんで名前を命名されたという経緯があったため。
+  - 西脇役を演じた蟹江敬三は当初「子ども向けのドラマか」と軽い気持ちで本作に参加したが、西脇役を演じるうちに作品内容や役柄に対してどんどん本気になってしまった。（『カレセン-枯れたおじさん専科』インタビューより）
+  - [2013年](../Page/2013年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")TBSテレビで放送されたドラマ『[SPEC〜零〜](https://ja.wikipedia.org/wiki/SPEC〜零〜#テレビドラマ "wikilink")』において、五代陽子に似た風貌で土佐弁を語りヨーヨーを武器にする少女「上野真帆」（演 - [川島海荷](https://ja.wikipedia.org/wiki/川島海荷 "wikilink")）が登場。彼女の母親「上野サキ」役として南野も写真出演した\[48\]。
+  - [2019年](../Page/2019年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")日本テレビで放送された『[ダウンタウンのガキの使いやあらへんで\!](../Page/ダウンタウンのガキの使いやあらへんで!.md "wikilink")大晦日年越しSP [絶対に笑ってはいけない青春ハイスクール24時\!](https://ja.wikipedia.org/wiki/絶対に笑ってはいけない青春ハイスクール24時! "wikilink")』で、南野が二代目麻宮サキ役で仕掛人で登場し、途中で噛みながらも、当時の口上を披露した。また、鉄仮面姿のタイキック執行人として[那須川天心](https://ja.wikipedia.org/wiki/那須川天心 "wikilink")が登場し、[月亭方正](../Page/月亭方正.md "wikilink")にタイキックをお見舞いした\[49\]
+
+## 関連書籍
+
+  - 南野陽子 スケバン刑事II写真集 MEMOIRE [白泉社](../Page/白泉社.md "wikilink") 雑誌67501-01
+  - 映画スケバン刑事写真集 愛のセーラー服戦士 [バンダイ](../Page/バンダイ.md "wikilink") ISBN 4-89189-378-8
+  - 「映画版 スケバン刑事 YOHKO MINAMINO (ヒットブックス3)」[講談社](../Page/講談社.md "wikilink") ISBN 4-06-177703-3
+  - 「ビー・クラブ・スペシャル-5 スケバン刑事研究 セーラー服は学園の戦闘服だ\!」[バンダイ](../Page/バンダイ.md "wikilink") ISBN 4-89189-320-6
+  - 「ビー・クラブ・スペシャル-6 スケバン刑事II 少女鉄仮面伝説　完全シナリオ集」[バンダイ](../Page/バンダイ.md "wikilink") ISBN 4-89189-321-4
+
+## 脚注
+
+## 外部リンク
+
+  -
+  -
+  -
+  -
+
+[Category:スケバン刑事](https://ja.wikipedia.org/wiki/Category:スケバン刑事 "wikilink") [Category:東映のテレビドラマ](https://ja.wikipedia.org/wiki/Category:東映のテレビドラマ "wikilink") [Category:1980年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1980年代の特撮作品 "wikilink") [Category:高等学校を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたテレビドラマ "wikilink") [Category:フジテレビの刑事ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビの刑事ドラマ "wikilink") [Category:東映特撮作品](https://ja.wikipedia.org/wiki/Category:東映特撮作品 "wikilink") [Category:特撮刑事ドラマ](https://ja.wikipedia.org/wiki/Category:特撮刑事ドラマ "wikilink") [Category:不良少年・不良少女を主人公としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:不良少年・不良少女を主人公としたテレビドラマ "wikilink") [Category:南野陽子](https://ja.wikipedia.org/wiki/Category:南野陽子 "wikilink") [Category:1987年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1987年のコンピュータゲーム "wikilink") [Category:セガ・マークIII&マスターシステム用ソフト](https://ja.wikipedia.org/wiki/Category:セガ・マークIII&マスターシステム用ソフト "wikilink") [Category:警察官を主人公としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:警察官を主人公としたコンピュータゲーム "wikilink") [Category:特撮のキャラクターゲーム](https://ja.wikipedia.org/wiki/Category:特撮のキャラクターゲーム "wikilink")
+
+1.  原作では似たようなものを少年時代の神恭一郎が被らされていた。
+2.  原作では梁山泊という少年院
+3.
+4.
+5.  和田慎二「メイキング・オブ スケバン刑事」PART10より
+6.  前作で斉藤由貴が使ったものをモディファイし、更に方言を取り入れた
+7.  [ペットントン](https://ja.wikipedia.org/wiki/ペットントン "wikilink")の着ぐるみ担当としても知られる高木は1986年1月10日、バイクに乗って本作の撮影に向かう際に交通事故に遭い、24歳の若さで亡くなった。高木亡き後の吹き替え担当は二転三転。『大野剣友会列伝』（岡田勝、風塵社）によれば藤山健剛、宮沢淑郎、甲斐新、早川昭彦らが担当した後、最終的に大竹浩二が担当することになった。大竹は次作でもヒロインの吹き替えを務めている。
+8.  ｢プロデューサー・岡正 スケ番刑事を語る｣ビー・クラブ・スペシャル-5 スケバン刑事研究 セーラー服は学園の戦闘服だ\!　[バンダイ](../Page/バンダイ.md "wikilink")、1987年発行、56項
+9.  ｢南野陽子360°大解剖｣[ORE](https://ja.wikipedia.org/wiki/ORE "wikilink") [講談社](../Page/講談社.md "wikilink")、1987年4月号、142項
+10. 本放送時、新聞のテレビ欄で「殺しのビート･ポップス」と掲載され、本編Aパート･サブタイトルの直後にお詫びと訂正のテロップが表示された。
+11. 『[福島民報](../Page/福島民報.md "wikilink")』1985年11月7日 - 1986年10月23日付朝刊、テレビ欄。
+12. 『[北國新聞](https://ja.wikipedia.org/wiki/北國新聞 "wikilink")』1985年11月14日付朝刊、テレビ欄。
+13. このシーンは2012年7月18日放送された[マツコ&有吉の怒り新党](https://ja.wikipedia.org/wiki/マツコ&有吉の怒り新党 "wikilink")の新・3大〇〇調査会で「スケバン刑事のスゴい仕留め方」という内容で紹介されている。
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22. [歴代最高の「セーラー服作品」はコレだ！ドラマ編（1）制服に意味を持たせた「スケバン刑事」](https://www.excite.co.jp/news/article/Asagei_108211/)[南野陽子：25年ぶり「スケバン刑事」のヨーヨーと“再会”　伊藤かずえと大映ドラマ秘話語る](https://mantan-web.jp/article/20120317dog00m200032000c.html)
+23. [南野陽子さん／歌手・女優・司会（48歳）達人たちの「ワタシの、センタク。」【第18回】](https://serai.jp/health/31724)
+24. [南野陽子、嫌な仕事を阿部寛に押しつけた生意気すぎる新人時代](https://www.excite.co.jp/news/article/Asagei_48071/)
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45. [南野陽子がヨーヨー片手に「おまんら、許さんぜよ！」25年ぶりに名場面がよみがえる\!\!](https://thetv.jp/news/detail/29008/)
+46. [「バイキング」 2014年5月29日（木）放送内容](https://kakaku.com/tv/channel=8/programID=45036/episodeID=755782/)
+47.
+48. [SPEC観察メモ](http://www.tbs.co.jp/spec2010/report/report_172.html)
+49. 「[ガキ使 タイキック執行人に那須川天心 月亭方正『痛あああああ！』撃沈。](https://www.daily.co.jp/gossip/2019/12/31/0013002784.shtml)」デイリースポーツ2019年12月31日

@@ -1,0 +1,227 @@
+> この記事は[AX-1](https://ja.wikipedia.org/wiki/AX-1)から翻訳されています。
+
+
+**AX-1**（エーエックス ワン） は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売していた[オートバイ](../Page/オートバイ.md "wikilink")である。本項ではエンジンを共用する[姉妹車](https://ja.wikipedia.org/wiki/姉妹車 "wikilink")の**XL Degree**（エックスエル ディグリー）についても解説を行う。
+
+## AX-1
+
+[AX-1_Honda_Motercycle.jpg](https://ja.wikipedia.org/wiki/File:AX-1_Honda_Motercycle.jpg "fig:AX-1_Honda_Motercycle.jpg") [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")11月20日発表、同年12月15日発売\[1\]。車両名称は「モーターサイクルの中での新しいジャンル 新しい軸（**AX**IS）を提案する**1**本目」に由来する。
+
+型式名MD21。[排気量](https://ja.wikipedia.org/wiki/排気量 "wikilink")250cc[軽二輪クラスの](../Page/普通自動二輪車.md "wikilink")[デュアルパーパス](https://ja.wikipedia.org/wiki/デュアルパーパス "wikilink")モデルで『従来のランドスポーツバイクとスーパースポーツバイクの性格を合わせ持ち、より幅広い走行環境で楽しく快適に走行できる斬新なスタイリングのスポーツバイク\[2\]』として開発された。海外向け仕様も製造されたが、日本国内向け仕様は2回のマイナーチェンジを実施して約10年間販売された。
+
+### 車両解説
+
+車体は、ダイヤモンド型[フレームを採用](https://ja.wikipedia.org/wiki/フレーム_\(オートバイ\) "wikilink")。[マフラーをフレーム構造材の一部に組み入れるなどして軽量スリム化を実現](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")。デュアル[ヘッドライトやメーター類を組み込んだ](https://ja.wikipedia.org/wiki/前照灯 "wikilink")[フェアリング](https://ja.wikipedia.org/wiki/フェアリング "wikilink")をフレームに固定するほか、リヤキャリアを標準装備。エンジン下部のポリプロピレン製スキッドプレートやフロントフォークブーツなどオフロード走行を考慮したパーツも装着された。
+
+[前輪](https://ja.wikipedia.org/wiki/フロントサスペンション_\(オートバイ\) "wikilink")[サスペンションがテレスコピック](https://ja.wikipedia.org/wiki/サスペンション_\(オートバイ\) "wikilink")、[後輪サスペンションがプロリンク式スイングアーム](https://ja.wikipedia.org/wiki/リヤサスペンション_\(オートバイ\) "wikilink")。ホイールは前19インチ/後16インチで21本[スポーク](../Page/スポーク.md "wikilink")型アルミキャスト製とし本モデル向けに専用設計とした90/100-19 55P（前）・120/90-16 63P（後）のチューブレスタイヤを装着。またブレーキは前後ともに油圧式シングル[ディスクとし](../Page/ディスクブレーキ.md "wikilink")、前ブレーキレバーはアジャスタブルタイプ、後ブレーキペダルは[ジュラルミン](../Page/ジュラルミン.md "wikilink")製を採用。
+
+搭載されるMD21E型[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")[DOHC](../Page/DOHC.md "wikilink")[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")は、内径x行程：70.0x64.8（mm）・排気量249cc・[圧縮比](https://ja.wikipedia.org/wiki/圧縮比 "wikilink")11.0から最高出力29ps/8,500rpm・最大トルク2.6kg-m/7,500rpmのスペックをマーク。通常使用することが多い低・中速域で特に扱いやすく応答性に優れたトルク特性を重視しながら高回転でも伸びの良い出力特性を発揮させるチューニングがなされ、PD6B型[キャブレター](../Page/キャブレター.md "wikilink")・[CDI点火装置などの補機類を装着](https://ja.wikipedia.org/wiki/キャパシター・ディスチャージド・イグニッション "wikilink")。始動は[セルモーター](https://ja.wikipedia.org/wiki/セルモーター "wikilink")のみとし常時噛合式6速[マニュアルトランスミッション](https://ja.wikipedia.org/wiki/マニュアルトランスミッション "wikilink")を搭載する。また本エンジンは量産4ストロークエンジンとして[NSシリンダー](https://ja.wikipedia.org/wiki/NSシリンダー "wikilink")\[3\]を日本で初採用したほか、[エキゾーストマニホールド](https://ja.wikipedia.org/wiki/エキゾーストマニホールド "wikilink")は[ステンレス](https://ja.wikipedia.org/wiki/ステンレス "wikilink")製である。
+
+#### 海外向け輸出仕様
+
+[NX250の名称で製造販売された](https://ja.wikipedia.org/wiki/:en:Honda_NX250 "wikilink")。フレーム・エンジンなどはほぼ同一であるが、外観は[NX125に近くよりオフでの使用を重視したもので以下の相違点がある](https://ja.wikipedia.org/wiki/ホンダ・NX125 "wikilink")。
+
+  - 最高出力を26psに設定。
+  - ヘッドライトをデュアルから丸型1灯へ変更。
+  - ホイールをキャストからスポークへ変更。
+  - タイヤサイズは同一のチューブ仕様。
+  - リヤブレーキが[ドラム式](https://ja.wikipedia.org/wiki/ドラムブレーキ "wikilink")。
+  - メーターパネルは文字盤目盛りならびに指針が赤色。
+  - ラジエーターシュラウドをタンク後端までフルカバーし開口部を縦2段化。
+  - テールランプ・リヤフェンダー・ウインカーを大型化。
+
+### 遍歴
+
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")11月20日発表、同年12月15日発売\[4\]
+    [1988年](../Page/1988年.md "wikilink")[モデル](https://ja.wikipedia.org/wiki/モデルイヤー "wikilink")/モデルコード：NX250J
+      - 車体色はトラッドブルー・ パールクレシェンドホワイトの2色を設定。
+      - 標準現金価格：419,000円\[5\]・日本国内販売目標：10,000台/年
+
+<!-- end list -->
+
+  - [1989年](../Page/1989年.md "wikilink")5月24日発表、同月25日発売\[6\]
+    1989年モデル/モデルコード：NX250Kへ以下のマイナーチェンジを実施。
+      - エンジンの中・低速域応答性を向上。
+      - サスペンションセッティングをやや硬めに変更。
+      - リヤサイドフレームに独立式ヘルメットホルダーを設置。
+      - メーターパネルの[ウインカーインジケーターを左右独立式へ変更](https://ja.wikipedia.org/wiki/方向指示器 "wikilink")。
+      - 車体色をトラッドブルー・ロスホワイト・オブシディアンブラックの3色へ変更。
+      - 標準現金価格：409,000円・日本国内販売目標：10,000台/年
+
+<!-- end list -->
+
+  - [1994年](../Page/1994年.md "wikilink")3月30日発表、同年4月8日発売\[7\]
+    1994年モデル/モデルコード：NX250Rへ以下のマイナーチェンジを実施。
+      - フロントフォークの表面仕上げを[アルミ地肌を活かしたタイプに変更](../Page/アルミニウム.md "wikilink")。
+      - ステンレス製エキゾーストマニホールドを[バブ加工を実施](https://ja.wikipedia.org/wiki/研磨 "wikilink")。
+      - 前後アルミキャストホイールリム側面を切削加工仕上げへ変更。
+      - フロントならびにサイドカウル部の[ロゴを変更](https://ja.wikipedia.org/wiki/ロゴタイプ "wikilink")。
+      - 車体色をラピスブルーメタリックのみへ変更。
+      - 標準現金価格：449,000円・日本国内販売目標：700台/年
+
+### ドラマ・映画などフィクション作品
+
+  - [ウルトラマンティガ](../Page/ウルトラマンティガ.md "wikilink") ：オートスタッグ1号
+
+## XL Degree
+
+[Honda_XL250.JPG](https://ja.wikipedia.org/wiki/File:Honda_XL250.JPG "fig:Honda_XL250.JPG") [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")4月26日発表、同月27日発売\[8\]。型式名MD26。ペットネームのDegree（ディグリー）は経度・緯度・温度計などの**度**を意味する英語である\[9\]。
+
+[1970年代](../Page/1970年代.md "wikilink")から[1980年代](../Page/1980年代.md "wikilink")半ばにかけて製造販売されていたデュアルパーパスモデルの[XLシリーズが](https://ja.wikipedia.org/wiki/ホンダ・XL "wikilink")[XLRシリーズに進化する一方で](https://ja.wikipedia.org/wiki/ホンダ・XLR "wikilink")、XLは元よりそれ以前の[SLシリーズからの開発基本スタンスである](https://ja.wikipedia.org/wiki/ホンダ・SL "wikilink")『より幅広いライダーに・より幅広い走行環境で・より楽しく軽快に』走行できる基本性能はどうあるべきかを徹底追求して開発された\[10\]。
+
+### 車両解説
+
+エンジンはAX-1と共通のMD21E型水冷4ストロークDOHC単気筒エンジンであるが、キャラクターに合せてキャブレターをVE39型とし、圧縮比を10.4へ低下させた上でより低中回転域で扱いやすいセッティングへ変更した結果、最高出力25ps/8,000rpm・最大トルク2.5kg-m/6,500rpmとされた。
+
+フレームは新規にセミダブルクレードルとしたほか、AX-1とは以下の相違点がある\[11\]。
+
+  - 後ブレーキがドラム式
+  - タイヤサイズが、2.75-21（前）/4.60-18（後）
+  - 6速マニュアルトランスミッション・1次減速比は共通だが2次減速比のみ異なる
+
+### 遍歴
+
+  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")4月26日発表、同月27日発売\[12\]
+
+<!-- end list -->
+
+  - 以下の車体色を設定
+
+:\* レッドxホワイト
+
+:\* グリーンxホワイト
+
+  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")4月24日発表、同月25日発売\[13\]
+
+<!-- end list -->
+
+  - 燃料タンク車名ロゴを変更するとともに以下の車体色を追加するマイナーチェンジを実施
+
+:\* フロリダブルーxホワイト
+
+  - [1993年](../Page/1993年.md "wikilink")3月発表、同年4月23日発売\[14\]
+
+<!-- end list -->
+
+  - 以下の車体色へ変更するマイナーチェンジを実施
+
+:\* ロスホワイトxエンデュランスレッド
+
+:\* ロスホワイトxディオニサスブルー
+
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")3月3日発表、同月16日発売\[15\]
+
+<!-- end list -->
+
+  - 以下のマイナーチェンジを実施
+
+:\* 型式名をMD31へ変更
+
+:\* キャブレターセッティングを変更
+
+:\* ステンレス製エキゾーストマニホールドをバブ加工を実施
+
+:\* 後ブレーキを油圧式シングルディスク化
+
+:\* [ハロゲン](../Page/ハロゲンランプ.md "wikilink")[ヘッドランプを](https://ja.wikipedia.org/wiki/前照灯 "wikilink")35/36.5→60/50wへ強化
+
+:\* ナックルガードを標準装備化
+
+## 諸元
+
+| 車名                                                        | AX-1\[16\]                                                                    | XL Degree\[17\]   |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------- |
+| 型式名                                                       | MD21                                                                          | MD26              |
+| [モデルイヤー](https://ja.wikipedia.org/wiki/モデルイヤー "wikilink") | 1987                                                                          | 1991              |
+| 全長x全幅x全高（m）                                               | 2.040x0.805x1.115                                                             | 2.100x0.815x1.115 |
+| ホイールベース（m）                                                | 1.350                                                                         | 1.360             |
+| 最小回転半径（m）                                                 | 2.1                                                                           | 2.0               |
+| 最低地上高（m）                                                  | 0.245                                                                         | 0.240             |
+| シート高（m）                                                   | 0.810                                                                         | 0.790             |
+| 乾燥重量（kg）                                                  | 114                                                                           | 119               |
+| 車両重量（kg）                                                  | 124                                                                           | 129               |
+| 50㎞/h定地走行燃費                                               | 50.3km/L                                                                      | 45.0km/L          |
+| エンジン型式名                                                   | MD21E                                                                         |                   |
+| エンジン型式                                                    | 水冷4ストローク4バルブDOHC単気筒                                                           |                   |
+| 総排気量                                                      | 249㏄                                                                          |                   |
+| 内径x行程（mm）                                                 | 70.0x64.8                                                                     |                   |
+| 圧縮比                                                       | 11.0                                                                          | 10.4              |
+| 最高出力                                                      | 29ps/8,500rpm                                                                 | 25ps/8,000rpm     |
+| 最大トルク                                                     | 2.6kg-m/7,500rpm                                                              | 2.5kg-m/6,500rpm  |
+| キャブレター                                                    | PD6B                                                                          | VE39              |
+| [点火装置](https://ja.wikipedia.org/wiki/点火装置 "wikilink")     | バッテリー式[CDI](https://ja.wikipedia.org/wiki/キャパシター・ディスチャージド・イグニッション "wikilink") |                   |
+| 始動方式                                                      | セルフ                                                                           |                   |
+| 潤滑方式                                                      | 圧送式飛沫式併用[ウエットサンプ](https://ja.wikipedia.org/wiki/ウエットサンプ "wikilink")           |                   |
+| 潤滑油容量                                                     | 1.6L                                                                          |                   |
+| 燃料タンク容量                                                   | 9.0L                                                                          | 9.3L              |
+| クラッチ                                                      | 湿式多板コイルスプリング                                                                  |                   |
+| 変速方式                                                      | 左足動式リターン                                                                      |                   |
+| 変速機                                                       | 常時噛合6段                                                                        |                   |
+| 1速                                                        | 2.846                                                                         |                   |
+| 2速                                                        | 1.777                                                                         |                   |
+| 3速                                                        | 1.333                                                                         |                   |
+| 4速                                                        | 1.041                                                                         |                   |
+| 5速                                                        | 0.884                                                                         |                   |
+| 6速                                                        | 0.785                                                                         |                   |
+| 1次減速比                                                     | 2.727                                                                         |                   |
+| 2次減速比                                                     | 3.153                                                                         | 3.384             |
+| フレーム形式                                                    | ダイヤモンド                                                                        | セミダブルクレードル        |
+| サスペンション（前）                                                | テレスコッピック                                                                      |                   |
+| サスペンション（後）                                                | プロリンク式スイングアーム                                                                 |                   |
+| キャスター                                                     | 25°30′                                                                        | 26°05′            |
+| トレール                                                      | 89.0mm                                                                        | 94.0mm            |
+| タイヤ（前）                                                    | 90/100-19 55P                                                                 | 2.75-21 45P       |
+| タイヤ（後）                                                    | 120/90-16 63P                                                                 | 4.60-18 63P       |
+| ブレーキ（前）                                                   | 油圧式シングルディスク                                                                   |                   |
+| ブレーキ（後）                                                   | 油圧式シングルディスク                                                                   | 機械式ドラム            |
+| 標準現金価格                                                    | \\419.000                                                                     | \\379,000         |
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 外部リンク
+
+  - 本田技研工業公式HP 2輪製品アーカイブ
+
+<!-- end list -->
+
+  - [AX-1](http://www.honda.co.jp/pressroom/products/motor/ax-1/ax-1_1987-11-20/)
+  - [XL Degree](http://www.honda.co.jp/pressroom/products/motor/xl_u250_degree/xl-degree_1991-04-26/)
+
+<!-- end list -->
+
+  - BBB バイクヒストリー
+
+<!-- end list -->
+
+  - [History File No.312 AX-1](http://www.bbb-bike.com/history/data312_1.html)
+  - [History File No.224 XL Degree](http://www.bbb-bike.com/history/data312_1.html)
+
+## 関連項目
+
+  - [ホンダ・XL](https://ja.wikipedia.org/wiki/ホンダ・XL "wikilink")
+  - [ホンダ・NX125](https://ja.wikipedia.org/wiki/ホンダ・NX125 "wikilink")
+  - [:en:Honda_NX650_Dominator](https://ja.wikipedia.org/wiki/:en:Honda_NX650_Dominator "wikilink")
+
+[Category:ホンダのオートバイの車種](https://ja.wikipedia.org/wiki/Category:ホンダのオートバイの車種 "wikilink") [Category:デュアルパーパスの車種](https://ja.wikipedia.org/wiki/Category:デュアルパーパスの車種 "wikilink")
+
+1.  [1987年11月20日プレスリリース](http://www.honda.co.jp/news/1987/2871120a.html)
+2.
+3.  内壁に[ニッケル](../Page/ニッケル.md "wikilink")と[シリコンカーバイトをコーディングする](../Page/炭化ケイ素.md "wikilink")。
+4.
+5.  [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")・[沖縄](../Page/沖縄県.md "wikilink")・その他一部離島を除く。
+6.  [1989年5月24日プレスリリース](http://www.honda.co.jp/news/1989/2890524.html)
+7.  [1994年3月30日プレスリリース](http://www.honda.co.jp/news/1994/2940330.html)
+8.  [1991年4月26日プレスリリース](http://www.honda.co.jp/news/1987/2871120a.html)
+9.
+10.
+11.
+12.
+13. [1992年4月24日プレスリリース](http://www.honda.co.jp/news/1992/2920424.html)
+14. [1993年3月プレスリリース](http://www.honda.co.jp/news/1993/2930300x.html)
+15. [1995年3月3日プレスリリース](http://www.honda.co.jp/news/1995/2950303.html)
+16.
+17.

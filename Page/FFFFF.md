@@ -1,0 +1,166 @@
+> この記事は[FFFFF](https://ja.wikipedia.org/wiki/FFFFF)から翻訳されています。
+
+
+**FFFFF**（エフファイブ）は、[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB）にて[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月15日](../Page/4月15日.md "wikilink")より放送されている、[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")の[応援番組](https://ja.wikipedia.org/wiki/応援番組 "wikilink")である。
+
+番組タイトルは「**F**ighters」「**F**ield」「**F**act」「**F**ocus」「**F**an」の五つの「F」から来ている。
+
+2009年3月までは毎週[月曜](../Page/月曜日.md "wikilink")（[日曜](../Page/日曜日.md "wikilink")[深夜](https://ja.wikipedia.org/wiki/深夜 "wikilink")）の0:40 - 0:55（[JST](../Page/日本標準時.md "wikilink")）だったが、[2009年](../Page/2009年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")より毎週[土曜](../Page/土曜日.md "wikilink") 9:30 - 9:50、[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")は毎週月曜（日曜深夜） 0:40 - 1:00となった（再放送は当日HTBローカルの野球中継が16:00を過ぎた場合、16:00 - 17:25に予定されていたネット番組をこの時間帯に時差放送を行なうため、実質放送時間繰り下げでネット番組時差放送終了直後の放送に変更されるほか、HTBローカルの野球中継が早く終了して時間枠が20分以上余った場合の穴埋め番組として放送されることもある）。
+
+## 番組概要
+
+同局ではこれまで『[朝までファイターズ](https://ja.wikipedia.org/wiki/朝までファイターズ "wikilink")』や『[イチオシ\!](https://ja.wikipedia.org/wiki/イチオシ! "wikilink")』などの番組内で他局より力を入れてファイターズをフォローしてきたが、いわゆる応援番組はなかった。
+
+だがファイターズのアジア制覇を機に、2007年春改編の目玉として選手並びにチームに密着した番組をスタートさせることになった。それが「**FFFFF**」である。
+
+毎週1人の選手をピックアップしインタビューなども交えて送る。MCはスタジオではなくロケ地を飛び回り、ファイターズの素顔に迫っていく。
+
+月に1回は「Fifty Voice」と題し、ファン50人の声を集計して「一番○○な選手」をランキング化する企画を放送している。また、この企画をもとにして、選手15人の声を集計してランキング化する「Fifteen Voice」も行っている。
+
+また、毎年プロ野球ペナントレースの開幕前には、番組メインMCでHTB専属解説者の岩本勉を筆頭に、道内各局で解説者として活躍するファイターズOBを招き、ファイターズの順位や注目選手の成績を予想する座談会が行われ、シーズン閉幕後に同じメンツを招き、答え合わせを行うのが恒例企画となっている。
+
+## 番組MC
+
+  - [ヒロ福地](https://ja.wikipedia.org/wiki/ヒロ福地 "wikilink")（ナレーションも担当）
+  - [岩本勉](https://ja.wikipedia.org/wiki/岩本勉 "wikilink")（野球解説者）
+  - [谷口直樹](https://ja.wikipedia.org/wiki/谷口直樹 "wikilink")（HTBアナウンサー）
+
+## FFFFFナイター
+
+  - 2007年7月18日放送の『[スーパーベースボール](../Page/スーパーベースボール_\(テレビ朝日系列\).md "wikilink")・日本ハムvs[ソフトバンク](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")』は、「**FFFFFナイター**」と題し、番組MC陣（解説・岩本、実況・谷口、ゲスト・福地）による実況中継で放送された。以降も年に2・3回は番組MC陣による実況中継が放送されている。ただし、2009年以降はこの3人での中継が頻繁に行われている。
+
+## スペシャル
+
+  - 2007年7月29日は15時30分から30分のスペシャル版を放送。Fifteen Voiceの特別版として選手が選ぶ「選手の中で一番大食いなのは誰?」を発表した。なお、この日の通常版は『[選挙STATION2007](https://ja.wikipedia.org/wiki/選挙ステーション "wikilink")』のため休止。
+  - 2007年12月30日は16時から2時間のスペシャル版を放送。11月25日に行われた、ファンフェスティバルの模様や2007年シーズンをもって退団した前監督の[トレイ・ヒルマン](https://ja.wikipedia.org/wiki/トレイ・ヒルマン "wikilink")と[田中幸雄のインタビューが放送された](https://ja.wikipedia.org/wiki/田中幸雄_\(内野手\) "wikilink")。
+  - 2008年3月15日は16時55分から30分のスペシャル版を放送。Fifteen Voiceは選手が選ぶ「今年のキーマンとなる選手は誰?」を発表した。また、岩本の[ダルビッシュ有](https://ja.wikipedia.org/wiki/ダルビッシュ有 "wikilink")へのインタビューも放送された。
+  - 2008年12月28日は16時から85分のスペシャル版を放送。11月23日に行われたファンフェスティバルの模様が放送された。
+  - 2009年3月29日は16時55分から30分の第一部と1時10分から15分の第二部が開幕スペシャルと題して放送された。
+  - 2009年12月29日は9時55分から85分のスペシャル版を放送。岩本とダルビッシュへのインタビュー、ヒロと[森本稀哲](https://ja.wikipedia.org/wiki/森本稀哲 "wikilink")と[鶴岡慎也](https://ja.wikipedia.org/wiki/鶴岡慎也 "wikilink")とのインタビューと[シミュレーションゴルフ対決の模様が放送された](https://ja.wikipedia.org/wiki/スクリーンゴルフ "wikilink")。
+  - 2010年12月30日は9時55分から110分のスペシャル版を放送。11月20日に行われた、ファンフェスティバルの模様やヒロと[小谷野栄一](https://ja.wikipedia.org/wiki/小谷野栄一 "wikilink")、岩本と2010年シーズンをもって退団し、[テキサス・レンジャーズ](https://ja.wikipedia.org/wiki/テキサス・レンジャーズ "wikilink")にFA移籍する[建山義紀](https://ja.wikipedia.org/wiki/建山義紀 "wikilink")、そして、当時野球解説者で後に監督となる[栗山英樹](../Page/栗山英樹.md "wikilink")と2011年シーズンから入団する[斎藤佑樹](https://ja.wikipedia.org/wiki/斎藤佑樹 "wikilink")の3つのインタビューが放送された。
+  - 2011年12月30日も9時55分から110分のスペシャル版を放送。[金子誠](https://ja.wikipedia.org/wiki/金子誠 "wikilink")と鶴岡慎也の釣り対決、[糸井嘉男](https://ja.wikipedia.org/wiki/糸井嘉男 "wikilink")・[中田翔](https://ja.wikipedia.org/wiki/中田翔 "wikilink")・[陽岱鋼](https://ja.wikipedia.org/wiki/陽岱鋼 "wikilink")・[飯山裕志](https://ja.wikipedia.org/wiki/飯山裕志 "wikilink")の卓球対決、2012年シーズンから監督となる栗山英樹と北海道との関わりを紐解く特集などが放送された。
+  - 2012年12月29日は9時30分から105分のスペシャル版を放送。11月23日に行われた、ファンフェスティバルの模様や中田翔と斎藤佑樹の2012年を振り返っての2つのインタビュー、さらにファイターズ投手陣のボウリング対決の模様が放送された。
+  - 2013年12月30日は13時55分から95分の年末スペシャルを放送。球団北海道移転10周年を記念しての現役選手([稲葉篤紀](https://ja.wikipedia.org/wiki/稲葉篤紀 "wikilink")・[金子誠](https://ja.wikipedia.org/wiki/金子誠 "wikilink")・[中嶋聡](https://ja.wikipedia.org/wiki/中嶋聡 "wikilink"))とOB（岩本勉・[立石尚行](https://ja.wikipedia.org/wiki/立石尚行 "wikilink")・[坪井智哉](https://ja.wikipedia.org/wiki/坪井智哉 "wikilink")・[金村暁](https://ja.wikipedia.org/wiki/金村暁 "wikilink")）に分かれてのスペシャルトーク、[木佐貫洋](https://ja.wikipedia.org/wiki/木佐貫洋 "wikilink")の[江差線](https://ja.wikipedia.org/wiki/江差線 "wikilink")の旅、岩本と斎藤佑樹の対談インタビュー、[宮西尚生](https://ja.wikipedia.org/wiki/宮西尚生 "wikilink")の1日[AD体験が放送された](https://ja.wikipedia.org/wiki/アシスタントディレクター "wikilink")。
+  - 2014年2月1日は9時29分から76分の「沖縄[キャンプスペシャル](../Page/キャンプ_\(日本プロ野球\).md "wikilink")2014」を放送。ファイターズのキャンプ地である[名護市営球場](../Page/名護市営球場.md "wikilink")からの全編生放送を行った。
+  - 2014年12月27日は16時から1時間半の年末スペシャルを放送。ヒロ福地の稲葉篤紀引退密着、金子誠・岩本勉の高級寿司屋対談、投手[上沢直之](https://ja.wikipedia.org/wiki/上沢直之 "wikilink")・[中村勝](https://ja.wikipedia.org/wiki/中村勝 "wikilink")と野手[近藤健介](https://ja.wikipedia.org/wiki/近藤健介 "wikilink")・[中島卓也に分かれての若手選手料理対決](https://ja.wikipedia.org/wiki/中島卓也_\(野球\) "wikilink")、大野奨太の[スポーツキャスター体験が放送された](https://ja.wikipedia.org/wiki/ニュースキャスター#スポーツキャスター "wikilink")。
+  - 2016年1月2日は14時から2時間10分の新春スペシャルを放送。近藤健介・上沢直之・[松本剛](https://ja.wikipedia.org/wiki/松本剛_\(野球\) "wikilink")・[石川慎吾](https://ja.wikipedia.org/wiki/石川慎吾 "wikilink")による「[1993年](../Page/1993年.md "wikilink")会に密着」、Fifteen Voice「長生きしそうなのはダレ？」、ファンフェスティバル2015、杉谷拳士の「イチオシ\!」1日中継リポーター、栗山英樹監督とヒロ福地の対談が放送された。
+  - 2017年1月2日は14時から2時間25分の新春スペシャルを放送。岩本勉・稲葉篤紀・建山義紀・[稲田直人](https://ja.wikipedia.org/wiki/稲田直人 "wikilink")・森本稀哲の「OB解説者大反省会」・栗山英樹監督、ヒロ福地の「栗山監督×ヒロ福地対談」、中島卓也・[鍵谷陽平](https://ja.wikipedia.org/wiki/鍵谷陽平 "wikilink")・[岡大海](https://ja.wikipedia.org/wiki/岡大海 "wikilink")・近藤健介の「仲良し若手新年会」、武田勝・谷口直樹アナの「武田勝の慰安旅行」、中田翔・[杉谷拳士](https://ja.wikipedia.org/wiki/杉谷拳士 "wikilink")の「中田翔ハワイで爆買い？」が放送された。またこれに先立ち、同日13時から1時間「お正月だよFFFFF傑作選」と題し2016年の日本シリーズ優勝祝勝会の様子を再放送。
+  - 2017年12月25日は18時15分から45分間の緊急スペシャル「大谷翔平 記者会見」を放送。札幌ドームでの大谷翔平の[ロサンゼルス・エンゼルス移籍報告記者会見の模様を生放送](https://ja.wikipedia.org/wiki/ロサンゼルス・エンゼルス・オブ・アナハイム "wikilink")。
+  - 2018年1月3日は15時10分から2時間20分の新春スペシャルを放送。岩本勉・稲葉篤紀・建山義紀・稲田直人・森本稀哲によるOB解説者反省会トーク、栗山英樹監督とヒロ福地の対談、近藤健介・松本剛・上沢直之の同期3人組札幌バスツアー、[清宮幸太郎](https://ja.wikipedia.org/wiki/清宮幸太郎 "wikilink")独占インタビューが放送された。
+  - 2019年1月3日は15時10分から2時間20分の新春スペシャルを放送。岩本勉・建山義紀・稲田直人・森本稀哲によるOB解説者反省会トーク、栗山英樹監督とヒロ福地の対談、近藤健介・松本剛・上沢直之の仲良し3人同期会、宮西尚生・武田勝の癒しの旅、[吉田輝星](https://ja.wikipedia.org/wiki/吉田輝星 "wikilink")独占インタビューが放送された。
+
+## 放送事故
+
+  - 2019年1月12日の放送で番組冒頭からCMまでの映像がCM明けで再び流れる事態が発生した。
+
+<!-- end list -->
+
+  -
+    この日の放送は1月3日放送の新春スペシャルの未公開SPだったが、オープニングの後[宮西尚生](https://ja.wikipedia.org/wiki/宮西尚生 "wikilink")・[武田勝](https://ja.wikipedia.org/wiki/武田勝 "wikilink")の癒しの旅が流れて、CMの後[栗山英樹](../Page/栗山英樹.md "wikilink")監督とヒロ福地の対談、[近藤健介](https://ja.wikipedia.org/wiki/近藤健介 "wikilink")・[松本剛](https://ja.wikipedia.org/wiki/松本剛 "wikilink")・[上沢直之](https://ja.wikipedia.org/wiki/上沢直之 "wikilink")の仲良し3人同期会、[吉田輝星](https://ja.wikipedia.org/wiki/吉田輝星 "wikilink")独占インタビューの順に放送される予定だったが、CMの後再びオープニングが流れ、[宮西尚生](https://ja.wikipedia.org/wiki/宮西尚生 "wikilink")・[武田勝](https://ja.wikipedia.org/wiki/武田勝 "wikilink")の癒しの旅が流れてしまった。その後CMを挟み吉田輝星独占インタビューのみが流れ放送が終了した。
+
+<!-- end list -->
+
+  -
+    この後、番組公式Facebookにて不体裁があったと謝罪。1週間後の1月19日に改めて放送され、番組冒頭で｢この放送は先週12日(土)放送分新春スペシャル延長戦を改めてお送りしています。｣のテロップが表示された。また、それに伴い本来予告で1月19日放送とされた企画は1週間遅れの1月26日に放送された。
+
+## DVD
+
+2010年から「ファイターズ応援番組 FFFFF セレクション」シリーズを発売。販売元はエイチ・テー・ビー・プロモーション。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>巻数</p></th>
+<th><p>発売日</p></th>
+<th><p>規格品番</p></th>
+<th><p>内容</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>2010年6月14日</p></td>
+<td><p>HTB-0061</p></td>
+<td><p>「FFFFF HISTORY」「Fifteen voice『結婚したい選手はダレ?』」<br />
+「あいのりインタビューダイジェスト」「武田久の17球」<br />
+「金子×賢介対談(DVDスペシャルバージョン)」</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>2011年2月1日</p></td>
+<td><p>HTB-0065</p></td>
+<td><p>「ダルビッシュ有“球界エースへの軌跡”」「Fifteen Voice『食事に行くならダレとダレ？』」<br />
+「“自らの心と闘う男”小谷野栄一」「ひちょりのキャンプ日記」<br />
+「検証 2006年プレーオフの真実」「優勝旅行名場面」<br />
+「稲葉篤紀“男のこだわり”」<br />
+特典映像</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>2012年2月1日</p></td>
+<td><p>HTB-0073</p></td>
+<td><p>「オープニングトーク」「Fifteen Voice『運動会で張り切りそうなのは誰?』」<br />
+「検証2008年開幕戦 ダルビッシュと鶴岡の戦略」「Fifteen Voice『不器用そうなのは誰?』」<br />
+「あいのりインタビュー傑作選」「Fifteen Voice『せっかちなのは誰?』」<br />
+「稲葉篤紀&amp;金子誠 沖縄スペシャル対談2009-2011」<br />
+特典映像「歓喜の優勝インタビュー」</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>2013年2月1日</p></td>
+<td><p>HTB-0090</p></td>
+<td><p>Disk1<br />
+「稲葉篤紀2000本安打への軌跡」「あいのりインタビュー傑作選」<br />
+「暴露トーク満載！実家に行こう」「Fifteen Voice『おっちょこちょいなのは誰？』」<br />
+「Fifteen Voice『美肌男子は誰？』」「野球の教科書 総集編」<br />
+「マック節セレクション」「特別企画『宮西尚生と行く!FFFFFグルメ』」<br />
+<br />
+Disk2「祝 2012パ・リーグ優勝スペシャルディスク」<br />
+未公開シーン満載!歓喜の瞬間・独占インタビュー集</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>2014年2月1日</p></td>
+<td><p>HTB-0099</p></td>
+<td><p>「金子誠×ガンちゃんスペシャル対談」「大引×今浪同学年対談」<br />
+「Fifteen Voice『我が強いのはダレ?』「Fifteen Voice『イタズラ好きなのはダレ?』<br />
+「2012年投手会『チーム対抗釣り対決』」「2012年投手会『チーム対抗ボーリング対決』」<br />
+特典映像「大爆笑!ものまね全集」</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>2015年2月1日</p></td>
+<td><p>HTB-0111</p></td>
+<td><p>「オープニングトークinイチオシ！まつり」「ファイターズ移転10年 スペシャルトーク」<br />
+「HTBで1日スタッフ体験 宮西尚生」「帰省企画2本立て 徳島・武田久&amp;福島・矢貫」<br />
+「FFFFF 稲葉篤紀の軌跡」「FFFFF 金子誠の軌跡」</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>2016年2月1日</p></td>
+<td><p>HTB-0124</p></td>
+<td><p>「大谷翔平を大解剖」「大野奨太 スポーツキャスターに挑戦」「2015 稲葉×マック対談」<br />
+「宮西＆大野 居酒屋トーク」「Fifteen Voice『チームで1番脱いだらスゴイのはダレ？』」<br />
+「Fifteen Voice『チームで1番女子力が高いのはダレ？』」「放送400回記念スペシャル」<br />
+特典映像「マックの昔話」</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>2018年2月28日</p></td>
+<td></td>
+<td><p><strong>10周年記念スペシャル</strong><br />
+「大特集「エースで4番」大谷翔平 二刀流の軌跡」<br />
+「復刻!稲葉篤紀×金子誠スペシャル対談」<br />
+「10周年記念　出演回数ランキング」「お宝映像満載!OB解説者座談会名場面集」<br />
+「感動をありがとう！飯山裕志　男の野球人生」<br />
+特典映像「大谷翔平 独占インタビュー総集編」</p></td>
+</tr>
+</tbody>
+</table>
+
+## 外部リンク
+
+  - [FFFFF（エフファイブ）](http://www.htb.co.jp/fffff/index.html) - 北海道テレビ放送
+
+  -
+[Category:北海道テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送の番組 "wikilink") [Category:北海道のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:北海道日本ハムファイターズ](https://ja.wikipedia.org/wiki/Category:北海道日本ハムファイターズ "wikilink")

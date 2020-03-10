@@ -1,0 +1,25 @@
+> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+
+
+**II号自走重歩兵砲**（にごうじそうじゅうほへいほう）は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[ドイツ軍の装甲車両の一つ](https://ja.wikipedia.org/wiki/ドイツ国防軍 "wikilink")。制式名称は15cm sIG33 auf Fehrgestell Panzerkampfwagen II (Sf) （15cm33式重歩兵砲搭載II号戦車車台・自走式）。
+
+## 概要
+
+[I号15cm自走重歩兵砲が](../Page/I号自走重歩兵砲.md "wikilink")、[フランス戦で予想外の活躍を見せたため](https://ja.wikipedia.org/wiki/ナチス・ドイツのフランス侵攻 "wikilink")、ドイツ陸軍は、より本格的な[自走重歩兵砲を開発することを決定した](../Page/自走砲.md "wikilink")。この車両は、ベース車体として[II号戦車](../Page/II号戦車.md "wikilink")B型が用いられ、I号自走重歩兵砲が、[15cm sIG33を車輪ごと搭載したため](https://ja.wikipedia.org/wiki/15cm_sIG33 "wikilink")、あまりにも背が高くなってしまった反省から、機関室から前方の車体上部構造を取り外して、車内に15cm重歩兵砲を搭載することになった。
+
+開発はアルケット社が行い、[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")2月に試作車が完成したが、車体の内部容積が狭すぎて操作性に難があることが判明したため、II号戦車の車体幅を約38cm広げ、車体後部を60cm延長した新型車体が開発されることになった。車体が延長されたことによって、転輪が1個増えて6個となり、車内の重歩兵砲を前面30mm、側面15mm厚の装甲板で囲んだオープン・トップの戦闘室が設けられた。
+
+また、本車は当初より、[アフリカ軍団に配備されることが決まっていたため](https://ja.wikipedia.org/wiki/ドイツアフリカ軍団 "wikilink")、冷却不足を補うために、機関室には2分割された大きなハッチが取り付けられており、これを開位置とすることで、外気を直接導入していた。
+
+本車は、1941年11月から12月にかけて12両が生産され、6両ずつ重歩兵砲中隊に配備されて、[1942年](../Page/1942年.md "wikilink")初めから北アフリカに送られた。しかし前述の改良にもかかわらず砂漠での運用には適さず、わずか15分程度の走行でエンジンの冷却が効かなくなったり、エンジンその物も冷却のために開けたハッチから侵入する砂埃により損耗するなど、問題が多かった。それでも15cm砲は有効であったため、同年12月までの[エル・アラメインの戦い](../Page/エル・アラメインの戦い.md "wikilink")で全滅するまで各地を転戦した。また損傷車輌から砲と防盾を取り外し、砲塔を失った[III号戦車](../Page/III号戦車.md "wikilink")に無理矢理搭載した改造型（III号自走重歩兵砲）も存在した。
+
+なお本車の代替として、フランスから捕獲した装甲砲牽引車であるロレーヌ・シュレッパーに、15cm重歩兵砲を搭載したSd kfz 135/1が製作され、[北アフリカ戦線](https://ja.wikipedia.org/wiki/北アフリカ戦線 "wikilink")に派遣されている。また同砲を搭載した新たな自走砲として、[38(t)のシャーシを利用した](../Page/LT-38.md "wikilink")[グリーレ](https://ja.wikipedia.org/wiki/グリーレ "wikilink")が開発された。
+
+## 登場作品
+
+  - 『[World of Tanks](https://ja.wikipedia.org/wiki/World_of_Tanks "wikilink")』（オンラインゲーム）
+    ドイツ自走砲Sturmpanzer IIとして登場。
+  - 『WarThunder』
+    ドイツランク1駆逐戦車で、ドイツツリー唯一の大口径自走砲として登場。
+
+[Category:II号戦車](https://ja.wikipedia.org/wiki/Category:II号戦車 "wikilink") [Category:ドイツ国防軍の自走砲](https://ja.wikipedia.org/wiki/Category:ドイツ国防軍の自走砲 "wikilink") [Category:150mm砲](https://ja.wikipedia.org/wiki/Category:150mm砲 "wikilink")

@@ -1,0 +1,117 @@
+> この記事は[Wired Equivalent Privacy](https://ja.wikipedia.org/wiki/Wired_Equivalent_Privacy)から翻訳されています。
+
+
+**Wired Equivalent Privacy**（直訳すると**有線同等機密**、通称**WEP**）は、[IEEE 802.11無線](https://ja.wikipedia.org/wiki/IEEE_802.11 "wikilink")[ネットワークのセキュリティのための](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")[アルゴリズム](../Page/アルゴリズム.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に登場したとき\[1\]、WEPは従来からある有線[LAN並みの](../Page/Local_Area_Network.md "wikilink")[機密](https://ja.wikipedia.org/wiki/機密 "wikilink")性を提供するものと期待されていたが、後に容易に解読できることが判明したため廃れた。
+
+## 脆弱性
+
+2001年以降、[暗号解読](https://ja.wikipedia.org/wiki/暗号解読 "wikilink")者らによって深刻な弱点がいくつか明らかとなり、最終的には容易に入手可能なソフトウェアを使って数分でWEPコネクションを解読可能な状態となっている\[2\]。数カ月以内に[IEEE](../Page/IEEE.md "wikilink")は新たなタスクフォース[802.11iを立ち上げ](https://ja.wikipedia.org/wiki/IEEE_802.11i "wikilink")、この問題の対策を検討し始めた。
+
+2003年には、802.11iによってまとめられつつあった改正案のサブセットである [Wi-Fi Protected Access](https://ja.wikipedia.org/wiki/Wi-Fi_Protected_Access "wikilink") (WPA) でWEPを置き換えることを [Wi-Fi Alliance](../Page/Wi-Fi_Alliance.md "wikilink") が発表した。2004年には802.11iのまとめた規格 (WPA2) が承認され、IEEEは正式に WEP-40 と WEP-104 が「本来のセキュリティ目標を達成できなかったため、置換される」ことを宣言した\[3\]。
+
+脆弱性が明らかになっているにも関わらず、WEPはその後しばらく広く使われていた\[4\]。WEPは安価で旧式なパーソナル用途向け無線LANルーターでも使用可能な暗号化手段で、通りすがりの他人に安易に無線ネットワークを使用されることは防げるものの、悪意を持って意図的に盗聴しようという試みに対しては無防備であるため、どんな形であれ使うべきではないとされる\[5\]。
+
+なお、WEPを *Wireless Encryption Protocol* の略としている例が散見される が誤りである。
+
+## 詳細
+
+WEPは1999年9月に承認された元々の [IEEE 802.11](https://ja.wikipedia.org/wiki/IEEE_802.11 "wikilink") 規格の一部である\[6\]。WEPでは[機密](https://ja.wikipedia.org/wiki/機密 "wikilink")保持のために[ストリーム暗号](https://ja.wikipedia.org/wiki/ストリーム暗号 "wikilink")[RC4](https://ja.wikipedia.org/wiki/RC4 "wikilink")を使い\[7\]、[データ完全性](https://ja.wikipedia.org/wiki/データ完全性 "wikilink")保証のために[CRC-32チェックサムを使う](../Page/巡回冗長検査.md "wikilink")\[8\]。2004年に新たな機構に置換されたが、今も規格文書に記載されている\[9\]。
+
+[frame](https://ja.wikipedia.org/wiki/ファイル:Wep-crypt-alt.svg "wikilink") 標準的な64ビットのWEPは40ビットの鍵 (WEP-40) を使い、24ビットの[初期化ベクトル](https://ja.wikipedia.org/wiki/初期化ベクトル "wikilink") (IV) と連結してRC4の鍵ストリームを生成する。WEPの当初のドラフト版が作成されたころ、[アメリカ合衆国連邦政府](https://ja.wikipedia.org/wiki/アメリカ合衆国連邦政府 "wikilink")は輸出向けの暗号技術を制限していたため、鍵の長さが制限されていた。鍵としては、10桁の[16進文字列](../Page/十六進法.md "wikilink")（0-9 と A-F）あるいは5文字の英数字（0-9、a-z、A-Z）として指定される（16進文字列の場合、1桁あたり4ビット × 10桁 + 24ビットIV = 64ビットWEP鍵。英数字の場合、1文字あたり8ビット × 5文字 + 24ビットIV = 64ビットWEP鍵）。
+
+制限が解除されると大手メーカーは拡張された128ビットのWEPプロトコルを実装するため、鍵長を104ビットにした (WEP-104) 。128ビットWEPの鍵は、26桁の16進文字列をユーザーが入力する形で設定するのがほとんどである。これに24ビットのIVを生成して付け加え、最終的な128ビットのWEP鍵とする。鍵を英数字で指定する場合には13文字となる（16進文字列の場合、1桁あたり4ビット × 26桁 + 24ビットIV = 128ビットWEP鍵。英数字の場合、1文字あたり8ビット × 13文字 + 24ビットIV = 128ビットWEP鍵）。
+
+いくつかのベンダーは152ビットおよび256ビットWEPを実装した。これは、128ビットの場合と同様にIVは24ビットで、残る128ビットあるいは232ビットを鍵として指定できる。この128ビットあるいは232ビットぶんの鍵も32桁あるいは58桁の16進文字列として指定する。鍵を英数字で指定する場合には16文字あるいは29文字となる（16進文字列の場合、1桁あたり4ビット × 32桁 + 24ビットIV = 152ビットWEP鍵、あるいは1桁あたり4ビット × 58桁 + 24ビットIV = 152ビットWEP鍵。英数字の場合、1文字あたり8ビット × 16文字 + 24ビットIV = 256ビットWEP鍵、あるいは1文字あたり8ビット × 29文字 + 24ビットIV = 256ビットWEP鍵）。
+
+WEPのセキュリティ上の問題は鍵の長さだけではない\[10\]。鍵が長ければ、[暗号解読](https://ja.wikipedia.org/wiki/暗号解読 "wikilink")にはより多くのパケットを盗聴する必要があるが、必要なトラフィックを生じさせる積極的な攻撃方法が存在する。WEPの他の弱点としては、IV衝突の可能性やパケット改変の可能性があり\[11\]、それらは鍵を長くしても対策にはならない。
+
+現在、WEPの傍受状況は極めて悪いと言われている。
+
+## 認証
+
+WEPでは、オープンシステム認証と共通鍵認証という2種類の[認証](../Page/認証.md "wikilink")方式が使われている。
+
+なお以下ではインフラストラクチャーモード（WLANクライアントとアクセスポイント間の通信）の認証について解説するが、基本的にはアドホックモードでも同じである。
+
+オープンシステム認証では、WLANクライアントは認証の際に自身の証明書をアクセスポイントに提供する必要がない。したがってどんなクライアントでも、そのWEP鍵がどういうものであれ、アクセスポイントに対して自身の認証ができ、ネットワークに繋がるよう試みることができる。つまり、事実上いわゆる認証と呼べるようなものはなされていない。その後、暗号化されたデータフレームが使われ、その時点でクライアントが正しい鍵を持っている必要がある。
+
+共通鍵認証では、認証にもWEP鍵を使う。次のような4段階のチャレンジ/レスポンス型認証のハンドシェイクが行われる。
+
+1.  クライアントはアクセスポイントに認証要求を送る。
+2.  アクセスポイントは[平文](https://ja.wikipedia.org/wiki/平文 "wikilink")でチャレンジ（誰何）フレームを送る。
+3.  クライアントはそのチャレンジフレームの中身を予め設定されたWEP鍵を使って暗号化し、それを認証要求に含めてアクセスポイントに送る。
+4.  アクセスポイントはそれを解読し、前に送ったチャレンジフレームの平文と比較する。同一かどうかによって、アクセスポイントは肯定または否定の応答を返す。
+
+その後、事前共有されたWEP鍵を使い[RC4](https://ja.wikipedia.org/wiki/RC4 "wikilink")を使ってデータフレームを暗号化する。
+
+一見すると、認証と呼べるようなことを全く行わないオープンシステム認証よりも共通鍵認証の方が安全なように思える。しかし、実際は全く逆である。共通鍵認証におけるチャレンジフレームを捕らえることで、ハンドシェイクで使われた鍵ストリームを把握することが可能である\[12\]。そのため、WEPではオープンシステム認証を使った方が賢明である。ただし、いずれにしてもWEPの認証機構は弱い。
+
+## 弱点
+
+RC4は[ストリーム暗号](https://ja.wikipedia.org/wiki/ストリーム暗号 "wikilink")であり、同じ鍵を二度使うことは避けなければならない。そのために[初期化ベクトル](https://ja.wikipedia.org/wiki/初期化ベクトル "wikilink") (IV) が使われるが、24ビットという長さはトラフィックの多いネットワークでは十分長いとは言えない。WEPでのIVの使い方により、[関連鍵攻撃](https://ja.wikipedia.org/wiki/関連鍵攻撃 "wikilink")の可能性が生じた。24ビットのIVでは、パケットを5000個やりとりすると50%の確率で同じIVが再び使われる可能性がある。
+
+2001年8月、Scott Fluhrer、Itsik Mantin と[アディ・シャミア](../Page/アディ・シャミア.md "wikilink")は、WEPでのRC4とIVの使い方の問題点を利用した暗号解読法を発表し、無線ネットワークを盗聴することでRC4の[鍵を復元できる受動的攻撃法がありうることを示した](../Page/鍵_\(暗号\).md "wikilink")。そのネットワークのトラフィックの大小、すなわち調べられるパケットの数にも依存するが、場合によっては1分ほどで鍵を復元できる。トラフィックがないネットワークの場合、攻撃者がパケットを送信し、その応答パケットを得ることで鍵を探すのに使える。この攻撃法は実際すぐに実装され、自動暗号解読ツールがリリースされた。この攻撃は普通のパーソナルコンピュータで実施でき、ソフトウェアも無料のものが出回っている。
+
+Cam-Winget et al. (2003) ではWEPの持つ様々な弱点を調査している。彼らは「実験によると、適切な機器を用意すれば1[マイル](../Page/マイル.md "wikilink")以上の距離から対象のWEPを使ったネットワークを盗聴できる」と記している。また、次の2つの問題点を指摘した。
+
+  - WEPの使用はオプションとされているため、WEPを使わずに（暗号化せずに）運用されている無線LANが多い。
+  - WEPでは[鍵管理](https://ja.wikipedia.org/wiki/鍵管理 "wikilink")プロトコルを持たないため、複数の利用者が単一の[共通鍵を使っている](../Page/共通鍵暗号.md "wikilink")。
+
+2005年、[FBIが一般に入手可能な機器を使って](../Page/連邦捜査局.md "wikilink")3分でWEPを使用したネットワークを解読するデモンストレーションを行った\[13\]。Andreas Klein は、RC4ストリーム暗号について別の解析を行った。Kleinは Fluhrer、Mantin およびシャミアが示した以外にもWEPの解読に利用できるRC4鍵ストリームとWEPの鍵の相関関係があることを示した。
+
+2006年、Bittau、Handley、Lackey は802.11プロトコル自体を利用してWEPの解読を加速させる方法を示した。1つのパケットを盗聴したら、攻撃者は任意のデータを送信することで処理を早めることができる。盗聴で得たパケットは（1バイトにつき128個程度のパケットを送ることで）1バイトずつ解読でき、それによってローカルなIPアドレスを発見できる。攻撃者は復元したIPヘッダを使い、802.11のフラグメンテーション機能を利用して盗聴したパケットを再現できる。そしてその802.11ネットワークがインターネットに接続されている場合、アクセスポイントはそのパケットを解読（復号）してインターネット上の攻撃者の仲間にそれを転送するのに利用される。すると、無線LAN側の攻撃者とインターネット側の仲間の間の通信によってパケットを1つ盗聴しただけで容易にWEPを破ることができる。
+
+2007年、Erik Tews、Andrei Pychkine、Ralf-Philipp Weinmann は Klein の2005年の攻撃法を拡張し、WEPに対して最適化した攻撃法を示した\[14\]。この攻撃法では、4万個のパケットを捕らえるだけで104ビットの鍵を50%の確率で復元できる。利用できるパケット数が6万個なら成功率は80%、8万5千個なら95%となる。[ARP再注入などの能動的攻撃法を使えば](../Page/Address_Resolution_Protocol.md "wikilink")、条件が揃えば4万個のパケットを1分以内に集められる。実際の計算に必要なリソースは、Pentium-M 1.7GHz でメモリ3MBと計算時間3秒ほどであり、もっと低速なCPUでも最適化可能である。40ビット鍵であれば成功率はもっと高くなる。
+
+2008年、[Payment Card Industry](https://ja.wikipedia.org/wiki/:en:Payment_Card_Industry "wikilink") (PCI) のセキュリティ標準化委員会は[PCIデータセキュリティスタンダード](../Page/PCIデータセキュリティスタンダード.md "wikilink") (PCIDSS) の更新を行い、その中で2010年6月30日以降クレジットカード処理にWEPをどんな形であれ使用しないという規定を設けた。また、2009年3月31日以降、新たに設置するシステムにはWEPを使わないこととした。WEPの脆弱性は、アメリカの百貨店 [T.J. Maxx](https://ja.wikipedia.org/wiki/:en:T.J._Maxx "wikilink") の親会社のネットワーク侵入事件で利用されている\[15\]。
+
+## 対策
+
+暗号の[トンネリング](https://ja.wikipedia.org/wiki/トンネリング "wikilink")（例えば、[IPsec](https://ja.wikipedia.org/wiki/IPsec "wikilink")、[Secure Shellなど](../Page/Secure_Shell.md "wikilink")）を使えば、安全でないネットワーク上でも安全にデータ転送が可能である。しかし、無線ネットワーク自体のセキュリティを回復すべく、WEPの代替となる規格が開発された。
+
+### 802.11i（WPAとWPA2）
+
+WEPのセキュリティ問題の推奨される対策として、[WPA2またはその前段階の](https://ja.wikipedia.org/wiki/Wi-Fi_Protected_Access "wikilink")[WPAへの転換がある](https://ja.wikipedia.org/wiki/Wi-Fi_Protected_Access "wikilink")。どちらもWEPに比較すればずっと安全である\[16\]。WPAまたはWPA2をサポートするため、一部の古い[アクセスポイントは置換の必要が生じ](../Page/アクセスポイント_\(無線LAN\).md "wikilink")、また一部は[ファームウェア](../Page/ファームウェア.md "wikilink")の更新で対応可能だった。WPAはWPA2を実装した機器が出回るまでのソフトウェアで実装可能な一時的な対策だった\[17\]。WPAで採用されている[TKIPは設計上の寿命に到達しており](https://ja.wikipedia.org/wiki/Temporal_Key_Integrity_Protocol "wikilink")、破られる危険性が高くなっているため、次回の802.11規格の全面改訂の際には削除される予定である\[18\]。
+
+### 標準規格以外で実装された対策
+
+#### WEP2
+
+802.11i の初期のドラフト版にあった間に合わせ的なWEP強化策である。WPAやWPA2に対応できない機器でも実装可能な場合があった。IVと鍵の両方を128ビットに拡張したものである\[19\]。IVの重複を防ぎ、[総当り鍵攻撃を防止できることが期待されていた](https://ja.wikipedia.org/wiki/総当り攻撃 "wikilink")。
+
+WEPが根本的に不完全だということが判明すると（つまり、IVと鍵のサイズだけの問題ではない）、WEP2の名前は消えた。ただし鍵長を拡大するという対策はWPAの[TKIPにも採用されている](https://ja.wikipedia.org/wiki/Temporal_Key_Integrity_Protocol "wikilink")。
+
+#### WEPplus
+
+WEP+ とも。[Agere Systems](https://ja.wikipedia.org/wiki/:en:Agere_Systems "wikilink")（[ルーセント・テクノロジー](https://ja.wikipedia.org/wiki/ルーセント・テクノロジー "wikilink")のかつての子会社）が独自にWEPを強化したもので、「弱いIV」を排除することでWEPのセキュリティを強化している\[20\]。WEPplusは無線通信を行う双方がそれを採用していないとセキュリティを強化できない。無線LANの性質上、そのことを確実に保証することは難しく、利用可能な環境は限られる。また、[反射攻撃](https://ja.wikipedia.org/wiki/反射攻撃 "wikilink")を必ずしも防止できない。
+
+#### Dynamic WEP
+
+Dynamic WEP では、WEPの鍵を動的に変化させる。[スリーコム](https://ja.wikipedia.org/wiki/スリーコム "wikilink")などいくつかのベンダーがそれぞれ独自に機能追加したものである。
+
+動的に変化させるというアイデアは 802.11i の[TKIPに取り入れられているが](https://ja.wikipedia.org/wiki/Temporal_Key_Integrity_Protocol "wikilink")、アルゴリズム自体はWEPとは異なる。
+
+## 脚注・出典
+
+[Category:暗号化プロトコル](https://ja.wikipedia.org/wiki/Category:暗号化プロトコル "wikilink") [Category:コンピュータ・ネットワーク・セキュリティ](https://ja.wikipedia.org/wiki/Category:コンピュータ・ネットワーク・セキュリティ "wikilink") [Category:モバイルネットワーク](https://ja.wikipedia.org/wiki/Category:モバイルネットワーク "wikilink") [Category:IEEE_802.11](https://ja.wikipedia.org/wiki/Category:IEEE_802.11 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13. [The Feds can own your WLAN too](http://www.smallnetbuilder.com/index.php?option=com_content&task=view&id=24251&Itemid=100)
+14. [Breaking 104 bit WEP in less than 60 seconds](http://eprint.iacr.org/2007/120.pdf) by Erik Tews, Ralf-Philipp Weinmann, and Andrei Pychkine
+15.
+16.
+17.
+18.
+19.
+20.

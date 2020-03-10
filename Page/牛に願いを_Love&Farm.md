@@ -1,0 +1,214 @@
+> この記事は[ Love\&Farm](https://ja.wikipedia.org/wiki/_Love\&Farm)から翻訳されています。
+
+
+『**牛に願いを Love\&Farm**』（うしにねがいを ラブアンドファーム）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")から[9月11日](../Page/9月11日.md "wikilink")まで毎週火曜日22:00 - 22:54に、[関西テレビ制作](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[火曜22時枠](https://ja.wikipedia.org/wiki/関西テレビ制作・火曜夜10時枠の連続ドラマ "wikilink")」で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[玉山鉄二](../Page/玉山鉄二.md "wikilink")。全11回。
+
+[都会](https://ja.wikipedia.org/wiki/都会 "wikilink")に[キャンパス](https://ja.wikipedia.org/wiki/キャンパス "wikilink")を構える関東農業大学に在籍する学生たちが、3か月間、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")に実学研修に参加をし、動物や自然、[過疎](https://ja.wikipedia.org/wiki/過疎 "wikilink")の村の人々との触れ合いを描く青春ストーリー。
+
+## 登場人物
+
+### 関東農業大学
+
+  - 高清水 高志（たかしみず たかし）
+    演 - [玉山鉄二](../Page/玉山鉄二.md "wikilink")
+    北美別町出身の酪農家の息子。2浪しているため、ほかの5人より年上である。テンションがかなり低く、真野とよく対立する。北美別町の酪農家の現状に絶望し、当初は故郷を捨てて大学も辞め、東京の喫茶店で働くことを考えていた。しかし、仲間と触れ合ったり、父親の酪農への想いを知っていくうちに酪農に対する姿勢が段々と変わっていき、最終的には北美別町に残ることを決める。ちなみに高校時代まではファッションがダサかったらしく、好きな女子に告白するとたいてい失敗していたらしい。背が高く板割りもできるが、腕相撲は真野や若松より弱い（エンディングの映像より）。
+  - 真野 統平（まの とうへい）
+    演 - [小出恵介](https://ja.wikipedia.org/wiki/小出恵介 "wikilink")
+    父親が官僚というエリート一家に育つ。6人の中ではリーダー的なポジションであり、酪農に対する想いは非常に強い。熱血漢である反面、理知的でもあり物事を論理的に考える傾向が強い。そのため末永から「頭でっかちのダサボンボン」と言われた事がある。勤勉で、将来は農林水産省に入省しようと考えているが、実地ではそれが役に立たないことを痛感し、仕事のミスから一度は実習を抜け出す。当初は高清水との衝突が絶えなくて、実地で役に立つ知識が豊富な高清水に嫉妬していたが、次第に理解を示すようになる。恋愛に関しては積極的で狙った獲物は逃さないのがポリシー。腕相撲は高清水よりは強いが、若松よりは弱い。藤井に気がある。
+  - 若松 亮太（わかまつ りょうた）
+    演 - [中田敦彦](https://ja.wikipedia.org/wiki/中田敦彦 "wikilink")（[オリエンタルラジオ](https://ja.wikipedia.org/wiki/オリエンタルラジオ "wikilink")）
+    画家志望だったが、「環境デザイン学部」を誤解してしまい、美大と農大を間違えて入学してしまったうっかり者。大声を出すのが好きで、草原に出てよく「ラブ・アンド・ファーム」と叫んでいる。基本的に空気が読めず変人であるため、今まで友達がいなかった（克也が初めての友達）。仲間との関係はきちんと築いているが、単独行動が多く一人で絵を描くのが好き。3人の中では腕相撲が一番強い。高清水の妹の百合に想いを寄せている。
+  - 藤井 彩華（ふじい あやか）
+    演 - [相武紗季](https://ja.wikipedia.org/wiki/相武紗季 "wikilink")
+    短期学部にいたが、遊ぶために酪農学部に編入した。酪農に関する知識や情熱が乏しく、また自分に何のとりえもないことをコンプレックスにしており、常に恋人がいないと不安（彼氏持ちだったが後に浮気が原因で破局）。しかしこのままでは駄目だと考えるようになり、勉強に打ち込むようになる。最終的には想いを寄せる高清水に告白し、いつか高清水の嫁になることを告げて東京に帰っていった。
+  - 末永 美帆子（すえなが みほこ）
+    演 - [香里奈](https://ja.wikipedia.org/wiki/香里奈 "wikilink")
+    ミス農大になったこともある社長令嬢。6人の中では唯一の獣医学部生。授業には出ておらず、実習にも単位のために仕方なく参加した。6人の中では一番無愛想で協調性がなく、そのわがままな態度が元で藤井とよく対立していた。しかし、富貴子の実習生に対する愛情に触れ、今までの自分勝手な振る舞いを悔いた後は、獣医の加藤に教えを請うなど、意欲的に獣医を目指すようになる。最初は高清水に好意を寄せていたが、後に自分に好意を寄せる克也に好感を持つようになった。3人の女子の中では最も大人びているが、現役組のため藤井や千葉より年下である。
+  - 千葉 和美（ちば かずみ）
+    演 - [戸田恵梨香](https://ja.wikipedia.org/wiki/戸田恵梨香 "wikilink")
+    まじめな優等生。幼い頃に家族が離散してしまい、家族全員で最後に来た場所が牧場であったため、酪農に対する思い入れは6人の中で一番強い。気持ちが先走ってから回りすることが多い。自分と同じように酪農に対して情熱的で努力家の真野に想いを寄せる。そのため、中盤では真野が藤井に話しかけるのを見て嫉妬したりもしていた。母は、看護士をしている。
+
+### あしざきファーム
+
+  - 芦崎 克也（あしざき かつや）
+    演 - [田中圭](https://ja.wikipedia.org/wiki/田中圭 "wikilink")
+    あしざきファームの一人息子で、北美別町出身の高清水の幼馴染。愛想がよく明るい性格のため、すぐに実習生たちと打ち解ける。末永に一目惚れし、最初は全く相手にされなかったが、末永が次第に変わっていくうちにデートの約束をするまでの仲に進展する。母・富貴子の死後牧場を継ぐが、その際に返済しきれないほどの借金が発覚し、牧場を手放さざるを得なくなる。そして、ほかの牧場に働きに行くため、競走馬を育てるという自分や母の夢を胸に北美別町を去っていった。実習生からは「カッチャン」と呼ばれている。
+  - 芦崎 富貴子（あしざき ふきこ）
+    演 - [市毛良枝](https://ja.wikipedia.org/wiki/市毛良枝 "wikilink")
+    克也の母。
+
+### 高清水牧場
+
+  - 高清水 百合（たかしみず ゆり）
+    演 - [有村実樹](https://ja.wikipedia.org/wiki/有村実樹 "wikilink")
+    高志の妹。気が少々強く思ったことははっきりと口に出す性格。兄と違い、町に対する思い入れが強く町を捨てると言った兄に対して怒りをあらわにする。また、町の現状を分かっていない高志の発言に対しても度々食って掛かる。自分に想いを寄せる若松に対しては普通に友達として接しており、末永に対してはその大人びた振る舞いに憧れを抱いている模様。
+  - 高清水 サチ（たかしみず サチ）
+    演 - [朝加真由美](https://ja.wikipedia.org/wiki/朝加真由美 "wikilink")
+    高志の母。
+  - 高清水 弘志（たかしみず ひろし）
+    演 - [大杉漣](../Page/大杉漣.md "wikilink")
+    高志の父。
+
+### 吉田綿羊牧場
+
+  - 吉田 宗之（よしだ むねゆき）
+    演 - [相島一之](https://ja.wikipedia.org/wiki/相島一之 "wikilink")
+    吉田綿羊牧場の牧場主人。
+  - 平林 すみよ（ひらばやし すみよ）
+    演 - [藤本静](https://ja.wikipedia.org/wiki/藤本静 "wikilink")
+    吉田牧場の酪農ヘルパー。牧場主の吉田と並んで歩いていることが多い。
+
+### 北美別町
+
+  - 宮本 奈津美（みやもと なつみ）
+    演 - [中嶋朋子](https://ja.wikipedia.org/wiki/中嶋朋子 "wikilink")
+    北美別町出身の市議会議員。
+  - 津村 太郎（つむら たろう）
+    演 - [森永悠希](https://ja.wikipedia.org/wiki/森永悠希 "wikilink")
+    北美別町の小学生。関西出身で関西弁で話す。実習生や克也によくなついており、酪農家の生活を心配している。
+
+### その他
+
+  - 加藤 明（かとう あきら）
+    演 - [中村獅童](https://ja.wikipedia.org/wiki/中村獅童_\(2代目\) "wikilink")
+    獣医師。
+  - 津村 杏子（つむら きょうこ）
+    演 - [濱田マリ](https://ja.wikipedia.org/wiki/濱田マリ "wikilink")
+    実習生の世話役。
+
+<!-- end list -->
+
+  - 末永 美代子（すえなが みよこ） - [栗田よう子](https://ja.wikipedia.org/wiki/栗田よう子 "wikilink")
+  - 武田 和則（たけだ かずのり） - [菊池均也](../Page/菊池均也.md "wikilink")
+  - 真野 紀代（まの のりよ） - [岡まゆみ](https://ja.wikipedia.org/wiki/岡まゆみ "wikilink")
+  - 真野 達彦（まの たつひこ） - [平泉成](https://ja.wikipedia.org/wiki/平泉成 "wikilink")
+  - 村上 亮司（むらかみ りょうじ） - [春田純一](https://ja.wikipedia.org/wiki/春田純一 "wikilink")
+  - 串田 孝光（くしだ たかみつ） - [でんでん](https://ja.wikipedia.org/wiki/でんでん "wikilink")
+  - 寺西 悠太郎（てらにし ゆうたろう） - [小日向文世](https://ja.wikipedia.org/wiki/小日向文世 "wikilink")
+  - 松山 隆（まつやま たかし） - [田原浩史](../Page/田原浩史.md "wikilink")
+
+## スタッフ
+
+  - 脚本 - [金子ありさ](https://ja.wikipedia.org/wiki/金子ありさ "wikilink")
+  - 音楽 - [住友紀人](https://ja.wikipedia.org/wiki/住友紀人 "wikilink")
+  - 演出 - [三宅喜重](https://ja.wikipedia.org/wiki/三宅喜重 "wikilink")、[本橋圭太](https://ja.wikipedia.org/wiki/本橋圭太 "wikilink")
+  - 主題歌 - [槇原敬之](../Page/槇原敬之.md "wikilink")「[GREEN DAYS](https://ja.wikipedia.org/wiki/GREEN_DAYS "wikilink")」（[エイベックス・エンタテインメント](https://ja.wikipedia.org/wiki/エイベックス・エンタテインメント "wikilink")）
+  - 監修 - [祐森誠司](https://ja.wikipedia.org/wiki/祐森誠司 "wikilink")（[東京農業大学](https://ja.wikipedia.org/wiki/東京農業大学 "wikilink")[教授](https://ja.wikipedia.org/wiki/教授 "wikilink")）
+  - 協力 - [農林水産省](../Page/農林水産省.md "wikilink")、[北海道文化放送](../Page/北海道文化放送.md "wikilink")、[レガートミュージック](https://ja.wikipedia.org/wiki/レガートミュージック "wikilink")、[シネハウス](https://ja.wikipedia.org/wiki/シネハウス "wikilink")、[バスク](https://ja.wikipedia.org/wiki/バスク_\(テレビ技術会社\) "wikilink")、[フジアール](../Page/フジアール.md "wikilink")、[レモンスタジオ](../Page/レモンスタジオ.md "wikilink")、[ナイス・デー](https://ja.wikipedia.org/wiki/ナイス・デー_\(企業\) "wikilink")、[インナップ](https://ja.wikipedia.org/wiki/インナップ "wikilink")、[ファン](https://ja.wikipedia.org/wiki/有限会社ファン "wikilink")、[近畿日本ツーリスト](https://ja.wikipedia.org/wiki/近畿日本ツーリスト "wikilink")、[酪農学園大学](https://ja.wikipedia.org/wiki/酪農学園大学 "wikilink")
+  - プロデューサー - [重松圭一](https://ja.wikipedia.org/wiki/重松圭一 "wikilink")、[豊福陽子](https://ja.wikipedia.org/wiki/豊福陽子 "wikilink")
+  - 制作著作 - 関西テレビ
+
+## 放送日程
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話数</p></th>
+<th><p>放送日</p></th>
+<th><p>サブタイトル</p></th>
+<th><p>演出</p></th>
+<th><p>視聴率</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第1話</p></td>
+<td><p>2007年7月3日</p></td>
+<td><p>生まれたての命</p></td>
+<td><p>三宅喜重</p></td>
+<td><p>10.2%</p></td>
+</tr>
+<tr class="even">
+<td><p>第2話</p></td>
+<td><p>2007年7月10日</p></td>
+<td><p>動きだした夏の恋</p></td>
+<td><p>10.4%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第3話</p></td>
+<td><p>2007年7月17日</p></td>
+<td><p>失恋より辛いとき</p></td>
+<td><p>本橋圭太</p></td>
+<td><p>9.6%</p></td>
+</tr>
+<tr class="even">
+<td><p>第4話</p></td>
+<td><p>2007年7月24日</p></td>
+<td><p>恋と花火と友情と</p></td>
+<td><p>9.1%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第5話</p></td>
+<td><p>2007年7月31日</p></td>
+<td><p>消えた婚約指輪</p></td>
+<td><p>三宅喜重</p></td>
+<td><p>8.6%</p></td>
+</tr>
+<tr class="even">
+<td><p>第6話</p></td>
+<td><p>2007年8月7日</p></td>
+<td><p>お願い殺さないで</p></td>
+<td><p>6.5%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第7話</p></td>
+<td><p>2007年8月14日</p></td>
+<td><p>星になった母さん</p></td>
+<td><p>本橋圭太</p></td>
+<td><p>6.7%</p></td>
+</tr>
+<tr class="even">
+<td><p>第8話</p></td>
+<td><p>2007年8月21日</p></td>
+<td><p>さよなら愛する友</p></td>
+<td><p>8.2%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第9話</p></td>
+<td><p>2007年8月28日</p></td>
+<td><p>誰よりも君が好き</p></td>
+<td><p>三宅喜重</p></td>
+<td><p>8.6%</p></td>
+</tr>
+<tr class="even">
+<td><p>第10話</p></td>
+<td><p>2007年9月4日</p></td>
+<td><p>そして愛は永遠に</p></td>
+<td><p>本橋圭太</p></td>
+<td><p>7.1%</p></td>
+</tr>
+<tr class="odd">
+<td><p>最終話</p></td>
+<td><p>2007年9月11日</p></td>
+<td><p>走れ夢をのせて</p></td>
+<td><p>三宅喜重</p></td>
+<td><p>10.4%</p></td>
+</tr>
+<tr class="even">
+<td><p>平均視聴率 8.7%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## トリビア
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Shibauratec.jpg "wikilink")
+
+  - 撮影に使用した大学校舎は[芝浦工業大学](https://ja.wikipedia.org/wiki/芝浦工業大学 "wikilink")豊洲校舎である。
+  - シチュエーションは[東京農業大学](https://ja.wikipedia.org/wiki/東京農業大学 "wikilink")[国際食料情報学部](https://ja.wikipedia.org/wiki/国際食料情報学部 "wikilink")食料環境経済学科の『フィールド研修I』（農家実地研修）を参照している。この研修は、ゼミごとに行われ、北海道、山形県、長野県など各所で行われるが、ドラマと異なり、研修期間は一週間である。また東京農業大学の教育理念は「実学主義」である。
+  - このドラマの制作に協力したのは、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[江別市](../Page/江別市.md "wikilink")にある[酪農学園大学](https://ja.wikipedia.org/wiki/酪農学園大学 "wikilink")である。酪農学園大学は日本で唯一、酪農学部を有する実学主義の大学で、獣医学部、環境システム学部・短期大学部がある。酪農学部酪農学科の実践酪農学コースには、3か月間の酪農実習のカリキュラムが設定されている。このドラマの制作には、実践酪農学コースで酪農実習を体験した学生達、指導教員及び委託実習先農家がインタビューなどの取材に協力した。
+  - [ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")で番組特製タオルが当たるプレゼントゲーム、CMでは[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")のコンパクトカー「[ラクティス](https://ja.wikipedia.org/wiki/トヨタ・ラクティス "wikilink")」とのコラボレーション企画が放送された。
+
+## 外部リンク
+
+  - [牛に願いを Love\&Farm - フジテレビ番組基本情報](http://www.fujitv.co.jp/b_hp/ushi/)
+
+[Category:関西テレビ火曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:関西テレビ火曜10時枠の連続ドラマ "wikilink") [Category:2007年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2007年のテレビドラマ "wikilink") [Category:北海道を舞台とした作品](https://ja.wikipedia.org/wiki/Category:北海道を舞台とした作品 "wikilink") [Category:農学校を舞台とした作品](https://ja.wikipedia.org/wiki/Category:農学校を舞台とした作品 "wikilink") [Category:牧場を題材とした作品](https://ja.wikipedia.org/wiki/Category:牧場を題材とした作品 "wikilink") [Category:大学を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:大学を舞台としたテレビドラマ "wikilink") [Category:日本の農業教育](https://ja.wikipedia.org/wiki/Category:日本の農業教育 "wikilink") [Category:金子ありさ脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:金子ありさ脚本のテレビドラマ "wikilink")

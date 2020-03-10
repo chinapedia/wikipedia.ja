@@ -1,0 +1,74 @@
+> この記事は[BOY MEETS GIRL](https://ja.wikipedia.org/wiki/BOY_MEETS_GIRL)から翻訳されています。
+
+
+「**BOY MEETS GIRL**」（ボーイ・ミーツ・ガール）は、[1994年](../Page/1994年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")に発売された[trfの](https://ja.wikipedia.org/wiki/TRF "wikilink")7枚目の[シングルCD](https://ja.wikipedia.org/wiki/シングルCD "wikilink")。発売元は[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+
+## 解説
+
+前シングル「[survival dAnce ～no no cry more～](https://ja.wikipedia.org/wiki/Survival_dAnce_〜no_no_cry_more〜 "wikilink")」制作後すぐに[ミニアルバムを制作する予定だったが](https://ja.wikipedia.org/wiki/BILLIONAIRE_〜BOY_MEETS_GIRL〜 "wikilink")、[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")からのオファーで急遽制作することになった\[1\]。
+
+小室が1994年2月に休暇で[インドネシア](../Page/インドネシア.md "wikilink")に行き、現地で録音した[舞台芸術](../Page/舞台芸術.md "wikilink")[ケチャ](https://ja.wikipedia.org/wiki/ケチャ "wikilink")の集団のコーラスをエンディング部分で使用しているほか、[パーカッショニスト](https://ja.wikipedia.org/wiki/パーカッショニスト "wikilink")の[仙波清彦](https://ja.wikipedia.org/wiki/仙波清彦 "wikilink")による[和楽器](../Page/和楽器.md "wikilink")の演奏を取り入れるなど民族音楽が融合している\[2\]。[1994年](../Page/1994年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")の[第45回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第45回NHK紅白歌合戦 "wikilink")にはこの曲で初出場を果たし、[トップバッター](https://ja.wikipedia.org/wiki/トップバッター "wikilink")を務めた。
+
+小室哲哉が今まで作曲してきた曲で「一番苦労して完成した曲」と語っている、完成するまで1か月掛かったとのこと。
+
+本作以降、小室はレコーディングに深く参加せず、基本的にDJ KOOとYU-KIの主導で行われていく。小室からは仮歌が入ったデモテープと簡単なイメージワードをもらい、その意図をDJ KOOがくみ取って、YU-KIのボーカルディレクションを行っていく様になった\[3\]。
+
+[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")は[メキシコで撮影されている](https://ja.wikipedia.org/wiki/メキシコ合衆国 "wikilink")。
+
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")発売の[SUPER EUROBEAT](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink") VOL.80にて、[Dominoが英語歌詞でカバーしている](https://ja.wikipedia.org/wiki/:en:Alessandra_Mirka_Gatti "wikilink")。
+
+[2000年](../Page/2000年.md "wikilink")には[NHKのテレビ](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[アニメ](../Page/アニメ.md "wikilink")、『[だぁ\!だぁ\!だぁ\!](../Page/だぁ!だぁ!だぁ!.md "wikilink")』の第一期エンディングテーマとして、アニメ専用にリミックスされた[パラパラ](../Page/パラパラ.md "wikilink")バージョンが使用された。これは後に[シングルCD](https://ja.wikipedia.org/wiki/シングルCD "wikilink")化されている。
+
+後にこの曲を[松任谷由実](../Page/松任谷由実.md "wikilink")が賞賛し、「松任谷由実のオールナイトニッポンTV」・「[僕らの音楽 -OUR MUSIC-](https://ja.wikipedia.org/wiki/僕らの音楽_-OUR_MUSIC- "wikilink")」においてカバーしたこともある。「僕らの音楽」においては、小室と松任谷の共演が実現した。
+
+[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系で放送された[ドラマ](../Page/テレビドラマ.md "wikilink")『[さすらい刑事旅情編](https://ja.wikipedia.org/wiki/さすらい刑事旅情編 "wikilink")VII』（第5話・1994年11月9日、北海道ロケ）にて登場人物の香取恵里（演:[相川恵里](https://ja.wikipedia.org/wiki/相川恵里 "wikilink")）がカラオケでこの歌を歌うシーンがある。
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月29日](../Page/11月29日.md "wikilink")に12cmシングル[廉価版](https://ja.wikipedia.org/wiki/廉価版 "wikilink")として再発売。
+
+2010年、[WORLD ORDERがアルバム](https://ja.wikipedia.org/wiki/WORLD_ORDER "wikilink")『[WORLD ORDER](https://ja.wikipedia.org/wiki/WORLD_ORDER#WORLD_ORDER_\(WORLD_ORDERのアルバム\) "wikilink")』にてカバーしている。
+
+『[秘密のケンミンSHOW](https://ja.wikipedia.org/wiki/秘密のケンミンSHOW "wikilink")』のコーナー・『辞令は突然にsecond season ～奥様はさすらいの女子アナ編～』愛媛県第1話（2011年8月11日放送）で使用された。
+
+『TK MILLION WORKS』にも同曲が収録されている、
+
+2012年12月19日に発売された[TRF](https://ja.wikipedia.org/wiki/TRF "wikilink")のトリビュートアルバム『[TRFリスペクトアイドルトリビュート\!\!](https://ja.wikipedia.org/wiki/TRFリスペクトアイドルトリビュート!! "wikilink")』にカヴァーヴァージョンが収録されている。カヴァーしたのは IRF（IDOL RAVE FACTORY） というコラボユニットで、様々なグループから選抜されたアイドルたちで構成されている。
+
+2013年にはテレビアニメ、『[プリティーリズム・レインボーライブ](https://ja.wikipedia.org/wiki/プリティーリズム・レインボーライブ "wikilink")』にて『[Prizmmy☆](https://ja.wikipedia.org/wiki/Prizmmy☆ "wikilink")』の[カバー](../Page/カバー.md "wikilink")したバージョンがオープニングテーマとして使用される\[4\]。
+
+2016年には[Dream5](https://ja.wikipedia.org/wiki/Dream5 "wikilink")がカバーし、ミニアルバム「[COLORS](https://ja.wikipedia.org/wiki/COLORS_\(Dream5のアルバム\) "wikilink")」に収録された。 更に同年発売されたコンピレーションアルバム「[EXA IDOL COMPLEX〜Super duper\!](https://ja.wikipedia.org/wiki/EXA_IDOL_COMPLEX〜Super_duper! "wikilink")」にて[ハニースパイス](https://ja.wikipedia.org/wiki/ハニースパイス "wikilink")にカバーされた。
+
+2018年には[Namewee](https://ja.wikipedia.org/wiki/Namewee "wikilink")がDJ KOOと共にリミックスしたヴァージョンをカヴァーして[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にタイアップし、1週間足らずで50万回以上の再生回数を達成した(尚、PVには[清水宏保](https://ja.wikipedia.org/wiki/清水宏保 "wikilink")が共演している)。
+
+## 収録曲
+
+全作詞・作曲・編曲：[TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+
+1.  **BOY MEETS GIRL \[RADIO ON AIR MIX\]**
+      -
+        「大陸の果てしなく大きな存在感」をイメージさせる様にした\[5\]。
+2.  **BOY MEETS GIRL \[DANCE 12″MIX\]**
+      -
+        「12」はディスコで使用される[LP盤を意味し](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")、ダンスシーンを意識したミックス\[6\]。
+3.  **BOY MEETS GIRL \[TRIBAL MIX “JAPANESE TRADITIONAL”\]**
+      -
+        和楽器の[オーバー・ダビング](../Page/オーバー・ダビング.md "wikilink")を原曲より更に重ねている。アレンジは「[トライバル・ハウス](https://ja.wikipedia.org/wiki/トライバル・ハウス "wikilink")」「民族的な祭典で使われる音楽」を意識した\[7\]。
+4.  **BOY MEETS GIRL \[TWILIGHT MIX “TRIBUTE TO AYRTON SENNA”\]**
+      -
+        [アイルトン・セナ](../Page/アイルトン・セナ.md "wikilink")に捧げている\[8\]。
+
+## 脚注
+
+## 外部リンク
+
+  - ミュージック・ビデオ
+      -
+[Category:TRFの楽曲](https://ja.wikipedia.org/wiki/Category:TRFの楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:コカ・コーラのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コカ・コーラのコマーシャルソング "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink") [Category:だぁ\!だぁ\!だぁ\!](https://ja.wikipedia.org/wiki/Category:だぁ!だぁ!だぁ! "wikilink") [Category:プリティーリズムの音楽](https://ja.wikipedia.org/wiki/Category:プリティーリズムの音楽 "wikilink")
+
+1.  [角川書店](../Page/角川書店.md "wikilink")刊『[月刊カドカワ](https://ja.wikipedia.org/wiki/月刊カドカワ "wikilink")』1994年12月号116Pより。
+2.
+3.  [DJ KOO激白！小室哲哉のglobe参加に「正直、嫉妬はあった」](http://news.walkerplus.com/article/72161/)より。
+4.
+5.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")」1994年7月号102Pより。
+6.
+7.
+8.

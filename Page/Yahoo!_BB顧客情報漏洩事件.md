@@ -1,0 +1,53 @@
+> この記事は[Yahoo! BB](https://ja.wikipedia.org/wiki/Yahoo!_BB)から翻訳されています。
+
+
+**Yahoo\! BB顧客情報漏洩事件**（ヤフー\! ビービー こきゃくじょうほうろうえいじけん）は、[Yahoo\! BB登録者の](../Page/Yahoo!_BB.md "wikilink")[個人情報が漏洩した事件である](../Page/個人情報漏洩.md "wikilink")。
+
+[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")、約450万人分ものYahoo\! BB登録者の個人情報が漏洩している事が発覚し、この情報に対してYahoo\! BBに現金を要求していた[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")関連元社員らが逮捕された。
+
+[ソフトバンクBB](../Page/ソフトバンクBB.md "wikilink")の公表した被害総額は100億円を超える。
+
+## 概要
+
+### 事件発覚から犯人逮捕まで
+
+  -
+    2004年[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")、ソフトバンクはYahoo\! BB登録者の個人情報が外部に漏れていた事を発表した。この時点での発表では242人分、その後の[2月27日](../Page/2月27日.md "wikilink")には約470万人分の情報が漏れていた可能性を示唆し、最終的な漏洩数は約450万人であるとした。日弁連のコンピューター委員会が発表したところでは漏洩数は660万人であるとしている\[1\]。なお、2月24日には[警視庁](../Page/警視庁.md "wikilink")は主犯格である[右翼団体](../Page/右翼団体.md "wikilink")「新生日本協議会」元会長で出版社経営の人物と[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")内のヤフーBB代理店の役員2名をソフトバンク本社に対し個人情報と引き換えに30億円を脅し取ろうとした[恐喝未遂容疑で逮捕した](../Page/恐喝罪.md "wikilink")。\[2\]また、以上の東京都内のルートとはまったく別の犯行として、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")の会社員も個人情報と引き換えに1000万円を恐喝した同様の容疑で逮捕した。
+    3月初旬、ソフトバンクは個人情報管理諮問委員会および技術諮問委員会を設置し、全容解明に取り組む。漏洩元はその後の調査により、外部からの[不正アクセス](https://ja.wikipedia.org/wiki/不正アクセス "wikilink")と判明し、不正アクセス事件として報道される。
+    同年5月下旬には新たな東京都内ルートの犯行関与者としてソフトバンクの元業務委託先社員他1名も逮捕され、個人情報漏洩の全容が明らかとなった。個人情報が漏洩した原因として、当初発表した「外部からの不正アクセス」という理由ではなく、ソフトバンク社員であれば誰でも閲覧し入手できるような状況であったことを改めて発表。後日、社内における個人情報の管理を厳守するように徹底されることになった。
+
+### 被害者に対するソフトバンク側の対応
+
+当初、殺到する苦情に対し、ソフトバンク側はお詫びの電子メールを送付。それでも苦情が沈静化しないことから、ソフトバンクBB加入者に対して500円の金券を送ることにした。
+
+ソフトバンク社長の[孫正義](../Page/孫正義.md "wikilink")は、[自由民主党の調査会で](https://ja.wikipedia.org/wiki/自由民主党_\(日本\) "wikilink")「（事件に関して）反省している」と答えたが、「実態は窃盗事件」「情報を盗んだものを処罰する法律がない」と付け加えた。
+
+また、関連会社[ソフトバンククリエイティブ](https://ja.wikipedia.org/wiki/ソフトバンククリエイティブ "wikilink")が発行している雑誌[PC Japanは同誌のライターが本件に関与していた事が判明したことを受けて一時休刊を余儀なくされたものの](https://ja.wikipedia.org/wiki/PC_Japan "wikilink")、後に誌面内容や編集体制等を見直して復刊した。
+
+### 裁判
+
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月9日](../Page/7月9日.md "wikilink")、[東京地裁は愛知県内の被告に懲役](https://ja.wikipedia.org/wiki/東京地方裁判所 "wikilink")3年・執行猶予5年を判決。
+  - 同年[8月11日](../Page/8月11日.md "wikilink")、東京地裁は東京都内の被告に懲役3年・執行猶予5年を判決。
+  - 同年[10月15日](../Page/10月15日.md "wikilink")、主犯格の被告に懲役4年の実刑判決。
+  - 同年[11月30日](../Page/11月30日.md "wikilink")、東京地裁は東京都内の被告に懲役2年6月・執行猶予5年、主犯格の被告に懲役2年・執行猶予4年を判決。
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月19日](../Page/5月19日.md "wikilink")、[大阪地裁は大阪市内の会社員](https://ja.wikipedia.org/wiki/大阪地方裁判所 "wikilink")5名が起こした損害賠償訴訟について、ヤフー・グループの「BBテクノロジー」に対して一人当たり6000円の賠償を命じた。
+
+### 犯人と創価学会
+
+『[日刊ゲンダイ](https://ja.wikipedia.org/wiki/日刊ゲンダイ "wikilink")』が一面で\[3\]創価学会幹部が流出事件に関与していたことを報道。またその2名が過去に創価学会が起こした[言論出版妨害事件](../Page/言論出版妨害事件.md "wikilink")や[宮本顕治宅盗聴事件](https://ja.wikipedia.org/wiki/宮本顕治宅盗聴事件 "wikilink")にも関わっていたことから創価学会全体に盗聴を是とする体質があるのではと批判した\[4\]\[5\]。ジャーナリストの[段勲](https://ja.wikipedia.org/wiki/段勲 "wikilink")はフォーラム21の中で逮捕された4名のうち2名が創価学会員でヤフーBB代理店の役員を務めていた\[6\]ことから、2002年に創価学会員が起こした「[携帯電話通話記録窃盗事件](https://ja.wikipedia.org/wiki/携帯電話通話記録窃盗事件 "wikilink")」を引き合いに出し、「携帯電話・通信記録の盗み出し、そして今回の事件。同事件はまだすべて解明されたわけでないが、流出した450万人に及ぶ個人データの行方が気になる」と締めくくっている\[7\]。
+
+## 出典
+
+## 関連項目
+
+  - [携帯電話通話記録窃盗事件](https://ja.wikipedia.org/wiki/携帯電話通話記録窃盗事件 "wikilink") - 2002年にNTTドコモで発生
+
+[Category:2004年の日本の事件](https://ja.wikipedia.org/wiki/Category:2004年の日本の事件 "wikilink") [Category:個人情報流出事故・事件](https://ja.wikipedia.org/wiki/Category:個人情報流出事故・事件 "wikilink") [Category:Yahoo\!_JAPANの歴史](https://ja.wikipedia.org/wiki/Category:Yahoo!_JAPANの歴史 "wikilink") [Category:創価学会の歴史](https://ja.wikipedia.org/wiki/Category:創価学会の歴史 "wikilink") [Category:2004年2月](https://ja.wikipedia.org/wiki/Category:2004年2月 "wikilink")
+
+1.
+2.
+3.  日刊ゲンダイ 2004年2月27日1面
+4.  日刊ゲンダイ 2004年2月27日1面～2面
+5.  宮本顕治宅盗聴事件の判決文で挙げられた実行犯の一人が今回の容疑者と同一人物
+6.  [1](http://www.jcp.or.jp/akahata/aik3/2004-02-27/15_01.html) 『しんぶん赤旗』
+7.  [2](http://www.forum21.jp/2004/03/bb.htm) フォーラム21

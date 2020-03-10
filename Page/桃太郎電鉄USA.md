@@ -1,0 +1,238 @@
+> この記事は[USA](https://ja.wikipedia.org/wiki/USA)から翻訳されています。
+
+
+**桃太郎電鉄USA**（ももたろうでんてつユーエスエー）は、[ハドソン](../Page/ハドソン.md "wikilink")が[2004年](../Page/2004年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")に発売した[PlayStation 2用ボードゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[桃太郎電鉄シリーズ](../Page/桃太郎電鉄シリーズ.md "wikilink")第13作。
+
+## 概要
+
+桃太郎電鉄シリーズ史上初の、日本ではなく外国（[北アメリカ](../Page/北アメリカ.md "wikilink")）のみが舞台の作品。基本的なルールは過去作とほぼ同様だが、ゲーム内の通貨単位が「円」から「ドル」に変わっており、数字の都合上、これまでの桃太郎電鉄シリーズの10万円=1万ドルの計算となっている\[1\]。
+
+CMキャラクターには[陣内智則](../Page/陣内智則.md "wikilink")と[若槻千夏](https://ja.wikipedia.org/wiki/若槻千夏 "wikilink")が登場。このコンビは2008年発売の『[桃太郎電鉄20周年](https://ja.wikipedia.org/wiki/桃太郎電鉄20周年 "wikilink")』まで継続して起用されている。
+
+もともと、さくまあきらが飛行機を苦手としていた\[2\]ために海外編を作れなかったが、スタッフの取材\[3\]で物件リストなどを作成できたこと・『[11](../Page/桃太郎電鉄11_ブラックボンビー出現!の巻.md "wikilink")』『[12](../Page/桃太郎電鉄12_西日本編もありまっせー!.md "wikilink")』の製作を通してアメリカ編を表現できるグラフィック技術のメドが立った\[4\]ことをきっかけに、本作の製作に踏み切った。
+
+## ゲームモード
+
+  - 桃鉄USA
+    設定した年数だけプレイし総資産を競うモード。100万ドルを持ち、ニューヨークからゲーム開始となる。年数は1-99年の中から設定可能。
+  - 桃鉄公式戦
+    3年間プレイし総資産を競うモード。はじめから1000万ドル持ってゲーム開始となり、プラス駅・マイナス駅・目的地到着金の設定などのゲームバランスが「桃鉄USA」と異なっている。
+  - 貧乏神がいない\!
+    誰かが目的地に到着しても「貧乏神」が出現しないモード。その他の基本ルールは「桃鉄USA」とほぼ同様。
+
+## 前作からの変更点
+
+  - 本作より、「ブロックカード」が廃止され、攻撃系カードに成功率が設定された。
+  - 本作より、「ロボット研究所」および「メカボンビー」が廃止された（それ以降は終了している）。
+  - 本作では、「カード売り場駅」が目的地になることがある。その代わり、「港駅」と「?駅」が目的地になることはない。
+  - 本作より、リトルデビル・デビル・キングデビルカードを持っている状態で「おはらいカード」をカード売り場で買うと、その場でカードを使用しておはらいをしてくれるようになった（拒否も可能）。
+  - 本作より、マップ上の裏技として用意されていた「音楽室」が廃止された。
+  - 本作および『[G](../Page/桃太郎電鉄G_ゴールド・デッキを作れ!.md "wikilink")』では「風雲\!さくま城」モードが収録されていないため、COMキャラの「さくま」を最初から選択できる。COMキャラのラインナップは「豆鬼・赤鬼・馬鬼・餓鬼・風神・あしゅら・えんま・さくま」の8名\[5\]。
+      - 本作より、COMキャラの「あしゅら」は攻撃系カードを入手しても原則使わない思考に変更された。該当カードを入手した場合は即座に捨てる。
+  - 初登場のカード：新幹線周遊カード、武器よさらばカード、とりかえしカード、ベビキュラーカードなど
+  - 復活したカード：レッドカード
+  - 廃止されたカード：ブロックカード、うんち列車カードなど
+
+## 本作の特色
+
+  - 本作でのゲストボンビーは「スペースボンビー」。また、貧乏神が変装する形で「ビリリンモンロー」も登場。
+  - 本作では、「鉄道省駅」や「本社ビル駅」は登場しない。
+  - 本作では、新イベントキャラクターとして「ビル・ゲッツ」「マッドサイエンティスト」が登場する。
+  - 本作では、10年目から、10年ごとにマップ上の物件駅名を示す看板が英語のみの表記となり、その年はカード売り場駅のカードが無料になる事がある\[6\]。
+  - 本作では、物件のジャンルに「娯楽」「チェーン」が登場する。代わりに旧作の「水産」は登場しない（水産関連の物件も「食品」に分類される）。
+      - 「チェーン」は、ゲームを新しくプレイするたびに[コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")・[チキン](../Page/フライドチキン.md "wikilink")・[バーガー](../Page/ハンバーガー.md "wikilink")・[ピザ](../Page/ピザ.md "wikilink")の4種類の中からランダムで決定され、多く所有するほど収益率が上がる。『[7](https://ja.wikipedia.org/wiki/桃太郎電鉄7 "wikilink")』の「チェーン店カード」とは異なり、通常の物件として扱われる。
+  - 本作では、「ワープ駅」が登場しない代わりに「ゼロ駅」が登場する。この駅に止まると、持ち金（借金も含む）が0ドルになる。
+  - 本作では、月面・海底・[19世紀](../Page/19世紀.md "wikilink")のマップが登場する。
+      - 月面マップの「[月面基地](https://ja.wikipedia.org/wiki/月面基地 "wikilink")駅」と海底マップの「[海底財宝駅](https://ja.wikipedia.org/wiki/バミューダトライアングル "wikilink")」が目的地だった場合は、援助金が5倍になる。
+          - 月面マップへは、あるプレイ年数が経過した後、[オーランド](https://ja.wikipedia.org/wiki/オーランド "wikilink")の隣のプラス駅が「[ロケット発射駅](https://ja.wikipedia.org/wiki/ケネディ宇宙センター "wikilink")」に変化し、月面への移動が可能になる。
+      - 19世紀のマップは、ここに目的地が出現した時のみプレイヤー全員が揃って行くことになる。貧乏神は現代に置き去りにされるため、登場しない。
+          - このマップはニューヨークを起点に幌馬車で目的地サンフランシスコを目指すもので、東西を直接横断するルート以外はほとんど存在しない（航路・空路もない）。目的地に到着して物件を買った後は現代に戻り、19世紀マップで目的地から一番遠かったプレイヤーに再び貧乏神\[7\]がつく。
+          - マスは目的地を除くと、プラス駅・マイナス駅・ナイスカード駅\[8\]・物件駅しか登場せず、現代に登場するイベントキャラクター（スリの銀次など）も出てこない。
+          - カードは「ナイスカード駅」でのみ入手することは可能だが、19世紀にいる間はカードの使用・売買は不可能で、損害系カードを入手すると即座に消滅する。
+          - 19世紀の物件は駅で買い占めをしても「独占」とは扱われず収益率はそのままだが、現代に戻った際に価格や収益が大幅に増えた状態で現代での同じ駅に追加される（物件が増えるため、これまで独占だった状態が崩れることもある）。
+  - 本作では、カードの売価が8倍または16倍に高騰するイベントが発生する。売値の高騰は1年弱 - 2年程度続き、高騰中はカード売り場駅で売却できなくなるほか「ボビー」が登場しなくなる。
+  - 本作では、航路はフェリーではなくクルーザーを使用する。
+  - 本作では、おいどんが[メキシコシティ](../Page/メキシコシティ.md "wikilink")に、忍者のっとりクンが[ハリウッド](../Page/ハリウッド.md "wikilink")に登場する。
+  - 本作では、日本編の「電車伝助」に相当するキャラクターとして「黒服の2人組エージェント」が登場する。
+  - 本作では、「乗っ取りカード」の名称が「M\&Aカード」になっている。『12』と同様に2-8倍（農林物件は10倍）の費用が必要。
+  - 本作では、「岩戸景気」の名称が「ITバブル」になっている。
+      - 本作より、「岩戸景気/ITバブル」の効力が1年間となっている。
+  - 本作では、「ドジラース」やそれを退治する「モモトラマン」が登場しない代わりに、物件を破壊する「宇宙人襲来」のイベントと、その宇宙人を撃退するための「エアフォースカード」が登場する。
+  - 本作では、最高額物件はオーランドの「ネズミーワールド」。価格は100億ドルで日本編の「桃太郎ランド」（岡山）と同様に、「ゴールドカード」「クレジットカード」などで購入できない。購入した場合の収益率アップは、桃太郎ランドと異なり2-5%の範囲で決定される。
+  - 登場しなかったカード：モモトラマンカード、福引きカード、千両箱カード、みなぶっとびカード、猪突猛進カードなど
+  - 本作では、本作だけでしか使われていない限定のBGMが用意されている。分かりやすい例としてメインメニュー、空路、海路と言った場面で使われる定番BGMは、本作限定のBGMを使用。また本作初登場となった一部楽曲については、後の『桃太郎電鉄15 五大ボンビー登場\!の巻』以降から定番BGMとして差し替えられることとなる。更にプレイデータ画面（セーブ・ロード）はメインメニューとは別の楽曲「セーブはおまかせ\!」（関口和之作曲）が追加され、これも後の桃鉄シリーズで定番BGMとして使われ続けることとなる。
+
+## 登場駅
+
+### 物件駅（99駅）
+
+太字は目的地になる駅、★は19世紀で物件が追加される駅。
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+  - **[アカプルコ](https://ja.wikipedia.org/wiki/アカプルコ "wikilink")**
+  - **[アトランタ](../Page/アトランタ.md "wikilink")**
+  - [アナハイム](https://ja.wikipedia.org/wiki/アナハイム "wikilink")
+  - [アルバカーキ](https://ja.wikipedia.org/wiki/アルバカーキ "wikilink")
+  - **[アンカレッジ](https://ja.wikipedia.org/wiki/アンカレッジ "wikilink")**
+  - **[イエローナイフ](https://ja.wikipedia.org/wiki/イエローナイフ "wikilink")**
+  - **[インディアナポリス](https://ja.wikipedia.org/wiki/インディアナポリス "wikilink")**★
+  - [ウィニペグ](https://ja.wikipedia.org/wiki/ウィニペグ "wikilink")
+  - [エドモントン](https://ja.wikipedia.org/wiki/エドモントン "wikilink")
+  - [エルパソ](https://ja.wikipedia.org/wiki/エルパソ_\(テキサス州\) "wikilink")
+  - [オークランド](../Page/オークランド_\(カリフォルニア州\).md "wikilink")★
+  - [オーランド](https://ja.wikipedia.org/wiki/オーランド "wikilink")
+  - [オクラホマシティ](https://ja.wikipedia.org/wiki/オクラホマシティ "wikilink")
+  - [オタワ](../Page/オタワ.md "wikilink")
+  - **[カルガリー](https://ja.wikipedia.org/wiki/カルガリー "wikilink")**
+  - [カンクン](https://ja.wikipedia.org/wiki/カンクン "wikilink")
+  - **[カンザスシティ](../Page/カンザスシティ_\(ミズーリ州\).md "wikilink")**
+  - [キューバ](../Page/キューバ.md "wikilink")
+  - [グアイマス](https://ja.wikipedia.org/wiki/:en:Guaymas "wikilink")
+  - [グアダラハラ](https://ja.wikipedia.org/wiki/グアダラハラ_\(メキシコ\) "wikilink")
+  - [グアテマラシティ](https://ja.wikipedia.org/wiki/グアテマラシティ "wikilink")
+  - [クリーブランド](https://ja.wikipedia.org/wiki/クリーブランド_\(オハイオ州\) "wikilink")★
+  - [グリーンベイ](https://ja.wikipedia.org/wiki/グリーンベイ_\(ウィスコンシン州\) "wikilink")
+  - [ケベック](https://ja.wikipedia.org/wiki/ケベック・シティー "wikilink")
+  - **[月面基地](https://ja.wikipedia.org/wiki/月面基地 "wikilink")**
+  - **[コロラドスプリングス](https://ja.wikipedia.org/wiki/コロラドスプリングス "wikilink")**
+  - [コロンビア](https://ja.wikipedia.org/wiki/コロンビア_\(サウスカロライナ州\) "wikilink")
+  - [サクラメント](https://ja.wikipedia.org/wiki/サクラメント_\(カリフォルニア州\) "wikilink")★
+  - [サバナ](https://ja.wikipedia.org/wiki/サバンナ_\(ジョージア州\) "wikilink")
+  - [サンアントニオ](https://ja.wikipedia.org/wiki/サンアントニオ "wikilink")
+  - [サンサルバドル](https://ja.wikipedia.org/wiki/サンサルバドル "wikilink")
+  - [サンダーベイ](https://ja.wikipedia.org/wiki/サンダーベイ_\(オンタリオ州\) "wikilink")
+  - **[サンタモニカ](https://ja.wikipedia.org/wiki/サンタモニカ "wikilink")**
+
+</div>
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+  - **[サンディエゴ](../Page/サンディエゴ.md "wikilink")**
+  - **[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")**★
+  - [サンホセ](https://ja.wikipedia.org/wiki/サンホセ_\(コスタリカ\) "wikilink")
+  - **[シアトル](../Page/シアトル.md "wikilink")**
+  - [シウダーファレス](https://ja.wikipedia.org/wiki/シウダー・フアレス "wikilink")
+  - **[シカゴ](../Page/シカゴ.md "wikilink")**★
+  - [ジャクソン](https://ja.wikipedia.org/wiki/ジャクソン_\(ミシシッピ州\) "wikilink")
+  - [ジャクソンビル](https://ja.wikipedia.org/wiki/ジャクソンビル_\(フロリダ州\) "wikilink")
+  - **[ジャマイカ](../Page/ジャマイカ.md "wikilink")**
+  - [シャーロット](https://ja.wikipedia.org/wiki/シャーロット_\(ノースカロライナ州\) "wikilink")
+  - [シンシナティ](../Page/シンシナティ.md "wikilink")★
+  - [スポケーン](https://ja.wikipedia.org/wiki/スポケーン "wikilink")
+  - [スワード](https://ja.wikipedia.org/wiki/スワード_\(アラスカ州\) "wikilink")
+  - [セーラム](https://ja.wikipedia.org/wiki/セイラム_\(オレゴン州\) "wikilink")
+  - [セントポール](https://ja.wikipedia.org/wiki/セントポール_\(ミネソタ州\) "wikilink")
+  - [セントルイス](https://ja.wikipedia.org/wiki/セントルイス "wikilink")
+  - **[ソルトレイクシティ](../Page/ソルトレイクシティ.md "wikilink")**★
+  - **[ダラス](../Page/ダラス.md "wikilink")**
+  - [ダルース](../Page/ダルース_\(ミネソタ州\).md "wikilink")
+  - [タンパ](../Page/タンパ.md "wikilink")
+  - [チワワ](https://ja.wikipedia.org/wiki/チワワ_\(チワワ州\) "wikilink")
+  - [ティコベース](https://ja.wikipedia.org/wiki/ティコ_\(クレーター\) "wikilink")
+  - [ティファナ](https://ja.wikipedia.org/wiki/ティフアナ "wikilink")
+  - [テグシガルパ](https://ja.wikipedia.org/wiki/テグシガルパ "wikilink")
+  - **[デトロイト](../Page/デトロイト.md "wikilink")**★
+  - [デモイン](https://ja.wikipedia.org/wiki/デモイン_\(アイオワ州\) "wikilink")★
+  - **[デンバー](../Page/デンバー.md "wikilink")**
+  - [ドミニカ](../Page/ドミニカ共和国.md "wikilink")
+  - **[トロント](../Page/トロント.md "wikilink")**
+  - **[ナッシュビル](https://ja.wikipedia.org/wiki/ナッシュビル "wikilink")**
+  - **[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")**
+  - **[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")**★
+  - [ハイチ](https://ja.wikipedia.org/wiki/ハイチ "wikilink")
+
+</div>
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+  - [バッファロー](https://ja.wikipedia.org/wiki/バッファロー_\(ニューヨーク州\) "wikilink")
+  - **[パナマ](https://ja.wikipedia.org/wiki/パナマシティ "wikilink")**
+  - **[ハリウッド](../Page/ハリウッド.md "wikilink")**
+  - **[バンクーバー](../Page/バンクーバー_\(ブリティッシュコロンビア州\).md "wikilink")**
+  - [ピッツバーグ](https://ja.wikipedia.org/wiki/ピッツバーグ "wikilink")★
+  - [ビバリーヒルズ](https://ja.wikipedia.org/wiki/ビバリーヒルズ "wikilink")
+  - **[ヒューストン](../Page/ヒューストン.md "wikilink")**
+  - [ファーゴ](https://ja.wikipedia.org/wiki/ファーゴ_\(ノースダコタ州\) "wikilink")
+  - **[フィラデルフィア](../Page/フィラデルフィア.md "wikilink")**★
+  - [フェアバンクス](https://ja.wikipedia.org/wiki/フェアバンクス "wikilink")
+  - **[フェニックス](https://ja.wikipedia.org/wiki/フェニックス_\(アリゾナ州\) "wikilink")**
+  - **[プエルトリコ](../Page/プエルトリコ.md "wikilink")**
+  - [プリンスジョージ](https://ja.wikipedia.org/wiki/:en:Prince_George,_British_Columbia "wikilink")
+  - [ボイジー](https://ja.wikipedia.org/wiki/ボイシ "wikilink")
+  - **[ボストン](../Page/ボストン.md "wikilink")**
+  - [ポートランド](https://ja.wikipedia.org/wiki/ポートランド_\(オレゴン州\) "wikilink")
+  - **[ホノルル](../Page/ホノルル.md "wikilink")**
+  - [ボルティモア](https://ja.wikipedia.org/wiki/ボルチモア "wikilink")
+  - **[マイアミ](../Page/マイアミ.md "wikilink")**
+  - [マサトラン](https://ja.wikipedia.org/wiki/マサトラン "wikilink")
+  - [ミネアポリス](https://ja.wikipedia.org/wiki/ミネアポリス "wikilink")
+  - [ミルウォーキー](https://ja.wikipedia.org/wiki/ミルウォーキー "wikilink")
+  - **[メキシコシティ](../Page/メキシコシティ.md "wikilink")**
+  - [メンフィス](https://ja.wikipedia.org/wiki/メンフィス_\(テネシー州\) "wikilink")
+  - [モンテレイ](https://ja.wikipedia.org/wiki/モンテレイ_\(メキシコ\) "wikilink")
+  - [モントゴメリ](https://ja.wikipedia.org/wiki/モンゴメリー_\(アラバマ州\) "wikilink")
+  - **[モントリオール](../Page/モントリオール.md "wikilink")**
+  - **[ラスベガス](../Page/ラスベガス.md "wikilink")**
+  - [リッチモンド](https://ja.wikipedia.org/wiki/リッチモンド_\(バージニア州\) "wikilink")
+  - [ルイビル](https://ja.wikipedia.org/wiki/ルイビル "wikilink")
+  - **[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")**
+  - [ローリー](https://ja.wikipedia.org/wiki/ローリー_\(ノースカロライナ州\) "wikilink")
+  - **[ワシントン](../Page/ワシントンD.C..md "wikilink")**
+
+</div>
+
+### カード売場（22駅）
+
+  - [モービル](https://ja.wikipedia.org/wiki/モービル_\(アラバマ州\) "wikilink")
+  - [タルサ](https://ja.wikipedia.org/wiki/タルサ_\(オクラホマ州\) "wikilink")
+  - [ソーレル](https://ja.wikipedia.org/wiki/:en:Sorel-Tracy,_Quebec "wikilink")
+  - [ウィチタ](../Page/ウィチタ.md "wikilink")
+  - [メヒカリ](https://ja.wikipedia.org/wiki/メヒカリ_\(バハ・カリフォルニア州\) "wikilink")
+  - [タラハシー](https://ja.wikipedia.org/wiki/タラハシー_\(フロリダ州\) "wikilink")
+  - [ディキンソン](https://ja.wikipedia.org/wiki/:en:Dickinson,_North_Dakota "wikilink")
+  - [セントジョン](https://ja.wikipedia.org/wiki/セントジョン_\(ニューブランズウィック州\) "wikilink")
+  - [トピカ](https://ja.wikipedia.org/wiki/トピカ_\(カンザス州\) "wikilink")
+  - [コロンバス](https://ja.wikipedia.org/wiki/コロンバス_\(オハイオ州\) "wikilink")
+  - [ユマ](https://ja.wikipedia.org/wiki/ユマ_\(アリゾナ州\) "wikilink")
+  - [パインポイント](https://ja.wikipedia.org/wiki/:en:Pine_Point,_Northwest_Territories "wikilink")
+  - [シャイアン](https://ja.wikipedia.org/wiki/シャイアン_\(ワイオミング州\) "wikilink")
+  - [コーンウォール](https://ja.wikipedia.org/wiki/:en:Cornwall,_Ontario "wikilink")
+  - [タコマ](https://ja.wikipedia.org/wiki/タコマ_\(ワシントン州\) "wikilink")
+  - [ワシーラ](https://ja.wikipedia.org/wiki/ワシラ_\(アラスカ州\) "wikilink")
+  - [センター](https://ja.wikipedia.org/wiki/:en:Center,_North_Dakota "wikilink")
+  - [ベラクルズ](https://ja.wikipedia.org/wiki/ベラクルス "wikilink")
+  - [モレリア](https://ja.wikipedia.org/wiki/モレリア "wikilink")
+  - [ハリファクス](https://ja.wikipedia.org/wiki/ハリファックス "wikilink")
+  - [メリダ](https://ja.wikipedia.org/wiki/メリダ_\(ユカタン州\) "wikilink")
+  - [グレンダイブ](https://ja.wikipedia.org/wiki/:en:Glendive,_Montana "wikilink")
+
+## 脚注
+
+## 関連書籍
+
+  - 桃太郎電鉄USAオフィシャルガイドブック (ISBN 4757721285)
+  - 桃太郎電鉄USAミリオネアガイド : ハドソン公式 (ISBN 4087793028)
+  - 桃太郎電鉄USA 桃太郎電鉄ヒットパレード (JP番号 20750358)
+
+<!-- end list -->
+
+  -
+    『11』-『USA』を中心に使われているBGMを収録したサウンドトラック。
+
+## 外部リンク
+
+  -
+  -
+  -
+  -
+[Category:2004年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2004年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:アメリカ合衆国を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国を舞台としたコンピュータゲーム "wikilink") [Category:桃太郎電鉄シリーズ](https://ja.wikipedia.org/wiki/Category:桃太郎電鉄シリーズ "wikilink")
+
+1.  持ち金は「桃鉄USA」モードが100万ドル（=1000万円）、「桃鉄公式戦」モードは1000万ドル（=1億円）からスタート。
+2.  『[HAPPY](https://ja.wikipedia.org/wiki/桃太郎電鉄HAPPY "wikilink")』の99年プレイ後のエンディングより。
+3.  [月刊デジタルさくまにあ桃鉄研究所再開第25回目！](http://sakumania.com/momo/momoken-5/07.17.html)より。
+4.
+5.  この組み合わせは『15』まで同じ。
+6.  前作、前々作と違い5の倍数では無料にならない。
+7.  19世紀出発前に変身していた場合、現代に戻ったとき貧乏神は戻っている。
+8.  現代のカード駅、カード売り場が変更されている。

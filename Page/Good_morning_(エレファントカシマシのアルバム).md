@@ -1,0 +1,45 @@
+> この記事は[Good morning \(\)](https://ja.wikipedia.org/wiki/Good_morning_\(\))から翻訳されています。
+
+
+**good morning**（グッドモーニング）は、[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")の11枚目の[アルバム](../Page/アルバム.md "wikilink")。
+
+## 内容
+
+  - 前作より1年4ヶ月ぶりのリリース。[東芝EMI移籍後初のアルバム](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+  - 今作は宮本による「打ち込み」が多用されている。そのため他メンバーがスタジオ入りする前に、全てのパートを一人で収録をこなし完成させた楽曲もある(眠れない夜、ゴッドファーザー、good morning、精神暗黒街、I am happy の5曲)。メンバーが参加するのはライブだけで、事前に承諾を得たという（宮本の発言、金子達仁著「21」より）。
+  - この打ち込みを多用した作風は当時の宮本が好んでよく聴いていた[レイジ・アゲインスト・ザ・マシーン](https://ja.wikipedia.org/wiki/レイジ・アゲインスト・ザ・マシーン "wikilink")、ならびに[ナイン・インチ・ネイルズ](https://ja.wikipedia.org/wiki/ナイン・インチ・ネイルズ "wikilink")の影響からである。
+  - 今作のデモテープはカセットMTRとリズムマシンで制作されている。
+  - レコーディングは初めて[Pro Toolsを使用しアルバムは制作された](https://ja.wikipedia.org/wiki/Pro_Tools "wikilink")。「デモテープのような荒々しい音にしたい」と宮本の要望が有り、ギターの音をラジカセで再生して音を録ったり、石森所有[TASCAM](https://ja.wikipedia.org/wiki/TASCAM "wikilink")の8ch[カセット](https://ja.wikipedia.org/wiki/カセット "wikilink")[MTRをアウトボードとして使用したりしている](../Page/マルチトラック・レコーダー.md "wikilink")。リズムマシンのメイン機材は宮本所有の[YAMAHA](https://ja.wikipedia.org/wiki/YAMAHA "wikilink") 『RY-10』である。
+
+## 収録曲
+
+1.  **[ガストロンジャー](https://ja.wikipedia.org/wiki/ガストロンジャー "wikilink")** (5:22)
+      -
+        21stシングル。 このアルバムで唯一メンバー全員がレコーディングに参加している曲である。
+2.  **眠れない夜** (5:08)
+3.  **ゴッドファーザー** (4:19)
+4.  **good morning** (5:40)
+5.  **[武蔵野](https://ja.wikipedia.org/wiki/コール_アンド_レスポンス "wikilink")** (4:38)
+      -
+        23rdシングルのカップリング曲。シングルヴァージョンとは異なる。ギターのレコーディングでは石森が参加している(この5曲目と次の6曲目の間のギャップ部分には、通常入る無音ではなく電子音が約40秒収録されている。タイトルは不明。歌詞カードに収録時間が記載されているが、この曲は5曲目でも6曲目でもない。ただし、配信版音源には収録されていない。※尚ベスト盤『[胎動記](https://ja.wikipedia.org/wiki/エレカシ_自選作品集_EMI_胎動記 "wikilink")』ではCD、配信版共にこの電子音は収録されている。)
+6.  **精神暗黒街** (4:19)
+7.  **情熱の揺れるまなざし** (4:40)
+      -
+        ベースは高緑が演奏している。
+8.  **I am happy** (3:29)
+9.  **生存者は今日も笑う** (3:14)
+      -
+        ドラムは打ち込みではなく、冨永が演奏している。
+10. **[so many people](https://ja.wikipedia.org/wiki/so_many_people "wikilink")(good morningヴァージョン)** (4:33)
+      -
+        22ndシングル。高緑がベースを演奏。
+11. **Ladies and Gentlemen** (0:14)
+      -
+        歌詞は非常に短い。エコーが掛かっている。次のトラック「コール アンド レスポンス」の前のインタールードのような位置づけであり、ベスト盤『胎動記』にもこの曲と「コール〜」が選曲され曲順も連続して、短いながら収録されている。元々は事前に発表した曲数にレパートリーが足りなかったことから、急遽加えられたものである。
+12. **[コール アンド レスポンス](https://ja.wikipedia.org/wiki/コール_アンド_レスポンス "wikilink")** (5:42)
+      -
+        23rdシングル。 シングルとはミックスがやや異なる。ギターは石森も演奏している。
+
+全作詞・作曲・編曲：[宮本浩次](../Page/宮本浩次_\(エレファントカシマシ\).md "wikilink") リアレンジ：[根岸孝旨](../Page/根岸孝旨.md "wikilink")(\#1)
+
+[Category:2000年のアルバム](https://ja.wikipedia.org/wiki/Category:2000年のアルバム "wikilink") [Category:エレファントカシマシのアルバム](https://ja.wikipedia.org/wiki/Category:エレファントカシマシのアルバム "wikilink") [Category:EMIミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアルバム "wikilink")

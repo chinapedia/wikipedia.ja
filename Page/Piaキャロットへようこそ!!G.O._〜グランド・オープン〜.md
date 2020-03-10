@@ -1,0 +1,155 @@
+> この記事は[Pia!!G.O. ](https://ja.wikipedia.org/wiki/Pia!!G.O._)から翻訳されています。
+
+
+『**Pia♥キャロットへようこそ\!\!G.O. 〜グランド・オープン〜**』（**PiaG.O.**、**PiaキャロG.O.**）は[カクテル・ソフト](../Page/カクテル・ソフト.md "wikilink")から発売された[18禁恋愛アドベンチャーゲーム](../Page/アダルトゲーム.md "wikilink")+恋愛シミュレーションゲーム。
+
+## 歴史
+
+  - Piaキャロットへようこそ\!\!G.O. 〜グランド・オープン〜
+    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月3日、初回限定版発売。同梱特典が異なる3バージョンが存在する。
+      - スイーツパック - OP曲のフルバージョンとED曲、「[Go\!Go\!ウェイトレス](../Page/Go!Go!ウェイトレス.md "wikilink")」の[YURIA](https://ja.wikipedia.org/wiki/YURIA "wikilink")バージョンを収録したマキシシングルが付属。
+      - ブランチパック - ドラマCDが付属。
+      - ランチボックス - F\&Cのファンクラブ会員向け通販限定。
+    2006年6月30日、スタンダード版発売。
+  - Pia♥キャロットへようこそ\!\!G.O. SUMMER FAIR
+    2007年12月20日、[Piacci](https://ja.wikipedia.org/wiki/Piacci "wikilink")より[PlayStation 2版が発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+    2009年1月22日、廉価版発売。
+  - Pia♥キャロットへようこそ\!\!G.O.SPECIAL EDITION
+    2008年4月25日、『SUMMER FAIR』をアダルトゲーム化した逆移植版が発売。
+
+## 概要
+
+2001年の内部再編で3つのレーベルに分かれ、2002年にいったん活動を休止していたカクテル・ソフトが、『[天空のシンフォニア](https://ja.wikipedia.org/wiki/天空のシンフォニア "wikilink")』に続く復帰後のゲーム第2弾として、旧レーベルの枠を越えた新体制で開発した。最初のコンセプトは「今までの『Pia♥キャロ』をぶっ壊そう」であり、シリーズの新生を図った大胆な変革が試みられている。
+
+『[Pia♥キャロットへようこそ\!\!3](../Page/Piaキャロットへようこそ!!3.md "wikilink")』より2年後の物語と設定されている。『3』の続編でありながら『4』とされない理由は、長いシリーズと印象付けて新規ユーザーを遠ざけないようにするため。また、第1作から10年が経過してスタッフの多くが入れ替わっていることから、「新しい『Pia♥キャロ』がオープンする」という意味をこめてタイトルをつけたためでもある。なお『[Pia♥キャロットへようこそ\!\!4](https://ja.wikipedia.org/wiki/Piaキャロットへようこそ!!4 "wikilink")』は、改めて2009年に発売された。
+
+ヒロイン数が10名前後だった従来作を上回るボリュームを目指して、まず20名ほどのヒロイン候補を構想し、そこから15名まで絞った。これほど人数が多いと各シナリオライターが似通った物語を執筆しかねないため、打ち合わせは2 - 3か月かけて綿密に行われた。
+
+本作は「コラボレーション」をテーマとしており、初めて制服デザインをゲーム製作スタッフではなく、外部のクリエーターである[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")・[イラストレーター](../Page/イラストレーター.md "wikilink")の[コゲどんぼが担当した](../Page/こげどんぼ*.md "wikilink")。制服コンテストは当初「[コンプティーク](../Page/コンプティーク.md "wikilink")」の誌上で行われていたが、後にF\&Cのホームページ上でも投票が行われた。この投票では11種類がエントリーされていたが、その全てが作中に登場する。これはどのデザインも切り捨てるのが惜しまれたためで、基本の制服をメイドタイプとし、他の候補はフェア用コスチュームという扱いにしてある。そのため、シリーズ従来作のようにゲーム開始時に制服を選択する場面はない。フェア用制服は各キャラクターのイメージにあわせて振り分けられており、設定上は木ノ下留美がヒロインたちにデザイン案を見せて希望のものを選ばせたとされる。なお登場する制服の中には『[Pia♥キャロットへようこそ\!\!2](../Page/Piaキャロットへようこそ!!2.md "wikilink")』で使われた物と同名の物もあるがデザインは異なる。
+
+この当時はかつてのような自己育成型シミュレーションが廃れていたため、システムは前作から大きく変更された。スケジュール編成時にはヒロインたちのスケジュールを設定（ウェイトレス・キャッシャー・厨房・休みの4つから選択）し、主人公は毎日どの業務のサポートに入るかを選択する方式となっている。また、ヒロインにウェイトレス・キャッシャー・厨房のそれぞれの適性が設定されており、主人公のパラメータは体調を表すCP (Condition Point) のみとなっている。本作品でも「シミュレーションゲームパートで主人公の成長を表現する」というコンセプトに変わりはなく、ただそれが他のスタッフを育成して店を運営する、マネージャーとしての力量が問われる形式になっているのである。
+
+従来のシリーズの主人公は、夏休みのアルバイトで女の子たちと楽しい思い出作りをする立場に過ぎなかったが、今回の主人公は当初からPiaキャロットという飲食店に就職し、プロのフロアマネージャーを目指して生きていくことになる。冒頭まず、留美から受ける面接で意識を真剣に問われ、また、序盤では先輩である北川充から仕事内容についてかなり厳しくきめ細かな研修指導を受けるシーンが続き、プレイヤー側にも相応のプレッシャーが感じられるシナリオになっている。
+
+プロデューサーである[K杉一浪は](https://ja.wikipedia.org/wiki/金杉はじめ "wikilink")[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")への移植やテレビアニメ化を含めたオールジャンル展開を目指していたが、そこまで大掛かりなメディアミックスは実現しなかった。
+
+## ストーリー
+
+秋山純一は大学受験に失敗して途方に暮れていた。そんな中ふと訪れたファミリーレストラン「Pia♥キャロット」で若い女性店員に粋な計らいと励ましを受ける。純一はこんな素敵な店で働いてみたいと思い、受験から就職へと方向転換して面接に挑む。面接官の店長はあの時励ましてくれた若い女性、木ノ下留美だった。純一の熱意が実りマネージャー候補として就職することになった。そんな時、高校時代部活のマネージャーだった椚あやのと再会を果たし、あやのもアルバイトとして働くことになった。こうして純一は正式なマネージャーを目指して「Pia♥キャロット」での新たなスタートを切るのだった。
+
+## 登場人物
+
+## スタッフ
+
+  - プロデューサー：[K杉一浪](https://ja.wikipedia.org/wiki/金杉はじめ "wikilink")
+  - ディレクター：稲村竜一
+  - シナリオ
+      - 稲村竜一（統括、留美・千尋・かずみ・トキ子）
+      - 草薙こうたろう（あやの・みさき・小春・文華）
+      - うらわ（香苗・さな・瑞希・澄光）（FC01所属）
+      - 宮村優（美森・燕・美湖）（FC01所属）
+  - 原画・キャラクターデザイン
+      - [フミオ](https://ja.wikipedia.org/wiki/フミオ "wikilink")（あやの・美森・美湖、パッケージイラスト）
+      - [村上水軍](https://ja.wikipedia.org/wiki/村上水軍_\(イラストレーター\) "wikilink")（香苗・さな・瑞希）
+      - [きみづか葵](https://ja.wikipedia.org/wiki/きみづか葵 "wikilink")（千尋・かずみ・トキ子）
+      - [水瀬凛](https://ja.wikipedia.org/wiki/水瀬凛 "wikilink")（みさき・小春・文華・澄光）
+      - [ひなた睦月](https://ja.wikipedia.org/wiki/ひなた睦月 "wikilink")（留美・燕）
+  - 制服デザイン：[コゲどんぼ](../Page/こげどんぼ*.md "wikilink")（[ブロッコリー](../Page/ブロッコリー_\(企業\).md "wikilink")）
+  - 音楽：[DOORS MUSIC ENTERTAINMENT](../Page/DOORS_MUSIC_ENTERTAINMENT.md "wikilink")
+      - OP曲：**スマイル0円 〜Go\!Go\!ウェイトレス2〜**
+          - 作詞：[かなすぎはじめ](https://ja.wikipedia.org/wiki/金杉はじめ "wikilink") / 作曲：[小池雅也](https://ja.wikipedia.org/wiki/小池雅也 "wikilink") / ボーカル：[スイーツ探検隊](https://ja.wikipedia.org/wiki/スイーツ探検隊 "wikilink")×LOVE
+      - ED曲：**Summer Days 〜これからもずっと〜**
+          - 作詞：[新堂真弓](https://ja.wikipedia.org/wiki/新堂真弓 "wikilink") / 作曲：[小池雅也](https://ja.wikipedia.org/wiki/小池雅也 "wikilink") / ボーカル：スイーツ探検隊(YURIA)
+
+## ぴあきゃろG.O. TOYBOX 〜サマーフェア〜
+
+『Pia♥キャロットへようこそ\!\!G.O. 〜グランド・オープン〜』のファンディスク『**ぴあきゃろG.O. TOYBOX 〜サマーフェア〜**』が2006年9月15日に発売された。
+
+収録されている内容は以下の通り。
+
+  - Piaキャロヒストリー
+      - 『Pia♥キャロットへようこそ\!\!』『Pia♥キャロットへようこそ\!\!2』のキャラクターや舞台の紹介を収録。メインヒロインの名前が平仮名3文字になっている経緯などのこぼれ話も収録されている。
+  - ミニアドベンチャー
+      - 留実、あやの、小春シナリオの後日談。なおPS2版にも収録されている。
+      - 留美のコスプレコンテスト - 留美編。しかしあやのを育成するシミュレーション要素があるなど、留美よりあやのが全面的に出ている。またPiaキャロヒストリーに登場した水着エプロンも登場。
+      - Sweet are the uses of adversity - あやの編
+      - 小春のフォーチュンクッキー - 小春編
+  - つばめのクイズゲーム
+      - シリーズに関するクイズ。
+
+<!-- end list -->
+
+  - スタッフ
+    基本的なスタッフはG.O.本編と共通。以下では本作独自の部分について述べる。
+      - シナリオ：稲村竜一、草薙こうたろう
+      - 壁紙イラスト：[橋本タカシ](https://ja.wikipedia.org/wiki/橋本タカシ "wikilink")、[鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink")、蓮見江蘭、藤宮博也、さとPON、田中松太郎、あかざわRED、なまにくATK、ひだかすずね、香月☆一、[たにはらなつき](https://ja.wikipedia.org/wiki/たにはらなつき "wikilink")、みつまむ
+      - OP曲ボーカル：[み〜こ](https://ja.wikipedia.org/wiki/み〜こ "wikilink")([MOSAIC.WAV](https://ja.wikipedia.org/wiki/MOSAIC.WAV "wikilink"))
+
+## ぴあ雀
+
+2007年2月23日に『Pia♥キャロットへようこそ\!\!G.O. 〜グランド・オープン〜』の関連作品である[麻雀](../Page/麻雀.md "wikilink")ゲーム『ぴあ雀』が発売された。
+
+登場キャラクターは、G.O.に登場していた8人のほか、新キャラクターとして、留美の従妹の“木ノ下れおな”が追加されている。
+
+麻雀の対決方法は1VS1。よくある脱衣麻雀にあるイカサマアイテムや必殺技のシステムはない。勝利して見られる脱衣・Hシーンは全て動画で構成されている。
+
+ストーリーモードでは、寮MAPを選択、各キャラと対決して勝利を重ねて、最終的には木ノ下れおなと対決して勝利することが目的となる。
+
+ストーリーモードクリア後、フリーモード（フリー対戦）によって勝利することで壁紙のおまけが見られる。
+
+  - スタッフ
+
+:\* キャラクター原案：[フミオ](https://ja.wikipedia.org/wiki/フミオ "wikilink")、[ひなた睦月](https://ja.wikipedia.org/wiki/ひなた睦月 "wikilink")、[きみづか葵](https://ja.wikipedia.org/wiki/きみづか葵 "wikilink")、[村上水軍](https://ja.wikipedia.org/wiki/村上水軍 "wikilink")、[水瀬凛](https://ja.wikipedia.org/wiki/水瀬凛 "wikilink")
+
+## ぴあきゃろG.O. TOYBOX2 〜スプリングフェア〜
+
+『Pia♥キャロットへようこそ\!\!G.O. 〜グランド・オープン〜』のファンディスク第2弾である。2007年4月27日に発売された。
+
+収録されている内容は以下の通り。
+
+  - Piaキャロヒストリー
+      - 『Piaキャロットへようこそ\!\!3』『Pia♥キャロットへようこそ\!\!G.O. 〜グランド・オープン〜』のキャラクターや舞台の紹介を収録。
+  - ミニアドベンチャー
+      - 山名楓はお年頃 - 本編より10年ほど後、山名トキ子の娘・楓がPiaキャロットでバイトをするようになってからの話。
+      - 香苗とさなの休日 - 香苗&さなシナリオから1年後。
+      - Love is friendship set on fire - 本編より前の時期で、文華とみさきが初めて会った頃の話。
+      - 留美のエンゲージリング - 留美シナリオより1年後。なお本シナリオは後述する『Piaスロットへようこそ\!\!G.O.』で出現する隠し要素。
+  - 澄光の占い部屋
+  - Piaスロットへようこそ\!\!G.O.
+
+また、本作と『ぴあきゃろG.O. TOYBOX 〜サマーフェア〜』の購入で『[Pia♥キャロットへようこそ\!\!](https://ja.wikipedia.org/wiki/Piaキャロットへようこそ!! "wikilink")』の[Vista対応版がプレゼントされるキャンペーンも行われた](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")。
+
+  - スタッフ
+    基本的なスタッフはG.O.本編と共通。以下では本作独自の部分について述べる。
+      - シナリオ：稲村竜一、草薙こうたろう、うらわ
+      - 壁紙イラスト：[ひなた睦月](https://ja.wikipedia.org/wiki/ひなた睦月 "wikilink")、満月○、[きみづか葵](https://ja.wikipedia.org/wiki/きみづか葵 "wikilink")、[水瀬凛](https://ja.wikipedia.org/wiki/水瀬凛 "wikilink")、[村上水軍](https://ja.wikipedia.org/wiki/村上水軍_\(イラストレーター\) "wikilink")、[フミオ](https://ja.wikipedia.org/wiki/フミオ "wikilink")、[七瀬葵](https://ja.wikipedia.org/wiki/七瀬葵 "wikilink")、[みさくらなんこつ](https://ja.wikipedia.org/wiki/みさくらなんこつ "wikilink")、[涼香](https://ja.wikipedia.org/wiki/涼香 "wikilink")、すまき俊悟、萩原音泉、[秋蕎麦](https://ja.wikipedia.org/wiki/秋蕎麦 "wikilink")、彼ノ矢大輔、鳴海、山岡治朗、[光星](https://ja.wikipedia.org/wiki/光星 "wikilink")、丸ちゃん。
+
+## 関連商品
+
+  - 漫画
+    コンプティーク2005年8月号-2006年11月号に『**Pia♥キャロットへようこそ\!\!G.O. 〜グランド・オープン5号店〜**』のタイトルで連載、シナリオD、[さとPON](https://ja.wikipedia.org/wiki/さとPON "wikilink")作画。制服のデザインがあがっていなかったことから連載当初はぱろぱろを使用していた。
+  - 小説
+    『**Pia♥キャロットへようこそ\!\!G.O. A-Girl Diary**』が[電撃G's magazine](https://ja.wikipedia.org/wiki/電撃G's_magazine "wikilink")2005年11月号 - 2006年5月号にかけて連載。ででん作、[ひなた睦月](https://ja.wikipedia.org/wiki/ひなた睦月 "wikilink")イラスト。
+    留美がオタク趣味で周囲を振り回しつつ、本店マネージャーから5号店店長へと成長していくさまを描く。
+    小説オリジナルヒロインとして、新人ウェイトレスの「小日向きりり」が登場する。
+  - パチスロ
+    2011年12月に[タイヨーから](https://ja.wikipedia.org/wiki/タイヨー_\(パチスロ\) "wikilink")[パチスロ](../Page/パチスロ.md "wikilink")機『Piaキャロットへようこそ\!\!G.O.』が発売された。
+
+## 脚注
+
+<references />
+
+## 参考文献
+
+  - 『[電撃G's magazine](https://ja.wikipedia.org/wiki/電撃G's_magazine "wikilink")』[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")
+      -
+      -
+## 外部リンク
+
+  - [F\&C 公式ページ](https://fandc.co.jp/piagose/)
+      - [ぴあきゃろG.O. TOYBOX 〜サマーフェア〜](https://fandc.co.jp/pia/toybox/index.html)
+      - [ぴあきゃろG.O. TOYBOX2 〜スプリングフェア〜](https://fandc.co.jp/piago-toybox2/)
+      - [ぴあ雀](https://fandc.co.jp/product/piajong/)
+  - [PS2版 公式ページ](http://www.piacci.co.jp/)
+
+[Category:Piaキャロットへようこそ\!\!](https://ja.wikipedia.org/wiki/Category:Piaキャロットへようこそ!! "wikilink") [Category:2006年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2006年のアダルトゲーム "wikilink") [Category:漫画作品_ひ](https://ja.wikipedia.org/wiki/Category:漫画作品_ひ "wikilink") [Category:コンプティークの漫画作品](https://ja.wikipedia.org/wiki/Category:コンプティークの漫画作品 "wikilink") [Category:女装ゲーム](https://ja.wikipedia.org/wiki/Category:女装ゲーム "wikilink") [Category:電撃G's_magazine](https://ja.wikipedia.org/wiki/Category:電撃G's_magazine "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")

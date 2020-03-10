@@ -1,0 +1,34 @@
+> この記事は[!KING](https://ja.wikipedia.org/wiki/!KING)から翻訳されています。
+
+
+『**レッツ\!八事ジャスKING**』（レッツ やごとジャスキング）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[テレビ愛知](../Page/テレビ愛知.md "wikilink")で放送された[広報](https://ja.wikipedia.org/wiki/広報 "wikilink")番組。ジャスコシティ八事（現・[イオン八事店](../Page/イオン八事店.md "wikilink")）の一社提供。放送時間は毎週日曜 21:54 - 22:00 ([JST](../Page/日本標準時.md "wikilink")) 。
+
+この項目では、その後継番組『**八事バンカラ街道**』（やごとバンカラかいどう）、『**BRAVO**』（ブラヴォー）、『**熱血\!八事先生**』（ねっけつ やごとせんせい）についても触れる。
+
+## 概要
+
+いずれも『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』放送終了後から『[演歌の花道](https://ja.wikipedia.org/wiki/演歌の花道 "wikilink")』放送開始前までのわずかな時間を使って放送されていた[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")である。かつてこの時間帯では[天気予報](../Page/天気予報.md "wikilink")が放送されていたが、ジャスコシティ八事がスポンサーに付いたことからこれを廃し、替わって同敷地内で収録したミニ番組を放送するようになった。司会は、[中京圏](https://ja.wikipedia.org/wiki/中京圏 "wikilink")を拠点に活動する[ローカルタレント](https://ja.wikipedia.org/wiki/ローカルタレント "wikilink")たちが歴任した。
+
+同ジャスコシティ八事の一社提供枠は、番組のリニューアルを繰り返しながらも4年半にわたって続けられていたが、シリーズ最後の番組『熱血\!八事先生』が終了した後は再び天気予報を放送するようになった。さらにその半年後、『[期間限定\!ピカピカ天王洲LIVE](https://ja.wikipedia.org/wiki/期間限定!ピカピカ天王洲LIVE "wikilink")』の同時ネットが開始されたことによって放送枠そのものが消滅した。
+
+## 放送番組一覧
+
+### レッツ\!八事ジャスKING
+
+シリーズ最初のミニ番組で、1995年10月1日から1996年9月29日まで放送。司会は、ジャスKING役の[堀田和則](https://ja.wikipedia.org/wiki/堀田和則 "wikilink")とジャスQUEEN役の[大石まゆみ](https://ja.wikipedia.org/wiki/大石まゆみ "wikilink")が担当。
+
+番組は毎回、堀田たちがジャスコシティ八事の敷地内で収録に協力してくれる来店者を探し出すところから始まっていた。収録への参加に同意した来店者は堀田たちとともに同敷地内で営業する店へ赴き、その店の従業員が出題するクイズに挑戦。全3問のクイズが終了した後、来店者は番組からのプレゼント内容が書かれている大判トランプ3枚の中から先のクイズで正答できた問題の数だけ任意で引くことができた。一般客が往来する敷地内で、司会の2人が国王風の衣装や女王風の衣装に身を包みながら番組を進行させていたのが特徴的だった。
+
+### 八事バンカラ街道
+
+上記『ジャスKING』に続いて放送されたミニ番組で、1996年10月6日から1998年6月28日まで放送。司会は[ボビー宇野が担当](https://ja.wikipedia.org/wiki/ボビー_\(ローカルタレント\) "wikilink")。内容は来店者インタビュー、クイズとは別に、30秒ほどのミニ[コント](../Page/コント.md "wikilink")があった。
+
+### BRAVO
+
+シリーズ第3期のミニ番組で、1998年7月5日から1998年9月27日まで放送。
+
+### 熱血\!八事先生
+
+シリーズ最後のミニ番組で、1998年10月4日から2000年3月26日まで放送。司会はボビー宇野が担当。
+
+[Category:1995年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のテレビ番組_\(日本\) "wikilink") [Category:テレビ愛知の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ愛知の番組の歴史 "wikilink") [Category:テレビ愛知の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビ愛知の情報・ワイドショー番組 "wikilink") [Category:テレビ愛知のミニ番組](https://ja.wikipedia.org/wiki/Category:テレビ愛知のミニ番組 "wikilink") [Category:広報・番組宣伝番組](https://ja.wikipedia.org/wiki/Category:広報・番組宣伝番組 "wikilink") [Category:ローカルテレビ局の一社提供番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の一社提供番組 "wikilink") [Category:ジャスコシティ](https://ja.wikipedia.org/wiki/Category:ジャスコシティ "wikilink")

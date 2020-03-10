@@ -1,0 +1,175 @@
+> この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
+
+
+<div class="pathnavbox">
+
+  -   -
+      -
+
+</div>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong><a href="../Page/スーパー戦隊Vシネマ.md" title="wikilink">スーパー戦隊OVシリーズ</a></strong><br />
+VSシリーズ</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>第1作</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>第2作</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>第3作</strong></p></td>
+</tr>
+</tbody>
+</table>
+
+『**激走戦隊カーレンジャーVSオーレンジャー**』は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に発売された、[東映](../Page/東映.md "wikilink")・[東映ビデオ](../Page/東映ビデオ.md "wikilink")制作のオリジナルビデオ作品。
+
+## 概要
+
+[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")『[激走戦隊カーレンジャー](../Page/激走戦隊カーレンジャー.md "wikilink")』のオリジナルビデオ作品であり、前作『[超力戦隊オーレンジャー オーレVSカクレンジャー](../Page/超力戦隊オーレンジャー_オーレVSカクレンジャー.md "wikilink")』に端を発した[スーパー戦隊OVシリーズの第](../Page/スーパー戦隊Vシネマ.md "wikilink")2弾に当たる。前作と同様、本作品もスーパー戦隊シリーズ前作『[超力戦隊オーレンジャー](../Page/超力戦隊オーレンジャー.md "wikilink")』とのクロスオーバー作品として制作されており、本作品からは2大戦隊の巨大ロボも共演するようになる。『カーレンジャー』テレビシリーズに比定すると、暴走皇帝エグゾスが登場する第37話以降、ゾンネットの帰郷に関連する第45話より前にあたると思われる。
+
+2大戦隊共に互いの存在を知らず、またレッドレーサーはマシン帝国バラノイアを知らなかったために騒動に繋がり、さらにオーレッドも宇宙暴走族ボーゾックを知らずに加勢した彼らを自分たちの味方だと勘違いするという展開も含め、主体となる『カーレンジャー』のコミカル且つ強烈な作風が『オーレンジャー』をすっかり呑み込んでおり、三浦参謀長役の[宮内洋](../Page/宮内洋.md "wikilink")も当初は「こんな戦隊はおかしい\!」と戸惑いを隠せなかった。しかし[坂本太郎監督に説き伏せられて悩みながら参加するうちにカーレンジャーを理解し](https://ja.wikipedia.org/wiki/坂本太郎_\(テレビドラマ監督\) "wikilink")、それからは楽しそうに演じるようになったという。
+
+上記したナンセンスな作風は、『カーレンジャー』テレビシリーズの脚本も務めた[浦沢義雄](https://ja.wikipedia.org/wiki/浦沢義雄 "wikilink")の腕によるところが大きいが、ヒーローというジャンルにもキャラクターにも愛着がなく、ただ面白いことだけをやりたいという姿勢の浦沢にとって、戦隊同士の共演作品は人物が多すぎて不自由な思いをするものだった。宮内を登場させることも含めて、[髙寺成紀プロデューサーの意向や発想を反映した作品だったと浦沢は語っている](https://ja.wikipedia.org/wiki/高寺重徳 "wikilink")。
+
+## あらすじ
+
+ボーゾックは暴走車が不足していた。それを聞いた暴走皇帝エグゾスは車両が家出したくなるガソリンをボーゾックに提供し、ボーゾック一のガソリンスタンド店員・**SSスタタンゾ**がその任務のために現れ、チーキュ（地球）の自動車にガソリンを仕込んでいた。
+
+一方、陣内恭介 / レッドレーサーはオーレンジャーに追われるマシン獣**バラモビル**と遭遇する。星野吾郎 / オーレッドが U.A.O.H（国際空軍・オーレンジャー）であることを明かしても、恭介は「UAOH（うあおー）?\[1\]」と理解できず、見た目で善悪を判断するのは良くないと考えてバラモビルをかばおうとする。2大戦隊は巨大ロボまで繰り出して衝突し、そのうえボーゾックがオーレンジャーの加勢に入ったため事態は混迷の一途をたどる。紆余曲折の末バラモビルとボーゾックは手を組み、吾郎はSSスタタンゾの力でさらわれてしまう。
+
+吾郎救出のため、カーレンジャーはオーレンジャーの三浦参謀長による超過酷な特訓を受ける。過酷な訓練を通じてオーレンジャーロボを操縦できる技術を身につけたカーレンジャーは、バリバリアンに突入して吾郎を奪還する。バラモビル・SSスタタンゾとの最終決戦には暴走皇帝エグゾスも介入してくるが、そこへシグナルマンが助勢に入り、2大戦隊は勝利するのだった。
+
+## オリジナルキャラクター
+
+  - SS（スタスタ）スタタンゾ
+    ボーゾック一のガソリンスタンド店員。語尾に「スタタンゾ」を付けて話す。エグゾスが用意した「家出したくなるガソリン」をたくさんの地球の車に給油し、バリバリアンに連れて暴走車に改造する作戦を展開した。しかしシグナルマンによる「[ふるさと](../Page/故郷_\(唱歌\).md "wikilink")」を聞いた車が、故郷を恋しがってチーキュへ戻っていったため失敗し、一旦バリバリアンに撤退する。
+    この失態は大きく、エグゾスから電撃によるお仕置きを食らい悔しがっていたものの、後に**SSスタタンゾ（ハイオク）**にパワーアップし、カーレンジャーに再挑戦する。パワーアップ後はガソリンの能力が向上しており、さらに自らのガソリンを炎に変える力を身につけた。「ふるさと」を歌い終わる間もなく給油したジェッターマシンに搭乗したオーレッドをバリバリアンへ拉致していった。最期はVRVロボのビクトリーツイスターによって倒された。
+    デザインは野崎明が担当した\[2\]。強化後のデザインはなく、現場処理による\[3\]。
+  - バラモビル
+    バラノイア最後の生き残りのマシン獣。車と人間を合成した車人間を大量生産させ、マシン帝国に取って代わる「車人間帝国」を建造し、全宇宙を征服しようと企む。武器は眼からのビームと歯車。また、頭のギアを高速回転させることで単独で巨大化できる能力を持つ。巨大化後は剣を持つ。
+    オーレンジャーとの戦いでついた傷を癒すため湯の小屋温泉にいたところ、恭介と出会いオーレンジャーから助けてもらう。後で彼が悪人だということがわかり、オーレンジャーに引き渡されかけたがボーゾックによってバリバリアンに連れて行かれ、同じ悪であるボーゾックと手を組む。最期はオーレンジャーロボのクラウンファイナルクラッシュで倒された。
+    デザインは[阿部統](https://ja.wikipedia.org/wiki/阿部統 "wikilink")が担当した\[4\]。阿部はバッカスフンドの親類という想定でデザインしている\[5\]。
+  - ノリシロン-増刊
+    エグゾスが特別に発行した宇宙ランド増刊号の特別付録である赤い巨大ロボットで、割りピンと糊で作られた組み立て済みの状態でSSスタタンゾたちの援護のために地球に届けられた。無人で動き、ビームが出せる角を武器とする。VRVロボとオーレンジャーロボを襲撃し、流れをボーゾック側に変えるが、サイレンダーが加勢して3対3になり、最期はサイレンダーのサイレンバルカンで倒された。
+    デザインは野崎明が担当した\[6\]。色と胸の文字以外はノリシロン12とほぼ同じ形状である\[7\]。
+
+## スタッフ
+
+  - プロデューサー：[髙寺成紀](https://ja.wikipedia.org/wiki/高寺重徳 "wikilink")（東映）、[加藤和夫](../Page/加藤和夫.md "wikilink")（東映ビデオ）
+  - 原作：[八手三郎](../Page/八手三郎.md "wikilink")　
+  - 連載：[テレビマガジン](https://ja.wikipedia.org/wiki/テレビマガジン "wikilink")、[てれびくん](https://ja.wikipedia.org/wiki/てれびくん "wikilink")、[テレビランド](https://ja.wikipedia.org/wiki/テレビランド "wikilink")
+  - 監督：[坂本太郎](https://ja.wikipedia.org/wiki/坂本太郎_\(テレビドラマ監督\) "wikilink")
+  - 脚本：[浦沢義雄](https://ja.wikipedia.org/wiki/浦沢義雄 "wikilink")
+  - 撮影：[いのくままさお](https://ja.wikipedia.org/wiki/いのくままさお "wikilink")
+  - 音楽：[佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink")、[横山菁児](https://ja.wikipedia.org/wiki/横山菁児 "wikilink")
+  - アクション監督：[J.ムラカミ](https://ja.wikipedia.org/wiki/村上潤 "wikilink")（[ジャパンアクションクラブ](https://ja.wikipedia.org/wiki/ジャパンアクションエンタープライズ "wikilink")）
+  - 助監督：[竹本昇](https://ja.wikipedia.org/wiki/竹本昇 "wikilink")　
+  - 制作：東映、[東映ビデオ](../Page/東映ビデオ.md "wikilink")
+
+## キャスト
+
+  - 陣内恭介 / レッドレーサー（声）：[岸祐二](https://ja.wikipedia.org/wiki/岸祐二 "wikilink")
+  - 土門直樹 / ブルーレーサー（声）：[増島愛浩](https://ja.wikipedia.org/wiki/増島愛浩 "wikilink")
+  - 上杉実 / グリーンレーサー（声）：[福田佳弘](https://ja.wikipedia.org/wiki/福田佳弘 "wikilink")
+  - 志乃原菜摘 / イエローレーサー（声）：[本橋由香](https://ja.wikipedia.org/wiki/本橋由香 "wikilink")
+  - 八神洋子 / ピンクレーサー（声）：[来栖あつこ](https://ja.wikipedia.org/wiki/来栖あつこ "wikilink")
+  - 星野吾郎 / オーレッド（声）：[宍戸勝](https://ja.wikipedia.org/wiki/宍戸勝 "wikilink")
+  - 四日市昌平 / オーグリーン（声）：[正岡邦夫](https://ja.wikipedia.org/wiki/正岡邦夫 "wikilink")
+  - 三田祐司 / オーブルー（声）：[合田雅吏](../Page/合田雅吏.md "wikilink")
+  - 二条樹里 / オーイエロー（声）：[穂高あゆみ](https://ja.wikipedia.org/wiki/穂高あゆみ "wikilink")
+  - 丸尾桃 / オーピンク（声）：[さとう珠緒](https://ja.wikipedia.org/wiki/さとう珠緒 "wikilink")
+  - 三浦尚之参謀長：[宮内洋](../Page/宮内洋.md "wikilink")
+  - 美女ゾンネット：[七瀬理香](https://ja.wikipedia.org/wiki/七瀬理香 "wikilink")
+
+### 声の出演
+
+  - ダップ：[まるたまり](https://ja.wikipedia.org/wiki/まるたまり "wikilink")
+  - シグナルマン・ポリス・コバーン：[大塚芳忠](https://ja.wikipedia.org/wiki/大塚芳忠 "wikilink")
+  - 総長ガイナモ：[大竹宏](../Page/大竹宏.md "wikilink")
+  - 副長ゼルモダ：[津久井教生](https://ja.wikipedia.org/wiki/津久井教生 "wikilink")
+  - 発明家グラッチ：[長嶝高士](https://ja.wikipedia.org/wiki/長嶝高士 "wikilink")
+  - 暴走皇帝エグゾス：[小林修](https://ja.wikipedia.org/wiki/小林修_\(声優\) "wikilink")
+  - SSスタタンゾ：[高戸靖広](https://ja.wikipedia.org/wiki/高戸靖広 "wikilink")
+  - バラモビル：[渡部猛](https://ja.wikipedia.org/wiki/渡部猛 "wikilink")
+
+### スーツアクター
+
+  - レッドレーサー、オーレッド、RVロボ、VRVロボ、オーレンジャーロボ、総長ガイナモ - [横山一敏](https://ja.wikipedia.org/wiki/横山一敏 "wikilink")
+  - ブルーレーサー、オーレンジャーロボ - [竹内康博](https://ja.wikipedia.org/wiki/竹内康博 "wikilink")
+  - グリーンレーサー - [大藤直樹](https://ja.wikipedia.org/wiki/大藤直樹 "wikilink")
+  - [大林勝](https://ja.wikipedia.org/wiki/大林勝 "wikilink")
+  - [中川素州](https://ja.wikipedia.org/wiki/中川素州 "wikilink")
+  - [田邊智恵](https://ja.wikipedia.org/wiki/田邊智恵 "wikilink")
+  - バラモビル - [蜂須賀祐一](https://ja.wikipedia.org/wiki/蜂須賀祐一 "wikilink")
+  - [福沢博文](https://ja.wikipedia.org/wiki/福沢博文 "wikilink")
+  - [森美昭](https://ja.wikipedia.org/wiki/森美昭 "wikilink")
+  - [伊藤慎](https://ja.wikipedia.org/wiki/伊藤慎 "wikilink")
+  - [神尾直子](https://ja.wikipedia.org/wiki/神尾直子 "wikilink")
+  - シグナルマン - [O-BITOH](https://ja.wikipedia.org/wiki/O-BITOH "wikilink")
+  - [中川清人](https://ja.wikipedia.org/wiki/中川清人 "wikilink")
+  - [村上利恵](https://ja.wikipedia.org/wiki/村上利恵 "wikilink")
+
+## 音楽
+
+  - 主題歌
+
+:; オープニングテーマ「激走戦隊カーレンジャー 〜フルアクセルヴァージョン〜」
+
+:: 作詞：[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") / 作曲：小路隆 / 編曲：[奥慶一](https://ja.wikipedia.org/wiki/奥慶一 "wikilink") / 歌：[高山成孝](https://ja.wikipedia.org/wiki/高山成孝 "wikilink")
+
+:; エンディングテーマ 「天国サンバ」
+
+  -
+
+      -
+        作詞：森雪之丞 / 作曲・編曲：小路隆 / 歌：高山成孝
+
+  - 挿入歌
+
+:; 「絶対勝利だ！VRV」
+
+  -
+
+      -
+        作詞：小泉卓 / 作曲・編曲：佐橋俊彦 / 歌：[坂井紀雄](https://ja.wikipedia.org/wiki/坂井紀雄 "wikilink")
+
+## メディア
+
+  - 1997年3月14日：VHSレンタル開始。
+  - 1997年3月21日：レーザーディスク発売。
+  - 1997年7月21日：VHS発売。
+  - 2001年2月21日：DVD発売\[8\]。
+  - 2016年3月23日：ブルーレイディスク発売（スーパー戦隊 V CINEMA\&THE MOVIE Blu-ray BOX 1996‐2005に収録 ）。
+  - 2019年2月6日：ブルーレイディスク分割発売開始（スーパー戦隊 V CINEMA\&THE MOVIE Blu-ray 1996‐1998に収録 ）。
+
+## 脚注
+
+### 注釈
+
+<references group="注" />
+
+### 出典
+
+<references />
+
+## 参考文献
+
+  -
+  -
+  -
+  -
+[Category:スーパー戦隊シリーズのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:スーパー戦隊シリーズのクロスオーバー作品 "wikilink") [Category:スーパー戦隊Vシネマ](https://ja.wikipedia.org/wiki/Category:スーパー戦隊Vシネマ "wikilink") [Category:巨大ロボットを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材とした映画作品 "wikilink")
+
+1.  この誤読ネタは『[海賊戦隊ゴーカイジャー](https://ja.wikipedia.org/wiki/海賊戦隊ゴーカイジャー "wikilink")』第31話でも使用された。
+2.
+3.
+4.
+5.
+6.
+7.
+8.

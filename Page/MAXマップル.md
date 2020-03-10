@@ -1,0 +1,67 @@
+> この記事は[MAX](https://ja.wikipedia.org/wiki/MAX)から翻訳されています。
+
+
+**MAXマップル（まっくすマップル）**とは、一般普通乗用車を主に対象にした[昭文社](https://ja.wikipedia.org/wiki/昭文社 "wikilink")の発行する地方別[道路地図](https://ja.wikipedia.org/wiki/道路地図 "wikilink")帳の事である。
+
+## 概要
+
+冊子タイプの製本で、サイズはA4判である。
+
+[縮尺](https://ja.wikipedia.org/wiki/縮尺 "wikilink")は、全日本、[東日本](https://ja.wikipedia.org/wiki/東日本 "wikilink")、[西日本](https://ja.wikipedia.org/wiki/西日本 "wikilink")は1：20万（但し、全日本、東日本は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の範囲は1:30万）。地方別版の北海道は、主要部1：10万で、それ以外は1：20万。東北〜九州･沖縄は1：10万。（ただし[小笠原諸島](../Page/小笠原諸島.md "wikilink")、[隠岐諸島](https://ja.wikipedia.org/wiki/隠岐諸島 "wikilink")、[トカラ列島](../Page/トカラ列島.md "wikilink")は1：20万）
+
+価格は、北海道は1,512円（税込）、全日本が3,456円（税込）、それ以外は2,160円（税込）（[2016年](../Page/2016年.md "wikilink")8月現在）。年に1 - 3回程度発行（増刷）されている。
+
+MAXマップルは、[昭文社](https://ja.wikipedia.org/wiki/昭文社 "wikilink")独自の地図情報システム｢[SiMAP](../Page/SiMAP.md "wikilink")｣を用いて、コンピューター製版で製作されている。
+
+一部の｢[スーパーマップル](../Page/スーパーマップル.md "wikilink")｣や｢ライトマップル｣、「GIGAマップルでっか字道路地図」、「[県別マップル](https://ja.wikipedia.org/wiki/県別マップル "wikilink")」などで、同一の図式が一部ページにおいて用いられているものがある。
+
+これの類似商品として、[マップルリング](https://ja.wikipedia.org/wiki/マップルリング "wikilink")シリーズもある。マップルリングは地方別の地図をリング綴じにした上で一部を1：20万広域図（九州・沖縄の島興部は1：25万や1：30万）に変更し1：3万主要都市図、大都市詳細図を追加したもの。こちらは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")版をもって休刊。
+
+全日本版では巻末に「全国地区別高速道路網図」が設けられ、国内7大都市（札幌・仙台・東京・名古屋・大阪・広島・福岡）から各地区目的地までの経路が二通りある場合に最短経路が選べるよう「経路分水嶺」マークが書かれている。
+
+## MAXマップルの改訂
+
+｢MAXマップル｣シリーズの創設は[2001年](../Page/2001年.md "wikilink")の版であり、かつて昭文社が発行していた道路地図帳「グランプリ」及び「マップル」シリーズの実質的後継にあたる。その後MAXマップルは[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")版において、全地区版一斉に改版が行われ、第2版となって[2016年](../Page/2016年.md "wikilink")8月現在に至る。この改訂では、活字等が見直された上、文字のサイズが大きくなるなど、図式の一部見直しが行われた。
+
+## MAXマップルシリーズ
+
+[2016年](../Page/2016年.md "wikilink")8月現在、以下の10点が発行されている。
+
+  - 全日本
+  - 東日本（主に中部以東）
+  - 西日本（主に関西以西）
+  - 1.北海道
+  - 2.東北
+  - 3.関東－甲信越・静岡・福島
+  - 4.中部－東海・北陸
+  - 5.関西
+  - 6.中国・四国
+  - 7.九州・沖縄
+
+なお、かつては東・西日本版に加え、[中日本](https://ja.wikipedia.org/wiki/中日本 "wikilink")版もあった。
+
+## 過去に発行されていたシリーズ
+
+### マップルリングシリーズ（2008年限りで廃刊）
+
+  - 北海道
+  - 東北
+  - 関東
+  - 中部
+  - 関西
+  - 中国・四国
+  - 九州・沖縄
+
+## 関連項目
+
+  - [トラックマップル](https://ja.wikipedia.org/wiki/トラックマップル "wikilink")
+  - [県別マップル](https://ja.wikipedia.org/wiki/県別マップル "wikilink")
+  - [スーパーマップル](../Page/スーパーマップル.md "wikilink")
+  - [ツーリングマップル](https://ja.wikipedia.org/wiki/ツーリングマップル "wikilink")
+  - [街の達人](https://ja.wikipedia.org/wiki/街の達人 "wikilink")
+
+## 外部リンク
+
+  - [昭文社『MAXマップルシリーズ』](http://www.mapple.co.jp/publ/max.html)
+
+[Category:日本の地図](https://ja.wikipedia.org/wiki/Category:日本の地図 "wikilink")

@@ -1,0 +1,66 @@
+> この記事は[ \(ISS\)](https://ja.wikipedia.org/wiki/_\(ISS\))から翻訳されています。
+
+
+[thumbで撮影されたズヴェズダ](https://ja.wikipedia.org/wiki/画像:ISS_Zvezda_module.jpg "wikilink")・サービス・モジュール。後部に[プログレス補給船](../Page/プログレス補給船.md "wikilink")がドッキングしている\]\] [thumb](https://ja.wikipedia.org/wiki/画像:Zvezda_Service_Module_under_construction.jpg "wikilink")
+
+**ズヴェズダ**（ Zvezda; ; 「[星](../Page/恒星.md "wikilink")」を意味する）は、[国際宇宙ステーション](../Page/国際宇宙ステーション.md "wikilink") (ISS) を構成するモジュールの一つである。ズヴェズダ・サービス・モジュールとも呼ばれる。ズヴェズダは3番目に打ち上げられたモジュールで、2人の乗員の居住空間や[生命維持装置](https://ja.wikipedia.org/wiki/生命維持装置 "wikilink")などの機能があり、ISS のロシア部分の構造的・機能的な中心となっている。
+
+ズヴェズダを建造したのは[RKKエネルギア](https://ja.wikipedia.org/wiki/RKKエネルギア "wikilink")で、[ピアースを除いて現時点では唯一のロシア資金で建造されたモジュールである](https://ja.wikipedia.org/wiki/ピアース_\(ISS\) "wikilink")（[ザーリャ](../Page/ザーリャ.md "wikilink")はロシアの建造だが、[アメリカが資金提供し所有している](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")）。
+
+## 起源
+
+ズヴェズダの基本的な構造枠組み（ DOS-8 として知られている）は、当初は宇宙ステーションミール2の中核部として1980年代中ごろに建造された。これは、宇宙ステーション[ミール](../Page/ミール.md "wikilink")の[中核モジュール](https://ja.wikipedia.org/wiki/ミール・コアモジュール "wikilink")（DOS-7）とズヴェズダが同じレイアウトであることを意味している。事実ズヴェズダは、工場ではしばらくの間「ミール2」と呼ばれていた。ゆえにこのデザイン系統は、初代の宇宙ステーション[サリュート](https://ja.wikipedia.org/wiki/サリュート "wikilink")にまで遡ることができる。立体骨組は1985年2月に完成し、内部の主な機器は1986年10月までに設置された。
+
+## 構造
+
+ズヴェズダは、（後方から順に説明すると）ドッキング・ポートが1つある円筒形の「移送チャンバ (Transfer Chamber) 」、移送チャンバの周りにある非与圧の「組立区画 (Assembly Compartment) 」、乗員が作業し居住する円筒形の「作業区画 (Work Compartment) 」、ドッキング・ポートが3つある球形の「移送区画 (Transfer Compartment) 」からなる。
+
+**移送チャンバ**には、[ソユーズ](https://ja.wikipedia.org/wiki/ソユーズ "wikilink")宇宙船、[プログレス補給船](../Page/プログレス補給船.md "wikilink")、[欧州補給機](https://ja.wikipedia.org/wiki/欧州補給機 "wikilink")とのドッキングに使われるドッキング機構がある。
+
+**組立区画**には、スラスタやアンテナや推進剤タンクなどの外部設備が装備されている。
+
+**移送区画**は[ザーリャ](../Page/ザーリャ.md "wikilink")モジュールに接続し、残りのドッキング・ポートには[科学電力プラットフォーム](https://ja.wikipedia.org/wiki/科学電力プラットフォーム "wikilink") (SPP) と[汎用ドッキングモジュール](https://ja.wikipedia.org/wiki/汎用ドッキングモジュール "wikilink") (UDM) が接続されることになっていた。現在は、下のポートにはロシアのドッキング室[ピアースが接続され](https://ja.wikipedia.org/wiki/ピアース_\(ISS\) "wikilink")、もう一方の上側のポートには2009年11月に[ミニ・リサーチ・モジュール2](https://ja.wikipedia.org/wiki/ミニ・リサーチ・モジュール2 "wikilink")(MRM-2)がドッキングする。この移送区画は、[エアロック](../Page/エアロック.md "wikilink")として使うこともでき、ピアースとMRM-2の到着準備のために過去に2回の船内EVA（この区画内を減圧し、宇宙服を着たクルーが作業を実施）が行われている。
+
+**作業区画**には2人の宇宙飛行士用の寝室(個室)、[NASA](../Page/アメリカ航空宇宙局.md "wikilink") から提供されたトレーニング用の[トレッドミル](https://ja.wikipedia.org/wiki/トレッドミル "wikilink")「TVIS」（ランニングマシーン）とエアロバイク「Velo」、トイレなどの衛生施設や調理設備、飲料水供給設備がある。誘導や航法用に使われるロシアのコンピュータも搭載されている。合計で14個の窓があり、前方の移送区画に直径9インチの窓が3つ、作業区画に16インチの窓が1つ、各個室に1つずつ、などである。また、廃水や空気中の水蒸気を凝縮して得られた水を電気分解して[酸素](../Page/酸素.md "wikilink")を生成する[エレクトロンシステムも搭載されている](../Page/エレクトロン_\(ISS\).md "wikilink")。副生成物となる水素は船外に投棄され、酸素は呼吸に使われる。凝縮[水](../Page/水.md "wikilink")は再処理する事で飲むこともできる。
+
+エレクトロンシステムはメンテナンス作業が重要で何度か故障したこともあり、故障が長時間に及んだ時には固体燃料酸素発生装置 ([Solid Fuel Oxygen Generation](https://ja.wikipedia.org/wiki/:en:chemical_oxygen_generator "wikilink")) キャニスター（一般には「酸素発生キャンドル」と呼ばれ、ミールの火災原因にもなった）を使わねばならなくなった。船内の空気から[二酸化炭素](../Page/二酸化炭素.md "wikilink")を除去するヴォズドゥフ (Vozdukh) システムも含まれている。ズヴェズダは著しい騒音が問題となっており、船内では乗員が耳栓をしているのがよく見られる。このため、防音設備を順次運んで設置したため、当初よりは騒音レベルは下がった。
+
+これらの居住空間やシステムは、将来の ISS 構成要素で補完されるか置き換えられることになっていたが、居住空間に関してはアメリカの[居住モジュール](https://ja.wikipedia.org/wiki/居住モジュール "wikilink")がキャンセルされたため、組立が完成してもロシア人クルーの居住の為の設備はズヴェズダが担う。
+
+ズヴェズダには16基の小型スラスタと、2基の推進用大型スラスタ、8基のバッテリーが装備されている。2基の推進用大型スラスタを使って ISS の高度を上げることができ、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月25日](../Page/4月25日.md "wikilink")に実施された。2000年にズヴェズダが到着して以来、このエンジンを噴射したのはこれが初めてであった\[1\]。
+
+## ISS への接続
+
+[thumb](https://ja.wikipedia.org/wiki/画像:Unity-Zarya-Zvezda_STS-106.jpg "wikilink") ズヴェズダは[2000年](../Page/2000年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")に[プロトンロケットで打ち上げられた](https://ja.wikipedia.org/wiki/プロトン_\(ロケット\) "wikilink")。打ち上げに使われたロケットには、初の[宇宙広告](https://ja.wikipedia.org/wiki/宇宙広告 "wikilink") ([Space advertising](https://ja.wikipedia.org/wiki/:en:Space_advertising "wikilink")) の一つである[ファーストフード](../Page/ファーストフード.md "wikilink")チェーン・[ピザハット](https://ja.wikipedia.org/wiki/ピザハット "wikilink")の[ロゴが描かれていて](https://ja.wikipedia.org/wiki/ロゴタイプ "wikilink")、同社はこの広告に100万[ドルを支払った](../Page/アメリカ合衆国ドル.md "wikilink")。
+
+2000年7月26日に、ザーリャの後部へズヴェズダがドッキングし、 ISS で3番目の構成要素となった（ザーリャへはアメリカの[ユニティモジュールが接続済みであった](../Page/ユニティ_\(ISS\).md "wikilink")）。7月中には、ザーリャのコンピュータからズヴェズダのコンピュータへ ISS の指揮機能が引き渡された\[2\]。
+
+2000年9月11日に[スペースシャトル](../Page/スペースシャトル.md "wikilink") [STS-106](https://ja.wikipedia.org/wiki/STS-106 "wikilink") が軌道上に到着し、エド・ルーとユーリ・マレンチェンコの両飛行士が6時間14分の[船外活動](https://ja.wikipedia.org/wiki/船外活動 "wikilink") (EVA) を行ない、電力線を4本、ビデオケーブルとデータケーブルを4本、光ファイバーテレメトリーケーブルを1本、ズヴェズダとザーリャ間で合計9本のケーブルをつなぎズヴェズダとザーリャの最終的な接続が完了した\[3\]。翌日の9月12日午前12時20分 CDTには、STS-106乗組員が初めてズヴェズダの内部に入った\[4\]。
+
+ズヴェズダの接続で初期段階の居住空間、生命維持装置、通信システム、電力供給、データ処理システム、飛行管制システム、推進システムが提供された。これによりISSでの[長期滞在が可能になり第](https://ja.wikipedia.org/wiki/国際宇宙ステーション長期滞在一覧 "wikilink")1次長期滞在クルー3名がソユーズ宇宙船でISSへ向かい2000年11月2日にドッキングし恒久滞在がスタートした。
+
+## 打ち上げ時のリスク
+
+ロシアの財政問題により、ズヴェズダはバックアップも保険も無しで打ち上げられた。そのリスクのため、打ち上げが大幅に遅れたり打ち上げに失敗した場合に備えて、NASA は[暫定制御モジュール](https://ja.wikipedia.org/wiki/暫定制御モジュール "wikilink") (ICM) を建造した。しかしサービス・モジュール無しでは、乗員が恒久的に ISS へ滞在できるようになるためには、さらにもう何回かの飛行が必要となる。
+
+## 仕様
+
+  - 全長 : 13.1m
+  - 最大径 : 4.15m
+  - 質量 : 19,050kg
+  - 太陽電池パネルの全幅 : 29.72m
+  - 電力系統 : [太陽電池](../Page/太陽電池.md "wikilink")
+
+## 出典
+
+## 外部リンク
+
+  - [ズヴェズダ（ロシアのサービスモジュール）](http://iss.jaxa.jp/glossary/jp/su/zvezda.html) -- JAXA
+  - [国際宇宙ステーションの打上げ 1R Zvezda](http://iss.jaxa.jp/iss/1r/) -- JAXA
+
+[Category:国際宇宙ステーション](https://ja.wikipedia.org/wiki/Category:国際宇宙ステーション "wikilink") [Category:2000年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2000年の宇宙飛行 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink")
+
+1.
+2.
+3.
+4.

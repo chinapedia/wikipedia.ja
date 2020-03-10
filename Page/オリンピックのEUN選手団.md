@@ -1,0 +1,83 @@
+> この記事は[EUN](https://ja.wikipedia.org/wiki/EUN)から翻訳されています。
+
+
+**オリンピックのEUN選手団**（オリンピックのイーユーエヌせんしゅだん、）は、[1992年アルベールビルオリンピック](https://ja.wikipedia.org/wiki/1992年アルベールビルオリンピック "wikilink")と[1992年バルセロナオリンピック](https://ja.wikipedia.org/wiki/1992年バルセロナオリンピック "wikilink")に出場した、旧[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[バルト三国](../Page/バルト三国.md "wikilink")を除く[構成12国によって臨時に編成された選手団](https://ja.wikipedia.org/wiki/ソビエト連邦構成共和国 "wikilink")（チーム）である。“**EUN**”は[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で「統一チーム」と言う意味の“”に由来する[国際オリンピック委員会](https://ja.wikipedia.org/wiki/国際オリンピック委員会 "wikilink") (IOC) での[国・地域名コード](https://ja.wikipedia.org/wiki/IOCコード一覧 "wikilink")。
+
+## 概要
+
+EUNが結成されたのは、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")の[ソ連崩壊](https://ja.wikipedia.org/wiki/ソ連崩壊 "wikilink")直後の事であり、各国の[国内オリンピック委員会](https://ja.wikipedia.org/wiki/国内オリンピック委員会 "wikilink")が、IOCから承認されていなかったためである。EUNは1992年の2つのオリンピックに限定されたチームであり、これより後のオリンピックでは各国独自のオリンピックチームが結成されている。
+
+このチームに関しては、当時の[日本語](../Page/日本語.md "wikilink")報道ではしばしば[独立国家共同体](../Page/独立国家共同体.md "wikilink") (CIS) として言及されていた。しかし、EUN構成国の一つである[ジョージア](../Page/ジョージア_\(国\).md "wikilink")（グルジア）\[1\]が1992年のオリンピック開催時点でCISに加盟していなかったことから\[2\]、当該チームについては「CIS」とせずに中立的な意味合いで「**EUN**」のコードを用いていた経緯がある。そのため「EUN＝CIS」とするのは正しくない。
+
+## メダル獲得数一覧
+
+### 夏季オリンピック
+
+|                                                                         |    |    |    |     |
+| :---------------------------------------------------------------------- | -- | -- | -- | --- |
+| [1992 バルセロナ](https://ja.wikipedia.org/wiki/1992年バルセロナオリンピック "wikilink") | 45 | 38 | 29 | 112 |
+| 合計                                                                      | 45 | 38 | 29 | 112 |
+
+### 冬季オリンピック
+
+|                                                                             |   |   |   |    |
+| :-------------------------------------------------------------------------- | - | - | - | -- |
+| [1992 アルベールビル](https://ja.wikipedia.org/wiki/1992年アルベールビルオリンピック "wikilink") | 9 | 6 | 8 | 23 |
+| 合計                                                                          | 9 | 6 | 8 | 23 |
+
+### 夏季オリンピック競技別
+
+|                                                                        |    |    |    |     |
+| :--------------------------------------------------------------------- | -- | -- | -- | --- |
+| [体操](https://ja.wikipedia.org/wiki/オリンピックの体操競技 "wikilink")             | 9  | 5  | 4  | 18  |
+| [陸上](https://ja.wikipedia.org/wiki/オリンピックの陸上競技 "wikilink")             | 7  | 11 | 3  | 21  |
+| [レスリング](https://ja.wikipedia.org/wiki/オリンピックのレスリング競技 "wikilink")       | 6  | 5  | 5  | 16  |
+| [競泳](https://ja.wikipedia.org/wiki/オリンピックの競泳競技 "wikilink")             | 6  | 3  | 1  | 10  |
+| [重量挙げ](https://ja.wikipedia.org/wiki/オリンピックのウエイトリフティング競技 "wikilink")   | 5  | 4  | 0  | 9   |
+| [射撃](https://ja.wikipedia.org/wiki/オリンピックの射撃競技 "wikilink")             | 5  | 2  | 1  | 8   |
+| [柔道](https://ja.wikipedia.org/wiki/オリンピックの柔道競技 "wikilink")             | 2  | 0  | 2  | 4   |
+| [フェンシング](https://ja.wikipedia.org/wiki/オリンピックのフェンシング競技 "wikilink")     | 1  | 2  | 2  | 5   |
+| [カヌー](https://ja.wikipedia.org/wiki/オリンピックのカヌー競技 "wikilink")           | 1  | 1  | 0  | 2   |
+| [ハンドボール](https://ja.wikipedia.org/wiki/オリンピックのハンドボール競技 "wikilink")     | 1  | 0  | 1  | 2   |
+| [新体操](https://ja.wikipedia.org/wiki/オリンピックの体操競技#新体操 "wikilink")        | 1  | 0  | 1  | 2   |
+| [バスケットボール](https://ja.wikipedia.org/wiki/オリンピックのバスケットボール競技 "wikilink") | 1  | 0  | 0  | 1   |
+| [飛び込み](https://ja.wikipedia.org/wiki/オリンピックの飛込競技 "wikilink")           | 0  | 2  | 1  | 3   |
+| [ボクシング](https://ja.wikipedia.org/wiki/オリンピックのボクシング競技 "wikilink")       | 0  | 1  | 1  | 2   |
+| [近代五種](https://ja.wikipedia.org/wiki/オリンピックの近代五種競技 "wikilink")         | 0  | 1  | 1  | 2   |
+| [バレーボール](https://ja.wikipedia.org/wiki/オリンピックのバレーボール競技 "wikilink")     | 0  | 1  | 0  | 1   |
+| [アーチェリー](https://ja.wikipedia.org/wiki/オリンピックのアーチェリー競技 "wikilink")     | 0  | 0  | 2  | 2   |
+| [テニス](../Page/オリンピックのテニス競技.md "wikilink")                              | 0  | 0  | 2  | 2   |
+| [水球](https://ja.wikipedia.org/wiki/オリンピックの水球競技 "wikilink")             | 0  | 0  | 1  | 1   |
+| [ボート](https://ja.wikipedia.org/wiki/オリンピックのボート競技 "wikilink")           | 0  | 0  | 1  | 1   |
+| 合計                                                                     | 45 | 38 | 29 | 112 |
+
+### 冬季オリンピック競技別
+
+|                                                                                |   |   |   |    |
+| :----------------------------------------------------------------------------- | - | - | - | -- |
+| [クロスカントリースキー](https://ja.wikipedia.org/wiki/オリンピックのクロスカントリースキー競技 "wikilink")   | 3 | 2 | 4 | 9  |
+| [フィギュアスケート](../Page/オリンピックのフィギュアスケート競技.md "wikilink")                          | 3 | 1 | 1 | 5  |
+| [バイアスロン](https://ja.wikipedia.org/wiki/オリンピックのバイアスロン競技 "wikilink")             | 2 | 2 | 2 | 6  |
+| [アイスホッケー](https://ja.wikipedia.org/wiki/オリンピックのアイスホッケー競技 "wikilink")           | 1 | 0 | 0 | 1  |
+| [フリースタイルスキー](https://ja.wikipedia.org/wiki/オリンピックのフリースタイルスキー競技 "wikilink")     | 0 | 1 | 0 | 1  |
+| [ショートトラック](https://ja.wikipedia.org/wiki/オリンピックのショートトラックスピードスケート競技 "wikilink") | 0 | 0 | 1 | 1  |
+| 合計                                                                             | 9 | 6 | 8 | 23 |
+
+## 備考
+
+オリンピックと同年に開催された冬季と夏季の[パラリンピック](https://ja.wikipedia.org/wiki/パラリンピック "wikilink")でもEUNが編成されている。[アルベールビル大会](https://ja.wikipedia.org/wiki/アルベールビルパラリンピック "wikilink")、[バルセロナ大会ともCIS未加盟だったジョージア以外の](https://ja.wikipedia.org/wiki/バルセロナパラリンピック "wikilink")11国が参加する合同チームとして編成された。
+
+同年に開催された[UEFA EURO '92では](https://ja.wikipedia.org/wiki/UEFA_EURO_'92 "wikilink")[ソビエト連邦サッカー連盟](https://ja.wikipedia.org/wiki/ソビエト連邦サッカー連盟 "wikilink")の解散に伴い、後継組織として独立国家共同体サッカー連盟（大会終了後に[ロシアサッカー連合](https://ja.wikipedia.org/wiki/ロシアサッカー連合 "wikilink")へ吸収）が組織され[ソビエト連邦代表として出場権を得ていた大会に](https://ja.wikipedia.org/wiki/サッカーソビエト連邦代表 "wikilink")「[CIS代表](https://ja.wikipedia.org/wiki/サッカーCIS代表 "wikilink")」として参加した。同代表チームには当時CIS未加盟だったジョージアからも1名が選出されているが、オリンピックとは異なり連盟が「CIS」を冠していたことを理由に「CIS代表」として登録されている。
+
+## 注釈
+
+## 関連項目
+
+  - [1992年バルセロナオリンピックの独立参加選手団](https://ja.wikipedia.org/wiki/1992年バルセロナオリンピックの独立参加選手団 "wikilink") - [1992年バルセロナオリンピック](https://ja.wikipedia.org/wiki/1992年バルセロナオリンピック "wikilink")の際に旧[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")内の6共和国で結成された混合チーム。
+  - [2000年シドニーオリンピックの個人参加選手団](https://ja.wikipedia.org/wiki/2000年シドニーオリンピックの個人参加選手団 "wikilink") - [2000年シドニーオリンピック](../Page/2000年シドニーオリンピック.md "wikilink")で[東ティモール](../Page/東ティモール.md "wikilink")の選手が個人資格で参加した際のチーム。
+  - [2012年ロンドンオリンピックの独立参加選手団](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックの独立参加選手団 "wikilink") - [2012年ロンドンオリンピック](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピック "wikilink")の際に旧[オランダ領アンティル](../Page/オランダ領アンティル.md "wikilink")と[南スーダン](https://ja.wikipedia.org/wiki/南スーダン "wikilink")の選手によって結成された混合チーム。
+
+[Category:オリンピックのEUN選手団](https://ja.wikipedia.org/wiki/Category:オリンピックのEUN選手団 "wikilink")
+
+1.  日本では2015年4月から政府の[外名](https://ja.wikipedia.org/wiki/外名 "wikilink")変更を受けて「ジョージア」に呼称が変更されているが、IOCでは[国内委員会の加盟当初から一貫してIOC公用語の](https://ja.wikipedia.org/wiki/ジョージア国内オリンピック委員会 "wikilink")[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")では""（ジェオルジ）、[英語](../Page/英語.md "wikilink")では"Georgia"（ジョージア）の名称である。
+2.  ジョージアはオリンピック開催の翌[1993年](../Page/1993年.md "wikilink")にCISへ加盟し、[2009年](../Page/2009年.md "wikilink")に脱退した。

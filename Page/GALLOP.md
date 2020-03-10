@@ -1,0 +1,37 @@
+> この記事は[GALLOP](https://ja.wikipedia.org/wiki/GALLOP)から翻訳されています。
+
+
+『**GALLOP**』（ギャロップ）は、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")に[アイレム](https://ja.wikipedia.org/wiki/アイレム "wikilink")が発売した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。ジャンルは[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。タイトルでは、「**ARMED POLICE UNIT GALLOP**」と表記される。
+
+シューティングゲームと[レースゲーム](../Page/レースゲーム.md "wikilink")のタイムアタックを融合させた作品。
+
+## 作品解説
+
+当時のアイレムのシューティングゲームは、『[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")』に始まって『[Xマルチプライ](https://ja.wikipedia.org/wiki/Xマルチプライ "wikilink")』や『[ドラゴンブリード](https://ja.wikipedia.org/wiki/ドラゴンブリード "wikilink")』など、多彩な特殊オプションのアイデアを数多く盛り込んできた。 この『GALLOP』では、異なるジャンルである[レースゲーム](../Page/レースゲーム.md "wikilink")とシューティングに融合させるという新たなアイデアを取り入れて変化を持たせた。
+
+本作は『[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")』の外伝的な作品とされており、自機「R-11」は『R-TYPE』の自機「[R-9](https://ja.wikipedia.org/wiki/R-9 "wikilink")」の系譜に属する事が『R-TYPE3』の付属色紙に記載されている。 本来は『[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")』とはまったく異なる世界観で進行された作品であるが、シリーズの正史を現在のものに書き換えた際に、[後付け設定](https://ja.wikipedia.org/wiki/後付け設定 "wikilink")で『[R-TYPE Δ](../Page/R-TYPE_Δ.md "wikilink")』と同時期に起こった物とされている。
+
+ストーリーは、軍が『[R-TYPE Δ](../Page/R-TYPE_Δ.md "wikilink")』の劇中で暴走した局地殲滅兵器「モリッツG」を初めとした軍の兵器や工作機の対応に追われている最中、何らかの理由で地表に落着した「バイドの種子」による大型兵器の暴走事件を鎮圧するために出動した、民間運営の武装警察組織と其処に配備された[R-11](https://ja.wikipedia.org/wiki/R-11 "wikilink")の活躍を描いた物となっている。
+
+当初は『R-TYPE』の世界の出来事との関連は曖昧な表記であったが、アイレムの会報誌ならびに『R-TYPE III』の説明書で『GALLOP』が『R-TYPE』に関連付けられ、『[R-TYPE Δ](../Page/R-TYPE_Δ.md "wikilink")』で描かれた事件「サタニック･ラプソディ」と並ぶ事件「デモンシード･クライシス」として、『R-TYPE』の年表に記されることになった。
+
+## ゲームシステム
+
+8方向レバー+2ボタン（ショット、ロックオンレーザー）で自機R-11を操作する。全5ステージ×2周。
+
+特徴的なのは、レバーの前後に応じてスクロール速度の加減速が可能な点で、自機の加減速を背景で表現している。
+
+さらに、ステージ開始時、及びボス戦時にタイムを計り、クリアタイムに応じてボーナス得点が得られるという、タイムアタックの要素もある。ステージごとにクリアタイムのランキング表示があるため、ネームエントリーはゲーム開始時に行う。 さらに、地形に接触してもサブウェポンが使用できなくなるだけでミスにはならない。ただし、地形に挟まれた場合はミスとなる。
+
+アイテムは、ショットとロックオンレーザーをパワーアップさせる「P」、サブウェポンが発射可能になる青、赤、黄色の「M」、ロックオンレーザーを発射するためのLASERゲージを回復させる「L」の5種類ある。
+
+ロックオンレーザーは、ボタンを押している間LASERゲージを消費して敵に対して確実に命中するレーザー照射を行う。LASERゲージに応じて、レーザーの色が変わる。また、レーザーはスクロール速度を上げている間は威力が上昇する。レーザーはショットのパワーアップと連動しており、最大3本まで発射可能になる。
+
+サブウェポンは、上記のMアイテムを得る事で「ARMS」と書かれた色のついた武装が付き、青は直進するミサイル、赤は斜め下に射出するナパーム、黄は地形を這う小型ミサイルを発射することができるようになる。
+
+## 関連項目
+
+  - [疾風魔法大作戦](https://ja.wikipedia.org/wiki/疾風魔法大作戦 "wikilink")、[スカルファング](https://ja.wikipedia.org/wiki/スカルファング "wikilink") - レースの概念を持たせた縦スクロールSTG。
+  - [R-TYPE Δ](../Page/R-TYPE_Δ.md "wikilink") - [後付け設定](https://ja.wikipedia.org/wiki/後付け設定 "wikilink")では、本作と同時間帯の出来事となっている。
+
+[Category:アイレムのゲームソフト](https://ja.wikipedia.org/wiki/Category:アイレムのゲームソフト "wikilink") [Category:シューティングゲーム](https://ja.wikipedia.org/wiki/Category:シューティングゲーム "wikilink") [Category:1991年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1991年のアーケードゲーム "wikilink")

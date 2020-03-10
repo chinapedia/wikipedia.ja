@@ -1,0 +1,178 @@
+> この記事は[ANA](https://ja.wikipedia.org/wiki/ANA)から翻訳されています。
+
+
+**ANAマイレージクラブ**（エーエヌエーマイレージクラブ、*ANA Mileage Club*、略称：**AMC**）は、[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink") (ANA) グループが提供する[マイレージサービス](../Page/マイレージサービス.md "wikilink")である。
+
+## 概要
+
+会員数は[2011年](../Page/2011年.md "wikilink")1月現在で約2,100万人と\[1\]、日本国内では[日本航空と同グループが提供する](https://ja.wikipedia.org/wiki/日本航空インターナショナル "wikilink")「[JALマイレージバンク](../Page/JALマイレージバンク.md "wikilink") (JMB)」（会員数約2,300万人）に次ぐ会員数を有する\[2\]。
+
+[電子マネー](../Page/電子マネー.md "wikilink")「[Edy](../Page/楽天Edy.md "wikilink")」(現・楽天Edy、以下同じ)を運営する[ビットワレット](https://ja.wikipedia.org/wiki/楽天Edy_\(企業\) "wikilink")(現・楽天Edy)の事業初期に出資し、2003年4月より従来のANAマイレージクラブカードに替わり、Edyを搭載した「ANAマイレージクラブ(楽天)Edyカード」の発行を開始し、市内・空港カウンターでの国内線航空券販売やANA FESTA（[全日空商事](https://ja.wikipedia.org/wiki/全日空商事 "wikilink")）店舗でEdy決済の取り扱いを開始した。その後、個人向けの[ANAカード](https://ja.wikipedia.org/wiki/ANAカード "wikilink")（提携[クレジットカード](../Page/クレジットカード.md "wikilink")）においてもEdyを搭載したものが発行開始され、その後発行している全ての個人向けAMCカード\[3\]にEdyが標準搭載されていた（2017年7月3日までに発行手続きが完了した場合。以降は、再発行を含め、楽天Edyは付かない新様式のカードとなった）。
+
+## スマートeサービス
+
+2004年12月1日よりANAの国内線新搭乗サービス制度として**スマートeサービス**が全国の就航空港で導入された。これはWeb上で事前にeチェックイン手続を行える**スマートeチェックイン**、eチェックイン済みの[eチケット](https://ja.wikipedia.org/wiki/eチケット "wikilink")航空券を自動チェックイン機・自動航空券売機 (ATV) にて搭乗券として発券する**スマートeピックアップ**、マイレージからEdyギフトへの交換や残高照会が行えるMMK端末である**スマートeデータボックス**（現在はANA KIOSK端末へ置換）で構成されている。なお、国際線は同年7月からスマートeチェックインとスマートeピックアップが先行して導入されている。
+
+このうち、国内線のスマートeピックアップは「ANAチケットレスサービス」の一部として従来から提供されており、決済に使用したクレジットカードまたはAMCカードを挿入し磁気ストライプ（カード番号）を機器が読み取るか、ANAが指定した受取番号を手入力することにより自動チェックイン機上で搭乗手続（チェックイン）を行い搭乗券が発券される形態であったが、スマートeピックアップでは従来の方法に加え、Webから印刷あるいはANA[モバイルサイト](https://ja.wikipedia.org/wiki/モバイルサイト "wikilink")で表示した[QRコード](../Page/QRコード.md "wikilink")や、Edyの根幹である[FeliCa](../Page/FeliCa.md "wikilink") ([RFID](../Page/RFID.md "wikilink")) チップのIDを活用し、Edy機能付きAMCカード・ANAカードもしくは、モバイルAMCアプリをインストール済みの[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")（以下、AMC-Edyカード類）をかざす事でもeチェックイン済み搭乗券の発行が行えるようになった。
+
+2006年9月からはスマートeチェックインに代わり、チケットレス予約で事前座席指定済みでかつ、QRコード・AMC-Edyカード類を所持している搭乗者は搭乗口の自動改札機でチェックイン済みの搭乗券を受け取り搭乗する新搭乗サービス「**[SKiPサービス](https://ja.wikipedia.org/wiki/SKiPサービス "wikilink")**」が各地の空港で順次開始され、スマートeチェックインとスマートeピックアップは実質的に撤廃された。
+
+## カードの種類
+
+### 会員証機能のみ
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:AMC-Card.jpg "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")まで発行されたANAマイレージクラブカード（スターアライアンス加盟前に発行された最初期のデザイン）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:AMC_mileage_card.jpg "wikilink")
+
+  - ANAマイレージクラブカード
+    1997年4月の現サービス開始から2003年3月にかけて発行された[クレジットカードサイズの会員証で](https://ja.wikipedia.org/wiki/ISO/IEC_7810 "wikilink")、[磁気ストライプ](https://ja.wikipedia.org/wiki/磁気ストライプ "wikilink")のみ搭載されている。
+    航空券の予約時に会員番号をあらかじめ登録しておけば、Webサイトおよび発券端末から航空券と紐付けされた予約情報の照会や、自動チェックイン機にカードを通すことで搭乗券の発券（ピックアップ）が可能である（他の航空会社のカードも同等）。
+    このカード**単体**ではSkipサービスの利用は出来ない（自動チェックイン機で発行するeチケットお客様控えのQRコードを利用するか、モバイルAMCアプリなどFelica媒体を使用する手段がある）。
+      -
+        1999年中盤までに発行されたカードにはカード表面左上に【All Nippon Airways】、右下に【ANA/全日空】の表記があり、同年後半の[スターアライアンス](../Page/スターアライアンス.md "wikilink")加盟後はカード右上に[スターアライアンス](../Page/スターアライアンス.md "wikilink")のマークが付けられている。
+        会員からの申し出がなければANAマイレージクラブEdyカードへの切り替えは行われない。
+        [2017年](../Page/2017年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")発行受け付け分からは、縦長のもので、磁気ストライプに代わって、表面中央に[QRコード](../Page/QRコード.md "wikilink")が配置された新様式のカードとなり、同時にカードの材質も、プラスチックから再生PET材に変更された（再発行分を含む）。素材変更後は、上記のQRコードを読み取らせることにより[Skipサービス](https://ja.wikipedia.org/wiki/Skipサービス "wikilink")対応となった。
+  - ANAマイレージクラブEdyカード
+    FeliCaが内蔵され、電子マネー「Edy」（発行会社は[ソニーファイナンスインターナショナル](https://ja.wikipedia.org/wiki/ソニーファイナンスインターナショナル "wikilink")だった。現在は[楽天Edyに継承されている](https://ja.wikipedia.org/wiki/楽天Edy_\(企業\) "wikilink")）が標準搭載されている。FeliCaは[Skipサービス](https://ja.wikipedia.org/wiki/Skipサービス "wikilink")・旧スマートeピックアップの認証用途としての機能もあわせ持つ。カード発行手数料（500円）がかかるが、無料キャンペーンが頻繁に実施されていた。[2017年](../Page/2017年.md "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")受付分を以て発行停止となり、以降は障害や紛失等の理由で再発行が必要な場合であっても、楽天Edyが付かない、上記新様式の「ANAマイレージクラブカード」が発行される。その場合の[Skipサービス](https://ja.wikipedia.org/wiki/Skipサービス "wikilink")の利用も、[QRコード](../Page/QRコード.md "wikilink")など、他の手段で行うことになる。
+
+### キャッシュカード一体型
+
+  - ANAマイレージクラブ Financial Passカード
+    [スルガ銀行](../Page/スルガ銀行.md "wikilink")ANA支店の[キャッシュカード](../Page/キャッシュカード.md "wikilink")一体型カード。以前は、Edy内蔵で、スキップサービス対応となっていたが、現在は、専用デザインの[SURUGA VISAデビットカードとなっている](https://ja.wikipedia.org/wiki/SURUGA_VISAデビットカード "wikilink")([楽天Edy](../Page/楽天Edy.md "wikilink")は利用不可、旧カード時代は、VISAデビットは無料オプションで、AMC付のキャッシュカード本体とは別途のデビット機能専用カードが発行された)。既存の会員がANA支店に口座開設する場合、クレジット一体型のカードをすでに保有している場合を除き、会員番号が変更される（ただし、保有マイルは新会員番号へそのまま移行される）。
+  - ANAマイレージクラブ 郵貯カード
+    [日本郵政公社](../Page/日本郵政公社.md "wikilink")の<span aria-label="ぱるる">[ぱ・る・る](https://ja.wikipedia.org/wiki/ぱ・る・る "wikilink")</span>（通常貯金）の[キャッシュカード](../Page/キャッシュカード.md "wikilink")とAMCが一体した[郵便貯金共用カード](https://ja.wikipedia.org/wiki/郵便貯金共用カード "wikilink")。Edyは付帯されておらず、必要であれば別途AMC-Edyカードの申込が必要であった。特徴としてANA公式サイトおよびオペレーター電話窓口による国内線航空券購入の支払が、<span aria-label="ぱるる">ぱ・る・る</span>口座の[自動払込み機能での決済によりチケットレス購入が可能な](https://ja.wikipedia.org/wiki/郵便振替 "wikilink")「郵貯即日決済サービス」に対応している点があった。ANA一般カードと一体化された「ANAカード郵貯VISA・JCB」も発行されていた。[郵政民営化](https://ja.wikipedia.org/wiki/郵政民営化 "wikilink")によって2007年7月31日を以って新規受付終了。また郵貯即日決済は2008年8月29日16時をもって終了した。さらに同年10月31日をもって提携が終了した\[4\]。
+
+### クレジットカード一体型
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:150307_ANA_Diners_Super_Flyers_Premium_Card01s.jpg "wikilink")\]\] ※ANAカードとは異なり、あくまで提携先のクレジットカード機能に「ANAマイレージクラブEdyカード」が組み合わさったものに過ぎない。
+
+  - みずほマイレージクラブカード/ANA
+    [みずほ銀行](../Page/みずほ銀行.md "wikilink")のICキャッシュカード一体型クレジットカード ([UC](https://ja.wikipedia.org/wiki/UCカード "wikilink")/[MasterCard](../Page/マスターカード.md "wikilink"))。機能面では[みずほマイレージクラブ](https://ja.wikipedia.org/wiki/みずほマイレージクラブ "wikilink")カードにAMC-Edyカードが合体したものであり、特徴としてUC永久不滅ポイントでAMCマイルへ移行するレートが他のみずほマイレージクラブカードよりも若干優位である点が挙げられる。提携会社はみずほ銀行・[クレディセゾン](../Page/クレディセゾン.md "wikilink")。
+  - ヤマダLABI ANAマイレージクラブ 《セゾン》アメリカン・エキスプレス・カード
+    ヤマダフィナンシャル（[ヤマダ電機](../Page/ヤマダ電機.md "wikilink")）とクレディセゾンの3社提携によるカード。一般加盟店でのクレジットショッピングではセゾン永久不滅ポイントが積算され、ヤマダ電機と提携加盟店では加えて「ヤマダポイント」が加算される。永久不滅ポイント・ヤマダポイント・AMCマイルを相互で交換することが可能である。
+  - PiPuCa ANAマイレージクラブカード
+    [沖縄銀行](../Page/沖縄銀行.md "wikilink")のICキャッシュカード一体型クレジットカード ([JCB](../Page/ジェーシービー.md "wikilink"))。機能面ではPiPuCaカード（ICキャッシュカード一体型・おきぎんJCBカード）にAMC-Edyカードが合体したものである。提携会社は沖縄銀行・おきぎんJCB。
+  - JRタワースクエアカード ANA Kitaca
+    [札幌駅総合開発](https://ja.wikipedia.org/wiki/札幌駅総合開発 "wikilink")と[北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")（JR北海道）、[オリエントコーポレーション](https://ja.wikipedia.org/wiki/オリエントコーポレーション "wikilink")（オリコ）の4社提携によるカード（Visa/MasterCard/JCB）。機能面では[JRタワースクエア](https://ja.wikipedia.org/wiki/JRタワースクエア "wikilink")カード [Kitaca](https://ja.wikipedia.org/wiki/Kitaca "wikilink")にAMC機能が合体したものである。
+  - JQ SUGOCA ANA
+    [九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）、JCBの3社提携によるカード（JCB）。機能面では[JQ CARD SUGOCAにAMC機能が合体したものである](https://ja.wikipedia.org/wiki/SUGOCA#JQ_CARD "wikilink")。[2013年](../Page/2013年.md "wikilink")3月15日会員募集開始。JCBが発行するANAカード（ソラチカカードを含む）との重複保有も可能。
+  - JCBカード/プラスANAマイレージクラブ
+    JCB ORIGINAL SERIESカードにAMC機能が合体したもの。ORIGINAL SERIESパートナーで使うとポイント2倍以上となるなど、ORIGINAL SERIES独自のサービスを行っている。（但し、ゴールド・ザ・プレミアの招待対象とはならない。）JCBが発行するANAカード（ソラチカカードを含む）との重複保有も可能だが、他のORIGINAL SERIESとの重複保有はできない。[2015年](../Page/2015年.md "wikilink")6月15日会員募集開始。
+  - 楽天ANAマイレージクラブカード
+    [楽天カード](https://ja.wikipedia.org/wiki/楽天カード "wikilink")との提携によるカード（Visa/MasterCard/JCB）。機能面では楽天カードにAMC機能が合体したものである。付与ポイントはAMCマイルと楽天スーパーポイントからの選択制。ただし、楽天市場等でのポイントアップ分は楽天スーパーポイントで付与される。他の楽天カードとの重複保有はできない。[2016年](../Page/2016年.md "wikilink")2月16日会員募集開始。
+
+### ANAカード
+
+  - ANAカード
+
+<!-- end list -->
+
+  -
+    全日本空輸と各クレジットカード会社との[提携カード](https://ja.wikipedia.org/wiki/提携カード "wikilink")。ANAマイレージクラブEdyカードと同機能のものにクレジットカード機能が付いたものであるが、基本的なサービスとして、カードショッピングで付与されるポイントをAMCマイルに移行積算が可能なサービス、ANA便搭乗時のフライトマイルにカードグレードに応じたボーナスマイルの加算、同一生計内の親族のAMC口座残高を合算・共有して利用する事ができる「ANAカード ファミリーマイル」の提供がある。提携会社によって、多様なクレジットブランドが発行されている。**マイレージクラブに入会しなくても、カード申し込みにより自動入会となる。**
+
+### VISAプリペイド一体型
+
+  - ANAプリペイドカード
+    [三井住友カード](../Page/三井住友カード.md "wikilink")が発行するVISAプリペイド一体型のカード。申し込みはwebから(webからの本人確認書類のアップロードが必要)となり、受け取りは本人限定受取郵便で行う。
+
+### JCBプリペイド一体型
+
+  - ANAプリペイドカード
+    [ジェーシービー](../Page/ジェーシービー.md "wikilink")が発行するJCBプリペイド一体型のカード。申し込みはwebから(webからの本人確認書類のアップロードが必要)となり、受け取りは本人限定受取郵便で行う。
+
+### その他
+
+  - ANAマイレージクラブ マリーンズカード
+    Edy内蔵で、[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")の公式ファンクラブ会員証を兼ねていた。[千葉マリンスタジアム](../Page/千葉マリンスタジアム.md "wikilink")公式戦入場または構内でのショッピングで、「Mポイント」という[ポイントを貯めることができた上](https://ja.wikipedia.org/wiki/ポイントサービス "wikilink")、「Mポイント」をANAのマイルに交換ができた。2011年1月31日をもって提携を終了。
+  - ANAマイレージクラブ 宮交バスカ
+    1万枚限定発行されたカードで、Edy(現在の[楽天Edy](../Page/楽天Edy.md "wikilink"))内蔵、[宮崎交通](https://ja.wikipedia.org/wiki/宮崎交通 "wikilink")のバスで貯められるポイントをANAのマイルに交換できものであった。[2016年](../Page/2016年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")を以て、[宮交バスカ](https://ja.wikipedia.org/wiki/宮交バスカ "wikilink")が終了されたため、マイル交換をはじめ、カードの利用も停止され、提携自体も終了された。
+  - ANAスーパーフライヤーズカード
+    下記プレミアムポイント参照のこと
+
+## プレミアムポイント
+
+ANAグループおよび[スターアライアンス](../Page/スターアライアンス.md "wikilink")加盟各社のマイル積算対象フライトで得られる「マイル」を決められた比率でポイントに置き換えたものが「プレミアムポイント (PP)」である。このプレミアムポイントに応じて、以下のサービスステータスが付与される。いわゆる上級会員の制度。スターアライアンスのフリークエントフライヤープログラムと互換性がある。
+
+### プレミアムポイントの算出方法
+
+以下の式によって算出される。
+
+  - A×B×C＋D＝獲得ポイント
+      - A：区間マイル（ANAではIATAが発表しているTPM（区間マイル）を採用している）
+      - B：運賃倍率（一部割引運賃の30% - ファーストクラス150%、主な数字としては30、50、70、75、100、125、150）
+      - C：路線倍率（国内線は2、アジア路線は1.5、その他国際線は1）
+      - D：搭乗ポイント（運賃種別により400、200、または0。キャンペーンで増加することもある）
+  - 例えば東京－シンガポールを「スーパーエコ割」（積算率50%）で搭乗した場合は、以下のとおりの計算式となる。
+      - 3,312×50%×1.5＋0=1,656（小数点以下は切り捨てる）
+
+上級会員ステータスを保持していても、ボーナスマイルは「プレミアムポイントの算出に含む」と明示された場合を除いて全てプレミアムポイントの計算からは除外される。
+
+### プレミアムポイントとステータス
+
+「プレミアムポイント」は暦年で集計し、それぞれのステータスに達成した翌々月から翌々年3月末までの期間有効となる（アップグレードクーポン等はステータス達成の翌年4月からとなる）。なお、2007年まではプラチナポイントと称し、このポイントと搭乗回数とで上級会員資格が付与されていた。
+
+  - ブロンズサービス
+    3万ポイント以上、うちANAグループ便で15,000ポイント以上\[5\]
+    券面略号"BRZ"、スターアライアンス・シルバー
+  - プラチナサービス
+    5万ポイント以上、うちANAグループ便で25,000ポイント以上
+    券面略号"PLT"、スターアライアンス・ゴールド
+  - ダイヤモンドサービス
+    10万ポイント以上、うちANAグループ便で5万ポイント以上
+    券面略号"DIA"、スターアライアンス・ゴールド
+
+プラチナサービス対象者とダイヤモンドサービス対象者には[ANAスーパーフライヤーズカードの申込資格が与えられる](https://ja.wikipedia.org/wiki/ANAカード#スーパーフライヤーズカード・同ゴールドカード "wikilink")。
+
+## 積算対象航空会社
+
+### ANAグループ各社
+
+  - 全日本空輸 （[アイベックスエアラインズ](https://ja.wikipedia.org/wiki/アイベックスエアラインズ "wikilink")・[AIRDO](https://ja.wikipedia.org/wiki/AIRDO "wikilink")・[スターフライヤー](https://ja.wikipedia.org/wiki/スターフライヤー "wikilink")・[ソラシドエア](https://ja.wikipedia.org/wiki/ソラシドエア "wikilink")・[オリエンタルエアブリッジ](https://ja.wikipedia.org/wiki/オリエンタルエアブリッジ "wikilink")運航の国内線[コードシェア便](../Page/コードシェア便.md "wikilink")は**ANA便名で予約した場合のみ**対象となる。）
+  - [ANAウイングス](https://ja.wikipedia.org/wiki/ANAウイングス "wikilink")
+  - [エアージャパン](https://ja.wikipedia.org/wiki/エアージャパン "wikilink")
+
+### スターアライアンス加盟各社
+
+### その他提携航空会社
+
+  - [エア・ドロミティ](https://ja.wikipedia.org/wiki/エア・ドロミティ "wikilink")
+  - [ヴァージン・アトランティック航空](https://ja.wikipedia.org/wiki/ヴァージン・アトランティック航空 "wikilink")
+  - [ガルーダ・インドネシア航空](https://ja.wikipedia.org/wiki/ガルーダ・インドネシア航空 "wikilink")
+  - [エティハド航空](https://ja.wikipedia.org/wiki/エティハド航空 "wikilink")
+  - [ハワイアン航空](https://ja.wikipedia.org/wiki/ハワイアン航空 "wikilink")
+  - [マカオ航空](https://ja.wikipedia.org/wiki/マカオ航空 "wikilink")
+  - [フィリピン航空](../Page/フィリピン航空.md "wikilink")
+  - [ジャーマンウィングス](https://ja.wikipedia.org/wiki/ジャーマンウィングス "wikilink")
+  - [ベトナム航空](https://ja.wikipedia.org/wiki/ベトナム航空 "wikilink")
+  - [ユーロウイングス](https://ja.wikipedia.org/wiki/ユーロウイングス "wikilink")
+
+### 特記事項
+
+  - [スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")・[ノルウェー](../Page/ノルウェー.md "wikilink")当局の要請により、スカンジナビア航空のノルウェー国内線全路線および[スカンジナビア半島](https://ja.wikipedia.org/wiki/スカンジナビア半島 "wikilink")内の一部路線についてはマイル積算対象外となっていたが、2013年6月10日までにこれらの要請はすべて撤回され、同日以降はスカンジナビア航空も全線でマイル積算が可能となっている。なお、このルールは他社のマイレージプログラムでも同様の制限を受けていた。
+  - [エア・ドロミティ](https://ja.wikipedia.org/wiki/エア・ドロミティ "wikilink")及び[ユーロウィングスは](https://ja.wikipedia.org/wiki/ユーロウイングス "wikilink")[スターアライアンス](../Page/スターアライアンス.md "wikilink")において[ルフトハンザドイツ航空](https://ja.wikipedia.org/wiki/ルフトハンザドイツ航空 "wikilink")の加盟子会社であるが、個別に提携している。
+  - [TAM航空](https://ja.wikipedia.org/wiki/TAM航空 "wikilink")は2014年3月31日にスターアライアンス脱退後[ワンワールド](../Page/ワンワールド.md "wikilink")に加盟したが、2016年3月までANAマイレージクラブとは個別に提携を継続していた。
+  - 2014年11月現在、全日本空輸とコードシェア提携を行っている[山東航空](https://ja.wikipedia.org/wiki/山東航空 "wikilink")とはマイレージ提携は行っておらず、このため山東航空運航便ではANA便名であってもマイルの積算はできない。
+  - その他、各航空会社ごとに各種制限が設けられている。
+  - [ニュージーランド航空](https://ja.wikipedia.org/wiki/ニュージーランド航空 "wikilink")は日本就航開始から2012年3月24日までは[日本航空](../Page/日本航空.md "wikilink")とコードシェア提携を行っており、ANAマイレージクラブでは日本路線についてはニュージーランド航空におけるマイル積算の提携のみだったが2012年3月25日以降はJALとのコードシェア提携を解除、ANAとのコードシェア提携を締結し特典航空券利用対象となった。
+  - [ベトナム航空](https://ja.wikipedia.org/wiki/ベトナム航空 "wikilink")は2016年10月30日より、ANAとのコードシェア提携を締結し特定航空券利用対象となり、JALとのコードシェア及びマイレージ提携は2016年10月29日を以って解除された。
+
+## 脚注
+
+## 関連項目
+
+  - [ANAラウンジ](https://ja.wikipedia.org/wiki/ANAラウンジ "wikilink")
+  - [ANAカード](https://ja.wikipedia.org/wiki/ANAカード "wikilink")
+  - [マイル修行](https://ja.wikipedia.org/wiki/マイル修行 "wikilink")
+  - [マイレージサービス](../Page/マイレージサービス.md "wikilink") - [マイレージサービス一覧](https://ja.wikipedia.org/wiki/マイレージサービス一覧 "wikilink")
+  - [はやかけん](https://ja.wikipedia.org/wiki/はやかけん "wikilink") - AMC会員限定で発行可能な記名式カードがある。
+
+## 外部リンク
+
+  - [ANAマイレージクラブ](https://cam.ana.co.jp/amcmember/amcentry/AMCEntryFacade)
+
+[Category:全日本空輸](https://ja.wikipedia.org/wiki/Category:全日本空輸 "wikilink") [Category:マイレージサービス](https://ja.wikipedia.org/wiki/Category:マイレージサービス "wikilink")
+
+1.  「使えるマイレージに『ためても制約が…』改善」 『東京新聞』 2011年1月11日付朝刊
+2.
+3.  [みずほマイレージクラブ](https://ja.wikipedia.org/wiki/みずほマイレージクラブ "wikilink")ANAのようなAMC機能が一体化されたクレジットカードも含む
+4.
+5.  ブロンズに限り、ANAカードのゴールド、ダイナース、プレミアムのいずれかを保持している場合はANAグループ便での獲得要件は免除される

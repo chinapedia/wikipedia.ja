@@ -1,0 +1,29 @@
+> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+
+
+**SC船団**とは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に北大西洋で運航された[連合国側の](../Page/連合国_\(第二次世界大戦\).md "wikilink")[護送船団](https://ja.wikipedia.org/wiki/護送船団 "wikilink")である。
+
+SC船団は、[ケープ・ブレトン島](https://ja.wikipedia.org/wiki/ケープ・ブレトン島 "wikilink")の[シドニーから](https://ja.wikipedia.org/wiki/シドニー_\(ノバスコシア州\) "wikilink")[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の港、主に[リヴァプール](../Page/リヴァプール.md "wikilink")へ向かう、東行きの低速船団であった。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の参戦後は船団の出発地は[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")に変更された。しかし、それも船舶の渋滞のために変更となり、次は[ノバスコシア州](../Page/ノバスコシア州.md "wikilink")の[ハリファックス](https://ja.wikipedia.org/wiki/ハリファックス "wikilink")になった。出発地が変わっても名称はSCのままであった。
+
+SC船団は1939年9月から1945年5月までの間運航された。ただし1944年の夏は多くの護衛艦艇が[ノルマンディー上陸作戦](https://ja.wikipedia.org/wiki/ノルマンディー上陸作戦 "wikilink")に投入されたため、この期間は東行きの船団はすべてとして運航され、船団の規模は倍となった。
+
+戦争中に177のSC船団が運航された。船の総数は合計6,806隻であった。3つの船団が航海を完了できなかった。SC52船団は出発後すぐに攻撃を受け引き返さざるを得なくなった。SC62船団とSC63船団は悪天候のためばらばらになってしまい、船団の船は単独で航行することとなった。
+
+29の船団が攻撃され、145隻が失われた（ただし、これには船団からはぐれた船は含まれていない）。事故でさらに18隻が失われた。
+
+SC船団は速力8ノット以下の船で構成された低速の船団のため、攻撃を受けやすかった。6隻以上の船が失われた40の船団のうち、11がSC船団であった。
+
+## 攻撃を受けた主なSC船団
+
+  - \- 1940年10月に[Uボート](https://ja.wikipedia.org/wiki/Uボート "wikilink")の攻撃を受けた。20隻が沈み、船舶の損失が最大の日となった。
+
+  - \- 1943年3月にUボートに攻撃された。HX229船団の戦闘も含め、大西洋での船団を巡る戦闘で最大のものであった。
+
+  - \- 1943年5月にUボートに攻撃された。この船団はUボートの撃退に成功し、5隻のUボートを撃破して損害は0隻であった。
+
+## 参考文献
+
+  - Dan van der Vat : The Atlantic Campaign (1988). ISBN 0 340 37751 8
+  - Arnold Hague : The Allied Convoy System 1939-1945 (2000). ISBN (Canada) 1 55125 033 0 . ISBN (UK) 1 86176 147 3
+
+[Category:第二次世界大戦の輸送船団](https://ja.wikipedia.org/wiki/Category:第二次世界大戦の輸送船団 "wikilink")

@@ -1,0 +1,108 @@
+> この記事は[Vibe ON!MUSIC](https://ja.wikipedia.org/wiki/Vibe_ON!MUSIC)から翻訳されています。
+
+
+**冨永晃道のVibe ON\! MUSIC**は、2007年4月2日～2010年3月31日まで放送された[広島エフエム放送](../Page/広島エフエム放送.md "wikilink")の音楽ワイド番組。 放送時間は毎週月〜木曜日17：00〜18：55。通称：バイオン
+
+## 概要
+
+  - 2005年10月〜2007年3月29日まで放送された[キムラミチタのVibe ON\! MUSICを引き継いでスタートした](https://ja.wikipedia.org/wiki/キムラミチタのVibe_ON!_MUSIC "wikilink")。
+  - キムラ時代から引き続いて、紙屋町地下街シャレオiスタジオからの公開生放送だったが、2008年1月よりHFM本社スタジオからの生放送となる。
+  - 2008年4月より放送時間が1時間55分に短縮された。
+  - 2010年3月の放送で、冨永が3月末で番組・HFMを卒業して東京へ行くことが伝えられ、3月31日で終了した。最終回では、歴代のパワープレイアーティストや歴代ゲストからのメッセージやリスナーからのメッセージがかなり紹介された。なお、「Vibe ON\! MUSIC」は4月からも続くが、パーソナリティの冠がはずれる。
+
+## タイムテーブル
+
+  - 17:00　オープニング
+  - 17:05　HFMトラフィックインフォメーション＜提供：（水）テニスゾーン戸坂、（木）みなみストレスカウンセリングRoom＞
+  - 17:30　HFMトラフィックインフォメーション＜提供：[中国新聞](../Page/中国新聞.md "wikilink")社・[瀬戸内海汽船](https://ja.wikipedia.org/wiki/瀬戸内海汽船 "wikilink")＞
+  - 17:32　HFMヘッドラインニュース＜提供：寿工業＞
+  - 17:40　（水）Vibe ON\! BOOK RECOMMEND＜提供：廣文館＞
+  - 17:50　[ラジオ劇団『小さな奇跡』](https://ja.wikipedia.org/wiki/ラジオ劇団『小さな奇跡』 "wikilink")＜提供：アーククラブ迎賓館＞
+  - 不定期で「わがままリクエスト」「ジェット・スクリーム」がスタート。「わがままリクエスト」は理由がわがままなほどリクエストを採用するというもの。「ジェット・スクリーム」は街頭取材した街の人のスクリーム=叫び声とその内容に合った曲をかけるというものである。
+
+-----
+
+  - 18:05　HFMトラフィックインフォメーション
+  - 18:10　Vibe ON\! STUDIO
+  - 18:30　HFMトラフィックインフォメーション
+  - 18:35 （火）ENJOY\!\! EVERYDAY ENGLISH 2nd Season＜提供：エブリディ出版＞
+  - 18:40 （月）HFMチャート
+
+## コーナー
+
+### 現在のコーナー
+
+  - **Vibe ON\! STUDIO**…スタジオにバンド・アーティストを招き、ライブのこと、近況報告や質問などをする。ゲストコーナーだけでなく、アーティストの新曲紹介や特集が組まれることもある。
+  - **Vibe ON\! JAPAN\&WORLD**…毎月、邦楽と洋楽を1曲ずつ番組がセレクトしている。
+  - **HFM CHART**（月曜日のみ）･･･2007年10月スタートのコーナー。HFM独自のチャートを発表。2008年4月より放送時間短縮により、18時台に移行し、チャー太くんがコンパクトに発表する方式に変わったが、のちに再び冨永が発表する方式になった。
+  - '''Vibe ON！ライヴ インフォメーション（木曜日のみ）
+
+　…広島クラブクアトロのスタッフと電話をつなぎ、オススメのライブを紹介してもらう。2008年4月からは、生出演形式ではなく、留守電にメッセージを吹き込む形でのライブレコメンドとなった。DJトミーは、いつも何かの理由をつけて電話に出られない、というのがお約束になっている。
+
+### 過去のコーナー
+
+  - **マチゴエリクエスト**…街角で数人のリクエストに答えるコーナー。
+  - **MUSIC WAVE**･･･アーティスト・音楽情報を波に載せてお届け。
+  - **1.2.サンマリ**･･･2008年8月23日に開催されたサウンドマリーナの情報を冨永とTSS[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")のアナウンサーが紹介する。月1回のコーナー
+
+## 番組ライブイベント『魁』
+
+  -
+    Vibe ON\! MUSICが、[NTTdocomo](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[広島クラブクアトロ](https://ja.wikipedia.org/wiki/広島クラブクアトロ "wikilink")とコラボレートして新しい音楽の波を、イチ早く広島の音楽ファンの皆様にお届け！これからの音楽シーンを担うアーティストたちのライブを体感していただくためのイベントをコンセプトに行われるイベントである。
+
+<!-- end list -->
+
+  - 『Docomo Presents 魁No.3』（2007年9月24日開催）
+  - 出演アーティスト
+
+<!-- end list -->
+
+  -
+    [FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")、[かりゆし58](https://ja.wikipedia.org/wiki/かりゆし58 "wikilink")、[榎本くるみ](https://ja.wikipedia.org/wiki/榎本くるみ "wikilink")。
+    ※このイベント自体は3回目になるが、冨永の担当になってからのライブ開催は初となる（過去2回は初代DJ[キムラミチタが担当していたときに開催](https://ja.wikipedia.org/wiki/木村ミチタ "wikilink")）。
+    オープニングアクトにはHFMの朝番組[MORNING ALIVE](https://ja.wikipedia.org/wiki/MORNING_ALIVE "wikilink")（月〜木担当）のDJ[貢藤十六](https://ja.wikipedia.org/wiki/貢藤十六 "wikilink")と冨永とのユニット「冨六」の他、[キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")が登場する。
+    この日は通常通り放送されるが、上記のとおり冨永はイベントに参加するため、[9ジラジ](https://ja.wikipedia.org/wiki/9ジラジ "wikilink")DJの大窪シゲキが代理DJを務めることが決定している。
+
+：魁no5では、幕間に出張版・イントロ亭富寿司を会場内で開催。
+\*『Docomo Presents 魁No.4』（2008年3月7日開催）
+
+  - 出演アーティスト
+
+<!-- end list -->
+
+  - 『Docomo Presents 魁No.5』（2008年10月17日開催）
+
+<!-- end list -->
+
+  -
+    出演アーティスト
+    [ヨースケ@HOME](https://ja.wikipedia.org/wiki/ヨースケ@HOME "wikilink")、[HI-FI CAMP](https://ja.wikipedia.org/wiki/HI-FI_CAMP "wikilink")、[まきちゃんぐ](https://ja.wikipedia.org/wiki/まきちゃんぐ "wikilink")。
+
+オープニングアクト：under tripper、ブレーメンの音楽隊
+
+  - 『Docomo Presents 魁リターンズ』
+
+## スタッフ
+
+  - ディレクター
+
+<!-- end list -->
+
+  -
+    マチコ
+    サオンセ
+
+<!-- end list -->
+
+  - ミキサー
+
+<!-- end list -->
+
+  -
+    もーりー（[庄司悟のリクエスト魂](https://ja.wikipedia.org/wiki/庄司悟のリクエスト魂 "wikilink")のミキサーも担当）
+
+## リンク
+
+[冨永晃道のVibe ON\! MUSIC番組ホームページ](http://hfmweb.jp/vibeon/index.html)  [Category:広島エフエム放送の帯番組](https://ja.wikipedia.org/wiki/Category:広島エフエム放送の帯番組 "wikilink")
+
+[Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink")

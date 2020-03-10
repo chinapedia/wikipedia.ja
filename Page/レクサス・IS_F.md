@@ -1,0 +1,106 @@
+> この記事は[IS F](https://ja.wikipedia.org/wiki/IS_F)から翻訳されています。
+
+
+**IS F**（アイエス・エフ）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が展開する[高級車](https://ja.wikipedia.org/wiki/高級車 "wikilink")ブランド「**[レクサス](https://ja.wikipedia.org/wiki/レクサス "wikilink")**」から販売されていた高級[スポーツセダン](https://ja.wikipedia.org/wiki/スポーツセダン "wikilink")である。
+
+## 概要
+
+IS-Fは「基本性能を徹底的に鍛え込むとともに、走りの新技術を備えることによりレクサスの新しいパフォーマンスを提案する」\[1\]というコンセプトのもと、「[IS](https://ja.wikipedia.org/wiki/レクサス・IS "wikilink")」をベースに開発された[スポーツモデルで](../Page/スポーツカー.md "wikilink")、「**F**」（[トヨタF1](https://ja.wikipedia.org/wiki/トヨタF1 "wikilink")の本拠地である『[富士スピードウェイ](https://ja.wikipedia.org/wiki/富士スピードウェイ "wikilink")』並びに開発拠点である『東富士研究所』に由来）の名を冠する同ブランド初のモデルである。トヨタ自動車全体としても、大排気量の本格派スポーツモデルとしては[2002年](../Page/2002年.md "wikilink")まで生産されていた「[トヨタ・スープラ](https://ja.wikipedia.org/wiki/トヨタ・スープラ "wikilink")」以来となり、またハイパフォーマンス・スポーツセダンとしても「[トヨタ・アリスト](../Page/トヨタ・アリスト.md "wikilink")」以来となる。
+
+日本では[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に本モデルの発売が正式[プレスリリース](https://ja.wikipedia.org/wiki/プレスリリース "wikilink")され、その発表会は“生まれ故郷”といえる富士スピードウェイで行なわれた。その席上には「IS F」の開発にも関わっていたトヨタ自動車[代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink")副社長の[豊田章男](https://ja.wikipedia.org/wiki/豊田章男 "wikilink")（[2009年](../Page/2009年.md "wikilink")より同社社長）も出席し、自らも運転し「IS F」のパフォーマンスの高さを披露した。
+
+そして同年[12月25日](../Page/12月25日.md "wikilink")に日本国内で、後に[北米](../Page/北アメリカ.md "wikilink")・[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")・[オセアニア](../Page/オセアニア.md "wikilink")でも販売が開始された。[2011年](../Page/2011年.md "wikilink")モデルからは[韓国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[中東](../Page/中東.md "wikilink")でも販売されている。
+
+  - エクステリア
+
+ベースとなったのは「IS」のセダンであるが、300km/hオーバーの世界でも安定した走りを実現するために改めて空力チューニングが施された。 エクステリアは[ヘッドライト](https://ja.wikipedia.org/wiki/前照灯 "wikilink")・前後ドア・トランク・ルーフパネルを除くほぼ全てが作り直され、特にフロント周りは大型の[V型8気筒](../Page/V型8気筒.md "wikilink")エンジンを搭載するためにオーバーハングが若干伸ばされ、さらにヘッドの干渉を防ぐためボンネットが大きく盛り上がっているのが特徴である。またエンジンの冷却性能向上のため、両サイドのフロントフェンダーパネルにはスリットが設けられている。 そしてより強力な[ダウンフォース](https://ja.wikipedia.org/wiki/ダウンフォース "wikilink")を得るため、IS F専用設計のリア[スポイラー](https://ja.wikipedia.org/wiki/スポイラー "wikilink")やアンダーパネルのほか、レクサスの[スーパーカー](https://ja.wikipedia.org/wiki/スーパーカー "wikilink")である「[LFA](https://ja.wikipedia.org/wiki/レクサス・LFA "wikilink")」のエキゾーストをイメージしてデザインされたという特徴的な4本出しのリア[ディフューザーを装備し](https://ja.wikipedia.org/wiki/ディフューザー_\(自動車\) "wikilink")、超高速走行時の直進安定性を大幅に高めるのと同時にスポーティーなエンジンサウンドを実現した。
+
+  - インテリア
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Lexus_IS_F_06.JPG "wikilink") ベースの「IS」から大きく変更になった箇所はないが、10mmほど座面を下げ、サーキット走行にも耐えうるようにサイドサポートが大きく張り出した「IS F専用スポーツシート」を前後に装備（このため乗車定員は4名となる。後にフロントシートはISの“Version-F”にも同型のものが流用された）。また、専用素材をつかったセンターコンソールパネルや、「F」のエンブレムが入る専用ステアリングホイールにIS F専用の300km/hのフルスケールメーター\[2\]を装備し、ベース車である「IS」との差別化を図っている。
+
+  - パワートレーン
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Toyota_2UR-GSE_Engine.JPG "wikilink") 同ブランドの[フラグシップ](https://ja.wikipedia.org/wiki/フラグシップ "wikilink")である「[LS600h](https://ja.wikipedia.org/wiki/レクサス・LS "wikilink")」に搭載される[V型8気筒](../Page/V型8気筒.md "wikilink")・[2UR-FSE型エンジンをベースに](https://ja.wikipedia.org/wiki/トヨタ・URエンジン#2UR-FSE "wikilink")、トヨタ自動車と[ヤマハ発動機](https://ja.wikipedia.org/wiki/ヤマハ発動機 "wikilink")が共同開発した専用スポーツユニットである「[2UR-GSE](https://ja.wikipedia.org/wiki/トヨタ・URエンジン#2UR-GSE "wikilink")」型エンジンが搭載されている。エンジン型式名にスポーツ向けの仕様である事をしめす記号「G」を冠するのは、7代目「[セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")」などに搭載された[2ZZ-GE](https://ja.wikipedia.org/wiki/2ZZ-GE "wikilink")型以来であり、V型および8気筒以上の大排気量エンジンとしては初となった。 このエンジンは他のUR型エンジン同様に、[筒内直接噴射とポート噴射を組み合わせた](https://ja.wikipedia.org/wiki/ガソリン直噴エンジン "wikilink")「[D-4S](https://ja.wikipedia.org/wiki/トヨタ・D-4 "wikilink")」が採用されるほか、スポーツ走行に対応するため新たに通常のオイルラインに加えて各バンクのシリンダーヘッド左右両端から強制的にオイルを回収する[スカベンジポンプを採用している](https://ja.wikipedia.org/wiki/ドライサンプ "wikilink")。これにより高い旋回Gが生じた時のヘッドからのオイル戻りを改善し、ウェットサンプながら安定した油圧を確保している。動弁系では吸気・排気ともにハイリフト化し、吸気バルブにはチタンバルブを採用している。また支持剛性向上のためにカムジャーナルをボアセンターに、ロッカーアームの[ラッシュアジャスター](https://ja.wikipedia.org/wiki/ラッシュアジャスター "wikilink")から固定ピボットとするなど、高回転を多用するスポーツ走行を重視した変更が行われている。そのほか吸気系統も専用設計されており、2UR-FSEに比べサージタンクを小型軽量化、吸気ポートを高流量仕様にするなど、レスポンスと高回転時の吸気効率を向上させ、スポーツユニットに相応しい鋭い吹け上がりやエンジンサウンドを奏でることに成功するなど、極限まで性能を追い求めたレーシングエンジンに近い新世代のトヨタ「G」系スポーツユニットである。 最高出力は311kW(423PS)/6,600rpm、最大トルクは505Nm(51.5kgm)/5,200rpmを発生し、0-100km/加速は5.1秒、最高速度は305km/h\[3\]（日本国内仕向けは180km/h、日本国内以外の仕向けは270km/hでスピードリミッターが作動する）。 トランスミッションには、「[LS460](https://ja.wikipedia.org/wiki/レクサス・LS "wikilink")」に搭載される8速[ATをベースに](../Page/オートマチックトランスミッション.md "wikilink")「IS F」専用のセッティングが施された「8-Speed SPDS (8-Speed Sport Direct Shift)」が採用されている。この「8-Speed SPDS」は、2速から8速までのすべてのギア段で[ロックアップ](https://ja.wikipedia.org/wiki/ロックアップ "wikilink")され、[トルクコンバータ](https://ja.wikipedia.org/wiki/トルクコンバータ "wikilink")のオイルを介さずロックアップクラッチが直結することで、エンジンの回転力をメカニカルに伝達する。また、センターコンソールに設けられたシフトノブかステアリングに装備された[パドルシフト](https://ja.wikipedia.org/wiki/パドルシフト "wikilink")でシフトダウンした際には、瞬時にエンジン回転数を上げてシフトダウン後のエンジン回転数を同期させるブリッピングコントロールが採用されており、シフトチェンジした際のタイムラグは0.1秒と[フェラーリ・599GTBフィオラノ](https://ja.wikipedia.org/wiki/フェラーリ・599GTBフィオラノ "wikilink")と同等の数値をマークするなど、世界トップクラスの変速スピードを実現している。
+
+  - 足回り
+
+トヨタ自動車製の市販乗用車としては史上初の採用となる、イタリアの名門[ブレーキ](../Page/ブレーキ.md "wikilink")システムメーカー「[ブレンボ](https://ja.wikipedia.org/wiki/ブレンボ "wikilink")（Brenbo)」社との共同開発による放熱効果の高いスパイラルフィン式の大径ドリルド[ローター](https://ja.wikipedia.org/wiki/ブレーキローター "wikilink")(前：360φ、後：345φ）と、フロントに対向6ポット・リヤに対向2ポットのアルミモノブロック[キャリパー](https://ja.wikipedia.org/wiki/ブレーキキャリパー "wikilink")、そして高摩擦[ブレーキパッド](https://ja.wikipedia.org/wiki/ブレーキパッド "wikilink")（独・Honeywell Bremsbelag社製のロースチールパッド「Jurid」のIS F専用開発品）を採用。強力なエンジン出力に対応しサーキットで周回を重ねても[フェードしにくいブレーキシステムを構築した](https://ja.wikipedia.org/wiki/フェード現象 "wikilink")。 そして、[トヨタF1](https://ja.wikipedia.org/wiki/トヨタF1 "wikilink")でもパートナーを組む[BBSと共同開発した](https://ja.wikipedia.org/wiki/BBS_\(自動車部品メーカー\) "wikilink")19インチ軽量[鍛造](../Page/鍛造.md "wikilink")[アルミホイール](https://ja.wikipedia.org/wiki/アルミホイール "wikilink")を採用。フィン状にデザインされたこのホイールはブレーキの排熱を走行中に効率よく排出できるよう左右で回転方向が指定されており、さらに前後異サイズということもあり4本すべてが専用品（すなわち、前後左右で装着箇所が決まっている）というのも特徴である。フロントに225/40R19、リヤに255/35R19の専用高性能スポーツ[タイヤ](../Page/タイヤ.md "wikilink")（[ミシュラン](../Page/ミシュラン.md "wikilink")・Pirot Sports-PS2、もしくは[ブリヂストン](../Page/ブリヂストン.md "wikilink")・[POTENZA](https://ja.wikipedia.org/wiki/POTENZA "wikilink")-RE050A）が装着される。 [2009年](../Page/2009年.md "wikilink")7月に発表された[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")モデルからは「トルセン[LSD](https://ja.wikipedia.org/wiki/差動装置#リミテッド・スリップ・デフ "wikilink")」（5ピニオン式のIS F専用開発品）を新採用し、トラクション性能が更に進化している。
+
+## 歴史
+
+### 背景\[4\]
+
+2000年代前半、レクサスはブランドの新たなる方向性を模索するため、コンパクトセダンの「IS」をベースとしたハイパフォーマンスカーを企画した。
+
+その概要は、初代モデルの「IS300」（当時の日本ではトヨタブランドの「アルテッツア」として販売されていた）に「[GS430](https://ja.wikipedia.org/wiki/レクサス・GS "wikilink")」の[V型8気筒](../Page/V型8気筒.md "wikilink")エンジン（北米市場では340PSを発生する[3UZ-FE](https://ja.wikipedia.org/wiki/トヨタ・UZエンジン "wikilink")）と、「[スープラ](https://ja.wikipedia.org/wiki/トヨタ・スープラ "wikilink")」（JZA80系）のゲトラグ製6速[MTを組み合わせ](https://ja.wikipedia.org/wiki/マニュアルトランスミッション "wikilink")、「IS」に換装するというものであった。
+
+「IS430プロジェクト」と名づけられた[コンセプトカー](https://ja.wikipedia.org/wiki/コンセプトカー "wikilink")の製作にあたっては、当時トヨタブランド車でモータースポーツに参戦するなどトヨタとの関わりが深いレーシングドライバーのロッド・ミレンが中心となり、外観デザインは北米随一のカスタムカーデザイナーであるチップ・フースが担当、技術面ではこちらも北米随一の技術力を誇る「XSエンジニアリング」が担当した。また、最終的な車両の走行試験とセットアップに関してもロッド・ミレン自らが行っている。
+
+こうして車両の完成後、レクサスは「IS430」を当時のニューヨークモーターショーやSEMAショーなど北米の主要な自動車イベントに出品した。また展示だけに留まらず、「IS430」を一部の[モータージャーナリストやレーシングドライバーにも試乗の機会を与え](https://ja.wikipedia.org/wiki/自動車評論 "wikilink")、本車両の持つパフォーマンスを体感させている。また同時期、ヨーロッパでも「IS430」と同様のコンセプトで製作された試験車両（試作0号車と呼ばれていた）が製作され、ニュルブルクリンク等でテスト走行が行われていた。
+
+その後、初代ISの生産終了まで「IS430」の市販化は実現しなかったものの、後に日本にてこの「IS430」の手法と同じく、初代ISにV型8気筒エンジン（[2003年](../Page/2003年.md "wikilink")型JGTCスープラに搭載された5.2Lの3UZ-FE型）を搭載した先行開発車両が製作された。そして本車両が後の「IS F」へと繋がってゆくのだが、元々スポーツセダンとしても開発された初代「アルテッツァ」の程良いパフォーマンスを引き出し、かつ「アルテッツァ」の更なる将来性を提示したコンセプトは前述した「IS F」への布石であったとも捉えられる。
+
+### 経過
+
+  - 2007年1月
+    第91回[北米国際オートショー](../Page/北米国際オートショー.md "wikilink")で量産型プロトタイプ「IS-F」を発表。正式に販売されることが表明される。
+  - 2007年10月4日
+    市販モデル発表\[5\]。公式サイトオープン。
+  - 2007年11月18日
+    アメリカの高級百貨店[ニーマン・マーカス](https://ja.wikipedia.org/wiki/ニーマン・マーカス "wikilink")のクリスマス企画として、特別仕様車が50台限定、68,000ドルの価格で発売された\[6\]。
+  - 2007年12月25日
+    発売。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月
+    [東京オートサロン](https://ja.wikipedia.org/wiki/東京オートサロン "wikilink")にDTM仕様の「IS Fレーシングコンセプト」を出品。
+  - 2008年9月
+    2009年モデルを発表。ベース車であるISの年次改良（2009年モデルへ移行）に伴い、インテリアの意匠を一部変更（センタークラスター部の意匠変更、ドアトリムのグリップ部等のカラーリングをIS F専用カラーに変更）。また各部の組み付け精度の向上やサスペンションセッティングを若干変更（フロントの車高を3mmダウン）している。
+  - [2009年](../Page/2009年.md "wikilink")2月
+    初の[特別仕様車](../Page/特別仕様車.md "wikilink")となる「Blazing Terracotta Interior」を50台限定で発売。
+  - 2009年7月
+    2010年モデルを発表。新たに「IS F」のハイパワーとハイトルクに耐えられる専用開発のトルセンLSDを採用し、新デザインのアルミホイール（BBS製・サイズは同じ）をオプション設定。さらにベース車のISシリーズと同じく、[コンバーチブル](https://ja.wikipedia.org/wiki/コンバーチブル "wikilink")モデル「IS C」の開発にあたって導入されたボディ各部の補強技術（詳細は「[IS](https://ja.wikipedia.org/wiki/レクサス・IS "wikilink")」の項目を参照されたい）が転用され、ボディ剛性を向上させた。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")8月
+    2011年モデルを発表。同時に年次改良を受けたベース車のIS/IS Cに準じてヘッドランプにL字型の[LEDポジショニングランプを新採用](../Page/発光ダイオード.md "wikilink")（インテリジェント[AFSは廃止](https://ja.wikipedia.org/wiki/アダプティブ・フロントライティング・システム "wikilink")）。また、インテリアではステアリングスイッチベースなどにアルミ調加飾を追加し、新たにシート素材へ[アルカンターラを追加設定した](https://ja.wikipedia.org/wiki/エクセーヌ "wikilink")。[デジタルスピードメーターやシフトアップインジケーターを内蔵した](../Page/デジタルメーター.md "wikilink")[タコメーター](https://ja.wikipedia.org/wiki/タコメーター "wikilink")をコンビネーションメーター内中央部に配置するなど、メーター意匠を変更した。
+    走行性能面では、サスペンションのコイルスプリング、ショックアブソーバーやブッシュ類、リヤサスペンションのキャンバー角度などのセッティング変更を実施。また、「SPORT」モードスイッチをステアリングホイール内へ移設した。
+    新機能として、日本国内向け車両にのみ「サーキットモード」を新設。[HDD](https://ja.wikipedia.org/wiki/ハードディスク "wikilink")[カーナビゲーション](../Page/カーナビゲーション.md "wikilink")の[GPSによる位置確認機能を用いて](../Page/グローバル・ポジショニング・システム.md "wikilink")、車両が利用可能エリアに入りドライバーがサーキットモードを選択することによって、速度リミッターの作動速度が変更（180km/h→270km/h)されるなどしてスポーツ走行が可能になる。
+  - 2010年9月6日
+    [韓国トヨタ](https://ja.wikipedia.org/wiki/韓国トヨタ "wikilink")を介して[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")市場にて発売開始。価格は日本市場よりも安価に設定されている（8800万ウォン＝約620万円）。
+  - [2011年](../Page/2011年.md "wikilink")8月
+    一部改良（年次改良）。ショックアブソーバーを変更し、コイルスプリングやバウンドストッパーなどサスペンションのチューニングを最適化したことで、乗り心地と走行性能を向上。これにより、ドライバーの意のままに応える高い応答性を実現。このほか、メーカーオプションに19インチ鍛造アルミホイール（BBS製・7本スポーク）、内装色にレッド&ブラック、ボディカラーにマーキュリーグレーマイカをそれぞれ追加した。
+  - [2013年](../Page/2013年.md "wikilink")5月
+    ベース車のISが、30系へとフルモデルチェンジするが、IS Fは継続して販売される。
+  - 2013年[9月5日](../Page/9月5日.md "wikilink")
+    一部改良（年次改良）。[カーボン](https://ja.wikipedia.org/wiki/カーボン "wikilink")製リアスポイラーを新採用するとともに、フロントフォグランプをLED式に変更。スポーツシートはヘッドレストに『F』ロゴを立体的に表現したエンボス加工が施され、ドアトリムやセンターコンソール表皮に[アルカンターラ](https://ja.wikipedia.org/wiki/アルカンターラ "wikilink")を採用。これに加え、高速道路上などに設置されたITSスポットと双方向受信することで画像や音声で前方の障害物や合流支援などの情報を受けることができるITSスポット対応[DSRC](https://ja.wikipedia.org/wiki/DSRC "wikilink")ユニットを標準装備した。併せて、特別仕様車「Dynamic Sport Tuning」を発売。エンジンのフリクション低減を行い、ダイナミックバランスをとるように調整を行うことにより、430psまで最高出力を向上し、滑らかな回転フィールを実現するとともに、ボディ開口部に新接着技術を用いることでボディ剛性を高め、専用カーボンフロントスポイラーやリヤディフューザーを装備したことで空力性能を高め、優れた操舵安定性を実現。この他、ベース車より7kg軽量化された専用チタンマフラー等も装備された。
+  - 2014年[5月18日](../Page/5月18日.md "wikilink")
+    同日付にて日本国内での販売が終了したことが、レクサス公式サイト上で発表された。
+
+ファイル:Lexus IS F 07.JPG|2UR-GSEエンジンと8-Speed SPDS ファイル:Lexus IS F 08.JPG|8-Speed SPDSのカットモデル ファイル:Lexus IS-F Humberside Police.jpg|[ハンバーサイド警察](https://ja.wikipedia.org/wiki/W:en:Humberside_Police "wikilink")([イングランド](../Page/イングランド.md "wikilink"))の[パトカー](https://ja.wikipedia.org/wiki/パトカー "wikilink")
+
+## モータースポーツ
+
+## 脚注
+
+## 関連項目
+
+  - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")
+  - [レクサス](https://ja.wikipedia.org/wiki/レクサス "wikilink")
+  - [レクサス・IS](https://ja.wikipedia.org/wiki/レクサス・IS "wikilink")
+  - [レクサス・F](https://ja.wikipedia.org/wiki/レクサス・F "wikilink")
+  - [レクサス・RC F](https://ja.wikipedia.org/wiki/レクサス・RC_F "wikilink")
+  - [レクサス・GS F](https://ja.wikipedia.org/wiki/レクサス・GS_F "wikilink")
+
+## 外部リンク
+
+  - [LEXUS \> IS F（日本）](http://lexus.jp/models/isf/index.html)
+  - [Lexus IS F（英語）](http://www.lexus.com/models/ISF/)
+
+[en:Lexus IS (XE20)\#IS F](https://ja.wikipedia.org/wiki/en:Lexus_IS_\(XE20\)#IS_F "wikilink")
+
+[Category:レクサスの車種](https://ja.wikipedia.org/wiki/Category:レクサスの車種 "wikilink") [Category:スポーツセダン](https://ja.wikipedia.org/wiki/Category:スポーツセダン "wikilink")
+
+1.
+2.  2011年モデルからは、 という大型のタコメーターと、330Km/h（北米仕向け車両は210mph)まで刻まれたアナログ式とデジタル式（北米仕向け車両はkm/h、mph切り替え機能付き）併用のスピードメーターが新採用された。
+3.  [MotorMagazine - 試乗インプレッション : レクサス IS F (IS F)](http://www.motormagazinesha.co.jp/medialog/modules/wordpress1/index.php?p=247)
+4.  モーターファンニューモデル速報 第528弾 LEXUS GS Fのすべて＆「F」特集号より
+5.  [LEXUS、IS Fを新発売](http://www.toyota.co.jp/jp/news/07/Oct/nt07_061.html) - トヨタ自動車のプレスリリース
+6.  [Lexus creates the Neiman Marcus IS F Special Build Sedan for Neiman Marcus’ 2007 Christmas Book](http://www.lexus.com/about/news/articles/2007/10/20071002_1.html) - 『Press Release by Lexus』2007年10月2日（英語）

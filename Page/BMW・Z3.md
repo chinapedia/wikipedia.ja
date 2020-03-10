@@ -1,0 +1,62 @@
+> この記事は[BMWZ3](https://ja.wikipedia.org/wiki/BMWZ3)から翻訳されています。
+
+
+[BMW_Z3_1999.JPG](https://ja.wikipedia.org/wiki/File:BMW_Z3_1999.JPG "fig:BMW_Z3_1999.JPG") **Z3**（ズィー・スリー、ツェット・ドライ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカー[BMW](../Page/BMW.md "wikilink")が製造していた[クーペ](../Page/クーペ.md "wikilink")または[オープンタイプの](../Page/オープンカー.md "wikilink")[乗用車](../Page/乗用車.md "wikilink")である。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[サウスカロライナ州](../Page/サウスカロライナ州.md "wikilink")に完成した工場にて製造された初めてのBMW車であった。1代限りで生産は終了した。本稿では主に日本に導入されたモデルについて述べる。
+
+## 解説
+
+Z3はライトウエイトの[オープンカー](../Page/オープンカー.md "wikilink")として1996年に登場。[BMW](../Page/BMW.md "wikilink")としては[Z1以来の](https://ja.wikipedia.org/wiki/BMW・Z1 "wikilink")2シーターオープンカー（[ロードスター](https://ja.wikipedia.org/wiki/ロードスター "wikilink")）である。外観デザインには[永島譲二](https://ja.wikipedia.org/wiki/永島譲二 "wikilink")が携わっている。後に[クーペ](../Page/クーペ.md "wikilink")ボディを追加。実質的な後継車種はZ3生産終了の翌年から販売されている[Z4だが開発は同時期に行われておりまたクラス的にはZ](../Page/BMW・Z4.md "wikilink")4の方が上位となる。
+
+プラットフォームを[BMW・3シリーズ](https://ja.wikipedia.org/wiki/BMW・3シリーズ "wikilink")コンパクト（**E36/5**）と共有する派生車種であり、それはコードネームに“**E36**”が入っていることからも見て取れる。 但し、E36/5は更に旧世代の**E30**系3シリーズをベースとしており、3シリーズとしては3世代後となるE46の販売時期とも重なるという稀なケースであった。この為、BMWでは最後の[セミトレーリングアーム](https://ja.wikipedia.org/wiki/セミトレーリングアーム "wikilink")式リアサスペンション車である（但し、エンジンやトランスミッションはE36・E46とも共通）。
+
+日本では1997年に導入されてから毎年のように小変更が繰り返され、エンジンだけをとっても数多くのモデルが存在する。
+
+## 歴史
+
+### 前期型（1996年-1998年）E36/7、E36/8
+
+E36/7はロードスター、E36/8はクーペのモデルコードである。
+
+  - 1996年 - 日本での本格的な導入を前に、[BMW JAPANの創立](https://ja.wikipedia.org/wiki/BMW_JAPAN "wikilink")15周年を記念した特別仕様車を先行発売。このような販売形態は大変珍しい。
+  - 1997年に1.9L 直4エンジンのエンジンを搭載したモデルが発売されたが、当初は1車種だけだったため、単に「Z3」として販売された。一部では「ベースグレード」と表記されるが、以下ではモデルの変遷をわかりやすくするため、「Z3 1.9」と記述する。
+  - 1998年11月 - トレッドを拡大し、3ナンバーサイズに変更。同時にロードスター/クーペの2.8L 直6エンジンの「Z3 2.8」を追加。また、[M3](https://ja.wikipedia.org/wiki/BMW・M3 "wikilink")（E36）と同じエンジンを搭載した[Mモデルの](https://ja.wikipedia.org/wiki/M_Gmbh "wikilink")「Mロードスター」「Mクーペ」を追加。これらの車名に「Z3」の文字は入っていない。
+
+### 後期型（1999年-2002年）E36/7、E36/8
+
+  - 1999年7月 - マイナーチェンジに伴い[直4モデル](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")「Z3 1.9」を廃止。2.0L [直6エンジンの](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")「Z3 2.0」を新たに設定。
+  - 2000年 - エンジン・トランスミッションを変更。「Z3 2.8」は「Z3 3.0i」に、「Z3 2.0」は「Z3 2.2i」になる。
+  - 2001年7月 - 「Mロードスター」「Mクーペ」のエンジンが[M3](https://ja.wikipedia.org/wiki/BMW・M3 "wikilink")（E46）に搭載されたS54型に変更され、右ハンドルモデルが追加される。
+  - 2002年 - 生産終了。
+
+#### 特徴・機構
+
+  - 日本での価格は365-700万円（最終モデル）。「Mロードスター」「Mクーペ」は[左ハンドル仕様のみ](https://ja.wikipedia.org/wiki/対面交通 "wikilink")、通常モデルは[MT車が左ハンドル仕様のみで](https://ja.wikipedia.org/wiki/マニュアルトランスミッション "wikilink")[AT車が右ハンドル仕様のみという展開であった](../Page/オートマチックトランスミッション.md "wikilink")。なおMロードスターとMクーペは、マイナーチェンジで左右の選択ができるようになった。
+  - ソフトトップの開閉は「Z3 1.9」「Z3 2.0」「Z3 2.2」が手動式で、「Z3 2.8」「Z3 3.0」「Mロードスター」が電動（ロック部のみ手動）となる。
+  - 「Mロードスター」および「Z3 2.0」以降のモデルには安全装備としてロールバーが標準で装着されていた。
+
+#### グレード一覧
+
+| 前期型              |
+| ---------------- |
+| グレード             |
+| 1.9（ロードスター）      |
+| 2.8（ロードスター/クーペ）  |
+| Z3 2.0（ロードスター）   |
+| M ロードスター/M クーペ   |
+| 後期型              |
+| 3.0i（ロードスター/クーペ） |
+| 2.8i（ロードスター/クーペ） |
+| 2.2i（ロードスター）     |
+| M ロードスター/M クーペ   |
+
+## 関連項目
+
+  - [Z4](../Page/BMW・Z4.md "wikilink")
+  - [Z8](https://ja.wikipedia.org/wiki/BMW・Z8 "wikilink")
+  - 映画『[007 ゴールデンアイ](https://ja.wikipedia.org/wiki/007_ゴールデンアイ "wikilink")』
+
+## 外部リンク
+
+  - [BMW Japan](http://www.bmw.co.jp/)公式ウェブサイト
+
+[Category:BMWの車種](https://ja.wikipedia.org/wiki/Category:BMWの車種 "wikilink") [Category:オープンカー](https://ja.wikipedia.org/wiki/Category:オープンカー "wikilink") [Category:クーペ](https://ja.wikipedia.org/wiki/Category:クーペ "wikilink") [Category:スポーツカー](https://ja.wikipedia.org/wiki/Category:スポーツカー "wikilink")

@@ -1,0 +1,146 @@
+> この記事は[Kzy](https://ja.wikipedia.org/wiki/Kzy)から翻訳されています。
+
+
+**Kzy**（ケージー、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月26日](../Page/6月26日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**澤田 和希**（さわだ かずき）。
+
+## 経歴
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")12月9日、若手選手育成のため作られたDRAGON GATE NEXの旗揚げとともに[ラッパーギミックの](../Page/ラップ.md "wikilink")**m.c.KZ.**としてデビューし、いきなりのメインでの出場。元ドリームゲート王者の[斎藤了](https://ja.wikipedia.org/wiki/斎藤了 "wikilink")と共にタッグ戦に出場した。対戦相手は[小野寺大和](../Page/YAMATO_\(プロレスラー\).md "wikilink")（現：YAMATO）&[トザワ](https://ja.wikipedia.org/wiki/戸澤陽 "wikilink")（現：戸澤陽）\[1\]。DRAGON GATE本戦デビューは同年12月26日のSITE-KOBE大会。
+
+[2007年](../Page/2007年.md "wikilink")8月のタッグリーグで、同じくNEXデビューの[ルパン松谷](https://ja.wikipedia.org/wiki/ルパン松谷 "wikilink")と組み出場。本来は[B×Bハルク](https://ja.wikipedia.org/wiki/B×Bハルク "wikilink")と[YAMATOが出場予定だったが](../Page/YAMATO_\(プロレスラー\).md "wikilink")、YAMATOが左肩を、ハルクが顎を骨折し出場は不可能となったため、NEXの2人が代わりに出場。リーグ戦では[Gamma](https://ja.wikipedia.org/wiki/Gamma "wikilink")＆[堀口元気](https://ja.wikipedia.org/wiki/堀口元気 "wikilink")組とシーサーズから勝利を挙げた。
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、NEX-1トーナメントに優勝し、メキシコ遠征に出ていたが、[土井成樹](https://ja.wikipedia.org/wiki/土井成樹 "wikilink")が[REAL HAZARDへ対抗するため](https://ja.wikipedia.org/wiki/REAL_HAZARD "wikilink")、メキシコのKZへ電話をかけ、観客のコールとともに土井吉の新ユニットへ勧誘された。これを受諾し[WORLD-1](https://ja.wikipedia.org/wiki/WORLD-1 "wikilink")入りを果たした。出発直前の2月10日に新木場1stRINGで行われた武勇伝の興業ではワンナイト・タッグトーナメントに超神龍とのタッグで出場。決勝戦で澤宗紀とフジタ"Jr"ハヤトのタッグに一方的な展開で痛めつけられた末に敗れた。しかしDRAGON GATEで様々なスタイルの選手と対戦したことはとても貴重な経験となった\[2\]。5月31日に凱旋試合が組まれた。6月29日の大阪大会で空位となったオープン・ザ・ブレイブゲート王座に名乗りを上げ、7月27日に[堀口元気](https://ja.wikipedia.org/wiki/堀口元気 "wikilink")と同王座決定戦で対戦するも敗北\[3\]\[4\]。その後も連戦連敗が続き、10月の九州シリーズを全戦欠場した。11月に復帰するも連敗を重ねていたが12月に入り、地元札幌で連勝し、年末の[福岡国際センター](https://ja.wikipedia.org/wiki/福岡国際センター "wikilink")での敗戦ユニット解散サバイバル6人タッグ3WAYマッチにて[横須賀享](https://ja.wikipedia.org/wiki/横須賀享 "wikilink")から3カウントを奪い一抜けするなど兆しが見えてきた。
+
+[2009年](../Page/2009年.md "wikilink")1月18日の[大阪府立体育会館](https://ja.wikipedia.org/wiki/大阪府立体育会館 "wikilink")第二競技場にてトライアングルゲートに初挑戦したが敗北。4月30日、愛知県体育館大会（[5月5日](../Page/5月5日.md "wikilink")）出場権をかけて[超神龍と激突するも敗北](https://ja.wikipedia.org/wiki/木股大輔 "wikilink")、以降試合数が減る。ユニットに所属しているにもかかわらず無所属の選手とタッグを組まされる、WORLD-1タッグの一員となっても試合後に口論などもあった。
+
+### ヒール時代
+
+6月26日の[関西テレビ・なんでもアリーナ大会のメインの](../Page/関西テレビ放送.md "wikilink")[オープン・ザ・ツインゲート統一タッグ王座](https://ja.wikipedia.org/wiki/オープン・ザ・ツインゲート統一タッグ王座 "wikilink")の防衛戦に[Dr.マッスル](https://ja.wikipedia.org/wiki/Dr.マッスル "wikilink")として登場。王者組をアシストし[REAL HAZARDへ加入](https://ja.wikipedia.org/wiki/REAL_HAZARD "wikilink")。その翌日からリングネームを**Kzy**に変更。ヒールに転向した背景には、WORLD-1時代に何事も巧く行かず土井や吉野正人から「何をしてるんだ\!」と喝を入れられており、ヒールとして暴れ回っていた新井健一郎や神田裕之から手を差し伸べられて一大決心を決めた。Kzyがヒールに転向したことで[谷嵜なおきとの間に因縁が生まれた](https://ja.wikipedia.org/wiki/谷嵜直樹 "wikilink")。12月27日の福岡国際センター興業では、その谷嵜なおきとオープン・ザ・ブレイブゲート選手権試合を行い、拳で殴り合ったりイス攻撃があったりと壮絶かつ感情がストレートに交錯する荒々しい展開となった。記録は10分29秒でエビ固めに敗れる。この試合で韻波句徒を初公開\[5\]。
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月にREAL HAZARDが分裂し、[ディープ・ドランカーズ](https://ja.wikipedia.org/wiki/ディープ・ドランカーズ "wikilink")へ合流。5月5日に愛知県体育館で行われたオープン・ザ・トライアングルゲート選手権ノーDQマッチでは、[神田裕之](https://ja.wikipedia.org/wiki/神田裕之 "wikilink")・[菅原拓也](https://ja.wikipedia.org/wiki/菅原拓也 "wikilink")との3人タッグで、曙、望月成晃、ドン・フジイの3人タッグに挑戦。反則裁定なしのルールで様々な凶器を駆使し、試合をコントロール。神田がフォールを決めてKzyら3人タッグが第26代王者組となった。記録は10分40秒で体固め\[6\]。しかし僅か8日後に防衛0で王座陥落\[7\]\[8\]。
+
+その後も土井軍（仮）-[Blood WARRIORS](https://ja.wikipedia.org/wiki/Blood_WARRIORS "wikilink")-[MAD BLANKEYとユニットが変わり](https://ja.wikipedia.org/wiki/MAD_BLANKEY "wikilink")、構成員はたびたび入れ替わったが、Kzyは派手な[つなぎ](https://ja.wikipedia.org/wiki/つなぎ "wikilink")・長髪・整えた右眉と剃り落した左眉・左右で異なるカラー[コンタクトレンズ](../Page/コンタクトレンズ.md "wikilink")・[髭](https://ja.wikipedia.org/wiki/髭 "wikilink")というスタイルでヒールを貫き続けた\[9\]。Blood WARRIORS時代の2011年9月にはダーツでこのメンバーに決まった土井・谷嵜とのタッグ「チーム土井ダーツ」で再びトライアングルゲートを獲得し、5度の防衛を達成。2012年1月に反則負けで王座を剥奪される\[10\]。また[オープン・ザ・ブレイブゲート王座](https://ja.wikipedia.org/wiki/オープン・ザ・ブレイブゲート王座 "wikilink")戦線にもたびたび参戦し、2012年3月には[リコシェ](https://ja.wikipedia.org/wiki/リコシェ_\(プロレスラー\) "wikilink")、2013年4月には[ドラゴン・キッド](https://ja.wikipedia.org/wiki/ドラゴン・キッド "wikilink")に挑戦した。同年9月には王座決定トーナメントを勝ち上がり堀口元気H. A. Gee. Mee\!\!との王座決定戦まで進出した。いずれも反則技を絡め相手を追い詰めるものの、ベルトを掴むには至らなかった\[11\]。
+
+2014年、ジミーズの神田・谷嵜、MAD BLANKEYの土井・ハルクの抗争が勃発。土井とハルクの口論をKzyが宥める場面もあった。5月5日の「敗者代理人髪切りマッチ」で土井成樹が負け残る。この試合は代理人制度を採用したエスケープ方式の試合であり、土井の負け残りとなったため代理人のKzyがルールにより自慢の長髪を丸坊主にされてしまった。以後は丸坊主を決定づけたうえに同門であり共にチーム名やロゴを考えた間柄であったハルクがユニットを離脱。突然の裏切りにKzyは「冗談じゃない」と憤慨\[12\]、これ以降ハルクに敵意を燃やし、抗争を繰り広げた。
+
+6月には土井、サイバー・コングとのタッグで3度目のトライアングルゲート王座を獲得し、3度の防衛を果たしたが、10月にCIMA、Gamma、ドン・フジイ組に敗れて王座陥落。さらにKzyはその試合で左目を負傷し、\[13\]以後長期欠場に入った。長期欠場に関しては「ケガしても味方は別に手を差し伸べてくれるわけでもなく…」と不満を述べていた\[14\]が、12月の後楽園大会では同じく欠場していた土井とリングに登場してMB勢で「ミラクル土井ダーツ2014」を開催。
+
+### ベビーフェイス時代
+
+Kzy欠場中の2015年1月、王者フラミータのベルト受け取り拒否から[オープン・ザ・ブレイブゲート王座](https://ja.wikipedia.org/wiki/オープン・ザ・ブレイブゲート王座 "wikilink")が空位になったため、開催された王座決定トーナメントに[Dr.マッスル](https://ja.wikipedia.org/wiki/Dr.マッスル "wikilink")が出現。MAD BLANKEY勢の後押し介入もあり、様々な選手の得意技を繰り出しつつ、Dr.マッスルが正体不明のままオープン・ザ・ブレイブゲート王座を奪取してしまった\[15\]\[16\]。
+
+しかし1月16日にそのDr.マッスルがMBを裏切り、自らマスクを剥いで正体がKzyだったことを明かした上で、MAD BLANKEYを脱退して[Dia.HEARTS](https://ja.wikipedia.org/wiki/Dia.HEARTS "wikilink")に加入した\[17\]。4年7ヵ月ぶりの[ベビーターン](https://ja.wikipedia.org/wiki/ベビーターン "wikilink")となった。
+
+電撃脱退に怒った[問題龍のブレイブゲート王座挑戦を退けたが](https://ja.wikipedia.org/wiki/木股大輔 "wikilink")、2月28日に[戸澤陽](https://ja.wikipedia.org/wiki/戸澤陽 "wikilink")にパッケージ・ジャーマンで敗北し王座陥落\[18\]\[19\]。その後キャラクターが正反対の[鷹木信悟](https://ja.wikipedia.org/wiki/鷹木信悟 "wikilink")との抗争が発展し、5月5日愛知県大会の金網戦に出場した。鷹木に金網に叩きつけられたがそのまま金網を登りきり、最初のエスケープを達成。「鷹木を金網の上から見下ろす」公約を果たした。これまでの金網戦で金網の外からちょっかいを出した経験が生きたと語っている。
+
+しかし2016年2月に所属していたDia.HEARTSが解散してしまった。KzyはMONSTER EXPRESSの勧誘も断り、無所属で活動していたが、5月5日の愛知県体育館大会で[B×Bハルク](https://ja.wikipedia.org/wiki/B×Bハルク "wikilink")、[ヨースケ♡サンタマリアと共に](https://ja.wikipedia.org/wiki/渡辺陽介 "wikilink")[YAMATO救出に動いた](../Page/YAMATO_\(プロレスラー\).md "wikilink")\[20\]。
+
+2018年2月7日、後楽園大会で望月の持つドリームゲート王座に挑戦も激闘の末、敗戦。試合後、現世代との闘いを求めユニットから離脱する。 その直後、当時再三に渡りKzyを勧誘していたANTIASがまたしてもKzyを勧誘、一度は加入する素振りを見せたがこれを拒否、ANTIASに暴行を受けているところを横須賀ススム・[堀口元気](https://ja.wikipedia.org/wiki/堀口元気 "wikilink")が救出、Kzyのバックアップを表明。これを受け次回後楽園大会でANTIASとの6人タッグ戦が決定。
+
+3月6日、後楽園大会でANTIASとの6人タッグ戦を行うが、敗北。試合後、ANTIASになおも攻撃を受けているところを[パンチ富永が救出](https://ja.wikipedia.org/wiki/富永千浩 "wikilink")、さらにKzyが"ANTIASに恨みを持ってるヤツ"として["brother"YASSHI](https://ja.wikipedia.org/wiki/"brother"YASSHI "wikilink")を呼び込む。自身の知らない間にVerserKからANTIASに変わったことに怒りを露わにしたYASSHIはKzy軍と結託、これを受け次回後楽園大会での大江戸式イリミネーションマッチが決定した。
+
+4月6日、後楽園大会でANTIASとの大江戸式イリミネーションマッチを行い、これに勝利。試合後、Kzyがユニット結成を提案し、堀口・ススムはKzyがユニットリーダーとなることを条件に承諾、そしてパンチも新ユニットへ加入、YASSHIは他団体(ダブプロレス)所属であることと自らの"裏切り癖"を理由に加入を渋るが、Kzyの押しに負けユニット加入に応じ、5人体制でのスタートが決定した。また、この時Kzy・ススム・堀口のトリオでMaxiMuM（土井成樹・吉野正人・ジェイソン・リー）の保持するオープン・ザ・トライアングルゲート王座への挑戦を表明、王者組もこれに応じ5月6日・愛知県体育館大会での王座挑戦が決定。 5月3日、京都大会で「NATURAL VIBES」を正式結成。kzyが初めてユニットリーダーとなる。
+
+5月5日、愛知県体育館大会でKzy・ススム・堀口がMaxiMuMに勝利しトライアングルゲート王座を奪取し、その後6回防衛する。
+
+## 得意技
+
+ヒール時代から繰り出す技は基本に忠実。合間にトリッキーな技で攪乱する。受身もうまい。最近はルチャもこなす。
+
+  - **フィニッシュホールド**
+    [ランニング・エルボースマッシュ](https://ja.wikipedia.org/wiki/エルボー・バット#派生技ランニング・エルボー "wikilink")
+    主にカウンターで使われる。ダッシュしながらしかける場合もある。2018年に入ってからはフィニッシャーへと昇華し、ドリームゲートチャンピオンの望月からこの技でスリーカウントを奪うことも見せた。
+  - **スカイデ・スクールボーイ**
+    相手の片手片足を取って引き込むように倒れつつ、そのままの勢いで、相手の体の上で垂直に重なるようにブリッチしながら足をとりつつ固める、変形の[スクールボーイ](https://ja.wikipedia.org/wiki/スクールボーイ#丸め込み技 "wikilink")。スカイデこと[ホルヘ・リベラに伝授された](https://ja.wikipedia.org/wiki/ホルヘ・リベラ_\(プロレスラー\) "wikilink")。どんな逆境からでも一発逆転を狙える代表的なフィニッシュ技。
+  - **韻波句徒**（インパクト）
+    シットダウン式のチキンウィング[パイルドライバー](https://ja.wikipedia.org/wiki/パイルドライバー "wikilink")。
+    REAL HAZARD加入後に公開した奥の手。技の名前の由来はKzyの好きなミュージシャンでレゲエDJの[CHEHON](https://ja.wikipedia.org/wiki/CHEHON "wikilink")の曲のタイトルから。同技名はCHEHON公認で使用している。
+  - [KZ.time](https://ja.wikipedia.org/wiki/ダイビング・ボディ・プレス#派生技屈伸式ダイビング・ボディ・プレス "wikilink")
+    [フロッグ・スプラッシュと同じ技](https://ja.wikipedia.org/wiki/ダイビング・ボディ・プレス#派生技屈伸式ダイビング・ボディ・プレス "wikilink")。
+    コーナーに登って叫んで予告するため、外れることが多い。会場を特に盛り上げる技の一つである。
+
+**その他得意技**
+
+  - [B-BOY](https://ja.wikipedia.org/wiki/スタナー#派生技 "wikilink")
+    ["brother"YASSHI](https://ja.wikipedia.org/wiki/"brother"YASSHI "wikilink")の[バッド・ボーイと同型の技](https://ja.wikipedia.org/wiki/スタナー#派生技 "wikilink")。
+    コーナートップあるいは走り込んでから仕掛ける前転式スタナー。
+    独特なロープワークから放つため予測が付きにくく、チェンジオブペースとしても使われるが、動きを読まれてかわされることもある。
+  - **BEAT-BOM**
+    [ファイヤーマンズキャリー](https://ja.wikipedia.org/wiki/ファイヤーマンズキャリー "wikilink")に抱えあげてから、相手の足の方向に向き直りつつ、相手の体を足から地面に下ろすようにして１８０度回転させ、そのまま勢いをつけて**シットダウンボム**で叩きつける。
+  - [CDJ](https://ja.wikipedia.org/wiki/パイルドライバー#カナディアン・デストロイヤー "wikilink")
+    [カナディアン・デストロイヤーと同型の技](https://ja.wikipedia.org/wiki/パイルドライバー#カナディアン・デストロイヤー "wikilink")。この技からKZ.timeにつなぐことが多い。
+  - **ショットガン**
+    コーナーにもたれている相手の腹部めがけて、[スピアータックルのように頭から一直線に突っ込む](https://ja.wikipedia.org/wiki/スピアー_\(プロレス技\)#スピアータックル "wikilink")。
+  - **KZムーブ**
+    独特のアームロック等で相手を固め、自らのポーズと同じような格好を取らせてしまう動きの総称。相手に屈辱感と精神的なダメージを与える。
+  - **ボディーアタック**
+    [ダイヤモンドカッター](https://ja.wikipedia.org/wiki/ダイヤモンドカッター "wikilink")
+    [ランディ・オートン](https://ja.wikipedia.org/wiki/ランディ・オートン "wikilink")のように、主に飛びつき式で行う。
+  - [スワントーンボム](https://ja.wikipedia.org/wiki/トペ・コン・ヒーロ "wikilink")
+    フォームが非常に美しい
+  - **ライク・ア・ドラゴン**
+    膝をついている相手に仕掛ける変形のドラゴンスリーパー
+  - **ミッションインポッシブル**
+    セカンドロープを踏み台にした[トペ・コン・ヒーロ](https://ja.wikipedia.org/wiki/トペ・コン・ヒーロ "wikilink")。
+    2017年に入ってから使用し始めた技であり、前年に退団した[戸澤陽](https://ja.wikipedia.org/wiki/戸澤陽 "wikilink")を意識したものである。滞空時間が長くフォームも綺麗である。
+
+## タイトル歴
+
+  - [オープン・ザ・ブレイブゲート王座](https://ja.wikipedia.org/wiki/オープン・ザ・ブレイブゲート王座 "wikilink")（第26代）
+  - [オープン・ザ・トライアングルゲート王座](https://ja.wikipedia.org/wiki/オープン・ザ・トライアングルゲート王座 "wikilink")（第26代、第33代、第49代、第61代、第63代）
+  - [NEX-1トーナメント](https://ja.wikipedia.org/wiki/NEX-1トーナメント "wikilink")優勝（2008年）
+
+## エピソード
+
+  - リング上ではチャラチャラしたやんちゃキャラクターを演じる。観客を煽り、盛り上げるのが上手く、会場での人気がある。
+  - タッグマッチで相手の大技を立て続けに喰うなど[ジョバー（やられ役）に回りがちだが](https://ja.wikipedia.org/wiki/ジョブ_\(プロレス\) "wikilink")、格上の選手相手に善戦、時には勝利をあげることもある。サイバー曰く｢決めるとこで決めれるやつ｣。
+  - [B×Bハルク](https://ja.wikipedia.org/wiki/B×Bハルク "wikilink")とは出身地が近いこともあって因縁が深く、タッグ「NORTH TRIBE 011」を名乗っている。
+  - 入団当初のギミック決めで、「ラッパースタイル」と本人が提案したが誰もスタイルを理解できず、岩佐は「乱破？忍者スタイル？」だったという。また入門当初は岩佐がフロリダ・ブラザーズ時代に愛用していたナイキのシューズを着用していたこともある。岩佐曰く「無いと思ったら…でも大事に使ってね」。
+  - NEXデビューの選手がユニット入り、ヒールターンしたのは本人が初めてである。
+  - 2007年7月の神戸ワールド記念ホール大会出場権争奪バトルロイヤルにてルパン松谷、APEキマタのNEX勢が出場している中KZは出場しなかったが[Dr.マッスル](https://ja.wikipedia.org/wiki/Dr.マッスル "wikilink")は出場していたため、この時のDr.マッスルの正体はKZではないかとの噂があった。
+  - 神田裕之がジミーズ入り（ベビーターン）後、神田の「ブルーボックス」（多目的ケースのようなもの）同様、「イエローボックス」を凶器として使用している
+  - 姉がいる\[21\]。
+  - 2014年5月に丸坊主にされる以前は[ツーブロック](../Page/ツーブロック.md "wikilink")で、長髪の部分は[リーゼント](../Page/リーゼント.md "wikilink")、[モヒカン](https://ja.wikipedia.org/wiki/モヒカン刈り "wikilink")、[ツインテール](https://ja.wikipedia.org/wiki/ツインテール "wikilink")などセットを変えていた\[22\]\[23\]\[24\]。丸坊主にされた後は歴代の髪切り被害者と違い、一転して坊主スタイルを続けた。短髪に戻った頃に欠場し、2015年1月の復帰および[Dia.HEARTS](https://ja.wikipedia.org/wiki/Dia.HEARTS "wikilink")への加入時は[ドレッドヘア](https://ja.wikipedia.org/wiki/ドレッドヘア "wikilink")、以後は再びセットを頻繁に変えている。
+  - 自身の入場曲「TIME TO GO CRAZY」、およびMAD BLANKEY時代のB×Bハルクの入場曲「B×B STORY～DEATH DANCE POISON～」では[MCとして参加している](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")\[25\]。
+  - 本名は非公開であるが、了八先生(斎藤"ジミー"了)のマイクで「カズキ」と名前だけ出ており（それ以前にも2015年の金網マッチで一度だけ出ている）、PRIME ZONE Vol.33においては自ら「カズ・サワダ」と名乗っている。PRIME ZONE Vol.38では「カズ澤田」名義で試合にも出場している。
+  - コスチュームはどのユニットに所属している場合でも、ツナギのようなものに左足の裾だけ上げたスタイルを貫いていたが2017年に入ってからは肉体改造を施し、上半身を露わにするコスチュームに変更している。
+  - 　戸澤陽は2015年2月26日の興業で「つい最近、意識改革したヤツに負けるわけがない」と厳しめのコメントを行った。そんな戸澤は後にWWEでタイトルを獲得したが、Kzyは戸澤をスタイルや闘い方などの手本であると一目置いており、戸澤のDRAGON GATE卒業式では「あなたとブレイブゲート闘えて、僕は嬉しかった。あなたの元気印は、ボクが受け継ぎます」とラストメッセージを送った。ただし戸澤のスタイルを引き継ぐという認識ではなく、あくまで戸澤は憧れである\[26\]。
+  - [YAMATO](https://ja.wikipedia.org/wiki/YAMATO "wikilink")のモノマネを得意としている。
+
+## 脚注
+
+## 外部リンク
+
+  - [DRAGON GATE・Kzy](https://www.gaora.co.jp/dragongate/data/prfl/kzy.html)
+
+  - [Time 2 go Lazy](http://spora.jp/kzy/)
+
+  -
+[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:DRAGON_GATE所属のプロレスラー](https://ja.wikipedia.org/wiki/Category:DRAGON_GATE所属のプロレスラー "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+
+1.
+2.  週刊プロレス2017年9月13日号pp.71-74.
+3.
+4.  [DRAGONGATE公式サイト\>データベース\>オープン・ザ・ブレイブゲート](http://www.gaora.co.jp/dragongate/data/title/brave.html). 2014.6.9閲覧
+5.
+6.
+7.  週刊プロレスEXTRA vol.9「ドラゴンゲート大百科」2013年11月5日、ベースボール・マガジン社
+8.  [DRAGON GATE データベース\> オープン・ザ・トライアングルゲート](http://www.gaora.co.jp/dragongate/data/title/tag.html). 2014.6.9閲覧
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20. [DEAD or ALIVE 2016 2016.5.05 愛知県体育館 観衆:6,000人(超満員札止め)](http://www.gaora.co.jp/dragongate/data/result/2016/0505.html)
+21. [週刊プロレス](https://ja.wikipedia.org/wiki/週刊プロレス "wikilink")2013年11月17日号p80
+22.
+23.
+24.
+25. [DRAGON GATE RECORDS](https://ja.wikipedia.org/wiki/DRAGON_GATE_RECORDS "wikilink"), [OPEN THE MUSIC GATE 2013](http://www.gaora.co.jp/dragongate/record/cd/031.html). 2014.6.9閲覧
+26.

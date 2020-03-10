@@ -1,0 +1,824 @@
+> この記事は[Portal:/IUPAC](https://ja.wikipedia.org/wiki/Portal:/IUPAC)から翻訳されています。
+
+
+**IUPAC [GLOSSARY OF CLASS NAMES AND REACTIVE INTERMEDIATES BASED ON STRUCTURE (IUPAC Recommendations 1994)](http://www.chem.qmul.ac.uk/iupac/class/)** 詳しくは上記のリンクを参照のこと
+
+### A
+
+  - 1,1-diazenes - An alternative term for isodiazenes.
+  - acenes - [アセン](https://ja.wikipedia.org/wiki/アセン "wikilink") ; Polycyclic aromatic hydrocarbons
+  - [acetals](https://ja.wikipedia.org/wiki/w:acetals "wikilink") - [アセタール](../Page/アセタール.md "wikilink")
+  - acetogenins - アセトゲニン polyketides
+  - [acetonides](https://ja.wikipedia.org/wiki/w:acetonides "wikilink") - アセトニド ; Cyclic acetals
+  - [acetylenes](https://ja.wikipedia.org/wiki/w:acetylenes "wikilink") - [アセチレン](../Page/アセチレン.md "wikilink")
+  - acetylides - [アセチレン\#アセチリド](https://ja.wikipedia.org/wiki/アセチレン#アセチリド "wikilink")
+  - [acid anhydrides](https://ja.wikipedia.org/wiki/w:acid_anhydrides "wikilink") - [酸無水物](https://ja.wikipedia.org/wiki/酸無水物 "wikilink")
+  - acid thioanhydrides - チオ酸無水物
+  - acids - See carboxylic acids, oxoacids, sulfonic acids, etc.
+  - [aci-nitro compounds](https://ja.wikipedia.org/wiki/w:aci-nitro_compounds "wikilink") - See also azinic acids; aci-nitro compounds following nitro compounds.
+  - [acyl anions](https://ja.wikipedia.org/wiki/w:acyl_anions "wikilink") - アシルアニオン ; See acyl species.
+  - [acyl carbenes](https://ja.wikipedia.org/wiki/w:acyl_carbenes "wikilink") - アシルカルベン
+  - [acyl cations](https://ja.wikipedia.org/wiki/w:acyl_cations "wikilink") - See acyl species.
+  - [acyl groups](https://ja.wikipedia.org/wiki/w:acyl_groups "wikilink") - [アシル基](../Page/アシル基.md "wikilink")
+  - [acyl halides](https://ja.wikipedia.org/wiki/w:acyl_halides "wikilink") - [酸塩化物](https://ja.wikipedia.org/wiki/酸塩化物 "wikilink")
+  - [acyl radicals](https://ja.wikipedia.org/wiki/w:acyl_radicals "wikilink") - See acyl species.
+  - acyl species - アシル誘導体
+  - [acylals](https://ja.wikipedia.org/wiki/w:acylals "wikilink") -
+  - [acylium ions](https://ja.wikipedia.org/wiki/w:acylium_ions "wikilink") - See acyl species.
+  - acyloins - [アシロイン](https://ja.wikipedia.org/wiki/アシロイン "wikilink")
+  - [acyloxyl radicals](https://ja.wikipedia.org/wiki/w:acyloxyl_radicals "wikilink") -
+  - π-adducts - π付加物
+  - [aglycon](https://ja.wikipedia.org/wiki/w:aglycon "wikilink") - [アグリコン](https://ja.wikipedia.org/wiki/アグリコン "wikilink")
+  - alcoholates - 金属アルコラート
+  - [alcohols](https://ja.wikipedia.org/wiki/w:alcohols "wikilink") - [アルコール](https://ja.wikipedia.org/wiki/アルコール "wikilink")
+  - aldaric acids - [アルダル酸](https://ja.wikipedia.org/wiki/アルダル酸 "wikilink")
+  - aldazines -
+  - [aldehydes](https://ja.wikipedia.org/wiki/w:aldehydes "wikilink") - [アルデヒド](../Page/アルデヒド.md "wikilink")
+  - aldimines -
+  - [alditols](https://ja.wikipedia.org/wiki/w:alditols "wikilink") -
+  - aldoketoses - アルドケトース
+  - aldonic acids - [アルドン酸](https://ja.wikipedia.org/wiki/アルドン酸 "wikilink")
+  - [aldoses](https://ja.wikipedia.org/wiki/w:aldoses "wikilink") - [アルドース](https://ja.wikipedia.org/wiki/アルドース "wikilink")
+  - aldoximes - アルドオキシム
+  - [alicyclic compounds](https://ja.wikipedia.org/wiki/w:alicyclic_compounds "wikilink") - 脂環式化合物
+  - [aliphatic compounds](https://ja.wikipedia.org/wiki/w:aliphatic_compounds "wikilink") - 脂式化合物
+  - [alkaloids](https://ja.wikipedia.org/wiki/w:alkaloids "wikilink") - [アルカロイド](https://ja.wikipedia.org/wiki/アルカロイド "wikilink")
+  - [alkanes](https://ja.wikipedia.org/wiki/w:alkanes "wikilink") - [アルカン](https://ja.wikipedia.org/wiki/アルカン "wikilink")
+  - alkanium ions -
+  - [alkenes](https://ja.wikipedia.org/wiki/w:alkenes "wikilink") - [アルケン](../Page/アルケン.md "wikilink")
+  - [alkoxides](https://ja.wikipedia.org/wiki/w:alkoxides "wikilink") - アルコキシド ; See alcoholates
+  - alkoxyamines -
+  - alkyl groups - [アルキル基](https://ja.wikipedia.org/wiki/アルキル基 "wikilink")
+  - alkyl radicals - アルキルラジカル
+  - [alkylenes](https://ja.wikipedia.org/wiki/w:alkylenes "wikilink") - アルキレン
+  - alkylidene groups - アルキリデン基
+  - [alkylideneamino carbenes](https://ja.wikipedia.org/wiki/w:alkylideneamino_carbenes "wikilink") -
+  - [alkylideneaminoxyl radicals](https://ja.wikipedia.org/wiki/w:alkylideneaminoxyl_radicals "wikilink") -
+  - [alkylideneaminyl radicals](https://ja.wikipedia.org/wiki/w:alkylideneaminyl_radicals "wikilink") -
+  - alkylidene - アルキリデン
+  - [alkylidynes](https://ja.wikipedia.org/wiki/w:alkylidynes "wikilink") - アルキリジン
+  - [alkynes](https://ja.wikipedia.org/wiki/w:alkynes "wikilink") - [アルキン](../Page/アルキン.md "wikilink")
+  - [allenes](https://ja.wikipedia.org/wiki/w:allenes "wikilink") - [アレン](https://ja.wikipedia.org/wiki/アレン_\(化学\) "wikilink")
+  - allylic groups - [アリル基](https://ja.wikipedia.org/wiki/アリル基 "wikilink")
+  - [allylic intermediates](https://ja.wikipedia.org/wiki/w:allylic_intermediates "wikilink") -
+  - [amic acids](https://ja.wikipedia.org/wiki/w:amic_acids "wikilink") -
+  - [amide hydrazones](https://ja.wikipedia.org/wiki/w:amide_hydrazones "wikilink") -
+  - [amide oximes](https://ja.wikipedia.org/wiki/w:amide_oximes "wikilink") -
+  - [amides](https://ja.wikipedia.org/wiki/w:amides "wikilink") - [アミド](https://ja.wikipedia.org/wiki/アミド "wikilink")
+  - [amidines](https://ja.wikipedia.org/wiki/w:amidines "wikilink") - [アミジン](https://ja.wikipedia.org/wiki/アミジン "wikilink")
+  - [amidium ions](https://ja.wikipedia.org/wiki/w:amidium_ions "wikilink") -
+  - [amidrazones](https://ja.wikipedia.org/wiki/w:amidrazones "wikilink") -
+  - [aminals](https://ja.wikipedia.org/wiki/w:aminals "wikilink") -
+  - [amine imides](https://ja.wikipedia.org/wiki/w:amine_imides "wikilink") -
+  - [amine imines](https://ja.wikipedia.org/wiki/w:amine_imines "wikilink") -
+  - [amine oxides](https://ja.wikipedia.org/wiki/w:amine_oxides "wikilink") - アミンオキシド
+  - [amine ylides](https://ja.wikipedia.org/wiki/w:amine_ylides "wikilink") -
+  - [amines](https://ja.wikipedia.org/wiki/w:amines "wikilink") - [アミン](../Page/アミン.md "wikilink")
+  - [aminimides](https://ja.wikipedia.org/wiki/w:aminimides "wikilink") -
+  - [aminium ions](https://ja.wikipedia.org/wiki/w:aminium_ions "wikilink") -
+  - [aminiumyl radical ions](https://ja.wikipedia.org/wiki/w:aminiumyl_radical_ions "wikilink") -
+  - [amino radicals](https://ja.wikipedia.org/wiki/w:amino_radicals "wikilink") -
+  - [amino sugars](https://ja.wikipedia.org/wiki/w:amino_sugars "wikilink") -　[アミノ糖](https://ja.wikipedia.org/wiki/アミノ糖 "wikilink")
+  - [aminonitrenes](https://ja.wikipedia.org/wiki/w:aminonitrenes "wikilink") -
+  - [aminooxyl radicals](https://ja.wikipedia.org/wiki/w:aminooxyl_radicals "wikilink") -
+  - [aminoxides](https://ja.wikipedia.org/wiki/w:aminoxides "wikilink") -
+  - [aminoxyl radicals](https://ja.wikipedia.org/wiki/w:aminoxyl_radicals "wikilink") -
+  - [aminyl oxides](https://ja.wikipedia.org/wiki/w:aminyl_oxides "wikilink") -
+  - [aminyl radicals](https://ja.wikipedia.org/wiki/w:aminyl_radicals "wikilink") -
+  - [aminylenes](https://ja.wikipedia.org/wiki/w:aminylenes "wikilink") -
+  - [aminylium ions](https://ja.wikipedia.org/wiki/w:aminylium_ions "wikilink") -
+  - [ammonium compounds](https://ja.wikipedia.org/wiki/w:ammonium_compounds "wikilink") -
+  - [ammonium imines](https://ja.wikipedia.org/wiki/w:ammonium_imines "wikilink") -
+  - [ammonium ylides](https://ja.wikipedia.org/wiki/w:ammonium_ylides "wikilink") -
+  - [ammoniumyl radical ions](https://ja.wikipedia.org/wiki/w:ammoniumyl_radical_ions "wikilink") -
+  - [ampholytes](https://ja.wikipedia.org/wiki/w:ampholytes "wikilink") -
+  - anhydrides - See acid anhydrides.
+  - [anhydro bases](https://ja.wikipedia.org/wiki/w:anhydro_bases "wikilink") -
+  - [anilides](https://ja.wikipedia.org/wiki/w:anilides "wikilink") -
+  - [anils](https://ja.wikipedia.org/wiki/w:anils "wikilink") -
+  - [annulenes](https://ja.wikipedia.org/wiki/w:annulenes "wikilink") - [アヌレン](../Page/アヌレン.md "wikilink")
+  - [annulenylidenes](https://ja.wikipedia.org/wiki/w:annulenylidenes "wikilink") -
+  - [ansa compounds](https://ja.wikipedia.org/wiki/w:ansa_compounds "wikilink") -
+  - [anthocyanidins](https://ja.wikipedia.org/wiki/w:anthocyanidins "wikilink") -
+  - [anthocyanins](https://ja.wikipedia.org/wiki/w:anthocyanins "wikilink") - [アントシアニン](../Page/アントシアニン.md "wikilink")
+  - antiaromatic compounds - 反芳香族炭化水素
+  - [arene epoxides](https://ja.wikipedia.org/wiki/w:arene_epoxides "wikilink") - アレンエポキシド
+  - [arene oxides](https://ja.wikipedia.org/wiki/w:arene_oxides "wikilink") -
+  - [arenes](https://ja.wikipedia.org/wiki/w:arenes "wikilink") - [アレーン](https://ja.wikipedia.org/wiki/アレーン "wikilink")
+  - [arenium ions](https://ja.wikipedia.org/wiki/w:arenium_ions "wikilink") -
+  - [arenols](https://ja.wikipedia.org/wiki/w:arenols "wikilink") -
+  - [arenonium ions](https://ja.wikipedia.org/wiki/w:arenonium_ions "wikilink") -
+  - [aromatic compounds](https://ja.wikipedia.org/wiki/w:aromatic_compounds "wikilink") - [芳香族化合物](../Page/芳香族化合物.md "wikilink")
+  - [arsanes](https://ja.wikipedia.org/wiki/w:arsanes "wikilink") - [アルサン](../Page/アルシン.md "wikilink")
+  - [arsanylidenes](https://ja.wikipedia.org/wiki/w:arsanylidenes "wikilink") -
+  - [arsanylium ions](https://ja.wikipedia.org/wiki/w:arsanylium_ions "wikilink") -
+  - [arsenides](https://ja.wikipedia.org/wiki/w:arsenides "wikilink") -
+  - [arsine oxides](https://ja.wikipedia.org/wiki/w:arsine_oxides "wikilink") -
+  - [arsines](https://ja.wikipedia.org/wiki/w:arsines "wikilink") - [アルシン](../Page/アルシン.md "wikilink")
+  - [arsinic acids](https://ja.wikipedia.org/wiki/w:arsinic_acids "wikilink") -
+  - [arsinidenes](https://ja.wikipedia.org/wiki/w:arsinidenes "wikilink") -
+  - [arsinous acids](https://ja.wikipedia.org/wiki/w:arsinous_acids "wikilink") -
+  - [arsonic acids](https://ja.wikipedia.org/wiki/w:arsonic_acids "wikilink") -
+  - [arsonium compounds](https://ja.wikipedia.org/wiki/w:arsonium_compounds "wikilink") -
+  - [arsonous acids](https://ja.wikipedia.org/wiki/w:arsonous_acids "wikilink") -
+  - [arsoranes](https://ja.wikipedia.org/wiki/w:arsoranes "wikilink") -
+  - [aryl cations](https://ja.wikipedia.org/wiki/w:aryl_cations "wikilink") - アリールカチオン
+  - [aryl groups](https://ja.wikipedia.org/wiki/w:aryl_groups "wikilink") - [アリール基](https://ja.wikipedia.org/wiki/アリール基 "wikilink")
+  - [arylene groups](https://ja.wikipedia.org/wiki/w:arylene_groups "wikilink") -
+  - [arynes](https://ja.wikipedia.org/wiki/w:arynes "wikilink") -
+  - [azamines](https://ja.wikipedia.org/wiki/w:azamines "wikilink") -
+  - [azanes](https://ja.wikipedia.org/wiki/w:azanes "wikilink") -
+  - [azides](https://ja.wikipedia.org/wiki/w:azides "wikilink") -
+  - [azimines](https://ja.wikipedia.org/wiki/w:azimines "wikilink") -
+  - [azines](https://ja.wikipedia.org/wiki/w:azines "wikilink") -
+  - [azinic acids](https://ja.wikipedia.org/wiki/w:azinic_acids "wikilink") -
+  - [azlactones](https://ja.wikipedia.org/wiki/w:azlactones "wikilink") -
+  - [azo compounds](https://ja.wikipedia.org/wiki/w:azo_compounds "wikilink") - [アゾ化合物](https://ja.wikipedia.org/wiki/アゾ化合物 "wikilink")
+  - [azo imides](https://ja.wikipedia.org/wiki/w:azo_imides "wikilink") -
+  - [azo ylides](https://ja.wikipedia.org/wiki/w:azo_ylides "wikilink") -
+  - [azomethine imides](https://ja.wikipedia.org/wiki/w:azomethine_imides "wikilink") -
+  - [azomethine oxides](https://ja.wikipedia.org/wiki/w:azomethine_oxides "wikilink") -
+  - azomethine ylides - アゾメチンイリド
+  - azomethines - アゾメチン
+  - [azonic acids](https://ja.wikipedia.org/wiki/w:azonic_acids "wikilink") -
+  - azoxy compounds - [アゾキシ化合物](https://ja.wikipedia.org/wiki/アゾキシ化合物 "wikilink")
+
+### B
+
+  - [barbiturates](https://ja.wikipedia.org/wiki/w:barbiturates "wikilink") -
+  - [benzenium ions](https://ja.wikipedia.org/wiki/w:benzenium_ions "wikilink") -
+  - [benzenonium ions](https://ja.wikipedia.org/wiki/w:benzenonium_ions "wikilink") -
+  - [benzylic groups](https://ja.wikipedia.org/wiki/w:benzylic_groups "wikilink") -
+  - [benzylic intermediates](https://ja.wikipedia.org/wiki/w:benzylic_intermediates "wikilink") -
+  - [benzynes](https://ja.wikipedia.org/wiki/w:benzynes "wikilink") -
+  - [betaines](https://ja.wikipedia.org/wiki/w:betaines "wikilink") -
+  - [betweenanenes](https://ja.wikipedia.org/wiki/w:betweenanenes "wikilink") -
+  - [biradicals](https://ja.wikipedia.org/wiki/w:biradicals "wikilink") - [ビラジカル](https://ja.wikipedia.org/wiki/ビラジカル "wikilink")
+  - [bismuthanes](https://ja.wikipedia.org/wiki/w:bismuthanes "wikilink") -
+  - [bismuthines](https://ja.wikipedia.org/wiki/w:bismuthines "wikilink") -
+  - [bisphenols](https://ja.wikipedia.org/wiki/w:bisphenols "wikilink") - [ビスフェノール](https://ja.wikipedia.org/wiki/ビスフェノール "wikilink")
+  - [boranes](https://ja.wikipedia.org/wiki/w:boranes "wikilink") - [ボラン](https://ja.wikipedia.org/wiki/ボラン "wikilink")
+  - [boranylidenes](https://ja.wikipedia.org/wiki/w:boranylidenes "wikilink") -
+  - [borenes](https://ja.wikipedia.org/wiki/w:borenes "wikilink") -
+  - [borinic acids](https://ja.wikipedia.org/wiki/w:borinic_acids "wikilink") -
+  - [boronic acids](https://ja.wikipedia.org/wiki/w:boronic_acids "wikilink") - [ホウ酸](../Page/ホウ酸.md "wikilink")
+  - [borylenes](https://ja.wikipedia.org/wiki/w:borylenes "wikilink") -
+  - [bromohydrins](https://ja.wikipedia.org/wiki/w:bromohydrins "wikilink") -
+  - [bromonium ions](https://ja.wikipedia.org/wiki/w:bromonium_ions "wikilink") -
+  - [Bunte salts](https://ja.wikipedia.org/wiki/w:Bunte_salts "wikilink") -
+
+### C
+
+  - [calixarenes](https://ja.wikipedia.org/wiki/w:calixarenes "wikilink") -
+  - [carbaboranes](https://ja.wikipedia.org/wiki/w:carbaboranes "wikilink") -
+  - [carbamates](https://ja.wikipedia.org/wiki/w:carbamates "wikilink") -
+  - [carbanions](https://ja.wikipedia.org/wiki/w:carbanions "wikilink") -
+  - [carbena](https://ja.wikipedia.org/wiki/w:carbena "wikilink") -
+  - [carbene analogues](https://ja.wikipedia.org/wiki/w:carbene_analogues "wikilink") -
+  - [carbene metal complexes](https://ja.wikipedia.org/wiki/w:carbene_metal_complexes "wikilink") -
+  - [carbene radical anions](https://ja.wikipedia.org/wiki/w:carbene_radical_anions "wikilink") -
+  - [carbene radical cations](https://ja.wikipedia.org/wiki/w:carbene_radical_cations "wikilink") -
+  - [carbenes](https://ja.wikipedia.org/wiki/w:carbenes "wikilink") - [カルベン](https://ja.wikipedia.org/wiki/カルベン "wikilink")
+  - [carbenium ions](https://ja.wikipedia.org/wiki/w:carbenium_ions "wikilink") -
+  - [carbenoids](https://ja.wikipedia.org/wiki/w:carbenoids "wikilink") -
+  - [carbinolamines](https://ja.wikipedia.org/wiki/w:carbinolamines "wikilink") -
+  - [carbinols](https://ja.wikipedia.org/wiki/w:carbinols "wikilink") -
+  - [carbinyl cations](https://ja.wikipedia.org/wiki/w:carbinyl_cations "wikilink") -
+  - [carbocations](https://ja.wikipedia.org/wiki/w:carbocations "wikilink") -
+  - [carbocyclic compounds](https://ja.wikipedia.org/wiki/w:carbocyclic_compounds "wikilink") -
+  - [carbodiimides](https://ja.wikipedia.org/wiki/w:carbodiimides "wikilink") -
+  - [carbohydrates](https://ja.wikipedia.org/wiki/w:carbohydrates "wikilink") - [炭水化物](../Page/炭水化物.md "wikilink")
+  - [carbonitriles](https://ja.wikipedia.org/wiki/w:carbonitriles "wikilink") -
+  - [carbonium ions](https://ja.wikipedia.org/wiki/w:carbonium_ions "wikilink") -
+  - [carbonyl compounds](https://ja.wikipedia.org/wiki/w:carbonyl_compounds "wikilink") -
+  - [carbonyl imides](https://ja.wikipedia.org/wiki/w:carbonyl_imides "wikilink") -
+  - [carbonyl imines](https://ja.wikipedia.org/wiki/w:carbonyl_imines "wikilink") -
+  - [carbonyl oxides](https://ja.wikipedia.org/wiki/w:carbonyl_oxides "wikilink") -
+  - [carbonyl ylides](https://ja.wikipedia.org/wiki/w:carbonyl_ylides "wikilink") -
+  - [carboranes](https://ja.wikipedia.org/wiki/w:carboranes "wikilink") -
+  - [carboxamides](https://ja.wikipedia.org/wiki/w:carboxamides "wikilink") -
+  - [carboxamidines](https://ja.wikipedia.org/wiki/w:carboxamidines "wikilink") -
+  - [carboxylic acids](https://ja.wikipedia.org/wiki/w:carboxylic_acids "wikilink") -
+  - [carbylamines](https://ja.wikipedia.org/wiki/w:carbylamines "wikilink") -
+  - [carbyne metal complexes](https://ja.wikipedia.org/wiki/w:carbyne_metal_complexes "wikilink") -
+  - [carbynes](https://ja.wikipedia.org/wiki/w:carbynes "wikilink") -
+  - [carbynium ions](https://ja.wikipedia.org/wiki/w:carbynium_ions "wikilink") -
+  - [carotenes](https://ja.wikipedia.org/wiki/w:carotenes "wikilink") -
+  - [carotenoids](https://ja.wikipedia.org/wiki/w:carotenoids "wikilink") - [カロテノイド](../Page/カロテノイド.md "wikilink")
+  - [catecholamines](https://ja.wikipedia.org/wiki/w:catecholamines "wikilink") - [カテコールアミン](https://ja.wikipedia.org/wiki/カテコールアミン "wikilink")
+  - [w:catenanes](https://ja.wikipedia.org/wiki/w:catenanes "wikilink") /catena compounds- [カテナン](https://ja.wikipedia.org/wiki/カテナン "wikilink")
+  - [cavitands](https://ja.wikipedia.org/wiki/w:cavitands "wikilink") -
+  - [w:cephalins](https://ja.wikipedia.org/wiki/w:cephalins "wikilink") (kephalins)　-
+  - [cephalosporins](https://ja.wikipedia.org/wiki/w:cephalosporins "wikilink") - [セファロスポリン](https://ja.wikipedia.org/wiki/セファロスポリン "wikilink")
+  - [cephams](https://ja.wikipedia.org/wiki/w:cephams "wikilink") -
+  - [cephems](https://ja.wikipedia.org/wiki/w:cephems "wikilink") -
+  - [chalcones](https://ja.wikipedia.org/wiki/w:chalcones "wikilink") -
+  - [charge-transfer complexes](https://ja.wikipedia.org/wiki/w:charge-transfer_complexes "wikilink") -
+  - [chelates](https://ja.wikipedia.org/wiki/w:chelates "wikilink") -
+  - [chloramines](https://ja.wikipedia.org/wiki/w:chloramines "wikilink") -
+  - [chlorocarbons](https://ja.wikipedia.org/wiki/w:chlorocarbons "wikilink") -
+  - [chlorohydrins](https://ja.wikipedia.org/wiki/w:chlorohydrins "wikilink") -
+  - [chloronium ions](https://ja.wikipedia.org/wiki/w:chloronium_ions "wikilink") -
+  - [clathrates](https://ja.wikipedia.org/wiki/w:clathrates "wikilink") -
+  - [cobalamines](https://ja.wikipedia.org/wiki/w:cobalamines "wikilink") -
+  - [π-complexes](https://ja.wikipedia.org/wiki/w:π-complexes "wikilink") - [π錯体](https://ja.wikipedia.org/wiki/π錯体 "wikilink")
+  - [coronands/coronates](https://ja.wikipedia.org/wiki/w:coronands/coronates "wikilink") -
+  - [w:corrinoids](https://ja.wikipedia.org/wiki/w:corrinoids "wikilink") (cobalamines, corphyrins, corrins, vitamin B12 compounds) -
+  - [coumarins](https://ja.wikipedia.org/wiki/w:coumarins "wikilink") -
+  - [cresols](https://ja.wikipedia.org/wiki/w:cresols "wikilink") -
+  - [crown compounds](https://ja.wikipedia.org/wiki/w:crown_compounds "wikilink") -
+  - [w:cryptands](https://ja.wikipedia.org/wiki/w:cryptands "wikilink") /cryptates -
+  - [cumulenes](https://ja.wikipedia.org/wiki/w:cumulenes "wikilink") -
+  - [cyanates](https://ja.wikipedia.org/wiki/w:cyanates "wikilink") -
+  - [cyanides](https://ja.wikipedia.org/wiki/w:cyanides "wikilink") -
+  - [cyanine dyes](https://ja.wikipedia.org/wiki/w:cyanine_dyes "wikilink") -
+  - [cyanohydrins](https://ja.wikipedia.org/wiki/w:cyanohydrins "wikilink") -
+  - [w:cyclic acid anhydrides](https://ja.wikipedia.org/wiki/w:cyclic_acid_anhydrides "wikilink") /cyclic anhydrides -
+  - [cyclitols](https://ja.wikipedia.org/wiki/w:cyclitols "wikilink") -
+  - [cycloalkanes](https://ja.wikipedia.org/wiki/w:cycloalkanes "wikilink") -
+  - [cycloalkyl groups](https://ja.wikipedia.org/wiki/w:cycloalkyl_groups "wikilink") -
+  - [cyclodepsipeptides](https://ja.wikipedia.org/wiki/w:cyclodepsipeptides "wikilink") -
+  - [cyclodextrins](https://ja.wikipedia.org/wiki/w:cyclodextrins "wikilink") -
+  - [cyclohexadienyl cations](https://ja.wikipedia.org/wiki/w:cyclohexadienyl_cations "wikilink") -
+  - [cyclophanes](https://ja.wikipedia.org/wiki/w:cyclophanes "wikilink") -
+  - [cyclosilazanes](https://ja.wikipedia.org/wiki/w:cyclosilazanes "wikilink") -
+  - [cyclosiloxanes](https://ja.wikipedia.org/wiki/w:cyclosiloxanes "wikilink") -
+
+### D
+
+  - [dehydroarenes](https://ja.wikipedia.org/wiki/w:dehydroarenes "wikilink") -
+  - [dehydrobenzenes](https://ja.wikipedia.org/wiki/w:dehydrobenzenes "wikilink") -
+  - [w:deoxyribonucleic acids](https://ja.wikipedia.org/wiki/w:deoxyribonucleic_acids "wikilink") (DNA) -
+  - [depsides](https://ja.wikipedia.org/wiki/w:depsides "wikilink") -
+  - [depsipeptides](https://ja.wikipedia.org/wiki/w:depsipeptides "wikilink") -
+  - [dextrans](https://ja.wikipedia.org/wiki/w:dextrans "wikilink") -
+  - [dextrins](https://ja.wikipedia.org/wiki/w:dextrins "wikilink") -
+  - [diacylamines](https://ja.wikipedia.org/wiki/w:diacylamines "wikilink") -
+  - [diamidides](https://ja.wikipedia.org/wiki/w:diamidides "wikilink") -
+  - [dianions](https://ja.wikipedia.org/wiki/w:dianions "wikilink") -
+  - [diazanylidenes](https://ja.wikipedia.org/wiki/w:diazanylidenes "wikilink") -
+  - [diazenyl radicals](https://ja.wikipedia.org/wiki/w:diazenyl_radicals "wikilink") -
+  - [diazo compounds](https://ja.wikipedia.org/wiki/w:diazo_compounds "wikilink") -
+  - [diazoamino compounds](https://ja.wikipedia.org/wiki/w:diazoamino_compounds "wikilink") -
+  - [diazoates](https://ja.wikipedia.org/wiki/w:diazoates "wikilink") -
+  - [diazonium salts](https://ja.wikipedia.org/wiki/w:diazonium_salts "wikilink") -
+  - [diazooxides](https://ja.wikipedia.org/wiki/w:diazooxides "wikilink") -
+  - [diazotates](https://ja.wikipedia.org/wiki/w:diazotates "wikilink") -
+  - [dicarbenium ions](https://ja.wikipedia.org/wiki/w:dicarbenium_ions "wikilink") -
+  - [dienes](https://ja.wikipedia.org/wiki/w:dienes "wikilink") -
+  - [diols](https://ja.wikipedia.org/wiki/w:diols "wikilink") -
+  - [diosphenols](https://ja.wikipedia.org/wiki/w:diosphenols "wikilink") -
+  - [dipolar compounds](https://ja.wikipedia.org/wiki/w:dipolar_compounds "wikilink") -
+  - [dipolar ions](https://ja.wikipedia.org/wiki/w:dipolar_ions "wikilink") -
+  - [dipyrrins](https://ja.wikipedia.org/wiki/w:dipyrrins "wikilink") -
+  - [dipyrromethenes](https://ja.wikipedia.org/wiki/w:dipyrromethenes "wikilink") -
+  - [diradicals](https://ja.wikipedia.org/wiki/w:diradicals "wikilink") -
+  - [disaccharides](https://ja.wikipedia.org/wiki/w:disaccharides "wikilink") -
+  - [diterpenoids](https://ja.wikipedia.org/wiki/w:diterpenoids "wikilink") -
+  - [dithioacetals](https://ja.wikipedia.org/wiki/w:dithioacetals "wikilink") -
+  - [dypnones](https://ja.wikipedia.org/wiki/w:dypnones "wikilink") -
+
+### E
+
+  - [eicosanoids](https://ja.wikipedia.org/wiki/w:eicosanoids "wikilink") -
+  - [enamines](https://ja.wikipedia.org/wiki/w:enamines "wikilink") -
+  - [enolates](https://ja.wikipedia.org/wiki/w:enolates "wikilink") -
+  - [enols](https://ja.wikipedia.org/wiki/w:enols "wikilink") -
+  - [enoses](https://ja.wikipedia.org/wiki/w:enoses "wikilink") -
+  - [epihalohydrins](https://ja.wikipedia.org/wiki/w:epihalohydrins "wikilink") -
+  - [episulfonium ions](https://ja.wikipedia.org/wiki/w:episulfonium_ions "wikilink") -
+  - [epoxides](https://ja.wikipedia.org/wiki/w:epoxides "wikilink") -
+  - [epoxy compounds](https://ja.wikipedia.org/wiki/w:epoxy_compounds "wikilink") -
+  - [esters](https://ja.wikipedia.org/wiki/w:esters "wikilink") -
+  - [ethers](https://ja.wikipedia.org/wiki/w:ethers "wikilink") -
+
+### F
+
+  - [fatty acids](https://ja.wikipedia.org/wiki/w:fatty_acids "wikilink") - [脂肪酸](../Page/脂肪酸.md "wikilink")
+  - [fenestranes](https://ja.wikipedia.org/wiki/w:fenestranes "wikilink") -
+  - [ferrocenophanes](https://ja.wikipedia.org/wiki/w:ferrocenophanes "wikilink") -
+  - [flavins](https://ja.wikipedia.org/wiki/w:flavins "wikilink") -
+  - [w:flavonoids](https://ja.wikipedia.org/wiki/w:flavonoids "wikilink") (isoflavonoids and neoflavonoids) - [フラボノイド](../Page/フラボノイド.md "wikilink")
+  - [flavoproteins](https://ja.wikipedia.org/wiki/w:flavoproteins "wikilink") -
+  - [flavylium salts](https://ja.wikipedia.org/wiki/w:flavylium_salts "wikilink") -
+  - [fluoresceins](https://ja.wikipedia.org/wiki/w:fluoresceins "wikilink") -
+  - [fluorocarbons](https://ja.wikipedia.org/wiki/w:fluorocarbons "wikilink") -
+  - [fluorohydrins](https://ja.wikipedia.org/wiki/w:fluorohydrins "wikilink") -
+  - [formamidine disulfides](https://ja.wikipedia.org/wiki/w:formamidine_disulfides "wikilink") -
+  - [formazans](https://ja.wikipedia.org/wiki/w:formazans "wikilink") -
+  - [fulgides](https://ja.wikipedia.org/wiki/w:fulgides "wikilink") -
+  - [fullerenes](https://ja.wikipedia.org/wiki/w:fullerenes "wikilink") -
+  - [fulminates](https://ja.wikipedia.org/wiki/w:fulminates "wikilink") -
+  - [fulvalenes](https://ja.wikipedia.org/wiki/w:fulvalenes "wikilink") -
+  - [fulvenes](https://ja.wikipedia.org/wiki/w:fulvenes "wikilink") -
+  - [furanocoumarins](https://ja.wikipedia.org/wiki/w:furanocoumarins "wikilink") -
+  - [furanoses](https://ja.wikipedia.org/wiki/w:furanoses "wikilink") -
+  - [furocoumarins](https://ja.wikipedia.org/wiki/w:furocoumarins "wikilink") -
+
+### G
+
+  - [germylenes](https://ja.wikipedia.org/wiki/w:germylenes "wikilink") -
+  - [germylidenes](https://ja.wikipedia.org/wiki/w:germylidenes "wikilink") -
+  - [glycals](https://ja.wikipedia.org/wiki/w:glycals "wikilink") -
+  - [glycans](https://ja.wikipedia.org/wiki/w:glycans "wikilink") -
+  - [glycaric acids](https://ja.wikipedia.org/wiki/w:glycaric_acids "wikilink") -
+  - [glycerides](https://ja.wikipedia.org/wiki/w:glycerides "wikilink") -
+  - [glycitols](https://ja.wikipedia.org/wiki/w:glycitols "wikilink") -
+  - [glycolipids](https://ja.wikipedia.org/wiki/w:glycolipids "wikilink") -
+  - [glycols](https://ja.wikipedia.org/wiki/w:glycols "wikilink") -
+  - [glyconic acids](https://ja.wikipedia.org/wiki/w:glyconic_acids "wikilink") -
+  - [w:glycopeptides](https://ja.wikipedia.org/wiki/w:glycopeptides "wikilink") /glycoproteins -
+  - [glycoproteins](https://ja.wikipedia.org/wiki/w:glycoproteins "wikilink") -
+  - [glycosamines](https://ja.wikipedia.org/wiki/w:glycosamines "wikilink") -
+  - [glycoses](https://ja.wikipedia.org/wiki/w:glycoses "wikilink") -
+  - [glycosides](https://ja.wikipedia.org/wiki/w:glycosides "wikilink") -
+  - [glycosyl group](https://ja.wikipedia.org/wiki/w:glycosyl_group "wikilink") -
+  - [glycosylamines](https://ja.wikipedia.org/wiki/w:glycosylamines "wikilink") -
+  - [glycuronic acids](https://ja.wikipedia.org/wiki/w:glycuronic_acids "wikilink") -
+  - [Grignard reagents](https://ja.wikipedia.org/wiki/w:Grignard_reagents "wikilink") -
+
+### H
+
+  - [haems](https://ja.wikipedia.org/wiki/w:haems "wikilink") -
+  - [halirenium ions](https://ja.wikipedia.org/wiki/w:halirenium_ions "wikilink") -
+  - [haloforms](https://ja.wikipedia.org/wiki/w:haloforms "wikilink") -
+  - [halohydrins](https://ja.wikipedia.org/wiki/w:halohydrins "wikilink") -
+  - [halonium ions](https://ja.wikipedia.org/wiki/w:halonium_ions "wikilink") -
+  - [helicenes](https://ja.wikipedia.org/wiki/w:helicenes "wikilink") -
+  - [hemes and heme derivatives](https://ja.wikipedia.org/wiki/w:hemes_and_heme_derivatives "wikilink") -
+  - [hemiacetals](https://ja.wikipedia.org/wiki/w:hemiacetals "wikilink") -
+  - [hemiaminals](https://ja.wikipedia.org/wiki/w:hemiaminals "wikilink") -
+  - [hemiketals](https://ja.wikipedia.org/wiki/w:hemiketals "wikilink") -
+  - [hemins](https://ja.wikipedia.org/wiki/w:hemins "wikilink") -
+  - [hemochromes](https://ja.wikipedia.org/wiki/w:hemochromes "wikilink") -
+  - [hemoglobins](https://ja.wikipedia.org/wiki/w:hemoglobins "wikilink") -
+  - [Herz compounds](https://ja.wikipedia.org/wiki/w:Herz_compounds "wikilink") -
+  - [hetarenes](https://ja.wikipedia.org/wiki/w:hetarenes "wikilink") -
+  - [hetaryl groups](https://ja.wikipedia.org/wiki/w:hetaryl_groups "wikilink") -
+  - [hetarynes](https://ja.wikipedia.org/wiki/w:hetarynes "wikilink") -
+  - [heteroalkenes](https://ja.wikipedia.org/wiki/w:heteroalkenes "wikilink") -
+  - [heteroarenes](https://ja.wikipedia.org/wiki/w:heteroarenes "wikilink") -
+  - [heteroaryl groups](https://ja.wikipedia.org/wiki/w:heteroaryl_groups "wikilink") -
+  - [heteroarynes](https://ja.wikipedia.org/wiki/w:heteroarynes "wikilink") -
+  - [heterocumulenes](https://ja.wikipedia.org/wiki/w:heterocumulenes "wikilink") -
+  - [heterocyclic compounds](https://ja.wikipedia.org/wiki/w:heterocyclic_compounds "wikilink") -
+  - [heterocyclyl groups](https://ja.wikipedia.org/wiki/w:heterocyclyl_groups "wikilink") -
+  - [homocyclic compounds](https://ja.wikipedia.org/wiki/w:homocyclic_compounds "wikilink") -
+  - [hydrazide hydrazones](https://ja.wikipedia.org/wiki/w:hydrazide_hydrazones "wikilink") -
+  - [hydrazide imides](https://ja.wikipedia.org/wiki/w:hydrazide_imides "wikilink") -
+  - [hydrazides](https://ja.wikipedia.org/wiki/w:hydrazides "wikilink") -
+  - [hydrazidines](https://ja.wikipedia.org/wiki/w:hydrazidines "wikilink") -
+  - [hydrazines](https://ja.wikipedia.org/wiki/w:hydrazines "wikilink") -
+  - [hydrazinylidenes](https://ja.wikipedia.org/wiki/w:hydrazinylidenes "wikilink") -
+  - [hydrazo compounds](https://ja.wikipedia.org/wiki/w:hydrazo_compounds "wikilink") -
+  - [hydrazones](https://ja.wikipedia.org/wiki/w:hydrazones "wikilink") -
+  - [hydrazonic acids](https://ja.wikipedia.org/wiki/w:hydrazonic_acids "wikilink") -
+  - [hydrocarbons](https://ja.wikipedia.org/wiki/w:hydrocarbons "wikilink") -
+  - [hydrocarbyl groups](https://ja.wikipedia.org/wiki/w:hydrocarbyl_groups "wikilink") -
+  - [hydrocarbylene groups](https://ja.wikipedia.org/wiki/w:hydrocarbylene_groups "wikilink") -
+  - [hydrocarbylidene groups](https://ja.wikipedia.org/wiki/w:hydrocarbylidene_groups "wikilink") -
+  - [hydrocarbylidyne groups](https://ja.wikipedia.org/wiki/w:hydrocarbylidyne_groups "wikilink") -
+  - [hydrocarbylsulfanyl nitrenes](https://ja.wikipedia.org/wiki/w:hydrocarbylsulfanyl_nitrenes "wikilink") -
+  - [hydroperoxides](https://ja.wikipedia.org/wiki/w:hydroperoxides "wikilink") -
+  - [hydropolysulfides](https://ja.wikipedia.org/wiki/w:hydropolysulfides "wikilink") -
+  - [hydrosulfides](https://ja.wikipedia.org/wiki/w:hydrosulfides "wikilink") -
+  - [hydroxamic acids](https://ja.wikipedia.org/wiki/w:hydroxamic_acids "wikilink") -
+  - [hydroximic acids](https://ja.wikipedia.org/wiki/w:hydroximic_acids "wikilink") -
+  - [hydroxylamines](https://ja.wikipedia.org/wiki/w:hydroxylamines "wikilink") -
+  - [icosanoids](https://ja.wikipedia.org/wiki/w:icosanoids "wikilink") -
+
+### I
+
+  - [imides](https://ja.wikipedia.org/wiki/w:imides "wikilink") - [イミド](https://ja.wikipedia.org/wiki/イミド "wikilink")
+  - [imidic acids](https://ja.wikipedia.org/wiki/w:imidic_acids "wikilink") -
+  - [imidines](https://ja.wikipedia.org/wiki/w:imidines "wikilink") -
+  - [imidogens](https://ja.wikipedia.org/wiki/w:imidogens "wikilink") -
+  - [imidonium ions](https://ja.wikipedia.org/wiki/w:imidonium_ions "wikilink") -
+  - [imidoyl carbenes](https://ja.wikipedia.org/wiki/w:imidoyl_carbenes "wikilink") -
+  - [imidoyl nitrenes](https://ja.wikipedia.org/wiki/w:imidoyl_nitrenes "wikilink") -
+  - [imines](https://ja.wikipedia.org/wiki/w:imines "wikilink") -
+  - [iminium compounds](https://ja.wikipedia.org/wiki/w:iminium_compounds "wikilink") -
+  - [imino acids](https://ja.wikipedia.org/wiki/w:imino_acids "wikilink") -
+  - [imino carbenes](https://ja.wikipedia.org/wiki/w:imino_carbenes "wikilink") -
+  - [w:iminooxy](https://ja.wikipedia.org/wiki/w:iminooxy "wikilink") /iminoxy radicals -
+  - [iminoxyl radicals](https://ja.wikipedia.org/wiki/w:iminoxyl_radicals "wikilink") -
+  - [iminyl carbenes](https://ja.wikipedia.org/wiki/w:iminyl_carbenes "wikilink") -
+  - [iminyl radicals](https://ja.wikipedia.org/wiki/w:iminyl_radicals "wikilink") -
+  - [iminylium ions](https://ja.wikipedia.org/wiki/w:iminylium_ions "wikilink") -
+  - [inclusion compounds](https://ja.wikipedia.org/wiki/w:inclusion_compounds "wikilink") -
+  - [inner salts](https://ja.wikipedia.org/wiki/w:inner_salts "wikilink") -
+  - [inositols](https://ja.wikipedia.org/wiki/w:inositols "wikilink") -
+  - [intercalation compounds](https://ja.wikipedia.org/wiki/w:intercalation_compounds "wikilink") -
+  - [iodohydrins](https://ja.wikipedia.org/wiki/w:iodohydrins "wikilink") -
+  - [iodonium ions](https://ja.wikipedia.org/wiki/w:iodonium_ions "wikilink") -
+  - [ion pairs](https://ja.wikipedia.org/wiki/w:ion_pairs "wikilink") -
+  - [ion radicals](https://ja.wikipedia.org/wiki/w:ion_radicals "wikilink") -
+  - [iridoids](https://ja.wikipedia.org/wiki/w:iridoids "wikilink") -
+  - [isocoumarins](https://ja.wikipedia.org/wiki/w:isocoumarins "wikilink") -
+  - [isocyanates](https://ja.wikipedia.org/wiki/w:isocyanates "wikilink") -
+  - [isocyanides](https://ja.wikipedia.org/wiki/w:isocyanides "wikilink") -
+  - [isocyclic compounds](https://ja.wikipedia.org/wiki/w:isocyclic_compounds "wikilink") -
+  - [isodiazenes](https://ja.wikipedia.org/wiki/w:isodiazenes "wikilink") -
+  - [isoflavonoids](https://ja.wikipedia.org/wiki/w:isoflavonoids "wikilink") -
+  - [isonitriles](https://ja.wikipedia.org/wiki/w:isonitriles "wikilink") -
+  - [isonitroso compounds](https://ja.wikipedia.org/wiki/w:isonitroso_compounds "wikilink") -
+  - [isoprenoids](https://ja.wikipedia.org/wiki/w:isoprenoids "wikilink") -
+  - [isoselenocyanates](https://ja.wikipedia.org/wiki/w:isoselenocyanates "wikilink") -
+  - [isothiocyanates](https://ja.wikipedia.org/wiki/w:isothiocyanates "wikilink") -
+  - [isoureas](https://ja.wikipedia.org/wiki/w:isoureas "wikilink") -
+
+### K
+
+  - [kephalins](https://ja.wikipedia.org/wiki/w:kephalins "wikilink") -
+  - [ketals](https://ja.wikipedia.org/wiki/w:ketals "wikilink") -
+  - [ketazines](https://ja.wikipedia.org/wiki/w:ketazines "wikilink") -
+  - [ketenes](https://ja.wikipedia.org/wiki/w:ketenes "wikilink") -
+  - [ketenimines](https://ja.wikipedia.org/wiki/w:ketenimines "wikilink") -
+  - [ketides](https://ja.wikipedia.org/wiki/w:ketides "wikilink") -
+  - [ketimines](https://ja.wikipedia.org/wiki/w:ketimines "wikilink") -
+  - [keto](https://ja.wikipedia.org/wiki/w:keto "wikilink") - [ケト基](https://ja.wikipedia.org/wiki/ケト基 "wikilink")
+  - [keto carbenes](https://ja.wikipedia.org/wiki/w:keto_carbenes "wikilink") -
+  - [ketoaldonic acids](https://ja.wikipedia.org/wiki/w:ketoaldonic_acids "wikilink") -
+  - [ketoaldoses](https://ja.wikipedia.org/wiki/w:ketoaldoses "wikilink") -
+  - [ketones](https://ja.wikipedia.org/wiki/w:ketones "wikilink") -
+  - [ketoses](https://ja.wikipedia.org/wiki/w:ketoses "wikilink") -
+  - [ketoximes](https://ja.wikipedia.org/wiki/w:ketoximes "wikilink") -
+  - [ketyls](https://ja.wikipedia.org/wiki/w:ketyls "wikilink") -
+
+### L
+
+  - [lactams](https://ja.wikipedia.org/wiki/w:lactams "wikilink") - [ラクタム](../Page/ラクタム.md "wikilink")
+  - [lactides](https://ja.wikipedia.org/wiki/w:lactides "wikilink") -
+  - [lactims](https://ja.wikipedia.org/wiki/w:lactims "wikilink") -
+  - [lactols](https://ja.wikipedia.org/wiki/w:lactols "wikilink") -
+  - [lactones](https://ja.wikipedia.org/wiki/w:lactones "wikilink") -
+  - [lariat ethers](https://ja.wikipedia.org/wiki/w:lariat_ethers "wikilink") -
+  - [lecithins](https://ja.wikipedia.org/wiki/w:lecithins "wikilink") -
+  - [leuco bases](https://ja.wikipedia.org/wiki/w:leuco_bases "wikilink") -
+  - [leuco compounds](https://ja.wikipedia.org/wiki/w:leuco_compounds "wikilink") -
+  - [leukotrienes](https://ja.wikipedia.org/wiki/w:leukotrienes "wikilink") -
+  - [lignans](https://ja.wikipedia.org/wiki/w:lignans "wikilink") -
+  - [lignins](https://ja.wikipedia.org/wiki/w:lignins "wikilink") -
+  - [lipids](https://ja.wikipedia.org/wiki/w:lipids "wikilink") -
+  - [lipopolysaccharides](https://ja.wikipedia.org/wiki/w:lipopolysaccharides "wikilink") -
+  - [lipoproteins](https://ja.wikipedia.org/wiki/w:lipoproteins "wikilink") -
+
+### H
+
+  - [macrolides](https://ja.wikipedia.org/wiki/w:macrolides "wikilink") - [マクロライド](https://ja.wikipedia.org/wiki/マクロライド "wikilink")
+  - [mancude-ring systems](https://ja.wikipedia.org/wiki/w:mancude-ring_systems "wikilink") -
+  - [mancunide-ring systems](https://ja.wikipedia.org/wiki/w:mancunide-ring_systems "wikilink") -
+  - [Meisenheimer complexes/compounds/adducts](https://ja.wikipedia.org/wiki/w:Meisenheimer_complexes/compounds/adducts "wikilink") -
+  - [mercaptals](https://ja.wikipedia.org/wiki/w:mercaptals "wikilink") -
+  - [mercaptans](https://ja.wikipedia.org/wiki/w:mercaptans "wikilink") -
+  - [mercaptides](https://ja.wikipedia.org/wiki/w:mercaptides "wikilink") -
+  - [mercaptoles](https://ja.wikipedia.org/wiki/w:mercaptoles "wikilink") -
+  - [mero](https://ja.wikipedia.org/wiki/w:mero "wikilink") -
+  - [mesoionic compounds](https://ja.wikipedia.org/wiki/w:mesoionic_compounds "wikilink") -
+  - [metal-carbene complexes](https://ja.wikipedia.org/wiki/w:metal-carbene_complexes "wikilink") -
+  - [metal-carbyne complexes](https://ja.wikipedia.org/wiki/w:metal-carbyne_complexes "wikilink") -
+  - [metallacycloalkanes](https://ja.wikipedia.org/wiki/w:metallacycloalkanes "wikilink") -
+  - [metallocenes](https://ja.wikipedia.org/wiki/w:metallocenes "wikilink") -
+  - [molozonides](https://ja.wikipedia.org/wiki/w:molozonides "wikilink") -
+  - [monosaccharides](https://ja.wikipedia.org/wiki/w:monosaccharides "wikilink") -
+  - [monoterpenes](https://ja.wikipedia.org/wiki/w:monoterpenes "wikilink") -
+  - [monoterpenoids](https://ja.wikipedia.org/wiki/w:monoterpenoids "wikilink") -
+  - [monothioacetals](https://ja.wikipedia.org/wiki/w:monothioacetals "wikilink") -
+  - [mucopolysaccharides](https://ja.wikipedia.org/wiki/w:mucopolysaccharides "wikilink") -
+  - [munchnones](https://ja.wikipedia.org/wiki/w:munchnones "wikilink") -
+  - [mustard oils](https://ja.wikipedia.org/wiki/w:mustard_oils "wikilink") -
+  - [mustards](https://ja.wikipedia.org/wiki/w:mustards "wikilink") -
+
+### N
+
+  - [naphthenes](https://ja.wikipedia.org/wiki/w:naphthenes "wikilink") - [ナフタレン](../Page/ナフタレン.md "wikilink")
+  - [naphthenic acids](https://ja.wikipedia.org/wiki/w:naphthenic_acids "wikilink") -
+  - [neoflavonoids](https://ja.wikipedia.org/wiki/w:neoflavonoids "wikilink") -
+  - [neolignans](https://ja.wikipedia.org/wiki/w:neolignans "wikilink") -
+  - [nitramines](https://ja.wikipedia.org/wiki/w:nitramines "wikilink") -
+  - [nitrenes](https://ja.wikipedia.org/wiki/w:nitrenes "wikilink") -
+  - [nitrenium ions](https://ja.wikipedia.org/wiki/w:nitrenium_ions "wikilink") -
+  - [nitrile imides](https://ja.wikipedia.org/wiki/w:nitrile_imides "wikilink") -
+  - [nitrile oxides](https://ja.wikipedia.org/wiki/w:nitrile_oxides "wikilink") -
+  - [nitrile sulfides](https://ja.wikipedia.org/wiki/w:nitrile_sulfides "wikilink") -
+  - [nitrile ylides](https://ja.wikipedia.org/wiki/w:nitrile_ylides "wikilink") -
+  - [nitriles](https://ja.wikipedia.org/wiki/w:nitriles "wikilink") -
+  - [nitrilimines](https://ja.wikipedia.org/wiki/w:nitrilimines "wikilink") -
+  - [nitrilium betaines](https://ja.wikipedia.org/wiki/w:nitrilium_betaines "wikilink") -
+  - [nitrilium ions](https://ja.wikipedia.org/wiki/w:nitrilium_ions "wikilink") -
+  - [nitrimines](https://ja.wikipedia.org/wiki/w:nitrimines "wikilink") -
+  - [nitro compounds](https://ja.wikipedia.org/wiki/w:nitro_compounds "wikilink") -
+  - [nitrogen mustards](https://ja.wikipedia.org/wiki/w:nitrogen_mustards "wikilink") -
+  - [nitrogen ylides](https://ja.wikipedia.org/wiki/w:nitrogen_ylides "wikilink") -
+  - [nitrolic acids](https://ja.wikipedia.org/wiki/w:nitrolic_acids "wikilink") -
+  - [nitrones](https://ja.wikipedia.org/wiki/w:nitrones "wikilink") -
+  - [nitronic acids](https://ja.wikipedia.org/wiki/w:nitronic_acids "wikilink") -
+  - [nitrosamides](https://ja.wikipedia.org/wiki/w:nitrosamides "wikilink") -
+  - [nitrosamines](https://ja.wikipedia.org/wiki/w:nitrosamines "wikilink") -
+  - [nitrosimines](https://ja.wikipedia.org/wiki/w:nitrosimines "wikilink") -
+  - [nitroso compounds](https://ja.wikipedia.org/wiki/w:nitroso_compounds "wikilink") -
+  - [nitrosolic acids](https://ja.wikipedia.org/wiki/w:nitrosolic_acids "wikilink") -
+  - [nitroxides](https://ja.wikipedia.org/wiki/w:nitroxides "wikilink") -
+  - [nitroxyl radicals](https://ja.wikipedia.org/wiki/w:nitroxyl_radicals "wikilink") -
+  - [nucleic acids](https://ja.wikipedia.org/wiki/w:nucleic_acids "wikilink") -
+  - [nucleoproteins](https://ja.wikipedia.org/wiki/w:nucleoproteins "wikilink") -
+  - [nucleosides](https://ja.wikipedia.org/wiki/w:nucleosides "wikilink") -
+  - [nucleotides](https://ja.wikipedia.org/wiki/w:nucleotides "wikilink") -
+
+### O
+
+  - [olefins](https://ja.wikipedia.org/wiki/w:olefins "wikilink") -
+  - [oligo](https://ja.wikipedia.org/wiki/w:oligo "wikilink") -
+  - [oligonucleotides](https://ja.wikipedia.org/wiki/w:oligonucleotides "wikilink") -
+  - [oligopeptides](https://ja.wikipedia.org/wiki/w:oligopeptides "wikilink") -
+  - [oligosaccharides](https://ja.wikipedia.org/wiki/w:oligosaccharides "wikilink") -
+  - [onium compounds](https://ja.wikipedia.org/wiki/w:onium_compounds "wikilink") -
+  - [organo-](https://ja.wikipedia.org/wiki/w:organo- "wikilink") -
+  - [organoheteryl groups](https://ja.wikipedia.org/wiki/w:organoheteryl_groups "wikilink") -
+  - [organometallic compounds](https://ja.wikipedia.org/wiki/w:organometallic_compounds "wikilink") -
+  - [organyl groups](https://ja.wikipedia.org/wiki/w:organyl_groups "wikilink") -
+  - [ortho acids](https://ja.wikipedia.org/wiki/w:ortho_acids "wikilink") -
+  - [ortho amides](https://ja.wikipedia.org/wiki/w:ortho_amides "wikilink") -
+  - [ortho esters](https://ja.wikipedia.org/wiki/w:ortho_esters "wikilink") -
+  - [osazones](https://ja.wikipedia.org/wiki/w:osazones "wikilink") -
+  - [osides](https://ja.wikipedia.org/wiki/w:osides "wikilink") -
+  - [osones](https://ja.wikipedia.org/wiki/w:osones "wikilink") -
+  - [osotriazoles](https://ja.wikipedia.org/wiki/w:osotriazoles "wikilink") -
+  - [oxenium ions](https://ja.wikipedia.org/wiki/w:oxenium_ions "wikilink") -
+  - [oxime O-ethers](https://ja.wikipedia.org/wiki/w:oxime_O-ethers "wikilink") -
+  - [oximes](https://ja.wikipedia.org/wiki/w:oximes "wikilink") -
+  - [oxo acids](https://ja.wikipedia.org/wiki/w:oxo_acids "wikilink") -
+  - [α-oxo carbenes](https://ja.wikipedia.org/wiki/w:α-oxo_carbenes "wikilink") -
+  - [oxo carboxylic acids](https://ja.wikipedia.org/wiki/w:oxo_carboxylic_acids "wikilink") -
+  - [oxo compounds](https://ja.wikipedia.org/wiki/w:oxo_compounds "wikilink") -
+  - [oxoacids](https://ja.wikipedia.org/wiki/w:oxoacids "wikilink") -
+  - [oxocarbons](https://ja.wikipedia.org/wiki/w:oxocarbons "wikilink") -
+  - [oxonium ions](https://ja.wikipedia.org/wiki/w:oxonium_ions "wikilink") -
+  - [oxonium ylides](https://ja.wikipedia.org/wiki/w:oxonium_ylides "wikilink") -
+  - [oxyacid/oxy-acid](https://ja.wikipedia.org/wiki/w:oxyacid/oxy-acid "wikilink") -
+  - [oxylium ions](https://ja.wikipedia.org/wiki/w:oxylium_ions "wikilink") -
+  - [ozonides](https://ja.wikipedia.org/wiki/w:ozonides "wikilink") -
+
+### P
+
+  - [paddlanes](https://ja.wikipedia.org/wiki/w:paddlanes "wikilink") -
+  - [paraffins](https://ja.wikipedia.org/wiki/w:paraffins "wikilink") -
+  - [pectins](https://ja.wikipedia.org/wiki/w:pectins "wikilink") -
+  - [penams](https://ja.wikipedia.org/wiki/w:penams "wikilink") -
+  - [penems](https://ja.wikipedia.org/wiki/w:penems "wikilink") -
+  - [penicillins](https://ja.wikipedia.org/wiki/w:penicillins "wikilink") -
+  - [peptides](https://ja.wikipedia.org/wiki/w:peptides "wikilink") -
+  - [per acids](https://ja.wikipedia.org/wiki/w:per_acids "wikilink") -
+  - [peroxides](https://ja.wikipedia.org/wiki/w:peroxides "wikilink") -
+  - [peroxo compounds](https://ja.wikipedia.org/wiki/w:peroxo_compounds "wikilink") -
+  - [peroxy acids](https://ja.wikipedia.org/wiki/w:peroxy_acids "wikilink") -
+  - [phenolates](https://ja.wikipedia.org/wiki/w:phenolates "wikilink") -
+  - [phenols](https://ja.wikipedia.org/wiki/w:phenols "wikilink") -
+  - [phenonium ions](https://ja.wikipedia.org/wiki/w:phenonium_ions "wikilink") -
+  - [phenoxides](https://ja.wikipedia.org/wiki/w:phenoxides "wikilink") -
+  - [phosphanes](https://ja.wikipedia.org/wiki/w:phosphanes "wikilink") -
+  - [phosphanylidenes](https://ja.wikipedia.org/wiki/w:phosphanylidenes "wikilink") -
+  - [phosphatidic acids](https://ja.wikipedia.org/wiki/w:phosphatidic_acids "wikilink") -
+  - [phosphazenes](https://ja.wikipedia.org/wiki/w:phosphazenes "wikilink") -
+  - [phosphine oxides](https://ja.wikipedia.org/wiki/w:phosphine_oxides "wikilink") -
+  - [phosphines](https://ja.wikipedia.org/wiki/w:phosphines "wikilink") -
+  - [phosphinic acids](https://ja.wikipedia.org/wiki/w:phosphinic_acids "wikilink") -
+  - [phosphinidenes](https://ja.wikipedia.org/wiki/w:phosphinidenes "wikilink") -
+  - [phosphinous acids](https://ja.wikipedia.org/wiki/w:phosphinous_acids "wikilink") -
+  - [phospho](https://ja.wikipedia.org/wiki/w:phospho "wikilink") -
+  - [phosphoglycerides](https://ja.wikipedia.org/wiki/w:phosphoglycerides "wikilink") -
+  - [phospholipids](https://ja.wikipedia.org/wiki/w:phospholipids "wikilink") -
+  - [phosphonic acids](https://ja.wikipedia.org/wiki/w:phosphonic_acids "wikilink") -
+  - [phosphonitriles](https://ja.wikipedia.org/wiki/w:phosphonitriles "wikilink") -
+  - [phosphonium compounds](https://ja.wikipedia.org/wiki/w:phosphonium_compounds "wikilink") -
+  - [phosphonium ylides](https://ja.wikipedia.org/wiki/w:phosphonium_ylides "wikilink") -
+  - [phosphono](https://ja.wikipedia.org/wiki/w:phosphono "wikilink") -
+  - [phosphonous acids](https://ja.wikipedia.org/wiki/w:phosphonous_acids "wikilink") -
+  - [phosphoramides](https://ja.wikipedia.org/wiki/w:phosphoramides "wikilink") -
+  - [phosphoranes](https://ja.wikipedia.org/wiki/w:phosphoranes "wikilink") -
+  - [phosphoranyl radicals](https://ja.wikipedia.org/wiki/w:phosphoranyl_radicals "wikilink") -
+  - [phosphorus ylides](https://ja.wikipedia.org/wiki/w:phosphorus_ylides "wikilink") -
+  - [phosphylenes](https://ja.wikipedia.org/wiki/w:phosphylenes "wikilink") -
+  - [phthalides](https://ja.wikipedia.org/wiki/w:phthalides "wikilink") -
+  - [pi-adducts](https://ja.wikipedia.org/wiki/w:pi-adducts "wikilink") -
+  - [pi-complexes](https://ja.wikipedia.org/wiki/w:pi-complexes "wikilink") -
+  - [picrates](https://ja.wikipedia.org/wiki/w:picrates "wikilink") -
+  - [pinacols](https://ja.wikipedia.org/wiki/w:pinacols "wikilink") -
+  - [plumbylenes](https://ja.wikipedia.org/wiki/w:plumbylenes "wikilink") -
+  - [plumbylidenes](https://ja.wikipedia.org/wiki/w:plumbylidenes "wikilink") -
+  - [polyhedranes](https://ja.wikipedia.org/wiki/w:polyhedranes "wikilink") -
+  - [polyketides](https://ja.wikipedia.org/wiki/w:polyketides "wikilink") -
+  - [polypeptides](https://ja.wikipedia.org/wiki/w:polypeptides "wikilink") -
+  - [w:polyquinanes](https://ja.wikipedia.org/wiki/w:polyquinanes "wikilink") /polyquinenes -
+  - [polysaccharides](https://ja.wikipedia.org/wiki/w:polysaccharides "wikilink") -
+  - [polysulfanes](https://ja.wikipedia.org/wiki/w:polysulfanes "wikilink") -
+  - [polysulfides](https://ja.wikipedia.org/wiki/w:polysulfides "wikilink") -
+  - [porphyrins](https://ja.wikipedia.org/wiki/w:porphyrins "wikilink") -
+  - [prenols](https://ja.wikipedia.org/wiki/w:prenols "wikilink") -
+  - [propellanes](https://ja.wikipedia.org/wiki/w:propellanes "wikilink") -
+  - [prostaglandins](https://ja.wikipedia.org/wiki/w:prostaglandins "wikilink") -
+  - [prostanoids](https://ja.wikipedia.org/wiki/w:prostanoids "wikilink") -
+  - [proteins](https://ja.wikipedia.org/wiki/w:proteins "wikilink") -
+  - [pseudo acids](https://ja.wikipedia.org/wiki/w:pseudo_acids "wikilink") -
+  - [pseudo bases](https://ja.wikipedia.org/wiki/w:pseudo_bases "wikilink") -
+  - [pseudohalogens](https://ja.wikipedia.org/wiki/w:pseudohalogens "wikilink") -
+  - [pseudoureas](https://ja.wikipedia.org/wiki/w:pseudoureas "wikilink") -
+  - [pthaleins](https://ja.wikipedia.org/wiki/w:pthaleins "wikilink") -
+  - [purine bases](https://ja.wikipedia.org/wiki/w:purine_bases "wikilink") -
+  - [pyranoses](https://ja.wikipedia.org/wiki/w:pyranoses "wikilink") -
+  - [pyrimidine bases](https://ja.wikipedia.org/wiki/w:pyrimidine_bases "wikilink") -
+  - [pyro](https://ja.wikipedia.org/wiki/w:pyro "wikilink") -
+  - [pyrromethenes](https://ja.wikipedia.org/wiki/w:pyrromethenes "wikilink") -
+
+### Q
+
+  - [quaternary ammonium compounds](https://ja.wikipedia.org/wiki/w:quaternary_ammonium_compounds "wikilink") -
+  - [quinarenes](https://ja.wikipedia.org/wiki/w:quinarenes "wikilink") -
+  - [quinhydrones](https://ja.wikipedia.org/wiki/w:quinhydrones "wikilink") -
+  - [quinomethanes](https://ja.wikipedia.org/wiki/w:quinomethanes "wikilink") -
+  - [w:quinomethides](https://ja.wikipedia.org/wiki/w:quinomethides "wikilink") /quinone methides -
+  - [quinone diazides](https://ja.wikipedia.org/wiki/w:quinone_diazides "wikilink") -
+  - [quinones](https://ja.wikipedia.org/wiki/w:quinones "wikilink") -
+  - [w:quinonimines](https://ja.wikipedia.org/wiki/w:quinonimines "wikilink") /quinone imines-
+  - [quinonoximes](https://ja.wikipedia.org/wiki/w:quinonoximes "wikilink") -
+
+### R
+
+  - [radical anions](https://ja.wikipedia.org/wiki/w:radical_anions "wikilink") -
+  - [radical cations](https://ja.wikipedia.org/wiki/w:radical_cations "wikilink") -
+  - [radical ions](https://ja.wikipedia.org/wiki/w:radical_ions "wikilink") -
+  - [radical pairs](https://ja.wikipedia.org/wiki/w:radical_pairs "wikilink") -
+  - [radicals](https://ja.wikipedia.org/wiki/w:radicals "wikilink") -
+  - [reductones](https://ja.wikipedia.org/wiki/w:reductones "wikilink") -
+  - [Reissert compounds](https://ja.wikipedia.org/wiki/w:Reissert_compounds "wikilink") -
+  - [retinoids](https://ja.wikipedia.org/wiki/w:retinoids "wikilink") -
+  - [retro](https://ja.wikipedia.org/wiki/w:retro "wikilink") -
+  - [rhodamine dyes](https://ja.wikipedia.org/wiki/w:rhodamine_dyes "wikilink") -
+  - [w:ribonucleic acids](https://ja.wikipedia.org/wiki/w:ribonucleic_acids "wikilink") (RNA) -
+  - [ribonucleotides](https://ja.wikipedia.org/wiki/w:ribonucleotides "wikilink") -
+  - [rotaxanes](https://ja.wikipedia.org/wiki/w:rotaxanes "wikilink") -
+  - [rotenoids](https://ja.wikipedia.org/wiki/w:rotenoids "wikilink") -
+
+### S
+
+  - [saccharides](https://ja.wikipedia.org/wiki/w:saccharides "wikilink") -
+  - [sandwich compounds](https://ja.wikipedia.org/wiki/w:sandwich_compounds "wikilink") -
+  - [Schiff bases](https://ja.wikipedia.org/wiki/w:Schiff_bases,_Schiff's_bases "wikilink") -
+  - [selenenic acids](https://ja.wikipedia.org/wiki/w:selenenic_acids "wikilink") -
+  - [selenides](https://ja.wikipedia.org/wiki/w:selenides "wikilink") -
+  - [seleninic acids](https://ja.wikipedia.org/wiki/w:seleninic_acids "wikilink") -
+  - [selenocyanates](https://ja.wikipedia.org/wiki/w:selenocyanates "wikilink") -
+  - [selenols](https://ja.wikipedia.org/wiki/w:selenols "wikilink") -
+  - [selenones](https://ja.wikipedia.org/wiki/w:selenones "wikilink") -
+  - [selenonic acids](https://ja.wikipedia.org/wiki/w:selenonic_acids "wikilink") -
+  - [selenoxides](https://ja.wikipedia.org/wiki/w:selenoxides "wikilink") -
+  - [selones](https://ja.wikipedia.org/wiki/w:selones "wikilink") -
+  - [semicarbazones](https://ja.wikipedia.org/wiki/w:semicarbazones "wikilink") -
+  - [semioxamazones](https://ja.wikipedia.org/wiki/w:semioxamazones "wikilink") -
+  - [semiquinones](https://ja.wikipedia.org/wiki/w:semiquinones "wikilink") -
+  - [sesquiterpenoids](https://ja.wikipedia.org/wiki/w:sesquiterpenoids "wikilink") -
+  - [sesterterpenoids](https://ja.wikipedia.org/wiki/w:sesterterpenoids "wikilink") -
+  - [silanes](https://ja.wikipedia.org/wiki/w:silanes "wikilink") -
+  - [silanols](https://ja.wikipedia.org/wiki/w:silanols "wikilink") -
+  - [silasesquiazanes](https://ja.wikipedia.org/wiki/w:silasesquiazanes "wikilink") -
+  - [silasesquioxanes](https://ja.wikipedia.org/wiki/w:silasesquioxanes "wikilink") -
+  - [silasesquithianes](https://ja.wikipedia.org/wiki/w:silasesquithianes "wikilink") -
+  - [silathianes](https://ja.wikipedia.org/wiki/w:silathianes "wikilink") -
+  - [silazanes](https://ja.wikipedia.org/wiki/w:silazanes "wikilink") -
+  - [silicones](https://ja.wikipedia.org/wiki/w:silicones "wikilink") -
+  - [siloxanes](https://ja.wikipedia.org/wiki/w:siloxanes "wikilink") -
+  - [silyl groups](https://ja.wikipedia.org/wiki/w:silyl_groups "wikilink") -
+  - [silyl radicals](https://ja.wikipedia.org/wiki/w:silyl_radicals "wikilink") -
+  - [silylenes](https://ja.wikipedia.org/wiki/w:silylenes "wikilink") -
+  - [spiro compounds](https://ja.wikipedia.org/wiki/w:spiro_compounds "wikilink") -
+  - [stannoxanes](https://ja.wikipedia.org/wiki/w:stannoxanes "wikilink") -
+  - [stannylenes](https://ja.wikipedia.org/wiki/w:stannylenes "wikilink") -
+  - [stannylidenes](https://ja.wikipedia.org/wiki/w:stannylidenes "wikilink") -
+  - [steroids](https://ja.wikipedia.org/wiki/w:steroids "wikilink") -
+  - [sterols](https://ja.wikipedia.org/wiki/w:sterols "wikilink") -
+  - [stibanes](https://ja.wikipedia.org/wiki/w:stibanes "wikilink") -
+  - [stibanylidenes](https://ja.wikipedia.org/wiki/w:stibanylidenes "wikilink") -
+  - [stibines](https://ja.wikipedia.org/wiki/w:stibines "wikilink") -
+  - [stibinidenes](https://ja.wikipedia.org/wiki/w:stibinidenes "wikilink") -
+  - [stibonium compounds](https://ja.wikipedia.org/wiki/w:stibonium_compounds "wikilink") -
+  - [styphnates](https://ja.wikipedia.org/wiki/w:styphnates "wikilink") -
+  - [sugars](https://ja.wikipedia.org/wiki/w:sugars "wikilink") -
+  - [sulfamic acids](https://ja.wikipedia.org/wiki/w:sulfamic_acids "wikilink") -
+  - [sulfanes](https://ja.wikipedia.org/wiki/w:sulfanes "wikilink") -
+  - [sulfatides](https://ja.wikipedia.org/wiki/w:sulfatides "wikilink") -
+  - [sulfenamides](https://ja.wikipedia.org/wiki/w:sulfenamides "wikilink") -
+  - [sulfenes](https://ja.wikipedia.org/wiki/w:sulfenes "wikilink") -
+  - [sulfenic acids](https://ja.wikipedia.org/wiki/w:sulfenic_acids "wikilink") -
+  - [sulfenium ions](https://ja.wikipedia.org/wiki/w:sulfenium_ions "wikilink") -
+  - [sulfenyl groups](https://ja.wikipedia.org/wiki/w:sulfenyl_groups "wikilink") -
+  - [sulfenyl nitrenes](https://ja.wikipedia.org/wiki/w:sulfenyl_nitrenes "wikilink") -
+  - [sulfenyl radicals](https://ja.wikipedia.org/wiki/w:sulfenyl_radicals "wikilink") -
+  - [sulfenylium ions](https://ja.wikipedia.org/wiki/w:sulfenylium_ions "wikilink") -
+  - [sulfides](https://ja.wikipedia.org/wiki/w:sulfides "wikilink") -
+  - [sulfilimines](https://ja.wikipedia.org/wiki/w:sulfilimines "wikilink") -
+  - [sulfimides](https://ja.wikipedia.org/wiki/w:sulfimides "wikilink") -
+  - [sulfimines](https://ja.wikipedia.org/wiki/w:sulfimines "wikilink") -
+  - [sulfinamides](https://ja.wikipedia.org/wiki/w:sulfinamides "wikilink") -
+  - [sulfinamidines](https://ja.wikipedia.org/wiki/w:sulfinamidines "wikilink") -
+  - [sulfines](https://ja.wikipedia.org/wiki/w:sulfines "wikilink") -
+  - [sulfinic acids](https://ja.wikipedia.org/wiki/w:sulfinic_acids "wikilink") -
+  - [sulfinic anhydrides](https://ja.wikipedia.org/wiki/w:sulfinic_anhydrides "wikilink") -
+  - [sulfinimines](https://ja.wikipedia.org/wiki/w:sulfinimines "wikilink") -
+  - [sulfinylamines](https://ja.wikipedia.org/wiki/w:sulfinylamines "wikilink") -
+  - [sulfolipids](https://ja.wikipedia.org/wiki/w:sulfolipids "wikilink") -
+  - [sulfonamides](https://ja.wikipedia.org/wiki/w:sulfonamides "wikilink") -
+  - [sulfonamidines](https://ja.wikipedia.org/wiki/w:sulfonamidines "wikilink") -
+  - [sulfonediimines](https://ja.wikipedia.org/wiki/w:sulfonediimines "wikilink") -
+  - [sulfones](https://ja.wikipedia.org/wiki/w:sulfones "wikilink") -
+  - [sulfonic acids](https://ja.wikipedia.org/wiki/w:sulfonic_acids "wikilink") -
+  - [sulfonic anhydrides](https://ja.wikipedia.org/wiki/w:sulfonic_anhydrides "wikilink") -
+  - [sulfonimides](https://ja.wikipedia.org/wiki/w:sulfonimides "wikilink") -
+  - [sulfonium compounds](https://ja.wikipedia.org/wiki/w:sulfonium_compounds "wikilink") -
+  - [sulfonphthaleins](https://ja.wikipedia.org/wiki/w:sulfonphthaleins "wikilink") -
+  - [sulfonylamines](https://ja.wikipedia.org/wiki/w:sulfonylamines "wikilink") -
+  - [sulfoxides](https://ja.wikipedia.org/wiki/w:sulfoxides "wikilink") -
+  - [sulfoximides](https://ja.wikipedia.org/wiki/w:sulfoximides "wikilink") -
+  - [sulfoximines](https://ja.wikipedia.org/wiki/w:sulfoximines "wikilink") -
+  - [sulfur diimides](https://ja.wikipedia.org/wiki/w:sulfur_diimides "wikilink") -
+  - [sultams](https://ja.wikipedia.org/wiki/w:sultams "wikilink") -
+  - [sultims](https://ja.wikipedia.org/wiki/w:sultims "wikilink") -
+  - [sultines](https://ja.wikipedia.org/wiki/w:sultines "wikilink") -
+  - [sultones](https://ja.wikipedia.org/wiki/w:sultones "wikilink") -
+  - [sydnone imines](https://ja.wikipedia.org/wiki/w:sydnone_imines "wikilink") -
+  - [sydnones](https://ja.wikipedia.org/wiki/w:sydnones "wikilink") -
+
+### T
+
+  - [tellurides](https://ja.wikipedia.org/wiki/w:tellurides "wikilink") -
+  - [tellurones](https://ja.wikipedia.org/wiki/w:tellurones "wikilink") -
+  - [terpenes](https://ja.wikipedia.org/wiki/w:terpenes "wikilink") -
+  - [terpenoids](https://ja.wikipedia.org/wiki/w:terpenoids "wikilink") -
+  - [tetracyclines](https://ja.wikipedia.org/wiki/w:tetracyclines "wikilink") -
+  - [tetrapyrroles](https://ja.wikipedia.org/wiki/w:tetrapyrroles "wikilink") -
+  - [tetraterpenoids](https://ja.wikipedia.org/wiki/w:tetraterpenoids "wikilink") -
+  - [thiazynes](https://ja.wikipedia.org/wiki/w:thiazynes "wikilink") -
+  - [thio](https://ja.wikipedia.org/wiki/w:thio "wikilink") -
+  - [thioacetals](https://ja.wikipedia.org/wiki/w:thioacetals "wikilink") -
+  - [thioaldehyde S-oxides](https://ja.wikipedia.org/wiki/w:thioaldehyde_S-oxides "wikilink") -
+  - [thioaldehydes](https://ja.wikipedia.org/wiki/w:thioaldehydes "wikilink") -
+  - [thioanhydrides](https://ja.wikipedia.org/wiki/w:thioanhydrides "wikilink") -
+  - [thiocarboxylic acids](https://ja.wikipedia.org/wiki/w:thiocarboxylic_acids "wikilink") -
+  - [thiocyanates](https://ja.wikipedia.org/wiki/w:thiocyanates "wikilink") -
+  - [thioethers](https://ja.wikipedia.org/wiki/w:thioethers "wikilink") -
+  - [thiohemiacetals](https://ja.wikipedia.org/wiki/w:thiohemiacetals "wikilink") -
+  - [thioketone S-oxides](https://ja.wikipedia.org/wiki/w:thioketone_S-oxides "wikilink") -
+  - [thioketones](https://ja.wikipedia.org/wiki/w:thioketones "wikilink") -
+  - [thiolates](https://ja.wikipedia.org/wiki/w:thiolates "wikilink") -
+  - [thiols](https://ja.wikipedia.org/wiki/w:thiols "wikilink") -
+  - [thionylamines](https://ja.wikipedia.org/wiki/w:thionylamines "wikilink") -
+  - [thiyl radicals](https://ja.wikipedia.org/wiki/w:thiyl_radicals "wikilink") -
+  - [triazanes](https://ja.wikipedia.org/wiki/w:triazanes "wikilink") -
+  - [triazenes](https://ja.wikipedia.org/wiki/w:triazenes "wikilink") -
+  - [trimethylenemethanes](https://ja.wikipedia.org/wiki/w:trimethylenemethanes "wikilink") -
+  - [trioxides](https://ja.wikipedia.org/wiki/w:trioxides "wikilink") -
+  - [triterpenoids](https://ja.wikipedia.org/wiki/w:triterpenoids "wikilink") -
+  - [tropilidenes](https://ja.wikipedia.org/wiki/w:tropilidenes "wikilink") -
+  - [tropolones](https://ja.wikipedia.org/wiki/w:tropolones "wikilink") -
+  - [tropones](https://ja.wikipedia.org/wiki/w:tropones "wikilink") -
+  - [tropyl radicals](https://ja.wikipedia.org/wiki/w:tropyl_radicals "wikilink") -
+  - [tropylium ions](https://ja.wikipedia.org/wiki/w:tropylium_ions "wikilink") -
+
+### U
+
+  - [ulosonic acids](https://ja.wikipedia.org/wiki/w:ulosonic_acids "wikilink") -
+  - [ureides](https://ja.wikipedia.org/wiki/w:ureides "wikilink") -
+  - [w:urethanes](https://ja.wikipedia.org/wiki/w:urethanes "wikilink") (urethans) - [ウレタン](https://ja.wikipedia.org/wiki/ウレタン "wikilink")
+  - [uronic acids](https://ja.wikipedia.org/wiki/w:uronic_acids "wikilink") -
+  - [uronium salts](https://ja.wikipedia.org/wiki/w:uronium_salts "wikilink") -
+
+### V
+
+  - [verdazyl radicals](https://ja.wikipedia.org/wiki/w:verdazyl_radicals "wikilink") -
+  - [vinyl carbenes](https://ja.wikipedia.org/wiki/w:vinyl_carbenes "wikilink") -
+  - [vinylic cations](https://ja.wikipedia.org/wiki/w:vinylic_cations "wikilink") -
+  - [vinylic groups](https://ja.wikipedia.org/wiki/w:vinylic_groups "wikilink") -
+  - [vinylidenes](https://ja.wikipedia.org/wiki/w:vinylidenes "wikilink") -
+  - [viologens](https://ja.wikipedia.org/wiki/w:viologens "wikilink") -
+
+### W
+
+  - [Wheland intermediates](https://ja.wikipedia.org/wiki/w:Wheland_intermediates "wikilink") -
+  - [Wittig reagents](https://ja.wikipedia.org/wiki/w:Wittig_reagents "wikilink") -
+
+### X
+
+  - [xanthates](https://ja.wikipedia.org/wiki/w:xanthates "wikilink") -
+  - [xanthene dyes](https://ja.wikipedia.org/wiki/w:xanthene_dyes "wikilink") -
+  - [xanthic acids](https://ja.wikipedia.org/wiki/w:xanthic_acids "wikilink") -
+  - [xanthophylls](https://ja.wikipedia.org/wiki/w:xanthophylls "wikilink") -
+  - [xylylenes](https://ja.wikipedia.org/wiki/w:xylylenes "wikilink") -
+
+### Y
+
+  - [ylides](https://ja.wikipedia.org/wiki/w:ylides "wikilink") - [イリド](../Page/イリド.md "wikilink")
+  - [ynamines](https://ja.wikipedia.org/wiki/w:ynamines "wikilink") -
+  - [ynols](https://ja.wikipedia.org/wiki/w:ynols "wikilink") -
+
+### Z
+
+  - zwitterionic compounds/zwitterions -

@@ -1,0 +1,83 @@
+> この記事は[SUN-TV](https://ja.wikipedia.org/wiki/SUN-TV)から翻訳されています。
+
+
+『**SUN-TVニュース**』（サンテレビニュース）は、[サンテレビで放送されている](../Page/サンテレビジョン.md "wikilink")[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")[番組である](../Page/報道番組.md "wikilink")。サンテレビの[ウェブサイト](../Page/ウェブサイト.md "wikilink")（[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")）では、**サンテレビニュース**と表記されている\[1\]。
+
+## 概要
+
+毎回2 - 3項目の[ニュース](../Page/ニュース.md "wikilink")を伝えるほか、午後の放送分には[天気予報](../Page/天気予報.md "wikilink")が組み込まれている。[兵庫県](../Page/兵庫県.md "wikilink")内（[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")内の一部など周辺部を含む）で起こった事件・事故やトピックスのほか、[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")関連のニュースを伝えることも多い。[2015年](../Page/2015年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")放送分から、タイトルロゴの表記を「**SUN-TV NEWS**」へ変更。
+
+基本として4 - 5分間の枠で放送。[2012年](../Page/2012年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで編成されていた平日の夕方枠のみ、3 - 4項目のニュースと天気予報を伝える関係で、10分間の放送枠が確保されていた。
+
+[日曜日](../Page/日曜日.md "wikilink")には一切放送されないが、夕方（基本として18時台の前半）に自社制作でワイドニュース（『[SUN-TV日曜夕刊](https://ja.wikipedia.org/wiki/SUN-TV日曜夕刊 "wikilink")』→『ニュースSUNデー』）を編成している。
+
+## 放送時間
+
+### 月曜日 - 金曜日
+
+  - 11:55 - 12:00\[2\]\[3\]\[4\]
+  - 15:00 - 15:05\[5\]
+      - 金曜日の14時台については、2016年3月まで『[2時コレ\!しっとぉ\!?](https://ja.wikipedia.org/wiki/2時コレ!しっとぉ!? "wikilink")』（生放送の情報番組）を編成していた関係で、同番組内の14:48頃から4 - 5分程度放送されていた。
+  - 21:27 - 21:30（2018年4月2日 - ）
+      - 2012年4月2日から平日の21:30 - 22:00に放送されていた『[NEWS PORT](https://ja.wikipedia.org/wiki/NEWS_PORT "wikilink")』が、『[情報スタジアム 4時\!キャッチ](https://ja.wikipedia.org/wiki/情報スタジアム_4時!キャッチ "wikilink")』（平日16:00 - 16:55）の開始に伴って2018年3月30日で終了したことから、平日21時台の定時ニュース枠が6年振りに復活。[日本プロ野球](../Page/日本プロ野球.md "wikilink")のシーズン中には、『[サンテレビボックス席](../Page/サンテレビボックス席.md "wikilink")』の中継を延長した場合でも、中継の終了直後から放送枠の完全スライドで対応する。
+
+### 土曜日
+
+  - 13:00 - 13:05\[6\]\[7\]
+  - 17:30 - 17:35\[8\]
+  - 21:24 - 21:27\[9\]\[10\]
+
+### 過去
+
+  - 15:55 - 16:00 （1980年代前半の月曜日 - 金曜日）
+  - 15:25 - 15:30 （1980年代後半の月曜日 - 金曜日）
+  - 10:59 - 11:00、 13:59 - 14:00 (1980年代後期の一時期、平日、フジテレビ「ショットガン」の放送時期にサンテレビでも試行)
+  - 14:55 - 15:00 （2000年台の月曜日 - 金曜日）
+  - 17:45 - 17:50 （2000年4月 - 2007年3月30日の月曜日 - 金曜日）
+  - 21:55 - 22:00 （2007年4月2日 - 2012年3月26日の月曜日）
+  - 21:24 - 21:28 （2007年4月3日 - 2012年3月30日の火曜日 - 金曜日）
+  - 17:50 - 18:00\[11\]\[12\] （2012年4月2日 - 2018年3月30日の月曜日 - 金曜日）
+      - 2018年4月2日から『情報スタジアム 4時\!キャッチ』に内包
+
+この他、2007年 - 2008年から2012年 - 2013年の年末年始時には夕方のニュース番組『[ニュース・シグナル](https://ja.wikipedia.org/wiki/ニュース・シグナル "wikilink")』の休止に伴う代替番組として本番組が夕方に5分間放送されていた（年度によって異なるが、2012年 - 2013年の年末年始には基本的に17:15 - 17:20に放送）。また、2014年5月2日にはサンテレビの開局45周年特番『サンテレビ“的”』内で本来は14時台に放送される『2時コレ\!しっとぉ\!?』が17:00 - 19:00に放送された関係で、本来は単独番組で放送される夕方放送分が『2時コレ\!しっとぉ\!?』に内包される形で18:20から5分間放送された（なお、天気予報はそれとは別枠でニュースに引き続いて放送）。なおこれに伴い、15時前のニュースは単独番組として放送している月曜日 - 木曜日と同じ時間で単独番組として放送された。
+
+## 担当キャスターなど
+
+サンテレビのアナウンサーと契約アナウンサーがシフト制で出演。
+
+『NEWS PORT』を放送していた時期には、平日の夕方枠までに当番組で扱ったニュースを、『NEWS PORT』でも随時放送。平日の夕方枠には、『NEWS SIGNAL』に続いて[前田勝久](https://ja.wikipedia.org/wiki/前田勝久 "wikilink")（[気象予報士](../Page/気象予報士.md "wikilink")）が天気予報を担当した。ちなみに前田は、平日夕方枠の廃止を機に、『情報スタジアム 4時\!キャッチ』の気象キャスターへ異動している。
+
+## 配信媒体
+
+サンテレビのニュースは以下の媒体において配信を行っている（[2019年](../Page/2019年.md "wikilink")時点）。
+
+  - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")（サンテレビ公式チャンネル）
+  - [Yahoo\!ニュース](https://ja.wikipedia.org/wiki/Yahoo!ニュース "wikilink")（[Yahoo\! JAPAN](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN "wikilink")）
+  - [LINE NEWS](https://ja.wikipedia.org/wiki/LINE_NEWS "wikilink")（[LINE](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")、閲覧には友だち登録が必要）
+  - [スマートニュース](https://ja.wikipedia.org/wiki/スマートニュース "wikilink")
+  - nor.（ノアドット、[ヤフーと](https://ja.wikipedia.org/wiki/ヤフー_\(企業\) "wikilink")[共同通信社](../Page/共同通信社.md "wikilink")との合弁事業）
+
+## 脚注
+
+## 外部リンク
+
+  - [サンテレビニュース](http://sun-tv.co.jp/suntvnews/)
+
+  - （動画配信ニュースあり）
+
+  - [Yahoo\!ニュース サンテレビ](https://news.yahoo.co.jp/media/suntvv)
+
+[Category:サンテレビの帯番組](https://ja.wikipedia.org/wiki/Category:サンテレビの帯番組 "wikilink") [Category:近畿地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのニュース・報道番組 "wikilink") [Category:近畿地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのミニ番組 "wikilink") [Category:神戸新聞社](https://ja.wikipedia.org/wiki/Category:神戸新聞社 "wikilink")
+
+1.  [サンテレビ 週間番組表](http://sun-tv.co.jp/weekly)
+2.
+3.
+4.
+5.
+6.
+7.  [2018年](../Page/2018年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までは12:55 - 13:00に放送していたが、直後に編成していた1時間枠の自社制作番組『[午後キュン](https://ja.wikipedia.org/wiki/午後キュン "wikilink")』が同日で終了。同日まで12:00 - 12:55に放送していた『[ええじゃないか。](https://ja.wikipedia.org/wiki/ええじゃないか。 "wikilink")』（[三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ "wikilink")制作）の放送枠を13:05 - 14:00に移動させたため、[2018年](../Page/2018年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から5分繰り下げた。
+8.
+9.
+10.
+11.
+12.

@@ -1,0 +1,63 @@
+> この記事は[1930 FIFAD](https://ja.wikipedia.org/wiki/1930_FIFAD)から翻訳されています。
+
+
+[1930 FIFAワールドカップ](../Page/1930_FIFAワールドカップ.md "wikilink") グループDでは[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[パラグアイ](https://ja.wikipedia.org/wiki/パラグアイ "wikilink")・[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の3チームが組んだ。[7月13日](../Page/7月13日.md "wikilink")から[7月20日](../Page/7月20日.md "wikilink")まで3試合行い、[アメリカが決勝トーナメントへ進出した](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
+
+## 試合結果
+
+<table>
+<thead>
+<tr class="header">
+<th><p>チーム</p></th>
+<th><p>勝ち点</p></th>
+<th><p>試合数</p></th>
+<th><p>勝</p></th>
+<th><p>分</p></th>
+<th><p>敗</p></th>
+<th><p>得点</p></th>
+<th><p>失点</p></th>
+<th><p>得失点差</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p><strong>4</strong></p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>6</p></td>
+<td><p>0</p></td>
+<td><p>+6</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><strong>2</strong></p></td>
+<td><p>2</p></td>
+<td><p>1</p></td>
+<td><p>0</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>3</p></td>
+<td><p>-2</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><strong>0</strong></p></td>
+<td><p>2</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>2</p></td>
+<td><p>0</p></td>
+<td><p>4</p></td>
+<td><p>-4</p></td>
+</tr>
+</tbody>
+</table>
+
+-----
+
+-----
+
+[Category:1930_FIFAワールドカップ](https://ja.wikipedia.org/wiki/Category:1930_FIFAワールドカップ "wikilink")

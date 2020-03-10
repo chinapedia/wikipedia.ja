@@ -1,0 +1,51 @@
+> この記事は[CM](https://ja.wikipedia.org/wiki/CM)から翻訳されています。
+
+
+**インターネットCM**とは、特に[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")の[WWW上における映像および音声を使用した](../Page/World_Wide_Web.md "wikilink")[動画](../Page/動画.md "wikilink")[広告](../Page/広告.md "wikilink")をさす。
+
+## 概要
+
+「ネットCM」「[動画](../Page/動画.md "wikilink")[広告](../Page/広告.md "wikilink")」「[ストリーミング](../Page/ストリーミング.md "wikilink")広告」「[リッチバナー](https://ja.wikipedia.org/wiki/リッチバナー "wikilink")」「[フラッシュバナー](https://ja.wikipedia.org/wiki/フラッシュバナー "wikilink")」など配信技術の違いなどにより様々な呼称があり、どのような範囲を[CMと呼ぶのかが難解なうえ](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")、使用範囲の解釈が放送なのか通信なのか判断しにくい状態となっており、出演者、楽曲の提供者など権利者の方々の混乱を招いたり、誤解を誘発するケースも多くなっている。 そこで、[JIAA](https://ja.wikipedia.org/wiki/インターネット広告推進協議会 "wikilink")（インターネット広告推進協議会）では、1）[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")、[携帯電話](../Page/携帯電話.md "wikilink")を含む通信回線上のサービス（広告主が管理するWebサイトを除く）の広告スペースにおいて、広告主の広告や[マーケティング](https://ja.wikipedia.org/wiki/マーケティング "wikilink")活動を目的として掲載されるもの、2）広告表現として映像および音声を使用し、テレビ[CMのように時間軸で展開される広告と定義した](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")。
+
+## 定義
+
+[JIAA](https://ja.wikipedia.org/wiki/インターネット広告推進協議会 "wikilink")（日本インタラクティブ広告協会）が定めている一般的な定義
+
+  - インターネット、携帯電話を含む通信回線上のサービス（広告主が管理するウェブサイトを除く）の広告スペースにおいて、広告主の広告、マーケティング活動を目的として掲載されるものである。
+  - 広告表現として映像および音声（音楽・ナレーション）を使用し時間軸で展開される広告である。
+  - 映像技術、配信技術についての区別は特にしないが、配信方式は大きく分けてストリーミング方式（ユーザー側の端末にデータが残らない再生方式）とダウンロード方式（ユーザー側の端末にデータの複製を作成し再生する方式）があり、許諾の条件が違うために区別し、どちらであるか明記が必要である。
+  - 地域限定配信の有無、あるいは範囲についても許諾の条件が違うため明記が必要である。
+
+## インターネットCMの歴史
+
+2001頃から[アニメーション](../Page/アニメーション.md "wikilink")および音声を使用して時間軸で展開される[リッチメディア](https://ja.wikipedia.org/wiki/リッチメディア "wikilink")広告は各所で存在していたが、近年の[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")の普及と通信速度の高速化によって[コンテンツ](../Page/コンテンツ.md "wikilink")提供者がより大きなサイズの[動画](../Page/動画.md "wikilink")を配信できるようになった。 これを背景に2005年から[CM](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")（映像広告）挿入による[民放テレビ方式の無料動画配信サービスが相次いでスタートしている](../Page/民間放送.md "wikilink")。それと並行してインターネット利用者の世代や市場定着に着目した企業がテレビCMの続きをインターネット上で配信する傾向が2005年頃より増加傾向にある。また、インターネット特有の質、内容を利用して話題性を見込む[バイラルCM](https://ja.wikipedia.org/wiki/バイラルCM "wikilink")が注目されている。さらに内容に限らず今日では[Web 2.0時代と称され](../Page/Web_2.0.md "wikilink")、コンテンツの提供方法、CMの製作方法もインターネット特有のものが生まれてきている。
+
+## インターネットCMの種類
+
+映像と音声を利用してリッチメディアの延長としてサイトを運営している代表的な媒体として[CMサイト](https://ja.wikipedia.org/wiki/CMサイト "wikilink")、次にテレビ[CMのように番組の途中に時間軸で展開される代表的な媒体として](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")、[TVBank](https://ja.wikipedia.org/wiki/TVBank "wikilink")がある。特殊なケースでは、[アフィリエイトのようにサイト運営者のサイトにCMを配信し展開される代表的な媒体として](https://ja.wikipedia.org/wiki/成功報酬型広告 "wikilink")[Google AdSense](https://ja.wikipedia.org/wiki/Google_AdSense "wikilink")、[a-walk](https://a-walk.cm)などがある。
+
+## インターネットCMの利点
+
+動画広告は静止画広告と比べると表現が豊かで「視覚的」「感情的」に比較的高い訴求力があるとされている。また、[インタラクティブ](https://ja.wikipedia.org/wiki/インタラクティブ "wikilink")性を持たせることも可能であることも特徴であるといえる。
+
+## 問題点
+
+どのような範囲をインターネットCMと呼ぶのかが難解なうえ、使用範囲の解釈が放送なのか通信なのか判断しにくい状態となっており、出演者、楽曲の提供者など[権利者](https://ja.wikipedia.org/wiki/権利者 "wikilink")の混乱を招いたり、誤解を誘発するケースも多い。
+
+インターネット、主に[ウェブサイト](../Page/ウェブサイト.md "wikilink")上での[CM音楽については](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")、これまで企業などの責任で著作権処理が行なわれてきたが、動画配信など、ポータルサイトを媒体としてCM音楽が配信されるパターンが増加している利用実態を踏まえ、使用料率などについて利用者代表である[NMRC](https://ja.wikipedia.org/wiki/ネットワーク音楽著作権連絡協議会 "wikilink")（ネットワーク音楽著作権連絡協議会）との間で協議した。その結果、[JASRAC](../Page/日本音楽著作権協会.md "wikilink")（社団法人日本音楽著作権協会）は、インターネットでの動画配信などに挿入される楽曲の使用料率などを平成19年4月1日より許諾する。 対象となる「インターネットCM」とは、動画の[ストリーミング](../Page/ストリーミング.md "wikilink")配信や、再生制限付きの[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")配信などに挿入されるコマーシャル動画/音声。JASRACでは対象となる利用を「CM配布用録音の承諾を得たCMコンテンツをネット配信し、その著作物使用料を広告関係事業者が支払う場合に適用する」と定めている。
+
+使用料率は「媒体費単価による方式」と、「媒体費総額による方式」の2つを用意している。媒体費単価とは、広告メディアの広告料単価を意味しており、具体的には1個のコンテンツに1回のリクエストがあった場合の単価の5%に、月間の総リクエスト回数を乗じて得た額。もしくは、5,000円のいずれか多い額が月額使用料となる。 媒体費総額とは広告料の総額を意味しており、単価に関わらず、月間の広告料の総額の7%、もしくは5,000円のいずれか多い額を月額使用料としている。
+
+## 関連項目
+
+  - [動画](../Page/動画.md "wikilink")
+  - [ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")
+  - [ストリーミング](../Page/ストリーミング.md "wikilink")
+  - [ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")
+  - [Web 2.0](../Page/Web_2.0.md "wikilink")
+
+## 外部リンク
+
+  - [インターネット広告推進協議会](http://www.jiaa.org/)
+
+[Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink") [Category:インターネット広告](https://ja.wikipedia.org/wiki/Category:インターネット広告 "wikilink")

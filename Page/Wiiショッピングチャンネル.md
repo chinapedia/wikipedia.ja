@@ -1,0 +1,135 @@
+> この記事は[Wii](https://ja.wikipedia.org/wiki/Wii)から翻訳されています。
+
+
+**Wiiショッピングチャンネル**とは、[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")や[Wiiウェア](https://ja.wikipedia.org/wiki/Wiiウェア "wikilink")のソフト、様々な[Wiiチャンネル](../Page/Wiiチャンネル.md "wikilink")を購入・ダウンロードするために利用する[Wiiチャンネル](../Page/Wiiチャンネル.md "wikilink")である。2019年1月31日をもってサービスを終了\[1\]。まず2018年3月27日にWiiポイントの追加が終了。続いて、2019年1月31日にWiiウェア、バーチャルコンソール、Wiiチャンネルの購入が終了となった。終了にともない、未使用のWiiポイント、Wiiポイントプリペイドカード、ニンテンドーポイントプリペイドカードについては同年2月20日から8月30日に払い戻しが行われた。終了日は決まっていないが、全サービスを終了予定。
+
+サービスを終了したが、全サービス終了まで、起動はできてメンテナンスもある。\[2\]
+
+このチャンネルはWii本体に内蔵されているが、Wiiを[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")に接続するまでは利用不可。また、このチャンネルの機能上、利用時にもインターネットに接続する必要がある。
+
+## トップページ
+
+Wiiショッピングチャンネルを起動させると、まずトップページが表示される。トップページには、その週のおすすめソフト4本が表示されている他、新着ソフト、月ごとの配信予定、更新されたソフトなどのお知らせが表示されている。
+
+一番下の「ショッピングへ」ボタンをクリックすると次に進む。なお進んだ後、最上部に表示されている「Wiiショッピングチャンネル」を押せば再びトップページへ戻ることができる。
+
+## バーチャルコンソール
+
+過去に発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")・[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")・[NINTENDO64](../Page/NINTENDO64.md "wikilink")・[メガドライブ](../Page/メガドライブ.md "wikilink")・[PCエンジン](../Page/PCエンジン.md "wikilink")・[NEOGEO](https://ja.wikipedia.org/wiki/NEOGEO "wikilink")・[マスターシステム](https://ja.wikipedia.org/wiki/マスターシステム "wikilink")・[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")・[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")用の一部のゲームソフトを購入・ダウンロードすることのできるメニュー。
+
+ソフトは、「人気ソフト（その時点での人気ソフト、トップ20が表示される）」「新着順」「ハード・メーカー・ジャンルから」「ソフト名を入力」の4種類の方法で検索することができる。
+
+  - バーチャルコンソールの詳細・購入手順は、[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")を参照。
+  - 配信されているタイトルの一覧は、[バーチャルコンソールのゲームタイトル一覧](https://ja.wikipedia.org/wiki/バーチャルコンソールのゲームタイトル一覧 "wikilink")を参照。
+
+## Wiiウェア
+
+Wiiウェア用ソフトを購入・ダウンロードするメニュー。
+
+ソフトは、「人気ソフト（その時点での人気ソフト、トップ20が表示される）」「新着順」「メーカーから」「ジャンルから」「ソフト名を入力」の5種類の方法で検索することができる。
+
+  - Wiiウェアの詳細・購入手順は、[Wiiウェア](https://ja.wikipedia.org/wiki/Wiiウェア "wikilink")を参照。
+  - 配信されているタイトルの一覧は、[Wiiウェアのゲームタイトル一覧](https://ja.wikipedia.org/wiki/Wiiウェアのゲームタイトル一覧 "wikilink")を参照。
+
+## Wiiチャンネル
+
+Wiiチャンネルをダウンロードするメニュー。一覧で表示されるのみで、検索機能は無い。
+
+  - Wiiチャンネルの詳細は、[Wiiチャンネル](../Page/Wiiチャンネル.md "wikilink")を参照。
+  - 配信されているチャンネルの一覧は、[Wiiショッピングチャンネルでダウンロードするチャンネルを参照](https://ja.wikipedia.org/wiki/Wiiチャンネル#Wiiショッピングチャンネルでダウンロードするチャンネル "wikilink")。
+
+## Wiiポイントの追加
+
+ショッピングに必要なWiiポイントを追加することができる。
+
+追加方法は次の3種類。
+
+  - [クレジットカード](../Page/クレジットカード.md "wikilink")から追加
+  - 任天堂製品販売店で購入した「ニンテンドープリペイドカード」から追加
+  - [コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")や[携帯電話](../Page/携帯電話.md "wikilink")で購入した「ニンテンドープリペイド番号」から追加
+
+## プレゼント機能
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[12月11日](../Page/12月11日.md "wikilink")に新しく**プレゼント機能**が追加された。これはソフトの購入の際に受取人をWiiフレンドに指定する機能である。送る際には、以下のルールがある。
+
+  - 送り手側が既に購入したソフトの所有権を他人のWiiに移動することはできない。送り手側であらかじめソフトの購入手続きをして送る必要がある。
+  - 受取人に指定できるのは送り手と同一国内のWiiのみであり、異なる国間のWiiには指定できない。
+  - 受取人が既に所持しているソフトを贈ることはできない。
+
+なお、プレゼント機能を利用するには事前に、[Wii伝言板](https://ja.wikipedia.org/wiki/Wii伝言板 "wikilink")のアドレス帳に受取人を登録しておく必要がある。
+
+以下、プレゼントの手順。
+
+1.  ソフト購入ページに、従来までの「購入」ボタンに加えて、新たに「プレゼント」ボタンが追加されている。
+2.  送り手側はこれをクリックした後、プレゼントするWiiフレンドを選択。
+3.  メッセージを入力して、ソフトと共に送信。
+4.  受け手側のWiiに、メッセージが届く。
+5.  メッセージ画面の右下にある「はじめる」ボタンをクリックすると、自動的にWiiショッピングチャンネルが起動。
+6.  受け取り画面が表示される。ここで「受け取る」か「受け取らない」かを選ぶ。
+7.  ダウンロード画面が表示される。「今すぐ」受信するか「後で」受信するかを選ぶ。
+8.  ダウンロード開始。
+9.  終了後、お礼のメッセージを送り手側に送信する。
+
+## その他の機能
+
+### ご利用記録
+
+Wiiポイントの使用履歴一覧。ソフト購入、ポイント追加の日時や、ポイントの残高が表示される。
+
+### 購入済みソフト
+
+今までにダウンロードしたことがあるソフトが、バーチャルコンソール・Wiiウェア・Wiiチャンネルを問わず、五十音順に一覧表示される。Wii本体から削除したソフトはここから無料で再ダウンロードが可能。
+
+### 設定
+
+  - クラブニンテンドー会員ID登録（及び解除）
+    [クラブニンテンドー](https://ja.wikipedia.org/wiki/クラブニンテンドー "wikilink")のIDを登録することによって、購入したソフトがクラブニンテンドーホームページの会員ページのポイント情報の欄に記載される（ポイント追加はない）。ただし、記載されるのはID登録後にダウンロードしたソフトのみであり、登録前にダウンロードしたソフトは反映されない。なお、ソフトの配信開始日から約3か月以内にそのソフトをダウンロードした場合、アンケートに答えることが可能であり、回答するとクラブニンテンドー内で使用できるポイントが5ポイント追加される。なお、WiiショッピングチャンネルでID登録を解除しても、クラブニンテンドーのID自体は削除されない。
+
+<!-- end list -->
+
+  - 特典ソフトの引換
+    一部のソフトの中に同梱もしくはクラブニンテンドーの景品として交換できる特典ソフト引換番号をここで入力することで、そのソフトに関連した専用のWiiチャンネルなどをダウンロードすることができる。ただし、特典ソフト引換番号は1枚につき1台のWiiのみで利用可能であり、一度利用するとソフトを削除しても他のWiiで利用することは出来ない。また、紛失しても再発行はできない。
+      - 特典ソフト引換番号が同梱されているソフト・周辺機器
+          - [大合奏\!バンドブラザーズDX](https://ja.wikipedia.org/wiki/大合奏!バンドブラザーズ#大合奏!バンドブラザーズDX "wikilink") - [スピーカーチャンネルのダウンロード](https://ja.wikipedia.org/wiki/大合奏!バンドブラザーズDX#大合奏!バンドブラザーズDX専用_スピーカーチャンネル "wikilink")
+          - [Wiiスピーク](https://ja.wikipedia.org/wiki/Wiiスピーク "wikilink") - [Wiiスピークチャンネルのダウンロード](https://ja.wikipedia.org/wiki/Wiiスピーク#Wiiスピークチャンネル "wikilink")
+      - クラブニンテンドーの景品
+          - [Wiiでウルトラハンド](https://ja.wikipedia.org/wiki/ウルトラハンド#Wiiでウルトラハンド "wikilink")
+
+<!-- end list -->
+
+  - ご利用記録の削除
+    Wii本体を他人に譲渡したり廃棄したりする際は、ここで全ての利用記録を削除する必要がある。本体に保存してあるソフト、過去にダウンロードしたソフト、登録中のWiiポイントが全て削除されるため、実行する際は注意が必要。
+
+## その他
+
+  - 2007年3月11日よりWiiショッピングチャンネルのテレビCMが放送されていた（現在は終了）。
+  - Wiiショッピングチャンネル内で流れるBGMは[戸高一生](https://ja.wikipedia.org/wiki/戸高一生 "wikilink")作曲。また、『[大乱闘スマッシュブラザーズX](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズX "wikilink")』にはこのBGMが原曲で使用され、続く『[大乱闘スマッシュブラザーズ for Nintendo 3DS / Wii U](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_for_Nintendo_3DS_/_Wii_U "wikilink")』には[COSIO](https://ja.wikipedia.org/wiki/小塩広和 "wikilink")（[ZUNTATA](../Page/ZUNTATA.md "wikilink")）によるアレンジ版が収録された。
+
+## 脚注
+
+<references />
+
+## 関連項目
+
+  - [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")
+  - [バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")
+  - [Wiiウェア](https://ja.wikipedia.org/wiki/Wiiウェア "wikilink")
+  - [Wiiチャンネル](../Page/Wiiチャンネル.md "wikilink")
+  - [ニンテンドーWi-Fiコネクション](https://ja.wikipedia.org/wiki/ニンテンドーWi-Fiコネクション "wikilink")
+  - [ニンテンドーeショップ](https://ja.wikipedia.org/wiki/ニンテンドーeショップ "wikilink")
+  - [ニンテンドーポイント](https://ja.wikipedia.org/wiki/ニンテンドーポイント "wikilink")
+
+## 外部リンク
+
+すべて、[任天堂ホームページ](http://www.nintendo.co.jp/)内
+
+  - [Wiiショッピングチャンネル 概要](http://www.nintendo.co.jp/wii/features/wii_channel.html#shopping)
+  - [Wiiショッピングチャンネル 紹介映像・体験映像・テレビCM](http://wii.com/jp/articles/shopping-channel/)
+  - [Wiiショッピングチャンネル 開発者の話](http://wii.com/jp/articles/shopping-channel/story.html)
+
+[sv:Wii Channels\#Wii Shop Channel](https://ja.wikipedia.org/wiki/sv:Wii_Channels#Wii_Shop_Channel "wikilink")
+
+[Category:Wiiチャンネル](https://ja.wikipedia.org/wiki/Category:Wiiチャンネル "wikilink")
+
+1.  [「Wiiショッピングチャンネル」終了のお知らせ](https://www.nintendo.co.jp/support/information/2017/0929.html)
+2.

@@ -1,0 +1,1233 @@
+> この記事は[F.C](https://ja.wikipedia.org/wiki/F.C)から翻訳されています。
+
+
+<div class="pathnavbox">
+
+  -
+  -
+
+</div>
+
+**サンフレッチェ広島F.Cの育成組織**（サンフレッチェひろしまエフシーのいくせいそしき）は、[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[サンフレッチェ広島F.C](https://ja.wikipedia.org/wiki/サンフレッチェ広島F.C "wikilink")の育成組織（アカデミー、[下部組織](https://ja.wikipedia.org/wiki/下部組織 "wikilink")）。[Jリーグ百年構想](https://ja.wikipedia.org/wiki/Jリーグ百年構想 "wikilink")のもと、サッカー選手の育成とサッカーの普及、および青少年の健全育成を目的に活動する組織である。
+
+*註：本記事の題名「育成組織」は、サンフレッチェ広島の公式サイトの表記\[1\] に従った。また「下部組織」と言及されることもあるものの、Jリーグの指針では「下部組織」という用語は用いないとしている\[2\]。*
+
+## 概要
+
+1992年クラブ創設とともにジュニア（小学生年代）、翌1993年にユース（高校生年代）およびジュニアユース（中学生年代）を創設。
+
+ユースの拠点は[広島県](../Page/広島県.md "wikilink")[安芸高田市](../Page/安芸高田市.md "wikilink")吉田町の[吉田サッカー公園](https://ja.wikipedia.org/wiki/吉田サッカー公園 "wikilink")、ジュニアユースおよびジュニアの拠点は主に広島県[安芸郡](../Page/安芸郡_\(広島県\).md "wikilink")[府中町](../Page/府中町.md "wikilink")の広島青少年文化センター。スクールの拠点は、広島県内のほか[山口県](../Page/山口県.md "wikilink")や[島根県](../Page/島根県.md "wikilink")にもある。
+
+外部からユースへの入団は[スカウトと募集](https://ja.wikipedia.org/wiki/スカウト_\(勧誘\) "wikilink")（セレクション）があり、毎年来年度高校1年生となる中学3年生を対象に6月ごろに案内募集が出され、8月末ごろにセレクションを開催している。ジュニアユースへの入団はセレクションのみであり、来年度中学1年となる小学6年生を対象に、10月ごろに案内募集が出され、12月末ごろにセレクションを開催している。ジュニアはスクールからの選抜メンバーで編成されている。スクールおよびジュニアは男女共に入れるが、ジュニアユースおよびユースは男子のみである。
+
+2チーム編成で大会に出場する場合、チーム名に「セカンド」あるいは「ベアース(BearsあるいはB)」を付け登録している場合もある。なお一部では、トップチームに対する育成組織であるということから、「子熊」「仔熊」の愛称で呼ばれている\[3\]\[4\]。これらの熊とは、チームマスコットである[ツキノワグマ](https://ja.wikipedia.org/wiki/ツキノワグマ "wikilink")の[サンチェに由来する](../Page/サンチェ_\(サンフレッチェ広島\).md "wikilink")。
+
+毎年3月、年度最初のホームゲーム試合前に、スクール・ジュニア・ジュニアユース・ユース・トップの選手が一堂に集まり、「サンフレッチェファミリー紹介」と題し、サポーターに向け[顔見世](https://ja.wikipedia.org/wiki/顔見世 "wikilink")を行っている。
+
+## 編成
+
+### 規約
+
+[Jリーグクラブライセンス制度](https://ja.wikipedia.org/wiki/Jリーグクラブライセンス制度 "wikilink")では、Jリーグの各チームに[U-18チーム](https://ja.wikipedia.org/wiki/日本サッカー協会チーム登録種別#第2種 "wikilink")、[U-15チーム](https://ja.wikipedia.org/wiki/日本サッカー協会チーム登録種別#第3種 "wikilink")、[U-12チーム](https://ja.wikipedia.org/wiki/日本サッカー協会チーム登録種別#第4種 "wikilink")、U-10チームを保有することを義務づけ、女子チームを保有できるものとしている。これを元に広島では以下のチームを編成している。男子は全カテゴリ、女子はスクール及びU-12に相当するチーム（広島ジュニア）に入団できる。なおクラブは2015年現在、女子チームを創設する予定は全くなく地元の[アンジュヴィオレ広島](https://ja.wikipedia.org/wiki/アンジュヴィオレ広島 "wikilink")とともに広島サッカー界を盛り上げていくと明示しているが\[5\]、正式な提携までには至っていない。更に、1種アマチュアチーム、いわゆるセカンドチームも創設する予定もないと明示している\[6\]。
+
+### 編成一覧
+
+  - 幹部スタッフ
+
+<!-- end list -->
+
+  - 強化部長 [足立修](../Page/足立修.md "wikilink")
+  - アカデミー部部長 : [山出久男](../Page/山出久男.md "wikilink")
+  - ユースダイレクター兼スカウト : [佐々木直人](https://ja.wikipedia.org/wiki/佐々木直人 "wikilink")
+  - 育成マネージャー兼スカウト : [村山哲也](https://ja.wikipedia.org/wiki/村山哲也 "wikilink")
+  - 普及グループマネージャー兼スクールマスター : 塩崎浩作
+
+<!-- end list -->
+
+  - 直轄
+
+<!-- end list -->
+
+  - サンフレッチェ広島F.Cユース
+      - 1993年4月創立
+      - 監督 : [沢田謙太郎](https://ja.wikipedia.org/wiki/沢田謙太郎 "wikilink")、コーチ : 岩成智和・[服部公太](https://ja.wikipedia.org/wiki/服部公太 "wikilink")、GKコーチ : [加藤寿一](https://ja.wikipedia.org/wiki/加藤寿一_\(1969年生\) "wikilink")
+      - 拠点 : [吉田サッカー公園](https://ja.wikipedia.org/wiki/吉田サッカー公園 "wikilink")、[吉田運動公園](https://ja.wikipedia.org/wiki/吉田運動公園 "wikilink")
+  - サンフレッチェ広島F.Cジュニアユース
+      - 1993年4月創立
+      - 監督 : [迫井深也](https://ja.wikipedia.org/wiki/迫井深也 "wikilink")、コーチ : 新井崇之・[梅田直哉](https://ja.wikipedia.org/wiki/梅田直哉 "wikilink")、GKコーチ : [阿江孝一](https://ja.wikipedia.org/wiki/阿江孝一 "wikilink")
+      - 拠点 : [広島青少年文化センター](https://ja.wikipedia.org/wiki/広島青少年文化センター "wikilink")(安芸郡府中町)
+  - サンフレッチェ広島F.Cジュニア
+      - 1992年4月創立
+      - 監督 : 細渕隼、コーチ : 渡辺康則
+      - 拠点 : 広島青少年文化センター、[広島広域公園第二球技場](https://ja.wikipedia.org/wiki/広島広域公園第二球技場 "wikilink")
+
+<!-- end list -->
+
+  - スクール等
+
+<!-- end list -->
+
+  - スクール(小学生以下)
+      - [沼田](https://ja.wikipedia.org/wiki/広島広域公園第二球技場 "wikilink")、呉、[MFP](http://www.mfpnet.com/hrs_f.html)、[PIVOX](http://pivox.funnavi.com/blog/)、府中、岩国、[みよし](https://ja.wikipedia.org/wiki/みよし運動公園 "wikilink")
+  - 女性
+      - フレッチェスクール(中学生以下)
+      - レディーススクール(高校生および社会人)
+  - ジュニアユーススクール(中学生)
+      - 広島
+  - GKスクール
+  - おとなサッカースクール(サッカー未経験・初心者の20歳以上の男女)
+
+<!-- end list -->
+
+  - 提携スクール
+
+<!-- end list -->
+
+  - サンフレッチェくにびきフットボールクラブ
+      - 1996年4月提携
+      - 代表 : 吉川公二
+      - 拠点 : 出雲ドームサッカー場([出雲市](../Page/出雲市.md "wikilink")矢野町)
+  - サンフレッチェびんごフットボールクラブ
+      - 1997年4月提携
+      - 代表 : 井上幸仁
+      - 拠点 : [広島県立びんご運動公園](../Page/広島県立びんご運動公園.md "wikilink")
+
+### 所属選手
+
+  - ユース
+
+<!-- end list -->
+
+  - ジュニアユース以下
+
+以前はイヤーブックやホームページなどで名簿を公開していたが、[個人情報保護法が施行した](../Page/個人情報の保護に関する法律.md "wikilink")2005年以降公開されていない。
+
+## 特徴
+
+クラブ目標の一つに「日本一の育成型クラブ」を掲げ\[7\]\[8\]\[9\]\[10\]、2001年以降「人もボールも動くサッカー」「やっていても見ていても楽しい攻撃的なサッカー」をクラブ全体のポリシーとしており\[11\]、その中で「技術があってハートもあってハードワークできる」選手の育成を目指している\[12\]。
+
+サッカーの技術的な面だけではなく、学業・生活面の指導など人間教育にも非常に力を入れている\[13\]\[14\]\[15\]。これは、参考にしたオランダのクラブの方針（下記参照）であることに加え、育成組織を整備した[今西和男](https://ja.wikipedia.org/wiki/今西和男 "wikilink")の哲学によるところが大きい。メンタル面でのアプローチも積極的に取り組んでおり\[16\]\[17\]、さまざまな業種の人物を招いて講話を開いたりしている\[18\]。その中には俗にいう[炎上や](https://ja.wikipedia.org/wiki/炎上_\(ネット用語\) "wikilink")[個人情報漏洩](../Page/個人情報漏洩.md "wikilink")を防ぐ[SNS講習も含まれる](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")\[19\]。
+
+トップチームの[2012年](https://ja.wikipedia.org/wiki/2012年のJリーグ "wikilink")・[2013年のJリーグ](https://ja.wikipedia.org/wiki/2013年のJリーグ "wikilink")連覇の要因の一つとなったことから、またこれらは比較的小さいクラブ財政基盤での戦力強化モデルであることから、その育成[ノウハウが注目されており](../Page/手続き的知識.md "wikilink")\[20\]\[21\]\[22\]、他からの問い合わせに対し広島側はそのノウハウを全面的に公開している\[23\]。例えば、[京都サンガF.C.](../Page/京都サンガF.C..md "wikilink")は2005年から[柱谷幸一](https://ja.wikipedia.org/wiki/柱谷幸一 "wikilink")の音頭で"スカラーアスリートプロジェクト"という育成プロジェクトを立ち上げたが、ベースとなったのが広島の育成ノウハウである\[24\]。その他にも、地元広島のみならず中国地方の街クラブにもそのノウハウを提供している\[25\]\[26\]。一方で2014年海外の育成組織評価機関では、これらノウハウは指導者の勘や経験によるものが大きく体系化するべき、スカウトなどの選手評価を数値化することが望ましい、など改善の余地があると指摘されている\[27\]。ノウハウ公開と平行して、研修などを目的とした短期間の受け入れも行っている。例えば、[フィッツジェラルド舞行龍ジェームズ](https://ja.wikipedia.org/wiki/フィッツジェラルド舞行龍ジェームズ "wikilink")は2004年15歳当時広島ユースで短期間受け入れ、これが縁で日本の高校に通いプロ入りし日本に帰化している\[28\]。
+
+クラブ財政の問題からトップチームですぐ使える選手を昇格させている\[29\] ため、その昇格人数は極めて少なくなっている\[30\]\[31\]。ユースにおいてプロになれなかった選手の就職および大学進学率はJリーグユースの中でもトップクラスを誇る\[32\]。一方でライバルの不在つまり県サッカーのレベル低下を防ぐため、意図的に上のカテゴリ昇格を制限している部分もある\[33\]。広島の育成組織を退団後他の学校などで活躍し、広島のみならず他のJリーグチームでプロ入りを果たした選手もいる。2012年2月24日、日本代表対[サッカーアイスランド代表](https://ja.wikipedia.org/wiki/サッカーアイスランド代表 "wikilink")戦にて、広島の育成組織出身者が日本代表として4人出場を果たした。[国際Aマッチ](https://ja.wikipedia.org/wiki/国際Aマッチ "wikilink")において同一クラブユース出身者4人出場は日本サッカー史上初のことである\[34\]。また国内組の縛りがあったこともあり、[東アジアカップ2013](https://ja.wikipedia.org/wiki/東アジアカップ2013 "wikilink")では5人育成組織出身者から日本代表に選ばれている\[35\]。
+
+{{ external media | topic = | align = | width = 280px | video1 = [サッカー国際大会開会式を盛り上げたサンフレッチェユース劇場](https://www.youtube.com/watch?v=2AiMjHJwjL8) - 当時フィジカルアドバイザーを務めた[木場克己](https://ja.wikipedia.org/wiki/木場克己 "wikilink")がアップロードした動画。やべっちFCでも紹介されている。 }} こうした特徴からメディアに取り上げられることも少なくない。Jリーグが始まった当初は少ない予算の中で自前の選手を育てることに力を入れていたとして「育成の[ジェフ](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")、育成の広島」と評価された\[36\]。例えば、2011年イタリアで行われたクラウディオサッシ国際ユーストーナメントでの開会式のパフォーマンスが話題となり、[やべっちFC〜日本サッカー応援宣言〜](../Page/やべっちFC〜日本サッカー応援宣言〜.md "wikilink")でも取り上げられている\[37\]。2016年[中国網](https://ja.wikipedia.org/wiki/中国網 "wikilink")は「日本一大“球星加工厂”（日本の一大タレント育成組織）」と紹介している\[38\]。
+
+## 取り組み
+
+### 前史
+
+  - 広島のサッカー土壌
+
+広島は古くは静岡・埼玉と共にサッカー御三家と言われる土地であった\[39\]。戦前から[広島高師附属中学](https://ja.wikipedia.org/wiki/広島高等師範学校 "wikilink")（現[広島大学附属高校](https://ja.wikipedia.org/wiki/広島大学附属中学校・高等学校 "wikilink")）・広島一中（現[広島国泰寺高校](https://ja.wikipedia.org/wiki/広島県立広島国泰寺高等学校 "wikilink")）・修道中学（現[修道高校](https://ja.wikipedia.org/wiki/修道中学校・修道高等学校 "wikilink")）の広島サッカー御三家を中心に全国大会で数々のタイトルを取り、[福原黎三](../Page/福原黎三.md "wikilink")・[渡部英麿](../Page/渡部英麿.md "wikilink")・[松田輝幸](https://ja.wikipedia.org/wiki/松田輝幸 "wikilink")・[浜本敏勝](https://ja.wikipedia.org/wiki/浜本敏勝 "wikilink")ら戦後の教員指導者の尽力により、数多くのサッカー選手を輩出してきた\[40\]。
+
+1950年代後半になると、指導者不足から[東洋工業蹴球部](https://ja.wikipedia.org/wiki/東洋工業サッカー部 "wikilink")(後のマツダSCでありサンフレッチェ広島F.Cの前身)をはじめとする地元実業団の現役選手が頼まれて市内の小中高校へ指導に出かけるようになった{{\#tag:ref|例えば、[下村幸男](https://ja.wikipedia.org/wiki/下村幸男 "wikilink")は修道高校で1961年国体と選手権の2冠制覇し、[森孝慈](https://ja.wikipedia.org/wiki/森孝慈 "wikilink")、[中村勤](https://ja.wikipedia.org/wiki/中村勤 "wikilink")、[吉田浩らを育てた](https://ja.wikipedia.org/wiki/吉田浩_\(サッカー選手\) "wikilink")。[小沢通宏](https://ja.wikipedia.org/wiki/小沢通宏 "wikilink")は舟入高校へ出向き、[野村六彦](https://ja.wikipedia.org/wiki/野村六彦 "wikilink")や[今西和男](https://ja.wikipedia.org/wiki/今西和男 "wikilink")を指導した。[石井義信](https://ja.wikipedia.org/wiki/石井義信 "wikilink")は[県立広島工業を全国的強豪に育てあげた](https://ja.wikipedia.org/wiki/広島県立広島工業高等学校 "wikilink")。|group="注"}}\[41\]。1965年東洋工業現役選手によるサッカー教室を正式に開始\[42\]、マツダSC以降も「マツダサッカースクール」の名称で[船本幸路](../Page/船本幸路.md "wikilink")や[小城得達](https://ja.wikipedia.org/wiki/小城得達 "wikilink")など蹴球部[OB](https://ja.wikipedia.org/wiki/OB "wikilink")を講師に県下を指導・普及して周っていた{{\#tag:ref|例えば、[今西和男](https://ja.wikipedia.org/wiki/今西和男 "wikilink")や[松本育夫](https://ja.wikipedia.org/wiki/松本育夫 "wikilink")・[二村昭雄](../Page/二村昭雄.md "wikilink")は本社工場西側の青崎地区（現[南区](../Page/南区_\(広島市\).md "wikilink")）の[青崎小学校に出向いている](https://ja.wikipedia.org/wiki/広島市立青崎小学校 "wikilink")\[43\]。本社工場がある府中町出身の[金田喜稔](https://ja.wikipedia.org/wiki/金田喜稔 "wikilink")は中学1年（1970年）の時に[大野毅](../Page/大野毅.md "wikilink")や[船本幸路](../Page/船本幸路.md "wikilink")に指導を受けている\[44\]。[田坂和昭](https://ja.wikipedia.org/wiki/田坂和昭 "wikilink")は小学生（1983年）の時に[木村孝洋](https://ja.wikipedia.org/wiki/木村孝洋 "wikilink")に指導を受けている\[45\]。|group="注"}}。
+
+1970年代以降、[オイルショック](../Page/オイルショック.md "wikilink")から広島経済の地盤沈下が進み、広島サッカーも影響し停滞していった\[46\]。地元出身の[楚輪博](https://ja.wikipedia.org/wiki/楚輪博 "wikilink")や[金田喜稔](https://ja.wikipedia.org/wiki/金田喜稔 "wikilink")、[木村和司](../Page/木村和司.md "wikilink")などは大学を卒業後は関東や関西の実業団チームへ入団し、[森島寛晃](../Page/森島寛晃.md "wikilink")や[田坂和昭](https://ja.wikipedia.org/wiki/田坂和昭 "wikilink")などは他県の高校へ越境入学するなど、タレントが流出していった\[47\]。
+
+  - マツダSCの試み
+
+1984年、マツダSCは[JSL](../Page/日本サッカーリーグ.md "wikilink")2部に降格したことを機に、[今西和男](https://ja.wikipedia.org/wiki/今西和男 "wikilink")が監督に就任した。今西は蹴球部OBだが引退後はマツダ社員として働いており、指導者としてのキャリアがまったく無かったので、オランダから[ハンス・オフト](../Page/ハンス・オフト.md "wikilink")をコーチに招聘した\[48\]。今西とオフトは、マツダSCはこのままではタレント不足で勝てないと悟った。
+
+今西は外国人選手獲得{{\#tag:ref|この時に来日した外国人選手の一人が[ハーフナー・ディド](https://ja.wikipedia.org/wiki/ハーフナー・ディド "wikilink")である。ディドがマツダSCでプレーしていたときに長男の[ハーフナー・マイク](https://ja.wikipedia.org/wiki/ハーフナー・マイク "wikilink")が広島で生まれたが、ディドの移籍に伴い家族で引っ越したためマイクは広島の育成組織でのプレー経験はない。|group="注"}}も兼ねて、オフトの出身クラブである[フェイエノールト](../Page/フェイエノールト.md "wikilink")とその他にも[アヤックス・アムステルダム](https://ja.wikipedia.org/wiki/アヤックス・アムステルダム "wikilink")を視察した。そこで、プロには予備軍（と[アヤックス・アカデミー](https://ja.wikipedia.org/wiki/アヤックス・アカデミー "wikilink"){{\#tag:ref|今西によれば、当時アヤックスの[ゼネラルマネージャー](https://ja.wikipedia.org/wiki/ゼネラルマネージャー "wikilink")は[アリー・ハーン](https://ja.wikipedia.org/wiki/アリー・ハーン "wikilink")で、そのアカデミーから[フランク・ライカールト](../Page/フランク・ライカールト.md "wikilink")が登場していた。\[49\]|group="注"}})が存在すること、予備軍ではトップの内容に近いトレーニングをこなしてること、プロになれなかった場合のリスクを避けるために予備軍に勉強をさせていたこと、を知った\[50\]\[51\]。
+
+一方、新たな日本人選手発掘・獲得には、地方というハンディキャップからか、なかなか即戦力の選手を獲得できなかった。彼らは相談した結果、即戦力となる大卒選手の獲得を継続する中で、高卒選手の獲得と育成に力を入れ、フェイエノールトやアヤックスのような予備軍の実現を目指そうとした\[52\]。さっそく2軍である「[マツダSC](../Page/マツダSC.md "wikilink")東洋」を強化し[中国サッカーリーグ](https://ja.wikipedia.org/wiki/中国サッカーリーグ "wikilink")に参戦、[森保一](https://ja.wikipedia.org/wiki/森保一 "wikilink")・[片野坂知宏](https://ja.wikipedia.org/wiki/片野坂知宏 "wikilink")・[柳本啓成](https://ja.wikipedia.org/wiki/柳本啓成 "wikilink")らを育成していった\[53\]\[54\]。
+
+さらに、指導者育成にも着手\[55\]、後に[小林伸二](https://ja.wikipedia.org/wiki/小林伸二 "wikilink")や[松田浩](https://ja.wikipedia.org/wiki/松田浩 "wikilink")、[中村重和](https://ja.wikipedia.org/wiki/中村重和 "wikilink")などチームを影で支える指導者が誕生した。
+
+また1990年代以降、当時マツダSCコーチだった[ビル・フォルケス](../Page/ビル・フォルケス.md "wikilink")の紹介で、森保や[高木琢也](https://ja.wikipedia.org/wiki/高木琢也 "wikilink")など若手数人を年に1度1ヶ月程度[マンチェスター・ユナイテッドFC.リザーブ](https://ja.wikipedia.org/wiki/マンチェスター・ユナイテッドFC.リザーブ "wikilink"){{\#tag:ref|高木によれば、当時のリザーブチームには[デビッド・ベッカム](../Page/デビッド・ベッカム.md "wikilink")らが在籍していた\[56\]。|group="注"}}に練習参加させていた\[57\]\[58\]\[59\]。
+
+### 高校年代の強化
+
+[right展望台からみる吉田町](https://ja.wikipedia.org/wiki/ファイル:Yoshidamachi.JPG "wikilink")。手前の建物が吉田高校。\]\] 1993年、[Jリーグが開幕すると](../Page/日本プロサッカーリーグ.md "wikilink")、すべてのJリーグクラブは育成組織を持つことが必須となった。サンフレッチェ広島も例外ではなく、。当初ハード面で遅れており、特にユースは広島市内で練習グラウンドの確保すらままならなかった\[60\]。そこへ、[高田郡](../Page/高田郡.md "wikilink")[吉田町](../Page/吉田町_\(広島県\).md "wikilink")(現安芸高田市)がサッカーを中心としたスポーツで町おこしをする「若者定住促進等緊急プロジェクト」の一環として全面協力することが決定、ユースは育成拠点を吉田町内に置き、町内の[吉田運動公園](https://ja.wikipedia.org/wiki/吉田運動公園 "wikilink")を練習拠点として活動を開始した\[61\]\[62\]。
+
+ほぼゼロからのスタートであったが、前身の東洋工業/マツダSC時代から若手を育てることがクラブとして生きる道だという思い\[63\] から、若手育成のノウハウができつつあり、その後の試行錯誤から以下のような独自の発展を遂げた
+
+  - トップクラスの環境（[吉田サッカー公園](https://ja.wikipedia.org/wiki/吉田サッカー公園 "wikilink"){{\#tag:ref|主に芝生のグラウンドである吉田サッカー公園で練習しているが、現在でも週に1度は「土の」グラウンドである吉田運動公園で練習を行っている。|group="注"}}、全寮制）
+
+<!-- end list -->
+
+  -
+    吉田町は広島市内から車で1時間半以上かかる遠方\[64\] にあるため設立開始から全寮制をひいており、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")で独身寮運営経験がある稲田夫妻を寮長・寮母に迎えた{{\#tag:ref|稲田は[高田郡](../Page/高田郡.md "wikilink")[高宮町](../Page/高宮町.md "wikilink")出身。マツダ時代に今西和男の部下として働いた経験があり、その今西が広島総監督時代に稲田を寮長にスカウトした\[65\]。|group="注"}}\[66\]。当初は民家を借りて行っていたが、環境の充実をはかり、1994年にJリーグチームとしては初めてユース寮を新設した\[67\]。稲田の定年退職に伴い2011年から中山夫妻{{\#tag:ref|中山は高田郡[甲山町](https://ja.wikipedia.org/wiki/甲山町 "wikilink")出身。前・県サッカー協会事務局長。元高校教師であり、[皆実高や](https://ja.wikipedia.org/wiki/広島県立広島皆実高等学校 "wikilink")[高陽高でサッカー部監督を務めた](https://ja.wikipedia.org/wiki/広島県立高陽高等学校 "wikilink")。教え子に[山根巌](https://ja.wikipedia.org/wiki/山根巌 "wikilink")・[金本圭太](https://ja.wikipedia.org/wiki/金本圭太 "wikilink")・[梅田直哉](https://ja.wikipedia.org/wiki/梅田直哉 "wikilink")・[的場千尋](https://ja.wikipedia.org/wiki/的場千尋 "wikilink")らがいる。\[68\]\[69\]|group="注"}}が、2015年から3代目として遠藤夫妻\[70\] が寮長・寮母に就任している。
+    1998年に吉田サッカー公園が完成し、本格的に練習を開始した\[71\]。
+
+<!-- end list -->
+
+  - 地元吉田町との関係強化
+
+<!-- end list -->
+
+  -
+    特筆すべきは、吉田町と完全に[地域密着](https://ja.wikipedia.org/wiki/地域密着 "wikilink")していることである\[72\]\[73\]。
+    所属する全選手を[広島県立吉田高等学校](https://ja.wikipedia.org/wiki/広島県立吉田高等学校 "wikilink")に通わせている\[74\]。学校での生活態度を逐一報告を受け、成績の悪い選手はペナルティとしてユースの練習に参加させないようにしている\[75\]\[76\]。また高校の学校行事に積極的に参加{{\#tag:ref|寮長は吉田高校[PTA](../Page/PTA.md "wikilink")副会長 \[77\]。|group="注"}}、ときには吉田高校サッカー部（ここには広島ユース生は所属していない）や[吉田中学校にユース監督以下スタッフを派遣し指導に当たる](https://ja.wikipedia.org/wiki/安芸高田市立吉田中学校 "wikilink")\[78\] など、互いに密な関係を築いている。
+    また設立当初からサッカーフェスティバルなど町民との積極的な交流を深めた結果、2000年代以降地域に溶けこんだ。ユースの全国大会決勝では町民が応援に駆けつけたりもしている\[79\]。
+
+<!-- end list -->
+
+  - ユース独自のスカウト網
+
+<!-- end list -->
+
+  -
+    専門のスカウトを置き、若年層の有望株を全国津々浦々まで網羅しカバーしており、その情報量は2004年当時は他クラブを圧倒していた\[80\]。
+
+### 中学年代以下の強化
+
+[250px](https://ja.wikipedia.org/wiki/ファイル:Hiroshima-seisyonen-bunka-center_20121020-1.JPG "wikilink")
+
+  - ジュニアユース
+
+ジュニアユースへの選手入団は、ユースと違いスカウトは基本的に行っておらず、セレクションによるものである。
+
+ユースと同様に強化に努めたが、結果として現れだしたのは2000年以降である。ここで育った選手がユースに昇格し、ユースも結果が出るようになった。また、ここで育った選手のうちユースに昇格できなかった選手のほとんどは地元高校に進学し、広島県の高校による2000年代の高校3大大会（[インターハイ](https://ja.wikipedia.org/wiki/全国高等学校総合体育大会サッカー競技大会 "wikilink")・[高円宮杯](https://ja.wikipedia.org/wiki/高円宮杯全日本ユース\(U-18\)サッカー選手権大会 "wikilink")・[選手権](../Page/全国高等学校サッカー選手権大会.md "wikilink")）好成績はジュニアユース出身者によってもたらされている\[81\]。
+
+2008年にはジュニアユース出身選手から初の日本代表選手を生み出した。
+
+[250px](https://ja.wikipedia.org/wiki/ファイル:Bingoriku3.jpg "wikilink")\]\]
+
+  - 提携スクール
+
+提携スクールは、一般的な町クラブのように地元団体・企業が運営し、サンフレッチェが指導者を派遣するなど技術提携する形をとっている。ほぼゼロから始めたところばかりだが、中には町クラブを前身としサンフレッチェと技術提携したことにより提携スクールとなったところもある\[82\]\[83\]。これらのチームはスクールを中心とした普及と、ジュニアユース（中学生年代）チームを頂点とする育成チームつまり高校年代以上のチームは持っておらず、高校年代は広島ユースへ入るか高体連・他のJリーグユースなどに入団する。提携スクール出身でトップチームに昇格したもの、また日本代表に選ばれた選手も存在する。
+
+以下は現在開校している提携スクールである\[84\]。
+
+  - **サンフレッチェくにびき** - [島根県](../Page/島根県.md "wikilink")、1996年提携
+
+<!-- end list -->
+
+  -
+    元々は「くにびきFC」という町クラブだったが、1996年にサンフレと技術提携したことにより現名となった\[85\]。そのためチームとしては1996年より前に創設されたことになる。2009年、運営を[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")化。
+
+<!-- end list -->
+
+  - **サンフレッチェびんご** - 広島県[尾道市](../Page/尾道市.md "wikilink")、1998年提携
+
+<!-- end list -->
+
+  -
+    2013年、運営を[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")化。
+
+以下は、以前提携スクールとして活動していたが離脱したスクールである。
+
+  - サンフレッチェ愛媛\[86\] - [愛媛県](../Page/愛媛県.md "wikilink")、提携年度不明{{\#tag:ref|後進の愛媛FCが公開しているJリーグ公式サイトの資料では、1994年にスクール開校とあるため同時期と思われる。|group="注"}}。
+
+<!-- end list -->
+
+  -
+    その後、将来のJリーグ加盟へ本格的に動き始めた[愛媛FC](https://ja.wikipedia.org/wiki/愛媛FC "wikilink")の育成組織に編入された\[87\]。編入後も一時提携関係にあり、若年層指導者交流や情報提供などを行っていたが、2001年以降愛媛FCが独力で運営している{{\#tag:ref|2000年までの広島公式ホームページでは、提携スクール紹介のところで他のチームと同様に愛媛FCも紹介されていた。|group="注"}}
+
+<!-- end list -->
+
+  - サンフレッチェ常石（旧・サンフレッチェみろくの里) - 広島県[福山市](../Page/福山市.md "wikilink")（旧[沼隈郡](../Page/沼隈郡.md "wikilink")[沼隈町](https://ja.wikipedia.org/wiki/沼隈町 "wikilink")）、1994年提携
+
+### 普及事業その他
+
+  - スクール
+
+女子の「フレッチェスクール/レディーススクール」、小学生年代の「スクール」や中学生年代の「ジュニアユーススクール」、サッカー未経験の大人を対象とした「おとなスクール」など、幅広く行っている。なお直下のスクールの内、沼田（[広島広域公園](../Page/広島広域公園.md "wikilink")）のみ[トップス広島](https://ja.wikipedia.org/wiki/トップス広島 "wikilink")との提携の形で運用している。
+
+また特定のポジションに特化した、「GKスクール」や「ストライカースクール」も開校している。
+
+  - 街クラブとの提携
+
+前述のとおり広島県のサッカーは1980年代に停滞し、1990年代以降サンフレッチェを中心に高校生年代の強化に成功したものの、中学生年代は未整備だった。これに対し、市内の小学生年代の町クラブが[広島大河FCをモデルケースとして中学生年代のチームを作る動きが加速し](../Page/広島大河フットボールクラブ.md "wikilink")、指導体制を強化した\[88\]\[89\]\[90\]。
+
+この流れにサンフレ側も協力している。例えば、毎週火曜日に高校サッカーや街クラブの指導者とサンフレ育成スタッフ全員が集まる"育成ミーティング"を開催、その中でサンフレ育成ノウハウを公開しお互い情報交換するなど、広島のサッカー発展に貢献している\[91\]。
+
+  - 小学校訪問
+
+トップス広島や[P3 HIROSHIMAでの活動の一環として](https://ja.wikipedia.org/wiki/P3_HIROSHIMA "wikilink")、広島市主催の公共事業「Doスポーツ体育指導者招へい事業」の一環として、また広島県体育協会主催の「ジュニア育成事業」の一環として、トップチームの選手や育成コーチングスタッフ含めた全スタッフが広島市内を中心に県内の小学校訪問を行っている。2006年から本格的に開始し、1年間で平均10校程度訪れている\[92\]。
+
+  - 指導者育成
+
+元々マツダSC時代から指導者育成に力を入れており\[93\]、広島育成組織での指導経験がある人物で[JFA 公認S級コーチを取得し他クラブで活躍しているものもいる](https://ja.wikipedia.org/wiki/JFA_公認S級コーチ "wikilink")\[94\]。
+
+2013年から他クラブに先駆けて、トップチームの現役選手がCないしD級コーチ資格を取得する手助けとして、クラブ独自で講習を開いている\[95\]。
+
+## 主な戦績
+
+### ユース
+
+  - リーグ戦
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年度</p></th>
+<th><p>A</p></th>
+<th><p>B</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/高円宮杯_JFA_U-18サッカープレミアリーグ#チャンピオンシップ" title="wikilink">CS</a><br />
+（<a href="https://ja.wikipedia.org/wiki/高円宮杯全日本ユース(U-18)サッカー選手権大会" title="wikilink">旧高円宮杯</a>）</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>カテゴリ</p></td>
+<td><p>戦績</p></td>
+<td><p>カテゴリ</p></td>
+<td><p>戦績</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/高円宮杯U-18サッカーリーグ2018" title="wikilink">2018</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高円宮杯_JFA_U-18サッカープレミアリーグ" title="wikilink">プレミア<br />
+ウエスト</a></p></td>
+<td><p>優勝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高円宮杯U-18サッカーリーグ_プリンスリーグ中国" title="wikilink">プリンス<br />
+中国</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/高円宮杯U-18サッカーリーグ2017" title="wikilink">2017</a></p></td>
+<td><p>2位</p></td>
+<td><p>3位</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/高円宮杯U-18サッカーリーグ2016" title="wikilink">2016</a></p></td>
+<td><p>優勝</p></td>
+<td><p>5位</p></td>
+<td><p>準優勝</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/高円宮杯U-18サッカーリーグ2015" title="wikilink">2015</a></p></td>
+<td><p>5位</p></td>
+<td><p>7位</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/高円宮杯U-18サッカーリーグ2014" title="wikilink">2014</a></p></td>
+<td><p>6位</p></td>
+<td><p>8位</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/高円宮杯U-18サッカーリーグ2013" title="wikilink">2013</a></p></td>
+<td><p>3位</p></td>
+<td><p>5位</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/高円宮杯U-18サッカーリーグ2012" title="wikilink">2012</a></p></td>
+<td><p>優勝</p></td>
+<td><p>県リーグ</p></td>
+<td><p>優勝</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/高円宮杯U-18サッカーリーグ2011" title="wikilink">2011</a></p></td>
+<td><p>優勝</p></td>
+<td><p>2位</p></td>
+<td><p>優勝</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年のJFAプリンスリーグU-18#中国" title="wikilink">2010</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高円宮杯U-18サッカーリーグ_プリンスリーグ中国" title="wikilink">プリンス<br />
+中国1部</a></p></td>
+<td><p>優勝</p></td>
+<td><p>×</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/2009年のJFAプリンスリーグU-18#中国" title="wikilink">2009</a></p></td>
+<td><p>優勝</p></td>
+<td><p>3位</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年のJFAプリンスリーグU-18#中国" title="wikilink">2008</a></p></td>
+<td><p>3位</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/2007年のJFAプリンスリーグU-18#中国" title="wikilink">2007</a></p></td>
+<td><p>優勝</p></td>
+<td><p>準優勝</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2006年のJFAプリンスリーグU-18#中国" title="wikilink">2006</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高円宮杯U-18サッカーリーグ_プリンスリーグ中国" title="wikilink">プリンス<br />
+中国</a></p></td>
+<td><p>優勝</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/2005年のJFAプリンスリーグU-18#中国" title="wikilink">2005</a></p></td>
+<td><p>優勝</p></td>
+<td><p>3位</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2004年のJFAプリンスリーグU-18#中国" title="wikilink">2004</a></p></td>
+<td><p>優勝</p></td>
+<td><p>優勝</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/2003年のJFAプリンスリーグU-18#中国" title="wikilink">2003</a></p></td>
+<td><p>優勝</p></td>
+<td><p>3位</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2002</p></td>
+<td><p>×</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2001</p></td>
+<td><p>3位</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2000</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1999</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1998</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1997</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1996</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1995</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1994</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1993</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - カップ戦（3位以上を記載）
+
+| 年度                                                                         | 主な戦績                                                          | 備考                                        | ユース監督 |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------- | ----- |
+| [クラ選](https://ja.wikipedia.org/wiki/日本クラブユースサッカー選手権_\(U-18\)大会 "wikilink") | [Jユース](https://ja.wikipedia.org/wiki/Jリーグユース選手権大会 "wikilink") | [全広島](../Page/全広島サッカー選手権大会.md "wikilink") |       |
+| 2018                                                                       | 3位                                                            |                                           | ×     |
+| 2017                                                                       | \-                                                            | 3位                                        | \-    |
+| 2016                                                                       | \-                                                            | 準優勝                                       | \-    |
+| 2015                                                                       | \-                                                            | \-                                        | \-    |
+| 2014                                                                       | \-                                                            | \-                                        | \-    |
+| 2013                                                                       | 準優勝                                                           | 準優勝                                       | \-    |
+| 2012                                                                       | 3位                                                            | 3位                                        | \-    |
+| 2011                                                                       | \-                                                            | 3位                                        | \-    |
+| 2010                                                                       | \-                                                            | \-                                        | \-    |
+| 2009                                                                       | \-                                                            | 準優勝                                       | \-    |
+| 2008                                                                       | \-                                                            | \-                                        | \-    |
+| 2007                                                                       | 3位                                                            | \-                                        | \-    |
+| 2006                                                                       | \-                                                            | 優勝                                        | \-    |
+| 2005                                                                       | \-                                                            | \-                                        | \-    |
+| 2004                                                                       | 優勝                                                            | 準優勝                                       | 準優勝   |
+| 2003                                                                       | 優勝                                                            | 優勝                                        | 優勝    |
+| 2002                                                                       | \-                                                            | 準優勝                                       | 優勝    |
+| [中村重和](https://ja.wikipedia.org/wiki/中村重和 "wikilink")                      |                                                               |                                           |       |
+| 2001                                                                       | 3位                                                            | \-                                        | 準優勝   |
+| 2000                                                                       | \-                                                            | \-                                        | 優勝    |
+| 1999                                                                       | \-                                                            | \-                                        | \-    |
+| 1998                                                                       | \-                                                            | \-                                        | \-    |
+| 1997                                                                       | \-                                                            | 準優勝                                       | \-    |
+| 1996                                                                       | \-                                                            | 3位                                        | \-    |
+| 1995                                                                       | \-                                                            | 優勝                                        | ×     |
+| 1994                                                                       | \-                                                            | \-                                        | \-    |
+| 1993                                                                       | \-                                                            | \-                                        | \-    |
+
+  - 天皇杯
+
+2000年、ユースが天皇杯広島県予選にあたる全広島サッカー選手権大会で初優勝し、天皇杯に初出場。その後、2度出場したがすべて1回戦敗退している\[96\]。
+
+| 開催年月日       | 大会名                                                                        | 対戦相手                                                            | 開催スタジアム                                                  | スコア        | 勝敗 |
+| ----------- | -------------------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------- | ---------- | -- |
+| 2000年11月25日 | [第80回天皇杯](https://ja.wikipedia.org/wiki/第80回天皇杯全日本サッカー選手権大会 "wikilink")1回戦 | [上田ジェンシャン](https://ja.wikipedia.org/wiki/上田ジェンシャン "wikilink")   | [福山市竹ヶ端運動公園陸上競技場](../Page/福山市竹ヶ端運動公園陸上競技場.md "wikilink") | 0-1        | 敗北 |
+| 2002年12月1日  | [第82回天皇杯](https://ja.wikipedia.org/wiki/第82回天皇杯全日本サッカー選手権大会 "wikilink")1回戦 | [大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")U-18 | [大分市営陸上競技場](../Page/大分市営陸上競技場.md "wikilink")             | 1-1(PK4-5) | 敗北 |
+| 2003年11月30日 | [第83回天皇杯](https://ja.wikipedia.org/wiki/第83回天皇杯全日本サッカー選手権大会 "wikilink")1回戦 | [水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")                    | 福山市竹ヶ端運動公園陸上競技場                                          | 0-1(延長)    | 敗北 |
+
+### ジュニアユース
+
+  - リーグ（[高円宮杯U-15プログレスリーグ](https://ja.wikipedia.org/wiki/高円宮杯U-15プログレスリーグ "wikilink")）
+
+| 年度   | チーム数 | 成績   | 備考 |
+| ---- | ---- | ---- | -- |
+| 広島JY | びんご  | くにびき |    |
+| 2017 | 10   |      |    |
+| 2016 | 10   | 優勝   | 5位 |
+| 2015 | 10   | 優勝   | 8位 |
+| 2014 | 10   | 優勝   | 2位 |
+| 2013 | 10   | 2位   | 4位 |
+| 2012 | 10   | 優勝   | 9位 |
+| 2011 | 10   | 優勝   | 5位 |
+| 2010 | 10   | 優勝   | 5位 |
+| 2009 | 10   | 2位   | 6位 |
+
+  - カップ戦
+
+<!-- end list -->
+
+  - [JFAプレミアカップ](https://ja.wikipedia.org/wiki/JFAプレミアカップ "wikilink")
+      - 優勝 : 2003年広島JY、2014年広島JY
+      - 準優勝 : 2002年広島JY、2004年広島JY、2008年広島JY
+  - [日本クラブユースサッカー選手権 (U-15)大会](https://ja.wikipedia.org/wiki/日本クラブユースサッカー選手権_\(U-15\)大会 "wikilink")
+      - 優勝 : 2018年広島JY
+  - [高円宮杯 JFA 全日本U-15サッカー選手権大会](https://ja.wikipedia.org/wiki/高円宮杯_JFA_全日本U-15サッカー選手権大会 "wikilink")
+
+### ジュニア
+
+  - [JFA 全日本U-12フットサル選手権大会](../Page/JFA_全日本U-12フットサル選手権大会.md "wikilink")
+      - 準優勝 : 2000年
+
+### 国際試合
+
+#### ジュニアユース
+
+  - マンチェスター・ユナイテッド・プレミアカップ
+
+2003年と2014年にジュニアユースが[JFAプレミアカップ](https://ja.wikipedia.org/wiki/JFAプレミアカップ "wikilink")（旧ナイキプレミアカップ）優勝したことに伴い[マンチェスター・ユナイテッド・プレミアカップ](https://ja.wikipedia.org/wiki/マンチェスター・ユナイテッド・プレミアカップ "wikilink")に出場している\[97\]。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>開催年月日</p></th>
+<th><p>大会名</p></th>
+<th><p>対戦相手</p></th>
+<th><p>開催地</p></th>
+<th><p>スコア</p></th>
+<th><p>勝敗</p></th>
+<th><p>記録</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2003年7月17日</p></td>
+<td><p>グループD</p></td>
+<td><p><a href="../Page/ボカ・ジュニアーズ.md" title="wikilink">ボカ・ジュニアーズ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ポートランド_(オレゴン州)" title="wikilink">ポートランド</a></p></td>
+<td><p>2-3</p></td>
+<td><p>敗北</p></td>
+<td><p><a href="http://www.jsgoal.jp/official/hiroshima/00001164.html">1</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/アトレティコ・マドリード" title="wikilink">アトレティコ・マドリード</a></p></td>
+<td><p>0-1</p></td>
+<td><p>敗北</p></td>
+<td><p><a href="http://www.jsgoal.jp/official/hiroshima/00001166.html">2</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2003年7月19日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ロイヤル・コスタル" title="wikilink">ロイヤル・コスタル</a></p></td>
+<td><p>0-1</p></td>
+<td><p>敗北</p></td>
+<td><p><a href="http://www.jsgoal.jp/official/hiroshima/00001192.html">3</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/パリ・サンジェルマン" title="wikilink">パリ・サンジェルマン</a></p></td>
+<td><p>1-0</p></td>
+<td><p>勝利</p></td>
+<td><p><a href="http://www.jsgoal.jp/official/hiroshima/00001190.html">4</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2003年7月21日</p></td>
+<td><p>4位グループ戦</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ピチデグア" title="wikilink">ピチデグア</a></p></td>
+<td><p>2-2(PK6-7)</p></td>
+<td><p>敗北</p></td>
+<td><p><a href="http://www.jsgoal.jp/official/hiroshima/00001225.html">5</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>15位・16位決定戦</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/インデペンディエンテ・メデジン" title="wikilink">インデペンディエンテ・メデジン</a></p></td>
+<td><p>|2-0</p></td>
+<td><p>勝利</p></td>
+<td><p><a href="http://www.jsgoal.jp/official/hiroshima/00001226.html">6</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2014年8月6日</p></td>
+<td><p>グループC</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UANLティグレス" title="wikilink">UANLティグレス</a></p></td>
+<td><p><a href="../Page/マンチェスター.md" title="wikilink">マンチェスター</a></p></td>
+<td><p>0-3</p></td>
+<td><p>敗北</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/フェイエノールト.md" title="wikilink">フェイエノールト</a></p></td>
+<td><p>0-2</p></td>
+<td><p>敗北</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2014年8月7日</p></td>
+<td><p><a href="../Page/マンチェスター・ユナイテッドFC.md" title="wikilink">マンチェスター・ユナイテッドFC</a></p></td>
+<td><p>4-0</p></td>
+<td><p>勝利</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/マメロディ・サンダウンズ" title="wikilink">マメロディ・サンダウンズ</a></p></td>
+<td><p>2-0</p></td>
+<td><p>勝利</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2014年8月8日</p></td>
+<td><p>順位決定戦</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/SCインテルナシオナル" title="wikilink">SCインテルナシオナル</a></p></td>
+<td><p>1-5</p></td>
+<td><p>敗北</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11位・12位決定戦</p></td>
+<td><p>中東中学校</p></td>
+<td><p>1-0</p></td>
+<td><p>勝利</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### ユース
+
+  - SBCカップ
+
+ユースは高円宮杯決勝進出の副賞として、2005年と2008年の2度にわたりドイツで開かれたSBCカップに出場している\[98\]。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>開催年月日</p></th>
+<th><p>大会名</p></th>
+<th><p>対戦相手</p></th>
+<th><p>開催地</p></th>
+<th><p>スコア</p></th>
+<th><p>勝敗</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2005年2月26日</p></td>
+<td><p>グループリーグ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/オリンピアコスFC" title="wikilink">オリンピアコスU</a>-19</p></td>
+<td></td>
+<td><p>1-1</p></td>
+<td><p>引分</p></td>
+</tr>
+<tr class="even">
+<td><p>2005年2月26日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/SSVウルム1846" title="wikilink">SSVウルム1846</a>U-19</p></td>
+<td><p>1-3</p></td>
+<td><p>敗北</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2005年2月27日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハンブルガーSV" title="wikilink">ハンブルガーSV</a>U-19</p></td>
+<td><p>1-2</p></td>
+<td><p>敗北</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2005年2月27日</p></td>
+<td><p>5位6位決定戦</p></td>
+<td><p>U-19</p></td>
+<td><p>1-0</p></td>
+<td><p>勝利</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2008年2月22日</p></td>
+<td><p>グループリーグ</p></td>
+<td><p>FVオリンピア ラオプハイムU-19</p></td>
+<td><p>ラオプハイム</p></td>
+<td><p>2-0</p></td>
+<td><p>勝利</p></td>
+</tr>
+<tr class="even">
+<td><p>2008年2月22日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TSV1860ミュンヘン" title="wikilink">TSV1860ミュンヘン</a>U-19</p></td>
+<td><p>0-1</p></td>
+<td><p>敗北</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2008年2月23日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FCトゥウェンテ" title="wikilink">FCトゥウェンテ</a>U-19</p></td>
+<td><p>0-1</p></td>
+<td><p>敗北</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2008年2月23日</p></td>
+<td><p>5位6位決定戦</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ヘルタ・ベルリン" title="wikilink">ヘルタ・ベルリン</a>U-19</p></td>
+<td><p>3-0</p></td>
+<td><p>勝利</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - クラウディオサッシ国際ユーストーナメント
+
+高円宮杯決勝進出の副賞として、イタリアで開かれたクラウディオサッシ国際ユーストーナメントU-18大会に出場した。2年連続でフェアプレー賞を受賞した。なお、2012年は[ACチェゼーナ](https://ja.wikipedia.org/wiki/ACチェゼーナ "wikilink")のトップチームとも対戦、[シモーネ・デル・ネロ](https://ja.wikipedia.org/wiki/シモーネ・デル・ネロ "wikilink")らに得点を奪われ0-6で敗戦している\[99\]。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>開催年月日</p></th>
+<th><p>大会名</p></th>
+<th><p>対戦相手</p></th>
+<th><p>開催地</p></th>
+<th><p>スコア</p></th>
+<th><p>勝敗</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2011年4月22日</p></td>
+<td><p>グループリーグ</p></td>
+<td><p><a href="../Page/ユヴェントスFC.md" title="wikilink">ユヴェントスFC</a>U-18</p></td>
+<td><p><a href="../Page/サッスオーロ.md" title="wikilink">サッスオーロ</a></p></td>
+<td><p>1-2</p></td>
+<td><p>敗北</p></td>
+</tr>
+<tr class="even">
+<td><p>2011年4月23日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/モデナFC" title="wikilink">モデナFC</a>U-18</p></td>
+<td><p>2-1</p></td>
+<td><p>勝利</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2011年4月24日</p></td>
+<td><p><a href="../Page/マンチェスター・ユナイテッドFC.md" title="wikilink">マンチェスター・ユナイテッドFC</a>U-18</p></td>
+<td><p>1-3</p></td>
+<td><p>敗北</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2012年4月6日</p></td>
+<td><p>グループリーグ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ" title="wikilink">PFC CSKAモスクワU</a>-18</p></td>
+<td><p>サッスオーロ</p></td>
+<td><p>2-3</p></td>
+<td><p>敗北</p></td>
+</tr>
+<tr class="odd">
+<td><p>2012年4月7日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ACチェゼーナ" title="wikilink">ACチェゼーナ</a>U-18</p></td>
+<td><p>3-3</p></td>
+<td><p>引分</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2012年4月8日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/USサッスオーロ・カルチョ" title="wikilink">USサッスオーロ・カルチョ</a>U-18</p></td>
+<td><p>4-0</p></td>
+<td><p>勝利</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - Balcom BMW CUP 平和祈念広島国際ユースサッカー
+
+2006年から広島県で行われている国際大会に出場している。
+
+### 特記
+
+  - 中国社会人リーグ
+
+創立当初から[中国地方](../Page/中国地方.md "wikilink")のユース年代では抜けた存在であったため、近隣になかなかいい対戦相手がいなかった。そのため1998年、[中国サッカーリーグ](https://ja.wikipedia.org/wiki/中国サッカーリーグ "wikilink")の前期日程(第1節-第8節)にオープン参加している\[100\]。しかし、社会人リーグのリーグ編成および日程の関係から、この年だけで終わっている。ちなみに戦績は7勝1敗。
+
+  - ユース二冠
+
+<table>
+<tbody>
+<tr class="odd">
+<td><div style="position: relative;">
+<p><a href="https://ja.wikipedia.org/wiki/ファイル:Soccer_Field_Transparant.svg" title="wikilink">200px</a>           </p>
+</div></td>
+</tr>
+<tr class="even">
+<td><p>2004年8月8日第28回日本クラブユースサッカー選手権 (U-18)大会決勝対ジュビロ磐田ユース戦（Jヴィレッジスタ）のスターティングメンバー[101]。数字は背番号、(C)はキャプテン。</p></td>
+</tr>
+</tbody>
+</table>
+
+[森山佳郎](https://ja.wikipedia.org/wiki/森山佳郎 "wikilink")が監督として率いた2003年・2004年の広島ユースは、2年連続でユース三冠（[クラブユース選手権](https://ja.wikipedia.org/wiki/日本クラブユースサッカー選手権_\(U-18\)大会 "wikilink")・[高円宮杯](https://ja.wikipedia.org/wiki/高円宮杯全日本ユース\(U-18\)サッカー選手権大会 "wikilink")・[Jユースカップ](https://ja.wikipedia.org/wiki/Jリーグユース選手権大会 "wikilink")）のうち二冠を達成し、"広島ユース黄金時代"と呼ばれた\[102\]\[103\]\[104\]。これは2001年からクラブ全体が攻撃的なサッカーへの転換を模索しだしたこと\[105\]、それに伴いチームとして質を上げるため2001年のみ[スカウト活動を積極的に行ったことにより入団した選手が高校](https://ja.wikipedia.org/wiki/スカウト_\(勧誘\) "wikilink")2年・3年になる2003年・2004年に結果として現れたためである\[106\]。
+
+[前田俊介](https://ja.wikipedia.org/wiki/前田俊介 "wikilink")・[高柳一誠](https://ja.wikipedia.org/wiki/高柳一誠 "wikilink")・[森脇良太](https://ja.wikipedia.org/wiki/森脇良太 "wikilink")・[柏木陽介](https://ja.wikipedia.org/wiki/柏木陽介 "wikilink")・[槙野智章](https://ja.wikipedia.org/wiki/槙野智章 "wikilink")・[平繁龍一](https://ja.wikipedia.org/wiki/平繁龍一 "wikilink")ら、タレントがズラリ揃った2004年には、3大会とも決勝に進出した\[107\]。レギュラー11人が全員プロ入りしたこのチームは\[108\] 強さと巧さを兼ね備え、なおかつ勝負強く、史上最強ではといわれる伝説のチームであった\[109\]。ただ、最上級生に[田坂祐介](../Page/田坂祐介.md "wikilink")・[西山貴永](https://ja.wikipedia.org/wiki/西山貴永 "wikilink")・[田村祐基](https://ja.wikipedia.org/wiki/田村祐基 "wikilink")ら、そしてクラブ史上初のプロの高校生Jリーガーとなる[高萩洋次郎](https://ja.wikipedia.org/wiki/高萩洋次郎 "wikilink")が在籍した2003年のチームのほうが記録的には上で、公式戦でわずか2敗のみ（高円宮杯準決勝・[静岡学園戦と](https://ja.wikipedia.org/wiki/静岡学園中学校・高等学校 "wikilink")[2003年天皇杯](https://ja.wikipedia.org/wiki/第83回天皇杯全日本サッカー選手権大会 "wikilink")1回戦対J2[水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")戦）しかしていない。
+
+  - 高円宮杯3連覇
+
+高円宮杯はクラブユースと高体連つまり2種登録チームすべてが参加する唯一の大会であり、現在は高校年代サッカーの最高峰と位置づけられている。この大会において2010年代初頭に、[第21回高円宮杯](https://ja.wikipedia.org/wiki/高円宮杯第21回全日本ユース\(U-18\)サッカー選手権大会 "wikilink")・[2011年高円宮杯プレミア](https://ja.wikipedia.org/wiki/高円宮杯U-18サッカーリーグ2011 "wikilink")・[2012年高円宮杯プレミアと](https://ja.wikipedia.org/wiki/高円宮杯U-18サッカーリーグ2012 "wikilink")3連覇を達成している。大会レギュレーション変更を挟むため参考記録ではあるが、2014年現在3連覇は[清水市商高と広島ユースのみである](https://ja.wikipedia.org/wiki/静岡市立清水商業高等学校 "wikilink")\[110\]。また高円宮杯プレミア2連覇は2014年現在で広島ユースのみである。
+
+なお2012年は[トップチームがJ1リーグ制覇を達成しており](https://ja.wikipedia.org/wiki/2012年のJリーグ_ディビジョン1 "wikilink")、リーグ戦として“兄弟制覇”ということになる\[111\]。
+
+## スポンサー
+
+以下、[ミズノ](https://ja.wikipedia.org/wiki/ミズノ "wikilink")時代は不明な点が多いため2011年以降の状況を記載する。
+
+|      |                                                          |                                                       |                                      |
+| ---- | -------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------ |
+| 年度   | ユース                                                      | ジュニアユース                                               | サプライヤー                               |
+|      |                                                          |                                                       |                                      |
+| 胸    | 背中                                                       | 袖                                                     | パンツ                                  |
+| 2016 | [you me](https://ja.wikipedia.org/wiki/ゆめタウン "wikilink") | [mazda](https://ja.wikipedia.org/wiki/マツダ "wikilink") | [安芸高田市](../Page/安芸高田市.md "wikilink") |
+| 2015 | SANFRECCE                                                | SANFRECCE                                             |                                      |
+| 2014 |                                                          |                                                       |                                      |
+| 2013 |                                                          |                                                       |                                      |
+| 2012 |                                                          |                                                       |                                      |
+| 2011 |                                                          |                                                       |                                      |
+
+  - サプライヤーはトップチームと同じ[ナイキ](https://ja.wikipedia.org/wiki/ナイキ "wikilink")で、デザインもトップチームと同じもの。トップチームが[ミズノ](https://ja.wikipedia.org/wiki/ミズノ "wikilink")だった時代には1代前のデザインのものを用いていたりスポンサー表記がトップとは別だったりと不明な点が多いため、ここではミズノ時代である2010年以前については記載を省く。
+  - スポンサー契約していない場合、胸は「SANFRECCE」、背中が無記名。
+  - マツダは2010年以前からユースのみスポンサーとして入っていた。
+  - 2010年以前に短期間ジュニアユース・ジュニア・スクールのスポンサーに[フレスタが入っていたこともあった](https://ja.wikipedia.org/wiki/フレスタ_\(スーパーマーケット\) "wikilink")。
+  - 2011年からユースのユニフォーム右袖に「安芸高田市」の文字と市章が入っている。マザータウンとして明確に掲示したためであり、安芸高田市がスポンサーとして入っているわけではない\[112\]。
+  - 2016年からユースおよびジュニアユースの胸に[イズミ](../Page/イズミ.md "wikilink")が入っている\[113\]。
+  - [日本ヒューレット・パッカード](https://ja.wikipedia.org/wiki/日本ヒューレット・パッカード "wikilink")のCMに育成スタッフおよび選手が起用されている\[114\]。
+
+## 出身者
+
+### スタッフ
+
+  - 主な育成責任者
+
+<!-- end list -->
+
+  - [高田豊治](https://ja.wikipedia.org/wiki/高田豊治 "wikilink")
+  - [小野剛](https://ja.wikipedia.org/wiki/小野剛_\(サッカー指導者\) "wikilink")
+  - [横内昭展](https://ja.wikipedia.org/wiki/横内昭展 "wikilink")
+  - [木村孝洋](https://ja.wikipedia.org/wiki/木村孝洋 "wikilink")
+  - [高橋真一郎](https://ja.wikipedia.org/wiki/高橋真一郎 "wikilink")
+
+<!-- end list -->
+
+  - ユース監督
+
+<!-- end list -->
+
+  - [小林伸二](https://ja.wikipedia.org/wiki/小林伸二 "wikilink") (1993年 - 1996年)
+  - 木村考洋 (1997年 - 2000年)
+  - [中村重和](https://ja.wikipedia.org/wiki/中村重和 "wikilink") (2001年 - 2002年8月)
+  - [森山佳郎](https://ja.wikipedia.org/wiki/森山佳郎 "wikilink") (2002年8月 - 2012年)
+  - [望月一頼](https://ja.wikipedia.org/wiki/望月一頼 "wikilink") (2013年 - 2014年)
+  - [沢田謙太郎](https://ja.wikipedia.org/wiki/沢田謙太郎 "wikilink") (2015年 - 現在)
+
+<!-- end list -->
+
+  - ジュニアユース監督
+
+<!-- end list -->
+
+  - ?
+  - 中村重和 (1997年 - 2000年)
+  - [月岡利明](https://ja.wikipedia.org/wiki/月岡利明 "wikilink") (2001年)
+  - [上野展裕](https://ja.wikipedia.org/wiki/上野展裕 "wikilink") (2002年 - 2003年)
+  - 塩崎浩作 (2004年)
+  - [島卓視](https://ja.wikipedia.org/wiki/島卓視 "wikilink") (2005年 - 2008年)
+  - [沢田謙太郎](https://ja.wikipedia.org/wiki/沢田謙太郎 "wikilink") (2009年 - 2014年)
+  - [迫井深也](https://ja.wikipedia.org/wiki/迫井深也 "wikilink") (2015年 - 現在)
+
+<!-- end list -->
+
+  - その他
+
+<!-- end list -->
+
+  - [森保一](https://ja.wikipedia.org/wiki/森保一 "wikilink")
+  - [山西博文](https://ja.wikipedia.org/wiki/山西博文 "wikilink")
+  - [高野剛](https://ja.wikipedia.org/wiki/高野剛_\(サッカー指導者\) "wikilink")
+  - [吉田恵](https://ja.wikipedia.org/wiki/吉田恵_\(サッカー選手\) "wikilink")
+  - [雨野裕介](../Page/雨野裕介.md "wikilink")
+  - [佐藤一樹](https://ja.wikipedia.org/wiki/佐藤一樹 "wikilink")
+  - [上原洋史](https://ja.wikipedia.org/wiki/上原洋史 "wikilink")
+  - [前川和也](https://ja.wikipedia.org/wiki/前川和也 "wikilink")
+  - [森秀昭](https://ja.wikipedia.org/wiki/森秀昭 "wikilink")
+  - [山崎真](https://ja.wikipedia.org/wiki/山崎真_\(サッカー選手\) "wikilink")
+  - [門田幸二](https://ja.wikipedia.org/wiki/門田幸二 "wikilink")
+  - [遠藤真仁](../Page/遠藤真仁.md "wikilink")
+
+### 主な出身選手
+
+海外も含めた男子女子の全国リーグ経験者のみ列挙。日本の場合は男子：Jリーグ・JFL、女子：なでしこリーグ所属経験者のみとし、海外の1部リーグ所属経験はあるが日本の全国リーグには所属経験のない選手も含む。育成所属経験のうち、Yはユース、JYはジュニアユース、Jrはジュニア、Sはスクールの略。提携スクールのうち、くにびきは「く」、びんごは「び」、みろくの里は「み」、常石は「常」と略記。[五十音](../Page/五十音.md "wikilink")順表記。[サンフレッチェ広島F.Cの選手一覧](https://ja.wikipedia.org/wiki/サンフレッチェ広島F.Cの選手一覧 "wikilink")もあわせて参照。
+
+#### 1970年代生まれ
+
+  - 1977年度生まれ
+      - [高田純](https://ja.wikipedia.org/wiki/高田純_\(サッカー選手\) "wikilink") - Y、初のトップ昇格
+      - [原田紘介](https://ja.wikipedia.org/wiki/原田紘介 "wikilink") - Y
+  - 1978年度生まれ
+      - [雨野裕介](../Page/雨野裕介.md "wikilink") - Y
+      - [荒木亮次](https://ja.wikipedia.org/wiki/荒木亮次 "wikilink") - Y
+      - [岩村貴久](https://ja.wikipedia.org/wiki/岩村貴久 "wikilink") - Y
+      - [安武亨](https://ja.wikipedia.org/wiki/安武亨 "wikilink") - Y、初のトップ公式戦出場
+      - [渡辺大輔](https://ja.wikipedia.org/wiki/渡辺大輔_\(サッカー選手\) "wikilink") - Y
+  - 1979年度生まれ
+      - [秋元雅博](https://ja.wikipedia.org/wiki/秋元雅博 "wikilink") - Y
+      - [石川裕司](https://ja.wikipedia.org/wiki/石川裕司 "wikilink") - Y
+      - [大畑隼哉](https://ja.wikipedia.org/wiki/大畑隼哉 "wikilink") - Y
+      - [行友亮二](https://ja.wikipedia.org/wiki/行友亮二 "wikilink") - Y
+      - [伊東貴史](https://ja.wikipedia.org/wiki/伊東貴史 "wikilink") - Y
+
+#### 1980年代生まれ
+
+  - 1980年度生まれ
+      - [池田学徳](https://ja.wikipedia.org/wiki/池田学徳 "wikilink") - Y
+      - [吉田幸生](https://ja.wikipedia.org/wiki/吉田幸生 "wikilink") - Y
+  - 1981年度生まれ
+      - [久保田学](https://ja.wikipedia.org/wiki/久保田学 "wikilink") - Y
+      - [駒野友一](https://ja.wikipedia.org/wiki/駒野友一 "wikilink") - Y、初の日本代表、初のW杯出場
+      - [森崎和幸](https://ja.wikipedia.org/wiki/森崎和幸 "wikilink") - Y、初の2種登録による公式戦出場
+      - [森崎浩司](https://ja.wikipedia.org/wiki/森崎浩司 "wikilink") - Y
+  - 1982年度生まれ
+      - [寺内良太](https://ja.wikipedia.org/wiki/寺内良太 "wikilink") - Y
+  - 1983年度生まれ
+      - [田森大己](https://ja.wikipedia.org/wiki/田森大己 "wikilink") - Y、JY
+
+      - [宮本卓也](https://ja.wikipedia.org/wiki/宮本卓也 "wikilink") - Y、JY
+
+      - \- S、[イワン・ハシェック](https://ja.wikipedia.org/wiki/イワン・ハシェック "wikilink")実子
+  - 1984年度生まれ
+      - [沖本尚之](https://ja.wikipedia.org/wiki/沖本尚之 "wikilink") - Y、JY
+      - [木村龍朗](https://ja.wikipedia.org/wiki/木村龍朗 "wikilink") - Y
+      - [寄井憲](../Page/寄井憲.md "wikilink") - Y、みJY
+  - 1985年度生まれ
+      - [田坂祐介](../Page/田坂祐介.md "wikilink") - Y、JY
+      - [田村祐基](https://ja.wikipedia.org/wiki/田村祐基 "wikilink") - Y、JY、初のJYからトップ昇格
+      - [西山貴永](https://ja.wikipedia.org/wiki/西山貴永 "wikilink") - Y
+      - [平石健太](https://ja.wikipedia.org/wiki/平石健太 "wikilink") - びJY
+      - [前田和之](https://ja.wikipedia.org/wiki/前田和之_\(サッカー選手\) "wikilink") - Y、JY
+      - [吉村修平](https://ja.wikipedia.org/wiki/吉村修平 "wikilink") - Y
+  - 1986年度生まれ
+      - [大屋翼](https://ja.wikipedia.org/wiki/大屋翼 "wikilink") - Y、JY
+      - [桒田慎一朗](https://ja.wikipedia.org/wiki/桑田慎一朗 "wikilink") - Y、みJY、初のみろくの里JYからトップ昇格
+      - [佐藤昭大](https://ja.wikipedia.org/wiki/佐藤昭大 "wikilink") - Y
+      - [高萩洋次郎](https://ja.wikipedia.org/wiki/高萩洋次郎 "wikilink") - Y、初のプロの高校生Jリーガー
+      - [高柳一誠](https://ja.wikipedia.org/wiki/高柳一誠 "wikilink") - Y、JY
+      - [冨成慎司](https://ja.wikipedia.org/wiki/冨成慎司 "wikilink") - Y
+      - [長谷川博一](https://ja.wikipedia.org/wiki/長谷川博一_\(サッカー選手\) "wikilink") - JY、S
+      - [藤井大輔](https://ja.wikipedia.org/wiki/藤井大輔_\(サッカー選手\) "wikilink") - Y
+      - [前田俊介](https://ja.wikipedia.org/wiki/前田俊介 "wikilink") - Y
+      - [森脇良太](https://ja.wikipedia.org/wiki/森脇良太 "wikilink") - Y、びJY、初のびんごJYからトップ昇格
+
+<!-- end list -->
+
+  - 1987年度生まれ
+      - [石田聖雄](https://ja.wikipedia.org/wiki/石田聖雄 "wikilink") - JY
+      - [柏木陽介](https://ja.wikipedia.org/wiki/柏木陽介 "wikilink") - Y
+      - [川上典洋](https://ja.wikipedia.org/wiki/川上典洋 "wikilink") - くJY
+      - [木原正和](https://ja.wikipedia.org/wiki/木原正和 "wikilink") - Y
+      - [左山晋平](https://ja.wikipedia.org/wiki/左山晋平 "wikilink") - JY
+      - [平野甲斐](https://ja.wikipedia.org/wiki/平野甲斐 "wikilink") - くJY
+      - [福本尚純](https://ja.wikipedia.org/wiki/福本尚純 "wikilink") - Y
+      - [槙野智章](https://ja.wikipedia.org/wiki/槙野智章 "wikilink") - Y、JY、初のJY出身の日本代表
+      - [森重真人](https://ja.wikipedia.org/wiki/森重真人 "wikilink") - JY
+  - 1988年度生まれ
+      - [金山隼樹](https://ja.wikipedia.org/wiki/金山隼樹 "wikilink") - Y
+      - [酒井貴政](https://ja.wikipedia.org/wiki/酒井貴政 "wikilink") - JY、Jr
+      - [平繁龍一](https://ja.wikipedia.org/wiki/平繁龍一 "wikilink") - Y、JY、Jr、S、初のJrおよびSからトップ昇格
+      - [藤澤典隆](https://ja.wikipedia.org/wiki/藤澤典隆 "wikilink") - Y
+      - [野田明弘](https://ja.wikipedia.org/wiki/野田明弘 "wikilink") - Y
+      - [遊佐克美](../Page/遊佐克美.md "wikilink") - Y
+  - 1989年度生まれ
+      - [内田健太](https://ja.wikipedia.org/wiki/内田健太 "wikilink") - Y
+      - [兼田亜季重](https://ja.wikipedia.org/wiki/兼田亜季重 "wikilink") - Y、JY
+      - [篠原聖](https://ja.wikipedia.org/wiki/篠原聖 "wikilink") - Y
+      - [中野裕太](https://ja.wikipedia.org/wiki/中野裕太_\(サッカー選手\) "wikilink") - Y
+      - [横竹翔](https://ja.wikipedia.org/wiki/横竹翔 "wikilink") - Y、JY、Jr、S
+
+#### 1990年代生まれ
+
+  - 1990年度生まれ
+      - [井林章](https://ja.wikipedia.org/wiki/井林章 "wikilink") - びJY
+      - [岡本知剛](https://ja.wikipedia.org/wiki/岡本知剛 "wikilink") - Y、びJY
+      - [原裕太郎](https://ja.wikipedia.org/wiki/原裕太郎 "wikilink") - Y、くJY、初のくにびきJYからトップ昇格
+      - [松岡祐介](https://ja.wikipedia.org/wiki/松岡祐介 "wikilink") - JY
+      - [不老祐介](https://ja.wikipedia.org/wiki/不老祐介 "wikilink") - Y
+  - 1991年度生まれ
+      - [石川喬穂](https://ja.wikipedia.org/wiki/石川喬穂 "wikilink") - びJY
+      - [大崎淳矢](https://ja.wikipedia.org/wiki/大崎淳矢 "wikilink") - Y
+      - [岡崎和也](https://ja.wikipedia.org/wiki/岡崎和也_\(サッカー選手\) "wikilink") - JY、Jr、S
+      - [玉田道歩](https://ja.wikipedia.org/wiki/玉田道歩 "wikilink") - Y、JY
+      - [茶島雄介](https://ja.wikipedia.org/wiki/茶島雄介 "wikilink") - Y、JY、Jr、S、初の大学経由トップ昇格
+      - [中山雄登](https://ja.wikipedia.org/wiki/中山雄登 "wikilink") - Y、JY
+      - [ファビオ・岡](https://ja.wikipedia.org/wiki/ダ・シルバ・ファビオ・岡 "wikilink") - びJY
+      - [森保翔平](https://ja.wikipedia.org/wiki/森保翔平 "wikilink") - Y、JY、Jr
+      - [水頭廉](https://ja.wikipedia.org/wiki/水頭廉 "wikilink") - Y
+      - [山本弘明](https://ja.wikipedia.org/wiki/山本弘明 "wikilink") - びJY
+  - 1992年度生まれ
+      - [井波靖奈](https://ja.wikipedia.org/wiki/井波靖奈 "wikilink") - Y
+      - [川森有真](https://ja.wikipedia.org/wiki/川森有真 "wikilink") - Y
+      - [宗近慧](https://ja.wikipedia.org/wiki/宗近慧 "wikilink") - Y、びJY
+      - [岡本洵](https://ja.wikipedia.org/wiki/岡本洵 "wikilink") - Y
+  - 1993年度生まれ
+      - [石坂元気](https://ja.wikipedia.org/wiki/石坂元気 "wikilink") - Y
+      - [大野哲煥](https://ja.wikipedia.org/wiki/大野哲煥 "wikilink") - Y
+      - [亀島周](https://ja.wikipedia.org/wiki/亀島周 "wikilink") - Y、JY
+      - [藤井貴之](https://ja.wikipedia.org/wiki/藤井貴之 "wikilink") - Y
+      - [増谷幸祐](https://ja.wikipedia.org/wiki/増谷幸祐 "wikilink") - びJY
+      - [本藤理佐](https://ja.wikipedia.org/wiki/本藤理佐 "wikilink") - Jr、S、初のJr出身のなでしこリーガー
+      - [脇本晃成](https://ja.wikipedia.org/wiki/脇本晃成 "wikilink") - Y、JY
+      - [米沢健吾](https://ja.wikipedia.org/wiki/米沢健吾 "wikilink") - びJY
+
+<!-- end list -->
+
+  - 1994年度生まれ
+      - [加藤潤也](https://ja.wikipedia.org/wiki/加藤潤也 "wikilink") - 常JY
+      - [國分伸太郎](https://ja.wikipedia.org/wiki/國分伸太郎 "wikilink") - びJY、Jr
+      - [塚川孝輝](https://ja.wikipedia.org/wiki/塚川孝輝 "wikilink") - JY
+      - [西嶋有矢](https://ja.wikipedia.org/wiki/西嶋有矢 "wikilink") - Y
+      - [野津田岳人](https://ja.wikipedia.org/wiki/野津田岳人 "wikilink") - Y、JY
+      - [前川黛也](https://ja.wikipedia.org/wiki/前川黛也 "wikilink") - JY、Jr、S
+      - [松浦尚人](https://ja.wikipedia.org/wiki/松浦尚人 "wikilink") - 常JY
+  - 1995年度生まれ
+      - [大谷尚輝](https://ja.wikipedia.org/wiki/大谷尚輝 "wikilink") - Y、JY、Jr、S
+      - [川辺駿](https://ja.wikipedia.org/wiki/川辺駿 "wikilink") - Y、JY、初のプロ契約2種登録選手
+      - [高橋壮也](https://ja.wikipedia.org/wiki/高橋壮也 "wikilink") - くJY、初の高校経由トップ昇格
+      - [田中雄輝](https://ja.wikipedia.org/wiki/田中雄輝 "wikilink") - 常JY
+      - [千布一輝](https://ja.wikipedia.org/wiki/千布一輝 "wikilink") - 常JY
+      - [宮原和也](https://ja.wikipedia.org/wiki/宮原和也 "wikilink") - Y、JY、初のプロ契約2種登録選手
+  - 1996年度生まれ
+      - [荒木隼人](https://ja.wikipedia.org/wiki/荒木隼人 "wikilink") - Y
+  - 1997年度生まれ
+      - [長沼洋一](https://ja.wikipedia.org/wiki/長沼洋一 "wikilink") - Y
+  - 1998年度生まれ
+      - [イヨハ理ヘンリー](https://ja.wikipedia.org/wiki/イヨハ理ヘンリー "wikilink") - Y
+      - [山根永遠](https://ja.wikipedia.org/wiki/山根永遠 "wikilink") - Jr、JY、Y
+  - 1999年度生まれ
+      - [大迫敬介](https://ja.wikipedia.org/wiki/大迫敬介 "wikilink") - Y
+      - [川井歩](https://ja.wikipedia.org/wiki/川井歩 "wikilink") -Y
+
+#### 2000年代生まれ
+
+  - 2000年度生まれ
+      - [東俊希](https://ja.wikipedia.org/wiki/東俊希 "wikilink") - Y
+      - [松本大弥](https://ja.wikipedia.org/wiki/松本大弥 "wikilink") - Y
+      - [大堀亮之介](https://ja.wikipedia.org/wiki/大堀亮之介 "wikilink") - JY、Y 海外クラブに加入
+  - 2001年生まれ
+      - [土肥航大](https://ja.wikipedia.org/wiki/土肥航大 "wikilink") - Y
+      - [鮎川峻](https://ja.wikipedia.org/wiki/鮎川峻 "wikilink") - Y
+
+## 脚注
+
+  - 注釈
+
+<references group = "注"/>
+
+  - 出典
+
+## 参考資料
+
+  -
+  -
+  -
+  - \- 2010年3月31日付Jリーグ公式
+
+  - [三矢寮](http://www.shokokai.or.jp/34/yoshida/person/person20.htm) - 安芸高田ドットコム
+
+  - 『ぽいち 森保一自伝―雑草魂を胸に』[森保一](https://ja.wikipedia.org/wiki/森保一 "wikilink")・[西岡明彦](https://ja.wikipedia.org/wiki/西岡明彦 "wikilink")共著、2004年2月、[フロムワン](https://ja.wikipedia.org/wiki/フロムワン "wikilink")、ISBN 4757210159
+
+  - 『[週刊サッカーダイジェスト](https://ja.wikipedia.org/wiki/週刊サッカーダイジェスト "wikilink")』各号
+
+      - 「サンフレッチェ広島ユース解体新書」、2004年11月30日号および同年12月7日号
+
+  - 『[週刊サッカーマガジン](https://ja.wikipedia.org/wiki/週刊サッカーマガジン "wikilink")』各号
+
+  - 『[中国新聞](../Page/中国新聞.md "wikilink")』各紙
+
+## 関連項目
+
+  - [サンフレッチェ広島F.Cの選手一覧](https://ja.wikipedia.org/wiki/サンフレッチェ広島F.Cの選手一覧 "wikilink")
+  - [カンテラ](https://ja.wikipedia.org/wiki/カンテラ "wikilink")(スペイン)
+  - [イタリアのサッカークラブの下部組織](https://ja.wikipedia.org/wiki/イタリアのサッカークラブの下部組織 "wikilink")
+  - [フランチャイズ・プレイヤー](https://ja.wikipedia.org/wiki/フランチャイズ・プレイヤー "wikilink")
+
+## 外部リンク
+
+  - [サンフレッチェ広島オフィシャルホームページ](http://www.sanfrecce.co.jp/)
+  - [サンフレッチェ広島サッカースクール公式](http://www.sanfrecce-school.jp/index.html)(携帯サイト)
+  - 提携スクール
+      - [サンフレッチェくにびきフットボールクラブ](http://www.kunibiki-fc.co.jp)
+      - [サンフレッチェびんごフットボールクラブ](http://www.sportsonline.jp/s.bingo/)
+  - [中国クラブユースサッカー連盟](http://www.sportsonline.jp/tycfa/)
+
+[Category:サンフレッチェ広島F.C](https://ja.wikipedia.org/wiki/Category:サンフレッチェ広島F.C "wikilink") [Category:サンフレッチェ広島F.Cの選手](https://ja.wikipedia.org/wiki/Category:サンフレッチェ広島F.Cの選手 "wikilink") [Category:日本のサッカーアカデミー](https://ja.wikipedia.org/wiki/Category:日本のサッカーアカデミー "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11. 小澤一郎、前編
+12. 小澤一郎、後編
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22. [【2014シーズン始動！】熊本：新体制発表会見での出席者コメント（１）](https://www.jsgoal.jp/news/jsgoal/00167014.html)
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33. [川端暁彦](https://ja.wikipedia.org/wiki/川端暁彦 "wikilink")“「高校 VS ユース」？対立の構図のその先を見る時代へ”.『[エル・ゴラッソ](https://ja.wikipedia.org/wiki/エル・ゴラッソ "wikilink")』2009年1月15日。
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41. 『サッカーマガジン』1966年06月01日号
+42. 『サッカーマガジン』1966年11月1日号、78頁。
+43.
+44.
+45.
+46.
+47.
+48.
+49. 『週刊サッカーダイジェスト』、2004年11月30日号および同年12月7日号
+50.
+51.
+52.
+53. 『森保自伝』、P.65
+54.
+55.
+56. 『Jリーグ開幕15周年記念DVD サンフレッチェ広島 レジェンド・オブ・スターズ』(Data Stadium)高木琢也インタビュー。
+57.
+58. 『森保自伝』、P.70
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+76.
+77.
+78.
+79.
+80.
+81.
+82.
+83.
+84. 年度は [Jリーグ公式サイト](http://www.j-league.or.jp/100year/academy/aca-dbook.html) より。
+85.
+86.
+87.
+88.
+89.
+90.
+91.
+92.
+93.
+94.
+95.
+96. [SANFRECCE Diary](http://homepage3.nifty.com/sanfreccediary/)
+97. [ナイキプレミアカップ公式](http://www.nike.jp/football/jpn/premiercup/)
+98.
+99.
+100.
+101.
+102. 『サッカーマガジン』2008年08月05日号8頁
+103.
+104.
+105.
+106.
+107.
+108.
+109.
+110.
+111.
+112.
+113.
+114.

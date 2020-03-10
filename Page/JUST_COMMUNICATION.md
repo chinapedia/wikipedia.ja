@@ -1,0 +1,90 @@
+> この記事は[JUST COMMUNICATION](https://ja.wikipedia.org/wiki/JUST_COMMUNICATION)から翻訳されています。
+
+
+「**JUST COMMUNICATION**」（ジャスト・コミュニケーション）は、[TWO-MIX](https://ja.wikipedia.org/wiki/TWO-MIX "wikilink")の楽曲で、1枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")に発売。発売元は[キングレコード](../Page/キングレコード.md "wikilink")。
+
+## 概要
+
+表題曲は、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系アニメ『[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")』の第1期オープニングテーマ。[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")の最高位は23位だが、『ガンダムW』のヒットにより累積売上26.4万枚の売り上げを記録した\[1\]。オリコンチャートに20位以内に入らなかったのは、リピート注文枚数を毎回2万5000枚と決められていたためである\[2\]。
+
+『ガンダムW』の主題歌に起用されたきっかけは、[1994年](../Page/1994年.md "wikilink")の冬に[TWO-MIX](https://ja.wikipedia.org/wiki/TWO-MIX "wikilink")の前身である[ES CONNEXIONが活動を終了し](https://ja.wikipedia.org/wiki/ES_CONNEXION "wikilink")、ES CONNEXIONの楽曲も含めた[デモ楽曲を](https://ja.wikipedia.org/wiki/デモテープ "wikilink")[永野椎菜](https://ja.wikipedia.org/wiki/永野椎菜 "wikilink")と[高山みなみ](../Page/高山みなみ.md "wikilink")の2人で年末に作成し、それを聴いた[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")が「一緒にデモ楽曲を作ろう」と声を掛けデモ楽曲を追加し、3人でスタジオワークを始めた\[3\]結果、数多くのデモ楽曲を『ガンダムW』のスタッフが聴いた上で「JUST COMMUNICATION」が決まり、直接オファーが来たという\[4\]。その後、楽曲が完成するまで約2ヵ月かかったという\[5\]。
+
+デビュー当時は、所属していた「イズムアーティスト」の方針で「**ヴァーチャルアーティスト**」という触れ込みで売り出ていたため、CDジャケットやライナーノーツには本人達の写真は加工されていたり、判別しにくいサイズで掲載されているが、本作に至ってはジャケットの裏面に[高山みなみ](../Page/高山みなみ.md "wikilink")と[永野椎菜](https://ja.wikipedia.org/wiki/永野椎菜 "wikilink")の顔写真がはっきりと写されており、TWO-MIXのロゴの下面に『**MINAMI TAKAYAMA & SHIINA NAGANO**』と記載されている。これは、ジャケット撮影の後に行われた記念写真の[スナップが間違って使われたもので](https://ja.wikipedia.org/wiki/スナップ写真 "wikilink")\[6\]、永野はデザイン会社へ抗議したものの、当時デザイン会社内で人間関係のトラブルがあり、とばっちりで嫌がらせを受けたため\[7\]、毎回意味不明の写真が使われた。この状態が3rdシングルの「[T・R・Y -RETURN TO YOURSELF-](https://ja.wikipedia.org/wiki/T・R・Y_-RETURN_TO_YOURSELF- "wikilink")」まで続いたという。本作以降のシングルで、本人らの顔写真がはっきり写されている作品は11枚目のシングル「[BEAT OF DESTINY](https://ja.wikipedia.org/wiki/BEAT_OF_DESTINY "wikilink")」からである。
+
+また、作詞・作曲のクレジットがTWO-MIX名義のため表記はないが、3枚目のシングル「[T・R・Y -RETURN TO YOURSELF-](https://ja.wikipedia.org/wiki/T・R・Y_-RETURN_TO_YOURSELF- "wikilink")」同様、[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")が作曲した作品である。
+
+2019年3月1日には、[ソニー・ミュージックエンタテインメントのアニメソング人気投票キャンペーン](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")「[平成アニソン大賞](https://ja.wikipedia.org/wiki/平成アニソン大賞 "wikilink")」において声優ソング賞（1989年 - 1999年）に選出された\[8\]。
+
+## 収録曲
+
+## リリース履歴
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>日付</p></th>
+<th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
+<th><p>規格</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p>最高順位</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a><a href="../Page/4月29日.md" title="wikilink">4月29日</a></p></td>
+<td><p><a href="../Page/キングレコード.md" title="wikilink">キングレコード</a> / KMW<br />
+<a href="https://ja.wikipedia.org/wiki/スターチャイルド" title="wikilink">スターチャイルド</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/8センチCD" title="wikilink">8cmCD</a></p></td>
+<td><p>KIDA-99</p></td>
+<td><p>23位</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 収録作品
+
+| 曲名                                                                                                                        | バージョン                                                                                         | 収録アルバム                                                                                                         | 発売日                                                                                         | 備考 |
+| ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -- |
+| **JUST COMMUNICATION**                                                                                                    | Original                                                                                      | 『[BPM 132](https://ja.wikipedia.org/wiki/BPM_132 "wikilink")』                                                  | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月29日](../Page/4月29日.md "wikilink") |    |
+| 『[BPM "BEST FILES"](https://ja.wikipedia.org/wiki/BPM_"BEST_FILES" "wikilink")』                                           | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月13日](../Page/3月13日.md "wikilink")   |                                                                                                                |                                                                                             |    |
+| 『[SUPER BEST FILES 1995〜1998](https://ja.wikipedia.org/wiki/SUPER_BEST_FILES_1995〜1998 "wikilink")』                       | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月21日](../Page/12月21日.md "wikilink") |                                                                                                                |                                                                                             |    |
+| 『[20010101](https://ja.wikipedia.org/wiki/20010101 "wikilink")』                                                           | [2001年](../Page/2001年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")     |                                                                                                                |                                                                                             |    |
+| 『[TWO-MIX COLLECTION BOX 〜Categorhythm〜](https://ja.wikipedia.org/wiki/TWO-MIX_COLLECTION_BOX_〜Categorhythm〜 "wikilink")』 | [2002年](../Page/2002年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")                    |                                                                                                                |                                                                                             |    |
+| 『[TWO-MIX パーフェクト・ベスト](https://ja.wikipedia.org/wiki/TWO-MIX_パーフェクト・ベスト "wikilink")』                                       | [2011年](../Page/2011年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")                        |                                                                                                                |                                                                                             |    |
+| Second Variation '96                                                                                                      | 『[TWO→(RE)MIX](https://ja.wikipedia.org/wiki/TWO→\(RE\)MIX "wikilink")』                       | [1996年](../Page/1996年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")                                       | 同アレンジのInstrumentalを含む                                                                       |    |
+| 『20010101』                                                                                                                | 2001年1月1日                                                                                     |                                                                                                                |                                                                                             |    |
+| Melody Box Edit                                                                                                           | 『TWO→(RE)MIX』                                                                                 | 1996年3月23日                                                                                                     |                                                                                             |    |
+| Groove That Soul Mix                                                                                                      | 『[BPM "DANCE∞"](https://ja.wikipedia.org/wiki/BPM_"DANCE∞" "wikilink")』                       | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") | Remix: DJ TURBO ([GTS](../Page/GTS_\(DJグループ\).md "wikilink"))                               |    |
+| 『20010101』                                                                                                                | 2001年1月1日                                                                                     |                                                                                                                |                                                                                             |    |
+| International                                                                                                             | 『[BPM CUBE](https://ja.wikipedia.org/wiki/BPM_CUBE "wikilink")』                               | [2000年](../Page/2000年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")                                         | English ver.                                                                                |    |
+| 『TWO-MIX COLLECTION BOX 〜Categorhythm〜』                                                                                   | 2002年11月20日                                                                                   |                                                                                                                |                                                                                             |    |
+| Domestic                                                                                                                  | 『BPM CUBE』                                                                                    | 2000年8月9日                                                                                                      | Japanese ver.                                                                               |    |
+| **SECOND IMPRESSION**                                                                                                     | Original                                                                                      | 『BPM 132』                                                                                                      | 1995年4月29日                                                                                  |    |
+
+## カバー
+
+| 曲名                                                    | アーティスト                                                                                      | 収録アルバム                                                                                                       | 発売日                                                                                         | 備考 |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | -- |
+| **JUST COMMUNICATION**                                | Sachi\&Nao                                                                                  | 『スーパーロボット大戦F完結編 ヴォーカル&アレンジコレクション GOLD』                                                                       | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月17日](../Page/6月17日.md "wikilink") |    |
+| [小林沙苗](../Page/小林沙苗.md "wikilink")                    | 『BPM151Tactix』                                                                              | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") |                                                                                             |    |
+| [栗林みな実](../Page/栗林みな実.md "wikilink")                  | 『[ガンダムトリビュート from Lantis](https://ja.wikipedia.org/wiki/ガンダムトリビュート_from_Lantis "wikilink")』 | [2009年](../Page/2009年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")                                     | [トリビュートアルバム](https://ja.wikipedia.org/wiki/トリビュートアルバム "wikilink")                           |    |
+| [日笠陽子](https://ja.wikipedia.org/wiki/日笠陽子 "wikilink") | 『Glamorous Live』                                                                            | [2014年](../Page/2014年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")                  | ライブ[Blu-ray](../Page/Blu-ray_Disc.md "wikilink") & [DVD](../Page/DVD.md "wikilink")         |    |
+| [佐咲紗花](https://ja.wikipedia.org/wiki/佐咲紗花 "wikilink") | 『[SAYAKAVER.](https://ja.wikipedia.org/wiki/SAYAKAVER. "wikilink")』                         | [2015年](../Page/2015年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")                  | カバーアルバム                                                                                     |    |
+| [森口博子](../Page/森口博子.md "wikilink")                    | 『[GUNDAM SONG COVERS](https://ja.wikipedia.org/wiki/GUNDAM_SONG_COVERS "wikilink")』         | [2019年](../Page/2019年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")                                       |                                                                                             |    |
+
+## 脚注
+
+[Category:TWO-MIXの楽曲](https://ja.wikipedia.org/wiki/Category:TWO-MIXの楽曲 "wikilink") [Category:馬飼野康二が制作した楽曲](https://ja.wikipedia.org/wiki/Category:馬飼野康二が制作した楽曲 "wikilink") [Category:キングレコードの楽曲](https://ja.wikipedia.org/wiki/Category:キングレコードの楽曲 "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:テレビ朝日のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日のテレビアニメ主題歌 "wikilink") [Category:ガンダムシリーズのアニメソング](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのアニメソング "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.

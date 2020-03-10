@@ -1,0 +1,56 @@
+> この記事は[LIVEGO!](https://ja.wikipedia.org/wiki/LIVEGO!)から翻訳されています。
+
+
+**競馬LIVEへGO\!**（けいばライヴへゴー）は、[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[ラジオNIKKEI第](../Page/日経ラジオ社.md "wikilink")1放送および第2放送で放送されている[競馬](../Page/競馬.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+
+## 概要
+
+前身は日曜の9:00-9:30に放送されていた**競馬右クリック**（2005年8月-2007年3月）。前番組からのスタイルを踏襲しており、番組前半は放送当日に施行される[重賞](../Page/重賞.md "wikilink")競走のレース展望、番組後半は[中央競馬](https://ja.wikipedia.org/wiki/中央競馬 "wikilink")の[競馬場](../Page/競馬場.md "wikilink")、[WINS等で催されるイベント情報を伝えている](https://ja.wikipedia.org/wiki/場外勝馬投票券発売所 "wikilink")。
+
+オープニングや番組中に流される楽曲は週替わりの選曲で趣向が凝らされており、また番組内では競馬以外の話題に関するフリートークも多いため、ラジオNIKKEIの競馬番組としては比較的バラエティ要素の強い雰囲気となっている。同様のことは、ラジオNIKKEIのアナウンサーが中心となって毎週金曜に放送されている競馬の展望番組『[うまきん](https://ja.wikipedia.org/wiki/うまきん "wikilink")シリーズ』（2015年度は『うまきんⅢ』）も挙げられる。
+
+前身番組時代の2006年4月2日より第1放送でもサイマル放送が開始されたが、中央競馬の[はくぼ競馬期間中は](https://ja.wikipedia.org/wiki/薄暮競走 "wikilink")、第2放送での[中央競馬実況中継の開始時刻の繰り下げに合わせて同放送でも放送時間が変更される](https://ja.wikipedia.org/wiki/中央競馬実況中継_\(日経ラジオ社\) "wikilink")。2008年4月5日からは[週刊競馬大道場\!\!](https://ja.wikipedia.org/wiki/週刊競馬大道場!! "wikilink")の終了に伴い土曜の17:00-17:30が新たに本放送枠となった。
+
+[2019年](../Page/2019年.md "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")より、高知県競馬組合の提供で[高知競馬の情報を伝えるコーナー](../Page/高知競馬場.md "wikilink")「夜さ恋ナイター 高知けいばへGO\!」が開始された\[1\]。
+
+## 放送時間
+
+  - 土曜 17:00-17:30（2008年4月5日 - 2017年4月29日）→17:10-17:40（2017年5月6日-） - 本放送（第1放送のみ）
+
+<!-- end list -->
+
+  -
+    2017年5月より定時ニュース番組「[日経電子版](https://ja.wikipedia.org/wiki/日経電子版 "wikilink")ニュース」の放送が土曜・日曜にも拡大されたことにより、10分繰り下げとなった。
+
+<!-- end list -->
+
+  - 日曜 9:00-9:30（2007年4月1日 -） - 再放送（第1放送・第2放送）
+
+<!-- end list -->
+
+  -
+    2008年3月までは本放送枠。はくぼ競馬の期間のみ第2放送では9:30-10:00に放送。なお月曜日が祝日、ないしは正月開催などで予め開催される場合には、その開催日の9:00-9:30にも新しく収録した内容（月曜の重賞展望を録音したもの）を放送する。
+
+## 出演者
+
+  - [米田元気](https://ja.wikipedia.org/wiki/米田元気 "wikilink") （ラジオNIKKEIアナウンサー）（2013年3月23日 - 2016年3月26日、2020年1月4日 - ）
+  - 藤巻崇（2007年4月1日 - ）
+  - [井上オークス](https://ja.wikipedia.org/wiki/井上オークス "wikilink")（2019年5月4日 - 、「夜さ恋ナイター 高知けいばへGO\!」コーナー）
+      - その他ラジオNIKKEI所属アナが時折出演する(特に[NHKマイルカップ](../Page/NHKマイルカップ.md "wikilink")週は[舩山陽司](https://ja.wikipedia.org/wiki/舩山陽司 "wikilink")アナがNHKOBとして出演)
+
+### 過去の出演者
+
+  - [小塚歩](https://ja.wikipedia.org/wiki/小塚歩 "wikilink") （ラジオNIKKEIアナウンサー）（2007年4月1日 - 2010年2月6日）
+  - [大関隼](https://ja.wikipedia.org/wiki/大関隼 "wikilink") （ラジオNIKKEIアナウンサー）（2010年2月6日 - 2013年3月23日）
+  - [山本直](https://ja.wikipedia.org/wiki/山本直 "wikilink") （ラジオNIKKEIアナウンサー）（2016年4月2日 - 2019年12月28日）
+      - いずれも大阪支社勤務となったため
+
+## 脚注
+
+## 外部リンク
+
+  - [競馬LIVEへGO\!](http://www.radionikkei.jp/keibalivego/) - 番組公式サイト
+
+[Category:ラジオNIKKEIの競馬番組](https://ja.wikipedia.org/wiki/Category:ラジオNIKKEIの競馬番組 "wikilink")
+
+1.  [今週から新コーナーが始まります！](http://www.radionikkei.jp/keibalivego/post_318.html) ラジオNIKKEI・2019年5月4日・2019年5月12日閲覧

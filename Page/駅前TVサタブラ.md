@@ -1,0 +1,251 @@
+> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+
+
+『**駅前TVサタブラ**』（えきまえテレビサタブラ、通称「**サタブラ**」）は、KAB[熊本朝日放送](../Page/熊本朝日放送.md "wikilink")で[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")から、[2018年](../Page/2018年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")まで毎週[土曜日](../Page/土曜日.md "wikilink")9:30 - 10:40（[JST](../Page/日本標準時.md "wikilink")）に放送されていたローカル[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（ハイビジョン放送は[地上デジタル放送のみで実施](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。
+
+## 概要
+
+この時間帯における熊本県のテレビ番組で唯一のローカル生番組である。前番組である「[サタブラPlus](https://ja.wikipedia.org/wiki/サタブラPlus "wikilink")」からリニューアルし、スタートした。番組セットも前の番組と違い、[熊本駅](https://ja.wikipedia.org/wiki/熊本駅 "wikilink")前をイメージして作られている。また、メインキャスターには、前番組に引き続き黒木よしひろを起用し、さらに自局の[アナウンサーを起用](../Page/日本のアナウンサー.md "wikilink")。番組レギュラーには、前番組から4名を引き続き起用している他、2名の外国人を含む4名を新規で起用している（外国人の起用は番組開始初期のみ）。
+
+毎週[テーマ](https://ja.wikipedia.org/wiki/テーマ "wikilink")を設け、[視聴者](https://ja.wikipedia.org/wiki/視聴者 "wikilink")から[ファックス](https://ja.wikipedia.org/wiki/ファックス "wikilink")や[メール](https://ja.wikipedia.org/wiki/メール "wikilink")で[メッセージ](../Page/メッセージ.md "wikilink")を募集、番組内で紹介している。また同様のテーマで[熊本市](https://ja.wikipedia.org/wiki/熊本市 "wikilink")内の[繁華街](../Page/繁華街.md "wikilink")で街頭[インタビュー](https://ja.wikipedia.org/wiki/インタビュー "wikilink")をし、番組の最後にその模様の[VTR](https://ja.wikipedia.org/wiki/VTR "wikilink")を流して番組を締めくくる。
+
+2017年10月7日から、系列キー局[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")では『[題名のない音楽会](https://ja.wikipedia.org/wiki/題名のない音楽会 "wikilink")』（テレビ朝日制作）を本番組放送時間帯の一部である土曜10:00 - 10:30に枠移動予定であるが\[1\]、熊本朝日放送では時差ネットでの放送に移行となるため、本番組に影響はない。
+
+### 番組改編
+
+  - 2007年秋
+    [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")放送にて、メインキャスターを務める[矢佐間恵](https://ja.wikipedia.org/wiki/矢佐間恵 "wikilink")がKAB退社を理由に卒業することを発表。
+    翌年[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月5日](../Page/1月5日.md "wikilink")放送からは、番組MCが男性2人（黒木よしひろ・谷口寿宣）となったことに伴い、毎週ジャンルを問わず、熊本で活躍している女性をゲストとして迎え、放送した（同年[7月12日](../Page/7月12日.md "wikilink")放送まで）。
+  - 2009年春
+    [2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")放送にて、番組開始から2年にわたりメインキャスターを務めた[谷口寿宣](https://ja.wikipedia.org/wiki/谷口寿宣 "wikilink")が同日放送をもって番組を卒業することを発表。また、同日をもって鶴屋百貨店がスポンサーから降りたため、番組の1コーナーだった「鶴屋インフォメーション」が終了した。
+    翌週の2009年[4月4日](../Page/4月4日.md "wikilink")放送から、同年春にKABに入社する新人女子アナウンサーの[橋口侑佳](https://ja.wikipedia.org/wiki/橋口侑佳 "wikilink")が後任を務める。
+  - 2010年春
+    2010年3月27日放送にて、メインキャスターを務める[橋口侑佳](https://ja.wikipedia.org/wiki/橋口侑佳 "wikilink")がKAB退社を理由に同日放送をもって番組を卒業することを発表。
+    翌週の2010年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")放送から、放送時間が25分前倒しされ、午前10時からの番組スタートとなり、放送枠も52分から70分に拡大された。また前週で番組を卒業した橋口に代わり、[徳永千帆子](https://ja.wikipedia.org/wiki/徳永千帆子 "wikilink")が後任を務める。
+    また、新コーナーとして、番組終了直後に番組出演者の視点で選んだ話題の商品やお得な情報を紹介するコーナー「**あとサタ**」がスタートした。このコーナーに関しては事前に収録したものを放送する形をとっている。
+  - 2014年春
+    2014年[4月5日](../Page/4月5日.md "wikilink")放送から、放送時間が30分前倒しされ、午前9時30分からの番組スタートとなった。
+    また、2014年[4月4日](../Page/4月4日.md "wikilink")より、毎週金曜14:05から25分間、前週放送された本番組の中から選りすぐりの企画や名珍場面をまとめて放送する姉妹番組「**サタブラ25**」がスタート。
+  - 2015年春
+    [2015年](../Page/2015年.md "wikilink")4月4日放送から、番組コーナー「告知にきなっせ\!」を全面リニューアル。コーナー名を「**イベント生告知クイズバトルゲットザタイム**」とし、コーナー担当には樫山結に加え、[LinQ](https://ja.wikipedia.org/wiki/LinQ "wikilink")の[深瀬智聖](https://ja.wikipedia.org/wiki/深瀬智聖 "wikilink")と、熊本で活動しているクイズクリエイターの[冨田浩二](https://ja.wikipedia.org/wiki/冨田浩二 "wikilink")を新たに起用した（樫山と深瀬は交互出演）。
+    また、中継リポーターとして、[2013年](../Page/2013年.md "wikilink")[JUNONスーパーボーイファイナリストの](https://ja.wikipedia.org/wiki/ジュノン・スーパーボーイ・コンテスト "wikilink")[岡﨑大和を起用](https://ja.wikipedia.org/wiki/岡崎大和 "wikilink")（2016年3月迄）。
+
+## 出演者
+
+  - メインキャスター
+
+<!-- end list -->
+
+  - [黒木よしひろ](https://ja.wikipedia.org/wiki/黒木よしひろ "wikilink")
+
+<!-- end list -->
+
+  - レポーター
+
+<!-- end list -->
+
+  - [田中洋平](https://ja.wikipedia.org/wiki/田中洋平 "wikilink")
+  - [岩清水愛](https://ja.wikipedia.org/wiki/岩清水愛 "wikilink")\[2\]
+  - [高橋よしえ](https://ja.wikipedia.org/wiki/高橋よしえ "wikilink")
+  - [真猿](https://ja.wikipedia.org/wiki/真猿_\(タレント\) "wikilink")
+
+<!-- end list -->
+
+  - 中継リポーター
+
+<!-- end list -->
+
+  - [イタガキ](https://ja.wikipedia.org/wiki/イタガキ "wikilink")（2013年4月6日 - ）
+
+<!-- end list -->
+
+  - イベント生告知クイズバトルゲットザタイム
+
+<!-- end list -->
+
+  - [樫山結](https://ja.wikipedia.org/wiki/樫山結 "wikilink")（2013年4月6日 - ）
+  - [深瀬智聖](https://ja.wikipedia.org/wiki/深瀬智聖 "wikilink")（[LinQ](https://ja.wikipedia.org/wiki/LinQ "wikilink")、2015年4月4日 - ）
+
+<!-- end list -->
+
+  -
+    ※樫山と深瀬は交互に出演。
+
+<!-- end list -->
+
+  - [冨田浩二](https://ja.wikipedia.org/wiki/冨田浩二 "wikilink")（2015年4月4日-）
+
+### メインキャスター不在時の代理
+
+  - 黒木の代行
+
+<!-- end list -->
+
+  - 2009年[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink") : 田中洋平
+
+<!-- end list -->
+
+  - 橋口の代行
+
+<!-- end list -->
+
+  - 2009年[10月10日](../Page/10月10日.md "wikilink")・[17日](../Page/10月17日.md "wikilink")・[24日](../Page/10月24日.md "wikilink")・[31日](../Page/10月31日.md "wikilink")、[11月7日](../Page/11月7日.md "wikilink") : 岩清水愛（橋口が体調不良で番組を欠席したため）
+
+### 過去の出演者
+
+  - メインキャスター
+
+<!-- end list -->
+
+  - [矢佐間恵](https://ja.wikipedia.org/wiki/矢佐間恵 "wikilink")（当時熊本朝日放送アナウンサー、2007年4月 - 12月22日）
+  - [谷口寿宣](https://ja.wikipedia.org/wiki/谷口寿宣 "wikilink")（当時熊本朝日放送アナウンサー、2007年4月 - 2009年3月28日）
+  - [橋口侑佳](https://ja.wikipedia.org/wiki/橋口侑佳 "wikilink")（当時熊本朝日放送アナウンサー、2009年4月4日 - 2010年3月27日）
+  - [徳永千帆子](https://ja.wikipedia.org/wiki/徳永千帆子 "wikilink")（当時熊本朝日放送アナウンサー、2010年4月3日 - 2013年1月26日）
+  - [高崎恵理](https://ja.wikipedia.org/wiki/高崎恵理 "wikilink")（当時熊本朝日放送アナウンサー、2013年2月2日 - 2016年10月29日）
+
+<!-- end list -->
+
+  - リポーター
+
+<!-- end list -->
+
+  - [フィリップ・ルブランク](https://ja.wikipedia.org/wiki/フィリップ・ルブランク "wikilink")（2007年4月 - ?）
+  - [佐野さゆみ](https://ja.wikipedia.org/wiki/佐野さゆみ "wikilink")（2009年6月9日 - ?）
+  - [谷上奈津美](https://ja.wikipedia.org/wiki/谷上奈津美 "wikilink")
+  - [中華首藤](https://ja.wikipedia.org/wiki/中華首藤 "wikilink")（2007年4月 - 2013年3月\[3\]）
+  - [ドミニック・ウォーカー](https://ja.wikipedia.org/wiki/ドミニック・ウォーカー "wikilink")
+  - [岡﨑大和](https://ja.wikipedia.org/wiki/岡崎大和 "wikilink")（2015年4月 - 2016年3月）
+
+<!-- end list -->
+
+  - 鶴屋インフォメーション
+
+<!-- end list -->
+
+  - [広崎美紗](https://ja.wikipedia.org/wiki/広崎美紗 "wikilink")（2007年4月 - 2008年6月）
+  - [伊藤ゆう子](https://ja.wikipedia.org/wiki/伊藤ゆう子 "wikilink")（2007年4月 - 2009年3月）
+  - [持田陽菜](https://ja.wikipedia.org/wiki/持田陽菜 "wikilink")（2008年6月21日 - 2009年3月）
+  - [浅尾真紀](https://ja.wikipedia.org/wiki/浅尾真紀 "wikilink")（? - 2009年3月）
+
+## 放送時間
+
+（表記はすべて、[JSTである](../Page/日本標準時.md "wikilink")。）
+
+| 期間       | 放送時間      |
+| -------- | --------- |
+| 2007.4.7 | 2010.3.27 |
+| 2010.4.3 | 2014.3.29 |
+| 2014.4.5 | 2018.3.3  |
+
+### 休止・時間変更等の対応
+
+  - [全国高校野球選手権大会シーズンになると](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")、[熊本大会開会式を放送する関係で](https://ja.wikipedia.org/wiki/全国高等学校野球選手権熊本大会 "wikilink")、当番組が休止または放送時間変更になる場合がある。
+      - 2008年[7月5日](../Page/7月5日.md "wikilink")・2010年[7月10日](../Page/7月10日.md "wikilink")は休止。2013年[7月13日](../Page/7月13日.md "wikilink")は放送時間を16:00 - 16:55に変更。
+      - 2008年[7月19日](../Page/7月19日.md "wikilink")は、全国高等学校野球選手権熊本大会の放送予備日のため、今までに放送した「サタぶらっ旅」の総集編を放送。通常放送されるコーナーは「鶴屋インフォメーション」を除き、すべて休止となった。
+  - 2008年[6月14日](../Page/6月14日.md "wikilink")は、[岩手・宮城内陸地震](https://ja.wikipedia.org/wiki/岩手・宮城内陸地震 "wikilink")の影響により、放送時間が10:25 - 10:55までの30分間に短縮。番組内容も変更され、特集と「告知にきなっせ\!」のみとなった。
+  - 2008年[8月16日](../Page/8月16日.md "wikilink")は、[北京オリンピック中継放送](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")（ソフトボール日本対中国）のため、放送時間を1時間前倒し、9:30 - 10:25までの放送となった\[4\]。
+  - 2008年[12月27日](../Page/12月27日.md "wikilink")は、「年末スペシャル」と題して、通常より放送枠を13分拡大して放送した（次番組「[赤ちゃんと一緒\!](https://ja.wikipedia.org/wiki/赤ちゃんと一緒! "wikilink")」が前週[12月20日](../Page/12月20日.md "wikilink")で2008年の放送が終了したため）。
+  - [2011年](../Page/2011年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")は、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響により、[ANN](https://ja.wikipedia.org/wiki/All-nippon_News_Network#特別番組 "wikilink")[報道特別番組](https://ja.wikipedia.org/wiki/報道特別番組 "wikilink")が組まれたため、休止となった。
+  - 2014年[6月14日](../Page/6月14日.md "wikilink")は、「サッカー親善試合・[日本対](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")[ザンビア](https://ja.wikipedia.org/wiki/サッカーザンビア代表 "wikilink")」中継のため、放送時間を13:00 - 14:25に変更。
+  - 2014年[6月21日](../Page/6月21日.md "wikilink")は、「[2014 FIFAワールドカップグループE](https://ja.wikipedia.org/wiki/2014_FIFAワールドカップ "wikilink") [ホンジュラス対](https://ja.wikipedia.org/wiki/サッカーホンジュラス代表 "wikilink")[エクアドル](https://ja.wikipedia.org/wiki/サッカーエクアドル代表 "wikilink")」中継のため、放送時間を12:00 - 13:25に変更。
+  - 2016年[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")は、未明の[熊本地震](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")（本震）の影響により、ANN報道特別番組が組まれたため、休止となった。
+
+## 番組構成・タイムテーブル
+
+### 現在
+
+### 2010年4月 - 2014年3月
+
+  - 10:00- 番組開始
+  - 11:10 番組終了
+
+### 2007年4月 - 2010年3月
+
+  - 10:25- 番組開始
+  - 10:30- 特集
+  - 10:55頃- 告知にきなっせ\!（KAB玄関前からの中継扱い）
+  - 11:05頃- サタブランチ&ディナー
+  - 11:11頃- [天気予報](../Page/天気予報.md "wikilink")
+  - 11:12- エンディング、次回予告
+  - 11:17 番組終了
+
+## コーナー
+
+''' 特集 '''
+
+  - 駅サタおみやげしりとり
+  - サタ研部（サタブラ研究部）
+      - 「サタ研運動部」「サタ研農業部」
+  - ルッ熊\! -Look\! Kumamoto-
+  - 熊本に“人”あり
+  - 新・サタブラ応援団
+  - 旬を食らう
+
+''' 毎週放送 '''
+
+  - サタぶらっ旅
+  - サタブランチ&ディナー
+      - 社長のランチ - The President's Lunch -
+  - イベント生告知クイズバトルゲットザタイム
+      - イベント等の生告知の時間を賭けて挑む早押しクイズ＆告知コーナー。告知の持ち時間は1組15秒。クイズに正解すると5秒（最終問題は10秒）追加。最長50秒。不正解だとその問題の解答権剥奪。
+        全6問。内3問（各組1問）は告知に来た各グループに因む問題が出題される。
+  - 中継（鶴屋百貨店で催し物があっている時や「KABハイパーフリーマーケット」開催時など）
+  - 街頭[インタビュー](https://ja.wikipedia.org/wiki/インタビュー "wikilink")
+  - あとサタ
+      - 番組出演者が話題の商品を紹介するコーナー。
+
+### 過去のコーナー
+
+  - やざまのコレいち
+      - 矢佐間がおすすめの商品などを紹介するコーナー。矢佐間のKAB退社により終了。
+  - 鶴屋インフォメーション
+      - 鶴屋の催し物を紹介するコーナー。鶴屋のスポンサー離脱により終了。
+  - 真猿と侑佳のサタブラチラシチェック\!
+      - 橋口のKAB退社により終了。
+  - 告知にきなっせ\!
+      - 視聴者からの応募によるイベント等の告知コーナー。2015年4月に「イベント生告知クイズバトルゲットザタイム」にリニューアル。
+
+## 特別番組
+
+  - [上益城郡](../Page/上益城郡.md "wikilink")[益城町](https://ja.wikipedia.org/wiki/益城町 "wikilink")の[グランメッセ熊本](https://ja.wikipedia.org/wiki/グランメッセ熊本 "wikilink")で毎年秋に開催する「KAB元気フェスタ」に合わせて、本番組も放送時間の拡大などによる特別番組を編成することがある。\<\!--
+  - 駅前TVサタブラ「KAB元気フェスタ2007」スペシャル
+      - 2007年10月6日 9:55 - 11:17
+      - 元気フェスタ会場の[グランメッセ熊本](https://ja.wikipedia.org/wiki/グランメッセ熊本 "wikilink")から生放送。放送時間を通常より30分拡大して放送された。通常の放送とは異なり、ほとんど元気フェスタに関する内容を放送。通常使用している全ての番組セットを会場内に運び、特設スタジオを設けた。エンディングのスタッフロールも「制作・著作 熊本朝日放送、制作協力 放送技術社」だけとなった。ただし、鶴屋インフォメーションは通常通り放送された。
+  - 駅前TVサタブラ「サタブラ秋祭り」スペシャル
+      - 2008年10月11日 9:55 - 11:17
+      - 元気フェスタ会場のグランメッセ熊本から生放送。放送時間を通常より30分拡大して放送された。通常の放送とは異なり、ほとんど元気フェスタに関する内容を放送。前回は全ての番組セットを会場内に運んだが、今回はテーブルのみの特設スタジオとなった。鶴屋インフォメーションは通常通り放送された。
+  - 開局20周年記念 駅前TVサタブラ「KAB元気フェスタ」スペシャル
+      - 2009年10月24日 9:45 - 11:30（第1部）、13:00 - 13:55（第2部）
+      - 元気フェスタ会場のグランメッセ熊本から生放送。放送時間は今までと異なり、通常より53分拡大するだけでなく、午後からも第2部として13時から55分間放送された。また通常の放送とは異なり、ほとんど元気フェスタに関する内容を放送。昨年に引き続き今回もテーブルのみの特設スタジオとなった。今回は本番組の出演者のほか、同局で毎週土曜深夜に放送している番組「[ファイブチャンネル](https://ja.wikipedia.org/wiki/ファイブチャンネル "wikilink")」の出演者（[英太郎](https://ja.wikipedia.org/wiki/英太郎 "wikilink")・[松永壮](https://ja.wikipedia.org/wiki/松永壮 "wikilink")・[伊藤明日香](https://ja.wikipedia.org/wiki/伊藤明日香_\(アナウンサー\) "wikilink")）も加わった。さらに地元出身の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[樋口了一](https://ja.wikipedia.org/wiki/樋口了一 "wikilink")をスペシャルゲストに迎えた。なお今回の特別編成に伴い、後番組の「[赤ちゃんと一緒\!](https://ja.wikipedia.org/wiki/赤ちゃんと一緒! "wikilink")」は、通常より107分前倒しされ、9:30 - 9:45の放送となった。
+  - 駅前TVサタブラ「KAB元気フェスタ」スペシャル
+      - 2010年10月23日 10:00 - 11:45
+      - 元気フェスタ会場のグランメッセ熊本から生放送。放送時間を通常より35分拡大して放送された。--\>
+
+## テーマ曲
+
+  - オープニングテーマ
+      - 2007年4月7日 - 2008年3月29日：I do\! / [the Indigo](https://ja.wikipedia.org/wiki/the_Indigo "wikilink")
+      - 2008年4月5日 - 同年6月28日：オレンジ エクスプレス / [渡辺貞夫](../Page/渡辺貞夫.md "wikilink")
+      - 2008年7月12日 - 現在：サタぶらぶらソング
+          - 熊本出身・在住の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[馬場俊光](https://ja.wikipedia.org/wiki/馬場俊光 "wikilink")が作詞・作曲、番組リポーターの高橋よしえが編曲したオリジナル曲。
+  - エンディングテーマ：CAN'T STOP THE POP / A★TEENS
+
+## 関連番組
+
+  - プレサタ
+      - 本番組をPRする5分間の[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")。毎週金曜日の10:40 - 10:45と25:20 - 25:25に放送されていた。2014年3月終了。
+  - サタブラ25
+      - 前週放送された本番組の中から選りすぐりの企画や名珍場面をまとめて放送する姉妹番組。毎週金曜日14:05 - 14:30に放送されている。2014年[4月4日](../Page/4月4日.md "wikilink")放送開始。
+
+## 脚注
+
+## 外部リンク
+
+  - [駅前TV サタブラ](http://www.kab.co.jp/satabura/) - KAB熊本朝日放送
+
+[Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:熊本朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:熊本朝日放送のテレビ番組 "wikilink") [Category:九州・沖縄地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの情報・ワイドショー番組 "wikilink")
+
+1.  [東山紀之、10月からキャスター初挑戦 テレ朝・日曜朝に生番組新設](http://www.oricon.co.jp/news/2093463/full/) ORICON NEWS 2017年7月3日発行、同日閲覧。
+2.  2009年12月 - 2010年4月上旬は出産のため、この期間は番組出演がなかった。
+3.  「告知にきなっせ\!」と兼務。
+4.  この時間繰り上げの影響で、当日の「[サタデースクランブル](https://ja.wikipedia.org/wiki/サタデースクランブル "wikilink")」は熊本県内では放送されなかったため、名実共に「[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")」での放送だった。

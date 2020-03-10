@@ -1,0 +1,556 @@
+> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+
+
+**ジョージ・ウォーカー・ブッシュ**（, [1946年](../Page/1946年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink") -）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](https://ja.wikipedia.org/wiki/政治家 "wikilink")。第46代[テキサス州](../Page/テキサス州.md "wikilink")[知事](../Page/知事.md "wikilink")、第43代[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")を歴任。
+
+第41代アメリカ合衆国大統領の[ジョージ・H・W・ブッシュ](../Page/ジョージ・H・W・ブッシュ.md "wikilink")は父。また[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")知事を務めた[ジェブ・ブッシュ](../Page/ジェブ・ブッシュ.md "wikilink")は弟。[ジョージ・P・ブッシュ](https://ja.wikipedia.org/wiki/ジョージ・P・ブッシュ "wikilink")は甥（ジェブ・ブッシュの長男）。
+
+## 概要
+
+ブッシュは、最初に[2000年の大統領選挙で当選し](https://ja.wikipedia.org/wiki/2000年アメリカ合衆国大統領選挙 "wikilink")、[2004年の大統領選挙で再選した](https://ja.wikipedia.org/wiki/2004年アメリカ合衆国大統領選挙 "wikilink")。1995年から2000年まで第46代テキサス州知事を務めた。また、第41代アメリカ合衆国大統領ジョージ・H・W・ブッシュの長男である。父親が22歳の時に生まれたために、父親が生きている間に大統領になった珍しい[世襲政治家](https://ja.wikipedia.org/wiki/世襲政治家 "wikilink")である。身長は182cm\[1\] 体重93kg。[右利き](https://ja.wikipedia.org/wiki/右利き "wikilink")。
+
+イェール大学歴史学部卒業後、[彼の家族の](https://ja.wikipedia.org/wiki/ブッシュ家 "wikilink")[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")会社で勤務した後、[下院議員選挙に出馬したが落選した](../Page/アメリカ合衆国下院.md "wikilink")。その後、[テキサス・レンジャーズ](https://ja.wikipedia.org/wiki/テキサス・レンジャーズ "wikilink")を共同所有するなど実業家として活躍した後、テキサス知事選挙のために政治運動に戻った。1994年にはアン・リチャーズを破ってテキサス知事に当選した。
+
+ブッシュは2000年の大統領選挙において、一般投票では敗北したが選挙人投票で勝利し、共和党の候補として当選した。大統領としてブッシュは、2001年に1兆3500億ドルの減税プログラムを\[2\]、2002年には全国一斉学力テストを義務化して成績次第で助成金とペナルティを学校に課す「[落ちこぼれを作らないための初等中等教育法](https://ja.wikipedia.org/wiki/落ちこぼれを作らないための初等中等教育法 "wikilink")」（通称：落ちこぼれゼロ法（[No Child Left Behind Act](https://ja.wikipedia.org/wiki/:en:No_Child_Left_Behind_Act "wikilink")）\[3\]」に署名した。
+
+2001年9月に発生した[同時多発テロ事件後](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")、ブッシュは世界的な「[テロとの戦い](../Page/対テロ戦争.md "wikilink")」を発表し、そして[アフガン侵攻に臨み](../Page/アフガニスタン紛争_\(2001年-\).md "wikilink")、[ターリバーン](../Page/ターリバーン.md "wikilink")政権を倒し[アルカーイダ](https://ja.wikipedia.org/wiki/アルカーイダ "wikilink")を壊滅させて、[ウサーマ・ビン・ラーディン](../Page/ウサーマ・ビン・ラーディン.md "wikilink")を[デッド・オア・アライブ](https://ja.wikipedia.org/wiki/デッド・オア・アライブ "wikilink")\[4\] として[逮捕](../Page/逮捕.md "wikilink")あるいは殺害することを命じた。2003年3月にブッシュはイラク侵攻を命じ、「[イラク](../Page/イラク.md "wikilink")が[国際連合安全保障理事会決議1441](../Page/国際連合安全保障理事会決議1441.md "wikilink")に違反しており、戦争がアメリカ合衆国の保護のために必要だった」と主張した\[5\]\[6\]。
+
+[イラク戦争](../Page/イラク戦争.md "wikilink")の中、ブッシュは「戦時大統領」と自称して\[7\][再選を狙い出馬し](https://ja.wikipedia.org/wiki/2004年アメリカ合衆国大統領選挙 "wikilink")、イラク戦争と国内問題の遂行をめぐる論争にもかかわらず、[ジョン・ケリー上院議員に大きな差をつけて](https://ja.wikipedia.org/wiki/ジョン・フォーブズ・ケリー "wikilink")2004年11月2日に再選された\[8\]\[9\]\[10\]。
+
+しかし再選後にブッシュはますます激しい批判を受けた。ブッシュの国内の支持率は、2001年同時多発テロ直後の\[11\] 90%（The Gallup Organizationによってこれまでに記録される最高のもの）\[12\] から、記録に残る中で最も低いアメリカの現職大統領の支持率である\[13\]、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月20日](../Page/2月20日.md "wikilink")に19%にまで低下した。ブッシュの不支持率は76%まで上昇し、国内ではブッシュ批判が激しさを増した\[14\]。それは、2009年1月20日に後継の[バラク・オバマ](https://ja.wikipedia.org/wiki/バラク・オバマ "wikilink")に[政権](../Page/政権.md "wikilink")をバトンタッチするその日まで続いた\[15\]。
+
+## 父との呼称の違い
+
+アメリカ合衆国では、父のH・W・ブッシュと区別するため、[第43代アメリカ合衆国大統領であることから](../Page/歴代アメリカ合衆国大統領の一覧.md "wikilink")「**43**（フォーティスリー）」や、ミドルネームを表す「**W**」、またはテキサス州周辺地域での [W](../Page/W.md "wikilink") の発音から「**Dubbya**（ダビャ）」と呼ばれることもある。また、歴史的には同姓同名で[血縁](https://ja.wikipedia.org/wiki/血縁 "wikilink")関係のある人物を区別する際、年長者を「大(major)○○」、年少者を「小(minor)○○」と呼ぶので、父を「**大ブッシュ**」と呼ぶのに対して、息子の方を「**小ブッシュ**」と呼ぶこともある。父を「**ブッシュ・シニア**」と呼び、息子の方を「**ブッシュ・ジュニア**」と呼ぶ例もある。上述のように、弟・ジェブ・ブッシュの長男でもある、W・ブッシュの甥もジョージ・ブッシュだが、ミドルネームがPとなっている（ジョージ・P・ブッシュ）。
+
+## 来歴
+
+### 若年期と軍歴
+
+[left](https://ja.wikipedia.org/wiki/ファイル:GeorgeWBush1947.png "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Entire_Bush_family.jpg "wikilink") [left](https://ja.wikipedia.org/wiki/ファイル:GW-Bush-in-uniform.jpg "wikilink") 小ブッシュは[1946年](../Page/1946年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink") に、[コネチカット州](../Page/コネチカット州.md "wikilink")[ニューヘイブンでジョージ](https://ja.wikipedia.org/wiki/ニューヘイブン_\(コネチカット州\) "wikilink")・H・W・ブッシュと[バーバラ・ブッシュ](https://ja.wikipedia.org/wiki/バーバラ・ブッシュ "wikilink")の長男として生まれた。ブッシュは四人の兄弟、[ジェブ](../Page/ジェブ・ブッシュ.md "wikilink")、[ニール](https://ja.wikipedia.org/wiki/ニール・ブッシュ "wikilink")、[マーヴィンと](https://ja.wikipedia.org/wiki/マーヴィン・ブッシュ "wikilink")[ドロシーと](https://ja.wikipedia.org/wiki/ドロシー・ブッシュ "wikilink")、テキサス州の[ミッドランド](https://ja.wikipedia.org/wiki/ミッドランド "wikilink")と[ヒューストン](../Page/ヒューストン.md "wikilink")で育てられた。もう一人の妹・[ロビンは](https://ja.wikipedia.org/wiki/ロビン・ブッシュ "wikilink")、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")に[白血病](../Page/白血病.md "wikilink")によって3歳で死亡した\[16\]。ブッシュの祖父・[プレスコット・ブッシュ](https://ja.wikipedia.org/wiki/プレスコット・ブッシュ "wikilink")はコネチカット州選出の上院議員で、ブッシュの父・ジョージ・H・W・ブッシュは[1989年](../Page/1989年.md "wikilink")から[1993年](../Page/1993年.md "wikilink")まで米国大統領を務めた。
+
+ブッシュは[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[アンドーバーで](https://ja.wikipedia.org/wiki/アンドーヴァー_\(マサチューセッツ州\) "wikilink")[フィリップス・アカデミー](https://ja.wikipedia.org/wiki/フィリップス・アカデミー "wikilink")に通った。そこで彼は[野球](../Page/野球.md "wikilink")をして、最終学年まで男子校のヘッド・[チアリーダー](https://ja.wikipedia.org/wiki/チアリーダー "wikilink")だった\[17\]\[18\]。 父の先例にならって、ブッシュはイェール大学に通い、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に歴史[学士](../Page/学士.md "wikilink")号を取得した\[19\]。大学の専門課程に、ブッシュは[秘密結社](../Page/秘密結社.md "wikilink")[スカル・アンド・ボーンズ](../Page/スカル・アンド・ボーンズ.md "wikilink")のメンバーになった\[20\]\[21\]。大学時代は当初[野球](../Page/野球.md "wikilink")部で投手だったが、才能に限界を感じて3年から[ラグビー](../Page/ラグビー.md "wikilink")部へ移り、4年でレギュラーになった\[22\]。
+
+1968年5月に進行していた[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")のまっただ中に、ブッシュは適性検査の筆記試験で、下から25番目の成績だったにもかかわらず\[23\]\[24\]、合格の最低点だったが\[25\]、[テキサス空軍州兵](https://ja.wikipedia.org/wiki/テキサス空軍州兵 "wikilink")に認められた\[26\]。これは、一度に一万人以上の[空軍州兵](https://ja.wikipedia.org/wiki/空軍州兵 "wikilink")人員（多くの戦闘機パイロット）が[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")の作戦を支援するために招集されていた時期だった\[27\]。訓練の後、彼はヒューストンで任務を任せられ、[エリントン空軍基地](https://ja.wikipedia.org/wiki/エリントン空軍基地 "wikilink")から[コンベア](../Page/コンベア.md "wikilink")[F-102を飛ばした](../Page/F-102_\(戦闘機\).md "wikilink")\[28\]。批評家はブッシュが彼の父親の政治的な地位のために、軍務で有利に扱われ、正常な兵役ではなかったと主張した。[アメリカ国防総省](../Page/アメリカ国防総省.md "wikilink")は公式アーカイブに残っていたという、ブッシュのテキサス空軍州兵勤務記録の全てを公開した\[29\]。1970年に、ブッシュは難関のテキサス大学ロースクールに出願したが、不合格にされた\[30\]。ブッシュは共和党の議会選挙活動に取り組むために、[1972年](../Page/1972年.md "wikilink")に[アラバマ空軍州兵](https://ja.wikipedia.org/wiki/アラバマ空軍州兵 "wikilink")へ転任し、[1973年](../Page/1973年.md "wikilink")10月に[ハーバード・ビジネス・スクール](../Page/ハーバード・ビジネス・スクール.md "wikilink")に通うために、約8か月早くテキサス空軍州兵を退役して、6年間の兵役義務を終了した\[31\]。
+
+ブッシュはその時期に頻繁に飲酒していたことを認め、「無責任な青春の放浪期間」だったと言った\[32\]。[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")[9月4日](../Page/9月4日.md "wikilink")、ブッシュは30歳で、家族の夏の別荘付近で、飲酒運転容疑で[逮捕](../Page/逮捕.md "wikilink")された。彼は罪を認めて150$の[罰金](../Page/罰金.md "wikilink")を科され、[運転免許証](../Page/運転免許証.md "wikilink")を[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")まで[メイン州](../Page/メイン州.md "wikilink")で停止された\[33\]\[34\]。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Bush_daughters.png "wikilink") [ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")で[MBAを取得した後](../Page/経営学修士.md "wikilink")\[35\]、ブッシュはテキサスの石油工業会社に入社した。1977年に、彼は友人に学校教師・司書の[ローラ・ウェルチを紹介された](https://ja.wikipedia.org/wiki/ローラ・ブッシュ "wikilink")。彼らは結婚して、テキサス州ミッドランドに居住した。ブッシュは妻の[合同メソジスト教会に入会するために](../Page/メソジスト.md "wikilink")、米国聖公会を脱会し[宗旨替え](https://ja.wikipedia.org/wiki/宗旨替え "wikilink")を行った\[36\]。
+
+1978年にブッシュはテキサス州の19下院議員選挙区から立候補した。ブッシュは、ブッシュが地元と接触していなかったと描写した相手[ケント・ハンス](https://ja.wikipedia.org/wiki/ケント・ハンス "wikilink")に、6000票の差で負けた\[37\]。 ブッシュは石油企業に戻り、[アーバスト・エネルギー](https://ja.wikipedia.org/wiki/アーバスト・エネルギー "wikilink")\[38\]、[スペクタン・7](https://ja.wikipedia.org/wiki/スペクタン・7 "wikilink")、[ハーケン・エネルギー](https://ja.wikipedia.org/wiki/ハーケン・エネルギー "wikilink")などの会社の社長、最高責任者となった\[39\]。これらの事業は、1980年代に産業と地域経済に影響を及ぼした、[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")価格の広範囲な低下により損害を受けた。さらに、ハーケンが関係したかもしれない[インサイダー取引](https://ja.wikipedia.org/wiki/インサイダー取引 "wikilink")の疑惑が起こったが、[証券取引委員会](https://ja.wikipedia.org/wiki/証券取引委員会 "wikilink")（SEC）の調査は、ブッシュの株式販売より前に容疑を正当化するインサイダー情報はないと結論付けた\[40\]。
+
+[1981年](../Page/1981年.md "wikilink")にブッシュは、妻ローラとの間に双子の娘、[ジェンナと](https://ja.wikipedia.org/wiki/ジェンナ・ブッシュ "wikilink")[バーバラを儲ける](https://ja.wikipedia.org/wiki/バーバラ・ピアース・ブッシュ "wikilink")。
+
+[1988年](../Page/1988年.md "wikilink")にブッシュは、[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")で家族と父の大統領選挙活動に取り組んだ\[41\]\[42\]。選挙運動の後、1989年4月にブッシュは、テキサス・レンジャーズの株を購入し、5年間無限責任組合員を務めた\[43\]。ブッシュは活発にチームの企画を指導して、定期的に試合に出席し、しばしばファンと売店に座ることを選んだ\[44\]。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、ブッシュは最初に80万ドル[投資](https://ja.wikipedia.org/wiki/投資 "wikilink")したレンジャーズの[株式](../Page/株式.md "wikilink")を売却し、1500万ドルの[利益](../Page/利益.md "wikilink")を得た\[45\]。
+
+### テキサス州知事
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:George_H._W._Bush,_Laura_Bush,_George_W._Bush_1997.jpg "wikilink") ブッシュは[1994年](../Page/1994年.md "wikilink")のテキサス州知事選挙に出馬を表明したが、これは弟のジェブ・ブッシュのフロリダ州知事選出馬と同時である。共和党の[予備選挙](../Page/予備選挙.md "wikilink")で大勝し、人気のあった現職のアン・リチャーズ（民主党）との一騎討ちとなる。
+
+ブッシュにはKaren Hughes、John Allbaugh、[カール・ローヴ](https://ja.wikipedia.org/wiki/カール・ローヴ "wikilink")といった選挙参謀がついた。ブッシュの選挙運動に対して、リチャーズへのアンフェアな中傷であるとする批判も上がった。しかし公開討論での効果的な弁舌により、ブッシュの人気は上昇した。結果、[11月8日](../Page/11月8日.md "wikilink")の選挙において、52%対47%の得票率で当選した\[46\]。
+
+知事としてブッシュは、首尾良く不法行為改革のための法律を支援し、教育資金の支出を増やして学校の教育水準を上げ、刑事制度改革を行った。ブッシュは152人の[死刑を執行させたが](https://ja.wikipedia.org/wiki/アメリカ合衆国における死刑 "wikilink")、これはアメリカにおいて一人の州知事が執行させた死刑数としては最高記録である\[47\]。ブッシュは20億ドルの歳入超過を減税に回したが、これはテキサス州における減税額の最高記録である。この減税により、ブッシュは企業活動を擁護する経済右派としての評価を確立した\[48\]。また、教育改革では[アファーマティブ・アクション](../Page/アファーマティブ・アクション.md "wikilink")を違憲とするホップウッド判決を受けて[上位10%法に署名し](https://ja.wikipedia.org/wiki/:en:Texas_House_Bill_588 "wikilink")、フロリダで上位20%法を進めていた弟のジェブ・ブッシュと軌を一にした。
+
+ブッシュはまた教会などの宗教組織による教育、アルコール・薬物依存症対策、家庭内暴力対策活動への政府支出を行った。ブッシュは[6月10日](../Page/6月10日.md "wikilink")をテキサス州の「[イエス](https://ja.wikipedia.org/wiki/イエス・キリスト "wikilink")（・キリスト）の日」と定め、この日には「支援を必要とする人々への奉仕をテキサス州民に要請する」とした\[49\]。
+
+1998年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")には69%の得票で再選を果たす\[50\]。同年、共和党大統領候補予備選挙への出馬を表明する。大統領選挙当選に伴い、知事職は2期目途中で辞任（知事就任期間：1995年1月17日-2000年12月21日）。
+
+### 大統領職
+
+#### 1期目
+
+[200px](https://ja.wikipedia.org/wiki/ファイル:Condoleezza_Rice_Colin_Powell_George_W._Bush_Donald_Rumsfeld.jpg "wikilink")、[コリン・パウエル](../Page/コリン・パウエル.md "wikilink")、ブッシュ、[ドナルド・ラムズフェルド](../Page/ドナルド・ラムズフェルド.md "wikilink")\]\] [200pxで演説を行うブッシュ](https://ja.wikipedia.org/wiki/ファイル:Bush_Ground_Zero.jpg "wikilink")\]\]\[51\] [200px](https://ja.wikipedia.org/wiki/ファイル:Patriotactsigning.jpg "wikilink") [200px](https://ja.wikipedia.org/wiki/ファイル:George_W_Bush_on_the_deck_of_the_USS_Abraham_Lincoln.jpg "wikilink") 大統領の第1期目は、ほとんどを対外戦争に費やした。2000年当時、[アメリカ史上最も接戦となった選挙戦を勝利し](https://ja.wikipedia.org/wiki/2000年アメリカ合衆国大統領選挙 "wikilink")、2001年1月20日に大統領に就任。民主党候補[アルバート・ゴア](https://ja.wikipedia.org/wiki/アルバート・ゴア "wikilink")が、一般投票でブッシュの得票を50万票ほど上回っていたが、選挙人投票でブッシュが5票多く得票した。実弟ジェブ・ブッシュが知事を務めるフロリダ州の、一般得票でゴアをわずかに上回り、25人の選挙人を獲得したためである。しかし、選挙終盤のフロリダ州における選挙の運営方法への問題点も指摘され（ブッシュ陣営がジェフ・ブッシュを通じて不正選挙を行ったと主張する意見もある）ゴア陣営が抗議したため、発足当初の国民支持率は低迷していた。
+
+任期9か月目の[9月11日](../Page/9月11日.md "wikilink")、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")とワシントンD.C.で**[同時多発テロ](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")**が発生。三日後の[9月14日](../Page/9月14日.md "wikilink")に[世界貿易センタービル跡地](../Page/ワールドトレードセンター_\(ニューヨーク\).md "wikilink")（いわゆる[グラウンド・ゼロ](../Page/グラウンド・ゼロ.md "wikilink")）を見舞い\[52\]、救助作業に当たる消防隊員や[警察官](https://ja.wikipedia.org/wiki/警察官 "wikilink")らを拡声器で激励してリーダーシップを発揮し、一時は歴代トップだった[湾岸戦争](../Page/湾岸戦争.md "wikilink")開戦時の[ジョージ・H・W・ブッシュ](../Page/ジョージ・H・W・ブッシュ.md "wikilink")の89%をも上回る驚異的な支持率91%を獲得した。18日には[テロを計画、承認、実行、支援したと大統領が判断した国家、組織、個人に対してあらゆる必要かつ適切な力を行使する権限を与えるとする合同決議が上院](https://ja.wikipedia.org/wiki/:en:Authorization_for_Use_of_Military_Force_Against_Terrorists "wikilink")98対0、下院420対1で通る（これは[グアンタナモ湾収容キャンプ](https://ja.wikipedia.org/wiki/グアンタナモ湾収容キャンプ "wikilink")での無期限の拘留の根拠となる）。12日に開かれた[国際連合安全保障理事会](../Page/国際連合安全保障理事会.md "wikilink")と第56回[国際連合総会](../Page/国際連合総会.md "wikilink")では米国に連帯・哀悼を表してテロへの対応を求める決議が満場一致で採択され、28日には安保理決議でテロ対策が全世界に義務化され\[53\]、[11月10日](../Page/11月10日.md "wikilink")に[ニューヨーク市長](https://ja.wikipedia.org/wiki/ニューヨーク市長 "wikilink")[ルドルフ・ジュリアーニ](https://ja.wikipedia.org/wiki/ルドルフ・ジュリアーニ "wikilink")とともに[国連総会の演説で国際社会の支持に感謝して](../Page/国際連合.md "wikilink")[テロとの戦い](https://ja.wikipedia.org/wiki/テロとの戦い "wikilink")を宣言した\[54\]。また、[炭疽菌](../Page/炭疽菌.md "wikilink")小包による[バイオテロ](https://ja.wikipedia.org/wiki/バイオテロ "wikilink")である[アメリカ炭疽菌事件](https://ja.wikipedia.org/wiki/アメリカ炭疽菌事件 "wikilink")も起き、同時テロとともに国内はパニック状態になった。
+
+ブッシュ自身は[第三次世界大戦](../Page/第三次世界大戦.md "wikilink")\[55\]とも呼んだこの戦争は、[10月7日](../Page/10月7日.md "wikilink")に**[アフガニスタン侵攻](https://ja.wikipedia.org/wiki/アメリカのアフガニスタン侵攻 "wikilink")**によって開始され、世界各地で[不朽の自由作戦](../Page/不朽の自由作戦.md "wikilink")が実行された。国際的なテロリズムとの戦いにも必要として[国際的監視網](https://ja.wikipedia.org/wiki/国際的監視網 "wikilink")も秘密裏に強化した。国内では、テロ対策に不可欠だとして**「パトリオット法」**（[愛国者法](https://ja.wikipedia.org/wiki/愛国者法 "wikilink")）を制定し、本来アメリカの領土ではないとされる[国連本部に対しても監視していたとする](https://ja.wikipedia.org/wiki/国際連合本部ビル "wikilink")も起きた。アフガニスタン作戦は順調に進み、[12月7日](../Page/12月7日.md "wikilink")には[タリバーン](https://ja.wikipedia.org/wiki/タリバーン "wikilink")[政権](../Page/政権.md "wikilink")は転覆、同月に新政権を樹立させた。
+
+[2002年](../Page/2002年.md "wikilink")1月、[一般教書演説](../Page/一般教書演説.md "wikilink")において[悪の枢軸](../Page/悪の枢軸.md "wikilink")発言。これは[イラク](../Page/イラク.md "wikilink")・[イラン](../Page/イラン.md "wikilink")・[北朝鮮を](../Page/朝鮮民主主義人民共和国.md "wikilink")[大量破壊兵器](../Page/大量破壊兵器.md "wikilink")を開発保有する[ならず者国家](https://ja.wikipedia.org/wiki/ならず者国家 "wikilink")と名指しで非難したものである。特にイラクに対しては[武装解除問題を抱えていたので厳しい態度で臨み](https://ja.wikipedia.org/wiki/イラク武装解除問題 "wikilink")、国連の全面査察を4年ぶりに受け入れさせた。しかし武装解除が進まず、未だに大量破壊兵器を持ち続け、世界の脅威になっていると報告を受けたとし、それを世界に発信した。同年2月の[2002年ソルトレークシティオリンピック](https://ja.wikipedia.org/wiki/2002年ソルトレークシティオリンピック "wikilink")での開会式では、[オリンピック憲章](https://ja.wikipedia.org/wiki/オリンピック憲章 "wikilink")第58条3項の規定を無視して「誇り高く、優雅なこの国を代表して」と政治的な言葉を付け加え、物議を醸した\[56\]。
+
+[2003年](../Page/2003年.md "wikilink")に入ると、いよいよイラクに対し強硬姿勢を採るようになる。しかし、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[ロシア](../Page/ロシア.md "wikilink")、[中国などは根拠が足りないとして](../Page/中華人民共和国.md "wikilink")、イラクへの[制裁戦争](https://ja.wikipedia.org/wiki/制裁戦争 "wikilink")に反対した。[3月17日](../Page/3月17日.md "wikilink")にブッシュは[サッダーム・フセイン](../Page/サッダーム・フセイン.md "wikilink")と側近に対して、48時間以内の国外退去を求める事実上の最後通牒を発表。[3月19日](../Page/3月19日.md "wikilink")、最後通牒を無視したイラクに対し侵攻（**[イラク戦争](../Page/イラク戦争.md "wikilink")**）した。作戦は順調に進み、[5月1日](../Page/5月1日.md "wikilink")には「大規模戦闘の終結宣言」を行ったが、これについて特にイラク側との協定はなく、実際にはまだ戦時中であった。イラクはアメリカ・イギリス・[ポーランド](../Page/ポーランド.md "wikilink")による分割占領と、[連合国暫定当局](../Page/連合国暫定当局.md "wikilink")による統一した国家運営を行い、徐々に[民主化](https://ja.wikipedia.org/wiki/民主化 "wikilink")することとした。
+
+[7月11日](../Page/7月11日.md "wikilink")には、アメリカ国民のブッシュへの支持率が同時多発テロ事件以来の最低水準である59%に急落したことが判明（ABCテレビとワシントン・ポスト紙の共同世論調査による）したが、これは後に回復し、その後再度低下している。12月にはフセインの[逮捕](../Page/逮捕.md "wikilink")に成功し、[裁判](../Page/裁判.md "wikilink")の準備も行われ、占領政策も順調に行われているように見えたが、実際は[アメリカ軍](../Page/アメリカ軍.md "wikilink")を狙った攻撃や[自爆テロ](../Page/自爆テロ.md "wikilink")が絶えず、死者は[湾岸戦争](../Page/湾岸戦争.md "wikilink")の1000名を上回ることとなった。また、イラクが隠し持っていると主張していた大量破壊兵器が見つからず、イラク戦争に対し国民は懐疑的になっていった。
+
+#### 2期目
+
+[thumbを行うブッシュ](https://ja.wikipedia.org/wiki/ファイル:20050202-11_p44389-033jpg-515h.jpg "wikilink")\]\] [thumbに関する声明を発表するブッシュ](https://ja.wikipedia.org/wiki/ファイル:2005_07_07_londonbomb.jpg "wikilink")。[第31回主要国首脳会議](https://ja.wikipedia.org/wiki/第31回主要国首脳会議 "wikilink")の会場である[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")グレンイーグルズホテルにて\]\] [thumb市長と握手をするブッシュ](https://ja.wikipedia.org/wiki/ファイル:Hurricane_Katrina_President_Bush_with_New_Orleans_Mayor.jpg "wikilink")\]\] [thumb共和党候補の](https://ja.wikipedia.org/wiki/ファイル:BushMcCain08c.jpg "wikilink")[ジョン・マケイン](https://ja.wikipedia.org/wiki/ジョン・マケイン "wikilink")（右）と\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:President_George_W._Bush_with_Barack_Obama.jpg "wikilink")（左）と\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Living_US_Presidents_2009.jpg "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:George_W._Bush_farewell_address.jpg "wikilink") [2004年](../Page/2004年.md "wikilink")、ブッシュは再び[大統領選挙に立候補したが](https://ja.wikipedia.org/wiki/2004年アメリカ合衆国大統領選挙 "wikilink")、都市部の[リベラル層がブッシュ支持から離反し](https://ja.wikipedia.org/wiki/自由主義 "wikilink")、同時多発テロ発生後やイラク戦争開戦時の高支持率は維持できず、特に選挙戦の終盤は、対立候補の[民主党上院議員のジョン](../Page/民主党_\(アメリカ\).md "wikilink")・ケリーと支持率は拮抗しているとたびたび伝えられた。しかし、最終的にはブッシュが1988年の大統領選挙以来となる、過半数の51%を得票、選挙人もケリーを34人上回る286人を獲得し、2回目の当選を果たした。
+
+[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月2日](../Page/2月2日.md "wikilink")、第2期目における一般教書演説を行った。外政に関しては各国との協調路線を取ると述べた。イラクの国民議会選挙を評価し、イランの核開発問題に対して強硬な姿勢を打ち出し、さらに、中東各国の和平・民主化、核開発を進めていることを明言している北朝鮮の核廃棄問題などを取りあげ、世界を[自由](../Page/自由.md "wikilink")にするという決意を述べた。
+
+[8月29日](../Page/8月29日.md "wikilink")、[ハリケーン・カトリーナ](https://ja.wikipedia.org/wiki/ハリケーン・カトリーナ "wikilink")によって過去最大級の犠牲者を出す災害となったが、政府の予防の不十分さと対応の遅れが非難された。本来、攻撃や災害から住民を守るべき州兵までイラクへ派兵されていることも大いに疑問視された。テロや戦争など有事には強いとされていたブッシュ政権が同様の危機管理であるはずの天災への対応には脆弱さを見せたこと、[FEMA](https://ja.wikipedia.org/wiki/FEMA "wikilink")の[国土安全保障省](https://ja.wikipedia.org/wiki/国土安全保障省 "wikilink")への編入による指揮系統の複雑化、過去に堤防の改築など被害を最小限に抑える対策が進言されていたにもかかわらず十分な災害予算を計上していなかったことが議会の民主党などから批判の対象となった。また、彼の母親である[バーバラ・ピアス](https://ja.wikipedia.org/wiki/バーバラ・ピアス "wikilink")が被災地を訪れた時の[インタビュー](https://ja.wikipedia.org/wiki/インタビュー "wikilink")で「被災地に住む人は貧困層ばかりで、避難所に入れた方が恵まれている」と発言し、批判はさらに高まった。実際、被災者への支援は[白人](../Page/白人.md "wikilink")系の富裕層に偏っており、逃げ遅れて被害に遭った[貧困](https://ja.wikipedia.org/wiki/貧困 "wikilink")層の救援は後回しで、衛生状態が悪い中、放置された\[57\]\[58\]。
+
+さらに10月には、イラク戦争開始前にイラクの大量破壊兵器購入に懐疑的な見解を述べた、元駐[ガボン](../Page/ガボン.md "wikilink")[大使](https://ja.wikipedia.org/wiki/大使 "wikilink")の[ジョゼフ・ウィルソンの妻](https://ja.wikipedia.org/wiki/ジョゼフ・チャールズ・ウィルソン "wikilink")[ヴァレリー・プレイム](../Page/ヴァレリー・プレイム.md "wikilink")が[CIAの工作員であると意図的に情報漏洩し](https://ja.wikipedia.org/wiki/中央情報局 "wikilink")、元大使の信頼性を落とそうと画策した事件に関し、チェイニー副大統領の首席補佐官[ルイス・リビー](../Page/ルイス・リビー.md "wikilink")が、事件の主導人物の隠蔽目的の偽証罪に問われ米連邦[大陪審](https://ja.wikipedia.org/wiki/大陪審 "wikilink")に[起訴](../Page/起訴.md "wikilink")される（[プレイム事件](../Page/プレイム事件.md "wikilink")）。その後リビーは一審有罪判決を受け、さらに副大統領も情報漏洩の主導的関与を行った疑いが持たれた。
+
+この影響で、11月に[ニューズウィーク](https://ja.wikipedia.org/wiki/ニューズウィーク "wikilink")誌が実施した[世論調査](https://ja.wikipedia.org/wiki/世論調査 "wikilink")によれば、支持率は36%にまで低下。他の世論調査でも支持率が低下しており、ブッシュ政権は2期目の最初の1年目から試練に直面した。年末、ブッシュはイラク開戦の重要な根拠となった大量破壊兵器の報告に誤りがあったと発表した。開戦以前からイラクの武装解除は順調に行われていたことがすでに明らかになっていたが、これを追認する形となった。しかしながら、フセインの圧政からイラク人を解放したことを強調し、戦争の正当性を改めて訴えた。
+
+[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月8日に行われた[中間選挙](https://ja.wikipedia.org/wiki/中間選挙 "wikilink")ではイラク戦争に対する有権者の批判や同性愛のスキャンダルに加えて宗教[保守](https://ja.wikipedia.org/wiki/保守 "wikilink")派が大幅に離反したことなどから、[与党](../Page/与党.md "wikilink")共和党は民主党に大敗し連邦議会上下両院の多数派の座を奪われた。このため、ブッシュはイラク政策の責任者であったラムズフェルドが国防長官を辞任（事実上の更迭）させ、後任に[ロバート・ゲーツ](https://ja.wikipedia.org/wiki/ロバート・ゲーツ "wikilink")（元CIA長官）を指名した。
+
+その後も、相次ぐ[閣僚の不祥事や](https://ja.wikipedia.org/wiki/アメリカ合衆国大統領顧問団 "wikilink")[原油](https://ja.wikipedia.org/wiki/原油 "wikilink")高による経済への不満などもあり支持率は低迷。[2007年](../Page/2007年.md "wikilink")5月には支持率が最低の28%となったこともあって、報道官などのスタッフを入れ替えて人事の刷新を図った。
+
+2007年3月には“老朽化した[核弾頭](../Page/核弾頭.md "wikilink")の更新”を名目に、冷戦終結後初めての新型核弾頭設計に着手する事を表明。[2012年](../Page/2012年.md "wikilink")を目途に[SLBM](https://ja.wikipedia.org/wiki/SLBM "wikilink")への配備を目指すとした。
+
+2007年6月28日、事実上[政権](../Page/政権.md "wikilink")の“遺産”となると思われた共和党提出の『不法移民の在留資格獲得に道を開く移民制度改革法案』が米上院における採決で否決された。法案は、[アメリカ=メキシコ国境](https://ja.wikipedia.org/wiki/アメリカ=メキシコ国境 "wikilink")の[警備](https://ja.wikipedia.org/wiki/警備 "wikilink")を強化する一方で、すでに入国した不法[移民](https://ja.wikipedia.org/wiki/移民 "wikilink")に[罰金](../Page/罰金.md "wikilink")支払いや身元審査を条件に就労の合法化や永住権取得に道を開く包括的な改革であったが、共和党反対派が大々的なキャンペーンを行い、推進派からも内容の一部をめぐり反対の意見が出た。ブッシュは賛成を求めて電話で最後の説得にあたったが、「支持率が記録的に落ち込んだ彼の懇願は実を結ばなかった」（米紙[ワシントン・ポスト](../Page/ワシントン・ポスト.md "wikilink")）という。
+
+2008年[2月18日](../Page/2月18日.md "wikilink")には共和党の次期大統領候補に選出されたジョン・マケインの支持を公式に打ち出し、大統領選挙の事前投票でマケインに投票した。しかしブッシュの人気が余りにも低いために、ブッシュの正統な後継者を自任し多くの政策に賛同してきたマケインに「私はブッシュ大統領ではない」と言われ、応援演説の依頼も殆ど無かった。結果的に、ブッシュ政権との相違が見出せなかったマケインは民主党候補のバラク・オバマに6.3%差で敗れた。
+
+[サブプライムローン](../Page/サブプライムローン.md "wikilink")に端を発した**[世界同時不況](https://ja.wikipedia.org/wiki/世界同時不況 "wikilink")**への対応策である「金融安定化法案」の採決では[9月29日](../Page/9月29日.md "wikilink")下院における共和党[右派の反対もあって法案は否決されたが](https://ja.wikipedia.org/wiki/右翼 "wikilink")、修正法案が上院で可決された後[10月3日](../Page/10月3日.md "wikilink")に下院で可決され成立した。
+
+2008年11月の[CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")による[世論調査](https://ja.wikipedia.org/wiki/世論調査 "wikilink")ではブッシュの不支持率が76%に上り、[ウォーターゲート事件](https://ja.wikipedia.org/wiki/ウォーターゲート事件 "wikilink")で辞任した[リチャード・ニクソン](../Page/リチャード・ニクソン.md "wikilink")をも上回る戦後最悪の不支持率を記録した。
+
+2008年12月14日、退任末期のブッシュはイラク首相[ヌーリー・マーリキー](https://ja.wikipedia.org/wiki/ヌーリー・マーリキー "wikilink")との共同会見中、取材していたイラク人記者[ムンタゼル・ザイディー](https://ja.wikipedia.org/wiki/ムンタゼル・アル＝ザイディ "wikilink")（[Muntadhar al Zaidi](https://ja.wikipedia.org/wiki/:en:Muntadhar_al_Zaidi "wikilink")）から履いていた左右の靴を投げつけられた。ブッシュは身をすくめてかわし、直後にザイディは取り押さえられた。同日の夜、イラクのニュース番組でこの映像が流れると、エジプトの民間衛星テレビ局の女性アナウンサーがこの記者を「英雄」と呼び、また数千人の市民が[犯人](https://ja.wikipedia.org/wiki/犯人 "wikilink")の[釈放を求めデモを起こした](../Page/保釈.md "wikilink")。当のブッシュは靴を投げつけられた直後「今の靴のサイズは10だったよ」とジョークを飛ばす余裕を見せ、「私に靴が投げつけられたからといって、何だ?」「（イラクが）自由な社会になった証だよ」と締めくくった。
+
+2009年1月14日、ブッシュは「米国の真の友人であり、歴史的な挑戦に対して不屈の精神で対処した」として[トニー・ブレア](../Page/トニー・ブレア.md "wikilink")（元[イギリス首相](../Page/イギリスの首相.md "wikilink")）、[ジョン・ハワード](https://ja.wikipedia.org/wiki/ジョン・ハワード "wikilink")（元[オーストラリア首相](https://ja.wikipedia.org/wiki/オーストラリアの首相 "wikilink")）、[アルバロ・ウリベ](https://ja.wikipedia.org/wiki/アルバロ・ウリベ "wikilink")（[コロンビア](../Page/コロンビア.md "wikilink")大統領）の3人に[大統領自由勲章](https://ja.wikipedia.org/wiki/大統領自由勲章 "wikilink")を授与した。なお、[小泉純一郎](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")ら日本の政治家は選から漏れた\[59\]\[60\]。
+
+2009年1月20日正午（ワシントンD.C.時間）、任期満了で大統領を退任。 退任時の財政赤字は1兆2000億ドルであった。
+
+### 大統領退任後
+
+大統領退任後は、テキサス州[ダラス](../Page/ダラス.md "wikilink")の自宅や[クロフォード](https://ja.wikipedia.org/wiki/クロフォード "wikilink")の牧場に居住し、[大統領図書館](https://ja.wikipedia.org/wiki/大統領図書館 "wikilink")や[シンクタンク](../Page/シンクタンク.md "wikilink")の活動に従事している\[61\]。ブッシュは1994年までダラスに居住していた縁があり、地元ではブッシュを歓迎するムードが広がっている\[62\]。ダラスの[ホームセンター](../Page/ホームセンター.md "wikilink")では「ブッシュ前大統領殿 ようこそお戻りになりました\!」\[63\] との書き出しで始まる「お客様係募集」求人広告を[ジョーク](https://ja.wikipedia.org/wiki/ジョーク "wikilink")で掲載し、「[時間](../Page/時間.md "wikilink")に融通の利く、非常勤。ご自宅からも近距離で、一日体験も可能です」\[64\] とメリットを列挙したうえで「何年にも亘る外国要人との会談を通して、[社交](https://ja.wikipedia.org/wiki/社交 "wikilink")術を磨き上げてきたあなたが、このポジションの優れた候補者だと確信しています」\[65\] と呼びかけた。なお、広告掲載後、当該の店にはブッシュ本人が「仕事を探しているんだ」\[66\] と突然来店し、店長に対して入社を丁重に辞退したうえで買い物をするというジョークで応じたため、居合わせた客らから喝采を浴びた\[67\]。
+
+また、「歴代支持率ワースト1の大統領」である彼の伝記映画『[ブッシュ](https://ja.wikipedia.org/wiki/ブッシュ_\(映画\) "wikilink")』が公開された。（米国ではブッシュが退任直前の2008年に公開された）。監督の[オリバー・ストーン](https://ja.wikipedia.org/wiki/オリバー・ストーン "wikilink")は、映画を作る目的は「あくまでブッシュの品格を落としたり、傷つけようとしているのではない」としており、「彼の言葉を喋らせること、イラク戦争に対する彼の判断は、彼という人物やその個人史と相関関係にある。それを示そうとした。」とコメントしている\[68\]。
+
+2009年11月上旬に大統領辞任後の初来日を行い、かつての盟友・小泉純一郎元首相と再会したほか[東京ドーム](../Page/東京ドーム.md "wikilink")で行われた日本シリーズの[始球式](https://ja.wikipedia.org/wiki/始球式 "wikilink")に参加した。
+
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月9日](../Page/11月9日.md "wikilink")に大統領在任中に下した様々な決断を振り返った回顧録（タイトル：“[Decision Points](https://ja.wikipedia.org/wiki/Decision_Points "wikilink")”、邦題:『決断のとき』\[69\]）が出版された\[70\]。回顧録は自身の飲酒運転トラブルやイラク戦争の決断も詳しく語られた内容となっている。しかし、本書に関して他の著作本からの剽窃・盗作の疑惑が報じられている\[71\]。
+
+2011年4月より、[日本経済新聞](../Page/日本経済新聞.md "wikilink")で連載されている自身の半生を綴った『[私の履歴書](https://ja.wikipedia.org/wiki/私の履歴書 "wikilink")』の執筆を担当し、原稿料は全額[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")による震災孤児を支援するため、[あしなが育英会](../Page/あしなが育英会.md "wikilink")に寄付した\[72\]。
+
+2013年4月、[テキサス州](../Page/テキサス州.md "wikilink")ユニバーシティーパークのサザン・メソジスト大学に、[大統領図書館](https://ja.wikipedia.org/wiki/大統領図書館 "wikilink")「ジョージ・W・ブッシュ大統領センター」の開館式が行われ、ジョージ・W・ブッシュ本人と父のジョージ・H・W・ブッシュ、[ビル・クリントン](../Page/ビル・クリントン.md "wikilink")、[ジミー・カーター](../Page/ジミー・カーター.md "wikilink")、[バラク・オバマ](https://ja.wikipedia.org/wiki/バラク・オバマ "wikilink")と、大統領及び存命の大統領経験者が揃った。同月に行われたジョージ・W・ブッシュの評価についての世論調査では、大統領就任時の教育や医療制度改革が見直され、退任時よりも評価は上昇の傾向にある\[73\]\[74\]。
+
+2016年2月15日、[大統領選挙で苦戦する弟](https://ja.wikipedia.org/wiki/2016年アメリカ合衆国大統領選挙 "wikilink")[ジェブ・ブッシュ](../Page/ジェブ・ブッシュ.md "wikilink")元[フロリダ州知事](https://ja.wikipedia.org/wiki/フロリダ州知事 "wikilink")の集会に現れ、「米国民が怒り、不満を抱えているのは分かる。しかし、我々の怒りや不満をそのまま映し、あおる人物はオーバルオフィス（米大統領執務室）には要らない」と[共和党指名争いでトップを独走する実業家の](https://ja.wikipedia.org/wiki/2016年アメリカ合衆国大統領共和党予備選挙 "wikilink")[ドナルド・トランプ](https://ja.wikipedia.org/wiki/ドナルド・トランプ "wikilink")を批判した\[75\]。
+
+## 政権
+
+### 政権スタッフ
+
+| 職名                                                                                | 氏名                                                                        | 任期          |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------- |
+| [大統領](../Page/アメリカ合衆国大統領.md "wikilink")                                           | **ジョージ・W・ブッシュ**                                                           | 2001 - 2009 |
+| [副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")                                         | ディック・チェイニー                                                                | 2001 - 2009 |
+| [大統領顧問団](https://ja.wikipedia.org/wiki/アメリカ合衆国大統領顧問団 "wikilink")                  |                                                                           |             |
+| [国務長官](https://ja.wikipedia.org/wiki/アメリカ合衆国国務長官 "wikilink")                      | コリン・パウエル                                                                  | 2001 - 2005 |
+| [コンドリーザ・ライス](../Page/コンドリーザ・ライス.md "wikilink")                                    | 2005 - 2009                                                               |             |
+| [国防長官](https://ja.wikipedia.org/wiki/アメリカ合衆国国防長官 "wikilink")                      | ドナルド・ラムズフェルド                                                              | 2001 - 2006 |
+| ロバート・ゲーツ                                                                          | 2006 -（次政権に留任）                                                            |             |
+| [財務長官](https://ja.wikipedia.org/wiki/アメリカ合衆国財務長官 "wikilink")                      | [ポール・オニール](https://ja.wikipedia.org/wiki/ポール・オニール_\(実業家\) "wikilink")     | 2001 - 2003 |
+| [ジョン・スノー](https://ja.wikipedia.org/wiki/ジョン・スノー "wikilink")                       | 2003 - 2006                                                               |             |
+| [ヘンリー・ポールソン](https://ja.wikipedia.org/wiki/ヘンリー・ポールソン "wikilink")                 | 2006 - 2009                                                               |             |
+| [司法長官](https://ja.wikipedia.org/wiki/アメリカ合衆国司法長官 "wikilink")                      | [ジョン・アシュクロフト](https://ja.wikipedia.org/wiki/ジョン・アシュクロフト "wikilink")       | 2001 - 2005 |
+| [アルバート・ゴンザレス](../Page/アルバート・ゴンザレス.md "wikilink")                                  | 2005 - 2007                                                               |             |
+| [マイケル・ミュケイジー](https://ja.wikipedia.org/wiki/マイケル・ミュケイジー "wikilink")               | 2007 - 2009                                                               |             |
+| [内務長官](https://ja.wikipedia.org/wiki/アメリカ合衆国内務長官 "wikilink")                      | [ゲイル・A・ノートン](https://ja.wikipedia.org/wiki/ゲイル・A・ノートン "wikilink")         | 2001 - 2006 |
+| [ダーク・A・ケンプスロン](https://ja.wikipedia.org/wiki/ダーク・A・ケンプスロン "wikilink")             | 2006 - 2009                                                               |             |
+| [農務長官](https://ja.wikipedia.org/wiki/アメリカ合衆国農務長官 "wikilink")                      | [アン・ヴェネマン](https://ja.wikipedia.org/wiki/アン・ヴェネマン "wikilink")             | 2001 - 2005 |
+| [マイク・ジョハンズ](https://ja.wikipedia.org/wiki/マイク・ジョハンズ "wikilink")                   | 2005 - 2007                                                               |             |
+| [チャールズ・F・コナー](https://ja.wikipedia.org/wiki/チャールズ・F・コナー "wikilink")               | 2007 - 2008（代理）                                                           |             |
+| [エドワード・トマス・シェーファー](https://ja.wikipedia.org/wiki/エドワード・トマス・シェーファー "wikilink")     | 2008 - 2009                                                               |             |
+| [商務長官](https://ja.wikipedia.org/wiki/アメリカ合衆国商務長官 "wikilink")                      | [ドナルド・L・エヴァンズ](https://ja.wikipedia.org/wiki/ドナルド・L・エヴァンズ "wikilink")     | 2001 - 2005 |
+| [カルロス・M・グティエレス](https://ja.wikipedia.org/wiki/カルロス・M・グティエレス "wikilink")           | 2005 - 2009                                                               |             |
+| [労働長官](https://ja.wikipedia.org/wiki/アメリカ合衆国労働長官 "wikilink")                      | [イレーン・チャオ](https://ja.wikipedia.org/wiki/イレーン・チャオ "wikilink")             | 2001 - 2009 |
+| [保健福祉長官](https://ja.wikipedia.org/wiki/アメリカ合衆国保健福祉長官 "wikilink")                  | [トミー・ジョージ・トンプソン](https://ja.wikipedia.org/wiki/トミー・ジョージ・トンプソン "wikilink") | 2001 - 2005 |
+| [マイケル・オーカーランド・レヴィット](https://ja.wikipedia.org/wiki/マイケル・オーカーランド・レヴィット "wikilink") | 2005 - 2009                                                               |             |
+| [住宅都市開発長官](https://ja.wikipedia.org/wiki/アメリカ合衆国住宅都市開発長官 "wikilink")              | [メル・R・マルチネス](https://ja.wikipedia.org/wiki/メル・R・マルチネス "wikilink")         | 2001 - 2003 |
+| [アルフォンソ・R・ジャクソン](https://ja.wikipedia.org/wiki/アルフォンソ・R・ジャクソン "wikilink")         | 2004 - 2008                                                               |             |
+| [スティーヴン・クライド・プレストン](https://ja.wikipedia.org/wiki/スティーヴン・クライド・プレストン "wikilink")   | 2008 - 2009                                                               |             |
+| [運輸長官](../Page/アメリカ合衆国運輸長官.md "wikilink")                                         | [ノーマン・ミネタ](https://ja.wikipedia.org/wiki/ノーマン・ミネタ "wikilink")             | 2001 - 2006 |
+| [マリア・シノ](https://ja.wikipedia.org/wiki/マリア・シノ "wikilink")                         | 2006 （代理）                                                                 |             |
+| [メアリー・ピーターズ](https://ja.wikipedia.org/wiki/メアリー・ピーターズ "wikilink")                 | 2006 - 2009                                                               |             |
+| [エネルギー長官](../Page/アメリカ合衆国エネルギー長官.md "wikilink")                                   | [E・スペンサー・エイブラハム](https://ja.wikipedia.org/wiki/E・スペンサー・エイブラハム "wikilink") | 2001 - 2005 |
+| [サミュエル・W・ボドマン](https://ja.wikipedia.org/wiki/サミュエル・W・ボドマン "wikilink")             | 2005 - 2009                                                               |             |
+| [教育長官](https://ja.wikipedia.org/wiki/アメリカ合衆国教育長官 "wikilink")                      | [ロデリック・レイナー・ペイジ](https://ja.wikipedia.org/wiki/ロデリック・レイナー・ペイジ "wikilink") | 2001 - 2005 |
+| [マーガレット・スペリングス](https://ja.wikipedia.org/wiki/マーガレット・スペリングス "wikilink")           | 2005 - 2009                                                               |             |
+| [退役軍人長官](https://ja.wikipedia.org/wiki/アメリカ合衆国退役軍人長官 "wikilink")                  | [アンソニー・J・プリンシピ](https://ja.wikipedia.org/wiki/アンソニー・J・プリンシピ "wikilink")   | 2001 - 2005 |
+| [R・ジェームズ・ニコルソン](https://ja.wikipedia.org/wiki/ジム・ニコルソン_\(政治家\) "wikilink")        | 2005 - 2007                                                               |             |
+| [ゴードン・H・マンスフィールド](https://ja.wikipedia.org/wiki/ゴードン・H・マンスフィールド "wikilink")       | 2007 （代理）                                                                 |             |
+| [ジェームズ・B・ピーク](https://ja.wikipedia.org/wiki/ジェームズ・B・ピーク "wikilink")               | 2007 - 2009                                                               |             |
+| [国土安全保障長官](https://ja.wikipedia.org/wiki/アメリカ合衆国国土安全保障長官 "wikilink")              | [トム・J・リッジ](https://ja.wikipedia.org/wiki/トム・J・リッジ "wikilink")             | 2003 - 2005 |
+| [ジェームズ・M・ロイ](https://ja.wikipedia.org/wiki/ジェームズ・M・ロイ "wikilink")                 | 2005 （代理）                                                                 |             |
+| [マイケル・チャートフ](https://ja.wikipedia.org/wiki/マイケル・チャートフ "wikilink")                 | 2005 - 2009                                                               |             |
+
+ブッシュ政権の[外交政策](../Page/外交政策.md "wikilink")は、[ネオコンと称される閣僚が要職を多く占め](https://ja.wikipedia.org/wiki/新保守主義_\(アメリカ\) "wikilink")、さらに[キリスト教右派を支持母体にしているため](https://ja.wikipedia.org/wiki/宗教右派 "wikilink")、中東の原油をめぐる利権の追求、それに伴うアフガニスタンやイラク侵攻などに関して、対外的な武力行使も辞さないアメリカの覇権を追求する[単独行動主義](https://ja.wikipedia.org/wiki/単独行動主義 "wikilink")（ユニラテラリズム）が顕著であり、[第十次十字軍](../Page/第十次十字軍.md "wikilink")と諷刺されることもあった。
+
+このような[タカ派](../Page/タカ派.md "wikilink")ともとれる姿勢は、アフガニスタン侵攻、イラク戦争など戦時のたびに、ブッシュ大統領本人のみならず、閣僚・政権関係者が所有・関係する企業などに莫大な経済的利益をもたらす構造が疑問視された（[軍産複合体](https://ja.wikipedia.org/wiki/軍産複合体 "wikilink")も参照）。
+
+### 政策
+
+経済政策は個人の所有権を尊重するを目標に掲げ、この持家政策は[住宅バブルを引き起こして後の](../Page/バブル経済.md "wikilink")[サブプライム住宅ローン危機](https://ja.wikipedia.org/wiki/サブプライム住宅ローン危機 "wikilink")の原因となる。また、[サプライサイド経済学](https://ja.wikipedia.org/wiki/サプライサイド経済学 "wikilink")に基づいたいわゆる[ブッシュ減税](https://ja.wikipedia.org/wiki/ブッシュ減税 "wikilink")（小切手送付などによる）、[ベン・バーナンキ](https://ja.wikipedia.org/wiki/ベン・バーナンキ "wikilink")を[アラン・グリーンスパン](https://ja.wikipedia.org/wiki/アラン・グリーンスパン "wikilink")の後任に起用した[マネタリズム](https://ja.wikipedia.org/wiki/マネタリズム "wikilink")的な金融政策、[自由貿易](https://ja.wikipedia.org/wiki/自由貿易 "wikilink")（[グローバリゼーション](../Page/グローバリゼーション.md "wikilink")）推進など新保守主義・[新自由主義](https://ja.wikipedia.org/wiki/新自由主義 "wikilink")的政策、「[小さな政府](https://ja.wikipedia.org/wiki/小さな政府 "wikilink")」の方針と重なるところも多い。しかし、クリントン政権が大きな財政黒字だったのに対し、ブッシュ政権は2つの大きな戦争への参加や警察力を強化するテロ対策などで膨大な支出を治安面や軍事面で生じさせたため（[夜警国家](https://ja.wikipedia.org/wiki/夜警国家 "wikilink")）、2004年には史上最大の4130億ドルもの財政赤字に苦しんでいる\[76\]。ブッシュ自身は、かかる自らの政策を**「思いやりのある[保守](https://ja.wikipedia.org/wiki/保守 "wikilink")主義」**(Compassionate Conservatism)と称している。
+
+外交面では政権内のネオコンと呼ばれる人々によって特徴付けられ、「世界の警察」（Globocop\[77\]\[78\]\[79\]\[80\]\[81\]）と呼ばれる「世界最強の軍事力」たる唯一の超大国アメリカを積極的に他国に介入させ、[自由民主主義](https://ja.wikipedia.org/wiki/自由民主主義 "wikilink")で世界の一極化を目指すタカ派戦略を採り、イラク戦争・アフガニスタン侵攻を引き起こした。
+
+ブッシュを支持する共和党支持者の中には[キリスト教](../Page/キリスト教.md "wikilink")福音派の[原理主義者が多く含まれ](https://ja.wikipedia.org/wiki/キリスト教原理主義 "wikilink")、ブッシュは彼らの倫理観や[インテリジェント・デザイン](https://ja.wikipedia.org/wiki/インテリジェント・デザイン "wikilink")などの理論に理解を示してきた。旧知の[ハリエット・マイヤーズ](https://ja.wikipedia.org/wiki/ハリエット・マイヤーズ "wikilink")を[合衆国最高裁判所](https://ja.wikipedia.org/wiki/合衆国最高裁判所 "wikilink")の判事に指名した際、マイヤーズが弁護士時代に中絶に関する質問に対して曖昧な答えを残していたことなどから反発を受け、断念せざるを得なくなるという事例もあった。
+
+他に話題を呼んだ政策として、次のようなものが挙げられる。
+
+  - [造血幹細胞](https://ja.wikipedia.org/wiki/造血幹細胞 "wikilink")の研究をめぐる決定
+  - [法人税](../Page/法人税.md "wikilink")減税
+  - [京都議定書](../Page/京都議定書.md "wikilink")からの離脱
+  - [国土安全保障省の創設](https://ja.wikipedia.org/wiki/アメリカ国土安全保障省 "wikilink")
+  - [情報機関](../Page/情報機関.md "wikilink")による令状なき通信[盗聴](https://ja.wikipedia.org/wiki/盗聴 "wikilink")の容認<ref>ブッシュ大統領は、2001年の同時多発テロ直後からの電子メールなどの傍受を令状なしで行っていたことを認めている。これに対し、令状なしの盗聴は違憲であると[市民団体](../Page/市民団体.md "wikilink")が訴訟を起こし、[デトロイト](../Page/デトロイト.md "wikilink")の連邦地裁は2006年8月17日、令状なしの盗聴の即時停止を命令。しかし、ブッシュは「盗聴はあくまで大統領の権限だ」と主張している。
+
+<!-- end list -->
+
+  -
+    ワールド・リサーチ・ネット 『意外なツボがひと目でわかる世界地図』 青春出版社 2007年 p.59.</ref>
+
+<!-- end list -->
+
+  - [国際刑事裁判所](../Page/国際刑事裁判所.md "wikilink")の拒否
+  - “脱石油依存対策”の為の[バイオエネルギー](https://ja.wikipedia.org/wiki/バイオエネルギー "wikilink")導入や[シェールガス](https://ja.wikipedia.org/wiki/シェールガス "wikilink")開発のための[水圧破砕法](https://ja.wikipedia.org/wiki/水圧破砕法 "wikilink")への支援
+  - 「州児童医療保険事業（SCHIP）」延長法案への反対
+
+なお、ブッシュの下で副大統領を務めているディック・チェイニーは、父の大ブッシュの下で副大統領を務めた[ダン・クエール](https://ja.wikipedia.org/wiki/ダン・クエール "wikilink")より年長である。
+
+#### 地球温暖化
+
+ブッシュ政権は[地球温暖化](https://ja.wikipedia.org/wiki/地球温暖化 "wikilink")問題への取り組み（[温室効果ガス](https://ja.wikipedia.org/wiki/温室効果ガス "wikilink")の排出削減対策）に消極的だと言われる。[科学誌](https://ja.wikipedia.org/wiki/科学誌 "wikilink")[ネイチャー](https://ja.wikipedia.org/wiki/ネイチャー "wikilink")によると、[ハリケーン](../Page/ハリケーン.md "wikilink")被害が増大している一因は温暖化であるとする内容の報告書を米国海洋大気局が発表しようとした際、ブッシュ政権からの圧力によって阻止されてしまったという\[82\]。 また2005年には、京都議定書を離脱している。
+
+## 外交政策
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:George_W_Bush_approval_ratings.svg "wikilink")／『[USAトゥディ](https://ja.wikipedia.org/wiki/USAトゥディ "wikilink")』による世論調査、青：支持する、赤：支持しない、緑：どちらでもない）\]\] [thumb首相と](https://ja.wikipedia.org/wiki/ファイル:Blair_Bush_Whitehouse_\(2004-11-12\).jpg "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Junichiro_Koizumi_p062906pm-0396-398h.jpg "wikilink")[6月29日](../Page/6月29日.md "wikilink")、ホワイトハウスにて「友人」の小泉純一郎と\]\]
+
+  - イラク戦争
+    ブッシュ政権は、[イラク](../Page/イラク.md "wikilink")が[国際原子力機関](../Page/国際原子力機関.md "wikilink") (IAEA) の査察に全面的に協力しないこと、[生物兵器](../Page/生物兵器.md "wikilink")や[化学兵器](../Page/化学兵器.md "wikilink")も含め[大量破壊兵器](../Page/大量破壊兵器.md "wikilink")を隠し持っていることなどを強く主張し続けた（[イラク武装解除問題](https://ja.wikipedia.org/wiki/イラク武装解除問題 "wikilink")）。先制攻撃も辞さないこと、軍事行動を肯定する[国際連合安全保障理事会](../Page/国際連合安全保障理事会.md "wikilink")による決議は「望ましいけれども必要ではない」ことなどを主張し、2003年3月17日（アメリカ現地時間）[国際法](../Page/国際法.md "wikilink")に則り「48時間以内に[サッダーム・フセイン](../Page/サッダーム・フセイン.md "wikilink")とその息子がイラクを去らなければ軍事行動を行う」という最後通告を行ったが、フセインは黙殺した。
+    しかし、開戦の根拠とされた大量破壊兵器はその後発見されずイラク戦争の正当性が根底から揺らぐ事態になった。後に、まったくの事実無根であることが判明し「私の政権の期間中、最も遺憾だったのが、イラクの大量破壊兵器に関する情報活動の失敗だった」と釈明することとなった。ブッシュ政権はその後、開戦の理由を「イラクのフセイン政権が[アルカーイダ](https://ja.wikipedia.org/wiki/アルカーイダ "wikilink")を始めテロリストを支援している」と説明し、「同時多発テロの実行犯[モハメド・アタ](https://ja.wikipedia.org/wiki/モハメド・アタ "wikilink")とイラクの諜報部員が接触していた」と主張したが、独立調査委員会は「会合の存在自体が無かった」とする見解を示している。
+
+<!-- end list -->
+
+  -
+    英歴史家のポール・ケネディは読売新聞紙上に載せたコラムで、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の二人の指導者、[フランクリン・ルーズベルト](../Page/フランクリン・ルーズベルト.md "wikilink")が小児マヒでありながら国外の戦略会議に3回出席したことやポツダム宣言で果たした役割、さらに[ウィンストン・チャーチル](../Page/ウィンストン・チャーチル.md "wikilink")が主要な戦場に何回も足を運んだことを指摘し、一方のブッシュが開戦から5年の間にイラクに訪問したのはいずれも数時間足らずで合計するとイラクに居たのは一日にも満たないと両者を対比しながら述べている。またブッシュは石油の利権を手に入れた事でそのあがり\[83\] となる、ブッシュ大統領の要請から17億ドル減額したものの186億ドル（約2兆460億円）のイラク復興支援の予算案を議会は可決した\[84\]。
+
+<!-- end list -->
+
+  -
+    ブッシュは「イラク撤退はベトナムの二の舞いになる、米軍撤退は米国の信頼性を傷つけ、テロリストを勢いづかせる」と主張した\[85\]\[86\]。
+
+<!-- end list -->
+
+  -
+    しかし復興支援を出しても絶えない宗派対立で、毎日60人近くの死者が出るような[自爆テロ](../Page/自爆テロ.md "wikilink")と、それを米軍とイラク軍が発砲し、イラク戦争の死者は10万人まで増加してしまい、結局イラク国民の間に根深い[反米](../Page/反米.md "wikilink")感情を残し[靴投げ事件のさいには](https://ja.wikipedia.org/wiki/ブッシュの靴 "wikilink")、犯人の男に対する同情や駐留米軍に対する抗議の声が民衆から聞かれた。
+
+<!-- end list -->
+
+  -
+    ブッシュがフセインを打倒した事により、これまでフセイン政権に怯えていた[シーア派](../Page/シーア派.md "wikilink")と[スンナ派](../Page/スンナ派.md "wikilink")とクルド人が[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")の利権また[政権](../Page/政権.md "wikilink")争いのために対立が激化してしまい、皮肉にもフセインの[恐怖政治](https://ja.wikipedia.org/wiki/恐怖政治 "wikilink")が宗派・民族対立を押さえ込んでいたことが明白になった。[トルコ](../Page/トルコ.md "wikilink")の[アブドゥラー・ギュル](../Page/アブドゥラー・ギュル.md "wikilink")[首相はイラク戦争は泥沼化すると予想しており](../Page/トルコの首相.md "wikilink")、イラクを『**パンドラの箱**』と揶揄していた。ブッシュ退任後は都市部から撤退した米軍の復帰を求める声すら聞かれている\[87\]。イラク侵攻でブッシュの支持率は低下したと言われているものの、クリントン政権時代でもイラクを敵視し空爆をしており、結局、フセインはブッシュだけでなくクリントンからも敵視されていた。
+
+<!-- end list -->
+
+  -
+    ブッシュは石油の利権を狙うためにイラクへ侵略したと酷評されているが、伝記映画『ブッシュ』でも、ブッシュが石油の利権を狙う様子が描かれており、父ブッシュが打倒出来なかったフセインに石油の利権を持たれている事が痛恨であるように描かれている。
+
+<!-- end list -->
+
+  - 日本
+
+[thumbに](https://ja.wikipedia.org/wiki/ファイル:Abductee_families_of_North_Korean_abductions.jpg "wikilink")[拉致された](../Page/北朝鮮による日本人拉致問題.md "wikilink")[横田めぐみ](https://ja.wikipedia.org/wiki/横田めぐみ "wikilink")の家族と[脱北者](../Page/脱北者.md "wikilink")の少女と会見するブッシュ\]\]
+
+  -
+    小泉純一郎の[首相在任中には個人的な繋がりをアピールし](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")、「ジョージ」、「純一郎」と呼び合うほどの仲であった。2006年6月に小泉が訪米した際には、ワシントンD.C.から、小泉がファンである[エルヴィス・プレスリー](../Page/エルヴィス・プレスリー.md "wikilink")の自宅兼[博物館](../Page/博物館.md "wikilink")のある[メンフィスまで](https://ja.wikipedia.org/wiki/メンフィス_\(テネシー州\) "wikilink")[エアフォースワン](https://ja.wikipedia.org/wiki/エアフォースワン "wikilink")で同乗し、プレスリーの自宅を自分の妻とプレスリーの元妻とその娘との4人で案内するなどした。
+    その一方で、[在日米軍](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")基地[再編や](https://ja.wikipedia.org/wiki/在日米軍再編 "wikilink")[米国産牛肉](https://ja.wikipedia.org/wiki/米国産牛肉 "wikilink")の輸入問題などで日米両政府の見解が一致しない政策もある。また、後半には核施設の無力化のみを条件に北朝鮮に対して妥協するなど、拉致問題で対北朝鮮強硬姿勢を取る日本との歩調のズレが目立った。
+    アメリカの歴代政権は同盟国である日本の常任理事国入り自体には積極的な支援を表明してきたものの、2005年7月に入って日本が常任理事国入りの手段とするG4案への「ノー」を断固として表明した。日本だけでなく[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")や[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")、[インド](../Page/インド.md "wikilink")が常任理事国になるというG4案は安保理全体の大幅拡大が前提であり、ドイツの[ゲアハルト・シュレーダー](../Page/ゲアハルト・シュレーダー.md "wikilink")[政権](../Page/政権.md "wikilink")がイラク問題その他で一貫してアメリカの方針に反対してきたためかアメリカはG4案には正面から反対した\[88\]。
+    2007年8月、アメリカ中西部[ミズーリ州](../Page/ミズーリ州.md "wikilink")の[カンザスシティで行った演説において](../Page/カンザスシティ_\(ミズーリ州\).md "wikilink")、「敵は自由を嫌い、アメリカや[西欧諸国が自分たちをさげすんでいることに怒りを抱き](../Page/西ヨーロッパ.md "wikilink")、大虐殺を産み出した自殺的な攻撃を繰り広げました。どこかで聞いた話のようですが、私が述べる敵とは、[アルカーイダ](https://ja.wikipedia.org/wiki/アルカーイダ "wikilink")ではなく、9.11テロでもなく、[ウサーマ・ビン・ラーディン](../Page/ウサーマ・ビン・ラーディン.md "wikilink")でもなく、パールハーバー（真珠湾）を攻撃した1940年代の[大日本帝国](https://ja.wikipedia.org/wiki/大日本帝国 "wikilink")の軍隊のことです」。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前の日本について「[民主主義](../Page/民主主義.md "wikilink")は日本では決して機能せず、[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")もそう思っているといわれてきたし、実際に多くの日本人も同じことを信じていました。民主主義は機能しないと」、「日本の[国教](../Page/国教.md "wikilink")である「[神道](../Page/神道.md "wikilink")」があまりに狂信的で、[天皇](https://ja.wikipedia.org/wiki/天皇 "wikilink")に根ざしていることから、民主主義は日本では成功し得ないという批判もあった」と述べている\[89\]。
+    2009年1月14日、退任直前にブッシュは盟友としてトニー・ブレアらに大統領自由勲章を授与したが、日本の政治家には贈られていない。大統領退任後の、2009年11月3日、日本シリーズ第3戦（巨人－日本ハム）で巨人の黒のジャンパーを着て、笑顔で1球を投じた。小泉純一郎元首相、ジョン・ルース駐日米大使、前駐米大使の加藤良三コミッショナー、王貞治コミッショナー特別顧問らと観戦した。
+    なお、歴代アメリカ大統領で、初めて来日した1974年11月の[ジェラルド・R・フォード](../Page/ジェラルド・R・フォード.md "wikilink")以降、前大統領の[バラク・オバマ](https://ja.wikipedia.org/wiki/バラク・オバマ "wikilink")までの間、国賓としての来日がなかった唯一の大統領である\[90\]。
+
+[Jiang_and_Bush_2001.jpg](https://ja.wikipedia.org/wiki/File:Jiang_and_Bush_2001.jpg "fig:Jiang_and_Bush_2001.jpg")（左）と\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Hu_Jintao_Bush.jpg "wikilink")（左）と\]\]
+
+  - 中華人民共和国
+    政権初期は、[中華人民共和国](../Page/中華人民共和国.md "wikilink")を「戦略的競争相手」とみなし、2001年4月に[南シナ海](../Page/南シナ海.md "wikilink")でおきた[アメリカ海軍偵察機と中国人民解放軍機との接触事故では](https://ja.wikipedia.org/wiki/海南島事件 "wikilink")、「アメリカ側に責任は無い」とするなど対立姿勢を強めたが、911テロ直後に[江沢民](../Page/江沢民.md "wikilink")がブッシュに電話したことを契機に協調に向かい、翌月に911テロ後の初外遊\[91\]で中国を訪れたブッシュを迎え入れた江沢民は上海[APEC](https://ja.wikipedia.org/wiki/APEC "wikilink")の議長国としてテロとの戦いを呼びかける各国首脳との共同声明をまとめた\[92\]。中国からはアフガニスタン復興への1億5000万米ドルもの資金援助や対テロ戦争を支える国連決議でも支持を得て\[93\]、ブッシュは中国を「責任ある利害共有者」とみなすようになり、[中華人民共和国の世界貿易機関加盟](https://ja.wikipedia.org/wiki/中華人民共和国の世界貿易機関加盟 "wikilink")も受け入れた。しかし、イラク戦争ではフセイン政権と友好関係にあった中国との利害対立が目立った。なお同国への公式訪問を全任期中4回行ったことから、「対中関係を憂慮、重視していた」という意見がある（なお両国の首脳会談は相互の公式訪問時以外は行われていない）。
+
+    ブッシュ政権下の米国は財政赤字とともに対中貿易赤字も増え続けた（[双子の赤字](https://ja.wikipedia.org/wiki/双子の赤字 "wikilink")）。[世界金融危機](https://ja.wikipedia.org/wiki/世界金融危機 "wikilink")で[アメリカ国債](https://ja.wikipedia.org/wiki/アメリカ国債 "wikilink")増発の必要に迫られた[ヘンリー・ポールソン](https://ja.wikipedia.org/wiki/ヘンリー・ポールソン "wikilink")米財務長官による[王岐山](../Page/王岐山.md "wikilink")[国務院副総理](https://ja.wikipedia.org/wiki/国務院副総理 "wikilink")への要請で中国は大量に米国債を引受し\[94\]、[北京五輪が開催された](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")2008年8月には米国の同盟国である日本を超えて世界最大の米国債保有国となった。[2008年北京オリンピックの開会式](https://ja.wikipedia.org/wiki/2008年北京オリンピックの開会式 "wikilink")には米中連絡事務所所長時代から中国とパイプを持つ父のジョージ・H・W・ブッシュとともに親子揃って出席した\[95\]\[96\]。
+
+    [米中関係](https://ja.wikipedia.org/wiki/米中関係 "wikilink")は経済では密接なのに対して人権問題では火花を散らしており、ブッシュ政権ではそのような関係が顕著となるような事例が見られた。例えばブッシュは中華人民共和国に高度な自治権を求めて拘留されたラビア・カーディルの釈放に圧力をかけて後に会談して、同様に高度な自治権を求める[ダライ・ラマ14世](https://ja.wikipedia.org/wiki/ダライ・ラマ14世 "wikilink")また中華人民共和国の民主活動家を[ホワイトハウス](../Page/ホワイトハウス.md "wikilink")に招待している。また、中国共産党政府と対立を続ける[法輪功](https://ja.wikipedia.org/wiki/法輪功 "wikilink")弾圧に対しても厳しく、人権を侵害する[外国人](https://ja.wikipedia.org/wiki/外国人 "wikilink")を追跡する権限を[司法部に与え](../Page/中華人民共和国司法部.md "wikilink")「酷刑犯罪者の米国入国禁止法案」を署名しており、任期末期に訪問先の韓国と[タイで中華人民共和国の](../Page/タイ王国.md "wikilink")[人権侵害を批判し](https://ja.wikipedia.org/wiki/人権蹂躙 "wikilink")、[中華人民共和国外交部](https://ja.wikipedia.org/wiki/中華人民共和国外交部 "wikilink")スポークスマンの秦剛は「人権と宗教などの問題で他国の内政を干渉する言葉や行動に強く反対する」と反論した。
+
+  - 韓国
+
+[thumbの](https://ja.wikipedia.org/wiki/ファイル:APEC2006_Roh_Bush_Abe_\(2\).jpg "wikilink")[APEC首脳会議時の日米韓](../Page/アジア太平洋経済協力.md "wikilink")3か国会議にて、**ジョージ・W・ブッシュ**、[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")の[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")（右）、[韓国大統領の](https://ja.wikipedia.org/wiki/大統領_\(大韓民国\) "wikilink")[盧武鉉](../Page/盧武鉉.md "wikilink")（左）と（役職はいずれも当時）\]\]
+
+  -
+    2001年の米韓首脳会談では当時の[金大中](https://ja.wikipedia.org/wiki/金大中 "wikilink")大統領を「この人」と呼び、韓国人の間で話題となった。2002年の[在韓米軍](../Page/在韓米軍.md "wikilink")による[議政府米軍装甲車女子中学生轢死事件](https://ja.wikipedia.org/wiki/議政府米軍装甲車女子中学生轢死事件 "wikilink")では、電話を通じて韓国政府に謝罪するが[反米](../Page/反米.md "wikilink")感情の高まりを抑えることはできなかった。後継の盧武鉉政権とは、反米色が強かったため次第に関係は悪化した（ただし、イラク戦争に際して韓国は[軍を派遣している](https://ja.wikipedia.org/wiki/大韓民国国軍 "wikilink")）。2008年の[李明博](https://ja.wikipedia.org/wiki/李明博 "wikilink")政権以降は[親米](https://ja.wikipedia.org/wiki/親米 "wikilink")・反北路線となり、関係は修復した。大統領退任後には韓国に訪問した\[97\]。
+
+  - 北朝鮮
+    大統領就任前のブッシュは北朝鮮問題に関心も知識も乏しかった。2000年6月の大統領候補時代に、友人である[サウジアラビア](../Page/サウジアラビア.md "wikilink")の[バンダル・ビン・スルターン](https://ja.wikipedia.org/wiki/バンダル・ビン・スルターン "wikilink")[王子と会談した際](https://ja.wikipedia.org/wiki/サウジアラビアの国王一覧 "wikilink")、「なぜ自分が北朝鮮のことを心配しなければならないのか？」とこぼして、王子に「北朝鮮の国境付近には3万8,000人のアメリカ兵が駐留しているため、北朝鮮が国境を越えて侵攻すればおそらく1万5000人が戦死して、合衆国は途端に戦争へ突入するからです」と諭されている\[98\]。就任後はクリントン政権の宥和策に反対してきた[共和党の姿勢に沿って](../Page/共和党_\(アメリカ\).md "wikilink")、「[悪の枢軸](../Page/悪の枢軸.md "wikilink")」として批判を行うなど強硬姿勢を取っている。[日本人拉致問題についても](../Page/北朝鮮による日本人拉致問題.md "wikilink")、2006年に渡米した横田夫妻ら被害者家族との面会時に断固たる姿勢で望む事を表明していた。
+
+    しかし、[北朝鮮の核実験実施や他の外交政策の不振から](https://ja.wikipedia.org/wiki/北朝鮮の核実験_\(2006年\) "wikilink")、「核施設の無能力化を進めれば、拉致問題の進展とは関係なく、[テロ支援国家](../Page/テロ支援国家.md "wikilink")指定を解除する」との立場を北朝鮮に伝えていたことが明らかになっている\[99\]。北朝鮮と[同盟関係にある中華人民共和国はイラク戦争開戦による衝撃から仲介に乗り出して](../Page/中朝友好協力相互援助条約.md "wikilink")[六カ国協議](https://ja.wikipedia.org/wiki/六カ国協議 "wikilink")が始まり\[100\]、核兵器の放棄が合意された。2007年2月13日の六カ国協議での合意に基づき、2008年6月の北朝鮮の[寧辺核施設](https://ja.wikipedia.org/wiki/寧辺核施設 "wikilink")の爆破パフォーマンスや核開発計画申告などを受けて指定解除の手続きを開始、拉致問題については引き続き解決への協力姿勢を表明しているものの、被害者家族からは先の面会時からの豹変振りに「裏切られた」と失望の声が挙がっていた。
+
+    だが、土壇場の8月11日、「しっかりとした（核施設の）検証体制を示さない」ことを理由に北朝鮮のテロ支援国家指定解除の発令に対する署名を拒否した。そもそも6月26日の指定解除手続きに関する発表\[101\] では、同時に北朝鮮および北朝鮮の国民に関する確定的な(移動)制限を継続することについての大統領令(Executive Order:Continuing Certain Restrictions with Respect to North Korea and North Korean Nationals)\[102\] も発表しており、この時点で北朝鮮による手続きが履行されても不履行であっても、対北朝鮮制裁を解除する意志がなかったことが、この大統領令の存在から明らかになっている。オバマ政権に交代後の2009年4月、北朝鮮は核兵器開発の再開と六カ国協議からの離脱を表明することとなった。
+
+    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[脱北者](../Page/脱北者.md "wikilink")の[姜哲煥](https://ja.wikipedia.org/wiki/姜哲煥 "wikilink")をホワイトハウスに招待している。
+
+  - チベット
+    ダライ・ラマ14世をホワイトハウスに招待するほど親密であり、ダライ・ラマ14世が米国議会から議会名誉黄金勲章を授与された時に子ブッシュ大統領も授章式に同席した。米国議会からのダライ・ラマ14世への黄金勲章授与に対して、[米中関係](https://ja.wikipedia.org/wiki/米中関係 "wikilink")に悪影響を及ぼすとして[中国共産党](../Page/中国共産党.md "wikilink")は強く反発した。ダライラマは、いくつかの政策は「大失敗」だったが、一個人としては好きだと語った。子ブッシュを強く批判する[ベネズエラ](../Page/ベネズエラ.md "wikilink")の[ウゴ・チャベス](https://ja.wikipedia.org/wiki/ウゴ・チャベス "wikilink")大統領が親中共派で、他国干渉とダライ・ラマへの弾圧を進める中華人民共和国を全く批判しないのに対し、子ブッシュは中華人民共和国から反発を受けながらもダライ・ラマと友好を深めていた。
+
+  - ベトナム
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:NguyenMinhTriet_&_GeorgeWBush_2006-Nov-17.jpg "wikilink")
+
+  -
+    イラク戦争が末期に入った2006年[11月17日](../Page/11月17日.md "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")の[グエン・ミン・チェット](https://ja.wikipedia.org/wiki/グエン・ミン・チェット "wikilink")[国家主席と米国の子ブッシュ大統領が](https://ja.wikipedia.org/wiki/ベトナム社会主義共和国主席 "wikilink")[ハノイ](https://ja.wikipedia.org/wiki/ハノイ "wikilink")で会談し、ベトナムとアメリカの友好関係を誇示した。これは、冷戦後の「米越同盟」の強化と、後に「[VISTA](../Page/VISTA.md "wikilink")」の一角と呼ばれるようになったベトナムの[経済成長](../Page/経済成長.md "wikilink")を布告するものになった。
+
+  - フィリピン
+    2008年に[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")に対し食料価格高騰や台風6号の被害に苦しむ同国民を助けるため、米海軍の原子力空母[ロナルド・レーガン](../Page/ロナルド・レーガン.md "wikilink")を被災地に派遣し、食料支援を行った。子ブッシュ大統領は会談後、台風の犠牲者らに弔意を表明。[グロリア・アロヨ](https://ja.wikipedia.org/wiki/グロリア・アロヨ "wikilink")[大統領が](../Page/フィリピンの大統領.md "wikilink")[モロ・イスラム解放戦線](../Page/モロ・イスラム解放戦線.md "wikilink")（MILF）や[イスラーム過激派](https://ja.wikipedia.org/wiki/イスラーム過激派 "wikilink")[アブ・サヤフ](https://ja.wikipedia.org/wiki/アブ・サヤフ "wikilink")などの反政府勢力に対し、対話と圧力による硬軟両様のテロ対策を進め、効果を上げていると評価した\[103\]。またフィリピンはイラク戦争に仏独中露が反対する中で数少なく支持した国である。
+
+  - メキシコ
+    隣国で強い経済的関係を持つ[メキシコ](../Page/メキシコ.md "wikilink")に対しては強い親近感を示し、これまでの歴代大統領は就任後初の訪問国として[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")を訪れていたが、子ブッシュは就任後初の訪問国としてメキシコを訪れている。なお、この様なメキシコに対する親近感には、テキサス州知事選挙をはじめとする過去の選挙戦において、テキサス州で多くの票を持つメキシコ系アメリカ人からの支持を受けていたことが強く影響していると言われている
+
+  - 中南米
+    アフガン侵攻やイラク戦争以来、ベネズエラ大統領のウゴ・チャベスとの険悪な関係で知られており、2002年にはアメリカ政府の関与が指摘される[クーデター](../Page/クーデター.md "wikilink")がおきている。国連総会でチャベスはブッシュを『悪魔』と呼び、『ブッシュは大量殺人犯 残る一生を牢獄で過ごすべきだ』などと激しく非難されている。ブッシュは[ボリビア](../Page/ボリビア.md "wikilink")の[エボ・モラレス](https://ja.wikipedia.org/wiki/エボ・モラレス "wikilink")の[麻薬](../Page/麻薬.md "wikilink")の利用を非難したが、逆に「私の知る唯一のテロリストはブッシュだ」と反論されモラレスも一歩も退かない\[104\]。[キューバ](../Page/キューバ.md "wikilink")ではアフガン侵攻やイラク戦争以来、『ブッシュは[ヒトラーに並ぶ殺人犯](https://ja.wikipedia.org/wiki/アドルフ・ヒトラー "wikilink")』という皮肉ったプロパガンダが掲げられていた時期があった。
+
+  - ロシア
+
+[Vladimir_Putin_at_APEC_Summit_in_China_19-21_October_2001-13.jpg](https://ja.wikipedia.org/wiki/File:Vladimir_Putin_at_APEC_Summit_in_China_19-21_October_2001-13.jpg "fig:Vladimir_Putin_at_APEC_Summit_in_China_19-21_October_2001-13.jpg")
+
+  -
+    ロシアの[プーチン](https://ja.wikipedia.org/wiki/プーチン "wikilink")政権とは[チェチェン問題もあり](https://ja.wikipedia.org/wiki/チェチェン紛争 "wikilink")、当初は距離を取っていたが、911テロを契機にして協調関係に移行。ロシア領域内通過容認やテロリストの情報提供\[105\]などプーチン政権から支援がされ、[中央アジア](../Page/中央アジア.md "wikilink")への米軍基地も設置できた。2005年のロシアの戦勝記念日の軍事パレードに出席するなど、積極的に「テロとの戦い」を進めていくことを確認した。しかし、イラク戦争ではフセイン政権と親交があったロシアとの利害対立が目立った。また、[東欧ミサイル防衛構想](https://ja.wikipedia.org/wiki/東欧ミサイル防衛構想 "wikilink")を推し進め、[南オセチア紛争](https://ja.wikipedia.org/wiki/南オセチア紛争 "wikilink")では[メドヴェージェフ政権から](https://ja.wikipedia.org/wiki/ドミートリー・メドヴェージェフ "wikilink")「紛争の発端はアメリカ大統領選挙で共和党を有利にするためのネオコンの陰謀である」と批判されて[新冷戦](https://ja.wikipedia.org/wiki/新冷戦 "wikilink")とも評された（これはプーチンとともにブッシュが北京オリンピックの式典に参加するため国内を空席にした際に紛争が起きたため、政権内部のネオコンをコントロールできていたかその能力を疑われたからでもある）。
+  - ウクライナ
+    [オレンジ革命](https://ja.wikipedia.org/wiki/オレンジ革命 "wikilink")で親欧米派が勝利した[ヴィクトル・ユシチェンコ](https://ja.wikipedia.org/wiki/ヴィクトル・ユシチェンコ "wikilink")[大統領と](https://ja.wikipedia.org/wiki/ウクライナの大統領 "wikilink")[ユーリヤ・ティモシェンコ](https://ja.wikipedia.org/wiki/ユーリヤ・ティモシェンコ "wikilink")[首相は](https://ja.wikipedia.org/wiki/ウクライナの首相 "wikilink")[ウクライナ](../Page/ウクライナ.md "wikilink")の親欧米路線をしている。ブッシュは[ウクライナ](../Page/ウクライナ.md "wikilink")と[グルジアのNATO加盟を支持していたが](../Page/ジョージア_\(国\).md "wikilink")、両国の加盟はフランスやドイツが難色を示しており、またロシアからも強い反発があった。その結果、ウクライナとグルジアのNATO加盟はブッシュ政権下では見送りとなった。ウクライナは西部が親欧米、東部は親ロシアであるために東部からの親ロシア派からは[ソ連国旗を掲げブッシュの人形を燃やす場面が見られた](https://ja.wikipedia.org/wiki/ソビエト連邦の国旗 "wikilink")。
+  - アルバニア
+    セルビア共和国自治州コソボ独立促進のため、アルバニアを訪問した。[アルバニア](../Page/アルバニア.md "wikilink")への初の米大統領訪問となったため、ブッシュは熱烈な歓迎を受けるという珍しい事例である。アルバニアのNATO加盟については、ブッシュは支持はするが、「アルバニアはより政治的、軍事的な改革を行い、組織化された犯罪を根絶せねばならない」とまだまだ加盟までに準備が必要であることを言及した。アルバニアに対し、平和を維持し、コソボ自治州の独立交渉を進展させていくように促進した。当時のアルバニアは[アルバニア暴動の発生など混乱も生じていたが](https://ja.wikipedia.org/wiki/1997年アルバニア暴動 "wikilink")、ブッシュは粘り強く支援を続け、2009年のNATO加盟実現に漕ぎ着けた。
+    これらの経緯から、アルバニア国民がブッシュに寄せる愛着は強い\[106\]。2011年、同国のフシャクルヤ町に、アルバニア訪問時の姿を模したブッシュの銅像が建立された\[107\]。また、フシャクルヤ町には、ブッシュの名を冠した広場も設けられている\[108\]。
+  - アフガニスタン
+    [アフガニスタン](../Page/アフガニスタン.md "wikilink")ではタリバン政権が崩壊し、親米政権が樹立した。さらに各国からの200億ドルの支援が施されている。アフガン人は[ソ連のアフガニスタン侵攻](https://ja.wikipedia.org/wiki/ソ連のアフガニスタン侵攻 "wikilink")で未だにロシアを激しく嫌っており、アメリカに対してはタリバンからの解放軍のように歓迎して親米政権も樹立していると宣伝されてきたが、実際には、2008年段階でアフガニスタンで内戦は続き、親米[ハーミド・カルザイ](../Page/ハーミド・カルザイ.md "wikilink")政権は首都付近に勢力を持った。
+  - アフリカ
+    [アフリカ](../Page/アフリカ.md "wikilink")諸国に対する支援に極めて熱心であり、[教育](../Page/教育.md "wikilink")、[医療](../Page/医療.md "wikilink")活動への支援とともに、[紛争](../Page/紛争.md "wikilink")や[内戦](../Page/内戦.md "wikilink")の終結を目指し積極的な仲介工作を展開した\[109\]。ブッシュ政権はアフリカ諸国への二国間支援を特に重視しており、その年間支出はクリントン政権時の4倍に達した\[110\]。ブッシュの積極的な支援活動に対しては、アフリカ諸国からも評価する声が強い。大統領退任前後には、ブッシュの功績を称える市民らが[新生児](https://ja.wikipedia.org/wiki/新生児 "wikilink")に「ジョージ・ブッシュ」と命名する[社会現象](../Page/社会現象.md "wikilink")が発生し、[アフリカ大陸](../Page/アフリカ大陸.md "wikilink")北部地域を中心に流行した\[111\]。アフリカ地域の紛争に対処する[アメリカアフリカ軍](../Page/アメリカアフリカ軍.md "wikilink")を創設し、父ブッシュと同様に[ソマリア内戦](https://ja.wikipedia.org/wiki/ソマリア内戦 "wikilink")にも介入した。
+  - オセアニア
+    [オーストラリア](../Page/オーストラリア.md "wikilink")は対テロ戦争とイラク戦争を支持して派兵したが、[ニュージーランド](../Page/ニュージーランド.md "wikilink")は派兵をしていない。またニュージーランドのオークランドとウェリントンで、人気ピザチェーンの『地獄ピザ（Hell）』が看板広告のブッシュ大統領の写真に『地獄（ピザ）：悪魔野郎には贅沢すぎる』『地獄（ピザ）にだって規範はある』のキャッチコピーが添えられており、ブッシュ政権に対する[皮肉](https://ja.wikipedia.org/wiki/皮肉 "wikilink")とも言える。
+  - その他の国
+    ブッシュはアフガニスタン侵攻からイラク戦争までイスラム社会から憎悪の対象となっており、その度にイスラム社会の[マクドナルド](../Page/マクドナルド.md "wikilink")や[ケンタッキーフライドチキン](https://ja.wikipedia.org/wiki/ケンタッキーフライドチキン "wikilink")の店舗などに破壊や放火があり、[南米訪問や大統領退任後の](../Page/南アメリカ.md "wikilink")[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")訪問でも現地民から抗議行動を受けており、大統領退任後も[パキスタン](../Page/パキスタン.md "wikilink")では反戦抗議があった。しかしアメリカはイラクでも莫大な復興支援を提供し、[イスラエル](../Page/イスラエル.md "wikilink")・[パレスチナ](../Page/パレスチナ.md "wikilink")の和平プロセスを進めており、パレスチナに多額の復興支援をしているが、結局[2009年のガザ侵攻でブッシュは拒否権を出したために関係は再び悪化してしまった](https://ja.wikipedia.org/wiki/ガザ紛争_\(2008年-2009年\) "wikilink")\[112\]。また[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")を廃棄した事を宣言してかつてのテロの和解金を出した[リビア](https://ja.wikipedia.org/wiki/リビア "wikilink")の[カダフィ](https://ja.wikipedia.org/wiki/カダフィ "wikilink")大佐との関係は良好化している。イスラム社会から恐怖の存在で憎悪の対象となったブッシュだが、かつてはテロ支援国家だったリビアのカダフィ政権を保障した寛容性があった。
+
+## 人物
+
+### 人物像
+
+名門イエール大学を卒業し、ハーバード・ビジネススクールで経営学修士を取得しており、双璧とされるイェールとハーバードを出るという歴代大統領の中でも「高学歴」だが、後に本人が母校での演説で「成績がCでも大統領になれる」とジョークのネタにしたように学生時代の成績は芳しくなかった。
+
+ニューヨーク市立大学教授で、ハーバード時代のブッシュが受講する授業を担当した[霍見芳浩](../Page/霍見芳浩.md "wikilink")は、大統領就任が決まった直後の日本のマスコミの取材で当時のブッシュの印象を聞かれて「普通、授業を教えた生徒の事はいちいち覚えていないものだが、彼は非常に出来の悪い生徒だったのでよく覚えている」「もう箸にも棒にもかからない」「典型的な金持ちのお坊ちゃま。怠惰で授業態度も悪く、大統領はおろかどんな組織のリーダーも務まる人物ではないと思った」と答えている\[113\]。
+
+大統領候補時代に、記者から「[パキスタンの大統領](https://ja.wikipedia.org/wiki/パキスタンの大統領 "wikilink")の名前は?」と質問され答えられない\[114\] など、就任前から大統領としてふさわしい知性の持ち主か否か、危ぶむ声があった（ブッシュが同じような質問を記者にすると「私は記者だが、あなたは大統領候補だ」と返された）。大統領就任後も、2001年11月の[ブラジル連邦共和国大統領](../Page/ブラジル連邦共和国大統領.md "wikilink")[フェルナンド・エンリケ・カルドーゾ](https://ja.wikipedia.org/wiki/フェルナンド・エンリケ・カルドーゾ "wikilink")との首脳会談上の席上、「あなたの国にも[黒人はいるのか](../Page/ネグロイド.md "wikilink")？」と尋ねて、その場でライス安全保障問題担当補佐官に訂正されるエピソードがある\[115\] など、知性を疑われるような発言を何度も繰り返した。これらの迷言癖は俗に「[ブッシズム](https://ja.wikipedia.org/wiki/ブッシズム "wikilink")」\[116\] と呼ばれる。
+
+他の歴代大統領と比較して著しくボキャブラリーが貧困であるとされた。耳慣れない人名や地名をよく間違って発音することでも有名で、[アブグレイブ刑務所](https://ja.wikipedia.org/wiki/アブグレイブ刑務所 "wikilink")の囚人虐待事件に関する演説では「アブグレイブ」の発音を一度もまともに言えなかった。2007年9月、[オーストラリア](../Page/オーストラリア.md "wikilink")・[シドニー](https://ja.wikipedia.org/wiki/シドニー "wikilink")で行われた[APECの演説では](../Page/アジア太平洋経済協力.md "wikilink")、[OPECと言い間違えた上にこの演説で三回もの言い間違いをし](../Page/石油輸出国機構.md "wikilink")、参加者から失笑をかった。言い間違いを防ぐため、演説原稿に出てくる各国首脳の名前や国名、首都名に“読みがな”がふられていたことも発覚している\[117\]。
+
+第1回目の大統領選挙の公開討論の席で、[アル・ゴア](../Page/アル・ゴア.md "wikilink")がブッシュを小馬鹿にするような態度を示したが、それに対し誠実な対応を行ったことが有権者の好意的評価に結びついたとされる。
+
+戦争中に、ラムズフェルドが戦死した兵士の家族への手紙の署名に[オート・ライター](https://ja.wikipedia.org/wiki/オート・ライター "wikilink")を使用したのとは対照的に、ブッシュは直筆の手紙を出し続けている。また、人権問題に関心が深いこともあり、[北朝鮮による日本人拉致問題](../Page/北朝鮮による日本人拉致問題.md "wikilink")に深い興味と理解を示し、拉致被害者の家族が訪米した際には、[ホワイトハウス](../Page/ホワイトハウス.md "wikilink")で面会した。
+
+ブッシュ自身は側近の意見に耳を傾けていると言われ、特に外交に関しては穏健派のパウエル国務長官と強硬派のライス補佐官に議論をさせ、ライスの意見を支持しイラク戦争に向かったとされる。ライス補佐官は第2期政権において国務長官に起用された。ブッシュの意を受けたライスは国防総省を牽制しつつ、外交に重きを置きながらイラクの武力支配を正当化しようという戦略をとっている。
+
+[AP通信](https://ja.wikipedia.org/wiki/AP通信 "wikilink")社がアメリカ国民を対象に行った[世論調査](https://ja.wikipedia.org/wiki/世論調査 "wikilink")では、2006年の「憎まれ役」「英雄」でそれぞれ1位に選ばれた。ちなみに「憎まれ役」は2位以下、[ウサーマ・ビン・ラーディン](../Page/ウサーマ・ビン・ラーディン.md "wikilink")、[サッダーム・フセイン](../Page/サッダーム・フセイン.md "wikilink")、[マフムード・アフマディーネジャード](https://ja.wikipedia.org/wiki/マフムード・アフマディーネジャード "wikilink")、[金正日](https://ja.wikipedia.org/wiki/金正日 "wikilink")。「英雄」は2位以下、イラク駐留アメリカ軍、バラク・オバマ。また、[ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink")以降の歴代大統領を、ホワイトハウスで取材してきたジャーナリスト、[ヘレン・トーマス](../Page/ヘレン・トーマス.md "wikilink")は、彼を「今までで最悪の大統領。アメリカ史上最悪の大統領 (This is the worst President ever. He is the worst President in all of American history. )」\[118\] と酷評している。また2004年ブッシュが再選されたとき、ブッシュに批判的なアメリカ人はカナダに移住したそうである。
+
+一方でライス国務長官は政権末期の米[CBS](../Page/CBS.md "wikilink")テレビとのインタビューで、ブッシュが直面してきた状況について「[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後で最も厳しい時期だったのではないか」との見方を示し、そのなかでブッシュが下してきた決断は「時を経て記憶にとどまるだろう」とし、イラクのフセイン政権打倒や中華人民共和国、[インド](../Page/インド.md "wikilink")、ブラジルなどとの良好な関係を例に挙げ、「歴史がブッシュ政権に良い評価を下すだろう」と述べた。
+
+2002年1月テレビでフットボール観戦中、菓子の[プレッツェル](https://ja.wikipedia.org/wiki/プレッツェル "wikilink")をのどに詰まらせて気絶し倒れて目尻の横を怪我をして、マスコミに大きく報じられたことがある。本人は苦笑しながらこの一件について釈明した。
+
+[AIDS](https://ja.wikipedia.org/wiki/AIDS "wikilink")の撲滅運動にも熱心で、2004年、[エルトン・ジョン](../Page/エルトン・ジョン.md "wikilink")はコンサートにやって来たブッシュ夫妻と直接面会した際に、彼の政策への強い不満の一方で、彼の魅力と「優しさ」を覚えたとし、教訓になったと述べた\[119\]。
+
+身長は5[フィート](../Page/フィート.md "wikilink")11.5インチ（約182cm）である\[120\]。
+
+### 宗教
+
+学生時代には大量の飲酒を行う時代もあったものの、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[ビリー・グラハム](../Page/ビリー・グラハム.md "wikilink")[牧師](../Page/牧師.md "wikilink")と出会って以降、その当時患っていた[アルコール依存症](../Page/アルコール依存症.md "wikilink")を[ローラ夫人の支えもあって克服し](https://ja.wikipedia.org/wiki/ローラ・ブッシュ "wikilink")、現在では敬虔な[クリスチャンとして知られており](../Page/キリスト教徒.md "wikilink")、宗派は妻と同じ[メソジスト](../Page/メソジスト.md "wikilink")である\[121\]。約40歳からという一般的に見れば遅い宗教への目覚めではあるが、信仰心は篤く毎朝5時には起床し祈りをささげることが日課になっている。そのため、生活リズムは早寝早起きである\[122\]。
+
+### 愛読書
+
+読書家としての側面も知られており、専用機での時間や週末の多くを読書に費やすという\[123\]。ジャーナリストのエリザベス・ビュミラーの取材によると、愛読書として聖書のほか、建国者[ワシントン](../Page/ジョージ・ワシントン.md "wikilink")、[ハミルトンの評伝があげられた](https://ja.wikipedia.org/wiki/アレクサンダー・ハミルトン "wikilink")。この他[トム・ウルフ](../Page/トム・ウルフ.md "wikilink")の小説の熱烈なファンで、イスラエルの作家[ナタン・シャランスキー](https://ja.wikipedia.org/wiki/ナタン・シャランスキー "wikilink")の本を盛んに周囲に勧めていたことが伝えられている\[124\]\[125\]。
+
+### ペット
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Barney_oval_office.jpg "wikilink") [動物](https://ja.wikipedia.org/wiki/動物 "wikilink")愛好家として知られており、愛[犬](https://ja.wikipedia.org/wiki/犬 "wikilink")のバーニーをはじめ、[豚](https://ja.wikipedia.org/wiki/ブタ "wikilink")、[猫](../Page/ネコ.md "wikilink")、[猿](../Page/サル.md "wikilink")、[トカゲ](../Page/トカゲ.md "wikilink")など複数の[ペット](../Page/ペット.md "wikilink")を飼育している。また、[昆虫](../Page/昆虫.md "wikilink")収集に熱心である。特にホワイトハウス内で同居していた愛犬のバーニーは、[テレビ](../Page/テレビ.md "wikilink")で一緒の姿を映されることも多いためアメリカ国内ではつとに有名である。
+
+### スポーツ
+
+大の野球ファンとして有名で、1989年からはテキサス・レンジャーズの共同オーナーも務めていた。当時のテキサス・レンジャーズ監督は2005年11月15日に[大阪国際空港](https://ja.wikipedia.org/wiki/大阪国際空港 "wikilink")でジョージ・W・ブッシュを出迎えた[ボビー・バレンタイン](https://ja.wikipedia.org/wiki/ボビー・バレンタイン "wikilink")。大統領時代も度々[メジャーリーグベースボール](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")の始球式を行っている。2009年11月3日、東京ドームで行われたプロ野球日本シリーズ第3戦（日本ハム－読売ジャイアンツ）の始球式にも登場した。2002年に[メジャーリーグベースボール選手会](https://ja.wikipedia.org/wiki/メジャーリーグベースボール選手会 "wikilink")の[ストライキが濃厚になった時にはストライキの中止を求めるコメントを出した](https://ja.wikipedia.org/wiki/プロ野球ストライキ#2002年のストライキ危機 "wikilink")。その結果、ストライキは直前で中止された。
+
+### 語録
+
+  - 「これは[戦争](../Page/戦争.md "wikilink")だ」（[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")に際して）
+  - 「アメリカにつくのか、それともテロリストにつくのか、いずれか決めよ」（同上、世界各国に対して）
+  - 「“限りなき正義”作戦」（これは[イスラム圏](https://ja.wikipedia.org/wiki/イスラム圏 "wikilink")では[アラー](https://ja.wikipedia.org/wiki/アラー "wikilink")を意味し、無分別だと批判されたため以後は「[不朽の自由作戦](../Page/不朽の自由作戦.md "wikilink")」に改められた）
+  - 「来るなら、来い！」(My answer is bring them on.) テロリズムに対峙して毅然とした態度を表明して。
+  - 「[悪の枢軸](../Page/悪の枢軸.md "wikilink")」(axis of evil) [2002年](../Page/2002年.md "wikilink")当時の北朝鮮、イラン、イラクの3ヵ国を指して。
+
+## 脚注
+
+## 関連項目
+
+  - [ブッシュ家](https://ja.wikipedia.org/wiki/ブッシュ家 "wikilink")
+
+  - [ジョージ・ウォーカー・ブッシュに関する書籍・映画の一覧](https://ja.wikipedia.org/wiki/ジョージ・ウォーカー・ブッシュに関する書籍・映画の一覧 "wikilink")
+
+  - \- [南メソジスト大学](https://ja.wikipedia.org/wiki/南メソジスト大学 "wikilink")内の記念館
+
+  - [ハーバード大学の人物一覧](https://ja.wikipedia.org/wiki/ハーバード大学の人物一覧 "wikilink")
+
+  - [アフガニスタン国際戦犯民衆法廷](../Page/アフガニスタン国際戦犯民衆法廷.md "wikilink")
+
+  - [アメリカのアフガニスタン侵攻](https://ja.wikipedia.org/wiki/アメリカのアフガニスタン侵攻 "wikilink")
+
+  - [イラク戦争](../Page/イラク戦争.md "wikilink")
+
+  - [カーライル・グループ](https://ja.wikipedia.org/wiki/カーライル・グループ "wikilink")
+
+  - [プレイム事件](../Page/プレイム事件.md "wikilink")
+
+  - [新保守主義](../Page/新保守主義.md "wikilink")
+
+  - [ルドルフ・ジュリアーニ](https://ja.wikipedia.org/wiki/ルドルフ・ジュリアーニ "wikilink")
+
+  - [マイケル・ムーア](https://ja.wikipedia.org/wiki/マイケル・ムーア "wikilink")
+
+  - [ウゴ・チャベス](https://ja.wikipedia.org/wiki/ウゴ・チャベス "wikilink")
+
+  - [華氏911](../Page/華氏911.md "wikilink")
+
+  - [タカ派チキン](https://ja.wikipedia.org/wiki/タカ派チキン "wikilink")
+
+  - [はらぺこあおむし](../Page/はらぺこあおむし.md "wikilink")
+
+  - [アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")
+
+  - [アメリカ同時多発テロ事件陰謀説](../Page/アメリカ同時多発テロ事件陰謀説.md "wikilink")
+
+  - [大統領暗殺](../Page/大統領暗殺.md "wikilink")
+
+  - [ブッシュイズム](https://ja.wikipedia.org/wiki/ブッシュイズム "wikilink")
+
+  - [ブッシュ (映画)](https://ja.wikipedia.org/wiki/ブッシュ_\(映画\) "wikilink")
+
+  - [スティーブ・ブリッジス](https://ja.wikipedia.org/wiki/スティーブ・ブリッジス "wikilink") - アメリカのコメディアン。ブッシュの物真似を得意としており、2006年のホワイトハウス記者会主催夕食会ではブッシュ本人と共演した。
+
+## 外部リンク
+
+  - [ホワイトハウス人物紹介 - ジョージ・W・ブッシュ](http://www.whitehouse.gov/about/presidents/georgewbush/)
+  - [共和党人物紹介 - ジョージ・W・ブッシュ](https://web.archive.org/web/20070414215908/http://www.gop.com/About/Bio.aspx?id=1)
+
+` `
+` `
+
+` `
+
+` `
+
+[Category:ジョージ・W・ブッシュ](https://ja.wikipedia.org/wiki/Category:ジョージ・W・ブッシュ "wikilink") [Category:アメリカ合衆国の大統領](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の大統領 "wikilink") [Category:アメリカ合衆国大統領の子女](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国大統領の子女 "wikilink") [Category:テキサス州知事](https://ja.wikipedia.org/wiki/Category:テキサス州知事 "wikilink") [Category:アメリカ合衆国の実業家](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の実業家 "wikilink") [Category:アメリカ同時多発テロ事件の人物](https://ja.wikipedia.org/wiki/Category:アメリカ同時多発テロ事件の人物 "wikilink") [Category:イラク戦争の人物](https://ja.wikipedia.org/wiki/Category:イラク戦争の人物 "wikilink") [Category:アメリカ合衆国の政治史_(1990年-)](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の政治史_\(1990年-\) "wikilink") [Category:ブッシュ家](https://ja.wikipedia.org/wiki/Category:ブッシュ家 "wikilink") [Category:世襲政治家](https://ja.wikipedia.org/wiki/Category:世襲政治家 "wikilink") [Category:ラジー賞受賞者](https://ja.wikipedia.org/wiki/Category:ラジー賞受賞者 "wikilink") [Category:MLBのオーナー](https://ja.wikipedia.org/wiki/Category:MLBのオーナー "wikilink") [Category:テキサス・レンジャーズ関連人物](https://ja.wikipedia.org/wiki/Category:テキサス・レンジャーズ関連人物 "wikilink") [Category:イェール大学出身の人物](https://ja.wikipedia.org/wiki/Category:イェール大学出身の人物 "wikilink") [Category:アメリカ合衆国の福音主義者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の福音主義者 "wikilink") [Category:メソジスト派の信者](https://ja.wikipedia.org/wiki/Category:メソジスト派の信者 "wikilink") [Category:アイビー・リーガー](https://ja.wikipedia.org/wiki/Category:アイビー・リーガー "wikilink") [Category:ハーバード大学出身の人物](https://ja.wikipedia.org/wiki/Category:ハーバード大学出身の人物 "wikilink") [Category:ニューヘイブン出身の人物](https://ja.wikipedia.org/wiki/Category:ニューヘイブン出身の人物 "wikilink") [Category:1946年生](https://ja.wikipedia.org/wiki/Category:1946年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+
+1.
+2.
+3.
+4.  [Bush: Bin Laden Wanted Dead or Alive - ABC News](http://abcnews.go.com/US/story?id=92483)
+5.
+6.
+7.
+8.  [2004 Presidential Election Results](http://uselectionatlas.org/RESULTS/national.php?year=2004)
+9.  [13 October 2004 "The Third Bush-Kerry Presidential Debate" transcript](http://www.debates.org/pages/trans2004d.html)
+10. CNN's exit poll showed Terrorism (19%) and Iraq (15%) as the third and fourth most important issues behind Moral Values (22%) and the Economy (20%) ["CNN — U.S. President / National / Exit Poll / Election 2004"](http://www.cnn.com/ELECTION/2004/pages/results/states/US/P/00/epolls.0.html)
+11.
+12.
+13.
+14.
+15. [ブッシュの｢成功｣に勝てるか　麻生首相の実績とは](http://www.j-cast.com/tv/m/2009/01/21033961.html) J-CASTモバイル テレビウォッチ
+16.
+17.
+18. See also
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51. [CNN.com: "Bush tours ground zero in lower Manhattan"](http://edition.cnn.com/2001/US/09/14/bush.terrorism/)
+52.
+53. [U.S. Report to the UN Counterterrorism Committee](http://www.state.gov/p/io/rls/rpt/2001/6917.htm)
+54. "U.S. President Bush's speech to United Nations". CNN.com. November 10, 2001
+55. "Bush likens 'war on terror' to WWIII". ABC News Online – Abc.net.au. 06/05/2006.
+56. MacKay, Duncan (February 15, 2002). "Chariots of ire: is US jingoism tarnishing the Olympic ideal?". The Guardian. UK. Retrieved September 2, 2008.
+57. CBS 60ミニッツ「沈みゆく町」
+58. マイケル・エリック・ダイソン著 カトリーナが洗い流せなかった貧困のアメリカ
+59. [ブレア、ハワード、ウリベの3氏に自由勲章](http://www.jiji.com/jc/a/err/b/jc/a?g=afp_int&k=20090114020735a)時事通信、2009年1月14日
+60. [ブレア氏ら3人に最高勲章 ブッシュ米大統領](http://www.iza.ne.jp/news/newsarticle/world/asia/212278/)  産経新聞、2009年1月14日
+61. Ed Stoddard・Chris Baltimore、植竹知子訳「政治の表舞台去るブッシュ米大統領の今後」『[政治の表舞台去るブッシュ米大統領の今後|ワールド|Reuters](http://jp.reuters.com/article/worldNews/idJPJAPAN-35890420090115)』[トムソン・ロイター](https://ja.wikipedia.org/wiki/トムソン・ロイター "wikilink")、2009年[1月15日](../Page/1月15日.md "wikilink")。
+62. Darrell Preston「さすがダラス――ブッシュ氏大歓迎」『[Bloomberg／さすがダラス ブッシュ氏大歓迎 - FujiSankei Business i.／Bloomberg GLOBAL FINANCE](http://www.business-i.jp/news/bb-page/news/200902040073a.nwc)』[産経デジタル](https://ja.wikipedia.org/wiki/産経デジタル "wikilink")、2009年[2月4日](../Page/2月4日.md "wikilink")。
+63. 「世界恐慌の元凶『ブッシュさん』が店にやってきた\!」『[週刊新潮](../Page/週刊新潮.md "wikilink")』54巻11号、[新潮社](../Page/新潮社.md "wikilink")、2009年3月19日。
+64.
+65.
+66.
+67.
+68. 映画の公式サイトのメッセージ
+69. 日本では、2011年4月23日に[日本経済新聞出版社](https://ja.wikipedia.org/wiki/日本経済新聞出版社 "wikilink")より刊行。
+70.
+71. [George Bush Book 'Decision Points' Lifted From Advisers' Books](http://www.huffingtonpost.com/2010/11/12/george-bush-book-decision-points_n_782731.html#s180908) THE HUFFINGTON POST　11-12-10 01:48 PM
+72. [第43代アメリカ合衆国大統領 ジョージ・W・ブッシュ氏があしなが育英会に寄付―前駐日大使シーファー氏の勧めで―](http://www.ashinaga.org/news/press/entry-420.html)（2011年11月21日、あしなが育英会プレスリリース）
+73.
+74.
+75.
+76. <http://jp.reuters.com/article/economicNews/idJPnTK321360320070711>
+77. [Essay;Where Is Globocop? - New York Times](http://www.nytimes.com/1995/07/03/opinion/essay-where-is-globocop.html)
+78. [Playing Globocop - Newsweek](http://www.newsweek.com/playing-globocop-193746)
+79. [Pentagon steps closer to 'GloboCop' role - Asia Times Online](http://www.atimes.com/atimes/Middle_East/EF14Ak01.html)
+80. [Time to get tough on defense spending - Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/06/22/AR2010062201999.html)
+81. [The Reluctant Globocop:What Is NATO's Role? - SPIEGEL ONLINE](http://www.spiegel.de/international/world/the-reluctant-globocop-what-is-nato-s-role-a-616547.html)
+82. ブッシュ政権、科学者に圧力？ 温暖化報告書めぐり 『[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")』 2006年9月28日
+83.
+84.
+85. [ベトナム戦争](../Page/ベトナム戦争.md "wikilink")では米軍撤退後に隙を狙った[北ベトナムがサイゴンを陥落させ](https://ja.wikipedia.org/wiki/ベトナム民主共和国 "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")でもアメリカ軍に協力した[南ベトナム](../Page/南ベトナム.md "wikilink")の市民は北ベトナム政府によって[強制収容所](../Page/強制収容所.md "wikilink")に送られ[虐殺](https://ja.wikipedia.org/wiki/虐殺 "wikilink")[拷問](../Page/拷問.md "wikilink")とひどい扱いを受けた。
+86. [1](http://www.biglizards.net/strawberryblog/archives/2007/08/post_524.html)
+87. [イラク：テロ犠牲者１００人超える　治安体制に批判の声](http://mainichi.jp/select/world/news/20090821k0000e030055000c.html)
+88.
+89. <http://www.j-cast.com/2007/08/27010694.html>
+90.
+91.
+92. .
+93. \["U.S. State Department - China (03/03)"\]. state.gov. Retrieved 2011-06-06.
+94.
+95. [2](http://www.epochtimes.jp/jp/2008/08/html/d83492.html)
+96. [ブッシュ親子の見た中国三大変化](http://www.pekinshuho.com/ggkf30zn/txt/2008-11/19/content_165459.htm)
+97. その時期は2009年の7月にクリントン前大統領が北朝鮮に侵入して拘束された女性記者を釈放するために訪朝した時期であった
+98. [ボブ・ウッドワード](../Page/ボブ・ウッドワード.md "wikilink")『State of Denial:Bush at War, Part III』
+99.
+100. 寺林裕介 「」
+101. <http://georgewbush-whitehouse.archives.gov/news/releases/2008/06/20080626-9.html>
+102. <http://georgewbush-whitehouse.archives.gov/news/releases/2008/06/20080626-4.html>
+103.
+104. [緊急\!ビートたけしの独裁国家で何が悪い\!](../Page/緊急!ビートたけしの独裁国家で何が悪い!.md "wikilink")ではモラレスのアメリカに対して一歩も引かない姿勢でゲストが拍手して笑みを浮かべていた。
+105. 斎藤元秀 「」
+106. 石田博士「ブッシュ前大統領感謝の銅像建立――アルバニア」『朝日新聞』44989号、13版、[朝日新聞東京本社](https://ja.wikipedia.org/wiki/朝日新聞東京本社 "wikilink")、[2011年](../Page/2011年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")、12面。
+107.
+108.
+109.
+110. David Blair, "Analysis:How George W Bush became an African hero", *[Analysis:How George W Bush became an African hero - Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/2262217/Analysis-How-George-W-Bush-became-an-African-hero.html)*, [Daily Telegraph](https://ja.wikipedia.org/wiki/デイリー・テレグラフ "wikilink"), [July 7](https://ja.wikipedia.org/wiki/7月7日 "wikilink"), [2008](https://ja.wikipedia.org/wiki/2008年 "wikilink").
+111.
+112. [3](http://www.afpbb.com/article/politics/2327193/2464916)
+113. 2000年11月27日付けの日刊ゲンダイ,CNN.COM　2004年9月13日配信記事　 <http://edition.cnn.com/2004/ALLPOLITICS/09/13/bush.professor/>
+114. <http://www.cnn.com/ALLPOLITICS/stories/1999/11/05/bush.popquiz/>
+115. <http://www.snopes.com/quotes/brazil.asp>
+116.
+117. 「[「読みがな」をふったブッシュ大統領の演説草稿 誤って国連ウェブサイトに掲載される](http://www.afpbb.com/article/politics/2288837/2181421)」 [フランス通信社](../Page/フランス通信社.md "wikilink")、2007年9月26日。2009年1月4日閲覧。
+118. <http://en.wikiquote.org/wiki/Helen_Thomas>
+119. <http://news.yahoo.com/blogs/power-players-abc-news/elton-john-george-w-bush-taught-lesson-040430553.html?_esi=1>
+120. [The height differences between all the US presidents and first ladies](https://www.businessinsider.com/us-president-first-lady-height-differences-2018-7) [ビジネス・インサイダー](https://ja.wikipedia.org/wiki/ビジネス・インサイダー "wikilink")
+121.
+122. マイケル・ユー「ホワイトハウスの職人たち」新潮社 2006 p.120より
+123. [中岡望](../Page/中岡望.md "wikilink")「ホワイトハウスの必読書」、[中央公論](https://ja.wikipedia.org/wiki/中央公論 "wikilink")2005年7月号
+124. [Bush's Official Reading List, and a Racy Omission](http://www.nytimes.com/2005/02/07/politics/07letter.html)
+125. [What the president reads](http://edition.cnn.com/2005/ALLPOLITICS/01/10/bush.readinglist.tm)

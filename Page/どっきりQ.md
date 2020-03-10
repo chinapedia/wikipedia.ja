@@ -1,0 +1,25 @@
+> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+
+
+『**どっきりQ**』（どっきりキュー）は、[関西テレビほかで放送されていた関西テレビ製作の](../Page/関西テレビ放送.md "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。製作局の関西テレビでは1985年7月7日から1989年6月25日まで、毎週日曜 11:25 - 11:55 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
+
+## 出演者
+
+  - 司会者：[村野武範](https://ja.wikipedia.org/wiki/村野武範 "wikilink")
+  - アシスタント：飯干恵子（後の[飯星景子](https://ja.wikipedia.org/wiki/飯星景子 "wikilink")）
+  - 解答者：4 - 5人程度の芸能人ゲスト
+
+## 進行方式
+
+街を行く一般人にいたずらを仕掛け、彼らの反応を予想するクイズに出場者たちが答えていた。
+
+トップ賞に輝いた解答者は、「どっきり爆弾」と「どっきりキッス」というチャレンジゲームに挑戦できた。前者は4 - 5色あるカラースイッチの中からいずれか1つを選んで押し、その際に爆弾が爆発しなければ大量の紙吹雪が舞って賞品を貰えるというものだった。「どっきり爆弾に点火して‥‥しまいました‼︎」というのが、お約束のセリフであった。
+
+## ネット局
+
+  - [関西テレビ](../Page/関西テレビ放送.md "wikilink")（**製作局**）：日曜 11:25 - 11:55 （1985年7月7日 - 1989年6月25日） - 本番組の放送期間中、フジテレビ製作の『[笑っていいとも\!増刊号](https://ja.wikipedia.org/wiki/笑っていいとも!増刊号 "wikilink")』（日曜 10:00 - 11:50）を11:25で飛び降りていた。その後、本番組の終了後は『増刊号』のフルネットに戻った。
+  - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")：日曜 9:30 - 10:00
+  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")：日曜 12:00 - 12:30 （1988年4月 - 同年9月） - 当時は[日本テレビ系列と](../Page/日本テレビネットワーク協議会.md "wikilink")[テレビ朝日系列の](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")。ネットを開始するまでは『[象印クイズ ヒントでピント](../Page/象印クイズ_ヒントでピント.md "wikilink")』（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")製作、日曜19:30枠）を遅れネットで放送していた。
+  - このほかに、一時期においては、[群馬テレビ](../Page/群馬テレビ.md "wikilink")・[千葉テレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")・[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")などの関東の[独立UHF放送局もネットしていたことがある](../Page/全国独立放送協議会.md "wikilink")。
+
+[Category:1985年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1985年のテレビ番組_\(日本\) "wikilink") [Category:関西テレビのクイズ番組](https://ja.wikipedia.org/wiki/Category:関西テレビのクイズ番組 "wikilink") [Category:関西テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビのクイズ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのクイズ番組の歴史 "wikilink")

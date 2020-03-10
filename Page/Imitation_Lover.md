@@ -1,0 +1,83 @@
+> この記事は[Imitation Lover](https://ja.wikipedia.org/wiki/Imitation_Lover)から翻訳されています。
+
+
+『**Imitation Lover**』（イミテーション・ラバー）は、[light](https://ja.wikipedia.org/wiki/light "wikilink")が2006年1月27日に発売した[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。
+
+## ストーリー
+
+学園でも目立たない少年・来栖樹。彼にとって、クラスメイトである一之瀬響の存在はあまりに遠いものだった。
+彼女は「五千円で売春をしている」といった悪評が絶えず、学園内でもマイナスの意味で有名人。
+しかし、ある日の放課後、響は樹にこんな申し出をしてきたのだった。
+
+「カンニングさせてくれたら、あたしの処女あげるから」
+
+その言葉に耳を疑わずにはいられなかった樹だが、ついに流されるまま彼女のカンニングを手伝ってしまう。
+しかし樹は知った。
+彼女の言葉が本当であった事を────
+それから、二人は恋愛感情もないまま、身体を重ねるという奇妙な関係を続けるのだった……。
+
+## 登場人物
+
+  - 来栖樹（くるす いつき）声：笠原准
+    本作の主人公である高校2年生。成績優秀だが、学園では目立たないタイプで、クラスメイトから名前すら覚えられていない存在。加えて、自分に自信もなく、自己評価も低い。
+    桐沢伊織に憧れてはいるものの、「高嶺の花」だと自己完結しており、特に彼女にアピールしようとも思っていない。
+    城戸尚也とは友人の関係にあるが、周囲からは彼の付属物と思われている。しかしながら、樹本人はそう思われる事に不快感を覚えている訳でもなく、むしろ何事にも波風立てず、干渉されず、空気のように扱われる事を望んでいる。
+  - 一之瀬響（いちのせ きょう）声：[青山ゆかり](https://ja.wikipedia.org/wiki/青山ゆかり "wikilink")
+    樹のクラスメイト。人目を惹く魅力的な容姿を持つが、それ故に同性からは妬まれ、異性からは御しかねる存在だと敬遠されている。更には、「五千円で身体を売っている」など悪い噂も絶えず、周囲からは腫れ物扱いされている。
+    しかし、響自身はいたって明るい性格で、話してみるとノリが良く、愛嬌もある少女である。
+  - 園村円香（そのむら まどか）声：[成瀬未亜](https://ja.wikipedia.org/wiki/成瀬未亜 "wikilink")
+    控え目で引っ込み思案な1年生。文科系で、性格も大人しい。男性恐怖症気味だが、とある事情から樹に好意を寄せている。しかしながら、柱の陰から見守るタイプで、積極的に出られないでいる。
+    響の数少ない友人で、彼女に憧れる一方、伊織の事は苦手に思っている。また、尚也に靡かない僅かな女子の一人でもある。
+  - 桐沢伊織（きりさわ いおり）声：[安玖深音](https://ja.wikipedia.org/wiki/安玖深音 "wikilink")
+    才色兼備で学園のマドンナ的存在な3年生。丁寧且つ柔和な物腰から、同性異性を問わず誰からも好かれており、樹も彼女に憧れを抱いている者の一人。
+    響とは逆の意味で有名人。
+    尚也に対し、言葉に出来ない想いを抱えている。
+  - 城戸尚也（きど なおや）声：[壬生中将](https://ja.wikipedia.org/wiki/壬生中将 "wikilink")
+    2年生。樹の友人で、彼のアパートの隣に住んでいる。遊びもスポーツも勉強もオールマイティにこなし、美形で学園きっての遊び人。
+    彼と関係を持った女子は軽く三桁を超える。女を食い物にし、悦に入るような事はなく、むしろ女性を嫌悪している節があり、樹も内心で指摘している。そのため恋愛感情の機微は理解しておらず、本人に悪気はないものの自分に好意を寄せる相手に対して、優しさや気遣いといった類が絶望的なまでに欠け、良く言えば自然体、悪く言えば無神経な性格。
+    しかし、樹に対してだけは優しさを見せており、他の女子が嫉妬する程彼の事を気にかけている。
+
+## スタッフ
+
+  - 企画原案：[正田崇](https://ja.wikipedia.org/wiki/正田崇 "wikilink")
+  - シナリオ：[中島聖](https://ja.wikipedia.org/wiki/中島聖 "wikilink")・[黒田百年](https://ja.wikipedia.org/wiki/黒田百年 "wikilink")・[伊藤ヒロ](https://ja.wikipedia.org/wiki/伊藤ヒロ "wikilink")
+  - 原画：[泉まひる](../Page/泉まひる.md "wikilink")
+  - 音楽：[幡手康隆](https://ja.wikipedia.org/wiki/幡手康隆 "wikilink") (T's MUSIC)
+  - ボーカル：[榊原ゆい](https://ja.wikipedia.org/wiki/榊原ゆい "wikilink")
+
+## 主題歌
+
+  - オープング
+
+<!-- end list -->
+
+  - [Imitation](https://ja.wikipedia.org/wiki/Imitation "wikilink")
+
+<!-- end list -->
+
+  -
+    作詞・作曲・歌：榊原ゆい / 編曲：幡手康隆
+
+  - エンディング
+
+<!-- end list -->
+
+  - [feel](https://ja.wikipedia.org/wiki/Imitation "wikilink")
+
+<!-- end list -->
+
+  -
+    作詞・作曲・歌：榊原ゆい / 編曲：幡手康隆
+
+なお、アダルトゲームの主題歌としては珍しく、[PVが制作されている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+
+## 関連項目
+
+  - [アダルトゲーム](../Page/アダルトゲーム.md "wikilink")
+  - [light](https://ja.wikipedia.org/wiki/light "wikilink")
+
+## 外部リンク
+
+  - [light Official Web site](http://www.light.gr.jp)<span style="color:red">（18歳未満閲覧禁止）</span>
+
+[Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:Light](https://ja.wikipedia.org/wiki/Category:Light "wikilink") [Category:2006年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2006年のアダルトゲーム "wikilink")

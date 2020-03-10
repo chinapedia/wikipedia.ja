@@ -1,0 +1,282 @@
+> この記事は[online](https://ja.wikipedia.org/wiki/online)から翻訳されています。
+
+
+**君主online**（原題Goonzu Onlineまたは）は韓国のゲーム会社社が開発したオンラインゲーム。[MMORPG](../Page/MMORPG.md "wikilink")に分類される。グラフィックは2D方式である。そのため比較的低スペックPCでもゲームを楽しむことができる。
+
+同タイトルは、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")国内向けの韓国サーバ－、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内向けの日本サーバ、多[国籍](../Page/国籍.md "wikilink")向けのグローバルサーバで運営されている。なお、中国や台湾においても運営されていたものの、いずれも終了された。
+
+日本では、Valofe(ヴァロフ)が日本語版を運営しており、ゲームオンのサイトを介してプレイする仕様となっている。[ハンゲーム](https://ja.wikipedia.org/wiki/ハンゲーム "wikilink")ジャパンからのプレイは2014年12月をもって終了。
+
+それぞれの[サーバ](../Page/サーバ.md "wikilink")が指定された地域以外からはアクセスできないようになっているが、[プロキシサーバ](https://ja.wikipedia.org/wiki/プロキシサーバ "wikilink")等を経由してアクセスしサーバ内経済に影響を与えている。
+
+## ゲームシステム
+
+### 世界観
+
+原作版である韓国サーバでは、16世紀の朝鮮を舞台としているが、日本サーバでは、26世紀の世界を舞台としていて、かなり大規模な[ローカライズ](https://ja.wikipedia.org/wiki/ローカライズ "wikilink")が行われている。ただし、現在では韓国でも[逆輸入](https://ja.wikipedia.org/wiki/逆輸入 "wikilink")版君主ともいえる君主Specialが運営されている。
+
+### 日本でのサーバ稼動状況
+
+2017年5月30日現在
+
+<table border="1" cellpadding="5" cellspacing="0">
+
+<th style="background-color: #efefef;">
+
+稼動状況
+
+</th>
+
+<th colspan="2" style="background-color: #ffdead;">
+
+サーバ名
+
+</th>
+
+<tr>
+
+<td>
+
+稼動中
+
+</td>
+
+<td>
+
+エナレット・アルディア・ヨウギク・フェルバーグ
+
+</td>
+
+</tr>
+
+</table>
+
+### 株式公開公募と株主総会
+
+サーバ運営の重要なイベントの一つとして、株式公開公募と株主総会がある。
+
+#### 株式公開公募
+
+このゲームでは、大体月に1回程度の割合で、運営チーム主催で株式公開公募が開催される。 発行株数や公募価格は、各サーバの物価により変動する。 通例として、金曜日か土曜日の週末に開催され、告知されると公募資金確保のため、天与石や一部素材アイテムを中心としたデフレーションが発生する。 応募受付開始時刻になると、応募の受付を各国の証券所で開始する。応募の際には、1口分の公募金を手持ちで持っている必要がある。応募完了と同時に公募金は手持ちより差し引かれる。1時間後に締め切られ抽選を開始する。 抽選に当選すると、を受け取ることができ、直ぐに売買が可能である。抽選に外れた場合、公募金は銀行口座へ振り込まれる。
+
+現在では、新規国家の株式公開公募ではなく、後に述べる国守等が不在の状態が続き、破産した国家に対して初期化措置を行い、それら国家の株式を公募という形で再発行されている（初期化前の株主には救済措置なし）。
+
+#### 株主総会
+
+抽選が終了すると、全発行株数の3％を持っているプレーヤーにより、株主総会が発議される。君主時間で3ヶ月間（現実時間で約3日間）開催される。国守推薦者の国守就任に関する議案を審議し、上位100位の投票権を持った株主により投票され、全発行株数の過半数の賛成票か、全投票総数の過半数の賛成により、国守推薦者の国守就任が確定する。
+また、2007年8月1日のアップデートで、君主時間1年（現実時間で12日）以内の連続発議に対して、発議者の持ち株から、全発行株数の1％相当分を削除するペナルティが実装された。しかし、現国守の継続発議を妨害する発議を抑制する効果はあまり見込めず、むしろ、現国守が継続発議を行うために、持ち株1％削除というペナルティを受けなければならない可能性があるという、安定した国運営に関わる悪影響もあり、ペナルティに関し賛否両論が出ている。
+
+### 国守の任命
+
+ゲームシステムは、戦闘よりも株や政治に重点をおいたシステムとなっている。ゲーム内には、「国」というコミュニティが存在し、現代の株式会社のように運営されている。国の代表者（株式会社の社長に相当）である「国守」（任期は、君主時間で2年間 現実時間で約24日）はその国の株を保有している株主によって選出される。株主総会への投票権・株式配当は、保有株式数の上位100名にのみ与えられる。全発行株式数の3％を取得すると株主総会を発議できるようになる。こうして株主総会から任命された国守は、国内に設置された施設を管理する「守令（株式会社の取締役に相当）」（任期なし）を任命できることになる。また、国守となっている人が不正・賄賂など行っていた場合、他の3％以上持っている人が株主総会を発議する事ができ、他の人を推薦として選び、賛成票が否認票より多くなった場合、現「国守」を解任し、推薦した人を「国守」とする事ができる。その場合、解任された「国守」がその時点で株式を3％以上持っていた場合、また株主総会が開かれる可能性が高い。
+
+### 国を束ねる君主の存在
+
+ゲーム内の最高権力者として「君主」の存在がある。 君主はサーバ内のプレイヤーから立候補し、プレイヤーの選挙によって決定する。 選挙に当選した君主は、[ゲームマスター](https://ja.wikipedia.org/wiki/ゲームマスター "wikilink")（GM）に君主宣誓を行い、ゲームマスターから君主服一式を貸与され君主の権限を行使することができる。
+
+#### 君主の権限
+
+  - 世界内を自由にワープできる。（ワープ特権）
+  - 任意のプレイヤーを君主のもとまで呼び出すことができる。
+  - サーバ全体に届く発言をすることができる（君主放送）。
+  - 君主専用の装備（君主服）が貸与され、キャラクターの周りにエフェクトが表示される。
+  - 世界を運営する五大臣を任命・命令できる。
+  - ボーナスタイムの開催時期を決定できる。
+  - 毎日郵便受けにGMからドロップを2倍にする効果を持つ「四つ葉のクローバー」がリアル1日につき100枚送られてくる。
+  - 「クイズクイズ」と呼ばれるクイズ機能を利用できる。
+
+#### 君主の任期と解任
+
+君主は、選挙に当選した場合、現実時間で2ヶ月間の任期があり、任期満了まで解任されることがない。ただし、君主キャラクター・アカウントの削除、長期で君主キャラクターがゲームにログインしない、運営チームの勧告等に従わない場合は、運営チームの権限で君主を解任することが出来る。なお、解任された場合は、GMが君主代行に就任し、次の選挙の開催まで、GM君主がサーバを統治する。五大臣は、君主解任前の大臣を再任命し、GM君主は活動は一切行わない。
+
+#### 五大臣・付随組織の権限
+
+  - 各大臣・組織の職務遂行に必要な権限
+  - ワープ特権の付与（2007年3月28日のアップデートで付与）
+
+#### 五大臣・付随組織
+
+<table border="1" cellpadding="5" cellspacing="0">
+
+<th colspan="2" style="background-color: #efefef;">
+
+大臣・組織名
+
+</th>
+
+<th style="background-color: #ffdead;">
+
+職務内容
+
+</th>
+
+<tr>
+
+<th colspan="2">
+
+朱雀官
+
+</th>
+
+<td>
+
+貿易商人などから買い取る価格などを一定限度数内で設定し世界の通貨流通量を調節することができる。
+
+</td>
+
+</tr>
+
+<tr>
+
+<th colspan="2">
+
+麒麟官
+
+</th>
+
+<td>
+
+不正を働くユーザーの取り締まりや監視を行う。また、羅眼隊という特別な組織を持つ。
+
+</td>
+
+</tr>
+
+<tr>
+
+<th style="width:1em;">
+
+</th>
+
+<th style="width:9ex;">
+
+羅眼隊
+
+</th>
+
+<td>
+
+麒麟官とともに不正ユーザーの監視を主な職務とする。麒麟官をサポートする。
+
+</td>
+
+</tr>
+
+<tr>
+
+<th colspan="2">
+
+青龍官
+
+</th>
+
+<td>
+
+国家間戦争の開始から終了までの時間調整と今後実装される予定のイベントの様々な調整を行う。
+
+</td>
+
+</tr>
+
+<tr>
+
+<th colspan="2">
+
+白虎官
+
+</th>
+
+<td>
+
+国に登録できる住民限界数の調整とLv２０達成時に支給される金額の調整を行う。 また、白虎官は白十字隊という特別な組織を持つ。
+
+</td>
+
+</tr>
+
+<tr>
+
+<th>
+
+</th>
+
+<th>
+
+白十字隊
+
+</th>
+
+<td>
+
+白十字隊は初心者ユーザーに様々なアドバイスを施したり簡単な質問などに答える。
+
+</td>
+
+</tr>
+
+<tr>
+
+<th colspan="2">
+
+玄武官
+
+</th>
+
+<td>
+
+職人達のために様々なボーナスを振り分ける。主に、武器製造時のスキル経験値が与えられる割合を調節し各武器の格差をなくす。
+
+</td>
+
+</tr>
+
+</table>
+
+### 攻城戦
+
+君主には、開国した国同士で戦争する攻城戦システムが用意されている。しかし、日本サーバでは、攻城戦は活発には行われず、互いの国の守護石像を破壊しないという取り決めの元に、模擬戦という形をとる場合が多い。
+
+## 料金体系
+
+韓国サーバをはじめとするすべてのサーバで、基本料金無料でゲームを楽しむことができるが、一部アイテムを購入する際に通貨を使用する（[アイテム課金](https://ja.wikipedia.org/wiki/アイテム課金 "wikilink")制）。
+**- JEWEL**
+
+　　 通貨を支払うことで購入する。[ゲームオン](https://ja.wikipedia.org/wiki/ゲームオン "wikilink")が提供するJEWELを購入することで、1円＝1JEWELとしてゲーム内で使用可能。購入ポイントに応じてボーナスが付与される仕様は、[GMOゲームポット](https://ja.wikipedia.org/wiki/GMOゲームポット "wikilink")からNdoors社への移管をもって廃止された。
+
+\- **<s>クンシュポイント(KP)</s>**
+　　通貨を支払うことで購入する。KPは[クレジットカード](../Page/クレジットカード.md "wikilink")・[GASH](https://ja.wikipedia.org/wiki/GASH "wikilink")・[NET CASH](https://ja.wikipedia.org/wiki/NET_CASH "wikilink")・[WebMoney](https://ja.wikipedia.org/wiki/ウェブマネー "wikilink")・[BitCash](https://ja.wikipedia.org/wiki/BitCash "wikilink")が使用できる。ゲームポット経由の場合はこの他、携帯決済（Docomoのみ）、[Pay-easy](https://ja.wikipedia.org/wiki/Pay-easy "wikilink")、[モバイルSuica](https://ja.wikipedia.org/wiki/モバイルSuica "wikilink")が利用できるが一旦GP（ゲームポットポイント）を購入し、GPでKPを買う形になる。日本円では1KP=10円。300KP以上の購入でKPボーナスがつく。
+
+## 主な出来事
+
+  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月29日](../Page/11月29日.md "wikilink") 君主のクローズβテスト開始
+  - 2005年[12月28日](../Page/12月28日.md "wikilink") 君主のオープンβ開始
+  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月31日](../Page/3月31日.md "wikilink") 君主正式サービス開始
+  - 2006年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") 中国籍とみられる天与売り露天の登場でモールアイテムを中心とした[デフレーション](../Page/デフレーション.md "wikilink")になる。
+  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") [クレジットカード](../Page/クレジットカード.md "wikilink")会社の依頼で不正使用の疑いのあるIDの凍結。
+  - 2007年[3月28日](../Page/3月28日.md "wikilink") 大規模アップデート。公式ページのリニューアル。日本版のタイトルが「君主」から「君主online」に変更。
+  - 2007年[4月1日](../Page/4月1日.md "wikilink") 対モンスターのダメージが数十倍の[エイプリルフール](https://ja.wikipedia.org/wiki/エイプリルフール "wikilink")[ジョーク](https://ja.wikipedia.org/wiki/ジョーク "wikilink")に。
+  - 2007年[4月7日](../Page/4月7日.md "wikilink")・[8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink") 君主online初の24時間イベント開催
+  - 2007年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")・[8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") 君主online2回目の24時間イベント実施
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月1日](../Page/7月1日.md "wikilink") ゲーム運営業務をゲームポットからエヌドアーズエンターテインメントへ移管
+  - [2009年](../Page/2009年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink") 君主online初の[デノミネーション](../Page/デノミネーション.md "wikilink")実施する予定だったが、中止
+  - [2009年](../Page/2009年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink") 中止されていたデノミネーションを実施
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月15日](../Page/12月15日.md "wikilink") [NEXON CorporationのNdoors社買収に伴い](https://ja.wikipedia.org/wiki/NEXON "wikilink")、ゲーム運営業務をエヌドアーズエンターテインメントからネクソンへ移管
+  - [2014年](../Page/2014年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink") ゲーム運営会社がネクソンからValofeへ移管
+
+## 関連項目
+
+  - [エヌドアーズエンターテインメント](https://ja.wikipedia.org/wiki/エヌドアーズエンターテインメント "wikilink")
+
+## 外部リンク
+
+  - [君主online日本公式サイト](http://kunshu.pmang.jp/)
+  - [君主韓国公式サイト](http://goonzu.ndoors.com/)
+  - [君主Special(Korean Ver.)](http://gzs.hangame.com/)
+      -
+        日本語環境のブラウザーでアクセスするとハンゲームメインまたはハンゲームジャパンにアクセスを促すページに[リダイレクト](https://ja.wikipedia.org/wiki/リダイレクト "wikilink")([JavaScript](../Page/JavaScript.md "wikilink")使用)される。
+  - [君主グローバル公式サイト](http://luminary.ndoorsgames.com/center/default.asp)
+      -
+        日本語環境のブラウザーでアクセスすると日本の公式サイトにリダイレクト([サーバサイド言語](https://ja.wikipedia.org/wiki/サーバサイド言語 "wikilink")または[.htaccess](https://ja.wikipedia.org/wiki/.htaccess "wikilink")を使用。)される。
+  - [Ndoors社](http://www.ndoors.com/)（開発元 韓国・グローバルの運営会社）
+
+[Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:MMORPG](https://ja.wikipedia.org/wiki/Category:MMORPG "wikilink") [Category:大韓民国で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:大韓民国で開発されたコンピュータゲーム "wikilink") [Category:Gamania](https://ja.wikipedia.org/wiki/Category:Gamania "wikilink") [Category:Ndoors](https://ja.wikipedia.org/wiki/Category:Ndoors "wikilink")

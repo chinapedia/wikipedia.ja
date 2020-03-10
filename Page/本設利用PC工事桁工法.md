@@ -1,0 +1,26 @@
+> この記事は[PC](https://ja.wikipedia.org/wiki/PC)から翻訳されています。
+
+
+**本設利用PC工事桁工法**（ほんせつりようピーシーこうじけたこうほう）は、[鉄建建設](https://ja.wikipedia.org/wiki/鉄建建設 "wikilink")により開発された、[鉄道線路下に横断](https://ja.wikipedia.org/wiki/線路_\(鉄道\) "wikilink")[構造物](https://ja.wikipedia.org/wiki/構造物 "wikilink")を新設する際の[工法](https://ja.wikipedia.org/wiki/工法 "wikilink")のひとつ。
+
+鉄道線路下に横断構造物を新設する場合、従来は、鋼製桁で軌道を仮受けし、その後、地下構造物を構築し、完成後、鋼製桁を撤去、軌道を復旧させるという工法をとっていた。しかし、鋼製桁は部材が多く、架設に時間を要し、列車の騒音も大きいなど問題があった。本設利用PC工事桁工法では、[PC](../Page/プレストレスト・コンクリート.md "wikilink")（プレストレストコンクリート）工事桁で軌道を仮受けし、完成後は桁を撤去せずにそのまま本設の鉄道構造物として利用する。
+
+PC桁は部材が少なく、夜間の線路閉鎖間合いで1連を架設することができる（軌陸式クレーン使用で実作業は3時間）。桁を連結してゆくことも可能である。PC桁のため架設時の列車騒音、振動も低減し、大幅な工期の短縮とコストダウンが実現される。
+
+完成後は、PC桁の下にゴム製の「くつ」をいれて、低騒音、低振動型のフローチングスラブと同様の構造にすることができ、駅ビル内に高架駅がはいるタイプにも応用可能である。
+
+## 報道公開
+
+この工法は、[中央線](https://ja.wikipedia.org/wiki/中央本線 "wikilink")[東小金井駅](https://ja.wikipedia.org/wiki/東小金井駅 "wikilink")（桁合計3連）、[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")（桁合計56連。施工中）、[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")[五反田駅](https://ja.wikipedia.org/wiki/五反田駅 "wikilink")での工事に採用され、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")4月7日から8日にかけての深夜、五反田駅で報道公開された。
+
+五反田駅の工事は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月着工、[JR東日本東京工事事務所が主体で](../Page/東日本旅客鉄道.md "wikilink")、[バリアフリー](../Page/バリアフリー.md "wikilink")整備と駅設備改良が目的である。盛土部分の線路をPC工事桁で受け替え、RC高架橋を新設する。[コンコース](https://ja.wikipedia.org/wiki/コンコース "wikilink")を移設し、改札内スペースをひろげ、エレベーターと上下エスカレーターを設置する。PC工事桁は山手線内回り、外回り、山手貨物上下線の4線で各2連ずつ合計8連を設置。1連の長さは10.49～7.5m、桁高54cm、重量約27.4～19.5t。2007年3月18日から5月9日、1連ずつ順次設置する。
+
+公開されたのは山手貨物上り線新宿方の1連を架設する工事で、事前に鉄骨の受け台を線路下に設置し、終電後にバラストとレールを撤去、あらかじめ渋谷の保守基地で組立てていたPC工事桁を大崎基地経由現場に運び込み、鉄道クレーンで一晩で架設したものである。
+
+全体の完成予定は[2009年](../Page/2009年.md "wikilink")秋である。
+
+## 関連項目
+
+  - [鉄建建設](https://ja.wikipedia.org/wiki/鉄建建設 "wikilink")
+
+[Category:鉄道線路](https://ja.wikipedia.org/wiki/Category:鉄道線路 "wikilink") [Category:建設工事](https://ja.wikipedia.org/wiki/Category:建設工事 "wikilink")

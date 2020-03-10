@@ -1,0 +1,115 @@
+> この記事は[RH](https://ja.wikipedia.org/wiki/RH)から翻訳されています。
+
+
+『**RHプラス**』（アールエイチぷらす）とは[諏訪絢子](https://ja.wikipedia.org/wiki/諏訪絢子 "wikilink")による日本の漫画、およびそれを原作とした[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。『[comic B's-LOG](https://ja.wikipedia.org/wiki/comic_B's-LOG "wikilink")』（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")）において連載された。[吸血鬼](../Page/吸血鬼.md "wikilink")を主人公とした女性向け漫画である。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に同名で[深夜ドラマ](../Page/深夜ドラマ.md "wikilink")化された。
+
+## あらすじ
+
+洋館『月長館』で一見普通に暮らしている高校生の**野上誠**と**瀬戸あげは**、大学生の**田村政和**、そして管理人の**きよい**。しかし実は彼ら4人は[吸血鬼](../Page/吸血鬼.md "wikilink")であると言う秘密を持っていた。夜の世界の平和を守るべく、彼らは人知れず動く。
+
+## 本作品の吸血鬼の設定
+
+  - 人の血を吸うが普通の食事もとる。普段はトマトジュースやレバーで血に似た満腹感を得る。（見た目や鉄っぽい味、塩気がそう思わせる）我慢しているとリバウンドで暴走することも。
+  - 月に一度（満月の日）のみ狩りに出てもよい。この日だけはじかに人間から吸血する事が許される。
+  - むやみに吸血された人間は理性がとび、鬼化という状態になる。
+  - 怪我をしてもすぐ治る。ただし、精神的に弱っていると傷の治りが遅くなる。
+  - ある程度育つと成長が止まり、長い時を生きる。止まり具合は吸血鬼によって違う。
+  - 日光は割と平気。だが長く外にいると免疫力が低下するらしい。
+  - 鏡や写真には普段映らない。だが映ろうと意識すれば映る。
+  - 自らの血を分け与える（血の契約）事で人間を吸血鬼にする事が可能。
+
+## 登場人物
+
+*「演」はドラマ版の[役者](https://ja.wikipedia.org/wiki/役者 "wikilink")。*
+
+  - 野上誠（のがみ まこと）演：[三浦悠](https://ja.wikipedia.org/wiki/三浦悠 "wikilink")
+    主人公。16歳の高校1年生。吸血鬼としては日が浅く、月長館にも住み始めたばかり。吸血鬼の父親と人間の母親の間に生まれたハーフ。幼少時に父親が行方不明になり、母親と二人で暮らしていたが、吸血鬼の血を引く事から徐々に人間と違っていく彼を見た母親によって教会に捨てられてしまう。その際母親に「悪魔の子」と呼ばれた事が大きなトラウマとなっている。その後神父によって暴言を吐かれながらも教会で過ごしていたが（ドラマでは虐待を受けるなど更に過酷な生活をしていた）血への乾きに耐えられなくなり、ある時人間にかみついて血を吸ってしまう。その事に苦悩し自殺をしようとしたところをあげはに見つかり、月長館に引き取られる。上記の過去から控え目な性格をしており、自分の意見を出す事が少ない。しかし周りが騒然とした場合は一人冷静になってなだめる事も多い。月長館に住んでからも中々居場所と思う事が出来なかったが、徐々に「家族」となっていく。
+  - 瀬戸あげは（せと - ）演：[栩原楽人](https://ja.wikipedia.org/wiki/栩原楽人 "wikilink")
+    誠の同級生。きよいと共にずっと月長館で暮らしている。かなりのゲーマーで仕事での報酬はほぼ新作のゲームにあてている。しかしゲームの実力は低め。元は人間。両親を早く亡くし、病弱な祖母と二人で暮らしており、その頃にきよいと出会い友達になる。祖母の死後、家が火事になり瀕死の重傷を負うが、きよいによって血を与えられ吸血鬼となる。その後きよいに引き取られ共に暮らすようになる。きよいとは10年以上の付き合いがあり、とても慕っている。明るく元気な性格。きよいの過保護もあってか少々子供っぽい所も。月長館の中では最も他の吸血鬼の気配に敏感で、誠の父親と会った時は恐怖を浮かべていた。
+  - 田村政和（たむら まさかず）演：[尾嶋直哉](../Page/尾嶋直哉.md "wikilink")
+    月長館住人の大学生。合コン大好きな軟派な性格だが読書家で記憶力がよく、様々な情報を記憶している。部屋は本に埋もれておりかなり散らかっているため度々きよいに片づけるよう注意される。合コンで女の子の人気をかっさらう遥にライバル心を抱く。両親ともに純潔の吸血鬼で、15、6歳くらいの頃に行儀見習いとして月長館にやってきた。当初は態度が悪く行動もガサツだったが、きよいの教育（どちらかというと脅しに近い）によって今の性格となった。住民の仲ではあげはと喧嘩したりきよいに怒られたりと散々な扱いを受けているが、兄貴分として誠とあげはを見守ったり、あげはの事で不安がるきよいを叱咤する一面もある。
+  - きよい 演：[高野八誠](https://ja.wikipedia.org/wiki/高野八誠 "wikilink")
+    月長館管理人。外見は30代ほどだが、実は100年以上生き続けている。常に敬語を話し穏やかな性格をしているが、怒ると怖い。料理上手。ミスター（道隆）からの依頼を受けて、月長館住人に指令を下す。 かつての友人だった道山が死んだ事、彼が死ぬ前に「こちら側」に引きこまなかった事を悔いている。そのため今の「家族」をとても大切に思っており、中でもあげはの事は自分が吸血鬼にしたという過去から16歳になった今でも過保護な扱いをする事が多い。眼鏡を着用しているが、目が悪いわけではなくあげはの授業参観に行く際に父親っぽくするにはどうすればよいかと道隆に相談した際「眼鏡でもかければいい」と言われたため。
+  - 此衣遥（このえ　はるか） 演：[藤田玲](https://ja.wikipedia.org/wiki/藤田玲 "wikilink")
+    第3話より登場の大学生吸血鬼。合コンの席で政和と出会い、以来ライバル関係。誠やあげは、きよいともすっかり打ち解け、月長館にもよく顔を出すようになる。 温厚な性格で要領がよく、女の子と仲良くなるのも上手。株の才能があるらしく、車を買ったりとかなり裕福な暮らしをしている模様。
+  - 道隆（みちたか）演：[宮城健太郎](https://ja.wikipedia.org/wiki/宮城健太郎 "wikilink")
+    通称ミスター。道山の孫。きよいに警察が処理したがらない仕事を依頼する。事件解決の報酬で月長館の住人たちの暮らしは成り立っている。 堅物な性格で、苦労性。月長館の住民を「家族」と言い張るきよいに複雑な感情を抱いている。きよい曰く、若い頃の道山によく似ているらしい。ドラマではきよいが一人で会いに行くのみなので、きよい以外の月長館メンバーには正体不明である。
+  - 道山（どうざん）　演：宮城健太郎
+    道隆の祖父。作中では既に他界、回想シーンでのみ登場。きよいとは友人だった。私財の一部と月長館を遺産としてきよいに残した。彼の死はきよいの心に深い傷を残している。
+  - マダム
+    きよいと古い付き合いの吸血鬼の女性。奔放な性格でホテルやサロン等を多く経営している商売人。実はきよいの叔母。
+  - 岬亜美（みさき あみ） 演：[戸松遥](../Page/戸松遥.md "wikilink")
+    ドラマオリジナルキャラクター。誠、あげはの同級生。おとなしく不思議な雰囲気を持った少女。一般の人間だが誠の正体に気づいた。平凡な生活に嫌気がさしており、自分も吸血鬼にしてもらおうと誠を拉致し迫るが、きよいとあげはによって目論見は破られる。その後は少し明るくなり、また月長館の面々とも交流している。誠を助けに来たきよいに血を吸われており、以来きよいに好意を抱く。そのためあげはとはライバル。原作にも彼女の立ち位置である女子は登場するが、名前は出ず、また事件後誠に謝罪を残し転校した。
+
+## コミック
+
+  - 第1巻 [2007年](../Page/2007年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")発売 ISBN 978-4-7577-3587-3
+  - 第2巻 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")発売 ISBN 978-4-7577-4084-6
+  - 第3巻 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")発売 ISBN 978-4-7577-4430-1
+  - 第4巻 [2009年](../Page/2009年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")発売 ISBN 978-4-7577-4969-6　
+
+## 小説
+
+文・金沢有倖／挿絵・諏訪絢子／[B's-LOG文庫](https://ja.wikipedia.org/wiki/B's-LOG文庫 "wikilink")
+
+  - RHプラス 休日の子羊たち [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")発売 ISBN 978-4-7577-4123-2
+
+## テレビドラマ
+
+[独立UHF局](https://ja.wikipedia.org/wiki/独立UHF局 "wikilink")などで[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月より放映開始。各話数は、「1st Blood」「2nd Blood」…、と表記される。
+
+### ゲスト出演者
+
+  - 女吸血鬼 - [中丸シオン](https://ja.wikipedia.org/wiki/中丸シオン "wikilink") （7話）
+
+### スタッフ
+
+  - 監督 - [市野龍一](https://ja.wikipedia.org/wiki/市野龍一 "wikilink")、[會田望](https://ja.wikipedia.org/wiki/會田望 "wikilink")
+  - 撮影 - [菊池亘](https://ja.wikipedia.org/wiki/菊池亘 "wikilink")
+  - 照明 - 井上幸男
+  - 美術 - 塩田仁
+  - 録音 - 川田保
+  - 音楽 - [田尻光隆](https://ja.wikipedia.org/wiki/田尻光隆 "wikilink")
+  - 脚本 - [笹野恵](../Page/笹野恵.md "wikilink")、[うえのきみこ](https://ja.wikipedia.org/wiki/うえのきみこ "wikilink")
+  - アクションコーディネート - ACファクトリー（冨田昌則、新上博巳）
+  - VFX／視覚効果 - 日本映像クリエイティブ、ソニーPCL
+  - 衣裳協力 - カズプロジェクト
+  - 制作プロダクション - [ゼネラル・エンタテイメント](https://ja.wikipedia.org/wiki/ゼネラル・エンタテイメント "wikilink")
+  - 製作 - 「RHプラス」[製作委員会](https://ja.wikipedia.org/wiki/製作委員会 "wikilink")
+
+### 主題歌
+
+#### オープニングテーマ
+
+  - 『HEART BEAT』
+    作詞：児嶋亮介、作曲・編曲：KELUN、歌：[KELUN](../Page/KELUN.md "wikilink")
+
+#### エンディングテーマ
+
+  - 『[PASSION](https://ja.wikipedia.org/wiki/PASSION_\(SunSet_Swishの曲\) "wikilink")』
+    作詞・作曲：石田順三、編曲：松浦晃久・SunSet Swish、歌：[SunSet Swish](https://ja.wikipedia.org/wiki/SunSet_Swish "wikilink")
+
+### 放送局
+
+| 放送地域                                                  | 放送局                                                                                                    | 放送期間                                                                                                                                                | 放送日時             | 系列                                                                   |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | -------------------------------------------------------------------- |
+| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")                                                                    | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月2日](../Page/1月2日.md "wikilink") - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") | 水曜 23:00 - 23:30 | [独立UHF局](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")      |
+| [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")   | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")（[幹事局](https://ja.wikipedia.org/wiki/幹事局 "wikilink")） | 水曜 26:00 - 26:30                                                                                                                                    |                  |                                                                      |
+| [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")   | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")                                                  | 2008年[1月4日](../Page/1月4日.md "wikilink") - [3月28日](../Page/3月28日.md "wikilink")                                                                      | 金曜 24:00 - 24:30 |                                                                      |
+| [兵庫県](../Page/兵庫県.md "wikilink")                      | [サンテレビ](../Page/サンテレビジョン.md "wikilink")                                                                | 金曜 26:05 - 26:35                                                                                                                                    |                  |                                                                      |
+| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")   | [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")                                            | 2008年[1月5日](../Page/1月5日.md "wikilink") - [3月29日](../Page/3月29日.md "wikilink")                                                                      | 土曜 26:15 - 26:45 | [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink") |
+| [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")   | [三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")                                              | 2008年[1月9日](../Page/1月9日.md "wikilink") - [4月2日](../Page/4月2日.md "wikilink")                                                                        | 水曜 26:55 - 27:25 | 独立UHF局                                                               |
+| [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")   | [KBS京都](../Page/京都放送.md "wikilink")                                                                    | 2008年[1月10日](../Page/1月10日.md "wikilink") -[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")                                                    | 木曜 26:00 - 26:30 |                                                                      |
+| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")   | [東北放送](../Page/東北放送.md "wikilink")                                                                     | 2008年[1月11日](../Page/1月11日.md "wikilink") - [3月28日](../Page/3月28日.md "wikilink")                                                                    | 金曜 26:15 - 26:45 | TBS系列                                                                |
+| [広島県](../Page/広島県.md "wikilink")                      | [中国放送](../Page/中国放送.md "wikilink")                                                                     | 2008年[1月11日](../Page/1月11日.md "wikilink") - [4月4日](../Page/4月4日.md "wikilink")                                                                      | 金曜 26:40 - 27:10 |                                                                      |
+| [岐阜県](../Page/岐阜県.md "wikilink")                      | [ぎふチャン](../Page/岐阜放送.md "wikilink")                                                                    | 2008年[1月12日](../Page/1月12日.md "wikilink") - [4月5日](../Page/4月5日.md "wikilink")                                                                      | 土曜 25:00 - 25:30 | 独立UHF局                                                               |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")   | [北海道放送](../Page/北海道放送.md "wikilink")                                                                   | 土曜 26:10 - 26:40                                                                                                                                    | TBS系列            |                                                                      |
+
+  - 東北放送は3月28日に第12・13話を2話連続で放送。
+
+## 外部リンク
+
+  - [エンターブレイン公式サイト内作品紹介](http://www.enterbrain.co.jp/jp/p_pickup/2007/rh_plus/)
+  - [ドラマ公式サイト](http://www.rhplus.jp/)
+
+[Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:comic_B's-LOG](https://ja.wikipedia.org/wiki/Category:comic_B's-LOG "wikilink") [Category:やおい漫画](https://ja.wikipedia.org/wiki/Category:やおい漫画 "wikilink") [Category:吸血鬼漫画](https://ja.wikipedia.org/wiki/Category:吸血鬼漫画 "wikilink") [Category:2006年の漫画](https://ja.wikipedia.org/wiki/Category:2006年の漫画 "wikilink") [Category:吸血鬼を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材としたテレビドラマ "wikilink") [Category:2008年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2008年のテレビドラマ "wikilink") [Category:ローカルテレビ局の深夜ドラマ](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の深夜ドラマ "wikilink") [Category:深夜特撮](https://ja.wikipedia.org/wiki/Category:深夜特撮 "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink")

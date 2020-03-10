@@ -1,0 +1,181 @@
+> この記事は[SiZK](https://ja.wikipedia.org/wiki/SiZK)から翻訳されています。
+
+
+**SiZK**（シズク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[音楽ディレクター](https://ja.wikipedia.org/wiki/ディレクター#レコード・CD制作におけるディレクター（音楽ディレクター） "wikilink")、[レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")。[ソロプロジェクト](../Page/一人バンド.md "wikilink")・★STAR GUiTARのメンバー。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")出身。[WEED所属](https://ja.wikipedia.org/wiki/WEED_\(芸能事務所\) "wikilink")。
+
+## 来歴
+
+  - [山本領平のトラックプロデュースでデビュー](https://ja.wikipedia.org/wiki/Ryohei "wikilink")。以後 [BENNIE K](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")・[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")・[melody.](https://ja.wikipedia.org/wiki/melody. "wikilink")・[Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")・[西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")などの[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")・[アレンジ](https://ja.wikipedia.org/wiki/アレンジ "wikilink")・[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")等で活躍中。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")から[ソロプロジェクトとして](../Page/一人バンド.md "wikilink")『★STAR GUiTAR』を始動している。
+
+## プロデュース（作曲のみ・編曲のみも含む）作品
+
+  - [AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")
+      - 「[Love Is In The Air](https://ja.wikipedia.org/wiki/Love_Is_In_The_Air "wikilink")」
+  - [山本領平](https://ja.wikipedia.org/wiki/Ryohei "wikilink")
+      - 「SetFree」（シングル）
+      - 「SetFree」
+      - 「TakeOver」（アルバム）
+      - 「SetFree」
+      - 「SpeedWay」
+  - [TATE & MARKIE](https://ja.wikipedia.org/wiki/TATE_&_MARKIE "wikilink")
+      - 「GreenSounds」（アルバム）
+      - 「しろつめ草」
+      - 「Free?」
+      - 「Chace/お昼ロック」（シングル）
+      - 「Chace」
+      - 「Chace 2 Chace」
+      - 「モウカノホシ」（アルバム）
+      - 「ドライフラワー」
+      - 「銀河3丁目」
+      - 「奇跡」
+      - 「冬日和」（シングル）
+      - 「Life is beautiful」
+      - 「タテマキ」（アルバム）
+      - 「Good Sad Music」
+      - 「ドライフラワー」
+      - 「Life is beautiful」
+      - 「Chace 2 Chace」
+      - 「woman」
+      - 「雨になれ」
+  - [Heartsdales](https://ja.wikipedia.org/wiki/Heartsdales "wikilink")
+      - 「Shining」（シングル）
+      - 「Shining」
+      - 「Super Star」（アルバム）
+      - 「Shining」
+      - 「冬 gonna love」（シングル）
+      - 「冬 gonna love」
+      - 「Ultra Foxy」（アルバム）
+      - 「冬 gonna love」
+      - 「Heart Attack 3 〜The Remixes & Video Clips」（アルバム）
+      - 「My Melody 〜Water Drop Mix〜」
+      - 「冬 gonna love」(DVD)
+      - 「STAY/Foxy Lady」（シングル）
+      - 「STAY」
+      - 「THE LEGEND」（アルバム）
+      - 「The Legend Begins」
+      - 「Shining」
+      - 「冬 gonna love」
+      - 「STAY」
+      - 「THE LEGEND 〜Final Live」（DVD）
+      - 「THE LEGEND LIVE INTRO」
+      - 「Shining」
+      - 「冬 gonna love」
+      - 「STAY」
+  - [SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")
+      - 「ヒマワリ -Growing Sunflower-」（シングル）
+      - 「Moonlight Honey」
+      - 「4COLORS」（アルバム）
+      - 「WORLD DANCE」
+  - [hiro](../Page/島袋寛子.md "wikilink")
+      - 「clover」（シングル）
+      - 「clover」
+      - 「Be Alright」
+      - 「寛 シングル・コレクション」（アルバム）
+      - 「clover」
+  - [BENNIE K](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")
+      - 「Sky」（シングル）
+      - 「Sky」
+      - 「OSAGA」
+      - 「Japana-rhythm」（アルバム）
+      - 「夏 〜Intelude〜」
+      - 「OSAGA」
+      - 「Sky」
+      - 「4 Seasons」
+      - 「ザ・ベニーケー・ショウ 〜on the floor編〜」（アルバム）
+      - 「Doggy Love/with GIPPER (NORA)」
+      - 「ザ・ベニーケー・ショウ 〜on the floor編?〜」（DVD）
+      - 「Doggy Love/with GIPPER (NORA)」
+      - 「THE WORLD」（アルバム）
+      - 「英→仏→独 〜Interlude〜」
+      - 「青い鳥」
+      - 「THE "new" WORLD 〜WORLD TOUR\!? in JAPAN〜」（DVD）
+      - 「青い鳥」
+      - 「モノクローム」（シングル）
+      - 「モノクローム」
+      - 「BEST OF THE BESTEST」（アルバム）
+      - 「チャクラ」
+      - 「Sky」
+      - 「モノクローム」
+      - 「Funky Freaks-DJ HI-KICK's Play Ground-」
+  - [Olivia Ong](https://ja.wikipedia.org/wiki/Olivia_Ong "wikilink")
+      - 「Precious Stones」（アルバム）
+      - 「Fall In Step With Me」
+      - 「I'll Move On」
+      - 「Like A New Beginning」
+  - [舞](https://ja.wikipedia.org/wiki/舞_\(歌手\) "wikilink")
+      - 「Reborn」（シングル）
+      - 「Reborn」
+      - 「Princess∞Candy」（シングル）
+      - 「Princess∞Candy」
+      - 「MAISELF」（アルバム）
+      - 「Reborn」
+      - 「Princess∞Candy」
+  - [唄人羽](https://ja.wikipedia.org/wiki/唄人羽 "wikilink")
+      - 「リライ」（シングル）
+      - 「リライ」
+      - 「be here...」（アルバム）
+      - 「リライ」
+      - 「Beautiful mind」
+  - [伊沢麻未](https://ja.wikipedia.org/wiki/伊沢麻未 "wikilink")
+      - 「Battlefield Of Love」（シングル）
+      - 「Tears For Flower」
+      - 「Prythm」（アルバム）
+      - 「交差点」
+  - [伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")
+      - 「losin'」（シングル）
+      - 「losin'」
+      - 「Stay for Love」
+      - 「HEART」（アルバム）
+      - 「losin'」
+      - 「Stay for Love」
+  - [SNoW](https://ja.wikipedia.org/wiki/SNoW "wikilink")
+      - 「NightmaRe」（シングル）
+      - 「NightmaRe」
+      - 「初雪」（アルバム）
+      - 「NightmaRe」
+  - [melody.](https://ja.wikipedia.org/wiki/melody. "wikilink")
+      - 「Finding My Road」（シングル）
+      - 「Finding My Road 〜SiZK Water Drop MIX〜 Remixed by SiZK」
+  - [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")
+      - 「誰より好きなのに」（シングル）
+      - 「Lie」
+      - 「Naked」（アルバム）
+      - 「Lie」
+  - [西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")
+      - 「I」（シングル）
+      - 「I」
+      - 「In Stereo」
+      - 「I 〜SiZK Water Drop MiX〜」（アナログ）
+      - 「I 〜SiZK Water Drop MiX〜」
+      - 「glowly days」（シングル）
+      - 「glowly days」
+      - 「celtic」
+      - 「Yami Yami day」
+  - [日之内エミ](https://ja.wikipedia.org/wiki/日之内エミ "wikilink")
+      - 「愛だけが」（シングル）
+      - 「I Love You」
+  - [BRIGHT](https://ja.wikipedia.org/wiki/BRIGHT_\(ダンスボーカルグループ\) "wikilink")
+      - 「ソライロ」（シングル）
+      - 「ソライロ」
+  - [MASTERLINK](https://ja.wikipedia.org/wiki/MASTERLINK "wikilink")
+      - 「Confusion」（シングル）
+  - [コンピレーションアルバム](https://ja.wikipedia.org/wiki/コンピレーションアルバム "wikilink")
+      - 「We Love Cyndi-Tribute to Cyndi Lauper-」（アルバム）
+      - 「Product Of Misery (BENNIE K with Yukie)」
+      - 「ヴォイセラーヌーヴォー」（アルバム）
+      - 「I'll Move On（Olivia Ong」
+      - 「Fine Time 2 〜A Tribute to NEW WAVE」（アルバム）
+      - 「How Soon Is Now? (The Smiths)」
+
+## エピソード
+
+  - Fine Time 2 〜A Tribute to NEW WAVEではSiZK名義として参加。
+
+## 外部リンク
+
+  - [公式サイト](http://www.starguitar.jp/)
+  - [所属プロダクションサイト](http://www.weed.ne.jp/)
+  - [MySpace](http://www.myspace.com/starguitarsizk)
+
+[Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本のトラックメイカー](https://ja.wikipedia.org/wiki/Category:日本のトラックメイカー "wikilink")

@@ -1,0 +1,430 @@
+> この記事は[WarRock](https://ja.wikipedia.org/wiki/WarRock)から翻訳されています。
+
+
+『**WarRock**』（ウォーロック）は、[韓国の](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")が開発した[オンライン](../Page/オンライン.md "wikilink")マルチプレイ[FPS](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。利用料金基本無料の[アイテム課金](https://ja.wikipedia.org/wiki/アイテム課金 "wikilink")制。日本では[UtoPlanet](https://ja.wikipedia.org/wiki/UtoPlanet "wikilink")によって運営され、正式サービスは2007年3月8日に開始された。2010年5月28日にポータルサイト「[Lievo](https://ja.wikipedia.org/wiki/Lievo "wikilink")」と共に[SeedC](https://ja.wikipedia.org/wiki/SeedC "wikilink")より[NECビッグローブに運営譲渡されたが](https://ja.wikipedia.org/wiki/BIGLOBE "wikilink")、2013年1月31日にSeedCへ再び運営譲渡された\[1\]\[2\]\[3\]。その後、SeedCはゲーマーズワン内のWarRock事業を2014年4月17日10時をもって終了し、UtoPlanet（旧称：GJ Games）がWarRockの国内配信権を取得した\[4\]\[5\]\[6\]。
+
+2017年4月30日をもって日本国内でのサービスは終了\[7\]。2019年2月7日にSteam版の配信が始まった。
+
+## 概要
+
+ゲームの舞台は[1980年代](../Page/1980年代.md "wikilink")-[冷戦](../Page/冷戦.md "wikilink")終結後の[90年代で](../Page/1990年代.md "wikilink")、世界一の原油埋蔵量を誇る架空の国家**DERBARAN（デルバラン）共和国**における内戦である。**DERBARAN軍**と少数民族の反乱軍である**N.I.U（the National Independence Union）軍**の対立・戦闘がゲームのテーマとなるが、ゲーム中において双方の軍に兵器・装備の差は無く、プレイヤーがどちらの軍に所属するかはゲームルーム毎に変わる。
+
+兵器戦（大・中規模マップ）には、[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")や[航空機](../Page/航空機.md "wikilink")といった様々な兵器が用意されており、プレイヤーはそれらの兵器に搭乗して参戦することもできる。
+
+グラフィックは3D描画だが、設定の変更により[ノートパソコン](../Page/ノートパソコン.md "wikilink")などの低性能パソコンでもある程度のクオリティでプレイは可能。
+
+かつては通信が[P2P](https://ja.wikipedia.org/wiki/P2P "wikilink")方式で行われていたため、[ルーター](../Page/ルーター.md "wikilink")の[ポート開放が推奨されていた](../Page/ポート_\(コンピュータネットワーク\).md "wikilink")。ポート解放されていない環境では激しいタイムラグが発生し、戦闘にも大きく支障が出ていた。
+
+2009年10月29日に通信方式がP2Pから[C/S](https://ja.wikipedia.org/wiki/C/S "wikilink")方式に変更されたため、ポート解放の必要はなくなったものの、サーバーのリソース不足によってラグが発生する場合もある。
+
+## ゲームの進行
+
+ゲームにログインし、サーバーとチャンネルを選択する。かつてはレベル制限を設けた初心者サーバ"LEGION"が用意されていた。
+
+チャンネルは「歩兵戦」「兵器戦」「AIモード」の3つに分かれている。かつてのチャンネルは「小規模戦闘」「中規模戦闘」「大規模戦闘」だった。各チャンネルの中にはユーザーが作成するルームがあり、ルームごとに戦闘が行われる。プレイヤーはルームに入室したとき、DERBARAN軍（黄）かN.I.U軍（緑）を選ぶ。マップデータなどの読み込みが行われた後、[工兵](../Page/工兵.md "wikilink")、[衛生兵](https://ja.wikipedia.org/wiki/衛生兵 "wikilink")、[偵察兵](../Page/狙撃手.md "wikilink")、戦闘兵、[重火器](../Page/重火器.md "wikilink")兵の5兵科の中から操作するキャラクターを選び、ルームに定められた目的の達成を目指す。
+
+ゲーム中に途中参加することも可能で、その場合は参加したい陣営を選択するだけでなく、自動で陣営を選択することも可能である。自動参加の場合は人数の少ない陣営側に割り当てられる。満員のルームやゲームが終了に近づいたルーム、ルームマスターが人数制限を実施したルームへは途中入室できない。
+
+## 特徴
+
+競合相手でもある[スペシャルフォースや](../Page/スペシャルフォース_\(オンラインゲーム\).md "wikilink")[サドンアタック](https://ja.wikipedia.org/wiki/サドンアタック "wikilink")に見られない特徴としてSP（スタミナポイントの略）があげられる。
+
+これは、プレイヤーのスタミナを表し、ダッシュやジャンプ、ローリングなどのアクションをすると消費される。
+
+消費したSPは自動的に回復するが、これにより連続的にジャンプする移動（バニーホップ）など先のゲームでは頻繁に使われる技が使用不可能となる他、SPをどのタイミングで使用するかなどがゲームの緊迫感をより高める要素となっている。
+
+また、銃弾をリロードする際、スペシャルフォースなどでは使用した弾の分だけを充填するのに対し、WarRockではマガジンごと充填する。そのため、スペシャルフォースなど他のFPSと比べ、現実感のあるプレイが可能となる。
+
+## クラン
+
+レベル13以上のプレイヤーは、アイテムを購入した上でクランを作成することができる。作成者はそのままクランマスターとなり（他のメンバーに移譲することも可能）、クランの管理などを行うことができる。クランにはそれぞれクランページが与えられ、メンバーの募集や宣伝を行うことができる。
+
+クランへの参加は他のクランに参加していない限りは自由にできるが、クランごとに参加条件を定めて（初心者である、一定レベル以上であるなど）参加を制限するクランも多い。
+
+クランはロビーで対戦クランを募集し、クラン戦（Clan War）を行う事ができる。
+
+## ゲームチャンネル
+
+### 歩兵戦
+
+  -
+    最大24人で行う戦闘で、4vs4モード、ミッションモード、デスマッチモード、コンクエストモードがある。
+    中規模・大規模と違い、落下ダメージがない、HPの自動減少によっての死亡がない（1%まで減少）、[匍匐](https://ja.wikipedia.org/wiki/匍匐 "wikilink")ができない、などの仕様変更がある。マップも小さめで兵器類は無く、スピーディーな戦いを楽しむことができる。
+    途中参加の場合、現在進行中のラウンドには参戦できず、観戦を行ってから次のラウンドより参戦できる。
+
+### 兵器戦
+
+  -
+    5thまでの中規模の一部と大規模を扱うチャンネルである。
+    最大32人で行う戦闘で、コンクエストモード、ミッションモード、争奪戦モードが選択可能。
+    兵器戦では、いくつかの拠点ポイントを奪い合う陣取り合戦の要素も含まれる。拠点ポイントは、開始直後は白旗（中立）であるが、一定時間旗の周辺で待機すれば制圧となり、自陣の旗が掲げられる。自陣の旗が掲げられていれば、敵に倒されたときスタート以外の拠点から開始することができる。
+    航空兵器、地上兵器などが豊富に存在しているほか、マップも大きく、拠点数も多い。歩兵、兵器を適時適切に投入し、いかに味方と連携して拠点の攻防を行うかが勝負の決め手となる。
+    敵陣の制圧ポイントを占領する場合は、敵の占領地点（敵の旗）→中立地点（白旗）→自軍の占領地点（自軍の旗）とする必要があり、中立地点を自軍の占領地点にする倍の時間がかかる。また、周辺に敵味方が両方いた場合、時間が経過しても中立地点のままとなる（Total Warモードでは中立化を挟まず、直接自軍の占領地点に変化する）。
+
+### AIモード
+
+  -
+    ウェーブで襲いかかってくる**NBL（N.I.U生物研究所）**によって開発された実験体（[ゾンビ](../Page/ゾンビ.md "wikilink")）を撃破するモード。他のモード以上にプレイヤー間の協力が必要になる上、少人数で多数の実験体を倒す必要がある。そのため、装備する銃器の選択や戦術が対人戦とは大きく異なる。
+    現在ではサバイバルモード、ディフェンスモード、TIME ATTACKモード、Run Awayモードの4つのモードがある。
+    サバイバルモードでは自分が生き残るために実験体を倒すが、ディフェンスモードではインキュベーター内の実験体を護衛するために戦うことになる。
+    TIME ATTACKモードでは3つ（HARDは4つ）のミッションをクリアする時間を競う。
+    Run Awayモードでは、数人のプレイヤーが実験体となり人間（プレイヤー）を攻撃する。人間は死亡すると実験体となり、別の人間を襲うことになる。
+
+#### AIモードで登場する実験体
+
+基本形実験体
+
+  - マッドマン
+    移動力・攻撃力・耐久力ともに実験体の中で最も低い。素手で攻撃してくるため、最もキルしやすい。
+  - マニアック
+    移動力がマッドマンより若干早くなる。攻撃力はマッドマンと同じ。耐久力は一段階高くなる。素手で攻撃してくる。
+  - グラインダー
+    移動力がマニアックより若干速くなった程度。耐久力はマニアックと同じだが攻撃力は一段階高くなった。木片を振り回して攻撃してくる。
+  - グラウンダー
+    移動力が実験体の中で最速。攻撃力も高く非常に危険。ただ、耐久力が低く、攻撃する際に走ってくるが直進することしかできないので、距離を取って攻撃、走ってきたら回避するなど措置を取らなければならない。
+  - グロウラー
+    攻撃力・耐久力・移動力はグラウンダーと同じだが、銃口を向けると、左右によける仕草をする。
+  - ヘヴィ
+    攻撃力・耐久力ともに高いが、移動力が非常に遅い。近くに寄ると鉄骨で殴り掛かってくるが、ある程度の距離に離れると攻撃をやめる。耐久力が高いので、他の実験体を倒した後に倒す必要がある。
+
+特殊実験体
+
+  - ラバー
+    移動力、攻撃力ともに高い。耐久力は低め。体に爆弾を巻きつけていて、プレイヤーに走り寄ってくると自爆のような攻撃を行う（ラバーは死なない）。プレイヤーに走り寄ってくる前に叫び声を上げる。
+  - ドクター
+    移動力はラバーと変わらず高く、耐久力は低め。唯一プレイヤーに対する殺傷力が無いが、神経ガスを散布する。神経ガスの攻撃を受けると対人戦で地雷を踏んだ時と同様にSPが0のままになり、ジャンプ・ローリング・ダッシュといった操作ができなくなる。SPが0の状態はアイテムのアドレナリンを利用するか、時間の経過によって回復可能。
+  - エンヴィ
+    ラバーを若干強化したような実験体。移動力がとても速く、攻撃力も高い。耐久力が低い。プレイヤーに走り寄ってくると自爆し、さらに、神経ガスを散布してくる。
+
+## ゲームモード
+
+いずれのゲームモードにおいてもゲームルーム作成時に以下の設定が可能である。なお、[武器](../Page/武器.md "wikilink")・兵科が制限されるモードであっても、マップに存在する[兵器](../Page/兵器.md "wikilink")は攻撃に利用できる。
+
+  - 一般戦 - 兵科・武器を一切制限しない。
+  - 兵科戦 - 参加できる兵科が制限される。武器は自由に選択可能。
+  - 白兵戦 - 全兵科ともに近接武器（ナイフなど）のみ使用可能。
+  - 拳銃戦 - 全兵科ともに[拳銃](../Page/拳銃.md "wikilink")のみ使用可能。
+  - 投擲戦 - 全兵科ともに投擲武器（手榴弾）のみ使用可能。
+  - 必殺戦 - 全兵科ともに指定されたスナイパーライフル（[TOKAREV_SVT40](https://ja.wikipedia.org/wiki/トカレフM1940半自動小銃 "wikilink")）あるいはマシンガン（[Springfield_M](https://ja.wikipedia.org/wiki/M1ガーランド "wikilink")）のみ使用可能。武器は保有していなくても自動で割り当てられる。
+  - イベント戦 - プレイヤーの頭を大きく表示するビッグヘッド戦およびピコピコハンマー戦
+
+### ミッション
+
+  - 歩兵戦
+    爆弾を設置しようとするDERBARAN軍と、爆弾設置の阻止、および設置された爆弾の解除を目指すN.I.U軍側に分かれて戦うモード。
+    [マッチポイント](https://ja.wikipedia.org/wiki/マッチポイント "wikilink")制で行われる。
+    また、戦闘中に倒されてしまった場合は生き残っている味方プレイヤーの視点からゲームを見ることができる。
+  - 兵器戦
+    防御壁や[ミサイル](../Page/ミサイル.md "wikilink")制御装置などといった装備の破壊を目指すDERBARAN軍と防御を目指すN.I.U.軍に分かれて戦うモード（兵器戦のミッションはSiege Warマップのみ）。
+
+### デスマッチ
+
+  -
+    開始時に決めたキル数に誰が最初に到達したかで[ランキング](https://ja.wikipedia.org/wiki/ランキング "wikilink")を競うモード。自分以外は全て敵であり、ルールが分かりやすい反面、マップを熟知しておかなければ簡単に倒されてしまう。
+
+### コンクエスト
+
+  -
+    二つの陣営に分かれて相手側のチケットを先に減らしきれば勝利となる。残数は味方が倒されるたびに自軍の残数が減るため、味方の損害を減らしつつ、多くの敵を倒していくことが目的となる。
+    兵器戦における主流であるほか、小規模にも4vs4のチームデスマッチとしてこのモードが追加された。
+
+### Total War
+
+  -
+    特定の地点を一定時間占領することで味方にポイントが加算される。先に目標ポイントに到達したチームが勝ちとなる。
+    拠点の占領やキルによって兵器ポイントや支援要請ポイントが加算され、兵器の呼び出しや砲撃支援を要請できる。
+    他のモードと異なり、拠点の占領は兵器搭乗中でも可能。また、中立化を挟まず直接自軍の占領地点化される。
+
+## 兵科
+
+  - [工兵](../Page/工兵.md "wikilink")
+    初期装備 [ナイフ](../Page/ナイフ.md "wikilink")・[DB_COLT](https://ja.wikipedia.org/wiki/M1911 "wikilink")・[DF_MP5](https://ja.wikipedia.org/wiki/H&K_MP5 "wikilink")・[スパナ](../Page/レンチ.md "wikilink")
+    [兵器](../Page/兵器.md "wikilink")類の修理が可能な兵科。主に大規模戦にて兵器の修理を担当する。ゲーム内通貨で購入できる兵装のパイプレンチは、兵器類の修理をスパナより早く行えるほか、ミッション戦の爆弾解体を素早く行える。また、対人地雷や弾薬箱といった補助兵装も充実している。強力な武器も含めてそのほとんどの兵装を購入しなければ戦力になることが困難だが、効率良く兵器を修理できれば、たった一台で数十人を撃破する事も難しくない。
+  - [衛生兵](https://ja.wikipedia.org/wiki/衛生兵 "wikilink")
+    初期装備 ナイフ・DB_COLT・DF_MP5・治療キット1
+    [兵士](../Page/兵士.md "wikilink")の治療が可能な兵科。初期装備の治療キット1は、使用すると自分自身や隣接する兵士のHPを回復できる（ちなみに、治療マークが出ているキャラクターを治療キットで治療すると補助ポイント5を得ることができる）。
+    他にも課金アイテムの回復ボックスはあらかじめ地面に回復箱を置いておき、HPが減少した兵士が通ると回復させることができる。武器では近距離戦に強い[ショットガンを装備することが可能](../Page/散弾銃.md "wikilink")。現在ではHPを大幅に回復できる治療キット2や強力なメインスロット武器が多数用意され、[高火力かつ自己回復し](https://ja.wikipedia.org/wiki/火力_\(軍事\) "wikilink")、味方も支援できるという、非常に優秀な兵科となっている。
+  - [偵察兵](https://ja.wikipedia.org/wiki/偵察兵 "wikilink")
+    初期装備 ナイフ・DB_COLT・[DG_M24](https://ja.wikipedia.org/wiki/M24_SWS "wikilink")・[手榴弾](../Page/手榴弾.md "wikilink")
+    [スナイパーライフルで](https://ja.wikipedia.org/wiki/狙撃銃 "wikilink")[狙撃](https://ja.wikipedia.org/wiki/狙撃 "wikilink")が可能な兵科。物陰や遠距離から[スコープを覗き](https://ja.wikipedia.org/wiki/照準器 "wikilink")、敵[歩兵](../Page/歩兵.md "wikilink")を仕留める。近距離戦では購入[武器](../Page/武器.md "wikilink")の[サブマシンガンで対応できる他](../Page/短機関銃.md "wikilink")、スコーピング無しのライフルを使用してある程度対応することも可能。
+    スナイピングでは、狙撃技術よりも如何に見つけられにくく狙われにくい場所を戦況に応じて選べるかが重要。安全に隠れられるところが望ましい。また、性質上、拠点制圧をすることも少ないので、もらえるポイントも同じ数だけ倒した戦闘兵に比べて少なくなることも多い。戦闘そのものに直接参加できる能力が無く、ある程度経験を積んだプレイヤー向けの兵科とされている。
+    前線に突っ込んでいく人には向かない兵科。ゲーム内通貨で買える[対物ライフル](../Page/対物ライフル.md "wikilink")（[AW50F](https://ja.wikipedia.org/wiki/アキュラシーインターナショナル_AW50#AW50F "wikilink")）では、通常攻撃できない[トラックなどの](../Page/貨物自動車.md "wikilink")[操縦士や](https://ja.wikipedia.org/wiki/運転者 "wikilink")[航空機](../Page/航空機.md "wikilink")、海上兵器などの窓ガラスを貫通し、直接攻撃することができる。
+  - 戦闘兵
+    初期装備 ナイフ・DB_COLT・[DC_TYPE89](../Page/89式5.56mm小銃.md "wikilink")・手榴弾
+    前線で戦闘を行う兵科。初期装備のDC_TYPE89でも十分戦闘が可能。3番スロットのほかに課金の5番スロットを利用することで、[機関銃](../Page/機関銃.md "wikilink")やもう1丁[アサルトライフル](../Page/アサルトライフル.md "wikilink")を装備することができる。
+    主に近接距離での歩兵との戦闘を得意とするが、その分他の兵科に比べて消耗が激しいため、拠点の位置の把握や、[衛生兵](https://ja.wikipedia.org/wiki/衛生兵 "wikilink")によるサポートが重要となる。
+  - 重火器兵
+    初期装備 ナイフ・DB_COLT・[DJ_PZF_3](https://ja.wikipedia.org/wiki/パンツァーファウスト3 "wikilink")・[対戦車地雷](https://ja.wikipedia.org/wiki/地雷#対戦車地雷 "wikilink")
+    兵器に対して強力な攻撃力を持つ兵科。4番スロットの対戦車地雷は、あらかじめ設置しておくことで敵の地上兵器を破壊できるほか、[装甲車両に素早く近づき設置することで](../Page/装甲戦闘車両.md "wikilink")、直接地雷ダメージを与えることができる。
+
+## マップ
+
+すべてのマップには背景設定・ストーリーが用意されており、ローディング画面においてその設定が表示されるが、演出上のものであり、実際のプレイにはほとんど影響しない。
+
+### 歩兵戦
+
+#### 旧小規模マップ
+
+  - Marien（マリエン）
+  - Cadoro（カドーロ）
+  - Velruf（ヴェルルーフ）
+  - Khyber（カイバル）
+  - Karaqum（カラクーム）
+  - Khali（カーリ）
+  - Xauen（ザウエン）
+  - Bloc（ブロック）
+  - Dotonbori（[道頓堀](../Page/道頓堀.md "wikilink")）
+  - Beringia（ベリングギア）
+  - Artifact（アーティファクト）
+  - Bazaar（バザール）
+  - Kharif（カリフ）
+  - Venezia（[ヴェネツィア](../Page/ヴェネツィア.md "wikilink")）
+  - Dark Glow（ダークグロウ）\[8\]
+  - Rusty Nails（ラスティネイルズ）\[9\]
+  - Cold Cave（コールドケイブ）\[10\]
+  - Blue Storm（ブルーストーム）\[11\]
+  - Lost Temple（ロストテンプル）\[12\]
+  - Red Clover（レッドクローバー）\[13\]
+
+#### 旧中規模マップ
+
+全てコンクエストモード用のマップである
+
+  - Ravello（ラヴェッロ）
+  - Nerbil（ネルビル）
+  - Havana（[ハバナ](https://ja.wikipedia.org/wiki/ハバナ "wikilink")）
+  - Harbor_Elia（ハーバーエリア）
+  - Harbor_IDA（ハーバーイダ）
+  - Alberon（アルベロン） - 通称「城」
+  - Ravello_2nd_st（ラヴェッロ・セカンドストリート）
+  - Jiufen（ジウフェン）
+
+### 兵器戦
+
+#### 旧中規模マップ
+
+  - Montana（モンタナ）
+  - Cantumira（カンチュミラ）
+  - Emblem（エンブレム）
+  - Zakhar（ザカール）
+  - Cloud Forest（クラウドフォレスト）
+  - SkillPointer（スキルポインター）\[14\]
+  - SiegeWar II（シージウォー・ツー）\[15\]
+  - Odyssey（オデッセイ）
+
+#### 旧大規模マップ
+
+  - Engrene（アングレン）
+  - Ohara（オハーラ）
+  - Pargona_East（パルゴナ東部）
+  - Cantumira（カンチュミラ）
+  - Zakhar（ザカール）
+  - Pargona（パルゴナ諸島）
+  - Grundel（グランデル）
+  - Cloud Forest（クラウドフォレスト）
+  - Disturm（ディスターム）
+  - Crater（クレーター）
+  - SiegeWar（シージウォー）
+  - Conturas（コンチュラス）
+  - Kashgar（[カシュガル](https://ja.wikipedia.org/wiki/カシュガル市 "wikilink")）
+
+#### Total Warマップ
+
+  - Fort Island（フォートアイランド）
+  - Death Hill（デス・ヒル）
+
+### AIモード
+
+  - Blind Bullet（ブラインドバレット）
+  - Broken Sunset（ブロークンサンセット）
+  - 28thSt.（28thストリート/28番街）
+  - Light House（ライトハウス）
+
+## 登場兵器
+
+マップによって出現する兵器と、初期位置が決まっている。兵器は一定以上のダメージを受けると爆発する。
+
+### 非装甲車両
+
+  - [CR125_MOTOR_CYCLE](https://ja.wikipedia.org/wiki/ホンダ・CR#CR125R "wikilink")
+    1人乗りの[バイク](../Page/オートバイ.md "wikilink")。高速での移動およびジャンプが可能。ほとんどの中・大規模兵器戦闘マップに用意されている。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Hmmwv-036.jpg "wikilink")
+
+  - [ハンヴィー](https://ja.wikipedia.org/wiki/ハンヴィー "wikilink") [M2](https://ja.wikipedia.org/wiki/ブローニングM2重機関銃 "wikilink")/ハンヴィー [BGM-71 TOW](https://ja.wikipedia.org/wiki/BGM-71_TOW "wikilink")
+    3人乗りの車両。上部にM2重機関銃が備え付けられているタイプと、M2重機関銃座に防盾が付いているもの、TOW[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")砲塔を備えた3タイプが登場。耐久力はないが、機動性が高い。TOWは、実際の性能とはかけ離れた低威力で、誘導機能を持たず、放物線状の軌跡を残しながら飛翔する。なお、3番席（M2重機関銃・TOW対戦車ミサイルが装着されている座席）は体が外に露出しているので、[スナイパーに狙い撃ちされることが多いので注意](../Page/狙撃手.md "wikilink")。また、1・2番席は普通の[スナイパーライフルでは攻撃できないが](https://ja.wikipedia.org/wiki/狙撃銃 "wikilink")、[対物ライフル](../Page/対物ライフル.md "wikilink")で窓ガラスを貫通して攻撃されるので注意が必要。TOW実装当時のバグで、一部の兵器に対して[ロックオン](https://ja.wikipedia.org/wiki/ロックオン "wikilink")することができたが、現在では修正されている。
+  - [ハンヴィー アベンジャー](https://ja.wikipedia.org/wiki/アベンジャーシステム "wikilink")
+    ハンヴィーにアベンジャーシステムを搭載した地対空車両。M2重機関銃の他、Shiftキーを押すと、画面内の敵[航空兵器のロックオンを開始し](../Page/航空機.md "wikilink")、完了すると[スティンガーミサイル](https://ja.wikipedia.org/wiki/スティンガーミサイル "wikilink")を発射することができる。スティンガーは最大4連射されるがダメージが低く、あまり防空能力があるとは言えない。3種実装されているハンヴィーのうち唯一3番席が露出していないが、窓ガラス越しに操縦士の姿は見えるため、対物ライフルから攻撃を受けることがある。元がハンヴィーなので、耐久力はないが機動性が高い。
+  - [60TRUCK_C](https://ja.wikipedia.org/wiki/M35_2.5tトラック "wikilink")
+    8人も乗せることができる輸送用トラック。装甲は薄いものの、移動速度はかなりある。3-8番席は体力の回復と弾薬の補給が可能。以前は重火器兵の地雷を3個受けても耐えられたが、アップデートにより壊れるようになるほど耐久力は落ちた。
+  - [DPV](https://ja.wikipedia.org/wiki/:en:Desert_Patrol_Vehicle "wikilink")
+    重火器を搭載した四輪[バギー](https://ja.wikipedia.org/wiki/バギーカー "wikilink")。日本版に2009年5月28日に実装された。最大3人乗れる。武装として、[Mk.19](https://ja.wikipedia.org/wiki/Mk19_自動擲弾銃 "wikilink") [グレネードランチャー](https://ja.wikipedia.org/wiki/グレネードランチャー "wikilink")（2番席）とM2重機関銃（3番席）を搭載しているが、最大[仰角が低いため遠距離の攻撃には不向き](https://ja.wikipedia.org/wiki/仰俯角 "wikilink")。搭乗者の身体が露出するため、歩兵からの銃撃を受けるリスクがある。
+  - [ATV-C](https://ja.wikipedia.org/wiki/全地形対応車 "wikilink")
+    1人乗りの四輪バギー。武装・装甲が無いうえ、速度が非常に遅い。だが、地雷を3個受けても耐えられるほどの耐久力がある。
+
+{{-}}
+
+### 装甲車両
+
+  - [K1A1](https://ja.wikipedia.org/wiki/K1_\(戦車\)#派生型 "wikilink")
+    操縦士兼砲手である1番席と、2門の外部機銃を備える戦車。高い防御力と強力な主砲を装備し、大規模戦闘では主力兵器となるが、移動速度が遅く、[対戦車兵器](https://ja.wikipedia.org/wiki/対戦車兵器 "wikilink")に狙われやすい。2・3番座席は体が外に露出しているので[狙撃手](../Page/狙撃手.md "wikilink")に狙われやすい。戦車の中では、最も多く配置されている。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Leclerc-IMG_1744.jpg "wikilink")
+
+  - [ルクレール](https://ja.wikipedia.org/wiki/ルクレール "wikilink")
+    主座席と外部に体を露出させない[リモコン機銃の](https://ja.wikipedia.org/wiki/RWS "wikilink")2番席を持つ戦車。全地上兵器中最も高い火力を持つとされるが、戦車同士の砲撃戦で体感できるほどの差がない。移動速度が遅め。K1A1と比べ、背が高く幅が小さいので、閉所戦闘では有利。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:German_Army_Leopard_2A6_tank_in_Oct._2012.jpg "wikilink")
+
+  - [レオパルト2A6](https://ja.wikipedia.org/wiki/レオパルト2#バリエーション "wikilink")
+    360度旋回可能な2番席銃座を持つ戦車。車高が低く、マップ地形と相性が悪いため座礁しやすい。コンクエストモードに登場する戦車3種の中では最速だが、加速力と挙動に多少の癖があり、乗りこなすには慣れが必要。
+  - [メルカバ Mk.4](https://ja.wikipedia.org/wiki/メルカバ_\(戦車\)#メルカバ_Mk_4 "wikilink")
+    席が5つもある戦車。その内、4・5番席には武装が施されていない。実際の戦車のように射撃と操縦が分離しているため、協調が必要。Shiftキーで利用できるターボを備えており、後退にも利用可能。[ロックオン](https://ja.wikipedia.org/wiki/ロックオン "wikilink")式の[ミサイル](../Page/ミサイル.md "wikilink")「[LAHAT](https://ja.wikipedia.org/wiki/LAHAT_\(ミサイル\) "wikilink")」も備えており、LAHATはヘリにも撃てる。LAHATは[ジャベリンのような軌道のため](https://ja.wikipedia.org/wiki/ジャベリン_\(対戦車ミサイル\) "wikilink")、命中率は高い。
+  - [M1A2 エイブラムス](https://ja.wikipedia.org/wiki/M1エイブラムス#形式 "wikilink")
+    日本版では2009年8月に実装された。移動速度・砲塔旋回速度が非常に高い。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Japanese_Type_90_Tank_-_1.jpg "wikilink")
+
+  - [90式戦車](../Page/90式戦車.md "wikilink")
+    日本版では2009年8月に実装された。堅牢な防御力と高い攻撃力を誇る。
+  - [M551シェリダン](https://ja.wikipedia.org/wiki/M551シェリダン "wikilink")
+    2人乗りの[空挺戦車](https://ja.wikipedia.org/wiki/空挺戦車 "wikilink")。1番席にはM81 [ガンランチャー](https://ja.wikipedia.org/wiki/ガンランチャー "wikilink")および[M73機関銃](https://ja.wikipedia.org/wiki/M73機関銃 "wikilink")を搭載し、2番席には[M2重機関銃を搭載している](https://ja.wikipedia.org/wiki/ブローニングM2重機関銃 "wikilink")。
+  - [ヴィーゼル](https://ja.wikipedia.org/wiki/ヴィーゼル_\(空挺戦闘車\) "wikilink")
+    高い機動力と、威力の高い[Rh202機関砲を備えている](https://ja.wikipedia.org/wiki/ラインメタル_Rh202 "wikilink")。しかし、機関砲は前方180度しか旋回できない。対戦車兵器に狙われると弱いが、異常に対兵器攻撃力が高く、主力戦車との戦闘では後ろを取られない限り撃破できる。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Luchs.Recon.jpg "wikilink")
+
+  - [ルクス](https://ja.wikipedia.org/wiki/ルクス_\(装甲車\) "wikilink")
+    地上でも海上でも移動ができる[水陸両用装甲車](https://ja.wikipedia.org/wiki/水陸両用車 "wikilink")。メインのRh202機関砲は、特に[航空兵器に対して強力で機動性も中程度だが](../Page/航空機.md "wikilink")、砲身の[オーバーヒート](https://ja.wikipedia.org/wiki/オーバーヒート "wikilink")が早い。耐久力は中程度。立ち回り次第で戦車相手に互角の戦いもできるが、機関砲の位置が高く、近距離の[歩兵](../Page/歩兵.md "wikilink")に対する攻撃が困難となっている。
+  - [K200](https://ja.wikipedia.org/wiki/K200装甲兵員輸送車 "wikilink")
+    6人乗りの[装甲兵員輸送車](https://ja.wikipedia.org/wiki/装甲兵員輸送車 "wikilink")。利用法次第で[トラックのような臨時拠点を作れる](../Page/貨物自動車.md "wikilink")。2番席の防盾は気持ち程度しか防御効果はないので注意。また、銃座の位置が高いので、敵の歩兵が車体側面に張り付く形で隠れると攻撃ができない。武装は2番席にのみ、M2重機関銃を搭載している。
+  - [M2A1](https://ja.wikipedia.org/wiki/M2ブラッドレー歩兵戦闘車#改良型 "wikilink")
+    5人乗りの[歩兵戦闘車](../Page/歩兵戦闘車.md "wikilink")。1番席に[M242 25mm機関砲および](https://ja.wikipedia.org/wiki/M242_ブッシュマスター "wikilink")[BGM-71 TOW対戦車ミサイルを搭載している](https://ja.wikipedia.org/wiki/BGM-71_TOW "wikilink")。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Flugabwehrkanonenpanzer_Gepard_Heer.jpg "wikilink")
+
+  - [ゲパルト](https://ja.wikipedia.org/wiki/ゲパルト自走対空砲 "wikilink")
+    360度旋回できる[エリコンKDA 35mm機関砲を](https://ja.wikipedia.org/wiki/エリコンKD_35_mm_機関砲#車載型 "wikilink")2門装備する[自走式対空砲](https://ja.wikipedia.org/wiki/自走式対空砲 "wikilink")。対空戦闘能力は高く、対地上兵器攻撃も多少こなせるが、仰角が高いため対人直射攻撃には向かない。耐久力は中程度。砲塔は全周回転するが、仰角に限界があり、砲塔直上が死角。自走式対空砲とはいえ、1発のダメージがさほど大きくないことから、航空兵器を[撃墜](https://ja.wikipedia.org/wiki/撃墜 "wikilink")するのは難しい。
+  - [天馬](https://ja.wikipedia.org/wiki/:ko:천마_대공미사일 "wikilink")
+    Shiftキーを押しながら航空兵器をロックオンし、[対空ミサイルを](https://ja.wikipedia.org/wiki/ミサイル#対空ミサイル "wikilink")0.5秒間隔、8連装で発射できる対空車両。機動性・耐久性共に中程度。ゲパルトと同様に砲塔は全周回転可能だが、仰角に限界があり、砲塔直上が死角。比較的遠距離からロックオンできるため、エリコンKDA 35mm機関砲を装備したゲパルトよりも航空兵器を撃墜しやすい。対地攻撃能力はゼロに等しく、戦車や重火器兵の攻撃から車体を守る術はない。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:M109A6_Paladin_UTARNG_2004_firing.jpg "wikilink")
+
+  - [M109A6 パラディン](https://ja.wikipedia.org/wiki/M109_155mm自走榴弾砲#バリエーション "wikilink")
+    日本版では2009年8月に実装された。砲弾は放物線を描くため、物陰に隠れながら攻撃することができるが、ある程度の慣れが必要。反面、移動速度と砲塔旋回速度が遅く、敵戦車に接近されたらすぐに壊されるので、注意が必要である。
+  - [AAV-7A1](https://ja.wikipedia.org/wiki/AAV7#各型及び派生型 "wikilink")
+    日本版では2012年7月31日に実装された、水陸両用装甲車。武装は[Mk.19](https://ja.wikipedia.org/wiki/Mk19_自動擲弾銃 "wikilink") [グレネードランチャー](https://ja.wikipedia.org/wiki/グレネードランチャー "wikilink")とM2重機関銃。
+
+{{-}}
+
+### 航空機
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Chinook.ch-47d.d-101.rnethaf.arp.jpg "wikilink")
+
+  - [CH-47 チヌーク](../Page/CH-47_\(航空機\).md "wikilink")
+    8人まで搭乗可能な大型輸送ヘリ。武装は、3番席に[ドアガン](https://ja.wikipedia.org/wiki/ドアガン "wikilink")として備わっている[M60機関銃](https://ja.wikipedia.org/wiki/M60機関銃 "wikilink")のみ。[スティンガー](https://ja.wikipedia.org/wiki/スティンガーミサイル "wikilink")10発、[ヘルファイア](https://ja.wikipedia.org/wiki/ヘルファイア_\(ミサイル\) "wikilink")8発を受けても破壊されないほどの耐久力を持ち、[パラシュート降下による襲撃が可能](https://ja.wikipedia.org/wiki/エアボーン "wikilink")（2-8番席のみパラシュート利用可能）。しかし、低高度ではパラシュート降下はできず、落下死する場合がある。大型ヘリのため、機動は鈍重。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Blackhawk.jpg "wikilink")
+
+  - [UH-60 ブラックホーク](https://ja.wikipedia.org/wiki/UH-60_ブラックホーク "wikilink")
+    無誘導のヘルファイア[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")装備型（UH-60 ミサイル）と、対地攻撃用のドアガンとして[M134 ミニガンを](https://ja.wikipedia.org/wiki/M134_\(機関銃\) "wikilink")3・4番席にそれぞれ1丁ずつ装備したタイプ（UH-60 ミニガン）がある。機動性はやや低いが、対地攻撃力は強力。耐久力は中程度。UH-60 ミサイル、UH-60 ミニガンともに4人乗り。ただ、UH-60 ミサイルの場合、助手席を含む3つの座席は輸送人員座席となっている。[前線](https://ja.wikipedia.org/wiki/前線 "wikilink")後方への強襲に使用できるほか、山地に[偵察兵を輸送する場合にも活用できる](../Page/狙撃手.md "wikilink")。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Hughes_OH-6A_Cayuse_\(369A\).jpg "wikilink")
+
+  - [MD500](https://ja.wikipedia.org/wiki/OH-6_\(航空機\) "wikilink")
+    [ハイドラ70ロケット弾](https://ja.wikipedia.org/wiki/ハイドラ70ロケット弾 "wikilink")とM134 ミニガンを装備する[攻撃ヘリ](../Page/攻撃ヘリコプター.md "wikilink")。機動力・攻撃力共に高く、バランスブレイカーな性能を誇る。ただし、装甲は薄いため、破壊されやすい。また、装甲が薄いために軽く、UH-60やAH-64Dを操縦する感じでマウスを動かすとすぐに建造物にぶつかり墜落するなど、かなり操作が難しい。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:00-05159_AH-64D_1-2nd_Avn;_Camp_Eagle,_Wonju,_South_Korea_US_\(3098520806\).jpg "wikilink")
+
+  - [AH-64D アパッチ・ロングボウ](https://ja.wikipedia.org/wiki/AH-64D_アパッチ・ロングボウ "wikilink")
+    2人乗りの攻撃ヘリ。1番席は[コックピットで](https://ja.wikipedia.org/wiki/軍用機のコックピット "wikilink")、スティンガー[空対空ミサイル](../Page/空対空ミサイル.md "wikilink")とヘルファイア対戦車ミサイルが使用可能（以前はShift長押しによる[ロックオン](https://ja.wikipedia.org/wiki/ロックオン "wikilink")機能があったが、プレイヤーからの要望もあり、[ゲームバランス](https://ja.wikipedia.org/wiki/ゲームバランス "wikilink")調整のため廃止された。この更新によってアパッチの攻撃力は大きく低下した）。左クリックでスティンガー、右クリックでヘルファイアが発射できる。2番席は[M230 30mm チェーンガンのみ使用可能](https://ja.wikipedia.org/wiki/M230機関砲 "wikilink")。
+  - [Mi-24/35 Mk.III スーパーハインド](https://ja.wikipedia.org/wiki/Mi-24_\(航空機\)#Mi-35シリーズ "wikilink")
+    日本版では2009年5月28日に実装された、2人乗りの攻撃ヘリ。1番席のコックピットでは[S-5ロケット弾](https://ja.wikipedia.org/wiki/S-5ロケット弾 "wikilink")を発射でき、2番席からは[GSh-30-2 30mm機関砲と](https://ja.wikipedia.org/wiki/GSh-30-2_\(機関砲\) "wikilink")、地上兵器にロックオン可能な[9K114](https://ja.wikipedia.org/wiki/9K114 "wikilink")空対地ミサイルを発射できる。AH-64Dに似た武装だが、操作性についてはUH-60に近い。ちなみに、エンジン音が唯一異なっている。
+    [航空兵器の中では機関砲の威力が高く](../Page/航空機.md "wikilink")、オーバーヒートし辛いメリットもある。
+  - [Ka-50 ホーカム](https://ja.wikipedia.org/wiki/Ka-50_\(航空機\) "wikilink")
+    日本版では2012年7月31日に実装された、2人乗りの攻撃ヘリ。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Thunderbolt_II_flight_above.jpg "wikilink")
+
+  - [A-10 サンダーボルトII](../Page/A-10_\(航空機\).md "wikilink")
+    機首に[GAU-8 30mm アヴェンジャー砲](../Page/GAU-8_\(機関砲\).md "wikilink")、両翼の[ハードポイント](https://ja.wikipedia.org/wiki/ハードポイント "wikilink")に[AGM-65 マーベリック無誘導爆弾](../Page/AGM-65_マーベリック.md "wikilink")（実物は空対地ミサイルだが、ゲーム内では誘導機能がないため、無誘導爆弾に分類される）を搭載した空対地[攻撃機](../Page/攻撃機.md "wikilink")。耐久力は高め（3機ある[固定翼機](../Page/固定翼機.md "wikilink")の中では一番低いが）だが、旋回性能はやや低め。アヴェンジャー砲はオーバーヒートが早く起こるが、威力が高く、無誘導爆弾は[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")を1発で破壊できるほどの高威力である。なお、初期のWarRockは『[バトルフィールド1942](https://ja.wikipedia.org/wiki/バトルフィールド1942 "wikilink")』の[MODからA](https://ja.wikipedia.org/wiki/Mod_\(コンピュータゲーム\) "wikilink")-10のモデリングデータを無断使用していた経緯がある。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Rafale_ag1.jpg "wikilink")
+
+  - [ラファール](../Page/ラファール_\(航空機\).md "wikilink")
+    [フランス空軍](https://ja.wikipedia.org/wiki/フランス空軍 "wikilink")の[戦闘機](../Page/戦闘機.md "wikilink")。日本版では[11月20日](../Page/11月20日.md "wikilink")のアップデートにて実装された。2連の[DEFA 550](https://ja.wikipedia.org/wiki/DEFA_550 "wikilink") [リヴォルヴァーカノン](https://ja.wikipedia.org/wiki/リヴォルヴァーカノン "wikilink")と[MICA空対空ミサイルを装備しており](../Page/MICA_\(ミサイル\).md "wikilink")、航空兵器に対してロックオンすることができる。操作感覚は敏感であり、機体も大きめで、ステージに高い建造物が多いため、翼をぶつけて墜落することがある。
+  - [KF-15 スラムイーグル](https://ja.wikipedia.org/wiki/F-15E_\(航空機\)#韓国 "wikilink")
+    日本版では2009年5月28日に実装された。[F-15E ストライクイーグルの](https://ja.wikipedia.org/wiki/F-15E_\(航空機\) "wikilink")[韓国仕様](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")。武装は、[Mk.84無誘導爆弾と](https://ja.wikipedia.org/wiki/Mk_84_\(爆弾\) "wikilink")、ロックオン可能な[AIM-9 サイドワインダー空対空ミサイルを搭載しているが](https://ja.wikipedia.org/wiki/サイドワインダー_\(ミサイル\) "wikilink")、機関砲が使えないため、使い勝手はラファールとは異なる。また、無誘導爆弾もA-10のものに比べると兵器に対する威力は落ちている（歩兵については同等）。機動性はラファールより優れており、よりシビアな操作感覚となっている。
+
+{{-}}
+
+### 水上兵器
+
+  - LSSC
+    2人乗りの小型ボート。武装は[M60機関銃](https://ja.wikipedia.org/wiki/M60機関銃 "wikilink")のみ。機動力は高いが、Mk.V戦闘支援ボートほどの攻撃力と装甲はない。スピードを落とした状態で降りると中のくぼみに入ったままになり、水上からの[狙撃](https://ja.wikipedia.org/wiki/狙撃 "wikilink")などに利用できる。
+  - [PWC](https://ja.wikipedia.org/wiki/水上オートバイ "wikilink")
+    水上版CR125ともいえる。高い機動力を誇っている。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Mkv-soc.jpg "wikilink")
+
+  - [Mk.V戦闘支援ボート](https://ja.wikipedia.org/wiki/Mk5特殊任務艇 "wikilink")
+    攻撃用ボート。10連発[Mk.19](https://ja.wikipedia.org/wiki/Mk19_自動擲弾銃 "wikilink") [グレネードランチャー](https://ja.wikipedia.org/wiki/グレネードランチャー "wikilink")と[M2重機関銃を装備しており](https://ja.wikipedia.org/wiki/ブローニングM2重機関銃 "wikilink")、高い攻撃力と厚い装甲を持つ。LSSCより高速で移動できるが、閉所での方向転換に難があるほか、別の水上兵器との接触の際に受けるダメージが大きいなど、使い勝手は悪い。
+  - [ハミナ級ミサイル艇](https://ja.wikipedia.org/wiki/ハミナ級ミサイル艇 "wikilink")
+    [フィンランド海軍](https://ja.wikipedia.org/wiki/フィンランド海軍 "wikilink")の中型[戦闘艦](https://ja.wikipedia.org/wiki/戦闘艦 "wikilink")。日本版では11月20日のアップデートにて実装された。全兵器中最高の耐久力を持っている。放物線を描く[ボフォース 57mm Mk.3主砲に加えて](https://ja.wikipedia.org/wiki/ボフォース57mm砲#Mk_3 "wikilink")、[RIM-116 RAM艦対空ミサイルおよび](https://ja.wikipedia.org/wiki/RAM_\(ミサイル\) "wikilink")[Mk 38 25 mm 機関砲を搭載している](https://ja.wikipedia.org/wiki/Mk_38_25_mm_機関砲 "wikilink")。機動力はとても低く、熟練者でないと移動したい場所に移動することさえ困難である。
+
+{{-}}
+
+### 固定武器
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:JGSDF_L-90_AAA.jpg "wikilink")
+
+  - [エリコン L-90対空砲](https://ja.wikipedia.org/wiki/35mm2連装高射機関砲_L-90 "wikilink")
+    地上据え付け型の対空機関砲。航空兵器に対しかなりの破壊力を持つほか、通常兵器や歩兵にもダメージを与えられる。砲塔は全周回転可能。限界仰角が高いが、真上には砲を向けられないため、真上からの攻撃には対応できない。限界俯角がやや高いため、限界俯角以下の射界に入った航空兵器は射撃できない。耐久力はかなり高い。航空兵器のあるステージにはすべて設置されている。
+  - [ブローニングM2重機関銃](https://ja.wikipedia.org/wiki/ブローニングM2重機関銃 "wikilink")
+    土嚢や窓に設置されている[重機関銃](https://ja.wikipedia.org/wiki/重機関銃 "wikilink")。精度と威力は高いが、オーバーヒートしやすい。正面にいる歩兵相手には強力だが、身体が完全に露出していることに加え、後方は無防備のため、あまり長く居座っていると狙撃される危険性がある。多数のステージに設置されている。
+  - [神弓](https://ja.wikipedia.org/wiki/神弓 "wikilink")
+    地面や建物に設置されている[地対空ミサイル](../Page/地対空ミサイル.md "wikilink")。威力・誘導性が高く、ロックオンすれば航空機はすぐに撃墜できる。しかし、地上兵器には無力で、身を守る物も無く、耐久力も低いので壊されやすいのが難点。
+  - [BGM-71 TOW](https://ja.wikipedia.org/wiki/BGM-71_TOW "wikilink")
+    地面や建物に設置されている[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")。誘導性が高いが、威力は低い。
+  - [M134 ミニガン](https://ja.wikipedia.org/wiki/M134_\(機関銃\) "wikilink")
+    設置型の[ガトリング砲](../Page/ガトリング砲.md "wikilink")。1発あたりの威力は[UH-60 ミニガンの物に近いが](https://ja.wikipedia.org/wiki/UH-60_ブラックホーク "wikilink")、[P90相当の連射とほぼ](https://ja.wikipedia.org/wiki/FN_P90 "wikilink")100%の精度で視界に入った敵がバタバタ死んでいく。欠点は、前方80度程度しか向けられず、後方からの奇襲に弱いためカバーが必須な点。使用時はVキーで3人称視点にすると扱いやすい。
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:M101-105mm-howitzer-camp-pendleton-20050326.jpg "wikilink")
+
+  - [野戦砲](https://ja.wikipedia.org/wiki/M101_105mm榴弾砲 "wikilink")
+    乗ることができず、破壊もできないが、一部の大規模MAPで課金装備の双眼鏡を使うと砲撃支援が可能。SkillPointerでは陣地占領中、敵本陣に向けて自動発射されるがダメージは無い。一度誰かが撃つと再充填するまで全プレイヤー使用不能になる。ターゲット範囲にランダムで落ちてくるせいか、適当に撃っても意外と当たる事が多い。射程範囲があり、近・遠距離は狙えない、中距離限定のため使用者の砲撃能力が問われる。
+
+{{-}}
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 外部リンク
+
+  - [日本公式サイト](http://warrock.playgra.com/) - プレグラ
+
+  -
+  - [韓国公式サイト](http://warrock.co.kr/)
+
+  - [Dream Execution](http://www.dreamexe.co.kr/)
+
+[Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink") [Category:オンラインゲーム作品](https://ja.wikipedia.org/wiki/Category:オンラインゲーム作品 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.  [【重要】サービス終了のお知らせ](http://warrock.playgra.com/boards/notice/detail?category=notice&id=32679&page=) プレグラ 2017年2月28日
+8.  4:4小規模コンクエスト専用マップ
+9.
+10.
+11.
+12.
+13.
+14. 他の中規模と異なり、「争奪戦モード」というルールが適用される
+15. 他の中規模と異なり、「ミッションモード」が適用される。小規模のミッションとはルールが全く違う。

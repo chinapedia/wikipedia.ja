@@ -1,0 +1,186 @@
+> この記事は[ \(PC\)](https://ja.wikipedia.org/wiki/_\(PC\))から翻訳されています。
+
+
+『**ボンバーマン**』（*BOMBER MAN*）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")に日本の[ハドソン](../Page/ハドソン.md "wikilink")から発売された[PCエンジン](../Page/PCエンジン.md "wikilink")用[アクションゲーム](../Page/アクションゲーム.md "wikilink")。
+
+主人公の「ホワイトボンバーマン」を操作し、悪の心を持った「ブラックボンバーマン」に攫われた三森博士の娘である理沙を救出する事を目的としたゲーム。開発は[ハドソン](../Page/ハドソン.md "wikilink")が行い、ディレクターは[藤原茂樹](https://ja.wikipedia.org/wiki/藤原茂樹_\(ゲームクリエイター\) "wikilink")、ゲーム・デザインは後に『[ボンバーマン'93](../Page/ボンバーマン'93.md "wikilink")』（[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")）を手掛ける事となる桑原司、音楽は[ファミコン版と同様に](https://ja.wikipedia.org/wiki/ボンバーマン_\(ファミコン\) "wikilink")[竹間ジュンが担当している](https://ja.wikipedia.org/wiki/竹間淳 "wikilink")。
+
+シリーズ初のPCエンジンタイトルで、シリーズで初めてプレイヤー5人での対戦が可能になった作品として知られている\[1\]。過去の3作品\[2\]では不定であったキャラクターデザインや世界観を一新し、後のシリーズに近いコミカルで可愛らしいものへと変更になったタイトルである。また、バトルゲームの提案を始めシリーズの発展に大きな貢献をし、後にシリーズプロデューサーを務めた藤原が初めて関わったシリーズタイトルでもある\[3\]。
+
+日本国外では、[Amiga](../Page/Amiga.md "wikilink")、[Atari ST](https://ja.wikipedia.org/wiki/Atari_ST "wikilink")、[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")において『*Dyna Blaster*』のタイトルで発売された\[4\]\[5\]\[6\]。
+
+## ゲーム内容
+
+### ノーマルゲーム
+
+一人用のゲームモード。タイトル画面で「GAME START」を選ぶとこのモードが始まる。ゲームシステム自体は[初代ボンバーマン](../Page/ボンバーマン_\(ファミリーコンピュータ\).md "wikilink")（以下、「ファミコン版」と表記する）とほぼ同じであるが、ステージの数え方がラウンド制に変更され、各ラウンドの最終ステージに[ボスが出現するようになった](https://ja.wikipedia.org/wiki/ボスキャラクター "wikilink")。またファミコン版では横スクロールのステージのみであったが、本作では1画面に収まるステージや縦スクロールのステージも存在する。
+
+### バトルゲーム
+
+対戦モード。タイトル画面で「BATTLE」を選ぶと開始。最大の特徴としては[マルチタップを用いて最大](https://ja.wikipedia.org/wiki/PCエンジン#コントローラ拡張 "wikilink")5人までの対戦が可能なことが挙げられる。本作品ではまだコンピューター（COM）との対戦はできず、5人未満での対戦の際はノーマルゲームにも登場する敵キャラが登場する。パワーアップアイテムは「火力アップ」と「爆弾数アップ」の2つだけ。また「ノーマルモード」と「ドクロモード」のいずれかを選択でき、「ドクロモード」の場合取ると様々な効果（移動速度が低下するなど、ほとんどは対戦に不利な効果）が起こる「ドクロアイテム」が登場する\[7\]。プレッシャーブロック（残り時間が少なくなると出現する、フィールドを狭める破壊不能のブロック）も本作では登場しない。
+
+マルチタップではなく[PCエンジンGT](../Page/PCエンジンGT.md "wikilink")を使用して対戦する『**バトル通信**』というモードもあり、こちらは2人対戦専用。
+
+## 設定
+
+### ストーリー
+
+時は未来世紀、思考能力を持ったロボットの2号機、ブラックボンバーマンが三森博士によって完成された。しかし博士のプログラムミスにより、ブラックボンバーマンは悪の心を持ってしまい、遂には博士の娘である理沙をさらい機械城に立てこもってしまった。理沙を助けるべくホワイトボンバーマンは山や川を越え、ブラックボンバーマンの居城である機械城へと向かうのだった。
+
+### ステージ構成
+
+全8ラウンド。各ラウンドにはそれぞれ8つのステージがあり、8ステージ目にはボスが待ち構えている。
+
+  - ラウンド1 - [国境](../Page/国境.md "wikilink")の壁
+  - ラウンド2 - 岩山
+  - ラウンド3 - [川](../Page/川.md "wikilink")
+  - ラウンド4 - [森](../Page/森林.md "wikilink")
+  - ラウンド5 - 溶岩洞
+  - ラウンド6 - 城内1
+  - ラウンド7 - 城内2
+  - ラウンド8 - 機械城内（最終ラウンド）
+
+## 敵キャラクター
+
+一部の敵は[説明書に](https://ja.wikipedia.org/wiki/マニュアル "wikilink")[イラスト付きで紹介されており](../Page/イラストレーション.md "wikilink")、これらの他にも多数の敵が登場する。一度の爆発で複数の敵を倒すと獲得[スコアが上昇するシステムは本作でも健在](https://ja.wikipedia.org/wiki/得点 "wikilink")。ちなみに本作のボスキャラは説明書には「ボス」と明記されておらず、「最終ステージの恐怖」と書かれている。
+
+  - バロム
+    ファミコン版から引き続き登場のオレンジ色の[風船](https://ja.wikipedia.org/wiki/風船 "wikilink")形の敵。本作ではブロックに当たった時以外方向転換することがなくなり、倒しやすくなった。ラウンド1と8のほか、後述のバトルゲームにも登場する。
+  - ボヨン
+    丸い目玉と縦長の口、青色の体が特徴で、伸び縮みしながら移動する。序盤から終盤まで、あらゆるラウンドに登場する。
+  - ナガチャム
+    [帽子](../Page/帽子.md "wikilink")をかぶった[幽霊](../Page/幽霊.md "wikilink")のような敵。ラウンド6に登場。
+  - シャシャキン
+    [ペンギン](https://ja.wikipedia.org/wiki/ペンギン "wikilink")や[カモノハシ](https://ja.wikipedia.org/wiki/カモノハシ "wikilink")を思わせる口が特徴。ラウンド5に登場。
+  - オジン
+    ボヨンに似た姿だが色は黄色で、歯を剥き出しにしたような表情をしている。ラウンド7に登場。
+  - パース
+    ファミコン版から引き続き登場。[トラ](../Page/トラ.md "wikilink")の顔のような敵で、ファミコン版と同じく最速クラスのスピードで的確に追いかけてくる。序盤から終盤まで、あらゆるラウンドに登場する。
+  - ポンタン
+    ファミコン版から引き続き登場の円盤状の敵。こちらも性能はファミコン版に準じており、ソフトブロックをすり抜けながら猛スピードで追いかけてくる。ラウンド8の後半のほか、全ステージでタイムオーバーになった時にも登場する。
+  - コンドリア
+    ファミコン版から引き続き登場の[スライム](../Page/スライム.md "wikilink")状の敵。やはり性能はファミコン版に準じており、ソフトブロックをすり抜けて移動する。本作ではバトルゲームにのみ登場する。
+  - アーロン
+    ボス級のキャラクター。ラウンド1と3に登場する。通常の敵キャラサイズの[頭](https://ja.wikipedia.org/wiki/頭 "wikilink")・[胴体](https://ja.wikipedia.org/wiki/胴体 "wikilink")・[尾](https://ja.wikipedia.org/wiki/尾 "wikilink")が連なった[ヘビ](../Page/ヘビ.md "wikilink")状体型の敵。攻撃手段は体当たりのみだが、時おり怒り顔になって移動速度が速くなる。耐久力は2だが、1回目のダメージを体全体に与えるまでは2回目のダメージを与えられない。なお、ボスステージにはソフトブロックが全く無いが、敵を全滅させれば何も無いところに出口が出現する。
+  - バブルズ
+    ボス級のキャラクター。ラウンド2と5に登場する。「親」と「子」がいて、どちらも体当たりで攻撃してくる。耐久力は親が3で子が1となっており、親を放っておくと子を産み出したり産み出した子とフォーメーションを組んで迫ってきたりする。
+  - ワープマン
+    ボス級のキャラクター。ラウンド4と6に登場する。
+  - テルピョー
+    ボス級のキャラクターとともに登場する敵。黄色いタコのような見た目が特徴。全ラウンドに登場する。
+  - スピッドファイヤー
+    ボス級のキャラクター。ラウンド7に登場する。
+
+## 移植版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売日</p></th>
+<th><p>対応機種</p></th>
+<th><p>開発元</p></th>
+<th><p>発売元</p></th>
+<th><p>メディア</p></th>
+<th><p>型式</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>ボンバーマン</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/X68000" title="wikilink">X68000</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/システムソフト" title="wikilink">システムソフト</a></p></td>
+<td><p>システムソフト</p></td>
+<td><p><a href="../Page/フロッピーディスク.md" title="wikilink">フロッピーディスク</a></p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>Dyna Blaster</p></td>
+<td></td>
+<td><p><a href="../Page/Amiga.md" title="wikilink">Amiga</a></p></td>
+<td></td>
+<td></td>
+<td><p>フロッピーディスク<br />
+<a href="../Page/コンパクトカセット.md" title="wikilink">カセットテープ</a></p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>Dyna Blaster</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Atari_ST" title="wikilink">Atari ST</a><br />
+<a href="https://ja.wikipedia.org/wiki/PC/AT互換機" title="wikilink">PC/AT互換機</a></p></td>
+<td></td>
+<td></td>
+<td><p>フロッピーディスク<br />
+カセットテープ</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - X68000版
+
+<!-- end list -->
+
+  - [システムソフト](https://ja.wikipedia.org/wiki/システムソフト "wikilink")が[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")に発売した。こちらは対戦モードが最大4人で、音源の違いはあるものの音楽やグラフィック、ゲームシステムともほぼ同じ内容となっている。
+
+## スタッフ
+
+  - ベーシック・ゲーム・デザイナー：[中本伸一](https://ja.wikipedia.org/wiki/中本伸一 "wikilink")
+  - ゲームディレクター：[藤原茂樹](https://ja.wikipedia.org/wiki/藤原茂樹_\(ゲームクリエイター\) "wikilink")
+  - ゲームデザイナー：桑原司
+  - メインプログラマー：永田淳夫
+  - サブプログラマー：Wrecker Muroya（室屋勇治）
+  - グラフィックデザイナー：小倉英之、[佐々木みか](https://ja.wikipedia.org/wiki/角谷みか "wikilink")
+  - ミュージックコンポーザー：[竹間ジュン](https://ja.wikipedia.org/wiki/竹間淳 "wikilink")
+  - サウンドプログラマー：星恵太
+
+## 評価
+
+  - PCエンジン版
+
+ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](https://ja.wikipedia.org/wiki/クロスレビュー "wikilink")」では合計29点（満40点）\[8\]、『[月刊PCエンジン](https://ja.wikipedia.org/wiki/月刊PCエンジン "wikilink")』では85・95・90・100・95の平均93点、『[マル勝PCエンジン](https://ja.wikipedia.org/wiki/マル勝PCエンジン "wikilink")』では8・7・9・9の合計33点（満40点）、『[PC Engine FAN](https://ja.wikipedia.org/wiki/PC_Engine_FAN "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、23.78点（満30点）となっている\[9\]。また、この得点はPCエンジン全ソフトの中で51位（485本中、1993年時点）となっている\[10\]。
+
+| 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
+| -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
+| 得点 | 4.26  | 3.43 | 4.09 | 4.36 | 4.15 | 3.49    | 23.78 |
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [藤原茂樹 (ゲームクリエイター)](https://ja.wikipedia.org/wiki/藤原茂樹_\(ゲームクリエイター\) "wikilink") - 本作のディレクター。
+  - [竹間淳](https://ja.wikipedia.org/wiki/竹間淳 "wikilink") - 本作の作曲を担当。
+  - [ボンバーマンコレクションVOL.1](https://ja.wikipedia.org/wiki/ボンバーマンコレクション#Windows用ソフト "wikilink") - 本作の海外版が収録されているオムニバスソフト。
+  - [ボンバーマン名曲集&オリジナル・サウンド・トラック](https://ja.wikipedia.org/wiki/ボンバーマン名曲集&オリジナル・サウンド・トラック "wikilink") - 本作のBGMが収録されたCD。
+
+## 外部リンク
+
+  -
+  - （英語）
+
+[Category:1990年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1990年のコンピュータゲーム "wikilink") [Category:Amiga用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Amiga用ゲームソフト "wikilink") [Category:Atari_ST用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Atari_ST用ゲームソフト "wikilink") [Category:DOSのゲームソフト](https://ja.wikipedia.org/wiki/Category:DOSのゲームソフト "wikilink") [Category:PCエンジン用ソフト](https://ja.wikipedia.org/wiki/Category:PCエンジン用ソフト "wikilink") [Category:X68000用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X68000用ゲームソフト "wikilink") [Category:ボンバーマン](https://ja.wikipedia.org/wiki/Category:ボンバーマン "wikilink") [Category:ユービーアイソフト](https://ja.wikipedia.org/wiki/Category:ユービーアイソフト "wikilink")
+
+1.  シリーズで初めて対戦自体を搭載したのは[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")の『[ボンバーボーイ](../Page/ボンバーボーイ.md "wikilink")』（1990年）である。
+2.  ここでは『[ボンバーマン (ファミリーコンピュータ)](../Page/ボンバーマン_\(ファミリーコンピュータ\).md "wikilink")』（1985年）、『[ボンバーキング](https://ja.wikipedia.org/wiki/ボンバーキング "wikilink")』（1987年）、『[ボンバーボーイ](../Page/ボンバーボーイ.md "wikilink")』（1990年）を指す。
+3.  [藤原茂樹プロフィール | 株式会社ゼロイチ](http://www.zeroichi01.co.jp/profile.html)
+4.
+5.
+6.
+7.  後のシリーズ作品では基本的にこのような設定は出来ず、ドクロ有りで固定となっている。
+8.
+9.
+10.

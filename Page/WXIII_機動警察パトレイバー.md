@@ -1,0 +1,184 @@
+> この記事は[WXIII ](https://ja.wikipedia.org/wiki/WXIII_)から翻訳されています。
+
+
+『**WXIII 機動警察パトレイバー**』（ウェイステッドサーティーン きどうけいさつパトレイバー）は、『[機動警察パトレイバー](../Page/機動警察パトレイバー.md "wikilink")』の劇場公開アニメ作品第3弾である。[2001年](../Page/2001年.md "wikilink")製作の日本映画。上映時間100分。日本公開は[2002年](../Page/2002年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")。同時上映は『[ミニパト](https://ja.wikipedia.org/wiki/ミニパト "wikilink")』のシャッフル上映（1〜3話の内のどれか一作）。
+
+## 概要
+
+13号と呼ばれる謎の巨大生物を巡る陰謀と、それらを追う刑事2人の物語。人を襲う怪物を目撃した刑事の久住と秦は、事件を追ううち研究員冴子の秘密と禁忌の実験を知る。その裏では軍事的領域のアプローチが着々と進行していた。
+
+声の出演は、[綿引勝彦](https://ja.wikipedia.org/wiki/綿引勝彦 "wikilink")・[平田広明](../Page/平田広明.md "wikilink")・[田中敦子](https://ja.wikipedia.org/wiki/田中敦子_\(声優\) "wikilink")・[大林隆介](https://ja.wikipedia.org/wiki/大林隆介 "wikilink")など。
+
+本作は、漫画版のエピソード「廃棄物13号」と「STRIKE BACK（逆襲）」を原作として制作されているが、その内容は大きく異なっており、特に主役やヒロイン、ストーリー、設定など、変更点は多岐に渡る他、時代性の変化が反映されている。
+
+企画は1995年頃に始まり、当初は[OVA](../Page/OVA.md "wikilink")シリーズとして制作される予定だったが\[1\]、フォーマットを劇場作品に移すなど、完成までに複雑な経緯があった。また、[スピンオフ](https://ja.wikipedia.org/wiki/スピンオフ "wikilink")の形をとっており、第二小隊のメンバーなど従来の主役たちから離れ、オリジナルの刑事を主人公としている。
+
+## あらすじ
+
+ある日、東京湾に輸送機が墜落する。その後湾岸の各所で何者かによってレイバーが襲撃される事件が連続して発生。警視庁城南署の刑事、久住と秦は各所で聞き込み捜査を進め、墜落事件の後に巨大な[ハゼ](https://ja.wikipedia.org/wiki/ハゼ "wikilink")が釣れていたこと、墜落した輸送機の貨物コンテナに不審な点があることなどを突き止める。
+
+その後、6月8日の雨の夜に若者の集う[ディスコ](https://ja.wikipedia.org/wiki/ディスコ "wikilink")クラブ「バビロン」で車に乗ったカップルの惨殺死体が発見される。時を同じくして近隣にあるバビロン工区の水上コンテナ備蓄基地で突如警報が作動し、停電と共に内部の職員と連絡がとれなくなる事態が発生。
+
+近くを走行中のパトカー（城南4）に偶然乗っていた久住と秦は、警備員の通報を受けパトカーに乗る警官らと共に現場に急行。施設内部へと分け入る。しかし、そこで彼らが遭遇したのは廃棄物13号（WXIII）と名付けられた異形の怪物だった。
+
+## 登場人物
+
+※各登場人物の詳細は[機動警察パトレイバーの登場人物](https://ja.wikipedia.org/wiki/機動警察パトレイバーの登場人物 "wikilink")を参照。
+
+  - 久住 武史
+    声 - [綿引勝彦](https://ja.wikipedia.org/wiki/綿引勝彦 "wikilink")\[2\]
+    本作オリジナルのキャラクター。警視庁城南警察署捜査課に勤務する中年の刑事。年相応の貫禄と経験、さらに高い洞察力の持ち主で聞き込みを重視する昔気質の刑事で、後藤とは旧知の仲。左足を骨折しており歩行が困難な状態。
+  - 秦 真一郎
+    声 - [平田広明](../Page/平田広明.md "wikilink")
+    本作オリジナルのキャラクター。久住と同じ城南署捜査課の刑事で、共に事件の捜査に当たる。28歳の独身。
+  - 岬 冴子
+    声 - [田中敦子](https://ja.wikipedia.org/wiki/田中敦子_\(声優\) "wikilink")
+    ニシワキセルを発見した西脇順一博士の娘で、東都生物医学研究所主任。病死した娘に対して異常なほど執着しており、娘の癌細胞とニシワキセルの合成生物**13号**を育成する。
+  - 岬 一美
+    声 - [鈴木里彩](https://ja.wikipedia.org/wiki/鈴木里彩 "wikilink")
+    冴子の娘。6歳の時に[癌](https://ja.wikipedia.org/wiki/癌 "wikilink")で他界している。
+  - 栗栖 敏郎
+    声 - [穂積隆信](https://ja.wikipedia.org/wiki/穂積隆信 "wikilink")
+    財団法人東都生物医学研究所の所長、61歳。ニシワキセル研究の第一人者であり、西脇博士とは南極探検や研究所設立を共に行っている。
+  - 宮ノ森 静夫
+    声 - [拡森信吾](https://ja.wikipedia.org/wiki/森しん "wikilink")
+    東都生物医学研究所の研究員。
+  - 石原 悟郎
+    声 - [森田順平](https://ja.wikipedia.org/wiki/森田順平 "wikilink")
+    [陸上自衛隊](../Page/陸上自衛隊.md "wikilink")の[一佐](https://ja.wikipedia.org/wiki/幹部 "wikilink")。廃棄物シリーズ研究のスポンサーとして事件に関わる。
+  - マイケル・パッケンジー
+    [アメリカ陸軍](https://ja.wikipedia.org/wiki/アメリカ陸軍 "wikilink")の[大佐](../Page/大佐.md "wikilink")。石原と同じく廃棄物シリーズ研究のスポンサー。
+  - 後藤 喜一
+    声 - [大林隆之介](https://ja.wikipedia.org/wiki/大林隆介 "wikilink")
+    警視庁特車二課第二小隊隊長。久住とは旧知の間柄だが、本作までの3年間会っていなかった。久住の行く先々で部下を送り、情報を提供する。
+  - 泉 野明
+    声 - [冨永みーな](../Page/冨永みーな.md "wikilink")
+    特車二課第二小隊隊員。13号との対決において、登場する1号機の応用の高さにより、13号が着込んだカウル（外装）を剥がし押さえ込む役割を受け持つ。
+  - 太田 功
+    声 - [池水通洋](https://ja.wikipedia.org/wiki/池水通洋 "wikilink")
+    特車二課第二小隊隊員。13号に使用する特殊弾丸「ウイルス弾頭」が1発しかないことを踏まえ、弾頭がより射撃能力の高い彼の2号機に装備されると、太田は「一発あれば十分です」と答え、命中させている。
+  - 篠原 遊馬
+    声 - [古川登志夫](../Page/古川登志夫.md "wikilink")
+    特車二課第二小隊隊員。
+  - 進士 幹泰
+    声 - [二又一成](../Page/二又一成.md "wikilink")
+    特車二課第二小隊隊員。
+
+## 廃棄物13号
+
+本作に登場する全長約20メートルの巨大な怪物で、別名[ベイカーズ・ダズン](https://ja.wikipedia.org/wiki/パン屋の1ダース "wikilink")。ニシワキセルに冴子の娘・一美の癌細胞を組み込んで生まれた人工生物で、冴子からは「あの子」と呼ばれる。強靭な生命力と狂暴な捕食性を持ち、光を嫌う性質がある他、とある超音波に反応し、シャフト製のレイバー用超伝導モーターや[レコード](../Page/レコード.md "wikilink")などに引き寄せられる。劇中、[セイレーンIIの外装を着込んで鎧のように扱うシーンがあり](https://ja.wikipedia.org/wiki/機動警察パトレイバーの登場メカ#セイレーンII "wikilink")、知能は高いと目されている。
+
+頭部に2本の触手があり先端に（暗がりでのみ）発光する球体が付いている。これを利用し獲物などを判別する仕草があるが、基本的には聴覚に頼った行動を取る。[幼生体時は前脚を使い移動し](https://ja.wikipedia.org/wiki/幼体 "wikilink")、後脚は未成熟だが成長体となってからは立ち上がることも可能なほど発達する。太く長い尾の先は手のような形状になっており、物を掴むことが可能である。また口元が特徴的で、歯には門歯・犬歯など哺乳類のような区別があり、歯並びなども人間的。最終局面では、胸部に乳房らしき器官が見られ、人間の細胞が使われていることが強調された。原作では甲殻類のような外皮で多脚。爬虫類のような複眼と歯を持ち、触手も数本ある。
+
+13号が特殊な超音波に反応する設定について、脚本のとり・みきによれば、[山下達郎](../Page/山下達郎.md "wikilink")のラジオで聞いた[レコードとCDの違いや](../Page/サンプリング周波数.md "wikilink")、『[ウルトラQ](https://ja.wikipedia.org/wiki/ウルトラQ "wikilink")』に登場する怪獣[ラゴンの設定などから着想を得ている](https://ja.wikipedia.org/wiki/ラゴン_\(ウルトラ怪獣\) "wikilink")。
+
+## キャスト
+
+  - 久住武史 - [綿引勝彦](https://ja.wikipedia.org/wiki/綿引勝彦 "wikilink")
+  - 秦真一郎 - [平田広明](../Page/平田広明.md "wikilink")
+  - 岬冴子 - [田中敦子](https://ja.wikipedia.org/wiki/田中敦子_\(声優\) "wikilink")
+  - 栗栖敏郎 - [穂積隆信](https://ja.wikipedia.org/wiki/穂積隆信 "wikilink")
+  - 宮ノ森静夫 - [拡森信吾](https://ja.wikipedia.org/wiki/森しん "wikilink")
+  - 石原悟郎 - [森田順平](https://ja.wikipedia.org/wiki/森田順平 "wikilink")
+  - 大隅課長 - [池田勝](https://ja.wikipedia.org/wiki/池田勝 "wikilink")
+  - 後藤喜一 - [大林隆之介](https://ja.wikipedia.org/wiki/大林隆介 "wikilink")
+  - 泉野明 - [冨永みーな](../Page/冨永みーな.md "wikilink")
+  - 篠原遊馬 - [古川登志夫](../Page/古川登志夫.md "wikilink")
+  - 太田功 - [池水通洋](https://ja.wikipedia.org/wiki/池水通洋 "wikilink")
+  - 進士幹泰 - [二又一成](../Page/二又一成.md "wikilink")
+  - 山崎ひろみ - [郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")
+  - 海法警視総監 - [小島敏彦](https://ja.wikipedia.org/wiki/小島敏彦 "wikilink")
+  - 山寺警備部長 - [大森章督](https://ja.wikipedia.org/wiki/大森章督 "wikilink")
+  - 三村巡査 - [亀山助清](../Page/亀山助清.md "wikilink")
+  - 岸田技官 - 橋村琢哉
+  - ディレクター - Paul Lucas
+  - 通訳 - [Janika Southwick](https://ja.wikipedia.org/wiki/ジャニカ・サウスウィック "wikilink")
+  - 岬一美 - [鈴木里彩](https://ja.wikipedia.org/wiki/鈴木里彩 "wikilink")
+  - ラジオアナウンサー - [中野雷太](https://ja.wikipedia.org/wiki/中野雷太 "wikilink")（[ラジオたんぱ](../Page/日経ラジオ社.md "wikilink")）
+  - 気象通報 - [白川次郎](https://ja.wikipedia.org/wiki/白川次郎 "wikilink")（ラジオたんぱ）
+  - 岬至毅 - [納谷六朗](../Page/納谷六朗.md "wikilink")
+  - 岬喜江子 - [斉藤昌](https://ja.wikipedia.org/wiki/斉藤昌 "wikilink")
+  - 舞台女優 - [矢野陽子](https://ja.wikipedia.org/wiki/矢野陽子 "wikilink")
+
+## スタッフ
+
+  - 原作 - ヘッドギア
+  - 原案 - [ゆうきまさみ](../Page/ゆうきまさみ.md "wikilink")（[機動警察パトレイバー](../Page/機動警察パトレイバー.md "wikilink")『廃棄物13号』より）
+  - 総監督 - [高山文彦](https://ja.wikipedia.org/wiki/高山文彦_\(アニメ監督\) "wikilink")
+  - 監督 - [遠藤卓司](https://ja.wikipedia.org/wiki/遠藤卓司_\(アニメ監督\) "wikilink")
+  - 脚本 - [とり・みき](../Page/とり・みき.md "wikilink")
+  - スーパーバイザー - [出渕裕](../Page/出渕裕.md "wikilink")
+  - キャラクター原案 - ゆうきまさみ、高田明美
+  - キャラクターデザイン - 高木弘樹
+  - メカニックデザイン - [カトキハジメ](https://ja.wikipedia.org/wiki/カトキハジメ "wikilink")、[河森正治](../Page/河森正治.md "wikilink")、出渕裕
+  - 美術設定 - [渡部隆](https://ja.wikipedia.org/wiki/渡部隆 "wikilink")
+  - プロップ・セットデザイン - 武半慎吾
+  - ディスプレイデザイン - [佐山善則](https://ja.wikipedia.org/wiki/佐山善則 "wikilink")
+  - クリーチャーデザイン - [末弥純](../Page/末弥純.md "wikilink")
+  - 生物学考証 - みかみあきこ、尾前二三雄
+  - 科学監修 - [金子隆一](https://ja.wikipedia.org/wiki/金子隆一_\(SF\) "wikilink")
+  - コンセプトフォト - [樋上晴彦](https://ja.wikipedia.org/wiki/樋上晴彦 "wikilink")
+  - 作画監督 - [黄瀬和哉](https://ja.wikipedia.org/wiki/黄瀬和哉 "wikilink")、高木弘樹、岩田幸大、水畑健二、冨永拓生、林千博、中山大介
+  - 美術 - 浅井和久
+  - 色彩設計 - 志甫聡子、西香代子
+  - 撮影監督 - [白井久男](https://ja.wikipedia.org/wiki/白井久男 "wikilink")
+  - 音楽 - [川井憲次](../Page/川井憲次.md "wikilink")
+  - 音響監督 - [亀山俊樹](https://ja.wikipedia.org/wiki/亀山俊樹 "wikilink")
+  - 効果 - [佐藤一俊](https://ja.wikipedia.org/wiki/佐藤一俊 "wikilink")（[E\&Mプランニングセンター](https://ja.wikipedia.org/wiki/E&Mプランニングセンター "wikilink")）
+  - 効果調整 - 斎藤恒夫
+  - 効果助手 - 小野弘典、内田誠
+  - プロデューサー - 杉田敦、福島正浩
+  - アニメーションプロデューサー - [丸山正雄](../Page/丸山正雄.md "wikilink")、篠原昭
+  - アニメーション制作 - [マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")
+  - 製作 - [バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")、[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
+
+## 製作
+
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、総監督の[高山文彦と脚本の](https://ja.wikipedia.org/wiki/高山文彦_\(アニメ監督\) "wikilink")[とり・みき](../Page/とり・みき.md "wikilink")（以下、とり）に企画参加の依頼が来る。スーパーバイザーの[出渕裕](../Page/出渕裕.md "wikilink")は漫画版のエピソード「廃棄物13号」を原作に決めており、当初は劇場版ではなく前後編2本の単体[OVA](../Page/OVA.md "wikilink")という企画だった。主人公たち登場人物に関しても、元々は完全な[スピンオフ](https://ja.wikipedia.org/wiki/スピンオフ "wikilink")の指示であり、従来の主役である第二小隊の面々は全く出演せず、脇役かオリジナルキャラクターを主人公に据える趣旨だった。高山によれば『[劇場版2](https://ja.wikipedia.org/wiki/機動警察パトレイバー_2_the_Movie "wikilink")』で片が付いた第二小隊は出せないためのスピンオフ企画だが、OVAなら気楽だと思い引き受けたと言う。とりは、パトレイバーというタイトルは大きいがメディアミックスであり、OVAには出渕の脚本作品もあり、自分が書くものが1つあっても良いのではと引き受け、自分や高山の起用についても、第二小隊の出ないほぼオリジナルの話と出渕が決めていたから既存のスタッフではなく自分たちに声が掛かったのではと述べている。結果的に第二小隊を出したことについては、途中で劇場版へと企画がシフトしたため映画用の初校の時点で彼らを出していたが、高山が削り、とりが増やしを繰り返し結局あの尺になっている。この部分について、とりは「（高山は）潔くないと思って削ったのではないか」と述べている。
+
+とりによれば、脚本に関しては、初校が出来る前の時点から苦労があったと言う。先ず出渕が、完成した脚本を後から監督が変える流れにはせず、初めに各々で出し合ったアイデアを脚本に落とし込む方法を考えた。しかし、それぞれの好みや意見はまとまらず苦心し、最終的には、高山からの改変なら受け入れるつもりであったとりが一旦書き上げることを提案し、1998年頃に初校が出来上がる。企画がOVAから劇場版に変更されたのは、この頃である。この変更にあたり、高山は[ダイアログはかなり変えたが](https://ja.wikipedia.org/wiki/ダイアローグ "wikilink")、脚本の大まかなシークエンスなど構成自体は変わっていないと言う。
+
+逆にスムーズに出来た部分として、高山らは「物語の導入部」「久住が冴子を犯人として指摘し、秦が反発するシーン」「13号出現シーン」を挙げている。見せ方や演出としてハリウッド的な方法を嫌い、特に13号出現シーンで逆光や衝撃音などを入れずにあえて何もせずリアリティを求めたと言う。
+
+本作品のジャンルについて、高山は、出渕が想定したのは怪獣映画ではなく怪獣の出るSF映画ではないかと述べており、出渕は、アニメで怪獣もののテイストを試してみたかったがオリジナル企画では通らないためパトレイバーにしたと述べており、怪獣映画の可能性についての提言であると同時に自身が子供の頃に好きだったジャンルへの恩返しであると位置づけている。また、とりは、2人だけならバランスを欠くところ、高山・出渕と自分の3人いたから別々のベクトルが調和出来たと語り、本作の脚本執筆について「自分自身についての怪獣映画に対する憑きもの落とし」と発言している。
+
+本作は、アニメが[セル撮影メインから](https://ja.wikipedia.org/wiki/セル画 "wikilink")[デジタルに移行する過程の最後期の作品だが](https://ja.wikipedia.org/wiki/アニメ#製作工程の省力化とデジタル化 "wikilink")、観覧車など動きのゆっくりした部分にはCGを使っている。CGは完成品より少し多くなる予定だったが予算の都合でカットを削っており、仮にワンカットだけしか使えなかった場合、秦が写真を見るシーンに使っただろうと高山は話している。
+
+2009年のインタビューにおいて、高山は、公開当時にあった[電話ボックスに貼られた](https://ja.wikipedia.org/wiki/公衆電話 "wikilink")[ピンクチラシ](https://ja.wikipedia.org/wiki/ピンクチラシ "wikilink")などの風景は記録する価値があるとして作品に取り入れており、実際、現存しない風俗の[タイムカプセル](https://ja.wikipedia.org/wiki/タイムカプセル "wikilink")として機能する作品になっていると話している。
+
+本作品の評価と成果について、高山ととりは一様に「（その後の環境は）何も変わらない」と話す。映画自体は、フランスの映画祭を始め高く評価され「これを観た映画関係者から脚本の仕事が来るのでは」という声も上がったが、仕事の話はまったく来なかったと言う。
+
+また、韓国映画『[グエムル-漢江の怪物-](../Page/グエムル-漢江の怪物-.md "wikilink")』は本作と類似点が非常に多く、盗作疑惑が指摘されたが、日韓両国の配給関係者はこれらの疑惑を否定している\[3\]\[4\]。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  -
+## 関連項目
+
+  - [ピアノソナタ第8番 (ベートーヴェン)](../Page/ピアノソナタ第8番_\(ベートーヴェン\).md "wikilink") - 劇中で使われた曲。作品番号は「13」。
+  - [むらさめ (護衛艦・2代)](https://ja.wikipedia.org/wiki/むらさめ_\(護衛艦・2代\) "wikilink") - 海自の水中レイバー「りゅうじん」運用護衛艦「つるぎ」（艦番181）の直衛として登場。
+  - [DAT](../Page/DAT.md "wikilink") - 本作で述べられたような20kHz以上の周波数を再生する機能を実際に有した[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")製ではなく、その機能を持たない[SONY](https://ja.wikipedia.org/wiki/SONY "wikilink")製TCD-D10、D100を模した機種が登場する。
+  - [パン屋の1ダース](https://ja.wikipedia.org/wiki/パン屋の1ダース "wikilink")（ベイカーズダズン） - 廃棄物13号のコードネームの一つ。
+
+## 外部リンク
+
+  - [公式ホームページ](http://www.bandaivisual.co.jp/patlabor/)
+
+  - [マッドハウス内作品紹介ページ](http://www.madhouse.co.jp/works/2002-2001/works_movie_patlabor3.html)
+
+  -
+  -
+  -
+  -
+[Category:機動警察パトレイバー](https://ja.wikipedia.org/wiki/Category:機動警察パトレイバー "wikilink") [Category:バンダイビジュアルのアニメ映画](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ映画 "wikilink") [Category:アニメ作品_う](https://ja.wikipedia.org/wiki/Category:アニメ作品_う "wikilink") [Category:2001年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2001年のアニメ映画 "wikilink") [Category:日本のSF映画作品](https://ja.wikipedia.org/wiki/Category:日本のSF映画作品 "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:東北新社のアニメ作品](https://ja.wikipedia.org/wiki/Category:東北新社のアニメ作品 "wikilink") [Category:松竹のアニメ映画](https://ja.wikipedia.org/wiki/Category:松竹のアニメ映画 "wikilink") [Category:とり・みき](https://ja.wikipedia.org/wiki/Category:とり・みき "wikilink") [Category:東京を舞台としたアニメ映画](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ映画 "wikilink") [Category:警察官を主人公としたアニメ映画](https://ja.wikipedia.org/wiki/Category:警察官を主人公としたアニメ映画 "wikilink") [Category:巨大ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ映画 "wikilink") [Category:日本の怪物映画](https://ja.wikipedia.org/wiki/Category:日本の怪物映画 "wikilink")
+
+1.
+2.
+3.
+4.

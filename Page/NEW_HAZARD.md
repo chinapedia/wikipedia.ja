@@ -1,0 +1,60 @@
+> この記事は[NEW HAZARD](https://ja.wikipedia.org/wiki/NEW_HAZARD)から翻訳されています。
+
+
+**NEW HAZARD**（ニュー・ハザード）は、日本のプロレス団体[DRAGON GATEにかつて活動していたユニット](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")。
+
+## 歴史
+
+2007年4月17日の後楽園大会にてそれまでアメリカへ修行していた[鷹木信悟](https://ja.wikipedia.org/wiki/鷹木信悟 "wikilink")が帰国。同時にセミファイナルの[タイフーンと](../Page/Typhoon_\(プロレス\).md "wikilink")[マッスル・アウトローズ](../Page/マッスル・アウトローズ.md "wikilink")との7vs7のイリミネーションマッチの試合後に登場。同時にタイフーンから[B×Bハルク](https://ja.wikipedia.org/wiki/B×Bハルク "wikilink")、マッスルからは[サイバー・コング](https://ja.wikipedia.org/wiki/サイバー・コング "wikilink")、更には1月にアメリカに修行中だった[YAMATOと共に新ユニットを結成](../Page/YAMATO_\(プロレスラー\).md "wikilink")。オリジナルメンバー全員がDRAGON GATE発足後にデビューしたメンバーである。
+
+5月10日のメイン戦で鷹木、ハルク、コングの3人でタイフーンのCIMA、横須賀、斎藤の持つトライアングルゲートに挑戦し、見事勝利を挙げ見事トライアングル王者へ輝いた。
+
+また同じ日にそれまでマッスルのメンバーだった[ジャック・エバンス](../Page/ジャック・エバンス.md "wikilink")が助っ人と言う形で加入。YAMATOとタッグを組み、[土井成樹](https://ja.wikipedia.org/wiki/土井成樹 "wikilink")、[吉野正人](https://ja.wikipedia.org/wiki/吉野正人 "wikilink")を相手に勝利を挙げた。
+
+順調に見えた新ユニットだったが、6月にYAMATOが左肩を、7月にはハルクが顎をそれぞれ負傷して戦線離脱してしまう。さらに7月にはジャック・エバンスもアメリカへ帰ってしまったため、8月のタッグリーグで鷹木とサイバーはセコンド不在の中で戦うと言う厳しい戦いに。しかしそれでも準優勝の結果を残した。
+
+同年9月には[DDTの](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")[飯伏幸太](https://ja.wikipedia.org/wiki/飯伏幸太 "wikilink")が助っ人としてやってきた。
+
+同年10月12日の後楽園大会でハルクとYAMATOが復帰。
+
+2008年2月頃からハルクとYAMATOの間に亀裂が入る。一端は仲直りをしたかに見えたが、4月18日の後楽園大会でYAMATOが離脱。同時に[マッスル・アウトローズ](../Page/マッスル・アウトローズ.md "wikilink")へ電撃加入した。
+
+更に同年5月14日の後楽園ホール大会で、試合前に突然鷹木とサイバーがハルクを攻撃、追放。
+
+[マッスル・アウトローズ](../Page/マッスル・アウトローズ.md "wikilink")と結託し、ユニット名を[REAL HAZARDに改め](https://ja.wikipedia.org/wiki/REAL_HAZARD "wikilink")、わずか1年でユニット活動を終えた。
+
+## 誕生秘話
+
+アメリカで修行していた[鷹木信悟](https://ja.wikipedia.org/wiki/鷹木信悟 "wikilink")が、もともと1年で帰国することを決めており、その際、どのユニットに所属するか考えていた。ROH世界タッグ王座のパートナーであった[土井成樹](https://ja.wikipedia.org/wiki/土井成樹 "wikilink")が[マッスル・アウトローズ](../Page/マッスル・アウトローズ.md "wikilink")に所属しているので、通常ならば、そのまま入ることになるのだが、鷹木信悟が「それでは前と変わらない」と思い、自分世代のユニットを結成したいと考え、YAMATOとサイバー・コングとで話し合っている際に、鷹木信悟が[B×Bハルク](https://ja.wikipedia.org/wiki/B×Bハルク "wikilink")に「今の状況どう？」的なメールを数回して、B×Bハルクもこれに賛同して結成された。そして後楽園大会において、マイクアピール中のCIMAにハルクが襲撃してマッスルの側につくも、サイバーもGammaを襲撃して2人は握手を交わして、鷹木をリングに呼び込む。
+
+## メンバー
+
+  - [鷹木信悟](https://ja.wikipedia.org/wiki/鷹木信悟 "wikilink")（リーダー）
+  - [B×Bハルク](https://ja.wikipedia.org/wiki/B×Bハルク "wikilink")
+  - [サイバー・コング](https://ja.wikipedia.org/wiki/サイバー・コング "wikilink")
+
+## サポートメンバー
+
+  - [飯伏幸太](https://ja.wikipedia.org/wiki/飯伏幸太 "wikilink")
+  - [忍](https://ja.wikipedia.org/wiki/忍_\(プロレスラー\) "wikilink")
+
+## 外国人メンバー
+
+  - [エル・ジェネリコ](https://ja.wikipedia.org/wiki/エル・ジェネリコ "wikilink")
+  - [ジャック・エバンス](../Page/ジャック・エバンス.md "wikilink")
+  - [オースチン・エイリース](https://ja.wikipedia.org/wiki/オースチン・エイリース "wikilink")
+
+## 元メンバー
+
+  - [YAMATO](../Page/YAMATO_\(プロレスラー\).md "wikilink")（2008年4月18日離脱）
+
+## その他
+
+  - 鷹木とハルクが、たまたまジムで鉢合わせた時2人の間には会話は一切無かったらしい。
+  - [博多](../Page/博多.md "wikilink")で行われたハザードの食事会イベントで、YAMATOがB×Bハルクに「ハルク\!写真撮るよ\!」と声を掛けただけで酔っていたハルクは呼び捨てにされたことに激怒して、なぜか大喧嘩になってしまった（ハルクの酒癖の悪さは有名な話）。その場は信悟やサイバー、他数名のスタッフでハルクを宥めて事無きを得た。
+
+## 外部リンク
+
+  - [新型危険注意報](http://www.gaora.co.jp/cgi-bin/bbs/dragon/hazard.cgi)（NEW HAZARD掲示板）
+
+[Category:DRAGON_GATEのユニット](https://ja.wikipedia.org/wiki/Category:DRAGON_GATEのユニット "wikilink")

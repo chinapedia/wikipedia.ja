@@ -1,0 +1,80 @@
+> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+
+
+**ジェイク・E・リー**（Jake E. Lee、本名：Jakey Lou Williams、ジェイキー・ルー・ウィリアムズ、[1957年](../Page/1957年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、音楽家である。[オジー・オズボーン](https://ja.wikipedia.org/wiki/オジー・オズボーン "wikilink")の元ギタリスト。父親がウェールズ系アメリカ人で母親が日本人のハーフ。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[バージニア州](https://ja.wikipedia.org/wiki/バージニア州 "wikilink")[ノーフォーク市出身](https://ja.wikipedia.org/wiki/ノーフォーク_\(バージニア州\) "wikilink")。身長175cm。
+
+## 経歴
+
+### デビューまで
+
+幼少期に[ピアノ](../Page/ピアノ.md "wikilink")のレッスンを受ける。姉の弾くギターにあわせてピアノをプレイするようになる。[ジミ・ヘンドリックス](../Page/ジミ・ヘンドリックス.md "wikilink")を聴いて自身もギターを始める。
+
+### ラット時代
+
+サンデイエゴでTeaserを結成し活躍後、1980年にミッキー・ラットと呼ばれるバンドに加入。後にこのバンドが[ラットとなった](https://ja.wikipedia.org/wiki/ラット_\(バンド\) "wikilink")。彼らはシングル、"Dr. Rock"/"Drivin On E"をリリース。[ラットを脱退後](https://ja.wikipedia.org/wiki/ラット_\(バンド\) "wikilink")、[ラフ・カット](https://ja.wikipedia.org/wiki/ラフ・カット "wikilink")に加入するもすぐに[オジー・オズボーン](https://ja.wikipedia.org/wiki/オジー・オズボーン "wikilink")のバンドのオーディションを受けるために脱退。
+
+### オジー・オズボーン・バンド在籍時
+
+『[月に吠える](https://ja.wikipedia.org/wiki/月に吠える_\(オジー・オズボーンのアルバム\) "wikilink")（BARK AT THE MOON）』（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）と『[罪と罰](https://ja.wikipedia.org/wiki/罪と罰_\(アルバム\) "wikilink")（THE ULTIMATE SIN）』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）の2枚に参加。その後オズボーンのバンドから解雇される\[1\]。
+
+### バッドランズ時代
+
+レイ・ギラン(1993年没）らとバッドランズ ([Badlands](https://ja.wikipedia.org/wiki/:en:Badlands_\(American_band\) "wikilink"))を結成、2枚のアルバムを発表するもレコード契約を解除されてしまう。音楽的には、[ブルース](../Page/ブルース.md "wikilink")からの影響を持ち込んだハードロック/ヘヴィ・メタルであった。
+
+### ソロ時代
+
+後に旧友である元[ラットのベーシスト](https://ja.wikipedia.org/wiki/ラット_\(バンド\) "wikilink")、フォアン・クルーシェー所有のスタジオにて全曲インストゥルメンタルのフルアルバム『Fine Pink Mist』の制作に取り組むが、作業は長期化し、契約の諸問題等を抱えてのリリースとなった。楽曲も実験的なものが多く、それまでの彼のスタイルからかけ離れたものであったために、ファンの間でも賛否両論巻き起こった。
+
+1990年代から2000年に掛けて多数のトリビュート作品に参加。[ヴァン・ヘイレン](https://ja.wikipedia.org/wiki/ヴァン・ヘイレン "wikilink")等のトリビュートアルバムを他のアーティストを招きレコーディング。またヴォーカリストのマンディ・ライオンとのプロジェクト、ウィッキッドアライアンスを始動させる。2000年には[ロブ・ロック](https://ja.wikipedia.org/wiki/ロブ・ロック "wikilink")のアルバムに参加。
+
+2005年、9年ぶりのソロ・アルバム『[リトレイスド〜塊顧〜](https://ja.wikipedia.org/wiki/リトレイスド〜塊顧〜 "wikilink")』をリリース。このアルバムは60年代と70年代のブルースカヴァー作品である。2008年にはハードロックバンド「[イナフ・ズナフ](https://ja.wikipedia.org/wiki/イナフ・ズナフ "wikilink")」のアルバム『ディソナンス』（発表は2009年）のレコーディングに参加したが、リリース後のツアーには参加しないことが発表された。
+
+1990年代から長らく自身の音楽活動は単発的な活動にとどまり、一時は音楽活動から殆ど遠ざかっていた(一時はドラッグとアルコールの更生施設に居たことも明かしている)が、2011年頃から[ラスヴェガス](https://ja.wikipedia.org/wiki/ラスヴェガス "wikilink")に転居したのを境に本格的に音楽活動を再開し、2013年に[シャーベル](https://ja.wikipedia.org/wiki/シャーベル "wikilink")のギタークリニックの為に[ウォーレン・デ・マルティーニ](https://ja.wikipedia.org/wiki/ウォーレン・デ・マルティーニ "wikilink")と共に久々の来日を果たす。同年、自身のバンドである「レッド・ドラゴン・カーテル」名義で久し振りにアルバムをリリースした。
+
+## 使用機材
+
+オジー時代のメインギターは改造した[ストラトキャスター](https://ja.wikipedia.org/wiki/ストラトキャスター "wikilink")に[シャーベル](https://ja.wikipedia.org/wiki/シャーベル "wikilink")のロゴを貼り付けたもので、ピックアップのレイアウトはSSH。 シングルコイルは[ディマジオ](https://ja.wikipedia.org/wiki/ディマジオ "wikilink")のSDS-1を逆スラントに取り付け、リアのピックアップは[セイモア・ダンカン](https://ja.wikipedia.org/wiki/セイモア・ダンカン "wikilink")の[アラン・ホールズワース](https://ja.wikipedia.org/wiki/アラン・ホールズワース "wikilink")モデルが取り付けられる。ブリッジはハードテイル。 その後、シャーベルから前述のギターをもとにしたオリジナルモデルの提供をうける。 アンプはJose Arredondo改造の[マーシャル](https://ja.wikipedia.org/wiki/マーシャル_\(アンプ\) "wikilink")100Wやイギリスで購入したマーシャル50Wを使用。エフェクターは主にBOSSのコンパクトを使用した。 オジー時代初期にはレキシコンPCM-41も使用しステレオアウトプットしたが、コーラス効果によりごまかしの効くいい加減なプレイをする様になった事が嫌で外された。
+
+バッドランズ期にはシャーベルとほぼ同じ仕様の[ESP製シグネイチャーモデルを使用](https://ja.wikipedia.org/wiki/イーエスピー "wikilink")。 こちらのモデルは全てミディアムスケールである。リアピックアップには[セイモア・ダンカン](https://ja.wikipedia.org/wiki/セイモア・ダンカン "wikilink")のJBモデルが取り付けられている。
+
+音楽活動再開後は再びシャーベルと契約、かつて使用していた改造ストラトキャスターを元にしたモデルが登場した。ちなみに、元となった改造ストラトキャスターは既に所有していない。 スタジオでは様々なアンプを使用するがステージでは主にEVH 5150 III 100Wを使用している。エフェクターは基本的にコンパクトエフェクターを中心にまかなっている。
+
+2018年のパティナ ( Patin)aのツアーではFREEDMANのアンプがステージでのメインアンプに変更される。
+
+## ディスコグラフィ
+
+### オジー・オズボーン
+
+  - [月に吠える](https://ja.wikipedia.org/wiki/月に吠える_\(オジー・オズボーンのアルバム\) "wikilink") - Bark at the Moon（1983年）
+  - [罪と罰](https://ja.wikipedia.org/wiki/罪と罰_\(アルバム\) "wikilink") - The Ultimate Sin（1986年）
+
+### アン・ルイス
+
+数枚のアルバムにギターで参加 virgin landは人気アニメ「ジャングルの王者ターちゃん」のEDで採用される。 ジェイクのオジー時代のようなLAメタルスタイルのプレイを聴くことができる貴重な作品。
+
+### バッドランズ
+
+  - バッドランズ - Badlands（1989年）
+  - ヴードゥー・ハイウェイ - Voodoo Highway（1991年）
+  - ダスク - Dusk（1998年） - 解散後に発表されたデモ音源集。
+
+### ソロ
+
+  - ファイン・ピンク・ミスト - A Fine Pink Mist（1996年）
+  - [リトレイスド〜塊顧〜](https://ja.wikipedia.org/wiki/リトレイスド〜塊顧〜 "wikilink") - Retraced（2005年）
+  - ランニン・ウィズ・ザ・デヴィル〜悪魔のハイウェイ（2008年） - 過去に参加してきたトリビュート・アルバムからの曲を収録したコンピレーション・アルバム。
+
+### イナフ・ズナフ
+
+  - ディソナンス - Dissonance（2009年）
+
+### レッド・ドラゴン・カーテル
+
+  - レッド・ドラゴン・カーテル - Red Dragon Cartel（2014年）
+  - パティナ - Patina（2018年）
+
+## 脚注
+
+[Category:アメリカ合衆国のロック・ギタリスト](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のロック・ギタリスト "wikilink") [Category:アメリカ合衆国のヘヴィメタル・ミュージシャン](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のヘヴィメタル・ミュージシャン "wikilink") [Category:日系アメリカ人のミュージシャン](https://ja.wikipedia.org/wiki/Category:日系アメリカ人のミュージシャン "wikilink") [Category:バージニア州ノーフォーク出身の人物](https://ja.wikipedia.org/wiki/Category:バージニア州ノーフォーク出身の人物 "wikilink") [Category:ラットのメンバー](https://ja.wikipedia.org/wiki/Category:ラットのメンバー "wikilink") [Category:1957年生](https://ja.wikipedia.org/wiki/Category:1957年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+
+1.

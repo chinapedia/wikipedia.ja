@@ -1,0 +1,89 @@
+> この記事は[Ant\'s life studio](https://ja.wikipedia.org/wiki/Ant\'s_life_studio)から翻訳されています。
+
+
+**ant's life studio**（アンツライフスタジオ）は、[バンダイ](../Page/バンダイ.md "wikilink")が発売した、[デジタル](../Page/デジタル.md "wikilink")な空間で[アリ](https://ja.wikipedia.org/wiki/アリ "wikilink")を飼える[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")である。
+
+アリの種類は[クロヤマアリ](https://ja.wikipedia.org/wiki/クロヤマアリ "wikilink")という、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で最も多い種類で、[日本蟻類研究会](https://ja.wikipedia.org/wiki/日本蟻類研究会 "wikilink")の大河原恭祐が協力している。
+
+## 仕様
+
+### モノを置く
+
+巣の近くに物を置くことができる。
+
+  - [砂糖](../Page/砂糖.md "wikilink")：最初から置くことができるアイテムで、これを置くことにより体力が上がる。
+  - 小石：最初から置くことができるアイテム。
+  - 赤虫：アリ釣りで連続5匹以上釣ると出現する。（産能力が上がる。）
+  - [煮干し](../Page/煮干し.md "wikilink")：アリ釣りで連続10匹以上釣ると出現する。（産能力が上がる。）
+  - [チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")：アリ釣りで連続20匹以上釣ると出現する。（体力と産能力が上がる。）
+  - アメ：アリ釣りで連続30匹以上釣ると出現する。（体力がかなり上がる。）
+  - [みかん](../Page/ウンシュウミカン.md "wikilink")：アリ釣りで累計30匹以上釣ると出現する。（体力が上がる。）
+  - いもむし：アリ釣りで累計50匹以上釣ると出現する。（体力と産能力が上がる。）
+  - [バナナ](https://ja.wikipedia.org/wiki/バナナ "wikilink")：敵を累計5匹以上追い払うと出現する。（体力と産能力が上がる。）
+  - [ビスケット](../Page/ビスケット.md "wikilink")：敵を累計10匹以上追い払うと出現する。（体力と産能力が上がる。）
+  - さけフレーク：敵を累計15匹以上追い払うと出現する。（産能力が上がる。）
+  - [マシュマロ](../Page/マシュマロ.md "wikilink")：開始から1ヵ月経過で出現する。（体力が上がる。）
+  - [イクラ](../Page/イクラ.md "wikilink")：アリ釣りで累計70匹以上釣ると出現する。（産能力が上がる。）
+  - マンガ肉：アリ釣りで累計100匹以上釣ると出現する。（産能力が上がる。）
+  - [塩](https://ja.wikipedia.org/wiki/塩 "wikilink")：開始から1週間経過で出現する。
+  - ポテトチップス：開始から2週間経過で出現する。（産能力が上がる。）
+  - 犬のふん：棒を挿すで5回以上挿すと出現する。
+  - [チーズ](../Page/チーズ.md "wikilink")：棒を挿すで10回以上挿すと出現する。（産能力が上がる。）
+  - いもむし（生）：敵を累計20匹以上追い払うと出現する。(産能力が上がる。)
+  - 敵アリ：アリ釣りで累計150匹以上釣ると出現する。戦うと効果がある。（産能力がかなり上がる。）
+
+なお、アリが食べた食べかすや、地面に置いてあるものを片付けることができる。
+
+### 棒を挿す
+
+アリの巣に棒を挿して観察することができる。
+
+### アラーム
+
+時刻を設定しておけば、[目覚まし時計](https://ja.wikipedia.org/wiki/目覚まし時計 "wikilink")になる。
+
+### オプション
+
+各種設定を行うことができる。
+
+  - サウンド - [音量](https://ja.wikipedia.org/wiki/音量 "wikilink")の変更ができる。
+  - [ライト](../Page/照明.md "wikilink")
+      - バックライトの明るさを変更できる。
+      - ロングライト:バックライトがついたままで、暗くならない。（[コンセント](https://ja.wikipedia.org/wiki/コンセント "wikilink")に挿している状態のみ使用可能）
+      - ショートライト:ボタンを押すと、バックライトがつく。（ボタンを押してから、約10秒間で暗くなる。）
+      - ライトオフ:バックライトがボタンを押しても、明るくならない。
+  - メモリクリア
+      - [リセット](https://ja.wikipedia.org/wiki/リセット "wikilink")をすることができる。（誤操作の恐れがあるので、2度合否確認をする。）
+  - [時計](../Page/時計.md "wikilink")
+      - [日付](https://ja.wikipedia.org/wiki/日付 "wikilink")・[曜日](../Page/曜日.md "wikilink")・[時刻](../Page/時刻.md "wikilink")の設定ができる。
+
+### アリ釣り
+
+アリを釣っていく[ミニゲーム](https://ja.wikipedia.org/wiki/ミニゲーム "wikilink")ができる。
+
+### データ
+
+現在のアリの数や、[卵](../Page/卵.md "wikilink")などの数や、アリ釣りで釣ったアリの数と一回で釣った最高記録が表示される。
+
+### 天敵
+
+不定期に登場し、アリや巣を襲う。季節ごとに種類が変化する。
+
+  - [カエル](../Page/カエル.md "wikilink"):一定の間隔で飛び跳ねる。アリを捕食。
+  - [ジグモ](https://ja.wikipedia.org/wiki/ジグモ "wikilink"):一定時間往復する。アリを捕食。
+  - 敵アリ:一定時間に往復し、アリに攻撃を仕掛ける。戦いに勝てばエサとして運べる。
+  - [ハリサシガメ](https://ja.wikipedia.org/wiki/サシガメ "wikilink"):ゴミに隠れて待機する。アリを捕食。
+  - [ハンミョウ](https://ja.wikipedia.org/wiki/ハンミョウ "wikilink"):ジャンプしながら往復する。アリを捕食。
+  - [ミミズ](https://ja.wikipedia.org/wiki/ミミズ "wikilink"):地中に移動する。捕食はしないが、移動の際に巣を破壊する。
+  -
+## 関連項目
+
+  - [アクアゾーン](https://ja.wikipedia.org/wiki/アクアゾーン "wikilink")
+  - [バンダイ](../Page/バンダイ.md "wikilink")
+
+## 外部リンク
+
+  - [バンダイ](http://www.bandai.co.jp/)
+  - [ant's life studio](http://www.asovision.com/ant/)
+
+[Category:ミニスケープ](https://ja.wikipedia.org/wiki/Category:ミニスケープ "wikilink") [Category:バンダイ](https://ja.wikipedia.org/wiki/Category:バンダイ "wikilink")

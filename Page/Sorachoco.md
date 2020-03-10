@@ -1,0 +1,109 @@
+> この記事は[Sorachoco](https://ja.wikipedia.org/wiki/Sorachoco)から翻訳されています。
+
+
+**sorachoco**（**そらちょこ**）は、[稲村優奈](https://ja.wikipedia.org/wiki/稲村優奈 "wikilink")と[花村怜美](https://ja.wikipedia.org/wiki/花村怜美 "wikilink")が2007年（平成20年）から2011年（平成24年）まで結成していた[声優ユニット](../Page/声優ユニット.md "wikilink")。ライブでの音楽活動を中心に活動を行っていた。また、「さとみ☆ゆーな」、「ピンカラ姉妹」という別名義でのレコーディングも行っていた。
+
+## 概要・来歴
+
+ユニット名は、sorachoco公式サイトの前身である「空とちょこと泉」（花村が好きな「空」、稲村が好きな「[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")」、湧いてくるイメージの「泉」をつなげた）を、そのままでは長いので「そらちょこ（空ちょこ）」という略称で呼んでいたことが由来であると両名が語っている。
+
+公式サイトや関連グッズに描かれているキャラクターには「ほわる」という名前があり、イラストが得意な稲村がデザインした。「[天使](../Page/天使.md "wikilink")と[クリオネ](https://ja.wikipedia.org/wiki/クリオネ "wikilink")を足したようなキャラクター」と稲村は説明している。
+
+### 2005年（平成18年）
+
+2月14日、名称が未決定のままユニット活動を開始。sorachocoというユニット名称での活動は11月からとなった。
+
+7月には「怜美☆優奈」という名義でユニット初のイベントを開催。稲村はその後の公式サイトの「日記」において、花村と出会ったのは2年前であり、いつか同じステージに立ちイベントができれば、という話をしていたと述懐している。同7月にはさらに、[プレイステーション2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ギャラクシーエンジェルII](https://ja.wikipedia.org/wiki/ギャラクシーエンジェルII "wikilink")』において両名のヒロイン役声優としての起用が発表され、声優としての注目を集めたことがファンの拡大につながった。
+
+### 2006年（平成19年）
+
+既存のイベントやライブでの活動に加え、5月から「目指せメジャーデビュー」を合言葉に3ヶ月連続で単独・合同ライブイベントに参加、7月のライブにて[コロムビアミュージックエンタテインメントからのデビュー決定を発表した](../Page/日本コロムビア.md "wikilink")。また、テレビ番組『[クーパカポカポ](https://ja.wikipedia.org/wiki/クーパカポカポ "wikilink")』（[tvk](../Page/テレビ神奈川.md "wikilink")）のオープニング・エンディングテーマを担当した。
+
+### 2007年（平成20年）
+
+2月にバックバンドとコーラスを従えた初の本格的な単独ライブの開催に加えて、ミニアルバムをリリース。ユニット活動を開始して約2年（2年と7日間）でメジャーデビューを果たす。7月には両名の所属事務所（[ATプロダクション](https://ja.wikipedia.org/wiki/ATプロダクション "wikilink")）が制作したDVD作品、12月にはアニメ主題歌をリリースした。
+
+### 2007年（平成20年）以降
+
+年1回のライブ開催などの活動を行っていたが、2011年（平成24年）7月のソロライブにおいて2011年（平成24年）内での活動終了を発表し、同年12月30日のラストライブをもって解散した。
+
+## ディスコグラフィー
+
+### シングル
+
+  - 「は・ぴ・ぽ～まめちっち」（2007年（平成20年）12月19日発売。COCC-16044）
+
+<!-- end list -->
+
+  - 収録曲
+
+<!-- end list -->
+
+1.  は・ぴ・ぽ～まめちっち
+      - 作詞・作曲:[押谷沙樹](https://ja.wikipedia.org/wiki/押谷沙樹 "wikilink")
+      - [TVK系](../Page/テレビ神奈川.md "wikilink")「[ちびアニ劇場](https://ja.wikipedia.org/wiki/ちびアニ劇場 "wikilink")」内[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[まめうしくん](https://ja.wikipedia.org/wiki/まめうしシリーズ "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+      - ピンカラ姉妹名義の楽曲である。
+2.  だいすきまめうしくん
+      - TVK系「ちびあに」内テレビアニメ『まめうしくん』エンディングテーマ
+3.  は・ぴ・ぽ～まめちっち （オリジナル・カラオケ）
+4.  だいすきまめうしくん （オリジナル・カラオケ）
+
+### ミニアルバム
+
+  - 「sorachoco」（2007年（平成20年）2月21日発売。DVD付初回限定版COZX-247-8）
+
+<!-- end list -->
+
+  - 収録曲
+
+<!-- end list -->
+
+1.  Attention Please\!（作詞:吉岡みりん、作曲:[神前暁](https://ja.wikipedia.org/wiki/神前暁 "wikilink")、編曲:竹中文一）
+2.  A LIFE WITH THE STAR（作詞・作曲・編曲:黒澤直也）
+3.  Sunnyday’s Magic～いつだって晴れてる～（作詞:高樹リオ、作曲・編曲:竹中文一）
+4.  I☆アイ☆愛言葉（作詞:稲村優奈、作曲:[cota](https://ja.wikipedia.org/wiki/cota "wikilink")、編曲:遠藤正樹）
+5.  蒼い月（作詞:花村怜美、作曲:岡部啓一、編曲:竹中文一）
+6.  夢の花（作詞:sorachoco、作曲:高橋哲也、編曲:宮垣憲一郎）
+7.  Miss Primrose（作詞:岡めぐみ、作曲・編曲:高橋浩一郎）
+
+### 未CD化作品
+
+  - 「sorachoco」名義
+
+<!-- end list -->
+
+  - 「変わらない星」
+  - 「遥かなストーリー」
+  - 「ウキウキ☆ワクワク」
+  - 「秋の桜（コスモス）」
+  - 「ひまわり」
+
+<!-- end list -->
+
+  - 「さとみ☆ゆーな」名義
+
+<!-- end list -->
+
+  - 「クーパカポカポ」（『クーパカポカポ』オープニングテーマ）
+  - 「とんとこりんのとん」（『クーパカポカポ』エンディングテーマ）
+
+## DVD
+
+  - 「AIR」（ライブ・イベントでの限定発売）
+
+## ラジオ
+
+  - [sorachocoとゆかいな泉たち](https://ja.wikipedia.org/wiki/sorachocoとゆかいな泉たち "wikilink")（[zakzak](https://ja.wikipedia.org/wiki/zakzak "wikilink"):2008年（平成21年）1月 - 2008年（平成21年）12月）
+  - [そちたち](https://ja.wikipedia.org/wiki/そちたち "wikilink")（[zakzak](https://ja.wikipedia.org/wiki/zakzak "wikilink"):2009年（平成22年）4月30日 - 2011年（平成24年）1月13日）
+
+## その他
+
+  - [アキバカウントダウン](https://ja.wikipedia.org/wiki/アキバカウントダウン "wikilink") - [秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")を中心としたランキング紹介＆トーク番組
+
+## 外部リンク
+
+  - [日本コロムビア | sorachoco](http://columbia.jp/artist-info/sorachoco/) - レコード会社のアーティストページ。
+  - [空とちょこと泉](http://web.archive.org/web/20060615053406/http://www.geocities.jp/skychoco/) - 最初に作成された情報サイト。（2006年6月15日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [sorachoco時間（タイム）](http://web.archive.org/web/20120107204314/http://blog.livedoor.jp/sorachoco77) - 空とちょこと泉 公式ブログ。閉鎖。（2012年1月7日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+
+[Category:声優ユニット](https://ja.wikipedia.org/wiki/Category:声優ユニット "wikilink")

@@ -1,0 +1,599 @@
+> この記事は[B.J.](https://ja.wikipedia.org/wiki/B.J.)から翻訳されています。
+
+
+**B.J.アップトン**（B.J. Upton）こと**メルビン・エマニュエル・アップトン**（**Melvin Emanuel Upton**, [1984年](../Page/1984年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[バージニア州](https://ja.wikipedia.org/wiki/バージニア州 "wikilink")[ノーフォーク出身の元](https://ja.wikipedia.org/wiki/ノーフォーク_\(バージニア州\) "wikilink")[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[外野手](../Page/外野手.md "wikilink")）。右投右打。
+
+一時期の登録名は**メルビン・アップトン・ジュニア**（**Melvin Upton Jr.**）。2015年2月に「B.J.アップトン」から変更したが\[1\]、2019年1月に元に戻した\[2\]。メディアによっては、姓を**アプトン**と表記するところもある。
+
+3歳年下の弟[ジャスティン・アップトン](https://ja.wikipedia.org/wiki/ジャスティン・アップトン "wikilink")は、[2005年のMLBドラフト](https://ja.wikipedia.org/wiki/2005年のMLBドラフト "wikilink")全体1位で[アリゾナ・ダイヤモンドバックス](../Page/アリゾナ・ダイヤモンドバックス.md "wikilink")に入団。ドラフトの順位という点では、過去最高の[兄弟](https://ja.wikipedia.org/wiki/兄弟 "wikilink")となる。
+
+[タンパベイ・レイズ](https://ja.wikipedia.org/wiki/タンパベイ・レイズ "wikilink")の球団史上初の[サイクル安打](../Page/サイクル安打.md "wikilink")達成者である\[3\]。
+
+## 経歴
+
+### プロ入り前
+
+父マニーは学生時代に[野球](../Page/野球.md "wikilink")と[バスケットボール](../Page/バスケットボール.md "wikilink")のプレー経験があり、2008年現在は[NCAAのバスケット](https://ja.wikipedia.org/wiki/全米大学体育協会 "wikilink")[審判員](https://ja.wikipedia.org/wiki/審判員 "wikilink")を務め、母イボンヌは若い頃は[ソフトボール](../Page/ソフトボール.md "wikilink")に打ち込み、中学校と高等学校で体育教師をしていたというスポーツ一家に生を受ける。B.J.とジャスティンは少年時代から「教会へ行き礼拝をさせ、勉強をしなければスポーツもさせない」と言う厳格な教育方針の下、規律正しく育てられた。二人の兄弟は幼い頃から競い合い、毎日のように自宅の庭でプレーしていたが、性格は対照的で、活発なジャスティンに対してB.J.は比較的大人しい子だったと言う。また、長じてからの身体を見比べてもジャスティンは堂々たる体躯を誇るが、B.J.は「[アルフォンソ・ソリアーノ](https://ja.wikipedia.org/wiki/アルフォンソ・ソリアーノ "wikilink")に良く似ている」と言われるほどスリムで、この点も対照的である\[4\]\[5\]\[6\]。
+
+在学時の成績は、56試合に出場して[打率](../Page/打率.md "wikilink").645（45[四球](../Page/四球.md "wikilink")に対して[三振](https://ja.wikipedia.org/wiki/三振 "wikilink")数はわずかに4）、24[本塁打](../Page/本塁打.md "wikilink")、83[打点](../Page/打点.md "wikilink")、68[盗塁](https://ja.wikipedia.org/wiki/盗塁 "wikilink")（盗塁死0）\[7\]。は全米高校2ndチームに（当時は[内野手](../Page/内野手.md "wikilink")として）選抜され、翌は同代表チームに選抜される。同年6月4日、[タンパベイ・デビルレイズから](https://ja.wikipedia.org/wiki/タンパベイ・レイズ "wikilink")1巡目（全体2位）で[MLBドラフト指名を受け](https://ja.wikipedia.org/wiki/2002年のMLBドラフト "wikilink")、この時は「いずれ[バリー・ラーキン](https://ja.wikipedia.org/wiki/バリー・ラーキン "wikilink")や[デレク・ジーター](https://ja.wikipedia.org/wiki/デレク・ジーター "wikilink")、[アレックス・ロドリゲス](https://ja.wikipedia.org/wiki/アレックス・ロドリゲス "wikilink")と並び称されるであろう」との高評を得た\[8\]。しかし、アップトンが高額を希望したため交渉は難航。結局、9月16日に460万ドルで契約成立となったが、既にシーズンは閉幕を迎えており、プロ・デビューは翌年春に持ち越しとなった\[9\]。
+
+### デビルレイズ・レイズ時代
+
+は[マイナーリーグ](https://ja.wikipedia.org/wiki/マイナーリーグ "wikilink")（A級とAA級合計）で130試合に出場し、打率.297、8本塁打、62打点、[出塁率](../Page/出塁率.md "wikilink").388、[OPS](https://ja.wikipedia.org/wiki/OPS_\(野球\) "wikilink").819、40盗塁を記録、サウスアトランティック・リーグのオールスターに出場した他、レイズ内のマイナーリーグ・プレーヤー・オブ・ザ・イヤーを受賞。遊撃手として56個もの[失策](https://ja.wikipedia.org/wiki/失策 "wikilink")を犯したが、同リーグ監督選のベスト・ベースランナーとベスト・インフィールド・アーム、No.1有望株の3部門に選定\[10\]</ref>。
+
+は、ベースボール・アメリカ誌の「野球界の有望な選手」として2位にランクされ\[11\]、AA級とAAA級合計で98試合に出場して打率.315・14本塁打・51打点・出塁率.406・OPS.911・20盗塁と着実に成長を遂げる。守備では35[失策](https://ja.wikipedia.org/wiki/失策 "wikilink")を記録したものの、同誌が選ぶマイナーリーグ・オールスター代表チームに選出。[8月1日](../Page/8月1日.md "wikilink")にメジャー初昇格し、翌2日の[ボストン・レッドソックス](https://ja.wikipedia.org/wiki/ボストン・レッドソックス "wikilink")戦において9番・[指名打者](../Page/指名打者.md "wikilink")で[スタメン起用され](https://ja.wikipedia.org/wiki/スターティングメンバー "wikilink")、[ティム・ウェイクフィールド](https://ja.wikipedia.org/wiki/ティム・ウェイクフィールド "wikilink")からキャリア初安打となる右前安打を放つなど、3[打数](https://ja.wikipedia.org/wiki/打数 "wikilink")1[安打](https://ja.wikipedia.org/wiki/安打 "wikilink")1[四球](../Page/四球.md "wikilink")2[出塁](https://ja.wikipedia.org/wiki/出塁 "wikilink")1[得点](https://ja.wikipedia.org/wiki/得点 "wikilink")の好結果でデビュー戦を飾った。19歳でのメジャー・デビューは球団史上最年少であり、[ルー・ピネラ](https://ja.wikipedia.org/wiki/ルー・ピネラ "wikilink")監督をして「[A-RODの再来](https://ja.wikipedia.org/wiki/アレックス・ロドリゲス "wikilink")」\[12\]と言わしめた。
+
+はメジャー未出場に終わったものの、AAA級[ダーラム・ブルズ](https://ja.wikipedia.org/wiki/ダーラム・ブルズ "wikilink")で139試合に出場、打率.303、出塁率.392、OPS.882、44盗塁の好成績を挙げ、[7月10日](../Page/7月10日.md "wikilink")には[オールスター・フューチャーズゲームに出場](https://ja.wikipedia.org/wiki/2005年のMLBオールスターゲーム#フューチャーズゲーム "wikilink")\[13\]。53個もの失策を犯したが、ベースボール・アメリカ誌選のマイナーリーグ・オールスター2ndチームにも選出され\[14\]、[インターナショナルリーグ](https://ja.wikipedia.org/wiki/インターナショナルリーグ "wikilink")のモスト・エキサイティング・プレーヤーに選定される\[15\]。
+
+はAAA級ダーラムで106試合に出場して出塁率.374、46盗塁（両リーグ最多）。33失策も記録したが、[7月12日](../Page/7月12日.md "wikilink")にはインターナショナルリーグのオールスターに出場。マイナーでは遊撃手であったが、[8月1日](../Page/8月1日.md "wikilink")にメジャー再昇格を果たしてからは[三塁手](https://ja.wikipedia.org/wiki/三塁手 "wikilink")に[コンバート](https://ja.wikipedia.org/wiki/コンバート_\(野球\) "wikilink")。20日と22日に左肩を故障したこともあり\[16\]、50試合に留まった。
+
+はシーズン開幕戦から9番打者として先発出場を果たし、ポジションは[岩村明憲](https://ja.wikipedia.org/wiki/岩村明憲 "wikilink")の加入もあって[二塁手](https://ja.wikipedia.org/wiki/二塁手 "wikilink")を守る。[5月27日](../Page/5月27日.md "wikilink")と[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")にはキャリアハイとなる1試合4安打を放ったが\[17\]\[18\]、6月8日の試合で[走塁](https://ja.wikipedia.org/wiki/走塁 "wikilink")中に左足を痛めて\[19\]約1か月間戦線離脱。7月13日に復帰してからは、「B.J.は攻撃に専念させたい」との球団フロントの意向によって[中堅手](../Page/中堅手.md "wikilink")にコンバート\[20\]。復帰後間もない15-21日にかけて6試合中4試合で3安打を放ち、特に20日には自身初の1試合2本塁打を叩いた。この活躍により、プレーヤー・オブ・ザ・ウィークを受賞（16-22日の週）。8月22日は[松坂大輔](https://ja.wikipedia.org/wiki/松坂大輔 "wikilink")から決勝点となる2点本塁打をライトスタンドに叩き込み、24日からは4番に定着\[21\]\[22\]。故障に見舞われたものの、初めて規定打席をクリアし、23歳以下ではMLB史上5人目\[23\]となる打率3割、20本塁打、20盗塁を達成。[ボールの見極めが上達し](https://ja.wikipedia.org/wiki/ボール_\(野球\) "wikilink")\[24\]、更に[長打率](https://ja.wikipedia.org/wiki/長打率 "wikilink")はリーグ9位、外野[補殺](https://ja.wikipedia.org/wiki/補殺 "wikilink")数は同6位\[25\]と飛躍のシーズンとなった。
+
+は開幕当初は4番に座っていたが、[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")からは3番を、[7月20日](../Page/7月20日.md "wikilink")からは2番を務めた\[26\]。8月以降は3度も怠慢プレーを理由にベンチに下げられる失態を犯し\[27\]、9月には左足負傷により10試合欠場したが\[28\]、シーズン通算では自己最多の145試合に出場した上、リーグ2位の盗塁数（44）と補殺数（16\[29\]）と[レンジ・ファクター](https://ja.wikipedia.org/wiki/守備率#新しい守備指標 "wikilink")（2.84\[30\]）、同4位の四球数（97）、同7位の出塁率（.383）をマーク。身体能力と出塁能力、両面において高いパフォーマンスを発揮した\[31\]。[ポストシーズン](https://ja.wikipedia.org/wiki/ポストシーズン "wikilink")では16試合に出場して66打数19安打、打率.288・7本塁打・16打点・出塁率.333・長打率.652・6盗塁。ポストシーズンにおける単年7本塁打は[アメリカンリーグ](../Page/アメリカンリーグ.md "wikilink")のタイ記録であり、球団史上初となるリーグ制覇の原動力になった\[32\]。[ワールドシリーズ](../Page/ワールドシリーズ.md "wikilink")では1勝4敗で[フィラデルフィア・フィリーズ](https://ja.wikipedia.org/wiki/フィラデルフィア・フィリーズ "wikilink")に敗北したが、レイズの24盗塁はそれまでの21盗塁を塗り替えるポストシーズン新記録となった\[33\]。シーズン終了後の[11月11日](../Page/11月11日.md "wikilink")に左肩の手術を受けている\[34\]。
+
+[290px](https://ja.wikipedia.org/wiki/ファイル:BJ_Upton_follow_thru.jpg "wikilink") は、開幕から1週間遅れの[4月13日](../Page/4月13日.md "wikilink")（対[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")戦）から戦列に復帰し、打順は1番になった。そして3打数1安打3四球4出塁2盗塁2得点とインパクトを与え、「彼は一段と進歩・成長している、新しい役割に見事に順応している」と[ジョー・マドン](https://ja.wikipedia.org/wiki/ジョー・マドン "wikilink")監督を感心させた。マドンは更に「彼は[リッキー・ヘンダーソン](https://ja.wikipedia.org/wiki/リッキー・ヘンダーソン "wikilink")や[ルー・ブロック](https://ja.wikipedia.org/wiki/ルー・ブロック "wikilink")に比肩する存在になれるかもしれない」と述べ、アップトンのリードオフとしての攻撃能力に一目置いている\[35\]\[36\]。[10月2日](../Page/10月2日.md "wikilink")のヤンキース戦で球団史上初の[サイクル安打](../Page/サイクル安打.md "wikilink")を達成した\[37\]。第1打席で走者一掃の三塁打を放つと、3回の第2打席で左中間へ二塁打。4回の第3打席では右中間へ2点本塁打。さらに5回の第4打席で右前安打を放ち、球団初のサイクル安打を達成した。8回にも左前安打を放ち、この試合5打数5安打6打点を記録した。
+
+のオフに[FAとなった](https://ja.wikipedia.org/wiki/フリーエージェント_\(プロスポーツ\)#メジャーリーグベースボール "wikilink")\[38\]。
+
+### ブレーブス時代
+
+2012年[11月28日](../Page/11月28日.md "wikilink")に[アトランタ・ブレーブス](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")と総額約7500万ドルの5年契約を結び移籍した\[39\]。同年オフにジャスティンもブレーブスに移籍したため兄弟揃ってプレーすることになった。
+
+[4月23日](../Page/4月23日.md "wikilink")の[コロラド・ロッキーズ](https://ja.wikipedia.org/wiki/コロラド・ロッキーズ "wikilink")戦（[クアーズ・フィールド](https://ja.wikipedia.org/wiki/クアーズ・フィールド "wikilink")）の5回に本塁打を放つと、続く打者の弟ジャスティンも本塁打を放ち、[ポール・ウェイナー](../Page/ポール・ウェイナー.md "wikilink")、[ロイド・ウェイナー](../Page/ロイド・ウェイナー.md "wikilink")兄弟に続いて、メジャーで2例目の兄弟での連続本塁打を75年ぶりに記録した\[40\]。レギュラーシーズンでは126試合の出場で打率.184・151三振を記録した。
+
+は、2年連続で不振に陥った。2年ぶりとなる規定打席到達を果たし、同じく2年ぶりとなる三桁安打と二桁本塁打・盗塁を記録したが、打率.208・自己ワーストの173三振を喫した。
+
+2月に登録名を**メルビン・アップトン・ジュニア**に変更した。[2月27日](../Page/2月27日.md "wikilink")に左足を負傷し、スプリングトレーニングを離脱。レントゲン及びMRI検査の結果、左足の[母趾球](https://ja.wikipedia.org/wiki/母趾球 "wikilink")の炎症と診断され、2週間ほど患部を[ギプス](https://ja.wikipedia.org/wiki/ギプス "wikilink")で固定。さらにその後、6週間は医療用ブーツを着用することになり、普通に歩行できるまで約2ヶ月の重症を負った。このため、開幕は故障者リストで迎えることになった。
+
+### パドレス時代
+
+2015年[4月5日](../Page/4月5日.md "wikilink")に[キャメロン・メイビン](https://ja.wikipedia.org/wiki/キャメロン・メイビン "wikilink")、[カルロス・クエンティン](https://ja.wikipedia.org/wiki/カルロス・クエンティン "wikilink")、[マット・ウィスラー](https://ja.wikipedia.org/wiki/マット・ウィスラー "wikilink")、、さらにこのシーズンのドラフト指名権との[トレードで](https://ja.wikipedia.org/wiki/トレード#メジャーリーグ "wikilink")、[クレイグ・キンブレル](https://ja.wikipedia.org/wiki/クレイグ・キンブレル "wikilink")と共に[サンディエゴ・パドレス](https://ja.wikipedia.org/wiki/サンディエゴ・パドレス "wikilink")へ移籍した\[41\]。弟のジャスティンもオフにパドレスにトレードで移籍していたため再び兄弟揃って同じチームでプレーすることとなった。シーズン開幕は故障者リストで迎えたが、6月に復帰。その後は控えとして87試合に出場したが、メジャー定着後の2007年以降では試合数、打席数共に最低に終わった。後半戦は打率.278を記録するなど調子を上げた。
+
+は[左翼手](../Page/左翼手.md "wikilink")のレギュラーの座を掴み、92試合で打率.256・16本塁打・45打点・20盗塁という成績を記録。ブレーブス移籍時から続いていた不振から脱却した。
+
+### ブルージェイズ時代
+
+2016年[7月26日](../Page/7月26日.md "wikilink")に[ハンセル・ロドリゲス](https://ja.wikipedia.org/wiki/ハンセル・ロドリゲス "wikilink")とのトレードで、[トロント・ブルージェイズ](../Page/トロント・ブルージェイズ.md "wikilink")へ移籍した\[42\]。ブルージェイズ加入後も左翼手のレギュラー格となったが、不振がぶり返して57試合で打率.196・4本塁打・16打点・7盗塁という成績に終わった。それでも、パドレス時代との合算で見れば、149試合で打率.238ながら20本塁打・27盗塁をマークし、自身4度目となる「**20本塁打**・**20盗塁**」の同時記録を達成した。
+
+[4月2日](../Page/4月2日.md "wikilink")に自由契約となった\[43\]。
+
+### ジャイアンツ傘下時代
+
+2017年[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")に[サンフランシスコ・ジャイアンツ](../Page/サンフランシスコ・ジャイアンツ.md "wikilink")とマイナー契約を結び\[44\]\[45\]、6月より傘下のAAA級[サクラメント・リバーキャッツ](https://ja.wikipedia.org/wiki/サクラメント・リバーキャッツ "wikilink")でプレー。だが、成績は12試合で打率.244・1本塁打・4打点にとどまり、[8月21日](../Page/8月21日.md "wikilink")に自由契約となった\[46\]。
+
+### インディアンス傘下時代
+
+2017年[12月21日](../Page/12月21日.md "wikilink")に[クリーブランド・インディアンス](https://ja.wikipedia.org/wiki/クリーブランド・インディアンス "wikilink")とマイナー契約を結び、の[スプリングトレーニング](https://ja.wikipedia.org/wiki/スプリングトレーニング "wikilink")に招待選手として参加することになったが\[47\]、2018年スプリングトレーニングの成績が37打数7安打、打率.189と振るわず、[3月19日](../Page/3月19日.md "wikilink")に自由契約となった\[48\]\[49\]。
+
+## プレースタイル
+
+本来は[遊撃手](../Page/遊撃手.md "wikilink")であったが、2007年7月から外野手に転向。それを機に一躍ブレイクした。2014年まで登録名にしていたニックネームの"B.J."は"Bossman Junior"の略。彼の父のニックネームが"Bossman"だったことに由来する\[50\]\[51\]\[52\]\[53\]。
+
+「ライトニング・クイック・バット」とも称される傑出したバットスピードを最大の武器とし、パワー・アベレージ双方の面で結果を残せる選手と広く考えられている。加えて、最高水準のスピードと盗塁技術、広大なレンジ（守備範囲）と[大砲](../Page/大砲.md "wikilink")に例えられるほどの[強肩](https://ja.wikipedia.org/wiki/強肩 "wikilink")、そして確かな[選球眼](https://ja.wikipedia.org/wiki/選球眼 "wikilink")を兼ね備える5ツール・プレーヤー（7スキル・プレーヤーとも）。[長打](https://ja.wikipedia.org/wiki/長打 "wikilink")量産の副産物として三振数も多いが、ボールを鋭く見極め、四球を選んで出塁出来る。レギュラーに定着した2007年から2008年までの2年間で162個の四球を選んでおり、出塁率はいずれも.380を超えている。2008年には97四球をマークしているが、これは24歳以下の若手選手としてはの[フランク・トーマス](https://ja.wikipedia.org/wiki/フランク・トーマス "wikilink")（138個）以来、ア・リーグ17年ぶりのことである\[54\]。レイズ時代の監督だった[ジョー・マドン](https://ja.wikipedia.org/wiki/ジョー・マドン "wikilink")はアップトンの運動能力と野球センス、スピードと意欲的な走塁、選球眼とセレクティブなアプローチを賞賛しているが、とりわけ[送球](https://ja.wikipedia.org/wiki/送球 "wikilink")能力に関しては「B.J.の[外野](https://ja.wikipedia.org/wiki/外野 "wikilink")からの返球を見る限り、初速・精度いずれもリーグ最高だろう」と高い評価を下している\[55\]\[56\]\[57\]\[58\]\[59\]\[60\]\[61\]\[62\]\[63\]\[64\]。
+
+遊撃手の守備に難があるが、目標とする[デレク・ジーター](https://ja.wikipedia.org/wiki/デレク・ジーター "wikilink")\[65\]も過去守備に悩まされた経験があるために\[66\]、かつては「アップトンもいずれ遊撃手として大成するのではないか」と考えられていた\[67\]\[68\]\[69\]。しかし2007年7月からは中堅にコンバート、守備負担は大幅に軽減された\[70\]。アップトンは[リトルリーグ](https://ja.wikipedia.org/wiki/リトルリーグ "wikilink")入団以降、一貫して内野手を務めて来たが、「守備に就いている際に細かい神経を使わずに済む」と外野転向を前向きに捉えている\[71\]。
+
+## 詳細情報
+
+### 年度別打撃成績
+
+<table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/タンパベイ・レイズ" title="wikilink">TB</a></p></td>
+<td><p>45</p></td>
+<td><p>177</p></td>
+<td><p>159</p></td>
+<td><p>19</p></td>
+<td><p>41</p></td>
+<td><p>8</p></td>
+<td><p>2</p></td>
+<td><p>4</p></td>
+<td><p>65</p></td>
+<td><p>12</p></td>
+<td><p>4</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>15</p></td>
+<td><p>0</p></td>
+<td><p>1</p></td>
+<td><p>46</p></td>
+<td><p>1</p></td>
+<td><p>.258</p></td>
+<td><p>.324</p></td>
+<td><p>.409</p></td>
+<td><p>.733</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>50</p></td>
+<td><p>189</p></td>
+<td><p>175</p></td>
+<td><p>20</p></td>
+<td><p>43</p></td>
+<td><p>5</p></td>
+<td><p>0</p></td>
+<td><p>1</p></td>
+<td><p>51</p></td>
+<td><p>10</p></td>
+<td><p>11</p></td>
+<td><p>3</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>13</p></td>
+<td><p>0</p></td>
+<td><p>1</p></td>
+<td><p>40</p></td>
+<td><p>1</p></td>
+<td><p>.246</p></td>
+<td><p>.302</p></td>
+<td><p>.291</p></td>
+<td><p>.593</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>129</p></td>
+<td><p>548</p></td>
+<td><p>474</p></td>
+<td><p>86</p></td>
+<td><p>142</p></td>
+<td><p>25</p></td>
+<td><p>1</p></td>
+<td><p>24</p></td>
+<td><p>241</p></td>
+<td><p>82</p></td>
+<td><p>22</p></td>
+<td><p>8</p></td>
+<td><p>1</p></td>
+<td><p>4</p></td>
+<td><p>65</p></td>
+<td><p>4</p></td>
+<td><p>4</p></td>
+<td><p>154</p></td>
+<td><p>14</p></td>
+<td><p>.300</p></td>
+<td><p>.386</p></td>
+<td><p>.508</p></td>
+<td><p>.894</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>145</p></td>
+<td><p>640</p></td>
+<td><p>531</p></td>
+<td><p>85</p></td>
+<td><p>145</p></td>
+<td><p>37</p></td>
+<td><p>2</p></td>
+<td><p>9</p></td>
+<td><p>213</p></td>
+<td><p>67</p></td>
+<td><p>44</p></td>
+<td><p><strong>16</strong></p></td>
+<td><p>3</p></td>
+<td><p>7</p></td>
+<td><p>97</p></td>
+<td><p>4</p></td>
+<td><p>2</p></td>
+<td><p>134</p></td>
+<td><p>13</p></td>
+<td><p>.273</p></td>
+<td><p>.383</p></td>
+<td><p>.401</p></td>
+<td><p>.784</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>144</p></td>
+<td><p>626</p></td>
+<td><p>560</p></td>
+<td><p>79</p></td>
+<td><p>135</p></td>
+<td><p>33</p></td>
+<td><p>4</p></td>
+<td><p>11</p></td>
+<td><p>209</p></td>
+<td><p>55</p></td>
+<td><p>42</p></td>
+<td><p>14</p></td>
+<td><p>3</p></td>
+<td><p>3</p></td>
+<td><p>57</p></td>
+<td><p>0</p></td>
+<td><p>3</p></td>
+<td><p>152</p></td>
+<td><p>7</p></td>
+<td><p>.241</p></td>
+<td><p>.313</p></td>
+<td><p>.373</p></td>
+<td><p>.686</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>154</p></td>
+<td><p>610</p></td>
+<td><p>536</p></td>
+<td><p>89</p></td>
+<td><p>127</p></td>
+<td><p>38</p></td>
+<td><p>4</p></td>
+<td><p>18</p></td>
+<td><p>227</p></td>
+<td><p>62</p></td>
+<td><p>42</p></td>
+<td><p>9</p></td>
+<td><p>1</p></td>
+<td><p>4</p></td>
+<td><p>67</p></td>
+<td><p>1</p></td>
+<td><p>2</p></td>
+<td><p>164</p></td>
+<td><p>13</p></td>
+<td><p>.237</p></td>
+<td><p>.322</p></td>
+<td><p>.424</p></td>
+<td><p>.745</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>153</p></td>
+<td><p>640</p></td>
+<td><p>560</p></td>
+<td><p>82</p></td>
+<td><p>136</p></td>
+<td><p>27</p></td>
+<td><p>4</p></td>
+<td><p>23</p></td>
+<td><p>240</p></td>
+<td><p>81</p></td>
+<td><p>36</p></td>
+<td><p>12</p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>71</p></td>
+<td><p>4</p></td>
+<td><p>4</p></td>
+<td><p>161</p></td>
+<td><p>16</p></td>
+<td><p>.243</p></td>
+<td><p>.331</p></td>
+<td><p>.429</p></td>
+<td><p>.759</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>146</p></td>
+<td><p>633</p></td>
+<td><p>573</p></td>
+<td><p>79</p></td>
+<td><p>141</p></td>
+<td><p>29</p></td>
+<td><p>3</p></td>
+<td><p>28</p></td>
+<td><p>260</p></td>
+<td><p>78</p></td>
+<td><p>31</p></td>
+<td><p>6</p></td>
+<td><p>4</p></td>
+<td><p>8</p></td>
+<td><p>45</p></td>
+<td><p>0</p></td>
+<td><p>1</p></td>
+<td><p>169</p></td>
+<td><p>13</p></td>
+<td><p>.246</p></td>
+<td><p>.298</p></td>
+<td><p>.454</p></td>
+<td><p>.752</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アトランタ・ブレーブス" title="wikilink">ATL</a></p></td>
+<td><p>126</p></td>
+<td><p>446</p></td>
+<td><p>391</p></td>
+<td><p>30</p></td>
+<td><p>72</p></td>
+<td><p>14</p></td>
+<td><p>0</p></td>
+<td><p>9</p></td>
+<td><p>113</p></td>
+<td><p>26</p></td>
+<td><p>12</p></td>
+<td><p>5</p></td>
+<td><p>1</p></td>
+<td><p>6</p></td>
+<td><p>44</p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>151</p></td>
+<td><p>7</p></td>
+<td><p>.184</p></td>
+<td><p>.268</p></td>
+<td><p>.289</p></td>
+<td><p>.557</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>141</p></td>
+<td><p>582</p></td>
+<td><p>519</p></td>
+<td><p>67</p></td>
+<td><p>108</p></td>
+<td><p>19</p></td>
+<td><p>5</p></td>
+<td><p>12</p></td>
+<td><p>173</p></td>
+<td><p>35</p></td>
+<td><p>20</p></td>
+<td><p>7</p></td>
+<td><p>3</p></td>
+<td><p>2</p></td>
+<td><p>57</p></td>
+<td><p>5</p></td>
+<td><p>1</p></td>
+<td><p>173</p></td>
+<td><p>6</p></td>
+<td><p>.208</p></td>
+<td><p>.287</p></td>
+<td><p>.333</p></td>
+<td><p>.620</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サンディエゴ・パドレス" title="wikilink">SD</a></p></td>
+<td><p>87</p></td>
+<td><p>228</p></td>
+<td><p>205</p></td>
+<td><p>23</p></td>
+<td><p>53</p></td>
+<td><p>12</p></td>
+<td><p>4</p></td>
+<td><p>5</p></td>
+<td><p>88</p></td>
+<td><p>17</p></td>
+<td><p>9</p></td>
+<td><p>3</p></td>
+<td><p>2</p></td>
+<td><p>0</p></td>
+<td><p>21</p></td>
+<td><p>2</p></td>
+<td><p>0</p></td>
+<td><p>62</p></td>
+<td><p>1</p></td>
+<td><p>.259</p></td>
+<td><p>.327</p></td>
+<td><p>.429</p></td>
+<td><p>.757</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>92</p></td>
+<td><p>374</p></td>
+<td><p>344</p></td>
+<td><p>46</p></td>
+<td><p>88</p></td>
+<td><p>11</p></td>
+<td><p>2</p></td>
+<td><p>16</p></td>
+<td><p>151</p></td>
+<td><p>45</p></td>
+<td><p>20</p></td>
+<td><p>5</p></td>
+<td><p>1</p></td>
+<td><p>3</p></td>
+<td><p>23</p></td>
+<td><p>1</p></td>
+<td><p>2</p></td>
+<td><p>106</p></td>
+<td><p>5</p></td>
+<td><p>.256</p></td>
+<td><p>.304</p></td>
+<td><p>.439</p></td>
+<td><p>.743</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/トロント・ブルージェイズ.md" title="wikilink">TOR</a></p></td>
+<td><p>57</p></td>
+<td><p>165</p></td>
+<td><p>148</p></td>
+<td><p>18</p></td>
+<td><p>29</p></td>
+<td><p>4</p></td>
+<td><p>1</p></td>
+<td><p>4</p></td>
+<td><p>47</p></td>
+<td><p>16</p></td>
+<td><p>7</p></td>
+<td><p>3</p></td>
+<td><p>0</p></td>
+<td><p>3</p></td>
+<td><p>14</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>49</p></td>
+<td><p>1</p></td>
+<td><p>.196</p></td>
+<td><p>.261</p></td>
+<td><p>.318</p></td>
+<td><p>.578</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>'16計</p></td>
+<td><p>149</p></td>
+<td><p>539</p></td>
+<td><p>492</p></td>
+<td><p>64</p></td>
+<td><p>117</p></td>
+<td><p>15</p></td>
+<td><p>3</p></td>
+<td><p>20</p></td>
+<td><p>198</p></td>
+<td><p>61</p></td>
+<td><p>27</p></td>
+<td><p>8</p></td>
+<td><p>1</p></td>
+<td><p>6</p></td>
+<td><p>37</p></td>
+<td><p>1</p></td>
+<td><p>2</p></td>
+<td><p>155</p></td>
+<td><p>6</p></td>
+<td><p>.238</p></td>
+<td><p>.291</p></td>
+<td><p>.402</p></td>
+<td><p>.693</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/メジャーリーグベースボール" title="wikilink">MLB</a>：12年</p></td>
+<td><p>1469</p></td>
+<td><p>5858</p></td>
+<td><p>5175</p></td>
+<td><p>723</p></td>
+<td><p>1260</p></td>
+<td><p>262</p></td>
+<td><p>32</p></td>
+<td><p>164</p></td>
+<td><p>2078</p></td>
+<td><p>586</p></td>
+<td><p>300</p></td>
+<td><p>92</p></td>
+<td><p>22</p></td>
+<td><p>44</p></td>
+<td><p>589</p></td>
+<td><p>23</p></td>
+<td><p>24</p></td>
+<td><p>1561</p></td>
+<td><p>98</p></td>
+<td><p>.243</p></td>
+<td><p>.321</p></td>
+<td><p>.402</p></td>
+<td><p>.723</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - 2018年度シーズン終了時
+  - 各年度の**太字**はリーグ最高
+
+### 記録
+
+  - MiLB
+
+<!-- end list -->
+
+  - [オールスター・フューチャーズゲーム](https://ja.wikipedia.org/wiki/オールスター・フューチャーズゲーム "wikilink")選出：2回（[2004年](https://ja.wikipedia.org/wiki/2004年のオールスター・フューチャーズゲーム "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年のオールスター・フューチャーズゲーム "wikilink")）
+
+<!-- end list -->
+
+  - MLB
+
+<!-- end list -->
+
+  - [サイクル安打](../Page/サイクル安打.md "wikilink")：1回（2009年10月2日、対[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")戦）
+
+### 背番号
+
+  - **39**（2004年）
+  - **2**（2006年 - 2016年7月25日）
+  - **7**（2016年7月26日 - 同年終了）
+
+## 脚注
+
+## 関連項目
+
+  - [メジャーリーグベースボールの選手一覧 U](https://ja.wikipedia.org/wiki/メジャーリーグベースボールの選手一覧_U "wikilink")
+  - [兄弟スポーツ選手一覧](https://ja.wikipedia.org/wiki/兄弟スポーツ選手一覧_#野球 "wikilink")
+
+## 外部リンク
+
+  - [Melvin Upton Jr. stats](http://www.milb.com/player/index.jsp?player_id=425834) MiLB.com
+
+  -
+[Category:アメリカ合衆国の野球選手](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の野球選手 "wikilink") [Category:アフリカ系アメリカ人の野球選手](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人の野球選手 "wikilink") [Category:タンパベイ・デビルレイズの選手](https://ja.wikipedia.org/wiki/Category:タンパベイ・デビルレイズの選手 "wikilink") [Category:タンパベイ・レイズの選手](https://ja.wikipedia.org/wiki/Category:タンパベイ・レイズの選手 "wikilink") [Category:アトランタ・ブレーブスの選手](https://ja.wikipedia.org/wiki/Category:アトランタ・ブレーブスの選手 "wikilink") [Category:サンディエゴ・パドレスの選手](https://ja.wikipedia.org/wiki/Category:サンディエゴ・パドレスの選手 "wikilink") [Category:トロント・ブルージェイズの選手](https://ja.wikipedia.org/wiki/Category:トロント・ブルージェイズの選手 "wikilink") [Category:オールスター・フューチャーズゲーム選出選手](https://ja.wikipedia.org/wiki/Category:オールスター・フューチャーズゲーム選出選手 "wikilink") [Category:バージニア州ノーフォーク出身の人物](https://ja.wikipedia.org/wiki/Category:バージニア州ノーフォーク出身の人物 "wikilink") [Category:1984年生](https://ja.wikipedia.org/wiki/Category:1984年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11. [All-Time Top 100 Prospects](http://www.baseballamerica.com/today/prospects/features/26983.html) *BaseballAmerica.com , February 28 2007*, 2008年2月6日閲覧。
+12. 『月刊メジャーリーグ 2006年3月号』 39ページ。
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23. 『月刊メジャー・リーグ 2008年3月号』39頁。
+24.
+25. ※A（Assist、補殺）をクリック。
+26.
+27.
+28.
+29. ※A（Assist、補殺）をクリック。
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45. <https://twitter.com/JonHeyman/status/850805917100777472>
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.

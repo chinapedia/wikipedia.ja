@@ -1,0 +1,61 @@
+> この記事は[OVER](https://ja.wikipedia.org/wiki/OVER)から翻訳されています。
+
+
+**OVER城**（オーバーじょう）は、漫画『[ボボボーボ・ボーボボ](../Page/ボボボーボ・ボーボボ.md "wikilink")』に出てくる架空の[城](../Page/城.md "wikilink")。
+
+## OVER城
+
+四天王最凶の男**OVER**が治める。外見は[江戸城](https://ja.wikipedia.org/wiki/江戸城 "wikilink")のような和風の城である。配下に**必殺5忍衆**という5人の忍者がいる。
+
+  - [OVER（オーバー）](https://ja.wikipedia.org/wiki/魚雷ガール "wikilink")
+    四天王最凶の男。
+
+<!-- end list -->
+
+  - [魚雷ガール](https://ja.wikipedia.org/wiki/魚雷ガール "wikilink")
+    OVERの真の姿。
+
+### 必殺5忍衆
+
+  - ルビー
+    声 - [國府田マリ子](../Page/國府田マリ子.md "wikilink")
+    必殺5忍衆の紅一点。一緒に遊んだ人を無意識に[洗脳](https://ja.wikipedia.org/wiki/洗脳 "wikilink")できるブレインウォッシングという能力を持っている。見かけは少女のようで存在が痛い。金髪碧眼。
+    最後は[天の助に諭されていた](../Page/ところ天の助.md "wikilink")。かつてはおじさんに大人気の[チャイドル](https://ja.wikipedia.org/wiki/チャイドル "wikilink")だった。ブームが去った後は[原宿](../Page/原宿.md "wikilink")にある[クレープ](https://ja.wikipedia.org/wiki/クレープ "wikilink")屋で[バイトしているらしい](../Page/アルバイト.md "wikilink")。
+    新皇帝決定戦にてOVERとともに1コマだけ登場。隊長・幹部クラスのバッジを10個集めないと入れない所にいたあたり、それなりの実力者のようだ。
+    「真説」では最終話のマルハーゲ同窓会に登場。
+  - 無限蹴人
+    声 - [福井美樹](https://ja.wikipedia.org/wiki/福井美樹 "wikilink")
+    必殺5忍衆の1人で、ボーボボ達をまとめて1人で相手にした少年。見かけは[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")少年のようで村一番の[昆虫](../Page/昆虫.md "wikilink")博士。必殺技は[カブトムシ](../Page/カブトムシ.md "wikilink")に[スイカ](https://ja.wikipedia.org/wiki/スイカ "wikilink")を与えて死なす事。熱血そうな見かけによらず、かなり冷めた性格の持ち主。武器は[鎖鎌](https://ja.wikipedia.org/wiki/鎖鎌 "wikilink")。彼曰くボールは飾りにして[弁当](../Page/弁当.md "wikilink")箱（当然中身はぐちゃぐちゃ）。水色の髪で、赤眼。
+    最強モードのヘッポコ丸に[レーシングカー](https://ja.wikipedia.org/wiki/レーシングカー "wikilink")ではねとばされる。またヘッポコ丸に二回ボーボボ・首領パッチ・天の助と一緒に溶岩に突き落とされ、ヘッポコ丸を訴えるが二回とも敗訴している。
+    「真説」では最終話のマルハーゲ同窓会に登場。
+  - 黄河文明
+    声 - [岡本寛志](https://ja.wikipedia.org/wiki/岡本寛志 "wikilink")
+    必殺5忍衆の1人。忍の者ゆえ名が無かったが、戦闘中に黒子が持ってきた巻物によって、メソポタミア文明・インダス文明と共にこの名前を発表した。**黄河忍法（[甲賀](https://ja.wikipedia.org/wiki/甲賀 "wikilink")[忍法](https://ja.wikipedia.org/wiki/忍法 "wikilink")）の使い手**。自らの汗に触れた物を凍らせる黄河忍法「氷結汗」（実は使用者本人も巻き添えを食う）とカーリング用のストーンの形をした[爆弾](../Page/爆弾.md "wikilink")を使う黄河忍法「カーリングアタック」を使う。実は女。名前の由来は、[黄河文明](../Page/黄河文明.md "wikilink")。
+    登場する時は常にインダス文明・メソポタミア文明と一緒で、三人まとめて「3バカ忍者」とボーボボ達からは呼ばれる。OVER城内部のトイレコロシアムでボーボボ一行に挑むもインダス文明・メソポタミア文明ともどもボボパッチの助に敗北。その後、新皇帝決定戦に参戦。ボーボボと共闘し予選をクリアするも、ボーボボの理不尽な裏切りによってクリア直後に脱落した。
+    「真説」ではコチョコチョエリアで、三人揃って血ヘドを吐くまでくすぐられていた。最終話では、同窓会には出ず三人で河原にいた。
+  - メソポタミア文明
+    声 - [高戸靖広](https://ja.wikipedia.org/wiki/高戸靖広 "wikilink")
+    必殺5忍衆の1人。額に「キミの心」と書かれた[タコ](../Page/タコ.md "wikilink")に似た姿をしている謎の生物。戦闘では様々なトラップを駆使する(OVER城3階のトラップも彼が作ったものである)名前の由来は、[メソポタミア文明](https://ja.wikipedia.org/wiki/メソポタミア文明 "wikilink")。
+    本名は**タコ太郎**で、インダス文明の兄。主食がバターサンドとバターロールとバターという脂が濃い物ばかりな為、[動物](https://ja.wikipedia.org/wiki/動物 "wikilink")性[油脂](../Page/油脂.md "wikilink")の取りすぎで**メソポタミア文明**の姿になっていたが、ボボパッチの助の**M・T（マジで・タイム）**により**メソポタミア文明**の中から現れた。
+  - インダス文明
+    声 - [高塚正也](https://ja.wikipedia.org/wiki/高塚正也 "wikilink")
+    必殺5忍衆の1人。乾電池のような容姿で、中に犬が入っている。口数は少ないがコンスタントにボケる。名前の由来は、[インダス文明](../Page/インダス文明.md "wikilink")。
+    デザインは乾電池がモデルらしい。頭が開き、その中からは犬が出てくる。
+    本名は**とし郎**。兄は**タコ太郎**（**メソポタミア文明**）。
+
+### 御庭番
+
+  - おちょぼ口くん
+    声 - [成田剣](https://ja.wikipedia.org/wiki/成田剣 "wikilink")
+    OVER城[御庭番](https://ja.wikipedia.org/wiki/御庭番 "wikilink")の一人。名前とは裏腹に口が顔の大半を占めている。[バリアー](https://ja.wikipedia.org/wiki/バリアー "wikilink")の術や隠れ身の術などの忍法を使う。
+    ボーボボとの忍法対決に敗れた後、忍法**口バキュームの術**で彼等をOVER城へワープさせ、N\&Nsとメル友になる。
+    誕生日は3月15日。A型。
+  - ガンプ
+    声 - [福原耕平](https://ja.wikipedia.org/wiki/福原耕平 "wikilink")
+    OVER城[御庭番](https://ja.wikipedia.org/wiki/御庭番 "wikilink")の一人。背中に羽が生えており空を飛べるが、本当の羽は頭に生えている触角らしい。幾多の敵を苦しめてきた天の助とボーボボの必殺技**ところ天マグナム**を、唯一呆れ顔で跳ね返した男。ボーボボのカレーパンを食った理由でイー・アル・キャンフー攻撃とボーボボと天の助とのタッグ技「マッスルドッキング」（バスターを組まれた部分は首領パッチ）さすがにビュティから「やりすぎだよ」とつっこんだ。
+    アニメでは権利関係からか、ガンプと首領パッチの上にそれぞれボーボボと天の助が上に乗り、そのまま落下する「組体操」に変更されている。
+    花屋になるのが幼稚園からの夢。その頃から花壇の[ヒマワリ](../Page/ヒマワリ.md "wikilink")しか食べないため、いつでも栄養失調気味。最近は[パンジー](https://ja.wikipedia.org/wiki/パンジー "wikilink")が好きらしい。
+
+[en:List of Bobobo-bo Bo-bobo characters\#OVER's Ninja Assassin Corp](https://ja.wikipedia.org/wiki/en:List_of_Bobobo-bo_Bo-bobo_characters#OVER's_Ninja_Assassin_Corp "wikilink")
+
+[Category:架空の城と要塞](https://ja.wikipedia.org/wiki/Category:架空の城と要塞 "wikilink") [Category:ボボボーボ・ボーボボ](https://ja.wikipedia.org/wiki/Category:ボボボーボ・ボーボボ "wikilink")

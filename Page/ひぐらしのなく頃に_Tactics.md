@@ -1,0 +1,83 @@
+> この記事は[ Tactics](https://ja.wikipedia.org/wiki/_Tactics)から翻訳されています。
+
+
+**ひぐらしのなく頃に Tactics**（ひぐらしのなくころに タクティクス）は、[そらゆめ](https://ja.wikipedia.org/wiki/そらゆめ "wikilink")開発・販売の[携帯電話](../Page/携帯電話.md "wikilink")向け[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に[SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")・[WILLCOM W-ZERO3の](https://ja.wikipedia.org/wiki/W-ZERO3 "wikilink")2機種でダウンロード開始。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月7日](../Page/5月7日.md "wikilink")より[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")版（[FOMA](../Page/FOMA.md "wikilink")・703i/903i～）が追加された。
+
+## 概要
+
+タイトルが示す通り、[07th Expansionの](https://ja.wikipedia.org/wiki/07th_Expansion "wikilink")[同人ゲーム](../Page/同人ゲーム.md "wikilink")「[ひぐらしのなく頃に](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に "wikilink")」を題材にしたシミュレーションRPGである。
+
+プレイヤーはチームを編成し、ステージごとに設定されている勝利条件の達成を目指す。行動は基本的にウェイト制であり、WT（Wait）値が0になったユニットから順に行動する。
+
+武器には耐久度が定められており、耐久度が0になった武器は壊れてしまう。耐久度は通常攻撃で1、ユニット固有のスキル（特技）を使用した場合はより多くの耐久度を消費する（消費耐久度が武器の残り耐久度を上回る場合はスキル使用不可）。
+
+### モード
+
+ゲーム開始時は蝋燭灯し編しか選択不可。
+
+  - 蝋燭灯し編
+    "ろうそくともしへん"。全5ステージで構成されるキャンペーンモード。ステージクリアごとに策略試し編で使用可能なユニットが追加される。
+
+<!-- end list -->
+
+  - 策略試し編
+    "さくりゃくだめしへん"。ユニット編成・ステージを選択可能なフリー対戦モード。
+
+<!-- end list -->
+
+  - 奈落堕し編
+    "ならくおとしへん"。ひたすら下のフロアを目指すトライアルモード。フロア中の敵を全滅させるか10の倍数のフロア（10階・20階・30階…）をクリアしないとユニットの体力が回復しない。
+
+## 登場キャラクター
+
+基本設定は[ひぐらしのなく頃にの登場人物](https://ja.wikipedia.org/wiki/ひぐらしのなく頃にの登場人物 "wikilink")を参照。
+
+  - 前原 圭一（まえばら けいいち）
+    専用スキル‥口先の魔術、KOOLモード
+  - 竜宮 レナ（りゅうぐう レナ ）
+    専用スキル‥れなぱん、かぁいいモード
+  - 園崎 魅音（そのざき みおん）
+    専用スキル‥頭首の目
+  - 北条 沙都子（ほうじょう さとこ）
+    専用スキル‥トラップワーク、罠抜け、突き飛ばす
+  - 古手 梨花（ふるで りか）
+    専用スキル‥にぱ～☆、ループ
+  - 園崎 詩音（そのざき しおん）
+    専用スキル‥鬼の血
+  - 入江 京介（いりえ きょうすけ）
+    専用スキル‥応急処置、特効薬、メイドインヘヴン
+  - 大石 蔵人（おおいし くらうど）
+    専用スキル‥燕返し、武器修復
+  - 富竹 ジロウ（とみたけ ジロウ ）
+    専用スキル‥ローアングル
+  - 鷹野 三四（たかの みよ）
+    専用スキル‥C120
+  - 知恵 留美子（ちえ るみこ）
+    専用スキル‥自己回復
+  - 赤坂 衛（あかさか まもる）
+    専用スキル‥徹甲弾、地獄待ち
+  - 古手 羽入（ふるで はにゅう）
+    専用スキル‥神鳴
+
+以下はiアプリ版の追加キャラクターである。
+
+  - 葛西 辰由（かさい たつよし）
+    専用スキル‥サングラス
+  - 北条 悟史（ほうじょう さとし）
+    専用スキル‥なでなで、むぅ
+
+## ステージ
+
+  - 雛見沢村分校
+  - 古手神社
+  - 前原屋敷
+  - ダム建設現場跡地
+  - 裏山
+  - 園崎本家
+
+## 外部リンク
+
+  - [ひぐらしのなく頃に Tactics](https://web.archive.org/web/20070118213741/http://www.sorayume.jp/appli/003hg/)
+  - [そらゆめ](https://web.archive.org/web/20160915215929/http://www.sorayume.co.jp/)
+
+[Category:ひぐらしのなく頃に](https://ja.wikipedia.org/wiki/Category:ひぐらしのなく頃に "wikilink") [Category:シミュレーションRPG](https://ja.wikipedia.org/wiki/Category:シミュレーションRPG "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink")

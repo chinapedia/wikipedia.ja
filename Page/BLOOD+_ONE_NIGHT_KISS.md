@@ -1,0 +1,139 @@
+> この記事は[BLOOD+ ONE NIGHT KISS](https://ja.wikipedia.org/wiki/BLOOD+_ONE_NIGHT_KISS)から翻訳されています。
+
+
+『**BLOOD+ ONE NIGHT KISS**』（**BLOOD+ One Night Kiss**、ブラッドプラス ワン ナイト キス）は、[グラスホッパー・マニファクチュア](https://ja.wikipedia.org/wiki/グラスホッパー・マニファクチュア "wikilink")開発、[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")が2006年8月31日に発売した[PlayStation 2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")である。
+
+アニメーション作品『[BLOOD+](https://ja.wikipedia.org/wiki/BLOOD+ "wikilink")』の[メディアミックス](../Page/メディアミックス.md "wikilink")作品のひとつ。『BLOOD+』の第7話後の、とある一夜に発生した事件を描いたオリジナルストーリーとなっている。ゲームジャンルは[アクションアドベンチャー](https://ja.wikipedia.org/wiki/アクションアドベンチャー "wikilink")で、プレイ人数は1人。ゲームはストーリーの流れに沿って小夜パートと青山パートのシナリオが交互に切り替わりながら進行する。小夜パートは「刀と体術」、青山パートは「銃」を用いたアクションで化物と戦う。
+
+アニメにある残酷描写は対象年齢を下げるために、大幅に抑えられている。具体例として、血の色が赤から黄色に変更されており、刀で肉体を切断するといった表現も皆無に等しい。これは「[土6のアニメは](https://ja.wikipedia.org/wiki/毎日放送制作土曜夕方6時枠のアニメ "wikilink")[ティーンエイジャー](https://ja.wikipedia.org/wiki/ティーンエイジャー "wikilink")が観る作品である」という、本作のディレクター兼シナリオライター[須田剛一](https://ja.wikipedia.org/wiki/須田剛一 "wikilink")の意向によるものである\[1\]。これと同様の傾向は「[BLOOD+ 双翼のバトル輪舞曲](https://ja.wikipedia.org/wiki/BLOOD+_双翼のバトル輪舞曲 "wikilink")」でも見られる。
+
+## あらすじ
+
+S玉県の式ニュータウンにて、翼手に似た化物による事件が頻発。この情報を得た「赤い盾」は、小夜を送り込み、化物の殲滅を図ろうとする。時を同じくして式ニュータウンにやってきた公安警察の青山は、異常事態発生の原因を突き止めるために街の捜査をはじめ、化物と遭遇する。式ニュータウンで発生した謎の事件をめぐり小夜と青山、二人の長い一夜が始まる。話が進むごとに黒幕が島村耕一であることが判明し、青山が交戦するが倒されてしまう。そして小夜は人を虫けらのように扱う島村に激怒して闘って小夜は島村に勝利した後に気を失う。小夜は夢から覚めてその夢を思い出として残しておく。2周目『PERFECT KISS』では夢ではなくすべて事実ということで、島村との戦いの後小夜は青山とキスを交わした。ラストシーンで青山は小夜との出会いに満足し、いろんなことを想い残しながら息絶える。
+
+## 登場人物（キャラクター）
+
+  - 音無小夜
+    テレビアニメ『BLOOD+』STORY上のとある空白の一日、翼手を掃討する決意のもと、式東高校に編入生としてやってきた主人公。刀を振るって翼手と戦う。
+  - 青山
+    ゲームオリジナルキャラクター。公安の特殊広域捜査担当刑事。数年前より、頻発する不可解な事件を担当。パートナーであった刑事を化物になった男に殺された過去をもつ。化物の出現情報を独自に入手し、式ニュータウンへやってくる。小夜とは別視点から謎を追う。
+  - ハジ
+    翼手との戦闘時に刀を差し出すなど、小夜のサポートをするシュバリエ。翼手を掃討するために小夜や「赤い盾」のメンバーと共に、式にやってくる。
+  - 翼手
+    人間にデルタ67を投与することによって生まれる怪物。小夜の血が体内に入ると体が結晶化し、崩れてしまう。
+
+## 登場人物
+
+  - 青山 轟
+    （[声](../Page/声優.md "wikilink")：[橋本じゅん](https://ja.wikipedia.org/wiki/橋本じゅん "wikilink")）
+    公安の特殊広域捜査を担当する刑事。化物の出現情報を得て式ニュータウンにやってくる。
+  - 島村 耕一
+    （声：[郷田ほづみ](https://ja.wikipedia.org/wiki/郷田ほづみ "wikilink")）
+    式ニュータウンの橋の下で簡易テント生活をしている。
+  - 赤間 カヲル
+    （声：[皆川猿時](https://ja.wikipedia.org/wiki/皆川猿時 "wikilink")）
+    正体不明の化物による事件の捜査を青山と共に担当している。青山は捜査が進展するたびに赤間と情報を共有する。
+  - 保岡 昭仁
+    （声：[ムロツヨシ](../Page/ムロツヨシ.md "wikilink")）
+    小夜が編入した高校の国語教師。バスケ部の顧問。
+  - 音無 小夜
+    （声：[喜多村英梨](https://ja.wikipedia.org/wiki/喜多村英梨 "wikilink")）
+    アニメ版第7話の後からヴェトナムへ渡るまでの期間のある1日、化物を掃討するために式東高校に編入生としてやってくる。
+  - 福岡 ツバサ
+    （声：[新谷真弓](https://ja.wikipedia.org/wiki/新谷真弓 "wikilink")）
+    式東高校に通う女子高生。編入してきた小夜と仲良くなる。
+  - 並河 ミチル
+    （声：[ひと美](https://ja.wikipedia.org/wiki/ひと美 "wikilink")）
+    式東高校に通う女子高生。仲良し三人組の一人。
+  - 長岐 曜子
+    （声：[嶋崎はるか](https://ja.wikipedia.org/wiki/嶋崎はるか "wikilink")）
+    式東高校に通う女子高生。仲良し三人組の一人。
+  - 磯島 さゆみ
+    （声：[雪野五月](https://ja.wikipedia.org/wiki/雪野五月 "wikilink")）
+    式東高校に通う女子高生。仲良し三人組の一人。
+  - ハジ
+    （声：[小西克幸](https://ja.wikipedia.org/wiki/小西克幸 "wikilink")）
+    アニメ版と同様。小夜のシュバリエ。
+  - デヴィッド
+    （声：[小杉十郎太](https://ja.wikipedia.org/wiki/小杉十郎太 "wikilink")）
+    アニメ版と同様。「赤い盾」のメンバー。小夜、ルイスに化物の出現場所を知らせるなど、指令を出す立場。赤間にも影から小夜のサポートをするように指示を出す。
+  - ルイス
+    （声：[長嶝高士](https://ja.wikipedia.org/wiki/長嶝高士 "wikilink")）
+    アニメ版と同様。「赤い盾」のメンバー。翼手を掃討する小夜をサポートする。
+  - 原木 稔
+    （声：[川原和久](https://ja.wikipedia.org/wiki/川原和久 "wikilink")）
+    式ニュータウンの警察署に勤務する警部補。
+  - 宮尾 ツトム
+    （声：[山田義晴](https://ja.wikipedia.org/wiki/山田義晴 "wikilink")）
+    町をぶらぶらしている男。
+  - 桃山さん
+    （声：[浅野真澄](../Page/浅野真澄.md "wikilink")）
+    式ニュータウンの警察署の交通課に勤務する婦警。気合の入っているときはミニスカの制服を着用。警察署に押収されている銃火器を青山に供給する。
+  - 井沢 隆士
+    （声：[飯田和敏](https://ja.wikipedia.org/wiki/飯田和敏 "wikilink")）
+    村上、吉岡とつるんでいる町の不良。
+  - 村上 潤三
+    （声：[平田広明](../Page/平田広明.md "wikilink")）
+    井沢や吉岡とつるんでいる町の不良。池川を崇拝している。
+  - 吉岡 顕二
+    （声：[保志総一朗](../Page/保志総一朗.md "wikilink")）
+    井沢や村上とつるんでいる町の不良。
+  - 平野 格
+    （声：[渋江譲二](https://ja.wikipedia.org/wiki/渋江譲二 "wikilink")）
+    式ニュータウンの警察署の署長。
+  - 池川 忍
+    （声：[井上麻里奈](https://ja.wikipedia.org/wiki/井上麻里奈 "wikilink")）
+    子供と共に団地に暮らす白髪の女性。
+  - 池川の父
+    かつて式署の幹部だった。
+  - 池川の子供
+    （声：[三瓶由布子](https://ja.wikipedia.org/wiki/三瓶由布子 "wikilink")）
+    団地に住む池川の5歳の息子。
+  - 山口 漣
+    （声：山田義晴）
+    佐分利エレクトロニクスで警備員の仕事をしている。
+  - 野田 長男
+    （声：[山西惇](https://ja.wikipedia.org/wiki/山西惇 "wikilink")）
+    佐分利エレクトロニクス従業員。新興住宅街に住んでいる。
+  - 秦 一郎
+    （声：[花田光](https://ja.wikipedia.org/wiki/花田光 "wikilink")）
+    数年前、長沼の研究で最初に実験台にされた男。
+  - 北崎
+    （声：長嶝高士）
+    福岡の元彼。
+  - 木林 広吉
+    （声：[西前忠久](https://ja.wikipedia.org/wiki/西前忠久 "wikilink")）
+    福岡の現在の彼氏。ヒロくんと呼ばれている。暴走族のヘッド。
+  - 久志田 史也
+    （声：西前忠久）
+    福岡の保護者きどりの男。ヘルメット姿。
+  - 杵淵 勝好
+    （声：[中井和哉](https://ja.wikipedia.org/wiki/中井和哉 "wikilink")）
+    福岡の援助交際相手。ボビーと呼ばれている。
+  - 長沼
+    （声：[大林隆介](https://ja.wikipedia.org/wiki/大林隆介 "wikilink")）
+    佐分利エレクトロニクスに新設された事業部の研究員。
+  - ミューズ
+    長沼が改変したデルタ67を女性に投与することで生み出した、ディーヴァに酷似した存在。
+  - 中井 隆博
+    （声：花田光）
+    小夜が編入してきた学校の教頭。
+  - 紅
+    かつて青山のパートナーだった女刑事。
+  - 宮城カイ
+    （声：[吉野裕行](https://ja.wikipedia.org/wiki/吉野裕行 "wikilink")）
+    アニメ版と同様
+  - 宮城リク
+    （声：[矢島晶子](../Page/矢島晶子.md "wikilink")）
+    アニメ版と同様
+
+## 脚注
+
+## 外部リンク
+
+  - [グラスホッパー・マニファクチュア](http://www.grasshopper.co.jp/)
+  - [公式サイト](http://www.bandaigames.channel.or.jp/list/blood/)
+
+[Category:BLOOD+](https://ja.wikipedia.org/wiki/Category:BLOOD+ "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:アドベンチャーゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:バンダイのゲームソフト](https://ja.wikipedia.org/wiki/Category:バンダイのゲームソフト "wikilink")
+
+1.  [『BLOOD+ ONE NIGHT KISS（ブラッドプラス ワン ナイト キス）』について、須田剛一氏が語る！](http://www.famitsu.com/game/coming/2006/05/08/104,1147065800,52693,0,0.html)

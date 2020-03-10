@@ -1,0 +1,77 @@
+> この記事は[KANSAI 24](https://ja.wikipedia.org/wiki/KANSAI_24)から翻訳されています。
+
+
+**ラジオはコミュニケーション「KANSAI 24時今日…明日」**は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月31日](../Page/8月31日.md "wikilink")から[9月1日](../Page/9月1日.md "wikilink")まで、[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")に本社をもつテレビ・ラジオ放送局、[毎日放送](../Page/毎日放送.md "wikilink")の開局記念に放送された、ラジオ特別番組である。なお、同じタイトル、同じ趣旨で翌年の1988年、1989年にも番組が放送されているが、この項では第1回にあたる1987年の放送について取り上げる。
+
+## 番組概要
+
+### 放送日時
+
+1987年8月31日（月曜）16:00〜9月1日（火曜）16:00
+
+### 放送内容
+
+1951年9月1日に放送を開始した毎日放送ラジオ（開局当時の社名は新日本放送）の開局記念日である9月1日に、各地からの生中継や聴取者からの電話やファクスのアンケートで、関西圏の実態と未来を浮かび上がらせるというコンセプトの24時間ワイド番組である。MBSラジオの全ワイド番組の出演者が、通常時間枠を活用し、番組コンセプトに基づいた企画展開を行ったほか、7ヶ所での公開放送やイベント、30地点からの生中継など、さまざまな試みが放送された。
+
+## 放送されたコーナー
+
+### オープニング
+
+  - 放送日時　8月31日（月）16:00〜18:00
+  - 出演　[角淳一](../Page/角淳一.md "wikilink")、[諸口あきら](../Page/諸口あきら.md "wikilink") ほか
+
+### プロ野球中継
+
+  - 放送日時　8月31日（月）18:00〜21:00
+    :\*[毎日放送ダイナミックナイター](https://ja.wikipedia.org/wiki/毎日放送ダイナミックナイター "wikilink")枠として、近鉄対日本ハム戦を中継
+
+### 日産大阪ギャラリー祭り
+
+  - 放送日時　8月31日（月）21:00〜22:00
+  - 出演　[柏木宏之](https://ja.wikipedia.org/wiki/柏木宏之_\(アナウンサー\) "wikilink")、[何人トリオ](https://ja.wikipedia.org/wiki/何人トリオ "wikilink")、[勇直子](https://ja.wikipedia.org/wiki/勇直子 "wikilink") ほか
+
+### MBSヤングタウン「明石家さんまコンサート」
+
+  - 放送日時　8月31日（月）22:00〜9月1日（火）1:00
+  - 出演　[明石家さんま](../Page/明石家さんま.md "wikilink")、[長江健次](../Page/長江健次.md "wikilink")、[伊東正治](https://ja.wikipedia.org/wiki/伊東正治 "wikilink")、[大津びわ子](https://ja.wikipedia.org/wiki/大津びわ子 "wikilink")、[さんまバンド](https://ja.wikipedia.org/wiki/さんまバンド "wikilink")
+
+### 朝がくるまでしゃべりすぎ 徹夜トーキングライブ
+
+  - 放送日時　9月1日（火）1:00〜6:00
+  - 出演　[河合奈保子](https://ja.wikipedia.org/wiki/河合奈保子 "wikilink")、[円広志](https://ja.wikipedia.org/wiki/円広志 "wikilink")、[嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")、[桂雀々](https://ja.wikipedia.org/wiki/桂雀々 "wikilink")、[MAKOTO](https://ja.wikipedia.org/wiki/北野誠_\(タレント\) "wikilink")、伊東正治
+
+### あなたの家からおはようMBSスペシャル
+
+  - 放送日時　9月1日（火）6:00〜8:00
+  - 出演　[川村龍一](../Page/川村龍一.md "wikilink")、[豊島美雪](https://ja.wikipedia.org/wiki/豊島美雪 "wikilink")
+
+### ありがとう上方カルチャーにせまる
+
+  - 放送日時　9月1日（火）8:00〜10:00
+  - 出演　[浜村淳](../Page/浜村淳.md "wikilink")、[鈴木美智子](https://ja.wikipedia.org/wiki/鈴木美智子 "wikilink")
+
+### 空からごめんやす
+
+  - 放送日時　9月1日（火）10:00〜12:00
+  - 出演　[馬場章夫](https://ja.wikipedia.org/wiki/馬場章夫 "wikilink")、[小山乃里子](https://ja.wikipedia.org/wiki/小山乃里子 "wikilink")
+
+### それゆけ！大阪経済
+
+  - 放送日時　9月1日（火）12:00〜14:00
+  - 出演　[横山ノック](https://ja.wikipedia.org/wiki/横山ノック "wikilink")、[板東英二](../Page/板東英二.md "wikilink")
+
+### フィナーレ
+
+  - 放送日時　9月1日（火）14:00〜16:00
+  - 出演　[川村龍一](../Page/川村龍一.md "wikilink")、[角淳一](../Page/角淳一.md "wikilink")
+
+### 「ラジオヒューマンアンケート」
+
+この24時間の特別番組は、前年（昭和61年）の1月から、開局35周年記念日である9月1日まで、毎日放送ラジオの制作・編成・営業部署等が一体になって展開した、関西在住の聴取者の生活実態・意識調査を行った「ラジオヒューマンアンケート」を発展させたものであった。なお前年の開局記念日には、このアンケートの集大成となる9時間半の特別番組が放送された。そして、このアンケートと生放送による24時間生放送の生活実態調査は翌年、翌々年と続けられた。
+
+## 関連項目
+
+  - [毎日放送開局40周年記念特別番組](../Page/毎日放送開局40周年記念特別番組.md "wikilink")
+  - [日本の長時間特別番組一覧](https://ja.wikipedia.org/wiki/日本の長時間特別番組一覧 "wikilink")
+
+[Category:毎日放送ラジオ番組の歴史](https://ja.wikipedia.org/wiki/Category:毎日放送ラジオ番組の歴史 "wikilink") [Category:ラジオの超長時間番組](https://ja.wikipedia.org/wiki/Category:ラジオの超長時間番組 "wikilink") [Category:1987年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のラジオ番組_\(日本\) "wikilink")

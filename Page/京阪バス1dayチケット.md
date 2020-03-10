@@ -1,0 +1,104 @@
+> この記事は[1day](https://ja.wikipedia.org/wiki/1day)から翻訳されています。
+
+
+[thumb](https://ja.wikipedia.org/wiki/画像:Keihan-1day-ticket-for-wiki.jpg "wikilink") **京阪バス1dayチケット**（けいはんバスワンディチケット）は、[京阪バス](../Page/京阪バス.md "wikilink")が発売していた磁気式[一日乗車券](../Page/一日乗車券.md "wikilink")である。
+
+本項ではその後継である京阪バスIC1dayチケットについても記述する。
+
+## 概要
+
+京阪バスでは、京都市山科区と伏見区醍醐で『山科醍醐観光一日乗車券』を、大阪府枚方市では『枚方市内一日乗車券』をそれぞれ発売していたが、[大人](../Page/大人.md "wikilink")800円、[小児](https://ja.wikipedia.org/wiki/小児 "wikilink")400円と比較的高値であったことや、発売箇所が限定されていたため、売れ行きが芳しくなかった。
+
+そのため、これらの一日乗車券を値下げ、カード化して発売することとなった。
+
+## 歴史
+
+  - 2004年11月26日 京都市内版の発売開始
+  - 2005年11月1日 大阪版の発売開始
+  - 2006年4月1日 [京阪宇治交通](https://ja.wikipedia.org/wiki/京阪宇治交通 "wikilink")との合併に伴い、大阪版の利用範囲が男山団地（旧・京阪宇治交通エリア）にも拡大される。
+  - 2007年3月1日 男山営業所での発売を開始。
+  - 2009年11月1日 京田辺営業所の路線の[長尾駅](https://ja.wikipedia.org/wiki/長尾駅_\(大阪府\) "wikilink")・[津田駅](https://ja.wikipedia.org/wiki/津田駅 "wikilink")・[枚方市駅](https://ja.wikipedia.org/wiki/枚方市駅 "wikilink")乗り入れにより、京田辺営業所および同営業所が管轄するバス車内で、大阪版の車内発売を開始。
+  - 2011年3月1日 大阪版・京都市内版共に適用範囲を拡大（同時にカードのデザインも変更）。大人600円、小児300円（それまで大人500円、小児250円）に値上げし、大阪版は八幡地区（一部を除く）も適用範囲となった。京都市内版は「京都・大津版」と改称し適用範囲を大津営業所管内のほぼ全域（[岩間寺](https://ja.wikipedia.org/wiki/岩間寺 "wikilink")臨時線等を除く）に拡大した。同時に大津営業所と管内のバス車内で京都・大津版を、男山営業所管内のバス車内で大阪版の販売を開始。
+  - 2014年4月1日 京都南部線の京阪シティバスから京阪バスへの復帰により、同路線は京田辺営業所が管轄することとなり、京田辺営業所が管轄するバス車内でも京都・大津版の車内発売を開始。これにより京田辺営業所は京阪バスの営業所で唯一、大阪版と京都・大津版両方の車内発売を実施することとなった。なお、同路線は2017年3月18日より男山営業所に移管したため、京都・大津版の発売を終了。逆に男山営業所の京都南部線の運用に入るバス車内でのみ京都・大津版の発売を開始している。
+
+## IC化による発売終了
+
+[2017年](../Page/2017年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")で発売終了、[2018年](../Page/2018年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")で利用終了となった。\[1\]
+
+これに先駆けて、2017年[4月1日](../Page/4月1日.md "wikilink")からは「京阪バスIC1dayチケット」が発売され、それに移行していくこととなる。なお「京阪バスIC1dayチケット」では京都・大津版と大阪版とが統合され、同時に淀長岡京線・京都南部線の全線と京田辺地区の京阪バス一般路線全路線に使用可能範囲を拡大した。
+
+## 利用可能範囲
+
+以下は「京阪バス1dayチケット」の範囲である。「京阪バスIC1dayチケット」ではこれに淀長岡京線と京都南部線の全路線、京田辺地区の路線が追加されている。また松井山手地区の路線についても樟葉駅・穂谷発着便での利用も解禁された。
+
+### 京都・大津版
+
+  - 京都市内の一部（一部区間は対象外）
+  - [大津市](../Page/大津市.md "wikilink")内の一部
+  - [宇治市](../Page/宇治市.md "wikilink")の一部（[六地蔵駅](https://ja.wikipedia.org/wiki/六地蔵駅 "wikilink")付近）
+
+[山科営業所の大半の区間](https://ja.wikipedia.org/wiki/京阪バス山科営業所 "wikilink")、[大津営業所管内全区間と](https://ja.wikipedia.org/wiki/京阪バス大津営業所 "wikilink")、[男山営業所管内の京都南部線の内](../Page/京阪バス男山営業所.md "wikilink")、京阪淀駅 - 京阪中書島 - 竹田駅西口路線、および京阪淀駅 - 京都駅八条口路線で利用可（残る京都南部線の路線である京阪淀駅〜JR山崎間は「京阪バスIC1dayチケット」のみ利用可）。
+
+### 大阪版
+
+  - 大阪府下と八幡地区（松井山手地区の一部路線\[2\]、奈良県生駒市の一部も利用可）
+      - [深夜バス](../Page/深夜バス.md "wikilink")は差額要（[京阪グループ共通バスカード](https://ja.wikipedia.org/wiki/京阪グループ共通バスカード "wikilink")（発売終了）などでも差額支払可能）。
+
+## 発売箇所
+
+### 京阪バスIC1dayチケット
+
+京阪バス一般路線の車内（大人・小児共に車内販売に限り発売）。
+
+### 京都・大津版
+
+  - 京阪バス山科営業所、大津営業所、管内バス車内（車内発売は大人用のみ。車内販売に限り男山営業所管轄便でも販売）。
+  - 京阪バス[山科駅](../Page/山科駅.md "wikilink")案内所、[三条京阪](https://ja.wikipedia.org/wiki/三条京阪 "wikilink")案内所。
+
+### 大阪版
+
+  - 京阪バス[京田辺](../Page/京阪バス京田辺営業所.md "wikilink")、[男山](../Page/京阪バス男山営業所.md "wikilink")、[枚方](https://ja.wikipedia.org/wiki/京阪バス枚方営業所 "wikilink")、[交野](https://ja.wikipedia.org/wiki/京阪バス交野営業所 "wikilink")、[香里団地](https://ja.wikipedia.org/wiki/京阪バス香里団地営業所 "wikilink")、[高槻](https://ja.wikipedia.org/wiki/京阪バス高槻営業所 "wikilink")、[寝屋川](https://ja.wikipedia.org/wiki/京阪バス寝屋川営業所 "wikilink")、[門真の各営業所](https://ja.wikipedia.org/wiki/京阪バス門真営業所 "wikilink")、管内バス車内（車内発売は大人用のみ）。
+  - 京阪バス[枚方市駅](https://ja.wikipedia.org/wiki/枚方市駅 "wikilink")、[香里園駅](https://ja.wikipedia.org/wiki/香里園駅 "wikilink")、[寝屋川市駅](https://ja.wikipedia.org/wiki/寝屋川市駅 "wikilink")、[守口市駅](https://ja.wikipedia.org/wiki/守口市駅 "wikilink")案内所。[樟葉駅](https://ja.wikipedia.org/wiki/樟葉駅 "wikilink")バス定期券発売所。
+
+## 利用不可路線
+
+### 共通
+
+  - [淀競馬場線](https://ja.wikipedia.org/wiki/淀競馬場線 "wikilink")、[ダイレクトエクスプレス直Q京都号](https://ja.wikipedia.org/wiki/ダイレクトエクスプレス直Q京都号 "wikilink")。
+
+### 京都・大津版
+
+  - 京都比叡山線（比叡山ドライブバス）、比叡山内シャトルバス、岩間寺臨時線、淀長岡京線、京都南部線のうち京阪淀駅 - JR山崎系統
+  - 阿含宗星まつり等の臨時バス（清水焼団地陶器まつり臨時バスは利用可\[3\]）。
+  - [京阪京都交通](https://ja.wikipedia.org/wiki/京阪京都交通 "wikilink")、[京都京阪バス](https://ja.wikipedia.org/wiki/京都京阪バス "wikilink")など。
+
+### 大阪版
+
+  - 八幡市内の一部路線（上奈良・金右衛門口・本郷より東側）
+  - 京田辺市内路線（一部除く）
+  - [コミュニティバスやわた](https://ja.wikipedia.org/wiki/コミュニティバスやわた "wikilink")
+  - [枚方市内100円バス](https://ja.wikipedia.org/wiki/枚方市内100円バス "wikilink")
+  - [四條畷市コミュニティバス](https://ja.wikipedia.org/wiki/四條畷市コミュニティバス "wikilink")
+      - [タウンくる](https://ja.wikipedia.org/wiki/タウンくる "wikilink")、[くずは・男山循環コミュニティバス](https://ja.wikipedia.org/wiki/くずは・男山循環コミュニティバス "wikilink")などは利用可。
+      - 各種臨時バス等（万人講開催時の円福寺線、[彼岸](../Page/彼岸.md "wikilink")時運行の飯盛霊園線を除く）
+
+## 特記事項
+
+  - 当チケットは身障者等の割引は適用されない。
+
+## 関連項目
+
+  - [京阪グループ共通バスカード](https://ja.wikipedia.org/wiki/京阪グループ共通バスカード "wikilink")
+
+## 脚注
+
+## 外部リンク
+
+  - [京阪バス1dayチケット](https://www.keihanbus.jp/local/bus_1day_kyoto.html)
+  - [京阪バスIC1dayチケット](https://www.keihanbus.jp/local/bus_ic_1day.html)
+
+[Category:割引乗車券](https://ja.wikipedia.org/wiki/Category:割引乗車券 "wikilink") [Category:京阪バス](https://ja.wikipedia.org/wiki/Category:京阪バス "wikilink")
+
+1.  [1](https://www.keihanbus.jp/local/pdf/ic_20170203.pdf)
+2.  松井山手地区は、枚方市駅～[松井山手駅](https://ja.wikipedia.org/wiki/松井山手駅 "wikilink")の枚方26号経路のみ利用可（それ以外は不可）。欽明台西から松井山手駅までの停留所相互間の利用も、同経路のみ可。
+3.  このため、京都駅発着路線で当チケットが使用出来るのは発行開始から2014年3月20日までの間は10月の清水焼の郷祭りが開催される期間のみであった（同年3月21日より京都駅八条口発着の山科急行での利用が可能となったため、現在は山科急行と直後の同年4月1日より京阪バスに復帰した京都南部線京田辺26号経路で利用可能となっている。なお、2017年3月18日より26号経路は男山営業所に移管されている）。なお2011年までの名称は「陶器まつり」であり、開催も7月であった。

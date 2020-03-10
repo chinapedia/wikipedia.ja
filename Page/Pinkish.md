@@ -1,0 +1,899 @@
+> この記事は[Pinkish](https://ja.wikipedia.org/wiki/Pinkish)から翻訳されています。
+
+
+**Pinkish**（ピンキッシュ）は、日本の女性ボーカル&ダンス[ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")\[1\]。[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[加須市](../Page/加須市.md "wikilink")の[ご当地アイドルである](https://ja.wikipedia.org/wiki/ローカルアイドル "wikilink")。2016年に活動休止\[2\]。
+
+## 概要
+
+幅広い世代への「童謡」の普及と、「[加須市](../Page/加須市.md "wikilink")」および「[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")」の観光・物産・[文化](../Page/文化.md "wikilink")・スポーツ等の魅力を広く外部発信し、地元を[活性化](https://ja.wikipedia.org/wiki/活性化 "wikilink")する事をめざし、全国で活動した\[3\]\[4\]。地元加須市出身の作曲家[下総皖一](https://ja.wikipedia.org/wiki/下総皖一 "wikilink")などの童謡を、童謡の[フレーズ](https://ja.wikipedia.org/wiki/フレーズ "wikilink")が含まれたノリのいい曲\[5\]に[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")し[振付つきで歌っていた](https://ja.wikipedia.org/wiki/振付師#振付と振付師 "wikilink")\[6\]。童謡以外の曲も多い。どこか懐かしい"[癒し系](https://ja.wikipedia.org/wiki/癒し#日本における状況 "wikilink")"\[7\]。「[ハイブリッド](https://ja.wikipedia.org/wiki/ハイブリッド "wikilink")童謡アイドル」\[8\]、「童謡のアイドルユニット」\[9\]などのキャッチコピー{{\#tag:ref|「童謡の歌姫ユニット」というキャッチコピーが2011年頃まで使われた\[10\]。|group=注}}が紹介文に使われた。
+
+メンバーは加須市か、その近隣の[市町村](../Page/市町村.md "wikilink")から選ばれた。
+
+ピンキッシュというグループとして活動している時は[苗字を含まない名前のみを名乗るが](../Page/名字.md "wikilink")、[個人](../Page/個人.md "wikilink")として活動している時は苗字を含めた本名を名乗ることになっていた\[11\]。
+
+大型[ショッピングモールや](../Page/ショッピングセンター.md "wikilink")[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")でのライブ、[インターネットテレビ](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")への出演、テレビとタイアップしたアイドルイベント\[12\]、[官庁](../Page/官庁.md "wikilink")・[地方公共団体](../Page/地方公共団体.md "wikilink")のイベントなどで活動した。川の国埼玉フォトコンテストPR大使に選ばれるなど、埼玉県の顔としても活動した\[13\]。埼玉県や各市町村などのイベントは、ほぼ実費で出演\[14\]\[15\]。
+
+2016年3月27日をもって活動休止した\[16\]。
+
+## メンバー
+
+### 現在のメンバー
+
+  - **春菜**（中里春菜、なかざと はるな、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[1月27日](../Page/1月27日.md "wikilink") - 、3代目リーダー、[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[加須市](../Page/加須市.md "wikilink")出身）- 天然キャラ\[17\]
+  - **真央**（西浦真央、にしうら まお、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[12月20日](../Page/12月20日.md "wikilink") - 、埼玉県[蓮田市](../Page/蓮田市.md "wikilink")出身）- 食いしん坊キャラ
+  - **葵**（湯本葵、ゆもと あおい、[1993年](../Page/1993年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink") - 、埼玉県[春日部市](../Page/春日部市.md "wikilink")出身）- まじめキャラ
+
+### 卒業したメンバー
+
+  - **香菜絵**（中村香菜絵、なかむら かなえ、[1993年](../Page/1993年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink") - 、埼玉県出身）
+  - **未来** （斎通未来、さいつう みく、[1988年](../Page/1988年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink") - 、埼玉県出身）
+  - **佳織** （中里佳織、なかざと かおり、[1988年](../Page/1988年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink") - 、埼玉県加須市出身）- 2代目リーダー
+  - **麻実** （青木麻実、あおき まみ、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[7月24日](../Page/7月24日.md "wikilink") - 、埼玉県加須市出身）
+  - **美波** （小林美波、こばやし みな、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[6月24日](../Page/6月24日.md "wikilink") - 、埼玉県加須市出身）
+  - **[美穂](https://ja.wikipedia.org/wiki/白井美穂 "wikilink")** （白井美穂、しらい みほ、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[1月3日](../Page/1月3日.md "wikilink") - 、埼玉県加須市出身）
+  - **貴子** （安藤貴子、あんどう たかこ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[8月4日](../Page/8月4日.md "wikilink") - 、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[小山市](../Page/小山市.md "wikilink")出身）- 初代リーダー
+
+## 背景
+
+ピンキッシュは、[まちづくり](https://ja.wikipedia.org/wiki/まちづくり "wikilink")、[地域おこし](https://ja.wikipedia.org/wiki/地域おこし "wikilink")の一つの形として誕生した。
+
+2002年、[大利根町](https://ja.wikipedia.org/wiki/大利根町 "wikilink")（現・[加須市](../Page/加須市.md "wikilink")）{{\#tag:ref|[大利根町](https://ja.wikipedia.org/wiki/大利根町 "wikilink")は2010年に旧加須市・[北埼玉郡](../Page/北埼玉郡.md "wikilink")[騎西町](https://ja.wikipedia.org/wiki/騎西町 "wikilink")・[北川辺町](https://ja.wikipedia.org/wiki/北川辺町 "wikilink")と新設合併して、[加須市](../Page/加須市.md "wikilink")となっている。ピンキッシュ誕生のきっかけとなった、「[童謡](https://ja.wikipedia.org/wiki/童謡 "wikilink")のふるさと」をPRする旧大利根町の政策については、2014年の加須市長の公約に入っており継続中\[18\]。|group=注}}[商工会青年部は創立](https://ja.wikipedia.org/wiki/商工会#青年部・女性部 "wikilink")20周年を迎え、記念事業を行うことになった。商工会青年部が考えたのは、従来行われていた著名人を迎えての講演会ではなく、何か別の面白いことができないか、ということであった。またそこには、町に対して何かできないか、町を元気付けようという思いもあった。そこで、大利根町は[童謡](https://ja.wikipedia.org/wiki/童謡 "wikilink")の作曲家[下総皖一](https://ja.wikipedia.org/wiki/下総皖一 "wikilink")の生誕の地であり、「童謡のふる里おおとね」をまちづくりの[コンセプトにしているので](../Page/概念.md "wikilink")、それを面白い形で[PRできないだろうかと考えた](https://ja.wikipedia.org/wiki/パブリック・リレーションズ "wikilink")\[19\]。
+
+そんな時、テレビで放送されていた[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の姿を見て「童謡を歌うグループを作ったらいいのでは」\[20\]「町を挙げて応援し、モーニング娘。のような全国区で活躍できるグループに育てれば、大利根町のPRになる」\[21\]というアイデアに行き着いた。
+
+こうして、多くの人に応募してもらうために副賞を[沖縄旅行とした](../Page/沖縄県.md "wikilink")、「歌姫ユニット[オーディション](https://ja.wikipedia.org/wiki/オーディション "wikilink")」が開催されることとなった。
+
+グループ名については公募が行われた。商工会青年部は当初、地元名産の[イチゴ](../Page/イチゴ.md "wikilink")と[米](../Page/米.md "wikilink")にちなんだ「苺米」(読み方: ストロベリーライス)に仮決定したが、メンバーが猛反対。イチゴをイメージさせる[ピンク](https://ja.wikipedia.org/wiki/ピンク "wikilink")色と、若さのフレッシュを組み合わせた「ピンキッシュ」という名前になった\[22\]。
+
+商工会青年部はグループの活動期間を一年限りと考えていたが、歌姫ユニットオーディションの時の子供たちの真剣な目を見て、期限を設けず継続して取り組むことに決めた\[23\]。
+
+## 略歴
+
+### 2002年
+
+  - 9月8日、「歌姫ユニットオーディション決勝大会」を開催し、貴子、佳織を含むメンバー5人で「歌姫ユニット」結成。新ユニットの名前を公募した\[24\]。
+  - 10月27日、初ライブを行う。会場は旧[栗橋町](../Page/栗橋町.md "wikilink")で開催されたフリーマーケット\[25\]。
+  - 11月10日、第7回おおとね童謡のふる里まつり(商工まつり)にて、公募で決まったユニット名を発表。この時のステージは、10トン[トラック](../Page/トラック.md "wikilink")の荷台の上であった\[26\]。
+
+### 2003年
+
+  - 6月1日、第2期生オーディションが行われ\[27\]、春菜と麻実が加入。当時ふたりは小学校の同級生であり、誘い合って応募し合格した。なお、春菜は佳織の妹である。
+  - 10月1日、自主製作アルバム『キラキラ★のカンヅメ』をリリース\[28\]。
+  - 10月26日、初主演映画「初恋のふる里」公開\[29\]。
+
+### 2004年
+
+  - 公式[ホームページ](../Page/ホームページ.md "wikilink")開設\[30\]。
+  - 4月4日、スタッフとしてピンキッシュを演出してみたいとの理由により、貴子が[卒業](https://ja.wikipedia.org/wiki/卒業#比喩 "wikilink")\[31\]。佳織、[美穂](https://ja.wikipedia.org/wiki/白井美穂 "wikilink")、春菜、麻実の4人体制になり、佳織が新リーダーとなった。
+
+### 2005年
+
+  - 8月12日、[愛知万博にて公演](https://ja.wikipedia.org/wiki/2005年日本国際博覧会 "wikilink")\[32\]。
+
+### 2006年
+
+  - 3月、学業に専念する為、[美穂が卒業](https://ja.wikipedia.org/wiki/白井美穂 "wikilink")。
+  - 3月26日、第3期生として美波が加入。
+  - 4月26日、アルバム『PS.童謡のふる里から』をリリース。
+
+### 2007年
+
+  - 2008年まで存在した[着うた](../Page/着うた.md "wikilink")配信サイト「ぴゅあどる\!\!うたげっちゅ」に参加。当時PCサイトトップページで見ることができたCMムービーでは、最初に登場していた\[33\]。
+  - 全国の地方新聞社によるウェブショップ「[47CLUB（よんななクラブ）](../Page/よんななクラブ.md "wikilink")」の「[ご当地大使のとっておき地元ナビ](https://ja.wikipedia.org/wiki/ふるさと大使 "wikilink")」に、埼玉県代表として登場\[34\]。
+  - 9月1日、童謡を基としない初のオリジナル曲「GOAL」を発表{{\#tag:ref|「大利根商工夏まつり2007」にて、「GOAL」の発表と同時に、[中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")や[MEGUMI](https://ja.wikipedia.org/wiki/MEGUMI "wikilink")を手がけたto4∞（トシヤ）デザインの衣裳も披露された。この衣裳は、ピンキッシュが埼玉情報誌『Vividly\!』第26号の表紙\[35\]となった際にも着用された。「GOAL」は、サブタイトルをつけ「GOAL 〜未来への光〜」とも表記される。|group=注}}。サッカーを題材とした応援歌的な内容となっている。
+  - 結成5周年を記念して大利根町の名産品「つるつきいちご」のオリジナルキャラクターを作り、名前を公募\[36\]。
+  - メンバー名表記を結成時からのローマ字表記から漢字表記に変更。2007年9月に結成5周年を迎え新たなスタートを切ったということや、童謡という日本の文化を大切にするというコンセプトを踏まえたもの\[37\]。
+
+### 2008年
+
+  - レーベルを自社設立のZERO-9 Diskに移籍。
+  - 2月、オリジナルキャラクターの名前を「乙音（おとね）ちゃん」に決定。[富士見市](../Page/富士見市.md "wikilink")在住の小学4年生の女の子が考案。「乙女」と「音楽」を組み合わせたもの\[38\]\[39\]。
+  - 2月1日より1ヶ月間、[イオン](../Page/イオン_\(企業\).md "wikilink")[浦和美園](https://ja.wikipedia.org/wiki/イオンモール浦和美園 "wikilink")、[北戸田](https://ja.wikipedia.org/wiki/イオンモール北戸田 "wikilink")、[与野の店内広場スクリーンにて](https://ja.wikipedia.org/wiki/イオンモール与野 "wikilink")「[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")からのお知らせ」を放映。[BGMに](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")「[ゆめみるいちご](https://ja.wikipedia.org/wiki/ゆめみるいちご "wikilink")」が使われた。
+  - 2月16日、「クールアースMUSIC \#03」にて「ゆめみるいちご」を発表。「ゆめみるいちご」は、全歌詞をメンバーが作詞した初めての曲である。
+  - 2月17日、[NACK5スタジアム大宮のWエリア](https://ja.wikipedia.org/wiki/さいたま市大宮公園サッカー場 "wikilink")（ホーム側スタンド）裏側壁面に、ピンキッシュの名前が入った[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")記念プレートがはめ込まれた{{\#tag:ref|このことに関連し、これ以降のライブ時のMCでは、ピンキッシュは[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")を応援しているという主旨の話をすることが一時期恒例となっていた。また、大宮アルディージャ公式サイト内のスポンサーのページにおいて、「サポートカンパニー ブロンズ」の欄に「pinkish」という名前が掲載されていた\[40\]。|group=注}}。
+  - 3月30日、「たなばたさま　〜[彩の国](https://ja.wikipedia.org/wiki/彩の国 "wikilink")バージョン〜」発表{{\#tag:ref|アルバム「PS.童謡のふる里から」収録「たなばたさま」はロック調、シングル「[ゆめみるいちご](https://ja.wikipedia.org/wiki/ゆめみるいちご "wikilink")」収録「たなばたさま」はポップ調の編曲である。「たなばたさま　〜彩の国バージョン〜」はポップ調編曲の「たなばたさま」のことであり、「ラムラ Girl Pop フェスタ Vol.7」にて楽曲発表時に使われたタイトルである。|group=注|name=tanabatasama}}。
+  - 4月1日、埼玉県管理の観光サイト「埼玉ちょ〜でぃーぷな観光協会」トップページに、「[鉄腕アトム](../Page/鉄腕アトム.md "wikilink")」、「[らき☆すた](https://ja.wikipedia.org/wiki/らき☆すた "wikilink")」、「[仮面ライダー電王](https://ja.wikipedia.org/wiki/仮面ライダー電王 "wikilink")」と並び写真が掲載される\[41\]。「[エンタメ課](https://ja.wikipedia.org/wiki/エンターテイメント "wikilink")」のページにはピンキッシュの紹介文があった\[42\]。
+  - 7月12日、9月から約半年のアメリカ留学に伴う佳織の一時休業を発表\[43\]。
+  - 8月31日、「[かもめの水兵さん](https://ja.wikipedia.org/wiki/ゆめみるいちご "wikilink")」(シングル「ゆめみるいちご」収録)を発表{{\#tag:ref|「第2回まちなか賑わいフェスティバル」で行われた。佳織の留学前最後のライブであった。このライブを最後に「GOAL 〜未来への光〜」を歌わないとの発表もあった\[44\]。しかし、遅くとも約7か月後の2009年4月4日には歌うことが再開された\[45\]。|group=注}}。
+  - 9月21日、ファーストシングル「**ゆめみるいちご**」をリリース。
+  - 9月22日、佳織がアメリカ留学に出発。
+
+### 2009年
+
+  - 2月18日、佳織がアメリカ留学から帰国。
+  - 3月14日、全員がピンキッシュを卒業することを発表\[46\]{{\#tag:ref|卒業の理由は、メンバーそれぞれの今後の目標に違いが出てきた為。|group=注}}。
+  - 4月4日、「pinkish卒業ライブ〜またどこかで〜」が行われ、佳織、美波、春菜、麻実の4人全員が卒業。
+  - 6月7日、オーディションにより第4期メンバーを36人から選出\[47\]。新メンバーは未来、真央、香菜絵、葵の4人。
+  - 7月22日、「第21回[全国生涯学習フェスティバル](https://ja.wikipedia.org/wiki/マナビィ#全国生涯学習フェスティバル "wikilink")」"まなびピア埼玉2009"の100日前イベント「[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")夏祭りinまなびピア」にて第4期ピンキッシュが公式デビュー\[48\]。
+  - 10月17日、4月に卒業した春菜が3代目リーダーとして復帰。5人体制となる。
+
+### 2010年
+
+  - 7月2日、未来が卒業することを発表\[49\]\[50\]。
+  - 7月11日、「LOVE SAITAMA MUSIC \#02 〜七夕の約束〜」が行われ、このライブをもって未来がピンキッシュを卒業\[51\]。
+  - 8月7日・8日、[TOKYO IDOL FESTIVAL](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL "wikilink") 2010出演。
+
+### 2011年
+
+  - 2月19-20日、[中華民国](https://ja.wikipedia.org/wiki/中華民国 "wikilink")台湾の[台北市](../Page/台北市.md "wikilink")にて開催された「Taipei Game Show（台北国際電玩展）」\[52\]及び「[Fancy Frontier17（開拓動漫祭）](https://ja.wikipedia.org/wiki/Fancy_Frontier_開拓動漫祭 "wikilink")」にてライブを行う。これは同国[高雄市](../Page/高雄市.md "wikilink")に本社を置く大手ゲームメーカーである美嘉生電（Mega Biotech & Electronics）からの招聘によるもので、ピンキッシュ初の海外公演。また複数の現地マスメディアの取材も受け\[53\]\[54\]、当日夜の報道番組ではライブの模様が放映された\[55\]。
+  - 7月24日、「LOVE SAITAMA MUSIC \#03 〜Graduation & Starting All Over〜」が行われ、このライブをもって香菜絵がピンキッシュを卒業。
+  - 8月1日、[ホームページ](../Page/ホームページ.md "wikilink")を全面リニューアル\[56\]。
+  - 8月27日・28日、[TOKYO IDOL FESTIVAL](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL "wikilink") 2011出演。
+
+### 2012年
+
+  - 3月31日、セカンドシングル「**[タイミング〜Timing](https://ja.wikipedia.org/wiki/Timing_\(曲\)#Pinkishによるカバー "wikilink")**」をリリース。これは[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")、[小西貴雄](../Page/小西貴雄.md "wikilink")作曲で1998年に[ブラックビスケッツ](../Page/ブラックビスケッツ.md "wikilink")が歌った曲の新規編曲による[カバー](../Page/カバー.md "wikilink")である。編曲担当は原曲と同じ[小西貴雄](../Page/小西貴雄.md "wikilink")。[カップリングのオリジナル曲](https://ja.wikipedia.org/wiki/A面/B面#歴史と用語 "wikilink")「僕らのマーチ」は、埼玉県「[ゆる玉応援団](https://ja.wikipedia.org/wiki/ゆる玉応援団 "wikilink")」公式[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")である。
+  - 8月4日・5日、[TOKYO IDOL FESTIVAL](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL "wikilink") 2012出演。
+  - 9月5日、春菜が[キリンビール](../Page/麒麟麦酒.md "wikilink")「選ぼうニッポンのうまい\! 2012キャンペーン」の埼玉県観光PRレディーとなる\[57\]。
+  - 12月9日、「Pinkish結成10周年記念ワンマンライブ〜感謝〜」を入場無料で市民プラザ加須にて行う\[58\]。約400名を動員し成功。結成10年を迎えて『ご当地アイドル殿堂入り』に認定された\[59\]。
+
+### 2013年
+
+  - 5月31日、サードシングル「**[JAMBO](https://ja.wikipedia.org/wiki/JAMBO "wikilink")**」をリリース。音楽の起源である[アフリカ](../Page/アフリカ.md "wikilink")をテーマとした曲。「現代[ポップスと](../Page/ポピュラー音楽.md "wikilink")[童謡](https://ja.wikipedia.org/wiki/童謡 "wikilink")のミクスチャースタイル」、「[ハイブリッド](https://ja.wikipedia.org/wiki/ハイブリッド "wikilink")童謡」というキャッチコピーが使われた\[60\]。カップリングには[サイクリング](https://ja.wikipedia.org/wiki/サイクリング "wikilink")をテーマとしたオリジナル曲「走れ\!\!」を収録。ともに作曲は[小西貴雄](../Page/小西貴雄.md "wikilink")、作詞はメンバーと初代リーダー安藤貴子である。
+  - 6月15日、[ローソンプレゼンツ ジモドルフェスタ2013SUMMERに参加](https://ja.wikipedia.org/wiki/ジモドルフェスタ#関東甲信越限定_ローソンプレゼンツ_ジモドルフェスタ_2013_SUMMER "wikilink")\[61\]\[62\]。[ローソン](../Page/ローソン.md "wikilink")一日店長となる\[63\]。
+  - 8月5日、[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[朝ドラ](../Page/連続テレビ小説.md "wikilink")「[あまちゃん](https://ja.wikipedia.org/wiki/あまちゃん "wikilink")」の公式応援サポーターとなる\[64\]。
+
+### 2014年
+
+  - 4月、各都道府県を[ローカルアイドル](https://ja.wikipedia.org/wiki/ローカルアイドル "wikilink")が応援するNHKの「[恋する地元キャンペーン](https://ja.wikipedia.org/wiki/恋する地元キャンペーン "wikilink")」において埼玉県担当となる\[65\]。
+  - 4月26日、[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『ザ・ベスト』を台湾でリリース。発表から約7年の「GOAL」を初めてCDに収録\[66\]。
+  - 8月6日、4thシングル「**[恋のカラフルパレット](https://ja.wikipedia.org/wiki/恋のカラフルパレット "wikilink")**」をリリース。
+  - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の歌手"ジュリリジュリラン未来ゴロゴロコロニー13世"と日台友好姉妹アイドルとなる\[67\]。
+  - 12月31日、台湾・[高雄市](../Page/高雄市.md "wikilink")で行われたカウントダウンイベント「月読満月祭」に出演\[68\]。
+
+### 2015年
+
+  - 1月28日、5thシングル「**[とびだせ\! 青春](https://ja.wikipedia.org/wiki/とびだせ!青春_\(曲\) "wikilink")**」をリリース。
+  - 2月1日、初の有料ホールライブをパストラル加須小ホールにて行う\[69\]。
+  - 12月20日、16年3月末での活動休止を発表。「Pinkishの理想の姿と現在のアイドルシーンとの間にずれが生じて来たため」\[70\]。
+
+### 2016年
+
+  - 3月13日、[ホノルル](../Page/ホノルル.md "wikilink")フェスティバルに出演\[71\]\[72\]。[英語圏](../Page/英語圏.md "wikilink")での初ライブである。
+  - 3月27日、活動休止前の最後の公演\[73\]。
+
+## 作品
+
+### シングル
+
+  - [ゆめみるいちご](https://ja.wikipedia.org/wiki/ゆめみるいちご "wikilink")（2008年9月21日、ZNCL-0001）
+
+<!-- end list -->
+
+1.  ゆめみるいちご
+2.  かもめの水兵さん
+3.  たなばたさま
+      -
+        （『PS.童謡のふる里から』に収録されている「たなばたさま」とは別バージョン）\[74\]
+4.  ゆめみるいちご（Instrumental）
+
+<!-- end list -->
+
+  - [タイミング〜Timing](https://ja.wikipedia.org/wiki/Timing_\(曲\)#Pinkishによるカバー "wikilink")（2012年3月31日、ZNCL-0002）
+
+<!-- end list -->
+
+1.  タイミング〜Timing
+2.  僕らのマーチ
+3.  タイミング〜Timing (Instrumental)
+4.  僕らのマーチ (Instrumental)
+
+<!-- end list -->
+
+  - [JAMBO](https://ja.wikipedia.org/wiki/JAMBO_\(曲\) "wikilink")（2013年5月31日、ZNCL-0003、[iTunes Store配信あり](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")）
+
+<!-- end list -->
+
+1.  JAMBO
+2.  走れ\!\!
+3.  JAMBO (Instrumental)
+4.  走れ\!\! (Instrumental)
+
+<!-- end list -->
+
+  - [恋のカラフルパレット](https://ja.wikipedia.org/wiki/恋のカラフルパレット "wikilink")（2014年8月6日、ZNCL-0004、iTunes Store配信あり）
+
+<!-- end list -->
+
+1.  恋のカラフルパレット
+2.  ふる里
+3.  恋のカラフルパレット (Instrumental)
+4.  ふる里 (Instrumental)
+
+<!-- end list -->
+
+  - [とびだせ\! 青春](https://ja.wikipedia.org/wiki/とびだせ!青春_\(曲\) "wikilink")（2015年1月28日、ZNCL-0005）
+
+<!-- end list -->
+
+1.  とびだせ\! 青春
+2.  おかしなじかん
+3.  とびだせ\! 青春 (Instrumental)
+4.  おかしなじかん (Instrumental)
+
+<!-- end list -->
+
+  - はなむけのうた (2016年3月27日) \[75\]
+
+<!-- end list -->
+
+1.  はなむけのうた
+2.  GOAL 〜未来への光〜
+
+### アルバム
+
+  - キラキラ★のカンヅメ (2003年10月1日、JUN-001)\[76\]\[77\]
+
+<!-- end list -->
+
+1.  野菊
+2.  花火
+3.  もぐらのおじさん/しろねずみのうた
+4.  たなばたさま 03
+5.  koyukiふる夜のこぎつね
+
+<!-- end list -->
+
+  - PS.童謡のふる里から（2006年4月26日、MLCN-3025） - [Magic Island Recordsレーベル](https://ja.wikipedia.org/wiki/牧田和男 "wikilink")
+
+<!-- end list -->
+
+1.  花火
+2.  もぐらのおじさん
+3.  たなばたさま
+4.  小雪ふる夜の小ギツネ
+5.  野菊
+6.  電車ごっこ
+7.  ふるさと
+8.  花火（オリジナル）
+9.  たなばたさま（オリジナル）
+10. 野菊（オリジナル）
+
+<!-- end list -->
+
+  - ザ・ベスト (2014年4月26日、KZP001A) - 台湾[限定盤](https://ja.wikipedia.org/wiki/限定盤 "wikilink")\[78\]
+
+<!-- end list -->
+
+1.  タイミング〜Timing〜
+2.  僕らのマーチ
+3.  たなばたさま
+4.  かもめの水兵さん
+5.  ゆめみるいちご
+6.  JAMBO
+7.  走れ\!
+8.  Goal
+
+### DVD
+
+  - 中里姉妹写真集DVD (2010年10月)
+  - Pinkish 10th anniversary Live "Thank You" (2013年1月20日)
+  - Pinkishワンマンライブ "あらためまして、Pinkishです\!" (2015年) - 2015年2月1日のワンマンライブのDVD\[79\]。
+  - Pinkishだよ、全員集合\! (2015年10月) - 2015年5月16日・17日のワンマンライブ\[80\]のDVD。春菜が編集した。
+  - Pinkish サイコロ十番勝負 台湾編 (2015年12月)
+  - Pinkish サイコロの旅 秩父・長瀞編 (2016年1月)
+  - PinkishラストワンマンライブDVD (2016年8月20日) \[81\]
+
+### 写真集
+
+  - 中里姉妹写真集 (2010年)
+  - 写真集「Pinkish in Hawaii」(2016年3月27日) \[82\]
+  - Pinkishラストワンマンライブ写真集 (2016年8月) \[83\]
+
+### 参加作品
+
+  - [天上の華 幕末恋華・新選組 DS](https://ja.wikipedia.org/wiki/幕末恋華_新選組#関連商品 "wikilink") オープニングテーマソング (2009年1月24日、VRID-0004、Vridge Records) - 春菜が[コーラスで参加](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
+  - [TOKYO IDOL FESTIVAL](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL "wikilink") 2010 (2011年2月9日、YRBN-90159/60、[R\&C LTD](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink"))\[84\]
+  - [コバトン](https://ja.wikipedia.org/wiki/コバトン "wikilink")音頭 (2011年4月1日、AGP001) - ピンキッシュVer.収録\[85\]。
+  - [サンドウィッチマンのご当地アイドル発掘団](https://ja.wikipedia.org/wiki/サンドウィッチマンのご当地アイドル発掘団 "wikilink") VOL.2 [埼玉](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")&[赤羽](https://ja.wikipedia.org/wiki/赤羽 "wikilink")編(DVD) (2011年8月5日、DSTD03412、[東映](../Page/東映.md "wikilink")) - ゲスト出演。
+  - AI♡SUNNY (2014年11月5日、PJJM-003SA、禾廣娛樂股份有限公司、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の歌手"ジュリリジュリラン未来ゴロゴロコロニー13世"の曲) - 春菜がコーラスで参加\[86\]。
+  - レトロクリスマス (2015年2月4日、PJJM-004S、禾廣娛樂股份有限公司、台湾の歌手"ジュリリジュリラン未来ゴロゴロコロニー13世"のシングルSTAND BY MIRAI[カップリング曲](https://ja.wikipedia.org/wiki/A面/B面#歴史と用語 "wikilink")) - 春菜がコーラスで参加\[87\]。
+
+## 出演
+
+### 映画
+
+  - 初恋のふる里 (2003年、監督：小林浩隆)\[88\]\[89\]
+  - ネムリバ（2010年、監督：園田 新） - 本人役として[カメオ出演](../Page/カメオ出演.md "wikilink")
+
+### テレビ
+
+  - [こんにちは いっと6けん](https://ja.wikipedia.org/wiki/こんにちはいっと6けん "wikilink") (2003年4月17日、[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")) \[90\] - 童謡の町にアイドル\[91\]
+  - [ごごびん](https://ja.wikipedia.org/wiki/ごごたま "wikilink")（2004年7月14日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink"))\[92\]
+  - [ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")（2006年5月4日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ゲスト出演
+  - 好きです 埼玉（2006年12月17日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）\[93\]
+  - [ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")（2007年4月5日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ゲスト出演
+  - [ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")（2008年5月8日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ゲスト出演
+  - 週刊[彩の国](https://ja.wikipedia.org/wiki/彩の国 "wikilink")ニュース（2008年6月14日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ゲスト出演
+  - [NEWS930](https://ja.wikipedia.org/wiki/ニュース930_\(テレビ埼玉\) "wikilink")（2010年1月8日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
+  - 彩の国ニュースほっと（2011年4月2日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
+  - [サンドウィッチマンのご当地アイドル発掘団](https://ja.wikipedia.org/wiki/サンドウィッチマンのご当地アイドル発掘団 "wikilink")（2011年4月23日、[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")） - ゲスト出演\[94\]
+  - [ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")（2011年8月16日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ゲスト出演
+  - 彩の国ニュースほっと（2011年11月12日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
+  - [ボビー's スタジアム](https://ja.wikipedia.org/wiki/ボビー's_スタジアム "wikilink")（2012年1月14日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ボーリング対決
+  - [大\!天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")（2012年2月23日、[NHK Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")） - おでかけ列島9500ゲスト出演
+  - [ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")（2012年5月4日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ゲスト出演
+  - iDOL Tunes（2012年6月1日\[95\]・2012年7月1日\[96\]\[97\]、[スカパー\!Ch](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink").663([PigooHD](https://ja.wikipedia.org/wiki/アイドル専門チャンネルPigoo "wikilink"))）
+  - [ボビー's スタジアム](https://ja.wikipedia.org/wiki/ボビー's_スタジアム "wikilink")（2012年6月30日(前編)・7月7日(後編)、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink") ([チバテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")、[三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")、[tvkでも別日程で放送](../Page/テレビ神奈川.md "wikilink"))） - [ボビー・オロゴン](https://ja.wikipedia.org/wiki/ボビー・オロゴン "wikilink")がピンキッシュの事務所を訪問
+  - 発見\!イケテルさいたま（2012年12月24日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ピンキッシュの初[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")
+  - [東武東上線](https://ja.wikipedia.org/wiki/東武東上本線 "wikilink")-[みなとみらい線直通記念特番](https://ja.wikipedia.org/wiki/横浜高速鉄道みなとみらい線 "wikilink")「夕なび [湘南](../Page/湘南.md "wikilink")〜[横浜](../Page/横浜.md "wikilink")」（2013年3月15日、[J:COM横浜](https://ja.wikipedia.org/wiki/J:COM_横浜 "wikilink") (ケーブルテレビ)）
+  - [ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")（2013年6月13日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ゲスト出演
+  - [NHKとっておきサンデー](https://ja.wikipedia.org/wiki/NHKとっておきサンデー "wikilink") (2013年9月15日、[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))\[98\]
+  - 全国[あまちゃん](https://ja.wikipedia.org/wiki/あまちゃん "wikilink")マップ あなたの[街おこしキャンペーン](https://ja.wikipedia.org/wiki/地域おこし "wikilink") ▽埼玉県[秩父市](../Page/秩父市.md "wikilink")・小昼飯（2013年10月7日、[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")） - ピンキッシュが秩父市の町おこしを紹介\[99\]
+  - [地元アイドル大集合](https://ja.wikipedia.org/wiki/ローカルアイドル "wikilink")\! にっぽん再発見 あなたの[町おこしスペシャル](https://ja.wikipedia.org/wiki/地域おこし "wikilink")（2013年12月29日、[NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")） - ご当地クイズ対決\[100\]
+  - なまら面白い俺が郷里のTVをちんちん見るばい\!\! (2014年1月7日・14日・21日・28日、[NOTTV1](https://ja.wikipedia.org/wiki/NOTTV#開局時からのチャンネル "wikilink")) - ゲスト出演
+  - [ゴジカル](https://ja.wikipedia.org/wiki/ゴジカル! "wikilink")（2014年1月17日、[四国テレビ](https://ja.wikipedia.org/wiki/四国放送 "wikilink")） - ゲスト出演
+  - 春の[TBS大感謝祭](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")\! もってけ[ダービー](https://ja.wikipedia.org/wiki/ダービー_\(競馬\) "wikilink")2014（2014年3月29日、TBS） - [ご当地アイドル相撲](https://ja.wikipedia.org/wiki/ローカルアイドル "wikilink")\[101\]
+  - IDOL REVUE ご当地アイドルお取り寄せ図鑑 第二章 by Pigoo（2014年5月14日\[102\]・2014年8月20日\[103\]、[スカパー\!Ch](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink").241([BSスカパー\!](https://ja.wikipedia.org/wiki/BSスカパー! "wikilink"))）
+  - [ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")（2014年9月5日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ゲスト出演
+  - ご当地アイドルお取り寄せライブSP（2014年9月13日、[スカパー\!Ch](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink").663([PigooHD](https://ja.wikipedia.org/wiki/PigooHD "wikilink"))）\[104\]\[105\]
+  - [ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")（2014年10月17日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ゲスト出演
+  - 恋する地元キャンペーン「ひるブラ [長瀞](../Page/長瀞町.md "wikilink")」11/18(火)放送予定（2014年11月14日、[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink") (別日程で[NHK BSプレミアムでも放送](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink"))） - ピンキッシュが[春日部市](../Page/春日部市.md "wikilink")の町おこしを紹介\[106\]
+  - [ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")（2014年11月28日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ゲスト出演
+  - [NEWS930](https://ja.wikipedia.org/wiki/ニュース930_\(テレビ埼玉\) "wikilink")（2015年1月22日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
+  - ローカルアイドル冠番組プロジェクト\!\! Wednesday \#9 (2015年2月4日、[スカパー\!](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink") [Kawaiian TV](https://ja.wikipedia.org/wiki/Kawaiian_TV "wikilink"))\[107\]
+  - [musicるTV](https://ja.wikipedia.org/wiki/musicる_TV "wikilink")（2015年4月13日、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")）\[108\]
+  - ローカルアイドル冠番組プロジェクト\!\! \#2 (2015年4月14日、[スカパー\!](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink") [Kawaiian TV](https://ja.wikipedia.org/wiki/Kawaiian_TV "wikilink"))\[109\]
+  - 埼玉徹底応援 オシどきっ\!（2015年5月 (毎月1日更新リピート放送)、埼玉県内の[J:COM コミュニティチャンネル](https://ja.wikipedia.org/wiki/ジュピターテレコム#コミュニティチャンネル "wikilink")） - 番組最終回「LOVE埼玉パフォーマー全員集合\!」\[110\]
+  - [全力美少女JUMP - 47都道府県アイドル -](https://ja.wikipedia.org/wiki/全力美少女JUMP_-_47都道府県アイドル_- "wikilink") (2015年7月24日 - 9月25日、[ワールド・ハイビジョン・チャンネル](https://ja.wikipedia.org/wiki/ワールド・ハイビジョン・チャンネル "wikilink"))\[111\]
+  - ローカルアイドル冠番組プロジェクト\!\! \#18 (2015年8月3日、[スカパー\!](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink") [Kawaiian TV](https://ja.wikipedia.org/wiki/Kawaiian_TV "wikilink"))\[112\]
+  - [ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink") (2015年10月9日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ゲスト出演
+  - [お願い\!ランキング](https://ja.wikipedia.org/wiki/お願い!ランキング "wikilink") (2016年1月25日、テレビ朝日) - 加須市の名産品を使った鍋を紹介
+
+### インターネットテレビ
+
+  - pinkish青木麻実のHolyday Afternoon（2008年4月 - 2008年6月、[スティッカムTV](../Page/Stickam_JAPAN!.md "wikilink")）\[113\]
+      -
+        6月14日放送分までは、ご意見番として[和田琢磨](https://ja.wikipedia.org/wiki/和田琢磨 "wikilink")が麻実と共にMCを担当。6月21日放送分のみ麻実が単独でMCを担当した。ゲストは、春菜と美波が交替で登場していた。
+  - [湯原まりえ](https://ja.wikipedia.org/wiki/湯原麻利絵 "wikilink")&中里佳織（pinkish）「CHAZAWAステーション」（2008年4月 - 2008年6月、スティッカムTV、毎週金曜日 20:30 - 21:30）\[114\]\[115\]
+      -
+        毎週月曜から金曜まで放送されている「CHAZAWAステーション」において、佳織が湯原まりえや、そらまめくん([森田桂介](https://ja.wikipedia.org/wiki/森田桂介 "wikilink"))とともに金曜日のMCを担当していた。
+  - 下キタ━(゜∀゜)━\!\!（2008年6月 - 2008年7月、スティッカムTV、毎週金曜日 20:30 - 22:00）
+      -
+        「CHAZAWAステーション」がリニューアルされ、2008年6月から「下キタ━(゜∀゜)━\!\!」という番組名になった。引き続き、佳織が湯原まりえや、そらまめくんとともにMCを担当していたが、留学準備のため7月で番組を降板した。
+  - すっピンキッシュ\!（2008年8月 - 2008年12月、スティッカムTV）
+      -
+        麻実、春菜、美波の3人が出演していた番組。『pinkish青木麻実のHolyday Afternoon』の後継番組といえる。
+  - ピンキッシュのP\!P\!P\!のP\!（2009年1月 - 2009年3月、スティッカムTV）
+      -
+        「すっピンキッシュ\!」がリニューアルされた番組。引き続き、麻実、春菜、美波の3人が出演。最終回のみ佳織も出演し、4人での放送となった。
+  - VS2(バーサスバーサス) (2009年5月 - 2009年10月、スティッカムTV)\[116\]
+      -
+        春菜と姉の佳織、[尾高もえみ](https://ja.wikipedia.org/wiki/尾高もえみ "wikilink")、茜ゆかこが出演する番組。茶沢ストリートスタジオより配信。
+  - 中里姉妹&トイズカーニバルの六本木★ナイト（2009年11月 - 2010年3月、スティッカムTV、第1・第3金曜日20:00 - 21:00）\[117\]
+      -
+        春菜と佳織、TOYS CARNIVAL、そしてピンキッシュメンバーの中から交替で1人が出演する番組。六本木aliveで収録。2010年から小沢あいかがアシスタントとして参加。
+  - 中里姉妹\&pinkishの六本木★ナイト2（2010年4月 - 2010年9月、スティッカムTV、第1・第3金曜日20:00 - 21:00）
+      -
+        春菜と佳織、[三等分](https://ja.wikipedia.org/wiki/三等分 "wikilink")、小沢あいか、そしてピンキッシュメンバーの中から交替で1人が出演する番組。六本木aliveで収録。
+  - さん・いち・ご☆ちゃんねる（2010年10月 - 2011年4月、スティッカムTV、[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")、第1・第3木曜日19:00 - 19:45）
+      -
+        春菜と佳織、[三等分](https://ja.wikipedia.org/wiki/三等分 "wikilink")、そしてピンキッシュメンバーの中から交替で1人が出演する番組。中野シバリー・ベーススタジオで収録。
+  - ご当地アイドルフェスティバル (トンパテレビ、2012年4月30日) \[118\]\[119\]
+  - PLUG-IN Shibuya Watch (2015年6月17・29日・7月29日・9月21日・10月6\[120\]・7\[121\]・13日・11月7日、[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")/Ustream) - ゲスト出演\[122\]
+  - PIN\!PIN\!PINKISH\!（2015年7月 - 2016年3月、[SHOWROOM](https://ja.wikipedia.org/wiki/SHOWROOM_\(ストリーミングサービス\) "wikilink")、木曜日20:00 - ）
+      -
+        ピンキッシュが出演する番組。鷲宮のZERO-9スタジオで収録。
+  - PLUG-IN Shibuya Watch Monday PLUGの輪じゃ\! (2015年10月26日\[123\]・11月30日、Ustream)
+      -
+        ピンキッシュが[木曽さんちゅう他と共同で](https://ja.wikipedia.org/wiki/Wコロン "wikilink") [MCを担当](https://ja.wikipedia.org/wiki/司会#放送番組における司会 "wikilink")。渋谷PLUGで収録。
+  - ザ☆木曽さんちゅうアワー (2016年7月7日 -、インターネット放送局シーウェイブ(配信サイト: [FRESH\! by AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV#FRESH!_by_AbemaTV "wikilink"), Ustream, [YouTube Live](https://ja.wikipedia.org/wiki/YouTube#YouTube_Live "wikilink"))、第1・第3木曜日22:00 - 22:50) - 葵がパートナーとして出演\[124\]。北千住のCwave studioで収録。
+
+### ラジオ
+
+  - いきいき埼玉11時 (2003年8月29日、[NHKさいたまFM](https://ja.wikipedia.org/wiki/NHKさいたま放送局#FM放送 "wikilink"))\[125\]
+  - 今夜はParty魔法でナイト(2004年7月22日・2006年8月31日、[FM熱海湯河原](https://ja.wikipedia.org/wiki/エフエム熱海湯河原 "wikilink")) - 公開録音LIVE\[126\]\[127\]
+  - ピン・ピン・ピンキッシュ\! (2005年4月 - 2005年?月、[伊勢原FM](https://ja.wikipedia.org/wiki/イセハラエフエム "wikilink"))\[128\]
+  - [gifu power countdown 30](https://ja.wikipedia.org/wiki/gifu_power_countdown_30 "wikilink") （2006年1月6日、[エフエム岐阜](../Page/エフエム岐阜.md "wikilink")） - ゲスト出演
+  - [日本列島ほっと通信](https://ja.wikipedia.org/wiki/日本列島ほっと通信 "wikilink")（2006年2月8日、[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")）
+  - [こんにちは\! 80（はちまる）ちゃんです](https://ja.wikipedia.org/wiki/ここはふるさと_旅するラジオ "wikilink")「[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[大利根町](https://ja.wikipedia.org/wiki/大利根町 "wikilink")」（2006年8月2日、[NHKラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")）\[129\]
+  - [NACK ON TOWN](https://ja.wikipedia.org/wiki/NACK_ON_TOWN "wikilink")（2009年10月29日、[FM NACK5](../Page/エフエムナックファイブ.md "wikilink")） - ゲスト出演
+  - [カンムリラジオ](https://ja.wikipedia.org/wiki/カンムリラジオ "wikilink")（2012年9月22日・29日、[ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")）
+  - [むさしのオンライン](https://ja.wikipedia.org/wiki/武蔵野 "wikilink")（2013年6月18日、[むさしのFM](https://ja.wikipedia.org/wiki/エフエムむさしの "wikilink")）
+  - [〜IDOL SHOWCASE〜 i-BAN\!\!](https://ja.wikipedia.org/wiki/〜IDOL_SHOWCASE〜_i-BAN!! "wikilink")（2013年7月28日・2014年9月14日、FM NACK5） - ゲスト出演\[130\]
+  - [The Nutty Radio Show おに魂](https://ja.wikipedia.org/wiki/The_Nutty_Radio_Show_おに魂 "wikilink")（2013年10月22日、FM NACK5） - ゲスト出演
+  - [i Meet Up\!](https://ja.wikipedia.org/wiki/i_Meet_Up! "wikilink")（2015年3月29日・9月27日、FM NACK5） - ゲスト出演\[131\]
+
+### インターネットラジオ
+
+  - pinkishのGirls Sound Netradio（2007年5月 - 2008年3月、キャステラ）
+      -
+        番組開始当初は[和田琢磨](https://ja.wikipedia.org/wiki/和田琢磨 "wikilink")がMCを担当していたが、舞台出演の為降板。その後、ピンキッシュメンバーが交替でMCを務めるようになった。
+  - [超銀河団](../Page/超銀河団.md "wikilink")スターちゃんねるVol.2（2013年12月29日、[HiBiKi Radio Station](https://ja.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")） - ゲスト出演\[132\]
+
+### ゲーム
+
+  - [幕末恋華 新選組](https://ja.wikipedia.org/wiki/幕末恋華_新選組 "wikilink") DS（[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")） - オープニング曲に春菜がコーラスで参加。
+
+### 新聞連載
+
+  - 未来へジャンプ\! ピンキッシュストーリー（2015年1月24日 - 12月19日、埼玉新聞） - 隔週掲載
+
+### 関連書籍
+
+  - 埼玉の音楽家100人（2007年11月1日、人物新報社） - pinkish「ボーカル&ダンスのアイドルユニット 童謡を全国へ発信」ISBN 978-4903365046
+  - 埼玉のおきて (2014年3月20日、[アース・スター エンターテイメント発行](https://ja.wikipedia.org/wiki/アース・スター_エンターテイメント "wikilink")、泰文堂発売) ISBN 978-4803005486
+
+### 新聞掲載
+
+  - [埼玉新聞](../Page/埼玉新聞.md "wikilink") （2003年3月18日 朝刊） - 『歌姫ユニット童謡を熱唱 [特養ホームでピンキッシュ](https://ja.wikipedia.org/wiki/介護老人福祉施設 "wikilink")』
+  - 埼玉新聞 （2003年10月6日 朝刊1面） - 『歌姫ユニット「ピンキッシュ」 [自主映画](https://ja.wikipedia.org/wiki/自主映画 "wikilink")で全国PR [渡辺徹も出演](https://ja.wikipedia.org/wiki/渡辺徹_\(俳優\) "wikilink")』
+  - [朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink") （2004年8月4日 朝刊埼玉版） - 『[ご当地アイドルで町振興](https://ja.wikipedia.org/wiki/ローカルアイドル "wikilink")』
+  - 埼玉新聞 （2004年8月17日 朝刊） - 『この夏、初のライブツアー 大利根の歌姫ユニット「ピンキッシュ」』
+  - 埼玉新聞 （2004年8月28日 朝刊） - 『歌姫「ピンキッシュ」成長に笑顔』
+  - 東京新聞 （2004年10月18日朝刊） - 『「ご当地アイドル」羽ばたく 「童謡のふる里」埼玉・大利根町 4人組「ピンキッシュ」 町おこしから全国へ』
+  - [産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink") （2004年12月31日 朝刊埼玉版） - 『[さいたまアリーナ満員にするぞ](../Page/さいたまスーパーアリーナ.md "wikilink")』
+  - 朝日新聞 （2005年5月19日 朝刊埼玉版） - 『ピンキッシュ 人気上昇中』
+  - 埼玉新聞 （2005年7月2日 朝刊） - 『童謡アイドルピンキッシュ あす七夕コンサート』
+  - [日本農業新聞](https://ja.wikipedia.org/wiki/日本農業新聞 "wikilink") （2005年7月7日 社会面） - 『農村アイドル☆売り出し中』
+  - 埼玉新聞 （2006年5月7日 朝刊1面） - 『童謡アレンジ 全国へ 夢はさいたまアリーナ』
+  - [読売新聞](https://ja.wikipedia.org/wiki/読売新聞 "wikilink") （2006年5月9日、埼玉版） - 『童謡アイドル 全国デビュー』
+  - [毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink") （2006年5月11日 朝刊） - 『[大利根町](https://ja.wikipedia.org/wiki/大利根町 "wikilink")出身のアイドルグループ、全国デビュー』
+  - 産経新聞 （2006年5月17日 朝刊埼玉版） - 『童謡アイドルよろしくね』
+  - 朝日新聞 （2006年5月20日 朝刊埼玉版） - 『[ポップス調童謡](../Page/ポピュラー音楽.md "wikilink") 少女らCD発売』
+  - 埼玉新聞 （2006年8月11日 朝刊） - 『ピンキッシュが来る [大宮カタクラパーク](https://ja.wikipedia.org/wiki/コクーンシティ "wikilink") あすから夏祭り』
+  - 埼玉新聞 （2006年9月8日 朝刊） - 『ご当地アイドルで[町おこし](https://ja.wikipedia.org/wiki/地域おこし "wikilink") ファン集まり地元に活気 埼玉でも「ピンキッシュ」など活躍』
+  - 読売新聞 （2007年11月16日 朝刊埼玉版） - 『童謡アイドルが新キャラクター』
+  - 朝日新聞 （2007年11月21日 朝刊埼玉版） - 『地元歌手4人組 キャラに名前を』
+  - 読売新聞 （2008年2月5日 朝刊埼玉版） - 『「ピンキッシュ」の生みの親 石川茂樹』
+  - 埼玉新聞 （2008年2月20日 朝刊） - 『ピンキッシュキャラクター "乙音ちゃん"に決定』\[133\]
+  - 朝日新聞 （2008年2月21日 朝刊埼玉版） - 『ピンキッシュのキャラ名「乙音」 名付け親は[富士見の小](../Page/富士見市.md "wikilink")4』
+  - 埼玉新聞 （2008年7月2日 朝刊） - 『川の国フォトコンテスト募集開始 PR大使にピンキッシュ』
+  - 埼玉新聞 （2009年1月27日 朝刊） - 『ピンキッシュに[下総皖一](https://ja.wikipedia.org/wiki/下総皖一 "wikilink")音楽賞 童謡ライブでPRに貢献』
+  - 埼玉新聞 （2009年4月19日 朝刊） - 『卒業・・・新生ピンキッシュへ 5月にオーディション』
+  - 埼玉新聞, 読売新聞 （2009年6月26日 朝刊, 読売新聞は埼玉版） - 『新生ピンキッシュお披露目』『童謡歌う新4人娘 大利根町役場でお披露目』
+  - 毎日新聞 (2009年6月29日 朝刊埼玉版) - 『pinkish: 大利根発の4人組アイドル 新メンバーがデビュー』\[134\]
+  - [東京新聞](../Page/東京新聞.md "wikilink") （2009年7月3日 朝刊埼玉版） - 『新生「ピンキッシュ」22日始動 大利根拠点「童謡歌姫ユニット」 今秋CD発売も予定』
+  - 埼玉新聞 （2009年7月10日 朝刊） - 『ピンキッシュが[観光PR大使に](https://ja.wikipedia.org/wiki/観光大使 "wikilink")』
+  - 読売新聞 （2009年7月11日 朝刊埼玉版） - 『「ピンキッシュ」観光PR大使』
+  - 東京新聞 （2009年7月17日 朝刊埼玉版） - 『観光PR大使にピンキッシュ 水辺観光スポットを紹介』
+  - 埼玉新聞 （2009年7月23日 朝刊） - 『[まなびピア](https://ja.wikipedia.org/wiki/マナビィ#全国生涯学習フェスティバル "wikilink")100日前でPR』
+  - 埼玉新聞 （2009年10月18日 朝刊） - 『ピンキッシュもPR　[三郷でプレ](../Page/三郷市.md "wikilink")「まなびピア」』
+  - [日刊自動車新聞](https://ja.wikipedia.org/wiki/日刊自動車新聞 "wikilink") (2009年11月11日 朝刊) - 『ユーパーツがリサイクル部品をPR 埼玉のエコイベント』\[135\]
+  - 埼玉新聞 (2010年6月17日 朝刊) - 『歌や笑いで魅力発信 「勝手に埼玉応援隊」結成』
+  - 読売新聞 （2010年6月19日 朝刊埼玉版） - 『「埼玉応援隊」知事が任命書』
+  - [夕刊フジ](../Page/夕刊フジ.md "wikilink") (2010年10月18日 夕刊) - 『萌えドル図鑑 中里春菜 自然と歌が大好き』\[136\]
+  - 埼玉新聞 （2010年10月21日 朝刊） - 『【映画「ネムリバ」に登場する埼玉の地ネタ】ピンキッシュ』
+  - 読売新聞 （2011年5月2日 朝刊埼玉版） - 『[加須のアイドル](../Page/加須市.md "wikilink")「ピンキッシュ」が新曲』
+  - 埼玉新聞 （2012年3月25日 朝刊） - 『「ゆる玉ソング」収録 新しい魅力をCDに』
+  - 埼玉新聞 （2012年7月19日 朝刊） - 『志望校合格へ一直線 平成25年度[高校入試対策特集](../Page/高校受験.md "wikilink")』(チェックのスカートの[制服を着た写真](https://ja.wikipedia.org/wiki/日本の学校制服 "wikilink")4枚を掲載)
+  - 埼玉新聞, 読売新聞 （2012年7月28日 朝刊, 読売新聞は埼玉版） - 『薄れる[水害](https://ja.wikipedia.org/wiki/水害 "wikilink")の記憶を次代へ』『自分の地域に関心を 春菜』『過去の経験から学ぼう 真央』『水害を自分の問題として 葵』
+  - 埼玉新聞 （2012年9月4日 朝刊） - 『西武ドームで初のフェス 埼玉の魅力大集合』
+  - 埼玉新聞 （2012年11月22日 朝刊） - 『いざ勝負の冬到来\! 頑張れ、埼玉の中学3年生』([ブレザー](https://ja.wikipedia.org/wiki/ブレザー "wikilink")の制服を着た写真5枚を掲載)
+  - 読売新聞 （2012年12月9日 朝刊埼玉版） - 『ピンキッシュ10周年ライブ 加須のアイドル 感謝の思い込め歌う』
+  - 埼玉新聞 （2013年1月11日 朝刊） - 『平成25年度高校入試対策特集 花開く春へラストスパート\!』(ブレザーの制服を着た写真4枚を掲載)
+  - 読売新聞 （2013年2月16日 朝刊埼玉版） - 『ご当地アイドル競演 県内からピンキッシュ』
+  - 埼玉新聞, 読売新聞, [上毛新聞](../Page/上毛新聞.md "wikilink"), 朝日新聞 （2013年6月22日 朝刊, 読売新聞は埼玉版, 朝日新聞は群馬版） - 『[治水](https://ja.wikipedia.org/wiki/治水 "wikilink")対策はもちろん大切。でも、私にもすべきことがある。生命を守るために－ ピンキッシュ 中里春菜』
+  - 日刊自動車新聞 (2013年8月27日 朝刊) - 『9月14日からモーターフェスタ開催 埼玉県自動車販売店協会が統一フェア』
+  - 日刊自動車新聞 (2013年9月13日 朝刊) - 『埼玉県自動車販売店協会 ディーラーの中古車PR 14-13日のモーターフェスタ 告知イベント開く』
+  - 読売新聞 （2013年10月10日 朝刊埼玉版） - 『[痴漢](../Page/痴漢.md "wikilink")撲滅願い 主要駅で啓発』
+  - 埼玉新聞 （2014年1月1日） - 『ご当地スイーツキャラ[いがまんちゃんをいただきます](https://ja.wikipedia.org/wiki/羽生市#マスコットキャラクター "wikilink")』(ピンキッシュが[塩あんびん](https://ja.wikipedia.org/wiki/塩あんびん "wikilink")と[いが饅頭を食べコメントするインタビュー記事](https://ja.wikipedia.org/wiki/いがまんじゅう "wikilink"))
+  - 読売新聞 （2014年1月3日 朝刊埼玉版） - 『アイドルあきらめずに』\[137\]
+  - 読売新聞 （2014年3月3日 朝刊埼玉版） - 『[サイバー犯罪](https://ja.wikipedia.org/wiki/サイバー犯罪 "wikilink")撲滅 アイドルが応援隊』
+  - 日刊自動車新聞 (2014年8月26日 朝刊) - 『埼玉県自動車販売店協会、中古車統一フェア 9月13-23日一斉開催』
+  - 埼玉新聞 （2015年1月12日 朝刊） - 『＜成人式＞ピンキッシュが地元・加須でサプライズステージ』\[138\]
+  - 朝日新聞 （2015年1月28日 朝刊埼玉版） - 『進化へ初単独ライブ 童謡ユニット「ピンキッシュ」』
+  - [スポーツニッポン](../Page/スポーツニッポン.md "wikilink") （2015年4月12日） - 『群雄割拠のご当地アイドル そろそろ日本一を決めようじゃないか』\[139\]
+  - 朝日新聞 （2015年5月17日 朝刊埼玉版） - 『ご当地アイドル [交通安全](https://ja.wikipedia.org/wiki/交通安全 "wikilink")をPR』
+  - 埼玉新聞 (2015年12月28日 朝刊1面) - 『[さきたま抄](https://ja.wikipedia.org/wiki/埼玉県#名称 "wikilink")』
+  - 埼玉新聞 (2016年2月20日 朝刊) - 『Pinkish 感謝の思い凝縮 来月27日活動休止前ライブ』\[140\]\[141\]
+  - 埼玉新聞 (2016年3月20日 朝刊) - 『13年半の感謝込め Pinkishすべて出し切りたい 27日加須でラストライブ』\[142\]
+  - 朝日新聞 (2016年3月26日 朝刊) - 『ピンキッシュ活動休止 あす加須で最終ライブ』\[143\]
+  - 読売新聞 (2016年3月27日 朝刊埼玉版) - 『ピンキッシュ活動休止へ』\[144\]
+  - 埼玉新聞 (2016年3月28日 朝刊) - 『ピンキッシュまた会おうよ 加須でラストライブ 13年半活動に「節目」』\[145\]\[146\]
+  - 埼玉新聞 (2016年3月29日 朝刊1面) - 『さきたま抄』\[147\]
+  - 埼玉新聞 (2016年12月24日 朝刊) - 『追跡2016(5): 新たな道3人が模索 時の経過で見えたもの』
+
+### 雑誌・広報誌掲載
+
+  - 童謡のふる里おおとねだより No.455 15頁 (2002年12月1日) - 『歌姫ユニットの名前が決まりました ピンキッシュを応援してください』
+  - 童謡のふる里おおとねだより No.460 11頁 (2003年5月1日) - 『ピンキッシュがNHKでも紹介 ピンキッシュ第2期生オーディション開催決定』
+  - 童謡のふる里おおとねだより No.466 (2003年11月1日) - 『町民のアイディアで 童謡を全国の若者たちに さらに広がる町民のアイディア「童謡のふる里を映画に」』\[148\]
+  - クール ウィズ ピンキッシュ\!\! 水辺スポットめぐり 『童謡歌姫pinkishと行く 満点「涼」スポット満載\!\!』
+  - 週刊特報 2004年5月24日号 (2004年5月10日、[洋泉社](https://ja.wikipedia.org/wiki/洋泉社 "wikilink")) - 産直アイドル特集
+  - 童謡のふる里おおとねだより No.473 (2004年6月1日) - 『ピンキッシュの映画「初恋のふる里」川口で上映予定』\[149\]\[150\]『私の童謡のふる里づくり 第2回 石川茂樹 「おらがまちからアイドルを\!商工会青年部の挑戦」』\[151\]
+  - 月刊ピカパラ（2004年6月10日、英和出版社）
+  - Vividly\! （第13号2004年7月\[152\]・第26号2007年10月\[153\]発行） - 表紙『pinkish（[大利根町](https://ja.wikipedia.org/wiki/大利根町 "wikilink")が生んだアイドルユニット ピンキッシュ）』
+  - 童謡のふる里おおとねだより No.480 20頁 (2005年1月1日) - 『みんなの広場: 明日へ向かって輝け"ピンキッシュ"\!』
+  - アイドルまるかじり名鑑2005（[ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink")株式会社）
+  - [BE-PAL](https://ja.wikipedia.org/wiki/BE-PAL "wikilink")（[小学館](../Page/小学館.md "wikilink")）
+  - [ダカーポ](https://ja.wikipedia.org/wiki/ダカーポ_\(雑誌\) "wikilink")（[マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")）
+  - Get Navi（[学習研究社](../Page/学研ホールディングス.md "wikilink")）
+  - 特冊新撰組DX（[竹書房](../Page/竹書房.md "wikilink")）
+  - 月刊[武州路](../Page/武蔵国.md "wikilink")（冨士フォルム）
+  - the press (テレビ埼玉)\[154\]
+  - 埼玉自治（2005年3月18日 埼玉県自治研究会） - 『[地域資源](https://ja.wikipedia.org/wiki/地域資源 "wikilink")を生かした[まちづくり](https://ja.wikipedia.org/wiki/まちづくり "wikilink")―「まちづくり共有[データベース](../Page/データベース.md "wikilink")」の整備― 童謡のアイドルユニット「ピンキッシュ」』
+  - 商工会（2005年3月号 [全国商工会連合会](https://ja.wikipedia.org/wiki/全国商工会連合会 "wikilink")）
+  - 4年の学習（2005年1学期号、[学習研究社](../Page/学研ホールディングス.md "wikilink")）
+  - 教育音楽 小学版/中学・高校版（2005年8月号、[音楽之友社](https://ja.wikipedia.org/wiki/音楽之友社 "wikilink")）
+  - [DIME](https://ja.wikipedia.org/wiki/DIME_\(雑誌\) "wikilink")（2005年10月6日、小学館）
+  - 童謡のふる里おおとねだより No.491 11頁 (2005年12月1日) - 『第10回おおとね童謡のふる里まつり』\[155\]
+  - バモス（[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")　オフィシャルサッカーマガジン）
+  - 童謡のふる里おおとねだより No.496 18頁 (2006年5月1日) - 『童謡のふる里から全国へ\! ご当地アイドル ピンキッシュ 待望の全国CDデビュー』
+  - 月刊ピアノ（2006年5月20日、[ヤマハ ミュージック メディア](https://ja.wikipedia.org/wiki/ヤマハミュージックメディア "wikilink")）
+  - ちょっくら 夏号vol.30（2008年7月1日発行）
+  - 童謡のふる里おおとねだより No.529 10頁 (2009年2月1日) - 『きらめきニュース: ご当地アイドルPinkish☆「彩の国下總皖一童謡音楽賞」受賞』
+  - 童謡のふる里おおとねだより No.535 15頁 (2009年8月1日) - 『フォトアルバム 6月25日(木): 新生ピンキッシュが町を表敬訪問』
+  - 加須市観光ガイドブック 加須の四季色 (2011年3月、[加須市](../Page/加須市.md "wikilink")) \[156\]
+  - [サイタマニア](https://ja.wikipedia.org/wiki/埼玉新聞#サイタマニア "wikilink") (2011年5月29日、[埼玉新聞](../Page/埼玉新聞.md "wikilink")社)
+  - 週刊SPA\!2011年11月1日号 (2011年10月25日、[扶桑社](../Page/扶桑社.md "wikilink")) \[157\]
+  - 全国あいどるmap 2012-2013（2012年6月30日、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")）
+  - TJ MOOK あえるアイドル大百科 (2012年8月2日、[宝島社](../Page/宝島社.md "wikilink")) ISBN 978-4800201171
+  - ガレージア（2012年11月号 (株)プロトリオス） - 春菜が表紙\[158\]
+  - 別冊Discover Japan 地域ブランドのつくりかた (2013年10月9日、[枻出版社](https://ja.wikipedia.org/wiki/エイ出版社 "wikilink"))
+  - [Tokyo graffiti](https://ja.wikipedia.org/wiki/東京グラフィティ "wikilink")（2014年2月23日、[グラフィティ](https://ja.wikipedia.org/wiki/グラフィティ_\(企業\) "wikilink")）
+  - [ベストカー](https://ja.wikipedia.org/wiki/ベストカー "wikilink")4月26日号（2014年3月26日、[講談社](../Page/講談社.md "wikilink")）
+  - 加須市観光ガイドブック かぞYOU(悠)遊 (2015年3月、加須市） - ピンキッシュの写真56枚掲載\[159\]
+  - まっぷるご当地アイドル (2015年7月13日、[昭文社](https://ja.wikipedia.org/wiki/昭文社 "wikilink")）ISBN 978-4-398-27710-7\[160\]
+  - Kataru (webマガジン)\[161\]\[162\]\[163\]\[164\]
+  - エキサイティングマックス\! (2015年12月26日、[ぶんか社](https://ja.wikipedia.org/wiki/ぶんか社 "wikilink")) - ご当地アイドルの創り方
+  - [るるぶ](https://ja.wikipedia.org/wiki/るるぶ "wikilink")特別編集 埼玉県加須 (2016年4月、加須市商業観光課) - ピンキッシュの写真20枚掲載\[165\]
+
+### 官庁・地方公共団体のイベント
+
+  - [大利根町](https://ja.wikipedia.org/wiki/大利根町 "wikilink")青少年フェスティバル（2002年12月20日、大利根町）\[166\]
+  - 小山ロックフェスティバル（2003年10月17日、[小山市](../Page/小山市.md "wikilink")）\[167\]
+  - [彩の国まごころ国体](https://ja.wikipedia.org/wiki/彩の国まごころ国体 "wikilink") 開催100日前記念イベント (2004年7月19日、[文部科学省](../Page/文部科学省.md "wikilink")・[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")・[日本体育協会](https://ja.wikipedia.org/wiki/日本体育協会 "wikilink"))
+  - 童謡フェスティバルINおおとね（2004年11月23日・2005年11月23日、大利根町) - 振付講座など\[168\]
+  - [加須市](../Page/加須市.md "wikilink")民平和祭 (2004年 - 2015年、加須市民平和祭実行委員会(委員長: 加須市長\[169\]))\[170\]
+  - 第72回[郵政記念日](https://ja.wikipedia.org/wiki/郵政記念日 "wikilink")イベント (2005年4月21日、[栗橋郵便局](https://ja.wikipedia.org/wiki/栗橋郵便局 "wikilink")) - 一日郵便局長になる\[171\]。
+  - 熊谷[養護学校](../Page/特別支援学校.md "wikilink") [北埼玉](../Page/北埼玉郡.md "wikilink")・[鴻巣地区](../Page/鴻巣市.md "wikilink") [PTA](../Page/PTA.md "wikilink")コミュニティ体験 (2005年7月31日、埼玉県教育局熊谷特別支援学校)\[172\]
+  - 少年の主張大会 (2005年9月3日、埼玉県・[埼玉県教育委員会](https://ja.wikipedia.org/wiki/埼玉県教育委員会 "wikilink")・青少年育成埼玉県民会議) - ゲスト出演\[173\]
+  - [彩の国](https://ja.wikipedia.org/wiki/彩の国 "wikilink")食と農林業ドリームフェスタ (2005年 - 2015年、主催: 彩の国食と農林業の祭典実行委員会、後援: [農林水産省](../Page/農林水産省.md "wikilink")他\[174\])\[175\]
+  - 彩の国食と農林業ハーモニーフェスタ (2005年 - 2008年、主催: 彩の国食と農林業の祭典実行委員会、後援: 農林水産省他)\[176\]
+  - ミュージックフェスタ (2006年11月3日、大利根町[教育委員会](https://ja.wikipedia.org/wiki/教育委員会 "wikilink"))\[177\]
+  - [深谷市](../Page/深谷市.md "wikilink")産業祭 (2006年11月18日、深谷市産業祭実行委員会 (深谷市他から構成))\[178\]
+  - 国際フェア (2006年 - 2015年、主催: (公財)埼玉県国際交流協会、共催: JICA東京、後援: 埼玉県・[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")他\[179\]) - 医療生協さいたま健康フェスタ、さいたまTHE(地)スイーツフェア、コープみらいフェスタと同時開催\[180\]
+  - エコ・カーフェア埼玉2007 (2007年11月17日、[(独法)環境再生保全機構](https://ja.wikipedia.org/wiki/環境再生保全機構 "wikilink")・エコ・カーフェア埼玉2007実行委員会 (埼玉県他から構成))\[181\]
+  - [まなびピア埼玉](https://ja.wikipedia.org/wiki/マナビィ#全国生涯学習フェスティバル "wikilink")2009関係各種イベント (2009年7月22日 - 2010年2月19日、第21回[全国生涯学習フェスティバル](https://ja.wikipedia.org/wiki/マナビィ#全国生涯学習フェスティバル "wikilink")」実行委員会 (文部科学省・埼玉県他から構成\[182\])) - ライブ出演\[183\]やクイズ\[184\]・ステージ発表\[185\]進行役
+  - 夏休みComeCome埼玉キャンペーンin池袋 (2009年7月24日、[川越市](../Page/川越市.md "wikilink")・[長瀞町](../Page/長瀞町.md "wikilink")) - [池袋駅](https://ja.wikipedia.org/wiki/池袋駅 "wikilink")でチラシを配布
+  - 埼玉国際ジュニアサッカー大会2009 (2009年7月24日、埼玉県・さいたま市・埼玉県サッカー協会・埼玉県公園緑地協会)\[186\]
+  - 長瀞町観光キャンペーン (2009年7月31日、長瀞町・(社)長瀞[観光協会](https://ja.wikipedia.org/wiki/観光協会 "wikilink")・長瀞町[商工会](../Page/商工会.md "wikilink")・[秩父鉄道](../Page/秩父鉄道.md "wikilink"))\[187\]
+  - [埼玉県立誠和福祉高等学校](https://ja.wikipedia.org/wiki/埼玉県立誠和福祉高等学校 "wikilink")生徒による子育て支援ルーム「誠和キッズ」 (2009年8月20日、埼玉県教育局誠和福祉高等学校)\[188\]
+  - わくわくスポ文まつり (2009年9月12日、主催: 県関係公社等(財)埼玉県公園緑地協会、後援: [熊谷市](https://ja.wikipedia.org/wiki/熊谷市 "wikilink")他)\[189\]
+  - 浮きウキフェスタ21 (2009年11月8日、埼玉県県土整備部水辺再生課)\[190\]
+  - 旅行商品「埼玉体験旅くらぶ」 (2010年1月23日\[191\]・9月26日、埼玉県産業労働部観光課・[(株)JTB首都圏](https://ja.wikipedia.org/wiki/JTB#グループ会社 "wikilink"))\[192\] - ピンキッシュがバスガイド\[193\]
+  - 動画サイト「[コバトン](https://ja.wikipedia.org/wiki/コバトン "wikilink")Theムービー」開設 (2010年2月15日、埼玉県産業労働部産業拠点整備課)\[194\]\[195\]
+  - 地域音楽のつどい&ピンキッシュコンサート (2010年3月7日、[草加市](../Page/草加市.md "wikilink"))\[196\]
+  - 緑のトラスト夏まつり&川の再生キャンペーン (2010年7月24日、埼玉県・(財)さいたま緑のトラスト協会) - ピンキッシュが通行人にアンケート調査\[197\]
+  - 交通安全フェアin加須 (2010年9月25日・2015年5月16日\[198\]・9月19日、[加須警察署](https://ja.wikipedia.org/wiki/加須警察署 "wikilink")・加須交通安全協会) - 反射板・シートベルトカバー等を配布\[199\]
+  - 人づくり・ものづくりフェア埼玉2010 (2010年10月30日、埼玉県・[行田市](https://ja.wikipedia.org/wiki/行田市 "wikilink")・熊谷市・[鴻巣市](../Page/鴻巣市.md "wikilink")他)\[200\]
+  - 第33回よこぜまつり (2010年10月31日、[横瀬町](../Page/横瀬町.md "wikilink")) - 勝手に埼玉応援隊のピンキッシュを勝手に応援しまショー\[201\]
+  - [埼玉B級ご当地グルメ王決定戦](https://ja.wikipedia.org/wiki/埼玉B級ご当地グルメ王決定戦 "wikilink") (2010年11月21日・2011年5月1日、埼玉県産業労働部観光課他)\[202\]
+  - 埼玉サイクリングフェスティバルおよび事前広報イベント (2010年 - 2015年、埼玉県(埼玉サイクリングフェスティバル実行委員会))\[203\]
+  - 川の再生交流会 (2011年1月29日、埼玉県産業労働部観光課)\[204\]
+  - 春の全国交通安全運動 (2011年05月11日、埼玉県・[埼玉県警察](https://ja.wikipedia.org/wiki/埼玉県警察 "wikilink")他)\[205\]
+  - 第24回県民総合体育大会 スポーツフェスティバル2011 (2011年5月29日、埼玉県他)\[206\]
+  - みどりの再生とことんトーク (2011年6月12日、埼玉県環境部みどり再生課)\[207\]
+  - 動画サイト「サイタマどうが」開設 (2011年7月15日、埼玉県県民生活部広聴広報課)\[208\]\[209\]\[210\]
+  - 埼玉県知事選挙の街頭啓発 (2011年7月29日、埼玉県[選挙管理委員会](https://ja.wikipedia.org/wiki/選挙管理委員会#地方公共団体の選挙管理委員会 "wikilink"))\[211\]
+  - 川の再生キャンペーン (2011年8月6日\[212\]・2012年6月30日\[213\]、埼玉県県土整備部水辺再生課)
+  - 子ども大学くまがや (2011年10月8日、埼玉県・熊谷市・[滑川町](../Page/滑川町.md "wikilink")・[立正大学](../Page/立正大学.md "wikilink")) - 入学式にて司会およびライブ\[214\]
+  - スポーツ通勤広報キャンペーン「体育の日スペシャル　健康・体力チェック&スポーツ通勤体験コーナーINトレインフェスタ」(2011年10月10日、埼玉県教育局スポーツ振興課)\[215\]
+  - 食品の[不適正表示防止啓発ポスター及び啓発](https://ja.wikipedia.org/wiki/偽装表示 "wikilink")[クリアファイルの作成](https://ja.wikipedia.org/wiki/ファイル_\(文具\)#穴を空けないタイプ "wikilink") (2011年・2012年、埼玉県農林部農産物安全課) - ピンキッシュ写真入り\[216\]
+  - 朝霞地区四市文化団体連絡協議会設立30周年記念童謡コンサート (2012年6月2日、[朝霞市](../Page/朝霞市.md "wikilink")・[志木市](../Page/志木市.md "wikilink")・[新座市](https://ja.wikipedia.org/wiki/新座市 "wikilink")・[和光市](../Page/和光市.md "wikilink")) \[217\]
+  - 埼玉フェスタ (2012年8月31日・2015年9月13日、彩の国さいたま魅力づくり推進協議会(事務局: 埼玉県)・[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink"))
+  - 童謡のふる里おおとね市民まつり (2012年11月23日・2015年11月22日、加須市)
+  - [性犯罪](../Page/性犯罪.md "wikilink")撲滅キャンペーン (2013年6月3日、[埼玉県警察本部](https://ja.wikipedia.org/wiki/埼玉県警察#本部組織 "wikilink")・埼玉犯罪被害者援助センター) - [防犯ブザー](https://ja.wikipedia.org/wiki/防犯ブザー "wikilink")などを配布。一日警察官になる\[218\]。
+  - 埼玉県[暴力団排除条例](https://ja.wikipedia.org/wiki/暴力団排除条例 "wikilink")施行2周年キャンペーン (2013年8月1日、埼玉県警察本部・(公財)埼玉県暴力追放・薬物乱用防止センター)\[219\]
+  - 秋季[痴漢](../Page/痴漢.md "wikilink")犯罪防止キャンペーン (2013年10月7日、埼玉県警察本部地域部[鉄道警察隊](https://ja.wikipedia.org/wiki/鉄道警察隊 "wikilink")他) - 一日鉄道警察隊長になる\[220\]。
+  - [アニメ・マンガまつり in 埼玉](https://ja.wikipedia.org/wiki/アニメ・マンガまつり_in_埼玉 "wikilink") (2013年10月20日、埼玉県・(公財)埼玉県産業文化センター)\[221\]
+  - 冬の[交通事故](../Page/交通事故.md "wikilink")防止運動キャンペーン (2013年12月1日、[大宮警察署](https://ja.wikipedia.org/wiki/大宮警察署_\(埼玉県\) "wikilink")・埼玉県警察本部・埼玉県)
+  - [サイバー犯罪](https://ja.wikipedia.org/wiki/サイバー犯罪 "wikilink")撲滅キャンペーン (2014年2月23日、大宮警察署・埼玉県警察本部生活安全部サイバー犯罪対策課・[日本国際映画著作権協会](https://ja.wikipedia.org/wiki/日本国際映画著作権協会 "wikilink")) - クリアファイルを配布\[222\]。
+  - キッズ&ファミリーコンサート (2014年6月29日、[さくら市](https://ja.wikipedia.org/wiki/さくら市 "wikilink")[教育委員会](https://ja.wikipedia.org/wiki/教育委員会 "wikilink")氏家公民館)\[223\]
+  - [渡良瀬遊水地](../Page/渡良瀬遊水地.md "wikilink")まつりin KAZO (2014年9月28日、渡良瀬遊水地まつりin KAZO実行委員会(加須市))\[224\]
+  - 家族を[振り込め詐欺](https://ja.wikipedia.org/wiki/振り込め詐欺 "wikilink")から守ろうキャンペーン (2014年10月15日、[上尾警察署](https://ja.wikipedia.org/wiki/上尾警察署 "wikilink")・埼玉県警察本部)\[225\] - イベント出演および[FM NACK5ラジオCM](../Page/エフエムナックファイブ.md "wikilink")
+  - [薬物乱用](../Page/薬物乱用.md "wikilink")防止キャンペーン (2014年10月17日・2015年1月12日、主催: 埼玉県医薬品登録販売者協会、共催: 埼玉県\[226\]) - [浦和駅](https://ja.wikipedia.org/wiki/浦和駅 "wikilink")でティッシュなどを配布\[227\]。
+  - 埼玉県フェア2014 (2014年11月14日、埼玉県・[イオン](../Page/イオン_\(企業\).md "wikilink"))\[228\]
+  - 振り込め詐欺防止キャンペーン〜Pinkishを迎えて〜 (2015年10月15日、[春日部警察署](../Page/春日部警察署.md "wikilink")・埼玉県警察本部生活安全部生活安全企画課) - 啓発品を配布\[229\]\[230\]
+  - 「埼玉県女性[消防団員](https://ja.wikipedia.org/wiki/消防団員 "wikilink")の日」創設記念フェス (2015年11月1日、埼玉県危機管理防災部消防防災課)\[231\]
+  - [ウェスタ川越](https://ja.wikipedia.org/wiki/ウェスタ川越 "wikilink") 県民ふれあいフェスタ (2015年11月3日、ウェスタ川越 指定管理者NeCST、後援:埼玉県・[福島県](../Page/福島県.md "wikilink")他)\[232\]
+  - 童謡の[姉妹都市](https://ja.wikipedia.org/wiki/姉妹都市 "wikilink") さくら市&加須市しゃぼん玉コンサート (2016年1月16日、さくら市教育委員会他)\[233\]
+  - 第17回障害者[福祉施設](https://ja.wikipedia.org/wiki/福祉施設 "wikilink")利用者交流会〜笑いながらいこう\! みんなのことば\&Pinkishコンサート〜 (2016年1月29日、川越市障害者福祉施設連絡協議会)\[234\]
+  - 埼玉サイクルエキスポ2016 (2016年2月13日、埼玉県他)\[235\]
+
+### 受賞歴ほか
+
+  - ふるさとづくり賞受賞 (2005年11月14日、[埼玉県知事](https://ja.wikipedia.org/wiki/埼玉県知事一覧 "wikilink"))\[236\]
+  - 川の国[埼玉フォトコンテスト](https://ja.wikipedia.org/wiki/埼玉県 "wikilink"){{\#tag:ref|[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")観光連盟が主催者である『川の国埼玉フォトコンテスト』は、「川の国埼玉」を広く[PRすることを目的として開催され](https://ja.wikipedia.org/wiki/パブリック・リレーションズ "wikilink")、埼玉県庁が全庁的に推進している「みどりと川の再生事業」の一環として実施されるイベントである。|group=注}}[PR大使](https://ja.wikipedia.org/wiki/広報大使 "wikilink") (2008年6月30日 -、埼玉県) - 埼玉県内の水辺の観光スポットのPR大使。ピンキッシュは、「フレッシュで活動的なイメージがコンテストの趣旨に合致している」「県観光連盟の会員であり、[利根川](../Page/利根川.md "wikilink")が流れる大利根町出身のグループである」「グループ結成以来、意欲的に県や大利根町の観光・物産等のPR活動をしており、地域の活性化に大きく貢献している」等の理由によりPR大使を委嘱されることとなった\[237\]。
+  - 平成20年度[彩の国](https://ja.wikipedia.org/wiki/彩の国 "wikilink")[下總皖一童謡音楽賞受賞](https://ja.wikipedia.org/wiki/下総皖一 "wikilink") (2009年1月15日、埼玉県県民生活部文化振興課) - 幅広い世代への童謡の普及を図るため、県内はもとより全国各地で下總皖一の作品を中心とした童謡ライブを行い、童謡の普及に貢献しているというのが受賞理由\[238\]。
+  - 第21回[全国生涯学習フェスティバル](https://ja.wikipedia.org/wiki/マナビィ#全国生涯学習フェスティバル "wikilink")「まなびピア埼玉2009」PR大使\[239\]及びキャンペーンソング\[240\] (2009年)
+  - 川の国埼玉[観光PR大使](https://ja.wikipedia.org/wiki/観光大使 "wikilink") (2009年7月9日 -、埼玉県)\[241\] - [上田清司](../Page/上田清司.md "wikilink")埼玉県知事より「川の国埼玉観光PR大使」として委嘱。上田知事より直々に委嘱状が交付される\[242\]。
+  - 勝手に埼玉応援隊 (2010年 -、埼玉県)\[243\]\[244\]
+  - [加須市](../Page/加須市.md "wikilink")観光大使 (2010年 -、加須市観光協会)\[245\]
+  - 埼玉県[新車ディーラー中古車統一フェア](https://ja.wikipedia.org/wiki/自動車ディーラー "wikilink") モーターフェスタ イメージガール (2011年 - 2015年、(一社)日本自動車販売協会連合会 埼玉県支部　埼玉県自動車販売店協会)\[246\]\[247\]
+  - [サイバー犯罪](https://ja.wikipedia.org/wiki/サイバー犯罪 "wikilink")撲滅応援隊 (2014年 -、[埼玉県警察本部生活安全部サイバー犯罪対策課](https://ja.wikipedia.org/wiki/埼玉県警察#本部組織 "wikilink"))\[248\]
+  - [感謝状](../Page/感謝状.md "wikilink")を受領 (2014年、埼玉県警察本部生活安全部長) - [振り込め詐欺](https://ja.wikipedia.org/wiki/振り込め詐欺 "wikilink")被害防止への貢献に対するもの
+  - 加須市交通安全広報大使 (2015年1月22日 -、[加須警察署](https://ja.wikipedia.org/wiki/加須警察署 "wikilink"))\[249\]
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [下総皖一](https://ja.wikipedia.org/wiki/下総皖一 "wikilink")
+  - [ローカルアイドル](https://ja.wikipedia.org/wiki/ローカルアイドル "wikilink")
+
+## 外部リンク
+
+**公式サイト**
+
+  - [ピンキッシュ公式サイト](http://www.pinkish.jp/)
+  - [ピンキッシュ公式Facebook](https://www.facebook.com/pinkish.japan/)
+
+**Twitter**
+
+  - [ピンキッシュ公式Twitter](https://twitter.com/pinkish_pinkish/)
+
+**公式ブログ**
+
+  - [ぁぉぃのひまわり便り （公式ブログ）](http://ameblo.jp/pinkish4aoi/)
+  - [マオペース☆ （公式ブログ）](http://ameblo.jp/jovb7/)
+  - [そのまんまはるな（公式ブログ）](http://ameblo.jp/hannasproom/)
+  - [Pinkish Staff Blog](http://ameblo.jp/zero-9staff/)
+
+**公式動画配信チャンネル**
+
+  - [zero9channel (YouTube)](https://www.youtube.com/channel/UCopq0Pf-iHSLDJocnf73DMA)
+  - [ピンキッシュTwitCasting](http://twitcasting.tv/pinkish_pinkish)
+  - [PIN\!PIN\!PINKISH\! (SHOWROOM)](https://www.showroom-live.com/room/profile?room_id=35696)
+
+**関連サイト**
+
+  - [加須市](http://www.city.kazo.lg.jp/index.html)
+  - [加須市商工会](http://kazo-sci.jpn.org/)
+
+[Category:埼玉県の音楽](https://ja.wikipedia.org/wiki/Category:埼玉県の音楽 "wikilink") [Category:加須市](https://ja.wikipedia.org/wiki/Category:加須市 "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:関東地方のローカルアイドル](https://ja.wikipedia.org/wiki/Category:関東地方のローカルアイドル "wikilink") [Category:童謡歌手](https://ja.wikipedia.org/wiki/Category:童謡歌手 "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
+
+1.
+2.
+3.
+4.
+5.  埼玉自治（2005年1月20日 埼玉県自治研究会） - 『楽しい童謡とステキな大利根を伝えたい♡』
+6.
+7.
+8.
+9.
+10.
+11. pinkish青木麻実のHolyday Afternoon（2008年4月19日放送分）
+12.
+13.
+14.
+15.
+16.
+17. ゆうかおの、そこまで言うかぉ\! \#3 YouTube[1](https://www.youtube.com/watch?v=cZIMKCzq8u4&index=5&list=PLB8R_kTnlhWZH3ni-wddX0csVksATSWLV) (2014年2月2日 アメーバスタジオ、[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")などで放送。提供：[サイバーエージェント](https://ja.wikipedia.org/wiki/サイバーエージェント "wikilink"))
+18.
+19. 平成15年度 まちづくりシンポジウム（2004年2月15日）
+20. asahi.com マイタウン地域情報（2005年5月20日）（[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")で記事の文章が確認できる[2](http://live14.2ch.net/test/read.cgi/wildplus/1116557043/)）
+21.
+22. 産経新聞 （2004年10月6日 朝刊埼玉版） - 『羽ばたけ歌姫ピンキッシュ 結成2年 活動の場全国へ しかし原点は「地元」』
+23. 東京新聞朝刊「さいたまサロン」（2008年1月14日） - 『童謡を歌姫ユニットに』 『魅せる舞台 東京進出も』
+24.
+25.
+26. 埼玉新聞 （2002年11月12日 朝刊） - 『若さ弾ける歌姫ユニット ピンキッシュデビュー 町おこしの起爆剤に』
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36. 埼玉新聞 （2007年11月18日 朝刊） - 『求む キャラクター名 ピンキッシュ5周年で募集』
+37. [ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")（2007年11月15日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
+38.
+39.
+40.
+41.
+42.
+43. 2008年7月12日放送「下キタ━(゜∀゜)━\!\!」
+44.
+45.
+46. 2009年3月14日放送「ピンキッシュのP\!P\!P\!のP\!」
+47.
+48.
+49. 2010年7月2日放送「中里姉妹\&pinkishの六本木★ナイト2」
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59. [静岡県浜松市のご当地アイドル「H\&A.」がご当地アイドル殿堂入り認定](https://www.value-press.com/pressrelease/207456)ValuePress、2018年9月5日
+60. JAMBO、CD帯
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+76.
+77.
+78.
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+87.
+88.
+89.
+90.
+91.
+92.
+93.
+94. 「サンドウィッチマンのご当地アイドル発掘団」ピンキッシュ出演回の番組後半 YouTube[3](https://www.youtube.com/watch?v=cEu5D1Fb_7w)[4](https://www.youtube.com/watch?v=QAFK1PJ_rNk)[5](https://www.youtube.com/watch?v=2Ra7eLB5qB8)
+95.
+96.
+97.
+98.
+99.
+100.
+101.
+102.
+103.
+104.
+105.
+106.
+107.
+108.
+109.
+110.
+111.
+112.
+113.
+114.
+115.
+116.
+117.
+118.
+119.
+120. PLUG-IN SWT『夢に向かって輪！』(2015/10/06) [オープニングトーク](https://www.youtube.com/watch?v=5sCWioNQ4Qg)[輝けアシスタント様 - 夢叶う辞典を創ろう](https://www.youtube.com/watch?v=OkhiyXjw8S8)[チャレンジPLUG-I - PinkishスペシャルLIVE - エンディング](https://www.youtube.com/watch?v=M72o0G99TLk)
+121. PLUG-IN SWW『VSワッチミーナの輪』ゲスト:Pinkish (2015/10/07) YouTube [オープニングトーク](https://www.youtube.com/watch?v=1TqZBUBiRzs)[Pinkish＋シブヤDOMINION スペシャルLIVE](http://www.youtube.com/watch?v=DkBv1fzwLRY)[ワッチミーナ推しカメLIVE](https://www.youtube.com/watch?v=NLdmmvTzGB8)[投票結果発表](https://www.youtube.com/watch?v=swXemObPDm8)
+122.
+123. PLUG-IN SWM『PLUGの輪じゃ』ゲスト:ワッチミーナ (2015/10/26) [オープニングトーク](http://www.youtube.com/watch?v=Ohk61bHJc4Y)[Pinkish スペシャル推しカメLIVE](http://www.youtube.com/watch?v=X5_hXsEvQbg)[シブヤDOMINION スペシャル推しカメLIVE](http://www.youtube.com/watch?v=H2tU8qPs0hQ)[ワッチミーナ スペシャルLIVE - 投票結果発表](http://www.youtube.com/watch?v=MbhOPVei2gs)
+124.
+125.
+126.
+127.
+128.
+129.
+130.
+131.
+132.
+133.
+134.
+135.
+136.
+137.
+138.
+139.
+140.
+141.
+142.
+143.
+144.
+145.
+146.
+147.
+148.
+149.
+150.
+151.
+152.
+153.
+154.
+155.
+156.
+157.
+158.
+159.
+160.
+161.
+162.
+163.
+164.
+165.
+166.
+167.
+168.
+169.
+170.
+171.
+172.
+173.
+174.
+175.
+176.
+177.
+178.
+179.
+180.
+181.
+182.
+183.
+184.
+185.
+186.
+187.
+188.
+189.
+190.
+191.
+192.
+193.
+194.
+195. コバトンTheムービーYouTube 「さいたま街歩き天国」(朝霞[6](https://www.youtube.com/watch?v=t6H-kN20ibA)[7](https://www.youtube.com/watch?v=seR8WQ6rwKs), 大宮[8](https://www.youtube.com/watch?v=9U1E4M9fm-k)[9](https://www.youtube.com/watch?v=Illj_BPNRjs), 川越[10](https://www.youtube.com/watch?v=Wz1fz5FqCnw)[11](https://www.youtube.com/watch?v=E4lYEiMvopM), 熊谷[12](https://www.youtube.com/watch?v=D3zZsh4U1O0)[13](https://www.youtube.com/watch?v=XKGyyV49pvE), 草加[14](https://www.youtube.com/watch?v=k836f1bm_E4)[15](https://www.youtube.com/watch?v=Kz1Q3-MxHYQ), 秩父[16](https://www.youtube.com/watch?v=fXT4VP3JEvU)[17](https://www.youtube.com/watch?v=GOd68SIq4_0))、「社長とランチ」(井上スパイス工業(株)[18](https://www.youtube.com/watch?v=RS3limXe4HE)[19](https://www.youtube.com/watch?v=5-a-wKry9UA))、「さい☆たま」(志木[20](https://www.youtube.com/watch?v=dDhM2P2iKLs)[21](https://www.youtube.com/watch?v=M_2ORjZpV-0), 南越谷[22](https://www.youtube.com/watch?v=n4NT61tBrq8)[23](https://www.youtube.com/watch?v=TOkUGwzkWKw))
+196.
+197.
+198.
+199. 埼玉新聞 (2015年9月21日) - 甲子園8強選手ら一日署長
+200.
+201.
+202.
+203.
+204.
+205.
+206.
+207.
+208.
+209.
+210. サイタマどうがYouTube【さいたまさんぽ】[行田おさんぽ編](https://www.youtube.com/watch?v=F42YjaURETA), [しらこばと編](https://www.youtube.com/watch?v=0woyXE1bDuI), [東武動物公園編](https://www.youtube.com/watch?v=5UdGno5uC30)
+211.
+212.
+213.
+214.
+215.
+216.
+217.
+218.
+219.
+220.
+221.
+222.
+223.
+224. 埼玉新聞 (2014年9月28日)
+225.
+226.
+227.
+228.
+229.
+230.
+231.
+232.
+233.
+234.
+235.
+236.
+237.
+238.
+239.
+240.
+241.
+242.
+243.
+244.
+245.
+246.
+247.
+248.
+249.

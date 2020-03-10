@@ -1,0 +1,79 @@
+> この記事は[DOCTOR HEAD\'S WORLD TOWER --](https://ja.wikipedia.org/wiki/DOCTOR_HEAD\'S_WORLD_TOWER_--)から翻訳されています。
+
+
+『**DOCTOR HEAD'S WORLD TOWER -ヘッド博士の世界塔-**』（ドクター・ヘッズ・ワールド・タワー ヘッドはかせのせかいとう）は[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[7月10日](../Page/7月10日.md "wikilink")に発売された[フリッパーズ・ギター](../Page/フリッパーズ・ギター.md "wikilink")通算3作目にして最後の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")<span style="font-size:90%;">(CD:PSCR-1024)</span>。
+
+## 解説
+
+[プライマル・スクリーム](https://ja.wikipedia.org/wiki/プライマル・スクリーム "wikilink")や[ストーン・ローゼズ](https://ja.wikipedia.org/wiki/ストーン・ローゼズ "wikilink")などの同時代的なUKサウンドを意識した音作り、暗号的かつ退廃的な歌詞、[サンプリング](../Page/サンプリング.md "wikilink")の多用など、前2作とは変わった試みを行っている。皆がドレスアップした格好の良さを追求していた空前のバンドブームの中で、気取らない気怠さを表現した非常に異質と言える作品であった。アルバムのタイトルは[モンキーズ](https://ja.wikipedia.org/wiki/モンキーズ "wikilink")が出演した映画「HEAD」に由来するという。本アルバムの発売後にフリッパーズ・ギターは解散した。制作当時の最新の洋楽の流行を反映させて作られたこの作品は、後のJ-POPの流れを大きく変える切っ掛けとなった。
+
+初回限定盤には虫眼鏡2個を利用した、「飛び出すフリッパーズ」が封入されている（「世界塔よ永遠に」には曲中でそれについても触れられている）。
+
+前2作は紙ジャケット仕様、[SHM-CD](https://ja.wikipedia.org/wiki/SHM-CD "wikilink")として２回再発されているが、本作のみ再発されていない。一説にはこのアルバムは無許可サンプリングが全編にわたって使用されていることから、権利関係の処理が非常に困難なため再発不可能であると言われている。
+
+## 収録曲
+
+  -
+    全作詞・作曲：Double K.O. Corp.（実際の作詞は、全曲 小沢健二。作曲は、全曲二人の共作\[1\]。）
+
+<!-- end list -->
+
+1.  **DOLPHIN SONG/ドルフィン・ソング** <span style="font-size:90%;">5:16</span>
+      -
+        [バッファロー・スプリングフィールド](https://ja.wikipedia.org/wiki/バッファロー・スプリングフィールド "wikilink")の「[Broken Arrow](https://ja.wikipedia.org/wiki/バッファロー・スプリングフィールド・アゲイン "wikilink")」を引用している他、[ビーチ・ボーイズの](../Page/ザ・ビーチ・ボーイズ.md "wikilink")「[God Only Knows](https://ja.wikipedia.org/wiki/神のみぞ知る "wikilink")」がサンプリングされている。
+        「星の彼方へ」のカップリング曲。このシングルは配信されているがカップリングであるこちらは削除されている。
+2.  **[GROOVE TUBE](https://ja.wikipedia.org/wiki/GROOVE_TUBE "wikilink")/グルーヴ・チューブ** <span style="font-size:90%;">5:36</span>
+      -
+        5thシングル。[マツダ・ファミリア](../Page/マツダ・ファミリア.md "wikilink")CM曲。カヴァーもされた後期の代表曲。
+3.  **AQUAMARINE/アクアマリン** <span style="font-size:90%;">6:19</span>
+4.  **GOING ZERO/ゴーイング・ゼロ** <span style="font-size:90%;">5:53</span>
+5.  **(SPEND BUBBLE HOUR IN YOUR) SLEEP MACHINE/スリープ・マシーン** <span style="font-size:90%;">5:20</span>
+6.  **WINNIE-THE-POOH MUGCUP COLLECTION/ウィニー・ザ・プー・マグカップ・コレクション** <span style="font-size:90%;">4:41</span>
+7.  **THE QUIZMASTER/奈落のクイズマスター** <span style="font-size:90%;">7:36</span>
+8.  **BLUE SHININ' QUICK STAR/星の彼方へ** <span style="font-size:90%;">5:32</span>
+      -
+        6thシングル。'91～'92[ミズノ](https://ja.wikipedia.org/wiki/ミズノ "wikilink")・スキーウェア カラーケルヴィンサーモCM曲。
+9.  **THE WORLD TOWER/世界塔よ永遠に** <span style="font-size:90%;">10:34</span>
+      -
+        バンドの終焉を象徴するような内容が特徴の大曲。1と同じ曲が逆回転でサンプリングされている。
+
+## クレジット
+
+  - All SONGS AND PRODUCTION BY DOUBLE K.O. CORP.
+  - PERFORMED BY FLIPPER'S GUITAR; [KEIGO OYAMADA](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink") (vo,g) and [KENJI OZAWA](../Page/小沢健二.md "wikilink") (g,vo)
+  - MIXING ENGINEER : ZIN YOSHIDA
+  - Thanks to the musicians involved in the recording; Mecken ([b](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")-2,7), [Mishio Ogawa](../Page/小川美潮.md "wikilink") (vo-2), Bakabon Suzuki (b-1,5,6,8), Yuji Okiyama (b-4,9), [Hirofumi Asamoto](https://ja.wikipedia.org/wiki/朝本浩文 "wikilink") (organ-4, rhodes piano-1), [Daisaku Kume](https://ja.wikipedia.org/wiki/久米大作 "wikilink") ([p](../Page/ピアノ.md "wikilink")-2), Yasumi maeda and Rie Inoue (vo.-7,9) and Hitomi Takenaka (vo.-3,6)
+  - recorded by Tohru Takayama
+  - produced by Double Knockout Corporation, [Zin Yoshida](https://ja.wikipedia.org/wiki/SALON_MUSIC "wikilink") and [Kenichi Makimura](https://ja.wikipedia.org/wiki/牧村憲一 "wikilink")
+  - \[production staff\]
+  - sound recording director: Ichiro Oka
+  - associate recording engineers: Hiroki Miyahara, Shogo Takeda, Shinichi Ishizuka, Yoshiki Fukushima, Masao Saotome, Yoshinori Kaji, Yoshinori Sakuma, Hiroshi Uemura, Tetsuya Ishikawa, Hajime Nagai
+  - recorded, mixed and mastered at Music Inn, Victor Studio, Tokyufun, Studio A, Bay Bridge Studio, Kim Studio, Zero Studio, Studio Z'd
+  - art director: [Mitsuo Shindo](https://ja.wikipedia.org/wiki/信藤三雄 "wikilink")
+  - associates & set makers: Satoshi Nakamura & Kohichi Fujikawa for Comtemporary Production
+  - director of photography: Kenji Miura
+  - associates: Masashi Maruyama & Masashi Nomura for Lightsome
+  - set decorations & costumes: Ayumi Shino
+  - associate: Yukiko Takeuchi
+  - hair styling & make-up: Akemi Nakano
+  - associate: Mika Kanzaki
+  - photo-duplication: Kiyonori Okuyama
+  - supervisor of stereo photography: Hiroji Tanaka
+  - co-ordinator of special package: Makoto Kasaki
+  - thanks to [Yasuyuki Yamaguchi](https://ja.wikipedia.org/wiki/山口保幸 "wikilink"), Masanori Matsuoka, Osamu Takahashi & shooting crew for video clips / Yohko Shindo, Akiko Endo for sleeve production / Takuro Kawanabe, Ryuji Nakazawa for booking co-ordination / many others staff of the recording company Kentaro Hattori, V.J.K.Sakuragi, Yuki Morishita, Kohei Shibata
+  - executive producer: Ken Hosokawa
+  - Mishio Ogawa by the courtesy of [Epic/Sony Records](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")
+  - Yuji Okiyama by the courtesy of [PONY CANYON INC.](../Page/ポニーキャニオン.md "wikilink")
+  - Hitomi Takenaka by the courtesy of ZaZa / [ALFA RECORDS,INC.](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")
+  - \[management\]
+  - T.K.O.corporation: Kenichi Okeda & Mami Kawaguchi
+
+## 脚注
+
+## 外部リンク
+
+  - [The Flipper's Guitar "Dr. Head's World Tower"（ヘッド博士の世界塔）](http://freett.com/fizzpop/music/90s/drhead.html) ※サンプリング使用楽曲の解説。
+
+[Category:フリッパーズ・ギターのアルバム](https://ja.wikipedia.org/wiki/Category:フリッパーズ・ギターのアルバム "wikilink") [Category:1991年のアルバム](https://ja.wikipedia.org/wiki/Category:1991年のアルバム "wikilink") [Category:ポリスターのアルバム](https://ja.wikipedia.org/wiki/Category:ポリスターのアルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+
+1.

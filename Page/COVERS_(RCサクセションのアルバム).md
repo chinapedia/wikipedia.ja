@@ -1,0 +1,132 @@
+> この記事は[COVERS \(RC\)](https://ja.wikipedia.org/wiki/COVERS_\(RC\))から翻訳されています。
+
+
+『**COVERS**』（カバーズ）は、[RCサクセション](https://ja.wikipedia.org/wiki/RCサクセション "wikilink")が[1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年）[8月15日](../Page/8月15日.md "wikilink")に発表したカヴァー[アルバム](../Page/アルバム.md "wikilink")である。
+
+## 解説
+
+[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")のカバーアルバムとして釘打たれ、全曲、洋楽のヒット曲に[日本語](../Page/日本語.md "wikilink")詞をつけた内容。ゲストとして[山口冨士夫](https://ja.wikipedia.org/wiki/山口冨士夫 "wikilink")、[三浦友和](../Page/三浦友和.md "wikilink")、[泉谷しげる](../Page/泉谷しげる.md "wikilink")、更に桑竹居助の[偽名](https://ja.wikipedia.org/wiki/偽名 "wikilink")にて[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")らが参加している。
+
+本来は、所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")の東芝EMI（現・[ユニバーサルミュージック EMIレコーズ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）から1988年[8月6日](../Page/8月6日.md "wikilink")（[広島平和記念日](https://ja.wikipedia.org/wiki/広島市への原子爆弾投下 "wikilink")）に発売される予定だった。しかし、「ラヴ・ミー・テンダー」と「[サマータイム・ブルース](https://ja.wikipedia.org/wiki/サマータイム・ブルース_\(エディ・コクランの曲\) "wikilink")」で[核問題と](https://ja.wikipedia.org/wiki/核兵器 "wikilink")[原子力発電](https://ja.wikipedia.org/wiki/原子力発電 "wikilink")の問題が歌われており、特に後者は日本の[原子炉](../Page/原子炉.md "wikilink")サプライヤーでもある親会社の[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")からの圧力がかかった\[1\]\[2\]。先行シングル「ラヴ・ミー・テンダー」（6月25日発売予定）ともども、「素晴らしすぎて発売できません」という新聞広告（1988年[6月22日](../Page/6月22日.md "wikilink")付全国紙）と共に発売中止となる。
+
+この発売中止事件の真相は、後に明かされたところによると以下のとおり。[FM大阪で当時](../Page/エフエム大阪.md "wikilink")[忌野清志郎](https://ja.wikipedia.org/wiki/忌野清志郎 "wikilink")が担当していた番組「夜をぶっ飛ばせ」\[3\]のスタッフ慰労会が催された1988年[6月9日](../Page/6月9日.md "wikilink")の夜、忌野は同会には参加せず当時の東芝EMIの邦楽最高責任者、[石坂敬一](https://ja.wikipedia.org/wiki/石坂敬一 "wikilink")統括本部長に呼び出されていた。その場で、『カバーズ』の発表を見合わせたい、もしくは「ラヴ・ミー・テンダー」「サマータイム・ブルース」「マネー」「シークレット・エージェント・マン」の4曲をカットすれば発売してもいいという申し出を受けていた。
+
+元々[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")末の時点では、3枚組という構想にまで達していた『カバーズ』は、それまでに既に11曲にダウン・サイジングされており、さらにそこから4曲をカットし、わずか7曲のミニアルバムにしろとの話であった。「ロックの東芝だからこそメッセージ色の濃い作品を出すべきだ」と主張する忌野と石坂の話し合いは平行線を辿る。交渉は翌日も続き、東芝EMIでも再度会議が行われたが、結局東芝内での決定は覆らず、アルバム発売の中止が正式に決定する。
+
+これを聞き呆れ、怒った忌野が訴えた「素晴らしすぎて出せないっていうんだったら、それを新聞に出してくれ」との言葉のみが受け入れられ、上述の新聞広告掲載となり、同時にアルバム発売の中止が決定した\[4\]。当時東芝EMIの社長は東芝本社からの[天下り](../Page/天下り.md "wikilink")だった。石坂は忌野との関係破綻を憂えて再考を求めたが、社長から「（絶縁されるならそれはそれで）止むを得ませんね」と返されたという\[5\]\[6\]。
+
+だが、本作を望むファンの声が高まり、また[マスメディア](../Page/マスメディア.md "wikilink")に取り上げられたことで、世論の後押しや石坂が他のレコード会社からの発売を働きかけた事\[7\]もあり、シングル・アルバム共に、RCサクセション（以下、RCと略す）の古巣[キティレコード](https://ja.wikipedia.org/wiki/キティレコード "wikilink")（現・[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）から[8月15日](../Page/8月15日.md "wikilink")（[終戦記念日](../Page/終戦の日.md "wikilink")）に発売が実現した（皮肉にも後に石坂はユニバーサルミュージックの代表取締役に就任し、同社に移籍した忌野のアルバムを発売中止にしている）\[8\]。
+
+後年になって石坂はこの騒動について「資本主義社会のルールでは、大株主である東芝の進言を無視するようなことはできない。そういう意味では、私は間違ってないんです。『出す』と言った清志郎も間違ってない」という見解を述べている\[9\]。
+
+発売中止騒動や過激な内容の話題性から、シングル・アルバム通じてRC初の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得。RC唯一のオリコン1位獲得作品である。
+
+## 収録曲およびゲスト参加者
+
+1.  **[明日なき世界](https://ja.wikipedia.org/wiki/明日なき世界 "wikilink")** ('')
+      -
+        オリジナルは[バリー・マクガイア](https://ja.wikipedia.org/wiki/バリー・マクガイア "wikilink")。日本でも[高石ともや](https://ja.wikipedia.org/wiki/高石ともや "wikilink")が日本語詞を付けてカバーしており、本作の歌詞は高石の訳詞版がベースとなっている。[金子マリ](https://ja.wikipedia.org/wiki/金子マリ "wikilink")、[ジョニー・サンダース](https://ja.wikipedia.org/wiki/ジョニー・サンダース "wikilink")がゲスト参加。
+2.  **[風に吹かれて](https://ja.wikipedia.org/wiki/風に吹かれて_\(ボブ・ディランの曲\) "wikilink")** ()
+      -
+        オリジナルは[ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink")。[山口冨士夫](https://ja.wikipedia.org/wiki/山口冨士夫 "wikilink")、[高井麻巳子](https://ja.wikipedia.org/wiki/高井麻巳子 "wikilink")がゲスト参加。
+3.  **[バラバラ](https://ja.wikipedia.org/wiki/バラ・バラ "wikilink")** ()
+      -
+        オリジナルは[レインボウズ](https://ja.wikipedia.org/wiki/レインボウズ_\(バンド\) "wikilink")。山口冨士夫、[三浦友和](../Page/三浦友和.md "wikilink")、Isuke Kuwatakeがゲスト参加。
+4.  **シークレット・エージェント・マン** ()
+      -
+        オリジナルは[ジョニー・リヴァース](https://ja.wikipedia.org/wiki/ジョニー・リヴァース "wikilink")。[坂本冬美](https://ja.wikipedia.org/wiki/坂本冬美 "wikilink")、ジョニー・サンダースがゲスト参加。曲の冒頭に、[大韓航空機爆破事件](../Page/大韓航空機爆破事件.md "wikilink")の実行犯の1人である『[金賢姫](../Page/金賢姫.md "wikilink")』の音声が収録されている。
+5.  **[ラヴ・ミー・テンダー](https://ja.wikipedia.org/wiki/ラヴ・ミー・テンダー_\(エルヴィス・プレスリーの曲\) "wikilink")** ()
+      -
+        オリジナルは[エルヴィス・プレスリー](../Page/エルヴィス・プレスリー.md "wikilink")。更にその原曲はアメリカ民謡の「[オーラ・リー](https://ja.wikipedia.org/wiki/オーラ・リー "wikilink")」であり、本作はカバーのカバーとなる。
+6.  **[黒くぬれ\!](https://ja.wikipedia.org/wiki/黒くぬれ! "wikilink")** ()
+      -
+        オリジナルは[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")。山口冨士夫、[ちわきまゆみ](https://ja.wikipedia.org/wiki/ちわきまゆみ "wikilink")、三浦友和がゲスト参加。
+7.  **[サマータイム・ブルース](https://ja.wikipedia.org/wiki/サマータイム・ブルース_\(エディ・コクランの曲\) "wikilink")** ()
+      -
+        オリジナルは[エディ・コクラン](https://ja.wikipedia.org/wiki/エディ・コクラン "wikilink")。高井麻巳子、三浦友和、[泉谷しげる](../Page/泉谷しげる.md "wikilink")がゲスト参加。歌詞の中で言及されているとおり、発表された[1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年）当時の『[日本の原子力発電所](https://ja.wikipedia.org/wiki/日本の原子力発電所 "wikilink")における[原子炉](../Page/原子炉.md "wikilink")』は37基であった。[ソビエト社会主義共和国連邦](https://ja.wikipedia.org/wiki/ソビエト社会主義共和国連邦 "wikilink")で起きた「[チェルノブイリ原子力発電所事故](https://ja.wikipedia.org/wiki/チェルノブイリ原子力発電所事故 "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）」の後で、原子力発電所の安全神話「日本の原発は安全です」の[広告](../Page/広告.md "wikilink")やPR活動を痛烈に皮肉っている。泉谷はこの楽曲に参加はしたものの、この作品の表現に、当時はある程度の違和感があったことを後に述べている\[10\]。
+8.  **[マネー](https://ja.wikipedia.org/wiki/マネー "wikilink")** ()
+      -
+        オリジナルは[バレット・ストロング](https://ja.wikipedia.org/wiki/バレット・ストロング "wikilink")。[ビートルズ](https://ja.wikipedia.org/wiki/ビートルズ "wikilink")・ローリングストーンズによるカバーで有名。山口冨士夫、三浦友和がゲスト参加。
+9.  **[サン・トワ・マミー](https://ja.wikipedia.org/wiki/サン・トワ・マミー "wikilink")** ()
+      -
+        オリジナルは[アダモ](https://ja.wikipedia.org/wiki/サルヴァトール・アダモ "wikilink")。日本でも[岩谷時子](https://ja.wikipedia.org/wiki/岩谷時子 "wikilink")による訳詞版で[越路吹雪](../Page/越路吹雪.md "wikilink")が歌唱したものが有名で、忌野は岩谷による訳詞版の2コーラス目を改作。[山下洋輔](https://ja.wikipedia.org/wiki/山下洋輔 "wikilink")、Isuke Kuwatakeがゲスト参加。
+        [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[やっぱり猫が好き](https://ja.wikipedia.org/wiki/やっぱり猫が好き "wikilink")』エンディングテーマ。[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")企業CM（ルマン参戦キャンペーン）。
+10. **悪い星の下に** ()
+      -
+        オリジナルは[アルバート・キング](../Page/アルバート・キング.md "wikilink")。山口冨士夫がゲスト参加。
+11. **[イマジン](https://ja.wikipedia.org/wiki/イマジン_\(ジョン・レノンの曲\) "wikilink")** ()
+      -
+        オリジナルは[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")。ちわきまゆみ、三浦友和がゲスト参加。
+
+### 参加できなかった・別名で参加したミュージシャン
+
+  - [坂本龍一](../Page/坂本龍一.md "wikilink") - 忌野から参加を打診されたが都合により辞退。
+  - [田原俊彦](../Page/田原俊彦.md "wikilink") - 参加予定も日程が折り合わず涙を呑む。
+  - [渡辺美里](../Page/渡辺美里.md "wikilink") - 参加予定も録音当日にドタキャン。
+  - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink") - レコード会社の問題によりIsuke Kuwatake名義にて上記楽曲に参加。
+
+## 日本語詞について
+
+忌野は、「ラヴ・ミー・テンダー」の訳詞について、「チャボ（[仲井戸麗市](https://ja.wikipedia.org/wiki/仲井戸麗市 "wikilink")）にはブラックな感じで受けていた」と述懐している。もっとも、忌野は以前から原発に対する問題意識は持っており、RCの前作『MARVY』に、核問題を隠喩した「SHELTER OF LOVE（ツル・ツル）」という曲を収録している。
+
+また、全部の曲が時事ネタ・プロテストソングではなく、原曲のイメージを大事にしたものから、言葉遊びそのものの「バラバラ」まで、バラエティに富んだ内容となっており、当初本人たちは「素直に楽しめる面白い作品になった」と感じていたという。
+
+「シークレット・エージェント・マン」は、[金賢姫](../Page/金賢姫.md "wikilink")と[大韓航空機爆破事件](../Page/大韓航空機爆破事件.md "wikilink")をテーマにした、ある意味「ラヴ・ミー・テンダー」や「サマータイム・ブルース」以上に危ない[日本語](../Page/日本語.md "wikilink")詞である。（同曲中には、金賢姫の[記者会見](https://ja.wikipedia.org/wiki/記者会見 "wikilink")での本物の音声が使用されているが、この件に関しては事前に[外務省](../Page/外務省.md "wikilink")の了承を得ている。）
+
+ちなみに、三浦友和は「[ドック・オブ・ザ・ベイ](https://ja.wikipedia.org/wiki/ドック・オブ・ザ・ベイ "wikilink")」の訳詞を勝手に考えてきたが採用されなかった。
+
+## その後
+
+RCは、『カバーズ』発売中止に対する怒りを込めたライヴ盤『コブラの悩み』を、[1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年）[12月16日](../Page/12月16日.md "wikilink")に発表。また、忌野によく似た人物が率いる覆面バンド、[ザ・タイマーズ](https://ja.wikipedia.org/wiki/ザ・タイマーズ "wikilink")の『[THE TIMERS](https://ja.wikipedia.org/wiki/TIMERS_\(アルバム\) "wikilink")』（[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[10月11日](../Page/10月11日.md "wikilink")発表）には、反核をテーマにした「」が収録されている。何故か、これら2枚のアルバムは問題なく東芝EMIから発売された。また、ザ・タイマーズは本件に対する皮肉が込められた「原発賛成音頭」も発表しているが、スタジオ音源としてはアルバムに収録されていない（2016年発売の『THE TIMERS スペシャル・エディション』のDVDにライブ映像として収録された）。
+
+なお、ライブでは「君はを聴いたか？」という一連の騒動に対する[アンサーソング](https://ja.wikipedia.org/wiki/アンサーソング "wikilink")を披露している。内容の詳細は[RCサクセション](https://ja.wikipedia.org/wiki/RCサクセション "wikilink")の項を参照。
+
+忌野の死去から2年後の、[2011年](../Page/2011年.md "wikilink")（[平成](../Page/平成.md "wikilink")23年）[3月11日](../Page/3月11日.md "wikilink")に発生した、[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）に伴う、[東京電力](https://ja.wikipedia.org/wiki/東京電力 "wikilink")[福島第一原子力発電所](https://ja.wikipedia.org/wiki/福島第一原子力発電所 "wikilink")で起きた[福島第一原子力発電所事故](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")の際には、[原子力発電所](https://ja.wikipedia.org/wiki/原子力発電所 "wikilink")批判を題材としている、本アルバムの収録曲「サマータイム・ブルース」が[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")上で注目を集め\[11\]\[12\]、[ラジオ番組](../Page/ラジオ番組.md "wikilink")への[リクエスト](https://ja.wikipedia.org/wiki/リクエスト "wikilink")が数多く寄せられたほか\[13\]、[Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink")の音楽部門で上位にランクインするなど、20年以上前に発売されたCDアルバムとしては、異例の売り上げがあったという\[14\]。[ピーター・バラカン](https://ja.wikipedia.org/wiki/ピーター・バラカン "wikilink")は同年[4月1日](../Page/4月1日.md "wikilink")、自身が担当する[InterFM](../Page/InterFM.md "wikilink")「[BARAKAN MORNING](https://ja.wikipedia.org/wiki/BARAKAN_MORNING "wikilink")」で「[キヨシローは声があまり好きじゃないが](https://ja.wikipedia.org/wiki/忌野清志郎 "wikilink")、多数のリクエストがあったのと、今こそその時ではないかと考えて『ラヴ・ミー・テンダー』を掛けようとしたら局に止められた」と明言。当日の番組を「ではまた来週。僕の[クビがつながっていればの話だけど](https://ja.wikipedia.org/wiki/解雇 "wikilink")」と締めた。週が明けて5日、変わらず出演したが、今度はやはりリクエストの多かった『サマータイム・ブルース』に続いて『』『』（直訳では“本当のことを言って” “あなたはウソばかり”）を放送した\[15\]。
+
+当アルバムにゲストとして参加した桑田佳祐は[福島第一原子力発電所事故](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")発生後、自身のラジオ番組「[やさしい夜遊び](../Page/桑田佳祐のやさしい夜遊び.md "wikilink")」で「ラヴ・ミー・テンダー」「サマータイム・ブルース」について発売当時は原子力発電への関心がなく「イタいというか面倒くさい話をしているな」と思っていたことを明かし、その事への反省と後悔の弁も同時に述べた\[16\]。2011年6月25日放送の同番組「33回目のデビュー記念日に、勝手にひとりで生歌スペシャル」では「[グッバイ・ワルツ](https://ja.wikipedia.org/wiki/MUSICMAN_\(桑田佳祐のアルバム\) "wikilink")」の歌詞を、原子力発電についての問題点や原発に対する世論の変化を問う内容に改作している。桑田は『[ROCKIN'ON JAPAN](../Page/ROCKIN'ON_JAPAN.md "wikilink")』2015年4月号で「『原発反対、原発反対』ばっかりリピートするのが果たしてポップミュージックなのかどうかね。だからそのへんのバランスはやっぱり取るべきじゃないかな」といった持論を述べ、インタビュアーを務めた[渋谷陽一](https://ja.wikipedia.org/wiki/渋谷陽一 "wikilink")が「自分の言葉のメッセージで社会を変えよう、政治に物申すっていうのではなくて、桑田佳祐も清志郎も、歌にした動機はひとつ、歌いたいからだったと思うんですよね」「『女とヤリたい』って歌いたい人もいるだろうし、『空はきれいだ』と歌いたい人もいるだろうし、でも桑田佳祐は『[ピースとハイライト](https://ja.wikipedia.org/wiki/ピースとハイライト "wikilink")』とどうしても歌いたかった。清志郎は『原発の発電所の中で眠りたい』\[17\]ってどうしても歌いたかった。で、問題はただひとつ、その歌がかっこいいかかっこ悪いか、それだけで」と述べると、桑田も「だからその、押しつけがましい事をしてるわけじゃないんでしょうね。清志郎さんも」「だから清志郎さんも意味合いだけじゃなくて衝動だったんだろうね。思想だけじゃなくてね。だから悲しみを叫びたかったのかもしれないし」と渋谷の意見に賛同した\[18\]。
+
+## 脚注
+
+### 注釈
+
+<references group="注" />
+
+### 出典
+
+<references />
+
+## 主な文献
+
+  - 生卵（忌野清志郎デビュー25周年記念）
+  - GOTTA\!忌野清志郎（忌野清志郎伝）
+  - 遊びじゃないんだっ\!（RCサクセション20周年記念）
+  - 瀕死の双六問屋（忌野によるエッセイ集）
+  - 月刊カドカワ・92年3月号「総力特集 清志郎の遺言」
+  - 別冊宝島 音楽誌が書かないJポップ批評 忌野清志郎のブルースを捜して
+
+ほか
+
+## 外部リンク
+
+  - [COVERS【SHM-CD】](http://www.universal-music.co.jp/rc-succession/products/upcy-6510/) - [UNIVERSAL MUSIC](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")
+
+[Category:RCサクセションのアルバム](https://ja.wikipedia.org/wiki/Category:RCサクセションのアルバム "wikilink") [Category:1988年のカバー・アルバム](https://ja.wikipedia.org/wiki/Category:1988年のカバー・アルバム "wikilink") [Category:キティレコードのアルバム](https://ja.wikipedia.org/wiki/Category:キティレコードのアルバム "wikilink") [Category:1988年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1988年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:日本の原子力関連作品](https://ja.wikipedia.org/wiki/Category:日本の原子力関連作品 "wikilink") [Category:東芝の歴史](https://ja.wikipedia.org/wiki/Category:東芝の歴史 "wikilink")
+
+1.
+2.
+3.  『忌野清志郎の夜をぶっ飛ばせ』 1987年11月6日 - 1988年12月30日放送。
+4.  別冊宝島　音楽誌が書かないJポップ批評　忌野清志郎のブルースを捜して
+5.
+6.  東芝EMIは「東芝音楽工業」時代にも、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")の「[パワー・トゥ・ザ・ピープル](https://ja.wikipedia.org/wiki/パワー・トゥ・ザ・ピープル "wikilink")」の邦題を、親会社に配慮し「人々に勇気を」に改めさせている（正しくは「**人民に力を**」）
+7.  [偉大なるミュージックマン、石坂敬一さんを悼む ～忌野清志郎と対峙した『COVERS』をめぐって～](https://entertainmentstation.jp/62665) - [es エンタメステーション](https://entertainmentstation.jp/)
+8.  現在は、キティレコードが吸収されたユニバーサルJから再発CDが発売されており、キティレコードから発売されたオリジナル盤はすべては廃盤である。
+9.
+10. 「ラストデイズ 忌野清志郎 [太田光](../Page/太田光.md "wikilink")と巡るCOVERSの日々」　NHK「ラストデイズ」取材班 パルコ　2015年
+11.
+12.
+13.
+14.
+15.
+16. TOKYO FM「[桑田佳祐のやさしい夜遊び](../Page/桑田佳祐のやさしい夜遊び.md "wikilink")」[2011年](../Page/2011年.md "wikilink")8月13日放送分より。
+17. ライヴ盤『コブラの悩み』に収録されている「軽薄なジャーナリスト」のフレーズ。
+18. 『ROCKIN'ON JAPAN』2015年4月号（29巻5号、通巻450号）、ロッキング・オン、2015年、 54-55頁

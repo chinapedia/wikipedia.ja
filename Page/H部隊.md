@@ -1,0 +1,144 @@
+> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+
+
+**H部隊**（Hぶたい 英：Force H）は、[イギリス海軍](../Page/イギリス海軍.md "wikilink")が[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に編成した[任務部隊](https://ja.wikipedia.org/wiki/任務部隊 "wikilink")の一つ。ただし、H部隊それ自体が「任務部隊（Task Force）」と呼称されていたわけではない。[1940年](../Page/1940年.md "wikilink")に[イタリア](../Page/イタリア.md "wikilink")が[枢軸国](../Page/枢軸国.md "wikilink")側として参戦し、[地中海](../Page/地中海.md "wikilink")の中央部を抑えられてしまった事により、地中海西部の海軍力の空白を埋める為に編成された。[地中海艦隊の主力は](../Page/地中海艦隊_\(イギリス\).md "wikilink")[エジプト](../Page/エジプト.md "wikilink")の[アレクサンドリア](../Page/アレクサンドリア.md "wikilink")にあり、終戦まで地中海東部の制海権を確保している。イタリアの降伏まで地中海西部をH部隊が、東部を地中海艦隊が活動する事になる。
+
+H部隊はイギリス海軍の指揮系統において一風変わった位置にあった。通常のイギリス海軍部隊のあり方から考えると、[ジブラルタル](../Page/ジブラルタル.md "wikilink")を基地とするH部隊は、その地域を管轄するジブラルタルの司令（北大西洋戦域司令官、Flag Officer North Atlantic）を間に挟んで、[第一海軍卿](../Page/第一海軍卿.md "wikilink")の指揮下におかれることとなる。しかし実際のところH部隊は間に誰も通さず、第一海軍卿の直接指揮下におかれていた。
+
+## カタパルト作戦
+
+H部隊の最初の作戦は、H部隊が編成された理由と深く関わるものであった。イギリス首脳部は、地中海に残存している[フランス艦隊は地中海におけるイギリスの権益にとって脅威であるとみなしていた](https://ja.wikipedia.org/wiki/フランス海軍 "wikilink")。独仏の休戦条約上では、フランスは自らの艦艇を引き続き保有することになっていたが、もし[ヴィシー政権](../Page/ヴィシー政権.md "wikilink")がフランス艦艇を[ドイツに引き渡せば](../Page/ナチス・ドイツ.md "wikilink")、地中海の戦力バランスはイギリスにとって決定的に不利になる。結果として、H部隊は、[カタパルト作戦を実行するよう命令を受けることとなった](https://ja.wikipedia.org/wiki/メルセルケビール海戦 "wikilink")。
+
+残存フランス海軍部隊のうち、もっとも強力な部隊は[アルジェリア](../Page/アルジェリア.md "wikilink")の[メルセルケビール](https://ja.wikipedia.org/wiki/メルセルケビール "wikilink")港に在泊していた。この部隊は、フランス艦隊のなかでもっとも新しくかつ強力な艦艇である[高速戦艦](https://ja.wikipedia.org/wiki/戦艦 "wikilink")[ストラスブール](https://ja.wikipedia.org/wiki/ストラスブール_\(戦艦\) "wikilink")、[ダンケルク](https://ja.wikipedia.org/wiki/ダンケルク_\(戦艦\) "wikilink")2隻と、旧式ながらよく整備された[超弩級戦艦](../Page/超弩級戦艦.md "wikilink")2隻、およびその護衛に当たる艦艇からなっていた。H部隊はアルジェリア沿岸に進出し、フランス艦隊司令官のもとへ交渉団を送った。交渉団はフランス艦隊に対し、中立国で抑留されるか、イギリスとともにドイツと戦うか、このまま泊地で自沈するか、など様々な提案を行った。しかし、交渉に当たったフランス軍指揮官は上層部に対して自沈案のみを報告したため、イギリスと交戦するように命令を受けることとなった。フランス側は交渉役のホランド大佐に対し、「フランス艦艇がドイツ・イタリアの手に渡る事が無いことを保障すること、さらにフランス海軍は不当な攻撃には武力を持って反撃をする用意があること」を申し入れ、明確な回答を避けた。これに対し、イギリス側はフランス側の明確な約束のないのを口実として、12時30分に[空母](../Page/航空母艦.md "wikilink")[アーク・ロイヤルの](https://ja.wikipedia.org/wiki/アーク・ロイヤル_\(空母・初代\) "wikilink")[ソードフィッシュ](https://ja.wikipedia.org/wiki/フェアリー_ソードフィッシュ "wikilink")[艦上雷撃機による湾口への磁気](../Page/艦上攻撃機.md "wikilink")[機雷](https://ja.wikipedia.org/wiki/機雷 "wikilink")の散布を実行し、フランス艦隊が退避できないようにした。交渉決裂の原因はフランス軍の指揮官の反英感情と共にH部隊の司令官の好交戦欲にあるのではないかと欧州では考えられることが多い。
+
+戦闘の結果、残存のストラスブールと駆逐艦4隻が地中海の軍港[ツーロンに脱出したが](https://ja.wikipedia.org/wiki/トゥーロン "wikilink")、そのために多くの犠牲を払うこととなった。イギリス艦隊の砲火によって旧式戦艦[ブルターニュは爆沈](https://ja.wikipedia.org/wiki/ブルターニュ_\(戦艦\) "wikilink")、1,000人以上の将兵が戦死した。旧式戦艦[プロヴァンスは大破](https://ja.wikipedia.org/wiki/プロヴァンス_\(戦艦\) "wikilink")、ダンケルクも被弾したが、後に修理を受けてツーロンに移動したために結局無力化出来た戦艦は1隻のみであった上に、フランス国民の反英感情を煽り、ヴィシー政権が[枢軸陣営に入って](../Page/枢軸国.md "wikilink")[連合軍の脅威となりかねない危険性を残しただけであった](../Page/連合国_\(第二次世界大戦\).md "wikilink")。
+
+## マルタ輸送船団護衛作戦
+
+この喜ばしからざる作戦の後、H部隊は通常の任務に携わることになり、西部地中海での様々な作戦に参加した。それらのなかで特筆すべき作戦は、[マルタ島](../Page/マルタ島.md "wikilink")[輸送船団の護衛作戦である](https://ja.wikipedia.org/wiki/護送船団 "wikilink")。マルタ行きの早期の船団は比較的軽微な損害を出すにとどまっていた。しかし1941年に、ドイツが[シチリア](https://ja.wikipedia.org/wiki/シチリア "wikilink")島に[ドイツ空軍第](https://ja.wikipedia.org/wiki/ドイツ空軍_\(国防軍\) "wikilink")10航空軍団を配備してからは恐るべき犠牲を軍艦や商船にもたらしたのである。
+
+## ビスマルクの撃沈
+
+1941年にH部隊が関わった戦いのうち、もっとも有名なものは、H部隊の主戦場である地中海ではなく[大西洋](../Page/大西洋.md "wikilink")で発生した。5月18日、ドイツの戦艦[ビスマルクは](../Page/ビスマルク_\(戦艦\).md "wikilink")[通商破壊](../Page/通商破壊.md "wikilink")を行うため、重巡洋艦[プリンツ・オイゲンを伴って大西洋へ出発した](https://ja.wikipedia.org/wiki/プリンツ・オイゲン_\(重巡洋艦\) "wikilink")。ビスマルクは[アイスランド](https://ja.wikipedia.org/wiki/アイスランド "wikilink")と[グリーンランド](https://ja.wikipedia.org/wiki/グリーンランド "wikilink")の間の[デンマーク海峡](https://ja.wikipedia.org/wiki/デンマーク海峡 "wikilink")を抜け、イギリス北方を迂回しようとしていた。そこでビスマルクは、新鋭戦艦[プリンス・オブ・ウェールズと旧型の](../Page/プリンス・オブ・ウェールズ_\(戦艦\).md "wikilink")[巡洋戦艦](../Page/巡洋戦艦.md "wikilink")[フッドを主力とする強力なイギリス海軍部隊の迎撃を受けた](https://ja.wikipedia.org/wiki/フッド_\(巡洋戦艦\) "wikilink")。[この交戦はイギリス海軍にとって災厄であった](https://ja.wikipedia.org/wiki/デンマーク海峡海戦 "wikilink")。プリンス・オブ・ウェールズは被弾して中破、フッドは爆沈し、約1,400名の乗組員のうち3名のみが生き残った。
+
+いまや、投入可能なすべてのイギリス海軍艦艇にビスマルク撃沈の命令が下されることとなった。H部隊も迎撃のため、ジブラルタルから出港した。その主力は航空母艦[アークロイヤル](https://ja.wikipedia.org/wiki/アーク・ロイヤル_\(空母・初代\) "wikilink")、巡洋戦艦[レナウン](https://ja.wikipedia.org/wiki/レナウン_\(巡洋戦艦\) "wikilink")、軽巡洋艦[シェフィールドである](https://ja.wikipedia.org/wiki/シェフィールド_\(軽巡洋艦\) "wikilink")。
+
+フッドを撃沈したものの、ビスマルクはデンマーク海峡での海戦を、完全に無傷で切り抜けることはできなかった。プリンス・オブ・ウェールズの砲弾がビスマルクの燃料タンクを切り裂き、燃料漏れを発生させていたのだ。このため、ビスマルクは通商破壊戦を切り上げるとともに、プリンツ・オイゲンを分派した。両艦は、別ルートでフランスの[ブレスト港へ向かうこととしたのである](https://ja.wikipedia.org/wiki/ブレスト_\(フランス\) "wikilink")。イギリス海軍は空母[ヴィクトリアスの艦載機にビスマルクを空襲をさせたが](../Page/ヴィクトリアス_\(空母\).md "wikilink")、攻撃に失敗。さらにビスマルクは一時、追尾に当たっていたイギリス艦[サフォーク](https://ja.wikipedia.org/wiki/サフォーク_\(重巡洋艦\) "wikilink")、[ノーフォークのレーダーから逃れることに成功した](https://ja.wikipedia.org/wiki/ノーフォーク_\(重巡洋艦\) "wikilink")。後に再び発見できたものの、ビスマルクを撃沈するためにはまずその足を止めることが先決であった。このため、アーク・ロイヤルも[ソードフィッシュ雷撃機による空襲を試みたが](https://ja.wikipedia.org/wiki/フェアリー_ソードフィッシュ "wikilink")、攻撃隊は目標の位置を誤認し、ビスマルクを追尾していたシェフィールドを攻撃してしまった。なお、この攻撃に用いられた[魚雷](../Page/魚雷.md "wikilink")は新式の磁気信管を使ったもので、信頼性に欠けていると考えられた。次の第2次攻撃隊は、従来型の接触信管を持つ信頼性の高い魚雷を搭載することになった。第2次攻撃隊の攻撃によりビスマルクは[舵](../Page/舵.md "wikilink")機を壊され、航行能力に大きな打撃を受けた。時に5月26日夜のことである。その後もビスマルクは触接してくるイギリス海軍の部隊と断続的に戦闘を続けた。翌朝、戦艦[キング・ジョージ5世および](../Page/キング・ジョージ5世_\(戦艦\).md "wikilink")[ロドネイを含んだイギリス艦隊が戦場に到着](https://ja.wikipedia.org/wiki/ロドネイ_\(戦艦\) "wikilink")。その攻撃により、ビスマルクは撃破され、戦闘能力を失ったため自沈した。
+
+## イギリスの苦境
+
+[Maiale.jpg](https://ja.wikipedia.org/wiki/File:Maiale.jpg "fig:Maiale.jpg") 1941年の終盤、地中海のイギリス海軍の運命はどん底にあった。[地中海艦隊では](../Page/地中海艦隊_\(イギリス\).md "wikilink")、爆撃によってすべての空母が損傷を受け作戦行動が不可能となっていた。11月25日には戦艦[バーラムをドイツ潜水艦の雷撃で失い](https://ja.wikipedia.org/wiki/バーラム_\(戦艦\) "wikilink")、戦艦[クイーン・エリザベスと](https://ja.wikipedia.org/wiki/クイーン・エリザベス_\(戦艦\) "wikilink")[ヴァリアントは](https://ja.wikipedia.org/wiki/ヴァリアント_\(戦艦\) "wikilink")、12月19日に[アレクサンドリア](../Page/アレクサンドリア.md "wikilink")港内でイタリアの[人間魚雷](https://ja.wikipedia.org/wiki/人間魚雷 "wikilink")（マイアーレ）の[攻撃を受け大破着底し](https://ja.wikipedia.org/wiki/アレクサンドリア港攻撃 "wikilink")、これらも戦列を離れることとなった。H部隊も悲劇に直面していた。11月、マルタへの航空機輸送作戦（[パーペテュアル作戦](https://ja.wikipedia.org/wiki/パーペテュアル作戦 "wikilink")）中に空母アーク・ロイヤルがドイツ潜水艦[U-81によって撃沈されたのである](https://ja.wikipedia.org/wiki/U81_\(潜水艦・2代\) "wikilink")。イギリス海軍が破滅せずに済んだのは、[イタリア海軍](https://ja.wikipedia.org/wiki/イタリア海軍 "wikilink")が積極的な攻勢に出なかったからにすぎなかった。
+
+1942年は低調のうちに幕を開けた。この年の初めに緊迫した任務となったのは、マルタ島への補給任務だった。マルタは何ヶ月にもわたって激しい攻撃に曝されており、輸送船団は僅かな隙をついて補給任務を強行できるよう厳重に護衛される必要があった。輸送が成功したとしても、マルタの状況は飢餓の一歩手前に過ぎなかった。第二次世界大戦中、もっとも厳重に護衛された船団が、この戦いの鍵となった。この、8月に行われた[ペデスタル作戦](https://ja.wikipedia.org/wiki/ペデスタル作戦 "wikilink")によって、マルタを持ち堪えていくだけの物資を運び込めたのである。
+
+## 上陸作戦の始まりとH部隊の終わり
+
+1942年の一時期、H部隊は実際には存在してはいなかった。 5月に入り、H部隊から[マダガスカル島](../Page/マダガスカル島.md "wikilink")の[ディエゴ・スアレス](https://ja.wikipedia.org/wiki/ディエゴ・スアレス "wikilink")に対する攻撃に兵力を抽出されたためである。この作戦は成功を収めたものの、重要な時期にイギリスの海軍力を無駄に使うものだという批判が多かった。
+*（[マダガスカルの戦い](https://ja.wikipedia.org/wiki/マダガスカルの戦い "wikilink")参照）*
+
+1942年11月は、戦いのターニングポイントとなる月だった。[トーチ作戦](https://ja.wikipedia.org/wiki/トーチ作戦 "wikilink")が実行され、イギリス第一軍を始めとする米英軍が、[モロッコ](../Page/モロッコ.md "wikilink")および[アルジェリア](../Page/アルジェリア.md "wikilink")に上陸した。H部隊はこの上陸部隊を援護するために動員された。上陸部隊にとっての脅威はイタリア艦隊とヴィシー・フランス軍であったが、目立った抵抗を行ったのはヴィシー・フランス軍だけであった。ヴィシー・フランス軍は[カサブランカ](../Page/カサブランカ.md "wikilink")において、上陸部隊を支援するアメリカ艦隊と砲火を交えた。
+
+この北アフリカにおける大規模な作戦の最終的な狙いは、[チュニジア](../Page/チュニジア.md "wikilink")を枢軸国の勢力圏から切り離すことであった。この狙いは最終的に達成され、25万人を超える枢軸軍兵士が連合軍第18軍集団に降伏した。25万人といえば、[スターリングラード攻防戦](../Page/スターリングラード攻防戦.md "wikilink")での降伏者数に等しい数である。H部隊はこの戦いを通して、陸上部隊に厳重な援護を提供した。
+
+さらなる2つの上陸作戦において、H部隊は上陸部隊をイタリア艦隊から守るために援護に当たった。1943年7月に行われた、[シチリア島](https://ja.wikipedia.org/wiki/シチリア島 "wikilink")攻略作戦である[ハスキー作戦](https://ja.wikipedia.org/wiki/ハスキー作戦 "wikilink")と、同年9月のイタリア本土[サレルノ](../Page/サレルノ.md "wikilink")への上陸作戦、[アヴァランチ作戦](https://ja.wikipedia.org/wiki/アヴァランチ作戦 "wikilink")がそれである。戦場が本土に移った結果、イタリア政府は降伏した。
+
+残存したイタリア艦隊は、戦艦[ローマがドイツ軍の無線](https://ja.wikipedia.org/wiki/ローマ_\(戦艦\) "wikilink")[誘導爆弾](../Page/誘導爆弾.md "wikilink")[フリッツX](https://ja.wikipedia.org/wiki/フリッツX "wikilink")の攻撃を受け艦隊司令長官とともに沈んだ（「[ヴィットリオ・ヴェネト級戦艦](https://ja.wikipedia.org/wiki/ヴィットリオ・ヴェネト級戦艦 "wikilink")」参照）他は、大部分がドイツ軍の接収を免れた。H部隊は、[サルデーニャ島](https://ja.wikipedia.org/wiki/サルデーニャ島 "wikilink")近海でイタリア艦隊と落ちあい、マルタまでこれを護衛した。[英地中海艦隊司令長官のカニンガム提督は](../Page/地中海艦隊_\(イギリス\).md "wikilink")、[海軍本部に次のような伝統的な信号を発信した](../Page/海軍本部_\(イギリス\).md "wikilink")。
+
+*"Be pleased to inform their Lordships that the Italian fleet lies under the guns of the fortress at Malta."*
+（訳注：直訳すると「イタリア艦隊がマルタの砦の砲列の下にあり、我が支配下にあることをお知らせすることを喜ばれたし」というほどの意か）
+
+イタリア艦隊の降伏によって、地中海に主力艦を含む艦隊を維持する必要はなくなった。H部隊の戦艦や航空母艦は[本国艦隊](https://ja.wikipedia.org/wiki/本国艦隊 "wikilink")や[東洋艦隊に配属替えとなり](https://ja.wikipedia.org/wiki/東洋艦隊_\(イギリス\) "wikilink")、司令部も解散した。地中海の海軍作戦は、より小型で軽快な艦艇による部隊が行うことになったのである。
+
+## 現代のH部隊
+
+現在、イギリス海軍がジブラルタルおよび西地中海に配備している艦隊は[ジブラルタル戦隊](https://ja.wikipedia.org/wiki/ジブラルタル戦隊 "wikilink")のみである。
+
+## H部隊が参加した主な作戦
+
+### 1940年
+
+  - [カタパルト作戦](https://ja.wikipedia.org/wiki/メルセルケビール海戦 "wikilink") - 7月
+  - [レバー作戦](https://ja.wikipedia.org/wiki/レバー作戦 "wikilink") - 7月
+  - [ハリー作戦](https://ja.wikipedia.org/wiki/ハリー作戦 "wikilink")、クラッシュ作戦 - 7月、8月
+  - [ハッツ作戦](https://ja.wikipedia.org/wiki/ハッツ作戦 "wikilink")、スマッシュ作戦、グラブ作戦 - 8月、9月
+  - [コート作戦、クラック作戦](../Page/MB8作戦.md "wikilink") - 11月
+  - [ホワイト作戦](https://ja.wikipedia.org/wiki/ホワイト作戦 "wikilink") - 11月
+  - [カラー作戦](https://ja.wikipedia.org/wiki/MB9作戦 "wikilink") - 11月。11月27日に[スパルティヴェント岬沖海戦](https://ja.wikipedia.org/wiki/スパルティヴェント岬沖海戦 "wikilink")が発生。
+  - [ハイド作戦](https://ja.wikipedia.org/wiki/ハイド作戦 "wikilink") - 12月。
+
+### 1941年
+
+  - [エクセス作戦](https://ja.wikipedia.org/wiki/エクセス作戦 "wikilink") - 1月
+  - [ピケット作戦](https://ja.wikipedia.org/wiki/ピケット作戦_\(1941年\) "wikilink") - 1月、2月
+  - [グロッグ作戦](https://ja.wikipedia.org/wiki/グロッグ作戦 "wikilink") - 2月
+  - [ウィンチ作戦](https://ja.wikipedia.org/wiki/ウィンチ作戦 "wikilink") - 4月
+  - [ダンロップ作戦、セイリエント作戦](https://ja.wikipedia.org/wiki/ダンロップ作戦とセイリエント作戦 "wikilink") - 4月
+  - [MD.4作戦](https://ja.wikipedia.org/wiki/MD.4作戦 "wikilink") - 5月
+  - [スプライス作戦](https://ja.wikipedia.org/wiki/スプライス作戦 "wikilink") - 5月
+  - [ロケット作戦](https://ja.wikipedia.org/wiki/ロケット作戦 "wikilink") - 6月
+  - [トレイサー作戦](https://ja.wikipedia.org/wiki/トレイサー作戦 "wikilink") - 6月
+  - [レイルウェイ作戦](https://ja.wikipedia.org/wiki/レイルウェイ作戦 "wikilink") - 6月、7月
+  - [サブスタンス作戦](https://ja.wikipedia.org/wiki/サブスタンス作戦 "wikilink") - 7月
+  - [スタイル作戦](https://ja.wikipedia.org/wiki/スタイル作戦 "wikilink") - 7月、8月
+  - [ミンスミート作戦](https://ja.wikipedia.org/wiki/ミンスミート作戦_\(1941年\) "wikilink") - 8月
+  - [ステイタス作戦](https://ja.wikipedia.org/wiki/ステイタス作戦 "wikilink") - 9月
+  - [ハルバード作戦](https://ja.wikipedia.org/wiki/ハルバード作戦 "wikilink") - 9月
+  - [コールボーイ作戦](https://ja.wikipedia.org/wiki/コールボーイ作戦 "wikilink") - 10月
+  - [パーペテュアル作戦](https://ja.wikipedia.org/wiki/パーペテュアル作戦 "wikilink") - 11月
+
+### 1942年
+
+  - [スポッター作戦](https://ja.wikipedia.org/wiki/スポッター作戦 "wikilink") - 3月
+  - [ピケット作戦](https://ja.wikipedia.org/wiki/ピケット作戦_\(1942年\) "wikilink") - 3月
+  - [カレンダー作戦](https://ja.wikipedia.org/wiki/カレンダー作戦 "wikilink") - 4月
+  - [バワリー作戦](https://ja.wikipedia.org/wiki/バワリー作戦 "wikilink") - 5月
+  - [LB作戦](https://ja.wikipedia.org/wiki/LB作戦 "wikilink") - 5月
+  - [スタイル作戦](https://ja.wikipedia.org/wiki/スタイル作戦 "wikilink") - 6月
+  - [セイリエント作戦](https://ja.wikipedia.org/wiki/セイリエント作戦 "wikilink") - 6月
+  - [ハープーン作戦](https://ja.wikipedia.org/wiki/ハープーン作戦 "wikilink") - 6月
+  - [ピンポイント作戦](https://ja.wikipedia.org/wiki/ピンポイント作戦 "wikilink") - 7月
+  - [インセクト作戦](https://ja.wikipedia.org/wiki/インセクト作戦 "wikilink") - 7月
+  - [ペデスタル作戦](https://ja.wikipedia.org/wiki/ペデスタル作戦 "wikilink")、ベローズ作戦 - 8月
+  - [バリトン作戦](https://ja.wikipedia.org/wiki/バリトン作戦 "wikilink") - 8月
+  - [トレイン作戦](https://ja.wikipedia.org/wiki/トレイン作戦 "wikilink") - 10月
+
+### 1943年
+
+  - [ハスキー作戦](https://ja.wikipedia.org/wiki/ハスキー作戦 "wikilink") - 7月
+  - [アヴァランチ作戦](https://ja.wikipedia.org/wiki/アヴァランチ作戦 "wikilink") - 9月
+
+## H部隊歴代司令長官
+
+  - [ジェームズ・サマヴィル](../Page/ジェームズ・サマヴィル.md "wikilink")中将 1940年6月-1942年1月
+  - [エドワード・サイフレット](https://ja.wikipedia.org/wiki/エドワード・サイフレット "wikilink")中将 1942年1月-1943年2月
+  - [アルジャーノン・ウィリス](https://ja.wikipedia.org/wiki/アルジャーノン・ウィリス "wikilink")少将 1943年2月-1943年8月
+
+## H部隊に所属した主な艦艇
+
+  - [アーク・ロイヤル](https://ja.wikipedia.org/wiki/アーク・ロイヤル_\(空母・初代\) "wikilink")（航空母艦）
+  - [イーグル](https://ja.wikipedia.org/wiki/イーグル_\(空母・初代\) "wikilink")（航空母艦）
+  - [イラストリアス](https://ja.wikipedia.org/wiki/イラストリアス_\(空母・初代\) "wikilink")（航空母艦）
+  - [フッド](https://ja.wikipedia.org/wiki/フッド_\(巡洋戦艦\) "wikilink")（巡洋戦艦)
+  - [レナウン](https://ja.wikipedia.org/wiki/レナウン_\(巡洋戦艦\) "wikilink")（巡洋戦艦）
+  - [ネルソン](../Page/ネルソン_\(戦艦\).md "wikilink")（戦艦）
+  - [レゾリューション](https://ja.wikipedia.org/wiki/レゾリューション_\(戦艦・2代\) "wikilink")（戦艦）
+  - [ヴァリアント](https://ja.wikipedia.org/wiki/ヴァリアント_\(戦艦\) "wikilink")（戦艦）
+
+## 関連項目
+
+  - [地中海艦隊](../Page/地中海艦隊_\(イギリス\).md "wikilink")
+  - [地中海の戦い (第二次世界大戦)](https://ja.wikipedia.org/wiki/地中海の戦い_\(第二次世界大戦\) "wikilink")
+  - [第二次世界大戦中のジブラルタル](https://ja.wikipedia.org/wiki/第二次世界大戦中のジブラルタル "wikilink")
+  - [マルタ島輸送船団](https://ja.wikipedia.org/wiki/マルタ島輸送船団 "wikilink")
+
+## 参考文献
+
+  - Brian Lavery,*Churchill's Navy: The Ships, Men and Organisation, 1939-1945*,London:Conway,2006
+
+## 外部リンク
+
+  - [Transcription of Force H War Diary](http://www.hmshood.org.uk/reference/official/adm199/adm199-391_7-31.htm)
+  - [British Admiralty document on Mers-el-Kébir Action](http://www.hmshood.org.uk/reference/official/adm234/adm234-317.htm)（メルセルケビール海戦に関する海軍省の文書）
+  - [Destruction of the French Fleet at Mers El-Kebir](http://www.hmshood.com/history/forceh/oran.htm) （メルセルケビール海戦について）
+
+[Category:イギリス海軍の艦隊](https://ja.wikipedia.org/wiki/Category:イギリス海軍の艦隊 "wikilink")

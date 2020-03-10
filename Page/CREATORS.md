@@ -1,0 +1,70 @@
+> この記事は[CREATORS](https://ja.wikipedia.org/wiki/CREATORS)から翻訳されています。
+
+
+『**CREATORS**』（クリエイターズ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")まで[フジテレビで毎週](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[火曜](../Page/火曜日.md "wikilink") 22:54 - 23:00に放送されていた[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")である。[Sony Ericssonの一社提供](https://ja.wikipedia.org/wiki/ソニーモバイルコミュニケーションズ "wikilink")。全51回。[字幕放送実施](https://ja.wikipedia.org/wiki/文字多重放送#字幕放送 "wikilink")。
+
+## 概要
+
+「エンターテインメントの舞台裏には知られざるクリエイターたちがいる」を合言葉に、日本各地や世界各地で活躍するクリエイターたちを紹介していたミニ番組。毎回違う職種のクリエイターたちを紹介していたが、音響やビジュアル界で活躍する人物を取り上げることが多かった。
+
+ナレーションは[市川展丈](../Page/市川展丈.md "wikilink")が担当。制作協力は[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")。本番組は[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作ではなかった。
+
+## 紹介したクリエイター
+
+  - 第1回 - [タナカノリユキ](https://ja.wikipedia.org/wiki/タナカノリユキ "wikilink")（クリエイティブディレクター）
+  - 第2回 - 鳥海修（タイプフェイスデザイナー）
+  - 第3回 - 高木望（トレーラーディレクター）
+  - 第4回 - [伊藤有壱](https://ja.wikipedia.org/wiki/伊藤有壱 "wikilink")（クレイアニメーター）
+  - 第5回 - 小泉由香（マスタリングエンジニア）
+  - 第6回 - 世永亜実（[サマンサタバサ](https://ja.wikipedia.org/wiki/サマンサタバサ "wikilink")PRクリエイター）
+  - 第7回 - 丸野優（ビジュアルジョッキー）
+  - 第8回 - 細井威良（シズルディレクター）
+  - 第9回 - 松下美智子（ネイリスト）
+  - 第10回 - 大西智恵（グラフィックコーディネーター）
+  - 第11回 - 白井宏旨（3DCGディレクター）
+  - 第12回 - 松井るみ（セットデザイナー）
+  - 第13回 - 池田進吾（ブックデザイナー）
+  - 第14回 - 伊東美由樹（色彩設計）
+  - 第15回 - 栗山和弥（フォトレタッチャー）
+  - 第16回 - 武石正宣（ライティングディレクター）
+  - 第17回 - 鈴木智絵（コンフィチュリエ）
+  - 第18回 - 幅允孝（ブックディレクター）
+  - 第19回 - 吉川真由（テキスタイルデザイナー）
+  - 第20回 - 杉山優子（着物スタイリスト）
+  - 第21回 - 小林崇（ツリーハウスクリエイター）
+  - 第22回 - 尹剛志（モーショングラフィッカー）
+  - 第23回 - [坊農さやか](https://ja.wikipedia.org/wiki/坊農さやか "wikilink")（ティアラガール編集長）
+  - 第24回 - [大平貴之](https://ja.wikipedia.org/wiki/大平貴之 "wikilink")（プラネタリウムクリエイター）
+  - 第25回 - 安岡洋一（ブックコンシェルジュ）
+  - 第26回 - 峰岸裕和（ストップモーションアニメーター）
+  - 第27回 - ルイス・アルファイヤー（アトラクションデザイナー）
+  - 第28回 - [弦一徹](https://ja.wikipedia.org/wiki/弦一徹 "wikilink")（ストリングスアレンジャー）
+  - 第29回 - 和多田喜（日本茶ソムリエ）
+  - 第30回 - 林完治（字幕翻訳家）
+  - 第31回 - 二見圭介（ゲームCGデザイナー）
+  - 第32回 - 栗田貴子（チョークアートクリエイター）
+  - 第33回 - 稲垣克（ビジュアルクリエイター）
+  - 第34回 - カルメ・ルスカイェーダ（スペイン料理シェフ）
+  - 第35回 - 溝口慎治（エディトリアルデザイナー）
+  - 第36回 - 服部有吉（バレエ振付家）
+  - 第37回 - キタハラゆかり（墨絵イラストレーター）
+  - 第38回 - 柿沢安耶（ベジタブルパティシエ）
+  - 第39回 - 山本まり子（パブリシスト）
+  - 第40回 - マーガレット・レン・タン（トイピアニスト）
+  - 第41回 - 藤原幸一（ネイチャーフォトグラファー）
+  - 第42回 - 兒嶋洋一郎（特殊効果プランナー）
+  - 第43回 - 高橋晋平（トイプランナー）
+  - 第44回 - 露木光明（指人形師）
+  - 第45回 - 須藤秀男（ブーランジェ）
+  - 第46回 - [山本二三](../Page/山本二三.md "wikilink")（アニメーション監督）
+  - 第47回 - 津田光正（舞台監督）
+  - 第48回 - [福田靖](https://ja.wikipedia.org/wiki/福田靖 "wikilink")（脚本家）
+  - 第49回 - [中根賢治](https://ja.wikipedia.org/wiki/中根賢治 "wikilink")（ワイヤー・アーティスト）
+  - 第50回 - [リュック・ベッソン](https://ja.wikipedia.org/wiki/リュック・ベッソン "wikilink")（映画監督）
+  - 第51回 - チャン・ファイヤン（[ランドスケープ](https://ja.wikipedia.org/wiki/ランドスケープ "wikilink")デザイナー）
+
+## 外部リンク
+
+  - [CREATORS](http://www.fujitv.co.jp/b_hp/creators/) - フジテレビ
+
+[Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのミニ番組 "wikilink") [Category:フジテレビのローカル番組](https://ja.wikipedia.org/wiki/Category:フジテレビのローカル番組 "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:ソニー・エリクソン](https://ja.wikipedia.org/wiki/Category:ソニー・エリクソン "wikilink")

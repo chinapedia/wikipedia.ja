@@ -1,0 +1,139 @@
+> この記事は[   -TOWER OF MUSIC LOVER-](https://ja.wikipedia.org/wiki/___-TOWER_OF_MUSIC_LOVER-)から翻訳されています。
+
+
+『**ベスト オブ くるり / TOWER OF MUSIC LOVER**』（-タワー・オブ・ミュージック・ラヴァー）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月26日](../Page/7月26日.md "wikilink")に発売された[くるり](../Page/くるり.md "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。初回盤と通常盤は品番が異なり、初回限定盤はVIZL-195、通常盤はVICL-61985～6となっている。
+
+## 解説
+
+  - 2006年に結成10周年を迎えたくるりがそれまでの10年間を振り返る意味で発表したベストアルバム。よくある契約消化作やレコード会社の意向によるものではなく、メンバー自身が[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")へ「ベスト盤を出したい」と嘆願したことから制作された。選曲は「多くの人に望まれ受け入れられやすい楽曲」を基準に[岸田繁](../Page/岸田繁.md "wikilink")を中心としたメンバー全員によって行われた。
+  - くるりはそれまで自分たちをアルバムミュージシャンと思っていたが、選曲に際し意外にシングルが多かったことに驚いたという。シングルA面は2006年までに発売された作品を全て網羅し、アルバム未収録となっていたB面曲、映画『[リアリズムの宿](https://ja.wikipedia.org/wiki/リアリズムの宿 "wikilink")』に使用されるもソフト化が行われなかった「家出娘」の初CD化、さらに初回限定盤には未発表となっていたアウトテイクをソフト化するなどと、単なるベスト・アルバムにとどまらない、レアトラック集も兼ねた作品となっている。また、単純に年代順に曲を並べるのではなく、かなり趣向を凝らした曲順になっている。
+  - 本作は[大村達身](../Page/大村達身.md "wikilink")が参加した最後のアルバムとなった。
+  - ジャケット写真は[京都タワー](https://ja.wikipedia.org/wiki/京都タワー "wikilink")や[錦市場](https://ja.wikipedia.org/wiki/錦市場 "wikilink")などの京都の風景である（メンバーの出身校の[立命館大学](https://ja.wikipedia.org/wiki/立命館大学 "wikilink")の幟がある写真は[京都市役所](https://ja.wikipedia.org/wiki/京都市役所 "wikilink")庁舎）。
+
+## 収録曲
+
+  - 特に表記がない場合はシングルヴァージョン
+  - 楽曲の解説は各収録作品参照
+
+### DISC1
+
+1.  **[ワンダーフォーゲル](https://ja.wikipedia.org/wiki/ワンダーフォーゲル_\(曲\) "wikilink")**
+      -
+        初出：6thシングル（2000年10月18日）／『[TEAM ROCK](https://ja.wikipedia.org/wiki/TEAM_ROCK "wikilink")』（2001年2月21日）
+2.  **[ばらの花](https://ja.wikipedia.org/wiki/ばらの花 "wikilink")**
+      -
+        初出：7thシングル（2001年1月24日）／『TEAM ROCK』（2001年2月21日）
+3.  **[虹](https://ja.wikipedia.org/wiki/虹_\(くるりの曲\) "wikilink")**
+      -
+        初出：2ndシングル（1999年2月24日）／『[さよならストレンジャー](https://ja.wikipedia.org/wiki/さよならストレンジャー "wikilink")』（1999年4月21日）
+        岸田自身がこのベスト盤でもっとも好きな曲であり、「くるりを象徴する楽曲」とあげている。
+4.  **[ワールズエンド・スーパーノヴァ](https://ja.wikipedia.org/wiki/ワールズエンド・スーパーノヴァ "wikilink")**
+      -
+        初出：9thシングル（2002年2月20日）／『[THE WORLD IS MINE](https://ja.wikipedia.org/wiki/THE_WORLD_IS_MINE "wikilink")』（2002年3月20日）
+        シングルヴァージョンはアルバム初収録。
+5.  **[THANK YOU MY GIRL](https://ja.wikipedia.org/wiki/THE_WORLD_IS_MINE "wikilink")**
+      -
+        初出：『THE WORLD IS MINE』（2002年3月20日）
+6.  **[BABY I LOVE YOU](https://ja.wikipedia.org/wiki/Baby_I_Love_You_\(くるりの曲\) "wikilink")**
+      -
+        初出：17thシングル（2005年10月26日）／[NIKKI](https://ja.wikipedia.org/wiki/NIKKI "wikilink")（2005年11月23日）
+7.  **[ハローグッバイ](https://ja.wikipedia.org/wiki/男の子と女の子 "wikilink")**
+      -
+        初出：10thシングルB面（2002年5月9日）
+        アルバム初収録曲。
+8.  **[春風(Alternative)](https://ja.wikipedia.org/wiki/春風_\(くるりの曲\) "wikilink")**
+      -
+        初出：5thシングル（2000年4月5日）
+        アルバム初収録曲。本作ではエンジニアの高山徹による未発表ミックスが使用されている。岸田繁がミックスしたシングルバージョンと比較して若干音が厚めで、やや尺が長い。
+9.  **[ナイトライダー(QURULI version)](https://ja.wikipedia.org/wiki/Juice_\(くるりとリップスライムの曲\) "wikilink")**
+      -
+        初出：シングルB面（くるりとリップスライム）（2006年7月5日）
+        2006年に発売された[RIP SLYMEとの企画シングルのB面曲として双方にRIP](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink") SLYMEヴァージョンとくるりヴァージョンとが存在する楽曲。本作ではくるりとRIP SLYME名義のJuiceに収録されていたくるりのものを収録。アルバム初収録。
+10. **[リバー](https://ja.wikipedia.org/wiki/リバー_\(曲\) "wikilink")**
+      -
+        初出：『TEAM ROCK』（2001年2月21日）／8thシングル（2001年5月17日）
+11. **[ハイウェイ](https://ja.wikipedia.org/wiki/ハイウェイ_\(曲\) "wikilink")**
+      -
+        初出：12thシングル（2003年11月5日）／[ジョゼと虎と魚たち](https://ja.wikipedia.org/wiki/ジョゼと虎と魚たち_%28サウンドトラック%29 "wikilink")（2003年11月5日）
+        シングルヴァージョンはアルバム初収録。
+12. **[飴色の部屋](https://ja.wikipedia.org/wiki/ジョゼと虎と魚たち "wikilink")**
+      -
+        初出：ジョゼと虎と魚たち（2003年11月5日）
+13. **[赤い電車](https://ja.wikipedia.org/wiki/赤い電車_\(曲\) "wikilink")(Ver.[金沢文庫](https://ja.wikipedia.org/wiki/金沢文庫駅 "wikilink"))**
+      -
+        初出：16thシングル（2005年9月22日）／『NIKKI』（2005年11月23日）
+        本作ではシングルとは異なる未発表バージョンを収録。
+
+### DISC2
+
+1.  **[水中モーター](https://ja.wikipedia.org/wiki/THE_WORLD_IS_MINE "wikilink")(Jam Remix)**
+      -
+        初出：THE WORLD IS MINE（2002年3月20日）
+        このバージョンは2003年の正月コンピレーションフィルム映画『[Jam Films](https://ja.wikipedia.org/wiki/Jam_Films "wikilink")』のサウンドトラック盤のみに収録されていた。2002年と言う発売時期や発売元が所属と異なるコロムビアであったことなどからかなり入手困難な作品であったが、本作でようやく陽の目を見る形となった。
+2.  **[ロックンロール](https://ja.wikipedia.org/wiki/ロックンロール_\(くるりの曲\) "wikilink")**
+      -
+        初出：13thシングル（2004年2月11日）／[アンテナ](https://ja.wikipedia.org/wiki/アンテナ_\(くるりのアルバム\) "wikilink")（2004年3月10日）
+3.  **[東京](https://ja.wikipedia.org/wiki/東京_\(くるりの曲\) "wikilink")**
+      -
+        初出：1stシングル（1998年10月21日）／[さよならストレンジャー](https://ja.wikipedia.org/wiki/さよならストレンジャー "wikilink")（1999年4月21日）
+        シングルヴァージョンはアルバム初収録。
+4.  **[青い空](https://ja.wikipedia.org/wiki/青い空 "wikilink")**
+      -
+        初出：3rdシングル（1999年8月25日）／図鑑（2000年1月21日）
+        シングルヴァージョンはアルバム初収録。
+5.  **[リボルバー](https://ja.wikipedia.org/wiki/リバー_\(曲\) "wikilink")**
+      -
+        初出：8thシングルB面（2001年5月17日）
+        アルバム初収録曲。解読困難な歌詞であることを認めており、何故ベスト盤に？という問いに対しては「ただ好きなんで…。」と答えている。
+6.  **[男の子と女の子](https://ja.wikipedia.org/wiki/男の子と女の子 "wikilink")**
+      -
+        初出：THE WORLD IS MINE（2002年3月20日）／10tnシングル（2002年5月9日）
+7.  **[BIRTHDAY](https://ja.wikipedia.org/wiki/BIRTHDAY_\(くるりの曲\) "wikilink")**
+      -
+        初出：14thシングル（2005年2月23日）／NIKKI（2005年11月23日）
+8.  **[Superstar](https://ja.wikipedia.org/wiki/Superstar_\(くるりの曲\) "wikilink")**
+      -
+        初出：15thシングル（2005年8月24日）／NIKKI（2005年11月23日）
+        シングルヴァージョンはアルバム初収録。
+9.  **[尼崎の魚](https://ja.wikipedia.org/wiki/東京_\(くるりの曲\) "wikilink")**
+      -
+        初出：1stシングルB面（1998年10月21日）
+        アルバム初収録曲。
+10. **[街](https://ja.wikipedia.org/wiki/街_\(くるりの曲\) "wikilink")**
+      -
+        初出：4thシングル（1999年11月20日）／図鑑（2000年1月21日）
+11. **[サンデーモーニング](https://ja.wikipedia.org/wiki/青い空 "wikilink")**
+      -
+        初出：3rdシングルB面（1999年8月25日）
+        アルバム初収録曲。
+12. **家出娘**
+      -
+        未発表曲
+        映画『[リアリズムの宿](https://ja.wikipedia.org/wiki/リアリズムの宿 "wikilink")』主題歌。6月の祝日でもなんでもない普通の日に作られた楽曲。モノラル録音で制作されている。映画では当初、別の曲を用意していたが、「暗すぎる」という理由で監督に作り直しを要求されムッとして、それ以上に暗い曲を作ったところ、採用された。
+13. **[HOW TO GO](https://ja.wikipedia.org/wiki/HOW_TO_GO "wikilink")**
+      -
+        初出：11thシングル（2003年9月17日）／アンテナ（2004年3月10日）
+        シングルヴァージョンはアルバム初収録。
+        岸田曰く、本来はこの曲を本作に入れたくなかったらしい。しかし、シングル曲なのにベストに入らないのはおかしいと思い、仕方なく入れた。
+
+### DISC3(初回限定盤のみ付属)
+
+1.  **怒りのぶるうす**
+      -
+        2004年発売の5枚目のアルバム『アンテナ』のアウトテイク。グラスゴーにて録音。あまりにアルバムの雰囲気に合わないためにボツとなった。
+2.  **Giant Fish**
+      -
+        1998年のデビュー前未発表音源。東中野の狭いスタジオで録音されたものをそのまま収録。大学生ながらサビが多く、詰め込んだ楽曲と語っている。
+3.  **さっきの女の子**
+      -
+        2005年発売の6枚目のアルバム『NIKKI』のアウトテイク。アメリカで録音されたためイギリス録音の『NIKKI』に合わずお蔵入りとなる。
+4.  **人間通**
+      -
+        2001年発売の3枚目のアルバム『TEAM ROCK』のアウトテイク。上尾にて録音。『TEAM ROCK』を全て凝縮した楽曲であるという。岸田いわく「ゴミで作った芸術の最高峰」。
+
+## 参考資料
+
+  - アルバム初回盤付属のライナーノーツ
+  - 各種インタビュー記事
+
+[Category:2006年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2006年のベスト・アルバム "wikilink") [Category:くるりのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:くるりのベスト・アルバム "wikilink")

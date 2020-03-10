@@ -1,0 +1,75 @@
+> この記事は[OWL](https://ja.wikipedia.org/wiki/OWL)から翻訳されています。
+
+
+**OWL望遠鏡**（）とは、[ヨーロッパ南天天文台](https://ja.wikipedia.org/wiki/ヨーロッパ南天天文台 "wikilink")（ESO）にて検討が行われた、単一口径100m鏡相当を持つ次世代大型光赤外望遠鏡のこと。その後、より実現可能なサイズである口径39mの[欧州超大型望遠鏡](https://ja.wikipedia.org/wiki/欧州超大型望遠鏡 "wikilink")（E-ELT）計画の準備が行われている。
+
+本項では、その検討が進められていたOWL望遠鏡計画と、実現に向けて進められているE-ELT計画について概要のみを記載する。
+
+## 概要
+
+[OverWhelmingly_Large_Telescope.jpg](https://ja.wikipedia.org/wiki/File:OverWhelmingly_Large_Telescope.jpg "fig:OverWhelmingly_Large_Telescope.jpg") [2001年](../Page/2001年.md "wikilink")ESOの[VLT計画が一段落し](https://ja.wikipedia.org/wiki/超大型望遠鏡VLT "wikilink")、それに伴い次期の計画として、ESOのWSで議論が行われた。理論的可能性を探求した結果、口径100m相当の超大型望遠鏡計画が立案された。それが、OWL望遠鏡である。
+
+## VLTからOWLへ
+
+OWL望遠鏡WS（Working Study)では、いくつもの概念設計図を描いている。その中には最大口径100mからなる単一鏡相当の複合鏡型天体望遠鏡を製作するものもある。基本的には、単一鏡相当になる複合鏡の技術研究を目的として始まり、VLT運用後に明らかになった諸問題を解決する事に重点を置いた。VLTでは、複数の望遠鏡からなる開口合成型の光学式天体望遠鏡のため、非常に淡い光を捉えることが難しいため、宇宙の最深部に当たる天体の精密観測が難しいことである。
+
+このため、単一鏡に相当する、超大型天体望遠鏡を開発することを目的にESO内に「OWLプロジェクトチーム」を立ち上げ、[2001年](../Page/2001年.md "wikilink")から「EU科学技術・ミレニアムイニシアティブ」に合わせて議論を始めた。
+
+## OWLからE-ELTへ
+
+[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")では、ケック望遠鏡を運営する[カリフォルニア大学](../Page/カリフォルニア大学.md "wikilink")・[カリフォルニア工科大学](https://ja.wikipedia.org/wiki/カリフォルニア工科大学 "wikilink")を中心としたグループからなる、**「TMT計画」**(単一鏡口径30m相当の複合鏡型天体望遠鏡)と、[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")・[スミソニアン協会](https://ja.wikipedia.org/wiki/スミソニアン協会 "wikilink")・[カーネギー財団](https://ja.wikipedia.org/wiki/カーネギー財団 "wikilink")を中心としたグループからなる、**「GMT計画」**（合成口径21.4mに相当する複数の単一鏡からなる開口合成型天体望遠鏡)からなる計画が始まった。日本では、[すばる望遠鏡](https://ja.wikipedia.org/wiki/すばる望遠鏡 "wikilink")の次世代計画である超大型望遠鏡計画は、[2004年](../Page/2004年.md "wikilink")に**「ELT準備調査」**として始まったところである。
+
+その後、各国で実現に向けた検討が始まり、「GMT計画」は次期宇宙望遠鏡計画との連動を目指して準備が進む。また、「TMT計画」は次期大型望遠鏡計画として準備を実施。このような状況の中、[ESO](https://ja.wikipedia.org/wiki/ESO "wikilink")でも実現に向けて作業を加速させる必要があるという合意が得られ、「OWL構想」見直しへと至ることになった。以降は、後述。
+
+[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")現在、**「E-ELT計画」**へと集約が行われ、準備が行われている。建設場所としては、[チリ共和国](https://ja.wikipedia.org/wiki/チリ共和国 "wikilink")や[カナリア諸島](https://ja.wikipedia.org/wiki/カナリア諸島 "wikilink")等を想定した計画であるが、建設場所については未定である。なお、高地に建設することを想定している。
+
+2014年12月にESOは、チリのアタカマ砂漠にE-ELTを建設することを承認した。完成は2024年頃になる予定\[1\]。
+
+## ESOでのPhase毎の区分
+
+  - Phase-A : 概念設計（おおむね5年程度）
+  - Phase-B : 技術仕様・設置場所調査（おおむね3年程度）
+  - Phase-C : 建設開始（技術仕様・規模によって異なる）
+  - Phase-D : 運用開始（ファーストライト後の調整点検）
+  - Phase-E : 公募運用開始
+
+## その他
+
+OWLとは、英語で「[フクロウ](https://ja.wikipedia.org/wiki/フクロウ "wikilink")」の意味である。「フクロウ」とは、「[ミネルバのフクロウは黄昏に飛び立つ](https://ja.wikipedia.org/wiki/ミネルヴァのふくろう "wikilink")」という[ヘーゲル](../Page/ゲオルク・ヴィルヘルム・フリードリヒ・ヘーゲル.md "wikilink")『[法哲学](https://ja.wikipedia.org/wiki/法の哲学 "wikilink")』序文の一説から名付けられたもので、知恵の女神の補佐役だった「フクロウ」が飛び立つ時、新たな[天文学](../Page/天文学.md "wikilink")が生まれるという期待を込めて名付けたものでもある。
+
+付記）様々な規制が定められている法律を遵守し、これからも研究活動を一貫して行い続けるという意味もある。なぜこの名称にこだわったのかといえば、結果よりもプロセスを重視する研究活動を目指しているからである。研究活動において、結果重視になってしまうと、様々な問題が生じる。これは歴史哲学について研究を行ってきたヘーゲルの論文からも明らかである。これからも、天文学はそれを目指している。
+
+## 金融恐慌の影響
+
+実体経済に多大な影響を与えた、金融恐慌の影響により、本プロジェクトにおけるファーストライトは2020年まで遅らせる予定。大型天体観測施設のため、巨額の予算が必要となる。しかしながら、今少しばかりの時間のためにヨーロッパ市民などに負担を掛けるよりも、実体経済の回復を優先させて、技術やコンセンサスの成熟を目指し、数多くの市民に祝福される研究施設を目指すことになった。CDRに関しては、予定通り実施する。
+
+## 脚注
+
+## 関連項目
+
+### 推進組織
+
+  - [ヨーロッパ南天天文台](https://ja.wikipedia.org/wiki/ヨーロッパ南天天文台 "wikilink")
+
+### 基本技術詳細
+
+  - [天体望遠鏡](../Page/天体望遠鏡.md "wikilink")
+
+### 他のプロジェクト
+
+  - [TMT計画](https://ja.wikipedia.org/wiki/TMT計画 "wikilink") - [カリフォルニア大学](../Page/カリフォルニア大学.md "wikilink")や[カリフォルニア工科大学](https://ja.wikipedia.org/wiki/カリフォルニア工科大学 "wikilink")を中心として天文学研究大学連合等が推進しているプロジェクト。
+  - [巨大マゼラン望遠鏡](https://ja.wikipedia.org/wiki/巨大マゼラン望遠鏡 "wikilink") - [マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")や[スミソニアン協会](https://ja.wikipedia.org/wiki/スミソニアン協会 "wikilink")等が推進しているプロジェクト。
+  - [ELT計画](https://ja.wikipedia.org/wiki/ELT計画 "wikilink") - [国立天文台](https://ja.wikipedia.org/wiki/国立天文台 "wikilink")が推進している、超薄膜鏡や補償光学技術(AO)を組み合わせた、口径30m複合型光赤外線大型天体望遠鏡。
+
+## 外部リンク
+
+  - [ヨーロッパ南天天文台](http://www.eso.org)
+      - [OWL計画](http://www.eso.org/projects/owl/)
+
+## 参考資料
+
+  - 外部リンク資料, ヨーロッパ南天天文台, OWLプロジェクトWSグループ, 2002-2007
+
+[Category:望遠鏡](https://ja.wikipedia.org/wiki/Category:望遠鏡 "wikilink")
+
+1.

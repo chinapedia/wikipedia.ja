@@ -1,0 +1,124 @@
+> この記事は[May-Be SOFT](https://ja.wikipedia.org/wiki/May-Be_SOFT)から翻訳されています。
+
+
+**May-Be SOFT**（**メイビーソフト**）とは有限会社リエーヴルの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである。[北海道えろげー組合](https://ja.wikipedia.org/wiki/北海道えろげー組合 "wikilink")加盟。
+
+## 概要
+
+[1999年](../Page/1999年.md "wikilink")まで株式会社クラフトワークスのブランドとして発売していたが、[2000年](../Page/2000年.md "wikilink")に有限会社（現・株式会社）[テックアーツ](https://ja.wikipedia.org/wiki/テックアーツ "wikilink")に移行。そして[2003年](../Page/2003年.md "wikilink")にメディア倫理協会（現・[コンテンツ・ソフト協同組合](../Page/コンテンツ・ソフト協同組合.md "wikilink")）の審査を受けるために、分社化された有限会社リエーヴルのブランドに移行する（当時テックアーツは[コンピュータソフトウェア倫理機構](../Page/コンピュータソフトウェア倫理機構.md "wikilink")の審査を受けていた）。
+
+## 作品一覧
+
+### May-Be SOFT（メイビーソフト）
+
+  - 1993年8月20日 Poison Needle
+  - 1993年9月10日 Sonic Linker
+  - 1993年12月10日 ツモっきー
+  - 1994年3月30日 Marion
+  - 1994年9月14日 誘惑の吐息
+  - 1994年11月30日 FILE
+  - 1995年3月30日 Ce'st La Vie (セラヴィ)
+  - 1995年7月12日 イッパツJANG\!
+  - 1995年8月11日 霧島診療室の午後
+  - 1995年11月30日 Coming Heart
+  - 1996年2月29日 エスケイプ\!
+  - 1996年7月24日 慾 ～むさぼり～
+  - 1996年9月20日 Blind Games
+  - 1996年12月6日 HIGHスク～ルDAYS
+  - 1997年7月25日 や・く・そ・く
+  - 1998年1月23日 ぎりぎりパラダイス
+  - 1998年7月10日 UP\!
+  - 1998年11月6日 おきらくHEAVEN
+  - 1999年5月21日 [さくら日和](https://ja.wikipedia.org/wiki/さくら日和 "wikilink")
+  - 1999年8月27日 [僕は子羊?\!](https://ja.wikipedia.org/wiki/僕は子羊?! "wikilink")
+  - 1999年11月26日 [H研究会](https://ja.wikipedia.org/wiki/H研究会 "wikilink")
+
+### テックアーツ移行後
+
+  - 2000年5月26日 エスケイプPlus（『エスケイプ\!』のリメイク作品）
+  - 2000年10月27日 Sixty-Nine
+  - 2001年5月11日 -スガタ-
+  - 2001年7月27日 Sixty Nine DVD
+  - 2002年1月18日 えらぶる ～えらぶ+らぶ×ダブルで～
+  - 2002年7月19日 Cage ～囚われの記録～
+
+### リエーブル移行後
+
+  - 2003年3月28日 Grope ～闇の中の小鳥たち～
+  - 2003年7月18日 -スガタ- 完全版（『-スガタ-』にキャラクターを追加したリメイク作品）
+  - 2003年11月21日 淫乳女子校生・凌辱指導要領
+  - 2004年3月29日 へんし～ん\!
+  - 2004年10月22日 Sixty NineDVD メディ倫版
+  - 2004年10月22日 Sixty-Nine2
+  - 2005年3月18日 へんし～ん\!2
+  - 2005年11月25日 [モノごころ、モノむすめ。](https://ja.wikipedia.org/wiki/モノごころ、モノむすめ。 "wikilink")
+  - 2006年1月27日 淫乳女子校生・凌辱指導要領 Theアニメ
+  - 2006年1月27日 へんし～ん\! Theアニメ
+  - 2006年7月21日 [メイドさんと大きな剣](https://ja.wikipedia.org/wiki/メイドさんと大きな剣 "wikilink")
+  - 2007年2月9日 －スガタ－ 完全版 The アニメ
+  - 2007年4月20日 [遊撃警艦パトベセル ～こちら首都圏上空青空署～](../Page/遊撃警艦パトベセル_〜こちら首都圏上空青空署〜.md "wikilink")
+  - 2008年3月21日 [学園☆新選組\! ～乙女ゴコロと局中法度～](https://ja.wikipedia.org/wiki/学園☆新選組!_〜乙女ゴコロと局中法度〜 "wikilink")
+  - 2009年1月30日 [ぱいタッチ\!](https://ja.wikipedia.org/wiki/ぱいタッチ! "wikilink")
+  - 2009年5月22日 へんし～ん\!2 The アニメ
+  - 2011年5月20日 [へんし～ん\!\!\! ～パンツになってクンクンペロペロ～](https://ja.wikipedia.org/wiki/へんし〜ん!!!_〜パンツになってクンクンペロペロ〜 "wikilink")
+  - 2012年10月26日 へんし～ん\!(Android)
+  - 2014年7月25日 [ちぇ～んじ\! ～あの娘になってクンクンペロペロ～](https://ja.wikipedia.org/wiki/ちぇ〜んじ!_〜あの娘になってクンクンペロペロ〜 "wikilink")
+
+### Dixie
+
+  - RONA 〜地母神の審判〜（1994年[2月10日](../Page/2月10日.md "wikilink")）
+
+### FLAT
+
+  - キャミソール（[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")11月）
+  - ノルティア（1993年[5月14日](../Page/5月14日.md "wikilink")）
+
+### MBS TRUSE ([MBS TRUTH](https://ja.wikipedia.org/wiki/MBS_TRUTH "wikilink"))
+
+  - 1997年2月20日 歪み
+  - 1997年5月23日 脳力者
+  - 1997年10月9日 DOOP(ドォープ)
+  - 1998年4月30日 化粧桜 ～けしょうざくら～
+  - 1998年8月28日 檻
+  - 1998年11月27日 Radical
+  - 1999年2月26日 召喚者
+  - 1999年5月28日 華の滴
+  - 1999年9月24日 天使の罠
+
+## 主なスタッフ
+
+  - 原画
+
+<!-- end list -->
+
+  - [望月望](https://ja.wikipedia.org/wiki/望月望 "wikilink")
+  - まめ
+  - 佐野俊英(さぬ)
+  - [あかざ](https://ja.wikipedia.org/wiki/あかざ "wikilink") - 『へんし〜ん\!』以降の全作品の原画を手がけている
+
+<!-- end list -->
+
+  - シナリオ
+
+<!-- end list -->
+
+  - 箒星
+  - 日高真一
+
+## 備考
+
+  - メディア倫理協会の審査に変更して以降、「ナチュラルモザイク」という無駄な[モザイクを排除したりそれぞれ猥語を含むテキストから伏字を](https://ja.wikipedia.org/wiki/モザイク処理 "wikilink")、音声からP音を完全に排除するなど当時のソフ倫審査では実現できなかったHシーンの充実を他社に先駆けて実現した。
+  - リエーヴル移行後の数作品でアニメーションを追加した作品を発売している。タイトルの語尾に「**The アニメ**」と付けられている。現在は「[G.J?](https://ja.wikipedia.org/wiki/G.J? "wikilink")」、「[MBS TRUTH](https://ja.wikipedia.org/wiki/MBS_TRUTH "wikilink")」のゲームでも発売されている。
+
+## 関連項目
+
+  - [影崎由那](https://ja.wikipedia.org/wiki/影崎由那 "wikilink") - 「メイビーソフト」時代に『エスケイプ\!』など多くの作品の原画を手がけた。
+  - [milktub](https://ja.wikipedia.org/wiki/milktub "wikilink") - 『モノごころ、モノむすめ。』『メイドさんと大きな剣』で主題歌を作曲した。
+  - [コンプリーツ](https://ja.wikipedia.org/wiki/コンプリーツ "wikilink") - 「メイビーソフト」時代に関わっていたスタッフが独立して設立されたブランド
+
+## 外部リンク
+
+  - [★★May-Be SOFTオフィシャルサイト★★](http://www.teck.co.jp/maybesoft/index.html)<span style="color:red">（18歳未満閲覧禁止）</span>
+  - [コンプリーツ](http://www.complets.co.jp/) （18歳未満閲覧禁止）</span>
+
+[Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink") [Category:北海道えろげー組合](https://ja.wikipedia.org/wiki/Category:北海道えろげー組合 "wikilink")

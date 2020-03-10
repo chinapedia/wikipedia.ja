@@ -1,0 +1,83 @@
+> この記事は[THX](https://ja.wikipedia.org/wiki/THX)から翻訳されています。
+
+
+**THX社** (ティー・エイチ・エックス)は、主に[映画](../Page/映画.md "wikilink")に関わる音響技術・評価サービスを提供する、[アメリカ発祥の企業である](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。[ルーカスフィルム](https://ja.wikipedia.org/wiki/ルーカスフィルム "wikilink")の1部門としてスタートし、AV業界において最も知名度の高い[ブランド](../Page/ブランド.md "wikilink")のひとつとなった。
+
+## 概要
+
+THXは主に、[映画館](../Page/映画館.md "wikilink")や家庭用AV再生機器のクオリティチェックを行う。また、[DVDやビデオグラムなど](../Page/DVD-Video.md "wikilink")、ソフトのマスタリングの品質チェックも行う。THX社が規定する品質をクリアした劇場やAV機器、[DVD](../Page/DVD.md "wikilink")などには、THXマークをクレジットすることが許される。 名前の由来は、ルーカスフィルムにて開発を行ったトム・ホールマンの実験("Tom Holman eXperiment")、または同氏のクロスオーバー("Tom Holman's Crossover") のクロス（X）に由来し\[1\]、その後 [ジョージ・ルーカス](../Page/ジョージ・ルーカス.md "wikilink")監督のデビュー作「[THX 1138](https://ja.wikipedia.org/wiki/THX_1138 "wikilink")」にある。 本社は、[ロサンゼルス郡](https://ja.wikipedia.org/wiki/ロサンゼルス郡 "wikilink")の[バーバンクにあり](https://ja.wikipedia.org/wiki/バーバンク_\(カリフォルニア州\) "wikilink")、ソフトチェック用の全てTHX仕様のスタジオを5つ持っている。
+
+1983年、ジョージ・ルーカスによって創業され、ルーカスフィルムの一部門として始まり、2002年に[スピンオフ](https://ja.wikipedia.org/wiki/スピンオフ "wikilink")した際に独立した。2012年に[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")のデジタル機器メーカーの[クリエイティブ・テクノロジーが買収](https://ja.wikipedia.org/wiki/クリエイティブテクノロジー "wikilink")、その後[2016年](../Page/2016年.md "wikilink")、シンガポールの[Razer](https://ja.wikipedia.org/wiki/Razer "wikilink")社によって買収された。
+
+## THXによる認定
+
+### 劇場
+
+THX社は音響のみならず、映写や外部からの雑音等に対しても厳しいチェックを行う。すべての項目をクリアした劇場のみにTHXが認定され、THXのロゴマークが刻まれたプレートを掲げることと、THXトレーラーの上映が許可される。認定後も、年1回のチェックが行われ、THX基準をクリアしているかを確認する。もし、基準が守られていない場合は、認定が取り消される。
+
+日本では、東京にあるIMAGICA第一試写室が、初のTHX認定シアターとして認定され、多くの邦画の初号試写が此処で行われている。東京テレビセンターの407ミキシングルームも、THX認定を受けたスタジオである。中～小規模スタジオ用の規格"pm3"認定を受けたスタジオも、[楽音舎](https://ja.wikipedia.org/wiki/楽音舎 "wikilink")や[ソニーPCL](../Page/ソニーPCL.md "wikilink")、[スクウェア・エニックス](https://ja.wikipedia.org/wiki/スクウェア・エニックス "wikilink")、[NHKテクニカルサービス](https://ja.wikipedia.org/wiki/NHKテクニカルサービス "wikilink")など、複数存在する。
+
+日本で最初にTHX認定を受けた一般映画館は、ワーナー・マイカル・シネマズ海老名（現[イオンシネマ海老名](https://ja.wikipedia.org/wiki/イオンエンターテイメント "wikilink")）の7番スクリーンである。その他、シネプレックス幕張の10番スクリーンなど、日本では、[シネマコンプレックス](../Page/シネマコンプレックス.md "wikilink")のメイン・スクリーンに導入されている例が多い。稀少な例として、過去に[TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink")市川コルトンプラザ、TOHOシネマズ海老名、TOHOシネマズ六本木ヒルズの3サイトは全館THX認定を受けていた。
+
+[2000年代](../Page/2000年代.md "wikilink")からは、[IMAX](https://ja.wikipedia.org/wiki/IMAX "wikilink")等を中心にTHXに匹敵する設計の映画館が増えた事で、年1回の認定費用が発生するTHXの採用を取り止める映画館が増えた。
+
+また、THX社は[ホームシアター](https://ja.wikipedia.org/wiki/ホームシアター "wikilink")も認定の対象にしている。日本で最初にTHX認定を受けたホームシアターは、[小倉智昭](../Page/小倉智昭.md "wikilink")が私有する北海道のスタジオであるとされている。
+
+### オーディオビジュアル機器
+
+AV機器は、[デノン](https://ja.wikipedia.org/wiki/デノン "wikilink")、[オンキヨー](https://ja.wikipedia.org/wiki/オンキヨー "wikilink")、[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")、[ヤマハ](../Page/ヤマハ.md "wikilink")、[シャープ](../Page/シャープ.md "wikilink")と提携し、THX承認済みの[アンプ](https://ja.wikipedia.org/wiki/アンプ "wikilink")や[スピーカー](../Page/スピーカー.md "wikilink")、[デジタルテレビ](https://ja.wikipedia.org/wiki/デジタルテレビ "wikilink")が数多く発売されている。制作者が作ったCDやDVDが、きちんとしたクオリティで再生できているのかをチェックし、問題がない機器には「THXマーク」が表記される。
+
+### ビデオグラム
+
+制作者が制作したビデオマスターと市販されるビデオやDVDに差がないかどうかをチェックする。色やノイズ、音響など多岐にわたる基準があり、その全てをクリアすると、DVDジャケットにTHXマークを印刷することができる。この行程を行うには、費用と時間が掛かるので、THXマークの印刷されているDVDは、ハイクオリティでコストが掛かっているということになる。「[踊る大捜査線 SHAKEDOWN 2](../Page/踊る大捜査線.md "wikilink")BAYSIDE」のDVD制作をきっかけに、[フジテレビとの提携が行われ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、以後、邦画のTHX DVDが発売されるようになった。
+
+日本で『[ターミネーター2](https://ja.wikipedia.org/wiki/ターミネーター2 "wikilink") 特別編』(アメリカでは『[アビス](https://ja.wikipedia.org/wiki/アビス "wikilink") 完全版』が最初)から始まったTHXレーザーディスクでは、プロジェクターによる大画面投射を考慮して明るさを抑えたサイズの小さい字幕が使われており、同時期の(非THXの)映画ソフトでも同様の工夫が徐々に採用された。音響面では特にダイナミックレンジの制限(通常レーザーディスクのデジタル音声はアナログ音声トラックの音声レヴェルに合わせ音量は低めに取られていた)を撤廃した点でTHXソフトの優位性が確保された。\[2\]。
+
+THXレーザーディスクの時代からビデオグラム自体はほぼデジタル制作に移行しており、工程に「マスタリング用モニターの厳密な調整」が含まれる点を除けば音質の劣化要因は大きくなかった。一方雑誌のクオリティチェックでTHX認定ソフトが非THX認定ソフトの品質に大幅に負けてしまった例もある。その状況から工程をさらに遡り[テレシネ](https://ja.wikipedia.org/wiki/テレシネ "wikilink")段階で高品質を確保する重要さが認識され、映像・音響ともにより傷の少なく複製を経ていない世代の若い素材がテレシネに提供され、[1990年代](../Page/1990年代.md "wikilink")末にはHDテレシネも行われるようになった。
+
+## 主な作品
+
+  - [スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")シリーズ（第6作まで）（ルーカスフィルム）
+  - [インディ・ジョーンズ](https://ja.wikipedia.org/wiki/インディ・ジョーンズ "wikilink")シリーズ（ルーカスフィルム）
+  - [トイ・ストーリー](../Page/トイ・ストーリー.md "wikilink")（ディズニー/ピクサー）
+  - [トイ・ストーリー2](https://ja.wikipedia.org/wiki/トイ・ストーリー2 "wikilink")（ディズニー/ピクサー）
+  - [モンスターズ・インク](https://ja.wikipedia.org/wiki/モンスターズ・インク "wikilink")（ディズニー/ピクサー）
+  - [ファインディング・ニモ](../Page/ファインディング・ニモ.md "wikilink")（ディズニー/ピクサー）
+  - [Mr.インクレディブル](https://ja.wikipedia.org/wiki/Mr.インクレディブル "wikilink")（ディズニー/ピクサー）
+  - [踊る大捜査線 BAYSIDE SHAKEDOWN 2](https://ja.wikipedia.org/wiki/踊る大捜査線_BAYSIDE_SHAKEDOWN_2 "wikilink")（フジテレビジョン）
+  - [ウォーターボーイズ](../Page/ウォーターボーイズ.md "wikilink") （フジテレビジョン）
+  - [解夏](https://ja.wikipedia.org/wiki/解夏 "wikilink") （フジテレビジョン）
+  - [スウィングガールズ](https://ja.wikipedia.org/wiki/スウィングガールズ "wikilink") （フジテレビジョン）
+  - [笑の大学](https://ja.wikipedia.org/wiki/笑の大学 "wikilink") （フジテレビジョン）
+  - [ローレライ](https://ja.wikipedia.org/wiki/ローレライ_\(映画\) "wikilink") （フジテレビジョン）
+  - [劇場版 天地無用！シリーズ](../Page/天地無用!.md "wikilink")（AIC）
+
+## THXへの評価
+
+  - ゴールデンラズベリー賞
+
+[第19回ゴールデンラズベリー賞](https://ja.wikipedia.org/wiki/第19回ゴールデンラズベリー賞 "wikilink")にて「鼓膜が破れるほどうるさい殺傷兵器並の音響効果」として、最低作品傾向賞のノミネートを受けた。
+
+  - クリアマウンテンによる改善
+
+2008年[ボブ・クリアマウンテン](https://ja.wikipedia.org/wiki/ボブ・クリアマウンテン "wikilink")が映画「[ザ・ローリング・ストーンズ シャイン・ア・ライト](https://ja.wikipedia.org/wiki/ザ・ローリング・ストーンズ_シャイン・ア・ライト "wikilink")」の音響をプロデュースした際、THXシステムを完備する上映館で同作を鑑賞した監督の[マーティン・スコセッシ](../Page/マーティン・スコセッシ.md "wikilink")から「音が汚く聴こえる」と相談を受けた。もともと劇場用のTHX再生機器には、スクリーン裏に設置されたスピーカーの発する音声がスクリーンを透過する際レヴェルが下がる高域を補うための[イコライザー](https://ja.wikipedia.org/wiki/イコライザー "wikilink")（Xカーヴ）が組み込まれているが、この補正範囲を超えて「高域が痩せ、中域ばかり目立つ」という結果になっていたのである。クリアマウンテンは映画館で使われていたTHX認証スピーカーとスタジオ用モニターの特性の違いが原因である事を突き止め、適正化するためにTHX劇場に機材を持ち込み独自の劇場用イコライザー処理を行った\[3\]。
+
+## 日本での普及
+
+  - [FILM LLP](https://ja.wikipedia.org/wiki/FILM_LLP "wikilink") 日本でTHX承認DVDを制作するプロダクションであり、日本に於けるTHX社の窓口でもある
+  - [亀山千広](../Page/亀山千広.md "wikilink") ルーカスフィルムとの提携を積極的に行った。
+  - [関口大輔](https://ja.wikipedia.org/wiki/関口大輔 "wikilink") [ワーナー ブラザース ジャパンのプロデューサーとして](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")、THX DVDを日本に広める道を確立した。
+
+## 注釈
+
+<references/>
+
+## 外部リンク
+
+  - [THX pm3の規格と認証機材、スタジオの紹介(日本語)](http://www.thxpm3.jp/toc.html)
+
+[Category:ルーカスフィルム](https://ja.wikipedia.org/wiki/Category:ルーカスフィルム "wikilink") [Category:ロサンゼルス郡の企業](https://ja.wikipedia.org/wiki/Category:ロサンゼルス郡の企業 "wikilink") [Category:1983年設立の企業](https://ja.wikipedia.org/wiki/Category:1983年設立の企業 "wikilink")
+
+1.
+2.  1994年HiVi誌のインタビューによれば、『ジュラシック・パーク』の日本版制作用に映画会社から届いた最初の原盤はダイナミックレンジ制限が行われていたため、THXマスター制作まで移植作業を中断している
+3.  [サウンド&レコーディング・マガジン](https://ja.wikipedia.org/wiki/サウンド&レコーディング・マガジン "wikilink")（リットーミュージック）2009年8月号

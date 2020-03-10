@@ -1,0 +1,46 @@
+> この記事は[PUNCH](https://ja.wikipedia.org/wiki/PUNCH)から翻訳されています。
+
+
+『**PUNCH**』（パンチ）は、[ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink")の13th[アルバム](../Page/アルバム.md "wikilink")である。[2019年](../Page/2019年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")リリース。
+
+## 参加アーティスト
+
+  - 甲本ヒロト（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）
+  - 真島昌利（[ギター](../Page/ギター.md "wikilink")）
+  - [小林勝](../Page/小林勝_\(音楽家\).md "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
+  - [桐田勝治](../Page/桐田勝治.md "wikilink")（[ドラムス](../Page/ドラムセット.md "wikilink")）
+
+## 収録曲
+
+1.  **[会ってすぐ全部](https://ja.wikipedia.org/wiki/会ってすぐ全部 "wikilink")** (2:52)
+    （[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")/[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")）
+2.  **[怪鳥ディセンバー](https://ja.wikipedia.org/wiki/怪鳥ディセンバー "wikilink")** (3:20)
+    （作詞・作曲/[真島昌利](../Page/真島昌利.md "wikilink"))
+3.  **ケセケセ** (3:48)
+    （作詞・作曲/甲本ヒロト）
+4.  **デイジー** (2:26)
+    （作詞・作曲/真島昌利）
+5.  **ビッグチャンス** (3:04)
+    （作詞・作曲/甲本ヒロト）
+6.  **小麦粉の加工** (4:23)
+    （作詞・作曲/真島昌利）
+7.  **クレーンゲーム** (3:43)
+    （作詞・作曲/真島昌利）
+8.  **ガス人間** (2:13)
+    （作詞・作曲/甲本ヒロト）
+9.  **整理された箱** (3:58)
+    （作詞・作曲/真島昌利）
+10. **リリイ** (3:41)
+    （作詞・作曲/甲本ヒロト）
+11. **長い赤信号** (4:25)
+    （作詞・作曲/真島昌利）
+12. **ロケッティア** (2:01)
+    （作詞・作曲/甲本ヒロト）
+
+## 解説
+
+先行シングル「クレーンゲーム」を含む12曲入りのアルバムである。
+
+## 脚注
+
+[Category:2019年のアルバム](https://ja.wikipedia.org/wiki/Category:2019年のアルバム "wikilink") [Category:ザ・クロマニヨンズのアルバム](https://ja.wikipedia.org/wiki/Category:ザ・クロマニヨンズのアルバム "wikilink")

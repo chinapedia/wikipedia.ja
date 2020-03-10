@@ -1,0 +1,64 @@
+> この記事は[Resplendent \(\)](https://ja.wikipedia.org/wiki/Resplendent_\(\))から翻訳されています。
+
+
+**Resplendent**は2006年に出版された[英国](https://ja.wikipedia.org/wiki/英国 "wikilink")の[小説家](../Page/小説家.md "wikilink")[スティーヴン・バクスター](../Page/スティーヴン・バクスター.md "wikilink")によるSF小説[短編集](https://ja.wikipedia.org/wiki/短編集 "wikilink")。[デスティニーズチルドレン](../Page/デスティニーズチルドレン.md "wikilink")シリーズの最終作。
+
+短編の合間には不死人の少女ルル・パーツによる幕間が挿入されている。シリーズ全体を読むと彼女が短編集の最後まで全て経験をしたかのような歴史を形成する。
+
+## 収録作
+
+  - Cadre Siblings (from *[Interzone](https://ja.wikipedia.org/wiki/Interzone_\(magazine\) "wikilink")* 153, 2000年3月)
+  - Reality Dust (2000)
+  - Silver Ghost(*[Asimov’s](https://ja.wikipedia.org/wiki/Isaac_Asimov's_Science_Fiction_Magazine "wikilink")*2000年9月）- [SFマガジン](https://ja.wikipedia.org/wiki/SFマガジン "wikilink")2003年2月号に邦訳掲載
+  - On the Orion Line (*Asimov’s*, 2000年10月）
+  - In the Un-Black (from *Redshift*, 2001)
+  - The Ghost Pit (*Asimov’s*, 2001年7月）
+  - The Cold Sink (*Asimov’s*, 2001年8月）
+  - Breeding Ground (*Asimov’s*, 2003年2月）
+  - The Great Game (*Asimov’s*, 2003年3月）
+  - The Chop Line (*Asimov’s*, 2003)
+  - The Dreaming Mould, (*Interzone* 179, 2002年5月）
+  - Conurbation 2473 (from *Live without a Net*, 2003年8月）
+  - All in a Blaze (from *Stars: Stories Based on the Songs of Janis Ian*, 2003)
+  - Riding the Rock' (2002年11月）
+  - Lakes of Light (from *Constellations*, 2005)
+  - Between Worlds (from *Between Worlds*, 2004年9月より）
+  - Mayflower II (2004年8月）
+  - Ghost Wars (from *Asimov’s*, 2006年1月）
+
+## あらすじ
+
+### Reality Dust
+
+物語の舞台は第3次拡張時代が始まってすぐの頃の西暦5408年。3000年ごろに始まった最初の拡張の時代は、4874年に人類がスクウィームによって征服されたとき終了した。その後、スクウィームが撤退し5000年頃に始まった第2次拡張時代はクワックスによる人類の征服で終わりを告げる。ジム・ボールダーによるクワックスの母星の星系の破壊(短編**青方偏移**)の後、5400年ごろに第三時拡張時代が始まった\[1\] 。主人公である歴史真理委員会の調査員である「ハマ」は、生存しているクワックスの協力者を調査していた（クワックスはAS非老化テクノロジーへのアクセスを制限していたため）。協力者達は遥かな時を生き、「ファラオ」と呼ばれていた。彼はファラオ達を逮捕しに[木星](../Page/木星.md "wikilink")の[衛星](../Page/衛星.md "wikilink")[カリスト](https://ja.wikipedia.org/wiki/カリスト "wikilink")に赴く。
+
+### Riding the Rock
+
+第3次拡張時代の西暦23479年。人類はスクウィームとクワックスの連続した支配を打ち破った後、バリオン種族の中でジーリーに次ぐほど成功している。しかし、人類は1万8000年以上にわたってジーリーとの戦争を続けていたために、13歳の若さで兵士を送り出すほど極端に軍事的な社会となっていた。 主人公は歴史真理委員会の新人ルカ。若きルカは銀河全体の戦争を制御し、推進する知性ネットワークの中心にいた。そんなルカは艦長ティールと出会いすぐに惹かれる。しかし、拡張に対するルカの義務は、彼を銀河中心部激戦区への並外れた旅へいざなう。ルカはそこで星間戦争の真実に立ち向かう。
+
+### MayflowerII
+
+西暦5420年に太陽系から去った[世代宇宙船](../Page/世代宇宙船.md "wikilink")が主な舞台となる。[世代宇宙船](../Page/世代宇宙船.md "wikilink")が発進してから数千年が経過すると、人々は宇宙船に乗っていることを忘れ、宗教的な儀式を通してのみそのメカニズムを実行し始めるようになった。25000年後、船上の人間は進化の過程で分裂し、半分は子供のような短命な部族の人々となり、半分は共食いを行うようになる。結末のこの状況は恐ろしいように見えるかもしれないが、生命と進化は道を見つけ、人間は伝統的に人間と考えられていたものを放棄することを意味していても、生き続ける方法を見つけるという事実を語っている。
+
+物語は遠い将来の冥王星近辺の小惑星ポート・ソルで始まる。人類のかつての征服者であるクワックスの協力者であったその住民は、人類の奴隷化に対する復讐を求めて、新たに組織された新政府の連合から攻撃を受けていた。そのため、住民は連合から生き残ることができる独自のコロニーを形成できることを期待して、太陽系から5つの[世代宇宙船](../Page/世代宇宙船.md "wikilink")を送り出した。主人公のルーセルは、最後の最後に、宇宙船の1つであるメイフラワーIIに乗船した。離陸後間もなく、船の目的地は銀河の外にあり、[相対論](https://ja.wikipedia.org/wiki/相対論 "wikilink")効果による時間膨張の影響があっても、50000主観年の飛行時間が必要であることが明らかになった。
+
+宇宙船の船長は数人を選択して不老化処置を受けさせ、数千年の航海を通して船を導くことを可能にした。しかし、時間の経過とともに不死人となった人々は機能不全または退屈で死亡し、ルーセルのみが唯一の不死人として残ったが、彼は生命維持にますます依存するようになり、徐々に船と合併していった。
+
+時間が経つにつれて、船の他の住民はいくつかの異なる社会を形成し、徐々に元の人間性から変質していった。最終的に、彼らはほとんど人とは認識できない部族文明を形成した。彼らは宇宙船に乗っていることを忘れてしまったため、宗教的な伝統を通してそれを維持していた。
+
+25000年が経過した後、メイフラワーIIに元連合軍の兵士であるピリウスとトレック（Exultantの主人公）が接触する。彼らは住民を宇宙船から運び出し、他の場所で世話をすることを申し出る。ルセールは現在宇宙船のシステムと完全に統合されており、それらを可能にしていた。ルセールは、ピリウスとトレックの住民の負担にならないよう船から降ろす試みを喜んで受け入れた。
+
+### Siege of Earth
+
+本に含まれる最後の物語であり、火星の若者と小説の全体的な語り手であるルルとの出会いを描いている。この本の最後の部分では、『Xeelee：Endurance』に収録されている『Old Earth』の起源について説明している。
+
+## 関連項目
+
+  - [ジーリー](../Page/ジーリー.md "wikilink")
+  - [デスティニーズチルドレン](../Page/デスティニーズチルドレン.md "wikilink")
+
+## 脚注
+
+[Category:イギリスのSF小説](https://ja.wikipedia.org/wiki/Category:イギリスのSF小説 "wikilink") [Category:2006年の小説](https://ja.wikipedia.org/wiki/Category:2006年の小説 "wikilink") [Category:ジーリー・クロニクル](https://ja.wikipedia.org/wiki/Category:ジーリー・クロニクル "wikilink") [Category:スティーヴン・バクスター](https://ja.wikipedia.org/wiki/Category:スティーヴン・バクスター "wikilink") [Category:地球外生命体を題材とした小説](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした小説 "wikilink") [Category:未来を題材にした作品](https://ja.wikipedia.org/wiki/Category:未来を題材にした作品 "wikilink") [Category:宇宙戦争を題材とした作品](https://ja.wikipedia.org/wiki/Category:宇宙戦争を題材とした作品 "wikilink") [Category:天文を扱った作品](https://ja.wikipedia.org/wiki/Category:天文を扱った作品 "wikilink") [Category:宇宙を舞台としたSF作品](https://ja.wikipedia.org/wiki/Category:宇宙を舞台としたSF作品 "wikilink") [Category:スペースオペラ](https://ja.wikipedia.org/wiki/Category:スペースオペラ "wikilink")
+
+1.

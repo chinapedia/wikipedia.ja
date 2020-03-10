@@ -1,0 +1,25 @@
+> この記事は[Borg \(\)](https://ja.wikipedia.org/wiki/Borg_\(\))から翻訳されています。
+
+
+**Borg**は[Google](../Page/Google.md "wikilink")が使用するである\[1\]。Borgの存在が、同様のアプローチを行う[Docker](https://ja.wikipedia.org/wiki/Docker "wikilink")や[Kubernetes](https://ja.wikipedia.org/wiki/Kubernetes "wikilink")が広く普及するきっかけとなった\[2\]。
+
+## 関連項目
+
+  - [Apache Mesos](https://ja.wikipedia.org/wiki/Apache_Mesos "wikilink")
+
+  -
+  - [Kubernetes](https://ja.wikipedia.org/wiki/Kubernetes "wikilink")
+
+  -
+  - （コンテナ化）
+
+## 参考文献
+
+  - [A New Era of Container Cluster Management with Kubernetes](https://medium.com/containermind/a-new-era-of-container-cluster-management-with-kubernetes-cd0b804e1409)
+
+## 出典
+
+[Category:Googleのソフトウェア](https://ja.wikipedia.org/wiki/Category:Googleのソフトウェア "wikilink")
+
+1.
+2.

@@ -1,0 +1,188 @@
+> この記事は[ VSVS](https://ja.wikipedia.org/wiki/_VSVS)から翻訳されています。
+
+
+<div class="pathnavbox">
+
+  -   -
+      -
+
+</div>
+
+『**劇場版 騎士竜戦隊リュウソウジャーVSルパンレンジャーVSパトレンジャー**』（げきじょうばん きしりゅうせんたいリュウソウジャー ブイエス ルパンレンジャー ブイエス パトレンジャー）は、[2020年](../Page/2020年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")公開より[東映](../Page/東映.md "wikilink")系で[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")映画『**スーパー戦隊MOVIEパーティー**』の1作として公開された日本の映画作品\[1\]\[2\]。同時上映は、『[魔進戦隊キラメイジャー エピソードZERO](https://ja.wikipedia.org/wiki/魔進戦隊キラメイジャー_エピソードZERO "wikilink")』。
+
+キャッチコピーは「スーパー戦隊MOVIEがはじまるぞ！」「騎士竜たちと永遠の別れ\!?最強の敵を前に試されるそれぞれの正義\!\!」\[3\]。
+
+## 概要
+
+[VS映画としてはスーパー戦隊祭](../Page/スーパー戦隊Vシネマ.md "wikilink")『[劇場版 動物戦隊ジュウオウジャーVSニンニンジャー 未来からのメッセージ from スーパー戦隊](https://ja.wikipedia.org/wiki/劇場版_動物戦隊ジュウオウジャーVSニンニンジャー_未来からのメッセージ_from_スーパー戦隊 "wikilink")』より3年後を経て公開された『[騎士竜戦隊リュウソウジャー](https://ja.wikipedia.org/wiki/騎士竜戦隊リュウソウジャー "wikilink")』と『[快盗戦隊ルパンレンジャーVS警察戦隊パトレンジャー](https://ja.wikipedia.org/wiki/快盗戦隊ルパンレンジャーVS警察戦隊パトレンジャー "wikilink")』がメインのスーパー戦隊クロスオーバー映画作品。時系列としてはリュウソウジャーがマックスリュウソウレッドが登場した少なくとも第33話以降、ルパvsパトは最終回以降の後日談となる\[4\]。
+
+興行通信社提供の全国週末興行成績（2月8日・9日）では初登場第5位\[5\]。2月7日・8日公開作品のぴあ映画初日満足度ランキングでは91.3点の第2位\[6\]となった。
+
+## ストーリー
+
+戦闘民族ドルイドンの尖兵・クレオンは、自身の隠れ家として利用できる場所を探して辿り着いた洞窟の牢屋で、異世界犯罪集団ギャングラーの残党**ガニマ・ノシアガルダ**を発見。クレオンは牢屋から抜け出せず苛立つガニマのマイナス感情に目を付け、グリフォンマイナソーを生み出す。
+
+その頃、**リュウソウジャー**の**コウ**はパートナー騎士竜のティラミーゴと水辺で戯れていたが、些細なことで喧嘩してしまう。その直後、ティラミーゴの悲鳴を聞いて駆けつけたコウは、クレオンの手引きで牢屋を抜け出したガニマによってティラミーゴが金庫に囚われるのを目撃する。更にティラミーゴ以外にも4体の騎士竜がガニマに囚われた事を知ったコウは、合流したメルト達と共に救出を試みるが、封印した騎士竜たちの力を操るガニマに苦戦を強いられ、コウは吹き飛ばされてしまう。
+
+ガニマに吹き飛ばされ気を失ったコウは、「探偵」を名乗る青年・**夜野魁利**と対面する。一方、トワとバンバはグリフォンマイナソーの行方を追っていたが、リュウソウケンを持っているところを「不審者」と見なした国際警察の**朝加圭一郎**と**陽川咲也**に逮捕されてしまう。その頃、メルトとアスナはギャングラーと戦い続けていた**高尾ノエル**から、ガニマが騎士竜を閉じ込めている金庫を開ける方法を訊ねる。
+
+## 登場人物
+
+### 本作品のオリジナルキャラクター
+
+  - ガニマ・ノシアガルダ
+    洞窟の牢屋に幽閉されていたギャングラーの残党。胴体は赤いカプセルに入った[ゴリラ](../Page/ゴリラ.md "wikilink")、右腕は白い[虎](https://ja.wikipedia.org/wiki/虎 "wikilink")、左腕は黄色い[アシカ](../Page/アシカ.md "wikilink")、右足に緑色の[象](https://ja.wikipedia.org/wiki/象 "wikilink")、左足に青い[チョウザメ](https://ja.wikipedia.org/wiki/チョウザメ "wikilink")のような姿をしておりキューブ状の槍を武器として使う。今は亡きゴーシュ・ル・メドゥの実験台であった、5つの金庫を持つステイタスクインティブルでギャングラー再興のためルパンコレクション未所持のため代わりに目をつけた騎士竜たちを金庫に閉じ込めたためこの影響で金庫に閉じ込めた騎士竜たちの力（ディメボルケーノの炎、パキガルー&チビガルーの突き攻撃、モサレックスの水中戦＆電撃攻撃、プテラードンの空中戦＆冷気攻撃）を使うことができ、更に生命力が強いティラミーゴのパワーによってステイタスクインティブルゴールドに進化して、その金庫を解除するには10個のダイヤルファイターが必要となってしまった。
+    デザインを担当した[久正人](https://ja.wikipedia.org/wiki/久正人 "wikilink")のインタビューによればモチーフは『[動物戦隊ジュウオウジャー](https://ja.wikipedia.org/wiki/動物戦隊ジュウオウジャー "wikilink")』のキューブアニマル達のキメラでライオンと鷲、鮫がいなかったため、鮫はチョウザメ、ライオンはアシカ（アシカは英語でシーライオン）、鷲は後述のグリフォンマイナソーで補っている。
+  - グリフォンマイナソー
+    ガニマが生み出した[グリフォン](../Page/グリフォン.md "wikilink")をモチーフに生み出したマイナソー。紫色の猛獣が灰色の猛禽類の皮を被ったような姿で、両腕は機関銃が内蔵された剣になっており、両肩にかけては[弾帯](https://ja.wikipedia.org/wiki/弾帯 "wikilink")と掛け合わせたような翼を生やしている。デザインを担当した久正人のインタビューによればモチーフはルパンレンジャーとパトレンジャー双方の敵対組織ギャングラーの幹部陣及び戦闘員のボーダマンで、頭部の鶏冠はドグラニオの帽子、鼻はデストラのボディ、暖帯はゴーシュの腕、両腕は二丁拳銃を使うザミーゴ、紫色の猛獣はライモン軍団リーダーのライモン、腕の銃と剣はボーダマンが使う武器の銃剣を掛け合わせた姿になっており、さらに横顔自体ギャングラーのエンブレムに酷似している。なお、マイナソーの特徴である生命エネルギー吸収効果を持たない。
+
+## 装備・戦力・アイテム
+
+  - 始まりのリュウソウル / ルパンソウル
+    ステイタスクインティブルゴールドの力で解除させるためにもダイヤルファイターの数が足りない状況に打開案として思いついた、ノエルが所持していたアルセーヌ・ルパン所蔵の「始まりのリュウソウル」にルパンレンジャーのソウルを注入することで誕生した怪盗のソウル。リュウソウジャーの3人をルパンレンジャーに変身させる。
+  - スーパールパンイエロー
+    ビクトリーアーマーを装備した形態。
+  - スーパーパトレン2号
+    サイレンアーマーを装備した形態。
+  - スーパーリュウソウグリーン
+    サイレンアーマーを装備した形態。カルソウルで軽量化して使用した。
+  - [玉手箱](../Page/玉手箱.md "wikilink")（Vieillis avec moi）
+    かつてアルセーヌ・ルパンが海のリュウソウ族と出会い「始まりのリュウソウル」を受け取ったお礼に交換した宝箱型ルパンコレクションで、「一緒に歳をとっていこう」というメッセージが込められている。モチーフは『[海賊戦隊ゴーカイジャー](https://ja.wikipedia.org/wiki/海賊戦隊ゴーカイジャー "wikilink")』の「ゴーカイトレジャーボックス」。
+
+## キャスト
+
+\[7\]
+
+  - 『騎士竜戦隊リュウソウジャー』
+
+<!-- end list -->
+
+  - コウ / リュウソウレッド（声） / マックスリュウソウレッド（声） - [一ノ瀬颯](https://ja.wikipedia.org/wiki/一ノ瀬颯 "wikilink")
+  - メルト / リュウソウブルー（声） - [綱啓永](https://ja.wikipedia.org/wiki/綱啓永 "wikilink")
+  - アスナ / リュウソウピンク（声） - [尾碕真花](https://ja.wikipedia.org/wiki/尾碕真花 "wikilink")
+  - トワ / リュウソウグリーン（声） - [小原唯和](https://ja.wikipedia.org/wiki/小原唯和 "wikilink")
+  - バンバ / リュウソウブラック（声） - [岸田タツヤ](https://ja.wikipedia.org/wiki/岸田タツヤ "wikilink")
+  - カナロ / リュウソウゴールド（声） - [兵頭功海](https://ja.wikipedia.org/wiki/兵頭功海 "wikilink")
+  - オト - [田牧そら](https://ja.wikipedia.org/wiki/田牧そら "wikilink")
+
+<!-- end list -->
+
+  - 『快盗戦隊ルパンレンジャーVS警察戦隊パトレンジャー』
+
+<!-- end list -->
+
+  - 夜野魁利 / ルパンレッド（声） - [伊藤あさひ](https://ja.wikipedia.org/wiki/伊藤あさひ "wikilink")
+  - 宵町透真 / ルパンブルー（声） - [濱正悟](https://ja.wikipedia.org/wiki/濱正悟 "wikilink")
+  - 早見初美花 / ルパンイエロー（声） - [工藤遥](https://ja.wikipedia.org/wiki/工藤遥 "wikilink")
+  - 朝加圭一郎 / パトレン1号（声） - [結木滉星](https://ja.wikipedia.org/wiki/結木滉星 "wikilink")
+  - 陽川咲也 / パトレン2号（声） - [横山涼](https://ja.wikipedia.org/wiki/横山涼 "wikilink")
+  - 明神つかさ / パトレン3号（声） - [奥山かずさ](https://ja.wikipedia.org/wiki/奥山かずさ "wikilink")
+  - 高尾ノエル / ルパンエックス（声） / パトレンエックス（声） - [元木聖也](https://ja.wikipedia.org/wiki/元木聖也 "wikilink")
+  - 大林 - [大林勝](../Page/大林勝.md "wikilink")
+
+### 声の出演
+
+\[8\]
+
+  - ガニマ・ノシアガルダ - [大塚明夫](../Page/大塚明夫.md "wikilink")
+
+<!-- end list -->
+
+  - 『騎士竜戦隊リュウソウジャー』
+
+<!-- end list -->
+
+  - ティラミーゴ - [てらそままさき](../Page/てらそままさき.md "wikilink")
+  - ディメボルケーノ - [高木渉](../Page/高木渉.md "wikilink")
+  - モサレックス - [竹内良太](https://ja.wikipedia.org/wiki/竹内良太 "wikilink")
+  - ピーたん - [草尾毅](../Page/草尾毅.md "wikilink")
+  - チビガルー - [M・A・O](../Page/市道真央.md "wikilink")
+  - クレオン - [白石涼子](https://ja.wikipedia.org/wiki/白石涼子 "wikilink")
+
+<!-- end list -->
+
+  - 『快盗戦隊ルパンレンジャーVS警察戦隊パトレンジャー』
+
+<!-- end list -->
+
+  - ジム・カーター - [釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")
+
+### スーツアクター
+
+ジャパンアクションエンタープライズ出演情報より\[9\]。
+
+  - [伊藤茂騎](https://ja.wikipedia.org/wiki/伊藤茂騎 "wikilink")
+  - [高田将司](../Page/高田将司.md "wikilink")
+  - [下園愛弓](https://ja.wikipedia.org/wiki/下園愛弓 "wikilink")
+  - [蔦宗正人](https://ja.wikipedia.org/wiki/蔦宗正人 "wikilink")
+  - [竹内康博](../Page/竹内康博.md "wikilink")
+  - [岡田和也](https://ja.wikipedia.org/wiki/岡田和也_\(俳優\) "wikilink")
+  - 大林勝
+  - [五味涼子](https://ja.wikipedia.org/wiki/五味涼子 "wikilink")
+  - [おぐらとしひろ](../Page/おぐらとしひろ.md "wikilink")
+  - [神尾直子](../Page/神尾直子.md "wikilink")
+  - [村岡弘之](../Page/村岡弘之.md "wikilink")
+  - [寺本翔悟](https://ja.wikipedia.org/wiki/寺本翔悟 "wikilink")
+  - [渡辺実](../Page/渡辺実_\(俳優\).md "wikilink")
+  - [藤田洋平](https://ja.wikipedia.org/wiki/藤田洋平_\(俳優\) "wikilink")
+  - [鍜治洸太朗](https://ja.wikipedia.org/wiki/鍜治洸太朗 "wikilink")
+  - 久田悠貴
+  - 豊田泰史
+  - 清水麟太郎
+  - 五十嵐睦美
+  - 米岡孝弘
+  - 相田真滉
+  - 坂梨由芽
+  - 井口尚哉
+  - 石黒鉄二
+  - 中井絢子
+  - 伊藤よしの
+  - 宇佐見紗風
+
+## スタッフ
+
+\[10\]
+
+  - 監督 - [渡辺勝也](../Page/渡辺勝也.md "wikilink")
+  - 原作 - [八手三郎](../Page/八手三郎.md "wikilink")
+  - 脚本 - [香村純子](https://ja.wikipedia.org/wiki/香村純子 "wikilink")、[荒川稔久](../Page/荒川稔久.md "wikilink")
+  - 音楽 - [吉川清之](https://ja.wikipedia.org/wiki/吉川清之 "wikilink")、[高木洋](../Page/高木洋.md "wikilink")
+  - 撮影 - [大沢信吾](../Page/大沢信吾.md "wikilink")
+  - アクション監督 - [福沢博文](../Page/福沢博文.md "wikilink")
+  - アクション監督補 - [おぐらとしひろ](../Page/おぐらとしひろ.md "wikilink")\[11\]
+  - 特撮監督 - [佛田洋](../Page/佛田洋.md "wikilink")
+  - 制作プロダクション - [東映テレビ・プロダクション](https://ja.wikipedia.org/wiki/東映テレビ・プロダクション "wikilink")
+  - 製作 - スーパー戦隊MOVIEパーティー（[東映](../Page/東映.md "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")、[東映ビデオ](../Page/東映ビデオ.md "wikilink")、[バンダイ](../Page/バンダイ.md "wikilink")、[東映エージエンシー](../Page/東映エージエンシー.md "wikilink")、[日本コロムビア](../Page/日本コロムビア.md "wikilink")）
+
+## 音楽
+
+\[12\]
+
+  - 「ルパンレンジャーVSパトレンジャー」
+    作詞 - [藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲・編曲 - 高木洋 （Project.R） / 歌 - Project.R（[吉田達彦](https://ja.wikipedia.org/wiki/吉田達彦 "wikilink")、[吉田仁美](../Page/吉田仁美.md "wikilink")）
+  - 「騎士竜戦隊リュウソウジャー」
+    作詞 - [マイクスギヤマ](../Page/マイクスギヤマ.md "wikilink") / 作曲 - [園田健太郎](https://ja.wikipedia.org/wiki/園田健太郎 "wikilink") / 編曲 - [甲田雅人](../Page/甲田雅人.md "wikilink") / 歌 - [幡野智宏](https://ja.wikipedia.org/wiki/幡野智宏 "wikilink")
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 外部リンク
+
+  -
+[Category:スーパー戦隊シリーズ映画作品](https://ja.wikipedia.org/wiki/Category:スーパー戦隊シリーズ映画作品 "wikilink") [Category:スーパー戦隊シリーズのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:スーパー戦隊シリーズのクロスオーバー作品 "wikilink") [Category:2020年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2020年代の特撮作品 "wikilink") [Category:2020年の映画](https://ja.wikipedia.org/wiki/Category:2020年の映画 "wikilink") [Category:渡辺勝也の監督映画](https://ja.wikipedia.org/wiki/Category:渡辺勝也の監督映画 "wikilink") [Category:騎士竜戦隊リュウソウジャー](https://ja.wikipedia.org/wiki/Category:騎士竜戦隊リュウソウジャー "wikilink") [Category:快盗戦隊ルパンレンジャーVS警察戦隊パトレンジャー](https://ja.wikipedia.org/wiki/Category:快盗戦隊ルパンレンジャーVS警察戦隊パトレンジャー "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
+
+1.  [「リュウソウジャーVSルパンレンジャーVSパトレンジャー」夢の競演を果たす最新場面写真が公開](https://animeanime.jp/article/2020/01/19/51022.html)アニメ！アニメ！ 2020年1月19日
+2.  [4大スーパー戦隊大集合！『劇場版 騎士竜戦隊リュウソウジャーＶＳルパンレンジャーＶＳパトレンジャー／ 魔進戦隊キラメイジャー エピソードZERO【スーパー戦隊MOVIEパーティー】』初日舞台挨拶【レポート】](https://news.nicovideo.jp/watch/nw6585128)ニコニコニュース 2020年2月11日
+3.
+4.
+5.
+6.
+7.  パンフレット p16
+8.
+9.
+10.
+11.
+12.

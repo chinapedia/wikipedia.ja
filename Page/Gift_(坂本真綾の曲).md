@@ -5,16 +5,16 @@
 
 ## 概要
 
-「ボクらの歴史」（サウンドトラックCD『[「CLAMP学園探偵団」MINI SOUND TRACK](https://ja.wikipedia.org/wiki/「CLAMP学園探偵団」MINI_SOUND_TRACK "wikilink")』収録）がラジオドラマ『[CLAMP学園探偵団](https://ja.wikipedia.org/wiki/CLAMP学園探偵団 "wikilink")』テーマソングに起用された縁故でアニメ版のテーマソングにも起用が決定された。
+「ボクらの歴史」（サウンドトラックCD『[「CLAMP学園探偵団」MINI SOUND TRACK](../Page/「CLAMP学園探偵団」MINI_SOUND_TRACK.md "wikilink")』収録）がラジオドラマ『[CLAMP学園探偵団](../Page/CLAMP学園探偵団.md "wikilink")』テーマソングに起用された縁故でアニメ版のテーマソングにも起用が決定された。
 
 坂本真綾のオリジナルシングルとしては唯一オリコンチャートにランクインしなかった作品でもある。
 
 ## 収録曲
 
-（全作詞 - [岩里祐穂](https://ja.wikipedia.org/wiki/岩里祐穂 "wikilink") / 作曲・編曲 - [菅野よう子](../Page/菅野よう子.md "wikilink")）
+（全作詞 - [岩里祐穂](../Page/岩里祐穂.md "wikilink") / 作曲・編曲 - [菅野よう子](../Page/菅野よう子.md "wikilink")）
 
 1.  **Gift**\[1\]
-      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[CLAMP学園探偵団](https://ja.wikipedia.org/wiki/CLAMP学園探偵団 "wikilink")』エンディングテーマ
+      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[CLAMP学園探偵団](../Page/CLAMP学園探偵団.md "wikilink")』エンディングテーマ
 2.  **君に会いにいこう**
 3.  Gift（オリジナル・カラオケ）
 4.  君に会いにいこう（オリジナル・カラオケ）

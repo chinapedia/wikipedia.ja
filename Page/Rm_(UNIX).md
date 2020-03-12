@@ -1,9 +1,9 @@
 > この記事は[Rm \(UNIX\)](https://ja.wikipedia.org/wiki/Rm_\(UNIX\))から翻訳されています。
 
 
-**rm**（アールエム）は[POSIX](../Page/POSIX.md "wikilink")および[Single UNIX Specificationで規定されている](https://ja.wikipedia.org/wiki/Single_UNIX_Specification "wikilink")[コマンドである](https://ja.wikipedia.org/wiki/コマンド_\(コンピュータ\) "wikilink")。
+**rm**（アールエム）は[POSIX](../Page/POSIX.md "wikilink")および[Single UNIX Specificationで規定されている](../Page/Single_UNIX_Specification.md "wikilink")[コマンドである](https://ja.wikipedia.org/wiki/コマンド_\(コンピュータ\) "wikilink")。
 
-rmは「remove」の略であり、[ファイルシステム](../Page/ファイルシステム.md "wikilink")より[ファイルを削除するために使用される](https://ja.wikipedia.org/wiki/ファイル_\(コンピュータ\) "wikilink")。[AT\&T](../Page/AT&T.md "wikilink") UNIXの最初のバージョンから存在していた。
+rmは「remove」の略であり、[ファイルシステム](../Page/ファイルシステム.md "wikilink")より[ファイルを削除するために使用される](../Page/ファイル_\(コンピュータ\).md "wikilink")。[AT\&T](../Page/AT&T.md "wikilink") UNIXの最初のバージョンから存在していた。
 
 ## 振る舞い
 
@@ -15,7 +15,7 @@ POSIXオプションを次に示す。
   - \-i すべての削除に対して問い合わせを表示する。
   - \-r または -R 指定以下のディレクトリツリーを削除する。
 
-[スティッキービット](https://ja.wikipedia.org/wiki/スティッキービット "wikilink")のセットされているディレクトリ配下のファイルは、そのファイルの所有者かディレクトリの所有者か[スーパーユーザー](https://ja.wikipedia.org/wiki/スーパーユーザー "wikilink")でないと削除できない。
+[スティッキービット](../Page/スティッキービット.md "wikilink")のセットされているディレクトリ配下のファイルは、そのファイルの所有者かディレクトリの所有者か[スーパーユーザー](../Page/スーパーユーザー.md "wikilink")でないと削除できない。
 
 ## 名前が `-` で始まるファイルの削除
 

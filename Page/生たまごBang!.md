@@ -1,17 +1,17 @@
 > この記事は[Bang!](https://ja.wikipedia.org/wiki/Bang!)から翻訳されています。
 
 
-『**生たまごBang\!**』（なまたまごバン\!）は、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSSテレビ）で放送されている[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。毎週水曜日 19:00 - 19:54に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されている。[山陰地方](../Page/山陰地方.md "wikilink")のローカル情報番組がゴールデンタイムでレギュラー放送を行うのは初めて。
+『**生たまごBang\!**』（なまたまごバン\!）は、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSSテレビ）で放送されている[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。毎週水曜日 19:00 - 19:54に[生放送](../Page/生放送.md "wikilink")されている。[山陰地方](../Page/山陰地方.md "wikilink")のローカル情報番組がゴールデンタイムでレギュラー放送を行うのは初めて。
 
-[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から2014年3月までは、『**土曜日の生たまご**』（どようびのなまたまご）として土曜 9:25 - 10:15に放送されていた。
+[1992年](../Page/1992年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から2014年3月までは、『**土曜日の生たまご**』（どようびのなまたまご）として土曜 9:25 - 10:15に放送されていた。
 
 ## 概要
 
 ### 土曜日の生たまご
 
-[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")10月スタートの『BSS座・テレビ』（土曜17:30から30分）の後番組で、山陰エリアにおける情報バラエティ番組のパイオニアである。
+[1991年](../Page/1991年.md "wikilink")10月スタートの『BSS座・テレビ』（土曜17:30から30分）の後番組で、山陰エリアにおける情報バラエティ番組のパイオニアである。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink")の放送で777回、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月12日](../Page/4月12日.md "wikilink")の放送で800回、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月24日](../Page/4月24日.md "wikilink")の放送で900回を迎えた。そして[2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")には20周年を迎え、同年[5月26日](../Page/5月26日.md "wikilink")に放送1000回を達成した。
+[2007年](../Page/2007年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")の放送で777回、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月12日](../Page/4月12日.md "wikilink")の放送で800回、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月24日](../Page/4月24日.md "wikilink")の放送で900回を迎えた。そして[2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")には20周年を迎え、同年[5月26日](../Page/5月26日.md "wikilink")に放送1000回を達成した。
 
 [2014年](../Page/2014年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")の放送をもって、土曜 9:25 - 10:15枠での放送は終了。2014年4月からは後述の『生たまごBang\!』として水曜夜に移動。土曜朝の同時間帯は2014年[4月12日](../Page/4月12日.md "wikilink")から2019年9月14日まで情報番組『[まいどっ♪](https://ja.wikipedia.org/wiki/まいどっ♪ "wikilink")』が放送された。2019年10月5日から土曜朝の同時間帯は『生たまごBang\!』の姉妹番組『Bang\!+』が放送されている。
 
@@ -29,7 +29,7 @@
 
 #### 出演者
 
-  - [山根伸志](https://ja.wikipedia.org/wiki/山根伸志 "wikilink")（☆、2013年5月11日 - ）
+  - [山根伸志](../Page/山根伸志.md "wikilink")（☆、2013年5月11日 - ）
   - [森田初実](https://ja.wikipedia.org/wiki/森田初実 "wikilink") (☆、2019年10月 - )
   - MOE（2014年4月 - ） - 2018年3月までガールズユニット[kotonoha](https://ja.wikipedia.org/wiki/kotonoha "wikilink")のメンバーとして出演。
   - [近藤夏子](https://ja.wikipedia.org/wiki/近藤夏子 "wikilink")（2018年4月 - ）
@@ -44,18 +44,18 @@
 
 #### ナレーション・リポーター
 
-  - [古原奈々](https://ja.wikipedia.org/wiki/古原奈々 "wikilink") - 番組ナレーション担当
+  - [古原奈々](../Page/古原奈々.md "wikilink") - 番組ナレーション担当
   - [べるを](https://ja.wikipedia.org/wiki/べるを "wikilink")（ローカルタレント、2014年4月 - ）
 
 ### 過去
 
 #### 土曜日の生たまご
 
-  - [宇田川修一](https://ja.wikipedia.org/wiki/宇田川修一 "wikilink")（☆、1992年4月 - 2000年3月） - 初代MC
+  - [宇田川修一](../Page/宇田川修一.md "wikilink")（☆、1992年4月 - 2000年3月） - 初代MC
   - [山本リエ](https://ja.wikipedia.org/wiki/山本リエ "wikilink")（1992年4月 - 2001年3月） - 初代MC
-  - [和田季子](https://ja.wikipedia.org/wiki/和田季子 "wikilink")（当時☆、1992年4月 - 1997年12月） - 中継リポーター
+  - [和田季子](../Page/和田季子.md "wikilink")（当時☆、1992年4月 - 1997年12月） - 中継リポーター
   - [ユッコ](https://ja.wikipedia.org/wiki/ユッコ "wikilink")（1998年4月 - 2000年3月）
-  - [大田祐樹](https://ja.wikipedia.org/wiki/大田祐樹 "wikilink")（☆、2000年4月 - 2001年3月）
+  - [大田祐樹](../Page/大田祐樹.md "wikilink")（☆、2000年4月 - 2001年3月）
   - 多田ともえ（2000年4月 - 2005年3月）
   - [谷口あつし](https://ja.wikipedia.org/wiki/谷口篤史 "wikilink")（☆、2001年4月 - 2014年3月）
   - [MASAKO](https://ja.wikipedia.org/wiki/MASAKO "wikilink")（ローカルタレント、2001年8月18日 - 2006年3月、2007年4月 - 2014年3月）
@@ -65,15 +65,15 @@
 
   - [橋本航介](https://ja.wikipedia.org/wiki/橋本航介 "wikilink")（当時☆、2014年4月 - 2015年3月）
   - [美留香](https://ja.wikipedia.org/wiki/美留香 "wikilink")（ものまねタレント、2014年4月 - 2015年3月）
-  - [御秒奈々](https://ja.wikipedia.org/wiki/御秒奈々 "wikilink")（モデル・タレント、不定期出演） - 2014年から生たまごファミリーとして不定期出演し、2015年4月15日から2016年3月23日までは産休中の丸山に代わりメインMCを担当。
+  - [御秒奈々](../Page/御秒奈々.md "wikilink")（モデル・タレント、不定期出演） - 2014年から生たまごファミリーとして不定期出演し、2015年4月15日から2016年3月23日までは産休中の丸山に代わりメインMCを担当。
   - [kotonoha](https://ja.wikipedia.org/wiki/kotonoha "wikilink")（MOE・YUKA）（ガールズユニット、2014年4月 - 2018年3月）
-  - [丸山聡美](https://ja.wikipedia.org/wiki/丸山聡美 "wikilink")（☆、2008年4月 - 2015年3月、2016年4月6日 - 2018年4月） - メインMC
+  - [丸山聡美](../Page/丸山聡美.md "wikilink")（☆、2008年4月 - 2015年3月、2016年4月6日 - 2018年4月） - メインMC
   - [山田弥希寿](https://ja.wikipedia.org/wiki/山田弥希寿 "wikilink")（☆） - 「本日創刊ヤマダジャーナル」のコーナーなどを担当
   - [平川彩佳](https://ja.wikipedia.org/wiki/平川彩佳 "wikilink")（☆、2014年4月 - 2015年9月） - 「今夜のあて」のコーナー担当
   - [岡村帆奈美](https://ja.wikipedia.org/wiki/岡村帆奈美 "wikilink")（☆、2014年4月 - 2016年3月23日） - 「今夜のあて」のコーナー担当
   - [板井文昭](../Page/板井文昭.md "wikilink")（☆、2014年4月 - ） - 「今夜のあて」ナレーション、常連客
   - [北川佳歩](https://ja.wikipedia.org/wiki/北川佳歩 "wikilink")（2015年11月18日 - 2017年3月22日 ） - 「今夜のあて」のコーナー担当
-  - [秦まりな](https://ja.wikipedia.org/wiki/秦まりな "wikilink")（☆） - 「今夜のあて」のコーナー担当
+  - [秦まりな](../Page/秦まりな.md "wikilink")（☆） - 「今夜のあて」のコーナー担当
   - えり - tabetter担当
   - ハラミ - tabetter担当
 
@@ -155,7 +155,7 @@
 ## テーマ曲
 
   - egg strut （Black Bottom Brass Band、未定 - 2010年4月）
-  - Goody Goody （[小野リサ](https://ja.wikipedia.org/wiki/小野リサ "wikilink")、2010年4月 - 2012年5月）
+  - Goody Goody （[小野リサ](../Page/小野リサ.md "wikilink")、2010年4月 - 2012年5月）
   - HAPPY RAP （2012年6月 - ）
   - Bang\! Bang\! Bang\!（[kotonoha](https://ja.wikipedia.org/wiki/kotonoha "wikilink")、2014年4月 - ）
 
@@ -163,8 +163,8 @@
 
   - BSSラジオのラジオ番組『[谷口あつしのRADIO☆MONDAY](https://ja.wikipedia.org/wiki/谷口あつしのRADIO☆MONDAY "wikilink")』（月曜日18:30 - 19:30）には、本番組の姉妹コーナーとも言える「月曜日のゆでたまご」のコーナーがあった。
   - 『土曜日の生たまご』時代は毎年春と秋に行われる[BSSまつり](https://ja.wikipedia.org/wiki/BSSまつり "wikilink")のときには会場からの公開生放送を行っていた。
-  - 『土曜日の生たまご』時代の2008年8月-2014年3月まで不定期でスペシャル版として 山陰地方ローカル番組史上初となるゴールデンタイム放送を行っていた。2008年のスペシャルではタレントの[ルー大柴](../Page/ルー大柴.md "wikilink")、2010年2月の放送では元[サッカー日本代表](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")の[岡野雅行選手](https://ja.wikipedia.org/wiki/岡野雅行_\(サッカー選手\) "wikilink")、2011年2月の放送では空手形女子アジア王者の[宇佐美里香](https://ja.wikipedia.org/wiki/宇佐美里香 "wikilink")選手をゲストに迎えた。
-  - 『土曜日の生たまご』時代の2010年4月 - 2014年3月までは､その日の深夜（日曜日になってから）に『**土曜日の生たまごAGAIN**』として[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")していた（ただし、一部コーナーをカットして40分程度の枠として放送。またBSSまつりの生中継回の場合、再放送は休止になった。）が、当番組では再放送を行わない予定。
+  - 『土曜日の生たまご』時代の2008年8月-2014年3月まで不定期でスペシャル版として 山陰地方ローカル番組史上初となるゴールデンタイム放送を行っていた。2008年のスペシャルではタレントの[ルー大柴](../Page/ルー大柴.md "wikilink")、2010年2月の放送では元[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")の[岡野雅行選手](../Page/岡野雅行_\(サッカー選手\).md "wikilink")、2011年2月の放送では空手形女子アジア王者の[宇佐美里香](https://ja.wikipedia.org/wiki/宇佐美里香 "wikilink")選手をゲストに迎えた。
+  - 『土曜日の生たまご』時代の2010年4月 - 2014年3月までは､その日の深夜（日曜日になってから）に『**土曜日の生たまごAGAIN**』として[再放送](../Page/再放送.md "wikilink")していた（ただし、一部コーナーをカットして40分程度の枠として放送。またBSSまつりの生中継回の場合、再放送は休止になった。）が、当番組では再放送を行わない予定。
 
 ## 脚注
 

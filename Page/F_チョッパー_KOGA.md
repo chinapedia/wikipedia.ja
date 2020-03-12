@@ -1,14 +1,14 @@
 > この記事は[F  KOGA](https://ja.wikipedia.org/wiki/F__KOGA)から翻訳されています。
 
 
-**F チョッパー KOGA**（エフ チョッパー コガ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月22日](../Page/12月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[ガールズバンド](https://ja.wikipedia.org/wiki/ガールズバンド "wikilink")、[Gacharic Spinのベーシスト兼バンドリーダー](https://ja.wikipedia.org/wiki/Gacharic_Spin "wikilink")。2002年に**古賀美智子**（こがみちこ）名義で[タレント](../Page/タレント.md "wikilink")、[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")としてデビュー。[日本芸術高等学園](https://ja.wikipedia.org/wiki/日本芸術高等学園 "wikilink")卒業\[1\]。
+**F チョッパー KOGA**（エフ チョッパー コガ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月22日](../Page/12月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[ガールズバンド](../Page/ガールズバンド.md "wikilink")、[Gacharic Spinのベーシスト兼バンドリーダー](https://ja.wikipedia.org/wiki/Gacharic_Spin "wikilink")。2002年に**古賀美智子**（こがみちこ）名義で[タレント](../Page/タレント.md "wikilink")、[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")としてデビュー。[日本芸術高等学園](https://ja.wikipedia.org/wiki/日本芸術高等学園 "wikilink")卒業\[1\]。
 
 ## 略歴
 
   - 2002年に[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")としてデビュー。[プチエンジェル](https://ja.wikipedia.org/wiki/プチエンジェル "wikilink")第2期（2002年度）メンバーに選ばれる。
-  - 同じ所属事務所の[MAYUと共に](https://ja.wikipedia.org/wiki/鈴木繭菓 "wikilink")、バンド[THE PINK☆PANDAを結成してミュージシャンとしての活動をスタート](https://ja.wikipedia.org/wiki/THE_PINK☆PANDA "wikilink")。多い時には年間100本にも及ぶツアーを行った\[2\]。
+  - 同じ所属事務所の[MAYUと共に](../Page/鈴木繭菓.md "wikilink")、バンド[THE PINK☆PANDAを結成してミュージシャンとしての活動をスタート](https://ja.wikipedia.org/wiki/THE_PINK☆PANDA "wikilink")。多い時には年間100本にも及ぶツアーを行った\[2\]。
   - THE PINK☆PANDA在籍中にバンド「平安」を結成。メンバーはこがまろ（F チョッパー KOGA）、はなまる（はな/Gacharic Spin）、フローレンス朝倉（かおりん/CANDY TRIP）、シーサー（RINA/BLiSTAR）、SHOWNの5人。2005年には「平安女子」（SHOWNを除く4人で構成）のバンド名で[TEENS' MUSIC FESTIVALにエントリーするが](https://ja.wikipedia.org/wiki/TEENS'_MUSIC_FESTIVAL "wikilink")、関東甲信越大会セミファイナルで敗退。ラストライブを収録したDVD「平安時代終焉」を発売し、2006年1月25日に解散した。
-  - 2008年4月29日には[SHOW-YA](https://ja.wikipedia.org/wiki/SHOW-YA "wikilink")が主催する女性ミュージシャンのイベント[NAONのYAON](https://ja.wikipedia.org/wiki/NAONのYAON "wikilink")にTHE PINK☆PANDAで出演。
+  - 2008年4月29日には[SHOW-YA](../Page/SHOW-YA.md "wikilink")が主催する女性ミュージシャンのイベント[NAONのYAON](../Page/NAONのYAON.md "wikilink")にTHE PINK☆PANDAで出演。
   - メジャーデビューのために、2008年11月でインディーズにおけるTHE PINK☆PANDA名義の活動を終了\[3\]。
   - 2009年3月3日にTHE PINK☆PANDAを脱退した事を発表\[4\]。
   - 2009年6月にバンド「[Gacharic Spin](https://ja.wikipedia.org/wiki/Gacharic_Spin "wikilink")」を結成する。
@@ -37,7 +37,7 @@
 
 ### 備考
 
-  - Fチョッパーの、チョッパーは[スラップ奏法](https://ja.wikipedia.org/wiki/スラップ奏法 "wikilink")から。Fについての意味はフェロモンが足りたいと言われＦと付けたが、フェロモンのスペルはPから始まる事に後から気付くがFのまま現在に至る\[5\]。
+  - Fチョッパーの、チョッパーは[スラップ奏法](../Page/スラップ奏法.md "wikilink")から。Fについての意味はフェロモンが足りたいと言われＦと付けたが、フェロモンのスペルはPから始まる事に後から気付くがFのまま現在に至る\[5\]。
 
 ## 作品（グラビアアイドル時代）
 
@@ -47,20 +47,20 @@
 
 ### バラエティ・その他
 
-  - [グラビアの美少女](https://ja.wikipedia.org/wiki/グラビアの美少女_\(テレビ番組\) "wikilink")（[MONDO21](https://ja.wikipedia.org/wiki/MONDO_TV "wikilink")）
-  - CSテレビ「フィギュアの王国」[大人の趣味と生活向上◆アクトオンTV](https://ja.wikipedia.org/wiki/大人の趣味と生活向上◆アクトオンTV "wikilink")
+  - [グラビアの美少女](https://ja.wikipedia.org/wiki/グラビアの美少女_\(テレビ番組\) "wikilink")（[MONDO21](../Page/MONDO_TV.md "wikilink")）
+  - CSテレビ「フィギュアの王国」[大人の趣味と生活向上◆アクトオンTV](../Page/大人の趣味と生活向上◆アクトオンTV.md "wikilink")
 
 ### イメージビデオ・DVD
 
-  - プチエンジェル 古賀美智子（2002年、[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")）
+  - プチエンジェル 古賀美智子（2002年、[バップ](../Page/バップ.md "wikilink")）
   - 不思議の国のプチみ（2002年、バップ）
   - ぷにゅぷに（2004年、オマタ）
-  - QUTIE PISTOLS（2005年、[ジーオーティー](https://ja.wikipedia.org/wiki/ジーオーティー "wikilink")）
+  - QUTIE PISTOLS（2005年、[ジーオーティー](../Page/ジーオーティー.md "wikilink")）
 
 ### 写真集
 
-  - あれ?（2002年、[ぶんか社](https://ja.wikipedia.org/wiki/ぶんか社 "wikilink")） ISBN 4821124114 撮影：SHOWN
-  - ぷるんぷるん（2002年、[ワニマガジン社](../Page/ワニマガジン社.md "wikilink")） ISBN 4898298672 撮影：[渡辺達生](https://ja.wikipedia.org/wiki/渡辺達生 "wikilink")
+  - あれ?（2002年、[ぶんか社](../Page/ぶんか社.md "wikilink")） ISBN 4821124114 撮影：SHOWN
+  - ぷるんぷるん（2002年、[ワニマガジン社](../Page/ワニマガジン社.md "wikilink")） ISBN 4898298672 撮影：[渡辺達生](../Page/渡辺達生.md "wikilink")
   - 不思議なピーチパイ（2004年、ぶんか社） ISBN 4821126028 撮影：SHOWN
 
 ## 出演

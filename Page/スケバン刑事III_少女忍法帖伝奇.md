@@ -1,7 +1,7 @@
 > この記事は[III ](https://ja.wikipedia.org/wiki/III_)から翻訳されています。
 
 
-『**スケバン刑事III 少女忍法帖伝奇**』（スケバンデカスリー しょうじょにんぽうちょうでんき）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月30日](../Page/10月30日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月29日](../Page/10月29日.md "wikilink")まで毎週木曜日19:30 - 20:00に、[フジテレビ系で放送された日本の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[学園ドラマ](https://ja.wikipedia.org/wiki/学園ドラマ "wikilink")。
+『**スケバン刑事III 少女忍法帖伝奇**』（スケバンデカスリー しょうじょにんぽうちょうでんき）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月30日](../Page/10月30日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月29日](../Page/10月29日.md "wikilink")まで毎週木曜日19:30 - 20:00に、[フジテレビ系で放送された日本の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[学園ドラマ](../Page/学園ドラマ.md "wikilink")。
 
 [和田慎二](../Page/和田慎二.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品『[スケバン刑事](../Page/スケバン刑事.md "wikilink")』を原作とした[テレビドラマ](../Page/テレビドラマ.md "wikilink")の第3作である。[1988年](../Page/1988年.md "wikilink")には本作をモチーフとした[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[スケバン刑事III](https://ja.wikipedia.org/wiki/#ゲーム "wikilink")』も発売された。
 
@@ -11,20 +11,20 @@
 
 『スケバン刑事』シリーズ第3作目にあたる本作は、当初はシリーズ番外編の『スケバン忍法帖』として企画されたものである。本来の『スケバン刑事III』は、映画第1作オーディションの優勝者を主人公役に配して『スケバン忍法帖』の後に制作される予定だったが、諸事情で『スケバン忍法帖』が『スケバン刑事III』となった\[1\]。
 
-当時アメリカでヒットしていた[ショー・コスギ](https://ja.wikipedia.org/wiki/ショー・コスギ "wikilink")のニンジャ映画を題材にした『スケバン忍法帖』\[2\]を土台として、コンセプトに『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")』、それと原作者である和田自身の『[忍者飛翔](../Page/忍者飛翔.md "wikilink")』をミックスした完全オリジナル作品となった。主人公側は前作の三人組を発展させて三姉妹とし、ホームドラマ要素も加わっている\[3\]。ナレーションは前作『[II](../Page/スケバン刑事II_少女鉄仮面伝説.md "wikilink")』より引き続き[来宮良子](../Page/来宮良子.md "wikilink")が担当している。32話より「**第二部 魔界血戦編**」の副題がつく。
+当時アメリカでヒットしていた[ショー・コスギ](../Page/ショー・コスギ.md "wikilink")のニンジャ映画を題材にした『スケバン忍法帖』\[2\]を土台として、コンセプトに『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")』、それと原作者である和田自身の『[忍者飛翔](../Page/忍者飛翔.md "wikilink")』をミックスした完全オリジナル作品となった。主人公側は前作の三人組を発展させて三姉妹とし、ホームドラマ要素も加わっている\[3\]。ナレーションは前作『[II](../Page/スケバン刑事II_少女鉄仮面伝説.md "wikilink")』より引き続き[来宮良子](../Page/来宮良子.md "wikilink")が担当している。32話より「**第二部 魔界血戦編**」の副題がつく。
 
 第9話にて[1980年代](../Page/1980年代.md "wikilink")のフジテレビのドラマ部門での視聴率では第8位となる21.3%を記録したものの、和田は「**ただの**スケバンが強い敵を倒すのが『スケバン刑事』の面白さだ。スーパーヒーローものがやりたければ他でやれ\!」「自分の為だけに闘うヒロインがいるか? なぜ学生刑事が生まれてきたのかを理解していない\!」と激怒し\[4\]、その後『スケバン刑事』の新作は、2006年の劇場版『[スケバン刑事 コードネーム=麻宮サキ](https://ja.wikipedia.org/wiki/スケバン刑事_コードネーム=麻宮サキ "wikilink")』（主演：[松浦亜弥](../Page/松浦亜弥.md "wikilink")）まで制作されることはなかった。
 
-[風間三姉妹として出演した](https://ja.wikipedia.org/wiki/#風間三姉妹 "wikilink")[浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")・[大西結花](https://ja.wikipedia.org/wiki/大西結花 "wikilink")・[中村由真](https://ja.wikipedia.org/wiki/中村由真 "wikilink")の3人は、同名義で本作の主題歌をリリースした。
+[風間三姉妹として出演した](https://ja.wikipedia.org/wiki/#風間三姉妹 "wikilink")[浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")・[大西結花](https://ja.wikipedia.org/wiki/大西結花 "wikilink")・[中村由真](../Page/中村由真.md "wikilink")の3人は、同名義で本作の主題歌をリリースした。
 
 ## 登場人物
 
 ### 風間三姉妹
 
-180年に一度現れる陰星と共に現れた忍者集団「陰」と戦うことを宿命付けられた、[風魔](https://ja.wikipedia.org/wiki/風魔 "wikilink")忍者の末裔。本作の放映中に公開された劇場版第1作『[スケバン刑事](https://ja.wikipedia.org/wiki/スケバン刑事II_少女鉄仮面伝説#劇場版 "wikilink")』にも登場し、前作『II』のキャラクターとの共演も果たした。三姉妹の役名の下の名前は演じている役者本人の下の名前と同じである。三姉妹を演じた浅香、大西、中村の三人が歌う劇中主題歌を収録したシングル「[Remember](https://ja.wikipedia.org/wiki/Remember_\(風間三姉妹の曲\) "wikilink")」は、「風間三姉妹」名義でリリースされている。
+180年に一度現れる陰星と共に現れた忍者集団「陰」と戦うことを宿命付けられた、[風魔](../Page/風魔.md "wikilink")忍者の末裔。本作の放映中に公開された劇場版第1作『[スケバン刑事](https://ja.wikipedia.org/wiki/スケバン刑事II_少女鉄仮面伝説#劇場版 "wikilink")』にも登場し、前作『II』のキャラクターとの共演も果たした。三姉妹の役名の下の名前は演じている役者本人の下の名前と同じである。三姉妹を演じた浅香、大西、中村の三人が歌う劇中主題歌を収録したシングル「[Remember](https://ja.wikipedia.org/wiki/Remember_\(風間三姉妹の曲\) "wikilink")」は、「風間三姉妹」名義でリリースされている。
 
 2004年に大西結花が[ロンロバ\!全力投球\!に出演した際に](https://ja.wikipedia.org/wiki/ロンロバ!#ロンロバ!全力投球! "wikilink")「唯は考えずに走る。由真は考えながら走る。結花は考えてから走る。」という性格設定があったことを明かした。
-2019年には、『[ボクらの時代](https://ja.wikipedia.org/wiki/ボクらの時代 "wikilink")』に風間三姉妹を演じた3人が登場し、33年前のドラマを振り返った。
+2019年には、『[ボクらの時代](../Page/ボクらの時代.md "wikilink")』に風間三姉妹を演じた3人が登場し、33年前のドラマを振り返った。
 
   - 風間 唯（かざま ゆい）
     演 - [浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")
@@ -32,47 +32,47 @@
     次回予告では「'''せからしか\! しっかりしない\! **」（1、2話）、「**せからしか\! わちが三代目じゃ\! **」（3話 - ）、「**せからしか\! きさんら許さんわい\! '''」（第二部 魔界血戦編）で締める。
   - 風間 結花（かざま ゆか）
     演 - [大西結花](https://ja.wikipedia.org/wiki/大西結花 "wikilink")
-    長姉、通称・折鶴の結花。金属製の折鶴が武器。星流学園の裏番。沈着冷静で学業も優秀な上、家事もそつなくこなすしっかり者。当初高校3年生だったが、影との戦いで卒業試験を受けられず留年。進級してきた由真と同学年になる。左の二の腕に風魔の印である梵字（タラ＝[矜羯羅童子](https://ja.wikipedia.org/wiki/矜羯羅童子 "wikilink")）を持つ。
+    長姉、通称・折鶴の結花。金属製の折鶴が武器。星流学園の裏番。沈着冷静で学業も優秀な上、家事もそつなくこなすしっかり者。当初高校3年生だったが、影との戦いで卒業試験を受けられず留年。進級してきた由真と同学年になる。左の二の腕に風魔の印である梵字（タラ＝[矜羯羅童子](../Page/矜羯羅童子.md "wikilink")）を持つ。
   - 風間 由真（かざま ゆま）
-    演 - [中村由真](https://ja.wikipedia.org/wiki/中村由真 "wikilink")
-    次姉、通称・リリアンの由真。リリアン棒（編み針）と糸が武器。星流学園の総番。強気で意地っ張りな性格で、唯とは良くも悪くも喧嘩仲間。姉である結花には頭があがらず、甘えん坊な一面も見せる。学業は唯同様苦手だが、自作のカンニンググッズを使い、テストを受けていることもある。右の腿に風魔の印である梵字（タ＝[制多迦童子](https://ja.wikipedia.org/wiki/制多迦童子 "wikilink")）を持つ。
+    演 - [中村由真](../Page/中村由真.md "wikilink")
+    次姉、通称・リリアンの由真。リリアン棒（編み針）と糸が武器。星流学園の総番。強気で意地っ張りな性格で、唯とは良くも悪くも喧嘩仲間。姉である結花には頭があがらず、甘えん坊な一面も見せる。学業は唯同様苦手だが、自作のカンニンググッズを使い、テストを受けていることもある。右の腿に風魔の印である梵字（タ＝[制多迦童子](../Page/制多迦童子.md "wikilink")）を持つ。
 
 ### 暗闇機関、風魔
 
   - 般若（はんにゃ） / 依田 一也（よだ かずや）
-    演 - [萩原流行](https://ja.wikipedia.org/wiki/萩原流行 "wikilink")
-    2話より登場（依田としては4話から）。暗闇機関のエージェントで風間小太郎の元配下。表向きには星流学園の英語教師および唯のクラスの担任。教師としては、前作の西脇と異なり爽やかなキャラクターで、口癖は「バツ（×）ですねぇ……」（「○○なのはよくない」という意味で使用）。風魔鬼組最強最後の術「風魔結界の陣」の術者の一人。当初は唯に正体を隠しており、唯がちょっとした騒動などを起こした際には罰を与え、そこから[忍術](https://ja.wikipedia.org/wiki/忍術 "wikilink")などに関するヒントを彼女に与えていた。12話で唯によって正体が暴かれる。劇場版「風間三姉妹の逆襲」にて、青少年治安局に忍び込み、その秘密を握るフロッピーディスクを入手するも敵の襲撃を受け、瀕死の重傷で逃亡し、結花・由真にフロッピーを託し死亡。依田の名前の由来は[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")の[ヨーダ](../Page/ヨーダ.md "wikilink")。エンディングでは過去2作のエージェントと異なり役名がクレジットされていない。
+    演 - [萩原流行](../Page/萩原流行.md "wikilink")
+    2話より登場（依田としては4話から）。暗闇機関のエージェントで風間小太郎の元配下。表向きには星流学園の英語教師および唯のクラスの担任。教師としては、前作の西脇と異なり爽やかなキャラクターで、口癖は「バツ（×）ですねぇ……」（「○○なのはよくない」という意味で使用）。風魔鬼組最強最後の術「風魔結界の陣」の術者の一人。当初は唯に正体を隠しており、唯がちょっとした騒動などを起こした際には罰を与え、そこから[忍術](../Page/忍術.md "wikilink")などに関するヒントを彼女に与えていた。12話で唯によって正体が暴かれる。劇場版「風間三姉妹の逆襲」にて、青少年治安局に忍び込み、その秘密を握るフロッピーディスクを入手するも敵の襲撃を受け、瀕死の重傷で逃亡し、結花・由真にフロッピーを託し死亡。依田の名前の由来は[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")の[ヨーダ](../Page/ヨーダ.md "wikilink")。エンディングでは過去2作のエージェントと異なり役名がクレジットされていない。
   - 城戸 礼亜（きど れいあ）
-    演 - [福永恵規](https://ja.wikipedia.org/wiki/福永恵規 "wikilink")
+    演 - [福永恵規](../Page/福永恵規.md "wikilink")
     1話より登場（唯の前に姿を現したのは4話から。5話で自ら正体を明かす）。暗闇機関のエージェントで、暗闇指令代理の風魔のくノ一。表の顔は星流学園の図書館司書で、唯たちにしか閲覧させない秘密の忍者に関する資料庫を守っている。名前の由来はスター・ウォーズの[レイア姫](https://ja.wikipedia.org/wiki/レイア姫 "wikilink")。20話にて死亡。
   - 暗闇指令（くらやみしれい）
     演 - [長門裕之](../Page/長門裕之.md "wikilink")
     暗闇機関のボスであり、帯庵とも面識がある。劇場版「風間三姉妹の逆襲」で唯が青少年治安局に移ってからは、唯からは「暗闇さん」と呼ばれる。同劇場版では由真と共に敵に捕らえられてしまう。
   - 帯庵和尚（たいあんおしょう）
-    演 - [田中浩](https://ja.wikipedia.org/wiki/田中浩_\(俳優\) "wikilink")
-    唯・翔の祖父。宮崎県の真言宗達心寺の住職であり、唯を幼少の頃から育てていた。唯が東京に出てきてからも心の支えとなる。孫の唯を[果心居士](https://ja.wikipedia.org/wiki/果心居士 "wikilink")から護るため「風魔結界の陣」の術者達を率いた事もある。帯庵がその昔、鬼組の頭であったという設定は無いが、般若をはじめとする風魔の忍達は常に敬意を持って接し、慕っている。名前の由来はスター・ウォーズの[オビワン・ケノービ](https://ja.wikipedia.org/wiki/オビワン・ケノービ "wikilink")（帯庵をオビワンと読む）。
+    演 - [田中浩](../Page/田中浩_\(俳優\).md "wikilink")
+    唯・翔の祖父。宮崎県の真言宗達心寺の住職であり、唯を幼少の頃から育てていた。唯が東京に出てきてからも心の支えとなる。孫の唯を[果心居士](../Page/果心居士.md "wikilink")から護るため「風魔結界の陣」の術者達を率いた事もある。帯庵がその昔、鬼組の頭であったという設定は無いが、般若をはじめとする風魔の忍達は常に敬意を持って接し、慕っている。名前の由来はスター・ウォーズの[オビワン・ケノービ](https://ja.wikipedia.org/wiki/オビワン・ケノービ "wikilink")（帯庵をオビワンと読む）。
   - 風間 小太郎（かざま こたろう）
-    演 - [伊藤敏八](https://ja.wikipedia.org/wiki/伊藤敏八 "wikilink")
+    演 - [伊藤敏八](../Page/伊藤敏八.md "wikilink")
     唯・翔の実父。結花・由真の養父。風魔鬼組の頭であったが、唯が東京に出てきた日に目前で家ごと爆死してしまう。
 
 ### 影
 
   - 翔（しょう）
-    演 - [林美穂](https://ja.wikipedia.org/wiki/林美穂 "wikilink")
+    演 - [林美穂](../Page/林美穂.md "wikilink")
     初期のクレジットでは**謎の美少女**。影での正式名称は破愚烈翔（はぐれ しょう）。生後間もなく果心居士によって連れ去られる。果心居士から妖術を使う特殊能力を授かり、肉体の成長が10歳で止まる呪いをかけられた姫巫女。額に風魔の印である梵字（バイ＝[薬師如来](../Page/薬師如来.md "wikilink")）を持つ、唯の双子の姉。
   - ミヨズ
-    演 - [屋敷かおり](https://ja.wikipedia.org/wiki/屋敷かおり "wikilink")
+    演 - [屋敷かおり](../Page/屋敷かおり.md "wikilink")
     翔に仕える腹心。武器は口から吹く針。女子高生として星流学園に潜入したこともある。
   - オトヒ
     演 - [森村聡美](https://ja.wikipedia.org/wiki/森村聡美 "wikilink")
     同上。武器は水色の帯。初回登場時のみ「オトヒメ」。
   - 魔破羅（まはら） / 風間 小源太（かざま こげんた）
-    演 - [堀田眞三](https://ja.wikipedia.org/wiki/堀田眞三 "wikilink")
+    演 - [堀田眞三](../Page/堀田眞三.md "wikilink")
     結花・由真の実父で昔は小太郎の配下だった。16年前、唯・翔が誕生した際、風魔の里に古くから伝わる一対の雛人形を祝いに贈るが、この雛人形を贈った晩に翔が果心居士にさらわれてしまう。雄雛とともに、赤ん坊の翔を連れ去った果心居士を追って魔幻の森へと足を踏み入れたが、果心居士に、自分の配下にならなければ結花と由真を翔と同じ目に遭わせると脅迫されたため、結花・由真を果心居士から守るため影に魂を売り、「魔破羅」となり果心居士の右腕となる。
-  - [果心居士](https://ja.wikipedia.org/wiki/果心居士 "wikilink")（かしんこじ）
-    演 - ? → [佐川二郎](https://ja.wikipedia.org/wiki/佐川二郎 "wikilink")、[飯塚昭三](https://ja.wikipedia.org/wiki/飯塚昭三 "wikilink")（声）
+  - [果心居士](../Page/果心居士.md "wikilink")（かしんこじ）
+    演 - ? → [佐川二郎](https://ja.wikipedia.org/wiki/佐川二郎 "wikilink")、[飯塚昭三](../Page/飯塚昭三.md "wikilink")（声）
     影の黒幕。何百年と闇に潜み生きながらえている正体不明の存在で、世界を闇に閉ざし支配しようと企んでいる。強力な呪術や、妖術を用いて意図的に大洪水さえ起こしてしまう。「**阿毘羅吽欠蘇婆訶（アビラウンケンソワカ）**」の呪文を用いる。
-  - [天輪聖王](https://ja.wikipedia.org/wiki/転輪聖王 "wikilink")（てんりんしょうよう）
+  - [天輪聖王](../Page/転輪聖王.md "wikilink")（てんりんしょうよう）
     演 - [小林亜也子](https://ja.wikipedia.org/wiki/小林亜也子 "wikilink")
     果心居士が転生した姿。この世を闇に閉ざさんと企む邪悪の王。
 
@@ -82,7 +82,7 @@
     演 - [小林栄次](https://ja.wikipedia.org/wiki/小林栄次 "wikilink")
     通称クマ。星流学園番長グループの一人。結花と共に留年している。
   - ゴロウ
-    演 - [河本忍](https://ja.wikipedia.org/wiki/河本忍 "wikilink")
+    演 - [河本忍](../Page/河本忍.md "wikilink")
     星流学園番長グループの一人。唯のクラスメイトでお調子者。
   - ヒデ
     演 - 池上晃一
@@ -101,10 +101,10 @@
     演 - 大野正敏（第10話）
     風魔の隠れ里で育った、結花・由真の幼馴染み。結花のクラスの転校生。小太郎の死の原因を突き止めるため、結花達の前に10年振りに姿を現した。唯の初恋の相手。
   - 権三（ごんざ）
-    演 - [滝雅也](https://ja.wikipedia.org/wiki/滝雅也 "wikilink")（第8話、第40話）
+    演 - [滝雅也](../Page/滝雅也.md "wikilink")（第8話、第40話）
     ヨーヨーを使いこなせない頃の唯を鍛えあげた風魔の忍。再登場した際は、頭領である唯を護る風魔鬼組最強最後の術「風魔結界の陣」の術者として最期を遂げた。演じた滝雅也はシリーズを通してヨーヨー指導をしていた。
   - 小癋見の大介（こべしみのだいすけ）
-    演 - [坂井徹](https://ja.wikipedia.org/wiki/坂井徹 "wikilink")（第17話）
+    演 - [坂井徹](../Page/坂井徹.md "wikilink")（第17話）
     般若の配下。唯に淡い恋心を抱く。
   - 弥助（やすけ）
     演 - 伊藤敏八（第25話、第26話）
@@ -113,7 +113,7 @@
     演 - 山本博美（第27話）
     依田の元 許嫁の妹。姉が謎の死を遂げた事と依田に因果関係があると思い込み、新任教師として依田の前に現れる。
   - 風間 小次郎（かざま こじろう）
-    演 - [三重街恒二](https://ja.wikipedia.org/wiki/三重街恒二 "wikilink")（第36話、第40話）
+    演 - [三重街恒二](../Page/三重街恒二.md "wikilink")（第36話、第40話）
     小太郎の配下の一人。修善寺では、初めは地元の老人を演じて三姉妹に会う。 「風魔結界の陣」の術者の一人として最期を遂げた。
   - ヤエ
     演 - [谷本小代子](https://ja.wikipedia.org/wiki/谷本小代子 "wikilink")（第34話、第39話、第40話）
@@ -122,19 +122,19 @@
     演 - [奥村公延](../Page/奥村公延.md "wikilink")（第34話）
     帯庵和尚や小太郎を忍として育てあげた風魔の里の長。
   - 風間 奈津（かざま なつ）
-    演 - [藤井佳代子](https://ja.wikipedia.org/wiki/藤井佳代子 "wikilink")（第35話、第36話）
+    演 - [藤井佳代子](../Page/藤井佳代子.md "wikilink")（第35話、第36話）
     唯・翔の母。唯が赤ん坊の頃、影によって殺された。
   - 連道 武昭（れんどう たけあき）
     演 - [藤山健剛](https://ja.wikipedia.org/wiki/藤山健剛 "wikilink")（第18話、第40話）
     影の草の血脈。高校生空手家の道場破り。影の宿命から逃れようとしたため影の忍達に襲撃されてしまう。三姉妹に助けられ、改心し風魔へと入る。 「風魔結界の陣」の術者の一人として最期を遂げた。
   - 東野 成美（とうの なるみ）
     演 - [石崎文也](https://ja.wikipedia.org/wiki/石崎文也 "wikilink")（第20話、第40話）
-    影の草の血脈。幼少より[孤児院](https://ja.wikipedia.org/wiki/孤児院 "wikilink")で育った人間不信の少女。後に唯達に心を開き風魔へと入る。「風魔結界の陣」の術者の一人として最期を遂げた。
+    影の草の血脈。幼少より[孤児院](../Page/孤児院.md "wikilink")で育った人間不信の少女。後に唯達に心を開き風魔へと入る。「風魔結界の陣」の術者の一人として最期を遂げた。
 
 ### 各話登場人物（影 その他）
 
   - 音羽 十郎（おとわのじゅうろう）
-    演 - [時本和也](https://ja.wikipedia.org/wiki/時本和也 "wikilink")（第3話）
+    演 - [時本和也](../Page/時本和也.md "wikilink")（第3話）
     表の顔はファッションデザイナー。翔の命（めい）で[原宿](../Page/原宿.md "wikilink")のディスコで若者達を洗脳しようとする。
   - 早苗（さなえ）
     演 - 西沢直子（第3話）
@@ -143,25 +143,25 @@
     演 - 上野郁巳（第5話）
     中井哲夫（なかい てつお）。普段は気弱で落ちこぼれの虐められっ子の高校生だが、天狗師範の言いつけにより特技の[剣玉](https://ja.wikipedia.org/wiki/剣玉 "wikilink")の技を武器に自分を虐める者に報復する。
   - 妖異流鬼能道場・天狗師範（よういりゅうきのうどうじょう・てんぐしはん）
-    演 - [石橋雅史](https://ja.wikipedia.org/wiki/石橋雅史 "wikilink")（第5話、テレビスペシャル「三姉妹最も危険な旅 八つの死の罠」）
+    演 - [石橋雅史](../Page/石橋雅史.md "wikilink")（第5話、テレビスペシャル「三姉妹最も危険な旅 八つの死の罠」）
     死神小僧に剣玉を指南する、天狗の面を被った師匠。。
   - 鈴の音（すずのね）
     演 - [新井昌和](https://ja.wikipedia.org/wiki/あらい正和 "wikilink")（第6話）
     表の顔は開平高校生徒会長・高岡（たかおか）。翔の命により生徒会長の立場を利用し、全校生徒に術をかけ、校内暴動を起こさせ学園破壊を企んだ。
   - 天上院 滝子（てんじょういん たきこ）
-    演 - [中野みゆき](https://ja.wikipedia.org/wiki/中野みゆき "wikilink")（第7話）
+    演 - [中野みゆき](../Page/中野みゆき.md "wikilink")（第7話）
     由真のクラスに転校して来た影の忍で、額に「カーン」の梵字を抱く風魔の娘を倒すために三姉妹に仕向けられた刺客。常に無表情で冷たい素振りを見せるが、心根は優しく祖母を常に気遣っていた。戦闘時も忍装束は着ず、水中戦ではセーラー服のままスカーフを頭に巻いて戦う。水辺で戦い、相手を得意の水中戦に持ち込むのが戦法。
   - 滝子の祖母
     演 - [磯村千花子](https://ja.wikipedia.org/wiki/磯村千花子 "wikilink")（第7話）
-    小さな[駄菓子屋](https://ja.wikipedia.org/wiki/駄菓子屋 "wikilink")を営みながら滝子と二人で暮らしている。祖母といっても血のつながりは無く乳母という立場であり、草の宿命として滝子に赤ん坊の頃から水中戦を仕込んできた。
+    小さな[駄菓子屋](../Page/駄菓子屋.md "wikilink")を営みながら滝子と二人で暮らしている。祖母といっても血のつながりは無く乳母という立場であり、草の宿命として滝子に赤ん坊の頃から水中戦を仕込んできた。
   - 楠流忍法二十三代宗家・岡田 久義（おかだ ひさよし）
-    演 - [戸浦六宏](https://ja.wikipedia.org/wiki/戸浦六宏 "wikilink")（第9話）
+    演 - [戸浦六宏](../Page/戸浦六宏.md "wikilink")（第9話）
     横浜でクレープの屋台を営んでいる老人。血の繋がらないアメリカ人の娘・美沙を孫娘として育てている。
   - 岡田 美沙（おかだ みさ）
     演 - クリスティーナ（第9話）
     アメリカ人。祖父に反抗ばかりしているツッパリ高校生。
   - ハヤブサ
-    演 - [中田博久](https://ja.wikipedia.org/wiki/中田博久 "wikilink")（第9話）
+    演 - [中田博久](../Page/中田博久.md "wikilink")（第9話）
     忍術と米軍特殊部隊の実践を身につけている。 使い方によっては万人をも殺せる万能薬である、楠流忍法秘伝薬「<ruby><rb>於宇</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>の実」を楠流忍法二十三代宗家・岡田より奪うため美沙を誘拐する。
   - 土グモ一族 土鬼（どき）
     演 - 矢車武（第11話）
@@ -186,10 +186,10 @@
     演 - 野口英昭（第19話）
     令子の次兄。由真の中学校時代の同級生で初恋相手。
   - 黒丸 良也（くろまる よしや）
-    演 - [角田英介](https://ja.wikipedia.org/wiki/角田英介 "wikilink")（SPECIAL「三姉妹 最も危険な旅 八つの死の罠」）
+    演 - [角田英介](../Page/角田英介.md "wikilink")（SPECIAL「三姉妹 最も危険な旅 八つの死の罠」）
     影より仕わされた魔道衆の忍。八門遁甲の陣に挑む際、唯達の味方の振りをして同行する。
   - 宝珠翠（ほうじゅみどり）
-    演 - [山本みどり](https://ja.wikipedia.org/wiki/山本みどり "wikilink")（第22話）
+    演 - [山本みどり](../Page/山本みどり.md "wikilink")（第22話）
     占星術「芳山秘術」を用いて風間三姉妹を混乱させる。
   - 飛燕の源次（ひえんのげんじ）
     演 - [中屋敷鉄也](https://ja.wikipedia.org/wiki/中屋敷鉄也 "wikilink")
@@ -197,16 +197,16 @@
     演 - 川崎葉子（第25話、第26話）
     魂を映し出す「裏縫いの鏡」の中に梵字を映し、その梵字を針で刺すことで相手を殺してしまう、恐ろしい術を持った姉妹のうちの姉。
   - 外法衆・馬頭（めず）
-    演 - [榎田路子](https://ja.wikipedia.org/wiki/榎田路子 "wikilink")（第25話、第26話）
+    演 - [榎田路子](../Page/榎田路子.md "wikilink")（第25話、第26話）
     西村 かおる（にしむら かおる）。風間三姉妹を倒すため唯のクラスに転校して来る。
   - 黒鍬四人衆
-    演 - [前田浩](https://ja.wikipedia.org/wiki/前田浩 "wikilink")、[城谷光俊](https://ja.wikipedia.org/wiki/城谷光俊 "wikilink")、大道寺英樹、竹神昌央（第28話）
+    演 - [前田浩](../Page/前田浩.md "wikilink")、[城谷光俊](../Page/城谷光俊.md "wikilink")、大道寺英樹、竹神昌央（第28話）
     四方の陣の必殺技を持つ。
   - アキラ
     演 - 真田知幸（第29話）
     影の草の血脈。影の忍に唯を殺す暗示をかけられた小学生。常にロボットのおもちゃを肌身離さず持っている。
   - アキラの母
-    演 - [千野弘美](https://ja.wikipedia.org/wiki/千野弘美 "wikilink")（第29話）
+    演 - [千野弘美](../Page/千野弘美.md "wikilink")（第29話）
     影から抜けようとしたため、アキラの目の前で影の追手に殺されてしまう。
   - 呪道衆・九佐（じゅどうしゅう・きゅうざ）
     演 - 栗原良二（第30話）
@@ -229,8 +229,8 @@
     演 - [加藤嘉](../Page/加藤嘉.md "wikilink")（第12話）
     三姉妹に影と闘う宿命を説いた法師。
   - 登（のぼる）
-    演 - [松田洋治](https://ja.wikipedia.org/wiki/松田洋治 "wikilink")（第15話）
-    結花・由真のアルバイト先の[ファーストフード](../Page/ファーストフード.md "wikilink")店に頻出する青年。かつて[角膜](https://ja.wikipedia.org/wiki/角膜 "wikilink")移植の手術を受けたが、それ以来、会ったはずのない三姉妹の顔や、奇妙な夢を見る。
+    演 - [松田洋治](../Page/松田洋治.md "wikilink")（第15話）
+    結花・由真のアルバイト先の[ファーストフード](../Page/ファーストフード.md "wikilink")店に頻出する青年。かつて[角膜](../Page/角膜.md "wikilink")移植の手術を受けたが、それ以来、会ったはずのない三姉妹の顔や、奇妙な夢を見る。
   - 太田 涼子（おおた りょうこ）
     演 - 太田涼子(後に布瀬智子と改名)（第16話）
     [裁ち鋏が武器の山下学園の総番で](https://ja.wikipedia.org/wiki/裁縫箱#はさみ類 "wikilink")、由真のライバル。
@@ -238,36 +238,36 @@
     演 - 佐藤裕（第16話）
     結花のかつてのボーイフレンド。海外永住するのを両親に説得するため、一時帰国した。
   - 加藤 浩一（かとう こういち）
-    演 - [高杉亘](https://ja.wikipedia.org/wiki/高杉亘 "wikilink")（第23話）
+    演 - [高杉亘](../Page/高杉亘.md "wikilink")（第23話）
   - 宇佐那木 泰子（うざなぎ やすこ）
-    演 - [白島靖代](https://ja.wikipedia.org/wiki/白島靖代 "wikilink")（第23話）
+    演 - [白島靖代](../Page/白島靖代.md "wikilink")（第23話）
     宇佐那木家令嬢。
   - 鳴戸 新子（なると しんこ）
     演 - 宮崎織沙（第24話）
     唯に会うために九州から上京してきた中学生。職人だった祖父がかつて不動明王の銅像を修理した際に、偽物を捏造し修理した本物とすり替えてしまったため、美術館に展示されている偽物と祖父から託された本物の像とをすり替えてくれるよう唯に頼む。
   - 多聞 菊子（たもん きくこ）
-    演 - [伊藤かずえ](https://ja.wikipedia.org/wiki/伊藤かずえ "wikilink")（SPECIAL「三姉妹 最も危険な旅 八つの死の罠」）
+    演 - [伊藤かずえ](../Page/伊藤かずえ.md "wikilink")（SPECIAL「三姉妹 最も危険な旅 八つの死の罠」）
     暗闇司令官、元[第一空挺団](https://ja.wikipedia.org/wiki/第一空挺団 "wikilink")のコマンドー。三姉妹とともに八門遁甲の陣に挑む。
   - 早乙女 淳（さおとめ じゅん）
     演 - 日比野恭隆（第28話）
-    青雲学園の生徒。かつて山田熊之介に売られた喧嘩が原因で、柔道のオリンピック強化選手から外された事を根に持っている。唯に[テレパシー](https://ja.wikipedia.org/wiki/テレパシー "wikilink")で語りかけ交換殺人を持ちかける。
+    青雲学園の生徒。かつて山田熊之介に売られた喧嘩が原因で、柔道のオリンピック強化選手から外された事を根に持っている。唯に[テレパシー](../Page/テレパシー.md "wikilink")で語りかけ交換殺人を持ちかける。
 
 ## スタッフ
 
   - 原作 - [和田慎二](../Page/和田慎二.md "wikilink")
   - 企画 - 岡正（フジテレビ）、[前田和也](https://ja.wikipedia.org/wiki/前田和也_\(プロデューサー\) "wikilink")（フジテレビ）
-  - 脚本 - [土屋斗紀雄](https://ja.wikipedia.org/wiki/土屋斗紀雄 "wikilink")、[橋本以蔵](https://ja.wikipedia.org/wiki/橋本以蔵 "wikilink")、[我妻正義](https://ja.wikipedia.org/wiki/我妻正義 "wikilink")、[武上純希](https://ja.wikipedia.org/wiki/武上純希 "wikilink")、[神戸一彦](https://ja.wikipedia.org/wiki/神戸一彦 "wikilink")
-  - 音楽 - [新田一郎](https://ja.wikipedia.org/wiki/新田一郎_\(ミュージシャン\) "wikilink")
-  - 監督 - [田中秀夫](https://ja.wikipedia.org/wiki/田中秀夫 "wikilink")、[大井利夫](https://ja.wikipedia.org/wiki/大井利夫 "wikilink")、[坂本太郎](https://ja.wikipedia.org/wiki/坂本太郎_\(テレビドラマ監督\) "wikilink")、前嶋守男
+  - 脚本 - [土屋斗紀雄](https://ja.wikipedia.org/wiki/土屋斗紀雄 "wikilink")、[橋本以蔵](../Page/橋本以蔵.md "wikilink")、[我妻正義](https://ja.wikipedia.org/wiki/我妻正義 "wikilink")、[武上純希](../Page/武上純希.md "wikilink")、[神戸一彦](../Page/神戸一彦.md "wikilink")
+  - 音楽 - [新田一郎](../Page/新田一郎_\(ミュージシャン\).md "wikilink")
+  - 監督 - [田中秀夫](https://ja.wikipedia.org/wiki/田中秀夫 "wikilink")、[大井利夫](https://ja.wikipedia.org/wiki/大井利夫 "wikilink")、[坂本太郎](../Page/坂本太郎_\(テレビドラマ監督\).md "wikilink")、前嶋守男
   - 主題歌
-      - [福永恵規](https://ja.wikipedia.org/wiki/福永恵規 "wikilink")「[ハートのIgnition](https://ja.wikipedia.org/wiki/ハートのIgnition "wikilink")」（[キャニオン・レコード](../Page/ポニーキャニオン.md "wikilink")）（第1話 - 第8話）
-      - 浅香唯「[STAR](https://ja.wikipedia.org/wiki/STAR_\(浅香唯の曲\) "wikilink")」（[マイカルハミングバード](https://ja.wikipedia.org/wiki/マイカルハミングバード "wikilink")）（第9話 - 第21話）
+      - [福永恵規](../Page/福永恵規.md "wikilink")「[ハートのIgnition](../Page/ハートのIgnition.md "wikilink")」（[キャニオン・レコード](../Page/ポニーキャニオン.md "wikilink")）（第1話 - 第8話）
+      - 浅香唯「[STAR](https://ja.wikipedia.org/wiki/STAR_\(浅香唯の曲\) "wikilink")」（[マイカルハミングバード](../Page/マイカルハミングバード.md "wikilink")）（第9話 - 第21話）
       - 浅香唯「[瞳にSTORM](https://ja.wikipedia.org/wiki/瞳にSTORM "wikilink")」（マイカルハミングバード）（SPECIAL - 第31話）
       - 浅香唯「[虹のDreamer](https://ja.wikipedia.org/wiki/虹のDreamer "wikilink")」（マイカルハミングバード）（第32話 - 第37話）
       - 風間三姉妹「[Remember](https://ja.wikipedia.org/wiki/Remember_\(風間三姉妹の曲\) "wikilink")」（マイカルハミングバード）（第38話 - 第42話）
   - 挿入歌
-      - [中村由真](https://ja.wikipedia.org/wiki/中村由真 "wikilink")「ジレンマ」（[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")）（第5話 - 第11話）
-      - [大西結花](https://ja.wikipedia.org/wiki/大西結花 "wikilink")「シャドウハンター」（[ポリスター](https://ja.wikipedia.org/wiki/ポリスター "wikilink")）（第12話 - 第20話）
+      - [中村由真](../Page/中村由真.md "wikilink")「ジレンマ」（[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")）（第5話 - 第11話）
+      - [大西結花](https://ja.wikipedia.org/wiki/大西結花 "wikilink")「シャドウハンター」（[ポリスター](../Page/ポリスター.md "wikilink")）（第12話 - 第20話）
       - 中村由真「シビアー」（フォーライフ・レコード）（第21話 - 第24話）
       - 大西結花「チャンスは一度だけ」（ポリスター）（第25話 - 第27話）
       - 中村由真「パニック〜I'm in Panic〜」（フォーライフ・レコード）（第28話 - 第33話）
@@ -638,7 +638,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>平均視聴率 13.98%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
+<td><p>平均視聴率 13.98%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -700,7 +700,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a></p></td>
 <td><p>フジテレビ系列</p></td>
 <td></td>
@@ -834,7 +834,7 @@ TBS系列</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a></p></td>
 <td><p>フジテレビ系列</p></td>
 <td></td>
@@ -865,7 +865,7 @@ TBS系列</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ大分" title="wikilink">テレビ大分</a></p></td>
+<td><p><a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a></p></td>
 <td><p>フジテレビ系列<br />
 日本テレビ系列<br />
 テレビ朝日系列</p></td>
@@ -882,7 +882,7 @@ TBS系列</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ</a></p></td>
 <td><p>フジテレビ系列<br />
 日本テレビ系列</p></td>
@@ -903,7 +903,7 @@ TBS系列</p></td>
 
   - ビデオ（[VHS](../Page/VHS.md "wikilink")、セル・レンタル共通）は全12巻が[東映ビデオ](../Page/東映ビデオ.md "wikilink")よりリリースされている。
   - [LDが東映ビデオよりリリースされたが](../Page/レーザーディスク.md "wikilink")、3巻・12話までで打ち切られた。
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[8月6日](../Page/8月6日.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")にかけて[DVD](../Page/DVD.md "wikilink")が東映ビデオより発売された。全5巻の各2枚組（Vol.5のみ1枚）で各巻10話（Vol.3は7話、Vol.5は5話）収録。Vol.1の初回生産分には、全5巻を収納できるBOXが付属していた。
+  - [2004年](../Page/2004年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")にかけて[DVD](../Page/DVD.md "wikilink")が東映ビデオより発売された。全5巻の各2枚組（Vol.5のみ1枚）で各巻10話（Vol.3は7話、Vol.5は5話）収録。Vol.1の初回生産分には、全5巻を収納できるBOXが付属していた。
 
 ## スケバン刑事 風間三姉妹の逆襲
 
@@ -913,20 +913,20 @@ TBS系列</p></td>
 
 主要人物は[\#登場人物](https://ja.wikipedia.org/wiki/#登場人物 "wikilink")を参照。
 
-  - 関根蔵人 - [京本政樹](https://ja.wikipedia.org/wiki/京本政樹 "wikilink")
-  - 坂東京助 - [豊原功輔](https://ja.wikipedia.org/wiki/豊原功補 "wikilink")
+  - 関根蔵人 - [京本政樹](../Page/京本政樹.md "wikilink")
+  - 坂東京助 - [豊原功輔](../Page/豊原功補.md "wikilink")
   - 阿川瞳子 - [藤代美奈子](https://ja.wikipedia.org/wiki/藤代美奈子 "wikilink")
-  - 悪の学生刑事の一人 - [岩城正剛](https://ja.wikipedia.org/wiki/椎名桔平 "wikilink")（現：椎名桔平）
-  - ケイ - [田山真美子](https://ja.wikipedia.org/wiki/田山真美子 "wikilink")
-  - 番外連合（京助が率いる非行少年グループ）の少年少女達 - [相原勇](https://ja.wikipedia.org/wiki/相原勇 "wikilink")、[岩瀬威司](https://ja.wikipedia.org/wiki/岩瀬威司 "wikilink")、[片桐順一郎](https://ja.wikipedia.org/wiki/片桐順一郎 "wikilink")ほか
-  - 司法長官 - [江原真二郎](https://ja.wikipedia.org/wiki/江原真二郎 "wikilink")
+  - 悪の学生刑事の一人 - [岩城正剛](../Page/椎名桔平.md "wikilink")（現：椎名桔平）
+  - ケイ - [田山真美子](../Page/田山真美子.md "wikilink")
+  - 番外連合（京助が率いる非行少年グループ）の少年少女達 - [相原勇](../Page/相原勇.md "wikilink")、[岩瀬威司](../Page/岩瀬威司.md "wikilink")、[片桐順一郎](../Page/片桐順一郎.md "wikilink")ほか
+  - 司法長官 - [江原真二郎](../Page/江原真二郎.md "wikilink")
 
 ### スタッフ（劇場版）
 
   - 原作 - [和田慎二](../Page/和田慎二.md "wikilink")
   - 企画 - [前田和也](https://ja.wikipedia.org/wiki/前田和也 "wikilink")、[植田泰治](https://ja.wikipedia.org/wiki/植田泰治 "wikilink")、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
   - 監督 - [田中秀夫](https://ja.wikipedia.org/wiki/田中秀夫 "wikilink")
-  - 脚本 - [橋本以蔵](https://ja.wikipedia.org/wiki/橋本以蔵 "wikilink")
+  - 脚本 - [橋本以蔵](../Page/橋本以蔵.md "wikilink")
   - 主題歌
       - 浅香唯「[Believe Again](https://ja.wikipedia.org/wiki/Believe_Again "wikilink")」（マイカルハミングバード）
   - 挿入歌
@@ -935,17 +935,17 @@ TBS系列</p></td>
   - プロデューサー - [中曽根千治](https://ja.wikipedia.org/wiki/中曽根千治 "wikilink")、[手塚治](../Page/手塚治.md "wikilink")、[角田朝雄](https://ja.wikipedia.org/wiki/角田朝雄 "wikilink")、[河井真也](https://ja.wikipedia.org/wiki/河井真也 "wikilink")、[石原隆](../Page/石原隆.md "wikilink")
   - 撮影 - [池田健策](https://ja.wikipedia.org/wiki/池田健策 "wikilink")
   - 美術 - [安井丸男](https://ja.wikipedia.org/wiki/安井丸男 "wikilink")
-  - 音楽 - [新田一郎](https://ja.wikipedia.org/wiki/新田一郎_\(ミュージシャン\) "wikilink")
+  - 音楽 - [新田一郎](../Page/新田一郎_\(ミュージシャン\).md "wikilink")
   - 録音 - [柿沼紀彦](https://ja.wikipedia.org/wiki/柿沼紀彦 "wikilink")
   - 照明 - [小林芳雄](https://ja.wikipedia.org/wiki/小林芳雄 "wikilink")
   - 編集 - [只野信也](https://ja.wikipedia.org/wiki/只野信也 "wikilink")
   - 助監督 - [松井昇](https://ja.wikipedia.org/wiki/松井昇 "wikilink")
-  - スチール - [加藤光男](https://ja.wikipedia.org/wiki/加藤光男 "wikilink")
+  - スチール - [加藤光男](../Page/加藤光男.md "wikilink")
   - 製作 - [東映](../Page/東映.md "wikilink")
 
 ## ゲーム
 
-ドラマの筋書きをおおまかに再現したアクションゲーム。プレイヤーは風間三姉妹を状況に応じて使い分け、日本の支配を企む暗黒の集団「影」に挑む。ゲーム終盤で翔の呪いを解き、「影」のボス・果心居士を倒すという展開になる。[テレビCMは](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")15秒のアニメーションで制作され、キャラクターデザインは[東映動画の](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")[新井浩一](https://ja.wikipedia.org/wiki/新井浩一 "wikilink")、原画はスタジオZ5の[長岡康史](https://ja.wikipedia.org/wiki/長岡康史 "wikilink")が担当\[9\]。パッケージにもアニメのイラストが使用されている。
+ドラマの筋書きをおおまかに再現したアクションゲーム。プレイヤーは風間三姉妹を状況に応じて使い分け、日本の支配を企む暗黒の集団「影」に挑む。ゲーム終盤で翔の呪いを解き、「影」のボス・果心居士を倒すという展開になる。[テレビCMは](../Page/コマーシャルメッセージ.md "wikilink")15秒のアニメーションで制作され、キャラクターデザインは[東映動画の](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")[新井浩一](https://ja.wikipedia.org/wiki/新井浩一 "wikilink")、原画はスタジオZ5の[長岡康史](../Page/長岡康史.md "wikilink")が担当\[9\]。パッケージにもアニメのイラストが使用されている。
 
 三姉妹は敵を倒すことでEX（経験値）を獲得し、一定数に達するとLV（レベル）があがって、能力が強くなり、忍法を覚える。ステージは全部で5つ。「ふっかつのにんぽう」（復活の忍法）と呼ばれるパスワードを入力することで、次回からはその続きからプレイが可能となっている。
 
@@ -1020,9 +1020,9 @@ TBS系列</p></td>
 
 当時同じフジテレビ系で放映されていたアニメ『[ハイスクール\!奇面組](../Page/ハイスクール!奇面組.md "wikilink")』では、以下のように本作をネタにしたシーンが登場した。
 
-  - 第52話後半パート「きよしこの夜メルヘンサンタがやって来た」（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")放映）では、[サンタクロース](https://ja.wikipedia.org/wiki/サンタクロース "wikilink")に扮した[一堂零](https://ja.wikipedia.org/wiki/一堂零 "wikilink")が、自分の正体がばれそうになった時に「スケバン刑事に見えます？」とごまかそうとするシーンが登場した。
-  - 第68話後半パート「悲惨な給料日」（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月25日](../Page/4月25日.md "wikilink")放映）では、奇面組のうち3人が風間三姉妹に扮するが（[物星大](https://ja.wikipedia.org/wiki/物星大 "wikilink")→風間唯、[出瀬潔](https://ja.wikipedia.org/wiki/出瀬潔 "wikilink")→風間結花、[大間仁](https://ja.wikipedia.org/wiki/大間仁 "wikilink")→風間由真）、それに対し教師の事代作吾は本作を観ていないという。
-  - 第70話前半パート「大変身\!\!迫力唯ちゃん」（同年[5月16日](../Page/5月16日.md "wikilink")放映）では、[河川唯](https://ja.wikipedia.org/wiki/河川唯 "wikilink")が風間唯に扮するシーンが登場した（いわゆる唯つながり）。
+  - 第52話後半パート「きよしこの夜メルヘンサンタがやって来た」（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")放映）では、[サンタクロース](../Page/サンタクロース.md "wikilink")に扮した[一堂零](../Page/一堂零.md "wikilink")が、自分の正体がばれそうになった時に「スケバン刑事に見えます？」とごまかそうとするシーンが登場した。
+  - 第68話後半パート「悲惨な給料日」（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月25日](../Page/4月25日.md "wikilink")放映）では、奇面組のうち3人が風間三姉妹に扮するが（[物星大](../Page/物星大.md "wikilink")→風間唯、[出瀬潔](../Page/出瀬潔.md "wikilink")→風間結花、[大間仁](../Page/大間仁.md "wikilink")→風間由真）、それに対し教師の事代作吾は本作を観ていないという。
+  - 第70話前半パート「大変身\!\!迫力唯ちゃん」（同年[5月16日](../Page/5月16日.md "wikilink")放映）では、[河川唯](../Page/河川唯.md "wikilink")が風間唯に扮するシーンが登場した（いわゆる唯つながり）。
 
 ## 脚注
 
@@ -1042,4 +1042,4 @@ TBS系列</p></td>
 6.  19:30 - 20:54の90分枠で放送。
 7.  『[福島民報](../Page/福島民報.md "wikilink")』1986年10月30日 - 1987年10月29日付朝刊、テレビ欄。
 8.  『[北國新聞](https://ja.wikipedia.org/wiki/北國新聞 "wikilink")』1986年10月30日付朝刊、テレビ欄。
-9.  『[アニメージュ](https://ja.wikipedia.org/wiki/アニメージュ "wikilink")』1988年3月号、119頁。
+9.  『[アニメージュ](../Page/アニメージュ.md "wikilink")』1988年3月号、119頁。

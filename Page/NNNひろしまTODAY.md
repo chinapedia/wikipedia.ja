@@ -15,7 +15,7 @@
 
 ### キャスター
 
-  - [加藤進](https://ja.wikipedia.org/wiki/加藤進_\(アナウンサー\) "wikilink")（当時広島テレビアナウンサー）
+  - [加藤進](../Page/加藤進_\(アナウンサー\).md "wikilink")（当時広島テレビアナウンサー）
   - [山口美那子](https://ja.wikipedia.org/wiki/山口美那子 "wikilink")（当時広島テレビアナウンサー）
 
 ### お天気情報担当

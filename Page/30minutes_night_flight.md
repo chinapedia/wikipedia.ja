@@ -21,11 +21,11 @@
       -
         前曲と[クロスフェード](https://ja.wikipedia.org/wiki/クロスフェード "wikilink")している。
     <!-- end list -->
-      - 作詞：坂本真綾、作曲：[奥田健介](https://ja.wikipedia.org/wiki/ノーナ・リーヴス "wikilink")、編曲：森俊之
+      - 作詞：坂本真綾、作曲：[奥田健介](../Page/ノーナ・リーヴス.md "wikilink")、編曲：森俊之
 3.  **記憶-there's no end**
-      - 作詞・作曲、[鈴木祥子](https://ja.wikipedia.org/wiki/鈴木祥子 "wikilink")、編曲：森俊之
+      - 作詞・作曲、[鈴木祥子](../Page/鈴木祥子.md "wikilink")、編曲：森俊之
 4.  **僕たちが恋をする理由**
-      - 作詞：坂本真綾、作曲：[高田みち子](https://ja.wikipedia.org/wiki/高田みち子 "wikilink")、編曲：森俊之
+      - 作詞：坂本真綾、作曲：[高田みち子](../Page/高田みち子.md "wikilink")、編曲：森俊之
 5.  **セツナ**
       - 作詞・作曲：山田稔明、編曲：森俊之
 6.  **ユニバース**

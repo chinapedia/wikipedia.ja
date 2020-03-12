@@ -19,15 +19,15 @@
   - [globe](https://ja.wikipedia.org/wiki/globe "wikilink") ([avex globe](https://ja.wikipedia.org/wiki/avex_globe "wikilink"))
   - [東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink") ([cutting edge](https://ja.wikipedia.org/wiki/cutting_edge "wikilink"))
   - [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink") (rhythm zone)
-  - [SUITE CHIC](https://ja.wikipedia.org/wiki/SUITE_CHIC "wikilink") (avex trax)
-  - [Fantastic Plastic Machine](https://ja.wikipedia.org/wiki/Fantastic_Plastic_Machine "wikilink") (avex trax)
+  - [SUITE CHIC](../Page/SUITE_CHIC.md "wikilink") (avex trax)
+  - [Fantastic Plastic Machine](../Page/Fantastic_Plastic_Machine.md "wikilink") (avex trax)
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink") (rhythm zone)
-  - [島袋寛子 d'Or](../Page/島袋寛子.md "wikilink")/hiro/Coco ([SONIC GROOVE](https://ja.wikipedia.org/wiki/SONIC_GROOVE "wikilink"))
+  - [島袋寛子 d'Or](../Page/島袋寛子.md "wikilink")/hiro/Coco ([SONIC GROOVE](../Page/SONIC_GROOVE.md "wikilink"))
   - [BoA](../Page/BoA.md "wikilink") (avex trax)
   - [島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink") (avex trax)
   - [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink") (avex trax)
   - [ravex](https://ja.wikipedia.org/wiki/ravex "wikilink") (avex trax)
-  - [Q;indivi](https://ja.wikipedia.org/wiki/Q;indivi "wikilink") (avex trax)
+  - [Q;indivi](../Page/Q;indivi.md "wikilink") (avex trax)
 
 ほか多数
 
@@ -36,22 +36,22 @@
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")（rhythm zoneへ移籍）
   - [MiMyCEN](../Page/V6_\(グループ\).md "wikilink")（ミミセン）
       - Coming Century（avex trax所属）の別名義ユニット。シングルリリース時に本レーベルを使用していた。
-  - [Retro G-Style](https://ja.wikipedia.org/wiki/Retro_G-Style "wikilink")（rhythm zoneへ移籍）
-      - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（[平成](../Page/平成.md "wikilink")16年）解散
+  - [Retro G-Style](../Page/Retro_G-Style.md "wikilink")（rhythm zoneへ移籍）
+      - [2004年](../Page/2004年.md "wikilink")（[平成](../Page/平成.md "wikilink")16年）解散
   - [朝比奈亜希](https://ja.wikipedia.org/wiki/朝比奈亜希 "wikilink")（avex traxへ移籍→現在は不明）
-  - [RAM RIDER](https://ja.wikipedia.org/wiki/RAM_RIDER "wikilink")（rhythm zoneへ移籍）
+  - [RAM RIDER](../Page/RAM_RIDER.md "wikilink")（rhythm zoneへ移籍）
   - [市川藍](https://ja.wikipedia.org/wiki/市川藍 "wikilink")（cutting edgeへ移籍→現在は不明）
-  - [Kat McDowell](https://ja.wikipedia.org/wiki/KAT_\(歌手\) "wikilink")（[binyl recordsへ移籍](https://ja.wikipedia.org/wiki/binyl_records "wikilink")）
+  - [Kat McDowell](../Page/KAT_\(歌手\).md "wikilink")（[binyl recordsへ移籍](https://ja.wikipedia.org/wiki/binyl_records "wikilink")）
   - [Clazziquai Project](https://ja.wikipedia.org/wiki/クラジクワイ・プロジェクト "wikilink")（avex traxと併用→[UNIVERSAL Jへ移籍](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")）
-  - [RATHER UNIQUE](https://ja.wikipedia.org/wiki/RATHER_UNIQUE "wikilink")（rhythm zoneへ移籍）
+  - [RATHER UNIQUE](../Page/RATHER_UNIQUE.md "wikilink")（rhythm zoneへ移籍）
       - 現在は活動休止中
-  - [PANG](https://ja.wikipedia.org/wiki/PANG "wikilink")（cutting edgeへ移籍）
-  - [MICRON' STUFF](https://ja.wikipedia.org/wiki/MICRON'_STUFF "wikilink")（rhythm zoneへ移籍）
-  - [SUEMITSU & THE SUEMITH](https://ja.wikipedia.org/wiki/SUEMITSU_&_THE_SUEMITH "wikilink")（[キューンレコードへ移籍](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")→[MEDIA FACTORYへ移籍](https://ja.wikipedia.org/wiki/MEDIA_FACTORY "wikilink")）
+  - [PANG](../Page/PANG.md "wikilink")（cutting edgeへ移籍）
+  - [MICRON' STUFF](../Page/MICRON'_STUFF.md "wikilink")（rhythm zoneへ移籍）
+  - [SUEMITSU & THE SUEMITH](https://ja.wikipedia.org/wiki/SUEMITSU_&_THE_SUEMITH "wikilink")（[キューンレコードへ移籍](../Page/キューンミュージック.md "wikilink")→[MEDIA FACTORYへ移籍](https://ja.wikipedia.org/wiki/MEDIA_FACTORY "wikilink")）
       - 現在は"末光篤"（本名）に改名。所属事務所は[tearbridge production](https://ja.wikipedia.org/wiki/tearbridge_production "wikilink")。
-  - [Rickie-G](https://ja.wikipedia.org/wiki/Rickie-G "wikilink")（[RIDDIM ZONE](https://ja.wikipedia.org/wiki/RIDDIM_ZONE "wikilink")〈rhythm zone内レーベル〉へ移籍）
-  - [Sonar Pocket](https://ja.wikipedia.org/wiki/Sonar_Pocket "wikilink")（[アイランドへ移籍](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）
-  - [NEVER LAND](https://ja.wikipedia.org/wiki/NEVER_LAND_\(ヒップホップユニット\) "wikilink")（rhythm zoneへ移籍）
+  - [Rickie-G](../Page/Rickie-G.md "wikilink")（[RIDDIM ZONE](https://ja.wikipedia.org/wiki/RIDDIM_ZONE "wikilink")〈rhythm zone内レーベル〉へ移籍）
+  - [Sonar Pocket](https://ja.wikipedia.org/wiki/Sonar_Pocket "wikilink")（[アイランドへ移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
+  - [NEVER LAND](../Page/NEVER_LAND_\(ヒップホップユニット\).md "wikilink")（rhythm zoneへ移籍）
   - [BRIGHT](https://ja.wikipedia.org/wiki/BRIGHT_\(ダンスボーカルグループ\) "wikilink")（rhythm zoneへ移籍）
   - [今井絵理子](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")（SONIC GROOVEへ再移籍）
       - elly名義でのアルバム発売時に本レーベルを使用していた

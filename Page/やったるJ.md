@@ -11,7 +11,7 @@
 
   - [ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")
   - [嵐](../Page/嵐_\(グループ\).md "wikilink")
-  - [陣内孝則](https://ja.wikipedia.org/wiki/陣内孝則 "wikilink")
+  - [陣内孝則](../Page/陣内孝則.md "wikilink")
 
 ほか
 
@@ -73,7 +73,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a></p></td>
 <td></td>
 <td></td>
@@ -146,7 +146,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a></p></td>
 <td></td>
 <td></td>

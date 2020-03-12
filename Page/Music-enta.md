@@ -1,11 +1,11 @@
 > この記事は[Music-enta](https://ja.wikipedia.org/wiki/Music-enta)から翻訳されています。
 
 
-『**music-enta**』（ミュージック・エンタ）は、[2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）[4月19日](../Page/4月19日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")（平成13年）[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")と[ANN系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")24局で毎週[水曜日](../Page/水曜日.md "wikilink")の20:00 - 20:54\[1\]（[JST](../Page/日本標準時.md "wikilink")）に放送されていた、[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")および[嵐がメインの](../Page/嵐_\(グループ\).md "wikilink")[音楽](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。司会は[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")。
+『**music-enta**』（ミュージック・エンタ）は、[2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）[4月19日](../Page/4月19日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")（平成13年）[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")と[ANN系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")24局で毎週[水曜日](../Page/水曜日.md "wikilink")の20:00 - 20:54\[1\]（[JST](../Page/日本標準時.md "wikilink")）に放送されていた、[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")および[嵐がメインの](../Page/嵐_\(グループ\).md "wikilink")[音楽](../Page/音楽番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。司会は[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")。
 
 ## 番組概要
 
-[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")および[嵐がメインの](../Page/嵐_\(グループ\).md "wikilink")[音楽](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。前身番組は『[やったるJ](../Page/やったるJ.md "wikilink")』。放送時間は約1時間であり、第1回放送からしばらくの間は、冒頭部分は生放送で放送していたが、以降収録放送となる。この番組をもって『[8時だJ](../Page/8時だJ.md "wikilink")』から始まるゴールデン枠での[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")の番組は終了し、[土曜日](../Page/土曜日.md "wikilink")深夜の30分番組へと短縮され、バラエティ番組『[裸の少年](https://ja.wikipedia.org/wiki/裸の少年 "wikilink")』へとリニューアルされた。
+[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")および[嵐がメインの](../Page/嵐_\(グループ\).md "wikilink")[音楽](../Page/音楽番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。前身番組は『[やったるJ](../Page/やったるJ.md "wikilink")』。放送時間は約1時間であり、第1回放送からしばらくの間は、冒頭部分は生放送で放送していたが、以降収録放送となる。この番組をもって『[8時だJ](../Page/8時だJ.md "wikilink")』から始まるゴールデン枠での[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")の番組は終了し、[土曜日](../Page/土曜日.md "wikilink")深夜の30分番組へと短縮され、バラエティ番組『[裸の少年](../Page/裸の少年.md "wikilink")』へとリニューアルされた。
 
 ## 出演者
 
@@ -21,7 +21,7 @@
 
 ## 主なコーナー
 
-  - 放送当日発表の[オリコンディリーチャート紹介](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")（タイトル不明）
+  - 放送当日発表の[オリコンディリーチャート紹介](../Page/オリコンチャート.md "wikilink")（タイトル不明）
       -
         日本のほとんどのシングル盤が水曜日に発売されることから、速報性を狙ったもの\[2\]。
   - ME DINNER\[3\]
@@ -29,7 +29,7 @@
 
 ## 本番組の企画からのデビュー
 
-[エチオピア](https://ja.wikipedia.org/wiki/エチオピア "wikilink")の日本大使から「エチオピアでは日本の[演歌](../Page/演歌.md "wikilink")が人気」というビデオ・メッセージが届いたことをきっかけに「**エチオピア演歌プロジェクト**」という企画が始まり、オーディションで選ばれた女性メロン・ゲタネツが[小金沢昇司](https://ja.wikipedia.org/wiki/小金沢昇司 "wikilink")とのデュエット曲「うららか・に」で歌手デビューした\[5\]。
+[エチオピア](https://ja.wikipedia.org/wiki/エチオピア "wikilink")の日本大使から「エチオピアでは日本の[演歌](../Page/演歌.md "wikilink")が人気」というビデオ・メッセージが届いたことをきっかけに「**エチオピア演歌プロジェクト**」という企画が始まり、オーディションで選ばれた女性メロン・ゲタネツが[小金沢昇司](../Page/小金沢昇司.md "wikilink")とのデュエット曲「うららか・に」で歌手デビューした\[5\]。
 
 ## ネット局
 
@@ -82,7 +82,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a></p></td>
 <td></td>
 <td></td>
@@ -155,7 +155,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a></p></td>
 <td></td>
 <td></td>

@@ -1,7 +1,7 @@
 > この記事は[Windows Live Spaces](https://ja.wikipedia.org/wiki/Windows_Live_Spaces)から翻訳されています。
 
 
-**Windows Live Spaces**（ウィンドウズ ライブ スペース）とは、[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[Windows Live IDを使用した](../Page/Microsoft_アカウント.md "wikilink")[ブログ](../Page/ブログ.md "wikilink")であり、[Windows Liveサービスの](../Page/Windows_Live.md "wikilink")1つである。それまで同社が提供していたブログサービスのMSNスペースをリニューアルしてスタートした。なお、前身のMSNスペースは、「[魔法のiらんど](https://ja.wikipedia.org/wiki/魔法のiらんど "wikilink")」との提携により運営されていた、日本発のサービスであった。2011年3月をもってサービスは終了し、現在は[WordPress](../Page/WordPress.md "wikilink")のブログサービスへの移行が推奨されている。
+**Windows Live Spaces**（ウィンドウズ ライブ スペース）とは、[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[Windows Live IDを使用した](../Page/Microsoft_アカウント.md "wikilink")[ブログ](../Page/ブログ.md "wikilink")であり、[Windows Liveサービスの](../Page/Windows_Live.md "wikilink")1つである。それまで同社が提供していたブログサービスのMSNスペースをリニューアルしてスタートした。なお、前身のMSNスペースは、「[魔法のiらんど](../Page/魔法のiらんど.md "wikilink")」との提携により運営されていた、日本発のサービスであった。2011年3月をもってサービスは終了し、現在は[WordPress](../Page/WordPress.md "wikilink")のブログサービスへの移行が推奨されている。
 
 ## 機能
 
@@ -20,8 +20,8 @@ Windows Live Spacesには次の様な機能がある。
 
 ### 写真についての機能
 
-  - 1つのスペースへ毎月500枚までの[写真](../Page/写真.md "wikilink")が[アップロード](https://ja.wikipedia.org/wiki/アップロード "wikilink")できる。
-  - [アップロード](https://ja.wikipedia.org/wiki/アップロード "wikilink")された[写真](../Page/写真.md "wikilink")に説明やコメントを付けることができる。
+  - 1つのスペースへ毎月500枚までの[写真](../Page/写真.md "wikilink")が[アップロード](../Page/アップロード.md "wikilink")できる。
+  - [アップロード](../Page/アップロード.md "wikilink")された[写真](../Page/写真.md "wikilink")に説明やコメントを付けることができる。
 
 ### その他の機能
 
@@ -34,7 +34,7 @@ Windows Live Spacesには次の様な機能がある。
   - ダッシュボード
     自分のスペースの状況を簡単に参照できる。
   - メッセージの送信
-    自分の[メールアドレス](https://ja.wikipedia.org/wiki/メールアドレス "wikilink")を知らせずに相手とのコンタクトをとる。
+    自分の[メールアドレス](../Page/メールアドレス.md "wikilink")を知らせずに相手とのコンタクトをとる。
   - 友人リストの追加
     スペースを通して友人をつくることができる。
   - [Windows Live Writerでブログを編集](../Page/Windows_Live_Writer.md "wikilink")

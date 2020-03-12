@@ -1,7 +1,7 @@
 > この記事は[PRIDE \(HIGH and MIGHTY COLOR\)](https://ja.wikipedia.org/wiki/PRIDE_\(HIGH_and_MIGHTY_COLOR\))から翻訳されています。
 
 
-「**PRIDE**」（プライド）は、[HIGH and MIGHTY COLORの通算](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")2作目、メジャーデビュー[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[SME Recordsから発売された](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。また、表題曲が[リミックス](../Page/リミックス.md "wikilink")された音源を収録し[3月24日](../Page/3月24日.md "wikilink")にSME Recordsから発売されたシングル「**PRIDE Remix**」（プライド リミックス）も本項で記述する。
+「**PRIDE**」（プライド）は、[HIGH and MIGHTY COLORの通算](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")2作目、メジャーデビュー[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[SME Recordsから発売された](../Page/エスエムイーレコーズ.md "wikilink")。また、表題曲が[リミックス](../Page/リミックス.md "wikilink")された音源を収録し[3月24日](../Page/3月24日.md "wikilink")にSME Recordsから発売されたシングル「**PRIDE Remix**」（プライド リミックス）も本項で記述する。
 
 ## 解説
 
@@ -16,10 +16,10 @@
 
 1.  **PRIDE**
       -
-        [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』オープニングテーマ。また[ロックマン エグゼ オペレート シューティングスターCM使用曲](https://ja.wikipedia.org/wiki/ロックマン_エグゼ_オペレート_シューティングスター "wikilink")。
+        [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』オープニングテーマ。また[ロックマン エグゼ オペレート シューティングスターCM使用曲](https://ja.wikipedia.org/wiki/ロックマン_エグゼ_オペレート_シューティングスター "wikilink")。
         2005年1月の[fm osaka邦楽パワープレイに選ばれた](../Page/エフエム大阪.md "wikilink")。
         [ユウスケのラップパートが歌詞カードに記載されていなかったが](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")、2009年3月15日のユウスケのブログで発表された。
-        [PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")に存在する[かずさアカデミアホールで撮影された](https://ja.wikipedia.org/wiki/かずさアカデミアパーク "wikilink")。
+        [PVは](../Page/ミュージック・ビデオ.md "wikilink")、[千葉県](../Page/千葉県.md "wikilink")に存在する[かずさアカデミアホールで撮影された](https://ja.wikipedia.org/wiki/かずさアカデミアパーク "wikilink")。
 2.  **光るカケラ**
       -
         「PRIDE」、「all alone」同様、ユウスケのラップパートで歌詞カードに掲載されていない部分がある。
@@ -50,11 +50,11 @@
 
 1.  PRIDE 〜Nu school of mixture mix〜 ([cmjk](../Page/電気グルーヴ.md "wikilink"))
 2.  PRIDE 〜R\&B norishiromix〜 ([NORISHIROCKS](https://ja.wikipedia.org/wiki/NORISHIROCKS "wikilink") (I.S.O.\&hide2))
-3.  PRIDE 〜HΛL's MIX 2005〜 ([HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink"))
+3.  PRIDE 〜HΛL's MIX 2005〜 ([HΛL](../Page/HΛL.md "wikilink"))
 4.  PRIDE 〜D.D.INOReMIX〜 (MITSUU（[村田充](../Page/村田充.md "wikilink")）)
 5.  PRIDE 〜Real Latin Players mix〜 ([dj dragon](../Page/DJ_DRAGON.md "wikilink") from [black jaxx](../Page/BLACK_JAXX.md "wikilink"))
 6.  PRIDE 〜"Phantom pain"norishirobreakmegamix〜 (NORISHIROCKS (I.S.O.\&hide2))
       -
-        [コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")『[機動戦士ガンダムSEED DESTINY COMPLETE BEST](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY_COMPLETE_BEST "wikilink") DASH』にも収録されている。
+        [コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『[機動戦士ガンダムSEED DESTINY COMPLETE BEST](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY_COMPLETE_BEST "wikilink") DASH』にも収録されている。
 
 [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:HIGH_and_MIGHTY_COLORの楽曲](https://ja.wikipedia.org/wiki/Category:HIGH_and_MIGHTY_COLORの楽曲 "wikilink") [Category:2005年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:2005年のデビュー・シングル "wikilink") [Category:エスエムイーレコーズのシングル](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのシングル "wikilink") [Category:ガンダムシリーズのアニメソング](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのアニメソング "wikilink") [Category:毎日放送のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビアニメ主題歌 "wikilink") [Category:ロックマンエグゼの音楽](https://ja.wikipedia.org/wiki/Category:ロックマンエグゼの音楽 "wikilink") [Category:ポピュラーソング](https://ja.wikipedia.org/wiki/Category:ポピュラーソング "wikilink")

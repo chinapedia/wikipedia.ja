@@ -1,11 +1,11 @@
 > この記事は[ \(DEEN\&\)](https://ja.wikipedia.org/wiki/_\(DEEN\&\))から翻訳されています。
 
 
-「**夢で逢えたら**」（ゆめであえたら）は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")&[原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")のシングル。DEENとしては23枚目、原田知世としては27枚目のシングルである。 　
+「**夢で逢えたら**」（ゆめであえたら）は、[DEEN](../Page/DEEN.md "wikilink")&[原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")のシングル。DEENとしては23枚目、原田知世としては27枚目のシングルである。 　
 
 ## 作品解説
 
-DEEN初となるカヴァーアルバム『[和音〜Songs for Children〜](https://ja.wikipedia.org/wiki/和音〜Songs_for_Children〜 "wikilink")』からのシングルカット。ボーカル池森が楽曲収録時から「これ、（シングルで）切ろうよ！」と絶賛していた。
+DEEN初となるカヴァーアルバム『[和音〜Songs for Children〜](../Page/和音〜Songs_for_Children〜.md "wikilink")』からのシングルカット。ボーカル池森が楽曲収録時から「これ、（シングルで）切ろうよ！」と絶賛していた。
 
 ヴォーカルに原田知世をむかえている。ライブでもゲスト出演し、コラボしている。
 
@@ -23,7 +23,7 @@ DEEN初となるカヴァーアルバム『[和音〜Songs for Children〜](http
 
 ## 収録アルバム
 
-  - 『[和音〜Songs for Children〜](https://ja.wikipedia.org/wiki/和音〜Songs_for_Children〜 "wikilink")』(\#1、原曲)
+  - 『[和音〜Songs for Children〜](../Page/和音〜Songs_for_Children〜.md "wikilink")』(\#1、原曲)
   - 『[DEENAGE MEMORY -20周年記念ベストアルバム-](https://ja.wikipedia.org/wiki/DEENAGE_MEMORY_-20周年記念ベストアルバム- "wikilink")』(\#1)
   - 『[DEEN The Best FOREVER 〜Complete Singles +〜](https://ja.wikipedia.org/wiki/DEEN_The_Best_FOREVER_〜Complete_Singles_+〜 "wikilink")』(\#1)
 
@@ -38,6 +38,6 @@ DEEN初となるカヴァーアルバム『[和音〜Songs for Children〜](http
 ## 関連項目
 
   - [夢で逢えたら (大瀧詠一の曲)](https://ja.wikipedia.org/wiki/夢で逢えたら_\(大瀧詠一の曲\) "wikilink")
-  - [2002年の音楽](https://ja.wikipedia.org/wiki/2002年の音楽 "wikilink")
+  - [2002年の音楽](../Page/2002年の音楽.md "wikilink")
 
 [Category:2002年のコラボレーション・シングル](https://ja.wikipedia.org/wiki/Category:2002年のコラボレーション・シングル "wikilink") [Category:DEENの楽曲](https://ja.wikipedia.org/wiki/Category:DEENの楽曲 "wikilink") [Category:原田知世の楽曲](https://ja.wikipedia.org/wiki/Category:原田知世の楽曲 "wikilink") [Category:ビーイング関連楽曲](https://ja.wikipedia.org/wiki/Category:ビーイング関連楽曲 "wikilink") [Category:海を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:海を題材とした楽曲 "wikilink") [Category:楽曲_ゆ](https://ja.wikipedia.org/wiki/Category:楽曲_ゆ "wikilink")

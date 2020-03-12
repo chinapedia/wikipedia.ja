@@ -1,7 +1,7 @@
 > この記事は[TURB](https://ja.wikipedia.org/wiki/TURB)から翻訳されています。
 
 
-**戦国TURB**（せんごくたーぶ）は[qnep](https://ja.wikipedia.org/wiki/qnep "wikilink")（クネップ）が開発した[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用ゲームソフトである。発売元は[NECホームエレクトロニクス](https://ja.wikipedia.org/wiki/NECホームエレクトロニクス "wikilink")。ジャンルは[アクションRPG](https://ja.wikipedia.org/wiki/アクションRPG "wikilink")。メインスタッフが所属していた同人ソフト制作集団[Bio_100%](https://ja.wikipedia.org/wiki/Bio_100% "wikilink")独特の感性 によるシュールかつコミカルな世界観でカルトな人気を博した。キャッチコピーは 「**愛も勇気も好きにすれば**」。キャラクターデザインは[たまごっち](../Page/たまごっち.md "wikilink")の企画・開発をした[黒柳陽子](https://ja.wikipedia.org/wiki/黒柳陽子 "wikilink")が担当した。PC-9801版についても本稿で述べる→[\#PC版](https://ja.wikipedia.org/wiki/#PC版 "wikilink")。
+**戦国TURB**（せんごくたーぶ）は[qnep](https://ja.wikipedia.org/wiki/qnep "wikilink")（クネップ）が開発した[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用ゲームソフトである。発売元は[NECホームエレクトロニクス](https://ja.wikipedia.org/wiki/NECホームエレクトロニクス "wikilink")。ジャンルは[アクションRPG](https://ja.wikipedia.org/wiki/アクションRPG "wikilink")。メインスタッフが所属していた同人ソフト制作集団[Bio_100%](../Page/Bio_100%.md "wikilink")独特の感性 によるシュールかつコミカルな世界観でカルトな人気を博した。キャッチコピーは 「**愛も勇気も好きにすれば**」。キャラクターデザインは[たまごっち](../Page/たまごっち.md "wikilink")の企画・開発をした[黒柳陽子](https://ja.wikipedia.org/wiki/黒柳陽子 "wikilink")が担当した。PC-9801版についても本稿で述べる→[\#PC版](https://ja.wikipedia.org/wiki/#PC版 "wikilink")。
 
 ## あらすじ
 
@@ -50,7 +50,7 @@
 
 ## PC版
 
-本作のスタッフが[Bio_100%](https://ja.wikipedia.org/wiki/Bio_100% "wikilink")時代に制作した、[PC-9800](https://ja.wikipedia.org/wiki/PC-9800 "wikilink")シリーズ用の同名ゲームで、フリーソフトウェア。全ての操作を[マウスで行なうタイプの](../Page/マウス_\(コンピュータ\).md "wikilink")[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")である。主人公「ののりん・のめう」と最大36匹の隊員で構成された「ねこ軍」を率い「羊軍」と対決。160のヘックスで築かれた全体マップを攻略していくもので、戦闘についてはアクションゲームの趣。基本的には、操作でいるのは主人公のみであり、隊員たちは自由勝手に戦闘を行なう。プレイヤーは回復アイテムの使用などでこれを支援することができる\[1\]。
+本作のスタッフが[Bio_100%](../Page/Bio_100%.md "wikilink")時代に制作した、[PC-9800](https://ja.wikipedia.org/wiki/PC-9800 "wikilink")シリーズ用の同名ゲームで、フリーソフトウェア。全ての操作を[マウスで行なうタイプの](../Page/マウス_\(コンピュータ\).md "wikilink")[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")である。主人公「ののりん・のめう」と最大36匹の隊員で構成された「ねこ軍」を率い「羊軍」と対決。160のヘックスで築かれた全体マップを攻略していくもので、戦闘についてはアクションゲームの趣。基本的には、操作でいるのは主人公のみであり、隊員たちは自由勝手に戦闘を行なう。プレイヤーは回復アイテムの使用などでこれを支援することができる\[1\]。
 
 ストーリーとしては、動物たちの住む「らいよん惑星」でねこと羊の争いが続いていたが、ついにねこは「ねこ城」に追い詰められ、戦いの帰趨は絶望的となっていた、とその所に宇宙からやってきた主人公がねこの救世主となり…と言ったものである\[2\]。
 

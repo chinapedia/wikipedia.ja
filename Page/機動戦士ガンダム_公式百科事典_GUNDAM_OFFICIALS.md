@@ -1,7 +1,7 @@
 > この記事は[  GUNDAM OFFICIALS](https://ja.wikipedia.org/wiki/__GUNDAM_OFFICIALS)から翻訳されています。
 
 
-『**機動戦士ガンダム 公式百科事典 GUNDAM OFFICIALS**』は、アニメ『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』に関する設定資料を集めた刊行物である。[一年戦争](../Page/一年戦争.md "wikilink")（『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』）から[デラーズ紛争](https://ja.wikipedia.org/wiki/デラーズ紛争 "wikilink")（『[機動戦士ガンダム0083 STARDUST MEMORY](../Page/機動戦士ガンダム0083_STARDUST_MEMORY.md "wikilink")』）までの設定情報を集大成し、「[ガンダム](../Page/ガンダムシリーズ一覧.md "wikilink")」20年の歴史を俯瞰するという視点で叙述されている。[2001年](../Page/2001年.md "wikilink")3月に[講談社](../Page/講談社.md "wikilink")より発行された。監修は[サンライズ](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")、編著は[皆川ゆか](../Page/皆河有伽.md "wikilink")。
+『**機動戦士ガンダム 公式百科事典 GUNDAM OFFICIALS**』は、アニメ『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』に関する設定資料を集めた刊行物である。[一年戦争](../Page/一年戦争.md "wikilink")（『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』）から[デラーズ紛争](../Page/デラーズ紛争.md "wikilink")（『[機動戦士ガンダム0083 STARDUST MEMORY](../Page/機動戦士ガンダム0083_STARDUST_MEMORY.md "wikilink")』）までの設定情報を集大成し、「[ガンダム](../Page/ガンダムシリーズ一覧.md "wikilink")」20年の歴史を俯瞰するという視点で叙述されている。[2001年](../Page/2001年.md "wikilink")3月に[講談社](../Page/講談社.md "wikilink")より発行された。監修は[サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")、編著は[皆川ゆか](../Page/皆河有伽.md "wikilink")。
 
 ## 叙述の様式
 
@@ -11,9 +11,9 @@
 
 ## 架空の百科事典として
 
-この刊行物は、[宇宙世紀](../Page/宇宙世紀.md "wikilink")世界に生きる一人の学者ミナカ・ユンカース (Minaka Junkers) が機動兵器[モビルスーツ](../Page/モビルスーツ.md "wikilink")など[軍事](../Page/軍事.md "wikilink")にまつわる事項を中心に記して、U.C.0100年に刊行した架空の百科事典、それがさらに正暦時代にマウンテンサイクルで発掘され、修復・解読されて刊行されたという、体裁を借りている。作品世界内の設定や歴史などを、宇宙世紀世界に生きる人物の視点から解説している。そのため、『機動戦士ガンダム』のTV版のみに登場した「[Gファイター](https://ja.wikipedia.org/wiki/Gファイター "wikilink")」に関しても「TV版に登場」という記述ではなく、「異説」として扱われている。これはサンライズが劇場版の方を正史と見なすことの多いことからで、他にも劇場版とTV版の差異に関しては、TV版での描写・設定を「異説」として記述している。シャア・アズナブルによる[ガルマ・ザビ謀殺や](https://ja.wikipedia.org/wiki/ザビ家#ガルマ・ザビ "wikilink")[キシリア・ザビ殺害についても](https://ja.wikipedia.org/wiki/ザビ家#キシリア・ザビ "wikilink")「確実視されている」や「有力な説」という形で記述されている。
+この刊行物は、[宇宙世紀](../Page/宇宙世紀.md "wikilink")世界に生きる一人の学者ミナカ・ユンカース (Minaka Junkers) が機動兵器[モビルスーツ](../Page/モビルスーツ.md "wikilink")など[軍事](../Page/軍事.md "wikilink")にまつわる事項を中心に記して、U.C.0100年に刊行した架空の百科事典、それがさらに正暦時代にマウンテンサイクルで発掘され、修復・解読されて刊行されたという、体裁を借りている。作品世界内の設定や歴史などを、宇宙世紀世界に生きる人物の視点から解説している。そのため、『機動戦士ガンダム』のTV版のみに登場した「[Gファイター](../Page/Gファイター.md "wikilink")」に関しても「TV版に登場」という記述ではなく、「異説」として扱われている。これはサンライズが劇場版の方を正史と見なすことの多いことからで、他にも劇場版とTV版の差異に関しては、TV版での描写・設定を「異説」として記述している。シャア・アズナブルによる[ガルマ・ザビ謀殺や](https://ja.wikipedia.org/wiki/ザビ家#ガルマ・ザビ "wikilink")[キシリア・ザビ殺害についても](https://ja.wikipedia.org/wiki/ザビ家#キシリア・ザビ "wikilink")「確実視されている」や「有力な説」という形で記述されている。
 
-冒頭には[富野由悠季](../Page/富野由悠季.md "wikilink")による2つの序文が掲載されている。本人名義の「序 出版を祝す」と[黒歴史](../Page/黒歴史.md "wikilink")提唱者 ヨック・ワック・オニモット (Yokk Wakk Onimott) 名義の「[考証学](https://ja.wikipedia.org/wiki/考証学 "wikilink")《黒歴史論》」で、後者は[正暦時代の学者オニモットが](../Page/正暦_\(∀ガンダム\).md "wikilink")[マウンテンサイクル](https://ja.wikipedia.org/wiki/マウンテンサイクル "wikilink")で発掘したユンカース著の百科事典を修復・解読し、正暦2001年に刊行した本の序文の体裁で書かれている。
+冒頭には[富野由悠季](../Page/富野由悠季.md "wikilink")による2つの序文が掲載されている。本人名義の「序 出版を祝す」と[黒歴史](../Page/黒歴史.md "wikilink")提唱者 ヨック・ワック・オニモット (Yokk Wakk Onimott) 名義の「[考証学](../Page/考証学.md "wikilink")《黒歴史論》」で、後者は[正暦時代の学者オニモットが](../Page/正暦_\(∀ガンダム\).md "wikilink")[マウンテンサイクル](https://ja.wikipedia.org/wiki/マウンテンサイクル "wikilink")で発掘したユンカース著の百科事典を修復・解読し、正暦2001年に刊行した本の序文の体裁で書かれている。
 
 『GUNDAM OFFICIALS』と同様の形式の著作物として『[機動戦士ガンダム外伝 THE BLUE DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダム外伝_THE_BLUE_DESTINY#派生作品 "wikilink")』文庫版に収録の「人類の新しい『文明』状況と宇宙居住者にとっての『文化』」（U.C.0105年のミナカ・ユンカース講演録の形式）や『評伝シャア・アズナブル　－《赤い彗星》の軌跡－』上下巻（皆川ゆか著）がある。
 

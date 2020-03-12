@@ -1,26 +1,26 @@
 > この記事は[ROSARIUM --](https://ja.wikipedia.org/wiki/ROSARIUM_--)から翻訳されています。
 
 
-『**ROSARIUM -繋がれた少年-**』（ローザリウム つながれたしょうねん）は[OPTiM](https://ja.wikipedia.org/wiki/OPTiM "wikilink")（おぷてぃむ）制作著作、[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")販売の[ショタゲー](https://ja.wikipedia.org/wiki/ショタゲー "wikilink")である。
+『**ROSARIUM -繋がれた少年-**』（ローザリウム つながれたしょうねん）は[OPTiM](https://ja.wikipedia.org/wiki/OPTiM "wikilink")（おぷてぃむ）制作著作、[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")販売の[ショタゲー](../Page/ショタゲー.md "wikilink")である。
 
 ## あらすじ
 
-主人公ルカ（名前変更可能）は薄暗く狭い部屋で目を覚まし、そこで自分の両親が事故死したこと、彼らは多額の[借金](https://ja.wikipedia.org/wiki/借金 "wikilink")をかかえていたこと、その借金のカタとして自分は売られてきたこと、そしてそれに伴い、これから約1ヶ月の間、[性奴隷として高く売れるよう調教を強いられることを告げられる](https://ja.wikipedia.org/wiki/性的奴隷 "wikilink")。
+主人公ルカ（名前変更可能）は薄暗く狭い部屋で目を覚まし、そこで自分の両親が事故死したこと、彼らは多額の[借金](../Page/借金.md "wikilink")をかかえていたこと、その借金のカタとして自分は売られてきたこと、そしてそれに伴い、これから約1ヶ月の間、[性奴隷として高く売れるよう調教を強いられることを告げられる](../Page/性的奴隷.md "wikilink")。
 
 ## ゲーム内容
 
-あらすじの項にもあるように、ひとことで説明するならば同人も含めて、日本初の本格的[ショタ](https://ja.wikipedia.org/wiki/ショタ "wikilink")[調教](https://ja.wikipedia.org/wiki/調教 "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")といえる。他の主な調教系[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")と異なり、自らは調教を受ける側であるという点が特徴である。また、「ツインボイス仕様」と銘打ち、主人公の声は[男性](../Page/男性.md "wikilink")[声優](../Page/声優.md "wikilink")・[女性](../Page/女性.md "wikilink")声優の2種類から選択できるようになっている。
+あらすじの項にもあるように、ひとことで説明するならば同人も含めて、日本初の本格的[ショタ](https://ja.wikipedia.org/wiki/ショタ "wikilink")[調教](../Page/調教.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")といえる。他の主な調教系[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")と異なり、自らは調教を受ける側であるという点が特徴である。また、「ツインボイス仕様」と銘打ち、主人公の声は[男性](../Page/男性.md "wikilink")[声優](../Page/声優.md "wikilink")・[女性](../Page/女性.md "wikilink")声優の2種類から選択できるようになっている。
 
-21日間の調教日程があり、その間にどのような調教を受けたか、また、質問に対してどのような答え方をしたかによって展開や[エンディング](https://ja.wikipedia.org/wiki/エンディング "wikilink")が分岐してゆく。調教内容は[逆レイプ](https://ja.wikipedia.org/wiki/逆レイプ "wikilink")、[強制自慰](https://ja.wikipedia.org/wiki/強制自慰 "wikilink")、[女装](../Page/女装.md "wikilink")、[輪姦](../Page/輪姦.md "wikilink")、[鞭](https://ja.wikipedia.org/wiki/鞭 "wikilink")、[露出](../Page/露出プレイ.md "wikilink")、[尿道責め](https://ja.wikipedia.org/wiki/尿道責め "wikilink")、[寸止め](https://ja.wikipedia.org/wiki/寸止め "wikilink")、[連続射精](https://ja.wikipedia.org/wiki/連続射精 "wikilink")、[電気責め](https://ja.wikipedia.org/wiki/電気責め "wikilink")、[触手](https://ja.wikipedia.org/wiki/触手 "wikilink")など多岐にわたり、[切断などの肉体損壊の類を除けば](../Page/性器切断.md "wikilink")、ほぼ全てのものが盛り込まれていると言っても過言では無い。
+21日間の調教日程があり、その間にどのような調教を受けたか、また、質問に対してどのような答え方をしたかによって展開や[エンディング](https://ja.wikipedia.org/wiki/エンディング "wikilink")が分岐してゆく。調教内容は[逆レイプ](../Page/逆レイプ.md "wikilink")、[強制自慰](https://ja.wikipedia.org/wiki/強制自慰 "wikilink")、[女装](../Page/女装.md "wikilink")、[輪姦](../Page/輪姦.md "wikilink")、[鞭](../Page/鞭.md "wikilink")、[露出](../Page/露出プレイ.md "wikilink")、[尿道責め](https://ja.wikipedia.org/wiki/尿道責め "wikilink")、[寸止め](../Page/寸止め.md "wikilink")、[連続射精](https://ja.wikipedia.org/wiki/連続射精 "wikilink")、[電気責め](https://ja.wikipedia.org/wiki/電気責め "wikilink")、[触手](../Page/触手.md "wikilink")など多岐にわたり、[切断などの肉体損壊の類を除けば](../Page/性器切断.md "wikilink")、ほぼ全てのものが盛り込まれていると言っても過言では無い。
 
 ## 登場人物
 
-登場人物の名前はいずれも[聖書](https://ja.wikipedia.org/wiki/聖書 "wikilink")に出典されるものとなっている。主人公のルカは[新約聖書](../Page/新約聖書.md "wikilink")の著者の1人とされる人物[ルカ](https://ja.wikipedia.org/wiki/ルカ "wikilink")の名前であり、これは[キリスト教](../Page/キリスト教.md "wikilink")の[聖人](../Page/聖人.md "wikilink")である。またルカを調教するエヴァは[旧約聖書](../Page/旧約聖書.md "wikilink")の[エヴァであり](https://ja.wikipedia.org/wiki/アダムとイヴ "wikilink")、これは[人類](../Page/人類.md "wikilink")最初の女性とされる。ジュダは旧約・新約ともに現れる多くの人物名である[ユダ](https://ja.wikipedia.org/wiki/ユダ "wikilink")の英語読みである。更にアブサロム・ソロモンは[アブサロム](../Page/アブサロム.md "wikilink")、[ソロモン](../Page/ソロモン.md "wikilink")ともに旧約聖書に登場する[ダビデ](../Page/ダビデ.md "wikilink")王の子の名前であり、ソロモンはダビデの後継者である。
+登場人物の名前はいずれも[聖書](../Page/聖書.md "wikilink")に出典されるものとなっている。主人公のルカは[新約聖書](../Page/新約聖書.md "wikilink")の著者の1人とされる人物[ルカ](../Page/ルカ.md "wikilink")の名前であり、これは[キリスト教](../Page/キリスト教.md "wikilink")の[聖人](../Page/聖人.md "wikilink")である。またルカを調教するエヴァは[旧約聖書](../Page/旧約聖書.md "wikilink")の[エヴァであり](https://ja.wikipedia.org/wiki/アダムとイヴ "wikilink")、これは[人類](../Page/人類.md "wikilink")最初の女性とされる。ジュダは旧約・新約ともに現れる多くの人物名である[ユダ](../Page/ユダ.md "wikilink")の英語読みである。更にアブサロム・ソロモンは[アブサロム](../Page/アブサロム.md "wikilink")、[ソロモン](../Page/ソロモン.md "wikilink")ともに旧約聖書に登場する[ダビデ](../Page/ダビデ.md "wikilink")王の子の名前であり、ソロモンはダビデの後継者である。
 
   - ルカ（名前変更可能）（声：[新田祐一](https://ja.wikipedia.org/wiki/新田祐一 "wikilink")、出羅斐イコ）
-    主人公の[少年](../Page/少年.md "wikilink")。[記憶を失うも](https://ja.wikipedia.org/wiki/記憶喪失 "wikilink")、両親を事故で亡くし、借金のカタとしてこの部屋に連れてこられ、調教の日々を過ごすことを宣告される。以後、着ているものは[下着](https://ja.wikipedia.org/wiki/下着 "wikilink")も含めて全て破棄され、調教の期間は[シャツ](https://ja.wikipedia.org/wiki/シャツ "wikilink")1枚でいることを強いられる。これまでの記憶は失っているが、名前だけは辛うじて覚えており、ゲーム中ではその返答として名前入力を求められる。
+    主人公の[少年](../Page/少年.md "wikilink")。[記憶を失うも](https://ja.wikipedia.org/wiki/記憶喪失 "wikilink")、両親を事故で亡くし、借金のカタとしてこの部屋に連れてこられ、調教の日々を過ごすことを宣告される。以後、着ているものは[下着](../Page/下着.md "wikilink")も含めて全て破棄され、調教の期間は[シャツ](../Page/シャツ.md "wikilink")1枚でいることを強いられる。これまでの記憶は失っているが、名前だけは辛うじて覚えており、ゲーム中ではその返答として名前入力を求められる。
   - エヴァ（声：くるみ）
-    ルカを調教する[錬金術師](https://ja.wikipedia.org/wiki/錬金術師 "wikilink")見習の[少女](../Page/少女.md "wikilink")。自らの[研究](../Page/研究.md "wikilink")に多額の費用がかかるため、ルカを調教し、[奴隷](../Page/奴隷.md "wikilink")として[少年愛者の富豪たちに高額で売りつけることを目論む](https://ja.wikipedia.org/wiki/少年性愛 "wikilink")。いわゆる[女王様](https://ja.wikipedia.org/wiki/女王様 "wikilink")風の衣装を纏っているが、ルカの調教を行うからというわけではないらしく、普段からこの服装でいるようである。
+    ルカを調教する[錬金術師](https://ja.wikipedia.org/wiki/錬金術師 "wikilink")見習の[少女](../Page/少女.md "wikilink")。自らの[研究](../Page/研究.md "wikilink")に多額の費用がかかるため、ルカを調教し、[奴隷](../Page/奴隷.md "wikilink")として[少年愛者の富豪たちに高額で売りつけることを目論む](../Page/少年性愛.md "wikilink")。いわゆる[女王様](https://ja.wikipedia.org/wiki/女王様 "wikilink")風の衣装を纏っているが、ルカの調教を行うからというわけではないらしく、普段からこの服装でいるようである。
   - ジュダ（声：[森山葵](https://ja.wikipedia.org/wiki/森山葵 "wikilink")）
     エヴァの助手の少年。すでに調教が完了しており、彼女の命令には絶対服従を貫く。肉体的な感覚を除いて感情は完全に失っているが、物事を考えたり判断する能力はあり、或いは知力はルカよりも優れていると思われる。ただしエヴァの言動に対しては一切の疑問を抱かない。
   - [男](https://ja.wikipedia.org/wiki/男 "wikilink")

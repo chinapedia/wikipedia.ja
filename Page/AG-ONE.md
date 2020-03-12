@@ -1,11 +1,11 @@
 > この記事は[AG-ONE](https://ja.wikipedia.org/wiki/AG-ONE)から翻訳されています。
 
 
-**株式会社AG-ONE**（エイジーワン、*AG-ONE,Ltd.* ）は、過去に存在した[アニメ](../Page/アニメ.md "wikilink")・[ゲーム](../Page/ゲーム.md "wikilink")・[声優](../Page/声優.md "wikilink")分野において、[WEB](https://ja.wikipedia.org/wiki/WEB "wikilink")コンテンツ配信や[ラジオ](../Page/ラジオ.md "wikilink")番組制作、養成学校及び芸能事務所の運営などを行う企業で、[株式会社ドワンゴと](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")[株式会社文化放送との](../Page/文化放送.md "wikilink")[合弁会社であった](../Page/合弁事業.md "wikilink")。「アニメ・ゲームのオールインワンカンパニー」を自称している。
+**株式会社AG-ONE**（エイジーワン、*AG-ONE,Ltd.* ）は、過去に存在した[アニメ](../Page/アニメ.md "wikilink")・[ゲーム](../Page/ゲーム.md "wikilink")・[声優](../Page/声優.md "wikilink")分野において、[WEB](../Page/WEB.md "wikilink")コンテンツ配信や[ラジオ](../Page/ラジオ.md "wikilink")番組制作、養成学校及び芸能事務所の運営などを行う企業で、[株式会社ドワンゴと](../Page/ドワンゴ.md "wikilink")[株式会社文化放送との](../Page/文化放送.md "wikilink")[合弁会社であった](../Page/合弁事業.md "wikilink")。「アニメ・ゲームのオールインワンカンパニー」を自称している。
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に[株式会社文化放送と](../Page/文化放送.md "wikilink")[株式会社ドワンゴの](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")[合弁事業](../Page/合弁事業.md "wikilink")として[株式会社ピクチャーマジック](../Page/ピクチャーマジック.md "wikilink")（後に子会社化、現在解散して消滅）の協力を受け設立した会社である（文化放送分は、子会社[株式会社セントラルミュージックからの出資も含む](https://ja.wikipedia.org/wiki/セントラルミュージック "wikilink")）。その後、[角川グループ](https://ja.wikipedia.org/wiki/角川グループ "wikilink")[株式会社メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")（後の[株式会社アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、現[株式会社KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") アスキー・メディアワークスBC）及び[有限会社グッドスマイルカンパニーも](../Page/グッドスマイルカンパニー.md "wikilink")[第三者割当増資で出資していた](../Page/募集株式.md "wikilink")。
+[2006年](../Page/2006年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に[株式会社文化放送と](../Page/文化放送.md "wikilink")[株式会社ドワンゴの](../Page/ドワンゴ.md "wikilink")[合弁事業](../Page/合弁事業.md "wikilink")として[株式会社ピクチャーマジック](../Page/ピクチャーマジック.md "wikilink")（後に子会社化、現在解散して消滅）の協力を受け設立した会社である（文化放送分は、子会社[株式会社セントラルミュージックからの出資も含む](https://ja.wikipedia.org/wiki/セントラルミュージック "wikilink")）。その後、[角川グループ](https://ja.wikipedia.org/wiki/角川グループ "wikilink")[株式会社メディアワークス](../Page/メディアワークス.md "wikilink")（後の[株式会社アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、現[株式会社KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") アスキー・メディアワークスBC）及び[有限会社グッドスマイルカンパニーも](../Page/グッドスマイルカンパニー.md "wikilink")[第三者割当増資で出資していた](../Page/募集株式.md "wikilink")。
 
 携帯・PCサイト『超\!アニメロ』をドワンゴと共に運営していた。
 
@@ -19,9 +19,9 @@
 
 増資・合併により、最終的な資本金は設立当初と比べ5倍近くなり、事業も大幅に拡大した。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月22日](../Page/4月22日.md "wikilink")に[株式会社5pb.に資本参加](../Page/5pb..md "wikilink")、傘下に加える。2011年4月21日に同日付[官報](../Page/官報.md "wikilink")公告でAG-ONEを存続会社として5pb.を吸収合併すると発表\[2\]。株主総会での承認を経て同年6月1日付で合併、[株式会社MAGES.](https://ja.wikipedia.org/wiki/MAGES. "wikilink")（メージス）が発足、5pb.社長だった[志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink")が代表取締役社長に、当社社長だった中西は代表取締役副社長に就任した。合併後は双方のブランドや事業が維持される\[3\]。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月22日](../Page/4月22日.md "wikilink")に[株式会社5pb.に資本参加](../Page/5pb..md "wikilink")、傘下に加える。2011年4月21日に同日付[官報](../Page/官報.md "wikilink")公告でAG-ONEを存続会社として5pb.を吸収合併すると発表\[2\]。株主総会での承認を経て同年6月1日付で合併、[株式会社MAGES.](https://ja.wikipedia.org/wiki/MAGES. "wikilink")（メージス）が発足、5pb.社長だった[志倉千代丸](../Page/志倉千代丸.md "wikilink")が代表取締役社長に、当社社長だった中西は代表取締役副社長に就任した。合併後は双方のブランドや事業が維持される\[3\]。
 
-設立からしばらくの間、文化放送本社ビル（[文化放送メディアプラス](../Page/文化放送メディアプラス.md "wikilink")）近隣（[浜松町](https://ja.wikipedia.org/wiki/浜松町 "wikilink")）のビルに本社を構えていたが、2010年7月頃にドワンゴクリエイティブスクール・ドワンゴアーティストプロダクションの事務所と同じビル（[三崎町](https://ja.wikipedia.org/wiki/三崎町_\(千代田区\) "wikilink")）の別フロアへ移転した（MAGES.設立後も、2ヶ月程度の間、登記上の存続会社として本店所在地となっていた）。
+設立からしばらくの間、文化放送本社ビル（[文化放送メディアプラス](../Page/文化放送メディアプラス.md "wikilink")）近隣（[浜松町](../Page/浜松町.md "wikilink")）のビルに本社を構えていたが、2010年7月頃にドワンゴクリエイティブスクール・ドワンゴアーティストプロダクションの事務所と同じビル（[三崎町](https://ja.wikipedia.org/wiki/三崎町_\(千代田区\) "wikilink")）の別フロアへ移転した（MAGES.設立後も、2ヶ月程度の間、登記上の存続会社として本店所在地となっていた）。
 
 なお、プライバシーポリシーは、文化放送グループ内のプライバシーポリシーに準じた内容となっていた。
 
@@ -31,7 +31,7 @@
 
 そんな時に、[携帯電話](../Page/携帯電話.md "wikilink")で多彩なコンテンツを配信しているドワンゴとは、A\&Gゾーン番組とドワンゴの携帯サイト**アニメロミックス**を融合させたり、**[Animelo Summer Live](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink")**を共同で開催するなど関係が強まっていた（他にも文化放送単独主催の多数のライブにドワンゴは協賛し、ライブタイトルを「アニメロミックス presents （メインタイトル）」あるいは「（メインタイトル） supported by アニメロミックス」としており、アニメロミックスサイト上でライブ連動企画を行ったりしている）。ドワンゴとは、これからさらに協力することにより、さらなる発展が見込めると合意し、合弁会社の設置に至った。
 
-さらに、[文化放送グループ](https://ja.wikipedia.org/wiki/文化放送グループ "wikilink")の音響制作のノウハウを融合させることで最大利用を図る。
+さらに、[文化放送グループ](../Page/文化放送グループ.md "wikilink")の音響制作のノウハウを融合させることで最大利用を図る。
 
   - 設立賛同企業
     設立発表時に、以下の企業等が、賛同企業として名前が挙げられていた。
@@ -40,10 +40,10 @@
 
   - [エイベックス ネットワーク株式会社](https://ja.wikipedia.org/wiki/エイベックス_ネットワーク "wikilink")
   - [株式会社エボリューション](../Page/ドワンゴ・ユーザーエンタテインメント.md "wikilink")
-  - [キングレコード](../Page/キングレコード.md "wikilink")株式会社 [スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")レコード
+  - [キングレコード](../Page/キングレコード.md "wikilink")株式会社 [スターチャイルド](../Page/スターチャイルド.md "wikilink")レコード
   - [ジェネオン エンタテインメント株式会社](https://ja.wikipedia.org/wiki/ジェネオン_エンタテインメント "wikilink")
   - [株式会社マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスエンターテイメント "wikilink")
-  - [株式会社ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")
+  - [株式会社ランティス](../Page/ランティス.md "wikilink")
   - [株式会社リアライズレコード](../Page/リアライズレコード.md "wikilink")
 
 ## 事業所
@@ -58,18 +58,18 @@
 
 <!-- end list -->
 
-  - 浜松町オフィス：東京都[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[浜松町](https://ja.wikipedia.org/wiki/浜松町 "wikilink")1-27-8 森ビル5F
+  - 浜松町オフィス：東京都[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[浜松町](../Page/浜松町.md "wikilink")1-27-8 森ビル5F
       -
         旧本社。ピクチャーマジック浜松町オフィスも併設されていた。
 
 ## 役員
 
   - 代表取締役社長
-      - [中西孝](https://ja.wikipedia.org/wiki/中西孝 "wikilink")
+      - [中西孝](../Page/中西孝.md "wikilink")
           -
-            子会社である[ピクチャーマジック](../Page/ピクチャーマジック.md "wikilink")の[代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink")[社長](https://ja.wikipedia.org/wiki/社長 "wikilink")である。5pb.取締役も兼任。合併前のドワンゴ プランニング アンド ディベロップメント代表取締役社長も兼任していた。
+            子会社である[ピクチャーマジック](../Page/ピクチャーマジック.md "wikilink")の[代表取締役](../Page/代表取締役.md "wikilink")[社長](../Page/社長.md "wikilink")である。5pb.取締役も兼任。合併前のドワンゴ プランニング アンド ディベロップメント代表取締役社長も兼任していた。
   - 代表取締役
-      - [志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink")
+      - [志倉千代丸](../Page/志倉千代丸.md "wikilink")
           -
             関連会社である5pb.の代表取締役社長である。合併新会社の社長となることになり、存続会社である当社の代表取締役にあらかじめ就任。
   - 取締役
@@ -122,7 +122,7 @@
   - 2007年7月 - 大口豊が代表取締役を辞任、株式会社ピクチャーマジックの中西孝が新代表取締役に就任
   - 2008年10月 - 有限会社グッドスマイルカンパニーに対する第三者割当により資本金95,000千円に増資
       -
-        株式会社ピクチャーマジックを買収し、完全[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")化
+        株式会社ピクチャーマジックを買収し、完全[子会社](../Page/子会社.md "wikilink")化
   - 2010年4月1日 - 株式会社ドワンゴ プランニング アンド ディベロップメントを吸収合併
       -
         合併及び文化放送に対する第三者割当により資本金295百万円に増資
@@ -159,7 +159,7 @@
   - 文化放送（AM）番組
       - [マクロスF ○♪△](https://ja.wikipedia.org/wiki/マクロスF_○♪△ "wikilink")
       - [田村ゆかりのいたずら黒うさぎ](../Page/田村ゆかりのいたずら黒うさぎ.md "wikilink")
-      - [RADIOアニメロミックス](https://ja.wikipedia.org/wiki/RADIOアニメロミックス "wikilink")
+      - [RADIOアニメロミックス](../Page/RADIOアニメロミックス.md "wikilink")
       - [神谷浩史・小野大輔のDearGirl〜Stories〜](../Page/神谷浩史・小野大輔のDearGirl〜Stories〜.md "wikilink")
       - [May'nのらじ☆たま](https://ja.wikipedia.org/wiki/May'nのらじ☆たま "wikilink")
       - [堀江由衣の天使のたまご](../Page/堀江由衣の天使のたまご.md "wikilink")
@@ -174,7 +174,7 @@
 
 ### ライセンス事業
 
-  - SEED PROJECT（傘下の5pb.との提携の柱となり、同社社長でプロデューサーの[志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink")も参画予定）
+  - SEED PROJECT（傘下の5pb.との提携の柱となり、同社社長でプロデューサーの[志倉千代丸](../Page/志倉千代丸.md "wikilink")も参画予定）
       - [ブラック★ロックシューター](https://ja.wikipedia.org/wiki/ブラック★ロックシューター "wikilink")
 
 ### 映像・音楽事業
@@ -184,17 +184,17 @@
           -
             子会社である[ピクチャーマジック](../Page/ピクチャーマジック.md "wikilink")が担っている
       - 商品化窓口／商品企画・制作
-          - アニメ [B型H系](https://ja.wikipedia.org/wiki/B型H系 "wikilink")（[製作委員会にも参画](../Page/製作委員会方式.md "wikilink")、ピクチャーマジックも一部制作協力）
+          - アニメ [B型H系](../Page/B型H系.md "wikilink")（[製作委員会にも参画](../Page/製作委員会方式.md "wikilink")、ピクチャーマジックも一部制作協力）
       - 楽曲制作受託
-          - アニメ B型H系 [劇伴](https://ja.wikipedia.org/wiki/劇伴 "wikilink")
+          - アニメ B型H系 [劇伴](../Page/劇伴.md "wikilink")
   - 音楽事業
       - Peertoneレーベル
           - [Prism](https://ja.wikipedia.org/wiki/Prism_\(鏡音リン・レンfeat._下田麻美のアルバム\) "wikilink")（[鏡音リン・レン](../Page/鏡音リン・レン.md "wikilink") feat. [下田麻美](https://ja.wikipedia.org/wiki/下田麻美 "wikilink")）
-          - [Musees de Sakura](https://ja.wikipedia.org/wiki/Musees_de_Sakura "wikilink")（[丹下桜](https://ja.wikipedia.org/wiki/丹下桜 "wikilink")）
+          - [Musees de Sakura](https://ja.wikipedia.org/wiki/Musees_de_Sakura "wikilink")（[丹下桜](../Page/丹下桜.md "wikilink")）
           - 限界Revolution（J-MEN）
       - LinkStageレーベル
           - [悪ノ娘](https://ja.wikipedia.org/wiki/悪ノ娘 "wikilink")〜凄艶のジェミニ〜 ボーカル＆サウンドトラック
-          - Gift（[野島健児](https://ja.wikipedia.org/wiki/野島健児_\(声優\) "wikilink")）
+          - Gift（[野島健児](../Page/野島健児_\(声優\).md "wikilink")）
           - 舞台 悪ノ娘〜凄艶のジェミニ〜
 
 ### ホビー／マーチャンダイジング事業
@@ -203,10 +203,10 @@
 
 ## 関連企業
 
-  - [株式会社ピクチャーマジック](../Page/ピクチャーマジック.md "wikilink")（東京都[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")[上石神井](https://ja.wikipedia.org/wiki/上石神井 "wikilink")一丁目16番14号）
+  - [株式会社ピクチャーマジック](../Page/ピクチャーマジック.md "wikilink")（東京都[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")[上石神井](../Page/上石神井.md "wikilink")一丁目16番14号）
       -
         アニメーション制作等。元々はAG-ONEの設立に当たり、ドワンゴと文化放送に協力して名を連ねた立場。2008年に完全子会社化。ただし、利益や重要度からドワンゴによる持分法の適用は除外となっている\[5\]
-  - [株式会社5pb.](../Page/5pb..md "wikilink")（東京都[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[猿楽町](https://ja.wikipedia.org/wiki/猿楽町_\(渋谷区\) "wikilink")28-11）
+  - [株式会社5pb.](../Page/5pb..md "wikilink")（東京都[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[猿楽町](../Page/猿楽町_\(渋谷区\).md "wikilink")28-11）
       -
         ゲーム企画制作・アニメゲーム関連音楽制作等。2010年に資本提携しグループ入り。具体的な出資比率が公表されてはいないが、「一部株式を譲渡」とは公表されていることと、ドワンゴから持分法の適用をされている\[6\]ことから、完全子会社ではないもののそれなりの株式は取得したことになる）。
 
@@ -223,7 +223,7 @@
   - [アサツー ディ・ケイ](https://ja.wikipedia.org/wiki/アサツー_ディ・ケイ "wikilink")
   - [角川メディアハウス](https://ja.wikipedia.org/wiki/角川メディアハウス "wikilink")
   - [フロンティアワークス](../Page/フロンティアワークス.md "wikilink")
-  - [フライングドッグ](https://ja.wikipedia.org/wiki/フライングドッグ "wikilink")
+  - [フライングドッグ](../Page/フライングドッグ.md "wikilink")
   - [ティーワイ エンタテインメント](https://ja.wikipedia.org/wiki/ティーワイ_エンタテインメント "wikilink")
   - [大阪放送](../Page/大阪放送.md "wikilink")
   - [ラジオ関西](../Page/ラジオ関西.md "wikilink")
@@ -238,7 +238,7 @@
 
   - [文化放送A\&Gゾーン](../Page/文化放送A&Gゾーン.md "wikilink")
   - [アニメロ](https://ja.wikipedia.org/wiki/アニメロ "wikilink")
-  - [RADIOアニメロミックス](https://ja.wikipedia.org/wiki/RADIOアニメロミックス "wikilink")
+  - [RADIOアニメロミックス](../Page/RADIOアニメロミックス.md "wikilink")
   - [アニメロ新人オーディション](https://ja.wikipedia.org/wiki/アニメロ新人オーディション "wikilink")
   - [ドワンゴクリエイティブスクール](https://ja.wikipedia.org/wiki/ドワンゴクリエイティブスクール "wikilink")
   - [ドワンゴアーティストプロダクション](../Page/ドワンゴアーティストプロダクション.md "wikilink")

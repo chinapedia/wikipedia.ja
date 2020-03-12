@@ -1,9 +1,9 @@
 > この記事は[IBM](https://ja.wikipedia.org/wiki/IBM)から翻訳されています。
 
 
-**日本IBMビッグブルー**（にほんアイビーエム -、**IBM Big Blue**）は、[トップイーストリーグ](https://ja.wikipedia.org/wiki/トップイーストリーグ "wikilink")Div.1に参加する[日本IBMの](../Page/日本アイ・ビー・エム.md "wikilink")[ラグビー](../Page/ラグビー.md "wikilink")チーム。
+**日本IBMビッグブルー**（にほんアイビーエム -、**IBM Big Blue**）は、[トップイーストリーグ](../Page/トップイーストリーグ.md "wikilink")Div.1に参加する[日本IBMの](../Page/日本アイ・ビー・エム.md "wikilink")[ラグビー](../Page/ラグビー.md "wikilink")チーム。
 
-練習グラウンドは[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[八千代市](https://ja.wikipedia.org/wiki/八千代市 "wikilink")の日本[IBM](../Page/IBM.md "wikilink")八千代台グラウンド。
+練習グラウンドは[千葉県](../Page/千葉県.md "wikilink")[八千代市](https://ja.wikipedia.org/wiki/八千代市 "wikilink")の日本[IBM](../Page/IBM.md "wikilink")八千代台グラウンド。
 
 ## 概要
 
@@ -12,14 +12,14 @@
 ## 歴史
 
   - [1976年](../Page/1976年.md "wikilink") 創部
-  - [1989年](../Page/1989年.md "wikilink") [野洲野球部](https://ja.wikipedia.org/wiki/日本アイ・ビー・エム野洲硬式野球部 "wikilink")・[アメリカンフットボール部とともに会社の強化スポーツに認定される](https://ja.wikipedia.org/wiki/IBMビッグブルー "wikilink")
-  - [1992年](../Page/1992年.md "wikilink") [関東社会人リーグ](https://ja.wikipedia.org/wiki/関東社会人リーグ_\(ラグビー\) "wikilink")1部へ昇格
-  - [1994年](../Page/1994年.md "wikilink") 関東社会人リーグ1部で[三菱重工相模原と同率ながら初優勝](https://ja.wikipedia.org/wiki/三菱重工相模原ダイナボアーズ "wikilink")
+  - [1989年](../Page/1989年.md "wikilink") [野洲野球部](https://ja.wikipedia.org/wiki/日本アイ・ビー・エム野洲硬式野球部 "wikilink")・[アメリカンフットボール部とともに会社の強化スポーツに認定される](../Page/IBMビッグブルー.md "wikilink")
+  - [1992年](../Page/1992年.md "wikilink") [関東社会人リーグ](../Page/関東社会人リーグ_\(ラグビー\).md "wikilink")1部へ昇格
+  - [1994年](../Page/1994年.md "wikilink") 関東社会人リーグ1部で[三菱重工相模原と同率ながら初優勝](../Page/三菱重工相模原ダイナボアーズ.md "wikilink")
   - [2002年](../Page/2002年.md "wikilink") [東日本社会人リーグへ昇格](https://ja.wikipedia.org/wiki/東日本社会人リーグ_\(ラグビー\) "wikilink")
-  - [2003年](../Page/2003年.md "wikilink") [トップイースト10へ参入](https://ja.wikipedia.org/wiki/トップイーストリーグ "wikilink")
-  - [2004年](../Page/2004年.md "wikilink") [トップイースト10初優勝](https://ja.wikipedia.org/wiki/トップイーストリーグ "wikilink")、[トップリーグへ初昇格](https://ja.wikipedia.org/wiki/ジャパンラグビートップリーグ "wikilink")、[日本選手権初出場](../Page/日本ラグビーフットボール選手権大会.md "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") [YCACセブンスで初優勝](https://ja.wikipedia.org/wiki/YC&AC_JAPAN_SEVENS "wikilink")、トップイースト10へ降格
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") トップリーグへ再昇格
+  - [2003年](../Page/2003年.md "wikilink") [トップイースト10へ参入](../Page/トップイーストリーグ.md "wikilink")
+  - [2004年](../Page/2004年.md "wikilink") [トップイースト10初優勝](../Page/トップイーストリーグ.md "wikilink")、[トップリーグへ初昇格](https://ja.wikipedia.org/wiki/ジャパンラグビートップリーグ "wikilink")、[日本選手権初出場](../Page/日本ラグビーフットボール選手権大会.md "wikilink")
+  - [2005年](../Page/2005年.md "wikilink") [YCACセブンスで初優勝](https://ja.wikipedia.org/wiki/YC&AC_JAPAN_SEVENS "wikilink")、トップイースト10へ降格
+  - [2006年](../Page/2006年.md "wikilink") トップリーグへ再昇格
   - [2009年](../Page/2009年.md "wikilink") トップイーストリーグへ再降格、ラグビー部の強化を中止
   - [2014年](../Page/2014年.md "wikilink") クラブチーム化
   - [2019年](../Page/2019年.md "wikilink") チームマネジメントのための株式会社SPSが設立、チーム名を「BIG BLUES」へ変更
@@ -34,7 +34,7 @@
   - 1999-2000 関東社会人リーグ1部Aグループ 準優勝（5勝1敗1分）
   - 2000-2001 関東社会人リーグ1部Bグループ 優勝（7勝）
   - 2001-2002 関東社会人リーグ1部Bグループ 優勝（7勝）、[東日本社会人リーグへ昇格](https://ja.wikipedia.org/wiki/東日本社会人リーグ_\(ラグビー\) "wikilink")
-  - 2002-2003 東日本社会人リーグ8位（7敗）、[トップイースト10へ参入](https://ja.wikipedia.org/wiki/トップイーストリーグ "wikilink")
+  - 2002-2003 東日本社会人リーグ8位（7敗）、[トップイースト10へ参入](../Page/トップイーストリーグ.md "wikilink")
   - 2003-2004 トップイースト10 優勝（9勝）、[トップチャレンジ1](https://ja.wikipedia.org/wiki/ジャパンラグビートップリーグ2003-2004#入替制度 "wikilink")・2位、[トップリーグへ自動昇格](https://ja.wikipedia.org/wiki/ジャパンラグビートップリーグ "wikilink")
   - 2004-2005 [トップリーグ](../Page/ジャパンラグビートップリーグ2004-2005.md "wikilink")12位（1勝10敗）、トップイースト10へ自動降格
   - 2005-2006 トップイースト10 優勝（9勝0敗）、[トップチャレンジ1](https://ja.wikipedia.org/wiki/ジャパンラグビートップリーグ2005-2006#入替制度 "wikilink")・2位、トップリーグへ自動昇格
@@ -55,7 +55,7 @@
 ### 獲得タイトル
 
   - [YC\&AC JAPAN SEVENS優勝](https://ja.wikipedia.org/wiki/YC&AC_JAPAN_SEVENS "wikilink")：1回（2005）
-  - [トップイースト10優勝](https://ja.wikipedia.org/wiki/トップイーストリーグ "wikilink")：2回（2003-2004、2005-2006）
+  - [トップイースト10優勝](../Page/トップイーストリーグ.md "wikilink")：2回（2003-2004、2005-2006）
 
 ## 所属選手(2019-2020)
 
@@ -69,7 +69,7 @@
 <th><p>ポジション</p></th>
 <th><p>選手名</p></th>
 <th><p>出身校</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/ラグビー日本代表" title="wikilink">代表</a><br />
+<th><p><a href="../Page/ラグビー日本代表.md" title="wikilink">代表</a><br />
 キャップ</p></th>
 </tr>
 </thead>
@@ -209,7 +209,7 @@
 <tr class="odd">
 <td><p>FL</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/加部恭史" title="wikilink">加部恭史</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/国際武道大学" title="wikilink">国際武道大</a></p></td>
+<td><p><a href="../Page/国際武道大学.md" title="wikilink">国際武道大</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -263,7 +263,7 @@
 <th><p>ポジション</p></th>
 <th><p>選手名</p></th>
 <th><p>出身校</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/ラグビー日本代表" title="wikilink">代表</a><br />
+<th><p><a href="../Page/ラグビー日本代表.md" title="wikilink">代表</a><br />
 キャップ</p></th>
 </tr>
 </thead>
@@ -288,13 +288,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/矢部晃多" title="wikilink">矢部晃多</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/文教大学" title="wikilink">文教大</a></p></td>
+<td><p><a href="../Page/文教大学.md" title="wikilink">文教大</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/狩野太志" title="wikilink">狩野太志</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リンカーン大学_(ニュージーランド)" title="wikilink">リンカーン大</a></p></td>
+<td><p><a href="../Page/リンカーン大学_(ニュージーランド).md" title="wikilink">リンカーン大</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -342,7 +342,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/高畑季生" title="wikilink">高畑季生</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/埼玉工業大学" title="wikilink">埼玉工業大</a></p></td>
+<td><p><a href="../Page/埼玉工業大学.md" title="wikilink">埼玉工業大</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -419,22 +419,22 @@
 
   - [カール・トッド](https://ja.wikipedia.org/wiki/カール・トッド "wikilink")（元日本代表）
   - [覺來弦](https://ja.wikipedia.org/wiki/覺來弦 "wikilink")
-  - [木曽一](https://ja.wikipedia.org/wiki/木曽一 "wikilink")
+  - [木曽一](../Page/木曽一.md "wikilink")
   - [高忠伸](https://ja.wikipedia.org/wiki/高忠伸 "wikilink")（現・[近鉄ライナーズ](../Page/近鉄ライナーズ.md "wikilink")）
   - [高聡伸](https://ja.wikipedia.org/wiki/高聡伸 "wikilink")
   - [小嶋信哉](https://ja.wikipedia.org/wiki/小嶋信哉 "wikilink")（元[バスケットボール](../Page/バスケットボール.md "wikilink")選手のラグビー選手）
-  - [須田康夫](https://ja.wikipedia.org/wiki/須田康夫 "wikilink")（現・[釜石シーウェイブス](https://ja.wikipedia.org/wiki/釜石シーウェイブス "wikilink")）
+  - [須田康夫](https://ja.wikipedia.org/wiki/須田康夫 "wikilink")（現・[釜石シーウェイブス](../Page/釜石シーウェイブス.md "wikilink")）
   - [竹山浩史](https://ja.wikipedia.org/wiki/竹山浩史 "wikilink")（現・[キヤノンイーグルス](https://ja.wikipedia.org/wiki/キヤノンイーグルス "wikilink")）
   - [天満太進](https://ja.wikipedia.org/wiki/天満太進 "wikilink")（現・近鉄ライナーズ）
   - [冨沢智也](https://ja.wikipedia.org/wiki/冨沢智也 "wikilink")
   - [長澤晃一](https://ja.wikipedia.org/wiki/長澤晃一 "wikilink")（元[バスケットボール](../Page/バスケットボール.md "wikilink")選手のラグビー選手）
-  - [中村彰](https://ja.wikipedia.org/wiki/中村彰_\(ラグビー選手\) "wikilink")（現・[釜石シーウェイブス](https://ja.wikipedia.org/wiki/釜石シーウェイブス "wikilink")）
+  - [中村彰](https://ja.wikipedia.org/wiki/中村彰_\(ラグビー選手\) "wikilink")（現・[釜石シーウェイブス](../Page/釜石シーウェイブス.md "wikilink")）
   - [パトリック・ステイリン](https://ja.wikipedia.org/wiki/パトリック・ステイリン "wikilink")
   - [福室清美](https://ja.wikipedia.org/wiki/福室清美 "wikilink")（元日本代表）
   - [福坪龍一郎](https://ja.wikipedia.org/wiki/福坪龍一郎 "wikilink")（現・[宗像サニックスブルース](../Page/宗像サニックスブルース.md "wikilink")）
   - [藤田剛](https://ja.wikipedia.org/wiki/藤田剛 "wikilink")（元日本代表）
   - [文原俊和](https://ja.wikipedia.org/wiki/文原俊和 "wikilink")（元日本代表）
-  - [安江祥光](https://ja.wikipedia.org/wiki/安江祥光 "wikilink")（元日本代表、現・[神戸製鋼](https://ja.wikipedia.org/wiki/神戸製鋼コベルコスティーラーズ "wikilink")）
+  - [安江祥光](https://ja.wikipedia.org/wiki/安江祥光 "wikilink")（元日本代表、現・[神戸製鋼](../Page/神戸製鋼コベルコスティーラーズ.md "wikilink")）
   - [横山健一](../Page/横山健一.md "wikilink")
   - [横山伸一](../Page/横山伸一.md "wikilink")
 
@@ -444,10 +444,10 @@
 
   - [日本アイ・ビー・エム](../Page/日本アイ・ビー・エム.md "wikilink")
   - [日本アイ・ビー・エム野洲硬式野球部](https://ja.wikipedia.org/wiki/日本アイ・ビー・エム野洲硬式野球部 "wikilink")
-  - [IBMビッグブルー](https://ja.wikipedia.org/wiki/IBMビッグブルー "wikilink")
-  - [トップイーストリーグ](https://ja.wikipedia.org/wiki/トップイーストリーグ "wikilink")
+  - [IBMビッグブルー](../Page/IBMビッグブルー.md "wikilink")
+  - [トップイーストリーグ](../Page/トップイーストリーグ.md "wikilink")
   - [八千代市](https://ja.wikipedia.org/wiki/八千代市 "wikilink")
-  - [大西一平](https://ja.wikipedia.org/wiki/大西一平 "wikilink")（元ヘッドコーチ）
+  - [大西一平](../Page/大西一平.md "wikilink")（元ヘッドコーチ）
   - [洞口孝治](../Page/洞口孝治.md "wikilink")（元監督）
 
 ## 外部リンク

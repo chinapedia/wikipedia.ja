@@ -10,15 +10,15 @@
 | [中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink") | 夏輪ひまわり | リーダー |
 | [植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink") | 冬出ゆり   |      |
 | [斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink") | 秋茂あやめ  |      |
-| [森永理科](https://ja.wikipedia.org/wiki/森永理科 "wikilink") | 春野さくら  |      |
+| [森永理科](../Page/森永理科.md "wikilink")                    | 春野さくら  |      |
 
-  - CDジャケットやテレビアニメ『[妄想科学シリーズ ワンダバスタイル](https://ja.wikipedia.org/wiki/妄想科学シリーズ_ワンダバスタイル "wikilink")』エンディングのクレジットタイトルなどユニット名にメンバーが併記される場合は、上表の順で「みっくすJUICE （中原麻衣・植田佳奈・斎藤千和・森永理科）」と記載される。
+  - CDジャケットやテレビアニメ『[妄想科学シリーズ ワンダバスタイル](../Page/妄想科学シリーズ_ワンダバスタイル.md "wikilink")』エンディングのクレジットタイトルなどユニット名にメンバーが併記される場合は、上表の順で「みっくすJUICE （中原麻衣・植田佳奈・斎藤千和・森永理科）」と記載される。
 
 ## 概要
 
-2002年10月、雑誌『[メガミマガジン](https://ja.wikipedia.org/wiki/メガミマガジン "wikilink")』（[学習研究社](../Page/学研ホールディングス.md "wikilink")）の[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")と連動する形で結成。企画・構成は[ワンダーファーム](https://ja.wikipedia.org/wiki/ワンダーファーム "wikilink")、キャラクターデザインは[ごとP](../Page/ごとP.md "wikilink")が担当した。同月、[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")で[インターネットテレビ](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")番組『まるみえ☆みっくすJUICE』が開始される。11月『乙女に捧ぐ…』でCDデビュー。
+2002年10月、雑誌『[メガミマガジン](../Page/メガミマガジン.md "wikilink")』（[学習研究社](../Page/学研ホールディングス.md "wikilink")）の[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")と連動する形で結成。企画・構成は[ワンダーファーム](https://ja.wikipedia.org/wiki/ワンダーファーム "wikilink")、キャラクターデザインは[ごとP](../Page/ごとP.md "wikilink")が担当した。同月、[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")で[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")番組『まるみえ☆みっくすJUICE』が開始される。11月『乙女に捧ぐ…』でCDデビュー。
 
-2003年には[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[妄想科学シリーズ ワンダバスタイル](https://ja.wikipedia.org/wiki/妄想科学シリーズ_ワンダバスタイル "wikilink")』に、同名の劇中内ユニットとして声の出演をする。
+2003年には[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[妄想科学シリーズ ワンダバスタイル](../Page/妄想科学シリーズ_ワンダバスタイル.md "wikilink")』に、同名の劇中内ユニットとして声の出演をする。
 
 2003年11月27日、解散を発表。翌年1月の『カンパイ\!旅立ちの日』、『ワンダバスタイル〜突撃\!みっくす生JUICEボーカルアルバム〜』のCD発売を以って解散した。
 
@@ -42,7 +42,7 @@
     5.  Mr. Linesman（[中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink")ソロ）
     6.  Destination（[植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")ソロ）
     7.  流れ星（[斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")ソロ）
-    8.  恋はショートコント（[森永理科](https://ja.wikipedia.org/wiki/森永理科 "wikilink")ソロ）
+    8.  恋はショートコント（[森永理科](../Page/森永理科.md "wikilink")ソロ）
     9.  MOON de GO\! GO\!
     10. カンパイ\!旅立ちの日
   - ワンダバスタイル〜突撃\!みっくす生JUICEボーカルアルバム〜（2004年1月23日、FCCT-0009）
@@ -59,11 +59,11 @@
 
 ## ラジオ
 
-  - みっくすJUICEのワンダバスタイル（[文化放送](../Page/文化放送.md "wikilink") [A\&Gメディアステーション こむちゃっとカウントダウン内にて放送](https://ja.wikipedia.org/wiki/A&Gメディアステーション_こむちゃっとカウントダウン "wikilink")：2003年1月4日から2003年3月29日）
+  - みっくすJUICEのワンダバスタイル（[文化放送](../Page/文化放送.md "wikilink") [A\&Gメディアステーション こむちゃっとカウントダウン内にて放送](../Page/A&Gメディアステーション_こむちゃっとカウントダウン.md "wikilink")：2003年1月4日から2003年3月29日）
 
 ## 関連項目
 
-  - [妄想科学シリーズ ワンダバスタイル](https://ja.wikipedia.org/wiki/妄想科学シリーズ_ワンダバスタイル "wikilink")
+  - [妄想科学シリーズ ワンダバスタイル](../Page/妄想科学シリーズ_ワンダバスタイル.md "wikilink")
   - [声優ユニット](../Page/声優ユニット.md "wikilink")
 
 [Category:声優ユニット](https://ja.wikipedia.org/wiki/Category:声優ユニット "wikilink") [Category:読者参加企画](https://ja.wikipedia.org/wiki/Category:読者参加企画 "wikilink") [Category:ワンダーファーム](https://ja.wikipedia.org/wiki/Category:ワンダーファーム "wikilink") [Category:メガミマガジン](https://ja.wikipedia.org/wiki/Category:メガミマガジン "wikilink") [Category:植田佳奈](https://ja.wikipedia.org/wiki/Category:植田佳奈 "wikilink") [Category:中原麻衣](https://ja.wikipedia.org/wiki/Category:中原麻衣 "wikilink")

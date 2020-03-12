@@ -19,7 +19,7 @@ FASITのようなスキームを利用すると、法人の得た利益のうち
 
 ## 関連事項
 
-FASITに類似する仕組みとして[REMIC](https://ja.wikipedia.org/wiki/REMIC "wikilink")(Real Estate Mortgage Investment Conduits, 不動産抵当共同信託)などがある。特に住宅ローン担保債権の証券化の分野ではREMICよりもFASITのほうがより使い勝手がよいといわれる。
+FASITに類似する仕組みとして[REMIC](../Page/REMIC.md "wikilink")(Real Estate Mortgage Investment Conduits, 不動産抵当共同信託)などがある。特に住宅ローン担保債権の証券化の分野ではREMICよりもFASITのほうがより使い勝手がよいといわれる。
 
 ## 外部リンク
 

@@ -1,19 +1,19 @@
 > この記事は[ELYSION ](https://ja.wikipedia.org/wiki/ELYSION_)から翻訳されています。
 
 
-『**ELYSION ～永遠のサンクチュアリ～**』（エリュシオン 〜えいえんのサンクチュアリ〜）は、[2000年](../Page/2000年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")に[Terios](https://ja.wikipedia.org/wiki/Terios "wikilink")より発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。
+『**ELYSION ～永遠のサンクチュアリ～**』（エリュシオン 〜えいえんのサンクチュアリ〜）は、[2000年](../Page/2000年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")に[Terios](../Page/Terios.md "wikilink")より発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。
 
 ## 概要
 
-本作は、孤島にそびえ建つ洋館の内部フロア、及び洋館とその周辺が描かれた[トップビュー](https://ja.wikipedia.org/wiki/トップビュー "wikilink")の2Dフィールドで[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")のように主人公キャラクターを操作し、[サスペンス](https://ja.wikipedia.org/wiki/サスペンス "wikilink")風味の溢れるシナリオを進めていく[恋愛アドベンチャーゲームである](https://ja.wikipedia.org/wiki/恋愛ゲーム_\(ゲームジャンル\) "wikilink")。
+本作は、孤島にそびえ建つ洋館の内部フロア、及び洋館とその周辺が描かれた[トップビュー](https://ja.wikipedia.org/wiki/トップビュー "wikilink")の2Dフィールドで[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")のように主人公キャラクターを操作し、[サスペンス](../Page/サスペンス.md "wikilink")風味の溢れるシナリオを進めていく[恋愛アドベンチャーゲームである](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。
 
-後に[NECインターチャネルの手で](https://ja.wikipedia.org/wiki/インターチャネル "wikilink")[家庭用ゲーム機へ移植され](../Page/ゲーム機.md "wikilink")、[2002年](../Page/2002年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")には[ドリームキャスト](../Page/ドリームキャスト.md "wikilink") (DC) 版が、[2003年](../Page/2003年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")にはそれを元にした[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 版が発売された。どちらもPC版にあった過激なセックス描写や肌の過剰な露出を払拭した代わりに、新ヒロインの**シャルロッテ**と、より真実に迫る新シナリオが追加されている。また、バッドエンドに関しても、家庭用ゲーム機の[レイティング](../Page/レイティング.md "wikilink")に抵触する残酷なものは差し替えられた。
+後に[NECインターチャネルの手で](../Page/インターチャネル.md "wikilink")[家庭用ゲーム機へ移植され](../Page/ゲーム機.md "wikilink")、[2002年](../Page/2002年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")には[ドリームキャスト](../Page/ドリームキャスト.md "wikilink") (DC) 版が、[2003年](../Page/2003年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")にはそれを元にした[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 版が発売された。どちらもPC版にあった過激なセックス描写や肌の過剰な露出を払拭した代わりに、新ヒロインの**シャルロッテ**と、より真実に迫る新シナリオが追加されている。また、バッドエンドに関しても、家庭用ゲーム機の[レイティング](../Page/レイティング.md "wikilink")に抵触する残酷なものは差し替えられた。
 
 ## あらすじ
 
-主人公の**葛城遼一**はかつて[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")で[内科医を務めていたが](https://ja.wikipedia.org/wiki/内科学 "wikilink")、ある事件によりその職を追われていた。
+主人公の**葛城遼一**はかつて[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")で[内科医を務めていたが](../Page/内科学.md "wikilink")、ある事件によりその職を追われていた。
 
-蓄えも尽きかけたある日、遼一は旧友の**アレックス**に誘われ、[アドリア海](https://ja.wikipedia.org/wiki/アドリア海 "wikilink")に浮かぶ孤島のサンタ・マリア島へと向かう。そこにある古びた洋館では、時代の流れから隔絶されたかのように、老主の**テオ・パドリーノ**と世界各地から非合法に招集された美しい[メイド](https://ja.wikipedia.org/wiki/メイド "wikilink")達の格式張った生活が繰り広げられていた。
+蓄えも尽きかけたある日、遼一は旧友の**アレックス**に誘われ、[アドリア海](https://ja.wikipedia.org/wiki/アドリア海 "wikilink")に浮かぶ孤島のサンタ・マリア島へと向かう。そこにある古びた洋館では、時代の流れから隔絶されたかのように、老主の**テオ・パドリーノ**と世界各地から非合法に招集された美しい[メイド](../Page/メイド.md "wikilink")達の格式張った生活が繰り広げられていた。
 
 遼一を主治医として呼んだテオは、彼にメイド達の管理も命じ、特にその中の1名を専属メイドとするよう命ずる。果たしてその真意とは?
 
@@ -29,31 +29,31 @@
 ### メインヒロイン
 
   - 大原 魅麗（おおはら みれい）
-    声：[来見沢琴美](https://ja.wikipedia.org/wiki/来見沢琴美 "wikilink") / 身長：164cm / [スリーサイズ](https://ja.wikipedia.org/wiki/スリーサイズ "wikilink")：91-59-87(cm)
-    通称は**ミレイ**。日本出身。世間知らずの裕福な家庭育ち。[ツインテール](https://ja.wikipedia.org/wiki/ツインテール "wikilink")の髪型と[巨乳](https://ja.wikipedia.org/wiki/巨乳 "wikilink")が特徴の、明るく前向きなメイド。主に[キッチン業務を担当](../Page/台所.md "wikilink")。
+    声：[来見沢琴美](https://ja.wikipedia.org/wiki/来見沢琴美 "wikilink") / 身長：164cm / [スリーサイズ](../Page/スリーサイズ.md "wikilink")：91-59-87(cm)
+    通称は**ミレイ**。日本出身。世間知らずの裕福な家庭育ち。[ツインテール](../Page/ツインテール.md "wikilink")の髪型と[巨乳](../Page/巨乳.md "wikilink")が特徴の、明るく前向きなメイド。主に[キッチン業務を担当](../Page/台所.md "wikilink")。
   - クリスティン・マクレイン
     声：[本田わか](https://ja.wikipedia.org/wiki/本田わか "wikilink") / 身長：172cm / スリーサイズ：89-58-88(cm)
     通称は**クリス**。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身。冷静沈着でどんな時も[眼鏡](../Page/眼鏡.md "wikilink")を手放さず、何事もこなす優秀な古株メイド。主に忠実なメイド業務に勤しむ一方、独自の思惑で何かを行っている。
   - ジョバンナ・ロッセリーニ
     声：[榊るな](https://ja.wikipedia.org/wiki/榊るな "wikilink") / 身長：168cm / スリーサイズ：92-58-88(cm)
-    通称は**ジェーン**。[イタリア](../Page/イタリア.md "wikilink")出身。ウェーブの掛かった[金髪](https://ja.wikipedia.org/wiki/金髪 "wikilink")と全メイド中最大を誇る巨乳が特徴のメイド。とても陽気なムードメーカー。主にハウスメイド業務を担当するが、食肉捌きも好む。サボり癖とあまり良くない酒癖が玉に瑕。
+    通称は**ジェーン**。[イタリア](../Page/イタリア.md "wikilink")出身。ウェーブの掛かった[金髪](../Page/金髪.md "wikilink")と全メイド中最大を誇る巨乳が特徴のメイド。とても陽気なムードメーカー。主にハウスメイド業務を担当するが、食肉捌きも好む。サボり癖とあまり良くない酒癖が玉に瑕。
   - ダイアナ・ハーディ
-    声：[高奈ゆか](https://ja.wikipedia.org/wiki/高奈ゆか "wikilink") / 身長：160cm / スリーサイズ：82-56-82(cm)
-    通称は**ディアナ**。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")出身だが、東洋系の血も引いている。[おかっぱ](https://ja.wikipedia.org/wiki/おかっぱ "wikilink")調のボブカットが特徴のメイド。内向的な暗い性格。ジェーンとはルームメイト。
+    声：[高奈ゆか](../Page/高奈ゆか.md "wikilink") / 身長：160cm / スリーサイズ：82-56-82(cm)
+    通称は**ディアナ**。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")出身だが、東洋系の血も引いている。[おかっぱ](../Page/おかっぱ.md "wikilink")調のボブカットが特徴のメイド。内向的な暗い性格。ジェーンとはルームメイト。
 
 ### サブヒロイン
 
   - マリア・パドリーノ
-    声：[岩田由貴](https://ja.wikipedia.org/wiki/岩田由貴 "wikilink") / 身長：158cm / スリーサイズ：84-58-85(cm)
+    声：[岩田由貴](../Page/岩田由貴.md "wikilink") / 身長：158cm / スリーサイズ：84-58-85(cm)
     通称は**マリア**。出身地のイタリアには両親と兄が居る。テオにとっては孫に当たり、いわゆる箱入り娘だが、利発で強い意志の持ち主でもある。
   - マナ
     声：[笹野葉月](https://ja.wikipedia.org/wiki/笹野葉月 "wikilink")
     ゲオハルトに扱き使われている少女。[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")出身。乗っていた船が難破し、サンタ・マリア島に流れ着いた。島の者で言葉が通じるのは、ゲオハルトのみ。メインヒロイン全員を攻略後に攻略可能となる。
   - ヘレナ・スタウチェ
-    声：[佐藤美佳子](https://ja.wikipedia.org/wiki/佐藤美佳子 "wikilink")
-    メイドの1人。[アルバニア](../Page/アルバニア.md "wikilink")出身。元は[孤児](https://ja.wikipedia.org/wiki/孤児 "wikilink")で、ブルーノに育てられた。かなりのドジっ子。マナと同じく、メインヒロイン全員を攻略後に攻略可能となる。
+    声：[佐藤美佳子](../Page/佐藤美佳子.md "wikilink")
+    メイドの1人。[アルバニア](../Page/アルバニア.md "wikilink")出身。元は[孤児](../Page/孤児.md "wikilink")で、ブルーノに育てられた。かなりのドジっ子。マナと同じく、メインヒロイン全員を攻略後に攻略可能となる。
   - フローリィ
-    声：[ひと美](https://ja.wikipedia.org/wiki/ひと美 "wikilink")
+    声：[ひと美](../Page/ひと美.md "wikilink")
     洋館の地下に幽閉されている謎の少女。[ユダヤ](../Page/ユダヤ.md "wikilink")出身。メインヒロイン全員とマリアを攻略後に攻略可能となる。実はテオと深いかかわりがある。
   - シャルロッテ・ミュラー
     声：[大谷育江](../Page/大谷育江.md "wikilink")
@@ -62,35 +62,35 @@
 ### その他
 
   - テオ・パドリーノ
-    声：[家弓家正](https://ja.wikipedia.org/wiki/家弓家正 "wikilink")
+    声：[家弓家正](../Page/家弓家正.md "wikilink")
     洋館の主であり、コムニオン会長を務める老人。足腰の衰えから、移動は常に[車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")。ある思惑から遼一を自分の主治医に指名し、サンタ・マリア島に招く。実は悲しい過去を秘めた人物でもある。
   - アントニオ
     声：[鈴置洋孝](https://ja.wikipedia.org/wiki/鈴置洋孝 "wikilink")
     パドリーノ一家の一員。皮肉屋であり、遼一に対しても何かと斜に構えた態度で接する。ジョバンナのことを非常に気にかけており、保護者のような態度で接する。ミレイもそこそこ気にいっている模様。
   - ソード
-    声：[風間勇刀](https://ja.wikipedia.org/wiki/風間勇刀 "wikilink")
+    声：[風間勇刀](../Page/風間勇刀.md "wikilink")
     コムニオンの一員。「ソード」とは顔の傷から付けられた呼称であり、本名は不明。元[IRAの凄腕](../Page/アイルランド共和軍.md "wikilink")。
   - ブルーノ
-    声：[高瀬右光](https://ja.wikipedia.org/wiki/高瀬右光 "wikilink")
+    声：[高瀬右光](../Page/高瀬右光.md "wikilink")
     コムニオンの一員。ヘレナの育ての親。無口で洋館一の巨漢だが、実は優しい性格。[司祭](../Page/司祭.md "wikilink")の資格を持っており、[ミサ](../Page/ミサ.md "wikilink")も執り行う。
   - アレックス
-    声：[藤原啓治](https://ja.wikipedia.org/wiki/藤原啓治 "wikilink")
+    声：[藤原啓治](../Page/藤原啓治.md "wikilink")
     遼一の旧友。テオの主治医という仕事を遼一に持ち掛ける。陽気な性格だが、裏表が激しい。
   - グルーチョ
     声：[秋元羊介](../Page/秋元羊介.md "wikilink")
     洋館の料理長。耳かき一杯程度の調味料の不足に拘るほど料理への思い入れは強く、テオにすら口出しさせないほど。
   - ゲオハルト
-    声：[広瀬正志](https://ja.wikipedia.org/wiki/広瀬正志 "wikilink")
+    声：[広瀬正志](../Page/広瀬正志.md "wikilink")
     猫背の庭師。マナの言葉を唯一理解できるが、歪みきった性格で彼女を扱き使っている。恋人をテロで失った。
   - フランツ
-    声：[塚田正昭](https://ja.wikipedia.org/wiki/塚田正昭 "wikilink")
+    声：[塚田正昭](../Page/塚田正昭.md "wikilink")
   - ロッコ
-    声：[小西克幸](https://ja.wikipedia.org/wiki/小西克幸 "wikilink")
+    声：[小西克幸](../Page/小西克幸.md "wikilink")
   - 灰色の医師
     声：広瀬正志
   - シルヴィアーナ
-    声：[深見梨加](https://ja.wikipedia.org/wiki/深見梨加 "wikilink")
-    通称は**シルヴィ**。洋館のハウスキーパーとテオの[秘書](https://ja.wikipedia.org/wiki/秘書 "wikilink")を務める、大柄の美女。[オカルト](../Page/オカルト.md "wikilink")知識に長けている。実は歴史的に有名な魔術師に仕えていた過去を持つ。
+    声：[深見梨加](../Page/深見梨加.md "wikilink")
+    通称は**シルヴィ**。洋館のハウスキーパーとテオの[秘書](../Page/秘書.md "wikilink")を務める、大柄の美女。[オカルト](../Page/オカルト.md "wikilink")知識に長けている。実は歴史的に有名な魔術師に仕えていた過去を持つ。
 
 ## 関連書籍
 

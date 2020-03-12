@@ -7,7 +7,7 @@
 
 ## 代表作
 
-  - [OL蔡桃桂](https://ja.wikipedia.org/wiki/OL蔡桃桂 "wikilink")
+  - [OL蔡桃桂](../Page/OL蔡桃桂.md "wikilink")
       - y ahoo奇摩（台湾のyahoo）にて、[2003年](../Page/2003年.md "wikilink")6月16日より連載中。[連載中のブログ](http://tw.comics.yahoo.com/comics_list.html?p=comics_od&pg=0)単行本は現在第3集まで出版。
   - RIVER's 543
       - 新浪網（sina.com）にて連載中。[連載中のブログ](http://blog.sina.com.tw/river/)単行本は現在第9集まで出版。

@@ -7,7 +7,7 @@
 
 ## 利用
 
-[KDE](../Page/KDE.md "wikilink")と[GNOME](../Page/GNOME.md "wikilink")の他に、*Nuvola* は [Pidgin](https://ja.wikipedia.org/wiki/Pidgin "wikilink") や [Amarok](https://ja.wikipedia.org/wiki/Amarok "wikilink") といったアプリケーションで使われている。[OpenLab GNU/Linux](https://ja.wikipedia.org/wiki/OpenLab_GNU/Linux "wikilink") では Nuvola がデフォルトのアイコンセットとして使われている。
+[KDE](../Page/KDE.md "wikilink")と[GNOME](../Page/GNOME.md "wikilink")の他に、*Nuvola* は [Pidgin](../Page/Pidgin.md "wikilink") や [Amarok](../Page/Amarok.md "wikilink") といったアプリケーションで使われている。[OpenLab GNU/Linux](https://ja.wikipedia.org/wiki/OpenLab_GNU/Linux "wikilink") では Nuvola がデフォルトのアイコンセットとして使われている。
 
 ## アイコン例
 
@@ -17,7 +17,7 @@
 
 ## 関連項目
 
-  - [Open Clip Art Library](https://ja.wikipedia.org/wiki/Open_Clip_Art_Library "wikilink")
+  - [Open Clip Art Library](../Page/Open_Clip_Art_Library.md "wikilink")
 
 ## 外部リンク
 

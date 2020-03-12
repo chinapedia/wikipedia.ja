@@ -5,7 +5,7 @@
 
 ## 概要
 
-[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")や[イントラネット](../Page/イントラネット.md "wikilink")を通して利用する人事給与・勤怠管理システムである。履歴管理機能を有するため、いつ、誰が、どこで、といった管理が可能。
+[インターネット](../Page/インターネット.md "wikilink")や[イントラネット](../Page/イントラネット.md "wikilink")を通して利用する人事給与・勤怠管理システムである。履歴管理機能を有するため、いつ、誰が、どこで、といった管理が可能。
 
 [GPL](https://ja.wikipedia.org/wiki/GPL "wikilink")v3、MosPV4は[AGPL](https://ja.wikipedia.org/wiki/AGPL "wikilink")v3ライセンスで提供。各ライセンスに従い自由に利用することができる。
 

@@ -1,13 +1,13 @@
 > この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
 
 
-**前橋FM送信所**（まえばしエフエムそうしんじょ）は[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[高崎市](https://ja.wikipedia.org/wiki/高崎市 "wikilink")[吉井町にある](https://ja.wikipedia.org/wiki/吉井町_\(群馬県\) "wikilink")[FMラジオ](../Page/超短波.md "wikilink")[送信所](https://ja.wikipedia.org/wiki/送信所 "wikilink")である。
+**前橋FM送信所**（まえばしエフエムそうしんじょ）は[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[高崎市](../Page/高崎市.md "wikilink")[吉井町にある](../Page/吉井町_\(群馬県\).md "wikilink")[FMラジオ](../Page/超短波.md "wikilink")[送信所](../Page/送信所.md "wikilink")である。
 
 ## 概要
 
   - 当送信所は、高崎市吉井町多比良字一郷第1番の[牛伏山にある](https://ja.wikipedia.org/wiki/牛伏山_\(群馬県\) "wikilink")。
-  - 当送信所には群馬県域FM局である[NHK前橋放送局](../Page/NHK前橋放送局.md "wikilink")[FM放送と](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")[FMぐんまの前橋送信所及び](../Page/エフエム群馬.md "wikilink")[放送大学](https://ja.wikipedia.org/wiki/放送大学 "wikilink")のFM[中継局](../Page/中継局.md "wikilink")が置局されている。
-  - 群馬県の広い範囲に電波を発射している他、FMぐんまは埼玉県北部地域\[1\]、埼玉県利根地域の一部\[2\]や栃木県[足利市](https://ja.wikipedia.org/wiki/足利市 "wikilink")、[栃木市](../Page/栃木市.md "wikilink")他が放送エリアになる\[3\]。
+  - 当送信所には群馬県域FM局である[NHK前橋放送局](../Page/NHK前橋放送局.md "wikilink")[FM放送と](../Page/NHK-FM放送.md "wikilink")[FMぐんまの前橋送信所及び](../Page/エフエム群馬.md "wikilink")[放送大学](https://ja.wikipedia.org/wiki/放送大学 "wikilink")のFM[中継局](../Page/中継局.md "wikilink")が置局されている。
+  - 群馬県の広い範囲に電波を発射している他、FMぐんまは埼玉県北部地域\[1\]、埼玉県利根地域の一部\[2\]や栃木県[足利市](../Page/足利市.md "wikilink")、[栃木市](../Page/栃木市.md "wikilink")他が放送エリアになる\[3\]。
 
 ## 送信所設備概要
 
@@ -17,7 +17,7 @@
 <th><p>放送局名</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/識別信号" title="wikilink">コールサイン</a></p></th>
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
 <th><p>実効輻射電力</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域内世帯数</a></p></th>
@@ -26,7 +26,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-<a href="../Page/NHK前橋放送局.md" title="wikilink">前橋</a><a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FM</a></p></td>
+<a href="../Page/NHK前橋放送局.md" title="wikilink">前橋</a><a href="../Page/NHK-FM放送.md" title="wikilink">FM</a></p></td>
 <td><p>JOTP-FM</p></td>
 <td><p>81.6MHz[4]</p></td>
 <td><p>1kW</p></td>

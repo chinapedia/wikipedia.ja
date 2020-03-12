@@ -23,11 +23,11 @@
 ## アイテム
 
   - [卵](../Page/卵.md "wikilink")
-    [松明](https://ja.wikipedia.org/wiki/たいまつ "wikilink")
+    [松明](../Page/たいまつ.md "wikilink")
     [紀元前766年](https://ja.wikipedia.org/wiki/紀元前766年 "wikilink")に使用。
   - [王座](https://ja.wikipedia.org/wiki/王座 "wikilink")
     [紀元前31年](../Page/紀元前31年.md "wikilink")に使用。
-  - [剣](../Page/剣.md "wikilink")（[源頼朝](https://ja.wikipedia.org/wiki/源頼朝 "wikilink")から貰う）
+  - [剣](../Page/剣.md "wikilink")（[源頼朝](../Page/源頼朝.md "wikilink")から貰う）
     [1192年](../Page/1192年.md "wikilink")に使用。
   - [銅](../Page/銅.md "wikilink")の車輪
     [1520年](../Page/1520年.md "wikilink")に使用。
@@ -35,15 +35,15 @@
     [1602年](../Page/1602年.md "wikilink")に使用。
   - [リンゴ](../Page/リンゴ.md "wikilink")
     [1687年](../Page/1687年.md "wikilink")に使用。
-  - [煙突](https://ja.wikipedia.org/wiki/煙突 "wikilink")帽子
+  - [煙突](../Page/煙突.md "wikilink")帽子
     [1862年](../Page/1862年.md "wikilink")に使用。
   - [電球](../Page/電球.md "wikilink")
     [1879年](../Page/1879年.md "wikilink")に使用。
-  - [プロペラ](https://ja.wikipedia.org/wiki/プロペラ "wikilink")
+  - [プロペラ](../Page/プロペラ.md "wikilink")
     [1903年](../Page/1903年.md "wikilink")に使用。
   - [物理方程式](https://ja.wikipedia.org/wiki/物理方程式 "wikilink")
     [1905年](../Page/1905年.md "wikilink")に使用。
-  - [インド](../Page/インド.md "wikilink")の[旗](https://ja.wikipedia.org/wiki/旗 "wikilink")
+  - [インド](../Page/インド.md "wikilink")の[旗](../Page/旗.md "wikilink")
     [1947年](../Page/1947年.md "wikilink")に使用。
   - [アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の旗
     [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に使用。

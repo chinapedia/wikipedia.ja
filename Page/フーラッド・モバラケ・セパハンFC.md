@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**フーラッド・モバラケ・セパハンFC** (、) 、通称**セパハンFC** () は、[イラン](../Page/イラン.md "wikilink")の都市[エスファハーン](../Page/エスファハーン.md "wikilink")を本拠地とするサッカークラブである。イランの[IRIBは](https://ja.wikipedia.org/wiki/イラン・イスラム共和国放送 "wikilink")、**セパーハーン**と表記している\[1\]。
+**フーラッド・モバラケ・セパハンFC** (、) 、通称**セパハンFC** () は、[イラン](../Page/イラン.md "wikilink")の都市[エスファハーン](../Page/エスファハーン.md "wikilink")を本拠地とするサッカークラブである。イランの[IRIBは](../Page/イラン・イスラム共和国放送.md "wikilink")、**セパーハーン**と表記している\[1\]。
 
 ## 歴史
 
@@ -9,11 +9,11 @@
 
 2002-03シーズンで1部リーグ優勝を飾る。これは、首都[テヘラン](../Page/テヘラン.md "wikilink")を本拠地としないクラブとしては初のことだった。翌2004年、そして2006年、2007年には、[ハズフィー・カップ](https://ja.wikipedia.org/wiki/ハズフィー・カップ "wikilink")優勝をはたしている。
 
-2006-07シーズンでは、リーグ戦5位に終わった。しかし、[2004年](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2004 "wikilink")、[2005年以来](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2005 "wikilink")3度目の[ACL出場で初のグループリーグ突破を果たし](../Page/AFCチャンピオンズリーグ.md "wikilink")、決勝トーナメントに進出。[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")、[アル・ワフダに勝って決勝まで進んだが](https://ja.wikipedia.org/wiki/アル・ワフダ・アブダビ "wikilink")、決勝で[浦和レッズに敗れ準優勝に終わった](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")。しかし、開催国は1クラブのみの出場という原則から、セパハンが開催国枠として[FIFAクラブワールドカップ2007](../Page/FIFAクラブワールドカップ2007.md "wikilink")に出場することが決定した。1回戦を勝ち上がり、準々決勝で浦和レッズと再度対戦したが敗れた。
+2006-07シーズンでは、リーグ戦5位に終わった。しかし、[2004年](../Page/AFCチャンピオンズリーグ2004.md "wikilink")、[2005年以来](../Page/AFCチャンピオンズリーグ2005.md "wikilink")3度目の[ACL出場で初のグループリーグ突破を果たし](../Page/AFCチャンピオンズリーグ.md "wikilink")、決勝トーナメントに進出。[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")、[アル・ワフダに勝って決勝まで進んだが](https://ja.wikipedia.org/wiki/アル・ワフダ・アブダビ "wikilink")、決勝で[浦和レッズに敗れ準優勝に終わった](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")。しかし、開催国は1クラブのみの出場という原則から、セパハンが開催国枠として[FIFAクラブワールドカップ2007](../Page/FIFAクラブワールドカップ2007.md "wikilink")に出場することが決定した。1回戦を勝ち上がり、準々決勝で浦和レッズと再度対戦したが敗れた。
 
 本拠地のエスファハーンは高地(約1600m)であり、高地に慣れていないアウェイのクラブは苦戦を余儀なくされる。
 
-[イラン代表の](https://ja.wikipedia.org/wiki/サッカーイラン代表 "wikilink")[モハラム・ナビドキア](https://ja.wikipedia.org/wiki/モハラム・ナビドキア "wikilink")（2004年から2006年まで[ブンデスリーガの](../Page/サッカー・ブンデスリーガ_\(ドイツ\).md "wikilink")[ボーフムに所属](https://ja.wikipedia.org/wiki/VfLボーフム "wikilink")）らが在籍している。
+[イラン代表の](../Page/サッカーイラン代表.md "wikilink")[モハラム・ナビドキア](https://ja.wikipedia.org/wiki/モハラム・ナビドキア "wikilink")（2004年から2006年まで[ブンデスリーガの](../Page/サッカー・ブンデスリーガ_\(ドイツ\).md "wikilink")[ボーフムに所属](../Page/VfLボーフム.md "wikilink")）らが在籍している。
 
 [2007年のACL準々決勝で対戦したJ](../Page/AFCチャンピオンズリーグ2007.md "wikilink")1の川崎フロンターレとは2008年10月24日までに提携を結んだ。事業面を含め、両国サッカーに関する情報収集などで協力した。
 
@@ -23,7 +23,7 @@
 
 ### 国内タイトル
 
-#### [イラン・プロリーグ](https://ja.wikipedia.org/wiki/ペルシアン・ガルフ・プロリーグ "wikilink")
+#### [イラン・プロリーグ](../Page/ペルシアン・ガルフ・プロリーグ.md "wikilink")
 
   -
     ** 優勝 (5)** : 2002-03, 2009-10, 2010-11, 2011-12, 2014-15
@@ -77,7 +77,7 @@
 
   - [AFCチャンピオンズリーグ2007](../Page/AFCチャンピオンズリーグ2007.md "wikilink")　準優勝
   - [FIFAクラブワールドカップ2007](../Page/FIFAクラブワールドカップ2007.md "wikilink")　2回戦敗退
-  - [AFCチャンピオンズリーグ2008](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2008 "wikilink")　グループリーグ敗退
+  - [AFCチャンピオンズリーグ2008](../Page/AFCチャンピオンズリーグ2008.md "wikilink")　グループリーグ敗退
   - [AFCチャンピオンズリーグ2009](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2009 "wikilink")　グループリーグ敗退
   - [AFCチャンピオンズリーグ2010](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2010 "wikilink")　グループリーグ敗退
   - [AFCチャンピオンズリーグ2011](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2011 "wikilink")　準々決勝敗退

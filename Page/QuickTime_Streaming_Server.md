@@ -1,7 +1,7 @@
 > この記事は[QuickTime Streaming Server](https://ja.wikipedia.org/wiki/QuickTime_Streaming_Server)から翻訳されています。
 
 
-**QuickTime Streaming Server**（クイックタイム ストリーミング サーバ、**QTSS**）は、[アップルが開発した](../Page/アップル_\(企業\).md "wikilink")[ストリーミング](../Page/ストリーミング.md "wikilink")[サーバ](../Page/サーバ.md "wikilink")で、リクエストに応じてネットワークに映像、音声をリアルタイムに配信することを目的とした[デーモンソフトウェアである](https://ja.wikipedia.org/wiki/デーモン_\(ソフトウェア\) "wikilink")。
+**QuickTime Streaming Server**（クイックタイム ストリーミング サーバ、**QTSS**）は、[アップルが開発した](../Page/アップル_\(企業\).md "wikilink")[ストリーミング](../Page/ストリーミング.md "wikilink")[サーバ](../Page/サーバ.md "wikilink")で、リクエストに応じてネットワークに映像、音声をリアルタイムに配信することを目的とした[デーモンソフトウェアである](../Page/デーモン_\(ソフトウェア\).md "wikilink")。
 
 [GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[アプリケーションツールのQTSS](../Page/アプリケーションソフトウェア.md "wikilink") Publisherを使って設定を変更できる。
 

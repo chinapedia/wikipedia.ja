@@ -9,21 +9,21 @@
 
 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に、北村自らが主宰するインディーズ・レーベルである[トランス・レコード](https://ja.wikipedia.org/wiki/トランス・レコード "wikilink")より、1st.シングル『Doglamagla』、12インチ・シングル『太陽の皇子』、1st.アルバム『ALIENATION』、2nd.アルバム『Kingdom Of Family Dream』、シングル『空が墜ちる』などを立て続けにリリース。
 
-変拍子等を多用した複雑な構成の楽曲と、不安を掻き立てるようなヒステリックなボーカルは、[ディス・ヒート](https://ja.wikipedia.org/wiki/ディス・ヒート "wikilink")らに通じる音楽性を感じさせ、興隆しつつあった日本の[インディーズ](../Page/インディーズ.md "wikilink")シーンを代表する存在と目された。YBO<sup>2</sup>、[Z.O.A](https://ja.wikipedia.org/wiki/Z.O.A "wikilink")を始めとするトランス・レコード所属のバンドのおっかけをする「トランスギャル」と呼ばれるファンが存在するほどの人気を博した。
+変拍子等を多用した複雑な構成の楽曲と、不安を掻き立てるようなヒステリックなボーカルは、[ディス・ヒート](../Page/ディス・ヒート.md "wikilink")らに通じる音楽性を感じさせ、興隆しつつあった日本の[インディーズ](../Page/インディーズ.md "wikilink")シーンを代表する存在と目された。YBO<sup>2</sup>、[Z.O.A](https://ja.wikipedia.org/wiki/Z.O.A "wikilink")を始めとするトランス・レコード所属のバンドのおっかけをする「トランスギャル」と呼ばれるファンが存在するほどの人気を博した。
 
 [1988年](../Page/1988年.md "wikilink")に、3rd.アルバム『Pale Face, Pale Skin』、ビデオ『Heavymetal Master』をリリース後に、トランス・レコードは閉鎖。
 
 [1989年](../Page/1989年.md "wikilink")には、アルバム『STARSHIP』でメジャー・デビューするが、翌[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に活動停止。ただし、活動停止後も1991～92年に復活ライブが単発で行われている。
 
-[2000年](../Page/2000年.md "wikilink")に再結成したが、中心メンバーの北村は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")6月17日に49歳の若さで早世した。
+[2000年](../Page/2000年.md "wikilink")に再結成したが、中心メンバーの北村は[2006年](../Page/2006年.md "wikilink")6月17日に49歳の若さで早世した。
 
 なお、北村は、YBO<sup>2</sup>と並行してCANIS LUPUS、そしてYBO<sup>2</sup>活動停止後は新バンドDIFFERANCEなどでも活動していた。
 
 ## メンバー
 
   - ボーカル、ベース、[メロトロン](../Page/メロトロン.md "wikilink")：[北村昌士](https://ja.wikipedia.org/wiki/北村昌士 "wikilink")
-  - ギター：[栗原ミチオ](https://ja.wikipedia.org/wiki/栗原ミチオ "wikilink")（[ゴースト](../Page/ゴースト_\(バンド\).md "wikilink")、[The Stars](https://ja.wikipedia.org/wiki/The_Stars "wikilink")、[White Heaven他](https://ja.wikipedia.org/wiki/White_Heaven "wikilink")）→[KK NULL](https://ja.wikipedia.org/wiki/KK_Null "wikilink")（[ZENI GEVA](https://ja.wikipedia.org/wiki/ZENI_GEVA "wikilink")）→[森川誠一郎](https://ja.wikipedia.org/wiki/森川誠一郎 "wikilink")（[Z.O.A](https://ja.wikipedia.org/wiki/Z.O.A "wikilink")）→[河本英樹](https://ja.wikipedia.org/wiki/河本英樹 "wikilink")（[ルインズ](https://ja.wikipedia.org/wiki/ルインズ "wikilink")）→浅沼隆→解散、一時再結成時、KK NULL、[田畑マラ](https://ja.wikipedia.org/wiki/田畑満 "wikilink")（[ZENI GEVA](https://ja.wikipedia.org/wiki/ZENI_GEVA "wikilink")）→2000年に復活、栗原道夫、KK NULL、森川誠一郎→[藤井政英](https://ja.wikipedia.org/wiki/藤井政英 "wikilink")
-  - ドラマー：[上野山好紀](https://ja.wikipedia.org/wiki/上野山好紀 "wikilink")→[長谷川洋](https://ja.wikipedia.org/wiki/長谷川洋 "wikilink")([ASTRO](https://ja.wikipedia.org/wiki/ASTRO "wikilink"))→[吉田達也](https://ja.wikipedia.org/wiki/吉田達也 "wikilink")→解散後、一時再結成時、[佐藤カツ](https://ja.wikipedia.org/wiki/佐藤カツ_\(ミュージシャン\) "wikilink")→2000年に復活、[上野山好紀](https://ja.wikipedia.org/wiki/上野山好紀 "wikilink")、[吉田達也](https://ja.wikipedia.org/wiki/吉田達也 "wikilink")→[岸沢光正](https://ja.wikipedia.org/wiki/岸沢光正 "wikilink")
+  - ギター：[栗原ミチオ](https://ja.wikipedia.org/wiki/栗原ミチオ "wikilink")（[ゴースト](../Page/ゴースト_\(バンド\).md "wikilink")、[The Stars](https://ja.wikipedia.org/wiki/The_Stars "wikilink")、[White Heaven他](https://ja.wikipedia.org/wiki/White_Heaven "wikilink")）→[KK NULL](https://ja.wikipedia.org/wiki/KK_Null "wikilink")（[ZENI GEVA](https://ja.wikipedia.org/wiki/ZENI_GEVA "wikilink")）→[森川誠一郎](https://ja.wikipedia.org/wiki/森川誠一郎 "wikilink")（[Z.O.A](https://ja.wikipedia.org/wiki/Z.O.A "wikilink")）→[河本英樹](https://ja.wikipedia.org/wiki/河本英樹 "wikilink")（[ルインズ](../Page/ルインズ.md "wikilink")）→浅沼隆→解散、一時再結成時、KK NULL、[田畑マラ](https://ja.wikipedia.org/wiki/田畑満 "wikilink")（[ZENI GEVA](https://ja.wikipedia.org/wiki/ZENI_GEVA "wikilink")）→2000年に復活、栗原道夫、KK NULL、森川誠一郎→[藤井政英](https://ja.wikipedia.org/wiki/藤井政英 "wikilink")
+  - ドラマー：[上野山好紀](https://ja.wikipedia.org/wiki/上野山好紀 "wikilink")→[長谷川洋](https://ja.wikipedia.org/wiki/長谷川洋 "wikilink")([ASTRO](https://ja.wikipedia.org/wiki/ASTRO "wikilink"))→[吉田達也](../Page/吉田達也.md "wikilink")→解散後、一時再結成時、[佐藤カツ](https://ja.wikipedia.org/wiki/佐藤カツ_\(ミュージシャン\) "wikilink")→2000年に復活、[上野山好紀](https://ja.wikipedia.org/wiki/上野山好紀 "wikilink")、[吉田達也](../Page/吉田達也.md "wikilink")→[岸沢光正](https://ja.wikipedia.org/wiki/岸沢光正 "wikilink")
 
 ※結成時1984年内のみ北村がVo兼Key.でBassに野沢美香がいた。
 

@@ -1,7 +1,7 @@
 > この記事は[KOJI](https://ja.wikipedia.org/wiki/KOJI)から翻訳されています。
 
 
-**KOJI**（[1965年](../Page/1965年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") - ）は、[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")を中心に活動している[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")、[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")である。[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。特技は早口（[早口言葉](../Page/早口言葉.md "wikilink")ではない）。
+**KOJI**（[1965年](../Page/1965年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") - ）は、[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")を中心に活動している[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")、[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")である。[大阪府](../Page/大阪府.md "wikilink")出身。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。特技は早口（[早口言葉](../Page/早口言葉.md "wikilink")ではない）。
 
 名前の読み方には幾通りかある。自己紹介する時は「ケーオージェーアイ、コージです。」、メッセージを読み上げる時は「ケーオージェーアイ」と本人は使っている。
 
@@ -21,7 +21,7 @@
   - [COUNT DOWN OSAKA](https://ja.wikipedia.org/wiki/COUNT_DOWN_OSAKA "wikilink") （金 13:00-18:00/2005年3月終了）
   - [CDO NEXT HITS](https://ja.wikipedia.org/wiki/CDO_NEXT_HITS "wikilink")\[1\] （日 24:30-25:00）
   - [afternoon navigatior](https://ja.wikipedia.org/wiki/afternoon_navigatior "wikilink") （月・火 15:00-16:43/2005年4月番組開始、2007年3月番組終了。）
-  - [SHOO POWER REQUEST](https://ja.wikipedia.org/wiki/SHOO_POWER_REQUEST "wikilink") （金 16:00-19:30/2007年11月30日2008年2月29日[山本シュウ](https://ja.wikipedia.org/wiki/山本シュウ "wikilink")の代理）
+  - [SHOO POWER REQUEST](https://ja.wikipedia.org/wiki/SHOO_POWER_REQUEST "wikilink") （金 16:00-19:30/2007年11月30日2008年2月29日[山本シュウ](../Page/山本シュウ.md "wikilink")の代理）
   - [Groovy Vibes](https://ja.wikipedia.org/wiki/Groovy_Vibes "wikilink") (金 27:00-29:00 2008年2月29日）
   - [Hello\!](https://ja.wikipedia.org/wiki/Hello! "wikilink")(2008年10月1日-2009年3月31日 月-木 7:29-10:55)
   - [SATURDAY SPORTS BAR](../Page/SATURDAY_SPORTS_BAR.md "wikilink") （土 18:00-20:00）

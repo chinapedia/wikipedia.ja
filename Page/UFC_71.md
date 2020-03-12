@@ -1,15 +1,15 @@
 > この記事は[UFC 71](https://ja.wikipedia.org/wiki/UFC_71)から翻訳されています。
 
 
-**UFC 71: Liddell vs. Jackson**（ユーエフシー・セブンティワン：リデル・バーサス・ジャクソン）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月26日](../Page/5月26日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[MGMグランド・ガーデン・アリーナ](https://ja.wikipedia.org/wiki/MGMグランド・ガーデン・アリーナ "wikilink")で開催された。
+**UFC 71: Liddell vs. Jackson**（ユーエフシー・セブンティワン：リデル・バーサス・ジャクソン）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2007年](../Page/2007年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[MGMグランド・ガーデン・アリーナ](https://ja.wikipedia.org/wiki/MGMグランド・ガーデン・アリーナ "wikilink")で開催された。
 
-サブタイトル「Liddell vs. Jackson」の通り、メインイベントでは、かつて2003年の[PRIDE GRANDPRIX 2003 決勝戦で戦った](https://ja.wikipedia.org/wiki/PRIDE_GRANDPRIX_2003_決勝戦 "wikilink")[チャック・リデル](../Page/チャック・リデル.md "wikilink")と[クイントン・"ランペイジ"・ジャクソンのUFC世界ライトヘビー級タイトルマッチでの再戦が行われた](https://ja.wikipedia.org/wiki/クイントン・ジャクソン "wikilink")。
+サブタイトル「Liddell vs. Jackson」の通り、メインイベントでは、かつて2003年の[PRIDE GRANDPRIX 2003 決勝戦で戦った](../Page/PRIDE_GRANDPRIX_2003_決勝戦.md "wikilink")[チャック・リデル](../Page/チャック・リデル.md "wikilink")と[クイントン・"ランペイジ"・ジャクソンのUFC世界ライトヘビー級タイトルマッチでの再戦が行われた](../Page/クイントン・ジャクソン.md "wikilink")。
 
 ## 大会概要
 
-メインイベントでは、クイントン・"ランペイジ"・ジャクソンがチャック・リデルとのライトヘビー級タイトルマッチを制し、第7代UFC世界ライトヘビー級王者となった。試合後、来場していた[PRIDEミドル級](../Page/PRIDE_\(格闘技イベント\).md "wikilink")・ウェルター級の2階級王者[ダン・ヘンダーソン](https://ja.wikipedia.org/wiki/ダン・ヘンダーソン "wikilink")がジャクソンの王座への挑戦を表明し、ジャクソンもこれを快諾。[UFC 75でのライトヘビー級タイトルマッチが決定した](https://ja.wikipedia.org/wiki/UFC_75 "wikilink")。
+メインイベントでは、クイントン・"ランペイジ"・ジャクソンがチャック・リデルとのライトヘビー級タイトルマッチを制し、第7代UFC世界ライトヘビー級王者となった。試合後、来場していた[PRIDEミドル級](../Page/PRIDE_\(格闘技イベント\).md "wikilink")・ウェルター級の2階級王者[ダン・ヘンダーソン](../Page/ダン・ヘンダーソン.md "wikilink")がジャクソンの王座への挑戦を表明し、ジャクソンもこれを快諾。[UFC 75でのライトヘビー級タイトルマッチが決定した](../Page/UFC_75.md "wikilink")。
 
-キャリア9戦全勝の[チアゴ・シウバがUFCデビュー](https://ja.wikipedia.org/wiki/チアゴ・シウバ_\(格闘家\) "wikilink")。
+キャリア9戦全勝の[チアゴ・シウバがUFCデビュー](../Page/チアゴ・シウバ_\(格闘家\).md "wikilink")。
 
 ## 試合結果
 
@@ -17,34 +17,34 @@
 
   - 第1試合 ライトヘビー級 5分3R
     ○  [ウィウソン・ゴヴェイア](https://ja.wikipedia.org/wiki/ウィウソン・ゴヴェイア "wikilink") vs.  [カーメロ・マレロ](https://ja.wikipedia.org/wiki/カーメロ・マレロ "wikilink") ×
-    1R 3:06 [フロントチョーク](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")
+    1R 3:06 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
   - 第2試合 ライト級 5分3R
-    ○  [ディン・トーマス](https://ja.wikipedia.org/wiki/ディン・トーマス "wikilink") vs.  [ジェレミー・スティーブンス](https://ja.wikipedia.org/wiki/ジェレミー・スティーブンス "wikilink") ×
-    2R 2:14 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    ○  [ディン・トーマス](../Page/ディン・トーマス.md "wikilink") vs.  [ジェレミー・スティーブンス](https://ja.wikipedia.org/wiki/ジェレミー・スティーブンス "wikilink") ×
+    2R 2:14 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第3試合 ライトヘビー級 5分3R
-    ○  [アラン・ベルチャー](https://ja.wikipedia.org/wiki/アラン・ベルチャー "wikilink") vs.  ショーン・サーモン ×
-    1R 0:53 [フロントチョーク](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")
+    ○  [アラン・ベルチャー](../Page/アラン・ベルチャー.md "wikilink") vs.  ショーン・サーモン ×
+    1R 0:53 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
   - 第4試合 ライトヘビー級 5分3R
-    ○  [チアゴ・シウバ](https://ja.wikipedia.org/wiki/チアゴ・シウバ_\(格闘家\) "wikilink") vs.  [ジェームス・アーヴィン](https://ja.wikipedia.org/wiki/ジェームス・アーヴィン "wikilink") ×
+    ○  [チアゴ・シウバ](../Page/チアゴ・シウバ_\(格闘家\).md "wikilink") vs.  [ジェームス・アーヴィン](https://ja.wikipedia.org/wiki/ジェームス・アーヴィン "wikilink") ×
     1R 1:06 TKO（レフェリーストップ：右膝の負傷）
 
 ### メインカード
 
   - 第5試合 ミドル級 5分3R
-    ○  [カリブ・スターンズ](https://ja.wikipedia.org/wiki/カリブ・スターンズ "wikilink") vs.  [クリス・リーベン](https://ja.wikipedia.org/wiki/クリス・リーベン "wikilink") ×
+    ○  [カリブ・スターンズ](../Page/カリブ・スターンズ.md "wikilink") vs.  [クリス・リーベン](https://ja.wikipedia.org/wiki/クリス・リーベン "wikilink") ×
     3R終了 判定3-0（29-28、30-27、29-28）
   - 第6試合 ライトヘビー級 5分3R
-    ○  [ヒューストン・アレクサンダー](https://ja.wikipedia.org/wiki/ヒューストン・アレクサンダー "wikilink") vs.  [キース・ジャーディン](https://ja.wikipedia.org/wiki/キース・ジャーディン "wikilink") ×
-    1R 0:48 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ヒューストン・アレクサンダー](../Page/ヒューストン・アレクサンダー.md "wikilink") vs.  [キース・ジャーディン](../Page/キース・ジャーディン.md "wikilink") ×
+    1R 0:48 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第7試合 ミドル級 5分3R
-    ○  [テリー・マーティン](https://ja.wikipedia.org/wiki/テリー・マーティン "wikilink") vs.  [アイヴァン・サラベリー](https://ja.wikipedia.org/wiki/アイヴァン・サラベリー "wikilink") ×
-    1R 2:04 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [テリー・マーティン](../Page/テリー・マーティン.md "wikilink") vs.  [アイヴァン・サラベリー](../Page/アイヴァン・サラベリー.md "wikilink") ×
+    1R 2:04 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第8試合 ウェルター級 5分3R
     ○  [カロ・パリジャン](../Page/カロ・パリジャン.md "wikilink") vs.  [ジョシュ・バークマン](https://ja.wikipedia.org/wiki/ジョシュ・バークマン "wikilink") ×
     3R終了 判定3-0（30-27、30-27、29-28）
   - 第9試合 UFC世界ライトヘビー級タイトルマッチ 5分5R
-    ○  [クイントン・"ランペイジ"・ジャクソン](https://ja.wikipedia.org/wiki/クイントン・ジャクソン "wikilink") vs.  [チャック・リデル](../Page/チャック・リデル.md "wikilink") ×
-    1R 1:53 TKO（レフェリーストップ：右フック→[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [クイントン・"ランペイジ"・ジャクソン](../Page/クイントン・ジャクソン.md "wikilink") vs.  [チャック・リデル](../Page/チャック・リデル.md "wikilink") ×
+    1R 1:53 TKO（レフェリーストップ：右フック→[パウンド](../Page/グラウンドパンチ.md "wikilink")）
     ※ジャクソンが王座獲得に成功。
 
 ### 各賞
@@ -60,7 +60,7 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

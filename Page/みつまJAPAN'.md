@@ -24,7 +24,7 @@
   - 「まぁそんなこと、どうでもいいんですけどね」
   - チキチキバンバン
   - キラキラ体操
-  - [天童よしみ](https://ja.wikipedia.org/wiki/天童よしみ "wikilink")のモノマネ
+  - [天童よしみ](../Page/天童よしみ.md "wikilink")のモノマネ
   - 亀の話
   - [スーザン・ボイル](https://ja.wikipedia.org/wiki/スーザン・ボイル "wikilink")のモノマネ
   - 「非常に重要です」
@@ -36,14 +36,14 @@
   - [ダウンタウンのガキの使いやあらへんで\!\!](https://ja.wikipedia.org/wiki/ダウンタウンのガキの使いやあらへんで!! "wikilink")
   - 銀河小説
   - [スーパーテレビ](https://ja.wikipedia.org/wiki/スーパーテレビ "wikilink")
-  - [平成あっぱれテレビ](https://ja.wikipedia.org/wiki/平成あっぱれテレビ "wikilink")
-  - [山田邦子のしあわせにしてよ](https://ja.wikipedia.org/wiki/山田邦子のしあわせにしてよ "wikilink")
-  - [ジャングルTV 〜タモリの法則〜](https://ja.wikipedia.org/wiki/ジャングルTV_〜タモリの法則〜 "wikilink")
+  - [平成あっぱれテレビ](../Page/平成あっぱれテレビ.md "wikilink")
+  - [山田邦子のしあわせにしてよ](../Page/山田邦子のしあわせにしてよ.md "wikilink")
+  - [ジャングルTV 〜タモリの法則〜](../Page/ジャングルTV_〜タモリの法則〜.md "wikilink")
   - [めちゃ²イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")
-  - [SMAPのがんばりましょう](https://ja.wikipedia.org/wiki/SMAPのがんばりましょう "wikilink")
+  - [SMAPのがんばりましょう](../Page/SMAPのがんばりましょう.md "wikilink")
   - [夢がMORI MORI](../Page/夢がMORI_MORI.md "wikilink")
-  - [征服少年カトリ](https://ja.wikipedia.org/wiki/少年頭脳カトリ "wikilink")
-  - [ナイナイナ](https://ja.wikipedia.org/wiki/ナイナイナ "wikilink")
+  - [征服少年カトリ](../Page/少年頭脳カトリ.md "wikilink")
+  - [ナイナイナ](../Page/ナイナイナ.md "wikilink")
   - [タモリ倶楽部](../Page/タモリ倶楽部.md "wikilink")
   - [ウッチャンナンチャンの炎のチャレンジャーこれができたら100万円\!\!](https://ja.wikipedia.org/wiki/ウッチャンナンチャンの炎のチャレンジャーこれができたら100万円!! "wikilink") 2000年正月スペシャル
   - [稲妻\!ロンドンハーツ](https://ja.wikipedia.org/wiki/稲妻!ロンドンハーツ "wikilink")

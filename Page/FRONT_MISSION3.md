@@ -7,17 +7,17 @@
 
 ## 概要
 
-[フロントミッションシリーズ](../Page/フロントミッションシリーズ.md "wikilink")の第3作目（外伝である『[GH](https://ja.wikipedia.org/wiki/FRONT_MISSION_SERIES_GUN_HAZARD "wikilink")』『[FA](https://ja.wikipedia.org/wiki/FRONT_MISSION_ALTERNATIVE "wikilink")』を含めると第5作目）。
+[フロントミッションシリーズ](../Page/フロントミッションシリーズ.md "wikilink")の第3作目（外伝である『[GH](../Page/FRONT_MISSION_SERIES_GUN_HAZARD.md "wikilink")』『[FA](../Page/FRONT_MISSION_ALTERNATIVE.md "wikilink")』を含めると第5作目）。
 
-日本国内では、[1999年](../Page/1999年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")に[PlayStation](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")（以下、PS）用ソフトとして発売された。その後、[2000年](../Page/2000年.md "wikilink")に「ミレニアムコレクション」、[2002年](../Page/2002年.md "wikilink")に「[PS one Books](https://ja.wikipedia.org/wiki/PS_one_Books "wikilink")」、[2003年](../Page/2003年.md "wikilink")に『[フロントミッション ヒストリー](https://ja.wikipedia.org/wiki/フロントミッション_ヒストリー "wikilink")』（『[1ST](https://ja.wikipedia.org/wiki/FRONT_MISSION "wikilink")』、『[2nd](https://ja.wikipedia.org/wiki/FRONT_MISSION2 "wikilink")』、『3rd』の同梱セット）、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に「[アルティメットヒッツ](https://ja.wikipedia.org/wiki/アルティメットヒッツ "wikilink")」として再版を重ねている。
+日本国内では、[1999年](../Page/1999年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")に[PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")（以下、PS）用ソフトとして発売された。その後、[2000年](../Page/2000年.md "wikilink")に「ミレニアムコレクション」、[2002年](../Page/2002年.md "wikilink")に「[PS one Books](../Page/PS_one_Books.md "wikilink")」、[2003年](../Page/2003年.md "wikilink")に『[フロントミッション ヒストリー](../Page/フロントミッション_ヒストリー.md "wikilink")』（『[1ST](../Page/FRONT_MISSION.md "wikilink")』、『[2nd](https://ja.wikipedia.org/wiki/FRONT_MISSION2 "wikilink")』、『3rd』の同梱セット）、[2006年](../Page/2006年.md "wikilink")に「[アルティメットヒッツ](../Page/アルティメットヒッツ.md "wikilink")」として再版を重ねている。
 
 それぞれパッケージが異なるが、ゲーム内容には変更はない。日本以外では、北米圏でも発売されている。売上本数は約30万本（日本国内）。キャッチコピーは「**さらに深く、速く、リアルに。完成された第三のドラマ。**」。
 
 ## ゲーム内容
 
-“兵器”[M.I.D.A.S.](../Page/M.I.D.A.S..md "wikilink")と人工的に生み出された[イマジナリーナンバーの人類への逆襲が主題](https://ja.wikipedia.org/wiki/イマジナリーナンバー_\(フロントミッション\) "wikilink")。当時から問題になった遺伝子操作問題や、巨大化してなお旧来と変化の無い国家構造等から“人間の存在とは何か?”という重大な問題を扱っている。
+“兵器”[M.I.D.A.S.](../Page/M.I.D.A.S..md "wikilink")と人工的に生み出された[イマジナリーナンバーの人類への逆襲が主題](../Page/イマジナリーナンバー_\(フロントミッション\).md "wikilink")。当時から問題になった遺伝子操作問題や、巨大化してなお旧来と変化の無い国家構造等から“人間の存在とは何か?”という重大な問題を扱っている。
 
-西暦2112年の物語を描いた本作は、第5作『[FRONT MISSION5 Scars of the War](https://ja.wikipedia.org/wiki/FRONT_MISSION5_Scars_of_the_War "wikilink")』のストーリーと関連が深い。
+西暦2112年の物語を描いた本作は、第5作『[FRONT MISSION5 Scars of the War](../Page/FRONT_MISSION5_Scars_of_the_War.md "wikilink")』のストーリーと関連が深い。
 
 主人公は19歳の青年であり、横須賀の軍基地で発生した爆発事件に巻き込まれ、世界をも巻き込む陰謀に仲間とともに立ち向かう。
 
@@ -115,7 +115,7 @@
 
   - [土田俊郎](../Page/土田俊郎.md "wikilink")
   - [橋本真司](../Page/橋本真司.md "wikilink")
-  - [パラレルワールド](https://ja.wikipedia.org/wiki/パラレルワールド "wikilink")
+  - [パラレルワールド](../Page/パラレルワールド.md "wikilink")
 
 ## 外部リンク
 

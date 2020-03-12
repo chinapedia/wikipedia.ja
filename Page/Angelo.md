@@ -5,11 +5,11 @@
 
 ## 概要
 
-2006年4月に解散を発表した[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")\[1\]のメンバー・[キリト](https://ja.wikipedia.org/wiki/キリト "wikilink")、[KOHTA](https://ja.wikipedia.org/wiki/KOHTA "wikilink")、[TAKEO](../Page/TAKEO.md "wikilink")によって同年8月に結成され、2011年8月に[Karyu](https://ja.wikipedia.org/wiki/Karyu "wikilink")（元[D'espairsRay](../Page/D'espairsRay.md "wikilink")）と[ギル](https://ja.wikipedia.org/wiki/ギル_\(ミュージシャン\) "wikilink")（元[ヴィドール](../Page/ヴィドール_\(バンド\).md "wikilink")）が加入\[2\]。
+2006年4月に解散を発表した[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")\[1\]のメンバー・[キリト](../Page/キリト.md "wikilink")、[KOHTA](../Page/KOHTA.md "wikilink")、[TAKEO](../Page/TAKEO.md "wikilink")によって同年8月に結成され、2011年8月に[Karyu](https://ja.wikipedia.org/wiki/Karyu "wikilink")（元[D'espairsRay](../Page/D'espairsRay.md "wikilink")）と[ギル](https://ja.wikipedia.org/wiki/ギル_\(ミュージシャン\) "wikilink")（元[ヴィドール](../Page/ヴィドール_\(バンド\).md "wikilink")）が加入\[2\]。
 
 ## メンバー
 
-  - **[キリト](https://ja.wikipedia.org/wiki/キリト "wikilink")**（[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - ）：（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）
+  - **[キリト](../Page/キリト.md "wikilink")**（[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - ）：（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）
       -
         [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身。血液型A型。
   - **[Karyu](https://ja.wikipedia.org/wiki/Karyu "wikilink")**（カリュウ、[12月7日](../Page/12月7日.md "wikilink") - ）：（[ギター](../Page/ギター.md "wikilink")）
@@ -18,7 +18,7 @@
   - **[ギル](https://ja.wikipedia.org/wiki/ギル_\(ミュージシャン\) "wikilink")**（[8月21日](../Page/8月21日.md "wikilink") - ）：（ギター）
       -
         [静岡県](../Page/静岡県.md "wikilink")出身。血液型A型。
-  - **[KOHTA](https://ja.wikipedia.org/wiki/KOHTA "wikilink")**（コータ、[6月3日](../Page/6月3日.md "wikilink") - ）：（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
+  - **[KOHTA](../Page/KOHTA.md "wikilink")**（コータ、[6月3日](../Page/6月3日.md "wikilink") - ）：（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
       -
         北海道札幌市出身。血液型A型。
   - **[TAKEO](../Page/TAKEO.md "wikilink")**（タケオ、[7月11日](../Page/7月11日.md "wikilink") - ）：（[ドラム](../Page/ドラムセット.md "wikilink")）
@@ -29,7 +29,7 @@
 
   - **[TORUxxx](https://ja.wikipedia.org/wiki/TORUxxx "wikilink")**（トール）：（ギター）
       -
-        キリトのソロプロジェクトにも参加。自身のバンドUNDOWNのギタリスト兼ヴォーカリスト。元[THE STAR CLUB](../Page/THE_STAR_CLUB.md "wikilink")、LONDS OF THREE、[THE MAD CAPSULE MARKETSのサポート](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink")・ギタリストとして、[ハードコアシーンでの活動が有名](../Page/ハードコア・パンク.md "wikilink")。2011年8月をもってサポートを終了。2015年2月24日に[パシフィコ横浜で行われたAngeloのツアーファイナル公演には](https://ja.wikipedia.org/wiki/横浜国際平和会議場 "wikilink")、キリトの誕生日という事もありサプライズ出演した\[3\]\[4\]\[5\]\[6\]。
+        キリトのソロプロジェクトにも参加。自身のバンドUNDOWNのギタリスト兼ヴォーカリスト。元[THE STAR CLUB](../Page/THE_STAR_CLUB.md "wikilink")、LONDS OF THREE、[THE MAD CAPSULE MARKETSのサポート](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")・ギタリストとして、[ハードコアシーンでの活動が有名](../Page/ハードコア・パンク.md "wikilink")。2011年8月をもってサポートを終了。2015年2月24日に[パシフィコ横浜で行われたAngeloのツアーファイナル公演には](../Page/横浜国際平和会議場.md "wikilink")、キリトの誕生日という事もありサプライズ出演した\[3\]\[4\]\[5\]\[6\]。
 
 ## 略歴
 
@@ -39,23 +39,23 @@
 
 2008年3月16日、ツアー「THE FRENZIED EMPIRE」ファイナルで初の[日本武道館](../Page/日本武道館.md "wikilink")公演を行う。6月11日、シングル「CHAOTIC BELL」を主宰[レーベル](https://ja.wikipedia.org/wiki/レーベル "wikilink")「East link Records」から発売。
 
-2009年3月25日、シングル「薄紅の欠片」を[キングレコード](../Page/キングレコード.md "wikilink")から発売。4月22日、アルバム『METALLIC BUTTERFLY』を発売。10月24日、[V-ROCK FESTIVAL 09に出演](https://ja.wikipedia.org/wiki/V-ROCK_FESTIVAL "wikilink")。12月31日から2010年1月1日にかけて[代々木第二体育館で初の](https://ja.wikipedia.org/wiki/国立代々木競技場#第二体育館 "wikilink")[カウントダウン](https://ja.wikipedia.org/wiki/カウントダウン "wikilink")ライブ「REWRITING」を開催\[10\]。
+2009年3月25日、シングル「薄紅の欠片」を[キングレコード](../Page/キングレコード.md "wikilink")から発売。4月22日、アルバム『METALLIC BUTTERFLY』を発売。10月24日、[V-ROCK FESTIVAL 09に出演](https://ja.wikipedia.org/wiki/V-ROCK_FESTIVAL "wikilink")。12月31日から2010年1月1日にかけて[代々木第二体育館で初の](https://ja.wikipedia.org/wiki/国立代々木競技場#第二体育館 "wikilink")[カウントダウン](../Page/カウントダウン.md "wikilink")ライブ「REWRITING」を開催\[10\]。
 
 2010年2月17日、[ミュージックレイン](../Page/ミュージックレイン.md "wikilink")移籍後初のシングル「[光の記憶](https://ja.wikipedia.org/wiki/光の記憶 "wikilink")」を発売。10月6日、アルバム『Design』を発売。
 
-2011年8月27日、[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")でファンクラブライブ「INTER PLAY MEMBERS LIMITED SHOW '11 \[DOGMATIC PARTY case of Angelo\]」を開催。ライブの最後に、5年間サポートメンバーとしてギターを務めてきたTORUxxxに代わり、2人のギタリストが新メンバーとして加入することが発表された。その後オフィシャルサイトにてKaryu（元[D'espairsRay](../Page/D'espairsRay.md "wikilink")）とギル（元[ヴィドール](../Page/ヴィドール_\(バンド\).md "wikilink")）を迎え入れ、「新生Angelo」として再始動する事を発表\[11\]。10月4日、Karyu・ギルの加入後初のライブとして[新宿](../Page/新宿.md "wikilink")ステーションスクエアにてゲリラライブを行なった。「REBORN」演奏中、会場周辺の混雑状況を鑑みてスタッフから制止が入り、途中終了となった\[12\]。翌10月5日、Karyu・ギルの加入後初のアルバム『BABEL』発売。
+2011年8月27日、[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")でファンクラブライブ「INTER PLAY MEMBERS LIMITED SHOW '11 \[DOGMATIC PARTY case of Angelo\]」を開催。ライブの最後に、5年間サポートメンバーとしてギターを務めてきたTORUxxxに代わり、2人のギタリストが新メンバーとして加入することが発表された。その後オフィシャルサイトにてKaryu（元[D'espairsRay](../Page/D'espairsRay.md "wikilink")）とギル（元[ヴィドール](../Page/ヴィドール_\(バンド\).md "wikilink")）を迎え入れ、「新生Angelo」として再始動する事を発表\[11\]。10月4日、Karyu・ギルの加入後初のライブとして[新宿](../Page/新宿.md "wikilink")ステーションスクエアにてゲリラライブを行なった。「REBORN」演奏中、会場周辺の混雑状況を鑑みてスタッフから制止が入り、途中終了となった\[12\]。翌10月5日、Karyu・ギルの加入後初のアルバム『BABEL』発売。
 
-2012年8月17日、Angelo初の主催イベント「THE INTERSECTION OF DOGMA」をSHIBUYA-AXで開催。Angeloの他、[MERRY](../Page/MERRY.md "wikilink")、[Sadie](https://ja.wikipedia.org/wiki/Sadie_\(バンド\) "wikilink")、[ギルガメッシュ](https://ja.wikipedia.org/wiki/girugamesh "wikilink")、[lynch.](https://ja.wikipedia.org/wiki/lynch. "wikilink")が出演\[13\]。11月14日、アルバム『RETINA』を発売。
+2012年8月17日、Angelo初の主催イベント「THE INTERSECTION OF DOGMA」をSHIBUYA-AXで開催。Angeloの他、[MERRY](../Page/MERRY.md "wikilink")、[Sadie](../Page/Sadie_\(バンド\).md "wikilink")、[ギルガメッシュ](https://ja.wikipedia.org/wiki/girugamesh "wikilink")、[lynch.](https://ja.wikipedia.org/wiki/lynch. "wikilink")が出演\[13\]。11月14日、アルバム『RETINA』を発売。
 
-2013年8月16日、2度目となるAngeloの主催イベント「THE INTERSECTION OF DOGMA」をSHIBUYA-AXで開催。Angeloの他、[INORAN](https://ja.wikipedia.org/wiki/INORAN "wikilink")、[MUCC](../Page/MUCC.md "wikilink")、lynch.、[heidi.](https://ja.wikipedia.org/wiki/heidi. "wikilink")が出演\[14\]。11月27日、アルバム『FAITH』を発売\[15\]。
+2013年8月16日、2度目となるAngeloの主催イベント「THE INTERSECTION OF DOGMA」をSHIBUYA-AXで開催。Angeloの他、[INORAN](../Page/INORAN.md "wikilink")、[MUCC](../Page/MUCC.md "wikilink")、lynch.、[heidi.](https://ja.wikipedia.org/wiki/heidi. "wikilink")が出演\[14\]。11月27日、アルバム『FAITH』を発売\[15\]。
 
-2014年7月29日、3度目となるAngeloの主催イベント「THE INTERSECTION OF DOGMA」を[Zepp](https://ja.wikipedia.org/wiki/Zepp "wikilink") DiverCity Tokyoで開催。Angeloの他、[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")、lynch.、[FAKE?](https://ja.wikipedia.org/wiki/FAKE? "wikilink")、更に、かつてKaryuが所属し解散したバンドD'espairsRayが出演\[16\]。12月17日、アルバム『PSYCHE』を発売。
+2014年7月29日、3度目となるAngeloの主催イベント「THE INTERSECTION OF DOGMA」を[Zepp](../Page/Zepp.md "wikilink") DiverCity Tokyoで開催。Angeloの他、[RIZE](../Page/RIZE.md "wikilink")、lynch.、[FAKE?](../Page/FAKE?.md "wikilink")、更に、かつてKaryuが所属し解散したバンドD'espairsRayが出演\[16\]。12月17日、アルバム『PSYCHE』を発売。
 
 2015年9月30日、ミニアルバム『FACTOR』を30日間の期間限定生産で発売\[17\]。続いて12月2日にミニアルバム『RESULT』発売。こちらもFACTOR同様30日間限定生産となった。
 
 2016年10月16日、幕張メッセで行われた[X JAPAN主催](../Page/X_JAPAN.md "wikilink")「[VISUAL JAPAN SUMMIT](https://ja.wikipedia.org/wiki/VISUAL_JAPAN_SUMMIT "wikilink") 2016 Powered by Rakuten」に出演。この模様は後日[WOWOW](../Page/WOWOW.md "wikilink")で放送された。9月28日、アルバム『CORD』発売。
 
-2017年、9月13日発売の「[D'ERLANGER](../Page/D'ERLANGER.md "wikilink") TRIBUTE ALBUM ～Stairway to Heaven～」に参加し「dummy blue」をカヴァー。また、9月15日のD'ERLANGER主催のライブにも参加。9月27日、アルバム『HETERODOX』発売。発売に先立ち、HETERODOX内に収録されているevilのMV入りDVDが[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")と[DIR EN GREYのイベント](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")「ANDROGYNOS」で配布された。
+2017年、9月13日発売の「[D'ERLANGER](../Page/D'ERLANGER.md "wikilink") TRIBUTE ALBUM ～Stairway to Heaven～」に参加し「dummy blue」をカヴァー。また、9月15日のD'ERLANGER主催のライブにも参加。9月27日、アルバム『HETERODOX』発売。発売に先立ち、HETERODOX内に収録されているevilのMV入りDVDが[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")と[DIR EN GREYのイベント](../Page/DIR_EN_GREY.md "wikilink")「ANDROGYNOS」で配布された。
 
 2018年11月14日、アルバム『RESONANCE』発売。このRESONANCEで通算10枚目のアルバムとなった。また、アルバム発売＆ツアー開催記念企画として11月13日から翌年1月にかけて、全国の[ファミリーマート](../Page/ファミリーマート.md "wikilink")等設置の「[ファミマプリント](https://ja.wikipedia.org/wiki/ファミマプリント "wikilink")」にて『Angelo2019年カレンダー』と『アーティスト写真 ブロマイド』が販売された。
 
@@ -216,7 +216,7 @@
 <tr class="odd">
 <td><p>rowspan = "2" | 5th</p></td>
 <td><p>rowspan = "2" | 2009年3月25日</p></td>
-<td><p>rowspan = "2" | <strong><a href="https://ja.wikipedia.org/wiki/薄紅の欠片" title="wikilink">薄紅の欠片</a></strong></p></td>
+<td><p>rowspan = "2" | <strong><a href="../Page/薄紅の欠片.md" title="wikilink">薄紅の欠片</a></strong></p></td>
 <td><p>初回限定盤(CD+DVD)</p></td>
 <td><p>KICM-91273</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1086,7 +1086,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>光の記憶</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TXN" title="wikilink">テレビ東京系列アニメ</a>『<a href="https://ja.wikipedia.org/wiki/テガミバチ" title="wikilink">テガミバチ</a>』エンディングテーマ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TXN" title="wikilink">テレビ東京系列アニメ</a>『<a href="../Page/テガミバチ.md" title="wikilink">テガミバチ</a>』エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>El Dorado</strong></p></td>
@@ -1146,52 +1146,52 @@
 
 ### 単発ワンマンライブ
 
-| 日程                 | タイトル                                                       | 会場                                                                                    | 備考                                                                             |
-| ------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2006年10月4日         | **The creature was reborn out of hades**                   | [代々木公園](../Page/代々木公園.md "wikilink")                                                  | フリーライブ                                                                         |
-| 2009年5月8日          | **MORPHING OF［METALLIC BUTTERFLY］**                        | [NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")(東京)                         |                                                                                |
-| 2009年12月30日        | **09 CLIMAX SHOW CASE 「CRACKING ROSARY」**                  | [国立代々木競技場](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")第二体育館                    |                                                                                |
-| 2009年12月31日        | **09-10 COUNT DOWN SHOW CASE 「REWRITING」**                 | カウントダウンライブ                                                                            |                                                                                |
-| 2010年4月11日         | **2010 NEW SINGLE RELEASE PARTY 「UNTIED RADIAL LIGHT」**    | [日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")                       |                                                                                |
-| 2010年12月31日        | **10-11 COUNT DOWN 「Cutoff density」**                      | 国立代々木競技場第二体育館                                                                         | カウントダウンライブ                                                                     |
-| 2011年10月4日         | \-                                                         | [新宿](../Page/新宿.md "wikilink")ステーションスクエア                                              | フリーライブ。5人体制での初ライブ。                                                             |
-| 2012年4月1日          | **LIVE at 日比谷野外大音楽堂 「STRAIN CONSTRUCTION METHODS」**        | 日比谷野外大音楽堂                                                                             |                                                                                |
-| 2012年10月4日         | **6th Anniversary Live at 渋谷公会堂 「Construction Completed」** | [渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")                               |                                                                                |
-| 2013年2月22日         | **LIVE at 渋谷公会堂 「INTO THE NEW DIMENSION」**                 |                                                                                       |                                                                                |
-| 2013年2月23日         |                                                            |                                                                                       |                                                                                |
-| 2014年2月24日         | **Live at 渋谷公会堂「END POINT OF FAITH」**                      |                                                                                       |                                                                                |
-| 2014年10月4日         | **8th Anniversary「THE MULTI HIERARCHY」**                   | [六本木ブルーシアター](https://ja.wikipedia.org/wiki/六本木ブルーシアター "wikilink")                     | 全国6ヶ所の映画館での[ライブビューイング](https://ja.wikipedia.org/wiki/ライブビューイング "wikilink")も開催。 |
-| 2015年10月4日         | **9th Anniversary「THE ABNOMAL PHENOMENON」**                | [豊洲PIT](https://ja.wikipedia.org/wiki/豊洲PIT "wikilink")                               |                                                                                |
-| 2016年2月24日         | *' LIVE at 新木場 STUDIO COAST 「UNDER THE INFULUENCE」*'       | [新木場 STUDIO COAST](../Page/STUDIO_COAST.md "wikilink")                                | ゲストに[潤](../Page/潤.md "wikilink")                                               |
-| 2016年7月28日・29日・30日 | **INTER PLAY MEMBERS PRESENTS '16 「THE CHAIN OF GROWTH」**  | [Zepp DiverCity Tokyo](https://ja.wikipedia.org/wiki/Zepp "wikilink")                 |                                                                                |
-| 2016年10月4日         | **10th Anniversary「CELEBRATION OF THE VARIANT」**           | [TOKYO DOME CITY HALL](https://ja.wikipedia.org/wiki/TOKYO_DOME_CITY_HALL "wikilink") |                                                                                |
-| 2017年2月24日         | **LIVE at TOKYO DOME CITY HALL「Category:\[memento\]」**     | [TOKYO DOME CITY HALL](https://ja.wikipedia.org/wiki/TOKYO_DOME_CITY_HALL "wikilink") |                                                                                |
-| 2017年10月4日         | **11th Anniversary「HETERODOXY」**                           | [豊洲PIT](https://ja.wikipedia.org/wiki/豊洲PIT "wikilink")                               |                                                                                |
-| 2018年2月24日         | **LIVE at TOKYO DOME CITY HALL「THE CYCLE OF REBIRTH」**     | [TOKYO DOME CITY HALL](https://ja.wikipedia.org/wiki/TOKYO_DOME_CITY_HALL "wikilink") |                                                                                |
-| 2018年10月4日         | **12th Anniversary「EXPOSE THE CORE」**                      | [豊洲PIT](https://ja.wikipedia.org/wiki/豊洲PIT "wikilink")                               |                                                                                |
-| 2019年2月23日         | **LIVE at 新木場 STUDIO COAST「PENETRATE RANGE」**              | [新木場 STUDIO COAST](../Page/STUDIO_COAST.md "wikilink")                                |                                                                                |
-| 2019年10月4日         | **13th Anniversary「IGNITION DEVICE」**                      | [TOKYO DOME CITY HALL](https://ja.wikipedia.org/wiki/TOKYO_DOME_CITY_HALL "wikilink") |                                                                                |
-| 2020年2月24日         | **LIVE at LINE CUBE SHIBUYA「A CONNECTED FIELD」**           | [LINE CUBE SHIBUYA](https://ja.wikipedia.org/wiki/LINE_CUBE_SHIBUYA "wikilink")       |                                                                                |
+| 日程                 | タイトル                                                       | 会場                                                                                    | 備考                                                          |
+| ------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 2006年10月4日         | **The creature was reborn out of hades**                   | [代々木公園](../Page/代々木公園.md "wikilink")                                                  | フリーライブ                                                      |
+| 2009年5月8日          | **MORPHING OF［METALLIC BUTTERFLY］**                        | [NHKホール](../Page/NHKホール.md "wikilink")(東京)                                            |                                                             |
+| 2009年12月30日        | **09 CLIMAX SHOW CASE 「CRACKING ROSARY」**                  | [国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第二体育館                                       |                                                             |
+| 2009年12月31日        | **09-10 COUNT DOWN SHOW CASE 「REWRITING」**                 | カウントダウンライブ                                                                            |                                                             |
+| 2010年4月11日         | **2010 NEW SINGLE RELEASE PARTY 「UNTIED RADIAL LIGHT」**    | [日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")                       |                                                             |
+| 2010年12月31日        | **10-11 COUNT DOWN 「Cutoff density」**                      | 国立代々木競技場第二体育館                                                                         | カウントダウンライブ                                                  |
+| 2011年10月4日         | \-                                                         | [新宿](../Page/新宿.md "wikilink")ステーションスクエア                                              | フリーライブ。5人体制での初ライブ。                                          |
+| 2012年4月1日          | **LIVE at 日比谷野外大音楽堂 「STRAIN CONSTRUCTION METHODS」**        | 日比谷野外大音楽堂                                                                             |                                                             |
+| 2012年10月4日         | **6th Anniversary Live at 渋谷公会堂 「Construction Completed」** | [渋谷公会堂](../Page/渋谷公会堂.md "wikilink")                                                  |                                                             |
+| 2013年2月22日         | **LIVE at 渋谷公会堂 「INTO THE NEW DIMENSION」**                 |                                                                                       |                                                             |
+| 2013年2月23日         |                                                            |                                                                                       |                                                             |
+| 2014年2月24日         | **Live at 渋谷公会堂「END POINT OF FAITH」**                      |                                                                                       |                                                             |
+| 2014年10月4日         | **8th Anniversary「THE MULTI HIERARCHY」**                   | [六本木ブルーシアター](https://ja.wikipedia.org/wiki/六本木ブルーシアター "wikilink")                     | 全国6ヶ所の映画館での[ライブビューイング](../Page/ライブビューイング.md "wikilink")も開催。 |
+| 2015年10月4日         | **9th Anniversary「THE ABNOMAL PHENOMENON」**                | [豊洲PIT](https://ja.wikipedia.org/wiki/豊洲PIT "wikilink")                               |                                                             |
+| 2016年2月24日         | *' LIVE at 新木場 STUDIO COAST 「UNDER THE INFULUENCE」*'       | [新木場 STUDIO COAST](../Page/STUDIO_COAST.md "wikilink")                                | ゲストに[潤](../Page/潤.md "wikilink")                            |
+| 2016年7月28日・29日・30日 | **INTER PLAY MEMBERS PRESENTS '16 「THE CHAIN OF GROWTH」**  | [Zepp DiverCity Tokyo](../Page/Zepp.md "wikilink")                                    |                                                             |
+| 2016年10月4日         | **10th Anniversary「CELEBRATION OF THE VARIANT」**           | [TOKYO DOME CITY HALL](https://ja.wikipedia.org/wiki/TOKYO_DOME_CITY_HALL "wikilink") |                                                             |
+| 2017年2月24日         | **LIVE at TOKYO DOME CITY HALL「Category:\[memento\]」**     | [TOKYO DOME CITY HALL](https://ja.wikipedia.org/wiki/TOKYO_DOME_CITY_HALL "wikilink") |                                                             |
+| 2017年10月4日         | **11th Anniversary「HETERODOXY」**                           | [豊洲PIT](https://ja.wikipedia.org/wiki/豊洲PIT "wikilink")                               |                                                             |
+| 2018年2月24日         | **LIVE at TOKYO DOME CITY HALL「THE CYCLE OF REBIRTH」**     | [TOKYO DOME CITY HALL](https://ja.wikipedia.org/wiki/TOKYO_DOME_CITY_HALL "wikilink") |                                                             |
+| 2018年10月4日         | **12th Anniversary「EXPOSE THE CORE」**                      | [豊洲PIT](https://ja.wikipedia.org/wiki/豊洲PIT "wikilink")                               |                                                             |
+| 2019年2月23日         | **LIVE at 新木場 STUDIO COAST「PENETRATE RANGE」**              | [新木場 STUDIO COAST](../Page/STUDIO_COAST.md "wikilink")                                |                                                             |
+| 2019年10月4日         | **13th Anniversary「IGNITION DEVICE」**                      | [TOKYO DOME CITY HALL](https://ja.wikipedia.org/wiki/TOKYO_DOME_CITY_HALL "wikilink") |                                                             |
+| 2020年2月24日         | **LIVE at LINE CUBE SHIBUYA「A CONNECTED FIELD」**           | [LINE CUBE SHIBUYA](https://ja.wikipedia.org/wiki/LINE_CUBE_SHIBUYA "wikilink")       |                                                             |
 
 #### DOGMATIC PARTY
 
 毎年夏に「DOGMATIC PARTY」と冠したファンクラブ主催ライブを開催。
 2016年は「DOGMATIC PARTY」ではなく「THE CHAIN OF GROWTH」と冠したワンマン３デイズライブが開催された。
 
-| 日程             | タイトル                                                                      | 会場                                                                    |
-| -------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 2007年8月30日・31日 | **INTER PLAY MEMBERS LIMITED SHOW \[DOGMATIC PARTY case of Angelo\]**     | [渋谷C.C.Lemonホール](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")      |
-| 2008年8月15日・16日 | **INTER PLAY MEMBERS LIMITED SHOW 08 \[DOGMATIC PARTY case of Angelo\]**  |                                                                       |
-| 2009年8月15日・16日 | **INTER PLAY MEMBERS LIMITED SHOW 09 \[DOGMATIC PARTY case of Angelo\]**  |                                                                       |
-| 2010年8月13日・14日 | **INTER PLAY MEMBERS LIMITED SHOW '10 \[DOGMATIC PARTY case of Angelo\]** |                                                                       |
-| 2011年8月26日・27日 | **INTER PLAY MEMBERS LIMITED SHOW '11 \[DOGMATIC PARTY case of Angelo\]** | [SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")     |
-| 2012年8月18日・19日 | **INTER PLAY MEMBERS PRESENTS '12 \[DOGMATIC PARTY case of Angelo\]**     |                                                                       |
-| 2013年8月17日・18日 | **INTER PLAY MEMBERS PRESENTS '13 \[DOGMATIC PARTY case of Angelo\]**     |                                                                       |
-| 2014年7月30日・31日 | **INTER PLAY MEMBERS PRESENTS '14 \[DOGMATIC PARTY case of Angelo\]**     | [Zepp DiverCity Tokyo](https://ja.wikipedia.org/wiki/Zepp "wikilink") |
-| 2015年8月6日・7日   | **INTER PLAY MEMBERS PRESENTS '15 \[DOGMATIC PARTY case of Angelo\]**     |                                                                       |
-| 2017年7月28日・29日 | **INTER PLAY MEMBERS PRESENTS '17 \[DOGMATIC PARTY case of Angelo\]**     |                                                                       |
-| 2018年7月27日・28日 | **INTER PLAY MEMBERS PRESENTS '18 「DOGMATIC PARTY - PLACE A TRAP-」**      |                                                                       |
-| 2019年7月26日・27日 | **INTER PLAY MEMBERS PRESENTS '19 「DOGMATIC PARTY -Metastasis-」**         |                                                                       |
+| 日程             | タイトル                                                                      | 会場                                                 |
+| -------------- | ------------------------------------------------------------------------- | -------------------------------------------------- |
+| 2007年8月30日・31日 | **INTER PLAY MEMBERS LIMITED SHOW \[DOGMATIC PARTY case of Angelo\]**     | [渋谷C.C.Lemonホール](../Page/渋谷公会堂.md "wikilink")      |
+| 2008年8月15日・16日 | **INTER PLAY MEMBERS LIMITED SHOW 08 \[DOGMATIC PARTY case of Angelo\]**  |                                                    |
+| 2009年8月15日・16日 | **INTER PLAY MEMBERS LIMITED SHOW 09 \[DOGMATIC PARTY case of Angelo\]**  |                                                    |
+| 2010年8月13日・14日 | **INTER PLAY MEMBERS LIMITED SHOW '10 \[DOGMATIC PARTY case of Angelo\]** |                                                    |
+| 2011年8月26日・27日 | **INTER PLAY MEMBERS LIMITED SHOW '11 \[DOGMATIC PARTY case of Angelo\]** | [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")     |
+| 2012年8月18日・19日 | **INTER PLAY MEMBERS PRESENTS '12 \[DOGMATIC PARTY case of Angelo\]**     |                                                    |
+| 2013年8月17日・18日 | **INTER PLAY MEMBERS PRESENTS '13 \[DOGMATIC PARTY case of Angelo\]**     |                                                    |
+| 2014年7月30日・31日 | **INTER PLAY MEMBERS PRESENTS '14 \[DOGMATIC PARTY case of Angelo\]**     | [Zepp DiverCity Tokyo](../Page/Zepp.md "wikilink") |
+| 2015年8月6日・7日   | **INTER PLAY MEMBERS PRESENTS '15 \[DOGMATIC PARTY case of Angelo\]**     |                                                    |
+| 2017年7月28日・29日 | **INTER PLAY MEMBERS PRESENTS '17 \[DOGMATIC PARTY case of Angelo\]**     |                                                    |
+| 2018年7月27日・28日 | **INTER PLAY MEMBERS PRESENTS '18 「DOGMATIC PARTY - PLACE A TRAP-」**      |                                                    |
+| 2019年7月26日・27日 | **INTER PLAY MEMBERS PRESENTS '19 「DOGMATIC PARTY -Metastasis-」**         |                                                    |
 
 ### THE INTERSECTION OF DOGMA
 
@@ -1201,8 +1201,8 @@
 | 日程         | 出演者                                                                                                                                                                                                                                                                        | 会場                   |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
 | 2012年8月17日 | [girugamesh](https://ja.wikipedia.org/wiki/girugamesh "wikilink")・[lynch.](https://ja.wikipedia.org/wiki/lynch. "wikilink")・[MERRY](../Page/MERRY.md "wikilink")・[Sadie](https://ja.wikipedia.org/wiki/Sadie "wikilink")・Angelo                                            | SHIBUYA-AX           |
-| 2013年8月16日 | [heidi.](https://ja.wikipedia.org/wiki/heidi. "wikilink")・[INORAN](https://ja.wikipedia.org/wiki/INORAN "wikilink")・lynch.・[MUCC](../Page/MUCC.md "wikilink")・Angelo                                                                                                       |                      |
-| 2014年7月29日 | [D'espairsRay](../Page/D'espairsRay.md "wikilink")・[FAKE?](https://ja.wikipedia.org/wiki/FAKE? "wikilink")・lynch.・[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")・Angelo                                                                                             | Zepp DiverCity Tokyo |
+| 2013年8月16日 | [heidi.](https://ja.wikipedia.org/wiki/heidi. "wikilink")・[INORAN](../Page/INORAN.md "wikilink")・lynch.・[MUCC](../Page/MUCC.md "wikilink")・Angelo                                                                                                                          |                      |
+| 2014年7月29日 | [D'espairsRay](../Page/D'espairsRay.md "wikilink")・[FAKE?](../Page/FAKE?.md "wikilink")・lynch.・[RIZE](../Page/RIZE.md "wikilink")・Angelo                                                                                                                                   | Zepp DiverCity Tokyo |
 | 2015年8月5日  | [D'ERLANGER](../Page/D'ERLANGER.md "wikilink")・[cali≠gari](https://ja.wikipedia.org/wiki/cali≠gari "wikilink")・lynch.・[DIAURA](https://ja.wikipedia.org/wiki/DIAURA "wikilink")・Angelo                                                                                     |                      |
 | 2017年7月27日 | [minus(-)](https://ja.wikipedia.org/wiki/minus\(-\) "wikilink")・[MEJIBRAY](https://ja.wikipedia.org/wiki/MEJIBRAY "wikilink")・[NOCTURNAL BLOODLUST](https://ja.wikipedia.org/wiki/NOCTURNAL_BLOODLUST "wikilink")・[A9](https://ja.wikipedia.org/wiki/A9 "wikilink")・Angelo |                      |
 

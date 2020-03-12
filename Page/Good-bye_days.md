@@ -1,11 +1,11 @@
 > この記事は[Good-bye days](https://ja.wikipedia.org/wiki/Good-bye_days)から翻訳されています。
 
 
-『**Good-bye days**』（グッバイ デイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[YUIが](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")**YUI for 雨音薫**名義で[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月14日](../Page/6月14日.md "wikilink")に[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")からリリースした5作目のシングル。キャッチコピーは「映画『タイヨウのうた』主題歌」。
+『**Good-bye days**』（グッバイ デイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[YUIが](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")**YUI for 雨音薫**名義で[2006年](../Page/2006年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink")に[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")からリリースした5作目のシングル。キャッチコピーは「映画『タイヨウのうた』主題歌」。
 
 ## 概要
 
-[オリコンで週間シングルチャート初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3位を記録し自身最高位更新を果たした。デイリーランキングでは、初登場してから、4日後に初の1位を3日続けて獲得。ウィークリーランキングでは10位以内を連続6週キープ。映画と共にロングヒットを果たした。映画においては中規模公開の映画としては異例の興行収入10億を突破する大ヒットとなった。そして、この『Good-bye days』においては20万枚を超えるスマッシュヒットとなった。YUIのシングル作品では最大の売上を記録している。
+[オリコンで週間シングルチャート初登場](../Page/オリコンチャート.md "wikilink")3位を記録し自身最高位更新を果たした。デイリーランキングでは、初登場してから、4日後に初の1位を3日続けて獲得。ウィークリーランキングでは10位以内を連続6週キープ。映画と共にロングヒットを果たした。映画においては中規模公開の映画としては異例の興行収入10億を突破する大ヒットとなった。そして、この『Good-bye days』においては20万枚を超えるスマッシュヒットとなった。YUIのシングル作品では最大の売上を記録している。
 
 今までの[シングル](../Page/シングル.md "wikilink")は全て（1stシングル「[feel my soul](https://ja.wikipedia.org/wiki/feel_my_soul "wikilink")」は除いて）新曲2曲・前シングル曲のアコースティックバージョン・インストの4曲で構成されていたが、本作には新曲が3曲収録されたため前作『TOKYO』のアコースティックバージョンは収録されなかった。なお、今でも『TOKYO』のアコースティックバージョンは[音源](../Page/音源.md "wikilink")化されていない。
 

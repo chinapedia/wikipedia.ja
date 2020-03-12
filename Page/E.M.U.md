@@ -1,21 +1,21 @@
 > この記事は[E.M.U](https://ja.wikipedia.org/wiki/E.M.U)から翻訳されています。
 
 
-**E.M.U**（えむ）は、[緑川光](../Page/緑川光.md "wikilink")・[神奈延年](https://ja.wikipedia.org/wiki/神奈延年 "wikilink")（当時は「林延年」）・[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")・[石川英郎](../Page/石川英郎.md "wikilink")・[阪口大助](../Page/阪口大助.md "wikilink")の5人による[声優ユニット](../Page/声優ユニット.md "wikilink")。
+**E.M.U**（えむ）は、[緑川光](../Page/緑川光.md "wikilink")・[神奈延年](../Page/神奈延年.md "wikilink")（当時は「林延年」）・[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")・[石川英郎](../Page/石川英郎.md "wikilink")・[阪口大助](../Page/阪口大助.md "wikilink")の5人による[声優ユニット](../Page/声優ユニット.md "wikilink")。
 
 ## 概要
 
-「Entertainment Music Unit」の略で、[有栖川ケイ](https://ja.wikipedia.org/wiki/有栖川ケイ "wikilink")原作による[少女漫画](../Page/少女漫画.md "wikilink")「[卒業M](../Page/卒業M.md "wikilink")」の[声優](../Page/声優.md "wikilink")で構成するボーカルグループ。キャラクターソングとしてリリースした作品は『卒業M（M）』名義とされる。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に結成され、CDリリースの他、[ライブ](https://ja.wikipedia.org/wiki/演奏会 "wikilink")、[イベント](../Page/イベント.md "wikilink")、[ラジオ](../Page/ラジオ.md "wikilink")の[パーソナリティなど](../Page/ラジオパーソナリティ.md "wikilink")[メディアミックス](../Page/メディアミックス.md "wikilink")展開し、[2000年](../Page/2000年.md "wikilink")の作品終了と同時に解散した。
+「Entertainment Music Unit」の略で、[有栖川ケイ](https://ja.wikipedia.org/wiki/有栖川ケイ "wikilink")原作による[少女漫画](../Page/少女漫画.md "wikilink")「[卒業M](../Page/卒業M.md "wikilink")」の[声優](../Page/声優.md "wikilink")で構成するボーカルグループ。キャラクターソングとしてリリースした作品は『卒業M（M）』名義とされる。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に結成され、CDリリースの他、[ライブ](../Page/演奏会.md "wikilink")、[イベント](../Page/イベント.md "wikilink")、[ラジオ](../Page/ラジオ.md "wikilink")の[パーソナリティなど](../Page/ラジオパーソナリティ.md "wikilink")[メディアミックス](../Page/メディアミックス.md "wikilink")展開し、[2000年](../Page/2000年.md "wikilink")の作品終了と同時に解散した。
 
-「卒業M」のキャラクター5人が[バンドを組むという初期設定があったため](../Page/バンド_\(音楽\).md "wikilink")、1stライブでは各キャラクターが担当する[楽器](../Page/楽器.md "wikilink")で演奏している。しかし、ライブでの[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")は全てアテ振りで、実際に演奏はしていなかった事を後に明かしている。担当楽器は緑川が[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、置鮎・神奈が[ギター](../Page/ギター.md "wikilink")、石川が[ドラム](../Page/ドラムセット.md "wikilink")、阪口が[キーボードである](../Page/キーボード_\(楽器\).md "wikilink")。なお、バンド内ではキャラクターと同様に置鮎が名目上[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")となっていたが、実際はバンド経験のある神奈がリードしていた。
+「卒業M」のキャラクター5人が[バンドを組むという初期設定があったため](../Page/バンド_\(音楽\).md "wikilink")、1stライブでは各キャラクターが担当する[楽器](../Page/楽器.md "wikilink")で演奏している。しかし、ライブでの[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")は全てアテ振りで、実際に演奏はしていなかった事を後に明かしている。担当楽器は緑川が[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、置鮎・神奈が[ギター](../Page/ギター.md "wikilink")、石川が[ドラム](../Page/ドラムセット.md "wikilink")、阪口が[キーボードである](../Page/キーボード_\(楽器\).md "wikilink")。なお、バンド内ではキャラクターと同様に置鮎が名目上[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")となっていたが、実際はバンド経験のある神奈がリードしていた。
 
-初期のライブでは5人が[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")のように振りつきで[歌](../Page/歌.md "wikilink")を披露していた。[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")のレッスン後、メンバー達は[ファミレス](https://ja.wikipedia.org/wiki/ファミレス "wikilink")でレッスン中に撮影した自分たちのダンスを見て、互いに[アドバイス](https://ja.wikipedia.org/wiki/アドバイス "wikilink")をしていたという。ちなみに、ダンスは[ジャニーズ](../Page/ジャニーズ.md "wikilink")の指導も担当した人物による本格的なものだった\[1\]。しかし、メンバーの[レベル](https://ja.wikipedia.org/wiki/レベル "wikilink")に合わせるため、振り付けが徐々に簡単になっていったと後にメンバーによって語られている。\[2\]
+初期のライブでは5人が[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")のように振りつきで[歌](../Page/歌.md "wikilink")を披露していた。[ダンス](../Page/ダンス.md "wikilink")のレッスン後、メンバー達は[ファミレス](https://ja.wikipedia.org/wiki/ファミレス "wikilink")でレッスン中に撮影した自分たちのダンスを見て、互いに[アドバイス](https://ja.wikipedia.org/wiki/アドバイス "wikilink")をしていたという。ちなみに、ダンスは[ジャニーズ](../Page/ジャニーズ.md "wikilink")の指導も担当した人物による本格的なものだった\[1\]。しかし、メンバーの[レベル](../Page/レベル.md "wikilink")に合わせるため、振り付けが徐々に簡単になっていったと後にメンバーによって語られている。\[2\]
 
-メンバー全員の所属事務所が[青二プロダクション](https://ja.wikipedia.org/wiki/青二プロダクション "wikilink")ということもあってか、メンバー同士の仲は良く、特に最年少の阪口は[マスコット](https://ja.wikipedia.org/wiki/マスコット "wikilink")（おもちゃ?）としてメンバーに可愛がられた。また、グループ内では緑川が「ボケ大王」と呼ばれるほどボケ[キャラとして活躍](https://ja.wikipedia.org/wiki/キャラ_\(コミュニケーション\) "wikilink")\[3\]。グループ内の内輪ネタを数多く生み出した張本人でもある事等が、当時のラジオ番組や多数のインタビュー記事からも伺える。
+メンバー全員の所属事務所が[青二プロダクション](../Page/青二プロダクション.md "wikilink")ということもあってか、メンバー同士の仲は良く、特に最年少の阪口は[マスコット](../Page/マスコット.md "wikilink")（おもちゃ?）としてメンバーに可愛がられた。また、グループ内では緑川が「ボケ大王」と呼ばれるほどボケ[キャラとして活躍](https://ja.wikipedia.org/wiki/キャラ_\(コミュニケーション\) "wikilink")\[3\]。グループ内の内輪ネタを数多く生み出した張本人でもある事等が、当時のラジオ番組や多数のインタビュー記事からも伺える。
 
 解散後も緑川・神奈（林）は「零・不死鳥」、置鮎・石川は他の仲のいい声優と「Tea-Cups」というユニットを組んだり、個人のイベントにゲストとして招かれたりしているようである。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")の[神奈延年](https://ja.wikipedia.org/wiki/神奈延年 "wikilink")単独ライブツアー『NOBUTOSHI CANNA Live 2008 〜イケてる☆のぶキック\!\!〜』東京公演にて、シークレットゲストとしてメンバー全員が登場した。解散後、5人全員が揃ってファンの前に立ったのはこれが初となった。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")の[神奈延年](../Page/神奈延年.md "wikilink")単独ライブツアー『NOBUTOSHI CANNA Live 2008 〜イケてる☆のぶキック\!\!〜』東京公演にて、シークレットゲストとしてメンバー全員が登場した。解散後、5人全員が揃ってファンの前に立ったのはこれが初となった。
 
 ## 作品
 

@@ -11,7 +11,7 @@
 
 2006-07シーズンはプレミアリーグに復帰したが、最下位で降格した。
 
-2012年6月、イタリア人実業家の[ジャンパオロ・ポッツォ](https://ja.wikipedia.org/wiki/ジャンパオロ・ポッツォ "wikilink")によって買収された。ポッツォは新監督に[ジャンフランコ・ゾラ](https://ja.wikipedia.org/wiki/ジャンフランコ・ゾラ "wikilink")を招聘し、ポッツォがオーナーを務める[ウディネーゼや](https://ja.wikipedia.org/wiki/ウディネーゼ・カルチョ "wikilink")[グラナダからレンタル移籍で選手補強を行っている](https://ja.wikipedia.org/wiki/グラナダCF "wikilink")。
+2012年6月、イタリア人実業家の[ジャンパオロ・ポッツォ](https://ja.wikipedia.org/wiki/ジャンパオロ・ポッツォ "wikilink")によって買収された。ポッツォは新監督に[ジャンフランコ・ゾラ](../Page/ジャンフランコ・ゾラ.md "wikilink")を招聘し、ポッツォがオーナーを務める[ウディネーゼや](../Page/ウディネーゼ・カルチョ.md "wikilink")[グラナダからレンタル移籍で選手補強を行っている](https://ja.wikipedia.org/wiki/グラナダCF "wikilink")。
 
 2017-18シーズン、現役時代は[ポルトガル](../Page/ポルトガル.md "wikilink")で活躍した[マルコ・シウバ](https://ja.wikipedia.org/wiki/マルコ・シウバ "wikilink")を監督に置き、移籍市場では[バルセロナから](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")[ジェラール・デウロフェウ](https://ja.wikipedia.org/wiki/ジェラール・デウロフェウ "wikilink")を、[バーンリーFC](../Page/バーンリーFC.md "wikilink")から[アンドレ・グレイ](https://ja.wikipedia.org/wiki/アンドレ・グレイ "wikilink")、他にも[リシャルリソンや](https://ja.wikipedia.org/wiki/リシャルリソン・デ・アンドラーデ "wikilink")[キコ・フェメニアを獲得した](https://ja.wikipedia.org/wiki/フランシスコ・フェメニア "wikilink")。
 

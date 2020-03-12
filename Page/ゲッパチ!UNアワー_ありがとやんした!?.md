@@ -5,9 +5,9 @@
 
 ## 番組概要
 
-人気番組だった『[ウッチャンナンチャンのやるならやらねば\!](https://ja.wikipedia.org/wiki/ウッチャンナンチャンのやるならやらねば! "wikilink")』が事故で打ち切られてから久々にスタートした[ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。スタッフは『やるやら』と同様に「吉田班」が参加。番組タイトルの「ありがとやんした」は、[マセキ芸能社](../Page/マセキ芸能社.md "wikilink")社長の口癖に由来する。
+人気番組だった『[ウッチャンナンチャンのやるならやらねば\!](../Page/ウッチャンナンチャンのやるならやらねば!.md "wikilink")』が事故で打ち切られてから久々にスタートした[ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。スタッフは『やるやら』と同様に「吉田班」が参加。番組タイトルの「ありがとやんした」は、[マセキ芸能社](../Page/マセキ芸能社.md "wikilink")社長の口癖に由来する。
 
-番組開始当初は『[欽ドン\!](https://ja.wikipedia.org/wiki/欽ドン! "wikilink")』のような投稿ネタを紹介する内容だったが、この路線はすぐに変更された。また、前期では録画放送だったが、後期では[コント](../Page/コント.md "wikilink")や企画が大半を占めるようになり、スタジオから[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")することもあった。最終回では、ショートコントライブが行われた。
+番組開始当初は『[欽ドン\!](../Page/欽ドン!.md "wikilink")』のような投稿ネタを紹介する内容だったが、この路線はすぐに変更された。また、前期では録画放送だったが、後期では[コント](../Page/コント.md "wikilink")や企画が大半を占めるようになり、スタジオから[生放送](../Page/生放送.md "wikilink")することもあった。最終回では、ショートコントライブが行われた。
 
 また、番組のオフレコ時に[勝俣州和](../Page/勝俣州和.md "wikilink")が南原の出身地である[香川県](../Page/香川県.md "wikilink")を扱き下ろしたことで南原と小競り合いになってしまい、その後しばらく番組内で勝俣が「うどんと野球しかない」「[四国](../Page/四国.md "wikilink")四県の中で唯一、最後まで名前が出てこない」などと香川県を散々馬鹿にして南原を怒らせ、さらには[ヒロミ](../Page/ヒロミ.md "wikilink")や[松崎しげる](https://ja.wikipedia.org/wiki/松崎しげる "wikilink")などの芸能人までも巻き込んだ挙句、しまいには勝俣が南原の実家まで押しけるという形で、香川県を世間にアピールする企画が展開されたことがある（後の番組における南原と勝俣の関係から考えても、最初の小競り合いから全てがこの企画のために仕込まれたネタであったと思われる）。
 
@@ -21,7 +21,7 @@
     視聴者からの有名人への質問ハガキを読み、その答えをウンナンがものまねで演じる。
   - 世紀末ニュース→世紀末ニュースDX オトせるモンならオトしてごらん\!\!
     現在起こっているニュースが1年後、世紀末にはどうなっているかを3段オチでボケるコーナー。当初内村が毎週1本ずつ自分でネタを投稿して自分で紹介しており（その際の住所は自身の出身地である[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")[人吉市](../Page/人吉市.md "wikilink")）、内村の名前が出るたびに南原が呆れるのがお約束だった。
-    現役アナウンサーの近藤以外がニュースを読み上げる際にやたらと噛んでネタを台無しにしてしまうことが多く、ついにはウンナンの師匠である[内海好江](https://ja.wikipedia.org/wiki/内海好江 "wikilink")をはじめ3人の審査員を置いたうえ特設セットを組んで、噛んだ場合は真下の氷水プールへ突き落すという、最初とは趣旨が全然異なる大仕掛けのコーナーになってしまった。
+    現役アナウンサーの近藤以外がニュースを読み上げる際にやたらと噛んでネタを台無しにしてしまうことが多く、ついにはウンナンの師匠である[内海好江](../Page/内海好江.md "wikilink")をはじめ3人の審査員を置いたうえ特設セットを組んで、噛んだ場合は真下の氷水プールへ突き落すという、最初とは趣旨が全然異なる大仕掛けのコーナーになってしまった。
   - アキラの社長\!いいもんもってんね
     南原粉する大物俳優「中王彬」と内村アナウンサーが社長さんのお宅を訪問するコーナー、南原に内緒で本物の[中尾彬](../Page/中尾彬.md "wikilink")が登場した事もある。このコーナーを機に中尾がバラエティ進出をする切っ掛けになり、一気にバラエティ番組の常連となった。
   - 私が知ってるあそこの話
@@ -33,12 +33,12 @@
   - アイドル戦士チバムーン
     『[美少女戦士セーラームーン](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン "wikilink")』のパロディだが、その内容はチバムーン（千葉麗子）が先輩セーラー戦士ハネムーン（内村光良）から決めポーズの特訓を受けさせられるというもの。本家の原作者の[武内直子](../Page/武内直子.md "wikilink")と[放送局と](../Page/テレビ朝日.md "wikilink")[東映動画に許可無く無断でパロディ化した為にクレームが付いた為か](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")\[1\]、5回で打ち切られた。[原久美子](../Page/原久美子.md "wikilink")（クミムーン）と当時まだ無名だった[光浦靖子](https://ja.wikipedia.org/wiki/光浦靖子 "wikilink")（ヤスムーン）がこのコントのみレギュラー出演。
   - LIGHT HEAD
-    当時深夜に放送されていたドラマ『[NIGHT HEAD](https://ja.wikipedia.org/wiki/NIGHT_HEAD "wikilink")』のパロディ。
+    当時深夜に放送されていたドラマ『[NIGHT HEAD](../Page/NIGHT_HEAD.md "wikilink")』のパロディ。
 
 ### 後期の主なコーナー
 
   - UN'z STORY
-    自称UNの友達の松木隆（南原清隆）と稲田研二（内村光良）の2人組デュオUN'z（アンズ）の上京からデビューを追っていくコーナー。なお、UN'zは[B'z](../Page/B'z.md "wikilink")と[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")のパロディを掛け合わせたキャラである。実際にUN'zとしてCDを発売したほか、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』にも出演した。
+    自称UNの友達の松木隆（南原清隆）と稲田研二（内村光良）の2人組デュオUN'z（アンズ）の上京からデビューを追っていくコーナー。なお、UN'zは[B'z](../Page/B'z.md "wikilink")と[WANDS](../Page/WANDS.md "wikilink")のパロディを掛け合わせたキャラである。実際にUN'zとしてCDを発売したほか、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』にも出演した。
   - 南原（みなみはら）パンツ郎のパンツ大作戦
     初出は、『やるならやらねば』のコント。下着を履いたまま競泳パンツに履き替えることで、小学校の水泳授業の際に小学生により広く行われていた。これを南原が、いかにスムーズに履き替えられるかにチャレンジしていた。生放送の際もこれにチャレンジしたが失敗し、南原の睾丸を露出してしまうハプニングが起きた（カメラワークの巧みな切り替えによって映ってはいない）。
   - 内村対南原 男の真剣勝負
@@ -48,20 +48,20 @@
 <!-- end list -->
 
   - 最終回ウッチャンがどぅしてもやりたかったこと
-    おバカ王子チムラン（内村）が巻き起こすドタバタコントに当時売り出し中だった[吉野公佳](https://ja.wikipedia.org/wiki/吉野公佳 "wikilink")も出演している。『やるならやらねば』のコント、『コケる男』のリメイク。
+    おバカ王子チムラン（内村）が巻き起こすドタバタコントに当時売り出し中だった[吉野公佳](../Page/吉野公佳.md "wikilink")も出演している。『やるならやらねば』のコント、『コケる男』のリメイク。
 
 ## 出演者
 
   - [ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")（[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink") [南原清隆](../Page/南原清隆.md "wikilink")）**MC**
   - [ホンジャマカ](../Page/ホンジャマカ.md "wikilink")
   - [バカルディ](../Page/さまぁ〜ず.md "wikilink")
-  - [フォークダンスDE成子坂](https://ja.wikipedia.org/wiki/フォークダンスDE成子坂 "wikilink")
+  - [フォークダンスDE成子坂](../Page/フォークダンスDE成子坂.md "wikilink")
   - [勝俣州和](../Page/勝俣州和.md "wikilink")
-  - [神田利則](https://ja.wikipedia.org/wiki/神田利則 "wikilink")
+  - [神田利則](../Page/神田利則.md "wikilink")
   - [中尾彬](../Page/中尾彬.md "wikilink")
   - [片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")
-  - [高橋里華](https://ja.wikipedia.org/wiki/高橋里華 "wikilink")
-  - [千葉麗子](https://ja.wikipedia.org/wiki/千葉麗子 "wikilink")
+  - [高橋里華](../Page/高橋里華.md "wikilink")
+  - [千葉麗子](../Page/千葉麗子.md "wikilink")
   - [沖本富美代](https://ja.wikipedia.org/wiki/沖本富美代 "wikilink")
   - [鈴木聖子](https://ja.wikipedia.org/wiki/鈴木聖子 "wikilink")
   - [吉原貴和子](https://ja.wikipedia.org/wiki/吉原貴和子 "wikilink")
@@ -71,24 +71,24 @@
 
 ## スタッフ
 
-  - 構成：[廣岡豊](https://ja.wikipedia.org/wiki/廣岡豊 "wikilink")、[清水東](https://ja.wikipedia.org/wiki/清水東 "wikilink")、[城戸口寛](https://ja.wikipedia.org/wiki/城戸口寛 "wikilink")、[舘川範雄](../Page/舘川範雄.md "wikilink")、[内村宏幸](../Page/内村宏幸.md "wikilink")、[伊藤正宏](https://ja.wikipedia.org/wiki/伊藤正宏 "wikilink")・[川野孝弘](https://ja.wikipedia.org/wiki/川野孝弘 "wikilink")、[高橋裕幸](../Page/元祖爆笑王.md "wikilink")、[白崎和彦](https://ja.wikipedia.org/wiki/白崎和彦 "wikilink")、[鈴木淳](https://ja.wikipedia.org/wiki/鈴木工務店_\(放送作家\) "wikilink")、[野呂映志郎](https://ja.wikipedia.org/wiki/野呂エイシロウ "wikilink")、[渡辺真也](https://ja.wikipedia.org/wiki/渡辺真也_\(放送作家\) "wikilink") / [内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")、[南原清隆](../Page/南原清隆.md "wikilink")
+  - 構成：[廣岡豊](https://ja.wikipedia.org/wiki/廣岡豊 "wikilink")、[清水東](https://ja.wikipedia.org/wiki/清水東 "wikilink")、[城戸口寛](https://ja.wikipedia.org/wiki/城戸口寛 "wikilink")、[舘川範雄](../Page/舘川範雄.md "wikilink")、[内村宏幸](../Page/内村宏幸.md "wikilink")、[伊藤正宏](../Page/伊藤正宏.md "wikilink")・[川野孝弘](https://ja.wikipedia.org/wiki/川野孝弘 "wikilink")、[高橋裕幸](../Page/元祖爆笑王.md "wikilink")、[白崎和彦](https://ja.wikipedia.org/wiki/白崎和彦 "wikilink")、[鈴木淳](https://ja.wikipedia.org/wiki/鈴木工務店_\(放送作家\) "wikilink")、[野呂映志郎](../Page/野呂エイシロウ.md "wikilink")、[渡辺真也](https://ja.wikipedia.org/wiki/渡辺真也_\(放送作家\) "wikilink") / [内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")、[南原清隆](../Page/南原清隆.md "wikilink")
   - 美術制作：石鍋伸一朗
   - デザイン：石森慎司
   - 美術進行：伊藤則緒、石川利久
 
 <!-- end list -->
 
-  - 音響効果：[志田博英](https://ja.wikipedia.org/wiki/志田博英 "wikilink")、笠松広司（[O.C.B](https://ja.wikipedia.org/wiki/OCBプロ "wikilink")）
+  - 音響効果：[志田博英](../Page/志田博英.md "wikilink")、笠松広司（[O.C.B](../Page/OCBプロ.md "wikilink")）
   - 編集：二宮嘉郎・林雅之・飯星岳（[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")）、中根敏晶（[パッチワーク](../Page/パッチワーク_\(ポストプロダクション\).md "wikilink")）
   - MA：円城寺暁（IMAGICA）
-  - 音楽：[羽毛田丈史](https://ja.wikipedia.org/wiki/羽毛田丈史 "wikilink")
+  - 音楽：[羽毛田丈史](../Page/羽毛田丈史.md "wikilink")
   - スキャニメイト：後藤和夫（IMAGICA）
   - ペイント：菊池大介（IMAGICA）
   - TK：山口美香、石原由季
-  - 技術協力：[ニユーテレス](https://ja.wikipedia.org/wiki/ニユーテレス "wikilink")
+  - 技術協力：[ニユーテレス](../Page/ニユーテレス.md "wikilink")
   - 制作協力：[マセキ芸能社](../Page/マセキ芸能社.md "wikilink")
-  - ディレクター：[永峰明](https://ja.wikipedia.org/wiki/永峰明 "wikilink")、[片岡飛鳥](https://ja.wikipedia.org/wiki/片岡飛鳥 "wikilink")、[佐久間茂](https://ja.wikipedia.org/wiki/佐久間茂 "wikilink")、北村要
-  - プロデューサー：[吉田正樹](https://ja.wikipedia.org/wiki/吉田正樹 "wikilink")
+  - ディレクター：[永峰明](https://ja.wikipedia.org/wiki/永峰明 "wikilink")、[片岡飛鳥](../Page/片岡飛鳥.md "wikilink")、[佐久間茂](https://ja.wikipedia.org/wiki/佐久間茂 "wikilink")、北村要
+  - プロデューサー：[吉田正樹](../Page/吉田正樹.md "wikilink")
   - 制作：フジテレビ第二制作部（現バラエティ制作センター）
   - 制作著作：[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
 

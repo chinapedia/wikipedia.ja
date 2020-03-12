@@ -93,11 +93,11 @@
   - [望月淳](../Page/望月淳.md "wikilink")
   - [赤谷信之](https://ja.wikipedia.org/wiki/赤谷信之 "wikilink")
   - [八木一夫](https://ja.wikipedia.org/wiki/八木一夫 "wikilink")
-  - [林家しん平](https://ja.wikipedia.org/wiki/林家しん平 "wikilink")
+  - [林家しん平](../Page/林家しん平.md "wikilink")
   - [千田孝一](https://ja.wikipedia.org/wiki/千田孝一 "wikilink")
   - [今井一彦](https://ja.wikipedia.org/wiki/今井一彦 "wikilink")
-  - [きくち英一](https://ja.wikipedia.org/wiki/きくち英一 "wikilink")
-  - [螢雪次朗](https://ja.wikipedia.org/wiki/螢雪次朗 "wikilink")
+  - [きくち英一](../Page/きくち英一.md "wikilink")
+  - [螢雪次朗](../Page/螢雪次朗.md "wikilink")
 
 ## エピソードリスト
 
@@ -143,7 +143,7 @@
   - [星間特捜アサルトライザー](../Page/星間特捜アサルトライザー.md "wikilink")
   - [アサルトキッズ鉄腕ルナ](https://ja.wikipedia.org/wiki/アサルトキッズ鉄腕ルナ "wikilink")
   - [ZENピクチャーズ](https://ja.wikipedia.org/wiki/ZENピクチャーズ "wikilink")
-  - [ガメラ4 真実](https://ja.wikipedia.org/wiki/ガメラ4_真実 "wikilink")
+  - [ガメラ4 真実](../Page/ガメラ4_真実.md "wikilink")
   - [深海獣レイゴー](https://ja.wikipedia.org/wiki/深海獣レイゴー "wikilink")
   - [深海獣雷牙](https://ja.wikipedia.org/wiki/深海獣雷牙 "wikilink")
 

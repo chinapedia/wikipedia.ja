@@ -1,7 +1,7 @@
 > この記事は[For You \(\)](https://ja.wikipedia.org/wiki/For_You_\(\))から翻訳されています。
 
 
-『**For You**』（フォー・ユー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")から[3月20日](../Page/3月20日.md "wikilink")まで毎週月曜日21:00 ‐21:54に[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[月9](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")。平均視聴率21.5％。
+『**For You**』（フォー・ユー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")から[3月20日](../Page/3月20日.md "wikilink")まで毎週月曜日21:00 ‐21:54に[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[月9](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[中山美穂](../Page/中山美穂.md "wikilink")。平均視聴率21.5％。
 
 ## 概要
 
@@ -9,37 +9,37 @@
 
 ## キャスト
 
-  - 吉倉弥生：[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")
-  - 三矢徹：[高橋克典](https://ja.wikipedia.org/wiki/高橋克典 "wikilink")
+  - 吉倉弥生：[中山美穂](../Page/中山美穂.md "wikilink")
+  - 三矢徹：[高橋克典](../Page/高橋克典.md "wikilink")
   - 碓井幸子：[森口博子](../Page/森口博子.md "wikilink")
   - 沢木宙：[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）
   - 吉倉徹：[明石亮太朗](https://ja.wikipedia.org/wiki/明石亮太朗 "wikilink")
-  - 豊原孝：[神保悟志](https://ja.wikipedia.org/wiki/神保悟志 "wikilink")
-  - 高邑義一：[平泉成](https://ja.wikipedia.org/wiki/平泉成 "wikilink")
+  - 豊原孝：[神保悟志](../Page/神保悟志.md "wikilink")
+  - 高邑義一：[平泉成](../Page/平泉成.md "wikilink")
   - 高邑静子：[長内美那子](../Page/長内美那子.md "wikilink")
-  - 藤崎鞠子：[高橋里華](https://ja.wikipedia.org/wiki/高橋里華 "wikilink")
-  - 松井社長：[日野陽仁](https://ja.wikipedia.org/wiki/日野陽仁 "wikilink")
+  - 藤崎鞠子：[高橋里華](../Page/高橋里華.md "wikilink")
+  - 松井社長：[日野陽仁](../Page/日野陽仁.md "wikilink")
   - 八木竜太：[尾形竜太](https://ja.wikipedia.org/wiki/尾形竜太 "wikilink")
   - 坂本舞：[山中恵子](https://ja.wikipedia.org/wiki/山中恵子 "wikilink")
   - 恵子先生：[あらいすみれ](../Page/あらいすみれ.md "wikilink")
   - 河合勝：[うじきつよし](../Page/うじきつよし.md "wikilink")
   - 坂本みゆき：[横山めぐみ](https://ja.wikipedia.org/wiki/横山めぐみ "wikilink")
-  - 小林守男：[高嶋政伸](https://ja.wikipedia.org/wiki/高嶋政伸 "wikilink")
-  - 最終話ゲスト出演：[荒井注](../Page/荒井注.md "wikilink")、[森脇健児](https://ja.wikipedia.org/wiki/森脇健児 "wikilink")
+  - 小林守男：[高嶋政伸](../Page/高嶋政伸.md "wikilink")
+  - 最終話ゲスト出演：[荒井注](../Page/荒井注.md "wikilink")、[森脇健児](../Page/森脇健児.md "wikilink")
 
 ## スタッフ
 
-  - 脚本：[中園ミホ](https://ja.wikipedia.org/wiki/中園ミホ "wikilink")、[小野沢美暁](https://ja.wikipedia.org/wiki/小野沢美暁 "wikilink")
-  - 音楽：[羽毛田丈史](https://ja.wikipedia.org/wiki/羽毛田丈史 "wikilink")
-  - 主題歌：[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")「[HERO](../Page/HERO_\(中山美穂の曲\).md "wikilink")」
-  - 演出：[石坂理江子](https://ja.wikipedia.org/wiki/宮本理江子 "wikilink")、[岩本仁志](https://ja.wikipedia.org/wiki/岩本仁志 "wikilink")、田島大輔
-  - プロデュース：[栗原美和子](https://ja.wikipedia.org/wiki/栗原美和子 "wikilink")
+  - 脚本：[中園ミホ](../Page/中園ミホ.md "wikilink")、[小野沢美暁](https://ja.wikipedia.org/wiki/小野沢美暁 "wikilink")
+  - 音楽：[羽毛田丈史](../Page/羽毛田丈史.md "wikilink")
+  - 主題歌：[中山美穂](../Page/中山美穂.md "wikilink")「[HERO](../Page/HERO_\(中山美穂の曲\).md "wikilink")」
+  - 演出：[石坂理江子](../Page/宮本理江子.md "wikilink")、[岩本仁志](../Page/岩本仁志.md "wikilink")、田島大輔
+  - プロデュース：[栗原美和子](../Page/栗原美和子.md "wikilink")
   - 演出補：天野修敬、[川村泰祐](https://ja.wikipedia.org/wiki/川村泰祐 "wikilink")
   - プロデュース補：小寺尚
   - 助監督：山本一男
   - 制作：青木義章、岩村博幸
   - 制作主任：柿本浩樹
-  - 音楽プロデュース：[志田博英](https://ja.wikipedia.org/wiki/志田博英 "wikilink")
+  - 音楽プロデュース：[志田博英](../Page/志田博英.md "wikilink")
   - 制作著作：フジテレビ
 
 ## 受賞歴

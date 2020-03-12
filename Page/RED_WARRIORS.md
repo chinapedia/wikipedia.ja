@@ -5,10 +5,10 @@
 
 ## 概略
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、元[レベッカのギタリスト](https://ja.wikipedia.org/wiki/レベッカ_\(バンド\) "wikilink")[木暮武彦](../Page/木暮武彦.md "wikilink")と、[田所　豊を中心に結成された](https://ja.wikipedia.org/wiki/DIAMOND☆YUKAI "wikilink")。 バンド名の由来については、1988年発売のムック本「ロックファイル」（宝島社）に「レベッカを追い出された木暮が、50音順でも、アルファベット順でも、レベッカの前後に来るようにライバル心をもってバンド名をつけた」との記載がある。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、元[レベッカのギタリスト](../Page/レベッカ_\(バンド\).md "wikilink")[木暮武彦](../Page/木暮武彦.md "wikilink")と、[田所　豊を中心に結成された](https://ja.wikipedia.org/wiki/DIAMOND☆YUKAI "wikilink")。 バンド名の由来については、1988年発売のムック本「ロックファイル」（宝島社）に「レベッカを追い出された木暮が、50音順でも、アルファベット順でも、レベッカの前後に来るようにライバル心をもってバンド名をつけた」との記載がある。
 
 1989年に一度解散するも、1992年、1996年にそれぞれ一時的な再結成をし、また1999年に再結成してからは完全復活を遂げたが、2003年に活動休止している（あくまでも休止であり解散ではない）。
-その後は2007年と2009年に復活ライヴを行っている。また2015年には[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で行われた肉ロックフェスに出演。2017年にはデビュー30周年記念ライブを[shibuya eggman](https://ja.wikipedia.org/wiki/shibuya_eggman "wikilink")、[大宮ソニックシティ](https://ja.wikipedia.org/wiki/大宮ソニックシティ "wikilink")、[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")で開催。2018年5月27日にはバンド初となる、ファンからの事前リクエスト曲によってセットリストを組んだライブを[東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")で開催。
+その後は2007年と2009年に復活ライヴを行っている。また2015年には[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で行われた肉ロックフェスに出演。2017年にはデビュー30周年記念ライブを[shibuya eggman](https://ja.wikipedia.org/wiki/shibuya_eggman "wikilink")、[大宮ソニックシティ](../Page/大宮ソニックシティ.md "wikilink")、[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")で開催。2018年5月27日にはバンド初となる、ファンからの事前リクエスト曲によってセットリストを組んだライブを[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")で開催。
 
 ## メンバー
 
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - [小川清史](https://ja.wikipedia.org/wiki/小川清史 "wikilink")（おがわ きよし） - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [小川清史](https://ja.wikipedia.org/wiki/小川清史 "wikilink")（おがわ きよし） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 <!-- end list -->
 
@@ -93,7 +93,7 @@
       - 10月20日[Zepp Tokyo](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")、11月3日[nagoya E.L.Lにて一夜限りのライブを行う](https://ja.wikipedia.org/wiki/nagoya_E.L.L "wikilink")。
       - 12月21日、ライブアルバム『LIVE“LESSON21”』リリース。なお、同発のDVDは選曲が異なる。
   - 2009年
-      - 3月1日HEAVEN'S ROCK さいたま新都心VJ-3、3月4日大阪なんばHatch、3月5日[nagoya E.L.L](https://ja.wikipedia.org/wiki/nagoya_E.L.L "wikilink")、3月8日[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")にてライヴ"Lesson 23 〜 R\&R Carnival"を行う。ライヴの最後、去り際にユカイが『また来年！』と発言する。
+      - 3月1日HEAVEN'S ROCK さいたま新都心VJ-3、3月4日大阪なんばHatch、3月5日[nagoya E.L.L](https://ja.wikipedia.org/wiki/nagoya_E.L.L "wikilink")、3月8日[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")にてライヴ"Lesson 23 〜 R\&R Carnival"を行う。ライヴの最後、去り際にユカイが『また来年！』と発言する。
   - 2015年
       - 9月13日（日）、さいたまスーパーアリーナで開催された『肉ロックフェス 2015』にて一夜限りの復活。初期アルバム３作より全１１曲を演奏する。
 
@@ -173,11 +173,11 @@
 ## 関連項目
 
   - [三国義貴](../Page/三国義貴.md "wikilink")…ほぼメインのサポートを努めるキーボーディスト　
-  - [向山テツ](https://ja.wikipedia.org/wiki/向山テツ "wikilink")…ドラマー。『FIRE DROPS』頃より、レコーディングとライブをサポート。　
+  - [向山テツ](../Page/向山テツ.md "wikilink")…ドラマー。『FIRE DROPS』頃より、レコーディングとライブをサポート。　
   - [厚見玲衣](https://ja.wikipedia.org/wiki/厚見玲衣 "wikilink")…キーボーディスト。アルバム『JUPITER TRIBUS』に参加。
-  - [ミッキー吉野](https://ja.wikipedia.org/wiki/ミッキー吉野 "wikilink")…キーボーディスト。初期をサポート。
-  - [湊雅史](https://ja.wikipedia.org/wiki/湊雅史 "wikilink")…ドラマー。アルバム『Re:Works』に参加。ツアーサポートも勤める。
-  - [レベッカ (バンド)](https://ja.wikipedia.org/wiki/レベッカ_\(バンド\) "wikilink")
+  - [ミッキー吉野](../Page/ミッキー吉野.md "wikilink")…キーボーディスト。初期をサポート。
+  - [湊雅史](../Page/湊雅史.md "wikilink")…ドラマー。アルバム『Re:Works』に参加。ツアーサポートも勤める。
+  - [レベッカ (バンド)](../Page/レベッカ_\(バンド\).md "wikilink")
 
 ## 外部リンク
 

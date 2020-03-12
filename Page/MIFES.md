@@ -1,7 +1,7 @@
 > この記事は[MIFES](https://ja.wikipedia.org/wiki/MIFES)から翻訳されています。
 
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:MIFES_DOS_version_screenshot.jpg "wikilink") **MIFES**（**マイフェス**）は、[メガソフト](https://ja.wikipedia.org/wiki/メガソフト "wikilink")株式会社が販売している[テキストエディタ](../Page/テキストエディタ.md "wikilink")である。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")[MS-DOS](../Page/MS-DOS.md "wikilink")用 (MIFES-98) として初めて販売され、[2015年](../Page/2015年.md "wikilink")5月現在、[Windows版](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")版\[1\]（最終更新は2005年のVer.1.03）、[MS-DOS](../Page/MS-DOS.md "wikilink")版\[2\]（[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")版および[PC-9800](https://ja.wikipedia.org/wiki/PC-9800 "wikilink")版、最終更新は1994年のVer.5.5）が販売されているが、開発が継続されているのはWindows版のみである。MIL/W言語と呼ばれる組込の[マクロ言語](../Page/マクロ言語.md "wikilink")を実装しており、柔軟な[カスタマイズ](https://ja.wikipedia.org/wiki/カスタマイズ "wikilink")が可能である。MS-DOSが主体の頃には高速かつ高性能なスクリーンエディタとして。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:MIFES_DOS_version_screenshot.jpg "wikilink") **MIFES**（**マイフェス**）は、[メガソフト](https://ja.wikipedia.org/wiki/メガソフト "wikilink")株式会社が販売している[テキストエディタ](../Page/テキストエディタ.md "wikilink")である。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")[MS-DOS](../Page/MS-DOS.md "wikilink")用 (MIFES-98) として初めて販売され、[2015年](../Page/2015年.md "wikilink")5月現在、[Windows版](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")版\[1\]（最終更新は2005年のVer.1.03）、[MS-DOS](../Page/MS-DOS.md "wikilink")版\[2\]（[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")版および[PC-9800](https://ja.wikipedia.org/wiki/PC-9800 "wikilink")版、最終更新は1994年のVer.5.5）が販売されているが、開発が継続されているのはWindows版のみである。MIL/W言語と呼ばれる組込の[マクロ言語](../Page/マクロ言語.md "wikilink")を実装しており、柔軟な[カスタマイズ](https://ja.wikipedia.org/wiki/カスタマイズ "wikilink")が可能である。MS-DOSが主体の頃には高速かつ高性能なスクリーンエディタとして。
 
 発売当初はソフトウェア開発を目的としたエディタであったが、バージョンアップによって文書作成機能が強化され、バージョン9でCSV編集モード\[3\]、バージョン10でXML編集モード\[4\]が追加された。また[バイナリ](../Page/バイナリ.md "wikilink")編集モード、2GBまでのファイル編集、100個までの同時オープン、それに様々な[文字コード](../Page/文字コード.md "wikilink")に対応している。Windows版のバージョン8ではオンライン[ライセンス認証](https://ja.wikipedia.org/wiki/ライセンス認証 "wikilink")が必要になった。バージョン9ではライセンス条件が変わり、1ライセンスで2台のコンピューターとUSBメモリにインストールできるようになり、ライセンス認証は採用されていない。
 
@@ -39,7 +39,7 @@
 
 ### マクロ
 
-ユーザーの一連のコマンド操作を記録して、[マクロとして登録しておくことができるキーボードマクロ機能を備える](https://ja.wikipedia.org/wiki/マクロ_\(コンピュータ用語\) "wikilink")。マクロは独自の[コンパイル言語MIL](../Page/コンパイラ.md "wikilink")/Wで実装されており、マクロプログラム（マクロソース）はMIFESアプリケーション自体によって自動生成されるほか、ユーザーがマクロソースを記述してライブラリとして登録することもできる。
+ユーザーの一連のコマンド操作を記録して、[マクロとして登録しておくことができるキーボードマクロ機能を備える](../Page/マクロ_\(コンピュータ用語\).md "wikilink")。マクロは独自の[コンパイル言語MIL](../Page/コンパイラ.md "wikilink")/Wで実装されており、マクロプログラム（マクロソース）はMIFESアプリケーション自体によって自動生成されるほか、ユーザーがマクロソースを記述してライブラリとして登録することもできる。
 
 ### バージョン管理ツールとの連携
 
@@ -47,7 +47,7 @@ MIFESバージョン9では、バージョン管理ツールである[Subversion
 
 ### GUIのカスタマイズ
 
-MIFESは標準でタブ[MDI動作をするが](https://ja.wikipedia.org/wiki/Multiple_Document_Interface "wikilink")、オプションで[SDI動作に切り替えることも可能である](https://ja.wikipedia.org/wiki/Single_Document_Interface "wikilink")。
+MIFESは標準でタブ[MDI動作をするが](../Page/Multiple_Document_Interface.md "wikilink")、オプションで[SDI動作に切り替えることも可能である](https://ja.wikipedia.org/wiki/Single_Document_Interface "wikilink")。
 
 [メニューバー](https://ja.wikipedia.org/wiki/メニューバー "wikilink")、[ツールバー](https://ja.wikipedia.org/wiki/ツールバー "wikilink")、[コンテキストメニュー](../Page/コンテキストメニュー.md "wikilink")のカスタマイズはもちろん、画面各部の色やツールバーで使用される[アイコン](../Page/アイコン.md "wikilink")イメージさえもカスタマイズ可能となっている。またユーザーが自由にコマンドを割り当てて使用することができる「ユーザー定義バー」を作成することもできる。
 

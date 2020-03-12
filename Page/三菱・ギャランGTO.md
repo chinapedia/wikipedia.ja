@@ -10,7 +10,7 @@
 ## 歴史（1970年-1977年）A53C/A55C/A57C型
 
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")秋 - ギャランクーペGTX-1の名で[東京モーターショー](../Page/東京モーターショー.md "wikilink")に出展される。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")10月 - コルトギャランGTOの名前で発表および発売。イメージリーダー的グレードの「MR」は同年12月発売。当初は全て[OHC](https://ja.wikipedia.org/wiki/OHC "wikilink")ヘッドを用いた[サターンエンジン（4G32型エンジン）を搭載していた](https://ja.wikipedia.org/wiki/三菱・4G3系エンジン#4G32【旧】 "wikilink")。内、「MR」に限り[DOHC](../Page/DOHC.md "wikilink")ヘッド化されたエンジン（[4G32型](https://ja.wikipedia.org/wiki/三菱・4G3系エンジン#4G32【DOHC】 "wikilink")）を搭載。
+  - [1970年](../Page/1970年.md "wikilink")10月 - コルトギャランGTOの名前で発表および発売。イメージリーダー的グレードの「MR」は同年12月発売。当初は全て[OHC](https://ja.wikipedia.org/wiki/OHC "wikilink")ヘッドを用いた[サターンエンジン（4G32型エンジン）を搭載していた](https://ja.wikipedia.org/wiki/三菱・4G3系エンジン#4G32【旧】 "wikilink")。内、「MR」に限り[DOHC](../Page/DOHC.md "wikilink")ヘッド化されたエンジン（[4G32型](https://ja.wikipedia.org/wiki/三菱・4G3系エンジン#4G32【DOHC】 "wikilink")）を搭載。
   - [1972年](../Page/1972年.md "wikilink")2月 - 排気量を100ccアップしたエンジン（[4G35型](https://ja.wikipedia.org/wiki/三菱・4G3系エンジン "wikilink")[SOHC](../Page/SOHC.md "wikilink")エンジン）を搭載した17Xシリーズとなり、[AT車を追加](../Page/オートマチックトランスミッション.md "wikilink")。これに伴い「MR」を除き1,600ccの4G32型SOHCエンジン搭載車が廃止。
   - 8月 - 昭和48年排出ガス規制により「MR」廃止。高価なMRは835台生産と少数に留まる
   - [1973年](../Page/1973年.md "wikilink")
@@ -22,22 +22,22 @@
       - 10月 - 一部変更。[昭和51年排出ガス規制適合により全車パワーダウンを余儀なくされる](../Page/1976年.md "wikilink")。「1700SL」が4速MTから5速MTに変更され、「1700SL-5」に改称。事実上、トランスミッションが全車、5速MTに統一となる。
   - [1976年](../Page/1976年.md "wikilink")
       - 5月 - 一部変更（仕様変更・安全対策・最終型）。自動車保安基準改正による安全対策の強化のため前後バンパーの側面部分に黒色塩ビ樹脂製のサイドプロテクターが標準で装着される。これに伴いグレードが整理され、「2000GS-5」のみ[カタログ](../Page/カタログ.md "wikilink")落ちとなる。
-      - 昭和53年排出ガス規制に適合出来ず1977年夏、生産終了。全生産台数95720台。　実質的な後継車は[三菱・ギャランΛ](https://ja.wikipedia.org/wiki/三菱・ギャランΛ "wikilink")となる。なお、後の[GTOは](https://ja.wikipedia.org/wiki/三菱・GTO "wikilink")[スタリオンの系譜である](https://ja.wikipedia.org/wiki/三菱・スタリオン "wikilink")。
+      - 昭和53年排出ガス規制に適合出来ず1977年夏、生産終了。全生産台数95720台。　実質的な後継車は[三菱・ギャランΛ](../Page/三菱・ギャランΛ.md "wikilink")となる。なお、後の[GTOは](https://ja.wikipedia.org/wiki/三菱・GTO "wikilink")[スタリオンの系譜である](../Page/三菱・スタリオン.md "wikilink")。
 
 ## 車名の由来
 
-  - GTOは「**G**ran **T**urismo **O**mologato」（イタリア語でGTレース用[ホモロゲーション](https://ja.wikipedia.org/wiki/ホモロゲーション "wikilink")モデル）を意味する。[フェラーリ・250GTO](../Page/フェラーリ・250GTO.md "wikilink")や、[ポンティアック・GTO](../Page/ポンティアック・GTO.md "wikilink")と同じだが、元祖はフェラーリである。
-  - グレード名MRは「**M**itsubishi **R**acing」を意味し、これ以降三菱の最上級スポーツモデル（[三菱・GTO](https://ja.wikipedia.org/wiki/三菱・GTO "wikilink")や[ランサー](https://ja.wikipedia.org/wiki/三菱・ランサー "wikilink")、[ランエボなど](../Page/三菱・ランサーエボリューション.md "wikilink")）に与えられる名称として受け継がれていく。
+  - GTOは「**G**ran **T**urismo **O**mologato」（イタリア語でGTレース用[ホモロゲーション](../Page/ホモロゲーション.md "wikilink")モデル）を意味する。[フェラーリ・250GTO](../Page/フェラーリ・250GTO.md "wikilink")や、[ポンティアック・GTO](../Page/ポンティアック・GTO.md "wikilink")と同じだが、元祖はフェラーリである。
+  - グレード名MRは「**M**itsubishi **R**acing」を意味し、これ以降三菱の最上級スポーツモデル（[三菱・GTO](https://ja.wikipedia.org/wiki/三菱・GTO "wikilink")や[ランサー](../Page/三菱・ランサー.md "wikilink")、[ランエボなど](../Page/三菱・ランサーエボリューション.md "wikilink")）に与えられる名称として受け継がれていく。
 
 ## 関連項目
 
   - [三菱自動車工業](../Page/三菱自動車工業.md "wikilink")
-  - [三菱・ギャラン](https://ja.wikipedia.org/wiki/三菱・ギャラン "wikilink")
+  - [三菱・ギャラン](../Page/三菱・ギャラン.md "wikilink")
   - [三菱・ギャランΣ](https://ja.wikipedia.org/wiki/三菱・ギャランΣ "wikilink")
-  - [三菱・ギャランΛ](https://ja.wikipedia.org/wiki/三菱・ギャランΛ "wikilink")
+  - [三菱・ギャランΛ](../Page/三菱・ギャランΛ.md "wikilink")
   - [三菱・GTO](https://ja.wikipedia.org/wiki/三菱・GTO "wikilink")
-  - [三菱・ギャランクーペFTO](https://ja.wikipedia.org/wiki/三菱・ギャランクーペFTO "wikilink")
-  - [三菱・FTO](https://ja.wikipedia.org/wiki/三菱・FTO "wikilink")
+  - [三菱・ギャランクーペFTO](../Page/三菱・ギャランクーペFTO.md "wikilink")
+  - [三菱・FTO](../Page/三菱・FTO.md "wikilink")
 
 ## 外部リンク
 

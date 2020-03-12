@@ -1,19 +1,19 @@
 > この記事は[Vodafone 902T](https://ja.wikipedia.org/wiki/Vodafone_902T)から翻訳されています。
 
 
-**Vodafone 902T**（ボーダフォン 902T）は、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")が開発した、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）のVodafone 3G（現[SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")）（[W-CDMA](../Page/W-CDMA.md "wikilink")方式）及び[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")方式の携帯電話である。
+**Vodafone 902T**（ボーダフォン 902T）は、[東芝](../Page/東芝.md "wikilink")が開発した、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）のVodafone 3G（現[SoftBank 3G](../Page/SoftBank_3G.md "wikilink")）（[W-CDMA](../Page/W-CDMA.md "wikilink")方式）及び[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")方式の携帯電話である。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月10日にボーダフォンよりプレスリリース、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")6月11日より発売開始した。
+[2005年](../Page/2005年.md "wikilink")3月10日にボーダフォンよりプレスリリース、[2005年](../Page/2005年.md "wikilink")6月11日より発売開始した。
 
 ## 対応サービス
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~                          |
-| ~~[S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")~~                             |
-| [S\!ケータイ動画](https://ja.wikipedia.org/wiki/S!ケータイ動画 "wikilink")                           |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")                                  |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~       |
+| ~~[S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")~~          |
+| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                           |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")               |
 
 ## 特徴
 
@@ -26,7 +26,7 @@
 ## 関連項目
 
   - [ソフトバンクモバイルの端末一覧](https://ja.wikipedia.org/wiki/ソフトバンクモバイルの端末一覧 "wikilink")
-  - [Vodafone 903T](https://ja.wikipedia.org/wiki/Vodafone_903T "wikilink")
+  - [Vodafone 903T](../Page/Vodafone_903T.md "wikilink")
 
 ## 外部リンク
 

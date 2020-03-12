@@ -1,7 +1,7 @@
 > この記事は[NST](https://ja.wikipedia.org/wiki/NST)から翻訳されています。
 
 
-『**NSTスーパーニュース**』（エヌエスティースーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*NST Super NEWS*）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[新潟総合テレビで放送されていた](../Page/NST新潟総合テレビ.md "wikilink")[新潟県](../Page/新潟県.md "wikilink")向け[夕](https://ja.wikipedia.org/wiki/夕 "wikilink")方の[ローカルワイドニュース番組である](../Page/報道番組.md "wikilink")。全国ニュース『[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")』を内包している。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。
+『**NSTスーパーニュース**』（エヌエスティースーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*NST Super NEWS*）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[新潟総合テレビで放送されていた](../Page/NST新潟総合テレビ.md "wikilink")[新潟県](../Page/新潟県.md "wikilink")向け[夕](../Page/夕.md "wikilink")方の[ローカルワイドニュース番組である](../Page/報道番組.md "wikilink")。全国ニュース『[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")』を内包している。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。
 
 ## 放送時間
 
@@ -42,7 +42,7 @@
 
 ### 現在
 
-  - [廣川明美](https://ja.wikipedia.org/wiki/廣川明美 "wikilink")（[2012年](../Page/2012年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")より木曜・金曜のメインキャスター、2013年4月1日より月－金曜のメインキャスター）\[1\]
+  - [廣川明美](../Page/廣川明美.md "wikilink")（[2012年](../Page/2012年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")より木曜・金曜のメインキャスター、2013年4月1日より月－金曜のメインキャスター）\[1\]
   - [堀恭子](../Page/堀恭子.md "wikilink")（平日のお天気キャスター及び土・日曜日担当\[2\]）
   - [横内美紗](https://ja.wikipedia.org/wiki/横内美紗 "wikilink")（平日のお天気キャスター及び土・日曜日担当）
 
@@ -55,17 +55,17 @@
   - [岡田花菜子](../Page/岡田花菜子.md "wikilink")
   - [村山恵美](https://ja.wikipedia.org/wiki/村山恵美 "wikilink")
   - [田中真木子](https://ja.wikipedia.org/wiki/田中真木子 "wikilink")
-  - [大坪幸代](https://ja.wikipedia.org/wiki/大坪幸代 "wikilink")
-  - [長谷川晴彦](https://ja.wikipedia.org/wiki/長谷川晴彦 "wikilink")
+  - [大坪幸代](../Page/大坪幸代.md "wikilink")
+  - [長谷川晴彦](../Page/長谷川晴彦.md "wikilink")
   - [斉藤有希](../Page/斉藤有希.md "wikilink")
-  - [松村道子](https://ja.wikipedia.org/wiki/松村道子 "wikilink")
-  - [斉藤修](https://ja.wikipedia.org/wiki/斉藤修 "wikilink")（2001年[4月2日](../Page/4月2日.md "wikilink")-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")の9年間、メインキャスターを担当）
-  - [中田エミリー](https://ja.wikipedia.org/wiki/中田エミリー "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")-2010年3月26日の2年間は、斉藤修と共にメインキャスターを担当）
-  - [近藤麻智子](https://ja.wikipedia.org/wiki/近藤麻智子 "wikilink")（2010年[3月29日](../Page/3月29日.md "wikilink")-2011年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")の1年間は、メインキャスターを1人で勤めていた。）
+  - [松村道子](../Page/松村道子.md "wikilink")
+  - [斉藤修](../Page/斉藤修.md "wikilink")（2001年[4月2日](../Page/4月2日.md "wikilink")-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")の9年間、メインキャスターを担当）
+  - [中田エミリー](../Page/中田エミリー.md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")-2010年3月26日の2年間は、斉藤修と共にメインキャスターを担当）
+  - [近藤麻智子](../Page/近藤麻智子.md "wikilink")（2010年[3月29日](../Page/3月29日.md "wikilink")-2011年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")の1年間は、メインキャスターを1人で勤めていた。）
   - [梅中悠介](../Page/梅中悠介.md "wikilink")
-  - [鈴木秀喜](https://ja.wikipedia.org/wiki/鈴木秀喜 "wikilink")
+  - [鈴木秀喜](../Page/鈴木秀喜.md "wikilink")
   - [市野瀬瞳](../Page/市野瀬瞳.md "wikilink")
-  - [菊野麻子](https://ja.wikipedia.org/wiki/菊野麻子 "wikilink")（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")・元NSTアナウンサー、2011年3月28日-2012年3月30日に、木曜・金曜の平日サブキャスターを担当）
+  - [菊野麻子](../Page/菊野麻子.md "wikilink")（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")・元NSTアナウンサー、2011年3月28日-2012年3月30日に、木曜・金曜の平日サブキャスターを担当）
   - [村山千代](../Page/村山千代.md "wikilink")（2011年3月28日-2013年[3月27日](../Page/3月27日.md "wikilink")に、月曜・火曜・水曜のメインキャスターを担当）\[3\]
 
 ## タイムテーブル
@@ -105,20 +105,20 @@
 ## 補足
 
   - [1991年](../Page/1991年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")にNSTの放送センターが当時の新潟市上所島の本社に統合されてからは、本番組の土・日のローカル天気予報部分のみはステレオ放送となっている\[4\]。
-  - NSTが地上デジタルのサイマル試験放送を始めた[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")から、本番組は、ハイビジョン制作となっている\[5\]。
+  - NSTが地上デジタルのサイマル試験放送を始めた[2006年](../Page/2006年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")から、本番組は、ハイビジョン制作となっている\[5\]。
   - 重大ニュース発生時は、『FNNスーパーニュース』を16:50（県内は、18:15）からスタート。
   - [中越沖地震](https://ja.wikipedia.org/wiki/中越沖地震 "wikilink")関連の放送を行うため、[2007年](../Page/2007年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")-[7月20日](../Page/7月20日.md "wikilink")に『FNNスーパーニュース』を16:55からネット。
   - 2004年[10月27日](../Page/10月27日.md "wikilink")は、[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")の崖崩れの模様を放送するため16:59-18:48に『FNNスーパーニュース』をネットし18:48より新潟から放送した。
-  - 2008年[9月1日](../Page/9月1日.md "wikilink")は、福田改造内閣のニュースを放送するため、16:53-19:00に途中で県内ニュースを放送し、[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")の18:17-19:00をフルネットした。
-  - 2012年[7月16日](../Page/7月16日.md "wikilink")は、「[野田佳彦](https://ja.wikipedia.org/wiki/野田佳彦 "wikilink")[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")（当時）生対談」FNN28局ネットのため、16:50スタートとなった。
+  - 2008年[9月1日](../Page/9月1日.md "wikilink")は、福田改造内閣のニュースを放送するため、16:53-19:00に途中で県内ニュースを放送し、[関東ローカル](../Page/関東ローカル.md "wikilink")の18:17-19:00をフルネットした。
+  - 2012年[7月16日](../Page/7月16日.md "wikilink")は、「[野田佳彦](../Page/野田佳彦.md "wikilink")[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")（当時）生対談」FNN28局ネットのため、16:50スタートとなった。
   - 2012年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からニュース項目の文字サイズが平日版で小さくなり、週末版のニュース項目の出だしにアニメーションが付いた。
 
 ## NST歴代の夕方ニュース
 
-  - [1981年](../Page/1981年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - [1984年](../Page/1984年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink") 『[NSTワイド630](https://ja.wikipedia.org/wiki/NSTワイド630 "wikilink")』（平日）
+  - [1981年](../Page/1981年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - [1984年](../Page/1984年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink") 『[NSTワイド630](../Page/NSTワイド630.md "wikilink")』（平日）
   - 1984年10月1日 - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")9月28日 『[NSTワイド6:00](../Page/NSTワイド6:00.md "wikilink")』（平日）
   - 1984年[1月21日](../Page/1月21日.md "wikilink") - 2001年9月30日 『[NSTニュースコーナー](https://ja.wikipedia.org/wiki/NSTニュースコーナー "wikilink")』（週末）
-  - 1990年10月1日 - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月28日](../Page/3月28日.md "wikilink") 『[NSTスーパータイム](https://ja.wikipedia.org/wiki/NSTスーパータイム "wikilink")』（平日）
+  - 1990年10月1日 - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月28日](../Page/3月28日.md "wikilink") 『[NSTスーパータイム](../Page/NSTスーパータイム.md "wikilink")』（平日）
   - 1997年3月31日 - 1998年3月27日 『[NSTニュース555 ザ・ヒューマン](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")』（平日）
   - 1998年3月30日 - 2015年3月27日『NSTスーパーニュース』(平日)
   - 2015年3月30日 - 2018年3月30日『[NST みんなのニュース](https://ja.wikipedia.org/wiki/NST_みんなのニュース "wikilink")』(平日)
@@ -140,12 +140,12 @@
 
 ## 関連項目
 
-  - [NST新潟総合テレビ番組一覧](https://ja.wikipedia.org/wiki/NST新潟総合テレビ番組一覧 "wikilink")
+  - [NST新潟総合テレビ番組一覧](../Page/NST新潟総合テレビ番組一覧.md "wikilink")
   - NSTニュース555 ザ・ヒューマン（平日のみ、前番組）
   - [FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")
   - [FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")
   - NSTニュースコーナー（週末のみ、前番組）
-  - [NSTニュース](https://ja.wikipedia.org/wiki/NSTニュース "wikilink")
+  - [NSTニュース](../Page/NSTニュース.md "wikilink")
 
 ## 外部リンク
 

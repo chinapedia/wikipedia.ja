@@ -74,9 +74,9 @@
 </tbody>
 </table>
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Moscow_Parad_2008_Ballist.jpg "wikilink")[モスクワ](https://ja.wikipedia.org/wiki/モスクワ "wikilink")で行われた[軍事パレード](https://ja.wikipedia.org/wiki/軍事パレード "wikilink")での撮影)\]\] **RT-2PM**は[冷戦](../Page/冷戦.md "wikilink")時代に[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")によって開発された[ICBMである](../Page/大陸間弾道ミサイル.md "wikilink")。通常、トーポリ（：[ポプラ](../Page/ポプラ.md "wikilink")の意）と呼ばれる。RT-2PM「トーポリ」とその派生型[ミサイル](../Page/ミサイル.md "wikilink")に付けられた[DoD番号は](../Page/アメリカ国防総省.md "wikilink")、SS-25。SS-25はNATOコードで[シックル](https://ja.wikipedia.org/wiki/シックル "wikilink")と命名されている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Moscow_Parad_2008_Ballist.jpg "wikilink")[モスクワ](../Page/モスクワ.md "wikilink")で行われた[軍事パレード](https://ja.wikipedia.org/wiki/軍事パレード "wikilink")での撮影)\]\] **RT-2PM**は[冷戦](../Page/冷戦.md "wikilink")時代に[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")によって開発された[ICBMである](../Page/大陸間弾道ミサイル.md "wikilink")。通常、トーポリ（：[ポプラ](../Page/ポプラ.md "wikilink")の意）と呼ばれる。RT-2PM「トーポリ」とその派生型[ミサイル](../Page/ミサイル.md "wikilink")に付けられた[DoD番号は](../Page/アメリカ国防総省.md "wikilink")、SS-25。SS-25はNATOコードで[シックル](https://ja.wikipedia.org/wiki/シックル "wikilink")と命名されている。
 
-移動式ミサイルであり、[MAZ-543](https://ja.wikipedia.org/wiki/MAZ-543 "wikilink")重トラック系列の7軸14輪型[輸送起立発射機](https://ja.wikipedia.org/wiki/輸送起立発射機 "wikilink")（TEL）に搭載されて運用される。改良型に[RT-2PM2 トーポリM](https://ja.wikipedia.org/wiki/RT-2PM2_\(ミサイル\) "wikilink")（DoD番号SS-27、NATOコードネームは同じくスターリン）がある。
+移動式ミサイルであり、[MAZ-543](https://ja.wikipedia.org/wiki/MAZ-543 "wikilink")重トラック系列の7軸14輪型[輸送起立発射機](https://ja.wikipedia.org/wiki/輸送起立発射機 "wikilink")（TEL）に搭載されて運用される。改良型に[RT-2PM2 トーポリM](../Page/RT-2PM2_\(ミサイル\).md "wikilink")（DoD番号SS-27、NATOコードネームは同じくスターリン）がある。
 
 RT-2PMをベースとした衛星打ち上げ[ロケット](../Page/ロケット.md "wikilink")に[スタールト1](../Page/スタールト1.md "wikilink")が存在する。
 

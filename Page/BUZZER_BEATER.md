@@ -1,11 +1,11 @@
 > この記事は[BUZZER BEATER](https://ja.wikipedia.org/wiki/BUZZER_BEATER)から翻訳されています。
 
 
-『**BUZZER BEATER**』（ブザービーター）は、[井上雄彦](../Page/井上雄彦.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[SLAMDUNK](https://ja.wikipedia.org/wiki/SLAMDUNK "wikilink")』に続き[バスケットボール](../Page/バスケットボール.md "wikilink")を題材とし、[1996年](../Page/1996年.md "wikilink")5月よりスポーツ専門CS放送局『[スポーツ・アイ ESPN](https://ja.wikipedia.org/wiki/スポーツ・アイ_ESPN "wikilink")（現在[J SPORTS](../Page/J_SPORTS.md "wikilink")）』のホームページ上においてフルカラーで公開された、当時では珍しい[ウェブコミック](https://ja.wikipedia.org/wiki/ウェブコミック "wikilink")（全80話）。
+『**BUZZER BEATER**』（ブザービーター）は、[井上雄彦](../Page/井上雄彦.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[SLAMDUNK](https://ja.wikipedia.org/wiki/SLAMDUNK "wikilink")』に続き[バスケットボール](../Page/バスケットボール.md "wikilink")を題材とし、[1996年](../Page/1996年.md "wikilink")5月よりスポーツ専門CS放送局『[スポーツ・アイ ESPN](../Page/スポーツ・アイ_ESPN.md "wikilink")（現在[J SPORTS](../Page/J_SPORTS.md "wikilink")）』のホームページ上においてフルカラーで公開された、当時では珍しい[ウェブコミック](../Page/ウェブコミック.md "wikilink")（全80話）。
 
 ## 概要
 
-『[月刊少年ジャンプ](https://ja.wikipedia.org/wiki/月刊少年ジャンプ "wikilink")』に再録掲載（1997年2月号 - 1998年8月号）されたのち[単行本](../Page/単行本.md "wikilink")化され、2005年2月には[WOWOW](../Page/WOWOW.md "wikilink")で、2007年7月には[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")[アニメ化](https://ja.wikipedia.org/wiki/アニメ化 "wikilink")もされた。
+『[月刊少年ジャンプ](../Page/月刊少年ジャンプ.md "wikilink")』に再録掲載（1997年2月号 - 1998年8月号）されたのち[単行本](../Page/単行本.md "wikilink")化され、2005年2月には[WOWOW](../Page/WOWOW.md "wikilink")で、2007年7月には[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")[アニメ化](https://ja.wikipedia.org/wiki/アニメ化 "wikilink")もされた。
 
 タイトルになっている「[ブザービーター](../Page/ブザービーター.md "wikilink")」とは、試合終了のブザーが鳴る直前や鳴ったと同時に放った[シュートのことである](https://ja.wikipedia.org/wiki/シュート_\(バスケットボール\) "wikilink")。
 
@@ -22,8 +22,8 @@
 ## 登場人物
 
   - ヒデヨシ
-    PG（[ポイントガード](https://ja.wikipedia.org/wiki/ポイントガード "wikilink")） 背番号1
-    年齢：14歳　身長：160cm→170cm（その後さらに身長は伸び、最終回には[ポイントガード](https://ja.wikipedia.org/wiki/ポイントガード "wikilink")としては大きすぎるほどになった）　体重：54kg\[2\]
+    PG（[ポイントガード](../Page/ポイントガード.md "wikilink")） 背番号1
+    年齢：14歳　身長：160cm→170cm（その後さらに身長は伸び、最終回には[ポイントガード](../Page/ポイントガード.md "wikilink")としては大きすぎるほどになった）　体重：54kg\[2\]
     青い長髪の少年。ヨシムネが提示した地球チーム正式メンバーの契約金1億円に目がくらんで選考会に参加し、合格する。しかしそれは将来を期待した「次世代」メンバーとしての合格であった。ストリートチルドレンだったころに金を賭けたバスケゲームを大人相手に挑み、金を稼いでいた。14歳ながら類稀なる才能の持ち主。地球選抜チームの中にあって自分がベストだと信じて疑わない為、態度は実に偉そう。性格はまだまだ子供でわがままであるが、そのストレートさからチームのムードメーカとなる。事あるごとにチャチェと言い争う。途中でチャチェの身長を追い抜かす。ストリートチルドレン時代からの子分、エディとレニーに「殿」と慕われ、本人も二人を「家族」といい大事にしている。
     実は身体能力が優れたゴル星人（アニメでは地球人とのハーフ）であり、成長期に特徴的な頭痛に悩まされる。また、そのことでショックを受け、DTと共に地球チームを抜ける。ゴル星にしかない素材で出来たリストバンドをしている。　
   - チャチェ
@@ -36,7 +36,7 @@
     地球チームのNo.1ポイントガード。彼がPGに入ると他の選手も普段以上の動きができるようになり、まるで夢の中にいるかのようにプレイすることができるので、通称Dream Time略してDTと呼ばれる。本名は不明。その才能は天下一品でチームのリーダーシップをとっている。ヒデヨシの良き理解者である。性格は軟派でしょちゅう女性を宿舎に連れ込んでいるらしい。美人なマルの奥さんが来た時もすかさず目をつけ、ラズーリの正体を知ったときもニヤつくなど根っからの女好きのようだ。
     バスケへの情熱は高く、ゴル星人であるにも関わらず地球人初の宇宙リーガーになる目標のため、自ら角を折って敢えて身体能力を落とし、地球人としてバスケをすることにした。しかし、ヒデヨシがゴル星人であることを知り、地球チームを抜けた後、ヨシムネにゴル星人であることを明かし、去っていった。ゴル星にしかない素材で出来た帽子を被っている。
   - イワン
-    C（[センター](https://ja.wikipedia.org/wiki/センター_\(バスケットボール\) "wikilink")） 背番号55
+    C（[センター](../Page/センター_\(バスケットボール\).md "wikilink")） 背番号55
     年齢：15歳　身長：211cm　体重：128kg
     巨体とそのゴリラ並みの風貌からヒデヨシにおっさんと呼ばれるが、実は15歳。R州最強リーグRBAのブロックショット王だった。地球選抜チームの選考会で始めにヒデヨシとあたる。地球チームの正式メンバーとなるため、モーとスモーで戦うが敗北。だがモーをしてオーゼキ（大関）並みのパワーだったと言わしめる。
   - マル
@@ -119,7 +119,7 @@
   - 原作・監修 - 井上雄彦（[集英社](../Page/集英社.md "wikilink")｢[ジャンプコミックス](https://ja.wikipedia.org/wiki/ジャンプコミックス "wikilink")｣刊）
   - 監督・キャラクターデザイン・総作画監督 - [宮繁之](https://ja.wikipedia.org/wiki/宮繁之 "wikilink")
   - 監督助手 - 上野史博
-  - シリーズ構成 - [大和屋暁](https://ja.wikipedia.org/wiki/大和屋暁 "wikilink")
+  - シリーズ構成 - [大和屋暁](../Page/大和屋暁.md "wikilink")
   - メカニックデザイン - 水村良男
   - タイトルデザイン・OP\&ED演出・絵コンテ - [下山真吾](https://ja.wikipedia.org/wiki/下山真吾 "wikilink")
   - 美術監督 - 宮野隆
@@ -127,7 +127,7 @@
   - 撮影監督 - 本阿彌光平
   - CGディレクター - 豊丸利恵
   - 編集 - 柳田美和
-  - 音楽 - [亀山耕一郎](https://ja.wikipedia.org/wiki/亀山耕一郎 "wikilink")
+  - 音楽 - [亀山耕一郎](../Page/亀山耕一郎.md "wikilink")
   - 音響監督 - [なかのとおる](../Page/なかのとおる.md "wikilink")
   - 音響効果 - 浦畑将、横澤由美子
   - 録音制作 - HALF H･P STUDIO
@@ -136,34 +136,34 @@
   - アニメーションプロデューサー - 浄園祐
   - プロデューサー - 大石祐道
   - 企画協力 - 井上宗隆
-  - 製作・著作 - [トムス・エンタテインメント](https://ja.wikipedia.org/wiki/トムス・エンタテインメント "wikilink")
+  - 製作・著作 - [トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")
 
 #### キャスト
 
-  - ヒデヨシ：[瀧本富士子](https://ja.wikipedia.org/wiki/瀧本富士子 "wikilink")
+  - ヒデヨシ：[瀧本富士子](../Page/瀧本富士子.md "wikilink")
   - チャチェ：[小林沙苗](../Page/小林沙苗.md "wikilink")
   - DT：[うえだゆうじ](../Page/うえだゆうじ.md "wikilink")
   - ハン：[中尾隆聖](../Page/中尾隆聖.md "wikilink")
   - ローズ：[藤田大助](../Page/藤田大助_\(声優\).md "wikilink")
-  - イワン：[稲田徹](https://ja.wikipedia.org/wiki/稲田徹 "wikilink")
-  - モー：[中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")
-  - マル：[小杉十郎太](https://ja.wikipedia.org/wiki/小杉十郎太 "wikilink")
+  - イワン：[稲田徹](../Page/稲田徹.md "wikilink")
+  - モー：[中田譲治](../Page/中田譲治.md "wikilink")
+  - マル：[小杉十郎太](../Page/小杉十郎太.md "wikilink")
   - ラズーリ：[浅川悠](../Page/浅川悠.md "wikilink")
-  - アフロ：[梁田清之](https://ja.wikipedia.org/wiki/梁田清之 "wikilink")
+  - アフロ：[梁田清之](../Page/梁田清之.md "wikilink")
   - エディ：[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
-  - レニー：[伊藤実華](https://ja.wikipedia.org/wiki/伊藤実華 "wikilink")
+  - レニー：[伊藤実華](../Page/伊藤実華.md "wikilink")
   - コーチ：[勝生真沙子](../Page/勝生真沙子.md "wikilink")
-  - ヨシムネ：[石森達幸](https://ja.wikipedia.org/wiki/石森達幸 "wikilink")
+  - ヨシムネ：[石森達幸](../Page/石森達幸.md "wikilink")
   - ギューマ：[子安武人](../Page/子安武人.md "wikilink")
-  - ジュリアス：[陶山章央](https://ja.wikipedia.org/wiki/陶山章央 "wikilink")
-  - クレア：[千葉紗子](https://ja.wikipedia.org/wiki/千葉紗子 "wikilink")
-  - クロエ：[真殿光昭](https://ja.wikipedia.org/wiki/真殿光昭 "wikilink")
-  - エドガー：[高木渉](https://ja.wikipedia.org/wiki/高木渉 "wikilink")
-  - タキオン：[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
-  - マードック：[堀勝之祐](https://ja.wikipedia.org/wiki/堀勝之祐 "wikilink")
+  - ジュリアス：[陶山章央](../Page/陶山章央.md "wikilink")
+  - クレア：[千葉紗子](../Page/千葉紗子.md "wikilink")
+  - クロエ：[真殿光昭](../Page/真殿光昭.md "wikilink")
+  - エドガー：[高木渉](../Page/高木渉.md "wikilink")
+  - タキオン：[森川智之](../Page/森川智之.md "wikilink")
+  - マードック：[堀勝之祐](../Page/堀勝之祐.md "wikilink")
   - 幹部：[富田耕生](../Page/富田耕生.md "wikilink")
-  - オリビエ：[内田直哉](https://ja.wikipedia.org/wiki/内田直哉 "wikilink")
-  - ケント：[菅生隆之](https://ja.wikipedia.org/wiki/菅生隆之 "wikilink")
+  - オリビエ：[内田直哉](../Page/内田直哉.md "wikilink")
+  - ケント：[菅生隆之](../Page/菅生隆之.md "wikilink")
   - サラ：[三石琴乃](../Page/三石琴乃.md "wikilink")
 
 #### 主題歌
@@ -191,7 +191,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>THROW IN</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大和屋暁" title="wikilink">大和屋暁</a></p></td>
+<td><p><a href="../Page/大和屋暁.md" title="wikilink">大和屋暁</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮繁之" title="wikilink">宮繁之</a></p></td>
 <td><p>小山知洋</p></td>
 <td><p><strong>2005年</strong><br />
@@ -228,7 +228,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>Tip off</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石山タカ明" title="wikilink">石山タカ明</a></p></td>
+<td><p><a href="../Page/石山タカ明.md" title="wikilink">石山タカ明</a></p></td>
 <td><p>上野史博</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/松川哲也" title="wikilink">松川哲也</a></p></td>
 <td><p>3月5日</p></td>
@@ -312,12 +312,12 @@
 
 #### 放送局
 
-| 放送局                                                       | 放送期間                                                                                                                               | 放送日時             | 備考           |
-| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------ |
-| [WOWOW](../Page/WOWOW.md "wikilink")                      | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月5日](../Page/2月5日.md "wikilink") - [4月30日](../Page/4月30日.md "wikilink")   | 土曜 19:00 - 19:30 | リピート放送あり     |
-| [ANIMAX](https://ja.wikipedia.org/wiki/アニマックス "wikilink") | [2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink") - [10月17日](../Page/10月17日.md "wikilink")                  | 水曜 22:00 - 22:30 |              |
-| [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")         | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月27日](../Page/6月27日.md "wikilink") - [9月19日](../Page/9月19日.md "wikilink") | 金曜 18:30 - 19:00 | 第2期も続けて連番で放送 |
-| [とちぎテレビ](../Page/とちぎテレビ.md "wikilink")                    | 2008年[10月6日](../Page/10月6日.md "wikilink") - [12月29日](../Page/12月29日.md "wikilink")                                                 | 金曜 22:30 - 23:00 |              |
+| 放送局                                               | 放送期間                                                                                                                               | 放送日時             | 備考           |
+| ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------ |
+| [WOWOW](../Page/WOWOW.md "wikilink")              | [2005年](../Page/2005年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink") - [4月30日](../Page/4月30日.md "wikilink")                      | 土曜 19:00 - 19:30 | リピート放送あり     |
+| [ANIMAX](../Page/アニマックス.md "wikilink")            | [2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink") - [10月17日](../Page/10月17日.md "wikilink")                  | 水曜 22:00 - 22:30 |              |
+| [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink") | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月27日](../Page/6月27日.md "wikilink") - [9月19日](../Page/9月19日.md "wikilink") | 金曜 18:30 - 19:00 | 第2期も続けて連番で放送 |
+| [とちぎテレビ](../Page/とちぎテレビ.md "wikilink")            | 2008年[10月6日](../Page/10月6日.md "wikilink") - [12月29日](../Page/12月29日.md "wikilink")                                                 | 金曜 22:30 - 23:00 |              |
 
 ### 日本テレビ版
 
@@ -333,40 +333,40 @@
   - メカニックデザイン - 水村良男
   - 美術監督 - 宮野隆、**村上良子**
   - 色彩設計 - 飯島孝枝
-  - 音楽 - [亀山耕一郎](https://ja.wikipedia.org/wiki/亀山耕一郎 "wikilink")
+  - 音楽 - [亀山耕一郎](../Page/亀山耕一郎.md "wikilink")
   - 音響監督 - [なかのとおる](../Page/なかのとおる.md "wikilink")
   - CGディレクター - **植田秀蔵**
   - 撮影監督 - **郷博**
   - 編集 - **佐野由里子**
-  - アニメーション制作 - [トムス・エンタテインメント](https://ja.wikipedia.org/wiki/トムス・エンタテインメント "wikilink")
-  - 製作・著作 - **BUZZER BEATER PROJECT**（[D.N.ドリームパートナーズ](https://ja.wikipedia.org/wiki/D.N.ドリームパートナーズ "wikilink")、[集英社](../Page/集英社.md "wikilink")、トムス・エンタテインメント、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - アニメーション制作 - [トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")
+  - 製作・著作 - **BUZZER BEATER PROJECT**（[D.N.ドリームパートナーズ](../Page/D.N.ドリームパートナーズ.md "wikilink")、[集英社](../Page/集英社.md "wikilink")、トムス・エンタテインメント、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
 
 #### キャスト（第2期）
 
-  - ヒデヨシ：[瀧本富士子](https://ja.wikipedia.org/wiki/瀧本富士子 "wikilink")
+  - ヒデヨシ：[瀧本富士子](../Page/瀧本富士子.md "wikilink")
   - チャチェ：[小林沙苗](../Page/小林沙苗.md "wikilink")
   - DT：[うえだゆうじ](../Page/うえだゆうじ.md "wikilink")
-  - ヨシムネ：[石森達幸](https://ja.wikipedia.org/wiki/石森達幸 "wikilink")、[宮野真守](https://ja.wikipedia.org/wiki/宮野真守 "wikilink")（少年時代）
+  - ヨシムネ：[石森達幸](../Page/石森達幸.md "wikilink")、[宮野真守](../Page/宮野真守.md "wikilink")（少年時代）
   - コーチ：[勝生真沙子](../Page/勝生真沙子.md "wikilink")
-  - モー：[中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")
-  - マル：[小杉十郎太](https://ja.wikipedia.org/wiki/小杉十郎太 "wikilink")
+  - モー：[中田譲治](../Page/中田譲治.md "wikilink")
+  - マル：[小杉十郎太](../Page/小杉十郎太.md "wikilink")
   - ハン：[中尾隆聖](../Page/中尾隆聖.md "wikilink")
   - ローズ：[藤田大助](../Page/藤田大助_\(声優\).md "wikilink")
-  - イワン：[稲田徹](https://ja.wikipedia.org/wiki/稲田徹 "wikilink")
-  - アフロ：[梁田清之](https://ja.wikipedia.org/wiki/梁田清之 "wikilink")
-  - レニー：[伊藤実華](https://ja.wikipedia.org/wiki/伊藤実華 "wikilink")
+  - イワン：[稲田徹](../Page/稲田徹.md "wikilink")
+  - アフロ：[梁田清之](../Page/梁田清之.md "wikilink")
+  - レニー：[伊藤実華](../Page/伊藤実華.md "wikilink")
   - ラズーリ：[浅川悠](../Page/浅川悠.md "wikilink")
   - エディ：[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
   - ギューマ：[子安武人](../Page/子安武人.md "wikilink")
-  - ジュリアス：[陶山章央](https://ja.wikipedia.org/wiki/陶山章央 "wikilink")
-  - タキオン：[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
-  - アピル：[本田貴子](https://ja.wikipedia.org/wiki/本田貴子 "wikilink")
-  - エドガー：[高木渉](https://ja.wikipedia.org/wiki/高木渉 "wikilink")
-  - クロエ：[真殿光昭](https://ja.wikipedia.org/wiki/真殿光昭 "wikilink")
-  - クレア：[千葉紗子](https://ja.wikipedia.org/wiki/千葉紗子 "wikilink")
-  - ズッキーニ：[宇垣秀成](https://ja.wikipedia.org/wiki/宇垣秀成 "wikilink")
+  - ジュリアス：[陶山章央](../Page/陶山章央.md "wikilink")
+  - タキオン：[森川智之](../Page/森川智之.md "wikilink")
+  - アピル：[本田貴子](../Page/本田貴子.md "wikilink")
+  - エドガー：[高木渉](../Page/高木渉.md "wikilink")
+  - クロエ：[真殿光昭](../Page/真殿光昭.md "wikilink")
+  - クレア：[千葉紗子](../Page/千葉紗子.md "wikilink")
+  - ズッキーニ：[宇垣秀成](../Page/宇垣秀成.md "wikilink")
   - イオ：[伊藤静](../Page/伊藤静.md "wikilink")
-  - マードック：[堀勝之祐](https://ja.wikipedia.org/wiki/堀勝之祐 "wikilink")
+  - マードック：[堀勝之祐](../Page/堀勝之祐.md "wikilink")
   - 将軍：[三木眞一郎](https://ja.wikipedia.org/wiki/三木眞一郎 "wikilink")
   - DTの昔の彼女：[豊口めぐみ](../Page/豊口めぐみ.md "wikilink")
 
@@ -399,7 +399,7 @@
 <td><p><a href="../Page/大川俊道.md" title="wikilink">大川俊道</a></p></td>
 <td><p>宮繁之</p></td>
 <td><p>-</p></td>
-<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="https://ja.wikipedia.org/wiki/7月3日" title="wikilink">7月3日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/7月3日.md" title="wikilink">7月3日</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -471,7 +471,7 @@
 <td><p>HAND-CHECKING</p></td>
 <td><p>古怒田健志</p></td>
 <td><p>宮繁之</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平山智_(アニメーター)" title="wikilink">平山智</a></p></td>
+<td><p><a href="../Page/平山智_(アニメーター).md" title="wikilink">平山智</a></p></td>
 <td><p>2007年<a href="../Page/8月21日.md" title="wikilink">8月21日</a></p></td>
 <td></td>
 <td></td>
@@ -532,17 +532,17 @@
 
 #### 放送局（第2期）
 
-| 放送局                                                       | 放送日時             | 放送期間                                                                                                                                  | 備考                                                                |
-| --------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [日本テレビ](../Page/日本テレビ放送網.md "wikilink")                   | 火曜 24:56 - 25:26 | [2007年](../Page/2007年.md "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink") - [9月25日](../Page/9月25日.md "wikilink")      | **製作委員会参加**                                                       |
-| [中京テレビ](../Page/中京テレビ放送.md "wikilink")                    | 火曜 25:39 - 26:09 | 2007年[7月17日](../Page/7月17日.md "wikilink") - [10月9日](../Page/10月9日.md "wikilink")                                                      |                                                                   |
-| [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")                    | 月曜 25:54 - 26:24 | 2007年[7月30日](../Page/7月30日.md "wikilink") - [10月22日](../Page/10月22日.md "wikilink")                                                    | [MONDAY PARK](https://ja.wikipedia.org/wiki/MANPA "wikilink") 第1部 |
-| [福岡放送](../Page/福岡放送.md "wikilink")                        | 月曜 25:26 - 25:56 | 2007年[8月6日](../Page/8月6日.md "wikilink") - [10月29日](../Page/10月29日.md "wikilink")                                                      |                                                                   |
-| [広島テレビ](../Page/広島テレビ放送.md "wikilink")                    | 火曜 24:59 - 25:29 | 2007年[10月2日](../Page/10月2日.md "wikilink") - [12月25日](../Page/12月25日.md "wikilink")                                                    |                                                                   |
-| [鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")                | 金曜 26:00 - 26:30 | 2007年[10月5日](../Page/10月5日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月4日](../Page/1月4日.md "wikilink") |                                                                   |
-| [アニマックス](https://ja.wikipedia.org/wiki/アニマックス "wikilink") | 水曜 22:00 - 22:30 | 2007年[10月24日](../Page/10月24日.md "wikilink") - 2008年[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")                            | [CS](../Page/衛星放送.md "wikilink")、WOWOW版に続けて放送、リピート放送あり            |
-| [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")         | 金曜 18:30 - 19:00 | 2008年[9月26日](../Page/9月26日.md "wikilink") - [12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")                                 | WOWOW版に続けて放送、連番での放送実施                                             |
-| [とちぎテレビ](../Page/とちぎテレビ.md "wikilink")                    | 月曜 22:30 - 23:00 | [2009年](../Page/2009年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink") - [3月30日](../Page/3月30日.md "wikilink")                         |                                                                   |
+| 放送局                                               | 放送日時             | 放送期間                                                                                                                                  | 備考                                                     |
+| ------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [日本テレビ](../Page/日本テレビ放送網.md "wikilink")           | 火曜 24:56 - 25:26 | [2007年](../Page/2007年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink") - [9月25日](../Page/9月25日.md "wikilink")                         | **製作委員会参加**                                            |
+| [中京テレビ](../Page/中京テレビ放送.md "wikilink")            | 火曜 25:39 - 26:09 | 2007年[7月17日](../Page/7月17日.md "wikilink") - [10月9日](../Page/10月9日.md "wikilink")                                                      |                                                        |
+| [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")            | 月曜 25:54 - 26:24 | 2007年[7月30日](../Page/7月30日.md "wikilink") - [10月22日](../Page/10月22日.md "wikilink")                                                    | [MONDAY PARK](../Page/MANPA.md "wikilink") 第1部         |
+| [福岡放送](../Page/福岡放送.md "wikilink")                | 月曜 25:26 - 25:56 | 2007年[8月6日](../Page/8月6日.md "wikilink") - [10月29日](../Page/10月29日.md "wikilink")                                                      |                                                        |
+| [広島テレビ](../Page/広島テレビ放送.md "wikilink")            | 火曜 24:59 - 25:29 | 2007年[10月2日](../Page/10月2日.md "wikilink") - [12月25日](../Page/12月25日.md "wikilink")                                                    |                                                        |
+| [鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")        | 金曜 26:00 - 26:30 | 2007年[10月5日](../Page/10月5日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月4日](../Page/1月4日.md "wikilink") |                                                        |
+| [アニマックス](../Page/アニマックス.md "wikilink")            | 水曜 22:00 - 22:30 | 2007年[10月24日](../Page/10月24日.md "wikilink") - 2008年[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")                            | [CS](../Page/衛星放送.md "wikilink")、WOWOW版に続けて放送、リピート放送あり |
+| [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink") | 金曜 18:30 - 19:00 | 2008年[9月26日](../Page/9月26日.md "wikilink") - [12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")                                 | WOWOW版に続けて放送、連番での放送実施                                  |
+| [とちぎテレビ](../Page/とちぎテレビ.md "wikilink")            | 月曜 22:30 - 23:00 | [2009年](../Page/2009年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink") - [3月30日](../Page/3月30日.md "wikilink")                         |                                                        |
 
 ## 脚注
 

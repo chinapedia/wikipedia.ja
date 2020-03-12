@@ -1,9 +1,9 @@
 > この記事は[River \(2003\)](https://ja.wikipedia.org/wiki/River_\(2003\))から翻訳されています。
 
 
-『**river**』（**リバー**）は、[2003年に](https://ja.wikipedia.org/wiki/2003年の映画 "wikilink")[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を中心に公開された劇場[映画](../Page/映画.md "wikilink")。[鈴井貴之](https://ja.wikipedia.org/wiki/鈴井貴之 "wikilink")第2回監督作品・[大泉洋](../Page/大泉洋.md "wikilink")初主演作品。[東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink")、[釜山国際映画祭](../Page/釜山国際映画祭.md "wikilink")、[ヨーテボリ映画祭](https://ja.wikipedia.org/wiki/ヨーテボリ映画祭 "wikilink")出品作品。全国的に名が知られている俳優をほとんど起用せず、北海道の役者を中心にキャスティングし、スタッフも北海道在住（あるいは出身）の人間を多く集めるなど、「MADE IN 北海道」にこだわった作品である。これは「中央（東京）で作ったからと言って必ずいい作品が出来るわけではない」という鈴井の思いから生まれたコンセプトである。
+『**river**』（**リバー**）は、[2003年に](../Page/2003年の映画.md "wikilink")[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を中心に公開された劇場[映画](../Page/映画.md "wikilink")。[鈴井貴之](../Page/鈴井貴之.md "wikilink")第2回監督作品・[大泉洋](../Page/大泉洋.md "wikilink")初主演作品。[東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink")、[釜山国際映画祭](../Page/釜山国際映画祭.md "wikilink")、[ヨーテボリ映画祭](https://ja.wikipedia.org/wiki/ヨーテボリ映画祭 "wikilink")出品作品。全国的に名が知られている俳優をほとんど起用せず、北海道の役者を中心にキャスティングし、スタッフも北海道在住（あるいは出身）の人間を多く集めるなど、「MADE IN 北海道」にこだわった作品である。これは「中央（東京）で作ったからと言って必ずいい作品が出来るわけではない」という鈴井の思いから生まれたコンセプトである。
 
-この作品は色味や撮影手法など、通常とは異なる方法で制作されている。これは物語が明るい話ではないので、全体的に暗く仕上げているのである。そのため、「[man-hole](https://ja.wikipedia.org/wiki/man-hole "wikilink")」や「[銀のエンゼル](https://ja.wikipedia.org/wiki/銀のエンゼル_\(映画\) "wikilink")」とは違った仕上がりになっている。 犯罪やホラーシーンなど多く含まれるため[PG12](https://ja.wikipedia.org/wiki/PG12 "wikilink")指定である。
+この作品は色味や撮影手法など、通常とは異なる方法で制作されている。これは物語が明るい話ではないので、全体的に暗く仕上げているのである。そのため、「[man-hole](https://ja.wikipedia.org/wiki/man-hole "wikilink")」や「[銀のエンゼル](../Page/銀のエンゼル_\(映画\).md "wikilink")」とは違った仕上がりになっている。 犯罪やホラーシーンなど多く含まれるため[PG12](https://ja.wikipedia.org/wiki/PG12 "wikilink")指定である。
 
 ## ストーリー
 
@@ -11,25 +11,25 @@
 
 だが、着いた場所は既に廃墟と化したかつて彼らが通っていた小学校だった。実は「**記憶を操作できる薬**」は横井が提案した実在しない薬であり、彼らを誘き寄せるための罠だったのだ。横井は自分をいじめた彼らに復讐するために行った黒幕だった。九重は横井の異変にいち早く気づいたものの、狂気と化した彼を止めることはできず、所持していた[ダガー](../Page/ダガー.md "wikilink")ナイフで滅多打ちにされ死亡した。横井の居場所を突き止めた藤沢は校舎に突入し、そこで横井と乱闘となりナイフを取り上げたものの、所持していた[拳銃](../Page/拳銃.md "wikilink")で撃たれ重症を負う。銃声を聞いた佐々木はすぐさまに校舎に突入した。だがそこには横井はおらず、荒れ果てた校舎の中で血まみれで倒れ込んでいた藤沢がいた。全てを悟った佐々木は横井が待つ体育館へ向かった。
 
-[体育館](https://ja.wikipedia.org/wiki/体育館 "wikilink")に着くと横井は一人で[バスケットボール](../Page/バスケットボール.md "wikilink")をしており、しみじみに語り出すと同時に横井は銃を乱射した。佐々木もすかさず護身用を[拳銃](../Page/拳銃.md "wikilink")を取り出すものの、銃弾を入れていなかったため発砲できなかった。窮地に立たされた佐々木だったが重症を負った藤沢が投げたナイフが横井に命中し、落とした拳銃を藤沢が取り上げ、横井を撃ち殺した。
+[体育館](../Page/体育館.md "wikilink")に着くと横井は一人で[バスケットボール](../Page/バスケットボール.md "wikilink")をしており、しみじみに語り出すと同時に横井は銃を乱射した。佐々木もすかさず護身用を[拳銃](../Page/拳銃.md "wikilink")を取り出すものの、銃弾を入れていなかったため発砲できなかった。窮地に立たされた佐々木だったが重症を負った藤沢が投げたナイフが横井に命中し、落とした拳銃を藤沢が取り上げ、横井を撃ち殺した。
 
 佐々木は「**オレみたいに根性の無い男が警官になる資格などないんだ**」と藤沢に言い、「**俺は人質を見殺しにしてしまったからな**」と静かに言った。すると藤沢は恋人を見殺しにした憎む警官が佐々木だということを解釈する。そして[拳銃](../Page/拳銃.md "wikilink")の銃口を佐々木に向け「**お前だったのか**」と語った。これにより佐々木自身も見殺しにした女性が藤沢の恋人だと解釈した。そして藤沢同様、佐々木は護身用の[拳銃](../Page/拳銃.md "wikilink")に銃弾を込め、藤沢に向けた。互いに言葉を交わさず、両方同時に放った。校舎横の川のせせらぎが流れると同時に映画は幕を降ろす。
 
 ## キャスト
 
   - 佐々木耕一：[大泉洋](../Page/大泉洋.md "wikilink")
-  - 藤沢聡：[安田顕](https://ja.wikipedia.org/wiki/安田顕 "wikilink")
-  - 九重達也：[佐藤重幸](https://ja.wikipedia.org/wiki/戸次重幸 "wikilink")
-  - 横井茂：[音尾琢真](https://ja.wikipedia.org/wiki/音尾琢真 "wikilink")
+  - 藤沢聡：[安田顕](../Page/安田顕.md "wikilink")
+  - 九重達也：[佐藤重幸](../Page/戸次重幸.md "wikilink")
+  - 横井茂：[音尾琢真](../Page/音尾琢真.md "wikilink")
   - 須藤裕子（佐々木の恋人）：[中村麻美](../Page/中村麻美.md "wikilink")
-  - 川塚剛志（佐々木の上司、同じく警察官）：[森崎博之](https://ja.wikipedia.org/wiki/森崎博之 "wikilink")
+  - 川塚剛志（佐々木の上司、同じく警察官）：[森崎博之](../Page/森崎博之.md "wikilink")
   - 佐藤探偵：[佐藤誓](https://ja.wikipedia.org/wiki/佐藤誓 "wikilink")
   - 小杉和幸（横井の同僚、計画の首謀者）：[田中剛](https://ja.wikipedia.org/wiki/田中剛_\(俳優\) "wikilink")
   - 権藤健司（同じく横井の同僚、通り魔事件の犯人）：川井"J"竜輔
   - 外崎慶子（藤沢の恋人）：[宮崎奈緒美](https://ja.wikipedia.org/wiki/宮崎奈緒美 "wikilink")
-  - 不動産屋：[小橋亜樹](https://ja.wikipedia.org/wiki/小橋亜樹 "wikilink")
-  - イベンター：[河野真也](https://ja.wikipedia.org/wiki/河野真也 "wikilink")
-  - 工場関係者A：[藤尾仁志](https://ja.wikipedia.org/wiki/藤尾仁志 "wikilink")
+  - 不動産屋：[小橋亜樹](../Page/小橋亜樹.md "wikilink")
+  - イベンター：[河野真也](../Page/河野真也.md "wikilink")
+  - 工場関係者A：[藤尾仁志](../Page/藤尾仁志.md "wikilink")
   - オカマ：[田中護](https://ja.wikipedia.org/wiki/田中護 "wikilink")
   - 佐々木（少年時代）：佐藤正一
   - 藤沢（少年時代）：佐々木駿
@@ -38,7 +38,7 @@
 
 ## スタッフ
 
-  - 企画・原作・脚本・監督：[鈴井貴之](https://ja.wikipedia.org/wiki/鈴井貴之 "wikilink")
+  - 企画・原作・脚本・監督：[鈴井貴之](../Page/鈴井貴之.md "wikilink")
   - プロデューサー：麻生栄一・[鈴井亜由美](https://ja.wikipedia.org/wiki/鈴井亜由美 "wikilink")
   - ラインプロデューサー：波多野ゆかり
   - 音楽：佐々木秀夫
@@ -51,7 +51,7 @@
   - 編集：[小島俊彦](https://ja.wikipedia.org/wiki/小島俊彦 "wikilink")
   - スタイリスト：[小松江里子](https://ja.wikipedia.org/wiki/小松江里子_\(スタイリスト\) "wikilink")
   - 制作プロダクション：インデックス・コア
-  - 製作・配給：[CREATIVE OFFICE CUE](https://ja.wikipedia.org/wiki/CREATIVE_OFFICE_CUE "wikilink")
+  - 製作・配給：[CREATIVE OFFICE CUE](../Page/CREATIVE_OFFICE_CUE.md "wikilink")
 
 ## エピソード
 

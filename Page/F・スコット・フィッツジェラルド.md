@@ -1,15 +1,15 @@
 > この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
 
 
-**フランシス・スコット・キー・フィッツジェラルド**（, [1896年](../Page/1896年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink") - [1940年](../Page/1940年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[小説家](../Page/小説家.md "wikilink")、[短編小説](https://ja.wikipedia.org/wiki/短編小説 "wikilink")家。一般には筆名の**F・スコット・フィッツジェラルド**として知られる。1920年代の「[失われた世代](https://ja.wikipedia.org/wiki/失われた世代 "wikilink")」の作家の一人とみなされ、狂騒の「[ジャズ・エイジ](https://ja.wikipedia.org/wiki/ジャズ・エイジ "wikilink")」を描いたその作品は後世の多くの作家に影響を与えた。生前に発表した長編小説は4作品にすぎないものの、今日では[20世紀](../Page/20世紀.md "wikilink")の[アメリカ文学](../Page/アメリカ文学.md "wikilink")を代表する小説家の一人としてその名を残している。
+**フランシス・スコット・キー・フィッツジェラルド**（, [1896年](../Page/1896年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink") - [1940年](../Page/1940年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[小説家](../Page/小説家.md "wikilink")、[短編小説](../Page/短編小説.md "wikilink")家。一般には筆名の**F・スコット・フィッツジェラルド**として知られる。1920年代の「[失われた世代](../Page/失われた世代.md "wikilink")」の作家の一人とみなされ、狂騒の「[ジャズ・エイジ](https://ja.wikipedia.org/wiki/ジャズ・エイジ "wikilink")」を描いたその作品は後世の多くの作家に影響を与えた。生前に発表した長編小説は4作品にすぎないものの、今日では[20世紀](../Page/20世紀.md "wikilink")の[アメリカ文学](../Page/アメリカ文学.md "wikilink")を代表する小説家の一人としてその名を残している。
 
 ## 来歴
 
 ### 誕生から
 
-フィッツジェラルドは北西部[ミネソタ州](https://ja.wikipedia.org/wiki/ミネソタ州 "wikilink")の[セントポールに生まれた](../Page/セントポール_\(ミネソタ州\).md "wikilink")。[カトリックを信仰する両親は共に](https://ja.wikipedia.org/wiki/カトリック教会 "wikilink")[アイルランド系の家系であり](https://ja.wikipedia.org/wiki/アイルランド系アメリカ人 "wikilink")、母モリーはセントポールにおける著名な実業家の娘であった。父エドワードはフィッツジェラルドの生まれる以前に事業に失敗し、破産していたが、一家は母の実家からの援助もあり、裕福と言えないまでも不足のない生活を送っていた。名前の由来となった[アメリカ国歌の作詞者](https://ja.wikipedia.org/wiki/アメリカ合衆国の国歌 "wikilink")[フランシス・スコット・キー](https://ja.wikipedia.org/wiki/フランシス・スコット・キー "wikilink")は父方の遠縁にあたる。
+フィッツジェラルドは北西部[ミネソタ州](https://ja.wikipedia.org/wiki/ミネソタ州 "wikilink")の[セントポールに生まれた](../Page/セントポール_\(ミネソタ州\).md "wikilink")。[カトリックを信仰する両親は共に](../Page/カトリック教会.md "wikilink")[アイルランド系の家系であり](../Page/アイルランド系アメリカ人.md "wikilink")、母モリーはセントポールにおける著名な実業家の娘であった。父エドワードはフィッツジェラルドの生まれる以前に事業に失敗し、破産していたが、一家は母の実家からの援助もあり、裕福と言えないまでも不足のない生活を送っていた。名前の由来となった[アメリカ国歌の作詞者](https://ja.wikipedia.org/wiki/アメリカ合衆国の国歌 "wikilink")[フランシス・スコット・キー](../Page/フランシス・スコット・キー.md "wikilink")は父方の遠縁にあたる。
 
-フィッツジェラルドは[1898年](../Page/1898年.md "wikilink")から[1901年](../Page/1901年.md "wikilink")および[1903年](../Page/1903年.md "wikilink")から[1908年](../Page/1908年.md "wikilink")までを[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[バッファローで過ごした](https://ja.wikipedia.org/wiki/バッファロー_\(ニューヨーク州\) "wikilink")。エドワードが[P\&G社に解雇されると](https://ja.wikipedia.org/wiki/プロクター・アンド・ギャンブル "wikilink")、一家はミネソタ州へと戻り、フィッツジェラルドは地元の学校セントポール・アカデミーに入学した。その後[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")の[プレップ・スクール](https://ja.wikipedia.org/wiki/プレップ・スクール "wikilink")、ニューマン・スクールへと入学し[1913年](../Page/1913年.md "wikilink")、[プリンストン大学](https://ja.wikipedia.org/wiki/プリンストン大学 "wikilink")へと進学した。
+フィッツジェラルドは[1898年](../Page/1898年.md "wikilink")から[1901年](../Page/1901年.md "wikilink")および[1903年](../Page/1903年.md "wikilink")から[1908年](../Page/1908年.md "wikilink")までを[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[バッファローで過ごした](../Page/バッファロー_\(ニューヨーク州\).md "wikilink")。エドワードが[P\&G社に解雇されると](../Page/プロクター・アンド・ギャンブル.md "wikilink")、一家はミネソタ州へと戻り、フィッツジェラルドは地元の学校セントポール・アカデミーに入学した。その後[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")の[プレップ・スクール](https://ja.wikipedia.org/wiki/プレップ・スクール "wikilink")、ニューマン・スクールへと入学し[1913年](../Page/1913年.md "wikilink")、[プリンストン大学](https://ja.wikipedia.org/wiki/プリンストン大学 "wikilink")へと進学した。
 
 大学では、終生の友人であり後に自身の編集者を務めることになる[エドマンド・ウィルソン](../Page/エドマンド・ウィルソン.md "wikilink")と出会っている。ウィルソンはフィッツジェラルドの1学年上級であった。フィッツジェラルドは大学で詩作や演劇の脚本を書くなどしていたが、アカデミックな雰囲気に居心地の悪さを感じていたといわれ、[1915年](../Page/1915年.md "wikilink")には単位不足と病気のため一時大学を休学し、ミネソタへと帰省している。さらに[1917年](../Page/1917年.md "wikilink")にアメリカが[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")に参戦すると大学を中退し、陸軍へと入隊した。
 
@@ -23,13 +23,13 @@
 
 [Zelda_Fitzgerald,_1922.png](https://ja.wikipedia.org/wiki/File:Zelda_Fitzgerald,_1922.png "fig:Zelda_Fitzgerald,_1922.png") キャンプ・シェルダンでの訓練中、フィッツジェラルドはモントゴメリー・カントリー・クラブにおいて[ゼルダ・セイヤー](https://ja.wikipedia.org/wiki/ゼルダ・セイヤー "wikilink")と出会った。フィッツジェラルド曰く、ゼルダは「アラバマ・ジョージアの2州に並ぶ者無き美女」で、2人はすぐに恋に落ちた。
 
-[1919年](../Page/1919年.md "wikilink")2月フィッツジェラルドが陸軍を除隊すると2人は婚約し、彼はニューヨークで[広告代理店](https://ja.wikipedia.org/wiki/広告代理店 "wikilink")に務め[コピーライター](https://ja.wikipedia.org/wiki/コピーライター "wikilink")として勤務した。しかし彼の生活力に疑問を抱いたゼルダは婚約を解消してしまい、フィツジェラルドは7月に勤務先を退職し、セントポールの両親の家へと戻る事になった。
+[1919年](../Page/1919年.md "wikilink")2月フィッツジェラルドが陸軍を除隊すると2人は婚約し、彼はニューヨークで[広告代理店](../Page/広告代理店.md "wikilink")に務め[コピーライター](../Page/コピーライター.md "wikilink")として勤務した。しかし彼の生活力に疑問を抱いたゼルダは婚約を解消してしまい、フィツジェラルドは7月に勤務先を退職し、セントポールの両親の家へと戻る事になった。
 
-セントポールでフィッツジェラルドは家の一室にこもり、『ロマンティック・エゴティスト』の推敲に心血を注いだ。書き上げられた作品は前回と同様にスクリブナーズへと送られ、その価値を認められた。翌[1920年](../Page/1920年.md "wikilink")3月に『[楽園のこちら側](https://ja.wikipedia.org/wiki/楽園のこちら側 "wikilink")』と改題され出版されると、この作品は高く評価されると同時にベストセラー入りした。4月には再び婚約していたゼルダとニューヨークの[セント・パトリック大聖堂で結婚した](https://ja.wikipedia.org/wiki/セント・パトリック大聖堂_\(ニューヨーク\) "wikilink")。[1921年](../Page/1921年.md "wikilink")には娘の[フランセス](https://ja.wikipedia.org/wiki/フランセス・スコット・フィッツジェラルド "wikilink")（愛称スコティー）が誕生した。
+セントポールでフィッツジェラルドは家の一室にこもり、『ロマンティック・エゴティスト』の推敲に心血を注いだ。書き上げられた作品は前回と同様にスクリブナーズへと送られ、その価値を認められた。翌[1920年](../Page/1920年.md "wikilink")3月に『[楽園のこちら側](https://ja.wikipedia.org/wiki/楽園のこちら側 "wikilink")』と改題され出版されると、この作品は高く評価されると同時にベストセラー入りした。4月には再び婚約していたゼルダとニューヨークの[セント・パトリック大聖堂で結婚した](../Page/セント・パトリック大聖堂_\(ニューヨーク\).md "wikilink")。[1921年](../Page/1921年.md "wikilink")には娘の[フランセス](https://ja.wikipedia.org/wiki/フランセス・スコット・フィッツジェラルド "wikilink")（愛称スコティー）が誕生した。
 
 ### ジャズ・エイジ
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Clara_Bow_Brewster_1921.PNG "wikilink")\]\] 1920年代は間違いなくフィッツジェラルドが最も輝いたときだった。[1922年](../Page/1922年.md "wikilink")に出版された2作目の長編小説『』は未熟な部分もあった前作に比べ格段の進歩を遂げていた。そして[1925年](../Page/1925年.md "wikilink")には3作目の長編小説『[グレート・ギャツビー](https://ja.wikipedia.org/wiki/グレート・ギャツビー "wikilink")』が出版されている。後世、この作品によってフィッツジェラルドは、1920年代アメリカのいわゆる「[ジャズ・エイジ](https://ja.wikipedia.org/wiki/ジャズ・エイジ "wikilink")」や「[フラッパー](https://ja.wikipedia.org/wiki/フラッパー "wikilink")」の象徴としてのみならず、20世紀アメリカ文学全体を代表する作家の仲間入りを果たした。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Clara_Bow_Brewster_1921.PNG "wikilink")\]\] 1920年代は間違いなくフィッツジェラルドが最も輝いたときだった。[1922年](../Page/1922年.md "wikilink")に出版された2作目の長編小説『』は未熟な部分もあった前作に比べ格段の進歩を遂げていた。そして[1925年](../Page/1925年.md "wikilink")には3作目の長編小説『[グレート・ギャツビー](../Page/グレート・ギャツビー.md "wikilink")』が出版されている。後世、この作品によってフィッツジェラルドは、1920年代アメリカのいわゆる「[ジャズ・エイジ](https://ja.wikipedia.org/wiki/ジャズ・エイジ "wikilink")」や「[フラッパー](https://ja.wikipedia.org/wiki/フラッパー "wikilink")」の象徴としてのみならず、20世紀アメリカ文学全体を代表する作家の仲間入りを果たした。
 
 しかし発表当時は、批評家の受けは良くても、流行作家が背伸びして書いた文学寄りの作品という程度の受け取られ方で、内容が明快で多くがハッピーエンドであったこれまでの短編と大きく違った重厚なストーリーは、支持層であった若い読者にはあまり歓迎されず、フィッツジェラルドが期待したほどの売上にはならず、彼は落ち込んだという。『グレート・ギャツビー』は、1930年代には絶版になった時期すらあり、名作として不動の評価を受けることになったのはフィッツジェラルドの死後10年以上経ってからであった。この頃、執筆の合間をぬってヨーロッパへ旅行している。[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")や南仏の[リヴィエラでは](https://ja.wikipedia.org/wiki/リヴィエラ海岸 "wikilink")、アメリカを抜け出してきた[アーネスト・ヘミングウェイ](../Page/アーネスト・ヘミングウェイ.md "wikilink")らと出会っている。
 
@@ -37,21 +37,21 @@
 
 ### 大恐慌以降
 
-フィッツジェラルドは1920年代の終わり頃から4つ目の長編に取りくみ始めたが、生活費を稼ぐ為に収入の良い短編を書かざるを得ず、執筆は遅滞した。[1929年](../Page/1929年.md "wikilink")の[ウォール街](https://ja.wikipedia.org/wiki/ウォール街 "wikilink")での[株価大暴落に端を発する](https://ja.wikipedia.org/wiki/ウォール街大暴落_\(1929年\) "wikilink")[世界恐慌](../Page/世界恐慌.md "wikilink")、さらに[1930年](../Page/1930年.md "wikilink")には[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")でゼルダが[統合失調症](https://ja.wikipedia.org/wiki/統合失調症 "wikilink")の発作を起こし[スイス](../Page/スイス.md "wikilink")の精神病院で療養することになり、彼の生活に暗い影が差し始めた。翌[1931年](../Page/1931年.md "wikilink")に父エドワードが死去したことで妻を残して先に帰国する。
+フィッツジェラルドは1920年代の終わり頃から4つ目の長編に取りくみ始めたが、生活費を稼ぐ為に収入の良い短編を書かざるを得ず、執筆は遅滞した。[1929年](../Page/1929年.md "wikilink")の[ウォール街](../Page/ウォール街.md "wikilink")での[株価大暴落に端を発する](https://ja.wikipedia.org/wiki/ウォール街大暴落_\(1929年\) "wikilink")[世界恐慌](../Page/世界恐慌.md "wikilink")、さらに[1930年](../Page/1930年.md "wikilink")には[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")でゼルダが[統合失調症](https://ja.wikipedia.org/wiki/統合失調症 "wikilink")の発作を起こし[スイス](../Page/スイス.md "wikilink")の精神病院で療養することになり、彼の生活に暗い影が差し始めた。翌[1931年](../Page/1931年.md "wikilink")に父エドワードが死去したことで妻を残して先に帰国する。
 
-[1932年](../Page/1932年.md "wikilink")にゼルダは[ボルチモア](https://ja.wikipedia.org/wiki/ボルチモア "wikilink")の病院に転院し、フィッツジェラルドは一人で家を借りて長編小説に取り組み始めた。この作品の主人公である、若く将来を約束された精神科医ディック・ダイバーは彼の患者であった富豪の娘ニコルと恋に落ちる。不安定な妻に翻弄され転落していく主人公を美しい文章で描いたこの作品は、『』と題して[1934年](../Page/1934年.md "wikilink")に出版された。しかし恐慌下のアメリカでフィッツジェラルドは既に過去の人となっており、作品の売り上げは芳しいものではなかった。絶望から次第に彼はアルコールに溺れるようになっていった。
+[1932年](../Page/1932年.md "wikilink")にゼルダは[ボルチモア](../Page/ボルチモア.md "wikilink")の病院に転院し、フィッツジェラルドは一人で家を借りて長編小説に取り組み始めた。この作品の主人公である、若く将来を約束された精神科医ディック・ダイバーは彼の患者であった富豪の娘ニコルと恋に落ちる。不安定な妻に翻弄され転落していく主人公を美しい文章で描いたこの作品は、『』と題して[1934年](../Page/1934年.md "wikilink")に出版された。しかし恐慌下のアメリカでフィッツジェラルドは既に過去の人となっており、作品の売り上げは芳しいものではなかった。絶望から次第に彼はアルコールに溺れるようになっていった。
 
 ### ハリウッド時代
 
 [F_Scott_Fitzgerald.jpg](https://ja.wikipedia.org/wiki/File:F_Scott_Fitzgerald.jpg "fig:F_Scott_Fitzgerald.jpg")
 
-1930年代後半のフィッツジェラルドは、借金の返済とスコティーの学費を稼ぐためにシナリオライターとして映画会社と契約しハリウッドに居住した。ただ、これは脚本書きとしての技能というより、映画界が[トーキー](https://ja.wikipedia.org/wiki/トーキー "wikilink")への移行期で脚本家を多く必要としていた事や、過去の功績を買われての部分が大きかったという。仕事の合間をぬって短編小説そしてハリウッドを舞台とする長編小説を書きためていった。
+1930年代後半のフィッツジェラルドは、借金の返済とスコティーの学費を稼ぐためにシナリオライターとして映画会社と契約しハリウッドに居住した。ただ、これは脚本書きとしての技能というより、映画界が[トーキー](../Page/トーキー.md "wikilink")への移行期で脚本家を多く必要としていた事や、過去の功績を買われての部分が大きかったという。仕事の合間をぬって短編小説そしてハリウッドを舞台とする長編小説を書きためていった。
 
 [東海岸の療法施設で生活するゼルダとは疎遠になっており](../Page/アメリカ合衆国東海岸.md "wikilink")、スコットは愛人[シーラ・グレアム](https://ja.wikipedia.org/wiki/シーラ・グレアム "wikilink")と生活していた。この時期、彼は自身のことを「ハリウッドの雇われ脚本家だ」と自嘲していたという。一方ユダヤ系イギリス人のシーラは、名家育ちのゼルダと対照的に孤児院で育ちながらも、美貌と才能を武器にして無一文から成り上り、渡米後にハリウッドスターのゴシップを新聞に執筆していた売れっ子ゴシップコラムニストだった。ゆえに晩年は、かつてはアメリカの頂点にいたベストセラー作家が、金銭的には恵まれてはいるものの物書きとしてのポジションは底辺であるゴシップコラムニストの愛人シーラに経済的に養われるという情けない状況であった。
 
 ### 死去
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:F._Scott_and_Zelda_Fitzgerald_grave.png "wikilink")『[サラダ好きのライオン 村上ラヂオ3](https://ja.wikipedia.org/wiki/サラダ好きのライオン_村上ラヂオ3 "wikilink")』[マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")2012年）。</ref>。\]\] アルコールが手放せず、健康状態が悪化していたフィッツジェラルドは心臓麻痺を何度か起こした。最後の小説を執筆中の[1940年](../Page/1940年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")、フィッツジェラルドは再び心臓麻痺をおこしグレアムのアパートで死亡した\[1\]。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:F._Scott_and_Zelda_Fitzgerald_grave.png "wikilink")『[サラダ好きのライオン 村上ラヂオ3](https://ja.wikipedia.org/wiki/サラダ好きのライオン_村上ラヂオ3 "wikilink")』[マガジンハウス](../Page/マガジンハウス.md "wikilink")2012年）。</ref>。\]\] アルコールが手放せず、健康状態が悪化していたフィッツジェラルドは心臓麻痺を何度か起こした。最後の小説を執筆中の[1940年](../Page/1940年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")、フィッツジェラルドは再び心臓麻痺をおこしグレアムのアパートで死亡した\[1\]。
 
 その葬儀は少人数でおこなわれた。参列した詩人の[ドロシー・パーカー](https://ja.wikipedia.org/wiki/ドロシー・パーカー "wikilink")は『グレート・ギャツビー』中のセリフ「The poor son of a bitch」（意味：かわいそうな奴だ）を泣きながら呟いていたといわれる。
 
@@ -79,16 +79,16 @@
 <!-- end list -->
 
   -
-    『美しく呪われた人たち』[上岡伸雄](../Page/上岡伸雄.md "wikilink")訳　[作品社](https://ja.wikipedia.org/wiki/作品社 "wikilink") 2019
+    『美しく呪われた人たち』[上岡伸雄](../Page/上岡伸雄.md "wikilink")訳　[作品社](../Page/作品社.md "wikilink") 2019
 
 <!-- end list -->
 
-  - 『[グレート・ギャツビー](https://ja.wikipedia.org/wiki/グレート・ギャツビー "wikilink")』 *The Great Gatsby* （1925年）
+  - 『[グレート・ギャツビー](../Page/グレート・ギャツビー.md "wikilink")』 *The Great Gatsby* （1925年）
 
 <!-- end list -->
 
   -
-    『偉大なるギャツビー』[野崎孝](https://ja.wikipedia.org/wiki/野崎孝 "wikilink")訳　研究社出版 1957
+    『偉大なるギャツビー』[野崎孝](../Page/野崎孝.md "wikilink")訳　研究社出版 1957
       -
         『グレート・ギャツビー』[新潮文庫](../Page/新潮文庫.md "wikilink")\[2\]（改版1989、新装改版2010）ISBN 978-4102063019
         『偉大なギャツビー』集英社文庫（1994、改版2013） ISBN 978-4087606652
@@ -106,8 +106,8 @@
 <!-- end list -->
 
   -
-    [谷口陸男](../Page/谷口陸男.md "wikilink")訳　[角川文庫](https://ja.wikipedia.org/wiki/角川文庫 "wikilink")（上下、1960、復刊1989、改版2008）
-    [森慎一郎](https://ja.wikipedia.org/wiki/森慎一郎 "wikilink")訳　[ホーム社](https://ja.wikipedia.org/wiki/ホーム社 "wikilink")（2008）。[作品社](https://ja.wikipedia.org/wiki/作品社 "wikilink")（2014） ISBN 978-4861824807
+    [谷口陸男](../Page/谷口陸男.md "wikilink")訳　[角川文庫](../Page/角川文庫.md "wikilink")（上下、1960、復刊1989、改版2008）
+    [森慎一郎](https://ja.wikipedia.org/wiki/森慎一郎 "wikilink")訳　[ホーム社](https://ja.wikipedia.org/wiki/ホーム社 "wikilink")（2008）。[作品社](../Page/作品社.md "wikilink")（2014） ISBN 978-4861824807
     [岡本紀元](https://ja.wikipedia.org/wiki/岡本紀元 "wikilink")訳　大阪教育図書（2008）
 
 <!-- end list -->
@@ -118,7 +118,7 @@
 
   -
     [大貫三郎](https://ja.wikipedia.org/wiki/大貫三郎 "wikilink")訳　角川文庫 1977、改版2008
-    米田敏範訳　[三笠書房](https://ja.wikipedia.org/wiki/三笠書房 "wikilink") 1977
+    米田敏範訳　[三笠書房](../Page/三笠書房.md "wikilink") 1977
     [乾信一郎](https://ja.wikipedia.org/wiki/乾信一郎 "wikilink")訳　ハヤカワ文庫 1977
     『最後の大君』[沼沢洽治](../Page/沼沢洽治.md "wikilink")訳 「世界文学全集76」集英社 1979
     他は皐月祭・富豪青年・バビロン再訪、野崎孝訳・偉大なギャツビー。各・集英社文庫で再刊
@@ -164,7 +164,7 @@
   - フィッツジェラルド作品集（[渥美昭夫](https://ja.wikipedia.org/wiki/渥美昭夫 "wikilink")、[井上謙治](https://ja.wikipedia.org/wiki/井上謙治 "wikilink")編、[荒地出版社](https://ja.wikipedia.org/wiki/荒地出版社 "wikilink")〈全3巻〉、1981年）
       -
         『ジャズ・エイジの物語』『すべて悲しき若者たち』『崩壊』
-  - バビロン再訪 フィッツジェラルド短篇集（[沼沢洽治](../Page/沼沢洽治.md "wikilink")編訳、[集英社文庫](https://ja.wikipedia.org/wiki/集英社文庫 "wikilink")、1990年）三篇
+  - バビロン再訪 フィッツジェラルド短篇集（[沼沢洽治](../Page/沼沢洽治.md "wikilink")編訳、[集英社文庫](../Page/集英社文庫.md "wikilink")、1990年）三篇
   - フィッツジェラルド短編集（野崎孝編訳、[新潮文庫](../Page/新潮文庫.md "wikilink")、1990年、改版2012年）六篇
   - フィッツジェラルド短篇集（[佐伯泰樹](https://ja.wikipedia.org/wiki/佐伯泰樹 "wikilink")編訳、[岩波文庫](../Page/岩波文庫.md "wikilink")、1992年）六篇
       -
@@ -174,7 +174,7 @@
   - [ベンジャミン・バトン 数奇な人生](https://ja.wikipedia.org/wiki/ベンジャミン・バトン_数奇な人生 "wikilink")
       -
         [都甲幸治](../Page/都甲幸治.md "wikilink")訳　イースト・プレス、2009年
-        [永山篤一](https://ja.wikipedia.org/wiki/永山篤一 "wikilink")編訳、[角川文庫](https://ja.wikipedia.org/wiki/角川文庫 "wikilink")、2009年
+        [永山篤一](https://ja.wikipedia.org/wiki/永山篤一 "wikilink")編訳、[角川文庫](../Page/角川文庫.md "wikilink")、2009年
 
 ### その他の作品
 
@@ -205,7 +205,7 @@
 <!-- end list -->
 
   - [マイ・ロスト・シティー フィッツジェラルド作品集](https://ja.wikipedia.org/wiki/マイ・ロスト・シティー "wikilink")（中央公論社、1981年、のち文庫） 短篇4作とエッセイ1編・村上のエッセイ1編
-  - [ザ・スコット・フィッツジェラルド・ブック](https://ja.wikipedia.org/wiki/ザ・スコット・フィッツジェラルド・ブック "wikilink")（[TBSブリタニカ](https://ja.wikipedia.org/wiki/TBSブリタニカ "wikilink")、1988年、のち文庫） 短篇2作・村上のエッセイ8編
+  - [ザ・スコット・フィッツジェラルド・ブック](https://ja.wikipedia.org/wiki/ザ・スコット・フィッツジェラルド・ブック "wikilink")（[TBSブリタニカ](../Page/TBSブリタニカ.md "wikilink")、1988年、のち文庫） 短篇2作・村上のエッセイ8編
   - [バビロンに帰る ザ・スコット・フィッツジェラルド・ブック2](https://ja.wikipedia.org/wiki/バビロンに帰る_ザ・スコット・フィッツジェラルド・ブック2 "wikilink")（中央公論社、1996年、のち文庫） 短篇5作・村上のエッセイ1編
   - グレート・ギャツビー（中央公論新社、2006年） 。愛蔵単行本と新書版を同時刊
   - 冬の夢（中央公論新社、2009年、翻訳ライブラリー、2011年）。表題作ほか20代の短篇5作品
@@ -216,7 +216,7 @@
   - アンドルー・ターンブル 『完訳フィッツジェラルド伝』 永岡定夫・坪井清彦訳 こびあん書房 2000年 ISBN 978-4-87558-210-6
   - Mizener, Arthur, *The Far Side of Paradise*, Houghton Mifflin, 1964 ISBN 978-0-395-08395-6
   - Bruccoli, Matthew Joseph and Smith, *Scottie Fitzgerald, Some Sort of Epic Grandeur* University of South Carolina Press, 2002 ISBN 978-1-57003-455-8
-  - [宮脇俊文](https://ja.wikipedia.org/wiki/宮脇俊文 "wikilink")『グレート・ギャツビー』の世界　ダークブルーの夢』[青土社](https://ja.wikipedia.org/wiki/青土社 "wikilink") 2013年
+  - [宮脇俊文](https://ja.wikipedia.org/wiki/宮脇俊文 "wikilink")『グレート・ギャツビー』の世界　ダークブルーの夢』[青土社](../Page/青土社.md "wikilink") 2013年
       - 『[ジャズ・エイジ](https://ja.wikipedia.org/wiki/ジャズ・エイジ "wikilink")は終わらない　『夜はやさし』の世界』青土社 2019年
   - [森川展男](../Page/森川展男.md "wikilink") 『フィッツジェラルド 愛と彷徨の青春』 [丸善](https://ja.wikipedia.org/wiki/丸善 "wikilink")ブックス 1995年
   - 小堀用一朗 『スコット・フィッツジェラルド 人と作品』 鷹書房弓プレス 1994年

@@ -1,11 +1,11 @@
 > この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
 
 
-**AFC女子アジアカップ**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が主催する、[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")各国の[ナショナルチーム](https://ja.wikipedia.org/wiki/ナショナルチーム "wikilink")による[女子サッカー](https://ja.wikipedia.org/wiki/女子サッカー "wikilink")の大陸選手権大会である。男子の[AFCアジアカップ](https://ja.wikipedia.org/wiki/AFCアジアカップ "wikilink")に相当する大会ではあるが、開催年によっては[FIFA女子ワールドカップ](https://ja.wikipedia.org/wiki/FIFA女子ワールドカップ "wikilink")の予選を兼ねるところが異なる。
+**AFC女子アジアカップ**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が主催する、[アジア](../Page/アジア.md "wikilink")各国の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[女子サッカー](../Page/女子サッカー.md "wikilink")の大陸選手権大会である。男子の[AFCアジアカップ](../Page/AFCアジアカップ.md "wikilink")に相当する大会ではあるが、開催年によっては[FIFA女子ワールドカップ](../Page/FIFA女子ワールドカップ.md "wikilink")の予選を兼ねるところが異なる。
 
 ## 歴史
 
-[1975年](../Page/1975年.md "wikilink")に[アジア女子サッカー連盟](https://ja.wikipedia.org/wiki/アジア女子サッカー連盟 "wikilink")（ALFC）が**アジア女子選手権**として開催し、1986年にALFCがAFCに吸収されてからは**AFC女子選手権**（）になり、[2006年の本大会から現在の名称となった](https://ja.wikipedia.org/wiki/2006_AFC女子アジアカップ "wikilink")（ただし以前から通称として「（女子）アジアカップ」の呼び名が使われていた）。
+[1975年](../Page/1975年.md "wikilink")に[アジア女子サッカー連盟](https://ja.wikipedia.org/wiki/アジア女子サッカー連盟 "wikilink")（ALFC）が**アジア女子選手権**として開催し、1986年にALFCがAFCに吸収されてからは**AFC女子選手権**（）になり、[2006年の本大会から現在の名称となった](../Page/2006_AFC女子アジアカップ.md "wikilink")（ただし以前から通称として「（女子）アジアカップ」の呼び名が使われていた）。
 
 ## 結果
 
@@ -183,7 +183,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2003_AFC女子選手権" title="wikilink">14</a></p></td>
+<td><p><a href="../Page/2003_AFC女子選手権.md" title="wikilink">14</a></p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -194,8 +194,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006_AFC女子アジアカップ" title="wikilink">15</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006_AFC女子アジアカップ.md" title="wikilink">15</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 - 2</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a><br />
@@ -676,8 +676,8 @@
   - *斜字*は現在AFC以外に加盟
   - 国・地域名は現在の名称で統一した
       - 1977年大会と1979年大会における中華民国の成績は[チャイニーズタイペイの成績に加え](../Page/サッカーチャイニーズタイペイ女子代表.md "wikilink")、[中国の成績に加えない](../Page/サッカー中華人民共和国女子代表.md "wikilink")
-      - 1977年大会における[FCジンナン](https://ja.wikipedia.org/wiki/FCジンナン "wikilink")の成績は[日本の成績に加えている](https://ja.wikipedia.org/wiki/サッカー日本女子代表 "wikilink")
-      - 1979年大会における[西オーストラリア州](https://ja.wikipedia.org/wiki/西オーストラリア州 "wikilink")選抜の成績は[オーストラリアの成績に加えている](../Page/サッカーオーストラリア女子代表.md "wikilink")
+      - 1977年大会における[FCジンナン](../Page/FCジンナン.md "wikilink")の成績は[日本の成績に加えている](https://ja.wikipedia.org/wiki/サッカー日本女子代表 "wikilink")
+      - 1979年大会における[西オーストラリア州](../Page/西オーストラリア州.md "wikilink")選抜の成績は[オーストラリアの成績に加えている](../Page/サッカーオーストラリア女子代表.md "wikilink")
   - 順位は通算勝点の多い順で、通算勝点が同数の場合は1試合あたりの平均勝点が多い方を、それも同数の場合は得失点差の優れた方を、得失点差も同数の場合は総得点の多い方を上にした
   - 1993年大会までの勝点は＜勝＝2、分＝1、敗＝0＞であったが、通算成績では現行と同じ＜勝＝3、分＝1、敗＝0＞で統一した
   - [PK戦](../Page/PK戦.md "wikilink")で決着がついた試合は記録上引分となる
@@ -851,7 +851,7 @@
 </table>
 
   - *斜数字*は招待出場およびOFCからの出場。
-  - 1977年大会では[FCジンナン](https://ja.wikipedia.org/wiki/FCジンナン "wikilink")が[日本代表として出場](https://ja.wikipedia.org/wiki/サッカー日本女子代表 "wikilink")
+  - 1977年大会では[FCジンナン](../Page/FCジンナン.md "wikilink")が[日本代表として出場](https://ja.wikipedia.org/wiki/サッカー日本女子代表 "wikilink")
 
 ## 表彰
 
@@ -867,16 +867,16 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006_AFC女子アジアカップ" title="wikilink">2006</a></p></td>
+<td><p><a href="../Page/2006_AFC女子アジアカップ.md" title="wikilink">2006</a></p></td>
 <td><p><a href="../Page/馬暁旭.md" title="wikilink">馬暁旭</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/永里優季" title="wikilink">永里優季</a></p></td>
+<td><p><a href="../Page/永里優季.md" title="wikilink">永里優季</a></p></td>
 <td><p>7</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008_AFC女子アジアカップ" title="wikilink">2008</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/澤穂希" title="wikilink">澤穂希</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/李今淑" title="wikilink">李琴淑</a></p></td>
+<td><p><a href="../Page/李今淑.md" title="wikilink">李琴淑</a></p></td>
 <td><p>7</p></td>
 <td></td>
 </tr>
@@ -907,7 +907,7 @@
 
 ## 関連項目
 
-  - [AFCアジアカップ](https://ja.wikipedia.org/wiki/AFCアジアカップ "wikilink")
+  - [AFCアジアカップ](../Page/AFCアジアカップ.md "wikilink")
 
 ## 脚注
 

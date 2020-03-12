@@ -1,17 +1,17 @@
 > この記事は[YMCK](https://ja.wikipedia.org/wiki/YMCK)から翻訳されています。
 
 
-**YMCK**（ワイエムシーケー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。[チップチューン](../Page/チップチューン.md "wikilink")のジャンルにおいて、世界的に活躍するグループである。
+**YMCK**（ワイエムシーケー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[チップチューン](../Page/チップチューン.md "wikilink")のジャンルにおいて、世界的に活躍するグループである。
 
 ## 概要
 
-[スウィング・ジャズ](https://ja.wikipedia.org/wiki/スウィング・ジャズ "wikilink")の要素を加えた[テクノポップ](../Page/テクノポップ.md "wikilink")サウンドを、[ファミコンの](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")[ゲームミュージック](../Page/ゲームミュージック.md "wikilink")のような8bit音源とボサノバのようなボーカルで奏でる作風が特徴。アルバムCDのジャケットもファミコンのゲームキャラクターのような[ドット絵](https://ja.wikipedia.org/wiki/ドット絵 "wikilink")で描かれており、TVの音楽番組などでコメント出演する際も、実写映像ではなくドット絵アニメで登場している。
+[スウィング・ジャズ](../Page/スウィング・ジャズ.md "wikilink")の要素を加えた[テクノポップ](../Page/テクノポップ.md "wikilink")サウンドを、[ファミコンの](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")[ゲームミュージック](../Page/ゲームミュージック.md "wikilink")のような8bit音源とボサノバのようなボーカルで奏でる作風が特徴。アルバムCDのジャケットもファミコンのゲームキャラクターのような[ドット絵](../Page/ドット絵.md "wikilink")で描かれており、TVの音楽番組などでコメント出演する際も、実写映像ではなくドット絵アニメで登場している。
 
-バンド結成は[2003年](../Page/2003年.md "wikilink")5月。[CD-R](../Page/CD-R.md "wikilink")の自主制作盤『ファミリーミュージック』がヒットとなり、[2004年](../Page/2004年.md "wikilink")11月にウサギチャンレコーズから1stアルバム『ファミリーミュージック』をリリースする（1stアルバムは自主制作盤とタイトルが同じだが、アルバムの構成は異なる）。1stアルバムのヒットにより、日本のみならず[タイや](../Page/タイ王国.md "wikilink")[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")でも名前は知れ渡り、ライブを行っている。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月に2ndアルバムとなる『ファミリーレーシング』をリリース。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月に[avex traxから](https://ja.wikipedia.org/wiki/avex_trax "wikilink")3rdアルバム『ファミリージェネシス』をリリースし、メジャーデビューとなる。チップチューンの[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")を始め、各方面へのゲスト参加や楽曲の[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")も積極的に行っている。2008年には「[ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink").2008」や「[COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 08/09」の[幕張](../Page/幕張.md "wikilink")・[大阪](../Page/大阪.md "wikilink")両会場への出演も行った。同年12月には[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")のシングル「[気まぐれロマンティック](https://ja.wikipedia.org/wiki/気まぐれロマンティック "wikilink")」のPVのドット絵アニメーションも手がけた。
+バンド結成は[2003年](../Page/2003年.md "wikilink")5月。[CD-R](../Page/CD-R.md "wikilink")の自主制作盤『ファミリーミュージック』がヒットとなり、[2004年](../Page/2004年.md "wikilink")11月にウサギチャンレコーズから1stアルバム『ファミリーミュージック』をリリースする（1stアルバムは自主制作盤とタイトルが同じだが、アルバムの構成は異なる）。1stアルバムのヒットにより、日本のみならず[タイや](../Page/タイ王国.md "wikilink")[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")でも名前は知れ渡り、ライブを行っている。[2005年](../Page/2005年.md "wikilink")12月に2ndアルバムとなる『ファミリーレーシング』をリリース。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月に[avex traxから](https://ja.wikipedia.org/wiki/avex_trax "wikilink")3rdアルバム『ファミリージェネシス』をリリースし、メジャーデビューとなる。チップチューンの[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")を始め、各方面へのゲスト参加や楽曲の[リミックス](../Page/リミックス.md "wikilink")も積極的に行っている。2008年には「[ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink").2008」や「[COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 08/09」の[幕張](../Page/幕張.md "wikilink")・[大阪](../Page/大阪.md "wikilink")両会場への出演も行った。同年12月には[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")のシングル「[気まぐれロマンティック](https://ja.wikipedia.org/wiki/気まぐれロマンティック "wikilink")」のPVのドット絵アニメーションも手がけた。
 
 ライブ以外では素顔は公開せず、音楽誌のライブレポートではそれぞれのドット絵のイラストが顔に被せられている。
 
-公式サイトでは、Yokemuraが開発したMagical 8bit Plugというオリジナルのプラグイン形式の[ソフトウェア・シンセサイザー](https://ja.wikipedia.org/wiki/ソフトウェア・シンセサイザー "wikilink")を公開している。フリーウェアであるため、ダウンロードをすればYMCKの曲のような8bitゲームミュージックが自作可能。
+公式サイトでは、Yokemuraが開発したMagical 8bit Plugというオリジナルのプラグイン形式の[ソフトウェア・シンセサイザー](../Page/ソフトウェア・シンセサイザー.md "wikilink")を公開している。フリーウェアであるため、ダウンロードをすればYMCKの曲のような8bitゲームミュージックが自作可能。
 
 ## メンバー
 
@@ -85,7 +85,7 @@
 <td><p>USAGI-CHANG RECORDS</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a><br />
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a><br />
 <a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/3月7日.md" title="wikilink">3月7日</a>(再発盤)</p></td>
 <td><p><strong>ファミリーレーシング</strong></p></td>
 <td><p>初回限定盤:USG-011<br />
@@ -156,9 +156,9 @@
 <li><a href="https://ja.wikipedia.org/wiki/傘がない" title="wikilink">傘がない</a> / 井上陽水</li>
 <li><a href="https://ja.wikipedia.org/wiki/春夏秋冬_(泉谷しげるの曲)" title="wikilink">春夏秋冬</a> / <a href="../Page/泉谷しげる.md" title="wikilink">泉谷しげる</a></li>
 <li>満足できるかな / <a href="../Page/遠藤賢司.md" title="wikilink">遠藤賢司</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/言葉にできない" title="wikilink">言葉にできない</a> / <a href="https://ja.wikipedia.org/wiki/オフコース" title="wikilink">オフコース</a></li>
+<li><a href="../Page/言葉にできない.md" title="wikilink">言葉にできない</a> / <a href="https://ja.wikipedia.org/wiki/オフコース" title="wikilink">オフコース</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/今はまだ人生を語らず" title="wikilink">人生を語らず</a> / 吉田拓郎</li>
-<li>まるで正直者のように / <a href="https://ja.wikipedia.org/wiki/友部正人" title="wikilink">友部正人</a>
+<li>まるで正直者のように / <a href="../Page/友部正人.md" title="wikilink">友部正人</a>
 </div>
 </div></li>
 </ol></td>
@@ -175,10 +175,10 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li><a href="https://ja.wikipedia.org/wiki/DOWN_TOWN" title="wikilink">DOWN TOWN</a> / <a href="../Page/シュガー・ベイブ.md" title="wikilink">シュガー・ベイブ</a>（YMCK）</li>
-<li><a href="https://ja.wikipedia.org/wiki/ルージュの伝言" title="wikilink">ルージュの伝言</a> / <a href="../Page/松任谷由実.md" title="wikilink">松任谷由実</a>（DE DE MOUSE feat.<a href="https://ja.wikipedia.org/wiki/moumoon" title="wikilink">moumoon</a>）</li>
+<li><a href="../Page/DOWN_TOWN.md" title="wikilink">DOWN TOWN</a> / <a href="../Page/シュガー・ベイブ.md" title="wikilink">シュガー・ベイブ</a>（YMCK）</li>
+<li><a href="../Page/ルージュの伝言.md" title="wikilink">ルージュの伝言</a> / <a href="../Page/松任谷由実.md" title="wikilink">松任谷由実</a>（DE DE MOUSE feat.<a href="https://ja.wikipedia.org/wiki/moumoon" title="wikilink">moumoon</a>）</li>
 <li>BEAUTIFUL NAME / <a href="../Page/ゴダイゴ.md" title="wikilink">ゴダイゴ</a>（YMCK）</li>
-<li><a href="https://ja.wikipedia.org/wiki/メトロポリタン美術館_(みんなのうた)" title="wikilink">メトロポリタン美術館</a> / <a href="https://ja.wikipedia.org/wiki/大貫妙子" title="wikilink">大貫妙子</a>（DE DE MOUSE feat.<a href="https://ja.wikipedia.org/wiki/コトリンゴ" title="wikilink">コトリンゴ</a>）</li>
+<li><a href="https://ja.wikipedia.org/wiki/メトロポリタン美術館_(みんなのうた)" title="wikilink">メトロポリタン美術館</a> / <a href="../Page/大貫妙子.md" title="wikilink">大貫妙子</a>（DE DE MOUSE feat.<a href="../Page/コトリンゴ.md" title="wikilink">コトリンゴ</a>）</li>
 <li>風をあつめて / <a href="../Page/はっぴいえんど.md" title="wikilink">はっぴいえんど</a>（YMCK）</li>
 <li>DOWN TOWN / シュガー・ベイブ（DE DE MOUSE feat.<a href="https://ja.wikipedia.org/wiki/一十三十一" title="wikilink">一十三十一</a>）
 </div>
@@ -355,8 +355,8 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/4月26日.md" title="wikilink">4月26日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/RAM_RIDER" title="wikilink">RAM RIDER</a>『PORTABLE DISCO 8bit edition』</strong></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/4月26日.md" title="wikilink">4月26日</a></p></td>
+<td><p><strong><a href="../Page/RAM_RIDER.md" title="wikilink">RAM RIDER</a>『PORTABLE DISCO 8bit edition』</strong></p></td>
 <td><p>RZCD-45357</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -397,7 +397,7 @@
 <li>TOKYO SPARKLE</li>
 <li>雨燕</li>
 <li>No No Pudding,No No Tokyo</li>
-<li>Jane Doe -<a href="https://ja.wikipedia.org/wiki/Jazztronik" title="wikilink">Jazztronik</a> Remix</li>
+<li>Jane Doe -<a href="../Page/Jazztronik.md" title="wikilink">Jazztronik</a> Remix</li>
 <li><strong>TOKYO SOUNDSCAPES -YMCK Remix</strong>
 </div>
 </div></li>
@@ -419,8 +419,8 @@
 <li>陽のあたる月曜日 / <a href="../Page/サエキけんぞう.md" title="wikilink">サエキけんぞう</a></li>
 <li>うらら・うららか / <a href="https://ja.wikipedia.org/wiki/ぶどう÷グレープ" title="wikilink">ぶどう÷グレープ</a></li>
 <li>シャンソン・ポピュレール / <a href="https://ja.wikipedia.org/wiki/TOASTGIRL" title="wikilink">TOASTGIRL</a></li>
-<li>君が恋におちた時 / <a href="https://ja.wikipedia.org/wiki/かしぶち哲郎" title="wikilink">かしぶち哲郎</a></li>
-<li>アレキサンドリ・アレキサンドラ / <a href="https://ja.wikipedia.org/wiki/ELEKTEL" title="wikilink">ELEKTEL</a> featuring <a href="../Page/松尾清憲.md" title="wikilink">松尾清憲</a></li>
+<li>君が恋におちた時 / <a href="../Page/かしぶち哲郎.md" title="wikilink">かしぶち哲郎</a></li>
+<li>アレキサンドリ・アレキサンドラ / <a href="../Page/ELEKTEL.md" title="wikilink">ELEKTEL</a> featuring <a href="../Page/松尾清憲.md" title="wikilink">松尾清憲</a></li>
 <li>リオに行こう! / <a href="https://ja.wikipedia.org/wiki/chelucy" title="wikilink">chelucy</a></li>
 <li>いつものように(マイ・ウェイ) / <a href="https://ja.wikipedia.org/wiki/FANTASYS_CORE" title="wikilink">FANTASYS CORE</a></li>
 <li>けれど朝には / <a href="https://ja.wikipedia.org/wiki/Les_Cappuccino" title="wikilink">Les Cappuccino</a></li>
@@ -519,15 +519,15 @@
 <p>DISC1</p>
 <ol>
 <li>Katamari on the Rhodes</li>
-<li>塊オンザウィングス Vocal:<a href="https://ja.wikipedia.org/wiki/大橋卓弥" title="wikilink">大橋卓弥</a>（from <a href="https://ja.wikipedia.org/wiki/スキマスイッチ" title="wikilink">スキマスイッチ</a>）</li>
+<li>塊オンザウィングス Vocal:<a href="../Page/大橋卓弥.md" title="wikilink">大橋卓弥</a>（from <a href="../Page/スキマスイッチ.md" title="wikilink">スキマスイッチ</a>）</li>
 <li>カタマリゾート・ソング Vocal:<a href="https://ja.wikipedia.org/wiki/サイゲンジ" title="wikilink">サイゲンジ</a></li>
 <li>つよがり魂 (Refreshed by GUIRO) Re-Arrangement:GUIRO</li>
-<li>塊オンザロック (5cm prince Remix) Remix:<a href="https://ja.wikipedia.org/wiki/AFRA" title="wikilink">AFRA</a></li>
+<li>塊オンザロック (5cm prince Remix) Remix:<a href="../Page/AFRA.md" title="wikilink">AFRA</a></li>
 <li>MONOCHROME</li>
 <li>Galactic S-O-U-L Remix:<a href="https://ja.wikipedia.org/wiki/バッファロー・ドーター" title="wikilink">バッファロー・ドーター</a></li>
 <li>校庭DAYDREAMER</li>
-<li>灼熱のサバンナ高等学校 Performance:<a href="https://ja.wikipedia.org/wiki/堀越高等学校" title="wikilink">堀越高等学校</a><a href="https://ja.wikipedia.org/wiki/吹奏楽団" title="wikilink">吹奏楽団</a></li>
-<li>ヒューストン (Re-Arranged by KIRINJI) Re-Arrangement:<a href="https://ja.wikipedia.org/wiki/キリンジ" title="wikilink">キリンジ</a></li>
+<li>灼熱のサバンナ高等学校 Performance:<a href="../Page/堀越高等学校.md" title="wikilink">堀越高等学校</a><a href="https://ja.wikipedia.org/wiki/吹奏楽団" title="wikilink">吹奏楽団</a></li>
+<li>ヒューストン (Re-Arranged by KIRINJI) Re-Arrangement:<a href="../Page/キリンジ.md" title="wikilink">キリンジ</a></li>
 <li>さくらいろの季節 Fanfare mix) Re-Arrangement:<a href="../Page/ビューティフルハミングバード.md" title="wikilink">ビューティフルハミングバード</a></li>
 <li>Loney Rolling No More Vocal:ゆうさま＆なつこはん</li>
 <li>You are Smart (RAAGINIA AOFT MIX) Remix:SOFT</li>
@@ -541,7 +541,7 @@
 <ol>
 <li>Katamari On The Funk (Señor Coconut's "Katamambo!" remix) Remix:</li>
 <li><strong>真っ赤なバラとジントニック (YMCK 8bit Mix) Remix:YMCK</strong></li>
-<li>Everlasting Love+You Vocal:<a href="https://ja.wikipedia.org/wiki/リア・ディゾン" title="wikilink">リア・ディゾン</a></li>
+<li>Everlasting Love+You Vocal:<a href="../Page/リア・ディゾン.md" title="wikilink">リア・ディゾン</a></li>
 <li>The Royal Academy Of Katamari (Kimitaka Matsumae Remix) Remix:<a href="https://ja.wikipedia.org/wiki/松前公高" title="wikilink">松前公高</a></li>
 <li>Everlasting Love (atom™ remix) Remix:</li>
 <li>サヨナラ Rolling Star (Yuri's Mixx) Vocal:<a href="https://ja.wikipedia.org/wiki/Micazo" title="wikilink">Micazo</a></li>
@@ -623,8 +623,8 @@
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>風の通り道 (ブートビートのごった煮ミックス)</li>
-<li>崖の上のポニョ (<a href="https://ja.wikipedia.org/wiki/HALFBY" title="wikilink">HALFBY</a> Dutch Remix)</li>
-<li>風の谷のナウシカ (<a href="https://ja.wikipedia.org/wiki/RAM_RIDER" title="wikilink">RAM RIDER</a> REMIX)</li>
+<li>崖の上のポニョ (<a href="../Page/HALFBY.md" title="wikilink">HALFBY</a> Dutch Remix)</li>
+<li>風の谷のナウシカ (<a href="../Page/RAM_RIDER.md" title="wikilink">RAM RIDER</a> REMIX)</li>
 <li>となりのトトロ (<a href="https://ja.wikipedia.org/wiki/SmileR" title="wikilink">SmileR</a> Remix)</li>
 <li>君をのせて (<a href="https://ja.wikipedia.org/wiki/Ciku_Ciki_Freaks" title="wikilink">Ciku Ciki Freaks</a> Mix)</li>
 <li>ナウシカ・レクイエム (<a href="https://ja.wikipedia.org/wiki/その名はスペィド" title="wikilink">その名はスペィド</a>による妖精葬列リミックス)</li>
@@ -702,14 +702,14 @@
 <li>ぴょんぴょんぴょん / <a href="https://ja.wikipedia.org/wiki/福原遥" title="wikilink">福原遥</a></li>
 <li>いとしのせんぱい / <a href="../Page/YUKA.md" title="wikilink">YUKA</a> from <a href="https://ja.wikipedia.org/wiki/moumoon" title="wikilink">moumoon</a></li>
 <li>なめこのうた（地獄のなめこのうた） / <a href="https://ja.wikipedia.org/wiki/デーモン閣下" title="wikilink">デーモン閣下</a></li>
-<li>みんな王様 / <a href="https://ja.wikipedia.org/wiki/奥華子" title="wikilink">奥華子</a></li>
+<li>みんな王様 / <a href="../Page/奥華子.md" title="wikilink">奥華子</a></li>
 <li>んふんふ音頭 / <a href="../Page/ジェロ.md" title="wikilink">ジェロ</a></li>
 <li>GOLDY PYRAMID / <a href="https://ja.wikipedia.org/wiki/スギちゃん" title="wikilink">スギちゃん</a></li>
 <li>んふっとメリークリスマス! / <a href="https://ja.wikipedia.org/wiki/THE_ポッシボー" title="wikilink">THE ポッシボー</a></li>
 <li><strong>星になりたい / YMCK</strong></li>
 <li>あやかし百菌夜行 / <a href="https://ja.wikipedia.org/wiki/黒崎眞弥" title="wikilink">黒崎眞弥</a>（<a href="https://ja.wikipedia.org/wiki/己龍" title="wikilink">己龍</a>）</li>
-<li>幸せのんふふ / アヤ with <a href="https://ja.wikipedia.org/wiki/かせきさいだぁ" title="wikilink">かせきさいだぁ</a></li>
-<li>Bon appetit -めしあがれ♪- / <a href="https://ja.wikipedia.org/wiki/野水伊織" title="wikilink">野水伊織</a></li>
+<li>幸せのんふふ / アヤ with <a href="../Page/かせきさいだぁ.md" title="wikilink">かせきさいだぁ</a></li>
+<li>Bon appetit -めしあがれ♪- / <a href="../Page/野水伊織.md" title="wikilink">野水伊織</a></li>
 <li>Soup is Like a Lake / <a href="https://ja.wikipedia.org/wiki/YeYe" title="wikilink">YeYe</a></li>
 <li>エリーに首ったけ / <a href="https://ja.wikipedia.org/wiki/ぼすとんず" title="wikilink">ぼすとんず</a>
 </div>
@@ -748,7 +748,7 @@
 ### ゲーム
 
   - [PiCOPiCT](https://ja.wikipedia.org/wiki/Art_Style#PiCOPiCT "wikilink")(任天堂・2009年/ニンテンドーDSiウェア) - ゲームBGM作曲・編曲
-  - [太鼓の達人](https://ja.wikipedia.org/wiki/太鼓の達人 "wikilink")シリーズ（楽曲提供）
+  - [太鼓の達人](../Page/太鼓の達人.md "wikilink")シリーズ（楽曲提供）
       - ファミリードンドン
       - お菓子刑事の歌
       - ダンバ・ダンバ・ディン・ダン

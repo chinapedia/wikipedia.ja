@@ -1,23 +1,23 @@
 > この記事は[WX](https://ja.wikipedia.org/wiki/WX)から翻訳されています。
 
 
-**シャドウWX**（シャドウ・ダブル・エックス、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[6月11日](../Page/6月11日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**志賀 悟**（しが さとる）。[新潟県](../Page/新潟県.md "wikilink")[十日町市](https://ja.wikipedia.org/wiki/十日町市 "wikilink")出身。
+**シャドウWX**（シャドウ・ダブル・エックス、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[6月11日](../Page/6月11日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**志賀 悟**（しが さとる）。[新潟県](../Page/新潟県.md "wikilink")[十日町市](../Page/十日町市.md "wikilink")出身。
 
 ## 経歴
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[IWA・JAPAN](https://ja.wikipedia.org/wiki/IWA・JAPAN "wikilink")にて本名の志賀悟でデビュー。[1996年](../Page/1996年.md "wikilink")にはフリーとなる。この頃は、[中牧昭二](https://ja.wikipedia.org/wiki/中牧昭二 "wikilink")と行動を共にすることが多かった。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[IWA・JAPAN](../Page/IWA・JAPAN.md "wikilink")にて本名の志賀悟でデビュー。[1996年](../Page/1996年.md "wikilink")にはフリーとなる。この頃は、[中牧昭二](../Page/中牧昭二.md "wikilink")と行動を共にすることが多かった。
 
-[1999年](../Page/1999年.md "wikilink")から[大日本プロレス](https://ja.wikipedia.org/wiki/大日本プロレス "wikilink")に所属する。[ミスター・ポーゴ](https://ja.wikipedia.org/wiki/ミスター・ポーゴ "wikilink")の子分的存在となり、ポーゴの影武者=ポーゴシャドウ→シャドウWXと改名。ポーゴ離脱後は[デスマッチ](../Page/デスマッチ.md "wikilink")で徐々に独自の存在感を露にし、[本間朋晃](https://ja.wikipedia.org/wiki/本間朋晃 "wikilink")、[山川竜司](https://ja.wikipedia.org/wiki/山川竜司 "wikilink")と共に「デスマッチ新世代」を形成するなど、大日本プロレスのデスマッチの歴史において彼を外す事は出来ないと言われる程の実力派デスマッチファイターとまで評されるようになる。蛍光灯や有刺鉄線を始め、画鋲、ファイヤー、チェーンデスマッチ、そして棺桶デスマッチも経験しており、デスマッチにおけるキャリアは大日本トップクラスである。
+[1999年](../Page/1999年.md "wikilink")から[大日本プロレス](../Page/大日本プロレス.md "wikilink")に所属する。[ミスター・ポーゴ](../Page/ミスター・ポーゴ.md "wikilink")の子分的存在となり、ポーゴの影武者=ポーゴシャドウ→シャドウWXと改名。ポーゴ離脱後は[デスマッチ](../Page/デスマッチ.md "wikilink")で徐々に独自の存在感を露にし、[本間朋晃](../Page/本間朋晃.md "wikilink")、[山川竜司](../Page/山川竜司.md "wikilink")と共に「デスマッチ新世代」を形成するなど、大日本プロレスのデスマッチの歴史において彼を外す事は出来ないと言われる程の実力派デスマッチファイターとまで評されるようになる。蛍光灯や有刺鉄線を始め、画鋲、ファイヤー、チェーンデスマッチ、そして棺桶デスマッチも経験しており、デスマッチにおけるキャリアは大日本トップクラスである。
 
 [2004年](../Page/2004年.md "wikilink")の[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")では、自ら率先して被災者救済の為の活動を行い、[みちのくプロレス](../Page/みちのくプロレス.md "wikilink")主催のチャリティ興行にも同伴している。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[アパッチプロレス軍](../Page/アパッチプロレス軍.md "wikilink")所属の[マンモス佐々木](https://ja.wikipedia.org/wiki/マンモス佐々木 "wikilink")と「**チームあんこ型**」を結成。
+[2005年](../Page/2005年.md "wikilink")、[アパッチプロレス軍](../Page/アパッチプロレス軍.md "wikilink")所属の[マンモス佐々木](../Page/マンモス佐々木.md "wikilink")と「**チームあんこ型**」を結成。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月[川崎市体育館](../Page/川崎市体育館.md "wikilink")大会にて、[BJW認定タッグ王座](https://ja.wikipedia.org/wiki/BJW認定タッグ王座 "wikilink")をマッスル＆ファットです。（[アブドーラ小林](../Page/アブドーラ小林.md "wikilink")＆[関本大介](https://ja.wikipedia.org/wiki/関本大介 "wikilink")）から奪取。同年12月3日[横浜文体で](https://ja.wikipedia.org/wiki/横浜文化体育館 "wikilink")、関本・[佐々木義人](https://ja.wikipedia.org/wiki/佐々木義人 "wikilink")組に敗れるまで、4回の防衛に成功。
+[2006年](../Page/2006年.md "wikilink")1月[川崎市体育館](../Page/川崎市体育館.md "wikilink")大会にて、[BJW認定タッグ王座](../Page/BJW認定タッグ王座.md "wikilink")をマッスル＆ファットです。（[アブドーラ小林](../Page/アブドーラ小林.md "wikilink")＆[関本大介](../Page/関本大介.md "wikilink")）から奪取。同年12月3日[横浜文体で](../Page/横浜文化体育館.md "wikilink")、関本・[佐々木義人](../Page/佐々木義人.md "wikilink")組に敗れるまで、4回の防衛に成功。
 
-その後は[稲松三郎](https://ja.wikipedia.org/wiki/稲松三郎 "wikilink")ら若いデスマッチ世代の台頭を恐れ、マンモスとのタッグを休止し、再びデスマッチ主戦線に絡むようになり、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月4日・[桂スタジオ](../Page/桂スタジオ.md "wikilink")大会で、王者・[伊東竜二](https://ja.wikipedia.org/wiki/伊東竜二 "wikilink")を倒し、実に8年半ぶり4回目となる[BJW認定デスマッチヘビー級王座](https://ja.wikipedia.org/wiki/BJW認定デスマッチヘビー級王座 "wikilink")を獲得した。
+その後は[稲松三郎](../Page/稲松三郎.md "wikilink")ら若いデスマッチ世代の台頭を恐れ、マンモスとのタッグを休止し、再びデスマッチ主戦線に絡むようになり、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月4日・[桂スタジオ](../Page/桂スタジオ.md "wikilink")大会で、王者・[伊東竜二](../Page/伊東竜二.md "wikilink")を倒し、実に8年半ぶり4回目となる[BJW認定デスマッチヘビー級王座](../Page/BJW認定デスマッチヘビー級王座.md "wikilink")を獲得した。
 
-この間、[他団体選手の女性スタッフ強制猥褻事件で一度引責辞任した](https://ja.wikipedia.org/wiki/金村キンタロー "wikilink")[登坂栄児](https://ja.wikipedia.org/wiki/登坂栄児 "wikilink")が就いていた統括部長の職を一時的に代行していたが、デスマッチヘビー級王座獲得に伴い、選手活動に専念したいという意向で退任している。この頃は蛍光灯に頼り切った大日本のデスマッチの方向性を疑問視し、蛍光灯の使用本数の削減もしくは蛍光灯の使用・持ち込みそのものを禁止する、レモンやハバネロを原料とするソースなど、食品にその着眼点を置く（[デスマッチアイテムとして](https://ja.wikipedia.org/wiki/凶器_\(プロレス\) "wikilink")、[ギネス・ワールド・レコーズ](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")認定の世界一辛いトウガラシ「[ブート・ジョロキア](../Page/ブート・ジョロキア.md "wikilink")」を原材料とした「[デスソース](../Page/デスソース.md "wikilink")」を使用した）などデスマッチの方向性を模索したり、加えてデスマッチヘビー級選手権試合の開催数の増加と後楽園・横浜文体以外の地方興行でのタイトルマッチ開催を提案するなど、大日本で登坂に次いだ発言力を持っていた。
+この間、[他団体選手の女性スタッフ強制猥褻事件で一度引責辞任した](../Page/金村キンタロー.md "wikilink")[登坂栄児](../Page/登坂栄児.md "wikilink")が就いていた統括部長の職を一時的に代行していたが、デスマッチヘビー級王座獲得に伴い、選手活動に専念したいという意向で退任している。この頃は蛍光灯に頼り切った大日本のデスマッチの方向性を疑問視し、蛍光灯の使用本数の削減もしくは蛍光灯の使用・持ち込みそのものを禁止する、レモンやハバネロを原料とするソースなど、食品にその着眼点を置く（[デスマッチアイテムとして](../Page/凶器_\(プロレス\).md "wikilink")、[ギネス・ワールド・レコーズ](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")認定の世界一辛いトウガラシ「[ブート・ジョロキア](../Page/ブート・ジョロキア.md "wikilink")」を原材料とした「[デスソース](../Page/デスソース.md "wikilink")」を使用した）などデスマッチの方向性を模索したり、加えてデスマッチヘビー級選手権試合の開催数の増加と後楽園・横浜文体以外の地方興行でのタイトルマッチ開催を提案するなど、大日本で登坂に次いだ発言力を持っていた。
 
 [2013年](../Page/2013年.md "wikilink")10月より膝の不調のため欠場。
 
@@ -27,8 +27,8 @@
 
 ## タイトル履歴
 
-  - [BJW認定デスマッチヘビー級王座](https://ja.wikipedia.org/wiki/BJW認定デスマッチヘビー級王座 "wikilink")
-  - [BJW認定タッグ王座](https://ja.wikipedia.org/wiki/BJW認定タッグ王座 "wikilink")
+  - [BJW認定デスマッチヘビー級王座](../Page/BJW認定デスマッチヘビー級王座.md "wikilink")
+  - [BJW認定タッグ王座](../Page/BJW認定タッグ王座.md "wikilink")
 
 ## 得意技
 
@@ -36,14 +36,14 @@
 
   - 垂直落下式[ブレーンバスター](../Page/ブレーンバスター.md "wikilink")
     WXのフィニッシュ・ホールド。大一番では旋回式や連続式も見せる。
-  - [ラリアット](https://ja.wikipedia.org/wiki/ラリアット "wikilink")
+  - [ラリアット](../Page/ラリアット.md "wikilink")
     手拍子を要求してから放つこともある、カチ上げ気味のラリアット。一試合中に乱発する。
-  - [スタナー](https://ja.wikipedia.org/wiki/スタナー "wikilink")
+  - [スタナー](../Page/スタナー.md "wikilink")
     ラリアットが合い打ちになった際、すかさずこの技を仕掛ける。
-  - [クリップラー・クロスフェイス](https://ja.wikipedia.org/wiki/クリップラー・クロスフェイス "wikilink")
-    [クリス・ベノワ](https://ja.wikipedia.org/wiki/クリス・ベノワ "wikilink")と同型。フォールをキックアウトした相手にすかさずこの技を仕掛けることが多い。
+  - [クリップラー・クロスフェイス](../Page/クリップラー・クロスフェイス.md "wikilink")
+    [クリス・ベノワ](../Page/クリス・ベノワ.md "wikilink")と同型。フォールをキックアウトした相手にすかさずこの技を仕掛けることが多い。
   - WXロック
-    [フルネルソン式](https://ja.wikipedia.org/wiki/ネルソンホールド#フルネルソン・ホールド "wikilink")[キャメルクラッチ](https://ja.wikipedia.org/wiki/キャメルクラッチ "wikilink")。[ミスター雁之助](https://ja.wikipedia.org/wiki/ミスター雁之助 "wikilink")の使用する[涅槃とほぼ同型](https://ja.wikipedia.org/wiki/キャメルクラッチ#派生技 "wikilink")。
+    [フルネルソン式](https://ja.wikipedia.org/wiki/ネルソンホールド#フルネルソン・ホールド "wikilink")[キャメルクラッチ](../Page/キャメルクラッチ.md "wikilink")。[ミスター雁之助](../Page/ミスター雁之助.md "wikilink")の使用する[涅槃とほぼ同型](https://ja.wikipedia.org/wiki/キャメルクラッチ#派生技 "wikilink")。
   - [パワーボム](../Page/パワーボム.md "wikilink")
     シャドウ・ドライバー
     パワーボムの要領で担ぎあげた相手の頭部を両手で掴んで引き込み、開脚ジャンプした自身の股の間に顔面を叩き付ける変形のシットダウン式フェイスバスター。
@@ -57,7 +57,7 @@
     こちらも通常のスタナーに取って変わられたのか最近ではほとんど使用しない。
   - 合体攻撃
     マンモスホームラン
-    [マンモス佐々木](https://ja.wikipedia.org/wiki/マンモス佐々木 "wikilink")との合体式。相手の首にイスをかけ、もう1脚のイスで思いっきり叩くマンモスの得意技を双方から行う。
+    [マンモス佐々木](../Page/マンモス佐々木.md "wikilink")との合体式。相手の首にイスをかけ、もう1脚のイスで思いっきり叩くマンモスの得意技を双方から行う。
   - 摩周WX
     山川竜司との合体技。WXが山川を肩車で担ぎ上げ、山川がコーナー最上段に座らせた相手に雪崩式のダブルアーム・スープレックスを決める。
   - デスマッチアイテム
@@ -82,7 +82,7 @@
 
 ## テーマ曲
 
-  - DANGEROUS TONIGHT / [アリス・クーパー](https://ja.wikipedia.org/wiki/アリス・クーパー "wikilink")
+  - DANGEROUS TONIGHT / [アリス・クーパー](../Page/アリス・クーパー.md "wikilink")
   - The Grand Master（大日本プロレス ミュージック・ファイル収録）
 
 ## 脚注

@@ -5,13 +5,13 @@
 製品名 : カヤバロケット
 車種：[日産ディーゼル・ビッグサム](../Page/日産ディーゼル・ビッグサム.md "wikilink")\]\]
 
-**KYB株式会社**（ケイワイビー、英文社名 : *KYB Corporation*）は、[自動車](../Page/自動車.md "wikilink")[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")・[鉄道](../Page/鉄道.md "wikilink")[車両](../Page/車両.md "wikilink")[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")・[航空機](../Page/航空機.md "wikilink")[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")・[建設機械](https://ja.wikipedia.org/wiki/建設機械 "wikilink")[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")・[産業機械](../Page/産業機械.md "wikilink")[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")・[特装車](../Page/特装車.md "wikilink")・[建設機械](https://ja.wikipedia.org/wiki/建設機械 "wikilink")・[産業機械](../Page/産業機械.md "wikilink")・[免震](../Page/免震.md "wikilink")[装置](https://ja.wikipedia.org/wiki/装置 "wikilink")・[試験](https://ja.wikipedia.org/wiki/試験 "wikilink")[装置](https://ja.wikipedia.org/wiki/装置 "wikilink")及び各種[油圧](../Page/油圧.md "wikilink")[システム](../Page/システム.md "wikilink")製品を製造する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")である。2005年10月1日より「KYB」ブランドを通称社名とし、2015年10月1日より商号もカヤバ工業株式会社からKYB株式会社に変更した。[芙蓉グループ](../Page/芙蓉グループ.md "wikilink")に所属。
+**KYB株式会社**（ケイワイビー、英文社名 : *KYB Corporation*）は、[自動車](../Page/自動車.md "wikilink")[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")・[鉄道](../Page/鉄道.md "wikilink")[車両](../Page/車両.md "wikilink")[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")・[航空機](../Page/航空機.md "wikilink")[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")・[建設機械](../Page/建設機械.md "wikilink")[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")・[産業機械](../Page/産業機械.md "wikilink")[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")・[特装車](../Page/特装車.md "wikilink")・[建設機械](../Page/建設機械.md "wikilink")・[産業機械](../Page/産業機械.md "wikilink")・[免震](../Page/免震.md "wikilink")[装置](https://ja.wikipedia.org/wiki/装置 "wikilink")・[試験](https://ja.wikipedia.org/wiki/試験 "wikilink")[装置](https://ja.wikipedia.org/wiki/装置 "wikilink")及び各種[油圧](../Page/油圧.md "wikilink")[システム](../Page/システム.md "wikilink")製品を製造する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")である。2005年10月1日より「KYB」ブランドを通称社名とし、2015年10月1日より商号もカヤバ工業株式会社からKYB株式会社に変更した。[芙蓉グループ](../Page/芙蓉グループ.md "wikilink")に所属。
 
-株式は[東京証券取引所](../Page/東京証券取引所.md "wikilink")第1部に上場しており（[証券コード](https://ja.wikipedia.org/wiki/証券コード "wikilink")：7242）、[JPX日経インデックス400](https://ja.wikipedia.org/wiki/JPX日経インデックス400 "wikilink")の構成銘柄である。
+株式は[東京証券取引所](../Page/東京証券取引所.md "wikilink")第1部に上場しており（[証券コード](../Page/証券コード.md "wikilink")：7242）、[JPX日経インデックス400](https://ja.wikipedia.org/wiki/JPX日経インデックス400 "wikilink")の構成銘柄である。
 
 ## 事業分野
 
-二輪車、四輪車用[ショックアブソーバー](../Page/ショックアブソーバー.md "wikilink")および[油圧](../Page/油圧.md "wikilink")[ショベル](https://ja.wikipedia.org/wiki/ショベル "wikilink")に代表される[建設機械](https://ja.wikipedia.org/wiki/建設機械 "wikilink")用[油圧機器](https://ja.wikipedia.org/wiki/油圧機器 "wikilink")の大手企業。[航空機](../Page/航空機.md "wikilink")用および[船舶](https://ja.wikipedia.org/wiki/船舶 "wikilink")用油圧機器なども手がける。[コンクリート](../Page/コンクリート.md "wikilink")[ミキサー車](https://ja.wikipedia.org/wiki/ミキサー車 "wikilink")の架装でも国内最大(国内シェア約80%)。また、近年環境、防災、福祉関連製品にも注力している。[東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink")、[東京スカイツリー](https://ja.wikipedia.org/wiki/東京スカイツリー "wikilink")、[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")、[新宿センタービル](https://ja.wikipedia.org/wiki/新宿センタービル "wikilink")、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")、[新国立劇場](https://ja.wikipedia.org/wiki/新国立劇場 "wikilink")などの[建築物](../Page/建築物.md "wikilink")にも係わっている。[ショベル](https://ja.wikipedia.org/wiki/ショベル "wikilink")用[油圧](../Page/油圧.md "wikilink")[シリンダー](https://ja.wikipedia.org/wiki/シリンダー "wikilink")および[ショックアブソーバー](../Page/ショックアブソーバー.md "wikilink")のグループ総生産本数は世界最大規模。
+二輪車、四輪車用[ショックアブソーバー](../Page/ショックアブソーバー.md "wikilink")および[油圧](../Page/油圧.md "wikilink")[ショベル](https://ja.wikipedia.org/wiki/ショベル "wikilink")に代表される[建設機械](../Page/建設機械.md "wikilink")用[油圧機器](https://ja.wikipedia.org/wiki/油圧機器 "wikilink")の大手企業。[航空機](../Page/航空機.md "wikilink")用および[船舶](https://ja.wikipedia.org/wiki/船舶 "wikilink")用油圧機器なども手がける。[コンクリート](../Page/コンクリート.md "wikilink")[ミキサー車](https://ja.wikipedia.org/wiki/ミキサー車 "wikilink")の架装でも国内最大(国内シェア約80%)。また、近年環境、防災、福祉関連製品にも注力している。[東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink")、[東京スカイツリー](../Page/東京スカイツリー.md "wikilink")、[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")、[新宿センタービル](../Page/新宿センタービル.md "wikilink")、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")、[新国立劇場](../Page/新国立劇場.md "wikilink")などの[建築物](../Page/建築物.md "wikilink")にも係わっている。[ショベル](https://ja.wikipedia.org/wiki/ショベル "wikilink")用[油圧](../Page/油圧.md "wikilink")[シリンダー](../Page/シリンダー.md "wikilink")および[ショックアブソーバー](../Page/ショックアブソーバー.md "wikilink")のグループ総生産本数は世界最大規模。
 
 ### ショックアブソーバー
 
@@ -21,7 +21,7 @@
 
 ### 油圧システム製品
 
-[カヤバシステムマシナリー](https://ja.wikipedia.org/wiki/カヤバシステムマシナリー "wikilink")では[自由断面掘削機](https://ja.wikipedia.org/wiki/自由断面掘削機 "wikilink")、[立坑掘削機](https://ja.wikipedia.org/wiki/立坑掘削機 "wikilink")、[HEPマシン](https://ja.wikipedia.org/wiki/HEPマシン "wikilink")などの[建設機械](https://ja.wikipedia.org/wiki/建設機械 "wikilink")や、ごみ投入検査機などの[環境](../Page/環境.md "wikilink")・[産業機械](../Page/産業機械.md "wikilink")を製造する。また、[免震](../Page/免震.md "wikilink")・[制震](../Page/制震.md "wikilink")[装置](https://ja.wikipedia.org/wiki/装置 "wikilink")、[舞台](../Page/舞台.md "wikilink")[装置](https://ja.wikipedia.org/wiki/装置 "wikilink")など、[建築物](../Page/建築物.md "wikilink")に必要な装置を生産している。
+[カヤバシステムマシナリー](https://ja.wikipedia.org/wiki/カヤバシステムマシナリー "wikilink")では[自由断面掘削機](https://ja.wikipedia.org/wiki/自由断面掘削機 "wikilink")、[立坑掘削機](https://ja.wikipedia.org/wiki/立坑掘削機 "wikilink")、[HEPマシン](https://ja.wikipedia.org/wiki/HEPマシン "wikilink")などの[建設機械](../Page/建設機械.md "wikilink")や、ごみ投入検査機などの[環境](../Page/環境.md "wikilink")・[産業機械](../Page/産業機械.md "wikilink")を製造する。また、[免震](../Page/免震.md "wikilink")・[制震](../Page/制震.md "wikilink")[装置](https://ja.wikipedia.org/wiki/装置 "wikilink")、[舞台](../Page/舞台.md "wikilink")[装置](https://ja.wikipedia.org/wiki/装置 "wikilink")など、[建築物](../Page/建築物.md "wikilink")に必要な装置を生産している。
 
 ### 航空機
 
@@ -31,16 +31,16 @@
 
   - [1919年](../Page/1919年.md "wikilink")（大正8年）[11月](../Page/11月.md "wikilink") - 創業者萱場資郎、**萱場発明研究所**を開設。
   - [1927年](../Page/1927年.md "wikilink")（昭和2年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - 萱場製作所を創業。
-  - [1935年](../Page/1935年.md "wikilink")（昭和10年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - **株式会社萱場製作所**を創立。[航空機](../Page/航空機.md "wikilink")用油圧緩衝脚（オレオ）、[航空母艦](../Page/航空母艦.md "wikilink")の[アレスティング・ワイヤー](https://ja.wikipedia.org/wiki/アレスティング・ワイヤー "wikilink")などを製作。陸軍[カ号観測機](../Page/カ号観測機.md "wikilink")と呼ばれる[オートジャイロ](../Page/オートジャイロ.md "wikilink")を生産。
-  - [1936年](../Page/1936年.md "wikilink")（昭和11年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - 陸軍の出資により[ラムジェットエンジン](https://ja.wikipedia.org/wiki/ラムジェットエンジン "wikilink")搭載の[無尾翼](../Page/無尾翼機.md "wikilink")[近距離戦闘機](https://ja.wikipedia.org/wiki/要撃機 "wikilink")（[かつをどり_(航空機)](https://ja.wikipedia.org/wiki/かつをどり_\(航空機\) "wikilink")）開発着手。
+  - [1935年](../Page/1935年.md "wikilink")（昭和10年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - **株式会社萱場製作所**を創立。[航空機](../Page/航空機.md "wikilink")用油圧緩衝脚（オレオ）、[航空母艦](../Page/航空母艦.md "wikilink")の[アレスティング・ワイヤー](../Page/アレスティング・ワイヤー.md "wikilink")などを製作。陸軍[カ号観測機](../Page/カ号観測機.md "wikilink")と呼ばれる[オートジャイロ](../Page/オートジャイロ.md "wikilink")を生産。
+  - [1936年](../Page/1936年.md "wikilink")（昭和11年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - 陸軍の出資により[ラムジェットエンジン](https://ja.wikipedia.org/wiki/ラムジェットエンジン "wikilink")搭載の[無尾翼](../Page/無尾翼機.md "wikilink")[近距離戦闘機](../Page/要撃機.md "wikilink")（[かつをどり_(航空機)](https://ja.wikipedia.org/wiki/かつをどり_\(航空機\) "wikilink")）開発着手。
   - [1943年](../Page/1943年.md "wikilink")（昭和18年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 岐阜製造所（現岐阜南工場）を新設。
   - [1948年](../Page/1948年.md "wikilink")（昭和23年）11月 - **萱場工業株式会社**を設立（企業再建整備法に基づく）。[ショックアブソーバー](../Page/ショックアブソーバー.md "wikilink")の量産を開始。
   - [1956年](../Page/1956年.md "wikilink")（昭和31年）[6月](../Page/6月.md "wikilink") - 萱場オートサービス株式会社（現KYBエンジニアリングアンドサービス株式会社）を設立。
-  - [1958年](../Page/1958年.md "wikilink")（昭和33年）3月 - [鉱山](https://ja.wikipedia.org/wiki/鉱山 "wikilink")用機器の設計・販売会社日本鉱機株式会社を設立。
+  - [1958年](../Page/1958年.md "wikilink")（昭和33年）3月 - [鉱山](../Page/鉱山.md "wikilink")用機器の設計・販売会社日本鉱機株式会社を設立。
   - [1959年](../Page/1959年.md "wikilink")（昭和34年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [東京証券取引所](../Page/東京証券取引所.md "wikilink")に株式上場。
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）3月 - 浦和特装車両工場（現：浦和工場）を新設。
   - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 岐阜北分工場（現：岐阜北工場）を新設。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）6月 - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の緩衝器生産会社に資本参加。
+  - [1970年](../Page/1970年.md "wikilink")（昭和45年）6月 - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の緩衝器生産会社に資本参加。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）
       - 1月 - 熊谷工場を新設。
       - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - 三重工場を新設。
@@ -70,12 +70,12 @@
       - 7月 - 装置事業部門を会社分割し、日本鉱機株式会社に継承。併せて株式会社カヤバ・レイスステージを合併し新会社[カヤバシステムマシナリー](https://ja.wikipedia.org/wiki/カヤバシステムマシナリー "wikilink")株式会社を設立。
       - 11月 - 中国に販売会社を設立。
       - 12月 - [メキシコ](../Page/メキシコ.md "wikilink")に販売会社を設立。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）
       - 2月 - タイに販売会社を設立。
       - 3月 - 新経営理念・経営ビジョン制定。
       - 10月 - 創立70周年。通称名称を「KYB株式会社」に。社名[ロゴを一新](../Page/ロゴタイプ.md "wikilink")。商号は「カヤバ工業株式会社」のまま従来通り。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）
-      - 9月 - [極東開発工業](../Page/極東開発工業.md "wikilink")の[トラックミキサ](https://ja.wikipedia.org/wiki/トラックミキサ "wikilink")生産中止に伴い、同社へ[OEM](../Page/OEM.md "wikilink")の供給を開始。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）
+      - 9月 - [極東開発工業](../Page/極東開発工業.md "wikilink")の[トラックミキサ](../Page/トラックミキサ.md "wikilink")生産中止に伴い、同社へ[OEM](../Page/OEM.md "wikilink")の供給を開始。
       - 10月 - 株式会社タカコの株式取得し子会社化。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）
       - 6月 - 岐阜東工場を新設。

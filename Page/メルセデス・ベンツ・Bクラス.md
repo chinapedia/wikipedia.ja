@@ -5,7 +5,7 @@
 
 ## 概要
 
-[ミニバン](../Page/ミニバン.md "wikilink")と[コンパクトカー](https://ja.wikipedia.org/wiki/コンパクトカー "wikilink")の中間的なデザインを持つ小型乗用車であり、サイズ上は欧州[Cセグメント](../Page/Cセグメント.md "wikilink")に属する。[Aクラス](../Page/メルセデス・ベンツ・Aクラス.md "wikilink")（W169）とはプラットフォームを共有する姉妹車であり、ホイールベースはAクラスよりも拡大されている。Aクラスと同様、[前輪駆動](https://ja.wikipedia.org/wiki/前輪駆動 "wikilink")である。
+[ミニバン](../Page/ミニバン.md "wikilink")と[コンパクトカー](../Page/コンパクトカー.md "wikilink")の中間的なデザインを持つ小型乗用車であり、サイズ上は欧州[Cセグメント](../Page/Cセグメント.md "wikilink")に属する。[Aクラス](../Page/メルセデス・ベンツ・Aクラス.md "wikilink")（W169）とはプラットフォームを共有する姉妹車であり、ホイールベースはAクラスよりも拡大されている。Aクラスと同様、[前輪駆動](../Page/前輪駆動.md "wikilink")である。
 
 メルセデス・ベンツでは「コンパクトスポーツツアラー」と称する。「スポーツツアラー」の上位には[Rクラスがあり](../Page/メルセデス・ベンツ・Rクラス.md "wikilink")、デザイン上にも共通点が見られる。価格や利用用途などを考慮した場合、Bクラスにより近い上位車種は、[Cクラスのステーションワゴンだと考えることもできる](../Page/メルセデス・ベンツ・Cクラス.md "wikilink")。
 
@@ -17,9 +17,9 @@ Bクラスの特徴である二重構造フロアを活かしたBクラスベー
 
 ## 初代（2005年 - 2012年）T245 / W245
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月、[ジュネーブショーで発表](../Page/サロン・アンテルナショナル・ド・ロト.md "wikilink")。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では同年春、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")では同年秋に発売された。日本では、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月に「B200 ターボ」「B200」「B170」の販売が始まった。
+[2005年](../Page/2005年.md "wikilink")3月、[ジュネーブショーで発表](../Page/サロン・アンテルナショナル・ド・ロト.md "wikilink")。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では同年春、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")では同年秋に発売された。日本では、[2006年](../Page/2006年.md "wikilink")1月に「B200 ターボ」「B200」「B170」の販売が始まった。
 
-エンジンやサスペンションは[Aクラスと共用であり](../Page/メルセデス・ベンツ・Aクラス.md "wikilink")、日本仕様では1.7Lまたは2.0L \[1\]の[直4エンジンが](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")7速マニュアルモード付き[CVTと組み合わされる](https://ja.wikipedia.org/wiki/無段変速機 "wikilink")。[エアバッグ](https://ja.wikipedia.org/wiki/エアバッグ "wikilink")、[ESP](https://ja.wikipedia.org/wiki/横滑り防止機構 "wikilink")、アクティブヘッドレストなどの安全装備を標準装備しているほか、「B200 ターボ」には専用のスポーツ[サスペンション](../Page/サスペンション.md "wikilink")が装備されている。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")[Aクラスと同時に一部改良が行なわれ](../Page/メルセデス・ベンツ・Aクラス.md "wikilink")、急ブレーキ時にブレーキライトを点滅させ後続車に知らせる「アダプティブブレーキライト」が採用され、[ディーラー](https://ja.wikipedia.org/wiki/ディーラー "wikilink")オプションとしてHDDナビゲーションシステムが設定された。Aクラスとは違い、内装を充実させたエレガンス仕様は設定されていない（装備内容はエレガンス相当）。その後[2009年](../Page/2009年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")にB200ターボが廃止となり、B170の名称がB180に変更された。2009年8月現在の価格帯は299～370万円。これは同排気量の[日本車](../Page/日本車.md "wikilink")と比較して1.5倍程度の価格である。なお日本仕様車は全車右ハンドルのみの設定である。
+エンジンやサスペンションは[Aクラスと共用であり](../Page/メルセデス・ベンツ・Aクラス.md "wikilink")、日本仕様では1.7Lまたは2.0L \[1\]の[直4エンジンが](../Page/直列4気筒.md "wikilink")7速マニュアルモード付き[CVTと組み合わされる](../Page/無段変速機.md "wikilink")。[エアバッグ](../Page/エアバッグ.md "wikilink")、[ESP](https://ja.wikipedia.org/wiki/横滑り防止機構 "wikilink")、アクティブヘッドレストなどの安全装備を標準装備しているほか、「B200 ターボ」には専用のスポーツ[サスペンション](../Page/サスペンション.md "wikilink")が装備されている。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")[Aクラスと同時に一部改良が行なわれ](../Page/メルセデス・ベンツ・Aクラス.md "wikilink")、急ブレーキ時にブレーキライトを点滅させ後続車に知らせる「アダプティブブレーキライト」が採用され、[ディーラー](https://ja.wikipedia.org/wiki/ディーラー "wikilink")オプションとしてHDDナビゲーションシステムが設定された。Aクラスとは違い、内装を充実させたエレガンス仕様は設定されていない（装備内容はエレガンス相当）。その後[2009年](../Page/2009年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")にB200ターボが廃止となり、B170の名称がB180に変更された。2009年8月現在の価格帯は299～370万円。これは同排気量の[日本車](../Page/日本車.md "wikilink")と比較して1.5倍程度の価格である。なお日本仕様車は全車右ハンドルのみの設定である。
 
 欧州には2.0L [ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")搭載の「B200 CDI」「B180 CDI」、1.5L ガソリンエンジンを積む「B150」もラインナップされている。駆動方式がFFであることもあり、居住空間は上級の[Eクラス並みとなっている](../Page/メルセデス・ベンツ・Eクラス.md "wikilink")。リアシートは可倒式である。
 

@@ -1,18 +1,18 @@
 > この記事は[MELLOW YELLOW](https://ja.wikipedia.org/wiki/MELLOW_YELLOW)から翻訳されています。
 
 
-**MELLOW YELLOW**（メロー イエロー）は、2[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")1[DJから成る](https://ja.wikipedia.org/wiki/ディスクジョッキー#ミュージシャンとしてのDJ "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ。[FUNKY GRAMMAR UNITの一員](https://ja.wikipedia.org/wiki/FUNKY_GRAMMAR_UNIT "wikilink")。
+**MELLOW YELLOW**（メロー イエロー）は、2[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")1[DJから成る](https://ja.wikipedia.org/wiki/ディスクジョッキー#ミュージシャンとしてのDJ "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ。[FUNKY GRAMMAR UNITの一員](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")。
 
 ## メンバー
 
 ### 現メンバー
 
-  - [KOHEI JAPAN](https://ja.wikipedia.org/wiki/KOHEI_JAPAN "wikilink")（本名：坂間広平 [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[8月10日](../Page/8月10日.md "wikilink") - ） [MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")
+  - [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink")（本名：坂間広平 [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[8月10日](../Page/8月10日.md "wikilink") - ） [MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")
     都内高級料亭に勤める板前。
-    [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")のメンバー"[Mummy-D](../Page/Mummy-D.md "wikilink")（坂間大介）"の実弟。
+    [RHYMESTER](../Page/RHYMESTER.md "wikilink")のメンバー"[Mummy-D](../Page/Mummy-D.md "wikilink")（坂間大介）"の実弟。
     名前はRHYMESTERの宇多丸が命名。
     ソロ活動もしている。
-  - [KIN](https://ja.wikipedia.org/wiki/KIN "wikilink")（本名：折本欣也 [1972年](../Page/1972年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - ） MC
+  - [KIN](../Page/KIN.md "wikilink")（本名：折本欣也 [1972年](../Page/1972年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - ） MC
     伸びたロン毛。
     愛称はキンちゃん。
     デザイナーなども兼業している。
@@ -24,7 +24,7 @@
 
   - DJ Gz-JAY （本名：白石裕一朗） DJ
     初代DJ。現在は**AZZURRO**（アズーロ）として活動中。
-    [早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")[ソウルミュージック](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")研究会ギャラクシーでは第14代部長を務めていた。
+    [早稲田大学](../Page/早稲田大学.md "wikilink")[ソウルミュージック](../Page/ソウルミュージック.md "wikilink")研究会ギャラクシーでは第14代部長を務めていた。
   - TAMA （本名：玉木泰裕） [MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")
     現在、活動はしていない模様。
 
@@ -67,17 +67,17 @@
 ## 関連するアーティスト
 
   - FUNKY GRAMMAR UNIT
-      - [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")
+      - [RHYMESTER](../Page/RHYMESTER.md "wikilink")
       - [EAST END](../Page/EAST_END.md "wikilink")
-      - [RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")
-      - [KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink") ([KICK THE CAN CREW](https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW "wikilink"))
-      - [LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink") (KICK THE CAN CREW)
-      - [MCU](https://ja.wikipedia.org/wiki/MCU_\(ラッパー\) "wikilink") (KICK THE CAN CREW)
-      - [CUEZERO](https://ja.wikipedia.org/wiki/CUEZERO "wikilink")
+      - [RIP SLYME](../Page/RIP_SLYME.md "wikilink")
+      - [KREVA](../Page/KREVA.md "wikilink") ([KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink"))
+      - [LITTLE](../Page/LITTLE.md "wikilink") (KICK THE CAN CREW)
+      - [MCU](../Page/MCU_\(ラッパー\).md "wikilink") (KICK THE CAN CREW)
+      - [CUEZERO](../Page/CUEZERO.md "wikilink")
       - [CHANNEL](../Page/CHANNEL.md "wikilink")
       - [DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink")
       - [DJ SHUHO](../Page/DJ_SHUHO.md "wikilink")
-  - [椎名純平](https://ja.wikipedia.org/wiki/椎名純平 "wikilink")
+  - [椎名純平](../Page/椎名純平.md "wikilink")
   - [DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")
   - [GAGLE](../Page/GAGLE.md "wikilink")
 

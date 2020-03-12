@@ -7,6 +7,6 @@
 
 ゲストがVTRを見ながらコメントする番組で、司会には[島田紳助](../Page/島田紳助.md "wikilink")、コメンテーターには[原健三郎](https://ja.wikipedia.org/wiki/原健三郎 "wikilink")とゲスト2人を迎えていた。
 
-なお、当初は前番組『[逸見のその時何が\!](https://ja.wikipedia.org/wiki/逸見のその時何が! "wikilink")』から引き続き[逸見政孝](../Page/逸見政孝.md "wikilink")と[上岡龍太郎](../Page/上岡龍太郎.md "wikilink")が出演する予定で、タイトルも『逸見・上岡の迫って\!GABURI。』となる予定であった。しかし、逸見が[癌闘病に専念するために出演予定者から外れ](../Page/悪性腫瘍.md "wikilink")（同年[12月25日](../Page/12月25日.md "wikilink")に死去）、同時に上岡も降板したことから、最終的には『迫って\!GABURI。』と題して放送された。
+なお、当初は前番組『[逸見のその時何が\!](../Page/逸見のその時何が!.md "wikilink")』から引き続き[逸見政孝](../Page/逸見政孝.md "wikilink")と[上岡龍太郎](../Page/上岡龍太郎.md "wikilink")が出演する予定で、タイトルも『逸見・上岡の迫って\!GABURI。』となる予定であった。しかし、逸見が[癌闘病に専念するために出演予定者から外れ](../Page/悪性腫瘍.md "wikilink")（同年[12月25日](../Page/12月25日.md "wikilink")に死去）、同時に上岡も降板したことから、最終的には『迫って\!GABURI。』と題して放送された。
 
 [Category:1993年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のテレビ番組_\(日本\) "wikilink") [Category:毎日放送の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:毎日放送の情報・ワイドショー番組 "wikilink") [Category:毎日放送のドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:毎日放送のドキュメンタリー番組 "wikilink") [Category:毎日放送テレビ番組の歴史](https://ja.wikipedia.org/wiki/Category:毎日放送テレビ番組の歴史 "wikilink") [Category:TBSの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:TBSの情報・ワイドショー番組 "wikilink") [Category:TBSのドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:TBSのドキュメンタリー番組 "wikilink") [Category:島田紳助](https://ja.wikipedia.org/wiki/Category:島田紳助 "wikilink")

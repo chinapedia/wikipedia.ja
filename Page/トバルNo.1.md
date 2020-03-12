@@ -1,13 +1,13 @@
 > この記事は[No.1](https://ja.wikipedia.org/wiki/No.1)から翻訳されています。
 
 
-『**トバルNo.1**』（*TOBAL No. 1*、トバル ナンバーワン）は、[1996年](../Page/1996年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")に[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）から発売された[プレイステーション用](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[3D](../Page/3次元コンピュータグラフィックス.md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。制作は[ドリームファクトリー](../Page/ドリームファクトリー_\(企業\).md "wikilink")。
+『**トバルNo.1**』（*TOBAL No. 1*、トバル ナンバーワン）は、[1996年](../Page/1996年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")に[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）から発売された[プレイステーション用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[3D](../Page/3次元コンピュータグラフィックス.md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。制作は[ドリームファクトリー](../Page/ドリームファクトリー_\(企業\).md "wikilink")。
 
 ## 概要
 
-[スクウェアの](../Page/スクウェア_\(ゲーム会社\).md "wikilink")[プレイステーション参入第](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")1弾、3D格闘アクションタイトルとして発売された。開発に『[鉄拳シリーズ](../Page/鉄拳シリーズ.md "wikilink")』（[ナムコ](../Page/バンダイナムコエンターテインメント.md "wikilink")）や『[バーチャファイター](https://ja.wikipedia.org/wiki/バーチャファイター "wikilink")シリーズ』（[セガ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の主要スタッフが集まって設立した[ドリームファクトリー](../Page/ドリームファクトリー_\(企業\).md "wikilink")、キャラクターデザインに[鳥山明](../Page/鳥山明.md "wikilink")という人材が起用された。また、翌年発売予定となっていた『[ファイナルファンタジーVII](https://ja.wikipedia.org/wiki/ファイナルファンタジーVII "wikilink")』（以下『FFVII』）の[体験版](../Page/体験版.md "wikilink")が収録されたディスク「SQUARE'S PREVIEW」が付属されている\[1\]。世界累計販売本数は92万本\[2\]。
+[スクウェアの](../Page/スクウェア_\(ゲーム会社\).md "wikilink")[プレイステーション参入第](../Page/PlayStation_\(ゲーム機\).md "wikilink")1弾、3D格闘アクションタイトルとして発売された。開発に『[鉄拳シリーズ](../Page/鉄拳シリーズ.md "wikilink")』（[ナムコ](../Page/バンダイナムコエンターテインメント.md "wikilink")）や『[バーチャファイター](https://ja.wikipedia.org/wiki/バーチャファイター "wikilink")シリーズ』（[セガ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の主要スタッフが集まって設立した[ドリームファクトリー](../Page/ドリームファクトリー_\(企業\).md "wikilink")、キャラクターデザインに[鳥山明](../Page/鳥山明.md "wikilink")という人材が起用された。また、翌年発売予定となっていた『[ファイナルファンタジーVII](../Page/ファイナルファンタジーVII.md "wikilink")』（以下『FFVII』）の[体験版](../Page/体験版.md "wikilink")が収録されたディスク「SQUARE'S PREVIEW」が付属されている\[1\]。世界累計販売本数は92万本\[2\]。
 
-格闘ゲームとしては360度方向への自由な空間移動や、一部の攻撃はガードされると現実のように動作が途中で止まるなど、当時の最新のアーケード格闘ゲームでも採用されていなかった多くの要素が盛り込まれている。また[画面解像度](../Page/画面解像度.md "wikilink")や[フレームレート](https://ja.wikipedia.org/wiki/フレームレート "wikilink")も高水準で、さらにロード時間が極めて短く、技術的にもレベルの高さを見せつけている。しかし、[テクスチャ](https://ja.wikipedia.org/wiki/テクスチャ "wikilink")の使用を最小限に抑えていたり、ヒットエフェクトがまったくなかったりするなど、ビジュアル的には同時代の他のゲームと比べて劣っていた\[3\]。続編の『[トバル2](../Page/トバル2.md "wikilink")』ではそれらの弱点の多くは克服されている。
+格闘ゲームとしては360度方向への自由な空間移動や、一部の攻撃はガードされると現実のように動作が途中で止まるなど、当時の最新のアーケード格闘ゲームでも採用されていなかった多くの要素が盛り込まれている。また[画面解像度](../Page/画面解像度.md "wikilink")や[フレームレート](../Page/フレームレート.md "wikilink")も高水準で、さらにロード時間が極めて短く、技術的にもレベルの高さを見せつけている。しかし、[テクスチャ](https://ja.wikipedia.org/wiki/テクスチャ "wikilink")の使用を最小限に抑えていたり、ヒットエフェクトがまったくなかったりするなど、ビジュアル的には同時代の他のゲームと比べて劣っていた\[3\]。続編の『[トバル2](../Page/トバル2.md "wikilink")』ではそれらの弱点の多くは克服されている。
 
 2018年の専門書籍の記述としては「オマケである『FFVII』の体験版目当てのプレイヤーが多く、本編とオマケの立場が逆転してしまっている」「技を繰り出した時のエフェクトが無い上に技の種類も乏しいため単調でスリル感に欠ける」という否定的な内容がある。一方でこの否定的な評価を伝えた同書籍によると、スクウェア初の3D格闘ゲームということで、当時のゲーマーからは大きく期待されていたという\[4\]。
 
@@ -25,7 +25,7 @@
 
 ステージは正方形のリングで、リングの外に出るとリングアウトとなり、負けとなる。全体的に一撃が重く、また重力が大きめに設定されている。
 
-本作のシステムは続編の『[トバル2](../Page/トバル2.md "wikilink")』で大幅に改良を加えられ、その後も『[エアガイツ](../Page/エアガイツ.md "wikilink")』、『[バウンサー](https://ja.wikipedia.org/wiki/バウンサー "wikilink")』とそれぞれのゲームデザインに見合った変更を施されながら踏襲されていくこととなった。
+本作のシステムは続編の『[トバル2](../Page/トバル2.md "wikilink")』で大幅に改良を加えられ、その後も『[エアガイツ](../Page/エアガイツ.md "wikilink")』、『[バウンサー](../Page/バウンサー.md "wikilink")』とそれぞれのゲームデザインに見合った変更を施されながら踏襲されていくこととなった。
 
 ## キャラクター
 
@@ -33,7 +33,7 @@
     [声](../Page/声優.md "wikilink")：[緑川光](../Page/緑川光.md "wikilink")
     年齢17歳、身長175cm、体重70kg。地球出身で、幼いころに新中人の父と日本人の母を亡くし、祖父、姉と共に惑星トバルに移り住んだ。学校に通いながら炭鉱で働いている。派手な技が多い。根は明るいがやや短気でシンプル思考。武術は独学で身につけた。
   - エポン
-    声：[永島由子](https://ja.wikipedia.org/wiki/永島由子 "wikilink")
+    声：[永島由子](../Page/永島由子.md "wikilink")
     年齢18歳、身長167cm、体重50kg。惑星トバルの衛星であるキッタイク星出身。強気な女性である。パワーはないがスピードが速く、手数の多さで勝負する。外見は地球人と変わらないがトバル衛星での生まれ。
   - オライムス
     声：[青野武](../Page/青野武.md "wikilink")
@@ -46,10 +46,10 @@
     声：[八奈見乗児](../Page/八奈見乗児.md "wikilink")
     年齢不詳、身長161cm、体重50kg。第66回大会でウダン皇帝に勝利し、見事史上2人目のナンバーワンの座についた地球出身の格闘家。再び大会に出場することになった。老いているが技の切れは健在で、スピードの速い技を繰り出す。
   - マリー・イボンスカヤ
-    声：[中友子](https://ja.wikipedia.org/wiki/中友子 "wikilink")
+    声：[中友子](../Page/中友子.md "wikilink")
     年齢32歳、身長189cm、体重140kg。地球人でロシア系フランス人。スーパープロレスのチャンピオン。優勝賞金を目当てに参加した。プロレス仕込みの破壊力ある打撃・投げを得意とする。一人息子がいる。
   - イール・ゴガ
-    声：[郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")
+    声：[郷里大輔](../Page/郷里大輔.md "wikilink")
     年齢不詳、身長201cm、体重180kg。惑星トバルの衛星であるワコイバヤイ星の出身で、[竜人](https://ja.wikipedia.org/wiki/竜人 "wikilink")のような姿をしている。恋愛を成就させるために大会に参加した。見た目どおりのパワーが魅力。シッポ攻撃も強烈。
   - グリン・カッツ
     声：[神谷明](../Page/神谷明.md "wikilink")
@@ -58,7 +58,7 @@
     声：龍田直樹
     惑星トバルから遠く離れたジャルング星の出身。身長210cm、体重60kg。ウダン皇帝にスカウトされて参加した。リーチの長いパンチ・キックで相手を寄せ付けない。
   - ノーク
-    声：[佐藤正治](https://ja.wikipedia.org/wiki/佐藤正治_\(声優\) "wikilink")
+    声：[佐藤正治](../Page/佐藤正治_\(声優\).md "wikilink")
     イルドアーボ星の出身。身長304cm、体重350kg。ムーフーと同様に、フェイの2度目の優勝を阻止するため、ウダン皇帝にスカウトされて参加した。頭は悪いがパワーは抜きん出ている。その巨体から繰り出される技の破壊力はすさまじく、短時間で相手をねじ伏せる。
     プレイヤーキャラクターとしては、ミニバージョンであるSノークが使用可能になる。
   - ウダン皇帝
@@ -113,10 +113,10 @@
   - ディレクター/ゲームデザイン：[石井精一](https://ja.wikipedia.org/wiki/石井精一_\(ゲーム開発者\) "wikilink")
   - メインプログラマー/ゲームデザイン：[池淵徹](https://ja.wikipedia.org/wiki/池淵徹 "wikilink")
   - キャラクターデザイン：[鳥山明](../Page/鳥山明.md "wikilink")
-  - 音楽：[光田康典](../Page/光田康典.md "wikilink")、[伊藤賢治](../Page/伊藤賢治.md "wikilink")、[川上泰弘](https://ja.wikipedia.org/wiki/川上泰弘 "wikilink")、[笹井隆司](https://ja.wikipedia.org/wiki/笹井隆司 "wikilink")、[下村陽子](https://ja.wikipedia.org/wiki/下村陽子 "wikilink")、[仲野順也](https://ja.wikipedia.org/wiki/仲野順也 "wikilink")、[濱渦正志](https://ja.wikipedia.org/wiki/濱渦正志 "wikilink")、[松枝賀子](https://ja.wikipedia.org/wiki/松枝賀子 "wikilink")
+  - 音楽：[光田康典](../Page/光田康典.md "wikilink")、[伊藤賢治](../Page/伊藤賢治.md "wikilink")、[川上泰弘](https://ja.wikipedia.org/wiki/川上泰弘 "wikilink")、[笹井隆司](../Page/笹井隆司.md "wikilink")、[下村陽子](../Page/下村陽子.md "wikilink")、[仲野順也](../Page/仲野順也.md "wikilink")、[濱渦正志](https://ja.wikipedia.org/wiki/濱渦正志 "wikilink")、[松枝賀子](https://ja.wikipedia.org/wiki/松枝賀子 "wikilink")
       -
         光田とGUIDOが統轄的立場を務めると共に、アレンジを担当している。
-  - エグゼクティブプロデューサー：[橋本真司](https://ja.wikipedia.org/wiki/橋本真司 "wikilink")
+  - エグゼクティブプロデューサー：[橋本真司](../Page/橋本真司.md "wikilink")
   - スーパーバイザー：[坂口博信](../Page/坂口博信.md "wikilink")
 
 ## 脚注
@@ -125,8 +125,8 @@
 
   - [トバル2](../Page/トバル2.md "wikilink") - 本作の続編。
   - [エアガイツ](../Page/エアガイツ.md "wikilink")
-  - [バウンサー](https://ja.wikipedia.org/wiki/バウンサー "wikilink")
-  - [ブレイヴフェンサー 武蔵伝](https://ja.wikipedia.org/wiki/ブレイヴフェンサー_武蔵伝 "wikilink") - 本作と同様、初回版には『ファイナルファンタジーVIII』の体験版が付録。
+  - [バウンサー](../Page/バウンサー.md "wikilink")
+  - [ブレイヴフェンサー 武蔵伝](../Page/ブレイヴフェンサー_武蔵伝.md "wikilink") - 本作と同様、初回版には『ファイナルファンタジーVIII』の体験版が付録。
 
 ## 外部リンク
 
@@ -135,7 +135,7 @@
 
 [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:3D対戦型格闘ゲーム](https://ja.wikipedia.org/wiki/Category:3D対戦型格闘ゲーム "wikilink") [Category:鳥山明](https://ja.wikipedia.org/wiki/Category:鳥山明 "wikilink") [Category:スクウェア・エニックスのゲームソフト](https://ja.wikipedia.org/wiki/Category:スクウェア・エニックスのゲームソフト "wikilink") [Category:1996年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1996年のコンピュータゲーム "wikilink")
 
-1.  なお、この体験版ディスク「SQUARE'S PREVIEW」は本作以降のスクウェアのPS作品でもシリーズ化され、『[ファイナルファンタジータクティクス](https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクス "wikilink")』には「SQUARE'S PREVIEW 2（『[サガ フロンティア](../Page/サガ_フロンティア.md "wikilink")』体験版）」が、『[ブレイヴフェンサー 武蔵伝](https://ja.wikipedia.org/wiki/ブレイヴフェンサー_武蔵伝 "wikilink")』には「 - 3（『[ファイナルファンタジーVIII](../Page/ファイナルファンタジーVIII.md "wikilink")』『[エアガイツ](../Page/エアガイツ.md "wikilink")』体験版、『[アナザー・マインド](https://ja.wikipedia.org/wiki/アナザー・マインド "wikilink")』PV）」が、『[サガ フロンティア2](../Page/サガ_フロンティア2.md "wikilink")』には「 - 4（『[レーシングラグーン](https://ja.wikipedia.org/wiki/レーシングラグーン "wikilink")』『[聖剣伝説 LEGEND OF MANA](../Page/聖剣伝説_LEGEND_OF_MANA.md "wikilink")』体験版、ソフト紹介「SQUARE COLLECTION VOL.1」）」が、『[聖剣伝説 LEGEND OF MANA](../Page/聖剣伝説_LEGEND_OF_MANA.md "wikilink")』には「 - 5（『[ベイグラントストーリー](../Page/ベイグラントストーリー.md "wikilink")』オートデモ、『[frontmission 3](https://ja.wikipedia.org/wiki/FRONT_MISSION3 "wikilink")』『[デュープリズム](https://ja.wikipedia.org/wiki/デュープリズム "wikilink")』『[クロノ・クロス](https://ja.wikipedia.org/wiki/クロノ・クロス "wikilink")』体験版、ソフト紹介「SQUARE COLLECTION VOL.2」）」が、それぞれ付属していた。いずれも初回版のみの特典ディスクであり、後の廉価版では付属していない。
+1.  なお、この体験版ディスク「SQUARE'S PREVIEW」は本作以降のスクウェアのPS作品でもシリーズ化され、『[ファイナルファンタジータクティクス](https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクス "wikilink")』には「SQUARE'S PREVIEW 2（『[サガ フロンティア](../Page/サガ_フロンティア.md "wikilink")』体験版）」が、『[ブレイヴフェンサー 武蔵伝](../Page/ブレイヴフェンサー_武蔵伝.md "wikilink")』には「 - 3（『[ファイナルファンタジーVIII](../Page/ファイナルファンタジーVIII.md "wikilink")』『[エアガイツ](../Page/エアガイツ.md "wikilink")』体験版、『[アナザー・マインド](../Page/アナザー・マインド.md "wikilink")』PV）」が、『[サガ フロンティア2](../Page/サガ_フロンティア2.md "wikilink")』には「 - 4（『[レーシングラグーン](https://ja.wikipedia.org/wiki/レーシングラグーン "wikilink")』『[聖剣伝説 LEGEND OF MANA](../Page/聖剣伝説_LEGEND_OF_MANA.md "wikilink")』体験版、ソフト紹介「SQUARE COLLECTION VOL.1」）」が、『[聖剣伝説 LEGEND OF MANA](../Page/聖剣伝説_LEGEND_OF_MANA.md "wikilink")』には「 - 5（『[ベイグラントストーリー](../Page/ベイグラントストーリー.md "wikilink")』オートデモ、『[frontmission 3](../Page/FRONT_MISSION3.md "wikilink")』『[デュープリズム](../Page/デュープリズム.md "wikilink")』『[クロノ・クロス](../Page/クロノ・クロス.md "wikilink")』体験版、ソフト紹介「SQUARE COLLECTION VOL.2」）」が、それぞれ付属していた。いずれも初回版のみの特典ディスクであり、後の廉価版では付属していない。
 2.  <http://www.vgchartz.com/game/4589/tobal-no1/>
 3.  [株式会社QBQ](http://qbq.jp/)編　『プレイステーションクソゲー番付』マイウェイ出版発行、2018年。ISBN 9784865118346 p80
 4.

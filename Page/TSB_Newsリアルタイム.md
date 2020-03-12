@@ -1,13 +1,13 @@
 > この記事は[TSB News](https://ja.wikipedia.org/wiki/TSB_News)から翻訳されています。
 
 
-『**TSB Newsリアルタイム**』（ティーエスビー ニュースリアルタイム）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[テレビ信州](../Page/テレビ信州.md "wikilink") (TSB) で平日夕方と土曜日夕方に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されていた[報道番組](../Page/報道番組.md "wikilink")である。2007年10月以降は土曜版のみが放送されている。
+『**TSB Newsリアルタイム**』（ティーエスビー ニュースリアルタイム）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[テレビ信州](../Page/テレビ信州.md "wikilink") (TSB) で平日夕方と土曜日夕方に[生放送](../Page/生放送.md "wikilink")されていた[報道番組](../Page/報道番組.md "wikilink")である。2007年10月以降は土曜版のみが放送されている。
 
 ## 概要
 
-[日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』の終了と『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』の開始を受けて放送開始。TSBでは2001年4月以降、平日夕方のローカルニュースを[夕方ワイド番組](https://ja.wikipedia.org/wiki/夕方ワイド番組 "wikilink")『[ゆうがたGet\!](../Page/ゆうがたGet!.md "wikilink")プラス1』に内包する番組編成が取られていたが、この『TSB Newsリアルタイム』の開始によって再びローカルニュース枠を完全に切り離す形になった。ただし、一部の[新聞](../Page/新聞.md "wikilink")と[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")上にある[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")では、『NNN Newsリアルタイム』と『TSB Newsリアルタイム』を一括りに掲載しているケースも見られた。
+[日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』の終了と『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』の開始を受けて放送開始。TSBでは2001年4月以降、平日夕方のローカルニュースを[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")『[ゆうがたGet\!](../Page/ゆうがたGet!.md "wikilink")プラス1』に内包する番組編成が取られていたが、この『TSB Newsリアルタイム』の開始によって再びローカルニュース枠を完全に切り離す形になった。ただし、一部の[新聞](../Page/新聞.md "wikilink")と[インターネット](../Page/インターネット.md "wikilink")上にある[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")では、『NNN Newsリアルタイム』と『TSB Newsリアルタイム』を一括りに掲載しているケースも見られた。
 
-キャスターには、[伊東秀一](https://ja.wikipedia.org/wiki/伊東秀一 "wikilink")（TSB[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）が『[ニュースプラス1信州](../Page/ニュースプラス1信州.md "wikilink")』から続投起用。また、2006年3月末まで『ゆうがたGet\!プラス1』の司会を務めていた[加納美也子](https://ja.wikipedia.org/wiki/加納美也子 "wikilink")（当時TSBアナウンサー）も起用された。
+キャスターには、[伊東秀一](../Page/伊東秀一.md "wikilink")（TSB[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）が『[ニュースプラス1信州](../Page/ニュースプラス1信州.md "wikilink")』から続投起用。また、2006年3月末まで『ゆうがたGet\!プラス1』の司会を務めていた[加納美也子](../Page/加納美也子.md "wikilink")（当時TSBアナウンサー）も起用された。
 
 平日版は1年半で『TSB Newsリアルタイム』としての放送を終了し、その翌月に『[TSB NEWS 報道ゲンバ](https://ja.wikipedia.org/wiki/TSB_NEWS_報道ゲンバ "wikilink")』へとリニューアルした。
 
@@ -17,8 +17,8 @@
 
 **キャスター**
 
-  - [伊東秀一](https://ja.wikipedia.org/wiki/伊東秀一 "wikilink")（TSBアナウンサー）
-  - [加納美也子](https://ja.wikipedia.org/wiki/加納美也子 "wikilink")（当時TSBアナウンサー）
+  - [伊東秀一](../Page/伊東秀一.md "wikilink")（TSBアナウンサー）
+  - [加納美也子](../Page/加納美也子.md "wikilink")（当時TSBアナウンサー）
 
 **コメンテーター**
 

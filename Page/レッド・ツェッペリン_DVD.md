@@ -34,7 +34,7 @@
 
   -   - 実際の演奏とは曲順が一部入れ替えられ、「ハートブレイカー」、「[貴方を愛しつづけて](https://ja.wikipedia.org/wiki/貴方を愛しつづけて "wikilink")」、「サンキュー」、「[ロング・トール・サリー](../Page/ロング・トール・サリー.md "wikilink")」の4曲が収録されていない。
       - 「ホワイト・サマー」は『コーダ（最終楽章）』収録の「ホワイト・サマー/ブラックマウンテンサイド」と同様の[メドレー](../Page/メドレー.md "wikilink")。
-      - アンコールの2曲（「カモン・エヴリバディ」と「サムシング・エルス」）は[エディ・コクラン](https://ja.wikipedia.org/wiki/エディ・コクラン "wikilink")のカヴァー。
+      - アンコールの2曲（「カモン・エヴリバディ」と「サムシング・エルス」）は[エディ・コクラン](../Page/エディ・コクラン.md "wikilink")のカヴァー。
 
 #### プロモーション・ビデオ（1969年）
 
@@ -71,7 +71,7 @@
 #### 移民の歌（合成）
 
   - [移民の歌](https://ja.wikipedia.org/wiki/移民の歌 "wikilink")（Immigrant Song）4:03
-  - ・・映像は1972年オーストラリア、シドニー、演奏は『[伝説のライヴ](https://ja.wikipedia.org/wiki/伝説のライヴ "wikilink")』収録のもの
+  - ・・映像は1972年オーストラリア、シドニー、演奏は『[伝説のライヴ](../Page/伝説のライヴ.md "wikilink")』収録のもの
 
 #### マディソン・スクウェア・ガーデン
 
@@ -99,7 +99,7 @@
 3.  スノウドニアの小屋（Bron-Yr-Aur Stomp）5:31
 4.  [死にかけて](https://ja.wikipedia.org/wiki/Tone_duh_bell_easy#レッド・ツェッペリンのバージョン "wikilink")（In My Time of Dying）11:14
 5.  [トランプルド・アンダーフット](https://ja.wikipedia.org/wiki/トランプルド・アンダーフット "wikilink")（Trampled Underfoot）8:14
-6.  [天国への階段](https://ja.wikipedia.org/wiki/天国への階段_\(レッド・ツェッペリンの曲\) "wikilink")（Stairway to Heaven）10:32
+6.  [天国への階段](../Page/天国への階段_\(レッド・ツェッペリンの曲\).md "wikilink")（Stairway to Heaven）10:32
 
 #### ネブワース
 

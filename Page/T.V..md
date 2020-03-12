@@ -1,7 +1,7 @@
 > この記事は[T.V.](https://ja.wikipedia.org/wiki/T.V.)から翻訳されています。
 
 
-**T.V.**（ティー・ヴィー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック・バンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。のちに**TV-WILDINGS**（ティーヴィー・ウィリングス）にグループ名を変更。 所属レコード会社は[ポリスター](https://ja.wikipedia.org/wiki/ポリスター "wikilink")、レーベルはGeronimo。
+**T.V.**（ティー・ヴィー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック・バンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。のちに**TV-WILDINGS**（ティーヴィー・ウィリングス）にグループ名を変更。 所属レコード会社は[ポリスター](../Page/ポリスター.md "wikilink")、レーベルはGeronimo。
 
 ## メンバー
 
@@ -21,7 +21,7 @@
 
 ## 概要・略歴
 
-  - 1986年、アルバム『Born to be wi-dol』、シングル『Born to be wi-dol/How to Debut』にて[ポリスター](https://ja.wikipedia.org/wiki/ポリスター "wikilink")からデビュー。当初のこの頃は『ザーマスおばさん』、『ルックス命』、『いかれた女が大好き』といった一件ふざけた風にも取られかねないタイトルの楽曲と、葛城が半ば洒落で行っていた「らいとあんよ奏法」（立ったまま右足でギターを弾く）があいまってコミックバンドととられてしまうこともあった。
+  - 1986年、アルバム『Born to be wi-dol』、シングル『Born to be wi-dol/How to Debut』にて[ポリスター](../Page/ポリスター.md "wikilink")からデビュー。当初のこの頃は『ザーマスおばさん』、『ルックス命』、『いかれた女が大好き』といった一件ふざけた風にも取られかねないタイトルの楽曲と、葛城が半ば洒落で行っていた「らいとあんよ奏法」（立ったまま右足でギターを弾く）があいまってコミックバンドととられてしまうこともあった。
   - 1987年、セカンドシングルとなった『All American Boy/Bad News』を最後にDrの土屋が脱退。アイドルなどの[バックバンド](https://ja.wikipedia.org/wiki/バックバンド "wikilink")を勤めていた五十嵐公太を2代目ドラムスに迎える。
   - 1987年、[CHAR](https://ja.wikipedia.org/wiki/CHAR "wikilink")プロデュースのミニアルバム『Topping Voice』をリリース。この中にはファーストアルバムに収録されていた『SWEET LADY』のリメイクも含まれている(A面の最後には隠しトラックとして『[第三の男](../Page/第三の男.md "wikilink")』のテーマをギターで弾いたトラックも収録されている)。
   - 1988年、セカンドアルバム『TAKIN' Voyage』をリリース。このアルバムには『ROCKNESS』や『WAITING FOR YOU』などファーストとは異なった曲がそろっている。

@@ -1,7 +1,7 @@
 > この記事は[ESCM](https://ja.wikipedia.org/wiki/ESCM)から翻訳されています。
 
 
-**ESCM**は[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")アーティスト[BTによる](https://ja.wikipedia.org/wiki/BT_\(ミュージシャン\) "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")。BTはアルバムの中でギターとドラムを演奏しボーカルも担当、その他Steven Barkan、[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")アーティスト[Paul van Dykと共に楽曲を製作した](https://ja.wikipedia.org/wiki/ポール・ヴァン・ダイク "wikilink")。 3曲目[Flaming June](http://www.btmusic.com/sound_hp/06004701%20BT%20-%20Flaming%20June%20\(BT%20&%20PvD%20Edit\).mp3)は日本でもテレビ番組のBGMとしても流れる事が良くあるので、。
+**ESCM**は[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")アーティスト[BTによる](../Page/BT_\(ミュージシャン\).md "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")。BTはアルバムの中でギターとドラムを演奏しボーカルも担当、その他Steven Barkan、[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")アーティスト[Paul van Dykと共に楽曲を製作した](https://ja.wikipedia.org/wiki/ポール・ヴァン・ダイク "wikilink")。 3曲目[Flaming June](http://www.btmusic.com/sound_hp/06004701%20BT%20-%20Flaming%20June%20\(BT%20&%20PvD%20Edit\).mp3)は日本でもテレビ番組のBGMとしても流れる事が良くあるので、。
 
 ESCMは *Electric Sky Church Music*を表している。
 
@@ -19,7 +19,7 @@ ESCMは *Electric Sky Church Music*を表している。
 10. "Content" – 8:50
 11. "Flaming June (Simon Hale's Orchestral Performance)" – 1:07
 
-11曲目は[隠しトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")であり、10曲目のおおよそ10分目くらいから始まる。
+11曲目は[隠しトラック](../Page/隠しトラック.md "wikilink")であり、10曲目のおおよそ10分目くらいから始まる。
 
 ## 外部リンク
 

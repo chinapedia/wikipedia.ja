@@ -1,7 +1,7 @@
 > この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
 
 
-**BSどーもくんワールド**（びーえす- ）は、[2002年](../Page/2002年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[NHKBS2で放送された](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")[こども番組である](https://ja.wikipedia.org/wiki/子供番組 "wikilink")。
+**BSどーもくんワールド**（びーえす- ）は、[2002年](../Page/2002年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[NHKBS2で放送された](../Page/NHK衛星第2テレビジョン.md "wikilink")[こども番組である](../Page/子供番組.md "wikilink")。
 
 ## 概要
 
@@ -17,8 +17,8 @@ BSのキャラクターのどーも、うさじい、たーちゃんが主役の
 ## 出演者
 
   - [浜谷真理子](https://ja.wikipedia.org/wiki/浜谷真理子 "wikilink")
-  - [林家いっ平](https://ja.wikipedia.org/wiki/林家三平_\(2代目\) "wikilink")（2002 - 2005年度）
-  - [島田珠代](https://ja.wikipedia.org/wiki/島田珠代 "wikilink")（2002 - 2005年度）
+  - [林家いっ平](../Page/林家三平_\(2代目\).md "wikilink")（2002 - 2005年度）
+  - [島田珠代](../Page/島田珠代.md "wikilink")（2002 - 2005年度）
   - [テツandトモ](../Page/テツandトモ.md "wikilink")（2006年度）
 
 ## 内容
@@ -80,7 +80,7 @@ BSどーもくんワールド スペシャル</p></td>
 どーも&amp;ななみの大パーティー!</p></td>
 <td><p><strong>浜谷真理子</strong>、<strong>テツandトモ</strong><br />
 <strong>どーもくん</strong>、<strong>ななみちゃん</strong>、<strong>うさじい</strong>、<strong>たーちゃん</strong><br />
-<a href="https://ja.wikipedia.org/wiki/杉田あきひろ" title="wikilink">杉田あきひろ</a>、<a href="https://ja.wikipedia.org/wiki/ストレッチマン・ハイパー" title="wikilink">ストレッチマン</a></p></td>
+<a href="../Page/杉田あきひろ.md" title="wikilink">杉田あきひろ</a>、<a href="https://ja.wikipedia.org/wiki/ストレッチマン・ハイパー" title="wikilink">ストレッチマン</a></p></td>
 </tr>
 <tr class="even">
 <td><p>どーもくん</p></td>
@@ -91,19 +91,19 @@ BSどーもくんワールド スペシャル</p></td>
 <td><p>2002年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ぐ〜チョコランタンとゆかいな仲間の大行進〜ドーム・夢のわんパーク広場〜" title="wikilink">ぐ〜チョコランタンとゆかいな仲間の大行進<br />
 〜ドーム・夢のわんパーク広場〜</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/坂田おさむ" title="wikilink">坂田おさむ</a>、<a href="../Page/瀧本瞳.md" title="wikilink">瀧本瞳</a>、<a href="https://ja.wikipedia.org/wiki/松野ちか" title="wikilink">松野ちか</a>、<a href="../Page/輪島直幸.md" title="wikilink">輪島直幸</a><br />
-<a href="../Page/みんなの広場だ!わんパーク.md" title="wikilink">ミーオ</a>、<a href="../Page/みんなの広場だ!わんパーク.md" title="wikilink">ダリオ</a>、<a href="../Page/ひなたおさむ.md" title="wikilink">ひなたおさむ</a>、<a href="../Page/かまだみき.md" title="wikilink">かまだみき</a>、<a href="https://ja.wikipedia.org/wiki/恵畑ゆう" title="wikilink">恵畑ゆう</a><br />
-<a href="https://ja.wikipedia.org/wiki/ぐ〜チョコランタン" title="wikilink">スプー</a>、<a href="https://ja.wikipedia.org/wiki/ぐ〜チョコランタン" title="wikilink">アネム</a>、<a href="https://ja.wikipedia.org/wiki/ぐ〜チョコランタン" title="wikilink">ズズ</a>、<a href="https://ja.wikipedia.org/wiki/ぐ〜チョコランタン" title="wikilink">ジャコビ</a>、<strong>どーもくん</strong></p></td>
+<td><p><a href="../Page/坂田おさむ.md" title="wikilink">坂田おさむ</a>、<a href="../Page/瀧本瞳.md" title="wikilink">瀧本瞳</a>、<a href="../Page/松野ちか.md" title="wikilink">松野ちか</a>、<a href="../Page/輪島直幸.md" title="wikilink">輪島直幸</a><br />
+<a href="../Page/みんなの広場だ!わんパーク.md" title="wikilink">ミーオ</a>、<a href="../Page/みんなの広場だ!わんパーク.md" title="wikilink">ダリオ</a>、<a href="../Page/ひなたおさむ.md" title="wikilink">ひなたおさむ</a>、<a href="../Page/かまだみき.md" title="wikilink">かまだみき</a>、<a href="../Page/恵畑ゆう.md" title="wikilink">恵畑ゆう</a><br />
+<a href="../Page/ぐ〜チョコランタン.md" title="wikilink">スプー</a>、<a href="../Page/ぐ〜チョコランタン.md" title="wikilink">アネム</a>、<a href="../Page/ぐ〜チョコランタン.md" title="wikilink">ズズ</a>、<a href="../Page/ぐ〜チョコランタン.md" title="wikilink">ジャコビ</a>、<strong>どーもくん</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>2003年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テレビまつりだ!_ぐ〜チョコランタンとともだちいっぱいオンステージ" title="wikilink">テレビまつりだ!<br />
 ぐ〜チョコランタンとともだちいっぱいオンステージ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/今井ゆうぞう" title="wikilink">今井ゆうぞう</a>、<a href="https://ja.wikipedia.org/wiki/はいだしょうこ" title="wikilink">はいだしょうこ</a>、<a href="https://ja.wikipedia.org/wiki/佐藤弘道" title="wikilink">佐藤弘道</a>、<a href="https://ja.wikipedia.org/wiki/きよこ" title="wikilink">タリキヨコ</a><br />
-<a href="https://ja.wikipedia.org/wiki/ぐ〜チョコランタン" title="wikilink">スプー</a>、<a href="https://ja.wikipedia.org/wiki/ぐ〜チョコランタン" title="wikilink">アネム</a>、<a href="https://ja.wikipedia.org/wiki/ぐ〜チョコランタン" title="wikilink">ズズ</a>、<a href="https://ja.wikipedia.org/wiki/ぐ〜チョコランタン" title="wikilink">ジャコビ</a><br />
-<a href="https://ja.wikipedia.org/wiki/ワンワン_(いないいないばあっ!)" title="wikilink">ワンワン</a>、<a href="https://ja.wikipedia.org/wiki/いないいないばあっ!" title="wikilink">ふうか</a>、<a href="https://ja.wikipedia.org/wiki/いないいないばあっ!" title="wikilink">りなちゃん</a>、<a href="https://ja.wikipedia.org/wiki/えいごであそぼ" title="wikilink">エリック</a>、<a href="https://ja.wikipedia.org/wiki/えいごであそぼ" title="wikilink">マヤ</a>、<a href="https://ja.wikipedia.org/wiki/えいごであそぼ" title="wikilink">JB</a><br />
-<a href="https://ja.wikipedia.org/wiki/つくってあそぼ" title="wikilink">ワクワクさん</a>、<a href="https://ja.wikipedia.org/wiki/つくってあそぼ" title="wikilink">ゴロリ</a>、<a href="https://ja.wikipedia.org/wiki/にほんごであそぼ" title="wikilink">神田山陽</a>、<a href="https://ja.wikipedia.org/wiki/ストレッチマン・ハイパー" title="wikilink">ストレッチマン</a><br />
-<strong>どーもくん</strong>、<a href="https://ja.wikipedia.org/wiki/ひょっこりひょうたん島" title="wikilink">ドン・ガバチョ</a></p></td>
+<td><p><a href="../Page/今井ゆうぞう.md" title="wikilink">今井ゆうぞう</a>、<a href="https://ja.wikipedia.org/wiki/はいだしょうこ" title="wikilink">はいだしょうこ</a>、<a href="../Page/佐藤弘道.md" title="wikilink">佐藤弘道</a>、<a href="https://ja.wikipedia.org/wiki/きよこ" title="wikilink">タリキヨコ</a><br />
+<a href="../Page/ぐ〜チョコランタン.md" title="wikilink">スプー</a>、<a href="../Page/ぐ〜チョコランタン.md" title="wikilink">アネム</a>、<a href="../Page/ぐ〜チョコランタン.md" title="wikilink">ズズ</a>、<a href="../Page/ぐ〜チョコランタン.md" title="wikilink">ジャコビ</a><br />
+<a href="https://ja.wikipedia.org/wiki/ワンワン_(いないいないばあっ!)" title="wikilink">ワンワン</a>、<a href="../Page/いないいないばあっ!.md" title="wikilink">ふうか</a>、<a href="../Page/いないいないばあっ!.md" title="wikilink">りなちゃん</a>、<a href="../Page/えいごであそぼ.md" title="wikilink">エリック</a>、<a href="../Page/えいごであそぼ.md" title="wikilink">マヤ</a>、<a href="../Page/えいごであそぼ.md" title="wikilink">JB</a><br />
+<a href="../Page/つくってあそぼ.md" title="wikilink">ワクワクさん</a>、<a href="../Page/つくってあそぼ.md" title="wikilink">ゴロリ</a>、<a href="../Page/にほんごであそぼ.md" title="wikilink">神田山陽</a>、<a href="https://ja.wikipedia.org/wiki/ストレッチマン・ハイパー" title="wikilink">ストレッチマン</a><br />
+<strong>どーもくん</strong>、<a href="../Page/ひょっこりひょうたん島.md" title="wikilink">ドン・ガバチョ</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -116,7 +116,7 @@ BSどーもくんワールド スペシャル</p></td>
 ## 関連種目
 
   - [どーもくん](https://ja.wikipedia.org/wiki/どーもくん "wikilink")
-  - [ななみちゃん](https://ja.wikipedia.org/wiki/ななみちゃん "wikilink")
+  - [ななみちゃん](../Page/ななみちゃん.md "wikilink")
   - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")・[オンバト+](https://ja.wikipedia.org/wiki/オンバト+ "wikilink")
   - [みんなの広場ふれあいホール](../Page/みんなの広場ふれあいホール.md "wikilink")
   - [おかあさんといっしょ](../Page/おかあさんといっしょ.md "wikilink") - 歌や劇などをやる少し似てる番組。

@@ -6,15 +6,15 @@
 ## メンバー
 
   - **[HIRO](../Page/成海カズト.md "wikilink")**（[1977年](../Page/1977年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink") - ）
-      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")[菊陽町](https://ja.wikipedia.org/wiki/菊陽町 "wikilink")出身。
+      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")[菊陽町](../Page/菊陽町.md "wikilink")出身。
   - **田村直樹**（たむら なおき、[1972年](../Page/1972年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink") - ）
       - [ギター](../Page/ギター.md "wikilink")担当。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[藤沢市](../Page/藤沢市.md "wikilink")出身。
   - **長谷記史**（はせ のりふみ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[2月22日](../Page/2月22日.md "wikilink") - ）
-      - [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。[山口県](../Page/山口県.md "wikilink")[長門市](../Page/長門市.md "wikilink")出身。
+      - [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。[山口県](../Page/山口県.md "wikilink")[長門市](../Page/長門市.md "wikilink")出身。
   - **川上貴史**（かわかみ たかし、[1973年](../Page/1973年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink") - ）
-      - [ドラムス担当](../Page/ドラムセット.md "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[墨田区](../Page/墨田区.md "wikilink")出身。
+      - [ドラムス担当](../Page/ドラムセット.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[墨田区](../Page/墨田区.md "wikilink")出身。
   - **[長田直之](https://ja.wikipedia.org/wiki/長田直之 "wikilink")**（おさだ なおゆき、[1973年](../Page/1973年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink") - ）
-      - [キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[国分寺市](../Page/国分寺市.md "wikilink")出身。
+      - [キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。[東京都](../Page/東京都.md "wikilink")[国分寺市](../Page/国分寺市.md "wikilink")出身。
 
 ## 来歴
 
@@ -22,23 +22,23 @@
 
 デビュー当初はHIRO（ボーカル）、田村（ギター）、長田（キーボード）の3人編成だったが、4thシングル「パレット」より、サポートメンバーとして共に活動していた長谷（ベース）と川上（ドラムス）が正式加入。
 
-[2000年](../Page/2000年.md "wikilink")元旦に発売し、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[HUNTER×HUNTER](https://ja.wikipedia.org/wiki/HUNTER×HUNTER_\(1999年のアニメ\) "wikilink")』の[テーマソングとなった](https://ja.wikipedia.org/wiki/主題歌 "wikilink")3rdシングル「おはよう。」がスマッシュヒット。 同年[6月](../Page/6月.md "wikilink")にアルバム『Breathe』、[2001年](../Page/2001年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")には5thシングル「Be With You」をリリースしたが、[2001年](../Page/2001年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に公式のアナウンスは特にないまま突然の解散に至った。
+[2000年](../Page/2000年.md "wikilink")元旦に発売し、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[HUNTER×HUNTER](https://ja.wikipedia.org/wiki/HUNTER×HUNTER_\(1999年のアニメ\) "wikilink")』の[テーマソングとなった](../Page/主題歌.md "wikilink")3rdシングル「おはよう。」がスマッシュヒット。 同年[6月](../Page/6月.md "wikilink")にアルバム『Breathe』、[2001年](../Page/2001年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")には5thシングル「Be With You」をリリースしたが、[2001年](../Page/2001年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に公式のアナウンスは特にないまま突然の解散に至った。
 
 ## 作品
 
 ### シングル
 
 1.  **Circle of Days** （[1999年](../Page/1999年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")）
-    1.  Circle of Days\[5:00\]（作詞：[山田ひろし](https://ja.wikipedia.org/wiki/山田ひろし "wikilink")／作曲：HIRO／編曲：Keno・幾見雅博）
-          - [日本テレビ系](../Page/日本テレビネットワーク協議会.md "wikilink")『[ろみひー](https://ja.wikipedia.org/wiki/ろみひー "wikilink")』エンディングテーマ
+    1.  Circle of Days\[5:00\]（作詞：[山田ひろし](../Page/山田ひろし.md "wikilink")／作曲：HIRO／編曲：Keno・幾見雅博）
+          - [日本テレビ系](../Page/日本テレビネットワーク協議会.md "wikilink")『[ろみひー](../Page/ろみひー.md "wikilink")』エンディングテーマ
     2.  Hide and Seek\[5:03\]（作詞：山田ひろし／作曲：HIRO・幾見雅博／編曲：Keno・幾見雅博）
     3.  Circle of Days(オリジナルカラオケ)\[5:00\]
 2.  **Heat Haze 〜陽炎〜** （[1999年](../Page/1999年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")）
     1.  Heat Haze 〜陽炎〜\[5:04\]（作詞：山田ひろし／作曲：HIRO／編曲：Keno・幾見雅博）
-          - [テレビ朝日系](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")『[人気者でいこう\!](https://ja.wikipedia.org/wiki/人気者でいこう! "wikilink")』エンディングテーマ
+          - [テレビ朝日系](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")『[人気者でいこう\!](../Page/人気者でいこう!.md "wikilink")』エンディングテーマ
     2.  Feel like the moon\[4:32\]（作詞：山田ひろし／作曲：HIRO／編曲：Keno・幾見雅博）
     3.  Heat Haze〜陽炎〜(original karaoke)\[5:01\]
-3.  **おはよう。** （[2000年](../Page/2000年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")）[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")23位、登場回数11回
+3.  **おはよう。** （[2000年](../Page/2000年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")）[オリコン](../Page/オリコンチャート.md "wikilink")23位、登場回数11回
     1.  おはよう。\[4:40\]（作詞：HIRO・山田ひろし／作曲：HIRO／編曲：Keno・[西脇辰弥](../Page/西脇辰弥.md "wikilink")）
           - [フジテレビ系アニメ](../Page/フジネットワーク.md "wikilink")『[HUNTER×HUNTER](https://ja.wikipedia.org/wiki/HUNTER×HUNTER_\(1999年のアニメ\) "wikilink")』オープニングテーマ
     2.  Monkey's Banquet\[4:30\]（作詞：HIRO・山田ひろし／作曲：HIRO／編曲：Keno・西脇辰弥）
@@ -79,7 +79,7 @@
 
 ## 関連項目
 
-  - [Radio Swing](https://ja.wikipedia.org/wiki/Radio_Swing "wikilink") - 結成前、田村と長田が在籍してた[ジャズ](../Page/ジャズ.md "wikilink")・[フュージョン](../Page/フュージョン_\(音楽\).md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。
-  - [CooRie](https://ja.wikipedia.org/wiki/CooRie "wikilink") - 解散後、長田が[2003年](../Page/2003年.md "wikilink")までメンバーとして活動していた。
+  - [Radio Swing](../Page/Radio_Swing.md "wikilink") - 結成前、田村と長田が在籍してた[ジャズ](../Page/ジャズ.md "wikilink")・[フュージョン](../Page/フュージョン_\(音楽\).md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。
+  - [CooRie](../Page/CooRie.md "wikilink") - 解散後、長田が[2003年](../Page/2003年.md "wikilink")までメンバーとして活動していた。
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink") [Category:2001年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に解散した音楽グループ "wikilink")

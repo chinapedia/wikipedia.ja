@@ -1,11 +1,11 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**イヤミのここで一発**は、[大一商会](https://ja.wikipedia.org/wiki/大一商会 "wikilink")が販売した[羽根モノ](https://ja.wikipedia.org/wiki/羽根モノ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")で、CR[おそ松くん](https://ja.wikipedia.org/wiki/おそ松くん "wikilink")の[スピンオフ](../Page/スピンオフ.md "wikilink")機種。 本項目では、直撃抽選機能を搭載した「チビ太のここで一発J10」とそのスペック違いの「激チビ太のここで一発JS50」についても記述する。
+**イヤミのここで一発**は、[大一商会](../Page/大一商会.md "wikilink")が販売した[羽根モノ](../Page/羽根モノ.md "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")で、CR[おそ松くん](../Page/おそ松くん.md "wikilink")の[スピンオフ](../Page/スピンオフ.md "wikilink")機種。 本項目では、直撃抽選機能を搭載した「チビ太のここで一発J10」とそのスペック違いの「激チビ太のここで一発JS50」についても記述する。
 
 ## イヤミのここで一発
 
-本機が、種別が撤廃された後の[羽根モノ](https://ja.wikipedia.org/wiki/羽根モノ "wikilink")タイプの機種第一号として登場。大ヒットマシン『[CRレレレにおまかせ\!](../Page/CRレレレにおまかせ!.md "wikilink")』で好評だったスペシャルルートを継承しつつも、盤面横いっぱいに広がる新たな役物を搭載している。
+本機が、種別が撤廃された後の[羽根モノ](../Page/羽根モノ.md "wikilink")タイプの機種第一号として登場。大ヒットマシン『[CRレレレにおまかせ\!](../Page/CRレレレにおまかせ!.md "wikilink")』で好評だったスペシャルルートを継承しつつも、盤面横いっぱいに広がる新たな役物を搭載している。
 
 本機はパチンコ機では初めて**「振動センサー」**を標準搭載し、玉が役物内にあるときに台を強く叩くと警告音と共に台枠にあるランプ全てが光る。
 

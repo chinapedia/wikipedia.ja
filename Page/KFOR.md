@@ -1,7 +1,7 @@
 > この記事は[KFOR](https://ja.wikipedia.org/wiki/KFOR)から翻訳されています。
 
 
-[Insignia_NATO_Army_KFOR.svg](https://ja.wikipedia.org/wiki/File:Insignia_NATO_Army_KFOR.svg "fig:Insignia_NATO_Army_KFOR.svg")（左）と[キリル文字](../Page/キリル文字.md "wikilink")でかかれたKFORの[エンブレム](https://ja.wikipedia.org/wiki/エンブレム "wikilink")。\]\] **KFOR**（[英](../Page/英語.md "wikilink")：Kosovo Force）、**コソボ治安維持部隊**（コソボちあんいじぶたい）は、[1999年](../Page/1999年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink")に採択された[国連安保理決議1244に基づき](https://ja.wikipedia.org/wiki/国際連合安全保障理事会決議1244 "wikilink")、[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")（NATO）指揮の下、当時[ユーゴスラビア連邦共和国](../Page/ユーゴスラビア連邦共和国.md "wikilink")の[セルビア共和国](https://ja.wikipedia.org/wiki/セルビア共和国_\(1990年-2006年\) "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[セルビア](../Page/セルビア.md "wikilink")共和国として独立）統治下にあった[コソボ・メトヒヤ自治州](https://ja.wikipedia.org/wiki/コソボ・メトヒヤ自治州_\(1990年-1999年\) "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月17日](../Page/2月17日.md "wikilink")に[コソボ](../Page/コソボ.md "wikilink")共和国として独立を宣言）において治安維持を担う国際安全保障部隊である。
+[Insignia_NATO_Army_KFOR.svg](https://ja.wikipedia.org/wiki/File:Insignia_NATO_Army_KFOR.svg "fig:Insignia_NATO_Army_KFOR.svg")（左）と[キリル文字](../Page/キリル文字.md "wikilink")でかかれたKFORの[エンブレム](../Page/エンブレム.md "wikilink")。\]\] **KFOR**（[英](../Page/英語.md "wikilink")：Kosovo Force）、**コソボ治安維持部隊**（コソボちあんいじぶたい）は、[1999年](../Page/1999年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink")に採択された[国連安保理決議1244に基づき](https://ja.wikipedia.org/wiki/国際連合安全保障理事会決議1244 "wikilink")、[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")（NATO）指揮の下、当時[ユーゴスラビア連邦共和国](../Page/ユーゴスラビア連邦共和国.md "wikilink")の[セルビア共和国](https://ja.wikipedia.org/wiki/セルビア共和国_\(1990年-2006年\) "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[セルビア](../Page/セルビア.md "wikilink")共和国として独立）統治下にあった[コソボ・メトヒヤ自治州](https://ja.wikipedia.org/wiki/コソボ・メトヒヤ自治州_\(1990年-1999年\) "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月17日](../Page/2月17日.md "wikilink")に[コソボ](../Page/コソボ.md "wikilink")共和国として独立を宣言）において治安維持を担う国際安全保障部隊である。
 
 同決議に基づき暫定行政を行う民生部門は[国際連合コソボ暫定行政ミッション](https://ja.wikipedia.org/wiki/国際連合コソボ暫定行政ミッション "wikilink")（UNMIK）という。
 
@@ -9,8 +9,8 @@
 
 ### 組織
 
-  - 司令部　[プリシュティナ](https://ja.wikipedia.org/wiki/プリシュティナ "wikilink")（の中心都市）
-  - 司令官　ジュゼッペ・ヴァロット　[イタリア陸軍](https://ja.wikipedia.org/wiki/イタリア陸軍 "wikilink")中将（2006年4月現在）
+  - 司令部　[プリシュティナ](../Page/プリシュティナ.md "wikilink")（の中心都市）
+  - 司令官　ジュゼッペ・ヴァロット　[イタリア陸軍](../Page/イタリア陸軍.md "wikilink")中将（2006年4月現在）
   - 兵力　　およそ16,000人（2006年4月現在）
   - 参加国　36ヶ国
 
@@ -78,7 +78,7 @@ KFORは以下のように4区域に分割し、各区域に複数の国から派
 
   -
     憲兵による準軍事の警察部隊。重武装の犯罪者検挙や[テロ](https://ja.wikipedia.org/wiki/テロ "wikilink")対策を担い、KFOR本体の任務を助ける。
-    担当国・部隊：国家憲兵隊[カラビニエリ](https://ja.wikipedia.org/wiki/カラビニエリ "wikilink")、国家憲兵隊[ジャンダルムリ](../Page/国家憲兵隊_\(フランス\).md "wikilink")、[陸軍](https://ja.wikipedia.org/wiki/エストニア国防軍 "wikilink")
+    担当国・部隊：国家憲兵隊[カラビニエリ](../Page/カラビニエリ.md "wikilink")、国家憲兵隊[ジャンダルムリ](../Page/国家憲兵隊_\(フランス\).md "wikilink")、[陸軍](https://ja.wikipedia.org/wiki/エストニア国防軍 "wikilink")
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@ KFORは以下のように4区域に分割し、各区域に複数の国から派
 
 ## 治安の現状
 
-KFOR駐留以前はセルビア治安部隊やユーゴスラビア軍とコソボ解放軍の対立は激しく、[セルビア人](https://ja.wikipedia.org/wiki/セルビア人 "wikilink")、[アルバニア人](../Page/アルバニア人.md "wikilink")双方に迫害の被害者を出した。
+KFOR駐留以前はセルビア治安部隊やユーゴスラビア軍とコソボ解放軍の対立は激しく、[セルビア人](../Page/セルビア人.md "wikilink")、[アルバニア人](../Page/アルバニア人.md "wikilink")双方に迫害の被害者を出した。
 
 KFOR駐留以後は和平案は概ね履行され、また、スロボダン・ミロシェヴィッチ大統領も逮捕されたことから、[アルバニア](../Page/アルバニア.md "wikilink")系住民への迫害は改善したと言われている。
 

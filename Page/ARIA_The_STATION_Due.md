@@ -1,7 +1,7 @@
 > この記事は[ARIA The STATION Due](https://ja.wikipedia.org/wiki/ARIA_The_STATION_Due)から翻訳されています。
 
 
-『**ARIA The STATION Due**』（**アリア ザ ステーション デュエ**）は、[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")・[BEWE](../Page/BEWE.md "wikilink")と[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")（全51回）まで毎週木曜日に配信されていた、[テレビ東京系](https://ja.wikipedia.org/wiki/テレビ東京系 "wikilink")アニメ『[ARIA The NATURAL](https://ja.wikipedia.org/wiki/ARIA_\(漫画\) "wikilink")』（第2期）と連動した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[葉月絵理乃](https://ja.wikipedia.org/wiki/葉月絵理乃 "wikilink")と[西村ちなみ](../Page/西村ちなみ.md "wikilink")。
+『**ARIA The STATION Due**』（**アリア ザ ステーション デュエ**）は、[音泉](../Page/音泉.md "wikilink")・[BEWE](../Page/BEWE.md "wikilink")と[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて[2006年](../Page/2006年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")（全51回）まで毎週木曜日に配信されていた、[テレビ東京系](https://ja.wikipedia.org/wiki/テレビ東京系 "wikilink")アニメ『[ARIA The NATURAL](../Page/ARIA_\(漫画\).md "wikilink")』（第2期）と連動した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[葉月絵理乃](../Page/葉月絵理乃.md "wikilink")と[西村ちなみ](../Page/西村ちなみ.md "wikilink")。
 
 『[ARIA The STATION Neo VENEZIA INFORMALE](../Page/灯里・藍華・アリスのARIA_The_STATION_Neo_VENEZIA_INFORMALE.md "wikilink")』のリニューアルされた後番組であるが、前番組とは違ってマンホーム人であるキャスト陣のトーク時は**マンホーム**（地球）より放送、灯里とアリア社長とゲストのトーク時は**アクア**（AQUA）から放送しているという形式になっている。挨拶は「**チャオ**（Ciao）」で、[イタリア語](../Page/イタリア語.md "wikilink")で「こんにちは」や「さようなら」などの挨拶を意味する。
 
@@ -9,20 +9,20 @@
 
 ## パーソナリティ
 
-  - **[葉月絵理乃](https://ja.wikipedia.org/wiki/葉月絵理乃 "wikilink")**（水無灯里役）
+  - **[葉月絵理乃](../Page/葉月絵理乃.md "wikilink")**（水無灯里役）
   - **[西村ちなみ](../Page/西村ちなみ.md "wikilink")**（アリア・ポコテン役）
 
 ## 配信など
 
-  - 放送期間：[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")
-  - 配信局：[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")・[BEWE](../Page/BEWE.md "wikilink")、[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")…毎週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")（同一内容配信）
+  - 放送期間：[2006年](../Page/2006年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")
+  - 配信局：[音泉](../Page/音泉.md "wikilink")・[BEWE](../Page/BEWE.md "wikilink")、[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")…毎週[木曜日](../Page/木曜日.md "wikilink")（同一内容配信）
   - 放送時間：30分から40分前後
-  - [スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")：[マッグガーデン](https://ja.wikipedia.org/wiki/マッグガーデン "wikilink")、[COSPA](https://ja.wikipedia.org/wiki/COSPA "wikilink")
+  - [スポンサー](../Page/スポンサー.md "wikilink")：[マッグガーデン](../Page/マッグガーデン.md "wikilink")、[COSPA](https://ja.wikipedia.org/wiki/COSPA "wikilink")
   - スキップ不可のCM（2006年7月31日 - 10月末頃、2007年1月 - 2月18日、3月1日 - 3月11日）が番組開始前に20秒から40秒程不定期に導入されていた。
 
 ## 番組概要
 
-  - 前番組と違い、現実の世界でラジオが進行されているということになっており、パーソナリティは水無灯里役の[葉月絵理乃](https://ja.wikipedia.org/wiki/葉月絵理乃 "wikilink")と前番組で足音だけだったアリア・ポコテン役の[西村ちなみ](../Page/西村ちなみ.md "wikilink")の2人に変更されている。
+  - 前番組と違い、現実の世界でラジオが進行されているということになっており、パーソナリティは水無灯里役の[葉月絵理乃](../Page/葉月絵理乃.md "wikilink")と前番組で足音だけだったアリア・ポコテン役の[西村ちなみ](../Page/西村ちなみ.md "wikilink")の2人に変更されている。
   - 放送上では口にされていないが収録は2本録りである（音泉サイトで開始初回から2回ずつ同服装であることから）。
       - 毎週更新される音泉の画像には2人が写らず別の小物や風景（\#7（[箱舟](https://ja.wikipedia.org/wiki/箱舟 "wikilink")（?）の[ポスター](../Page/ポスター.md "wikilink")）、\#12（各2人の[携帯電話](../Page/携帯電話.md "wikilink")）、\#17（各2人の[ウクレレ](../Page/ウクレレ.md "wikilink")）、\#20（水無灯里とアリシア・フローレンスの[フィギュア](../Page/フィギュア.md "wikilink")）、\#22（ウクレレを引く動作をする胸から下部分だけ映っている葉月）、\#23（リスナーが送った自由工作の雪虫）、\#26（\#20と同じフィギュア）、\#32（ポーチと手帳）、\#35（葉月の直筆イラスト）、\#41（葉月・西村の直筆イラスト）、\#45（花崎の屋外単独ショット））が写っていることがある。
   - 前述の2本録りの関係から、2006年8月31日配信分（\#22・2本目）は西村が次の別仕事のためエンディングに参加できないまま早退したケースがある。
@@ -31,8 +31,8 @@
       - 「[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")の本名は?」(A.鈴木一朗)に「**イトウ一朗**」（2006年10月12日配信分（\#28））
       - 「北海道日本ハムファイターズの優勝に貢献した背番号1の選手の名前を**選手登録名**で答えよ」（A.SHINJO）に「**しんじょう**」（2006年10月19日配信分（\#29））
       - 「"かわいまさひろ"守備走塁コーチの名前を漢字で書け」（A.川相昌弘）に「**川井昌宏**」（2007年3月22日配信分（\#50））
-  - 西村が[イーサン・ホーク](https://ja.wikipedia.org/wiki/イーサン・ホーク "wikilink")が好きとオープニングトークで話す。『[晩秋](https://ja.wikipedia.org/wiki/晩秋_\(映画\) "wikilink")』、『[いまを生きる](https://ja.wikipedia.org/wiki/いまを生きる "wikilink")』、『[生きてこそ](../Page/生きてこそ_\(1993年の映画\).md "wikilink")』、『[恋人までの距離](https://ja.wikipedia.org/wiki/恋人までの距離 "wikilink")』と代表作を挙げるも葉月は知らなかった（2006年11月23日配信分（\#34））
-      - 西村ちなみ的ビックリニュース2006：第1位…祝・1歳（母になって1年、体重+1kg増）、第2位…[レーシック](https://ja.wikipedia.org/wiki/レーシック "wikilink")の手術大成功、第3位…[嘔吐下痢症](https://ja.wikipedia.org/wiki/嘔吐下痢症 "wikilink")になり[風邪](../Page/風邪.md "wikilink")を引いた
+  - 西村が[イーサン・ホーク](../Page/イーサン・ホーク.md "wikilink")が好きとオープニングトークで話す。『[晩秋](https://ja.wikipedia.org/wiki/晩秋_\(映画\) "wikilink")』、『[いまを生きる](../Page/いまを生きる.md "wikilink")』、『[生きてこそ](../Page/生きてこそ_\(1993年の映画\).md "wikilink")』、『[恋人までの距離](../Page/恋人までの距離.md "wikilink")』と代表作を挙げるも葉月は知らなかった（2006年11月23日配信分（\#34））
+      - 西村ちなみ的ビックリニュース2006：第1位…祝・1歳（母になって1年、体重+1kg増）、第2位…[レーシック](../Page/レーシック.md "wikilink")の手術大成功、第3位…[嘔吐下痢症](https://ja.wikipedia.org/wiki/嘔吐下痢症 "wikilink")になり[風邪](../Page/風邪.md "wikilink")を引いた
       - 葉月絵理乃的ビックリニュース2006：第1位…『ARIA』がきっかけで仕事場で知り合いが増えた、第2位…初サイン会（都内以外にも大阪、神戸でもやれたこと）、第3位…2月に生[ガキに当たった](../Page/カキ_\(貝\).md "wikilink")（それ以来カキを食べられなくなった）
       - 「ARIA」的ビックリニュース：第1位…ナチュレ30結成、第2位…チームサーティー関係（昭和ネタで盛り上がったこと）第3位…はなちゃんがレギュラー化（普通は個人用のマイクはなく、最初はボソボソ喋る程度だったのが歌を歌ったのをきっかけにオープニングでミニコーナーを持ったりするようになった。3項目とも2006年12月21日配信分（\#38））
   - ゲストがいる時は番組開始冒頭でゲストの特別コーナーが設けられている。
@@ -41,21 +41,21 @@
       - 「野島裕史のそれゆけトークへっぽこでGO\!」（2007年2月1日配信分（\#43））
       - 「ティッシュ The STATION」（2007年2月22日配信分（\#46））…第132回（本人の位置付け）。ティッシュは[千和が飼っている愛犬のこと](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")。
       - 「斎藤千和の車大好き\!」（2007年3月1日配信分（\#47））…第7回（本人的位置付け）
-  - アニメ『[ARIA The NATURAL](https://ja.wikipedia.org/wiki/ARIA_\(漫画\) "wikilink")』の終了に伴い2007年3月いっぱいで本ラジオが終了することが発表された（2007年3月8日放送分（\#48））
+  - アニメ『[ARIA The NATURAL](../Page/ARIA_\(漫画\).md "wikilink")』の終了に伴い2007年3月いっぱいで本ラジオが終了することが発表された（2007年3月8日放送分（\#48））
   - 2007年3月15日配信分（\#49）、3月22日配信分（\#50）のトーク内で4月からも「ARIAラジオ」をリニューアルして放送を続けると告知された。
 
 ## スタッフ
 
-  - プロデューサー：[やまけん](https://ja.wikipedia.org/wiki/やまけん "wikilink")
+  - プロデューサー：[やまけん](../Page/やまけん.md "wikilink")
   - ディレクター：[日高殖充](../Page/日高殖充.md "wikilink")
   - 構成作家：[花崎圭司](../Page/花崎圭司.md "wikilink")
       - 苗字が\#19、名前が\#28、年齢が\#24、生まれ月が\#42、出身地が\#51、姿が\#38の番組紹介ページで写真が掲載されそれぞれ明らかになった。
       - クイズの出題をするなど番組に出演する事が多くなった為、＃30で「前回（2本録りの1本目である\#27）から、はなちゃんマイクがついた」と明かされた。
   - ラジオドラマ脚本：
       - 花崎圭司（\#14 - \#16）
-      - [藤咲あゆな](https://ja.wikipedia.org/wiki/藤咲あゆな "wikilink")（通称：あゆあゆ \#17 - \#51）
+      - [藤咲あゆな](../Page/藤咲あゆな.md "wikilink")（通称：あゆあゆ \#17 - \#51）
           -
-            お茶好き。ウクレレのコーナーでは、「もちもちぽんぽんず」として[マラカス](https://ja.wikipedia.org/wiki/マラカス "wikilink")を振るう。＃41で花崎の代わりにオープニングクイズに出演した際に初めてマイクの前で喋った。
+            お茶好き。ウクレレのコーナーでは、「もちもちぽんぽんず」として[マラカス](../Page/マラカス.md "wikilink")を振るう。＃41で花崎の代わりにオープニングクイズに出演した際に初めてマイクの前で喋った。
 
 ## コーナー
 
@@ -70,7 +70,7 @@
   - ARIA The STATION Neo VENEZIA INFORMALE PROSSIMO （アリア ザ ステーション ネオヴェネツィア インフォルマーレ プロッシモ）
     灯里とアリア社長とゲストでのコーナー。別名、「灯里ちゃんのラジオ」。このコーナーだけ前番組同様、アクアにある「フトゥーロ・プリマ・スタジオ」から放送されている設定になっている。ラジオドラマのように各話ごとにタイトルがつけられてい（[各話タイトルで後述](https://ja.wikipedia.org/wiki/#ARIA_The_STATION_Neo_VENEZIA_INFORMALE_PROSSIMO_各話タイトル "wikilink")）。PROSSIMO（プロッシモ）は「次の」「未来の」と言う意味のイタリア語。ゲストがいる回では、そのゲストが自身の役で登場する。たまにスタジオを飛び出すことも。
   - ウクレレでハッピーバースデー（\#21〔2006年8月24日〕 - ）
-    月イチ恒例で、その月の最終週にその月に誕生日を迎えるリスナー（祝い希望のメールは全て読み上げられる）をウクレレで祝うコーナー。誕生日・本名もしくはペンネーム・[ルビ](https://ja.wikipedia.org/wiki/ルビ "wikilink")必須。
+    月イチ恒例で、その月の最終週にその月に誕生日を迎えるリスナー（祝い希望のメールは全て読み上げられる）をウクレレで祝うコーナー。誕生日・本名もしくはペンネーム・[ルビ](../Page/ルビ.md "wikilink")必須。
   - アクア一問一答（\#5〔2006年5月4日〕 - ,\#14,\#19,\#39,\#42,\#46,\#49〔2007年3月15日〕）
     ゲストが出演した時に行なわれるコーナー。
 
@@ -83,7 +83,7 @@
 |                                                                        |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 | ---------------------------------------------------------------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | 場所＼配信回                                                                 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 |
-| [マウンド](https://ja.wikipedia.org/wiki/マウンド "wikilink")                  |    |    |    | |西 |    | 西  | 西  |    |    |    |    |    |    |    | |  |
+| [マウンド](../Page/マウンド.md "wikilink")                                     |    |    |    | |西 |    | 西  | 西  |    |    |    |    |    |    |    | |  |
 | [ベンチ](https://ja.wikipedia.org/wiki/野球場#プレーヤーズベンチ "wikilink")          | 葉  |    |    | |葉 | 葉西 |    |    |    |    |    | |西 |    | 西  |    | |  |
 | [アルプス](https://ja.wikipedia.org/wiki/阪神甲子園球場#スタンド "wikilink")          |    | 葉  |    |    |    | |葉 |    | 西  |    | 西  |    | 西  |    | 西  |    |
 | （サッカースタンド）                                                             |    |    | |葉 |    |    |    |    |    |    |    |    |    |    |    | |  |
@@ -98,12 +98,12 @@
 |                                                                                                                                           |    |    |     |     |    |    |    |      |    |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | -- | -- | --- | --- | -- | -- | -- | ---- | -- |
 | 場所＼配信回                                                                                                                                    | 41 | 44 | 45  | 46  | 47 | 48 | 49 | 50   | 51 |
-| [マウンド](https://ja.wikipedia.org/wiki/マウンド "wikilink")                                                                                     |    |    |     |     |    |    |    |      | |西 |
+| [マウンド](../Page/マウンド.md "wikilink")                                                                                                        |    |    |     |     |    |    |    |      | |西 |
 | [ため息橋](../Page/ため息橋.md "wikilink")（伊）（[地図](http://www.google.it/maps?q=Ponte+dei+Sospiri&z=17&t=k)）                                       | 西  |    |     |     |    |    |    |      | |  |
 | [リアルト橋](../Page/リアルト橋.md "wikilink")（伊）（[地図](http://www.google.it/maps?q=Ponte+di+Rialto&z=17&t=k)）                                       | 葉  |    |     |     |    |    |    |      | |  |
 | [金門橋](https://ja.wikipedia.org/wiki/ゴールデンゲートブリッジ "wikilink")（米）（[地図](http://maps.google.co.jp/maps?q=Golden+Gate+Bridge&z=15&t=k)）        |    | 葉西 |     |     |    |    |    |      | |  |
-| [ロンドン橋](https://ja.wikipedia.org/wiki/ロンドン橋 "wikilink")（英）（[地図](http://maps.google.co.jp/maps?q=51.508,-0.0877&z=17&t=k)）                 |    |    | |葉西 |     | 葉  |    | 葉  |      | |  |
-| [ブルックリン橋](https://ja.wikipedia.org/wiki/ブルックリン橋 "wikilink")（米）（[地図](http://maps.google.com/maps?q=Brooklyn+Bridge&t=k)）                   |    |    |     | |葉西 |    | 葉  |    |      | |  |
+| [ロンドン橋](../Page/ロンドン橋.md "wikilink")（英）（[地図](http://maps.google.co.jp/maps?q=51.508,-0.0877&z=17&t=k)）                                    |    |    | |葉西 |     | 葉  |    | 葉  |      | |  |
+| [ブルックリン橋](../Page/ブルックリン橋.md "wikilink")（米）（[地図](http://maps.google.com/maps?q=Brooklyn+Bridge&t=k)）                                      |    |    |     | |葉西 |    | 葉  |    |      | |  |
 | 天現寺橋（[地図](http://maps.google.co.jp/maps?q=35.6474,139.72275&z=17)）                                                                        |    |    |     |     | |西 |    |    | |西   |    |
 | 恵比寿橋（[地図](http://maps.google.co.jp/maps?q=35.6479,139.71516&z=17)）                                                                        |    |    |     |     |    |    |    | |（葉） |    |
 | 六条大橋                                                                                                                                      |    |    |     |     |    |    |    | |葉   |    |
@@ -134,7 +134,7 @@
   - イタリアで「グランチェーオラ」はとある食材を指します。それを使ってサラダを作るある食材とは?（\#47/正解：カニ（クモガニ）
   - フローレンスといえば[アリシアのファミリーネームだがイタリアのとある都市を英語で言い換えたものでもあるその街とは](https://ja.wikipedia.org/wiki/ARIAの登場人物#ARIAカンパニー "wikilink")?（\#48/正解：[フィレンツェ](../Page/フィレンツェ.md "wikilink")）
   - 教皇を選ぶ時に行われる選挙がある独特の儀式名の名前は?（\#49/正解：[コンクラーヴェ](https://ja.wikipedia.org/wiki/コンクラーヴェ "wikilink")）
-  - 去年惜しくも引退し、今年から中日ドラゴンズ守備走塁コーチに就任した「かわいまさひろ」（世界記録通産犠打数533）。その「かわいまさひろ」コーチの名前を漢字で書くと?（\#50/正解：[川相昌弘](https://ja.wikipedia.org/wiki/川相昌弘 "wikilink")）
+  - 去年惜しくも引退し、今年から中日ドラゴンズ守備走塁コーチに就任した「かわいまさひろ」（世界記録通産犠打数533）。その「かわいまさひろ」コーチの名前を漢字で書くと?（\#50/正解：[川相昌弘](../Page/川相昌弘.md "wikilink")）
   - 最初の提供クレジット（「お送りしマッスル」）→CM→「改めまして」の挨拶の部分がとある回からなくなった回は第何回?（\#51/正解：\#25（2006年9月21日配信分））
 
 ### ナチュレ30の歩み
@@ -149,14 +149,14 @@
   - \#14 川上が営業主任を担当。
   - \#15 葉月が[ARIAブランド](http://www.ariaguitars.com/jp/02prod/0107mi/au250.html)のウクレレを注文した事を明かす。夏休みの宿題が課される。
   - \#17 葉月がウクレレを初持参。2人で『[バラが咲いた](https://ja.wikipedia.org/wiki/マイク真木#楽曲 "wikilink")』、葉月が『[故郷](../Page/故郷_\(唱歌\).md "wikilink")』を演奏。
-  - \#18 花崎が『[チコタン](https://ja.wikipedia.org/wiki/チコタン "wikilink")』を演奏。西村が葉月の誕生祝いのために『[ハッピーバースデートゥーユー](https://ja.wikipedia.org/wiki/ハッピーバースデートゥーユー "wikilink")』を演奏。2人で『[赤とんぼ](https://ja.wikipedia.org/wiki/赤とんぼ_\(童謡\) "wikilink")』を演奏。
+  - \#18 花崎が『[チコタン](../Page/チコタン.md "wikilink")』を演奏。西村が葉月の誕生祝いのために『[ハッピーバースデートゥーユー](../Page/ハッピーバースデートゥーユー.md "wikilink")』を演奏。2人で『[赤とんぼ](https://ja.wikipedia.org/wiki/赤とんぼ_\(童謡\) "wikilink")』を演奏。
   - \#19 コーナー「ウクレレでハッピーバースデー」募集開始。
   - \#22 練習中の夏休みの宿題は2人で演奏する課題曲が『[想い出がいっぱい](https://ja.wikipedia.org/wiki/H2O_\(日本の歌手グループ\)#シングル "wikilink")』、個々に演奏する自由曲は葉月が『[亜麻色の髪の乙女](https://ja.wikipedia.org/wiki/亜麻色の髪の乙女_\(ヴィレッジ・シンガーズの曲\) "wikilink")』、西村が『[ビューティフル・ネーム](https://ja.wikipedia.org/wiki/ゴダイゴ#シングル "wikilink")』である事を明かす。
   - \#27 課題曲を演奏。
   - ラジオCDクール1 デビュー曲、オリジナル1stシングル『ねこやすみ』を演奏。作曲は、やまけんのバンドの[謎のギタリストS](https://ja.wikipedia.org/wiki/謎のギタリストS "wikilink")。
   - \#36 「アリアカンパニープレゼンツ ナチュレ30ウクレレの夕べ（ゆふべ）」で自由曲を演奏。
   - \#38 ウクレレ部の活動は「ネオ・ヴェネツィアに似合う楽器は?」という投稿がきっかけだったと明かす。
-  - ラジオCDクール2 2ndシングル（[インストゥルメンタル](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")）を演奏。
+  - ラジオCDクール2 2ndシングル（[インストゥルメンタル](../Page/器楽曲.md "wikilink")）を演奏。
 
 ### ARIA The STATION Neo VENEZIA INFORMALE PROSSIMO 各話タイトル
 
@@ -250,14 +250,14 @@
       - \#01（4月6日配信分）：[川上とも子](../Page/川上とも子.md "wikilink")〔**アテナ・グローリィ**役（2006年2月14日の前番組以来の登場）〕
       - \#02（4月13日配信分）：川上とも子〔番組上では2週連続出演であるが2本録り〕
       - \#03・04（4月20日・4月27日配信分）：川上とも子
-      - \#05・06（5月4日・5月11日配信分）：[皆川純子](https://ja.wikipedia.org/wiki/皆川純子 "wikilink")〔**晃・E・フェラーリ**役（1本目）〕
+      - \#05・06（5月4日・5月11日配信分）：[皆川純子](../Page/皆川純子.md "wikilink")〔**晃・E・フェラーリ**役（1本目）〕
       - \#13・14（6月29日・7月6日配信分）：川上とも子
-      - \#19・20（8月10日・8月17日配信分）：[下野紘](https://ja.wikipedia.org/wiki/下野紘 "wikilink")〔[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**ARIA The NATURAL 〜遠い記憶(ゆめ)のミラージュ〜**』青年役（ゲームオリジナルキャラのプレイヤー）〕
+      - \#19・20（8月10日・8月17日配信分）：[下野紘](../Page/下野紘.md "wikilink")〔[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**ARIA The NATURAL 〜遠い記憶(ゆめ)のミラージュ〜**』青年役（ゲームオリジナルキャラのプレイヤー）〕
       - \#21（8月24日配信分）：[KAORI](../Page/KAORI..md "wikilink")〔PS2『**- 〜遠い記憶（ゆめ）のミラージュ〜**』オープニングテーマソング 「BLUE BLUE WAVE」担当〕
       - \#39（12月28日配信分）：[大原さやか](../Page/大原さやか.md "wikilink")〔**アリシア・フローレンス**役〕
   - 2007年
       - \#40（1月11日配信分）：大原さやか〔放送上は年またぎであるが昨年末内の2本録り〕
-      - \#42・43（1月25日・2月1日配信分）：[野島裕史](https://ja.wikipedia.org/wiki/野島裕史 "wikilink")〔**出雲暁**役〕
+      - \#42・43（1月25日・2月1日配信分）：[野島裕史](../Page/野島裕史.md "wikilink")〔**出雲暁**役〕
       - \#46・47（2月22日・3月1日配信分）：[斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")〔**藍華・S・グランチェスタ**役〕
       - \#48・49（3月8日・3月15日配信分）：[松尾佳子](../Page/松尾佳子.md "wikilink")〔**グランドマザー（天地秋乃）**役〕
 
@@ -268,8 +268,8 @@
   - キャスト陣がはじめに挨拶をする時、自分が何番目に紹介されるかによって何番目と同じだけの回数「チャオ（Ciao）」と挨拶をする習慣となっている。しかし、新しい挨拶にかわりつつある。「こんばんアリア」などとなってきている。メールが送られてくる度に色々な挨拶が書かれているため、今後も色々に増える模様。
   - 地球・アクア放送内で出てくる「もちもちぽんぽん」の意味は腹部の肉付きがいいこと。お世辞にもいい言葉でないらしい。
   - 提供クレジットを読む時、語尾の最後にダジャレをつけている。葉月は「お送りしマッスル」、西村は「お送りしまシタビラメ」（その他に「[嶋大輔](../Page/嶋大輔.md "wikilink")」、「[田中邦衛](../Page/田中邦衛.md "wikilink")」など。『[水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")』好きが高じて「シカでした」も）など。このダジャレはリスナーからも募集している。
-  - [キムタク関連の話題で](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")[大原さやか](../Page/大原さやか.md "wikilink")が大学時代にエキストラのアルバイトをしていた経験があり、「[ラブジェネレーション](https://ja.wikipedia.org/wiki/ラブジェネレーション "wikilink")」に出演していたことがある（2007年1月11日配信分（\#40））。
-  - 「灯里ラジオ」では第42回に出雲暁扮する[野島裕史](https://ja.wikipedia.org/wiki/野島裕史 "wikilink")がゲストに出ていたため、リスナー作成の[人生ゲーム](https://ja.wikipedia.org/wiki/人生ゲーム "wikilink")を同コーナーで行われた。
+  - [キムタク関連の話題で](../Page/木村拓哉.md "wikilink")[大原さやか](../Page/大原さやか.md "wikilink")が大学時代にエキストラのアルバイトをしていた経験があり、「[ラブジェネレーション](../Page/ラブジェネレーション.md "wikilink")」に出演していたことがある（2007年1月11日配信分（\#40））。
+  - 「灯里ラジオ」では第42回に出雲暁扮する[野島裕史](../Page/野島裕史.md "wikilink")がゲストに出ていたため、リスナー作成の[人生ゲーム](https://ja.wikipedia.org/wiki/人生ゲーム "wikilink")を同コーナーで行われた。
   - \#46・47の「灯里ラジオ」では藍華・S・グランチェスタ役の[斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")が登場し、『[ARIA The STATION Neo VENEZIA INFORMALE](https://ja.wikipedia.org/wiki/ARIA_The_STATION_Neo_VENEZIA_INFORMALE "wikilink")』（2006年1月10日 - 3月28日）以来の仕切り役を演じた。
   - [松尾佳子](../Page/松尾佳子.md "wikilink")（[1944年](../Page/1944年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")生）の63歳の誕生日を番組内でウクレレ無し祝福（2007年3月8日配信分（\#48））。
   - \#50（[2007年](../Page/2007年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")配信分） 番組放送50回記念を記念して今までの番組の歴史、リスナーのその後などを振り返った。
@@ -301,7 +301,7 @@
 ## ラジオCD
 
   - ARIA The STATION Due
-      - クール1 - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月24日](../Page/11月24日.md "wikilink")発売、\#1 - \#12を収録
+      - クール1 - [2006年](../Page/2006年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink")発売、\#1 - \#12を収録
       - クール2 - 2006年[12月29日](../Page/12月29日.md "wikilink")発売、\#13 - \#24を収録
       - クール3 - [2007年](../Page/2007年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")発売、\#25 - \#39を収録
       - クール4 - 2007年[5月25日](../Page/5月25日.md "wikilink")発売、\#40 - \#51を収録
@@ -313,9 +313,9 @@
 
 ## 関連項目
 
-  - [音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")
+  - [音泉](../Page/音泉.md "wikilink")
   - [アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")
-  - [ARIA](https://ja.wikipedia.org/wiki/ARIA_\(漫画\) "wikilink")
+  - [ARIA](../Page/ARIA_\(漫画\).md "wikilink")
   - [灯里・藍華・アリスのARIA The STATION Neo VENEZIA INFORMALE](../Page/灯里・藍華・アリスのARIA_The_STATION_Neo_VENEZIA_INFORMALE.md "wikilink")
   - [ARIA The STATION Tricolore](../Page/ARIA_The_STATION_Tricolore.md "wikilink")
 

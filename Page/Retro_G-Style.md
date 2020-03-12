@@ -16,7 +16,7 @@
 
 2000年2月、インディーズ1stシングル「アイノコトバ \~words of love\~」でインディーズデビュー。6月には2ndシングル「Heaven」をリリース。
 
-その後、[ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink")のDJ KOHNOの紹介で、イベントやライヴのサポートDJを務めていたDJ SEGAが、正式メンバーとして加入する。
+その後、[ケツメイシ](../Page/ケツメイシ.md "wikilink")のDJ KOHNOの紹介で、イベントやライヴのサポートDJを務めていたDJ SEGAが、正式メンバーとして加入する。
 
 2001年12月、シングル「Life」でメジャーデビューを果たし、以降シングル9枚、ミニアルバム1枚、アルバム2枚をリリース。
 
@@ -98,7 +98,7 @@
             作詞：MASAYA・IGOR／作曲・編曲：MASAYA
     2.  キャンディ\[3:50\]
           -
-            作詞：[松本隆](../Page/松本隆.md "wikilink")／作曲：[原田真二](https://ja.wikipedia.org/wiki/原田真二 "wikilink")／編曲：MASAYA・Maestro-T
+            作詞：[松本隆](../Page/松本隆.md "wikilink")／作曲：[原田真二](../Page/原田真二.md "wikilink")／編曲：MASAYA・Maestro-T
     3.  What's the answer? \[TV-MIX\]\[4:43\]
     4.  キャンディ \[TV-MIX\]\[3:49\]
 7.  **Freemen**（2003/9/3）オリコン90位
@@ -204,17 +204,17 @@
         [avexのアーティストによるカバーソング集](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。[井上陽水](../Page/井上陽水.md "wikilink")の「少年時代」をカバーしている。この曲は「Party 3」にも収録されている。
 3.  **X-TRAIL JAM**（2003/11/12）
       -
-        スノーボードの祭典「[X-TRAIL](https://ja.wikipedia.org/wiki/日産・エクストレイル "wikilink") JAM in TOKYO DOME」のコンピレーションアルバム。「What's the answer?」収録。
+        スノーボードの祭典「[X-TRAIL](../Page/日産・エクストレイル.md "wikilink") JAM in TOKYO DOME」のコンピレーションアルバム。「What's the answer?」収録。
 4.  **DraMania**（2004/6/23）
       -
         TBS・フジテレビのドラマ主題歌を集めた[オムニバス盤](https://ja.wikipedia.org/wiki/コンピレーション "wikilink")。「What's the answer?」収録。
 5.  **RZ the best of rhythm zone 2005**（2005/5/9）
       -
-        CD・DVDの2枚組。CDに「Pieces」、DVDには「STAR」の[PVが収録されている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。レトロ唯一の映像作品。
+        CD・DVDの2枚組。CDに「Pieces」、DVDには「STAR」の[PVが収録されている](../Page/ミュージック・ビデオ.md "wikilink")。レトロ唯一の映像作品。
 
 ## 関連事項
 
-  - [わたせせいぞう](https://ja.wikipedia.org/wiki/わたせせいぞう "wikilink") 「What's the answer?」『Party3』のジャケットのイラストを手がけた。
+  - [わたせせいぞう](../Page/わたせせいぞう.md "wikilink") 「What's the answer?」『Party3』のジャケットのイラストを手がけた。
 
 ## 外部リンク
 

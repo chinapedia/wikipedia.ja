@@ -58,7 +58,7 @@
   - **白井進一** (ドラム) 元SUPERSTITION。
   - **滝沢貴幸** (ボーカル、ベース) その後[REDに参加](../Page/RED_\(日本のロックバンド\).md "wikilink")。
   - **武田秀敏** (ギター) 元LEO、その後REDに参加。
-  - **[湊雅史](https://ja.wikipedia.org/wiki/湊雅史 "wikilink")** (ドラム) その後RED、T.N.T、[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")、RAEL、60/40、Optical 8、FORE、13oz、Aに参加。
+  - **[湊雅史](../Page/湊雅史.md "wikilink")** (ドラム) その後RED、T.N.T、[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")、RAEL、60/40、Optical 8、FORE、13oz、Aに参加。
   - **礒田良雄** (ドラム) 元HARD GEAR、その後SIXRIDE、[DOUBLE DEALERに参加](../Page/DOUBLE_DEALER.md "wikilink")。
   - **山口洋徹** (ボーカル) 元SHRIEVE。
   - **茂木憲** (ベース) 元DUSTY STARDUST。
@@ -75,15 +75,15 @@
   - **竹内聡** (ベース) 元DIALL、HARD GEAR、その後SIXRIDEに参加。
   - **鈴木勝人** (ボーカル)
   - **弓田秀明** (ドラム) その後[LIGHT BRINGERに参加](https://ja.wikipedia.org/wiki/LIGHT_BRINGER "wikilink")。
-  - **[鈴木政行](https://ja.wikipedia.org/wiki/鈴木政行 "wikilink")** (ドラム) 元NEGAROBO、HARD GEAR、GALATEA、RDX、その後[LOUDNESS](https://ja.wikipedia.org/wiki/LOUDNESS "wikilink")に参加。
+  - **[鈴木政行](https://ja.wikipedia.org/wiki/鈴木政行 "wikilink")** (ドラム) 元NEGAROBO、HARD GEAR、GALATEA、RDX、その後[LOUDNESS](../Page/LOUDNESS.md "wikilink")に参加。
   - **叫** (ボーカル) 元DIALL、HAKENKREUZ、GRUDGE/CURSE。
   - **木本高伸** (ベース) 元PRECIOUS、CONCERTO MOON、DOUBLE DEALER。
 
 ### レコーディングのみ参加したミュージシャン
 
   - **RON KEEL** (ボーカル)　現KEEL
-  - **[柴田直人](../Page/柴田直人.md "wikilink")** (ベース)　現[ANTHEM](https://ja.wikipedia.org/wiki/ANTHEM "wikilink")
-  - **[本間大嗣](../Page/本間大嗣.md "wikilink")** (ドラム)　元[FLATBACKER](https://ja.wikipedia.org/wiki/FLATBACKER "wikilink")(E･Z･O)、[LOUDNESS](https://ja.wikipedia.org/wiki/LOUDNESS "wikilink")、[ANTHEM](https://ja.wikipedia.org/wiki/ANTHEM "wikilink")
+  - **[柴田直人](../Page/柴田直人.md "wikilink")** (ベース)　現[ANTHEM](../Page/ANTHEM.md "wikilink")
+  - **[本間大嗣](../Page/本間大嗣.md "wikilink")** (ドラム)　元[FLATBACKER](../Page/FLATBACKER.md "wikilink")(E･Z･O)、[LOUDNESS](../Page/LOUDNESS.md "wikilink")、[ANTHEM](../Page/ANTHEM.md "wikilink")
 
 ### 変遷
 

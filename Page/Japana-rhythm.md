@@ -1,11 +1,11 @@
 > この記事は[Japana-rhythm](https://ja.wikipedia.org/wiki/Japana-rhythm)から翻訳されています。
 
 
-『**Japana-rhythm**』（ジャパナリズム）は、[BENNIE Kの](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")4枚目のオリジナルアルバム。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月9日](../Page/11月9日.md "wikilink")発売。
+『**Japana-rhythm**』（ジャパナリズム）は、[BENNIE Kの](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")4枚目のオリジナルアルバム。[2005年](../Page/2005年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")発売。
 
 ## 概要
 
-3枚目のアルバム『[Synchronicity](https://ja.wikipedia.org/wiki/Synchronicity_\(BENNIE_Kのアルバム\) "wikilink")』から1年ぶりにリリースされ、ヒットシングル「[Dreamland](https://ja.wikipedia.org/wiki/Dreamland_\(BENNIE_Kの曲\) "wikilink")」、「[Sky](https://ja.wikipedia.org/wiki/Sky_\(BENNIE_Kの曲\) "wikilink")」を収録。日本の四季をコンセプトにしたアルバムとなっている。BENNIE Kにとって初の[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得したアルバムでもある。
+3枚目のアルバム『[Synchronicity](../Page/Synchronicity_\(BENNIE_Kのアルバム\).md "wikilink")』から1年ぶりにリリースされ、ヒットシングル「[Dreamland](../Page/Dreamland_\(BENNIE_Kの曲\).md "wikilink")」、「[Sky](../Page/Sky_\(BENNIE_Kの曲\).md "wikilink")」を収録。日本の四季をコンセプトにしたアルバムとなっている。BENNIE Kにとって初の[オリコン初登場](../Page/オリコンチャート.md "wikilink")1位を獲得したアルバムでもある。
 
 ## 収録曲
 

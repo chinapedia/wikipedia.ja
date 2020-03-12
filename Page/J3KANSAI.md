@@ -7,26 +7,26 @@
 
 ## 出演者
 
-内、丸山、安田の3人は当初[V.WEST](https://ja.wikipedia.org/wiki/V.WEST "wikilink")のメンバーとして出演していたが\[1\]、2002年12月に大倉が加入し\[2\]、「関ジャニ8」とグループ名が付けられ\[3\]、後の関ジャニ∞が結成された。
+内、丸山、安田の3人は当初[V.WEST](../Page/V.WEST.md "wikilink")のメンバーとして出演していたが\[1\]、2002年12月に大倉が加入し\[2\]、「関ジャニ8」とグループ名が付けられ\[3\]、後の関ジャニ∞が結成された。
 
   - MC
-      - [村上信五](https://ja.wikipedia.org/wiki/村上信五 "wikilink")
-      - [横山裕](https://ja.wikipedia.org/wiki/横山裕 "wikilink")
+      - [村上信五](../Page/村上信五.md "wikilink")
+      - [横山裕](../Page/横山裕.md "wikilink")
       - [杉本なつみ](https://ja.wikipedia.org/wiki/杉本なつみ "wikilink")（関西テレビ放送アナウンサー）
   - 他出演者
       - [渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")
-      - [錦戸亮](https://ja.wikipedia.org/wiki/錦戸亮 "wikilink")
-      - [内博貴](https://ja.wikipedia.org/wiki/内博貴 "wikilink")
-      - [丸山隆平](https://ja.wikipedia.org/wiki/丸山隆平 "wikilink")
-      - [安田章大](https://ja.wikipedia.org/wiki/安田章大 "wikilink")
-      - [大倉忠義](https://ja.wikipedia.org/wiki/大倉忠義 "wikilink")（2002年12月より加入\[4\]）
+      - [錦戸亮](../Page/錦戸亮.md "wikilink")
+      - [内博貴](../Page/内博貴.md "wikilink")
+      - [丸山隆平](../Page/丸山隆平.md "wikilink")
+      - [安田章大](../Page/安田章大.md "wikilink")
+      - [大倉忠義](../Page/大倉忠義.md "wikilink")（2002年12月より加入\[4\]）
 
 ## コーナー
 
   - ふね部
     世界中の様々な[船](https://ja.wikipedia.org/wiki/船 "wikilink")に乗ろうということでスタートしたが、後述のビーチボールバレー部が出来たことで4回で終了した。第3回目から実施。渋谷すばるが「ふね部」の残党として、最後の最後までふね部員としてのこだわりを貫こうと、事あるごとに「ふね部」を連呼した。
   - ビーチボールバレー部
-    [ビーチボール](https://ja.wikipedia.org/wiki/ビーチボール "wikilink")を使って[バレーをする](https://ja.wikipedia.org/wiki/バレーボール "wikilink")[ビーチボールバレー](https://ja.wikipedia.org/wiki/ビーチボールバレー "wikilink")（≠[ビーチバレー](../Page/ビーチバレー.md "wikilink")）で全国制覇を目指す部活。第8回目から実施。この企画は、後継番組の『[ほんじゃに\!](https://ja.wikipedia.org/wiki/ほんじゃに! "wikilink")』へと引き継がれた。
+    [ビーチボール](https://ja.wikipedia.org/wiki/ビーチボール "wikilink")を使って[バレーをする](../Page/バレーボール.md "wikilink")[ビーチボールバレー](https://ja.wikipedia.org/wiki/ビーチボールバレー "wikilink")（≠[ビーチバレー](../Page/ビーチバレー.md "wikilink")）で全国制覇を目指す部活。第8回目から実施。この企画は、後継番組の『[ほんじゃに\!](../Page/ほんじゃに!.md "wikilink")』へと引き継がれた。
 
 ## 放送局
 

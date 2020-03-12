@@ -1,12 +1,12 @@
 > この記事は[LOVE](https://ja.wikipedia.org/wiki/LOVE)から翻訳されています。
 
 
-「**LOVEのテーマ**」（ラブのテーマ）は、[LOVEのデビューシングル](https://ja.wikipedia.org/wiki/LOVE_\(大塚愛\) "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月11日](../Page/4月11日.md "wikilink")に[LOCOMUSICよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**LOVEのテーマ**」（ラブのテーマ）は、[LOVEのデビューシングル](../Page/LOVE_\(大塚愛\).md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")に[LOCOMUSICよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
   - 作詞・作曲・編曲はいずれも「LOVE」とクレジットされている。なお、この曲の実際の作詞作曲者は[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")であり、発表以前にライブでBGMとして使用されている。
-  - なお、[スペースシャワーで](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")[PVが初めてオンエアされた際には](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、『I can CHU♥』と言う別タイトルがあった。これは、もともとこのタイトルで制作されていたが、LOVEのデビューシングルとして発表するためにタイトルを変更したものと思われる。
+  - なお、[スペースシャワーで](../Page/スペースシャワーTV.md "wikilink")[PVが初めてオンエアされた際には](../Page/ミュージック・ビデオ.md "wikilink")、『I can CHU♥』と言う別タイトルがあった。これは、もともとこのタイトルで制作されていたが、LOVEのデビューシングルとして発表するためにタイトルを変更したものと思われる。
 
 ## 収録曲
 

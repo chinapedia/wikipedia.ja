@@ -1,7 +1,7 @@
 > この記事は[GS](https://ja.wikipedia.org/wiki/GS)から翻訳されています。
 
 
-**株式会社GSユアサエナジー**（*GS Yuasa Energy Co.,Ltd.*）は、自動車用[鉛蓄電池](../Page/鉛蓄電池.md "wikilink")のメーカー。[ジーエス・ユアサコーポレーション](https://ja.wikipedia.org/wiki/ジーエス・ユアサコーポレーション "wikilink")傘下のGSユアサの子会社。
+**株式会社GSユアサエナジー**（*GS Yuasa Energy Co.,Ltd.*）は、自動車用[鉛蓄電池](../Page/鉛蓄電池.md "wikilink")のメーカー。[ジーエス・ユアサコーポレーション](../Page/ジーエス・ユアサコーポレーション.md "wikilink")傘下のGSユアサの子会社。
 
 旧社名は**パナソニック ストレージバッテリー株式会社**（*Panasonic Storage Battery Co., Ltd.* ）。松下電池工業（現 [パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")株式会社）の同事業を元に独立した。パナソニック37事業部のひとつであった。
 
@@ -22,13 +22,13 @@
   - [1967年](../Page/1967年.md "wikilink")（昭和42年） - 小形[シール鉛蓄電池](https://ja.wikipedia.org/wiki/シール鉛蓄電池 "wikilink")を開発。
   - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年） - ナショナルタイ株式会社に蓄電池工場を開設。
   - [1975年](../Page/1975年.md "wikilink")（昭和50年） - 蓄電池事業部が[浜名湖](../Page/浜名湖.md "wikilink")工場を竣工。
-  - [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")（昭和51年） - 日本初の[カルシウムバッテリー](https://ja.wikipedia.org/wiki/カルシウムバッテリー "wikilink")を発売。
+  - [1976年](../Page/1976年.md "wikilink")（昭和51年） - 日本初の[カルシウムバッテリー](https://ja.wikipedia.org/wiki/カルシウムバッテリー "wikilink")を発売。
   - [1979年](../Page/1979年.md "wikilink")（昭和54年） - 松下電器産業の電池事業を元に、松下電池工業株式会社を設立。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年） - 日本初の[制御弁式バッテリー](https://ja.wikipedia.org/wiki/制御弁式バッテリー "wikilink")を発売。
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年） - 自動車用蓄電池の累計生産数が3千万個に達した。
   - [1996年](../Page/1996年.md "wikilink")（平成8年） - ナショナル[タイ株式会社の電池事業を元に](../Page/タイ王国.md "wikilink")、タイ松下バッテリー株式会社を設立。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年） - [瀋陽松下蓄電池有限公司がシール形鉛蓄電池の本格生産を開始](../Page/瀋陽市.md "wikilink")。浜名湖工場で自動車用電池の累計生産数が一億個に達した。
-  - [2003年](../Page/2003年.md "wikilink")（平成15年） - 松下電池工業と[新神戸電機](https://ja.wikipedia.org/wiki/新神戸電機 "wikilink")が鉛蓄電池事業分野の業務提携で合意。EV電池を事業化。
+  - [2003年](../Page/2003年.md "wikilink")（平成15年） - 松下電池工業と[新神戸電機](../Page/新神戸電機.md "wikilink")が鉛蓄電池事業分野の業務提携で合意。EV電池を事業化。
   - [2004年](../Page/2004年.md "wikilink")（平成16年） - 松下電池工業の鉛蓄電池事業を元に、パナソニック ストレージバッテリー株式会社を設立。
   - [2011年](../Page/2011年.md "wikilink")（平成23年） - [出光興産](https://ja.wikipedia.org/wiki/出光興産 "wikilink")創業100周年記念バッテリー“[ZAXIA](https://ja.wikipedia.org/wiki/ZAXIA "wikilink")”を発売。(“CAOS”の兄弟モデルで出光ブランド。)
   - [2016年](../Page/2016年.md "wikilink")（平成28年） - パナソニックが株式の85.1%をGSユアサに売却、現商号に変更。

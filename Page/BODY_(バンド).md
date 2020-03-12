@@ -5,7 +5,7 @@
 
 ## 概要
 
-[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の解散後、動向が期待されていた瀧川一郎（CIPHER）と、同じくD'ERLANGERのメンバーで当時[ZI:KILL](https://ja.wikipedia.org/wiki/ZI:KILL "wikilink")を脱退した直後の菊地哲（Tetsu）の2人により1992年夏に結成。幾度かのヴォーカルの交代を経て、1994年にメジャーでの活動を開始するが、実質デビュー後たった1回の武道館ライブ、1枚のオリジナルアルバム（解散後に武道館公演のライヴアルバムとリミックスアルバムを各1枚ずつリリース）、1枚のシングルを発表したのみで短期間の内に解散したバンド。短期間での解散理由には諸説あるが、アルバムリリース時に音楽雑誌『[GiGS](https://ja.wikipedia.org/wiki/GiGS "wikilink")』には「音のバランスが悪く（ギターとドラムスの音が異常に大きいことは音楽誌『バンドやろうぜ』でも指摘されている）、レコーディングでのメンバー間の葛藤が感じられる」と、仲違い、あるいはメンバー間の力関係等の暗示する記事が掲載されている。
+[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の解散後、動向が期待されていた瀧川一郎（CIPHER）と、同じくD'ERLANGERのメンバーで当時[ZI:KILL](../Page/ZI:KILL.md "wikilink")を脱退した直後の菊地哲（Tetsu）の2人により1992年夏に結成。幾度かのヴォーカルの交代を経て、1994年にメジャーでの活動を開始するが、実質デビュー後たった1回の武道館ライブ、1枚のオリジナルアルバム（解散後に武道館公演のライヴアルバムとリミックスアルバムを各1枚ずつリリース）、1枚のシングルを発表したのみで短期間の内に解散したバンド。短期間での解散理由には諸説あるが、アルバムリリース時に音楽雑誌『[GiGS](https://ja.wikipedia.org/wiki/GiGS "wikilink")』には「音のバランスが悪く（ギターとドラムスの音が異常に大きいことは音楽誌『バンドやろうぜ』でも指摘されている）、レコーディングでのメンバー間の葛藤が感じられる」と、仲違い、あるいはメンバー間の力関係等の暗示する記事が掲載されている。
 
 アルバム収録曲の「HERESY」は瀧川がD'ERLANGERのアマチュア時代に制作した楽曲である。また唯一のシングル表題曲「I LOVE YOU」とアルバム収録の「MY SELF」は、瀧川・菊地が後に結成したバンド[CRAZE](../Page/CRAZE.md "wikilink")のライブでも度々演奏されており、CRAZEとしてリリースもされた。
 
@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - **[瀧川一郎](https://ja.wikipedia.org/wiki/瀧川一郎 "wikilink")** ： ギター
+  - **[瀧川一郎](../Page/瀧川一郎.md "wikilink")** ： ギター
 
 <!-- end list -->
 
@@ -34,16 +34,16 @@
 <!-- end list -->
 
   -
-    MAGIER SEXALIS→[DEEP'S](https://ja.wikipedia.org/wiki/DEEP'S "wikilink")→BODY→THE LOVEROCK VIOLENT
+    MAGIER SEXALIS→[DEEP'S](../Page/DEEP'S.md "wikilink")→BODY→THE LOVEROCK VIOLENT
 
 <!-- end list -->
 
-  - **[菊地哲](https://ja.wikipedia.org/wiki/菊地哲 "wikilink")** ： ドラムス
+  - **[菊地哲](../Page/菊地哲.md "wikilink")** ： ドラムス
 
 <!-- end list -->
 
   -
-    D'ERLANGER（TETSU）→[ZI:KILL](https://ja.wikipedia.org/wiki/ZI:KILL "wikilink")（TETSU）→BODY→CRAZE→D'ERLANGER（Tetsu）
+    D'ERLANGER（TETSU）→[ZI:KILL](../Page/ZI:KILL.md "wikilink")（TETSU）→BODY→CRAZE→D'ERLANGER（Tetsu）
 
 ## ディスコグラフィ
 
@@ -88,7 +88,7 @@
 <!-- end list -->
 
   -
-    1994年5月14日[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")ライヴを収録。
+    1994年5月14日[日本武道館](../Page/日本武道館.md "wikilink")ライヴを収録。
 
 <!-- end list -->
 
@@ -128,7 +128,7 @@
 <!-- end list -->
 
   -
-    [プロモーション・ビデオ集](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。22分。
+    [プロモーション・ビデオ集](../Page/ミュージック・ビデオ.md "wikilink")。22分。
 
 <!-- end list -->
 
@@ -144,7 +144,7 @@
 <!-- end list -->
 
   -
-    1994年5月14日[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")ライヴを収録。50分。
+    1994年5月14日[日本武道館](../Page/日本武道館.md "wikilink")ライヴを収録。50分。
 
 <!-- end list -->
 
@@ -166,7 +166,7 @@
 ## 関連項目
 
   - [D'ERLANGER](../Page/D'ERLANGER.md "wikilink")
-  - [ZI:KILL](https://ja.wikipedia.org/wiki/ZI:KILL "wikilink")
+  - [ZI:KILL](../Page/ZI:KILL.md "wikilink")
   - [CRAZE](../Page/CRAZE.md "wikilink")
   - [REACTION](https://ja.wikipedia.org/wiki/REACTION_\(バンド\) "wikilink")
 

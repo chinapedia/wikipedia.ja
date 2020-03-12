@@ -10,15 +10,15 @@
 
 ## メンバー
 
-  - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")：[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")・[プロデュース](../Page/音楽プロデューサー.md "wikilink")
+  - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・[プロデュース](../Page/音楽プロデューサー.md "wikilink")
   - [宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")
-  - [木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")：[ギター](../Page/ギター.md "wikilink")・[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - [木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")：[ギター](../Page/ギター.md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
 
 ## サポートメンバー
 
-  - [葛城哲哉](https://ja.wikipedia.org/wiki/葛城哲哉 "wikilink")：[ギター](../Page/ギター.md "wikilink")
-  - [山田亘](https://ja.wikipedia.org/wiki/山田亘 "wikilink")：[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
-  - [春山信吾](https://ja.wikipedia.org/wiki/春山信吾 "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [葛城哲哉](../Page/葛城哲哉.md "wikilink")：[ギター](../Page/ギター.md "wikilink")
+  - [山田亘](../Page/山田亘.md "wikilink")：[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
+  - [春山信吾](https://ja.wikipedia.org/wiki/春山信吾 "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 ## 公演日程・場所
 

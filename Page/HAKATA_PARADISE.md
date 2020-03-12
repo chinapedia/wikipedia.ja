@@ -1,17 +1,17 @@
 > この記事は[HAKATA PARADISE](https://ja.wikipedia.org/wiki/HAKATA_PARADISE)から翻訳されています。
 
 
-**HAKATA PARADISE**（ハカタ・パラダイス）は[CROSS FMで放送されたラジオ番組](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")。 放送期間は[1999年](../Page/1999年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")-[2001年](../Page/2001年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")、放送時間は毎週[月曜日](../Page/月曜日.md "wikilink")〜[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")13:00〜17:00、博多駅GIGAスタジオから生放送された。
+**HAKATA PARADISE**（ハカタ・パラダイス）は[CROSS FMで放送されたラジオ番組](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")。 放送期間は[1999年](../Page/1999年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")-[2001年](../Page/2001年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")、放送時間は毎週[月曜日](../Page/月曜日.md "wikilink")〜[木曜日](../Page/木曜日.md "wikilink")13:00〜17:00、博多駅GIGAスタジオから生放送された。
 
 ## 概要
 
-  - 「[ビートルズ](https://ja.wikipedia.org/wiki/ビートルズ "wikilink")から[ローリン・ヒル](https://ja.wikipedia.org/wiki/ローリン・ヒル "wikilink")まで」をキャッチコピーに、60年代から90年代のヒット曲に[博多](../Page/博多.md "wikilink")の情報を乗せて放送するコンセプトでスタートした。
+  - 「[ビートルズ](../Page/ビートルズ.md "wikilink")から[ローリン・ヒル](../Page/ローリン・ヒル.md "wikilink")まで」をキャッチコピーに、60年代から90年代のヒット曲に[博多](../Page/博多.md "wikilink")の情報を乗せて放送するコンセプトでスタートした。
   - 愛称は「**ハカパラ**」。
   - 岡部はち郎の「ランチタイムの後は[博多駅](https://ja.wikipedia.org/wiki/博多駅 "wikilink")からお送りしましょう、**CROSS FMのお昼はHAKATA PARADISE**。」のフレーズでスタート、最後は2人で「ピース」と言って番組を締めていた。
 
 ## ナビゲーター
 
-  - [岡部はち郎](https://ja.wikipedia.org/wiki/岡部はち郎 "wikilink")
+  - [岡部はち郎](../Page/岡部はち郎.md "wikilink")
 
 <!-- end list -->
 
@@ -25,16 +25,16 @@
 <!-- end list -->
 
   -
-    前番組「[SHAKE HIP GROOVIN'](https://ja.wikipedia.org/wiki/SHAKE_HIP_GROOVIN' "wikilink")」から引き続き番組を担当。番組開始から[2000年](../Page/2000年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで担当した。
+    前番組「[SHAKE HIP GROOVIN'](../Page/SHAKE_HIP_GROOVIN'.md "wikilink")」から引き続き番組を担当。番組開始から[2000年](../Page/2000年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで担当した。
 
 <!-- end list -->
 
-  - [相越久枝](https://ja.wikipedia.org/wiki/相越久枝 "wikilink")
+  - [相越久枝](../Page/相越久枝.md "wikilink")
 
 <!-- end list -->
 
   -
-    2000年秋の番組改編で武田直子が「[CROSS FINE MODE](https://ja.wikipedia.org/wiki/CROSS_FINE_MODE "wikilink")」のナビゲーターになったため、後任として2000年[10月2日](../Page/10月2日.md "wikilink")より登場。番組終了まで務めた。
+    2000年秋の番組改編で武田直子が「[CROSS FINE MODE](../Page/CROSS_FINE_MODE.md "wikilink")」のナビゲーターになったため、後任として2000年[10月2日](../Page/10月2日.md "wikilink")より登場。番組終了まで務めた。
 
 ## 主なコーナー
 
@@ -45,8 +45,8 @@
   -
     スポンサーは[タイ国政府観光庁とホテル](../Page/タイ王国.md "wikilink")・リッツファイブ（[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")）。
     タイ国の観光スポットや、観光に関する情報を紹介するコーナー。タイ国政府観光庁の担当者などが出演してタイの魅力を紹介した。
-    このコーナーは月曜日-金曜日を通じて放送され、[金曜日](../Page/金曜日.md "wikilink")は「[RADIO SONIC](../Page/RADIO_SONIC.md "wikilink")」「[CROSS GO\!GO\! FRID@Y](../Page/CROSS_GO!GO!_FRID@Y.md "wikilink")」「[RADIO MUSCLE](https://ja.wikipedia.org/wiki/RADIO_MUSCLE "wikilink")」内で放送された。
-    2001年4月からは後番組「[CROSS DAYTIME MIX](https://ja.wikipedia.org/wiki/CROSS_DAYTIME_MIX "wikilink")」に引き継がれた。
+    このコーナーは月曜日-金曜日を通じて放送され、[金曜日](../Page/金曜日.md "wikilink")は「[RADIO SONIC](../Page/RADIO_SONIC.md "wikilink")」「[CROSS GO\!GO\! FRID@Y](../Page/CROSS_GO!GO!_FRID@Y.md "wikilink")」「[RADIO MUSCLE](../Page/RADIO_MUSCLE.md "wikilink")」内で放送された。
+    2001年4月からは後番組「[CROSS DAYTIME MIX](../Page/CROSS_DAYTIME_MIX.md "wikilink")」に引き継がれた。
 
 <!-- end list -->
 
@@ -65,8 +65,8 @@
 
   -
     スポンサーである[JR九州から届く旅の情報](../Page/九州旅客鉄道.md "wikilink")、列車の情報を紹介した。
-    このコーナーは月曜日-金曜日を通じて放送され、[金曜日](../Page/金曜日.md "wikilink")は「[RADIO SONIC](../Page/RADIO_SONIC.md "wikilink")」「[CROSS GO\!GO\! FRID@Y](../Page/CROSS_GO!GO!_FRID@Y.md "wikilink")」「[RADIO MUSCLE](https://ja.wikipedia.org/wiki/RADIO_MUSCLE "wikilink")」内で放送された。
-    2001年4月からは後番組「[CROSS DAYTIME MIX](https://ja.wikipedia.org/wiki/CROSS_DAYTIME_MIX "wikilink")」に引き継がれた。
+    このコーナーは月曜日-金曜日を通じて放送され、[金曜日](../Page/金曜日.md "wikilink")は「[RADIO SONIC](../Page/RADIO_SONIC.md "wikilink")」「[CROSS GO\!GO\! FRID@Y](../Page/CROSS_GO!GO!_FRID@Y.md "wikilink")」「[RADIO MUSCLE](../Page/RADIO_MUSCLE.md "wikilink")」内で放送された。
+    2001年4月からは後番組「[CROSS DAYTIME MIX](../Page/CROSS_DAYTIME_MIX.md "wikilink")」に引き継がれた。
 
 <!-- end list -->
 
@@ -76,8 +76,8 @@
 
   -
     スポンサーである[西日本新聞](../Page/西日本新聞.md "wikilink")に掲載された記事、トピックスを紹介した。
-    このコーナーは月曜日-金曜日を通じて放送され、[金曜日](../Page/金曜日.md "wikilink")は「[RADIO SONIC](../Page/RADIO_SONIC.md "wikilink")」で「CAFE SONIC」、「[CROSS GO\!GO\! FRID@Y](../Page/CROSS_GO!GO!_FRID@Y.md "wikilink")」「[RADIO MUSCLE](https://ja.wikipedia.org/wiki/RADIO_MUSCLE "wikilink")」内で「FRIDAY CAFE」というタイトルで放送された。
-    2001年4月からは後番組「[CROSS DAYTIME MIX](https://ja.wikipedia.org/wiki/CROSS_DAYTIME_MIX "wikilink")」に引き継がれ「NEWS PAPER BOX」というタイトルに改められた。
+    このコーナーは月曜日-金曜日を通じて放送され、[金曜日](../Page/金曜日.md "wikilink")は「[RADIO SONIC](../Page/RADIO_SONIC.md "wikilink")」で「CAFE SONIC」、「[CROSS GO\!GO\! FRID@Y](../Page/CROSS_GO!GO!_FRID@Y.md "wikilink")」「[RADIO MUSCLE](../Page/RADIO_MUSCLE.md "wikilink")」内で「FRIDAY CAFE」というタイトルで放送された。
+    2001年4月からは後番組「[CROSS DAYTIME MIX](../Page/CROSS_DAYTIME_MIX.md "wikilink")」に引き継がれ「NEWS PAPER BOX」というタイトルに改められた。
 
 <!-- end list -->
 
@@ -87,7 +87,7 @@
 
   -
     スポンサーである博多駅地下街、マイング博多駅名店街、食堂街1番街の情報を紹介した
-    2001年4月からは後番組「[CROSS DAYTIME MIX](https://ja.wikipedia.org/wiki/CROSS_DAYTIME_MIX "wikilink")」に引き継がれ「HAKATA STATION BOX」というタイトルに改められた。
+    2001年4月からは後番組「[CROSS DAYTIME MIX](../Page/CROSS_DAYTIME_MIX.md "wikilink")」に引き継がれ「HAKATA STATION BOX」というタイトルに改められた。
 
 ## エピソードなど
 

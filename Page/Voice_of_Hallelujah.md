@@ -1,13 +1,13 @@
 > この記事は[Voice of Hallelujah](https://ja.wikipedia.org/wiki/Voice_of_Hallelujah)から翻訳されています。
 
 
-『**Voice of Hallelujah**』は、1995年10月25日に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")からリリースされた、[奥井亜紀](../Page/奥井亜紀.md "wikilink")のサードアルバム。
+『**Voice of Hallelujah**』は、1995年10月25日に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")からリリースされた、[奥井亜紀](../Page/奥井亜紀.md "wikilink")のサードアルバム。
 
 ## 解説
 
   - テレビアニメーション『[魔法陣グルグル](https://ja.wikipedia.org/wiki/魔法陣グルグル_\(1994年のアニメ\) "wikilink")』のエンディングテーマ「Wind Climbing〜風にあそばれて〜」に続くヒットとなった「晴れてハレルヤ」の「ハレルヤ」と「歌声」を合わせたタイトルとなっている。
   - 「晴れてハレルヤ」はアルバム・バージョンで収録されている。
-  - 前回のアルバムよりわずか7ヶ月という短さでリリースされたため、[大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")から「わずか1年の間に2枚もアルバムなんか作ってどうするんだ！」とお叱り（実際には、「実力はあるんだから、もうちょっと作り込めば、よりよいアルバムが作れるだろう？」という大村雅朗なりの励ましだったと、後に奥井亜紀は語る）を受けた。\[1\]
+  - 前回のアルバムよりわずか7ヶ月という短さでリリースされたため、[大村雅朗](../Page/大村雅朗.md "wikilink")から「わずか1年の間に2枚もアルバムなんか作ってどうするんだ！」とお叱り（実際には、「実力はあるんだから、もうちょっと作り込めば、よりよいアルバムが作れるだろう？」という大村雅朗なりの励ましだったと、後に奥井亜紀は語る）を受けた。\[1\]
   - 歌詞カードの最後のページには、奥井亜紀直筆のメッセージと写真が掲載されている。
   - 現在では生産中止になっているため、入手するのが困難な作品である。
 
@@ -51,9 +51,9 @@
 ## 参加ミュージシャン
 
   - [小野寺明敏](https://ja.wikipedia.org/wiki/小野寺明敏 "wikilink")
-  - [大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+  - [大村雅朗](../Page/大村雅朗.md "wikilink")
   - [西東レモン](https://ja.wikipedia.org/wiki/西東レモン "wikilink")
-  - [大島ミチル](https://ja.wikipedia.org/wiki/大島ミチル "wikilink")
+  - [大島ミチル](../Page/大島ミチル.md "wikilink")
   - [田村誠](https://ja.wikipedia.org/wiki/田村誠 "wikilink")
 
 ## 脚注

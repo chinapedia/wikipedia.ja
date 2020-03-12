@@ -5,9 +5,9 @@
 
 ## 経歴
 
-L.A.スタイル は、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")にリリースされた曲 によって、[ビルボード](../Page/ビルボード.md "wikilink")の[:en:Hot 100 Airplayチャートへ入り](https://ja.wikipedia.org/wiki/:en:Hot_100_Airplay "wikilink")、短い期間の成功を得た。この種のエレクトロニック・ダンス・ミュージック（というよりもレイブ[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")）に当てはまる曲としては、最初にビルボード・ポップチャートへ入った事となる。
+L.A.スタイル は、[1991年](../Page/1991年.md "wikilink")にリリースされた曲 によって、[ビルボード](../Page/ビルボード.md "wikilink")の[:en:Hot 100 Airplayチャートへ入り](https://ja.wikipedia.org/wiki/:en:Hot_100_Airplay "wikilink")、短い期間の成功を得た。この種のエレクトロニック・ダンス・ミュージック（というよりもレイブ[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")）に当てはまる曲としては、最初にビルボード・ポップチャートへ入った事となる。
 
-彼らは、シングル曲の他に、セルフタイトルのアルバムもリリースした。海外の[ディスコ](https://ja.wikipedia.org/wiki/ディスコ "wikilink")などでプレイされて成功したにも関わらず、短いブームは過ぎ去り、L.A.スタイルは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に活動休止(事実上解散)した。
+彼らは、シングル曲の他に、セルフタイトルのアルバムもリリースした。海外の[ディスコ](../Page/ディスコ.md "wikilink")などでプレイされて成功したにも関わらず、短いブームは過ぎ去り、L.A.スタイルは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に活動休止(事実上解散)した。
 
 ## ディスコグラフィ
 
@@ -31,8 +31,8 @@ L.A.スタイル は、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink
 
 ## 関連項目
 
-  - [安生洋二](https://ja.wikipedia.org/wiki/安生洋二 "wikilink") - [UWFインターナショナル](https://ja.wikipedia.org/wiki/UWFインターナショナル "wikilink")・[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")対抗戦以降[ハッスル旗揚げまでの間](https://ja.wikipedia.org/wiki/ハッスル_\(プロレス\) "wikilink")、入場テーマ曲として James Brown Is Dead を使用
-  - [荒木師匠](https://ja.wikipedia.org/wiki/荒木久美子 "wikilink") - テレビ番組出演時の登場テーマ曲として James Brown Is Dead を多用
+  - [安生洋二](../Page/安生洋二.md "wikilink") - [UWFインターナショナル](../Page/UWFインターナショナル.md "wikilink")・[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")対抗戦以降[ハッスル旗揚げまでの間](https://ja.wikipedia.org/wiki/ハッスル_\(プロレス\) "wikilink")、入場テーマ曲として James Brown Is Dead を使用
+  - [荒木師匠](../Page/荒木久美子.md "wikilink") - テレビ番組出演時の登場テーマ曲として James Brown Is Dead を多用
 
 ## 脚注
 
@@ -48,4 +48,4 @@ L.A.スタイル は、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink
 
 [Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink") [Category:オランダの音楽グループ](https://ja.wikipedia.org/wiki/Category:オランダの音楽グループ "wikilink") [Category:ディスコ](https://ja.wikipedia.org/wiki/Category:ディスコ "wikilink")
 
-1.  [エイベックス](https://ja.wikipedia.org/wiki/エイベックス "wikilink")から発売された[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink") [スーパー・クラブ・グルーヴィン vol.4に収録](https://ja.wikipedia.org/wiki/SUPER_DANCE_FREAK "wikilink")。
+1.  [エイベックス](https://ja.wikipedia.org/wiki/エイベックス "wikilink")から発売された[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink") [スーパー・クラブ・グルーヴィン vol.4に収録](https://ja.wikipedia.org/wiki/SUPER_DANCE_FREAK "wikilink")。

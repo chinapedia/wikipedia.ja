@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - 1997年発売の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[Straw Color〜Single Collection\&More〜](../Page/Straw_Color〜Single_Collection&More〜.md "wikilink")』からおよそ6年ぶりとなるアルバムである。
+  - 1997年発売の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Straw Color〜Single Collection\&More〜](../Page/Straw_Color〜Single_Collection&More〜.md "wikilink")』からおよそ6年ぶりとなるアルバムである。
   - メジャーよりフィールドを変更し、インディーズレーベルのインフィニティレコードから発売された。発売後まもなくして、3Dシステム（現：[SPACE SHOWER MUSIC](https://ja.wikipedia.org/wiki/SPACE_SHOWER_MUSIC "wikilink")）が資本に入ったため品番を変えて再発売した。
   - アルバムのタイトル『DENIMUM』は、"DENIM"と"MAXIMUM・MINIMUM"を組み合わせた造語で、『等身大の自分らしいサイズ』という意味である。（リイシュー盤の帯に明記されている）
   - 2007年現在まで事実上廃盤による入手困難な状態だったが、2007年8月29日にLIVEMASTER RECORDSよりリイシューとして再リリースされた。なお、その際サンクストラック（いわゆるボーナストラック）として、シングル「うつくしもの」が追加収録された。

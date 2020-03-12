@@ -1,7 +1,7 @@
 > この記事は[Straw ColorSingle Collection\&More](https://ja.wikipedia.org/wiki/Straw_ColorSingle_Collection\&More)から翻訳されています。
 
 
-『**Straw Color〜Single Collection\&More〜**』は、1997年9月25日に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")からリリースされた、[奥井亜紀](../Page/奥井亜紀.md "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**Straw Color〜Single Collection\&More〜**』は、1997年9月25日に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")からリリースされた、[奥井亜紀](../Page/奥井亜紀.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -42,7 +42,7 @@
 
   - [菅野よう子](../Page/菅野よう子.md "wikilink")
   - [小野寺明敏](https://ja.wikipedia.org/wiki/小野寺明敏 "wikilink")
-  - [大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+  - [大村雅朗](../Page/大村雅朗.md "wikilink")
   - [西東レモン](https://ja.wikipedia.org/wiki/西東レモン "wikilink")
 
 [Category:1997年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1997年のベスト・アルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:奥井亜紀のアルバム](https://ja.wikipedia.org/wiki/Category:奥井亜紀のアルバム "wikilink")

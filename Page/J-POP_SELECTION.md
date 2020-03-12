@@ -1,7 +1,7 @@
 > この記事は[J-POP SELECTION](https://ja.wikipedia.org/wiki/J-POP_SELECTION)から翻訳されています。
 
 
-**J-POP SELECTION**（ジェイポップ・セレクション）は[FM Yokohama 84.7で放送されていた](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")、[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")要素が強い音楽番組である。ここでは似た形式で放送されている、26時台～28時台の音楽番組についても述べる。なお、オンエアリストは、ホームページの曲目検索でチェックできる（外部リンクの項目を参照）。
+**J-POP SELECTION**（ジェイポップ・セレクション）は[FM Yokohama 84.7で放送されていた](../Page/横浜エフエム放送.md "wikilink")、[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")要素が強い音楽番組である。ここでは似た形式で放送されている、26時台～28時台の音楽番組についても述べる。なお、オンエアリストは、ホームページの曲目検索でチェックできる（外部リンクの項目を参照）。
 
 ## 現在放送中の番組群
 
@@ -52,7 +52,7 @@
 <!-- end list -->
 
   -
-    [フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")要素が強いこの番組では、J-POPの中でも1970年代～1990年代までを幅広くセレクトしている。終了2分～3分前からは、[フュージョンを中心とした](../Page/フュージョン_\(音楽\).md "wikilink")[イントゥルメンタルを流す](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。オープニングとエンディング番組情報部以外でのアナウンスがない。なお、そのアナウンスをしているのは [福田浩子](http://www.fmyokohama.co.jp/onair/dj/FukudaHiroko) アナウンサーである。
+    [フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")要素が強いこの番組では、J-POPの中でも1970年代～1990年代までを幅広くセレクトしている。終了2分～3分前からは、[フュージョンを中心とした](../Page/フュージョン_\(音楽\).md "wikilink")[イントゥルメンタルを流す](../Page/器楽曲.md "wikilink")。オープニングとエンディング番組情報部以外でのアナウンスがない。なお、そのアナウンスをしているのは [福田浩子](http://www.fmyokohama.co.jp/onair/dj/FukudaHiroko) アナウンサーである。
 
 <!-- end list -->
 
@@ -95,19 +95,19 @@
 9.  [Billy Joel](https://ja.wikipedia.org/wiki/Billy_Joel "wikilink")　　（6月1日）
 10. [山下達郎](../Page/山下達郎.md "wikilink")　（6月8日）
 11. [CHAGE and ASKA](../Page/CHAGE_and_ASKA.md "wikilink")　　（6月15日）
-12. [嵐](https://ja.wikipedia.org/wiki/嵐_\(グループ\) "wikilink")　（6月22日）
+12. [嵐](../Page/嵐_\(グループ\).md "wikilink")　（6月22日）
 13. [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")　（6月29日）
 14. [Madonna](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")　（7月6日）
 15. [PAUL McCARTNEY](https://ja.wikipedia.org/wiki/PAUL_McCARTNEY "wikilink") ／ [Wings](../Page/ウイングス.md "wikilink")　（7月13日）
 16. [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")　（7月20日）
-17. [スガシカオ](https://ja.wikipedia.org/wiki/スガシカオ "wikilink")　（7月27日）
+17. [スガシカオ](../Page/スガシカオ.md "wikilink")　（7月27日）
 18. [CHICAGO](../Page/シカゴ_\(バンド\).md "wikilink")　（8月3日）
       -
         \-約90分に短縮
 19. [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")　（8月10日）
 20. [aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")　（8月17日）
 21. [TUBE](../Page/TUBE.md "wikilink")　（8月24日）
-22. [STING](../Page/スティング_\(ミュージシャン\).md "wikilink") ／ [THE POLICE](https://ja.wikipedia.org/wiki/ポリス_\(バンド\) "wikilink")　（8月31日）
+22. [STING](../Page/スティング_\(ミュージシャン\).md "wikilink") ／ [THE POLICE](../Page/ポリス_\(バンド\).md "wikilink")　（8月31日）
 23. [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")　（9月7日）
 24. [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")　（9月14日）
 25. [Eric Clapton](../Page/エリック・クラプトン.md "wikilink")　（9月21日）
@@ -128,12 +128,12 @@
 40. [ユニコーン](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink") ／ [奥田民生](../Page/奥田民生.md "wikilink")　（2011年1月4日）
 41. [Norah Jones](https://ja.wikipedia.org/wiki/ノラ・ジョーンズ "wikilink")　（1月11日）
 42. [槙原敬之](../Page/槇原敬之.md "wikilink")　（1月18日）
-43. [Bon Jovi](https://ja.wikipedia.org/wiki/ボン・ジョヴィ "wikilink")　（1月25日）
-44. [The Doobie Brothers](https://ja.wikipedia.org/wiki/ドゥービー・ブラザーズ "wikilink") （2月1日）
+43. [Bon Jovi](../Page/ボン・ジョヴィ.md "wikilink")　（1月25日）
+44. [The Doobie Brothers](../Page/ドゥービー・ブラザーズ.md "wikilink") （2月1日）
 45. [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink") （2月8日）
 46. THE BEATLES （2月15日）
-47. [DARYL HALL & JOHN OATES](https://ja.wikipedia.org/wiki/ダリル・ホール&ジョン・オーツ "wikilink") （2月22日）
-48. [The Eagles](https://ja.wikipedia.org/wiki/イーグルス "wikilink") （3月1日）
+47. [DARYL HALL & JOHN OATES](../Page/ダリル・ホール&ジョン・オーツ.md "wikilink") （2月22日）
+48. [The Eagles](../Page/イーグルス.md "wikilink") （3月1日）
 49. [絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink") （3月8日）
 50. Carpenters （3月15日）
 51. Mr. Children （3月22日）
@@ -173,8 +173,8 @@
 83. Every Little Thing　（11月1日）
 84. Mr.Children　（11月8日）
 85. Michael Jackson　（11月15日）
-86. [Diana Ross](https://ja.wikipedia.org/wiki/ダイアナ・ロス "wikilink")　（11月22日）
-87. [Janet Jackson](https://ja.wikipedia.org/wiki/ジャネット・ジャクソン "wikilink")　（11月29日）
+86. [Diana Ross](../Page/ダイアナ・ロス.md "wikilink")　（11月22日）
+87. [Janet Jackson](../Page/ジャネット・ジャクソン.md "wikilink")　（11月29日）
 88. [Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")　（12月6日）
 89. [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink") （12月13日）
 90. [U2](../Page/U2.md "wikilink")　（12月20日）
@@ -183,9 +183,9 @@
 93. Billy Joel　（1月10日）
 94. いきものがかり　（1月17日）
 95. 山下達郎　（1月24日）
-96. [TOTO](https://ja.wikipedia.org/wiki/TOTO_\(バンド\) "wikilink")　（1月31日）
+96. [TOTO](../Page/TOTO_\(バンド\).md "wikilink")　（1月31日）
 97. aiko　（2月7日）
-98. [Van Halen](https://ja.wikipedia.org/wiki/ヴァン・ヘイレン "wikilink")　（2月14日）
+98. [Van Halen](../Page/ヴァン・ヘイレン.md "wikilink")　（2月14日）
 99. 嵐　（2月21日）
 100. ゆず　（2月28日）
 101. Mr.Children　（3月6日）

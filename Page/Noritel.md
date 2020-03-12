@@ -1,7 +1,7 @@
 > この記事は[Noritel](https://ja.wikipedia.org/wiki/Noritel)から翻訳されています。
 
 
-**Noritel**（ノリテル）は、[興和](https://ja.wikipedia.org/wiki/興和 "wikilink")株式会社が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")まで運営していた[ソーシャル・ネットワーキング・サービス](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")（SNS）である。 Noritelは、もともと[韓国のサービスであるが](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")、興和株式会社が[ライセンス](../Page/ライセンス.md "wikilink")を受け、日本でもサービスを提供していた。 Noritelには、[アバター](https://ja.wikipedia.org/wiki/アバター "wikilink")チャットが出来るNoritelと[mixi](https://ja.wikipedia.org/wiki/mixi "wikilink")のようなSNSであるNoripo\!（ノリポ）、主に運営側からの情報提供の場であるNoritel Plus（ノリテルプラス）が存在している。Noripo\! についてはmixiとかなり近い機能を保有している。
+**Noritel**（ノリテル）は、[興和](../Page/興和.md "wikilink")株式会社が[2006年](../Page/2006年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")まで運営していた[ソーシャル・ネットワーキング・サービス](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")（SNS）である。 Noritelは、もともと[韓国のサービスであるが](../Page/大韓民国.md "wikilink")、興和株式会社が[ライセンス](../Page/ライセンス.md "wikilink")を受け、日本でもサービスを提供していた。 Noritelには、[アバター](../Page/アバター.md "wikilink")チャットが出来るNoritelと[mixi](https://ja.wikipedia.org/wiki/mixi "wikilink")のようなSNSであるNoripo\!（ノリポ）、主に運営側からの情報提供の場であるNoritel Plus（ノリテルプラス）が存在している。Noripo\! についてはmixiとかなり近い機能を保有している。
 
 ## ほかのSNSとの大きな違い
 
@@ -17,9 +17,9 @@
 
 1.既に会員である者から招待メールをもらい、利用登録をする本来の意味の「招待制会員登録」。 2.配布されているパンフレットや特定の企画のときに紹介されたメールアドレスに会員希望のメールを送付することで招待メールをもらい、会員登録をするという「準招待制会員登録」。
 
-1の登録方式については、mixiなどと同様であるため、利用している友人・知人から招待してもらうのを待つしかない。もしくは、招待を依頼するしかない。 2の登録方式については、配布されているパンフレットの裏面などに招待依頼用[メールアドレス](https://ja.wikipedia.org/wiki/メールアドレス "wikilink")が記載されているので、そこに会員招待を依頼するメールを送付する。その後、Noritel運営側から会員登録用に関するメールが送付されてくるため、それによって会員登録できるようになる。 よって、知り合いがNoritelを利用していなくても、パンフレットを入手するか、企画番組を閲覧するなどの企画に参加することで会員になることが出来る。
+1の登録方式については、mixiなどと同様であるため、利用している友人・知人から招待してもらうのを待つしかない。もしくは、招待を依頼するしかない。 2の登録方式については、配布されているパンフレットの裏面などに招待依頼用[メールアドレス](../Page/メールアドレス.md "wikilink")が記載されているので、そこに会員招待を依頼するメールを送付する。その後、Noritel運営側から会員登録用に関するメールが送付されてくるため、それによって会員登録できるようになる。 よって、知り合いがNoritelを利用していなくても、パンフレットを入手するか、企画番組を閲覧するなどの企画に参加することで会員になることが出来る。
 
-なお、メールアドレスについては[goo](https://ja.wikipedia.org/wiki/goo "wikilink")や[Hotmail](https://ja.wikipedia.org/wiki/Hotmail "wikilink")などのPC用[フリーメールアドレスでも登録が可能である](https://ja.wikipedia.org/wiki/フリーメールサービス "wikilink")。
+なお、メールアドレスについては[goo](https://ja.wikipedia.org/wiki/goo "wikilink")や[Hotmail](../Page/Hotmail.md "wikilink")などのPC用[フリーメールアドレスでも登録が可能である](../Page/フリーメールサービス.md "wikilink")。
 
 ## 利用者数
 
@@ -59,7 +59,7 @@
 
 ### お気に入り
 
-特定ユーザー・コミュニティーを[ブックマーク](https://ja.wikipedia.org/wiki/ブックマーク "wikilink")する機能。
+特定ユーザー・コミュニティーを[ブックマーク](../Page/ブックマーク.md "wikilink")する機能。
 
 ### おすすめレビュー
 

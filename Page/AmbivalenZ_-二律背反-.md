@@ -3,11 +3,11 @@
 
 『**AmbivalenZ -二律背反-**』（**アンビヴァレンツ にりつはいはん**）は、[1994年](../Page/1994年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")に[アリスソフト](../Page/アリスソフト.md "wikilink")から発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。対応機種は[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")、[FM-TOWNS](../Page/FM_TOWNS.md "wikilink")、[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")、[Windows95](../Page/Microsoft_Windows_95.md "wikilink")/[Windows 3.1](../Page/Microsoft_Windows_3.x.md "wikilink")（Win95/3.1版は[1996年](../Page/1996年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売）。メディアは、[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")7枚（PC98、X68）もしくは[CD-ROM](../Page/CD-ROM.md "wikilink")1枚（TOWNS、Win95/3.1）。[配布フリー宣言の対象作品](https://ja.wikipedia.org/wiki/アリスソフト#配布フリー宣言 "wikilink")。
 
-ジャンルは[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。アリスソフトとしては初となる、[コメディ要素の全くない](../Page/喜劇.md "wikilink")、シリアス一辺倒の[伝奇小説](https://ja.wikipedia.org/wiki/伝奇小説 "wikilink")的作品として知られている。なお、“Ambivalenz”とは[ドイツ語](../Page/ドイツ語.md "wikilink")で『愛憎併存』を表す[心理学](../Page/心理学.md "wikilink")用語で[\[:de](https://ja.wikipedia.org/wiki/:de:Ambivalenz "wikilink")\]、『矛盾』を指す“[二律背反](https://ja.wikipedia.org/wiki/二律背反 "wikilink")”とは意味が全く異なる。
+ジャンルは[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。アリスソフトとしては初となる、[コメディ要素の全くない](../Page/喜劇.md "wikilink")、シリアス一辺倒の[伝奇小説](../Page/伝奇小説.md "wikilink")的作品として知られている。なお、“Ambivalenz”とは[ドイツ語](../Page/ドイツ語.md "wikilink")で『愛憎併存』を表す[心理学](../Page/心理学.md "wikilink")用語で[\[:de](https://ja.wikipedia.org/wiki/:de:Ambivalenz "wikilink")\]、『矛盾』を指す“[二律背反](../Page/二律背反.md "wikilink")”とは意味が全く異なる。
 
 ## ストーリー
 
-サエルーナ国の王女シィアが、邪教ギンヌンガガップに「闇の娘」ディアドラ誕生の[生贄として連れ去られた](../Page/人身御供.md "wikilink")。シィアに想いを寄せる[近衛騎士シュラは騎士団と共に救出に向かいギンヌンガガップを壊滅させたが一足遅く](https://ja.wikipedia.org/wiki/近衛兵 "wikilink")、シィアの体を食い破ってディアドラが誕生してしまう。シュラに不老の呪いをかけて[アルビノ](https://ja.wikipedia.org/wiki/アルビノ "wikilink")の身体にし、嘲笑うように何処ともなく姿を消したディアドラ。不老と化し復讐の羅刹となったシュラはディアドラの滅亡を目的に、いつ終わるとも知れない仇討ちの旅へと出発した。
+サエルーナ国の王女シィアが、邪教ギンヌンガガップに「闇の娘」ディアドラ誕生の[生贄として連れ去られた](../Page/人身御供.md "wikilink")。シィアに想いを寄せる[近衛騎士シュラは騎士団と共に救出に向かいギンヌンガガップを壊滅させたが一足遅く](../Page/近衛兵.md "wikilink")、シィアの体を食い破ってディアドラが誕生してしまう。シュラに不老の呪いをかけて[アルビノ](../Page/アルビノ.md "wikilink")の身体にし、嘲笑うように何処ともなく姿を消したディアドラ。不老と化し復讐の羅刹となったシュラはディアドラの滅亡を目的に、いつ終わるとも知れない仇討ちの旅へと出発した。
 
 そして時は流れ、サエルーナも既に遠い昔に滅んだ現代の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")。負の[草薙剣と様々な](../Page/天叢雲剣.md "wikilink")[呪術](https://ja.wikipedia.org/wiki/呪術 "wikilink")を武器に今なおディアドラを追い続ける修羅（シュラ）は、数百年の時を経てシィアの生まれ変わり・桂木花梨と巡り会った…。
 
@@ -46,7 +46,7 @@
 <!-- end list -->
 
   - 有馬紅葉
-    [カトリック教会](https://ja.wikipedia.org/wiki/カトリック教会 "wikilink")から修羅たちの住む街に派遣された神父。花梨の養父でもある。一見すると眼鏡をかけた穏やかそうな青年だが、女好きで言動が怪しい。
+    [カトリック教会](../Page/カトリック教会.md "wikilink")から修羅たちの住む街に派遣された神父。花梨の養父でもある。一見すると眼鏡をかけた穏やかそうな青年だが、女好きで言動が怪しい。
     ドゥエンディの気配がする場所によく現れる。
 
 <!-- end list -->

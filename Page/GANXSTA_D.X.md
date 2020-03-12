@@ -5,15 +5,15 @@
 
 ## 来歴
 
-[横須賀](https://ja.wikipedia.org/wiki/横須賀 "wikilink")で[スナック](https://ja.wikipedia.org/wiki/スナック "wikilink")や[ディスコ](https://ja.wikipedia.org/wiki/ディスコ "wikilink")等を経営していた母と[ラテン系アメリカ人](https://ja.wikipedia.org/wiki/ラテン系アメリカ人 "wikilink")との間に生まれ、様々な音楽を吸収しつつ育った。[1970年代](../Page/1970年代.md "wikilink")後半から[1980年代](../Page/1980年代.md "wikilink")は、[暴走族](../Page/暴走族.md "wikilink")や[竹の子族](https://ja.wikipedia.org/wiki/竹の子族 "wikilink")等を経て、[ブレイクダンス](../Page/ブレイクダンス.md "wikilink")で[風見しんご](https://ja.wikipedia.org/wiki/風見しんご "wikilink")や[とんねるず](../Page/とんねるず.md "wikilink")等の[バックダンサー](https://ja.wikipedia.org/wiki/バックダンサー "wikilink")を務めた。
+[横須賀](https://ja.wikipedia.org/wiki/横須賀 "wikilink")で[スナック](https://ja.wikipedia.org/wiki/スナック "wikilink")や[ディスコ](../Page/ディスコ.md "wikilink")等を経営していた母と[ラテン系アメリカ人](https://ja.wikipedia.org/wiki/ラテン系アメリカ人 "wikilink")との間に生まれ、様々な音楽を吸収しつつ育った。[1970年代](../Page/1970年代.md "wikilink")後半から[1980年代](../Page/1980年代.md "wikilink")は、[暴走族](../Page/暴走族.md "wikilink")や[竹の子族](../Page/竹の子族.md "wikilink")等を経て、[ブレイクダンス](../Page/ブレイクダンス.md "wikilink")で[風見しんご](../Page/風見しんご.md "wikilink")や[とんねるず](../Page/とんねるず.md "wikilink")等の[バックダンサー](https://ja.wikipedia.org/wiki/バックダンサー "wikilink")を務めた。
 
-[DJ YUTAKAの紹介で](https://ja.wikipedia.org/wiki/DJ_YUTAKA "wikilink")[アフリカ・バンバータ](https://ja.wikipedia.org/wiki/アフリカ・バンバータ "wikilink")が創設したグループUniversal Zulu Nationの一員となり本場のストリート文化を学ぶ為に[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")に渡り、移り住んだサウスセントラルで[ギャング](https://ja.wikipedia.org/wiki/ギャング "wikilink")に襲われ、地元のフローレンス13のメンバーに助けられ自らもこの組織に加入し、3年間のギャングスタライフ、1992年の[ロサンゼルス暴動](https://ja.wikipedia.org/wiki/ロサンゼルス暴動 "wikilink")を経験する。
+[DJ YUTAKAの紹介で](../Page/DJ_YUTAKA.md "wikilink")[アフリカ・バンバータ](../Page/アフリカ・バンバータ.md "wikilink")が創設したグループUniversal Zulu Nationの一員となり本場のストリート文化を学ぶ為に[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")に渡り、移り住んだサウスセントラルで[ギャング](../Page/ギャング.md "wikilink")に襲われ、地元のフローレンス13のメンバーに助けられ自らもこの組織に加入し、3年間のギャングスタライフ、1992年の[ロサンゼルス暴動](../Page/ロサンゼルス暴動.md "wikilink")を経験する。
 
-帰国後、日本初のLA style Gang組織「Florence 13」を[東京の](https://ja.wikipedia.org/wiki/東京都 "wikilink")[六本木](../Page/六本木.md "wikilink")を中心に都内全域・[神奈川](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")・[埼玉](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")・[千葉に立ち上げ](https://ja.wikipedia.org/wiki/千葉県 "wikilink")、シンボルカラーを赤とするBLOODS系ギャングの頂点となる等、日本の[カラーギャング](https://ja.wikipedia.org/wiki/カラーギャング "wikilink")の創世者として活動。自身も『[タイガー&ドラゴンSP](https://ja.wikipedia.org/wiki/タイガー&ドラゴン_\(テレビドラマ\) "wikilink")』（TBS系）に出演。　
+帰国後、日本初のLA style Gang組織「Florence 13」を[東京の](../Page/東京都.md "wikilink")[六本木](../Page/六本木.md "wikilink")を中心に都内全域・[神奈川](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")・[埼玉](../Page/埼玉県.md "wikilink")・[千葉に立ち上げ](../Page/千葉県.md "wikilink")、シンボルカラーを赤とするBLOODS系ギャングの頂点となる等、日本の[カラーギャング](../Page/カラーギャング.md "wikilink")の創世者として活動。自身も『[タイガー&ドラゴンSP](../Page/タイガー&ドラゴン_\(テレビドラマ\).md "wikilink")』（TBS系）に出演。　
 
 そしてギャングダスタラップ風日本語ラップの土台を作った。
 
-音楽活動は幅広く、バンド・TwilightCityの[ギター](../Page/ギター.md "wikilink")、ボーカルを担当。[Vシネマ](https://ja.wikipedia.org/wiki/Vシネマ "wikilink")の俳優や[劇伴](https://ja.wikipedia.org/wiki/劇伴 "wikilink")（サウンドトラック）等を手がける一方、[総合格闘技](../Page/総合格闘技.md "wikilink")の選手として試合にも参戦。　
+音楽活動は幅広く、バンド・TwilightCityの[ギター](../Page/ギター.md "wikilink")、ボーカルを担当。[Vシネマ](https://ja.wikipedia.org/wiki/Vシネマ "wikilink")の俳優や[劇伴](../Page/劇伴.md "wikilink")（サウンドトラック）等を手がける一方、[総合格闘技](../Page/総合格闘技.md "wikilink")の選手として試合にも参戦。　
 
 ## 外部リンク
 

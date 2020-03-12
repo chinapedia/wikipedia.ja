@@ -1,11 +1,11 @@
 > この記事は[RKB](https://ja.wikipedia.org/wiki/RKB)から翻訳されています。
 
 
-**RKBミッドナイトコンサート**（あーるけーびーみっどないとこんさーと）は[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")4月から[2009年](../Page/2009年.md "wikilink")3月まで[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（[RKBラジオ](https://ja.wikipedia.org/wiki/RKBラジオ "wikilink")）で放送されていた[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")である。
+**RKBミッドナイトコンサート**（あーるけーびーみっどないとこんさーと）は[2007年](../Page/2007年.md "wikilink")4月から[2009年](../Page/2009年.md "wikilink")3月まで[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（[RKBラジオ](../Page/RKBラジオ.md "wikilink")）で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")である。
 
 ## 番組概要
 
-山本がトークを交えつつ[クラシック](../Page/クラシック音楽.md "wikilink")、[イージーリスニング](https://ja.wikipedia.org/wiki/イージーリスニング "wikilink")、[ミュージカル](../Page/ミュージカル.md "wikilink")音楽、[オペラ](../Page/オペラ.md "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、[映画音楽](https://ja.wikipedia.org/wiki/映画音楽 "wikilink")などの楽曲を紹介していく。
+山本がトークを交えつつ[クラシック](../Page/クラシック音楽.md "wikilink")、[イージーリスニング](../Page/イージーリスニング.md "wikilink")、[ミュージカル](../Page/ミュージカル.md "wikilink")音楽、[オペラ](../Page/オペラ.md "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、[映画音楽](../Page/映画音楽.md "wikilink")などの楽曲を紹介していく。
 
 ## 放送時間
 

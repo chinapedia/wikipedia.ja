@@ -1,7 +1,7 @@
 > この記事は[Wind Climbing](https://ja.wikipedia.org/wiki/Wind_Climbing)から翻訳されています。
 
 
-『**Wind Climbing**』（ウインド・クライミング）は、1995年3月25日に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")からリリースされた、[奥井亜紀](../Page/奥井亜紀.md "wikilink")のセカンドアルバム。
+『**Wind Climbing**』（ウインド・クライミング）は、1995年3月25日に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")からリリースされた、[奥井亜紀](../Page/奥井亜紀.md "wikilink")のセカンドアルバム。
 
 ## 解説
 
@@ -49,7 +49,7 @@
 ## 参加ミュージシャン
 
   - [小野寺明敏](https://ja.wikipedia.org/wiki/小野寺明敏 "wikilink")
-  - [大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+  - [大村雅朗](../Page/大村雅朗.md "wikilink")
   - [鶴来正基](https://ja.wikipedia.org/wiki/鶴来正基 "wikilink")
   - [紅林弥生](https://ja.wikipedia.org/wiki/紅林弥生 "wikilink")
   - [鈴木県](https://ja.wikipedia.org/wiki/鈴木県 "wikilink")

@@ -15,10 +15,10 @@
 
 1.  **春〜spring〜**
       -
-        作詞・作曲: たくや／編曲: Hysteric Blue、[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
+        作詞・作曲: たくや／編曲: Hysteric Blue、[佐久間正英](../Page/佐久間正英.md "wikilink")
     <!-- end list -->
-      - アルバム [baby Blue](https://ja.wikipedia.org/wiki/baby_Blue "wikilink")、ベスト [Historic Blue](https://ja.wikipedia.org/wiki/Historic_Blue "wikilink") に収録。
-      - テレビ朝日系[目撃\!ドキュン](https://ja.wikipedia.org/wiki/目撃!ドキュン "wikilink")エンディングテーマ
+      - アルバム [baby Blue](https://ja.wikipedia.org/wiki/baby_Blue "wikilink")、ベスト [Historic Blue](../Page/Historic_Blue.md "wikilink") に収録。
+      - テレビ朝日系[目撃\!ドキュン](../Page/目撃!ドキュン.md "wikilink")エンディングテーマ
 2.  **Merry-Go-Round**
       -
         作詞・作曲: ナオキ／編曲: Hysteric Blue、佐久間正英
@@ -27,12 +27,12 @@
 ## 収録アルバム
 
   - [baby Blue](https://ja.wikipedia.org/wiki/baby_Blue "wikilink") (\#1)
-  - [Historic Blue](https://ja.wikipedia.org/wiki/Historic_Blue "wikilink") (\#1)
+  - [Historic Blue](../Page/Historic_Blue.md "wikilink") (\#1)
 
 ## カバー
 
-  - [Hearts Grow](https://ja.wikipedia.org/wiki/Hearts_Grow "wikilink") - 2008年（配信限定）
-  - [Mi](https://ja.wikipedia.org/wiki/Mi_\(バンド\) "wikilink") - 2008年（アルバム『I Love Music〜Mi Best Collection〜』）
+  - [Hearts Grow](../Page/Hearts_Grow.md "wikilink") - 2008年（配信限定）
+  - [Mi](../Page/Mi_\(バンド\).md "wikilink") - 2008年（アルバム『I Love Music〜Mi Best Collection〜』）
   - [ベントレー・ジョーンズ](https://ja.wikipedia.org/wiki/ベントレー・ジョーンズ "wikilink") - 2009年（アルバム『TRANS//LATION 〜J-POP DANCE COVER〜』）
   - [ダイアナ・ガーネット](https://ja.wikipedia.org/wiki/ダイアナ・ガーネット "wikilink") - 2013年（アルバム『COVER☆GIRL』）
   - [藍井エイル](https://ja.wikipedia.org/wiki/藍井エイル "wikilink") - 2016年（シングル『[アクセンティア](https://ja.wikipedia.org/wiki/アクセンティア "wikilink")』）

@@ -1,7 +1,7 @@
 > この記事は[TOKYO ff](https://ja.wikipedia.org/wiki/TOKYO_ff)から翻訳されています。
 
 
-**宇佐元恭一TOKYO ff**（うさもときょういちとーきょーふぉるてしも）は[2004年](../Page/2004年.md "wikilink")4月から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")3月まで[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（[RKBラジオ](https://ja.wikipedia.org/wiki/RKBラジオ "wikilink")）で放送されていた夜の[音楽](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")[トーク番組](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")である。
+**宇佐元恭一TOKYO ff**（うさもときょういちとーきょーふぉるてしも）は[2004年](../Page/2004年.md "wikilink")4月から[2007年](../Page/2007年.md "wikilink")3月まで[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（[RKBラジオ](../Page/RKBラジオ.md "wikilink")）で放送されていた夜の[音楽](../Page/音楽番組.md "wikilink")[トーク番組](../Page/トーク番組.md "wikilink")である。
 
 ## 放送時間
 
@@ -11,12 +11,12 @@
 
 ## パーソナリティ
 
-  - [宇佐元恭一](https://ja.wikipedia.org/wiki/宇佐元恭一 "wikilink")
-  - [本庄麻里子](https://ja.wikipedia.org/wiki/本庄麻里子 "wikilink")
+  - [宇佐元恭一](../Page/宇佐元恭一.md "wikilink")
+  - [本庄麻里子](../Page/本庄麻里子.md "wikilink")
 
 ## コーナー
 
-  - [戸田奈津子](https://ja.wikipedia.org/wiki/戸田奈津子 "wikilink") [映画](../Page/映画.md "wikilink")の中の[英語](../Page/英語.md "wikilink")（金曜日）･･･映画字幕翻訳家の戸田奈津子が[英会話](https://ja.wikipedia.org/wiki/英会話 "wikilink")に使えるセリフを映画の中から紹介。このコーナーは2007年3月まで[ポッドキャスティング](https://ja.wikipedia.org/wiki/ポッドキャスティング "wikilink")でも聞くことができた。
+  - [戸田奈津子](../Page/戸田奈津子.md "wikilink") [映画](../Page/映画.md "wikilink")の中の[英語](../Page/英語.md "wikilink")（金曜日）･･･映画字幕翻訳家の戸田奈津子が[英会話](../Page/英会話.md "wikilink")に使えるセリフを映画の中から紹介。このコーナーは2007年3月まで[ポッドキャスティング](https://ja.wikipedia.org/wiki/ポッドキャスティング "wikilink")でも聞くことができた。
   - 恭一・麻里子のこの週末はこの一本\!･･･今後、公開予定の新作映画を紹介したり、[DVD](../Page/DVD.md "wikilink")作品の紹介をするコーナー。
   - 恭一'sスポットライト･･･巷で起こっている[社会現象](../Page/社会現象.md "wikilink")を取り上げ、トークをするコーナー。
   - 麻里子の花園･･･女性の最新トレンド情報を紹介するコーナー。
@@ -24,7 +24,7 @@
 
 ## エピソード
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは「[宇佐元恭一 アーティストライブラリー](https://ja.wikipedia.org/wiki/宇佐元恭一_アーティストライブラリー "wikilink")」に引き継ぐ形で2007年3月に放送を終了した。
+[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは「[宇佐元恭一 アーティストライブラリー](https://ja.wikipedia.org/wiki/宇佐元恭一_アーティストライブラリー "wikilink")」に引き継ぐ形で2007年3月に放送を終了した。
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[ROAD OF MAJOR II](https://ja.wikipedia.org/wiki/ROAD_OF_MAJOR_II)から翻訳されています。
 
 
-『**ROAD OF MAJOR II**』（ロード・オブ・メジャー・ツー）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月24日](../Page/8月24日.md "wikilink")にリリースされた、[ロードオブメジャー](https://ja.wikipedia.org/wiki/ロードオブメジャー "wikilink")のメジャー1枚目の[アルバム](../Page/アルバム.md "wikilink")であり、通算2枚目のアルバムである。
+『**ROAD OF MAJOR II**』（ロード・オブ・メジャー・ツー）は、[2005年](../Page/2005年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")にリリースされた、[ロードオブメジャー](../Page/ロードオブメジャー.md "wikilink")のメジャー1枚目の[アルバム](../Page/アルバム.md "wikilink")であり、通算2枚目のアルバムである。
 
 ## 概要
 

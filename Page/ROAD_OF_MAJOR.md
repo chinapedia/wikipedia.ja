@@ -1,7 +1,7 @@
 > この記事は[ROAD OF MAJOR](https://ja.wikipedia.org/wiki/ROAD_OF_MAJOR)から翻訳されています。
 
 
-『**ROAD OF MAJOR**』（ロード・オブ・メジャー）は、[2003年](../Page/2003年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")にリリースされた、[ロードオブメジャー](https://ja.wikipedia.org/wiki/ロードオブメジャー "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。
+『**ROAD OF MAJOR**』（ロード・オブ・メジャー）は、[2003年](../Page/2003年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")にリリースされた、[ロードオブメジャー](../Page/ロードオブメジャー.md "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 

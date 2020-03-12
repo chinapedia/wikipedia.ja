@@ -1,7 +1,7 @@
 > この記事は[You\'re the only melody](https://ja.wikipedia.org/wiki/You\'re_the_only_melody)から翻訳されています。
 
 
-『**You're the only melody**』は、1996年11月30日に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")からリリースされた、[奥井亜紀](../Page/奥井亜紀.md "wikilink")の4thアルバム。
+『**You're the only melody**』は、1996年11月30日に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")からリリースされた、[奥井亜紀](../Page/奥井亜紀.md "wikilink")の4thアルバム。
 
 ## 解説
 
@@ -51,9 +51,9 @@
 ## 参加ミュージシャン
 
   - [小野寺明敏](https://ja.wikipedia.org/wiki/小野寺明敏 "wikilink")
-  - [大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+  - [大村雅朗](../Page/大村雅朗.md "wikilink")
   - [西東レモン](https://ja.wikipedia.org/wiki/西東レモン "wikilink")
-  - [大島ミチル](https://ja.wikipedia.org/wiki/大島ミチル "wikilink")
-  - [若草恵](https://ja.wikipedia.org/wiki/若草恵 "wikilink")
+  - [大島ミチル](../Page/大島ミチル.md "wikilink")
+  - [若草恵](../Page/若草恵.md "wikilink")
 
 [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink") [Category:奥井亜紀のアルバム](https://ja.wikipedia.org/wiki/Category:奥井亜紀のアルバム "wikilink")

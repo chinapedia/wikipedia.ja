@@ -1,7 +1,7 @@
 > この記事は[ Self Produce TV](https://ja.wikipedia.org/wiki/_Self_Produce_TV)から翻訳されています。
 
 
-『**自分電視台 ～Self Produce TV～**』（じぶんでんしだい ～セルフプロデューステレビ～）は、[2002年](../Page/2002年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")（[3日深夜](https://ja.wikipedia.org/wiki/7月3日 "wikilink")）から[2003年](../Page/2003年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")（[19日深夜](../Page/3月19日.md "wikilink")）まで[フジテレビ系列で放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
+『**自分電視台 ～Self Produce TV～**』（じぶんでんしだい ～セルフプロデューステレビ～）は、[2002年](../Page/2002年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")（[3日深夜](../Page/7月3日.md "wikilink")）から[2003年](../Page/2003年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")（[19日深夜](../Page/3月19日.md "wikilink")）まで[フジテレビ系列で放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
 
 ## 番組概要
 
@@ -74,8 +74,8 @@
 
 ## 関連項目
 
-  - [おちまさと](https://ja.wikipedia.org/wiki/おちまさと "wikilink") - 放送作家
-  - [ケイマックス](https://ja.wikipedia.org/wiki/ケイマックス "wikilink") - テレビ番組制作プロダクション
+  - [おちまさと](../Page/おちまさと.md "wikilink") - 放送作家
+  - [ケイマックス](../Page/ケイマックス.md "wikilink") - テレビ番組制作プロダクション
 
 ## 外部リンク
 

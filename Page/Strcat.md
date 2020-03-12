@@ -1,7 +1,7 @@
 > この記事は[Strcat](https://ja.wikipedia.org/wiki/Strcat)から翻訳されています。
 
 
-**strcat**は、ある[文字列](https://ja.wikipedia.org/wiki/文字列 "wikilink")に別の文字列を[連結](https://ja.wikipedia.org/wiki/文字列結合 "wikilink") (concatenate) する[C言語](../Page/C言語.md "wikilink")の[関数である](https://ja.wikipedia.org/wiki/サブルーチン "wikilink")。 [標準Cライブラリ](https://ja.wikipedia.org/wiki/標準Cライブラリ "wikilink")の文字列操作関数群が宣言されている[ヘッダーファイル](https://ja.wikipedia.org/wiki/ヘッダーファイル "wikilink") `string.h` に含まれる。
+**strcat**は、ある[文字列](../Page/文字列.md "wikilink")に別の文字列を[連結](https://ja.wikipedia.org/wiki/文字列結合 "wikilink") (concatenate) する[C言語](../Page/C言語.md "wikilink")の[関数である](../Page/サブルーチン.md "wikilink")。 [標準Cライブラリ](../Page/標準Cライブラリ.md "wikilink")の文字列操作関数群が宣言されている[ヘッダーファイル](https://ja.wikipedia.org/wiki/ヘッダーファイル "wikilink") `string.h` に含まれる。
 
 ## 書式
 

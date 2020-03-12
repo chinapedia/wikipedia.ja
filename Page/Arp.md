@@ -1,7 +1,7 @@
 > この記事は[Arp](https://ja.wikipedia.org/wiki/Arp)から翻訳されています。
 
 
-**arp**（アープ）（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月1日](../Page/5月1日.md "wikilink")-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。1998年結成。2003年ZOMBA RECORDS（[BMG JAPANを経て現在](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")[ソニーミュージック](https://ja.wikipedia.org/wiki/ソニーミュージック "wikilink")）よりデビュー。ユニット名の由来はインターネット用語の[Address Resolution Protocolの略から](../Page/Address_Resolution_Protocol.md "wikilink")。 2010年3月解散。
+**arp**（アープ）（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月1日](../Page/5月1日.md "wikilink")-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。1998年結成。2003年ZOMBA RECORDS（[BMG JAPANを経て現在](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")[ソニーミュージック](https://ja.wikipedia.org/wiki/ソニーミュージック "wikilink")）よりデビュー。ユニット名の由来はインターネット用語の[Address Resolution Protocolの略から](../Page/Address_Resolution_Protocol.md "wikilink")。 2010年3月解散。
 
 ## メンバー
 
@@ -18,7 +18,7 @@
     1.  Reborn\[4:33\]
           -
             作詞：大宮あん朱・濱田貴司／編曲：[権藤知彦](https://ja.wikipedia.org/wiki/権藤知彦 "wikilink")・濱田貴司
-            CX系ドラマ「P\&Gパンテーンドラマスペシャル『[冬空に月は輝く](https://ja.wikipedia.org/wiki/冬空に月は輝く "wikilink")』」テーマソング
+            CX系ドラマ「P\&Gパンテーンドラマスペシャル『[冬空に月は輝く](../Page/冬空に月は輝く.md "wikilink")』」テーマソング
     2.  沈黙と青い空\[5:07\]
           -
             作詞：大宮あん朱／作曲：濱田貴司／編曲：権藤知彦・濱田貴司
@@ -31,11 +31,11 @@
     <!-- end list -->
     1.  桜\[4:55\]
           -
-            作詞：大宮あん朱／作曲：濱田貴司／編曲：[岸利至](https://ja.wikipedia.org/wiki/岸利至 "wikilink")・濱田貴司
-            [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[B.C.ビューティー・コロシアム](https://ja.wikipedia.org/wiki/B.C.ビューティー・コロシアム "wikilink")』2003年4月から9月までのエンディングテーマ曲（9月26日のレギュラー放送最終回以外）
+            作詞：大宮あん朱／作曲：濱田貴司／編曲：[岸利至](../Page/岸利至.md "wikilink")・濱田貴司
+            [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[B.C.ビューティー・コロシアム](../Page/B.C.ビューティー・コロシアム.md "wikilink")』2003年4月から9月までのエンディングテーマ曲（9月26日のレギュラー放送最終回以外）
     2.  桜-piano ver.\[6:00\]
           -
-            編曲：[沢田完](https://ja.wikipedia.org/wiki/沢田完 "wikilink")
+            編曲：[沢田完](../Page/沢田完.md "wikilink")
 2.  **Reborn/桜**（2003年9月25日）オリコン67位
     1.  Reborn\[4:33\]
     2.  沈黙と青い空\[5:07\]
@@ -55,11 +55,11 @@
 4.  **キラリ**（2005年3月16日）オリコン141位
     1.  キラリ\[4:28\]
           -
-            作詞：anzu Omiya／作曲：takashi hamada／編曲：[Jun Abe](https://ja.wikipedia.org/wiki/安部潤 "wikilink")・takashi hamada
-            映画「[いぬのえいが](https://ja.wikipedia.org/wiki/いぬのえいが "wikilink")」主題歌
+            作詞：anzu Omiya／作曲：takashi hamada／編曲：[Jun Abe](../Page/安部潤.md "wikilink")・takashi hamada
+            映画「[いぬのえいが](../Page/いぬのえいが.md "wikilink")」主題歌
     2.  あなたに逢えて…\[4:45\]
           -
-            作詞：anzu Omiya／作曲：takashi hamada／編曲：[Nobuyuki Shimizu](https://ja.wikipedia.org/wiki/清水信之 "wikilink")
+            作詞：anzu Omiya／作曲：takashi hamada／編曲：[Nobuyuki Shimizu](../Page/清水信之.md "wikilink")
     3.  ウレシ泣キ\[4:40\]
           -
             作詞：anzu Omiya／作曲・編曲：takashi hamada
@@ -71,7 +71,7 @@
             NTV系「[汐留☆イベント部](https://ja.wikipedia.org/wiki/汐留☆イベント部 "wikilink")」11月エンディング・テーマ
     2.  風が吹いてた\[6:21\]
           -
-            作詞：大宮あん朱／作曲：松本俊明／編曲：[西脇辰弥](https://ja.wikipedia.org/wiki/西脇辰弥 "wikilink")
+            作詞：大宮あん朱／作曲：松本俊明／編曲：[西脇辰弥](../Page/西脇辰弥.md "wikilink")
     3.  Reborn (Life Palette Version)\[4:32\]
           -
             作詞：大宮あん朱／作曲：濱田貴司／編曲：権藤知彦・濱田貴司
@@ -125,7 +125,7 @@
             作詞：大宮あん朱／作曲：松本俊明／編曲：西脇辰弥
     5.  恋煩い\[3:54\]
           -
-            作詞：大宮あん朱／作曲：松本俊明／編曲：[河野伸](https://ja.wikipedia.org/wiki/河野伸 "wikilink")
+            作詞：大宮あん朱／作曲：松本俊明／編曲：[河野伸](../Page/河野伸.md "wikilink")
     6.  Starlight Stardust\[5:09\]
           -
             作詞：大宮あん朱／作曲：濱田貴司／編曲：河野伸

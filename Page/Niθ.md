@@ -15,16 +15,16 @@
 
   - [マブラヴ](../Page/マブラヴ.md "wikilink")（[アージュ](../Page/アージュ.md "wikilink")制作、メカニックデザイン協力）
   - [斬魔大聖デモンベイン](https://ja.wikipedia.org/wiki/斬魔大聖デモンベイン "wikilink")
-  - [塵骸魔京](https://ja.wikipedia.org/wiki/塵骸魔京 "wikilink")
-  - [マブラヴ オルタネイティヴ](https://ja.wikipedia.org/wiki/マブラヴ_オルタネイティヴ "wikilink")（アージュ制作、メカニックデザイン協力）
-  - [機神飛翔デモンベイン](https://ja.wikipedia.org/wiki/機神飛翔デモンベイン "wikilink")
-  - [続・殺戮のジャンゴ -地獄の賞金首-](https://ja.wikipedia.org/wiki/続・殺戮のジャンゴ_-地獄の賞金首- "wikilink")
-  - [刀剣乱舞](https://ja.wikipedia.org/wiki/刀剣乱舞 "wikilink")（[鬼丸](https://ja.wikipedia.org/wiki/鬼丸 "wikilink")国綱）
+  - [塵骸魔京](../Page/塵骸魔京.md "wikilink")
+  - [マブラヴ オルタネイティヴ](../Page/マブラヴ_オルタネイティヴ.md "wikilink")（アージュ制作、メカニックデザイン協力）
+  - [機神飛翔デモンベイン](../Page/機神飛翔デモンベイン.md "wikilink")
+  - [続・殺戮のジャンゴ -地獄の賞金首-](../Page/続・殺戮のジャンゴ_-地獄の賞金首-.md "wikilink")
+  - [刀剣乱舞](https://ja.wikipedia.org/wiki/刀剣乱舞 "wikilink")（[鬼丸](../Page/鬼丸.md "wikilink")国綱）
 
 ### アニメ
 
   - [機神咆吼デモンベイン](https://ja.wikipedia.org/wiki/機神咆吼デモンベイン_\(アニメ\) "wikilink") - キャラクター・メカニックデザイン原案
-  - [ブラスレイター](https://ja.wikipedia.org/wiki/ブラスレイター "wikilink") - キャラクター・メカニカルデザイン原案
+  - [ブラスレイター](../Page/ブラスレイター.md "wikilink") - キャラクター・メカニカルデザイン原案
   - [百花繚乱 サムライガールズ・百花繚乱 サムライブライド](https://ja.wikipedia.org/wiki/百花繚乱_SAMURAI_GIRLS "wikilink") - キャラクター原案
   - [武装神姫](../Page/武装神姫.md "wikilink") - 神姫デザイン
   - [ガリレイドンナ](https://ja.wikipedia.org/wiki/ガリレイドンナ "wikilink") - メカニックデザイン
@@ -43,13 +43,13 @@
 
 ### 小説挿絵
 
-  - [斬魔大聖デモンベイン-無垢なる刃](https://ja.wikipedia.org/wiki/斬魔大聖デモンベイン_\(小説\) "wikilink")（[鋼屋ジン](https://ja.wikipedia.org/wiki/鋼屋ジン "wikilink")原作、[涼風涼](https://ja.wikipedia.org/wiki/涼風涼 "wikilink")著、表紙絵及びカラー挿絵のみ）
+  - [斬魔大聖デモンベイン-無垢なる刃](https://ja.wikipedia.org/wiki/斬魔大聖デモンベイン_\(小説\) "wikilink")（[鋼屋ジン](../Page/鋼屋ジン.md "wikilink")原作、[涼風涼](../Page/涼風涼.md "wikilink")著、表紙絵及びカラー挿絵のみ）
   - 斬魔大聖デモンベイン-魔を断つ剣（鋼屋ジン原作、涼風涼著、以下表絵及び挿絵全般担当）
   - 斬魔大聖デモンベイン-明日への翼（鋼屋ジン原作、涼風涼著）
   - 斬魔大聖デモンベイン-機神胎動（鋼屋ジン原作、[古橋秀之](../Page/古橋秀之.md "wikilink")著）
   - 斬魔大聖デモンベイン-軍神強襲（鋼屋ジン原作、古橋秀之著）
   - 斬魔大聖デモンベイン-ド・マリニーの時計（鋼屋ジン原作、古橋秀之著）
-  - 続々・殺戮のジャンゴ害伝 地獄のビッチハイカー（[虚淵玄](https://ja.wikipedia.org/wiki/虚淵玄 "wikilink")原作、[佐藤大](https://ja.wikipedia.org/wiki/佐藤大 "wikilink")とストーリーライダーズ著）
+  - 続々・殺戮のジャンゴ害伝 地獄のビッチハイカー（[虚淵玄](../Page/虚淵玄.md "wikilink")原作、[佐藤大](../Page/佐藤大.md "wikilink")とストーリーライダーズ著）
   - [百花繚乱 SAMURAI GIRLS](https://ja.wikipedia.org/wiki/百花繚乱_SAMURAI_GIRLS "wikilink")（[すずきあきら](https://ja.wikipedia.org/wiki/鈴木ドイツ "wikilink")）既刊16巻
   - ソード＆ウィザーズ（柑橘ゆすら）既刊4巻
   - デッド・エンド・リローデッド（オギャ本バブ美）既刊1巻
@@ -66,7 +66,7 @@
 
 ### 他
 
-  - [熱風海陸ブシロード](https://ja.wikipedia.org/wiki/熱風海陸ブシロード "wikilink")（[ブロッコリー製作](../Page/ブロッコリー_\(企業\).md "wikilink")、メカニックデザイン）
+  - [熱風海陸ブシロード](../Page/熱風海陸ブシロード.md "wikilink")（[ブロッコリー製作](../Page/ブロッコリー_\(企業\).md "wikilink")、メカニックデザイン）
   - 対戦型ビジュアルブック　[クイーンズゲイト](https://ja.wikipedia.org/wiki/クイーンズゲイト "wikilink")　門を開く者アリス（ホビージャパン刊）
   - 武装神姫シリーズ "プロキシマ""マリーセレス"原画デザイン
   - 凍京NECRO＜トウキョウ・ネクロ＞ SUICIDE MISSION コラボキャラ "エヴァ・ロマノワ" 原画デザイン
@@ -74,8 +74,8 @@
 ## 関連項目
 
   - [ニトロプラス](../Page/ニトロプラス.md "wikilink")
-  - [鋼屋ジン](https://ja.wikipedia.org/wiki/鋼屋ジン "wikilink")
-  - [虚淵玄](https://ja.wikipedia.org/wiki/虚淵玄 "wikilink")
+  - [鋼屋ジン](../Page/鋼屋ジン.md "wikilink")
+  - [虚淵玄](../Page/虚淵玄.md "wikilink")
 
 ## 外部リンク
 

@@ -1,13 +1,13 @@
 > この記事は[TYPO3](https://ja.wikipedia.org/wiki/TYPO3)から翻訳されています。
 
 
-**TYPO3**は、フリーのオープンソース[コンテンツ管理システム](https://ja.wikipedia.org/wiki/コンテンツ管理システム "wikilink")である。[PHPで書かれたモデル](../Page/PHP_\(プログラミング言語\).md "wikilink") - ビュー - コントローラー (MVC) のウェブアプリケーション開発フレームワークであり、[GNU General Public License](../Page/GNU_General_Public_License.md "wikilink") (GPL) の下で開発されている。[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")および[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")上の[Apache HTTP Server](../Page/Apache_HTTP_Server.md "wikilink") (Apache) または[Internet Information Services](../Page/Internet_Information_Services.md "wikilink") (IIS) で動作する。
+**TYPO3**は、フリーのオープンソース[コンテンツ管理システム](../Page/コンテンツ管理システム.md "wikilink")である。[PHPで書かれたモデル](../Page/PHP_\(プログラミング言語\).md "wikilink") - ビュー - コントローラー (MVC) のウェブアプリケーション開発フレームワークであり、[GNU General Public License](../Page/GNU_General_Public_License.md "wikilink") (GPL) の下で開発されている。[Linux](../Page/Linux.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")および[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")上の[Apache HTTP Server](../Page/Apache_HTTP_Server.md "wikilink") (Apache) または[Internet Information Services](../Page/Internet_Information_Services.md "wikilink") (IIS) で動作する。
 
 ## 歴史
 
 TYPO3は、最初に[Kasper Skårhøj](http://typo3.org/community/people/kaspers-korner/)によって作成された。
 
-TYPO3に接続可能なエクステンションの多くは[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")の開発者によって書かれている。
+TYPO3に接続可能なエクステンションの多くは[サードパーティー](../Page/サードパーティー.md "wikilink")の開発者によって書かれている。
 
 ## 特徴
 
@@ -48,7 +48,7 @@ TemplaVoilaは、完全に統合されたデザインにそって編集者がよ
 
 ## 関連項目
 
-  - [コンテンツ管理システム](https://ja.wikipedia.org/wiki/コンテンツ管理システム "wikilink") (CMS)
+  - [コンテンツ管理システム](../Page/コンテンツ管理システム.md "wikilink") (CMS)
 
 ## 外部リンク
 

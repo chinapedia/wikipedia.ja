@@ -8,9 +8,9 @@
   - [1979年](../Page/1979年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")54年）11月 - 鋼管計測株式会社設立。
   - [1984年](../Page/1984年.md "wikilink")（昭和59年）6月 - 川鉄テクノリサーチ株式会社設立
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）4月 - 日本鋼管テクノサービス株式会社設立
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）[10月1日](../Page/10月1日.md "wikilink") - 鋼管計測、川鉄テクノリサーチ、日本鋼管テクノサービスの3社が合併し、**JFEテクノリサーチ株式会社**が発足。同時に、株式会社福山テクノリサーチの検査分析部門を統合。本社は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）6月 - 本社を東京都[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[日本橋に移転](../Page/日本橋_\(東京都中央区\).md "wikilink")。
-  - 2013年（平成25年）4月 - 本社を東京都千代田区[大手町に移転](https://ja.wikipedia.org/wiki/大手町_\(千代田区\) "wikilink")。
+  - [2004年](../Page/2004年.md "wikilink")（平成16年）[10月1日](../Page/10月1日.md "wikilink") - 鋼管計測、川鉄テクノリサーチ、日本鋼管テクノサービスの3社が合併し、**JFEテクノリサーチ株式会社**が発足。同時に、株式会社福山テクノリサーチの検査分析部門を統合。本社は[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）6月 - 本社を東京都[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[日本橋に移転](../Page/日本橋_\(東京都中央区\).md "wikilink")。
+  - 2013年（平成25年）4月 - 本社を東京都千代田区[大手町に移転](../Page/大手町_\(千代田区\).md "wikilink")。
 
 ## 脚注
 

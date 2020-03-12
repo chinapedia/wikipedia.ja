@@ -36,7 +36,7 @@
 
 ## 関連商品
 
-  - 友情のビクトリーゴール 4V4嵐（[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")・[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")）
+  - 友情のビクトリーゴール 4V4嵐（[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")・[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")）
   - 4V4嵐 サッカーえんぴつ（ユーメイト）
 
 [Category:漫画作品_け](https://ja.wikipedia.org/wiki/Category:漫画作品_け "wikilink") [Category:コロコロコミックの漫画作品](https://ja.wikipedia.org/wiki/Category:コロコロコミックの漫画作品 "wikilink") [Category:サッカー漫画](https://ja.wikipedia.org/wiki/Category:サッカー漫画 "wikilink") [Category:サッカーゲーム](https://ja.wikipedia.org/wiki/Category:サッカーゲーム "wikilink") [Category:2001年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2001年のコンピュータゲーム "wikilink") [Category:ゲームボーイアドバンス用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイアドバンス用ソフト "wikilink")

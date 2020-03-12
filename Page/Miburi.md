@@ -5,7 +5,7 @@
 
 ## 機能
 
-各種[センサ](../Page/センサ.md "wikilink")、[スピーカー](../Page/スピーカー.md "wikilink")ユニット、センサを組み込むウェア（[ジャケット](https://ja.wikipedia.org/wiki/ジャケット "wikilink")）から構成されている。演奏者の[指](../Page/指.md "wikilink")、[手首](https://ja.wikipedia.org/wiki/手首 "wikilink")、[肘](https://ja.wikipedia.org/wiki/肘 "wikilink")、[肩](https://ja.wikipedia.org/wiki/肩 "wikilink")、[足](https://ja.wikipedia.org/wiki/足 "wikilink")にセンサをつけることで、演奏者の体の動きやステップに応じた演奏を実現した。
+各種[センサ](../Page/センサ.md "wikilink")、[スピーカー](../Page/スピーカー.md "wikilink")ユニット、センサを組み込むウェア（[ジャケット](../Page/ジャケット.md "wikilink")）から構成されている。演奏者の[指](../Page/指.md "wikilink")、[手首](../Page/手首.md "wikilink")、[肘](https://ja.wikipedia.org/wiki/肘 "wikilink")、[肩](../Page/肩.md "wikilink")、[足](../Page/足.md "wikilink")にセンサをつけることで、演奏者の体の動きやステップに応じた演奏を実現した。
 
 グリップセンサを利用して指で[音階](../Page/音階.md "wikilink")を表現する「S3」と後発の[リズム](../Page/リズム.md "wikilink")を表現する「R3」のモデルがある。
 
@@ -23,9 +23,9 @@
   - [坂本龍一](../Page/坂本龍一.md "wikilink")
   - [平沢進](https://ja.wikipedia.org/wiki/平沢進 "wikilink")
   - [P-MODEL](../Page/P-MODEL.md "wikilink")
-  - [菅沼孝三](https://ja.wikipedia.org/wiki/菅沼孝三 "wikilink")
+  - [菅沼孝三](../Page/菅沼孝三.md "wikilink")
 
-また実在の人物ではないが、ヤマハの技術提供（Miburiの技術とは関係はない）による[株式会社インターネットの](https://ja.wikipedia.org/wiki/インターネット_\(企業\) "wikilink")[音声合成](https://ja.wikipedia.org/wiki/音声合成 "wikilink")ソフトウエア「[がくっぽいど](https://ja.wikipedia.org/wiki/がくっぽいど "wikilink")」の[イメージキャラクター](https://ja.wikipedia.org/wiki/イメージキャラクター "wikilink")神威がくぽが持つ刀「楽刀『美振』」の名前はmiburiが由来となっている。
+また実在の人物ではないが、ヤマハの技術提供（Miburiの技術とは関係はない）による[株式会社インターネットの](../Page/インターネット_\(企業\).md "wikilink")[音声合成](../Page/音声合成.md "wikilink")ソフトウエア「[がくっぽいど](https://ja.wikipedia.org/wiki/がくっぽいど "wikilink")」の[イメージキャラクター](https://ja.wikipedia.org/wiki/イメージキャラクター "wikilink")神威がくぽが持つ刀「楽刀『美振』」の名前はmiburiが由来となっている。
 
 ## 脚注
 

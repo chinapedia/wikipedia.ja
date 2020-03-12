@@ -5,9 +5,9 @@
 
 ## 解説
 
-前作「[Dear My Friend](https://ja.wikipedia.org/wiki/Dear_My_Friend_\(Every_Little_Thingの曲\) "wikilink")」より、4ヶ月振りのリリース。
+前作「[Dear My Friend](../Page/Dear_My_Friend_\(Every_Little_Thingの曲\).md "wikilink")」より、4ヶ月振りのリリース。
 
-初の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位獲得シングル。
+初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位獲得シングル。
 
 ## 収録曲
 
@@ -15,7 +15,7 @@
     （作詞・作曲・編曲：[五十嵐充](../Page/五十嵐充.md "wikilink")）
       -
         [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「[ICE BOX](https://ja.wikipedia.org/wiki/ICE_BOX "wikilink")」CMソング。
-        [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」エンディングテーマ。（1997年6月度）
+        [TBS系](../Page/TBSテレビ.md "wikilink")「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」エンディングテーマ。（1997年6月度）
 2.  **For the moment (Remix 7.00)**
       -
         "Remix 7.00"の名前通り、7分ちょうどで終わる。
@@ -27,9 +27,9 @@
 
 <!-- end list -->
 
-  - 『[Time to Destination](https://ja.wikipedia.org/wiki/Time_to_Destination "wikilink")』
-  - 『[Every Best Single +3](https://ja.wikipedia.org/wiki/Every_Best_Single_+3 "wikilink")』
-  - 『[Every Best Single 2](https://ja.wikipedia.org/wiki/Every_Best_Single_2 "wikilink")』※アレンジ、新録音して収録。
+  - 『[Time to Destination](../Page/Time_to_Destination.md "wikilink")』
+  - 『[Every Best Single +3](../Page/Every_Best_Single_+3.md "wikilink")』
+  - 『[Every Best Single 2](../Page/Every_Best_Single_2.md "wikilink")』※アレンジ、新録音して収録。
   - 『[Every Best Single 〜COMPLETE〜](https://ja.wikipedia.org/wiki/Every_Best_Single_〜COMPLETE〜 "wikilink")』
   - 『[Every Best Single 2 ～MORE COMPLETE～](https://ja.wikipedia.org/wiki/Tabitabi+Every_Best_Single_2_〜MORE_COMPLETE〜#Every_Best_Single_2_〜MORE_COMPLETE〜 "wikilink")』
 

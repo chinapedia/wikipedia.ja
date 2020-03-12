@@ -7,11 +7,11 @@
 
 「BEST+NEW ALBUM」というコンセプトで制作されたアルバムである。タイトルの由来は、小室がその時使いたかった単語をそのまま反映させた。また、デビューからの軌跡をまとめた「航海日誌」という単語の直接の意味も込められている\[1\]。
 
-1999年5月25日、globeの全国ツアー「globe tour 1999 Relation」終演後に制作が発表された。当時、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")のアルバム『[First Love](https://ja.wikipedia.org/wiki/First_Love_\(宇多田ヒカルのアルバム\) "wikilink")』が[オリコン調べで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")600万枚を超える新記録を達成しており、小室は本作の売上目標について「600万枚という数字は考えなきゃいけませんね」と述べていた\[2\]。
+1999年5月25日、globeの全国ツアー「globe tour 1999 Relation」終演後に制作が発表された。当時、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")のアルバム『[First Love](../Page/First_Love_\(宇多田ヒカルのアルバム\).md "wikilink")』が[オリコン調べで](../Page/オリコンチャート.md "wikilink")600万枚を超える新記録を達成しており、小室は本作の売上目標について「600万枚という数字は考えなきゃいけませんね」と述べていた\[2\]。
 
-本作の発売にあたり、発売日に[ヴァージンメガストア心斎橋店で](https://ja.wikipedia.org/wiki/ヴァージン・メガストアーズ "wikilink")、翌日に[タワーレコード](../Page/タワーレコード.md "wikilink")渋谷店で発売記念イベントを行った。前者は、合わせて店内をglobeの[CDで埋め尽くし](../Page/コンパクトディスク.md "wikilink")、[スポーツ新聞](../Page/スポーツ新聞.md "wikilink")の号外配布も行われた。
+本作の発売にあたり、発売日に[ヴァージンメガストア心斎橋店で](../Page/ヴァージン・メガストアーズ.md "wikilink")、翌日に[タワーレコード](../Page/タワーレコード.md "wikilink")渋谷店で発売記念イベントを行った。前者は、合わせて店内をglobeの[CDで埋め尽くし](../Page/コンパクトディスク.md "wikilink")、[スポーツ新聞](../Page/スポーツ新聞.md "wikilink")の号外配布も行われた。
 
-5月末の時点で[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のベストアルバム『[ZARD BEST 〜Request Memorial〜](https://ja.wikipedia.org/wiki/ZARD_BEST_〜Request_Memorial〜 "wikilink")』が[B-Gram RECORDSから](https://ja.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")9月24日発売予定で告知されていたが、6月に[avex](https://ja.wikipedia.org/wiki/avex "wikilink")が[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")のベストアルバムの際の報復としてglobeの本ベストアルバムを同じ週に発売する事を決めた為に、7月の時点でZARDのベストアルバムの発売が1週間早まる事態となった。\[3\]
+5月末の時点で[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のベストアルバム『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』が[B-Gram RECORDSから](../Page/B-Gram_RECORDS.md "wikilink")9月24日発売予定で告知されていたが、6月に[avex](https://ja.wikipedia.org/wiki/avex "wikilink")が[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")のベストアルバムの際の報復としてglobeの本ベストアルバムを同じ週に発売する事を決めた為に、7月の時点でZARDのベストアルバムの発売が1週間早まる事態となった。\[3\]
 
 初回限定盤のみ特殊パッケージ仕様。
 
@@ -30,8 +30,8 @@
         新録、インストゥルメンタル。
 2.  **[MISS YOUR BODY](../Page/MISS_YOUR_BODY.md "wikilink") - tan line mix**
       -
-        作詞：[KEIKO](https://ja.wikipedia.org/wiki/KEIKO "wikilink")&[MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")
-        17thシングル（音源は18thシングル収録の[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")バージョン）、アルバム初収録。
+        作詞：[KEIKO](../Page/KEIKO.md "wikilink")&[MARC](../Page/マーク・パンサー.md "wikilink")
+        17thシングル（音源は18thシングル収録の[リミックス](../Page/リミックス.md "wikilink")バージョン）、アルバム初収録。
 3.  **[biting her nails](https://ja.wikipedia.org/wiki/biting_her_nails "wikilink")**
       -
         作詞：KEIKO　Rap詞：MARC
@@ -45,7 +45,7 @@
       -
         作詞：小室哲哉\&MARC
         15thシングル。
-6.  **[DEPARTURES](https://ja.wikipedia.org/wiki/DEPARTURES "wikilink")**
+6.  **[DEPARTURES](../Page/DEPARTURES.md "wikilink")**
       -
         作詞：小室哲哉　Rap詞：MARC
         4thシングル。
@@ -109,7 +109,7 @@
       -
         作詞：小室哲哉\&MARC
         9thシングル。
-6.  **[Joy to the love](https://ja.wikipedia.org/wiki/Joy_to_the_love_\(globe\) "wikilink")**
+6.  **[Joy to the love](../Page/Joy_to_the_love_\(globe\).md "wikilink")**
       -
         作詞：小室哲哉
         2ndシングル。
@@ -141,7 +141,7 @@
         作詞：小室哲哉\&MARC
         6thシングル。
         シングルバージョンはアルバム初収録。
-14. **[Feel Like dance](https://ja.wikipedia.org/wiki/Feel_Like_dance "wikilink")**
+14. **[Feel Like dance](../Page/Feel_Like_dance.md "wikilink")**
       -
         作詞：小室哲哉
         1stシングル。

@@ -1,7 +1,7 @@
 > この記事は[Cisco Certified Network Associate](https://ja.wikipedia.org/wiki/Cisco_Certified_Network_Associate)から翻訳されています。
 
 
-**Cisco Certified Network Associate**(CCNA)は[ベンダー資格](https://ja.wikipedia.org/wiki/ベンダー資格 "wikilink")のひとつで、ネットワーク機器ベンダーである[シスコシステムズ](https://ja.wikipedia.org/wiki/シスコシステムズ "wikilink")(Cisco Systems)が主催している認定資格である。 [ネットワークエンジニア](../Page/ネットワークエンジニア.md "wikilink")にとっては、登竜門的な資格に位置する。
+**Cisco Certified Network Associate**(CCNA)は[ベンダー資格](../Page/ベンダー資格.md "wikilink")のひとつで、ネットワーク機器ベンダーである[シスコシステムズ](../Page/シスコシステムズ.md "wikilink")(Cisco Systems)が主催している認定資格である。 [ネットワークエンジニア](../Page/ネットワークエンジニア.md "wikilink")にとっては、登竜門的な資格に位置する。
 
 ## 出題範囲
 
@@ -10,7 +10,7 @@
 
 ## レベル
 
-CCNAの上位資格としてCCNPや[CCIE](https://ja.wikipedia.org/wiki/CCIE "wikilink")といった認定資格がある。市場技術の多様化を受けてCCNPの範囲がCCNAに出題されるなど、年々CCNAの難易度が上昇傾向にあったため、よりエントリー向けの資格として、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")8月（日本語試験は同年12月）からCCENTが設定された。 なお、[2020年](../Page/2020年.md "wikilink")2月24日の試験制度変更で2科目あったCCNAの試験が一本化されるため、CCENTは廃止（認定終了）される\[1\]。
+CCNAの上位資格としてCCNPや[CCIE](https://ja.wikipedia.org/wiki/CCIE "wikilink")といった認定資格がある。市場技術の多様化を受けてCCNPの範囲がCCNAに出題されるなど、年々CCNAの難易度が上昇傾向にあったため、よりエントリー向けの資格として、[2007年](../Page/2007年.md "wikilink")8月（日本語試験は同年12月）からCCENTが設定された。 なお、[2020年](../Page/2020年.md "wikilink")2月24日の試験制度変更で2科目あったCCNAの試験が一本化されるため、CCENTは廃止（認定終了）される\[1\]。
 
 ### 資格体系
 
@@ -61,7 +61,7 @@ Security</p></td>
 
 ## 関連項目
 
-  - [ネットワークスペシャリスト試験](https://ja.wikipedia.org/wiki/ネットワークスペシャリスト試験 "wikilink")
+  - [ネットワークスペシャリスト試験](../Page/ネットワークスペシャリスト試験.md "wikilink")
 
 ## 外部リンク
 

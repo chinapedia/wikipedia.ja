@@ -1,7 +1,7 @@
 > この記事は[ATX](https://ja.wikipedia.org/wiki/ATX)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:HEC_350W_ATX_power_supply.jpg "wikilink") **ATX電源**（エーティーエックスでんげん、）は、[ATX](https://ja.wikipedia.org/wiki/ATX "wikilink")コンピュータ用の[電源](https://ja.wikipedia.org/wiki/電源 "wikilink")回路を収めた[ユニット](https://ja.wikipedia.org/wiki/ユニット "wikilink")の標準[規格](https://ja.wikipedia.org/wiki/規格 "wikilink")、およびその規格に準じた電源ユニット・電源装置を指す。2018年現在、[デスクトップパソコン](../Page/デスクトップパソコン.md "wikilink")(PC)用の電源としては、最も一般的なものである。[AC](../Page/AC.md "wikilink")100[Vや](../Page/ボルト_\(単位\).md "wikilink")220Vといった商用[電源](https://ja.wikipedia.org/wiki/電源 "wikilink")を入力とし、内部で12Vや5Vといった[直流](../Page/直流.md "wikilink")に変換を行い、PC各部へ給電する為の出力を作り出す。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:HEC_350W_ATX_power_supply.jpg "wikilink") **ATX電源**（エーティーエックスでんげん、）は、[ATX](../Page/ATX.md "wikilink")コンピュータ用の[電源](../Page/電源.md "wikilink")回路を収めた[ユニット](../Page/ユニット.md "wikilink")の標準[規格](https://ja.wikipedia.org/wiki/規格 "wikilink")、およびその規格に準じた電源ユニット・電源装置を指す。2018年現在、[デスクトップパソコン](../Page/デスクトップパソコン.md "wikilink")(PC)用の電源としては、最も一般的なものである。[AC](../Page/AC.md "wikilink")100[Vや](../Page/ボルト_\(単位\).md "wikilink")220Vといった商用[電源](../Page/電源.md "wikilink")を入力とし、内部で12Vや5Vといった[直流](../Page/直流.md "wikilink")に変換を行い、PC各部へ給電する為の出力を作り出す。
 
 本項では、本規格電源から派生した[SFX電源についても記述する](https://ja.wikipedia.org/wiki/#SFX電源 "wikilink")。
 
@@ -15,11 +15,11 @@ CとDの間：変圧器
 
 D：二次側ヒートシンク
 
-E：出力フィルタコンデンサ\]\] [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に米[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")社が、従来のAT規格\[1\]に代わり、[マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")や電源ユニットなどを含む構造規格として「ATX規格」を制定した。「ATX電源」はその標準規格に準拠して設計・製造された電源ユニットである。取り付けねじの位置やPC筐体における開口部の形状制限、供給電圧、制御信号、コネクタなどは規定されているが、形状はあまり規定されてはおらず、特に供給する電流値は規定されていないため、多様な供給能力の製品が存在する。
+E：出力フィルタコンデンサ\]\] [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に米[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")社が、従来のAT規格\[1\]に代わり、[マザーボード](../Page/マザーボード.md "wikilink")や電源ユニットなどを含む構造規格として「ATX規格」を制定した。「ATX電源」はその標準規格に準拠して設計・製造された電源ユニットである。取り付けねじの位置やPC筐体における開口部の形状制限、供給電圧、制御信号、コネクタなどは規定されているが、形状はあまり規定されてはおらず、特に供給する電流値は規定されていないため、多様な供給能力の製品が存在する。
 
-一般的な電源ユニットは、[金属](../Page/金属.md "wikilink")製の板やパンチングメタルなどの頑丈な筐体を持っており、そのうち1面がPCの外面に露出する前提で作られている。露出面にはAC100-240V等の入力ソケット（[IEC 60320 C14](https://ja.wikipedia.org/wiki/IEC_60320 "wikilink")）を持ち、PC内部側には出力や制御信号線となる十数本単位の給電用電線等、またはそのような電線の接続用ソケットを備える\[2\]。特に外部記憶装置類用の給電用配線は、最端部の給電用コネクタだけでなく、配線途中にもいもづる式に備わっている\[3\]。通常は1基か2基の冷却用送風ファンをいずれかの面に備えており、PC内部または外部から取り込んだ空気で電源ユニット内の熱を奪い、温まった空気をPC外部へ強制排出したりPC内部の気流生成に用いる。1枚程度のプリント基板上に[スイッチング式の電源回路を持ち](https://ja.wikipedia.org/wiki/スイッチング電源 "wikilink")、半導体素子を冷却するためのアルミニウム製の[ヒートシンク](https://ja.wikipedia.org/wiki/ヒートシンク "wikilink")が内部で大きな容積を占めている。1重以上の内部保護回路を持っており、PPFなどが多用され、多くの家電製品のような[ヒューズ](https://ja.wikipedia.org/wiki/ヒューズ "wikilink")は備わっていない。
+一般的な電源ユニットは、[金属](../Page/金属.md "wikilink")製の板やパンチングメタルなどの頑丈な筐体を持っており、そのうち1面がPCの外面に露出する前提で作られている。露出面にはAC100-240V等の入力ソケット（[IEC 60320 C14](https://ja.wikipedia.org/wiki/IEC_60320 "wikilink")）を持ち、PC内部側には出力や制御信号線となる十数本単位の給電用電線等、またはそのような電線の接続用ソケットを備える\[2\]。特に外部記憶装置類用の給電用配線は、最端部の給電用コネクタだけでなく、配線途中にもいもづる式に備わっている\[3\]。通常は1基か2基の冷却用送風ファンをいずれかの面に備えており、PC内部または外部から取り込んだ空気で電源ユニット内の熱を奪い、温まった空気をPC外部へ強制排出したりPC内部の気流生成に用いる。1枚程度のプリント基板上に[スイッチング式の電源回路を持ち](../Page/スイッチング電源.md "wikilink")、半導体素子を冷却するためのアルミニウム製の[ヒートシンク](../Page/ヒートシンク.md "wikilink")が内部で大きな容積を占めている。1重以上の内部保護回路を持っており、PPFなどが多用され、多くの家電製品のような[ヒューズ](../Page/ヒューズ.md "wikilink")は備わっていない。
 
-ATX電源は、市販のデスクトップPCに組み込まれている他にも、[自作パソコン](https://ja.wikipedia.org/wiki/自作パソコン "wikilink")向けや既存製品の改造、修理用などとしてユニット単体が[パソコンショップ](https://ja.wikipedia.org/wiki/パソコンショップ "wikilink")等で販売されている。ATX電源は、総出力や電力変換効率といった電気的な性能の他にも、冷却機構の差などに起因する静穏性や、コンデンサの品質などに起因する信頼性と寿命の差、配線ケーブルの取り回しや装飾的な機能を含むオプションの有無など多様な製品が存在し、これらの要素によって価格も大きく異なる。安い製品では2千円前後から高価なものでは数万円のものまで存在し、高級品では概ね保証期間が長く設定されている。\[4\]
+ATX電源は、市販のデスクトップPCに組み込まれている他にも、[自作パソコン](../Page/自作パソコン.md "wikilink")向けや既存製品の改造、修理用などとしてユニット単体が[パソコンショップ](../Page/パソコンショップ.md "wikilink")等で販売されている。ATX電源は、総出力や電力変換効率といった電気的な性能の他にも、冷却機構の差などに起因する静穏性や、コンデンサの品質などに起因する信頼性と寿命の差、配線ケーブルの取り回しや装飾的な機能を含むオプションの有無など多様な製品が存在し、これらの要素によって価格も大きく異なる。安い製品では2千円前後から高価なものでは数万円のものまで存在し、高級品では概ね保証期間が長く設定されている。\[4\]
 
 ## 仕様
 
@@ -29,10 +29,10 @@ ATX電源は、市販のデスクトップPCに組み込まれている他にも
     [Pentium 4発売以前に主流だった規格](../Page/Pentium_4.md "wikilink")。代表的な規格書は*ATX Specification 2.03 Dec. 1998*。
 
   - ATX12V
-    Pentium 4以降に発売された電源の規格。[マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")に向けて4ピンの＋12V補助電源コネクタを加えた。代表的な規格書は*ATX12V Power Supply Design Guide Version 1.3 Apr. 2003*。
+    Pentium 4以降に発売された電源の規格。[マザーボード](../Page/マザーボード.md "wikilink")に向けて4ピンの＋12V補助電源コネクタを加えた。代表的な規格書は*ATX12V Power Supply Design Guide Version 1.3 Apr. 2003*。
 
   - ATX12V Ver2.x
-    [Intel Core 2以降に発売された電源の規格](https://ja.wikipedia.org/wiki/Intel_Core_2 "wikilink")。主電源コネクタが20ピンから（下記**EPS12V**と同じ）24ピンに変更になり、[シリアルATA](https://ja.wikipedia.org/wiki/シリアルATA "wikilink")用電源コネクタを必須に定めた。代表的な規格書は*Power Supply Design Guide for Desktop Platform Form Factors Revision 1.2 Feb.2008 Page-63 12. ATX12V Specific Guidelines 2.31*。
+    [Intel Core 2以降に発売された電源の規格](../Page/Intel_Core_2.md "wikilink")。主電源コネクタが20ピンから（下記**EPS12V**と同じ）24ピンに変更になり、[シリアルATA](https://ja.wikipedia.org/wiki/シリアルATA "wikilink")用電源コネクタを必須に定めた。代表的な規格書は*Power Supply Design Guide for Desktop Platform Form Factors Revision 1.2 Feb.2008 Page-63 12. ATX12V Specific Guidelines 2.31*。
 
   - CFX12V
 
@@ -113,7 +113,7 @@ ATX電源は、市販のデスクトップPCに組み込まれている他にも
 
 ### EuP Lot6
 
-[欧州連合理事会](https://ja.wikipedia.org/wiki/欧州連合理事会 "wikilink")と[欧州議会](https://ja.wikipedia.org/wiki/欧州議会 "wikilink")が「エネルギー使用製品のエコデザインに関する指令」として知られる[EuP指令](https://ja.wikipedia.org/wiki/EuP指令 "wikilink")、および、その対象範囲を広げた「エネルギー関連製品のエコデザイン指令」つまり、ErP指令がそれぞれ告示・発効されたことによって、欧州域内で使用／販売される広範な電気製品類のエネルギー消費に関する規定が設けられた。この規定によって、欧州域で用いられる（可能性がある）ATX電源は、EuP指令の中でのLot6（オフモード、待機モード電力消費量基準）で示される「オフモードでの消費電力」と「待機モードでの消費電力」がそれぞれ1.00Wを超過しない\[6\]という基準値に適合することが求められるようになった\[7\]。
+[欧州連合理事会](../Page/欧州連合理事会.md "wikilink")と[欧州議会](../Page/欧州議会.md "wikilink")が「エネルギー使用製品のエコデザインに関する指令」として知られる[EuP指令](https://ja.wikipedia.org/wiki/EuP指令 "wikilink")、および、その対象範囲を広げた「エネルギー関連製品のエコデザイン指令」つまり、ErP指令がそれぞれ告示・発効されたことによって、欧州域内で使用／販売される広範な電気製品類のエネルギー消費に関する規定が設けられた。この規定によって、欧州域で用いられる（可能性がある）ATX電源は、EuP指令の中でのLot6（オフモード、待機モード電力消費量基準）で示される「オフモードでの消費電力」と「待機モードでの消費電力」がそれぞれ1.00Wを超過しない\[6\]という基準値に適合することが求められるようになった\[7\]。
 
 ## コネクタ
 
@@ -129,7 +129,7 @@ ATX電源は、市販のデスクトップPCに組み込まれている他にも
     主に3.5インチ[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")ドライブに使用されてきたためこう呼ばれる。ペリフェラル4ピンコネクタよりも小型で、電源ユニットのコネクタの中では最も小さい部類に入る。ペリフェラル4ピンコネクタと同様、拡張カードなどのアクセサリへの電源供給に使われることもある。また、このコネクタを誤って挿したことによるトラブルはよくあることとして知られており、注意が必要である。[Adapter_sata_R7309244_wp.jpg](https://ja.wikipedia.org/wiki/File:Adapter_sata_R7309244_wp.jpg "fig:Adapter_sata_R7309244_wp.jpg")
   - [シリアルATA](https://ja.wikipedia.org/wiki/シリアルATA "wikilink")電源コネクタ
     SATA接続のハードディスクドライブやDVDドライブなどの補助記憶装置に接続するコネクタ。Molexの67582-0000を用いる\[8\]。15ピンで+3.3V(14.85W)、+5V(22.5W)、+12V(54W)を供給する\[9\]。[PCI-E_6pin_8pin.jpg](https://ja.wikipedia.org/wiki/File:PCI-E_6pin_8pin.jpg "fig:PCI-E_6pin_8pin.jpg")
-  - [PCI Express電源コネクタ](https://ja.wikipedia.org/wiki/PCI_Express "wikilink")
+  - [PCI Express電源コネクタ](../Page/PCI_Express.md "wikilink")
     PCI Express接続のグラフィックカードに接続するコネクタ。6ピンと8ピンのものがあり、主に6ピンのコネクタが使われるが、一部のハイエンド[グラフィックカードでは](../Page/ビデオカード.md "wikilink")8ピンのコネクタが必要となる。6ピンのコネクタに別の2ピンのコネクタを組み合わせ、8ピンとしても使えるようにしている製品もある。また、8ピンのものはEPS12V 8ピンコネクタと形状が似ているため、誤接続への注意を促す表示がされている場合が多い。PCI Express x16スロットの75Wでは不足する場合に接続する。6ピンは最大で75W、8ピンでは最大で150Wの電力をグラフィックスカードに供給する\[10\]。
 
 この他に、各社の製品の独自機能として、ケースファン電源供給コネクタ、電源ファン回転数検出用コネクタなどを装備するものもある。
@@ -270,9 +270,9 @@ ATX電源は、市販のデスクトップPCに組み込まれている他にも
 
 ATX電源の給電能力が不足するとPCの故障の原因となる可能性がある。また、給電需要が定格内であっても供給に余裕があまり無ければ電源ユニットが相応に発熱するため、寿命はその分短くなる。供給可能な電流値も各電圧ごとやレーンごとで異なるため、総出力値だけでは判断できない。一般に電力の変換効率は定格出力値の50%付近が最適になるように設計されており\[11\]、電源容量については余裕を持った選択が望ましい。
 
-\+5VSB (*+5V standby voltage*) はシャットダウン後（[ACPI](../Page/Advanced_Configuration_and_Power_Interface.md "wikilink") S3ないしS4モード）も[待機電力](https://ja.wikipedia.org/wiki/待機電力 "wikilink")として常にマザーボードなどに供給され続けているため、部品交換などPC筐体内部に触れる時に主電源スイッチをoffにするか電源プラグを抜くことを怠ると、故障の原因となる恐れがある。また、主電源を切ってもしばらくはコンデンサなどに電気が蓄えられているため、異常な電気的負荷を内部部品にかけることで故障や寿命短縮しないように、PC内部の作業時には主電源を切ってから電源ボタンを空押しすべきとされる\[12\]。
+\+5VSB (*+5V standby voltage*) はシャットダウン後（[ACPI](../Page/Advanced_Configuration_and_Power_Interface.md "wikilink") S3ないしS4モード）も[待機電力](../Page/待機電力.md "wikilink")として常にマザーボードなどに供給され続けているため、部品交換などPC筐体内部に触れる時に主電源スイッチをoffにするか電源プラグを抜くことを怠ると、故障の原因となる恐れがある。また、主電源を切ってもしばらくはコンデンサなどに電気が蓄えられているため、異常な電気的負荷を内部部品にかけることで故障や寿命短縮しないように、PC内部の作業時には主電源を切ってから電源ボタンを空押しすべきとされる\[12\]。
 
-製品に記される品質と安全の証明となる様々なマークは、[ULマークと](https://ja.wikipedia.org/wiki/アメリカ保険業者安全試験所 "wikilink")、[GS](../Page/GS.md "wikilink")マーク、[TÜV](https://ja.wikipedia.org/wiki/技術検査協会 "wikilink")、[NEMKO](https://ja.wikipedia.org/wiki/NEMKO "wikilink")、[SEMKO](https://ja.wikipedia.org/wiki/SEMKO "wikilink")、[DEMKO](https://ja.wikipedia.org/wiki/DEMKO "wikilink")、[FIMKO](https://ja.wikipedia.org/wiki/FIMKO "wikilink")、[CCC](https://ja.wikipedia.org/wiki/CCC制度 "wikilink")、[CSA](https://ja.wikipedia.org/wiki/カナダ規格協会 "wikilink")、[VDE](https://ja.wikipedia.org/wiki/VDE "wikilink")、[GOST R](https://ja.wikipedia.org/wiki/GOST規格 "wikilink")、そして[BSMI](https://ja.wikipedia.org/wiki/BSMI "wikilink")。 [EMI/RFI](https://ja.wikipedia.org/wiki/EMI/RFI "wikilink")のための一般的な証明書マークは、[CEマーク](https://ja.wikipedia.org/wiki/CEマーク "wikilink")と、[FCCと](https://ja.wikipedia.org/wiki/連邦通信委員会 "wikilink")、[C-tick](https://ja.wikipedia.org/wiki/C-tick "wikilink")である。これらのマークは商用電源に接続される電源機器に必須とされるものが各国で制定されており、品質検査を受けた証として認定されたものに表示が許される。
+製品に記される品質と安全の証明となる様々なマークは、[ULマークと](https://ja.wikipedia.org/wiki/アメリカ保険業者安全試験所 "wikilink")、[GS](../Page/GS.md "wikilink")マーク、[TÜV](https://ja.wikipedia.org/wiki/技術検査協会 "wikilink")、[NEMKO](https://ja.wikipedia.org/wiki/NEMKO "wikilink")、[SEMKO](https://ja.wikipedia.org/wiki/SEMKO "wikilink")、[DEMKO](https://ja.wikipedia.org/wiki/DEMKO "wikilink")、[FIMKO](https://ja.wikipedia.org/wiki/FIMKO "wikilink")、[CCC](https://ja.wikipedia.org/wiki/CCC制度 "wikilink")、[CSA](https://ja.wikipedia.org/wiki/カナダ規格協会 "wikilink")、[VDE](https://ja.wikipedia.org/wiki/VDE "wikilink")、[GOST R](https://ja.wikipedia.org/wiki/GOST規格 "wikilink")、そして[BSMI](https://ja.wikipedia.org/wiki/BSMI "wikilink")。 [EMI/RFI](https://ja.wikipedia.org/wiki/EMI/RFI "wikilink")のための一般的な証明書マークは、[CEマーク](../Page/CEマーク.md "wikilink")と、[FCCと](../Page/連邦通信委員会.md "wikilink")、[C-tick](https://ja.wikipedia.org/wiki/C-tick "wikilink")である。これらのマークは商用電源に接続される電源機器に必須とされるものが各国で制定されており、品質検査を受けた証として認定されたものに表示が許される。
 
 ### 80 PLUS
 
@@ -298,7 +298,7 @@ ATX電源の給電能力が不足するとPCの故障の原因となる可能性
 
 また、ACPIのC-State C6/C7において+12Vの最小電流0.05Aをサポートする必要がある\[14\]。
 
-[GPUのCPU内蔵化](../Page/Graphics_Processing_Unit.md "wikilink")（すなわち[グラフィックボード不使用](../Page/ビデオカード.md "wikilink")）やPCの[ストレージが](../Page/補助記憶装置.md "wikilink")[HDDから](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")[SSDに移行した事で](https://ja.wikipedia.org/wiki/ソリッドステートドライブ "wikilink")+12Vの消費が従来よりも減っている（+12VをSSDは使用しない）事も遠因となっている。
+[GPUのCPU内蔵化](../Page/Graphics_Processing_Unit.md "wikilink")（すなわち[グラフィックボード不使用](../Page/ビデオカード.md "wikilink")）やPCの[ストレージが](../Page/補助記憶装置.md "wikilink")[HDDから](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")[SSDに移行した事で](../Page/ソリッドステートドライブ.md "wikilink")+12Vの消費が従来よりも減っている（+12VをSSDは使用しない）事も遠因となっている。
 
 以上のような状況を背景とし、前述の状況下でも安定した出力を行える電源ユニットを「Haswell対応」としてうたっている製品がある。\[15\]
 

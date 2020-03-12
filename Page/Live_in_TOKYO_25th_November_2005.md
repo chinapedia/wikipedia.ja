@@ -1,13 +1,13 @@
 > この記事は[Live in TOKYO 25th November 2005](https://ja.wikipedia.org/wiki/Live_in_TOKYO_25th_November_2005)から翻訳されています。
 
 
-**Live in TOKYO 25th November 2005** (UWR-0500007-3)は、[アンダーワールドの](https://ja.wikipedia.org/wiki/アンダーワールド_\(バンド\) "wikilink")[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月25日](../Page/11月25日.md "wikilink")の[electraglide2005](https://ja.wikipedia.org/wiki/エレクトラグライド "wikilink")[幕張メッセ](../Page/幕張メッセ.md "wikilink")公演での3時間の演奏を[CD](../Page/コンパクトディスク.md "wikilink")3枚組に完全収録している。この幕張公演と翌日の[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")大阪ATCホール公演の来場者のみを対象に予約販売、受注生産された。
+**Live in TOKYO 25th November 2005** (UWR-0500007-3)は、[アンダーワールドの](../Page/アンダーワールド_\(バンド\).md "wikilink")[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")の[electraglide2005](https://ja.wikipedia.org/wiki/エレクトラグライド "wikilink")[幕張メッセ](../Page/幕張メッセ.md "wikilink")公演での3時間の演奏を[CD](../Page/コンパクトディスク.md "wikilink")3枚組に完全収録している。この幕張公演と翌日の[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")大阪ATCホール公演の来場者のみを対象に予約販売、受注生産された。
 
 販売価格は3,000円(送料、消費税込)で、約7000セット生産された。
 
 ## 収録曲
 
-特筆無い限り、全曲[Underworld作曲](https://ja.wikipedia.org/wiki/アンダーワールド_\(バンド\) "wikilink")
+特筆無い限り、全曲[Underworld作曲](../Page/アンダーワールド_\(バンド\).md "wikilink")
 
 ### Disc 1
 

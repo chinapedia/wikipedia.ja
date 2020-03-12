@@ -3,7 +3,7 @@
 
 **Webコンテナ**（ウェブコンテナ、）とは、[Java Platform, Enterprise Edition](../Page/Java_Platform,_Enterprise_Edition.md "wikilink") (Java EE) アーキテクチャのWebコンポーネント規約を実装する[ソフトウェア](../Page/ソフトウェア.md "wikilink")\[1\]。[Java Servletの実行環境となることから](../Page/Java_Servlet.md "wikilink")**Servletコンテナ**（サーブレットコンテナ、）とも呼ばれる。
 
-この規約では、[コンピュータセキュリティ](../Page/コンピュータセキュリティ.md "wikilink")、[並列性](https://ja.wikipedia.org/wiki/並列性 "wikilink")、[ライフサイクル](https://ja.wikipedia.org/wiki/ライフサイクル "wikilink")管理、[トランザクション処理](https://ja.wikipedia.org/wiki/トランザクション処理 "wikilink")、デプロイやその他のサービスを含むWebコンポーネントの実行環境を規定している。WebコンテナはJava EEプラットフォーム[APIを利用した](../Page/アプリケーションプログラミングインタフェース.md "wikilink")[JSPコンテナとしての機能も提供する](../Page/JavaServer_Pages.md "wikilink")。
+この規約では、[コンピュータセキュリティ](../Page/コンピュータセキュリティ.md "wikilink")、[並列性](https://ja.wikipedia.org/wiki/並列性 "wikilink")、[ライフサイクル](../Page/ライフサイクル.md "wikilink")管理、[トランザクション処理](../Page/トランザクション処理.md "wikilink")、デプロイやその他のサービスを含むWebコンポーネントの実行環境を規定している。WebコンテナはJava EEプラットフォーム[APIを利用した](../Page/アプリケーションプログラミングインタフェース.md "wikilink")[JSPコンテナとしての機能も提供する](../Page/JavaServer_Pages.md "wikilink")。
 
 ## 主なWebコンテナ
 
@@ -11,9 +11,9 @@
 
   - [Apache Tomcat](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink")
   - [GlassFish](https://ja.wikipedia.org/wiki/GlassFish "wikilink")
-  - [JBoss](https://ja.wikipedia.org/wiki/JBoss "wikilink")
+  - [JBoss](../Page/JBoss.md "wikilink")
   - [Jetty](https://ja.wikipedia.org/wiki/Jetty "wikilink")
-  - [WebSphere Application Server](https://ja.wikipedia.org/wiki/WebSphere_Application_Server "wikilink")
+  - [WebSphere Application Server](../Page/WebSphere_Application_Server.md "wikilink")
 
 ## 脚注
 
@@ -22,7 +22,7 @@
   - [Java Servlet](../Page/Java_Servlet.md "wikilink")
   - [Enterprise JavaBeans](../Page/Enterprise_JavaBeans.md "wikilink")
   - [Webサーバ](../Page/Webサーバ.md "wikilink")
-  - [アプリケーションサーバ](https://ja.wikipedia.org/wiki/アプリケーションサーバ "wikilink")
+  - [アプリケーションサーバ](../Page/アプリケーションサーバ.md "wikilink")
 
 ## 外部リンク
 

@@ -1,13 +1,13 @@
 > この記事は[Affection](https://ja.wikipedia.org/wiki/Affection)から翻訳されています。
 
 
-『**affection**』（アフェクション）は、[2002年](../Page/2002年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の1枚目の[オリジナル・アルバムである](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。発売元は[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
+『**affection**』（アフェクション）は、[2002年](../Page/2002年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の1枚目の[オリジナル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")。発売元は[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 解説
 
-[Thunderpuss（サンダーパス）が](https://ja.wikipedia.org/wiki/:en:Thunderpuss "wikilink")[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")を手がけた英語バージョンが[全米](https://ja.wikipedia.org/wiki/全米 "wikilink")[Billboard](https://ja.wikipedia.org/wiki/Billboard "wikilink")（ビルボード）誌の所謂クラブミュージックのみを対象としたチャート"Club Play Chart"（あくまで主戦チャートではなく、[ジャンル](../Page/ジャンル.md "wikilink")ごとに細分化された数あるチャートの1つ）にランクインした1stシングル「[TAKE BACK](https://ja.wikipedia.org/wiki/TAKE_BACK "wikilink")」と2ndシングル「[Trust Your Love](https://ja.wikipedia.org/wiki/Trust_Your_Love "wikilink")」をはじめ、既発表曲5曲を含む全14（初回盤は16）曲が収録されている。
+[Thunderpuss（サンダーパス）が](https://ja.wikipedia.org/wiki/:en:Thunderpuss "wikilink")[リミックス](../Page/リミックス.md "wikilink")を手がけた英語バージョンが[全米](https://ja.wikipedia.org/wiki/全米 "wikilink")[Billboard](https://ja.wikipedia.org/wiki/Billboard "wikilink")（ビルボード）誌の所謂クラブミュージックのみを対象としたチャート"Club Play Chart"（あくまで主戦チャートではなく、[ジャンル](../Page/ジャンル.md "wikilink")ごとに細分化された数あるチャートの1つ）にランクインした1stシングル「[TAKE BACK](../Page/TAKE_BACK.md "wikilink")」と2ndシングル「[Trust Your Love](../Page/Trust_Your_Love.md "wikilink")」をはじめ、既発表曲5曲を含む全14（初回盤は16）曲が収録されている。
 
-初回盤はスリーブケース仕様、[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")には「TAKE BACK」と「Trust Your Love」の英語バージョンが収録されている。なお初回盤に限っては現在入手困難となっている。
+初回盤はスリーブケース仕様、[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")には「TAKE BACK」と「Trust Your Love」の英語バージョンが収録されている。なお初回盤に限っては現在入手困難となっている。
 
 当時は彼女がまだテレビ出演する事が一切なく、夜遅くまで、クラブ等で歌い回っていた。酷い時にはビールを入れる籠の上に板を敷いただけの物の上に乗って歌っていたらしく、観客が3人しかいなかった事もあったと言う辛い下積み時代が続いていた。
 
@@ -16,25 +16,25 @@
 ※は初回盤のみ収録
 
 1.  **atomic energy** – 1:33
-      - 作曲・編曲:[原田憲](https://ja.wikipedia.org/wiki/原田憲_\(ミュージシャン\) "wikilink")
+      - 作曲・編曲:[原田憲](../Page/原田憲_\(ミュージシャン\).md "wikilink")
     <!-- end list -->
       -
         インスト。
-2.  **[Trust Your Love](https://ja.wikipedia.org/wiki/Trust_Your_Love "wikilink")** – 4:27
-      - 作詞:倖田來未 / 作曲:[菊池一仁](https://ja.wikipedia.org/wiki/菊池一仁 "wikilink") / 編曲:[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
+2.  **[Trust Your Love](../Page/Trust_Your_Love.md "wikilink")** – 4:27
+      - 作詞:倖田來未 / 作曲:[菊池一仁](../Page/菊池一仁.md "wikilink") / 編曲:[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
     <!-- end list -->
       -
         2ndシングル。
 3.  **Go Together** – 4:40
-      - 作詞:倖田來未 / 作曲・編曲:[原一博](https://ja.wikipedia.org/wiki/原一博 "wikilink")
-4.  **[Your Song](https://ja.wikipedia.org/wiki/TAKE_BACK "wikilink")** – 5:18
+      - 作詞:倖田來未 / 作曲・編曲:[原一博](../Page/原一博.md "wikilink")
+4.  **[Your Song](../Page/TAKE_BACK.md "wikilink")** – 5:18
       - 作詞:倖田來未 / 作曲:KAIDO / 編曲:h-wonder
     <!-- end list -->
       -
         1stシングルのカップリング曲。
 5.  **feel me** – 4:20
-      - 作詞:倖田來未 / 作曲:[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink") / 編曲:h-wonder
-6.  **[COLOR OF SOUL](https://ja.wikipedia.org/wiki/COLOR_OF_SOUL "wikilink")** – 4:28
+      - 作詞:倖田來未 / 作曲:[渡辺未来](../Page/渡辺未来.md "wikilink") / 編曲:h-wonder
+6.  **[COLOR OF SOUL](../Page/COLOR_OF_SOUL.md "wikilink")** – 4:28
       - 作詞:渡辺なつみ / 作曲:渡辺未来 / 編曲:h-wonder
     <!-- end list -->
       -
@@ -46,7 +46,7 @@
     <!-- end list -->
       -
         [佐藤製薬](../Page/佐藤製薬.md "wikilink")「ストナリニ」CMソング
-9.  **[So Into You](https://ja.wikipedia.org/wiki/So_Into_You "wikilink")** – 4:31
+9.  **[So Into You](../Page/So_Into_You.md "wikilink")** – 4:31
       - 作詞:倖田來未 / 作曲:阿部靖広 / 編曲:h-wonder
     <!-- end list -->
       -
@@ -59,7 +59,7 @@
         初のフィーチャリング楽曲。
 11. **come back** – 5:36
       - 作詞:倖田來未 / 作曲:渡辺未来 / 編曲:h-wonder
-12. **[TAKE BACK](https://ja.wikipedia.org/wiki/TAKE_BACK "wikilink")** – 4:56
+12. **[TAKE BACK](../Page/TAKE_BACK.md "wikilink")** – 4:56
       - 作詞:倖田來未 / 作曲:菊池一仁 / 編曲:h-wonder
     <!-- end list -->
       -

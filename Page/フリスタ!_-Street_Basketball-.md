@@ -1,18 +1,18 @@
 > この記事は[! -Street Basketball-](https://ja.wikipedia.org/wiki/!_-Street_Basketball-)から翻訳されています。
 
 
-**フリスタ\!プラス -Street Basketball-**とは、JC Globalが運営している[オンライン](../Page/オンライン.md "wikilink")の[バスケットボール](../Page/バスケットボール.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")。一部有料。主な略称は「フリスタ」「FS」。[ハンゲーム](https://ja.wikipedia.org/wiki/ハンゲーム "wikilink")が運営していた*Freestyle*はこのゲームの前身。
+**フリスタ\!プラス -Street Basketball-**とは、JC Globalが運営している[オンライン](../Page/オンライン.md "wikilink")の[バスケットボール](../Page/バスケットボール.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")。一部有料。主な略称は「フリスタ」「FS」。[ハンゲーム](../Page/ハンゲーム.md "wikilink")が運営していた*Freestyle*はこのゲームの前身。
 
 ## 概要
 
 ### ルール
 
-[1on1](https://ja.wikipedia.org/wiki/1on1 "wikilink")から[3on3](https://ja.wikipedia.org/wiki/3on3 "wikilink")のバスケットボールが[プレイ](https://ja.wikipedia.org/wiki/プレイ "wikilink")出来る。それぞれの試合時間は1on1は3分、[2on2](https://ja.wikipedia.org/wiki/2on2 "wikilink")なら4分、3on3なら5分となっている。[ルール](https://ja.wikipedia.org/wiki/ルール "wikilink")に[ファウル](https://ja.wikipedia.org/wiki/ファウル "wikilink")は特になく、気軽にバスケットボール未経験の人でも楽しめる設定になっている。
+[1on1](https://ja.wikipedia.org/wiki/1on1 "wikilink")から[3on3](https://ja.wikipedia.org/wiki/3on3 "wikilink")のバスケットボールが[プレイ](../Page/プレイ.md "wikilink")出来る。それぞれの試合時間は1on1は3分、[2on2](https://ja.wikipedia.org/wiki/2on2 "wikilink")なら4分、3on3なら5分となっている。[ルール](../Page/ルール.md "wikilink")に[ファウル](https://ja.wikipedia.org/wiki/ファウル "wikilink")は特になく、気軽にバスケットボール未経験の人でも楽しめる設定になっている。
 
 ### Freestyleからの変更点
 
   - キー設定が可能。前作のW,A,S,Dではやりづらかった人も自ら設定することが出来る。
-  - [スルーパス](https://ja.wikipedia.org/wiki/スルーパス "wikilink")やバックロールドリブル2等の主要SP限定スキルがBPでも買えるようになり、[ウェブマネー](https://ja.wikipedia.org/wiki/ウェブマネー "wikilink")の購入に躊躇いがある人や資金の乏しい小中学生への対処と見られる。
+  - [スルーパス](https://ja.wikipedia.org/wiki/スルーパス "wikilink")やバックロールドリブル2等の主要SP限定スキルがBPでも買えるようになり、[ウェブマネー](../Page/ウェブマネー.md "wikilink")の購入に躊躇いがある人や資金の乏しい小中学生への対処と見られる。
   - エピソードモードやミッションモード等，一人プレイが可能。
   - 練習モード専用の部屋(フリスタ広場)が設立され、練習が1人だけでなく複数人でも可能になる。この部屋が出来たことによりブロックショットの練習や固定メンバーの場合連携練習などが可能になった。
   - クラブチームの実装
@@ -59,7 +59,7 @@
 
 ## 関連項目
 
-  - [ハンゲーム](https://ja.wikipedia.org/wiki/ハンゲーム "wikilink")
+  - [ハンゲーム](../Page/ハンゲーム.md "wikilink")
   - [バスケットボール](../Page/バスケットボール.md "wikilink")
 
 ## 外部リンク

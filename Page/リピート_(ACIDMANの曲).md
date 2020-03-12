@@ -7,7 +7,7 @@
 
 [CCCDでのリリース](../Page/コピーコントロールCD.md "wikilink")。
 
-初回生産限定盤には「リピート」の[プロモーション・クリップや](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、メイキング、ライブ映像、[是枝裕和](../Page/是枝裕和.md "wikilink")とのトーク・セッション、2ndアルバムのコンセプト及びアルバムまでのヒストリーなどの断片的なヒントとなる映像を収録したDVDフライヤーが付属\[1\]。
+初回生産限定盤には「リピート」の[プロモーション・クリップや](../Page/ミュージック・ビデオ.md "wikilink")、メイキング、ライブ映像、[是枝裕和](../Page/是枝裕和.md "wikilink")とのトーク・セッション、2ndアルバムのコンセプト及びアルバムまでのヒストリーなどの断片的なヒントとなる映像を収録したDVDフライヤーが付属\[1\]。
 
 ## 収録曲
 
@@ -15,7 +15,7 @@
 
 1.  **波、白く**(4:06)\]
       -
-        [ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")が制作されており、映像作品『[Scene of Loop](../Page/Scene_of_Loop.md "wikilink")』に収録されている。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が制作されており、映像作品『[Scene of Loop](../Page/Scene_of_Loop.md "wikilink")』に収録されている。
 2.  **リピート**(6:40)
       -
         20周年記念作品として制作されたベスト・アルバム『[ACIDMAN 20th Anniversary Fans' Best Selection Album "Your Song"](https://ja.wikipedia.org/wiki/ACIDMAN_20th_Anniversary_Fans'_Best_Selection_Album_"Your_Song" "wikilink")』の収録曲を決めるファン投票では、20位にランクインし収録された。このことについて大木は「自分的に一番入れたい曲だったから、ギリギリランクインしてくれてよかった。」とコメントしている\[2\]。
@@ -25,12 +25,12 @@
 
 **波、白く**
 
-  - [Loop](https://ja.wikipedia.org/wiki/Loop_\(アルバム\) "wikilink")
+  - [Loop](../Page/Loop_\(アルバム\).md "wikilink")
   - [ACIDMAN THE BEST](https://ja.wikipedia.org/wiki/ACIDMAN_THE_BEST "wikilink")
 
 **リピート**
 
-  - [Loop](https://ja.wikipedia.org/wiki/Loop_\(アルバム\) "wikilink")
+  - [Loop](../Page/Loop_\(アルバム\).md "wikilink")
   - [Second line & Acoustic collection II](https://ja.wikipedia.org/wiki/Second_line_&_Acoustic_collection_II "wikilink")（リピート（Second line）feat.ホリエアツシ）
   - [ACIDMAN THE BEST](https://ja.wikipedia.org/wiki/ACIDMAN_THE_BEST "wikilink")
   - [ACIDMAN 20th Anniversary Fans' Best Selection Album "Your Song"](https://ja.wikipedia.org/wiki/ACIDMAN_20th_Anniversary_Fans'_Best_Selection_Album_"Your_Song" "wikilink")

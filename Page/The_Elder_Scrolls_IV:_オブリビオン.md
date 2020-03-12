@@ -5,69 +5,69 @@
 
 ## 概要
 
-本作品は、[1994年](../Page/1994年.md "wikilink")に第1作が発売された『[The Elder Scrolls](https://ja.wikipedia.org/wiki/The_Elder_Scrolls "wikilink")』のメインシリーズの第4作目かつ、[The Elder Scrolls III: Morrowind](https://ja.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind "wikilink") の続編にあたる。[米国では](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[Windows版と](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Xbox 360版が](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に、[PS3版が](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に発売され、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも[スパイク社の翻訳によってXbox](../Page/スパイク_\(ゲーム会社\).md "wikilink") 360版とPS3版に限り2007年に発売された。
+本作品は、[1994年](../Page/1994年.md "wikilink")に第1作が発売された『[The Elder Scrolls](https://ja.wikipedia.org/wiki/The_Elder_Scrolls "wikilink")』のメインシリーズの第4作目かつ、[The Elder Scrolls III: Morrowind](https://ja.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind "wikilink") の続編にあたる。[米国では](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[Windows版と](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Xbox 360版が](../Page/Xbox_360.md "wikilink")[2006年](../Page/2006年.md "wikilink")に、[PS3版が](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[2007年](../Page/2007年.md "wikilink")に発売され、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも[スパイク社の翻訳によってXbox](../Page/スパイク_\(ゲーム会社\).md "wikilink") 360版とPS3版に限り2007年に発売された。
 
 世界で累計300万本以上の出荷を記録し\[1\]、複数の国際的な賞でGame of the Yearを受賞、「[GameSpot](https://ja.wikipedia.org/wiki/GameSpot "wikilink")」誌は本作を「史上最高のRPGの一つ」と評した\[2\]。
 
-『オブリビオン（Planes of Oblivion ）』とはThe Elder Scrollsの世界における異界で、 [プレイヤーキャラクター](../Page/プレイヤーキャラクター.md "wikilink")が存在し現実世界の地球に相当する世界ニルン（Nirn）に対する別次元の世界。プレイヤーキャラクターはその別次元の世界へと通じる扉「オブリビオンゲート」から襲来するデイドラやドレモラたちからシロディール[世界](../Page/世界.md "wikilink")を守るため、失われた帝位継承者を見つけ出し、世界を破滅へと導く陰謀を阻止する。ゲーム内の[ノンプレイヤーキャラクター](https://ja.wikipedia.org/wiki/ノンプレイヤーキャラクター "wikilink")（NPC）は1,000人にも及び、1人1人自らの意志を持ち生活をする。ゲーム中、[プレイヤー](https://ja.wikipedia.org/wiki/プレイヤー "wikilink")の行動は[ストーリー](https://ja.wikipedia.org/wiki/ストーリー "wikilink")による制約を受けないため、必然的にプレイヤーごとのストーリーを描く事になる。プレイヤーの行動の自由度の高さと、Radiant AIと呼ばれるNPCの[人工知能](../Page/人工知能.md "wikilink")システムを大きな特徴としている。
+『オブリビオン（Planes of Oblivion ）』とはThe Elder Scrollsの世界における異界で、 [プレイヤーキャラクター](../Page/プレイヤーキャラクター.md "wikilink")が存在し現実世界の地球に相当する世界ニルン（Nirn）に対する別次元の世界。プレイヤーキャラクターはその別次元の世界へと通じる扉「オブリビオンゲート」から襲来するデイドラやドレモラたちからシロディール[世界](../Page/世界.md "wikilink")を守るため、失われた帝位継承者を見つけ出し、世界を破滅へと導く陰謀を阻止する。ゲーム内の[ノンプレイヤーキャラクター](../Page/ノンプレイヤーキャラクター.md "wikilink")（NPC）は1,000人にも及び、1人1人自らの意志を持ち生活をする。ゲーム中、[プレイヤー](https://ja.wikipedia.org/wiki/プレイヤー "wikilink")の行動は[ストーリー](https://ja.wikipedia.org/wiki/ストーリー "wikilink")による制約を受けないため、必然的にプレイヤーごとのストーリーを描く事になる。プレイヤーの行動の自由度の高さと、Radiant AIと呼ばれるNPCの[人工知能](../Page/人工知能.md "wikilink")システムを大きな特徴としている。
 
 続編の『[The Elder Scrolls V: Skyrim](https://ja.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim "wikilink")』は2011年11月11日に英語版、同年の12月8日に日本語版が発売された。
 
 ## 日本での発売
 
   - 発売までの経緯
-    数々の賞を受賞し既に海外で高い評価を得ていた本作品だが、[日本語](../Page/日本語.md "wikilink")化にあたって困難が付きまとった。スパイクの高橋徹（元[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")社員。『GTA3』をPS2で日本に紹介した仕掛け人。2008年2月、ゼニマックス・アジアのゼネラルマネージャーに就任）は雑誌インタビューに「膨大な[テキスト](../Page/テキスト.md "wikilink")量を訳しても、それに見合った[コスト](https://ja.wikipedia.org/wiki/コスト "wikilink")を捻出できないだろうと思っていて[ローカライズ](https://ja.wikipedia.org/wiki/ローカライズ "wikilink")に踏み出せなかった」とあるように、当初[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")での発売は困難とされていた。
-    しかし、輸入版をプレイしたユーザからのクチコミ、およびその評判の高さにより徐々に日本語版での発売が切望されるようになった。「[たのみこむ](https://ja.wikipedia.org/wiki/たのみこむ "wikilink")」でのユーザ達の署名活動では賛同者が800人以上にもなり、元々海外でもXbox 360、PS3などの[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")で発売されていたのが後押しとなり、[スパイクが日本語版の発売を決定](../Page/スパイク_\(ゲーム会社\).md "wikilink")、リリースを表明した。ただしPCの日本語版は発売されていない。
+    数々の賞を受賞し既に海外で高い評価を得ていた本作品だが、[日本語](../Page/日本語.md "wikilink")化にあたって困難が付きまとった。スパイクの高橋徹（元[カプコン](../Page/カプコン.md "wikilink")社員。『GTA3』をPS2で日本に紹介した仕掛け人。2008年2月、ゼニマックス・アジアのゼネラルマネージャーに就任）は雑誌インタビューに「膨大な[テキスト](../Page/テキスト.md "wikilink")量を訳しても、それに見合った[コスト](https://ja.wikipedia.org/wiki/コスト "wikilink")を捻出できないだろうと思っていて[ローカライズ](https://ja.wikipedia.org/wiki/ローカライズ "wikilink")に踏み出せなかった」とあるように、当初[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")での発売は困難とされていた。
+    しかし、輸入版をプレイしたユーザからのクチコミ、およびその評判の高さにより徐々に日本語版での発売が切望されるようになった。「[たのみこむ](../Page/たのみこむ.md "wikilink")」でのユーザ達の署名活動では賛同者が800人以上にもなり、元々海外でもXbox 360、PS3などの[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")で発売されていたのが後押しとなり、[スパイクが日本語版の発売を決定](../Page/スパイク_\(ゲーム会社\).md "wikilink")、リリースを表明した。ただしPCの日本語版は発売されていない。
   - フォントサイズ
-    [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月26日](../Page/7月26日.md "wikilink")に日本語ローカライズされたXbox360版が同社より発売されたが、日本語の[フォント](../Page/フォント.md "wikilink")サイズが小さく、文字を表示するウインドウの[色](../Page/色.md "wikilink")とフォントの色が相殺し、読みづらい[楷書体](../Page/楷書体.md "wikilink")フォントを使用している為、接続がコンポジット入力では（[テレビ](../Page/テレビ.md "wikilink")によっては接続が[D端子](../Page/D端子.md "wikilink")入力でも）テレビが大型のものであっても文字が読みにくいと苦情が殺到した。これを受けてスパイクは、「フォントに割かれる[メモリ](https://ja.wikipedia.org/wiki/メモリ "wikilink")が足りず、フォントサイズを大きくすることは出来ないが、読みやすくする為の[パッチ](https://ja.wikipedia.org/wiki/パッチ "wikilink")ファイルの作成を検討中である」と発表し、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[11月27日](../Page/11月27日.md "wikilink")に[Xbox Liveを通じてパッチが配信され](https://ja.wikipedia.org/wiki/Xbox_Live "wikilink")、従来の[楷書体](../Page/楷書体.md "wikilink")から[丸ゴシック体](https://ja.wikipedia.org/wiki/丸ゴシック体 "wikilink")へフォントが変更された。
+    [2007年](../Page/2007年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に日本語ローカライズされたXbox360版が同社より発売されたが、日本語の[フォント](../Page/フォント.md "wikilink")サイズが小さく、文字を表示するウインドウの[色](../Page/色.md "wikilink")とフォントの色が相殺し、読みづらい[楷書体](../Page/楷書体.md "wikilink")フォントを使用している為、接続がコンポジット入力では（[テレビ](../Page/テレビ.md "wikilink")によっては接続が[D端子](../Page/D端子.md "wikilink")入力でも）テレビが大型のものであっても文字が読みにくいと苦情が殺到した。これを受けてスパイクは、「フォントに割かれる[メモリ](https://ja.wikipedia.org/wiki/メモリ "wikilink")が足りず、フォントサイズを大きくすることは出来ないが、読みやすくする為の[パッチ](../Page/パッチ.md "wikilink")ファイルの作成を検討中である」と発表し、[2007年](../Page/2007年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に[Xbox Liveを通じてパッチが配信され](../Page/Xbox_Live.md "wikilink")、従来の[楷書体](../Page/楷書体.md "wikilink")から[丸ゴシック体](../Page/丸ゴシック体.md "wikilink")へフォントが変更された。
   - 日本法人の設立
-    2008年にベセスダ・ソフトワークスの親会社[Zenimax Media社が日本法人](https://ja.wikipedia.org/wiki/:en:Zenimax_Media "wikilink")（ゼニマックス・アジア）を設立したため、本作の[廉価版](https://ja.wikipedia.org/wiki/廉価版 "wikilink")（Xbox 360 プラチナコレクションは2008年7月10日、PLAYSTATION 3 the Bestは同9月4日）および後述の拡張パック/同梱版の発売元はスパイクからベセスダ・ソフトワークス／ゼニマックス・アジアに移った。
+    2008年にベセスダ・ソフトワークスの親会社[Zenimax Media社が日本法人](https://ja.wikipedia.org/wiki/:en:Zenimax_Media "wikilink")（ゼニマックス・アジア）を設立したため、本作の[廉価版](../Page/廉価版.md "wikilink")（Xbox 360 プラチナコレクションは2008年7月10日、PLAYSTATION 3 the Bestは同9月4日）および後述の拡張パック/同梱版の発売元はスパイクからベセスダ・ソフトワークス／ゼニマックス・アジアに移った。
   - オフィシャルアドオンとバグ
     拡張パック『シヴァリング・アイルズ』および、本編に拡張パックを同梱した『Game of the Year Edition』がXbox 360・PS3版ともに2008年10月30日に発売される予定だったが、2009年12月24日に公式サイト上で拡張パックは開発中止と発表された。 『Game of the Year Edition』は2010年4月22日に発売となったが、PS3版のみ一部の効果音が無くなっているというバグが複数報告されている
   - Mod対応
-    日本語版は家庭用ゲーム機にしか対応していないため、家庭用ゲーム機版では、PC版とは違い、上記オフィシャルアドオンを除き、[The Elder Scrolls Construction Setで個人が開発した](https://ja.wikipedia.org/wiki/The_Elder_Scrolls_Construction_Set "wikilink")[Modをインストールして動かすことはできない](https://ja.wikipedia.org/wiki/Mod_\(コンピュータゲーム\) "wikilink")。PlayStation3 版では DLCの一つ "Fighter's Stronghold" が対応していない。
+    日本語版は家庭用ゲーム機にしか対応していないため、家庭用ゲーム機版では、PC版とは違い、上記オフィシャルアドオンを除き、[The Elder Scrolls Construction Setで個人が開発した](https://ja.wikipedia.org/wiki/The_Elder_Scrolls_Construction_Set "wikilink")[Modをインストールして動かすことはできない](../Page/Mod_\(コンピュータゲーム\).md "wikilink")。PlayStation3 版では DLCの一つ "Fighter's Stronghold" が対応していない。
 
 ## システム
 
 ### Radiant AI
 
-本作を特徴づける最大の[システム](../Page/システム.md "wikilink")は、Radiant AIと呼ばれる[人工知能システムである](https://ja.wikipedia.org/wiki/コンピュータゲームにおける人工知能 "wikilink")。NPCはある類型に従った[AIを](../Page/人工知能.md "wikilink")、一部のNPCは独自のAIを保有し、それに従って生活している。まず[朝](https://ja.wikipedia.org/wiki/朝 "wikilink")には[自宅](https://ja.wikipedia.org/wiki/自宅 "wikilink")で目覚め、日中は[商売](https://ja.wikipedia.org/wiki/商売 "wikilink")をしたり[畑](https://ja.wikipedia.org/wiki/畑 "wikilink")を耕したりし、[夜](https://ja.wikipedia.org/wiki/夜 "wikilink")になれば[酒場](https://ja.wikipedia.org/wiki/酒場 "wikilink")で一杯して眠る、といったようにそれぞれがリズムに従った生活をしている。2人のNPCが出会うと、ストーリーの進展に応じた世間話を始めたりもする。
+本作を特徴づける最大の[システム](../Page/システム.md "wikilink")は、Radiant AIと呼ばれる[人工知能システムである](https://ja.wikipedia.org/wiki/コンピュータゲームにおける人工知能 "wikilink")。NPCはある類型に従った[AIを](../Page/人工知能.md "wikilink")、一部のNPCは独自のAIを保有し、それに従って生活している。まず[朝](../Page/朝.md "wikilink")には[自宅](https://ja.wikipedia.org/wiki/自宅 "wikilink")で目覚め、日中は[商売](https://ja.wikipedia.org/wiki/商売 "wikilink")をしたり[畑](https://ja.wikipedia.org/wiki/畑 "wikilink")を耕したりし、[夜](../Page/夜.md "wikilink")になれば[酒場](../Page/酒場.md "wikilink")で一杯して眠る、といったようにそれぞれがリズムに従った生活をしている。2人のNPCが出会うと、ストーリーの進展に応じた世間話を始めたりもする。
 
-あまり善良でないAIを設定されたNPCは[スリ](https://ja.wikipedia.org/wiki/スリ "wikilink")や[殺人](https://ja.wikipedia.org/wiki/殺人 "wikilink")をして、[衛兵](https://ja.wikipedia.org/wiki/衛兵 "wikilink")や善良な[市民](../Page/市民.md "wikilink")のNPCに追われ、殺されることもある。同様にプレイヤーもNPCと世間話をしたり、スリや[空き巣](https://ja.wikipedia.org/wiki/空き巣 "wikilink")、殺人をすることも可能であり、[無罪](../Page/無罪.md "wikilink")の人間を殺せばもちろん罰せられ大人しく牢屋に行くか逮捕に抵抗して戦うか罰金を払うかを迫られる。町の外では[強盗](https://ja.wikipedia.org/wiki/強盗 "wikilink")や野生動物や[モンスター](https://ja.wikipedia.org/wiki/モンスター "wikilink")に襲われることもあるが、警備中の衛兵が近くにいれば救助に駆けつけてくれる。森の中では衛兵や山賊が[鹿](https://ja.wikipedia.org/wiki/鹿 "wikilink")や[熊](https://ja.wikipedia.org/wiki/熊 "wikilink")を[狩っていることもある](../Page/狩猟.md "wikilink")。このようなNPCの行動の幅広さ、プレイヤーの行動の自由さが本作の魅力となっている。
+あまり善良でないAIを設定されたNPCは[スリ](../Page/スリ.md "wikilink")や[殺人](../Page/殺人.md "wikilink")をして、[衛兵](https://ja.wikipedia.org/wiki/衛兵 "wikilink")や善良な[市民](../Page/市民.md "wikilink")のNPCに追われ、殺されることもある。同様にプレイヤーもNPCと世間話をしたり、スリや[空き巣](https://ja.wikipedia.org/wiki/空き巣 "wikilink")、殺人をすることも可能であり、[無罪](../Page/無罪.md "wikilink")の人間を殺せばもちろん罰せられ大人しく牢屋に行くか逮捕に抵抗して戦うか罰金を払うかを迫られる。町の外では[強盗](https://ja.wikipedia.org/wiki/強盗 "wikilink")や野生動物や[モンスター](https://ja.wikipedia.org/wiki/モンスター "wikilink")に襲われることもあるが、警備中の衛兵が近くにいれば救助に駆けつけてくれる。森の中では衛兵や山賊が[鹿](https://ja.wikipedia.org/wiki/鹿 "wikilink")や[熊](https://ja.wikipedia.org/wiki/熊 "wikilink")を[狩っていることもある](../Page/狩猟.md "wikilink")。このようなNPCの行動の幅広さ、プレイヤーの行動の自由さが本作の魅力となっている。
 
 ### クエストシステム
 
 本作には破壊の王子デイゴン(Dagon)の進攻を阻止するという本筋があるものの、[The Elder Scrolls](https://ja.wikipedia.org/wiki/The_Elder_Scrolls "wikilink") の過去のメインシリーズ同様に、それらのクエストを全く行わなくても支障がない。メインクエストも含め、大小合わせて150以上ものクエストが存在し、プレイヤーはこれらを好きな順番で進めることができる。
 
-またメインクエスト以外には[ギルド](../Page/ギルド.md "wikilink")クエストと呼ばれる大きなクエストラインが5種類存在し、[戦士](../Page/戦士.md "wikilink")（Fighters Guild）、[魔術師](https://ja.wikipedia.org/wiki/魔術師 "wikilink")（Mages Guild）、[盗賊](https://ja.wikipedia.org/wiki/盗賊 "wikilink")（Thieves Guild）、[暗殺者](https://ja.wikipedia.org/wiki/暗殺者 "wikilink")（Dark Brotherhood）、[闘技場](../Page/アリーナ.md "wikilink")（Arena）と、それぞれのプレイスタイルに合ったギルドで遊ぶことができる。これら全部を1つのキャラクターでクリアすることも可能である。
+またメインクエスト以外には[ギルド](../Page/ギルド.md "wikilink")クエストと呼ばれる大きなクエストラインが5種類存在し、[戦士](../Page/戦士.md "wikilink")（Fighters Guild）、[魔術師](https://ja.wikipedia.org/wiki/魔術師 "wikilink")（Mages Guild）、[盗賊](../Page/盗賊.md "wikilink")（Thieves Guild）、[暗殺者](https://ja.wikipedia.org/wiki/暗殺者 "wikilink")（Dark Brotherhood）、[闘技場](../Page/アリーナ.md "wikilink")（Arena）と、それぞれのプレイスタイルに合ったギルドで遊ぶことができる。これら全部を1つのキャラクターでクリアすることも可能である。
 
 ### キャラクターメイキング
 
   - 設定できる要素
-    プレイヤーがキャラクターメイキングの際に選択できる要素としては、[名前](../Page/名前.md "wikilink")・[性別](../Page/性別.md "wikilink")・[顔](../Page/顔.md "wikilink")・[種族](https://ja.wikipedia.org/wiki/種族_\(ファンタジー\) "wikilink")・[星座](../Page/星座.md "wikilink")・[クラスがある](../Page/職業.md "wikilink")。種族は以下の10の種族から選べる。これらのプレイヤーが選択できる種族は [The Elder Scrolls](https://ja.wikipedia.org/wiki/The_Elder_Scrolls "wikilink") のメインシリーズから変わっていない。
+    プレイヤーがキャラクターメイキングの際に選択できる要素としては、[名前](../Page/名前.md "wikilink")・[性別](../Page/性別.md "wikilink")・[顔](../Page/顔.md "wikilink")・[種族](../Page/種族_\(ファンタジー\).md "wikilink")・[星座](../Page/星座.md "wikilink")・[クラスがある](../Page/職業.md "wikilink")。種族は以下の10の種族から選べる。これらのプレイヤーが選択できる種族は [The Elder Scrolls](https://ja.wikipedia.org/wiki/The_Elder_Scrolls "wikilink") のメインシリーズから変わっていない。
       - [人間](../Page/人間.md "wikilink") (Men)
     :\*インペリアル（Imperial）- 帝國臣民。
     :\*ブレトン（Breton） - ハイ・ロック（High Rock）出身の[ブルターニュ](../Page/ブルターニュ.md "wikilink")系。ハイエルフ（Aldmer）と人間（Nede）の混血と言われている
     :\*ノルド（Nord）- 北方の寒冷地スカイリム（Skyrim）出身の金髪。元々はアトモラ（Atmora）大陸から タムリエル（Tamriel）大陸に上陸してスカイリムを建国した。
-    :\*レッドガード（Red Guard） - ハンマーフェル（Hammerfell）出身の[黒人](https://ja.wikipedia.org/wiki/黒人 "wikilink")。
+    :\*レッドガード（Red Guard） - ハンマーフェル（Hammerfell）出身の[黒人](../Page/黒人.md "wikilink")。
       - [エルフ](../Page/エルフ.md "wikilink") (Mer) - アルドメリ（Aldmeri）大陸からやってきたハイエルフの子孫と考えられている種族。
     :\*ダークエルフ（Dunmer） - 前作 [The Elder Scrolls III: Morrowind](https://ja.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind "wikilink") の地域火山島 ヴァーデンフェル（Vvardenfell）出身のエルフ。
     :\*ハイエルフ（Altmer） - サマーセット島（Summerset Isles）出身のエルフ。
     :\*ウッドエルフ（Bosmer） - シロディールの南西の森 ヴァレンウッド（Valenwood）出身のエルフ。
-    :\*オーク（Orsimer） - [オーク緑色の肌をした怪物のような外見をしている](https://ja.wikipedia.org/wiki/オーク_\(架空の生物\) "wikilink")。
-      - [亜人](https://ja.wikipedia.org/wiki/亜人 "wikilink")
+    :\*オーク（Orsimer） - [オーク緑色の肌をした怪物のような外見をしている](../Page/オーク_\(架空の生物\).md "wikilink")。
+      - [亜人](../Page/亜人.md "wikilink")
     :\*アルゴニアン（Argonian） - シロディールの南東の湿地帯、ブラック・マーシュ（Black Marsh）地方出身の爬虫人。
     :\*カジート（Khajiit） - シロディール南西の砂漠地帯のエルスウェーア（Elsweyr）地方出身の猫人間。
     前述した10の種族のほか、星座（Birthsign）は13種類、クラスは21種類から選べ、さらに自分でクラスをカスタマイズすることも可能である。これらの選択によって、[スキル](../Page/スキル.md "wikilink")や能力値、特殊能力に多少の変動はあるが、できる行動やクエストに変わりはない。そのため、プレイヤーは細部にとらわれずに、自分のプレイスタイルに最も合った選択をすることができる。
   - 容姿のエディット
-    この他、容姿のエディットも精細に及ぶ。[髪型](../Page/髪型.md "wikilink")や[目](../Page/目.md "wikilink")の色といった基本的な部分はもとより、[額](https://ja.wikipedia.org/wiki/額 "wikilink")の高さ、[顎](https://ja.wikipedia.org/wiki/顎 "wikilink")の角度、鼻筋の張りといった細部に至るまで実に100以上ものパラメータ数値を調整することができる。これらパラメータは骨格のバランスなどで自動で補正がかけられてしまうものもあり、[MODを導入しないで思い通りの顔を構築しようとすれば相応の根気とコツが必要となる](https://ja.wikipedia.org/wiki/Mod_\(コンピュータゲーム\) "wikilink")。なお、キャラクターメイキングは序盤に一度だけやりなおしが可能である。
-    また、本作では装備品がキャラクターの外見に反映されるようになっており、実用性に乏しい物も含めた様々な[アイテム](https://ja.wikipedia.org/wiki/アイテム "wikilink")で[コーディネート](https://ja.wikipedia.org/wiki/コーディネート "wikilink")を楽しむ事が出来る。
+    この他、容姿のエディットも精細に及ぶ。[髪型](../Page/髪型.md "wikilink")や[目](../Page/目.md "wikilink")の色といった基本的な部分はもとより、[額](../Page/額.md "wikilink")の高さ、[顎](../Page/顎.md "wikilink")の角度、鼻筋の張りといった細部に至るまで実に100以上ものパラメータ数値を調整することができる。これらパラメータは骨格のバランスなどで自動で補正がかけられてしまうものもあり、[MODを導入しないで思い通りの顔を構築しようとすれば相応の根気とコツが必要となる](../Page/Mod_\(コンピュータゲーム\).md "wikilink")。なお、キャラクターメイキングは序盤に一度だけやりなおしが可能である。
+    また、本作では装備品がキャラクターの外見に反映されるようになっており、実用性に乏しい物も含めた様々な[アイテム](../Page/アイテム.md "wikilink")で[コーディネート](https://ja.wikipedia.org/wiki/コーディネート "wikilink")を楽しむ事が出来る。
 
 ### 広大なワールドマップ
 
-プレイヤーは、タムリエル（Tamriel）[大陸](../Page/大陸.md "wikilink")のシロディール（Cyrodiil）という約41km²\[3\]の地方を実寸大で再現した巨大な[オープンワールド](https://ja.wikipedia.org/wiki/オープンワールド "wikilink")マップを、[シームレス](https://ja.wikipedia.org/wiki/シームレス "wikilink")に歩き回ることができる。ワールドマップ上には、9つの主要[都市](../Page/都市.md "wikilink")、40以上の小村および宿場、200以上の[ダンジョン](../Page/ダンジョン.md "wikilink")（遺跡、洞窟、廃坑、砦等）、その他数十の特殊地点が存在する。シロディールという温暖な一地方を舞台としたことで、前作ほどには多様な地形が見られないが、それでも湿地帯から雪の降り積もる高山まで、様々な自然環境が存在する。
+プレイヤーは、タムリエル（Tamriel）[大陸](../Page/大陸.md "wikilink")のシロディール（Cyrodiil）という約41km²\[3\]の地方を実寸大で再現した巨大な[オープンワールド](../Page/オープンワールド.md "wikilink")マップを、[シームレス](https://ja.wikipedia.org/wiki/シームレス "wikilink")に歩き回ることができる。ワールドマップ上には、9つの主要[都市](../Page/都市.md "wikilink")、40以上の小村および宿場、200以上の[ダンジョン](../Page/ダンジョン.md "wikilink")（遺跡、洞窟、廃坑、砦等）、その他数十の特殊地点が存在する。シロディールという温暖な一地方を舞台としたことで、前作ほどには多様な地形が見られないが、それでも湿地帯から雪の降り積もる高山まで、様々な自然環境が存在する。
 
-グラフィックも美しいとして高い評価を受けている要素の一つで、遠くの都市や建造物は遠景として写り込み、特にシロディールの中心にそびえ立つ巨大な白銀の塔（White-Gold Tower）は、どこからでも見上げることができる。木々や草花、水面の揺れは、天候によって左右され、物理エンジンの計算によって自然な動きを見せる。 そのため、プレイヤーは、ただワールドマップを歩き回って、景色を楽しむことも可能である。内部では[ゲームエンジン](https://ja.wikipedia.org/wiki/ゲームエンジン "wikilink")「[Gamebryo](https://ja.wikipedia.org/wiki/Gamebryo "wikilink")」、[物理エンジン](https://ja.wikipedia.org/wiki/物理エンジン "wikilink")「[Havok](https://ja.wikipedia.org/wiki/Havok_\(ソフトウェア\) "wikilink")」などを採用しており、特に植物には専用の描画エンジン「[SpeedTree](https://ja.wikipedia.org/wiki/SpeedTree "wikilink")」を使っている。
+グラフィックも美しいとして高い評価を受けている要素の一つで、遠くの都市や建造物は遠景として写り込み、特にシロディールの中心にそびえ立つ巨大な白銀の塔（White-Gold Tower）は、どこからでも見上げることができる。木々や草花、水面の揺れは、天候によって左右され、物理エンジンの計算によって自然な動きを見せる。 そのため、プレイヤーは、ただワールドマップを歩き回って、景色を楽しむことも可能である。内部では[ゲームエンジン](../Page/ゲームエンジン.md "wikilink")「[Gamebryo](https://ja.wikipedia.org/wiki/Gamebryo "wikilink")」、[物理エンジン](https://ja.wikipedia.org/wiki/物理エンジン "wikilink")「[Havok](../Page/Havok_\(ソフトウェア\).md "wikilink")」などを採用しており、特に植物には専用の描画エンジン「[SpeedTree](https://ja.wikipedia.org/wiki/SpeedTree "wikilink")」を使っている。
 
   - マップ移動するNPC
     プレイヤーと同様、前述のRadiant AIで動くNPCたちもワールドマップ上をシームレスに移動している。そのため、プレイヤーはモンスターの他にも、巡回中の帝都兵や新聞配達人、都市から 都市へ移動する旅人、キャンプに住む修行者や追い剥ぎなどのNPCに出くわすことがある。
@@ -76,12 +76,12 @@
 
 ### MOD
 
-[Windows版に限定されるが](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[MODと呼ばれる拡張ファイルによって](https://ja.wikipedia.org/wiki/Mod_\(コンピュータゲーム\) "wikilink")、システムの変更や、海外MODの翻訳をしたり、[グラフィック](https://ja.wikipedia.org/wiki/グラフィック "wikilink")の[クオリティ](https://ja.wikipedia.org/wiki/クオリティ "wikilink")を上げたり、オリジナルの装備品や[魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")などをゲーム中に反映させる事が出来る。大規模なものでは、建造物や[ダンジョン](../Page/ダンジョン.md "wikilink")を配置した冒険可能なエリアを拡張するものやクエストや[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")を追加するもの、更にはゲームバランスを大きく変更するものまで豊富に存在する。
+[Windows版に限定されるが](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[MODと呼ばれる拡張ファイルによって](../Page/Mod_\(コンピュータゲーム\).md "wikilink")、システムの変更や、海外MODの翻訳をしたり、[グラフィック](../Page/グラフィック.md "wikilink")の[クオリティ](https://ja.wikipedia.org/wiki/クオリティ "wikilink")を上げたり、オリジナルの装備品や[魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")などをゲーム中に反映させる事が出来る。大規模なものでは、建造物や[ダンジョン](../Page/ダンジョン.md "wikilink")を配置した冒険可能なエリアを拡張するものやクエストや[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")を追加するもの、更にはゲームバランスを大きく変更するものまで豊富に存在する。
 
-MOD開発キット**「[The Elder Scrolls Construction Set](https://ja.wikipedia.org/wiki/The_Elder_Scrolls_Construction_Set "wikilink")」**が公式に提供されていることもあり大半はユーザ作成の物が多いが、中にはメーカー公式の有料コンテンツとして、アドオンと呼ばれ、(オンライン版では[DLC](https://ja.wikipedia.org/wiki/DLC "wikilink")、 ダウンロードコンテンツ）と呼ばれるMODとして長編MODの『DLC8 Knights of the Nine』をはじめとして、馬に鎧を着せるMOD『DLC1 Horse Armor Pack』、エンチャントされた膨大な矢と、強力な武器が手に入る『DLC9 Mehrunes' Razor』、[ヴァンパイア](https://ja.wikipedia.org/wiki/ヴァンパイア "wikilink")や賞金首になって困ったPC用に用意された『DLC5 The Vile Lair』などがある。いずれも有料で、オンライン購入専用の『DLC6 Fighter's Stronghold』以外はCD-ROM 『The Elder Scrolls IV KNIGHTS of the NINE Oblivion Downloadable Content Collection』と『The Elder Scrolls IV OBLIVION GAME OF THE YEAR EDITION』で入手可能である。
+MOD開発キット**「[The Elder Scrolls Construction Set](https://ja.wikipedia.org/wiki/The_Elder_Scrolls_Construction_Set "wikilink")」**が公式に提供されていることもあり大半はユーザ作成の物が多いが、中にはメーカー公式の有料コンテンツとして、アドオンと呼ばれ、(オンライン版では[DLC](https://ja.wikipedia.org/wiki/DLC "wikilink")、 ダウンロードコンテンツ）と呼ばれるMODとして長編MODの『DLC8 Knights of the Nine』をはじめとして、馬に鎧を着せるMOD『DLC1 Horse Armor Pack』、エンチャントされた膨大な矢と、強力な武器が手に入る『DLC9 Mehrunes' Razor』、[ヴァンパイア](../Page/ヴァンパイア.md "wikilink")や賞金首になって困ったPC用に用意された『DLC5 The Vile Lair』などがある。いずれも有料で、オンライン購入専用の『DLC6 Fighter's Stronghold』以外はCD-ROM 『The Elder Scrolls IV KNIGHTS of the NINE Oblivion Downloadable Content Collection』と『The Elder Scrolls IV OBLIVION GAME OF THE YEAR EDITION』で入手可能である。
 
   - XBOX360版・PS3版
-    [Xbox 360版および](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")[PS3版では](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、ユーザーが作成した非公式のMODは利用出来ないものの、[有料](https://ja.wikipedia.org/wiki/有料 "wikilink")で販売されている公式追加[コンテンツ](../Page/コンテンツ.md "wikilink")の1つである『Knights of the nine』が最初から収録されている。そのためアンヴィルの聖堂関係者は日本語版では生きている姿を見る事はできない。
+    [Xbox 360版および](../Page/Xbox_360.md "wikilink")[PS3版では](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、ユーザーが作成した非公式のMODは利用出来ないものの、[有料](https://ja.wikipedia.org/wiki/有料 "wikilink")で販売されている公式追加[コンテンツ](../Page/コンテンツ.md "wikilink")の1つである『Knights of the nine』が最初から収録されている。そのためアンヴィルの聖堂関係者は日本語版では生きている姿を見る事はできない。
   - Windows版MOD
     Windows版では公式拡張パックとして『』が発売されており、さらに、この『Shivering Isles』と公式有料MODの『DLC8 』を収録した2枚組みDVDの『The Elder Scrolls IV OBLIVION GAME OF THE YEAR EDITION』が発売されている。Windows版では、日本国内で入手できるものとしてUS版、UK版、アジア版のDVDがある。
 
@@ -129,17 +129,17 @@ MOD開発キット**「[The Elder Scrolls Construction Set](https://ja.wikipedia
 
 ## 登場キャラクター
 
-本作はフルボイスで、種族/性別ごとに声優が当てられているが、一部のキャラクターは俳優の[パトリック・スチュワート](https://ja.wikipedia.org/wiki/パトリック・スチュワート "wikilink")ら、特別に有名なキャストが演じている。
+本作はフルボイスで、種族/性別ごとに声優が当てられているが、一部のキャラクターは俳優の[パトリック・スチュワート](../Page/パトリック・スチュワート.md "wikilink")ら、特別に有名なキャストが演じている。
 
 ### 主要人物
 
   - 主人公 クヴァッチの英雄 (Hero of Kvatch)
     帝都の隠し通路に繋がる牢に捕らえられていた囚人。その経緯も過去も誰も知る者はいない（皇帝や番兵さえ何故囚われているかどころか存在すら知らなかった）。皇帝の予知夢に登場したらしく、皇帝の死の間際に、帝国の命運を託される。ある程度メインクエストを進めると、「クヴァッチの英雄」という敬称で呼ばれるようになる。
-  - ユリエル・セプティム七世（Uriel Septim VII, 声：[パトリック・スチュワート](https://ja.wikipedia.org/wiki/パトリック・スチュワート "wikilink")）
+  - ユリエル・セプティム七世（Uriel Septim VII, 声：[パトリック・スチュワート](../Page/パトリック・スチュワート.md "wikilink")）
     タムリエル大陸を統べる皇帝。シリーズを通して主要な役割を果たしてきた。勇敢にして聡明な賢帝で、セプティム家に代々伝わる予知の能力を特に強く受け継いでいる。 今作のオープニング、およびチュートリアルに登場し、自らの予知通りに邪教「深遠の暁(Mythic Dawn)」に暗殺される。皇帝の死によって聖火「ドラゴンファイア(Dragonfire)」の灯火が消え去り、オブリビオン (Oblivion) との障壁が無くなってしまった。予知によって主人公が救世主となることを見抜き、死の際、主人公にドラゴンファイアを再び灯すためのアイテムである「王者のアミュレット」(Amulet of Kings)を手渡して、隠し子であるマーティンを探すように告げる。
-  - マーティン（Martin, 声：[ショーン・ビーン](https://ja.wikipedia.org/wiki/ショーン・ビーン "wikilink")）
+  - マーティン（Martin, 声：[ショーン・ビーン](../Page/ショーン・ビーン.md "wikilink")）
     クヴァッチの街で、最高神アカトシュ(Akatosh)を祀る壮年の司祭。本人も気付かずにいるが、実は皇帝ユリエルの隠し子であり、聖なるドラゴンファイアを灯せる資格を持った唯一の後継者。高潔で誇り高く、深い知識と経験、洞察力を持つ彼だが、司祭になる前は暗黒魔術を学び、デイドラ (Daedra) 崇拝をしていた経歴を持つ(そのことを本人は過去の過ちとして戒めている)。彼を探し出すのが主人公の最初の目的。
-  - メエルーンズ・デイゴン（Mehrunes Dagon, 声：[テレンス・スタンプ](https://ja.wikipedia.org/wiki/テレンス・スタンプ "wikilink")）
+  - メエルーンズ・デイゴン（Mehrunes Dagon, 声：[テレンス・スタンプ](../Page/テレンス・スタンプ.md "wikilink")）
     16人のデイドラ王（Daedra Lords, Daedric Princes）の一人。破壊や自然災害を司り、その存在意義自体が破壊にある（しかし、破壊からの新生や戦争での武勇も司っているため、絶対的な悪とは 言い難い）。シリーズを通しての最大の敵であり、本作では信徒であるマンカー・キャモランの策謀に応え、シロディールの至る場所にオブリビオンゲート(Oblivion Gate)を開き、タムリエルを破壊し尽くそうと計画している。タイトルのオブリビオンはデイドラ王たちの持つ領域を意味する言葉であるが、本作ではデイゴンの領する、灼熱地獄のオブリビオン「Deadlands」を指す。真っ赤な筋骨隆々の肉体を持ち、4本腕である。
   - マンカー・キャモラン（Mankar Camoran, 声：テレンス・スタンプ）
     メエルーンズ・デイゴンを崇拝する邪教「深遠の暁」の教主。種族はハイエルフで絶大な魔力を持つ魔術師。かつて帝国を壊滅寸前に追いやった死霊術師「侵略者キャモラン」の息子を自称する。不老不死の力とタムリエルの権力の座を手にするため、デイゴンに取り入る。深遠の暁の教徒を使い皇帝を暗殺し、王者のアミュレットを手に入れ た後は、デイゴンからザルクセスの神秘の書(Mysterium Xarxes)を授かり、その魔力で「楽園」と呼ばれる自らの領域を作り出し、タムリエル侵略の準備を着々と進めている。
@@ -307,7 +307,7 @@ MOD開発キット**「[The Elder Scrolls Construction Set](https://ja.wikipedia
 ### ギルド関連
 
   - スプリングヒール・ジャック (Springheel Jak)
-    300年以上前のグレイ・フォックスの相棒、子孫はジャクベン・インベルと名乗って帝都で暮らしているが、実はその子孫もスプリングヒール・ジャックと同一人物で300年以上も生きている[ヴァンパイア](https://ja.wikipedia.org/wiki/ヴァンパイア "wikilink")。
+    300年以上前のグレイ・フォックスの相棒、子孫はジャクベン・インベルと名乗って帝都で暮らしているが、実はその子孫もスプリングヒール・ジャックと同一人物で300年以上も生きている[ヴァンパイア](../Page/ヴァンパイア.md "wikilink")。
   - ヒエロニムス・レックス (Hieronymus Lex)
     帝都の監視隊長の一人。公式には存在が否定されているグレイフォックスおよび盗賊ギルドを長年追っている。
   - ルフィオ (Rufio)

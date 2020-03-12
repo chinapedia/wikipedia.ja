@@ -3,26 +3,26 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:HughesPenn-faceoff.jpg "wikilink")
 
-**UFC 63: Hughes vs. Penn**（ユーエフシー・シックスティスリー：ヒューズ・バーサス・ペン）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月23日](../Page/9月23日.md "wikilink")、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[アナハイム](https://ja.wikipedia.org/wiki/アナハイム "wikilink")の[アローヘッド・ポンド・オブ・アナハイムで開催された](https://ja.wikipedia.org/wiki/ホンダセンター "wikilink")。
+**UFC 63: Hughes vs. Penn**（ユーエフシー・シックスティスリー：ヒューズ・バーサス・ペン）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2006年](../Page/2006年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[アナハイム](../Page/アナハイム.md "wikilink")の[アローヘッド・ポンド・オブ・アナハイムで開催された](../Page/ホンダセンター.md "wikilink")。
 
 ## 大会概要
 
-メインイベントの世界ウェルター級タイトルマッチでは王者[マット・ヒューズ](https://ja.wikipedia.org/wiki/マット・ヒューズ "wikilink")が挑戦者[BJ・ペン](https://ja.wikipedia.org/wiki/BJ・ペン "wikilink")からTKO勝ちを収め、リベンジを果たし2度目の王座防衛に成功した。
+メインイベントの世界ウェルター級タイトルマッチでは王者[マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink")が挑戦者[BJ・ペン](../Page/BJ・ペン.md "wikilink")からTKO勝ちを収め、リベンジを果たし2度目の王座防衛に成功した。
 
-[IFC世界ライト級王者](https://ja.wikipedia.org/wiki/International_Fighting_Championship "wikilink")[ロジャー・ウエルタ](https://ja.wikipedia.org/wiki/ロジャー・ウエルタ "wikilink")、元[WEC世界ライト級王者ゲイブ](https://ja.wikipedia.org/wiki/World_Extreme_Cagefighting "wikilink")・ルーディジャー、キャリア7戦全勝の[タイソン・グリフィン](https://ja.wikipedia.org/wiki/タイソン・グリフィン "wikilink")、6戦全勝の[エディ・サンチェス](https://ja.wikipedia.org/wiki/エディ・サンチェス "wikilink")がUFCデビュー。
+[IFC世界ライト級王者](https://ja.wikipedia.org/wiki/International_Fighting_Championship "wikilink")[ロジャー・ウエルタ](https://ja.wikipedia.org/wiki/ロジャー・ウエルタ "wikilink")、元[WEC世界ライト級王者ゲイブ](../Page/World_Extreme_Cagefighting.md "wikilink")・ルーディジャー、キャリア7戦全勝の[タイソン・グリフィン](../Page/タイソン・グリフィン.md "wikilink")、6戦全勝の[エディ・サンチェス](../Page/エディ・サンチェス.md "wikilink")がUFCデビュー。
 
 ## 試合結果
 
 ### プレリミナリィカード
 
   - 第1試合 ライト級 5分3R
-    ○  [タイソン・グリフィン](https://ja.wikipedia.org/wiki/タイソン・グリフィン "wikilink") vs.  デビッド・リー ×
-    1R 1:50 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    ○  [タイソン・グリフィン](../Page/タイソン・グリフィン.md "wikilink") vs.  デビッド・リー ×
+    1R 1:50 [チョークスリーパー](../Page/裸絞.md "wikilink")
   - 第2試合 ライト級 5分3R
-    ○  [ジョルジ・グージェウ](https://ja.wikipedia.org/wiki/ジョルジ・グージェウ "wikilink") vs.  ダニー・アバディ ×
+    ○  [ジョルジ・グージェウ](../Page/ジョルジ・グージェウ.md "wikilink") vs.  ダニー・アバディ ×
     3R終了 判定3-0（29-28、29-28、29-28）
   - 第3試合 ヘビー級 5分3R
-    ○  [エディ・サンチェス](https://ja.wikipedia.org/wiki/エディ・サンチェス "wikilink") vs.  マリオ・ネト ×
+    ○  [エディ・サンチェス](../Page/エディ・サンチェス.md "wikilink") vs.  マリオ・ネト ×
     2R 0:17 KO（スタンドパンチ連打）
   - 第4試合 ライト級 5分3R
     ○  [ロジャー・ウエルタ](https://ja.wikipedia.org/wiki/ロジャー・ウエルタ "wikilink") vs.  ジェイソン・デント ×
@@ -31,11 +31,11 @@
 ### メインカード
 
   - 第5試合 ライト級 5分3R
-    ○  [ジョー・ローゾン](https://ja.wikipedia.org/wiki/ジョー・ローゾン "wikilink") vs.  [ジェンス・パルヴァー](https://ja.wikipedia.org/wiki/ジェンス・パルヴァー "wikilink") ×
+    ○  [ジョー・ローゾン](../Page/ジョー・ローゾン.md "wikilink") vs.  [ジェンス・パルヴァー](../Page/ジェンス・パルヴァー.md "wikilink") ×
     1R 0:48 KO（左フック）
   - 第6試合 ライトヘビー級 5分3R
-    ○  [ラシャド・エヴァンス](../Page/ラシャド・エヴァンス.md "wikilink") vs.  [ジェイソン・ランバート](https://ja.wikipedia.org/wiki/ジェイソン・ランバート "wikilink") ×
-    2R 2:22 KO（[マウントパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ラシャド・エヴァンス](../Page/ラシャド・エヴァンス.md "wikilink") vs.  [ジェイソン・ランバート](../Page/ジェイソン・ランバート.md "wikilink") ×
+    2R 2:22 KO（[マウントパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第7試合 ライト級 5分3R
     ○  [メルヴィン・ギラード](https://ja.wikipedia.org/wiki/メルヴィン・ギラード "wikilink") vs.  ゲイブ・ルーディジャー ×
     2R 1:01 KO（右ボディブロー）
@@ -43,8 +43,8 @@
     ○  [マイク・スウィック](../Page/マイク・スウィック.md "wikilink") vs.  [デビッド・ロワゾー](../Page/デビッド・ロワゾー.md "wikilink") ×
     3R終了 判定3-0（29-28、29-28、29-28）
   - 第9試合 UFC世界ウェルター級タイトルマッチ 5分5R
-    ○  [マット・ヒューズ](https://ja.wikipedia.org/wiki/マット・ヒューズ "wikilink") vs.  [BJ・ペン](https://ja.wikipedia.org/wiki/BJ・ペン "wikilink") ×
-    3R 3:53 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink") vs.  [BJ・ペン](../Page/BJ・ペン.md "wikilink") ×
+    3R 3:53 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
     ※ヒューズが2度目の王座防衛に成功。
 
 ### 各賞
@@ -59,7 +59,7 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

@@ -1,15 +1,15 @@
 > この記事は[ \(ALI PROJECT\)](https://ja.wikipedia.org/wiki/_\(ALI_PROJECT\))から翻訳されています。
 
 
-『**月下の一群**』（げっかのいちぐん）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")による[音楽ユニット](https://ja.wikipedia.org/wiki/音楽グループ "wikilink")。[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")1枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[東芝EMIから発売された](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+『**月下の一群**』（げっかのいちぐん）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](../Page/片倉三起也.md "wikilink")による[音楽ユニット](https://ja.wikipedia.org/wiki/音楽グループ "wikilink")。[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1992年](../Page/1992年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[東芝EMIから発売された](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 概要
 
-同年2月発売のシングル『[恋せよ乙女〜Love story of ZIPANG〜](https://ja.wikipedia.org/wiki/恋せよ乙女〜Love_story_of_ZIPANG〜 "wikilink")』より、蟻プロジェクトは[東芝EMIでのメジャーデビューに伴い](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")「ALI PROJECT」と改名した。[2009年](../Page/2009年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に[東芝EMIから](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")[DALI](https://ja.wikipedia.org/wiki/DALI "wikilink")、[星と月のソナタ](https://ja.wikipedia.org/wiki/星と月のソナタ "wikilink")と同時に[デジタル・リマスタリング](https://ja.wikipedia.org/wiki/デジタル・リマスタリング "wikilink")を施し再発された。なおタイトルは[堀口大學](https://ja.wikipedia.org/wiki/堀口大學 "wikilink")の訳詩集と同名である。
+同年2月発売のシングル『[恋せよ乙女〜Love story of ZIPANG〜](https://ja.wikipedia.org/wiki/恋せよ乙女〜Love_story_of_ZIPANG〜 "wikilink")』より、蟻プロジェクトは[東芝EMIでのメジャーデビューに伴い](../Page/EMIミュージック・ジャパン.md "wikilink")「ALI PROJECT」と改名した。[2009年](../Page/2009年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に[東芝EMIから](../Page/EMIミュージック・ジャパン.md "wikilink")[DALI](../Page/DALI.md "wikilink")、[星と月のソナタ](../Page/星と月のソナタ.md "wikilink")と同時に[デジタル・リマスタリング](https://ja.wikipedia.org/wiki/デジタル・リマスタリング "wikilink")を施し再発された。なおタイトルは[堀口大學](../Page/堀口大學.md "wikilink")の訳詩集と同名である。
 
 ## 収録曲
 
-（全作詞：[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")、作曲・編曲：[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink")）
+（全作詞：[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")、作曲・編曲：[片倉三起也](../Page/片倉三起也.md "wikilink")）
 
 1.  **メガロポリス・アリス -MEGALOPOLIS ALICE-** \[4:04\]
 2.  **ビアンカ** \[4:04\]
@@ -30,12 +30,12 @@
       -
         Accordion：[coba](https://ja.wikipedia.org/wiki/小林靖宏 "wikilink")
 7.  **堕ちて候** \[4:18\]
-      - [ネスレ](https://ja.wikipedia.org/wiki/ネスレ日本 "wikilink")「ブライト」のCMソングとして、別歌詞・[大竹しのぶ](https://ja.wikipedia.org/wiki/大竹しのぶ "wikilink")によるボーカルのバージョンが使用されていた。名義は大竹しのぶ with ALI PROJECTとなっている。
+      - [ネスレ](../Page/ネスレ日本.md "wikilink")「ブライト」のCMソングとして、別歌詞・[大竹しのぶ](https://ja.wikipedia.org/wiki/大竹しのぶ "wikilink")によるボーカルのバージョンが使用されていた。名義は大竹しのぶ with ALI PROJECTとなっている。
 8.  **[恋せよ乙女〜Love story of ZIPANG〜](https://ja.wikipedia.org/wiki/恋せよ乙女〜Love_story_of_ZIPANG〜 "wikilink")** \[3:55\]
-      - 冷酒[黄桜](https://ja.wikipedia.org/wiki/黄桜 "wikilink")「飛沫」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+      - 冷酒[黄桜](../Page/黄桜.md "wikilink")「飛沫」[CMソング](../Page/コマーシャルソング.md "wikilink")
 9.  **月光浴** \[3:28\]
       -
-        Cello：[溝口肇](https://ja.wikipedia.org/wiki/溝口肇 "wikilink")
+        Cello：[溝口肇](../Page/溝口肇.md "wikilink")
 10. **楽園喪失 - Paradise Lost** \[4:18\]
       -
         Violin：伊藤康恵

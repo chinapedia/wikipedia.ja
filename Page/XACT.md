@@ -3,9 +3,9 @@
 
 **XACT**（イグザクトと読む\[1\]）は[DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")の一部として[マイクロソフト](../Page/マイクロソフト.md "wikilink")によってリリースされた、オーディオプログラミングライブラリおよびオーディオエンジンである。これは、オーサリングおよび再生用高レベルオーディオライブラリであり、[Xbox上では](../Page/Xbox_\(ゲーム機\).md "wikilink")[XAudio](https://ja.wikipedia.org/wiki/XAudio "wikilink")、[Windows XPでは](../Page/Microsoft_Windows_XP.md "wikilink")[DirectSound](../Page/DirectSound.md "wikilink")、[Windows Vistaでは新しいオーディオスタックを使って書かれている](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")。XAudioはデジタル信号処理を最適に行うために設計された、Xbox専用のAPIである。XACTはまたX3DAudioを含んでおり、WindowsとXbox両方のプラットフォームで使用可能な空間音響ヘルパーライブラリである。XACTは元々Xboxの開発のために作られたが、後にWindowsでも動作するように修正が加えられた。
 
-XACTのサポートはDirectXから[XNAにそのまま引き継がれている](https://ja.wikipedia.org/wiki/Microsoft_XNA "wikilink")。*XACT Audio Authoring Tool*は[XNA Game Studioでも利用が可能である](https://ja.wikipedia.org/wiki/XNA_Game_Studio "wikilink")。
+XACTのサポートはDirectXから[XNAにそのまま引き継がれている](../Page/Microsoft_XNA.md "wikilink")。*XACT Audio Authoring Tool*は[XNA Game Studioでも利用が可能である](https://ja.wikipedia.org/wiki/XNA_Game_Studio "wikilink")。
 
-**XACT Audio Authoring Tool**は*wave banks* (複数の[WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")ファイルが入った単一のアーカイブファイル) や*sound banks* (wave banksの中にあるWAVファイルを演奏する命令が入った単一のファイル) を作るためのオーディオデータを構成するために使われるアプリケーションである。wave banksとsound banksはアプリケーション内にあって、XACTからその後呼び出されることになる。
+**XACT Audio Authoring Tool**は*wave banks* (複数の[WAV](../Page/WAV.md "wikilink")ファイルが入った単一のアーカイブファイル) や*sound banks* (wave banksの中にあるWAVファイルを演奏する命令が入った単一のファイル) を作るためのオーディオデータを構成するために使われるアプリケーションである。wave banksとsound banksはアプリケーション内にあって、XACTからその後呼び出されることになる。
 
 なお、[Windows 8用のソフトウェア開発キットである](https://ja.wikipedia.org/wiki/Windows_8 "wikilink")[Windows SDK](https://ja.wikipedia.org/wiki/Windows_SDK "wikilink") 8.0以降ではWindows SDKとDirectX SDKが統合されたが、その際にXACTは廃止されている。
 
@@ -13,7 +13,7 @@ DirectX Tool Kitには、廃止されたXACTの代替として、[XNA Game Studi
 
 ## XACTの音楽作成機能
 
-  - [WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")、[AIFF](https://ja.wikipedia.org/wiki/AIFF "wikilink")、、[xWMA](https://ja.wikipedia.org/wiki/xWMA "wikilink")\[3\]フォーマットをサポート
+  - [WAV](../Page/WAV.md "wikilink")、[AIFF](../Page/AIFF.md "wikilink")、、[xWMA](https://ja.wikipedia.org/wiki/xWMA "wikilink")\[3\]フォーマットをサポート
       - WAVとAIFFフォーマット内にある埋め込みループポイントもサポートしている
   - ステレオと5.1chスピーカーもサポート
   - 音声の編集
@@ -47,7 +47,7 @@ DirectX Tool Kitには、廃止されたXACTの代替として、[XNA Game Studi
       - Categories - 音声は一つの(それぞれ一つのみ)のカテゴリーに割り当てられる。そのカテゴリーはボリュームのようないろんな設定と一緒に、とあるルールによって決められたものである。ゲーム中にあるキャラクター用の音声カテゴリーを作ったなら、それらはすべて同じボリューム設定になる。カテゴリーは、Global、Default、Musicの3つが既定で定義済みである。
       - Variables - 設計段階で定義されるもので、プログラマによってコード中からRun-Time Parameter Controlを行うために参照されるものである。
           - Run-Time Parameter Control - スライダーとしても知られている。これによって音声を再生時に音声パラメータの制御ができる。例えば、これを使うことで、アクセルを踏むと車のエンジン音のピッチが変化するなどのような制御ができる。
-      - DSP Effect Path Presets (DSPs) - [リバーブのようなエフェクトを音声に適用できる](https://ja.wikipedia.org/wiki/残響 "wikilink")
+      - DSP Effect Path Presets (DSPs) - [リバーブのようなエフェクトを音声に適用できる](../Page/残響.md "wikilink")
       - Compression Presets - waveやwave bankに圧縮をかける。
 
 ## 脚注

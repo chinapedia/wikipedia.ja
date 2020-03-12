@@ -1,11 +1,11 @@
 > この記事は[REXi](https://ja.wikipedia.org/wiki/REXi)から翻訳されています。
 
 
-**REXi**（レクシィ）、**レクシィ株式会社**（英語表記:**REXi Inc.**）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")設立のゲーム会社である。現代怪盗PBW『ファントムディグニティ』等を運営中。代表は斉藤尚嗣。所在地は[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区](../Page/中央区_\(札幌市\).md "wikilink")。REXiの名前は[REX](https://ja.wikipedia.org/wiki/REX "wikilink")にインターネットを指し示すiを付け加えたことに由来する。
+**REXi**（レクシィ）、**レクシィ株式会社**（英語表記:**REXi Inc.**）は、[2007年](../Page/2007年.md "wikilink")設立のゲーム会社である。現代怪盗PBW『ファントムディグニティ』等を運営中。代表は斉藤尚嗣。所在地は[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区](../Page/中央区_\(札幌市\).md "wikilink")。REXiの名前は[REX](https://ja.wikipedia.org/wiki/REX "wikilink")にインターネットを指し示すiを付け加えたことに由来する。
 
 ## 沿革
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月12日](../Page/4月12日.md "wikilink")に設立。同業他社である[テラネッツ社のマスター](https://ja.wikipedia.org/wiki/クラウドゲート_\(企業\) "wikilink")（契約ライター）、同社を辞任した役員などで構成されており、[PBWの企画](https://ja.wikipedia.org/wiki/プレイバイウェブ "wikilink")・製作を主な業務としている。 [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")末ごろ、病倒による長期療養のため初代代表である三浦氏に代わり、斉藤尚嗣が代表に就任した。 処女作『[Justice\&Jokers](https://ja.wikipedia.org/wiki/Justice&Jokers "wikilink")』は、正義と悪の陣営に分かれて競い合うヒーロー特撮物となっている。
+[2007年](../Page/2007年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")に設立。同業他社である[テラネッツ社のマスター](../Page/クラウドゲート_\(企業\).md "wikilink")（契約ライター）、同社を辞任した役員などで構成されており、[PBWの企画](../Page/プレイバイウェブ.md "wikilink")・製作を主な業務としている。 [2007年](../Page/2007年.md "wikilink")末ごろ、病倒による長期療養のため初代代表である三浦氏に代わり、斉藤尚嗣が代表に就任した。 処女作『[Justice\&Jokers](https://ja.wikipedia.org/wiki/Justice&Jokers "wikilink")』は、正義と悪の陣営に分かれて競い合うヒーロー特撮物となっている。
 
 [2009年](../Page/2009年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは、PBW第2弾であるファンタジー学園物の『神代七代　[学園X](https://ja.wikipedia.org/wiki/学園X "wikilink")』が開始され、[2012年](../Page/2012年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")において第四期生の募集が行われている。
 
@@ -22,7 +22,7 @@
 ## 主なスタッフ
 
   - [冴島鋭士](https://ja.wikipedia.org/wiki/冴島鋭士 "wikilink")（さえじま えいじ）
-    Justice\&Jokersや学園Ｘの[CWを経て](https://ja.wikipedia.org/wiki/コンセプトワーカー "wikilink")、現在はＰＢＷ事業統括責任者を行っている。元[テラネッツ社のメインスタッフ](https://ja.wikipedia.org/wiki/クラウドゲート_\(企業\) "wikilink")。
+    Justice\&Jokersや学園Ｘの[CWを経て](https://ja.wikipedia.org/wiki/コンセプトワーカー "wikilink")、現在はＰＢＷ事業統括責任者を行っている。元[テラネッツ社のメインスタッフ](../Page/クラウドゲート_\(企業\).md "wikilink")。
   - 月海歩人（つきみ あると）
     ゲーム内の名物NPC、クモカマキラーやカマラン教師、蜘蛛鎌次郎を担当。
   - 火村高斗（ひむら たかと）
@@ -51,7 +51,7 @@
 ## 現在までのPBW企画内容
 
   - [Justice\&Jokers](https://ja.wikipedia.org/wiki/Justice&Jokers "wikilink")
-    [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")開始。PBW第1弾『Justice\&Jokers（ジャスティス&ジョーカーズ）』は、ヒーロー特撮ものをベースにして正義と悪の陣営に分かれて競い合うと言う、業界初のプレイヤー対立要素を含んだPBWであり（これまでもゲームの一部で対立要素の有るPBWは存在したが、それを大々的なテーマとしたのは本作が初である）、根幹ルールとして『お約束』を提示している。
+    [2007年](../Page/2007年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")開始。PBW第1弾『Justice\&Jokers（ジャスティス&ジョーカーズ）』は、ヒーロー特撮ものをベースにして正義と悪の陣営に分かれて競い合うと言う、業界初のプレイヤー対立要素を含んだPBWであり（これまでもゲームの一部で対立要素の有るPBWは存在したが、それを大々的なテーマとしたのは本作が初である）、根幹ルールとして『お約束』を提示している。
     [2011年](../Page/2011年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")公式サイトにて終了告知が行われた。
   - [学園X](https://ja.wikipedia.org/wiki/学園X "wikilink")
     [2009年](../Page/2009年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")開始。PBW第2弾『神代七代 学園X（かみよななよ がくえんX）』は、次代の勇者を育てるために開校したローレック守護精霊学校（ローレック・ルミナ・スクール）を舞台としたファンタジー学園物である。戦闘や冒険的シナリオに加え、学園生活をテーマとしたシナリオも数多くリリースされている。2012年3月において、追加種族シフール・ブラウニーを含む第四期生の募集が行われている。

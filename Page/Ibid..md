@@ -1,7 +1,7 @@
 > この記事は[Ibid.](https://ja.wikipedia.org/wiki/Ibid.)から翻訳されています。
 
 
-**** とは、[ラテン語](../Page/ラテン語.md "wikilink") ** の省略であり、[脚注](https://ja.wikipedia.org/wiki/脚注 "wikilink")、[尾注](https://ja.wikipedia.org/wiki/尾注 "wikilink")、[引用](../Page/引用.md "wikilink")、[参考文献](../Page/参考文献.md "wikilink")において既出の文献から再び参照する時に用いる\[1\]。[日本語](../Page/日本語.md "wikilink")の「**同書**」に当たる。ラテン語の本来の意味は「同じ場所」である。**idem** (**Id.**) も同じ意味である\[2\]。
+**** とは、[ラテン語](../Page/ラテン語.md "wikilink") ** の省略であり、[脚注](../Page/脚注.md "wikilink")、[尾注](https://ja.wikipedia.org/wiki/尾注 "wikilink")、[引用](../Page/引用.md "wikilink")、[参考文献](../Page/参考文献.md "wikilink")において既出の文献から再び参照する時に用いる\[1\]。[日本語](../Page/日本語.md "wikilink")の「**同書**」に当たる。ラテン語の本来の意味は「同じ場所」である。**idem** (**Id.**) も同じ意味である\[2\]。
 
 **** の文献は、一つ前に示してある。これは「〃」と同じ意味である。
 
@@ -17,9 +17,9 @@
 
 ## 関連項目
 
-  - [書誌学](https://ja.wikipedia.org/wiki/書誌学 "wikilink")
-  - [Op. cit.](https://ja.wikipedia.org/wiki/Op._cit. "wikilink")
-  - [Loc. cit.](https://ja.wikipedia.org/wiki/Loc._cit. "wikilink")
+  - [書誌学](../Page/書誌学.md "wikilink")
+  - [Op. cit.](../Page/Op._cit..md "wikilink")
+  - [Loc. cit.](../Page/Loc._cit..md "wikilink")
 
 ## 参考文献
 

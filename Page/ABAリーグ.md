@@ -1,7 +1,7 @@
 > この記事は[ABA](https://ja.wikipedia.org/wiki/ABA)から翻訳されています。
 
 
-**アドリアティック・バスケットボール・アソシエーション**（**A**driatic **B**asketball **A**ssociation）リーグ、**ABAリーグ**は[ボスニア・ヘルツェゴビナ](../Page/ボスニア・ヘルツェゴビナ.md "wikilink")、[クロアチア](../Page/クロアチア.md "wikilink")、[モンテネグロ](https://ja.wikipedia.org/wiki/モンテネグロ "wikilink")、[セルビア](../Page/セルビア.md "wikilink")、[スロベニア](../Page/スロベニア.md "wikilink")のチームで構成されるプロ[バスケットボール](../Page/バスケットボール.md "wikilink")の[独立リーグ](https://ja.wikipedia.org/wiki/独立リーグ "wikilink")。[2001年](../Page/2001年.md "wikilink")設立。2001年から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")までは、スポンサーに因んで**[グッドイヤー](https://ja.wikipedia.org/wiki/グッドイヤー "wikilink")・リーガ**、2006年から[2011年](../Page/2011年.md "wikilink")までは、[新リュブリャナ銀行](https://ja.wikipedia.org/wiki/新リュブリャナ銀行 "wikilink")（NLB）に因んで**NLBリーグ**と呼ばれていた。シーズンは12チームが参加している。
+**アドリアティック・バスケットボール・アソシエーション**（**A**driatic **B**asketball **A**ssociation）リーグ、**ABAリーグ**は[ボスニア・ヘルツェゴビナ](../Page/ボスニア・ヘルツェゴビナ.md "wikilink")、[クロアチア](../Page/クロアチア.md "wikilink")、[モンテネグロ](../Page/モンテネグロ.md "wikilink")、[セルビア](../Page/セルビア.md "wikilink")、[スロベニア](../Page/スロベニア.md "wikilink")のチームで構成されるプロ[バスケットボール](../Page/バスケットボール.md "wikilink")の[独立リーグ](../Page/独立リーグ.md "wikilink")。[2001年](../Page/2001年.md "wikilink")設立。2001年から[2006年](../Page/2006年.md "wikilink")までは、スポンサーに因んで**[グッドイヤー](../Page/グッドイヤー.md "wikilink")・リーガ**、2006年から[2011年](../Page/2011年.md "wikilink")までは、[新リュブリャナ銀行](https://ja.wikipedia.org/wiki/新リュブリャナ銀行 "wikilink")（NLB）に因んで**NLBリーグ**と呼ばれていた。シーズンは12チームが参加している。
 
 ## 通年参加クラブ (2001-2017)
 
@@ -364,7 +364,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/マッカビ・テルアビブBC" title="wikilink">マッカビ・テルアビブ</a></p></td>
+<td><p><a href="../Page/マッカビ・テルアビブBC.md" title="wikilink">マッカビ・テルアビブ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -862,7 +862,7 @@
   - 2008-09  [KKパルチザン](https://ja.wikipedia.org/wiki/KKパルチザン "wikilink")
   - 2009-10  [KKパルチザン](https://ja.wikipedia.org/wiki/KKパルチザン "wikilink")
   - 2010-11  [KKパルチザン](https://ja.wikipedia.org/wiki/KKパルチザン "wikilink")
-  - 2011-12  [マッカビ・テルアビブBC](https://ja.wikipedia.org/wiki/マッカビ・テルアビブBC "wikilink")
+  - 2011-12  [マッカビ・テルアビブBC](../Page/マッカビ・テルアビブBC.md "wikilink")
   - 2012-13  [KKパルチザン](https://ja.wikipedia.org/wiki/KKパルチザン "wikilink")
   - 2013-14  [KKツィボナ](https://ja.wikipedia.org/wiki/KKツィボナ "wikilink")
   - 2014-15  [KKツルヴェナ・ズヴェズダ](https://ja.wikipedia.org/wiki/KKツルヴェナ・ズヴェズダ "wikilink")
@@ -921,7 +921,7 @@
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マッカビ・テルアビブBC" title="wikilink">マッカビ・テルアビブBC</a></p></td>
+<td><p><a href="../Page/マッカビ・テルアビブBC.md" title="wikilink">マッカビ・テルアビブBC</a></p></td>
 <td><p><strong>1</strong></p></td>
 <td><p><strong>1</strong></p></td>
 <td><p>2011-12</p></td>

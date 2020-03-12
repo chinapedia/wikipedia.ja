@@ -1,7 +1,7 @@
 > この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
 
 
-**ミニF**（ミニエフ）は、[タミヤ](../Page/タミヤ.md "wikilink")の動力付き[自動車](../Page/自動車.md "wikilink")[模型](../Page/模型.md "wikilink")の一種である。[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")から[1993年](../Page/1993年.md "wikilink")にかけて組み立てキットが順次発売され、その後生産終了されたが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")12月に完成車として再発売された。
+**ミニF**（ミニエフ）は、[タミヤ](../Page/タミヤ.md "wikilink")の動力付き[自動車](../Page/自動車.md "wikilink")[模型](../Page/模型.md "wikilink")の一種である。[1992年](../Page/1992年.md "wikilink")から[1993年](../Page/1993年.md "wikilink")にかけて組み立てキットが順次発売され、その後生産終了されたが、[2006年](../Page/2006年.md "wikilink")12月に完成車として再発売された。
 
 ## 構造
 
@@ -11,17 +11,17 @@
 
 ### ミニF-1シリーズ(組み立てキット)
 
-  - [ロータス](https://ja.wikipedia.org/wiki/チーム・ロータス "wikilink") [タイプ 102B](https://ja.wikipedia.org/wiki/ロータス_102 "wikilink")
+  - [ロータス](../Page/チーム・ロータス.md "wikilink") [タイプ 102B](https://ja.wikipedia.org/wiki/ロータス_102 "wikilink")
       - サイドポンツーンが前に延びた後半戦仕様
   - [フェラーリ](../Page/フェラーリ.md "wikilink") [642](https://ja.wikipedia.org/wiki/フェラーリ・642 "wikilink")
       - ノンタバコ仕様
-  - [ブラウン](https://ja.wikipedia.org/wiki/ブラウン_\(企業\) "wikilink") [ティレル](../Page/ティレル.md "wikilink") [ホンダ](https://ja.wikipedia.org/wiki/本田技研工業 "wikilink")[020](https://ja.wikipedia.org/wiki/ティレル・020 "wikilink")
+  - [ブラウン](../Page/ブラウン_\(企業\).md "wikilink") [ティレル](../Page/ティレル.md "wikilink") [ホンダ](../Page/本田技研工業.md "wikilink")[020](https://ja.wikipedia.org/wiki/ティレル・020 "wikilink")
       - モデルは日本GP仕様
   - [ウィリアムズ](https://ja.wikipedia.org/wiki/ウィリアムズF1 "wikilink") [FW14](https://ja.wikipedia.org/wiki/ウィリアムズ・FW14 "wikilink") [ルノー](../Page/ルノー.md "wikilink")
       - ノンタバコ仕様
-  - [ジョーダン](https://ja.wikipedia.org/wiki/ジョーダン・グランプリ "wikilink") [191](https://ja.wikipedia.org/wiki/ジョーダン_191 "wikilink")
+  - [ジョーダン](../Page/ジョーダン・グランプリ.md "wikilink") [191](https://ja.wikipedia.org/wiki/ジョーダン_191 "wikilink")
   - [フットワーク](https://ja.wikipedia.org/wiki/フットワーク "wikilink") [FA13](https://ja.wikipedia.org/wiki/フットワーク・FA13 "wikilink") [無限](../Page/無限.md "wikilink")ホンダ
-  - [ベネトン](https://ja.wikipedia.org/wiki/ベネトン・フォーミュラ "wikilink") [フォード](https://ja.wikipedia.org/wiki/フォード・モーター "wikilink") [B192](https://ja.wikipedia.org/wiki/ベネトン・B192 "wikilink")
+  - [ベネトン](../Page/ベネトン・フォーミュラ.md "wikilink") [フォード](../Page/フォード・モーター.md "wikilink") [B192](../Page/ベネトン・B192.md "wikilink")
       - ノンタバコ仕様
   - [マクラーレン](../Page/マクラーレン.md "wikilink") [MP4/7](https://ja.wikipedia.org/wiki/マクラーレン_MP4/7A "wikilink") ホンダ
       - ノンタバコ仕様、マルボロシェブロン部分は丸くされている
@@ -43,7 +43,7 @@
 
   - [タミヤ](../Page/タミヤ.md "wikilink")
   - [ミニ四駆](../Page/ミニ四駆.md "wikilink")
-  - [ダンガンレーサー](https://ja.wikipedia.org/wiki/ダンガンレーサー "wikilink")
+  - [ダンガンレーサー](../Page/ダンガンレーサー.md "wikilink")
   - [ラジ四駆](https://ja.wikipedia.org/wiki/ラジ四駆 "wikilink")
   - [楽しいトレインシリーズ](https://ja.wikipedia.org/wiki/楽しいトレインシリーズ "wikilink")
   - [バクシード](https://ja.wikipedia.org/wiki/バクシード "wikilink")

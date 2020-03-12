@@ -7,7 +7,7 @@
 
 ## 歴史
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月22日](../Page/4月22日.md "wikilink") [電気通信端末機器審査協会](https://ja.wikipedia.org/wiki/電気通信端末機器審査協会 "wikilink")による[技術基準適合認定の設計認証](https://ja.wikipedia.org/wiki/技術基準適合認定#設計認証 "wikilink") （設計認証番号A05-0162001）
+  - [2005年](../Page/2005年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink") [電気通信端末機器審査協会](../Page/電気通信端末機器審査協会.md "wikilink")による[技術基準適合認定の設計認証](https://ja.wikipedia.org/wiki/技術基準適合認定#設計認証 "wikilink") （設計認証番号A05-0162001）
   - 2005年[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") [テレコムエンジニアリングセンター](https://ja.wikipedia.org/wiki/テレコムエンジニアリングセンター "wikilink")による[技術基準適合証明の工事設計認証](https://ja.wikipedia.org/wiki/技術基準適合証明#工事設計認証 "wikilink") （工事設計認証番号001JXAA1095）
 
 ## 仕様

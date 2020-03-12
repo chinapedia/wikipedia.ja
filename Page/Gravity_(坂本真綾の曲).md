@@ -5,9 +5,9 @@
 
 ## 概要
 
-前作「[ヘミソフィア](https://ja.wikipedia.org/wiki/ヘミソフィア "wikilink")」から1年振りのリリースとなる作品。シングルタイトル曲としては初の英語詞作品である。
+前作「[ヘミソフィア](../Page/ヘミソフィア.md "wikilink")」から1年振りのリリースとなる作品。シングルタイトル曲としては初の英語詞作品である。
 
-カップリング曲「パーク・アムステルダム」は後にアルバム『[少年アリス](https://ja.wikipedia.org/wiki/少年アリス_\(坂本真綾のアルバム\) "wikilink")』にて「park amsterdam (the whole story)」として完全版が収録されている。
+カップリング曲「パーク・アムステルダム」は後にアルバム『[少年アリス](../Page/少年アリス_\(坂本真綾のアルバム\).md "wikilink")』にて「park amsterdam (the whole story)」として完全版が収録されている。
 
 累計出荷枚数は2.7万枚。
 
@@ -17,7 +17,7 @@
 
 1.  **gravity**\[1\]
       - 作詞：troy
-      - [フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[WOLF'S RAIN](https://ja.wikipedia.org/wiki/WOLF'S_RAIN "wikilink")』エンディングテーマ
+      - [フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[WOLF'S RAIN](../Page/WOLF'S_RAIN.md "wikilink")』エンディングテーマ
 2.  **シマシマ**
       - 作詞：坂本真綾
 3.  **パーク・アムステルダム**

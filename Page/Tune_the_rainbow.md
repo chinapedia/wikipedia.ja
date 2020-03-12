@@ -5,9 +5,9 @@
 
 ## 概要
 
-初のオリコントップ10以内にランクインした作品でもあり、初回限定盤にはタイアップとなった映画『[ラーゼフォン 多元変奏曲](https://ja.wikipedia.org/wiki/ラーゼフォン_多元変奏曲 "wikilink")』の特別鑑賞券が付属した裏ジャケット仕様で、CDを購入すれば主題歌が聴けて映画も観られるという触れ込みであった。
+初のオリコントップ10以内にランクインした作品でもあり、初回限定盤にはタイアップとなった映画『[ラーゼフォン 多元変奏曲](../Page/ラーゼフォン_多元変奏曲.md "wikilink")』の特別鑑賞券が付属した裏ジャケット仕様で、CDを購入すれば主題歌が聴けて映画も観られるという触れ込みであった。
 
-カップリング曲「ちいさなヘミソフィア」は9枚目のシングル曲である「[ヘミソフィア](https://ja.wikipedia.org/wiki/ヘミソフィア "wikilink")」のリアレンジバージョンである。また、「THE GARDEN OF EVERYTHING 〜電気ロケットに君をつれて〜」では[菅野よう子](../Page/菅野よう子.md "wikilink")作品でボーカル参加をしているアメリカ人歌手の[Steve Conteとのデュエットであり](https://ja.wikipedia.org/wiki/スティーブ・コンテ "wikilink")、楽曲が[ボロディン作曲の](../Page/アレクサンドル・ボロディン.md "wikilink")「[だったん人の踊り](https://ja.wikipedia.org/wiki/だったん人の踊り "wikilink")」をモチーフとしている。
+カップリング曲「ちいさなヘミソフィア」は9枚目のシングル曲である「[ヘミソフィア](../Page/ヘミソフィア.md "wikilink")」のリアレンジバージョンである。また、「THE GARDEN OF EVERYTHING 〜電気ロケットに君をつれて〜」では[菅野よう子](../Page/菅野よう子.md "wikilink")作品でボーカル参加をしているアメリカ人歌手の[Steve Conteとのデュエットであり](../Page/スティーブ・コンテ.md "wikilink")、楽曲が[ボロディン作曲の](../Page/アレクサンドル・ボロディン.md "wikilink")「[だったん人の踊り](../Page/だったん人の踊り.md "wikilink")」をモチーフとしている。
 
 累計出荷枚数は3.8万枚。
 
@@ -15,12 +15,12 @@
 
 1.  **tune the rainbow** \[5:32\]\[1\]
       -
-        作詞：[岩里祐穂](https://ja.wikipedia.org/wiki/岩里祐穂 "wikilink")、作曲・編曲：[菅野よう子](../Page/菅野よう子.md "wikilink")
+        作詞：[岩里祐穂](../Page/岩里祐穂.md "wikilink")、作曲・編曲：[菅野よう子](../Page/菅野よう子.md "wikilink")
     <!-- end list -->
-      - [松竹](../Page/松竹.md "wikilink")配給アニメ映画『[ラーゼフォン 多元変奏曲](https://ja.wikipedia.org/wiki/ラーゼフォン_多元変奏曲 "wikilink")』主題歌
+      - [松竹](../Page/松竹.md "wikilink")配給アニメ映画『[ラーゼフォン 多元変奏曲](../Page/ラーゼフォン_多元変奏曲.md "wikilink")』主題歌
 2.  **THE GARDEN OF EVERYTHING 〜電気ロケットに君をつれて〜** \[6:22\]\[2\]
       -
-        坂本真綾 feat. [steve conte](https://ja.wikipedia.org/wiki/スティーブ・コンテ "wikilink")
+        坂本真綾 feat. [steve conte](../Page/スティーブ・コンテ.md "wikilink")
         作詞：[chris mosdell](https://ja.wikipedia.org/wiki/クリス・モズデル "wikilink")・maaya sakamoto、作曲：[areksandr. borodin](../Page/アレクサンドル・ボロディン.md "wikilink")、編曲：菅野よう子
 3.  **ちいさなヘミソフィア** \[2:15\]
       -
@@ -30,7 +30,7 @@
 
 **tune the rainbow**
 
-  - [たかはし智秋](https://ja.wikipedia.org/wiki/たかはし智秋 "wikilink")・[今井麻美](https://ja.wikipedia.org/wiki/今井麻美 "wikilink") - 2007年7月22日放送の[ラジオ大阪のラジオ番組](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")『[THE IDOLM@STER RADIO](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_RADIO "wikilink")』のコーナーの1つ「歌姫楽園」でカバーされた。楽曲は2008年6月4日発売のアルバム『THE IDOLM@STER RADIO COLORFUL MEMORIES』に収録された。
+  - [たかはし智秋](https://ja.wikipedia.org/wiki/たかはし智秋 "wikilink")・[今井麻美](../Page/今井麻美.md "wikilink") - 2007年7月22日放送の[ラジオ大阪のラジオ番組](../Page/大阪放送.md "wikilink")『[THE IDOLM@STER RADIO](../Page/THE_IDOLM@STER_RADIO.md "wikilink")』のコーナーの1つ「歌姫楽園」でカバーされた。楽曲は2008年6月4日発売のアルバム『THE IDOLM@STER RADIO COLORFUL MEMORIES』に収録された。
 
 ## 脚注
 

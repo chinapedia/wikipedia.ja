@@ -67,7 +67,7 @@ PSP版はPS2版にあったバグも修正されている。
 ## 関連商品
 
   - ウィザードリィエンパイアIII 覇王の系譜 公式ガイド
-      - [NTT出版](https://ja.wikipedia.org/wiki/NTT出版 "wikilink") 2003年12月発売　1300円
+      - [NTT出版](../Page/NTT出版.md "wikilink") 2003年12月発売　1300円
 
 ## 外部リンク
 

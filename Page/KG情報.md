@@ -13,7 +13,7 @@
   - [1984年](../Page/1984年.md "wikilink")（昭和59年）2月 - 有限会社ベルクに社名変更。
   - [1993年](../Page/1993年.md "wikilink")（平成5年）3月 - 株式会社ケージー情報出版に社名変更。本社機能を岡山市へ移転し組織変更。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）10月 - 現在の社名に変更。
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")（平成16年）12月 - ジャスダックに上場。
+  - [2004年](../Page/2004年.md "wikilink")（平成16年）12月 - ジャスダックに上場。
 
 ## 事業所
 
@@ -25,7 +25,7 @@
 **管理本部**（2009年5月開設）
 
   -
-    〒700-0952 [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[岡山市](../Page/岡山市.md "wikilink")[北区辰巳](https://ja.wikipedia.org/wiki/北区_\(岡山市\) "wikilink")20番地113
+    〒700-0952 [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[岡山市](../Page/岡山市.md "wikilink")[北区辰巳](../Page/北区_\(岡山市\).md "wikilink")20番地113
 
 **高松支社**
 
@@ -40,7 +40,7 @@
 **徳島支社**（2008年6月開設）
 
   -
-    〒770-0841 [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[徳島市](https://ja.wikipedia.org/wiki/徳島市 "wikilink")[八百屋町](https://ja.wikipedia.org/wiki/八百屋町_\(徳島市\) "wikilink")3番地26 大同生命徳島ビル5階
+    〒770-0841 [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[徳島市](../Page/徳島市.md "wikilink")[八百屋町](https://ja.wikipedia.org/wiki/八百屋町_\(徳島市\) "wikilink")3番地26 大同生命徳島ビル5階
 
 **高知支社**（2008年1月開設）
 
@@ -50,7 +50,7 @@
 **岡山支社**
 
   -
-    〒700-0952 [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[岡山市](../Page/岡山市.md "wikilink")[北区平田](https://ja.wikipedia.org/wiki/北区_\(岡山市\) "wikilink")170番地108
+    〒700-0952 [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[岡山市](../Page/岡山市.md "wikilink")[北区平田](../Page/北区_\(岡山市\).md "wikilink")170番地108
 
 **広島支社**（1989年8月開設）
 
@@ -60,7 +60,7 @@
 **福岡支社**（2012年3月開設）
 
   -
-    〒810-0002 [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中央区](../Page/中央区_\(福岡市\).md "wikilink")[西中洲](https://ja.wikipedia.org/wiki/西中洲_\(福岡市\) "wikilink")12番33号 大同生命福岡ビル11階
+    〒810-0002 [福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中央区](../Page/中央区_\(福岡市\).md "wikilink")[西中洲](https://ja.wikipedia.org/wiki/西中洲_\(福岡市\) "wikilink")12番33号 大同生命福岡ビル11階
 
 **大分支社**（2011年5月開設）
 
@@ -80,7 +80,7 @@
 **倉敷支局**（1986年6月開設）
 
   -
-    〒710-0834 [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")[笹沖](https://ja.wikipedia.org/wiki/笹沖 "wikilink")1186番地1
+    〒710-0834 [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")[笹沖](../Page/笹沖.md "wikilink")1186番地1
 
 **東広島支局**（2006年10月開設）
 
@@ -95,17 +95,17 @@
 **北九州支局**（2010年5月開設）
 
   -
-    〒811-3425 [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")宗像市日の里1丁目11番9号　日の里ビル1階
+    〒811-3425 [福岡県](../Page/福岡県.md "wikilink")宗像市日の里1丁目11番9号　日の里ビル1階
 
 **姫路支局**（1993年9月開設）
 
   -
-    〒670-0955 [兵庫県](../Page/兵庫県.md "wikilink")[姫路市](https://ja.wikipedia.org/wiki/姫路市 "wikilink")安田1番5号 クレヨン第一ビル6階
+    〒670-0955 [兵庫県](../Page/兵庫県.md "wikilink")[姫路市](../Page/姫路市.md "wikilink")安田1番5号 クレヨン第一ビル6階
 
 **生産本部**（2006年11月開設）
 
   -
-    〒709-2124 [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[北区御津高津](https://ja.wikipedia.org/wiki/北区_\(岡山市\) "wikilink")120番地42
+    〒709-2124 [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[北区御津高津](../Page/北区_\(岡山市\).md "wikilink")120番地42
 
 ## 発行誌
 

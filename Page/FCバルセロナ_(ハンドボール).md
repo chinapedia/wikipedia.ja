@@ -3,7 +3,7 @@
 
 [2012_2013_-_Aitor_Ariño_-_Flickr_-_Castroquini-FCB.jpg](https://ja.wikipedia.org/wiki/File:2012_2013_-_Aitor_Ariño_-_Flickr_-_Castroquini-FCB.jpg "fig:2012_2013_-_Aitor_Ariño_-_Flickr_-_Castroquini-FCB.jpg")と同じ、青とえんじのユニフォーム（2012年）\]\] **フットボール・クラブ・バルセロナ・ハンドボール**（）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バルセロナ](../Page/バルセロナ.md "wikilink")に本拠地を置く[ハンドボール](../Page/ハンドボール.md "wikilink")クラブである。[トルコ](../Page/トルコ.md "wikilink")のタイヤメーカーであるラッサ（Lassa）が命名権を取得しており、**FCバルセロナ・ラッサ**（）として活動している。
 
-8,250人収容の[パラウ・ブラウグラナ](https://ja.wikipedia.org/wiki/パラウ・ブラウグラナ "wikilink")を本拠地とする。この施設は[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")の[バスケットボール部門](https://ja.wikipedia.org/wiki/FCバルセロナ_\(バスケットボール\) "wikilink")、[フットサル部門](https://ja.wikipedia.org/wiki/FCバルセロナ_\(フットサル\) "wikilink")、[ローラーホッケー部門の各チームと共同で利用している](https://ja.wikipedia.org/wiki/FCバルセロナ_\(ローラーホッケー\) "wikilink")。
+8,250人収容の[パラウ・ブラウグラナ](https://ja.wikipedia.org/wiki/パラウ・ブラウグラナ "wikilink")を本拠地とする。この施設は[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")の[バスケットボール部門](../Page/FCバルセロナ_\(バスケットボール\).md "wikilink")、[フットサル部門](../Page/FCバルセロナ_\(フットサル\).md "wikilink")、[ローラーホッケー部門の各チームと共同で利用している](../Page/FCバルセロナ_\(ローラーホッケー\).md "wikilink")。
 
 ## 歴史
 
@@ -219,7 +219,7 @@ FCバルセロナのハンドボール部門として、エンリケ・ピニェ
 
 ## 歴代所属選手
 
-  - [イニャキ・ウルダンガリン](https://ja.wikipedia.org/wiki/イニャキ・ウルダンガリン "wikilink") 1986 - 2000
+  - [イニャキ・ウルダンガリン](../Page/イニャキ・ウルダンガリン.md "wikilink") 1986 - 2000
 
   - ダビド・バルフェ([:en:David Barrufet](https://ja.wikipedia.org/wiki/:en:David_Barrufet "wikilink")) 1988 - 2006
 

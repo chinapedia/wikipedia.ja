@@ -1,7 +1,7 @@
 > この記事は[GUHROOVY](https://ja.wikipedia.org/wiki/GUHROOVY)から翻訳されています。
 
 
-**GUHROOVY**（グルーヴィー）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に存在する[CD](../Page/コンパクトディスク.md "wikilink")/[レコード](../Page/レコード.md "wikilink")ショップ。日本国内でも数少ない[ハードコアテクノ](../Page/ハードコアテクノ.md "wikilink")のCD及びレコードを専門に取り扱っている（ショップオリジナルのTシャツ等の商品も販売・展開している）。当社の社長・内堀 彰は店名と同じGUHROOVY名義で音楽ユニットとして活動しており[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（現・[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")）の音楽ゲーム（[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")）にも楽曲を提供している。その際には、[L.E.D.や](../Page/角田利之.md "wikilink")[DJ TECHNORCHと一緒に演奏することが多い](https://ja.wikipedia.org/wiki/DJ_TECHNORCH "wikilink")。CDショップの店長は、彼らと同様に家庭用[beatmania IIDXに楽曲提供を行っている国内有数の](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")[ガバDJである](https://ja.wikipedia.org/wiki/ガバ_\(音楽\) "wikilink")[DJ CHUCKYである](https://ja.wikipedia.org/wiki/DJ_CHUCKY "wikilink")。また家庭用beatmania IIDX11REDに、世界的にも有名な[スコット・ブラウンが楽曲提供を行っているが](../Page/スコット・ブラウン_\(DJ\).md "wikilink")、スコットとの楽曲提供の交渉は、コナミから依頼されて彼らが行ったものである。\[1\]
+**GUHROOVY**（グルーヴィー）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に存在する[CD](../Page/コンパクトディスク.md "wikilink")/[レコード](../Page/レコード.md "wikilink")ショップ。日本国内でも数少ない[ハードコアテクノ](../Page/ハードコアテクノ.md "wikilink")のCD及びレコードを専門に取り扱っている（ショップオリジナルのTシャツ等の商品も販売・展開している）。当社の社長・内堀 彰は店名と同じGUHROOVY名義で音楽ユニットとして活動しており[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（現・[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）の音楽ゲーム（[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")）にも楽曲を提供している。その際には、[L.E.D.や](../Page/角田利之.md "wikilink")[DJ TECHNORCHと一緒に演奏することが多い](../Page/DJ_TECHNORCH.md "wikilink")。CDショップの店長は、彼らと同様に家庭用[beatmania IIDXに楽曲提供を行っている国内有数の](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")[ガバDJである](../Page/ガバ_\(音楽\).md "wikilink")[DJ CHUCKYである](https://ja.wikipedia.org/wiki/DJ_CHUCKY "wikilink")。また家庭用beatmania IIDX11REDに、世界的にも有名な[スコット・ブラウンが楽曲提供を行っているが](../Page/スコット・ブラウン_\(DJ\).md "wikilink")、スコットとの楽曲提供の交渉は、コナミから依頼されて彼らが行ったものである。\[1\]
 
 ## メンバー
 
@@ -52,7 +52,7 @@
       - PARTY A GO GO ☆ (pop'n music 14 FEVER\! : サドルシューズ) - K.C.B.HとNO+CHINが参加
       - Soul On Fire (pop'n music 15 ADVENTURE : L.E.D.-G vs. GUHROOVY fw NO+CHIN)
       - AKATSUKI (pop'n music 18 せんごく列伝 : L.E.D. Vs. GHUROOVY)
-  - [DANCE 86.4 FUNKY RADIO STATION](https://ja.wikipedia.org/wiki/DANCE_86.4_FUNKY_RADIO_STATION "wikilink")
+  - [DANCE 86.4 FUNKY RADIO STATION](../Page/DANCE_86.4_FUNKY_RADIO_STATION.md "wikilink")
       - [スーダラ節](../Page/スーダラ節.md "wikilink")（平成ラガ&ジャングルMIX） ([Togo-chef](https://ja.wikipedia.org/wiki/藤後浩之 "wikilink") fw.GUHROOVY & NO+CHIN)
   - [jubeat](https://ja.wikipedia.org/wiki/jubeat "wikilink")
       - coming true (jubeat ripples : GUHROOVY Vs.L.E.D)
@@ -93,7 +93,7 @@
 ## 関連項目
 
   - [L.E.D.](../Page/角田利之.md "wikilink")
-  - [DJ TECHNORCH](https://ja.wikipedia.org/wiki/DJ_TECHNORCH "wikilink")
+  - [DJ TECHNORCH](../Page/DJ_TECHNORCH.md "wikilink")
 
 ## 外部リンク
 

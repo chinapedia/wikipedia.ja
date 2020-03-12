@@ -52,7 +52,7 @@ GIFTXPRESS社製 商品パッケージがギフト向けの包装紙に包まれ
   - [Polga](https://ja.wikipedia.org/wiki/Polga "wikilink")
   - Superheadz
       - ハリネズミカメラ
-  - [トミー](https://ja.wikipedia.org/wiki/トミー_\(企業\) "wikilink")
+  - [トミー](../Page/トミー_\(企業\).md "wikilink")
       - Xiaostyle
 
 ## 外部リンク

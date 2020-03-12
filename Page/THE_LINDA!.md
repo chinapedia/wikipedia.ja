@@ -7,9 +7,9 @@
 
   - Ken (永井健, Vocal) - [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")出身 [立教大学](../Page/立教大学.md "wikilink")卒。現在はバンドのほか[理学療法士](../Page/理学療法士.md "wikilink")をつづけるかたわら[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")としても活動する。
   - nisa (立山航洋, Keyboard) - [香川県](../Page/香川県.md "wikilink")出身、立教大学卒。スタジオを経営しているほか、[作曲家](../Page/作曲家.md "wikilink")としても活動する。
-  - Akiyuki ([立山秋航](https://ja.wikipedia.org/wiki/立山秋航 "wikilink"), Drums) - 香川県出身、[洗足学園音楽大学](https://ja.wikipedia.org/wiki/洗足学園音楽大学 "wikilink")卒。キーボードnisaの弟。作曲家としても活動する。
+  - Akiyuki ([立山秋航](https://ja.wikipedia.org/wiki/立山秋航 "wikilink"), Drums) - 香川県出身、[洗足学園音楽大学](../Page/洗足学園音楽大学.md "wikilink")卒。キーボードnisaの弟。作曲家としても活動する。
   - Yu (寺岡佑, Guitar) - [兵庫県](../Page/兵庫県.md "wikilink")出身、立教大学卒。藤田淳之介(Sax, ex.[Clacks](https://ja.wikipedia.org/wiki/Clacks "wikilink"), [TRI4TH](https://ja.wikipedia.org/wiki/TRI4TH "wikilink"))とのユニットGeneration GAP などでも活動。
-  - Tomoya (樫村智也, Bass) - [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")出身、[ESPミュージカルアカデミー卒](https://ja.wikipedia.org/wiki/学校法人イーエスピー学園 "wikilink")。ベーシスト「カシムラトモヤ」表記で[GAKU-MC](https://ja.wikipedia.org/wiki/GAKU-MC "wikilink")のレコーディングや[伊藤かな恵](https://ja.wikipedia.org/wiki/伊藤かな恵 "wikilink")のツアーにも参加。
+  - Tomoya (樫村智也, Bass) - [茨城県](../Page/茨城県.md "wikilink")出身、[ESPミュージカルアカデミー卒](../Page/学校法人イーエスピー学園.md "wikilink")。ベーシスト「カシムラトモヤ」表記で[GAKU-MC](../Page/GAKU-MC.md "wikilink")のレコーディングや[伊藤かな恵](../Page/伊藤かな恵.md "wikilink")のツアーにも参加。
 
 ### 過去に在籍していたメンバー
 
@@ -45,7 +45,7 @@
 <!-- end list -->
 
   -
-    収録曲「Friday Night」は[USEN](https://ja.wikipedia.org/wiki/USEN "wikilink")インディーズカウントダウンで2006年10月度1位、2007年2月度・3月度2位にランクインするなど、7ヶ月連続でTOP10入りを果たした。
+    収録曲「Friday Night」は[USEN](../Page/USEN.md "wikilink")インディーズカウントダウンで2006年10月度1位、2007年2月度・3月度2位にランクインするなど、7ヶ月連続でTOP10入りを果たした。
 
 <!-- end list -->
 
@@ -69,11 +69,11 @@
 
 ### 楽曲提供
 
-  - [北原愛子](https://ja.wikipedia.org/wiki/北原愛子 "wikilink")
+  - [北原愛子](../Page/北原愛子.md "wikilink")
       - 「[AMORE MIO](../Page/もう心揺れたりしないで.md "wikilink")」（編曲）
-      - 「[恋花火](https://ja.wikipedia.org/wiki/SHANTI_\(北原愛子のアルバム\) "wikilink")」（編曲）
-      - 「[本当の気持ち](https://ja.wikipedia.org/wiki/SHANTI_\(北原愛子のアルバム\) "wikilink")」（作曲・編曲）
-      - 「[Crazy ↑↑↑](https://ja.wikipedia.org/wiki/SHANTI_\(北原愛子のアルバム\) "wikilink")」（作曲・編曲）
+      - 「[恋花火](../Page/SHANTI_\(北原愛子のアルバム\).md "wikilink")」（編曲）
+      - 「[本当の気持ち](../Page/SHANTI_\(北原愛子のアルバム\).md "wikilink")」（作曲・編曲）
+      - 「[Crazy ↑↑↑](../Page/SHANTI_\(北原愛子のアルバム\).md "wikilink")」（作曲・編曲）
 
 **[立山秋航](https://ja.wikipedia.org/wiki/立山秋航 "wikilink")**
 
@@ -81,7 +81,7 @@
 
 ### 客演作品
 
-  - [岩田さゆり](https://ja.wikipedia.org/wiki/岩田さゆり "wikilink")
+  - [岩田さゆり](../Page/岩田さゆり.md "wikilink")
 
 <!-- end list -->
 

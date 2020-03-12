@@ -5,7 +5,7 @@
 
 ## 解説
 
-[松竹](../Page/松竹.md "wikilink")系配給[アニメ映画](../Page/アニメーション映画.md "wikilink")『[エルマーの冒険](https://ja.wikipedia.org/wiki/エルマーのぼうけん "wikilink")』主題歌、[ハウス食品](../Page/ハウス食品.md "wikilink")「[ククレカレー](https://ja.wikipedia.org/wiki/ククレカレー "wikilink")」CMソング。
+[松竹](../Page/松竹.md "wikilink")系配給[アニメ映画](../Page/アニメーション映画.md "wikilink")『[エルマーの冒険](../Page/エルマーのぼうけん.md "wikilink")』主題歌、[ハウス食品](../Page/ハウス食品.md "wikilink")「[ククレカレー](../Page/ククレカレー.md "wikilink")」CMソング。
 
 映画『エルマーの冒険』では、YU-KIが主人公の**エルマー・エレベーター**役で声優に初挑戦している。
 
@@ -17,10 +17,10 @@
 
 1.  dragons' dance(STRAIGHT RUN)
       -
-        作詞：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")・[MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")、作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+        作詞：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")・[MARC](../Page/マーク・パンサー.md "wikilink")、作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
 2.  dragons' dance(GROOVE MIX)
       -
-        作詞：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")・[MARC](https://ja.wikipedia.org/wiki/マーク・パンサー "wikilink")、作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+        作詞：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")・[MARC](../Page/マーク・パンサー.md "wikilink")、作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
 3.  dragons' dance(INSTRUMENTAL)
 
 ## 出典

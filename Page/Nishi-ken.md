@@ -49,9 +49,9 @@
 <td><p>オリコン最高位</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アテナ&amp;ロビケロッツ" title="wikilink">アテナ&amp;ロビケロッツ</a></p></td>
+<td><p><a href="../Page/アテナ&amp;ロビケロッツ.md" title="wikilink">アテナ&amp;ロビケロッツ</a></p></td>
 <td><p>2008年2月14日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/青春!LOVEランチ" title="wikilink">青春!LOVEランチ</a></strong></p></td>
+<td><p><strong><a href="../Page/青春!LOVEランチ.md" title="wikilink">青春!LOVEランチ</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>25位[1]</p></td>
 </tr>
@@ -140,14 +140,14 @@
 <td><p>43位[7]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ケツメイシ" title="wikilink">ケツメイシ</a></p></td>
+<td><p><a href="../Page/ケツメイシ.md" title="wikilink">ケツメイシ</a></p></td>
 <td><p>2014年3月12日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/カリフォルニー" title="wikilink">カリフォルニー</a></strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>6位[8]</p></td>
 </tr>
 <tr class="even">
-<td><p>九重りん（<a href="https://ja.wikipedia.org/wiki/喜多村英梨" title="wikilink">喜多村英梨</a>）</p></td>
+<td><p>九重りん（<a href="../Page/喜多村英梨.md" title="wikilink">喜多村英梨</a>）</p></td>
 <td><p>2007年12月26日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/こどものじかんのディスコグラフィ#Vol.1_九重りん" title="wikilink">せんせい…初めてですか?</a></strong></p></td>
 <td><p>編曲</p></td>
@@ -155,7 +155,7 @@
 </tr>
 <tr class="odd">
 <td><p>九重りん・鏡黒・宇佐美々<br />
-（喜多村英梨・<a href="https://ja.wikipedia.org/wiki/真堂圭" title="wikilink">真堂圭</a>・<a href="https://ja.wikipedia.org/wiki/門脇舞以" title="wikilink">門脇舞以</a>）</p></td>
+（喜多村英梨・<a href="../Page/真堂圭.md" title="wikilink">真堂圭</a>・<a href="../Page/門脇舞以.md" title="wikilink">門脇舞以</a>）</p></td>
 <td><p>2007年10月24日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/こどものじかんのディスコグラフィ#アニメ主題歌" title="wikilink">れっつ!おひめさまだっこ</a></strong></p></td>
 <td><p>編曲</p></td>
@@ -246,7 +246,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/中川翔子" title="wikilink">中川翔子</a></p></td>
+<td><p><a href="../Page/中川翔子.md" title="wikilink">中川翔子</a></p></td>
 <td><p>2008年1月30日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/snow_tears" title="wikilink">snow tears</a></strong></p></td>
 <td><p>編曲</p></td>
@@ -254,14 +254,14 @@
 </tr>
 <tr class="odd">
 <td><p>2008年8月6日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Shiny_GATE" title="wikilink">Shiny GATE</a></strong></p></td>
+<td><p><strong><a href="../Page/Shiny_GATE.md" title="wikilink">Shiny GATE</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>8位[22]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2008年9月10日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/続く世界" title="wikilink">続く世界</a></strong></p></td>
+<td><p><strong><a href="../Page/続く世界.md" title="wikilink">続く世界</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>5位[23]</p></td>
 <td></td>
@@ -274,7 +274,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>背景コンビ（<a href="../Page/水原薫.md" title="wikilink">水原薫</a>・<a href="https://ja.wikipedia.org/wiki/相沢舞" title="wikilink">相沢舞</a>）</p></td>
+<td><p>背景コンビ（<a href="../Page/水原薫.md" title="wikilink">水原薫</a>・<a href="../Page/相沢舞.md" title="wikilink">相沢舞</a>）</p></td>
 <td><p>2007年10月31日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/らき☆すた_キャラクターソング#Vol.009_背景コンビ" title="wikilink">“ラ”はらき☆すたの“ラ”</a></strong></p></td>
 <td><p>作曲/編曲</p></td>
@@ -295,14 +295,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>柊かがみ（<a href="https://ja.wikipedia.org/wiki/加藤英美里" title="wikilink">加藤英美里</a>）</p></td>
+<td><p>柊かがみ（<a href="../Page/加藤英美里.md" title="wikilink">加藤英美里</a>）</p></td>
 <td><p>2007年9月5日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/らき☆すた_キャラクターソング#Vol.002_柊かがみ" title="wikilink">ケンカ予報の時間だよ</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>9位[26]</p></td>
 </tr>
 <tr class="even">
-<td><p>柊つかさ（<a href="https://ja.wikipedia.org/wiki/福原香織" title="wikilink">福原香織</a>）</p></td>
+<td><p>柊つかさ（<a href="../Page/福原香織.md" title="wikilink">福原香織</a>）</p></td>
 <td><p>2007年9月5日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/らき☆すた_キャラクターソング#Vol.003_柊つかさ" title="wikilink">寝・逃・げでリセット!</a></strong></p></td>
 <td><p>編曲</p></td>
@@ -311,13 +311,13 @@
 <tr class="odd">
 <td><p><a href="../Page/平野綾.md" title="wikilink">平野綾</a></p></td>
 <td><p>2007年10月10日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/LOVE★GUN" title="wikilink">LOVE★GUN</a></strong></p></td>
+<td><p><strong><a href="../Page/LOVE★GUN.md" title="wikilink">LOVE★GUN</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>6位[28]</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年12月5日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/MonStAR" title="wikilink">MonStAR</a></strong></p></td>
+<td><p><strong><a href="../Page/MonStAR.md" title="wikilink">MonStAR</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>11位[29]</p></td>
 <td></td>
@@ -429,21 +429,21 @@
 <td><p>! 〜しあわせのたねをまこう〜]]'''</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/RIDER_CHIPS" title="wikilink">RIDER CHIPS</a></p></td>
+<td><p><a href="../Page/RIDER_CHIPS.md" title="wikilink">RIDER CHIPS</a></p></td>
 <td><p>2006年4月5日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/FULL_FORCE" title="wikilink">FULL FORCE</a></strong></p></td>
 <td><p>作曲</p></td>
 <td><p>25位[41]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Lead" title="wikilink">Lead</a></p></td>
+<td><p><a href="../Page/Lead.md" title="wikilink">Lead</a></p></td>
 <td><p>2015年11月25日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/約束_(Leadの曲)" title="wikilink">約束</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>5位[42]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Little_Non" title="wikilink">Little Non</a></p></td>
+<td><p><a href="../Page/Little_Non.md" title="wikilink">Little Non</a></p></td>
 <td><p>2007年10月12日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ハナマル☆センセイション/愛情◎エデュケイション" title="wikilink">ハナマル☆センセイション</a></strong></p></td>
 <td><p>編曲</p></td>
@@ -509,7 +509,7 @@
 <td><p>収録CD</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/土橋安騎夫" title="wikilink">AKIO DOBASHI</a></p></td>
+<td><p><a href="../Page/土橋安騎夫.md" title="wikilink">AKIO DOBASHI</a></p></td>
 <td><p>2018年11月21日</p></td>
 <td><p><strong>Romancer（nishi-ken Remix）</strong></p></td>
 <td><p>Remix</p></td>
@@ -541,14 +541,14 @@
 <td><p>2007年9月5日</p></td>
 <td><p><strong>Dドライヴ/ラヴ</strong></p></td>
 <td><p>作曲/編曲</p></td>
-<td><p>Sg「<a href="https://ja.wikipedia.org/wiki/らき☆すた_キャラクターソング" title="wikilink">らき☆すた キャラクターソング<br />
+<td><p>Sg「<a href="../Page/らき☆すた_キャラクターソング.md" title="wikilink">らき☆すた キャラクターソング<br />
 Vol.001 泉こなた</a>」</p></td>
 </tr>
 <tr class="odd">
 <td><p>泉こなた・柊かがみ・<br />
 柊つかさ・高良みゆき<br />
 （平野綾・加藤英美里<br />
-・福原香織・<a href="https://ja.wikipedia.org/wiki/遠藤綾" title="wikilink">遠藤綾</a>）</p></td>
+・福原香織・<a href="../Page/遠藤綾.md" title="wikilink">遠藤綾</a>）</p></td>
 <td><p>2007年5月23日</p></td>
 <td><p>'''かえして!ニーソックス '''</p></td>
 <td><p>作曲/編曲</p></td>
@@ -763,11 +763,11 @@ A・K・マクダウェル<br />
 蒼碧の月の姫君〜 ボーカルアルバム」</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/川村ゆみ" title="wikilink">川村ゆみ</a></p></td>
+<td><p><a href="../Page/川村ゆみ.md" title="wikilink">川村ゆみ</a></p></td>
 <td><p>2008年7月2日</p></td>
 <td><p><strong>Found Me</strong></p></td>
 <td><p>編曲</p></td>
-<td><p>Al「<a href="https://ja.wikipedia.org/wiki/ペルソナ_〜トリニティ・ソウル〜" title="wikilink">ペルソナ~トリニティ・ソウル~ オリジナル・サウンドトラック</a>」</p></td>
+<td><p>Al「<a href="../Page/ペルソナ_〜トリニティ・ソウル〜.md" title="wikilink">ペルソナ~トリニティ・ソウル~ オリジナル・サウンドトラック</a>」</p></td>
 </tr>
 <tr class="even">
 <td><p>キケチャレ！feat. Negicco</p></td>
@@ -777,7 +777,7 @@ A・K・マクダウェル<br />
 <td><p>編曲</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/喜多修平" title="wikilink">喜多修平</a></p></td>
+<td><p><a href="../Page/喜多修平.md" title="wikilink">喜多修平</a></p></td>
 <td><p>2008年2月7日</p></td>
 <td><p><strong>キミの記憶</strong></p></td>
 <td><p>編曲</p></td>
@@ -912,7 +912,7 @@ A・K・マクダウェル<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/五條真由美" title="wikilink">五條真由美</a></p></td>
+<td><p><a href="../Page/五條真由美.md" title="wikilink">五條真由美</a></p></td>
 <td><p>2005年11月23日</p></td>
 <td><p><strong>Crystal</strong></p></td>
 <td><p>作曲</p></td>
@@ -955,7 +955,7 @@ feat. Naoya Urata(AAA)</strong></p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/Digitalian_is_remixing" title="wikilink">Digitalian is remixing</a>」</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Psycho_le_Cemu" title="wikilink">Psycho le Cému</a></p></td>
+<td><p><a href="../Page/Psycho_le_Cemu.md" title="wikilink">Psycho le Cému</a></p></td>
 <td><p>2016年8月17日</p></td>
 <td><p><strong>LOVE IS DEAD</strong></p></td>
 <td><p>編曲</p></td>
@@ -1008,14 +1008,14 @@ feat. Naoya Urata(AAA)</strong></p></td>
 <td><p>2009年1月21日</p></td>
 <td><p><strong>空前未満は見せないで</strong></p></td>
 <td><p>編曲</p></td>
-<td><p>Al「<a href="https://ja.wikipedia.org/wiki/涼宮ハルヒの激動" title="wikilink">涼宮ハルヒの激動<br />
+<td><p>Al「<a href="../Page/涼宮ハルヒの激動.md" title="wikilink">涼宮ハルヒの激動<br />
 ボーカルミニアルバム</a>」</p></td>
 </tr>
 <tr class="even">
 <td><p>2009年9月30日</p></td>
 <td><p><strong>その日空はきっと青い</strong></p></td>
 <td><p>作曲/編曲</p></td>
-<td><p>Sg「<a href="https://ja.wikipedia.org/wiki/涼宮ハルヒの憂鬱_キャラクターソング" title="wikilink">涼宮ハルヒの憂鬱 新キャラクター<br />
+<td><p>Sg「<a href="../Page/涼宮ハルヒの憂鬱_キャラクターソング.md" title="wikilink">涼宮ハルヒの憂鬱 新キャラクター<br />
 ソング Vol.1 涼宮ハルヒ</a>」</p></td>
 <td></td>
 </tr>
@@ -1041,7 +1041,7 @@ feat. Naoya Urata(AAA)</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/TAKUYA" title="wikilink">TAKUYA</a></p></td>
+<td><p><a href="../Page/TAKUYA.md" title="wikilink">TAKUYA</a></p></td>
 <td><p>2012年1月18日</p></td>
 <td><p><strong>Blue Flame</strong></p></td>
 <td><p>編曲</p></td>
@@ -1146,11 +1146,11 @@ feat. Naoya Urata(AAA)</strong></p></td>
 <td><p>2015年9月16日</p></td>
 <td><p><strong>あっち、こっち、そっち。</strong></p></td>
 <td><p>作曲/編曲</p></td>
-<td><p>Al「<a href="https://ja.wikipedia.org/wiki/てんこもり" title="wikilink">てんこもり</a>」</p></td>
+<td><p>Al「<a href="../Page/てんこもり.md" title="wikilink">てんこもり</a>」</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/中川翔子" title="wikilink">中川翔子</a></p></td>
+<td><p><a href="../Page/中川翔子.md" title="wikilink">中川翔子</a></p></td>
 <td><p>2007年9月19日</p></td>
 <td><p><strong>輪舞 -Revolution-</strong></p></td>
 <td><p>編曲</p></td>
@@ -1235,7 +1235,7 @@ feat. Naoya Urata(AAA)</strong></p></td>
 「<a href="https://ja.wikipedia.org/wiki/GO_BABY!_&#39;SUPER&#39;_EDITION" title="wikilink">GO BABY! 'SUPER' EDITION</a>」</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/野村義男" title="wikilink">野村義男</a></p></td>
+<td><p><a href="../Page/野村義男.md" title="wikilink">野村義男</a></p></td>
 <td><p>2020年2月29日</p></td>
 <td><p><strong>星降る愛のTOKYO</strong></p></td>
 <td><p>編曲</p></td>
@@ -1268,7 +1268,7 @@ feat. Naoya Urata(AAA)</strong></p></td>
 <td><p>2007年10月31日</p></td>
 <td><p><strong>背景放題やりほーだい?</strong></p></td>
 <td><p>作曲/編曲</p></td>
-<td><p>Sg「<a href="https://ja.wikipedia.org/wiki/らき☆すた_キャラクターソング" title="wikilink">らき☆すた キャラクターソング<br />
+<td><p>Sg「<a href="../Page/らき☆すた_キャラクターソング.md" title="wikilink">らき☆すた キャラクターソング<br />
 Vol.009 背景コンビ</a>」</p></td>
 </tr>
 <tr class="even">
@@ -1340,13 +1340,13 @@ Vol.009 背景コンビ</a>」</p></td>
 <td><p>2007年10月10日</p></td>
 <td><p><strong>GLITTER</strong></p></td>
 <td><p>編曲</p></td>
-<td><p>Sg「<a href="https://ja.wikipedia.org/wiki/LOVE★GUN" title="wikilink">LOVE★GUN</a>」</p></td>
+<td><p>Sg「<a href="../Page/LOVE★GUN.md" title="wikilink">LOVE★GUN</a>」</p></td>
 </tr>
 <tr class="even">
 <td><p>2008年7月16日</p></td>
 <td><p><strong>HERO</strong></p></td>
 <td><p>作曲/編曲</p></td>
-<td><p>Al「<a href="https://ja.wikipedia.org/wiki/RIOT_GIRL" title="wikilink">RIOT GIRL</a>」</p></td>
+<td><p>Al「<a href="../Page/RIOT_GIRL.md" title="wikilink">RIOT GIRL</a>」</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1876,7 +1876,7 @@ Vol.009 背景コンビ</a>」</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/武藤彩未" title="wikilink">武藤彩未</a></p></td>
+<td><p><a href="../Page/武藤彩未.md" title="wikilink">武藤彩未</a></p></td>
 <td><p>2014年4月23日</p></td>
 <td><p><strong>時間というWonderland</strong></p></td>
 <td><p>編曲</p></td>
@@ -1939,7 +1939,7 @@ Vol.009 背景コンビ</a>」</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/BEAM" title="wikilink">BEAM</a>」</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/RIDER_CHIPS" title="wikilink">RIDER CHIPS</a></p></td>
+<td><p><a href="../Page/RIDER_CHIPS.md" title="wikilink">RIDER CHIPS</a></p></td>
 <td><p>2018年7月7日</p></td>
 <td><p><strong>cry for the moon</strong></p></td>
 <td><p>作曲</p></td>
@@ -1953,7 +1953,7 @@ Vol.009 背景コンビ</a>」</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Lead" title="wikilink">Lead</a></p></td>
+<td><p><a href="../Page/Lead.md" title="wikilink">Lead</a></p></td>
 <td><p>2015年3月4日</p></td>
 <td><p><strong>It’s My Style</strong></p></td>
 <td><p>編曲</p></td>
@@ -1985,15 +1985,15 @@ Vol.009 背景コンビ</a>」</p></td>
 
 ## 主なライブ参加
 
-  - [皆川純子](https://ja.wikipedia.org/wiki/皆川純子 "wikilink")（2007年）\[46\]\[47\]
-  - [高橋瞳](https://ja.wikipedia.org/wiki/高橋瞳 "wikilink")（2007年）\[48\]
-  - [TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink") Birthday party live（2007、2008年）\[49\]\[50\]
+  - [皆川純子](../Page/皆川純子.md "wikilink")（2007年）\[46\]\[47\]
+  - [高橋瞳](../Page/高橋瞳.md "wikilink")（2007年）\[48\]
+  - [TAKUYA](../Page/TAKUYA.md "wikilink") Birthday party live（2007、2008年）\[49\]\[50\]
   - [平野綾](../Page/平野綾.md "wikilink")（2008、2009年）\[51\]\[52\]
-  - [中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")（2008年）\[53\]
+  - [中川翔子](../Page/中川翔子.md "wikilink")（2008年）\[53\]
   - [宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")（2010年、2011年、2012年、2015年、2016年、2017年、2018年、2019年、2020年)\[54\]\[55\]\[56\]\[57\]\[58\]\[59\]\[60\]\[61\]\[62\]\[63\]\[64\]
   - [MEG](https://ja.wikipedia.org/wiki/MEG "wikilink")（2010）\[65\]
   - [mini](https://ja.wikipedia.org/wiki/Mini_\(モデル\) "wikilink")（2011、2012年）\[66\]\[67\]
-  - [武藤彩未](https://ja.wikipedia.org/wiki/武藤彩未 "wikilink")（2014、2015年）\[68\]\[69\]\[70\]\[71\]\[72\]
+  - [武藤彩未](../Page/武藤彩未.md "wikilink")（2014、2015年）\[68\]\[69\]\[70\]\[71\]\[72\]
   - [三戸なつめ](https://ja.wikipedia.org/wiki/三戸なつめ "wikilink")（2016年）\[73\]
   - [マオ from SID](https://ja.wikipedia.org/wiki/マオ_\(シド\) "wikilink")（2016年、2017年、2018年、2019年）\[74\]\[75\]\[76\]\[77\]\[78\]\[79\]\[80\]\[81\]\[82\]
   - [フラチナリズム](https://ja.wikipedia.org/wiki/フラチナリズム "wikilink")（2016年）\[83\]
@@ -2026,15 +2026,15 @@ Vol.009 背景コンビ</a>」</p></td>
 
 ## テレビ番組出演
 
-  - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")）\[109\]
-  - [ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")2016（[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")）\[110\]
+  - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）\[109\]
+  - [ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")2016（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）\[110\]
   - [レコ☆Hits！](https://ja.wikipedia.org/wiki/レコ☆Hits! "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）\[111\]
-  - [ライブB♪](https://ja.wikipedia.org/wiki/ライブB♪ "wikilink")（[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）\[112\]
-  - Mライブ（[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）\[113\]
-  - [月光音楽団](https://ja.wikipedia.org/wiki/月光音楽団 "wikilink")（[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）\[114\]
+  - [ライブB♪](https://ja.wikipedia.org/wiki/ライブB♪ "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）\[112\]
+  - Mライブ（[TBS](../Page/TBSテレビ.md "wikilink")）\[113\]
+  - [月光音楽団](../Page/月光音楽団.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）\[114\]
   - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）\[115\]
   - [THE M](https://ja.wikipedia.org/wiki/THE_M "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）\[116\]
-  - [音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）\[117\]
+  - [音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）\[117\]
   - [ミュージックフェア](../Page/ミュージックフェア.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）\[118\]
   - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）\[119\]
   - [レオスタ](https://ja.wikipedia.org/wiki/レオスタ "wikilink")（[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")）\[120\]

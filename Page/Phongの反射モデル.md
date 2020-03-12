@@ -3,7 +3,7 @@
 
 **Phongの反射モデル**（フォンのはんしゃモデル; ）とは、[3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")において、モデリングされた面 (surface) 上の点に影をつけるための照明と陰影（[シェーディング](https://ja.wikipedia.org/wiki/シェーディング "wikilink")）モデルである。**Phong照明**、**Phongライティング**とも。
 
-このモデルは[ユタ大学](https://ja.wikipedia.org/wiki/ユタ大学 "wikilink")の[理学博士](https://ja.wikipedia.org/wiki/理学博士 "wikilink")である、によって開発され、1973年に"Illumination for Computer Generated Pictures"の題で学位論文として発表された。併せてこの論文中には、多角形面モデルからラスタライズされた個々の[ピクセル](../Page/ピクセル.md "wikilink")に対して、補間計算を行う方法も論述されていた。この補間技術は後述するように**[Phongシェーディング](https://ja.wikipedia.org/wiki/Phongシェーディング "wikilink")**として知られている。
+このモデルは[ユタ大学](../Page/ユタ大学.md "wikilink")の[理学博士](https://ja.wikipedia.org/wiki/理学博士 "wikilink")である、によって開発され、1973年に"Illumination for Computer Generated Pictures"の題で学位論文として発表された。併せてこの論文中には、多角形面モデルからラスタライズされた個々の[ピクセル](../Page/ピクセル.md "wikilink")に対して、補間計算を行う方法も論述されていた。この補間技術は後述するように**[Phongシェーディング](https://ja.wikipedia.org/wiki/Phongシェーディング "wikilink")**として知られている。
 
 ## 概要
 
@@ -30,7 +30,7 @@ Phongの反射モデルでは、一般的なをより単純化して扱うこと
 
 \[I_p = k_a i_a + \sum_\mathrm{lights} (k_d (L \cdot N) i_d + k_s (R \cdot V)^{\alpha}i_s).\]
 
-拡散反射光の項は視点の方向\(V\)には影響を受けない。拡散反射光の項はその点から視点方向を含むすべての方向について等しいからである。一方で、反射ベクトル\(R\)が視点ベクトル\(V\)の向きに非常に近い場合のみ、鏡面反射光の項が大きくなる。これは、\(R\)と\(V\)の間の角度のコサイン、つまり\(R\)と\(V\)のそれぞれの[正規化ベクトル](https://ja.wikipedia.org/wiki/正規化ベクトル "wikilink")の[内積](../Page/内積.md "wikilink") ([ドット積](https://ja.wikipedia.org/wiki/ドット積 "wikilink")) に、\(\alpha\)のべき乗で効いてくるからである。\(\alpha\)が大きければ、ほとんど鏡のように反射するような表現となり、鏡面反射光のハイライト面積は非常に小さくなる。これは、反射時に視点方向が反射ベクトルからずれていれば、コサイン値は1より小さくなり、大きい値でべき乗するとほとんど0に近くなるからである。
+拡散反射光の項は視点の方向\(V\)には影響を受けない。拡散反射光の項はその点から視点方向を含むすべての方向について等しいからである。一方で、反射ベクトル\(R\)が視点ベクトル\(V\)の向きに非常に近い場合のみ、鏡面反射光の項が大きくなる。これは、\(R\)と\(V\)の間の角度のコサイン、つまり\(R\)と\(V\)のそれぞれの[正規化ベクトル](https://ja.wikipedia.org/wiki/正規化ベクトル "wikilink")の[内積](../Page/内積.md "wikilink") ([ドット積](../Page/ドット積.md "wikilink")) に、\(\alpha\)のべき乗で効いてくるからである。\(\alpha\)が大きければ、ほとんど鏡のように反射するような表現となり、鏡面反射光のハイライト面積は非常に小さくなる。これは、反射時に視点方向が反射ベクトルからずれていれば、コサイン値は1より小さくなり、大きい値でべき乗するとほとんど0に近くなるからである。
 
 色をRGB値で表現する場合、この式はR、G、B成分のそれぞれについて別々に計算するのが一般的である。
 
@@ -44,7 +44,7 @@ Phongの反射は経験に基づくモデルであって、光の相互作用の
 
 ## メリットとデメリット
 
-[OpenGL](../Page/OpenGL.md "wikilink")および[Direct3D](https://ja.wikipedia.org/wiki/Direct3D "wikilink")といったグラフィックス[APIを用いたリアルタイムレンダリングでは](https://ja.wikipedia.org/wiki/Application_Programming_Interface "wikilink")、描画速度などの制約から局所照明 (local illumination) モデルを採用することが多いが、Phong反射モデルはその単純さから計算量もリソース消費量も少なくて済むため、ソフトウェア ([CPU](../Page/CPU.md "wikilink")) もしくはハードウェア ([GPU](../Page/Graphics_Processing_Unit.md "wikilink")) による固定機能[シェーダー](https://ja.wikipedia.org/wiki/シェーダー "wikilink")として標準実装されていた（OpenGL 2.1およびDirect3D 9まで）。ハードウェア性能が向上し、プログラマブルシェーダーが一般化してからも、軽量さからPhong反射モデルが採用されることもある。なお固定機能の廃止されたOpenGL 3.1およびDirect3D 10以降では、Phong反射モデルの実現にはプログラマブルシェーダーが使用される。
+[OpenGL](../Page/OpenGL.md "wikilink")および[Direct3D](../Page/Direct3D.md "wikilink")といったグラフィックス[APIを用いたリアルタイムレンダリングでは](https://ja.wikipedia.org/wiki/Application_Programming_Interface "wikilink")、描画速度などの制約から局所照明 (local illumination) モデルを採用することが多いが、Phong反射モデルはその単純さから計算量もリソース消費量も少なくて済むため、ソフトウェア ([CPU](../Page/CPU.md "wikilink")) もしくはハードウェア ([GPU](../Page/Graphics_Processing_Unit.md "wikilink")) による固定機能[シェーダー](../Page/シェーダー.md "wikilink")として標準実装されていた（OpenGL 2.1およびDirect3D 9まで）。ハードウェア性能が向上し、プログラマブルシェーダーが一般化してからも、軽量さからPhong反射モデルが採用されることもある。なお固定機能の廃止されたOpenGL 3.1およびDirect3D 10以降では、Phong反射モデルの実現にはプログラマブルシェーダーが使用される。
 
 一方で、極めて単純化されたおおざっぱな近似モデルであることから、表面下散乱や環境遮蔽といった複雑な拡散反射光や環境光による[大域照明](https://ja.wikipedia.org/wiki/大域照明 "wikilink") (global illumination) 現象を記述することはできない。
 

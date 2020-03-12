@@ -1,7 +1,7 @@
 > この記事は[KOH+](https://ja.wikipedia.org/wiki/KOH+)から翻訳されています。
 
 
-**KOH<sup>+</sup>**（コウプラス）とは、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")と[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")による[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。
+**KOH<sup>+</sup>**（コウプラス）とは、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")と[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")による[音楽ユニット](../Page/音楽ユニット.md "wikilink")。
 
 ## メンバー
 
@@ -24,14 +24,14 @@
 
 ### シングル
 
-| 発売日                                                          | タイトル                                                             | 発売形態                                                                                     | 規格品番       |
-| ------------------------------------------------------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------- |
-| 2007年11月21日                                                  | **[KISSして](https://ja.wikipedia.org/wiki/KISSして "wikilink")**    | [CD](https://ja.wikipedia.org/wiki/CD "wikilink")+[DVD](../Page/DVD-Video.md "wikilink") | UPCH-80050 |
-| CD                                                           |                                                                  |                                                                                          |            |
-| [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/音楽配信 "wikilink") |                                                                  |                                                                                          |            |
-| 2008年10月1日                                                   | **[最愛](https://ja.wikipedia.org/wiki/最愛_\(KOH+の曲\) "wikilink")** | CD+DVD                                                                                   | UPCH-80090 |
-| CD                                                           |                                                                  |                                                                                          |            |
-| デジタル・ダウンロード                                                  |                                                                  |                                                                                          |            |
+| 発売日                                       | タイトル                                                             | 発売形態                                                                                     | 規格品番       |
+| ----------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------- |
+| 2007年11月21日                               | **[KISSして](../Page/KISSして.md "wikilink")**                       | [CD](https://ja.wikipedia.org/wiki/CD "wikilink")+[DVD](../Page/DVD-Video.md "wikilink") | UPCH-80050 |
+| CD                                        |                                                                  |                                                                                          |            |
+| [デジタル・ダウンロード](../Page/音楽配信.md "wikilink") |                                                                  |                                                                                          |            |
+| 2008年10月1日                                | **[最愛](https://ja.wikipedia.org/wiki/最愛_\(KOH+の曲\) "wikilink")** | CD+DVD                                                                                   | UPCH-80090 |
+| CD                                        |                                                                  |                                                                                          |            |
+| デジタル・ダウンロード                               |                                                                  |                                                                                          |            |
 
 ### 配信シングル
 
@@ -57,4 +57,4 @@
   -
 [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:探偵ガリレオシリーズ](https://ja.wikipedia.org/wiki/Category:探偵ガリレオシリーズ "wikilink") [Category:福山雅治](https://ja.wikipedia.org/wiki/Category:福山雅治 "wikilink")
 
-1.  本作にはKOH<sup>+</sup>の曲に加え、[ク・ハラ](https://ja.wikipedia.org/wiki/ク・ハラ "wikilink")・[パク・ギュリ](https://ja.wikipedia.org/wiki/パク・ギュリ "wikilink")（from [KARA](https://ja.wikipedia.org/wiki/KARA "wikilink")）を迎えた**HARA<sup>+</sup>**・**GYURI<sup>+</sup>**、台湾の歌手アリンを迎えた**A-Lin<sup>+</sup>**が歌う曲や、福山の[インストゥルメンタル楽曲や](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")曲も収録されている。
+1.  本作にはKOH<sup>+</sup>の曲に加え、[ク・ハラ](https://ja.wikipedia.org/wiki/ク・ハラ "wikilink")・[パク・ギュリ](https://ja.wikipedia.org/wiki/パク・ギュリ "wikilink")（from [KARA](https://ja.wikipedia.org/wiki/KARA "wikilink")）を迎えた**HARA<sup>+</sup>**・**GYURI<sup>+</sup>**、台湾の歌手アリンを迎えた**A-Lin<sup>+</sup>**が歌う曲や、福山の[インストゥルメンタル楽曲や](../Page/器楽曲.md "wikilink")[セルフカバー](../Page/セルフカバー.md "wikilink")曲も収録されている。

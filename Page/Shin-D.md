@@ -7,10 +7,10 @@
 
   - [1996年](../Page/1996年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink") - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")　木曜日 0:45 - 1:15（水曜日深夜）
   - 1997年[10月2日](../Page/10月2日.md "wikilink") - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")　木曜日 0:50 - 1:20（水曜日深夜）
-  - 1998年[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink") - [1999年](../Page/1999年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")　水曜日 0:50 - 1:20（火曜日深夜）
+  - 1998年[4月8日](../Page/4月8日.md "wikilink") - [1999年](../Page/1999年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")　水曜日 0:50 - 1:20（火曜日深夜）
   - 1999年[10月5日](../Page/10月5日.md "wikilink") - [2000年](../Page/2000年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")　火曜日 0:50 - 1:20（月曜日深夜）
   - 2000年10月5日 - [2001年](../Page/2001年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")　木曜日 0:55 - 1:25（水曜日深夜）
-  - 2001年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - 9月25日　火曜日 0:50 - 1:20（月曜日深夜）
+  - 2001年[4月3日](../Page/4月3日.md "wikilink") - 9月25日　火曜日 0:50 - 1:20（月曜日深夜）
 
 ## 歴代作品
 
@@ -34,7 +34,7 @@
   - [宝さがし](https://ja.wikipedia.org/wiki/宝さがし "wikilink")（1997年8月7日 - 8月28日）
   - [夏の忘れもの](https://ja.wikipedia.org/wiki/夏の忘れもの "wikilink")（1997年9月4日 - 9月25日）
   - [姫はセーラー服がお好き](https://ja.wikipedia.org/wiki/姫はセーラー服がお好き "wikilink")（1997年10月2日 - 11月27日）
-  - [大市民](https://ja.wikipedia.org/wiki/大市民 "wikilink")（1997年12月4日 - 12月25日）
+  - [大市民](../Page/大市民.md "wikilink")（1997年12月4日 - 12月25日）
 
 ### 1998年
 

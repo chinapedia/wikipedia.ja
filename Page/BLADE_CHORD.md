@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")/[PS2専用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[戦国BASARA 英雄外伝](https://ja.wikipedia.org/wiki/戦国BASARA "wikilink")2』主題歌。初回仕様として、描き下ろしワイドキャップステッカーが封入されている。
+  - [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")/[PS2専用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[戦国BASARA 英雄外伝](../Page/戦国BASARA.md "wikilink")2』主題歌。初回仕様として、描き下ろしワイドキャップステッカーが封入されている。
   - タイトルの意味は「刃と刃がぶつかり合い奏でる刃音の和音」。
   - ｢BLADE CHORD｣は、歌詞中に四字熟語がよく使われており、タイトル通り和の要素を取り入れた[ロックチューンになっている](../Page/ロック_\(音楽\).md "wikilink")。PV・ジャケットも戦国時代のような感じになっている。カップリングは、いつも通り全英語詞の曲である。
 
@@ -15,13 +15,13 @@
 
 1.  **BLADE CHORD**
       -
-        （作曲:[SUNAO](https://ja.wikipedia.org/wiki/SUNAO "wikilink")）
+        （作曲:[SUNAO](../Page/SUNAO.md "wikilink")）
         Wii/PS2専用ソフト『戦国BASARA2 英雄外伝』主題歌。
-        PVにはプロレスラーの[関本大介](https://ja.wikipedia.org/wiki/関本大介 "wikilink")が出演している。
+        PVにはプロレスラーの[関本大介](../Page/関本大介.md "wikilink")が出演している。
         歌詞中の「露と落ち 露と消えにし 夢もまた夢」の部分は、[豊臣秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "wikilink")の[辞世](../Page/辞世.md "wikilink")の句「露と落ち 露と消えにし 我が身かな 浪速のことは 夢のまた夢」に由来する。同様に、「さらぬだに 打ちぬるほども 夏の夜の夢」の部分は、[お市の方](../Page/お市の方.md "wikilink")の辞世の句「さらぬだに 打ちぬる程も 夏の夜の 夢路をさそう ほととぎすかな」に由来する。
 2.  **Desert Rose**
       -
-        （作曲:[柴崎浩](https://ja.wikipedia.org/wiki/柴崎浩 "wikilink")）
+        （作曲:[柴崎浩](../Page/柴崎浩.md "wikilink")）
         2010年のツアーでは前半部分がアコースティックアレンジの新バージョンが披露された。
 
 ## 収録アルバム
@@ -32,12 +32,12 @@
 
 ## 参加ミュージシャン
 
-  - [長谷川浩二](https://ja.wikipedia.org/wiki/長谷川浩二 "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")（\#1,2）
-  - [IKUO](https://ja.wikipedia.org/wiki/Ikuo "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（\#1,2）
+  - [長谷川浩二](../Page/長谷川浩二.md "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")（\#1,2）
+  - [IKUO](../Page/Ikuo.md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")（\#1,2）
 
 ## 関連項目
 
-  - [戦国BASARA](https://ja.wikipedia.org/wiki/戦国BASARA "wikilink")
+  - [戦国BASARA](../Page/戦国BASARA.md "wikilink")
 
 [en:Blade Chord](https://ja.wikipedia.org/wiki/en:Blade_Chord "wikilink")
 

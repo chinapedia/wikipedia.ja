@@ -1,29 +1,29 @@
 > この記事は[W54SA](https://ja.wikipedia.org/wiki/W54SA)から翻訳されています。
 
 
-**W54SA**（だぶりゅーごーよんえすえー）は、[三洋電機](../Page/三洋電機.md "wikilink")（大阪、現・[京セラ](../Page/京セラ.md "wikilink") SANYOブランド）が日本国内向けに開発した、[auブランドを展開する](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の[CDMA 1X WIN対応](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")である。
+**W54SA**（だぶりゅーごーよんえすえー）は、[三洋電機](../Page/三洋電機.md "wikilink")（大阪、現・[京セラ](../Page/京セラ.md "wikilink") SANYOブランド）が日本国内向けに開発した、[auブランドを展開する](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の[CDMA 1X WIN対応](../Page/CDMA_1X_WIN.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")である。
 
 ## 特徴
 
-[W51SA](../Page/W51SA.md "wikilink")の事実上の後継機種。「**非日常な[和](https://ja.wikipedia.org/wiki/和風 "wikilink")**」をキーワードとし、[漆器](../Page/漆器.md "wikilink")の小箱をイメージとしたデザインとなっており[EV-DO Rev.Aや](https://ja.wikipedia.org/wiki/CDMA2000_1x#CDMA2000_1x_EV-DO "wikilink")[デジタルラジオ](https://ja.wikipedia.org/wiki/デジタルラジオ "wikilink")、3.0インチのワイドVGA液晶、約3.2MピクセルのAFカメラ等の最先端機能を多く取り込んだ「**全部入り**」の[フラグシップモデル](https://ja.wikipedia.org/wiki/フラグシップモデル "wikilink")となっている。auのほとんどのフラグシップモデルが有機ELをメインディスプレイとして採用する中、完成度の向上と高精細化が容易になったVGA液晶を採用した。
+[W51SA](../Page/W51SA.md "wikilink")の事実上の後継機種。「**非日常な[和](../Page/和風.md "wikilink")**」をキーワードとし、[漆器](../Page/漆器.md "wikilink")の小箱をイメージとしたデザインとなっており[EV-DO Rev.Aや](https://ja.wikipedia.org/wiki/CDMA2000_1x#CDMA2000_1x_EV-DO "wikilink")[デジタルラジオ](../Page/デジタルラジオ.md "wikilink")、3.0インチのワイドVGA液晶、約3.2MピクセルのAFカメラ等の最先端機能を多く取り込んだ「**全部入り**」の[フラグシップモデル](https://ja.wikipedia.org/wiki/フラグシップモデル "wikilink")となっている。auのほとんどのフラグシップモデルが有機ELをメインディスプレイとして採用する中、完成度の向上と高精細化が容易になったVGA液晶を採用した。
 
-鳥取三洋電機（現・[三洋テクノソリューションズ鳥取](https://ja.wikipedia.org/wiki/三洋テクノソリューションズ鳥取 "wikilink")）製の2006年秋冬モデル「[W42SA](https://ja.wikipedia.org/wiki/W42SA "wikilink")」に搭載されていた機能である「[スムースタッチ](https://ja.wikipedia.org/wiki/スムースタッチ "wikilink")」の改良版が採用されている。また、バックキーライトには青色のイルミネーションが使われている。
+鳥取三洋電機（現・[三洋テクノソリューションズ鳥取](../Page/三洋テクノソリューションズ鳥取.md "wikilink")）製の2006年秋冬モデル「[W42SA](../Page/W42SA.md "wikilink")」に搭載されていた機能である「[スムースタッチ](https://ja.wikipedia.org/wiki/スムースタッチ "wikilink")」の改良版が採用されている。また、バックキーライトには青色のイルミネーションが使われている。
 
-従来、三洋機は日本語入力システムに[Advanced Wnnを搭載していたが](https://ja.wikipedia.org/wiki/Wnn "wikilink")、新プラットフォーム「**[KCP+](https://ja.wikipedia.org/wiki/KCP+ "wikilink")**」を採用する理由で[ATOK](../Page/ATOK.md "wikilink")に変更された。
+従来、三洋機は日本語入力システムに[Advanced Wnnを搭載していたが](../Page/Wnn.md "wikilink")、新プラットフォーム「**[KCP+](../Page/KCP+.md "wikilink")**」を採用する理由で[ATOK](../Page/ATOK.md "wikilink")に変更された。
 
-また、発表当時搭載が予定されていた[AAC](../Page/AAC.md "wikilink")[コーデック](../Page/コーデック.md "wikilink")を用いたICレコーダー機能、AACファイル専用[SD-Audio](https://ja.wikipedia.org/wiki/SD-Audio "wikilink")の再生機能は割愛された\[1\]。そのため、UIの操作性に関しては既存のau向け[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")製端末に近いものとなっている。その他、既存のau向け三洋製端末に搭載されていた独自機能も一部省略されている（独自機能は[W63SA](https://ja.wikipedia.org/wiki/W63SA "wikilink")より一部復活している）。
+また、発表当時搭載が予定されていた[AAC](../Page/AAC.md "wikilink")[コーデック](../Page/コーデック.md "wikilink")を用いたICレコーダー機能、AACファイル専用[SD-Audio](../Page/SD-Audio.md "wikilink")の再生機能は割愛された\[1\]。そのため、UIの操作性に関しては既存のau向け[東芝](../Page/東芝.md "wikilink")製端末に近いものとなっている。その他、既存のau向け三洋製端末に搭載されていた独自機能も一部省略されている（独自機能は[W63SA](../Page/W63SA.md "wikilink")より一部復活している）。
 
-ちなみに「**黒紅梅**」と呼ばれるボディカラーは、[螺鈿](https://ja.wikipedia.org/wiki/螺鈿 "wikilink")風の[パール塗装が用いられている](https://ja.wikipedia.org/wiki/塗装 "wikilink")。
+ちなみに「**黒紅梅**」と呼ばれるボディカラーは、[螺鈿](../Page/螺鈿.md "wikilink")風の[パール塗装が用いられている](../Page/塗装.md "wikilink")。
 
 また、本機の特筆すべき点は、au携帯電話としては初となるくっきりとしたWVGAフルドット対応（ネイティブVGA）のGUIやフォントを搭載していること\[2\]、KCP+標準のマルチプレイウィンドウ等先端機能に対応していることである。
 
-その他、ゲームアプリに「[ぷよぷよ通](https://ja.wikipedia.org/wiki/ぷよぷよ通 "wikilink")DX」体験版、ケータイコミック「[トイ・ストーリー2](https://ja.wikipedia.org/wiki/トイ・ストーリー2 "wikilink")」の1話、デコレーションメール・ラッピングメール用素材などがプリセットされている。
+その他、ゲームアプリに「[ぷよぷよ通](../Page/ぷよぷよ通.md "wikilink")DX」体験版、ケータイコミック「[トイ・ストーリー2](../Page/トイ・ストーリー2.md "wikilink")」の1話、デコレーションメール・ラッピングメール用素材などがプリセットされている。
 
-本機の発表後、三洋電機は[京セラ](../Page/京セラ.md "wikilink")に携帯電話事業を譲渡・移管したため、同社名義で開発および製造・販売した端末としては、同機が**最終モデル**となり、鳥取三洋製の[W62SA](https://ja.wikipedia.org/wiki/W62SA "wikilink")を除く[W61SA](https://ja.wikipedia.org/wiki/W61SA "wikilink")から[SA002](https://ja.wikipedia.org/wiki/SA002 "wikilink")までのSA機は**京セラSANYOブランド**名義として存続する事となった。
+本機の発表後、三洋電機は[京セラ](../Page/京セラ.md "wikilink")に携帯電話事業を譲渡・移管したため、同社名義で開発および製造・販売した端末としては、同機が**最終モデル**となり、鳥取三洋製の[W62SA](../Page/W62SA.md "wikilink")を除く[W61SA](../Page/W61SA.md "wikilink")から[SA002](https://ja.wikipedia.org/wiki/SA002 "wikilink")までのSA機は**京セラSANYOブランド**名義として存続する事となった。
 
-## 早期販売打ち切りと新プラットフォームがもたらした[ジンクス](https://ja.wikipedia.org/wiki/ジンクス "wikilink")
+## 早期販売打ち切りと新プラットフォームがもたらした[ジンクス](../Page/ジンクス.md "wikilink")
 
-しかし、発売直後から新プラットホーム「KCP+」の度重なる不具合が発生した。同時期に発売された東芝（現・[富士通モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/富士通モバイルコミュニケーションズ "wikilink")）「[W56T](https://ja.wikipedia.org/wiki/W56T "wikilink")」およびソニー・エリクソン・モバイルコミュニケーションズ（現・[ソニーモバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニーモバイルコミュニケーションズ "wikilink")）「[W54S](https://ja.wikipedia.org/wiki/W54S "wikilink")」と一緒に販売が早期に終了することになり、同時期に発売された他の非KCP+（KCP）機種よりも早く、ホームページの現行製品情報や、総合カタログからも外されることとなった。
+しかし、発売直後から新プラットホーム「KCP+」の度重なる不具合が発生した。同時期に発売された東芝（現・[富士通モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/富士通モバイルコミュニケーションズ "wikilink")）「[W56T](../Page/W56T.md "wikilink")」およびソニー・エリクソン・モバイルコミュニケーションズ（現・[ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")）「[W54S](../Page/W54S.md "wikilink")」と一緒に販売が早期に終了することになり、同時期に発売された他の非KCP+（KCP）機種よりも早く、ホームページの現行製品情報や、総合カタログからも外されることとなった。
 
 ## 沿革
 
@@ -40,8 +40,8 @@
 <!-- end list -->
 
   - [2月7日](../Page/2月7日.md "wikilink") - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")・[北陸](../Page/北陸地方.md "wikilink")・[沖縄地区で発売](../Page/沖縄県.md "wikilink")。
-  - [2月8日](https://ja.wikipedia.org/wiki/2月8日 "wikilink") - [四国](../Page/四国.md "wikilink")地区で発売。
-  - [2月8日](https://ja.wikipedia.org/wiki/2月8日 "wikilink") - 出荷時の不具合により、既に発売されている地域で販売中止、その他の地域で発売延期。
+  - [2月8日](../Page/2月8日.md "wikilink") - [四国](../Page/四国.md "wikilink")地区で発売。
+  - [2月8日](../Page/2月8日.md "wikilink") - 出荷時の不具合により、既に発売されている地域で販売中止、その他の地域で発売延期。
   - [2月13日](../Page/2月13日.md "wikilink") - 最初のケータイアップデートが開始。
   - [2月15日](../Page/2月15日.md "wikilink") - 北陸地方、その他の地域で順次販売再開・発売予定だったが、不具合により再延期。
   - [2月25日](../Page/2月25日.md "wikilink") - 沖縄地区で販売再開。
@@ -70,37 +70,37 @@
 ## 対応サービス
 
   - au Smart Sports（アプリのダウンロードで対応していた）
-  - [LISMO](https://ja.wikipedia.org/wiki/LISMO "wikilink")（ビデオクリップ・LISMO Video・オーディオ機器連携 ([LISMO Port](https://ja.wikipedia.org/wiki/au_Music_Port "wikilink"))対応）
-  - EZ「[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")」
+  - [LISMO](../Page/LISMO.md "wikilink")（ビデオクリップ・LISMO Video・オーディオ機器連携 ([LISMO Port](https://ja.wikipedia.org/wiki/au_Music_Port "wikilink"))対応）
+  - EZ「[着うたフル](../Page/着うたフル.md "wikilink")」
   - EZ「[着うた](../Page/着うた.md "wikilink")」
-  - au Media Tuner（[EZテレビ](https://ja.wikipedia.org/wiki/EZテレビ "wikilink")（[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")）・[地上デジタル音声放送](https://ja.wikipedia.org/wiki/地上デジタル音声放送 "wikilink")実用化試験・[EZチャンネルプラス](../Page/EZチャンネルプラス.md "wikilink")）
-  - [EZ・FM](https://ja.wikipedia.org/wiki/EZ・FM "wikilink")
-  - [EZナビウォーク](https://ja.wikipedia.org/wiki/EZナビウォーク "wikilink")（声de入力・3Dナビ）
-  - [EZ助手席ナビ](https://ja.wikipedia.org/wiki/EZ助手席ナビ "wikilink")
+  - au Media Tuner（[EZテレビ](../Page/EZテレビ.md "wikilink")（[ワンセグ](../Page/ワンセグ.md "wikilink")）・[地上デジタル音声放送](../Page/地上デジタル音声放送.md "wikilink")実用化試験・[EZチャンネルプラス](../Page/EZチャンネルプラス.md "wikilink")）
+  - [EZ・FM](../Page/EZ・FM.md "wikilink")
+  - [EZナビウォーク](../Page/EZナビウォーク.md "wikilink")（声de入力・3Dナビ）
+  - [EZ助手席ナビ](../Page/EZ助手席ナビ.md "wikilink")
   - 安心ナビ
   - 災害時ナビ
-  - [EZ FeliCa](https://ja.wikipedia.org/wiki/EZ_FeliCa "wikilink")（[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")。[QUICPay](https://ja.wikipedia.org/wiki/QUICPay "wikilink")設定アプリがプリインストールされている。）
+  - [EZ FeliCa](../Page/EZ_FeliCa.md "wikilink")（[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")。[QUICPay](../Page/QUICPay.md "wikilink")設定アプリがプリインストールされている。）
   - [EZニュースフラッシュ](../Page/EZニュースフラッシュ.md "wikilink")
   - [EZケータイアレンジ](https://ja.wikipedia.org/wiki/EZケータイアレンジ "wikilink")
   - [PCサイトビューアー](https://ja.wikipedia.org/wiki/PCサイトビューアー "wikilink")
   - [au one](https://ja.wikipedia.org/wiki/au_one "wikilink") My Page
   - [グローバルエキスパート](https://ja.wikipedia.org/wiki/グローバルエキスパート "wikilink")
   - [デコレーションメール](https://ja.wikipedia.org/wiki/デコレーションメール "wikilink")
-  - [EZアプリ (BREW)](https://ja.wikipedia.org/wiki/BREW "wikilink")
+  - [EZアプリ (BREW)](../Page/BREW.md "wikilink")
       - EZアプリ「Full Game\!」に対応
   - 絵しゃべりメール
   - ラッピングメール
   - Touch Message
-  - [テレビ電話](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")
+  - [テレビ電話](../Page/テレビ電話.md "wikilink")
   - ケータイ探せて安心サービス
   - 安心ロックサービス
   - アドレス帳預けて安心サービス
   - [赤外線通信](https://ja.wikipedia.org/wiki/赤外線通信 "wikilink") ([IrSimple](https://ja.wikipedia.org/wiki/IrSimple "wikilink"))
-  - [Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")
+  - [Bluetooth](../Page/Bluetooth.md "wikilink")
   - バイリンガル機能
   - ペア機能
   - でか文字
-  - [オープンアプリプレイヤー](https://ja.wikipedia.org/wiki/オープンアプリプレイヤー "wikilink")
+  - [オープンアプリプレイヤー](../Page/オープンアプリプレイヤー.md "wikilink")
   - マルチプレイウィンドウ（2画面表示）
   - [大修館書店](../Page/大修館書店.md "wikilink")によるモバイル辞典（明鏡国語/[ジーニアス](https://ja.wikipedia.org/wiki/ジーニアス "wikilink")英和・和英）
   - PCドキュメントビューアー
@@ -119,7 +119,7 @@
 
   - アプリケーションの起動方法やEZ FeliCaサービスの利用に制限がかかる場合がある
   - 特定の操作を行うと電源のリセットやキー操作を受付けなくなる場合がある
-  - PCサイトビューアーにて、[テキストボックス](https://ja.wikipedia.org/wiki/テキストボックス "wikilink")に入力した文字列が反映されない場合がある
+  - PCサイトビューアーにて、[テキストボックス](../Page/テキストボックス.md "wikilink")に入力した文字列が反映されない場合がある
 
 2008年2月15日、不具合により販売が一時停止された。[2](http://www.au.kddi.com/news/information/au_info_20080215.html)
 
@@ -184,8 +184,8 @@
 ## 関連項目
 
   - [携帯電話](../Page/携帯電話.md "wikilink")
-  - [au（携帯電話）](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")
-  - [CDMA 1X WIN](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")
+  - [au（携帯電話）](../Page/Au_\(携帯電話\).md "wikilink")
+  - [CDMA 1X WIN](../Page/CDMA_1X_WIN.md "wikilink")
   - [三洋電機](../Page/三洋電機.md "wikilink")
   - [京セラ](../Page/京セラ.md "wikilink")
   - [SonicStage](https://ja.wikipedia.org/wiki/SonicStage "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[JRA3](https://ja.wikipedia.org/wiki/JRA3)から翻訳されています。
 
 
-**JRA賞最優秀3歳牡馬**（ジェイアールエーしょう さいゆうしゅう さんさいぼば）は、[JRA賞](../Page/JRA賞.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門の1つ。[2001年](../Page/2001年.md "wikilink")以降は、該当年度中に活躍した3歳[牡馬](https://ja.wikipedia.org/wiki/牡馬 "wikilink")の競走馬に対して記者投票を行いその合計票数が1位だった馬が選出される。[2000年](../Page/2000年.md "wikilink")までは**JRA賞最優秀4歳牡馬**という名称だったが、[馬齢](https://ja.wikipedia.org/wiki/馬齢 "wikilink")表記改正に伴って改称された。賞名および表彰団体は[JRA賞](../Page/JRA賞.md "wikilink")年度代表馬と同様に啓衆社賞、優駿賞、JRA賞に引き継がれている。
+**JRA賞最優秀3歳牡馬**（ジェイアールエーしょう さいゆうしゅう さんさいぼば）は、[JRA賞](../Page/JRA賞.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門の1つ。[2001年](../Page/2001年.md "wikilink")以降は、該当年度中に活躍した3歳[牡馬](https://ja.wikipedia.org/wiki/牡馬 "wikilink")の競走馬に対して記者投票を行いその合計票数が1位だった馬が選出される。[2000年](../Page/2000年.md "wikilink")までは**JRA賞最優秀4歳牡馬**という名称だったが、[馬齢](../Page/馬齢.md "wikilink")表記改正に伴って改称された。賞名および表彰団体は[JRA賞](../Page/JRA賞.md "wikilink")年度代表馬と同様に啓衆社賞、優駿賞、JRA賞に引き継がれている。
 
 ## 歴代受賞馬
 
@@ -26,7 +26,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/1954年.md" title="wikilink">1954年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダイナナホウシユウ" title="wikilink">ダイナナホウシユウ</a></p></td>
+<td><p><a href="../Page/ダイナナホウシユウ.md" title="wikilink">ダイナナホウシユウ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>11戦7勝<br />
 <a href="../Page/皐月賞.md" title="wikilink">皐月賞</a></p></td>
@@ -37,12 +37,12 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1955年.md" title="wikilink">1955年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/メイヂヒカリ" title="wikilink">メイヂヒカリ</a></p></td>
+<td><p><a href="../Page/メイヂヒカリ.md" title="wikilink">メイヂヒカリ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>10戦7勝<br />
 <a href="../Page/菊花賞.md" title="wikilink">菊花賞</a></p></td>
 <td><p>大塚牧場</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤本冨良" title="wikilink">藤本冨良</a></p></td>
+<td><p><a href="../Page/藤本冨良.md" title="wikilink">藤本冨良</a></p></td>
 <td><p>新田松江</p></td>
 <td></td>
 </tr>
@@ -53,29 +53,29 @@
 <td><p>12戦6勝<br />
 菊花賞</p></td>
 <td><p>武田重四郎</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/久保田金造" title="wikilink">久保田金造</a></p></td>
+<td><p><a href="../Page/久保田金造.md" title="wikilink">久保田金造</a></p></td>
 <td><p>田中留治</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1957年.md" title="wikilink">1957年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヒカルメイジ" title="wikilink">ヒカルメイジ</a></p></td>
+<td><p><a href="../Page/ヒカルメイジ.md" title="wikilink">ヒカルメイジ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>8戦6勝<br />
 <a href="https://ja.wikipedia.org/wiki/東京優駿" title="wikilink">東京優駿</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/盛田牧場" title="wikilink">盛田牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤本冨良" title="wikilink">藤本冨良</a></p></td>
+<td><p><a href="../Page/藤本冨良.md" title="wikilink">藤本冨良</a></p></td>
 <td><p>新田松江</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1958年.md" title="wikilink">1958年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダイゴホマレ" title="wikilink">ダイゴホマレ</a></p></td>
+<td><p><a href="../Page/ダイゴホマレ.md" title="wikilink">ダイゴホマレ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>12戦6勝<br />
 東京優駿</p></td>
 <td><p>牛寺洋一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/久保田金造" title="wikilink">久保田金造</a></p></td>
+<td><p><a href="../Page/久保田金造.md" title="wikilink">久保田金造</a></p></td>
 <td><p>醍醐幸右衛門</p></td>
 <td></td>
 </tr>
@@ -92,12 +92,12 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1960年.md" title="wikilink">1960年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コダマ_(競走馬)" title="wikilink">コダマ</a></p></td>
+<td><p><a href="../Page/コダマ_(競走馬).md" title="wikilink">コダマ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>8戦4勝<br />
 皐月賞、東京優駿</p></td>
 <td><p>鎌田牧場</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/武田文吾" title="wikilink">武田文吾</a></p></td>
+<td><p><a href="../Page/武田文吾.md" title="wikilink">武田文吾</a></p></td>
 <td><p>伊藤由五郎</p></td>
 <td></td>
 </tr>
@@ -108,29 +108,29 @@
 <td><p>9戦4勝<br />
 菊花賞</p></td>
 <td><p>東牧場</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/二本柳俊夫" title="wikilink">二本柳俊夫</a></p></td>
+<td><p><a href="../Page/二本柳俊夫.md" title="wikilink">二本柳俊夫</a></p></td>
 <td><p>堀平四郎</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1962年.md" title="wikilink">1962年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フエアーウイン" title="wikilink">フエアーウイン</a></p></td>
+<td><p><a href="../Page/フエアーウイン.md" title="wikilink">フエアーウイン</a></p></td>
 <td><p>牡4</p></td>
 <td><p>8戦3勝<br />
 東京優駿</p></td>
 <td><p>浜中牧場</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松山吉三郎" title="wikilink">松山吉三郎</a></p></td>
+<td><p><a href="../Page/松山吉三郎.md" title="wikilink">松山吉三郎</a></p></td>
 <td><p>溝本儀三男</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1963年.md" title="wikilink">1963年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/メイズイ" title="wikilink">メイズイ</a></p></td>
+<td><p><a href="../Page/メイズイ.md" title="wikilink">メイズイ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>12戦9勝<br />
 皐月賞、東京優駿</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千明牧場" title="wikilink">千明牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/尾形藤吉" title="wikilink">尾形藤吉</a></p></td>
+<td><p><a href="../Page/千明牧場.md" title="wikilink">千明牧場</a></p></td>
+<td><p><a href="../Page/尾形藤吉.md" title="wikilink">尾形藤吉</a></p></td>
 <td><p>千明康</p></td>
 <td></td>
 </tr>
@@ -141,13 +141,13 @@
 <td><p>8戦5勝<br />
 <a href="../Page/中央競馬クラシック三冠.md" title="wikilink">中央競馬クラシック三冠</a></p></td>
 <td><p>松橋吉松</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/武田文吾" title="wikilink">武田文吾</a></p></td>
+<td><p><a href="../Page/武田文吾.md" title="wikilink">武田文吾</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/橋元家" title="wikilink">橋元幸吉</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1965年.md" title="wikilink">1965年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キーストン" title="wikilink">キーストン</a></p></td>
+<td><p><a href="../Page/キーストン.md" title="wikilink">キーストン</a></p></td>
 <td><p>牡4</p></td>
 <td><p>10戦7勝<br />
 東京優駿</p></td>
@@ -158,7 +158,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1966年.md" title="wikilink">1966年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ナスノコトブキ" title="wikilink">ナスノコトブキ</a></p></td>
+<td><p><a href="../Page/ナスノコトブキ.md" title="wikilink">ナスノコトブキ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>13戦4勝<br />
 菊花賞</p></td>
@@ -180,18 +180,18 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーチス" title="wikilink">マーチス</a></p></td>
+<td><p><a href="../Page/マーチス.md" title="wikilink">マーチス</a></p></td>
 <td><p>牡4</p></td>
 <td><p>12戦7勝<br />
 皐月賞</p></td>
 <td><p><a href="../Page/カントリー牧場.md" title="wikilink">カントリー牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤修司" title="wikilink">伊藤修司</a></p></td>
+<td><p><a href="../Page/伊藤修司.md" title="wikilink">伊藤修司</a></p></td>
 <td><p>大久保常吉</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1969年" title="wikilink">1969年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アカネテンリュウ" title="wikilink">アカネテンリュウ</a></p></td>
+<td><p><a href="../Page/アカネテンリュウ.md" title="wikilink">アカネテンリュウ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>15戦6勝<br />
 菊花賞</p></td>
@@ -201,8 +201,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1970年" title="wikilink">1970年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タニノムーティエ" title="wikilink">タニノムーティエ</a></p></td>
+<td><p><a href="../Page/1970年.md" title="wikilink">1970年</a></p></td>
+<td><p><a href="../Page/タニノムーティエ.md" title="wikilink">タニノムーティエ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>9戦5勝<br />
 皐月賞、東京優駿</p></td>
@@ -213,7 +213,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1971年" title="wikilink">1971年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヒカルイマイ" title="wikilink">ヒカルイマイ</a></p></td>
+<td><p><a href="../Page/ヒカルイマイ.md" title="wikilink">ヒカルイマイ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>10戦4勝<br />
 皐月賞、東京優駿</p></td>
@@ -244,7 +244,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/1972年.md" title="wikilink">1972年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イシノヒカル" title="wikilink">イシノヒカル</a></p></td>
+<td><p><a href="../Page/イシノヒカル.md" title="wikilink">イシノヒカル</a></p></td>
 <td><p>牡4</p></td>
 <td><p>9戦5勝<br />
 菊花賞、<a href="https://ja.wikipedia.org/wiki/有馬記念" title="wikilink">有馬記念</a></p></td>
@@ -255,18 +255,18 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1973年.md" title="wikilink">1973年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タケホープ" title="wikilink">タケホープ</a></p></td>
+<td><p><a href="../Page/タケホープ.md" title="wikilink">タケホープ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>7戦4勝<br />
 東京優駿、菊花賞</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/谷川牧場" title="wikilink">谷川牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/稲葉幸夫" title="wikilink">稲葉幸夫</a></p></td>
+<td><p><a href="../Page/稲葉幸夫.md" title="wikilink">稲葉幸夫</a></p></td>
 <td><p>近藤たけ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1974年.md" title="wikilink">1974年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キタノカチドキ" title="wikilink">キタノカチドキ</a></p></td>
+<td><p><a href="../Page/キタノカチドキ.md" title="wikilink">キタノカチドキ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>7戦6勝<br />
 皐月賞、菊花賞</p></td>
@@ -287,19 +287,19 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1976年" title="wikilink">1976年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トウショウボーイ" title="wikilink">トウショウボーイ</a></p></td>
+<td><p><a href="../Page/1976年.md" title="wikilink">1976年</a></p></td>
+<td><p><a href="../Page/トウショウボーイ.md" title="wikilink">トウショウボーイ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>10戦7勝<br />
 皐月賞、有馬記念</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トウショウ牧場" title="wikilink">藤正牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/保田隆芳" title="wikilink">保田隆芳</a></p></td>
+<td><p><a href="../Page/保田隆芳.md" title="wikilink">保田隆芳</a></p></td>
 <td><p>トウショウ産業（株）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1977年.md" title="wikilink">1977年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プレストウコウ" title="wikilink">プレストウコウ</a></p></td>
+<td><p><a href="../Page/プレストウコウ.md" title="wikilink">プレストウコウ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>12戦4勝<br />
 菊花賞</p></td>
@@ -310,18 +310,18 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サクラショウリ" title="wikilink">サクラショウリ</a></p></td>
+<td><p><a href="../Page/サクラショウリ.md" title="wikilink">サクラショウリ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>9戦3勝<br />
 東京優駿</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シンボリ牧場" title="wikilink">シンボリ牧場</a></p></td>
+<td><p><a href="../Page/シンボリ牧場.md" title="wikilink">シンボリ牧場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/久保田彦之" title="wikilink">久保田彦之</a></p></td>
 <td><p>（株）さくらコマース</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1979年.md" title="wikilink">1979年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カツラノハイセイコ" title="wikilink">カツラノハイセイコ</a></p></td>
+<td><p><a href="../Page/カツラノハイセイコ.md" title="wikilink">カツラノハイセイコ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>8戦4勝<br />
 東京優駿</p></td>
@@ -332,7 +332,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1980年" title="wikilink">1980年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オペックホース" title="wikilink">オペックホース</a></p></td>
+<td><p><a href="../Page/オペックホース.md" title="wikilink">オペックホース</a></p></td>
 <td><p>牡4</p></td>
 <td><p>7戦2勝<br />
 東京優駿</p></td>
@@ -343,7 +343,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1981年.md" title="wikilink">1981年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カツトップエース" title="wikilink">カツトップエース</a></p></td>
+<td><p><a href="../Page/カツトップエース.md" title="wikilink">カツトップエース</a></p></td>
 <td><p>牡4</p></td>
 <td><p>4戦2勝<br />
 皐月賞、東京優駿</p></td>
@@ -380,14 +380,14 @@
 <td><p>牡4</p></td>
 <td><p>7戦6勝<br />
 中央競馬クラシック三冠、有馬記念</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シンボリ牧場" title="wikilink">シンボリ牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野平祐二" title="wikilink">野平祐二</a></p></td>
+<td><p><a href="../Page/シンボリ牧場.md" title="wikilink">シンボリ牧場</a></p></td>
+<td><p><a href="../Page/野平祐二.md" title="wikilink">野平祐二</a></p></td>
 <td><p>和田農林（有）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミホシンザン" title="wikilink">ミホシンザン</a></p></td>
+<td><p><a href="../Page/ミホシンザン.md" title="wikilink">ミホシンザン</a></p></td>
 <td><p>牡4</p></td>
 <td><p>8戦6勝<br />
 皐月賞、菊花賞</p></td>
@@ -398,13 +398,13 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダイナガリバー" title="wikilink">ダイナガリバー</a></p></td>
+<td><p><a href="../Page/ダイナガリバー.md" title="wikilink">ダイナガリバー</a></p></td>
 <td><p>牡4</p></td>
 <td><p>7戦3勝<br />
 東京優駿、有馬記念</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/社台ファーム" title="wikilink">社台ファーム</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松山吉三郎" title="wikilink">松山吉三郎</a></p></td>
-<td><p>（有）<a href="https://ja.wikipedia.org/wiki/社台レースホース" title="wikilink">社台レースホース</a></p></td>
+<td><p><a href="../Page/社台ファーム.md" title="wikilink">社台ファーム</a></p></td>
+<td><p><a href="../Page/松山吉三郎.md" title="wikilink">松山吉三郎</a></p></td>
+<td><p>（有）<a href="../Page/社台レースホース.md" title="wikilink">社台レースホース</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -431,13 +431,13 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サクラスターオー" title="wikilink">サクラスターオー</a></p></td>
+<td><p><a href="../Page/サクラスターオー.md" title="wikilink">サクラスターオー</a></p></td>
 <td><p>牡4</p></td>
 <td><p>5戦3勝<br />
 皐月賞、菊花賞</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/藤原牧場" title="wikilink">藤原牧場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平井雄二" title="wikilink">平井雄二</a></p></td>
-<td><p>（株）<a href="https://ja.wikipedia.org/wiki/さくらコマース" title="wikilink">さくらコマース</a></p></td>
+<td><p>（株）<a href="../Page/さくらコマース.md" title="wikilink">さくらコマース</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -447,13 +447,13 @@
 <td><p>10戦8勝<br />
 有馬記念</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/稲葉牧場" title="wikilink">稲葉不奈男</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/瀬戸口勉" title="wikilink">瀬戸口勉</a></p></td>
+<td><p><a href="../Page/瀬戸口勉.md" title="wikilink">瀬戸口勉</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/近藤俊典" title="wikilink">近藤俊典</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1989年.md" title="wikilink">1989年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウィナーズサークル" title="wikilink">ウィナーズサークル</a></p></td>
+<td><p><a href="../Page/ウィナーズサークル.md" title="wikilink">ウィナーズサークル</a></p></td>
 <td><p>牡4</p></td>
 <td><p>8戦3勝<br />
 東京優駿</p></td>
@@ -474,7 +474,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1991年" title="wikilink">1991年</a></p></td>
+<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
 <td><p><a href="../Page/トウカイテイオー.md" title="wikilink">トウカイテイオー</a></p></td>
 <td><p>牡4</p></td>
 <td><p>4戦4勝<br />
@@ -485,13 +485,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1992年" title="wikilink">1992年</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
 <td><p><a href="../Page/ミホノブルボン.md" title="wikilink">ミホノブルボン</a></p></td>
 <td><p>牡4</p></td>
 <td><p>5戦4勝<br />
 皐月賞、東京優駿</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/原口圭二" title="wikilink">原口圭二</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/戸山為夫" title="wikilink">戸山為夫</a></p></td>
+<td><p><a href="../Page/戸山為夫.md" title="wikilink">戸山為夫</a></p></td>
 <td><p>（有）<a href="https://ja.wikipedia.org/wiki/ミホノインターナショナル" title="wikilink">ミホノインターナショナル</a></p></td>
 <td></td>
 </tr>
@@ -501,7 +501,7 @@
 <td><p>牡4</p></td>
 <td><p>7戦3勝<br />
 菊花賞</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/資生園早田牧場" title="wikilink">早田牧場新冠支場</a></p></td>
+<td><p><a href="../Page/資生園早田牧場.md" title="wikilink">早田牧場新冠支場</a></p></td>
 <td><p><a href="../Page/浜田光正.md" title="wikilink">浜田光正</a></p></td>
 <td><p>（有）ビワ</p></td>
 <td></td>
@@ -513,35 +513,35 @@
 <td><p>7戦6勝<br />
 中央競馬クラシック三冠、有馬記念</p></td>
 <td><p>早田牧場新冠支場</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大久保正陽" title="wikilink">大久保正陽</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山路秀則" title="wikilink">山路秀則</a></p></td>
+<td><p><a href="../Page/大久保正陽.md" title="wikilink">大久保正陽</a></p></td>
+<td><p><a href="../Page/山路秀則.md" title="wikilink">山路秀則</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マヤノトップガン" title="wikilink">マヤノトップガン</a></p></td>
+<td><p><a href="../Page/マヤノトップガン.md" title="wikilink">マヤノトップガン</a></p></td>
 <td><p>牡4</p></td>
 <td><p>13戦5勝<br />
 菊花賞、有馬記念</p></td>
 <td><p><a href="../Page/川上悦夫.md" title="wikilink">川上悦夫</a></p></td>
 <td><p><a href="../Page/坂口正大.md" title="wikilink">坂口正大</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田所祐" title="wikilink">田所祐</a></p></td>
+<td><p><a href="../Page/田所祐.md" title="wikilink">田所祐</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダンスインザダーク" title="wikilink">ダンスインザダーク</a></p></td>
+<td><p><a href="../Page/ダンスインザダーク.md" title="wikilink">ダンスインザダーク</a></p></td>
 <td><p>牡4</p></td>
 <td><p>6戦4勝<br />
 菊花賞</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/社台ファーム" title="wikilink">社台ファーム</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/橋口弘次郎" title="wikilink">橋口弘次郎</a></p></td>
-<td><p>（有）<a href="https://ja.wikipedia.org/wiki/社台レースホース" title="wikilink">社台レースホース</a></p></td>
+<td><p><a href="../Page/社台ファーム.md" title="wikilink">社台ファーム</a></p></td>
+<td><p><a href="../Page/橋口弘次郎.md" title="wikilink">橋口弘次郎</a></p></td>
+<td><p>（有）<a href="../Page/社台レースホース.md" title="wikilink">社台レースホース</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サニーブライアン" title="wikilink">サニーブライアン</a></p></td>
+<td><p><a href="../Page/サニーブライアン.md" title="wikilink">サニーブライアン</a></p></td>
 <td><p>牡4</p></td>
 <td><p>6戦3勝<br />
 皐月賞、東京優駿</p></td>
@@ -568,19 +568,19 @@
 <td><p>10戦4勝<br />
 皐月賞</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/杵臼牧場" title="wikilink">杵臼牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩元市三" title="wikilink">岩元市三</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/竹園正繼" title="wikilink">竹園正繼</a></p></td>
+<td><p><a href="../Page/岩元市三.md" title="wikilink">岩元市三</a></p></td>
+<td><p><a href="../Page/竹園正繼.md" title="wikilink">竹園正繼</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エアシャカール" title="wikilink">エアシャカール</a></p></td>
+<td><p><a href="../Page/エアシャカール.md" title="wikilink">エアシャカール</a></p></td>
 <td><p>牡4</p></td>
 <td><p>7戦2勝<br />
 皐月賞、菊花賞</p></td>
 <td><p>社台ファーム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森秀行" title="wikilink">森秀行</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉原毎文" title="wikilink">（株）ラッキーフィールド</a></p></td>
+<td><p><a href="../Page/森秀行.md" title="wikilink">森秀行</a></p></td>
+<td><p><a href="../Page/吉原毎文.md" title="wikilink">（株）ラッキーフィールド</a></p></td>
 <td><p>274/296</p></td>
 </tr>
 </tbody>
@@ -605,13 +605,13 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャングルポケット" title="wikilink">ジャングルポケット</a></p></td>
+<td><p><a href="../Page/ジャングルポケット.md" title="wikilink">ジャングルポケット</a></p></td>
 <td><p>牡3</p></td>
 <td><p>6戦3勝<br />
 東京優駿、ジャパンカップ</p></td>
 <td><p><a href="../Page/ノーザンファーム.md" title="wikilink">ノーザンファーム</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/渡辺栄" title="wikilink">渡辺栄</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/齊藤四方司" title="wikilink">齊藤四方司</a></p></td>
+<td><p><a href="../Page/齊藤四方司.md" title="wikilink">齊藤四方司</a></p></td>
 <td><p>225/283</p></td>
 </tr>
 <tr class="even">
@@ -621,8 +621,8 @@
 <td><p>10戦5勝<br />
 <a href="https://ja.wikipedia.org/wiki/天皇賞" title="wikilink">天皇賞</a>（秋）、有馬記念</p></td>
 <td><p>タカヒロ・ワダ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤沢和雄" title="wikilink">藤沢和雄</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シンボリ牧場" title="wikilink">シンボリ牧場</a></p></td>
+<td><p><a href="../Page/藤沢和雄.md" title="wikilink">藤沢和雄</a></p></td>
+<td><p><a href="../Page/シンボリ牧場.md" title="wikilink">シンボリ牧場</a></p></td>
 <td><p>280/281</p></td>
 </tr>
 <tr class="odd">
@@ -631,42 +631,42 @@
 <td><p>牡3</p></td>
 <td><p>9戦5勝<br />
 皐月賞、東京優駿</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/社台ファーム" title="wikilink">社台ファーム</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/瀬戸口勉" title="wikilink">瀬戸口勉</a></p></td>
-<td><p>（有）<a href="https://ja.wikipedia.org/wiki/社台レースホース" title="wikilink">社台レースホース</a></p></td>
+<td><p><a href="../Page/社台ファーム.md" title="wikilink">社台ファーム</a></p></td>
+<td><p><a href="../Page/瀬戸口勉.md" title="wikilink">瀬戸口勉</a></p></td>
+<td><p>（有）<a href="../Page/社台レースホース.md" title="wikilink">社台レースホース</a></p></td>
 <td><p>284/287</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キングカメハメハ" title="wikilink">キングカメハメハ</a></p></td>
+<td><p><a href="../Page/キングカメハメハ.md" title="wikilink">キングカメハメハ</a></p></td>
 <td><p>牡3</p></td>
 <td><p>6戦5勝<br />
 NHKマイルC、東京優駿</p></td>
 <td><p>ノーザンファーム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松田国英" title="wikilink">松田国英</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金子真人" title="wikilink">金子真人</a></p></td>
+<td><p><a href="../Page/松田国英.md" title="wikilink">松田国英</a></p></td>
+<td><p><a href="../Page/金子真人.md" title="wikilink">金子真人</a></p></td>
 <td><p>281/285</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ディープインパクト_(競走馬)" title="wikilink">ディープインパクト</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/ディープインパクト_(競走馬).md" title="wikilink">ディープインパクト</a></p></td>
 <td><p>牡3</p></td>
 <td><p>7戦6勝<br />
 中央競馬クラシック三冠</p></td>
 <td><p>ノーザンファーム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池江泰郎" title="wikilink">池江泰郎</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金子真人" title="wikilink">金子真人</a>ホールディングス（株）</p></td>
+<td><p><a href="../Page/池江泰郎.md" title="wikilink">池江泰郎</a></p></td>
+<td><p><a href="../Page/金子真人.md" title="wikilink">金子真人</a>ホールディングス（株）</p></td>
 <td><p>291/291</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/メイショウサムソン" title="wikilink">メイショウサムソン</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
+<td><p>|<a href="../Page/メイショウサムソン.md" title="wikilink">メイショウサムソン</a></p></td>
 <td><p>牡3</p></td>
 <td><p>8戦3勝<br />
 皐月賞、東京優駿</p></td>
 <td><p><a href="../Page/林孝輝.md" title="wikilink">林孝輝</a></p></td>
 <td><p>瀬戸口勉</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松本好雄" title="wikilink">松本好雄</a></p></td>
+<td><p><a href="../Page/松本好雄.md" title="wikilink">松本好雄</a></p></td>
 <td><p>284/289</p></td>
 </tr>
 <tr class="odd">
@@ -709,7 +709,7 @@ NHKマイルC*、東京優駿*</p></td>
 <td><p>7戦3勝<br />
 皐月賞、有馬記念</p></td>
 <td><p>社台ファーム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/角居勝彦" title="wikilink">角居勝彦</a></p></td>
+<td><p><a href="../Page/角居勝彦.md" title="wikilink">角居勝彦</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/市川義美" title="wikilink">市川義美</a></p></td>
 <td><p>280/285</p></td>
 </tr>
@@ -720,9 +720,9 @@ NHKマイルC*、東京優駿*</p></td>
 <td><p>8戦6勝<br />
 中央競馬クラシック三冠、<br />
 有馬記念</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/白老ファーム" title="wikilink">社台コーポレーション白老ファーム</a></p></td>
+<td><p><a href="../Page/白老ファーム.md" title="wikilink">社台コーポレーション白老ファーム</a></p></td>
 <td><p><a href="../Page/池江泰寿.md" title="wikilink">池江泰寿</a></p></td>
-<td><p>（有）<a href="https://ja.wikipedia.org/wiki/サンデーレーシング" title="wikilink">サンデーレーシング</a></p></td>
+<td><p>（有）<a href="../Page/サンデーレーシング.md" title="wikilink">サンデーレーシング</a></p></td>
 <td><p>285/285</p></td>
 </tr>
 <tr class="even">
@@ -743,7 +743,7 @@ NHKマイルC*、東京優駿*</p></td>
 <td><p>牡3</p></td>
 <td><p>6戦4勝<br />
 東京優駿</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノースヒルズ" title="wikilink">ノースヒルズ</a>マネジメント</p></td>
+<td><p><a href="../Page/ノースヒルズ.md" title="wikilink">ノースヒルズ</a>マネジメント</p></td>
 <td><p><a href="../Page/佐々木晶三.md" title="wikilink">佐々木晶三</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/前田晋二" title="wikilink">前田晋二</a></p></td>
 <td><p>242/280</p></td>
@@ -810,7 +810,7 @@ NHKマイルC*、東京優駿*</p></td>
 <td><p>5戦2勝<br />
 皐月賞</p></td>
 <td><p>ノーザンファーム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/角居勝彦" title="wikilink">角居勝彦</a></p></td>
+<td><p><a href="../Page/角居勝彦.md" title="wikilink">角居勝彦</a></p></td>
 <td><p>（有）キャロットファーム</p></td>
 <td><p>124/274</p></td>
 </tr>

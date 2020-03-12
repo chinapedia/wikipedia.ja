@@ -1,64 +1,64 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-『**妻たちの課外授業II**』（つまたちのかがいじゅぎょう2）は、[日本テレビ系の](../Page/日本テレビ放送網.md "wikilink")[水曜ドラマ枠で放映された日本の](https://ja.wikipedia.org/wiki/水曜ドラマ_\(日本テレビ\) "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。放映期間は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[10月8日](../Page/10月8日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")までの全24話で、毎週水曜日の22:00 - 22:54に放映された。
+『**妻たちの課外授業II**』（つまたちのかがいじゅぎょう2）は、[日本テレビ系の](../Page/日本テレビ放送網.md "wikilink")[水曜ドラマ枠で放映された日本の](../Page/水曜ドラマ_\(日本テレビ\).md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。放映期間は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[10月8日](../Page/10月8日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")までの全24話で、毎週水曜日の22:00 - 22:54に放映された。
 
 ## 概要
 
 前作に続き、[PTA](../Page/PTA.md "wikilink")を題材とした作品。本作では共に小学6年生の子供を持つ主婦たちが主役となり、進学の問題や低年齢化する非行、いじめ、自殺、性の問題や夫の問題、不倫騒ぎなどに振り回されながらも向き合い、考えていくその姿をコミカルに描いた\[1\]。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）10月期放送の『[妻たちの課外授業](../Page/妻たちの課外授業.md "wikilink")』の続編であるが、設定、登場人物は変わっている。前作の[市毛良枝](https://ja.wikipedia.org/wiki/市毛良枝 "wikilink")に代わり小川知子が主役となった他、脚本に[内館牧子](../Page/内館牧子.md "wikilink")も参加するなどのテコ入れも図ったが、前作のような人気には至らなかった。なお本作以降、日テレ水曜22時枠で半年間放送された連続ドラマは存在していない（[2019年](../Page/2019年.md "wikilink")（平成31年）[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")現在）。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）10月期放送の『[妻たちの課外授業](../Page/妻たちの課外授業.md "wikilink")』の続編であるが、設定、登場人物は変わっている。前作の[市毛良枝](../Page/市毛良枝.md "wikilink")に代わり小川知子が主役となった他、脚本に[内館牧子](../Page/内館牧子.md "wikilink")も参加するなどのテコ入れも図ったが、前作のような人気には至らなかった。なお本作以降、日テレ水曜22時枠で半年間放送された連続ドラマは存在していない（[2019年](../Page/2019年.md "wikilink")（平成31年）[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")現在）。
 
-ちなみに本作が女優デビュー作となった[石田ひかり](../Page/石田ひかり.md "wikilink")は放送から6年後の[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")（平成4年）に内館が脚本を担当した[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[ひらり](https://ja.wikipedia.org/wiki/ひらり_\(テレビドラマ\) "wikilink")』（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）でヒロインを演じていた。
+ちなみに本作が女優デビュー作となった[石田ひかり](../Page/石田ひかり.md "wikilink")は放送から6年後の[1992年](../Page/1992年.md "wikilink")（平成4年）に内館が脚本を担当した[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[ひらり](../Page/ひらり_\(テレビドラマ\).md "wikilink")』（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）でヒロインを演じていた。
 
 ## キャスト
 
 **太字**は前作から引き続き出演。
 
-  - 秋山真紀：[小川知子](https://ja.wikipedia.org/wiki/小川知子_\(女優\) "wikilink")
-  - 小西友恵：**[由紀さおり](https://ja.wikipedia.org/wiki/由紀さおり "wikilink")**
+  - 秋山真紀：[小川知子](../Page/小川知子_\(女優\).md "wikilink")
+  - 小西友恵：**[由紀さおり](../Page/由紀さおり.md "wikilink")**
   - 松村洋子：**[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")**
-  - 秋山修平：**[前田吟](https://ja.wikipedia.org/wiki/前田吟 "wikilink")**
+  - 秋山修平：**[前田吟](../Page/前田吟.md "wikilink")**
   - 松村英彦：**[高田純次](../Page/高田純次.md "wikilink")**
   - 小西弘一：[山城新伍](https://ja.wikipedia.org/wiki/山城新伍 "wikilink")
   - 高木（教師）：[勝野洋](../Page/勝野洋.md "wikilink")
-  - 佐久間百合子：[松尾嘉代](https://ja.wikipedia.org/wiki/松尾嘉代 "wikilink")
+  - 佐久間百合子：[松尾嘉代](../Page/松尾嘉代.md "wikilink")
   - 岡野（教師）：**[大門正明](../Page/大門正明.md "wikilink")**
   - 須崎伸子（教師）：**[中島葵](https://ja.wikipedia.org/wiki/中島葵 "wikilink")**
-  - 岡本（教師）：[梨本謙次郎](https://ja.wikipedia.org/wiki/梨本謙次郎 "wikilink")
-  - [銀粉蝶](https://ja.wikipedia.org/wiki/銀粉蝶 "wikilink")
-  - 滝塾長：[有川博](https://ja.wikipedia.org/wiki/有川博 "wikilink") - 友恵に想いを寄せている。
-  - [古手川伸子](https://ja.wikipedia.org/wiki/古手川伸子 "wikilink")
+  - 岡本（教師）：[梨本謙次郎](../Page/梨本謙次郎.md "wikilink")
+  - [銀粉蝶](../Page/銀粉蝶.md "wikilink")
+  - 滝塾長：[有川博](../Page/有川博.md "wikilink") - 友恵に想いを寄せている。
+  - [古手川伸子](../Page/古手川伸子.md "wikilink")
   - **[岡本広美](https://ja.wikipedia.org/wiki/岡本広美 "wikilink")**
   - 小西みどり（友恵の娘）：[石井千穂](https://ja.wikipedia.org/wiki/石井千穂 "wikilink")
   - 秋山明子（真紀の娘）：[石田ひかり](../Page/石田ひかり.md "wikilink")
   - 秋山勇（真紀の息子）：[代田鑑之](https://ja.wikipedia.org/wiki/代田鑑之 "wikilink")
   - 松村圭太（洋子の息子）：[長崎真純](https://ja.wikipedia.org/wiki/長崎真純 "wikilink")
-  - 門田章子（PTA役員）：[奈美悦子](https://ja.wikipedia.org/wiki/奈美悦子 "wikilink")
+  - 門田章子（PTA役員）：[奈美悦子](../Page/奈美悦子.md "wikilink")
   - 門田秀夫（章子の息子）：[大原和彦](https://ja.wikipedia.org/wiki/大原和彦 "wikilink")
   - 尚子（PTA役員）：[上原まさみ](https://ja.wikipedia.org/wiki/上原まさみ "wikilink")
-  - 和美：[湊広子](https://ja.wikipedia.org/wiki/HIROKO_\(歌手\) "wikilink")
+  - 和美：[湊広子](../Page/HIROKO_\(歌手\).md "wikilink")
   - 看護婦・美紀：[星洋子](https://ja.wikipedia.org/wiki/星洋子 "wikilink")
-  - 梅沢（教頭）：[穂積隆信](https://ja.wikipedia.org/wiki/穂積隆信 "wikilink")
+  - 梅沢（教頭）：[穂積隆信](../Page/穂積隆信.md "wikilink")
   - 小野川（校長）：[久米明](../Page/久米明.md "wikilink")
-  - 小西鈴子（弘一の母）：[風見章子](https://ja.wikipedia.org/wiki/風見章子 "wikilink")
+  - 小西鈴子（弘一の母）：[風見章子](../Page/風見章子.md "wikilink")
 
 ほか
 
 ## スタッフ
 
   - プロデュース：[川原康彦](https://ja.wikipedia.org/wiki/川原康彦 "wikilink")、[関根康](https://ja.wikipedia.org/wiki/関根康 "wikilink")
-  - 脚本：[畑嶺明](https://ja.wikipedia.org/wiki/畑嶺明 "wikilink")、大原豊、[内館牧子](../Page/内館牧子.md "wikilink")
-  - 演出：[篠木為八男](https://ja.wikipedia.org/wiki/篠木為八男 "wikilink")、細野英延、小葉松慎、[水田伸生](https://ja.wikipedia.org/wiki/水田伸生 "wikilink")、結城章介
-  - 音楽：[羽田健太郎](https://ja.wikipedia.org/wiki/羽田健太郎 "wikilink")
+  - 脚本：[畑嶺明](../Page/畑嶺明.md "wikilink")、大原豊、[内館牧子](../Page/内館牧子.md "wikilink")
+  - 演出：[篠木為八男](https://ja.wikipedia.org/wiki/篠木為八男 "wikilink")、細野英延、小葉松慎、[水田伸生](../Page/水田伸生.md "wikilink")、結城章介
+  - 音楽：[羽田健太郎](../Page/羽田健太郎.md "wikilink")
   - 製作著作：[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、[松竹株式会社](https://ja.wikipedia.org/wiki/松竹株式会社 "wikilink")
 
 ## 主題歌
 
   - 「ラブソングは唄えない」（[ビクター](../Page/日本ビクター.md "wikilink")、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[11月5日](../Page/11月5日.md "wikilink")発売、C/W『きっとonly you』）
       - 作詞：[佐藤純子](https://ja.wikipedia.org/wiki/佐藤純子 "wikilink")
-      - 作曲：[芹澤廣明](https://ja.wikipedia.org/wiki/芹澤廣明 "wikilink")
-      - 編曲：[西平彰](https://ja.wikipedia.org/wiki/西平彰 "wikilink")
+      - 作曲：[芹澤廣明](../Page/芹澤廣明.md "wikilink")
+      - 編曲：[西平彰](../Page/西平彰.md "wikilink")
       - 唄：[高橋玲子](https://ja.wikipedia.org/wiki/高橋玲子 "wikilink")
 
 ## 放映リスト
@@ -153,13 +153,13 @@
 <td><p>体罰教師対PTA</p></td>
 <td><p>畑嶺明</p></td>
 <td><p>清水正也：<a href="https://ja.wikipedia.org/wiki/岩沢正益" title="wikilink">岩沢正益</a><br />
-清水和代（正也の母）：<a href="https://ja.wikipedia.org/wiki/田島令子" title="wikilink">田島令子</a></p></td>
+清水和代（正也の母）：<a href="../Page/田島令子.md" title="wikilink">田島令子</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>12月17日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/積木くずし" title="wikilink">積木くずし</a>を越えていま再出発</p></td>
+<td><p><a href="../Page/積木くずし.md" title="wikilink">積木くずし</a>を越えていま再出発</p></td>
 <td><p>大原豊、畑嶺明</p></td>
 <td><p>小葉松慎</p></td>
 <td></td>

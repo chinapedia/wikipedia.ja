@@ -1,7 +1,7 @@
 > この記事は[BABYLON \(SADS\)](https://ja.wikipedia.org/wiki/BABYLON_\(SADS\))から翻訳されています。
 
 
-『**BABYLON**』 (バビロン) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[SADS](https://ja.wikipedia.org/wiki/SADS "wikilink")の2作目の[アルバム](../Page/アルバム.md "wikilink")。
+『**BABYLON**』 (バビロン) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[SADS](../Page/SADS.md "wikilink")の2作目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 ## 参加ミュージシャン
 
   - Vocal & voice: 清春
-  - Guitar & chorus: [坂下たけとも](https://ja.wikipedia.org/wiki/坂下たけとも "wikilink")
+  - Guitar & chorus: [坂下たけとも](../Page/坂下たけとも.md "wikilink")
   - Drums & chorus: 牟田昌広
 
 <!-- end list -->
@@ -27,7 +27,7 @@
   - Violin (M-8): [弦一徹](https://ja.wikipedia.org/wiki/弦一徹 "wikilink"), 栄田嘉彦
   - Viola (M-8): 村山達哉
   - Cello (M-8): 堀沢真己
-  - Bass & chorus (M-2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 16): [小林勝](https://ja.wikipedia.org/wiki/小林勝_\(音楽家\) "wikilink")
+  - Bass & chorus (M-2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 16): [小林勝](../Page/小林勝_\(音楽家\).md "wikilink")
   - Female voice (M-1): 朋茶
   - Sound produce & all instruments (M-1, 14): OTO
 

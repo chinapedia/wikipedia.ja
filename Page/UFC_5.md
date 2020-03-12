@@ -1,11 +1,11 @@
 > この記事は[UFC 5](https://ja.wikipedia.org/wiki/UFC_5)から翻訳されています。
 
 
-**UFC 5: Return of the Beast**（ユーエフシー・ファイブ：リターン・オブ・ザ・ビースト）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")、[ノースカロライナ州](../Page/ノースカロライナ州.md "wikilink")[シャーロットのインディペンデンス](https://ja.wikipedia.org/wiki/シャーロット_\(ノースカロライナ州\) "wikilink")・アリーナで開催された。
+**UFC 5: Return of the Beast**（ユーエフシー・ファイブ：リターン・オブ・ザ・ビースト）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")、[ノースカロライナ州](../Page/ノースカロライナ州.md "wikilink")[シャーロットのインディペンデンス](../Page/シャーロット_\(ノースカロライナ州\).md "wikilink")・アリーナで開催された。
 
 ## 大会概要
 
-サブタイトル「リターン・オブ・ザ・ビースト」の名の通り、"ザ・ビースト"・[ダン・スバーン](../Page/ダン・スバーン.md "wikilink")がUFCに再び参戦。ジョー・チャールズ、[オレッグ・タクタロフ](https://ja.wikipedia.org/wiki/オレッグ・タクタロフ "wikilink")、デイブ・ベネトゥーを降し、トーナメント優勝を果たした。
+サブタイトル「リターン・オブ・ザ・ビースト」の名の通り、"ザ・ビースト"・[ダン・スバーン](../Page/ダン・スバーン.md "wikilink")がUFCに再び参戦。ジョー・チャールズ、[オレッグ・タクタロフ](../Page/オレッグ・タクタロフ.md "wikilink")、デイブ・ベネトゥーを降し、トーナメント優勝を果たした。
 
 ### ルール改正
 
@@ -15,46 +15,46 @@
 
   - 第1試合 UFC 5トーナメント リザーブマッチ 20分1R
     ○  デイブ・ベネトゥー vs.  アスベル・カンシオ ×
-    1R 0:21 TKO（レフェリーストップ：[グラウンドパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    1R 0:21 TKO（レフェリーストップ：[グラウンドパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第2試合 UFC 5トーナメント リザーブマッチ 20分1R
-    ○  [ガイ・メッツァー](https://ja.wikipedia.org/wiki/ガイ・メッツァー "wikilink") vs.  ジョン・ダウディ ×
+    ○  [ガイ・メッツァー](../Page/ガイ・メッツァー.md "wikilink") vs.  ジョン・ダウディ ×
     1R 2:02 TKO（タオル投入）
   - 第3試合 UFC 5トーナメント 1回戦 20分1R
     ○  ジョン・ヘス vs.  アンディ・アンダーソン ×
-    1R 1:23 TKO（レフェリーストップ：[グラウンドパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    1R 1:23 TKO（レフェリーストップ：[グラウンドパンチ](../Page/グラウンドパンチ.md "wikilink")）
     ※ヘスの負傷棄権によりリザーバーのベネトゥーが準決勝進出。
   - 第4試合 UFC 5トーナメント 1回戦 20分1R
     ○  トッド・メディーナ vs.  ラリー・キュアトン ×
     1R 2:55 前腕チョーク
     ※メディーナが準決勝進出。
   - 第5試合 UFC 5トーナメント 1回戦 20分1R
-    ○  [オレッグ・タクタロフ](https://ja.wikipedia.org/wiki/オレッグ・タクタロフ "wikilink") vs.  アーニー・バーディシア ×
+    ○  [オレッグ・タクタロフ](../Page/オレッグ・タクタロフ.md "wikilink") vs.  アーニー・バーディシア ×
     1R 2:23 チョーク
     ※タクタロフが準決勝進出。
   - 第6試合 UFC 5トーナメント 1回戦 20分1R
     ○  [ダン・スバーン](../Page/ダン・スバーン.md "wikilink") vs.  ジョー・チャールズ ×
-    1R 1:38 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    1R 1:38 [チョークスリーパー](../Page/裸絞.md "wikilink")
     ※スバーンが準決勝進出。
   - 第7試合 UFC 5トーナメント 準決勝 20分1R
     ○  デイブ・ベネトゥー vs.  トッド・メディーナ ×
-    1R 2:12 TKO（レフェリーストップ：[グラウンドパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    1R 2:12 TKO（レフェリーストップ：[グラウンドパンチ](../Page/グラウンドパンチ.md "wikilink")）
     ※ベネトゥーが決勝進出。
   - 第8試合 UFC 5トーナメント 準決勝 20分1R
-    ○  [ダン・スバーン](../Page/ダン・スバーン.md "wikilink") vs.  [オレッグ・タクタロフ](https://ja.wikipedia.org/wiki/オレッグ・タクタロフ "wikilink") ×
+    ○  [ダン・スバーン](../Page/ダン・スバーン.md "wikilink") vs.  [オレッグ・タクタロフ](../Page/オレッグ・タクタロフ.md "wikilink") ×
     1R 4:21 TKO（レフェリーストップ：カット）
     ※スバーンが決勝進出。
   - 第9試合 UFCスーパーファイト王座決定戦 30分1R、延長3分2R
-    △  [ケン・シャムロック](https://ja.wikipedia.org/wiki/ケン・シャムロック "wikilink") vs.  [ホイス・グレイシー](https://ja.wikipedia.org/wiki/ホイス・グレイシー "wikilink") △
+    △  [ケン・シャムロック](../Page/ケン・シャムロック.md "wikilink") vs.  [ホイス・グレイシー](../Page/ホイス・グレイシー.md "wikilink") △
     延長R終了 時間切れ
   - 第10試合 UFC 5トーナメント 決勝戦 30分1R
     ○  [ダン・スバーン](../Page/ダン・スバーン.md "wikilink") vs.  デイブ・ベネトゥー ×
-    1R 3:01 [V1アームロック](https://ja.wikipedia.org/wiki/V1アームロック "wikilink")
+    1R 3:01 [V1アームロック](../Page/V1アームロック.md "wikilink")
     ※スバーンがトーナメント優勝。
 
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

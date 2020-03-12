@@ -1,7 +1,7 @@
 > この記事は[JRA2](https://ja.wikipedia.org/wiki/JRA2)から翻訳されています。
 
 
-**JRA賞最優秀2歳牝馬**（ジェイアールエーしょう さいゆうしゅう にさいひんば）は、[JRA賞](../Page/JRA賞.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門の1つ。該当年度中に活躍した2歳[牝馬](https://ja.wikipedia.org/wiki/牝馬 "wikilink")の競走馬に対して記者投票を行いその合計票数が1位だった馬が選出される。[2000年](../Page/2000年.md "wikilink")までは**JRA賞最優秀3歳牝馬**（ジェイアールエーしょうさいゆうしゅうさんさいひんば）という名称だったが、[馬齢](https://ja.wikipedia.org/wiki/馬齢 "wikilink")表記改正に伴って改称された。賞名および表彰団体は[JRA賞](../Page/JRA賞.md "wikilink")年度代表馬と同様に啓衆社賞、優駿賞、JRA賞に引き継がれている。[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")に阪神3歳ステークスが牝馬限定の阪神3歳牝馬ステークス(現在の[阪神ジュベナイルフィリーズ](../Page/阪神ジュベナイルフィリーズ.md "wikilink"))になって以降は同レースの勝ち馬が受賞している。
+**JRA賞最優秀2歳牝馬**（ジェイアールエーしょう さいゆうしゅう にさいひんば）は、[JRA賞](../Page/JRA賞.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門の1つ。該当年度中に活躍した2歳[牝馬](../Page/牝馬.md "wikilink")の競走馬に対して記者投票を行いその合計票数が1位だった馬が選出される。[2000年](../Page/2000年.md "wikilink")までは**JRA賞最優秀3歳牝馬**（ジェイアールエーしょうさいゆうしゅうさんさいひんば）という名称だったが、[馬齢](../Page/馬齢.md "wikilink")表記改正に伴って改称された。賞名および表彰団体は[JRA賞](../Page/JRA賞.md "wikilink")年度代表馬と同様に啓衆社賞、優駿賞、JRA賞に引き継がれている。[1991年](../Page/1991年.md "wikilink")に阪神3歳ステークスが牝馬限定の阪神3歳牝馬ステークス(現在の[阪神ジュベナイルフィリーズ](../Page/阪神ジュベナイルフィリーズ.md "wikilink"))になって以降は同レースの勝ち馬が受賞している。
 
 ## 歴代受賞馬
 
@@ -47,13 +47,13 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1956年.md" title="wikilink">1956年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミスオンワード" title="wikilink">ミスオンワード</a></p></td>
+<td><p><a href="../Page/ミスオンワード.md" title="wikilink">ミスオンワード</a></p></td>
 <td><p>牝3</p></td>
 <td><p>4戦4勝<br />
 京都3歳ステークス</p></td>
 <td><p>近藤俊明</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/武田文吾" title="wikilink">武田文吾</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/樫山純三" title="wikilink">樫山純三</a></p></td>
+<td><p><a href="../Page/武田文吾.md" title="wikilink">武田文吾</a></p></td>
+<td><p><a href="../Page/樫山純三.md" title="wikilink">樫山純三</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -72,7 +72,7 @@
 <td><p>牝3</p></td>
 <td><p>10戦4勝</p></td>
 <td><p>大塚牧場</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤本冨良" title="wikilink">藤本冨良</a></p></td>
+<td><p><a href="../Page/藤本冨良.md" title="wikilink">藤本冨良</a></p></td>
 <td><p>六郎田雅喜</p></td>
 <td></td>
 </tr>
@@ -92,7 +92,7 @@
 <td><p>牝3</p></td>
 <td><p>4戦3勝</p></td>
 <td><p>伏木田牧場</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/稲葉幸夫" title="wikilink">稲葉幸夫</a></p></td>
+<td><p><a href="../Page/稲葉幸夫.md" title="wikilink">稲葉幸夫</a></p></td>
 <td><p>浅生山正夫</p></td>
 <td></td>
 </tr>
@@ -122,7 +122,7 @@
 <td><p>牝3</p></td>
 <td><p>8戦7勝<br />
 阪神3歳ステークス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/白老ファーム" title="wikilink">千葉社台牧場社台支場</a></p></td>
+<td><p><a href="../Page/白老ファーム.md" title="wikilink">千葉社台牧場社台支場</a></p></td>
 <td><p>武田文吾</p></td>
 <td><p>園田信太</p></td>
 <td></td>
@@ -134,7 +134,7 @@
 <td><p>7戦5勝<br />
 阪神3歳ステークス</p></td>
 <td><p>大塚牧場</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田中康三" title="wikilink">田中康三</a></p></td>
+<td><p><a href="../Page/田中康三.md" title="wikilink">田中康三</a></p></td>
 <td><p>山口昇</p></td>
 <td></td>
 </tr>
@@ -151,11 +151,11 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1966年.md" title="wikilink">1966年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヤマピット" title="wikilink">ヤマピット</a></p></td>
+<td><p><a href="../Page/ヤマピット.md" title="wikilink">ヤマピット</a></p></td>
 <td><p>牝3</p></td>
 <td><p>5戦4勝<br />
-<a href="https://ja.wikipedia.org/wiki/デイリー杯2歳ステークス" title="wikilink">デイリー杯3歳ステークス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/荻伏牧場" title="wikilink">荻伏牧場</a></p></td>
+<a href="../Page/デイリー杯2歳ステークス.md" title="wikilink">デイリー杯3歳ステークス</a></p></td>
+<td><p><a href="../Page/荻伏牧場.md" title="wikilink">荻伏牧場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/浅見国一" title="wikilink">浅見国一</a></p></td>
 <td><p>小林信夫</p></td>
 <td></td>
@@ -165,7 +165,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ヤマトダケ" title="wikilink">ヤマトダケ</a></p></td>
 <td><p>牝3</p></td>
 <td><p>6戦5勝<br />
-<a href="https://ja.wikipedia.org/wiki/京王杯2歳ステークス" title="wikilink">京成杯3歳ステークス</a></p></td>
+<a href="../Page/京王杯2歳ステークス.md" title="wikilink">京成杯3歳ステークス</a></p></td>
 <td><p>和田正輔</p></td>
 <td><p>稲葉幸夫</p></td>
 <td><p>北條三郎</p></td>
@@ -187,14 +187,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/タニノソブリン" title="wikilink">タニノソブリン</a></p></td>
 <td><p>牝3</p></td>
 <td><p>10戦4勝<br />
-<a href="https://ja.wikipedia.org/wiki/函館2歳ステークス" title="wikilink">函館3歳ステークス</a></p></td>
+<a href="../Page/函館2歳ステークス.md" title="wikilink">函館3歳ステークス</a></p></td>
 <td><p>足利正義</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中村好夫" title="wikilink">中村好夫</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/谷水信夫" title="wikilink">谷水信夫</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1970年" title="wikilink">1970年</a></p></td>
+<td><p><a href="../Page/1970年.md" title="wikilink">1970年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スズランパス" title="wikilink">スズランパス</a></p></td>
 <td><p>牝3</p></td>
 <td><p>4戦2勝<br />
@@ -211,7 +211,7 @@
 <td><p>5戦4勝<br />
 京成杯3歳ステークス、<br />
 朝日杯3歳ステークス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/徳間康快" title="wikilink">徳間牧場</a></p></td>
+<td><p><a href="../Page/徳間康快.md" title="wikilink">徳間牧場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/梶与四松" title="wikilink">梶与四松</a></p></td>
 <td><p>（有）徳間牧場</p></td>
 <td></td>
@@ -238,7 +238,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/1972年.md" title="wikilink">1972年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キシュウローレル" title="wikilink">キシュウローレル</a></p></td>
+<td><p><a href="../Page/キシュウローレル.md" title="wikilink">キシュウローレル</a></p></td>
 <td><p>牝3</p></td>
 <td><p>4戦4勝<br />
 阪神3歳ステークス</p></td>
@@ -249,7 +249,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1973年.md" title="wikilink">1973年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イットー" title="wikilink">イットー</a></p></td>
+<td><p><a href="../Page/イットー.md" title="wikilink">イットー</a></p></td>
 <td><p>牝3</p></td>
 <td><p>3戦2勝</p></td>
 <td><p>荻伏牧場</p></td>
@@ -259,7 +259,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1974年.md" title="wikilink">1974年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テスコガビー" title="wikilink">テスコガビー</a></p></td>
+<td><p><a href="../Page/テスコガビー.md" title="wikilink">テスコガビー</a></p></td>
 <td><p>牝3</p></td>
 <td><p>3戦3勝<br />
 京成杯3歳ステークス</p></td>
@@ -270,7 +270,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1975年.md" title="wikilink">1975年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テイタニヤ" title="wikilink">テイタニヤ</a></p></td>
+<td><p><a href="../Page/テイタニヤ.md" title="wikilink">テイタニヤ</a></p></td>
 <td><p>牝3</p></td>
 <td><p>7戦4勝</p></td>
 <td><p>池田正義</p></td>
@@ -279,14 +279,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1976年" title="wikilink">1976年</a></p></td>
+<td><p><a href="../Page/1976年.md" title="wikilink">1976年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/セーヌスポート" title="wikilink">セーヌスポート</a></p></td>
 <td><p>牝3</p></td>
 <td><p>4戦3勝<br />
 京成杯3歳ステークス</p></td>
 <td><p><a href="../Page/ノーザンファーム.md" title="wikilink">社台ファーム</a></p></td>
 <td><p>稲葉幸夫</p></td>
-<td><p>（有）<a href="https://ja.wikipedia.org/wiki/ターフ・スポート" title="wikilink">ターフ・スポート</a></p></td>
+<td><p>（有）<a href="../Page/ターフ・スポート.md" title="wikilink">ターフ・スポート</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -294,7 +294,7 @@
 <td><p>牝3</p></td>
 <td><p>6戦4勝</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/千代田牧場" title="wikilink">千代田牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/成宮明光" title="wikilink">成宮明光</a></p></td>
+<td><p><a href="../Page/成宮明光.md" title="wikilink">成宮明光</a></p></td>
 <td><p>藤田正蔵</p></td>
 <td></td>
 <td></td>
@@ -304,9 +304,9 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ラブリトウショウ" title="wikilink">ラブリトウショウ</a></p></td>
 <td><p>牝3</p></td>
 <td><p>5戦3勝<br />
-<a href="https://ja.wikipedia.org/wiki/札幌2歳ステークス" title="wikilink">北海道3歳ステークス</a></p></td>
+<a href="../Page/札幌2歳ステークス.md" title="wikilink">北海道3歳ステークス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トウショウ牧場" title="wikilink">藤正牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/戸山為夫" title="wikilink">戸山為夫</a></p></td>
+<td><p><a href="../Page/戸山為夫.md" title="wikilink">戸山為夫</a></p></td>
 <td><p>トウショウ産業（株）</p></td>
 <td></td>
 </tr>
@@ -317,7 +317,7 @@
 <td><p>4戦3勝<br />
 函館3歳ステークス</p></td>
 <td><p>荻伏牧場</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤修司" title="wikilink">伊藤修司</a></p></td>
+<td><p><a href="../Page/伊藤修司.md" title="wikilink">伊藤修司</a></p></td>
 <td><p>中山信一</p></td>
 <td></td>
 </tr>
@@ -348,7 +348,7 @@
 <td><p><a href="../Page/ビクトリアクラウン.md" title="wikilink">ビクトリアクラウン</a></p></td>
 <td><p>牝3</p></td>
 <td><p>4戦3勝<br />
-<a href="https://ja.wikipedia.org/wiki/新潟2歳ステークス" title="wikilink">新潟3歳ステークス</a></p></td>
+<a href="../Page/新潟2歳ステークス.md" title="wikilink">新潟3歳ステークス</a></p></td>
 <td><p>千代田牧場</p></td>
 <td><p>稲葉幸夫</p></td>
 <td><p>飯田正</p></td>
@@ -361,7 +361,7 @@
 <td><p>3戦3勝</p></td>
 <td><p>社台ファーム</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/野平好男" title="wikilink">野平好男</a></p></td>
-<td><p>（有）<a href="https://ja.wikipedia.org/wiki/社台レースホース" title="wikilink">社台レースホース</a></p></td>
+<td><p>（有）<a href="../Page/社台レースホース.md" title="wikilink">社台レースホース</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -379,7 +379,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ニホンピロビッキー" title="wikilink">ニホンピロビッキー</a></p></td>
 <td><p>牝3</p></td>
 <td><p>4戦3勝<br />
-<a href="https://ja.wikipedia.org/wiki/ホープフルステークス_(中央競馬)" title="wikilink">ラジオたんぱ杯3歳牝馬ステークス</a></p></td>
+<a href="../Page/ホープフルステークス_(中央競馬).md" title="wikilink">ラジオたんぱ杯3歳牝馬ステークス</a></p></td>
 <td><p>武田君子</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田中耕太郎_(競馬)" title="wikilink">田中耕太郎</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニホンピロ・レーシング" title="wikilink">小林百太郎</a></p></td>
@@ -390,15 +390,15 @@
 <td><p><a href="../Page/メジロラモーヌ.md" title="wikilink">メジロラモーヌ</a></p></td>
 <td><p>牝3</p></td>
 <td><p>4戦3勝<br />
-<a href="https://ja.wikipedia.org/wiki/フェアリーステークス" title="wikilink">テレビ東京賞3歳牝馬ステークス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/メジロ牧場" title="wikilink">メジロ牧場</a></p></td>
+<a href="../Page/フェアリーステークス.md" title="wikilink">テレビ東京賞3歳牝馬ステークス</a></p></td>
+<td><p><a href="../Page/メジロ牧場.md" title="wikilink">メジロ牧場</a></p></td>
 <td><p>奥平真治</p></td>
 <td><p>（有）メジロ牧場</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コーセイ" title="wikilink">コーセイ</a></p></td>
+<td><p><a href="../Page/コーセイ.md" title="wikilink">コーセイ</a></p></td>
 <td><p>牝3</p></td>
 <td><p>4戦3勝<br />
 テレビ東京賞3歳牝馬ステークス</p></td>
@@ -413,7 +413,7 @@
 <td><p>2戦2勝<br />
 ラジオたんぱ杯3歳牝馬ステークス</p></td>
 <td><p>中野順一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池江泰郎" title="wikilink">池江泰郎</a></p></td>
+<td><p><a href="../Page/池江泰郎.md" title="wikilink">池江泰郎</a></p></td>
 <td><p>新井興業（株）</p></td>
 <td></td>
 <td></td>
@@ -473,8 +473,8 @@
 <td><p>6戦3勝<br />
 京成杯3歳ステークス</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/谷岡牧場" title="wikilink">谷岡牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/境勝太郎" title="wikilink">境勝太郎</a></p></td>
-<td><p>（株）<a href="https://ja.wikipedia.org/wiki/さくらコマース" title="wikilink">さくらコマース</a></p></td>
+<td><p><a href="../Page/境勝太郎.md" title="wikilink">境勝太郎</a></p></td>
+<td><p>（株）<a href="../Page/さくらコマース.md" title="wikilink">さくらコマース</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -491,11 +491,11 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1991年" title="wikilink">1991年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニシノフラワー" title="wikilink">ニシノフラワー</a></p></td>
+<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
+<td><p><a href="../Page/ニシノフラワー.md" title="wikilink">ニシノフラワー</a></p></td>
 <td><p>牝3</p></td>
 <td><p>4戦4勝<br />
-<a href="https://ja.wikipedia.org/wiki/札幌2歳ステークス" title="wikilink">札幌3歳ステークス</a>、<br />
+<a href="../Page/札幌2歳ステークス.md" title="wikilink">札幌3歳ステークス</a>、<br />
 デイリー杯3歳ステークス、<br />
 <a href="../Page/阪神ジュベナイルフィリーズ.md" title="wikilink">阪神3歳牝馬ステークス</a></p></td>
 <td><p><a href="../Page/西山牧場.md" title="wikilink">西山牧場</a></p></td>
@@ -505,8 +505,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1992年" title="wikilink">1992年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スエヒロジョウオー" title="wikilink">スエヒロジョウオー</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
+<td><p><a href="../Page/スエヒロジョウオー.md" title="wikilink">スエヒロジョウオー</a></p></td>
 <td><p>牝3</p></td>
 <td><p>6戦3勝<br />
 阪神3歳牝馬ステークス</p></td>
@@ -518,13 +518,13 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヒシアマゾン" title="wikilink">ヒシアマゾン</a></p></td>
+<td><p><a href="../Page/ヒシアマゾン.md" title="wikilink">ヒシアマゾン</a></p></td>
 <td><p>牝3</p></td>
 <td><p>4戦2勝<br />
 阪神3歳牝馬ステークス</p></td>
 <td><p>マサイチロウ・アベ</p></td>
 <td><p><a href="../Page/中野隆良.md" title="wikilink">中野隆良</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/阿部雅一郎" title="wikilink">阿部雅一郎</a></p></td>
+<td><p><a href="../Page/阿部雅一郎.md" title="wikilink">阿部雅一郎</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -542,12 +542,12 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビワハイジ" title="wikilink">ビワハイジ</a></p></td>
+<td><p><a href="../Page/ビワハイジ.md" title="wikilink">ビワハイジ</a></p></td>
 <td><p>牝3</p></td>
 <td><p>3戦3勝<br />
 札幌3歳ステークス、<br />
 阪神3歳牝馬ステークス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/資生園早田牧場" title="wikilink">早田牧場新冠支場</a></p></td>
+<td><p><a href="../Page/資生園早田牧場.md" title="wikilink">早田牧場新冠支場</a></p></td>
 <td><p>浜田光正</p></td>
 <td><p>（有）ビワ</p></td>
 <td></td>
@@ -561,31 +561,31 @@
 阪神3歳牝馬ステークス</p></td>
 <td><p>メジロ牧場</p></td>
 <td><p><a href="../Page/大久保洋吉.md" title="wikilink">大久保洋吉</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/メジロ牧場" title="wikilink">メジロ商事</a>（株）</p></td>
+<td><p><a href="../Page/メジロ牧場.md" title="wikilink">メジロ商事</a>（株）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アインブライド" title="wikilink">アインブライド</a></p></td>
+<td><p><a href="../Page/アインブライド.md" title="wikilink">アインブライド</a></p></td>
 <td><p>牝3</p></td>
 <td><p>5戦3勝<br />
 阪神3歳牝馬ステークス</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北星村田牧場" title="wikilink">北星村田牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮徹" title="wikilink">宮徹</a></p></td>
+<td><p><a href="../Page/宮徹.md" title="wikilink">宮徹</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/荒木美代治" title="wikilink">荒木美代治</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スティンガー_(競走馬)" title="wikilink">スティンガー</a></p></td>
+<td><p><a href="../Page/スティンガー_(競走馬).md" title="wikilink">スティンガー</a></p></td>
 <td><p>牝3</p></td>
 <td><p>3戦3勝<br />
 阪神3歳牝馬ステークス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/社台ファーム" title="wikilink">社台ファーム</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤沢和雄" title="wikilink">藤沢和雄</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田照哉" title="wikilink">吉田照哉</a></p></td>
+<td><p><a href="../Page/社台ファーム.md" title="wikilink">社台ファーム</a></p></td>
+<td><p><a href="../Page/藤沢和雄.md" title="wikilink">藤沢和雄</a></p></td>
+<td><p><a href="../Page/吉田照哉.md" title="wikilink">吉田照哉</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -603,13 +603,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テイエムオーシャン" title="wikilink">テイエムオーシャン</a></p></td>
+<td><p><a href="../Page/テイエムオーシャン.md" title="wikilink">テイエムオーシャン</a></p></td>
 <td><p>牝3</p></td>
 <td><p>4戦3勝<br />
 阪神3歳牝馬ステークス</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/川越敏樹" title="wikilink">川越敏樹</a></p></td>
 <td><p><a href="../Page/西浦勝一.md" title="wikilink">西浦勝一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/竹園正繼" title="wikilink">竹園正繼</a></p></td>
+<td><p><a href="../Page/竹園正繼.md" title="wikilink">竹園正繼</a></p></td>
 <td></td>
 <td><p>292/296</p></td>
 </tr>
@@ -641,7 +641,7 @@
 <td><p>6戦3勝<br />
 <a href="../Page/阪神ジュベナイルフィリーズ.md" title="wikilink">阪神ジュベナイルフィリーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/諏訪牧場" title="wikilink">諏訪牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西園正都" title="wikilink">西園正都</a></p></td>
+<td><p><a href="../Page/西園正都.md" title="wikilink">西園正都</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/谷口屯" title="wikilink">谷口屯</a></p></td>
 <td></td>
 <td><p>260/283</p></td>
@@ -651,7 +651,7 @@
 <td><p><a href="../Page/ピースオブワールド.md" title="wikilink">ピースオブワールド</a></p></td>
 <td><p>牝2</p></td>
 <td><p>4戦4勝<br />
-<a href="https://ja.wikipedia.org/wiki/ファンタジーステークス" title="wikilink">ファンタジーステークス</a>、<br />
+<a href="../Page/ファンタジーステークス.md" title="wikilink">ファンタジーステークス</a>、<br />
 阪神ジュベナイルフィリーズ</p></td>
 <td><p>千代田牧場</p></td>
 <td><p><a href="../Page/坂口正大.md" title="wikilink">坂口正大</a></p></td>
@@ -661,7 +661,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヤマニンシュクル" title="wikilink">ヤマニンシュクル</a></p></td>
+<td><p><a href="../Page/ヤマニンシュクル.md" title="wikilink">ヤマニンシュクル</a></p></td>
 <td><p>牝2</p></td>
 <td><p>5戦3勝<br />
 阪神ジュベナイルフィリーズ</p></td>
@@ -673,19 +673,19 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ショウナンパントル" title="wikilink">ショウナンパントル</a></p></td>
+<td><p><a href="../Page/ショウナンパントル.md" title="wikilink">ショウナンパントル</a></p></td>
 <td><p>牝2</p></td>
 <td><p>4戦2勝<br />
 阪神ジュベナイルフィリーズ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/白老ファーム" title="wikilink">白老ファーム</a></p></td>
+<td><p><a href="../Page/白老ファーム.md" title="wikilink">白老ファーム</a></p></td>
 <td><p>大久保洋吉</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/国本哲秀" title="wikilink">国本哲秀</a></p></td>
 <td></td>
 <td><p>277/285</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テイエムプリキュア" title="wikilink">テイエムプリキュア</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/テイエムプリキュア.md" title="wikilink">テイエムプリキュア</a></p></td>
 <td><p>牝2</p></td>
 <td><p>3戦3勝<br />
 阪神ジュベナイルフィリーズ</p></td>
@@ -696,15 +696,15 @@
 <td><p>290/291</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p>|<a href="../Page/ウオッカ.md" title="wikilink">ウオッカ</a></p></td>
 <td><p>牝2</p></td>
 <td><p>3戦2勝<br />
 阪神ジュベナイルフィリーズ</p></td>
 <td><p><a href="../Page/カントリー牧場.md" title="wikilink">カントリー牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/角居勝彦" title="wikilink">角居勝彦</a></p></td>
+<td><p><a href="../Page/角居勝彦.md" title="wikilink">角居勝彦</a></p></td>
 <td><p><a href="../Page/谷水雄三.md" title="wikilink">谷水雄三</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四位洋文" title="wikilink">四位洋文</a></p></td>
+<td><p><a href="../Page/四位洋文.md" title="wikilink">四位洋文</a></p></td>
 <td><p>271/289</p></td>
 </tr>
 <tr class="odd">
@@ -727,7 +727,7 @@
 阪神ジュベナイルフィリーズ</p></td>
 <td><p>ノーザンファーム</p></td>
 <td><p><a href="../Page/松田博資.md" title="wikilink">松田博資</a></p></td>
-<td><p>（有）<a href="https://ja.wikipedia.org/wiki/サンデーレーシング" title="wikilink">サンデーレーシング</a></p></td>
+<td><p>（有）<a href="../Page/サンデーレーシング.md" title="wikilink">サンデーレーシング</a></p></td>
 <td></td>
 <td><p>299/300</p></td>
 </tr>
@@ -739,8 +739,8 @@
 阪神ジュベナイルフィリーズ</p></td>
 <td><p>ノーザンファーム</p></td>
 <td><p><a href="../Page/国枝栄.md" title="wikilink">国枝栄</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金子真人" title="wikilink">金子真人</a>ホールディングス（株）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/蛯名正義" title="wikilink">蛯名正義</a></p></td>
+<td><p><a href="../Page/金子真人.md" title="wikilink">金子真人</a>ホールディングス（株）</p></td>
+<td><p><a href="../Page/蛯名正義.md" title="wikilink">蛯名正義</a></p></td>
 <td><p>287/287</p></td>
 </tr>
 <tr class="even">
@@ -784,7 +784,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/レッドリヴェール" title="wikilink">レッドリヴェール</a></p></td>
 <td><p>牝2</p></td>
 <td><p>3戦3勝<br />
-<a href="https://ja.wikipedia.org/wiki/札幌2歳ステークス" title="wikilink">札幌2歳ステークス</a>　阪神ジュベナイルフィリーズ</p></td>
+<a href="../Page/札幌2歳ステークス.md" title="wikilink">札幌2歳ステークス</a>　阪神ジュベナイルフィリーズ</p></td>
 <td><p>社台ファーム</p></td>
 <td><p>須貝尚介</p></td>
 <td><p>（株）<a href="https://ja.wikipedia.org/wiki/東京ホースレーシング" title="wikilink">東京ホースレーシング</a></p></td>
@@ -812,7 +812,7 @@
 <td><p>ノーザンファーム</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田村康仁" title="wikilink">田村康仁</a></p></td>
 <td><p>（有）サンデーレーシング</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリストフ・ルメール" title="wikilink">C.ルメール</a></p></td>
+<td><p><a href="../Page/クリストフ・ルメール.md" title="wikilink">C.ルメール</a></p></td>
 <td><p>291/291</p></td>
 </tr>
 <tr class="even">
@@ -823,7 +823,7 @@
 阪神ジュベナイルフィリーズ</p></td>
 <td><p>社台ファーム</p></td>
 <td><p>藤沢和雄</p></td>
-<td><p>（有）<a href="https://ja.wikipedia.org/wiki/社台レースホース" title="wikilink">社台レースホース</a></p></td>
+<td><p>（有）<a href="../Page/社台レースホース.md" title="wikilink">社台レースホース</a></p></td>
 <td><p>C.ルメール</p></td>
 <td><p>290/291</p></td>
 </tr>
@@ -836,7 +836,7 @@
 <td><p>ノーザンファーム</p></td>
 <td><p>松永幹夫</p></td>
 <td><p>（有）サンデーレーシング</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石橋脩" title="wikilink">石橋脩</a></p></td>
+<td><p><a href="../Page/石橋脩.md" title="wikilink">石橋脩</a></p></td>
 <td><p>290/290</p></td>
 </tr>
 <tr class="even">

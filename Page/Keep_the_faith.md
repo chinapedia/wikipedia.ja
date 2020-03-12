@@ -1,7 +1,7 @@
 > この記事は[Keep the faith](https://ja.wikipedia.org/wiki/Keep_the_faith)から翻訳されています。
 
 
-「**Keep the faith**」（キープ・ザ・フェイス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")・[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[J-One Recordsから発売された](https://ja.wikipedia.org/wiki/ジェイ・ストーム "wikilink")。
+「**Keep the faith**」（キープ・ザ・フェイス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")・[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[J-One Recordsから発売された](../Page/ジェイ・ストーム.md "wikilink")。
 
 ## 概要
 
@@ -13,11 +13,11 @@
 
 ### 氷室京介との関係
 
-この楽曲を発売する際、氷室京介がジャニーズ事務所のグループに楽曲提供するということが話題となった。氷室はこの楽曲が発売された後に、メンバーの赤西が半年間留学のために休業したことに、「自分がまだ若かった頃のどうしようもない不安や、焦りや、もどかしさを思い出した」ことをコメントし、まだ一度も会った事のない赤西に対し感銘を受けたことや、また「今回このプロジェクトに参加出来た事をとても光栄に思ってます。」とコメントした\[1\]。ちなみに氷室が作詞に携わるのは、4年7ヶ月ぶりとなる。また、氷室が「[20th Anniversary ALL SINGLES COMPLETE BEST JUST MOVIN' ON 〜ALL THE-S-HIT〜](https://ja.wikipedia.org/wiki/20th_Anniversary_ALL_SINGLES_COMPLETE_BEST_JUST_MOVIN'_ON_〜ALL_THE-S-HIT〜 "wikilink")」にて[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")している。
+この楽曲を発売する際、氷室京介がジャニーズ事務所のグループに楽曲提供するということが話題となった。氷室はこの楽曲が発売された後に、メンバーの赤西が半年間留学のために休業したことに、「自分がまだ若かった頃のどうしようもない不安や、焦りや、もどかしさを思い出した」ことをコメントし、まだ一度も会った事のない赤西に対し感銘を受けたことや、また「今回このプロジェクトに参加出来た事をとても光栄に思ってます。」とコメントした\[1\]。ちなみに氷室が作詞に携わるのは、4年7ヶ月ぶりとなる。また、氷室が「[20th Anniversary ALL SINGLES COMPLETE BEST JUST MOVIN' ON 〜ALL THE-S-HIT〜](../Page/20th_Anniversary_ALL_SINGLES_COMPLETE_BEST_JUST_MOVIN'_ON_〜ALL_THE-S-HIT〜.md "wikilink")」にて[セルフカバー](../Page/セルフカバー.md "wikilink")している。
 
 ## オリコンシングルチャートにおける記録
 
-本作はオリコンシングルチャート1位となり、デビューシングル『[Real Face](https://ja.wikipedia.org/wiki/Real_Face "wikilink")』以来5作連続で初登場首位を獲得した。これは、[KinKi Kids](../Page/KinKi_Kids.md "wikilink")、[光GENJI](https://ja.wikipedia.org/wiki/光GENJI "wikilink")、[NEWSに続き](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")、歴代4位の記録である。また、初動売上35万枚は2007年度の最高記録であり、5作連続での初動売上30万枚以上は、KinKi Kids『[Happy Happy Greeting／シンデレラ・クリスマス](https://ja.wikipedia.org/wiki/Happy_Happy_Greeting/シンデレラ・クリスマス "wikilink")』以来、約9年ぶりの記録となった。
+本作はオリコンシングルチャート1位となり、デビューシングル『[Real Face](../Page/Real_Face.md "wikilink")』以来5作連続で初登場首位を獲得した。これは、[KinKi Kids](../Page/KinKi_Kids.md "wikilink")、[光GENJI](../Page/光GENJI.md "wikilink")、[NEWSに続き](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")、歴代4位の記録である。また、初動売上35万枚は2007年度の最高記録であり、5作連続での初動売上30万枚以上は、KinKi Kids『[Happy Happy Greeting／シンデレラ・クリスマス](https://ja.wikipedia.org/wiki/Happy_Happy_Greeting/シンデレラ・クリスマス "wikilink")』以来、約9年ぶりの記録となった。
 
 翌年1月21日付の週間チャートで通算7週のTOP10入りを果たした。この記録は、今までの最高記録であったデビューシングル『Real Face』の通算6週の記録を塗り替えた。
 
@@ -29,16 +29,16 @@
 
 1.  **Keep the faith** \[3:46\]
       -
-        作詞：[氷室京介](../Page/氷室京介.md "wikilink")・SPIN、RAP詞：[JOKER](https://ja.wikipedia.org/wiki/田中聖 "wikilink")、作曲：氷室京介、編曲：[ha-j](https://ja.wikipedia.org/wiki/ha-j "wikilink")
+        作詞：[氷室京介](../Page/氷室京介.md "wikilink")・SPIN、RAP詞：[JOKER](../Page/田中聖.md "wikilink")、作曲：氷室京介、編曲：[ha-j](https://ja.wikipedia.org/wiki/ha-j "wikilink")
     <!-- end list -->
-      - [赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")・[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")出演 [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[有閑倶楽部](https://ja.wikipedia.org/wiki/有閑倶楽部#連続ドラマ "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+      - [赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")・[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")出演 [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[有閑倶楽部](https://ja.wikipedia.org/wiki/有閑倶楽部#連続ドラマ "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
     <!-- end list -->
       -
         「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」で披露した際には、亀梨が歌詞を間違えるハプニングがあった。
 2.  **Crazy Love** \[4:36\]
       -
         作詞：SPIN、作曲：三上吉直、編曲：三上吉直・ha-j
-        2008年9月21日に放送された[CDTVの](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")「泣ける歌TOP20」で4位にランクイン。
+        2008年9月21日に放送された[CDTVの](../Page/COUNT_DOWN_TV.md "wikilink")「泣ける歌TOP20」で4位にランクイン。
 3.  **Lovin' U**※ \[4:56\]
       -
         作詞・作曲・編曲：kodamax

@@ -1,13 +1,13 @@
 > この記事は[UACJ](https://ja.wikipedia.org/wiki/UACJ)から翻訳されています。
 
 
-[代替文=](https://ja.wikipedia.org/wiki/ファイル:Domestics_aichi_p01.jpg "wikilink")[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Domestics_fukui_p01.jpg "wikilink")[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Domestics_fukaya_p01.jpg "wikilink")[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Domestics_nikko_p01.jpg "wikilink") **株式会社UACJ**（ユーエーシージェー、英文社名：*UACJ Corporation*）は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く、[アルミニウム](../Page/アルミニウム.md "wikilink")[圧延](https://ja.wikipedia.org/wiki/圧延 "wikilink")[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")である。米国[アルコア](https://ja.wikipedia.org/wiki/アルコア "wikilink")社とノベリス社に次ぎ、アルミニウム圧延品（板製品）の生産能力は年間100万トンを超え、国内では最大手、世界三位、[東証一部](https://ja.wikipedia.org/wiki/東証一部 "wikilink")に上場している。
+[代替文=](https://ja.wikipedia.org/wiki/ファイル:Domestics_aichi_p01.jpg "wikilink")[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Domestics_fukui_p01.jpg "wikilink")[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Domestics_fukaya_p01.jpg "wikilink")[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Domestics_nikko_p01.jpg "wikilink") **株式会社UACJ**（ユーエーシージェー、英文社名：*UACJ Corporation*）は[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く、[アルミニウム](../Page/アルミニウム.md "wikilink")[圧延](https://ja.wikipedia.org/wiki/圧延 "wikilink")[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")である。米国[アルコア](../Page/アルコア.md "wikilink")社とノベリス社に次ぎ、アルミニウム圧延品（板製品）の生産能力は年間100万トンを超え、国内では最大手、世界三位、[東証一部](https://ja.wikipedia.org/wiki/東証一部 "wikilink")に上場している。
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")に[古河電気工業](https://ja.wikipedia.org/wiki/古河電気工業 "wikilink")株式会社が軽金属[カンパニーを](https://ja.wikipedia.org/wiki/社内カンパニー "wikilink")[会社分割](../Page/会社分割.md "wikilink")し、スカイアルミニウム株式会社に承継。古河スカイ株式会社に商号変更した。長年古河グループ（[古河財閥](../Page/古河財閥.md "wikilink")）の中核事業として成長。
+[2003年](../Page/2003年.md "wikilink")に[古河電気工業](../Page/古河電気工業.md "wikilink")株式会社が軽金属[カンパニーを](../Page/社内カンパニー.md "wikilink")[会社分割](../Page/会社分割.md "wikilink")し、スカイアルミニウム株式会社に承継。古河スカイ株式会社に商号変更した。長年古河グループ（[古河財閥](../Page/古河財閥.md "wikilink")）の中核事業として成長。
 
-[2013年](../Page/2013年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に住友グループ（[住友財閥](../Page/住友財閥.md "wikilink")）に属した[住友軽金属工業](https://ja.wikipedia.org/wiki/住友軽金属工業 "wikilink")との経営統合により、株式会社UACJとなった\[1\]。
+[2013年](../Page/2013年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に住友グループ（[住友財閥](../Page/住友財閥.md "wikilink")）に属した[住友軽金属工業](../Page/住友軽金属工業.md "wikilink")との経営統合により、株式会社UACJとなった\[1\]。
 
 事業分社制を採用しており、UACJ本体がグループ統括機能と板事業、子会社が押出・箔・鋳鍛・銅管・加工品事業を担っている。
 
@@ -24,10 +24,10 @@
       - [押出製品](https://ja.wikipedia.org/wiki/押出成形 "wikilink") - [自動車](../Page/自動車.md "wikilink")部品用構造材向けアルミニウム管材・棒材、[複写機](../Page/複写機.md "wikilink")用ドラム材向けアルミニウム管材などに使用される。
       - [箔](https://ja.wikipedia.org/wiki/箔 "wikilink")製品 - [リチウムイオン電池](https://ja.wikipedia.org/wiki/リチウムイオン電池 "wikilink")など電池分野をはじめ先端ニーズに応える。食料品や医薬品などの包装材から、家庭用ホイルなどの日用品、電解コンデンサや電池用の電極材料などの産業用途まで、さまざまな分野に高品質なアルミニウム箔や金属箔を提供している。
       - [鋳物](../Page/鋳物.md "wikilink")製品 - [ターボチャージャー](../Page/ターボチャージャー.md "wikilink")向けアルミニウム羽根車（[コンプレッサーホイール](https://ja.wikipedia.org/wiki/コンプレッサーホイール "wikilink")）で世界シェア１位をもつ。
-      - [鍛造](../Page/鍛造.md "wikilink")製品 - 家庭用エアコンの[コンプレッサー](https://ja.wikipedia.org/wiki/コンプレッサー "wikilink")向けピストン素材、[スクロール材](https://ja.wikipedia.org/wiki/スクロール材 "wikilink")、[消火栓](https://ja.wikipedia.org/wiki/消火栓 "wikilink")向け部品など。
+      - [鍛造](../Page/鍛造.md "wikilink")製品 - 家庭用エアコンの[コンプレッサー](https://ja.wikipedia.org/wiki/コンプレッサー "wikilink")向けピストン素材、[スクロール材](https://ja.wikipedia.org/wiki/スクロール材 "wikilink")、[消火栓](../Page/消火栓.md "wikilink")向け部品など。
       - [銅管](https://ja.wikipedia.org/wiki/銅管 "wikilink")製品 - エアコン用配管、建築設備配管、給水・給湯用配管など。
       - 加工製品 - 形加工から接合加工、表面処理、塗装など。
-      - その他の製品 - [道路標識](https://ja.wikipedia.org/wiki/道路標識 "wikilink")、大容量電源用放熱部品など。
+      - その他の製品 - [道路標識](../Page/道路標識.md "wikilink")、大容量電源用放熱部品など。
 
 ## 主要拠点
 
@@ -36,18 +36,18 @@
   - 本社 - 東京都千代田区大手町1丁目7-2
   - 支社
       - 中部支社 - [名古屋市](../Page/名古屋市.md "wikilink")[中区金山](../Page/中区_\(名古屋市\).md "wikilink")1丁目13-13 金山プレイス
-      - 関西支社 - [大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[北区](../Page/北区_\(大阪市\).md "wikilink")[中之島](https://ja.wikipedia.org/wiki/中之島 "wikilink")3丁目3-3 中之島三井ビルディング
+      - 関西支社 - [大阪市](../Page/大阪市.md "wikilink")[北区](../Page/北区_\(大阪市\).md "wikilink")[中之島](../Page/中之島.md "wikilink")3丁目3-3 中之島三井ビルディング
       - 九州支社 - [福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[博多区](../Page/博多区.md "wikilink")博多駅前3丁目2-1日本生命博多駅前ビル
   - 支店
       - 北海道支店 - [札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")中央区北3条西3丁目1-25　NREG北三条ビル
-      - 静岡支店 - [静岡市](../Page/静岡市.md "wikilink")[葵区](https://ja.wikipedia.org/wiki/葵区 "wikilink")御幸町5-9　静岡フコク生命ビル
+      - 静岡支店 - [静岡市](../Page/静岡市.md "wikilink")[葵区](../Page/葵区.md "wikilink")御幸町5-9　静岡フコク生命ビル
 
 ### 製造・研究拠点
 
   - 板事業
       - 名古屋製造所 - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[港区千年](../Page/港区_\(名古屋市\).md "wikilink")3丁目1-12
-      - 福井製造所 - [福井県](../Page/福井県.md "wikilink")[坂井市](https://ja.wikipedia.org/wiki/坂井市 "wikilink")[三国町](https://ja.wikipedia.org/wiki/三国町 "wikilink")黒目21-1
-      - 深谷製造所 - [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[深谷市](../Page/深谷市.md "wikilink")上野台1351
+      - 福井製造所 - [福井県](../Page/福井県.md "wikilink")[坂井市](../Page/坂井市.md "wikilink")[三国町](../Page/三国町.md "wikilink")黒目21-1
+      - 深谷製造所 - [埼玉県](../Page/埼玉県.md "wikilink")[深谷市](../Page/深谷市.md "wikilink")上野台1351
       - 日光製造所 - [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[日光市](../Page/日光市.md "wikilink")清滝桜ケ丘町1
 
 <!-- end list -->
@@ -57,11 +57,11 @@
       - 群馬工場 - [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[伊勢崎市](https://ja.wikipedia.org/wiki/伊勢崎市 "wikilink")粕川町1670
       - 滋賀工場 - [滋賀県](../Page/滋賀県.md "wikilink")[近江八幡市](../Page/近江八幡市.md "wikilink")長福寺町172
       - 名古屋工場（名古屋製造所内） - 名古屋市港区千年3-1-12
-      - 安城工場 - 愛知県[安城市](https://ja.wikipedia.org/wiki/安城市 "wikilink")北山崎町築地1
+      - 安城工場 - 愛知県[安城市](../Page/安城市.md "wikilink")北山崎町築地1
 
 <!-- end list -->
 
-  - 箔事業（[UACJ製箔](https://ja.wikipedia.org/wiki/UACJ製箔 "wikilink")）
+  - 箔事業（[UACJ製箔](../Page/UACJ製箔.md "wikilink")）
       - 野木工場 - 栃木県[下都賀郡](../Page/下都賀郡.md "wikilink")野木町若林55
       - 伊勢崎工場 - 群馬県[伊勢崎市](https://ja.wikipedia.org/wiki/伊勢崎市 "wikilink")粕川町1670
       - 滋賀工場 - 滋賀県[草津市](../Page/草津市.md "wikilink")山寺町笹谷61-8
@@ -73,28 +73,28 @@
   - 加工品事業（[UACJ金属加工](https://ja.wikipedia.org/wiki/UACJ金属加工 "wikilink")）
       - 仙台工場 - [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")柴田郡柴田町上名生明神堂11-1
       - 深谷工場（深谷製造所内） - 埼玉県深谷市上野台1351
-      - 成田工場 - [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[成田市](../Page/成田市.md "wikilink")新泉11-2
-      - 恵那工場 - [岐阜県](../Page/岐阜県.md "wikilink")[恵那市](https://ja.wikipedia.org/wiki/恵那市 "wikilink")長島町久須見18-1
+      - 成田工場 - [千葉県](../Page/千葉県.md "wikilink")[成田市](../Page/成田市.md "wikilink")新泉11-2
+      - 恵那工場 - [岐阜県](../Page/岐阜県.md "wikilink")[恵那市](../Page/恵那市.md "wikilink")長島町久須見18-1
       - 滋賀工場 - 滋賀県湖南市小砂町1
-      - 大阪工場 - [大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[淀川区](../Page/淀川区.md "wikilink")田川3-8-39
+      - 大阪工場 - [大阪市](../Page/大阪市.md "wikilink")[淀川区](../Page/淀川区.md "wikilink")田川3-8-39
       - 広島工場 - [広島県](../Page/広島県.md "wikilink")[安芸高田市](../Page/安芸高田市.md "wikilink")高宮町佐々部1368-1
 
 **研究所**
 
   - 技術開発研究所 - 名古屋市港区千年3丁目1-12
-      - UACJ-産総研 アルミニウム先端技術連携研究ラボ（名古屋市の[産業技術総合研究所](https://ja.wikipedia.org/wiki/産業技術総合研究所 "wikilink")中部センター内）\[2\]
+      - UACJ-産総研 アルミニウム先端技術連携研究ラボ（名古屋市の[産業技術総合研究所](../Page/産業技術総合研究所.md "wikilink")中部センター内）\[2\]
 
 ## 沿革
 
-  - [1920年](../Page/1920年.md "wikilink") - [古河電気工業](https://ja.wikipedia.org/wiki/古河電気工業 "wikilink")設立。
+  - [1920年](../Page/1920年.md "wikilink") - [古河電気工業](../Page/古河電気工業.md "wikilink")設立。
   - [1952年](../Page/1952年.md "wikilink") - 現在の日光工場完成 。
-  - [1958年](../Page/1958年.md "wikilink") - 米[アルコア](https://ja.wikipedia.org/wiki/アルコア "wikilink")社と技術と資本導入に関する契約を締結（のちの古河アルミニウム工業（旧古河アルミ）、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に解消）。
+  - [1958年](../Page/1958年.md "wikilink") - 米[アルコア](../Page/アルコア.md "wikilink")社と技術と資本導入に関する契約を締結（のちの古河アルミニウム工業（旧古河アルミ）、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に解消）。
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") - [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[小山市](../Page/小山市.md "wikilink")に押出総合工場が完成。
   - [1964年](../Page/1964年.md "wikilink") - [昭和電工](../Page/昭和電工.md "wikilink")、米[カイザーアルミナム](https://ja.wikipedia.org/wiki/カイザーアルミナム "wikilink")社（[1973年](../Page/1973年.md "wikilink")に資本撤退）、八幡製鐵（現・[新日鐵住金](https://ja.wikipedia.org/wiki/新日鐵住金 "wikilink")）の3グループの合弁によりスカイアルミニウム設立。なお、社名の「スカイ」は各社の社名に由来する（昭和電工=S、カイザーアルミナム=K、八幡製鐵=Y）。
-  - [1967年](../Page/1967年.md "wikilink") - [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[深谷市](../Page/深谷市.md "wikilink")に圧延工場が完成（スカイアルミニウム、以下S）。
+  - [1967年](../Page/1967年.md "wikilink") - [埼玉県](../Page/埼玉県.md "wikilink")[深谷市](../Page/深谷市.md "wikilink")に圧延工場が完成（スカイアルミニウム、以下S）。
   - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [滋賀県](../Page/滋賀県.md "wikilink")[近江八幡市](../Page/近江八幡市.md "wikilink")に押出専門工場が完成（古河電工、以下F）。
   - [1972年](../Page/1972年.md "wikilink") - [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[宇都宮市](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")にアルミ専用のカラー塗装工場が完成 （F）。
-  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - [福井県](../Page/福井県.md "wikilink")[三国町](https://ja.wikipedia.org/wiki/三国町 "wikilink")に板圧延工場が完成（F）。
+  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - [福井県](../Page/福井県.md "wikilink")[三国町](../Page/三国町.md "wikilink")に板圧延工場が完成（F）。
   - [1993年](../Page/1993年.md "wikilink") - 分離独立していた古河電工のアルミニウム事業子会社（旧古河アルミ）を吸収合併して継承。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - 全工場で[ISO 9001認証を取得](../Page/ISO_9000.md "wikilink")（F）。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - 古河電工・スカイアルミニウム､アルミニウム事業についての業務提携を開始（旧アルファス社\[3\]）。
@@ -103,10 +103,10 @@
   - [2002年](../Page/2002年.md "wikilink") - 全工場で[ISO 14001認証を取得](../Page/ISO_14000.md "wikilink")（F・S）。
   - [2003年](../Page/2003年.md "wikilink") - [ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")に精密鋳物工場が完成（F）。
   - 2003年 - 古河電工の軽金属事業を会社分割し、スカイアルミニウムに承継。古河スカイに商号変更。古河電工元所管の日本製箔ほか各社が同社のグループに異動。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - ユニファスアルミニウムを吸収合併、製販統合を実施。
-  - 2005年 - [東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")第一部へ上場。
-  - [2009年](../Page/2009年.md "wikilink") - 日本製箔（現[UACJ製箔](https://ja.wikipedia.org/wiki/UACJ製箔 "wikilink")）を完全子会社化。
-  - [2013年](../Page/2013年.md "wikilink") - [住友軽金属工業](https://ja.wikipedia.org/wiki/住友軽金属工業 "wikilink")と経営統合し、UACJに商号変更。同時に小山工場を新会社のUACJ押出加工小山（UACJ押出加工の子会社）へ継承するなど、組織再編成を実施。UACJはグループ統括機能と板事業の製造・販売に特化し、押出・箔・鋳鍛・銅管・加工品の各事業については子会社が担うこととなった\[4\]。
+  - [2005年](../Page/2005年.md "wikilink") - ユニファスアルミニウムを吸収合併、製販統合を実施。
+  - 2005年 - [東京証券取引所](../Page/東京証券取引所.md "wikilink")第一部へ上場。
+  - [2009年](../Page/2009年.md "wikilink") - 日本製箔（現[UACJ製箔](../Page/UACJ製箔.md "wikilink")）を完全子会社化。
+  - [2013年](../Page/2013年.md "wikilink") - [住友軽金属工業](../Page/住友軽金属工業.md "wikilink")と経営統合し、UACJに商号変更。同時に小山工場を新会社のUACJ押出加工小山（UACJ押出加工の子会社）へ継承するなど、組織再編成を実施。UACJはグループ統括機能と板事業の製造・販売に特化し、押出・箔・鋳鍛・銅管・加工品の各事業については子会社が担うこととなった\[4\]。
   - [2014年](../Page/2014年.md "wikilink") - 加工品事業統括会社として株式会社[UACJ金属加工](https://ja.wikipedia.org/wiki/UACJ金属加工 "wikilink")（初代）を新設分割により設立。
   - [2016年](../Page/2016年.md "wikilink") - 株式会社UACJ金属加工（初代）を吸収合併。株式会社ナルコ岩井が株式会社ニッケイ加工及び株式会社ナルコ恵那を吸収合併して株式会社UACJ金属加工（2代）に商号変更\[5\]。
 
@@ -146,7 +146,7 @@
 
 <!-- end list -->
 
-  - [株式会社UACJ製箔](https://ja.wikipedia.org/wiki/UACJ製箔 "wikilink")
+  - [株式会社UACJ製箔](../Page/UACJ製箔.md "wikilink")
   - 株式会社日金
   - 株式会社UACJ製箔産業
   - 株式会社UACJ製箔サービス
@@ -223,7 +223,7 @@
 
   - 優艾希杰商（[上海](../Page/上海市.md "wikilink")）貿易有限公司（[中国・上海](../Page/中華人民共和国.md "wikilink")） - その他事業
   - 優艾希杰商（[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")）貿易有限公司（[中国・香港](../Page/中華人民共和国.md "wikilink")） - その他事業
-  - UACJ Australia Pty. Ltd.（[豪州](../Page/オーストラリア.md "wikilink")・[メルボルン](https://ja.wikipedia.org/wiki/メルボルン "wikilink")市） - その他事業
+  - UACJ Australia Pty. Ltd.（[豪州](../Page/オーストラリア.md "wikilink")・[メルボルン](../Page/メルボルン.md "wikilink")市） - その他事業
 
 ## 脚注
 
@@ -231,17 +231,17 @@
 
 ## 関連項目
 
-  - [古河電気工業](https://ja.wikipedia.org/wiki/古河電気工業 "wikilink")
-  - [古河グループ](https://ja.wikipedia.org/wiki/古河グループ "wikilink")
+  - [古河電気工業](../Page/古河電気工業.md "wikilink")
+  - [古河グループ](../Page/古河グループ.md "wikilink")
   - [古河財閥](../Page/古河財閥.md "wikilink")
   - [住友金属工業](../Page/住友金属工業.md "wikilink")
   - [住友グループ](../Page/住友グループ.md "wikilink")
   - [住友財閥](../Page/住友財閥.md "wikilink")
   - [昭和電工](../Page/昭和電工.md "wikilink") - 旧スカイアルミニウムの設立母体の一社
-  - [新日鐵住金](https://ja.wikipedia.org/wiki/新日鐵住金 "wikilink")（旧[八幡製鉄](https://ja.wikipedia.org/wiki/八幡製鐵 "wikilink")→[新日本製鐵](../Page/新日本製鐵.md "wikilink")） - 同上
+  - [新日鐵住金](https://ja.wikipedia.org/wiki/新日鐵住金 "wikilink")（旧[八幡製鉄](../Page/八幡製鐵.md "wikilink")→[新日本製鐵](../Page/新日本製鐵.md "wikilink")） - 同上
   - [日本興業銀行](../Page/日本興業銀行.md "wikilink")・[富士銀行](../Page/富士銀行.md "wikilink")（現[みずほ銀行](../Page/みずほ銀行.md "wikilink")） - 旧スカイアルミニウム及びユニファスアルミニウムの銀行融資団のうちの主力行
   - [アルミニウム](../Page/アルミニウム.md "wikilink")
-  - [アルコア](https://ja.wikipedia.org/wiki/アルコア "wikilink")
+  - [アルコア](../Page/アルコア.md "wikilink")
   - [ジュラルミン](../Page/ジュラルミン.md "wikilink")
   - [零式艦上戦闘機](https://ja.wikipedia.org/wiki/零式艦上戦闘機 "wikilink")
 

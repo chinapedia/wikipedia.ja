@@ -1,13 +1,13 @@
 > この記事は[Cy-Rim rev.](https://ja.wikipedia.org/wiki/Cy-Rim_rev.)から翻訳されています。
 
 
-**Cy-Rim rev.**（サイリウムレボリューション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。
+**Cy-Rim rev.**（サイリウムレボリューション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。
 
 ## 概要
 
 ユニット名は、サイリウムのように音楽が光り輝く良いサウンドを紡いでいきたいという思いで名付けられた。
 
-2005年、ボーカル[miru](https://ja.wikipedia.org/wiki/ミルノ純 "wikilink")、ギターMASAによりユニット結成。2007年7月、[Animelo Summer Live 2007 -Generation-A-でデビューする](https://ja.wikipedia.org/wiki/Animelo_Summer_Live#2007年 "wikilink")\[1\]。2009年9月、見習いボーカルとしてSuZ（上原すず\[2\]）が加入。
+2005年、ボーカル[miru](../Page/ミルノ純.md "wikilink")、ギターMASAによりユニット結成。2007年7月、[Animelo Summer Live 2007 -Generation-A-でデビューする](https://ja.wikipedia.org/wiki/Animelo_Summer_Live#2007年 "wikilink")\[1\]。2009年9月、見習いボーカルとしてSuZ（上原すず\[2\]）が加入。
 
 2010年6月18日、公式ブログにて活動休止が発表された。当面の間、メンバーのMASAとSuZはCy-Rim Projectを主体として活動する予定である。
 
@@ -27,7 +27,7 @@ Cy-Rim rev.の活動休止から1週間後、2010年6月25日に発売されたP
 
 ### アルバム
 
-1.  [Cy-Rim rev.I](https://ja.wikipedia.org/wiki/Cy-Rim_rev.I "wikilink")（2008年5月30日）
+1.  [Cy-Rim rev.I](../Page/Cy-Rim_rev.I.md "wikilink")（2008年5月30日）
 
 ### ボーカルアルバム参加
 
@@ -54,6 +54,6 @@ Cy-Rim rev.の活動休止から1週間後、2010年6月25日に発売されたP
 
 [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:ドワンゴのアーティスト](https://ja.wikipedia.org/wiki/Category:ドワンゴのアーティスト "wikilink")
 
-1.  [アニカン](https://ja.wikipedia.org/wiki/アニカン "wikilink") vol.38 [奥井雅美](../Page/奥井雅美.md "wikilink")、[栗林みな実](../Page/栗林みな実.md "wikilink")、[m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")、Cy-Rim rev.インタビュー
+1.  [アニカン](../Page/アニカン.md "wikilink") vol.38 [奥井雅美](../Page/奥井雅美.md "wikilink")、[栗林みな実](../Page/栗林みな実.md "wikilink")、[m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")、Cy-Rim rev.インタビュー
 2.
 3.

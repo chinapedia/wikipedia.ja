@@ -14,25 +14,25 @@
 
 全作詞・作曲：つんく
 
-1.  **[まっさらブルージーンズ](https://ja.wikipedia.org/wiki/まっさらブルージーンズ "wikilink")**
+1.  **[まっさらブルージーンズ](../Page/まっさらブルージーンズ.md "wikilink")**
       -
-        編曲：[高橋諭一](https://ja.wikipedia.org/wiki/高橋諭一 "wikilink")
+        編曲：[高橋諭一](../Page/高橋諭一.md "wikilink")
         1stインディーズシングル。
-2.  **[わっきゃない(Z)](https://ja.wikipedia.org/wiki/わっきゃない\(Z\) "wikilink")**
+2.  **[わっきゃない(Z)](../Page/わっきゃない\(Z\).md "wikilink")**
       -
         編曲：高橋諭一
         4thインディーズシングル。
-3.  **[即 抱きしめて](https://ja.wikipedia.org/wiki/即_抱きしめて "wikilink")**
+3.  **[即 抱きしめて](../Page/即_抱きしめて.md "wikilink")**
       -
-        編曲：[鈴木Daichi秀行](https://ja.wikipedia.org/wiki/鈴木Daichi秀行 "wikilink")
+        編曲：[鈴木Daichi秀行](../Page/鈴木Daichi秀行.md "wikilink")
         2ndインディーズシングル。
-4.  **[大きな愛でもてなして](https://ja.wikipedia.org/wiki/大きな愛でもてなして "wikilink")**
+4.  **[大きな愛でもてなして](../Page/大きな愛でもてなして.md "wikilink")**
       -
         編曲：高橋諭一
-        3rdインディーズシングル。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[きらりん☆レボリューション](https://ja.wikipedia.org/wiki/きらりん☆レボリューション "wikilink")』第2期エンディングテーマ。
+        3rdインディーズシングル。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[きらりん☆レボリューション](../Page/きらりん☆レボリューション.md "wikilink")』第2期エンディングテーマ。
 5.  **タイムカプセル**
       -
-        編曲：[AKIRA](https://ja.wikipedia.org/wiki/AKIRA_\(PALM_DRIVE\) "wikilink")
+        編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")
 6.  **EVERYDAY YEAH\! 片想い**
       -
         編曲：湯浅公一
@@ -42,11 +42,11 @@
 8.  **[YES\! しあわせ](https://ja.wikipedia.org/wiki/2nd_STAGE "wikilink")**
       -
         編曲：田中直
-        [T\&Cボンバーのカバー曲](https://ja.wikipedia.org/wiki/太陽とシスコムーン "wikilink")。
+        [T\&Cボンバーのカバー曲](../Page/太陽とシスコムーン.md "wikilink")。
 9.  **[ENDLESS LOVE 〜I Love You More〜](https://ja.wikipedia.org/wiki/Taiyo_&_Ciscomoon_1 "wikilink")**
       -
         編曲：[大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink")
-        [太陽とシスコムーン](https://ja.wikipedia.org/wiki/太陽とシスコムーン "wikilink")のカバー曲。
+        [太陽とシスコムーン](../Page/太陽とシスコムーン.md "wikilink")のカバー曲。
 
 ### DVD
 

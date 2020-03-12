@@ -3,7 +3,7 @@
 
 **O嬢の物語**（オーじょうのものがたり、原題：*Histoire d'O*）は、[1975年](../Page/1975年.md "wikilink")の[フランス映画](https://ja.wikipedia.org/wiki/フランス映画 "wikilink")。
 
-[ポーリーヌ・レアージュ](https://ja.wikipedia.org/wiki/ポーリーヌ・レアージュ "wikilink")のポルノグラフィー文学として名高い、SM文学小説の傑作『[O嬢の物語](https://ja.wikipedia.org/wiki/O嬢の物語 "wikilink")』をジュスト・ジャカン監督が映画化した作品。主演はヒロインの“O”嬢役にモデル出身の[コリンヌ・クレリー](https://ja.wikipedia.org/wiki/コリンヌ・クレリー "wikilink")が扮している。共演は当時はまだ美青年俳優で売っていた[ウド・キア](https://ja.wikipedia.org/wiki/ウド・キア "wikilink")がＯ嬢の恋人役で、城館での倒錯の世界に導くルネに扮している。なおこの映画の続編的映画に『[O嬢の物語・第二章](https://ja.wikipedia.org/wiki/O嬢の物語・第二章 "wikilink")』があるが、スタッフ・キャストが総入れ替えであるのに加え、原作に無いエピソードを中心とした内容であり、関連性は極めて薄い。レズシーンや全裸の男女のセックスシーンもあるが、やはり、コリンヌ・クレリーが全裸になり、着衣の男とからむ[CMNF](../Page/CMNF.md "wikilink")シーンが目立つ。
+[ポーリーヌ・レアージュ](https://ja.wikipedia.org/wiki/ポーリーヌ・レアージュ "wikilink")のポルノグラフィー文学として名高い、SM文学小説の傑作『[O嬢の物語](../Page/O嬢の物語.md "wikilink")』をジュスト・ジャカン監督が映画化した作品。主演はヒロインの“O”嬢役にモデル出身の[コリンヌ・クレリー](../Page/コリンヌ・クレリー.md "wikilink")が扮している。共演は当時はまだ美青年俳優で売っていた[ウド・キア](../Page/ウド・キア.md "wikilink")がＯ嬢の恋人役で、城館での倒錯の世界に導くルネに扮している。なおこの映画の続編的映画に『[O嬢の物語・第二章](https://ja.wikipedia.org/wiki/O嬢の物語・第二章 "wikilink")』があるが、スタッフ・キャストが総入れ替えであるのに加え、原作に無いエピソードを中心とした内容であり、関連性は極めて薄い。レズシーンや全裸の男女のセックスシーンもあるが、やはり、コリンヌ・クレリーが全裸になり、着衣の男とからむ[CMNF](../Page/CMNF.md "wikilink")シーンが目立つ。
 
 ## あらすじ
 
@@ -13,9 +13,9 @@
 
 ## キャスト
 
-  - [コリンヌ・クレリー](https://ja.wikipedia.org/wiki/コリンヌ・クレリー "wikilink")(Ｏ嬢)
+  - [コリンヌ・クレリー](../Page/コリンヌ・クレリー.md "wikilink")(Ｏ嬢)
 
-  - [ウド・キア](https://ja.wikipedia.org/wiki/ウド・キア "wikilink")(ルネ)
+  - [ウド・キア](../Page/ウド・キア.md "wikilink")(ルネ)
 
   - (ステファン卿)
 

@@ -1,7 +1,7 @@
 > この記事は[BWF](https://ja.wikipedia.org/wiki/BWF)から翻訳されています。
 
 
-[Yonex_IFB_2013_-_Eightfinal_-_Chan_Peng_Soon_-_Goh_Liu_Ying_—_Chris_Langridge_-_Heather_Olver_26.jpg](https://ja.wikipedia.org/wiki/File:Yonex_IFB_2013_-_Eightfinal_-_Chan_Peng_Soon_-_Goh_Liu_Ying_—_Chris_Langridge_-_Heather_Olver_26.jpg "fig:Yonex_IFB_2013_-_Eightfinal_-_Chan_Peng_Soon_-_Goh_Liu_Ying_—_Chris_Langridge_-_Heather_Olver_26.jpg") **BWFスーパーシリーズ**（BWF Super Series）は[世界バドミントン連盟](https://ja.wikipedia.org/wiki/世界バドミントン連盟 "wikilink")（BWF）が2007年から2017年まで実施していた年間[バドミントン](https://ja.wikipedia.org/wiki/バドミントン "wikilink")トーナメントシリーズの名称\[1\]。世界ランキングの上位に位置していないと予選にすらエントリーが難しい、オリンピックや世界選手権に次ぐ最高峰の大会である。
+[Yonex_IFB_2013_-_Eightfinal_-_Chan_Peng_Soon_-_Goh_Liu_Ying_—_Chris_Langridge_-_Heather_Olver_26.jpg](https://ja.wikipedia.org/wiki/File:Yonex_IFB_2013_-_Eightfinal_-_Chan_Peng_Soon_-_Goh_Liu_Ying_—_Chris_Langridge_-_Heather_Olver_26.jpg "fig:Yonex_IFB_2013_-_Eightfinal_-_Chan_Peng_Soon_-_Goh_Liu_Ying_—_Chris_Langridge_-_Heather_Olver_26.jpg") **BWFスーパーシリーズ**（BWF Super Series）は[世界バドミントン連盟](../Page/世界バドミントン連盟.md "wikilink")（BWF）が2007年から2017年まで実施していた年間[バドミントン](../Page/バドミントン.md "wikilink")トーナメントシリーズの名称\[1\]。世界ランキングの上位に位置していないと予選にすらエントリーが難しい、オリンピックや世界選手権に次ぐ最高峰の大会である。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 バドミントンの国際大会一般によく見られることだが、日程の都合上、平日の昼間に行われる試合時には観客席に空席が目立つことが多い。スーパーシリーズやスーパーシリーズプレミアとなると1回戦から好カードが多く非常にもったいないという意見がある。また、1回戦は試合数が多いため、コートの数によっては予定されているすべての試合の終了時刻が深夜に及ぶことがある。
 
-2017年3月に[世界バドミントン連盟](https://ja.wikipedia.org/wiki/世界バドミントン連盟 "wikilink")（BWF）は2018年からBWFスーパーシリーズに代わり[BWFワールドツアー](https://ja.wikipedia.org/wiki/BWFワールドツアー "wikilink")を実施することを発表した\[3\]。
+2017年3月に[世界バドミントン連盟](../Page/世界バドミントン連盟.md "wikilink")（BWF）は2018年からBWFスーパーシリーズに代わり[BWFワールドツアー](https://ja.wikipedia.org/wiki/BWFワールドツアー "wikilink")を実施することを発表した\[3\]。
 
 ## BWFスーパーシリーズの大会
 
@@ -27,7 +27,7 @@
 | [香港オープン](https://ja.wikipedia.org/wiki/香港オープン_\(バドミントン\) "wikilink")             | ●    |
 | [インド・オープン](https://ja.wikipedia.org/wiki/インド・オープン_\(バドミントン\) "wikilink")         |      |
 | [インドネシア・オープン](https://ja.wikipedia.org/wiki/インドネシア・オープン_\(バドミントン\) "wikilink")   | ●    |
-| [ジャパンオープン](https://ja.wikipedia.org/wiki/ヨネックスオープンジャパン "wikilink")               | ●    |
+| [ジャパンオープン](../Page/ヨネックスオープンジャパン.md "wikilink")                                  | ●    |
 | [韓国オープン](https://ja.wikipedia.org/wiki/韓国オープン_\(バドミントン\) "wikilink")             | ●    |
 | [マレーシア・オープン](https://ja.wikipedia.org/wiki/マレーシア・オープン_\(バドミントン\) "wikilink")     | ●    |
 | [シンガポール・オープン](https://ja.wikipedia.org/wiki/シンガポール・オープン_\(バドミントン\) "wikilink")   | ●    |
@@ -40,18 +40,18 @@
   - [全英オープン](https://ja.wikipedia.org/wiki/全英オープン_\(バドミントン\) "wikilink")（[バーミンガム](../Page/バーミンガム.md "wikilink")・3月8日-13日）
   - [マレーシア・オープン](https://ja.wikipedia.org/wiki/マレーシア・オープン_\(バドミントン\) "wikilink")（[クアラルンプール](../Page/クアラルンプール.md "wikilink")・4月5日-10日）
   - [インドネシア・オープン](https://ja.wikipedia.org/wiki/インドネシア・オープン_\(バドミントン\) "wikilink")（[ジャカルタ](../Page/ジャカルタ.md "wikilink")・5月30日-6月5日）
-  - [デンマーク・オープン](https://ja.wikipedia.org/wiki/デンマーク・オープン_\(バドミントン\) "wikilink")（[オーデンセ](https://ja.wikipedia.org/wiki/オーデンセ "wikilink")・10月18日-23日）
-  - [中国オープン](https://ja.wikipedia.org/wiki/中国オープン_\(バドミントン\) "wikilink")（[福州市](https://ja.wikipedia.org/wiki/福州市 "wikilink")・11月15日-20日）
+  - [デンマーク・オープン](https://ja.wikipedia.org/wiki/デンマーク・オープン_\(バドミントン\) "wikilink")（[オーデンセ](../Page/オーデンセ.md "wikilink")・10月18日-23日）
+  - [中国オープン](https://ja.wikipedia.org/wiki/中国オープン_\(バドミントン\) "wikilink")（[福州市](../Page/福州市.md "wikilink")・11月15日-20日）
 
 **スーパーシリーズ**
 
   - [インド・オープン](https://ja.wikipedia.org/wiki/インド・オープン_\(バドミントン\) "wikilink")（[ニューデリー](../Page/ニューデリー.md "wikilink")・3月29日-4月3日）
   - [シンガポール・オープン](https://ja.wikipedia.org/wiki/シンガポール・オープン_\(バドミントン\) "wikilink")（[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")・4月12日-17日）
-  - [オーストラリア・オープン](https://ja.wikipedia.org/wiki/オーストラリア・オープン_\(バドミントン\) "wikilink")（[シドニー](https://ja.wikipedia.org/wiki/シドニー "wikilink")・6月7日-12日）
-  - [ヨネックスオープンジャパン](https://ja.wikipedia.org/wiki/ヨネックスオープンジャパン "wikilink")（[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")・9月20日-25日）
+  - [オーストラリア・オープン](https://ja.wikipedia.org/wiki/オーストラリア・オープン_\(バドミントン\) "wikilink")（[シドニー](../Page/シドニー.md "wikilink")・6月7日-12日）
+  - [ヨネックスオープンジャパン](../Page/ヨネックスオープンジャパン.md "wikilink")（[東京](../Page/東京.md "wikilink")・9月20日-25日）
   - [韓国オープン](https://ja.wikipedia.org/wiki/韓国オープン_\(バドミントン\) "wikilink")（[ソウル](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")・9月27日-10月2日）
   - [フランス・オープン](https://ja.wikipedia.org/wiki/フランス・オープン_\(バドミントン\) "wikilink")（[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")・10月25日-30日）
-  - [香港オープン](https://ja.wikipedia.org/wiki/香港オープン_\(バドミントン\) "wikilink")（[九龍](https://ja.wikipedia.org/wiki/九龍 "wikilink")・11月22日-27日）
+  - [香港オープン](https://ja.wikipedia.org/wiki/香港オープン_\(バドミントン\) "wikilink")（[九龍](../Page/九龍.md "wikilink")・11月22日-27日）
 
 **スーパーシリーズファイナルズ（[ドバイ](../Page/ドバイ.md "wikilink")・12月14日-18日）**
 ※日付はいずれも現地時間
@@ -114,7 +114,7 @@
 <a href="../Page/ドバイ.md" title="wikilink">ドバイ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/チェン龍" title="wikilink">諶龍</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/戴資穎" title="wikilink">戴資穎</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/李龍大" title="wikilink">李龍大</a><br />
+<td><p><a href="../Page/李龍大.md" title="wikilink">李龍大</a><br />
  <a href="https://ja.wikipedia.org/wiki/柳延星" title="wikilink">柳延星</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/髙橋礼華_(バドミントン選手)" title="wikilink">髙橋礼華</a><br />
  <a href="https://ja.wikipedia.org/wiki/松友美佐紀" title="wikilink">松友美佐紀</a></p></td>
@@ -124,7 +124,7 @@
 <tr class="odd">
 <td><p>2013[8]<br />
 <a href="../Page/クアラルンプール.md" title="wikilink">クアラルンプール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リー・チョンウェイ" title="wikilink">リー・チョンウェイ</a></p></td>
+<td><p><a href="../Page/リー・チョンウェイ.md" title="wikilink">リー・チョンウェイ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/李雪ゼイ" title="wikilink">李雪芮</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヘンドラ・セティアワン" title="wikilink">ヘンドラ・セティアワン</a><br />
  <a href="https://ja.wikipedia.org/wiki/ムハマド・アッサン" title="wikilink">ムハマド・アッサン</a></p></td>
@@ -147,8 +147,8 @@
 </tr>
 <tr class="odd">
 <td><p>2011[10]<br />
-<a href="https://ja.wikipedia.org/wiki/柳州市" title="wikilink">柳州</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/林丹" title="wikilink">林丹</a></p></td>
+<a href="../Page/柳州市.md" title="wikilink">柳州</a></p></td>
+<td><p><a href="../Page/林丹.md" title="wikilink">林丹</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/王儀涵" title="wikilink">王儀涵</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マシアス・ボー" title="wikilink">マシアス・ボー</a><br />
  <a href="https://ja.wikipedia.org/wiki/カーステン・モーゲンセン" title="wikilink">カーステン・モーゲンセン</a></p></td>
@@ -160,7 +160,7 @@
 <tr class="even">
 <td><p>2010[11]<br />
 <a href="../Page/台北市.md" title="wikilink">台北</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リー・チョンウェイ" title="wikilink">リー・チョンウェイ</a></p></td>
+<td><p><a href="../Page/リー・チョンウェイ.md" title="wikilink">リー・チョンウェイ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/王適嫻" title="wikilink">王適嫻</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マシアス・ボー" title="wikilink">マシアス・ボー</a><br />
  <a href="https://ja.wikipedia.org/wiki/カーステン・モーゲンセン" title="wikilink">カーステン・モーゲンセン</a></p></td>
@@ -171,11 +171,11 @@
 </tr>
 <tr class="odd">
 <td><p>2009[12]<br />
-<a href="https://ja.wikipedia.org/wiki/ジョホールバル" title="wikilink">ジョホールバル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リー・チョンウェイ" title="wikilink">リー・チョンウェイ</a></p></td>
+<a href="../Page/ジョホールバル.md" title="wikilink">ジョホールバル</a></p></td>
+<td><p><a href="../Page/リー・チョンウェイ.md" title="wikilink">リー・チョンウェイ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウォン・ミューチュー" title="wikilink">ウォン・ミューチュー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鄭在成" title="wikilink">鄭在成</a><br />
- <a href="https://ja.wikipedia.org/wiki/李龍大" title="wikilink">李龍大</a></p></td>
+ <a href="../Page/李龍大.md" title="wikilink">李龍大</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウォン・ペィタイ" title="wikilink">ウォン・ペィタイ</a><br />
  <a href="https://ja.wikipedia.org/wiki/チン・エィフィ" title="wikilink">チン・エィフィ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヨアシム・フィッシャー・ニールセン" title="wikilink">ヨアシム・フィッシャー・ニールセン</a><br />
@@ -183,8 +183,8 @@
 </tr>
 <tr class="even">
 <td><p>2008[13]<br />
-<a href="https://ja.wikipedia.org/wiki/コタキナバル" title="wikilink">コタキナバル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リー・チョンウェイ" title="wikilink">リー・チョンウェイ</a></p></td>
+<a href="../Page/コタキナバル.md" title="wikilink">コタキナバル</a></p></td>
+<td><p><a href="../Page/リー・チョンウェイ.md" title="wikilink">リー・チョンウェイ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョウ・ミィ" title="wikilink">ジョウ・ミィ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クー・キンキット" title="wikilink">クー・キンキット</a><br />
  <a href="https://ja.wikipedia.org/wiki/タン・ブンホン" title="wikilink">タン・ブンホン</a></p></td>

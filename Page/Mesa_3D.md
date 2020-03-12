@@ -9,9 +9,9 @@
 
   - 2007年現在の構成では、ほとんどあらゆるプラットフォーム上でコンパイルし利用できる。
   - ライセンスの問題により、OpenGL の実装であるとは公式には認められていないが、Mesa 3D の作者は OpenGL の最新の標準に追随するようAPIを保守し続けている。
-  - Mesa 3D は [MIT License](https://ja.wikipedia.org/wiki/MIT_License "wikilink") の条件で配布される。
+  - Mesa 3D は [MIT License](../Page/MIT_License.md "wikilink") の条件で配布される。
   - Mesa 3D はいくつかのグラフィックアクセラレータをサポートしているが、ソフトウェアのみのレンダラーとしてもコンパイル可能である。また、フリーでオープンソースであるため、OpenGL 互換レンダラーがどうなっているかを学ぶのに適している。
-  - OpenGL アプリケーションのデバッグの際、Mesa 3D と普通の[デバッガ](../Page/デバッガ.md "wikilink")を使うことで[バグ](https://ja.wikipedia.org/wiki/バグ "wikilink")を見つけやすくなることがある。
+  - OpenGL アプリケーションのデバッグの際、Mesa 3D と普通の[デバッガ](../Page/デバッガ.md "wikilink")を使うことで[バグ](../Page/バグ.md "wikilink")を見つけやすくなることがある。
 
 ## 脚注
 

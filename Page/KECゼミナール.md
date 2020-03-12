@@ -1,7 +1,7 @@
 > この記事は[KEC](https://ja.wikipedia.org/wiki/KEC)から翻訳されています。
 
 
-**KECゼミナール**は[奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")を本拠とする、小中向け学習塾。運営会社は株式会社ケーイーシー。本部は奈良県[生駒市](https://ja.wikipedia.org/wiki/生駒市 "wikilink")に所在する。なお本稿では便宜上、KEC志学館ゼミナール、KEC個別・KEC志学館個別、KEC志学館manavi、志学館予備校、やまと西大寺KEC保育園についても触れる。
+**KECゼミナール**は[奈良県](../Page/奈良県.md "wikilink")を本拠とする、小中向け学習塾。運営会社は株式会社ケーイーシー。本部は奈良県[生駒市](https://ja.wikipedia.org/wiki/生駒市 "wikilink")に所在する。なお本稿では便宜上、KEC志学館ゼミナール、KEC個別・KEC志学館個別、KEC志学館manavi、志学館予備校、やまと西大寺KEC保育園についても触れる。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 ## 沿革
 
-  - [1977年](../Page/1977年.md "wikilink") - [奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")[生駒市](https://ja.wikipedia.org/wiki/生駒市 "wikilink")に学習塾「KEC進学道場」を創業。
+  - [1977年](../Page/1977年.md "wikilink") - [奈良県](../Page/奈良県.md "wikilink")[生駒市](https://ja.wikipedia.org/wiki/生駒市 "wikilink")に学習塾「KEC進学道場」を創業。
   - [1981年](../Page/1982年.md "wikilink") - 西大寺教室開校。
   - [1982年](../Page/1982年.md "wikilink") - 「株式会社ケーイーシー」として、法人経営となる。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - 「KECゼミナール」と名称を変更。

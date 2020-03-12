@@ -5,7 +5,7 @@
 
 ## 概要
 
-**WORLD CALL**（ワールド コール）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")が提供する[携帯電話](../Page/携帯電話.md "wikilink")用の[国際電話](../Page/国際電話.md "wikilink")接続サービス。[FOMA](../Page/FOMA.md "wikilink")・[mova](https://ja.wikipedia.org/wiki/mova "wikilink")どちらでも利用可能。その他に、NTTドコモの[衛星携帯電話](https://ja.wikipedia.org/wiki/衛星携帯電話 "wikilink")、[ワイドスター](../Page/ワイドスター.md "wikilink")からも利用可能。海外との通話や、海外の[通信事業者の携帯電話に](https://ja.wikipedia.org/wiki/電気通信事業者 "wikilink")[SMS](https://ja.wikipedia.org/wiki/SMS "wikilink")（国際[SMS](https://ja.wikipedia.org/wiki/SMS "wikilink")）や画像付メールの送信ができる国際[MMS](https://ja.wikipedia.org/wiki/MMS "wikilink")などがある。通常のEメール（[iモードメール](https://ja.wikipedia.org/wiki/iモードメール "wikilink")）はWORLD CALL関係なしに送受信が可能。申し込みおよび月額利用料は不要だが、月の利用料金には上限が定められている。なお、2002年5月22日以前に契約した[mova](https://ja.wikipedia.org/wiki/mova "wikilink")からの利用や、契約時にWORLD CALLを希望しなかった場合は申し込みが必要。
+**WORLD CALL**（ワールド コール）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")が提供する[携帯電話](../Page/携帯電話.md "wikilink")用の[国際電話](../Page/国際電話.md "wikilink")接続サービス。[FOMA](../Page/FOMA.md "wikilink")・[mova](https://ja.wikipedia.org/wiki/mova "wikilink")どちらでも利用可能。その他に、NTTドコモの[衛星携帯電話](https://ja.wikipedia.org/wiki/衛星携帯電話 "wikilink")、[ワイドスター](../Page/ワイドスター.md "wikilink")からも利用可能。海外との通話や、海外の[通信事業者の携帯電話に](../Page/電気通信事業者.md "wikilink")[SMS](https://ja.wikipedia.org/wiki/SMS "wikilink")（国際[SMS](https://ja.wikipedia.org/wiki/SMS "wikilink")）や画像付メールの送信ができる国際[MMS](https://ja.wikipedia.org/wiki/MMS "wikilink")などがある。通常のEメール（[iモードメール](https://ja.wikipedia.org/wiki/iモードメール "wikilink")）はWORLD CALL関係なしに送受信が可能。申し込みおよび月額利用料は不要だが、月の利用料金には上限が定められている。なお、2002年5月22日以前に契約した[mova](https://ja.wikipedia.org/wiki/mova "wikilink")からの利用や、契約時にWORLD CALLを希望しなかった場合は申し込みが必要。
 
 ## 利用可能国及び利用方法
 
@@ -13,15 +13,15 @@
 
 世界237の国・地域へ[国際電話](../Page/国際電話.md "wikilink")をかけることができる。
 
-事業者識別番号「009130」と国際識別番号「010」に続いて、[国番号](https://ja.wikipedia.org/wiki/国番号 "wikilink")と相手先番号をダイヤルすることで発信できる。なお、ダイヤル発信時のメニューで「009130010」を一括して入力できる。また、[N900iG](https://ja.wikipedia.org/wiki/N900iG "wikilink")および901i/700iシリーズ以降の[FOMA](../Page/FOMA.md "wikilink")端末では、「0」の長押しで「+」を入力すると「009130010」と同じ役割をする（一部の機種ではこの機能の有無や操作が異なる場合がある）。なお、現在は「009130」の番号を入れないで「010」だけでも[国際電話](../Page/国際電話.md "wikilink")が可能になっている。これは日本以外の多くの国の[携帯電話](../Page/携帯電話.md "wikilink")[端末](../Page/端末.md "wikilink")で[国際電話](../Page/国際電話.md "wikilink")を発信するときの一般的な方法でもある。
+事業者識別番号「009130」と国際識別番号「010」に続いて、[国番号](https://ja.wikipedia.org/wiki/国番号 "wikilink")と相手先番号をダイヤルすることで発信できる。なお、ダイヤル発信時のメニューで「009130010」を一括して入力できる。また、[N900iG](../Page/N900iG.md "wikilink")および901i/700iシリーズ以降の[FOMA](../Page/FOMA.md "wikilink")端末では、「0」の長押しで「+」を入力すると「009130010」と同じ役割をする（一部の機種ではこの機能の有無や操作が異なる場合がある）。なお、現在は「009130」の番号を入れないで「010」だけでも[国際電話](../Page/国際電話.md "wikilink")が可能になっている。これは日本以外の多くの国の[携帯電話](../Page/携帯電話.md "wikilink")[端末](../Page/端末.md "wikilink")で[国際電話](../Page/国際電話.md "wikilink")を発信するときの一般的な方法でもある。
 
-同様のダイヤル方法で[テレビ電話](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")も発信可能。この場合、相手は[ドコモと相互接続している](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")会社に限られる。
+同様のダイヤル方法で[テレビ電話](../Page/テレビ電話.md "wikilink")も発信可能。この場合、相手は[ドコモと相互接続している](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")会社に限られる。
 
 ### 国際SMS
 
 海外にいる[ドコモの携帯電話へ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")[SMSを発信する場合は](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")、通常の[SMS](https://ja.wikipedia.org/wiki/SMS "wikilink")と同じ方法で発信することが可能。
 
-  - 国際[SMS](https://ja.wikipedia.org/wiki/SMS "wikilink")とは、[ドコモの携帯電話ではなく](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、海外の[通信事業者の携帯電話に](https://ja.wikipedia.org/wiki/電気通信事業者 "wikilink")[SMS](https://ja.wikipedia.org/wiki/SMS "wikilink")を送信するサービスである。
+  - 国際[SMS](https://ja.wikipedia.org/wiki/SMS "wikilink")とは、[ドコモの携帯電話ではなく](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、海外の[通信事業者の携帯電話に](../Page/電気通信事業者.md "wikilink")[SMS](https://ja.wikipedia.org/wiki/SMS "wikilink")を送信するサービスである。
   - 国際SMSは現在60の国\[1\]や地域に発信が可能である。ただし国によっては国際[SMS](https://ja.wikipedia.org/wiki/SMS "wikilink")ができる事業者とできない事業者がある。
 
 <!-- end list -->
@@ -44,14 +44,14 @@
 
 ### 国際MMS
 
-iモードから利用するサービスで、海外の[MMS](https://ja.wikipedia.org/wiki/マルチメディアメッセージングサービス "wikilink")（[マルチメディアメッセージングサービス](https://ja.wikipedia.org/wiki/マルチメディアメッセージングサービス "wikilink")）対応利用者と、[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")間でメールの送受信を可能にします。[FOMA](../Page/FOMA.md "wikilink")からは、写真・動画・音源ファイルを添付することも可能。ただし、対応キャリアは3か国・3社のみとなる。実際は通常のメールで届くため、あまり必要とされない。
+iモードから利用するサービスで、海外の[MMS](../Page/マルチメディアメッセージングサービス.md "wikilink")（[マルチメディアメッセージングサービス](../Page/マルチメディアメッセージングサービス.md "wikilink")）対応利用者と、[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")間でメールの送受信を可能にします。[FOMA](../Page/FOMA.md "wikilink")からは、写真・動画・音源ファイルを添付することも可能。ただし、対応キャリアは3か国・3社のみとなる。実際は通常のメールで届くため、あまり必要とされない。
 
   - 送信方法
     あて先に [国番号](https://ja.wikipedia.org/wiki/国番号 "wikilink")・相手の電話番号（携帯電話番号の頭が0の場合0を除いた番号）＠mms-i.jpを入力し、[添付ファイル](https://ja.wikipedia.org/wiki/添付ファイル "wikilink")をつけたり、文章を入力し、送信する。FOMAは10000文字、movaは500文字まで送信できる。
 
 ## 通話料
 
-通話料は、相手国実際には、[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")・[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")・[中東](../Page/中東.md "wikilink")・[アフリカ](../Page/アフリカ.md "wikilink")・[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")・[中南米](https://ja.wikipedia.org/wiki/中南米 "wikilink")・[オセアニア](../Page/オセアニア.md "wikilink")の各区分ごとや時間帯（平日昼間とそれ以外）によって異なり、30秒単位の課金となる。通話料金は[ワールドコール通話通信料検索](http://www.nttdocomo.co.jp/service/world/worldcall/area/index.html)から調べることができる。
+通話料は、相手国実際には、[アジア](../Page/アジア.md "wikilink")・[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")・[中東](../Page/中東.md "wikilink")・[アフリカ](../Page/アフリカ.md "wikilink")・[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")・[中南米](https://ja.wikipedia.org/wiki/中南米 "wikilink")・[オセアニア](../Page/オセアニア.md "wikilink")の各区分ごとや時間帯（平日昼間とそれ以外）によって異なり、30秒単位の課金となる。通話料金は[ワールドコール通話通信料検索](http://www.nttdocomo.co.jp/service/world/worldcall/area/index.html)から調べることができる。
 
 ## 通話・通信料割引
 

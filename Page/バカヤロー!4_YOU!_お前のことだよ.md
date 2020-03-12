@@ -1,33 +1,33 @@
 > この記事は[!4 YOU! ](https://ja.wikipedia.org/wiki/!4_YOU!_)から翻訳されています。
 
 
-『**バカヤロー\!4 YOU\! お前のことだよ**』（バカヤロー\!フォー ユー\! おまえのことだよ）は、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")の[日本映画](../Page/日本映画.md "wikilink")。
+『**バカヤロー\!4 YOU\! お前のことだよ**』（バカヤロー\!フォー ユー\! おまえのことだよ）は、[1991年](../Page/1991年.md "wikilink")の[日本映画](../Page/日本映画.md "wikilink")。
 
 ## 概要
 
-『[バカヤロー\!](../Page/バカヤロー!_私、怒ってます.md "wikilink")』シリーズの第四弾で、[バンダイ](../Page/バンダイ.md "wikilink")提供、[光和インターナショナル](https://ja.wikipedia.org/wiki/光和インターナショナル "wikilink")制作、[松竹](../Page/松竹.md "wikilink")配給。三話[オムニバス](../Page/オムニバス.md "wikilink")形式の作品である。
+『[バカヤロー\!](../Page/バカヤロー!_私、怒ってます.md "wikilink")』シリーズの第四弾で、[バンダイ](../Page/バンダイ.md "wikilink")提供、[光和インターナショナル](../Page/光和インターナショナル.md "wikilink")制作、[松竹](../Page/松竹.md "wikilink")配給。三話[オムニバス](../Page/オムニバス.md "wikilink")形式の作品である。
 
 ## スタッフ
 
-  - 総指揮・脚本：[森田芳光](https://ja.wikipedia.org/wiki/森田芳光 "wikilink")
+  - 総指揮・脚本：[森田芳光](../Page/森田芳光.md "wikilink")
   - 監督：[太田光](../Page/太田光.md "wikilink")（第一話）、加藤良一（第二話）、[明石知幸](../Page/明石知幸.md "wikilink")（第三話）
   - プロデューサー：青木勝彦、三沢和子、杉崎隆行
-  - 音楽：東京おとぼけCATS（第一話）、[近田春夫](https://ja.wikipedia.org/wiki/近田春夫 "wikilink")（第二話）、[久米大作](https://ja.wikipedia.org/wiki/久米大作 "wikilink")（第三話）
+  - 音楽：東京おとぼけCATS（第一話）、[近田春夫](../Page/近田春夫.md "wikilink")（第二話）、[久米大作](../Page/久米大作.md "wikilink")（第三話）
   - 撮影：[前田米造](../Page/前田米造.md "wikilink")
   - 美術：[大嶋修一](https://ja.wikipedia.org/wiki/大嶋修一 "wikilink")
   - 編集：[奥原好幸](https://ja.wikipedia.org/wiki/奥原好幸 "wikilink")
-  - 主題歌：『サン・トワ・マ・ミー』（[RCサクセション](https://ja.wikipedia.org/wiki/RCサクセション "wikilink")）
+  - 主題歌：『サン・トワ・マ・ミー』（[RCサクセション](../Page/RCサクセション.md "wikilink")）
 
 ## 第一話「泊ったら最後」
 
 ### あらすじ
 
-元[国鉄マンの小西源吉](../Page/日本国有鉄道.md "wikilink")（春風亭小朝）は、[テレビ](../Page/テレビ.md "wikilink")も映らないほど人里離れた高原でスワローズという[ペンション](../Page/ペンション.md "wikilink")を妻（真行寺君枝）と二人で経営している。男女の若者達一行は、駅から[マイクロバス](https://ja.wikipedia.org/wiki/マイクロバス "wikilink")で源吉のペンションに送られ大自然を満喫しようと思うのだが、源吉は男女交際や規則に異常に厳しく若者達にペンションのルールに従うよう強要する。食事は期待はずれ、夜中に開かれた[賭博](../Page/賭博.md "wikilink")大会は源吉の一人勝ちと散々な目にあう若者達は脱走を決行するが、先回りしていた源吉と村人達に連れ戻されてしまう。最終日の[カラオケ](../Page/カラオケ.md "wikilink")大会も時代遅れの曲ばかりで落胆し、別れを惜しむ夫婦からようやく開放される若者達。若者達は、帰りの列車の車窓から「バカヤロー\!」と叫び、憂さを晴らす。
+元[国鉄マンの小西源吉](../Page/日本国有鉄道.md "wikilink")（春風亭小朝）は、[テレビ](../Page/テレビ.md "wikilink")も映らないほど人里離れた高原でスワローズという[ペンション](../Page/ペンション.md "wikilink")を妻（真行寺君枝）と二人で経営している。男女の若者達一行は、駅から[マイクロバス](../Page/マイクロバス.md "wikilink")で源吉のペンションに送られ大自然を満喫しようと思うのだが、源吉は男女交際や規則に異常に厳しく若者達にペンションのルールに従うよう強要する。食事は期待はずれ、夜中に開かれた[賭博](../Page/賭博.md "wikilink")大会は源吉の一人勝ちと散々な目にあう若者達は脱走を決行するが、先回りしていた源吉と村人達に連れ戻されてしまう。最終日の[カラオケ](../Page/カラオケ.md "wikilink")大会も時代遅れの曲ばかりで落胆し、別れを惜しむ夫婦からようやく開放される若者達。若者達は、帰りの列車の車窓から「バカヤロー\!」と叫び、憂さを晴らす。
 
 ### キャスト
 
   - 小西源吉：[春風亭小朝](https://ja.wikipedia.org/wiki/春風亭小朝 "wikilink")
-  - 小西おとめ（源吉の妻）：[真行寺君枝](https://ja.wikipedia.org/wiki/真行寺君枝 "wikilink")
+  - 小西おとめ（源吉の妻）：[真行寺君枝](../Page/真行寺君枝.md "wikilink")
   - 津山直子：[松永光代](https://ja.wikipedia.org/wiki/太田光代 "wikilink")
   - 高橋洋（ゲイカップルの男）：[田中裕二](https://ja.wikipedia.org/wiki/田中裕二_\(お笑い芸人\) "wikilink")
   - 長尾圭三（ゲイカップルの男）：[萩原正人](../Page/キリングセンス.md "wikilink")
@@ -37,20 +37,20 @@
 
 ### あらすじ
 
-[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")の会社に勤めている白石はじめ（沢田研二）は、異常な[潔癖症](https://ja.wikipedia.org/wiki/潔癖症 "wikilink")で神経質な性格のため都会の生活を毛嫌いし、故郷の[越後湯沢から](../Page/越後湯沢駅.md "wikilink")[新幹線通勤](https://ja.wikipedia.org/wiki/新幹線通勤 "wikilink")していた。はじめの社内の評価は高く、上司の命令でやむなく妻（松田美由紀）と共に都内の幹部向け一戸建てに引っ越すことになるのだが、満員電車や信頼できない食材に耐えられなくなっていく。同僚達が歓迎会を催すが、出された料理もはじめにとっては危険なものとしか映らず非難してしまう。更に症状はエスカレートし、科学用品店で[顕微鏡](../Page/顕微鏡.md "wikilink")を購入して[ウイルス](../Page/ウイルス.md "wikilink")が無いことを確認できるまで[除菌しなければ気が済まなくなり](https://ja.wikipedia.org/wiki/殺菌 "wikilink")、次第に妻の精神は破綻をきたすのだった。
+[東京](../Page/東京.md "wikilink")の会社に勤めている白石はじめ（沢田研二）は、異常な[潔癖症](https://ja.wikipedia.org/wiki/潔癖症 "wikilink")で神経質な性格のため都会の生活を毛嫌いし、故郷の[越後湯沢から](../Page/越後湯沢駅.md "wikilink")[新幹線通勤](../Page/新幹線通勤.md "wikilink")していた。はじめの社内の評価は高く、上司の命令でやむなく妻（松田美由紀）と共に都内の幹部向け一戸建てに引っ越すことになるのだが、満員電車や信頼できない食材に耐えられなくなっていく。同僚達が歓迎会を催すが、出された料理もはじめにとっては危険なものとしか映らず非難してしまう。更に症状はエスカレートし、科学用品店で[顕微鏡](../Page/顕微鏡.md "wikilink")を購入して[ウイルス](../Page/ウイルス.md "wikilink")が無いことを確認できるまで[除菌しなければ気が済まなくなり](../Page/殺菌.md "wikilink")、次第に妻の精神は破綻をきたすのだった。
 
 ### キャスト
 
   - 白石はじめ：[沢田研二](../Page/沢田研二.md "wikilink")
-  - 白石輪子（白石の妻）：[松田美由紀](https://ja.wikipedia.org/wiki/松田美由紀 "wikilink")
+  - 白石輪子（白石の妻）：[松田美由紀](../Page/松田美由紀.md "wikilink")
   - 中古科学用品店の店主：[尾藤イサオ](https://ja.wikipedia.org/wiki/尾藤イサオ "wikilink")
-  - 松川（白石の同僚）：[石丸謙二郎](https://ja.wikipedia.org/wiki/石丸謙二郎 "wikilink")
-  - 松川の妻：[伊佐山ひろ子](https://ja.wikipedia.org/wiki/伊佐山ひろ子 "wikilink")
+  - 松川（白石の同僚）：[石丸謙二郎](../Page/石丸謙二郎.md "wikilink")
+  - 松川の妻：[伊佐山ひろ子](../Page/伊佐山ひろ子.md "wikilink")
   - 石原（白石の同僚）：[蛭子能収](../Page/蛭子能収.md "wikilink")
-  - 白石の同僚：[吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink")
-  - 和倉三郎：[岩松了](https://ja.wikipedia.org/wiki/岩松了 "wikilink")
+  - 白石の同僚：[吉田建](../Page/吉田建.md "wikilink")
+  - 和倉三郎：[岩松了](../Page/岩松了.md "wikilink")
   - 下田陽介：[大久保鷹](../Page/大久保鷹.md "wikilink")
-  - 人間ドックの医師：[ひさうちみちお](https://ja.wikipedia.org/wiki/ひさうちみちお "wikilink")
+  - 人間ドックの医師：[ひさうちみちお](../Page/ひさうちみちお.md "wikilink")
 
 ## 第三話「サギるなジャパン」
 
@@ -60,17 +60,17 @@
 
 ### キャスト
 
-  - ホイ：[ユン・ピョウ](https://ja.wikipedia.org/wiki/ユン・ピョウ "wikilink")
+  - ホイ：[ユン・ピョウ](../Page/ユン・ピョウ.md "wikilink")
   - マチコ（女詐欺師）：[原久美子](../Page/原久美子.md "wikilink")
   - 宗教に勧誘する男：[イッセー尾形](../Page/イッセー尾形.md "wikilink")
-  - ゲイのママ：[寺田農](https://ja.wikipedia.org/wiki/寺田農 "wikilink")
+  - ゲイのママ：[寺田農](../Page/寺田農.md "wikilink")
   - 山崎： [田中博樹](https://ja.wikipedia.org/wiki/田中博樹 "wikilink")
 
 ## エピソード他
 
-  - 第一話で[爆笑問題](../Page/爆笑問題.md "wikilink")の[太田光](../Page/太田光.md "wikilink")が映画初監督を務め、公開前年に結婚したばかりで後に[タイタン社長となる](https://ja.wikipedia.org/wiki/タイタン_\(芸能プロダクション\) "wikilink")[松永光代も出演している](https://ja.wikipedia.org/wiki/太田光代 "wikilink")。当時の撮影状況を「思った通りに出来なかった」と自身のラジオなどで口述している。
-  - 第二話で[沢田研二](../Page/沢田研二.md "wikilink")の当時のプロデューサーであり[エキゾティクス](https://ja.wikipedia.org/wiki/エキゾティクス "wikilink")、[JAZZ MASTERで活動を共にしていた](https://ja.wikipedia.org/wiki/JAZZ_MASTER "wikilink")[吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink")が同僚役で、[蛭子能収](../Page/蛭子能収.md "wikilink")の当時の妻（後に死別）が同僚（蛭子）の妻役で[カメオ出演](../Page/カメオ出演.md "wikilink")している。
-  - 第三話で香港のアクションスターの[ユン・ピョウ](https://ja.wikipedia.org/wiki/ユン・ピョウ "wikilink")が、全編たどたどしい日本語でコミカルな役柄を演じている。
+  - 第一話で[爆笑問題](../Page/爆笑問題.md "wikilink")の[太田光](../Page/太田光.md "wikilink")が映画初監督を務め、公開前年に結婚したばかりで後に[タイタン社長となる](../Page/タイタン_\(芸能プロダクション\).md "wikilink")[松永光代も出演している](https://ja.wikipedia.org/wiki/太田光代 "wikilink")。当時の撮影状況を「思った通りに出来なかった」と自身のラジオなどで口述している。
+  - 第二話で[沢田研二](../Page/沢田研二.md "wikilink")の当時のプロデューサーであり[エキゾティクス](../Page/エキゾティクス.md "wikilink")、[JAZZ MASTERで活動を共にしていた](../Page/JAZZ_MASTER.md "wikilink")[吉田建](../Page/吉田建.md "wikilink")が同僚役で、[蛭子能収](../Page/蛭子能収.md "wikilink")の当時の妻（後に死別）が同僚（蛭子）の妻役で[カメオ出演](../Page/カメオ出演.md "wikilink")している。
+  - 第三話で香港のアクションスターの[ユン・ピョウ](../Page/ユン・ピョウ.md "wikilink")が、全編たどたどしい日本語でコミカルな役柄を演じている。
 
 ## 外部リンク
 

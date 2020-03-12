@@ -3,13 +3,13 @@
 
 **FreeType**（フリータイプ）は、フォントエンジンを実装した[ライブラリ](../Page/ライブラリ.md "wikilink")である。を中心に、フォント関連の様々な操作をサポートしている。
 
-FreeType はあくまでも[フォント](../Page/フォント.md "wikilink")関連のライブラリであって、テキストのレイアウトやグラフィックスの処理（色付きテキストの[レンダリングなど](https://ja.wikipedia.org/wiki/レンダリング_\(コンピュータ\) "wikilink")）といった上位の [API](../Page/アプリケーションプログラミングインタフェース.md "wikilink") は提供しない。また、フォントの編集や追加もできない。しかし、フォントファイルの内容へのアクセスについて、抽象化された一様で扱いやすい[インタフェースを提供することで](../Page/インタフェース_\(情報技術\).md "wikilink")、[アプリケーションフレームワーク](https://ja.wikipedia.org/wiki/アプリケーションフレームワーク "wikilink")における下位レベルのテキスト描画処理などの実装が容易になる。
+FreeType はあくまでも[フォント](../Page/フォント.md "wikilink")関連のライブラリであって、テキストのレイアウトやグラフィックスの処理（色付きテキストの[レンダリングなど](../Page/レンダリング_\(コンピュータ\).md "wikilink")）といった上位の [API](../Page/アプリケーションプログラミングインタフェース.md "wikilink") は提供しない。また、フォントの編集や追加もできない。しかし、フォントファイルの内容へのアクセスについて、抽象化された一様で扱いやすい[インタフェースを提供することで](../Page/インタフェース_\(情報技術\).md "wikilink")、[アプリケーションフレームワーク](../Page/アプリケーションフレームワーク.md "wikilink")における下位レベルのテキスト描画処理などの実装が容易になる。
 
 [TrueType](../Page/TrueType.md "wikilink")、[Type1フォント](https://ja.wikipedia.org/wiki/PostScriptフォント#Type_1 "wikilink")、[OpenType](../Page/OpenType.md "wikilink")などのフォント形式をサポートしている\[1\]。
 
 FreeType のライセンス形態は、[GNU General Public License](../Page/GNU_General_Public_License.md "wikilink") または [BSD License](https://ja.wikipedia.org/wiki/BSD_License "wikilink") に似た独自のライセンスである。従って、このライブラリは商用か否かにかかわらず、任意のプロジェクトで使用可能である。ライセンスファイルに記された作者は David Turner、Robert Wilhelm、Werner Lemberg である。
 
-などの他のライブラリでも使用されている\[2\]。[FreeBSD](../Page/FreeBSD.md "wikilink")や[Android](https://ja.wikipedia.org/wiki/Android "wikilink")、[iOSなどの](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")におけるフォント描画にも採用されている。
+などの他のライブラリでも使用されている\[2\]。[FreeBSD](../Page/FreeBSD.md "wikilink")や[Android](../Page/Android.md "wikilink")、[iOSなどの](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")におけるフォント描画にも採用されている。
 
 ## 参考文献
 

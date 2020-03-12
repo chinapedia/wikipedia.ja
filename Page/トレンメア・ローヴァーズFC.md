@@ -3,7 +3,7 @@
 
 **トレンメア・ローヴァーズ・フットボール・クラブ**（**Tranmere Rovers Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")北西部、[マージーサイド州](https://ja.wikipedia.org/wiki/マージーサイド州 "wikilink")、[バーケンヘッド](https://ja.wikipedia.org/wiki/バーケンヘッド "wikilink")を本拠地とするサッカークラブチーム。
 
-2019-2020シーズンは[フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")（3部に相当）に所属する。[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")所属の[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")、[エヴァートンFC](https://ja.wikipedia.org/wiki/エヴァートンFC "wikilink")とは[マージー川](../Page/マージー川.md "wikilink")を挟んで対岸に位置する。
+2019-2020シーズンは[フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")（3部に相当）に所属する。[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")所属の[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")、[エヴァートンFC](../Page/エヴァートンFC.md "wikilink")とは[マージー川](../Page/マージー川.md "wikilink")を挟んで対岸に位置する。
 
 [マージーサイド・ダービー](../Page/マージーサイド・ダービー.md "wikilink")は、多くの場合はリヴァプールFC対エヴァートンFCの組み合わせを指すが、広義にはトレンメア対リヴァプール、トレンメア対エヴァートンの組み合わせを含む。
 
@@ -15,11 +15,11 @@
 
 **一試合最低観客動員数**
 
-  - 286人 vs [USレッチェ](https://ja.wikipedia.org/wiki/USレッチェ "wikilink") アングロ・イタリアンカップ 1994
+  - 286人 vs [USレッチェ](../Page/USレッチェ.md "wikilink") アングロ・イタリアンカップ 1994
 
 **一試合最多得点勝利試合**
 
-  - 13-4 vs [オールダム・アスレティックAFC](https://ja.wikipedia.org/wiki/オールダム・アスレティックAFC "wikilink") 1935-1936
+  - 13-4 vs [オールダム・アスレティックAFC](../Page/オールダム・アスレティックAFC.md "wikilink") 1935-1936
 
 ## タイトル
 
@@ -210,13 +210,13 @@
 
 ## 歴代所属選手
 
-  - [ディキシー・ディーン](https://ja.wikipedia.org/wiki/ディキシー・ディーン "wikilink") 1923-1925
+  - [ディキシー・ディーン](../Page/ディキシー・ディーン.md "wikilink") 1923-1925
 
   - [イアン・グリフィス](https://ja.wikipedia.org/wiki/イアン・グリフィス "wikilink") 1978-1983
 
-  - [ジョン・オルドリッジ](https://ja.wikipedia.org/wiki/ジョン・オルドリッジ "wikilink") 1991-1998
+  - [ジョン・オルドリッジ](../Page/ジョン・オルドリッジ.md "wikilink") 1991-1998
 
-  - [ゲーリー・スティーヴンス](https://ja.wikipedia.org/wiki/ゲーリー・スティーヴンス_\(1963年生のサッカー選手\) "wikilink") 1994-1998
+  - [ゲーリー・スティーヴンス](../Page/ゲーリー・スティーヴンス_\(1963年生のサッカー選手\).md "wikilink") 1994-1998
 
   - [トーマス・ミューレ](../Page/トーマス・ミューレ.md "wikilink") 2000
 

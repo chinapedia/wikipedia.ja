@@ -1,96 +1,96 @@
 > この記事は[EFL1](https://ja.wikipedia.org/wiki/EFL1)から翻訳されています。
 
 
-**EFLリーグ1**（）は、[イングランド](../Page/イングランド.md "wikilink")の[プロサッカーリーグのディヴィジョンの一つで](../Page/イングランドサッカーのリーグ構成.md "wikilink")、最上位である[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")の2つ下のディビジョン、すなわち実質3部である。フットボールリーグ1は、プレミアリーグが創設された1992年から2004年までは**フットボールリーグ・ディヴィジョン2** () の名で呼ばれていた。[イングリッシュ・フットボールリーグ](https://ja.wikipedia.org/wiki/イングリッシュ・フットボールリーグ "wikilink")の中では、[EFLチャンピオンシップ](https://ja.wikipedia.org/wiki/EFLチャンピオンシップ "wikilink")に次いで、上から2番目に位置している。
+**EFLリーグ1**（）は、[イングランド](../Page/イングランド.md "wikilink")の[プロサッカーリーグのディヴィジョンの一つで](../Page/イングランドサッカーのリーグ構成.md "wikilink")、最上位である[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")の2つ下のディビジョン、すなわち実質3部である。フットボールリーグ1は、プレミアリーグが創設された1992年から2004年までは**フットボールリーグ・ディヴィジョン2** () の名で呼ばれていた。[イングリッシュ・フットボールリーグ](../Page/イングリッシュ・フットボールリーグ.md "wikilink")の中では、[EFLチャンピオンシップ](../Page/EFLチャンピオンシップ.md "wikilink")に次いで、上から2番目に位置している。
 
-各試合は毎年8月から翌年の5月まで行われ、上位2クラブと、3位から6位の4クラブで行われるプレーオフの優勝クラブの計3クラブが[EFLチャンピオンシップ](https://ja.wikipedia.org/wiki/EFLチャンピオンシップ "wikilink")昇格の資格を得る。また、下位4クラブは下位のディビジョンである[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")に降格する。
+各試合は毎年8月から翌年の5月まで行われ、上位2クラブと、3位から6位の4クラブで行われるプレーオフの優勝クラブの計3クラブが[EFLチャンピオンシップ](../Page/EFLチャンピオンシップ.md "wikilink")昇格の資格を得る。また、下位4クラブは下位のディビジョンである[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")に降格する。
 
 ## 所属クラブ（2019-2020シーズン）
 
-  - [アクリントン・スタンリーFC](https://ja.wikipedia.org/wiki/アクリントン・スタンリーFC "wikilink")
-  - [AFCウィンブルドン](https://ja.wikipedia.org/wiki/AFCウィンブルドン "wikilink")
+  - [アクリントン・スタンリーFC](../Page/アクリントン・スタンリーFC.md "wikilink")
+  - [AFCウィンブルドン](../Page/AFCウィンブルドン.md "wikilink")
   - [ブラックプールFC](../Page/ブラックプールFC.md "wikilink")
-  - [ボルトン・ワンダラーズFC](https://ja.wikipedia.org/wiki/ボルトン・ワンダラーズFC "wikilink")
-  - [ブリストル・ローヴァーズFC](https://ja.wikipedia.org/wiki/ブリストル・ローヴァーズFC "wikilink")
+  - [ボルトン・ワンダラーズFC](../Page/ボルトン・ワンダラーズFC.md "wikilink")
+  - [ブリストル・ローヴァーズFC](../Page/ブリストル・ローヴァーズFC.md "wikilink")
   - [バートン・アルビオンFC](https://ja.wikipedia.org/wiki/バートン・アルビオンFC "wikilink")
-  - [コヴェントリー・シティFC](https://ja.wikipedia.org/wiki/コヴェントリー・シティFC "wikilink")
-  - [ドンカスター・ローヴァーズFC](https://ja.wikipedia.org/wiki/ドンカスター・ローヴァーズFC "wikilink")
-  - [フリートウッド・タウンFC](https://ja.wikipedia.org/wiki/フリートウッド・タウンFC "wikilink")
-  - [ジリンガムFC](https://ja.wikipedia.org/wiki/ジリンガムFC "wikilink")
-  - [イプスウィッチ・タウンFC](https://ja.wikipedia.org/wiki/イプスウィッチ・タウンFC "wikilink")
-  - [リンカーン・シティFC](https://ja.wikipedia.org/wiki/リンカーン・シティFC "wikilink")
-  - [ミルトン・キーンズ・ドンズFC](https://ja.wikipedia.org/wiki/ミルトン・キーンズ・ドンズFC "wikilink")
+  - [コヴェントリー・シティFC](../Page/コヴェントリー・シティFC.md "wikilink")
+  - [ドンカスター・ローヴァーズFC](../Page/ドンカスター・ローヴァーズFC.md "wikilink")
+  - [フリートウッド・タウンFC](../Page/フリートウッド・タウンFC.md "wikilink")
+  - [ジリンガムFC](../Page/ジリンガムFC.md "wikilink")
+  - [イプスウィッチ・タウンFC](../Page/イプスウィッチ・タウンFC.md "wikilink")
+  - [リンカーン・シティFC](../Page/リンカーン・シティFC.md "wikilink")
+  - [ミルトン・キーンズ・ドンズFC](../Page/ミルトン・キーンズ・ドンズFC.md "wikilink")
   - [オックスフォード・ユナイテッドFC](https://ja.wikipedia.org/wiki/オックスフォード・ユナイテッドFC "wikilink")
   - [ピーターバラ・ユナイテッドFC](https://ja.wikipedia.org/wiki/ピーターバラ・ユナイテッドFC "wikilink")
-  - [ポーツマスFC](https://ja.wikipedia.org/wiki/ポーツマスFC "wikilink")
-  - [ロッチデールAFC](https://ja.wikipedia.org/wiki/ロッチデールAFC "wikilink")
+  - [ポーツマスFC](../Page/ポーツマスFC.md "wikilink")
+  - [ロッチデールAFC](../Page/ロッチデールAFC.md "wikilink")
   - [ロザラム・ユナイテッドFC](../Page/ロザラム・ユナイテッドFC.md "wikilink")
-  - [シュルーズベリー・タウンFC](https://ja.wikipedia.org/wiki/シュルーズベリー・タウンFC "wikilink")
-  - [サウスエンド・ユナイテッドFC](https://ja.wikipedia.org/wiki/サウスエンド・ユナイテッドFC "wikilink")
-  - [サンダーランドAFC](https://ja.wikipedia.org/wiki/サンダーランドAFC "wikilink")
-  - [トレンメア・ローヴァーズFC](https://ja.wikipedia.org/wiki/トレンメア・ローヴァーズFC "wikilink")
+  - [シュルーズベリー・タウンFC](../Page/シュルーズベリー・タウンFC.md "wikilink")
+  - [サウスエンド・ユナイテッドFC](../Page/サウスエンド・ユナイテッドFC.md "wikilink")
+  - [サンダーランドAFC](../Page/サンダーランドAFC.md "wikilink")
+  - [トレンメア・ローヴァーズFC](../Page/トレンメア・ローヴァーズFC.md "wikilink")
   - [ウィコム・ワンダラーズFC](https://ja.wikipedia.org/wiki/ウィコム・ワンダラーズFC "wikilink")
 
-[ベリーFC](https://ja.wikipedia.org/wiki/ベリーFC "wikilink")は経営難により開幕から試合が開催できず、8月27日にリーグから追放された\[1\]。
+[ベリーFC](../Page/ベリーFC.md "wikilink")は経営難により開幕から試合が開催できず、8月27日にリーグから追放された\[1\]。
 
 ## 歴代昇格クラブ
 
 **フットボールリーグ・ディヴィジョン2**(1992-2004)
 
-| シーズン    | 1位                                                                                    | 2位                                                                              | プレーオフ勝者                                                                               |
-| ------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 1992-93 | [ストーク・シティ](../Page/ストーク・シティFC.md "wikilink")                                          | [ボルトン・ワンダラーズ](https://ja.wikipedia.org/wiki/ボルトン・ワンダラーズFC "wikilink")           | [ウェスト・ブロムウィッチ・アルビオン](https://ja.wikipedia.org/wiki/ウェスト・ブロムウィッチ・アルビオンFC "wikilink")   |
-| 1993-94 | [レディング](https://ja.wikipedia.org/wiki/レディングFC "wikilink")                             | [ポート・ヴェイル](https://ja.wikipedia.org/wiki/ポート・ヴェイルFC "wikilink")                 | [バーンリー](https://ja.wikipedia.org/wiki/バーンリーFC "wikilink")                             |
-| 1994-95 | [バーミンガム・シティ](https://ja.wikipedia.org/wiki/バーミンガム・シティFC "wikilink")                   | [ブレントフォード](https://ja.wikipedia.org/wiki/ブレントフォードFC "wikilink") (昇格できず)         | [ハダースフィールド・タウン](https://ja.wikipedia.org/wiki/ハダースフィールド・タウンFC "wikilink")             |
-| 1995-96 | [スウィンドン・タウン](https://ja.wikipedia.org/wiki/スウィンドン・タウンFC "wikilink")                   | [オックスフォード・ユナイテッド](https://ja.wikipedia.org/wiki/オックスフォード・ユナイテッドFC "wikilink")   | [ブラットフォード・シティ](https://ja.wikipedia.org/wiki/ブラッドフォード・シティAFC "wikilink")              |
-| 1996-97 | [ベリー](https://ja.wikipedia.org/wiki/ベリーFC "wikilink")                                 | [ストックポート・カウンティ](https://ja.wikipedia.org/wiki/ストックポート・カウンティFC "wikilink")       | [クルー・アレクサンドラ](https://ja.wikipedia.org/wiki/クルー・アレクサンドラFC "wikilink")                 |
-| 1997-98 | [ワトフォード](https://ja.wikipedia.org/wiki/ワトフォードFC "wikilink")                           | [ブリストル・シティ](https://ja.wikipedia.org/wiki/ブリストル・シティFC "wikilink")               | [グリムズビー・タウン](https://ja.wikipedia.org/wiki/グリムズビー・タウンFC "wikilink")                   |
-| 1998-99 | [フラム](../Page/フラムFC.md "wikilink")                                                    | [ウォルソール](https://ja.wikipedia.org/wiki/ウォルソールFC "wikilink")                     | [マンチェスター・シティ](https://ja.wikipedia.org/wiki/マンチェスター・シティFC "wikilink")                 |
-| 1999-00 | [プレストン・ノースエンド](https://ja.wikipedia.org/wiki/プレストン・ノースエンドFC "wikilink")               | [バーンリー](https://ja.wikipedia.org/wiki/バーンリーFC "wikilink")                       | [ジリンガム](https://ja.wikipedia.org/wiki/ジリンガムFC "wikilink")                             |
-| 2000-01 | [ミルウォール](https://ja.wikipedia.org/wiki/ミルウォールFC "wikilink")                           | [ロザラム・ユナイテッド](../Page/ロザラム・ユナイテッドFC.md "wikilink")                              | [ウォルソール](https://ja.wikipedia.org/wiki/ウォルソールFC "wikilink")                           |
-| 2001-02 | [ブライトン・アンド・ホーヴ・アルビオン](https://ja.wikipedia.org/wiki/ブライトン・アンド・ホーヴ・アルビオンFC "wikilink") | [レディング](https://ja.wikipedia.org/wiki/レディングFC "wikilink")                       | [ストーク・シティ](../Page/ストーク・シティFC.md "wikilink")                                          |
-| 2002-03 | [ウィガン・アスレティック](https://ja.wikipedia.org/wiki/ウィガン・アスレティックFC "wikilink")               | [クルー・アレクサンドラ](https://ja.wikipedia.org/wiki/クルー・アレクサンドラFC "wikilink")           | [カーディフ・シティ](https://ja.wikipedia.org/wiki/カーディフ・シティFC "wikilink")                     |
-| 2003-04 | [プリマス・アーガイル](https://ja.wikipedia.org/wiki/プリマス・アーガイルFC "wikilink")                   | [クイーンズ・パーク・レンジャーズ](https://ja.wikipedia.org/wiki/クイーンズ・パーク・レンジャーズFC "wikilink") | [ブライトン・アンド・ホーヴ・アルビオン](https://ja.wikipedia.org/wiki/ブライトン・アンド・ホーヴ・アルビオンFC "wikilink") |
+| シーズン    | 1位                                                                  | 2位                                                                            | プレーオフ勝者                                                            |
+| ------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 1992-93 | [ストーク・シティ](../Page/ストーク・シティFC.md "wikilink")                        | [ボルトン・ワンダラーズ](../Page/ボルトン・ワンダラーズFC.md "wikilink")                            | [ウェスト・ブロムウィッチ・アルビオン](../Page/ウェスト・ブロムウィッチ・アルビオンFC.md "wikilink")   |
+| 1993-94 | [レディング](../Page/レディングFC.md "wikilink")                              | [ポート・ヴェイル](../Page/ポート・ヴェイルFC.md "wikilink")                                  | [バーンリー](../Page/バーンリーFC.md "wikilink")                             |
+| 1994-95 | [バーミンガム・シティ](../Page/バーミンガム・シティFC.md "wikilink")                    | [ブレントフォード](../Page/ブレントフォードFC.md "wikilink") (昇格できず)                          | [ハダースフィールド・タウン](../Page/ハダースフィールド・タウンFC.md "wikilink")             |
+| 1995-96 | [スウィンドン・タウン](../Page/スウィンドン・タウンFC.md "wikilink")                    | [オックスフォード・ユナイテッド](https://ja.wikipedia.org/wiki/オックスフォード・ユナイテッドFC "wikilink") | [ブラットフォード・シティ](../Page/ブラッドフォード・シティAFC.md "wikilink")              |
+| 1996-97 | [ベリー](../Page/ベリーFC.md "wikilink")                                  | [ストックポート・カウンティ](https://ja.wikipedia.org/wiki/ストックポート・カウンティFC "wikilink")     | [クルー・アレクサンドラ](../Page/クルー・アレクサンドラFC.md "wikilink")                 |
+| 1997-98 | [ワトフォード](../Page/ワトフォードFC.md "wikilink")                            | [ブリストル・シティ](../Page/ブリストル・シティFC.md "wikilink")                                | [グリムズビー・タウン](../Page/グリムズビー・タウンFC.md "wikilink")                   |
+| 1998-99 | [フラム](../Page/フラムFC.md "wikilink")                                  | [ウォルソール](../Page/ウォルソールFC.md "wikilink")                                      | [マンチェスター・シティ](../Page/マンチェスター・シティFC.md "wikilink")                 |
+| 1999-00 | [プレストン・ノースエンド](../Page/プレストン・ノースエンドFC.md "wikilink")                | [バーンリー](../Page/バーンリーFC.md "wikilink")                                        | [ジリンガム](../Page/ジリンガムFC.md "wikilink")                             |
+| 2000-01 | [ミルウォール](../Page/ミルウォールFC.md "wikilink")                            | [ロザラム・ユナイテッド](../Page/ロザラム・ユナイテッドFC.md "wikilink")                            | [ウォルソール](../Page/ウォルソールFC.md "wikilink")                           |
+| 2001-02 | [ブライトン・アンド・ホーヴ・アルビオン](../Page/ブライトン・アンド・ホーヴ・アルビオンFC.md "wikilink")  | [レディング](../Page/レディングFC.md "wikilink")                                        | [ストーク・シティ](../Page/ストーク・シティFC.md "wikilink")                       |
+| 2002-03 | [ウィガン・アスレティック](../Page/ウィガン・アスレティックFC.md "wikilink")                | [クルー・アレクサンドラ](../Page/クルー・アレクサンドラFC.md "wikilink")                            | [カーディフ・シティ](../Page/カーディフ・シティFC.md "wikilink")                     |
+| 2003-04 | [プリマス・アーガイル](https://ja.wikipedia.org/wiki/プリマス・アーガイルFC "wikilink") | [クイーンズ・パーク・レンジャーズ](../Page/クイーンズ・パーク・レンジャーズFC.md "wikilink")                  | [ブライトン・アンド・ホーヴ・アルビオン](../Page/ブライトン・アンド・ホーヴ・アルビオンFC.md "wikilink") |
 
 **リーグ1**(2004-現在)
 
-| シーズン    | 1位                                                                                    | 2位                                                                          | プレーオフ勝者                                                                     |
-| ------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 2004-05 | [ルートン・タウン](https://ja.wikipedia.org/wiki/ルートン・タウンFC "wikilink")                       | [ハル・シティ](../Page/ハル・シティAFC.md "wikilink")                                   | [シェフィールド・ウェンズデイ](https://ja.wikipedia.org/wiki/シェフィールド・ウェンズデイFC "wikilink") |
-| 2005-06 | [サウスエンド・ユナイテッド](https://ja.wikipedia.org/wiki/サウスエンド・ユナイテッドFC "wikilink")             | [コルチェスター・ユナイテッド](https://ja.wikipedia.org/wiki/コルチェスター・ユナイテッドFC "wikilink") | [バーンズリー](https://ja.wikipedia.org/wiki/バーンズリーFC "wikilink")                 |
-| 2006-07 | [スカンソープ・ユナイテッド](https://ja.wikipedia.org/wiki/スカンソープ・ユナイテッドFC "wikilink")             | [ブリストル・シティ](https://ja.wikipedia.org/wiki/ブリストル・シティFC "wikilink")           | [ブラックプール](../Page/ブラックプールFC.md "wikilink")                                  |
-| 2007-08 | [スウォンジー・シティ](https://ja.wikipedia.org/wiki/スウォンジー・シティFC "wikilink")                   | [ノッティンガム・フォレスト](https://ja.wikipedia.org/wiki/ノッティンガム・フォレストFC "wikilink")   | [ドンカスター・ローヴァーズ](https://ja.wikipedia.org/wiki/ドンカスター・ローヴァーズFC "wikilink")   |
-| 2008-09 | [レスター・シティ](https://ja.wikipedia.org/wiki/レスター・シティFC "wikilink")                       | [ピーターバラ・ユナイテッド](https://ja.wikipedia.org/wiki/ピーターバラ・ユナイテッドFC "wikilink")   | [スカンソープ・ユナイテッド](https://ja.wikipedia.org/wiki/スカンソープ・ユナイテッドFC "wikilink")   |
-| 2009-10 | [ノリッジ・シティ](https://ja.wikipedia.org/wiki/ノリッジ・シティFC "wikilink")                       | [リーズ・ユナイテッド](https://ja.wikipedia.org/wiki/リーズ・ユナイテッドAFC "wikilink")        | [ミルウォール](https://ja.wikipedia.org/wiki/ミルウォールFC "wikilink")                 |
-| 2010-11 | [ブライトン・アンド・ホーヴ・アルビオン](https://ja.wikipedia.org/wiki/ブライトン・アンド・ホーヴ・アルビオンFC "wikilink") | [サウサンプトン](https://ja.wikipedia.org/wiki/サウサンプトンFC "wikilink")               | [ピーターバラ・ユナイテッド](https://ja.wikipedia.org/wiki/ピーターバラ・ユナイテッドFC "wikilink")   |
-| 2011-12 | [チャールトン・アスレティック](https://ja.wikipedia.org/wiki/チャールトン・アスレティックFC "wikilink")           | [シェフィールド・ウェンズデイ](https://ja.wikipedia.org/wiki/シェフィールド・ウェンズデイFC "wikilink") | [ハダースフィールド・タウン](https://ja.wikipedia.org/wiki/ハダースフィールド・タウンFC "wikilink")   |
-| 2012-13 | [ドンカスター・ローヴァーズ](https://ja.wikipedia.org/wiki/ドンカスター・ローヴァーズFC "wikilink")             | [ボーンマス](https://ja.wikipedia.org/wiki/AFCボーンマス "wikilink")                  | [ヨーヴィル・タウン](https://ja.wikipedia.org/wiki/ヨーヴィル・タウンFC "wikilink")           |
-| 2013-14 | [ウルヴァーハンプトン・ワンダラーズ](https://ja.wikipedia.org/wiki/ウルヴァーハンプトン・ワンダラーズFC "wikilink")     | [ブレントフォード](https://ja.wikipedia.org/wiki/ブレントフォードFC "wikilink")             | [ロザラム・ユナイテッド](../Page/ロザラム・ユナイテッドFC.md "wikilink")                          |
-| 2014-15 | [ブリストル・シティ](https://ja.wikipedia.org/wiki/ブリストル・シティFC "wikilink")                     | [ミルトン・キーンズ・ドンズ](https://ja.wikipedia.org/wiki/ミルトン・キーンズ・ドンズFC "wikilink")   | [プレストン・ノースエンド](https://ja.wikipedia.org/wiki/プレストン・ノースエンドFC "wikilink")     |
-| 2015-16 | [ウィガン・アスレティック](https://ja.wikipedia.org/wiki/ウィガン・アスレティックFC "wikilink")               | [バートン・アルビオン](https://ja.wikipedia.org/wiki/バートン・アルビオンFC "wikilink")         | [バーンズリー](https://ja.wikipedia.org/wiki/バーンズリーFC "wikilink")                 |
-| 2016-17 | [シェフィールド・ユナイテッド](https://ja.wikipedia.org/wiki/シェフィールド・ユナイテッドFC "wikilink")           | [ボルトン・ワンダラーズ](https://ja.wikipedia.org/wiki/ボルトン・ワンダラーズFC "wikilink")       | [ミルウォール](https://ja.wikipedia.org/wiki/ミルウォールFC "wikilink")                 |
-| 2017-18 | [ウィガン・アスレティック](https://ja.wikipedia.org/wiki/ウィガン・アスレティックFC "wikilink")               | [ブラックバーン・ローヴァーズ](https://ja.wikipedia.org/wiki/ブラックバーン・ローヴァーズFC "wikilink") | [ロザラム・ユナイテッド](../Page/ロザラム・ユナイテッドFC.md "wikilink")                          |
-| 2018-19 | [ルートン・タウン](https://ja.wikipedia.org/wiki/ルートン・タウンFC "wikilink")                       | [バーンズリー](https://ja.wikipedia.org/wiki/バーンズリーFC "wikilink")                 | [チャールトン・アスレティック](https://ja.wikipedia.org/wiki/チャールトン・アスレティックFC "wikilink") |
+| シーズン    | 1位                                                                  | 2位                                                                        | プレーオフ勝者                                                                   |
+| ------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 2004-05 | [ルートン・タウン](../Page/ルートン・タウンFC.md "wikilink")                        | [ハル・シティ](../Page/ハル・シティAFC.md "wikilink")                                 | [シェフィールド・ウェンズデイ](../Page/シェフィールド・ウェンズデイFC.md "wikilink")                  |
+| 2005-06 | [サウスエンド・ユナイテッド](../Page/サウスエンド・ユナイテッドFC.md "wikilink")              | [コルチェスター・ユナイテッド](../Page/コルチェスター・ユナイテッドFC.md "wikilink")                  | [バーンズリー](../Page/バーンズリーFC.md "wikilink")                                  |
+| 2006-07 | [スカンソープ・ユナイテッド](../Page/スカンソープ・ユナイテッドFC.md "wikilink")              | [ブリストル・シティ](../Page/ブリストル・シティFC.md "wikilink")                            | [ブラックプール](../Page/ブラックプールFC.md "wikilink")                                |
+| 2007-08 | [スウォンジー・シティ](https://ja.wikipedia.org/wiki/スウォンジー・シティFC "wikilink") | [ノッティンガム・フォレスト](../Page/ノッティンガム・フォレストFC.md "wikilink")                    | [ドンカスター・ローヴァーズ](../Page/ドンカスター・ローヴァーズFC.md "wikilink")                    |
+| 2008-09 | [レスター・シティ](../Page/レスター・シティFC.md "wikilink")                        | [ピーターバラ・ユナイテッド](https://ja.wikipedia.org/wiki/ピーターバラ・ユナイテッドFC "wikilink") | [スカンソープ・ユナイテッド](../Page/スカンソープ・ユナイテッドFC.md "wikilink")                    |
+| 2009-10 | [ノリッジ・シティ](../Page/ノリッジ・シティFC.md "wikilink")                        | [リーズ・ユナイテッド](https://ja.wikipedia.org/wiki/リーズ・ユナイテッドAFC "wikilink")      | [ミルウォール](../Page/ミルウォールFC.md "wikilink")                                  |
+| 2010-11 | [ブライトン・アンド・ホーヴ・アルビオン](../Page/ブライトン・アンド・ホーヴ・アルビオンFC.md "wikilink")  | [サウサンプトン](../Page/サウサンプトンFC.md "wikilink")                                | [ピーターバラ・ユナイテッド](https://ja.wikipedia.org/wiki/ピーターバラ・ユナイテッドFC "wikilink") |
+| 2011-12 | [チャールトン・アスレティック](../Page/チャールトン・アスレティックFC.md "wikilink")            | [シェフィールド・ウェンズデイ](../Page/シェフィールド・ウェンズデイFC.md "wikilink")                  | [ハダースフィールド・タウン](../Page/ハダースフィールド・タウンFC.md "wikilink")                    |
+| 2012-13 | [ドンカスター・ローヴァーズ](../Page/ドンカスター・ローヴァーズFC.md "wikilink")              | [ボーンマス](../Page/AFCボーンマス.md "wikilink")                                   | [ヨーヴィル・タウン](../Page/ヨーヴィル・タウンFC.md "wikilink")                            |
+| 2013-14 | [ウルヴァーハンプトン・ワンダラーズ](../Page/ウルヴァーハンプトン・ワンダラーズFC.md "wikilink")      | [ブレントフォード](../Page/ブレントフォードFC.md "wikilink")                              | [ロザラム・ユナイテッド](../Page/ロザラム・ユナイテッドFC.md "wikilink")                        |
+| 2014-15 | [ブリストル・シティ](../Page/ブリストル・シティFC.md "wikilink")                      | [ミルトン・キーンズ・ドンズ](../Page/ミルトン・キーンズ・ドンズFC.md "wikilink")                    | [プレストン・ノースエンド](../Page/プレストン・ノースエンドFC.md "wikilink")                      |
+| 2015-16 | [ウィガン・アスレティック](../Page/ウィガン・アスレティックFC.md "wikilink")                | [バートン・アルビオン](https://ja.wikipedia.org/wiki/バートン・アルビオンFC "wikilink")       | [バーンズリー](../Page/バーンズリーFC.md "wikilink")                                  |
+| 2016-17 | [シェフィールド・ユナイテッド](../Page/シェフィールド・ユナイテッドFC.md "wikilink")            | [ボルトン・ワンダラーズ](../Page/ボルトン・ワンダラーズFC.md "wikilink")                        | [ミルウォール](../Page/ミルウォールFC.md "wikilink")                                  |
+| 2017-18 | [ウィガン・アスレティック](../Page/ウィガン・アスレティックFC.md "wikilink")                | [ブラックバーン・ローヴァーズ](../Page/ブラックバーン・ローヴァーズFC.md "wikilink")                  | [ロザラム・ユナイテッド](../Page/ロザラム・ユナイテッドFC.md "wikilink")                        |
+| 2018-19 | [ルートン・タウン](../Page/ルートン・タウンFC.md "wikilink")                        | [バーンズリー](../Page/バーンズリーFC.md "wikilink")                                  | [チャールトン・アスレティック](../Page/チャールトン・アスレティックFC.md "wikilink")                  |
 
 ## 歴代降格クラブ
 
-| シーズン    | 21位                                                                             | 22位                                                                       | 23位                                                                         | 24位                                                                       |
-| ------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 2004-05 | [トーキー・ユナイテッド](https://ja.wikipedia.org/wiki/トーキー・ユナイテッドFC "wikilink")           | [レクサム](https://ja.wikipedia.org/wiki/レクサムFC "wikilink")                   | [ピーターバラ・ユナイテッド](https://ja.wikipedia.org/wiki/ピーターバラ・ユナイテッドFC "wikilink")   | [ストックポート・カウンティ](https://ja.wikipedia.org/wiki/ストックポート・カウンティFC "wikilink") |
-| 2005-06 | [ハートリプール・ユナイテッド](https://ja.wikipedia.org/wiki/ハートリプール・ユナイテッドFC "wikilink")     | [ミルトン・キーンズ・ドンズ](https://ja.wikipedia.org/wiki/ミルトン・キーンズ・ドンズFC "wikilink") | [スウィンドン・タウン](https://ja.wikipedia.org/wiki/スウィンドン・タウンFC "wikilink")         | [ウォルソール](https://ja.wikipedia.org/wiki/ウォルソールFC "wikilink")               |
-| 2006-07 | [チェスターフィールド](https://ja.wikipedia.org/wiki/チェスターフィールドFC "wikilink")             | [ブラットフォード・シティ](https://ja.wikipedia.org/wiki/ブラッドフォード・シティAFC "wikilink")  | [ロザラム・ユナイテッド](../Page/ロザラム・ユナイテッドFC.md "wikilink")                          | [ブレントフォード](https://ja.wikipedia.org/wiki/ブレントフォードFC "wikilink")           |
-| 2007-08 | [ボーンマス](https://ja.wikipedia.org/wiki/AFCボーンマス "wikilink")                      | [ジリンガム](https://ja.wikipedia.org/wiki/ジリンガムFC "wikilink")                 | [ポート・ヴェイル](https://ja.wikipedia.org/wiki/ポート・ヴェイルFC "wikilink")             | [ルートン・タウン](https://ja.wikipedia.org/wiki/ルートン・タウンFC "wikilink")           |
-| 2008-09 | [ノーサンプトン・タウン](https://ja.wikipedia.org/wiki/ノーサンプトン・タウンFC "wikilink")           | [クルー・アレクサンドラ](https://ja.wikipedia.org/wiki/クルー・アレクサンドラFC "wikilink")     | [チェルトナム・タウン](https://ja.wikipedia.org/wiki/チェルトナム・タウンFC "wikilink")         | [ヘレフォード・ユナイテッド](https://ja.wikipedia.org/wiki/ヘレフォード・ユナイテッドFC "wikilink") |
-| 2009-10 | [ジリンガム](https://ja.wikipedia.org/wiki/ジリンガムFC "wikilink")                       | [ウィコム・わ](https://ja.wikipedia.org/wiki/ウィコム・ワンダラーズFC "wikilink")          | [サウスエンド・ユナイテッド](https://ja.wikipedia.org/wiki/サウスエンド・ユナイテッドFC "wikilink")   | [ストックポート・カウンティ](https://ja.wikipedia.org/wiki/ストックポート・カウンティFC "wikilink") |
-| 2010-11 | [ダゲナム・アンド・レッドブリッジ](https://ja.wikipedia.org/wiki/ダゲナム・アンド・レッドブリッジFC "wikilink") | [ブリストル・ローヴァーズ](https://ja.wikipedia.org/wiki/ブリストル・ローヴァーズFC "wikilink")   | [ブリストル・アーガイル](https://ja.wikipedia.org/wiki/プリマス・アーガイルFC "wikilink")        | [スウィンドン・タウン](https://ja.wikipedia.org/wiki/スウィンドン・タウンFC "wikilink")       |
-| 2011-12 | [ウィコム・ワンダラーズ](https://ja.wikipedia.org/wiki/ウィコム・ワンダラーズFC "wikilink")           | [チェスターフィールド](https://ja.wikipedia.org/wiki/チェスターフィールドFC "wikilink")       | [エクセター・シティ](https://ja.wikipedia.org/wiki/エクセター・シティFC "wikilink")           | [ロッチデール](https://ja.wikipedia.org/wiki/ロッチデールAFC "wikilink")              |
-| 2012-13 | [スカンソープ・ユナイテッド](https://ja.wikipedia.org/wiki/スカンソープ・ユナイテッドFC "wikilink")       | [ベリー](https://ja.wikipedia.org/wiki/ベリーFC "wikilink")                     | [パートリプール・ユナイテッド](https://ja.wikipedia.org/wiki/ハートリプール・ユナイテッドFC "wikilink") | [ポーツマス](https://ja.wikipedia.org/wiki/ポーツマスFC "wikilink")                 |
-| 2013-14 | [トレンメア・ローヴァーズ](https://ja.wikipedia.org/wiki/トレンメア・ローヴァーズFC "wikilink")         | [カーライル・ユナイテッド](https://ja.wikipedia.org/wiki/カーライル・ユナイテッドFC "wikilink")   | [シュルーズベリー・タウン](https://ja.wikipedia.org/wiki/シュルーズベリー・タウンFC "wikilink")     | [スティヴネイジ](https://ja.wikipedia.org/wiki/スティヴネイジFC "wikilink")             |
-| 2014-15 | [ノッツ・カウンティ](https://ja.wikipedia.org/wiki/ノッツ・カウンティFC "wikilink")               | [クローリー・タウン](https://ja.wikipedia.org/wiki/クローリー・タウンFC "wikilink")         | [レイトン・オリエント](https://ja.wikipedia.org/wiki/レイトン・オリエントFC "wikilink")         | [ヨーヴィル・タウン](https://ja.wikipedia.org/wiki/ヨーヴィル・タウンFC "wikilink")         |
-| 2015-16 | [ドンカスター・ローヴァーズ](https://ja.wikipedia.org/wiki/ドンカスター・ローヴァーズFC "wikilink")       | [ブラックプール](../Page/ブラックプールFC.md "wikilink")                                | [コルチェスター・ユナイテッド](https://ja.wikipedia.org/wiki/コルチェスター・ユナイテッドFC "wikilink") | [クルー・アレクサンドラ](https://ja.wikipedia.org/wiki/クルー・アレクサンドラFC "wikilink")     |
-| 2016-17 | [ポート・ヴェイル](https://ja.wikipedia.org/wiki/ポート・ヴェイルFC "wikilink")                 | [スウィンドン・タウン](https://ja.wikipedia.org/wiki/スウィンドン・タウンFC "wikilink")       | [コヴェントリー・シティ](https://ja.wikipedia.org/wiki/コヴェントリー・シティFC "wikilink")       | [チェスターフィールド](https://ja.wikipedia.org/wiki/チェスターフィールドFC "wikilink")       |
-| 2017-18 | [オールダム・アスレティック](https://ja.wikipedia.org/wiki/オールダム・アスレティックAFC "wikilink")      | [ノーサンプトン・タウン](https://ja.wikipedia.org/wiki/ノーサンプトン・タウンFC "wikilink")     | [ミルトン・キーンズ・ドンズ](https://ja.wikipedia.org/wiki/ミルトン・キーンズ・ドンズFC "wikilink")   | [ベリー](https://ja.wikipedia.org/wiki/ベリーFC "wikilink")                     |
-| 2018-19 | [プリマス・アーガイル](https://ja.wikipedia.org/wiki/プリマス・アーガイルFC "wikilink")             | [ウォルソール](https://ja.wikipedia.org/wiki/ウォルソールFC "wikilink")               | [スカンソープ・ユナイテッド](https://ja.wikipedia.org/wiki/スカンソープ・ユナイテッドFC "wikilink")   | [ブラッドフォード・シティ](https://ja.wikipedia.org/wiki/ブラッドフォード・シティAFC "wikilink")  |
+| シーズン    | 21位                                                                   | 22位                                                               | 23位                                                                       | 24位                                                                       |
+| ------- | --------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 2004-05 | [トーキー・ユナイテッド](https://ja.wikipedia.org/wiki/トーキー・ユナイテッドFC "wikilink") | [レクサム](https://ja.wikipedia.org/wiki/レクサムFC "wikilink")           | [ピーターバラ・ユナイテッド](https://ja.wikipedia.org/wiki/ピーターバラ・ユナイテッドFC "wikilink") | [ストックポート・カウンティ](https://ja.wikipedia.org/wiki/ストックポート・カウンティFC "wikilink") |
+| 2005-06 | [ハートリプール・ユナイテッド](../Page/ハートリプール・ユナイテッドFC.md "wikilink")              | [ミルトン・キーンズ・ドンズ](../Page/ミルトン・キーンズ・ドンズFC.md "wikilink")            | [スウィンドン・タウン](../Page/スウィンドン・タウンFC.md "wikilink")                          | [ウォルソール](../Page/ウォルソールFC.md "wikilink")                                  |
+| 2006-07 | [チェスターフィールド](../Page/チェスターフィールドFC.md "wikilink")                      | [ブラットフォード・シティ](../Page/ブラッドフォード・シティAFC.md "wikilink")             | [ロザラム・ユナイテッド](../Page/ロザラム・ユナイテッドFC.md "wikilink")                        | [ブレントフォード](../Page/ブレントフォードFC.md "wikilink")                              |
+| 2007-08 | [ボーンマス](../Page/AFCボーンマス.md "wikilink")                               | [ジリンガム](../Page/ジリンガムFC.md "wikilink")                            | [ポート・ヴェイル](../Page/ポート・ヴェイルFC.md "wikilink")                              | [ルートン・タウン](../Page/ルートン・タウンFC.md "wikilink")                              |
+| 2008-09 | [ノーサンプトン・タウン](../Page/ノーサンプトン・タウンFC.md "wikilink")                    | [クルー・アレクサンドラ](../Page/クルー・アレクサンドラFC.md "wikilink")                | [チェルトナム・タウン](../Page/チェルトナム・タウンFC.md "wikilink")                          | [ヘレフォード・ユナイテッド](../Page/ヘレフォード・ユナイテッドFC.md "wikilink")                    |
+| 2009-10 | [ジリンガム](../Page/ジリンガムFC.md "wikilink")                                | [ウィコム・わ](https://ja.wikipedia.org/wiki/ウィコム・ワンダラーズFC "wikilink")  | [サウスエンド・ユナイテッド](../Page/サウスエンド・ユナイテッドFC.md "wikilink")                    | [ストックポート・カウンティ](https://ja.wikipedia.org/wiki/ストックポート・カウンティFC "wikilink") |
+| 2010-11 | [ダゲナム・アンド・レッドブリッジ](../Page/ダゲナム・アンド・レッドブリッジFC.md "wikilink")          | [ブリストル・ローヴァーズ](../Page/ブリストル・ローヴァーズFC.md "wikilink")              | [ブリストル・アーガイル](https://ja.wikipedia.org/wiki/プリマス・アーガイルFC "wikilink")      | [スウィンドン・タウン](../Page/スウィンドン・タウンFC.md "wikilink")                          |
+| 2011-12 | [ウィコム・ワンダラーズ](https://ja.wikipedia.org/wiki/ウィコム・ワンダラーズFC "wikilink") | [チェスターフィールド](../Page/チェスターフィールドFC.md "wikilink")                  | [エクセター・シティ](https://ja.wikipedia.org/wiki/エクセター・シティFC "wikilink")         | [ロッチデール](../Page/ロッチデールAFC.md "wikilink")                                 |
+| 2012-13 | [スカンソープ・ユナイテッド](../Page/スカンソープ・ユナイテッドFC.md "wikilink")                | [ベリー](../Page/ベリーFC.md "wikilink")                                | [パートリプール・ユナイテッド](../Page/ハートリプール・ユナイテッドFC.md "wikilink")                  | [ポーツマス](../Page/ポーツマスFC.md "wikilink")                                    |
+| 2013-14 | [トレンメア・ローヴァーズ](../Page/トレンメア・ローヴァーズFC.md "wikilink")                  | [カーライル・ユナイテッド](../Page/カーライル・ユナイテッドFC.md "wikilink")              | [シュルーズベリー・タウン](../Page/シュルーズベリー・タウンFC.md "wikilink")                      | [スティヴネイジ](https://ja.wikipedia.org/wiki/スティヴネイジFC "wikilink")             |
+| 2014-15 | [ノッツ・カウンティ](../Page/ノッツ・カウンティFC.md "wikilink")                        | [クローリー・タウン](https://ja.wikipedia.org/wiki/クローリー・タウンFC "wikilink") | [レイトン・オリエント](../Page/レイトン・オリエントFC.md "wikilink")                          | [ヨーヴィル・タウン](../Page/ヨーヴィル・タウンFC.md "wikilink")                            |
+| 2015-16 | [ドンカスター・ローヴァーズ](../Page/ドンカスター・ローヴァーズFC.md "wikilink")                | [ブラックプール](../Page/ブラックプールFC.md "wikilink")                        | [コルチェスター・ユナイテッド](../Page/コルチェスター・ユナイテッドFC.md "wikilink")                  | [クルー・アレクサンドラ](../Page/クルー・アレクサンドラFC.md "wikilink")                        |
+| 2016-17 | [ポート・ヴェイル](../Page/ポート・ヴェイルFC.md "wikilink")                          | [スウィンドン・タウン](../Page/スウィンドン・タウンFC.md "wikilink")                  | [コヴェントリー・シティ](../Page/コヴェントリー・シティFC.md "wikilink")                        | [チェスターフィールド](../Page/チェスターフィールドFC.md "wikilink")                          |
+| 2017-18 | [オールダム・アスレティック](../Page/オールダム・アスレティックAFC.md "wikilink")               | [ノーサンプトン・タウン](../Page/ノーサンプトン・タウンFC.md "wikilink")                | [ミルトン・キーンズ・ドンズ](../Page/ミルトン・キーンズ・ドンズFC.md "wikilink")                    | [ベリー](../Page/ベリーFC.md "wikilink")                                        |
+| 2018-19 | [プリマス・アーガイル](https://ja.wikipedia.org/wiki/プリマス・アーガイルFC "wikilink")   | [ウォルソール](../Page/ウォルソールFC.md "wikilink")                          | [スカンソープ・ユナイテッド](../Page/スカンソープ・ユナイテッドFC.md "wikilink")                    | [ブラッドフォード・シティ](../Page/ブラッドフォード・シティAFC.md "wikilink")                     |
 
 ## 歴代得点王
 
@@ -112,26 +112,26 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ディーン・ウィンダス" title="wikilink">ディーン・ウィンダス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブラッドフォード・シティAFC" title="wikilink">ブラットフォード・シティ</a></p></td>
+<td><p><a href="../Page/ブラッドフォード・シティAFC.md" title="wikilink">ブラットフォード・シティ</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2005–06</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フレディ・イーストウッド" title="wikilink">フレディ・イーストウッド</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サウスエンド・ユナイテッドFC" title="wikilink">サウスエンド・ユナイテッド</a></p></td>
+<td><p><a href="../Page/サウスエンド・ユナイテッドFC.md" title="wikilink">サウスエンド・ユナイテッド</a></p></td>
 <td><p>23</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ビリー・シャープ" title="wikilink">ビリー・シャープ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スカンソープ・ユナイテッドFC" title="wikilink">スカンソープ・ユナイテッド</a></p></td>
+<td><p><a href="../Page/スカンソープ・ユナイテッドFC.md" title="wikilink">スカンソープ・ユナイテッド</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2006–07</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビリー・シャープ" title="wikilink">ビリー・シャープ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スカンソープ・ユナイテッドFC" title="wikilink">スカンソープ・ユナイテッド</a></p></td>
+<td><p><a href="../Page/スカンソープ・ユナイテッドFC.md" title="wikilink">スカンソープ・ユナイテッド</a></p></td>
 <td><p>30</p></td>
 </tr>
 <tr class="even">
@@ -143,19 +143,19 @@
 <tr class="odd">
 <td><p>2008–09</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サイモン・コックス" title="wikilink">サイモン・コックス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スウィンドン・タウンFC" title="wikilink">スウィンドン・タウン</a></p></td>
+<td><p><a href="../Page/スウィンドン・タウンFC.md" title="wikilink">スウィンドン・タウン</a></p></td>
 <td><p>29</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/リッキー・ランバート" title="wikilink">リッキー・ランバート</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブリストル・ローヴァーズFC" title="wikilink">ブリストル・ローヴァーズ</a></p></td>
+<td><p><a href="../Page/ブリストル・ローヴァーズFC.md" title="wikilink">ブリストル・ローヴァーズ</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2009–10</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リッキー・ランバート" title="wikilink">リッキー・ランバート</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サウサンプトンFC" title="wikilink">サウサンプトン</a></p></td>
+<td><p><a href="../Page/サウサンプトンFC.md" title="wikilink">サウサンプトン</a></p></td>
 <td><p>30</p></td>
 </tr>
 <tr class="even">
@@ -167,37 +167,37 @@
 <tr class="odd">
 <td><p>2011–12</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョーダン・ローズ" title="wikilink">ジョーダン・ローズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハダースフィールド・タウンFC" title="wikilink">ハダースフィールド・タウン</a></p></td>
+<td><p><a href="../Page/ハダースフィールド・タウンFC.md" title="wikilink">ハダースフィールド・タウン</a></p></td>
 <td><p>36</p></td>
 </tr>
 <tr class="even">
 <td><p>2012–13</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パディ・マッデン" title="wikilink">パディ・マッデン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヨーヴィル・タウンFC" title="wikilink">ヨーヴィル・タウン</a></p></td>
+<td><p><a href="../Page/ヨーヴィル・タウンFC.md" title="wikilink">ヨーヴィル・タウン</a></p></td>
 <td><p>24</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013–14</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サム・バルドック" title="wikilink">サム・バルドック</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブリストル・シティFC" title="wikilink">ブリストル・シティ</a></p></td>
+<td><p><a href="../Page/ブリストル・シティFC.md" title="wikilink">ブリストル・シティ</a></p></td>
 <td><p>24</p></td>
 </tr>
 <tr class="even">
 <td><p>2014–15</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョー・ガーナー" title="wikilink">ジョー・ガーナー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プレストン・ノースエンドFC" title="wikilink">プレストン・ノースエンド</a></p></td>
+<td><p><a href="../Page/プレストン・ノースエンドFC.md" title="wikilink">プレストン・ノースエンド</a></p></td>
 <td><p>26</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015–16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウィル・グリッグ" title="wikilink">ウィル・グリッグ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウィガン・アスレティックFC" title="wikilink">ウィガン・アスレティック</a></p></td>
+<td><p><a href="../Page/ウィガン・アスレティックFC.md" title="wikilink">ウィガン・アスレティック</a></p></td>
 <td><p>25</p></td>
 </tr>
 <tr class="even">
 <td><p>2016–17</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビリー・シャープ" title="wikilink">ビリー・シャープ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シェフィールド・ユナイテッドFC" title="wikilink">シェフィールド・ユナイテッド</a></p></td>
+<td><p><a href="../Page/シェフィールド・ユナイテッドFC.md" title="wikilink">シェフィールド・ユナイテッド</a></p></td>
 <td><p>30</p></td>
 </tr>
 <tr class="odd">
@@ -209,7 +209,7 @@
 <tr class="even">
 <td><p>2018-19</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェームズ・コリンズ" title="wikilink">ジェームズ・コリンズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルートン・タウンFC" title="wikilink">ルートン・タウン</a></p></td>
+<td><p><a href="../Page/ルートン・タウンFC.md" title="wikilink">ルートン・タウン</a></p></td>
 <td><p>25</p></td>
 </tr>
 <tr class="odd">

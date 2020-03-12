@@ -7,7 +7,7 @@
 
 ## 概要
 
-写真のように、空気感を再現した非常にリアルなグラフィックを作成することが可能である。Terragenは、v.0.9.43以前の旧バージョンであるTerragen ClassicとTerragen 2以降の新バージョンの2種類に大別できる。 新バージョンではプレビュー画面でリアルタイム[レンダリングが行われたり](https://ja.wikipedia.org/wiki/レンダリング_\(コンピュータ\) "wikilink")、各種パラメタ等を[ノード](https://ja.wikipedia.org/wiki/ノード "wikilink")を用いて設定するなど、[ユーザインターフェース](https://ja.wikipedia.org/wiki/ユーザインターフェース "wikilink")や設定方法等が大きく異なる。 Terragen 4は商用利用以外では無料となっているが、無料版にはレンダリングサイズなどの以下のような制限がある\[1\]。
+写真のように、空気感を再現した非常にリアルなグラフィックを作成することが可能である。Terragenは、v.0.9.43以前の旧バージョンであるTerragen ClassicとTerragen 2以降の新バージョンの2種類に大別できる。 新バージョンではプレビュー画面でリアルタイム[レンダリングが行われたり](../Page/レンダリング_\(コンピュータ\).md "wikilink")、各種パラメタ等を[ノード](https://ja.wikipedia.org/wiki/ノード "wikilink")を用いて設定するなど、[ユーザインターフェース](https://ja.wikipedia.org/wiki/ユーザインターフェース "wikilink")や設定方法等が大きく異なる。 Terragen 4は商用利用以外では無料となっているが、無料版にはレンダリングサイズなどの以下のような制限がある\[1\]。
 
   - レンダリングサイズ　最大：1280×900
   - Render Detail　最大：0.6
@@ -18,7 +18,7 @@
 
 商用版はフル機能のProfessional版が699ドル、一部制限のあるCreative版が349ドルで販売されている。またオブジェクトの素材データなどを同梱したパッケージも存在する。
 
-Terragenの基礎技術は[デジタルドメイン](https://ja.wikipedia.org/wiki/デジタルドメイン "wikilink")において研究されており、コマーシャル、テレビゲームまたは映画で何度も使用されている。映画では[タイムマシン](https://ja.wikipedia.org/wiki/タイムマシン "wikilink")(2002年)、[ネメシス/S.T.X](https://ja.wikipedia.org/wiki/ネメシス/S.T.X "wikilink")(2002年)、[ステルス](../Page/ステルス.md "wikilink")(2004年)、[硫黄島からの手紙](https://ja.wikipedia.org/wiki/硫黄島からの手紙 "wikilink")(2006年)、[デイ・アフター・トゥモロー](https://ja.wikipedia.org/wiki/デイ・アフター・トゥモロー "wikilink")、[スター・ウォーズシリーズ](../Page/スター・ウォーズシリーズ.md "wikilink")、[怪盗グルーのミニオン大脱走](https://ja.wikipedia.org/wiki/怪盗グルーのミニオン大脱走 "wikilink")など、実際の業務CG制作に使用されている\[2\]。
+Terragenの基礎技術は[デジタルドメイン](https://ja.wikipedia.org/wiki/デジタルドメイン "wikilink")において研究されており、コマーシャル、テレビゲームまたは映画で何度も使用されている。映画では[タイムマシン](https://ja.wikipedia.org/wiki/タイムマシン "wikilink")(2002年)、[ネメシス/S.T.X](https://ja.wikipedia.org/wiki/ネメシス/S.T.X "wikilink")(2002年)、[ステルス](../Page/ステルス.md "wikilink")(2004年)、[硫黄島からの手紙](../Page/硫黄島からの手紙.md "wikilink")(2006年)、[デイ・アフター・トゥモロー](../Page/デイ・アフター・トゥモロー.md "wikilink")、[スター・ウォーズシリーズ](../Page/スター・ウォーズシリーズ.md "wikilink")、[怪盗グルーのミニオン大脱走](https://ja.wikipedia.org/wiki/怪盗グルーのミニオン大脱走 "wikilink")など、実際の業務CG制作に使用されている\[2\]。
 
 ## Terragen のレンダリング要素
 
@@ -50,11 +50,11 @@ Terragenの基礎技術は[デジタルドメイン](https://ja.wikipedia.org/wi
 
 ### カメラ
 
-レンダリングする際のカメラの画角や位置などを設定することができる。[魚眼レンズ](https://ja.wikipedia.org/wiki/魚眼レンズ "wikilink")などの効果や[ぼかし](https://ja.wikipedia.org/wiki/ぼかし "wikilink")、露光量などを調整できる。
+レンダリングする際のカメラの画角や位置などを設定することができる。[魚眼レンズ](../Page/魚眼レンズ.md "wikilink")などの効果や[ぼかし](https://ja.wikipedia.org/wiki/ぼかし "wikilink")、露光量などを調整できる。
 
 ### レンダリング
 
-レンダリングする際の解像度などを設定することができる。地形や雲などの要素別にレンダリングの可否を設定できる他、[アンチエイリアス](https://ja.wikipedia.org/wiki/アンチエイリアス "wikilink")の有無などを設定できる。
+レンダリングする際の解像度などを設定することができる。地形や雲などの要素別にレンダリングの可否を設定できる他、[アンチエイリアス](../Page/アンチエイリアス.md "wikilink")の有無などを設定できる。
 
 ## Terragen 4
 
@@ -110,8 +110,8 @@ Mac OS X 10.4 以降
 
 ## バージョンの変遷
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月7日 Terragen Ver.0.9.43 をリリース。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") Terragen 2 を発表。
+  - [2005年](../Page/2005年.md "wikilink")9月7日 Terragen Ver.0.9.43 をリリース。
+  - [2006年](../Page/2006年.md "wikilink") Terragen 2 を発表。
   - 2006年12月15日 Terragen 2 Technology Preview(Build 1.8.64.0) をリリース。
   - [2007年](../Page/2007年.md "wikilink")3月16日 Terragen 2 Technology Preview アップデート。 (Build 1.8.76.0)
   - 2007年9月28日 Terragen 2 Technology Preview アップデート。 (Build 1.9.04.1)
@@ -148,7 +148,7 @@ Mac OS X 10.4 以降
 ## 関連項目
 
   - [3DCGソフトウェア](https://ja.wikipedia.org/wiki/3DCGソフトウェア "wikilink")
-  - [レンダリング (コンピュータ)](https://ja.wikipedia.org/wiki/レンダリング_\(コンピュータ\) "wikilink")
+  - [レンダリング (コンピュータ)](../Page/レンダリング_\(コンピュータ\).md "wikilink")
   - [フラクタル地形](../Page/フラクタル地形.md "wikilink")
 
 ## 脚注

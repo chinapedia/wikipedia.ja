@@ -18,11 +18,11 @@
 4.  **素敵なSUNNY DAY**
       - 作詞：山本麻里安、作曲・編曲：工藤隆
 5.  **大好きなともだち**
-      - 作詞・作曲：[大津美紀](https://ja.wikipedia.org/wiki/大津美紀 "wikilink")、編曲：工藤隆
+      - 作詞・作曲：[大津美紀](../Page/大津美紀.md "wikilink")、編曲：工藤隆
 6.  **Kolla Pa\!**
-      - 作詞：[大地丙太郎](../Page/大地丙太郎.md "wikilink")、作曲：[河合夕子](../Page/河合夕子.md "wikilink")、編曲：[神津裕之](https://ja.wikipedia.org/wiki/神津裕之 "wikilink")
+      - 作詞：[大地丙太郎](../Page/大地丙太郎.md "wikilink")、作曲：[河合夕子](../Page/河合夕子.md "wikilink")、編曲：[神津裕之](../Page/神津裕之.md "wikilink")
 7.  **Snow flower**
-      - 作詞：[飯塚麻純](https://ja.wikipedia.org/wiki/飯塚麻純 "wikilink")、作曲・編曲：[光宗信吉](https://ja.wikipedia.org/wiki/光宗信吉 "wikilink")
+      - 作詞：[飯塚麻純](https://ja.wikipedia.org/wiki/飯塚麻純 "wikilink")、作曲・編曲：[光宗信吉](../Page/光宗信吉.md "wikilink")
 8.  **TOOTH FAIRY**
       - 作詞・作曲：[こなかりゆ](https://ja.wikipedia.org/wiki/こなかりゆ "wikilink")、編曲：工藤隆
 9.  **ずっと続いてく…**

@@ -1,25 +1,25 @@
 > この記事は[MASTER\'D](https://ja.wikipedia.org/wiki/MASTER\'D)から翻訳されています。
 
 
-『**MASTER'D**』（マスタード）は、[2007年](../Page/2007年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")に発売された、[少年カミカゼ](https://ja.wikipedia.org/wiki/少年カミカゼ "wikilink")のメジャー2枚目の[アルバム](../Page/アルバム.md "wikilink")。
+『**MASTER'D**』（マスタード）は、[2007年](../Page/2007年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")に発売された、[少年カミカゼ](../Page/少年カミカゼ.md "wikilink")のメジャー2枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 
-  - アルバムとしては、前作『[Stukizd\!\!\!](https://ja.wikipedia.org/wiki/Stukizd!!! "wikilink")』からおよそ1年3か月ぶり。
+  - アルバムとしては、前作『[Stukizd\!\!\!](../Page/Stukizd!!!.md "wikilink")』からおよそ1年3か月ぶり。
   - 初回限定盤は、「少年カミカゼを"MASTER"\!\!」[SaCo](https://ja.wikipedia.org/wiki/SaCo "wikilink")ちゃんお手製・アルバム全曲コードブックと「少年カミカゼと"LIVE"\!\!」LIVE DVD「SAKURA EXPO.07-TOKYO SUMMIT-LIVE DOCUMENT」（ライブダイジェストDVD）付きで、また「少年カミカゼを"DRINK"\!\!」と題してワンマンライブ用少年カミカゼ・オリジナルドリンクチケット交換券が封入されている。
 
 ## 収録曲
 
-1.  **[L.A.U.G.H.I.N'](https://ja.wikipedia.org/wiki/L.A.U.G.H.I.N' "wikilink") Xchng midnightPumpkin**
+1.  **[L.A.U.G.H.I.N'](../Page/L.A.U.G.H.I.N'.md "wikilink") Xchng midnightPumpkin**
       -
-        6thシングル。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[スキバラ](https://ja.wikipedia.org/wiki/スキバラ "wikilink")』2006年11月度エンディングテーマ。
+        6thシングル。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[スキバラ](../Page/スキバラ.md "wikilink")』2006年11月度エンディングテーマ。
         [VIVRE](../Page/ビブレ.md "wikilink")「ビブレ情熱バーゲン2007年冬」CMソング。
 2.  **[WINDER 〜ボクハココニイル〜](https://ja.wikipedia.org/wiki/WINDER_〜ボクハココニイル〜 "wikilink")**
       -
-        8thシングル。テレビ東京系アニメ『[Over Drive](https://ja.wikipedia.org/wiki/Over_Drive_\(漫画\) "wikilink")』オープニングテーマ。
+        8thシングル。テレビ東京系アニメ『[Over Drive](../Page/Over_Drive_\(漫画\).md "wikilink")』オープニングテーマ。
 3.  **LOVE MADE 100%**
       -
-        [伊藤園](https://ja.wikipedia.org/wiki/伊藤園 "wikilink")「[冷梅](https://ja.wikipedia.org/wiki/冷梅 "wikilink")」CMソング。
+        [伊藤園](../Page/伊藤園.md "wikilink")「[冷梅](https://ja.wikipedia.org/wiki/冷梅 "wikilink")」CMソング。
         アルバム曲としては唯一のCMタイアップ曲。
         フラットつきのメジャーコードが3割ほど使用されている。
 4.  **[Altair 〜キミと出逢えたこと〜](../Page/Altair_〜キミと出逢えたこと〜.md "wikilink")**
@@ -39,7 +39,7 @@
         VIVRE「ビブレ情熱バーゲン2006年夏」CMソング。
 8.  **『君に逢いに行くときの歌2-プチゲンカ編-』**
       -
-        前アルバム『[Stukizd\!\!\!](https://ja.wikipedia.org/wiki/Stukizd!!! "wikilink")』収録の「君に逢いに行くときの歌」の続編。通称（公称）、「キミアイ2」。
+        前アルバム『[Stukizd\!\!\!](../Page/Stukizd!!!.md "wikilink")』収録の「君に逢いに行くときの歌」の続編。通称（公称）、「キミアイ2」。
         タイトル通り、前曲ではラブラブだったカップルのちょっとしたすれ違いの日々を歌っている。
         なお今回は和教のハーモニカパートはないが、南つかさのキーボードパートは継続してある。
         曲の最後に「続く\!?」とあるが、最後のオリジナルアルバムである「[NO](https://ja.wikipedia.org/wiki/NO_\(少年カミカゼのアルバム\) "wikilink")」にパート3は入っていなかった。
@@ -62,7 +62,7 @@
         歌詞カードではCメロ後半が?マークで囲まれている。
 14. **ヨコシマデイズ**
       -
-        [サンケイリビング新聞社](https://ja.wikipedia.org/wiki/サンケイリビング新聞社 "wikilink") ブライダルマガジン『レイ ウエディング』CMソング。
+        [サンケイリビング新聞社](../Page/サンケイリビング新聞社.md "wikilink") ブライダルマガジン『レイ ウエディング』CMソング。
 15. **Go home No home...**
       -
         少年カミカゼ初のKENTARO作曲の曲。前アルバム『Stukizd\!\!\!』に続き、最後の曲はバラードである（正確には『Stukizd\!\!\!』には隠しトラックが存在する）。
@@ -70,7 +70,7 @@
 
 <!-- end list -->
 
-  - [クレジット](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")
+  - [クレジット](../Page/クレジットタイトル.md "wikilink")
       -
         作詞:和教（M1、M2、M4〜8、M11〜M15）、SaCo＋和教（M3、M10）、SaCo＋和教＋SHUN（M9）
         作曲:和教（M1〜M8、M10、M12〜M14）、少年カミカゼ＋Low-Cuts（M9）、南つかさ（M11）、KENTARO（M15）

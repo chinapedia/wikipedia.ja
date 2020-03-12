@@ -7,13 +7,13 @@
 
 <u>・2015/11/15にサービス終了</u>
 
-[P2P](https://ja.wikipedia.org/wiki/P2P "wikilink")テクノロジーを利用した、**オンラインファイルストレージソフト**。 開発コードネーム**Kangoo**として開発が開始され、2007年に登場した。 クライアントはJava製であり、現在、[Windowsと](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")対応版が存在する。
+[P2P](https://ja.wikipedia.org/wiki/P2P "wikilink")テクノロジーを利用した、**オンラインファイルストレージソフト**。 開発コードネーム**Kangoo**として開発が開始され、2007年に登場した。 クライアントはJava製であり、現在、[Windowsと](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")対応版が存在する。
 
 ## 特徴
 
 今までの多くのファイルストレージサービスは、ユーザーがサーバにデータをアップロードし、必要なときにダウンロードや、他人とファイルの共有などをするサービスであったが、**Wuala**ではファイルの保存場所としてサーバを使用しないのが特徴である。 また、オンラインストレージならではのファイル共有も比較的簡単にできるようになっている。
 
-[BitTorrent](https://ja.wikipedia.org/wiki/BitTorrent "wikilink")や他の[P2P](https://ja.wikipedia.org/wiki/P2P "wikilink")テクノロジーを使用した[ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")と同じく、クライアントソフトを使用しているユーザーにファイルを分散させ、大規模サーバを使用せずに大容量の仮想的なストレージを実現している。
+[BitTorrent](../Page/BitTorrent.md "wikilink")や他の[P2P](https://ja.wikipedia.org/wiki/P2P "wikilink")テクノロジーを使用した[ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")と同じく、クライアントソフトを使用しているユーザーにファイルを分散させ、大規模サーバを使用せずに大容量の仮想的なストレージを実現している。
 
 ## ストレージ容量
 

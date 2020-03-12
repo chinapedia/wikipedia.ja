@@ -5,9 +5,9 @@
 
 ## 経歴
 
-[2003年](../Page/2003年.md "wikilink")に[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")に入学して[学生プロレス](https://ja.wikipedia.org/wiki/学生プロレス "wikilink")のリングにて**童 As Infini貞**のリングネームで活躍する。
+[2003年](../Page/2003年.md "wikilink")に[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")に入学して[学生プロレス](../Page/学生プロレス.md "wikilink")のリングにて**童 As Infini貞**のリングネームで活躍する。
 
-[2007年](../Page/2007年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に、東京大学の学園祭「五月祭」にて、学生プロレスへの参戦を志願していた[DDTプロレスリング](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")所属の[飯伏幸太](https://ja.wikipedia.org/wiki/飯伏幸太 "wikilink")と対戦。「史上初の学生プロレスラー vs 職業プロレスラー」として注目を集める。
+[2007年](../Page/2007年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に、東京大学の学園祭「五月祭」にて、学生プロレスへの参戦を志願していた[DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")所属の[飯伏幸太](../Page/飯伏幸太.md "wikilink")と対戦。「史上初の学生プロレスラー vs 職業プロレスラー」として注目を集める。
 
 その後、DDT夏の風物詩「ビアガーデンプロレス」の飯伏幸太プロデュースデーへの参戦を経て、2007年[9月12日](../Page/9月12日.md "wikilink")のDDT新木場大会にて公開記者会見を行い、[ユニオンプロレス](../Page/ユニオンプロレス.md "wikilink")への入団を発表。同9月26日に[趙雲子龍を相手にデビューを果たした](../Page/趙雲子龍_\(プロレスラー\).md "wikilink")。
 

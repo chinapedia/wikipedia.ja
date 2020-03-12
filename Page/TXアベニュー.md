@@ -7,10 +7,10 @@
 
 ### TXアベニュー八潮
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月24日](../Page/8月24日.md "wikilink")、TXの駅開業と同時にオープン。
+[2005年](../Page/2005年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")、TXの駅開業と同時にオープン。
 
   - ジェムウォッチ TX八潮駅店
-  - [大江戸そば](https://ja.wikipedia.org/wiki/日本レストランエンタプライズ "wikilink") 八潮店
+  - [大江戸そば](../Page/日本レストランエンタプライズ.md "wikilink") 八潮店
 
 <!-- end list -->
 
@@ -29,23 +29,23 @@
   - [アコレ](https://ja.wikipedia.org/wiki/イオンリテール "wikilink") 八潮TX店
   - ボディーワークショップ ヘルフェン 八潮駅店
 
-なお、[TULLY\`S COFFEEとARK](https://ja.wikipedia.org/wiki/タリーズコーヒー "wikilink")（書店）も出店していたが、[2007年](../Page/2007年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")にて閉店となっている。
+なお、[TULLY\`S COFFEEとARK](../Page/タリーズコーヒー.md "wikilink")（書店）も出店していたが、[2007年](../Page/2007年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")にて閉店となっている。
 
 ### TXアベニュー守谷
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月15日](../Page/9月15日.md "wikilink")開業。
+[2005年](../Page/2005年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")開業。
 
 #### 1F
 
   - [三井住友銀行](../Page/三井住友銀行.md "wikilink") 守谷支店
-  - [タリーズコーヒー](https://ja.wikipedia.org/wiki/タリーズコーヒー "wikilink") TX守谷店
+  - [タリーズコーヒー](../Page/タリーズコーヒー.md "wikilink") TX守谷店
   - クローバーカット TX守谷店
   - 守谷すたいる
 
 #### 2F
 
-  - [大江戸そば](https://ja.wikipedia.org/wiki/日本レストランエンタプライズ "wikilink") 守谷店
-  - [築地銀だこ](https://ja.wikipedia.org/wiki/築地銀だこ "wikilink") TXアベニュー守谷店
+  - [大江戸そば](../Page/日本レストランエンタプライズ.md "wikilink") 守谷店
+  - [築地銀だこ](../Page/築地銀だこ.md "wikilink") TXアベニュー守谷店
   - 博多らーめん四神 守谷店
   - [吉野家](../Page/吉野家.md "wikilink") つくばエクスプレス守谷店
   - [ヴィ・ド・フランス](https://ja.wikipedia.org/wiki/ヴィ・ド・フランス "wikilink") 守谷店
@@ -54,13 +54,13 @@
 
 ### TXアベニュー柏の葉
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月](../Page/8月.md "wikilink")より順次開業。本店舗に限り[三井不動産](../Page/三井不動産.md "wikilink")との共同事業の形で運営される。
+[2006年](../Page/2006年.md "wikilink")[8月](../Page/8月.md "wikilink")より順次開業。本店舗に限り[三井不動産](../Page/三井不動産.md "wikilink")との共同事業の形で運営される。
 
   - [千葉銀行](../Page/千葉銀行.md "wikilink") 柏の葉キャンパス支店
   - [マクドナルド](../Page/マクドナルド.md "wikilink") 柏の葉キャンパス駅前店
   - トラットリア・ボン・ジョルーノ（[パスタ](../Page/パスタ.md "wikilink")専門店）【閉店】
   - カスミック 柏の葉キャンパス店
-  - [オリックスレンタカー](https://ja.wikipedia.org/wiki/オリックスレンタカー "wikilink") TX柏の葉キャンパス駅前カウンター
+  - [オリックスレンタカー](../Page/オリックスレンタカー.md "wikilink") TX柏の葉キャンパス駅前カウンター
   - 柏の葉キャンパス郵便局（2013年8月1日開局）
 
 ### TXグランドアベニューおおたかの森
@@ -73,7 +73,7 @@
   - [auショップ](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink") おおたかの森店
   - [りそな銀行](../Page/りそな銀行.md "wikilink")りそなパーソナルステーション 流山おおたかの森
   - 歌うんだ村 流山おおたかの森店
-  - [庄や](https://ja.wikipedia.org/wiki/大庄 "wikilink") 流山おおたかの森店
+  - [庄や](../Page/大庄.md "wikilink") 流山おおたかの森店
 
 #### 2F
 

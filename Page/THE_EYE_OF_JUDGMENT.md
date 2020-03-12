@@ -5,11 +5,11 @@
 
 ## 概要
 
-[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")と対戦型の[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")を融合させたゲームで、[2007年](../Page/2007年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に第1弾となる『**THE EYE OF JUDGMENT BIOLITH REBELLION 〜機神の叛乱〜SET.1**』が発売された。ゲームで使用できる[トレーディングカード](../Page/トレーディングカード.md "wikilink")は日本ではSET.2までは[タカラトミー](https://ja.wikipedia.org/wiki/タカラトミー "wikilink")、SET.3は[アッパーデック](https://ja.wikipedia.org/wiki/アッパーデック "wikilink")より発売されている。[オンライン](../Page/オンライン.md "wikilink")対戦にも対応しており、世界中のプレイヤーともプレイが可能。またイベント、ゲーム雑誌等でのカード配布も行われている。
+[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")と対戦型の[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")を融合させたゲームで、[2007年](../Page/2007年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に第1弾となる『**THE EYE OF JUDGMENT BIOLITH REBELLION 〜機神の叛乱〜SET.1**』が発売された。ゲームで使用できる[トレーディングカード](../Page/トレーディングカード.md "wikilink")は日本ではSET.2までは[タカラトミー](../Page/タカラトミー.md "wikilink")、SET.3は[アッパーデック](https://ja.wikipedia.org/wiki/アッパーデック "wikilink")より発売されている。[オンライン](../Page/オンライン.md "wikilink")対戦にも対応しており、世界中のプレイヤーともプレイが可能。またイベント、ゲーム雑誌等でのカード配布も行われている。
 
 しかし、PS3のカードはSET1は現在(2009年8月2日)で販売店舗が殆ど無く、メーカー自体も絶版でまず手に入らない。 欲しくば通販しか無いと思われる。SET2も現在はほぼ絶版。SET3はネット販売がされている模様。
 
-ゲームデザインは『[マジック:ザ・ギャザリング](../Page/マジック:ザ・ギャザリング.md "wikilink")』、『[デュエル・マスターズ](https://ja.wikipedia.org/wiki/デュエル・マスターズ "wikilink")』などのカードゲームを製作した[ウィザーズ・オブ・ザ・コースト](https://ja.wikipedia.org/wiki/ウィザーズ・オブ・ザ・コースト "wikilink")が行った。
+ゲームデザインは『[マジック:ザ・ギャザリング](../Page/マジック:ザ・ギャザリング.md "wikilink")』、『[デュエル・マスターズ](../Page/デュエル・マスターズ.md "wikilink")』などのカードゲームを製作した[ウィザーズ・オブ・ザ・コースト](../Page/ウィザーズ・オブ・ザ・コースト.md "wikilink")が行った。
 
 [拡張現実](../Page/拡張現実.md "wikilink")を本格的に取り入れたゲームであり、使用するカードには「サイバーコード」と呼ばれる2次元[バーコード](../Page/バーコード.md "wikilink")が印刷されており、バトルフィールドとなるプレイマットの上にPS3と接続した「PLAYSTATION Eye」（カメラ）を設置することでテレビ画面に映ったカードの実写映像上にPS3が描写する3Dキャラクターが出現する。
 
@@ -17,11 +17,11 @@
 
 なお当初[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")中に予定されていたコンプリートディスクは、同年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")に発売中止が発表された\[2\]。また、オンライン対戦サービスも2010年9月30日をもって終了した。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月4日にはSCEより、続編となる[PlayStation Portable用ソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『**THE EYE OF JUDGMENT 神託のウィザード**』が発売された。『BIOLITH REBELLION 〜機神の叛乱〜』と異なり、本物のカードではなくゲーム中で入手するデジタルデータのカードで戦う。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月4日にはSCEより、続編となる[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")『**THE EYE OF JUDGMENT 神託のウィザード**』が発売された。『BIOLITH REBELLION 〜機神の叛乱〜』と異なり、本物のカードではなくゲーム中で入手するデジタルデータのカードで戦う。
 
 ## 音楽
 
-  - 主題歌：[STONE SOUR](https://ja.wikipedia.org/wiki/ストーン・サワー "wikilink") Reborn/Cardiff
+  - 主題歌：[STONE SOUR](../Page/ストーン・サワー.md "wikilink") Reborn/Cardiff
   - BGM：[井上日徳](https://ja.wikipedia.org/wiki/井上日徳 "wikilink") (Dogschool)
 
 ## BIOLITH REBELLION 〜機神の叛乱〜
@@ -67,7 +67,7 @@
 
 ## 神託のウィザード
 
-『**THE EYE OF JUDGMENT 神託のウィザード**』（日本語タイトル：**アイ・オブ・ジャッジメント しんたくのウィザード** ）とは、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")が2010年3月4日に発売した[PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")（PSP）用ゲームソフトである。 PS3版ではカードリーダーを用いて実際のカードを読み込ませ使用するが、こちらはゲーム内でカードを収集していき、自らのデッキを構築していく。 登場カードはクリーチャーカード274枚、スペルカード68枚の、計342枚。
+『**THE EYE OF JUDGMENT 神託のウィザード**』（日本語タイトル：**アイ・オブ・ジャッジメント しんたくのウィザード** ）とは、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")が2010年3月4日に発売した[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")（PSP）用ゲームソフトである。 PS3版ではカードリーダーを用いて実際のカードを読み込ませ使用するが、こちらはゲーム内でカードを収集していき、自らのデッキを構築していく。 登場カードはクリーチャーカード274枚、スペルカード68枚の、計342枚。
 
 全20チャプターからなるストーリーモードが実装され、1人用プレイの充実が図られている。 このストーリーモードやフリープレイ等を行う事で結果に応じたカードを取得できる他、同時にゲーム内で使用できる通貨も獲得でき、ゲーム内のカードショップでカードを購入する事も出来る。
 
@@ -196,7 +196,7 @@
 
 [Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:トレーディングカードゲーム](https://ja.wikipedia.org/wiki/Category:トレーディングカードゲーム "wikilink") [Category:ソニー・コンピュータエンタテインメントのゲームソフト](https://ja.wikipedia.org/wiki/Category:ソニー・コンピュータエンタテインメントのゲームソフト "wikilink") [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:タカラトミーのカードゲーム](https://ja.wikipedia.org/wiki/Category:タカラトミーのカードゲーム "wikilink") [Category:サービスを終了したオンラインゲーム](https://ja.wikipedia.org/wiki/Category:サービスを終了したオンラインゲーム "wikilink")
 
-1.  [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")発売の[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト『[オシャレ魔女♥ラブandベリー〜DSコレクション〜](https://ja.wikipedia.org/wiki/オシャレ魔女_ラブandベリー "wikilink")』は付属のカードリーダーでアーケード版のカードを使用できるが、あくまでも主体はアーケード版である。
+1.  [2006年](../Page/2006年.md "wikilink")発売の[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト『[オシャレ魔女♥ラブandベリー〜DSコレクション〜](../Page/オシャレ魔女_ラブandベリー.md "wikilink")』は付属のカードリーダーでアーケード版のカードを使用できるが、あくまでも主体はアーケード版である。
 2.  [コンプリートディスク発売中止のお知らせ](http://www.jp.playstation.com/scej/title/eoj/cd_info.html)
 3.  プレイする為にはSET.1のゲームディスクが必要。ライセンスを購入していないユーザーも、オンラインアップデートによりライセンス購入ユーザーとの対戦は行えるようになっている。
 4.

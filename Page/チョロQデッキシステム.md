@@ -1,7 +1,7 @@
 > この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
 
 
-**チョロQデッキシステム**（チョロキューデッキシステム）は[タカラトミー](https://ja.wikipedia.org/wiki/タカラトミー "wikilink")より[2007年](../Page/2007年.md "wikilink")[6月](../Page/6月.md "wikilink")から発売されている[チョロQ](../Page/チョロQ.md "wikilink")シリーズの1つである。略称は『チョロデキ』、『チョロQDS』、『デッキシステム』
+**チョロQデッキシステム**（チョロキューデッキシステム）は[タカラトミー](../Page/タカラトミー.md "wikilink")より[2007年](../Page/2007年.md "wikilink")[6月](../Page/6月.md "wikilink")から発売されている[チョロQ](../Page/チョロQ.md "wikilink")シリーズの1つである。略称は『チョロデキ』、『チョロQDS』、『デッキシステム』
 
 ## 概要
 
@@ -472,20 +472,20 @@
 
 ## アニメ
 
-「**チョロQデッキシステム Qファイターズ\!**」のタイトルで、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - [7月11日](../Page/7月11日.md "wikilink")の5日間に『[おはスタ](https://ja.wikipedia.org/wiki/おはスタ "wikilink")』の第1部にて、このホビーを元にしたアニメが期間限定で放送された。
+「**チョロQデッキシステム Qファイターズ\!**」のタイトルで、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - [7月11日](../Page/7月11日.md "wikilink")の5日間に『[おはスタ](../Page/おはスタ.md "wikilink")』の第1部にて、このホビーを元にしたアニメが期間限定で放送された。
 
 ### 概要
 
-チョロQがアニメ化されるのは1983年7月の劇場映画で公開した『[チョロQダグラム](https://ja.wikipedia.org/wiki/太陽の牙ダグラム "wikilink")』以来であり、チョロQの本格的なアニメになるのは初めてであると同時、5日間の期間限定であるがTVアニメとして放送されるのは初めてである。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月11日](../Page/8月11日.md "wikilink")よりアンコール放送実施。キャラクターやチョロQなどのグラフィックは全て[3DCG](https://ja.wikipedia.org/wiki/3DCG "wikilink")になっている。
+チョロQがアニメ化されるのは1983年7月の劇場映画で公開した『[チョロQダグラム](../Page/太陽の牙ダグラム.md "wikilink")』以来であり、チョロQの本格的なアニメになるのは初めてであると同時、5日間の期間限定であるがTVアニメとして放送されるのは初めてである。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月11日](../Page/8月11日.md "wikilink")よりアンコール放送実施。キャラクターやチョロQなどのグラフィックは全て[3DCG](https://ja.wikipedia.org/wiki/3DCG "wikilink")になっている。
 
 ### キャスト
 
   - 仲間キュウ太 -[西優子](../Page/西優子.md "wikilink")（マシーン：ファイアーホーク→ダークシャイニング）
   - ロッキー・マロン - [川澄綾子](../Page/川澄綾子.md "wikilink")（マシーン：シャイニング・タイガー（金色））
-  - 愛野チョコ - [生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")（マシーン：シャイニング・タイガー（オレンジ色））
+  - 愛野チョコ - [生天目仁美](../Page/生天目仁美.md "wikilink")（マシーン：シャイニング・タイガー（オレンジ色））
   - 蛾狼コドク - [相馬幸人](../Page/相馬幸人.md "wikilink")（マシーン：バイト・リバイアサン 0）
   - 子ども - [藤葉愛香](https://ja.wikipedia.org/wiki/藤葉愛香 "wikilink")、[寺谷美香](../Page/寺谷美香.md "wikilink")、[原島梢](https://ja.wikipedia.org/wiki/原島梢 "wikilink")
-  - ナレーション - [土田大](https://ja.wikipedia.org/wiki/土田大 "wikilink")
+  - ナレーション - [土田大](../Page/土田大.md "wikilink")
 
 ### スタッフ
 

@@ -1,7 +1,7 @@
 > この記事は[Write-combining](https://ja.wikipedia.org/wiki/Write-combining)から翻訳されています。
 
 
-**Write-combining** （WC）とは、[バス技術のひとつである](../Page/バス_\(コンピュータ\).md "wikilink")。バスを流れるデータは、結合されて[バッファ](https://ja.wikipedia.org/wiki/バッファ "wikilink")（**write combine buffer**（WCB））に一時的に保存される。[データ](../Page/データ.md "wikilink")は、単一のビットや小さなまとまりとしてすぐに書き込む代わりに、後で[バーストモードでまとめて書き込まれる](https://ja.wikipedia.org/wiki/バーストモード_（コンピュータ） "wikilink")。
+**Write-combining** （WC）とは、[バス技術のひとつである](../Page/バス_\(コンピュータ\).md "wikilink")。バスを流れるデータは、結合されて[バッファ](../Page/バッファ.md "wikilink")（**write combine buffer**（WCB））に一時的に保存される。[データ](../Page/データ.md "wikilink")は、単一のビットや小さなまとまりとしてすぐに書き込む代わりに、後で[バーストモードでまとめて書き込まれる](https://ja.wikipedia.org/wiki/バーストモード_（コンピュータ） "wikilink")。
 
 ## 概要
 

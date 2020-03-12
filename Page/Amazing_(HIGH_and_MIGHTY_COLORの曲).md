@@ -5,7 +5,7 @@
 
 ## 解説
 
-元々発表当初、全曲ノン[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")の予定だった。初回生産限定版には、「Spice Live Circuit 007」をメンバーが撮影した映像が収録されている[DVD](../Page/DVD.md "wikilink")が付く。
+元々発表当初、全曲ノン[タイアップ](../Page/タイアップ.md "wikilink")の予定だった。初回生産限定版には、「Spice Live Circuit 007」をメンバーが撮影した映像が収録されている[DVD](../Page/DVD.md "wikilink")が付く。
 
 ## 収録曲
 
@@ -21,18 +21,18 @@
     <!-- end list -->
       -
         仮タイトルは「SIZE」。
-        4thアルバム『[ROCK PIT](https://ja.wikipedia.org/wiki/ROCK_PIT "wikilink")』の初回限定版のDVDに、レコーディングのシーンが収録されている。
+        4thアルバム『[ROCK PIT](../Page/ROCK_PIT.md "wikilink")』の初回限定版のDVDに、レコーディングのシーンが収録されている。
 3.  Parade
       - 作詞:ユウスケ　作曲･編曲:HIGH and MIGHTY COLOR
     <!-- end list -->
       -
-        [ヤマザキナビスコ](https://ja.wikipedia.org/wiki/ヤマザキビスケット "wikilink")「ビッツサンド」CMソング。
+        [ヤマザキナビスコ](../Page/ヤマザキビスケット.md "wikilink")「ビッツサンド」CMソング。
         仮タイトルは「Parade parade」。
 4.  Amazing(Instrumental)
 
 ## 収録アルバム
 
-  - [ROCK PIT](https://ja.wikipedia.org/wiki/ROCK_PIT "wikilink") (\#1)
+  - [ROCK PIT](../Page/ROCK_PIT.md "wikilink") (\#1)
   - [BEEEEEEST](https://ja.wikipedia.org/wiki/BEEEEEEST "wikilink") (\#1)
 
 [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:エスエムイーレコーズのシングル](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのシングル "wikilink") [Category:HIGH_and_MIGHTY_COLORの楽曲](https://ja.wikipedia.org/wiki/Category:HIGH_and_MIGHTY_COLORの楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

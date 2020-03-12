@@ -1,7 +1,7 @@
 > この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
 
 
-**栃原テレビ・FM中継局**（とちはらてれび・エフエムちゅうけいきょく）は、[奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")[吉野郡](../Page/吉野郡.md "wikilink")[下市町](https://ja.wikipedia.org/wiki/下市町 "wikilink")にある[中継局](../Page/中継局.md "wikilink")である。
+**栃原テレビ・FM中継局**（とちはらてれび・エフエムちゅうけいきょく）は、[奈良県](../Page/奈良県.md "wikilink")[吉野郡](../Page/吉野郡.md "wikilink")[下市町](../Page/下市町.md "wikilink")にある[中継局](../Page/中継局.md "wikilink")である。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 <!-- end list -->
 
   - 当中継局が開局した影響で、奈良県内でも受信可能だった[サンテレビと](../Page/サンテレビジョン.md "wikilink")[NHK神戸放送局](../Page/NHK神戸放送局.md "wikilink")の地上デジタル波が、一時混信を受けるようになった（後述\[1\]）。このため、[近鉄ケーブルネットワーク](../Page/近鉄ケーブルネットワーク.md "wikilink")では、一時サンテレビの地上デジタル放送が配信できなかったが、2011年7月4日～2016年6月30日までの期間限定で再送信が行なわれている。
-  - 逆に奈良県内の一部地域で、当中継局を受信して[NHK奈良放送局](../Page/NHK奈良放送局.md "wikilink")と[奈良テレビ放送](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")の地上デジタル放送を視聴する場合、両局と同一物理チャンネルのサンテレビとNHK神戸放送局が混信すること\[2\]、当中継局の広域民放と[NHK大阪](../Page/NHK大阪放送局.md "wikilink")[教育も](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")[生駒山上の親局と](../Page/生駒山テレビ・FM送信所.md "wikilink")[同一周波数中継による混信が発生しているため](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送#.E5.90.8C.E4.B8.80.E5.91.A8.E6.B3.A2.E6.95.B0.E4.B8.AD.E7.B6.99.EF.BC.88SFN.EF.BC.89 "wikilink")、[2011年](../Page/2011年.md "wikilink")度に各チャンネルが変更されることになった。\[3\]\[4\]そのため、デジタル混信が生じている地域では、送信チャンネルの変更が完了するまでの期間中、地デジ難視対策衛星放送対象リスト（ホワイトリスト）に指定され、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")を除く各局が受信可能対象になっていたが、2012年1月31日をもって旧チャンネルが完全停波されたため、一定の猶予期間を経てホワイトリストから外される。
+  - 逆に奈良県内の一部地域で、当中継局を受信して[NHK奈良放送局](../Page/NHK奈良放送局.md "wikilink")と[奈良テレビ放送](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")の地上デジタル放送を視聴する場合、両局と同一物理チャンネルのサンテレビとNHK神戸放送局が混信すること\[2\]、当中継局の広域民放と[NHK大阪](../Page/NHK大阪放送局.md "wikilink")[教育も](../Page/NHK教育テレビジョン.md "wikilink")[生駒山上の親局と](../Page/生駒山テレビ・FM送信所.md "wikilink")[同一周波数中継による混信が発生しているため](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送#.E5.90.8C.E4.B8.80.E5.91.A8.E6.B3.A2.E6.95.B0.E4.B8.AD.E7.B6.99.EF.BC.88SFN.EF.BC.89 "wikilink")、[2011年](../Page/2011年.md "wikilink")度に各チャンネルが変更されることになった。\[3\]\[4\]そのため、デジタル混信が生じている地域では、送信チャンネルの変更が完了するまでの期間中、地デジ難視対策衛星放送対象リスト（ホワイトリスト）に指定され、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")を除く各局が受信可能対象になっていたが、2012年1月31日をもって旧チャンネルが完全停波されたため、一定の猶予期間を経てホワイトリストから外される。
 
 ## 地上デジタルテレビジョン放送送信設備
 
@@ -49,7 +49,7 @@
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p><a href="../Page/NHK奈良放送局.md" title="wikilink">NHK奈良</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<td><p><a href="../Page/NHK奈良放送局.md" title="wikilink">NHK奈良</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td></td>
 <td><p>52</p></td>
 <td><p>10W</p></td>
@@ -59,7 +59,7 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><a href="../Page/NHK大阪放送局.md" title="wikilink">NHK大阪</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+<td><p><a href="../Page/NHK大阪放送局.md" title="wikilink">NHK大阪</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td></td>
 <td><p>50</p></td>
 <td><p>全国放送</p></td>
@@ -169,8 +169,8 @@
 <tbody>
 <tr class="odd">
 <td><p>放送局名</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></td>
+<td><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></td>
+<td><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域内世帯数</a></p></td>
@@ -222,12 +222,12 @@
 <td><p>41</p></td>
 <td><p>映像830W<br />
 /音声210W</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/奈良県" title="wikilink">奈良県</a></p></td>
+<td><p><a href="../Page/奈良県.md" title="wikilink">奈良県</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/NHK奈良放送局.md" title="wikilink">奈良</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/NHK奈良放送局.md" title="wikilink">奈良</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>43</p></td>
 <td></td>
 <td></td>
@@ -235,7 +235,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>NHK<a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+<td><p>NHK<a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>45</p></td>
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国放送</a></p></td>
 <td></td>
@@ -267,22 +267,22 @@
 
 ## FM放送送信設備
 
-|                                                                                                |          |       |     |        |          |
-| ---------------------------------------------------------------------------------------------- | -------- | ----- | --- | ------ | -------- |
-| 放送局名                                                                                           | 周波数（MHz） | 空中線電力 | ERP | 放送対象地域 | 放送区域内世帯数 |
-| 栃原中継局                                                                                          |          |       |     |        |          |
-| [NHK奈良](../Page/NHK奈良放送局.md "wikilink")[FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") | 83.7     | 30W   | 70W | 奈良県    | 不明       |
+|                                                                             |          |       |     |        |          |
+| --------------------------------------------------------------------------- | -------- | ----- | --- | ------ | -------- |
+| 放送局名                                                                        | 周波数（MHz） | 空中線電力 | ERP | 放送対象地域 | 放送区域内世帯数 |
+| 栃原中継局                                                                       |          |       |     |        |          |
+| [NHK奈良](../Page/NHK奈良放送局.md "wikilink")[FM](../Page/NHK-FM放送.md "wikilink") | 83.7     | 30W   | 70W | 奈良県    | 不明       |
 
 ### 備考
 
-  - デジタルテレビの放送エリアは、[五條市](../Page/五條市.md "wikilink")・吉野郡下市町・吉野郡[大淀町](https://ja.wikipedia.org/wiki/大淀町 "wikilink")・[和歌山県](../Page/和歌山県.md "wikilink")[橋本市](../Page/橋本市.md "wikilink")・和歌山県[伊都郡](../Page/伊都郡.md "wikilink")[かつらぎ町](../Page/かつらぎ町.md "wikilink")の一部地域。
+  - デジタルテレビの放送エリアは、[五條市](../Page/五條市.md "wikilink")・吉野郡下市町・吉野郡[大淀町](../Page/大淀町.md "wikilink")・[和歌山県](../Page/和歌山県.md "wikilink")[橋本市](../Page/橋本市.md "wikilink")・和歌山県[伊都郡](../Page/伊都郡.md "wikilink")[かつらぎ町](../Page/かつらぎ町.md "wikilink")の一部地域。
   - なお、上記にもある様に当デジタル中継局は、奈良県内向けの中継局であるが、和歌山県北東部の一部でも受信可能となっている。 そのため、和歌山県の[橋本中継局ではNHK教育](https://ja.wikipedia.org/wiki/橋本テレビ中継局#地上デジタルテレビジョン放送送信設備 "wikilink")、広域民放4局の物理チャンネルが親局とは別の周波数で送信される。また、当中継局を和歌山県内で受信している視聴者のため、テレビ和歌山が域外中継局として橋本東中継局を開局させたほか、NHK和歌山放送局も域外中継局として紀ノ川橋本中継局を開局させた（前者はアナログ・デジタル両波で開局したが、後者はデジタル新局として開局した）。
 
 ## 脚注
 
 ## 関連項目
 
-  - [下市町](https://ja.wikipedia.org/wiki/下市町 "wikilink")
+  - [下市町](../Page/下市町.md "wikilink")
   - [栃原岳](https://ja.wikipedia.org/wiki/栃原岳 "wikilink")
   - [NHK奈良放送局](../Page/NHK奈良放送局.md "wikilink")
   - [奈良テレビ放送](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")

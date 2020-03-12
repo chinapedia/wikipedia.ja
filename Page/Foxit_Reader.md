@@ -9,7 +9,7 @@ Foxit社は、PDF作成ソフト[Foxit PhantomPDF等を開発](https://ja.wikipe
 
 自称最高のPDFのリーダー。PDFの描画には独自[エンジン](../Page/エンジン.md "wikilink")を使用しており、起動の高速化と軽快な動作に寄与している。
 
-PDFの閲覧に必要な機能を全て備え\[1\]、[印刷](../Page/印刷.md "wikilink")や、フォルダ内PDFファイルの[文字列探索](https://ja.wikipedia.org/wiki/文字列探索 "wikilink")もできる。さらに、文書内の標準のPDF[フォーム](https://ja.wikipedia.org/wiki/フォーム "wikilink")および[XFAフォームに](https://ja.wikipedia.org/wiki/Portable_Document_Format#Adobe_XML_Forms_Architecture\(XFA\) "wikilink")、記入や、ファイルとの[データ](../Page/データ.md "wikilink")の読み込み書き出しが可能。選択範囲をカラーマーカーで塗ったように強調するハイライト表示が可能。注釈として、文字列の書き込みおよび図形の描画が可能。[しおり](https://ja.wikipedia.org/wiki/しおり "wikilink")の編集が可能。および、それらを[保存できる](https://ja.wikipedia.org/wiki/セーブ_\(コンピュータ\) "wikilink")。また、回覧や[共有のための機能が充実している](https://ja.wikipedia.org/wiki/ファイル共有 "wikilink")。共有[レビュー](https://ja.wikipedia.org/wiki/レビュー "wikilink")に参加して、コメントや[フィードバック](../Page/フィードバック.md "wikilink")を送ることが可能。以上の機能等をソフトウェア本体と無料の[アドオン](https://ja.wikipedia.org/wiki/アドオン "wikilink")と[プラグイン](../Page/プラグイン.md "wikilink")で利用でき、さらにビジネス用の有償プラグインもある。
+PDFの閲覧に必要な機能を全て備え\[1\]、[印刷](../Page/印刷.md "wikilink")や、フォルダ内PDFファイルの[文字列探索](https://ja.wikipedia.org/wiki/文字列探索 "wikilink")もできる。さらに、文書内の標準のPDF[フォーム](https://ja.wikipedia.org/wiki/フォーム "wikilink")および[XFAフォームに](https://ja.wikipedia.org/wiki/Portable_Document_Format#Adobe_XML_Forms_Architecture\(XFA\) "wikilink")、記入や、ファイルとの[データ](../Page/データ.md "wikilink")の読み込み書き出しが可能。選択範囲をカラーマーカーで塗ったように強調するハイライト表示が可能。注釈として、文字列の書き込みおよび図形の描画が可能。[しおり](https://ja.wikipedia.org/wiki/しおり "wikilink")の編集が可能。および、それらを[保存できる](../Page/セーブ_\(コンピュータ\).md "wikilink")。また、回覧や[共有のための機能が充実している](../Page/ファイル共有.md "wikilink")。共有[レビュー](https://ja.wikipedia.org/wiki/レビュー "wikilink")に参加して、コメントや[フィードバック](../Page/フィードバック.md "wikilink")を送ることが可能。以上の機能等をソフトウェア本体と無料の[アドオン](https://ja.wikipedia.org/wiki/アドオン "wikilink")と[プラグイン](../Page/プラグイン.md "wikilink")で利用でき、さらにビジネス用の有償プラグインもある。
 
 ## エディション
 
@@ -19,17 +19,17 @@ PDFの閲覧に必要な機能を全て備え\[1\]、[印刷](../Page/印刷.md 
     対応言語：[英語](../Page/英語.md "wikilink")、[オランダ語](../Page/オランダ語.md "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")、[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[ポーランド語](../Page/ポーランド語.md "wikilink")、[朝鮮語](../Page/朝鮮語.md "wikilink")、日本語[Windows版は](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[窓の杜](../Page/窓の杜.md "wikilink")からも入手できる。日本語のマニュアルもFoxitJapanのホームページからダウンロードできる。
 
   - Foxit Enterprise Reader : Windows版。ビジネス専用。
-    Foxit Reader for Linux : Desktop Linux。動作テストは[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink") [Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu "wikilink") / [Red Hat Enterprise Linux](https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux "wikilink") / [OpenSUSE](https://ja.wikipedia.org/wiki/OpenSUSE "wikilink") でされている。
+    Foxit Reader for Linux : Desktop Linux。動作テストは[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink") [Ubuntu](../Page/Ubuntu.md "wikilink") / [Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") / [OpenSUSE](https://ja.wikipedia.org/wiki/OpenSUSE "wikilink") でされている。
     Foxit Reader : [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") 版もある。
-    Foxit MobilePDF : 対応OS：[Android](https://ja.wikipedia.org/wiki/Android "wikilink"), [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink"), [Windows RT](https://ja.wikipedia.org/wiki/Microsoft_Windows_RT "wikilink"), [Symbian](https://ja.wikipedia.org/wiki/Symbian "wikilink") UIQ 3.X
+    Foxit MobilePDF : 対応OS：[Android](../Page/Android.md "wikilink"), [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink"), [Windows RT](https://ja.wikipedia.org/wiki/Microsoft_Windows_RT "wikilink"), [Symbian](https://ja.wikipedia.org/wiki/Symbian "wikilink") UIQ 3.X
     Foxit Reader for Mobile Devices
     言語：英語・日本語・[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")・韓国語をサポートしている。
 
       - OS：[Windows CE](https://ja.wikipedia.org/wiki/Microsoft_Windows_CE "wikilink") 4.2/5.0 - 最新版はVer, 1.0 Build 0820 / [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")
       - Foxit Reader for Smartphone WM5 / WM6 - [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")用のエディション。最新版は1.2 Build 0602 / 2008年[6月4日](../Page/6月4日.md "wikilink")
-      - Foxit Reader for Pocket PC WM5 / WM6 - [Pocket PC用のエディション](https://ja.wikipedia.org/wiki/Pocket_PC "wikilink")。最新版は2.0 Build 0701 / [2009年](../Page/2009年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")
+      - Foxit Reader for Pocket PC WM5 / WM6 - [Pocket PC用のエディション](../Page/Pocket_PC.md "wikilink")。最新版は2.0 Build 0701 / [2009年](../Page/2009年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")
 
-  - Foxit Reader for Embedded Linux : [PDAの](../Page/携帯情報端末.md "wikilink")[組み込みLinux](https://ja.wikipedia.org/wiki/組み込みLinux "wikilink")用に作られたエディション。
+  - Foxit Reader for Embedded Linux : [PDAの](../Page/携帯情報端末.md "wikilink")[組み込みLinux](../Page/組み込みLinux.md "wikilink")用に作られたエディション。
     Foxit Reader for U3 : [U3](https://ja.wikipedia.org/wiki/U3 "wikilink")規格用に作られたエディション。
 
 ## 履歴
@@ -48,7 +48,7 @@ PDFの閲覧に必要な機能を全て備え\[1\]、[印刷](../Page/印刷.md 
 
 [2013年](../Page/2013年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")、Foxit J-Reader 6.0をリリース\[10\]。
 
-[2014年](../Page/2014年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")、[脆弱性](https://ja.wikipedia.org/wiki/脆弱性 "wikilink")を修正したFoxit Reader 6.1.4を公開\[11\]。
+[2014年](../Page/2014年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")、[脆弱性](../Page/脆弱性.md "wikilink")を修正したFoxit Reader 6.1.4を公開\[11\]。
 
 2014年[9月24日](../Page/9月24日.md "wikilink")、Foxit Reader 7.0を公開\[12\]。
 
@@ -64,7 +64,7 @@ PDFの閲覧に必要な機能を全て備え\[1\]、[印刷](../Page/印刷.md 
 
 ### 受賞歴
 
-  - 2010年 - Foxit J-Readerが[Vectorの](https://ja.wikipedia.org/wiki/ベクター_\(企業\) "wikilink")「新着ソフトレビュー執筆者が選ぶベストオンラインソフト」に選ばれた\[19\]。
+  - 2010年 - Foxit J-Readerが[Vectorの](../Page/ベクター_\(企業\).md "wikilink")「新着ソフトレビュー執筆者が選ぶベストオンラインソフト」に選ばれた\[19\]。
   - 2011年 - Foxit Readerが「PC Magazine」の「The Best Free Software」を受ける\[20\]。
 
 ## 脚注

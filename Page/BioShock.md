@@ -7,9 +7,9 @@
 
 ## 概要
 
-『バイオショック』は2004年後半から開発が始まった。当時のイラショナル・ゲームズは独立系のゲーム会社だったが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の[1月9日](../Page/1月9日.md "wikilink")、大手ゲーム会社の[テイクツー・インタラクティブ](https://ja.wikipedia.org/wiki/テイクツー・インタラクティブ "wikilink")の傘下に入り会社名も2Kボストン/2Kオーストラリアに変更した（ただし2Kボストンは2010年に再度イラショナル・ゲームズに名前を戻している）。そして、[2K Gamesブランドのゲームとして本作を](https://ja.wikipedia.org/wiki/2K_Games "wikilink")「[2007年](../Page/2007年.md "wikilink")の早い段階に発売しようと考えている」ことを公表した\[1\]。
+『バイオショック』は2004年後半から開発が始まった。当時のイラショナル・ゲームズは独立系のゲーム会社だったが、[2006年](../Page/2006年.md "wikilink")の[1月9日](../Page/1月9日.md "wikilink")、大手ゲーム会社の[テイクツー・インタラクティブ](https://ja.wikipedia.org/wiki/テイクツー・インタラクティブ "wikilink")の傘下に入り会社名も2Kボストン/2Kオーストラリアに変更した（ただし2Kボストンは2010年に再度イラショナル・ゲームズに名前を戻している）。そして、[2K Gamesブランドのゲームとして本作を](../Page/2K_Games.md "wikilink")「[2007年](../Page/2007年.md "wikilink")の早い段階に発売しようと考えている」ことを公表した\[1\]。
 
-開発者によってこのソフトはイラショナル・ゲームズが過去に開発し1999年に発売されたPC向けのSFものアクションRPG『[System Shock 2](https://ja.wikipedia.org/wiki/System_Shock_2 "wikilink")』（システムショック2）の「実質的な続編」と言われた\[2\]。なお、[ゲームエンジン](https://ja.wikipedia.org/wiki/ゲームエンジン "wikilink")には改造を施した[Unreal Engine2.5を使用したことにより](https://ja.wikipedia.org/wiki/Unreal_Engine#Unreal_Engine_2 "wikilink")、高度なグラフィック（当時）を実現している。 先に[PC版と](https://ja.wikipedia.org/wiki/PCゲーム "wikilink")[Xbox 360版が出され](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")、後に新たな難易度や特殊能力、DLCを追加要素としている[プレイステーション3版も発売された](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。
+開発者によってこのソフトはイラショナル・ゲームズが過去に開発し1999年に発売されたPC向けのSFものアクションRPG『[System Shock 2](https://ja.wikipedia.org/wiki/System_Shock_2 "wikilink")』（システムショック2）の「実質的な続編」と言われた\[2\]。なお、[ゲームエンジン](../Page/ゲームエンジン.md "wikilink")には改造を施した[Unreal Engine2.5を使用したことにより](https://ja.wikipedia.org/wiki/Unreal_Engine#Unreal_Engine_2 "wikilink")、高度なグラフィック（当時）を実現している。 先に[PC版と](https://ja.wikipedia.org/wiki/PCゲーム "wikilink")[Xbox 360版が出され](../Page/Xbox_360.md "wikilink")、後に新たな難易度や特殊能力、DLCを追加要素としている[プレイステーション3版も発売された](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。
 
 発売からしばらくはPC向けゲームダウンロード販売サービス[Steam](../Page/Steam.md "wikilink")を利用したダウンロード購入が日本でも可能であったが、数ヵ月後にリージョン規制により購入不可となってしまった。体験版はその後もDL可能であったため、体験版のダウンロードページから「製品を購入する」のボタンを押しても別のページに飛ぶという奇妙な状態となっていた。しかし、発売元である[テイクツー・インタラクティブ](https://ja.wikipedia.org/wiki/テイクツー・インタラクティブ "wikilink")日本法人の設立に伴い、それまで日本国内において販売権利を持っていた代理店の権利が消失したことからリージョン規制が解除され、再び日本からの購入が可能になった。
 
@@ -17,11 +17,11 @@
 
 [アクションRPG](https://ja.wikipedia.org/wiki/アクションRPG "wikilink")ならぬ“[FPS](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")・RPG”（若しくはFPS[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")）で、完全に一人用のゲームとして設計されている。
 
-物語や演出、独特な背景設定を楽しむ事に主眼を置いている、広大な閉鎖空間を探索しながら謎を解き明かし自身を強化する、無数の音声メモが存在している（普通のRPGで町人に話しかけるのに相当）、[銃](../Page/銃.md "wikilink")だけではなく[超能力](../Page/超能力.md "wikilink")を使用・装備して戦う、敵が[ランダム](../Page/ランダム.md "wikilink")で復活する、倒した敵を調べると[金や](../Page/貨幣.md "wikilink")[アイテム](https://ja.wikipedia.org/wiki/アイテム "wikilink")が入手できる、一部の敵には[火](../Page/火.md "wikilink")や[氷](../Page/氷.md "wikilink")などの「[属性](../Page/属性.md "wikilink")」が存在する、金を使って[弾薬](https://ja.wikipedia.org/wiki/弾薬 "wikilink")や回復アイテムを購入、などの[RPGのような特徴が数多く存在するが](../Page/ロールプレイングゲーム.md "wikilink")、これらのゲームとしての基礎設計はイラショナル・ゲームズが過去に手がけた作品『System Shock 2』から継承・改良されたものが多い。
+物語や演出、独特な背景設定を楽しむ事に主眼を置いている、広大な閉鎖空間を探索しながら謎を解き明かし自身を強化する、無数の音声メモが存在している（普通のRPGで町人に話しかけるのに相当）、[銃](../Page/銃.md "wikilink")だけではなく[超能力](../Page/超能力.md "wikilink")を使用・装備して戦う、敵が[ランダム](../Page/ランダム.md "wikilink")で復活する、倒した敵を調べると[金や](../Page/貨幣.md "wikilink")[アイテム](../Page/アイテム.md "wikilink")が入手できる、一部の敵には[火](../Page/火.md "wikilink")や[氷](../Page/氷.md "wikilink")などの「[属性](../Page/属性.md "wikilink")」が存在する、金を使って[弾薬](../Page/弾薬.md "wikilink")や回復アイテムを購入、などの[RPGのような特徴が数多く存在するが](../Page/ロールプレイングゲーム.md "wikilink")、これらのゲームとしての基礎設計はイラショナル・ゲームズが過去に手がけた作品『System Shock 2』から継承・改良されたものが多い。
 
-バイオショック独自の要素としては、モノクロ映画『[メトロポリス](https://ja.wikipedia.org/wiki/メトロポリス_\(1927年の映画\) "wikilink")』を彷彿とさせる[レトロ](https://ja.wikipedia.org/wiki/レトロ "wikilink")で未来的な造型がそこかしこに見られ、[60年代のアメリカ文化とオーバーテクノロジーが入り混じった](../Page/1960年代.md "wikilink")[海底](../Page/海底.md "wikilink")都市ラプチャーの奇妙かつ独特な舞台設計や“お使い型のRPGであること”を巧みに利用した秀逸なシナリオと優れた演出手法、欧米のRPGの特徴でもある「道徳に従うか反するかを選べる“選択”」や2007年時点では最高峰と言えるグラフィックなどが挙げられる。
+バイオショック独自の要素としては、モノクロ映画『[メトロポリス](../Page/メトロポリス_\(1927年の映画\).md "wikilink")』を彷彿とさせる[レトロ](../Page/レトロ.md "wikilink")で未来的な造型がそこかしこに見られ、[60年代のアメリカ文化とオーバーテクノロジーが入り混じった](../Page/1960年代.md "wikilink")[海底](../Page/海底.md "wikilink")都市ラプチャーの奇妙かつ独特な舞台設計や“お使い型のRPGであること”を巧みに利用した秀逸なシナリオと優れた演出手法、欧米のRPGの特徴でもある「道徳に従うか反するかを選べる“選択”」や2007年時点では最高峰と言えるグラフィックなどが挙げられる。
 
-[戦闘](../Page/戦闘.md "wikilink")の面では、単純な[射撃](https://ja.wikipedia.org/wiki/射撃 "wikilink")の技術だけではなく状況判断の適切さや、使用する[武器](../Page/武器.md "wikilink")・特殊能力の選択、そして地の利を考慮した[戦略](https://ja.wikipedia.org/wiki/戦略 "wikilink")が重要視されているのも特長であり、豊富な武器と能力をプレイヤーの意思で組み合わせて戦う事の出来る自由度の高さもまた魅力となっている。
+[戦闘](../Page/戦闘.md "wikilink")の面では、単純な[射撃](../Page/射撃.md "wikilink")の技術だけではなく状況判断の適切さや、使用する[武器](../Page/武器.md "wikilink")・特殊能力の選択、そして地の利を考慮した[戦略](../Page/戦略.md "wikilink")が重要視されているのも特長であり、豊富な武器と能力をプレイヤーの意思で組み合わせて戦う事の出来る自由度の高さもまた魅力となっている。
 
 さらに、ゲームレビューサイト[IGN](https://ja.wikipedia.org/wiki/IGN "wikilink")の"ここ数年で最も怖いゲーム"の第8位に輝いた。
 
@@ -29,72 +29,72 @@
 
 ## 背景
 
-我々の世界とは分岐した実際には起こらなかった歴史を歩んだもう一つの[1960年](../Page/1960年.md "wikilink")が舞台。[飛行機事故](https://ja.wikipedia.org/wiki/飛行機事故 "wikilink")で偶然生き残った主人公ジャック（Jack）が、[海底](../Page/海底.md "wikilink")に築かれ[ディストピア](https://ja.wikipedia.org/wiki/ディストピア "wikilink")と化した都市、ラプチャー（Rapture）を探検し過去を明らかにしていく。
+我々の世界とは分岐した実際には起こらなかった歴史を歩んだもう一つの[1960年](../Page/1960年.md "wikilink")が舞台。[飛行機事故](https://ja.wikipedia.org/wiki/飛行機事故 "wikilink")で偶然生き残った主人公ジャック（Jack）が、[海底](../Page/海底.md "wikilink")に築かれ[ディストピア](../Page/ディストピア.md "wikilink")と化した都市、ラプチャー（Rapture）を探検し過去を明らかにしていく。
 
 ## ストーリー
 
-[1946年](../Page/1946年.md "wikilink")11月5日、[科学者](../Page/科学者.md "wikilink")アンドリュー・ライアンは[大西洋](../Page/大西洋.md "wikilink")中央に[海底火山](../Page/海底火山.md "wikilink")を原動力として完全に自立する水中都市を建設し、“[携挙](https://ja.wikipedia.org/wiki/携挙 "wikilink")”を意味する「ラプチャー（Rapture）」と名付けた。建設の目的は[科学者](../Page/科学者.md "wikilink")や[芸術家](../Page/芸術家.md "wikilink")、[エンジニア](https://ja.wikipedia.org/wiki/エンジニア "wikilink")といった人々に対して才能を発揮できる最先端の環境と、宗教や政府による規制に縛られない自由を与えることで今までに無かった成果を出してもらうというものだった。そのため、「ラプチャー」は[冷戦](../Page/冷戦.md "wikilink")時代の科学者らの逃げ場であり、自由気ままな生活を送れる場“[ユートピア](../Page/ユートピア.md "wikilink")・シティ”でもあった。
+[1946年](../Page/1946年.md "wikilink")11月5日、[科学者](../Page/科学者.md "wikilink")アンドリュー・ライアンは[大西洋](../Page/大西洋.md "wikilink")中央に[海底火山](../Page/海底火山.md "wikilink")を原動力として完全に自立する水中都市を建設し、“[携挙](../Page/携挙.md "wikilink")”を意味する「ラプチャー（Rapture）」と名付けた。建設の目的は[科学者](../Page/科学者.md "wikilink")や[芸術家](../Page/芸術家.md "wikilink")、[エンジニア](https://ja.wikipedia.org/wiki/エンジニア "wikilink")といった人々に対して才能を発揮できる最先端の環境と、宗教や政府による規制に縛られない自由を与えることで今までに無かった成果を出してもらうというものだった。そのため、「ラプチャー」は[冷戦](../Page/冷戦.md "wikilink")時代の科学者らの逃げ場であり、自由気ままな生活を送れる場“[ユートピア](../Page/ユートピア.md "wikilink")・シティ”でもあった。
 
-科学者の中には[遺伝子工学](../Page/遺伝子工学.md "wikilink")を研究する者もおり、中でもブリジット・テネンバウムという女性科学者が[ウミウシ](https://ja.wikipedia.org/wiki/ウミウシ "wikilink")の一種から「アダム（Adam）」という、人間の能力を飛躍的に変化させる物質を[抽出](https://ja.wikipedia.org/wiki/抽出 "wikilink")することに成功する。しかし、「アダム」に関する研究競争によって主な二つのグループ間で[武力](https://ja.wikipedia.org/wiki/武力 "wikilink")さえも行使する[抗争](https://ja.wikipedia.org/wiki/抗争 "wikilink")が勃発。遂にはそれぞれのチームが「アダム」によって自らの体を改造するようになる。だが、過度な[人体改造](https://ja.wikipedia.org/wiki/人体改造 "wikilink")の[副作用](../Page/副作用.md "wikilink")でほとんどの人々は人間としての[精神](../Page/精神.md "wikilink")を失うこととなり、最終的に「ラプチャー」はかつて人間だったモンスターが生き延びるための殺し合いを繰り返す場所と化し、荒廃した都市は至る箇所で漏水や水圧による破損が広がり、全体が陥没するのも時間の問題となっていた。
+科学者の中には[遺伝子工学](../Page/遺伝子工学.md "wikilink")を研究する者もおり、中でもブリジット・テネンバウムという女性科学者が[ウミウシ](../Page/ウミウシ.md "wikilink")の一種から「アダム（Adam）」という、人間の能力を飛躍的に変化させる物質を[抽出](../Page/抽出.md "wikilink")することに成功する。しかし、「アダム」に関する研究競争によって主な二つのグループ間で[武力](https://ja.wikipedia.org/wiki/武力 "wikilink")さえも行使する[抗争](https://ja.wikipedia.org/wiki/抗争 "wikilink")が勃発。遂にはそれぞれのチームが「アダム」によって自らの体を改造するようになる。だが、過度な[人体改造](https://ja.wikipedia.org/wiki/人体改造 "wikilink")の[副作用](../Page/副作用.md "wikilink")でほとんどの人々は人間としての[精神](../Page/精神.md "wikilink")を失うこととなり、最終的に「ラプチャー」はかつて人間だったモンスターが生き延びるための殺し合いを繰り返す場所と化し、荒廃した都市は至る箇所で漏水や水圧による破損が広がり、全体が陥没するのも時間の問題となっていた。
 
-[1960年](../Page/1960年.md "wikilink")、主人公ジャックは、[大西洋](../Page/大西洋.md "wikilink")上を飛行する[旅客機](../Page/旅客機.md "wikilink")の機内で家族の写真や「Would you kindly not open until…（恐縮だが…まで開けないでほしい）」と書かれたプレゼントをながめていた。その後、何らかの原因により旅客機は大西洋へ[墜落し大破](https://ja.wikipedia.org/wiki/航空事故 "wikilink")、炎上する。幸運にも生き延びたジャックは近くにあった[灯台](../Page/灯台.md "wikilink")にたどり着く。そこには球形の[潜水艇](https://ja.wikipedia.org/wiki/潜水艇 "wikilink")が置かれており、それに乗り込んだ彼は荒廃した都市「ラプチャー」へと行き着いてしまう。早々にして都市の[狂気](https://ja.wikipedia.org/wiki/狂気 "wikilink")に満ちた世界を垣間見る彼に、[ラジオ](../Page/ラジオ.md "wikilink")を通じてアトラスという男が語りかけてきた。狂気に満ち溢れた都市での生き残りをかけた戦いが始まる。
+[1960年](../Page/1960年.md "wikilink")、主人公ジャックは、[大西洋](../Page/大西洋.md "wikilink")上を飛行する[旅客機](../Page/旅客機.md "wikilink")の機内で家族の写真や「Would you kindly not open until…（恐縮だが…まで開けないでほしい）」と書かれたプレゼントをながめていた。その後、何らかの原因により旅客機は大西洋へ[墜落し大破](../Page/航空事故.md "wikilink")、炎上する。幸運にも生き延びたジャックは近くにあった[灯台](../Page/灯台.md "wikilink")にたどり着く。そこには球形の[潜水艇](../Page/潜水艇.md "wikilink")が置かれており、それに乗り込んだ彼は荒廃した都市「ラプチャー」へと行き着いてしまう。早々にして都市の[狂気](../Page/狂気.md "wikilink")に満ちた世界を垣間見る彼に、[ラジオ](../Page/ラジオ.md "wikilink")を通じてアトラスという男が語りかけてきた。狂気に満ち溢れた都市での生き残りをかけた戦いが始まる。
 
 ## 登場人物
 
   - ジャック（Jack）
-    本作の主人公。両手首に[鎖](https://ja.wikipedia.org/wiki/鎖 "wikilink")の[刺青](https://ja.wikipedia.org/wiki/刺青 "wikilink")がある。[飛行機事故](https://ja.wikipedia.org/wiki/飛行機事故 "wikilink")によって水中都市「ラプチャー」へと迷い込んでしまう。序盤で[注射](https://ja.wikipedia.org/wiki/注射 "wikilink")したプラスミド（後述）と呼ばれる物質によって[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")を[変質させられ](../Page/突然変異.md "wikilink")、様々な[超能力](../Page/超能力.md "wikilink")を扱うようになる。アトラスと名乗る男の協力を借り、ラプチャーからの脱出を目指す過程の中、やがて自身の運命にまつわる謎に迫っていくことになる。
-  - アトラス（Atlas）（声優：[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")）
-    主人公と最初にコンタクトしたラプチャーの住人。正気を失っていない少数派の人間で「ラプチャー」から逃げ出すために、はぐれた家族を助けてくれるよう恐縮しながらもジャックに協力を申し出る。[アイルランド](../Page/アイルランド.md "wikilink")訛りがある為、一部の者には「アイルランド野郎」と呼ばれる事もある。フォンテインとの対立以降、市民に対し[専制的になったライアンに対する](https://ja.wikipedia.org/wiki/専制政治 "wikilink")[レジスタンスの中心人物](https://ja.wikipedia.org/wiki/レジスタンス運動 "wikilink")。
+    本作の主人公。両手首に[鎖](../Page/鎖.md "wikilink")の[刺青](https://ja.wikipedia.org/wiki/刺青 "wikilink")がある。[飛行機事故](https://ja.wikipedia.org/wiki/飛行機事故 "wikilink")によって水中都市「ラプチャー」へと迷い込んでしまう。序盤で[注射](../Page/注射.md "wikilink")したプラスミド（後述）と呼ばれる物質によって[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")を[変質させられ](../Page/突然変異.md "wikilink")、様々な[超能力](../Page/超能力.md "wikilink")を扱うようになる。アトラスと名乗る男の協力を借り、ラプチャーからの脱出を目指す過程の中、やがて自身の運命にまつわる謎に迫っていくことになる。
+  - アトラス（Atlas）（声優：[森川智之](../Page/森川智之.md "wikilink")）
+    主人公と最初にコンタクトしたラプチャーの住人。正気を失っていない少数派の人間で「ラプチャー」から逃げ出すために、はぐれた家族を助けてくれるよう恐縮しながらもジャックに協力を申し出る。[アイルランド](../Page/アイルランド.md "wikilink")訛りがある為、一部の者には「アイルランド野郎」と呼ばれる事もある。フォンテインとの対立以降、市民に対し[専制的になったライアンに対する](../Page/専制政治.md "wikilink")[レジスタンスの中心人物](../Page/レジスタンス運動.md "wikilink")。
   - アンドリュー・ライアン（Andrew Ryan）（声優：[石塚運昇](../Page/石塚運昇.md "wikilink")）
-    あらゆる国家・思想・宗教の干渉を受けつけない海底都市「ラプチャー」の創設者にして天才科学者。ラプチャーの最高権力者でもある。ラプチャーが荒廃し、事実上の[無政府状態](https://ja.wikipedia.org/wiki/無政府状態 "wikilink")と化して以降もその権力は揺ぎ無いものであり、主人公に襲い掛かってくるスプライサーの大半は彼の手下と言っても過言ではない。アトラスとは敵対関係にあり、主人公を外部からの侵入者とみなして様々な妨害を仕掛けてくる。金儲けの道具になると睨んだリトルシスターを守護する為にビッグダディをスーチョンに開発させたのも彼である。
-  - ブリジット・テネンバウム（Brigitte Tenenbaum）（声優：[園崎未恵](https://ja.wikipedia.org/wiki/園崎未恵 "wikilink")）
-    [ウミウシ](https://ja.wikipedia.org/wiki/ウミウシ "wikilink")の一種からADAMを発見した遺伝子工学の女性研究者。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の折は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[捕虜収容所](https://ja.wikipedia.org/wiki/捕虜収容所 "wikilink")で[人体実験](../Page/人体実験.md "wikilink")に従事していた。ラプチャーに研究の場を移しADAMを発見した後はフォンテインの援助を受けてリトルシスターを開発したが、この事が最終的にラプチャーを破滅へと導いてしまった。アンドリュー・ライアンだけでなくアトラスとも敵対しており、主人公に（自身の[贖罪](https://ja.wikipedia.org/wiki/贖罪 "wikilink")も兼ねた）リトルシスターの[救済](https://ja.wikipedia.org/wiki/救済 "wikilink")を説く。ドイツ訛りの英語を話すのが特徴。
+    あらゆる国家・思想・宗教の干渉を受けつけない海底都市「ラプチャー」の創設者にして天才科学者。ラプチャーの最高権力者でもある。ラプチャーが荒廃し、事実上の[無政府状態](../Page/無政府状態.md "wikilink")と化して以降もその権力は揺ぎ無いものであり、主人公に襲い掛かってくるスプライサーの大半は彼の手下と言っても過言ではない。アトラスとは敵対関係にあり、主人公を外部からの侵入者とみなして様々な妨害を仕掛けてくる。金儲けの道具になると睨んだリトルシスターを守護する為にビッグダディをスーチョンに開発させたのも彼である。
+  - ブリジット・テネンバウム（Brigitte Tenenbaum）（声優：[園崎未恵](../Page/園崎未恵.md "wikilink")）
+    [ウミウシ](../Page/ウミウシ.md "wikilink")の一種からADAMを発見した遺伝子工学の女性研究者。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の折は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[捕虜収容所](https://ja.wikipedia.org/wiki/捕虜収容所 "wikilink")で[人体実験](../Page/人体実験.md "wikilink")に従事していた。ラプチャーに研究の場を移しADAMを発見した後はフォンテインの援助を受けてリトルシスターを開発したが、この事が最終的にラプチャーを破滅へと導いてしまった。アンドリュー・ライアンだけでなくアトラスとも敵対しており、主人公に（自身の[贖罪](https://ja.wikipedia.org/wiki/贖罪 "wikilink")も兼ねた）リトルシスターの[救済](../Page/救済.md "wikilink")を説く。ドイツ訛りの英語を話すのが特徴。
   - スタインマン（シュタインマン）医師（Doctor J.S.Steinman）
-    [医療施設](https://ja.wikipedia.org/wiki/医療施設 "wikilink")「メディカル・パビリオン」の[管理者](https://ja.wikipedia.org/wiki/管理者 "wikilink")。ライアンに心服しており、ADAMを用いて女神[アフロディーテのような理想の](../Page/アプロディーテー.md "wikilink")[美女](https://ja.wikipedia.org/wiki/美女 "wikilink")を作り出すべく、女性の患者に次々と悲惨な[整形手術](https://ja.wikipedia.org/wiki/整形手術 "wikilink")を本人の意志を無視して施術する狂気の[外科医](https://ja.wikipedia.org/wiki/外科医 "wikilink")。
+    [医療施設](https://ja.wikipedia.org/wiki/医療施設 "wikilink")「メディカル・パビリオン」の[管理者](../Page/管理者.md "wikilink")。ライアンに心服しており、ADAMを用いて女神[アフロディーテのような理想の](../Page/アプロディーテー.md "wikilink")[美女](https://ja.wikipedia.org/wiki/美女 "wikilink")を作り出すべく、女性の患者に次々と悲惨な[整形手術](https://ja.wikipedia.org/wiki/整形手術 "wikilink")を本人の意志を無視して施術する狂気の[外科医](https://ja.wikipedia.org/wiki/外科医 "wikilink")。
   - ピーチ・ウィルキンス（Peach Wilkins）
-    アトラスの家族が匿われている[潜水艇](https://ja.wikipedia.org/wiki/潜水艇 "wikilink")がある「ネプチューン・バウンティ」の老管理者。アトラスには協力しているが、信用はしていない。ラプチャーの豪商フランク・フォンテインに対し過剰なまでの恐怖と嫌悪感を抱いている。
+    アトラスの家族が匿われている[潜水艇](../Page/潜水艇.md "wikilink")がある「ネプチューン・バウンティ」の老管理者。アトラスには協力しているが、信用はしていない。ラプチャーの豪商フランク・フォンテインに対し過剰なまでの恐怖と嫌悪感を抱いている。
   - ジュリー・ラングフォード（Julie Langford）
-    ラプチャーの[酸素](../Page/酸素.md "wikilink")供給源である植林エリア「アルカディア」の女性管理者。アトラス曰く、「ライアンの女で、はした金のために汚い仕事をするような奴」。かつては[枯葉剤](https://ja.wikipedia.org/wiki/枯葉剤 "wikilink")などを使って植物を殺す事を研究していたが、ラプチャーに来てからは植物を蘇生させる物質“ラザロベクター”（名前は聖人[ラザロ](https://ja.wikipedia.org/wiki/ラザロ "wikilink")に由来）の研究を行うようになった。物語の中盤、ふとしたいきさつからジャックはこの物質を作り出す為に奔走する事になる。
-  - サンダー・コーエン（Sander Cohen）（声優：[麦人](https://ja.wikipedia.org/wiki/麦人 "wikilink")）
+    ラプチャーの[酸素](../Page/酸素.md "wikilink")供給源である植林エリア「アルカディア」の女性管理者。アトラス曰く、「ライアンの女で、はした金のために汚い仕事をするような奴」。かつては[枯葉剤](https://ja.wikipedia.org/wiki/枯葉剤 "wikilink")などを使って植物を殺す事を研究していたが、ラプチャーに来てからは植物を蘇生させる物質“ラザロベクター”（名前は聖人[ラザロ](../Page/ラザロ.md "wikilink")に由来）の研究を行うようになった。物語の中盤、ふとしたいきさつからジャックはこの物質を作り出す為に奔走する事になる。
+  - サンダー・コーエン（Sander Cohen）（声優：[麦人](../Page/麦人.md "wikilink")）
     ライアンの住む施設に通じる「フォート・フロリック」の管理者。アトラスですら口に出すのも憚る程に歪んだ[芸術家](../Page/芸術家.md "wikilink")思想を持つ、とびきりの[狂人](https://ja.wikipedia.org/wiki/狂人 "wikilink")。自身の芸術作品を完成させる為ならその「資材」として殺人も厭わないが、自作品を破損さえさせなければ無害で協力的な人物でもある。ある事からジャックに興味を持ち、一定時間行動を共にしなければならなくなる。
   - イ・スーチョン（Doctor Suchong）
-    ラプチャーに住む科学者の一人。[眼鏡](../Page/眼鏡.md "wikilink")をかけた[ヒステリックな男](../Page/ヒステリー.md "wikilink")。大の子供嫌い。プラスミドやリトルシスター、ビッグダディの研究・開発を行っていた。物語開始よりも前、ビッグダディは確実にリトルシスターを護れるかの研究の最中、リトルシスターを殴ってしまった事が原因でビッグダディに殺害され、皮肉にも自らの死によって研究の成功が裏付けられた。その為、本編中では[ダイアリー](../Page/日記.md "wikilink")（音声メモ）でのみ登場する。また、日本版では普通に喋るが、北米オリジナル版では[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")系という設定の為かやや不自然な英語で喋る。
+    ラプチャーに住む科学者の一人。[眼鏡](../Page/眼鏡.md "wikilink")をかけた[ヒステリックな男](../Page/ヒステリー.md "wikilink")。大の子供嫌い。プラスミドやリトルシスター、ビッグダディの研究・開発を行っていた。物語開始よりも前、ビッグダディは確実にリトルシスターを護れるかの研究の最中、リトルシスターを殴ってしまった事が原因でビッグダディに殺害され、皮肉にも自らの死によって研究の成功が裏付けられた。その為、本編中では[ダイアリー](../Page/日記.md "wikilink")（音声メモ）でのみ登場する。また、日本版では普通に喋るが、北米オリジナル版では[中国](../Page/中国.md "wikilink")系という設定の為かやや不自然な英語で喋る。
   - ダイアン・マクリントック（Diane McClintock）
     元々はライアンの[恋人](https://ja.wikipedia.org/wiki/恋人 "wikilink")だったが、月日が経つにつれライアンに愛想を尽かし、最終的にはアトラスのレジスタンスの一員となる女性。プレイヤーは探索の最中に所々に落ちているダイアリーを拾う事で彼女の心境の変化を知る事が出来る（ダイアリーでのみ登場）。
   - フランク・フォンテイン（Frank Fontaine）
-    ラプチャーに住む[商人](https://ja.wikipedia.org/wiki/商人 "wikilink")にして[密輸](../Page/密輸.md "wikilink")業者。野心家であり人を欺く事や商才に長け「フォンテイン[水産](https://ja.wikipedia.org/wiki/水産 "wikilink")」「フォンテイン未来技術社」などを[起業](https://ja.wikipedia.org/wiki/起業 "wikilink")、大きな財産を築きラプチャー内に己の勢力を作り上げた。また「フォンテイン救済センター」なる[救貧院](https://ja.wikipedia.org/wiki/救貧院 "wikilink")施設を設立し、「才ある者達が何物にも縛られないラプチャーだがその結果何も成し遂げられなかった食い詰めた凡人達」に食と住居を提供して秘密裏にスプライサーの[私兵](https://ja.wikipedia.org/wiki/私兵 "wikilink")部隊を構築したり、テネンバウムに出資して生きたADAM製造工場としてリトルシスターを開発させる等、数々のあくどい行為に手を染めていた。ADAMの独占を目論みアンドリュー・ライアンと対立、1958年にライアンが放った襲撃部隊によって死亡したとされている。余談だが、ゲーム中に幾度と無く登場するダイアリー用の録音機器"ACCU-VOX"は彼がかつて設立した会社フォンテイン未来技術社（Fontaine Futuristics）の商品である（ラプチャーの所々にこの商品の広告も貼り出されている。またフォンテインの死後、同社はライアンによって接収され「ライアン・インダストリーズ」となった）。
+    ラプチャーに住む[商人](https://ja.wikipedia.org/wiki/商人 "wikilink")にして[密輸](../Page/密輸.md "wikilink")業者。野心家であり人を欺く事や商才に長け「フォンテイン[水産](https://ja.wikipedia.org/wiki/水産 "wikilink")」「フォンテイン未来技術社」などを[起業](../Page/起業.md "wikilink")、大きな財産を築きラプチャー内に己の勢力を作り上げた。また「フォンテイン救済センター」なる[救貧院](https://ja.wikipedia.org/wiki/救貧院 "wikilink")施設を設立し、「才ある者達が何物にも縛られないラプチャーだがその結果何も成し遂げられなかった食い詰めた凡人達」に食と住居を提供して秘密裏にスプライサーの[私兵](https://ja.wikipedia.org/wiki/私兵 "wikilink")部隊を構築したり、テネンバウムに出資して生きたADAM製造工場としてリトルシスターを開発させる等、数々のあくどい行為に手を染めていた。ADAMの独占を目論みアンドリュー・ライアンと対立、1958年にライアンが放った襲撃部隊によって死亡したとされている。余談だが、ゲーム中に幾度と無く登場するダイアリー用の録音機器"ACCU-VOX"は彼がかつて設立した会社フォンテイン未来技術社（Fontaine Futuristics）の商品である（ラプチャーの所々にこの商品の広告も貼り出されている。またフォンテインの死後、同社はライアンによって接収され「ライアン・インダストリーズ」となった）。
 
 ### 敵キャラクター
 
   - スプライサー（Splicers）
-    ADAMの過剰投与によって精神を蝕まれ、凶暴化した人間の総称。鈎爪や[銃](../Page/銃.md "wikilink")、[鈍器](https://ja.wikipedia.org/wiki/鈍器 "wikilink")、[爆弾](../Page/爆弾.md "wikilink")などで[武装](https://ja.wikipedia.org/wiki/武装 "wikilink")している。[人体改造](https://ja.wikipedia.org/wiki/人体改造 "wikilink")にも手を出しており、体中に縫い跡が見られる。大抵の場合理性が崩壊しており、自分以外の存在には見境無く襲い掛かるほど凶暴だが、ある種の[社会](../Page/社会.md "wikilink")的生活を営む者も存在する。共通として男女全員がヴェネチアン・マスクを思わせる不気味な仮面や防護マスクを付けている。
+    ADAMの過剰投与によって精神を蝕まれ、凶暴化した人間の総称。鈎爪や[銃](../Page/銃.md "wikilink")、[鈍器](https://ja.wikipedia.org/wiki/鈍器 "wikilink")、[爆弾](../Page/爆弾.md "wikilink")などで[武装](../Page/武装.md "wikilink")している。[人体改造](https://ja.wikipedia.org/wiki/人体改造 "wikilink")にも手を出しており、体中に縫い跡が見られる。大抵の場合理性が崩壊しており、自分以外の存在には見境無く襲い掛かるほど凶暴だが、ある種の[社会](../Page/社会.md "wikilink")的生活を営む者も存在する。共通として男女全員がヴェネチアン・マスクを思わせる不気味な仮面や防護マスクを付けている。
       - サギッシュ・スプライサー（Thuggish Splicer）
-    序盤から登場するスプライサー。体力は低め。[レンチ](../Page/レンチ.md "wikilink")や[鉄パイプ](https://ja.wikipedia.org/wiki/鉄パイプ "wikilink")で武装しており、ジャックに跳びかかりながら殴ってくる。後半に登場するものは能力が向上している上、一部の者は[電気](https://ja.wikipedia.org/wiki/電気 "wikilink")の属性を持っている。
+    序盤から登場するスプライサー。体力は低め。[レンチ](../Page/レンチ.md "wikilink")や[鉄パイプ](../Page/鉄パイプ.md "wikilink")で武装しており、ジャックに跳びかかりながら殴ってくる。後半に登場するものは能力が向上している上、一部の者は[電気](../Page/電気.md "wikilink")の属性を持っている。
       - リードヘッド・スプライサー（Leadhead Splicer）
     主に[ピストル](../Page/ピストル.md "wikilink")や[マシンガン](https://ja.wikipedia.org/wiki/マシンガン "wikilink")で武装したスプライサー。能力もサギッシュよりはやや高めである。
       - ニトロ・スプライサー（Nitro Splicer）
-    [爆弾](../Page/爆弾.md "wikilink")を投げつけてくるスプライサー。常に距離を取って戦う。爆弾は[テレキネシスで受け止めて投げ返せる他](https://ja.wikipedia.org/wiki/念力 "wikilink")、リサーチカメラで研究する事で[不発弾](https://ja.wikipedia.org/wiki/不発弾 "wikilink")にする確率を上げる事も可能。
+    [爆弾](../Page/爆弾.md "wikilink")を投げつけてくるスプライサー。常に距離を取って戦う。爆弾は[テレキネシスで受け止めて投げ返せる他](https://ja.wikipedia.org/wiki/念力 "wikilink")、リサーチカメラで研究する事で[不発弾](../Page/不発弾.md "wikilink")にする確率を上げる事も可能。
       - スパイダー・スプライサー（Spider Splicer）
     身体能力の高いスプライサー。天井に張り付いて移動できる他、連続[バク転](https://ja.wikipedia.org/wiki/バク転 "wikilink")で素早い回避も行う。攻撃は主に鉤爪で行う。たまに心臓が手に入る事があり、これは[ファーストエイド](https://ja.wikipedia.org/wiki/ファーストエイド "wikilink")の代わりとして使用可能。
       - フーディーニ・スプライサー（Houdini Splicer）
     中盤以降登場するスプライサー。[火](../Page/火.md "wikilink")属性のものと[氷](../Page/氷.md "wikilink")属性のものが存在。武器は使わず高威力のプラスミドで攻撃する上、姿を消しては別の場所から出現して攻撃する厄介な敵。出現直前は空間が歪んだり、火の粉のような赤い煙が現れるので、それを頼りに位置を探る事は可能である。名称の由来は奇術師[ハリー・フーディーニ](../Page/ハリー・フーディーニ.md "wikilink")からか。
-  - リトルシスター（Little Sister）（声優：[清水香里](https://ja.wikipedia.org/wiki/清水香里 "wikilink")）
-    ボロボロになったドレスをまとい、[注射器](https://ja.wikipedia.org/wiki/注射器 "wikilink")を片手にラプチャーを徘徊する少女。ギャザラー（Gatherer）とも呼ばれている。引き取り手のいない孤児や誘拐してきた子供を遺伝子的、および精神的に改造することでフォンテイン未来技術社が作り出した、いわば “歩くADAM製造工場” 。[死体](../Page/死体.md "wikilink")から採集した血を飲む事によりADAMを体内で精製する能力を持つ。崩壊したラプチャーにおいて唯一ADAMを作り出せる存在であり、故に無数の敵から狙われるためビッグダディの[護衛](https://ja.wikipedia.org/wiki/護衛 "wikilink")が欠かせない。テネンバウムは嫌悪しつつもか弱い子供だと主張し、反対にアトラスは化け物だと決め付けている。ADAMの作用によってほぼ[不死身](https://ja.wikipedia.org/wiki/不死身 "wikilink")の体となっているが、それは内臓に寄生した特殊な[ウミウシ](https://ja.wikipedia.org/wiki/ウミウシ "wikilink")によるものであり、体内からウミウシが摘出されれば死んでしまう。
+  - リトルシスター（Little Sister）（声優：[清水香里](../Page/清水香里.md "wikilink")）
+    ボロボロになったドレスをまとい、[注射器](../Page/注射器.md "wikilink")を片手にラプチャーを徘徊する少女。ギャザラー（Gatherer）とも呼ばれている。引き取り手のいない孤児や誘拐してきた子供を遺伝子的、および精神的に改造することでフォンテイン未来技術社が作り出した、いわば “歩くADAM製造工場” 。[死体](../Page/死体.md "wikilink")から採集した血を飲む事によりADAMを体内で精製する能力を持つ。崩壊したラプチャーにおいて唯一ADAMを作り出せる存在であり、故に無数の敵から狙われるためビッグダディの[護衛](https://ja.wikipedia.org/wiki/護衛 "wikilink")が欠かせない。テネンバウムは嫌悪しつつもか弱い子供だと主張し、反対にアトラスは化け物だと決め付けている。ADAMの作用によってほぼ[不死身](https://ja.wikipedia.org/wiki/不死身 "wikilink")の体となっているが、それは内臓に寄生した特殊な[ウミウシ](../Page/ウミウシ.md "wikilink")によるものであり、体内からウミウシが摘出されれば死んでしまう。
     ジャックは彼女達からADAMを奪い取り死なせる（ハーベスト）か、ウミウシを摘出し元に戻す（レスキュー）かを選択することが出来る。また、リトルシスターを解放した数によって後半の展開やEDも変わってくる。
   - ビッグダディ（Big Daddy）
-    [ヘルメット潜水](https://ja.wikipedia.org/wiki/ヘルメット潜水 "wikilink")の装備のような姿をしたリトルシスターの[護衛](https://ja.wikipedia.org/wiki/護衛 "wikilink")役。その[報酬](../Page/報酬.md "wikilink")として彼女からADAMを分け与えられている。フォンテイン死亡後、リトルシスターの安全を危惧したライアンがライアン・インダストリーズ（Ryan Industries）に作らせた。ロボットのように見えるが正体はADAMを投与された上に[肉体改造](https://ja.wikipedia.org/wiki/肉体改造 "wikilink")され、[装甲](https://ja.wikipedia.org/wiki/装甲 "wikilink")と[武器](../Page/武器.md "wikilink")を装着された人間である（[徹甲弾](../Page/徹甲弾.md "wikilink")で攻撃すれば, ヘルメット潜水に血痕ができる）。[ドリル](https://ja.wikipedia.org/wiki/ドリル "wikilink")を装備した[接近戦タイプ](../Page/白兵戦.md "wikilink")“バウンサー（Bouncer）”と[リベットガン](https://ja.wikipedia.org/wiki/リベットガン "wikilink")を装備した遠距離戦タイプ“ロージー（Rosie）”が存在し、更に通常バージョン（潜水服が茶色）と能力の高いエリートバージョン（潜水服が紅白）が存在する。手を出さない限り無害であるが、リトルシスターへ近づく者を[威嚇](https://ja.wikipedia.org/wiki/威嚇 "wikilink")し、攻撃された場合は不気味な叫び声を上げて対象を殺害、または破壊するまで執拗に攻撃する。なお、リトルシスターからは「ミスター・B（Mr.B）」あるいは「ミスター・バブルス（Mr.Bubbles）」の愛称で呼ばれている。
-  - 自動[警備](https://ja.wikipedia.org/wiki/警備 "wikilink")システム（Automatic Security System）
-    ラプチャーには外部からの侵入者を阻むために[人工知能](../Page/人工知能.md "wikilink")警備システムが設置され、ADAMによってラプチャーが崩壊した後にも無事に作動している。初めは主人公を警戒・攻撃するが、[ハッキング](https://ja.wikipedia.org/wiki/ハッキング "wikilink")することによって主人公の敵（リトルシスターを除く）を攻撃させる味方にすることが可能。
-    自動警備システムは 3種のタイプが存在する。一部のトニックは多様な警備システムを欺く目的に製作されたが、[ディテクティング（探知）機能があるものは天然](https://ja.wikipedia.org/wiki/センサー "wikilink")[カモフラージュ](https://ja.wikipedia.org/wiki/カモフラージュ "wikilink")（Natural Camouflage）トニックを使ってもプレーヤーを発見する。
+    [ヘルメット潜水](../Page/ヘルメット潜水.md "wikilink")の装備のような姿をしたリトルシスターの[護衛](https://ja.wikipedia.org/wiki/護衛 "wikilink")役。その[報酬](../Page/報酬.md "wikilink")として彼女からADAMを分け与えられている。フォンテイン死亡後、リトルシスターの安全を危惧したライアンがライアン・インダストリーズ（Ryan Industries）に作らせた。ロボットのように見えるが正体はADAMを投与された上に[肉体改造](https://ja.wikipedia.org/wiki/肉体改造 "wikilink")され、[装甲](../Page/装甲.md "wikilink")と[武器](../Page/武器.md "wikilink")を装着された人間である（[徹甲弾](../Page/徹甲弾.md "wikilink")で攻撃すれば, ヘルメット潜水に血痕ができる）。[ドリル](https://ja.wikipedia.org/wiki/ドリル "wikilink")を装備した[接近戦タイプ](../Page/白兵戦.md "wikilink")“バウンサー（Bouncer）”と[リベットガン](https://ja.wikipedia.org/wiki/リベットガン "wikilink")を装備した遠距離戦タイプ“ロージー（Rosie）”が存在し、更に通常バージョン（潜水服が茶色）と能力の高いエリートバージョン（潜水服が紅白）が存在する。手を出さない限り無害であるが、リトルシスターへ近づく者を[威嚇](../Page/威嚇.md "wikilink")し、攻撃された場合は不気味な叫び声を上げて対象を殺害、または破壊するまで執拗に攻撃する。なお、リトルシスターからは「ミスター・B（Mr.B）」あるいは「ミスター・バブルス（Mr.Bubbles）」の愛称で呼ばれている。
+  - 自動[警備](../Page/警備.md "wikilink")システム（Automatic Security System）
+    ラプチャーには外部からの侵入者を阻むために[人工知能](../Page/人工知能.md "wikilink")警備システムが設置され、ADAMによってラプチャーが崩壊した後にも無事に作動している。初めは主人公を警戒・攻撃するが、[ハッキング](../Page/ハッキング.md "wikilink")することによって主人公の敵（リトルシスターを除く）を攻撃させる味方にすることが可能。
+    自動警備システムは 3種のタイプが存在する。一部のトニックは多様な警備システムを欺く目的に製作されたが、[ディテクティング（探知）機能があるものは天然](https://ja.wikipedia.org/wiki/センサー "wikilink")[カモフラージュ](../Page/カモフラージュ.md "wikilink")（Natural Camouflage）トニックを使ってもプレーヤーを発見する。
 
 ## 武器
 
-[弾](https://ja.wikipedia.org/wiki/弾 "wikilink")の種類によって様々な効果が得られる。弾丸の（）内は[Xbox 360日本版での名称](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")。
+[弾](https://ja.wikipedia.org/wiki/弾 "wikilink")の種類によって様々な効果が得られる。弾丸の（）内は[Xbox 360日本版での名称](../Page/Xbox_360.md "wikilink")。
 
   - [レンチ](../Page/レンチ.md "wikilink")（WRENCH）
-    物語の最初に手に入る[鈍器](https://ja.wikipedia.org/wiki/鈍器 "wikilink")。[パイプレンチ](https://ja.wikipedia.org/wiki/パイプレンチ "wikilink")がモデル。使用回数制限が無いので障害物や窓を破壊するときにも便利。最初は弱いがトニックを使うことで大幅に強化出来る。
+    物語の最初に手に入る[鈍器](https://ja.wikipedia.org/wiki/鈍器 "wikilink")。[パイプレンチ](../Page/パイプレンチ.md "wikilink")がモデル。使用回数制限が無いので障害物や窓を破壊するときにも便利。最初は弱いがトニックを使うことで大幅に強化出来る。
   - [ピストル](../Page/ピストル.md "wikilink")（Pistol）
-    オーソドックスな武器。[38口径](https://ja.wikipedia.org/wiki/:en:.38_S&W "wikilink")[回転式拳銃](../Page/回転式拳銃.md "wikilink")。[エンフィールドNo.2がモデル](https://ja.wikipedia.org/wiki/エンフィールド・リボルバー "wikilink")。精度が高く、ヘッドショットが狙いやすい。威力は中程度で所持できる[弾丸](../Page/弾丸.md "wikilink")は少なめ。アップグレードは威力強化と弾薬装填数アップ（24発装填になり、銃右側に[ドラムマガジン](https://ja.wikipedia.org/wiki/ドラムマガジン "wikilink")のような物体が付く）。
+    オーソドックスな武器。[38口径](https://ja.wikipedia.org/wiki/:en:.38_S&W "wikilink")[回転式拳銃](../Page/回転式拳銃.md "wikilink")。[エンフィールドNo.2がモデル](../Page/エンフィールド・リボルバー.md "wikilink")。精度が高く、ヘッドショットが狙いやすい。威力は中程度で所持できる[弾丸](../Page/弾丸.md "wikilink")は少なめ。アップグレードは威力強化と弾薬装填数アップ（24発装填になり、銃右側に[ドラムマガジン](https://ja.wikipedia.org/wiki/ドラムマガジン "wikilink")のような物体が付く）。
       - 通常弾（[弾丸](../Page/弾丸.md "wikilink")）：3つの中では平均的能力を持つ。
       - [徹甲弾](../Page/徹甲弾.md "wikilink")（ピアッシングブレット）：機械やビッグダディ等の、装甲を持つ敵に対して有効。
       - 対人弾（アンチパーソネルブレット）：人間などの生命体に対して有効。
@@ -109,7 +109,7 @@
       - 電気弾（エレキショット）：電気を帯びた弾薬。機械に対して有効。
       - 爆発弾（[ブラスト](https://ja.wikipedia.org/wiki/ブラスト "wikilink")ショット）：被弾した敵は燃える。
   - [グレネードランチャー](https://ja.wikipedia.org/wiki/グレネードランチャー "wikilink")（Grenade Launcher）
-    バズーカと似ているこの武器はさまざまな[爆発物](https://ja.wikipedia.org/wiki/爆発物 "wikilink")を発射する。6発装填。威力が高く、広い攻撃範囲を持っている。しかし、至近距離で使用すると爆風によりダメージを受けることがあるため使用時注意が必要である。アップグレードは威力と攻撃範囲のアップと、爆風ダメージ無視設定（至近距離で使用しても爆風のダメージを受けない）。
+    バズーカと似ているこの武器はさまざまな[爆発物](../Page/爆発物.md "wikilink")を発射する。6発装填。威力が高く、広い攻撃範囲を持っている。しかし、至近距離で使用すると爆風によりダメージを受けることがあるため使用時注意が必要である。アップグレードは威力と攻撃範囲のアップと、爆風ダメージ無視設定（至近距離で使用しても爆風のダメージを受けない）。
       - [手榴弾](../Page/手榴弾.md "wikilink")（グレネード）：敵に被弾するか一定時間経つと爆発する。
       - [地雷](https://ja.wikipedia.org/wiki/地雷 "wikilink")（センサーマイン）：床だけでなく壁等にも設置可能。一定距離に近づくと爆発する。
       - [ミサイル](../Page/ミサイル.md "wikilink")（[ホーミングロケット](https://ja.wikipedia.org/wiki/ミサイルの誘導方式#ホーミング誘導 "wikilink")）：敵を追尾するロケット弾。素早い敵に有効。
@@ -122,7 +122,7 @@
     [矢](../Page/矢.md "wikilink")を発射する。遠距離からの狙撃に有効で、1発の威力が非常に高い。このゲームでは[スナイパーライフル](https://ja.wikipedia.org/wiki/スナイパーライフル "wikilink")の代用品として登場する。ただ、リロード時間が長いため、多くの敵と同時に戦うのは不向き。矢は壊れない限り回収して何度も使うことが可能。装填矢は5発。アップグレードは矢の耐久力強化と威力強化。
       - [矢](../Page/矢.md "wikilink")（ステンレス[ボルト](https://ja.wikipedia.org/wiki/:en:Quarrel "wikilink")）：通常の矢。
       - [火矢](../Page/火矢.md "wikilink")（ヒートボルト）：通常の矢より威力が高い。熱を帯びているようだが、敵に当たっても燃えない。
-      - 罠矢（トラップボルト）：壁に当たると電気を帯びたワイヤーが伸び、[罠](https://ja.wikipedia.org/wiki/罠 "wikilink")に使える。
+      - 罠矢（トラップボルト）：壁に当たると電気を帯びたワイヤーが伸び、[罠](../Page/罠.md "wikilink")に使える。
   - リサーチ[カメラ](../Page/カメラ.md "wikilink")（Research Camera）
     殺傷用の武器ではないが、撮影することで敵の情報を分析し、与えるダメージを増加させたり特殊なスキルを身につけたりすることが出来る。銃の弾薬同様、フィルムの所持数だけ撮影が可能。
 
@@ -130,11 +130,11 @@
 
   - [ファーストエイド](https://ja.wikipedia.org/wiki/ファーストエイド "wikilink")
     体力を一定量回復することが可能。最大9個までストック可能。
-  - EVE[注入器](https://ja.wikipedia.org/wiki/注射器 "wikilink")
+  - EVE[注入器](../Page/注射器.md "wikilink")
     EVEゲージを満タンにすることが可能。最大9個までストック可能。
   - オートハッカー
     ハッキングを無条件で成功させることが可能。一回限りの使いきり式のアイテムで、最大5個までストック可能。
-  - 食品類、[包帯](https://ja.wikipedia.org/wiki/包帯 "wikilink")
+  - 食品類、[包帯](../Page/包帯.md "wikilink")
     拾った瞬間に体力を一部回復させる。
   - [コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")
     拾った瞬間にEVEゲージを一部回復させる。
@@ -290,7 +290,7 @@
   - レジスター
     螺旋状の水道管。区間内の液体通過速度が下がる。
   - オーバーロード
-    機械が[短絡](https://ja.wikipedia.org/wiki/短絡 "wikilink")を起こし、ハッキングが失敗する。そのまま液体をこぼしてしまった時よりも受けるダメージが更に大きくなる。
+    機械が[短絡](../Page/短絡.md "wikilink")を起こし、ハッキングが失敗する。そのまま液体をこぼしてしまった時よりも受けるダメージが更に大きくなる。
   - 警報パーツ
     ハッキング失敗のうえ、セキュリティシステムが作動してしまう。
 

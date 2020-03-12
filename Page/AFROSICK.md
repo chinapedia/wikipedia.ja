@@ -1,17 +1,17 @@
 > この記事は[AFROSICK](https://ja.wikipedia.org/wiki/AFROSICK)から翻訳されています。
 
 
-**AFROSICK**（あふろしっく）は、[THE BOOMおよび](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")[GANGA ZUMBAのボーカリスト](https://ja.wikipedia.org/wiki/GANGA_ZUMBA "wikilink")・[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発表した、2ndソロアルバムである。タイトルの"AFROSICK"（「アフロ病」）は、宮沢の造語。
+**AFROSICK**（あふろしっく）は、[THE BOOMおよび](../Page/THE_BOOM.md "wikilink")[GANGA ZUMBAのボーカリスト](../Page/GANGA_ZUMBA.md "wikilink")・[宮沢和史](../Page/宮沢和史.md "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発表した、2ndソロアルバムである。タイトルの"AFROSICK"（「アフロ病」）は、宮沢の造語。
 
 ## 概要
 
-前作「Sixteenth Moon」を真冬のイギリスでレコーディングした宮沢は、休む間もなく真夏のブラジルへ渡り、2枚目のソロアルバム、すなわちこの「AFROSICK」のレコーディングに取りかかる。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")12月に[サルヴァドール](https://ja.wikipedia.org/wiki/サルヴァドール "wikilink")にて、年明けの1月には[リオ・デ・ジャネイロ](https://ja.wikipedia.org/wiki/リオ・デ・ジャネイロ "wikilink")でレコーディングが行われた。このレコーディングには、ブラジルのミュージックシーンを担う新世代のアーティストが参加。[マルコス・スザーノ](https://ja.wikipedia.org/wiki/マルコス・スザーノ "wikilink")、[カルニーニョス・ブラウン](https://ja.wikipedia.org/wiki/カルニーニョス・ブラウン "wikilink")、[レニーニ](https://ja.wikipedia.org/wiki/レニーニ "wikilink")などである。
+前作「Sixteenth Moon」を真冬のイギリスでレコーディングした宮沢は、休む間もなく真夏のブラジルへ渡り、2枚目のソロアルバム、すなわちこの「AFROSICK」のレコーディングに取りかかる。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")12月に[サルヴァドール](../Page/サルヴァドール.md "wikilink")にて、年明けの1月には[リオ・デ・ジャネイロ](https://ja.wikipedia.org/wiki/リオ・デ・ジャネイロ "wikilink")でレコーディングが行われた。このレコーディングには、ブラジルのミュージックシーンを担う新世代のアーティストが参加。[マルコス・スザーノ](../Page/マルコス・スザーノ.md "wikilink")、[カルニーニョス・ブラウン](https://ja.wikipedia.org/wiki/カルニーニョス・ブラウン "wikilink")、[レニーニ](https://ja.wikipedia.org/wiki/レニーニ "wikilink")などである。
 
 なお、このアルバムは以下の3種類が存在する。
 
 1.  「[AFROSICK（オリジナル・ポルトガル語ヴァージョン）](https://ja.wikipedia.org/wiki/AFROSICK#オリジナル・ポルトガル語ヴァージョン "wikilink")」（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")発売）－ブラジル発売用に製作された、前編ポルトガル語のアルバム
 2.  「[AFROSICK](https://ja.wikipedia.org/wiki/AFROSICK#日本版 "wikilink")」（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月18日](../Page/7月18日.md "wikilink")発売）－日本発売用で主に日本語で歌われたものである。
-3.  「[AFROSICK（ポルトガル語ヴァージョン）](https://ja.wikipedia.org/wiki/AFROSICK#ポルトガル語ヴァージョン "wikilink")」（1998年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")発売）－1の「オリジナル・ポルトガル語ヴァージョン」に、[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")として[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")を4ヴァージョン加え、宮沢本人の[ライナーノーツ](https://ja.wikipedia.org/wiki/ライナーノーツ "wikilink")等を加えた日本編集盤
+3.  「[AFROSICK（ポルトガル語ヴァージョン）](https://ja.wikipedia.org/wiki/AFROSICK#ポルトガル語ヴァージョン "wikilink")」（1998年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")発売）－1の「オリジナル・ポルトガル語ヴァージョン」に、[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")として[リミックス](../Page/リミックス.md "wikilink")を4ヴァージョン加え、宮沢本人の[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")等を加えた日本編集盤
 
 いずれも曲順は同じだが、[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")と[日本語](../Page/日本語.md "wikilink")の楽曲では曲名が異なる。
 

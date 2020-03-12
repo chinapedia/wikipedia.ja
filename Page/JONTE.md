@@ -1,9 +1,9 @@
 > この記事は[JONTE](https://ja.wikipedia.org/wiki/JONTE)から翻訳されています。
 
 
-**[JONTE](https://ja.wikipedia.org/wiki/JONTE "wikilink")**（ジョンテ、本名：**施鐘泰**（シ・ジョンテ）、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[12月17日](../Page/12月17日.md "wikilink") - ）は、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[俳優](../Page/俳優.md "wikilink")である。
+**[JONTE](../Page/JONTE.md "wikilink")**（ジョンテ、本名：**施鐘泰**（シ・ジョンテ）、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[12月17日](../Page/12月17日.md "wikilink") - ）は、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[俳優](../Page/俳優.md "wikilink")である。
 
-[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[八尾市](../Page/八尾市.md "wikilink")出身。[在日韓国人](../Page/在日韓国・朝鮮人.md "wikilink")3世。身長181cm。
+[大阪府](../Page/大阪府.md "wikilink")[八尾市](../Page/八尾市.md "wikilink")出身。[在日韓国人](../Page/在日韓国・朝鮮人.md "wikilink")3世。身長181cm。
 
 ## 略歴
 

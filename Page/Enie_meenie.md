@@ -12,7 +12,7 @@
 ## 旧メンバー
 
   - **室伏貴行**（むろふしたかゆき、[1981年](../Page/1981年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink") - ）ギター
-  - **河村亮**（かわむらりょう、[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")[5月27日](../Page/5月27日.md "wikilink") - ）シンセサイザー
+  - **河村亮**（かわむらりょう、[1976年](../Page/1976年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink") - ）シンセサイザー
 
 ## ディスコグラフィー
 
@@ -168,7 +168,7 @@
 <li>You share the same heart in theory / <a href="https://ja.wikipedia.org/wiki/エレキベース_(バンド)" title="wikilink">エレキベース</a></li>
 <li>オーケストラ / <a href="https://ja.wikipedia.org/wiki/H." title="wikilink">H.</a></li>
 <li>BORN TO DIE / <a href="../Page/BUNGEE_JUMP_FESTIVAL.md" title="wikilink">BUNGEE JUMP FESTIVAL</a></li>
-<li>少女と鵺 / <a href="https://ja.wikipedia.org/wiki/Base_Ball_Bear" title="wikilink">Base Ball Bear</a></li>
+<li>少女と鵺 / <a href="../Page/Base_Ball_Bear.md" title="wikilink">Base Ball Bear</a></li>
 <li>アメノリズム / <a href="https://ja.wikipedia.org/wiki/HERISH" title="wikilink">HERISH</a></li>
 <li>RUB / <a href="https://ja.wikipedia.org/wiki/JOHN_STEP" title="wikilink">JOHN STEP</a></li>
 <li><strong>ジュエルケース / enie meenie</strong></li>
@@ -275,7 +275,7 @@
   - [Weezer](https://ja.wikipedia.org/wiki/Weezer "wikilink") - 音楽性への影響を公言
   - [Pavement](https://ja.wikipedia.org/wiki/Pavement "wikilink") - ミニアルバム'curtain call'にて、楽曲'Shady Lane'をカバー
   - [THE PRESIDENTS OF THE UNITED STATES OF AMERICA](https://ja.wikipedia.org/wiki/THE_PRESIDENTS_OF_THE_UNITED_STATES_OF_AMERICA "wikilink") - アルバム'stars'にて、楽曲'Praches'をカバー
-  - [Pearl Jam](https://ja.wikipedia.org/wiki/パール・ジャム "wikilink") - アルバム'stars'にて、楽曲'Go'をカバー
+  - [Pearl Jam](../Page/パール・ジャム.md "wikilink") - アルバム'stars'にて、楽曲'Go'をカバー
   - [The Beatles](https://ja.wikipedia.org/wiki/The_Beatles "wikilink") - アルバム'Fantasy Of Life'にて、楽曲'Real Love'をカバー
   - [The Get Up Kids](https://ja.wikipedia.org/wiki/The_Get_Up_Kids "wikilink") - トリビュートアルバムにて、楽曲'All That I Know'をカバー
   - [The Seekers](https://ja.wikipedia.org/wiki/The_Seekers "wikilink") - アルバム'Tokyo reflection'にて、楽曲'Gerogy Girl'をカバー

@@ -9,11 +9,11 @@
 
 ## 収録内容
 
-1.  [Wait & See 〜リスク〜](https://ja.wikipedia.org/wiki/Wait_&_See_〜リスク〜 "wikilink")
+1.  [Wait & See 〜リスク〜](../Page/Wait_&_See_〜リスク〜.md "wikilink")
 2.  [For You](https://ja.wikipedia.org/wiki/For_You/タイム・リミット "wikilink")
 3.  [タイム・リミット](https://ja.wikipedia.org/wiki/For_You/タイム・リミット "wikilink")
-4.  [Can You Keep A Secret?](https://ja.wikipedia.org/wiki/Can_You_Keep_A_Secret? "wikilink")
-5.  [FINAL DISTANCE](https://ja.wikipedia.org/wiki/FINAL_DISTANCE "wikilink")
+4.  [Can You Keep A Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")
+5.  [FINAL DISTANCE](../Page/FINAL_DISTANCE.md "wikilink")
 6.  Making Of "Wait\&See 〜リスク〜"
 7.  Making Of "Can You Keep A Secret?"
 8.  Making Of "FINAL DISTANCE"

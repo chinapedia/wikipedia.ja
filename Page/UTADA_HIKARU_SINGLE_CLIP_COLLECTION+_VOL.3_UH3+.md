@@ -10,11 +10,11 @@
 
 ## 収録内容
 
-1.  **[FINAL DISTANCE](https://ja.wikipedia.org/wiki/FINAL_DISTANCE "wikilink")**
+1.  **[FINAL DISTANCE](../Page/FINAL_DISTANCE.md "wikilink")**
 2.  **[traveling](https://ja.wikipedia.org/wiki/traveling "wikilink")**
-3.  **[光](https://ja.wikipedia.org/wiki/光_\(宇多田ヒカルの曲\) "wikilink")**
+3.  **[光](../Page/光_\(宇多田ヒカルの曲\).md "wikilink")**
 4.  **[SAKURAドロップス](https://ja.wikipedia.org/wiki/SAKURAドロップス/Letters "wikilink")**
-5.  **[Deep River](https://ja.wikipedia.org/wiki/DEEP_RIVER "wikilink")**
+5.  **[Deep River](../Page/DEEP_RIVER.md "wikilink")**
 6.  **Making Of "FINAL DISTANCE"**
 7.  **Making Of "traveling"**
 8.  **Making Of "光"**

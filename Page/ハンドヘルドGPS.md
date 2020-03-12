@@ -13,7 +13,7 @@
 
 ### カーナビなど
 
-[PDAと一体化させることで](../Page/携帯情報端末.md "wikilink")、小型の[カーナビ](https://ja.wikipedia.org/wiki/カーナビ "wikilink")ともいえる高機能を実現した製品もある。[PND](https://ja.wikipedia.org/wiki/PND "wikilink")と総称される。
+[PDAと一体化させることで](../Page/携帯情報端末.md "wikilink")、小型の[カーナビ](https://ja.wikipedia.org/wiki/カーナビ "wikilink")ともいえる高機能を実現した製品もある。[PND](../Page/PND.md "wikilink")と総称される。
 
 ### 携帯電話・スマートフォン
 
@@ -21,7 +21,7 @@
 
 ### 周辺機器としてのGPS
 
-[ノートパソコン](../Page/ノートパソコン.md "wikilink")、PDA、携帯電話に接続することで、それらにGPSの機能を追加する製品もある。ほとんどの製品は[USBか](../Page/ユニバーサル・シリアル・バス.md "wikilink")[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")で接続する。
+[ノートパソコン](../Page/ノートパソコン.md "wikilink")、PDA、携帯電話に接続することで、それらにGPSの機能を追加する製品もある。ほとんどの製品は[USBか](../Page/ユニバーサル・シリアル・バス.md "wikilink")[Bluetooth](../Page/Bluetooth.md "wikilink")で接続する。
 
 ## 製品
 
@@ -31,7 +31,7 @@
 
 ### 特定用途に特化した製品
 
-[登山](../Page/登山.md "wikilink")用、[ジョギング](../Page/ジョギング.md "wikilink")・[サイクリング](https://ja.wikipedia.org/wiki/サイクリング "wikilink")用、ロギング（移動軌跡の記録）用など、用途を特化し機能を充実させた製品も登場している。
+[登山](../Page/登山.md "wikilink")用、[ジョギング](../Page/ジョギング.md "wikilink")・[サイクリング](../Page/サイクリング.md "wikilink")用、ロギング（移動軌跡の記録）用など、用途を特化し機能を充実させた製品も登場している。
 
 ### より小型な製品
 
@@ -43,7 +43,7 @@
 
 ### GNSS対応製品
 
-アメリカの[GPSだけでなく](../Page/グローバル・ポジショニング・システム.md "wikilink")、他の[衛星測位システム](https://ja.wikipedia.org/wiki/衛星測位システム "wikilink")（[GLONASS](https://ja.wikipedia.org/wiki/GLONASS "wikilink")・[Galileo](../Page/ガリレオ_\(測位システム\).md "wikilink")・[BDSなど](https://ja.wikipedia.org/wiki/北斗衛星導航系統 "wikilink")）に対応したものを、区別してGNSS受信機（**ハンドヘルドGNSS**）と呼ぶ事もある。ただし、そのような場合でも代名詞的に”GPS"と総称される場合もある。
+アメリカの[GPSだけでなく](../Page/グローバル・ポジショニング・システム.md "wikilink")、他の[衛星測位システム](../Page/衛星測位システム.md "wikilink")（[GLONASS](../Page/GLONASS.md "wikilink")・[Galileo](../Page/ガリレオ_\(測位システム\).md "wikilink")・[BDSなど](https://ja.wikipedia.org/wiki/北斗衛星導航系統 "wikilink")）に対応したものを、区別してGNSS受信機（**ハンドヘルドGNSS**）と呼ぶ事もある。ただし、そのような場合でも代名詞的に”GPS"と総称される場合もある。
 
 ## メーカー
 

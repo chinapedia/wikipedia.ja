@@ -1,9 +1,9 @@
 > この記事は[TV!](https://ja.wikipedia.org/wiki/TV!)から翻訳されています。
 
 
-『**マッドTV\!**』（*MADtv*）は、[風刺](https://ja.wikipedia.org/wiki/風刺 "wikilink")[雑誌](../Page/雑誌.md "wikilink")『[MAD](../Page/MAD_\(雑誌\).md "wikilink")』から派生した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[コメディ](../Page/喜劇.md "wikilink")[番組である](../Page/テレビ番組.md "wikilink")。[ワーナー・ブラザース・テレビジョン](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・テレビジョン "wikilink")の配給により、[FOXテレビで毎週土曜日午後](https://ja.wikipedia.org/wiki/フォックス放送 "wikilink")11時（『[サタデー・ナイト・ライブ](https://ja.wikipedia.org/wiki/サタデー・ナイト・ライブ "wikilink")』と同時間帯）から放送された。初回放送は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")。
+『**マッドTV\!**』（*MADtv*）は、[風刺](../Page/風刺.md "wikilink")[雑誌](../Page/雑誌.md "wikilink")『[MAD](../Page/MAD_\(雑誌\).md "wikilink")』から派生した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[コメディ](../Page/喜劇.md "wikilink")[番組である](../Page/テレビ番組.md "wikilink")。[ワーナー・ブラザース・テレビジョン](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・テレビジョン "wikilink")の配給により、[FOXテレビで毎週土曜日午後](../Page/フォックス放送.md "wikilink")11時（『[サタデー・ナイト・ライブ](../Page/サタデー・ナイト・ライブ.md "wikilink")』と同時間帯）から放送された。初回放送は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[FOXチャンネル](https://ja.wikipedia.org/wiki/FOXチャンネル "wikilink")で一部エピソードが日本語字幕付きで放送され、ストリーミング放送の[GYAO\!](https://ja.wikipedia.org/wiki/GYAO! "wikilink")でも一部エピソードが期限付きで放送された。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[FOXチャンネル](../Page/FOXチャンネル.md "wikilink")で一部エピソードが日本語字幕付きで放送され、ストリーミング放送の[GYAO\!](../Page/GYAO!.md "wikilink")でも一部エピソードが期限付きで放送された。
 
 [2009年](../Page/2009年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")をもってオリジナル版の放送を終了したものの、[2016年](../Page/2016年.md "wikilink")に[CWテレビジョンネットワーク](../Page/CWテレビジョンネットワーク.md "wikilink")で特別番組が組まれるとともに、リバイバル版として計8エピソードが放送された。
 
@@ -11,9 +11,9 @@
 
 ### オリジナル版
 
-[1990年代](../Page/1990年代.md "wikilink")前半に[FOXテレビで](https://ja.wikipedia.org/wiki/フォックス放送 "wikilink")[コント](../Page/コント.md "wikilink")番組『[イン・リヴィング・カラー](https://ja.wikipedia.org/wiki/:en:In_Living_Color "wikilink")』を制作していた脚本家兼プロデューサーの[ファックス・バー](https://ja.wikipedia.org/wiki/ファックス・バー "wikilink")と[アダム・スモール](https://ja.wikipedia.org/wiki/アダム・スモール "wikilink")は、[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")の長寿[コメディ](../Page/喜劇.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[サタデー・ナイト・ライブ](https://ja.wikipedia.org/wiki/サタデー・ナイト・ライブ "wikilink")』に対抗するため、テレビ版『[MAD](../Page/MAD_\(雑誌\).md "wikilink")』を制作することを決意する。
+[1990年代](../Page/1990年代.md "wikilink")前半に[FOXテレビで](../Page/フォックス放送.md "wikilink")[コント](../Page/コント.md "wikilink")番組『[イン・リヴィング・カラー](https://ja.wikipedia.org/wiki/:en:In_Living_Color "wikilink")』を制作していた脚本家兼プロデューサーの[ファックス・バー](https://ja.wikipedia.org/wiki/ファックス・バー "wikilink")と[アダム・スモール](https://ja.wikipedia.org/wiki/アダム・スモール "wikilink")は、[NBC](../Page/NBC.md "wikilink")の長寿[コメディ](../Page/喜劇.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[サタデー・ナイト・ライブ](../Page/サタデー・ナイト・ライブ.md "wikilink")』に対抗するため、テレビ版『[MAD](../Page/MAD_\(雑誌\).md "wikilink")』を制作することを決意する。
 
-番組のタイトルは『マッドTV\!』と決定され、『サタデー・ナイト・ライブ』の[裏番組](https://ja.wikipedia.org/wiki/裏番組 "wikilink")として[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")の午後11時台に初回が放送された。バー＝スモール・プロダクションズに加えて[クインシー・ジョーンズ](https://ja.wikipedia.org/wiki/クインシー・ジョーンズ "wikilink")のプロダクションが製作を担当し、一時は[視聴率](../Page/視聴率.md "wikilink")で『サタデー・ナイト・ライブ』を追い抜くこともあった。
+番組のタイトルは『マッドTV\!』と決定され、『サタデー・ナイト・ライブ』の[裏番組](../Page/裏番組.md "wikilink")として[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")の午後11時台に初回が放送された。バー＝スモール・プロダクションズに加えて[クインシー・ジョーンズ](../Page/クインシー・ジョーンズ.md "wikilink")のプロダクションが製作を担当し、一時は[視聴率](../Page/視聴率.md "wikilink")で『サタデー・ナイト・ライブ』を追い抜くこともあった。
 
 ジョーンズが製作に携わっていたこともあり、番組にはアフリカ系のコメディアンも多く参加した。
 
@@ -27,7 +27,7 @@
 
 ## 概要
 
-番組は[コント](../Page/コント.md "wikilink")、[アニメーション](../Page/アニメーション.md "wikilink")、音楽パフォーマンスなどで構成され、テレビ番組や映画の[パロディ](https://ja.wikipedia.org/wiki/パロディ "wikilink")がふんだんに盛り込まれている。時事ネタや政治ネタが披露されることも少なくない。コント内で[放送禁止用語](../Page/放送禁止用語.md "wikilink")が連発されることもあるため、全編VTR収録になっている。
+番組は[コント](../Page/コント.md "wikilink")、[アニメーション](../Page/アニメーション.md "wikilink")、音楽パフォーマンスなどで構成され、テレビ番組や映画の[パロディ](../Page/パロディ.md "wikilink")がふんだんに盛り込まれている。時事ネタや政治ネタが披露されることも少なくない。コント内で[放送禁止用語](../Page/放送禁止用語.md "wikilink")が連発されることもあるため、全編VTR収録になっている。
 
 ## 過去の主なレギュラー
 
@@ -39,7 +39,7 @@
   - [メアリー・シェアー](https://ja.wikipedia.org/wiki/メアリー・シェアー "wikilink") [Mary Scheer](https://ja.wikipedia.org/wiki/:en:Mary_Scheer "wikilink") (1995-1998)
   - [ニコール・サリヴァン](https://ja.wikipedia.org/wiki/ニコール・サリヴァン_\(女優\) "wikilink") [Nicole Sullivan](https://ja.wikipedia.org/wiki/:en:Nicole_Sullivan "wikilink") (1995-2001）
   - [デブラ・ウィルソン](https://ja.wikipedia.org/wiki/デブラ・ウィルソン "wikilink") [Debra Wilson](https://ja.wikipedia.org/wiki/:en:Debra_Wilson "wikilink") (1995-2003)
-  - [アレックス・ボースタイン](https://ja.wikipedia.org/wiki/アレックス・ボースタイン "wikilink") [Alex Borstein](https://ja.wikipedia.org/wiki/:en:Alex_Borstein "wikilink") (1997-2002)
+  - [アレックス・ボースタイン](../Page/アレックス・ボースタイン.md "wikilink") [Alex Borstein](https://ja.wikipedia.org/wiki/:en:Alex_Borstein "wikilink") (1997-2002)
   - [パット・キルバーン](https://ja.wikipedia.org/wiki/パット・キルバーン "wikilink") [Pat Kilbane](https://ja.wikipedia.org/wiki/:en:Pat_Kilbane "wikilink") (1997-2000)
   - [ウィル・サッソ](https://ja.wikipedia.org/wiki/ウィル・サッソ "wikilink")ー [Will Sasso](https://ja.wikipedia.org/wiki/:en:Will_Sasso "wikilink") (1997-2002)
   - [エリーズ・スピアーズ](https://ja.wikipedia.org/wiki/エリーズ・スピアーズ "wikilink") [Aries Spears](https://ja.wikipedia.org/wiki/:en:Aries_Spears "wikilink") (1997-2005)

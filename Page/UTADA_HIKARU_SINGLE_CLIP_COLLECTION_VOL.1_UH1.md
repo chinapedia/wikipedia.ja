@@ -6,9 +6,9 @@
 ## 収録内容
 
 1.  [Automatic](https://ja.wikipedia.org/wiki/Automatic/time_will_tell "wikilink")
-2.  [Movin' on without you](https://ja.wikipedia.org/wiki/Movin'_on_without_you "wikilink")
-3.  [First Love](https://ja.wikipedia.org/wiki/First_Love_\(宇多田ヒカルの曲\) "wikilink")
-4.  [Addicted To You](https://ja.wikipedia.org/wiki/Addicted_To_You "wikilink") UP-IN-HEAVEN MIX
+2.  [Movin' on without you](../Page/Movin'_on_without_you.md "wikilink")
+3.  [First Love](../Page/First_Love_\(宇多田ヒカルの曲\).md "wikilink")
+4.  [Addicted To You](../Page/Addicted_To_You.md "wikilink") UP-IN-HEAVEN MIX
 5.  Making Of "Movin' on without you"
 6.  Making Of "Addicted To You"
 7.  bonus track "[time will tell](https://ja.wikipedia.org/wiki/Automatic/time_will_tell "wikilink")"

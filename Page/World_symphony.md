@@ -1,7 +1,7 @@
 > この記事は[World symphony](https://ja.wikipedia.org/wiki/World_symphony)から翻訳されています。
 
 
-**world symphony**（ワールド シンフォニー）は、日本のロックバンド[ACIDMAN](../Page/ACIDMAN.md "wikilink")の10thシングル。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月9日](../Page/11月9日.md "wikilink")発売。
+**world symphony**（ワールド シンフォニー）は、日本のロックバンド[ACIDMAN](../Page/ACIDMAN.md "wikilink")の10thシングル。[2005年](../Page/2005年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")発売。
 
 ## 概要
 
@@ -14,10 +14,10 @@
 1.  **world symphony**(4:05)
       -
         4thアルバム『and world』に収録。
-        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[JAPAN COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")」2005年12月度オープニングテーマ曲。
+        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")」2005年12月度オープニングテーマ曲。
 2.  **turn around(second line)**(3:44)
       -
-        2ndアルバム『[Loop](https://ja.wikipedia.org/wiki/Loop_\(アルバム\) "wikilink")』に収録されている「turn around」をアコースティックアレンジしたもの。
+        2ndアルバム『[Loop](../Page/Loop_\(アルバム\).md "wikilink")』に収録されている「turn around」をアコースティックアレンジしたもの。
 
 作詞：大木伸夫、作曲：ACIDMAN
 

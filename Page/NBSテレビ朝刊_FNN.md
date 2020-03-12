@@ -1,7 +1,7 @@
 > この記事は[NBS FNN](https://ja.wikipedia.org/wiki/NBS_FNN)から翻訳されています。
 
 
-『**NBSテレビ朝刊 FNN**』（エヌビーエステレビちょうかん エフエヌエヌ）は、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[1975年](../Page/1975年.md "wikilink")[9月](../Page/9月.md "wikilink")までと[1977年](../Page/1977年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1982年](../Page/1982年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までの2期にわたって[長野放送](../Page/長野放送.md "wikilink")で放送されていた、[フジテレビ発の全国ニュース番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNテレビ朝刊](https://ja.wikipedia.org/wiki/FNNテレビ朝刊 "wikilink")』の差し替えタイトルである。
+『**NBSテレビ朝刊 FNN**』（エヌビーエステレビちょうかん エフエヌエヌ）は、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[1975年](../Page/1975年.md "wikilink")[9月](../Page/9月.md "wikilink")までと[1977年](../Page/1977年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1982年](../Page/1982年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までの2期にわたって[長野放送](../Page/長野放送.md "wikilink")で放送されていた、[フジテレビ発の全国ニュース番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNテレビ朝刊](../Page/FNNテレビ朝刊.md "wikilink")』の差し替えタイトルである。
 
 ## 第1期
 
@@ -13,7 +13,7 @@
 
 それから1年半後の1977年4月4日、放送開始時刻が7時15分に繰り上がるのを受けて番組は復活した。この時期の放送時間もやはり全日共通で、7:15 (JST) からの15分間であった。
 
-番組が1982年3月31日に再度終了した後、NBSは平日の同時間帯で『[FNNモーニングワイド ニュース&スポーツ](https://ja.wikipedia.org/wiki/FNNモーニングワイド_ニュース&スポーツ "wikilink")』を差し替え無しで放送。そして土曜日には『[中日新聞ニュース](../Page/中日新聞ニュース.md "wikilink")』を、日曜日には『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』と独自の差し替えタイトルを放送した。
+番組が1982年3月31日に再度終了した後、NBSは平日の同時間帯で『[FNNモーニングワイド ニュース&スポーツ](../Page/FNNモーニングワイド_ニュース&スポーツ.md "wikilink")』を差し替え無しで放送。そして土曜日には『[中日新聞ニュース](../Page/中日新聞ニュース.md "wikilink")』を、日曜日には『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』と独自の差し替えタイトルを放送した。
 
 ## 差し替えの特徴
 

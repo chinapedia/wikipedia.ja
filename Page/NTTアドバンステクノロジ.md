@@ -3,11 +3,11 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Shinjuku_Mitsui_Building_2009_02.jpg "wikilink")
 
-**エヌ・ティ・ティ・アドバンステクノロジ株式会社**（**NTTアドバンステクノロジ**、NTT Advanced Technology Corporation、**NTT-AT**とも表記）は、[NTTグループ](../Page/NTTグループ.md "wikilink")に属し、光[デバイス](https://ja.wikipedia.org/wiki/デバイス "wikilink")・電子デバイスの設計・開発・販売、[ソフトウェア](../Page/ソフトウェア.md "wikilink")・[情報通信システム](https://ja.wikipedia.org/wiki/情報通信システム "wikilink")の設計・開発・運用、そしてそれらに関わる[コンサルティング](https://ja.wikipedia.org/wiki/コンサルティング "wikilink")をしている[ICT（情報通信技術）企業](https://ja.wikipedia.org/wiki/情報通信技術 "wikilink")。
+**エヌ・ティ・ティ・アドバンステクノロジ株式会社**（**NTTアドバンステクノロジ**、NTT Advanced Technology Corporation、**NTT-AT**とも表記）は、[NTTグループ](../Page/NTTグループ.md "wikilink")に属し、光[デバイス](https://ja.wikipedia.org/wiki/デバイス "wikilink")・電子デバイスの設計・開発・販売、[ソフトウェア](../Page/ソフトウェア.md "wikilink")・[情報通信システム](https://ja.wikipedia.org/wiki/情報通信システム "wikilink")の設計・開発・運用、そしてそれらに関わる[コンサルティング](../Page/コンサルティング.md "wikilink")をしている[ICT（情報通信技術）企業](https://ja.wikipedia.org/wiki/情報通信技術 "wikilink")。
 
 ## 概要
 
-かつては[NTTエレクトロニクス](https://ja.wikipedia.org/wiki/NTTエレクトロニクス "wikilink")、現[NTTテクノクロス](https://ja.wikipedia.org/wiki/NTTテクノクロス "wikilink")であるNTTソフトウェアおよび[NTTアイティ](https://ja.wikipedia.org/wiki/NTTアイティ "wikilink")（NTT-IT）と共にNTTグループ内で先端技術開発事業を受け持ち、NTTの各研究所とのつながりが深いため、**研究所系4社**と呼ばれていた。[2007年](../Page/2007年.md "wikilink")6月には、旧NTTソフトウェアの社長であった鈴木滋彦が当社の社長となった。[2017年](../Page/2017年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")付でNTTアイティがNTTソフトウェアに吸収合併されNTTテクノクロスが発足したが、その際に当社の[音響](https://ja.wikipedia.org/wiki/音響 "wikilink")・[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")事業も統合されている\[1\]\[2\]。
+かつては[NTTエレクトロニクス](https://ja.wikipedia.org/wiki/NTTエレクトロニクス "wikilink")、現[NTTテクノクロス](../Page/NTTテクノクロス.md "wikilink")であるNTTソフトウェアおよび[NTTアイティ](https://ja.wikipedia.org/wiki/NTTアイティ "wikilink")（NTT-IT）と共にNTTグループ内で先端技術開発事業を受け持ち、NTTの各研究所とのつながりが深いため、**研究所系4社**と呼ばれていた。[2007年](../Page/2007年.md "wikilink")6月には、旧NTTソフトウェアの社長であった鈴木滋彦が当社の社長となった。[2017年](../Page/2017年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")付でNTTアイティがNTTソフトウェアに吸収合併されNTTテクノクロスが発足したが、その際に当社の[音響](https://ja.wikipedia.org/wiki/音響 "wikilink")・[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")事業も統合されている\[1\]\[2\]。
 
 ## 事業分野
 
@@ -20,7 +20,7 @@
 
 ## 沿革
 
-  - [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink") 「日本通信技術株式会社」設立
+  - [1976年](../Page/1976年.md "wikilink") 「日本通信技術株式会社」設立
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") [日本電信電話公社](../Page/日本電信電話公社.md "wikilink")出資（資本金7000万円）
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") 社名変更「NTT技術移転株式会社」 増資（資本金1億7000万円）
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") 社名変更「NTTアドバンステクノロジ株式会社」増資（資本金4億7000万円）

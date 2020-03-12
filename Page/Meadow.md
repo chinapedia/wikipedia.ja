@@ -1,7 +1,7 @@
 > この記事は[Meadow](https://ja.wikipedia.org/wiki/Meadow)から翻訳されています。
 
 
-**Meadow** (*Multilingual enhancement to gnu Emacs with ADvantages Over Windows*)は、かつて開発されていた[テキストエディタ](https://ja.wikipedia.org/wiki/テキストエディタ "wikilink")である。[Microsoft Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Emacs](../Page/Emacs.md "wikilink")実装のひとつ\[1\]で、[Mule for Win32の後継に当たる](https://ja.wikipedia.org/wiki/Mule#Mule_for_Win32 "wikilink")。[Mule](https://ja.wikipedia.org/wiki/Mule "wikilink")の機能の大部分が取り込まれた[GNU Emacs](https://ja.wikipedia.org/wiki/GNU_Emacs "wikilink") 20をベースとして[宮下尚](https://ja.wikipedia.org/wiki/宮下尚 "wikilink")が開発したものであり\[2\]、英語版Microsoft Windows以外でも多言語をそのまま扱うことができる点が大きな特徴であった\[3\]。2014年頃に公式サイトが閉鎖され、開発およびサポートは終了している。
+**Meadow** (*Multilingual enhancement to gnu Emacs with ADvantages Over Windows*)は、かつて開発されていた[テキストエディタ](../Page/テキストエディタ.md "wikilink")である。[Microsoft Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Emacs](../Page/Emacs.md "wikilink")実装のひとつ\[1\]で、[Mule for Win32の後継に当たる](https://ja.wikipedia.org/wiki/Mule#Mule_for_Win32 "wikilink")。[Mule](../Page/Mule.md "wikilink")の機能の大部分が取り込まれた[GNU Emacs](../Page/GNU_Emacs.md "wikilink") 20をベースとして[宮下尚](https://ja.wikipedia.org/wiki/宮下尚 "wikilink")が開発したものであり\[2\]、英語版Microsoft Windows以外でも多言語をそのまま扱うことができる点が大きな特徴であった\[3\]。2014年頃に公式サイトが閉鎖され、開発およびサポートは終了している。
 
 ## バージョン
 

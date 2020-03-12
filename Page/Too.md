@@ -5,14 +5,14 @@
 
 ## 沿革
 
-  - [1919年](https://ja.wikipedia.org/wiki/1919年 "wikilink")（[大正](../Page/大正.md "wikilink")8年） - 東京都渋谷区にいづみや画材専門店として創業\[1\]
+  - [1919年](../Page/1919年.md "wikilink")（[大正](../Page/大正.md "wikilink")8年） - 東京都渋谷区にいづみや画材専門店として創業\[1\]
   - [1950年](../Page/1950年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")25年） - 有限会社いづみやを設立\[2\]。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年） - 株式会社いづみやに改組\[3\]。
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")（[平成](../Page/平成.md "wikilink")4年） - 株式会社Tooに商号を変更\[4\]。
+  - [1970年](../Page/1970年.md "wikilink")（昭和45年） - 株式会社いづみやに改組\[3\]。
+  - [1992年](../Page/1992年.md "wikilink")（[平成](../Page/平成.md "wikilink")4年） - 株式会社Tooに商号を変更\[4\]。
 
 ## 本社
 
-  - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")
+  - [東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")
 
 ## その他
 

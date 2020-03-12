@@ -1,7 +1,7 @@
 > この記事は[YoheyOKAMOTO](https://ja.wikipedia.org/wiki/YoheyOKAMOTO)から翻訳されています。
 
 
-**yoheyOKAMOTO**（ヨーヘイオカモト）はバンド[Hermann H.\&The Pacemakersでボーカル](https://ja.wikipedia.org/wiki/Hermann_H.&The_Pacemakers "wikilink")・ギターを務める**岡本洋平**が、同バンドの活動休止期間中（2004-2012年）に行っていた[ソロプロジェクト](https://ja.wikipedia.org/wiki/ソロプロジェクト "wikilink")である。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")始動。[茅ヶ崎](https://ja.wikipedia.org/wiki/茅ヶ崎 "wikilink")在住。
+**yoheyOKAMOTO**（ヨーヘイオカモト）はバンド[Hermann H.\&The Pacemakersでボーカル](../Page/Hermann_H.&The_Pacemakers.md "wikilink")・ギターを務める**岡本洋平**が、同バンドの活動休止期間中（2004-2012年）に行っていた[ソロプロジェクト](https://ja.wikipedia.org/wiki/ソロプロジェクト "wikilink")である。[2006年](../Page/2006年.md "wikilink")始動。[茅ヶ崎](https://ja.wikipedia.org/wiki/茅ヶ崎 "wikilink")在住。
 
 ## ディスコグラフィー
 
@@ -15,7 +15,7 @@
 
 ### アルバム
 
-1.  **LOCAL FOCUS**（2006年2月15日）[ユニバーサル ミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")/Gumbo Groove
+1.  **LOCAL FOCUS**（2006年2月15日）[ユニバーサル ミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")/Gumbo Groove
     1.  LOCAL FOCUS
     2.  STOP & GO
     3.  PEOPLE GO SIMPLE

@@ -1,11 +1,11 @@
 > この記事は[ATLAS Transformation Language](https://ja.wikipedia.org/wiki/ATLAS_Transformation_Language)から翻訳されています。
 
 
-**ATLAS Transformation Language**（**ATL**）は、[QVT](../Page/QVT.md "wikilink")の Request for Proposal を受けて [INRIA](https://ja.wikipedia.org/wiki/INRIA "wikilink") が開発した[モデル変換言語](../Page/モデル変換言語.md "wikilink")である。QVT は [Object Management Group](https://ja.wikipedia.org/wiki/Object_Management_Group "wikilink") による[モデル変換](../Page/モデル変換.md "wikilink")の標準である。ATL は、文法的変換にも[意味論的変換](https://ja.wikipedia.org/wiki/意味論的変換 "wikilink")にも使える。ATL は、モデル変換用[仮想機械](../Page/仮想機械.md "wikilink")上に構築されている。
+**ATLAS Transformation Language**（**ATL**）は、[QVT](../Page/QVT.md "wikilink")の Request for Proposal を受けて [INRIA](https://ja.wikipedia.org/wiki/INRIA "wikilink") が開発した[モデル変換言語](../Page/モデル変換言語.md "wikilink")である。QVT は [Object Management Group](../Page/Object_Management_Group.md "wikilink") による[モデル変換](../Page/モデル変換.md "wikilink")の標準である。ATL は、文法的変換にも[意味論的変換](https://ja.wikipedia.org/wiki/意味論的変換 "wikilink")にも使える。ATL は、モデル変換用[仮想機械](../Page/仮想機械.md "wikilink")上に構築されている。
 
 ## 実装
 
-関連して、オープンソースの ATL 開発ツールキット[プラグイン](../Page/プラグイン.md "wikilink")が [Eclipse](../Page/Eclipse_\(統合開発環境\).md "wikilink") Model-to-Model Transformation Project (EMP) から出ており、[MOF](../Page/Meta-Object_Facility.md "wikilink") [QVT](../Page/QVT.md "wikilink") (Query/View/Transformation language) を実装している。[こちら](http://www.eclipse.org/gmt/m2m/doc/)にある文書を参照されたい。変換のための大規模なライブラリが [ATL Transformations](http://www.eclipse.org/m2m/atl/atlTransformations/) にある。MOF QVT はモデル変換のための[ドメイン固有言語](../Page/ドメイン固有言語.md "wikilink")である。Ecore、EMF、KM3（メタモデル記述のための[ドメイン固有言語](../Page/ドメイン固有言語.md "wikilink")）などで記述されたモデルをサポートしている。ATL は MDR/[NetBeans](https://ja.wikipedia.org/wiki/NetBeans "wikilink") 上でも動作する。
+関連して、オープンソースの ATL 開発ツールキット[プラグイン](../Page/プラグイン.md "wikilink")が [Eclipse](../Page/Eclipse_\(統合開発環境\).md "wikilink") Model-to-Model Transformation Project (EMP) から出ており、[MOF](../Page/Meta-Object_Facility.md "wikilink") [QVT](../Page/QVT.md "wikilink") (Query/View/Transformation language) を実装している。[こちら](http://www.eclipse.org/gmt/m2m/doc/)にある文書を参照されたい。変換のための大規模なライブラリが [ATL Transformations](http://www.eclipse.org/m2m/atl/atlTransformations/) にある。MOF QVT はモデル変換のための[ドメイン固有言語](../Page/ドメイン固有言語.md "wikilink")である。Ecore、EMF、KM3（メタモデル記述のための[ドメイン固有言語](../Page/ドメイン固有言語.md "wikilink")）などで記述されたモデルをサポートしている。ATL は MDR/[NetBeans](../Page/NetBeans.md "wikilink") 上でも動作する。
 
 ## 参考文献
 

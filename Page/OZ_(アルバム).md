@@ -1,7 +1,7 @@
 > この記事は[OZ \(\)](https://ja.wikipedia.org/wiki/OZ_\(\))から翻訳されています。
 
 
-『**OZ**』（オズ）は、[100s](https://ja.wikipedia.org/wiki/100s "wikilink")のファースト[アルバム](../Page/アルバム.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月13日](../Page/1月13日.md "wikilink")発売。発売元は[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+『**OZ**』（オズ）は、[100s](../Page/100s.md "wikilink")のファースト[アルバム](../Page/アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")発売。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 解説
 
@@ -14,7 +14,7 @@
 全編曲:100s
 
 1.  **OZ I** (1:29)
-    （作詞・作曲：[中村一義](https://ja.wikipedia.org/wiki/中村一義 "wikilink")）
+    （作詞・作曲：[中村一義](../Page/中村一義.md "wikilink")）
       -
 2.  **[A](https://ja.wikipedia.org/wiki/A/やさしいライオン "wikilink")** (3:45)
     （作詞・作曲：中村一義）

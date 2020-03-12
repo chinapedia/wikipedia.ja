@@ -1,7 +1,7 @@
 > この記事は[LP](https://ja.wikipedia.org/wiki/LP)から翻訳されています。
 
 
-**一般社団法人熊本県LPガス協会**（くまもとけんエルピーガスきょうかい）は、[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")における[液化石油ガス](../Page/液化石油ガス.md "wikilink")を供給する会社の[業界団体](https://ja.wikipedia.org/wiki/業界団体 "wikilink")である。熊本県内600数十社のLPガス販売店及び卸売事業者等で構成されている。
+**一般社団法人熊本県LPガス協会**（くまもとけんエルピーガスきょうかい）は、[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")における[液化石油ガス](../Page/液化石油ガス.md "wikilink")を供給する会社の[業界団体](../Page/業界団体.md "wikilink")である。熊本県内600数十社のLPガス販売店及び卸売事業者等で構成されている。
 
 ## 概要
 

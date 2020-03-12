@@ -1,21 +1,21 @@
 > この記事は[APOEL](https://ja.wikipedia.org/wiki/APOEL)から翻訳されています。
 
 
-**APOEL**（、スポーツサッカークラブ・ギリシャ・ニコシア\[1\]）は、[キプロス](../Page/キプロス.md "wikilink")・[ニコシア](../Page/ニコシア.md "wikilink")の[スポーツクラブである](https://ja.wikipedia.org/wiki/クラブチーム "wikilink")。
+**APOEL**（、スポーツサッカークラブ・ギリシャ・ニコシア\[1\]）は、[キプロス](../Page/キプロス.md "wikilink")・[ニコシア](../Page/ニコシア.md "wikilink")の[スポーツクラブである](../Page/クラブチーム.md "wikilink")。
 
 **APOEL**（）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の植民地支配にあった1926年11月8日に[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ**POEL** () として創設され、1928年に[陸上部門を加えて](../Page/陸上競技.md "wikilink")**APOEL**となった\[2\]。サッカー部門の**APOEL FC**は、2010-11シーズン終了現在において[キプロス国内リーグ](https://ja.wikipedia.org/wiki/キプロス・ファーストディビジョン "wikilink")21回と[カップ](https://ja.wikipedia.org/wiki/キプロス・カップ_\(男子サッカー\) "wikilink")19回の双方で最多優勝を誇る\[3\]。サッカーの他にも、バスケットボール、バレーボール、フットサル、卓球、ボーリング、サイクリング、アーチェリー、水泳、水球部門などがあり、多くのタイトルを獲得している\[4\]。
 
 ## 歴史
 
-1948年、クラブ内で[ギリシャ内戦](https://ja.wikipedia.org/wiki/ギリシャ内戦 "wikilink")への政治的立場を巡る対立が起こり、APOELを追放された左翼主義者達が後に最大のライバルとなる[オモニア・ニコシア](https://ja.wikipedia.org/wiki/オモニア・ニコシア "wikilink")を創設した。
+1948年、クラブ内で[ギリシャ内戦](../Page/ギリシャ内戦.md "wikilink")への政治的立場を巡る対立が起こり、APOELを追放された左翼主義者達が後に最大のライバルとなる[オモニア・ニコシア](https://ja.wikipedia.org/wiki/オモニア・ニコシア "wikilink")を創設した。
 
-1963年、[UEFAカップウィナーズカップ](https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1963-64 "wikilink")2回戦[スポルティングCP戦](https://ja.wikipedia.org/wiki/スポルティング・クルーベ・デ・ポルトゥガル "wikilink")1stレグで1-16の大差で敗れ、欧州カップ戦最多得失点差という不名誉な記録を作った\[5\]。
+1963年、[UEFAカップウィナーズカップ](https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1963-64 "wikilink")2回戦[スポルティングCP戦](../Page/スポルティング・クルーベ・デ・ポルトゥガル.md "wikilink")1stレグで1-16の大差で敗れ、欧州カップ戦最多得失点差という不名誉な記録を作った\[5\]。
 
 1960年代後半から1970年代前半にかけて、キプロスのリーグ優勝クラブは翌シーズンのギリシャリーグへと参加していたが、APOELは1973-74シーズンに13位となり、降格を免れた最初のキプロスクラブになった。
 
-2009-10シーズンの[UEFAチャンピオンズリーグは予選](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2009-10 "wikilink")2回戦から出場し、予選3回戦で[FKパルチザン](https://ja.wikipedia.org/wiki/パルチザン・ベオグラード "wikilink")、プレーオフで[FCコペンハーゲン](https://ja.wikipedia.org/wiki/FCコペンハーゲン "wikilink")を下して本戦グループリーグ進出を決めた。キプロスのクラブとしては前年度の[アノルトシス・ファマグスタ](https://ja.wikipedia.org/wiki/アノルトシス・ファマグスタ "wikilink")に次いで2度目の本戦進出である。予選3回戦・プレーオフともに1stレグで敗戦したが、2ndレグで逆転して勝ち抜いた。本戦グループリーグ開幕戦はアウェーでの[アトレティコ・マドリード](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")戦だったが、組織的な守備で完封して勝ち点1を持ち帰った\[6\]。第2節の[チェルシーFC](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")戦は18分に[ニコラ・アネルカ](https://ja.wikipedia.org/wiki/ニコラ・アネルカ "wikilink")に先制点を許すが、後半にはいくつかのチャンスを作った。しかし、決定力を欠き、勝ち点獲得はならなかった。第3節の[FCポルト](https://ja.wikipedia.org/wiki/FCポルト "wikilink")戦では22分に相手DFのオウンゴールで同大会クラブ初となる得点を決めたが、その後は不用意なミスから2失点し、28本のシュート（うち枠内シュートは11本）を浴びせられて敗れた。第4節のポルト戦はボール支配率が互角と健闘するも、84分に[ラダメル・ファルカオ](https://ja.wikipedia.org/wiki/ラダメル・ファルカオ "wikilink")に個人技から決勝点を許し、0-1で敗れた。3位での[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")出場権をかけた争いとなったアトレティコ・マドリードとの一戦は5分に先制したが、62分に[シモン・サブローザ](https://ja.wikipedia.org/wiki/シモン・サブローザ "wikilink")に同点ゴールを許して1-1で引き分けた。
+2009-10シーズンの[UEFAチャンピオンズリーグは予選](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2009-10 "wikilink")2回戦から出場し、予選3回戦で[FKパルチザン](../Page/パルチザン・ベオグラード.md "wikilink")、プレーオフで[FCコペンハーゲン](../Page/FCコペンハーゲン.md "wikilink")を下して本戦グループリーグ進出を決めた。キプロスのクラブとしては前年度の[アノルトシス・ファマグスタ](../Page/アノルトシス・ファマグスタ.md "wikilink")に次いで2度目の本戦進出である。予選3回戦・プレーオフともに1stレグで敗戦したが、2ndレグで逆転して勝ち抜いた。本戦グループリーグ開幕戦はアウェーでの[アトレティコ・マドリード](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")戦だったが、組織的な守備で完封して勝ち点1を持ち帰った\[6\]。第2節の[チェルシーFC](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")戦は18分に[ニコラ・アネルカ](../Page/ニコラ・アネルカ.md "wikilink")に先制点を許すが、後半にはいくつかのチャンスを作った。しかし、決定力を欠き、勝ち点獲得はならなかった。第3節の[FCポルト](../Page/FCポルト.md "wikilink")戦では22分に相手DFのオウンゴールで同大会クラブ初となる得点を決めたが、その後は不用意なミスから2失点し、28本のシュート（うち枠内シュートは11本）を浴びせられて敗れた。第4節のポルト戦はボール支配率が互角と健闘するも、84分に[ラダメル・ファルカオ](https://ja.wikipedia.org/wiki/ラダメル・ファルカオ "wikilink")に個人技から決勝点を許し、0-1で敗れた。3位での[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")出場権をかけた争いとなったアトレティコ・マドリードとの一戦は5分に先制したが、62分に[シモン・サブローザ](../Page/シモン・サブローザ.md "wikilink")に同点ゴールを許して1-1で引き分けた。
 
-2011-12シーズンの[UEFAチャンピオンズリーグは予選](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2011-12 "wikilink")2回戦からの出場だった。予選2回戦、3回戦ともに無失点で勝ち抜き、プレーオフを2試合合計3-2で制し、本戦グループリーグに進出。第1節の[FCゼニト・サンクトペテルブルク](../Page/FCゼニト・サンクトペテルブルク.md "wikilink")戦に2-1で勝利し、第2節の[FCシャフタール・ドネツク](https://ja.wikipedia.org/wiki/FCシャフタール・ドネツク "wikilink")戦を1-1で引き分けた。そのまま勢いに乗り、グループリーグ首位を快走。第3節、第4節では[UEFAヨーロッパリーグの前年覇者であるFCポルト相手にアウェーで](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2010-11 "wikilink")1-1の引き分けに持ち込み、ホームでは2-1で勝利した。第5節のゼニト・サンクトペテルブルク戦を0-0の引き分けで終え、この時点でグループリーグ2位以内が確定。キプロスのクラブ初のUEFAチャンピオンズリーグ決勝トーナメント進出という快挙を成し遂げた。
+2011-12シーズンの[UEFAチャンピオンズリーグは予選](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2011-12 "wikilink")2回戦からの出場だった。予選2回戦、3回戦ともに無失点で勝ち抜き、プレーオフを2試合合計3-2で制し、本戦グループリーグに進出。第1節の[FCゼニト・サンクトペテルブルク](../Page/FCゼニト・サンクトペテルブルク.md "wikilink")戦に2-1で勝利し、第2節の[FCシャフタール・ドネツク](../Page/FCシャフタール・ドネツク.md "wikilink")戦を1-1で引き分けた。そのまま勢いに乗り、グループリーグ首位を快走。第3節、第4節では[UEFAヨーロッパリーグの前年覇者であるFCポルト相手にアウェーで](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2010-11 "wikilink")1-1の引き分けに持ち込み、ホームでは2-1で勝利した。第5節のゼニト・サンクトペテルブルク戦を0-0の引き分けで終え、この時点でグループリーグ2位以内が確定。キプロスのクラブ初のUEFAチャンピオンズリーグ決勝トーナメント進出という快挙を成し遂げた。
 
 続く決勝トーナメントではフランスの[オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")と対戦、アウェーでは0-1で敗れたが、ホームで1-0となり、延長、PK戦を制して、キプロス勢として史上初のベスト8という快挙を成し遂げる。
 
@@ -65,7 +65,7 @@
 | [UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ_2002-03 "wikilink")                 | 2回戦敗退                                                               |                                                                          |                                                              |
 | 2003-04                                                                             | **1部**                                                              | 26                                                                       | 20                                                           |
 | 2004-05                                                                             | **1部**                                                              | 26                                                                       | 17                                                           |
-| [UEFAチャンピオンズリーグ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2004-05 "wikilink")   | 予選2回戦敗退                                                             |                                                                          |                                                              |
+| [UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ_2004-05.md "wikilink")                      | 予選2回戦敗退                                                             |                                                                          |                                                              |
 | 2005-06                                                                             | **1部**                                                              | 26                                                                       | 19                                                           |
 | 2006-07                                                                             | **1部**                                                              | 26                                                                       | 20                                                           |
 | [UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ_2006-07 "wikilink")                 | 予選2回戦敗退                                                             |                                                                          |                                                              |
@@ -112,7 +112,7 @@
 
   - [フリスト・ボネフ](https://ja.wikipedia.org/wiki/フリスト・ボネフ "wikilink") 1995-1996
 
-  - [クルト・ヤーラ](https://ja.wikipedia.org/wiki/クルト・ヤーラ "wikilink") 1997-1998
+  - [クルト・ヤーラ](../Page/クルト・ヤーラ.md "wikilink") 1997-1998
 
   - [イヴァン・ヨヴァノヴィッチ](https://ja.wikipedia.org/wiki/イヴァン・ヨヴァノヴィッチ "wikilink") 2003-2005, 2008-2013
 
@@ -136,7 +136,7 @@
 
   - [パオロ・トラメッツァーニ](https://ja.wikipedia.org/wiki/パオロ・トラメッツァーニ "wikilink") 2018-2019
 
-  - [トーマス・ドル](https://ja.wikipedia.org/wiki/トーマス・ドル "wikilink") 2019
+  - [トーマス・ドル](../Page/トーマス・ドル.md "wikilink") 2019
 
   - [コーレ・インゲブリグトセン](https://ja.wikipedia.org/wiki/コーレ・インゲブリグトセン "wikilink") 2019-
 
@@ -154,7 +154,7 @@
 
   - [ミハリス・カプシス](../Page/ミハリス・カプシス.md "wikilink") 2006-2008
 
-  - [ヌーノ・モライス](https://ja.wikipedia.org/wiki/ヌーノ・モライス "wikilink") 2007-
+  - [ヌーノ・モライス](../Page/ヌーノ・モライス.md "wikilink") 2007-
 
 ### MF
 
@@ -170,11 +170,11 @@
 
   - [アンドレアス・スティリアヌ](https://ja.wikipedia.org/wiki/アンドレアス・スティリアヌ "wikilink") 1963-1977
 
-  - [ドラギシャ・ビニッチ](https://ja.wikipedia.org/wiki/ドラギシャ・ビニッチ "wikilink") 1993-1994
+  - [ドラギシャ・ビニッチ](../Page/ドラギシャ・ビニッチ.md "wikilink") 1993-1994
 
-  - [ジョン・ファンルーン](https://ja.wikipedia.org/wiki/ジョン・ファンルーン "wikilink") 1998
+  - [ジョン・ファンルーン](../Page/ジョン・ファンルーン.md "wikilink") 1998
 
-  - [マイケル・オビク](https://ja.wikipedia.org/wiki/マイケル・オビク "wikilink") 2000-2001
+  - [マイケル・オビク](../Page/マイケル・オビク.md "wikilink") 2000-2001
 
   - [ハミルトン・リカルド](../Page/ハミルトン・リカルド.md "wikilink") 2004-2005
 
@@ -184,7 +184,7 @@
 
   - [エステバン・ソラーリ](https://ja.wikipedia.org/wiki/エステバン・ソラーリ "wikilink") 2010-2013
 
-  - [フェルナンド・カベナギ](https://ja.wikipedia.org/wiki/フェルナンド・カベナギ "wikilink") 2015-2016
+  - [フェルナンド・カベナギ](../Page/フェルナンド・カベナギ.md "wikilink") 2015-2016
 
 ## エンブレム
 
@@ -220,7 +220,7 @@
 
 [Category:キプロスのサッカークラブ](https://ja.wikipedia.org/wiki/Category:キプロスのサッカークラブ "wikilink") [Category:ニコシア](https://ja.wikipedia.org/wiki/Category:ニコシア "wikilink")
 
-1.  エンブレムの世界 アポエル『[サッカーマガジン](https://ja.wikipedia.org/wiki/サッカーマガジン "wikilink")』2012年4月3日号、[ベースボール・マガジン社](https://ja.wikipedia.org/wiki/ベースボール・マガジン社 "wikilink")、2012年、[雑誌](https://ja.wikipedia.org/wiki/雑誌コード "wikilink")23881-4/3, 052頁。
+1.  エンブレムの世界 アポエル『[サッカーマガジン](../Page/サッカーマガジン.md "wikilink")』2012年4月3日号、[ベースボール・マガジン社](../Page/ベースボール・マガジン社.md "wikilink")、2012年、[雑誌](../Page/雑誌コード.md "wikilink")23881-4/3, 052頁。
 2.
 3.
 4.

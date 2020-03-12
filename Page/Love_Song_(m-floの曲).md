@@ -1,21 +1,21 @@
 > この記事は[Love Song \(m-flo\)](https://ja.wikipedia.org/wiki/Love_Song_\(m-flo\))から翻訳されています。
 
 
-『**Love Song**』（ラヴ・ソング）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループである](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の21st[シングル](../Page/シングル.md "wikilink")（m-flo loves [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink") 名義）。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月8日](../Page/11月8日.md "wikilink")発売。
+『**Love Song**』（ラヴ・ソング）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループである](../Page/音楽ユニット.md "wikilink")[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の21st[シングル](../Page/シングル.md "wikilink")（m-flo loves [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink") 名義）。[2006年](../Page/2006年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")発売。
 
 ## 解説
 
   - シングルでは、m-floのLovesシリーズの最終作となった。
   - 歌詞には、往年のラブソングのタイトルが鏤められている。
-  - 初めは、[ドラムンベース](https://ja.wikipedia.org/wiki/ドラムンベース "wikilink")のトラックで1曲を制作したが、もう少し暖かいムードの方が良いということになり、ゼロから作り直した\[1\]。
-  - c/wは日本のロックバンド[DOPING PANDAとLovesした](https://ja.wikipedia.org/wiki/DOPING_PANDA "wikilink")「she loves the CREAM\[2\]」。オムニバスシングル『Amazing Nuts\!』(2006年) 収録曲。
-  - 初回限定[CD-EXTRA仕様でライブ映像](https://ja.wikipedia.org/wiki/CD_EXTRA "wikilink") "「Summer Time Love」Live @ 2006.07.14 Tachytelic Night" を収録。
+  - 初めは、[ドラムンベース](../Page/ドラムンベース.md "wikilink")のトラックで1曲を制作したが、もう少し暖かいムードの方が良いということになり、ゼロから作り直した\[1\]。
+  - c/wは日本のロックバンド[DOPING PANDAとLovesした](../Page/DOPING_PANDA.md "wikilink")「she loves the CREAM\[2\]」。オムニバスシングル『Amazing Nuts\!』(2006年) 収録曲。
+  - 初回限定[CD-EXTRA仕様でライブ映像](../Page/CD_EXTRA.md "wikilink") "「Summer Time Love」Live @ 2006.07.14 Tachytelic Night" を収録。
 
 ## 収録曲
 
 1.  Love Song / m-flo loves [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")
       - Written by m-flo & BONNIE PINK
-2.  she loves the CREAM / m-flo loves [DOPING PANDA](https://ja.wikipedia.org/wiki/DOPING_PANDA "wikilink")
+2.  she loves the CREAM / m-flo loves [DOPING PANDA](../Page/DOPING_PANDA.md "wikilink")
       - Written by m-flo & Yutaka Furukawa (DOPING PANDA)
 3.  Lotta Love -[yasutaka nakata](https://ja.wikipedia.org/wiki/中田ヤスタカ "wikilink") [capsule](https://ja.wikipedia.org/wiki/capsule "wikilink") mix- / m-flo loves [MINMI](https://ja.wikipedia.org/wiki/MINMI "wikilink")
       - Written by m-flo & MINMI
@@ -25,7 +25,7 @@
 ## 関連する楽曲
 
   - Love Song / m-flo♥BONNIE PINK (UC a.k.a DJ UPPERCUT REMIX)
-      - BONNIE PINK：シングル『[Anything For You](https://ja.wikipedia.org/wiki/Anything_For_You "wikilink")』（[2007年](../Page/2007年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")）収録。
+      - BONNIE PINK：シングル『[Anything For You](../Page/Anything_For_You.md "wikilink")』（[2007年](../Page/2007年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")）収録。
   - she dubs the CREAM from DOPING PANDA "dubs" m-flo
       - DOPING PANDA：シングル『Can't Stop Me』（[2007年](../Page/2007年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")）収録。
 
@@ -41,7 +41,7 @@
 
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")
   - [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")
-  - [DOPING PANDA](https://ja.wikipedia.org/wiki/DOPING_PANDA "wikilink")
+  - [DOPING PANDA](../Page/DOPING_PANDA.md "wikilink")
   - [MINMI](https://ja.wikipedia.org/wiki/MINMI "wikilink")
   - [中田ヤスタカ](https://ja.wikipedia.org/wiki/中田ヤスタカ "wikilink")
   - [capsule](https://ja.wikipedia.org/wiki/capsule "wikilink")

@@ -5,7 +5,7 @@
 
 ## 解説
 
-プロモーションビデオは前回と一緒で、[井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")が撮影。[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")26位。
+プロモーションビデオは前回と一緒で、[井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")が撮影。[オリコン初登場](../Page/オリコンチャート.md "wikilink")26位。
 
 [ラップ](../Page/ラップ.md "wikilink")は、[キングコング梶原](https://ja.wikipedia.org/wiki/キングコング梶原 "wikilink")が担当。
 
@@ -14,7 +14,7 @@
 ## 収録曲
 
 1.  **Right Here, Right Now**
-      - 作詞・作曲:[横山輝一](https://ja.wikipedia.org/wiki/横山輝一 "wikilink")
+      - 作詞・作曲:[横山輝一](../Page/横山輝一.md "wikilink")
 2.  **Hit The Road Jack**
       - 作詞：[パーシー・メイフィールド](https://ja.wikipedia.org/wiki/パーシー・メイフィールド "wikilink")/[伊藤洋介](https://ja.wikipedia.org/wiki/伊藤洋介 "wikilink")、作曲:パーシー・メイフィールド
 3.  **Right Here, Right Now (Instrumental)**

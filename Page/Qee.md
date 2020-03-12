@@ -27,7 +27,7 @@
 
 ### ノベルティーグッズ
 
-最近では各企業がキャンペーンの際に限定版を用意し配布、頒布することがある。 主な企業としては、[アディダス](https://ja.wikipedia.org/wiki/アディダス "wikilink")、[ベネトン](../Page/ベネトン.md "wikilink")、[BenQ](https://ja.wikipedia.org/wiki/BenQ "wikilink")、[スウォッチ](https://ja.wikipedia.org/wiki/スウォッチ "wikilink")など。
+最近では各企業がキャンペーンの際に限定版を用意し配布、頒布することがある。 主な企業としては、[アディダス](../Page/アディダス.md "wikilink")、[ベネトン](../Page/ベネトン.md "wikilink")、[BenQ](../Page/BenQ.md "wikilink")、[スウォッチ](../Page/スウォッチ.md "wikilink")など。
 
 ## アートとしてのQee
 

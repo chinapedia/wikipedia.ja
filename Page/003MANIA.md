@@ -1,11 +1,11 @@
 > この記事は[003MANIA](https://ja.wikipedia.org/wiki/003MANIA)から翻訳されています。
 
 
-**003MANIA**（ゼロゼロさんマニア）は、かつて[京やプロダクション](https://ja.wikipedia.org/wiki/京やプロダクション "wikilink")で活動していた[お笑い](../Page/演芸.md "wikilink")[トリオ](https://ja.wikipedia.org/wiki/トリオ "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")結成。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")解散。
+**003MANIA**（ゼロゼロさんマニア）は、かつて[京やプロダクション](https://ja.wikipedia.org/wiki/京やプロダクション "wikilink")で活動していた[お笑い](../Page/演芸.md "wikilink")[トリオ](https://ja.wikipedia.org/wiki/トリオ "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")結成。[2006年](../Page/2006年.md "wikilink")解散。
 
 ## メンバー
 
-**[堀井祥明](https://ja.wikipedia.org/wiki/堀井祥明 "wikilink")**（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[5月11日](../Page/5月11日.md "wikilink") - ）
+**[堀井祥明](../Page/堀井祥明.md "wikilink")**（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[5月11日](../Page/5月11日.md "wikilink") - ）
 
   -
     かつては藤代達生と共にお笑いコンビ「**[まじかるず](../Page/まじかるず.md "wikilink")**」として活動していた。
@@ -27,8 +27,8 @@
 ## 概要
 
   - 保育園の頃からの幼なじみである峰本と吉名は「**大吉マニア**」と言うコンビで活動しており、そこへまじかるずを解散したばかりの堀井が加入して「003MANIA」を結成した。
-  - 結成後[NHK新人演芸大賞](https://ja.wikipedia.org/wiki/NHK新人演芸大賞 "wikilink")などの賞を受賞し、テレビ番組にも頻繁に出演していた。
-  - [2001年](../Page/2001年.md "wikilink")に堀井がタレントへの転向に伴い脱退し、峰本と吉名のコンビ「**23区**」を結成。その後、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に解散した。
+  - 結成後[NHK新人演芸大賞](../Page/NHK新人演芸大賞.md "wikilink")などの賞を受賞し、テレビ番組にも頻繁に出演していた。
+  - [2001年](../Page/2001年.md "wikilink")に堀井がタレントへの転向に伴い脱退し、峰本と吉名のコンビ「**23区**」を結成。その後、[2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に解散した。
 
 ## 芸風
 
@@ -37,13 +37,13 @@
 
 ## 受賞歴
 
-  - [NHK新人演芸大賞](https://ja.wikipedia.org/wiki/NHK新人演芸大賞 "wikilink")・演芸部門大賞（1998年）
+  - [NHK新人演芸大賞](../Page/NHK新人演芸大賞.md "wikilink")・演芸部門大賞（1998年）
 
 ## 出演番組
 
   - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink") 戦績1勝3敗 最高353KB（番組史上初めてトリオとしてオンエアを果たした。）
   - [お笑いダンクシュート](../Page/お笑いダンクシュート.md "wikilink")
-  - [NHK新人演芸大賞](https://ja.wikipedia.org/wiki/NHK新人演芸大賞 "wikilink")
+  - [NHK新人演芸大賞](../Page/NHK新人演芸大賞.md "wikilink")
 
 ## 脚注
 

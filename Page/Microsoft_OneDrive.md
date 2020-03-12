@@ -1,21 +1,21 @@
 > この記事は[Microsoft OneDrive](https://ja.wikipedia.org/wiki/Microsoft_OneDrive)から翻訳されています。
 
 
-**Microsoft OneDrive**（マイクロソフト ワンドライブ）とは、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が提供する**[オンラインストレージ](https://ja.wikipedia.org/wiki/オンラインストレージ "wikilink")**。[Windows Live](https://ja.wikipedia.org/wiki/Windows_Live "wikilink") の一つとして提供され、基本無料である。旧称 **Microsoft SkyDrive**（マイクロソフト スカイドライブ）。
+**Microsoft OneDrive**（マイクロソフト ワンドライブ）とは、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が提供する**[オンラインストレージ](../Page/オンラインストレージ.md "wikilink")**。[Windows Live](../Page/Windows_Live.md "wikilink") の一つとして提供され、基本無料である。旧称 **Microsoft SkyDrive**（マイクロソフト スカイドライブ）。
 
 ## 機能
 
-  - 利用するには、[Microsoft アカウント](https://ja.wikipedia.org/wiki/Microsoft_アカウント "wikilink")（旧Windows Live ID）が必要である。
+  - 利用するには、[Microsoft アカウント](../Page/Microsoft_アカウント.md "wikilink")（旧Windows Live ID）が必要である。
   - 1アカウントあたり、無償で15GB（2016年より5GB）利用できる。
   - 1ファイルあたり、10GBまでアップロードできる。（は1ファイル2GBまでだった）
-  - あらゆる種類のファイルを[アップロード](https://ja.wikipedia.org/wiki/アップロード "wikilink")できる。
+  - あらゆる種類のファイルを[アップロード](../Page/アップロード.md "wikilink")できる。
       -
-        [EXEフォーマット](https://ja.wikipedia.org/wiki/EXEフォーマット "wikilink")のファイルはダウンロード時に警告を表示する。
+        [EXEフォーマット](../Page/EXEフォーマット.md "wikilink")のファイルはダウンロード時に警告を表示する。
   - ファイルを複数選択してダウンロードすると、自動的に[ZIP](https://ja.wikipedia.org/wiki/ZIP "wikilink")形式に圧縮される\[1\]。
   - [OSに依存せず](../Page/オペレーティングシステム.md "wikilink")[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")だけでも利用できる。
   - [JPEG](../Page/JPEG.md "wikilink")などの画像をローカルに保存しなくてもスライドショーなどで表示できる。
   - 画像のアップロード時に自動的にサイズを横2048ピクセルに変更する機能がデフォルトで有効になっている（サイズ変更するとオリジナルのファイルはアップロードされない）。
-  - ファイルの内容は[マイクロソフトによって検閲](https://ja.wikipedia.org/wiki/PhotoDNA "wikilink")（後述のOneDrive for Businessは除く）されており、[ポルノグラフィ](https://ja.wikipedia.org/wiki/ポルノグラフィ "wikilink")や著作権を侵害した違法なファイルなどをアップロードすると、公開、非公開にかかわらずアカウントが一時的もしくは永久に停止される。[Google](../Page/Google.md "wikilink")のサービスでは児童ポルノ関連ですでに逮捕者も出ているが、マイクロソフトのサービスでは現時点では実例は確認されていない。どのようなものが禁止されているかは、マイクロソフトの倫理規定のページに書かれている\[2\]。
+  - ファイルの内容は[マイクロソフトによって検閲](https://ja.wikipedia.org/wiki/PhotoDNA "wikilink")（後述のOneDrive for Businessは除く）されており、[ポルノグラフィ](../Page/ポルノグラフィ.md "wikilink")や著作権を侵害した違法なファイルなどをアップロードすると、公開、非公開にかかわらずアカウントが一時的もしくは永久に停止される。[Google](../Page/Google.md "wikilink")のサービスでは児童ポルノ関連ですでに逮捕者も出ているが、マイクロソフトのサービスでは現時点では実例は確認されていない。どのようなものが禁止されているかは、マイクロソフトの倫理規定のページに書かれている\[2\]。
 
 <!-- end list -->
 
@@ -33,11 +33,11 @@
 
 2012年4月にWindows Vista・7・8および[Mac OS X用のデスクトップアプリケーション](https://ja.wikipedia.org/wiki/macOS "wikilink")（プレビュー版）がリリースされた\[5\]。1ファイルあたりの容量制限の緩和や、Windows版ではフォルダの自動同期機能が利用できる。
 
-2012年[8月28日](../Page/8月28日.md "wikilink")、[Android](https://ja.wikipedia.org/wiki/Android "wikilink")向けの公式アプリがリリースされた\[6\]。
+2012年[8月28日](../Page/8月28日.md "wikilink")、[Android](../Page/Android.md "wikilink")向けの公式アプリがリリースされた\[6\]。
 
 2012年[10月26日](../Page/10月26日.md "wikilink")に提供が開始された[Windows 8および](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")[Windows RTは](https://ja.wikipedia.org/wiki/Microsoft_Windows_RT "wikilink")、[WindowsストアのSkyDrive](https://ja.wikipedia.org/wiki/Microsoftストア "wikilink") アプリが利用できる\[7\]\[8\]。
 
-このほか、[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")製の非公式クライアントアプリケーションがWindowsや[Android](https://ja.wikipedia.org/wiki/Android "wikilink")、[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")向けにリリースされている。
+このほか、[サードパーティー](../Page/サードパーティー.md "wikilink")製の非公式クライアントアプリケーションがWindowsや[Android](../Page/Android.md "wikilink")、[Linux](../Page/Linux.md "wikilink")向けにリリースされている。
 
 ## 沿革
 
@@ -49,13 +49,13 @@
 
 2008年12月、アップデートにより容量25GBへ拡大される\[12\]。
 
-2011年6月、[HTML5](https://ja.wikipedia.org/wiki/HTML5 "wikilink")を用いたインターフェースにリニューアルされるが\[13\]、アップロードには依然Silverlightを用いる\[14\]。
+2011年6月、[HTML5](../Page/HTML5.md "wikilink")を用いたインターフェースにリニューアルされるが\[13\]、アップロードには依然Silverlightを用いる\[14\]。
 
 2012年4月、最大容量100GBを追加する有料プラン導入に伴い、無料プランは7GBへ縮小される。それ以前に利用容量が7GBを超えるヘビーユーザーはわずか0.06%である\[15\]。
 
 2012年8月、[Windows 8リリース](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")、Windows Liveブランドが廃止、名称も「**Microsoft SkyDrive**」\[16\]となる。
 
-2013年7月31日、イギリスの衛星放送企業「[BSkyB](https://ja.wikipedia.org/wiki/Sky_\(メディア企業\) "wikilink")」と「SkyDrive」の商標権を巡った訴訟の件で和解が成立したと発表。\[17\]\[18\]
+2013年7月31日、イギリスの衛星放送企業「[BSkyB](../Page/Sky_\(メディア企業\).md "wikilink")」と「SkyDrive」の商標権を巡った訴訟の件で和解が成立したと発表。\[17\]\[18\]
 
 2013年9月、Windows 8.1にSkyDriveが統合される。Windows 8.1では、すべてのファイルが表示され、以前のように、除外するフォルダを指定することができなくなった。そのため、例えば仕事用パソコンで表示したくないプライベートなファイルを除外して同期するといったことはできなくなってしまった。
 
@@ -87,7 +87,7 @@
 
 ## OneDrive for Business
 
-[Microsoft Office](../Page/Microsoft_Office.md "wikilink") 2013から搭載されたソフト。名前こそ「OneDrive」を名乗っているが、従来のOneDriveの上位版ではなく、[Microsoft SharePoint上の共有ドキュメントライブラリをローカル](https://ja.wikipedia.org/wiki/Microsoft_SharePoint "wikilink") フォルダーと同期するためのアプリケーションである。
+[Microsoft Office](../Page/Microsoft_Office.md "wikilink") 2013から搭載されたソフト。名前こそ「OneDrive」を名乗っているが、従来のOneDriveの上位版ではなく、[Microsoft SharePoint上の共有ドキュメントライブラリをローカル](../Page/Microsoft_SharePoint.md "wikilink") フォルダーと同期するためのアプリケーションである。
 
 Office 2007でGrooveとして登場し、2010でSharePoint Workspaceに名称変更されたものが、2013でこのような名前になった。
 

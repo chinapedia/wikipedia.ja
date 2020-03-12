@@ -20,7 +20,7 @@
 
 ### シリーズ
 
-通常端末はデザインやファッション性重視・これまでの70xi/70xie/90xiμシリーズのコンセプトに近い「**[docomo STYLE series](https://ja.wikipedia.org/wiki/docomo_STYLE_series "wikilink")**」、多機能さ・AV機能重視・これまでの90xi/90xiTVシリーズのコンセプトに近い「**[docomo PRIME series](https://ja.wikipedia.org/wiki/docomo_PRIME_series "wikilink")**」、薄さや[ビジネス](../Page/ビジネス.md "wikilink")向けの機能重視・これまでの70Xiμシリーズのコンセプトに近い「**[docomo SMART series](https://ja.wikipedia.org/wiki/docomo_SMART_series "wikilink")**」、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")やこれまでの90xiXシリーズのコンセプトに近い「**[docomo PRO series](https://ja.wikipedia.org/wiki/docomo_PRO_series "wikilink")**」（一部機種を除きiモード非対応）の4シリーズに分かれる。ただし、「**[らくらくホン](https://ja.wikipedia.org/wiki/らくらくホン "wikilink")**」や「**[キッズケータイ](../Page/キッズケータイ.md "wikilink")**」などは今後も別扱いになる。他にも「HiPlay」シリーズがドコモにより[商標登録](https://ja.wikipedia.org/wiki/商標登録 "wikilink")されており、今後第5のシリーズとして追加される可能性があるが現在のところは不明。上述の通り今後は企画端末やデータ通信専用端末にも特別なアルファベットは与えられず通常端末と同様の型番として扱われる。[CM](https://ja.wikipedia.org/wiki/CM "wikilink")などでも機種名よりもこの4つのシリーズを前面に押し出している。なお、スマートフォンにあたる[SO-01B](https://ja.wikipedia.org/wiki/SO-01B "wikilink")は、「**[docomo PRO series](https://ja.wikipedia.org/wiki/docomo_PRO_series "wikilink")**」ではなく、新たに**「[ドコモ スマートフォン](https://ja.wikipedia.org/wiki/ドコモ_スマートフォン "wikilink")」**と呼ばれるカテゴリに包括され販売。以降スマートフォンは同カテゴリに属されている。
+通常端末はデザインやファッション性重視・これまでの70xi/70xie/90xiμシリーズのコンセプトに近い「**[docomo STYLE series](https://ja.wikipedia.org/wiki/docomo_STYLE_series "wikilink")**」、多機能さ・AV機能重視・これまでの90xi/90xiTVシリーズのコンセプトに近い「**[docomo PRIME series](https://ja.wikipedia.org/wiki/docomo_PRIME_series "wikilink")**」、薄さや[ビジネス](../Page/ビジネス.md "wikilink")向けの機能重視・これまでの70Xiμシリーズのコンセプトに近い「**[docomo SMART series](https://ja.wikipedia.org/wiki/docomo_SMART_series "wikilink")**」、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")やこれまでの90xiXシリーズのコンセプトに近い「**[docomo PRO series](https://ja.wikipedia.org/wiki/docomo_PRO_series "wikilink")**」（一部機種を除きiモード非対応）の4シリーズに分かれる。ただし、「**[らくらくホン](../Page/らくらくホン.md "wikilink")**」や「**[キッズケータイ](../Page/キッズケータイ.md "wikilink")**」などは今後も別扱いになる。他にも「HiPlay」シリーズがドコモにより[商標登録](https://ja.wikipedia.org/wiki/商標登録 "wikilink")されており、今後第5のシリーズとして追加される可能性があるが現在のところは不明。上述の通り今後は企画端末やデータ通信専用端末にも特別なアルファベットは与えられず通常端末と同様の型番として扱われる。[CM](https://ja.wikipedia.org/wiki/CM "wikilink")などでも機種名よりもこの4つのシリーズを前面に押し出している。なお、スマートフォンにあたる[SO-01B](https://ja.wikipedia.org/wiki/SO-01B "wikilink")は、「**[docomo PRO series](https://ja.wikipedia.org/wiki/docomo_PRO_series "wikilink")**」ではなく、新たに**「[ドコモ スマートフォン](https://ja.wikipedia.org/wiki/ドコモ_スマートフォン "wikilink")」**と呼ばれるカテゴリに包括され販売。以降スマートフォンは同カテゴリに属されている。
 
 ソフトバンクモバイルに続きKDDIも発売するようになったアップル社の「iPhone」が引き金を引いたスマートフォン普及が元になり、このルールになってから第4世代となる2011年冬‐2012年春モデルにおいて、シリーズの再編が行われた。
 
@@ -47,11 +47,11 @@
 <th><p>シリーズ</p></th>
 <th><p><a href="../Page/富士通.md" title="wikilink">富士通</a><br />
 (F)[1]</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/LGエレクトロニクス" title="wikilink">LG</a><br />
+<th><p><a href="../Page/LGエレクトロニクス.md" title="wikilink">LG</a><br />
 (L)</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/NECカシオ_モバイルコミュニケーションズ" title="wikilink">NECカシオ</a><br />
 (N)/(CA)[2]</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/パナソニック_モバイルコミュニケーションズ" title="wikilink">パナソニック</a><br />
+<th><p><a href="../Page/パナソニック_モバイルコミュニケーションズ.md" title="wikilink">パナソニック</a><br />
 (P)</p></th>
 <th><p><a href="../Page/シャープ.md" title="wikilink">シャープ</a><br />
 (SH)</p></th>
@@ -59,7 +59,7 @@
 (SO)/(Sony Tablet)[3]</p></th>
 <th><p>東芝<br />
 (T)[4]</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/HTC_(企業)" title="wikilink">HTC</a><br />
+<th><p><a href="../Page/HTC_(企業).md" title="wikilink">HTC</a><br />
 (HT)</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/ブラックベリー_(企業)" title="wikilink">リサーチ・イン・モーション</a><br />
 (BlackBerry)</p></th>
@@ -1415,12 +1415,12 @@
 </tr>
 <tr class="even">
 <td><p>600番台</p></td>
-<td><p><a href="../Page/FOMA.md" title="wikilink">FOMA</a>「<a href="https://ja.wikipedia.org/wiki/SIMPURE" title="wikilink">SIMPURE</a>」シリーズ、デジタルムーバ特殊端末</p></td>
+<td><p><a href="../Page/FOMA.md" title="wikilink">FOMA</a>「<a href="../Page/SIMPURE.md" title="wikilink">SIMPURE</a>」シリーズ、デジタルムーバ特殊端末</p></td>
 <td><p>mova6XXシリーズ</p></td>
 </tr>
 <tr class="odd">
 <td><p>650番台</p></td>
-<td><p>209iベースの<a href="https://ja.wikipedia.org/wiki/ぷりコール" title="wikilink">ぷりコール</a>対応端末</p></td>
+<td><p>209iベースの<a href="../Page/ぷりコール.md" title="wikilink">ぷりコール</a>対応端末</p></td>
 <td><p>P651ps</p></td>
 </tr>
 <tr class="even">
@@ -1436,7 +1436,7 @@
 <tr class="even">
 <td><p>690番台</p></td>
 <td><p>防水機能付<a href="https://ja.wikipedia.org/wiki/GEOFREE" title="wikilink">GEOFREE</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/R691i" title="wikilink">R691i</a>・<a href="https://ja.wikipedia.org/wiki/R692i" title="wikilink">R692i</a>のみ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/R691i" title="wikilink">R691i</a>・<a href="../Page/R692i.md" title="wikilink">R692i</a>のみ</p></td>
 </tr>
 <tr class="odd">
 <td><p>700番台</p></td>
@@ -1460,7 +1460,7 @@
 </tr>
 <tr class="odd">
 <td><p>830番台</p></td>
-<td><p>ドッチーモ（<a href="https://ja.wikipedia.org/wiki/ぷりコール" title="wikilink">ぷりコール</a>対応)</p></td>
+<td><p>ドッチーモ（<a href="../Page/ぷりコール.md" title="wikilink">ぷりコール</a>対応)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/N831" title="wikilink">N831</a>のみ</p></td>
 </tr>
 <tr class="even">
@@ -1522,45 +1522,45 @@
 <tr class="odd">
 <td><p>2700番台</p></td>
 <td><p>FOMA初期型端末（movaデュアル端末）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/N2701" title="wikilink">N2701</a>のみ</p></td>
+<td><p><a href="../Page/N2701.md" title="wikilink">N2701</a>のみ</p></td>
 </tr>
 </tbody>
 </table>
 
 ### 最後の英字の意味
 
-| 英字    | 内容                                                                                                                                                                              | 使用例                                                                                                                                                                                   |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| BCL   | 法人向けのカメラ**なし**端末で**Business Camera Less**の意                                                                                                                                     | [D702iBCL](https://ja.wikipedia.org/wiki/D702iBCL "wikilink")                                                                                                                         |
-| Biz   | 法人向けカメラ**あり**端末で**Business**の意                                                                                                                                                  | [F905iBiz](https://ja.wikipedia.org/wiki/F905iBiz "wikilink")                                                                                                                         |
-| C     | [iモードFeliCa](https://ja.wikipedia.org/wiki/iモードFeliCa "wikilink")対応端末（901iS以降使われていない）                                                                                           | [SO506iC](../Page/SO506iC.md "wikilink")                                                                                                                                              |
-| CL    | 一般向けのカメラなし端末で**Camera Less**の意                                                                                                                                                  | [PROSOLIDμ(P705iCL)](https://ja.wikipedia.org/wiki/P705iμ "wikilink")                                                                                                                 |
-| CS    | カメラ機能に重点を置いた端末で**Camera Style**の意                                                                                                                                               | [SO905iCS](https://ja.wikipedia.org/wiki/SO905iCS "wikilink")                                                                                                                         |
-| D     | 外部[デザイナー](../Page/デザイナー.md "wikilink")との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")端末で**Design**などの意                                                          | [N702iD](https://ja.wikipedia.org/wiki/N702iD "wikilink"),[N703iD](../Page/N703iD.md "wikilink")                                                                                      |
-| DS    | 2画面端末                                                                                                                                                                           | [D800iDS](../Page/D800iDS.md "wikilink")                                                                                                                                              |
-| e     | 706i以降の70xシリーズの端末で**enjoy**や**easy**の意                                                                                                                                          | [L706ie](https://ja.wikipedia.org/wiki/L706ie "wikilink")                                                                                                                             |
-| ECO   | [エコロジー](../Page/エコロジー.md "wikilink")型端末（外装に植物由来のプラスチック採用）                                                                                                                       | [N701iECO](https://ja.wikipedia.org/wiki/N701iECO "wikilink")                                                                                                                         |
-| ES,es | らくらくホン端末で**Easy Style**の意。                                                                                                                                                      | [F880iES](../Page/FOMAらくらくホン.md "wikilink")                                                                                                                                           |
-| ev    | エグゼクティブ端末                                                                                                                                                                       | [F601ev](https://ja.wikipedia.org/wiki/F601ev "wikilink")                                                                                                                             |
-| F     | 「D」と同じ意味であるが三菱電機製の場合はメーカー記号とかぶるためこちらを使う。Fは**Fashion**の意。                                                                                                                        | [D702iF](../Page/D702iF.md "wikilink")                                                                                                                                                |
-| G     | 国際[ローミング](../Page/ローミング.md "wikilink")[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")対応端末（[SIMPURE](https://ja.wikipedia.org/wiki/SIMPURE "wikilink")シリーズ、903iシリーズ以降使われていない | [N900iG](https://ja.wikipedia.org/wiki/N900iG "wikilink")                                                                                                                             |
-| GPS   | [GPS搭載機](../Page/グローバル・ポジショニング・システム.md "wikilink")                                                                                                                              | F505iGPS                                                                                                                                                                              |
-| i     | iモード対応端末（FOMA 200x及び210xシリーズでは使われていない）                                                                                                                                          | [N904i](../Page/N904i.md "wikilink")                                                                                                                                                  |
-| L     | [無線LAN](../Page/無線LAN.md "wikilink")対応端末                                                                                                                                        | [N906iL](https://ja.wikipedia.org/wiki/N906iL "wikilink")                                                                                                                             |
-| ps    | プリペイドサービス（ぷりコール）に対応端末                                                                                                                                                           | SO601ps                                                                                                                                                                               |
-| S     | マイナーチェンジ端末で**Second**の意。904iより原則使われない事になった                                                                                                                                      | [SH902iS](https://ja.wikipedia.org/wiki/SH902iS "wikilink")                                                                                                                           |
-| SL    | ラグジュアリー携帯で**Superior Luxury**の意                                                                                                                                                 | [DOLCE SL](../Page/DOLCE_SL.md "wikilink")（SH902iSL）                                                                                                                                  |
-| SS    | らくらくホンシンプル端末で**Slim and Simple**の意                                                                                                                                              | [D880SS](../Page/らくらくホンシンプル.md "wikilink")                                                                                                                                            |
-| T     | [タッチパネル](https://ja.wikipedia.org/wiki/タッチパネル "wikilink")入力に重点を置いた端末の意                                                                                                          | [F900iT](https://ja.wikipedia.org/wiki/F900iT "wikilink")                                                                                                                             |
-| TV    | 903iまでは[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")対応端末、904i以降はワンセグ機能に重点を置いた端末の意                                                                                       | [P901iTV](https://ja.wikipedia.org/wiki/P901iTV "wikilink")                                                                                                                           |
-| V     | ビジュアル（ビデオ）機能強化端末。2101シリーズにおいてはテレビ電話機能を持つ端末の意                                                                                                                                    | [P2102V](https://ja.wikipedia.org/wiki/P2102V "wikilink")・[P900iV](https://ja.wikipedia.org/wiki/P900iV "wikilink")                                                                   |
-| w     | ウェルネス携帯端末で**Wellness**の意                                                                                                                                                        | [SH706iw](https://ja.wikipedia.org/wiki/SH706iw "wikilink")                                                                                                                           |
-| WM    | 音楽再生に重点を置いた端末で**With Music**の意                                                                                                                                                  | [D701iWM](https://ja.wikipedia.org/wiki/D701iWM "wikilink")                                                                                                                           |
-| WP+   | 防水携帯で**Water Proof（防水）**の意                                                                                                                                                      | [SO902iWP+](https://ja.wikipedia.org/wiki/SO902iWP+ "wikilink")                                                                                                                       |
-| WR    | [ラジオ](../Page/ラジオ.md "wikilink")チューナー搭載端末で**With Radio**の意                                                                                                                      | [SO213iWR](https://ja.wikipedia.org/wiki/SO213iWR "wikilink")                                                                                                                         |
-| X     | [FOMAハイスピード](../Page/FOMAハイスピード.md "wikilink")対応端末でXのあとにHIGH-SPEEDと付く（[L705iX](https://ja.wikipedia.org/wiki/L705iX "wikilink")を除く）                                             | [N902iX HIGH-SPEED](https://ja.wikipedia.org/wiki/N902iX_HIGH-SPEED "wikilink")                                                                                                       |
-| μ     | 超薄型端末                                                                                                                                                                           | [P703iμ](../Page/P703iμ.md "wikilink")                                                                                                                                                |
-| II    | 端末カラーの変更など極めて小さな変更時に付与される                                                                                                                                                       | [P506iCII](https://ja.wikipedia.org/wiki/P506iCII "wikilink"),[SH705iII](https://ja.wikipedia.org/wiki/SH705iII "wikilink"),[N706iII](https://ja.wikipedia.org/wiki/N705i "wikilink") |
+| 英字    | 内容                                                                                                                                                           | 使用例                                                                                                                                                                |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| BCL   | 法人向けのカメラ**なし**端末で**Business Camera Less**の意                                                                                                                  | [D702iBCL](../Page/D702iBCL.md "wikilink")                                                                                                                         |
+| Biz   | 法人向けカメラ**あり**端末で**Business**の意                                                                                                                               | [F905iBiz](../Page/F905iBiz.md "wikilink")                                                                                                                         |
+| C     | [iモードFeliCa](https://ja.wikipedia.org/wiki/iモードFeliCa "wikilink")対応端末（901iS以降使われていない）                                                                        | [SO506iC](../Page/SO506iC.md "wikilink")                                                                                                                           |
+| CL    | 一般向けのカメラなし端末で**Camera Less**の意                                                                                                                               | [PROSOLIDμ(P705iCL)](../Page/P705iμ.md "wikilink")                                                                                                                 |
+| CS    | カメラ機能に重点を置いた端末で**Camera Style**の意                                                                                                                            | [SO905iCS](../Page/SO905iCS.md "wikilink")                                                                                                                         |
+| D     | 外部[デザイナー](../Page/デザイナー.md "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")端末で**Design**などの意                                                          | [N702iD](../Page/N702iD.md "wikilink"),[N703iD](../Page/N703iD.md "wikilink")                                                                                      |
+| DS    | 2画面端末                                                                                                                                                        | [D800iDS](../Page/D800iDS.md "wikilink")                                                                                                                           |
+| e     | 706i以降の70xシリーズの端末で**enjoy**や**easy**の意                                                                                                                       | [L706ie](../Page/L706ie.md "wikilink")                                                                                                                             |
+| ECO   | [エコロジー](../Page/エコロジー.md "wikilink")型端末（外装に植物由来のプラスチック採用）                                                                                                    | [N701iECO](../Page/N701iECO.md "wikilink")                                                                                                                         |
+| ES,es | らくらくホン端末で**Easy Style**の意。                                                                                                                                   | [F880iES](../Page/FOMAらくらくホン.md "wikilink")                                                                                                                        |
+| ev    | エグゼクティブ端末                                                                                                                                                    | [F601ev](https://ja.wikipedia.org/wiki/F601ev "wikilink")                                                                                                          |
+| F     | 「D」と同じ意味であるが三菱電機製の場合はメーカー記号とかぶるためこちらを使う。Fは**Fashion**の意。                                                                                                     | [D702iF](../Page/D702iF.md "wikilink")                                                                                                                             |
+| G     | 国際[ローミング](../Page/ローミング.md "wikilink")[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")対応端末（[SIMPURE](../Page/SIMPURE.md "wikilink")シリーズ、903iシリーズ以降使われていない | [N900iG](../Page/N900iG.md "wikilink")                                                                                                                             |
+| GPS   | [GPS搭載機](../Page/グローバル・ポジショニング・システム.md "wikilink")                                                                                                           | F505iGPS                                                                                                                                                           |
+| i     | iモード対応端末（FOMA 200x及び210xシリーズでは使われていない）                                                                                                                       | [N904i](../Page/N904i.md "wikilink")                                                                                                                               |
+| L     | [無線LAN](../Page/無線LAN.md "wikilink")対応端末                                                                                                                     | [N906iL](https://ja.wikipedia.org/wiki/N906iL "wikilink")                                                                                                          |
+| ps    | プリペイドサービス（ぷりコール）に対応端末                                                                                                                                        | SO601ps                                                                                                                                                            |
+| S     | マイナーチェンジ端末で**Second**の意。904iより原則使われない事になった                                                                                                                   | [SH902iS](../Page/SH902iS.md "wikilink")                                                                                                                           |
+| SL    | ラグジュアリー携帯で**Superior Luxury**の意                                                                                                                              | [DOLCE SL](../Page/DOLCE_SL.md "wikilink")（SH902iSL）                                                                                                               |
+| SS    | らくらくホンシンプル端末で**Slim and Simple**の意                                                                                                                           | [D880SS](../Page/らくらくホンシンプル.md "wikilink")                                                                                                                         |
+| T     | [タッチパネル](../Page/タッチパネル.md "wikilink")入力に重点を置いた端末の意                                                                                                          | [F900iT](../Page/F900iT.md "wikilink")                                                                                                                             |
+| TV    | 903iまでは[ワンセグ](../Page/ワンセグ.md "wikilink")対応端末、904i以降はワンセグ機能に重点を置いた端末の意                                                                                       | [P901iTV](../Page/P901iTV.md "wikilink")                                                                                                                           |
+| V     | ビジュアル（ビデオ）機能強化端末。2101シリーズにおいてはテレビ電話機能を持つ端末の意                                                                                                                 | [P2102V](../Page/P2102V.md "wikilink")・[P900iV](../Page/P900iV.md "wikilink")                                                                                      |
+| w     | ウェルネス携帯端末で**Wellness**の意                                                                                                                                     | [SH706iw](https://ja.wikipedia.org/wiki/SH706iw "wikilink")                                                                                                        |
+| WM    | 音楽再生に重点を置いた端末で**With Music**の意                                                                                                                               | [D701iWM](https://ja.wikipedia.org/wiki/D701iWM "wikilink")                                                                                                        |
+| WP+   | 防水携帯で**Water Proof（防水）**の意                                                                                                                                   | [SO902iWP+](../Page/SO902iWP+.md "wikilink")                                                                                                                       |
+| WR    | [ラジオ](../Page/ラジオ.md "wikilink")チューナー搭載端末で**With Radio**の意                                                                                                   | [SO213iWR](../Page/SO213iWR.md "wikilink")                                                                                                                         |
+| X     | [FOMAハイスピード](../Page/FOMAハイスピード.md "wikilink")対応端末でXのあとにHIGH-SPEEDと付く（[L705iX](../Page/L705iX.md "wikilink")を除く）                                             | [N902iX HIGH-SPEED](../Page/N902iX_HIGH-SPEED.md "wikilink")                                                                                                       |
+| μ     | 超薄型端末                                                                                                                                                        | [P703iμ](../Page/P703iμ.md "wikilink")                                                                                                                             |
+| II    | 端末カラーの変更など極めて小さな変更時に付与される                                                                                                                                    | [P506iCII](https://ja.wikipedia.org/wiki/P506iCII "wikilink"),[SH705iII](https://ja.wikipedia.org/wiki/SH705iII "wikilink"),[N706iII](../Page/N705i.md "wikilink") |
 
 ### 携帯電話端末のシリーズ・型番一覧（501iシリーズ登場以降）
 
@@ -1580,11 +1580,11 @@
 (DE)</p></td>
 <td><p><a href="../Page/富士通.md" title="wikilink">富士通</a><br />
 (F)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HTC_(企業)" title="wikilink">HTC</a><br />
+<td><p><a href="../Page/HTC_(企業).md" title="wikilink">HTC</a><br />
 (HT)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日立国際電気" title="wikilink">日立国際電気</a><br />
+<td><p><a href="../Page/日立国際電気.md" title="wikilink">日立国際電気</a><br />
 (KO)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/LGエレクトロニクス" title="wikilink">LG</a><br />
+<td><p><a href="../Page/LGエレクトロニクス.md" title="wikilink">LG</a><br />
 (L)</p></td>
 <td><p><a href="../Page/モトローラ.md" title="wikilink">モトローラ</a><br />
 (M)</p></td>
@@ -1738,7 +1738,7 @@
 <tr class="even">
 <td><p>夏</p></td>
 <td></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/D251i" title="wikilink">D251i</a></em></p></td>
+<td><p><em><a href="../Page/D251i.md" title="wikilink">D251i</a></em></p></td>
 <td></td>
 <td><p><em><a href="https://ja.wikipedia.org/wiki/F251i" title="wikilink">F251i</a></em></p></td>
 <td></td>
@@ -1752,7 +1752,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/らくらくホン#らくらくホン_IIS" title="wikilink">F671iS</a><em>・</em><a href="https://ja.wikipedia.org/wiki/F212i" title="wikilink">F212i</a>''</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/らくらくホン#らくらくホン_IIS" title="wikilink">F671iS</a><em>・</em><a href="../Page/F212i.md" title="wikilink">F212i</a>''</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1762,7 +1762,7 @@
 <tr class="even">
 <td><p>冬</p></td>
 <td></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/D251iS" title="wikilink">D251iS</a></em></p></td>
+<td><p><em><a href="../Page/D251iS.md" title="wikilink">D251iS</a></em></p></td>
 <td></td>
 <td><p><em><a href="https://ja.wikipedia.org/wiki/F504iS" title="wikilink">F504iS</a></em>・<a href="https://ja.wikipedia.org/wiki/F2051" title="wikilink">F2051</a></p></td>
 <td></td>
@@ -1775,7 +1775,7 @@
 <td><p>2003年</p></td>
 <td><p>春</p></td>
 <td></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/D505i" title="wikilink">D505i</a></em></p></td>
+<td><p><em><a href="../Page/D505i.md" title="wikilink">D505i</a></em></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1793,12 +1793,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/N505i" title="wikilink">N505i</a></em>・<a href="https://ja.wikipedia.org/wiki/N2701" title="wikilink">N2701</a>・<a href="https://ja.wikipedia.org/wiki/N2102V" title="wikilink">N2102V</a></p></td>
+<td><p><em><a href="https://ja.wikipedia.org/wiki/N505i" title="wikilink">N505i</a></em>・<a href="../Page/N2701.md" title="wikilink">N2701</a>・<a href="https://ja.wikipedia.org/wiki/N2102V" title="wikilink">N2102V</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>秋</p></td>
 <td></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/D505iS" title="wikilink">D505iS</a></em>・<em><a href="https://ja.wikipedia.org/wiki/D252i" title="wikilink">D252i</a></em></p></td>
+<td><p><em><a href="../Page/D505iS.md" title="wikilink">D505iS</a></em>・<em><a href="https://ja.wikipedia.org/wiki/D252i" title="wikilink">D252i</a></em></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/F2402" title="wikilink">F2402</a>・<em><a href="https://ja.wikipedia.org/wiki/らくらくホン#らくらくホン_III" title="wikilink">F672i</a></em></p></td>
 <td></td>
@@ -1812,12 +1812,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/F505iGPS" title="wikilink">F505iGPS</a></em>・<a href="https://ja.wikipedia.org/wiki/F900i" title="wikilink">F900i</a></p></td>
+<td><p><em><a href="https://ja.wikipedia.org/wiki/F505iGPS" title="wikilink">F505iGPS</a></em>・<a href="../Page/F900i.md" title="wikilink">F900i</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/N505iS" title="wikilink">N505iS</a></em>・<a href="https://ja.wikipedia.org/wiki/N900i" title="wikilink">N900i</a></p></td>
+<td><p><em><a href="https://ja.wikipedia.org/wiki/N505iS" title="wikilink">N505iS</a></em>・<a href="../Page/N900i.md" title="wikilink">N900i</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2004年</p></td>
@@ -1834,14 +1834,14 @@
 <tr class="even">
 <td><p>夏</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/D900i" title="wikilink">D900i</a></p></td>
+<td><p><a href="../Page/D900i.md" title="wikilink">D900i</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/F900iT" title="wikilink">F900iT</a>・<a href="https://ja.wikipedia.org/wiki/F900iC" title="wikilink">F900iC</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/F900iT.md" title="wikilink">F900iT</a>・<a href="../Page/F900iC.md" title="wikilink">F900iC</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/N900iS" title="wikilink">N900iS</a></p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/N900iS.md" title="wikilink">N900iS</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>秋</p></td>
@@ -1853,20 +1853,20 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/N253i" title="wikilink">N253i</a></em>・<a href="https://ja.wikipedia.org/wiki/N900iL" title="wikilink">N900iL</a></p></td>
+<td><p><em><a href="https://ja.wikipedia.org/wiki/N253i" title="wikilink">N253i</a></em>・<a href="../Page/N900iL.md" title="wikilink">N900iL</a></p></td>
 </tr>
 <tr class="even">
 <td><p>冬</p></td>
 <td></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/Music_Porter" title="wikilink">D253iWM</a></em>・<a href="https://ja.wikipedia.org/wiki/D901i" title="wikilink">D901i</a></p></td>
+<td><p><em><a href="https://ja.wikipedia.org/wiki/Music_Porter" title="wikilink">D253iWM</a></em>・<a href="../Page/D901i.md" title="wikilink">D901i</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/F901iC" title="wikilink">F901iC</a>・<a href="https://ja.wikipedia.org/wiki/F700i" title="wikilink">F700i</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/F901iC.md" title="wikilink">F901iC</a>・<a href="https://ja.wikipedia.org/wiki/F700i" title="wikilink">F700i</a></p></td>
 <td></td>
 <td></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/N506iS" title="wikilink">N506iS</a></em>・<a href="https://ja.wikipedia.org/wiki/N900iG" title="wikilink">N900iG</a><br />
-<a href="https://ja.wikipedia.org/wiki/N901iC" title="wikilink">N901iC</a>・<a href="https://ja.wikipedia.org/wiki/N700i" title="wikilink">N700i</a></p></td>
+<td></td>
+<td></td>
+<td><p><em><a href="https://ja.wikipedia.org/wiki/N506iS" title="wikilink">N506iS</a></em>・<a href="../Page/N900iG.md" title="wikilink">N900iG</a><br />
+<a href="../Page/N901iC.md" title="wikilink">N901iC</a>・<a href="../Page/N700i.md" title="wikilink">N700i</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2005年</p></td>
@@ -1883,9 +1883,9 @@
 <tr class="even">
 <td><p>夏</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/D901iS" title="wikilink">D901iS</a></p></td>
+<td><p><a href="../Page/D901iS.md" title="wikilink">D901iS</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/F901iS" title="wikilink">F901iS</a>・<a href="https://ja.wikipedia.org/wiki/F700iS" title="wikilink">F700iS</a>・<a href="https://ja.wikipedia.org/wiki/らくらくホン#FOMA_らくらくホン_II" title="wikilink">F881iES</a></p></td>
+<td><p><a href="../Page/F901iS.md" title="wikilink">F901iS</a>・<a href="https://ja.wikipedia.org/wiki/F700iS" title="wikilink">F700iS</a>・<a href="https://ja.wikipedia.org/wiki/らくらくホン#FOMA_らくらくホン_II" title="wikilink">F881iES</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1895,64 +1895,64 @@
 <tr class="odd">
 <td><p>秋</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/D902i" title="wikilink">D902i</a>・<a href="../Page/D701i.md" title="wikilink">D701i</a></p></td>
+<td><p><a href="../Page/D902i.md" title="wikilink">D902i</a>・<a href="../Page/D701i.md" title="wikilink">D701i</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/F902i" title="wikilink">F902i</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/F902i.md" title="wikilink">F902i</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/N902i" title="wikilink">N902i</a>・<a href="https://ja.wikipedia.org/wiki/N701i" title="wikilink">N701i</a></p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/N902i.md" title="wikilink">N902i</a>・<a href="../Page/N701i.md" title="wikilink">N701i</a></p></td>
 </tr>
 <tr class="even">
 <td><p>冬</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Music_Porter_II" title="wikilink">D701iWM</a>・<a href="https://ja.wikipedia.org/wiki/D702i" title="wikilink">D702i</a>・<a href="https://ja.wikipedia.org/wiki/らくらくホン#らくらくホン_シンプル" title="wikilink">D880SS</a></p></td>
+<td><p><a href="../Page/Music_Porter_II.md" title="wikilink">D701iWM</a>・<a href="../Page/D702i.md" title="wikilink">D702i</a>・<a href="https://ja.wikipedia.org/wiki/らくらくホン#らくらくホン_シンプル" title="wikilink">D880SS</a></p></td>
 <td></td>
 <td><p><a href="../Page/F702iD.md" title="wikilink">F702iD</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/N506iSII" title="wikilink">N506iSII</a></em>・<a href="https://ja.wikipedia.org/wiki/N701iECO" title="wikilink">N701iECO</a>・<a href="https://ja.wikipedia.org/wiki/N702iD" title="wikilink">N702iD</a></p></td>
+<td><p><em><a href="https://ja.wikipedia.org/wiki/N506iSII" title="wikilink">N506iSII</a></em>・<a href="../Page/N701iECO.md" title="wikilink">N701iECO</a>・<a href="../Page/N702iD.md" title="wikilink">N702iD</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2006年</p></td>
 <td><p>春</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/D702iBCL" title="wikilink">D702iBCL</a>・<a href="https://ja.wikipedia.org/wiki/MUSIC_PORTER_X" title="wikilink">D851iWM</a></p></td>
+<td><p><a href="../Page/D702iBCL.md" title="wikilink">D702iBCL</a>・<a href="../Page/MUSIC_PORTER_X.md" title="wikilink">D851iWM</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SIMPURE_L" title="wikilink">L600i</a></p></td>
+<td><p><a href="../Page/SIMPURE_L.md" title="wikilink">L600i</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>夏</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/D902iS" title="wikilink">D902iS</a>・<a href="https://ja.wikipedia.org/wiki/D702iBCL" title="wikilink">D702iBCL</a></p></td>
+<td><p><a href="../Page/D902iS.md" title="wikilink">D902iS</a>・<a href="../Page/D702iBCL.md" title="wikilink">D702iBCL</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/F902iS" title="wikilink">F902iS</a></p></td>
+<td><p><a href="../Page/F902iS.md" title="wikilink">F902iS</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/hTc_Z" title="wikilink">hTc Z</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/M702iS.md" title="wikilink">M702iS</a>・<a href="../Page/M702iG.md" title="wikilink">M702iG</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/N902iL" title="wikilink">N902iL</a>・<a href="https://ja.wikipedia.org/wiki/N902iS" title="wikilink">N902iS</a><br />
-<a href="https://ja.wikipedia.org/wiki/N902iX_HIGH-SPEED" title="wikilink">N902iX</a>・<a href="../Page/N702iS.md" title="wikilink">N702iS</a></p></td>
+<td><p><a href="../Page/N902iL.md" title="wikilink">N902iL</a>・<a href="../Page/N902iS.md" title="wikilink">N902iS</a><br />
+<a href="../Page/N902iX_HIGH-SPEED.md" title="wikilink">N902iX</a>・<a href="../Page/N702iS.md" title="wikilink">N702iS</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>秋</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/D903iTV" title="wikilink">D903iTV</a>・<a href="https://ja.wikipedia.org/wiki/D903i" title="wikilink">D903i</a>・<a href="../Page/D702iF.md" title="wikilink">D702iF</a></p></td>
+<td><p><a href="../Page/D903iTV.md" title="wikilink">D903iTV</a>・<a href="../Page/D903i.md" title="wikilink">D903i</a>・<a href="../Page/D702iF.md" title="wikilink">D702iF</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/F903iX_HIGH-SPEED" title="wikilink">F903iX</a>・<a href="https://ja.wikipedia.org/wiki/F903i" title="wikilink">F903i</a><br />
+<td><p><a href="../Page/F903iX_HIGH-SPEED.md" title="wikilink">F903iX</a>・<a href="../Page/F903i.md" title="wikilink">F903i</a><br />
 <a href="https://ja.wikipedia.org/wiki/らくらくホン#FOMA_らくらくホン_らくらくホン_III" title="wikilink">F882iES</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SIMPURE_L1" title="wikilink">L601i</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/M2501_HIGH-SPEED" title="wikilink">M2501</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/N903i" title="wikilink">N903i</a>・<a href="https://ja.wikipedia.org/wiki/SIMPURE_N1" title="wikilink">N601i</a></p></td>
+<td><p><a href="../Page/SIMPURE_L1.md" title="wikilink">L601i</a></p></td>
+<td><p><a href="../Page/M2501_HIGH-SPEED.md" title="wikilink">M2501</a></p></td>
+<td><p><a href="../Page/N903i.md" title="wikilink">N903i</a>・<a href="https://ja.wikipedia.org/wiki/SIMPURE_N1" title="wikilink">N601i</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007年</p></td>
@@ -1970,28 +1970,28 @@
 <tr class="odd">
 <td><p>夏</p></td>
 <td></td>
-<td><p><a href="../Page/D904i.md" title="wikilink">D904i</a>・<a href="https://ja.wikipedia.org/wiki/D704i" title="wikilink">D704i</a></p></td>
+<td><p><a href="../Page/D904i.md" title="wikilink">D904i</a>・<a href="../Page/D704i.md" title="wikilink">D704i</a></p></td>
 <td></td>
-<td><p><a href="../Page/F904i.md" title="wikilink">F904i</a>・<a href="https://ja.wikipedia.org/wiki/F704i" title="wikilink">F704i</a><br />
+<td><p><a href="../Page/F904i.md" title="wikilink">F904i</a>・<a href="../Page/F704i.md" title="wikilink">F704i</a><br />
 <a href="https://ja.wikipedia.org/wiki/らくらくホンIV" title="wikilink">F883iES</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/SIMPURE_L2.md" title="wikilink">L602i</a>・<a href="https://ja.wikipedia.org/wiki/L704i" title="wikilink">L704i</a></p></td>
+<td><p><a href="../Page/SIMPURE_L2.md" title="wikilink">L602i</a>・<a href="../Page/L704i.md" title="wikilink">L704i</a></p></td>
 <td></td>
-<td><p><a href="../Page/N904i.md" title="wikilink">N904i</a>・<a href="https://ja.wikipedia.org/wiki/N704iμ" title="wikilink">N704iμ</a></p></td>
+<td><p><a href="../Page/N904i.md" title="wikilink">N904i</a>・<a href="../Page/N704iμ.md" title="wikilink">N704iμ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>冬</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/A2502_HIGH-SPEED" title="wikilink">A2502</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/D905i" title="wikilink">D905i</a>・<a href="https://ja.wikipedia.org/wiki/D705i" title="wikilink">D705i</a>・<a href="https://ja.wikipedia.org/wiki/D705iμ" title="wikilink">D705iμ</a></p></td>
+<td><p><a href="../Page/A2502_HIGH-SPEED.md" title="wikilink">A2502</a></p></td>
+<td><p><a href="../Page/D905i.md" title="wikilink">D905i</a>・<a href="../Page/D705i.md" title="wikilink">D705i</a>・<a href="../Page/D705iμ.md" title="wikilink">D705iμ</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/F905i" title="wikilink">F905i</a>・<a href="https://ja.wikipedia.org/wiki/F705i" title="wikilink">F705i</a>・<a href="https://ja.wikipedia.org/wiki/F801i" title="wikilink">F801i</a></p></td>
+<td><p><a href="../Page/F905i.md" title="wikilink">F905i</a>・<a href="../Page/F705i.md" title="wikilink">F705i</a>・<a href="https://ja.wikipedia.org/wiki/F801i" title="wikilink">F801i</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/L705i" title="wikilink">L705i</a>・<a href="https://ja.wikipedia.org/wiki/L705iX" title="wikilink">L705iX</a></p></td>
+<td><p><a href="../Page/L705i.md" title="wikilink">L705i</a>・<a href="../Page/L705iX.md" title="wikilink">L705iX</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/N905i" title="wikilink">N905i</a>・<a href="https://ja.wikipedia.org/wiki/N905iμ" title="wikilink">N905iμ</a><br />
-<a href="https://ja.wikipedia.org/wiki/N705i" title="wikilink">N705i</a>・<a href="https://ja.wikipedia.org/wiki/N705iμ" title="wikilink">N705iμ</a></p></td>
+<td><p><a href="../Page/N905i.md" title="wikilink">N905i</a>・<a href="../Page/N905iμ.md" title="wikilink">N905iμ</a><br />
+<a href="../Page/N705i.md" title="wikilink">N705i</a>・<a href="../Page/N705iμ.md" title="wikilink">N705iμ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年</p></td>
@@ -2011,14 +2011,14 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/F906i" title="wikilink">F906i</a>・<strong><a href="https://ja.wikipedia.org/wiki/F706i" title="wikilink">F706i</a></strong><br />
-<strong><a href="https://ja.wikipedia.org/wiki/らくらくホンV" title="wikilink">F884iES</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/F906i" title="wikilink">F906i</a>・<strong><a href="../Page/F706i.md" title="wikilink">F706i</a></strong><br />
+<strong><a href="../Page/らくらくホンV.md" title="wikilink">F884iES</a></strong></p></td>
 <td></td>
 <td></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/L852i" title="wikilink">L852i</a></strong>・<strong><a href="https://ja.wikipedia.org/wiki/L706ie" title="wikilink">L706ie</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/L852i" title="wikilink">L852i</a></strong>・<strong><a href="../Page/L706ie.md" title="wikilink">L706ie</a></strong></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/N906i" title="wikilink">N906i</a>・<a href="https://ja.wikipedia.org/wiki/N906iμ" title="wikilink">N906iμ</a>・<a href="https://ja.wikipedia.org/wiki/N906iL_onefone" title="wikilink">N906iL</a><br />
-<strong><a href="https://ja.wikipedia.org/wiki/N706i" title="wikilink">N706i</a></strong>・<strong><a href="https://ja.wikipedia.org/wiki/N706ie" title="wikilink">N706ie</a></strong>・<strong><a href="https://ja.wikipedia.org/wiki/N705i" title="wikilink">N706iII</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/N906i" title="wikilink">N906i</a>・<a href="https://ja.wikipedia.org/wiki/N906iμ" title="wikilink">N906iμ</a>・<a href="../Page/N906iL_onefone.md" title="wikilink">N906iL</a><br />
+<strong><a href="../Page/N706i.md" title="wikilink">N706i</a></strong>・<strong><a href="../Page/N706ie.md" title="wikilink">N706ie</a></strong>・<strong><a href="../Page/N705i.md" title="wikilink">N706iII</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -2037,22 +2037,22 @@
 
 
 
-{| class="wikitable" style="text-align:left;" |- |colspan="2"|発売時期 \![ノキア](https://ja.wikipedia.org/wiki/ノキア "wikilink")
-(NM)\!\![パナソニック](https://ja.wikipedia.org/wiki/パナソニック_モバイルコミュニケーションズ "wikilink")
+{| class="wikitable" style="text-align:left;" |- |colspan="2"|発売時期 \![ノキア](../Page/ノキア.md "wikilink")
+(NM)\!\![パナソニック](../Page/パナソニック_モバイルコミュニケーションズ.md "wikilink")
 (P)\!\![日本無線](../Page/日本無線.md "wikilink")
 (R)\!\![三洋電機](../Page/三洋電機.md "wikilink")
 (SA)\!\![シャープ](../Page/シャープ.md "wikilink")
 (SH)\!\![ソニー・エリクソン](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink")
-(SO)\!\![東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")
+(SO)\!\![東芝](../Page/東芝.md "wikilink")
 (T)\!\![リサーチ・イン・モーション](https://ja.wikipedia.org/wiki/ブラックベリー_\(企業\) "wikilink")
-(BlackBerry) |- |1998年||冬||||||*[R207](https://ja.wikipedia.org/wiki/R207 "wikilink")*||*[SA207](https://ja.wikipedia.org/wiki/SA207 "wikilink")*||||*[SO502i](https://ja.wikipedia.org/wiki/SO502i "wikilink")*・*[SO601ps](https://ja.wikipedia.org/wiki/SO601ps "wikilink")*|||| |- |rowspan="4"|1999年||春||||*[P501i](https://ja.wikipedia.org/wiki/P501i "wikilink")*・*[P811](https://ja.wikipedia.org/wiki/P811 "wikilink")*・*[P601ev](https://ja.wikipedia.org/wiki/P601ev "wikilink")*・*[P157](https://ja.wikipedia.org/wiki/P157 "wikilink")*||||||*[SH811](https://ja.wikipedia.org/wiki/SH811 "wikilink")*|||||| |- |夏||*[NM157](https://ja.wikipedia.org/wiki/NM157 "wikilink")*|||||||||||||| |- |秋||||*[P208](https://ja.wikipedia.org/wiki/P208 "wikilink")*・*[P601es](https://ja.wikipedia.org/wiki/P601es "wikilink")*||*[R208](https://ja.wikipedia.org/wiki/R208 "wikilink")*|||||||||| |- |冬||||*[P502i](https://ja.wikipedia.org/wiki/P502i "wikilink")*・*[P158](https://ja.wikipedia.org/wiki/P158 "wikilink")*|||||||||||| |- |rowspan="4"|2000年||春||*[NM502i](https://ja.wikipedia.org/wiki/NM502i "wikilink")*|||||||||||||| |- |夏||||*[P209i](https://ja.wikipedia.org/wiki/P209i "wikilink")*・*[P209iS](../Page/P209iS.md "wikilink")*||||||*[SH821i](https://ja.wikipedia.org/wiki/SH821i "wikilink")*|||||| |- |秋||||*[P821i](https://ja.wikipedia.org/wiki/P821i "wikilink")*||*[R209i](https://ja.wikipedia.org/wiki/R209i "wikilink")*|||||||||| |- |冬||||*[P503i](https://ja.wikipedia.org/wiki/P503i "wikilink")*・*[P651ps](https://ja.wikipedia.org/wiki/P651ps "wikilink")*||||||||*[SO502iWM](https://ja.wikipedia.org/wiki/SO502iWM "wikilink")*・*[SO503i](https://ja.wikipedia.org/wiki/SO503i "wikilink")*・*[ER209i](https://ja.wikipedia.org/wiki/ER209i "wikilink")*|||| |- |rowspan="3"|2001年||春||||*[P503iS](https://ja.wikipedia.org/wiki/P503iS "wikilink")*・*[P210i](https://ja.wikipedia.org/wiki/P210i "wikilink")*||*[R691i](https://ja.wikipedia.org/wiki/R691i "wikilink")*||||||*[SO210i](https://ja.wikipedia.org/wiki/SO210i "wikilink")*|||| |- |秋||||[P2101V](https://ja.wikipedia.org/wiki/P2101V "wikilink")・[P2401](https://ja.wikipedia.org/wiki/P2401 "wikilink")||||||||*[SO503iS](https://ja.wikipedia.org/wiki/SO503iS "wikilink")*・*[SO212i](https://ja.wikipedia.org/wiki/SO212i "wikilink")*|||| |- |冬||||*[P211i](https://ja.wikipedia.org/wiki/P211i "wikilink")*||||||||*[SO211i](https://ja.wikipedia.org/wiki/SO211i "wikilink")*|||| |- |rowspan="4"|2002年||春||||*[P211iS](https://ja.wikipedia.org/wiki/P211iS "wikilink")*||*[R211i](https://ja.wikipedia.org/wiki/R211i "wikilink")*|||||||||| |- |夏||||*[P504i](https://ja.wikipedia.org/wiki/P504i "wikilink")*・[P2002](https://ja.wikipedia.org/wiki/P2002 "wikilink")||*[R692i](https://ja.wikipedia.org/wiki/R692i "wikilink")*||||*[SH251i](../Page/SH251i.md "wikilink")*・[SH2101V](https://ja.wikipedia.org/wiki/SH2101V "wikilink")||*[SO504i](https://ja.wikipedia.org/wiki/SO504i "wikilink")*|||| |- |秋||||*[P504iS](https://ja.wikipedia.org/wiki/P504iS "wikilink")*||||||*[SH251iS](https://ja.wikipedia.org/wiki/SH251iS "wikilink")*||||[T2101V](https://ja.wikipedia.org/wiki/T2101V "wikilink")|| |- |冬||||*[P251iS](https://ja.wikipedia.org/wiki/P251iS "wikilink")*・[P2102V](https://ja.wikipedia.org/wiki/P2102V "wikilink")・*[P751iS](https://ja.wikipedia.org/wiki/P751iS "wikilink")*|||||||||||| |- |rowspan="3"|2003年||夏||||*[P505i](https://ja.wikipedia.org/wiki/P505i "wikilink")*||||||*[SH505i](../Page/SH505i.md "wikilink")*||*[SO505i](https://ja.wikipedia.org/wiki/SO505i "wikilink")*|||| |- |秋||||*[P505iS](https://ja.wikipedia.org/wiki/P505iS "wikilink")*・*[P252i](https://ja.wikipedia.org/wiki/P252i "wikilink")*・[P2402](https://ja.wikipedia.org/wiki/P2402 "wikilink")||||||*[SH252i](https://ja.wikipedia.org/wiki/SH252i "wikilink")*|||||| |- |冬||||[P900i](https://ja.wikipedia.org/wiki/P900i "wikilink")||||||*[SH505iS](https://ja.wikipedia.org/wiki/SH505iS "wikilink")*・[SH900i](https://ja.wikipedia.org/wiki/SH900i "wikilink")||*[SO505iS](https://ja.wikipedia.org/wiki/SO505iS "wikilink")*|||| |- |rowspan="4"|2004年||春||||*[P252iS](https://ja.wikipedia.org/wiki/P252iS "wikilink")*|||||||||||| |- |夏||||**''[P506iC](https://ja.wikipedia.org/wiki/P506iC "wikilink")***・[P900iV](https://ja.wikipedia.org/wiki/P900iV "wikilink")||||||*[SH506iC](https://ja.wikipedia.org/wiki/SH506iC "wikilink")*||*[SO213i](../Page/Premini.md "wikilink")*・*[SO506iC](../Page/SO506iC.md "wikilink")*|||| |- |秋||||*[P253i](https://ja.wikipedia.org/wiki/P253i "wikilink")*||||||||*[SO213iS](../Page/Premini.md "wikilink")*|||| |- |冬||||*[P253iS](https://ja.wikipedia.org/wiki/Lechiffon "wikilink")*・*[P213i](https://ja.wikipedia.org/wiki/Prosolid#mova_P213i_prosolid "wikilink")*・[P901i](https://ja.wikipedia.org/wiki/P901i "wikilink")・[P700i](../Page/P700i.md "wikilink")||||||[SH901iC](https://ja.wikipedia.org/wiki/SH901iC "wikilink")・[SH700i](https://ja.wikipedia.org/wiki/SH700i "wikilink")||*[SO506i](../Page/Premini.md "wikilink")*|||| |- |rowspan="4"|2005年||春||||||||||||*[SO506iS](../Page/Premini.md "wikilink")*|||| |- |夏||||[P901iS](https://ja.wikipedia.org/wiki/P901iS "wikilink")||||||[SH901iS](https://ja.wikipedia.org/wiki/SH901iS "wikilink")・[SH700iS](../Page/SH700iS.md "wikilink")・[SH851i](https://ja.wikipedia.org/wiki/SH851i "wikilink")|||||| |- |秋||||[P701iD](https://ja.wikipedia.org/wiki/P701iD "wikilink")・[P851i](https://ja.wikipedia.org/wiki/Prosolid#FOMA_P851i_prosolid_II "wikilink")||||[SA700iS](../Page/SA700iS.md "wikilink")||||*[SO213iWR](https://ja.wikipedia.org/wiki/RADIDEN "wikilink")*|||| |- |冬||[NM850iG](https://ja.wikipedia.org/wiki/NM850iG "wikilink")||[P901iTV](https://ja.wikipedia.org/wiki/P901iTV "wikilink")・[P902i](https://ja.wikipedia.org/wiki/P902i "wikilink")・[P702i](https://ja.wikipedia.org/wiki/P702i "wikilink")||||[SA800i](../Page/SA800i.md "wikilink")||[SH902i](https://ja.wikipedia.org/wiki/SH902i "wikilink")・[SH702iD](../Page/SH702iD.md "wikilink")||[SO902i](https://ja.wikipedia.org/wiki/SO902i "wikilink")|||| |- |rowspan="3"|2006年||春||||*[P506iCII](https://ja.wikipedia.org/wiki/P506iCII "wikilink")''・[P2403](https://ja.wikipedia.org/wiki/P2403 "wikilink")||||||[SH902iS](https://ja.wikipedia.org/wiki/SH902iS "wikilink")||[SO702i](../Page/SO702i.md "wikilink")|||| |- |夏||||[P902iS](https://ja.wikipedia.org/wiki/P902iS "wikilink")・[P702iD](../Page/P702iD.md "wikilink")||||[SA702i](https://ja.wikipedia.org/wiki/SA702i "wikilink")||[SH902iSL](../Page/DOLCE_SL.md "wikilink")・[SH702iS](../Page/SH702iS.md "wikilink")||[SO902iWP+](https://ja.wikipedia.org/wiki/SO902iWP+ "wikilink")|||| |- |秋||||[P903i](https://ja.wikipedia.org/wiki/P903i "wikilink")・[P903iTV](https://ja.wikipedia.org/wiki/P903iTV "wikilink")||||||[SH903iTV](https://ja.wikipedia.org/wiki/SH903iTV "wikilink")・[SH903i](https://ja.wikipedia.org/wiki/SH903i "wikilink")||[SO903i](https://ja.wikipedia.org/wiki/SO903i "wikilink")||||[BlackBerry 8707h](https://ja.wikipedia.org/wiki/BlackBerry_8707h "wikilink") |- |rowspan="3"|2007年||春||||[P903iX](https://ja.wikipedia.org/wiki/P903iX_HIGH-SPEED "wikilink")・[P703i](../Page/P703i.md "wikilink")・[P703iμ](../Page/P703iμ.md "wikilink")||||||[SH703i](../Page/SH703i.md "wikilink")||[SO903iTV](../Page/SO903iTV.md "wikilink")・[SO703i](../Page/SO703i.md "wikilink")|||| |- |夏||||[P904i](../Page/P904i.md "wikilink")・[P704i](https://ja.wikipedia.org/wiki/P704i "wikilink")・[P704iμ](https://ja.wikipedia.org/wiki/P704iμ "wikilink")||||||[SH904i](../Page/SH904i.md "wikilink")・[SH704i](../Page/SH704i.md "wikilink")||[SO704i](https://ja.wikipedia.org/wiki/SO704i "wikilink")|||| |- |冬||[NM705i](https://ja.wikipedia.org/wiki/NM705i "wikilink")||[P905i](https://ja.wikipedia.org/wiki/P905i "wikilink")・[P905iTV](https://ja.wikipedia.org/wiki/P905iTV "wikilink")・[P705i](https://ja.wikipedia.org/wiki/P705i "wikilink")
-[P705iμ](https://ja.wikipedia.org/wiki/P705iμ "wikilink")・[P705iCL](https://ja.wikipedia.org/wiki/PROSOLID_μ "wikilink")||||||[SH905i](https://ja.wikipedia.org/wiki/SH905i "wikilink")・[SH905iTV](https://ja.wikipedia.org/wiki/SH905iTV "wikilink")・[SH705i](https://ja.wikipedia.org/wiki/SH705i "wikilink")||[SO905i](https://ja.wikipedia.org/wiki/SO905i "wikilink")・[SO905iCS](https://ja.wikipedia.org/wiki/SO905iCS "wikilink")・[SO705i](https://ja.wikipedia.org/wiki/SO705i "wikilink")|||| |- |rowspan="2"|2008年||春||||||||||[SH705iII](https://ja.wikipedia.org/wiki/SH705iII "wikilink")|||||| |- |夏||**[NM706i](https://ja.wikipedia.org/wiki/NM706i "wikilink")**||[P906i](https://ja.wikipedia.org/wiki/P906i "wikilink")・**[P706iμ](https://ja.wikipedia.org/wiki/P706iμ "wikilink")**・**[P706ie](https://ja.wikipedia.org/wiki/P706ie "wikilink")**||||||[SH906i](https://ja.wikipedia.org/wiki/SH906i "wikilink")・**[SH906iTV](https://ja.wikipedia.org/wiki/SH906iTV "wikilink")**・**[SH706i](https://ja.wikipedia.org/wiki/SH706i "wikilink")**
-**[SH706ie](https://ja.wikipedia.org/wiki/SH706ie "wikilink")**・**[SH706iw](https://ja.wikipedia.org/wiki/SH706iw "wikilink")**||[SO906i](https://ja.wikipedia.org/wiki/SO906i "wikilink")・**[SO706i](https://ja.wikipedia.org/wiki/SO706i "wikilink")**|||| |- |}
+(BlackBerry) |- |1998年||冬||||||*[R207](https://ja.wikipedia.org/wiki/R207 "wikilink")*||*[SA207](https://ja.wikipedia.org/wiki/SA207 "wikilink")*||||*[SO502i](https://ja.wikipedia.org/wiki/SO502i "wikilink")*・*[SO601ps](https://ja.wikipedia.org/wiki/SO601ps "wikilink")*|||| |- |rowspan="4"|1999年||春||||*[P501i](https://ja.wikipedia.org/wiki/P501i "wikilink")*・*[P811](https://ja.wikipedia.org/wiki/P811 "wikilink")*・*[P601ev](https://ja.wikipedia.org/wiki/P601ev "wikilink")*・*[P157](https://ja.wikipedia.org/wiki/P157 "wikilink")*||||||*[SH811](https://ja.wikipedia.org/wiki/SH811 "wikilink")*|||||| |- |夏||*[NM157](https://ja.wikipedia.org/wiki/NM157 "wikilink")*|||||||||||||| |- |秋||||*[P208](https://ja.wikipedia.org/wiki/P208 "wikilink")*・*[P601es](../Page/P601es.md "wikilink")*||*[R208](https://ja.wikipedia.org/wiki/R208 "wikilink")*|||||||||| |- |冬||||*[P502i](https://ja.wikipedia.org/wiki/P502i "wikilink")*・*[P158](https://ja.wikipedia.org/wiki/P158 "wikilink")*|||||||||||| |- |rowspan="4"|2000年||春||*[NM502i](https://ja.wikipedia.org/wiki/NM502i "wikilink")*|||||||||||||| |- |夏||||*[P209i](https://ja.wikipedia.org/wiki/P209i "wikilink")*・*[P209iS](../Page/P209iS.md "wikilink")*||||||*[SH821i](https://ja.wikipedia.org/wiki/SH821i "wikilink")*|||||| |- |秋||||*[P821i](https://ja.wikipedia.org/wiki/P821i "wikilink")*||*[R209i](https://ja.wikipedia.org/wiki/R209i "wikilink")*|||||||||| |- |冬||||*[P503i](../Page/P503i.md "wikilink")*・*[P651ps](https://ja.wikipedia.org/wiki/P651ps "wikilink")*||||||||*[SO502iWM](https://ja.wikipedia.org/wiki/SO502iWM "wikilink")*・*[SO503i](https://ja.wikipedia.org/wiki/SO503i "wikilink")*・*[ER209i](https://ja.wikipedia.org/wiki/ER209i "wikilink")*|||| |- |rowspan="3"|2001年||春||||*[P503iS](../Page/P503iS.md "wikilink")*・*[P210i](https://ja.wikipedia.org/wiki/P210i "wikilink")*||*[R691i](https://ja.wikipedia.org/wiki/R691i "wikilink")*||||||*[SO210i](https://ja.wikipedia.org/wiki/SO210i "wikilink")*|||| |- |秋||||[P2101V](https://ja.wikipedia.org/wiki/P2101V "wikilink")・[P2401](https://ja.wikipedia.org/wiki/P2401 "wikilink")||||||||*[SO503iS](https://ja.wikipedia.org/wiki/SO503iS "wikilink")*・*[SO212i](https://ja.wikipedia.org/wiki/SO212i "wikilink")*|||| |- |冬||||*[P211i](../Page/P211i.md "wikilink")*||||||||*[SO211i](https://ja.wikipedia.org/wiki/SO211i "wikilink")*|||| |- |rowspan="4"|2002年||春||||*[P211iS](https://ja.wikipedia.org/wiki/P211iS "wikilink")*||*[R211i](https://ja.wikipedia.org/wiki/R211i "wikilink")*|||||||||| |- |夏||||*[P504i](../Page/P504i.md "wikilink")*・[P2002](https://ja.wikipedia.org/wiki/P2002 "wikilink")||*[R692i](../Page/R692i.md "wikilink")*||||*[SH251i](../Page/SH251i.md "wikilink")*・[SH2101V](https://ja.wikipedia.org/wiki/SH2101V "wikilink")||*[SO504i](https://ja.wikipedia.org/wiki/SO504i "wikilink")*|||| |- |秋||||*[P504iS](../Page/P504iS.md "wikilink")*||||||*[SH251iS](https://ja.wikipedia.org/wiki/SH251iS "wikilink")*||||[T2101V](../Page/T2101V.md "wikilink")|| |- |冬||||*[P251iS](https://ja.wikipedia.org/wiki/P251iS "wikilink")*・[P2102V](../Page/P2102V.md "wikilink")・*[P751iS](https://ja.wikipedia.org/wiki/P751iS "wikilink")*|||||||||||| |- |rowspan="3"|2003年||夏||||*[P505i](../Page/P505i.md "wikilink")*||||||*[SH505i](../Page/SH505i.md "wikilink")*||*[SO505i](../Page/SO505i.md "wikilink")*|||| |- |秋||||*[P505iS](../Page/P505iS.md "wikilink")*・*[P252i](https://ja.wikipedia.org/wiki/P252i "wikilink")*・[P2402](https://ja.wikipedia.org/wiki/P2402 "wikilink")||||||*[SH252i](../Page/SH252i.md "wikilink")*|||||| |- |冬||||[P900i](../Page/P900i.md "wikilink")||||||*[SH505iS](https://ja.wikipedia.org/wiki/SH505iS "wikilink")*・[SH900i](../Page/SH900i.md "wikilink")||*[SO505iS](https://ja.wikipedia.org/wiki/SO505iS "wikilink")*|||| |- |rowspan="4"|2004年||春||||*[P252iS](https://ja.wikipedia.org/wiki/P252iS "wikilink")*|||||||||||| |- |夏||||**''[P506iC](../Page/P506iC.md "wikilink")***・[P900iV](../Page/P900iV.md "wikilink")||||||*[SH506iC](https://ja.wikipedia.org/wiki/SH506iC "wikilink")*||*[SO213i](../Page/Premini.md "wikilink")*・*[SO506iC](../Page/SO506iC.md "wikilink")*|||| |- |秋||||*[P253i](https://ja.wikipedia.org/wiki/P253i "wikilink")*||||||||*[SO213iS](../Page/Premini.md "wikilink")*|||| |- |冬||||*[P253iS](../Page/Lechiffon.md "wikilink")*・*[P213i](https://ja.wikipedia.org/wiki/Prosolid#mova_P213i_prosolid "wikilink")*・[P901i](../Page/P901i.md "wikilink")・[P700i](../Page/P700i.md "wikilink")||||||[SH901iC](../Page/SH901iC.md "wikilink")・[SH700i](../Page/SH700i.md "wikilink")||*[SO506i](../Page/Premini.md "wikilink")*|||| |- |rowspan="4"|2005年||春||||||||||||*[SO506iS](../Page/Premini.md "wikilink")*|||| |- |夏||||[P901iS](../Page/P901iS.md "wikilink")||||||[SH901iS](../Page/SH901iS.md "wikilink")・[SH700iS](../Page/SH700iS.md "wikilink")・[SH851i](https://ja.wikipedia.org/wiki/SH851i "wikilink")|||||| |- |秋||||[P701iD](../Page/P701iD.md "wikilink")・[P851i](https://ja.wikipedia.org/wiki/Prosolid#FOMA_P851i_prosolid_II "wikilink")||||[SA700iS](../Page/SA700iS.md "wikilink")||||*[SO213iWR](https://ja.wikipedia.org/wiki/RADIDEN "wikilink")*|||| |- |冬||[NM850iG](../Page/NM850iG.md "wikilink")||[P901iTV](../Page/P901iTV.md "wikilink")・[P902i](../Page/P902i.md "wikilink")・[P702i](../Page/P702i.md "wikilink")||||[SA800i](../Page/SA800i.md "wikilink")||[SH902i](../Page/SH902i.md "wikilink")・[SH702iD](../Page/SH702iD.md "wikilink")||[SO902i](../Page/SO902i.md "wikilink")|||| |- |rowspan="3"|2006年||春||||*[P506iCII](https://ja.wikipedia.org/wiki/P506iCII "wikilink")''・[P2403](https://ja.wikipedia.org/wiki/P2403 "wikilink")||||||[SH902iS](../Page/SH902iS.md "wikilink")||[SO702i](../Page/SO702i.md "wikilink")|||| |- |夏||||[P902iS](../Page/P902iS.md "wikilink")・[P702iD](../Page/P702iD.md "wikilink")||||[SA702i](../Page/SA702i.md "wikilink")||[SH902iSL](../Page/DOLCE_SL.md "wikilink")・[SH702iS](../Page/SH702iS.md "wikilink")||[SO902iWP+](../Page/SO902iWP+.md "wikilink")|||| |- |秋||||[P903i](../Page/P903i.md "wikilink")・[P903iTV](../Page/P903iTV.md "wikilink")||||||[SH903iTV](../Page/SH903iTV.md "wikilink")・[SH903i](../Page/SH903i.md "wikilink")||[SO903i](../Page/SO903i.md "wikilink")||||[BlackBerry 8707h](https://ja.wikipedia.org/wiki/BlackBerry_8707h "wikilink") |- |rowspan="3"|2007年||春||||[P903iX](../Page/P903iX_HIGH-SPEED.md "wikilink")・[P703i](../Page/P703i.md "wikilink")・[P703iμ](../Page/P703iμ.md "wikilink")||||||[SH703i](../Page/SH703i.md "wikilink")||[SO903iTV](../Page/SO903iTV.md "wikilink")・[SO703i](../Page/SO703i.md "wikilink")|||| |- |夏||||[P904i](../Page/P904i.md "wikilink")・[P704i](../Page/P704i.md "wikilink")・[P704iμ](../Page/P704iμ.md "wikilink")||||||[SH904i](../Page/SH904i.md "wikilink")・[SH704i](../Page/SH704i.md "wikilink")||[SO704i](../Page/SO704i.md "wikilink")|||| |- |冬||[NM705i](../Page/NM705i.md "wikilink")||[P905i](../Page/P905i.md "wikilink")・[P905iTV](../Page/P905iTV.md "wikilink")・[P705i](../Page/P705i.md "wikilink")
+[P705iμ](../Page/P705iμ.md "wikilink")・[P705iCL](https://ja.wikipedia.org/wiki/PROSOLID_μ "wikilink")||||||[SH905i](../Page/SH905i.md "wikilink")・[SH905iTV](../Page/SH905iTV.md "wikilink")・[SH705i](../Page/SH705i.md "wikilink")||[SO905i](../Page/SO905i.md "wikilink")・[SO905iCS](../Page/SO905iCS.md "wikilink")・[SO705i](../Page/SO705i.md "wikilink")|||| |- |rowspan="2"|2008年||春||||||||||[SH705iII](https://ja.wikipedia.org/wiki/SH705iII "wikilink")|||||| |- |夏||**[NM706i](../Page/NM706i.md "wikilink")**||[P906i](https://ja.wikipedia.org/wiki/P906i "wikilink")・**[P706iμ](https://ja.wikipedia.org/wiki/P706iμ "wikilink")**・**[P706ie](../Page/P706ie.md "wikilink")**||||||[SH906i](../Page/SH906i.md "wikilink")・**[SH906iTV](../Page/SH906iTV.md "wikilink")**・**[SH706i](../Page/SH706i.md "wikilink")**
+**[SH706ie](../Page/SH706ie.md "wikilink")**・**[SH706iw](https://ja.wikipedia.org/wiki/SH706iw "wikilink")**||[SO906i](https://ja.wikipedia.org/wiki/SO906i "wikilink")・**[SO706i](../Page/SO706i.md "wikilink")**|||| |- |}
 
 ## 発売中止の端末
 
-  - [OP2502 HIGH-SPEED](https://ja.wikipedia.org/wiki/OP2502_HIGH-SPEED "wikilink")（[Option N.V.製](https://ja.wikipedia.org/wiki/w:Option_N.V. "wikilink")） : 2007年10月に開発を発表し、発売を予定していたが、一部のノートパソコンで使用した場合に、パソコンから抜けなくなったり、抜き取り時にパソコンのスロット部分を破損する不具合が発生した。不具合の改善に取り組んだものの、全てのパソコンで問題なく使用できる確証が得られなかったことから、2008年6月6日に発売の中止を発表した（[参照](http://www.nttdocomo.co.jp/info/news_release/page/080606_00.html)）。
-  - [Nokia E71](https://ja.wikipedia.org/wiki/Nokia_E71 "wikilink")（[ノキア](https://ja.wikipedia.org/wiki/ノキア "wikilink")製） : 2008年11月に「docomo PRO Series」の一つとして開発を発表し、発売を予定していたが、端末供給元であるノキアが日本独自モデルの販売並びに販売活動を打ち切った為、2008年12月1日に発売中止を発表した（[参照](http://www.nttdocomo.co.jp/info/news_release/page/081201_00.html)）。
+  - [OP2502 HIGH-SPEED](../Page/OP2502_HIGH-SPEED.md "wikilink")（[Option N.V.製](https://ja.wikipedia.org/wiki/w:Option_N.V. "wikilink")） : 2007年10月に開発を発表し、発売を予定していたが、一部のノートパソコンで使用した場合に、パソコンから抜けなくなったり、抜き取り時にパソコンのスロット部分を破損する不具合が発生した。不具合の改善に取り組んだものの、全てのパソコンで問題なく使用できる確証が得られなかったことから、2008年6月6日に発売の中止を発表した（[参照](http://www.nttdocomo.co.jp/info/news_release/page/080606_00.html)）。
+  - [Nokia E71](https://ja.wikipedia.org/wiki/Nokia_E71 "wikilink")（[ノキア](../Page/ノキア.md "wikilink")製） : 2008年11月に「docomo PRO Series」の一つとして開発を発表し、発売を予定していたが、端末供給元であるノキアが日本独自モデルの販売並びに販売活動を打ち切った為、2008年12月1日に発売中止を発表した（[参照](http://www.nttdocomo.co.jp/info/news_release/page/081201_00.html)）。
 
 ## 脚注
 
@@ -2060,10 +2060,10 @@
 
 1.  2016年夏以降は[富士通コネクテッドテクノロジーズ](https://ja.wikipedia.org/wiki/富士通コネクテッドテクノロジーズ "wikilink")製
 2.  2010年春までは[日本電気](../Page/日本電気.md "wikilink")製、2011年夏以降はNECブランドとカシオブランドが共存する。また、モバイルWi-fiルーターは[NECプラットフォームズ](../Page/NECプラットフォームズ.md "wikilink")製
-3.  SO型番モデルは2011年冬までは[ソニー・エリクソン・モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink")製、2012年春以降は[ソニーモバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニーモバイルコミュニケーションズ "wikilink")製。Sony Tabletは[ソニー](../Page/ソニー.md "wikilink")製。
-4.  2010年秋までは[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")製、2010年冬は[富士通東芝モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/富士通東芝モバイルコミュニケーションズ "wikilink")製、2011年冬以降は富士通製。
-5.  KO…[日立国際電気](https://ja.wikipedia.org/wiki/日立国際電気 "wikilink")
-    BF…[バッファロー](https://ja.wikipedia.org/wiki/バッファロー_\(パソコン周辺機器\) "wikilink")
-    HW…[ファーウェイ](https://ja.wikipedia.org/wiki/ファーウェイ "wikilink")
+3.  SO型番モデルは2011年冬までは[ソニー・エリクソン・モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink")製、2012年春以降は[ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")製。Sony Tabletは[ソニー](../Page/ソニー.md "wikilink")製。
+4.  2010年秋までは[東芝](../Page/東芝.md "wikilink")製、2010年冬は[富士通東芝モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/富士通東芝モバイルコミュニケーションズ "wikilink")製、2011年冬以降は富士通製。
+5.  KO…[日立国際電気](../Page/日立国際電気.md "wikilink")
+    BF…[バッファロー](../Page/バッファロー_\(パソコン周辺機器\).md "wikilink")
+    HW…[ファーウェイ](../Page/ファーウェイ.md "wikilink")
     d…dtab（ドコモオリジナルブランド）
     MO…MONO（ドコモオリジナルブランド）

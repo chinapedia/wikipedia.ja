@@ -6,16 +6,16 @@
 ## 解説
 
   - [1996年](../Page/1996年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりリリースされた。
-  - 「[アルペン](https://ja.wikipedia.org/wiki/アルペン_\(企業\) "wikilink")」CMソング。
+  - 「[アルペン](../Page/アルペン_\(企業\).md "wikilink")」CMソング。
   - 1996年に広瀬自身が発売した唯一の作品である（[内田有紀](../Page/内田有紀.md "wikilink")などへの楽曲提供はあった）。
-  - 3rdアルバム『[SUCCESS STORY](https://ja.wikipedia.org/wiki/SUCCESS_STORY "wikilink")』収録曲「Dear」を元に、歌詞変更などの改変を行った[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")作品である。
+  - 3rdアルバム『[SUCCESS STORY](https://ja.wikipedia.org/wiki/SUCCESS_STORY "wikilink")』収録曲「Dear」を元に、歌詞変更などの改変を行った[リメイク](../Page/リメイク.md "wikilink")作品である。
   - バージョン違いの「Ver.2.05」がある。これは元々6thアルバム『[welcome-muzik](https://ja.wikipedia.org/wiki/welcome-muzik "wikilink")』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月5日](../Page/2月5日.md "wikilink")リリース）に収録するアルバムバージョンとして作られたが、後のベストアルバムや[着うた](../Page/着うた.md "wikilink")配信等では「Ver.2.05」が収録・採用される事が多い。（）。
 
 ## 収録曲
 
 1.  DEAR...again
       -
-        作詞・作曲：[広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")、編曲：広瀬香美・[本間昭光](https://ja.wikipedia.org/wiki/本間昭光 "wikilink")
+        作詞・作曲：[広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")、編曲：広瀬香美・[本間昭光](../Page/本間昭光.md "wikilink")
 2.  みなさんのおかげです
       -
         作詞・作曲：広瀬香美、編曲：広瀬香美・本間昭光

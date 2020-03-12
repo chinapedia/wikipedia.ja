@@ -1,13 +1,13 @@
 > この記事は[ from OSAKA](https://ja.wikipedia.org/wiki/_from_OSAKA)から翻訳されています。
 
 
-**クロノス from OSAKA**（クロノス フロム・オオサカ）は、[TOKYO FM](../Page/エフエム東京.md "wikilink")、[JFNC共同制作のラジオ番組](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")[クロノスのうち](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")、[FM OSAKAローカル枠で放送された番組である](../Page/エフエム大阪.md "wikilink")。 ここでは、前番組で同じくTFM・JFNC共同制作の[SKYのローカルゾーン](https://ja.wikipedia.org/wiki/SKY_\(ラジオ番組\) "wikilink") **SKY from OSAKA**（スカイ フロム・オオサカ）、ならびに2012年4月以降のローカル枠についても詳述する。
+**クロノス from OSAKA**（クロノス フロム・オオサカ）は、[TOKYO FM](../Page/エフエム東京.md "wikilink")、[JFNC共同制作のラジオ番組](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")[クロノスのうち](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")、[FM OSAKAローカル枠で放送された番組である](../Page/エフエム大阪.md "wikilink")。 ここでは、前番組で同じくTFM・JFNC共同制作の[SKYのローカルゾーン](../Page/SKY_\(ラジオ番組\).md "wikilink") **SKY from OSAKA**（スカイ フロム・オオサカ）、ならびに2012年4月以降のローカル枠についても詳述する。
 
 ## 概要
 
 ### SKY from OSAKA
 
-2007年7月31日をもってfm osakaが平日早朝ワイドの自社制作から撤退。「[庄司悟のアサイチBANG\!](../Page/庄司悟のアサイチBANG!.md "wikilink")」（5:00～6:55）が終了し、翌8月1日から[SKYのネットを開始](https://ja.wikipedia.org/wiki/SKY_\(ラジオ番組\) "wikilink")。それまで[庄司悟](https://ja.wikipedia.org/wiki/庄司悟 "wikilink")が担当していた「**庄司悟のアサニBANG\!**」（7:29～8:00、SKYローカル枠）も同時に終了となり、その後継番組として開始したのが「**SKY from OSAKA**」である。SKYとしての枠はそれまでの7:00～8:20が5:00～8:20となり広がったが、大阪ローカル枠はこれまで通り7:29～8:00のままである。
+2007年7月31日をもってfm osakaが平日早朝ワイドの自社制作から撤退。「[庄司悟のアサイチBANG\!](../Page/庄司悟のアサイチBANG!.md "wikilink")」（5:00～6:55）が終了し、翌8月1日から[SKYのネットを開始](../Page/SKY_\(ラジオ番組\).md "wikilink")。それまで[庄司悟](../Page/庄司悟.md "wikilink")が担当していた「**庄司悟のアサニBANG\!**」（7:29～8:00、SKYローカル枠）も同時に終了となり、その後継番組として開始したのが「**SKY from OSAKA**」である。SKYとしての枠はそれまでの7:00～8:20が5:00～8:20となり広がったが、大阪ローカル枠はこれまで通り7:29～8:00のままである。
 全国版SKYの終了に伴い、この番組も終了。コンセプト・出演者はそのままに、**クロノス from OSAKA**に引き継ぐ。
 
 ### クロノス from OSAKA
@@ -52,26 +52,26 @@
 
 ## 出演
 
-  - [大塚由美](https://ja.wikipedia.org/wiki/大塚由美 "wikilink")（出演は7:29～7:54まで）
+  - [大塚由美](../Page/大塚由美.md "wikilink")（出演は7:29～7:54まで）
 
 ## コーナー
 
   - ちょい懐かしい曲
       - 懐かしい曲のリクエストに応えるコーナー。流れる曲の年代は決まっていないが、前番組よりもやや後年の曲が選ばれやすい。
   - トラフィック・リポート（金曜のみ[大阪トヨタ自動車](../Page/大阪トヨタ自動車.md "wikilink")提供）
-  - [コジマ](../Page/コジマ.md "wikilink")・キャッチ・ザ・ワールド（TFMでも同名のコーナーがあるが内容は別、[企画ネット番組](https://ja.wikipedia.org/wiki/企画ネット番組 "wikilink")）
-      - [インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")のおすすめ[サイトを紹介している](../Page/ウェブサイト.md "wikilink")。金曜のみ通常のコジマのCMではなくDJがお知らせを読み上げている。
+  - [コジマ](../Page/コジマ.md "wikilink")・キャッチ・ザ・ワールド（TFMでも同名のコーナーがあるが内容は別、[企画ネット番組](../Page/企画ネット番組.md "wikilink")）
+      - [インターネット](../Page/インターネット.md "wikilink")のおすすめ[サイトを紹介している](../Page/ウェブサイト.md "wikilink")。金曜のみ通常のコジマのCMではなくDJがお知らせを読み上げている。
       - このコーナーのみ次番組に引き継がれた。
   - きょうの占い　HOP\!STEP\!JUMP\!\!
-      - 開始当初は、[キューサイ](https://ja.wikipedia.org/wiki/キューサイ "wikilink")提供で、無料試供品プレゼントの告知がされていた。（番組終了後は、[LOVE FLAPの](../Page/LOVE_FLAP.md "wikilink")「Lunchtime Essentials」に引き継がれていた。現在は終了）
+      - 開始当初は、[キューサイ](../Page/キューサイ.md "wikilink")提供で、無料試供品プレゼントの告知がされていた。（番組終了後は、[LOVE FLAPの](../Page/LOVE_FLAP.md "wikilink")「Lunchtime Essentials」に引き継がれていた。現在は終了）
   - エンディング
   - 7:54 [ヘッドラインニュース](https://ja.wikipedia.org/wiki/fm_osaka_ヘッドラインニュース "wikilink")（[拓伸](https://ja.wikipedia.org/wiki/拓伸 "wikilink")提供）
   - 7:58 トラフィック・リポート（[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")提供）
 
 ## 関連項目
 
-  - [SKY](https://ja.wikipedia.org/wiki/SKY_\(ラジオ番組\) "wikilink")
-  - [SKY (fm osaka)](https://ja.wikipedia.org/wiki/SKY_\(fm_osaka\) "wikilink")
+  - [SKY](../Page/SKY_\(ラジオ番組\).md "wikilink")
+  - [SKY (fm osaka)](../Page/SKY_\(fm_osaka\).md "wikilink")
   - [庄司悟のアサニBANG\!](https://ja.wikipedia.org/wiki/庄司悟のアサニBANG! "wikilink")
   - [クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")
   - [クロノス・アイチ](https://ja.wikipedia.org/wiki/クロノス・アイチ "wikilink") - クロノスの愛知ローカル枠。

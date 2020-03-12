@@ -5,7 +5,7 @@
 
 ## 来歴
 
-[ミズーリ州](../Page/ミズーリ州.md "wikilink")出身。ハーディン・セントラル高校、、および[カンザス大学](https://ja.wikipedia.org/wiki/カンザス大学 "wikilink")卒業。現在、[テネシー州](../Page/テネシー州.md "wikilink")[クリーブランドの](https://ja.wikipedia.org/wiki/クリーブランド_\(テネシー州\) "wikilink")吹奏楽団で[指揮者](../Page/指揮者.md "wikilink")を務める。また、一時期[教会](../Page/教会.md "wikilink")の専属作曲家を務めたことがあり、このことが作風に影響を及ぼしている。
+[ミズーリ州](../Page/ミズーリ州.md "wikilink")出身。ハーディン・セントラル高校、、および[カンザス大学](../Page/カンザス大学.md "wikilink")卒業。現在、[テネシー州](../Page/テネシー州.md "wikilink")[クリーブランドの](https://ja.wikipedia.org/wiki/クリーブランド_\(テネシー州\) "wikilink")吹奏楽団で[指揮者](../Page/指揮者.md "wikilink")を務める。また、一時期[教会](../Page/教会.md "wikilink")の専属作曲家を務めたことがあり、このことが作風に影響を及ぼしている。
 
 ## 作風
 

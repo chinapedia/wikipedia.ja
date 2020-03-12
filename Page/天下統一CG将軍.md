@@ -1,7 +1,7 @@
 > この記事は[CG](https://ja.wikipedia.org/wiki/CG)から翻訳されています。
 
 
-『**天下統一CG将軍**』（てんかとういつシージーしょうぐん）は、発想の達人たちとCGアーティストがコラボレーションしておもしろ[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")を制作、[コンテスト](https://ja.wikipedia.org/wiki/コンテスト "wikilink")するという、[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")の[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")。
+『**天下統一CG将軍**』（てんかとういつシージーしょうぐん）は、発想の達人たちとCGアーティストがコラボレーションしておもしろ[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")を制作、[コンテスト](https://ja.wikipedia.org/wiki/コンテスト "wikilink")するという、[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")の[特別番組](../Page/特別番組.md "wikilink")。
 
 ## 出演者
 
@@ -18,9 +18,9 @@
 
 ### 審査員
 
-  - [真島理一郎](https://ja.wikipedia.org/wiki/真島理一郎 "wikilink")(審査委員長/[スキージャンプ・ペア](https://ja.wikipedia.org/wiki/スキージャンプ・ペア "wikilink")作者)
+  - [真島理一郎](../Page/真島理一郎.md "wikilink")(審査委員長/[スキージャンプ・ペア](../Page/スキージャンプ・ペア.md "wikilink")作者)
   - [伊集院光](../Page/伊集院光.md "wikilink")
-  - [杉山知之](https://ja.wikipedia.org/wiki/杉山知之 "wikilink")（[デジタルハリウッド大学](https://ja.wikipedia.org/wiki/デジタルハリウッド大学 "wikilink")学長）
+  - [杉山知之](../Page/杉山知之.md "wikilink")（[デジタルハリウッド大学](../Page/デジタルハリウッド大学.md "wikilink")学長）
   - 大谷真幸（[日経エンタテインメント](https://ja.wikipedia.org/wiki/日経エンタテインメント "wikilink")）
   - 狐崎浩子（[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")）
   - 闇の将軍 - [藤岡弘、](../Page/藤岡弘、.md "wikilink")
@@ -41,13 +41,13 @@
 
 －－－－－－－－－－－－－－－－－－－－－－－－－
 
-  - [エレキコミック](https://ja.wikipedia.org/wiki/エレキコミック "wikilink")(芸人)　×　高橋哲人
-  - [掟ポルシェ](../Page/掟ポルシェ.md "wikilink")（[ロマンポルシェ。](https://ja.wikipedia.org/wiki/ロマンポルシェ。 "wikilink")）(アーティスト)　×　河野卓馬
+  - [エレキコミック](../Page/エレキコミック.md "wikilink")(芸人)　×　高橋哲人
+  - [掟ポルシェ](../Page/掟ポルシェ.md "wikilink")（[ロマンポルシェ。](../Page/ロマンポルシェ。.md "wikilink")）(アーティスト)　×　河野卓馬
   - [椎名基樹](../Page/椎名基樹.md "wikilink")(放送作家＆フリーライター)　×　ヤマザキ△そういち
   - [辛酸なめ子](../Page/辛酸なめ子.md "wikilink")(コラムニスト＆マンガ家)　×　大浦啓嗣
   - [五月女ケイ子](../Page/五月女ケイ子.md "wikilink")(イラストレーター)　×　田辺正章
   - [増山麗奈](../Page/増山麗奈.md "wikilink")(画家)　×　中村均
-  - [村上卓史](https://ja.wikipedia.org/wiki/村上卓史 "wikilink")(放送作家)　×　千山久絵
+  - [村上卓史](../Page/村上卓史.md "wikilink")(放送作家)　×　千山久絵
   - [和田ラヂヲ](../Page/和田ラヂヲ.md "wikilink")(マンガ家)　×　デジタル番長
 
 ### 天下統一ＣＧ将軍２（2008年10月4日放送）
@@ -58,20 +58,20 @@
 
 ### アシスタント
 
-  - [相内優香](https://ja.wikipedia.org/wiki/相内優香 "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")アナウンサー)
-  - [秋元玲奈](https://ja.wikipedia.org/wiki/秋元玲奈 "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")アナウンサー)
+  - [相内優香](../Page/相内優香.md "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")アナウンサー)
+  - [秋元玲奈](../Page/秋元玲奈.md "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")アナウンサー)
 
 ### 審査員
 
   - [安齋肇](https://ja.wikipedia.org/wiki/安齋肇 "wikilink")(審査委員長)
   - [里田まい](https://ja.wikipedia.org/wiki/里田まい "wikilink")
-  - [神足裕司](https://ja.wikipedia.org/wiki/神足裕司 "wikilink")
+  - [神足裕司](../Page/神足裕司.md "wikilink")
   - 大谷真幸（[日経エンタテインメント](https://ja.wikipedia.org/wiki/日経エンタテインメント "wikilink")）
   - 阪上和也（[エヌ･デザイン](https://ja.wikipedia.org/wiki/エヌ･デザイン "wikilink")）
 
 ### ゲスト
 
-  - [串田アキラ](https://ja.wikipedia.org/wiki/串田アキラ "wikilink")
+  - [串田アキラ](../Page/串田アキラ.md "wikilink")
 
 ### 発想のプロ×CGアーティスト
 
@@ -91,11 +91,11 @@
 
   - [内村宏幸](../Page/内村宏幸.md "wikilink")(放送作家)　×　松岡毅
   - [如月音流](../Page/如月音流.md "wikilink")(IT系ニューハーフ社長＆携帯絵文字作家)　×　酒井達矢
-  - [喜屋武ちあき](https://ja.wikipedia.org/wiki/喜屋武ちあき "wikilink")(グラビアアイドル)　×　デジタル番長
+  - [喜屋武ちあき](../Page/喜屋武ちあき.md "wikilink")(グラビアアイドル)　×　デジタル番長
   - [春風亭昇太](../Page/春風亭昇太.md "wikilink")(落語家)　×　小野修
   - [ダンス☆マン](../Page/ダンス☆マン.md "wikilink")(ミュージシャン)　×　あさをゆうじ
-  - [バカリズム](https://ja.wikipedia.org/wiki/バカリズム "wikilink")(お笑いタレント)　×　まちむらけん
-  - [真島理一郎](https://ja.wikipedia.org/wiki/真島理一郎 "wikilink")(映像作家)　×　島内咲美
+  - [バカリズム](../Page/バカリズム.md "wikilink")(お笑いタレント)　×　まちむらけん
+  - [真島理一郎](../Page/真島理一郎.md "wikilink")(映像作家)　×　島内咲美
 
 ## 放送日
 

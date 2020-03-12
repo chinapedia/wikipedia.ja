@@ -1,7 +1,7 @@
 > この記事は[Call Me \(YOSHIKA\)](https://ja.wikipedia.org/wiki/Call_Me_\(YOSHIKA\))から翻訳されています。
 
 
-「**Call Me**」（コール・ミー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[YOSHIKA](../Page/YOSHIKA.md "wikilink")のソロとしてのメジャー・デビュー・[シングル](../Page/シングル.md "wikilink")（シングルとしては2作目）。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")発売。
+「**Call Me**」（コール・ミー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[YOSHIKA](../Page/YOSHIKA.md "wikilink")のソロとしてのメジャー・デビュー・[シングル](../Page/シングル.md "wikilink")（シングルとしては2作目）。[2005年](../Page/2005年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")発売。
 
 ## 解説
 

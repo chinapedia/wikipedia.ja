@@ -1,7 +1,7 @@
 > この記事は[Iichiko](https://ja.wikipedia.org/wiki/Iichiko)から翻訳されています。
 
 
-『**iichiko**』（いいちこ）とは、[三和酒類](https://ja.wikipedia.org/wiki/三和酒類 "wikilink")株式会社が発行している文芸雑誌（季刊）である。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")10月創刊。現在では、[新曜社](https://ja.wikipedia.org/wiki/新曜社 "wikilink")より市販本『LIBRARY iichiko』も発刊されている。監修は[河北秀也](https://ja.wikipedia.org/wiki/河北秀也 "wikilink")、編纂には[山本哲士](https://ja.wikipedia.org/wiki/山本哲士 "wikilink")があたっている。
+『**iichiko**』（いいちこ）とは、[三和酒類](../Page/三和酒類.md "wikilink")株式会社が発行している文芸雑誌（季刊）である。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")10月創刊。現在では、[新曜社](../Page/新曜社.md "wikilink")より市販本『LIBRARY iichiko』も発刊されている。監修は[河北秀也](https://ja.wikipedia.org/wiki/河北秀也 "wikilink")、編纂には[山本哲士](../Page/山本哲士.md "wikilink")があたっている。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 ## iichiko文化学賞
 
-[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")創設。世界の超領域的な文化学研究を行っている研究者を顕彰している。
+[1991年](../Page/1991年.md "wikilink")創設。世界の超領域的な文化学研究を行っている研究者を顕彰している。
 
 ### 第1・2回（1991年）
 
@@ -35,7 +35,7 @@
 
 ### 第9・10回（1999年）
 
-  - [ジョン・アーリ](https://ja.wikipedia.org/wiki/ジョン・アーリ "wikilink")
+  - [ジョン・アーリ](../Page/ジョン・アーリ.md "wikilink")
   - [ポール・ラビノウ](https://ja.wikipedia.org/wiki/ポール・ラビノウ "wikilink")
 
 ### 第11・12回（2001年）
@@ -61,7 +61,7 @@
   - No.94, SPRING 2007 『特集 [吉本隆明](../Page/吉本隆明.md "wikilink")の『心的現象論』了解論/ファッション・カルチャー（1）』
   - No.93, WINTER 2007 『特集 「[場所](https://ja.wikipedia.org/wiki/場所 "wikilink")」論ノート―[西田幾多郎](../Page/西田幾多郎.md "wikilink")の「場所」論稿を読む』
   - No.92, AUTUMN 2006 『特集 日本語の文化学』
-  - No.91, SUMMER 2006 『特集 科学技術と[オクタビオ・パス](https://ja.wikipedia.org/wiki/オクタビオ・パス "wikilink")』
+  - No.91, SUMMER 2006 『特集 科学技術と[オクタビオ・パス](../Page/オクタビオ・パス.md "wikilink")』
   - No.90, SPRING 2006 『特集 愛の理論』
   - No.89, WINTER 2006 『特集 科学技術とホスピタリティ』
   - No.88, AUTUMN 2005 『特集 [アルチュール・ランボー](../Page/アルチュール・ランボー.md "wikilink")151』
@@ -81,9 +81,9 @@
   - No.73, WINTER 2002 『特集 [舞踊](https://ja.wikipedia.org/wiki/舞踊 "wikilink")の文化学 = The Culture of Dance/Buyo』
   - No.72, AUTUMN 2001 『特集 場所の文化学Ⅰ = The Culture of Place I/小林秀雄（続） = Hideo Kobayashi』
   - No.71, 2001年SUMMER 『特集 [小林秀雄](../Page/小林秀雄_\(批評家\).md "wikilink")』
-  - No.70, 2001年SPRING 『特集 21世紀のための20世紀の[文化遺産](https://ja.wikipedia.org/wiki/文化遺産 "wikilink")』
+  - No.70, 2001年SPRING 『特集 21世紀のための20世紀の[文化遺産](../Page/文化遺産.md "wikilink")』
   - No.69, 2001年冬 『特集 スポーツの文化学 2』
-  - No.68, 2000年秋 『特集 [ポール・ラビノウ](https://ja.wikipedia.org/wiki/ポール・ラビノウ "wikilink")/[ジョン・アーリ](https://ja.wikipedia.org/wiki/ジョン・アーリ "wikilink")』
+  - No.68, 2000年秋 『特集 [ポール・ラビノウ](https://ja.wikipedia.org/wiki/ポール・ラビノウ "wikilink")/[ジョン・アーリ](../Page/ジョン・アーリ.md "wikilink")』
 
 ## 外部リンク
 

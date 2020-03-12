@@ -6,9 +6,9 @@
 ## 解説
 
   - 前作から7ヶ月ぶりとなるシングルで、アルバム『[Heaven's Kitchen](https://ja.wikipedia.org/wiki/Heaven's_Kitchen_\(BONNIE_PINKのアルバム\) "wikilink")』の先行シングルとして発売された。
-  - 「Heaven's Kitchen」は[1994年](../Page/1994年.md "wikilink")に、[BONNIE PINKが生まれて初めて作った曲だという](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")。[ap bank fes](https://ja.wikipedia.org/wiki/ap_bank_fes "wikilink")'07の楽屋で[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[桜井和寿](https://ja.wikipedia.org/wiki/桜井和寿 "wikilink")に「あれが最初の曲っていうのもすごいですね」と賞賛されていた。（以上、2007年8月12日・[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[みゅーじん](https://ja.wikipedia.org/wiki/みゅーじん "wikilink")』談）
-  - この曲で初めて[オリコン・チャートにチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")・インし、注目を集めることとなる。
-  - 自身初の[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")・ソング。
+  - 「Heaven's Kitchen」は[1994年](../Page/1994年.md "wikilink")に、[BONNIE PINKが生まれて初めて作った曲だという](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")。[ap bank fes](https://ja.wikipedia.org/wiki/ap_bank_fes "wikilink")'07の楽屋で[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[桜井和寿](../Page/桜井和寿.md "wikilink")に「あれが最初の曲っていうのもすごいですね」と賞賛されていた。（以上、2007年8月12日・[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[みゅーじん](../Page/みゅーじん.md "wikilink")』談）
+  - この曲で初めて[オリコン・チャートにチャート](../Page/オリコンチャート.md "wikilink")・インし、注目を集めることとなる。
+  - 自身初の[タイアップ](../Page/タイアップ.md "wikilink")・ソング。
   - 初回限定盤のみ４面見開きの特殊パッケージ仕様。
   - 限定盤として、[EPレコード盤もリリースされた](https://ja.wikipedia.org/wiki/EP盤 "wikilink")（[PCKA-00009](https://ja.wikipedia.org/wiki/Heaven's_Kitchen_\(ビニル\) "wikilink")）。
 
@@ -47,7 +47,7 @@
 
 ## 解説
 
-  - 7インチ・ピクチャーレコードになっており、限定2000枚で[8センチCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink")シングル｢[Heaven's Kitchen](https://ja.wikipedia.org/wiki/Heaven's_Kitchen_\(BONNIE_PINKの曲\) "wikilink")｣と同時発売された。
+  - 7インチ・ピクチャーレコードになっており、限定2000枚で[8センチCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink")シングル｢[Heaven's Kitchen](../Page/Heaven's_Kitchen_\(BONNIE_PINKの曲\).md "wikilink")｣と同時発売された。
   - ジャケットは無く、透明エナメル・バッグに梱包されている。
 
 ## 収録曲

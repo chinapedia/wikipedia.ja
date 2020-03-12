@@ -5,13 +5,13 @@
 
 ## 概要
 
-  - 「FRAGILE」は、川本真琴が発表した楽曲で演奏時間が最も長い曲である。演奏時間は10分53秒である。TBS系「[カウントダウンオールヒット](https://ja.wikipedia.org/wiki/カウントダウンオールヒット "wikilink")」では、2000年の「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」にチャートインした楽曲で最も演奏時間が長い曲として紹介された。[20世紀](../Page/20世紀.md "wikilink")を締め括る作品リリースとなった。
+  - 「FRAGILE」は、川本真琴が発表した楽曲で演奏時間が最も長い曲である。演奏時間は10分53秒である。TBS系「[カウントダウンオールヒット](../Page/カウントダウンオールヒット.md "wikilink")」では、2000年の「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」にチャートインした楽曲で最も演奏時間が長い曲として紹介された。[20世紀](../Page/20世紀.md "wikilink")を締め括る作品リリースとなった。
 
 ## 収録曲
 
 1.  **FRAGILE**
       -
-        （作詞：[川本“L.A.”真琴](https://ja.wikipedia.org/wiki/川本真琴 "wikilink")、作曲・編曲\[1\]：[磯野栄太郎](../Page/岡村靖幸.md "wikilink")、ストリングス・アレンジ：[デヴィッド・キャンベル](https://ja.wikipedia.org/wiki/デヴィッド・キャンベル_\(アレンジャー\) "wikilink")、コーラス・アレンジ：川本真琴）
+        （作詞：[川本“L.A.”真琴](https://ja.wikipedia.org/wiki/川本真琴 "wikilink")、作曲・編曲\[1\]：[磯野栄太郎](../Page/岡村靖幸.md "wikilink")、ストリングス・アレンジ：[デヴィッド・キャンベル](../Page/デヴィッド・キャンベル_\(アレンジャー\).md "wikilink")、コーラス・アレンジ：川本真琴）
         レコーディングは日本国内と[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で行われている。
         約11分と演奏時間が非常に長いため、PVは音源をショート・ヴァージョンにしたものを用いて制作されている。
         磯野栄太郎は、[岡村靖幸](../Page/岡村靖幸.md "wikilink")の変名である。
@@ -23,7 +23,7 @@
 2.  **トラブルバス**
       -
         （作詞：川本“L.A.”真琴、作曲：川本真琴、編曲\[2\]：[石川鉄男](https://ja.wikipedia.org/wiki/石川鉄男 "wikilink")）
-        のちに同じ[アンティノス・レコード所属となる](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")[藤井隆](../Page/藤井隆.md "wikilink")が、Shoutとしてバック・ヴォーカルのような形で参加している。
+        のちに同じ[アンティノス・レコード所属となる](../Page/エピックレコードジャパン.md "wikilink")[藤井隆](../Page/藤井隆.md "wikilink")が、Shoutとしてバック・ヴォーカルのような形で参加している。
         [Chappie](https://ja.wikipedia.org/wiki/Chappie "wikilink")の"Happyending Soulwriter's Council Band"（アルバム『NEW CHAPPIE』収録）に、新たに詞をつけたものである。
 
 ## 収録アルバム

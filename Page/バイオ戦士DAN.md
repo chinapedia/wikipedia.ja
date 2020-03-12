@@ -1,24 +1,24 @@
 > この記事は[DAN](https://ja.wikipedia.org/wiki/DAN)から翻訳されています。
 
 
-『**バイオ戦士DAN インクリーザーとの闘い**』（バイオせんしダン インクリーザーとのたたかい）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月22日](../Page/9月22日.md "wikilink")に[ジャレコ](../Page/ジャレコ.md "wikilink")から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[アクションアドベンチャーゲーム](https://ja.wikipedia.org/wiki/アクションアドベンチャーゲーム "wikilink")。
+『**バイオ戦士DAN インクリーザーとの闘い**』（バイオせんしダン インクリーザーとのたたかい）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月22日](../Page/9月22日.md "wikilink")に[ジャレコ](../Page/ジャレコ.md "wikilink")から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")。
 
 北米において『*Bashi Bazook: Morphoid Masher*』のタイトルで発売が予定されていたが発売中止となった。
 
-開発は[アトラスが行い](../Page/アトラス_\(ゲーム会社\).md "wikilink")、音楽は[増子司](https://ja.wikipedia.org/wiki/増子司 "wikilink")、パッケージイラストは[爬沼庵が担当している](https://ja.wikipedia.org/wiki/はぬまあん "wikilink")。ゲーム内容はバイオ手術を施された主人公「DAN」を操作し、[1999年](../Page/1999年.md "wikilink")に[タイムワープして超増殖生命体](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")「インクリーザー」を倒し、地球を救出する事を目的としている。
+開発は[アトラスが行い](../Page/アトラス_\(ゲーム会社\).md "wikilink")、音楽は[増子司](../Page/増子司.md "wikilink")、パッケージイラストは[爬沼庵が担当している](https://ja.wikipedia.org/wiki/はぬまあん "wikilink")。ゲーム内容はバイオ手術を施された主人公「DAN」を操作し、[1999年](../Page/1999年.md "wikilink")に[タイムワープして超増殖生命体](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")「インクリーザー」を倒し、地球を救出する事を目的としている。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には[Windows用ソフトとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[プロジェクトEGG](https://ja.wikipedia.org/wiki/プロジェクトEGG "wikilink")にて配信された。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には[Windows用ソフトとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[プロジェクトEGG](../Page/プロジェクトEGG.md "wikilink")にて配信された。
 
 ## ゲーム内容
 
 ### システム
 
-[ステージクリア型の横](https://ja.wikipedia.org/wiki/ステージ_\(コンピュータゲーム\) "wikilink")[スクロール](https://ja.wikipedia.org/wiki/スクロール "wikilink")のアクションゲーム。
+[ステージクリア型の横](../Page/ステージ_\(コンピュータゲーム\).md "wikilink")[スクロール](../Page/スクロール.md "wikilink")のアクションゲーム。
 
-ジャンプ、しゃがみ、匍匐前進、武器攻撃、の4つの行動が可能で、ステージ深部に存在するマザーインクリーザーを倒す事でステージが進み、最終ステージの[ボス](https://ja.wikipedia.org/wiki/ボスキャラクター "wikilink")「ゴッドインクリーザー」を倒す事がゲームの目的である。[残機制と](https://ja.wikipedia.org/wiki/自機#残機 "wikilink")[ライフ制を併用しており](https://ja.wikipedia.org/wiki/ライフ_\(コンピュータゲーム\) "wikilink")、一部一発でミス扱いになるトラップがある。体力が0になると残機が1つ減り、残機がなくなると[ゲームオーバー](https://ja.wikipedia.org/wiki/ゲームオーバー "wikilink")。ただし、5回まで[コンティニューできる](https://ja.wikipedia.org/wiki/ゲームオーバー#コンティニューについて "wikilink")。
+ジャンプ、しゃがみ、匍匐前進、武器攻撃、の4つの行動が可能で、ステージ深部に存在するマザーインクリーザーを倒す事でステージが進み、最終ステージの[ボス](../Page/ボスキャラクター.md "wikilink")「ゴッドインクリーザー」を倒す事がゲームの目的である。[残機制と](https://ja.wikipedia.org/wiki/自機#残機 "wikilink")[ライフ制を併用しており](../Page/ライフ_\(コンピュータゲーム\).md "wikilink")、一部一発でミス扱いになるトラップがある。体力が0になると残機が1つ減り、残機がなくなると[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")。ただし、5回まで[コンティニューできる](https://ja.wikipedia.org/wiki/ゲームオーバー#コンティニューについて "wikilink")。
 
   - エネルギー
-    敵を倒すと時々「[E](https://ja.wikipedia.org/wiki/E "wikilink")」マークの玉を落とす。これは初期武装のヒートナイフ以外の武器を使用する際に消費するほか、[アイテム](https://ja.wikipedia.org/wiki/アイテム "wikilink")購入の[通貨](../Page/通貨.md "wikilink")として使用できる。
+    敵を倒すと時々「[E](https://ja.wikipedia.org/wiki/E "wikilink")」マークの玉を落とす。これは初期武装のヒートナイフ以外の武器を使用する際に消費するほか、[アイテム](../Page/アイテム.md "wikilink")購入の[通貨](../Page/通貨.md "wikilink")として使用できる。
   - ボス体力
     画面右上にあるM.V（Mother Vitalityの略）と書かれた文字の横にある数値は、ステージボスであるマザーインクリーザーの体力である。これは時間の経過とともに上昇し、最大値の999に達すると1ミスとなる。また、マザーインクリーザーとの戦いで負けてしまうと部屋からマザーインクリーザーがいなくなってしまい、一旦出口専用の穴から出て再度部屋の入口に向かわなければならない。
     なお、そのボスにあたる進化前のザコもステージ作中に登場しており、時間経過によってノプリス期、ゾエア期、マーズ期、メガロ期と進化する。
@@ -30,7 +30,7 @@
 武器は全部で7種類。切り替えはスタートボタンを押してから十字キー左右で行う。単純なポーズはセレクトボタンである。店で買うものが多いが、中には無料で手に入るものもある。なおエリア5にはこれらの武器をすべて揃えてくれる店があり、途中で入手し損ねてももう一度手に入れるチャンスがある。ただしその場合、後述のパワーアップの機会を失うことになる。
 
   - ヒートナイフ
-    最初から所持している武器。消費エネルギーが0なので無制限に使える通常武器的存在。近距離攻撃用で、目の前の敵を突いて攻撃する。エリア1の何処かにある[中国人](https://ja.wikipedia.org/wiki/中国人 "wikilink")風の男の店でパワーアップさせることが可能で、パワーアップすると攻撃力が上がるだけでなくナイフが伸びるようになり、敵との間合いが近ければ2回ヒットするようになる。
+    最初から所持している武器。消費エネルギーが0なので無制限に使える通常武器的存在。近距離攻撃用で、目の前の敵を突いて攻撃する。エリア1の何処かにある[中国人](../Page/中国人.md "wikilink")風の男の店でパワーアップさせることが可能で、パワーアップすると攻撃力が上がるだけでなくナイフが伸びるようになり、敵との間合いが近ければ2回ヒットするようになる。
   - スパイダーショット
     前方にエネルギー弾を放つ飛び道具。弾は敵や壁だけでなく背景のドアに当たっても消える。DANの片手の義手に内蔵されているが記憶を失っており、エリア1にて情報を得ることで使用可能になる。ヒートナイフと同様、エリア2の何処かの店でパワーアップできる。1発につきエネルギーを2消費する。
   - スマートボム
@@ -57,7 +57,7 @@
 
 #### 即効アイテム
 
-  - [1UP](https://ja.wikipedia.org/wiki/1UP "wikilink")アイテム
+  - [1UP](../Page/1UP.md "wikilink")アイテム
     DANそっくりの人形。主人公が一人追加される。背景には一部壊せる部分があり、その中に隠されている。
   - ライフ回復の薬
     注射器のようなアイテム。ライフが4目盛り分回復する。1UPアイテムと同じく、背景に隠されている。
@@ -91,9 +91,9 @@
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Windows</a></p></td>
 <td><p>アトラス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/D4エンタープライズ" title="wikilink">D4エンタープライズ</a></p></td>
+<td><p><a href="../Page/D4エンタープライズ.md" title="wikilink">D4エンタープライズ</a></p></td>
 <td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
-（<a href="https://ja.wikipedia.org/wiki/プロジェクトEGG" title="wikilink">プロジェクトEGG</a>）</p></td>
+（<a href="../Page/プロジェクトEGG.md" title="wikilink">プロジェクトEGG</a>）</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -102,7 +102,7 @@
 
 ## 評価
 
-ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](https://ja.wikipedia.org/wiki/クロスレビュー "wikilink")」では合計24点（満40点）\[1\]、『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、16.99点（満30点）となっている\[2\]。また、同雑誌1991年5月10日号特別付録の「ファミコンロムカセット オールカタログ」では、「RPGというよりはむしろアクションゲームと言った方がしっくりとくるゲーム。また操作性もいまいちだ」と操作性に関して否定的なコメントで紹介されている\[3\]。
+ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では合計24点（満40点）\[1\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、16.99点（満30点）となっている\[2\]。また、同雑誌1991年5月10日号特別付録の「ファミコンロムカセット オールカタログ」では、「RPGというよりはむしろアクションゲームと言った方がしっくりとくるゲーム。また操作性もいまいちだ」と操作性に関して否定的なコメントで紹介されている\[3\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |

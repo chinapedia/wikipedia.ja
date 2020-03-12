@@ -19,18 +19,18 @@
       - AS番号は 4702 KCOM
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")12月 - KDDはテレウェイを吸収合併。SiriusはNEWEBに統合される。
   - [2000年](../Page/2000年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - DDI、日本移動通信株式会社（IDO）、KDDの3社合併により、株式会社ディーディーアイ（現：KDDI株式会社）が発足。KDDのNEWEBがDDIのDIONに統合された。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月 - KCOMインターネットサービスはKDDIグループ再編のため、3月末でサービスを終了。DIONへの新規入会希望者には優待特典が付与された。
+  - [2005年](../Page/2005年.md "wikilink")3月 - KCOMインターネットサービスはKDDIグループ再編のため、3月末でサービスを終了。DIONへの新規入会希望者には優待特典が付与された。
   - [2007年](../Page/2007年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") - サービス名称を「**au one net**」に変更。
 
 <!-- end list -->
 
   -
-    2007年9月27日にサービス名称をDIONから「au one net」に変更すると同時に、[au携帯電話とPCのネットワークサービスのシームレス化を目指し](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")、au携帯電話向けのポータルサイト「EZ（[EZweb](../Page/EZweb.md "wikilink")）トップ」、PC向けインターネットサービス「DION」のポータルサイト、EZwebコンテンツを案内するPC向けサイト「DUOGATE」の3サイトを統合し、新ポータルサイト「[au one](https://ja.wikipedia.org/wiki/au_one "wikilink")」に一本化した。
+    2007年9月27日にサービス名称をDIONから「au one net」に変更すると同時に、[au携帯電話とPCのネットワークサービスのシームレス化を目指し](../Page/Au_\(携帯電話\).md "wikilink")、au携帯電話向けのポータルサイト「EZ（[EZweb](../Page/EZweb.md "wikilink")）トップ」、PC向けインターネットサービス「DION」のポータルサイト、EZwebコンテンツを案内するPC向けサイト「DUOGATE」の3サイトを統合し、新ポータルサイト「[au one](https://ja.wikipedia.org/wiki/au_one "wikilink")」に一本化した。
 
 <!-- end list -->
 
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月](../Page/9月.md "wikilink") - 「WEB de 請求書」に切替。紙請求書有料化（52円税込）される。
-  - [2013年](../Page/2013年.md "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink") - au one netメールサービスのリニューアルにより、メールボックス保存容量が5GBに、メールボックス保存期間が無期限となる。また、WEBメールが申し込み不要の標準サービスとなる\[2\]。
+  - [2013年](../Page/2013年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink") - au one netメールサービスのリニューアルにより、メールボックス保存容量が5GBに、メールボックス保存期間が無期限となる。また、WEBメールが申し込み不要の標準サービスとなる\[2\]。
   - [2015年](../Page/2015年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink") - ADSLサービスを終了。
   - [2017年](../Page/2017年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink") - 無料で最大100MBのホームページ作成可能な「ホームページ公開代理サービス」終了。[1999年](../Page/1999年.md "wikilink")から提供していた。
 
@@ -50,7 +50,7 @@
 
 また、脆弱性が知られているためセキュリティ上の推奨はなされていないものの、平文でパスワードを送受信することなく認証が行える[APOPも提供されている](../Page/Post_Office_Protocol.md "wikilink")。
 
-なお、APOPについては2007年に[IPAがSSLに置き換えるよう注意喚起を行っているため](https://ja.wikipedia.org/wiki/情報処理推進機構 "wikilink")、利用にあたっては注意が必要。
+なお、APOPについては2007年に[IPAがSSLに置き換えるよう注意喚起を行っているため](../Page/情報処理推進機構.md "wikilink")、利用にあたっては注意が必要。
 
 ## 脚注
 

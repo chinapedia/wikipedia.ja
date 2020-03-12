@@ -5,17 +5,17 @@
 
 ## 概要
 
-[DOLCEシリーズの第二弾として](https://ja.wikipedia.org/wiki/DOLCE_\(携帯電話\) "wikilink")、初代の[SH851i](https://ja.wikipedia.org/wiki/SH851i "wikilink")ユーザーの[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")を使用したいと言う要望に答えてできた端末。型番は**SH902iSL**。[SH902i](https://ja.wikipedia.org/wiki/SH902i "wikilink")を元に開発された。また、DOLCEと同じく、光るワンタッチキー、ベールビュー液晶を搭載している。外部メモリーは[miniSD](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")（2GBまで：ドコモ発表）対応である。カメラは[CMOS約](https://ja.wikipedia.org/wiki/CMOSイメージセンサ "wikilink")130万画素。テレビ電話用のサブカメラはCMOS約11万画素。
+[DOLCEシリーズの第二弾として](https://ja.wikipedia.org/wiki/DOLCE_\(携帯電話\) "wikilink")、初代の[SH851i](https://ja.wikipedia.org/wiki/SH851i "wikilink")ユーザーの[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")を使用したいと言う要望に答えてできた端末。型番は**SH902iSL**。[SH902i](../Page/SH902i.md "wikilink")を元に開発された。また、DOLCEと同じく、光るワンタッチキー、ベールビュー液晶を搭載している。外部メモリーは[miniSD](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")（2GBまで：ドコモ発表）対応である。カメラは[CMOS約](../Page/CMOSイメージセンサ.md "wikilink")130万画素。テレビ電話用のサブカメラはCMOS約11万画素。
 
-[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")は「Gガイド番組表リモコン」、「[DCMX](https://ja.wikipedia.org/wiki/DCMX "wikilink")クレジットアプリ」、「[電子マネー Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")」をプリインストール。また、[フルブラウザ](https://ja.wikipedia.org/wiki/フルブラウザ "wikilink")（[NetFront](https://ja.wikipedia.org/wiki/NetFront "wikilink")）を搭載している。
+[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")は「Gガイド番組表リモコン」、「[DCMX](https://ja.wikipedia.org/wiki/DCMX "wikilink")クレジットアプリ」、「[電子マネー Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")」をプリインストール。また、[フルブラウザ](../Page/フルブラウザ.md "wikilink")（[NetFront](https://ja.wikipedia.org/wiki/NetFront "wikilink")）を搭載している。
 
 902iSシリーズの共通機能の中では、DCMXアプリのプリセット、着もじ、おまかせロック、外部メモリへのコンテンツ移行（SDバインディング)、デコメール署名、電話帳預かりサービス、[パケット](../Page/パケット.md "wikilink")通信中のテレビ電話に対応している。なお、1.7GHz帯の対応はされていない。
 
 ## 歴史
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月24日](../Page/4月24日.md "wikilink"): [技術基準適合証明](https://ja.wikipedia.org/wiki/技術基準適合証明 "wikilink")(TELEC)通過。
-  - 2006年[5月11日](../Page/5月11日.md "wikilink"): [D902iS](https://ja.wikipedia.org/wiki/D902iS "wikilink")・[F902iS](https://ja.wikipedia.org/wiki/F902iS "wikilink")・[N902iS](https://ja.wikipedia.org/wiki/N902iS "wikilink")・[P902iS](https://ja.wikipedia.org/wiki/P902iS "wikilink")・[SH902iS](https://ja.wikipedia.org/wiki/SH902iS "wikilink")・[SO902iWP+](https://ja.wikipedia.org/wiki/SO902iWP+ "wikilink")・[N902iX HIGH-SPEED](https://ja.wikipedia.org/wiki/N902iX_HIGH-SPEED "wikilink") の7機種とともにFOMA「9シリーズNew Models」としてNTTドコモから報道発表。
-  - 2006年[6月21日](../Page/6月21日.md "wikilink"): [電気通信端末機器審査協会](https://ja.wikipedia.org/wiki/電気通信端末機器審査協会 "wikilink")(JATE)通過。
+  - [2006年](../Page/2006年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink"): [技術基準適合証明](https://ja.wikipedia.org/wiki/技術基準適合証明 "wikilink")(TELEC)通過。
+  - 2006年[5月11日](../Page/5月11日.md "wikilink"): [D902iS](../Page/D902iS.md "wikilink")・[F902iS](../Page/F902iS.md "wikilink")・[N902iS](../Page/N902iS.md "wikilink")・[P902iS](../Page/P902iS.md "wikilink")・[SH902iS](../Page/SH902iS.md "wikilink")・[SO902iWP+](../Page/SO902iWP+.md "wikilink")・[N902iX HIGH-SPEED](../Page/N902iX_HIGH-SPEED.md "wikilink") の7機種とともにFOMA「9シリーズNew Models」としてNTTドコモから報道発表。
+  - 2006年[6月21日](../Page/6月21日.md "wikilink"): [電気通信端末機器審査協会](../Page/電気通信端末機器審査協会.md "wikilink")(JATE)通過。
   - 2006年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink"): 発売開始。
 
 ## 不具合
@@ -26,10 +26,10 @@
 
 ## 関連項目
 
-  - [SH902i](https://ja.wikipedia.org/wiki/SH902i "wikilink")
-  - [SH902iS](https://ja.wikipedia.org/wiki/SH902iS "wikilink")
-  - [SH903i](https://ja.wikipedia.org/wiki/SH903i "wikilink")
-  - [SH903iTV](https://ja.wikipedia.org/wiki/SH903iTV "wikilink")
+  - [SH902i](../Page/SH902i.md "wikilink")
+  - [SH902iS](../Page/SH902iS.md "wikilink")
+  - [SH903i](../Page/SH903i.md "wikilink")
+  - [SH903iTV](../Page/SH903iTV.md "wikilink")
 
 ## 外部リンク
 

@@ -9,22 +9,22 @@
 
 2004年、日本での自主制作アルバムシリーズ『BOOT BUM』がきっかけとなり、アメリカのインディーレーベル10社から契約のオファーを受ける。同年、シカゴのインディペンデントレーベルFile 13 Recordsと契約し、アルバム『hypotic suggestion:01』で全米／ヨーロッパデビュー(全米にて約7,000枚の売上を記録)。アメリカ音楽ダウンロードサイトBetter Propagandaにて、楽曲『captain』が日本人初となる5週連続1位を獲得。同年渡米し、150本近くの全米ツアーを敢行。2005年、オーストリアのTROST RECORDSと契約し、ヨーロッパ限定アルバム『It Is But One Of Billions Of Galaxies In Your Universe』をリリース(約3,000枚販売)。イギリス、イタリア、ドイツ、オーストリアなどを廻るヨーロッパツアーを敢行するとともに、複数の野外フェスにも出演する。
 
-2006年、アメリカ最大の音楽イベント[SXSW](https://ja.wikipedia.org/wiki/SXSW "wikilink") 2006に日本人枠(ジャパンナイト)としてではなく、アメリカンレーベル・ショーケースとして出演する(諸事情により、バンドではなく村田単独での出演)。同年、日本で[GROWING UP内のレーベルGraveyard](https://ja.wikipedia.org/wiki/GROWING_UP "wikilink") Labelと契約を結ぶ。Graveyard Labelからは、『Nothing is difficult to those who have the will』(2006年)、『JOY』(2007年。Blowoutレーベルよりイギリスでもリリース)、『a HOLY LAND INVADER』(2008年)、『I’ll Cure You With Electricity』(2009年)、『NEW MARS』(2010年)をリリースしている。2008年から日本での自主企画イベント『2バンVS～HERION』を下北沢SHELTERにて開催。[BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink")、[THE BACK HORN](https://ja.wikipedia.org/wiki/THE_BACK_HORN "wikilink")、[Hawaiian6](https://ja.wikipedia.org/wiki/Hawaiian6 "wikilink")、[COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink")、[the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink")、[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")、[dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink")などのバンドが出演し、全公演がSOLD OUTとなる。
+2006年、アメリカ最大の音楽イベント[SXSW](https://ja.wikipedia.org/wiki/SXSW "wikilink") 2006に日本人枠(ジャパンナイト)としてではなく、アメリカンレーベル・ショーケースとして出演する(諸事情により、バンドではなく村田単独での出演)。同年、日本で[GROWING UP内のレーベルGraveyard](https://ja.wikipedia.org/wiki/GROWING_UP "wikilink") Labelと契約を結ぶ。Graveyard Labelからは、『Nothing is difficult to those who have the will』(2006年)、『JOY』(2007年。Blowoutレーベルよりイギリスでもリリース)、『a HOLY LAND INVADER』(2008年)、『I’ll Cure You With Electricity』(2009年)、『NEW MARS』(2010年)をリリースしている。2008年から日本での自主企画イベント『2バンVS～HERION』を下北沢SHELTERにて開催。[BRAHMAN](../Page/BRAHMAN.md "wikilink")、[THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")、[Hawaiian6](https://ja.wikipedia.org/wiki/Hawaiian6 "wikilink")、[COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink")、[the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink")、[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")、[dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink")などのバンドが出演し、全公演がSOLD OUTとなる。
 
-2013年、エイベックス傘下のインディーズレーベルbinyl records／dive in\! discと契約し、アルバム『The Fact Is』をリリース。それに伴い、23本のジャパンツアーを開催する。2015年7月には、2004年以来11年振りにFile 13 Recordsよりアルバム『SHIT\!』を全世界リリース。また、2016年からは元[M-AGE](https://ja.wikipedia.org/wiki/M-AGE "wikilink")/THE MORTALの三代堅率いるバンド青天の霹靂とのツーマンツアー「青天のmyway」を定期的に開催している。
+2013年、エイベックス傘下のインディーズレーベルbinyl records／dive in\! discと契約し、アルバム『The Fact Is』をリリース。それに伴い、23本のジャパンツアーを開催する。2015年7月には、2004年以来11年振りにFile 13 Recordsよりアルバム『SHIT\!』を全世界リリース。また、2016年からは元[M-AGE](../Page/M-AGE.md "wikilink")/THE MORTALの三代堅率いるバンド青天の霹靂とのツーマンツアー「青天のmyway」を定期的に開催している。
 
 ## メンバー
 
   - [村田有希生](https://ja.wikipedia.org/wiki/村田有希生 "wikilink")（むらた ゆきお）
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")・[キーボード担当](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")。全楽曲の[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")。
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")・[キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。全楽曲の[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")。
     1969年3月4日生まれ。兵庫県尼崎市出身。
     YUKIO MURATA、yukio murata と表記される場合あり。
     CDジャケットやグッズ等のアートワークも手がける。
     15歳の時にテレビで見た[ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink")に影響を受け、アコースティック・ギターを購入。20歳の時に単身渡米し、寿司屋で働きながら音楽活動を行う。
     帰国後の1992年11月にThe JUICEを結成。1995年にインディーズでミニアルバム『s,sweet talj sweet,flyin' through outer space...』、メジャーデビュー後に『How do you spell JUICE』『THE INVADERS HIT YOUR KINGDOM』の2枚のアルバムと5枚のシングルを発表するも解散。解散後、再び1年間ニューヨーク／ロサンゼルスへ作曲の旅に出る。
-    1997年にthe cimonsに結成し、1998年にはアルバム『HYNUMBER』を発表。[Fuji Rock Festival](https://ja.wikipedia.org/wiki/Fuji_Rock_Festival "wikilink") '99への出演、イギリスツアーなど活動を続けるも1999年メジャーデビュー直前に解散。なお、the cimonsには後藤孝顕(現[MONO](https://ja.wikipedia.org/wiki/MONO "wikilink"))がギター、[COBY](https://ja.wikipedia.org/wiki/小林勝_\(音楽家\) "wikilink")(現[nil](https://ja.wikipedia.org/wiki/nil "wikilink")、[ザ・クロマニヨンズ](https://ja.wikipedia.org/wiki/ザ・クロマニヨンズ "wikilink")のサポート)がベースで所属していた。
-    my way my loveと並行して、ソロユニットportrait sound paintingでのライブ活動や作品『song for the death of me』の発表、[櫻井敦司](https://ja.wikipedia.org/wiki/櫻井敦司 "wikilink")のソロアルバムへの楽曲提供(『ハレルヤ』『EXPLOSION』の作曲/編曲)のほか、2011年より[INORAN](https://ja.wikipedia.org/wiki/INORAN "wikilink")([LUNA SEA](../Page/LUNA_SEA.md "wikilink"))のソロワークにサポートギタリストとして参加している。2012年には別プロジェクトU-re:x(ユーリックス)を立ち上げ、[ムラサキスポーツ](https://ja.wikipedia.org/wiki/ムラサキスポーツ "wikilink")TV-CM、[私立恵比寿中学](https://ja.wikipedia.org/wiki/私立恵比寿中学 "wikilink")等へ楽曲提供を開始する。2014年以降は、個人名義で[ENTHRALLS](https://ja.wikipedia.org/wiki/ENTHRALLS "wikilink")のプロデュースを担当している。2015年7月、[櫻井敦司](https://ja.wikipedia.org/wiki/櫻井敦司 "wikilink")のソロプロジェクトTHE MORTALにギタリストとして参加し、『天使』『Barbaric Man』『MOTHER』『PAIN DROP』の作曲、[バウハウス](../Page/バウハウス.md "wikilink")のカヴァー『Spirit』の編曲を提供。
-    単独での弾き語りによるライブ活動も行うほか、2019年から [Eins:Vier](https://ja.wikipedia.org/wiki/Eins:Vier "wikilink") のギタリスト中村佳嗣とのユニット『ゆきつぐ』を開始している。
+    1997年にthe cimonsに結成し、1998年にはアルバム『HYNUMBER』を発表。[Fuji Rock Festival](https://ja.wikipedia.org/wiki/Fuji_Rock_Festival "wikilink") '99への出演、イギリスツアーなど活動を続けるも1999年メジャーデビュー直前に解散。なお、the cimonsには後藤孝顕(現[MONO](../Page/MONO.md "wikilink"))がギター、[COBY](../Page/小林勝_\(音楽家\).md "wikilink")(現[nil](https://ja.wikipedia.org/wiki/nil "wikilink")、[ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink")のサポート)がベースで所属していた。
+    my way my loveと並行して、ソロユニットportrait sound paintingでのライブ活動や作品『song for the death of me』の発表、[櫻井敦司](../Page/櫻井敦司.md "wikilink")のソロアルバムへの楽曲提供(『ハレルヤ』『EXPLOSION』の作曲/編曲)のほか、2011年より[INORAN](../Page/INORAN.md "wikilink")([LUNA SEA](../Page/LUNA_SEA.md "wikilink"))のソロワークにサポートギタリストとして参加している。2012年には別プロジェクトU-re:x(ユーリックス)を立ち上げ、[ムラサキスポーツ](../Page/ムラサキスポーツ.md "wikilink")TV-CM、[私立恵比寿中学](https://ja.wikipedia.org/wiki/私立恵比寿中学 "wikilink")等へ楽曲提供を開始する。2014年以降は、個人名義で[ENTHRALLS](https://ja.wikipedia.org/wiki/ENTHRALLS "wikilink")のプロデュースを担当している。2015年7月、[櫻井敦司](../Page/櫻井敦司.md "wikilink")のソロプロジェクトTHE MORTALにギタリストとして参加し、『天使』『Barbaric Man』『MOTHER』『PAIN DROP』の作曲、[バウハウス](../Page/バウハウス.md "wikilink")のカヴァー『Spirit』の編曲を提供。
+    単独での弾き語りによるライブ活動も行うほか、2019年から [Eins:Vier](../Page/Eins:Vier.md "wikilink") のギタリスト中村佳嗣とのユニット『ゆきつぐ』を開始している。
 
 ### 過去在籍したメンバー
 
@@ -43,22 +43,22 @@
     PLECTRUMのアルバム『COLOMBIA』にもゲストドラマーとして参加している。
     2010年12月に脱退し、2012年8月に[GLARE SOUNDS PROJECTIONへ加入](https://ja.wikipedia.org/wiki/GLARE_SOUNDS_PROJECTION "wikilink")。
   - 尾形信浩（おがた のぶひろ）
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
     在籍期間：2000年〜2001年、コンピレーションアルバム『LIFE IS DELICIOUS?』に参加。
   - 池田純一郎（いけだ じゅんいちろう）
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
     在籍期間：2002年に短期間だけ在籍。
   - 赤沢カオリ（あかざわ かおり）
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。元アポロチーム。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。元アポロチーム。
     在籍期間：2002年にサポートとして参加。
   - 広江大（ひろえ だい）
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
     在籍期間：2002年-2011年、アルバム『Hypnotic suggestion:01』〜『ヒミツノセカイ』まで在籍。
   - 多田祐輔（ただ ゆうすけ）
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。現KAIMY PLANTS。blgtzのサポートとしても活動している。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。現KAIMY PLANTS。blgtzのサポートとしても活動している。
     在籍期間：2011年にサポートとして参加。
   - 林克哉（はやし かつや）
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。元[Multi Colored Vox](https://ja.wikipedia.org/wiki/Multi_Colored_Vox "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。元[Multi Colored Vox](../Page/Multi_Colored_Vox.md "wikilink")。
     在籍期間：2013年、アルバム『The Fact Is』に参加。
   - 柳澤正典（やなぎさわ まさのり）
     [サックス担当](../Page/サクソフォーン.md "wikilink")。
@@ -94,7 +94,7 @@
 <li>SECRET LIFE</li>
 <li>cota punks</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DELICIOUS_LABEL" title="wikilink">DELICIOUS LABEL</a></p></td>
+<td><p><a href="../Page/DELICIOUS_LABEL.md" title="wikilink">DELICIOUS LABEL</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/5月26日.md" title="wikilink">5月26日</a></p></td>
@@ -152,7 +152,7 @@
 <td><p>#Un</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a>7月</p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a>7月</p></td>
 <td><p>It's the noise you hate</p></td>
 <td><p>mott-006</p></td>
 <td><ol>
@@ -167,7 +167,7 @@
 <td><p>mott records</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/2月21日.md" title="wikilink">2月21日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/2月21日.md" title="wikilink">2月21日</a></p></td>
 <td><p>Hypnotic suggestion:01</p></td>
 <td><p>FT-53</p></td>
 <td><ol>
@@ -188,7 +188,7 @@
 <td><p>File13 Records(US)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/5月1日.md" title="wikilink">5月1日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月1日.md" title="wikilink">5月1日</a></p></td>
 <td><p>It is but one of billions of galaxies in your universe</p></td>
 <td><p>tr-089</p></td>
 <td><ol>
@@ -204,7 +204,7 @@
 <td><p>TROST Records(Austria)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月2日.md" title="wikilink">8月2日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月2日.md" title="wikilink">8月2日</a></p></td>
 <td><p>Nothing is difficult to those who have the will</p></td>
 <td><p>ZEGY-2001</p></td>
 <td><ol>
@@ -220,8 +220,8 @@
 <td><p>Graveyard Label</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/4月18日.md" title="wikilink">4月18日</a><br />
-<a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="https://ja.wikipedia.org/wiki/11月26日" title="wikilink">11月26日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/4月18日.md" title="wikilink">4月18日</a><br />
+<a href="../Page/2007年.md" title="wikilink">2007年</a><a href="https://ja.wikipedia.org/wiki/11月26日" title="wikilink">11月26日</a></p></td>
 <td><p>JOY</p></td>
 <td><p>ZEGY-2003:日本<br />
 BLWT-004:UK</p></td>
@@ -342,7 +342,7 @@ BLWT-004:UK</p></td>
 <td><p>mott records</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="https://ja.wikipedia.org/wiki/7月3日" title="wikilink">7月3日</a></p></td>
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/7月3日.md" title="wikilink">7月3日</a></p></td>
 <td><p>The Fact is</p></td>
 <td><p>HDID-1001</p></td>
 <td><ol>
@@ -423,7 +423,7 @@ BLWT-004:UK</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="https://ja.wikipedia.org/wiki/2月26日" title="wikilink">2月26日</a></p></td>
+<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/2月26日.md" title="wikilink">2月26日</a></p></td>
 <td><p>my way my casette</p></td>
 <td></td>
 <td><ol>
@@ -446,7 +446,7 @@ BLWT-004:UK</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/11月19日.md" title="wikilink">11月19日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/11月19日.md" title="wikilink">11月19日</a></p></td>
 <td><p>ACUPUNCTURE MAN</p></td>
 <td><p>BLWT-003</p></td>
 <td><ol>
@@ -484,7 +484,7 @@ BLWT-004:UK</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="https://ja.wikipedia.org/wiki/4月3日" title="wikilink">4月3日</a></p></td>
+<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/4月3日.md" title="wikilink">4月3日</a></p></td>
 <td><p>Demo CD "D" part3</p></td>
 <td></td>
 <td><ol>
@@ -569,14 +569,14 @@ BLWT-004:UK</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/6月16日" title="wikilink">6月16日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/6月16日" title="wikilink">6月16日</a></p></td>
 <td><p>"It's the noise you hate" U.S. tour 2004-2005</p></td>
 <td><p>D-0001</p></td>
 <td><p>2004-2005 U.S.ツアーのライブ＆プライベート映像</p></td>
 <td><p>mott records</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p>EUROPE Tour</p></td>
 <td><p>D-0002</p></td>
 <td><p>EUROPEツアーのライブ＆プライベート映像</p></td>
@@ -683,31 +683,31 @@ BLWT-004:UK</p></td>
 <td><p>ディスクユニオン</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a><a href="../Page/3月17日.md" title="wikilink">3月17日</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/3月17日.md" title="wikilink">3月17日</a></p></td>
 <td><p>LONDON PUNK 1977 Tribute Album</p></td>
 <td><p>VICL-61272</p></td>
 <td><ol>
 <li><a href="https://ja.wikipedia.org/wiki/KEMURI" title="wikilink">KEMURI</a> / Neat Neat Neat(<a href="../Page/ダムド.md" title="wikilink">THE DAMNED</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/STEP_BY_STEP" title="wikilink">STEP BY STEP</a> / the City(<a href="https://ja.wikipedia.org/wiki/ザ・ジャム" title="wikilink">THE JAM</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/TRICERATOPS" title="wikilink">TRICERATOPS</a> / I'm so Bored with the U.S.A.(<a href="https://ja.wikipedia.org/wiki/THE_CLASH" title="wikilink">THE CLASH</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/CUBE_JUICE" title="wikilink">CUBE JUICE</a> / In the Shadows(<a href="https://ja.wikipedia.org/wiki/ストラングラーズ" title="wikilink">THE STRANGLERS</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/STEP_BY_STEP" title="wikilink">STEP BY STEP</a> / the City(<a href="../Page/ザ・ジャム.md" title="wikilink">THE JAM</a>)</li>
+<li><a href="../Page/TRICERATOPS.md" title="wikilink">TRICERATOPS</a> / I'm so Bored with the U.S.A.(<a href="https://ja.wikipedia.org/wiki/THE_CLASH" title="wikilink">THE CLASH</a>)</li>
+<li><a href="../Page/CUBE_JUICE.md" title="wikilink">CUBE JUICE</a> / In the Shadows(<a href="../Page/ストラングラーズ.md" title="wikilink">THE STRANGLERS</a>)</li>
 <li>Oi-SKALLMATES / Career Opportunities(THE CLASH)</li>
 <li>TOGLOWS / Leave me Alone(<a href="https://ja.wikipedia.org/wiki/シャム69" title="wikilink">SHAM 69</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/ズボンズ" title="wikilink">ズボンズ</a> / New Rose(THE DAMNED)</li>
-<li><strong>my way my love</strong> / Strange(<a href="https://ja.wikipedia.org/wiki/ワイヤー_(バンド)" title="wikilink">WIRE</a>)</li>
+<li><a href="../Page/ズボンズ.md" title="wikilink">ズボンズ</a> / New Rose(THE DAMNED)</li>
+<li><strong>my way my love</strong> / Strange(<a href="../Page/ワイヤー_(バンド).md" title="wikilink">WIRE</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/LOW_IQ_01" title="wikilink">LOW IQ 01</a> / Janie Jones -Janie's too Bad Remix-(THE CLASH)</li>
-<li>HELISH / What Do I Get?(<a href="https://ja.wikipedia.org/wiki/バズコックス" title="wikilink">BUZZCOCKS</a>)</li>
+<li>HELISH / What Do I Get?(<a href="../Page/バズコックス.md" title="wikilink">BUZZCOCKS</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/CICADA" title="wikilink">CICADA</a> / Gad Save the Queen(<a href="../Page/セックス・ピストルズ.md" title="wikilink">THE SEX PISTOLS</a>)</li>
 <li>RAISE HELL / Kiss me Deadly(<a href="https://ja.wikipedia.org/wiki/ジェネレーションX_(バンド)" title="wikilink">GENERATION X</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/NEW_ROTE&#39;KA" title="wikilink">NEW ROTE'KA</a> / Neat Neat Neat(THE DAMNED)</li>
-<li><a href="https://ja.wikipedia.org/wiki/川上つよしと彼のムードメイカーズ" title="wikilink">川上つよしと彼のムードメーカーズ</a> / I Fought the Law(THE CLASH)<br />
+<li><a href="../Page/川上つよしと彼のムードメイカーズ.md" title="wikilink">川上つよしと彼のムードメーカーズ</a> / I Fought the Law(THE CLASH)<br />
 </li>
 </ol>
 <p>70年代のロンドン・パンクの曲を中心に日本のバンドがカヴァーしたコンピレーションアルバム</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビクターエンタテインメント" title="wikilink">ビクターエンタテインメント</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/6月17日.md" title="wikilink">6月17日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/6月17日.md" title="wikilink">6月17日</a></p></td>
 <td><p>SUPER X</p></td>
 <td></td>
 <td><ol>
@@ -733,7 +733,7 @@ BLWT-004:UK</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/10月15日.md" title="wikilink">10月15日</a></p></td>
 <td><p>VISUAL AUDIO DRUGS DVD 『SPEED ICE』</p></td>
 <td><p>ZEGY-3001</p></td>
-<td><p>my way my love、<a href="https://ja.wikipedia.org/wiki/THE_RODEO_CARBURETTOR" title="wikilink">THE RODEO CARBURETTOR</a>、BlieANの楽曲を使用した映像作品。my way my loveは、『Parties』『FAMILY -theirs the remains-』『Kill Your Idle』などを提供<br />
+<td><p>my way my love、<a href="../Page/THE_RODEO_CARBURETTOR.md" title="wikilink">THE RODEO CARBURETTOR</a>、BlieANの楽曲を使用した映像作品。my way my loveは、『Parties』『FAMILY -theirs the remains-』『Kill Your Idle』などを提供<br />
 ※本人たちの映像なし</p></td>
 <td><p>Graveyard Label</p></td>
 </tr>
@@ -855,7 +855,7 @@ BLWT-004:UK</p></td>
 <a href="../Page/3月8日.md" title="wikilink">3月8日</a> 渋谷屋根裏<br />
 <a href="../Page/3月19日.md" title="wikilink">3月19日</a> 下北沢CLUB 251<br />
 <a href="../Page/3月28日.md" title="wikilink">3月28日</a> 渋谷La.mama<br />
-<a href="https://ja.wikipedia.org/wiki/4月16日" title="wikilink">4月16日</a> 下北沢CLUB Que<br />
+<a href="../Page/4月16日.md" title="wikilink">4月16日</a> 下北沢CLUB Que<br />
 ・出演: WALRUS / MILK CROWN / <strong>my way my love</strong><br />
 <a href="../Page/4月26日.md" title="wikilink">4月26日</a> 下北沢SHELTER<br />
 <a href="../Page/5月6日.md" title="wikilink">5月6日</a> 渋谷La.mama<br />
@@ -875,9 +875,9 @@ BLWT-004:UK</p></td>
 ・出演: THE BRICK'S TONE / メル'チカ / <strong>my way my love</strong><br />
 <a href="../Page/9月24日.md" title="wikilink">9月24日</a> 渋谷La.mama<br />
 <a href="../Page/10月2日.md" title="wikilink">10月2日</a> 下北沢SHELTER<br />
-<a href="https://ja.wikipedia.org/wiki/10月18日" title="wikilink">10月18日</a> 下北沢CLUB 251<br />
+<a href="../Page/10月18日.md" title="wikilink">10月18日</a> 下北沢CLUB 251<br />
 <a href="../Page/10月24日.md" title="wikilink">10月24日</a> 渋谷La.mama<br />
-<a href="https://ja.wikipedia.org/wiki/10月27日" title="wikilink">10月27日</a> 下北沢CLUB Que "PELICAN KING presents LIVE BABY LIVE vol.1! "<br />
+<a href="../Page/10月27日.md" title="wikilink">10月27日</a> 下北沢CLUB Que "PELICAN KING presents LIVE BABY LIVE vol.1! "<br />
 ・出演: PELICAN KING / <strong>my way my love</strong> / グン<br />
 <a href="../Page/11月9日.md" title="wikilink">11月9日</a> 渋谷La.mama<br />
 <a href="../Page/11月18日.md" title="wikilink">11月18日</a> 下北沢GARAGE<br />
@@ -923,7 +923,7 @@ BLWT-004:UK</p></td>
 <p>全29公演<br />
 <a href="../Page/2月14日.md" title="wikilink">2月14日</a> 下北沢GARAGE<br />
 ・出演: <strong>my way my love</strong> / HEAD GOOD TV / JAZZ COKE/BORDER<br />
-<a href="https://ja.wikipedia.org/wiki/2月26日" title="wikilink">2月26日</a> 下北沢CLUB Que "デリシャスバンプショウ"<br />
+<a href="../Page/2月26日.md" title="wikilink">2月26日</a> 下北沢CLUB Que "デリシャスバンプショウ"<br />
 ・出演: the pillows / SCARABEE / アポロチーム / <strong>my way my love</strong><br />
 <a href="../Page/3月10日.md" title="wikilink">3月10日</a> 下北沢GARAGE<br />
 ・出演: <strong>my way my love</strong>(ワンマン)<br />
@@ -1094,7 +1094,7 @@ BLWT-004:UK</p></td>
 ・出演: <strong>my way my love</strong> / corrymorespecium / NONAME NOGOAL / リトルハヤタ<br />
 <a href="../Page/10月9日.md" title="wikilink">10月9日</a> 神戸STARCLUB<br />
 ・出演: <strong>my way my love</strong> / スクイズメン / Dog on the Boots / カナデ / 7th / AT-HOME<br />
-<a href="https://ja.wikipedia.org/wiki/10月13日" title="wikilink">10月13日</a> 下北沢SHELTER<br />
+<a href="../Page/10月13日.md" title="wikilink">10月13日</a> 下北沢SHELTER<br />
 ・出演: <strong>my way my love</strong> / ALL TOMORROE'S PARTY / スーパーライト / babedge<br />
 <a href="../Page/10月25日.md" title="wikilink">10月25日</a> 仙台MACANA<br />
 ・出演: STRAWBERRY / <strong>my way my love</strong> / P.I.MONSTER / MADCAP / FIVE ANGLE SQUARE<br />
@@ -1116,7 +1116,7 @@ BLWT-004:UK</p></td>
 <a href="../Page/2月16日.md" title="wikilink">2月16日</a> 渋谷O-NEST<br />
 ・出演: <strong>my way my love</strong> / vasallo crab 75 / Sloppy Joe / ORANG<br />
 <a href="../Page/3月2日.md" title="wikilink">3月2日</a> 大阪SUNHALL<br />
-<a href="https://ja.wikipedia.org/wiki/3月21日" title="wikilink">3月21日</a> 下北沢CAVE BE<br />
+<a href="../Page/3月21日.md" title="wikilink">3月21日</a> 下北沢CAVE BE<br />
 ・出演: SOULSBERRY / Stereo Fabrication of Youth / <strong>my way my love</strong><br />
 <a href="../Page/5月2日.md" title="wikilink">5月2日</a> 新宿URUGA<br />
 ・出演: DIP / <strong>my way my love</strong><br />
@@ -1181,13 +1181,13 @@ BLWT-004:UK</p></td>
 ・出演: <strong>my way my love</strong> / Joyful<br />
 <a href="../Page/4月6日.md" title="wikilink">4月6日</a> 名古屋HUCK FINN<br />
 ・出演: Same Place Empty / slow / Crevasse65 / <strong>my way my love</strong><br />
-<a href="https://ja.wikipedia.org/wiki/4月8日" title="wikilink">4月8日</a> 十三FANDANGO</p>
+<a href="../Page/4月8日.md" title="wikilink">4月8日</a> 十三FANDANGO</p>
 </div>
 </div></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年" title="wikilink">2004年</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>2004年出演ライブ</p>
@@ -1198,7 +1198,7 @@ BLWT-004:UK</p></td>
 ・出演: THE CREATOR OF / ヒデ・タバタ＆サトジマ(fromウルトラビデ,ゼニゲバ) / <strong>my way my love</strong> / COCOON PIT 灰汁(gee&amp;ボンスター)<br />
 <a href="../Page/2月22日.md" title="wikilink">2月22日</a> 吉祥寺PLANET K<br />
 <a href="https://ja.wikipedia.org/wiki/2月24日" title="wikilink">2月24日</a> 横浜7th AVENUE<br />
-<a href="https://ja.wikipedia.org/wiki/2月26日" title="wikilink">2月26日</a> 渋谷CHELSEA HOTEL<br />
+<a href="../Page/2月26日.md" title="wikilink">2月26日</a> 渋谷CHELSEA HOTEL<br />
 <a href="../Page/3月19日.md" title="wikilink">3月19日</a> 三軒茶屋HEAVEN'S DOOR<br />
 ・出演: <strong>my way my love</strong> / all O.K. / 11th pact / KURO / taxas pandaa<br />
 <a href="../Page/4月5日.md" title="wikilink">4月5日</a> 渋谷CLUB ASIA<br />
@@ -1231,7 +1231,7 @@ BLWT-004:UK</p></td>
 ・出演: Veterans of Flight / The Booze / The Underwater / Those Who Hung Heroes / <strong>my way my love</strong><br />
 <a href="../Page/7月21日.md" title="wikilink">7月21日</a> Siberia Bar, New York City, NY, USA<br />
 ・出演: Veterans of Flight / Noisy Legrand / Sharkeys Favorite / <strong>my way my love</strong><br />
-<a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a> Siberia Bar, New York City, NY, USA<br />
+<a href="../Page/7月23日.md" title="wikilink">7月23日</a> Siberia Bar, New York City, NY, USA<br />
 ・出演: Veterans of Flight / Motion Picture Cutouts / <strong>my way my love</strong><br />
 <a href="../Page/7月24日.md" title="wikilink">7月24日</a> P.A.'s Lounge, Boston, MA, USA<br />
 ・出演: Veterans of Flight / <strong>my way my love</strong><br />
@@ -1264,7 +1264,7 @@ BLWT-004:UK</p></td>
 <p>全20公演<br />
 <a href="../Page/12月9日.md" title="wikilink">12月9日</a> The Basement, Dekalb, IL, USA<br />
 ・出演: Veterans Of Flight / Icarus Syndrome / The Poison Arrows / <strong>my way my love</strong><br />
-<a href="https://ja.wikipedia.org/wiki/12月10日" title="wikilink">12月10日</a> Empty Bottle, Chicago, IL, USA<br />
+<a href="../Page/12月10日.md" title="wikilink">12月10日</a> Empty Bottle, Chicago, IL, USA<br />
 ・出演: The Poison Arrows / Stag Party / <strong>my way my love</strong><br />
 <a href="../Page/12月11日.md" title="wikilink">12月11日</a> Minglewood, Rockford, IL, USA<br />
 ・出演: Heligoats / Stillwell / <strong>my way my love</strong><br />
@@ -1292,7 +1292,7 @@ BLWT-004:UK</p></td>
 <a href="../Page/12月27日.md" title="wikilink">12月27日</a> Silverlake Lounge, Los Angeles, CA, USA<br />
 <a href="../Page/12月28日.md" title="wikilink">12月28日</a> Knitting Factory, Hollywood, CA, USA<br />
 ・出演: Rock Goggle Fantasy / Le Joshua / The Noise / <strong>my way my love</strong><br />
-<a href="https://ja.wikipedia.org/wiki/12月29日" title="wikilink">12月29日</a> The Paramount, Santa Fe, NM, USA<br />
+<a href="../Page/12月29日.md" title="wikilink">12月29日</a> The Paramount, Santa Fe, NM, USA<br />
 <a href="../Page/12月30日.md" title="wikilink">12月30日</a> Conservatory, Oklahoma City, OK, USA<br />
 ・出演: Gravity Propulsion System / El Paso Hot Button / <strong>my way my love</strong><br />
 <a href="../Page/12月31日.md" title="wikilink">12月31日</a> Blank Generation, Little Rock, AR, USA</p>
@@ -1301,7 +1301,7 @@ BLWT-004:UK</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>2005年出演ライブ</p>
@@ -1321,7 +1321,7 @@ BLWT-004:UK</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <p>全27公演<br />
-<a href="https://ja.wikipedia.org/wiki/1月1日" title="wikilink">1月1日</a> Springwater, Nashville, TN, USA<br />
+<a href="../Page/1月1日.md" title="wikilink">1月1日</a> Springwater, Nashville, TN, USA<br />
 <a href="../Page/1月2日.md" title="wikilink">1月2日</a> The Milestone, Charlotte, NC, USA<br />
 ・出演: Dig Shovel Dig / Descolada / <strong>my way my love</strong><br />
 <a href="../Page/1月3日.md" title="wikilink">1月3日</a> Charm City Art Space, Baltimore, MD, USA<br />
@@ -1478,7 +1478,7 @@ BLWT-004:UK</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>2006年出演ライブ</p>
@@ -1492,7 +1492,7 @@ BLWT-004:UK</p></td>
 <a href="../Page/3月17日.md" title="wikilink">3月17日</a> Nuno's, Austin, TX USA "SXSW FESTIVAL"<br />
 <a href="../Page/4月15日.md" title="wikilink">4月15日</a> 三軒茶屋HEAVEN'S DOOR<br />
 ・出演: <strong>my way my love</strong> / KISIDA KENJI(from　惑星)&amp; TOMOS/ZANZO / hnywo / 死んだ僕の彼女<br />
-<a href="https://ja.wikipedia.org/wiki/4月16日" title="wikilink">4月16日</a> 下北沢MOSAIC<br />
+<a href="../Page/4月16日.md" title="wikilink">4月16日</a> 下北沢MOSAIC<br />
 <a href="../Page/4月22日.md" title="wikilink">4月22日</a> 渋谷O-NEST<br />
 ・出演: いなかやろう / WEED / SAKAI REIKO / SAFARI / THE FACEFUL / 東雲 / 立川亮とタンゴアカシアーノ / NATSUMEN / ひげ / <strong>my way my love</strong> / Maru Tara! / マリヘー / 光永泰一朗 / on button down<br />
 <a href="https://ja.wikipedia.org/wiki/6月16日" title="wikilink">6月16日</a> 下北沢MOSAIC<br />
@@ -1652,7 +1652,7 @@ BLWT-004:UK</p></td>
 ・出演: <strong>my way my love</strong> /　桜なだれ / The Signals / らせん / ghod<br />
 <a href="../Page/12月28日.md" title="wikilink">12月28日</a> 大阪KING COBRA<br />
 ・出演: <strong>my way my love</strong> / XASTELLOY / glowdischarge / Fabled Number / Snake Bite Snake / The Chaos Of Martins(ex.酔いどれ天使) / flatspace / Moment Prediction / FIGER<br />
-<a href="https://ja.wikipedia.org/wiki/12月29日" title="wikilink">12月29日</a> 三軒茶屋HEAVEN'S DOOR<br />
+<a href="../Page/12月29日.md" title="wikilink">12月29日</a> 三軒茶屋HEAVEN'S DOOR<br />
 ・出演: <strong>my way my love</strong> / BO-PEEP / BALLOON88 / kobose / 殻<br />
 <a href="../Page/12月31日.md" title="wikilink">12月31日</a> 下北沢Cave-Be<br />
 ・出演: ETERNALECHO / <strong>my way my love</strong> / Specialize / モンゴロイド / enne / acoustic girl / SAIHATENOREIN / 枕本プログレッシブカルテット<br />
@@ -1669,7 +1669,7 @@ BLWT-004:UK</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>2007年出演ライブ</p>
@@ -1694,7 +1694,7 @@ BLWT-004:UK</p></td>
 ・出演: 惑星 / ジン / VENI VIDI VICIOUS / <strong>my way my love</strong><br />
 <a href="../Page/2月25日.md" title="wikilink">2月25日</a> 高崎club FLEEZ<br />
 ・出演: DOLCE / 大車輪 / EGG GETTER / Answer In Death / <strong>my way my love</strong><br />
-<a href="https://ja.wikipedia.org/wiki/2月26日" title="wikilink">2月26日</a> 新宿LOFT<br />
+<a href="../Page/2月26日.md" title="wikilink">2月26日</a> 新宿LOFT<br />
 ・出演: <strong>my way my love</strong> / ANOYO / sgt. / N.E.S<br />
 <a href="https://ja.wikipedia.org/wiki/6月5日" title="wikilink">6月5日</a> 仙台CLUB JUNKBOX<br />
 <a href="../Page/6月9日.md" title="wikilink">6月9日</a> 川崎CLUB CITTA "STANCE PUNKS presents ロックの日 vol.8〜無料ライブ〜"<br />
@@ -1705,11 +1705,11 @@ BLWT-004:UK</p></td>
 ・出演: アナログフィッシュ / オトナモード / 超飛行少年～スーパーフライングボウイ～ / SPARTA LOCALS / SPECIAL OTHERS / tobaccojuice / Qomolangma Tomato / 椿屋四重奏 / 鶴 / 髭（HiGE） / FoZZtone / hare-brained unity / <strong>my way my love</strong> / LOCAL SOUND STYLE / THE RODEO CARBURETTOR / DOPING PANDA / 六畳人間 / Farmers / 8otto / hurdy gurdy / SKUNK SHOT BOOSTER / the chef cooks me / FREEASY BEATS / SHAME / カラーボトル / under the yaku cedar / The Jerry / EDDYROCK / yuak / iii / EG / the pillows / ジン / セカイイチ / KICKFLIP / ONE OK ROCK / 榎本くるみ / guckle / オレンジタルト / 麗音 / 浅井健一<br />
 <a href="../Page/10月21日.md" title="wikilink">10月21日</a> 稲毛K's Dream "bayfm MUSIC DAYz Vol.5"<br />
 ・出演: アンダーグラフ / スキップカウズ / THE STAND UP / THE RODEO CARBURETTOR / BlieAN / <strong>my way my love</strong> / ジン / ワイルドマイルド / STAN<br />
-<a href="https://ja.wikipedia.org/wiki/10月27日" title="wikilink">10月27日</a> 心斎橋SUNHALL “FM802 presents「MINAMI WHEEL 2007」”<br />
+<a href="../Page/10月27日.md" title="wikilink">10月27日</a> 心斎橋SUNHALL “FM802 presents「MINAMI WHEEL 2007」”<br />
 ・出演: Fox loco phantom / 嘘つきバービー / マダムギター長見順 / <strong>my way my love</strong> / ザ･ビートシャワー / 蝉時雨 / HIGH VOLTAGE<br />
 <a href="../Page/12月22日.md" title="wikilink">12月22日</a> 神戸STARCLUB<br />
 ・出演: ヒツジツキ / <strong>my way my love</strong> / シリカ / cinema staff / andrain<br />
-<a href="https://ja.wikipedia.org/wiki/12月29日" title="wikilink">12月29日</a> 下北沢MOSAiC<br />
+<a href="../Page/12月29日.md" title="wikilink">12月29日</a> 下北沢MOSAiC<br />
 ・出演: blgtz / <strong>my way my love</strong> / THE NOVEMBERS / CLISMS / Anchor-edge / venetit haas</p>
 </div>
 </div></td>
@@ -1737,7 +1737,7 @@ BLWT-004:UK</p></td>
 ・出演: <strong>my way my love</strong> / YOMOYA / Qomolangma Tomato / I DON'T CARE<br />
 <a href="../Page/3月20日.md" title="wikilink">3月20日</a> 奈良NEVERLAND<br />
 ・出演: <strong>my way my love</strong> / よしひでろう / ハチワレ天満宮 / 悪行三昧メメメ<br />
-<a href="https://ja.wikipedia.org/wiki/3月21日" title="wikilink">3月21日</a> 京都WHOOPEE'S<br />
+<a href="../Page/3月21日.md" title="wikilink">3月21日</a> 京都WHOOPEE'S<br />
 ・出演: <strong>my way my love</strong> / 阿弥陀GIRL<br />
 <a href="../Page/3月22日.md" title="wikilink">3月22日</a> 神戸STARCLUB<br />
 ・出演: <strong>my way my love</strong> / World Pitch shifter / three mono surround / BLIND SIDE / WATERFRONT<br />
@@ -1758,7 +1758,7 @@ BLWT-004:UK</p></td>
 <a href="../Page/4月1日.md" title="wikilink">4月1日</a> 福岡DRUM SON<br />
 ・出演: <strong>my way my love</strong> / RANDOM SHOT / スワンソン<br />
 <a href="../Page/4月2日.md" title="wikilink">4月2日</a> 松山サロンキティ<br />
-<a href="https://ja.wikipedia.org/wiki/4月3日" title="wikilink">4月3日</a> 高知X-pt.<br />
+<a href="../Page/4月3日.md" title="wikilink">4月3日</a> 高知X-pt.<br />
 ・出演: <strong>my way my love</strong> / AssHole MonSTeR / ドリル武男<br />
 <a href="../Page/4月4日.md" title="wikilink">4月4日</a> 高松DIME<br />
 ・出演: <strong>my way my love</strong> / ザ50回転ズ / 浅草ジンタ / The STOMP / The COCKS<br />
@@ -1766,7 +1766,7 @@ BLWT-004:UK</p></td>
 ・出演: <strong>my way my love</strong> / らせん / The Bryan / The Mix and Misanthrope<br />
 <a href="../Page/4月6日.md" title="wikilink">4月6日</a> 金沢VanVan V4<br />
 ・出演: <strong>my way my love</strong> / Virgo<br />
-<a href="https://ja.wikipedia.org/wiki/4月8日" title="wikilink">4月8日</a> 名古屋APOLLO THEATER<br />
+<a href="../Page/4月8日.md" title="wikilink">4月8日</a> 名古屋APOLLO THEATER<br />
 ・出演: <strong>my way my love</strong> / 近藤智洋バンド / THE CHELSEA / 精神安定剤<br />
 <a href="../Page/4月13日.md" title="wikilink">4月13日</a> 三軒茶屋HEAVEN'S DOOR<br />
 ・出演: <strong>my way my love</strong> / 101A / BALLOON88 / マジョ / ユー・グラン・グラン<br />
@@ -1799,7 +1799,7 @@ BLWT-004:UK</p></td>
 ・出演: <strong>my way my love</strong> / double face / ecinba / 影法師<br />
 <a href="../Page/5月2日.md" title="wikilink">5月2日</a> 高崎club FLEEZ<br />
 ・出演: <strong>my way my love</strong> / 秀吉 / avoid note / NEW LIFE / BROKEN THE BLUE<br />
-<a href="https://ja.wikipedia.org/wiki/5月3日" title="wikilink">5月3日</a> 下北沢MOSAiC<br />
+<a href="../Page/5月3日.md" title="wikilink">5月3日</a> 下北沢MOSAiC<br />
 ・出演: <strong>my way my love</strong> / blgtz / 狂うクルー / worst taste / Venetit haas<br />
 <a href="https://ja.wikipedia.org/wiki/5月4日" title="wikilink">5月4日</a> 三軒茶屋HEAVEN'S DOOR<br />
 ・出演: <strong>my way my love</strong> / BALLOON 88 / kobose / spunky doll / THE BACKDROPS<br />
@@ -1884,7 +1884,7 @@ BLWT-004:UK</p></td>
 <p>全6公演<br />
 <a href="https://ja.wikipedia.org/wiki/10月12日" title="wikilink">10月12日</a> 旭川CASINO DRIVE<br />
 ・出演: 嘘つきバービー / <strong>my way my love</strong> / the Maffia<br />
-<a href="https://ja.wikipedia.org/wiki/10月13日" title="wikilink">10月13日</a> 札幌SPIRITUAL LOUNGE<br />
+<a href="../Page/10月13日.md" title="wikilink">10月13日</a> 札幌SPIRITUAL LOUNGE<br />
 ・出演: 嘘つきバービー / <strong>my way my love</strong> / Buffelins, / FLUKE / 未完成VS新世界 / Addiction<br />
 <a href="../Page/10月14日.md" title="wikilink">10月14日</a> 室蘭怪物ランド<br />
 ・出演: 嘘つきバービー / <strong>my way my love</strong> / the judgement store<br />
@@ -1892,7 +1892,7 @@ BLWT-004:UK</p></td>
 ・出演: 嘘つきバービー / <strong>my way my love</strong> / wattsuribonba-zu / Dive Line<br />
 <a href="../Page/10月17日.md" title="wikilink">10月17日</a> 盛岡CLUB CHANGE<br />
 ・出演: 嘘つきバービー / <strong>my way my love</strong> / Plastic girl in closet / THE CASINO / madcap death panda<br />
-<a href="https://ja.wikipedia.org/wiki/10月18日" title="wikilink">10月18日</a> 秋田LIVE SPOT 2000<br />
+<a href="../Page/10月18日.md" title="wikilink">10月18日</a> 秋田LIVE SPOT 2000<br />
 ・出演: 嘘つきバービー / <strong>my way my love</strong> / 黒 / Gym-Captain / Rubber Johnny</p>
 </div>
 </div></td>
@@ -1917,7 +1917,7 @@ BLWT-004:UK</p></td>
 <a href="../Page/9月6日.md" title="wikilink">9月6日</a> the magnet : Liverpool, UK<br />
 ・出演: MUGSTAR / <strong>my way my love</strong> / THE WOULD BE EMPORERS / HOLDEN RANE<br />
 <a href="../Page/9月7日.md" title="wikilink">9月7日</a> dog &amp; partridge : Bolton, UK<br />
-<a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a> joshua brook : Manchester, UK<br />
+<a href="../Page/9月8日.md" title="wikilink">9月8日</a> joshua brook : Manchester, UK<br />
 ・出演: <strong>my way my love</strong> / KINGS HAVE LONG ARMS / Friends Of Mine / LANA MCDEE &amp; THE O’S<br />
 <a href="../Page/9月24日.md" title="wikilink">9月24日</a> 下北沢SHELTER<br />
 ・出演: UPPER / <strong>my way my love</strong> / THE NO EAR / fam<br />
@@ -1939,7 +1939,7 @@ BLWT-004:UK</p></td>
 ・出演: <strong>my way my love</strong> / 嘘つきバービー / HIGH VOLTAGE / シリカ / URBAN9 / リバーシブル吉岡<br />
 <a href="../Page/10月30日.md" title="wikilink">10月30日</a> 岡山PEPPERLAND<br />
 ・出演: <strong>my way my love</strong> / 嘘つきバービー / NUBO / LOST PEACH / DOOKIE FESTA<br />
-<a href="https://ja.wikipedia.org/wiki/10月31日" title="wikilink">10月31日</a> 松江eurous<br />
+<a href="../Page/10月31日.md" title="wikilink">10月31日</a> 松江eurous<br />
 <a href="../Page/11月1日.md" title="wikilink">11月1日</a> 米子ベリエ<br />
 <a href="../Page/11月2日.md" title="wikilink">11月2日</a> 周南LIVE RISE<br />
 ・出演: <strong>my way my love</strong> / FULL MONTY / SET B<br />
@@ -1991,7 +1991,7 @@ BLWT-004:UK</p></td>
 ・出演: STANCE PUNKS / 原爆オナニーズ / <strong>my way my love</strong> / LINK / 毛皮のマリーズ<br />
 <a href="../Page/2月5日.md" title="wikilink">2月5日</a> 下北沢CLUB 251<br />
 ・出演: <strong>my way my love</strong> / Nu- / 六畳人間 / Large House Satisfaction<br />
-<a href="https://ja.wikipedia.org/wiki/2月8日" title="wikilink">2月8日</a> 高崎club FLEEZ<br />
+<a href="../Page/2月8日.md" title="wikilink">2月8日</a> 高崎club FLEEZ<br />
 ・出演: SLANKYSIDE / Organix / The Subterraneans / EDDIE McCARTY /<strong>my way my love</strong><br />
 <a href="../Page/2月15日.md" title="wikilink">2月15日</a> 仙台PARK SQUARE<br />
 ・出演: STANCE PUNKS / 嘘つきバービー / <strong>my way my love</strong> / EG / きのこアガリックス<br />
@@ -2008,13 +2008,13 @@ BLWT-004:UK</p></td>
 <a href="../Page/2月14日.md" title="wikilink">2月14日</a> HEROIN: 02<br />
 ・出演: Great Adventure / spanam<br />
 <a href="../Page/9月22日.md" title="wikilink">9月22日</a> HEROIN: 03<br />
-・出演: <a href="https://ja.wikipedia.org/wiki/HAWAIIAN6" title="wikilink">HAWAIIAN6</a><br />
+・出演: <a href="../Page/HAWAIIAN6.md" title="wikilink">HAWAIIAN6</a><br />
 <a href="../Page/10月22日.md" title="wikilink">10月22日</a> HEROIN: 04<br />
 ・出演: <a href="https://ja.wikipedia.org/wiki/DOLCE" title="wikilink">DOLCE</a> / <a href="https://ja.wikipedia.org/wiki/the_band_apart" title="wikilink">the band apart</a><br />
 <a href="../Page/11月21日.md" title="wikilink">11月21日</a> HEROIN: 05<br />
-・出演: <a href="https://ja.wikipedia.org/wiki/GHEEE" title="wikilink">GHEEE</a><br />
+・出演: <a href="../Page/GHEEE.md" title="wikilink">GHEEE</a><br />
 <a href="../Page/12月22日.md" title="wikilink">12月22日</a> HEROIN: 06<br />
-・出演: <a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a></p>
+・出演: <a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a></p>
 </div>
 </div></td>
 <td></td>
@@ -2036,7 +2036,7 @@ BLWT-004:UK</p></td>
 ・出演: <strong>my way my love</strong> / Qomolangma Tomato / fam<br />
 <a href="../Page/4月29日.md" title="wikilink">4月29日</a> 柏ZaX<br />
 ・出演: <strong>my way my love</strong> / つしまみれ / STANCE PUNKS / VEZ / THE HORIES<br />
-<a href="https://ja.wikipedia.org/wiki/5月3日" title="wikilink">5月3日</a> 八王子RIPS<br />
+<a href="../Page/5月3日.md" title="wikilink">5月3日</a> 八王子RIPS<br />
 ・出演: <strong>my way my love</strong> / DOLCE / HAWAIIAN6<br />
 <a href="../Page/5月5日.md" title="wikilink">5月5日</a> 岡山PEPPERLAND<br />
 ・出演: <strong>my way my love</strong> / Qomolangma Tomato / mudy on the 昨晩 / BUGY CRAXONE<br />
@@ -2044,7 +2044,7 @@ BLWT-004:UK</p></td>
 ・出演: <strong>my way my love</strong> / Qomolangma Tomato / ガガガSP / アホ男<br />
 <a href="../Page/5月7日.md" title="wikilink">5月7日</a> 広島NAMIKI JUNCTION<br />
 ・出演: <strong>my way my love</strong> / Qomolangma Tomato / BUGY CRAXONE / SMACK DOWN<br />
-<a href="https://ja.wikipedia.org/wiki/5月9日" title="wikilink">5月9日</a> 大分TOPS<br />
+<a href="../Page/5月9日.md" title="wikilink">5月9日</a> 大分TOPS<br />
 ・出演: <strong>my way my love</strong> / Qomolangma Tomato / PLEDGE / SKIN-HEADZ<br />
 <a href="../Page/5月10日.md" title="wikilink">5月10日</a> 宮崎SR-BOX<br />
 ・出演: <strong>my way my love</strong> / Qomolangma Tomato / Order from Noise / URBANフェチ<br />
@@ -2156,13 +2156,13 @@ BLWT-004:UK</p></td>
 ・出演: <strong>my way my love</strong> / THE RODEO CARBURETTOR / BlieAN / YOLZ IN THE SKY / BONE MACHINE<br />
 <a href="../Page/10月11日.md" title="wikilink">10月11日</a> 奈良NEVERLAND<br />
 ・出演: <strong>my way my love</strong> / THE RODEO CARBURETTOR / BlieAN / YOLZ IN THE SKY<br />
-<a href="https://ja.wikipedia.org/wiki/10月13日" title="wikilink">10月13日</a> 岡山PEPPERLAND<br />
+<a href="../Page/10月13日.md" title="wikilink">10月13日</a> 岡山PEPPERLAND<br />
 ・出演: <strong>my way my love</strong> / THE RODEO CARBURETTOR / BlieAN / KING BROTHERS<br />
 <a href="../Page/10月14日.md" title="wikilink">10月14日</a> 広島NAMIKI JUNCTION<br />
 ・出演: <strong>my way my love</strong> / THE RODEO CARBURETTOR / BlieAN / KING BROTHERS<br />
 <a href="../Page/10月17日.md" title="wikilink">10月17日</a> 宇都宮HEAVEN'S ROCK VJ-2<br />
 ・出演: <strong>my way my love</strong> / THE RODEO CARBURETTOR / BlieAN / YOLZ IN THE SKY<br />
-<a href="https://ja.wikipedia.org/wiki/10月18日" title="wikilink">10月18日</a> 水戸LIGHT HOUSE<br />
+<a href="../Page/10月18日.md" title="wikilink">10月18日</a> 水戸LIGHT HOUSE<br />
 ・出演: <strong>my way my love</strong> / THE RODEO CARBURETTOR / BlieAN / The John's Guerrilla<br />
 <a href="../Page/10月19日.md" title="wikilink">10月19日</a> 柏ZaX<br />
 ・出演: <strong>my way my love</strong> / THE RODEO CARBURETTOR / BlieAN / YOLZ IN THE SKY<br />
@@ -2170,7 +2170,7 @@ BLWT-004:UK</p></td>
 ・出演: <strong>my way my love</strong> / THE RODEO CARBURETTOR / BlieAN / The John's Guerrilla<br />
 <a href="../Page/10月25日.md" title="wikilink">10月25日</a> 浜松FORCE<br />
 ・出演: <strong>my way my love</strong> / THE RODEO CARBURETTOR / BlieAN / The John's Guerrilla<br />
-<a href="https://ja.wikipedia.org/wiki/10月27日" title="wikilink">10月27日</a> 高崎club FLEEZ<br />
+<a href="../Page/10月27日.md" title="wikilink">10月27日</a> 高崎club FLEEZ<br />
 ・出演: <strong>my way my love</strong> / THE RODEO CARBURETTOR / BlieAN / a flood of circle<br />
 <a href="../Page/10月29日.md" title="wikilink">10月29日</a> 新潟CLUB RIVERST<br />
 ・出演: <strong>my way my love</strong> / THE RODEO CARBURETTOR / BlieAN / a flood of circle<br />
@@ -2193,7 +2193,7 @@ BLWT-004:UK</p></td>
 <p>全63公演<br />
 <a href="../Page/2月7日.md" title="wikilink">2月7日</a> 金沢vanvan V4<br />
 ・出演: STANCE PUNKS / <strong>my way my love</strong> / ザ・ヌラリヒョンズ<br />
-<a href="https://ja.wikipedia.org/wiki/2月8日" title="wikilink">2月8日</a> 岡山PEPPERLAND<br />
+<a href="../Page/2月8日.md" title="wikilink">2月8日</a> 岡山PEPPERLAND<br />
 ・出演: STANCE PUNKS / <strong>my way my love</strong> / SABRETOOTH<br />
 <a href="../Page/2月16日.md" title="wikilink">2月16日</a> 十三ファンタンゴ<br />
 ・出演: mudy on the 昨晩 / <strong>my way my love</strong> / STAn / THE NOVEMBERS<br />
@@ -2209,7 +2209,7 @@ BLWT-004:UK</p></td>
 ・出演: mudy on the 昨晩 / <strong>my way my love</strong> / STAn / NEKOZE<br />
 <a href="../Page/2月25日.md" title="wikilink">2月25日</a> 横浜CLUB LIZARD<br />
 ・出演: mudy on the 昨晩 / <strong>my way my love</strong> / THE NOVEMBERS<br />
-<a href="https://ja.wikipedia.org/wiki/2月26日" title="wikilink">2月26日</a> 水戸LIGHT HOUSE<br />
+<a href="../Page/2月26日.md" title="wikilink">2月26日</a> 水戸LIGHT HOUSE<br />
 ・出演: mudy on the 昨晩 / <strong>my way my love</strong> / Rega / ルルル / YOLZ IN THE SKY<br />
 <a href="../Page/2月28日.md" title="wikilink">2月28日</a> 高崎club FLEEZ<br />
 ・出演: 秀吉 / LILY / <strong>my way my love</strong> / THE MARBLE SQUARE / the Sharey's / Secret add9<br />
@@ -2285,7 +2285,7 @@ BLWT-004:UK</p></td>
 ・出演: under the yaku ceder / runny stools / 雪山遭難隊 / トライスト / OLD CLOTHES / <strong>my way my love</strong><br />
 <a href="../Page/10月17日.md" title="wikilink">10月17日</a> 八戸ROXX<br />
 ・出演: 8otto / the SHUWA / <strong>my way my love</strong><br />
-<a href="https://ja.wikipedia.org/wiki/10月18日" title="wikilink">10月18日</a> 十三FANTANGO<br />
+<a href="../Page/10月18日.md" title="wikilink">10月18日</a> 十三FANTANGO<br />
 ・出演: F.I.B / <strong>my way my love</strong> / ザ・アウトロウズ / ha-gakure / クリトリック・リス<br />
 <a href="../Page/10月29日.md" title="wikilink">10月29日</a> 神戸STAR CLUB<br />
 ・出演: シリカ / リバーシブル吉岡 / <strong>my way my love</strong><br />
@@ -2386,7 +2386,7 @@ BLWT-004:UK</p></td>
 <a href="../Page/1月22日.md" title="wikilink">1月22日</a> HEROIN: 07<br />
 ・出演: <a href="https://ja.wikipedia.org/wiki/WRENCH" title="wikilink">WRENCH</a><br />
 <a href="../Page/2月22日.md" title="wikilink">2月22日</a> HEROIN: 08<br />
-・出演: <a href="https://ja.wikipedia.org/wiki/NATSUMEN" title="wikilink">NATSUMEN</a> / <a href="https://ja.wikipedia.org/wiki/te&#39;" title="wikilink">te'</a><br />
+・出演: <a href="../Page/NATSUMEN.md" title="wikilink">NATSUMEN</a> / <a href="https://ja.wikipedia.org/wiki/te&#39;" title="wikilink">te'</a><br />
 <a href="../Page/10月1日.md" title="wikilink">10月1日</a> HEROIN: 09<br />
 ・出演: <a href="https://ja.wikipedia.org/wiki/dustbox" title="wikilink">dustbox</a> / SUNS OWL</p>
 </div>
@@ -2476,7 +2476,7 @@ BLWT-004:UK</p></td>
 ・出演: THE BACK HORN / <strong>my way my love</strong> / MOGA THE ￥5<br />
 <a href="../Page/4月14日.md" title="wikilink">4月14日</a> 渋谷CLUB QUATTRO<br />
 ・出演: THE BACK HORN / <strong>my way my love</strong> / a flood of circle<br />
-<a href="https://ja.wikipedia.org/wiki/5月9日" title="wikilink">5月9日</a> 伊那GRAM HOUSE<br />
+<a href="../Page/5月9日.md" title="wikilink">5月9日</a> 伊那GRAM HOUSE<br />
 ・出演: <strong>my way my love</strong> / THE HORIES<br />
 <a href="../Page/5月21日.md" title="wikilink">5月21日</a> 下北沢ERA "ERA 8th Anniversary「M☆N☆T 2010 -ERA8周年記念3DAYS-」<br />
 ・出演: <strong>my way my love</strong> / perfect piano lesson<br />
@@ -2486,7 +2486,7 @@ BLWT-004:UK</p></td>
 ・出演: nil / <strong>my way my love</strong><br />
 <a href="../Page/5月28日.md" title="wikilink">5月28日</a> 十三FANDANGO "nil presents -nihil on the hill vol.3-"<br />
 ・出演: nil / <strong>my way my love</strong><br />
-<a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a> 新栄APOLLO THEATER "APOLLO THEATER 10th ANNIVERSARY -Decade of The Red Light-"<br />
+<a href="../Page/7月23日.md" title="wikilink">7月23日</a> 新栄APOLLO THEATER "APOLLO THEATER 10th ANNIVERSARY -Decade of The Red Light-"<br />
 ・出演: white white sisters / <strong>my way my love</strong> / DOIMOI / swimmy<br />
 <a href="../Page/8月4日.md" title="wikilink">8月4日</a> 下北沢diskUNION "diskUNION Presents Special live Performance"<br />
 ※インストアフリーライブ<br />
@@ -2522,7 +2522,7 @@ BLWT-004:UK</p></td>
 <a href="../Page/1月29日.md" title="wikilink">1月29日</a> HEROIN: 10<br />
 ・出演: <a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a><br />
 <a href="../Page/2月5日.md" title="wikilink">2月5日</a> HEROIN: 11<br />
-・出演: <a href="https://ja.wikipedia.org/wiki/THE_BACK_HORN" title="wikilink">THE BACK HORN</a><br />
+・出演: <a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a><br />
 <a href="../Page/2月12日.md" title="wikilink">2月12日</a> HEROIN: 12<br />
 ・出演: <a href="https://ja.wikipedia.org/wiki/COCOBAT" title="wikilink">COCOBAT</a> / <a href="https://ja.wikipedia.org/wiki/nil" title="wikilink">nil</a><br />
 <a href="../Page/2月19日.md" title="wikilink">2月19日</a> HEROIN: 13<br />
@@ -2541,7 +2541,7 @@ BLWT-004:UK</p></td>
 <p>全3公演<br />
 <a href="../Page/5月1日.md" title="wikilink">5月1日</a> 酒井FLAVOR<br />
 ・出演: <strong>my way my love</strong> / THE HORIES / マルチ放電<br />
-<a href="https://ja.wikipedia.org/wiki/5月3日" title="wikilink">5月3日</a> 八戸ROXX<br />
+<a href="../Page/5月3日.md" title="wikilink">5月3日</a> 八戸ROXX<br />
 ・出演: <strong>my way my love</strong> / THE HORIES / ruuny stools<br />
 <a href="../Page/5月5日.md" title="wikilink">5月5日</a> 盛岡CLUB CHANGE<br />
 ・出演: <strong>my way my love</strong> / THE HORIES / ruuny stools<br />
@@ -2583,7 +2583,7 @@ BLWT-004:UK</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <p>全5公演<br />
-<a href="https://ja.wikipedia.org/wiki/7月3日" title="wikilink">7月3日</a> 下北沢MOSAiC<br />
+<a href="../Page/7月3日.md" title="wikilink">7月3日</a> 下北沢MOSAiC<br />
 ・出演: <strong>my way my love</strong> / THE NOVEMBERS / mudy on the 昨晩<br />
 <a href="https://ja.wikipedia.org/wiki/7月8日" title="wikilink">7月8日</a> 横浜FAD<br />
 ・出演: <strong>my way my love</strong> / locofrank/ Crunky-Snow<br />
@@ -2745,7 +2745,7 @@ BLWT-004:UK</p></td>
 ・出演: JONNY / <strong>my way my love</strong> / mothercoat / thatta / バズマザーズ<br />
 <a href="../Page/10月6日.md" title="wikilink">10月6日</a> 渋谷O-crest “群雄割拠”<br />
 ・出演: THE BLONDIE PLASTIC WAGON / <strong>my way my love</strong> / BAZRA / ユーノ(O.A.)<br />
-<a href="https://ja.wikipedia.org/wiki/10月18日" title="wikilink">10月18日</a> 吉祥寺PLANET K “ANOTHER WORLD”<br />
+<a href="../Page/10月18日.md" title="wikilink">10月18日</a> 吉祥寺PLANET K “ANOTHER WORLD”<br />
 ・出演: <strong>my way my love</strong> / アパラチア / 日の毬 / ガーターヴェルト / Palbo<br />
 <a href="../Page/10月20日.md" title="wikilink">10月20日</a> 仙台FLYING SON “my way my love × 仙台FUZZ研究会 Presents -Fuzz Festival 2012-“<br />
 ・出演: <strong>my way my love</strong> / DEADMANS / Setomono / colossal youth / 魚の目 / neutral / LeRoy<br />
@@ -2753,7 +2753,7 @@ BLWT-004:UK</p></td>
 ・出演: <strong>my way my love</strong> / bradshaw / the Lucy / MINAMI NiNE / JANAI da LOOP / DUB STRUCTURE#9 / fornow<br />
 <a href="../Page/10月26日.md" title="wikilink">10月26日</a> 稲毛K's Dream “M's Dream vol.2”<br />
 ・出演: <strong>my way my love</strong> / THE HORIES / Troll8 / GNOSIS / dunce / 絵かきの手<br />
-<a href="https://ja.wikipedia.org/wiki/10月31日" title="wikilink">10月31日</a> 越谷EasyGoings “HALLOWEEN party</p></td>
+<a href="../Page/10月31日.md" title="wikilink">10月31日</a> 越谷EasyGoings “HALLOWEEN party</p></td>
 </tr>
 <tr class="odd">
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2805,7 +2805,7 @@ BLWT-004:UK</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <p>全22公演<br />
-<a href="https://ja.wikipedia.org/wiki/7月3日" title="wikilink">7月3日</a> 新宿JAM<br />
+<a href="../Page/7月3日.md" title="wikilink">7月3日</a> 新宿JAM<br />
 <a href="../Page/7月5日.md" title="wikilink">7月5日</a> 旭川CASINO DRIVE<br />
 ・出演: <strong>my way my love</strong> / THE DAYSIES / FLIP OUT / MiXT / ひみつ<br />
 <a href="../Page/7月6日.md" title="wikilink">7月6日</a> 室蘭Live cafe Soliste<br />
@@ -2825,7 +2825,7 @@ BLWT-004:UK</p></td>
 <a href="../Page/7月19日.md" title="wikilink">7月19日</a> 福岡graf<br />
 <a href="../Page/7月20日.md" title="wikilink">7月20日</a> 広島MADHOUSE<br />
 <a href="../Page/7月21日.md" title="wikilink">7月21日</a> 周南rise<br />
-<a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a> 下北沢MOSAIC<br />
+<a href="../Page/7月23日.md" title="wikilink">7月23日</a> 下北沢MOSAIC<br />
 <a href="../Page/7月24日.md" title="wikilink">7月24日</a> 新潟RIVERST<br />
 ・出演: <strong>my way my love</strong> / The Sunny / しょしょ / the eggplants / WITHERCRACK<br />
 <a href="../Page/7月26日.md" title="wikilink">7月26日</a> 稲毛K's DREAM<br />
@@ -2850,7 +2850,7 @@ BLWT-004:UK</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <p>全16公演<br />
-<a href="https://ja.wikipedia.org/wiki/10月18日" title="wikilink">10月18日</a> 盛岡club Change<br />
+<a href="../Page/10月18日.md" title="wikilink">10月18日</a> 盛岡club Change<br />
 <a href="../Page/10月19日.md" title="wikilink">10月19日</a> 八戸ROXX<br />
 ・出演: <strong>my way my love</strong> / MURATA ACOUSTIC SET / TEXAS STYLE / Interloper / Re:Turn / NADSAD<br />
 <a href="../Page/10月20日.md" title="wikilink">10月20日</a> 山形酒田hope<br />
@@ -2860,7 +2860,7 @@ BLWT-004:UK</p></td>
 <a href="../Page/10月23日.md" title="wikilink">10月23日</a> 高崎club FLEEZ<br />
 ・出演: <strong>my way my love</strong> / メンテナンス13 / only he knows / autumn palpitation<br />
 <a href="../Page/10月26日.md" title="wikilink">10月26日</a> 尼崎Deepa<br />
-<a href="https://ja.wikipedia.org/wiki/10月27日" title="wikilink">10月27日</a> 神戸ART HOUSE<br />
+<a href="../Page/10月27日.md" title="wikilink">10月27日</a> 神戸ART HOUSE<br />
 ・出演: <strong>my way my love</strong> / NAP IN SCHOOL / WORLD / moment clips / NO.9<br />
 <a href="https://ja.wikipedia.org/wiki/10月28日" title="wikilink">10月28日</a> 新宿JAM<br />
 <a href="../Page/10月30日.md" title="wikilink">10月30日</a> 下北沢CLUB251<br />
@@ -2914,7 +2914,7 @@ BLWT-004:UK</p></td>
 ・出演: <strong>my way my love</strong> / しょしょ / pirukuru / Lki@ / strange world's end / 宇宙スパイダー(O.A.)<br />
 <a href="../Page/12月4日.md" title="wikilink">12月4日</a> 越谷EasyGoings "EASYGOINGS presents【優鬼侍 -第十九章-】"<br />
 ・出演: <strong>my way my love</strong> / Demo'n'Actual / ナカユビ / Schiele / ナオキフジサワ<br />
-<a href="../Page/12月27日.md" title="wikilink">12月27日</a> 下北沢Basement Bar "<a href="https://ja.wikipedia.org/wiki/つしまみれ" title="wikilink">つしまみれ</a>年末企画 『花まみれ5days』"<br />
+<a href="../Page/12月27日.md" title="wikilink">12月27日</a> 下北沢Basement Bar "<a href="../Page/つしまみれ.md" title="wikilink">つしまみれ</a>年末企画 『花まみれ5days』"<br />
 ・出演: つしまみれ / <strong>my way my love</strong> / She Her Her Hers</p>
 </div>
 </div></td>
@@ -2945,7 +2945,7 @@ BLWT-004:UK</p></td>
 <p>全7公演<br />
 <a href="../Page/12月9日.md" title="wikilink">12月9日</a> 神戸ART HOUSE<br />
 ・出演: <strong>my way my love</strong> / Leetspeak monster / LIGHTNING FRIGHTEN ME<br />
-<a href="https://ja.wikipedia.org/wiki/12月10日" title="wikilink">12月10日</a> 梅田zeela<br />
+<a href="../Page/12月10日.md" title="wikilink">12月10日</a> 梅田zeela<br />
 ・出演: <strong>my way my love</strong> / oddfive / Phyxmoment<br />
 <a href="../Page/12月11日.md" title="wikilink">12月11日</a> 名古屋HUCK FINN<br />
 ・出演: <strong>my way my love</strong> / セケンシラズ / MaRS VIOLET LOVE<br />
@@ -2979,7 +2979,7 @@ BLWT-004:UK</p></td>
 <p>New Year Party ~ Party Is Destiny</p></td>
 <td></div>
 <div class="NavContent" style="text-align:left;">
-<p><a href="https://ja.wikipedia.org/wiki/1月12日" title="wikilink">1月12日</a> 下北沢Good Heavens<br />
+<p><a href="../Page/1月12日.md" title="wikilink">1月12日</a> 下北沢Good Heavens<br />
 ※ファンイベント</p>
 </div>
 </div></td>
@@ -3023,7 +3023,7 @@ BLWT-004:UK</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <p>全7公演<br />
-<a href="https://ja.wikipedia.org/wiki/7月3日" title="wikilink">7月3日</a> 下北沢251<br />
+<a href="../Page/7月3日.md" title="wikilink">7月3日</a> 下北沢251<br />
 ・出演: <strong>my way my love</strong> / THE TEENAGE KISSERS / THE BLONDIE PLASTIC WAGON / CLEAVER CRAVER<br />
 <a href="../Page/7月12日.md" title="wikilink">7月12日</a> 倉敷RED BOX<br />
 ・出演: <strong>my way my love</strong> / HELL BRAIN / Mr.ローレンス / REBIRTH to HELL<br />
@@ -3159,7 +3159,7 @@ BLWT-004:UK</p></td>
 <a href="../Page/4月11日.md" title="wikilink">4月11日</a> 吉祥寺Planet K<br />
 <a href="../Page/4月13日.md" title="wikilink">4月13日</a> 仙台Flying Son<br />
 ・出演: 青天の霹靂 / <strong>my way my love</strong> / port / 津川大和<br />
-<a href="https://ja.wikipedia.org/wiki/4月16日" title="wikilink">4月16日</a> 札幌Spiritual Lounge<br />
+<a href="../Page/4月16日.md" title="wikilink">4月16日</a> 札幌Spiritual Lounge<br />
 ・出演: 青天の霹靂 / <strong>my way my love</strong> / No Colors Actor / the judgement store<br />
 <a href="../Page/4月23日.md" title="wikilink">4月23日</a> 安城RADIO CLUB<br />
 <a href="../Page/4月24日.md" title="wikilink">4月24日</a> 神戸Art House<br />
@@ -3215,7 +3215,7 @@ BLWT-004:UK</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <p>全39公演<br />
-<a href="https://ja.wikipedia.org/wiki/1月12日" title="wikilink">1月12日</a> 渋谷CLUB KINOTO "Youjiro Lastly Presents 「　」Day9"<br />
+<a href="../Page/1月12日.md" title="wikilink">1月12日</a> 渋谷CLUB KINOTO "Youjiro Lastly Presents 「　」Day9"<br />
 ・出演: <strong>my way my love</strong> / 百々和宏(MO'SOME TONEBENDER) / MOJA / PISQAL / Hi-5 / DJ: ume-rock(Sunday Monday/Ivy Ivy)<br />
 <a href="../Page/1月14日.md" title="wikilink">1月14日</a> 佐倉Sound Stream<br />
 ・出演: <strong>my way my love</strong> / カグライフ / littleneem / lack of sleep / (O.A.)the Rock<br />
@@ -3258,7 +3258,7 @@ BLWT-004:UK</p></td>
 全7公演<br />
 <a href="../Page/10月10日.md" title="wikilink">10月10日</a> 下北沢SHELTER guest: nil<br />
 <a href="https://ja.wikipedia.org/wiki/10月12日" title="wikilink">10月12日</a> 名古屋CLUB ROCK 'N' ROLL<br />
-<a href="https://ja.wikipedia.org/wiki/10月13日" title="wikilink">10月13日</a> 安城RADIO CLUB<br />
+<a href="../Page/10月13日.md" title="wikilink">10月13日</a> 安城RADIO CLUB<br />
 <a href="../Page/10月19日.md" title="wikilink">10月19日</a> 小倉FUSE<br />
 <a href="../Page/10月21日.md" title="wikilink">10月21日</a> 佐世保TEATRO<br />
 <a href="../Page/11月4日.md" title="wikilink">11月4日</a> 渋谷HOME 〜青天のmyway TOUR After Party〜<br />

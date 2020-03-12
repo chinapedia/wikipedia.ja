@@ -1,35 +1,35 @@
 > この記事は[DELICIOUS LABEL](https://ja.wikipedia.org/wiki/DELICIOUS_LABEL)から翻訳されています。
 
 
-**Delicious Label（デリシャスレーベル）**は日本のロックバンド、[the pillowsのボーカル](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[山中さわお](https://ja.wikipedia.org/wiki/山中さわお "wikilink")が[1999年](../Page/1999年.md "wikilink")にバッド・ミュージック・グループ音楽出版内に設立したレーベルである。
+**Delicious Label（デリシャスレーベル）**は日本のロックバンド、[the pillowsのボーカル](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[山中さわお](../Page/山中さわお.md "wikilink")が[1999年](../Page/1999年.md "wikilink")にバッド・ミュージック・グループ音楽出版内に設立したレーベルである。
 
 ## 主な所属アーティスト
 
-| アーティスト名                                                                 | 読み       | 所属期間   | 備考                                                                                                        |
-| ----------------------------------------------------------------------- | -------- | ------ | --------------------------------------------------------------------------------------------------------- |
-| [noodles](https://ja.wikipedia.org/wiki/noodles "wikilink")             | ヌードルス    | 1999年〜 | レーベルアーティスト第一号                                                                                             |
-| [THE PREDATORS](https://ja.wikipedia.org/wiki/THE_PREDATORS "wikilink") | ザプレデターズ  | 2015年〜 | 販売元はポニーキャニオン                                                                                              |
-| [the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")     | ザピロウズ    | 2016年〜 | 販売元はキングレコード                                                                                               |
-| [シュリスペイロフ](https://ja.wikipedia.org/wiki/シュリスペイロフ "wikilink")           | シュリスペイロフ | 2014年〜 |                                                                                                           |
-| [THE BOHEMIANS](https://ja.wikipedia.org/wiki/THE_BOHEMIANS "wikilink") | ザボヘミアンズ  | 2015年〜 |                                                                                                           |
-| [Casablanca](https://ja.wikipedia.org/wiki/Casablanca "wikilink")       | カサブランカ   | 2016年〜 | 山中さわお、yoko（noodles）、楠部真也([Radio Caroline](https://ja.wikipedia.org/wiki/Radio_Caroline "wikilink"))によるバンド |
-|                                                                         |          |        |                                                                                                           |
+| アーティスト名                                                                 | 読み       | 所属期間   | 備考                                                                                     |
+| ----------------------------------------------------------------------- | -------- | ------ | -------------------------------------------------------------------------------------- |
+| [noodles](https://ja.wikipedia.org/wiki/noodles "wikilink")             | ヌードルス    | 1999年〜 | レーベルアーティスト第一号                                                                          |
+| [THE PREDATORS](../Page/THE_PREDATORS.md "wikilink")                    | ザプレデターズ  | 2015年〜 | 販売元はポニーキャニオン                                                                           |
+| [the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")     | ザピロウズ    | 2016年〜 | 販売元はキングレコード                                                                            |
+| [シュリスペイロフ](https://ja.wikipedia.org/wiki/シュリスペイロフ "wikilink")           | シュリスペイロフ | 2014年〜 |                                                                                        |
+| [THE BOHEMIANS](https://ja.wikipedia.org/wiki/THE_BOHEMIANS "wikilink") | ザボヘミアンズ  | 2015年〜 |                                                                                        |
+| [Casablanca](https://ja.wikipedia.org/wiki/Casablanca "wikilink")       | カサブランカ   | 2016年〜 | 山中さわお、yoko（noodles）、楠部真也([Radio Caroline](../Page/Radio_Caroline.md "wikilink"))によるバンド |
+|                                                                         |          |        |                                                                                        |
 
 ## 過去に所属していた主なアーティスト
 
-| アーティスト名                                                               | 読み        | 所属期間        | 備考                                                                                                                              |
-| --------------------------------------------------------------------- | --------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [NINE MILES](https://ja.wikipedia.org/wiki/NINE_MILES "wikilink")     | ナインマイルズ   | 2001年〜2008年 |                                                                                                                                 |
-| [MY WAY MY LOVE](../Page/MY_WAY_MY_LOVE.md "wikilink")                | マイウェイマイラヴ | 2001年       | →mott records→[Graveyard Label](https://ja.wikipedia.org/wiki/グローイングアップ_\(企業\) "wikilink")→dive in\! disc/binyl records→KATSUSA |
-| [scarabée](https://ja.wikipedia.org/wiki/scarabée "wikilink")         | スカラベ      | 2002年       | 井上ただし、荒木健史によるバンド                                                                                                                |
-| [fragments](https://ja.wikipedia.org/wiki/鈴木淳_\(ベーシスト\) "wikilink")   | フラグメンツ    | 2002年〜2005年 | コンピレーションアルバムのみの参加                                                                                                               |
-| HERMIT                                                                | ハーミット     | 2003年       |                                                                                                                                 |
-| [バンビーノ☆ラジオ](https://ja.wikipedia.org/wiki/バンビーノ☆ラジオ "wikilink")       | バンビーノラジオ  | 2005年       |                                                                                                                                 |
-| [ザ・キッチンゴリラ](https://ja.wikipedia.org/wiki/ザ・キッチンゴリラ "wikilink")       | ザキッチンゴリラ  | 2005年       |                                                                                                                                 |
-| [monokuro](https://ja.wikipedia.org/wiki/monokuro "wikilink")         | モノクロ      | 2006年〜2011年 | 2011年2月26日無期限活動休止                                                                                                               |
-| [POP CHOCOLAT](https://ja.wikipedia.org/wiki/POP_CHOCOLAT "wikilink") | ポップショコラ   | 2010年〜2012年 |                                                                                                                                 |
-| [山中さわお](https://ja.wikipedia.org/wiki/山中さわお "wikilink")               | やまなかさわお   | 2010年〜2013年 | the pillowsボーカルのソロ                                                                                                              |
-|                                                                       |           |             |                                                                                                                                 |
+| アーティスト名                                                               | 読み        | 所属期間        | 備考                                                                                                           |
+| --------------------------------------------------------------------- | --------- | ----------- | ------------------------------------------------------------------------------------------------------------ |
+| [NINE MILES](../Page/NINE_MILES.md "wikilink")                        | ナインマイルズ   | 2001年〜2008年 |                                                                                                              |
+| [MY WAY MY LOVE](../Page/MY_WAY_MY_LOVE.md "wikilink")                | マイウェイマイラヴ | 2001年       | →mott records→[Graveyard Label](../Page/グローイングアップ_\(企業\).md "wikilink")→dive in\! disc/binyl records→KATSUSA |
+| [scarabée](https://ja.wikipedia.org/wiki/scarabée "wikilink")         | スカラベ      | 2002年       | 井上ただし、荒木健史によるバンド                                                                                             |
+| [fragments](../Page/鈴木淳_\(ベーシスト\).md "wikilink")                      | フラグメンツ    | 2002年〜2005年 | コンピレーションアルバムのみの参加                                                                                            |
+| HERMIT                                                                | ハーミット     | 2003年       |                                                                                                              |
+| [バンビーノ☆ラジオ](https://ja.wikipedia.org/wiki/バンビーノ☆ラジオ "wikilink")       | バンビーノラジオ  | 2005年       |                                                                                                              |
+| [ザ・キッチンゴリラ](https://ja.wikipedia.org/wiki/ザ・キッチンゴリラ "wikilink")       | ザキッチンゴリラ  | 2005年       |                                                                                                              |
+| [monokuro](https://ja.wikipedia.org/wiki/monokuro "wikilink")         | モノクロ      | 2006年〜2011年 | 2011年2月26日無期限活動休止                                                                                            |
+| [POP CHOCOLAT](https://ja.wikipedia.org/wiki/POP_CHOCOLAT "wikilink") | ポップショコラ   | 2010年〜2012年 |                                                                                                              |
+| [山中さわお](../Page/山中さわお.md "wikilink")                                  | やまなかさわお   | 2010年〜2013年 | the pillowsボーカルのソロ                                                                                           |
+|                                                                       |           |             |                                                                                                              |
 
 ## コンピレーションアルバム
 
@@ -63,7 +63,7 @@
 <td><p>my room is delicious Vol.1</p></td>
 <td><p>BUMP-009</p></td>
 <td><ol>
-<li>delicious &amp; vacant (<a href="https://ja.wikipedia.org/wiki/鈴木淳_(ベーシスト)" title="wikilink">fragments/鈴木淳</a>)</li>
+<li>delicious &amp; vacant (<a href="../Page/鈴木淳_(ベーシスト).md" title="wikilink">fragments/鈴木淳</a>)</li>
 <li>DUB PHANTOM (fragments/鈴木淳)</li>
 <li>ボイド (プレアデス/noodles・IKUNO)</li>
 <li>ないしょの話 (プレアデス/noodles・IKUNO)</li>

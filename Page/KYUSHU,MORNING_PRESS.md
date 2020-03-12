@@ -1,7 +1,7 @@
 > この記事は[KYUSHU,MORNING PRESS](https://ja.wikipedia.org/wiki/KYUSHU,MORNING_PRESS)から翻訳されています。
 
 
-**KYUSHU, MORNING PRESS**（キュウシュウ・モーニング・プレス）は[CROSS FMが放送していた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。放送期間は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")。北九州本社スタジオからの[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")。
+**KYUSHU, MORNING PRESS**（キュウシュウ・モーニング・プレス）は[CROSS FMが放送していた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。放送期間は[2005年](../Page/2005年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")。北九州本社スタジオからの[生放送](../Page/生放送.md "wikilink")。
 
 ## 概要
 
@@ -13,9 +13,9 @@
 
 ## ナビゲーター
 
-  - [後藤心平](https://ja.wikipedia.org/wiki/後藤心平 "wikilink")
+  - [後藤心平](../Page/後藤心平.md "wikilink")
       -
-        同局では[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")4月「[CROSS AFTERNOON SHOW TENJIN APRES-MIDI](https://ja.wikipedia.org/wiki/TENJIN_APRES-MIDI "wikilink")」の金曜日担当としてデビューしたが9月末で降板、その後半年間同番組や「[CROSS EVENING SHOW CATEGORY T.T.](https://ja.wikipedia.org/wiki/CATEGORY_T.T. "wikilink")」などのピンチヒッターを主に務めていた。レギュラー担当としてはこの番組が2本目となる。
+        同局では[2004年](../Page/2004年.md "wikilink")4月「[CROSS AFTERNOON SHOW TENJIN APRES-MIDI](https://ja.wikipedia.org/wiki/TENJIN_APRES-MIDI "wikilink")」の金曜日担当としてデビューしたが9月末で降板、その後半年間同番組や「[CROSS EVENING SHOW CATEGORY T.T.](../Page/CATEGORY_T.T..md "wikilink")」などのピンチヒッターを主に務めていた。レギュラー担当としてはこの番組が2本目となる。
 
 ## 主なコーナー
 
@@ -25,20 +25,20 @@
   - Who's lucky?〜Horoscape〜（6:40-）
       -
         **DJシン**が[占い](../Page/占い.md "wikilink")師**ドン・コロリオーネ**による12星座別今日の運勢を紹介。
-        「[B2B RADIO](https://ja.wikipedia.org/wiki/B2B_RADIO "wikilink")」の12星座別結果発表のコーナー「**Who's BAD?〜Horoscape〜**」との連動コーナー。
+        「[B2B RADIO](../Page/B2B_RADIO.md "wikilink")」の12星座別結果発表のコーナー「**Who's BAD?〜Horoscape〜**」との連動コーナー。
   - Feel Fresh Morning（7:00-）
       -
         7時の[時報](../Page/時報.md "wikilink")の後、リスナーから寄せられたリクエストをオンエア。
   - BBIQ Morning Bussiness School（7:30-）
       -
-        [スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")は[BBIQ](https://ja.wikipedia.org/wiki/BBIQ "wikilink")。
-        [九州大学](../Page/九州大学.md "wikilink")[ビジネススクール](https://ja.wikipedia.org/wiki/ビジネススクール "wikilink")の先生が社会人にも役立つ知識を紹介。
+        [スポンサー](../Page/スポンサー.md "wikilink")は[BBIQ](https://ja.wikipedia.org/wiki/BBIQ "wikilink")。
+        [九州大学](../Page/九州大学.md "wikilink")[ビジネススクール](../Page/ビジネススクール.md "wikilink")の先生が社会人にも役立つ知識を紹介。
         後藤が聞き手をするインタビュー収録の形態。
   - HAWKS NAVI（7:45-）
       -
-        スポンサーは[コカ・コーラウエストジャパン](https://ja.wikipedia.org/wiki/コカ・コーラウエストジャパン "wikilink")（火曜）。
+        スポンサーは[コカ・コーラウエストジャパン](../Page/コカ・コーラウエストジャパン.md "wikilink")（火曜）。
         [福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")に関するニュース・話題を紹介。
-        2005年3月までは前番組「[DIGITAL MORNING DRIVE](https://ja.wikipedia.org/wiki/DIGITAL_MORNING_DRIVE "wikilink")」、「[CROSS MORNING SHOW AIR MAGAZINE](https://ja.wikipedia.org/wiki/AIR_MAGAZINE "wikilink")」から引き続き[ホークスタウン](https://ja.wikipedia.org/wiki/ホークスタウン "wikilink")がスポンサーであった「OH\! HAWKS TOWN」を放送していたが、2005年4月からスポンサー降板によりコーナー名が変わった。但し内容はほとんど変わっていない。
+        2005年3月までは前番組「[DIGITAL MORNING DRIVE](../Page/DIGITAL_MORNING_DRIVE.md "wikilink")」、「[CROSS MORNING SHOW AIR MAGAZINE](../Page/AIR_MAGAZINE.md "wikilink")」から引き続き[ホークスタウン](../Page/ホークスタウン.md "wikilink")がスポンサーであった「OH\! HAWKS TOWN」を放送していたが、2005年4月からスポンサー降板によりコーナー名が変わった。但し内容はほとんど変わっていない。
   - Today's Index（8:12-）
       -
         インパクトのある見出しを持つ記事TOP3を毎日紹介。

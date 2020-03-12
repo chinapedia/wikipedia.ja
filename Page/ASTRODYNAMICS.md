@@ -3,7 +3,7 @@
 
 『**ASTRODYNAMICS**』（アストロダイナミクス）は、[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")のソロ・プロジェクト「\!」（エクスクラメイション）が発表したアルバム。[聖飢魔II](../Page/聖飢魔II.md "wikilink")解散後としては最初のアルバムで、デーモン小暮閣下としては3枚目となる作品。
 
-サウンド・プロデュースは[Scudelia Electroの](https://ja.wikipedia.org/wiki/Scudelia_Electro "wikilink")[吉澤瑛師](https://ja.wikipedia.org/wiki/吉澤瑛師 "wikilink")と[寺田康彦](https://ja.wikipedia.org/wiki/寺田康彦 "wikilink")。
+サウンド・プロデュースは[Scudelia Electroの](../Page/Scudelia_Electro.md "wikilink")[吉澤瑛師](https://ja.wikipedia.org/wiki/吉澤瑛師 "wikilink")と[寺田康彦](../Page/寺田康彦.md "wikilink")。
 
 ## 収録曲
 
@@ -21,7 +21,7 @@
 
 ## シングル「AGE OF ZERO\!」
 
-「AGE OF ZERO\!」は[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")『[フジリコ](https://ja.wikipedia.org/wiki/フジリコ "wikilink")』のエンディング・テーマとして放送された。
+「AGE OF ZERO\!」は[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")『[フジリコ](../Page/フジリコ.md "wikilink")』のエンディング・テーマとして放送された。
 
 1.  AGE OF ZERO\! （作詞: \!、作曲・編曲: 吉澤瑛師）
 2.  PARADISE\! （作詞: \!、作曲: 佐藤清喜、編曲: 吉澤瑛師）

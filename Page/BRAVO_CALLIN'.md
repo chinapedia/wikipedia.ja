@@ -1,7 +1,7 @@
 > この記事は[BRAVO CALLIN\'](https://ja.wikipedia.org/wiki/BRAVO_CALLIN\')から翻訳されています。
 
 
-**BRAVO CALLIN**'（ブラボー・コーリン）は、[CROSS FMが放送していた夕方の](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[リクエスト番組](https://ja.wikipedia.org/wiki/リクエスト番組 "wikilink")。放送期間は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")4月-[2003年](../Page/2003年.md "wikilink")3月。[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")にある本社第1スタジオからの[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")。
+**BRAVO CALLIN**'（ブラボー・コーリン）は、[CROSS FMが放送していた夕方の](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[リクエスト番組](../Page/リクエスト番組.md "wikilink")。放送期間は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")4月-[2003年](../Page/2003年.md "wikilink")3月。[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")にある本社第1スタジオからの[生放送](../Page/生放送.md "wikilink")。
 
 ## 概要
 
@@ -9,7 +9,7 @@
   - 当初はリスナーから「ブラボーコール」と称して、リスナーからメッセージとリクエストを募集していたが、あまり定着しなかった。
   - 2000年頃からEメールでのリクエスト受付も開始、最後2年間は電話、FAX、Eメール、ホームページの4本立てでリクエストを受け付けた。
 
-## [ナビゲーター](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")・放送時間
+## [ナビゲーター](../Page/ディスクジョッキー.md "wikilink")・放送時間
 
   - 1997年4月〜1999年3月
 
@@ -29,7 +29,7 @@
 <!-- end list -->
 
   -
-    [永松ケンシ](https://ja.wikipedia.org/wiki/永松ケンシ "wikilink") - 同局ではこの番組でナビゲーターデビュー。
+    [永松ケンシ](../Page/永松ケンシ.md "wikilink") - 同局ではこの番組でナビゲーターデビュー。
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@
 
 <!-- end list -->
 
-  - 1997年4月〜2000年3月の永松ケンシ休演時には[YUYA](https://ja.wikipedia.org/wiki/YUYA "wikilink")、[TOGGY](https://ja.wikipedia.org/wiki/TOGGY "wikilink")、[立山律子](https://ja.wikipedia.org/wiki/立山律子 "wikilink")、[MASAKI](https://ja.wikipedia.org/wiki/MASAKI "wikilink")がピンチヒッターを務めた。
+  - 1997年4月〜2000年3月の永松ケンシ休演時には[YUYA](../Page/YUYA.md "wikilink")、[TOGGY](https://ja.wikipedia.org/wiki/TOGGY "wikilink")、[立山律子](../Page/立山律子.md "wikilink")、[MASAKI](https://ja.wikipedia.org/wiki/MASAKI "wikilink")がピンチヒッターを務めた。
 
 <!-- end list -->
 
@@ -78,7 +78,7 @@
 
   -
     永松ケンシ （月〜木）
-    [鈴木麻由](https://ja.wikipedia.org/wiki/鈴木麻由_\(ディスクジョッキー\) "wikilink") （金） - 同局では「[RADIO SONIC](https://ja.wikipedia.org/wiki/RADIO_SONIC "wikilink")」「[WEEKEND VIEW](https://ja.wikipedia.org/wiki/WEEKEND_VIEW "wikilink")」に続いて担当。
+    [鈴木麻由](https://ja.wikipedia.org/wiki/鈴木麻由_\(ディスクジョッキー\) "wikilink") （金） - 同局では「[RADIO SONIC](../Page/RADIO_SONIC.md "wikilink")」「[WEEKEND VIEW](https://ja.wikipedia.org/wiki/WEEKEND_VIEW "wikilink")」に続いて担当。
 
 <!-- end list -->
 
@@ -102,7 +102,7 @@
   -
     永松ケンシ （月・水・金）
     鈴木麻由 （火）
-    [CAORI](https://ja.wikipedia.org/wiki/CAORI "wikilink") （木） - 同局では「[BE-FINE SUNDAY](https://ja.wikipedia.org/wiki/BE-FINE_SUNDAY "wikilink")」に続いて担当。
+    [CAORI](../Page/CAORI.md "wikilink") （木） - 同局では「[BE-FINE SUNDAY](../Page/BE-FINE_SUNDAY.md "wikilink")」に続いて担当。
 
 <!-- end list -->
 
@@ -125,7 +125,7 @@
 
   -
     永松ケンシ （月・水・金）
-    [MASAKI](https://ja.wikipedia.org/wiki/MASAKI "wikilink") （火） - 同局では「[GROOVE TRAIN 9to0](https://ja.wikipedia.org/wiki/GROOVE_TRAIN_9to0 "wikilink")」に続いて担当。
+    [MASAKI](https://ja.wikipedia.org/wiki/MASAKI "wikilink") （火） - 同局では「[GROOVE TRAIN 9to0](../Page/GROOVE_TRAIN_9to0.md "wikilink")」に続いて担当。
     CAORI （木）
 
 <!-- end list -->
@@ -180,7 +180,7 @@
 <!-- end list -->
 
   -
-    1997年4月〜1999年3月頃放送の[小倉競輪場](https://ja.wikipedia.org/wiki/小倉競輪場 "wikilink")・[門司競輪場](https://ja.wikipedia.org/wiki/門司競輪場 "wikilink")提供コーナー。前番組の　「[CARAMEL PAIRATES](https://ja.wikipedia.org/wiki/CARAMEL_PAIRATES "wikilink")」、「[SONIC A-GO-GO\!\!](https://ja.wikipedia.org/wiki/SONIC_A-GO-GO!! "wikilink")」を引き継いで、オールディーズのリクエストを特集していたが、後半1年間は[J-POP](../Page/J-POP.md "wikilink")ネオクラシックと呼ばれる2〜3年前のヒット曲のリクエストを紹介した。
+    1997年4月〜1999年3月頃放送の[小倉競輪場](../Page/小倉競輪場.md "wikilink")・[門司競輪場](../Page/門司競輪場.md "wikilink")提供コーナー。前番組の　「[CARAMEL PAIRATES](https://ja.wikipedia.org/wiki/CARAMEL_PAIRATES "wikilink")」、「[SONIC A-GO-GO\!\!](../Page/SONIC_A-GO-GO!!.md "wikilink")」を引き継いで、オールディーズのリクエストを特集していたが、後半1年間は[J-POP](../Page/J-POP.md "wikilink")ネオクラシックと呼ばれる2〜3年前のヒット曲のリクエストを紹介した。
 
 <!-- end list -->
 
@@ -198,7 +198,7 @@
 <!-- end list -->
 
   -
-    1997年4月〜1999年3月頃放送。福岡県内で支持を受けているダンス・ミュージック上位20曲を紹介。1999年4月以降は「[GROOVE TRAIN 9to0](https://ja.wikipedia.org/wiki/GROOVE_TRAIN_9to0 "wikilink")」に引き継がれた。
+    1997年4月〜1999年3月頃放送。福岡県内で支持を受けているダンス・ミュージック上位20曲を紹介。1999年4月以降は「[GROOVE TRAIN 9to0](../Page/GROOVE_TRAIN_9to0.md "wikilink")」に引き継がれた。
 
 <!-- end list -->
 
@@ -217,7 +217,7 @@
 
   -
     1999年4月〜2002年3月放送の[新日鉄提供コーナー](../Page/新日本製鐵.md "wikilink")。
-    1999年〜2001年3月までは45分コーナーとして、新曲、リリース直前の曲のリクエストを特集。当初1年の金曜日は「[RADIO SONIC](https://ja.wikipedia.org/wiki/RADIO_SONIC "wikilink")」内でオンエアされ、提供クレジットは永松ケンシが読み上げたものがジングルとして使われた。2000年4月からは永松ケンシ、鈴木麻由がそれぞれ番組内で直接読み上げた。
+    1999年〜2001年3月までは45分コーナーとして、新曲、リリース直前の曲のリクエストを特集。当初1年の金曜日は「[RADIO SONIC](../Page/RADIO_SONIC.md "wikilink")」内でオンエアされ、提供クレジットは永松ケンシが読み上げたものがジングルとして使われた。2000年4月からは永松ケンシ、鈴木麻由がそれぞれ番組内で直接読み上げた。
     2001年4月〜2002年3月は30分コーナーに短縮、主にゲストコーナーとして扱われた。短縮後の提供クレジットは英語で読み上げたものがジングル化された。
 
 <!-- end list -->

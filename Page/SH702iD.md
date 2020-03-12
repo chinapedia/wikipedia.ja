@@ -5,21 +5,21 @@
 
 ## 概要
 
-[N702iD](https://ja.wikipedia.org/wiki/N702iD "wikilink")、[F702iD](https://ja.wikipedia.org/wiki/F702iD "wikilink")とともに、702iDシリーズの先陣を切って発売された端末である。
+[N702iD](../Page/N702iD.md "wikilink")、[F702iD](../Page/F702iD.md "wikilink")とともに、702iDシリーズの先陣を切って発売された端末である。
 
-クリエイターの[松永真](https://ja.wikipedia.org/wiki/松永真 "wikilink")、シャープ、ドコモの3者によるコラボモデル。FOMA最小、最軽量（発売時）で、独特のスクエアな形状とキーのフォントが特徴である。
+クリエイターの[松永真](../Page/松永真.md "wikilink")、シャープ、ドコモの3者によるコラボモデル。FOMA最小、最軽量（発売時）で、独特のスクエアな形状とキーのフォントが特徴である。
 
 SDオーディオプレーヤーが搭載されており、Webページを閲覧したりメールを作成しながらでも音楽を再生できる機能を持っている。
 
 小型・軽量を重視したため機能がすくなく（iアプリにいたってはプリセットのゲーム類がない）、miniSDスロットが電池ホルダー内にあっても電源を切り電池パックを取り外さないと抜き差しができない。画面も小さめ。
 
-かなり軽量かつ小型のためmovaからの移行者からは「movaの2xx番に遙かに近い」と言う見方や、2台目のケータイなどにはもってこいの端末価格の安さは一部好評だった。同時発売の[N702iD](https://ja.wikipedia.org/wiki/N702iD "wikilink")の方がどちらかと言うと人気だった。
+かなり軽量かつ小型のためmovaからの移行者からは「movaの2xx番に遙かに近い」と言う見方や、2台目のケータイなどにはもってこいの端末価格の安さは一部好評だった。同時発売の[N702iD](../Page/N702iD.md "wikilink")の方がどちらかと言うと人気だった。
 
 ## 歴史
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")：[電気通信端末機器審査協会](https://ja.wikipedia.org/wiki/電気通信端末機器審査協会 "wikilink") (JATE)通過
+  - [2005年](../Page/2005年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")：[電気通信端末機器審査協会](../Page/電気通信端末機器審査協会.md "wikilink") (JATE)通過
   - 2005年[11月10日](../Page/11月10日.md "wikilink")：[技術基準適合証明](https://ja.wikipedia.org/wiki/技術基準適合証明 "wikilink") (TELEC) 通過
-  - 2006年[5月11日](../Page/5月11日.md "wikilink")：[D902iS](https://ja.wikipedia.org/wiki/D902iS "wikilink")、[F902iS](https://ja.wikipedia.org/wiki/F902iS "wikilink")、[P902iS](https://ja.wikipedia.org/wiki/P902iS "wikilink")、[N902iS](https://ja.wikipedia.org/wiki/N902iS "wikilink")、[SH902iS](https://ja.wikipedia.org/wiki/SH902iS "wikilink")、[SO902iWP+](https://ja.wikipedia.org/wiki/SO902iWP+ "wikilink")、[N902iX HIGH-SPEED](https://ja.wikipedia.org/wiki/N902iX_HIGH-SPEED "wikilink")、[DOLCE SL](https://ja.wikipedia.org/wiki/DOLCE_SL "wikilink")、[SO702i](https://ja.wikipedia.org/wiki/SO702i "wikilink")、[M2501 HIGH-SPEEDと同時にドコモよりプレスリリース](https://ja.wikipedia.org/wiki/M2501_HIGH-SPEED "wikilink")
+  - 2006年[5月11日](../Page/5月11日.md "wikilink")：[D902iS](../Page/D902iS.md "wikilink")、[F902iS](../Page/F902iS.md "wikilink")、[P902iS](../Page/P902iS.md "wikilink")、[N902iS](../Page/N902iS.md "wikilink")、[SH902iS](../Page/SH902iS.md "wikilink")、[SO902iWP+](../Page/SO902iWP+.md "wikilink")、[N902iX HIGH-SPEED](../Page/N902iX_HIGH-SPEED.md "wikilink")、[DOLCE SL](../Page/DOLCE_SL.md "wikilink")、[SO702i](../Page/SO702i.md "wikilink")、[M2501 HIGH-SPEEDと同時にドコモよりプレスリリース](../Page/M2501_HIGH-SPEED.md "wikilink")
   - 2006年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")：発売開始
 
 ## 不具合
@@ -32,8 +32,8 @@ SDオーディオプレーヤーが搭載されており、Webページを閲覧
 
   - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")
   - [シャープ](../Page/シャープ.md "wikilink")
-  - [N702iD](https://ja.wikipedia.org/wiki/N702iD "wikilink")
-  - [F702iD](https://ja.wikipedia.org/wiki/F702iD "wikilink")
+  - [N702iD](../Page/N702iD.md "wikilink")
+  - [F702iD](../Page/F702iD.md "wikilink")
   - [P702iD](../Page/P702iD.md "wikilink")
   - [D702iF](../Page/D702iF.md "wikilink")
   - [SH702iS](../Page/SH702iS.md "wikilink")

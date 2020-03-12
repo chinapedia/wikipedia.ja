@@ -1,23 +1,23 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**アーセナル・ウィメン・フットボール・クラブ** ()は、[イングランド](../Page/イングランド.md "wikilink")･[ロンドン](../Page/ロンドン.md "wikilink")を本拠地とする[女子サッカー](https://ja.wikipedia.org/wiki/女子サッカー "wikilink")クラブ。[アーセナルFC](../Page/アーセナルFC.md "wikilink")の系列クラブのひとつ。2011年からは新規発足した[FA WSLに所属している](https://ja.wikipedia.org/wiki/FA_WSL "wikilink")。
+**アーセナル・ウィメン・フットボール・クラブ** ()は、[イングランド](../Page/イングランド.md "wikilink")･[ロンドン](../Page/ロンドン.md "wikilink")を本拠地とする[女子サッカー](../Page/女子サッカー.md "wikilink")クラブ。[アーセナルFC](../Page/アーセナルFC.md "wikilink")の系列クラブのひとつ。2011年からは新規発足した[FA WSLに所属している](https://ja.wikipedia.org/wiki/FA_WSL "wikilink")。
 
 ## 歴史
 
-1987年、[アーセナルFC](../Page/アーセナルFC.md "wikilink")の用具監督である[ヴィック・エイカーズ](https://ja.wikipedia.org/wiki/ヴィック・エイカーズ "wikilink") ([Vic Akers](https://ja.wikipedia.org/wiki/:en:Vic_Akers "wikilink")) によって設立された。エイカーズは同クラブの初代監督に就任し、2009年、用具監督の職務に専念するため退任するまでの22年間同クラブの指揮を取った。1991-92年度、アーセナルはイングランド女子リーグカップ ([FA Women's Premier League Cup](https://ja.wikipedia.org/wiki/:en:FA_Women's_Premier_League_Cup "wikilink")) で優勝し、初めてのタイトルを獲得した。1992年に[FA女子プレミアリーグ](https://ja.wikipedia.org/wiki/FA女子プレミアリーグ "wikilink")が開幕した時、アーセナルは初年度から参入し、参入初年度を優勝という成績で終えた。2008-09年度終了までの間に、16のリーグタイトルのうち11を獲得し、そして3回準優勝した\[1\]。
+1987年、[アーセナルFC](../Page/アーセナルFC.md "wikilink")の用具監督である[ヴィック・エイカーズ](https://ja.wikipedia.org/wiki/ヴィック・エイカーズ "wikilink") ([Vic Akers](https://ja.wikipedia.org/wiki/:en:Vic_Akers "wikilink")) によって設立された。エイカーズは同クラブの初代監督に就任し、2009年、用具監督の職務に専念するため退任するまでの22年間同クラブの指揮を取った。1991-92年度、アーセナルはイングランド女子リーグカップ ([FA Women's Premier League Cup](https://ja.wikipedia.org/wiki/:en:FA_Women's_Premier_League_Cup "wikilink")) で優勝し、初めてのタイトルを獲得した。1992年に[FA女子プレミアリーグ](../Page/FA女子プレミアリーグ.md "wikilink")が開幕した時、アーセナルは初年度から参入し、参入初年度を優勝という成績で終えた。2008-09年度終了までの間に、16のリーグタイトルのうち11を獲得し、そして3回準優勝した\[1\]。
 
-2009年度までに、アーセナルは[FA女子カップ](https://ja.wikipedia.org/wiki/FA女子カップ "wikilink") ([FA Women's Cup](https://ja.wikipedia.org/wiki/:en:FA_Women's_Cup "wikilink")) で10回、FA女子プレミアリーグカップで10回 優勝し\[2\]、うち5度 (1994-95, 2003-04, 2005-06, 2006-07, 2007-08) 、FA杯とリーグ杯の2冠を達成した。また[UEFA女子カップにイングランド代表として](https://ja.wikipedia.org/wiki/UEFA女子チャンピオンズリーグ "wikilink")6度出場し\[3\]、2002-23年度および2004-05年度はベスト4の成績を修めた。
+2009年度までに、アーセナルは[FA女子カップ](https://ja.wikipedia.org/wiki/FA女子カップ "wikilink") ([FA Women's Cup](https://ja.wikipedia.org/wiki/:en:FA_Women's_Cup "wikilink")) で10回、FA女子プレミアリーグカップで10回 優勝し\[2\]、うち5度 (1994-95, 2003-04, 2005-06, 2006-07, 2007-08) 、FA杯とリーグ杯の2冠を達成した。また[UEFA女子カップにイングランド代表として](../Page/UEFA女子チャンピオンズリーグ.md "wikilink")6度出場し\[3\]、2002-23年度および2004-05年度はベスト4の成績を修めた。
 
 2006-07年度には、国内タイトル3冠を達成した\[4\]のみならず、UEFA女子カップにおいても[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[ウメオIKに合計](https://ja.wikipedia.org/wiki/ウメオIKダームフットボル "wikilink")1-0の成績で勝利して優勝。アーセナルはイングランドのクラブで初めての欧州チャンピオンとなった。当時のアーセナルはアマチュアチームであり、所属選手の殆どはフルタイムで仕事をしながらサッカーに打ち込んでいた、一方ウメオは選手全員がプロフェッショナル契約を結んでいたクラブであった\[5\]。この結果が認められて、アーセナルとエイカーズは2007年度SJA (英国スポーツジャーナリスト協会) スポーツ賞の委員会賞を受賞した\[6\]。
 
-2007-08年度はリーグ及び女子FAカップの2冠を達成した\[7\]が、UEFA女子カップでは準決勝で[オリンピック・リヨンに敗れて敗退し](https://ja.wikipedia.org/wiki/オリンピック・リヨン_\(女子\) "wikilink")、FA女子プレミアリーグカップでは決勝戦で[エヴァートンLFC](https://ja.wikipedia.org/wiki/エヴァートンLFC "wikilink")に敗れた。
+2007-08年度はリーグ及び女子FAカップの2冠を達成した\[7\]が、UEFA女子カップでは準決勝で[オリンピック・リヨンに敗れて敗退し](https://ja.wikipedia.org/wiki/オリンピック・リヨン_\(女子\) "wikilink")、FA女子プレミアリーグカップでは決勝戦で[エヴァートンLFC](../Page/エヴァートンLFC.md "wikilink")に敗れた。
 
-2008-09年度、アーセナルの2003年10月16日 ([チャールトン・アスレティックWFC](https://ja.wikipedia.org/wiki/チャールトン・アスレティックWFC "wikilink")に敗北した日) から続くリーグ戦無敗記録\[8\]が108試合で終了した。2009年3月29日、アーセナルはホームで[エヴァートンLFC](https://ja.wikipedia.org/wiki/エヴァートンLFC "wikilink")に0-3のスコアで敗北した\[9\]。 また2005年11月から2008年4月までの間に、51のリーグ戦を引き分けの結果で終えている\[10\]。
+2008-09年度、アーセナルの2003年10月16日 ([チャールトン・アスレティックWFC](../Page/チャールトン・アスレティックWFC.md "wikilink")に敗北した日) から続くリーグ戦無敗記録\[8\]が108試合で終了した。2009年3月29日、アーセナルはホームで[エヴァートンLFC](../Page/エヴァートンLFC.md "wikilink")に0-3のスコアで敗北した\[9\]。 また2005年11月から2008年4月までの間に、51のリーグ戦を引き分けの結果で終えている\[10\]。
 
-2008-09年度はリーグ･リーグ杯･FA杯で3冠を達成。リーグでは、優勝のためには勝利する事が必須であるという条件下\[11\]において、最大のライヴァルであった[エヴァートンLFC](https://ja.wikipedia.org/wiki/エヴァートンLFC "wikilink")に1-0で勝利し、タイトルを勝ち取った。この試合はエイカーズの監督として最後の試合となった。
+2008-09年度はリーグ･リーグ杯･FA杯で3冠を達成。リーグでは、優勝のためには勝利する事が必須であるという条件下\[11\]において、最大のライヴァルであった[エヴァートンLFC](../Page/エヴァートンLFC.md "wikilink")に1-0で勝利し、タイトルを勝ち取った。この試合はエイカーズの監督として最後の試合となった。
 
-エイカーズ退任後、[トニー・ジャーヴィス](https://ja.wikipedia.org/wiki/トニー・ジャーヴィス "wikilink") ([Tony Gervaise](https://ja.wikipedia.org/wiki/:en:Tony_Gervaise "wikilink")) が第2代監督に就任したが、8ヵ月後の2010年2月11日、ジャーヴィスはアカデミー (下部組織) のディレクター職への就任に伴い辞任、後任にはU-19[イングランド代表コーチだった](https://ja.wikipedia.org/wiki/サッカーイングランド女子代表 "wikilink")[ローラ・ハービー](https://ja.wikipedia.org/wiki/ローラ・ハービー "wikilink")が就任した\[12\]。
+エイカーズ退任後、[トニー・ジャーヴィス](https://ja.wikipedia.org/wiki/トニー・ジャーヴィス "wikilink") ([Tony Gervaise](https://ja.wikipedia.org/wiki/:en:Tony_Gervaise "wikilink")) が第2代監督に就任したが、8ヵ月後の2010年2月11日、ジャーヴィスはアカデミー (下部組織) のディレクター職への就任に伴い辞任、後任にはU-19[イングランド代表コーチだった](../Page/サッカーイングランド女子代表.md "wikilink")[ローラ・ハービー](https://ja.wikipedia.org/wiki/ローラ・ハービー "wikilink")が就任した\[12\]。
 
 2011年よりアーセナルはプレミアリーグに代わる最上位リーグとして新規発足した[FA WSLに参加](https://ja.wikipedia.org/wiki/FA_WSL "wikilink")。同年、リーグタイトル、FAカップ、コンチネンタルカップ（FA WSLカップ）の国内三冠を達成した。2012年にはリーグとWSLカップの二冠を獲得。2013年にはFAカップとWSLカップを獲得したが、リーグでは過去10年で初めて、クラブ史上でも過去1度しかない3位という成績に終わった\[13\]。2014年はFAカップで連覇を達成したものの、リーグ戦では開幕から4試合で勝ち点を1しかとれないなど不調を極め、過去最低を更新する4位に終わった。
 
@@ -25,11 +25,11 @@
 
 ## 選手
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Arsenal_Ladies.jpg "wikilink") 設立当初はアマチュアチームであったが、2002年よりセミプロフェッショナルチームとなった。2005年度[UEFA欧州女子選手権](https://ja.wikipedia.org/wiki/UEFA欧州女子選手権 "wikilink")に出場したイングランド代表には、アーセナルより3人の選手が選出された。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Arsenal_Ladies.jpg "wikilink") 設立当初はアマチュアチームであったが、2002年よりセミプロフェッショナルチームとなった。2005年度[UEFA欧州女子選手権](../Page/UEFA欧州女子選手権.md "wikilink")に出場したイングランド代表には、アーセナルより3人の選手が選出された。
 
 [カレン・カーニー](https://ja.wikipedia.org/wiki/カレン・カーニー "wikilink")、[アレックス・スコット](https://ja.wikipedia.org/wiki/アレックス・スコット_\(サッカー選手\) "wikilink")、そして[ケリー・スミス](https://ja.wikipedia.org/wiki/ケリー・スミス "wikilink")の3人は、2009年に開幕した[アメリカ女子プロサッカー](https://ja.wikipedia.org/wiki/アメリカ女子プロサッカー "wikilink")の所属クラブに移籍のため退団した。カーニーは[シカゴ・レッド・スターズ](https://ja.wikipedia.org/wiki/シカゴ・レッド・スターズ "wikilink")で、スミスとスコットは[ボストン・ブレイカーズ](https://ja.wikipedia.org/wiki/ボストン・ブレイカーズ "wikilink")でプレーしている。
 
-[男子のトップチーム同様にリザーヴチームを保有しており](../Page/アーセナルFC.md "wikilink")、主にアカデミー在籍中の選手が所属している。リザーヴチームは[FA女子プレミアリザーヴリーグで](https://ja.wikipedia.org/wiki/FA女子プレミアリーグ "wikilink")4度優勝し、[FA女子プレミアリザーヴリーグカップ](https://ja.wikipedia.org/wiki/FA女子プレミアリザーヴリーグカップ "wikilink")でも5度優勝を経験している。
+[男子のトップチーム同様にリザーヴチームを保有しており](../Page/アーセナルFC.md "wikilink")、主にアカデミー在籍中の選手が所属している。リザーヴチームは[FA女子プレミアリザーヴリーグで](../Page/FA女子プレミアリーグ.md "wikilink")4度優勝し、[FA女子プレミアリザーヴリーグカップ](https://ja.wikipedia.org/wiki/FA女子プレミアリザーヴリーグカップ "wikilink")でも5度優勝を経験している。
 
 ### 現在所属選手
 
@@ -41,25 +41,25 @@
 
   - [石田美穂子](https://ja.wikipedia.org/wiki/石田美穂子 "wikilink")（2003-2004）
   - 小川恵
-  - [中池桃子](https://ja.wikipedia.org/wiki/中池桃子 "wikilink")
-  - [近賀ゆかり](https://ja.wikipedia.org/wiki/近賀ゆかり "wikilink")（2014）
+  - [中池桃子](../Page/中池桃子.md "wikilink")
+  - [近賀ゆかり](../Page/近賀ゆかり.md "wikilink")（2014）
   - [大野忍](https://ja.wikipedia.org/wiki/大野忍 "wikilink")（2014）
 
 ## スタジアム
 
-[ハートフォードシャー](https://ja.wikipedia.org/wiki/ハートフォードシャー "wikilink")ボーハムウッド ([Borehamwood](https://ja.wikipedia.org/wiki/:en:Borehamwood "wikilink")) に所在するメドウ・パーク ([Meadow Park](https://ja.wikipedia.org/wiki/:en:Meadow_Park_\(Borehamwood\) "wikilink")) を[イスミアンリーグ・プレミアディヴィジョン](https://ja.wikipedia.org/wiki/イスミアンリーグ・プレミアディヴィジョン "wikilink")に属する[ボレアム・ウッドFC](https://ja.wikipedia.org/wiki/ボレアム・ウッドFC "wikilink")と共有しており、ここでホームゲームの殆どが行われる。観客席数は4,502席あるが、リーグ戦の殆どにおける観客動員数は1,000人を超えることはない。 ホームゲームのうち、[UEFA女子チャンピオンズリーグ](https://ja.wikipedia.org/wiki/UEFA女子チャンピオンズリーグ "wikilink")の試合は[セント・オールバンズ・シティFCのホームスタジアムであるクラレンス](https://ja.wikipedia.org/wiki/セント・アルバンズ・シティFC "wikilink")・パーク ([Clarence Park](https://ja.wikipedia.org/wiki/:en:Clarence_Park_\(St_Albans\) "wikilink")) で行われる。ロンドン・カウンティFA女子カップやリザーヴチームの試合は[ポッターズ・バー・タウンFC](https://ja.wikipedia.org/wiki/ポッターズ・バー・タウンFC "wikilink")のホームスタジアムであるパークフィールド ([Parkfield](https://ja.wikipedia.org/wiki/:en:Parkfield_\(stadium\) "wikilink")) で行われる。 アーセナルFC側のホームスタジアムである[アーセナル・スタジアム](https://ja.wikipedia.org/wiki/アーセナル・スタジアム "wikilink") (2005-06年度まで) や[エミレーツ・スタジアム](https://ja.wikipedia.org/wiki/エミレーツ・スタジアム "wikilink")での試合開催権も与えられている。
+[ハートフォードシャー](../Page/ハートフォードシャー.md "wikilink")ボーハムウッド ([Borehamwood](https://ja.wikipedia.org/wiki/:en:Borehamwood "wikilink")) に所在するメドウ・パーク ([Meadow Park](https://ja.wikipedia.org/wiki/:en:Meadow_Park_\(Borehamwood\) "wikilink")) を[イスミアンリーグ・プレミアディヴィジョン](../Page/イスミアンリーグ・プレミアディヴィジョン.md "wikilink")に属する[ボレアム・ウッドFC](../Page/ボレアム・ウッドFC.md "wikilink")と共有しており、ここでホームゲームの殆どが行われる。観客席数は4,502席あるが、リーグ戦の殆どにおける観客動員数は1,000人を超えることはない。 ホームゲームのうち、[UEFA女子チャンピオンズリーグ](../Page/UEFA女子チャンピオンズリーグ.md "wikilink")の試合は[セント・オールバンズ・シティFCのホームスタジアムであるクラレンス](https://ja.wikipedia.org/wiki/セント・アルバンズ・シティFC "wikilink")・パーク ([Clarence Park](https://ja.wikipedia.org/wiki/:en:Clarence_Park_\(St_Albans\) "wikilink")) で行われる。ロンドン・カウンティFA女子カップやリザーヴチームの試合は[ポッターズ・バー・タウンFC](https://ja.wikipedia.org/wiki/ポッターズ・バー・タウンFC "wikilink")のホームスタジアムであるパークフィールド ([Parkfield](https://ja.wikipedia.org/wiki/:en:Parkfield_\(stadium\) "wikilink")) で行われる。 アーセナルFC側のホームスタジアムである[アーセナル・スタジアム](../Page/アーセナル・スタジアム.md "wikilink") (2005-06年度まで) や[エミレーツ・スタジアム](../Page/エミレーツ・スタジアム.md "wikilink")での試合開催権も与えられている。
 
 ## アーセナルFCとの関連
 
 [アーセナルFC](../Page/アーセナルFC.md "wikilink")からの全面的後援を得ている。同クラブ前副会長の[デイヴィッド・デイン](https://ja.wikipedia.org/wiki/デイヴィッド・デイン "wikilink")は、2007年4月18日に退任するまで、レディース側の会長職にあった。デインの後任にはマネージング・ディレクターの[キース・エデルマン](https://ja.wikipedia.org/wiki/キース・エデルマン "wikilink")が就任し、2008年5月1日まで会長を務めた。
 
-選手の何人かはクラブに雇用されており、レディースやアカデミーの発展と統合に寄与している。[エミレーツ航空](https://ja.wikipedia.org/wiki/エミレーツ航空 "wikilink")と[ナイキ](https://ja.wikipedia.org/wiki/ナイキ "wikilink")はレディースチームにおいてもスポンサーをつとめている。
+選手の何人かはクラブに雇用されており、レディースやアカデミーの発展と統合に寄与している。[エミレーツ航空](../Page/エミレーツ航空.md "wikilink")と[ナイキ](../Page/ナイキ.md "wikilink")はレディースチームにおいてもスポンサーをつとめている。
 
 ## タイトル
 
 ### 国際
 
-  - [UEFA女子カップ](https://ja.wikipedia.org/wiki/UEFA女子チャンピオンズリーグ "wikilink")：1回 (2007年)
+  - [UEFA女子カップ](../Page/UEFA女子チャンピオンズリーグ.md "wikilink")：1回 (2007年)
 
 ### 国内
 

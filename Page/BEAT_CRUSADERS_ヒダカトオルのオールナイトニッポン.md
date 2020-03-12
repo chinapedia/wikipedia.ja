@@ -1,12 +1,12 @@
 > この記事は[BEAT CRUSADERS ](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS_)から翻訳されています。
 
 
-**BEAT CRUSADERS ヒダカトオルのオールナイトニッポン**(ビートクルセイダースヒダカトオルのオールナイトニッポン)は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[深夜番組](../Page/深夜番組.md "wikilink")[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")「[BEAT CRUSADERS](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink")」の[ヒダカトオル](https://ja.wikipedia.org/wiki/ヒダカトオル "wikilink")。
+**BEAT CRUSADERS ヒダカトオルのオールナイトニッポン**(ビートクルセイダースヒダカトオルのオールナイトニッポン)は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[深夜番組](../Page/深夜番組.md "wikilink")[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")「[BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")」の[ヒダカトオル](https://ja.wikipedia.org/wiki/ヒダカトオル "wikilink")。
 
 ## 概要
 
   - 番組の[コンセプトは](../Page/概念.md "wikilink")、『DT([童貞](../Page/童貞.md "wikilink"))\&SJ([処女](../Page/処女.md "wikilink"))のためのピュアな音楽番組』としているが、その一方で、フリートーク、コーナー共に下ネタが多め。
-  - ヒダカが普段[MCを行うとき同様](https://ja.wikipedia.org/wiki/司会 "wikilink")、「チェックする」を「チェックスする」、「〜ました。」を「〜マシータ。」、「〜です。」を「〜ドェス。」と言う。
+  - ヒダカが普段[MCを行うとき同様](../Page/司会.md "wikilink")、「チェックする」を「チェックスする」、「〜ました。」を「〜マシータ。」、「〜です。」を「〜ドェス。」と言う。
   - 他の曜日に比べて、ゲストを呼ぶ回が非常に多い。また、[スペシャルウィーク期間以外でのゲストは](../Page/聴取率.md "wikilink")、大抵、BEAT CRUSADERSと交流のあるバンドのメンバーである。
   - また、メンバーのカトウタロウが出る週が多く、準レギュラーのような形になっている。カトウは「またね」を「マタニティー」と言う。ヒダカはこれをよく「ウゼェ」と返すのが鉄板。
 
@@ -19,7 +19,7 @@
   - 2007年7月24日、前日に[松山にて全国ツアーの公演を行ったため](../Page/松山市.md "wikilink")、イベンターの事務所を借りて、松山から生放送を行った。
   - 2007年10月15日、ニッポン放送地下にあるイマジンスタジオにて、事前に募集したリスナー100人を招いてのアンプラグドライブ形式の放送を行う。
       - リスナーは全員、お面をつけての参加となった。
-  - 2007年12月31日、ヒダカは[COUNTDOWN JAPANのGALAXY](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") STAGEで、前番組「[ヤンピース](https://ja.wikipedia.org/wiki/ヤンピース "wikilink")」から7時間生放送を行った。
+  - 2007年12月31日、ヒダカは[COUNTDOWN JAPANのGALAXY](../Page/COUNTDOWN_JAPAN.md "wikilink") STAGEで、前番組「[ヤンピース](../Page/ヤンピース.md "wikilink")」から7時間生放送を行った。
       - ただし、自社番組などを放送する局はいつもと同じく2時間放送となっているところもある。
   - 2008年12月15日、番組から重大発表、ヒダカは12月いっぱいでオールナイトニッポンを降板し番組を終了します。
   - 2008年12月29日、放送終了。
@@ -56,7 +56,7 @@
   - [音楽](../Page/音楽.md "wikilink")[ニート](https://ja.wikipedia.org/wiki/ニート "wikilink")（初心者及びこれから音楽をはじめようとしている人）たちからの質問に答えつつ、最終的には彼らでNEET CRUSADERSというバンドを結成するというコーナー。
   - だいたい、2時の時報とともに始まる。
   - 毎週課題を出し、それを全てクリアした人達でオーディションのようなものを行って、メンバーを選別していく。
-  - 選出されたギタリストは2007年[4月9日](../Page/4月9日.md "wikilink")、[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")にて開催されるニッポン放送主催のライブイベント『オールナイトニッポン40周年始球式！らいぶはじめまAX』 にて、出演メンバーとともに、セッションなどを行った。
+  - 選出されたギタリストは2007年[4月9日](../Page/4月9日.md "wikilink")、[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")にて開催されるニッポン放送主催のライブイベント『オールナイトニッポン40周年始球式！らいぶはじめまAX』 にて、出演メンバーとともに、セッションなどを行った。
   - 『らいぶはじめまAX』終了後、全国ツアー中のBEAT CRUSADERSの指定されたライブ内にて、第二回のオーディションが行われた。
   - その後は当初の質問形式に戻りつつ、リスナーと電話を介してギターセッションをしていくコーナーになった。
   - また、送られてきたデモテープを流し、それに対して音楽的アドバイスを送る週もある。
@@ -72,7 +72,7 @@
 
 （例：普通の記号はピリオドだが、エロい記号はコンマ）
 
-  - 鉄板ネタとして、[植草教授シリーズや](https://ja.wikipedia.org/wiki/植草一秀 "wikilink")、1字違いシリーズがある。また、極稀にコアな下ネタを送るリスナーもいた。
+  - 鉄板ネタとして、[植草教授シリーズや](../Page/植草一秀.md "wikilink")、1字違いシリーズがある。また、極稀にコアな下ネタを送るリスナーもいた。
   - 下記の「エロイ陸上」が始まってからは放送されていない。
 
 ### エロイ○○
@@ -115,7 +115,7 @@
 
   - 2時40分ごろから始まる
   - ヒダカが選んだ往年のミュージシャンを紹介し、彼らの曲をかけるコーナー。
-  - BGMは「ヴェイパー・トレイルズ(ヴィーティーズ)」の「Don't Worry Baby」（邦題:サーフ・サイド・フリーウェイ）。なお、ヒダカは『[ベストヒットUSA](https://ja.wikipedia.org/wiki/ベストヒットUSA "wikilink")』のようなコーナーにしたいと発言している。
+  - BGMは「ヴェイパー・トレイルズ(ヴィーティーズ)」の「Don't Worry Baby」（邦題:サーフ・サイド・フリーウェイ）。なお、ヒダカは『[ベストヒットUSA](../Page/ベストヒットUSA.md "wikilink")』のようなコーナーにしたいと発言している。
 
 ### ヒダカ博士の愛した数式
 
@@ -164,7 +164,7 @@
 
 <!-- end list -->
 
-  - 2時10分頃から毎週放送されていたコーナーで、[光上せあら](https://ja.wikipedia.org/wiki/光上せあら "wikilink")と[宮脇詩音](https://ja.wikipedia.org/wiki/宮脇詩音 "wikilink")の二人が毎回、様々な勝負を行う。
+  - 2時10分頃から毎週放送されていたコーナーで、[光上せあら](../Page/光上せあら.md "wikilink")と[宮脇詩音](../Page/宮脇詩音.md "wikilink")の二人が毎回、様々な勝負を行う。
   - コーナー開始当初は、ヒダカたちとは別のスタジオで収録したものを放送していたが、途中からヒダカと同じスタジオに入り、セッションをかけた対決が毎週行われた。
   - 2008年2月4日の放送で二人は卒業。その日の放送では、二人がBEAT CRUSADERSの「HIT IN THE USA」を演奏した（光上はギター，宮脇がピアノを担当）。
 
@@ -234,7 +234,7 @@
 
 ## エンディングテーマ
 
-  - [ハリー・ニルソン](https://ja.wikipedia.org/wiki/ハリー・ニルソン "wikilink")『うわさの男』
+  - [ハリー・ニルソン](../Page/ハリー・ニルソン.md "wikilink")『うわさの男』
 
 ## ゲスト
 
@@ -244,47 +244,47 @@
 ### 2007年
 
   - [2月12日](../Page/2月12日.md "wikilink"):『らいぶはじめまAX』出演バンドメンバー
-      - [Base Ball Bear](https://ja.wikipedia.org/wiki/Base_Ball_Bear "wikilink")（[小出祐介](https://ja.wikipedia.org/wiki/小出祐介 "wikilink")、関根史織、湯浅将平、堀之内大介）
-      - [椿屋四重奏](https://ja.wikipedia.org/wiki/椿屋四重奏 "wikilink")(中田裕二のみ)
-      - [ジン](https://ja.wikipedia.org/wiki/ジン_\(バンド\) "wikilink")（ひぃたん、もとき、ハルカ）なお、ドラムの哲之は急病により欠席。
-  - [2月19日](../Page/2月19日.md "wikilink"):[ダイノジ](https://ja.wikipedia.org/wiki/ダイノジ "wikilink")、[相澤仁美](https://ja.wikipedia.org/wiki/相澤仁美 "wikilink")
-  - [2月26日](https://ja.wikipedia.org/wiki/2月26日 "wikilink"):[竹村あきら](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink")
-  - [3月19日](../Page/3月19日.md "wikilink")、[4月2日](../Page/4月2日.md "wikilink"):[サイトウ"JxJx"ジュン](https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD "wikilink")
+      - [Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")（[小出祐介](../Page/小出祐介.md "wikilink")、関根史織、湯浅将平、堀之内大介）
+      - [椿屋四重奏](../Page/椿屋四重奏.md "wikilink")(中田裕二のみ)
+      - [ジン](../Page/ジン_\(バンド\).md "wikilink")（ひぃたん、もとき、ハルカ）なお、ドラムの哲之は急病により欠席。
+  - [2月19日](../Page/2月19日.md "wikilink"):[ダイノジ](../Page/ダイノジ.md "wikilink")、[相澤仁美](https://ja.wikipedia.org/wiki/相澤仁美 "wikilink")
+  - [2月26日](../Page/2月26日.md "wikilink"):[竹村あきら](../Page/SNAIL_RAMP.md "wikilink")
+  - [3月19日](../Page/3月19日.md "wikilink")、[4月2日](../Page/4月2日.md "wikilink"):[サイトウ"JxJx"ジュン](../Page/YOUR_SONG_IS_GOOD.md "wikilink")
   - [4月9日](../Page/4月9日.md "wikilink")：『らいぶはじめまAX』出演バンドメンバー他
       - Base Ball Bear（小出祐介、関根史織、湯浅将平、堀之内大介）
       - ジン（ひぃたん、もとき、ハルカ、哲之）
       - 椿屋四重奏（中田裕二のみ）
-      - [YOUR SONG IS GOOD](https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD "wikilink")（サイトウ"JxJx"ジュン、タナカ"ズィ〜レイ"レイジ）
+      - [YOUR SONG IS GOOD](../Page/YOUR_SONG_IS_GOOD.md "wikilink")（サイトウ"JxJx"ジュン、タナカ"ズィ〜レイ"レイジ）
       - 第一回ニートクルセイダースギタリストオーディション優勝者
-  - [4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")：[SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")
+  - [4月16日](../Page/4月16日.md "wikilink")：[SEAMO](../Page/SEAMO.md "wikilink")
   - [4月23日](../Page/4月23日.md "wikilink")：[マキシマムザホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")（ダイスケはん、ナヲ）
-  - [4月30日](../Page/4月30日.md "wikilink")：サイトウ"JxJx"ジュン、[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")
+  - [4月30日](../Page/4月30日.md "wikilink")：サイトウ"JxJx"ジュン、[10-FEET](../Page/10-FEET.md "wikilink")
   - [5月7日](../Page/5月7日.md "wikilink")：[RYUKYUDISKO](https://ja.wikipedia.org/wiki/RYUKYUDISKO "wikilink")
   - [5月14日](../Page/5月14日.md "wikilink")：『サーガは気まぐれ』出演バンドメンバー
-      - [ASPARAGUS](https://ja.wikipedia.org/wiki/ASPARAGUS "wikilink")（渡邊忍、一瀬正和）
+      - [ASPARAGUS](../Page/ASPARAGUS.md "wikilink")（渡邊忍、一瀬正和）
       - [TROPICAL GORILLA](../Page/TROPICAL_GORILLA.md "wikilink")（Cim、MxTxRx、8P）
       - YOUR SONG IS GOOD（ヨシザワ"モ〜リス"マサトモ、タナカ"ズィ〜レイ"レイジ）
       - スカイメイツ(リノ、あーちゃん)なお、この二人は出演メンバーではない。
-  - [5月21日](../Page/5月21日.md "wikilink")：[TOSHI-LOW](https://ja.wikipedia.org/wiki/TOSHI-LOW "wikilink")（[OVERGROUND ACOUSTIC UNDERGROUND](https://ja.wikipedia.org/wiki/OVERGROUND_ACOUSTIC_UNDERGROUND "wikilink")、[BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink")）
+  - [5月21日](../Page/5月21日.md "wikilink")：[TOSHI-LOW](../Page/TOSHI-LOW.md "wikilink")（[OVERGROUND ACOUSTIC UNDERGROUND](../Page/OVERGROUND_ACOUSTIC_UNDERGROUND.md "wikilink")、[BRAHMAN](../Page/BRAHMAN.md "wikilink")）
   - [5月28日](../Page/5月28日.md "wikilink")：[メロン記念日](../Page/メロン記念日.md "wikilink")
-  - [6月4日](../Page/6月4日.md "wikilink")：[SPECIAL OTHERS](https://ja.wikipedia.org/wiki/SPECIAL_OTHERS "wikilink")
-  - [6月11日](../Page/6月11日.md "wikilink")：[青田典子](https://ja.wikipedia.org/wiki/青田典子 "wikilink")
-  - [6月18日](../Page/6月18日.md "wikilink")：[土屋礼央](https://ja.wikipedia.org/wiki/土屋礼央 "wikilink")・奥村政佳（[RAG FAIR](https://ja.wikipedia.org/wiki/RAG_FAIR "wikilink")）
-  - [7月9日](../Page/7月9日.md "wikilink")：[MONGOL800](../Page/MONGOL800.md "wikilink")、スカイメイツ、[Remark Spirits](https://ja.wikipedia.org/wiki/Remark_Spirits "wikilink")
+  - [6月4日](../Page/6月4日.md "wikilink")：[SPECIAL OTHERS](../Page/SPECIAL_OTHERS.md "wikilink")
+  - [6月11日](../Page/6月11日.md "wikilink")：[青田典子](../Page/青田典子.md "wikilink")
+  - [6月18日](../Page/6月18日.md "wikilink")：[土屋礼央](https://ja.wikipedia.org/wiki/土屋礼央 "wikilink")・奥村政佳（[RAG FAIR](../Page/RAG_FAIR.md "wikilink")）
+  - [7月9日](../Page/7月9日.md "wikilink")：[MONGOL800](../Page/MONGOL800.md "wikilink")、スカイメイツ、[Remark Spirits](../Page/Remark_Spirits.md "wikilink")
   - [7月16日](../Page/7月16日.md "wikilink")：[the ARROWS](https://ja.wikipedia.org/wiki/the_ARROWS "wikilink")（坂井竜二、坂井"CANDY"昌英）
-  - [7月30日](../Page/7月30日.md "wikilink")：[TRICERATOPS](https://ja.wikipedia.org/wiki/TRICERATOPS "wikilink")
+  - [7月30日](../Page/7月30日.md "wikilink")：[TRICERATOPS](../Page/TRICERATOPS.md "wikilink")
   - [8月13日](../Page/8月13日.md "wikilink")：ジン
   - [8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")：[the brilliant green](https://ja.wikipedia.org/wiki/the_brilliant_green "wikilink")
-  - [9月10日](../Page/9月10日.md "wikilink")：[斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink")
+  - [9月10日](../Page/9月10日.md "wikilink")：[斉藤和義](../Page/斉藤和義.md "wikilink")
   - [10月1日](../Page/10月1日.md "wikilink")：[斉藤安弘](../Page/斉藤安弘.md "wikilink")
-  - [10月8日](../Page/10月8日.md "wikilink")：[Pabo](https://ja.wikipedia.org/wiki/Pabo "wikilink")（[里田まい](https://ja.wikipedia.org/wiki/里田まい "wikilink")、[スザンヌ](https://ja.wikipedia.org/wiki/スザンヌ_\(タレント\) "wikilink")、[木下優樹菜](https://ja.wikipedia.org/wiki/木下優樹菜 "wikilink")）
+  - [10月8日](../Page/10月8日.md "wikilink")：[Pabo](https://ja.wikipedia.org/wiki/Pabo "wikilink")（[里田まい](https://ja.wikipedia.org/wiki/里田まい "wikilink")、[スザンヌ](../Page/スザンヌ_\(タレント\).md "wikilink")、[木下優樹菜](https://ja.wikipedia.org/wiki/木下優樹菜 "wikilink")）
   - [10月15日](../Page/10月15日.md "wikilink")：BEAT CRUSADERS
   - [10月22日](../Page/10月22日.md "wikilink")：[monobright](https://ja.wikipedia.org/wiki/monobright "wikilink")
   - [11月19日](../Page/11月19日.md "wikilink")：増子直純（[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")）
   - [12月3日](../Page/12月3日.md "wikilink")：[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")
   - [12月17日](../Page/12月17日.md "wikilink")：メロン記念日
-  - [12月31日](../Page/12月31日.md "wikilink")：umu（元・BEAT CRUSADERS）、[山里亮太](https://ja.wikipedia.org/wiki/山里亮太 "wikilink")（[南海キャンディーズ](https://ja.wikipedia.org/wiki/南海キャンディーズ "wikilink")）、[宮藤官九郎](../Page/宮藤官九郎.md "wikilink")（[グループ魂](https://ja.wikipedia.org/wiki/グループ魂 "wikilink")）、[Scoobie Do](https://ja.wikipedia.org/wiki/Scoobie_Do "wikilink")、YOUR SONG IS GOOD（サイトウ"JxJx"ジュン、タナカ"ズィ〜レイ"レイジ）、[星野源](https://ja.wikipedia.org/wiki/星野源 "wikilink")（[SAKEROCK](https://ja.wikipedia.org/wiki/SAKEROCK "wikilink")）、monobright、[中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")、ダイノジ、ダイスケはん（マキシマムザホルモン）、吉村秀樹（[bloodthirsty butchers](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")）、松井亮（the brilliant green）
-      - なお、南海キャンディーズ山里とは[ヤンピース](https://ja.wikipedia.org/wiki/ヤンピース "wikilink")のカウントダウンスペシャルでも共演（[山里亮太とヒダカトオルのヤンピースカウントダウンスペシャルとして](https://ja.wikipedia.org/wiki/南海キャンディーズ_山里亮太のヤンピース_フライデースペシャル#カウントダウンスペシャル "wikilink")）。
+  - [12月31日](../Page/12月31日.md "wikilink")：umu（元・BEAT CRUSADERS）、[山里亮太](../Page/山里亮太.md "wikilink")（[南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")）、[宮藤官九郎](../Page/宮藤官九郎.md "wikilink")（[グループ魂](../Page/グループ魂.md "wikilink")）、[Scoobie Do](../Page/Scoobie_Do.md "wikilink")、YOUR SONG IS GOOD（サイトウ"JxJx"ジュン、タナカ"ズィ〜レイ"レイジ）、[星野源](../Page/星野源.md "wikilink")（[SAKEROCK](../Page/SAKEROCK.md "wikilink")）、monobright、[中川翔子](../Page/中川翔子.md "wikilink")、ダイノジ、ダイスケはん（マキシマムザホルモン）、吉村秀樹（[bloodthirsty butchers](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")）、松井亮（the brilliant green）
+      - なお、南海キャンディーズ山里とは[ヤンピース](../Page/ヤンピース.md "wikilink")のカウントダウンスペシャルでも共演（[山里亮太とヒダカトオルのヤンピースカウントダウンスペシャルとして](https://ja.wikipedia.org/wiki/南海キャンディーズ_山里亮太のヤンピース_フライデースペシャル#カウントダウンスペシャル "wikilink")）。
 
 
 
@@ -293,8 +293,8 @@
   - マシータ：4月9日、4月30日、5月21日、5月28日、7月30日 - 9月17日
   - ケイタイモ：5月21日、8月6日 - 9月17日、10月8日
   - クボタマサヒコ：5月14日
-  - [光上せあら](https://ja.wikipedia.org/wiki/光上せあら "wikilink")：9月17日、10月22日 - 12月17日
-  - [宮脇詩音](https://ja.wikipedia.org/wiki/宮脇詩音 "wikilink")：10月1日、10月22日 - 12月17日
+  - [光上せあら](../Page/光上せあら.md "wikilink")：9月17日、10月22日 - 12月17日
+  - [宮脇詩音](../Page/宮脇詩音.md "wikilink")：10月1日、10月22日 - 12月17日
 
 ### 2008年
 
@@ -302,22 +302,22 @@
   - [2月4日](../Page/2月4日.md "wikilink")：[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")
   - [2月25日](../Page/2月25日.md "wikilink")：加藤ヒサシ（[THE COLLECTORS](https://ja.wikipedia.org/wiki/THE_COLLECTORS "wikilink")）
   - [3月17日](../Page/3月17日.md "wikilink"):スカイメイツ
-  - [3月31日](../Page/3月31日.md "wikilink"):オカモト"moby"タクヤ（[Scoobie Do](https://ja.wikipedia.org/wiki/Scoobie_Do "wikilink")）
+  - [3月31日](../Page/3月31日.md "wikilink"):オカモト"moby"タクヤ（[Scoobie Do](../Page/Scoobie_Do.md "wikilink")）
   - [4月14日](../Page/4月14日.md "wikilink"):[槇原敬之](../Page/槇原敬之.md "wikilink")
-  - [4月21日](../Page/4月21日.md "wikilink"):[マーティ・フリードマン](https://ja.wikipedia.org/wiki/マーティ・フリードマン "wikilink")
+  - [4月21日](../Page/4月21日.md "wikilink"):[マーティ・フリードマン](../Page/マーティ・フリードマン.md "wikilink")
   - [4月28日](../Page/4月28日.md "wikilink"):永友聖也（[キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")）
-  - [5月5日](../Page/5月5日.md "wikilink"):[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")、[マルコス・スザーノ](https://ja.wikipedia.org/wiki/マルコス・スザーノ "wikilink")、宮川剛、土屋玲子（[GANGA ZUMBA](https://ja.wikipedia.org/wiki/GANGA_ZUMBA "wikilink")）
+  - [5月5日](../Page/5月5日.md "wikilink"):[宮沢和史](../Page/宮沢和史.md "wikilink")、[マルコス・スザーノ](../Page/マルコス・スザーノ.md "wikilink")、宮川剛、土屋玲子（[GANGA ZUMBA](../Page/GANGA_ZUMBA.md "wikilink")）
   - [5月12日](../Page/5月12日.md "wikilink"):サイトウ"JxJx"ジュン、ハットリ“ショーティ”ヤスヒコ（YOUR SONG IS GOOD）
-  - [5月26日](../Page/5月26日.md "wikilink"):[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[AFRA & INCREDIBLE BEATBOX BAND](https://ja.wikipedia.org/wiki/AFRA_&_INCREDIBLE_BEATBOX_BAND "wikilink")
-  - [6月9日](../Page/6月9日.md "wikilink"):KENJI RAZORS、KRASH（[RAZORS EDGE](https://ja.wikipedia.org/wiki/RAZORS_EDGE "wikilink")）、菅原卓郎、中村和彦（[9mm Parabellum Bullet](https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet "wikilink")）
-  - [6月23日](../Page/6月23日.md "wikilink"):[DAITA](https://ja.wikipedia.org/wiki/DAITA "wikilink")、KEITA(BINECS)
+  - [5月26日](../Page/5月26日.md "wikilink"):[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[AFRA & INCREDIBLE BEATBOX BAND](../Page/AFRA_&_INCREDIBLE_BEATBOX_BAND.md "wikilink")
+  - [6月9日](../Page/6月9日.md "wikilink"):KENJI RAZORS、KRASH（[RAZORS EDGE](https://ja.wikipedia.org/wiki/RAZORS_EDGE "wikilink")）、菅原卓郎、中村和彦（[9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink")）
+  - [6月23日](../Page/6月23日.md "wikilink"):[DAITA](../Page/DAITA.md "wikilink")、KEITA(BINECS)
   - [6月30日](../Page/6月30日.md "wikilink"):ZUKAN
-  - [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink"):Ohyama "B.M.W" Wataru、[ヒイズミマサユ機](https://ja.wikipedia.org/wiki/H_ZETT_M "wikilink")、suzumoku（pe'zmoku）
+  - [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink"):Ohyama "B.M.W" Wataru、[ヒイズミマサユ機](../Page/H_ZETT_M.md "wikilink")、suzumoku（pe'zmoku）
   - [7月28日](../Page/7月28日.md "wikilink"):井戸勝英、大日野武則（Yacht.）
   - [8月4日](../Page/8月4日.md "wikilink"):RYUKYUDISKO
   - [8月18日](../Page/8月18日.md "wikilink"):[lecca](https://ja.wikipedia.org/wiki/lecca "wikilink")
-  - [9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink"):[カジヒデキ](https://ja.wikipedia.org/wiki/カジヒデキ "wikilink")
-  - [9月22日](../Page/9月22日.md "wikilink"):[KYONO](https://ja.wikipedia.org/wiki/KYONO "wikilink")（[WAGDUG FUTURISTIC UNITY](https://ja.wikipedia.org/wiki/WAGDUG_FUTURISTIC_UNITY "wikilink")）、[COM.A](https://ja.wikipedia.org/wiki/コーマ "wikilink")
+  - [9月8日](../Page/9月8日.md "wikilink"):[カジヒデキ](../Page/カジヒデキ.md "wikilink")
+  - [9月22日](../Page/9月22日.md "wikilink"):[KYONO](../Page/KYONO.md "wikilink")（[WAGDUG FUTURISTIC UNITY](../Page/WAGDUG_FUTURISTIC_UNITY.md "wikilink")）、[COM.A](../Page/コーマ.md "wikilink")
   - [9月29日](../Page/9月29日.md "wikilink"):[BREMEN (バンド)](https://ja.wikipedia.org/wiki/BREMEN_\(バンド\) "wikilink")
 
 
@@ -334,25 +334,25 @@
 
 ### 2007年
 
-  - [1月29日](../Page/1月29日.md "wikilink"):[清木場俊介](https://ja.wikipedia.org/wiki/清木場俊介 "wikilink")（清木場俊介のオールナイトニッポン）
-  - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink"):[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")（[小泉今日子のオールナイトニッポン](https://ja.wikipedia.org/wiki/小泉今日子のオールナイトニッポン "wikilink")）
+  - [1月29日](../Page/1月29日.md "wikilink"):[清木場俊介](../Page/清木場俊介.md "wikilink")（清木場俊介のオールナイトニッポン）
+  - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink"):[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")（[小泉今日子のオールナイトニッポン](../Page/小泉今日子のオールナイトニッポン.md "wikilink")）
   - [6月25日](../Page/6月25日.md "wikilink"):[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")(安室奈美恵のオールナイトニッポン)
   - [8月27日](../Page/8月27日.md "wikilink")　オールナイトニッポン40周年武道館ライブスペシャル　（パーソナリティ：[荘口彰久](../Page/荘口彰久.md "wikilink")）
   - [9月24日](../Page/9月24日.md "wikilink"):[パク・ヨンハ](../Page/パク・ヨンハ.md "wikilink")（パク・ヨンハのオールナイトニッポン）
   - [10月29日](../Page/10月29日.md "wikilink"):[jealkb](https://ja.wikipedia.org/wiki/jealkb "wikilink")（[jealkbのオールナイトニッポン](https://ja.wikipedia.org/wiki/jealkbのオールナイトニッポン "wikilink")）
   - [11月5日](../Page/11月5日.md "wikilink"):[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")（鬼束ちひろのオールナイトニッポン）
-  - [12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink"):[新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")（新垣結衣のオールナイトニッポン）
+  - [12月10日](../Page/12月10日.md "wikilink"):[新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")（新垣結衣のオールナイトニッポン）
   - [12月24日](../Page/12月24日.md "wikilink") 第33回[ラジオ・チャリティー・ミュージックソン](https://ja.wikipedia.org/wiki/ラジオ・チャリティー・ミュージックソン "wikilink")（メインパーソナリティ：[赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")・[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")\<[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")\>）
       - ヒダカはゲストで登場し、アコースティックギターによる生歌を披露した。
 
 ### 2008年
 
-  - 3月3日：[川上未映子](https://ja.wikipedia.org/wiki/川上未映子 "wikilink")（川上未映子のオールナイトニッポン）
+  - 3月3日：[川上未映子](../Page/川上未映子.md "wikilink")（川上未映子のオールナイトニッポン）
   - 3月10日：[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")（平井堅のオールナイトニッポン）
   - 5月19日：[松田聖子](../Page/松田聖子.md "wikilink")（[松田聖子のオールナイトニッポン](https://ja.wikipedia.org/wiki/松田聖子のオールナイトニッポン "wikilink")）
   - 6月16日：[jealkb](https://ja.wikipedia.org/wiki/jealkb "wikilink")（jealkbのオールナイトニッポン）
-  - 8月25日：[千原ジュニア](https://ja.wikipedia.org/wiki/千原ジュニア "wikilink")（千原ジュニアのオールナイトニッポン）
-  - 9月1日：[中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")（中川翔子のオールナイトニッポン）
+  - 8月25日：[千原ジュニア](../Page/千原ジュニア.md "wikilink")（千原ジュニアのオールナイトニッポン）
+  - 9月1日：[中川翔子](../Page/中川翔子.md "wikilink")（中川翔子のオールナイトニッポン）
   - 10月20日：[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")（SPEEDのオールナイトニッポン）
   - 11月17日：[大東俊介](https://ja.wikipedia.org/wiki/大東俊介 "wikilink")（大東俊介のオールナイトニッポン）
 
@@ -363,7 +363,7 @@
 
 ## 関連項目
 
-  - [ビートたけしのオールナイトニッポン](https://ja.wikipedia.org/wiki/ビートたけしのオールナイトニッポン "wikilink")（[1981年](../Page/1981年.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")放送。ヒダカのオールナイト同様、1月1日から放送されていた）
+  - [ビートたけしのオールナイトニッポン](../Page/ビートたけしのオールナイトニッポン.md "wikilink")（[1981年](../Page/1981年.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")放送。ヒダカのオールナイト同様、1月1日から放送されていた）
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[Daily-Echo](https://ja.wikipedia.org/wiki/Daily-Echo)から翻訳されています。
 
 
-**Daily-Echo**（デイリー･エコー）はかつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の2人組[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。1996年結成。1997年[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりデビュー。2007年7月4日に解散。
+**Daily-Echo**（デイリー･エコー）はかつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の2人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。1996年結成。1997年[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりデビュー。2007年7月4日に解散。
 
 ## メンバー
 
@@ -58,7 +58,7 @@
 <li>限りない世界</li>
 <li>薄明</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スペースシャワーTV" title="wikilink">スペースシャワーTV</a>1998年3月度<a href="https://ja.wikipedia.org/wiki/スペースシャワーTV歴代POWER_PUSH一覧" title="wikilink">POWER PUSH</a></p></td>
+<td><p><a href="../Page/スペースシャワーTV.md" title="wikilink">スペースシャワーTV</a>1998年3月度<a href="../Page/スペースシャワーTV歴代POWER_PUSH一覧.md" title="wikilink">POWER PUSH</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
@@ -80,7 +80,7 @@
 <li>街をゆく</li>
 <li>悲しみに暮れる街角</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ" title="wikilink">TBS系</a>「BLITZ INDEX」テーマ・ソング</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>「BLITZ INDEX」テーマ・ソング</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>

@@ -1,7 +1,7 @@
 > この記事は[Gimme A guitar](https://ja.wikipedia.org/wiki/Gimme_A_guitar)から翻訳されています。
 
 
-『**gimme A guitar**』（ギミ ア ギター）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のロック[バンド](../Page/バンド_\(音楽\).md "wikilink")、[SONS OF ALL PUSSYSの](https://ja.wikipedia.org/wiki/SONS_OF_ALL_PUSSYS "wikilink")2ndミニ[アルバム](../Page/アルバム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")発売。発売元は[DANGER CRUE RECORDS](https://ja.wikipedia.org/wiki/デンジャークルー "wikilink")。
+『**gimme A guitar**』（ギミ ア ギター）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のロック[バンド](../Page/バンド_\(音楽\).md "wikilink")、[SONS OF ALL PUSSYSの](../Page/SONS_OF_ALL_PUSSYS.md "wikilink")2ndミニ[アルバム](../Page/アルバム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")発売。発売元は[DANGER CRUE RECORDS](https://ja.wikipedia.org/wiki/デンジャークルー "wikilink")。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 本作のジャケットには[Sakuraの写真が使われている](https://ja.wikipedia.org/wiki/sakura_\(ドラマー\) "wikilink")。
 
-収録曲「罪の眺め」は[PVが制作され](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、PV集『[ICHIBAN-BLOW](https://ja.wikipedia.org/wiki/ICHIBAN-BLOW "wikilink")』に収録されている。
+収録曲「罪の眺め」は[PVが制作され](../Page/ミュージック・ビデオ.md "wikilink")、PV集『[ICHIBAN-BLOW](https://ja.wikipedia.org/wiki/ICHIBAN-BLOW "wikilink")』に収録されている。
 
 ## 収録曲
 

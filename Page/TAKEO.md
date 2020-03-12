@@ -1,13 +1,13 @@
 > この記事は[TAKEO](https://ja.wikipedia.org/wiki/TAKEO)から翻訳されています。
 
 
-**TAKEO**（タケオ、[1972年](../Page/1972年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[Angelo](https://ja.wikipedia.org/wiki/Angelo "wikilink")及び[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")の[ドラマー](../Page/ドラマー.md "wikilink")。
+**TAKEO**（タケオ、[1972年](../Page/1972年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[Angelo](../Page/Angelo.md "wikilink")及び[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")の[ドラマー](../Page/ドラマー.md "wikilink")。
 
 ## 来歴
 
-[1994年](../Page/1994年.md "wikilink")、[Pierrotに加入](https://ja.wikipedia.org/wiki/PIERROT "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、PIERROTの解散までのメンバーによる初の[アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")『[パンドラの匣](https://ja.wikipedia.org/wiki/パンドラの匣_\(アルバム\) "wikilink")』の制作を開始する。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[東芝EMIよりPIERROTのメンバーとして](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")[シングル](../Page/シングル.md "wikilink")「[クリア・スカイ](../Page/クリア・スカイ.md "wikilink")」で[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
+[1994年](../Page/1994年.md "wikilink")、[Pierrotに加入](https://ja.wikipedia.org/wiki/PIERROT "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、PIERROTの解散までのメンバーによる初の[アルバム](../Page/スタジオ・アルバム.md "wikilink")『[パンドラの匣](../Page/パンドラの匣_\(アルバム\).md "wikilink")』の制作を開始する。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[東芝EMIよりPIERROTのメンバーとして](../Page/EMIミュージック・ジャパン.md "wikilink")[シングル](../Page/シングル.md "wikilink")「[クリア・スカイ](../Page/クリア・スカイ.md "wikilink")」で[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[上領亘](https://ja.wikipedia.org/wiki/上領亘 "wikilink")とのプロジェクトG-Brainとして活動。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月12日、PIERROTの解散を発表。同年8月14日、PIERROTのキリト、KOHTAと共に[Angelo](https://ja.wikipedia.org/wiki/Angelo "wikilink")結成を発表。
+[2005年](../Page/2005年.md "wikilink")、[上領亘](../Page/上領亘.md "wikilink")とのプロジェクトG-Brainとして活動。[2006年](../Page/2006年.md "wikilink")4月12日、PIERROTの解散を発表。同年8月14日、PIERROTのキリト、KOHTAと共に[Angelo](../Page/Angelo.md "wikilink")結成を発表。
 
 [2014年](../Page/2014年.md "wikilink")4月12日、PIERROTの再結成コンサート「DICTATORS CIRCUS FINAL」を開催する事を発表\[1\]\[2\]\[3\]。10月24日・10月25日、PIERROTとして8年ぶりのライブを成功させる\[4\]。
 
@@ -33,7 +33,7 @@
 
 <!-- end list -->
 
-  - [喫煙](https://ja.wikipedia.org/wiki/喫煙 "wikilink")者で、吸っている煙草は[マールボロライトメンソールである](https://ja.wikipedia.org/wiki/マールボロ_\(たばこ\) "wikilink")。また、寝起きがかなり悪く、どれだけ遅刻していても寝起きの一服をしないと目覚めない。
+  - [喫煙](https://ja.wikipedia.org/wiki/喫煙 "wikilink")者で、吸っている煙草は[マールボロライトメンソールである](../Page/マールボロ_\(たばこ\).md "wikilink")。また、寝起きがかなり悪く、どれだけ遅刻していても寝起きの一服をしないと目覚めない。
 
 <!-- end list -->
 
@@ -49,17 +49,17 @@
 
 ## 使用機材
 
-[ドラムセット](../Page/ドラムセット.md "wikilink")は、初期から愛用している[Pearlの](https://ja.wikipedia.org/wiki/パール楽器製造 "wikilink")[メイプル](../Page/カエデ.md "wikilink")・シリーズを主軸として、[ロートタム数台をならべた仕様に加え](https://ja.wikipedia.org/wiki/ロート・トム "wikilink")、特殊な効果音などは[RolandV](../Page/ローランド.md "wikilink")-Drumパッドを数台配置し、そこからRoland TD-10に[トリガー振動として認識され](https://ja.wikipedia.org/wiki/シュミットトリガ "wikilink")、そこから内蔵音源と[サンプラー](../Page/サンプラー.md "wikilink")に[サンプリング](../Page/サンプリング.md "wikilink")された音色から出力されるようなシステムとなっている\[5\]。
+[ドラムセット](../Page/ドラムセット.md "wikilink")は、初期から愛用している[Pearlの](../Page/パール楽器製造.md "wikilink")[メイプル](../Page/カエデ.md "wikilink")・シリーズを主軸として、[ロートタム数台をならべた仕様に加え](../Page/ロート・トム.md "wikilink")、特殊な効果音などは[RolandV](../Page/ローランド.md "wikilink")-Drumパッドを数台配置し、そこからRoland TD-10に[トリガー振動として認識され](https://ja.wikipedia.org/wiki/シュミットトリガ "wikilink")、そこから内蔵音源と[サンプラー](../Page/サンプラー.md "wikilink")に[サンプリング](../Page/サンプリング.md "wikilink")された音色から出力されるようなシステムとなっている\[5\]。
 
 ## 出典
 
 ## 関連項目
 
-  - [Angelo](https://ja.wikipedia.org/wiki/Angelo "wikilink")
-      - [キリト](https://ja.wikipedia.org/wiki/キリト "wikilink")
+  - [Angelo](../Page/Angelo.md "wikilink")
+      - [キリト](../Page/キリト.md "wikilink")
       - [Karyu](https://ja.wikipedia.org/wiki/Karyu "wikilink")
       - [ギル](https://ja.wikipedia.org/wiki/ギル_\(ミュージシャン\) "wikilink")
-      - [KOHTA](https://ja.wikipedia.org/wiki/KOHTA "wikilink")
+      - [KOHTA](../Page/KOHTA.md "wikilink")
   - [PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")
       - [アイジ](https://ja.wikipedia.org/wiki/アイジ "wikilink")
       - [潤](../Page/潤.md "wikilink")

@@ -9,7 +9,7 @@
   - 2009年、[入江悠](https://ja.wikipedia.org/wiki/入江悠 "wikilink")監督作品「[SR サイタマノラッパー](https://ja.wikipedia.org/wiki/SR_サイタマノラッパー "wikilink")」にてラップ監修を担当し、伯周は伝説のTKD先輩役でも出演。
   - 2014年、1stアルバムリリースを機に、バンド名を"P.O.P"に変更。
   - 自主レーベル"インダハウス"設立。
-  - BIKKE([TOKYO No.1 SOUL SET](https://ja.wikipedia.org/wiki/TOKYO_No.1_SOUL_SET "wikilink"))、DJの[TAICHI MASTER](https://ja.wikipedia.org/wiki/TAICHI_MASTER "wikilink")、SR俳優陣、双子によるユニット「HELクライム」結成。
+  - BIKKE([TOKYO No.1 SOUL SET](../Page/TOKYO_No.1_SOUL_SET.md "wikilink"))、DJの[TAICHI MASTER](../Page/TAICHI_MASTER.md "wikilink")、SR俳優陣、双子によるユニット「HELクライム」結成。
   - 2015年、SUMMER SONIC 2015 "出れんの\!?サマソニ\!?"枠でライブ出演。
   - 2017年、[タイの](../Page/タイ王国.md "wikilink")[バンコク](../Page/バンコク.md "wikilink")で行われた都市型フェス[Cat Expo 4にライブ出演](https://ja.wikipedia.org/wiki/Cat_Expo_4 "wikilink")。
   - 2018年、[タイの](../Page/タイ王国.md "wikilink")[バンコク](../Page/バンコク.md "wikilink")で行われた東南アジア最大級のフェス[BIG MOUNTAIN MUSIC FESTIVALにライブ出演](https://ja.wikipedia.org/wiki/BIG_MOUNTAIN_MUSIC_FESTIVAL "wikilink")。
@@ -41,7 +41,7 @@
     [横浜市](../Page/横浜市.md "wikilink")出身([1984年](../Page/1984年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink") - )。Soupnoteでも活動中。
   - ヤマザキタケル
     キーボード担当。
-    [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身([1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[7月18日](../Page/7月18日.md "wikilink") - )。さいとうりょうじとジャズデュオでも活動中。
+    [東京都](../Page/東京都.md "wikilink")出身([1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[7月18日](../Page/7月18日.md "wikilink") - )。さいとうりょうじとジャズデュオでも活動中。
 
 ## 元メンバー
 
@@ -75,7 +75,7 @@
 <li>煩悩Thank you</li>
 <li>フインキーワード</li>
 <li>INTERLUDE by Baba</li>
-<li>夢で遊びたい feat.<a href="https://ja.wikipedia.org/wiki/Small_Circle_of_Friends" title="wikilink">Small Circle of Friends</a></li>
+<li>夢で遊びたい feat.<a href="../Page/Small_Circle_of_Friends.md" title="wikilink">Small Circle of Friends</a></li>
 <li>Don't think.BEER!</li>
 <li>涙</li>
 <li>INTERLUDE by Naoki</li>
@@ -84,7 +84,7 @@
 <li>門 to the 門</li>
 <li>INTERLUDE by Takashi</li>
 <li>舐めアイデンティティ</li>
-<li>中学生日記 feat.<a href="https://ja.wikipedia.org/wiki/BIKKE" title="wikilink">BIKKE</a>(<a href="https://ja.wikipedia.org/wiki/TOKYO_No.1_SOUL_SET" title="wikilink">TOKYO No.1 SOUL SET</a>)</li>
+<li>中学生日記 feat.<a href="https://ja.wikipedia.org/wiki/BIKKE" title="wikilink">BIKKE</a>(<a href="../Page/TOKYO_No.1_SOUL_SET.md" title="wikilink">TOKYO No.1 SOUL SET</a>)</li>
 <li>勝手に危ないラップ道場 feat.<a href="https://ja.wikipedia.org/wiki/ダースレイダー" title="wikilink">DARTHREIDER</a></li>
 <li>S.F.M.F.</li>
 <li>INTERLUDE by Ryoji</li>
@@ -98,7 +98,7 @@
 <td><p><strong>おかあさんにきいてみないとわからない</strong></p></td>
 <td><ol>
 <li>おかあさんにきいてみないとわからない feat. <a href="https://ja.wikipedia.org/wiki/BIKKE" title="wikilink">BIKKE</a></li>
-<li>Stand by me feat. <a href="https://ja.wikipedia.org/wiki/椎名純平" title="wikilink">椎名純平</a></li>
+<li>Stand by me feat. <a href="../Page/椎名純平.md" title="wikilink">椎名純平</a></li>
 <li>The Last Train feat. 馬場智也</li>
 <li>平等にWEEKEND feat. Cello a.k.a Massan</li>
 <li>TOKYO JUNCTION feat. <a href="https://ja.wikipedia.org/wiki/:th:%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B9%8C_%E0%B9%80%E0%B8%AD%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%96%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%AA%E0%B8%B8%E0%B8%82" title="wikilink">STAMP</a></li>
@@ -199,7 +199,7 @@
 <li>初まりの日 feat. <a href="https://ja.wikipedia.org/wiki/中塚武" title="wikilink">中塚武</a></li>
 <li>路地のピアノ feat. さいとうりょうじ</li>
 <li>The Last Train feat. 馬場智也</li>
-<li>Watch me (<a href="https://ja.wikipedia.org/wiki/YMCK" title="wikilink">YMCK</a> 8bit REMIX)</li>
+<li>Watch me (<a href="../Page/YMCK.md" title="wikilink">YMCK</a> 8bit REMIX)</li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -248,19 +248,19 @@
 | 発売日         | タイトル                             | 収録作品                                                                                                         | 規格品番      |
 | ----------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------- |
 | 2011年7月20日  | Lift me up\~space cowboy\~       | The Cubes「POLYHEDRA」                                                                                         | IFLX-1    |
-| 2012年11月10日 | Teenage of the year              | [HONDALADY](https://ja.wikipedia.org/wiki/HONDALADY "wikilink") Tribute Album「10x10」                         | HLCD-103  |
-| 2013年10月2日  | 未来の懐メロ                           | [YMCK](https://ja.wikipedia.org/wiki/YMCK "wikilink") 「FAMILY DAYS」                                          | NOT-0004  |
-| 2014年4月3日   | キッズ・アー・ノット・オールライト                | [HONDALADY](https://ja.wikipedia.org/wiki/HONDALADY "wikilink")「LOOPER LOOPER」                               | DDCH-2344 |
+| 2012年11月10日 | Teenage of the year              | [HONDALADY](../Page/HONDALADY.md "wikilink") Tribute Album「10x10」                                            | HLCD-103  |
+| 2013年10月2日  | 未来の懐メロ                           | [YMCK](../Page/YMCK.md "wikilink") 「FAMILY DAYS」                                                             | NOT-0004  |
+| 2014年4月3日   | キッズ・アー・ノット・オールライト                | [HONDALADY](../Page/HONDALADY.md "wikilink")「LOOPER LOOPER」                                                  | DDCH-2344 |
 | 2016年2月17日  | enter the Kemushi feat. RUN K:mc | m.c;ShockBoots「Botanical」(from NHK BSプレミアム「[植物男子ベランダー](https://ja.wikipedia.org/wiki/植物男子ベランダー "wikilink")」) | UVCA-3034 |
 |             |                                  |                                                                                                              |           |
 
 ### 参加作品（配信）
 
-| 発売日        | タイトル                        |                                                                                                                                     |
-| ---------- | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 2015年8月2日  | '''Salvia (feat. P.O.P) ''' | [YAPANI\!](https://ja.wikipedia.org/wiki/YAPANI! "wikilink") ボーカルコラボ第1弾シングル                                                         |
-| 2016年2月25日 | **Game Over**               | [YMCK](https://ja.wikipedia.org/wiki/YMCK "wikilink")とタイの[Stampとの楽曲に双子がボーカル参加](https://ja.wikipedia.org/wiki/スタンプ・アピワット "wikilink") |
-|            |                             |                                                                                                                                     |
+| 発売日        | タイトル                        |                                                                                                                  |
+| ---------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 2015年8月2日  | '''Salvia (feat. P.O.P) ''' | [YAPANI\!](https://ja.wikipedia.org/wiki/YAPANI! "wikilink") ボーカルコラボ第1弾シングル                                      |
+| 2016年2月25日 | **Game Over**               | [YMCK](../Page/YMCK.md "wikilink")とタイの[Stampとの楽曲に双子がボーカル参加](https://ja.wikipedia.org/wiki/スタンプ・アピワット "wikilink") |
+|            |                             |                                                                                                                  |
 
 ### その他のシングル・アルバム
 
@@ -287,14 +287,14 @@
 
 ### テレビ
 
-| 番組名                                                                                                                                                                                                     | 備考                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| [NHK Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")「[ムジカ・ピッコリーノ](https://ja.wikipedia.org/wiki/ムジカ・ピッコリーノ "wikilink")」                                                                      | ラップ監修、楽曲提供                        |
-| [NHK Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")「[シャキーン\!](https://ja.wikipedia.org/wiki/シャキーン! "wikilink")」                                                                             | ラップ監修、楽曲提供、「インキーヨウキー」役で「テレコRAP」出演 |
-| [NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")「[植物男子ベランダー](https://ja.wikipedia.org/wiki/植物男子ベランダー "wikilink")」                                                                    | ラップ監修、楽曲提供、「RUN K:mc」として出演        |
-| [日本テレビ系列](../Page/日本テレビ系列.md "wikilink")「[レンタル救世主](https://ja.wikipedia.org/wiki/レンタル救世主 "wikilink")」（2016年10月-12月)                                                                                     | ラップ監修                             |
-| [歌謡ポップスチャンネル](https://ja.wikipedia.org/wiki/歌謡ポップスチャンネル "wikilink")「[WOWOW PLUS MUSIC -深夜1時の音楽タイム-](https://ja.wikipedia.org/wiki/WOWOW_PLUS_MUSIC_-深夜1時の音楽タイム- "wikilink")」（2018年11月-2019年1月)          | 水曜担当　「P.O.Pのたのしいことばかりありますように」出演   |
-| [テレビ東京系列](https://ja.wikipedia.org/wiki/テレビ東京系列 "wikilink")『[おはスタ](https://ja.wikipedia.org/wiki/おはスタ "wikilink")』内アニメ「[Bラッパーズ ストリート](https://ja.wikipedia.org/wiki/Bラッパーズ_ストリート "wikilink")」（2019年4月-) | ラップ監修、楽曲提供                        |
+| 番組名                                                                                                                                                                                  | 備考                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------- |
+| [NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink")「[ムジカ・ピッコリーノ](https://ja.wikipedia.org/wiki/ムジカ・ピッコリーノ "wikilink")」                                                                      | ラップ監修、楽曲提供                        |
+| [NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink")「[シャキーン\!](https://ja.wikipedia.org/wiki/シャキーン! "wikilink")」                                                                             | ラップ監修、楽曲提供、「インキーヨウキー」役で「テレコRAP」出演 |
+| [NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")「[植物男子ベランダー](https://ja.wikipedia.org/wiki/植物男子ベランダー "wikilink")」                                                 | ラップ監修、楽曲提供、「RUN K:mc」として出演        |
+| [日本テレビ系列](../Page/日本テレビ系列.md "wikilink")「[レンタル救世主](https://ja.wikipedia.org/wiki/レンタル救世主 "wikilink")」（2016年10月-12月)                                                                  | ラップ監修                             |
+| [歌謡ポップスチャンネル](../Page/歌謡ポップスチャンネル.md "wikilink")「[WOWOW PLUS MUSIC -深夜1時の音楽タイム-](https://ja.wikipedia.org/wiki/WOWOW_PLUS_MUSIC_-深夜1時の音楽タイム- "wikilink")」（2018年11月-2019年1月)          | 水曜担当　「P.O.Pのたのしいことばかりありますように」出演   |
+| [テレビ東京系列](https://ja.wikipedia.org/wiki/テレビ東京系列 "wikilink")『[おはスタ](../Page/おはスタ.md "wikilink")』内アニメ「[Bラッパーズ ストリート](https://ja.wikipedia.org/wiki/Bラッパーズ_ストリート "wikilink")」（2019年4月-) | ラップ監修、楽曲提供                        |
 
 ### CM
 
@@ -312,16 +312,16 @@
 
 ### その他関連作品
 
-| 作品                                                                      | 備考                                                                                                                                           |
-| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [「チャットワーク」プレゼンラップ](https://www.youtube.com/watch?v=akSkhcrsZkA)         | [ChatWork](https://ja.wikipedia.org/wiki/ChatWork "wikilink")のプレゼンラップ制作。[ライフハッカー](https://ja.wikipedia.org/wiki/ライフハッカー "wikilink")との共同企画。   |
-| 「ESET（ESET）」プレゼンラップ                                                     | セキュリティ・ウイルス対策ソフト「[ESET](../Page/ESET_Smart_Security.md "wikilink")（イーセット）」のプレゼンラップ制作。                                                        |
-| [「Nomad.(ノマド)」PRラップ](https://www.youtube.com/watch?v=cmMGomjMuC8)       | お部屋探しコンシェルジュサービス「Nomad.(ノマド)」のPR制作。                                                                                                          |
-| [「マッチアラーム」PRラップ](https://www.youtube.com/watch?v=TWAfwi9VKR0)           | 婚活アプリ「マッチアラーム」のPRラップ制作。                                                                                                                      |
-| [「人狼ゲーム」紹介ラップ](https://www.youtube.com/watch?v=KwfoGE0htd4)             | 会話型心理ゲーム「人狼（[汝は人狼なりや?](https://ja.wikipedia.org/wiki/汝は人狼なりや? "wikilink")）」を紹介する「人狼ラップ」PRラップ制作。                                              |
-| [宇都宮市観光PR曲「Right now！宇都宮」](https://www.youtube.com/watch?v=FSqX7-CTX3o) | [宇都宮市](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")観光PR曲「Right now！宇都宮」制作。全10バージョン。                                                        |
-| [GMOペパボ株式会社「採用目的」](https://www.youtube.com/watch?v=BdQVd1uybCg)         | [GMOインターネット](https://ja.wikipedia.org/wiki/GMOインターネット "wikilink")グループの[GMOペパボ](https://ja.wikipedia.org/wiki/GMOペパボ "wikilink")株式会社の採用支援ラップ。 |
-|                                                                         |                                                                                                                                              |
+| 作品                                                                      | 備考                                                                                                                                         |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [「チャットワーク」プレゼンラップ](https://www.youtube.com/watch?v=akSkhcrsZkA)         | [ChatWork](https://ja.wikipedia.org/wiki/ChatWork "wikilink")のプレゼンラップ制作。[ライフハッカー](https://ja.wikipedia.org/wiki/ライフハッカー "wikilink")との共同企画。 |
+| 「ESET（ESET）」プレゼンラップ                                                     | セキュリティ・ウイルス対策ソフト「[ESET](../Page/ESET_Smart_Security.md "wikilink")（イーセット）」のプレゼンラップ制作。                                                      |
+| [「Nomad.(ノマド)」PRラップ](https://www.youtube.com/watch?v=cmMGomjMuC8)       | お部屋探しコンシェルジュサービス「Nomad.(ノマド)」のPR制作。                                                                                                        |
+| [「マッチアラーム」PRラップ](https://www.youtube.com/watch?v=TWAfwi9VKR0)           | 婚活アプリ「マッチアラーム」のPRラップ制作。                                                                                                                    |
+| [「人狼ゲーム」紹介ラップ](https://www.youtube.com/watch?v=KwfoGE0htd4)             | 会話型心理ゲーム「人狼（[汝は人狼なりや?](../Page/汝は人狼なりや?.md "wikilink")）」を紹介する「人狼ラップ」PRラップ制作。                                                               |
+| [宇都宮市観光PR曲「Right now！宇都宮」](https://www.youtube.com/watch?v=FSqX7-CTX3o) | [宇都宮市](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")観光PR曲「Right now！宇都宮」制作。全10バージョン。                                                      |
+| [GMOペパボ株式会社「採用目的」](https://www.youtube.com/watch?v=BdQVd1uybCg)         | [GMOインターネット](../Page/GMOインターネット.md "wikilink")グループの[GMOペパボ](../Page/GMOペパボ.md "wikilink")株式会社の採用支援ラップ。                                     |
+|                                                                         |                                                                                                                                            |
 
 ## 外部リンク
 

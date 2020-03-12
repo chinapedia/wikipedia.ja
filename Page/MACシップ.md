@@ -1,7 +1,7 @@
 > この記事は[MAC](https://ja.wikipedia.org/wiki/MAC)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/画像:Mv_alexia.jpg "wikilink") **MACシップ**または**商船空母**(Merchant aircraft carrier)とは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前半に[イギリス海軍](../Page/イギリス海軍.md "wikilink")が運用した[商船](https://ja.wikipedia.org/wiki/商船 "wikilink")に[飛行甲板](https://ja.wikipedia.org/wiki/飛行甲板 "wikilink")を設置した簡易[航空母艦](../Page/航空母艦.md "wikilink")の事である。[護衛空母](../Page/護衛空母.md "wikilink")の大量就役まで、[船団護衛](https://ja.wikipedia.org/wiki/船団護衛 "wikilink")の役目を担い、[ドイツ軍の](https://ja.wikipedia.org/wiki/ドイツ国防軍 "wikilink")[通商破壊](../Page/通商破壊.md "wikilink")に対抗した。
+[thumb](https://ja.wikipedia.org/wiki/画像:Mv_alexia.jpg "wikilink") **MACシップ**または**商船空母**(Merchant aircraft carrier)とは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前半に[イギリス海軍](../Page/イギリス海軍.md "wikilink")が運用した[商船](https://ja.wikipedia.org/wiki/商船 "wikilink")に[飛行甲板](../Page/飛行甲板.md "wikilink")を設置した簡易[航空母艦](../Page/航空母艦.md "wikilink")の事である。[護衛空母](../Page/護衛空母.md "wikilink")の大量就役まで、[船団護衛](https://ja.wikipedia.org/wiki/船団護衛 "wikilink")の役目を担い、[ドイツ軍の](../Page/ドイツ国防軍.md "wikilink")[通商破壊](../Page/通商破壊.md "wikilink")に対抗した。
 
 ## 概要
 
@@ -13,13 +13,13 @@
 
 最初に完成したMACシップは、1943年7月竣工のエンパイア・マックアルペインである。これは、建造途中の穀物運搬船をMACシップとして設計変更したものである。合計で3級19隻が改造された。MACシップは船団護衛の対潜哨戒において、十分な役割を果たしたものの、護衛空母が大量に就役するにいたって、その役目を終え、戦争後半に通常の商船に戻されている。
 
-なお、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")船籍の[タンカー](https://ja.wikipedia.org/wiki/タンカー "wikilink")を改造した2隻は、オランダ人の船員によって運航され、航空要員も自由オランダ軍の部隊が乗船していた。
+なお、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")船籍の[タンカー](../Page/タンカー.md "wikilink")を改造した2隻は、オランダ人の船員によって運航され、航空要員も自由オランダ軍の部隊が乗船していた。
 
 ## 艤装要領
 
 [thumb](https://ja.wikipedia.org/wiki/画像:The_Royal_Navy_during_the_Second_World_War_A22094.jpg "wikilink") 原型となった船によって若干異なるが、船体に支柱が立てられて130mから140m程度の飛行甲板が張られ、右舷に小さな船橋構造物が置かれている。飛行甲板には4条の着艦制動索が設けられた。どのクラスでも搭載機数はわずか4機であり、タンカーを原型としたラパナ級とエンパイア・マッケイ級は格納庫を持たないので露天係止されていた。
 
-穀物運搬船を原型としたエンパイア・マックアルペイン級だけは、飛行甲板下の格納庫とエレベーター1基が設置されている。また、[カタパルト](../Page/カタパルト.md "wikilink")はいずれの級でも装備されていない。搭載機は[ソードフィッシュが用いられたために](https://ja.wikipedia.org/wiki/フェアリー_ソードフィッシュ "wikilink")、カタパルトを持たない小さな飛行甲板であっても運用が可能であった。
+穀物運搬船を原型としたエンパイア・マックアルペイン級だけは、飛行甲板下の格納庫とエレベーター1基が設置されている。また、[カタパルト](../Page/カタパルト.md "wikilink")はいずれの級でも装備されていない。搭載機は[ソードフィッシュが用いられたために](../Page/フェアリー_ソードフィッシュ.md "wikilink")、カタパルトを持たない小さな飛行甲板であっても運用が可能であった。
 
 ## MACシップ 各級
 

@@ -9,13 +9,13 @@
 
 ### KS-I / II
 
-[KS2_.jpg](https://ja.wikipedia.org/wiki/File:KS2_.jpg "fig:KS2_.jpg") **KS-I**と**KS-II**は共に[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")発売された。[エンジン](../Page/エンジン.md "wikilink")は[ARシリーズからの流用で](https://ja.wikipedia.org/wiki/カワサキ・AR "wikilink")、KS-Iは50cc・KS-IIは80ccを搭載しており、前後に10インチのタイヤを装備したミニサイズの車両で、[デュアルパーパス](../Page/デュアルパーパス.md "wikilink")の外見ながらオンロード寄りの走行を重点に置いた、スーパーバイカーズ（当時はモタードという言葉がなかった）仕様のモデルであった。車重、大きさともに原付50ccクラスの車体で、KS-IIは最高速90km程度で俊足イメージが高かった。
+[KS2_.jpg](https://ja.wikipedia.org/wiki/File:KS2_.jpg "fig:KS2_.jpg") **KS-I**と**KS-II**は共に[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")発売された。[エンジン](../Page/エンジン.md "wikilink")は[ARシリーズからの流用で](../Page/カワサキ・AR.md "wikilink")、KS-Iは50cc・KS-IIは80ccを搭載しており、前後に10インチのタイヤを装備したミニサイズの車両で、[デュアルパーパス](../Page/デュアルパーパス.md "wikilink")の外見ながらオンロード寄りの走行を重点に置いた、スーパーバイカーズ（当時はモタードという言葉がなかった）仕様のモデルであった。車重、大きさともに原付50ccクラスの車体で、KS-IIは最高速90km程度で俊足イメージが高かった。
 
 しかし当時はライバル車種である[ヤマハ・TDR](../Page/ヤマハ・TDR.md "wikilink")のほうが人気が高かったことから、後にKSRへのモデルチェンジを受けることになった。販売期間も約3年と短命であったためか、現在ではほとんど見ることもなく情報も少ない。 {{-}}
 
 ### KSR-I
 
-**KSR-I**は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に発売された。KSのフルモデルチェンジであり、[ヤマハ・TDR](../Page/ヤマハ・TDR.md "wikilink")に対抗するためか特に足回りを強化しており、前後輪に12インチタイヤとブレーキディスクを装備し、フロントフォークにはこのクラスでは珍しく倒立サスペンションを用いていた。またエンジンも[空冷だったものを](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[水冷化させている](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")。
+**KSR-I**は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に発売された。KSのフルモデルチェンジであり、[ヤマハ・TDR](../Page/ヤマハ・TDR.md "wikilink")に対抗するためか特に足回りを強化しており、前後輪に12インチタイヤとブレーキディスクを装備し、フロントフォークにはこのクラスでは珍しく倒立サスペンションを用いていた。またエンジンも[空冷だったものを](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[水冷化させている](../Page/水冷エンジン.md "wikilink")。
 
 総合的な性能の良さから評価は高く、10年ほど発売され続けたロングセラー車両となったが、環境規制のため2ストロークエンジンの仕様が困難になったために発売は終了した。
 
@@ -33,7 +33,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:ksr110.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:ksrpro.jpg "wikilink") **KSR110**は[2003年](../Page/2003年.md "wikilink")に発売された。KSR-IIの販売終了を受けて発売された車両で、[タイの現地法人で生産された車両を日本に輸入し正規販売を行っていた](../Page/タイ王国.md "wikilink")。
 
-車体はフルモデルチェンジせずにほぼ流用しているが、エンジンは競技用車両の[KLX110で用いている空冷](https://ja.wikipedia.org/wiki/カワサキ・KLX "wikilink")4ストロークエンジンを流用して搭載している。そのため変速機もKLX110同様の遠心クラッチ式となっており、クラッチレバーを不要にしているので[AT限定免許でも運転が可能になっている](https://ja.wikipedia.org/wiki/オートマチック限定免許 "wikilink")。なお遠心クラッチや4ストロークエンジンを装備したことにより走行性能はKSR-IIより低下しているが、遠心クラッチを手動式に変更するキットが流通している。
+車体はフルモデルチェンジせずにほぼ流用しているが、エンジンは競技用車両の[KLX110で用いている空冷](https://ja.wikipedia.org/wiki/カワサキ・KLX "wikilink")4ストロークエンジンを流用して搭載している。そのため変速機もKLX110同様の遠心クラッチ式となっており、クラッチレバーを不要にしているので[AT限定免許でも運転が可能になっている](../Page/オートマチック限定免許.md "wikilink")。なお遠心クラッチや4ストロークエンジンを装備したことにより走行性能はKSR-IIより低下しているが、遠心クラッチを手動式に変更するキットが流通している。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月からの日本における[自動車排出ガス規制](../Page/自動車排出ガス規制.md "wikilink")の強化により日本仕様は生産終了が公表され、[2009年](../Page/2009年.md "wikilink")3月に発売されたファイナルカラー仕様をもって日本での正規販売は終了となった。
 

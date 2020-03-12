@@ -1,15 +1,15 @@
 > この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
 
 
-『**スパルタンX**』（スパルタンエックス、原題：**快餐車**、英題：*Wheels on Meals*）は、[1984年に公開された](https://ja.wikipedia.org/wiki/1984年の映画 "wikilink")[香港映画](https://ja.wikipedia.org/wiki/香港映画 "wikilink")。[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")主演、[サモ・ハン・キンポー](https://ja.wikipedia.org/wiki/サモ・ハン・キンポー "wikilink")監督作品。
+『**スパルタンX**』（スパルタンエックス、原題：**快餐車**、英題：*Wheels on Meals*）は、[1984年に公開された](../Page/1984年の映画.md "wikilink")[香港映画](../Page/香港映画.md "wikilink")。[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")主演、[サモ・ハン・キンポー](../Page/サモ・ハン・キンポー.md "wikilink")監督作品。
 
 ## 概要
 
-[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バルセロナ](../Page/バルセロナ.md "wikilink")を舞台に、[ワゴンカー](https://ja.wikipedia.org/wiki/三菱・デリカ "wikilink")「スパルタン号」による[軽食](../Page/軽食.md "wikilink")販売で生計を立てるトーマス（ジャッキー・チェン）、デヴィッド（[ユン・ピョウ](https://ja.wikipedia.org/wiki/ユン・ピョウ "wikilink")）の二人と、探偵モビー（[サモ・ハン・キンポー](https://ja.wikipedia.org/wiki/サモ・ハン・キンポー "wikilink")）が謎の集団に誘拐されたシルヴィア（ローラ・フォルネル）を助けだそうとするコメディ調の[カンフー](https://ja.wikipedia.org/wiki/カンフー "wikilink")[アクション映画](../Page/アクション映画.md "wikilink")である。
+[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バルセロナ](../Page/バルセロナ.md "wikilink")を舞台に、[ワゴンカー](../Page/三菱・デリカ.md "wikilink")「スパルタン号」による[軽食](../Page/軽食.md "wikilink")販売で生計を立てるトーマス（ジャッキー・チェン）、デヴィッド（[ユン・ピョウ](../Page/ユン・ピョウ.md "wikilink")）の二人と、探偵モビー（[サモ・ハン・キンポー](../Page/サモ・ハン・キンポー.md "wikilink")）が謎の集団に誘拐されたシルヴィア（ローラ・フォルネル）を助けだそうとするコメディ調の[カンフー](https://ja.wikipedia.org/wiki/カンフー "wikilink")[アクション映画](../Page/アクション映画.md "wikilink")である。
 
-ジャッキーと元[アメリカンキックボクシング世界王者](https://ja.wikipedia.org/wiki/世界キックボクシング協会_\(WKA\) "wikilink")[ベニー・ユキーデ](../Page/ベニー・ユキーデ.md "wikilink")の対決シーンが特に有名で、ジャッキー自身が選ぶ「ファイティング・トップ10」においてこのシーンを堂々の1位に挙げているほか、ベニーとジャッキーが再戦した「[サイクロンZ](https://ja.wikipedia.org/wiki/サイクロンZ_\(映画\) "wikilink")」における対決を同ランキングの第5位に挙げている\[1\]。
+ジャッキーと元[アメリカンキックボクシング世界王者](../Page/世界キックボクシング協会_\(WKA\).md "wikilink")[ベニー・ユキーデ](../Page/ベニー・ユキーデ.md "wikilink")の対決シーンが特に有名で、ジャッキー自身が選ぶ「ファイティング・トップ10」においてこのシーンを堂々の1位に挙げているほか、ベニーとジャッキーが再戦した「[サイクロンZ](../Page/サイクロンZ_\(映画\).md "wikilink")」における対決を同ランキングの第5位に挙げている\[1\]。
 
-他のジャッキー・チェン作品と同様、現在は[21世紀フォックス](https://ja.wikipedia.org/wiki/21世紀フォックス "wikilink")傘下の[スターTV→フォーチュンスターメディアに著作権が移動している](https://ja.wikipedia.org/wiki/スター_\(衛星放送\) "wikilink")。
+他のジャッキー・チェン作品と同様、現在は[21世紀フォックス](https://ja.wikipedia.org/wiki/21世紀フォックス "wikilink")傘下の[スターTV→フォーチュンスターメディアに著作権が移動している](../Page/スター_\(衛星放送\).md "wikilink")。
 
 ## あらすじ
 
@@ -17,23 +17,23 @@
 
 ## キャスト
 
-| 役名         | 俳優                                                                | 日本語版1                                                      | 日本語版2                                                   |
-| ---------- | ----------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------- |
-| トーマス       | [ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")                      | [石丸博也](https://ja.wikipedia.org/wiki/石丸博也 "wikilink")      |                                                         |
-| デヴィッド      | [ユン・ピョウ](https://ja.wikipedia.org/wiki/ユン・ピョウ "wikilink")         | [古谷徹](../Page/古谷徹.md "wikilink")                           |                                                         |
-| モビー        | [サモ・ハン・キンポー](https://ja.wikipedia.org/wiki/サモ・ハン・キンポー "wikilink") | [水島裕](https://ja.wikipedia.org/wiki/水島裕_\(声優\) "wikilink") |                                                         |
-| シルヴィア      | ローラ・フォルネル                                                         | [土井美加](https://ja.wikipedia.org/wiki/土井美加 "wikilink")      | [園崎未恵](https://ja.wikipedia.org/wiki/園崎未恵 "wikilink")   |
-| デヴィッドの父    | ポール・チャン                                                           | [原田一夫](../Page/原田一夫.md "wikilink")                         | [牛山茂](https://ja.wikipedia.org/wiki/牛山茂 "wikilink")     |
-| モンデール伯爵    | ペペ・サンチョ                                                           | [納谷六朗](../Page/納谷六朗.md "wikilink")                         | [大塚芳忠](https://ja.wikipedia.org/wiki/大塚芳忠 "wikilink")   |
-| 伯爵家の執事     | ハーバード・エデルマン                                                       | [大木民夫](https://ja.wikipedia.org/wiki/大木民夫 "wikilink")      | [野島昭生](../Page/野島昭生.md "wikilink")                      |
-| アメリカン・ギャング | [ベニー・ユキーデ](../Page/ベニー・ユキーデ.md "wikilink")                        | [大滝進矢](https://ja.wikipedia.org/wiki/大滝進矢 "wikilink")      | [小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink")   |
-| フレンチ・ギャング  | キース・ヴィタリ                                                          | [田原アルノ](https://ja.wikipedia.org/wiki/田原アルノ "wikilink")    |                                                         |
-| マット        | [ハーブ・エデルマン](https://ja.wikipedia.org/wiki/ハーブ・エデルマン "wikilink")   | [嶋俊介](https://ja.wikipedia.org/wiki/嶋俊介 "wikilink")        | [岡哲也](https://ja.wikipedia.org/wiki/岡哲也 "wikilink")     |
-| ディノ        | ジョセフ・ルイス・フォノル                                                     | [小島敏彦](../Page/小島敏彦.md "wikilink")                         | [岩崎ひろし](https://ja.wikipedia.org/wiki/岩崎ひろし "wikilink") |
-| 患者         | [リチャード・ン](https://ja.wikipedia.org/wiki/リチャード・ン "wikilink")       |                                                            | [斎藤志郎](https://ja.wikipedia.org/wiki/斎藤志郎 "wikilink")   |
-| 患者         | ジョン・シャム                                                           |                                                            |                                                         |
+| 役名         | 俳優                                                              | 日本語版1                                   | 日本語版2                                                 |
+| ---------- | --------------------------------------------------------------- | --------------------------------------- | ----------------------------------------------------- |
+| トーマス       | [ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")                    | [石丸博也](../Page/石丸博也.md "wikilink")      |                                                       |
+| デヴィッド      | [ユン・ピョウ](../Page/ユン・ピョウ.md "wikilink")                          | [古谷徹](../Page/古谷徹.md "wikilink")        |                                                       |
+| モビー        | [サモ・ハン・キンポー](../Page/サモ・ハン・キンポー.md "wikilink")                  | [水島裕](../Page/水島裕_\(声優\).md "wikilink") |                                                       |
+| シルヴィア      | ローラ・フォルネル                                                       | [土井美加](../Page/土井美加.md "wikilink")      | [園崎未恵](../Page/園崎未恵.md "wikilink")                    |
+| デヴィッドの父    | ポール・チャン                                                         | [原田一夫](../Page/原田一夫.md "wikilink")      | [牛山茂](../Page/牛山茂.md "wikilink")                      |
+| モンデール伯爵    | ペペ・サンチョ                                                         | [納谷六朗](../Page/納谷六朗.md "wikilink")      | [大塚芳忠](../Page/大塚芳忠.md "wikilink")                    |
+| 伯爵家の執事     | ハーバード・エデルマン                                                     | [大木民夫](../Page/大木民夫.md "wikilink")      | [野島昭生](../Page/野島昭生.md "wikilink")                    |
+| アメリカン・ギャング | [ベニー・ユキーデ](../Page/ベニー・ユキーデ.md "wikilink")                      | [大滝進矢](../Page/大滝進矢.md "wikilink")      | [小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink") |
+| フレンチ・ギャング  | キース・ヴィタリ                                                        | [田原アルノ](../Page/田原アルノ.md "wikilink")    |                                                       |
+| マット        | [ハーブ・エデルマン](https://ja.wikipedia.org/wiki/ハーブ・エデルマン "wikilink") | [嶋俊介](../Page/嶋俊介.md "wikilink")        | [岡哲也](https://ja.wikipedia.org/wiki/岡哲也 "wikilink")   |
+| ディノ        | ジョセフ・ルイス・フォノル                                                   | [小島敏彦](../Page/小島敏彦.md "wikilink")      | [岩崎ひろし](../Page/岩崎ひろし.md "wikilink")                  |
+| 患者         | [リチャード・ン](https://ja.wikipedia.org/wiki/リチャード・ン "wikilink")     |                                         | [斎藤志郎](../Page/斎藤志郎.md "wikilink")                    |
+| 患者         | ジョン・シャム                                                         |                                         |                                                       |
 
-  - 日本語版1 - 初放送1987年1月10日 [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink") 『[ゴールデン洋画劇場](https://ja.wikipedia.org/wiki/ゴールデン洋画劇場 "wikilink")』（BD収録）演出：壺井正、翻訳：[額田やえ子](../Page/額田やえ子.md "wikilink")、調整：飯塚秀保、効果：スリーサウンド、制作：グロービジョン、解説：[高島忠夫](https://ja.wikipedia.org/wiki/高島忠夫 "wikilink")
+  - 日本語版1 - 初放送1987年1月10日 [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink") 『[ゴールデン洋画劇場](../Page/ゴールデン洋画劇場.md "wikilink")』（BD収録）演出：壺井正、翻訳：[額田やえ子](../Page/額田やえ子.md "wikilink")、調整：飯塚秀保、効果：スリーサウンド、制作：グロービジョン、解説：[高島忠夫](../Page/高島忠夫.md "wikilink")
   - 日本語版2 - BD\&DVD（日本語吹替収録版）演出：[市来満](https://ja.wikipedia.org/wiki/市来満 "wikilink")
 
 ## スタッフ
@@ -58,7 +58,7 @@
 <!-- end list -->
 
   -
-    日本版主題歌は[プロレスラー](../Page/プロレスラー.md "wikilink")の[三沢光晴](../Page/三沢光晴.md "wikilink")の入場テーマ曲として知られていた。[全日本プロレス](../Page/全日本プロレス.md "wikilink")所属時代から20年近く使用し、全日本時代は原曲のまま使用していたが、2000年8月の[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")旗揚げ時から2009年2月までは前奏にピアノの旋律を加えてアレンジしたものを使用し、2009年3月には新たなバージョンを使用していた。また、1980年代中盤には[上田馬之助の入場テーマ曲としても使用されていた](https://ja.wikipedia.org/wiki/上田馬之助_\(プロレスラー\) "wikilink")。[プロ野球](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")ではチャンステーマとして使用されており、高校野球においてもヒッティングマーチに採用する高校も存在する。
+    日本版主題歌は[プロレスラー](../Page/プロレスラー.md "wikilink")の[三沢光晴](../Page/三沢光晴.md "wikilink")の入場テーマ曲として知られていた。[全日本プロレス](../Page/全日本プロレス.md "wikilink")所属時代から20年近く使用し、全日本時代は原曲のまま使用していたが、2000年8月の[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")旗揚げ時から2009年2月までは前奏にピアノの旋律を加えてアレンジしたものを使用し、2009年3月には新たなバージョンを使用していた。また、1980年代中盤には[上田馬之助の入場テーマ曲としても使用されていた](../Page/上田馬之助_\(プロレスラー\).md "wikilink")。[プロ野球](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")ではチャンステーマとして使用されており、高校野球においてもヒッティングマーチに採用する高校も存在する。
 
 ## 作品解説
 
@@ -67,7 +67,7 @@
   - ペペ・サンチョ扮する伯爵のフェンシング対決ではユン・ピョウがスタントを務めた。
   - カーチェイスシーンは「[007](https://ja.wikipedia.org/wiki/007 "wikilink")」シリーズにも出演したカースタント専門のドライバーをヨーロッパ中から召集した。
   - 当初、本作の英語のタイトルは「Meals On Wheels」だったが、配給ゴールデン・ハーベストの『Megaforce（メガフォース）』と『Menage A Trios』が失敗に終わったばかりで、両作どちらもタイトルが「M」で始まっていたため、縁起を担いで"Meals"と"Wheels"を逆にして「Wheels On Meals」とした。
-  - 当時のジャッキーは1980年頃から愛用している[アディダス](https://ja.wikipedia.org/wiki/アディダス "wikilink")のマジックテープ式スニーカーを履くことが多かった。この靴を含む数足を、このときも香港から持ちこんでいる。本作の撮影中、ジャッキーは20足前後の靴に囲まれて生活していたのだった\[4\]。
+  - 当時のジャッキーは1980年頃から愛用している[アディダス](../Page/アディダス.md "wikilink")のマジックテープ式スニーカーを履くことが多かった。この靴を含む数足を、このときも香港から持ちこんでいる。本作の撮影中、ジャッキーは20足前後の靴に囲まれて生活していたのだった\[4\]。
 
 ## ビデオゲーム版
 

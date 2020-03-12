@@ -18,11 +18,11 @@
 
 ` }}`
 
-| Section3 =  | Section7 =  | Section8 =  }} **硫酸ニッケル(II)**（りゅうさんニッケル に、）は、[化学式](../Page/化学式.md "wikilink")が NiSO<sub>4</sub> で表される[ニッケル](../Page/ニッケル.md "wikilink")の[硫酸塩](https://ja.wikipedia.org/wiki/硫酸塩 "wikilink")であり、無水物は緑黄色の[結晶](../Page/結晶.md "wikilink")。6水和物は青緑色の針状の[固体](../Page/固体.md "wikilink")である。[水](../Page/水.md "wikilink")に溶けやすく、緑色の水溶液は[酸性](https://ja.wikipedia.org/wiki/酸性 "wikilink")を示す。[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")などの有機[溶媒](https://ja.wikipedia.org/wiki/溶媒 "wikilink")には溶けない。加熱すると[分解](https://ja.wikipedia.org/wiki/分解 "wikilink")して[三酸化硫黄](https://ja.wikipedia.org/wiki/三酸化硫黄 "wikilink")と[酸化ニッケル(II)](https://ja.wikipedia.org/wiki/酸化ニッケル\(II\) "wikilink")を生成する。ニッケル[めっき](../Page/めっき.md "wikilink")に用いられるが、毒性があるので取り扱いには注意を要する。
+| Section3 =  | Section7 =  | Section8 =  }} **硫酸ニッケル(II)**（りゅうさんニッケル に、）は、[化学式](../Page/化学式.md "wikilink")が NiSO<sub>4</sub> で表される[ニッケル](../Page/ニッケル.md "wikilink")の[硫酸塩](../Page/硫酸塩.md "wikilink")であり、無水物は緑黄色の[結晶](../Page/結晶.md "wikilink")。6水和物は青緑色の針状の[固体](../Page/固体.md "wikilink")である。[水](../Page/水.md "wikilink")に溶けやすく、緑色の水溶液は[酸性](https://ja.wikipedia.org/wiki/酸性 "wikilink")を示す。[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")などの有機[溶媒](https://ja.wikipedia.org/wiki/溶媒 "wikilink")には溶けない。加熱すると[分解](../Page/分解.md "wikilink")して[三酸化硫黄](../Page/三酸化硫黄.md "wikilink")と[酸化ニッケル(II)](https://ja.wikipedia.org/wiki/酸化ニッケル\(II\) "wikilink")を生成する。ニッケル[めっき](../Page/めっき.md "wikilink")に用いられるが、毒性があるので取り扱いには注意を要する。
 
 ## 反応
 
-加熱すると[分解](https://ja.wikipedia.org/wiki/分解 "wikilink")して[三酸化硫黄](https://ja.wikipedia.org/wiki/三酸化硫黄 "wikilink")と[酸化ニッケル(II)](https://ja.wikipedia.org/wiki/酸化ニッケル\(II\) "wikilink")を生成する。
+加熱すると[分解](../Page/分解.md "wikilink")して[三酸化硫黄](../Page/三酸化硫黄.md "wikilink")と[酸化ニッケル(II)](https://ja.wikipedia.org/wiki/酸化ニッケル\(II\) "wikilink")を生成する。
 
   -
     <ce>NiSO4 -\> SO3\\ + NiO</ce>

@@ -1,7 +1,7 @@
 > この記事は[IZUMO \(\)](https://ja.wikipedia.org/wiki/IZUMO_\(\))から翻訳されています。
 
 
-『**IZUMO**』（イズモ）は、[2001年](../Page/2001年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[Studio e.go\!より発売された](https://ja.wikipedia.org/wiki/Studio_e.go! "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")、及びそのシリーズである。
+『**IZUMO**』（イズモ）は、[2001年](../Page/2001年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[Studio e.go\!より発売された](../Page/Studio_e.go!.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")、及びそのシリーズである。
 
 ## シリーズ作品
 
@@ -14,7 +14,7 @@
       - **IZUMO 完全版** (PC)
     <!-- end list -->
       -
-        2004年7月30日に発売された**IZUMO2**、2006年4月28日に発売された**[IZUMO2 -学園狂想曲-](https://ja.wikipedia.org/wiki/IZUMO2_-学園狂想曲- "wikilink")**に同梱。単品での発売はされていない。
+        2004年7月30日に発売された**IZUMO2**、2006年4月28日に発売された**[IZUMO2 -学園狂想曲-](../Page/IZUMO2_-学園狂想曲-.md "wikilink")**に同梱。単品での発売はされていない。
     <!-- end list -->
       - **IZUMO complete** (PS2)
     <!-- end list -->
@@ -29,7 +29,7 @@
       -
         2006年4月27日に発売。**IZUMO2**のコンシューマ移植作品。
     <!-- end list -->
-      - **[IZUMO2 -学園狂想曲-](https://ja.wikipedia.org/wiki/IZUMO2_-学園狂想曲- "wikilink")** (PC)
+      - **[IZUMO2 -学園狂想曲-](../Page/IZUMO2_-学園狂想曲-.md "wikilink")** (PC)
     <!-- end list -->
       -
         2006年4月28日に発売。シリーズ初となるADVであり、**IZUMO2 猛き剣の閃記**のタイアップとして製作された。
@@ -45,7 +45,7 @@
       - **IZUMO零・拡張パック** (PC)
     <!-- end list -->
       -
-        2005年12月22日に発売された**[でぼの巣箱](https://ja.wikipedia.org/wiki/でぼの巣箱 "wikilink")**に同梱。
+        2005年12月22日に発売された**[でぼの巣箱](../Page/でぼの巣箱.md "wikilink")**に同梱。
     <!-- end list -->
       - **IZUMO零〜横濱あやかし絵巻〜** (PS2)
     <!-- end list -->
@@ -60,11 +60,11 @@
 
 ## 勾玉
 
-シリーズ共通のアイテムとして[勾玉](https://ja.wikipedia.org/wiki/勾玉 "wikilink")が存在する。敵を倒すか宝箱などで入手する。呪法を使うと消費するのと主にボスが所持している魂玉の2種類があり、魂玉は呪法を使っても無くならない。守護精霊は魂玉となる。武器と防具に穴の数だけ勾玉の種類ごとに装着が出来、呪法が使える他・大きい装着穴に装着した勾玉は、その勾玉の特殊効果によりステータスがUPしたり、属性効果が上がったりする。装着し続けることでキャラクターの勾玉の使用レベルが上がり、呪法効果や前述の特殊効果がより強くなる。「4」では呪法を使っても無くならず、勾玉の使用レベルを最高まで上げ魂玉を装備するとより高位の呪法が使えるようになった。
+シリーズ共通のアイテムとして[勾玉](../Page/勾玉.md "wikilink")が存在する。敵を倒すか宝箱などで入手する。呪法を使うと消費するのと主にボスが所持している魂玉の2種類があり、魂玉は呪法を使っても無くならない。守護精霊は魂玉となる。武器と防具に穴の数だけ勾玉の種類ごとに装着が出来、呪法が使える他・大きい装着穴に装着した勾玉は、その勾玉の特殊効果によりステータスがUPしたり、属性効果が上がったりする。装着し続けることでキャラクターの勾玉の使用レベルが上がり、呪法効果や前述の特殊効果がより強くなる。「4」では呪法を使っても無くならず、勾玉の使用レベルを最高まで上げ魂玉を装備するとより高位の呪法が使えるようになった。
 
 ## IZUMO
 
-[2001年](../Page/2001年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[Studio e.go\!より発売された](https://ja.wikipedia.org/wiki/Studio_e.go! "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[RPGである](../Page/コンピュータRPG.md "wikilink")。2002年2月22日にDVD版が発売され、2004年7月30日に発売されたIZUMO2のDVD版には完全版が同梱されている。またコンシューマ機には2004年1月29日に[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")18歳以上対象の[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版、2005年2月3日に[GN Softwareより](https://ja.wikipedia.org/wiki/GN_Software "wikilink")[プレイステーション2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『IZUMO COMPLETE』（IZUMO2のDVD版同梱と同じ物）が発売された（こちらもCEROレーティング18歳以上対象）。IZUMO2などに同梱された完全版では、新規イラスト・シーンの追加や立ち絵カットの全体から上半身への変更、対応OSの追加などが行われている。
+[2001年](../Page/2001年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[Studio e.go\!より発売された](../Page/Studio_e.go!.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[RPGである](../Page/コンピュータRPG.md "wikilink")。2002年2月22日にDVD版が発売され、2004年7月30日に発売されたIZUMO2のDVD版には完全版が同梱されている。またコンシューマ機には2004年1月29日に[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")18歳以上対象の[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版、2005年2月3日に[GN Softwareより](../Page/GN_Software.md "wikilink")[プレイステーション2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『IZUMO COMPLETE』（IZUMO2のDVD版同梱と同じ物）が発売された（こちらもCEROレーティング18歳以上対象）。IZUMO2などに同梱された完全版では、新規イラスト・シーンの追加や立ち絵カットの全体から上半身への変更、対応OSの追加などが行われている。
 
 ### 登場キャラクター
 
@@ -72,7 +72,7 @@
     [声](../Page/声優.md "wikilink")：[折葉大作](https://ja.wikipedia.org/wiki/折葉大作 "wikilink")
     本作の主人公。祖父に居合道を習っている剣術使い。一応学園の剣道部にも籍は置いているものの、幽霊部員状態。武器は刀で、属性は火。
   - 水瀬 七海（みなせ ななみ）
-    声：[春野日和](https://ja.wikipedia.org/wiki/春野日和 "wikilink")
+    声：[春野日和](../Page/春野日和.md "wikilink")
     ヒカルや美由紀の幼馴染。学園の後輩でもあり、弓道部に所属している。体重を気にしているらしく、「ぷっくりころころ」は彼女の前では禁句。元々は孤児であり、現在の両親は義理の両親なので苗字が何回か変わってしまった。武器は弓で属性は木。
   - 橘 綾香（たちばな あやか）
     声：[海原エレナ](https://ja.wikipedia.org/wiki/海原エレナ "wikilink")
@@ -81,7 +81,7 @@
     声：[永瀬江美弥](../Page/永瀬江美弥.md "wikilink")
     倉島財閥のお嬢様で、ヒカルのクラスメイト。和洋異なるが同じ剣術使いのヒカルにライバル心を抱いており、何かとつっかかってくる。頭の良さはヒカルと同じくらい。武器は細剣、属性は金。
   - 天照（アマテラス）
-    声：[飯田空](https://ja.wikipedia.org/wiki/飯田空 "wikilink")
+    声：[飯田空](../Page/飯田空.md "wikilink")
     ヒカルの夢の中に現れる少女。ネノクニの巫女で『夢を紡ぐ力』を持つ一族の継承者。料理が得意。ネノクニは悪霊との闘いが日常のため一見攻撃的に見えるが根は心優しい。武器は槍、属性は土。
   - 塔馬 美由紀（とうま みゆき）
     声：[桃月らみあ](https://ja.wikipedia.org/wiki/桃月らみあ "wikilink")
@@ -137,7 +137,7 @@
 
 ## IZUMO2
 
-IZUMO2は2004年7月30日に[Studio e.go\!より発売された](https://ja.wikipedia.org/wiki/Studio_e.go! "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[RPGである](../Page/コンピュータRPG.md "wikilink")。2006年4月28日にはストーリー上の続編と言える『[IZUMO2 -学園狂想曲-](https://ja.wikipedia.org/wiki/IZUMO2_-学園狂想曲- "wikilink")』が発売した。
+IZUMO2は2004年7月30日に[Studio e.go\!より発売された](../Page/Studio_e.go!.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[RPGである](../Page/コンピュータRPG.md "wikilink")。2006年4月28日にはストーリー上の続編と言える『[IZUMO2 -学園狂想曲-](../Page/IZUMO2_-学園狂想曲-.md "wikilink")』が発売した。
 
 ### IZUMO2の登場キャラクター
 
@@ -152,7 +152,7 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](https://ja.wiki
     猛の幼馴染で彼にほのかな思いを抱いている。毎日、塔馬家の家事をしているため美由紀がいなくなった塔馬家の生命線。成績優秀で家事も万能だが幼い頃から病弱なため運動は苦手。本作ではメインヒロイン格。装備武器は笛などの楽器で属性は武器により変わる。
     前作IZUMOのヒロインである橘綾香の娘。
   - 白鳥 明日香（しらとり あすか）
-    声：[木葉楓](https://ja.wikipedia.org/wiki/木葉楓 "wikilink")
+    声：[木葉楓](../Page/木葉楓.md "wikilink")
     琴乃の妹。毎朝、猛をボディアタックで起こすのが日課。姉とは違い体は丈夫で弓道部に所属し腕前は高い。装備武器は弓で属性は木（風）。
     琴乃と同じく前作IZUMOのヒロインである橘綾香の娘。
   - 逢須 芹（おおす せり）
@@ -162,7 +162,7 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](https://ja.wiki
     声：[細田なな](https://ja.wikipedia.org/wiki/細田なな "wikilink")
     猛のクラスメイトでクラス委員長。いつも屋上で昼食をとり友達のカラスのヤタローと戯れているなど不思議な雰囲気を持っている。その一方、芹に殴り倒された猛を介抱して仲直りに持っていくなど、親切な面もある。猛達と共にネノクニに来たため行動を共にする。装備武器は薙刀・槍で属性は金（雷）。
   - 佐久夜（サクヤ）
-    声：[みる](https://ja.wikipedia.org/wiki/みる "wikilink")
+    声：[みる](../Page/みる.md "wikilink")
     カグツチとアマテラスの娘。初めは猛達を悪霊の仲間と勘違いしていたがすぐに誤解は解け、行動を共にする。行動力があり活発だが罠マニアと言う一面も持っている。装備武器は扇（鉄扇）で属性は水。
   - ヒミコ
     声：[柚木かなめ](../Page/柚木かなめ.md "wikilink")
@@ -191,8 +191,8 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](https://ja.wiki
 #### IZUMO2の守護精霊
 
   - 蔓（かずら）
-    声：[楠鈴音](https://ja.wikipedia.org/wiki/楠鈴音 "wikilink")
-    出雲学園をジャングルと化した最初に戦うボスで巨大な[ラフレシア](https://ja.wikipedia.org/wiki/ラフレシア "wikilink")。人間形態では掃除好きでほうきを持って徘徊している。
+    声：[楠鈴音](../Page/楠鈴音.md "wikilink")
+    出雲学園をジャングルと化した最初に戦うボスで巨大な[ラフレシア](../Page/ラフレシア.md "wikilink")。人間形態では掃除好きでほうきを持って徘徊している。
   - 八咫（やた）
     声：[咲ゆたか](https://ja.wikipedia.org/wiki/咲ゆたか "wikilink")
     ヤタローの真の姿。麻衣に向け、オオナムジからスパイとして傍らにいる。
@@ -230,10 +230,10 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](https://ja.wiki
     声：[ワッショイ太郎](https://ja.wikipedia.org/wiki/ワッショイ太郎 "wikilink")
     精霊に対応できるため海軍から出向したサーベル使い。一見キザっぽいが実はウブで女性には奥手。
   - 山田 虎之助（やまだ とらのすけ）
-    声：[空野太陽](https://ja.wikipedia.org/wiki/空野太陽 "wikilink")
+    声：[空野太陽](../Page/空野太陽.md "wikilink")
     美園とは幼馴染で彼女の道場で修行していたが家出し、横浜に来て暴れていたところを桐谷に打ち負かされて弟子入り志願する。
   - 永峰 陽子（ながみね ようこ）
-    声：[木村あやか](https://ja.wikipedia.org/wiki/木村あやか "wikilink")
+    声：[木村あやか](../Page/木村あやか.md "wikilink")
     和人とは**実の兄妹**で幼少期に離れて暮らしており横浜で再会した。西洋料理に興味がありEDによってはレストランを開く。弓使い。
   - 上杉 美園（うえすぎ みその）
     声：[榎津まお](../Page/榎津まお.md "wikilink")
@@ -279,7 +279,7 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](https://ja.wiki
     巌斎の息子でイギリス人とのハーフ。特別班の面々とも仲が良かったが、父親と共に活動し敵対することに。
   - 不知火 巌斎（しらぬい げんさい）
     声：[馬並硬太](https://ja.wikipedia.org/wiki/馬並硬太 "wikilink")
-    士族の政府への不満を中心に反政府活動を行う[示現流](https://ja.wikipedia.org/wiki/示現流 "wikilink")の使い。本作のラスボス。
+    士族の政府への不満を中心に反政府活動を行う[示現流](../Page/示現流.md "wikilink")の使い。本作のラスボス。
   - イワナガ
     声：[高奈ゆか](../Page/高奈ゆか.md "wikilink")
     ある目的のため巌斎に付き従っている術師。
@@ -294,7 +294,7 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](https://ja.wiki
 
   - タギリ
     声：[如月美琴](https://ja.wikipedia.org/wiki/如月美琴 "wikilink")
-    [宗像三女神](https://ja.wikipedia.org/wiki/宗像三女神 "wikilink")の長女。
+    [宗像三女神](../Page/宗像三女神.md "wikilink")の長女。
   - タギツ
     声：彩世ゆう
     宗像三女神の次女。
@@ -306,7 +306,7 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](https://ja.wiki
     精霊たちと夜な夜な宴を繰り広げていた踊りの神。
   - キジムナー
     声：雅
-    [琉球の精霊](https://ja.wikipedia.org/wiki/キジムナー "wikilink")。ミシャグジ様共々、本シリーズ初の男性の精霊である。
+    [琉球の精霊](../Page/キジムナー.md "wikilink")。ミシャグジ様共々、本シリーズ初の男性の精霊である。
   - ミシャグジ様
     声：[九条忍](https://ja.wikipedia.org/wiki/九条忍 "wikilink")
     白蛇の化身。若い娘を生贄に奉げられていたことから退治されそうになるが実際には逃がしていた。
@@ -336,7 +336,7 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](https://ja.wiki
     声：[春乃伊吹](https://ja.wikipedia.org/wiki/春乃伊吹 "wikilink")
     ネノクニの戦巫女。IZUMOのアマテラス達の村の南方にある村の長で『夢を紡ぐ力』も少しだけ持っている。天然ドジっ娘で、ネノクニという異世界から来たために世間知らずからコメディリリーフな役割を持つ。武器は弓、属性は木。
   - 工藤 舞菜（くどう まいな）
-    声：[野神奈々](https://ja.wikipedia.org/wiki/野神奈々 "wikilink")
+    声：[野神奈々](../Page/野神奈々.md "wikilink")
     駆の妹。駆にとっては二人きりの家族であり、彼の大切な心の支えとなっている。病弱で入院生活が長く、実年齢より幼く見え世間離れしている。駆に買ってもらったパソコンでよく遊んでいる。
   - 黒崎 夕子（くろさき ゆうこ）
     声：[本山美奈](../Page/本山美奈.md "wikilink")
@@ -387,7 +387,7 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](https://ja.wiki
 
 ## IZUMO4
 
-2015年12月25日発売。前作の後、Studio e.go\!の活動が中断していたため、実に8年ぶりの新作となった。シナリオ・音楽を[light](https://ja.wikipedia.org/wiki/light "wikilink")スタッフが担当する。[出雲市](../Page/出雲市.md "wikilink")と周辺が舞台で[出雲大社前駅](https://ja.wikipedia.org/wiki/出雲大社前駅 "wikilink")や[玉造温泉](https://ja.wikipedia.org/wiki/玉造温泉 "wikilink")、[出西窯](https://ja.wikipedia.org/wiki/出西窯 "wikilink")などが登場する。
+2015年12月25日発売。前作の後、Studio e.go\!の活動が中断していたため、実に8年ぶりの新作となった。シナリオ・音楽を[light](https://ja.wikipedia.org/wiki/light "wikilink")スタッフが担当する。[出雲市](../Page/出雲市.md "wikilink")と周辺が舞台で[出雲大社前駅](https://ja.wikipedia.org/wiki/出雲大社前駅 "wikilink")や[玉造温泉](../Page/玉造温泉.md "wikilink")、[出西窯](https://ja.wikipedia.org/wiki/出西窯 "wikilink")などが登場する。
 
 ### IZUMO4の登場キャラクター
 
@@ -401,7 +401,7 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](https://ja.wiki
     声：[小倉結衣](https://ja.wikipedia.org/wiki/小倉結衣 "wikilink")
     大地の義妹で兄貴と呼び慕っている。元気がありノリもいいが拳でコミュニケーションをとったり、常にお腹を空かしている。武器はナックルで属性は金。
   - 西洞院 綺花（にしのとういん あやか）
-    声：[かわしまりの](https://ja.wikipedia.org/wiki/かわしまりの "wikilink")
+    声：[かわしまりの](../Page/かわしまりの.md "wikilink")
     郷土史研究会部長。サボりぎみの大地をクラスから部室に迎えに来たりする。リアリストであり何事にも動じなく、律儀にツッコミをいれる性格。武器は装備品として投擲武器で、戦闘では具現化させた様々な武器で属性は火。
   - 稲佐 白兎（いなさ はくと）
     声：[歩河みぃな](https://ja.wikipedia.org/wiki/歩河みぃな "wikilink")
@@ -430,7 +430,7 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](https://ja.wiki
 #### 精霊-祓戸大神
 
   -
-    4柱で一組の比較的下級神。裏出雲の切り札的存在。穂波の久那戸神社は[祓戸大神](https://ja.wikipedia.org/wiki/祓戸大神 "wikilink")（はらえどのおおかみ）を主神として祀ってる。
+    4柱で一組の比較的下級神。裏出雲の切り札的存在。穂波の久那戸神社は[祓戸大神](../Page/祓戸大神.md "wikilink")（はらえどのおおかみ）を主神として祀ってる。
   - 瀬織津比売（せおりつひめ）
     声：飯田空
     4柱のリーダーで長女的なポジション。水属性。敵全体に水属性攻撃とランダムで眠りの効果。
@@ -451,7 +451,7 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](https://ja.wiki
     穂波の父で久那戸神社神主。人格者で町の名士でもある。妻は穂波が幼少時に死別している。
   - 御子神 屠竜（みこがみ とりゅう）
     声：[ますおかゆうじ](https://ja.wikipedia.org/wiki/ますおかゆうじ "wikilink")
-    裏出雲の[神人](https://ja.wikipedia.org/wiki/神人 "wikilink")（じにん）と称し諸国を放浪する。一匹狼で他人に興味を持たないが、大地たちには意味深な言葉をはなつ。
+    裏出雲の[神人](../Page/神人.md "wikilink")（じにん）と称し諸国を放浪する。一匹狼で他人に興味を持たないが、大地たちには意味深な言葉をはなつ。
   - 稜威母（いずも）
     声：[彩世ゆう](../Page/彩世ゆう.md "wikilink")
   - **こすず**
@@ -462,7 +462,7 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](https://ja.wiki
 **IZUMO2**
 
   - IZUMO2 猛き剣の閃記主題歌『**Heaven**』
-      - 作詞・作曲：[高井麗](https://ja.wikipedia.org/wiki/高井麗 "wikilink")、編曲：？、歌：[石松千恵美](https://ja.wikipedia.org/wiki/石松千恵美 "wikilink")
+      - 作詞・作曲：[高井麗](https://ja.wikipedia.org/wiki/高井麗 "wikilink")、編曲：？、歌：[石松千恵美](../Page/石松千恵美.md "wikilink")
 
 **IZUMO4**
 
@@ -477,7 +477,7 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](https://ja.wiki
 
 ## OVA
 
-[ミルキーよりVHS](https://ja.wikipedia.org/wiki/ミルキーレーベル "wikilink")・DVDで発売された全六巻の18禁アニメ。
+[ミルキーよりVHS](../Page/ミルキーレーベル.md "wikilink")・DVDで発売された全六巻の18禁アニメ。
 
 ### あらすじ
 
@@ -488,9 +488,9 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](https://ja.wiki
   - 橘綾香：[小暮智美](https://ja.wikipedia.org/wiki/小暮智美 "wikilink")
   - 倉島渚：[アカネ](https://ja.wikipedia.org/wiki/アカネ_\(声優\) "wikilink")
   - 天照：[藤城さらさ](https://ja.wikipedia.org/wiki/藤城さらさ "wikilink")、[沢木ありさ](https://ja.wikipedia.org/wiki/沢木ありさ "wikilink")
-  - 塔馬美由紀：[神村ひな](https://ja.wikipedia.org/wiki/神村ひな "wikilink")
-  - 須佐之男：[石川大介](https://ja.wikipedia.org/wiki/石川大介 "wikilink")
-  - サトリ：[中村悠一](https://ja.wikipedia.org/wiki/中村悠一 "wikilink")
+  - 塔馬美由紀：[神村ひな](../Page/神村ひな.md "wikilink")
+  - 須佐之男：[石川大介](../Page/石川大介.md "wikilink")
+  - サトリ：[中村悠一](../Page/中村悠一.md "wikilink")
   - 楓：[朝宮咲](https://ja.wikipedia.org/wiki/朝宮咲 "wikilink")
   - 桃花、桐山千夏：[森野花梨](https://ja.wikipedia.org/wiki/森野花梨 "wikilink")
   - [高奈ゆか](../Page/高奈ゆか.md "wikilink")、[久保田一夫](https://ja.wikipedia.org/wiki/久保田一夫 "wikilink")、[福島太郎](https://ja.wikipedia.org/wiki/福島太郎 "wikilink")、[武真紀](https://ja.wikipedia.org/wiki/武真紀 "wikilink")

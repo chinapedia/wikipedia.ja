@@ -5,9 +5,9 @@
 
 ## 概要
 
-トラフィック負荷を複数のIPアドレスに振り分けることにより、例えばHTTPサーバに対するアクセスをほぼ同量ずつ複数のサーバマシンに分配することができる。これは[BIND](https://ja.wikipedia.org/wiki/BIND "wikilink")等DNSサーバのゾーン設定により容易に実現できる負荷分散方式である。 アクセス数に応じた負荷分散のほか、通信量、サーバの負荷（[CPU](../Page/CPU.md "wikilink")や[メモリ](https://ja.wikipedia.org/wiki/メモリ "wikilink")の使用率）、[応答時間](../Page/応答時間.md "wikilink")で負荷分散をすることができる。
+トラフィック負荷を複数のIPアドレスに振り分けることにより、例えばHTTPサーバに対するアクセスをほぼ同量ずつ複数のサーバマシンに分配することができる。これは[BIND](../Page/BIND.md "wikilink")等DNSサーバのゾーン設定により容易に実現できる負荷分散方式である。 アクセス数に応じた負荷分散のほか、通信量、サーバの負荷（[CPU](../Page/CPU.md "wikilink")や[メモリ](https://ja.wikipedia.org/wiki/メモリ "wikilink")の使用率）、[応答時間](../Page/応答時間.md "wikilink")で負荷分散をすることができる。
 
-後述するような問題点があることに加え、主に[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")における宛先アドレス選択アルゴリズムとして定義された「RFC3484」では、DNSが同一サーバ名に対し複数のIPアドレスを持つ場合に「自分のアドレスに近いアドレスを優先的に選択する」ことを定めており\[1\]、[Windows Vistaなど](https://ja.wikipedia.org/wiki/Windows_Vista "wikilink")[マイクロソフト](../Page/マイクロソフト.md "wikilink")製OSの一部や、最近の[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")などではこのルールに従いDNSラウンドロビンがデフォルトで無効にされている\[2\]\[3\]。
+後述するような問題点があることに加え、主に[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")における宛先アドレス選択アルゴリズムとして定義された「RFC3484」では、DNSが同一サーバ名に対し複数のIPアドレスを持つ場合に「自分のアドレスに近いアドレスを優先的に選択する」ことを定めており\[1\]、[Windows Vistaなど](https://ja.wikipedia.org/wiki/Windows_Vista "wikilink")[マイクロソフト](../Page/マイクロソフト.md "wikilink")製OSの一部や、最近の[Linux](../Page/Linux.md "wikilink")などではこのルールに従いDNSラウンドロビンがデフォルトで無効にされている\[2\]\[3\]。
 
 このため、近年では他の負荷分散方式を用いたり、[クラスタリングを導入するケースが増えてきている](../Page/コンピュータ・クラスター.md "wikilink")。また[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")などが採用する「IPアドレスの上位プレフィックスを同じ値で揃える」方法など、RFC3484が有効な環境でもDNSラウンドロビンの効力を発揮させるテクニックも編み出されている\[4\]。
 
@@ -23,7 +23,7 @@
   - 分散先サーバの同期
     分散サーバのコンテンツの内容が同一でないと、接続に問題が起きる可能性がある(Webサーバでのリンクなど)。
   - DNSキャッシングの情報更新の際に生じる時差
-    レコードの[TTLが長い場合](https://ja.wikipedia.org/wiki/Time_to_live "wikilink")、変更前の情報を参照してしまう期間が長くなってしまう。後述のようにTTLを短めにした運用が一般的である。
+    レコードの[TTLが長い場合](../Page/Time_to_live.md "wikilink")、変更前の情報を参照してしまう期間が長くなってしまう。後述のようにTTLを短めにした運用が一般的である。
   - トラフィック負荷を分散する際の予期せぬ偏り
     均等な負荷分散はできない。ヘビーユーザが一つの通信先に集中してアクセスを行う場合もある
   - 分散先サーバの障害検知が不可能
@@ -63,7 +63,7 @@
 ## 関連項目
 
   - [Domain Name System](../Page/Domain_Name_System.md "wikilink")
-  - [プロキシ](https://ja.wikipedia.org/wiki/プロキシ "wikilink")…[リバースプロキシ](https://ja.wikipedia.org/wiki/プロキシ#リバースプロキシ "wikilink")
+  - [プロキシ](../Page/プロキシ.md "wikilink")…[リバースプロキシ](https://ja.wikipedia.org/wiki/プロキシ#リバースプロキシ "wikilink")
 
 ## 脚注
 

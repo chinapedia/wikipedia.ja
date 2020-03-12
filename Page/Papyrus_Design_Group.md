@@ -1,9 +1,9 @@
 > この記事は[Papyrus Design Group](https://ja.wikipedia.org/wiki/Papyrus_Design_Group)から翻訳されています。
 
 
-**Papyrus Design Group, Inc**（パパイラスデザイングループ）は、コンピュータゲーム開発会社である。1987年、David KaemmerとOmar Khudariによって設立された。[NASCAR](../Page/NASCAR.md "wikilink")や[インディカー](https://ja.wikipedia.org/wiki/インディカー "wikilink")に基づいた現実的な[レースゲーム](../Page/レースゲーム.md "wikilink")シリーズや、ユニークな[Grand Prix Legendsを開発した事で知られる](../Page/Grand_Prix_Legends.md "wikilink")。
+**Papyrus Design Group, Inc**（パパイラスデザイングループ）は、コンピュータゲーム開発会社である。1987年、David KaemmerとOmar Khudariによって設立された。[NASCAR](../Page/NASCAR.md "wikilink")や[インディカー](../Page/インディカー.md "wikilink")に基づいた現実的な[レースゲーム](../Page/レースゲーム.md "wikilink")シリーズや、ユニークな[Grand Prix Legendsを開発した事で知られる](../Page/Grand_Prix_Legends.md "wikilink")。
 
-1995年、コンピュータゲーム会社[Sierra Entertainmentの子会社となる](https://ja.wikipedia.org/wiki/Sierra_Entertainment "wikilink")。2004年、Sierra Entertainmentの親会社[ヴィヴェンディ・ユニバーサル](https://ja.wikipedia.org/wiki/ヴィヴェンディ・ユニバーサル "wikilink")の合理化策により解散。新たにDavid KaemmerとJohn Henryによって設立された「FIRST, LLC」(現在は「iRacing.com Motorsport Simulations」に改名) に人材が受け継がれ、これまでに開発した技術も買い取られている。
+1995年、コンピュータゲーム会社[Sierra Entertainmentの子会社となる](https://ja.wikipedia.org/wiki/Sierra_Entertainment "wikilink")。2004年、Sierra Entertainmentの親会社[ヴィヴェンディ・ユニバーサル](../Page/ヴィヴェンディ・ユニバーサル.md "wikilink")の合理化策により解散。新たにDavid KaemmerとJohn Henryによって設立された「FIRST, LLC」(現在は「iRacing.com Motorsport Simulations」に改名) に人材が受け継がれ、これまでに開発した技術も買い取られている。
 
 ## Papyrusが開発したゲーム
 

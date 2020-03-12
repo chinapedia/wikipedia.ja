@@ -20,7 +20,7 @@
 
   -
     愛称:ゴスケ。
-    元[Yacht.](https://ja.wikipedia.org/wiki/Yacht. "wikilink")の大日野の紹介で「[ヒダカトオル](../Page/日高央.md "wikilink")」のバックバンドに参加、その後ヒダカを中心に「[THE STARBEMS](https://ja.wikipedia.org/wiki/日高央#THE_STARBEMS "wikilink")」を結成する。
+    元[Yacht.](../Page/Yacht..md "wikilink")の大日野の紹介で「[ヒダカトオル](../Page/日高央.md "wikilink")」のバックバンドに参加、その後ヒダカを中心に「[THE STARBEMS](https://ja.wikipedia.org/wiki/日高央#THE_STARBEMS "wikilink")」を結成する。
     齋藤康輔、前述の大日野らと「you you you all the same」を結成。
 
 <!-- end list -->
@@ -80,7 +80,7 @@
 
 :\* 10月：2nd ALBUM「HOPE」をリリース(オリコン・インディーズ・アルバム・チャート3位、総合チャート44位)
 
-:\* 12月：[COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 09/10出演
+:\* 12月：[COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 09/10出演
 
   - 2010年
 
@@ -283,7 +283,7 @@
 <td><p>3'''</p></td>
 <td><p>CKCA-1013</p></td>
 <td><ol>
-<li>CRAVE YOU / <a href="https://ja.wikipedia.org/wiki/Northern19" title="wikilink">Northern19</a></li>
+<li>CRAVE YOU / <a href="../Page/Northern19.md" title="wikilink">Northern19</a></li>
 <li>The place which need me / <a href="https://ja.wikipedia.org/wiki/stack44" title="wikilink">stack44</a></li>
 <li>EVIL GARAGE / <a href="https://ja.wikipedia.org/wiki/TNX_(バンド)" title="wikilink">TNX</a></li>
 <li>If I. . . / <a href="https://ja.wikipedia.org/wiki/UNDER_LIFE" title="wikilink">UNDER LIFE</a></li>
@@ -311,12 +311,12 @@
 <li>Don't Hate Me / <a href="https://ja.wikipedia.org/wiki/SLIME_BALL" title="wikilink">SLIME BALL</a></li>
 <li>All That I Know / <a href="https://ja.wikipedia.org/wiki/enie_meenie" title="wikilink">enie meenie</a></li>
 <li>Action&amp;Action / <a href="https://ja.wikipedia.org/wiki/UNLIMITS" title="wikilink">UNLIMITS</a></li>
-<li>Holiday / <a href="https://ja.wikipedia.org/wiki/MARS_EURYTHMICS" title="wikilink">MARS EURYTHMICS</a></li>
+<li>Holiday / <a href="../Page/MARS_EURYTHMICS.md" title="wikilink">MARS EURYTHMICS</a></li>
 <li>Out Of Reach / <a href="https://ja.wikipedia.org/wiki/CALENDARS" title="wikilink">CALENDARS</a></li>
 <li>Fall From Grace / <a href="https://ja.wikipedia.org/wiki/FINE_LINES" title="wikilink">FINE LINES</a></li>
 <li>Waking On A Wire / <a href="https://ja.wikipedia.org/wiki/TRIBAL_CHAIR" title="wikilink">TRIBAL CHAIR</a></li>
 <li>Anne Arbour / <a href="https://ja.wikipedia.org/wiki/wooran" title="wikilink">wooran</a></li>
-<li>Ten Minutes / <a href="https://ja.wikipedia.org/wiki/PINKLOOP" title="wikilink">PINKLOOP</a></li>
+<li>Ten Minutes / <a href="../Page/PINKLOOP.md" title="wikilink">PINKLOOP</a></li>
 <li><strong>I'm A Loner Dottie, A Rebel / Local Sound Style</strong></li>
 <li>Red Letter Day / <a href="https://ja.wikipedia.org/wiki/NATURE_LIVING" title="wikilink">NATURE LIVING</a></li>
 <li>Better Half / <a href="https://ja.wikipedia.org/wiki/藤井めぐみ" title="wikilink">藤井めぐみ</a>＆<a href="https://ja.wikipedia.org/wiki/THE_MOON" title="wikilink">THE MOON</a></li>

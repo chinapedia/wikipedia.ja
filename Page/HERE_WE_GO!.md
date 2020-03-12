@@ -1,7 +1,7 @@
 > この記事は[HERE WE GO!](https://ja.wikipedia.org/wiki/HERE_WE_GO!)から翻訳されています。
 
 
-『**HERE WE GO\!**』（ヒア・ウィ・ゴー\!）は、[嵐の](https://ja.wikipedia.org/wiki/嵐_\(グループ\) "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")に[J Stormから発売された](https://ja.wikipedia.org/wiki/ジェイ・ストーム "wikilink")。
+『**HERE WE GO\!**』（ヒア・ウィ・ゴー\!）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")に[J Stormから発売された](../Page/ジェイ・ストーム.md "wikilink")。
 
 ## 解説
 
@@ -24,15 +24,15 @@
         作詞：戸沢暢美、作曲・編曲：岩田雅之
 4.  **Tokyo Lovers Tune Night** (3:46)
       -
-        作詞：[久保田洋司](https://ja.wikipedia.org/wiki/久保田洋司 "wikilink")、作曲・編曲：Charles Hodgkinson・Sagat Guirey・Kirk Zavieh）
+        作詞：[久保田洋司](../Page/久保田洋司.md "wikilink")、作曲・編曲：Charles Hodgkinson・Sagat Guirey・Kirk Zavieh）
 5.  **[a Day in Our Life](https://ja.wikipedia.org/wiki/a_Day_in_Our_Life "wikilink")** (4:40)
       -
-        作詞・作曲・編曲：[SHUN・SHUYA](https://ja.wikipedia.org/wiki/スケボーキング "wikilink")
+        作詞・作曲・編曲：[SHUN・SHUYA](../Page/スケボーキング.md "wikilink")
     <!-- end list -->
       - 7thシングル
       - [櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")出演 [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系ドラマ『[木更津キャッツアイ](../Page/木更津キャッツアイ.md "wikilink")』主題歌
-      - 櫻井翔出演 映画『[木更津キャッツアイ 日本シリーズ](https://ja.wikipedia.org/wiki/木更津キャッツアイ_日本シリーズ "wikilink")』・『[木更津キャッツアイ ワールドシリーズ](https://ja.wikipedia.org/wiki/木更津キャッツアイ_ワールドシリーズ "wikilink")』主題歌
-      - TBS系『[USO\!?ジャパン](https://ja.wikipedia.org/wiki/USO!?ジャパン "wikilink")』テーマソング
+      - 櫻井翔出演 映画『[木更津キャッツアイ 日本シリーズ](../Page/木更津キャッツアイ_日本シリーズ.md "wikilink")』・『[木更津キャッツアイ ワールドシリーズ](../Page/木更津キャッツアイ_ワールドシリーズ.md "wikilink")』主題歌
+      - TBS系『[USO\!?ジャパン](../Page/USO!?ジャパン.md "wikilink")』テーマソング
 6.  **[ALL or NOTHING](https://ja.wikipedia.org/wiki/ALL_or_NOTHING "wikilink")** Ver.1.02 (5:08)
       -
         作詞：TAKESHI AIDA、Rap詞：SHOW、作曲・編曲：ZAKI
@@ -51,9 +51,9 @@
         作詞：久保田洋司、作曲：寺田一郎、編曲：岩田雅之
 9.  **IROあせないで** (4:59)
       -
-        作詞：戸沢暢美、作曲：飯田建彦、編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+        作詞：戸沢暢美、作曲：飯田建彦、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
     <!-- end list -->
-      - 嵐出演 [森永乳業](https://ja.wikipedia.org/wiki/森永乳業 "wikilink")エスキモー「[ピノ](https://ja.wikipedia.org/wiki/pino_\(アイスクリーム\) "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+      - 嵐出演 [森永乳業](../Page/森永乳業.md "wikilink")エスキモー「[ピノ](https://ja.wikipedia.org/wiki/pino_\(アイスクリーム\) "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
 10. **愛してると言えない** (5:39)
       -
         作詞：戸沢暢美、作曲・編曲：長岡成貢
@@ -74,7 +74,7 @@
       - [大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")主演 舞台「テンセイクンプー～転生薫風～」挿入歌\[1\]
 14. **[ナイスな心意気](../Page/ナイスな心意気.md "wikilink")** (3:59)
       -
-        作詞：戸沢暢美、作曲：飯田建彦、編曲：[石塚知生](https://ja.wikipedia.org/wiki/石塚知生 "wikilink")
+        作詞：戸沢暢美、作曲：飯田建彦、編曲：[石塚知生](../Page/石塚知生.md "wikilink")
     <!-- end list -->
       - 8thシングル
       - フジテレビ系アニメ『[こちら葛飾区亀有公園前派出所](../Page/こちら葛飾区亀有公園前派出所.md "wikilink")』エンディング・テーマ

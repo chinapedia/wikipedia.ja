@@ -1,11 +1,11 @@
 > この記事は[ROM](https://ja.wikipedia.org/wiki/ROM)から翻訳されています。
 
 
-**マスクROM**（マスクロム、Mask ROM）とは、[コンピュータ](../Page/コンピュータ.md "wikilink")システムで使用される[記憶装置](../Page/記憶装置.md "wikilink")の一種で、記録されている内容を書き換えることができない[不揮発性メモリ](https://ja.wikipedia.org/wiki/不揮発性メモリ "wikilink")のことを指す。
+**マスクROM**（マスクロム、Mask ROM）とは、[コンピュータ](../Page/コンピュータ.md "wikilink")システムで使用される[記憶装置](../Page/記憶装置.md "wikilink")の一種で、記録されている内容を書き換えることができない[不揮発性メモリ](../Page/不揮発性メモリ.md "wikilink")のことを指す。
 
 ## 概要
 
-マスクROMは[集積回路](../Page/集積回路.md "wikilink")の配線によって記憶情報を構成し、読み出せる内容が[半導体](../Page/半導体.md "wikilink")製造に用いる[フォトマスク](https://ja.wikipedia.org/wiki/フォトマスク "wikilink")によって固定されることから、マスクROMと呼ばれる。 一般に[CPU](../Page/CPU.md "wikilink")の[主記憶](https://ja.wikipedia.org/wiki/主記憶 "wikilink")の一部として利用されるが、[外部記憶装置の形で利用される場面も多い](../Page/補助記憶装置.md "wikilink")。 大量生産時にチップ単価を安く抑えられる点から、ボリュームの出る(数万台以上の出荷が見込める)[ゲーム機](../Page/ゲーム機.md "wikilink")のソフトや[組み込み機器で多く使われている](../Page/組み込みシステム.md "wikilink")。
+マスクROMは[集積回路](../Page/集積回路.md "wikilink")の配線によって記憶情報を構成し、読み出せる内容が[半導体](../Page/半導体.md "wikilink")製造に用いる[フォトマスク](../Page/フォトマスク.md "wikilink")によって固定されることから、マスクROMと呼ばれる。 一般に[CPU](../Page/CPU.md "wikilink")の[主記憶](https://ja.wikipedia.org/wiki/主記憶 "wikilink")の一部として利用されるが、[外部記憶装置の形で利用される場面も多い](../Page/補助記憶装置.md "wikilink")。 大量生産時にチップ単価を安く抑えられる点から、ボリュームの出る(数万台以上の出荷が見込める)[ゲーム機](../Page/ゲーム機.md "wikilink")のソフトや[組み込み機器で多く使われている](../Page/組み込みシステム.md "wikilink")。
 
 近年の組み込み機器に関しては、後述するデメリットから、1980年代には[PROM](../Page/PROM.md "wikilink")や[UV-EPROM](../Page/UV-EPROM.md "wikilink")に、1990年代中頃以降は[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")に置き換えられているものも多い。
 

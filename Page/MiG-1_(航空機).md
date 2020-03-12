@@ -7,7 +7,7 @@
 
 [1940年](../Page/1940年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に初飛行し、8月に最終テストを行い制式化された。100機ほど生産された後、12月に生産が打ち切られ、改良型の[MiG-3戦闘機に転換された](https://ja.wikipedia.org/wiki/MiG-3_\(航空機\) "wikilink")。
 
-すぐに生産が打ち切られた理由として、MiG-1は同時期のソ連の戦闘機の中では性能は良かったが、安定性が悪い、機体[強度](../Page/強度.md "wikilink")が低い、[失速](../Page/失速.md "wikilink")しやすい、[航続距離](https://ja.wikipedia.org/wiki/航続距離 "wikilink")が短いなど、多数の欠点を持っていたからだと考えられる。
+すぐに生産が打ち切られた理由として、MiG-1は同時期のソ連の戦闘機の中では性能は良かったが、安定性が悪い、機体[強度](../Page/強度.md "wikilink")が低い、[失速](../Page/失速.md "wikilink")しやすい、[航続距離](../Page/航続距離.md "wikilink")が短いなど、多数の欠点を持っていたからだと考えられる。
 
 ## 主要諸元
 
@@ -17,11 +17,11 @@
   - 全幅：10.20 m
   - 自重：2,410 kg
   - 最大離陸重量：3,350 kg
-  - エンジン：[ミクーリン AM-35A](https://ja.wikipedia.org/wiki/ミクーリン_AM-35 "wikilink") [液冷](https://ja.wikipedia.org/wiki/液冷エンジン "wikilink")[V型12気筒](https://ja.wikipedia.org/wiki/V型12気筒 "wikilink")×1
+  - エンジン：[ミクーリン AM-35A](https://ja.wikipedia.org/wiki/ミクーリン_AM-35 "wikilink") [液冷](../Page/液冷エンジン.md "wikilink")[V型12気筒](../Page/V型12気筒.md "wikilink")×1
   - 出力：1,350 馬力
   - 最大速度：640 km/h
   - [巡航速度](https://ja.wikipedia.org/wiki/巡航速度 "wikilink")：486 km/h
-  - [航続距離](https://ja.wikipedia.org/wiki/航続距離 "wikilink")：730 km
+  - [航続距離](../Page/航続距離.md "wikilink")：730 km
   - 上昇限度：12,000 m
   - 武装
       - [12.7 mm BS機関銃](https://ja.wikipedia.org/wiki/UB_\(機関銃\) "wikilink")×1

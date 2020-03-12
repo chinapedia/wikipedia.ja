@@ -1,7 +1,7 @@
 > この記事は[TZ](https://ja.wikipedia.org/wiki/TZ)から翻訳されています。
 
 
-**トヨタ・TZエンジン**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")の系列である。初代エスティマ系専用としてアンダーフロア型[ミッドシップ](https://ja.wikipedia.org/wiki/ミッドシップ "wikilink")レイアウトを実現するために[２RZ型](../Page/トヨタ・RZエンジン.md "wikilink") をベースに造られた。初代エスティマ系の販売終了に伴い [AZ型](https://ja.wikipedia.org/wiki/トヨタ・AZエンジン "wikilink") に統括。形式的な後継は [TR型となる](../Page/トヨタ・TRエンジン.md "wikilink")。
+**トヨタ・TZエンジン**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。初代エスティマ系専用としてアンダーフロア型[ミッドシップ](../Page/ミッドシップ.md "wikilink")レイアウトを実現するために[２RZ型](../Page/トヨタ・RZエンジン.md "wikilink") をベースに造られた。初代エスティマ系の販売終了に伴い [AZ型](../Page/トヨタ・AZエンジン.md "wikilink") に統括。形式的な後継は [TR型となる](../Page/トヨタ・TRエンジン.md "wikilink")。
 
 ## 概要
 
@@ -10,7 +10,7 @@
 
 ## 系譜
 
-  - [エンジン型式一覧の](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
+  - [エンジン型式一覧の](../Page/トヨタのエンジン型式一覧.md "wikilink")[自動車用エンジンの系譜を参照](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧#自動車用エンジンの系譜 "wikilink")。
 
 ## 型式
 
@@ -27,11 +27,11 @@
 
   - 搭載車種（車両型式）
       - （初）初代[エスティマ](../Page/トヨタ・エスティマ.md "wikilink")（TCR10W/11W/20W/21W）
-      - [エスティマエミーナ／ルシーダ](https://ja.wikipedia.org/wiki/トヨタ・エスティマエミーナ "wikilink")（TCR10G/11G/20G/21G）
+      - [エスティマエミーナ／ルシーダ](../Page/トヨタ・エスティマエミーナ.md "wikilink")（TCR10G/11G/20G/21G）
 
 ### 2TZ-FZE
 
-  - 種類：DOHC 16バルブ [インタークーラー](https://ja.wikipedia.org/wiki/インタークーラー "wikilink")付[スーパーチャージャー](../Page/スーパーチャージャー.md "wikilink") EFI
+  - 種類：DOHC 16バルブ [インタークーラー](../Page/インタークーラー.md "wikilink")付[スーパーチャージャー](../Page/スーパーチャージャー.md "wikilink") EFI
   - 排気量：2.438L
   - 内径×行程：95.0×86.0(mm)
   - 圧縮比：8.9
@@ -46,8 +46,8 @@
 ## 関連項目
 
   - [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
-  - [トヨタのエンジン系列名](https://ja.wikipedia.org/wiki/トヨタのエンジン系列名 "wikilink")
-  - [トヨタのエンジン型式一覧](https://ja.wikipedia.org/wiki/トヨタのエンジン型式一覧 "wikilink")
+  - [トヨタのエンジン系列名](../Page/トヨタのエンジン系列名.md "wikilink")
+  - [トヨタのエンジン型式一覧](../Page/トヨタのエンジン型式一覧.md "wikilink")
 
 [en:Toyota TZ engine](https://ja.wikipedia.org/wiki/en:Toyota_TZ_engine "wikilink")
 

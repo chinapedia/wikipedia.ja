@@ -1,15 +1,15 @@
 > この記事は[Sprout](https://ja.wikipedia.org/wiki/Sprout)から翻訳されています。
 
 
-**sprout**（スプラウト）は、日本の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。所属レコード会社は[ベルウッドレコード](https://ja.wikipedia.org/wiki/ベルウッドレコード "wikilink")。
+**sprout**（スプラウト）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。所属レコード会社は[ベルウッドレコード](https://ja.wikipedia.org/wiki/ベルウッドレコード "wikilink")。
 
-結成時のメンバーは[塩澤英真](https://ja.wikipedia.org/wiki/塩澤英真 "wikilink")と[加藤康起](https://ja.wikipedia.org/wiki/加藤康起 "wikilink")であった。
+結成時のメンバーは[塩澤英真](../Page/塩澤英真.md "wikilink")と[加藤康起](../Page/加藤康起.md "wikilink")であった。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月2日](../Page/8月2日.md "wikilink")にベルウッドレコードから[インディーズ](../Page/インディーズ.md "wikilink")としてシングル「One Love」でCDデビューした。塩澤と加藤での最初のシングルCDである。
+[2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")にベルウッドレコードから[インディーズ](../Page/インディーズ.md "wikilink")としてシングル「One Love」でCDデビューした。塩澤と加藤での最初のシングルCDである。
 
-しかし、加藤は大学受験を理由に同年12月26日の[渋谷BOXX](https://ja.wikipedia.org/wiki/渋谷BOXX "wikilink")でのイベントを最後に音楽活動を休止し、その後[平牧仁](https://ja.wikipedia.org/wiki/平牧仁 "wikilink")が加入した。
+しかし、加藤は大学受験を理由に同年12月26日の[渋谷BOXX](https://ja.wikipedia.org/wiki/渋谷BOXX "wikilink")でのイベントを最後に音楽活動を休止し、その後[平牧仁](../Page/平牧仁.md "wikilink")が加入した。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")8月31日をもって活動休止している。
+[2007年](../Page/2007年.md "wikilink")8月31日をもって活動休止している。
 
 ## ディスコグラフィ
 
@@ -40,13 +40,13 @@
 <li>キズナ
 <dl>
 <dt></dt>
-<dd>作詞：塩澤英真／作曲：<a href="https://ja.wikipedia.org/wiki/鈴木雄大" title="wikilink">鈴木雄大</a>
+<dd>作詞：塩澤英真／作曲：<a href="../Page/鈴木雄大.md" title="wikilink">鈴木雄大</a>
 </dd>
 </dl></li>
 <li>One Love (instrumantal)</li>
 <li>キズナ (instrumantal)</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベルウッド・レコード" title="wikilink">ベルウッド・レコード</a></p></td>
+<td><p><a href="../Page/ベルウッド・レコード.md" title="wikilink">ベルウッド・レコード</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -74,9 +74,9 @@
 
 ## タイアップ
 
-| 曲名       | タイアップ                                                                                                               |
-| -------- | ------------------------------------------------------------------------------------------------------------------- |
-| One Love | [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink") [愛の劇場](../Page/愛の劇場.md "wikilink")「\[\[大好き\!五つ子|大好き\!五つ子Go² |
+| 曲名       | タイアップ                                                                                            |
+| -------- | ------------------------------------------------------------------------------------------------ |
+| One Love | [TBS系](../Page/TBSテレビ.md "wikilink") [愛の劇場](../Page/愛の劇場.md "wikilink")「\[\[大好き\!五つ子|大好き\!五つ子Go² |
 
 ## 出演
 

@@ -1,9 +1,9 @@
 > この記事は[StartCom Linux](https://ja.wikipedia.org/wiki/StartCom_Linux)から翻訳されています。
 
 
-**StartCom Linux**（スタートコム・リナックス）とは、[Red Hat Enterprise Linux](https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux "wikilink") (RHEL) と[互換性](https://ja.wikipedia.org/wiki/互換性 "wikilink")のある[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")である。
+**StartCom Linux**（スタートコム・リナックス）とは、[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") (RHEL) と[互換性](../Page/互換性.md "wikilink")のある[Linux](../Page/Linux.md "wikilink")である。
 
-RHEL5ベースのLiunxを他の[RHEL互換ディストリビューションよりもいち早く登場したため注目された](https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux "wikilink")。[サーバ](../Page/サーバ.md "wikilink")向けのStartCom Enterprise Linuxと、[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ "wikilink")用途向けのStartCom MultiMedia Editionが存在する。
+RHEL5ベースのLiunxを他の[RHEL互換ディストリビューションよりもいち早く登場したため注目された](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。[サーバ](../Page/サーバ.md "wikilink")向けのStartCom Enterprise Linuxと、[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ "wikilink")用途向けのStartCom MultiMedia Editionが存在する。
 
 ## 外部リンク
 

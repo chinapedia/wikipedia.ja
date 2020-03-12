@@ -1,7 +1,7 @@
 > この記事は[J.J.](https://ja.wikipedia.org/wiki/J.J.)から翻訳されています。
 
 
-**ジェームズ・ジェリー・ハーディ**（**James Jerry Hardy**, [1982年](../Page/1982年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")[ツーソン](https://ja.wikipedia.org/wiki/ツーソン "wikilink")出身の[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[遊撃手](../Page/遊撃手.md "wikilink")）。右投右打。現在は[フリーエージェント](../Page/フリーエージェント_\(プロスポーツ\).md "wikilink")。
+**ジェームズ・ジェリー・ハーディ**（**James Jerry Hardy**, [1982年](../Page/1982年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")[ツーソン](../Page/ツーソン.md "wikilink")出身の[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[遊撃手](../Page/遊撃手.md "wikilink")）。右投右打。現在は[フリーエージェント](../Page/フリーエージェント_\(プロスポーツ\).md "wikilink")。
 
 父親がプロのテニス選手、母親がプロゴルファーとしてプレイしていた事がある\[1\]。そして、息子のJ.J.は、プロの野球選手という、スポーツ一家に育っている。
 
@@ -13,9 +13,9 @@
 
 [4月4日](../Page/4月4日.md "wikilink")の開幕戦で球団史上の[ポール・モリター](../Page/ポール・モリター.md "wikilink")以来となる開幕戦でメジャーデビューとなった\[3\]。しかし、[7月17日](../Page/7月17日.md "wikilink")まで打率が2割を下回っていたが\[4\]、9月には打率.327をマークした\[5\]。
 
-は[5月16日](../Page/5月16日.md "wikilink")の[フィリーズ戦で右足首を痛めて](https://ja.wikipedia.org/wiki/フィラデルフィア・フィリーズ "wikilink")[故障者リスト](https://ja.wikipedia.org/wiki/故障者リスト "wikilink")入りとなり、手術が必要なためこの試合を最後にシーズンを終えた\[6\]。
+は[5月16日](../Page/5月16日.md "wikilink")の[フィリーズ戦で右足首を痛めて](../Page/フィラデルフィア・フィリーズ.md "wikilink")[故障者リスト](../Page/故障者リスト.md "wikilink")入りとなり、手術が必要なためこの試合を最後にシーズンを終えた\[6\]。
 
-は[4月19日](../Page/4月19日.md "wikilink")から[5月19日](../Page/5月19日.md "wikilink")にかけて13本塁打を記録し、メディアで盛んに取り上げられた\[7\]。その後、[オールスターゲームに初めて選出された](https://ja.wikipedia.org/wiki/2007年のMLBオールスターゲーム "wikilink")。シーズン26本塁打を記録し、[9月22日](../Page/9月22日.md "wikilink")の[ブレーブス戦では球団新記録となるチーム](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")217本目の本塁打を放った\[8\]。
+は[4月19日](../Page/4月19日.md "wikilink")から[5月19日](../Page/5月19日.md "wikilink")にかけて13本塁打を記録し、メディアで盛んに取り上げられた\[7\]。その後、[オールスターゲームに初めて選出された](../Page/2007年のMLBオールスターゲーム.md "wikilink")。シーズン26本塁打を記録し、[9月22日](../Page/9月22日.md "wikilink")の[ブレーブス戦では球団新記録となるチーム](../Page/アトランタ・ブレーブス.md "wikilink")217本目の本塁打を放った\[8\]。
 
 は打率.283、24本塁打、74打点を記録した。
 
@@ -23,17 +23,17 @@
 
 ### ツインズ時代
 
-2009年11月6日に[カルロス・ゴメスとのトレードで](https://ja.wikipedia.org/wiki/カルロス・ゴメス_\(野球\) "wikilink")[ミネソタ・ツインズ](https://ja.wikipedia.org/wiki/ミネソタ・ツインズ "wikilink")へ移籍した。
+2009年11月6日に[カルロス・ゴメスとのトレードで](../Page/カルロス・ゴメス_\(野球\).md "wikilink")[ミネソタ・ツインズ](../Page/ミネソタ・ツインズ.md "wikilink")へ移籍した。
 
 ### オリオールズ時代
 
-12月9日に[ジム・ホーイ](../Page/ジム・ホーイ.md "wikilink")、[ブレット・ジェイコブソン](https://ja.wikipedia.org/wiki/ブレット・ジェイコブソン "wikilink")とのトレードで、[ブレンダン・ハリス](../Page/ブレンダン・ハリス.md "wikilink")と共に[ボルチモア・オリオールズ](https://ja.wikipedia.org/wiki/ボルチモア・オリオールズ "wikilink")へ移籍した\[9\]。
+12月9日に[ジム・ホーイ](../Page/ジム・ホーイ.md "wikilink")、[ブレット・ジェイコブソン](https://ja.wikipedia.org/wiki/ブレット・ジェイコブソン "wikilink")とのトレードで、[ブレンダン・ハリス](../Page/ブレンダン・ハリス.md "wikilink")と共に[ボルチモア・オリオールズ](../Page/ボルチモア・オリオールズ.md "wikilink")へ移籍した\[9\]。
 
 7月18日にオリオールズと総額2250万ドルの3年契約に合意した\[10\]\[11\]。この年は129試合に出場し、30本塁打80打点、打率.269だった。
 
-は158試合に出場し、22本塁打68打点、打率.238だった。オフの10月30日には自身初となる[ゴールドグラブ賞](https://ja.wikipedia.org/wiki/ゴールドグラブ賞 "wikilink")・遊撃手部門を受賞した\[12\]。
+は158試合に出場し、22本塁打68打点、打率.238だった。オフの10月30日には自身初となる[ゴールドグラブ賞](../Page/ゴールドグラブ賞.md "wikilink")・遊撃手部門を受賞した\[12\]。
 
-は自己最多の159試合に出場し、25本塁打76打点2盗塁、打率.263だった。オフの10月29日には2年連続でゴールドグラブ賞を受賞\[13\]。11月6日には[シルバースラッガー賞](https://ja.wikipedia.org/wiki/シルバースラッガー賞 "wikilink")を受賞した\[14\]。
+は自己最多の159試合に出場し、25本塁打76打点2盗塁、打率.263だった。オフの10月29日には2年連続でゴールドグラブ賞を受賞\[13\]。11月6日には[シルバースラッガー賞](../Page/シルバースラッガー賞.md "wikilink")を受賞した\[14\]。
 
 は141試合に出場し、9本塁打52打点、打率.268だった。10月9日にオリオールズと総額4000万ドル+出来高の3年契約\[15\]（2018年・1400万ドルのベスティング・オプション付き\[16\]）を結んだ\[17\]\[18\]。オフの11月4日に3年連続となるゴールドグラブ賞を受賞した\[19\]。
 
@@ -186,7 +186,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミネソタ・ツインズ" title="wikilink">MIN</a></p></td>
+<td><p><a href="../Page/ミネソタ・ツインズ.md" title="wikilink">MIN</a></p></td>
 <td><p>101</p></td>
 <td><p>375</p></td>
 <td><p>340</p></td>
@@ -213,7 +213,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルチモア・オリオールズ" title="wikilink">BAL</a></p></td>
+<td><p><a href="../Page/ボルチモア・オリオールズ.md" title="wikilink">BAL</a></p></td>
 <td><p>129</p></td>
 <td><p>567</p></td>
 <td><p>527</p></td>
@@ -434,12 +434,12 @@
 
 ### 表彰
 
-  - [シルバースラッガー賞](https://ja.wikipedia.org/wiki/シルバースラッガー賞 "wikilink")：1回（2013年）
-  - [ゴールドグラブ賞](https://ja.wikipedia.org/wiki/ゴールドグラブ賞 "wikilink")：3回（2012年、2013年、2014年）
+  - [シルバースラッガー賞](../Page/シルバースラッガー賞.md "wikilink")：1回（2013年）
+  - [ゴールドグラブ賞](../Page/ゴールドグラブ賞.md "wikilink")：3回（2012年、2013年、2014年）
 
 ### 記録
 
-  - [MLBオールスターゲーム](https://ja.wikipedia.org/wiki/MLBオールスターゲーム "wikilink")選出：2回（2007年、2013年）
+  - [MLBオールスターゲーム](../Page/MLBオールスターゲーム.md "wikilink")選出：2回（2007年、2013年）
 
 ### 背番号
 
@@ -451,7 +451,7 @@
 
 ## 関連項目
 
-  - [メジャーリーグベースボールの選手一覧](https://ja.wikipedia.org/wiki/メジャーリーグベースボールの選手一覧 "wikilink")
+  - [メジャーリーグベースボールの選手一覧](../Page/メジャーリーグベースボールの選手一覧.md "wikilink")
 
 ## 外部リンク
 

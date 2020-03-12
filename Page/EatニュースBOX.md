@@ -5,7 +5,7 @@
 
 ## 概要
 
-愛媛朝日テレビの開局時から放送。[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")の全国ニュースを内包しない独立番組だった。
+愛媛朝日テレビの開局時から放送。[テレビ朝日](../Page/テレビ朝日.md "wikilink")の全国ニュースを内包しない独立番組だった。
 
 番組タイトルロゴは、2005年3月31日までは「**EATニュースBOX**」表記だった。その後は「eatニュースBOX」を経て、2009年3月30日から「**eat News BOX**」としていた。
 
@@ -19,25 +19,25 @@
 
 ### 番組終了時の担当者
 
-  - [市脇康平](https://ja.wikipedia.org/wiki/市脇康平 "wikilink")（月曜・火曜）
-  - [矢佐間恵](https://ja.wikipedia.org/wiki/矢佐間恵 "wikilink")（月曜・火曜）
+  - [市脇康平](../Page/市脇康平.md "wikilink")（月曜・火曜）
+  - [矢佐間恵](../Page/矢佐間恵.md "wikilink")（月曜・火曜）
   - [村上健太郎](https://ja.wikipedia.org/wiki/村上健太郎 "wikilink")（水曜・木曜）
-  - [川越友佳](https://ja.wikipedia.org/wiki/川越友佳 "wikilink")（水曜・木曜）
+  - [川越友佳](../Page/川越友佳.md "wikilink")（水曜・木曜）
 
 ### 過去の担当者
 
   - [松岡誠司](https://ja.wikipedia.org/wiki/松岡誠司_\(アナウンサー\) "wikilink")
-  - [大澤やすのり](https://ja.wikipedia.org/wiki/大澤やすのり "wikilink")
+  - [大澤やすのり](../Page/大澤やすのり.md "wikilink")
   - [高木克人](https://ja.wikipedia.org/wiki/高木克人 "wikilink")
-  - [長島邦英](https://ja.wikipedia.org/wiki/長島邦英 "wikilink")
+  - [長島邦英](../Page/長島邦英.md "wikilink")
   - [吉岡由観](https://ja.wikipedia.org/wiki/吉岡由観 "wikilink")
   - [久保美智代](https://ja.wikipedia.org/wiki/久保美智代 "wikilink")
   - [高部さつき](https://ja.wikipedia.org/wiki/高部さつき "wikilink")
   - [大角茉里](https://ja.wikipedia.org/wiki/大角茉里 "wikilink")
-  - [川上裕子](https://ja.wikipedia.org/wiki/川上裕子 "wikilink")
-  - [林暁代](https://ja.wikipedia.org/wiki/林暁代 "wikilink")
+  - [川上裕子](../Page/川上裕子.md "wikilink")
+  - [林暁代](../Page/林暁代.md "wikilink")
   - [海野紀恵](../Page/海野紀恵.md "wikilink")
-  - [柳瀬若菜](https://ja.wikipedia.org/wiki/柳瀬若菜 "wikilink")
+  - [柳瀬若菜](../Page/柳瀬若菜.md "wikilink")
 
 ## 放送時間
 
@@ -53,7 +53,7 @@
   - オープニング
     全国パートの『[ANNスーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』から[ステーションブレイク無しでトップニュースを伝えた後](https://ja.wikipedia.org/wiki/コマーシャルメッセージ#CMの種類 "wikilink")、映像をバックにロゴを表示。かつては3項目のヘッドラインが流れていた。
   - きょうのニュース
-    項目ごとにアタック音を流していた。愛媛の夕方ローカルニュースでは、『[キャッチあい](https://ja.wikipedia.org/wiki/キャッチあい "wikilink")』『EBCスーパーニュース（ローカルパート）』も項目ごとにアタック音を流していた。
+    項目ごとにアタック音を流していた。愛媛の夕方ローカルニュースでは、『[キャッチあい](../Page/キャッチあい.md "wikilink")』『EBCスーパーニュース（ローカルパート）』も項目ごとにアタック音を流していた。
   - 特集
     ニュースなお天気
     地域の話題とともに天気予報を伝える。なお、『ニュースBOX』の終了後、別枠で18:56頃から『天気予報』（番組）がある。すなわち、19時までの間に2回天気予報のコーナーがあった。
@@ -75,7 +75,7 @@
   - [eatニュース](https://ja.wikipedia.org/wiki/eatニュース "wikilink")
   - [ステーションEYE](../Page/ステーションEYE.md "wikilink")
   - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")（週末のみ）
-  - [ANN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/ANN夕方ローカルニュース一覧 "wikilink")
+  - [ANN夕方ローカルニュース一覧](../Page/ANN夕方ローカルニュース一覧.md "wikilink")
 
 ## 外部リンク
 

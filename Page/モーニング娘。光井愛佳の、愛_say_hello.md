@@ -1,7 +1,7 @@
 > この記事は[ say hello](https://ja.wikipedia.org/wiki/_say_hello)から翻訳されています。
 
 
-**モーニング娘。光井愛佳の、愛 say hello**（モーニングむすめ みついあいかの あい セイ ハロー）は、[e-radioの](../Page/エフエム滋賀.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[ワイド帯番組](https://ja.wikipedia.org/wiki/ワイド番組 "wikilink")『[radio drive plus](https://ja.wikipedia.org/wiki/radio_drive_plus "wikilink")』木曜日の[内包番組](https://ja.wikipedia.org/wiki/内包番組 "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送開始、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月18日](../Page/9月18日.md "wikilink")放送終了。
+**モーニング娘。光井愛佳の、愛 say hello**（モーニングむすめ みついあいかの あい セイ ハロー）は、[e-radioの](../Page/エフエム滋賀.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[ワイド帯番組](../Page/ワイド番組.md "wikilink")『[radio drive plus](https://ja.wikipedia.org/wiki/radio_drive_plus "wikilink")』木曜日の[内包番組](https://ja.wikipedia.org/wiki/内包番組 "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送開始、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月18日](../Page/9月18日.md "wikilink")放送終了。
 
 ## パーソナリティ
 
@@ -28,9 +28,9 @@
 
 ## 放送内容
 
-  - [リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")から寄せられたメールを元に「キーワード」を決め、そのキーワードについて光井がトークを行う。
+  - [リスナー](../Page/リスナー.md "wikilink")から寄せられたメールを元に「キーワード」を決め、そのキーワードについて光井がトークを行う。
   - 番組後半では曲がかかるが、モーニング娘。や[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の最新曲であることが多い。
-  - 不定期にradio drive plusのMCである[仙石幸一](https://ja.wikipedia.org/wiki/仙石幸一 "wikilink")と、電話によるインタビュートークを放送することがある。
+  - 不定期にradio drive plusのMCである[仙石幸一](../Page/仙石幸一.md "wikilink")と、電話によるインタビュートークを放送することがある。
 
 ## 外部リンク
 

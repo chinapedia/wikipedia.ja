@@ -14,15 +14,15 @@
 
 ## 沿革
 
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")　[専門学校東京デザイナー学院](https://ja.wikipedia.org/wiki/専門学校東京デザイナー学院 "wikilink")　[東京写真専門学校](https://ja.wikipedia.org/wiki/東京写真専門学校 "wikilink")の福岡校として[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")天神に設立
-  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")　[博多駅](https://ja.wikipedia.org/wiki/博多駅 "wikilink")前に総合校舎完成　[学校法人](../Page/学校法人.md "wikilink")として[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")に認可され校名を専門学校九州デザイナー学院に変更
+  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")　[専門学校東京デザイナー学院](../Page/専門学校東京デザイナー学院.md "wikilink")　[東京写真専門学校](https://ja.wikipedia.org/wiki/東京写真専門学校 "wikilink")の福岡校として[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")天神に設立
+  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")　[博多駅](https://ja.wikipedia.org/wiki/博多駅 "wikilink")前に総合校舎完成　[学校法人](../Page/学校法人.md "wikilink")として[福岡県](../Page/福岡県.md "wikilink")に認可され校名を専門学校九州デザイナー学院に変更
   - 1983年　専門学校九州スクール・オブ・ビジネス、九州観光専門学校開校
   - [1989年](../Page/1989年.md "wikilink")　総合校舎2号館を増設
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")　九州デザイナー学院の映像音響専門課程が独立し専門学校九州ビジュアルアーツとして開校
   - [2001年](../Page/2001年.md "wikilink")　ペット・フラワー・メイクの実習棟増築
   - [2004年](../Page/2004年.md "wikilink")　総合実習棟増築
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")　校舎1階に学生が運営する実習店舗「U29（ユニーク）」オープン
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")　[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中央区](../Page/中央区_\(福岡市\).md "wikilink")[大名に学生が運営する実習店舗](https://ja.wikipedia.org/wiki/大名_\(福岡市\) "wikilink")「iRO-YA（イロヤ）」オープン
+  - [2006年](../Page/2006年.md "wikilink")　校舎1階に学生が運営する実習店舗「U29（ユニーク）」オープン
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")　[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中央区](../Page/中央区_\(福岡市\).md "wikilink")[大名に学生が運営する実習店舗](../Page/大名_\(福岡市\).md "wikilink")「iRO-YA（イロヤ）」オープン
   - [2017年](../Page/2018年.md "wikilink")3月　学校法人東京安達学園が学校法人東京学園、学校法人大阪安達学園、学校法人名古屋安達学園、学校法人九州安達学園を統合
   - [2017年](../Page/2017年.md "wikilink")11月　学校法人東京安達学園が学校法人Adachi学園に法人名を変更
 
@@ -60,7 +60,7 @@
 
 ### 特待生制度
 
-[特待生](../Page/特待生.md "wikilink")にはS特・A特・B特の3種類あり、それぞれ[学費](https://ja.wikipedia.org/wiki/学費 "wikilink")が免除される。定員は合計120人。試験は、[SPI](https://ja.wikipedia.org/wiki/SPI "wikilink")試験・[面接](https://ja.wikipedia.org/wiki/面接 "wikilink")（体験入学参加者は免除）がある。体験入学と同時に特待生試験対策講座も不定期で行っている。
+[特待生](../Page/特待生.md "wikilink")にはS特・A特・B特の3種類あり、それぞれ[学費](../Page/学費.md "wikilink")が免除される。定員は合計120人。試験は、[SPI](../Page/SPI.md "wikilink")試験・[面接](../Page/面接.md "wikilink")（体験入学参加者は免除）がある。体験入学と同時に特待生試験対策講座も不定期で行っている。
 
 免除額
 
@@ -74,7 +74,7 @@
 
 ### Adachi Walker(過去情報)
 
-Adachi Walkerとは学生が不定期に発行している[フリーペーパー](https://ja.wikipedia.org/wiki/フリーペーパー "wikilink")で取材、撮影、モデルなどすべて学生が担当している
+Adachi Walkerとは学生が不定期に発行している[フリーペーパー](../Page/フリーペーパー.md "wikilink")で取材、撮影、モデルなどすべて学生が担当している
 
 記事の内容として
 
@@ -82,7 +82,7 @@ Adachi Walkerとは学生が不定期に発行している[フリーペーパー
   - 在学生・卒業生のインタビュー
   - 学校周辺のお店（ランチ）紹介　　などがある
 
-[アビスパ福岡](../Page/アビスパ福岡.md "wikilink")の選手や[加治屋朋子](https://ja.wikipedia.org/wiki/加治屋朋子 "wikilink")（元[TVQ](../Page/TVQ九州放送.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）、[斉藤ふみ](https://ja.wikipedia.org/wiki/斉藤ふみ "wikilink")（[ローカルタレント](https://ja.wikipedia.org/wiki/ローカルタレント "wikilink")）も取材し、記事として掲載している
+[アビスパ福岡](../Page/アビスパ福岡.md "wikilink")の選手や[加治屋朋子](https://ja.wikipedia.org/wiki/加治屋朋子 "wikilink")（元[TVQ](../Page/TVQ九州放送.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）、[斉藤ふみ](../Page/斉藤ふみ.md "wikilink")（[ローカルタレント](../Page/ローカルタレント.md "wikilink")）も取材し、記事として掲載している
 
 ### EMCOM（エムコン)(過去情報)
 
@@ -114,12 +114,12 @@ EMCOMには以下の2部門がある
 
 九州安達学園には以下の運動部と吹奏楽部があるが参加は各生徒の自由で認知度が低いせいか、参加していない生徒が圧倒的に多い
 
-  - [軟式野球](https://ja.wikipedia.org/wiki/軟式野球 "wikilink")部
-  - [バレーボール](https://ja.wikipedia.org/wiki/バレーボール "wikilink")部
+  - [軟式野球](../Page/軟式野球.md "wikilink")部
+  - [バレーボール](../Page/バレーボール.md "wikilink")部
   - [バスケットボール](../Page/バスケットボール.md "wikilink")部
   - [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")部
   - [硬式](../Page/テニス.md "wikilink")・[軟式テニス](https://ja.wikipedia.org/wiki/軟式テニス "wikilink")部
-  - [バドミントン](https://ja.wikipedia.org/wiki/バドミントン "wikilink")部
+  - [バドミントン](../Page/バドミントン.md "wikilink")部
   - [卓球](../Page/卓球.md "wikilink")部
   - [弓道](../Page/弓道.md "wikilink")部
   - [吹奏楽](../Page/吹奏楽.md "wikilink")部
@@ -132,7 +132,7 @@ Adachi学園(九州地区)の施設では一番広く300人以上が収容でき
 
 プロの音響・照明システムを導入していて、普段はそれを使用した実習授業の教室として使用しているが、ファッションショーやプロのアーティストを招いたライブにも使用される
 
-不定期ではあるが[ロバートハウス](https://ja.wikipedia.org/wiki/ロバートハウス "wikilink")（[FBS](../Page/福岡放送.md "wikilink")）、[ドォーモ](https://ja.wikipedia.org/wiki/ドォーモ "wikilink")（[KBC](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")）など在福局の番組収録にも使用される
+不定期ではあるが[ロバートハウス](https://ja.wikipedia.org/wiki/ロバートハウス "wikilink")（[FBS](../Page/福岡放送.md "wikilink")）、[ドォーモ](../Page/ドォーモ.md "wikilink")（[KBC](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")）など在福局の番組収録にも使用される
 
 ### バンケットルーム・学内チャペル
 
@@ -150,7 +150,7 @@ Adachi学園(九州地区)の施設では一番広く300人以上が収容でき
 
 ### 副調整室
 
-主に放送学科が使用している [副調整室](https://ja.wikipedia.org/wiki/副調整室 "wikilink")
+主に放送学科が使用している [副調整室](../Page/副調整室.md "wikilink")
 
   -
     簡易TVスタジオとその副調整システムで構成される。スタジオカメラ、照明、マイク、ミキサー、スイッチャーなどの放送用・業務用の機材が揃っており、本格的なTV番組の制作が可能。
@@ -191,7 +191,7 @@ Adachi学園(九州地区)の施設では一番広く300人以上が収容でき
 
 主にカフェ＆スイーツ学科が使用している
 
-製菓・カフェ実習に使用する。製菓・製パン機器・器具を使い、お菓子づくりやパンづくりを行う。指導は実際プロで活躍されている[パティシエ](https://ja.wikipedia.org/wiki/パティシエ "wikilink")、[ブランジェ](https://ja.wikipedia.org/wiki/製パン "wikilink")
+製菓・カフェ実習に使用する。製菓・製パン機器・器具を使い、お菓子づくりやパンづくりを行う。指導は実際プロで活躍されている[パティシエ](../Page/パティシエ.md "wikilink")、[ブランジェ](../Page/製パン.md "wikilink")
 
 ### 録音スタジオ
 
@@ -215,14 +215,14 @@ Adachi学園(九州地区)の施設では一番広く300人以上が収容でき
 
   - [専門学校東京スクール・オブ・ビジネス](https://ja.wikipedia.org/wiki/専門学校東京スクール・オブ・ビジネス "wikilink")
   - [東京観光専門学校](https://ja.wikipedia.org/wiki/東京観光専門学校 "wikilink")
-  - [専門学校東京クールジャパン](https://ja.wikipedia.org/wiki/専門学校東京ネットウエイブ "wikilink")
-  - [専門学校東京デザイナー学院](https://ja.wikipedia.org/wiki/専門学校東京デザイナー学院 "wikilink")
-  - [専門学校東京ビジュアルアーツ](https://ja.wikipedia.org/wiki/専門学校東京ビジュアルアーツ "wikilink")
+  - [専門学校東京クールジャパン](../Page/専門学校東京ネットウエイブ.md "wikilink")
+  - [専門学校東京デザイナー学院](../Page/専門学校東京デザイナー学院.md "wikilink")
+  - [専門学校東京ビジュアルアーツ](../Page/専門学校東京ビジュアルアーツ.md "wikilink")
 
 ### 名古屋地区
 
   - [専門学校名古屋スクール・オブ・ビジネス](https://ja.wikipedia.org/wiki/専門学校名古屋スクール・オブ・ビジネス "wikilink")
-  - [名古屋観光専門学校](https://ja.wikipedia.org/wiki/名古屋観光専門学校 "wikilink")
+  - [名古屋観光専門学校](../Page/名古屋観光専門学校.md "wikilink")
   - [専門学校名古屋デザイナー学院](../Page/専門学校名古屋デザイナー学院.md "wikilink")
   - [専門学校名古屋ビジュアルアーツ](https://ja.wikipedia.org/wiki/専門学校名古屋ビジュアルアーツ "wikilink")
 
@@ -230,14 +230,14 @@ Adachi学園(九州地区)の施設では一番広く300人以上が収容でき
 
   - [大阪ビジネスカレッジ専門学校](https://ja.wikipedia.org/wiki/大阪ビジネスカレッジ専門学校 "wikilink")
   - [大阪観光専門学校](https://ja.wikipedia.org/wiki/大阪観光専門学校 "wikilink")
-  - [大阪デザイナー専門学校](https://ja.wikipedia.org/wiki/大阪デザイナー専門学校 "wikilink")
+  - [大阪デザイナー専門学校](../Page/大阪デザイナー専門学校.md "wikilink")
   - [ビジュアルアーツ専門学校](../Page/ビジュアルアーツ専門学校.md "wikilink")・大阪
 
-学校法人北海道安達学園の設置する[専門学校札幌デザイナー学院](https://ja.wikipedia.org/wiki/専門学校札幌デザイナー学院 "wikilink")、[専門学校札幌ビジュアルアーツ](https://ja.wikipedia.org/wiki/専門学校札幌ビジュアルアーツ "wikilink")、[専門学校札幌スクールオブビジネス](https://ja.wikipedia.org/wiki/専門学校札幌スクールオブビジネス "wikilink")はグループ校ではない。
+学校法人北海道安達学園の設置する[専門学校札幌デザイナー学院](../Page/専門学校札幌デザイナー学院.md "wikilink")、[専門学校札幌ビジュアルアーツ](../Page/専門学校札幌ビジュアルアーツ.md "wikilink")、[専門学校札幌スクールオブビジネス](../Page/専門学校札幌スクールオブビジネス.md "wikilink")はグループ校ではない。
 
 ## 関連項目
 
-  - [日本の専修学校一覧](https://ja.wikipedia.org/wiki/日本の専修学校一覧 "wikilink")
+  - [日本の専修学校一覧](../Page/日本の専修学校一覧.md "wikilink")
 
 ## 外部リンク
 

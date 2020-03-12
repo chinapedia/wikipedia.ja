@@ -6,9 +6,9 @@
 ## 人物･略歴
 
   - [東京芸術大学](../Page/東京芸術大学.md "wikilink")音楽学部器楽科卒。
-  - [えなりかずき](../Page/えなりかずき.md "wikilink")との「熱愛」が「[日刊ゲンダイ](https://ja.wikipedia.org/wiki/日刊ゲンダイ "wikilink")」2007年4月10日付で報じられ、同年夏からは付き人も務め、えなりを公私ともに支えていたが、2007年10月に破局していたことが2009年12月3日判明した\[1\]。
+  - [えなりかずき](../Page/えなりかずき.md "wikilink")との「熱愛」が「[日刊ゲンダイ](../Page/日刊ゲンダイ.md "wikilink")」2007年4月10日付で報じられ、同年夏からは付き人も務め、えなりを公私ともに支えていたが、2007年10月に破局していたことが2009年12月3日判明した\[1\]。
   - 2010年2月1日に一般男性と結婚したことを公式ブログで発表した。2011年11月21日、性格の不一致により離婚した。
-  - [山下康介](https://ja.wikipedia.org/wiki/山下康介 "wikilink")と再婚したことが「[ZAKZAK](https://ja.wikipedia.org/wiki/ZAKZAK "wikilink")」2014年10月7日付で報じられた\[2\]。
+  - [山下康介](../Page/山下康介.md "wikilink")と再婚したことが「[ZAKZAK](https://ja.wikipedia.org/wiki/ZAKZAK "wikilink")」2014年10月7日付で報じられた\[2\]。
 
 ## 作品
 
@@ -21,13 +21,13 @@
 
 ### 写真集
 
-  - Dolce（2006年3月 [彩文館出版](https://ja.wikipedia.org/wiki/彩文館出版 "wikilink")）
+  - Dolce（2006年3月 [彩文館出版](../Page/彩文館出版.md "wikilink")）
 
 ## TV
 
-  - [クイズ日本の顔](https://ja.wikipedia.org/wiki/クイズ日本の顔 "wikilink")（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")・[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
-  - [歌笑HOTヒット10](https://ja.wikipedia.org/wiki/歌笑HOTヒット10 "wikilink")（[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")・[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
-  - [題名のない音楽会](https://ja.wikipedia.org/wiki/題名のない音楽会 "wikilink")21（2007年・[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")）
+  - [クイズ日本の顔](../Page/クイズ日本の顔.md "wikilink")（[2006年](../Page/2006年.md "wikilink")・[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
+  - [歌笑HOTヒット10](https://ja.wikipedia.org/wiki/歌笑HOTヒット10 "wikilink")（[2007年](../Page/2007年.md "wikilink")・[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [題名のない音楽会](https://ja.wikipedia.org/wiki/題名のない音楽会 "wikilink")21（2007年・[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - [坂の上の雲](https://ja.wikipedia.org/wiki/坂の上の雲_\(テレビドラマ\) "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")・NHK）…女学生役
 
 ## 脚注

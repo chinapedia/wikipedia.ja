@@ -7,7 +7,7 @@
 
 Snipping Tool は  キーと比べて任意の範囲のウィンドウのスクリーンショットを切り取ることができる。
 
-切り取ったスクリーンショットはマーカーによる追記や色付けによる強調の編集を比較的簡単におこなうことができる。保存する場合、[Portable Network Graphics](../Page/Portable_Network_Graphics.md "wikilink") (PNG) や [Graphics Interchange Format](../Page/Graphics_Interchange_Format.md "wikilink") (GIF)、[JPEG](../Page/JPEG.md "wikilink") (JPG) と [MHTML](https://ja.wikipedia.org/wiki/MHTML "wikilink") (MHT) 形式で保存ができる。[電子メール](../Page/電子メール.md "wikilink")で送信することができる。
+切り取ったスクリーンショットはマーカーによる追記や色付けによる強調の編集を比較的簡単におこなうことができる。保存する場合、[Portable Network Graphics](../Page/Portable_Network_Graphics.md "wikilink") (PNG) や [Graphics Interchange Format](../Page/Graphics_Interchange_Format.md "wikilink") (GIF)、[JPEG](../Page/JPEG.md "wikilink") (JPG) と [MHTML](../Page/MHTML.md "wikilink") (MHT) 形式で保存ができる。[電子メール](../Page/電子メール.md "wikilink")で送信することができる。
 
 ## 外部リンク
 

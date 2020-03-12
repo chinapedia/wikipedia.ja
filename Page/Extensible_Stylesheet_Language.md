@@ -8,11 +8,11 @@ XSLを構成する仕様は次の3つである。元々は「Extensible Styleshe
   - XSL Transformations
     [XSL Transformations](../Page/XSL_Transformations.md "wikilink") (XSLT) は、XML文書を構造の異なるXML文書などに変換するための変換言語である。それ自身もXMLで記述する。
   - XML Path Language
-    [XML Path Language](https://ja.wikipedia.org/wiki/XML_Path_Language "wikilink") (XPath) は、XML文書の特定の部分（要素、属性、テキストなど）を指定する表現法である。XPathは、XSLTで処理対象のXML文書の特定部分を指定するために使われている。XPath自体は簡潔な構文であり、それ自身はXMLではない。
+    [XML Path Language](../Page/XML_Path_Language.md "wikilink") (XPath) は、XML文書の特定の部分（要素、属性、テキストなど）を指定する表現法である。XPathは、XSLTで処理対象のXML文書の特定部分を指定するために使われている。XPath自体は簡潔な構文であり、それ自身はXMLではない。
   - XSL Formatting Objects
-    [XSL Formatting Objects](https://ja.wikipedia.org/wiki/XSL_Formatting_Objects "wikilink") (XSL-FO) は、文書の[組版](../Page/組版.md "wikilink")（人間に理解しやすい形式）を記述する記述言語である。それ自身もXMLで記述する。
+    [XSL Formatting Objects](../Page/XSL_Formatting_Objects.md "wikilink") (XSL-FO) は、文書の[組版](../Page/組版.md "wikilink")（人間に理解しやすい形式）を記述する記述言語である。それ自身もXMLで記述する。
 
-この3つの仕様は、[標準化団体](https://ja.wikipedia.org/wiki/標準化団体_\(コンピュータと通信\) "wikilink") [W3C](../Page/World_Wide_Web_Consortium.md "wikilink") (World Wide Web Consortium) で開発され勧告として公表されている。
+この3つの仕様は、[標準化団体](../Page/標準化団体_\(コンピュータと通信\).md "wikilink") [W3C](../Page/World_Wide_Web_Consortium.md "wikilink") (World Wide Web Consortium) で開発され勧告として公表されている。
 
 ## 歴史
 
@@ -20,9 +20,9 @@ XSLの歴史は、既存の [SGML](../Page/Standard_Generalized_Markup_Language.
 
   - 1997年12月から、[W3CのXSL作業部会の活動が始まった](../Page/World_Wide_Web_Consortium.md "wikilink")。XSL作業部会では、シャロン・アドラーとスティーブ・ジルズが共同議長を、[ジェームズ・クラークがエディタを](../Page/ジェームズ・クラーク_\(ソフトウェア技術者\).md "wikilink")、それぞれ務めた。ジェームズ・クラークは、XSLの非公式な主席設計者でもあった。また、クリス・リリーがW3Cスタッフの連絡役を務めた。
   - 1998年8月18日に、作業部会はXSL仕様の最初の作業ドラフトを公表した。
-  - 1999年11月16日に、[XSLT](../Page/XSL_Transformations.md "wikilink") 1.0 と [XPath](https://ja.wikipedia.org/wiki/XML_Path_Language "wikilink") 1.0 がW3Cから勧告として公表された。
-  - 2001年10月15日に、XSL 1.0（[XSL-FOを含む](https://ja.wikipedia.org/wiki/XSL_Formatting_Objects "wikilink")）がW3Cから勧告として公表された。
-  - 2006年12月5日に、XSL 1.1（[XSL-FOを含む](https://ja.wikipedia.org/wiki/XSL_Formatting_Objects "wikilink")）がW3Cから勧告として公表された。
+  - 1999年11月16日に、[XSLT](../Page/XSL_Transformations.md "wikilink") 1.0 と [XPath](../Page/XML_Path_Language.md "wikilink") 1.0 がW3Cから勧告として公表された。
+  - 2001年10月15日に、XSL 1.0（[XSL-FOを含む](../Page/XSL_Formatting_Objects.md "wikilink")）がW3Cから勧告として公表された。
+  - 2006年12月5日に、XSL 1.1（[XSL-FOを含む](../Page/XSL_Formatting_Objects.md "wikilink")）がW3Cから勧告として公表された。
   - 2007年1月23日に、XSLT 2.0 と XPath 2.0 がW3Cから勧告として公表された。
   - 2014年4月8日に、XPath 3.0 がW3Cから勧告として公表された。
   - 2017年3月21日に、XPath 3.1 がW3Cから勧告として公表された。
@@ -30,15 +30,15 @@ XSLの歴史は、既存の [SGML](../Page/Standard_Generalized_Markup_Language.
 
 ## XSLを構成する仕様
 
-[thumb文書を](https://ja.wikipedia.org/wiki/ファイル:XSL.png "wikilink")[XSLT](../Page/XSL_Transformations.md "wikilink")/[XPathで変換して](https://ja.wikipedia.org/wiki/XML_Path_Language "wikilink")[XSL-FO文書を生成し](https://ja.wikipedia.org/wiki/XSL_Formatting_Objects "wikilink")、XSL-FO処理系によって人間に理解しやすい形式に変換する\]\]
+[thumb文書を](https://ja.wikipedia.org/wiki/ファイル:XSL.png "wikilink")[XSLT](../Page/XSL_Transformations.md "wikilink")/[XPathで変換して](../Page/XML_Path_Language.md "wikilink")[XSL-FO文書を生成し](../Page/XSL_Formatting_Objects.md "wikilink")、XSL-FO処理系によって人間に理解しやすい形式に変換する\]\]
 
 ### XSL Transformations
 
 XSL Transformations (XSLT) は、[XML文書を構造の異なるXML文書などに変換する](../Page/Extensible_Markup_Language.md "wikilink")[変換言語](https://ja.wikipedia.org/wiki/変換言語 "wikilink")である。XMLの他、プレインテキストとして出力（ないし、そのように意図して設計すれば、何らかのXMLでない[形式言語](../Page/形式言語.md "wikilink")に従った形にも）できる。
 
-XSL全体での位置づけとしては、任意のXSLから[XSL-FOへの変換に使う](https://ja.wikipedia.org/wiki/XSL_Formatting_Objects "wikilink")。
+XSL全体での位置づけとしては、任意のXSLから[XSL-FOへの変換に使う](../Page/XSL_Formatting_Objects.md "wikilink")。
 
-現在、XSLT処理系の[実装](https://ja.wikipedia.org/wiki/実装 "wikilink")は、数多く開発されており、利用することができる。主な実装を次に示す。
+現在、XSLT処理系の[実装](../Page/実装.md "wikilink")は、数多く開発されており、利用することができる。主な実装を次に示す。
 
   - [Saxon](https://ja.wikipedia.org/wiki/Saxon "wikilink") - [オープンソース](../Page/オープンソース.md "wikilink")の実装
   - [Apache Xalan](../Page/Apache_Xalan.md "wikilink") - [Apache XML](../Page/Apache_XML.md "wikilink") プロジェクトによるオープンソース実装
@@ -60,8 +60,8 @@ XPathをさらに拡張したような仕様を持つものとして[XQuery](../
   - [スタイルシート](../Page/スタイルシート.md "wikilink")
       - XSL
           - [XSLT](../Page/XSL_Transformations.md "wikilink")
-          - [XPath](https://ja.wikipedia.org/wiki/XML_Path_Language "wikilink")
-          - [XSL-FO](https://ja.wikipedia.org/wiki/XSL_Formatting_Objects "wikilink")
+          - [XPath](../Page/XML_Path_Language.md "wikilink")
+          - [XSL-FO](../Page/XSL_Formatting_Objects.md "wikilink")
       - [DSSSL](../Page/Document_Style_Semantics_and_Specification_Language.md "wikilink")
       - [CSS](../Page/Cascading_Style_Sheets.md "wikilink")
   - [TeX](../Page/TeX.md "wikilink")

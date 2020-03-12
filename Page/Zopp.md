@@ -1,17 +1,17 @@
 > この記事は[Zopp](https://ja.wikipedia.org/wiki/Zopp)から翻訳されています。
 
 
-**zopp**（ゾップ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月29日](../Page/2月29日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作詞家](../Page/作詞家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[ザザ所属](https://ja.wikipedia.org/wiki/ザザ_\(企業\) "wikilink")。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[2\]。代表作に[修二と彰](https://ja.wikipedia.org/wiki/修二と彰 "wikilink")「[青春アミーゴ](../Page/青春アミーゴ.md "wikilink")」、[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")「[抱いてセニョリータ](../Page/抱いてセニョリータ.md "wikilink")」がある\[3\]。
+**zopp**（ゾップ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月29日](../Page/2月29日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作詞家](../Page/作詞家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[ザザ所属](https://ja.wikipedia.org/wiki/ザザ_\(企業\) "wikilink")。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[2\]。代表作に[修二と彰](../Page/修二と彰.md "wikilink")「[青春アミーゴ](../Page/青春アミーゴ.md "wikilink")」、[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")「[抱いてセニョリータ](../Page/抱いてセニョリータ.md "wikilink")」がある\[3\]。
 
 ## 略歴
 
-16歳の時に初めて[アメリカへ留学](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")\[4\]。勉強の一環として様々なアーティストの[英語](../Page/英語.md "wikilink")の歌詞を[日本語](../Page/日本語.md "wikilink")に翻訳するうちに、歌詞の内容に感動し、自分が経験したことを誰かにも伝えたいと思い、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")を始めるようになった\[5\]。
+16歳の時に初めて[アメリカへ留学](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")\[4\]。勉強の一環として様々なアーティストの[英語](../Page/英語.md "wikilink")の歌詞を[日本語](../Page/日本語.md "wikilink")に翻訳するうちに、歌詞の内容に感動し、自分が経験したことを誰かにも伝えたいと思い、[作詞](../Page/作詞.md "wikilink")を始めるようになった\[5\]。
 
 作詞をする上では「ストーリー性・インパクト・歌いやすさ・個性」を大切にしており\[6\]、『作詞クラブ』を主宰している\[7\]。
 
 [マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[ボストン](../Page/ボストン.md "wikilink")の大学でコンピューターテクノロジーを専攻する\[8\]。
 
-2013年11月11日に処女作『1+1=Namida』（出版：[マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")）で小説家デビュー\[9\]。2014年に公式HPを開設。
+2013年11月11日に処女作『1+1=Namida』（出版：[マガジンハウス](../Page/マガジンハウス.md "wikilink")）で小説家デビュー\[9\]。2014年に公式HPを開設。
 
 2016年にカクメイゼンヤ・エンターテイメントを設立し、本格的なプロデュース業を始める。第1弾として「[RECOJO](https://ja.wikipedia.org/wiki/RECOJO "wikilink")」をプロデュース\[10\]。
 
@@ -19,21 +19,21 @@
 
 ## 代表作品
 
-  - 青春アミーゴ（[修二と彰](https://ja.wikipedia.org/wiki/修二と彰 "wikilink")）
+  - 青春アミーゴ（[修二と彰](../Page/修二と彰.md "wikilink")）
     2005年オリコン年間シングルランキング1位。2006年オリコン年間シングルランキング3位。2006年カラオケ年間ランキング1位。第20回日本ゴールドディスク大賞でソング・オブ・ザ・イヤー受賞\[12\]。第78回選抜高等学校野球大会入場行進曲。
   - 抱いてセニョリータ（[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")）
-    山下智久主演ドラマ『[クロサギ](https://ja.wikipedia.org/wiki/クロサギ_\(テレビドラマ\) "wikilink")』の主題歌。2006年オリコン年間シングルランキング4位。
+    山下智久主演ドラマ『[クロサギ](../Page/クロサギ_\(テレビドラマ\).md "wikilink")』の主題歌。2006年オリコン年間シングルランキング4位。
   - ミソスープ（[テゴマス](https://ja.wikipedia.org/wiki/テゴマス "wikilink")）
     ジャニーズ事務所初のスウェーデン先行発売。2007年度スウェデイッシュゴールド大賞受賞。
 
 ## 小説
 
-  - 1+1=Namida（出版元：[マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")）
+  - 1+1=Namida（出版元：[マガジンハウス](../Page/マガジンハウス.md "wikilink")）
     本作を書き上げるのに4年（構想半年、執筆3年半）を費やした\[13\]。作品を語る上で欠かせないことは「作詞家が書いた小説」であること。執筆に取り掛かる前の作品はもちろん、執筆中に書いていた歌詞も本作のモチーフになっている。まとめサイトで、モチーフになっている作品と噂されているのは、「青春アミーゴ」、「抱いてセニョリータ」、「口づけでアディオス」、「2人/130000000の奇跡」、「キッス〜帰り道のラブソング」などである。特に「青春アミーゴ」、「抱いてセニョリータ」、「口づけでアディオス」の3曲は「スペイン歌謡曲三部作」とzopp本人は言っており、3曲を通して1つの物語になっている\[14\]。
     本書は2013年10月25日にKindle連載の18作品に選ばれる。
   - 天使の代償（zopp公式HP連載終了）
     本作は自身の処女小説「1+1=Namida」の続編である。
-  - ソングス・アンド・リリックス（2016年1月15日、[講談社文庫](https://ja.wikipedia.org/wiki/講談社文庫 "wikilink")）
+  - ソングス・アンド・リリックス（2016年1月15日、[講談社文庫](../Page/講談社文庫.md "wikilink")）
     作詞業界にスポットを当てた青春音楽小説。\[15\]
     帯コメントは前作同様に[MAN WITH A MISSIONのJean](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")-Ken Johnnyがコメントを寄せている。
 
@@ -46,9 +46,9 @@
 
 ### ジャニーズ関係
 
-  - [修二と彰](https://ja.wikipedia.org/wiki/修二と彰 "wikilink")
+  - [修二と彰](../Page/修二と彰.md "wikilink")
       - [青春アミーゴ](../Page/青春アミーゴ.md "wikilink")（2005年）
-  - [亀と山P](https://ja.wikipedia.org/wiki/修二と彰 "wikilink")
+  - [亀と山P](../Page/修二と彰.md "wikilink")
       - [逆転レボルシオン](https://ja.wikipedia.org/wiki/背中越しのチャンス "wikilink")（2017年）
   - [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")
       - [抱いてセニョリータ](../Page/抱いてセニョリータ.md "wikilink")（2006年）
@@ -58,10 +58,10 @@
       - [サンタマリア](https://ja.wikipedia.org/wiki/SUPERGOOD,_SUPERBAD "wikilink")（2011年）
       - [Tokyo Sinfonietta](https://ja.wikipedia.org/wiki/SUPERGOOD,_SUPERBAD "wikilink")（2011年）
   - [NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")
-      - [BEACH ANGEL](https://ja.wikipedia.org/wiki/紅く燃ゆる太陽 "wikilink")（2004年）
-      - [Party Time](https://ja.wikipedia.org/wiki/チェリッシュ_\(NEWSの曲\) "wikilink")（2005年）
-      - [夢の数だけ愛が生まれる（A cappella version）](https://ja.wikipedia.org/wiki/Touch_\(NEWSのアルバム\) "wikilink")（2005年）
-      - [夢の数だけ愛が生まれる](https://ja.wikipedia.org/wiki/TEPPEN_\(曲\) "wikilink")（2005年）
+      - [BEACH ANGEL](../Page/紅く燃ゆる太陽.md "wikilink")（2004年）
+      - [Party Time](../Page/チェリッシュ_\(NEWSの曲\).md "wikilink")（2005年）
+      - [夢の数だけ愛が生まれる（A cappella version）](../Page/Touch_\(NEWSのアルバム\).md "wikilink")（2005年）
+      - [夢の数だけ愛が生まれる](../Page/TEPPEN_\(曲\).md "wikilink")（2005年）
       - [サヤエンドウ](https://ja.wikipedia.org/wiki/サヤエンドウ/裸足のシンデレラボーイ "wikilink")（2006年）
       - [裸足のシンデレラボーイ](https://ja.wikipedia.org/wiki/サヤエンドウ/裸足のシンデレラボーイ "wikilink")（2006年）
       - [with me](https://ja.wikipedia.org/wiki/weeeek "wikilink")（2007年）
@@ -79,14 +79,14 @@
       - [Quntastic\!](https://ja.wikipedia.org/wiki/WORLD_QUEST/ポコポンペコーリャ "wikilink")（2012年）
       - [ベサメ・ムーチョ〜狂おしいボレロ〜](https://ja.wikipedia.org/wiki/NEWS_\(NEWSのアルバム\) "wikilink")（2013年）
       - [Sweet Martini](https://ja.wikipedia.org/wiki/チュムチュム "wikilink")（2015年）
-  - [増田貴久](https://ja.wikipedia.org/wiki/増田貴久 "wikilink")・[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")・[小山慶一郎](https://ja.wikipedia.org/wiki/小山慶一郎 "wikilink")
+  - [増田貴久](../Page/増田貴久.md "wikilink")・[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")・[小山慶一郎](../Page/小山慶一郎.md "wikilink")
       - [みんながいる世界をひとつに 愛をもっとGive & Takeしましょう](https://ja.wikipedia.org/wiki/color_\(NEWSのアルバム\) "wikilink")（2008年）
-  - [手越祐也](https://ja.wikipedia.org/wiki/手越祐也 "wikilink")・[錦戸亮](https://ja.wikipedia.org/wiki/錦戸亮 "wikilink")・[加藤成亮](https://ja.wikipedia.org/wiki/加藤シゲアキ "wikilink")
+  - [手越祐也](../Page/手越祐也.md "wikilink")・[錦戸亮](../Page/錦戸亮.md "wikilink")・[加藤成亮](https://ja.wikipedia.org/wiki/加藤シゲアキ "wikilink")
       - [愛なんて](https://ja.wikipedia.org/wiki/pacific_\(NEWSのアルバム\) "wikilink")（2007年）
-  - [小山慶一郎](https://ja.wikipedia.org/wiki/小山慶一郎 "wikilink")
+  - [小山慶一郎](../Page/小山慶一郎.md "wikilink")
       - [愛のエレジー](https://ja.wikipedia.org/wiki/QUARTETTO "wikilink")（2016年）
   - [テゴマス](https://ja.wikipedia.org/wiki/テゴマス "wikilink")
-      - [ミソスープ](https://ja.wikipedia.org/wiki/ミソスープ_\(曲\) "wikilink")（2006年）
+      - [ミソスープ](../Page/ミソスープ_\(曲\).md "wikilink")（2006年）
       - [キッス〜帰り道のラブソング〜](../Page/キッス〜帰り道のラブソング〜.md "wikilink")（2007年）
       - [キミ+ボク=LOVE?](../Page/キッス〜帰り道のラブソング〜.md "wikilink")（2007年）
       - [希望の光を心に灯そう](../Page/キッス〜帰り道のラブソング〜.md "wikilink")（2007年）
@@ -104,7 +104,7 @@
       - [タイムマシン](https://ja.wikipedia.org/wiki/テゴマスの青春 "wikilink")（2014年）
   - [Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")
       - [OVER](https://ja.wikipedia.org/wiki/OVER_\(Hey!_Say!_JUMPの曲\) "wikilink")（2011年）
-  - [高木雄也](https://ja.wikipedia.org/wiki/高木雄也 "wikilink")
+  - [高木雄也](../Page/高木雄也.md "wikilink")
       - [題名の無い物語](https://ja.wikipedia.org/wiki/SENSE_or_LOVE "wikilink")
   - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
       - [Cry for the Smile](https://ja.wikipedia.org/wiki/We_are_SMAP! "wikilink")（2010年）
@@ -121,7 +121,7 @@
       - [フレンド](https://ja.wikipedia.org/wiki/Welcome_to_Sexy_Zone "wikilink")（2016年）
   - [松島聡](https://ja.wikipedia.org/wiki/松島聡 "wikilink")
       - [Break out my shell](https://ja.wikipedia.org/wiki/Sexy_Zone_5th_Anniversary_Best "wikilink")（2016年）
-  - [Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")
+  - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")
       - [S.O.KISS](https://ja.wikipedia.org/wiki/Everybody_Go "wikilink")（2011年）
       - [Girl is mine](https://ja.wikipedia.org/wiki/Kis-My-1st "wikilink")（2012年）
       - [運命Girl](https://ja.wikipedia.org/wiki/My_Resistance_-タシカナモノ-/運命Girl "wikilink")（2013年）
@@ -134,10 +134,10 @@
       - [Can't stop](https://ja.wikipedia.org/wiki/ジパング・おおきに大作戦/夢を抱きしめて "wikilink")（2014年）
       - [バリ　ハピ](https://ja.wikipedia.org/wiki/バリ_ハピ "wikilink")（2015年）
       - [Eternal](https://ja.wikipedia.org/wiki/ラッキィィィィィィィ7 "wikilink")（2015年）\[18\]
-  - [GOLF\&MIKE](https://ja.wikipedia.org/wiki/GOLF&MIKE "wikilink")
+  - [GOLF\&MIKE](../Page/GOLF&MIKE.md "wikilink")
       - [ニッポン アイニイクヨ](../Page/ニッポン_アイニイクヨ.md "wikilink")（2007年、稀月真皓との共作）
   - [G<span style="font-size:120%;">Y</span>M](../Page/Kitty_GYM.md "wikilink")
-      - [My Angel](https://ja.wikipedia.org/wiki/フィーバーとフューチャー "wikilink")（2006年、谷藤律子との共作）
+      - [My Angel](../Page/フィーバーとフューチャー.md "wikilink")（2006年、谷藤律子との共作）
   - [Ya-Ya-yah](../Page/Ya-Ya-yah.md "wikilink")
       - [愛しのプレイガール](https://ja.wikipedia.org/wiki/Ya-Ya-yah#オリジナル曲 "wikilink")（2006年）
   - [トリオ・ザ・シャキーン](../Page/トリオ・ザ・シャキーン.md "wikilink")
@@ -210,7 +210,7 @@
       - Ark(2016年)
   - [東京パフォーマンスドール](../Page/東京パフォーマンスドール.md "wikilink")
       - 現状打破でLove you(2017年)
-  - [井口裕香](https://ja.wikipedia.org/wiki/井口裕香 "wikilink")
+  - [井口裕香](../Page/井口裕香.md "wikilink")
       - [Fun Fanfare](https://ja.wikipedia.org/wiki/Hafa_Adai "wikilink")(2014年)
       - 指先ファンタジー(2015年)
       - [変わらない強さ](https://ja.wikipedia.org/wiki/変わらない強さ "wikilink") (2016年)
@@ -262,9 +262,9 @@
       - さよなら（2008年）
   - 3PeaceLovers
       - My True Love（2013年）
-  - [岡本信彦](https://ja.wikipedia.org/wiki/岡本信彦 "wikilink")
+  - [岡本信彦](../Page/岡本信彦.md "wikilink")
       - Want you（2015年）
-  - [神谷浩史](https://ja.wikipedia.org/wiki/神谷浩史 "wikilink")
+  - [神谷浩史](../Page/神谷浩史.md "wikilink")
       - イズムリズム（2017年）
   - [KAmiYU](https://ja.wikipedia.org/wiki/KAmiYU "wikilink")
       - ロマンス輪廻（2018年）

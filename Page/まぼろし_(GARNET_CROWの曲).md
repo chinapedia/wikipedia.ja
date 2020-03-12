@@ -1,13 +1,13 @@
 > この記事は[ \(GARNET CROW\)](https://ja.wikipedia.org/wiki/_\(GARNET_CROW\))から翻訳されています。
 
 
-『**まぼろし**』は、[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")23枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月13日](../Page/9月13日.md "wikilink")に発売された。
+『**まぼろし**』は、[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")23枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")に発売された。
 
 ## 解説
 
-5thアルバム『[THE TWILIGHT VALLEY](https://ja.wikipedia.org/wiki/THE_TWILIGHT_VALLEY "wikilink")』からの先行シングル。
+5thアルバム『[THE TWILIGHT VALLEY](../Page/THE_TWILIGHT_VALLEY.md "wikilink")』からの先行シングル。
 
-4ヶ月連続CDリリースの第3弾で、GARNET CROW初の[ドラマ](../Page/テレビドラマ.md "wikilink")[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")に起用された楽曲である。また、前作「[今宵エデンの片隅で](../Page/今宵エデンの片隅で.md "wikilink")」同様、本人たちも待望していたデジパック仕様での出荷となる。18thシングル「[君の思い描いた夢 集メル HEAVEN](../Page/君の思い描いた夢_集メル_HEAVEN.md "wikilink")」以来約1年4ヶ月振りにオリコンチャートトップ10位以内にランクインした。
+4ヶ月連続CDリリースの第3弾で、GARNET CROW初の[ドラマ](../Page/テレビドラマ.md "wikilink")[タイアップ](../Page/タイアップ.md "wikilink")に起用された楽曲である。また、前作「[今宵エデンの片隅で](../Page/今宵エデンの片隅で.md "wikilink")」同様、本人たちも待望していたデジパック仕様での出荷となる。18thシングル「[君の思い描いた夢 集メル HEAVEN](../Page/君の思い描いた夢_集メル_HEAVEN.md "wikilink")」以来約1年4ヶ月振りにオリコンチャートトップ10位以内にランクインした。
 
 セールス面においては、購入特典としてGARNET CROW初となるオリジナルグッズプレゼントが実施された。前作「今宵エデンの片隅で」との連動特典で、フラワーセット・チェスセット・ミニガットギター・リラックスクッションの各いずれかがメンバーコメントカードと共に、総計40人に当たるというものである。
 
@@ -19,21 +19,21 @@
       - 作詞：[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink") / 作曲：[中村由利](https://ja.wikipedia.org/wiki/中村由利_\(歌手\) "wikilink") / 編曲：[古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")
     <!-- end list -->
       -
-        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ『[新・科捜研の女](https://ja.wikipedia.org/wiki/科捜研の女 "wikilink")』主題歌
-        もともとは5thアルバム『[THE TWILIGHT VALLEY](https://ja.wikipedia.org/wiki/THE_TWILIGHT_VALLEY "wikilink")』収録用として制作されていたが、ふとしたきっかけでドラマ関係者の耳に止まりタイアップが決定、急遽シングル化となった楽曲である。なお、翌月リリースされた同アルバムにはアルバムバージョンとして収録されている。
-        [iTunes Storeでは](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")、[ビデオクリップが配信されている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。GARNET CROWのビデオクリップがiTunes Storeで配信されるのは初めての事である。
+        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ『[新・科捜研の女](../Page/科捜研の女.md "wikilink")』主題歌
+        もともとは5thアルバム『[THE TWILIGHT VALLEY](../Page/THE_TWILIGHT_VALLEY.md "wikilink")』収録用として制作されていたが、ふとしたきっかけでドラマ関係者の耳に止まりタイアップが決定、急遽シングル化となった楽曲である。なお、翌月リリースされた同アルバムにはアルバムバージョンとして収録されている。
+        [iTunes Storeでは](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")、[ビデオクリップが配信されている](../Page/ミュージック・ビデオ.md "wikilink")。GARNET CROWのビデオクリップがiTunes Storeで配信されるのは初めての事である。
 2.  **Holy ground 〜just like a "dejavu" arr.〜**
       - 作詞：AZUKI七 / 作曲：中村由利 / 編曲：[葉山たけし](../Page/葉山たけし.md "wikilink")
     <!-- end list -->
       -
-        2ndアルバム『[SPARKLE 〜筋書き通りのスカイブルー〜](https://ja.wikipedia.org/wiki/SPARKLE_〜筋書き通りのスカイブルー〜 "wikilink")』収録曲である「Holy ground」のリアレンジバージョン。GARNET CROWの楽曲としては初めての、葉山たけし編曲の楽曲である。
+        2ndアルバム『[SPARKLE 〜筋書き通りのスカイブルー〜](../Page/SPARKLE_〜筋書き通りのスカイブルー〜.md "wikilink")』収録曲である「Holy ground」のリアレンジバージョン。GARNET CROWの楽曲としては初めての、葉山たけし編曲の楽曲である。
 3.  **まぼろし 〜instrumental〜**
 
 ## 収録アルバム
 
 **まぼろし**
 
-  - [THE TWILIGHT VALLEY](https://ja.wikipedia.org/wiki/THE_TWILIGHT_VALLEY "wikilink")（Album arr.）
+  - [THE TWILIGHT VALLEY](../Page/THE_TWILIGHT_VALLEY.md "wikilink")（Album arr.）
   - [THE BEST History of GARNET CROW at the crest...](https://ja.wikipedia.org/wiki/THE_BEST_History_of_GARNET_CROW_at_the_crest... "wikilink")
   - [THE ONE 〜ALL SINGLES BEST〜](https://ja.wikipedia.org/wiki/THE_ONE_〜ALL_SINGLES_BEST〜 "wikilink")
 

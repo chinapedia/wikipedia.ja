@@ -7,12 +7,12 @@
 
 与えられた入力に対して、[128ビット](https://ja.wikipedia.org/wiki/128ビット "wikilink")の[ハッシュ](https://ja.wikipedia.org/wiki/ハッシュ "wikilink")値を出力する。
 
-MD4に対する[脆弱性](https://ja.wikipedia.org/wiki/脆弱性 "wikilink")は[1991年](../Page/1991年.md "wikilink")に実証された。[2004年](../Page/2004年.md "wikilink")には、MD4における[ハッシュ衝突](https://ja.wikipedia.org/wiki/ハッシュ衝突 "wikilink")を作成することが可能であることが報告された。
+MD4に対する[脆弱性](../Page/脆弱性.md "wikilink")は[1991年](../Page/1991年.md "wikilink")に実証された。[2004年](../Page/2004年.md "wikilink")には、MD4における[ハッシュ衝突](https://ja.wikipedia.org/wiki/ハッシュ衝突 "wikilink")を作成することが可能であることが報告された。
 
 ## 関連項目
 
   - [ハッシュ関数](../Page/ハッシュ関数.md "wikilink")
-  - [MD2](https://ja.wikipedia.org/wiki/MD2 "wikilink")
+  - [MD2](../Page/MD2.md "wikilink")
   - [MD5](../Page/MD5.md "wikilink")
   - [Secure Hash Algorithm](../Page/Secure_Hash_Algorithm.md "wikilink")
 

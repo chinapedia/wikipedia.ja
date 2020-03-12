@@ -30,14 +30,14 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - MILKY (Vo) 、[真矢](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink") (Dr) らとともに**POTBELLY**として活動。ミニアルバム『CRASH\! CRASH\! CRASH\!』をリリース。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - hide with Spread Beaver時代の盟友[KIYOSHI](../Page/KIYOSHI.md "wikilink")、[JOEとの](https://ja.wikipedia.org/wiki/宮脇“JOE”知史 "wikilink")3ピースバンド**[Madbeavers](https://ja.wikipedia.org/wiki/Mad_beavers "wikilink")**を再始動する。ベースだけでなくボーカルの片翼も担当。[2007年](../Page/2007年.md "wikilink")9月にCHIROLYN脱退。
+  - [2005年](../Page/2005年.md "wikilink") - MILKY (Vo) 、[真矢](../Page/真矢_\(ドラマー\).md "wikilink") (Dr) らとともに**POTBELLY**として活動。ミニアルバム『CRASH\! CRASH\! CRASH\!』をリリース。
+  - [2005年](../Page/2005年.md "wikilink") - hide with Spread Beaver時代の盟友[KIYOSHI](../Page/KIYOSHI.md "wikilink")、[JOEとの](../Page/宮脇“JOE”知史.md "wikilink")3ピースバンド**[Madbeavers](https://ja.wikipedia.org/wiki/Mad_beavers "wikilink")**を再始動する。ベースだけでなくボーカルの片翼も担当。[2007年](../Page/2007年.md "wikilink")9月にCHIROLYN脱退。
   - [2007年](../Page/2007年.md "wikilink")8月以降 - HIROSHI名義で5年半ぶりにアコースティックにてソロ再始動。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - [DIE](../Page/D.I.E..md "wikilink") (Key) と**金角vs銀角**として翌2009年末までに数度のライブを行なう。サポートは[斉藤律](https://ja.wikipedia.org/wiki/斉藤律 "wikilink") (Gt) 、高畠俊男 (Dr) 。この縁で[Minimum Rocketsのセッションライヴにも参加した](https://ja.wikipedia.org/wiki/Minimum_Rockets "wikilink")。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - [DIE](../Page/D.I.E..md "wikilink") (Key) と**金角vs銀角**として翌2009年末までに数度のライブを行なう。サポートは[斉藤律](../Page/斉藤律.md "wikilink") (Gt) 、高畠俊男 (Dr) 。この縁で[Minimum Rocketsのセッションライヴにも参加した](https://ja.wikipedia.org/wiki/Minimum_Rockets "wikilink")。
   - [2009年](../Page/2009年.md "wikilink")以降 - [GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink") JOBのメンバーとして、音楽番組出演時や『GACKT VISUALIVE ARENA TOUR 2009 Requiem et Réminiscence Ⅱ Final 〜鎮魂と再生〜』に参加。
   - 2009年12月18日 - ウルフルケイスケ presents『MAGICAL CHAIN TOUR Vol.1』に出演。
       -
-        メンバーは、[BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")（ヴォーカル）、[ウルフルケイスケ](https://ja.wikipedia.org/wiki/ウルフルケイスケ "wikilink")（ギター）、CHIROLYN（ベース）、[クハラカズユキ](../Page/クハラカズユキ.md "wikilink")（ドラムス）。
+        メンバーは、[BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")（ヴォーカル）、[ウルフルケイスケ](../Page/ウルフルケイスケ.md "wikilink")（ギター）、CHIROLYN（ベース）、[クハラカズユキ](../Page/クハラカズユキ.md "wikilink")（ドラムス）。
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@
 1.  **君に会えてよかった**（1999年5月1日、インディーズ）※
 2.  **運命**（2001年5月9日）※
 3.  **夢のエルドラド**（2001年9月19日）※
-4.  **キミは奇跡を信じるかい？**（2002年1月23日）※ - [ドラマ愛の詩](../Page/ドラマ愛の詩.md "wikilink")「[エスパー魔美](https://ja.wikipedia.org/wiki/エスパー魔美 "wikilink")」主題歌
+4.  **キミは奇跡を信じるかい？**（2002年1月23日）※ - [ドラマ愛の詩](../Page/ドラマ愛の詩.md "wikilink")「[エスパー魔美](../Page/エスパー魔美.md "wikilink")」主題歌
 
 ### その他
 
@@ -104,13 +104,13 @@
 
 *特筆のない限りベース参加、詳細は各項目を参照。*（50音訓）
 
-  - [AcQuA-E.P.](https://ja.wikipedia.org/wiki/AcQuA-E.P. "wikilink")
+  - [AcQuA-E.P.](../Page/AcQuA-E.P..md "wikilink")
   - [ウルフルズ](../Page/ウルフルズ.md "wikilink")
   - [VAMPS](https://ja.wikipedia.org/wiki/hyde#VAMPS "wikilink")
   - [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")
-  - [大澤誉志幸](https://ja.wikipedia.org/wiki/大澤誉志幸 "wikilink")
+  - [大澤誉志幸](../Page/大澤誉志幸.md "wikilink")
   - [GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink")
-  - [吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")
+  - [吉川晃司](../Page/吉川晃司.md "wikilink")
   - [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
       -
@@ -128,10 +128,10 @@
   - [Midnight Mysterious Century](https://ja.wikipedia.org/wiki/Midnight_Mysterious_Century "wikilink")
   - [雅-miyavi-](https://ja.wikipedia.org/wiki/雅-miyavi- "wikilink")
       -
-        [PATA](https://ja.wikipedia.org/wiki/PATA "wikilink")、[ルーク篁](../Page/ルーク篁.md "wikilink")、[真矢](https://ja.wikipedia.org/wiki/真矢 "wikilink")とともにバックバンドを務めた。
-  - [森友嵐士](https://ja.wikipedia.org/wiki/森友嵐士 "wikilink")
+        [PATA](../Page/PATA.md "wikilink")、[ルーク篁](../Page/ルーク篁.md "wikilink")、[真矢](https://ja.wikipedia.org/wiki/真矢 "wikilink")とともにバックバンドを務めた。
+  - [森友嵐士](../Page/森友嵐士.md "wikilink")
   - [LIV](https://ja.wikipedia.org/wiki/押尾学 "wikilink")
-  - [Lucy](https://ja.wikipedia.org/wiki/Lucy "wikilink")
+  - [Lucy](../Page/Lucy.md "wikilink")
 
 <!-- end list -->
 

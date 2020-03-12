@@ -46,16 +46,16 @@
 
   - 品田虎三（しなだ とらぞう）/ シナトラ
     56歳。シナトラ商会社長。金の為ならどんな手でも使う冷酷無比かつ凶悪な人物。
-    [ホテル](../Page/ホテル.md "wikilink")・[キャバレー](../Page/キャバレー.md "wikilink")経営・[貿易](../Page/貿易.md "wikilink")・[リゾート](https://ja.wikipedia.org/wiki/リゾート "wikilink")開発等、幅広い事業で巨万の富を得ている一方、[詐欺](../Page/詐欺.md "wikilink")・[横領](https://ja.wikipedia.org/wiki/横領 "wikilink")・[文書偽造等の犯罪も行っている](../Page/文書偽造の罪.md "wikilink")。発覚する度に幾度か逮捕されているが、巧妙な手口による証拠の少なさと圧倒的な財力、弁護士であるマーチンの策略で悉く不起訴になっているため、現在は警察でさえおいそれと手出しできなくなっている。また、犯罪を揉み消す自分の力への自信の現れのために作中でも平然と犯罪行為を行っている。
+    [ホテル](../Page/ホテル.md "wikilink")・[キャバレー](../Page/キャバレー.md "wikilink")経営・[貿易](../Page/貿易.md "wikilink")・[リゾート](../Page/リゾート.md "wikilink")開発等、幅広い事業で巨万の富を得ている一方、[詐欺](../Page/詐欺.md "wikilink")・[横領](https://ja.wikipedia.org/wiki/横領 "wikilink")・[文書偽造等の犯罪も行っている](../Page/文書偽造の罪.md "wikilink")。発覚する度に幾度か逮捕されているが、巧妙な手口による証拠の少なさと圧倒的な財力、弁護士であるマーチンの策略で悉く不起訴になっているため、現在は警察でさえおいそれと手出しできなくなっている。また、犯罪を揉み消す自分の力への自信の現れのために作中でも平然と犯罪行為を行っている。
     弁天小僧の手によって脱税や無許可による産業廃棄物撤去等が暴かれる中でそれさえも利用した自作自演による金儲けを企み、開発中の「シナトラワールド」を爆破し、多額の保険金を騙し取ろうとする。だが、マーチンの手違いで[葛飾区](https://ja.wikipedia.org/wiki/葛飾区 "wikilink")が消滅する程の[旧ソ連製](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")2000ポンドミサイルを購入してしまった上にそのミサイルが時限式で爆発すると知り、葛飾から自家用飛行機で脱出を図るも、その道中で両津が乗ったミサイルの[特攻で飛行機を撃墜された上](https://ja.wikipedia.org/wiki/特別攻撃隊 "wikilink")、[警視庁](../Page/警視庁.md "wikilink")の留置場に落下、そのまま逮捕された。
   - マー・チン
-    シナトラの[秘書](https://ja.wikipedia.org/wiki/秘書 "wikilink")兼顧問[弁護士](../Page/弁護士.md "wikilink")。
+    シナトラの[秘書](../Page/秘書.md "wikilink")兼顧問[弁護士](../Page/弁護士.md "wikilink")。
     あくどい手段を使ってシナトラを裁判で勝たせるという敏腕弁護士だったが、後に1トン相当の2000ポンドミサイルを10キログラム相当という計算ミスだと気づかず購入して仕掛けてしまうという重大な失策を犯す。その後はシナトラを飛行機を手配して脱出させようとしたが、両津の特攻で飛行機を撃墜され、シナトラ共々逮捕される。
   - 星野リサ
     [FBIから派遣された爆弾解体のスペシャリスト](../Page/連邦捜査局.md "wikilink")。
     浅草の下町で生まれ育ち、よく男の子達（その時に中学生の両津に会っている（リサの思い出では、美少年化されている\[1\]）が、両津はそのことを詳しく覚えていない\[2\]）と一緒に遊んでいたが、花火職人だった父親がシナトラの金融会社によって多額の借金を抱えてしまい、その返済のため夜も寝ずに働き続け、花火大会の前日に工場での爆破事故が起こり、リサ自身は消防隊員に救われたが父親と母親を一緒に亡くしてしまう。両親の死後はアメリカに住む親戚に引き取られたが本人曰く「幸せとは程遠い」生活を送っていた。
     その後、両親の敵を討つために「弁天小僧」と名乗ってシナトラの悪行を暴いていたが、オーシャンビルを爆破しようとした際に明日香を巻き込みそうになったことや両津の説得で弁天小僧としての活動を止める。
-    シナトラの爆弾事件解決後はそのまま[書類送検](https://ja.wikipedia.org/wiki/書類送検 "wikilink")及びFBIに強制送還された。
+    シナトラの爆弾事件解決後はそのまま[書類送検](../Page/書類送検.md "wikilink")及びFBIに強制送還された。
   - ダンディ
     FBIと[NASA](https://ja.wikipedia.org/wiki/NASA "wikilink")の火星探査チームが共同開発した両津やリサと共に行動するハイテク爆弾解体ロボット。ハイパーチタニウムで構成された装甲を持ち、重量は350Kgを誇る。自己防衛システムが備わっており、シールドを張ったり、ボールや催涙ガスを発射する。
     シナトラムーンライトビル崩壊後、爆弾解体のミスで怒られた両津にボディを落書きされる（このため、両津は大原部長に2週間の謹慎を言い渡され、その間に[徳川幕府の埋蔵金を当てようとニコニコ寮から穴を掘るが](../Page/江戸幕府.md "wikilink")、同じく地下鉄建設のため[トンネル](../Page/トンネル.md "wikilink")を掘っていた中川コンツェルンの作業員に先を越されてしまった）。
@@ -71,39 +71,39 @@
 
   - [両津勘吉](../Page/両津勘吉.md "wikilink") - [ラサール石井](../Page/ラサール石井.md "wikilink")
   - [秋本・カトリーヌ・麗子](../Page/秋本・カトリーヌ・麗子.md "wikilink") - [森尾由美](https://ja.wikipedia.org/wiki/森尾由美 "wikilink")
-  - [中川圭一](../Page/中川圭一.md "wikilink") - [宮本充](https://ja.wikipedia.org/wiki/宮本充 "wikilink")
+  - [中川圭一](../Page/中川圭一.md "wikilink") - [宮本充](../Page/宮本充.md "wikilink")
   - [大原大次郎](../Page/大原大次郎.md "wikilink") - [佐山陽規](../Page/佐山陽規.md "wikilink")
   - [寺井洋一](https://ja.wikipedia.org/wiki/寺井洋一 "wikilink") - [林家こぶ平](../Page/林家正蔵_\(9代目\).md "wikilink")
-  - [本田速人](../Page/本田速人.md "wikilink") - [家中宏](https://ja.wikipedia.org/wiki/家中宏 "wikilink")
+  - [本田速人](../Page/本田速人.md "wikilink") - [家中宏](../Page/家中宏.md "wikilink")
   - 小野小町 - [三浦理恵子](https://ja.wikipedia.org/wiki/三浦理恵子 "wikilink")
   - 清正奈緒子 - [三橋加奈子](../Page/三橋加奈子.md "wikilink")
-  - 屯田五目須 - [江角英明](https://ja.wikipedia.org/wiki/江角英明 "wikilink")
-  - ボルボ西郷 - [岸祐二](https://ja.wikipedia.org/wiki/岸祐二 "wikilink")
-  - 左近寺竜之介 - [岩崎征実](https://ja.wikipedia.org/wiki/岩崎征実 "wikilink")
-  - [麻里愛](../Page/麻里愛.md "wikilink") - [麻生かほ里](https://ja.wikipedia.org/wiki/麻生かほ里 "wikilink")
-  - 麻里晩 - [宮澤正](https://ja.wikipedia.org/wiki/宮澤正 "wikilink")
-  - 爆竜鬼虎 - [小村哲生](https://ja.wikipedia.org/wiki/小村哲生 "wikilink")
+  - 屯田五目須 - [江角英明](../Page/江角英明.md "wikilink")
+  - ボルボ西郷 - [岸祐二](../Page/岸祐二.md "wikilink")
+  - 左近寺竜之介 - [岩崎征実](../Page/岩崎征実.md "wikilink")
+  - [麻里愛](../Page/麻里愛.md "wikilink") - [麻生かほ里](../Page/麻生かほ里.md "wikilink")
+  - 麻里晩 - [宮澤正](../Page/宮澤正.md "wikilink")
+  - 爆竜鬼虎 - [小村哲生](../Page/小村哲生.md "wikilink")
   - ジョディー・爆竜・カレン - [斉藤レイ](../Page/斉藤レイ.md "wikilink")
-  - 絵崎コロ助 - [松山鷹志](https://ja.wikipedia.org/wiki/松山鷹志 "wikilink")
-  - ダンディ - [竹本英史](https://ja.wikipedia.org/wiki/竹本英史 "wikilink")
-  - ご隠居さん - [外波山文明](https://ja.wikipedia.org/wiki/外波山文明 "wikilink")
+  - 絵崎コロ助 - [松山鷹志](../Page/松山鷹志.md "wikilink")
+  - ダンディ - [竹本英史](../Page/竹本英史.md "wikilink")
+  - ご隠居さん - [外波山文明](../Page/外波山文明.md "wikilink")
   - キャスター（[リオデジャネイロ](../Page/リオデジャネイロ.md "wikilink")） - エジソン峰記
   - キャスター（[ニューヨーク](../Page/ニューヨーク.md "wikilink")） - [グレッグ・アーウィン](https://ja.wikipedia.org/wiki/グレッグ・アーウィン "wikilink")
   - キャスター（[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")）\[3\] - 海藏義一
   - アナウンサー - [小島奈津子](https://ja.wikipedia.org/wiki/小島奈津子 "wikilink")
-  - 純平 - [又村奈緒美](https://ja.wikipedia.org/wiki/又村奈緒美 "wikilink")
+  - 純平 - [又村奈緒美](../Page/又村奈緒美.md "wikilink")
   - 勝平 - [松浦有希子](https://ja.wikipedia.org/wiki/松浦有希子 "wikilink")
-  - 現場監督 - [木内秀信](https://ja.wikipedia.org/wiki/木内秀信 "wikilink")
-  - 作業員安田 - [前田剛](https://ja.wikipedia.org/wiki/前田剛 "wikilink")
+  - 現場監督 - [木内秀信](../Page/木内秀信.md "wikilink")
+  - 作業員安田 - [前田剛](../Page/前田剛.md "wikilink")
   - 明日香 - [鈴木裕美子](https://ja.wikipedia.org/wiki/鈴木裕美子_\(声優\) "wikilink")
-  - 思い出の中学生 - [内藤玲](https://ja.wikipedia.org/wiki/内藤玲 "wikilink")
-  - レポーター - [竹内順子](https://ja.wikipedia.org/wiki/竹内順子 "wikilink")
-  - その他 - 天野慶子、[小和田貢平](https://ja.wikipedia.org/wiki/小和田貢平 "wikilink")、太田美穂、野田守建
+  - 思い出の中学生 - [内藤玲](../Page/内藤玲.md "wikilink")
+  - レポーター - [竹内順子](../Page/竹内順子.md "wikilink")
+  - その他 - 天野慶子、[小和田貢平](../Page/小和田貢平.md "wikilink")、太田美穂、野田守建
   - 品田虎三（シナトラ） - [伊東四朗](../Page/伊東四朗.md "wikilink")
-  - マーチン - [小松政夫](https://ja.wikipedia.org/wiki/小松政夫 "wikilink")
+  - マーチン - [小松政夫](../Page/小松政夫.md "wikilink")
   - 星野リサ - [ともさかりえ](https://ja.wikipedia.org/wiki/ともさかりえ "wikilink")
 
-一瞬だけだが、[特殊刑事課](https://ja.wikipedia.org/wiki/特殊刑事課 "wikilink")、[両津家](../Page/両津家.md "wikilink")（勘兵衛・銀次・よね・金次郎）、花山里香、花山小梅、星逃田、石頭鉄岩、作者の秋本治なども登場している（全員声なし）。
+一瞬だけだが、[特殊刑事課](../Page/特殊刑事課.md "wikilink")、[両津家](../Page/両津家.md "wikilink")（勘兵衛・銀次・よね・金次郎）、花山里香、花山小梅、星逃田、石頭鉄岩、作者の秋本治なども登場している（全員声なし）。
 
 ## 映像ソフト
 
@@ -129,22 +129,22 @@
   - 原作 - [秋本治](../Page/秋本治.md "wikilink") アトリエびーだま
   - 製作 - [宮内正喜](https://ja.wikipedia.org/wiki/宮内正喜 "wikilink")、関谷猪三郎
   - エグゼクティブプロデューサー - 河村雄太郎、[片岡義朗](../Page/片岡義朗.md "wikilink")
-  - プロデューサー - [小牧次郎](https://ja.wikipedia.org/wiki/小牧次郎 "wikilink")、[清水賢治](https://ja.wikipedia.org/wiki/清水賢治 "wikilink")、[松下洋子](https://ja.wikipedia.org/wiki/松下洋子 "wikilink")、[杉村重郎](https://ja.wikipedia.org/wiki/杉村重郎 "wikilink")、[若菜章夫](../Page/若菜章夫.md "wikilink")
-  - 監督 - [高松信司](https://ja.wikipedia.org/wiki/高松信司 "wikilink")
+  - プロデューサー - [小牧次郎](https://ja.wikipedia.org/wiki/小牧次郎 "wikilink")、[清水賢治](../Page/清水賢治.md "wikilink")、[松下洋子](https://ja.wikipedia.org/wiki/松下洋子 "wikilink")、[杉村重郎](https://ja.wikipedia.org/wiki/杉村重郎 "wikilink")、[若菜章夫](../Page/若菜章夫.md "wikilink")
+  - 監督 - [高松信司](../Page/高松信司.md "wikilink")
   - 脚本 - [大川俊道](../Page/大川俊道.md "wikilink")
-  - 絵コンテ - 榎本明広、[高本宣弘](https://ja.wikipedia.org/wiki/高本宣弘 "wikilink")、[佐藤雄三](https://ja.wikipedia.org/wiki/佐藤雄三 "wikilink")
+  - 絵コンテ - 榎本明広、[高本宣弘](../Page/高本宣弘.md "wikilink")、[佐藤雄三](../Page/佐藤雄三.md "wikilink")
   - 演出 - [菱川直樹](https://ja.wikipedia.org/wiki/菱川直樹 "wikilink")
   - 総作画監督 - [奈須川充](https://ja.wikipedia.org/wiki/奈須川充 "wikilink")
   - 作画監督 - 尼野浩正、[時永宣幸](https://ja.wikipedia.org/wiki/時永宜幸 "wikilink")
   - 美術監督 - 柴田聡
   - 撮影監督 - 清水泰宏
-  - 音楽 - [佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink")
+  - 音楽 - [佐橋俊彦](../Page/佐橋俊彦.md "wikilink")
   - 音響監督 - [藤山房伸](../Page/藤山房伸.md "wikilink")
-  - 録音スタジオ - [神南スタジオ](../Page/神南スタジオ.md "wikilink")、[代々木アニメーション学院](https://ja.wikipedia.org/wiki/代々木アニメーション学院 "wikilink")原宿校
+  - 録音スタジオ - [神南スタジオ](../Page/神南スタジオ.md "wikilink")、[代々木アニメーション学院](../Page/代々木アニメーション学院.md "wikilink")原宿校
   - キャスティング・プロデュース - [ネルケプランニング](../Page/ネルケプランニング.md "wikilink")
   - SPECIAL THANKS - 金田耕司、小中ももこ、[杉山豊](../Page/杉山豊.md "wikilink")
   - アニメーション製作 - [スタジオぎゃろっぷ](https://ja.wikipedia.org/wiki/スタジオぎゃろっぷ "wikilink")
-  - 制作 - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[NAS](https://ja.wikipedia.org/wiki/日本アドシステムズ "wikilink")
+  - 制作 - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[NAS](../Page/日本アドシステムズ.md "wikilink")
 
 ## 脚注
 

@@ -3,13 +3,13 @@
 
 **GMOクリック証券株式会社**（ジーエムオークリックしょうけん、GMO CLICK Securities, Inc.）は、日本のインターネット[証券会社](../Page/証券会社.md "wikilink")である。
 
-[GMOフィナンシャルホールディングス](https://ja.wikipedia.org/wiki/GMOフィナンシャルホールディングス "wikilink")の100%子会社で、[GMOインターネット](https://ja.wikipedia.org/wiki/GMOインターネット "wikilink")の孫会社にあたる。
+[GMOフィナンシャルホールディングス](https://ja.wikipedia.org/wiki/GMOフィナンシャルホールディングス "wikilink")の100%子会社で、[GMOインターネット](../Page/GMOインターネット.md "wikilink")の孫会社にあたる。
 
 ## 会社概要
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")、[東証](https://ja.wikipedia.org/wiki/東証 "wikilink")一部上場の[GMOインターネット](https://ja.wikipedia.org/wiki/GMOインターネット "wikilink")グループの[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")・GMOインターネット証券株式会社として設立された。2005年7月に、現在の[代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink")である[高島秀行](https://ja.wikipedia.org/wiki/高島秀行 "wikilink")がGMOに入社し、その後1年に満たない期間で[証券業](https://ja.wikipedia.org/wiki/証券業 "wikilink")の[免許](../Page/免許.md "wikilink")の取得とシステム構築を行い、ネット証券を一から一人で立ち上げた。
-  - [2007年](../Page/2007年.md "wikilink")8月、GMOインターネットの金融事業撤退を受け、GMOインターネット[社長](https://ja.wikipedia.org/wiki/社長 "wikilink")の[熊谷正寿](https://ja.wikipedia.org/wiki/熊谷正寿 "wikilink")がGMOインターネットの持ち分株式全株を個人で買い取ったため、GMOインターネットとの資本関係はなくなった。そのため、2007年[12月3日](../Page/12月3日.md "wikilink")付けで[商号](https://ja.wikipedia.org/wiki/商号 "wikilink")をクリック証券に変更した。
-  - 2007年[12月21日](../Page/12月21日.md "wikilink")に[東京海上日動火災保険](https://ja.wikipedia.org/wiki/東京海上日動火災保険 "wikilink")および[ジャフコ](https://ja.wikipedia.org/wiki/ジャフコ "wikilink")が、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月28日には[日興アントファクトリー](https://ja.wikipedia.org/wiki/日興アントファクトリー "wikilink")株式会社、[あおぞらインベストメント](https://ja.wikipedia.org/wiki/あおぞらインベストメント "wikilink")株式会社、株式会社[フルスピード](https://ja.wikipedia.org/wiki/フルスピード "wikilink")、[安田企業投資](https://ja.wikipedia.org/wiki/安田企業投資 "wikilink")株式会社、[りそなキャピタル](https://ja.wikipedia.org/wiki/りそなキャピタル "wikilink")株式会社などが、資本参加を行い、株主に加わった。
+  - [2005年](../Page/2005年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")、[東証](https://ja.wikipedia.org/wiki/東証 "wikilink")一部上場の[GMOインターネット](../Page/GMOインターネット.md "wikilink")グループの[子会社](../Page/子会社.md "wikilink")・GMOインターネット証券株式会社として設立された。2005年7月に、現在の[代表取締役](../Page/代表取締役.md "wikilink")である[高島秀行](../Page/高島秀行.md "wikilink")がGMOに入社し、その後1年に満たない期間で[証券業](https://ja.wikipedia.org/wiki/証券業 "wikilink")の[免許](../Page/免許.md "wikilink")の取得とシステム構築を行い、ネット証券を一から一人で立ち上げた。
+  - [2007年](../Page/2007年.md "wikilink")8月、GMOインターネットの金融事業撤退を受け、GMOインターネット[社長](../Page/社長.md "wikilink")の[熊谷正寿](../Page/熊谷正寿.md "wikilink")がGMOインターネットの持ち分株式全株を個人で買い取ったため、GMOインターネットとの資本関係はなくなった。そのため、2007年[12月3日](../Page/12月3日.md "wikilink")付けで[商号](../Page/商号.md "wikilink")をクリック証券に変更した。
+  - 2007年[12月21日](../Page/12月21日.md "wikilink")に[東京海上日動火災保険](../Page/東京海上日動火災保険.md "wikilink")および[ジャフコ](../Page/ジャフコ.md "wikilink")が、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月28日には[日興アントファクトリー](https://ja.wikipedia.org/wiki/日興アントファクトリー "wikilink")株式会社、[あおぞらインベストメント](https://ja.wikipedia.org/wiki/あおぞらインベストメント "wikilink")株式会社、株式会社[フルスピード](https://ja.wikipedia.org/wiki/フルスピード "wikilink")、[安田企業投資](https://ja.wikipedia.org/wiki/安田企業投資 "wikilink")株式会社、[りそなキャピタル](https://ja.wikipedia.org/wiki/りそなキャピタル "wikilink")株式会社などが、資本参加を行い、株主に加わった。
   - 2008年[10月10日](../Page/10月10日.md "wikilink")に[エキサイト](../Page/エキサイト.md "wikilink")からエキサイトFX（後の[フォレックス・トレード](https://ja.wikipedia.org/wiki/フォレックス・トレード "wikilink")）の全株式を購入・取得し、子会社化した。
   - 2009年9月1日から競泳日本代表のオフィシャルパートナーを務める。
   - 2010年10月26日にGMOインターネットと資本・業務提携を結ぶ形で再び関連会社化、さらには同年[11月8日](../Page/11月8日.md "wikilink")には[株式交換](../Page/株式交換.md "wikilink")による完全子会社化を発表。これによりGMOインターネットは金融事業へ事実上、再参入したこととなる。
@@ -20,14 +20,14 @@
 
 ## 沿革
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月28日 - **GMOインターネット証券株式会社**設立（設立準備室）。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")10月28日 - **GMOインターネット証券株式会社**設立（設立準備室）。
+  - [2006年](../Page/2006年.md "wikilink")
       - 3月28日 - 証券業登録。
       - 5月12日 - 証券業 営業開始。
-      - 10月13日 - [外国為替証拠金取引](https://ja.wikipedia.org/wiki/外国為替証拠金取引 "wikilink")（FX） 取扱開始。
-      - 11月27日 - [日経225先物](https://ja.wikipedia.org/wiki/日経225先物取引 "wikilink")、日経225OP 取扱開始。
+      - 10月13日 - [外国為替証拠金取引](../Page/外国為替証拠金取引.md "wikilink")（FX） 取扱開始。
+      - 11月27日 - [日経225先物](../Page/日経225先物取引.md "wikilink")、日経225OP 取扱開始。
   - [2007年](../Page/2007年.md "wikilink")
-      - 3月29日 - 日本初の株式取引の[API](../Page/アプリケーションプログラミングインタフェース.md "wikilink")（「[Webサービス](https://ja.wikipedia.org/wiki/Webサービス "wikilink")」と呼んでいる）を公開。
+      - 3月29日 - 日本初の株式取引の[API](../Page/アプリケーションプログラミングインタフェース.md "wikilink")（「[Webサービス](../Page/Webサービス.md "wikilink")」と呼んでいる）を公開。
       - 8月7日 - 2007年7月の単月黒字化達成を発表。
       - 9月7日 - 夜間取引（[ジャパンネクストPTS](../Page/SBIジャパンネクスト証券.md "wikilink")）開始。
       - 12月3日 - **クリック証券株式会社**に商号変更。（GMOインターネットの撤退による）
@@ -58,10 +58,10 @@
 
 ### 安い手数料
 
-東証1部のネット企業であるGMOインターネットの子会社として新規参入を果たし、手数料の安さに重点を置く。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[5月12日](../Page/5月12日.md "wikilink")に取引開始。また、[2007年](../Page/2007年.md "wikilink")1月より[信用取引](https://ja.wikipedia.org/wiki/信用取引 "wikilink")は一律150円にすると発表。
+東証1部のネット企業であるGMOインターネットの子会社として新規参入を果たし、手数料の安さに重点を置く。[2006年](../Page/2006年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")に取引開始。また、[2007年](../Page/2007年.md "wikilink")1月より[信用取引](../Page/信用取引.md "wikilink")は一律150円にすると発表。
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink")よりFX（外国為替証拠金）取引を開始。こちらでも手数料を無料にし、ドル/円のスプレッド0銭～、ユーロ/ドル1pips～と証券会社としてもFX専業としても破格の条件を売り物にしている。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月からは日経225先物・OPを取扱いを開始、225先物一枚350円の手数料を発表。
+  - [2006年](../Page/2006年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")よりFX（外国為替証拠金）取引を開始。こちらでも手数料を無料にし、ドル/円のスプレッド0銭～、ユーロ/ドル1pips～と証券会社としてもFX専業としても破格の条件を売り物にしている。
+  - [2006年](../Page/2006年.md "wikilink")11月からは日経225先物・OPを取扱いを開始、225先物一枚350円の手数料を発表。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月には[日経225miniの手数料を](https://ja.wikipedia.org/wiki/日経225先物取引#日経225mini "wikilink")48円に値下げ実施。
 
 先物の手数料においても最安値水準としている。
@@ -78,7 +78,7 @@
 
 ### API公開
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月26日](../Page/12月26日.md "wikilink")より、Webサービス開発キットという名前の[XMLインターフェイスの仕様を開示](../Page/Extensible_Markup_Language.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")より株式注文の仕様が公開、同時にAPIサーバへの接続を開始した。しかしながら完成度は非常に低く、明らかに設計ミスと思われるような箇所も見受けられる（約定情報に注文番号が含まれないため、自分で発注した注文が約定したのかどうか判断出来ないなど）。また、肝心の株価を取得するAPIが提供されていない。これはサーバーへの負荷軽減のための措置であると説明されている\[4\]。そのため、提供されるAPIのみで取引の全てを担うソフトウェアを開発するのは困難である。一部の開発者はこのようなAPIに見切りをつけ、[スクレイピングと呼ばれる技術を用いて](https://ja.wikipedia.org/wiki/スクリーンスクレイピング "wikilink")[HTMLを解析するなどのアプローチをとっている](../Page/HyperText_Markup_Language.md "wikilink")。
+[2006年](../Page/2006年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")より、Webサービス開発キットという名前の[XMLインターフェイスの仕様を開示](../Page/Extensible_Markup_Language.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")より株式注文の仕様が公開、同時にAPIサーバへの接続を開始した。しかしながら完成度は非常に低く、明らかに設計ミスと思われるような箇所も見受けられる（約定情報に注文番号が含まれないため、自分で発注した注文が約定したのかどうか判断出来ないなど）。また、肝心の株価を取得するAPIが提供されていない。これはサーバーへの負荷軽減のための措置であると説明されている\[4\]。そのため、提供されるAPIのみで取引の全てを担うソフトウェアを開発するのは困難である。一部の開発者はこのようなAPIに見切りをつけ、[スクレイピングと呼ばれる技術を用いて](https://ja.wikipedia.org/wiki/スクリーンスクレイピング "wikilink")[HTMLを解析するなどのアプローチをとっている](../Page/HyperText_Markup_Language.md "wikilink")。
 
 [2009年](../Page/2009年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")に、2009年[2月14日](../Page/2月14日.md "wikilink")をもってサービス終了の案内があり、サービス提供が終了した。しかしながら、シストレFXグランプリのAPIを利用したコンテストは2009年[3月29日](../Page/3月29日.md "wikilink")まで募集しており、コンテスト開催中であるにもかかわらずサービス提供が終了した形となった。しかし、それゆえ、シストレFXグランプリ用のデモアカウントの方は継続してAPIサービスを提供している。
 
@@ -93,8 +93,8 @@
 以下システム構成 \[6\]
 
   - 業務[サーバ](../Page/サーバ.md "wikilink")の[OSは全て](../Page/オペレーティングシステム.md "wikilink")[Linux](../Page/Linux.md "wikilink")。
-  - [Webアプリケーション](https://ja.wikipedia.org/wiki/Webアプリケーション "wikilink")・サーバーには[Apache Tomcatと](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink")[JBoss](https://ja.wikipedia.org/wiki/JBoss "wikilink")
-  - [フレームワーク](https://ja.wikipedia.org/wiki/フレームワーク "wikilink")には[Springと](https://ja.wikipedia.org/wiki/Spring_Framework "wikilink") [Apache Struts](https://ja.wikipedia.org/wiki/Apache_Struts "wikilink")
+  - [Webアプリケーション](https://ja.wikipedia.org/wiki/Webアプリケーション "wikilink")・サーバーには[Apache Tomcatと](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink")[JBoss](../Page/JBoss.md "wikilink")
+  - [フレームワーク](https://ja.wikipedia.org/wiki/フレームワーク "wikilink")には[Springと](https://ja.wikipedia.org/wiki/Spring_Framework "wikilink") [Apache Struts](../Page/Apache_Struts.md "wikilink")
   - [O/Rマッピング](https://ja.wikipedia.org/wiki/O-Rマッピング "wikilink")・ツールには[Hibernate](../Page/Hibernate.md "wikilink")と[iBATIS](https://ja.wikipedia.org/wiki/iBATIS "wikilink")
 
 ### 夜間取引
@@ -113,14 +113,14 @@
 ## 冠協賛番組
 
   - [よるべん](https://ja.wikipedia.org/wiki/よるべん "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）
-  - [カンニング竹山のゼニウスの夜](https://ja.wikipedia.org/wiki/銭ナールシリーズ "wikilink")（[MBSテレビ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[関西ローカル](https://ja.wikipedia.org/wiki/関西ローカル "wikilink")）
+  - [カンニング竹山のゼニウスの夜](https://ja.wikipedia.org/wiki/銭ナールシリーズ "wikilink")（[MBSテレビ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[関西ローカル](../Page/関西ローカル.md "wikilink")）
   - [ビジネスクリック](https://ja.wikipedia.org/wiki/ビジネスクリック "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")・[首都圏ローカル](https://ja.wikipedia.org/wiki/首都圏ローカル "wikilink")）
 
 ## CMモデル
 
   - [松本人志](../Page/松本人志.md "wikilink")（[ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")。[坂本龍馬](../Page/坂本龍馬.md "wikilink")に扮し「笑える時代をつくろうや」とアピールする）
   - [吉永実夏](https://ja.wikipedia.org/wiki/吉永実夏 "wikilink")（「カンタンがいちばん」のヴァージョン\[7\]のちに「ビジネス・クリック」木曜日\[8\]に出演）
-  - [山本彩乃](https://ja.wikipedia.org/wiki/山本彩乃 "wikilink")（「カンタンがいちばん」のヴァージョン\[9\]）
+  - [山本彩乃](../Page/山本彩乃.md "wikilink")（「カンタンがいちばん」のヴァージョン\[9\]）
   - [伊藤友里](../Page/伊藤友里.md "wikilink")（[2009年](../Page/2009年.md "wikilink")頃）
   - [競泳](../Page/競泳.md "wikilink")日本代表選手（2012年）
   - [中山由香](https://ja.wikipedia.org/wiki/中山由香 "wikilink")（「未来を、変えろ。」）（2013年）

@@ -5,10 +5,10 @@
 
 ## 概要
 
-  - 作品毎に作風が大きく変わるがその音楽は[フィードバック・ノイズや](../Page/フィードバック奏法.md "wikilink")[変拍子](https://ja.wikipedia.org/wiki/変拍子 "wikilink")を多用した[サイケデリック](https://ja.wikipedia.org/wiki/サイケデリック・ロック "wikilink")、エクスペリメンタル、[ポストロック](https://ja.wikipedia.org/wiki/ポストロック "wikilink")等に分類される。
-  - 映像担当のメンバーがおり、ステージ照明を一切使わずに[プロジェクタ](../Page/プロジェクタ.md "wikilink")を使った[VJ映像とバンドの生演奏を](https://ja.wikipedia.org/wiki/ビデオジョッキー "wikilink")[クリック無しで同期させたライブを行う](../Page/メトロノーム.md "wikilink")。
+  - 作品毎に作風が大きく変わるがその音楽は[フィードバック・ノイズや](../Page/フィードバック奏法.md "wikilink")[変拍子](https://ja.wikipedia.org/wiki/変拍子 "wikilink")を多用した[サイケデリック](../Page/サイケデリック・ロック.md "wikilink")、エクスペリメンタル、[ポストロック](https://ja.wikipedia.org/wiki/ポストロック "wikilink")等に分類される。
+  - 映像担当のメンバーがおり、ステージ照明を一切使わずに[プロジェクタ](../Page/プロジェクタ.md "wikilink")を使った[VJ映像とバンドの生演奏を](../Page/ビデオジョッキー.md "wikilink")[クリック無しで同期させたライブを行う](../Page/メトロノーム.md "wikilink")。
   - 初ライブ（下北沢シェルター）が決まった時点では、バンド名がまだ決定していなかった。（当時の）ライブハウスの店長 から「（ライブを行うにあたってフライヤーなどの告知媒体に）バンド名を出さないといけないから」と電話があり、その時にたまたま洗濯をしていた青木ロビンは「じゃあ、[ダウニーでいいですか](https://ja.wikipedia.org/wiki/ダウニー_\(柔軟剤\) "wikilink")?」と目についた柔軟剤の名称を軽いノリで伝えた。その後も変更することなく、そのまま正式にバンド名に採用。現在に至る。
-  - 2004年12月16日、[下北沢SHELTERでのワンマンライブイベント](https://ja.wikipedia.org/wiki/ロフト_\(ライブハウス\)#下北沢SHELTER "wikilink")[『情けの庭』](https://ja.wikipedia.org/wiki/児島虎次郎 "wikilink") を最後に活動休止。その後メンバーはそれぞれ別のバンドで活動。
+  - 2004年12月16日、[下北沢SHELTERでのワンマンライブイベント](https://ja.wikipedia.org/wiki/ロフト_\(ライブハウス\)#下北沢SHELTER "wikilink")[『情けの庭』](../Page/児島虎次郎.md "wikilink") を最後に活動休止。その後メンバーはそれぞれ別のバンドで活動。
   - 2012年6月13日、各メンバーのTwitterアカウントにて、再始動へ向けた曲作りの最中であることが明らかになった。
   - 2013年10月1日、11月20日に9年ぶりのアルバムをリリースし、ライブツアーを行うことを発表。公式に再始動を表明した。
   - 2018年1月18日、前年末から続いていた[青木裕](https://ja.wikipedia.org/wiki/青木裕 "wikilink")（Gt）の体調不良について、診断の結果、「Myeloid Sarcoma（骨髄肉腫）」だったことが発表された。
@@ -22,24 +22,24 @@
 
   - **青木ロビン** - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
       - [沖縄出身](../Page/沖縄県.md "wikilink")
-      - 父がインド人、母が日本人のハーフ。Dhal、zezecoのメンバーとしても活動。映画「[ラブドガン](https://ja.wikipedia.org/wiki/ラブドガン "wikilink")」サントラ制作（Dhal名義）、[fresh\!](https://ja.wikipedia.org/wiki/fresh! "wikilink")のアルバムにゲストボーカルとしての参加、[THE NOVEMBERS等のアーティストへの楽曲提供](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")、アレンジ、プロデュース、も手掛ける。
+      - 父がインド人、母が日本人のハーフ。Dhal、zezecoのメンバーとしても活動。映画「[ラブドガン](../Page/ラブドガン.md "wikilink")」サントラ制作（Dhal名義）、[fresh\!](https://ja.wikipedia.org/wiki/fresh! "wikilink")のアルバムにゲストボーカルとしての参加、[THE NOVEMBERS等のアーティストへの楽曲提供](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")、アレンジ、プロデュース、も手掛ける。
       - 音楽活動の傍ら沖縄の北中城村で「jiji cafe」(2019年3月閉店)というカフェを経営していた。
       - 現在、内装インテリアデザイン業（Moritz Designに所属）、アパレル業等を営んでいる。
       - kilk recordsの森大地が経営する埼玉県大宮 宮原のカフェ兼コミュニティ・スペース「bekkan」の内装及び、総合的なコンサルタント、神楽坂の音楽スペース「神楽音（カグラネ）」、ライブハウス「NEPO」の内装デザインを手掛けた。
       - Natural Hi-Tech Recordsが運営するBAR「三月の水」の内装デザインも手がける。
       - 「おネギ」という名のボストンテリアを飼っている（苒のミュージックビデオに出演しているボストンテリアは先代の愛犬「ヤギ」）
-      - 俳優の[青木崇高](https://ja.wikipedia.org/wiki/青木崇高 "wikilink")とは学生時代からの友人で初期downyのミュージックビデオ(左の種？)に青木崇高が出演している。
+      - 俳優の[青木崇高](../Page/青木崇高.md "wikilink")とは学生時代からの友人で初期downyのミュージックビデオ(左の種？)に青木崇高が出演している。
       - [ナンバーガール](../Page/ナンバーガール.md "wikilink")のベーシスト[中尾憲太郎](../Page/中尾憲太郎.md "wikilink")とルームシェアしていた事がある。
       - 愛読している漫画は[石塚真一](https://ja.wikipedia.org/wiki/石塚真一 "wikilink")のジャズを題材とした作品 [BLUE GIANT](https://ja.wikipedia.org/wiki/BLUE_GIANT "wikilink")
   - **[青木裕](https://ja.wikipedia.org/wiki/青木裕 "wikilink")** - ギター
-      - [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")出身
-      - downyのライブ時は[ロバート・フリップ](../Page/ロバート・フリップ.md "wikilink")のように椅子に座って演奏するスタイル。downy活動休止時は[Syrup 16gのサポートや](https://ja.wikipedia.org/wiki/Syrup_16g "wikilink")、[VOLA & THE ORIENTAL MACHINEのメンバー](../Page/VOLA_&_THE_ORIENTAL_MACHINE.md "wikilink")（2008年9月末日まで）として活躍。インストバンドである[unkie](https://ja.wikipedia.org/wiki/unkie "wikilink")でも活動中。
+      - [茨城県](../Page/茨城県.md "wikilink")出身
+      - downyのライブ時は[ロバート・フリップ](../Page/ロバート・フリップ.md "wikilink")のように椅子に座って演奏するスタイル。downy活動休止時は[Syrup 16gのサポートや](../Page/Syrup_16g.md "wikilink")、[VOLA & THE ORIENTAL MACHINEのメンバー](../Page/VOLA_&_THE_ORIENTAL_MACHINE.md "wikilink")（2008年9月末日まで）として活躍。インストバンドである[unkie](https://ja.wikipedia.org/wiki/unkie "wikilink")でも活動中。
       - イラストレーターとしても活動しており、2015年9月には個展「青木裕展」を開催、unkieのCDジャケット、downyオフィシャルサイトなども自身が手掛けている。 また、プラモデル・模型制作もプロ級の腕前である。
       - 2017年1月、ソロアルバム『Lost in Forest』をリリース。制作開始からリリースまで10年を要した\[3\]という。アートワークも自身で手がけている。
-      - 漫画家の友人が多く、特に[カネコアツシ](https://ja.wikipedia.org/wiki/カネコアツシ "wikilink")と仲が良い。
+      - 漫画家の友人が多く、特に[カネコアツシ](../Page/カネコアツシ.md "wikilink")と仲が良い。
       - 映画[スター・ウォーズ・シリーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ・シリーズ "wikilink")のファンである。
       - 2018年1月18日、骨髄肉腫の診断を受けたことを明らかにした。同年3月19日 、急性骨髄性白血病により48歳で死去。
-  - **仲俣和宏** - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **仲俣和宏** - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
       - [長野県](../Page/長野県.md "wikilink")出身
       - \[マッチョ\]の愛称で親しまれている。
       - 中高生時代にハードロック、ヘビィメタルに影響を受けてベースを始める。
@@ -47,12 +47,12 @@
   - **秋山隆彦** - [ドラムス](../Page/ドラムセット.md "wikilink")
       - [大阪府](../Page/大阪府.md "wikilink")出身
       - 第三作品集『無題』時からバンドに加入
-      - [fresh\!](https://ja.wikipedia.org/wiki/fresh! "wikilink")のリーダー、[KAREN](../Page/KAREN_\(バンド\).md "wikilink")、秋山タカヒコ名義で[THE MORTAL](https://ja.wikipedia.org/wiki/THE_MORTAL "wikilink")（[櫻井敦司](https://ja.wikipedia.org/wiki/櫻井敦司 "wikilink")ソロプロジェクト）のメンバーとしても活動。
-      - [スキマスイッチ](https://ja.wikipedia.org/wiki/スキマスイッチ "wikilink")、[清春](../Page/清春.md "wikilink")、[黒夢](../Page/黒夢.md "wikilink")、[小南泰葉](https://ja.wikipedia.org/wiki/小南泰葉 "wikilink")、[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")、[ナオト・インティライミ](https://ja.wikipedia.org/wiki/ナオト・インティライミ "wikilink")、[長澤知之](../Page/長澤知之.md "wikilink")、等のレコーディング、ライブに多数参加。
-  - **柘榴** - 映像、[VJ](https://ja.wikipedia.org/wiki/ビデオジョッキー "wikilink")
+      - [fresh\!](https://ja.wikipedia.org/wiki/fresh! "wikilink")のリーダー、[KAREN](../Page/KAREN_\(バンド\).md "wikilink")、秋山タカヒコ名義で[THE MORTAL](https://ja.wikipedia.org/wiki/THE_MORTAL "wikilink")（[櫻井敦司](../Page/櫻井敦司.md "wikilink")ソロプロジェクト）のメンバーとしても活動。
+      - [スキマスイッチ](../Page/スキマスイッチ.md "wikilink")、[清春](../Page/清春.md "wikilink")、[黒夢](../Page/黒夢.md "wikilink")、[小南泰葉](https://ja.wikipedia.org/wiki/小南泰葉 "wikilink")、[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")、[ナオト・インティライミ](https://ja.wikipedia.org/wiki/ナオト・インティライミ "wikilink")、[長澤知之](../Page/長澤知之.md "wikilink")、等のレコーディング、ライブに多数参加。
+  - **柘榴** - 映像、[VJ](../Page/ビデオジョッキー.md "wikilink")
       - 第三作品集『無題』時からバンドに加入
       - 愛称は \[まっつん\]
-      - [ジュノ・リアクター](https://ja.wikipedia.org/wiki/ジュノ・リアクター "wikilink")、[VIOLET UK](https://ja.wikipedia.org/wiki/VIOLET_UK "wikilink")、[SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")、[The World of GOLDEN EGGS](https://ja.wikipedia.org/wiki/The_World_of_GOLDEN_EGGS "wikilink") PARTY「NES\!」 、カンヌMIDEMショウーケース、他、多数の公演映像演出を手掛けるなど国内外で活動中。
+      - [ジュノ・リアクター](https://ja.wikipedia.org/wiki/ジュノ・リアクター "wikilink")、[VIOLET UK](https://ja.wikipedia.org/wiki/VIOLET_UK "wikilink")、[SUGIZO](../Page/SUGIZO.md "wikilink")、[The World of GOLDEN EGGS](../Page/The_World_of_GOLDEN_EGGS.md "wikilink") PARTY「NES\!」 、カンヌMIDEMショウーケース、他、多数の公演映像演出を手掛けるなど国内外で活動中。
 
 <!-- end list -->
 
@@ -71,7 +71,7 @@
   - **芳賀庄一郎** - ドラムス
       - 第二作品集『無題』時まで在籍
       - バイク事故によるケガでバンドを脱退。
-  - **セバスチャン** - 映像、[VJ](https://ja.wikipedia.org/wiki/ビデオジョッキー "wikilink")
+  - **セバスチャン** - 映像、[VJ](../Page/ビデオジョッキー.md "wikilink")
       - 第二作品集『無題』時まで在籍
       - 名前はクリスチャンネーム、映像制作会社に勤務。
 
@@ -96,7 +96,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/5月23日.md" title="wikilink">5月23日</a><br />
-<a href="../Page/2014年.md" title="wikilink">2014年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a>（再発）</p></td>
+<a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a>（再発）</p></td>
 <td><p><strong>無題</strong></p></td>
 <td><p>FICA-3001<br />
 PECF-1097:再発</p></td>
@@ -124,7 +124,7 @@ PECF-1097:再発</p></td>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/5月22日.md" title="wikilink">5月22日</a><br />
-<a href="../Page/2014年.md" title="wikilink">2014年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a>（再発）</p></td>
+<a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a>（再発）</p></td>
 <td><p><strong>無題</strong></p></td>
 <td><p>MTCD-1009<br />
 PECF-1098:再発</p></td>
@@ -232,7 +232,7 @@ PECF-1098:再発</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a></p></td>
 <td><p><strong>無題</strong></p></td>
 <td><p>MTCD-1060</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -548,7 +548,7 @@ PECF-1098:再発</p></td>
 <li>The Attack of Ninja（remix） / <a href="https://ja.wikipedia.org/wiki/DJ_Uppercut" title="wikilink">DJ Uppercut</a></li>
 <li>No Fun（single mix） / <a href="https://ja.wikipedia.org/wiki/Doctor_Mix_And_The_Remix" title="wikilink">Doctor Mix And The Remix</a></li>
 <li>FATBROS / <a href="../Page/HIFANA.md" title="wikilink">HIFANA</a></li>
-<li>ke-kei（気景） / <a href="https://ja.wikipedia.org/wiki/speedometer." title="wikilink">speedometer.</a> Featuring モユニジョモ（<a href="https://ja.wikipedia.org/wiki/イルリメ" title="wikilink">イルリメ</a>）</li>
+<li>ke-kei（気景） / <a href="https://ja.wikipedia.org/wiki/speedometer." title="wikilink">speedometer.</a> Featuring モユニジョモ（<a href="../Page/イルリメ.md" title="wikilink">イルリメ</a>）</li>
 <li>SUCK UP TO IT / <a href="https://ja.wikipedia.org/wiki/RAZORS_EDGE" title="wikilink">RAZORS EDGE</a></li>
 <li>Serious Trouble / <a href="https://ja.wikipedia.org/wiki/ZONGAMIN" title="wikilink">ZONGAMIN</a></li>
 <li>FANFARE FOR YOUR MUSEUM OF CHOICE / <a href="https://ja.wikipedia.org/wiki/DIRECTORSOUND" title="wikilink">DIRECTORSOUND</a></li>
@@ -556,7 +556,7 @@ PECF-1098:再発</p></td>
 <p># BLAM</p></td>
 <td><p>/ <a href="https://ja.wikipedia.org/wiki/SWELL_MAPS" title="wikilink">SWELL MAPS</a></p>
 <ol>
-<li>Gary Hume's Peppermint Stripe / <a href="https://ja.wikipedia.org/wiki/カジヒデキ" title="wikilink">Hideki Kaji</a></li>
+<li>Gary Hume's Peppermint Stripe / <a href="../Page/カジヒデキ.md" title="wikilink">Hideki Kaji</a></li>
 <li>she didin't want to drink anything with spangles in / <a href="https://ja.wikipedia.org/wiki/Dhal" title="wikilink">Dhal</a></li>
 <li>From Nakameguro To Everywhere / Cornelius
 </div>
@@ -564,7 +564,7 @@ PECF-1098:再発</p></td>
 </ol></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/4月6日.md" title="wikilink">4月6日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/4月6日.md" title="wikilink">4月6日</a></p></td>
 <td><p><strong>Fine Time 2 〜A Tribute to New Wave</strong></p></td>
 <td><p>UPCH-1398</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -575,25 +575,25 @@ PECF-1098:再発</p></td>
 <ol>
 <li>Memory Serves（originally by Material） / <a href="https://ja.wikipedia.org/wiki/OTOMO_YOSHIHIDE&#39;s_NEW_JAZZ_ENSEMBLE" title="wikilink">OTOMO YOSHIHIDE's NEW JAZZ ENSEMBLE</a> featuring <a href="https://ja.wikipedia.org/wiki/KAHIMI_KARIE" title="wikilink">KAHIMI KARIE</a></li>
 <li>Hugry Like The Wolf（originally by Duran Duran） / <a href="https://ja.wikipedia.org/wiki/Ken_Yokoyama" title="wikilink">Ken Yokoyama</a></li>
-<li>This is not a Love Song（orginally by PIL） / <a href="https://ja.wikipedia.org/wiki/日暮愛葉" title="wikilink">日暮愛葉</a>÷<a href="https://ja.wikipedia.org/wiki/中村弘二" title="wikilink">中村弘二</a></li>
+<li>This is not a Love Song（orginally by PIL） / <a href="../Page/日暮愛葉.md" title="wikilink">日暮愛葉</a>÷<a href="../Page/中村弘二.md" title="wikilink">中村弘二</a></li>
 <li>I'm Your Man（orginally by Richard Hell &amp; the Voidois） / <a href="https://ja.wikipedia.org/wiki/SOUL_FLOWER_UNION" title="wikilink">SOUL FLOWER UNION</a></li>
 <li>Too Shy（orginally by Kaja Goo goo） - ハミングキッチン＋とらジャム / <a href="https://ja.wikipedia.org/wiki/ハミングキッチン" title="wikilink">ハミングキッチン</a></li>
-<li>Every Breath You Take（orginally by The Police） / <a href="https://ja.wikipedia.org/wiki/SPARTA_LOCALS" title="wikilink">SPARTA LOCALS</a></li>
+<li>Every Breath You Take（orginally by The Police） / <a href="../Page/SPARTA_LOCALS.md" title="wikilink">SPARTA LOCALS</a></li>
 <li>Boys Don't Cry（originally by The Cure） / <a href="https://ja.wikipedia.org/wiki/Atomic_Orchestra" title="wikilink">Atomic Orchestra</a></li>
 <li>Problems（orginally by Sex Pistols） / <a href="https://ja.wikipedia.org/wiki/REBEL_FAMILIA" title="wikilink">REBEL FAMILIA</a></li>
 <li>How Soon is Now?（orginally by The Smiths） / <a href="../Page/SiZK.md" title="wikilink">SiZK</a></li>
-<li>Music for Airports（orginally by Brian Eno） / <a href="https://ja.wikipedia.org/wiki/渋さ知らズ" title="wikilink">渋さ知らズ</a></li>
+<li>Music for Airports（orginally by Brian Eno） / <a href="../Page/渋さ知らズ.md" title="wikilink">渋さ知らズ</a></li>
 <li><strong>Paper Hats（orginally by This Heat） / downy</strong></li>
 <li>Puerto Rican Ghost（originally by Mars） / <a href="https://ja.wikipedia.org/wiki/Reck" title="wikilink">Reck</a></li>
 <li>Murderous（orginally by Nitzer Ebb） / <a href="https://ja.wikipedia.org/wiki/WRENCH" title="wikilink">WRENCH</a></li>
-<li>Frankie Teardrop (orginally by Suicide) / <a href="https://ja.wikipedia.org/wiki/ゆらゆら帝国" title="wikilink">ゆらゆら帝国</a>
+<li>Frankie Teardrop (orginally by Suicide) / <a href="../Page/ゆらゆら帝国.md" title="wikilink">ゆらゆら帝国</a>
 </div>
 </div></li>
 </ol></td>
 <td><p>UNIVERSAL MUSIC</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
 <td><p><strong>C.A.P.S-2nd EDITION/A felicity SAMPLE</strong></p></td>
 <td><p>MTCD-1066</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -605,7 +605,7 @@ PECF-1098:再発</p></td>
 <li>Panik / <a href="https://ja.wikipedia.org/wiki/METAL_URBAIN" title="wikilink">METAL URBAIN</a></li>
 <li><strong>弌 / downy</strong></li>
 <li>I Love Love（OTHER） / <a href="https://ja.wikipedia.org/wiki/XORNELIUS" title="wikilink">XORNELIUS</a></li>
-<li>Illuminum Song -Geographic Mix- / <a href="https://ja.wikipedia.org/wiki/カジヒデキ" title="wikilink">Hideki Kaji</a></li>
+<li>Illuminum Song -Geographic Mix- / <a href="../Page/カジヒデキ.md" title="wikilink">Hideki Kaji</a></li>
 <li>EXIT/DELEPTE / <a href="../Page/高木正勝.md" title="wikilink">takagi masakatsu</a></li>
 <li>KAZAK / <a href="https://ja.wikipedia.org/wiki/ZONGAMIN" title="wikilink">ZONGAMIN</a></li>
 <li>I Don't Want Nobody But -ZONGAMIN Remix- / <a href="https://ja.wikipedia.org/wiki/HEAD_SHOPPE" title="wikilink">HEAD SHOPPE</a></li>
@@ -614,8 +614,8 @@ PECF-1098:再発</p></td>
 <li>mila / <a href="https://ja.wikipedia.org/wiki/Spangle_call_Lilli_line" title="wikilink">Spangle call Lilli line</a></li>
 <li>WAMONO〜和モノ〜 / <a href="../Page/HIFANA.md" title="wikilink">HIFANA</a></li>
 <li>The World Is Not Ours / <a href="https://ja.wikipedia.org/wiki/BUAHIMA" title="wikilink">BUAHIMA</a></li>
-<li>Play The Hits / <a href="https://ja.wikipedia.org/wiki/HAL" title="wikilink">HAL</a></li>
-<li>ceiling / <a href="https://ja.wikipedia.org/wiki/54-71" title="wikilink">54-71</a></li>
+<li>Play The Hits / <a href="../Page/HAL.md" title="wikilink">HAL</a></li>
+<li>ceiling / <a href="../Page/54-71.md" title="wikilink">54-71</a></li>
 <li>Chunk Funk Express feat. Tucker / <a href="https://ja.wikipedia.org/wiki/UC_a.k.a_DJ_UPPERCUT" title="wikilink">UC a.k.a DJ UPPERCUT</a></li>
 <li>tuk tuk / <a href="https://ja.wikipedia.org/wiki/OLAibi" title="wikilink">OLAibi</a></li>
 <li>Blossom -スパノヴァ別ユニット- / <a href="https://ja.wikipedia.org/wiki/SOME_WATER_AND_SUN" title="wikilink">SOME WATER AND SUN</a></li>
@@ -656,7 +656,7 @@ PECF-1098:再発</p></td>
 
 ## 主な出演ライブ
 
-  - 2014年3月14日 - [ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink") presents「KINOSHITA NIGHT 2014」
+  - 2014年3月14日 - [ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink") presents「KINOSHITA NIGHT 2014」
   - 2014年5月25日 - [LITE](../Page/LITE_\(バンド\).md "wikilink") Japan tour 2014「APPROACHES 3」
   - 2014年7月23日 - [きのこ帝国](https://ja.wikipedia.org/wiki/きのこ帝国 "wikilink") presents 「echoes」
   - 2014年7月27日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink") '14

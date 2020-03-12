@@ -1,7 +1,7 @@
 > この記事は[ AL MIO PASSO](https://ja.wikipedia.org/wiki/_AL_MIO_PASSO)から翻訳されています。
 
 
-**高樹千佳子の AL MIO PASSO**（たかぎちかこのアルミオパッソ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")から2007年6月30日まで[TOKYO FMにて](../Page/エフエム東京.md "wikilink")、土曜日21:30～21:55（[日本標準時](../Page/日本標準時.md "wikilink")）に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。メインスポンサーは[山田建設](../Page/山田建設.md "wikilink")で、冠名を付した正式タイトルは「**山田建設 Presents 高樹千佳子の AL MIO PASSO**」。パーソナリティは、タレントの[高樹千佳子](../Page/高樹千佳子.md "wikilink")。
+**高樹千佳子の AL MIO PASSO**（たかぎちかこのアルミオパッソ）は、[2005年](../Page/2005年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")から2007年6月30日まで[TOKYO FMにて](../Page/エフエム東京.md "wikilink")、土曜日21:30～21:55（[日本標準時](../Page/日本標準時.md "wikilink")）に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。メインスポンサーは[山田建設](../Page/山田建設.md "wikilink")で、冠名を付した正式タイトルは「**山田建設 Presents 高樹千佳子の AL MIO PASSO**」。パーソナリティは、タレントの[高樹千佳子](../Page/高樹千佳子.md "wikilink")。
 
 ## 番組の開始～終了までの経緯
 
@@ -18,7 +18,7 @@
 ## ネット局
 
   - 2005年1月1日（放送開始）～2007年6月30日；[TOKYO FM](../Page/エフエム東京.md "wikilink")
-  - 2005年1月1日～[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月；[FM AICHI](../Page/エフエム愛知.md "wikilink")
+  - 2005年1月1日～[2006年](../Page/2006年.md "wikilink")3月；[FM AICHI](../Page/エフエム愛知.md "wikilink")
   - 2005年1月1日～2005年3月；[fm osaka](../Page/エフエム大阪.md "wikilink")
 
 <!-- end list -->
@@ -31,12 +31,12 @@
   - リスナーからのメッセージ紹介（毎回番組の前半と後半に1通ずつ取り上げる）
   - チカリンのサウンドドロップス（高樹が推薦する洋楽を中心とした楽曲を、テーマに沿って自らの解説で紹介）
       -
-        ※音源（著作権の絡む音楽はカットしてある）は放送後[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")のオンデマンド放送（次回放送までの1週間限定）でも楽しむことが出来る。なお[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より、収録時の裏話などを収めた動画配信も行われていた。
+        ※音源（著作権の絡む音楽はカットしてある）は放送後[インターネット](../Page/インターネット.md "wikilink")のオンデマンド放送（次回放送までの1週間限定）でも楽しむことが出来る。なお[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より、収録時の裏話などを収めた動画配信も行われていた。
   - 番組開始当初は本人のフリートークが中心となっていたが、最終期には前述の「チカリンのサウンドドロップス」が番組の中心となり高樹本人のプライベートを垣間見られる機会は当初に比べ減っていた。
 
 ### 公開収録
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月17日](../Page/3月17日.md "wikilink")収録で、[つくばエクスプレス](https://ja.wikipedia.org/wiki/首都圏新都市鉄道つくばエクスプレス "wikilink")[つくば駅](https://ja.wikipedia.org/wiki/つくば駅 "wikilink")前｢[つくばクレオスクエア Q\`t](../Page/つくばクレオスクエア.md "wikilink")｣イベント広場でスポンサー（東京FMのみ）の山田建設が建設した[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")・「ミオカステーロつくば竹園」の分譲募集開始を記念して、同マンションのCMに出演するサッカー解説者・[井原正巳](../Page/井原正巳.md "wikilink")とのトークライブを開催し、その模様を2006年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、[4月1日](../Page/4月1日.md "wikilink")に放送。
+  - [2006年](../Page/2006年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")収録で、[つくばエクスプレス](https://ja.wikipedia.org/wiki/首都圏新都市鉄道つくばエクスプレス "wikilink")[つくば駅](https://ja.wikipedia.org/wiki/つくば駅 "wikilink")前｢[つくばクレオスクエア Q\`t](../Page/つくばクレオスクエア.md "wikilink")｣イベント広場でスポンサー（東京FMのみ）の山田建設が建設した[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")・「ミオカステーロつくば竹園」の分譲募集開始を記念して、同マンションのCMに出演するサッカー解説者・[井原正巳](../Page/井原正巳.md "wikilink")とのトークライブを開催し、その模様を2006年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、[4月1日](../Page/4月1日.md "wikilink")に放送。
 
 ## 外部リンク
 

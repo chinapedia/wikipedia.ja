@@ -1,7 +1,7 @@
 > この記事は[Vodafone 804SS](https://ja.wikipedia.org/wiki/Vodafone_804SS)から翻訳されています。
 
 
-**Vodafone 804SS**（ボーダフォン804SS）は、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[サムスン電子](../Page/サムスン電子.md "wikilink")が開発し、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）が販売している[W-CDMA](../Page/W-CDMA.md "wikilink")/[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")通信方式のVodafone 3G（現[SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")）サービスを利用可能な[携帯電話](../Page/携帯電話.md "wikilink")端末。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")後半に発売された**SGH-Z540**を日本向けに改良したもので、サムスン初の日本向け機種である。
+**Vodafone 804SS**（ボーダフォン804SS）は、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[サムスン電子](../Page/サムスン電子.md "wikilink")が開発し、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）が販売している[W-CDMA](../Page/W-CDMA.md "wikilink")/[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")通信方式のVodafone 3G（現[SoftBank 3G](../Page/SoftBank_3G.md "wikilink")）サービスを利用可能な[携帯電話](../Page/携帯電話.md "wikilink")端末。[2005年](../Page/2005年.md "wikilink")後半に発売された**SGH-Z540**を日本向けに改良したもので、サムスン初の日本向け機種である。
 
 ## 特徴
 
@@ -11,7 +11,7 @@
 
 ## 評判
 
-薄さにおいて今までの携帯電話の常識を覆す端末である点に評判がある。だが[赤外線](../Page/赤外線.md "wikilink")通信(IrDA)が搭載されていなかったり、マクロ撮影ができなかったりと、一部の機能が使えないことへの不満の声もある。ユーザインタフェースは、今までのボーダフォンの海外端末とは大きく違い日本国内の多くの端末に似た仕様で、そのうえ[ムービー](https://ja.wikipedia.org/wiki/ムービー "wikilink")のメニューなど独特の機能が追加されている点で評価が高い。
+薄さにおいて今までの携帯電話の常識を覆す端末である点に評判がある。だが[赤外線](../Page/赤外線.md "wikilink")通信(IrDA)が搭載されていなかったり、マクロ撮影ができなかったりと、一部の機能が使えないことへの不満の声もある。ユーザインタフェースは、今までのボーダフォンの海外端末とは大きく違い日本国内の多くの端末に似た仕様で、そのうえ[ムービー](../Page/ムービー.md "wikilink")のメニューなど独特の機能が追加されている点で評価が高い。
 
 薄型デザインについては、[モトローラ](../Page/モトローラ.md "wikilink")の人気機種[RAZRとの類似性が指摘されている](https://ja.wikipedia.org/wiki/:en:Motorola_RAZR_V3 "wikilink")\[1\]。
 

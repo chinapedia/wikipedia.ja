@@ -1,13 +1,13 @@
 > この記事は[Mycin](https://ja.wikipedia.org/wiki/Mycin)から翻訳されています。
 
 
-**Mycin**（マイシン）は、[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")で[1970年代](../Page/1970年代.md "wikilink")初めに5、6年の歳月をかけて開発された[エキスパートシステム](../Page/エキスパートシステム.md "wikilink")である。[Lispで書かれ](https://ja.wikipedia.org/wiki/LISP "wikilink")、ブルース・ブキャナンとエドワード・ショートリッフェが開発した。[Dendral](https://ja.wikipedia.org/wiki/Dendral "wikilink")から派生したものだが、かなり修正されている。システムは伝染性の[血液疾患](https://ja.wikipedia.org/wiki/血液疾患 "wikilink")を診断し、[抗生物質](https://ja.wikipedia.org/wiki/抗生物質 "wikilink")を推奨するようにデザインされていて、患者の体重のために供与量を調節する。Mycinの名称の由来は、抗生物質の多くはサフィックス「-mycin」がつくからである。
+**Mycin**（マイシン）は、[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")で[1970年代](../Page/1970年代.md "wikilink")初めに5、6年の歳月をかけて開発された[エキスパートシステム](../Page/エキスパートシステム.md "wikilink")である。[Lispで書かれ](https://ja.wikipedia.org/wiki/LISP "wikilink")、ブルース・ブキャナンとエドワード・ショートリッフェが開発した。[Dendral](../Page/Dendral.md "wikilink")から派生したものだが、かなり修正されている。システムは伝染性の[血液疾患](https://ja.wikipedia.org/wiki/血液疾患 "wikilink")を診断し、[抗生物質](https://ja.wikipedia.org/wiki/抗生物質 "wikilink")を推奨するようにデザインされていて、患者の体重のために供与量を調節する。Mycinの名称の由来は、抗生物質の多くはサフィックス「-mycin」がつくからである。
 
 ## 手法
 
 Mycin は、かなり単純な[推論エンジン](../Page/推論エンジン.md "wikilink")を使い、500程度の規則からなる知識ベースを持つ。医師に対して、単純な「はい/いいえ」で答える質問や何らかの文章で答える質問をいくつもして、最終的に犯人と思われる細菌名のリスト（確率の高い順）とそれぞれの信頼度、なぜそう推論したかという理由、推奨される薬物療法のコースを示す。
 
-Mycin は成功を収めたにも関わらず、現在では人工知能の講義などで、[アドホック](https://ja.wikipedia.org/wiki/アドホック "wikilink")な確率的フレームワークを作ってしまうことへの警鐘を示す例とされることがある。Mycin は、確信度係数システムによってノイズが混入するため、推論の深さが制限されてしまった。この問題は、[ベイズ推定](https://ja.wikipedia.org/wiki/ベイズ推定 "wikilink")などの厳密な確率的フレームワークを採用することで防ぐことができる。
+Mycin は成功を収めたにも関わらず、現在では人工知能の講義などで、[アドホック](../Page/アドホック.md "wikilink")な確率的フレームワークを作ってしまうことへの警鐘を示す例とされることがある。Mycin は、確信度係数システムによってノイズが混入するため、推論の深さが制限されてしまった。この問題は、[ベイズ推定](../Page/ベイズ推定.md "wikilink")などの厳密な確率的フレームワークを採用することで防ぐことができる。
 
 ## 結果
 

@@ -1,9 +1,9 @@
 > この記事は[Jess](https://ja.wikipedia.org/wiki/Jess)から翻訳されています。
 
 
-**Jess**は[Java](https://ja.wikipedia.org/wiki/Java "wikilink")プラットフォーム向けの[ルールエンジンである](../Page/推論エンジン.md "wikilink")。[CLIPS](../Page/CLIPS.md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")の上位互換であり、[サンディア国立研究所](https://ja.wikipedia.org/wiki/サンディア国立研究所 "wikilink")の Ernest Friedman-Hill が開発した。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")末ごろ最初の版が完成した。
+**Jess**は[Java](https://ja.wikipedia.org/wiki/Java "wikilink")プラットフォーム向けの[ルールエンジンである](../Page/推論エンジン.md "wikilink")。[CLIPS](../Page/CLIPS.md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")の上位互換であり、[サンディア国立研究所](../Page/サンディア国立研究所.md "wikilink")の Ernest Friedman-Hill が開発した。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")末ごろ最初の版が完成した。
 
-[エキスパートシステム](../Page/エキスパートシステム.md "wikilink")開発自動化に適したルールベースのプログラミング言語であり、しばしば「エキスパートシステム・シェル」と呼ばれる。近年、[知的エージェント](https://ja.wikipedia.org/wiki/知的エージェント "wikilink")と呼ばれるシステムも開発されているが、それと同様の機能を持つ。
+[エキスパートシステム](../Page/エキスパートシステム.md "wikilink")開発自動化に適したルールベースのプログラミング言語であり、しばしば「エキスパートシステム・シェル」と呼ばれる。近年、[知的エージェント](../Page/知的エージェント.md "wikilink")と呼ばれるシステムも開発されているが、それと同様の機能を持つ。
 
 Jess は手続き型パラダイムではなく宣言型パラダイムであり、「パターンマッチング」と呼ばれる処理によって規則群を事実群に適用する。規則は事実群に変更を加えたり、何らかの Java コードを実行したりする。
 

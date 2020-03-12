@@ -3,41 +3,41 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:BDSM_collar_back.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:BDSM_Masks.jpg "wikilink") **BDSM**（ビーディーエスエム）とは、[人間](../Page/人間.md "wikilink")の性的な嗜好の中で嗜虐的性向をひとまとめにして表現する[言葉](https://ja.wikipedia.org/wiki/言葉 "wikilink")である。
 
-  - 「B」…Bondage（[ボンデージ](https://ja.wikipedia.org/wiki/ボンデージ "wikilink")）
+  - 「B」…Bondage（[ボンデージ](../Page/ボンデージ.md "wikilink")）
   - 「D」…Discipline（[ディシプリン](https://ja.wikipedia.org/wiki/ディシプリン_\(BDSM\) "wikilink")）
   - 「SM」…Sadism & Masochism（[サディズム](../Page/サディズム.md "wikilink") & [マゾヒズム](../Page/マゾヒズム.md "wikilink")）
 
-近しい文脈で語られる別の[略語](../Page/略語.md "wikilink")として、D\&S、DS、D/S…Domination & Submission（ドミネイション：支配 & サブミッション：服従）と呼ばれる言葉もある。そのためSMと区別してBDSMはBondage & Discipline（またはDomination） & Submission & Manipulation（マニピュレーション：操作）などと原義が割り振られることがあり、[解釈](../Page/解釈.md "wikilink")は様々である。[ボンデージ](https://ja.wikipedia.org/wiki/ボンデージ "wikilink")は直訳すれば「捕われの身分」であり、その状態を指す。ディシプリンは「懲戒」を意味し、[西洋](../Page/西洋.md "wikilink")では[体罰](../Page/体罰.md "wikilink")による厳しい[躾](https://ja.wikipedia.org/wiki/躾 "wikilink")も意味する。サディズムは加虐性向、マゾヒズムは被虐性向であるので、状況としての嗜虐と行為としての嗜虐を含む広範な言葉と言える。しかし一般的な欧文略語と同じように語感が一人歩きし始めている。一つのカップルが人権を尊重しない行為に対し、性的興奮を覚えるために、それら行為によって発生するであろうリスクに同意をしている。
+近しい文脈で語られる別の[略語](../Page/略語.md "wikilink")として、D\&S、DS、D/S…Domination & Submission（ドミネイション：支配 & サブミッション：服従）と呼ばれる言葉もある。そのためSMと区別してBDSMはBondage & Discipline（またはDomination） & Submission & Manipulation（マニピュレーション：操作）などと原義が割り振られることがあり、[解釈](../Page/解釈.md "wikilink")は様々である。[ボンデージ](../Page/ボンデージ.md "wikilink")は直訳すれば「捕われの身分」であり、その状態を指す。ディシプリンは「懲戒」を意味し、[西洋](../Page/西洋.md "wikilink")では[体罰](../Page/体罰.md "wikilink")による厳しい[躾](https://ja.wikipedia.org/wiki/躾 "wikilink")も意味する。サディズムは加虐性向、マゾヒズムは被虐性向であるので、状況としての嗜虐と行為としての嗜虐を含む広範な言葉と言える。しかし一般的な欧文略語と同じように語感が一人歩きし始めている。一つのカップルが人権を尊重しない行為に対し、性的興奮を覚えるために、それら行為によって発生するであろうリスクに同意をしている。
 
 ## 状況としての嗜虐
 
-BD、DSに代表される「囚われた状況」は童話や物語に多く見られる「[囚われのお姫さま](https://ja.wikipedia.org/wiki/Damsel_in_distress "wikilink")」に似た状況を指す。支配する側が強圧的であり支配される側がそれに従わざるを得ない、と言う状況はBD、DSには欠かせないシチュエーションである。必ずしも性行為は必要ではなく互いに趣味を理解し合ったパートナー同士が合意に基づいて状況を楽しむことが大前提である。そのため[性的ロールプレイ](https://ja.wikipedia.org/wiki/性的ロールプレイ "wikilink")（後述）になることが多い。
+BD、DSに代表される「囚われた状況」は童話や物語に多く見られる「[囚われのお姫さま](../Page/Damsel_in_distress.md "wikilink")」に似た状況を指す。支配する側が強圧的であり支配される側がそれに従わざるを得ない、と言う状況はBD、DSには欠かせないシチュエーションである。必ずしも性行為は必要ではなく互いに趣味を理解し合ったパートナー同士が合意に基づいて状況を楽しむことが大前提である。そのため[性的ロールプレイ](../Page/性的ロールプレイ.md "wikilink")（後述）になることが多い。
 
 ## 行為としての嗜虐
 
-SMに代表される行為としての嗜虐は主に性行為に関連付けられて語られることが多いが、一般には性行為を伴わなくても粗暴な行為をする人間がサディストと定義されることも少なくない。[根性論](https://ja.wikipedia.org/wiki/根性論 "wikilink")を持ち出し選手をしごく監督や、部下に無理難題を押し付ける上司がその例である。しかし本来はサディズムは性行為の一環としてパートナーを叩いたり、鞭打ったりと言う行為により性的興奮を覚える性的嗜好を言う。そのためただの暴力と区別する為に、打擲される理由付け（パートナー同士の合意）が不可欠である。
+SMに代表される行為としての嗜虐は主に性行為に関連付けられて語られることが多いが、一般には性行為を伴わなくても粗暴な行為をする人間がサディストと定義されることも少なくない。[根性論](../Page/根性論.md "wikilink")を持ち出し選手をしごく監督や、部下に無理難題を押し付ける上司がその例である。しかし本来はサディズムは性行為の一環としてパートナーを叩いたり、鞭打ったりと言う行為により性的興奮を覚える性的嗜好を言う。そのためただの暴力と区別する為に、打擲される理由付け（パートナー同士の合意）が不可欠である。
 
 ## BDSMプレイの例
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:BDSM01.jpg "wikilink")\]\] [Wiki-pegging.png](https://ja.wikipedia.org/wiki/File:Wiki-pegging.png "fig:Wiki-pegging.png")を装着して男性に[アナルセックス](https://ja.wikipedia.org/wiki/アナルセックス "wikilink")を行う（[Pegging](https://ja.wikipedia.org/wiki/:en:Pegging_\(sexual_practice\) "wikilink")）\]\] [Michael_Zichy_-_Liebe.jpg](https://ja.wikipedia.org/wiki/File:Michael_Zichy_-_Liebe.jpg "fig:Michael_Zichy_-_Liebe.jpg")\]\] [Neosteel_Chastity_Belt_Upwards.png](https://ja.wikipedia.org/wiki/File:Neosteel_Chastity_Belt_Upwards.png "fig:Neosteel_Chastity_Belt_Upwards.png")\]\] [thumb](https://ja.wikipedia.org/wiki/画像:S&M_Dungeon_4_by_David_Shankbone.jpg "wikilink")\]\]
+[thumb](https://ja.wikipedia.org/wiki/ファイル:BDSM01.jpg "wikilink")\]\] [Wiki-pegging.png](https://ja.wikipedia.org/wiki/File:Wiki-pegging.png "fig:Wiki-pegging.png")を装着して男性に[アナルセックス](../Page/アナルセックス.md "wikilink")を行う（[Pegging](https://ja.wikipedia.org/wiki/:en:Pegging_\(sexual_practice\) "wikilink")）\]\] [Michael_Zichy_-_Liebe.jpg](https://ja.wikipedia.org/wiki/File:Michael_Zichy_-_Liebe.jpg "fig:Michael_Zichy_-_Liebe.jpg")\]\] [Neosteel_Chastity_Belt_Upwards.png](https://ja.wikipedia.org/wiki/File:Neosteel_Chastity_Belt_Upwards.png "fig:Neosteel_Chastity_Belt_Upwards.png")\]\] [thumb](https://ja.wikipedia.org/wiki/画像:S&M_Dungeon_4_by_David_Shankbone.jpg "wikilink")\]\]
 
-  - [ロールプレイ](https://ja.wikipedia.org/wiki/性的ロールプレイ "wikilink")
+  - [ロールプレイ](../Page/性的ロールプレイ.md "wikilink")
     パートナー同士が誘拐犯と被害者などお互いに役柄を決めて行う。傍目から見れば実際に犯罪を行っていると間違われる場合も多い。
 
-      - [エイジプレイ](https://ja.wikipedia.org/wiki/エイジプレイ "wikilink")
-        [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[幼児プレイが一般的であるが](https://ja.wikipedia.org/wiki/エイジプレイ "wikilink")、父と娘、母と息子など年齢差のある役割として行うロールプレイ。
-      - [ヒューマン・アニマル・ロールプレイ](https://ja.wikipedia.org/wiki/ヒューマン・アニマル・ロールプレイ "wikilink")
+      - [エイジプレイ](../Page/エイジプレイ.md "wikilink")
+        [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[幼児プレイが一般的であるが](../Page/エイジプレイ.md "wikilink")、父と娘、母と息子など年齢差のある役割として行うロールプレイ。
+      - [ヒューマン・アニマル・ロールプレイ](../Page/ヒューマン・アニマル・ロールプレイ.md "wikilink")
         パートナーを人間ではなく動物として扱う。[ネコ](../Page/ネコ.md "wikilink")、[イヌ](../Page/イヌ.md "wikilink")、[ウマ](../Page/ウマ.md "wikilink")（[ポニーガール](../Page/ポニーガール.md "wikilink")）などが欧米では人気がある。
-      - [オークションプレイ](https://ja.wikipedia.org/wiki/奴隷市場_\(性風俗\) "wikilink")
+      - [オークションプレイ](../Page/奴隷市場_\(性風俗\).md "wikilink")
         擬似的な人身売買の商品とするプレイ。
 
-  - [フェムドム](https://ja.wikipedia.org/wiki/フェムドム "wikilink")
+  - [フェムドム](../Page/フェムドム.md "wikilink")
 
-:; [逆レイプ](https://ja.wikipedia.org/wiki/逆レイプ "wikilink")プレイ
+:; [逆レイプ](../Page/逆レイプ.md "wikilink")プレイ
 
 :: 女が男を襲う。
 
-:; [顔面騎乗](https://ja.wikipedia.org/wiki/顔面騎乗 "wikilink")プレイ
+:; [顔面騎乗](../Page/顔面騎乗.md "wikilink")プレイ
 
 :: 男側が「[受け身](../Page/騎乗位.md "wikilink")」になる。
 
@@ -49,20 +49,20 @@ SMに代表される行為としての嗜虐は主に性行為に関連付けら
 
 :: 男の[陰茎](../Page/陰茎.md "wikilink")・[睾丸](https://ja.wikipedia.org/wiki/睾丸 "wikilink")を責める。
 
-:; 逆[アナルセックス](https://ja.wikipedia.org/wiki/アナルセックス "wikilink")
+:; 逆[アナルセックス](../Page/アナルセックス.md "wikilink")
 
   -
 
       -
-        女が[ペニスバンド](https://ja.wikipedia.org/wiki/ペニスバンド "wikilink")を装着して男の[肛門](../Page/肛門.md "wikilink")を犯す。
+        女が[ペニスバンド](../Page/ペニスバンド.md "wikilink")を装着して男の[肛門](../Page/肛門.md "wikilink")を犯す。
 
-  - [ポゼッションプレイ](https://ja.wikipedia.org/wiki/ポゼッションプレイ "wikilink")
+  - [ポゼッションプレイ](../Page/ポゼッションプレイ.md "wikilink")
     パートナーを家具にする。ベッドのマットレスをくり抜いて入れその上で寝る、ソファーとクッションの間に入れる、椅子にするなど。
 
   - [緊縛プレイ](https://ja.wikipedia.org/wiki/緊縛プレイ "wikilink")
     縄で相手を緊縛する。
 
-  - [ろうそくプレイ](https://ja.wikipedia.org/wiki/ろうそくプレイ "wikilink")
+  - [ろうそくプレイ](../Page/ろうそくプレイ.md "wikilink")
     火のついた[ろうそく](../Page/ろうそく.md "wikilink")を傾けて、滴り落ちる溶けた蝋を肉体に垂らす。
 
   -
@@ -72,7 +72,7 @@ SMに代表される行為としての嗜虐は主に性行為に関連付けら
 
 ### 社会的（非‐医学的）研究
 
-Richtersら（2008）の調査によると、BDSMを実践している人はより幅広い性的実践を経験している（たとえば、[オーラルセックス](../Page/オーラルセックス.md "wikilink")や[アナルセックス](https://ja.wikipedia.org/wiki/アナルセックス "wikilink")、複数のパートナー、[グループセックス](https://ja.wikipedia.org/wiki/グループセックス "wikilink")、テレフォンセックス、ポルノ視聴、性玩具の使用、[フィストファック](https://ja.wikipedia.org/wiki/フィストファック "wikilink")、[アニリングス](https://ja.wikipedia.org/wiki/アニリングス "wikilink")など）。しかしBDSM実践者は、性行為を強制されたり、不幸になったり、不安を感じたり、[性的困難を経験したりという傾向はみられなかった](https://ja.wikipedia.org/wiki/性機能障害 "wikilink")。むしろBDSMを実践していた男性は、そうでない男性よりも心理的苦痛の度合いが低かった\[1\]。
+Richtersら（2008）の調査によると、BDSMを実践している人はより幅広い性的実践を経験している（たとえば、[オーラルセックス](../Page/オーラルセックス.md "wikilink")や[アナルセックス](../Page/アナルセックス.md "wikilink")、複数のパートナー、[グループセックス](../Page/グループセックス.md "wikilink")、テレフォンセックス、ポルノ視聴、性玩具の使用、[フィストファック](https://ja.wikipedia.org/wiki/フィストファック "wikilink")、[アニリングス](../Page/アニリングス.md "wikilink")など）。しかしBDSM実践者は、性行為を強制されたり、不幸になったり、不安を感じたり、[性的困難を経験したりという傾向はみられなかった](https://ja.wikipedia.org/wiki/性機能障害 "wikilink")。むしろBDSMを実践していた男性は、そうでない男性よりも心理的苦痛の度合いが低かった\[1\]。
 
 現代の科学的基準を用いたBDSMの心理学的側面に関する研究はほとんどない。Charles Moserによると、BDSMに共通の症状や精神病理があるという証拠はなく、BDSM実践者が自らの性的嗜好に基づいて特別な精神的な問題を抱えているという証拠はないと強調している\[2\]。
 
@@ -95,12 +95,12 @@ BDSMや性倒錯に対するよくある誤解の1つとして、女性が男性
 ## 関連項目
 
   - [SM (性風俗)](../Page/SM_\(性風俗\).md "wikilink")
-  - [フェムドム](https://ja.wikipedia.org/wiki/フェムドム "wikilink")
+  - [フェムドム](../Page/フェムドム.md "wikilink")
   - [ミストレス](https://ja.wikipedia.org/wiki/ミストレス "wikilink")
   - [CMNF](../Page/CMNF.md "wikilink")
   - [CFNM](../Page/CFNM.md "wikilink")
-  - [ボンデージ](https://ja.wikipedia.org/wiki/ボンデージ "wikilink")
-  - [フェティシズム](https://ja.wikipedia.org/wiki/フェティシズム "wikilink")
+  - [ボンデージ](../Page/ボンデージ.md "wikilink")
+  - [フェティシズム](../Page/フェティシズム.md "wikilink")
   - [拘束衣](../Page/拘束衣.md "wikilink")
 
 ### BDSMを題材とした作品

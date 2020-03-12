@@ -1,7 +1,7 @@
 > この記事は[AYAHIME GAMEZ](https://ja.wikipedia.org/wiki/AYAHIME_GAMEZ)から翻訳されています。
 
 
-**AYAHIME GAMEZ**（あやひめゲームズ）とは、合資会社[彩姫](https://ja.wikipedia.org/wiki/彩姫 "wikilink")のブランド名である。
+**AYAHIME GAMEZ**（あやひめゲームズ）とは、合資会社[彩姫](../Page/彩姫.md "wikilink")のブランド名である。
 
 [フリーソフト](https://ja.wikipedia.org/wiki/フリーソフト "wikilink")のゲームをサイト上で公開している。過去にFANCY-SOFTのブランド名で商業作品も発表した。ちなみに「絶対に使えないシステムボイス集」などゲームではないものも公開されている。
 

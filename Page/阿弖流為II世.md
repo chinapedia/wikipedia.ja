@@ -1,13 +1,13 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-『**阿弖流為II世**』（アテルイにせい）は、原作・[高橋克彦](https://ja.wikipedia.org/wiki/高橋克彦 "wikilink")、作画・[原哲夫](../Page/原哲夫.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[コミックGOTTA](https://ja.wikipedia.org/wiki/コミックGOTTA "wikilink")』（[小学館](../Page/小学館.md "wikilink")）で[2000年](../Page/2000年.md "wikilink")8月号から12月号まで連載された。単行本は全1巻。
+『**阿弖流為II世**』（アテルイにせい）は、原作・[高橋克彦](../Page/高橋克彦.md "wikilink")、作画・[原哲夫](../Page/原哲夫.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[コミックGOTTA](../Page/コミックGOTTA.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）で[2000年](../Page/2000年.md "wikilink")8月号から12月号まで連載された。単行本は全1巻。
 
 ## ストーリー
 
-考古学者・神上龍一は[岩手県](../Page/岩手県.md "wikilink")の[早池峰山](https://ja.wikipedia.org/wiki/早池峰山 "wikilink")中で伝説の「龍」を発掘したというメールを婚約者・美雪に送信する。ところが、発掘された「龍」の存在は最重要国家機密であった。メールを送信した直後に龍一は黒服の男達に暗殺され、遺跡も証拠隠滅のために爆破されてしまう。
+考古学者・神上龍一は[岩手県](../Page/岩手県.md "wikilink")の[早池峰山](../Page/早池峰山.md "wikilink")中で伝説の「龍」を発掘したというメールを婚約者・美雪に送信する。ところが、発掘された「龍」の存在は最重要国家機密であった。メールを送信した直後に龍一は黒服の男達に暗殺され、遺跡も証拠隠滅のために爆破されてしまう。
 
-龍一が背負っていた剣は突如、光を放つ。そして1200年の時を超え、伝説の勇者・阿弖流為（[アテルイ](https://ja.wikipedia.org/wiki/アテルイ "wikilink")）が復活した。龍一の身体を借りて蘇ったアテルイは地球滅亡と引き換えに母星へ帰還しようと目論む[田村麻呂の野望を阻止するため](../Page/坂上田村麻呂.md "wikilink")、[東京](../Page/東京.md "wikilink")へ向かう。
+龍一が背負っていた剣は突如、光を放つ。そして1200年の時を超え、伝説の勇者・阿弖流為（[アテルイ](../Page/アテルイ.md "wikilink")）が復活した。龍一の身体を借りて蘇ったアテルイは地球滅亡と引き換えに母星へ帰還しようと目論む[田村麻呂の野望を阻止するため](../Page/坂上田村麻呂.md "wikilink")、[東京](../Page/東京.md "wikilink")へ向かう。
 
 ## 登場人物
 

@@ -1,17 +1,17 @@
 > この記事は[Vodafone 804N](https://ja.wikipedia.org/wiki/Vodafone_804N)から翻訳されています。
 
 
-**Vodafone 804N/SoftBank 804N**（ボーダフォン804N）/（ソフトバンク804N）は[NEC](https://ja.wikipedia.org/wiki/NEC "wikilink")が開発し、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[SoftBank 3Gサービスを利用可能な](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")端末。 背面にミュージックキーがあるのが特徴。外部メディアはmicroSDメモリカード。関東、甲信地域で4月22日より発売。（SoftBank 804Nは11月3日発売。）
+**Vodafone 804N/SoftBank 804N**（ボーダフォン804N）/（ソフトバンク804N）は[NEC](https://ja.wikipedia.org/wiki/NEC "wikilink")が開発し、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[SoftBank 3Gサービスを利用可能な](../Page/SoftBank_3G.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")端末。 背面にミュージックキーがあるのが特徴。外部メディアはmicroSDメモリカード。関東、甲信地域で4月22日より発売。（SoftBank 804Nは11月3日発売。）
 
 ## 対応サービス
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~                          |
-| ~~[S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")~~                             |
-| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                                              |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")                                  |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~       |
+| ~~[S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")~~          |
+| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                           |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")               |
 
 ## 特徴
 

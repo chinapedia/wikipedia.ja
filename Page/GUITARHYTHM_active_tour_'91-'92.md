@@ -1,9 +1,9 @@
 > この記事は[GUITARHYTHM active tour \'91-\'92](https://ja.wikipedia.org/wiki/GUITARHYTHM_active_tour_\'91-\'92)から翻訳されています。
 
 
-『**GUITARHYTHM active tour '91-'92**』（ギタリズム・アクティブ・ツアー・'91-'92）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である[布袋寅泰](../Page/布袋寅泰.md "wikilink")の[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")である。
+『**GUITARHYTHM active tour '91-'92**』（ギタリズム・アクティブ・ツアー・'91-'92）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である[布袋寅泰](../Page/布袋寅泰.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。
 
-[1992年](../Page/1992年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")に[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")/イーストワールドよりリリースされた。
+[1992年](../Page/1992年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")/イーストワールドよりリリースされた。
 
 その後、2000年12月13日にデジタルリマスタリングされ、アストロノーツスターより再リリースされた。
 
@@ -34,11 +34,11 @@
         [デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")のカバー曲。
 9.  **[C'MON EVERYBODY](../Page/GUITARHYTHM.md "wikilink")**
       -
-        [エディ・コクラン](https://ja.wikipedia.org/wiki/エディ・コクラン "wikilink")のカバー曲。
+        [エディ・コクラン](../Page/エディ・コクラン.md "wikilink")のカバー曲。
 10. **[MERRY-GO-ROUND](../Page/GUITARHYTHM_II.md "wikilink")**
-11. **[DANCE CRAZE](https://ja.wikipedia.org/wiki/BOOWY_\(アルバム\) "wikilink")**
+11. **[DANCE CRAZE](../Page/BOOWY_\(アルバム\).md "wikilink")**
       -
-        [BOØWY時代の曲だが](https://ja.wikipedia.org/wiki/BOOWY "wikilink")、原曲から大幅にアレンジされ、[ハウス・ミュージック](https://ja.wikipedia.org/wiki/ハウス・ミュージック "wikilink")を取り入れたダンス・チューンになっている。また曲中で[ボレロの一節が挿入されている](https://ja.wikipedia.org/wiki/ボレロ_\(ラヴェル\) "wikilink")。
+        [BOØWY時代の曲だが](https://ja.wikipedia.org/wiki/BOOWY "wikilink")、原曲から大幅にアレンジされ、[ハウス・ミュージック](https://ja.wikipedia.org/wiki/ハウス・ミュージック "wikilink")を取り入れたダンス・チューンになっている。また曲中で[ボレロの一節が挿入されている](../Page/ボレロ_\(ラヴェル\).md "wikilink")。
 12. **[FLY INTO YOUR DREAM](../Page/GUITARHYTHM_II.md "wikilink")**
 13. **[GLORIOUS DAYS](../Page/GUITARHYTHM.md "wikilink")**
 14. **[RADIO\! RADIO\! RADIO\!](https://ja.wikipedia.org/wiki/BEAT_EMOTION_\(布袋寅泰の曲\) "wikilink")**
@@ -54,6 +54,6 @@
   - **浅田孟** - [ベース](../Page/エレクトリックベース.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - **[成田忍](https://ja.wikipedia.org/wiki/成田忍 "wikilink")** - ギター、コーラス
   - **小森茂生** - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、コーラス
-  - **[藤井丈司](https://ja.wikipedia.org/wiki/藤井丈司 "wikilink")** - [プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、ギター、コーラス
+  - **[藤井丈司](https://ja.wikipedia.org/wiki/藤井丈司 "wikilink")** - [プログラミング](../Page/ミュージックシーケンサー.md "wikilink")、ギター、コーラス
 
 [Category:布袋寅泰のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:布袋寅泰のライブ・アルバム "wikilink") [Category:1992年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:1992年のライブ・アルバム "wikilink") [Category:イーストワールドのアルバム](https://ja.wikipedia.org/wiki/Category:イーストワールドのアルバム "wikilink")

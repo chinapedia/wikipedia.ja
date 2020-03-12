@@ -3,7 +3,7 @@
 
 **scanf**（スキャンエフ）は、[C言語](../Page/C言語.md "wikilink")の標準関数。[ヘッダーファイル](https://ja.wikipedia.org/wiki/ヘッダーファイル "wikilink") stdio.h で定義されている、書式付き入力[関数である](https://ja.wikipedia.org/wiki/関数_\(プログラミング\) "wikilink")。
 
-[標準入力](https://ja.wikipedia.org/wiki/標準ストリーム "wikilink")（大抵は[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")）からの入力を、書式に従って[変数に読み込む機能を持つ](https://ja.wikipedia.org/wiki/変数_\(プログラミング\) "wikilink")。標準出力関数の[printf](https://ja.wikipedia.org/wiki/printf "wikilink")()と対比させて考えると分かりやすい。
+[標準入力](https://ja.wikipedia.org/wiki/標準ストリーム "wikilink")（大抵は[キーボード](../Page/キーボード_\(コンピュータ\).md "wikilink")）からの入力を、書式に従って[変数に読み込む機能を持つ](../Page/変数_\(プログラミング\).md "wikilink")。標準出力関数の[printf](https://ja.wikipedia.org/wiki/printf "wikilink")()と対比させて考えると分かりやすい。
 
 ユーザーからの入力を受ける、ごく基本的な機能を持つにもかかわらず、後述するように異常入力（エラー）に配慮すると相応の手間がかかるため、テストプログラムや入門書を除いてはあまり使われない。
 
@@ -166,7 +166,7 @@ char str[256];
 scanf("%[abc]", str);
 ```
 
-というコードがあり、入力に "babaacdeabfghijabcef" という[文字列](https://ja.wikipedia.org/wiki/文字列 "wikilink")が入った場合、str には "babaac" という文字列のみが入力され、残りの文字列は入力されずに終了する。strに代入されなかった、"deabfghijabcef"は入力ストリームに残る形となる。また\[^ ... \]とした場合は逆に\[ \]内の文字が入ってくるまで文字を読み込む。 例えば、
+というコードがあり、入力に "babaacdeabfghijabcef" という[文字列](../Page/文字列.md "wikilink")が入った場合、str には "babaac" という文字列のみが入力され、残りの文字列は入力されずに終了する。strに代入されなかった、"deabfghijabcef"は入力ストリームに残る形となる。また\[^ ... \]とした場合は逆に\[ \]内の文字が入ってくるまで文字を読み込む。 例えば、
 
 ``` c
 char str[256];
@@ -267,7 +267,7 @@ scanf("%c", &b);
 scanf("%c", &c);
 ```
 
-とした場合、通常なら3回入力待ちが行われることが期待されていると思われるが、実際には2回しか行われない（予期しない入力はここでは考慮しない）。これは最初の a の入力には入力された文字が代入されるが、このとき[ストリーム上に改行コードが残されてしまい](https://ja.wikipedia.org/wiki/ストリーム_\(プログラミング\) "wikilink")、次の b には a を入力する際に押下されたリターンキーの改行コードが代入されるためである。通常の %d や %s の場合改行コードは無視して入力を読み込むので問題にはならないが、 %c の場合は無条件にストリーム上の次のバイトを返すためこのような現象が発生する。これを防ぐには、
+とした場合、通常なら3回入力待ちが行われることが期待されていると思われるが、実際には2回しか行われない（予期しない入力はここでは考慮しない）。これは最初の a の入力には入力された文字が代入されるが、このとき[ストリーム上に改行コードが残されてしまい](../Page/ストリーム_\(プログラミング\).md "wikilink")、次の b には a を入力する際に押下されたリターンキーの改行コードが代入されるためである。通常の %d や %s の場合改行コードは無視して入力を読み込むので問題にはならないが、 %c の場合は無条件にストリーム上の次のバイトを返すためこのような現象が発生する。これを防ぐには、
 
 ``` c
 scanf("%c", &a);
@@ -358,11 +358,11 @@ getchar();
 
 となる。
 
-バージョン8.0 (2005) 以降の[Microsoft Visual C++コンパイラには](https://ja.wikipedia.org/wiki/Microsoft_Visual_C++ "wikilink")、[scanf_s()](https://msdn.microsoft.com/ja-jp/library/w40768et.aspx) という関数が用意されていて、バッファのサイズを指定することができる。scanf_s は[C11規格で標準化されたが](https://ja.wikipedia.org/wiki/C11_\(C言語\) "wikilink")、実装は任意である。
+バージョン8.0 (2005) 以降の[Microsoft Visual C++コンパイラには](../Page/Microsoft_Visual_C++.md "wikilink")、[scanf_s()](https://msdn.microsoft.com/ja-jp/library/w40768et.aspx) という関数が用意されていて、バッファのサイズを指定することができる。scanf_s は[C11規格で標準化されたが](https://ja.wikipedia.org/wiki/C11_\(C言語\) "wikilink")、実装は任意である。
 
 ### 異常な入力が行われた時の処理
 
-scanf関数は、予期せぬ値が[入力](https://ja.wikipedia.org/wiki/入力 "wikilink")されると、その値を読み込まず、[ストリーム上に残してしまう](https://ja.wikipedia.org/wiki/ストリーム_\(プログラミング\) "wikilink")。例えば
+scanf関数は、予期せぬ値が[入力](../Page/入力.md "wikilink")されると、その値を読み込まず、[ストリーム上に残してしまう](../Page/ストリーム_\(プログラミング\).md "wikilink")。例えば
 
 ``` c
 int i;
@@ -381,7 +381,7 @@ while(1) {
 }
 ```
 
-というようなコードで記述した場合、数字以外の文字を入力してしまうと[無限ループ](https://ja.wikipedia.org/wiki/無限ループ "wikilink")に陥ることになる。このような現象を防ぐ手段として scanf の戻り値を利用する方法がとられる。これは scanf は代入に成功した変数の数を戻り値として返すため、指定した実引数の数と scanf の戻り値が一致しないときに入力バッファをクリアすることで回避できる。例えば上記の例の場合は以下のようになる。
+というようなコードで記述した場合、数字以外の文字を入力してしまうと[無限ループ](../Page/無限ループ.md "wikilink")に陥ることになる。このような現象を防ぐ手段として scanf の戻り値を利用する方法がとられる。これは scanf は代入に成功した変数の数を戻り値として返すため、指定した実引数の数と scanf の戻り値が一致しないときに入力バッファをクリアすることで回避できる。例えば上記の例の場合は以下のようになる。
 
 ``` c
 int i;

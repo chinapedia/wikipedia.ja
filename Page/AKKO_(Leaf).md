@@ -7,7 +7,7 @@
 
 本名を初め、経歴については一切不明。[Leaf](../Page/Leaf.md "wikilink")のスタッフ発言によれば、実際は歌手が本業ではない一般人とのことである。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、Leafの依頼でPC版『[To Heart](../Page/To_Heart.md "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")に参加。当初はそれだけで終わる予定だったが、[作曲](../Page/作曲.md "wikilink")を担当した[下川直哉](https://ja.wikipedia.org/wiki/下川直哉 "wikilink")の「私の作曲した曲はAKKOさんの歌声以外では納得できない」などの理由で、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の『[WHITE ALBUM](../Page/WHITE_ALBUM.md "wikilink")』以降も依頼があれば参加している。下川作曲のエンディングテーマは、2004年の『[ToHeart2](https://ja.wikipedia.org/wiki/ToHeart2 "wikilink")』まで全て彼女がボーカルを務めてきた。下川の作曲傾向を受けて、[バラード](../Page/バラード.md "wikilink")系の曲を歌うことが多い。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、Leafの依頼でPC版『[To Heart](../Page/To_Heart.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")に参加。当初はそれだけで終わる予定だったが、[作曲](../Page/作曲.md "wikilink")を担当した[下川直哉](../Page/下川直哉.md "wikilink")の「私の作曲した曲はAKKOさんの歌声以外では納得できない」などの理由で、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の『[WHITE ALBUM](../Page/WHITE_ALBUM.md "wikilink")』以降も依頼があれば参加している。下川作曲のエンディングテーマは、2004年の『[ToHeart2](https://ja.wikipedia.org/wiki/ToHeart2 "wikilink")』まで全て彼女がボーカルを務めてきた。下川の作曲傾向を受けて、[バラード](../Page/バラード.md "wikilink")系の曲を歌うことが多い。
 
 また、上記の大アクアプラス祭のMCでは、アクアプラスの作品のキャラクターソングの仮歌も担当したことがあるという。
 
@@ -50,7 +50,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/天使のいない12月" title="wikilink">天使のいない12月</a></p></td>
+<td><p><a href="../Page/天使のいない12月.md" title="wikilink">天使のいない12月</a></p></td>
 <td><p>ヒトリ</p></td>
 <td></td>
 <td></td>

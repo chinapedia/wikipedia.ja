@@ -13,7 +13,7 @@
 
 2004年8月18日に発売された[湘南乃風](../Page/湘南乃風.md "wikilink")の2作目のアルバム『[湘南乃風〜ラガパレード〜](../Page/湘南乃風〜ラガパレード〜.md "wikilink")』の楽曲「極東のCHAMPION feat. MSC」に客演。
 
-2006年1月18日、2ndアルバム『新宿 STREET LIFE』を発売。アルバムには、libraと契約した[SHINGO☆西成](../Page/SHINGO☆西成.md "wikilink")や、ROMERO SPの一員としても活動する秋田犬どぶろく、韻踏合組合のメンバーCHIEF ROKKAなどがゲスト参加した\[9\]。このアルバムからMIC SPACEがILL BROSに改名。同年、LAMP EYEの楽曲「[証言](https://ja.wikipedia.org/wiki/証言_\(ヒップホップ\) "wikilink")」を「暴言」と曲名を改めてカバーしたものを発表。この楽曲は、コンピレーション・アルバム『Libra Record -天秤録音-』に5000枚限定で付属していたハガキで応募した人から抽選で100名に配られたアナログシングルにのみ収録されており、後に入手困難の作品となり中古市場などでは高値で取引されていたが、2009年に[D.L a.k.a DEV LARGEが発売したコンピレーション](https://ja.wikipedia.org/wiki/DEV_LARGE "wikilink")・ミックスCD『HARD TO THE CORE version 1』に収録されている。
+2006年1月18日、2ndアルバム『新宿 STREET LIFE』を発売。アルバムには、libraと契約した[SHINGO☆西成](../Page/SHINGO☆西成.md "wikilink")や、ROMERO SPの一員としても活動する秋田犬どぶろく、韻踏合組合のメンバーCHIEF ROKKAなどがゲスト参加した\[9\]。このアルバムからMIC SPACEがILL BROSに改名。同年、LAMP EYEの楽曲「[証言](../Page/証言_\(ヒップホップ\).md "wikilink")」を「暴言」と曲名を改めてカバーしたものを発表。この楽曲は、コンピレーション・アルバム『Libra Record -天秤録音-』に5000枚限定で付属していたハガキで応募した人から抽選で100名に配られたアナログシングルにのみ収録されており、後に入手困難の作品となり中古市場などでは高値で取引されていたが、2009年に[D.L a.k.a DEV LARGEが発売したコンピレーション](../Page/DEV_LARGE.md "wikilink")・ミックスCD『HARD TO THE CORE version 1』に収録されている。
 
 2012年8月8日に漢 a.k.a. GAMIが株式会社鎖グループを設立。2014年3月5日に事故により死去した元[Pヴァイン](../Page/Pヴァイン.md "wikilink")の[A\&R](https://ja.wikipedia.org/wiki/A&R "wikilink")佐藤将が設立したレーベル「BLACK SWAN」と鎖グループで合同記者会見を2014年6月4日に開き、「BLACK SWAN」は[DARTHREIDERが代表を引き継ぎ鎖グループ内のレーベルにする事とMSCが](https://ja.wikipedia.org/wiki/ダースレイダー "wikilink")「BLACK SWAN」に所属する事などが発表された\[10\]\[11\]\[12\]\[13\]。2015年3月11日、ミニアルバム『1号棟107』をBLACK SWANより発売\[14\]。
 
@@ -39,7 +39,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/TABOO1" title="wikilink">TABOO1</a></strong>[16]</p></td>
-<td><p><a href="../Page/ヒップホップ.md" title="wikilink">ヒップホップ</a>との出会いは音楽面よりもグラフィティが先であり、後に小学校からの幼なじみである漢 a.k.a. GAMIと行動を共にする様になる。自身のソロ楽曲「ROCK IN A POCKET」や<a href="https://ja.wikipedia.org/wiki/DJ_BAKU" title="wikilink">DJ BAKUをfeatした</a>「MASTAPIECE」など、リリックのテーマ自体がグラフィティーアートとなっている楽曲も多い[17]。2006年から2007年にかけて<a href="https://ja.wikipedia.org/wiki/スペースシャワーTV" title="wikilink">スペースシャワーTV</a>の番組『<a href="https://ja.wikipedia.org/wiki/Black_File" title="wikilink">Black File</a>』のコーナー「BURNOUT」の監修・司会進行を務め、国内外のグラフィティシーンをレポートした。2010年6月16日には同コーナーをパッケージ化したDVD作品『BURNOUT-TAB001's UNDERGROUND CONNECTION-』を発売[18]。2010年10月20日、初のソロアルバム『LIFE STYLE MASTA』を発売[19]。2019年6月27日には自身で作画したリアルヒップホップグラフティ漫画「イルブロス」を発売した。[20]</p></td>
+<td><p><a href="../Page/ヒップホップ.md" title="wikilink">ヒップホップ</a>との出会いは音楽面よりもグラフィティが先であり、後に小学校からの幼なじみである漢 a.k.a. GAMIと行動を共にする様になる。自身のソロ楽曲「ROCK IN A POCKET」や<a href="../Page/DJ_BAKU.md" title="wikilink">DJ BAKUをfeatした</a>「MASTAPIECE」など、リリックのテーマ自体がグラフィティーアートとなっている楽曲も多い[17]。2006年から2007年にかけて<a href="../Page/スペースシャワーTV.md" title="wikilink">スペースシャワーTV</a>の番組『<a href="https://ja.wikipedia.org/wiki/Black_File" title="wikilink">Black File</a>』のコーナー「BURNOUT」の監修・司会進行を務め、国内外のグラフィティシーンをレポートした。2010年6月16日には同コーナーをパッケージ化したDVD作品『BURNOUT-TAB001's UNDERGROUND CONNECTION-』を発売[18]。2010年10月20日、初のソロアルバム『LIFE STYLE MASTA』を発売[19]。2019年6月27日には自身で作画したリアルヒップホップグラフティ漫画「イルブロス」を発売した。[20]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -47,7 +47,7 @@
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/PRIMAL_(ミュージシャン)" title="wikilink">PRIMAL</a></strong></p></td>
 <td><p>SIDE RIDE</p></td>
-<td><p>本名、羽鳥康一郎。<a href="../Page/B_BOY_PARK.md" title="wikilink">B BOY PARK 2003 MC BATTLEで本選に進出する</a>。2007年9月27日、ソロアルバム『眠る男』をリリース[21]。2008年に<a href="../Page/SHINGO☆西成.md" title="wikilink">SHINGO☆西成</a>と<strong>鉄板BOYZ</strong>を結成し、4月18日にシングル「鉄板BOYZ」を発売[22]。2013年8月21日、6年ぶりのアルバム『Proletariat』を発売[23]。前作『眠る男』からこのアルバムを発売するまでの間に結婚をし、鉄板焼き屋で働き始めている[24]。2014年4月2日、ライブDVD『零GRAVITY』を発売[25]。2016年より<a href="https://ja.wikipedia.org/wiki/釧路市" title="wikilink">釧路市</a>に移住[26]し、<a href="../Page/保育士.md" title="wikilink">保育士</a>として働きはじめる。[27]<a href="https://ja.wikipedia.org/wiki/キエるマキュウ" title="wikilink">MAKI THE MAGICを精神的な師匠としている</a>[28]。<a href="../Page/駒澤大学.md" title="wikilink">駒澤大学</a>を卒業している。専攻は史学[29]。</p></td>
+<td><p>本名、羽鳥康一郎。<a href="../Page/B_BOY_PARK.md" title="wikilink">B BOY PARK 2003 MC BATTLEで本選に進出する</a>。2007年9月27日、ソロアルバム『眠る男』をリリース[21]。2008年に<a href="../Page/SHINGO☆西成.md" title="wikilink">SHINGO☆西成</a>と<strong>鉄板BOYZ</strong>を結成し、4月18日にシングル「鉄板BOYZ」を発売[22]。2013年8月21日、6年ぶりのアルバム『Proletariat』を発売[23]。前作『眠る男』からこのアルバムを発売するまでの間に結婚をし、鉄板焼き屋で働き始めている[24]。2014年4月2日、ライブDVD『零GRAVITY』を発売[25]。2016年より<a href="../Page/釧路市.md" title="wikilink">釧路市</a>に移住[26]し、<a href="../Page/保育士.md" title="wikilink">保育士</a>として働きはじめる。[27]<a href="../Page/キエるマキュウ.md" title="wikilink">MAKI THE MAGICを精神的な師匠としている</a>[28]。<a href="../Page/駒澤大学.md" title="wikilink">駒澤大学</a>を卒業している。専攻は史学[29]。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -113,7 +113,7 @@
 <tr class="odd">
 <td><p><strong>麻暴</strong></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="../Page/小平市.md" title="wikilink">小平市</a>出身。</p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/小平市.md" title="wikilink">小平市</a>出身。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -168,7 +168,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>太華</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヒューマンビートボックス" title="wikilink">ヒューマンビートボックス</a></p></td>
+<td><p><a href="../Page/ヒューマンビートボックス.md" title="wikilink">ヒューマンビートボックス</a></p></td>
 <td><p>「暴言」</p></td>
 <td><p>2009年8月5日にソロCD+DVD『顔面着地』を発売[37]。</p></td>
 <td></td>
@@ -195,7 +195,7 @@
 
 ### アナログ
 
-  - 『[暴言](https://ja.wikipedia.org/wiki/証言_\(ヒップホップ\) "wikilink")』　（2006年8月11日）
+  - 『[暴言](../Page/証言_\(ヒップホップ\).md "wikilink")』　（2006年8月11日）
 
 ### 参加作品
 
@@ -203,17 +203,17 @@
       - 「So Far From Here」「Close To Nothing」にMIC SPACE名義で客演。\[38\]
   - Cod Head - 『Broken Dub Complex』（2000年/Pickin' Mushroom Recordings）
       - 「Lost & Found」にMIC SPACE名義で客演。\[39\]
-  - 『HOMEBREWERs vol.1』（[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")、2002年5月10日/Pヴァイン）
+  - 『HOMEBREWERs vol.1』（[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")、2002年5月10日/Pヴァイン）
       - 拡声器空間〜MIC SPACE名義、SIDE RIDE名義、MS CRU名義で1曲ずつ提供。
   - [降神](https://ja.wikipedia.org/wiki/降神 "wikilink") - 『降神』（2004年5月21日/Pヴァイン）
       - 12曲目「お尋ね者」に漢が参加。
   - [I-DeA](../Page/I-DeA.md "wikilink") - 『SELF EXPRESSION』（2004年/Pヴァイン）
       - 2、16曲目に漢、6曲目にPRIMALが参加。
-  - I-DeA - 『Da FRONT and BACK』（2006年1月11日/[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")）
+  - I-DeA - 『Da FRONT and BACK』（2006年1月11日/[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")）
       - 5曲目「新宿ドリーム」に参加。
   - [STRUGGLE FOR PRIDE](https://ja.wikipedia.org/wiki/ストラグル・フォー・プライド "wikilink") - 『YOU BARK WE BITE』（2006年5月17日/[エイベックス・マーケティング・コミュニケーションズ](https://ja.wikipedia.org/wiki/エイベックス・マーケティング・コミュニケーションズ "wikilink")）
       - 2曲目「BLOCKPAIN」に漢と麻暴が参加。
-  - [ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink") - 『NO HIPHOP NO LIFE』(2006年10月4日)
+  - [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink") - 『NO HIPHOP NO LIFE』(2006年10月4日)
       - 11曲目「HUMAN BEATBOX」に太華が参加。
 
 ## 脚注

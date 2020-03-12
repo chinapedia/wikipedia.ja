@@ -1,7 +1,7 @@
 > この記事は[Vodafone 903SH](https://ja.wikipedia.org/wiki/Vodafone_903SH)から翻訳されています。
 
 
-**Vodafone 903SH**（ボーダフォン903SH）は、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")（旧・ボーダフォン日本法人）が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[SoftBank 3Gサービスを利用可能な](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")端末である。ボーダフォン（発売当時）初の業界最高レベルの3.2メガピクセルカメラを搭載して[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")8月12日に発売された。[シャープ](../Page/シャープ.md "wikilink")製。JATE通過日は2005年4月22日。
+**Vodafone 903SH**（ボーダフォン903SH）は、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")（旧・ボーダフォン日本法人）が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[SoftBank 3Gサービスを利用可能な](../Page/SoftBank_3G.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")端末である。ボーダフォン（発売当時）初の業界最高レベルの3.2メガピクセルカメラを搭載して[2005年](../Page/2005年.md "wikilink")8月12日に発売された。[シャープ](../Page/シャープ.md "wikilink")製。JATE通過日は2005年4月22日。
 
 ## 評判
 

@@ -1,22 +1,22 @@
 > この記事は[PRIDE.1](https://ja.wikipedia.org/wiki/PRIDE.1)から翻訳されています。
 
 
-**PRIDE.1**（プライド・ワン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")イベント「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」の大会の一つ。本大会は、PRIDEの第1回大会として[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月11日](../Page/10月11日.md "wikilink")、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[文京区](https://ja.wikipedia.org/wiki/文京区 "wikilink")の[東京ドーム](../Page/東京ドーム.md "wikilink")で開催された。
+**PRIDE.1**（プライド・ワン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")イベント「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」の大会の一つ。本大会は、PRIDEの第1回大会として[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月11日](../Page/10月11日.md "wikilink")、[東京都](../Page/東京都.md "wikilink")[文京区](https://ja.wikipedia.org/wiki/文京区 "wikilink")の[東京ドーム](../Page/東京ドーム.md "wikilink")で開催された。
 
 ## 大会概要
 
-もともと[高田延彦](../Page/高田延彦.md "wikilink")と[ヒクソン・グレイシー](https://ja.wikipedia.org/wiki/ヒクソン・グレイシー "wikilink")の一戦を実現させる為に立ち上げられたイベントであり、「PRIDE.1」という大会名称も当初は一回限りの開催という趣旨でつけられたイベント名であった。またリングサイドのVIP席のチケット価格が、格闘技イベントとしては高額の10万円（大会終了後のフェアウェルパーティー参加権付き）という事も話題になった。大会の目玉となったメインイベントで高田は大きな抵抗も出来ず、ヒクソンの[腕ひしぎ十字固めの前に一本負けを喫した](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")。
+もともと[高田延彦](../Page/高田延彦.md "wikilink")と[ヒクソン・グレイシー](../Page/ヒクソン・グレイシー.md "wikilink")の一戦を実現させる為に立ち上げられたイベントであり、「PRIDE.1」という大会名称も当初は一回限りの開催という趣旨でつけられたイベント名であった。またリングサイドのVIP席のチケット価格が、格闘技イベントとしては高額の10万円（大会終了後のフェアウェルパーティー参加権付き）という事も話題になった。大会の目玉となったメインイベントで高田は大きな抵抗も出来ず、ヒクソンの[腕ひしぎ十字固めの前に一本負けを喫した](../Page/腕挫十字固.md "wikilink")。
 
 ## 試合結果
 
   - 第1試合 PRIDEルール 5分3R
-    ○  [村上一成](https://ja.wikipedia.org/wiki/村上和成 "wikilink") vs.  ジョン・ディクソン ×
-    1R 1:34 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    ○  [村上一成](../Page/村上和成.md "wikilink") vs.  ジョン・ディクソン ×
+    1R 1:34 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第2試合 PRIDEルール 10分3R
-    ○  [ゲーリー・グッドリッジ](https://ja.wikipedia.org/wiki/ゲーリー・グッドリッジ "wikilink") vs.  [オレッグ・タクタロフ](https://ja.wikipedia.org/wiki/オレッグ・タクタロフ "wikilink") ×
+    ○  [ゲーリー・グッドリッジ](../Page/ゲーリー・グッドリッジ.md "wikilink") vs.  [オレッグ・タクタロフ](../Page/オレッグ・タクタロフ.md "wikilink") ×
     1R 4:57 KO（右フック）
   - 第3試合 PRIDEルール 10分3R
-    △  [小路晃](https://ja.wikipedia.org/wiki/小路晃 "wikilink") vs.  [ヘンゾ・グレイシー](https://ja.wikipedia.org/wiki/ヘンゾ・グレイシー "wikilink") △
+    △  [小路晃](../Page/小路晃.md "wikilink") vs.  [ヘンゾ・グレイシー](../Page/ヘンゾ・グレイシー.md "wikilink") △
     3R終了 時間切れ
   - 第4試合 PRIDEルール 5分3R
     ○  [北尾光覇](../Page/北尾光司.md "wikilink") vs.  [ネイサン・ジョーンズ](https://ja.wikipedia.org/wiki/ネイサン・ジョーンズ "wikilink") ×
@@ -25,18 +25,18 @@
     －  [ブランコ・シカティック](../Page/ブランコ・シカティック.md "wikilink") vs.  ラルフ・ホワイト －
     1R 1:52 無効試合（グラウンド状態でのキック）
   - スペシャルマッチ 3分5R
-    ○  イゴール・メインダート vs.  [黒澤浩樹](https://ja.wikipedia.org/wiki/黒澤浩樹 "wikilink") ×
+    ○  イゴール・メインダート vs.  [黒澤浩樹](../Page/黒澤浩樹.md "wikilink") ×
     3R 1:16 TKO（レフェリーストップ：靱帯断裂）
   - 第5試合 PRIDEルール 30分1R
-    △  [キモ](https://ja.wikipedia.org/wiki/キモ・レオポルド "wikilink") vs.  [ダニエル・スバーン](../Page/ダン・スバーン.md "wikilink") △
+    △  [キモ](../Page/キモ・レオポルド.md "wikilink") vs.  [ダニエル・スバーン](../Page/ダン・スバーン.md "wikilink") △
     1R終了 時間切れ
   - 第6試合 PRIDEルール 5分12R
-    ○  [ヒクソン・グレイシー](https://ja.wikipedia.org/wiki/ヒクソン・グレイシー "wikilink") vs.  [高田延彦](../Page/高田延彦.md "wikilink") ×
-    1R 4:47 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    ○  [ヒクソン・グレイシー](../Page/ヒクソン・グレイシー.md "wikilink") vs.  [高田延彦](../Page/高田延彦.md "wikilink") ×
+    1R 4:47 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
 
 ## 関連項目
 
-  - [PRIDEの大会一覧](https://ja.wikipedia.org/wiki/PRIDEの大会一覧 "wikilink")
+  - [PRIDEの大会一覧](../Page/PRIDEの大会一覧.md "wikilink")
 
 ## 外部リンク
 

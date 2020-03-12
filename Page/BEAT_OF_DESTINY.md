@@ -1,25 +1,25 @@
 > この記事は[BEAT OF DESTINY](https://ja.wikipedia.org/wiki/BEAT_OF_DESTINY)から翻訳されています。
 
 
-「**BEAT OF DESTINY**」（ビート・オブ・デスティニー）は、[TWO-MIX](https://ja.wikipedia.org/wiki/TWO-MIX "wikilink")の11枚目のシングルである。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月8日](../Page/5月8日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。
+「**BEAT OF DESTINY**」（ビート・オブ・デスティニー）は、[TWO-MIX](../Page/TWO-MIX.md "wikilink")の11枚目のシングルである。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月8日](../Page/5月8日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。
 
 ## 概要
 
-[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系『[ウッチャンナンチャンの炎のチャレンジャー これができたら100万円\!\!](https://ja.wikipedia.org/wiki/ウッチャンナンチャンの炎のチャレンジャー_これができたら100万円!! "wikilink")』のエンディングテーマ。及び[タケダスポーツ](../Page/タケダスポーツ.md "wikilink")CMイメージソング。
+[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ウッチャンナンチャンの炎のチャレンジャー これができたら100万円\!\!](../Page/ウッチャンナンチャンの炎のチャレンジャー_これができたら100万円!!.md "wikilink")』のエンディングテーマ。及び[タケダスポーツ](../Page/タケダスポーツ.md "wikilink")CMイメージソング。
 
 TWO-MIX史上最大の100チャンネルを超える音数を使った曲である。十数秒しか作られていないが、ビデオクリップには初めて動くTWO-MIXが登場した。
 
 TWO-MIXはシングルA面のアレンジ(リミックス)曲が多いが、この曲はダンス系のリミックスがされていない\[1\]。
 
-c/wは8thシングル「[SUMMER PLANET No.1](../Page/SUMMER_PLANET_No.1.md "wikilink")」をRED MONSTERの[田代隆廣](https://ja.wikipedia.org/wiki/田代隆廣 "wikilink")によって[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")されたバージョンを収録している。
+c/wは8thシングル「[SUMMER PLANET No.1](../Page/SUMMER_PLANET_No.1.md "wikilink")」をRED MONSTERの[田代隆廣](https://ja.wikipedia.org/wiki/田代隆廣 "wikilink")によって[リミックス](../Page/リミックス.md "wikilink")されたバージョンを収録している。
 
 ## 収録曲
 
 ## リリース履歴
 
-| No. | 日付                                                                                        | [レーベル](../Page/レコードレーベル.md "wikilink")         | 規格                                                       | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 最高順位 | 備考 |
-| --- | ----------------------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------- | ---- | -- |
-| 1   | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月8日](../Page/5月8日.md "wikilink") | [キングレコード](../Page/キングレコード.md "wikilink") / KMW | [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink") | KIDS-390                                              | 17位  |    |
+| No. | 日付                                                                                        | [レーベル](../Page/レコードレーベル.md "wikilink")         | 規格                                                       | [規格品番](../Page/規格品番.md "wikilink") | 最高順位 | 備考 |
+| --- | ----------------------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------- | ---------------------------------- | ---- | -- |
+| 1   | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月8日](../Page/5月8日.md "wikilink") | [キングレコード](../Page/キングレコード.md "wikilink") / KMW | [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink") | KIDS-390                           | 17位  |    |
 
 ## 収録作品
 
@@ -64,7 +64,7 @@ c/wは8thシングル「[SUMMER PLANET No.1](../Page/SUMMER_PLANET_No.1.md "wiki
 </tr>
 <tr class="odd">
 <td><p>『<a href="https://ja.wikipedia.org/wiki/20010101" title="wikilink">20010101</a>』</p></td>
-<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="https://ja.wikipedia.org/wiki/1月1日" title="wikilink">1月1日</a></p></td>
+<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/1月1日.md" title="wikilink">1月1日</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -73,8 +73,8 @@ c/wは8thシングル「[SUMMER PLANET No.1](../Page/SUMMER_PLANET_No.1.md "wiki
 <td><p>Orchestra ver.</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/Baroque_Best" title="wikilink">Baroque Best</a>』</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="https://ja.wikipedia.org/wiki/11月26日" title="wikilink">11月26日</a></p></td>
-<td><p>Orchestra Arrange: <a href="https://ja.wikipedia.org/wiki/天野正道" title="wikilink">天野正道</a><br />
-Orchestra: <a href="https://ja.wikipedia.org/wiki/ワルシャワ国立フィルハーモニー管弦楽団" title="wikilink">Warsaw National Philharmonic Orchestra</a></p></td>
+<td><p>Orchestra Arrange: <a href="../Page/天野正道.md" title="wikilink">天野正道</a><br />
+Orchestra: <a href="../Page/ワルシャワ国立フィルハーモニー管弦楽団.md" title="wikilink">Warsaw National Philharmonic Orchestra</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -89,12 +89,12 @@ Orchestra: <a href="https://ja.wikipedia.org/wiki/ワルシャワ国立フィル
 
 ## 関連項目
 
-  - [TWO-MIX](https://ja.wikipedia.org/wiki/TWO-MIX "wikilink")
-  - [ウッチャンナンチャンの炎のチャレンジャー これができたら100万円\!\!](https://ja.wikipedia.org/wiki/ウッチャンナンチャンの炎のチャレンジャー_これができたら100万円!! "wikilink")
+  - [TWO-MIX](../Page/TWO-MIX.md "wikilink")
+  - [ウッチャンナンチャンの炎のチャレンジャー これができたら100万円\!\!](../Page/ウッチャンナンチャンの炎のチャレンジャー_これができたら100万円!!.md "wikilink")
   - [タケダスポーツ](../Page/タケダスポーツ.md "wikilink")
 
 ## 脚注
 
 [Category:TWO-MIXの楽曲](https://ja.wikipedia.org/wiki/Category:TWO-MIXの楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:キングレコードの楽曲](https://ja.wikipedia.org/wiki/Category:キングレコードの楽曲 "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")
 
-1.  リミックスされなかった曲は他に「[LIVING DAYLIGHTS](../Page/LIVING_DAYLIGHTS.md "wikilink")」、「[LAST IMPRESSION](https://ja.wikipedia.org/wiki/LAST_IMPRESSION "wikilink")」がある。
+1.  リミックスされなかった曲は他に「[LIVING DAYLIGHTS](../Page/LIVING_DAYLIGHTS.md "wikilink")」、「[LAST IMPRESSION](../Page/LAST_IMPRESSION.md "wikilink")」がある。

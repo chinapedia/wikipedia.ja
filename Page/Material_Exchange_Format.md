@@ -1,13 +1,13 @@
 > この記事は[Material Exchange Format](https://ja.wikipedia.org/wiki/Material_Exchange_Format)から翻訳されています。
 
 
-**Material eXchange Format** (**MXF**) は[SMPTE](https://ja.wikipedia.org/wiki/SMPTE "wikilink")規格によって定義された[放送局](../Page/放送局.md "wikilink")などプロユースのデジタル映像や音声を扱うための[コンテナフォーマット](https://ja.wikipedia.org/wiki/コンテナフォーマット "wikilink")である。
+**Material eXchange Format** (**MXF**) は[SMPTE](../Page/SMPTE.md "wikilink")規格によって定義された[放送局](../Page/放送局.md "wikilink")などプロユースのデジタル映像や音声を扱うための[コンテナフォーマット](../Page/コンテナフォーマット.md "wikilink")である。
 
 ## 概要
 
 MXFはコード化された様々な映像データや音声データをメタデータとともに梱包するための「容器」あるいは「包装紙」のようなものである。現在発生しているプロ用途以外での様々な問題に対応するべく規格化されており、タイムコードとメタデータを完全に対応することで将来的にはプロ用途の標準規格となることを想定した規格となっている。
 
-MXF自体は[Zero Divergence Directive](https://ja.wikipedia.org/wiki/Zero_Divergence_Directive "wikilink") (ZDD) として知られている方針の下で[Advanced Authoring Format](https://ja.wikipedia.org/wiki/Advanced_Authoring_Format "wikilink") (AAF) と同時に開発されており、[ノンリニア編集](https://ja.wikipedia.org/wiki/ノンリニア編集 "wikilink")が容易に行えるように企画設計がなされている。
+MXF自体は[Zero Divergence Directive](https://ja.wikipedia.org/wiki/Zero_Divergence_Directive "wikilink") (ZDD) として知られている方針の下で[Advanced Authoring Format](https://ja.wikipedia.org/wiki/Advanced_Authoring_Format "wikilink") (AAF) と同時に開発されており、[ノンリニア編集](../Page/ノンリニア編集.md "wikilink")が容易に行えるように企画設計がなされている。
 
 ## 使われ方
 
@@ -58,7 +58,7 @@ SMPTEのWebサイトからSMPTE規格をまとめた文章が収録されたCD-R
 ## 関連項目
 
   - [Advanced Authoring Format](https://ja.wikipedia.org/wiki/Advanced_Authoring_Format "wikilink")
-  - [Broadcast Wave Format](https://ja.wikipedia.org/wiki/Broadcast_Wave_Format "wikilink")
+  - [Broadcast Wave Format](../Page/Broadcast_Wave_Format.md "wikilink")
 
 ## 外部リンク
 

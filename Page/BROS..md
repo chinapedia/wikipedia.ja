@@ -1,7 +1,7 @@
 > この記事は[BROS.](https://ja.wikipedia.org/wiki/BROS.)から翻訳されています。
 
 
-『**BROS.**』（ブロス）は、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink") が[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[11月6日](../Page/11月6日.md "wikilink")にリリースした3枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。
+『**BROS.**』（ブロス）は、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink") が[1991年](../Page/1991年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")にリリースした3枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。
 
 ## 解説
 
@@ -19,7 +19,7 @@
       -
         この曲にはPVが存在しており、ソフト『BROS.』に収録されている。
 3.  **[WOH WOW](https://ja.wikipedia.org/wiki/WOH_WOW/ただ僕がかわった "wikilink")**
-    （作詞・作曲：福山雅治 / 編曲：[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")）
+    （作詞・作曲：福山雅治 / 編曲：[後藤次利](../Page/後藤次利.md "wikilink")）
       -
         4thシングル「WOH WOW／ただ僕がかわった」の1曲目。
         イントロに福山の「カモン」という掛け声が加えられたアルバムバージョン。

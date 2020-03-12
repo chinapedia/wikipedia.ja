@@ -5,7 +5,7 @@
 
 ## 番組概要
 
-ニッポン放送は[平日朝の生ワイド番組枠にて](https://ja.wikipedia.org/wiki/ニッポン放送平日朝帯ワイド番組 "wikilink")、2004年から足掛け3年に渡り、前放送番組のコメンテーターであった森永を起用した『[森永卓郎の朝はモリタク\!もりだくSUN](../Page/森永卓郎の朝はモリタク!もりだくSUN.md "wikilink")』、『[森永卓郎 朝はニッポン一番ノリ\!](https://ja.wikipedia.org/wiki/森永卓郎_朝はニッポン一番ノリ! "wikilink")』及び『[森永卓郎と垣花正の朝はニッポン一番ノリ\!](https://ja.wikipedia.org/wiki/森永卓郎と垣花正の朝はニッポン一番ノリ! "wikilink")』を放送して来たが、聴取率争いで抜本的な解決がされず、2007年秋の番組改編にて大幅に番組編成を見直し、メインパーソナリティに同社アナウンサーで一時報道記者経験のある上柳を起用し、当該番組を2007年10月1日から放送開始\[1\]。
+ニッポン放送は[平日朝の生ワイド番組枠にて](../Page/ニッポン放送平日朝帯ワイド番組.md "wikilink")、2004年から足掛け3年に渡り、前放送番組のコメンテーターであった森永を起用した『[森永卓郎の朝はモリタク\!もりだくSUN](../Page/森永卓郎の朝はモリタク!もりだくSUN.md "wikilink")』、『[森永卓郎 朝はニッポン一番ノリ\!](../Page/森永卓郎_朝はニッポン一番ノリ!.md "wikilink")』及び『[森永卓郎と垣花正の朝はニッポン一番ノリ\!](../Page/森永卓郎と垣花正の朝はニッポン一番ノリ!.md "wikilink")』を放送して来たが、聴取率争いで抜本的な解決がされず、2007年秋の番組改編にて大幅に番組編成を見直し、メインパーソナリティに同社アナウンサーで一時報道記者経験のある上柳を起用し、当該番組を2007年10月1日から放送開始\[1\]。
 
 上柳にとって、平日朝の情報番組のメインレギュラー担当するのはアナウンサー生活において初であり、当該番組の開始と共に自身の名前表記を平仮名から本名の漢字表記へ戻した。但し、上柳はニッポン放送編成部からの当該番組のオファーを断ろうと考えていたが、「五十路の扉を開けた途端に運命が凄い大きな音を立てて変わっていっている感じがした」と表現している。
 
@@ -13,7 +13,7 @@
 
 また、上柳が過去担当していた番組で始めた年度の最後に行う継続企画もニュースを扱う番組ではあるが継続している。2008年9月「平成20年度 [日本民間放送連盟賞](https://ja.wikipedia.org/wiki/日本民間放送連盟#日本民間放送連盟賞 "wikilink") 東京地区審査会 ラジオ生ワイド番組部門」優秀を受賞\[3\]。
 
-2010年6月9日放送分にて、同年6月25日をもって番組終了することが発表され、翌10日に後任として6年3ヶ月振りに平日夕方の番組枠で番組を持っていた、[高嶋ひでたけを再び同時間帯に復帰させ](https://ja.wikipedia.org/wiki/高嶋秀武 "wikilink")、6月28日から『高嶋ひでたけのあさラジ\!』の番組開始されることが発表された。また、上柳は平日午後枠に増山と共に、担当異動となる事も併せて発表された。
+2010年6月9日放送分にて、同年6月25日をもって番組終了することが発表され、翌10日に後任として6年3ヶ月振りに平日夕方の番組枠で番組を持っていた、[高嶋ひでたけを再び同時間帯に復帰させ](../Page/高嶋秀武.md "wikilink")、6月28日から『高嶋ひでたけのあさラジ\!』の番組開始されることが発表された。また、上柳は平日午後枠に増山と共に、担当異動となる事も併せて発表された。
 
 ## 出演者
 
@@ -21,7 +21,7 @@
 
 #### パーソナリティ
 
-  - [上柳昌彦](https://ja.wikipedia.org/wiki/上柳昌彦 "wikilink")（当時：ニッポン放送アナウンサー、現：[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")) - 2007年10月1日 - 2010年6月23日
+  - [上柳昌彦](../Page/上柳昌彦.md "wikilink")（当時：ニッポン放送アナウンサー、現：[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")) - 2007年10月1日 - 2010年6月23日
 
 #### アシスタント
 
@@ -31,7 +31,7 @@
 <!-- end list -->
 
   - [石川みゆき](../Page/石川みゆき.md "wikilink")（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")、元ニッポン放送アナウンサー)※月 - 水曜担当\[4\] - 2007年10月1日- 2010年6月23日
-  - [増山さやか](https://ja.wikipedia.org/wiki/増山さやか "wikilink")（ニッポン放送アナウンサー）※木、金曜 - 2009年4月2日 - 2010年5月25日
+  - [増山さやか](../Page/増山さやか.md "wikilink")（ニッポン放送アナウンサー）※木、金曜 - 2009年4月2日 - 2010年5月25日
 
 #### リポーター
 
@@ -44,9 +44,9 @@
 
 <!-- end list -->
 
-  - 月、木曜：[須田慎一郎](https://ja.wikipedia.org/wiki/須田慎一郎 "wikilink")（[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")） - 2007年10月1日- 2010年6月23日
+  - 月、木曜：[須田慎一郎](../Page/須田慎一郎.md "wikilink")（[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")） - 2007年10月1日- 2010年6月23日
   - 火曜：[宮家邦彦](https://ja.wikipedia.org/wiki/宮家邦彦 "wikilink")（キヤノングローバル戦略研究所研究主幹、元[外交官](../Page/外交官.md "wikilink")）
-  - 水曜：藤田正美（ジャーナリスト、元[ニューズウィーク](https://ja.wikipedia.org/wiki/ニューズウィーク "wikilink")日本版編集長）
+  - 水曜：藤田正美（ジャーナリスト、元[ニューズウィーク](../Page/ニューズウィーク.md "wikilink")日本版編集長）
 
 #### 不定期
 
@@ -55,14 +55,14 @@
 
 <!-- end list -->
 
-  - [乾正人](https://ja.wikipedia.org/wiki/乾正人 "wikilink")（当時：[産経新聞東京本社](https://ja.wikipedia.org/wiki/産経新聞東京本社 "wikilink")政治部長兼[論説委員](https://ja.wikipedia.org/wiki/論説委員 "wikilink")）
+  - [乾正人](https://ja.wikipedia.org/wiki/乾正人 "wikilink")（当時：[産経新聞東京本社](../Page/産経新聞東京本社.md "wikilink")政治部長兼[論説委員](https://ja.wikipedia.org/wiki/論説委員 "wikilink")）
   - [黒岩祐治](../Page/黒岩祐治.md "wikilink")（当時：[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[解説委員](../Page/解説委員.md "wikilink")）
   - [池上彰](../Page/池上彰.md "wikilink")（ジャーナリスト、元[NHK社会部記者](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
-  - [手嶋龍一](https://ja.wikipedia.org/wiki/手嶋龍一 "wikilink")（外交ジャーナリスト、元NHKワシントン支局長）
+  - [手嶋龍一](../Page/手嶋龍一.md "wikilink")（外交ジャーナリスト、元NHKワシントン支局長）
   - [佐藤優](https://ja.wikipedia.org/wiki/佐藤優_\(外交官\) "wikilink")（外交官、作家）
-  - [高瀬毅](https://ja.wikipedia.org/wiki/高瀬毅 "wikilink")（[ノンフィクション作家](../Page/ノンフィクション作家.md "wikilink")） - 2010年4月9日
-  - [岩上安身](https://ja.wikipedia.org/wiki/岩上安身 "wikilink")（ジャーナリスト） - 2010年4月2日
-  - [辺真一](https://ja.wikipedia.org/wiki/辺真一 "wikilink")（コリアレポート編集長） - 2008年9月12日
+  - [高瀬毅](../Page/高瀬毅.md "wikilink")（[ノンフィクション作家](../Page/ノンフィクション作家.md "wikilink")） - 2010年4月9日
+  - [岩上安身](../Page/岩上安身.md "wikilink")（ジャーナリスト） - 2010年4月2日
+  - [辺真一](../Page/辺真一.md "wikilink")（コリアレポート編集長） - 2008年9月12日
   - 浅川博忠（政治評論家）
 
 ##### 主なゲスト
@@ -73,22 +73,22 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [石破茂](https://ja.wikipedia.org/wiki/石破茂 "wikilink")（[衆議院議員](https://ja.wikipedia.org/wiki/衆議院議員 "wikilink")、当時：[防衛大臣](../Page/防衛大臣.md "wikilink")） - 2007年10月1日
-  - [藤井裕久](../Page/藤井裕久.md "wikilink")（[民主党最高顧問](https://ja.wikipedia.org/wiki/民主党_\(日本_1998-2016\) "wikilink")） - 2007年11月1日
+  - [藤井裕久](../Page/藤井裕久.md "wikilink")（[民主党最高顧問](../Page/民主党_\(日本_1998-2016\).md "wikilink")） - 2007年11月1日
   - 田中紀規雄（産経新聞論説委員） - 2007年11月1日
-  - [松原仁](https://ja.wikipedia.org/wiki/松原仁 "wikilink")（衆議院議員） - 2007年11月5日※電話出演
-  - [渡辺周](https://ja.wikipedia.org/wiki/渡辺周 "wikilink")（衆議院議員） - 2007年11月6日
+  - [松原仁](../Page/松原仁.md "wikilink")（衆議院議員） - 2007年11月5日※電話出演
+  - [渡辺周](../Page/渡辺周.md "wikilink")（衆議院議員） - 2007年11月6日
   - [末松義規](../Page/末松義規.md "wikilink")（衆議院議員） - 2007年11月7日※電話出演
   - [山岡賢次](https://ja.wikipedia.org/wiki/山岡賢次 "wikilink")（民主党国会対策委員長） - 2007年11月9日電話でゲスト出演。
   - [長妻昭](../Page/長妻昭.md "wikilink")（民主党政調会長代理） - 2008年1月21日、3月31日
-  - [山田宏](https://ja.wikipedia.org/wiki/山田宏 "wikilink")（当時：[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[杉並区長](https://ja.wikipedia.org/wiki/杉並区#区長 "wikilink")） - 2008年3月20日
-  - [猪瀬直樹](../Page/猪瀬直樹.md "wikilink")（当時：[東京都副知事](https://ja.wikipedia.org/wiki/東京都副知事 "wikilink")、作家） - 2008年5月14日
+  - [山田宏](../Page/山田宏.md "wikilink")（当時：[東京都](../Page/東京都.md "wikilink")[杉並区長](https://ja.wikipedia.org/wiki/杉並区#区長 "wikilink")） - 2008年3月20日
+  - [猪瀬直樹](../Page/猪瀬直樹.md "wikilink")（当時：[東京都副知事](../Page/東京都副知事.md "wikilink")、作家） - 2008年5月14日
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [尾木直樹](../Page/尾木直樹.md "wikilink")（教育評論家） - 2009年1月31日
-  - [竹田圭吾](https://ja.wikipedia.org/wiki/竹田圭吾 "wikilink")（当時：ニューズウィーク日本版編集長）
+  - [竹田圭吾](../Page/竹田圭吾.md "wikilink")（当時：ニューズウィーク日本版編集長）
   - 新田環（両足[義足](https://ja.wikipedia.org/wiki/義足 "wikilink")の[コラムニスト](https://ja.wikipedia.org/wiki/コラムニスト "wikilink")）
 
 </div>
@@ -99,19 +99,19 @@
 
 <!-- end list -->
 
-  - [小倉淳](https://ja.wikipedia.org/wiki/小倉淳 "wikilink")（フリーアナウンサー、元[日本テレビアナウンサー](../Page/日本テレビ放送網.md "wikilink")）- 2008年7月28日 - 8月1日、2009年3月3日 - 3月7日
+  - [小倉淳](../Page/小倉淳.md "wikilink")（フリーアナウンサー、元[日本テレビアナウンサー](../Page/日本テレビ放送網.md "wikilink")）- 2008年7月28日 - 8月1日、2009年3月3日 - 3月7日
 
 ### 過去
 
 #### アシスタント
 
-  - [那須恵理子](https://ja.wikipedia.org/wiki/那須恵理子 "wikilink")（当時：ニッポン放送アナウンサールーム長）※火、木曜 - 2007年10月2日 - 2009年3月26日
+  - [那須恵理子](../Page/那須恵理子.md "wikilink")（当時：ニッポン放送アナウンサールーム長）※火、木曜 - 2007年10月2日 - 2009年3月26日
 
 #### コメンテーター
 
   - 火曜：[竹中平蔵](../Page/竹中平蔵.md "wikilink")（[経済学者](../Page/経済学者.md "wikilink")、[慶應義塾大学総合政策学部](https://ja.wikipedia.org/wiki/慶應義塾大学総合政策学部 "wikilink")[教授](../Page/教授.md "wikilink")）
-  - 水曜：[森永卓郎](../Page/森永卓郎.md "wikilink")([経済アナリスト](https://ja.wikipedia.org/wiki/経済評論家 "wikilink")、[獨協大学](https://ja.wikipedia.org/wiki/獨協大学 "wikilink")教授) - 2007年10月3日 - 11月14日、28日 - 12月26日
-  - 木曜：[中田宏](../Page/中田宏.md "wikilink")（当時：[横浜市長](https://ja.wikipedia.org/wiki/横浜市#歴代市長 "wikilink")）、[片山虎之助](https://ja.wikipedia.org/wiki/片山虎之助 "wikilink")（[参議院議員](https://ja.wikipedia.org/wiki/参議院議員 "wikilink")、元[総務大臣](../Page/総務大臣.md "wikilink")） - 2007年10月11日 - ※隔週、[大野元裕](../Page/大野元裕.md "wikilink")（[中東調査会](https://ja.wikipedia.org/wiki/中東調査会 "wikilink")上席研究員） - 2007年10月5日 - 2010年1月\[5\]
+  - 水曜：[森永卓郎](../Page/森永卓郎.md "wikilink")([経済アナリスト](../Page/経済評論家.md "wikilink")、[獨協大学](https://ja.wikipedia.org/wiki/獨協大学 "wikilink")教授) - 2007年10月3日 - 11月14日、28日 - 12月26日
+  - 木曜：[中田宏](../Page/中田宏.md "wikilink")（当時：[横浜市長](https://ja.wikipedia.org/wiki/横浜市#歴代市長 "wikilink")）、[片山虎之助](../Page/片山虎之助.md "wikilink")（[参議院議員](https://ja.wikipedia.org/wiki/参議院議員 "wikilink")、元[総務大臣](../Page/総務大臣.md "wikilink")） - 2007年10月11日 - ※隔週、[大野元裕](../Page/大野元裕.md "wikilink")（[中東調査会](../Page/中東調査会.md "wikilink")上席研究員） - 2007年10月5日 - 2010年1月\[5\]
 
 ## 放送時間
 
@@ -174,7 +174,7 @@
 
 <!-- end list -->
 
-  - [TOYOTA ハッピータウンサーキット](https://ja.wikipedia.org/wiki/TOYOTA_ハッピータウンサーキット "wikilink")
+  - [TOYOTA ハッピータウンサーキット](../Page/TOYOTA_ハッピータウンサーキット.md "wikilink")
 
 <!-- end list -->
 

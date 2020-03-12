@@ -1,36 +1,36 @@
 > この記事は[BLEACH ](https://ja.wikipedia.org/wiki/BLEACH_)から翻訳されています。
 
 
-**BLEACH 〜ヒート・ザ・ソウル〜**（ブリーチ 〜ヒート・ザ・ソウル〜）とは、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")が発売した[PlayStation Portable用](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")のシリーズ。
+**BLEACH 〜ヒート・ザ・ソウル〜**（ブリーチ 〜ヒート・ザ・ソウル〜）とは、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")が発売した[PlayStation Portable用](../Page/PlayStation_Portable.md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")のシリーズ。
 
 ## 概要
 
 [週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")連載の『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH "wikilink")』を原作としたPSP初の3D対戦型格闘ゲーム。アドホックモードや[インフラストラクチャー・モード](https://ja.wikipedia.org/wiki/インフラストラクチャー・モード "wikilink")によるワイヤレス対戦にも対応している。 同シリーズは当時放映中であったテレビアニメに先行して原作キャラを登場させたり、[studioぴえろスタッフ描き下ろしによる](../Page/ぴえろ.md "wikilink")2D画挿入などが特長。 作品によってはオープニングムービーが用意されており、テーマ曲も[ORANGE RANGE](../Page/ORANGE_RANGE.md "wikilink")（第1作）、[UVERworld](../Page/UVERworld.md "wikilink")（第2作）、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")（第6作）がそれぞれ担当したが、第1作と第6作は既存のアニメテーマが使用されたのに対し、第2作は当時の新曲が新たに起用されていた。また1作目と6作目のオープニングの作画はぴえろスタッフの描き下ろしである。
 戦闘システムは3作目以降にグループバトルを導入、5作目以降はタッグバトルを、そして7作目には4人対戦など様々なシステムを導入している。
-5作目以降からは劇場版オリジナルキャラクターの[茜雫（せんな）や](https://ja.wikipedia.org/wiki/劇場版BLEACH_MEMORIES_OF_NOBODY "wikilink")、[草冠宗次郎（くさかそうじろう）](../Page/劇場版BLEACH_The_DiamondDust_Rebellion_もう一つの氷輪丸.md "wikilink")、6作目以降からは[ダークルキア](https://ja.wikipedia.org/wiki/劇場版BLEACH_Fade_to_Black_君の名を呼ぶ "wikilink")、7作目からはアニメオリジナルストーリー『斬魄刀異聞篇』の[村正（むらまさ）も登場した](https://ja.wikipedia.org/wiki/BLEACH_斬魄刀異聞篇#村正 "wikilink")。
+5作目以降からは劇場版オリジナルキャラクターの[茜雫（せんな）や](../Page/劇場版BLEACH_MEMORIES_OF_NOBODY.md "wikilink")、[草冠宗次郎（くさかそうじろう）](../Page/劇場版BLEACH_The_DiamondDust_Rebellion_もう一つの氷輪丸.md "wikilink")、6作目以降からは[ダークルキア](https://ja.wikipedia.org/wiki/劇場版BLEACH_Fade_to_Black_君の名を呼ぶ "wikilink")、7作目からはアニメオリジナルストーリー『斬魄刀異聞篇』の[村正（むらまさ）も登場した](https://ja.wikipedia.org/wiki/BLEACH_斬魄刀異聞篇#村正 "wikilink")。
 6作目以降は[PlayStation Storeで購入可能になった](../Page/PlayStation_Store.md "wikilink")。また追加コンテンツもダウンロード可能となった。 7作目には[データインストール](https://ja.wikipedia.org/wiki/データインストール "wikilink")機能が搭載されたり、オンラインのランキングチャレンジが追加された。 開発はエイティングが担当\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]。
 
 ## シリーズ
 
   - BLEACH 〜ヒート・ザ・ソウル〜
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")発売。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月2日](../Page/3月2日.md "wikilink")には[廉価版](https://ja.wikipedia.org/wiki/廉価版 "wikilink")が発売。
+    [2005年](../Page/2005年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")発売。[2006年](../Page/2006年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")には[廉価版](../Page/廉価版.md "wikilink")が発売。
     主題歌：[ORANGE RANGE](../Page/ORANGE_RANGE.md "wikilink") 「[\*〜アスタリスク〜](../Page/*〜アスタリスク〜.md "wikilink")」
     アドホック・パーティ for PlayStation Portable：動作確認済み
     　キャラクター数：6名
     　注目システム：「霊圧開放」システム
   - BLEACH 〜ヒート・ザ・ソウル2〜
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")発売。2006年[11月30日](../Page/11月30日.md "wikilink")には廉価版が発売。
+    [2005年](../Page/2005年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")発売。2006年[11月30日](../Page/11月30日.md "wikilink")には廉価版が発売。
     主題歌：[UVERworld](../Page/UVERworld.md "wikilink") 「[CHANCE\!](../Page/CHANCE!_\(UVERworldの曲\).md "wikilink")」
     　キャラクター数：11名
     　注目システム：「護廷十三番入隊モード」（本作のみ）
   - BLEACH 〜ヒート・ザ・ソウル3〜
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月20日](../Page/7月20日.md "wikilink")発売。[2007年](../Page/2007年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")には廉価版が発売。
+    [2006年](../Page/2006年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")発売。[2007年](../Page/2007年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")には廉価版が発売。
     主題歌：なし
     　キャラクター数：33名（+52名サポートキャラクター）
     　注目システム：霊圧ダッシュ・サポート
     　番外編：studioぴえろオリジナルアニメ「カラクラヒーローズ マッハ\!\!」
   - BLEACH 〜ヒート・ザ・ソウル4〜
-    [2007年](../Page/2007年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")発売。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")には廉価版が発売。
+    [2007年](../Page/2007年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")発売。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月3日](../Page/7月3日.md "wikilink")には廉価版が発売。
     主題歌：なし
     アドホック・パーティ for PlayStation Portable：動作確認済み
     　キャラクター数：16名（+51名サポートキャラ）
@@ -70,7 +70,7 @@
 <!-- end list -->
 
 1.  EXミッション配信：2010年[9月13日](../Page/9月13日.md "wikilink")配信開始。「大逆（VS 大逆の村正）」
-2.  SPボイス配信：2010年[10月18日](https://ja.wikipedia.org/wiki/10月18日 "wikilink")配信開始。水島水色、浅野啓吾、黒崎一心、バワバワ、ナレーター、霞大路瑠璃千代、狛村左陣SP
+2.  SPボイス配信：2010年[10月18日](../Page/10月18日.md "wikilink")配信開始。水島水色、浅野啓吾、黒崎一心、バワバワ、ナレーター、霞大路瑠璃千代、狛村左陣SP
 3.  地獄篇SPコンテンツ配信：2010年[12月4日](../Page/12月4日.md "wikilink")配信開始。この配信からゲームアップデートが行われVol. 1.01になった。
     これにより、ゲームを起動してまず始めに「通常版」か「地獄篇」のどちらかを選ぶ形になり選んだ後は変更出来ず、
     もう一度再起動しなければならない。なお、「地獄篇」ではCPU対戦、通信対戦が遊べるが、一部機能に制限がかけられた

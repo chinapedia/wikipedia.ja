@@ -9,7 +9,7 @@
   - 2010年、地元北海道のFM局[AIR-G'が](../Page/エフエム北海道.md "wikilink")“北海道出身の実力派ミュージシャンを盛り上げる”をスローガンとして掲げるなか、インディーズでありながらメジャーアーティストとともにボーカルの星花がレギュラー・パーソナリティーに抜擢され、4月より「Violent is SavannaのOH LOVE YOU」がスタート。
   - 2010年5月25日には北海道TSUTAYA限定シングルCD『OH LOVE YOU』（1曲入り）を発売。同曲制作にあたってプロデューサーに[Great3](https://ja.wikipedia.org/wiki/Great3 "wikilink")の片寄明人、エンジニアには南石聡巳を迎えた。1週間で約2,000枚を売上げ、限定シングルでありながらオリコン全国インディーズランキングでは初登場2位を、オリコン北海道地区別ランキングでは初登場4位を記録。
   - 2010年10月20日、『OH LOVE YOU』（カップリング『ベル鳴る方へ』）でメジャーデビュー。発売直後に、[北海道文化放送](../Page/北海道文化放送.md "wikilink")「[UHBスーパーニュース](https://ja.wikipedia.org/wiki/UHBスーパーニュース "wikilink")」にて新人バンドとしては異例の特集が組まれ反響を得る。[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")が2011年最も活躍が期待出来る新人アーティスト10組を選出する“Japan Sound of 2011”と、音楽専門誌「[MUSICA](../Page/MUSICA.md "wikilink")」が選ぶ2011年ブレイク必至のニューカマー特集に選出される。
-  - 2011年2月9日、2ndシングル『アワイロサクラチル』（プロデューサー・[島田昌典](https://ja.wikipedia.org/wiki/島田昌典 "wikilink")、エンジニア・牧野"Q"英司）、『リフレインチューマー』（プロデューサー・[片寄明人](https://ja.wikipedia.org/wiki/片寄明人 "wikilink")、エンジニア・南石聡巳）の2曲を収録したDouble A-Side Singleをリリース。同年4月6日、1stアルバム『SWING』をリリース（プロデューサー・[片寄明人](https://ja.wikipedia.org/wiki/片寄明人 "wikilink")、[島田昌典](https://ja.wikipedia.org/wiki/島田昌典 "wikilink")、[石田ショーキチ](https://ja.wikipedia.org/wiki/石田ショーキチ "wikilink")）。
+  - 2011年2月9日、2ndシングル『アワイロサクラチル』（プロデューサー・[島田昌典](https://ja.wikipedia.org/wiki/島田昌典 "wikilink")、エンジニア・牧野"Q"英司）、『リフレインチューマー』（プロデューサー・[片寄明人](https://ja.wikipedia.org/wiki/片寄明人 "wikilink")、エンジニア・南石聡巳）の2曲を収録したDouble A-Side Singleをリリース。同年4月6日、1stアルバム『SWING』をリリース（プロデューサー・[片寄明人](https://ja.wikipedia.org/wiki/片寄明人 "wikilink")、[島田昌典](https://ja.wikipedia.org/wiki/島田昌典 "wikilink")、[石田ショーキチ](../Page/石田ショーキチ.md "wikilink")）。
   - 2015年1月26日をもって活動休止\[1\]\[2\]。
 
 ## メンバー
@@ -22,7 +22,7 @@
 
 <!-- end list -->
 
-  - RYUKU：工藤竜之介（くどう りゅうのすけ） - [ドラム](https://ja.wikipedia.org/wiki/ドラマー "wikilink")
+  - RYUKU：工藤竜之介（くどう りゅうのすけ） - [ドラム](../Page/ドラマー.md "wikilink")
 
 <!-- end list -->
 
@@ -97,20 +97,20 @@
 
 ### シングル（インディーズ）
 
-  - natural flat（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月2日](../Page/8月2日.md "wikilink")）
+  - natural flat（[2005年](../Page/2005年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")）
     1.  ナチュラル　フラット
     2.  桜色
     3.  新雪ランデブー
   - ヒネクレJumper（[2007年](../Page/2007年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")）
     1.  ヒネクレJumper
-          - [STVテレビ](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")『[どさんこワイド180](https://ja.wikipedia.org/wiki/どさんこワイド180 "wikilink")』エンディングテーマ
+          - [STVテレビ](../Page/札幌テレビ放送.md "wikilink")『[どさんこワイド180](https://ja.wikipedia.org/wiki/どさんこワイド180 "wikilink")』エンディングテーマ
           - STVテレビ『[What's New?+Cute](../Page/What's_New?+Cute.md "wikilink")』オープニングテーマ
           - STVテレビ『2007年[24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』チャリティソング
           - STVテレビ『ぞっこん\!ファイターズ\!Go\!Go\!ドーム』キャンペーンソング
 
 ### アルバム（インディーズ）
 
-  - 虹色ガール（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月15日](../Page/2月15日.md "wikilink")）
+  - 虹色ガール（[2006年](../Page/2006年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")）
     1.  迷いの森で躓いて
     2.  ラッタッタ
     3.  続けられない夢話
@@ -132,14 +132,14 @@
 ### TV
 
   - [What's New?+Cute](../Page/What's_New?+Cute.md "wikilink")（STVテレビ、毎週木曜日） - レギュラー（星花のみ）
-  - [なまおん](https://ja.wikipedia.org/wiki/なまおん "wikilink")（STVテレビ、毎週土曜日）[2007年](../Page/2007年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - ゲスト
+  - [なまおん](../Page/なまおん.md "wikilink")（STVテレビ、毎週土曜日）[2007年](../Page/2007年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - ゲスト
   - [どさんこワイド180](https://ja.wikipedia.org/wiki/どさんこワイド180 "wikilink")（STVテレビ、毎週月曜日 - 金曜日）
 
 ### ラジオ
 
   - Violent is SavannaのOH LOVE YOU（[AIR-G'（FM北海道）](../Page/エフエム北海道.md "wikilink")、2010年4月 - 2011年9月（毎週木曜日）） - レギュラー（星花のみ）
   - Beアンビシャス（[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、毎週[日曜日](../Page/日曜日.md "wikilink")） - 2007年9月度月間パーソナリティー
-  - [スーパーヒットチャートなまらん](https://ja.wikipedia.org/wiki/スーパーヒットチャートなまらん "wikilink") （STVラジオ、毎週月曜日 - 金曜日） - ゲスト
+  - [スーパーヒットチャートなまらん](../Page/スーパーヒットチャートなまらん.md "wikilink") （STVラジオ、毎週月曜日 - 金曜日） - ゲスト
 
 ## 出典
 

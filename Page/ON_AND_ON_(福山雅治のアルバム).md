@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - 2作連続の[オリコンアルバムチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得。
+  - 2作連続の[オリコンアルバムチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。
 
 ## 収録曲
 
@@ -13,7 +13,7 @@
     （作詞・作曲:福山雅治 / 編曲:[小原礼](../Page/小原礼.md "wikilink")）
       -
         [ダイドードリンコ](../Page/ダイドードリンコ.md "wikilink")「[ダイドーブレンドコーヒー](../Page/ダイドーブレンドコーヒー.md "wikilink")」CMソング。
-        25thシングル「[はつ恋](https://ja.wikipedia.org/wiki/はつ恋_\(福山雅治の曲\) "wikilink")」のカップリングに[井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")がアレンジしたバージョン「ON AND ON 09」が収録されている。
+        25thシングル「[はつ恋](https://ja.wikipedia.org/wiki/はつ恋_\(福山雅治の曲\) "wikilink")」のカップリングに[井上鑑](../Page/井上鑑.md "wikilink")がアレンジしたバージョン「ON AND ON 09」が収録されている。
         2011年年末の大感謝祭において、大幅に歌詞が書き直され披露された。純粋なラブソングであったが、“上京”をテーマに据えた曲へとリノベーションされた。
 2.  **[IT'S ONLY LOVE](https://ja.wikipedia.org/wiki/IT'S_ONLY_LOVE/SORRY_BABY "wikilink") (ALBUM MIX)**
     （作詞・作曲:福山雅治 / 編曲:[斎藤誠](../Page/斎藤誠.md "wikilink")）
@@ -32,7 +32,7 @@
 7.  **Dear**
     （作詞・作曲:福山雅治 / 編曲:小原礼）
       -
-        ライブ頻度が非常に高く、アルバム曲なのにも関わらず多くのツアーやカウントダウンライブで1曲目やライブのラストを飾ることが多い。[ライブアルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")『[Fukuyama masaharu acoustic live best selection "Live Fukuyamania"](https://ja.wikipedia.org/wiki/Fukuyama_masaharu_acoustic_live_best_selection_"Live_Fukuyamania" "wikilink")』と、28thシングル「[生きてる生きてく](https://ja.wikipedia.org/wiki/生きてる生きてく "wikilink")」にライブテイクが収録されている。
+        ライブ頻度が非常に高く、アルバム曲なのにも関わらず多くのツアーやカウントダウンライブで1曲目やライブのラストを飾ることが多い。[ライブアルバム](../Page/ライブ・アルバム.md "wikilink")『[Fukuyama masaharu acoustic live best selection "Live Fukuyamania"](https://ja.wikipedia.org/wiki/Fukuyama_masaharu_acoustic_live_best_selection_"Live_Fukuyamania" "wikilink")』と、28thシングル「[生きてる生きてく](https://ja.wikipedia.org/wiki/生きてる生きてく "wikilink")」にライブテイクが収録されている。
 8.  **ダンスしないか**
     （作詞・作曲:福山雅治 / 編曲:小原礼）
       -
@@ -51,12 +51,12 @@
 ## 参加ミュージシャン
 
   - 福山雅治：ボーカル・エレキギター・作詞・作曲
-  - [山木秀夫](https://ja.wikipedia.org/wiki/山木秀夫 "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")
+  - [山木秀夫](../Page/山木秀夫.md "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")
   - [河村"カースケ"智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")：ドラム
-  - 小原礼：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・コーラス・編曲
+  - 小原礼：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・コーラス・編曲
   - [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")：ベース
   - バズ・フェイテン：ギター
-  - [小倉博和](https://ja.wikipedia.org/wiki/小倉博和 "wikilink")：エレキギター
+  - [小倉博和](../Page/小倉博和.md "wikilink")：エレキギター
   - [斎藤誠](../Page/斎藤誠.md "wikilink")：エレキギター・アコースティックギター・コーラス・編曲
   - マイケル・トンプソン：エレキギター・アコースティックギター
   - JAI WINDING：キーボード
@@ -64,6 +64,6 @@
   - ランディ・ウォールドマン：シンセサイザー
   - レニー・カストロ：パーカッション
   - 成田昭彦：パーカッション
-  - [松武秀樹](https://ja.wikipedia.org/wiki/松武秀樹 "wikilink")：プログラミング
+  - [松武秀樹](../Page/松武秀樹.md "wikilink")：プログラミング
 
 [Category:福山雅治のアルバム](https://ja.wikipedia.org/wiki/Category:福山雅治のアルバム "wikilink") [Category:1994年のアルバム](https://ja.wikipedia.org/wiki/Category:1994年のアルバム "wikilink") [Category:BMGビクターのアルバム](https://ja.wikipedia.org/wiki/Category:BMGビクターのアルバム "wikilink") [Category:1994年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1994年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:コーヒーのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コーヒーのコマーシャルソング "wikilink")

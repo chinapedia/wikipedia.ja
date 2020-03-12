@@ -1,12 +1,12 @@
 > この記事は[ACKEE \& SALTFISH](https://ja.wikipedia.org/wiki/ACKEE_\&_SALTFISH)から翻訳されています。
 
 
-**ACKEE & SALTFISH**（アキ アンド ソルトフィッシュ）は[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身の[双子](https://ja.wikipedia.org/wiki/双子 "wikilink")兄弟、**ACKEE**（明宏 弟）と**SALTFISH**（宏之、兄）による[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。ともに[1966年](../Page/1966年.md "wikilink")[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")生。
+**ACKEE & SALTFISH**（アキ アンド ソルトフィッシュ）は[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身の[双子](https://ja.wikipedia.org/wiki/双子 "wikilink")兄弟、**ACKEE**（明宏 弟）と**SALTFISH**（宏之、兄）による[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")。ともに[1966年](../Page/1966年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")生。
 
 ## 経歴
 
 高校生時代[Sex Pistolsに影響を受け](../Page/セックス・ピストルズ.md "wikilink")[パンク・ロック](../Page/パンク・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")「ROSE JETS」を結成。同郷である[THE STAR CLUBの](../Page/THE_STAR_CLUB.md "wikilink")[フロント・アクトを務め関東](https://ja.wikipedia.org/wiki/前座 "wikilink")、関西を回る。自主レーベル「Child Painter」より1st.miniAlbum「You Dont Say So\!」製作及び自主流通、1000枚を1ヶ月で完売。
-その後パンクロックに通じるとも言える"Rebel Music"であり独特の[グルーヴ](../Page/グルーヴ.md "wikilink")を持つレゲエ・ミュージックと出会いのめり込み、[スーパーキャット](https://ja.wikipedia.org/wiki/スーパーキャット "wikilink")、[ニンジャマン](https://ja.wikipedia.org/wiki/ニンジャマン "wikilink")等に代表される[ダンスホールレゲエ](https://ja.wikipedia.org/wiki/ダンスホールレゲエ "wikilink")を志向する。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から自身の[レーベル](https://ja.wikipedia.org/wiki/レーベル "wikilink")兼マネジメント会社である錦コミュニケーションズを主宰。「真の日本男児」のコンセプトを元に二人とも共に髪型は実際にちょんまげ（総髪）にしている。
+その後パンクロックに通じるとも言える"Rebel Music"であり独特の[グルーヴ](../Page/グルーヴ.md "wikilink")を持つレゲエ・ミュージックと出会いのめり込み、[スーパーキャット](../Page/スーパーキャット.md "wikilink")、[ニンジャマン](https://ja.wikipedia.org/wiki/ニンジャマン "wikilink")等に代表される[ダンスホールレゲエ](../Page/ダンスホールレゲエ.md "wikilink")を志向する。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から自身の[レーベル](https://ja.wikipedia.org/wiki/レーベル "wikilink")兼マネジメント会社である錦コミュニケーションズを主宰。「真の日本男児」のコンセプトを元に二人とも共に髪型は実際にちょんまげ（総髪）にしている。
 
 ## ディスコグラフィ
 

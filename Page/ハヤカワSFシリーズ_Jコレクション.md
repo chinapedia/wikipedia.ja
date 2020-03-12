@@ -1,7 +1,7 @@
 > この記事は[SF J](https://ja.wikipedia.org/wiki/SF_J)から翻訳されています。
 
 
-**ハヤカワSFシリーズ Jコレクション**は、2002年4月から[早川書房](../Page/早川書房.md "wikilink")が刊行しているエンターテインメント[叢書](../Page/叢書.md "wikilink")。創刊者は[塩澤快浩](https://ja.wikipedia.org/wiki/塩澤快浩 "wikilink")。 ラインナップは「活字の想像力」をコンセプトにした[SF小説および漫画](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。 四六判変型ソフトカバー。[電子書籍](../Page/電子書籍.md "wikilink")版も同時発売された。
+**ハヤカワSFシリーズ Jコレクション**は、2002年4月から[早川書房](../Page/早川書房.md "wikilink")が刊行しているエンターテインメント[叢書](../Page/叢書.md "wikilink")。創刊者は[塩澤快浩](../Page/塩澤快浩.md "wikilink")。 ラインナップは「活字の想像力」をコンセプトにした[SF小説および漫画](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。 四六判変型ソフトカバー。[電子書籍](../Page/電子書籍.md "wikilink")版も同時発売された。
 
 ## ラインナップ
 
@@ -48,7 +48,7 @@
 <td><p><span style="display:none"> くくつこう<br />
 </span> 傀儡后</p></td>
 <td><p>2002年4月</p></td>
-<td><p>2005年3月 ハヤカワ文庫JA／創刊ラインナップの1冊／2002年 <a href="https://ja.wikipedia.org/wiki/日本SF大賞" title="wikilink">日本SF大賞</a></p></td>
+<td><p>2005年3月 ハヤカワ文庫JA／創刊ラインナップの1冊／2002年 <a href="../Page/日本SF大賞.md" title="wikilink">日本SF大賞</a></p></td>
 </tr>
 <tr class="even">
 <td><p>04</p></td>
@@ -62,7 +62,7 @@
 <tr class="odd">
 <td><p>05</p></td>
 <td><p><span style="display:none"> さとう てつや<br />
-</span> <a href="https://ja.wikipedia.org/wiki/佐藤哲也_(作家)" title="wikilink">佐藤哲也</a></p></td>
+</span> <a href="../Page/佐藤哲也_(作家).md" title="wikilink">佐藤哲也</a></p></td>
 <td><p><span style="display:none"> つまのていこく<br />
 </span> 妻の帝国</p></td>
 <td><p>2002年6月</p></td>
@@ -71,7 +71,7 @@
 <tr class="even">
 <td><p>06</p></td>
 <td><p><span style="display:none"> はやし しようし<br />
-</span> <a href="https://ja.wikipedia.org/wiki/林譲治_(作家)" title="wikilink">林譲治</a></p></td>
+</span> <a href="../Page/林譲治_(作家).md" title="wikilink">林譲治</a></p></td>
 <td><p><span style="display:none"> うろほろすのはとう<br />
 </span> ウロボロスの波動</p></td>
 <td><p>2002年7月</p></td>
@@ -80,7 +80,7 @@
 <tr class="odd">
 <td><p>07</p></td>
 <td><p><span style="display:none"> とひ ひろたか<br />
-</span> <a href="https://ja.wikipedia.org/wiki/飛浩隆" title="wikilink">飛浩隆</a></p></td>
+</span> <a href="../Page/飛浩隆.md" title="wikilink">飛浩隆</a></p></td>
 <td><p><span style="display:none"> くらんうあかんすはいえんのてんし<br />
 </span> グラン・ヴァカンス 廃園の天使I</p></td>
 <td><p>2002年9月</p></td>
@@ -89,7 +89,7 @@
 <tr class="even">
 <td><p>08</p></td>
 <td><p><span style="display:none"> たかの ふみお<br />
-</span> <a href="https://ja.wikipedia.org/wiki/高野史緒" title="wikilink">高野史緒</a></p></td>
+</span> <a href="../Page/高野史緒.md" title="wikilink">高野史緒</a></p></td>
 <td><p><span style="display:none"> あいおおん<br />
 </span> アイオーン</p></td>
 <td><p>2002年10月</p></td>
@@ -107,7 +107,7 @@
 <tr class="even">
 <td><p>10</p></td>
 <td><p><span style="display:none"> ひらや よしき<br />
-</span> <a href="https://ja.wikipedia.org/wiki/平谷美樹" title="wikilink">平谷美樹</a></p></td>
+</span> <a href="../Page/平谷美樹.md" title="wikilink">平谷美樹</a></p></td>
 <td><p><span style="display:none"> のるんのなかいゆめ<br />
 </span> ノルンの永い夢</p></td>
 <td><p>2002年11月</p></td>
@@ -134,7 +134,7 @@
 <tr class="odd">
 <td><p>13</p></td>
 <td><p><span style="display:none"> ふかほり ほね<br />
-</span> <a href="https://ja.wikipedia.org/wiki/深堀骨" title="wikilink">深堀骨</a></p></td>
+</span> <a href="../Page/深堀骨.md" title="wikilink">深堀骨</a></p></td>
 <td><p><span style="display:none"> あまちやするちや<br />
 </span> アマチャ・ズルチャ 柴刈天神前風土記</p></td>
 <td><p>2003年8月</p></td>
@@ -170,7 +170,7 @@
 <tr class="odd">
 <td><p>17</p></td>
 <td><p><span style="display:none"> にししま たいすけ<br />
-</span> <a href="https://ja.wikipedia.org/wiki/西島大介" title="wikilink">西島大介</a></p></td>
+</span> <a href="../Page/西島大介.md" title="wikilink">西島大介</a></p></td>
 <td><p><span style="display:none"> おうそんせんそう<br />
 </span> 凹村戦争</p></td>
 <td><p>2004年3月</p></td>
@@ -188,7 +188,7 @@
 <tr class="odd">
 <td><p>19</p></td>
 <td><p><span style="display:none"> たかの ふみお<br />
-</span> <a href="https://ja.wikipedia.org/wiki/高野史緒" title="wikilink">高野史緒</a></p></td>
+</span> <a href="../Page/高野史緒.md" title="wikilink">高野史緒</a></p></td>
 <td><p><span style="display:none"> らあ<br />
 </span> ラー</p></td>
 <td><p>2004年5月</p></td>
@@ -224,7 +224,7 @@
 <tr class="odd">
 <td><p>23</p></td>
 <td><p><span style="display:none"> ふしさき しんこ<br />
-</span> <a href="https://ja.wikipedia.org/wiki/藤崎慎吾" title="wikilink">藤崎慎吾</a></p></td>
+</span> <a href="../Page/藤崎慎吾.md" title="wikilink">藤崎慎吾</a></p></td>
 <td><p><span style="display:none"> はいとうなん<br />
 </span> ハイドゥナン 【上下巻】</p></td>
 <td><p>2005年7月</p></td>
@@ -251,7 +251,7 @@
 <tr class="even">
 <td><p>26</p></td>
 <td><p><span style="display:none"> はやし しようし<br />
-</span> <a href="https://ja.wikipedia.org/wiki/林譲治_(作家)" title="wikilink">林譲治</a></p></td>
+</span> <a href="../Page/林譲治_(作家).md" title="wikilink">林譲治</a></p></td>
 <td><p><span style="display:none"> すとりんかあのちんもく<br />
 </span> ストリンガーの沈黙</p></td>
 <td><p>2005年11月</p></td>
@@ -269,7 +269,7 @@
 <tr class="even">
 <td><p>28</p></td>
 <td><p><span style="display:none"> にししま たいすけ<br />
-</span> <a href="https://ja.wikipedia.org/wiki/西島大介" title="wikilink">西島大介</a></p></td>
+</span> <a href="../Page/西島大介.md" title="wikilink">西島大介</a></p></td>
 <td><p><span style="display:none"> あともすふいあ<br />
 </span> アトモスフィア 【全2巻】</p></td>
 <td><p>2006年3月・4月</p></td>
@@ -278,7 +278,7 @@
 <tr class="odd">
 <td><p>29</p></td>
 <td><p><span style="display:none"> いしくろ たつまさ<br />
-</span> <a href="https://ja.wikipedia.org/wiki/石黒達昌" title="wikilink">石黒達昌</a></p></td>
+</span> <a href="../Page/石黒達昌.md" title="wikilink">石黒達昌</a></p></td>
 <td><p><span style="display:none"> とうしそう<br />
 </span> 冬至草</p></td>
 <td><p>2006年6月</p></td>
@@ -296,7 +296,7 @@
 <tr class="odd">
 <td><p>31</p></td>
 <td><p><span style="display:none"> とひ ひろたか<br />
-</span> <a href="https://ja.wikipedia.org/wiki/飛浩隆" title="wikilink">飛浩隆</a></p></td>
+</span> <a href="../Page/飛浩隆.md" title="wikilink">飛浩隆</a></p></td>
 <td><p><span style="display:none"> らきつとかある<br />
 </span> ラギッド・ガール 廃園の天使II</p></td>
 <td><p>2006年10月</p></td>
@@ -332,7 +332,7 @@
 <tr class="odd">
 <td><p>35</p></td>
 <td><p><span style="display:none"> はやし しようし<br />
-</span> <a href="https://ja.wikipedia.org/wiki/林譲治_(作家)" title="wikilink">林譲治</a></p></td>
+</span> <a href="../Page/林譲治_(作家).md" title="wikilink">林譲治</a></p></td>
 <td><p><span style="display:none"> しんかのせつけいしや<br />
 </span> 進化の設計者</p></td>
 <td><p>2007年9月</p></td>
@@ -350,7 +350,7 @@
 <tr class="odd">
 <td><p>37</p></td>
 <td><p><span style="display:none"> ささ きみひと<br />
-</span> <a href="https://ja.wikipedia.org/wiki/笹公人" title="wikilink">笹公人</a></p></td>
+</span> <a href="../Page/笹公人.md" title="wikilink">笹公人</a></p></td>
 <td><p><span style="display:none"> しよしようのきみようなほうけん<br />
 </span> 抒情の奇妙な冒険</p></td>
 <td><p>2008年3月</p></td>
@@ -368,7 +368,7 @@
 <tr class="odd">
 <td><p>39</p></td>
 <td><p><span style="display:none"> よした ちかし<br />
-</span> <a href="https://ja.wikipedia.org/wiki/吉田親司" title="wikilink">吉田親司</a></p></td>
+</span> <a href="../Page/吉田親司.md" title="wikilink">吉田親司</a></p></td>
 <td><p><span style="display:none"> まさあすたわあ<br />
 </span> マザーズ・タワー</p></td>
 <td><p>2008年7月</p></td>
@@ -377,7 +377,7 @@
 <tr class="even">
 <td><p>40</p></td>
 <td><p><span style="display:none"> たかの ふみお<br />
-</span> <a href="https://ja.wikipedia.org/wiki/高野史緒" title="wikilink">高野史緒</a></p></td>
+</span> <a href="../Page/高野史緒.md" title="wikilink">高野史緒</a></p></td>
 <td><p><span style="display:none"> あかいほし<br />
 </span> 赤い星</p></td>
 <td><p>2008年8月</p></td>
@@ -390,7 +390,7 @@
 <td><p><span style="display:none"> はあもにい<br />
 </span> <a href="https://ja.wikipedia.org/wiki/ハーモニー_(小説)" title="wikilink">ハーモニー</a></p></td>
 <td><p>2008年12月</p></td>
-<td><p>2010年12月 ハヤカワ文庫JA 2009年 <a href="../Page/星雲賞.md" title="wikilink">星雲賞</a>、<a href="https://ja.wikipedia.org/wiki/日本SF大賞" title="wikilink">日本SF大賞</a></p></td>
+<td><p>2010年12月 ハヤカワ文庫JA 2009年 <a href="../Page/星雲賞.md" title="wikilink">星雲賞</a>、<a href="../Page/日本SF大賞.md" title="wikilink">日本SF大賞</a></p></td>
 </tr>
 <tr class="even">
 <td><p>42</p></td>
@@ -413,7 +413,7 @@
 <tr class="even">
 <td><p>44</p></td>
 <td><p><span style="display:none"> はせ さとし<br />
-</span> <a href="https://ja.wikipedia.org/wiki/長谷敏司" title="wikilink">長谷敏司</a></p></td>
+</span> <a href="../Page/長谷敏司.md" title="wikilink">長谷敏司</a></p></td>
 <td><p><span style="display:none"> あなたのためのものかたり<br />
 </span> あなたのための物語</p></td>
 <td><p>2009年8月</p></td>
@@ -431,7 +431,7 @@
 <tr class="even">
 <td><p>46</p></td>
 <td><p><span style="display:none"> はやし しようし<br />
-</span> <a href="https://ja.wikipedia.org/wiki/林譲治_(作家)" title="wikilink">林譲治</a></p></td>
+</span> <a href="../Page/林譲治_(作家).md" title="wikilink">林譲治</a></p></td>
 <td><p><span style="display:none"> ふあんとまはなく<br />
 </span> ファントマは哭く</p></td>
 <td><p>2009年10月</p></td>
@@ -458,11 +458,11 @@
 <tr class="odd">
 <td><p>49</p></td>
 <td><p><span style="display:none"> うえだ さゆり<br />
-</span> <a href="https://ja.wikipedia.org/wiki/上田早夕里" title="wikilink">上田早夕里</a></p></td>
+</span> <a href="../Page/上田早夕里.md" title="wikilink">上田早夕里</a></p></td>
 <td><p><span style="display:none"> かりゆうのみや<br />
 </span> <a href="https://ja.wikipedia.org/wiki/華竜の宮" title="wikilink">華竜の宮</a></p></td>
 <td><p>2010年10月</p></td>
-<td><p>2012年11月 ハヤカワ文庫JA （文庫版は上下巻） 2011年 <a href="https://ja.wikipedia.org/wiki/日本SF大賞" title="wikilink">日本SF大賞</a></p></td>
+<td><p>2012年11月 ハヤカワ文庫JA （文庫版は上下巻） 2011年 <a href="../Page/日本SF大賞.md" title="wikilink">日本SF大賞</a></p></td>
 </tr>
 <tr class="even">
 <td><p>50</p></td>
@@ -530,11 +530,11 @@
 <tr class="odd">
 <td><p>57</p></td>
 <td><p><span style="display:none"><br />
-</span> <a href="../Page/円城塔.md" title="wikilink">円城塔</a>、<a href="../Page/小川一水.md" title="wikilink">小川一水</a>、<a href="../Page/菊地秀行.md" title="wikilink">菊地秀行</a>、<a href="https://ja.wikipedia.org/wiki/飛浩隆" title="wikilink">飛浩隆</a>、<a href="https://ja.wikipedia.org/wiki/伊藤計劃" title="wikilink">伊藤計劃</a>、<a href="https://ja.wikipedia.org/wiki/ケン・リュウ" title="wikilink">ケン・リュウ</a>、<a href="https://ja.wikipedia.org/wiki/フェリシティ・サヴェージ" title="wikilink">フェリシティ・サヴェージ</a>、<a href="https://ja.wikipedia.org/wiki/デイヴィッド・モールズ" title="wikilink">デイヴィッド・モールズ</a>、<a href="https://ja.wikipedia.org/wiki/レイチェル・スワースキー" title="wikilink">レイチェル・スワースキー</a>、<a href="https://ja.wikipedia.org/wiki/パット・キャディガン" title="wikilink">パット・キャディガン</a>、<a href="https://ja.wikipedia.org/wiki/キャサリン・M・ヴァレンテ" title="wikilink">キャサリン・M・ヴァレンテ</a> 、<a href="https://ja.wikipedia.org/wiki/エカテリーナ・セディア" title="wikilink">エカテリーナ・セディア</a>、<a href="../Page/ブルース・スターリング.md" title="wikilink">ブルース・スターリング</a></p></td>
+</span> <a href="../Page/円城塔.md" title="wikilink">円城塔</a>、<a href="../Page/小川一水.md" title="wikilink">小川一水</a>、<a href="../Page/菊地秀行.md" title="wikilink">菊地秀行</a>、<a href="../Page/飛浩隆.md" title="wikilink">飛浩隆</a>、<a href="https://ja.wikipedia.org/wiki/伊藤計劃" title="wikilink">伊藤計劃</a>、<a href="https://ja.wikipedia.org/wiki/ケン・リュウ" title="wikilink">ケン・リュウ</a>、<a href="https://ja.wikipedia.org/wiki/フェリシティ・サヴェージ" title="wikilink">フェリシティ・サヴェージ</a>、<a href="https://ja.wikipedia.org/wiki/デイヴィッド・モールズ" title="wikilink">デイヴィッド・モールズ</a>、<a href="https://ja.wikipedia.org/wiki/レイチェル・スワースキー" title="wikilink">レイチェル・スワースキー</a>、<a href="https://ja.wikipedia.org/wiki/パット・キャディガン" title="wikilink">パット・キャディガン</a>、<a href="https://ja.wikipedia.org/wiki/キャサリン・M・ヴァレンテ" title="wikilink">キャサリン・M・ヴァレンテ</a> 、<a href="https://ja.wikipedia.org/wiki/エカテリーナ・セディア" title="wikilink">エカテリーナ・セディア</a>、<a href="../Page/ブルース・スターリング.md" title="wikilink">ブルース・スターリング</a></p></td>
 <td><p><span style="display:none"><br />
 </span> THE FUTURE IS JAPANESE</p></td>
 <td><p>2012年7月</p></td>
-<td><p>日本のSF小説を翻訳してアメリカで出版している<a href="https://ja.wikipedia.org/wiki/ビズメディア" title="wikilink">Haikasoruで出版していた日本がテーマのアンソロジー本を日本でも出版したもの</a></p></td>
+<td><p>日本のSF小説を翻訳してアメリカで出版している<a href="../Page/ビズメディア.md" title="wikilink">Haikasoruで出版していた日本がテーマのアンソロジー本を日本でも出版したもの</a></p></td>
 </tr>
 <tr class="even">
 <td><p>58</p></td>
@@ -557,7 +557,7 @@
 <tr class="even">
 <td><p>60</p></td>
 <td><p><span style="display:none"> にしじま だいすけ<br />
-</span> <a href="https://ja.wikipedia.org/wiki/西島大介" title="wikilink">西島大介</a></p></td>
+</span> <a href="../Page/西島大介.md" title="wikilink">西島大介</a></p></td>
 <td><p><span style="display:none"> おーる ぞうず もーめんつ うぃる びー ろすと いん たいむ<br />
 </span>All those moments will be lost in time</p></td>
 <td><p>2013年10月</p></td>
@@ -575,7 +575,7 @@
 <tr class="even">
 <td><p>62</p></td>
 <td><p><span style="display:none"> うえだ さゆり<br />
-</span> <a href="https://ja.wikipedia.org/wiki/上田早夕里" title="wikilink">上田早夕里</a></p></td>
+</span> <a href="../Page/上田早夕里.md" title="wikilink">上田早夕里</a></p></td>
 <td><p><span style="display:none"> しんくのひぶん<br />
 </span> 深紅の碑文 上・下</p></td>
 <td><p>2013年12月</p></td>

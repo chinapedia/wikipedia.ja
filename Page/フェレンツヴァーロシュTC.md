@@ -1,9 +1,9 @@
 > この記事は[TC](https://ja.wikipedia.org/wiki/TC)から翻訳されています。
 
 
-**フェレンツヴァーロシュTC**（、）こと、**フェレンツヴァーロシ・トルナ・クルブ**（）は、[ハンガリー](../Page/ハンガリー.md "wikilink")の首都[ブダペスト](../Page/ブダペスト.md "wikilink")に本拠を置く[スポーツクラブである](https://ja.wikipedia.org/wiki/クラブチーム "wikilink")。[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")、[アイスホッケー](../Page/アイスホッケー.md "wikilink")、[水球](../Page/水球.md "wikilink")、[サイクリング](https://ja.wikipedia.org/wiki/自転車競技 "wikilink")、女子[ハンドボール](../Page/ハンドボール.md "wikilink")などの部門がある。
+**フェレンツヴァーロシュTC**（、）こと、**フェレンツヴァーロシ・トルナ・クルブ**（）は、[ハンガリー](../Page/ハンガリー.md "wikilink")の首都[ブダペスト](../Page/ブダペスト.md "wikilink")に本拠を置く[スポーツクラブである](../Page/クラブチーム.md "wikilink")。[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")、[アイスホッケー](../Page/アイスホッケー.md "wikilink")、[水球](../Page/水球.md "wikilink")、[サイクリング](../Page/自転車競技.md "wikilink")、女子[ハンドボール](../Page/ハンドボール.md "wikilink")などの部門がある。
 
-ブダペストの[フェレンツヴァーロシュ](https://ja.wikipedia.org/wiki/フェレンツヴァーロシュ "wikilink")地区を本拠地としており、ライバルは同市内の[ウーイペシュト](https://ja.wikipedia.org/wiki/ウーイペシュトFC "wikilink")、[デブレツェン](https://ja.wikipedia.org/wiki/デブレツェンVSC "wikilink")、[ヴァシャシュ](https://ja.wikipedia.org/wiki/ヴァシャシュSC "wikilink")、[ホンヴェード](https://ja.wikipedia.org/wiki/ブダペスト・ホンヴェードFC "wikilink")、[MTKブダペストなどがある](https://ja.wikipedia.org/wiki/MTKブダペストFC "wikilink")。
+ブダペストの[フェレンツヴァーロシュ](https://ja.wikipedia.org/wiki/フェレンツヴァーロシュ "wikilink")地区を本拠地としており、ライバルは同市内の[ウーイペシュト](https://ja.wikipedia.org/wiki/ウーイペシュトFC "wikilink")、[デブレツェン](https://ja.wikipedia.org/wiki/デブレツェンVSC "wikilink")、[ヴァシャシュ](https://ja.wikipedia.org/wiki/ヴァシャシュSC "wikilink")、[ホンヴェード](../Page/ブダペスト・ホンヴェードFC.md "wikilink")、[MTKブダペストなどがある](../Page/MTKブダペストFC.md "wikilink")。
 
 ## サッカー
 
@@ -15,7 +15,7 @@
 
 2006-07シーズン終了後、財政難を理由として2部リーグに強制降格させられた。1901年のリーグ創設以来常に1部に所属し続けたFTCにとって、初の2部降格となった。
 
-フェレンツヴァーロシュTCの最大のライバルは、[ウーイペシュトFC](https://ja.wikipedia.org/wiki/ウーイペシュトFC "wikilink")である。この2チームはハンガリーで最も人気があり成功しているチームである。そのためブダペスト・ダービーの中でも最も関心を集めるダービーである。他に[MTKブダペストFC](https://ja.wikipedia.org/wiki/MTKブダペストFC "wikilink")、[ブダペスト・ホンヴェードFC](https://ja.wikipedia.org/wiki/ブダペスト・ホンヴェードFC "wikilink")、[デブレツェンVSC](https://ja.wikipedia.org/wiki/デブレツェンVSC "wikilink")とライバル関係にある。
+フェレンツヴァーロシュTCの最大のライバルは、[ウーイペシュトFC](https://ja.wikipedia.org/wiki/ウーイペシュトFC "wikilink")である。この2チームはハンガリーで最も人気があり成功しているチームである。そのためブダペスト・ダービーの中でも最も関心を集めるダービーである。他に[MTKブダペストFC](../Page/MTKブダペストFC.md "wikilink")、[ブダペスト・ホンヴェードFC](../Page/ブダペスト・ホンヴェードFC.md "wikilink")、[デブレツェンVSC](https://ja.wikipedia.org/wiki/デブレツェンVSC "wikilink")とライバル関係にある。
 
 ## タイトル
 
@@ -45,7 +45,7 @@
 
 ### 国際タイトル
 
-  - **[ミトローパ・カップ](https://ja.wikipedia.org/wiki/ミトローパ・カップ "wikilink")：2回**
+  - **[ミトローパ・カップ](../Page/ミトローパ・カップ.md "wikilink")：2回**
       - 1928, 1937
 
 <!-- end list -->
@@ -218,13 +218,13 @@
 
   - [リカルド・モニズ](https://ja.wikipedia.org/wiki/リカルド・モニズ "wikilink") 2012-2013
 
-  - [トーマス・ドル](https://ja.wikipedia.org/wiki/トーマス・ドル "wikilink") 2013-2018
+  - [トーマス・ドル](../Page/トーマス・ドル.md "wikilink") 2013-2018
 
 ## 歴代所属選手
 
   - [シュローサー・イムレ](https://ja.wikipedia.org/wiki/シュローサー・イムレ "wikilink") 1905-1915, 1926-1927
 
-  -  [ラディスラオ・クバラ](https://ja.wikipedia.org/wiki/ラディスラオ・クバラ "wikilink") 1945-1946
+  -  [ラディスラオ・クバラ](../Page/ラディスラオ・クバラ.md "wikilink") 1945-1946
 
   - [コチシュ・シャーンドル](../Page/シャーンドル・コチシュ.md "wikilink") 1945-1950
 

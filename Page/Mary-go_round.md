@@ -1,14 +1,14 @@
 > この記事は[Mary-go round](https://ja.wikipedia.org/wiki/Mary-go_round)から翻訳されています。
 
 
-**Mary-go-round**（メアリー・ゴー・ラウンド）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽[デュオ](https://ja.wikipedia.org/wiki/デュオ "wikilink")である。1999年[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")よりメジャーデビュー。2002年活動休止
+**Mary-go-round**（メアリー・ゴー・ラウンド）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽[デュオ](../Page/デュオ.md "wikilink")である。1999年[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")よりメジャーデビュー。2002年活動休止
 
 ## メンバー
 
-  - **渡辺高章**（わたなべたかあき、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink") - ）ボーカル・ギター・作詞・作曲。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身
-  - **鶴谷崇**（つるたにたかし、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink") - ）キーボード・作曲・アレンジ。[神戸出身](../Page/神戸市.md "wikilink")
+  - **渡辺高章**（わたなべたかあき、[1970年](../Page/1970年.md "wikilink") - ）ボーカル・ギター・作詞・作曲。[東京都](../Page/東京都.md "wikilink")出身
+  - **鶴谷崇**（つるたにたかし、[1970年](../Page/1970年.md "wikilink") - ）キーボード・作曲・アレンジ。[神戸出身](../Page/神戸市.md "wikilink")
       -
-        活動休止後は[矢井田瞳](https://ja.wikipedia.org/wiki/矢井田瞳 "wikilink")、[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")、[吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink")、[THE YELLOW MONKEYなどのライブサポートで活動中](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY "wikilink")
+        活動休止後は[矢井田瞳](https://ja.wikipedia.org/wiki/矢井田瞳 "wikilink")、[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")、[吉井和哉](../Page/吉井和哉.md "wikilink")、[THE YELLOW MONKEYなどのライブサポートで活動中](../Page/THE_YELLOW_MONKEY.md "wikilink")
 
 ## ディスコグラフィー
 

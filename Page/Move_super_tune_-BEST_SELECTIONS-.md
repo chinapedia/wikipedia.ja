@@ -15,34 +15,34 @@
 
 1.  [Gamble Rumble](../Page/Gamble_Rumble.md "wikilink")
       - 映画『[頭文字D](../Page/頭文字D.md "wikilink") Third Stage』主題歌
-2.  [LET'S ROCK\!\!](https://ja.wikipedia.org/wiki/SYNERGY "wikilink")
+2.  [LET'S ROCK\!\!](../Page/SYNERGY.md "wikilink")
 3.  [around the world](https://ja.wikipedia.org/wiki/around_the_world_\(m.o.v.eの曲\) "wikilink")
       - [フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")系アニメ『頭文字D』オープニングテーマソング
-4.  [ROCK IT DOWN](https://ja.wikipedia.org/wiki/ROCK_IT_DOWN "wikilink")
+4.  [ROCK IT DOWN](../Page/ROCK_IT_DOWN.md "wikilink")
       - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』エンディングテーマソング
 5.  [platinum](https://ja.wikipedia.org/wiki/platinum "wikilink")
-      - テレビ東京系『[スキヤキ\!\!ロンドンブーツ大作戦](https://ja.wikipedia.org/wiki/スキヤキ!!ロンドンブーツ大作戦 "wikilink")』オープニングテーマソング
-6.  [Rage your dream](https://ja.wikipedia.org/wiki/Rage_your_dream "wikilink")
+      - テレビ東京系『[スキヤキ\!\!ロンドンブーツ大作戦](../Page/スキヤキ!!ロンドンブーツ大作戦.md "wikilink")』オープニングテーマソング
+6.  [Rage your dream](../Page/Rage_your_dream.md "wikilink")
       - フジテレビ系アニメ『[頭文字D](../Page/頭文字D.md "wikilink")』エンディングテーマ
 7.  [sweet vibration](https://ja.wikipedia.org/wiki/sweet_vibration "wikilink")
-      - [たかの友梨](https://ja.wikipedia.org/wiki/たかの友梨 "wikilink")ビューティクリニックコマーシャルソング
-      - [TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』エンディングテーマソング
-8.  [Operation Overload 7](https://ja.wikipedia.org/wiki/Operation_Overload_7 "wikilink")
-9.  [7 DAYS OF LOVE](https://ja.wikipedia.org/wiki/SYNERGY "wikilink")
-10. [Extasy - in my dream -](https://ja.wikipedia.org/wiki/Operation_Overload_7 "wikilink")
+      - [たかの友梨](../Page/たかの友梨.md "wikilink")ビューティクリニックコマーシャルソング
+      - [TBS系](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』エンディングテーマソング
+8.  [Operation Overload 7](../Page/Operation_Overload_7.md "wikilink")
+9.  [7 DAYS OF LOVE](../Page/SYNERGY.md "wikilink")
+10. [Extasy - in my dream -](../Page/Operation_Overload_7.md "wikilink")
 11. [come together](https://ja.wikipedia.org/wiki/come_together "wikilink")
       - TBS系『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』オープニングテーマソング
-12. [U.S.A.](https://ja.wikipedia.org/wiki/SYNERGY "wikilink")
-13. [Blazin' Beat](https://ja.wikipedia.org/wiki/Blazin'_Beat "wikilink")
+12. [U.S.A.](../Page/SYNERGY.md "wikilink")
+13. [Blazin' Beat](../Page/Blazin'_Beat.md "wikilink")
       - フジテレビ系アニメ『頭文字DーSecond Stageー』オープニングテーマソング
-14. [SUPER SONIC DANCE](https://ja.wikipedia.org/wiki/SUPER_SONIC_DANCE "wikilink")
+14. [SUPER SONIC DANCE](../Page/SUPER_SONIC_DANCE.md "wikilink")
       - テレビ東京系『スキヤキ\!\!ロンドンブーツ大作戦』エンディングテーマソング
 15. [strike on](../Page/Gamble_Rumble.md "wikilink")
       - 映画『頭文字D Third Stage』挿入歌
-16. [FUTURE BREEZE](https://ja.wikipedia.org/wiki/FUTURE_BREEZE "wikilink")
+16. [FUTURE BREEZE](../Page/FUTURE_BREEZE.md "wikilink")
       - TBS系『[CDTV-Neo](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV#CDTV-Neo "wikilink")』オープニングテーマソング
-17. [¡WAKE YOUR LOVE\!](https://ja.wikipedia.org/wiki/¡WAKE_YOUR_LOVE! "wikilink")
-      - テレビ東京系アニメ『[アソボット戦記五九](https://ja.wikipedia.org/wiki/アソボット戦記五九 "wikilink")』エンディングテーマ
+17. [¡WAKE YOUR LOVE\!](../Page/¡WAKE_YOUR_LOVE!.md "wikilink")
+      - テレビ東京系アニメ『[アソボット戦記五九](../Page/アソボット戦記五九.md "wikilink")』エンディングテーマ
 18. [silent white ?](https://ja.wikipedia.org/wiki/worlds_of_the_mind "wikilink")
 
 ## DVD

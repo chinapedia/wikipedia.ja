@@ -14,18 +14,18 @@
 （全作詞：木村カエラ）
 
 1.  **You**
-      - 作詞：渡邊忍／作曲・編曲：[渡邊忍](https://ja.wikipedia.org/wiki/ASPARAGUS "wikilink")
-      - [ネスレコンフェクショナリー](https://ja.wikipedia.org/wiki/ネスレコンフェクショナリー "wikilink")「[キットカット](../Page/キットカット.md "wikilink")」CMソング
+      - 作詞：渡邊忍／作曲・編曲：[渡邊忍](../Page/ASPARAGUS.md "wikilink")
+      - [ネスレコンフェクショナリー](../Page/ネスレコンフェクショナリー.md "wikilink")「[キットカット](../Page/キットカット.md "wikilink")」CMソング
       - [テレビ神奈川](../Page/テレビ神奈川.md "wikilink")『[saku saku](https://ja.wikipedia.org/wiki/saku_saku "wikilink")』 2006年1月度エンディングテーマ
 2.  **PIONEER**
       - 作曲・編曲：[會田茂一](../Page/會田茂一.md "wikilink")
-      - [森永乳業](https://ja.wikipedia.org/wiki/森永乳業 "wikilink")「[エスキモーPino](https://ja.wikipedia.org/wiki/Pino_\(アイスクリーム\) "wikilink")」CMソング（本人もCMに出演）
+      - [森永乳業](../Page/森永乳業.md "wikilink")「[エスキモーPino](../Page/Pino_\(アイスクリーム\).md "wikilink")」CMソング（本人もCMに出演）
 3.  **You（instrumental）**
 4.  **PIONEER（instrumental）**
 
 ## 収録アルバム
 
-  - [Circle](https://ja.wikipedia.org/wiki/Circle_\(木村カエラのアルバム\) "wikilink") (\#1,2)
+  - [Circle](../Page/Circle_\(木村カエラのアルバム\).md "wikilink") (\#1,2)
   - [5years](https://ja.wikipedia.org/wiki/5years "wikilink") (\#1)
   - [10years](https://ja.wikipedia.org/wiki/10years "wikilink") (\#1)
 

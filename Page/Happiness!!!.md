@@ -7,7 +7,7 @@
 
   - この頃から「[saku saku](https://ja.wikipedia.org/wiki/saku_saku "wikilink")」以外の番組にも徐々に出演するようになった。
   - 初回盤には、CD発売イベント応募券が封入されている。
-  - このCD発売イベントは正式オープン前の[横浜BLITZ](https://ja.wikipedia.org/wiki/横浜BLITZ "wikilink")にて行われた。\[1\]
+  - このCD発売イベントは正式オープン前の[横浜BLITZ](../Page/横浜BLITZ.md "wikilink")にて行われた。\[1\]
   - この曲のPVはファンの間で非常に高い人気を誇っており、未だに木村カエラ史上、最高のPVであるとの評価が根強い。
   - また、この曲のPVには本人の友達が多数出演している。
 
@@ -17,7 +17,7 @@
 
 1.  **happiness\!\!\!**
       -
-        [ロート製薬](../Page/ロート製薬.md "wikilink")「セセラ」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")（本人もCMに出演）。
+        [ロート製薬](../Page/ロート製薬.md "wikilink")「セセラ」[CMソング](../Page/コマーシャルソング.md "wikilink")（本人もCMに出演）。
         [NHK受信料家族割引のお知らせのCMソング](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。
         [テレビ神奈川](../Page/テレビ神奈川.md "wikilink")『[saku saku](https://ja.wikipedia.org/wiki/saku_saku "wikilink")』 2004年11月度エンディングテーマ
 2.  **untie**
@@ -26,7 +26,7 @@
 
 ## 収録アルバム
 
-  - [KAELA](https://ja.wikipedia.org/wiki/KAELA "wikilink") (\#1,2、\#2はアルバム・バージョン)
+  - [KAELA](../Page/KAELA.md "wikilink") (\#1,2、\#2はアルバム・バージョン)
   - [5years](https://ja.wikipedia.org/wiki/5years "wikilink") (\#1)
   - [10years](https://ja.wikipedia.org/wiki/10years "wikilink") (\#1)
 

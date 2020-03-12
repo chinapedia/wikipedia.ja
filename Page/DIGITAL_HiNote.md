@@ -13,7 +13,7 @@
 
 ### Digital HiNote
 
-HiNoteシリーズ最初の製品である。433C,450C,475CTの三機種で展開され、CPUはそれぞれ、SL Enhanced [486SX](https://ja.wikipedia.org/wiki/intel_486 "wikilink")/33MHz, DX2/50MHz,DX4/75MHzであった。型番の数字部分下二桁がクロック数を表し、Cはカラー液晶搭載の意。CTはTFTカラー液晶内蔵を示している。 HiNote 475CTの厚さは43.5mmあり、薄さを追求したラインではない。[ニッケル水素バッテリーが採用されており](https://ja.wikipedia.org/wiki/ニッケル・水素蓄電池 "wikilink")、Pentium搭載の後継機であるHiNote VPシリーズでは、[トラックボール](../Page/トラックボール.md "wikilink")が廃止され[タッチパッド](https://ja.wikipedia.org/wiki/タッチパッド "wikilink")に変更された。 廉価版の位置づけではあるが、475CT(FR-P64WC-AJ)の発売時の定価は、458,000円であった。もっとも、当時はTFTカラー液晶が非常に高価だったため、DSTN液晶搭載の450CT(FR-P62WC-AJ)であれば、308,000円となる。
+HiNoteシリーズ最初の製品である。433C,450C,475CTの三機種で展開され、CPUはそれぞれ、SL Enhanced [486SX](https://ja.wikipedia.org/wiki/intel_486 "wikilink")/33MHz, DX2/50MHz,DX4/75MHzであった。型番の数字部分下二桁がクロック数を表し、Cはカラー液晶搭載の意。CTはTFTカラー液晶内蔵を示している。 HiNote 475CTの厚さは43.5mmあり、薄さを追求したラインではない。[ニッケル水素バッテリーが採用されており](https://ja.wikipedia.org/wiki/ニッケル・水素蓄電池 "wikilink")、Pentium搭載の後継機であるHiNote VPシリーズでは、[トラックボール](../Page/トラックボール.md "wikilink")が廃止され[タッチパッド](../Page/タッチパッド.md "wikilink")に変更された。 廉価版の位置づけではあるが、475CT(FR-P64WC-AJ)の発売時の定価は、458,000円であった。もっとも、当時はTFTカラー液晶が非常に高価だったため、DSTN液晶搭載の450CT(FR-P62WC-AJ)であれば、308,000円となる。
 
 ### Digital HiNote Ultra
 
@@ -37,7 +37,7 @@ digital HiNote Ultraシリーズは1スピンドルPCで、FDDは内蔵してい
 
 ### Digital HiNote Ultra 2000
 
-1997年9月に発売された、Digital HiNote Ultra IIの後継機である。 MMX Pentiumを搭載、XGA液晶の採用、Windows95もしくはNT4.0がプリインストールされており、着脱式のCD-ROMドライブを内蔵している。[トラックボール](../Page/トラックボール.md "wikilink")は採用されず、[タッチパッド](https://ja.wikipedia.org/wiki/タッチパッド "wikilink")となった。 当初VTX5166M,GTX5166Mの二機種にそれぞれwindows95,NT4.0をインストールした計4機種で展開された。VTXは12.1inch液晶を、GTXは14.4inch液晶を内蔵しており、底面積はdigital HiNote Ultra / digital HiNote Ultra IIと比べて大きくなっている。厚さはそれぞれ、33mm,36mmで、重量は2.3kg,2.7kgである。厚さ30mm程度、重量1.8kg程度であった従来のHiNote Ultraシリーズと比べると、肥大化が否めない。
+1997年9月に発売された、Digital HiNote Ultra IIの後継機である。 MMX Pentiumを搭載、XGA液晶の採用、Windows95もしくはNT4.0がプリインストールされており、着脱式のCD-ROMドライブを内蔵している。[トラックボール](../Page/トラックボール.md "wikilink")は採用されず、[タッチパッド](../Page/タッチパッド.md "wikilink")となった。 当初VTX5166M,GTX5166Mの二機種にそれぞれwindows95,NT4.0をインストールした計4機種で展開された。VTXは12.1inch液晶を、GTXは14.4inch液晶を内蔵しており、底面積はdigital HiNote Ultra / digital HiNote Ultra IIと比べて大きくなっている。厚さはそれぞれ、33mm,36mmで、重量は2.3kg,2.7kgである。厚さ30mm程度、重量1.8kg程度であった従来のHiNote Ultraシリーズと比べると、肥大化が否めない。
 
 価格は非常に高価で、NT4.0プリインストールのGTX5166M(FR-PG4WJ-AJ)では、1,018,000円と100万円を上回った。
 

@@ -1,16 +1,16 @@
 > この記事は[ \(YMO\)](https://ja.wikipedia.org/wiki/_\(YMO\))から翻訳されています。
 
 
-**マス**（Mass）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽グループ「[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")（YMO）」の5枚目のシングル。または同シングルに収録された曲。シングルは[1981年](../Page/1981年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")に[アルファレコード](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")よりリリースされた。
+**マス**（Mass）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽グループ「[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")（YMO）」の5枚目のシングル。または同シングルに収録された曲。シングルは[1981年](../Page/1981年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")に[アルファレコード](../Page/アルファレコード.md "wikilink")よりリリースされた。
 
 ## 解説
 
-YMOのアルバム『[BGM](https://ja.wikipedia.org/wiki/BGM_\(YMOのアルバム\) "wikilink")』よりシングルカットされた。
+YMOのアルバム『[BGM](../Page/BGM_\(YMOのアルバム\).md "wikilink")』よりシングルカットされた。
 
 ## 収録曲
 
 1.  **マス (Mass)**
-      - 作詞：[細野晴臣](../Page/細野晴臣.md "wikilink")、[ピーター・バラカン](https://ja.wikipedia.org/wiki/ピーター・バラカン "wikilink")／作曲：細野晴臣
+      - 作詞：[細野晴臣](../Page/細野晴臣.md "wikilink")、[ピーター・バラカン](../Page/ピーター・バラカン.md "wikilink")／作曲：細野晴臣
     <!-- end list -->
       -
         歌詞は英語とロシア語で、ピーター・バラカンが歌って（というよりつぶやいて）いる。ピーター・バラカン自身はロシア語は2〜3年位しか勉強しておらず、書店でロシア語の辞書を調べながら歌詞を訳した。[1982年](../Page/1982年.md "wikilink")、[西ドイツ](../Page/西ドイツ.md "wikilink")の[映画](../Page/映画.md "wikilink")「セカンドフェイス」にて使用された（ビデオのパッケージに間違って『音楽：坂本龍一』とクレジットされている）。

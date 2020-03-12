@@ -8,7 +8,7 @@
   - 藤本朗（ボーカル）
   - 湯浅晋（ギター）
   - [臼井孝文](https://ja.wikipedia.org/wiki/臼井OZMA孝文 "wikilink")（ベース）
-  - [高橋和久](https://ja.wikipedia.org/wiki/高橋ロジャー和久 "wikilink")（ドラム）
+  - [高橋和久](../Page/高橋ロジャー和久.md "wikilink")（ドラム）
   - 藤山高浩（キーボード）\*EPs「Outsider」より参加
 
 <!-- end list -->
@@ -22,7 +22,7 @@
 ## 解散後
 
   - 藤本はその後さまざまなバンドで活動したが、現在は音楽学校の講師として活動している。
-  - ギタリストの湯浅晋は渡米し、[オジー・オズボーン](https://ja.wikipedia.org/wiki/オジー・オズボーン "wikilink")バンドのオーディションを受けていたとのことを[YOUNG GUITAR誌の記事に書かれていたことがある](https://ja.wikipedia.org/wiki/YOUNG_GUITAR "wikilink")。現在は日本在住。
+  - ギタリストの湯浅晋は渡米し、[オジー・オズボーン](../Page/オジー・オズボーン.md "wikilink")バンドのオーディションを受けていたとのことを[YOUNG GUITAR誌の記事に書かれていたことがある](../Page/YOUNG_GUITAR.md "wikilink")。現在は日本在住。
   - キーボードの藤山高浩は、so-veryと言うバンドを結成し、その独特な世界観を醸し出している。
   - [2011年](../Page/2011年.md "wikilink")にオリジナルアルバムがデジタルリマスタリングを施した上で再発されている。
 

@@ -1,7 +1,7 @@
 > この記事は[CFL USA](https://ja.wikipedia.org/wiki/CFL_USA)から翻訳されています。
 
 
-**CFL USA**は、90年代にアメリカ国内で[CFLの](https://ja.wikipedia.org/wiki/カナディアン・フットボール・リーグ "wikilink")[エクスパンション](https://ja.wikipedia.org/wiki/エクスパンション "wikilink")の際に設立されたチームのことを指す。[カナディアンフットボール](https://ja.wikipedia.org/wiki/カナディアンフットボール "wikilink")の人気拡大と財務強化を目指す中、93年の[サクラメント・ゴールドマイナーズ](https://ja.wikipedia.org/wiki/サクラメント・ゴールドマイナーズ "wikilink")が初めてアメリカ国内でCFLチームとしてスタートしたが、その多くが1年で活動を停止した。95年には5チームが参加していたが、[バルティモア・スタリオンズ](https://ja.wikipedia.org/wiki/バルティモア・スタリオンズ "wikilink")1チームしか残らず、そのスタリオンズも、[モントリオール](../Page/モントリオール.md "wikilink")に移転し、[モントリオール・アルエッツ](https://ja.wikipedia.org/wiki/モントリオール・アルエッツ "wikilink")となり、96年シーズンスタート時には消滅した。
+**CFL USA**は、90年代にアメリカ国内で[CFLの](../Page/カナディアン・フットボール・リーグ.md "wikilink")[エクスパンション](https://ja.wikipedia.org/wiki/エクスパンション "wikilink")の際に設立されたチームのことを指す。[カナディアンフットボール](../Page/カナディアンフットボール.md "wikilink")の人気拡大と財務強化を目指す中、93年の[サクラメント・ゴールドマイナーズ](https://ja.wikipedia.org/wiki/サクラメント・ゴールドマイナーズ "wikilink")が初めてアメリカ国内でCFLチームとしてスタートしたが、その多くが1年で活動を停止した。95年には5チームが参加していたが、[バルティモア・スタリオンズ](https://ja.wikipedia.org/wiki/バルティモア・スタリオンズ "wikilink")1チームしか残らず、そのスタリオンズも、[モントリオール](../Page/モントリオール.md "wikilink")に移転し、[モントリオール・アルエッツ](../Page/モントリオール・アルエッツ.md "wikilink")となり、96年シーズンスタート時には消滅した。
 
 [バルティモア・スタリオンズ](https://ja.wikipedia.org/wiki/バルティモア・スタリオンズ "wikilink")は、シーズンを東地区2位を収めただけでなく、94年にはアメリカのCFLチームとしては初めて、[グレイ・カップ](https://ja.wikipedia.org/wiki/グレイ・カップ "wikilink")ファイナルに進出し、95年に優勝した。
 

@@ -1,7 +1,7 @@
 > この記事は[Microsoft Most Valuable Professional](https://ja.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)から翻訳されています。
 
 
-**Microsoft Most Valuable Professiona**l(Microsoft MVP)とは[マイクロソフト](../Page/マイクロソフト.md "wikilink")により認定された、同社製品やテクノロジーに対して高度な知識と経験を持ち、[コミュニティー](https://ja.wikipedia.org/wiki/コミュニティー "wikilink")や[メディア](../Page/メディア.md "wikilink")においてその技術を幅広いメンバーと共有している個人を対象とした[表彰](https://ja.wikipedia.org/wiki/表彰 "wikilink")制度、またその受賞者のこと。
+**Microsoft Most Valuable Professiona**l(Microsoft MVP)とは[マイクロソフト](../Page/マイクロソフト.md "wikilink")により認定された、同社製品やテクノロジーに対して高度な知識と経験を持ち、[コミュニティー](https://ja.wikipedia.org/wiki/コミュニティー "wikilink")や[メディア](../Page/メディア.md "wikilink")においてその技術を幅広いメンバーと共有している個人を対象とした[表彰](../Page/表彰.md "wikilink")制度、またその受賞者のこと。
 
 表彰は1年ごとの更新制で、過去1年間における活動内容において審査される。審査基準は公表されていない。審査は毎月行われる。 受賞者は同社との[秘密保持契約](https://ja.wikipedia.org/wiki/秘密保持契約 "wikilink")を結ぶことで、マイクロソフトから技術情報の提供などのサービスをうけることができる。
 

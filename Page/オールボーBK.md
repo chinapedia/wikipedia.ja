@@ -1,9 +1,9 @@
 > この記事は[BK](https://ja.wikipedia.org/wiki/BK)から翻訳されています。
 
 
-**オールボーBK**（）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の北部、[北ユラン地域](https://ja.wikipedia.org/wiki/北ユラン地域 "wikilink")の都市[オールボー](https://ja.wikipedia.org/wiki/オールボー "wikilink")を本拠地とする[スポーツ](../Page/スポーツ.md "wikilink")クラブである。**AaB**と略される。日本語では**アールボリ**、**アールボリBK**と表記されることもある。
+**オールボーBK**（）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の北部、[北ユラン地域](https://ja.wikipedia.org/wiki/北ユラン地域 "wikilink")の都市[オールボー](../Page/オールボー.md "wikilink")を本拠地とする[スポーツ](../Page/スポーツ.md "wikilink")クラブである。**AaB**と略される。日本語では**アールボリ**、**アールボリBK**と表記されることもある。
 
-クラブは[1885年](../Page/1885年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")に[イギリス人](https://ja.wikipedia.org/wiki/イギリス人 "wikilink")の[鉄道](../Page/鉄道.md "wikilink")技師たちによって、**Aalborg Cricketklub**として設立された。その後、[1889年](../Page/1889年.md "wikilink")に**Aalborg Boldbklub**へ、[1906年](../Page/1906年.md "wikilink")に**Aalborg Boldspilklub af 1885**へと名称変更された。
+クラブは[1885年](../Page/1885年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")に[イギリス人](../Page/イギリス人.md "wikilink")の[鉄道](../Page/鉄道.md "wikilink")技師たちによって、**Aalborg Cricketklub**として設立された。その後、[1889年](../Page/1889年.md "wikilink")に**Aalborg Boldbklub**へ、[1906年](../Page/1906年.md "wikilink")に**Aalborg Boldspilklub af 1885**へと名称変更された。
 
 過去には[クリケット](../Page/クリケット.md "wikilink")や[テニス](../Page/テニス.md "wikilink")部門もあったが、現在存在しているのは[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")、[アイスホッケー](../Page/アイスホッケー.md "wikilink")、[ハンドボール](../Page/ハンドボール.md "wikilink")、[バスケットボール](../Page/バスケットボール.md "wikilink")の各部門である。これらの4チームはいずれも国内トップリーグに参加している。
 
@@ -11,7 +11,7 @@
 
 ### 歴史
 
-サッカー部門は1902年に設立された。リーグタイトルは3度で[ブレンビーIF](https://ja.wikipedia.org/wiki/ブレンビーIF "wikilink")や[FCコペンハーゲン](https://ja.wikipedia.org/wiki/FCコペンハーゲン "wikilink")の後塵を拝するが、近年急成長しているクラブである。2007-08シーズンの[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")では1回戦で[サンプドリア](https://ja.wikipedia.org/wiki/サンプドリア "wikilink")を下し、欧州カップ戦でイタリアのクラブを破った初のデンマークのクラブとなった。2008-09シーズンは[欧州チャンピオンズリーグ](https://ja.wikipedia.org/wiki/欧州チャンピオンズリーグ "wikilink")（CL）の予選2回戦から勝ち進み、本戦に出場した。[セルティックからはホームでの勝利を含む勝ち点](https://ja.wikipedia.org/wiki/グラスゴー・セルティック "wikilink")4を獲得した。最終節には[オールド・トラッフォード](https://ja.wikipedia.org/wiki/オールド・トラッフォード "wikilink")で[マンチェスター・ユナイテッド](https://ja.wikipedia.org/wiki/マンチェスター・ユナイテッド "wikilink")に引き分けるなど、CL開幕前に比べて大きく評価を上げた。[ビジャレアルCF](https://ja.wikipedia.org/wiki/ビジャレアルCF "wikilink")に次いで3位にはいり、[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")出場権を獲得した。
+サッカー部門は1902年に設立された。リーグタイトルは3度で[ブレンビーIF](../Page/ブレンビーIF.md "wikilink")や[FCコペンハーゲン](../Page/FCコペンハーゲン.md "wikilink")の後塵を拝するが、近年急成長しているクラブである。2007-08シーズンの[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")では1回戦で[サンプドリア](https://ja.wikipedia.org/wiki/サンプドリア "wikilink")を下し、欧州カップ戦でイタリアのクラブを破った初のデンマークのクラブとなった。2008-09シーズンは[欧州チャンピオンズリーグ](https://ja.wikipedia.org/wiki/欧州チャンピオンズリーグ "wikilink")（CL）の予選2回戦から勝ち進み、本戦に出場した。[セルティックからはホームでの勝利を含む勝ち点](https://ja.wikipedia.org/wiki/グラスゴー・セルティック "wikilink")4を獲得した。最終節には[オールド・トラッフォード](../Page/オールド・トラッフォード.md "wikilink")で[マンチェスター・ユナイテッド](https://ja.wikipedia.org/wiki/マンチェスター・ユナイテッド "wikilink")に引き分けるなど、CL開幕前に比べて大きく評価を上げた。[ビジャレアルCF](../Page/ビジャレアルCF.md "wikilink")に次いで3位にはいり、[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")出場権を獲得した。
 
 ### CLでの繰り上げ出場
 
@@ -61,7 +61,7 @@
 
 ## 現所属選手
 
-  - [2018年](../Page/2018年.md "wikilink")[1月12日](https://ja.wikipedia.org/wiki/1月12日 "wikilink")現在
+  - [2018年](../Page/2018年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")現在
 
 <!-- end list -->
 
@@ -73,7 +73,7 @@
 
 ## 歴代監督
 
-  - [ゼップ・ピオンテック](https://ja.wikipedia.org/wiki/ゼップ・ピオンテック "wikilink") 1995-1996
+  - [ゼップ・ピオンテック](../Page/ゼップ・ピオンテック.md "wikilink") 1995-1996
 
   - [ケント・ニールセン](https://ja.wikipedia.org/wiki/ケント・ニールセン "wikilink") 2010-2015
 
@@ -85,19 +85,19 @@
 
   - [エリック・ボー・アンドレセン](https://ja.wikipedia.org/wiki/エリック・ボー・アンドレセン "wikilink") 1992-1996,2002-2003
 
-  - [イェスパー・グレンケア](https://ja.wikipedia.org/wiki/イェスパー・グレンケア "wikilink") 1995-1998
+  - [イェスパー・グレンケア](../Page/イェスパー・グレンケア.md "wikilink") 1995-1998
 
-  - [アンドレス・オペル](https://ja.wikipedia.org/wiki/アンドレス・オペル "wikilink") 1999-2003
+  - [アンドレス・オペル](../Page/アンドレス・オペル.md "wikilink") 1999-2003
 
-  - [インドレク・ゼリンスキ](https://ja.wikipedia.org/wiki/インドレク・ゼリンスキ "wikilink") 2001-2003
+  - [インドレク・ゼリンスキ](../Page/インドレク・ゼリンスキ.md "wikilink") 2001-2003
 
-  - [トゥーリオ・デ・メロ](https://ja.wikipedia.org/wiki/トゥーリオ・デ・メロ "wikilink") 2004-2005
+  - [トゥーリオ・デ・メロ](../Page/トゥーリオ・デ・メロ.md "wikilink") 2004-2005
 
   - [イェッペ・クルト](https://ja.wikipedia.org/wiki/イェッペ・クルト "wikilink") 2005-2014
 
   - [シヤボンガ・ノムヴェテ](https://ja.wikipedia.org/wiki/シヤボンガ・ノムヴェテ "wikilink") 2006
 
-  - [アンドレーアス・ヨハンソン](https://ja.wikipedia.org/wiki/アンドレーアス・ヨハンソン "wikilink") 2007-2010
+  - [アンドレーアス・ヨハンソン](../Page/アンドレーアス・ヨハンソン.md "wikilink") 2007-2010
 
   - [マイケル・ビューチャンプ](https://ja.wikipedia.org/wiki/マイケル・ビューチャンプ "wikilink") 2008-2009
 

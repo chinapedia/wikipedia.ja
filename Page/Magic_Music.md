@@ -14,7 +14,7 @@
 1.  **Magic Music**
       -
         作曲:[Linus of Hollywood](https://ja.wikipedia.org/wiki/:en:Linus_of_Hollywood "wikilink")
-        [東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")「[gigabeat](https://ja.wikipedia.org/wiki/gigabeat "wikilink")」CMソング
+        [東芝](../Page/東芝.md "wikilink")「[gigabeat](https://ja.wikipedia.org/wiki/gigabeat "wikilink")」CMソング
         [テレビ神奈川](../Page/テレビ神奈川.md "wikilink")「[sakusaku](https://ja.wikipedia.org/wiki/sakusaku "wikilink")」2009年4月第1週エンディングテーマ
 2.  **Hungry like the CHICKEN**
       -
@@ -24,7 +24,7 @@
 
 ## 収録アルバム
 
-  - [Scratch](https://ja.wikipedia.org/wiki/Scratch_\(木村カエラのアルバム\) "wikilink") (\#1)
+  - [Scratch](../Page/Scratch_\(木村カエラのアルバム\).md "wikilink") (\#1)
   - [5years](https://ja.wikipedia.org/wiki/5years "wikilink") (\#1)
   - [10years](https://ja.wikipedia.org/wiki/10years "wikilink") (\#1)
 

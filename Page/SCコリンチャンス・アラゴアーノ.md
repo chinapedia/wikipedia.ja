@@ -21,7 +21,7 @@
 
 ## 歴代所属選手
 
-  - [ドゥッダ](https://ja.wikipedia.org/wiki/カルロス・エドアルド・ベントゥーラ "wikilink") 1997
+  - [ドゥッダ](../Page/カルロス・エドアルド・ベントゥーラ.md "wikilink") 1997
 
   - / [ペペ](https://ja.wikipedia.org/wiki/ケープレル・ラヴェラン・リマ・フェレイラ "wikilink") 2000-2001
 
@@ -31,13 +31,13 @@
 
   - [ゼ・カルロス](https://ja.wikipedia.org/wiki/ジョゼ・カルロス・フェレイラ・フィーリョ "wikilink") 2002
 
-  - [マルシオ・アラウージョ](https://ja.wikipedia.org/wiki/マルシオ・ロドリゲス・アラウージョ "wikilink") 2003
+  - [マルシオ・アラウージョ](../Page/マルシオ・ロドリゲス・アラウージョ.md "wikilink") 2003
 
-  - [ファビオ](https://ja.wikipedia.org/wiki/ジョゼ・ファビオ・サントス・ジ・オリベイラ "wikilink") 2003-2005
+  - [ファビオ](../Page/ジョゼ・ファビオ・サントス・ジ・オリベイラ.md "wikilink") 2003-2005
 
-  - [マルコス・アントニオ](https://ja.wikipedia.org/wiki/マルコス・アントニオ・ナシメント・サントス "wikilink") 2004-2006
+  - [マルコス・アントニオ](../Page/マルコス・アントニオ・ナシメント・サントス.md "wikilink") 2004-2006
 
-  - [エドゥアルド](https://ja.wikipedia.org/wiki/エドゥアルド・ダ・コンセイサン・マシエル "wikilink") 2005, 2006
+  - [エドゥアルド](../Page/エドゥアルド・ダ・コンセイサン・マシエル.md "wikilink") 2005, 2006
 
   - [アレシャンドレ・ダ・シルバ・ガブリエル](../Page/アレシャンドレ・ダ・シルバ・ガブリエル.md "wikilink") 2005-2006
 
@@ -45,11 +45,11 @@
 
   - [レイナウド](https://ja.wikipedia.org/wiki/レイナルド・ゴンサルヴェス・フェリックス "wikilink") 2005-2007, 2008
 
-  - [エウピジオ・ペレイラ・ダ・シルバ・フィーリョ](https://ja.wikipedia.org/wiki/エウピジオ・ペレイラ・ダ・シルバ・フィーリョ "wikilink") 2006
+  - [エウピジオ・ペレイラ・ダ・シルバ・フィーリョ](../Page/エウピジオ・ペレイラ・ダ・シルバ・フィーリョ.md "wikilink") 2006
 
-  - [エジナウド](https://ja.wikipedia.org/wiki/エジナウド・バチスタ・ドス・サントス "wikilink") 2006
+  - [エジナウド](../Page/エジナウド・バチスタ・ドス・サントス.md "wikilink") 2006
 
-  - [アレシャンドレ・グラール](https://ja.wikipedia.org/wiki/アレシャンドレ・ルイス・グラール "wikilink") 2006, 2009
+  - [アレシャンドレ・グラール](../Page/アレシャンドレ・ルイス・グラール.md "wikilink") 2006, 2009
 
   - [トジン](https://ja.wikipedia.org/wiki/ウェリットン・デ・モライス・コインブラ "wikilink") 2008, 2009
 
@@ -61,7 +61,7 @@
 
   - [ファグネル](https://ja.wikipedia.org/wiki/ファグネル・ヒベイロ・ダ・コスタ "wikilink") 2010, 2011
 
-  - [エブソン](https://ja.wikipedia.org/wiki/エブソン・パトリシオ・ヴァスコンセロス・ド・ナシメント "wikilink") 2013- ( [カマタマーレ讃岐](https://ja.wikipedia.org/wiki/カマタマーレ讃岐 "wikilink")に[期限付き移籍](../Page/期限付き移籍.md "wikilink")中)
+  - [エブソン](https://ja.wikipedia.org/wiki/エブソン・パトリシオ・ヴァスコンセロス・ド・ナシメント "wikilink") 2013- ( [カマタマーレ讃岐](../Page/カマタマーレ讃岐.md "wikilink")に[期限付き移籍](../Page/期限付き移籍.md "wikilink")中)
 
 ## 外部リンク
 

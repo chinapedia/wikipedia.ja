@@ -1,18 +1,18 @@
 > この記事は[Time after time \(EARTH\)](https://ja.wikipedia.org/wiki/Time_after_time_\(EARTH\))から翻訳されています。
 
 
-「**time after time**」（タイム・アフター・タイム）は、日本の歌手グループ、[EARTHのデビューシングル](https://ja.wikipedia.org/wiki/EARTH_\(歌手グループ\) "wikilink")。[2000年](../Page/2000年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")発売。
+「**time after time**」（タイム・アフター・タイム）は、日本の歌手グループ、[EARTHのデビューシングル](../Page/EARTH_\(歌手グループ\).md "wikilink")。[2000年](../Page/2000年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")発売。
 
 ## 解説
 
   - 彼女たちのリリースした全シングル・アルバムの中で最も売れた作品である。
-  - 「[第42回日本レコード大賞](https://ja.wikipedia.org/wiki/第42回日本レコード大賞 "wikilink")新人賞」・「第33回 [日本有線大賞](https://ja.wikipedia.org/wiki/日本有線大賞 "wikilink") 有線音楽賞」受賞曲。
+  - 「[第42回日本レコード大賞](https://ja.wikipedia.org/wiki/第42回日本レコード大賞 "wikilink")新人賞」・「第33回 [日本有線大賞](../Page/日本有線大賞.md "wikilink") 有線音楽賞」受賞曲。
 
 ## タイアップ
 
   - **time after time**
-      - [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[バーチャルガール](https://ja.wikipedia.org/wiki/バーチャルガール_\(テレビドラマ\) "wikilink")』挿入歌
-      - [江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")「ムース[ポッキー](https://ja.wikipedia.org/wiki/ポッキー "wikilink")」CMソング
+      - [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[バーチャルガール](../Page/バーチャルガール_\(テレビドラマ\).md "wikilink")』挿入歌
+      - [江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")「ムース[ポッキー](../Page/ポッキー.md "wikilink")」CMソング
   - **Everything**
       - [江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")「ポイカジ」CMソング
 

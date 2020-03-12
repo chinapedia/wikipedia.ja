@@ -1,7 +1,7 @@
 > この記事は[WHO AM I\?](https://ja.wikipedia.org/wiki/WHO_AM_I\?)から翻訳されています。
 
 
-『**WHO AM I?**』（フーアムアイ、原題: *我是誰?*、英語題: *Who am I?*）は[1998年制作の](https://ja.wikipedia.org/wiki/1998年の映画 "wikilink")、[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")主演の香港映画。
+『**WHO AM I?**』（フーアムアイ、原題: *我是誰?*、英語題: *Who am I?*）は[1998年制作の](../Page/1998年の映画.md "wikilink")、[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")主演の香港映画。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 クライマックス、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の高層ビル上で展開する過激なスタント・アクションは、ジャッキー自身が選んだ傑作スタント10本の1つに数えている。
 
-ジャッキーの90年代の集大成と言われているのが本作である。ここでともに監督をした[ベニー・チャン](https://ja.wikipedia.org/wiki/ベニー・チャン "wikilink")の腕を買ったジャッキーは後にも彼と組むことになる。
+ジャッキーの90年代の集大成と言われているのが本作である。ここでともに監督をした[ベニー・チャン](../Page/ベニー・チャン.md "wikilink")の腕を買ったジャッキーは後にも彼と組むことになる。
 
 日本では諸事情より1年半年で遅く公開された。日本出身のタレント、[ミシェル・フェレ](https://ja.wikipedia.org/wiki/ミシェル・フェレ "wikilink")と[山本未来](https://ja.wikipedia.org/wiki/山本未来 "wikilink")の2人がダブルヒロインとして登場。ミシェルと山本は本作の日本語吹替版で自身の役を自ら吹き替えている。ビデオ・DVD『[ジャッキー・チェン マイ・スタント](https://ja.wikipedia.org/wiki/ジャッキー・チェン_マイ・スタント "wikilink")』の弟1巻に本作のカーアクションやビルの屋上の対決シーンのメイキングが収録されている。
 
@@ -35,33 +35,33 @@
 <tr class="odd">
 <td><p>ソフト版</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>版</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ朝日" title="wikilink">テレビ朝日</a>版</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>版</p></td>
 </tr>
 <tr class="even">
 <td><p>523号(フーアムアイ)<br />
 CIA香港支局員ジャッキー</p></td>
 <td><p><a href="../Page/ジャッキー・チェン.md" title="wikilink">ジャッキー・チェン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石丸博也" title="wikilink">石丸博也</a></p></td>
+<td><p><a href="../Page/石丸博也.md" title="wikilink">石丸博也</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>クリスティーン</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ミシェル・フェレ" title="wikilink">ミシェル・フェレ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/冬馬由美" title="wikilink">冬馬由美</a></p></td>
+<td><p><a href="../Page/冬馬由美.md" title="wikilink">冬馬由美</a></p></td>
 </tr>
 <tr class="even">
 <td><p>オオサト・ユキ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山本未來" title="wikilink">山本未來</a></p></td>
+<td><p><a href="../Page/山本未來.md" title="wikilink">山本未來</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/吉田陽子" title="wikilink">吉田陽子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>モーガン局員</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロン・スメルチャク" title="wikilink">ロン・スメルチャク</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/有本欽隆" title="wikilink">有本欽隆</a></p></td>
+<td><p><a href="../Page/有本欽隆.md" title="wikilink">有本欽隆</a></p></td>
 </tr>
 <tr class="even">
 <td><p>シャーマン将軍</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エド・ネルソン" title="wikilink">エド・ネルソン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/村松康雄" title="wikilink">村松康雄</a></p></td>
+<td><p><a href="../Page/村松康雄.md" title="wikilink">村松康雄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>日本人特殊部隊員・タケシ</p></td>
@@ -73,7 +73,7 @@ CIA香港支局員ジャッキー</p></td>
 
 ## スタッフ
 
-  - 監督/[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")、[ベニー・チャン](https://ja.wikipedia.org/wiki/ベニー・チャン "wikilink")
+  - 監督/[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")、[ベニー・チャン](../Page/ベニー・チャン.md "wikilink")
   - 脚本/[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")、スーザン・チャン、リー・レイノルズ
   - 製作総指揮/レナード・ホー
   - 製作/バービー・タン
@@ -84,19 +84,19 @@ CIA香港支局員ジャッキー</p></td>
 
   - 日本語版スタッフ
 
-|         |                                                          |                                                          |
-| ------- | -------------------------------------------------------- | -------------------------------------------------------- |
-| ソフト版    | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")版 | [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")版 |
-| 演出      |                                                          | 春日一伸                                                     |
-| 翻訳      |                                                          | 徐賀世子                                                     |
-| 調整      |                                                          |                                                          |
-| 効果      |                                                          |                                                          |
-| プロデューサー |                                                          |                                                          |
-| 担当      |                                                          |                                                          |
-| 配給      |                                                          |                                                          |
-| 制作協力    |                                                          |                                                          |
-| 製作      |                                                          | ACクリエイト                                                  |
-| 初回放送    |                                                          |                                                          |
+|         |                                                          |                                       |
+| ------- | -------------------------------------------------------- | ------------------------------------- |
+| ソフト版    | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")版 | [テレビ朝日](../Page/テレビ朝日.md "wikilink")版 |
+| 演出      |                                                          | 春日一伸                                  |
+| 翻訳      |                                                          | 徐賀世子                                  |
+| 調整      |                                                          |                                       |
+| 効果      |                                                          |                                       |
+| プロデューサー |                                                          |                                       |
+| 担当      |                                                          |                                       |
+| 配給      |                                                          |                                       |
+| 制作協力    |                                                          |                                       |
+| 製作      |                                                          | ACクリエイト                               |
+| 初回放送    |                                                          |                                       |
 
 ## ロケ地
 

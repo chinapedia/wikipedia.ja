@@ -3,15 +3,15 @@
 
 **パフタコール・タシュケントFK**（**Pakhtakor Tashkent FK**, , ）は、[ウズベキスタン](../Page/ウズベキスタン.md "wikilink")の首都[タシュケント](../Page/タシュケント.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
-[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")時代は、[ソ連1部リーグに昇格した唯一のウズベキスタンのクラブであった](https://ja.wikipedia.org/wiki/ソビエト連邦サッカーリーグ "wikilink")。1部には合計22シーズン在籍し、最高順位は[1962年](../Page/1962年.md "wikilink")と[1982年](../Page/1982年.md "wikilink")シーズンの6位である。このうち、1982年の6位は、[1979年](../Page/1979年.md "wikilink")に発生した航空機事故（[1979年ドニプロゼルジーンシク空中衝突事故](https://ja.wikipedia.org/wiki/1979年ドニプロゼルジーンシク空中衝突事故 "wikilink")）によって、[ディナモ・ミンスク](https://ja.wikipedia.org/wiki/ディナモ・ミンスク "wikilink")とのリーグ戦のために[白ロシア](https://ja.wikipedia.org/wiki/白ロシア・ソビエト社会主義共和国 "wikilink")（現[ベラルーシ](../Page/ベラルーシ.md "wikilink")）の[ミンスク](https://ja.wikipedia.org/wiki/ミンスク "wikilink")に向かっていた監督を含む17人の選手・スタッフが死亡した悲劇を乗り越えての成果だった。
+[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")時代は、[ソ連1部リーグに昇格した唯一のウズベキスタンのクラブであった](../Page/ソビエト連邦サッカーリーグ.md "wikilink")。1部には合計22シーズン在籍し、最高順位は[1962年](../Page/1962年.md "wikilink")と[1982年](../Page/1982年.md "wikilink")シーズンの6位である。このうち、1982年の6位は、[1979年](../Page/1979年.md "wikilink")に発生した航空機事故（[1979年ドニプロゼルジーンシク空中衝突事故](https://ja.wikipedia.org/wiki/1979年ドニプロゼルジーンシク空中衝突事故 "wikilink")）によって、[ディナモ・ミンスク](https://ja.wikipedia.org/wiki/ディナモ・ミンスク "wikilink")とのリーグ戦のために[白ロシア](../Page/白ロシア・ソビエト社会主義共和国.md "wikilink")（現[ベラルーシ](../Page/ベラルーシ.md "wikilink")）の[ミンスク](../Page/ミンスク.md "wikilink")に向かっていた監督を含む17人の選手・スタッフが死亡した悲劇を乗り越えての成果だった。
 
-[USSRカップ](https://ja.wikipedia.org/wiki/USSRカップ "wikilink")では、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に中央アジアのクラブとしては唯一となる決勝進出を果たして、準優勝している。
+[USSRカップ](../Page/USSRカップ.md "wikilink")では、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に中央アジアのクラブとしては唯一となる決勝進出を果たして、準優勝している。
 
-[ソ連崩壊](https://ja.wikipedia.org/wiki/ソ連崩壊 "wikilink")によるウズベキスタンの独立で成立したウズベク・リーグでは、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")の第1回リーグで[ネフチ・フェルガナ](https://ja.wikipedia.org/wiki/ネフチ・フェルガナ "wikilink")と同ポイントで優勝を分け合い、[2002年](../Page/2002年.md "wikilink")から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")までに6シーズン連続で優勝した。[2003年](../Page/2003年.md "wikilink")に始まった[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")の常連であり、[2003年と](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2002-2003 "wikilink")[2004年には準決勝に進出した](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2004 "wikilink")。
+[ソ連崩壊](../Page/ソ連崩壊.md "wikilink")によるウズベキスタンの独立で成立したウズベク・リーグでは、[1992年](../Page/1992年.md "wikilink")の第1回リーグで[ネフチ・フェルガナ](https://ja.wikipedia.org/wiki/ネフチ・フェルガナ "wikilink")と同ポイントで優勝を分け合い、[2002年](../Page/2002年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")までに6シーズン連続で優勝した。[2003年](../Page/2003年.md "wikilink")に始まった[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")の常連であり、[2003年と](../Page/AFCチャンピオンズリーグ2002-2003.md "wikilink")[2004年には準決勝に進出した](../Page/AFCチャンピオンズリーグ2004.md "wikilink")。
 
 2009年7月、[ACL準決勝を前にして](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2009 "wikilink")、[イグナティ・ネステロフ](https://ja.wikipedia.org/wiki/イグナティ・ネステロフ "wikilink")を始めとする11人の選手が他のクラブに移籍する事態が発生。\[1\]
 
-その後[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")でグループリーグ敗退し、国内でもネフチ・フェルガナに代わって台頭した同じタシュケントを本拠地とするライバルの[FCブニョドコル](https://ja.wikipedia.org/wiki/FCブニョドコル "wikilink")に4連覇を成し遂げられるなど低迷の兆しが見られたが、[柴村直弥](https://ja.wikipedia.org/wiki/柴村直弥 "wikilink")が在籍した2012シーズンに5年ぶり9回目の優勝を成し遂げた。[2014年](../Page/2014年.md "wikilink")シーズンも優勝し、同リーグで初めて優勝回数が10回となった。
+その後[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")でグループリーグ敗退し、国内でもネフチ・フェルガナに代わって台頭した同じタシュケントを本拠地とするライバルの[FCブニョドコル](../Page/FCブニョドコル.md "wikilink")に4連覇を成し遂げられるなど低迷の兆しが見られたが、[柴村直弥](../Page/柴村直弥.md "wikilink")が在籍した2012シーズンに5年ぶり9回目の優勝を成し遂げた。[2014年](../Page/2014年.md "wikilink")シーズンも優勝し、同リーグで初めて優勝回数が10回となった。
 
 ## タイトル
 
@@ -26,7 +26,7 @@
 
 ### 国際タイトル
 
-  - **[CISカップ](https://ja.wikipedia.org/wiki/CISカップ "wikilink") : 1回**
+  - **[CISカップ](../Page/CISカップ.md "wikilink") : 1回**
       -
         2007
 
@@ -38,7 +38,7 @@
 
 ## 歴代監督
 
-  - [ヴァレリー・ニポムニシ](https://ja.wikipedia.org/wiki/ヴァレリー・ニポムニシ "wikilink") 2006
+  - [ヴァレリー・ニポムニシ](../Page/ヴァレリー・ニポムニシ.md "wikilink") 2006
 
 ## 歴代所属選手
 
@@ -56,7 +56,7 @@
 
   - [ボヤン・ミラディノヴィッチ](https://ja.wikipedia.org/wiki/ボヤン・ミラディノヴィッチ "wikilink") 2009-2014
 
-  - [柴村直弥](https://ja.wikipedia.org/wiki/柴村直弥 "wikilink") 2012
+  - [柴村直弥](../Page/柴村直弥.md "wikilink") 2012
 
 ### MF
 

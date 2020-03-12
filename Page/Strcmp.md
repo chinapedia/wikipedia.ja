@@ -1,7 +1,7 @@
 > この記事は[Strcmp](https://ja.wikipedia.org/wiki/Strcmp)から翻訳されています。
 
 
-**strcmp**は2つの文字列を比較 (compare) する[C言語](../Page/C言語.md "wikilink")の[関数である](https://ja.wikipedia.org/wiki/サブルーチン "wikilink")。 [標準Cライブラリ](https://ja.wikipedia.org/wiki/標準Cライブラリ "wikilink")の文字列操作関数群が宣言されている[ヘッダーファイル](https://ja.wikipedia.org/wiki/ヘッダーファイル "wikilink") `string.h` に含まれる。 **ストリングコンペア**、**ストリングコンプ**などと呼ばれることが多い。
+**strcmp**は2つの文字列を比較 (compare) する[C言語](../Page/C言語.md "wikilink")の[関数である](../Page/サブルーチン.md "wikilink")。 [標準Cライブラリ](../Page/標準Cライブラリ.md "wikilink")の文字列操作関数群が宣言されている[ヘッダーファイル](https://ja.wikipedia.org/wiki/ヘッダーファイル "wikilink") `string.h` に含まれる。 **ストリングコンペア**、**ストリングコンプ**などと呼ばれることが多い。
 
 ## 書式
 
@@ -49,7 +49,7 @@ int strcasecmp(const char *s1, const char *s2);
 int strncasecmp(const char *s1, const char *s2, size_t n);
 ```
 
-  - [IBM i](https://ja.wikipedia.org/wiki/IBM_i "wikilink")
+  - [IBM i](../Page/IBM_i.md "wikilink")
 
 \[2\]\[3\]\[4\]\[5\]\[6\]
 
@@ -62,7 +62,7 @@ int srtcasecmp(const char *string1, const char *string2);
 int strncasecmp(const char *string1, const char *string2, size_t count);
 ```
 
-  - [Microsoft Visual C++](https://ja.wikipedia.org/wiki/Microsoft_Visual_C++ "wikilink")
+  - [Microsoft Visual C++](../Page/Microsoft_Visual_C++.md "wikilink")
 
 \[7\]\[8\]
 

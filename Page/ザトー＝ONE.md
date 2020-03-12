@@ -1,7 +1,7 @@
 > この記事は[ONE](https://ja.wikipedia.org/wiki/ONE)から翻訳されています。
 
 
-**ザトー＝ONE**（ザトー・ワン）は、2D対戦格闘ゲーム「[GUILTY GEARシリーズ](https://ja.wikipedia.org/wiki/GUILTY_GEARシリーズ "wikilink")」に登場する架空の人物。『GUILTY GEAR XX』では設定の関係から**エディ**と名を変える。担当声優はザトーを[塩沢兼人](../Page/塩沢兼人.md "wikilink")、エディ及びドラマCD、Xrdのザトーは[子安武人](../Page/子安武人.md "wikilink")。
+**ザトー＝ONE**（ザトー・ワン）は、2D対戦格闘ゲーム「[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")」に登場する架空の人物。『GUILTY GEAR XX』では設定の関係から**エディ**と名を変える。担当声優はザトーを[塩沢兼人](../Page/塩沢兼人.md "wikilink")、エディ及びドラマCD、Xrdのザトーは[子安武人](../Page/子安武人.md "wikilink")。
 
 ## 概要
 
@@ -67,7 +67,7 @@ GGXrdにて、主であるザトーと共に元老院の手で再び生を受け
   - 飛行 \[GGX\~\] (空中専用)
     2段ジャンプコマンド時に一定時間飛行する。
   - ブレイク・ザ・ロウ \[GGX\~\] (⇒シャドウギャラリー)
-    影に身を潜める。潜行時間が長いほど地上に復帰する際の隙が大きい。追加入力でシャドウギャラリーに派生。名前はイギリスのヘヴィメタルバンド[ジューダス・プリースト](https://ja.wikipedia.org/wiki/ジューダス・プリースト "wikilink")の「[ブレイキング・ザ・ロウ](https://ja.wikipedia.org/wiki/ブリティッシュ・スティール "wikilink")」という曲から。
+    影に身を潜める。潜行時間が長いほど地上に復帰する際の隙が大きい。追加入力でシャドウギャラリーに派生。名前はイギリスのヘヴィメタルバンド[ジューダス・プリースト](../Page/ジューダス・プリースト.md "wikilink")の「[ブレイキング・ザ・ロウ](https://ja.wikipedia.org/wiki/ブリティッシュ・スティール "wikilink")」という曲から。
   - シャドウギャラリー \[GGX\~\] (空中専用／FRC)
     相手の足元から姿を現し、鋭い牙で噛み付く奇襲技。ΛCではヒット時にスライドダウンを誘発。
   - ダムドファング \[GGX\~\] (FRC)
@@ -101,7 +101,7 @@ GGXrdにて、主であるザトーと共に元老院の手で再び生を受け
   - インヴァイトヘル・チャージアタック \[GG\]
     インヴァイトヘルを三段階まで強化する。レベルによってドリルの本数が増える。
   - ライズアンドフォール \[GG\]
-    相手を叩き上げ、無防備な所を瞬時に殴り落とす。名前はドイツのヘヴィメタルバンド[ハロウィンの](https://ja.wikipedia.org/wiki/ハロウィン_\(バンド\) "wikilink")「Rise And Fall」という曲から。
+    相手を叩き上げ、無防備な所を瞬時に殴り落とす。名前はドイツのヘヴィメタルバンド[ハロウィンの](../Page/ハロウィン_\(バンド\).md "wikilink")「Rise And Fall」という曲から。
   - 闇かかと \[GG\]
     足に影の刃をつけた状態でかかと落しをする。名前が付いているのは初代までで、以降は通常技になっている。
 
@@ -130,7 +130,7 @@ GGXrdにて、主であるザトーと共に元老院の手で再び生を受け
 ### 一撃必殺技
 
   - フィアオブザダーク \[GG\]
-    巨大な手に変化させた影で、相手を握りつぶす。由来は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンド[アイアン・メイデン](https://ja.wikipedia.org/wiki/アイアン・メイデン "wikilink")のアルバム『[フィア・オブ・ザ・ダーク](https://ja.wikipedia.org/wiki/フィア・オブ・ザ・ダーク "wikilink")』から。
+    巨大な手に変化させた影で、相手を握りつぶす。由来は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンド[アイアン・メイデン](../Page/アイアン・メイデン.md "wikilink")のアルバム『[フィア・オブ・ザ・ダーク](../Page/フィア・オブ・ザ・ダーク.md "wikilink")』から。
   - ブラック・イン・マインド \[GGX\~\]
     手刀で攻撃。ヒット時には具現化された女神の顔が割れて、死神が姿を現す。攻撃判定は狭いが空中ガードが不能であり、対空技である。
   - グズマニア・マグニフィカ \[Xrd\]
@@ -171,8 +171,8 @@ GGXrdにて、主であるザトーと共に元老院の手で再び生を受け
 
 ## 関連項目
 
-  - [GUILTY GEARシリーズ](https://ja.wikipedia.org/wiki/GUILTY_GEARシリーズ "wikilink")
-  - [GUILTY GEARの用語集](https://ja.wikipedia.org/wiki/GUILTY_GEARの用語集 "wikilink")
+  - [GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")
+  - [GUILTY GEARの用語集](../Page/GUILTY_GEARの用語集.md "wikilink")
 
 [en:List of Guilty Gear characters\#Zato-1](https://ja.wikipedia.org/wiki/en:List_of_Guilty_Gear_characters#Zato-1 "wikilink")
 

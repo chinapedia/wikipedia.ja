@@ -1,7 +1,7 @@
 > この記事は[H-code](https://ja.wikipedia.org/wiki/H-code)から翻訳されています。
 
 
-『**H-code〜愛しき賞金稼ぎ〜**』（ハンター・コード〜いとしきしょうきんかせぎ〜）は、[朝日放送で](../Page/朝日放送テレビ.md "wikilink")[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月13日](../Page/1月13日.md "wikilink")から[3月10日](../Page/3月10日.md "wikilink")まで、毎週[土曜日](../Page/土曜日.md "wikilink")に[深夜放送](../Page/深夜放送.md "wikilink")されていた[土曜ナイトドラマである](https://ja.wikipedia.org/wiki/土曜ナイトドラマ_\(ABC\) "wikilink")。なお、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")28日・29日（正確には日付が変わって翌29・30日）に2夜連続の[続編](https://ja.wikipedia.org/wiki/続編 "wikilink")（スペシャル版）が放送された。 また、このスペシャル版も含めたDVDが[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月25日](../Page/7月25日.md "wikilink")に [ジェネオン・ユニバーサル・エンターテイメント](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメント "wikilink")から発売されている。
+『**H-code〜愛しき賞金稼ぎ〜**』（ハンター・コード〜いとしきしょうきんかせぎ〜）は、[朝日放送で](../Page/朝日放送テレビ.md "wikilink")[2007年](../Page/2007年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")から[3月10日](../Page/3月10日.md "wikilink")まで、毎週[土曜日](../Page/土曜日.md "wikilink")に[深夜放送](../Page/深夜放送.md "wikilink")されていた[土曜ナイトドラマである](https://ja.wikipedia.org/wiki/土曜ナイトドラマ_\(ABC\) "wikilink")。なお、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")28日・29日（正確には日付が変わって翌29・30日）に2夜連続の[続編](../Page/続編.md "wikilink")（スペシャル版）が放送された。 また、このスペシャル版も含めたDVDが[2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に [ジェネオン・ユニバーサル・エンターテイメント](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメント "wikilink")から発売されている。
 
 ## 概要
 
@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - 西木戸レナ：[蒲生麻由](https://ja.wikipedia.org/wiki/蒲生麻由 "wikilink")
+  - 西木戸レナ：[蒲生麻由](../Page/蒲生麻由.md "wikilink")
 
 <!-- end list -->
 
@@ -36,7 +36,7 @@
 
 <!-- end list -->
 
-  - ネビュラ：[谷麻紗美](https://ja.wikipedia.org/wiki/谷麻紗美 "wikilink")
+  - ネビュラ：[谷麻紗美](../Page/谷麻紗美.md "wikilink")
 
 <!-- end list -->
 
@@ -45,7 +45,7 @@
 
 <!-- end list -->
 
-  - ハラダ：[唐渡亮](https://ja.wikipedia.org/wiki/唐渡亮 "wikilink")
+  - ハラダ：[唐渡亮](../Page/唐渡亮.md "wikilink")
 
 <!-- end list -->
 
@@ -53,11 +53,11 @@
     NOPD（ネオ・オオサカ・ポリス・デパートメント）警視（最終回の1時間SPでは警部）。Ｊにはいつも出し抜かれるが、ここ一番では必ず融通の利かない官僚ぶりを発揮する。
     誤射事件を起こし窮地に立たされたところをリヒテルに救われた過去を持つ。
     「2nd」ではNOPD本部長に昇進し、NNPA長官令嬢誘拐事件の捜査指揮を執る。
-    演じる唐渡亮は｢[部長刑事](https://ja.wikipedia.org/wiki/部長刑事 "wikilink")シリーズ・シンマイ。｣でも同姓の｢原田優警部｣を演じている。他のサブキャストにも同作に出演していた役者が多数充てられている。
+    演じる唐渡亮は｢[部長刑事](../Page/部長刑事.md "wikilink")シリーズ・シンマイ。｣でも同姓の｢原田優警部｣を演じている。他のサブキャストにも同作に出演していた役者が多数充てられている。
 
 <!-- end list -->
 
-  - マスター（セルゲイ・リヒテル）：[井之上チャル](https://ja.wikipedia.org/wiki/井之上チャル "wikilink")
+  - マスター（セルゲイ・リヒテル）：[井之上チャル](../Page/井之上チャル.md "wikilink")
 
 <!-- end list -->
 
@@ -75,7 +75,7 @@
 
 <!-- end list -->
 
-  - ヤマモト：[渋谷天外](https://ja.wikipedia.org/wiki/渋谷天外_\(3代目\) "wikilink")
+  - ヤマモト：[渋谷天外](../Page/渋谷天外_\(3代目\).md "wikilink")
 
 <!-- end list -->
 
@@ -84,7 +84,7 @@
 
 <!-- end list -->
 
-  - A〜エース：[鳥羽潤](https://ja.wikipedia.org/wiki/鳥羽潤 "wikilink")
+  - A〜エース：[鳥羽潤](../Page/鳥羽潤.md "wikilink")
 
 <!-- end list -->
 
@@ -102,7 +102,7 @@
 
 <!-- end list -->
 
-  - O〜ゼロ：[的場浩司](https://ja.wikipedia.org/wiki/的場浩司 "wikilink")
+  - O〜ゼロ：[的場浩司](../Page/的場浩司.md "wikilink")
 
 <!-- end list -->
 
@@ -111,22 +111,22 @@
 
 <!-- end list -->
 
-  - サクラギ・エミリー：[中山エミリ](https://ja.wikipedia.org/wiki/中山エミリ "wikilink")
-  - サルマン・ハシミコフ・ヨハン：[ROLLY](https://ja.wikipedia.org/wiki/ROLLY "wikilink")
-  - NOPD刑事局長（「2nd」ではNNPA長官）：[妹尾和夫](https://ja.wikipedia.org/wiki/妹尾和夫 "wikilink")
+  - サクラギ・エミリー：[中山エミリ](../Page/中山エミリ.md "wikilink")
+  - サルマン・ハシミコフ・ヨハン：[ROLLY](../Page/ROLLY.md "wikilink")
+  - NOPD刑事局長（「2nd」ではNNPA長官）：[妹尾和夫](../Page/妹尾和夫.md "wikilink")
 
 ## スタッフ
 
   - 脚本：[八津弘幸](https://ja.wikipedia.org/wiki/八津弘幸 "wikilink")
   - 音楽：[諸橋邦行](https://ja.wikipedia.org/wiki/諸橋邦行 "wikilink")
   - チーフプロデューサー：[森山浩一](https://ja.wikipedia.org/wiki/森山浩一 "wikilink")
-  - プロデューサー：[内片輝](https://ja.wikipedia.org/wiki/内片輝 "wikilink")、[松下洋幸](https://ja.wikipedia.org/wiki/松下洋幸 "wikilink")
+  - プロデューサー：[内片輝](../Page/内片輝.md "wikilink")、[松下洋幸](https://ja.wikipedia.org/wiki/松下洋幸 "wikilink")
   - 監督：内片輝　小河久史　元村次宏　山口正紘
   - 制作：ABC
 
 ## 主題歌
 
-  - 『ドクロ町ツイスト』[クレイジーケンバンド](https://ja.wikipedia.org/wiki/クレイジーケンバンド "wikilink")
+  - 『ドクロ町ツイスト』[クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")
 
 ## サブタイトル
 
@@ -142,7 +142,7 @@
 
 ## 各地の放送時間
 
-本作は朝日放送製作の[関西ローカル](https://ja.wikipedia.org/wiki/関西ローカル "wikilink")番組であるが、[番組販売](../Page/番組販売.md "wikilink")の形で関西以外の一部[ANN系列局でも放送されている](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")。（カッコ内は放送を開始した日）
+本作は朝日放送製作の[関西ローカル](../Page/関西ローカル.md "wikilink")番組であるが、[番組販売](../Page/番組販売.md "wikilink")の形で関西以外の一部[ANN系列局でも放送されている](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")。（カッコ内は放送を開始した日）
 
   - 毎週土曜深夜0時30分〜1時00分[朝日放送](../Page/朝日放送テレビ.md "wikilink") (ABC)（製作局）
   - 毎週水曜深夜1時15分〜1時45分[青森朝日放送](../Page/青森朝日放送.md "wikilink") (ABA)（1月31日）

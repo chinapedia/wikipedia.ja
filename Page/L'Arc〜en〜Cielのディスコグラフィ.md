@@ -3,12 +3,12 @@
 
 L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")がこれまでに発売した全作品についてまとめた項。
 
-  - [CD等の発売元の](../Page/コンパクトディスク.md "wikilink")[レコードレーベル](../Page/レコードレーベル.md "wikilink")は、特記事項がない限り[キューンミュージック](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")からの発売となる。
+  - [CD等の発売元の](../Page/コンパクトディスク.md "wikilink")[レコードレーベル](../Page/レコードレーベル.md "wikilink")は、特記事項がない限り[キューンミュージック](../Page/キューンミュージック.md "wikilink")からの発売となる。
   - 書籍はオフィシャルで出版されたもののみを記載。
 
 ## シングル
 
-  - オリコン最高順位が**太字**の作品は[日本レコード協会](https://ja.wikipedia.org/wiki/日本レコード協会 "wikilink")認定の[ゴールドディスク以上認定作品](https://ja.wikipedia.org/wiki/ゴールドディスク#各国別の基準 "wikilink")、は[ミリオン作品](../Page/ミリオンセラー.md "wikilink")。
+  - オリコン最高順位が**太字**の作品は[日本レコード協会](../Page/日本レコード協会.md "wikilink")認定の[ゴールドディスク以上認定作品](https://ja.wikipedia.org/wiki/ゴールドディスク#各国別の基準 "wikilink")、は[ミリオン作品](../Page/ミリオンセラー.md "wikilink")。
 
 <table>
 <thead>
@@ -17,9 +17,9 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a></p>
+<p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a></p>
 </Div>
 <Div Align="center">
 <p>最高順位</p>
@@ -33,25 +33,25 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>1992年11月25日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Floods_of_tears/夜想花" title="wikilink">Floods of tears／夜想花</a></p></td>
 <td><p>8cm<a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デンジャークルー・レコード" title="wikilink">UKCD</a>-1039</p></td>
+<td><p><a href="../Page/デンジャークルー・レコード.md" title="wikilink">UKCD</a>-1039</p></td>
 <td><Div Align="center">
 <p>-</p>
 </Div></td>
 <td><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/DUNE_(アルバム)" title="wikilink">DUNE</a></p>
+<p><a href="../Page/DUNE_(アルバム).md" title="wikilink">DUNE</a></p>
 </Div></td>
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>1994年10月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Blurry_Eyes" title="wikilink">Blurry Eyes</a></p></td>
+<td><p><a href="../Page/Blurry_Eyes.md" title="wikilink">Blurry Eyes</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>KSD2-1077</p></td>
 <td><Div Align="center">
 <p>12位</p>
 </Div></td>
 <td><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/Tierra_(アルバム)" title="wikilink">Tierra</a></p>
+<p><a href="../Page/Tierra_(アルバム).md" title="wikilink">Tierra</a></p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -66,7 +66,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>1995年7月6日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Vivid_Colors" title="wikilink">Vivid Colors</a></p></td>
+<td><p><a href="../Page/Vivid_Colors.md" title="wikilink">Vivid Colors</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>KSD2-1087</p></td>
 <td><Div Align="center">
@@ -88,7 +88,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p>1995年10月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/夏の憂鬱" title="wikilink">夏の憂鬱 [time to say good-bye</a>]</p></td>
+<td><p><a href="../Page/夏の憂鬱.md" title="wikilink">夏の憂鬱 [time to say good-bye</a>]</p></td>
 <td><p>8cmCD</p></td>
 <td><p>KSD2-1101</p></td>
 <td><Div Align="center">
@@ -108,14 +108,14 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>1996年7月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/風にきえないで" title="wikilink">風にきえないで</a></p></td>
+<td><p><a href="../Page/風にきえないで.md" title="wikilink">風にきえないで</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>KSD2-1122</p></td>
 <td><Div Align="center">
 <p><strong>4位</strong></p>
 </Div></td>
 <td><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/True_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">True</a></p>
+<p><a href="../Page/True_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">True</a></p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -150,7 +150,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>6th</p></td>
 <td><p>1996年11月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Lies_and_Truth" title="wikilink">Lies and Truth</a></p></td>
+<td><p><a href="../Page/Lies_and_Truth.md" title="wikilink">Lies and Truth</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>KSD2-1149</p></td>
 <td><Div Align="center">
@@ -170,14 +170,14 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>7th</p></td>
 <td><p>1997年10月17日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/虹_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">虹</a></p></td>
+<td><p><a href="../Page/虹_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">虹</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>KSD2-1159</p></td>
 <td><Div Align="center">
 <p><strong>3位</strong></p>
 </Div></td>
 <td><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/HEART_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">HEART</a></p>
+<p><a href="../Page/HEART_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">HEART</a></p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -212,7 +212,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>9th</p></td>
 <td><p>1998年3月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DIVE_TO_BLUE" title="wikilink">DIVE TO BLUE</a></p></td>
+<td><p><a href="../Page/DIVE_TO_BLUE.md" title="wikilink">DIVE TO BLUE</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>KSD2-1182</p></td>
 <td><Div Align="center">
@@ -234,7 +234,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>10th</p></td>
 <td><p>1998年7月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HONEY_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">HONEY</a></p></td>
+<td><p><a href="../Page/HONEY_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">HONEY</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>KSD2-1200</p></td>
 <td><Div Align="center">
@@ -255,7 +255,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>11th</p></td>
 <td><p>1998年7月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/花葬" title="wikilink">花葬</a></p></td>
+<td><p><a href="../Page/花葬.md" title="wikilink">花葬</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>KSD2-1201</p></td>
 <td><Div Align="center">
@@ -274,7 +274,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>12th</p></td>
 <td><p>1998年7月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浸食_〜lose_control〜" title="wikilink">浸食 〜lose control〜</a></p></td>
+<td><p><a href="../Page/浸食_〜lose_control〜.md" title="wikilink">浸食 〜lose control〜</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>KSC2-234</p></td>
 <td><Div Align="center">
@@ -335,7 +335,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>15th</p></td>
 <td><p>1999年4月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HEAVEN&#39;S_DRIVE" title="wikilink">HEAVEN'S DRIVE</a></p></td>
+<td><p><a href="../Page/HEAVEN&#39;S_DRIVE.md" title="wikilink">HEAVEN'S DRIVE</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>KSC2-280</p></td>
 <td><Div Align="center">
@@ -345,7 +345,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="odd">
 <td><p>16th</p></td>
 <td><p>1999年6月2日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Pieces_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">Pieces</a></p></td>
+<td><p><a href="../Page/Pieces_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">Pieces</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>KSC2-281</p></td>
 <td><Div Align="center">
@@ -356,7 +356,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>17th</p></td>
 <td><p>1999年8月11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Driver&#39;s_High" title="wikilink">Driver's High</a></p></td>
+<td><p><a href="../Page/Driver&#39;s_High.md" title="wikilink">Driver's High</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>KSC2-284</p></td>
 <td><Div Align="center">
@@ -367,14 +367,14 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="odd">
 <td><p>18th</p></td>
 <td><p>1999年10月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/LOVE_FLIES" title="wikilink">LOVE FLIES</a></p></td>
+<td><p><a href="../Page/LOVE_FLIES.md" title="wikilink">LOVE FLIES</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>KSC2-285</p></td>
 <td><Div Align="center">
 <p><strong>1位</strong></p>
 </Div></td>
 <td><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/REAL_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">REAL</a></p>
+<p><a href="../Page/REAL_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">REAL</a></p>
 </Div></td>
 </tr>
 <tr class="even">
@@ -390,7 +390,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="odd">
 <td><p>20th</p></td>
 <td><p>2000年7月19日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/STAY_AWAY" title="wikilink">STAY AWAY</a></p></td>
+<td><p><a href="../Page/STAY_AWAY.md" title="wikilink">STAY AWAY</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>KSC2-332</p></td>
 <td><Div Align="center">
@@ -401,20 +401,20 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>21st</p></td>
 <td><p>2001年9月5日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Spirit_dreams_inside_-another_dream-" title="wikilink">Spirit dreams inside -another dream-</a></p></td>
+<td><p><a href="../Page/Spirit_dreams_inside_-another_dream-.md" title="wikilink">Spirit dreams inside -another dream-</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>KSC2-410</p></td>
 <td><Div Align="center">
 <p><strong>1位</strong></p>
 </Div></td>
 <td><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/SMILE_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">SMILE</a></p>
+<p><a href="../Page/SMILE_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">SMILE</a></p>
 </Div></td>
 </tr>
 <tr class="odd">
 <td><p>22nd</p></td>
 <td><p>2004年2月4日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/READY_STEADY_GO_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">READY STEADY GO</a></p></td>
+<td><p><a href="../Page/READY_STEADY_GO_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">READY STEADY GO</a></p></td>
 <td><p>12cmCD(<a href="../Page/コピーコントロールCD.md" title="wikilink">CCCD</a>)</p></td>
 <td><p>KSCL-641</p></td>
 <td><Div Align="center">
@@ -434,7 +434,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="odd">
 <td><p>23rd</p></td>
 <td><p>2004年3月3日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/瞳の住人" title="wikilink">瞳の住人</a></p></td>
+<td><p><a href="../Page/瞳の住人.md" title="wikilink">瞳の住人</a></p></td>
 <td><p>12cmCD(CCCD)</p></td>
 <td><p>KSCL-671</p></td>
 <td><Div Align="center">
@@ -454,14 +454,14 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="odd">
 <td><p>24th</p></td>
 <td><p>2004年6月2日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/自由への招待" title="wikilink">自由への招待</a></p></td>
+<td><p><a href="../Page/自由への招待.md" title="wikilink">自由への招待</a></p></td>
 <td><p>12cmCD(CCCD)</p></td>
 <td><p>KSCL-689</p></td>
 <td><Div Align="center">
 <p><strong>1位</strong></p>
 </Div></td>
 <td><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/AWAKE_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">AWAKE</a></p>
+<p><a href="../Page/AWAKE_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">AWAKE</a></p>
 </Div></td>
 </tr>
 <tr class="even">
@@ -476,7 +476,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="odd">
 <td><p>25th</p></td>
 <td><p>2005年1月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Killing_Me" title="wikilink">Killing Me</a></p></td>
+<td><p><a href="../Page/Killing_Me.md" title="wikilink">Killing Me</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>KSCL-760</p></td>
 <td><Div Align="center">
@@ -487,7 +487,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>26th</p></td>
 <td><p>2005年4月6日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/New_World_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">New World</a></p></td>
+<td><p><a href="../Page/New_World_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">New World</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>KSCL-822</p></td>
 <td><Div Align="center">
@@ -498,7 +498,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="odd">
 <td><p>27th</p></td>
 <td><p>2005年5月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/叙情詩_(曲)" title="wikilink">叙情詩</a></p></td>
+<td><p><a href="../Page/叙情詩_(曲).md" title="wikilink">叙情詩</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>KSCL-833</p></td>
 <td><Div Align="center">
@@ -509,14 +509,14 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>28th</p></td>
 <td><p>2005年7月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Link_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">Link</a></p></td>
+<td><p><a href="../Page/Link_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">Link</a></p></td>
 <td><p>12cmCD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></p></td>
 <td><p>KSCL-881〜882</p></td>
 <td><Div Align="center">
 <p><strong>2位</strong></p>
 </Div></td>
 <td><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/KISS_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">KISS</a></p>
+<p><a href="../Page/KISS_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">KISS</a></p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -538,26 +538,26 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <p>5位</p>
 </Div></td>
 <td><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/True_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">True</a></p>
+<p><a href="../Page/True_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">True</a></p>
 </Div></td>
 </tr>
 <tr class="odd">
 <td><p>30th</p></td>
 <td><p>2007年5月30日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SEVENTH_HEAVEN_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">SEVENTH HEAVEN</a></p></td>
+<td><p><a href="../Page/SEVENTH_HEAVEN_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">SEVENTH HEAVEN</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>KSCL-1138</p></td>
 <td><Div Align="center">
 <p><strong>1位</strong></p>
 </Div></td>
 <td><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/KISS_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">KISS</a></p>
+<p><a href="../Page/KISS_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">KISS</a></p>
 </Div></td>
 </tr>
 <tr class="even">
 <td><p>31st</p></td>
 <td><p>2007年8月29日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MY_HEART_DRAWS_A_DREAM" title="wikilink">MY HEART DRAWS A DREAM</a></p></td>
+<td><p><a href="../Page/MY_HEART_DRAWS_A_DREAM.md" title="wikilink">MY HEART DRAWS A DREAM</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>KSCL-1159</p></td>
 <td><Div Align="center">
@@ -568,7 +568,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="odd">
 <td><p>32nd</p></td>
 <td><p>2007年10月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DAYBREAK&#39;S_BELL" title="wikilink">DAYBREAK'S BELL</a></p></td>
+<td><p><a href="../Page/DAYBREAK&#39;S_BELL.md" title="wikilink">DAYBREAK'S BELL</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>KSCL-1200</p></td>
 <td><Div Align="center">
@@ -579,7 +579,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>33rd</p></td>
 <td><p>2007年11月14日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Hurry_Xmas" title="wikilink">Hurry Xmas</a></p></td>
+<td><p><a href="../Page/Hurry_Xmas.md" title="wikilink">Hurry Xmas</a></p></td>
 <td><p>12cmCD+DVD</p></td>
 <td><p>KSCL-1224〜1225</p></td>
 <td><Div Align="center">
@@ -820,7 +820,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
 <th><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a></p>
+<p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a></p>
 </Div>
 <Div Align="center">
 <p>最高順位</p>
@@ -831,14 +831,14 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tbody>
 <tr class="odd">
 <td><p>1994年7月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/眠りによせて" title="wikilink">眠りによせて</a></p></td>
+<td><p><a href="../Page/眠りによせて.md" title="wikilink">眠りによせて</a></p></td>
 <td><p>VHS</p></td>
 <td><p>KSV5-5015</p></td>
 <td><Div Align="center">
 <p>3位</p>
 </Div></td>
 <td><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/Tierra_(アルバム)" title="wikilink">Tierra</a></p>
+<p><a href="../Page/Tierra_(アルバム).md" title="wikilink">Tierra</a></p>
 </Div></td>
 </tr>
 <tr class="even">
@@ -888,7 +888,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 
 ## アルバム
 
-  - オリコン最高順位が**太字**の作品は[日本レコード協会](https://ja.wikipedia.org/wiki/日本レコード協会 "wikilink")認定の[ゴールドディスク以上認定作品](https://ja.wikipedia.org/wiki/ゴールドディスク#各国別の基準 "wikilink")、は[ミリオン（2ミリオン）作品](../Page/ミリオンセラー.md "wikilink")。
+  - オリコン最高順位が**太字**の作品は[日本レコード協会](../Page/日本レコード協会.md "wikilink")認定の[ゴールドディスク以上認定作品](https://ja.wikipedia.org/wiki/ゴールドディスク#各国別の基準 "wikilink")、は[ミリオン（2ミリオン）作品](../Page/ミリオンセラー.md "wikilink")。
   - 『REAL』、『Clicked Singles Best 13』及び、『AWAKE』以降のアルバムは[CD-TEXT](https://ja.wikipedia.org/wiki/CD-TEXT "wikilink")仕様。
 
 ### オリジナルアルバム
@@ -902,7 +902,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
 <th><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a></p>
+<p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a></p>
 </Div>
 <Div Align="center">
 <p>最高順位</p>
@@ -913,9 +913,9 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>1993年4月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DUNE_(アルバム)" title="wikilink">DUNE</a></p></td>
+<td><p><a href="../Page/DUNE_(アルバム).md" title="wikilink">DUNE</a></p></td>
 <td><p>CD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デンジャークルー・レコード" title="wikilink">HML</a>-008</p></td>
+<td><p><a href="../Page/デンジャークルー・レコード.md" title="wikilink">HML</a>-008</p></td>
 <td><Div Align="center">
 <p>1位[1]</p>
 </Div></td>
@@ -939,7 +939,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>1994年7月14日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Tierra_(アルバム)" title="wikilink">Tierra</a></p></td>
+<td><p><a href="../Page/Tierra_(アルバム).md" title="wikilink">Tierra</a></p></td>
 <td><p>CD</p></td>
 <td><p>KSC2-80</p></td>
 <td><Div Align="center">
@@ -975,7 +975,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>1996年12月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/True_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">True</a></p></td>
+<td><p><a href="../Page/True_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">True</a></p></td>
 <td><p>CD</p></td>
 <td><p>KSC2-165</p></td>
 <td><Div Align="center">
@@ -992,7 +992,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>5th</p></td>
 <td><p>1998年2月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HEART_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">HEART</a></p></td>
+<td><p><a href="../Page/HEART_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">HEART</a></p></td>
 <td><p>CD</p></td>
 <td><p>KSC2-204</p></td>
 <td><Div Align="center">
@@ -1043,7 +1043,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>2000年8月30日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/REAL_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">REAL</a></p></td>
+<td><p><a href="../Page/REAL_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">REAL</a></p></td>
 <td><p>CD</p></td>
 <td><p>KSC2-333</p></td>
 <td><Div Align="center">
@@ -1076,7 +1076,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>9th</p></td>
 <td><p>2004年3月31日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SMILE_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">SMILE</a></p></td>
+<td><p><a href="../Page/SMILE_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">SMILE</a></p></td>
 <td><p>CCCD+DVD</p></td>
 <td><p>KSCL-678〜679</p></td>
 <td><Div Align="center">
@@ -1102,7 +1102,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="odd">
 <td><p>10th</p></td>
 <td><p>2005年6月22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AWAKE_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">AWAKE</a></p></td>
+<td><p><a href="../Page/AWAKE_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">AWAKE</a></p></td>
 <td><p>CD</p></td>
 <td><p>KSCL-837</p></td>
 <td><Div Align="center">
@@ -1112,7 +1112,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>11th</p></td>
 <td><p>2007年11月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KISS_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">KISS</a></p></td>
+<td><p><a href="../Page/KISS_(L&#39;Arc〜en〜Cielのアルバム).md" title="wikilink">KISS</a></p></td>
 <td><p>CD</p></td>
 <td><p>KSCL-1234</p></td>
 <td><Div Align="center">
@@ -1152,7 +1152,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
 <th><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a></p>
+<p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a></p>
 </Div>
 <Div Align="center">
 <p>最高順位</p>
@@ -1164,7 +1164,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>1st<br />
 <small>（シングルベスト）</small></p></td>
 <td><p>2001年3月14日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Clicked_Singles_Best_13" title="wikilink">Clicked Singles Best 13</a></p></td>
+<td><p><a href="../Page/Clicked_Singles_Best_13.md" title="wikilink">Clicked Singles Best 13</a></p></td>
 <td><p>CD</p></td>
 <td><p>KSC2-334</p></td>
 <td><Div Align="center">
@@ -1182,7 +1182,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>2nd<br />
 <small>（ベストアルバム）</small></p></td>
 <td><p>2003年3月19日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/The_Best_of_L&#39;Arc〜en〜Ciel" title="wikilink">The Best of L'Arc〜en〜Ciel 1994-1998</a></p></td>
+<td><p><a href="../Page/The_Best_of_L&#39;Arc〜en〜Ciel.md" title="wikilink">The Best of L'Arc〜en〜Ciel 1994-1998</a></p></td>
 <td><p>CD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></p></td>
 <td><p>KSCL-530〜531</p></td>
 <td><Div Align="center">
@@ -1198,7 +1198,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/The_Best_of_L&#39;Arc〜en〜Ciel" title="wikilink">The Best of L'Arc〜en〜Ciel 1998-2000</a></p></td>
+<td><p><a href="../Page/The_Best_of_L&#39;Arc〜en〜Ciel.md" title="wikilink">The Best of L'Arc〜en〜Ciel 1998-2000</a></p></td>
 <td><p>CD+DVD</p></td>
 <td><p>KSCL-532〜533</p></td>
 <td><Div Align="center">
@@ -1216,7 +1216,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/The_Best_of_L&#39;Arc〜en〜Ciel" title="wikilink">The Best of L'Arc〜en〜Ciel c/w</a></p></td>
+<td><p><a href="../Page/The_Best_of_L&#39;Arc〜en〜Ciel.md" title="wikilink">The Best of L'Arc〜en〜Ciel c/w</a></p></td>
 <td><p>CD+DVD</p></td>
 <td><p>KSCL-534〜535</p></td>
 <td><Div Align="center">
@@ -1306,7 +1306,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
 <th><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a></p>
+<p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a></p>
 </Div>
 <Div Align="center">
 <p>最高順位</p>
@@ -1336,7 +1336,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
 <th><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a></p>
+<p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a></p>
 </Div>
 <Div Align="center">
 <p>最高順位</p>
@@ -1373,7 +1373,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
 <th><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a></p>
+<p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a></p>
 </Div>
 <Div Align="center">
 <p>最高順位</p>
@@ -1403,7 +1403,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
 <th><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a></p>
+<p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a></p>
 </Div>
 <Div Align="center">
 <p>最高順位</p>
@@ -1433,7 +1433,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
 <th><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a></p>
+<p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a></p>
 </Div>
 <Div Align="center">
 <p>最高順位</p>
@@ -1487,7 +1487,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
 <th><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a></p>
+<p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a></p>
 </Div>
 <Div Align="center">
 <p>最高順位</p>
@@ -1498,7 +1498,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="odd">
 <td><p>Indies</p></td>
 <td><p>1993年10月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TOUCH_OF_DUNE" title="wikilink">TOUCH OF DUNE</a></p></td>
+<td><p><a href="../Page/TOUCH_OF_DUNE.md" title="wikilink">TOUCH OF DUNE</a></p></td>
 <td><p><a href="../Page/VHS.md" title="wikilink">VHS</a></p></td>
 <td><p>HMV-003</p></td>
 <td><Div Align="center">
@@ -1508,7 +1508,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>1999年8月11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CHRONICLE" title="wikilink">CHRONICLE</a></p></td>
+<td><p><a href="../Page/CHRONICLE.md" title="wikilink">CHRONICLE</a></p></td>
 <td><p>VHS</p></td>
 <td><p>KSV5-5046</p></td>
 <td><Div Align="center">
@@ -1526,7 +1526,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2001年3月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CHRONICLE_2" title="wikilink">CHRONICLE 2</a></p></td>
+<td><p><a href="../Page/CHRONICLE_2.md" title="wikilink">CHRONICLE 2</a></p></td>
 <td><p>VHS</p></td>
 <td><p>KSV5-5056</p></td>
 <td><Div Align="center">
@@ -1544,7 +1544,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p>2007年2月14日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CHRONICLE_0_-ZERO-" title="wikilink">CHRONICLE 0 -ZERO-</a></p></td>
+<td><p><a href="../Page/CHRONICLE_0_-ZERO-.md" title="wikilink">CHRONICLE 0 -ZERO-</a></p></td>
 <td><p>DVD</p></td>
 <td><p>KSBL-5832</p></td>
 <td><Div Align="center">
@@ -1554,7 +1554,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="odd">
 <td><p>4th</p></td>
 <td><p>2007年12月5日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CHRONICLE_3" title="wikilink">CHRONICLE 3</a></p></td>
+<td><p><a href="../Page/CHRONICLE_3.md" title="wikilink">CHRONICLE 3</a></p></td>
 <td><p>DVD</p></td>
 <td><p>KSBL-5888</p></td>
 <td><Div Align="center">
@@ -1592,7 +1592,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
 <th><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a></p>
+<p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a></p>
 </Div>
 <Div Align="center">
 <p>最高順位</p>
@@ -1602,7 +1602,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tbody>
 <tr class="odd">
 <td><p>1998年4月22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/A_PIECE_OF_REINCARNATION" title="wikilink">A PIECE OF REINCARNATION</a></p></td>
+<td><p><a href="../Page/A_PIECE_OF_REINCARNATION.md" title="wikilink">A PIECE OF REINCARNATION</a></p></td>
 <td><p>VHS</p></td>
 <td><p>KSV5-5037</p></td>
 <td><Div Align="center">
@@ -1643,7 +1643,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
 <th><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a></p>
+<p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a></p>
 </Div>
 <Div Align="center">
 <p>最高順位</p>
@@ -1653,7 +1653,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tbody>
 <tr class="odd">
 <td><p>1994年12月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Siesta_〜Film_of_Dreams〜" title="wikilink">Siesta 〜Film of Dreams〜</a></p></td>
+<td><p><a href="../Page/Siesta_〜Film_of_Dreams〜.md" title="wikilink">Siesta 〜Film of Dreams〜</a></p></td>
 <td><p>VHS</p></td>
 <td><p>KSV5-5014</p></td>
 <td><Div Align="center">
@@ -1695,7 +1695,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
 <th><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a></p>
+<p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a></p>
 </Div>
 <Div Align="center">
 <p>最高順位</p>
@@ -1706,7 +1706,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="odd">
 <td><p>自主制作</p></td>
 <td><p>1992年3月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/L&#39;Arc-en-Ciel_(ビデオ)" title="wikilink">L'Arc-en-Ciel</a></p></td>
+<td><p><a href="../Page/L&#39;Arc-en-Ciel_(ビデオ).md" title="wikilink">L'Arc-en-Ciel</a></p></td>
 <td><p>VHS</p></td>
 <td><p>-</p></td>
 <td><Div Align="center">
@@ -1810,7 +1810,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="odd">
 <td><p>4th</p></td>
 <td><p>2001年6月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CLUB_CIRCUIT_2000_REALIVE_-NO_CUT-" title="wikilink">CLUB CIRCUIT 2000 REALIVE -NO CUT-</a></p></td>
+<td><p><a href="../Page/CLUB_CIRCUIT_2000_REALIVE_-NO_CUT-.md" title="wikilink">CLUB CIRCUIT 2000 REALIVE -NO CUT-</a></p></td>
 <td><p>VHS</p></td>
 <td><p>KSV5-5058</p></td>
 <td><Div Align="center">
@@ -1836,7 +1836,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>5th</p></td>
 <td><p>2003年12月17日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/7_(L&#39;Arc〜en〜CielのDVD)" title="wikilink">7</a></p></td>
+<td><p><a href="../Page/7_(L&#39;Arc〜en〜CielのDVD).md" title="wikilink">7</a></p></td>
 <td><p>DVD</p></td>
 <td><p>KSBL-5753</p></td>
 <td><Div Align="center">
@@ -1872,7 +1872,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>7th</p></td>
 <td><p>2005年6月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SMILE_TOUR_2004_〜全国編〜" title="wikilink">SMILE TOUR 2004 〜全国編〜</a></p></td>
+<td><p><a href="../Page/SMILE_TOUR_2004_〜全国編〜.md" title="wikilink">SMILE TOUR 2004 〜全国編〜</a></p></td>
 <td><p>DVD</p></td>
 <td><p>KSBL-5066</p></td>
 <td><Div Align="center">
@@ -1926,7 +1926,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>10th</p></td>
 <td><p>2007年9月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/15th_L&#39;Anniversary_Live" title="wikilink">15th L'Anniversary Live</a></p></td>
+<td><p><a href="../Page/15th_L&#39;Anniversary_Live.md" title="wikilink">15th L'Anniversary Live</a></p></td>
 <td><p>DVD(2枚組)</p></td>
 <td><p>KSBL-5847〜5848</p></td>
 <td><Div Align="center">
@@ -1962,7 +1962,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>12th</p></td>
 <td><p>2008年8月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TOUR_2007-2008_THEATER_OF_KISS" title="wikilink">TOUR 2007-2008 THEATER OF KISS</a></p></td>
+<td><p><a href="../Page/TOUR_2007-2008_THEATER_OF_KISS.md" title="wikilink">TOUR 2007-2008 THEATER OF KISS</a></p></td>
 <td><p>DVD(2枚組)</p></td>
 <td><p>KSBL-5909〜5910</p></td>
 <td><Div Align="center">
@@ -2324,7 +2324,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
 <th><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a></p>
+<p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a></p>
 </Div>
 <Div Align="center">
 <p>最高順位</p>
@@ -2355,7 +2355,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
 <th><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a></p>
+<p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a></p>
 </Div>
 <Div Align="center">
 <p>最高順位</p>
@@ -2366,7 +2366,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2007年4月4日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FIVE_LIVE_ARCHIVES" title="wikilink">FIVE LIVE ARCHIVES</a></p></td>
+<td><p><a href="../Page/FIVE_LIVE_ARCHIVES.md" title="wikilink">FIVE LIVE ARCHIVES</a></p></td>
 <td><p>DVD(5枚組)</p></td>
 <td><p>KSBL-5833〜5837</p></td>
 <td><Div Align="center">
@@ -2407,7 +2407,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
 <th><Div Align="center">
-<p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a></p>
+<p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a></p>
 </Div>
 <Div Align="center">
 <p>最高順位</p>
@@ -2444,7 +2444,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 </Div></td>
 </tr>
 <tr class="even">
-<td><p>Blu-ray+<a href="https://ja.wikipedia.org/wiki/小冊子" title="wikilink">Booklet</a></p></td>
+<td><p>Blu-ray+<a href="../Page/小冊子.md" title="wikilink">Booklet</a></p></td>
 <td><p>KSXL-168</p></td>
 <td></td>
 <td></td>
@@ -2480,7 +2480,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 
   -
     1997年12月16日～12月18日に変名バンド「the Zombies」として行ったシークレットライブツアーの模様やオフショットを収録したVHS規格の映像作品。
-    1998年4月22日発売のライブビデオ『[A PIECE OF REINCARNATION](https://ja.wikipedia.org/wiki/A_PIECE_OF_REINCARNATION "wikilink")』のVHS版に封入されたハガキによる抽選でプレゼントされた作品。
+    1998年4月22日発売のライブビデオ『[A PIECE OF REINCARNATION](../Page/A_PIECE_OF_REINCARNATION.md "wikilink")』のVHS版に封入されたハガキによる抽選でプレゼントされた作品。
 
 <!-- end list -->
 
@@ -2501,10 +2501,10 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 
 ## ゲームソフト
 
-|                                                                                | 発売日                                                                                | タイトル                                                                                    | 規格品番                                                                       |
-| ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [プレイステーション用ソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink") | 2000年7月19日                                                                         | [激突トマラルク TOMARUNNER VS L'Arc〜en〜Ciel](https://ja.wikipedia.org/wiki/激突トマラルク "wikilink") | [SCPS](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")-10134 |
-| 2001年12月6日                                                                     | SCPS-91320 （[PS one Books](https://ja.wikipedia.org/wiki/PS_one_Books "wikilink")） |                                                                                         |                                                                            |
+|                                                             | 発売日                                                             | タイトル                                                                                    | 規格品番                                                                       |
+| ----------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [プレイステーション用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink") | 2000年7月19日                                                      | [激突トマラルク TOMARUNNER VS L'Arc〜en〜Ciel](https://ja.wikipedia.org/wiki/激突トマラルク "wikilink") | [SCPS](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")-10134 |
+| 2001年12月6日                                                  | SCPS-91320 （[PS one Books](../Page/PS_one_Books.md "wikilink")） |                                                                                         |                                                                            |
 
 ## 参加作品・コンピレーション
 
@@ -2559,7 +2559,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>1993年9月25日</p></td>
 <td><p>The Monster Of Shock Age</p></td>
 <td><p>CD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/音楽専科社" title="wikilink">SHCD-001</a></p></td>
+<td><p><a href="../Page/音楽専科社.md" title="wikilink">SHCD-001</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>「<a href="https://ja.wikipedia.org/wiki/DUNE_(アルバム)#収録曲" title="wikilink">予感</a>」を収録（2004年発売の『DUNE 10th Anniversary Edition』のものと同テイク）。</p></td>
@@ -2569,14 +2569,14 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/サウンドトラック" title="wikilink">サウンドトラック</a></p></td>
+<td><p><a href="../Page/サウンドトラック.md" title="wikilink">サウンドトラック</a></p></td>
 <td><p>1994年12月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/D・N・A²_〜何処かで失くしたあいつのアイツ〜" title="wikilink">D・N・A²</a> SOUND TRACK</p></td>
+<td><p><a href="../Page/D・N・A²_〜何処かで失くしたあいつのアイツ〜.md" title="wikilink">D・N・A²</a> SOUND TRACK</p></td>
 <td><p>CD</p></td>
 <td><p>KSC2-110</p></td>
 </tr>
 <tr class="odd">
-<td><p>「<a href="https://ja.wikipedia.org/wiki/Blurry_Eyes" title="wikilink">Blurry Eyes</a>」を収録。</p></td>
+<td><p>「<a href="../Page/Blurry_Eyes.md" title="wikilink">Blurry Eyes</a>」を収録。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2585,12 +2585,12 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>サウンドトラック</p></td>
 <td><p>1998年5月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/GODZILLA" title="wikilink">GODZILLA</a> THE ALBUM</p></td>
+<td><p><a href="../Page/GODZILLA.md" title="wikilink">GODZILLA</a> THE ALBUM</p></td>
 <td><p>CD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エピックレコードジャパン" title="wikilink">ESCA</a>-6991</p></td>
+<td><p><a href="../Page/エピックレコードジャパン.md" title="wikilink">ESCA</a>-6991</p></td>
 </tr>
 <tr class="odd">
-<td><p>「<a href="https://ja.wikipedia.org/wiki/浸食_〜lose_control〜" title="wikilink">浸食 〜lose control〜</a>」を収録（日本発売版限定）。</p></td>
+<td><p>「<a href="../Page/浸食_〜lose_control〜.md" title="wikilink">浸食 〜lose control〜</a>」を収録（日本発売版限定）。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2601,11 +2601,11 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>1999年11月20日</p></td>
 <td><p><a href="../Page/青い鳥症候群_(テレビドラマ).md" title="wikilink">青い鳥症候群</a> オリジナル・サウンドトラック</p></td>
 <td><p>CD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ" title="wikilink">SRCL</a>-4730</p></td>
+<td><p><a href="../Page/ソニー・ミュージックレコーズ.md" title="wikilink">SRCL</a>-4730</p></td>
 </tr>
 <tr class="odd">
 <td><p>「<a href="https://ja.wikipedia.org/wiki/ray_(アルバム)" title="wikilink">いばらの涙</a> (Inst.Ver.)」「いばらの涙 (Classical Guitar Ver.)」を収録。<br />
-「Inst.Ver.」は<a href="https://ja.wikipedia.org/wiki/ストリングス" title="wikilink">ストリングス</a>、「Classical Guitar Ver.」は<a href="https://ja.wikipedia.org/wiki/クラシック・ギター" title="wikilink">クラシック・ギター</a>による<a href="https://ja.wikipedia.org/wiki/インストゥルメンタル" title="wikilink">器楽曲</a>。</p></td>
+「Inst.Ver.」は<a href="https://ja.wikipedia.org/wiki/ストリングス" title="wikilink">ストリングス</a>、「Classical Guitar Ver.」は<a href="../Page/クラシック・ギター.md" title="wikilink">クラシック・ギター</a>による<a href="https://ja.wikipedia.org/wiki/インストゥルメンタル" title="wikilink">器楽曲</a>。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2614,7 +2614,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>サウンドトラック</p></td>
 <td><p>1998年11月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/走れ公務員!" title="wikilink">走れ公務員!</a> Original Soundtracks</p></td>
+<td><p><a href="../Page/走れ公務員!.md" title="wikilink">走れ公務員!</a> Original Soundtracks</p></td>
 <td><p>CD</p></td>
 <td><p>KSC2-255</p></td>
 </tr>
@@ -2633,7 +2633,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>SRCL-4727</p></td>
 </tr>
 <tr class="odd">
-<td><p>「<a href="https://ja.wikipedia.org/wiki/HEAVEN&#39;S_DRIVE" title="wikilink">HEAVEN'S DRIVE</a>」を収録。</p></td>
+<td><p>「<a href="../Page/HEAVEN&#39;S_DRIVE.md" title="wikilink">HEAVEN'S DRIVE</a>」を収録。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2642,7 +2642,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>サウンドトラック</p></td>
 <td><p>2001年1月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リング0_バースデイ" title="wikilink">リング0 バースデイ</a></p></td>
+<td><p><a href="../Page/リング0_バースデイ.md" title="wikilink">リング0 バースデイ</a></p></td>
 <td><p>CD</p></td>
 <td><p><a href="../Page/角川書店.md" title="wikilink">EWCD</a>-85001</p></td>
 </tr>
@@ -2656,7 +2656,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>サウンドトラック</p></td>
 <td><p>2001年7月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファイナルファンタジー_(映画)" title="wikilink">FINAL FANTASY ORIGINAL MOTION PICTURE SOUNDTRACK</a></p></td>
+<td><p><a href="../Page/ファイナルファンタジー_(映画).md" title="wikilink">FINAL FANTASY ORIGINAL MOTION PICTURE SOUNDTRACK</a></p></td>
 <td><p>CD</p></td>
 <td><p>SRCS-2519</p></td>
 </tr>
@@ -2682,7 +2682,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td></td>
 </tr>
 <tr class="even">
-<td><p>CDに「<a href="https://ja.wikipedia.org/wiki/HONEY_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">HONEY</a>」、DVDに「<a href="https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale" title="wikilink">NEO UNIVERSE</a>」「<a href="https://ja.wikipedia.org/wiki/STAY_AWAY" title="wikilink">STAY AWAY</a>」のPVを収録。</p></td>
+<td><p>CDに「<a href="../Page/HONEY_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">HONEY</a>」、DVDに「<a href="https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale" title="wikilink">NEO UNIVERSE</a>」「<a href="../Page/STAY_AWAY.md" title="wikilink">STAY AWAY</a>」のPVを収録。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2693,7 +2693,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>2002年5月29日</p></td>
 <td><p><a href="../Page/日本ゴールドディスク大賞.md" title="wikilink">THE JAPAN GOLD DISC AWARD</a> 2002</p></td>
 <td><p>CD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">TOCT</a>-24751</p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">TOCT</a>-24751</p></td>
 </tr>
 <tr class="even">
 <td><p>「NEO UNIVERSE」を収録。</p></td>
@@ -2710,7 +2710,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p><a href="../Page/アニプレックス.md" title="wikilink">SVWC</a>-1011〜1022</p></td>
 </tr>
 <tr class="even">
-<td><p>「<a href="https://ja.wikipedia.org/wiki/虹_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">虹</a>」を収録。</p></td>
+<td><p>「<a href="../Page/虹_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">虹</a>」を収録。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2721,7 +2721,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>2003年8月27日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/音椿_〜_the_greatest_hits_of_SHISEIDO_〜_紅盤" title="wikilink">音椿 〜 the greatest hits of SHISEIDO 〜 紅盤</a></p></td>
 <td><p>CD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソニー・ミュージックダイレクト" title="wikilink">MHCL</a>-312</p></td>
+<td><p><a href="../Page/ソニー・ミュージックダイレクト.md" title="wikilink">MHCL</a>-312</p></td>
 </tr>
 <tr class="even">
 <td><p>「NEO UNIVERSE」を収録。</p></td>
@@ -2745,7 +2745,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>「<a href="https://ja.wikipedia.org/wiki/READY_STEADY_GO_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">READY STEADY GO</a>」を収録。</p></td>
+<td><p>「<a href="../Page/READY_STEADY_GO_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">READY STEADY GO</a>」を収録。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2754,7 +2754,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>コンピレーション・アルバム</p></td>
 <td><p>2004年11月3日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/青春歌年鑑" title="wikilink">青春歌年鑑</a> 90年代総集編</p></td>
+<td><p><a href="../Page/青春歌年鑑.md" title="wikilink">青春歌年鑑</a> 90年代総集編</p></td>
 <td><p>CD(2枚組)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/avex_trax" title="wikilink">AVCD</a>-17558〜17559</p></td>
 </tr>
@@ -2805,10 +2805,10 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>2008年3月26日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/機動戦士ガンダム00" title="wikilink">機動戦士ガンダム00</a> ORIGINAL SOUND TRACK 2</p></td>
 <td><p>CD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フライングドッグ" title="wikilink">VTCL</a>-60022</p></td>
+<td><p><a href="../Page/フライングドッグ.md" title="wikilink">VTCL</a>-60022</p></td>
 </tr>
 <tr class="even">
-<td><p>「<a href="https://ja.wikipedia.org/wiki/DAYBREAK&#39;S_BELL" title="wikilink">DAYBREAK'S BELL</a> (ガンダム00 Edit)」（TV放映サイズ版）を収録。</p></td>
+<td><p>「<a href="../Page/DAYBREAK&#39;S_BELL.md" title="wikilink">DAYBREAK'S BELL</a> (ガンダム00 Edit)」（TV放映サイズ版）を収録。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2819,7 +2819,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>2008年3月26日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Anime×Music_Collaboration_39_&#39;02-&#39;07" title="wikilink">Anime×Music Collaboration 39 '02-'07</a></p></td>
 <td><p>CD(3枚組)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミュージックレイン" title="wikilink">SMCL</a>-141〜143</p></td>
+<td><p><a href="../Page/ミュージックレイン.md" title="wikilink">SMCL</a>-141〜143</p></td>
 </tr>
 <tr class="even">
 <td><p>「READY STEADY GO」「DAYBREAK'S BELL」を収録。</p></td>
@@ -2836,7 +2836,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>ANZB-3201〜3228</p></td>
 </tr>
 <tr class="even">
-<td><p>「READY STEADY GO」「<a href="https://ja.wikipedia.org/wiki/Link_(L&#39;Arc〜en〜Cielの曲)" title="wikilink">Link</a>」「<a href="https://ja.wikipedia.org/wiki/AWAKE_(L&#39;Arc〜en〜Cielのアルバム)#収録曲" title="wikilink">LOST HEAVEN</a>」を収録。</p></td>
+<td><p>「READY STEADY GO」「<a href="../Page/Link_(L&#39;Arc〜en〜Cielの曲).md" title="wikilink">Link</a>」「<a href="https://ja.wikipedia.org/wiki/AWAKE_(L&#39;Arc〜en〜Cielのアルバム)#収録曲" title="wikilink">LOST HEAVEN</a>」を収録。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2953,13 +2953,13 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 
 ### テキストブック
 
-| 種別                                                         | 発売日        | タイトル                                          | [ISBN](https://ja.wikipedia.org/wiki/ISBN "wikilink") | 発行                                                                                  |
-| ---------------------------------------------------------- | ---------- | --------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| アーティストブック                                                  | 1996年9月20日 | L'Arc〜en〜Ciel is                              | ISBN 978-4-40-161535-3                                | [シンコーミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink") |
-| [ムック](https://ja.wikipedia.org/wiki/ムック_\(出版\) "wikilink") | 2004年3月31日 | ぴあMOOK ラルクぴあ 街に詳しくなる\! 遊びに詳しくなる\! ラルクに詳しくなる\! | ISBN 978-4-83-560620-0                                | ぴあ                                                                                  |
-| インタビューブック                                                  | 2005年9月20日 | WORDS                                         | ISBN 978-4-04-883935-8                                | [角川書店](../Page/角川書店.md "wikilink")                                                  |
-| インタビューブック                                                  | 2010年3月31日 | WORDS II                                      | ISBN 978-4-04-732507-4                                | [角川マガジンズ](https://ja.wikipedia.org/wiki/角川マガジンズ "wikilink")                         |
-| ムック                                                        | 2012年7月28日 | LE-CIEL Extra Number                          | ISBN 978-4-78-977172-6                                | [エムオン・エンタテインメント](https://ja.wikipedia.org/wiki/エムオン・エンタテインメント "wikilink")           |
+| 種別                                      | 発売日        | タイトル                                          | [ISBN](https://ja.wikipedia.org/wiki/ISBN "wikilink") | 発行                                                                        |
+| --------------------------------------- | ---------- | --------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------- |
+| アーティストブック                               | 1996年9月20日 | L'Arc〜en〜Ciel is                              | ISBN 978-4-40-161535-3                                | [シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")          |
+| [ムック](../Page/ムック_\(出版\).md "wikilink") | 2004年3月31日 | ぴあMOOK ラルクぴあ 街に詳しくなる\! 遊びに詳しくなる\! ラルクに詳しくなる\! | ISBN 978-4-83-560620-0                                | ぴあ                                                                        |
+| インタビューブック                               | 2005年9月20日 | WORDS                                         | ISBN 978-4-04-883935-8                                | [角川書店](../Page/角川書店.md "wikilink")                                        |
+| インタビューブック                               | 2010年3月31日 | WORDS II                                      | ISBN 978-4-04-732507-4                                | [角川マガジンズ](../Page/角川マガジンズ.md "wikilink")                                  |
+| ムック                                     | 2012年7月28日 | LE-CIEL Extra Number                          | ISBN 978-4-78-977172-6                                | [エムオン・エンタテインメント](https://ja.wikipedia.org/wiki/エムオン・エンタテインメント "wikilink") |
 
 ### ライブ写真集
 
@@ -2980,7 +2980,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>1995年12月24日</p></td>
 <td><p>"heavenly" christmas box</p></td>
 <td><p>ISBN 978-4-90-034389-4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/音楽専科社" title="wikilink">音楽専科社</a></p></td>
+<td><p><a href="../Page/音楽専科社.md" title="wikilink">音楽専科社</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ライヴ写真集</p></td>
@@ -3051,7 +3051,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>2003年8月20日</p></td>
 <td><p>Seven Days 〜Shibuya Seven days 2003 Document Photographs〜</p></td>
 <td><p>ISBN 978-4-83-560080-2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ぴあ" title="wikilink">ぴあ</a></p></td>
+<td><p><a href="../Page/ぴあ.md" title="wikilink">ぴあ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ライブ写真集</p></td>

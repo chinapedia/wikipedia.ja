@@ -1,7 +1,7 @@
 > この記事は[Jr](https://ja.wikipedia.org/wiki/Jr)から翻訳されています。
 
 
-**クリフトン・コリンズ・Jr**（**Clifton Collins Jr.**, [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")出身の[俳優](../Page/俳優.md "wikilink")。
+**クリフトン・コリンズ・Jr**（**Clifton Collins Jr.**, [1970年](../Page/1970年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")出身の[俳優](../Page/俳優.md "wikilink")。
 
 ## 略歴
 
@@ -9,7 +9,7 @@
 
 ## その他
 
-アメリカのテレビ局[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")では[日産・リーフ](https://ja.wikipedia.org/wiki/日産・リーフ "wikilink")のテストドライブ企画を放映しており、クリフトン・コリンズ・Jrが運転しながらリーフのレビューをする様子が動画サイトで観られる\[3\]。
+アメリカのテレビ局[NBC](../Page/NBC.md "wikilink")では[日産・リーフ](https://ja.wikipedia.org/wiki/日産・リーフ "wikilink")のテストドライブ企画を放映しており、クリフトン・コリンズ・Jrが運転しながらリーフのレビューをする様子が動画サイトで観られる\[3\]。
 
 ## 主な出演作品
 
@@ -56,7 +56,7 @@
 </tr>
 <tr class="odd">
 <td><p>1998</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リプレイスメント・キラー" title="wikilink">リプレイスメント・キラー</a><br />
+<td><p><a href="../Page/リプレイスメント・キラー.md" title="wikilink">リプレイスメント・キラー</a><br />
 <em>The Replacement Killers</em></p></td>
 <td><p>ロコ</p></td>
 <td></td>
@@ -83,7 +83,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/トラフィック_(映画)" title="wikilink">トラフィック</a><br />
+<td><p><a href="../Page/トラフィック_(映画).md" title="wikilink">トラフィック</a><br />
 <em>Traffic</em></p></td>
 <td><p>フランシスコ・フローレス</p></td>
 <td></td>
@@ -98,7 +98,7 @@
 </tr>
 <tr class="odd">
 <td><p>2002</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルールズ・オブ・アトラクション" title="wikilink">ルールズ・オブ・アトラクション</a><br />
+<td><p><a href="../Page/ルールズ・オブ・アトラクション.md" title="wikilink">ルールズ・オブ・アトラクション</a><br />
 <em>The Rules of Attraction</em></p></td>
 <td><p>ルパート</p></td>
 <td></td>
@@ -108,7 +108,7 @@
 <td><p>レックス・ザ・チャンプ/無敗の帝王<br />
 <em>Undefeated</em></p></td>
 <td><p>ロコ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ映画" title="wikilink">テレビ映画</a></p></td>
+<td><p><a href="../Page/テレビ映画.md" title="wikilink">テレビ映画</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2004</p></td>
@@ -119,7 +119,7 @@
 </tr>
 <tr class="even">
 <td><p>2005</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カポーティ" title="wikilink">カポーティ</a><br />
+<td><p><a href="../Page/カポーティ.md" title="wikilink">カポーティ</a><br />
 <em>Capote</em></p></td>
 <td><p>ペリー・スミス</p></td>
 <td></td>
@@ -133,7 +133,7 @@
 </tr>
 <tr class="even">
 <td><p>2006</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バベル_(映画)" title="wikilink">バベル</a><br />
+<td><p><a href="../Page/バベル_(映画).md" title="wikilink">バベル</a><br />
 <em>Babel</em></p></td>
 <td><p>国境の兵士</p></td>
 <td></td>
@@ -322,7 +322,7 @@
 <td><p>第3シーズン第17話「偏見」</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/NYPDブルー" title="wikilink">NYPDブルー</a><br />
+<td><p><a href="../Page/NYPDブルー.md" title="wikilink">NYPDブルー</a><br />
 <em>NYPD Blue</em></p></td>
 <td><p>ジミー・コルテス</p></td>
 <td><p>第4シーズン第18話「救済」</p></td>
@@ -344,7 +344,7 @@
 </tr>
 <tr class="odd">
 <td><p>2007</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ザ・シールド_ルール無用の警察バッジ" title="wikilink">ザ・シールド ルール無用の警察バッジ</a><br />
+<td><p><a href="../Page/ザ・シールド_ルール無用の警察バッジ.md" title="wikilink">ザ・シールド ルール無用の警察バッジ</a><br />
 <em>The Shield</em></p></td>
 <td><p>ハーナン</p></td>
 <td><p>計2話出演</p></td>
@@ -365,7 +365,7 @@
 </tr>
 <tr class="even">
 <td><p>2011</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CSI:ニューヨーク" title="wikilink">CSI:ニューヨーク</a><br />
+<td><p><a href="../Page/CSI:ニューヨーク.md" title="wikilink">CSI:ニューヨーク</a><br />
 <em>CSI:NY</em></p></td>
 <td><p>レイモンド・ハリス</p></td>
 <td><p>計2話出演</p></td>
@@ -401,7 +401,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2004</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グランド・セフト・オート・サンアンドレアス" title="wikilink">グランド・セフト・オート・サンアンドレアス</a><br />
+<td><p><a href="../Page/グランド・セフト・オート・サンアンドレアス.md" title="wikilink">グランド・セフト・オート・サンアンドレアス</a><br />
 <em>Grand Theft Auto: San Andreas</em></p></td>
 <td><p>シーザー・ビアルパンド</p></td>
 <td><p>声の出演</p></td>

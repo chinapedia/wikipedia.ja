@@ -1,7 +1,7 @@
 > この記事は[INDIVIDUAL](https://ja.wikipedia.org/wiki/INDIVIDUAL)から翻訳されています。
 
 
-**INDIVIDUAL**（インディビデュアル）は[MANISH](https://ja.wikipedia.org/wiki/MANISH "wikilink")の2枚目のアルバムである｡
+**INDIVIDUAL**（インディビデュアル）は[MANISH](../Page/MANISH.md "wikilink")の2枚目のアルバムである｡
 
 ## 内容
 
@@ -11,15 +11,15 @@
 
 ## 収録曲
 
-1.  **[だけど止められない Version)](https://ja.wikipedia.org/wiki/だけど止められない "wikilink")(Album**
+1.  **[だけど止められない Version)](../Page/だけど止められない.md "wikilink")(Album**
       -
         作詞：高橋美鈴　作曲：西本麻里　編曲：明石昌夫
     <!-- end list -->
       - シングルでは最後が[フェードアウト](https://ja.wikipedia.org/wiki/フェードアウト "wikilink")するが、こちらは演奏がすべて流れて終わる。
-2.  **[走り出せLonely Night](https://ja.wikipedia.org/wiki/走り出せLonely_Night "wikilink")**
+2.  **[走り出せLonely Night](../Page/走り出せLonely_Night.md "wikilink")**
       -
-        作詞：高橋美鈴　作曲：[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")　編曲：明石昌夫
-3.  **[明日のStory](https://ja.wikipedia.org/wiki/明日のStory "wikilink")**
+        作詞：高橋美鈴　作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")　編曲：明石昌夫
+3.  **[明日のStory](../Page/明日のStory.md "wikilink")**
       -
         作詞：高橋美鈴・[井上留美子](https://ja.wikipedia.org/wiki/井上留美子 "wikilink")　作曲：西本麻里　編曲：明石昌夫
 4.  **ゆずれない瞬間（とき）**
@@ -32,10 +32,10 @@
         作詞：高橋美鈴　作曲：西本麻里　編曲：明石昌夫
     <!-- end list -->
       - MANISHでは珍しい変拍子の楽曲。
-6.  **[もう誰の目も気にしない](https://ja.wikipedia.org/wiki/もう誰の目も気にしない "wikilink")**
+6.  **[もう誰の目も気にしない](../Page/もう誰の目も気にしない.md "wikilink")**
       -
-        作詞：[小田佳奈子](https://ja.wikipedia.org/wiki/小田佳奈子 "wikilink")　作曲：西本麻里　編曲：明石昌夫
-7.  **[眠らない街に流されて](https://ja.wikipedia.org/wiki/眠らない街に流されて "wikilink")**
+        作詞：[小田佳奈子](../Page/小田佳奈子.md "wikilink")　作曲：西本麻里　編曲：明石昌夫
+7.  **[眠らない街に流されて](../Page/眠らない街に流されて.md "wikilink")**
       -
         作詞：[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")　作曲：[織田哲郎](../Page/織田哲郎.md "wikilink")　編曲：明石昌夫
 8.  **[君が欲しい 全部欲しい(Album Version)](https://ja.wikipedia.org/wiki/君が欲しい全部欲しい "wikilink")**
@@ -58,22 +58,22 @@
 
   - 高橋美鈴 - ボーカル
   - 西本麻里 - キーボード、コーラス
-      - [明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink") - ベース
+      - [明石昌夫](../Page/明石昌夫.md "wikilink") - ベース
       - [鈴木英俊](../Page/鈴木英俊.md "wikilink") - ギター
-      - [小野塚晃](https://ja.wikipedia.org/wiki/小野塚晃 "wikilink")（[DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")） - ピアノ
+      - [小野塚晃](../Page/小野塚晃.md "wikilink")（[DIMENSION](../Page/DIMENSION.md "wikilink")） - ピアノ
       - [勝田一樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink")（DIMENSION） - サックス
       - 大黒摩季 - コーラス
-      - 栗林誠一郎（[ZYYG](https://ja.wikipedia.org/wiki/ZYYG "wikilink")） - コーラス
-      - [生沢佑一](https://ja.wikipedia.org/wiki/生沢佑一 "wikilink")（[TWINZER](https://ja.wikipedia.org/wiki/TWINZER "wikilink")） - コーラス
-      - [牧穂エミ](https://ja.wikipedia.org/wiki/牧穂エミ "wikilink") - コーラス
+      - 栗林誠一郎（[ZYYG](../Page/ZYYG.md "wikilink")） - コーラス
+      - [生沢佑一](../Page/生沢佑一.md "wikilink")（[TWINZER](../Page/TWINZER.md "wikilink")） - コーラス
+      - [牧穂エミ](../Page/牧穂エミ.md "wikilink") - コーラス
       - 大森絹子 - コーラス
       - 井上留美子 - コーラス
       - 高原裕枝 - コーラス
 
 ## 関連項目
 
-  - [MANISH](https://ja.wikipedia.org/wiki/MANISH "wikilink")
-  - [明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+  - [MANISH](../Page/MANISH.md "wikilink")
+  - [明石昌夫](../Page/明石昌夫.md "wikilink")
   - [鈴木英俊](../Page/鈴木英俊.md "wikilink")
 
 ## 脚注
@@ -86,4 +86,4 @@
 
 [Category:1994年のアルバム](https://ja.wikipedia.org/wiki/Category:1994年のアルバム "wikilink") [Category:MANISHのアルバム](https://ja.wikipedia.org/wiki/Category:MANISHのアルバム "wikilink")
 
-1.  「[CD NEWS](https://ja.wikipedia.org/wiki/CD_NEWS "wikilink")」でアルバムが紹介された際に、MCの[浜家優子が制作エピソードとして制作期間についてコメントしている](https://ja.wikipedia.org/wiki/浜家有文子 "wikilink")。
+1.  「[CD NEWS](https://ja.wikipedia.org/wiki/CD_NEWS "wikilink")」でアルバムが紹介された際に、MCの[浜家優子が制作エピソードとして制作期間についてコメントしている](../Page/浜家有文子.md "wikilink")。

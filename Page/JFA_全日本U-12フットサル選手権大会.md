@@ -7,11 +7,11 @@
 
 ## 概要
 
-決勝大会は8月に[駒沢体育館で開かれる](https://ja.wikipedia.org/wiki/駒沢オリンピック公園総合運動場体育館 "wikilink")。[ハウス食品グループ本社](https://ja.wikipedia.org/wiki/ハウス食品グループ本社 "wikilink")（[ハウス食品](../Page/ハウス食品.md "wikilink")）が協賛しているため、**[バーモントカップ](https://ja.wikipedia.org/wiki/バーモントカレー "wikilink")**とも呼ばれる。2014年度までは9月から11月まで予選、翌年1月に決勝大会が行われていたが、[全日本少年サッカー大会決勝大会が冬開催移行に伴い](https://ja.wikipedia.org/wiki/JFA_全日本U-12サッカー選手権大会 "wikilink")、本大会も2015年度からは夏開催に変更される。
+決勝大会は8月に[駒沢体育館で開かれる](../Page/駒沢オリンピック公園総合運動場体育館.md "wikilink")。[ハウス食品グループ本社](https://ja.wikipedia.org/wiki/ハウス食品グループ本社 "wikilink")（[ハウス食品](../Page/ハウス食品.md "wikilink")）が協賛しているため、**[バーモントカップ](../Page/バーモントカレー.md "wikilink")**とも呼ばれる。2014年度までは9月から11月まで予選、翌年1月に決勝大会が行われていたが、[全日本少年サッカー大会決勝大会が冬開催移行に伴い](../Page/JFA_全日本U-12サッカー選手権大会.md "wikilink")、本大会も2015年度からは夏開催に変更される。
 
 出場チームは各都道府県47チームに加え、前年度予選参加チームの多い都道府県に更に1チームを加えた48チームで争われる。
 
-過去には[小野伸二](../Page/小野伸二.md "wikilink")や[我那覇和樹](https://ja.wikipedia.org/wiki/我那覇和樹 "wikilink")、[遊佐克美](../Page/遊佐克美.md "wikilink")、[原口元気](https://ja.wikipedia.org/wiki/原口元気 "wikilink")、[フットサル日本代表](https://ja.wikipedia.org/wiki/フットサル日本代表 "wikilink")の[木暮賢一郎](https://ja.wikipedia.org/wiki/木暮賢一郎 "wikilink")らを輩出している。
+過去には[小野伸二](../Page/小野伸二.md "wikilink")や[我那覇和樹](../Page/我那覇和樹.md "wikilink")、[遊佐克美](../Page/遊佐克美.md "wikilink")、[原口元気](../Page/原口元気.md "wikilink")、[フットサル日本代表](../Page/フットサル日本代表.md "wikilink")の[木暮賢一郎](../Page/木暮賢一郎.md "wikilink")らを輩出している。
 
 長年**全日本少年フットサル大会**（ぜんにほんしょうねんフットサルたいかい）として開催されてきたが、2017年11月1日に[日本サッカー協会](../Page/日本サッカー協会.md "wikilink") (JFA) が発表した「JFAブランディング」の一環としてJFA主催の2018年以降全ての大会名称に "JFA" の文字を加えること、全ての育成年代の大会表記を「全日本U-○○大会」に統一すること\[1\]から、現在の大会名となっている。
 
@@ -124,7 +124,7 @@
 <td><p>2004年度</p></td>
 <td><p><strong>FCアスクラロ沼津</strong></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ディアブロッサ高田FC" title="wikilink">高田FC</a></p></td>
+<td><p><a href="../Page/ディアブロッサ高田FC.md" title="wikilink">高田FC</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -240,7 +240,7 @@
 
 ## 関連項目
 
-  - [日本のフットサル](https://ja.wikipedia.org/wiki/日本のフットサル "wikilink")
+  - [日本のフットサル](../Page/日本のフットサル.md "wikilink")
 
 ## 外部リンク
 

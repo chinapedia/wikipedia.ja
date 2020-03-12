@@ -1,21 +1,21 @@
 > この記事は[BITTER AND SWEET \(\)](https://ja.wikipedia.org/wiki/BITTER_AND_SWEET_\(\))から翻訳されています。
 
 
-『**BITTER AND SWEET**』（ビター・アンド・スウィート）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の7枚目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。このアルバムは1985年4月3日に[ワーナー・パイオニアよりリリースされた](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink") ([LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-12593, [CT](../Page/コンパクトカセット.md "wikilink"): LKF-8093)。
+『**BITTER AND SWEET**』（ビター・アンド・スウィート）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の7枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1985年4月3日に[ワーナー・パイオニアよりリリースされた](../Page/ワーナーミュージック・ジャパン.md "wikilink") ([LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-12593, [CT](../Page/コンパクトカセット.md "wikilink"): LKF-8093)。
 
 ## 背景
 
-『BITTER AND SWEET』は、中森にとって8枚目の[アルバム](../Page/アルバム.md "wikilink")で、このアルバムの[帯及びディスクジャケットにも](https://ja.wikipedia.org/wiki/帯_\(出版\) "wikilink")"8TH ALBUM"と表記されている\[1\]\[2\]。[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")としては通算7枚目にあたる\[3\]。このアルバムは、1985年4月3日に[LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink") (L-12593)と[コンパクトカセット](../Page/コンパクトカセット.md "wikilink") (LKF-8093)の2形態で同時発売後、同年4月25日には[CD](../Page/コンパクトディスク.md "wikilink") (32XL-61)でも発売された\[4\]\[5\]。本作は[井上陽水](../Page/井上陽水.md "wikilink")、[EPO](https://ja.wikipedia.org/wiki/EPO "wikilink")、[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")、[神保彰](https://ja.wikipedia.org/wiki/神保彰 "wikilink")ら作曲陣を迎え、各収録曲でミュージシャン・チームを変えてレコーディングが行われた\[6\]。このアルバムのプロデュースは、前スタジオ・アルバム『[POSSIBILITY](../Page/POSSIBILITY_\(中森明菜のアルバム\).md "wikilink")』に続き[島田雄三が担当した](https://ja.wikipedia.org/wiki/島田雄三_\(プロデューサー\) "wikilink")\[7\]\[8\]。アルバムのレコーディングは、アオイスタジオ、チェリーアイランドスタジオ、[一口坂スタジオ](https://ja.wikipedia.org/wiki/一口坂スタジオ "wikilink")、Sound Inn Studio、Sedic Studio、Freedom Studioで行われた\[9\]。
+『BITTER AND SWEET』は、中森にとって8枚目の[アルバム](../Page/アルバム.md "wikilink")で、このアルバムの[帯及びディスクジャケットにも](https://ja.wikipedia.org/wiki/帯_\(出版\) "wikilink")"8TH ALBUM"と表記されている\[1\]\[2\]。[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")としては通算7枚目にあたる\[3\]。このアルバムは、1985年4月3日に[LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink") (L-12593)と[コンパクトカセット](../Page/コンパクトカセット.md "wikilink") (LKF-8093)の2形態で同時発売後、同年4月25日には[CD](../Page/コンパクトディスク.md "wikilink") (32XL-61)でも発売された\[4\]\[5\]。本作は[井上陽水](../Page/井上陽水.md "wikilink")、[EPO](../Page/EPO.md "wikilink")、[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")、[神保彰](../Page/神保彰.md "wikilink")ら作曲陣を迎え、各収録曲でミュージシャン・チームを変えてレコーディングが行われた\[6\]。このアルバムのプロデュースは、前スタジオ・アルバム『[POSSIBILITY](../Page/POSSIBILITY_\(中森明菜のアルバム\).md "wikilink")』に続き[島田雄三が担当した](https://ja.wikipedia.org/wiki/島田雄三_\(プロデューサー\) "wikilink")\[7\]\[8\]。アルバムのレコーディングは、アオイスタジオ、チェリーアイランドスタジオ、[一口坂スタジオ](../Page/一口坂スタジオ.md "wikilink")、Sound Inn Studio、Sedic Studio、Freedom Studioで行われた\[9\]。
 
-本作リリース後の1985年7月6日からは、本作を引っ提げた中森の全国[コンサート・ツアー](https://ja.wikipedia.org/wiki/コンサート・ツアー "wikilink")[BITTER & SWEETが開催された](https://ja.wikipedia.org/wiki/BITTER_&_SWEET_1985_SUMMER_TOUR#BITTER_&_SWEET_\(中森明菜のコンサート・ツアー\) "wikilink")\[10\]\[11\]\[12\]。本作収録曲は音楽番組でも披露され、1986年1月15日放送の[フジテレビ系音楽番組](../Page/フジネットワーク.md "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE』で、8曲目の「恋人のいる時間」をテレビ披露した。この他、「DREAMING」と「予感」が[NHK総合テレビの音楽番組](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")『[ヤングスタジオ101](https://ja.wikipedia.org/wiki/ヤングスタジオ101 "wikilink")』にて、「BABYLON」は[TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[だぅもありがと\!](https://ja.wikipedia.org/wiki/だぅもありがと! "wikilink")』にて披露された。
+本作リリース後の1985年7月6日からは、本作を引っ提げた中森の全国[コンサート・ツアー](https://ja.wikipedia.org/wiki/コンサート・ツアー "wikilink")[BITTER & SWEETが開催された](https://ja.wikipedia.org/wiki/BITTER_&_SWEET_1985_SUMMER_TOUR#BITTER_&_SWEET_\(中森明菜のコンサート・ツアー\) "wikilink")\[10\]\[11\]\[12\]。本作収録曲は音楽番組でも披露され、1986年1月15日放送の[フジテレビ系音楽番組](../Page/フジネットワーク.md "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE』で、8曲目の「恋人のいる時間」をテレビ披露した。この他、「DREAMING」と「予感」が[NHK総合テレビの音楽番組](../Page/NHK総合テレビジョン.md "wikilink")『[ヤングスタジオ101](https://ja.wikipedia.org/wiki/ヤングスタジオ101 "wikilink")』にて、「BABYLON」は[TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[だぅもありがと\!](../Page/だぅもありがと!.md "wikilink")』にて披露された。
 
-本作収録の3曲目である「予感」が、1985年12月21日リリースのミニ・アルバム『[MY BEST THANKS](https://ja.wikipedia.org/wiki/MY_BEST_THANKS "wikilink")』にて再録(リマスタリング・リミックス)された\[13\]\[14\]。1986年2月25日発売のオリジナル・カラオケ（9)にはフェイド・アウトが少し長いヴァージョンが収録されている。また同曲は、1995年12月に発売の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[true album akina 95 best](https://ja.wikipedia.org/wiki/true_album_akina_95_best "wikilink")』でも新録された\[15\]\[16\]。
+本作収録の3曲目である「予感」が、1985年12月21日リリースのミニ・アルバム『[MY BEST THANKS](../Page/MY_BEST_THANKS.md "wikilink")』にて再録(リマスタリング・リミックス)された\[13\]\[14\]。1986年2月25日発売のオリジナル・カラオケ（9)にはフェイド・アウトが少し長いヴァージョンが収録されている。また同曲は、1995年12月に発売の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[true album akina 95 best](https://ja.wikipedia.org/wiki/true_album_akina_95_best "wikilink")』でも新録された\[15\]\[16\]。
 
 ## シングル
 
-「[飾りじゃないのよ涙は](https://ja.wikipedia.org/wiki/飾りじゃないのよ涙は "wikilink")」が、本作からのリード・シングルとして1984年11月14日に発売された\[17\]\[18\]\[19\]。本作では、この楽曲はニュー・リミックス・ヴァージョンとして収められ、1曲目に配置された\[20\]\[21\]。この楽曲は1985年の[オリコン年間シングルチャートでトップテン入りを果たした](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")\[22\]。
+「[飾りじゃないのよ涙は](../Page/飾りじゃないのよ涙は.md "wikilink")」が、本作からのリード・シングルとして1984年11月14日に発売された\[17\]\[18\]\[19\]。本作では、この楽曲はニュー・リミックス・ヴァージョンとして収められ、1曲目に配置された\[20\]\[21\]。この楽曲は1985年の[オリコン年間シングルチャートでトップテン入りを果たした](../Page/オリコンチャート.md "wikilink")\[22\]。
 
-1985年5月1日には、本作5曲目の「BABYLON」が、[12インチシングル](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")「[赤い鳥逃げた](https://ja.wikipedia.org/wiki/赤い鳥逃げた "wikilink")」のB面としてヴァージョンを変えて収録された\[23\]\[24\]\[25\]。
+1985年5月1日には、本作5曲目の「BABYLON」が、[12インチシングル](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")「[赤い鳥逃げた](../Page/赤い鳥逃げた.md "wikilink")」のB面としてヴァージョンを変えて収録された\[23\]\[24\]\[25\]。
 
 ## 批評
 
@@ -23,7 +23,7 @@
 
 ## チャート成績
 
-本作は、[オリコン週間LPチャートの](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1985年4月15日付で初登場し最高順位1位を記録後、翌週の1985年4月22日付も1位を記録し、通算で2週連続となる1位を獲得した\[28\]\[29\]。同チャートには、計20週に渡ってランクインしている\[30\]。本作のカセット盤（規格品番: LKF-8093）も[オリコン週間カセットチャートで最高順位](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を記録し、同チャートには計24週に渡ってランクインしている\[31\]。1985年の[オリコン年間アルバムチャートでは](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")9位を記録した。
+本作は、[オリコン週間LPチャートの](../Page/オリコンチャート.md "wikilink")1985年4月15日付で初登場し最高順位1位を記録後、翌週の1985年4月22日付も1位を記録し、通算で2週連続となる1位を獲得した\[28\]\[29\]。同チャートには、計20週に渡ってランクインしている\[30\]。本作のカセット盤（規格品番: LKF-8093）も[オリコン週間カセットチャートで最高順位](../Page/オリコンチャート.md "wikilink")1位を記録し、同チャートには計24週に渡ってランクインしている\[31\]。1985年の[オリコン年間アルバムチャートでは](../Page/オリコンチャート.md "wikilink")9位を記録した。
 
 ## 収録曲
 
@@ -33,61 +33,61 @@
 
 ### 参加ミュージシャン
 
-  - 「[飾りじゃないのよ涙は](https://ja.wikipedia.org/wiki/飾りじゃないのよ涙は "wikilink") 」
+  - 「[飾りじゃないのよ涙は](../Page/飾りじゃないのよ涙は.md "wikilink") 」
       - キーボード - 矢島真紀子
       - シンセサイザー - 富樫春生
       - ベース - 長岡道夫
       - ドラムス - 滝本季延
-      - ギター - [矢島賢](https://ja.wikipedia.org/wiki/矢島賢 "wikilink")、[芳野藤丸](https://ja.wikipedia.org/wiki/芳野藤丸 "wikilink")
+      - ギター - [矢島賢](../Page/矢島賢.md "wikilink")、[芳野藤丸](../Page/芳野藤丸.md "wikilink")
       - L.パーカッション - [浜口茂外也](https://ja.wikipedia.org/wiki/浜口茂外也 "wikilink")
-      - トランペット - [数原晋](https://ja.wikipedia.org/wiki/数原晋 "wikilink")、[小林正弘](https://ja.wikipedia.org/wiki/小林正弘 "wikilink")
+      - トランペット - [数原晋](../Page/数原晋.md "wikilink")、[小林正弘](../Page/小林正弘.md "wikilink")
       - トロンボーン - 新井英治
       - サックス - [ジェイク](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")
       - コーラス - [イブ](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")
   - 「ロマンティックな夜だわ」
-      - キーボード - [清水信之](https://ja.wikipedia.org/wiki/清水信之 "wikilink")
-      - ドラムス - [村上秀一](https://ja.wikipedia.org/wiki/村上秀一 "wikilink")
-      - ギター - [今剛](https://ja.wikipedia.org/wiki/今剛 "wikilink")
+      - キーボード - [清水信之](../Page/清水信之.md "wikilink")
+      - ドラムス - [村上秀一](../Page/村上秀一.md "wikilink")
+      - ギター - [今剛](../Page/今剛.md "wikilink")
       - トランペット - 数原晋
-      - サックス - [中村哲](https://ja.wikipedia.org/wiki/中村哲_\(作曲家\) "wikilink")
-      - コーラス - [伊集加代](https://ja.wikipedia.org/wiki/伊集加代 "wikilink")子、[鈴木宏子](https://ja.wikipedia.org/wiki/鈴木宏子 "wikilink")、和田夏代子
+      - サックス - [中村哲](../Page/中村哲_\(作曲家\).md "wikilink")
+      - コーラス - [伊集加代](../Page/伊集加代.md "wikilink")子、[鈴木宏子](https://ja.wikipedia.org/wiki/鈴木宏子 "wikilink")、和田夏代子
   - 「予感」
-      - キーボード - 松田真人、[奥慶一](https://ja.wikipedia.org/wiki/奥慶一 "wikilink")
+      - キーボード - 松田真人、[奥慶一](../Page/奥慶一.md "wikilink")
       - ベース - 岡沢章
-      - ドラムス - [青山純](https://ja.wikipedia.org/wiki/青山純 "wikilink")
-      - ギター - [椎名和夫](https://ja.wikipedia.org/wiki/椎名和夫 "wikilink")
+      - ドラムス - [青山純](../Page/青山純.md "wikilink")
+      - ギター - [椎名和夫](../Page/椎名和夫.md "wikilink")
       - L.パーカッション - 浜口茂外也
   - 「月夜のヴィーナス」
-      - キーボード - [松岡直也](https://ja.wikipedia.org/wiki/松岡直也 "wikilink")、津垣博通
+      - キーボード - [松岡直也](../Page/松岡直也.md "wikilink")、津垣博通
       - ドラムス - 広瀬徳志
       - ギター - [和田アキラ](https://ja.wikipedia.org/wiki/和田アキラ "wikilink")
       - ストリングス - 友田啓明グループ
       - トランペット - [吉田憲司](https://ja.wikipedia.org/wiki/吉田憲司_\(ミュージシャン\) "wikilink")、岸義和、林研一郎
       - トロンボーン - 西山健治、中沢忠孝、花坂義孝
   - 「BABYLON」
-      - キーボード - [井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")
+      - キーボード - [井上鑑](../Page/井上鑑.md "wikilink")
       - ベース - 渡辺守朗
-      - ドラムス - [山木秀夫](https://ja.wikipedia.org/wiki/山木秀夫 "wikilink")
-      - ギター - [松原正樹](https://ja.wikipedia.org/wiki/松原正樹 "wikilink")
-      - コーラス - [Sandii](https://ja.wikipedia.org/wiki/サンディー "wikilink")
+      - ドラムス - [山木秀夫](../Page/山木秀夫.md "wikilink")
+      - ギター - [松原正樹](../Page/松原正樹.md "wikilink")
+      - コーラス - [Sandii](../Page/サンディー.md "wikilink")
   - 「UNSTEADY LOVE」
       - キーボード - 林有三、友成好宏
-      - ベース - [青木智仁](https://ja.wikipedia.org/wiki/青木智仁 "wikilink")
+      - ベース - [青木智仁](../Page/青木智仁.md "wikilink")
       - ドラムス - [江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink")
       - ギター - [角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")、今剛
       - コーラス - 国分友里恵、山際祥子、遠藤栄子
   - 「DREAMING」
       - キーボード - [新川博](https://ja.wikipedia.org/wiki/新川博 "wikilink")
       - ベース - 長岡道夫
-      - ドラムス - [島村英二](https://ja.wikipedia.org/wiki/島村英二 "wikilink")
-      - ギター - [松原正樹](https://ja.wikipedia.org/wiki/松原正樹 "wikilink")
+      - ドラムス - [島村英二](../Page/島村英二.md "wikilink")
+      - ギター - [松原正樹](../Page/松原正樹.md "wikilink")
       - L.パーカッション - [斉藤ノブ](https://ja.wikipedia.org/wiki/斉藤ノヴ "wikilink")
   - 「恋人のいる時間」
       - キーボード - 井上鑑
       - ベース - 渡辺守朗
-      - ドラムス - [神保彰](https://ja.wikipedia.org/wiki/神保彰 "wikilink")
+      - ドラムス - [神保彰](../Page/神保彰.md "wikilink")
       - ギター - 土方隆行
-      - サックス - [土岐英史](https://ja.wikipedia.org/wiki/土岐英史 "wikilink")
+      - サックス - [土岐英史](../Page/土岐英史.md "wikilink")
       - L.パーカッション - 浜口茂外也
   - 「SO LONG」
       - キーボード - 林有三、友成好宏
@@ -98,14 +98,14 @@
       - サックス - 包国充
       - コーラス - 国分友里恵、山際祥子、遠藤栄子
   - 「APRIL STARS」
-      - キーボード - 松田真人、[奥慶一](https://ja.wikipedia.org/wiki/奥慶一 "wikilink")
+      - キーボード - 松田真人、[奥慶一](../Page/奥慶一.md "wikilink")
       - ベース - 岡沢章
-      - ドラムス - [青山純](https://ja.wikipedia.org/wiki/青山純 "wikilink")
+      - ドラムス - [青山純](../Page/青山純.md "wikilink")
       - ギター - 椎名和夫
       - L.パーカッション - 浜口茂外也
       - パーカッション - 金山功
       - トランペット - 数原晋
-      - コーラス - [山川恵津子](https://ja.wikipedia.org/wiki/山川恵津子 "wikilink")、鳴海寛、椎名和夫
+      - コーラス - [山川恵津子](../Page/山川恵津子.md "wikilink")、鳴海寛、椎名和夫
 
 ### スタッフ
 
@@ -114,7 +114,7 @@
   - エンジニア: 石崎信郎
   - アシスタント・エンジニア: HIROYUKI SATOH
   - アルバム・プロダクション・アドバイザー: [角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")
-  - 録音: アオイスタジオ、チェリーアイランドスタジオ、[一口坂スタジオ](https://ja.wikipedia.org/wiki/一口坂スタジオ "wikilink")、Sound Inn Studio、Sedic Studio、Freedom Studio
+  - 録音: アオイスタジオ、チェリーアイランドスタジオ、[一口坂スタジオ](../Page/一口坂スタジオ.md "wikilink")、Sound Inn Studio、Sedic Studio、Freedom Studio
   - Mixed & Mastered at: ワーナー・パイオニア・スタジオ、Sedic Studio
   - アート・ディレクション: 持田恭男
   - 撮影: [篠山紀信](../Page/篠山紀信.md "wikilink")
@@ -136,7 +136,7 @@
 
 ## セルフカバー
 
-本作の1曲目として収録された「飾りじゃないのよ涙は」は、楽曲提供した[井上陽水](../Page/井上陽水.md "wikilink")によって[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")されている\[38\]\[39\]。また、本作の3曲目として収録された「予感」も、楽曲提供した[飛鳥涼](https://ja.wikipedia.org/wiki/ASKA "wikilink")（現[ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")）がセルフカバーしており、飛鳥が1988年8月にリリースしたソロ・アルバム『[SCENE](https://ja.wikipedia.org/wiki/SCENE_\(ASKAのアルバム\) "wikilink")』にこのセルフカバーが収録されている\[40\]\[41\]\[42\]\[43\]。更に、本作6曲目に収録の「UNSTEADY LOVE」も、楽曲提供した[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")によりセルフカバーされ、角松が2000年1月にリリースした[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")・アルバム『[The gentle sex](https://ja.wikipedia.org/wiki/The_gentle_sex "wikilink")』に、この楽曲のセルフカバーが収録された\[44\]\[45\]。
+本作の1曲目として収録された「飾りじゃないのよ涙は」は、楽曲提供した[井上陽水](../Page/井上陽水.md "wikilink")によって[セルフカバー](../Page/セルフカバー.md "wikilink")されている\[38\]\[39\]。また、本作の3曲目として収録された「予感」も、楽曲提供した[飛鳥涼](https://ja.wikipedia.org/wiki/ASKA "wikilink")（現[ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")）がセルフカバーしており、飛鳥が1988年8月にリリースしたソロ・アルバム『[SCENE](https://ja.wikipedia.org/wiki/SCENE_\(ASKAのアルバム\) "wikilink")』にこのセルフカバーが収録されている\[40\]\[41\]\[42\]\[43\]。更に、本作6曲目に収録の「UNSTEADY LOVE」も、楽曲提供した[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")によりセルフカバーされ、角松が2000年1月にリリースした[セルフカバー](../Page/セルフカバー.md "wikilink")・アルバム『[The gentle sex](https://ja.wikipedia.org/wiki/The_gentle_sex "wikilink")』に、この楽曲のセルフカバーが収録された\[44\]\[45\]。
 
 ## 参照
 

@@ -1,27 +1,27 @@
 > この記事は[Pay money To my Pain](https://ja.wikipedia.org/wiki/Pay_money_To_my_Pain)から翻訳されています。
 
 
-**Pay money To my Pain**（ペイ マネー トゥー マイ ペイン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")/[メタル](https://ja.wikipedia.org/wiki/オルタナティヴ・メタル "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")\[1\]。略称は「**P.T.P.**」。バンドが手がける楽曲の歌詞の全てが英語である\[2\]。
+**Pay money To my Pain**（ペイ マネー トゥー マイ ペイン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")/[メタル](../Page/オルタナティヴ・メタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")\[1\]。略称は「**P.T.P.**」。バンドが手がける楽曲の歌詞の全てが英語である\[2\]。
 
 ## 概要
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[GUNDOG](https://ja.wikipedia.org/wiki/GUNDOG "wikilink")の活動を停止した[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")のKが、新たなメンバーと同年に結成。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。[スラッシュメタル](../Page/スラッシュメタル.md "wikilink")や[ハードコア・パンク](../Page/ハードコア・パンク.md "wikilink")、[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")などに影響された[ラウドロック](https://ja.wikipedia.org/wiki/ラウドロック "wikilink")と呼ばれるスタイルで知られる。
+[2005年](../Page/2005年.md "wikilink")に[GUNDOG](https://ja.wikipedia.org/wiki/GUNDOG "wikilink")の活動を停止した[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")のKが、新たなメンバーと同年に結成。[2006年](../Page/2006年.md "wikilink")に[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。[スラッシュメタル](../Page/スラッシュメタル.md "wikilink")や[ハードコア・パンク](../Page/ハードコア・パンク.md "wikilink")、[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")などに影響された[ラウドロック](../Page/ラウドロック.md "wikilink")と呼ばれるスタイルで知られる。
 
-楽曲制作や活動に関しては、全てメンバーによるセルフプロデュースで行われている。CD作品のスタジオ録音は[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニアにあるRadio](../Page/カリフォルニア州.md "wikilink") star studioにて行われた。 Kを中心に、[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")など同世代のバンドと親交があった。
+楽曲制作や活動に関しては、全てメンバーによるセルフプロデュースで行われている。CD作品のスタジオ録音は[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニアにあるRadio](../Page/カリフォルニア州.md "wikilink") star studioにて行われた。 Kを中心に、[RIZE](../Page/RIZE.md "wikilink")など同世代のバンドと親交があった。
 
 ## 略歴
 
   - 2004年
       - [9月11日](../Page/9月11日.md "wikilink")、「三鷹ハウス」と呼ばれる家の屋上を拠点に結成\[3\]。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [6月](../Page/6月.md "wikilink")、K渡米。
   - 2006年
-      - [1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、K一時帰国で[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")・[大阪](../Page/大阪.md "wikilink")にてライブを開催。
-      - [12月6日](../Page/12月6日.md "wikilink")、シングル「Drop of INK」で[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")より[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")
+      - [1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、K一時帰国で[東京](../Page/東京.md "wikilink")・[大阪](../Page/大阪.md "wikilink")にてライブを開催。
+      - [12月6日](../Page/12月6日.md "wikilink")、シングル「Drop of INK」で[バップ](../Page/バップ.md "wikilink")より[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。
+  - [2007年](../Page/2007年.md "wikilink")
       - [9月12日](../Page/9月12日.md "wikilink")、初のアルバム『Another day comes』を発売。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
-      - [4月6日](../Page/4月6日.md "wikilink")、ギターの[JINが脱退](https://ja.wikipedia.org/wiki/JIN_\(ミュージシャン\) "wikilink")。
+      - [4月6日](../Page/4月6日.md "wikilink")、ギターの[JINが脱退](../Page/JIN_\(ミュージシャン\).md "wikilink")。
       - [7月30日](../Page/7月30日.md "wikilink")、2枚目のシングル「Writing in the diary」を発売。
       - [8月27日](../Page/8月27日.md "wikilink")、初の[配信限定シングル](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")「All Because of You」を配信開始。
   - [2009年](../Page/2009年.md "wikilink")
@@ -41,31 +41,31 @@
   - [2019年](../Page/2019年.md "wikilink")
       - [12月9日](../Page/12月9日.md "wikilink")、[coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink")が主催を務めるライブイベント『BLARE FEST.2020』に参加する事が発表された。
   - [2020年](../Page/2020年.md "wikilink")
-      - [2月2日](../Page/2月2日.md "wikilink")、[coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink")が主催を務めるライブイベント『BLARE FEST.2020』二日目のFIRE STAGEに出場。6年2か月ぶりのライブでLigarse、 Resurrection (feat. masato from [coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink") & 葉月 from [lynch.](https://ja.wikipedia.org/wiki/lynch. "wikilink"))、 Weight of my pride (feat. MAH from [SiM](https://ja.wikipedia.org/wiki/SiM "wikilink"))、 Respect for the dead man (feat. Koie & Teru from [Crossfaith](https://ja.wikipedia.org/wiki/Crossfaith "wikilink"), NOBUYA, N∀OKI from [ROTTENGRAFFTY](https://ja.wikipedia.org/wiki/ROTTENGRAFFTY "wikilink"))、 PICTURES (feat. Yosh from [Survive Said The Prophet](https://ja.wikipedia.org/wiki/Survive_Said_The_Prophet "wikilink"), AG from [NOISEMAKER](https://ja.wikipedia.org/wiki/NOISEMAKER "wikilink"))、Voice (feat. Taka from [ONE OK ROCK](https://ja.wikipedia.org/wiki/ONE_OK_ROCK "wikilink"))、Rain、This Lifeを演奏。
+      - [2月2日](../Page/2月2日.md "wikilink")、[coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink")が主催を務めるライブイベント『BLARE FEST.2020』二日目のFIRE STAGEに出場。6年2か月ぶりのライブでLigarse、 Resurrection (feat. masato from [coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink") & 葉月 from [lynch.](https://ja.wikipedia.org/wiki/lynch. "wikilink"))、 Weight of my pride (feat. MAH from [SiM](https://ja.wikipedia.org/wiki/SiM "wikilink"))、 Respect for the dead man (feat. Koie & Teru from [Crossfaith](https://ja.wikipedia.org/wiki/Crossfaith "wikilink"), NOBUYA, N∀OKI from [ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink"))、 PICTURES (feat. Yosh from [Survive Said The Prophet](https://ja.wikipedia.org/wiki/Survive_Said_The_Prophet "wikilink"), AG from [NOISEMAKER](https://ja.wikipedia.org/wiki/NOISEMAKER "wikilink"))、Voice (feat. Taka from [ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink"))、Rain、This Lifeを演奏。
 
 ## メンバー
 
   - **K**（ケー、[1981年](../Page/1981年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink") - [2012年](../Page/2012年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")）
-      - ボーカル担当。本名：後藤慶（ごとう けい）。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](https://ja.wikipedia.org/wiki/横浜市 "wikilink")出身。
+      - ボーカル担当。本名：後藤慶（ごとう けい）。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身。
       - [2003年](../Page/2003年.md "wikilink")にGUNDOGのボーカリストとしてデビュー。2004年末に活動停止後、2005年に渡米。バンド活動に限らず、他バンドへのボーカルフィーチャリングも行った。
-      - 身体にタトゥーをいくつも彫っており、タトゥーの専門雑誌『TATTOO BURST』（[コアマガジン](https://ja.wikipedia.org/wiki/コアマガジン "wikilink")社刊）の表紙モデルを担当したこともある。
+      - 身体にタトゥーをいくつも彫っており、タトゥーの専門雑誌『TATTOO BURST』（[コアマガジン](../Page/コアマガジン.md "wikilink")社刊）の表紙モデルを担当したこともある。
       - [2009年](../Page/2009年.md "wikilink")、日本に帰国した。
       - [2012年](../Page/2012年.md "wikilink")、精神的な疾患のため入退院を繰り返してきたが、12月30日心不全のため急逝。31歳没\[4\]。
   - **PABLO**（パブロ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[4月18日](../Page/4月18日.md "wikilink") - ）
-      - ギター担当。[兵庫県](../Page/兵庫県.md "wikilink")[宝塚市](../Page/宝塚市.md "wikilink")出身。本名：澤村パブロ良明（さわむら パブロ よしあき）。父親が日本人で母親がスペイン人のハーフ。[1999年](../Page/1999年.md "wikilink")に[GIRAFFEのギタリストとしてデビュー](https://ja.wikipedia.org/wiki/GIRAFFE_\(音楽グループ\) "wikilink")。[2002年](../Page/2002年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に解散後、[FAKE?](https://ja.wikipedia.org/wiki/FAKE? "wikilink")や[中島卓偉](https://ja.wikipedia.org/wiki/中島卓偉 "wikilink")、[LiSA](https://ja.wikipedia.org/wiki/LiSA "wikilink")等のサポートを務め、特にFAKE?についてはサポートの枠を超え貢献している。また2007年の[OBLIVION DUST再結成からは](https://ja.wikipedia.org/wiki/OBLIVION_DUST "wikilink")2012年までサポートを勤めた。そして現在に至る。
-      - [リンプ・ビズキット](https://ja.wikipedia.org/wiki/リンプ・ビズキット "wikilink")のギタリスト・オーディションでは最終選考まで残った。
-      - P.T.P.の他に自身がボーカルをとるPABLO BANDで活動し、[Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")[降谷建志](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")のソロプロジェクトにも参加している。
+      - ギター担当。[兵庫県](../Page/兵庫県.md "wikilink")[宝塚市](../Page/宝塚市.md "wikilink")出身。本名：澤村パブロ良明（さわむら パブロ よしあき）。父親が日本人で母親がスペイン人のハーフ。[1999年](../Page/1999年.md "wikilink")に[GIRAFFEのギタリストとしてデビュー](https://ja.wikipedia.org/wiki/GIRAFFE_\(音楽グループ\) "wikilink")。[2002年](../Page/2002年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に解散後、[FAKE?](../Page/FAKE?.md "wikilink")や[中島卓偉](../Page/中島卓偉.md "wikilink")、[LiSA](https://ja.wikipedia.org/wiki/LiSA "wikilink")等のサポートを務め、特にFAKE?についてはサポートの枠を超え貢献している。また2007年の[OBLIVION DUST再結成からは](https://ja.wikipedia.org/wiki/OBLIVION_DUST "wikilink")2012年までサポートを勤めた。そして現在に至る。
+      - [リンプ・ビズキット](../Page/リンプ・ビズキット.md "wikilink")のギタリスト・オーディションでは最終選考まで残った。
+      - P.T.P.の他に自身がボーカルをとるPABLO BANDで活動し、[Dragon Ash](../Page/Dragon_Ash.md "wikilink")[降谷建志](../Page/降谷建志.md "wikilink")のソロプロジェクトにも参加している。
       - 以前は[Paul Reed Smithのギターを主に使用していたが](https://ja.wikipedia.org/wiki/Paul_Reed_Smith "wikilink")、現在は[dragonfly](https://ja.wikipedia.org/wiki/dragonfly "wikilink")のギターをメインで使用している。
       - バンドではリーダーを務める\[5\]。
   - **T$UYO$HI**（ツヨシ、[1974年](../Page/1974年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink") - ）
-      - ベース担当。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。本名：石川剛（いしかわ つよし）。Blue Belly Jamを経て、[2000年](../Page/2000年.md "wikilink")にDRUG STORE COWBOYのベーシストとしてデビュー。[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")に活動休止後、[Def Techや](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")[LIVなどの楽曲にベースで参加し](https://ja.wikipedia.org/wiki/押尾学 "wikilink")、現在に至る。Combat guitarsのオーダメイドの3弦ベースを主に使用。バンドではマネージメント業務を行っている\[6\]。[The BONEZでも活動中](https://ja.wikipedia.org/wiki/The_BONEZ "wikilink")。
+      - ベース担当。[東京都](../Page/東京都.md "wikilink")出身。本名：石川剛（いしかわ つよし）。Blue Belly Jamを経て、[2000年](../Page/2000年.md "wikilink")にDRUG STORE COWBOYのベーシストとしてデビュー。[2004年](../Page/2004年.md "wikilink")に活動休止後、[Def Techや](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")[LIVなどの楽曲にベースで参加し](https://ja.wikipedia.org/wiki/押尾学 "wikilink")、現在に至る。Combat guitarsのオーダメイドの3弦ベースを主に使用。バンドではマネージメント業務を行っている\[6\]。[The BONEZでも活動中](https://ja.wikipedia.org/wiki/The_BONEZ "wikilink")。
   - **ZAX**（ザックス、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[6月6日](../Page/6月6日.md "wikilink")-）
-      - ドラム担当。[兵庫県](../Page/兵庫県.md "wikilink")[宝塚市](../Page/宝塚市.md "wikilink")出身。本名：勘座仁（かんざ じん）。2002年にKAMINARI解散後、元KAMINARIのボーカルの森大樹と共に結成したdawnhateでの活動を経て、現在に至る。P.T.P.の他にFallon、[The BONEZでも活動中](https://ja.wikipedia.org/wiki/The_BONEZ "wikilink")。T$UYO$HIと共に[SCHON](https://ja.wikipedia.org/wiki/SCHON "wikilink")のサポートも務める。
+      - ドラム担当。[兵庫県](../Page/兵庫県.md "wikilink")[宝塚市](../Page/宝塚市.md "wikilink")出身。本名：勘座仁（かんざ じん）。2002年にKAMINARI解散後、元KAMINARIのボーカルの森大樹と共に結成したdawnhateでの活動を経て、現在に至る。P.T.P.の他にFallon、[The BONEZでも活動中](https://ja.wikipedia.org/wiki/The_BONEZ "wikilink")。T$UYO$HIと共に[SCHON](../Page/SCHON.md "wikilink")のサポートも務める。
 
 ### 元メンバー
 
-  - **[JIN](https://ja.wikipedia.org/wiki/JIN_\(ミュージシャン\) "wikilink")**（ジン）
-      - ギター担当。[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[高槻市](https://ja.wikipedia.org/wiki/高槻市 "wikilink")出身。P.T.P.の他に、自身がボーカルを務めるNICKでも活動している。またプロデューサーとしても[ロットングラフティー](https://ja.wikipedia.org/wiki/ロットングラフティー "wikilink")や[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")等のプロデュースを行っている。GReeeeNのHIDEは実弟。
+  - **[JIN](../Page/JIN_\(ミュージシャン\).md "wikilink")**（ジン）
+      - ギター担当。[大阪府](../Page/大阪府.md "wikilink")[高槻市](../Page/高槻市.md "wikilink")出身。P.T.P.の他に、自身がボーカルを務めるNICKでも活動している。またプロデューサーとしても[ロットングラフティー](https://ja.wikipedia.org/wiki/ロットングラフティー "wikilink")や[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")等のプロデュースを行っている。GReeeeNのHIDEは実弟。
       - [ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンド出身で90年代から2002年までCHILD（ex.CHILD HOOD'S END）で活動していた。2003年には[indigo7](https://ja.wikipedia.org/wiki/indigo7 "wikilink")を結成。
       - 2008年4月6日をもって脱退。
       - 現在は[High Speed Boyzのボーカルとして活動](https://ja.wikipedia.org/wiki/High_Speed_Boyz "wikilink")。
@@ -173,7 +173,7 @@
 ### 配信限定シングル
 
 1.  All Because of You（2008年8月27日）
-      - [iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")・[着うた](../Page/着うた.md "wikilink")・[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")配信
+      - [iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")・[着うた](../Page/着うた.md "wikilink")・[着うたフル](../Page/着うたフル.md "wikilink")配信
 2.  Bury（2009年1月7日）
       - iTunes Store・着うた・着うたフル配信
       - 後に2ndアルバム「after you wake up」に収録
@@ -335,12 +335,12 @@ VPCC-81752:通常盤</p></td>
 <li>Last wine</li>
 <li>Truth fragile</li>
 <li>Respect for the dead man &lt;featuring Ken&amp;Teru from <a href="https://ja.wikipedia.org/wiki/Crossfaith" title="wikilink">Crossfaith</a>&gt;</li>
-<li>God drive &lt;P.T.P×KYONO from <a href="https://ja.wikipedia.org/wiki/WAGDUG_FUTURISTIC_UNITY" title="wikilink">WAGDUG FUTURISTIC UNITY</a>/T.C.L&gt;</li>
+<li>God drive &lt;P.T.P×KYONO from <a href="../Page/WAGDUG_FUTURISTIC_UNITY.md" title="wikilink">WAGDUG FUTURISTIC UNITY</a>/T.C.L&gt;</li>
 <li>Invisible night ~murderer~</li>
 <li>Resurrection &lt;P.T.P×Masato from <a href="https://ja.wikipedia.org/wiki/coldrain" title="wikilink">coldrain</a> &amp; 葉月 from <a href="https://ja.wikipedia.org/wiki/lynch." title="wikilink">lynch.</a>&gt;</li>
 <li>Innocent in a silent room</li>
-<li>Illumination &lt;P.T.P×JESSE from <a href="https://ja.wikipedia.org/wiki/RIZE" title="wikilink">RIZE</a>/The BONEZ&gt;</li>
-<li>Voice &lt;P.T.P×Taka from <a href="https://ja.wikipedia.org/wiki/ONE_OK_ROCK" title="wikilink">ONE OK ROCK</a>&gt;</li>
+<li>Illumination &lt;P.T.P×JESSE from <a href="../Page/RIZE.md" title="wikilink">RIZE</a>/The BONEZ&gt;</li>
+<li>Voice &lt;P.T.P×Taka from <a href="../Page/ONE_OK_ROCK.md" title="wikilink">ONE OK ROCK</a>&gt;</li>
 <li>Rain
 </div>
 </div></li>
@@ -473,21 +473,21 @@ TRCP-113</p></td>
 | **監督**                                                                                                                                          | **曲名**                                                                                                                                                                                                                                                                                                                                                                            |
 | [GENKI ITO](https://ja.wikipedia.org/wiki/GENKI_ITO "wikilink")                                                                                 | 「[Sweetest vengeance](https://www.youtube.com/watch?v=UjC7JDregQ8)」                                                                                                                                                                                                                                                                                                               |
 | [スズキダイシン](https://ja.wikipedia.org/wiki/スズキダイシン "wikilink")(ダイシン/daishin) ※厚木威人（アツキタケト）Rainのみ                                                   | 「Another day comes」「[Deprogrammer](https://www.youtube.com/watch?v=KkoEnYFvX18)」「Out of my hands」「Paralyzed ocean」「[Pictures](https://www.youtube.com/watch?v=FTtZHLsSHfI)」「Same as you are」 「[Rain](https://www.youtube.com/watch?v=ZjHSWHhbWiU)」「[weight of my pride（LIVE](https://www.youtube.com/watch?v=eqfDSb648g8)）」「[Greed](https://www.youtube.com/watch?v=JqMegvCYTTc)」 |
-| [竹内鉄郎](https://ja.wikipedia.org/wiki/竹内鉄郎 "wikilink")                                                                                           | 「The answer is not the TV」                                                                                                                                                                                                                                                                                                                                                        |
+| [竹内鉄郎](../Page/竹内鉄郎.md "wikilink")                                                                                                              | 「The answer is not the TV」                                                                                                                                                                                                                                                                                                                                                        |
 | [Rich Ragsdale](https://ja.wikipedia.org/wiki/Rich_Ragsdale "wikilink") & [Eric Bossick](https://ja.wikipedia.org/wiki/Eric_Bossick "wikilink") | 「Black sheep」「From here to somewhere」                                                                                                                                                                                                                                                                                                                                             |
 |                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                   |
 
 ## タイアップ
 
-| 曲名                      | タイアップ                                                                                                                                                                                                                                         |
-| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| From here to somewhere  | [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系[土曜ミッドナイトドラマ](https://ja.wikipedia.org/wiki/土曜ミッドナイトドラマ "wikilink")『[ティッシュ](https://ja.wikipedia.org/wiki/ティッシュ。 "wikilink")』主題歌                                                      |
-| Bury                    | [日本テレビ系アニメ](../Page/日本テレビ放送網.md "wikilink")『[ONE OUTS -ワンナウツ-](https://ja.wikipedia.org/wiki/ONE_OUTS#テレビアニメ "wikilink")』オープニングテーマ                                                                                                            |
-| Another day comes       | [CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[深夜特撮](https://ja.wikipedia.org/wiki/深夜特撮 "wikilink")『[ULTRASEVEN X](https://ja.wikipedia.org/wiki/ULTRASEVEN_X "wikilink")』主題歌 |
-| Paralyzed ocean         | 日本テレビ系ドラマ『[ザ・クイズショウ](https://ja.wikipedia.org/wiki/ザ・クイズショウ "wikilink")』主題歌                                                                                                                                                                   |
-| Home                    | 日本テレビ系アニメ『[BUZZER BEATER](https://ja.wikipedia.org/wiki/BUZZER_BEATER "wikilink")』エンディングテーマ                                                                                                                                                   |
-| Rain                    | 映画「[赤々煉恋](https://ja.wikipedia.org/wiki/赤々煉恋 "wikilink")」主題歌                                                                                                                                                                                  |
-| Respect for the deadman | 日本テレビ系アニメ『[ノブナガン](https://ja.wikipedia.org/wiki/ノブナガン "wikilink")』オープニングテーマ                                                                                                                                                                   |
+| 曲名                      | タイアップ                                                                                                                                                                                |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| From here to somewhere  | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系[土曜ミッドナイトドラマ](../Page/土曜ミッドナイトドラマ.md "wikilink")『[ティッシュ](../Page/ティッシュ。.md "wikilink")』主題歌                                                      |
+| Bury                    | [日本テレビ系アニメ](../Page/日本テレビ放送網.md "wikilink")『[ONE OUTS -ワンナウツ-](https://ja.wikipedia.org/wiki/ONE_OUTS#テレビアニメ "wikilink")』オープニングテーマ                                                   |
+| Another day comes       | [CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・[TBS系](../Page/TBSテレビ.md "wikilink")[深夜特撮](../Page/深夜特撮.md "wikilink")『[ULTRASEVEN X](../Page/ULTRASEVEN_X.md "wikilink")』主題歌 |
+| Paralyzed ocean         | 日本テレビ系ドラマ『[ザ・クイズショウ](https://ja.wikipedia.org/wiki/ザ・クイズショウ "wikilink")』主題歌                                                                                                          |
+| Home                    | 日本テレビ系アニメ『[BUZZER BEATER](../Page/BUZZER_BEATER.md "wikilink")』エンディングテーマ                                                                                                             |
+| Rain                    | 映画「[赤々煉恋](https://ja.wikipedia.org/wiki/赤々煉恋 "wikilink")」主題歌                                                                                                                         |
+| Respect for the deadman | 日本テレビ系アニメ『[ノブナガン](https://ja.wikipedia.org/wiki/ノブナガン "wikilink")』オープニングテーマ                                                                                                          |
 
 ## 主なライブ
 
@@ -508,12 +508,12 @@ TRCP-113</p></td>
   - 2008年4月5日・6日 - [PUNKSPRING](https://ja.wikipedia.org/wiki/PUNKSPRING "wikilink") 2008
   - 2008年8月9日・10日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2008
   - 2009年4月26日 - ポルノ超特急2009 春の陣 (10th Aniversary) ～広島の陣～
-  - 2009年5月21日 - [MTV](https://ja.wikipedia.org/wiki/MTV "wikilink") LIVE JAPAN TOUR'09 SPRING ～ROAD TO VMAJ～
+  - 2009年5月21日 - [MTV](../Page/MTV.md "wikilink") LIVE JAPAN TOUR'09 SPRING ～ROAD TO VMAJ～
   - 2009年8月7日・9日 - SUMMER SONIC 2009
   - 2009年8月15日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2009 in EZO
-  - 2009年10月2日 - [RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")×P.T.P
+  - 2009年10月2日 - [RIZE](../Page/RIZE.md "wikilink")×P.T.P
   - 2009年11月14日 - MADOllie2009 PUNK/ROCK DAY
-  - 2009年12月29日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 09/10
+  - 2009年12月29日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 09/10
   - 2010年3月22日 - 四鬼夜行 -三喰-
   - 2010年4月2日・3日 - PUNKSPRING 2010
   - 2010年5月15日 - BEA presents F-X 2010
@@ -530,14 +530,14 @@ TRCP-113</p></td>
   - 2011年11月18日 - Subciety A.V.E.S.T PROJECT Vol.5
   - 2011年12月8日 - [Fear, and Loathing in Las Vegas](https://ja.wikipedia.org/wiki/Fear,_and_Loathing_in_Las_Vegas "wikilink") NEXTREME Release Tour
   - 2012年2月9日 - DEVILOCK and SKULLSHIT
-  - 2012年2月13日 - [EVANESCENCE](https://ja.wikipedia.org/wiki/エヴァネッセンス "wikilink") JAPAN TOUR 2012
+  - 2012年2月13日 - [EVANESCENCE](../Page/エヴァネッセンス.md "wikilink") JAPAN TOUR 2012
   - 2012年2月26日 - DEVILOCK NIGHT THE FINAL
   - 2012年3月10日 -  2012（台湾）
   - 2012年4月2日 - PUNKSPRING 2012 EXTRA SHOWS
   - 2012年4月5日 - [773Four RECORDS](https://ja.wikipedia.org/wiki/773Four_RECORDS "wikilink") PRESENTS "FOUR SEASONS"
   - 2012年4月20日 - SONIC BOMB SPECIAL
   - 2012年4月21日 - HOTDOGGPARTY Vol.3×BOO NIGHT
-  - 2012年5月4日 - [J](https://ja.wikipedia.org/wiki/J_\(ミュージシャン\) "wikilink") LIVE 2012 \[ON FIRE\] -Special 3Nights Circuit-
+  - 2012年5月4日 - [J](../Page/J_\(ミュージシャン\).md "wikilink") LIVE 2012 \[ON FIRE\] -Special 3Nights Circuit-
   - 2012年7月14日 - [MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink") DON'T FEEL THE DISTANCE～8カ所だョ\!全員集合 エクストラ TOUR～
   - 2012年7月15日 - NIIGATA Rock Museum 2012
   - 2012年7月18日 - 雷鳴
@@ -547,7 +547,7 @@ TRCP-113</p></td>
   - 2012年8月5日 - ROCK IN JAPAN FESTIVAL 2012
   - 2012年8月19日 - SUMMER SONIC 2012
   - 2012年9月6日 - HOUSE OF CHAOS～high definition～
-  - 2012年9月23日 - [BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink") FEST 2012 ON PARADE
+  - 2012年9月23日 - [BUCK-TICK](../Page/BUCK-TICK.md "wikilink") FEST 2012 ON PARADE
   - 2020年2月2日 - BLARE FEST.2020
 
 ## 出典・脚注

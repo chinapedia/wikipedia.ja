@@ -7,7 +7,7 @@
 
 [α-ケトグルタル酸デヒドロゲナーゼ](https://ja.wikipedia.org/wiki/α-ケトグルタル酸デヒドロゲナーゼ "wikilink")による[脱炭酸](https://ja.wikipedia.org/wiki/脱炭酸 "wikilink")によって[α-ケトグルタル酸](https://ja.wikipedia.org/wiki/α-ケトグルタル酸 "wikilink")から合成される[クエン酸回路](https://ja.wikipedia.org/wiki/クエン酸回路 "wikilink")の重要な中間体である。この過程で[補酵素A](../Page/補酵素A.md "wikilink")が付加される。
 
-また、[β酸化](https://ja.wikipedia.org/wiki/β酸化 "wikilink")を受けることができない奇数脂肪酸である[プロピオニルCoA](https://ja.wikipedia.org/wiki/プロピオニルCoA "wikilink")からも合成される\[1\]。プロピオニルCoAは<small>D</small>-[メチルマロニルCoA](https://ja.wikipedia.org/wiki/メチルマロニルCoA "wikilink")に[カルボキシル化](../Page/カルボキシル化.md "wikilink")され、さらに<small>L</small>-メチルマロニルCoAに[異性化](https://ja.wikipedia.org/wiki/異性化 "wikilink")され、そして[ビタミンB<sub>12</sub>依存性酵素を経てスクシニルCoAの生成に再配列される](https://ja.wikipedia.org/wiki/ビタミンB12 "wikilink")。スクシニルCoAは[クエン酸回路](https://ja.wikipedia.org/wiki/クエン酸回路 "wikilink")の中間体であり、それに容易に取り込まれる。
+また、[β酸化](https://ja.wikipedia.org/wiki/β酸化 "wikilink")を受けることができない奇数脂肪酸である[プロピオニルCoA](https://ja.wikipedia.org/wiki/プロピオニルCoA "wikilink")からも合成される\[1\]。プロピオニルCoAは<small>D</small>-[メチルマロニルCoA](https://ja.wikipedia.org/wiki/メチルマロニルCoA "wikilink")に[カルボキシル化](../Page/カルボキシル化.md "wikilink")され、さらに<small>L</small>-メチルマロニルCoAに[異性化](../Page/異性化.md "wikilink")され、そして[ビタミンB<sub>12</sub>依存性酵素を経てスクシニルCoAの生成に再配列される](https://ja.wikipedia.org/wiki/ビタミンB12 "wikilink")。スクシニルCoAは[クエン酸回路](https://ja.wikipedia.org/wiki/クエン酸回路 "wikilink")の中間体であり、それに容易に取り込まれる。
 
 スクシニルCoAは[スクシニルCoAシンターゼ](https://ja.wikipedia.org/wiki/スクシニルCoAシンターゼ "wikilink")（コハク酸チオキナーゼ）による補酵素Aの[加水分解](../Page/加水分解.md "wikilink")によりコハク酸に変換される。
 

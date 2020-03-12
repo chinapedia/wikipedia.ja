@@ -10,8 +10,8 @@
     使用楽器：[フェンダー・テレキャスター](../Page/フェンダー・テレキャスター.md "wikilink")、レスポールTV Jr.等。福岡市立警固中学校出身。
   - **[苣木寛之](https://ja.wikipedia.org/wiki/苣木寛之 "wikilink")（ちさき ひろゆき）** [ギター](../Page/ギター.md "wikilink")・ボーカル
     [1960年](../Page/1960年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")生。
-    使用楽器：[ギブソン・レスポール](../Page/ギブソン・レスポール.md "wikilink")・カスタム、[ギブソン・レスポール](../Page/ギブソン・レスポール.md "wikilink")・ゴールドトップ、[ギブソン・ES-335](https://ja.wikipedia.org/wiki/ギブソン・ES-335 "wikilink")、[グレッチ](../Page/グレッチ.md "wikilink")等
-  - **[北里晃一](https://ja.wikipedia.org/wiki/北里晃一 "wikilink")（きたざと こういち）** [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・ピアノ・ボーカル
+    使用楽器：[ギブソン・レスポール](../Page/ギブソン・レスポール.md "wikilink")・カスタム、[ギブソン・レスポール](../Page/ギブソン・レスポール.md "wikilink")・ゴールドトップ、[ギブソン・ES-335](../Page/ギブソン・ES-335.md "wikilink")、[グレッチ](../Page/グレッチ.md "wikilink")等
+  - **[北里晃一](https://ja.wikipedia.org/wiki/北里晃一 "wikilink")（きたざと こういち）** [ベース](../Page/ベース_\(弦楽器\).md "wikilink")・ピアノ・ボーカル
     [1957年](../Page/1957年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")生。
     使用楽器：[フェンダー・ムスタングベース](https://ja.wikipedia.org/wiki/フェンダー・ムスタングベース "wikilink")
   - **佐々木周（ささき しゅう）** [ドラムス](../Page/ドラムセット.md "wikilink") ・ボーカル
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - 森山達也、[白浜久](../Page/白浜久.md "wikilink")、浅田孟、[川嶋一秀](https://ja.wikipedia.org/wiki/川嶋一秀 "wikilink")（白浜は後に[ARB](https://ja.wikipedia.org/wiki/ARB_\(バンド\) "wikilink")、浅田は[サンハウス](../Page/サンハウス.md "wikilink")、ARB、川嶋はサンハウス、[SHEENA & THE ROKKETSで活動](https://ja.wikipedia.org/wiki/SHEENA_&_THE_ROKKETS "wikilink")。）
+  - 森山達也、[白浜久](../Page/白浜久.md "wikilink")、浅田孟、[川嶋一秀](https://ja.wikipedia.org/wiki/川嶋一秀 "wikilink")（白浜は後に[ARB](../Page/ARB_\(バンド\).md "wikilink")、浅田は[サンハウス](../Page/サンハウス.md "wikilink")、ARB、川嶋はサンハウス、[SHEENA & THE ROKKETSで活動](https://ja.wikipedia.org/wiki/SHEENA_&_THE_ROKKETS "wikilink")。）
 
 <!-- end list -->
 
@@ -60,13 +60,13 @@
 
 **1976年：**　前年に「THE MOZZ」を解散し、第二期「THE MODS」を結成\[4\]。
 
-**1979年：**　映画『[狂い咲きサンダーロード](https://ja.wikipedia.org/wiki/狂い咲きサンダーロード "wikilink")』のサウンドトラックに参加。レコーディングは森山、北里と元[MODERN DOLLZの苣木](https://ja.wikipedia.org/wiki/MODERN_DOLLZ "wikilink")、梶浦の4人で行い、第三期「THE MODS」となる\[5\]\[6\]。
+**1979年：**　映画『[狂い咲きサンダーロード](../Page/狂い咲きサンダーロード.md "wikilink")』のサウンドトラックに参加。レコーディングは森山、北里と元[MODERN DOLLZの苣木](https://ja.wikipedia.org/wiki/MODERN_DOLLZ "wikilink")、梶浦の4人で行い、第三期「THE MODS」となる\[5\]\[6\]。
 
 **1980年：**　福岡「[80's FACTORY](https://ja.wikipedia.org/wiki/80's_FACTORY "wikilink")」で開かれた2日間のコンサートで、「80's FACTORY」の歴代最高動員記録を樹立\[7\]。上京し、ROCK専門のテレビ番組「[FIGHTING 80's](https://ja.wikipedia.org/wiki/FIGHTING_80's "wikilink")」にレギュラー出演する。これによってTHE MODSの名は全国区となり、新宿LOFTで行なわれた東京での初のワンマンコンサートは瞬く間に売り切れとなる。
 
 **1981年：**　EPIC/SONY、英CBSと契約。ロンドンでレコーディングを開始する\[8\]。6月21日にシングル「崩れ落ちる前に」、アルバム『[FIGHT OR FLIGHT](https://ja.wikipedia.org/wiki/FIGHT_OR_FLIGHT "wikilink")』でデビュー。この年、2度目の来日公演を果たした[THE JAMの前座を務めた](../Page/ザ・ジャム.md "wikilink")\[9\]\[10\]。11月には再びロンドンに渡り、ライヴハウス「[マーキー](https://ja.wikipedia.org/wiki/マーキー "wikilink")」にて3日連続のコンサートを行ない、最終日には満員となる。なお、その際のバンド名は、[モッズ](../Page/モッズ.md "wikilink")との混同を避けるために「NEWS BEAT」とした\[11\]。
 
-**1982年：**　6月20日に4000人を動員した[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")にてデビュー1周年コンサートを行なう。途中、記録的な集中豪雨に見舞われたにもかかわらず、誰1人として帰らなかった聴衆に応えて最後までステージをこなした。後に「**雨の野音**」という名で語られている\[12\]\[13\]\[14\]。8月8日には、長崎を襲った豪雨の救済コンサートを[福岡国際センター](https://ja.wikipedia.org/wiki/福岡国際センター "wikilink")で開催。義援金を被災地へ送った。
+**1982年：**　6月20日に4000人を動員した[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")にてデビュー1周年コンサートを行なう。途中、記録的な集中豪雨に見舞われたにもかかわらず、誰1人として帰らなかった聴衆に応えて最後までステージをこなした。後に「**雨の野音**」という名で語られている\[12\]\[13\]\[14\]。8月8日には、長崎を襲った豪雨の救済コンサートを[福岡国際センター](../Page/福岡国際センター.md "wikilink")で開催。義援金を被災地へ送った。
 
 1983年:シングル「激しい雨が」リリース このシングルはマクセル・カセットのテレビCFに起用された。 ロックバンドの映像が初めてお茶の間に流れた事で話題を呼び、シングルは大ヒット。チャートの上位にランキングされる。
 
@@ -127,7 +127,7 @@
 #### その他のシングル
 
   - [Love, かくし色](https://ja.wikipedia.org/wiki/Love,_かくし色 "wikilink") (1985年7月25日)
-      - 森山のソロ。[カネボウ化粧品](https://ja.wikipedia.org/wiki/カネボウ化粧品 "wikilink")秋のキャンペーンソング
+      - 森山のソロ。[カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink")秋のキャンペーンソング
 
 ### アルバム
 

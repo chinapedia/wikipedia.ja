@@ -9,7 +9,7 @@
 
 搭載している[汎用エンジン](https://ja.wikipedia.org/wiki/汎用エンジン "wikilink")は排気量31cc（[ホンダ](https://ja.wikipedia.org/wiki/ホンダ "wikilink")製GX31[1](http://www.honda.co.jp/news/1997/p97011.html)）から35cc（[富士重工製](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")[ロビンEH035](../Page/ロビンエンジン.md "wikilink")）の[4ストロークエンジンであるため](../Page/4ストローク機関.md "wikilink")、[道路交通法](../Page/道路交通法.md "wikilink")上は[原動機付自転車](../Page/原動機付自転車.md "wikilink")に分類される。
 
-最高速度が、道路交通法上の限定規定にある時速20kmを上回るため、[スピードメーター](../Page/速度計.md "wikilink")、[ウィンカーランプ](https://ja.wikipedia.org/wiki/方向指示器 "wikilink")、[ブレーキランプが装備されることとなった](https://ja.wikipedia.org/wiki/尾灯 "wikilink")。また、ウィンカーおよびテールランプは省電力化の目的から[LEDを使用し](../Page/発光ダイオード.md "wikilink")、。
+最高速度が、道路交通法上の限定規定にある時速20kmを上回るため、[スピードメーター](../Page/速度計.md "wikilink")、[ウィンカーランプ](../Page/方向指示器.md "wikilink")、[ブレーキランプが装備されることとなった](../Page/尾灯.md "wikilink")。また、ウィンカーおよびテールランプは省電力化の目的から[LEDを使用し](../Page/発光ダイオード.md "wikilink")、。
 
 もうひとつの特徴としてキットバイクを主仕様として設け、 日本初としている。
 
@@ -30,7 +30,7 @@
   - ST31（排気量31cc）
   - ST35（排気量35cc）
 
-STシリーズは、「LA-X」の別名をもち、ユーザーレベルでは「仔犬」「コイヌ」などの愛称で呼ばれる、仔猿シリーズの兄弟車種。[パイプフレームの仔猿とは異なり](https://ja.wikipedia.org/wiki/フレーム形式_\(自動車\)#アンセパレートフレーム "wikilink")、[モノコック](https://ja.wikipedia.org/wiki/モノコック "wikilink")[フレームを最大の特徴とする](https://ja.wikipedia.org/wiki/フレーム形式_\(自動車\) "wikilink")。 現時点まで正式に量産化されておらず、極小数が製造されたに留まるが、量産販売に向けての購入予約は受け付けている模様。
+STシリーズは、「LA-X」の別名をもち、ユーザーレベルでは「仔犬」「コイヌ」などの愛称で呼ばれる、仔猿シリーズの兄弟車種。[パイプフレームの仔猿とは異なり](https://ja.wikipedia.org/wiki/フレーム形式_\(自動車\)#アンセパレートフレーム "wikilink")、[モノコック](../Page/モノコック.md "wikilink")[フレームを最大の特徴とする](../Page/フレーム形式_\(自動車\).md "wikilink")。 現時点まで正式に量産化されておらず、極小数が製造されたに留まるが、量産販売に向けての購入予約は受け付けている模様。
 
 ## 外部リンク
 

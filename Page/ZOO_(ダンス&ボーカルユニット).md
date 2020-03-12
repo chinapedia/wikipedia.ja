@@ -3,7 +3,7 @@
 
 **ZOO**（ズー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のダンス&ボーカルユニット。
 
-[1989年](../Page/1989年.md "wikilink")結成、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月25日](../Page/12月25日.md "wikilink")解散。代表曲は「[Choo Choo TRAIN](https://ja.wikipedia.org/wiki/Choo_Choo_TRAIN "wikilink")」。
+[1989年](../Page/1989年.md "wikilink")結成、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月25日](../Page/12月25日.md "wikilink")解散。代表曲は「[Choo Choo TRAIN](../Page/Choo_Choo_TRAIN.md "wikilink")」。
 
 ## 概歴
 
@@ -76,13 +76,13 @@
       -
         中西圭三コーラス参加（作曲も担当。）
         テレビ朝日系『華麗にAh\!so』オープニングテーマ曲
-4.  [Choo Choo TRAIN](https://ja.wikipedia.org/wiki/Choo_Choo_TRAIN "wikilink")（1991年11月7日、FLDF-09153）
+4.  [Choo Choo TRAIN](../Page/Choo_Choo_TRAIN.md "wikilink")（1991年11月7日、FLDF-09153）
       -
         中西圭三コーラス参加（作曲も担当。）
         「[JR東日本 SKI SKI](https://ja.wikipedia.org/wiki/JR東日本_SKI_SKI "wikilink")」キャンペーンソング、 テレビ朝日系『華麗にAh\!so』オープニングテーマ曲
 5.  Gorgeous（1992年4月29日、FLDF-10208）
       -
-        '92 「[シーブリーズ](https://ja.wikipedia.org/wiki/シーブリーズ "wikilink")」イメージソング
+        '92 「[シーブリーズ](../Page/シーブリーズ.md "wikilink")」イメージソング
 6.  YA-YA-YA（1992年10月21日、FLDF-10224）
       -
         [横山輝一](../Page/横山輝一.md "wikilink")プロデュース、「JR東日本 SKI SKI」キャンペーンソング、テレビ朝日系『華麗にAh\!so』オープニングテーマ曲
@@ -98,7 +98,7 @@
         「JR東日本 SKI SKI」キャンペーンソング、テレビ朝日系『華麗にAh\!so』オープニングテーマ曲
 11. Adam（1995年3月1日、FLDF-1551）
       -
-        [マツダ・カペラ](https://ja.wikipedia.org/wiki/マツダ・カペラ "wikilink")ワゴンCMソング。作曲は[ディック・リー](../Page/ディック・リー.md "wikilink")。
+        [マツダ・カペラ](../Page/マツダ・カペラ.md "wikilink")ワゴンCMソング。作曲は[ディック・リー](../Page/ディック・リー.md "wikilink")。
 
 <!-- end list -->
 
@@ -200,7 +200,7 @@
 
 ## 写真集
 
-  - NATIVE（1991年11月7日、[音楽専科社](https://ja.wikipedia.org/wiki/音楽専科社 "wikilink")）（ZOO & DEER名義）
+  - NATIVE（1991年11月7日、[音楽専科社](../Page/音楽専科社.md "wikilink")）（ZOO & DEER名義）
   - FREE STYLE（1992年8月20日、[JICC出版局](https://ja.wikipedia.org/wiki/JICC出版局 "wikilink")）
 
 ## 主な出演
@@ -218,8 +218,8 @@
 <!-- end list -->
 
   - [JR東日本](../Page/東日本旅客鉄道.md "wikilink")・[JR東日本 SKI SKI](https://ja.wikipedia.org/wiki/JR東日本_SKI_SKI "wikilink")（1991 - 1995年）
-  - [サーティワン・サーティワンアイスクリーム](https://ja.wikipedia.org/wiki/バスキン・ロビンス "wikilink")（1992年）
-  - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")・[シーブリーズ](https://ja.wikipedia.org/wiki/シーブリーズ "wikilink")（1992年）
+  - [サーティワン・サーティワンアイスクリーム](../Page/バスキン・ロビンス.md "wikilink")（1992年）
+  - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")・[シーブリーズ](../Page/シーブリーズ.md "wikilink")（1992年）
   - 厚木パルコ（1992年）
   - [明治製菓](../Page/明治製菓.md "wikilink")・ポイフル（1993年）
   - 東京都消費者啓発マルチ商法防止CM（1993年）

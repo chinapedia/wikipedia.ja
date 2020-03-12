@@ -3,7 +3,7 @@
 
 {{ Infobox 航空機 | 名称 = XO3C / SOC / SON シーガル | 画像 = <File:Curtiss_SOC-1.jpg> | キャプション = 飛行するSOC-1 9979号機
 ([1939年](../Page/1939年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")撮影) | 用途 = [偵察機](../Page/偵察機.md "wikilink")、[観測機](../Page/観測機.md "wikilink") | 分類 = 偵察観測機 | 設計者 = アレクサンダー・ソーラ(Alexander Solla) | 製造者 =
-\*\* [カーチス・ライト](https://ja.wikipedia.org/wiki/カーチス・ライト "wikilink")社
+\*\* [カーチス・ライト](../Page/カーチス・ライト.md "wikilink")社
 
   -   - アメリカ海軍航空工廠
 
@@ -11,12 +11,12 @@
 \*\*
 
   -   -
-      - [USCG_S_W.svg](https://ja.wikipedia.org/wiki/File:USCG_S_W.svg "fig:USCG_S_W.svg") [アメリカ沿岸警備隊](https://ja.wikipedia.org/wiki/アメリカ沿岸警備隊 "wikilink")
+      - [USCG_S_W.svg](https://ja.wikipedia.org/wiki/File:USCG_S_W.svg "fig:USCG_S_W.svg") [アメリカ沿岸警備隊](../Page/アメリカ沿岸警備隊.md "wikilink")
 
   -   -   -
-| 初飛行年月日 = [1934年](../Page/1934年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") | 生産開始年月日 = 1934年 | 生産数 = 322機（[CW製](https://ja.wikipedia.org/wiki/カーチス・ライト "wikilink")258機、工廠製64機） | 運用開始年月日 = [1935年](../Page/1935年.md "wikilink")[11月12日](../Page/11月12日.md "wikilink") | 退役年月日 = [1945年](../Page/1945年.md "wikilink") | 運用状況 = 退役 | ユニットコスト = }}
+| 初飛行年月日 = [1934年](../Page/1934年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") | 生産開始年月日 = 1934年 | 生産数 = 322機（[CW製](../Page/カーチス・ライト.md "wikilink")258機、工廠製64機） | 運用開始年月日 = [1935年](../Page/1935年.md "wikilink")[11月12日](../Page/11月12日.md "wikilink") | 退役年月日 = [1945年](../Page/1945年.md "wikilink") | 運用状況 = 退役 | ユニットコスト = }}
 
-**SOC シーガル**（*Curtiss-Wright SOC Seagull* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[カーチス・ライト](https://ja.wikipedia.org/wiki/カーチス・ライト "wikilink")社が開発し[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")などで運用された[偵察機](../Page/偵察機.md "wikilink")兼[観測機](../Page/観測機.md "wikilink")である。
+**SOC シーガル**（*Curtiss-Wright SOC Seagull* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[カーチス・ライト](../Page/カーチス・ライト.md "wikilink")社が開発し[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")などで運用された[偵察機](../Page/偵察機.md "wikilink")兼[観測機](../Page/観測機.md "wikilink")である。
 
 愛称の「**シーガル** (Seagull)」は[ウミカモメの意](../Page/カモメ.md "wikilink")。当初は**XO3C**として計画されていた。また、海軍工廠製は**SON シーガル**である。
 
@@ -106,7 +106,7 @@ SOC シーガルは[アメリカ海軍](../Page/アメリカ海軍.md "wikilink"
 ## 関連項目
 
   - [SO3C　シーミュゥ](../Page/SO3C_\(航空機\).md "wikilink")
-  - [カーチス・ライト](https://ja.wikipedia.org/wiki/カーチス・ライト "wikilink")
+  - [カーチス・ライト](../Page/カーチス・ライト.md "wikilink")
   - [水上機](../Page/水上機.md "wikilink")
 
 ## 外部リンク

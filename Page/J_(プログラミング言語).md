@@ -23,7 +23,7 @@ JはAPLの反省をふまえて、APLと同様の計算を通常の[ASCII](https
 
 #### 型
 
-Jのデータ型は他の言語のような[整数](../Page/整数.md "wikilink")、[浮動小数点数](../Page/浮動小数点数.md "wikilink")、[文字列](https://ja.wikipedia.org/wiki/文字列 "wikilink")の他に[有理数](https://ja.wikipedia.org/wiki/有理数 "wikilink")や[複素数](../Page/複素数.md "wikilink")などもある。
+Jのデータ型は他の言語のような[整数](../Page/整数.md "wikilink")、[浮動小数点数](../Page/浮動小数点数.md "wikilink")、[文字列](../Page/文字列.md "wikilink")の他に[有理数](https://ja.wikipedia.org/wiki/有理数 "wikilink")や[複素数](../Page/複素数.md "wikilink")などもある。
 
 #### 直値
 

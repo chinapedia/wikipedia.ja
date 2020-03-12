@@ -7,7 +7,7 @@
 
 ショート[コント](../Page/コント.md "wikilink")が中心の番組構成で、出演者が[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")であっても顔面ペイントなどの汚れネタをさせていた。ショートコントのほか、[ribbonの](https://ja.wikipedia.org/wiki/ribbon_\(アイドルグループ\) "wikilink")3人がバスタブで視聴者からの投稿ハガキに答えながらトークをする[ラジオ番組](../Page/ラジオ番組.md "wikilink")的なコーナー「RIBBON IN THE BATH」もあった。
 
-当初は[ヒロミ](../Page/ヒロミ.md "wikilink")ほか[B21スペシャル](https://ja.wikipedia.org/wiki/B21スペシャル "wikilink")のメンバーが司会を、[長田江身子](../Page/長田江身子.md "wikilink")がアシスタントを務めていた。その間、ribbonのメンバーはコーナー出演者という立ち位置にあったが、1991年4月からはribbonメインへとシフトしていった。
+当初は[ヒロミ](../Page/ヒロミ.md "wikilink")ほか[B21スペシャル](../Page/B21スペシャル.md "wikilink")のメンバーが司会を、[長田江身子](../Page/長田江身子.md "wikilink")がアシスタントを務めていた。その間、ribbonのメンバーはコーナー出演者という立ち位置にあったが、1991年4月からはribbonメインへとシフトしていった。
 
 番組の終了後、同じくテレビ朝日でribbonをメインにした後継番組『[シンデレラEXP](https://ja.wikipedia.org/wiki/シンデレラEXP "wikilink")』 (CINDERELLA EXPRESS) が半年間放送された。
 
@@ -23,7 +23,7 @@
 
   - 企画：斉藤由雄（テレビ朝日）
   - VOICE（ナレーション）：[大森章督](../Page/大森章督.md "wikilink")
-  - 作・構成：[中野俊成](https://ja.wikipedia.org/wiki/中野俊成 "wikilink")、[宮川賢](../Page/宮川賢.md "wikilink")、野村安文
+  - 作・構成：[中野俊成](../Page/中野俊成.md "wikilink")、[宮川賢](../Page/宮川賢.md "wikilink")、野村安文
   - 技術：[池田屋](https://ja.wikipedia.org/wiki/池田屋_\(テレビ技術会社\) "wikilink")
   - カメラ：中村純、三好哲也
   - VE：善方光一
@@ -31,7 +31,7 @@
   - 音声：高田善弘
   - 編集：小林直彦
   - MA：吉沼秀夫
-  - 音響効果：中田圭三（[4-Legs](https://ja.wikipedia.org/wiki/4-Legs "wikilink")）
+  - 音響効果：中田圭三（[4-Legs](../Page/4-Legs.md "wikilink")）
   - TK：阿部瑞重
   - メイク：長井桂子（パンプキンハウス）
   - スタイリスト：早川和美、笠井友理

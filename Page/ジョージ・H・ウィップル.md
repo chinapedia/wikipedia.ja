@@ -1,13 +1,13 @@
 > この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
 
 
-**ジョージ・H・ウィップル**（George Hoyt Whipple、[1878年](../Page/1878年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink") - [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[内科医](https://ja.wikipedia.org/wiki/内科医 "wikilink")で[医学者](https://ja.wikipedia.org/wiki/医学者 "wikilink")で医学教育者。ウィップルは、[貧血](../Page/貧血.md "wikilink")に対する[肝臓](../Page/肝臓.md "wikilink")療法の発見の業績により、[ジョージ・リチャーズ・マイノット](../Page/ジョージ・リチャーズ・マイノット.md "wikilink")、[ウィリアム・P・マーフィ](../Page/ウィリアム・P・マーフィ.md "wikilink")とともに1934年度の[ノーベル生理学・医学賞](../Page/ノーベル生理学・医学賞.md "wikilink")を受賞した。
+**ジョージ・H・ウィップル**（George Hoyt Whipple、[1878年](../Page/1878年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink") - [1976年](../Page/1976年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[内科医](https://ja.wikipedia.org/wiki/内科医 "wikilink")で[医学者](https://ja.wikipedia.org/wiki/医学者 "wikilink")で医学教育者。ウィップルは、[貧血](../Page/貧血.md "wikilink")に対する[肝臓](../Page/肝臓.md "wikilink")療法の発見の業績により、[ジョージ・リチャーズ・マイノット](../Page/ジョージ・リチャーズ・マイノット.md "wikilink")、[ウィリアム・P・マーフィ](../Page/ウィリアム・P・マーフィ.md "wikilink")とともに1934年度の[ノーベル生理学・医学賞](../Page/ノーベル生理学・医学賞.md "wikilink")を受賞した。
 
 ## 生涯
 
-ウィップルは[ニューハンプシャー州](../Page/ニューハンプシャー州.md "wikilink")アシュランドで、アシュレイ・クーパー・ウィップルとフランセス・アン・ホイトの子として内科医の家系に生まれた。彼は[フィリップス・アカデミー](https://ja.wikipedia.org/wiki/フィリップス・アカデミー "wikilink")および[イェール大学](../Page/イェール大学.md "wikilink")で教育を受け、1900年に学士号を取った。その後[ジョンズ・ホプキンス大学](https://ja.wikipedia.org/wiki/ジョンズ・ホプキンス大学 "wikilink")医学部に通い、1905年に医学博士号を取得した。卒業後は、[パナマ運河](../Page/パナマ運河.md "wikilink")建設中の1907年から1908年にかけて[パナマ](https://ja.wikipedia.org/wiki/パナマ "wikilink")のアンコン病院に移るまで、ホプキンスで[病理学](../Page/病理学.md "wikilink")者として働いた。[ボルチモア](https://ja.wikipedia.org/wiki/ボルチモア "wikilink")に帰ってからは、1914年までジョンズ・ホプキンス大学の病理学研究室の助手、講師を引き継いだ。
+ウィップルは[ニューハンプシャー州](../Page/ニューハンプシャー州.md "wikilink")アシュランドで、アシュレイ・クーパー・ウィップルとフランセス・アン・ホイトの子として内科医の家系に生まれた。彼は[フィリップス・アカデミー](../Page/フィリップス・アカデミー.md "wikilink")および[イェール大学](../Page/イェール大学.md "wikilink")で教育を受け、1900年に学士号を取った。その後[ジョンズ・ホプキンス大学](https://ja.wikipedia.org/wiki/ジョンズ・ホプキンス大学 "wikilink")医学部に通い、1905年に医学博士号を取得した。卒業後は、[パナマ運河](../Page/パナマ運河.md "wikilink")建設中の1907年から1908年にかけて[パナマ](https://ja.wikipedia.org/wiki/パナマ "wikilink")のアンコン病院に移るまで、ホプキンスで[病理学](../Page/病理学.md "wikilink")者として働いた。[ボルチモア](../Page/ボルチモア.md "wikilink")に帰ってからは、1914年までジョンズ・ホプキンス大学の病理学研究室の助手、講師を引き継いだ。
 
-1914年、ウィップルは[カリフォルニア大学](../Page/カリフォルニア大学.md "wikilink")医学部の実験医学の教授になり、1920年から21年にかけては医学部の学部長を務めた。医学教育研究の草分けの[エイブラハム・フレクスナー](https://ja.wikipedia.org/wiki/エイブラハム・フレクスナー "wikilink")と[ロチェスター大学](https://ja.wikipedia.org/wiki/ロチェスター大学 "wikilink")の学長だったラッシュ・リーズの勧めで、1921年、彼は建設途中だったロチェスター大学医学部の学部長になった。ウィップルは1954年まで学部長職を務め、死ぬまでここに在籍した。大学関係者の多くがウィップルは素晴らしい教育者であるとみなしていたが、彼は1976年に97歳で亡くなった。
+1914年、ウィップルは[カリフォルニア大学](../Page/カリフォルニア大学.md "wikilink")医学部の実験医学の教授になり、1920年から21年にかけては医学部の学部長を務めた。医学教育研究の草分けの[エイブラハム・フレクスナー](../Page/エイブラハム・フレクスナー.md "wikilink")と[ロチェスター大学](../Page/ロチェスター大学.md "wikilink")の学長だったラッシュ・リーズの勧めで、1921年、彼は建設途中だったロチェスター大学医学部の学部長になった。ウィップルは1954年まで学部長職を務め、死ぬまでここに在籍した。大学関係者の多くがウィップルは素晴らしい教育者であるとみなしていたが、彼は1976年に97歳で亡くなった。
 
 ## ウィップルの研究
 

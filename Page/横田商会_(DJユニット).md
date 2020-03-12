@@ -5,7 +5,7 @@
 
 ## 経歴
 
-[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")株式会社（[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")）の音楽ゲーム（[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")）で活躍しているDJ BOSS（横田聡）とDJ Remo-con（田村哲也）によるDJユニット。楽曲制作やリミックス、ステージ演出などを手がける。[avex traxの人気コンピレーションアルバム](https://ja.wikipedia.org/wiki/avex_trax "wikilink")「[スーパーユーロビート](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink")」シリーズでもお馴染みで(同シリーズの立ち上げメンバーでもある）、[beatmaniaIIDX](https://ja.wikipedia.org/wiki/beatmaniaIIDX "wikilink")でもユーロビート中心に曲を提供している。元[横浜マハラジャ勤務でマハラジャグループや](https://ja.wikipedia.org/wiki/マハラジャ_\(ディスコ\) "wikilink")[ヴェルファーレ](../Page/ヴェルファーレ.md "wikilink")で活動。現在はBEMANIシリーズと共にC-58ハイパーディスコミックスで活躍中。
+[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")株式会社（[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）の音楽ゲーム（[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")）で活躍しているDJ BOSS（横田聡）とDJ Remo-con（田村哲也）によるDJユニット。楽曲制作やリミックス、ステージ演出などを手がける。[avex traxの人気コンピレーションアルバム](https://ja.wikipedia.org/wiki/avex_trax "wikilink")「[スーパーユーロビート](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink")」シリーズでもお馴染みで(同シリーズの立ち上げメンバーでもある）、[beatmaniaIIDX](https://ja.wikipedia.org/wiki/beatmaniaIIDX "wikilink")でもユーロビート中心に曲を提供している。元[横浜マハラジャ勤務でマハラジャグループや](../Page/マハラジャ_\(ディスコ\).md "wikilink")[ヴェルファーレ](../Page/ヴェルファーレ.md "wikilink")で活動。現在はBEMANIシリーズと共にC-58ハイパーディスコミックスで活躍中。
 
 ## メンバー
 
@@ -25,18 +25,18 @@ Remo-con単体の曲は[田村哲也](https://ja.wikipedia.org/wiki/田村哲也
 
 #### [ParaParaParadise](../Page/ParaParaParadise.md "wikilink")
 
-  - LUV TO ME ～super euro version～ ([tiger YAMATO](https://ja.wikipedia.org/wiki/南雲玲生 "wikilink") with Y\&Co.)
-  - CAN'T STOP FALLIN' IN LOVE -super euro version- ([NAOKI](https://ja.wikipedia.org/wiki/前田尚紀_\(ミュージシャン\) "wikilink") with Y\&Co.)
+  - LUV TO ME ～super euro version～ ([tiger YAMATO](../Page/南雲玲生.md "wikilink") with Y\&Co.)
+  - CAN'T STOP FALLIN' IN LOVE -super euro version- ([NAOKI](../Page/前田尚紀_\(ミュージシャン\).md "wikilink") with Y\&Co.)
   - DYNAMITE RAVE ～super euro version～(NAOKI with Y\&Co.)
 
 #### [beatmania IIDX](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")
 
-  - Colors -Y\&Co.Eurobeat Remix-(8th style:[dj TAKA](https://ja.wikipedia.org/wiki/石川貴之 "wikilink") (remixed by 横田商会)) - 編曲:横田
+  - Colors -Y\&Co.Eurobeat Remix-(8th style:[dj TAKA](../Page/石川貴之.md "wikilink") (remixed by 横田商会)) - 編曲:横田
   - Monkey Dance(8th style:Y\&Co.) - 作曲:田村
   - Attitude(8th style:Y\&Co.) - 作曲:田村
   - BAD BOY BASS\!\! (dj Remo-con MIX)(9th style:Y\&Co.) - 作曲:田村
   - I'm In Love Again -Y\&Co. EURO MIX-(9th style:dj TAKA Remixed by Y\&Co.) - 編曲:横田
-  - Let the snow paint me -Y\&Co. Remix-(9th style:[Sana](https://ja.wikipedia.org/wiki/新谷さなえ "wikilink") Remixed by Y\&Co.)
+  - Let the snow paint me -Y\&Co. Remix-(9th style:[Sana](../Page/新谷さなえ.md "wikilink") Remixed by Y\&Co.)
   - Daisuke(10th style:Y\&Co.) - 作曲:田村、編曲:横田
   - Smell Like This(10th style:Y\&Co.) - 作曲:田村
   - SPEEDY CAT(11 IIDX RED:Y\&Co.) - 作曲:横田
@@ -59,9 +59,9 @@ Remo-con単体の曲は[田村哲也](https://ja.wikipedia.org/wiki/田村哲也
 
 #### [Dance Dance Revolution](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution "wikilink")
 
-  - BOYS(Euro Mix) (4thMIX:[SMiLE.dk](https://ja.wikipedia.org/wiki/Smile.dk "wikilink")) - SMiLE.dkのミニアルバム「SMILE PARADISE」に収録されたもの。
+  - BOYS(Euro Mix) (4thMIX:[SMiLE.dk](../Page/Smile.dk.md "wikilink")) - SMiLE.dkのミニアルバム「SMILE PARADISE」に収録されたもの。
   - WH1TE RO5E (X2:Y\&Co.)
-  - KEEP ON MOVIN' (Y\&Co. DJ BOSS remix) (X3 VS 2ndMIX) - 編曲:横田。[NAOKIの楽曲のリミックス](https://ja.wikipedia.org/wiki/前田尚紀_\(ミュージシャン\) "wikilink")。
+  - KEEP ON MOVIN' (Y\&Co. DJ BOSS remix) (X3 VS 2ndMIX) - 編曲:横田。[NAOKIの楽曲のリミックス](../Page/前田尚紀_\(ミュージシャン\).md "wikilink")。
 
 #### [jubeat](https://ja.wikipedia.org/wiki/jubeat "wikilink")
 
@@ -72,8 +72,8 @@ Remo-con単体の曲は[田村哲也](https://ja.wikipedia.org/wiki/田村哲也
 
 #### その他
 
-  - KEEP ON MOVIN'(Y\&Co. DJ BOSS remix) ([N.M.R.](https://ja.wikipedia.org/wiki/前田尚紀_\(ミュージシャン\) "wikilink")) - Dance Dance Revolution 2ndMIX ORIGINAL SOUNDTRACK(復刻盤)収録
-  - 扉ひらいて、ふたり未来へ -Fantom Euro Mix- ([オーガストのゲーム](../Page/オーガスト_\(ブランド\).md "wikilink")「[FORTUNE ARTERIAL](../Page/FORTUNE_ARTERIAL.md "wikilink")」の初回特典版の特典CD 「FORTUNE ARTERIAL INJECTED MUSIC COLLECTION」のリミキサーとして参加、Y\&Co.と同じく[BEMANI](https://ja.wikipedia.org/wiki/BEMANI "wikilink")シリーズに参加している[kors kや](https://ja.wikipedia.org/wiki/斎藤広祐 "wikilink")[Ryu☆も同CDに参加している](https://ja.wikipedia.org/wiki/中原龍太郎 "wikilink"))
+  - KEEP ON MOVIN'(Y\&Co. DJ BOSS remix) ([N.M.R.](../Page/前田尚紀_\(ミュージシャン\).md "wikilink")) - Dance Dance Revolution 2ndMIX ORIGINAL SOUNDTRACK(復刻盤)収録
+  - 扉ひらいて、ふたり未来へ -Fantom Euro Mix- ([オーガストのゲーム](../Page/オーガスト_\(ブランド\).md "wikilink")「[FORTUNE ARTERIAL](../Page/FORTUNE_ARTERIAL.md "wikilink")」の初回特典版の特典CD 「FORTUNE ARTERIAL INJECTED MUSIC COLLECTION」のリミキサーとして参加、Y\&Co.と同じく[BEMANI](https://ja.wikipedia.org/wiki/BEMANI "wikilink")シリーズに参加している[kors kや](../Page/斎藤広祐.md "wikilink")[Ryu☆も同CDに参加している](../Page/中原龍太郎.md "wikilink"))
   - DAynamite Mix Juice 1 \~You Know beat?\~ 4曲をリミックス
   - Dance Dance Revolutionシリーズのサウンドトラックにてノンストップミックスの制作を担当(『STRIKE\&FESTIVAL』まで)。
 

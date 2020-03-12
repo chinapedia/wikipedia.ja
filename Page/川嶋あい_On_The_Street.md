@@ -1,11 +1,11 @@
 > この記事は[ On The Street](https://ja.wikipedia.org/wiki/_On_The_Street)から翻訳されています。
 
 
-**川嶋あい On The Street**（かわしまあいオン・ザ・ストリート）は、[かしわプロダクション](https://ja.wikipedia.org/wiki/かしわプロダクション "wikilink")が製作している[ラジオ番組](../Page/ラジオ番組.md "wikilink")で、[川嶋あい](https://ja.wikipedia.org/wiki/川嶋あい "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。
+**川嶋あい On The Street**（かわしまあいオン・ザ・ストリート）は、[かしわプロダクション](../Page/かしわプロダクション.md "wikilink")が製作している[ラジオ番組](../Page/ラジオ番組.md "wikilink")で、[川嶋あい](https://ja.wikipedia.org/wiki/川嶋あい "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。
 
 ## 番組内容
 
-[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")からのお便りをもとに、川嶋が[トークをする番組](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")。基本的に、番組は川嶋一人で進行するが、ゲストを招いてトークを行う事もある。
+[リスナー](../Page/リスナー.md "wikilink")からのお便りをもとに、川嶋が[トークをする番組](../Page/トーク番組.md "wikilink")。基本的に、番組は川嶋一人で進行するが、ゲストを招いてトークを行う事もある。
 
 番組の最後は、川嶋の曲で締めくくるのが決まりとなっており、また、[リクエスト](https://ja.wikipedia.org/wiki/リクエスト "wikilink")も川嶋の曲が大半を占める。
 
@@ -42,10 +42,10 @@
         川嶋がお勧めの漫画を紹介する。
   - Ai got mail（アイ・ガット・メール）
       -
-        番組のメインコーナー。リスナーからのお便りを読み、川嶋がトークを行う。稀に、このコーナーでリスナーと[電話](../Page/電話.md "wikilink")トーク（[逆電](https://ja.wikipedia.org/wiki/逆電 "wikilink")）を交わす事もある。
+        番組のメインコーナー。リスナーからのお便りを読み、川嶋がトークを行う。稀に、このコーナーでリスナーと[電話](../Page/電話.md "wikilink")トーク（[逆電](../Page/逆電.md "wikilink")）を交わす事もある。
   - 突撃アポなし
       -
-        川嶋が事前のアポイントメントなしにリスナーへ電話、トークを交わすコーナー。[2007年](../Page/2007年.md "wikilink")には「三重県の一郎」と名乗る人にかけたところ、電話に出たのは[鳥羽一郎](https://ja.wikipedia.org/wiki/鳥羽一郎 "wikilink")だった、というエピソードがある（このことは後年、川嶋自身もこの番組で思い出に残っていることとして挙げている）。なお、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には鳥羽の弟・[山川豊](https://ja.wikipedia.org/wiki/山川豊 "wikilink")とともに放送300回を祝うメッセージが流されている。
+        川嶋が事前のアポイントメントなしにリスナーへ電話、トークを交わすコーナー。[2007年](../Page/2007年.md "wikilink")には「三重県の一郎」と名乗る人にかけたところ、電話に出たのは[鳥羽一郎](../Page/鳥羽一郎.md "wikilink")だった、というエピソードがある（このことは後年、川嶋自身もこの番組で思い出に残っていることとして挙げている）。なお、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には鳥羽の弟・[山川豊](../Page/山川豊.md "wikilink")とともに放送300回を祝うメッセージが流されている。
 
 ## ネット局
 
@@ -72,15 +72,15 @@
   - [東北放送](../Page/東北放送.md "wikilink")
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")\[6\]
   - [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")
-  - [茨城放送](https://ja.wikipedia.org/wiki/茨城放送 "wikilink")
+  - [茨城放送](../Page/茨城放送.md "wikilink")
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
   - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")\[7\]
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")
   - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")\[8\]
-  - [ぎふチャン](https://ja.wikipedia.org/wiki/岐阜放送ラジオ "wikilink")
-  - [ラジオ大阪](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")\[9\]
+  - [ぎふチャン](../Page/岐阜放送ラジオ.md "wikilink")
+  - [ラジオ大阪](../Page/大阪放送.md "wikilink")\[9\]
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")
-  - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKBラジオ "wikilink")\[10\]
+  - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")\[10\]
   - [九州朝日放送](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")\[11\]
   - [NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")
   - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")
@@ -130,12 +130,12 @@
 
 ## その他
 
-  - 川嶋が仕事で[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")に行っていた時、現地で番組の[収録](../Page/収録.md "wikilink")を行った事がある。
-  - 基本的に、番組の収録等は非公開となっているが、2009年5月に[東海ラジオ特設スタジオ](../Page/東海ラジオ放送.md "wikilink")（本社9F会議室）にて、事前応募で選ばれた25組50名を招待して[公開録音](https://ja.wikipedia.org/wiki/公開録音 "wikilink")を行った事もある。理由は、東海ラジオ限定で[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")に付いている[トヨタ名古屋自動車大学校が愛知県にある為](https://ja.wikipedia.org/wiki/専門学校トヨタ名古屋自動車大学校 "wikilink")（[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")・[岐阜放送](../Page/岐阜放送.md "wikilink")にもスポンサーとして付いていたが、2009年末の放送分を以て降りている）。なお、公開録音に先立ち、当日川嶋は東海ラジオのローカル[ワイド番組](https://ja.wikipedia.org/wiki/ワイド番組 "wikilink")「[宮地佑紀生の聞いてみや〜ち](../Page/宮地佑紀生の聞いてみや〜ち.md "wikilink")」にもゲスト出演した。
+  - 川嶋が仕事で[ニューヨーク](../Page/ニューヨーク.md "wikilink")に行っていた時、現地で番組の[収録](../Page/収録.md "wikilink")を行った事がある。
+  - 基本的に、番組の収録等は非公開となっているが、2009年5月に[東海ラジオ特設スタジオ](../Page/東海ラジオ放送.md "wikilink")（本社9F会議室）にて、事前応募で選ばれた25組50名を招待して[公開録音](https://ja.wikipedia.org/wiki/公開録音 "wikilink")を行った事もある。理由は、東海ラジオ限定で[スポンサー](../Page/スポンサー.md "wikilink")に付いている[トヨタ名古屋自動車大学校が愛知県にある為](../Page/専門学校トヨタ名古屋自動車大学校.md "wikilink")（[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")・[岐阜放送](../Page/岐阜放送.md "wikilink")にもスポンサーとして付いていたが、2009年末の放送分を以て降りている）。なお、公開録音に先立ち、当日川嶋は東海ラジオのローカル[ワイド番組](../Page/ワイド番組.md "wikilink")「[宮地佑紀生の聞いてみや〜ち](../Page/宮地佑紀生の聞いてみや〜ち.md "wikilink")」にもゲスト出演した。
 
 ## 関連番組
 
-  - [川嶋あい 勇気の唄](https://ja.wikipedia.org/wiki/川嶋あい_勇気の唄 "wikilink")
+  - [川嶋あい 勇気の唄](../Page/川嶋あい_勇気の唄.md "wikilink")
 
 ## 関連リンク
 
@@ -146,7 +146,7 @@
 
 1.
 2.  2019年3月までは毎週土曜 16:30 - 17:00の放送。
-3.  2017年3月までは毎週土曜 17:30 - 17:45の放送。2017年4月から4月 - 9月の放送となる。10月 - 翌年3月の同時間は「[ラジオ寄席](https://ja.wikipedia.org/wiki/ラジオ寄席 "wikilink")」を放送。
+3.  2017年3月までは毎週土曜 17:30 - 17:45の放送。2017年4月から4月 - 9月の放送となる。10月 - 翌年3月の同時間は「[ラジオ寄席](../Page/ラジオ寄席.md "wikilink")」を放送。
 4.  北海道地区においては、先に（[NRN単独加盟局の](../Page/全国ラジオネットワーク.md "wikilink")）STVラジオがネットし、STVラジオが放送を打ち切った後は、HBCラジオがネットしていた。
 5.
 6.  2019年3月終了。

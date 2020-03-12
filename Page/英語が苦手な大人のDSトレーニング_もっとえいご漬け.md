@@ -1,7 +1,7 @@
 > この記事は[DS ](https://ja.wikipedia.org/wiki/DS_)から翻訳されています。
 
 
-『**英語が苦手な大人のDSトレーニング もっとえいご漬け**』（えいごがにがてなおとなのディーエストレーニング もっとえいごづけ）は、[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[英語](../Page/英語.md "wikilink")トレーニングゲーム。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に発売された『[英語が苦手な大人のDSトレーニング えいご漬け](https://ja.wikipedia.org/wiki/英語が苦手な大人のDSトレーニング_えいご漬け "wikilink")』の続編で、前作と同じように英語の[ディクテーション](https://ja.wikipedia.org/wiki/ディクテーション "wikilink")（聞いて書き取る）トレーニングを行う。聞こえてくる英文、英単語をDS本体付属のタッチペンでタッチスクリーンに一文字ずつ書き取ることで、自動的に採点が行われる。[Touch\! Generationsシリーズの一つで](https://ja.wikipedia.org/wiki/Touch!_Generations "wikilink")、前作とは違い「*生きた英語*」（後述）を多く取り入れている。
+『**英語が苦手な大人のDSトレーニング もっとえいご漬け**』（えいごがにがてなおとなのディーエストレーニング もっとえいごづけ）は、[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[英語](../Page/英語.md "wikilink")トレーニングゲーム。[2006年](../Page/2006年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に発売された『[英語が苦手な大人のDSトレーニング えいご漬け](../Page/英語が苦手な大人のDSトレーニング_えいご漬け.md "wikilink")』の続編で、前作と同じように英語の[ディクテーション](https://ja.wikipedia.org/wiki/ディクテーション "wikilink")（聞いて書き取る）トレーニングを行う。聞こえてくる英文、英単語をDS本体付属のタッチペンでタッチスクリーンに一文字ずつ書き取ることで、自動的に採点が行われる。[Touch\! Generationsシリーズの一つで](../Page/Touch!_Generations.md "wikilink")、前作とは違い「*生きた英語*」（後述）を多く取り入れている。
 
 PC版のえいご漬け2回戦とはまったく違う内容である。
 
@@ -68,7 +68,7 @@ PC版のえいご漬け2回戦とはまったく違う内容である。
 
 ### お試しもっとえいご漬け
 
-個人データを作らずに、英語力判定、基本トレーニング、特殊トレーニング（歌、映画、訛り）を試すことができる。ただし、記録は保存されない。[Wiiチャンネル](../Page/Wiiチャンネル.md "wikilink")のひとつである「[みんなのニンテンドーチャンネル](https://ja.wikipedia.org/wiki/みんなのニンテンドーチャンネル "wikilink")｣でも配信されている。
+個人データを作らずに、英語力判定、基本トレーニング、特殊トレーニング（歌、映画、訛り）を試すことができる。ただし、記録は保存されない。[Wiiチャンネル](../Page/Wiiチャンネル.md "wikilink")のひとつである「[みんなのニンテンドーチャンネル](../Page/みんなのニンテンドーチャンネル.md "wikilink")｣でも配信されている。
 
 ### 通信もっとえいご漬け
 
@@ -89,10 +89,10 @@ DSワイヤレス通信を使って、ほかの本体にお試し版を送るこ
 
 ## 関連項目
 
-  - [えいご漬け](https://ja.wikipedia.org/wiki/えいご漬け "wikilink")
-  - [英語が苦手な大人のDSトレーニング えいご漬け](https://ja.wikipedia.org/wiki/英語が苦手な大人のDSトレーニング_えいご漬け "wikilink")
-  - [Touch\! Generations](https://ja.wikipedia.org/wiki/Touch!_Generations "wikilink")
-  - [ニンテンドーDSのゲームタイトル一覧](https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧 "wikilink")
+  - [えいご漬け](../Page/えいご漬け.md "wikilink")
+  - [英語が苦手な大人のDSトレーニング えいご漬け](../Page/英語が苦手な大人のDSトレーニング_えいご漬け.md "wikilink")
+  - [Touch\! Generations](../Page/Touch!_Generations.md "wikilink")
+  - [ニンテンドーDSのゲームタイトル一覧](../Page/ニンテンドーDSのゲームタイトル一覧.md "wikilink")
 
 ## 外部リンク
 

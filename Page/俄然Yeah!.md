@@ -1,11 +1,11 @@
 > この記事は[Yeah!](https://ja.wikipedia.org/wiki/Yeah!)から翻訳されています。
 
 
-『**俄然Yeah\!**』（がぜんイェー）は、[mihimaru GTの](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")14枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")発売。発売元は、[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+『**俄然Yeah\!**』（がぜんイェー）は、[mihimaru GTの](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")14枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")発売。発売元は、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
-  - 前作「[パンキッシュ☆](../Page/パンキッシュ☆.md "wikilink")」から4か月余りでのリリースで、[ベストアルバム発売後初のシングルとなる](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[DVD](../Page/DVD.md "wikilink")付きの初回盤と、CDのみの通常盤の2仕様での発売。初回盤のジャケットは、1stシングル「[約束](../Page/約束_\(mihimaru_GTの曲\).md "wikilink")」以来となる[いつもここから](../Page/いつもここから.md "wikilink")が手がけている。
+  - 前作「[パンキッシュ☆](../Page/パンキッシュ☆.md "wikilink")」から4か月余りでのリリースで、[ベストアルバム発売後初のシングルとなる](../Page/ベスト・アルバム.md "wikilink")。[DVD](../Page/DVD.md "wikilink")付きの初回盤と、CDのみの通常盤の2仕様での発売。初回盤のジャケットは、1stシングル「[約束](../Page/約束_\(mihimaru_GTの曲\).md "wikilink")」以来となる[いつもここから](../Page/いつもここから.md "wikilink")が手がけている。
   - 収録されている3曲に登場するのはみな同じ主人公という設定である。「俄然Yeah\!」は、新入社員の奮闘ぶりを、「ビバケーション」は解放された休日を、「Together」は彼とともに過ごす時間を歌っている。hirokoがこの年23歳ということで「俄然Yeah\!」の主人公を新入社員にした。
 
 ## 収録曲
@@ -14,8 +14,8 @@
       - 作詞：[hiroko](https://ja.wikipedia.org/wiki/hiroko "wikilink") and [mitsuyuki miyake](https://ja.wikipedia.org/wiki/miyake "wikilink") / 作曲：mitsuyuki miyake、Shinichi Sakurai and Genki Hibino
     <!-- end list -->
       -
-        [ダリヤ](https://ja.wikipedia.org/wiki/ダリヤ "wikilink")「パルティ・'07夏篇」CF曲（2人も出演）
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")」8月度オープニングテーマ曲
+        [ダリヤ](../Page/ダリヤ.md "wikilink")「パルティ・'07夏篇」CF曲（2人も出演）
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」8月度オープニングテーマ曲
         [music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")CF曲
         日本テレビ系「[スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")」8月エンディングテーマ曲
         PVはhirokoがOLになり、退屈な仕事やセクハラ上司にもめげず奮闘するという内容。miyakeはメッセンジャーボーイとなって登場する。サビでは十数人にも分身したhirokoがダンスする。

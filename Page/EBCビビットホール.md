@@ -1,7 +1,7 @@
 > この記事は[EBC](https://ja.wikipedia.org/wiki/EBC)から翻訳されています。
 
 
-**EBCビビットホール**（イービーシービビットホール）は、[愛媛県](../Page/愛媛県.md "wikilink")[松山市](../Page/松山市.md "wikilink")藤原町に存在していた、[多目的ホール](https://ja.wikipedia.org/wiki/多目的ホール "wikilink")である。
+**EBCビビットホール**（イービーシービビットホール）は、[愛媛県](../Page/愛媛県.md "wikilink")[松山市](../Page/松山市.md "wikilink")藤原町に存在していた、[多目的ホール](../Page/多目的ホール.md "wikilink")である。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")まで[エフエム愛媛](../Page/エフエム愛媛.md "wikilink")の社屋として使用されていた建物の所有権を、隣接していた[テレビ愛媛](../Page/テレビ愛媛.md "wikilink")（当時は、愛媛放送）が引継ぎ、大規模な改装を行った後、最新鋭の音響と照明設備などを備えた、多目的ホールとして生まれ変わった。
 

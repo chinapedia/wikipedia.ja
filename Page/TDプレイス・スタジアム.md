@@ -1,11 +1,11 @@
 > この記事は[TD](https://ja.wikipedia.org/wiki/TD)から翻訳されています。
 
 
-**TDプレイス・スタジアム**（英語：**TD Place Stadium**）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[オタワ](../Page/オタワ.md "wikilink")にある[カナディアンフットボール](https://ja.wikipedia.org/wiki/カナディアンフットボール "wikilink")の競技場。[リドー運河](../Page/リドー運河.md "wikilink")に面した[ランズダウン公園に位置する](https://ja.wikipedia.org/wiki/:en:Lansdowne_Park "wikilink")。
+**TDプレイス・スタジアム**（英語：**TD Place Stadium**）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[オタワ](../Page/オタワ.md "wikilink")にある[カナディアンフットボール](../Page/カナディアンフットボール.md "wikilink")の競技場。[リドー運河](../Page/リドー運河.md "wikilink")に面した[ランズダウン公園に位置する](https://ja.wikipedia.org/wiki/:en:Lansdowne_Park "wikilink")。
 
 過去「フランク・クレア・スタジアム（Frank Clair Stadium）」と呼ばれていたが、施設改築に伴い改築されたスタジアム、アリーナ、周辺施設を合わせて「TDプレイス」となったことに伴い、新スタジアムは「TDプレイス・スタジアム」と命名された。
 
-[CFLの](../Page/カナディアン・フットボール・リーグ.md "wikilink")[オタワ・レッドブラックス](https://ja.wikipedia.org/wiki/オタワ・レッドブラックス "wikilink")の本拠地として使用されている。[USLプロフェッショナルリーグ](https://ja.wikipedia.org/wiki/USLプロフェッショナルリーグ "wikilink")の[オタワ・フューリーFC](https://ja.wikipedia.org/wiki/オタワ・フューリーFC "wikilink")が2019年の解散までは本拠地として使用していた。新設の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ、[アトレティコ・オタワ](https://ja.wikipedia.org/wiki/アトレティコ・オタワ "wikilink")（[カナダ・プレミアリーグ](https://ja.wikipedia.org/wiki/カナダ・プレミアリーグ "wikilink")）が2020年シーズンより本拠地として使用する。
+[CFLの](../Page/カナディアン・フットボール・リーグ.md "wikilink")[オタワ・レッドブラックス](https://ja.wikipedia.org/wiki/オタワ・レッドブラックス "wikilink")の本拠地として使用されている。[USLプロフェッショナルリーグ](https://ja.wikipedia.org/wiki/USLプロフェッショナルリーグ "wikilink")の[オタワ・フューリーFC](https://ja.wikipedia.org/wiki/オタワ・フューリーFC "wikilink")が2019年の解散までは本拠地として使用していた。新設の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ、[アトレティコ・オタワ](../Page/アトレティコ・オタワ.md "wikilink")（[カナダ・プレミアリーグ](../Page/カナダ・プレミアリーグ.md "wikilink")）が2020年シーズンより本拠地として使用する。
 
 ## 歴史
 
@@ -15,7 +15,7 @@
 
 長年、スタジアムは一般に「[ランズダウン・パーク](https://ja.wikipedia.org/wiki/:en:Lansdowne_Park "wikilink")」と呼ばれていたが、1960年代から1970年代まで[オタワ・ラフ・ライダーズのコーチとGMを務めた](https://ja.wikipedia.org/wiki/:en:Ottawa_Rough_Riders "wikilink")[フランク・クレアの功績を称え](https://ja.wikipedia.org/wiki/:en:Frank_Clair "wikilink")1993年に「フランク・クレア・スタジアム」と改名された。
 
-[2007 FIFA U-20ワールドカップの試合会場のひとつになり](https://ja.wikipedia.org/wiki/2007_FIFA_U-20ワールドカップ "wikilink")、この際は収容人数は最大28,826人とされた。しかし、その年に構造の老朽化が見つかり、一部スタンドの閉鎖を余儀なくされた\[3\]。翌2008年には改築計画の議論が本格化し、2010年にはオタワ市がフランク・クレア・スタジアムと周辺公園の刷新計画を可決。南側のスタンドを全て解体し新築、北側は店舗スペース等を追加し拡張した。2014年1月7日、[トロント・ドミニオン銀行](https://ja.wikipedia.org/wiki/トロント・ドミニオン銀行 "wikilink")（TD）が新造スタジアムとホッケーアリーナ、周辺施設を合わせた[命名権](https://ja.wikipedia.org/wiki/命名権 "wikilink")を獲得し「TDプレイス」と呼称、「TDプレイス・スタジアム」として完成した。2015年6月、[FIFA女子ワールドカップの会場として利用される](https://ja.wikipedia.org/wiki/2015_FIFA女子ワールドカップ "wikilink")。
+[2007 FIFA U-20ワールドカップの試合会場のひとつになり](../Page/2007_FIFA_U-20ワールドカップ.md "wikilink")、この際は収容人数は最大28,826人とされた。しかし、その年に構造の老朽化が見つかり、一部スタンドの閉鎖を余儀なくされた\[3\]。翌2008年には改築計画の議論が本格化し、2010年にはオタワ市がフランク・クレア・スタジアムと周辺公園の刷新計画を可決。南側のスタンドを全て解体し新築、北側は店舗スペース等を追加し拡張した。2014年1月7日、[トロント・ドミニオン銀行](../Page/トロント・ドミニオン銀行.md "wikilink")（TD）が新造スタジアムとホッケーアリーナ、周辺施設を合わせた[命名権](https://ja.wikipedia.org/wiki/命名権 "wikilink")を獲得し「TDプレイス」と呼称、「TDプレイス・スタジアム」として完成した。2015年6月、[FIFA女子ワールドカップの会場として利用される](https://ja.wikipedia.org/wiki/2015_FIFA女子ワールドカップ "wikilink")。
 
 ## 脚注
 

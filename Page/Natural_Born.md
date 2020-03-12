@@ -1,13 +1,13 @@
 > この記事は[Natural Born](https://ja.wikipedia.org/wiki/Natural_Born)から翻訳されています。
 
 
-『**Natural Born**』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink")、[Tamaの](https://ja.wikipedia.org/wiki/Tama_\(ベーシスト\) "wikilink")2ndアルバム。
+『**Natural Born**』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink")、[Tamaの](../Page/Tama_\(ベーシスト\).md "wikilink")2ndアルバム。
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月20日](../Page/6月20日.md "wikilink")リリース。
+[2007年](../Page/2007年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")リリース。
 
 ## 概要
 
-  - 初回生産限定盤には"Metal Cool Night"の[ライブ映像や](https://ja.wikipedia.org/wiki/演奏会 "wikilink")『[ホンノウ](../Page/ホンノウ.md "wikilink")』の[PV](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、ゲストボーカル陣とのレコーディング風景を収録した[DVD](../Page/DVD.md "wikilink")付き。
+  - 初回生産限定盤には"Metal Cool Night"の[ライブ映像や](../Page/演奏会.md "wikilink")『[ホンノウ](../Page/ホンノウ.md "wikilink")』の[PV](../Page/ミュージック・ビデオ.md "wikilink")、ゲストボーカル陣とのレコーディング風景を収録した[DVD](../Page/DVD.md "wikilink")付き。
   - [シングル](../Page/シングル.md "wikilink")曲が2曲、"Metal Cool Night"で初披露された曲が5曲、ゲストボーカルが参加した曲が2曲（ホンノウを除く）、新曲が2曲収録されたアルバム構成になっている。
   - 各雑誌のインタビューでも答えていたが、『[ホンノウ](../Page/ホンノウ.md "wikilink")』を始め非常にメッセージ性の強いアルバムとなっている。
   - Tama曰く、一番難しかったことは「悲しい歌詞を書くこと」。
@@ -26,7 +26,7 @@
       - 2nd Live "Metal Cool Night"で披露された時、Tamaは「2ndシングルにしようと考えている」と語った。
 7.  **Metal Cool**
       - Tamaが初めてボーカルを担当した楽曲。
-8.  **燃えている光 （Featuring TAKE from [Skoop On Somebody](https://ja.wikipedia.org/wiki/Skoop_On_Somebody "wikilink")）**
+8.  **燃えている光 （Featuring TAKE from [Skoop On Somebody](../Page/Skoop_On_Somebody.md "wikilink")）**
 9.  **運命も君も曲がりくねっているRoad**
       - "Metal Cool Night"本編ラストで披露された曲。
 10. **Gray**

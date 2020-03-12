@@ -127,7 +127,7 @@
 ### 配信限定シングル
 
 1.  Do your Homework(2011年7月21日）
-2.  You've Got a Friend（[君の友だち](https://ja.wikipedia.org/wiki/君の友だち "wikilink")）（2012年7月20日）-[キャロル・キング](https://ja.wikipedia.org/wiki/キャロル・キング "wikilink")のカヴァー。
+2.  You've Got a Friend（[君の友だち](https://ja.wikipedia.org/wiki/君の友だち "wikilink")）（2012年7月20日）-[キャロル・キング](../Page/キャロル・キング.md "wikilink")のカヴァー。
 
 ### アルバム
 
@@ -361,9 +361,9 @@
 <li>GROOVE TUBE（グルーヴ・チューブ） / <a href="../Page/イズミカワソラ.md" title="wikilink">イズミカワソラ</a></li>
 <li>THE CHIME WILL RING（やがて鐘が鳴る） / <a href="https://ja.wikipedia.org/wiki/hurdy_gurdy_meets_marseeside_derby" title="wikilink">hurdy gurdy meets marseeside derby</a></li>
 <li>CAMERA！CAMERA！CAMERA！（カメラ！カメラ！カメラ！） / <a href="https://ja.wikipedia.org/wiki/Roboshop_Mania" title="wikilink">Roboshop Mania</a></li>
-<li>YOUNG,ALIVE,IN LOVE（恋とマシンガン） / <a href="https://ja.wikipedia.org/wiki/鈴木秋則" title="wikilink">鈴木秋則</a>×<a href="https://ja.wikipedia.org/wiki/磯崎健史" title="wikilink">磯崎健史</a></li>
+<li>YOUNG,ALIVE,IN LOVE（恋とマシンガン） / <a href="../Page/鈴木秋則.md" title="wikilink">鈴木秋則</a>×<a href="https://ja.wikipedia.org/wiki/磯崎健史" title="wikilink">磯崎健史</a></li>
 <li>SUMMER BEAUTY 1990（ラテンでレッツ・ラブまたは1990サマービューティー計画） / <a href="https://ja.wikipedia.org/wiki/bice" title="wikilink">bice</a></li>
-<li>3A.M.OP（午前3時のオプ） / <a href="https://ja.wikipedia.org/wiki/LISA_(歌手)" title="wikilink">LISA</a></li>
+<li>3A.M.OP（午前3時のオプ） / <a href="../Page/LISA_(歌手).md" title="wikilink">LISA</a></li>
 <li>LOVE AND DREAMS ARE BACK（ラブ・アンド・ドリームふたたび） / <a href="https://ja.wikipedia.org/wiki/イノヒロキ" title="wikilink">イノヒロキ</a></li>
 <li>SENDING TO YOUR HEART（恋してるとか好きだとか） / <a href="https://ja.wikipedia.org/wiki/RUMTAG" title="wikilink">RUMTAG</a></li>
 <li><strong>COFFEE-MILK CRAZY（コーヒーミルク・クレイジー） / swinging popsicle</strong></li>
@@ -379,20 +379,20 @@
 <td><ol>
 <li>時計仕掛けの… / <a href="https://ja.wikipedia.org/wiki/ペンギンノイズ" title="wikilink">ペンギンノイズ</a></li>
 <li>フリスビー / <a href="https://ja.wikipedia.org/wiki/Lucy_Van_Pelt" title="wikilink">Lucy Van Pelt</a></li>
-<li>THE ESCAPE / <a href="https://ja.wikipedia.org/wiki/WINO" title="wikilink">WINO</a></li>
+<li>THE ESCAPE / <a href="../Page/WINO.md" title="wikilink">WINO</a></li>
 <li>FLAG / <a href="https://ja.wikipedia.org/wiki/ALLNUDE" title="wikilink">ALLNUDE</a></li>
 <li>FLY &amp; FLOAT / <a href="https://ja.wikipedia.org/wiki/THE_CURRENT" title="wikilink">THE CURRENT</a></li>
 <li>Six Xs / <a href="https://ja.wikipedia.org/wiki/the_Primrose" title="wikilink">the Primrose</a></li>
-<li>CIRCLE OF THE METALIC SEASON / <a href="https://ja.wikipedia.org/wiki/PEALOUT" title="wikilink">PEALOUT</a></li>
+<li>CIRCLE OF THE METALIC SEASON / <a href="../Page/PEALOUT.md" title="wikilink">PEALOUT</a></li>
 <li>Children Of Summer (feat. Aiko from Lucy Van Pelt) / <a href="https://ja.wikipedia.org/wiki/Color_Filter" title="wikilink">Color Filter</a></li>
 <li>Groovy Indian Summer / <a href="https://ja.wikipedia.org/wiki/honeydip" title="wikilink">honeydip</a></li>
 <li><strong>Fall down / Swinging Popsicle</strong></li>
 <li>ロボアンプ / <a href="https://ja.wikipedia.org/wiki/EAST_WOMAN" title="wikilink">EAST WOMAN</a></li>
-<li>Sniper &amp; Shotgun / <a href="https://ja.wikipedia.org/wiki/バーレスクエンジン" title="wikilink">バーレスクエンジン</a></li>
+<li>Sniper &amp; Shotgun / <a href="../Page/バーレスクエンジン.md" title="wikilink">バーレスクエンジン</a></li>
 <li>Under The Sun / <a href="https://ja.wikipedia.org/wiki/岩見十夢" title="wikilink">岩見十夢</a></li>
 <li>時の行方 / <a href="../Page/森山直太朗.md" title="wikilink">直太朗</a></li>
 <li>beautiful days / <a href="https://ja.wikipedia.org/wiki/スナッフロール" title="wikilink">スナッフロール</a></li>
-<li>涙をふいて / <a href="https://ja.wikipedia.org/wiki/風味堂" title="wikilink">風味堂</a></li>
+<li>涙をふいて / <a href="../Page/風味堂.md" title="wikilink">風味堂</a></li>
 <li>はじめよう / <a href="https://ja.wikipedia.org/wiki/iyiyim" title="wikilink">iyiyim</a></li>
 <li>夕暮れワルツ / <a href="https://ja.wikipedia.org/wiki/甲斐名都" title="wikilink">甲斐名都</a></li>
 </ol></td>
@@ -451,7 +451,7 @@
 <td><p>GRN-3</p></td>
 <td><ol>
 <li><strong>a)SLOW STAR Movie Ver. / Swinging Popsicle</strong></li>
-<li>Sunahama / Voice track CV:<a href="https://ja.wikipedia.org/wiki/手塚まき" title="wikilink">手塚まき</a></li>
+<li>Sunahama / Voice track CV:<a href="../Page/手塚まき.md" title="wikilink">手塚まき</a></li>
 <li>アイノコトバ Spica Image song / <a href="https://ja.wikipedia.org/wiki/Rio_(シンガーソングライター)" title="wikilink">Rio</a></li>
 <li>Mirai / Voice track CV:<a href="https://ja.wikipedia.org/wiki/守田羽糸" title="wikilink">守田羽糸</a></li>
 <li>イデアリズム Mira Image song / <a href="https://ja.wikipedia.org/wiki/Qube" title="wikilink">Qube</a></li>
@@ -474,7 +474,7 @@
 <td><p>CBST00056</p></td>
 <td><ol>
 <li>木馬に乗って / <a href="https://ja.wikipedia.org/wiki/mikaiga" title="wikilink">mikaiga</a></li>
-<li>冬が飛び散った / <a href="https://ja.wikipedia.org/wiki/堂島孝平" title="wikilink">堂島孝平</a></li>
+<li>冬が飛び散った / <a href="../Page/堂島孝平.md" title="wikilink">堂島孝平</a></li>
 <li>Hymn for Peace / <a href="https://ja.wikipedia.org/wiki/mikaiga" title="wikilink">mikaiga</a></li>
 <li>I'm Home / <a href="https://ja.wikipedia.org/wiki/mikaiga" title="wikilink">mikaiga</a></li>
 <li>Winter Waltz / <a href="https://ja.wikipedia.org/wiki/清水一雄" title="wikilink">清水一雄</a></li>
@@ -483,13 +483,13 @@
 <li>my little holiday / <a href="https://ja.wikipedia.org/wiki/advantage_Lucy" title="wikilink">advantage Lucy</a></li>
 <li>Xmas Story / 清水一雄</li>
 <li>真冬の鼓動 / 堂島孝平</li>
-<li>LOVE, TRUST, BELIEVE / <a href="https://ja.wikipedia.org/wiki/DAISHI_DANCE" title="wikilink">DAISHI DANCE</a> feat. <a href="https://ja.wikipedia.org/wiki/Lori_Fine" title="wikilink">Lori Fine</a></li>
+<li>LOVE, TRUST, BELIEVE / <a href="../Page/DAISHI_DANCE.md" title="wikilink">DAISHI DANCE</a> feat. <a href="https://ja.wikipedia.org/wiki/Lori_Fine" title="wikilink">Lori Fine</a></li>
 <li>Snowbird / 清水一雄</li>
 <li>epilogue / <a href="https://ja.wikipedia.org/wiki/木原健太郎" title="wikilink">木原健太郎</a></li>
 <li>呼吸“SPANK PAGE LABO MIX” / <a href="https://ja.wikipedia.org/wiki/PANK_PAGE" title="wikilink">PANK PAGE</a></li>
-<li>It's a new day. -Caramix- / <a href="https://ja.wikipedia.org/wiki/石田ショーキチ" title="wikilink">石田ショーキチ</a></li>
-<li>雪が降る街で逢いましょう。～Xchng MIYAKO～ / <a href="https://ja.wikipedia.org/wiki/少年カミカゼ" title="wikilink">少年カミカゼ</a></li>
-<li>ルリア / <a href="https://ja.wikipedia.org/wiki/メレンゲ_(バンド)" title="wikilink">メレンゲ</a></li>
+<li>It's a new day. -Caramix- / <a href="../Page/石田ショーキチ.md" title="wikilink">石田ショーキチ</a></li>
+<li>雪が降る街で逢いましょう。～Xchng MIYAKO～ / <a href="../Page/少年カミカゼ.md" title="wikilink">少年カミカゼ</a></li>
+<li>ルリア / <a href="../Page/メレンゲ_(バンド).md" title="wikilink">メレンゲ</a></li>
 </ol></td>
 <td><p>キャラメルボックスオリジナルサウンドブック</p></td>
 </tr>
@@ -518,9 +518,9 @@
 <td><p>GRN-019</p></td>
 <td><p>DISC3</p>
 <ol>
-<li>デタラメな残像 / <a href="https://ja.wikipedia.org/wiki/GRANRODEO" title="wikilink">GRANRODEO</a></li>
+<li>デタラメな残像 / <a href="../Page/GRANRODEO.md" title="wikilink">GRANRODEO</a></li>
 <li>unripe hero / <a href="https://ja.wikipedia.org/wiki/栗林みなみ" title="wikilink">栗林みなみ</a></li>
-<li>sad rain / <a href="https://ja.wikipedia.org/wiki/美郷あき" title="wikilink">美郷あき</a></li>
+<li>sad rain / <a href="../Page/美郷あき.md" title="wikilink">美郷あき</a></li>
 <li><strong>Perfect Loop / Swinging Popsicle</strong></li>
 <li><strong>(a) SLOW STAR / Swinging Popsicle</strong></li>
 <li>イデアリズム / <a href="https://ja.wikipedia.org/wiki/Qube" title="wikilink">Qube</a></li>
@@ -528,8 +528,8 @@
 <li>GO ! 俺ら / 大槻ケンヂ</li>
 <li>BLAZE UP / <a href="https://ja.wikipedia.org/wiki/いとうかなこ" title="wikilink">いとうかなこ</a></li>
 <li>STILL / いとうかなこ</li>
-<li>機神咆吼ッ！デモンベイン！ / <a href="https://ja.wikipedia.org/wiki/生沢佑一" title="wikilink">生沢佑一</a></li>
-<li>MURAMASA / <a href="https://ja.wikipedia.org/wiki/小野正利" title="wikilink">小野正利</a></li>
+<li>機神咆吼ッ！デモンベイン！ / <a href="../Page/生沢佑一.md" title="wikilink">生沢佑一</a></li>
+<li>MURAMASA / <a href="../Page/小野正利.md" title="wikilink">小野正利</a></li>
 </ol></td>
 <td><p>GEORIDE</p></td>
 </tr>
@@ -557,9 +557,9 @@
 <td><p><strong>君と彼女と彼女の恋。-Song Collection-『君と彼女と彼女の歌。』</strong></p></td>
 <td><p>GRN-036</p></td>
 <td><ol>
-<li>モノクロ / <a href="https://ja.wikipedia.org/wiki/岩瀬敬吾" title="wikilink">岩瀬敬吾</a></li>
+<li>モノクロ / <a href="../Page/岩瀬敬吾.md" title="wikilink">岩瀬敬吾</a></li>
 <li><strong>輝かしき日常 / Swinging Popsicle</strong></li>
-<li>星のメリーゴーランド / <a href="https://ja.wikipedia.org/wiki/多田葵" title="wikilink">多田葵</a></li>
+<li>星のメリーゴーランド / <a href="../Page/多田葵.md" title="wikilink">多田葵</a></li>
 <li>モノクロ -instrumental-</li>
 <li>輝かしき日常 -instrumental-</li>
 <li>星のメリーゴーランド -instrumental-</li>
@@ -589,10 +589,10 @@
 ## 関連項目
 
   - [松岡基樹](https://ja.wikipedia.org/wiki/松岡基樹 "wikilink")
-  - [DEEPER STREET](https://ja.wikipedia.org/wiki/DEEPER_STREET "wikilink")
-  - [ARTIST PARADISE](https://ja.wikipedia.org/wiki/ARTIST_PARADISE "wikilink")
+  - [DEEPER STREET](../Page/DEEPER_STREET.md "wikilink")
+  - [ARTIST PARADISE](../Page/ARTIST_PARADISE.md "wikilink")
   - [face to ace](https://ja.wikipedia.org/wiki/face_to_ace "wikilink")
-  - [アップダウン](https://ja.wikipedia.org/wiki/アップダウン "wikilink")
+  - [アップダウン](../Page/アップダウン.md "wikilink")
 
 ## 外部リンク
 

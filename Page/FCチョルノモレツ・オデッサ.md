@@ -3,7 +3,7 @@
 
 **FCチョルノモレツ・オデッサ**（, ）は、[ウクライナ](../Page/ウクライナ.md "wikilink")の都市[オデッサ](../Page/オデッサ.md "wikilink")を本拠地とするプロ[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
-[1936年](../Page/1936年.md "wikilink")にディナモ・オデッサとして創設され、幾度もの改名を経て[1957年](../Page/1957年.md "wikilink")に現在の名称に落ち着いた。チョルノモレツは[黒海艦隊](https://ja.wikipedia.org/wiki/黒海艦隊 "wikilink")の[水兵](https://ja.wikipedia.org/wiki/水兵 "wikilink")のことであるが、黒海艦隊は[ソ連崩壊](https://ja.wikipedia.org/wiki/ソ連崩壊 "wikilink")以降[ロシア海軍](https://ja.wikipedia.org/wiki/ロシア海軍 "wikilink")に所属している。[ソ連時代は](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")名の**チェルノモレツ** (****) の名で知られ、現在でもその名で呼ばれることは多い。また、公式に用いている[ラテン文字](../Page/ラテン文字.md "wikilink")表記も、ロシア語名に沿った****である。（ウクライナ語名に沿った表記は****）
+[1936年](../Page/1936年.md "wikilink")にディナモ・オデッサとして創設され、幾度もの改名を経て[1957年](../Page/1957年.md "wikilink")に現在の名称に落ち着いた。チョルノモレツは[黒海艦隊](../Page/黒海艦隊.md "wikilink")の[水兵](https://ja.wikipedia.org/wiki/水兵 "wikilink")のことであるが、黒海艦隊は[ソ連崩壊](../Page/ソ連崩壊.md "wikilink")以降[ロシア海軍](../Page/ロシア海軍.md "wikilink")に所属している。[ソ連時代は](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")名の**チェルノモレツ** (****) の名で知られ、現在でもその名で呼ばれることは多い。また、公式に用いている[ラテン文字](../Page/ラテン文字.md "wikilink")表記も、ロシア語名に沿った****である。（ウクライナ語名に沿った表記は****）
 
 ## クラブ名の変遷
 
@@ -45,7 +45,7 @@
 </tr>
 <tr class="odd">
 <td><p>1997–99</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プーマ" title="wikilink">プーマ</a></p></td>
+<td><p><a href="../Page/プーマ.md" title="wikilink">プーマ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2001–14</p></td>
@@ -84,7 +84,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1970–80</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アディダス" title="wikilink">アディダス</a></p></td>
+<td><p><a href="../Page/アディダス.md" title="wikilink">アディダス</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1992–94</p></td>
@@ -96,19 +96,19 @@
 </tr>
 <tr class="even">
 <td><p>1997–99</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プーマ" title="wikilink">プーマ</a></p></td>
+<td><p><a href="../Page/プーマ.md" title="wikilink">プーマ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1999–02</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アディダス" title="wikilink">アディダス</a></p></td>
+<td><p><a href="../Page/アディダス.md" title="wikilink">アディダス</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2002–10</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンブロ" title="wikilink">アンブロ</a></p></td>
+<td><p><a href="../Page/アンブロ.md" title="wikilink">アンブロ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010–16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ナイキ" title="wikilink">ナイキ</a></p></td>
+<td><p><a href="../Page/ナイキ.md" title="wikilink">ナイキ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2016–</p></td>
@@ -131,7 +131,7 @@
 
 ### 国内タイトル
 
-  - **[ソビエト・トップリーグ](https://ja.wikipedia.org/wiki/ソビエト連邦サッカーリーグ "wikilink")/[ウクライナ・プレミアリーグ](https://ja.wikipedia.org/wiki/ウクライナ・プレミアリーグ "wikilink")(1部)**
+  - **[ソビエト・トップリーグ](../Page/ソビエト連邦サッカーリーグ.md "wikilink")/[ウクライナ・プレミアリーグ](../Page/ウクライナ・プレミアリーグ.md "wikilink")(1部)**
 
 <!-- end list -->
 
@@ -160,7 +160,7 @@
 
 <!-- end list -->
 
-  - **[ソビエト・ファーストリーグ](https://ja.wikipedia.org/wiki/ソビエト連邦サッカーリーグ "wikilink")/[ウクライナ・ファーストリーグ](https://ja.wikipedia.org/wiki/ウクライナ・ファーストリーグ "wikilink")(2部)**
+  - **[ソビエト・ファーストリーグ](../Page/ソビエト連邦サッカーリーグ.md "wikilink")/[ウクライナ・ファーストリーグ](https://ja.wikipedia.org/wiki/ウクライナ・ファーストリーグ "wikilink")(2部)**
 
 <!-- end list -->
 
@@ -191,7 +191,7 @@
 | シーズン    | リーグ                                                                       | 順位              | 試  | 勝  | 分  | 敗  | 得  | 失  | 点      | [ウクライナ・カップ](https://ja.wikipedia.org/wiki/ウクライナ・カップ "wikilink") |
 | ------- | ------------------------------------------------------------------------- | --------------- | -- | -- | -- | -- | -- | -- | ------ | --------------------------------------------------------------- |
 | 2001-02 | [ウクライナ・ファーストリーグ](https://ja.wikipedia.org/wiki/ウクライナ・ファーストリーグ "wikilink") | **2位**          | 34 | 21 | 4  | 9  | 48 | 21 | **67** | ベスト32                                                           |
-| 2002-03 | [ウクライナ・プレミアリーグ](https://ja.wikipedia.org/wiki/ウクライナ・プレミアリーグ "wikilink")   | **8位**          | 30 | 10 | 4  | 16 | 31 | 45 | **34** | ベスト32                                                           |
+| 2002-03 | [ウクライナ・プレミアリーグ](../Page/ウクライナ・プレミアリーグ.md "wikilink")                      | **8位**          | 30 | 10 | 4  | 16 | 31 | 45 | **34** | ベスト32                                                           |
 | 2003-04 | ウクライナ・プレミアリーグ                                                             | **5位**          | 30 | 11 | 12 | 7  | 38 | 33 | **45** | 準決勝敗退                                                           |
 | 2004-05 | ウクライナ・プレミアリーグ                                                             | **6位**          | 30 | 12 | 6  | 12 | 29 | 29 | **42** | ベスト32                                                           |
 | 2005-06 | ウクライナ・プレミアリーグ                                                             | **3位**          | 30 | 13 | 6  | 11 | 36 | 31 | **45** | ベスト32                                                           |
@@ -212,7 +212,7 @@
 
 ## 現所属メンバー
 
-**2016年9月13日現在**\[1\]\[2\]            ([副主将](https://ja.wikipedia.org/wiki/主将 "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))        ([副主将](https://ja.wikipedia.org/wiki/主将 "wikilink"))
+**2016年9月13日現在**\[1\]\[2\]            ([副主将](../Page/主将.md "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))        ([副主将](../Page/主将.md "wikilink"))
 
 ## 歴代監督
 
@@ -250,19 +250,19 @@
 
 ## 歴代在籍選手
 
-  - [ヴァレリー・ロバノフスキー](https://ja.wikipedia.org/wiki/ヴァレリー・ロバノフスキー "wikilink") 1965-66
+  - [ヴァレリー・ロバノフスキー](../Page/ヴァレリー・ロバノフスキー.md "wikilink") 1965-66
 
-  - [イーゴリ・ベラノフ](https://ja.wikipedia.org/wiki/イーゴリ・ベラノフ "wikilink") 1981-84, 1995-96
+  - [イーゴリ・ベラノフ](../Page/イーゴリ・ベラノフ.md "wikilink") 1981-84, 1995-96
 
-  - [ユーリ・ニキフォロフ](https://ja.wikipedia.org/wiki/ユーリ・ニキフォロフ "wikilink") 1988, 1988-93
+  - [ユーリ・ニキフォロフ](../Page/ユーリ・ニキフォロフ.md "wikilink") 1988, 1988-93
 
-  - [アンドレイ・ヴォロニン](https://ja.wikipedia.org/wiki/アンドレイ・ヴォロニン "wikilink") 1995
+  - [アンドレイ・ヴォロニン](../Page/アンドレイ・ヴォロニン.md "wikilink") 1995
 
-  - [マクシム・シャツキフ](https://ja.wikipedia.org/wiki/マクシム・シャツキフ "wikilink") 2013
+  - [マクシム・シャツキフ](../Page/マクシム・シャツキフ.md "wikilink") 2013
 
 ## その他
 
-専用機として[アエロスヴィート航空](https://ja.wikipedia.org/wiki/アエロスヴィート航空 "wikilink")/[中国南方航空](https://ja.wikipedia.org/wiki/中国南方航空 "wikilink")の運行する[An-30を保有する](https://ja.wikipedia.org/wiki/An-30_\(航空機\) "wikilink")。機体番号は「UR-30000」。
+専用機として[アエロスヴィート航空](../Page/アエロスヴィート航空.md "wikilink")/[中国南方航空](../Page/中国南方航空.md "wikilink")の運行する[An-30を保有する](https://ja.wikipedia.org/wiki/An-30_\(航空機\) "wikilink")。機体番号は「UR-30000」。
 
 ## 脚注
 

@@ -11,12 +11,12 @@
   - 20:09 \[Breaking News\]　世界中で巻き起こるオドロキのニュースを掲載
   - 20:30 \[TRY\&ANGLE\]　新しい風を感じさせるトレンドやカルチャーを紹介
   - 20:50 \[アシタノラジオ\]　ラジオの新しい可能性を探るエンタメページ
-  - 20:55 [TOSHIBA presents GIFT FROM THE WORLD](http://www.tfm.co.jp/gift/)＜[TOSHIBA](https://ja.wikipedia.org/wiki/東芝 "wikilink")＞[鈴木万由香](https://ja.wikipedia.org/wiki/鈴木万由香 "wikilink")（月～金曜）
+  - 20:55 [TOSHIBA presents GIFT FROM THE WORLD](http://www.tfm.co.jp/gift/)＜[TOSHIBA](../Page/東芝.md "wikilink")＞[鈴木万由香](../Page/鈴木万由香.md "wikilink")（月～金曜）
   - 21:04 \[Humming bird\]　毎回ゲストを招いていろいろと地球環境について話していくページ　
 
 ## 放送時間
 
-  - 2007.4 - 2007.9 毎週[月曜日](../Page/月曜日.md "wikilink")～[水曜日](../Page/水曜日.md "wikilink")　20:00\~22:00　[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")　21:00\~22:00
+  - 2007.4 - 2007.9 毎週[月曜日](../Page/月曜日.md "wikilink")～[水曜日](../Page/水曜日.md "wikilink")　20:00\~22:00　[木曜日](../Page/木曜日.md "wikilink")　21:00\~22:00
 
 <!-- end list -->
 
@@ -25,21 +25,21 @@
 
 <!-- end list -->
 
-  - 2007.10 - 2008.9 毎週[月曜日](../Page/月曜日.md "wikilink")～[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")　20:00\~22:00
+  - 2007.10 - 2008.9 毎週[月曜日](../Page/月曜日.md "wikilink")～[木曜日](../Page/木曜日.md "wikilink")　20:00\~22:00
   - 2008.10 - 2009.3 毎週月曜日～木曜日　20:00\~21:30
 
 ## DJ
 
   - [堀内貴之](https://ja.wikipedia.org/wiki/堀内貴之 "wikilink")（開始～2008.12.31）
-  - **[石川實](https://ja.wikipedia.org/wiki/石川實 "wikilink")**（2009.1.1～2009.3.31、10ヶ月ぶりのTOKYO FM登板）
-  - 守乃ブナ（現：[鈴木万由香](https://ja.wikipedia.org/wiki/鈴木万由香 "wikilink")、[Humming bird](https://ja.wikipedia.org/wiki/Humming_bird "wikilink")）
+  - **[石川實](../Page/石川實.md "wikilink")**（2009.1.1～2009.3.31、10ヶ月ぶりのTOKYO FM登板）
+  - 守乃ブナ（現：[鈴木万由香](../Page/鈴木万由香.md "wikilink")、[Humming bird](https://ja.wikipedia.org/wiki/Humming_bird "wikilink")）
   - [小川瀬里奈](https://ja.wikipedia.org/wiki/小川瀬里奈 "wikilink")（開始～2008.9、[Dr.ホリンキー診療所](https://ja.wikipedia.org/wiki/Dr.ホリンキー診療所 "wikilink")）
 
 ## 特別番組による Daily Planetの短縮放送
 
 Daily Planetは、特別番組などで短縮放送になることがある。
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[11月8日](../Page/11月8日.md "wikilink")は、21:00から「[カー・ライフ・ステージ・イン丸ビル](https://ja.wikipedia.org/wiki/カー・ライフ・ステージ・イン丸ビル "wikilink")」が放送するため、20:55までの放送となった（一部の局以外では 「TOSHIBA presents GIFT FROM THE WORLD」も放送）。
+  - [2007年](../Page/2007年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")は、21:00から「[カー・ライフ・ステージ・イン丸ビル](https://ja.wikipedia.org/wiki/カー・ライフ・ステージ・イン丸ビル "wikilink")」が放送するため、20:55までの放送となった（一部の局以外では 「TOSHIBA presents GIFT FROM THE WORLD」も放送）。
   - 2007年[12月24日](../Page/12月24日.md "wikilink")・25日は、21:30から「[TOKYO FM Midtown Studio](https://ja.wikipedia.org/wiki/TOKYO_FM_Midtown_Studio "wikilink") クリスマススペシャル Program "1st"」が放送するため、21:30までの放送。
 
 ## 特番として復活

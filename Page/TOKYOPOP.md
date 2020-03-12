@@ -1,7 +1,7 @@
 > この記事は[TOKYOPOP](https://ja.wikipedia.org/wiki/TOKYOPOP)から翻訳されています。
 
 
-**TOKYOPOP**とは、以前[Mixx](https://ja.wikipedia.org/wiki/Mixx "wikilink")という名前で知られていた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")の出版権を獲得して他言語に翻訳、供給している会社である。現在[東京](../Page/東京.md "wikilink")に本社があるものの、支部はTOKYOPOPの最大のオフィスである[アメリカ西海岸](https://ja.wikipedia.org/wiki/アメリカ西海岸 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")の都市である[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")、そして[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")に存在している。
+**TOKYOPOP**とは、以前[Mixx](../Page/Mixx.md "wikilink")という名前で知られていた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")の出版権を獲得して他言語に翻訳、供給している会社である。現在[東京](../Page/東京.md "wikilink")に本社があるものの、支部はTOKYOPOPの最大のオフィスである[アメリカ西海岸](https://ja.wikipedia.org/wiki/アメリカ西海岸 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")の都市である[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")、そして[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")に存在している。
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")だけでなく、アメリカにて日本の漫画スタイルに似せて作られた物（[OELマンガ](../Page/OELマンガ.md "wikilink")）や、中国、韓国を始めとした東アジア、またドイツにて描かれた漫画なども出版権を獲得し翻訳して供給している。翻訳された漫画は北米ではアメリカやカナダ、ヨーロッパではドイツ、イギリス、スイス（ドイツ語圏のみ）、そしてオセアニアではオーストラリアで売られている。
 
@@ -11,15 +11,15 @@
 
 ## 翻訳された漫画（一部）
 
-  - [ARIA](https://ja.wikipedia.org/wiki/ARIA_\(漫画\) "wikilink")
+  - [ARIA](../Page/ARIA_\(漫画\).md "wikilink")
   - [BECK](https://ja.wikipedia.org/wiki/BECK_\(漫画\) "wikilink")
   - [BOYS BE…](https://ja.wikipedia.org/wiki/BOYS_BE… "wikilink")
   - [GetBackers-奪還屋-](https://ja.wikipedia.org/wiki/GetBackers-奪還屋- "wikilink")
   - [GTO](../Page/GTO_\(漫画\).md "wikilink")
-  - [Paradise Kiss](https://ja.wikipedia.org/wiki/Paradise_Kiss "wikilink")
+  - [Paradise Kiss](../Page/Paradise_Kiss.md "wikilink")
   - [藍より青し](../Page/藍より青し.md "wikilink")
   - [カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink")
-  - [ケロロ軍曹](https://ja.wikipedia.org/wiki/ケロロ軍曹 "wikilink")
+  - [ケロロ軍曹](../Page/ケロロ軍曹.md "wikilink")
   - [天空のエスカフローネ](../Page/天空のエスカフローネ.md "wikilink")
   - [ぴたテン](../Page/ぴたテン.md "wikilink")
   - [スタートレックの漫画](https://ja.wikipedia.org/wiki/スタートレックの漫画 "wikilink")
@@ -29,7 +29,7 @@
 
 ## 漫画事業からの撤退
 
-2011年4月15日、[シニア・バイス・プレジデント](https://ja.wikipedia.org/wiki/シニア・バイス・プレジデント "wikilink")( Senior [Vice President](https://ja.wikipedia.org/wiki/:en:Vice_president "wikilink"))「マイク・キリー」( Mike Kiley)は [ロサンゼルス](../Page/ロサンゼルス.md "wikilink")に本拠を置く、アメリカ支社での漫画出版を2011年5月31日付で閉じると発表した\[1\]。「[プレジデント](https://ja.wikipedia.org/wiki/プレジデント "wikilink")（最高経営責任者）ストゥ・レヴィは " **さよならの文章** " を東京ポップの[ウェブサイト](../Page/ウェブサイト.md "wikilink")に投稿した。」( Company president Stu Levy posted a farewell letter on the Tokyopop website. )\[2\]。
+2011年4月15日、[シニア・バイス・プレジデント](../Page/シニア・バイス・プレジデント.md "wikilink")( Senior [Vice President](https://ja.wikipedia.org/wiki/:en:Vice_president "wikilink"))「マイク・キリー」( Mike Kiley)は [ロサンゼルス](../Page/ロサンゼルス.md "wikilink")に本拠を置く、アメリカ支社での漫画出版を2011年5月31日付で閉じると発表した\[1\]。「[プレジデント](https://ja.wikipedia.org/wiki/プレジデント "wikilink")（最高経営責任者）ストゥ・レヴィは " **さよならの文章** " を東京ポップの[ウェブサイト](../Page/ウェブサイト.md "wikilink")に投稿した。」( Company president Stu Levy posted a farewell letter on the Tokyopop website. )\[2\]。
 
 ## 関連項目
 

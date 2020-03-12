@@ -1,13 +1,13 @@
 > この記事は[Kiss](https://ja.wikipedia.org/wiki/Kiss)から翻訳されています。
 
 
-『**天国のKiss**』（てんごくのキス）は、[1999年](../Page/1999年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")から[9月13日](../Page/9月13日.md "wikilink")まで[テレビ朝日系列の](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[月曜ドラマ・イン](https://ja.wikipedia.org/wiki/月曜ドラマ・イン "wikilink")で毎週[月曜日](../Page/月曜日.md "wikilink")20:00 - 20:54にかけて[放送](../Page/放送.md "wikilink")されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。全10回。平均[視聴率](../Page/視聴率.md "wikilink")7.8%。
+『**天国のKiss**』（てんごくのキス）は、[1999年](../Page/1999年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")から[9月13日](../Page/9月13日.md "wikilink")まで[テレビ朝日系列の](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[月曜ドラマ・イン](../Page/月曜ドラマ・イン.md "wikilink")で毎週[月曜日](../Page/月曜日.md "wikilink")20:00 - 20:54にかけて[放送](../Page/放送.md "wikilink")されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。全10回。平均[視聴率](../Page/視聴率.md "wikilink")7.8%。
 
 ## ストーリー
 
 御手洗明日美（[奥菜恵](https://ja.wikipedia.org/wiki/奥菜恵 "wikilink")）は翔聖学園高校に通う3年生。ある日、ファンであるミュージシャン・SHU(TAKA)が飛び降り[自殺](../Page/自殺.md "wikilink")を図ろうとしている姿を目にし、それを助けようとした明日美は落ちてきた鉄骨の下敷きになり、[霊魂](../Page/霊魂.md "wikilink")となってこの世に舞い降りてしまう。
 
-幼馴染みの櫂（[藤原竜也](../Page/藤原竜也.md "wikilink")）と、明日美と礼奈（[片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink")）の三人の三角関係、半熟[ゴースト](../Page/ゴースト.md "wikilink")となった[女子高生](https://ja.wikipedia.org/wiki/女子高生 "wikilink")がやがて消えていくからだと闘いながら[恋愛](../Page/恋愛.md "wikilink")、友情、[家族](../Page/家族.md "wikilink")に揺れながら生き抜く姿を描く。
+幼馴染みの櫂（[藤原竜也](../Page/藤原竜也.md "wikilink")）と、明日美と礼奈（[片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink")）の三人の三角関係、半熟[ゴースト](../Page/ゴースト.md "wikilink")となった[女子高生](../Page/女子高生.md "wikilink")がやがて消えていくからだと闘いながら[恋愛](../Page/恋愛.md "wikilink")、友情、[家族](../Page/家族.md "wikilink")に揺れながら生き抜く姿を描く。
 
 ## キャスト
 
@@ -16,8 +16,8 @@
 <!-- end list -->
 
   -
-    演：[奥菜恵](https://ja.wikipedia.org/wiki/奥菜恵 "wikilink")/[中村有沙](https://ja.wikipedia.org/wiki/中村有沙 "wikilink")（幼少期）
-    本作の[主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")。18歳。高校3年生。直向きで一生懸命だが、ドジを踏んで周囲を混乱させる為、学校では「厄病神」と言われているものの、大好きなミュージシャン・SHUの歌で元気付けている。梢からもらったクローバーのペンダントを常に身に付けている。12年ぶりに再会した幼馴染・櫂と再会するが、心を閉ざした彼に戸惑い、対立。そんな中、SHUのライブから帰る途中、彼を追いかけている時に鉄骨が落ちてきて死亡。幽霊となるが、実体はある為、姿は誰にでも見える上に、会話、接触も可能。感極まると、体が光り、[ポルターガイスト現象](../Page/ポルターガイスト現象.md "wikilink")を起こし、涙を流すと消えてしまう。
+    演：[奥菜恵](https://ja.wikipedia.org/wiki/奥菜恵 "wikilink")/[中村有沙](../Page/中村有沙.md "wikilink")（幼少期）
+    本作の[主人公](../Page/主人公.md "wikilink")。18歳。高校3年生。直向きで一生懸命だが、ドジを踏んで周囲を混乱させる為、学校では「厄病神」と言われているものの、大好きなミュージシャン・SHUの歌で元気付けている。梢からもらったクローバーのペンダントを常に身に付けている。12年ぶりに再会した幼馴染・櫂と再会するが、心を閉ざした彼に戸惑い、対立。そんな中、SHUのライブから帰る途中、彼を追いかけている時に鉄骨が落ちてきて死亡。幽霊となるが、実体はある為、姿は誰にでも見える上に、会話、接触も可能。感極まると、体が光り、[ポルターガイスト現象](../Page/ポルターガイスト現象.md "wikilink")を起こし、涙を流すと消えてしまう。
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@
 
   -
     演：[藤原竜也](../Page/藤原竜也.md "wikilink")/[伊藤隆弘](https://ja.wikipedia.org/wiki/伊藤隆弘 "wikilink")（幼少期）
-    明日美の[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")。16歳。高校2年生。12年前に明日美と永遠の友情を交わす約束をしたが、姉・梢の死と家庭崩壊で人間不信に陥り、更に姉の死を見送らなかった恋人・SHUを憎んでいる。その後、一人暮らしをする為にモデルのアルバイトを始め、大好きなバスケットも辞めてしまう。その後、明日美が通う学校に転校、再会するが、彼女がSHUのファンであることを知り、嫌悪する。ひょんなことから明日美が幽霊であることを知り、彼女の懸命な姿に、次第に心を開いていく。
+    明日美の[幼馴染](../Page/幼馴染.md "wikilink")。16歳。高校2年生。12年前に明日美と永遠の友情を交わす約束をしたが、姉・梢の死と家庭崩壊で人間不信に陥り、更に姉の死を見送らなかった恋人・SHUを憎んでいる。その後、一人暮らしをする為にモデルのアルバイトを始め、大好きなバスケットも辞めてしまう。その後、明日美が通う学校に転校、再会するが、彼女がSHUのファンであることを知り、嫌悪する。ひょんなことから明日美が幽霊であることを知り、彼女の懸命な姿に、次第に心を開いていく。
 
 <!-- end list -->
 
@@ -47,7 +47,7 @@
 
   -
     演：[片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink")
-    櫂の同級生。16歳。通称：レナ。子役の頃から人気[モデルをしている美少女だが](https://ja.wikipedia.org/wiki/モデル_\(職業\) "wikilink")、周囲から甘やかされて育ってきた為、性格は我侭かつ傲慢で計算高く腹黒い。欲しい物は全て手に入れないと気が済まない。女子数名を手下にしている。櫂のことが好きで、明日美に嫉妬しており、彼女を虐めている。
+    櫂の同級生。16歳。通称：レナ。子役の頃から人気[モデルをしている美少女だが](../Page/モデル_\(職業\).md "wikilink")、周囲から甘やかされて育ってきた為、性格は我侭かつ傲慢で計算高く腹黒い。欲しい物は全て手に入れないと気が済まない。女子数名を手下にしている。櫂のことが好きで、明日美に嫉妬しており、彼女を虐めている。
 
 <!-- end list -->
 
@@ -67,7 +67,7 @@
 
   -
     演：[高田純次](../Page/高田純次.md "wikilink")
-    明日美の[父親](https://ja.wikipedia.org/wiki/父親 "wikilink")。46歳。気弱で心配性だが、家族への愛情は強い。脱サラしてラーメン屋を開く夢を持っているものの、それをなかなか家族に言い出せずにいるが、後にバレてしまう。なお、明日美のドジは父親譲り。
+    明日美の[父親](../Page/父親.md "wikilink")。46歳。気弱で心配性だが、家族への愛情は強い。脱サラしてラーメン屋を開く夢を持っているものの、それをなかなか家族に言い出せずにいるが、後にバレてしまう。なお、明日美のドジは父親譲り。
 
 <!-- end list -->
 
@@ -77,7 +77,7 @@
 
   -
     演：[戸田恵子](../Page/戸田恵子.md "wikilink")
-    明日美の[母親](https://ja.wikipedia.org/wiki/母親 "wikilink")。43歳。好奇心旺盛でミーハーな肝っ玉母さん。夫が脱サラの夢を隠していたことに傷つき、頑なになる。
+    明日美の[母親](../Page/母親.md "wikilink")。43歳。好奇心旺盛でミーハーな肝っ玉母さん。夫が脱サラの夢を隠していたことに傷つき、頑なになる。
 
 <!-- end list -->
 
@@ -87,7 +87,7 @@
 
   -
     演：[宝生舞](https://ja.wikipedia.org/wiki/宝生舞 "wikilink")
-    50年前に、戦中の[空襲](https://ja.wikipedia.org/wiki/空襲 "wikilink")で亡くなった[ジャズ](../Page/ジャズ.md "wikilink")[シンガーの](../Page/歌手.md "wikilink")[地縛霊](../Page/地縛霊.md "wikilink")。年齢不詳。関西弁を話す（演じている宝生自身も、関西出身）。その未練が残ってスタジオに住みついている。同じ幽霊の明日美にとって、一番の理解者だが、ちゃっかりした性格。特に礼奈みたいな女は、癇に障るので、明日美について周り騒動を巻き起こす。
+    50年前に、戦中の[空襲](../Page/空襲.md "wikilink")で亡くなった[ジャズ](../Page/ジャズ.md "wikilink")[シンガーの](../Page/歌手.md "wikilink")[地縛霊](../Page/地縛霊.md "wikilink")。年齢不詳。関西弁を話す（演じている宝生自身も、関西出身）。その未練が残ってスタジオに住みついている。同じ幽霊の明日美にとって、一番の理解者だが、ちゃっかりした性格。特に礼奈みたいな女は、癇に障るので、明日美について周り騒動を巻き起こす。
 
 <!-- end list -->
 
@@ -126,7 +126,7 @@
 <!-- end list -->
 
   -
-    演：[荒川良々](https://ja.wikipedia.org/wiki/荒川良々 "wikilink")
+    演：[荒川良々](../Page/荒川良々.md "wikilink")
     男子バスケット部。
 
 <!-- end list -->
@@ -176,7 +176,7 @@
 <!-- end list -->
 
   -
-    演：[松田純](https://ja.wikipedia.org/wiki/松田純 "wikilink")
+    演：[松田純](../Page/松田純.md "wikilink")
     明日美の親友。18歳。明日美のドジを庇ってくれる優しい性格だが、櫂のファンである為、明日美に冷たく当たってしまうこともある。
 
 <!-- end list -->
@@ -216,8 +216,8 @@
 <!-- end list -->
 
   -
-    演：[大島さと子](https://ja.wikipedia.org/wiki/大島さと子 "wikilink")
-    櫂の[母親](https://ja.wikipedia.org/wiki/母親 "wikilink")。
+    演：[大島さと子](../Page/大島さと子.md "wikilink")
+    櫂の[母親](../Page/母親.md "wikilink")。
 
 <!-- end list -->
 
@@ -237,7 +237,7 @@
 
   -
     演：[中島知子](https://ja.wikipedia.org/wiki/中島知子 "wikilink")（[オセロ](../Page/オセロ_\(お笑い\).md "wikilink")）
-    [古文](https://ja.wikipedia.org/wiki/古文 "wikilink")[教師](https://ja.wikipedia.org/wiki/教師 "wikilink")、33歳。女子バスケット部顧問。
+    [古文](../Page/古文.md "wikilink")[教師](https://ja.wikipedia.org/wiki/教師 "wikilink")、33歳。女子バスケット部顧問。
 
 <!-- end list -->
 
@@ -253,16 +253,16 @@
 
   - 脚本：[楠本ひろみ](https://ja.wikipedia.org/wiki/楠本ひろみ "wikilink")、[山崎淳也](https://ja.wikipedia.org/wiki/山崎淳也 "wikilink")
   - 原案協力：「幽麗演戯レディゴースト」（[角川書店](../Page/角川書店.md "wikilink")）
-  - 演出：[唐木希浩](https://ja.wikipedia.org/wiki/唐木希浩 "wikilink")（[5年D組](https://ja.wikipedia.org/wiki/5年D組 "wikilink")）、[久野昌宏](https://ja.wikipedia.org/wiki/久野昌宏 "wikilink")・秋山純（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
-  - プロデューサー：[内山聖子](https://ja.wikipedia.org/wiki/内山聖子 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）、[伊藤正昭](https://ja.wikipedia.org/wiki/伊藤正昭 "wikilink")（[ホリプロ](https://ja.wikipedia.org/wiki/ホリプロ "wikilink")）
+  - 演出：[唐木希浩](https://ja.wikipedia.org/wiki/唐木希浩 "wikilink")（[5年D組](../Page/5年D組.md "wikilink")）、[久野昌宏](https://ja.wikipedia.org/wiki/久野昌宏 "wikilink")・秋山純（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
+  - プロデューサー：[内山聖子](https://ja.wikipedia.org/wiki/内山聖子 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）、[伊藤正昭](https://ja.wikipedia.org/wiki/伊藤正昭 "wikilink")（[ホリプロ](../Page/ホリプロ.md "wikilink")）
   - チーフプロデューサー：[桑田潔](https://ja.wikipedia.org/wiki/桑田潔 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
-  - 音楽：[溝口肇](https://ja.wikipedia.org/wiki/溝口肇 "wikilink")
-  - 音楽協力：[テレビ朝日ミュージック](https://ja.wikipedia.org/wiki/テレビ朝日ミュージック "wikilink")
+  - 音楽：[溝口肇](../Page/溝口肇.md "wikilink")
+  - 音楽協力：[テレビ朝日ミュージック](../Page/テレビ朝日ミュージック.md "wikilink")
   - 制作担当：新井誠一
   - CG・合成：神宮前スタジオ、Aマシーンズ
-  - 技術協力：[テイクシステムズ](https://ja.wikipedia.org/wiki/テイクシステムズ "wikilink")
+  - 技術協力：[テイクシステムズ](../Page/テイクシステムズ.md "wikilink")
   - 美術協力：[テレビ朝日クリエイト](../Page/テレビ朝日クリエイト.md "wikilink")
-  - 制作：[テレビ朝日](../Page/テレビ朝日.md "wikilink")、[ホリプロ](https://ja.wikipedia.org/wiki/ホリプロ "wikilink")
+  - 制作：[テレビ朝日](../Page/テレビ朝日.md "wikilink")、[ホリプロ](../Page/ホリプロ.md "wikilink")
 
 ## 主題歌
 
@@ -364,7 +364,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>平均視聴率7.8%（<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>調べ・関東地区）</p></td>
+<td><p>平均視聴率7.8%（<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>調べ・関東地区）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -377,7 +377,7 @@
 ## 関連項目
 
   - [日本のテレビドラマ一覧](../Page/日本のテレビドラマ一覧.md "wikilink")
-  - [月曜ドラマ・イン](https://ja.wikipedia.org/wiki/月曜ドラマ・イン "wikilink")
+  - [月曜ドラマ・イン](../Page/月曜ドラマ・イン.md "wikilink")
 
 ## 外部リンク
 

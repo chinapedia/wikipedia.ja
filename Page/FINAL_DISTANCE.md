@@ -11,7 +11,7 @@
   - しかし、この曲の[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")中に[附属池田小事件](../Page/附属池田小事件.md "wikilink")が発生。その[犠牲者](https://ja.wikipedia.org/wiki/犠牲者 "wikilink")の少女が自身のファンであったことを知り、制作中だった「FINAL DISTANCE」をその少女に捧げ、タイトル・ナンバーにすることを決めた。また、CDパッケージには[追悼](https://ja.wikipedia.org/wiki/追悼 "wikilink")メッセージが載っている。
   - 原曲の「DISTANCE」がカップリング曲としてリカット収録されている。（アウトロのフェードアウトがアルバム・ヴァージョンより若干長く、アルバム・ヴァージョンでは聞きとれなかった宇多田のフェイクを聞くことができる）。
   - 本作の売上でオリコン集計によるシングル総売上が1000万枚を突破、デビューから約2年8ヶ月での達成は史上最速であり、この記録は現在も破られていない。
-  - 「FINAL DISTANCE」には[紀里谷和明](https://ja.wikipedia.org/wiki/紀里谷和明 "wikilink")監督によって[PVが撮られ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、彼にとってそれが初めての宇多田作品であった。
+  - 「FINAL DISTANCE」には[紀里谷和明](../Page/紀里谷和明.md "wikilink")監督によって[PVが撮られ](../Page/ミュージック・ビデオ.md "wikilink")、彼にとってそれが初めての宇多田作品であった。
   - [日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink")（JASRAC）には「FINAL DISTANCE」は「DISTANCE」に付随する形で登録されている。「DISTANCE」はJASRACの著作権使用料分配額（国内作品）ランキングで[2001年](../Page/2001年.md "wikilink")度の年間6位\[1\]、[2002年](../Page/2002年.md "wikilink")度の年間5位\[2\]を獲得した。
 
 ## 収録曲
@@ -100,7 +100,7 @@ TOBF-5170</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年03月06日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/より子" title="wikilink">より子</a>『弾きがたり 3』(#1)</p></td>
+<td><p><a href="../Page/より子.md" title="wikilink">より子</a>『弾きがたり 3』(#1)</p></td>
 <td><p>DQC-1050</p></td>
 </tr>
 <tr class="odd">

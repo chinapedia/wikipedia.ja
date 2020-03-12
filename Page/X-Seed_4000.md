@@ -1,7 +1,7 @@
 > この記事は[X-Seed 4000](https://ja.wikipedia.org/wiki/X-Seed_4000)から翻訳されています。
 
 
-**X-Seed 4000**（エクシード―）は、[大成建設](https://ja.wikipedia.org/wiki/大成建設 "wikilink")によって[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に構想された[ハイパービルディング](https://ja.wikipedia.org/wiki/ハイパービルディング "wikilink")計画である。
+**X-Seed 4000**（エクシード―）は、[大成建設](../Page/大成建設.md "wikilink")によって[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に構想された[ハイパービルディング](../Page/ハイパービルディング.md "wikilink")計画である。
 
 ## 概要
 

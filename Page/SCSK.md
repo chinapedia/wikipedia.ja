@@ -1,7 +1,7 @@
 > この記事は[SCSK](https://ja.wikipedia.org/wiki/SCSK)から翻訳されています。
 
 
-**SCSK株式会社**（エスシーエスケイ）は、[住友商事](https://ja.wikipedia.org/wiki/住友商事 "wikilink")グループの[システムインテグレーター](https://ja.wikipedia.org/wiki/システムインテグレーター "wikilink")（[ユーザー系](../Page/ユーザー系.md "wikilink")）。本社は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")。
+**SCSK株式会社**（エスシーエスケイ）は、[住友商事](https://ja.wikipedia.org/wiki/住友商事 "wikilink")グループの[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")（[ユーザー系](../Page/ユーザー系.md "wikilink")）。本社は[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")。
 
 ## 概要
 
@@ -9,11 +9,11 @@
 
 [経済産業省](../Page/経済産業省.md "wikilink")（関東経済産業局所管）の[システムインテグレータ](https://ja.wikipedia.org/wiki/システムインテグレータ "wikilink")登録制度（[SI・SO制度](https://ja.wikipedia.org/wiki/SI・SO制度 "wikilink")）に登録されていた\[1\]。
 
-2011年10月1日に[CSKを吸収合併し](https://ja.wikipedia.org/wiki/CSK_\(企業\) "wikilink")、住商情報システム株式会社(SCS)からSCSK株式会社に商号を変更した。
+2011年10月1日に[CSKを吸収合併し](../Page/CSK_\(企業\).md "wikilink")、住商情報システム株式会社(SCS)からSCSK株式会社に商号を変更した。
 
 ## 主力製品・事業
 
-[ERPパッケージ](https://ja.wikipedia.org/wiki/企業資源計画 "wikilink")
+[ERPパッケージ](../Page/企業資源計画.md "wikilink")
 
   - ProActive
 
@@ -49,8 +49,8 @@ Webシステム開発言語
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - 住商コンピューターサービス株式会社として設立
   - [1989年](../Page/1989年.md "wikilink") - 東京証券取引所　市場第二部に上場
   - [1991年](../Page/1991年.md "wikilink") - 東京証券取引所　市場第一部に上場
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 住商エレクトロニクス株式会社と合併
-  - [2009年](../Page/2009年.md "wikilink") - 株式会社[CSKホールディングスと](https://ja.wikipedia.org/wiki/CSK_\(企業\) "wikilink")、業務・資本提携に向けて検討を開始。
+  - [2005年](../Page/2005年.md "wikilink") - 住商エレクトロニクス株式会社と合併
+  - [2009年](../Page/2009年.md "wikilink") - 株式会社[CSKホールディングスと](../Page/CSK_\(企業\).md "wikilink")、業務・資本提携に向けて検討を開始。
   - [2011年](../Page/2011年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - 住友商事と住商情報システムが共同で[株式公開買い付け](https://ja.wikipedia.org/wiki/株式公開買い付け "wikilink")を実施し、CSKを子会社化することを発表。
 
 <!-- end list -->

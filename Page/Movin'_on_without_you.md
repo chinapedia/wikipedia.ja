@@ -7,13 +7,13 @@
 
 「Movin' on without you」は、本人いわく、15歳の少女が書いたとは思えない、自分から別れを切り出す歌詞のため「怖いよ〜（笑）」とのこと。
 
-「B\&C」の曲名は映画『[俺たちに明日はない](https://ja.wikipedia.org/wiki/俺たちに明日はない "wikilink")』の主人公、[ボニーとクライド](../Page/ボニーとクライド.md "wikilink")から。仮タイトルは「何があっても」。関係者向けの初期のプロモーション盤などにはこのタイトルで収録されている。
+「B\&C」の曲名は映画『[俺たちに明日はない](../Page/俺たちに明日はない.md "wikilink")』の主人公、[ボニーとクライド](../Page/ボニーとクライド.md "wikilink")から。仮タイトルは「何があっても」。関係者向けの初期のプロモーション盤などにはこのタイトルで収録されている。
 
 累計出荷枚数は153万枚\[1\]。
 
 2013年9月4日に発売された[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")のアルバム『[遊音倶楽部 〜1st grade〜](https://ja.wikipedia.org/wiki/遊音倶楽部_〜1st_grade〜 "wikilink")』に本曲のカバーが収録されている。
 
-2014年にはデビュー15周年を記念して自身としては初のカバーアルバム『[宇多田ヒカルのうた -13組の音楽家による13の解釈について-](https://ja.wikipedia.org/wiki/宇多田ヒカルのうた_-13組の音楽家による13の解釈について- "wikilink")』内にて同曲を[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")によってカバーされた。後に翌[2015年](../Page/2015年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")に発売された16thアルバム『[A ONE](https://ja.wikipedia.org/wiki/A_ONE "wikilink")』に再収録されている。
+2014年にはデビュー15周年を記念して自身としては初のカバーアルバム『[宇多田ヒカルのうた -13組の音楽家による13の解釈について-](https://ja.wikipedia.org/wiki/宇多田ヒカルのうた_-13組の音楽家による13の解釈について- "wikilink")』内にて同曲を[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")によってカバーされた。後に翌[2015年](../Page/2015年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")に発売された16thアルバム『[A ONE](https://ja.wikipedia.org/wiki/A_ONE "wikilink")』に再収録されている。
 
 ## 収録曲
 
@@ -24,7 +24,7 @@
 1.  **Movin’on without you**(4:39)
       -
         編曲：[村山晋一郎](https://ja.wikipedia.org/wiki/村山晋一郎 "wikilink")
-        [日産・テラノ](https://ja.wikipedia.org/wiki/日産・テラノ "wikilink")CMソング
+        [日産・テラノ](../Page/日産・テラノ.md "wikilink")CMソング
 2.  **B\&C**(4:22)
       -
         編曲：西平彰（編曲）、Taka & Speedy（Rhythm track Arrangement）

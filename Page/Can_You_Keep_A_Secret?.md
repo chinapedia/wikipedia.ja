@@ -1,7 +1,7 @@
 > この記事は[Can You Keep A Secret\?](https://ja.wikipedia.org/wiki/Can_You_Keep_A_Secret\?)から翻訳されています。
 
 
-「**Can You Keep A Secret?**」（キャン ユー キープ ア シークレット?）は、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")に[東芝EMIから発売された](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+「**Can You Keep A Secret?**」（キャン ユー キープ ア シークレット?）は、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")に[東芝EMIから発売された](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 概要
 
@@ -9,8 +9,8 @@
   - 2ndアルバム『[Distance](../Page/Distance_\(宇多田ヒカルのアルバム\).md "wikilink")』からの先行シングル。
   - 発売前日までの出荷枚数は101万枚、発売当日に発売元の東芝EMIに寄せられた追加注文は30万枚に達した\[1\]。公称売上（出荷）枚数は累計155万枚\[2\]。累計売り上げ枚数は170万枚を超えていると思われる。
   - インストバージョンがドラマのサウンドトラックに収録されている。
-  - ジャケット写真は元夫の[紀里谷和明](https://ja.wikipedia.org/wiki/紀里谷和明 "wikilink")によるもの（この時が宇多田と紀里谷の初の仕事）。
-  - 宇多田は[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")[主演](../Page/主演.md "wikilink")の「[HERO](https://ja.wikipedia.org/wiki/HERO_\(テレビドラマ\) "wikilink")」第8話にレストランのウェイトレス役でゲスト出演した。
+  - ジャケット写真は元夫の[紀里谷和明](../Page/紀里谷和明.md "wikilink")によるもの（この時が宇多田と紀里谷の初の仕事）。
+  - 宇多田は[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[木村拓哉](../Page/木村拓哉.md "wikilink")[主演](../Page/主演.md "wikilink")の「[HERO](../Page/HERO_\(テレビドラマ\).md "wikilink")」第8話にレストランのウェイトレス役でゲスト出演した。
   - 権利面の関係からか、ドラマ終了後の続編では一切使用されることがなかった。
   - オリコンチャートにおいて、[21世紀](../Page/21世紀.md "wikilink")発売のシングル作品で初めてミリオンセラーを達成した（2001年3月5日付け達成）。また、月9ドラマの主題歌では最後のミリオンセラーとなったシングルである。
 
@@ -21,7 +21,7 @@
 1.  **Can You Keep A Secret?**(5:11)
       -
         編曲：[西平彰](../Page/西平彰.md "wikilink")
-        通学途中に車でセントラルパークを通っている際に浮かんだ曲。タイトルと歌いだしの部分の歌詞はハマりのよさから仮詞のものをそのまま使用した。また当初自身の日記で、この曲のタイトルの日本語訳は「秘密守れる?」であると書いたが、ファンから「誰にも言わない?」はどうかという案が出され、宇多田自身、その訳を非常に気に入ったというエピソードがある。ドラマ「[HERO](https://ja.wikipedia.org/wiki/HERO_\(テレビドラマ\) "wikilink")」の主題歌に決定した際、企画書を読んだ宇多田がサビの一部を書き直した。
+        通学途中に車でセントラルパークを通っている際に浮かんだ曲。タイトルと歌いだしの部分の歌詞はハマりのよさから仮詞のものをそのまま使用した。また当初自身の日記で、この曲のタイトルの日本語訳は「秘密守れる?」であると書いたが、ファンから「誰にも言わない?」はどうかという案が出され、宇多田自身、その訳を非常に気に入ったというエピソードがある。ドラマ「[HERO](../Page/HERO_\(テレビドラマ\).md "wikilink")」の主題歌に決定した際、企画書を読んだ宇多田がサビの一部を書き直した。
 2.  **蹴っ飛ばせ\!**(4:33)
       -
         編曲：西平彰、宇多田ヒカル
@@ -38,7 +38,7 @@
 
 <!-- end list -->
 
-  - [西平彰](../Page/西平彰.md "wikilink")：[keybords](../Page/キーボード_\(楽器\).md "wikilink")、[programming](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")
+  - [西平彰](../Page/西平彰.md "wikilink")：[keybords](../Page/キーボード_\(楽器\).md "wikilink")、[programming](../Page/ミュージックシーケンサー.md "wikilink")
   - 中山信彦：[synthesizer programming](../Page/シンセサイザー.md "wikilink")
   - [鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")：[guitar](../Page/ギター.md "wikilink")
   - Sking1：finger snap

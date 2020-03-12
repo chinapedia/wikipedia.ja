@@ -21,8 +21,8 @@
 
 1.  **CAROLS "Original Mix"**
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[Tomoya Kinoshita](https://ja.wikipedia.org/wiki/木下智哉 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
-        [Panasonic](https://ja.wikipedia.org/wiki/Panasonic "wikilink") [デジタルカメラ](../Page/デジタルカメラ.md "wikilink")「[LUMIX](../Page/LUMIX.md "wikilink") FX7」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[Tomoya Kinoshita](https://ja.wikipedia.org/wiki/木下智哉 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
+        [Panasonic](https://ja.wikipedia.org/wiki/Panasonic "wikilink") [デジタルカメラ](../Page/デジタルカメラ.md "wikilink")「[LUMIX](../Page/LUMIX.md "wikilink") FX7」[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **CAROLS "Criminal Tribal Mix"**
 3.  **CAROLS "Hammond B-3 Whisper"**
 4.  **CAROLS "Original Mix -Instrumental-"**

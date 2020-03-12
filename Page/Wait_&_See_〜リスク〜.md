@@ -20,7 +20,7 @@
 2.  **はやとちり**(4:15)
       -
         編曲：[河野圭](https://ja.wikipedia.org/wiki/河野圭 "wikilink")(ストリングスアレンジ)
-3.  **[Fly Me To The Moon (In Other Words)](https://ja.wikipedia.org/wiki/フライ・ミー・トゥー・ザ・ムーン "wikilink")**(3:24)
+3.  **[Fly Me To The Moon (In Other Words)](../Page/フライ・ミー・トゥー・ザ・ムーン.md "wikilink")**(3:24)
       -
         作詞・作曲：[Bart Howard](https://ja.wikipedia.org/wiki/:en:Bart_Howard "wikilink") 編曲：[河野圭](https://ja.wikipedia.org/wiki/河野圭 "wikilink")(ストリングスアレンジ
         [ジャズ](../Page/ジャズ.md "wikilink")のスタンダード曲の[カバー](../Page/カバー.md "wikilink")。のちに発売されたアナログ盤「[REMIX: Fly Me To The Moon](../Page/REMIX:_Fly_Me_To_The_Moon.md "wikilink")」にのみ収録のリミックス・ヴァージョンが存在する。

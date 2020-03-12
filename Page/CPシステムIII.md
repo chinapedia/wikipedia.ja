@@ -1,18 +1,18 @@
 > この記事は[CPIII](https://ja.wikipedia.org/wiki/CPIII)から翻訳されています。
 
 
-**CPシステムIII**（シーピーシステム スリー）とは、[1996年](../Page/1996年.md "wikilink")に『[ウォーザード](https://ja.wikipedia.org/wiki/ウォーザード "wikilink")』と共に出荷された[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")開発の[アーケードゲーム基板](https://ja.wikipedia.org/wiki/アーケードゲーム基板 "wikilink")である。[2018年](../Page/2018年.md "wikilink")現在、この基板がカプコンの開発した最後の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")用[システム基板](https://ja.wikipedia.org/wiki/システム基板 "wikilink")となっている。日本国外を中心に**CPS-3**と略称されることがある（以降、記事中ではこの略称を用いる）。
+**CPシステムIII**（シーピーシステム スリー）とは、[1996年](../Page/1996年.md "wikilink")に『[ウォーザード](../Page/ウォーザード.md "wikilink")』と共に出荷された[カプコン](../Page/カプコン.md "wikilink")開発の[アーケードゲーム基板](../Page/アーケードゲーム基板.md "wikilink")である。[2018年](../Page/2018年.md "wikilink")現在、この基板がカプコンの開発した最後の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")用[システム基板](https://ja.wikipedia.org/wiki/システム基板 "wikilink")となっている。日本国外を中心に**CPS-3**と略称されることがある（以降、記事中ではこの略称を用いる）。
 
 ## 概要
 
-本機は前機種にあたる[CPシステムII](../Page/CPシステムII.md "wikilink")と比べてスペック的に高い性能を備えており、拡大縮小やフェードイン・フェードアウトなどの各種エフェクト機能もハード側で実装された。この時代の2D[格闘ゲームにおいては](../Page/対戦型格闘ゲーム.md "wikilink")、本機の『[ストリートファイターIII](https://ja.wikipedia.org/wiki/ストリートファイターIII "wikilink")』などで見られる滑らかで流れるような[アニメーション](../Page/アニメーション.md "wikilink")は、当時の他社のタイトルではほとんど見られない表現であった。こういった映像表現に驚愕した当時の格闘ゲームファンたちは「この基板は『ストIII』製作のために設計したのではないか？」と考察したほどだったとも言われている。
+本機は前機種にあたる[CPシステムII](../Page/CPシステムII.md "wikilink")と比べてスペック的に高い性能を備えており、拡大縮小やフェードイン・フェードアウトなどの各種エフェクト機能もハード側で実装された。この時代の2D[格闘ゲームにおいては](../Page/対戦型格闘ゲーム.md "wikilink")、本機の『[ストリートファイターIII](../Page/ストリートファイターIII.md "wikilink")』などで見られる滑らかで流れるような[アニメーション](../Page/アニメーション.md "wikilink")は、当時の他社のタイトルではほとんど見られない表現であった。こういった映像表現に驚愕した当時の格闘ゲームファンたちは「この基板は『ストIII』製作のために設計したのではないか？」と考察したほどだったとも言われている。
 
 ## ソフト供給形態
 
 本機CPS-3が他機種とは大きく異なる特徴には、ソフトの供給形態と[セキュリティに関する仕様にある](../Page/コンピュータセキュリティ.md "wikilink")。CPS-3の構成とゲームの導入手順は以下通り。
 
   - ゲーム[CD-ROM](../Page/コンパクトディスク.md "wikilink")・CD-ROMドライブ
-    CD-ROMにはゲーム本体の内容が[暗号](../Page/暗号.md "wikilink")化されて格納されている。特殊[フォーマットではないので普通に](../Page/ファイルフォーマット.md "wikilink")[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink") (PC) でも読み込むことが可能で、中にはゲームデータや書き替え用画面の[ビットマップ画像](https://ja.wikipedia.org/wiki/ビットマップ画像 "wikilink")が入っている。CD-ROMドライブは[松下寿電子工業製の当時流通していた普通の](https://ja.wikipedia.org/wiki/PHCホールディングス "wikilink")[SCSI対応型でありPCへの流用も可能](../Page/Small_Computer_System_Interface.md "wikilink")。
+    CD-ROMにはゲーム本体の内容が[暗号](../Page/暗号.md "wikilink")化されて格納されている。特殊[フォーマットではないので普通に](../Page/ファイルフォーマット.md "wikilink")[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink") (PC) でも読み込むことが可能で、中にはゲームデータや書き替え用画面の[ビットマップ画像](../Page/ビットマップ画像.md "wikilink")が入っている。CD-ROMドライブは[松下寿電子工業製の当時流通していた普通の](https://ja.wikipedia.org/wiki/PHCホールディングス "wikilink")[SCSI対応型でありPCへの流用も可能](../Page/Small_Computer_System_Interface.md "wikilink")。
 
 <!-- end list -->
 
@@ -38,11 +38,11 @@
 <!-- end list -->
 
   - サポートの終了
-    部品調達難に伴い、[2015年](../Page/2015年.md "wikilink")3月31日（カプコンサービスセンター2015年3月14日到着分）をもって基板自体の修理サポートが終了した\[1\]。継続されていたセキュリティ・カートリッジの電池交換も、カプコンサービスセンターから[セガ・ロジスティクスサービス](https://ja.wikipedia.org/wiki/セガ・ロジスティクスサービス "wikilink")へのアーケードゲームの修理サポート業務移管に伴い、[2019年](../Page/2019年.md "wikilink")2月28日（カプコンサービスセンター2019年2月27日到着分）をもって終了した\[2\]\[3\]。これに伴い、基板自体が故障したり、セキュリティ・カートリッジの電池が切れた場合は完全に稼働不可となった（セガ・ロジスティクスサービスによるメーカーサポートも受けられない）。
+    部品調達難に伴い、[2015年](../Page/2015年.md "wikilink")3月31日（カプコンサービスセンター2015年3月14日到着分）をもって基板自体の修理サポートが終了した\[1\]。継続されていたセキュリティ・カートリッジの電池交換も、カプコンサービスセンターから[セガ・ロジスティクスサービス](../Page/セガ・ロジスティクスサービス.md "wikilink")へのアーケードゲームの修理サポート業務移管に伴い、[2019年](../Page/2019年.md "wikilink")2月28日（カプコンサービスセンター2019年2月27日到着分）をもって終了した\[2\]\[3\]。これに伴い、基板自体が故障したり、セキュリティ・カートリッジの電池が切れた場合は完全に稼働不可となった（セガ・ロジスティクスサービスによるメーカーサポートも受けられない）。
 
 ## 仕様
 
-  - メイン[CPU](../Page/CPU.md "wikilink")：[日立](../Page/日立製作所.md "wikilink") [SH-2](https://ja.wikipedia.org/wiki/SH-2_\(プロセッサ\) "wikilink")（HD6417099）@ 20MHz（MAX 25MHz）
+  - メイン[CPU](../Page/CPU.md "wikilink")：[日立](../Page/日立製作所.md "wikilink") [SH-2](../Page/SH-2_\(プロセッサ\).md "wikilink")（HD6417099）@ 20MHz（MAX 25MHz）
   - 記憶装置
       - [SCSI](../Page/Small_Computer_System_Interface.md "wikilink") [CD-ROM](../Page/CD-ROM.md "wikilink")ドライブ（松下寿電子工業製）
       - [RAM](../Page/Random_Access_Memory.md "wikilink") (variable amount)
@@ -68,8 +68,8 @@
 
 | リリース日    | 国内版タイトル                                                                         | 海外版タイトル                                              |
 | -------- | ------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| 1996年12月 | [ウォーザード](https://ja.wikipedia.org/wiki/ウォーザード "wikilink")                       | Red Earth                                            |
-| 1997年2月  | [ストリートファイターIII](https://ja.wikipedia.org/wiki/ストリートファイターIII "wikilink")         | Street Fighter III - New Generation                  |
+| 1996年12月 | [ウォーザード](../Page/ウォーザード.md "wikilink")                                          | Red Earth                                            |
+| 1997年2月  | [ストリートファイターIII](../Page/ストリートファイターIII.md "wikilink")                            | Street Fighter III - New Generation                  |
 | 1997年10月 | ストリートファイターIII 2nd Impact                                                        | Street Fighter III, 2nd Impact: Giant Attack         |
 | 1998年12月 | [ジョジョの奇妙な冒険](../Page/ジョジョの奇妙な冒険_\(対戦型格闘ゲーム\).md "wikilink")                     | JoJo's Venture                                       |
 | 1999年5月  | ストリートファイターIII 3rd Strike                                                        | Street Fighter III, 3rd Strike: Fight for the Future |

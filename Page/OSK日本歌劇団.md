@@ -1,17 +1,17 @@
 > この記事は[OSK](https://ja.wikipedia.org/wiki/OSK)から翻訳されています。
 
 
-**OSK日本歌劇団**（オーエスケーにっぽんかげきだん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[劇団](https://ja.wikipedia.org/wiki/劇団 "wikilink")。[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")・[松竹歌劇団](https://ja.wikipedia.org/wiki/松竹歌劇団 "wikilink")(SKD)と並ぶ三大[少女歌劇](https://ja.wikipedia.org/wiki/少女歌劇 "wikilink")のひとつ。[1922年](../Page/1922年.md "wikilink")（大正11年）4月、**松竹楽劇部**（前身）として創設された。[2003年](../Page/2003年.md "wikilink")（平成15年）5月に一時解散したが、同年8月からの団員有志による「OSK日本歌劇団存続の会」として実質的に活動を継続し、翌年4月に「New OSK日本歌劇団」として再結成。2007年に再び「OSK日本歌劇団」に改称し現在に至る。
+**OSK日本歌劇団**（オーエスケーにっぽんかげきだん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[劇団](../Page/劇団.md "wikilink")。[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")・[松竹歌劇団](../Page/松竹歌劇団.md "wikilink")(SKD)と並ぶ三大[少女歌劇](../Page/少女歌劇.md "wikilink")のひとつ。[1922年](../Page/1922年.md "wikilink")（大正11年）4月、**松竹楽劇部**（前身）として創設された。[2003年](../Page/2003年.md "wikilink")（平成15年）5月に一時解散したが、同年8月からの団員有志による「OSK日本歌劇団存続の会」として実質的に活動を継続し、翌年4月に「New OSK日本歌劇団」として再結成。2007年に再び「OSK日本歌劇団」に改称し現在に至る。
 
 OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka **S**hochiku **K**agekidan) の略称。 [OSK_Spring_Dance_Finale_1932-3.jpg](https://ja.wikipedia.org/wiki/File:OSK_Spring_Dance_Finale_1932-3.jpg "fig:OSK_Spring_Dance_Finale_1932-3.jpg")、[大阪松竹座](../Page/大阪松竹座.md "wikilink")の「春のおどり」フィナーレ\]\]
 
 ## 概要
 
-[Shochiku(OSK)_The_Girl_from_Arles_1923-5.jpg](https://ja.wikipedia.org/wiki/File:Shochiku\(OSK\)_The_Girl_from_Arles_1923-5.jpg "fig:Shochiku(OSK)_The_Girl_from_Arles_1923-5.jpg")、[大阪松竹座](../Page/大阪松竹座.md "wikilink")の松竹楽劇部による第一回公演『アルルの女』\]\] 未婚の女性により構成される[レビュー劇団](https://ja.wikipedia.org/wiki/レヴュー_\(演芸\) "wikilink")。[男役](../Page/男役.md "wikilink")・娘役が存在するが、男役→娘役だけでなく娘役→男役の転向の例もある。生年・本名は非公表だが、芸名に本名を用いることが可能。
+[Shochiku(OSK)_The_Girl_from_Arles_1923-5.jpg](https://ja.wikipedia.org/wiki/File:Shochiku\(OSK\)_The_Girl_from_Arles_1923-5.jpg "fig:Shochiku(OSK)_The_Girl_from_Arles_1923-5.jpg")、[大阪松竹座](../Page/大阪松竹座.md "wikilink")の松竹楽劇部による第一回公演『アルルの女』\]\] 未婚の女性により構成される[レビュー劇団](../Page/レヴュー_\(演芸\).md "wikilink")。[男役](../Page/男役.md "wikilink")・娘役が存在するが、男役→娘役だけでなく娘役→男役の転向の例もある。生年・本名は非公表だが、芸名に本名を用いることが可能。
 
-かつて、宝塚とは同じ関西でしのぎを削り、「歌の宝塚、ダンスのOSK」と並び称された。また同じ[松竹](../Page/松竹.md "wikilink")が経営していたSKDは、OSKの後に東京を本拠とする劇団としてつくられ、大阪本拠のOSKとの棲み分けを図った。しかし、SKDが発足したことなどでOSKは東京での公演が長らく不可能となり（再開はOSK創立70周年を迎えた1992年。SKDは1990年にレビュー最終公演を行い、1992年よりミュージカル劇団となった）、その間、宝塚は東京に[東京宝塚劇場](https://ja.wikipedia.org/wiki/東京宝塚劇場 "wikilink")を設置して常時公演できる体制を整え、関東圏など全国レベルでの人気・知名度で大きく差を付けられることになった。
+かつて、宝塚とは同じ関西でしのぎを削り、「歌の宝塚、ダンスのOSK」と並び称された。また同じ[松竹](../Page/松竹.md "wikilink")が経営していたSKDは、OSKの後に東京を本拠とする劇団としてつくられ、大阪本拠のOSKとの棲み分けを図った。しかし、SKDが発足したことなどでOSKは東京での公演が長らく不可能となり（再開はOSK創立70周年を迎えた1992年。SKDは1990年にレビュー最終公演を行い、1992年よりミュージカル劇団となった）、その間、宝塚は東京に[東京宝塚劇場](../Page/東京宝塚劇場.md "wikilink")を設置して常時公演できる体制を整え、関東圏など全国レベルでの人気・知名度で大きく差を付けられることになった。
 
-現在は、[大阪松竹座](../Page/大阪松竹座.md "wikilink")や[京都南座](https://ja.wikipedia.org/wiki/京都南座 "wikilink")での松竹主催公演、[福井県](../Page/福井県.md "wikilink")[越前市](https://ja.wikipedia.org/wiki/越前市 "wikilink")の[たけふ菊人形](https://ja.wikipedia.org/wiki/たけふ菊人形 "wikilink")会場での1か月公演、大丸心斎橋劇場や近鉄アート館での年間5，6本の自主公演、2011年より9月に恒例となった東京・三越劇場公演、イベント出演、ディナーショー等で活動している。松竹座・南座公演は、二部構成のレビューとなっており、第一部が和物、第二部が洋物の計約2時間で構成されていることが多い。上演時間が約1時間で、休憩を挟まない[たけふ菊人形](https://ja.wikipedia.org/wiki/たけふ菊人形 "wikilink")公演も、2013年までは和物と洋物の二部構成のレビューであった。
+現在は、[大阪松竹座](../Page/大阪松竹座.md "wikilink")や[京都南座](https://ja.wikipedia.org/wiki/京都南座 "wikilink")での松竹主催公演、[福井県](../Page/福井県.md "wikilink")[越前市](../Page/越前市.md "wikilink")の[たけふ菊人形](https://ja.wikipedia.org/wiki/たけふ菊人形 "wikilink")会場での1か月公演、大丸心斎橋劇場や近鉄アート館での年間5，6本の自主公演、2011年より9月に恒例となった東京・三越劇場公演、イベント出演、ディナーショー等で活動している。松竹座・南座公演は、二部構成のレビューとなっており、第一部が和物、第二部が洋物の計約2時間で構成されていることが多い。上演時間が約1時間で、休憩を挟まない[たけふ菊人形](https://ja.wikipedia.org/wiki/たけふ菊人形 "wikilink")公演も、2013年までは和物と洋物の二部構成のレビューであった。
 
 旧来より「ダンスのOSK」として知られ、特に、速いスピードで高く足を上げるラインダンスは、劇団の名物の一つともなっている。（劇団によると、劇団史上最速の脚上げのテンポは「CRYSTAL PASSION 2016 ～情熱の結晶～ 第二部　BLACK AND GOLD」のラインダンスにおけるBPM201）
 
@@ -29,19 +29,19 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
 
 ### 松竹時代
 
-[OSK_Shochiku_Grand_Revue_poster_1930-6.jpg](https://ja.wikipedia.org/wiki/File:OSK_Shochiku_Grand_Revue_poster_1930-6.jpg "fig:OSK_Shochiku_Grand_Revue_poster_1930-6.jpg")、[大阪松竹座](../Page/大阪松竹座.md "wikilink")「松竹大レヴュウ」のポスター\]\] [OSK_Spring_Dance_1955-3.jpg](https://ja.wikipedia.org/wiki/File:OSK_Spring_Dance_1955-3.jpg "fig:OSK_Spring_Dance_1955-3.jpg")、[大阪劇場](https://ja.wikipedia.org/wiki/大阪劇場 "wikilink")の「春のおどり」\]\] [松竹](../Page/松竹.md "wikilink")は洋式劇場である大阪松竹座の開業に当たり、[白井松次郎](../Page/白井松次郎.md "wikilink")社長の発意により、新たな出し物として[少女歌劇](https://ja.wikipedia.org/wiki/少女歌劇 "wikilink")に取り組むこととなった。すでに成功を収めていた[宝塚少女歌劇団から](../Page/宝塚歌劇団.md "wikilink")、舞踏家：[楳茂都陸平](https://ja.wikipedia.org/wiki/楳茂都陸平 "wikilink")、作曲家：[原田潤](https://ja.wikipedia.org/wiki/原田潤_\(作曲家\) "wikilink")・[松本四郎](https://ja.wikipedia.org/wiki/松本四郎 "wikilink")を招聘し、[1922年](../Page/1922年.md "wikilink")（大正11年）4月、**松竹楽劇部**を創設した。
+[OSK_Shochiku_Grand_Revue_poster_1930-6.jpg](https://ja.wikipedia.org/wiki/File:OSK_Shochiku_Grand_Revue_poster_1930-6.jpg "fig:OSK_Shochiku_Grand_Revue_poster_1930-6.jpg")、[大阪松竹座](../Page/大阪松竹座.md "wikilink")「松竹大レヴュウ」のポスター\]\] [OSK_Spring_Dance_1955-3.jpg](https://ja.wikipedia.org/wiki/File:OSK_Spring_Dance_1955-3.jpg "fig:OSK_Spring_Dance_1955-3.jpg")、[大阪劇場](../Page/大阪劇場.md "wikilink")の「春のおどり」\]\] [松竹](../Page/松竹.md "wikilink")は洋式劇場である大阪松竹座の開業に当たり、[白井松次郎](../Page/白井松次郎.md "wikilink")社長の発意により、新たな出し物として[少女歌劇](../Page/少女歌劇.md "wikilink")に取り組むこととなった。すでに成功を収めていた[宝塚少女歌劇団から](../Page/宝塚歌劇団.md "wikilink")、舞踏家：[楳茂都陸平](https://ja.wikipedia.org/wiki/楳茂都陸平 "wikilink")、作曲家：[原田潤](https://ja.wikipedia.org/wiki/原田潤_\(作曲家\) "wikilink")・[松本四郎](https://ja.wikipedia.org/wiki/松本四郎 "wikilink")を招聘し、[1922年](../Page/1922年.md "wikilink")（大正11年）4月、**松竹楽劇部**を創設した。
 
-同年12月の[中之島公会堂](https://ja.wikipedia.org/wiki/中之島公会堂 "wikilink")でのダンス披露および翌年2月の京都・[南座](../Page/南座.md "wikilink")での試演を経て、[1923年](../Page/1923年.md "wikilink")（大正12年）5月、[大阪松竹座](../Page/大阪松竹座.md "wikilink")専属となり「アルルの女」を上演した。創設当初は、映画との併演で日舞・洋舞を披露していたが、実力・人気はいまひとつであった。大きな転機となったのが、日舞を中心とした本格的ショー[1926年](../Page/1926年.md "wikilink")（大正15年）4月の「春のおどり 花ごよみ」であった。タイトルは関西の名物だった花柳界の「浪花踊り」「[都踊り](https://ja.wikipedia.org/wiki/都踊り "wikilink")」に負けぬようにと名付けられ、特に当時の仮名遣い（[歴史的仮名遣い](https://ja.wikipedia.org/wiki/歴史的仮名遣い "wikilink")）では"をどり"が正しいにも関わらず、白井松次郎の意見で意図的に"おどり"と表記した。以後、今日まで一貫して"おどり"表記を用いている。さらに[宝塚少女歌劇団のフランス風レビュー](../Page/宝塚歌劇団.md "wikilink")「[モン・パリ](https://ja.wikipedia.org/wiki/モン・パリ "wikilink")」が成功したことをうけ、楽劇部でも洋舞を取り入れつつ試行錯誤が重ねられ、徐々に人気を増していった。[1928年](../Page/1928年.md "wikilink")（昭和3年）「春のおどり」でレビュー様式が確立された。同年8月、「虹のおどり」にて東京公演を実施した。これをきっかけに東京松竹楽劇部（後の[松竹歌劇団](https://ja.wikipedia.org/wiki/松竹歌劇団 "wikilink")）が誕生した。
+同年12月の[中之島公会堂](https://ja.wikipedia.org/wiki/中之島公会堂 "wikilink")でのダンス披露および翌年2月の京都・[南座](../Page/南座.md "wikilink")での試演を経て、[1923年](../Page/1923年.md "wikilink")（大正12年）5月、[大阪松竹座](../Page/大阪松竹座.md "wikilink")専属となり「アルルの女」を上演した。創設当初は、映画との併演で日舞・洋舞を披露していたが、実力・人気はいまひとつであった。大きな転機となったのが、日舞を中心とした本格的ショー[1926年](../Page/1926年.md "wikilink")（大正15年）4月の「春のおどり 花ごよみ」であった。タイトルは関西の名物だった花柳界の「浪花踊り」「[都踊り](https://ja.wikipedia.org/wiki/都踊り "wikilink")」に負けぬようにと名付けられ、特に当時の仮名遣い（[歴史的仮名遣い](https://ja.wikipedia.org/wiki/歴史的仮名遣い "wikilink")）では"をどり"が正しいにも関わらず、白井松次郎の意見で意図的に"おどり"と表記した。以後、今日まで一貫して"おどり"表記を用いている。さらに[宝塚少女歌劇団のフランス風レビュー](../Page/宝塚歌劇団.md "wikilink")「[モン・パリ](../Page/モン・パリ.md "wikilink")」が成功したことをうけ、楽劇部でも洋舞を取り入れつつ試行錯誤が重ねられ、徐々に人気を増していった。[1928年](../Page/1928年.md "wikilink")（昭和3年）「春のおどり」でレビュー様式が確立された。同年8月、「虹のおどり」にて東京公演を実施した。これをきっかけに東京松竹楽劇部（後の[松竹歌劇団](../Page/松竹歌劇団.md "wikilink")）が誕生した。
 
-[1933年](../Page/1933年.md "wikilink")（昭和8年）、[桃色争議](https://ja.wikipedia.org/wiki/桃色争議 "wikilink")が発生。最終的にスタークラスの劇団員を大量に失い、不振に陥った。翌[1934年](../Page/1934年.md "wikilink")（昭和9年）、心機一転し**大阪松竹少女歌劇団**（OSSK）に改称し、[千日前](https://ja.wikipedia.org/wiki/千日前 "wikilink")の[大阪劇場](https://ja.wikipedia.org/wiki/大阪劇場 "wikilink")を本拠地とする。改称後の第一回公演「カイエ・ダムール」は、[コロムビア・レコード](https://ja.wikipedia.org/wiki/コロムビア・レコード "wikilink")ともタイアップしレコードを発売するなど、大々的な宣伝を行った。その結果、人気を取り戻した。同年には、松組・竹組の2班に分けて公演が行われるようになり、[三笠静子](../Page/笠置シヅ子.md "wikilink")・[美鈴あさ子が人気を集めた](https://ja.wikipedia.org/wiki/アーサー美鈴 "wikilink")。[1936年](../Page/1936年.md "wikilink")（昭和11年）に、松組・竹組は解消され、新たに若手の[秋月恵美子](https://ja.wikipedia.org/wiki/秋月恵美子 "wikilink")・[芦原千津子](https://ja.wikipedia.org/wiki/芦原千津子 "wikilink")をスターとして売り出した。
+[1933年](../Page/1933年.md "wikilink")（昭和8年）、[桃色争議](../Page/桃色争議.md "wikilink")が発生。最終的にスタークラスの劇団員を大量に失い、不振に陥った。翌[1934年](../Page/1934年.md "wikilink")（昭和9年）、心機一転し**大阪松竹少女歌劇団**（OSSK）に改称し、[千日前](../Page/千日前.md "wikilink")の[大阪劇場](../Page/大阪劇場.md "wikilink")を本拠地とする。改称後の第一回公演「カイエ・ダムール」は、[コロムビア・レコード](../Page/コロムビア・レコード.md "wikilink")ともタイアップしレコードを発売するなど、大々的な宣伝を行った。その結果、人気を取り戻した。同年には、松組・竹組の2班に分けて公演が行われるようになり、[三笠静子](../Page/笠置シヅ子.md "wikilink")・[美鈴あさ子が人気を集めた](https://ja.wikipedia.org/wiki/アーサー美鈴 "wikilink")。[1936年](../Page/1936年.md "wikilink")（昭和11年）に、松組・竹組は解消され、新たに若手の[秋月恵美子](https://ja.wikipedia.org/wiki/秋月恵美子 "wikilink")・[芦原千津子](https://ja.wikipedia.org/wiki/芦原千津子 "wikilink")をスターとして売り出した。
 
-[1943年](../Page/1943年.md "wikilink")（昭和18年）、**大阪松竹歌劇団**（OSK）に改称。[1945年](../Page/1945年.md "wikilink")（昭和20年）3月13日の[大阪大空襲](../Page/大阪大空襲.md "wikilink")で本拠地の[大阪劇場](https://ja.wikipedia.org/wiki/大阪劇場 "wikilink")が破壊されたが、突貫工事で修復され、7月26日から「夏まつり」の公演を再開した\[2\]。
+[1943年](../Page/1943年.md "wikilink")（昭和18年）、**大阪松竹歌劇団**（OSK）に改称。[1945年](../Page/1945年.md "wikilink")（昭和20年）3月13日の[大阪大空襲](../Page/大阪大空襲.md "wikilink")で本拠地の[大阪劇場](../Page/大阪劇場.md "wikilink")が破壊されたが、突貫工事で修復され、7月26日から「夏まつり」の公演を再開した\[2\]。
 
 戦後は、松組・竹組に梅組を加え三組制となった。秋月・芦原が絶大な人気を集めたのに加え、さまざまなユニットが結成された。1950年代までは、OSK・SKDの合同公演も行われていた。
 
 [1957年](../Page/1957年.md "wikilink")（昭和32年）に松竹から独立し、「株式会社 大阪松竹歌劇団」となる。[1963年](../Page/1963年.md "wikilink")（昭和38年）3月3日午前2時頃、大阪劇場で釣り舞台が落下する事故が発生、団員・スタッフ44名が重軽傷を負った。公演直前\[3\]ながら、深夜練習が行われていたことが[労働基準法](../Page/労働基準法.md "wikilink")で禁じられた女子の深夜労働\[4\]に当たる可能性が明るみに出て、芸能界における深夜稽古の常態化が問題視されるようになった。労働省は翌3月4日に主要劇場での抜き打ち査察を行い、全国に波紋が広がった。
 
-同年、**日本歌劇団**（NKD）に改称するが、愛称のOSKが定着していたため[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）に**OSK日本歌劇団**と改称する。
+同年、**日本歌劇団**（NKD）に改称するが、愛称のOSKが定着していたため[1970年](../Page/1970年.md "wikilink")（昭和45年）に**OSK日本歌劇団**と改称する。
 
 ### 近鉄時代
 
@@ -57,7 +57,7 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
 
 [2002年](../Page/2002年.md "wikilink")（平成14年）[6月27日](../Page/6月27日.md "wikilink")、近鉄からの支援打ち切りに伴う解散が発表され、翌日に劇団員にも正式に通達された\[11\]。通告を受けた翌日から最上級生（当時）の[吉津たかし](https://ja.wikipedia.org/wiki/吉津たかし "wikilink")と男役スターの一人[大貴誠](../Page/大貴誠.md "wikilink")を中心に劇団の存続活動が開始され、同年8月には当時の団員71名全員により**OSK存続の会**（代表：吉津たかし）が結成された。OSK存続の会は翌年5月までに約20万人分のOSK日本歌劇団存続の嘆願署名を集めたが、近鉄側の決定を覆すことは結局できず、[2003年](../Page/2003年.md "wikilink")（平成15年）5月[近鉄劇場](../Page/近鉄劇場.md "wikilink")公演「Endless Dream～終わりなき夢～」を最後に解散し、81年の歴史に一旦幕を下ろした。解散公演時の団員数は69名。
 
-解散は[近鉄グループ](https://ja.wikipedia.org/wiki/近鉄グループ "wikilink")の[リストラ](../Page/リストラ.md "wikilink")策、特にレジャー部門見直しの一環であった。なお解散時の出資比率は近鉄が15%、子会社の近鉄興業が85%。翌2004年には[バファローズも同様に解散し](https://ja.wikipedia.org/wiki/プロ野球再編問題_\(2004年\) "wikilink")、あやめ池遊園地と近鉄劇場も閉鎖する。近鉄興業もあやめ池の閉園に伴い解散している。
+解散は[近鉄グループ](https://ja.wikipedia.org/wiki/近鉄グループ "wikilink")の[リストラ](../Page/リストラ.md "wikilink")策、特にレジャー部門見直しの一環であった。なお解散時の出資比率は近鉄が15%、子会社の近鉄興業が85%。翌2004年には[バファローズも同様に解散し](../Page/プロ野球再編問題_\(2004年\).md "wikilink")、あやめ池遊園地と近鉄劇場も閉鎖する。近鉄興業もあやめ池の閉園に伴い解散している。
 
 ### 新OSK時代
 
@@ -71,7 +71,7 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
 
 その後、[吹田市](../Page/吹田市.md "wikilink")のイベント企画会社「ワンズ・カンパニー」に事業譲渡され、名称は再び**OSK日本歌劇団**となった。[2009年](../Page/2009年.md "wikilink")（平成21年）2月に、株式会社として独立した。
 
-2010年（平成22年）の[上海万博](https://ja.wikipedia.org/wiki/上海万博 "wikilink")以降、外国人向け公演の経験を重ね、2017年(平成29年)1～2月、[JTB](../Page/JTB.md "wikilink")西日本の主催による、訪日外国人向けの日本物レビュー公演「Revue JAPAN」を開催したところ好評であったことから、同年12月より、さらに[松竹](../Page/松竹.md "wikilink")の協賛も得て[道頓堀角座](https://ja.wikipedia.org/wiki/道頓堀角座 "wikilink")で常打ち公演として継続されることとなった\[17\]。
+2010年（平成22年）の[上海万博](https://ja.wikipedia.org/wiki/上海万博 "wikilink")以降、外国人向け公演の経験を重ね、2017年(平成29年)1～2月、[JTB](../Page/JTB.md "wikilink")西日本の主催による、訪日外国人向けの日本物レビュー公演「Revue JAPAN」を開催したところ好評であったことから、同年12月より、さらに[松竹](../Page/松竹.md "wikilink")の協賛も得て[道頓堀角座](../Page/道頓堀角座.md "wikilink")で常打ち公演として継続されることとなった\[17\]。
 
 [2013年](../Page/2013年.md "wikilink")（平成25年）に、大阪のITコンサルタント企業・[ネクストウェア](https://ja.wikipedia.org/wiki/ネクストウェア "wikilink")の支援によりマネジメント・マーケティング分野を強化。劇団員自ら販売するチケットの販売実績をベースに、劇場の大きさに沿った団員配置・公演回数を設定するなどITコンサルティングの手法を取り入れ、観客の増加につなげた\[18\]。また、日本芸術文化振興協会や大阪府の助成事業を手掛けたことに伴いOSK日本歌劇団の収益も大きく改善し、単年度の黒字決算を挙げるまでになった\[19\]。
 
@@ -79,11 +79,11 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
 
 ### 年表
 
-[Shochiku(OSK)_Kotobuki-no-Odori_1928-8.jpg](https://ja.wikipedia.org/wiki/File:Shochiku\(OSK\)_Kotobuki-no-Odori_1928-8.jpg "fig:Shochiku(OSK)_Kotobuki-no-Odori_1928-8.jpg")、[大阪松竹座](../Page/大阪松竹座.md "wikilink")の「寿のおどり」\]\] [Osaka_Theater_OSK_1956-3.jpg](https://ja.wikipedia.org/wiki/File:Osaka_Theater_OSK_1956-3.jpg "fig:Osaka_Theater_OSK_1956-3.jpg")、[大阪劇場](https://ja.wikipedia.org/wiki/大阪劇場 "wikilink")の「春のおどり」上演中の劇場前\]\]
+[Shochiku(OSK)_Kotobuki-no-Odori_1928-8.jpg](https://ja.wikipedia.org/wiki/File:Shochiku\(OSK\)_Kotobuki-no-Odori_1928-8.jpg "fig:Shochiku(OSK)_Kotobuki-no-Odori_1928-8.jpg")、[大阪松竹座](../Page/大阪松竹座.md "wikilink")の「寿のおどり」\]\] [Osaka_Theater_OSK_1956-3.jpg](https://ja.wikipedia.org/wiki/File:Osaka_Theater_OSK_1956-3.jpg "fig:Osaka_Theater_OSK_1956-3.jpg")、[大阪劇場](../Page/大阪劇場.md "wikilink")の「春のおどり」上演中の劇場前\]\]
 
   - [1922年](../Page/1922年.md "wikilink")4月、「**松竹楽劇部**」として創設。
   - [1928年](../Page/1928年.md "wikilink")、[浅草](../Page/浅草.md "wikilink")[松竹座](../Page/松竹座.md "wikilink")で初の東京公演（後に東京からは撤退）。
-  - [1933年](../Page/1933年.md "wikilink")、[大阪劇場](https://ja.wikipedia.org/wiki/大阪劇場 "wikilink")（大劇）が開業、本拠地に。[千土地興行が運営を受託](https://ja.wikipedia.org/wiki/日本ドリーム観光 "wikilink")。
+  - [1933年](../Page/1933年.md "wikilink")、[大阪劇場](../Page/大阪劇場.md "wikilink")（大劇）が開業、本拠地に。[千土地興行が運営を受託](../Page/日本ドリーム観光.md "wikilink")。
   - [1934年](../Page/1934年.md "wikilink")、「**大阪松竹少女歌劇団(OSSK)**」に改称。
   - [1943年](../Page/1943年.md "wikilink")、「**大阪松竹歌劇団(OSK)**」に改称。
   - [1950年](../Page/1950年.md "wikilink")、[近鉄あやめ池遊園地](../Page/近鉄あやめ池遊園地.md "wikilink")で初興行。
@@ -93,7 +93,7 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
 <!-- end list -->
 
   -
-    この年封切りのハリウッド映画アカデミー賞作品「[サヨナラ](https://ja.wikipedia.org/wiki/サヨナラ_\(映画\) "wikilink")」に劇団が出演。
+    この年封切りのハリウッド映画アカデミー賞作品「[サヨナラ](../Page/サヨナラ_\(映画\).md "wikilink")」に劇団が出演。
 
 <!-- end list -->
 
@@ -104,7 +104,7 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")4月、日本歌劇学校があやめ池遊園地へ再移転。
   - [1988年](../Page/1988年.md "wikilink")、[東大阪市](../Page/東大阪市.md "wikilink")に本社事務所を移転、稽古場を併設。
   - [1992年](../Page/1992年.md "wikilink")、創立70周年を記念し、東京公演を再開。
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、千土地興行の後身・[日本ドリーム観光](https://ja.wikipedia.org/wiki/日本ドリーム観光 "wikilink")を吸収合併して以来株主だった[ダイエー](../Page/ダイエー.md "wikilink")が撤退。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、千土地興行の後身・[日本ドリーム観光](../Page/日本ドリーム観光.md "wikilink")を吸収合併して以来株主だった[ダイエー](../Page/ダイエー.md "wikilink")が撤退。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[近鉄バファローズ](https://ja.wikipedia.org/wiki/近鉄バファローズ "wikilink")の[大阪ドーム](../Page/大阪ドーム.md "wikilink")移転に伴い、若手20名を起用して「OSKチアリーディングチーム」結成。
   - [2001年](../Page/2001年.md "wikilink")、[日本歌劇学校](https://ja.wikipedia.org/wiki/日本歌劇学校 "wikilink")の新規募集を停止。
   - [2002年](../Page/2002年.md "wikilink")6月、近鉄から支援打ち切りと翌年解散の通告。団員有志により「**OSK存続の会**」が結成。
@@ -166,16 +166,16 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
 <!-- end list -->
 
   - [2015年](../Page/2015年.md "wikilink")2月、[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")で舞台生中継を開始。7月に出演者（時には演出家も）が公演について語る「ニコニコ生トーク」の放送を始め、9～11月公演の「紅に燃ゆる～真田幸村　紅蓮の奏乱」、2016年1～2月公演の「[カンタレラ2016～愛と裏切りの毒薬～](https://ja.wikipedia.org/wiki/カンタレラ_\(曲\) "wikilink")」は製作発表をニコニコ生放送で生中継した。
-  - [2017年](../Page/2017年.md "wikilink")12月、[道頓堀角座](https://ja.wikipedia.org/wiki/道頓堀角座 "wikilink")にて「REVUE JAPAN」の定期公演開始
+  - [2017年](../Page/2017年.md "wikilink")12月、[道頓堀角座](../Page/道頓堀角座.md "wikilink")にて「REVUE JAPAN」の定期公演開始
   - [2018年](../Page/2018年.md "wikilink")8月、簡易株式交換により、株式会社OSK日本歌劇団はネクストウェアの完全子会社となる。
 
 ## 公演システム
 
 ### 松竹時代
 
-  - 春のおどり - [大阪劇場](https://ja.wikipedia.org/wiki/大阪劇場 "wikilink")3月興行。松竹映画併映。
+  - 春のおどり - [大阪劇場](../Page/大阪劇場.md "wikilink")3月興行。松竹映画併映。
   - 夏のおどり - 大阪劇場7月興行。松竹映画併映。
-  - 秋のおどり - 大阪劇場10月興行。松竹映画併映。（別途[浅草国際劇場等にてSKDとの合同公演もあり](https://ja.wikipedia.org/wiki/国際劇場 "wikilink")。）
+  - 秋のおどり - 大阪劇場10月興行。松竹映画併映。（別途[浅草国際劇場等にてSKDとの合同公演もあり](../Page/国際劇場.md "wikilink")。）
 
 ### 近鉄時代
 
@@ -192,7 +192,7 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
   - 東京・三越劇場公演 - 2011年～2016年まで毎年9月に上演。
   - オ・セイリュウ公演 - 大阪・心斎橋のゲストハウス、オ・セイリュウにて2011年～2015年に上演。年に2、3回、2～3か月の長期公演を行う。
   - OSK Revue Café - セント・ラファエロ大聖堂（現・セントラファエロチャペル御堂筋）にて2015年より開始。少人数の出演者による歌を中心としたショー。
-  - REVUE JAPAN - 訪日外国人をターゲットにした日本物ノンバーバルレビュー。2017年1～2月、[JTB](../Page/JTB.md "wikilink")西日本の主催により、近鉄アート館公演『鬼ノ城』期間中の併演作品として試験的に開始。同年12月からは[道頓堀角座](https://ja.wikipedia.org/wiki/道頓堀角座 "wikilink")での常打ち公演がスタートし、メンバーチェンジを行いながら継続。2019年も継続が決定し、[DAIHATSU](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink") [心斎橋角座](https://ja.wikipedia.org/wiki/心斎橋角座 "wikilink")で公演\[24\]を行う。
+  - REVUE JAPAN - 訪日外国人をターゲットにした日本物ノンバーバルレビュー。2017年1～2月、[JTB](../Page/JTB.md "wikilink")西日本の主催により、近鉄アート館公演『鬼ノ城』期間中の併演作品として試験的に開始。同年12月からは[道頓堀角座](../Page/道頓堀角座.md "wikilink")での常打ち公演がスタートし、メンバーチェンジを行いながら継続。2019年も継続が決定し、[DAIHATSU](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink") [心斎橋角座](https://ja.wikipedia.org/wiki/心斎橋角座 "wikilink")で公演\[24\]を行う。
   - 世界館公演（終了）
 
 ## 主なスター
@@ -234,7 +234,7 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
   - ロケット・ガールズ
     1937年結成のラインダンスチーム。
     東京国際劇場「国際大阪おどり」（1937年10月）で、２場面に30名と36名のチームが登場。
-    大阪劇場「秋のおどり ～輝く艦隊～」（1937年11月）で、静波秀子・[瀧川はやみ](https://ja.wikipedia.org/wiki/滝川はやみ "wikilink")・[京マチ子](https://ja.wikipedia.org/wiki/京マチ子 "wikilink")ら36名のチームが登場。
+    大阪劇場「秋のおどり ～輝く艦隊～」（1937年11月）で、静波秀子・[瀧川はやみ](https://ja.wikipedia.org/wiki/滝川はやみ "wikilink")・[京マチ子](../Page/京マチ子.md "wikilink")ら36名のチームが登場。
 
 <!-- end list -->
 
@@ -370,7 +370,7 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
 <!-- end list -->
 
   -
-    作詞：[藤浦洸](../Page/藤浦洸.md "wikilink")、作曲：[服部良一](https://ja.wikipedia.org/wiki/服部良一 "wikilink")
+    作詞：[藤浦洸](../Page/藤浦洸.md "wikilink")、作曲：[服部良一](../Page/服部良一.md "wikilink")
     [1949年](../Page/1949年.md "wikilink")（昭和24年）、SKDとの東西合同公演にて発表。以来「秋のおどり」をはじめ秋季公演のテーマソングとして使われることが多かったが、1990年代以降ほとんど使用されていなかった。[2009年](../Page/2009年.md "wikilink")（平成21年）のたけふ公演にて20年ぶりに使用された。
 
 <!-- end list -->
@@ -514,14 +514,14 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
   - 「（第31回）春のおどり 義経絵巻／憧れの皇太子」（1956年）
   - 「春のおどり 祝言・三本の柱／百万人の花嫁」（1956年）（※あやめ池円型大劇場杮落とし公演）
   - 「秋のおどり 忠臣蔵」（1956年）作・演出：[大森正男](https://ja.wikipedia.org/wiki/大森正男 "wikilink")
-  - 「（第32回）春のおどり」（1957年）（※映画『[サヨナラ](https://ja.wikipedia.org/wiki/サヨナラ_\(映画\) "wikilink")』撮影）
+  - 「（第32回）春のおどり」（1957年）（※映画『[サヨナラ](../Page/サヨナラ_\(映画\).md "wikilink")』撮影）
   - 「春のおどり 氷河のロマンス」（1957年）
   - 「秋のおどり 出世太閤記」（1957年）作・演出：[津山啓二](https://ja.wikipedia.org/wiki/津山啓二 "wikilink")
   - 「（第33回）春のおどり」（1958年）
   - 「春のおどり 平和の歌」（1958年）作・演出：香村菊雄
   - 「（第34回）春のおどり」（1959年）
   - 「春のおどり 七彩の電波」（1959年）作・演出：津山啓二
-  - 「夏のおどり マリアと悪童／花の凱旋門」（1959年）原作：[吉川英治](../Page/吉川英治.md "wikilink"), 脚色：[岡田憲和](https://ja.wikipedia.org/wiki/岡田憲和 "wikilink")／作：[今東光](https://ja.wikipedia.org/wiki/今東光 "wikilink")
+  - 「夏のおどり マリアと悪童／花の凱旋門」（1959年）原作：[吉川英治](../Page/吉川英治.md "wikilink"), 脚色：[岡田憲和](https://ja.wikipedia.org/wiki/岡田憲和 "wikilink")／作：[今東光](../Page/今東光.md "wikilink")
   - 「秋のおどり」（1959年）
   - 「（第35回）春のおどり」（1960年）
   - 「春のおどり 歌ありて夢ありて」（1960年）作・演出：津山啓二
@@ -558,7 +558,7 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
   - 「春のおどり シンデレラ・パリ」（1977年）作・演出：津山啓二（※再演：1990年, 2012年）
   - 「春のおどり 虹いろのハネムーン」（1978年）作・演出：津山啓二
   - 「秋のおどり 華麗なる黄金絵巻」（1978年）
-  - 「春のおどり 愛のメモリアル」（1979年）作・演出：[植田紳爾](https://ja.wikipedia.org/wiki/植田紳爾 "wikilink")
+  - 「春のおどり 愛のメモリアル」（1979年）作・演出：[植田紳爾](../Page/植田紳爾.md "wikilink")
   - 「夏のおどり かぐや姫とスペースヒーロー」（1979年）作・演出：[竹本浩三](https://ja.wikipedia.org/wiki/竹本浩三 "wikilink")
   - 「春のおどり 吉野のさくら／夢みるブロードウェイ」（1980年）作・演出：原彰
   - 「夏のおどり 翔べ孫悟空」（1980年）作・演出：竹本浩三
@@ -569,10 +569,10 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
   - 「春のおどり スーパースター誕生－愛の宇宙交響曲－」（1983年）作・演出：[仲川利久](https://ja.wikipedia.org/wiki/仲川利久 "wikilink")
   - 「秋のおどり シルクロード・ファンタジー ―まんだら絵巻―」（1983年）作・演出：香村菊雄
   - 「春のおどり グランド・レビュー 新作・狸御殿・春らんまん」（1984年）作・演出：河上五郎
-  - 「秋のおどり ジンギスカン」（1984年）総指揮：[片岡我當](https://ja.wikipedia.org/wiki/片岡我當 "wikilink"), 作・演出：香村菊雄（※あやめ池100公演達成記念作品）
+  - 「秋のおどり ジンギスカン」（1984年）総指揮：[片岡我當](../Page/片岡我當.md "wikilink"), 作・演出：香村菊雄（※あやめ池100公演達成記念作品）
   - 「ダンシング・スピリッツ」（1985年）作・演出：[高井憲](https://ja.wikipedia.org/wiki/高井憲 "wikilink")
   - 「アイ・ガット・レビュー」（1985年）作・演出：吉峯暁子
-  - 「光り輝く霊界への旅立ち」（1985年）総指揮：[丹波哲郎](https://ja.wikipedia.org/wiki/丹波哲郎 "wikilink")
+  - 「光り輝く霊界への旅立ち」（1985年）総指揮：[丹波哲郎](../Page/丹波哲郎.md "wikilink")
   - 「炎の女王・ヒミコへの愛」（1986年）作・演出：原彰
   - 「夢見桜ラプソディ」（1987年）作・演出：原彰
   - 「マルコポーロの冒険」（1987年）作・演出：[小林勝](https://ja.wikipedia.org/wiki/小林勝 "wikilink")
@@ -581,7 +581,7 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
   - 「愛のサラダ記念日」（1988年）作・演出：原彰
   - 「花・いのちのきらめき」（1989年）作・演出：吉峯暁子
   - 「相合橋夢物語」（1989年）作：[北林佐和子](https://ja.wikipedia.org/wiki/北林佐和子 "wikilink")
-  - 「[100万回生きたねこ](https://ja.wikipedia.org/wiki/100万回生きたねこ "wikilink")」（1989年）原作：[佐野洋子](https://ja.wikipedia.org/wiki/佐野洋子 "wikilink")
+  - 「[100万回生きたねこ](https://ja.wikipedia.org/wiki/100万回生きたねこ "wikilink")」（1989年）原作：[佐野洋子](../Page/佐野洋子.md "wikilink")
   - 「大津皇子」（1990年）原作：[黒岩重吾](../Page/黒岩重吾.md "wikilink")
   - 「恋夢幻」（1990年）
   - 「[アップフェルラント物語](../Page/アップフェルラント物語.md "wikilink")」（1991年）原作：[田中芳樹](../Page/田中芳樹.md "wikilink")
@@ -594,11 +594,11 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
   - 「エル・アモール」（1993年）作・演出：吉峯暁子
   - 「[青い鳥](../Page/青い鳥.md "wikilink")」（1993年）原作：[メーテルリンク](https://ja.wikipedia.org/wiki/メーテルリンク "wikilink"), 作・演出：北林佐和子
   - 「ダンシング・ドリーム」（1994年）作・演出：吉峯暁子
-  - 「[天上の虹](https://ja.wikipedia.org/wiki/天上の虹 "wikilink")～星になった万葉人～」（1995年）原作：[里中満智子](../Page/里中満智子.md "wikilink")
+  - 「[天上の虹](../Page/天上の虹.md "wikilink")～星になった万葉人～」（1995年）原作：[里中満智子](../Page/里中満智子.md "wikilink")
   - 「ロックン桃太郎」（1995年）作・演出：吉峯暁子
   - 「青春革命～スローバラードは歌えない～」（1995年）
   - 「ラブ・スクランブル」（1995年）
-  - 「[レディ・アンをさがして](../Page/レディ・アンをさがして.md "wikilink")～Looking for Lady Anne～」（1996年）原作：[氷室冴子](https://ja.wikipedia.org/wiki/氷室冴子 "wikilink")
+  - 「[レディ・アンをさがして](../Page/レディ・アンをさがして.md "wikilink")～Looking for Lady Anne～」（1996年）原作：[氷室冴子](../Page/氷室冴子.md "wikilink")
   - 「[セロ弾きのゴーシュ](../Page/セロ弾きのゴーシュ.md "wikilink")」（1996年）原作：[宮沢賢治](../Page/宮沢賢治.md "wikilink")
   - 「上海夜想曲」（1997年）作・演出：海野洋司
   - 「ヘンゼルとグレーテル」（1997年）作・演出：吉峯暁子
@@ -627,7 +627,7 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
   - 「熱烈歌劇 re-BIRTH －ＯＳＫ復活のススメ－」（2003年）（※「ＯＳＫ存続の会」立ち上げ公演）
   - 「レビュー春のおどり 桜咲く国／ルネッサンス」（2004年）（※「ＯＳＫ存続の会」旗揚げ公演）
   - 「レビュー秋のおどり なにわ祭りファンタジー／愛抱きしめてジャンピング」（2004年）作・演出：横澤英雄
-  - 「グランド・レビュー春のおどり 平安☆レジェンド／ダンシング・フォーリーズ」（2005年）作・演出：横澤英雄／[中村一徳](https://ja.wikipedia.org/wiki/中村一徳 "wikilink")
+  - 「グランド・レビュー春のおどり 平安☆レジェンド／ダンシング・フォーリーズ」（2005年）作・演出：横澤英雄／[中村一徳](../Page/中村一徳.md "wikilink")
   - 「レビュー春のおどり 義経桜絵巻／ハッピー・ゲーム～人生は素晴らしいゲーム！～」（2006年）
   - 「レビュー秋のおどり MOVE ON\!\! なにわ祭り抄～躍る道頓堀～／BE ON THE ROAD」（2006年）
   - 「レビュー春のおどり 桜咲く国2007～輝く未来へ～ 桜・舞・橋／桜ファンタジア」（2007年）
@@ -653,7 +653,7 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
   - 「レビュー春のおどり 花の夢 恋は満開／Take the beat \!」（2016年）
   - 「レビュー春のおどり 桜鏡 ～夢幻義経譚～／Brilliant Wave ～100年への鼓動～」（2017年）
   - 「三銃士 La seconde」（2018年）
-  - 「[巴里のアメリカ人](https://ja.wikipedia.org/wiki/巴里のアメリカ人 "wikilink")」（2018年）
+  - 「[巴里のアメリカ人](../Page/巴里のアメリカ人.md "wikilink")」（2018年）
   - 「レビュー春のおどり 桜ごよみ 夢草紙／One Step to Tomorrow \!」（2018年）
 
 ## 主な出身者
@@ -677,23 +677,23 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
   - [井上雪子](https://ja.wikipedia.org/wiki/井上雪子_\(女優\) "wikilink") - 女優。旧芸名は**鐘一子**。
   - [秋月恵美子](https://ja.wikipedia.org/wiki/秋月恵美子 "wikilink") - 元トップスター。退団後、[日本歌劇学校](https://ja.wikipedia.org/wiki/日本歌劇学校 "wikilink")講師。
   - [芦原千津子](https://ja.wikipedia.org/wiki/芦原千津子 "wikilink") - 元娘役トップ
-  - [勝浦千浪](https://ja.wikipedia.org/wiki/勝浦千浪 "wikilink") - 女優、元トップスター。退団後、[松竹新喜劇](https://ja.wikipedia.org/wiki/松竹新喜劇 "wikilink")で活躍。
-  - [京マチ子](https://ja.wikipedia.org/wiki/京マチ子 "wikilink") - 女優
+  - [勝浦千浪](https://ja.wikipedia.org/wiki/勝浦千浪 "wikilink") - 女優、元トップスター。退団後、[松竹新喜劇](../Page/松竹新喜劇.md "wikilink")で活躍。
+  - [京マチ子](../Page/京マチ子.md "wikilink") - 女優
   - [楠よし子](https://ja.wikipedia.org/wiki/楠よし子 "wikilink") - 女優。旧芸名は**北河内妙子**
   - [水原真智子](https://ja.wikipedia.org/wiki/水原真智子 "wikilink") - 女優。旧芸名は**水原真知子**
   - [鳳衣子](https://ja.wikipedia.org/wiki/鳳衣子 "wikilink") - 女優
-  - [九重京子](https://ja.wikipedia.org/wiki/九重京子_\(松竹\) "wikilink") - 女優。退団後、[松竹新喜劇](https://ja.wikipedia.org/wiki/松竹新喜劇 "wikilink")で活躍。[2代目渋谷天外と結婚](https://ja.wikipedia.org/wiki/渋谷天外_\(2代目\) "wikilink")。[3代目渋谷天外の母](https://ja.wikipedia.org/wiki/渋谷天外_\(3代目\) "wikilink")。
-  - [駒ひかる](https://ja.wikipedia.org/wiki/駒ひかる "wikilink") - [桂米朝と結婚](https://ja.wikipedia.org/wiki/桂米朝_\(3代目\) "wikilink")。旧芸名は**駒ヒカル**。
+  - [九重京子](https://ja.wikipedia.org/wiki/九重京子_\(松竹\) "wikilink") - 女優。退団後、[松竹新喜劇](../Page/松竹新喜劇.md "wikilink")で活躍。[2代目渋谷天外と結婚](../Page/渋谷天外_\(2代目\).md "wikilink")。[3代目渋谷天外の母](../Page/渋谷天外_\(3代目\).md "wikilink")。
+  - [駒ひかる](https://ja.wikipedia.org/wiki/駒ひかる "wikilink") - [桂米朝と結婚](../Page/桂米朝_\(3代目\).md "wikilink")。旧芸名は**駒ヒカル**。
   - [米花真砂子](https://ja.wikipedia.org/wiki/米花真砂子 "wikilink") - 元トップスター
   - [牧香織](https://ja.wikipedia.org/wiki/牧香織 "wikilink") - 元トップスター
-  - [四条栄美](https://ja.wikipedia.org/wiki/四条栄美 "wikilink") - 女優。退団後、[松竹新喜劇](https://ja.wikipedia.org/wiki/松竹新喜劇 "wikilink")で活躍。
-  - [桜国子](https://ja.wikipedia.org/wiki/桜国子 "wikilink") - 女優。[松竹新喜劇](https://ja.wikipedia.org/wiki/松竹新喜劇 "wikilink")を経て[吉本新喜劇](https://ja.wikipedia.org/wiki/吉本新喜劇 "wikilink")入り。
+  - [四条栄美](https://ja.wikipedia.org/wiki/四条栄美 "wikilink") - 女優。退団後、[松竹新喜劇](../Page/松竹新喜劇.md "wikilink")で活躍。
+  - [桜国子](https://ja.wikipedia.org/wiki/桜国子 "wikilink") - 女優。[松竹新喜劇](../Page/松竹新喜劇.md "wikilink")を経て[吉本新喜劇](../Page/吉本新喜劇.md "wikilink")入り。
   - [安西郷子](https://ja.wikipedia.org/wiki/安西郷子 "wikilink") - 女優。退団後、[新東宝](../Page/新東宝.md "wikilink")→[東宝](../Page/東宝.md "wikilink")で活躍。[三橋達也](../Page/三橋達也.md "wikilink")と結婚し引退。
-  - [石井トミコ](https://ja.wikipedia.org/wiki/石井トミコ "wikilink") - 女優。旧芸名は**石井富子**（本名）。
+  - [石井トミコ](../Page/石井トミコ.md "wikilink") - 女優。旧芸名は**石井富子**（本名）。
   - [小町るみ子](https://ja.wikipedia.org/wiki/小町るみ子 "wikilink") - 女優。旧芸名は**小町瑠美子**
   - [田代百合子](https://ja.wikipedia.org/wiki/田代百合子 "wikilink") - 女優
   - [林美智子](../Page/林美智子_\(女優\).md "wikilink") - 女優
-  - [近藤英子](https://ja.wikipedia.org/wiki/近藤英子 "wikilink") - 実業家
+  - [近藤英子](../Page/近藤英子.md "wikilink") - 実業家
   - [千賀かほる](https://ja.wikipedia.org/wiki/千賀かほる "wikilink") - 歌手
   - [嵯峨みさ緒](https://ja.wikipedia.org/wiki/嵯峨みさ緒 "wikilink") - 元トップスター
   - [長谷川恵子](https://ja.wikipedia.org/wiki/長谷川恵子_\(OSK日本歌劇団\) "wikilink") - 元娘役トップ。旧芸名は**若月恵子**。元OSK職員。
@@ -774,8 +774,8 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
 
 ## 関連項目
 
-  - [歌劇](https://ja.wikipedia.org/wiki/歌劇 "wikilink") - [少女歌劇](https://ja.wikipedia.org/wiki/少女歌劇 "wikilink")
-  - [レビュー](https://ja.wikipedia.org/wiki/レヴュー_\(演芸\) "wikilink")
+  - [歌劇](https://ja.wikipedia.org/wiki/歌劇 "wikilink") - [少女歌劇](../Page/少女歌劇.md "wikilink")
+  - [レビュー](../Page/レヴュー_\(演芸\).md "wikilink")
   - [ミュージカル](../Page/ミュージカル.md "wikilink")
   - [お伽歌劇](https://ja.wikipedia.org/wiki/お伽歌劇 "wikilink")
   - [オペレッタ](../Page/オペレッタ.md "wikilink")
@@ -797,7 +797,7 @@ OSKとは、以前の劇団名であった「大阪松竹歌劇団」(**O**saka 
 2.  [岡本澄](https://ja.wikipedia.org/wiki/岡本澄 "wikilink")「OSKの軌跡追っかけ」、[日本経済新聞](../Page/日本経済新聞.md "wikilink")2012年12月21日
 3.  3月3日より「世界に見せる 春のおどり」を上演予定だった
 4.  その後の法改正により、現在では女子保護規定は廃止されている
-5.  宝塚の親会社は[阪急電鉄](../Page/阪急電鉄.md "wikilink")であり、本拠地は[宝塚ファミリーランド](https://ja.wikipedia.org/wiki/宝塚ファミリーランド "wikilink")と隣接していた。
+5.  宝塚の親会社は[阪急電鉄](../Page/阪急電鉄.md "wikilink")であり、本拠地は[宝塚ファミリーランド](../Page/宝塚ファミリーランド.md "wikilink")と隣接していた。
 6.  1997年9月2日[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")夕刊「舞台去ってもコンビは続く：上 - 東雲さん・友美さん」
 7.  1998年3月11日 朝日新聞夕刊 「ＯＳＫ正念場　親会社の近鉄、経営自立迫る」
 8.  1983年3月10日[読売新聞](../Page/読売新聞.md "wikilink")「OSK人気復活 押せ押せムード」

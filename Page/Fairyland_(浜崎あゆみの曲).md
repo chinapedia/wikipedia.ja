@@ -1,7 +1,7 @@
 > この記事は[Fairyland \(\)](https://ja.wikipedia.org/wiki/Fairyland_\(\))から翻訳されています。
 
 
-「**fairyland**」（フェアリーランド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の36th[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月3日](../Page/8月3日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**fairyland**」（フェアリーランド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の36th[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -11,15 +11,15 @@
 
 ## 収録曲
 
-全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki
+全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
 
 ### CD
 
 1.  **fairyland "Original Mix"**
       -
-        [作曲](../Page/作曲.md "wikilink")：[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
-        [カメリアダイヤモンド](../Page/三貴.md "wikilink")[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』8月度オープニングテーマ
+        [作曲](../Page/作曲.md "wikilink")：[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
+        [カメリアダイヤモンド](../Page/三貴.md "wikilink")[CMソング](../Page/コマーシャルソング.md "wikilink")
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』8月度オープニングテーマ
         日本テレビ系『[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")』イメージソング
         [日産自動車](../Page/日産自動車.md "wikilink")「X-TRAIL CUP」 オフィシャルテーマソング
 2.  **alterna "Original Mix"**
@@ -40,12 +40,12 @@
 ## 収録アルバム
 
   - **fairyland**
-      - 『[(miss)understood](https://ja.wikipedia.org/wiki/\(miss\)understood "wikilink")』
+      - 『[(miss)understood](../Page/\(miss\)understood.md "wikilink")』
       - 『[A BEST 2 -WHITE-](https://ja.wikipedia.org/wiki/A_BEST_2#A_BEST_2_-WHITE- "wikilink")』
       - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』
       - 『[A SUMMER BEST](https://ja.wikipedia.org/wiki/A_SUMMER_BEST "wikilink")』
   - **alterna**
-      - 『[(miss)understood](https://ja.wikipedia.org/wiki/\(miss\)understood "wikilink")』
+      - 『[(miss)understood](../Page/\(miss\)understood.md "wikilink")』
 
 ## 脚注
 

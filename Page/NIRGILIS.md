@@ -11,16 +11,16 @@
   - 1998年キーボーディストとして岩田が加入。後にボーカルとなる。
   - 2000年栗原加入。
   - 2001年稲寺加入。
-  - [2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")、プロデューサーに[ホッピー神山](../Page/ホッピー神山.md "wikilink")を迎えたシングル『真夜中のシュナイダー』（廃盤）で[セーニャ・アンド・カンパニー](https://ja.wikipedia.org/wiki/セーニャ・アンド・カンパニー "wikilink")よりメジャーデビュー。
+  - [2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")、プロデューサーに[ホッピー神山](../Page/ホッピー神山.md "wikilink")を迎えたシングル『真夜中のシュナイダー』（廃盤）で[セーニャ・アンド・カンパニー](../Page/セーニャ・アンド・カンパニー.md "wikilink")よりメジャーデビュー。
   - [2004年](../Page/2004年.md "wikilink")結成時からのメンバー佐竹脱退。4人編成となり、活動拠点を東京に移す\[1\]。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[DefSTAR RECORDSに移籍](https://ja.wikipedia.org/wiki/デフスターレコーズ "wikilink")。[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[渡辺美里](../Page/渡辺美里.md "wikilink")の『[My Revolution](https://ja.wikipedia.org/wiki/My_Revolution "wikilink")』の[マッシュアップ](../Page/マッシュアップ.md "wikilink")楽曲｢コモンガール｣を収録したシングル+EP2枚組パッケージ『マイレボ』をタワーレコード限定でリリース。邦楽グループのマッシュアップはこれが最初といわれている。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、シングル『sakura』をリリース。[堀澤麻衣子](https://ja.wikipedia.org/wiki/堀澤麻衣子 "wikilink")の歌う『[アメイジング・グレイス](../Page/アメイジング・グレイス.md "wikilink")』を[マッシュアップ](../Page/マッシュアップ.md "wikilink")した作品として、アニメ「[交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン "wikilink")」オープニングテーマに起用され、スマッシュヒットを記録する。
+  - [2005年](../Page/2005年.md "wikilink")、[DefSTAR RECORDSに移籍](../Page/デフスターレコーズ.md "wikilink")。[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[渡辺美里](../Page/渡辺美里.md "wikilink")の『[My Revolution](../Page/My_Revolution.md "wikilink")』の[マッシュアップ](../Page/マッシュアップ.md "wikilink")楽曲｢コモンガール｣を収録したシングル+EP2枚組パッケージ『マイレボ』をタワーレコード限定でリリース。邦楽グループのマッシュアップはこれが最初といわれている。
+  - [2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、シングル『sakura』をリリース。[堀澤麻衣子](https://ja.wikipedia.org/wiki/堀澤麻衣子 "wikilink")の歌う『[アメイジング・グレイス](../Page/アメイジング・グレイス.md "wikilink")』を[マッシュアップ](../Page/マッシュアップ.md "wikilink")した作品として、アニメ「[交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン "wikilink")」オープニングテーマに起用され、スマッシュヒットを記録する。
   - [2007年](../Page/2007年.md "wikilink")[9月](../Page/9月.md "wikilink")、伊藤孝氣脱退。これで結成当時からのメンバーは全て脱退した事になる。
   - [2014年](../Page/2014年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")、ホームページで[2014年](../Page/2014年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")に全員脱退（解散）することがアナウンスされた。
 
 ## メンバー
 
-  - **岩田アッチュ**（いわた アッチュ）：ボーカル、キーボード、シンセサイザー、サンプラー、プログラミング担当。[The ARROWSの坂井](https://ja.wikipedia.org/wiki/The_ARROWS "wikilink")“CANDY”昌英とのユニットCAcchuとしても活動。
+  - **岩田アッチュ**（いわた アッチュ）：ボーカル、キーボード、シンセサイザー、サンプラー、プログラミング担当。[The ARROWSの坂井](../Page/The_ARROWS.md "wikilink")“CANDY”昌英とのユニットCAcchuとしても活動。
   - **栗原稔**（くりはら みのる）：ベース、プログラミング担当。「DJ MAROON」名義でDJとしても活動。
   - **稲寺佑紀**（いなでら ゆき）：ドラム、コーラス、プログラミング担当。「YUKI INADERA」名義でDJ、VJとしても活動。
 
@@ -59,7 +59,7 @@
 <td><p>CHUK-003</p></td>
 <td><ol>
 <li>サンダー</li>
-<li>サンダー II feat,モユニジュモ（<a href="https://ja.wikipedia.org/wiki/イルリメ" title="wikilink">イルリメ</a>）</li>
+<li>サンダー II feat,モユニジュモ（<a href="../Page/イルリメ.md" title="wikilink">イルリメ</a>）</li>
 <li>Kiss</li>
 </ol></td>
 </tr>
@@ -89,7 +89,7 @@
 <ol>
 <li>VUNA</li>
 <li>BLACK JOE</li>
-<li>Righthand (Remix-Remixed By <a href="https://ja.wikipedia.org/wiki/DEV_LARGE" title="wikilink">DEV LARGE</a>-)</li>
+<li>Righthand (Remix-Remixed By <a href="../Page/DEV_LARGE.md" title="wikilink">DEV LARGE</a>-)</li>
 </ol></td>
 </tr>
 </tbody>
@@ -131,7 +131,7 @@
 <li>KING</li>
 <li>アイススケート・フォー・ライフ</li>
 <li>LEMON</li>
-<li>KING (<a href="https://ja.wikipedia.org/wiki/DJ_TASAKA" title="wikilink">DJ TASAKA</a> REMIX)</li>
+<li>KING (<a href="../Page/DJ_TASAKA.md" title="wikilink">DJ TASAKA</a> REMIX)</li>
 </ol></td>
 <td><p>110位</p></td>
 </tr>
@@ -367,7 +367,7 @@ AMG7028（通常盤）</p></td>
 <li>JuJu <remixed by SPOOKEY RUBEN></li>
 <li>コケティッシュ <Twilight Circuc meets Nirgilis-Extended Club Mix remix by TWILIGHT CIRCUS DUB SOUNDSYSTEM></li>
 <li>アカリ &lt;remixed by <a href="https://ja.wikipedia.org/wiki/Spangle_call_Lilli_line" title="wikilink">SPANGLE CALL LILLI LINE</a>&gt;</li>
-<li>コケティッシュ &lt;カガミのズッコケティッシュ リミックス remix and additional production by Toshiyasu <a href="https://ja.wikipedia.org/wiki/KAGAMI" title="wikilink">KAGAMI</a></li>
+<li>コケティッシュ &lt;カガミのズッコケティッシュ リミックス remix and additional production by Toshiyasu <a href="../Page/KAGAMI.md" title="wikilink">KAGAMI</a></li>
 <li>Kiss &lt;AxNEWxSOMMERxExMIX remixed by AxSxEx(from <a href="../Page/NATSUMEN.md" title="wikilink">NATSUMEN</a>&amp;<a href="../Page/BOAT.md" title="wikilink">BOAT</a>)&gt;</li>
 <li>サンダー <COME IN A REMIX remixed by ビイドロ></li>
 <li>アカリ &lt;decoder &amp; substance remix Additional production and remix by Decoder &amp; Substance(from KOSHEEN)&gt;</li>
@@ -505,11 +505,11 @@ TFCC-86486</p></td>
 
 ### リミックス
 
-| 発売日         | タイトル                                                                                                                                                                                 | 規格品番       | 収録曲                                               |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------- |
-| 2006年08月09日 | [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")「[Re:fo(u)rm](https://ja.wikipedia.org/wiki/Re:fo\(u\)rm "wikilink")」                                                                    | DFCL-1299  | 1.「Here I am（chemistry brothers mix by NIRGILIS）」 |
-| 2007年01月31日 | [吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")｢[Disco K2 〜Kikkawa Koji Dance Remix Best〜](https://ja.wikipedia.org/wiki/Disco_K2_〜Kikkawa_Koji_Dance_Remix_Best〜 "wikilink")｣ | TOCT-26206 | 5.｢せつなさを殺せない（NIRGILIS VENUS MIX）｣                 |
-|             |                                                                                                                                                                                      |            |                                                   |
+| 発売日         | タイトル                                                                                                                                                              | 規格品番       | 収録曲                                               |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------- |
+| 2006年08月09日 | [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")「[Re:fo(u)rm](../Page/Re:fo\(u\)rm.md "wikilink")」                                                                    | DFCL-1299  | 1.「Here I am（chemistry brothers mix by NIRGILIS）」 |
+| 2007年01月31日 | [吉川晃司](../Page/吉川晃司.md "wikilink")｢[Disco K2 〜Kikkawa Koji Dance Remix Best〜](https://ja.wikipedia.org/wiki/Disco_K2_〜Kikkawa_Koji_Dance_Remix_Best〜 "wikilink")｣ | TOCT-26206 | 5.｢せつなさを殺せない（NIRGILIS VENUS MIX）｣                 |
+|             |                                                                                                                                                                   |            |                                                   |
 
 ### プロデュース
 
@@ -518,7 +518,7 @@ TFCC-86486</p></td>
 2.  「LOOP」
       - [平野綾](../Page/平野綾.md "wikilink") - ｢FRAGMENTS｣（2012/05/23）5曲目
 3.  「パチスロ ゼーガペイン」
-      - リョーコ(CV:[花澤香菜](https://ja.wikipedia.org/wiki/花澤香菜 "wikilink")), シズノ(CV:[川澄綾子](../Page/川澄綾子.md "wikilink")) & ミナト(CV:[井上麻里奈](../Page/井上麻里奈.md "wikilink")) - ｢SWEETPAIN｣（2013/8/19）4曲目
+      - リョーコ(CV:[花澤香菜](../Page/花澤香菜.md "wikilink")), シズノ(CV:[川澄綾子](../Page/川澄綾子.md "wikilink")) & ミナト(CV:[井上麻里奈](../Page/井上麻里奈.md "wikilink")) - ｢SWEETPAIN｣（2013/8/19）4曲目
 
 ## ミュージックビデオ
 
@@ -544,16 +544,16 @@ TFCC-86486</p></td>
 
 | 楽曲                                                                                                                              | タイアップ                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **KING／アイススケート・フォー・ライフ／LEMON**'                                                                                                 | [TBS系列](../Page/TBSテレビ.md "wikilink")[COUNT DOWN TVエンディングテーマ](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")                                   |
+| **KING／アイススケート・フォー・ライフ／LEMON**'                                                                                                 | [TBS系列](../Page/TBSテレビ.md "wikilink")[COUNT DOWN TVエンディングテーマ](../Page/COUNT_DOWN_TV.md "wikilink")                                                      |
 | **sakura**                                                                                                                      | [MBS](../Page/毎日放送.md "wikilink")・[TBS系アニメ](../Page/TBSテレビ.md "wikilink")「[交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン "wikilink")」オープニングテーマ |
 | [NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")「[トリノオリンピック](https://ja.wikipedia.org/wiki/トリノオリンピック "wikilink")」イメージソング |                                                                                                                                                         |
 | **24 サーチライト**                                                                                                                   | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[Matthew's Best Hit UV](https://ja.wikipedia.org/wiki/Matthew's_Best_Hit_UV "wikilink")」エンディングテーマ                 |
-| [MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink") 6月度Recommend                                             |                                                                                                                                                         |
-| **SNOW KISS**                                                                                                                   | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ「[D.Gray-man](https://ja.wikipedia.org/wiki/D.Gray-man "wikilink")」エンディングテーマ                 |
-| **アップデート**                                                                                                                      | 映画「[渋谷区円山町](https://ja.wikipedia.org/wiki/渋谷区円山町 "wikilink")」主題歌                                                                                        |
+| [MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink") 6月度Recommend                                                                |                                                                                                                                                         |
+| **SNOW KISS**                                                                                                                   | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ「[D.Gray-man](../Page/D.Gray-man.md "wikilink")」エンディングテーマ                                    |
+| **アップデート**                                                                                                                      | 映画「[渋谷区円山町](../Page/渋谷区円山町.md "wikilink")」主題歌                                                                                                           |
 | **恋のホームワーク**                                                                                                                    | 映画「渋谷区円山町」挿入歌                                                                                                                                           |
 | **Brand New Day**                                                                                                               | テレビ東京系「PVTV」12月度オープニングテーマ                                                                                                                               |
-| [常口アトム](https://ja.wikipedia.org/wiki/常口アトム "wikilink")[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")              |                                                                                                                                                         |
+| [常口アトム](https://ja.wikipedia.org/wiki/常口アトム "wikilink")[CMソング](../Page/コマーシャルソング.md "wikilink")                                 |                                                                                                                                                         |
 | **kiseki**                                                                                                                      | 独立UHF局アニメ「[鉄腕バーディー DECODE:02](https://ja.wikipedia.org/wiki/鉄腕バーディー_DECODE "wikilink")」オープニングテーマ                                                        |
 | '''SHINY SHINY '''                                                                                                              | 独立UHF局アニメ「[デッドマン・ワンダーランド](../Page/デッドマン・ワンダーランド.md "wikilink")」エンディングテーマ                                                                                |
 | '''Walküre '''                                                                                                                  | ライブストリーミング番組「ニコニコゲーム実況チャンネル」エンディングテーマ                                                                                                                   |
@@ -570,10 +570,10 @@ TFCC-86486</p></td>
 
 ### テレビ
 
-  - MTV Apt.（[MTV](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink")／2006年7月 - 9月）
+  - MTV Apt.（[MTV](../Page/MTVジャパン.md "wikilink")／2006年7月 - 9月）
   - 2003年12月03日 - CX「FACTORY」
-  - 2006年04月21日 - NTV「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")」
-  - 2006年06月17日 - TBS「[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」
+  - 2006年04月21日 - NTV「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」
+  - 2006年06月17日 - TBS「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」
   - 2007年03月15日・11月22日 - TX「[PVTV](../Page/PVTV.md "wikilink")」
   - 2007年11月27日 - TBS「シークレットライブ」
   - 2008年05月23日 - 「[音流〜On Ryu〜](../Page/音流〜On_Ryu〜.md "wikilink")」
@@ -583,7 +583,7 @@ TFCC-86486</p></td>
 ### ワンマンライブ・主催イベント
 
   - club NIRGILIS（新宿 MARZ）
-  - チュクリナイト（[新宿LOFT](https://ja.wikipedia.org/wiki/ロフト_\(ライブハウス\) "wikilink") DEPOT LOUNGE）
+  - チュクリナイト（[新宿LOFT](../Page/ロフト_\(ライブハウス\).md "wikilink") DEPOT LOUNGE）
   - 2006年 - ニルガメッシュNIGHT
   - 2006年 - みんな片思い
   - 2007年 - club NIRGILIS
@@ -620,8 +620,8 @@ TFCC-86486</p></td>
   - 2006年04月19日 - RHYTHM OF FEAR
   - 2006年10月06日 - MINAMI WHEEL 2006
   - 2006年12月21日 - スペースシャワー列伝 第64巻 ～代官山・冬の陣～
-  - 2006年12月31日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 06/07
-  - 2007年07月04日 - [KIKKAWA KOJI](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink") CLUB RADIO JUNGLE
+  - 2006年12月31日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 06/07
+  - 2007年07月04日 - [KIKKAWA KOJI](../Page/吉川晃司.md "wikilink") CLUB RADIO JUNGLE
   - 2007年10月26日 - MINAMI WHEEL 2007
   - 2008年08月16日 - TREASURE05X 2008 ～screaming triangle 1st day～
   - 2009年01月16日 - JUICE 10th Anniversary Event "ハレチカ vol.19"

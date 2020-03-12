@@ -9,9 +9,9 @@
 
 初回出荷枚数は130万枚。さらに発売日当日、発売元の東芝EMIに40万枚の追加注文があった\[1\]。
 
-初動売上はオリコンシングルチャートでは当時、「[名もなき詩](https://ja.wikipedia.org/wiki/名もなき詩 "wikilink")」（[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")）に次ぐ日本歴代2位の記録で、自身のシングルでは「[Automatic/time will tell](https://ja.wikipedia.org/wiki/Automatic/time_will_tell "wikilink")」に次いで2番目に多い売上を記録している。
+初動売上はオリコンシングルチャートでは当時、「[名もなき詩](../Page/名もなき詩.md "wikilink")」（[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")）に次ぐ日本歴代2位の記録で、自身のシングルでは「[Automatic/time will tell](https://ja.wikipedia.org/wiki/Automatic/time_will_tell "wikilink")」に次いで2番目に多い売上を記録している。
 
-「[速報\!歌の大辞テン](https://ja.wikipedia.org/wiki/速報!歌の大辞テン "wikilink")」によれば、この曲のPVでエキストラが身につけているヘッドフォンはどこの製品なのかと問い合わせがあったという。しかしそれは撮影用の[小道具](https://ja.wikipedia.org/wiki/小道具 "wikilink")であるため実在の製品ではない。
+「[速報\!歌の大辞テン](../Page/速報!歌の大辞テン.md "wikilink")」によれば、この曲のPVでエキストラが身につけているヘッドフォンはどこの製品なのかと問い合わせがあったという。しかしそれは撮影用の[小道具](https://ja.wikipedia.org/wiki/小道具 "wikilink")であるため実在の製品ではない。
 
 当時レコード会社の親会社（[東芝](../Page/東芝.md "wikilink")）のライバル企業であるソニーのCMに出演することについては社内でも議論となり、最終的に英国のEMI本社にまで相談をしたとのこと。
 

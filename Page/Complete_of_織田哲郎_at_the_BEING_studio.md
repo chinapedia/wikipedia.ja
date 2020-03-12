@@ -17,8 +17,8 @@
       - 作詞・作曲・編曲：織田哲郎
 2.  **[SUMMER DREAM](../Page/SUMMER_DREAM.md "wikilink")** - 原曲：[TUBE](../Page/TUBE.md "wikilink")
       - 作詞：[亜蘭知子](../Page/亜蘭知子.md "wikilink") 作曲：織田哲郎 編曲：[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")・鈴木康志
-3.  **[世界中の誰よりきっと](https://ja.wikipedia.org/wiki/世界中の誰よりきっと "wikilink")** - 原曲：[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")&[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")
-      - 作詞：[上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink")・中山美穂 作曲・編曲：織田哲郎
+3.  **[世界中の誰よりきっと](../Page/世界中の誰よりきっと.md "wikilink")** - 原曲：[中山美穂](../Page/中山美穂.md "wikilink")&[WANDS](../Page/WANDS.md "wikilink")
+      - 作詞：[上杉昇](../Page/上杉昇.md "wikilink")・中山美穂 作曲・編曲：織田哲郎
       - （ストリングスアレンジ：織田哲郎・J. Haskell）
 4.  **[揺れる想い](../Page/揺れる想い.md "wikilink")** - 原曲：[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
       - 作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink") 作曲・編曲：織田哲郎
@@ -26,11 +26,11 @@
       - 作詞・作曲・編曲：織田哲郎
 6.  **[OH SHINY DAYS](../Page/OH_SHINY_DAYS_\(曲\).md "wikilink")** - 原曲：[TWINZER](../Page/TWINZER.md "wikilink")
       - 作詞：[小田佳奈子](../Page/小田佳奈子.md "wikilink") 作曲・編曲：織田哲郎
-7.  **[翼を広げて](https://ja.wikipedia.org/wiki/翼を広げて "wikilink")** - 原曲：[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")
+7.  **[翼を広げて](https://ja.wikipedia.org/wiki/翼を広げて "wikilink")** - 原曲：[DEEN](../Page/DEEN.md "wikilink")
       - 作詞：坂井泉水 作曲：織田哲郎 編曲：J. Haskell
-8.  **[サヨナラから始めよう](../Page/サヨナラから始めよう.md "wikilink")** - 原曲：[T-BOLAN](https://ja.wikipedia.org/wiki/T-BOLAN "wikilink")
-      - 作詞：[森友嵐士](https://ja.wikipedia.org/wiki/森友嵐士 "wikilink") 作曲・編曲：織田哲郎
-9.  **[チョット](https://ja.wikipedia.org/wiki/チョット "wikilink")** - 原曲：[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")
+8.  **[サヨナラから始めよう](../Page/サヨナラから始めよう.md "wikilink")** - 原曲：[T-BOLAN](../Page/T-BOLAN.md "wikilink")
+      - 作詞：[森友嵐士](../Page/森友嵐士.md "wikilink") 作曲・編曲：織田哲郎
+9.  **[チョット](../Page/チョット.md "wikilink")** - 原曲：[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")
       - 作詞：大黒摩季 作曲：織田哲郎 編曲：織田哲郎・D. Matkosky
 10. **[君の笑顔を守りたい](../Page/君の笑顔を守りたい.md "wikilink")**
       - 作詞：萩原夕希・織田哲郎 作曲・編曲：織田哲郎（ストリングス・ホーンアレンジ：織田哲郎・J. Haskell）
@@ -40,10 +40,10 @@
       - 作詞：上杉昇 作曲：織田哲郎 編曲：J. Haskell
 13. **光と影の中で**
       - 作詞・作曲・編曲：織田哲郎
-14. **[SMILE for ME](https://ja.wikipedia.org/wiki/SMILE_for_ME "wikilink")**
+14. **[SMILE for ME](../Page/SMILE_for_ME.md "wikilink")**
       - 作詞・作曲・編曲：織田哲郎
-15. **[Wild Heart](https://ja.wikipedia.org/wiki/TOUGH_BANANA_\(アルバム\) "wikilink")**（自身のバンド、[TOUGH BANANA名義](https://ja.wikipedia.org/wiki/TOUGH_BANANA "wikilink")）
-      - 作詞：[舛添要一](https://ja.wikipedia.org/wiki/舛添要一 "wikilink") 作曲：TOUGH BANANA
+15. **[Wild Heart](../Page/TOUGH_BANANA_\(アルバム\).md "wikilink")**（自身のバンド、[TOUGH BANANA名義](../Page/TOUGH_BANANA.md "wikilink")）
+      - 作詞：[舛添要一](../Page/舛添要一.md "wikilink") 作曲：TOUGH BANANA
 
 ## 脚注
 

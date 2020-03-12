@@ -1,9 +1,9 @@
 > この記事は[MASH ](https://ja.wikipedia.org/wiki/MASH_)から翻訳されています。
 
 
-『**M★A★S★H マッシュ**』（マッシュ、*M\*A\*S\*H*）は、[1970年の](https://ja.wikipedia.org/wiki/1970年の映画 "wikilink")[アメリカ映画](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")。[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")を舞台に、3人の軍医を描く[ブラックコメディ映画](https://ja.wikipedia.org/wiki/ブラックコメディ映画 "wikilink")\[1\]。
+『**M★A★S★H マッシュ**』（マッシュ、*M\*A\*S\*H*）は、[1970年の](../Page/1970年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")を舞台に、3人の軍医を描く[ブラックコメディ映画](https://ja.wikipedia.org/wiki/ブラックコメディ映画 "wikilink")\[1\]。
 
-リチャード・フッカー原作の小説を[ロバート・アルトマン](../Page/ロバート・アルトマン.md "wikilink")が映画化。[カンヌ国際映画祭](../Page/カンヌ国際映画祭.md "wikilink")[パルム・ドール](https://ja.wikipedia.org/wiki/パルム・ドール "wikilink")や[アカデミー脚色賞](https://ja.wikipedia.org/wiki/アカデミー脚色賞 "wikilink")を受賞した。
+リチャード・フッカー原作の小説を[ロバート・アルトマン](../Page/ロバート・アルトマン.md "wikilink")が映画化。[カンヌ国際映画祭](../Page/カンヌ国際映画祭.md "wikilink")[パルム・ドール](../Page/パルム・ドール.md "wikilink")や[アカデミー脚色賞](../Page/アカデミー脚色賞.md "wikilink")を受賞した。
 
 タイトルのMASHとは陸軍移動外科病院（Mobile Army Surgical Hospital）のことを指す。
 
@@ -23,25 +23,25 @@
 
 ## キャスト
 
-| 役名                                        | 俳優                                                                    | 日本語吹き替え                                                 |
-| ----------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------- |
-| フジテレビ版                                    | LD版                                                                   |                                                         |
-| “ホークアイ（切れ者）”ベンジャミン・フランクリン・ピアース大尉\[2\]     | [ドナルド・サザーランド](https://ja.wikipedia.org/wiki/ドナルド・サザーランド "wikilink")   | [西沢利明](https://ja.wikipedia.org/wiki/西沢利明 "wikilink")   |
-| “デューク（公爵）”オーガスタス・ベッドフォード・フォレスト大尉          | [トム・スケリット](../Page/トム・スケリット.md "wikilink")                            | [前田昌明](../Page/前田昌明.md "wikilink")                      |
-| “トラッパー”ジョン・フランシス・ザビエル・マッキンタイア大尉           | [エリオット・グールド](https://ja.wikipedia.org/wiki/エリオット・グールド "wikilink")     | [瑳川哲朗](../Page/瑳川哲朗.md "wikilink")                      |
-| フランク・バーンズ少佐                               | [ロバート・デュヴァル](https://ja.wikipedia.org/wiki/ロバート・デュヴァル "wikilink")     | [北村総一朗](https://ja.wikipedia.org/wiki/北村総一朗 "wikilink") |
-| “ホット・リップス（熱い唇）”マーガレット・ホーリハン少佐             | [サリー・ケラーマン](https://ja.wikipedia.org/wiki/サリー・ケラーマン "wikilink")       | [北浜晴子](https://ja.wikipedia.org/wiki/北浜晴子 "wikilink")   |
-| “ディゴ・レッド（赤毛のイタ公）”ジョン・パトリック・マルケイ神父         | [ルネ・オーベルジョノワ](https://ja.wikipedia.org/wiki/ルネ・オーベルジョノワ "wikilink")   | [安原義人](../Page/安原義人.md "wikilink")                      |
-| ヘンリー・ブレイク中佐                               | [ロジャー・ボーウェン](https://ja.wikipedia.org/wiki/ロジャー・ボーウェン "wikilink")     | [富田耕生](../Page/富田耕生.md "wikilink")                      |
-| “ディッシュ（お皿ちゃん）”マリア・シュナイダー婦長                | [ジョー・アン・フラッグ](https://ja.wikipedia.org/wiki/ジョー・アン・フラッグ "wikilink")   |                                                         |
-| チャーリー・ハモンド准将                              | [G・ウッド](https://ja.wikipedia.org/wiki/G・ウッド "wikilink")               |                                                         |
-| “ペインレス・ポール（無痛のポラ公）”ウォルター・コスキウスコ・ワルドウスキー大尉 | [ジョン・シャック](https://ja.wikipedia.org/wiki/ジョン・シャック "wikilink")         |                                                         |
-| レーダー・オリーリー伍長                              | [ゲイリー・バーゴフ](https://ja.wikipedia.org/wiki/ゲイリー・バーゴフ "wikilink")       |                                                         |
-| “スピアチャッカー（槍投げ）”オリバー・ハーモン・ジョーンズ大尉\[3\]     | [フレッド・ウィリアムソン](https://ja.wikipedia.org/wiki/フレッド・ウィリアムソン "wikilink") |                                                         |
-| ロレンゾ・ブーン二等兵                               | [バッド・コート](https://ja.wikipedia.org/wiki/バッド・コート "wikilink")           |                                                         |
+| 役名                                        | 俳優                                                                    | 日本語吹き替え                              |
+| ----------------------------------------- | --------------------------------------------------------------------- | ------------------------------------ |
+| フジテレビ版                                    | LD版                                                                   |                                      |
+| “ホークアイ（切れ者）”ベンジャミン・フランクリン・ピアース大尉\[2\]     | [ドナルド・サザーランド](../Page/ドナルド・サザーランド.md "wikilink")                      | [西沢利明](../Page/西沢利明.md "wikilink")   |
+| “デューク（公爵）”オーガスタス・ベッドフォード・フォレスト大尉          | [トム・スケリット](../Page/トム・スケリット.md "wikilink")                            | [前田昌明](../Page/前田昌明.md "wikilink")   |
+| “トラッパー”ジョン・フランシス・ザビエル・マッキンタイア大尉           | [エリオット・グールド](../Page/エリオット・グールド.md "wikilink")                        | [瑳川哲朗](../Page/瑳川哲朗.md "wikilink")   |
+| フランク・バーンズ少佐                               | [ロバート・デュヴァル](../Page/ロバート・デュヴァル.md "wikilink")                        | [北村総一朗](../Page/北村総一朗.md "wikilink") |
+| “ホット・リップス（熱い唇）”マーガレット・ホーリハン少佐             | [サリー・ケラーマン](https://ja.wikipedia.org/wiki/サリー・ケラーマン "wikilink")       | [北浜晴子](../Page/北浜晴子.md "wikilink")   |
+| “ディゴ・レッド（赤毛のイタ公）”ジョン・パトリック・マルケイ神父         | [ルネ・オーベルジョノワ](https://ja.wikipedia.org/wiki/ルネ・オーベルジョノワ "wikilink")   | [安原義人](../Page/安原義人.md "wikilink")   |
+| ヘンリー・ブレイク中佐                               | [ロジャー・ボーウェン](https://ja.wikipedia.org/wiki/ロジャー・ボーウェン "wikilink")     | [富田耕生](../Page/富田耕生.md "wikilink")   |
+| “ディッシュ（お皿ちゃん）”マリア・シュナイダー婦長                | [ジョー・アン・フラッグ](https://ja.wikipedia.org/wiki/ジョー・アン・フラッグ "wikilink")   |                                      |
+| チャーリー・ハモンド准将                              | [G・ウッド](https://ja.wikipedia.org/wiki/G・ウッド "wikilink")               |                                      |
+| “ペインレス・ポール（無痛のポラ公）”ウォルター・コスキウスコ・ワルドウスキー大尉 | [ジョン・シャック](https://ja.wikipedia.org/wiki/ジョン・シャック "wikilink")         |                                      |
+| レーダー・オリーリー伍長                              | [ゲイリー・バーゴフ](https://ja.wikipedia.org/wiki/ゲイリー・バーゴフ "wikilink")       |                                      |
+| “スピアチャッカー（槍投げ）”オリバー・ハーモン・ジョーンズ大尉\[3\]     | [フレッド・ウィリアムソン](https://ja.wikipedia.org/wiki/フレッド・ウィリアムソン "wikilink") |                                      |
+| ロレンゾ・ブーン二等兵                               | [バッド・コート](https://ja.wikipedia.org/wiki/バッド・コート "wikilink")           |                                      |
 
-  - 初回放送　フジテレビ『[ゴールデン洋画劇場](https://ja.wikipedia.org/wiki/ゴールデン洋画劇場 "wikilink")』 1977年4月1日 - DVD・Blu-ray収録
-      - 再放送　TBS『[月曜ロードショー](https://ja.wikipedia.org/wiki/月曜ロードショー "wikilink")』 1978年4月17日
+  - 初回放送　フジテレビ『[ゴールデン洋画劇場](../Page/ゴールデン洋画劇場.md "wikilink")』 1977年4月1日 - DVD・Blu-ray収録
+      - 再放送　TBS『[月曜ロードショー](../Page/月曜ロードショー.md "wikilink")』 1978年4月17日
       - 演出：[田島荘三](../Page/田島荘三.md "wikilink")　翻訳：トランスグローバル
 
 ## 挿入歌

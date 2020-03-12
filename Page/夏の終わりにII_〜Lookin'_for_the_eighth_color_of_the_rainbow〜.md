@@ -1,7 +1,7 @@
 > この記事は[II Lookin\' for the eighth color of the rainbow](https://ja.wikipedia.org/wiki/II_Lookin\'_for_the_eighth_color_of_the_rainbow)から翻訳されています。
 
 
-『**夏の終わりにII 〜Lookin' for the eighth color of the rainbow〜**』（なつのおわりに セカンド 〜ルッキン・フォー・ジ・エイス・カラー・オブ・ザ・レインボー〜）は、[1994年](../Page/1994年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink") に[ZAIN RECORDSから発売された](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")[T-BOLAN](https://ja.wikipedia.org/wiki/T-BOLAN "wikilink")のアコースティックアルバム第2弾。
+『**夏の終わりにII 〜Lookin' for the eighth color of the rainbow〜**』（なつのおわりに セカンド 〜ルッキン・フォー・ジ・エイス・カラー・オブ・ザ・レインボー〜）は、[1994年](../Page/1994年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink") に[ZAIN RECORDSから発売された](../Page/ZAIN_RECORDS.md "wikilink")[T-BOLAN](../Page/T-BOLAN.md "wikilink")のアコースティックアルバム第2弾。
 
 ## 内容
 
@@ -12,7 +12,7 @@
 全編曲:T-BOLAN・[葉山たけし](../Page/葉山たけし.md "wikilink")
 
 1.  **[悲しみが痛いよ](../Page/悲しみが痛いよ.md "wikilink") 〜Acoustic version〜**
-      - 作詞・作曲:[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")
+      - 作詞・作曲:[川島だりあ](../Page/川島だりあ.md "wikilink")
     <!-- end list -->
       -
         1stシングル。
@@ -48,8 +48,8 @@
 
 ## 関連項目
 
-  - [T-BOLAN](https://ja.wikipedia.org/wiki/T-BOLAN "wikilink")
-      - [森友嵐士](https://ja.wikipedia.org/wiki/森友嵐士 "wikilink")
+  - [T-BOLAN](../Page/T-BOLAN.md "wikilink")
+      - [森友嵐士](../Page/森友嵐士.md "wikilink")
   - [ビーイング](../Page/ビーイング.md "wikilink")
 
 [Category:T-BOLANのアルバム](https://ja.wikipedia.org/wiki/Category:T-BOLANのアルバム "wikilink") [Category:1994年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:1994年のミニ・アルバム "wikilink") [Category:1994年のセルフカバー・アルバム](https://ja.wikipedia.org/wiki/Category:1994年のセルフカバー・アルバム "wikilink") [Category:ミニ・アコースティック・アルバム](https://ja.wikipedia.org/wiki/Category:ミニ・アコースティック・アルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

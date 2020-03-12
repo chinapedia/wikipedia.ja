@@ -9,7 +9,7 @@
 
 [1933年](../Page/1933年.md "wikilink")、**EMLL**（*Empresa Mexicana de la Lucha Libre*）として設立。[9月21日](../Page/9月21日.md "wikilink")、アレナ・メヒコで旗揚げ戦が開催\[1\]。旗揚げ戦には[ヤキ・ジョージ](https://ja.wikipedia.org/wiki/ヤキ・ジョージ "wikilink")、[ボビー・サンプソン](https://ja.wikipedia.org/wiki/ボビー・サンプソン "wikilink")、[シクロン・マケイ](https://ja.wikipedia.org/wiki/シクロン・マケイ "wikilink")、[レオン・チン・アチウ](https://ja.wikipedia.org/wiki/レオン・チン・アチウ "wikilink")らが参戦\[2\]。
 
-しばらくはアメリカから選手を呼び寄せて興行を開催していたが、地元選手の育成が急務と判断したサルバドールは、柔術の心得のある友人の[ゴンザレス・アベンダーニョ・アギーラル](https://ja.wikipedia.org/wiki/ゴンザレス・アベンダーニョ・アギーラル "wikilink")を呼び寄せてアレナ・メヒコで[ルチャリブレ](https://ja.wikipedia.org/wiki/ルチャリブレ "wikilink")教室を開校し、これが後のルチャリブレの基盤となっているという\[3\]。
+しばらくはアメリカから選手を呼び寄せて興行を開催していたが、地元選手の育成が急務と判断したサルバドールは、柔術の心得のある友人の[ゴンザレス・アベンダーニョ・アギーラル](https://ja.wikipedia.org/wiki/ゴンザレス・アベンダーニョ・アギーラル "wikilink")を呼び寄せてアレナ・メヒコで[ルチャリブレ](../Page/ルチャリブレ.md "wikilink")教室を開校し、これが後のルチャリブレの基盤となっているという\[3\]。
 
 [1934年](../Page/1934年.md "wikilink")、アベンターニョの教え子たちがデビューして純国産のルチャドールが誕生\[4\]。ほどなく観衆は増えて500人ほどのキャパシティしかない初代アレナ・メヒコは手狭でボクシング会場「アレナ・ナショナル」や闘牛会場「レオ・デ・コンデザ」にも進出している\[5\]。
 
@@ -19,7 +19,7 @@
 
 [1943年](../Page/1943年.md "wikilink")、自社所有会場「アレナ・コリセオ」が完成\[7\]。
 
-[1954年](../Page/1954年.md "wikilink")10月、アレナ・メヒコの改築工事にも着手（[1956年](../Page/1956年.md "wikilink")に完成）。この時期に[タルサン・ロペス](https://ja.wikipedia.org/wiki/タルサン・ロペス "wikilink")が台頭すると[1942年](../Page/1942年.md "wikilink")にデビューした[エル・サント](../Page/エル・サント.md "wikilink")を始め、[カベルナリオ・ガリント](https://ja.wikipedia.org/wiki/カベルナリオ・ガリント "wikilink")、[ゴリー・ゲレロ](https://ja.wikipedia.org/wiki/ゴリー・ゲレロ "wikilink")、[ブルー・デモン](https://ja.wikipedia.org/wiki/ブルー・デモン "wikilink")、[ブラック・シャドー](https://ja.wikipedia.org/wiki/ブラック・シャドー "wikilink")なども台頭して[1940年代](../Page/1940年代.md "wikilink")から[1950年代](../Page/1950年代.md "wikilink")にかけて最初の黄金期を迎えることとなる\[8\]。この頃はメキシコにはEMLLしかプロレス団体が存在しなかったため、ルチャリブレといえばEMLL、EMLLといえばアレナ・メヒコであり、大衆からはルチャリブレやEMLLではなく「アレナ・メヒコ」と呼ばれることが普通だった\[9\]。また、同時期には[NWAにも属してNWA加盟時に管理](https://ja.wikipedia.org/wiki/NWA_\(プロレス\) "wikilink")、運営を任されていたNWAの王座であるライトヘビー級王座、ミドル級王座、ウエルター級王座を一任された\[10\]。
+[1954年](../Page/1954年.md "wikilink")10月、アレナ・メヒコの改築工事にも着手（[1956年](../Page/1956年.md "wikilink")に完成）。この時期に[タルサン・ロペス](https://ja.wikipedia.org/wiki/タルサン・ロペス "wikilink")が台頭すると[1942年](../Page/1942年.md "wikilink")にデビューした[エル・サント](../Page/エル・サント.md "wikilink")を始め、[カベルナリオ・ガリント](https://ja.wikipedia.org/wiki/カベルナリオ・ガリント "wikilink")、[ゴリー・ゲレロ](https://ja.wikipedia.org/wiki/ゴリー・ゲレロ "wikilink")、[ブルー・デモン](https://ja.wikipedia.org/wiki/ブルー・デモン "wikilink")、[ブラック・シャドー](https://ja.wikipedia.org/wiki/ブラック・シャドー "wikilink")なども台頭して[1940年代](../Page/1940年代.md "wikilink")から[1950年代](../Page/1950年代.md "wikilink")にかけて最初の黄金期を迎えることとなる\[8\]。この頃はメキシコにはEMLLしかプロレス団体が存在しなかったため、ルチャリブレといえばEMLL、EMLLといえばアレナ・メヒコであり、大衆からはルチャリブレやEMLLではなく「アレナ・メヒコ」と呼ばれることが普通だった\[9\]。また、同時期には[NWAにも属してNWA加盟時に管理](../Page/NWA_\(プロレス\).md "wikilink")、運営を任されていたNWAの王座であるライトヘビー級王座、ミドル級王座、ウエルター級王座を一任された\[10\]。
 
 [1975年](../Page/1975年.md "wikilink")、[UWAが旗揚げされ](https://ja.wikipedia.org/wiki/ユニバーサル・レスリング・アソシエーション "wikilink")、EMLLの独裁状態に嫌気が差した選手達が大量離脱したため、大打撃を受けた\[11\]。
 
@@ -27,11 +27,11 @@
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、メキシコでは禁止されていたルチャリブレのテレビ中継が解禁となり、地元テレビ局「テレビサ」によるEMLLの中継番組の放送が開始された\[12\]。テレビ放送開始にあわせて企画部長の[アントニオ・ペーニャ](https://ja.wikipedia.org/wiki/アントニオ・ペーニャ "wikilink")によって[マスカラ・サグラダ](https://ja.wikipedia.org/wiki/マスカラ・サグラダ "wikilink")、[ミステリオッソ](https://ja.wikipedia.org/wiki/ミステリオッソ "wikilink")、[ボラドールなどの新キャラクターが誕生し](https://ja.wikipedia.org/wiki/スペル・パルカ "wikilink")、入場演出を豪華にするなど改革を行い、ルチャリブレはテレビを通して爆発的なブームとなった\[13\]。同年、CMLL女子部を立ち上げた。
 
-[1992年](../Page/1992年.md "wikilink")、アントニオ・ペーニャが独立して[AAAを旗揚げすると業界のトップに躍進](https://ja.wikipedia.org/wiki/AAA_\(プロレス\) "wikilink")。しばらくはアレナ・メヒコの集客が閑古鳥が鳴くほど悲惨な状態となるが、テレビ中継による放映権料と自前の会場による最低限の経費でこの危機を乗り切る\[14\]。
+[1992年](../Page/1992年.md "wikilink")、アントニオ・ペーニャが独立して[AAAを旗揚げすると業界のトップに躍進](../Page/AAA_\(プロレス\).md "wikilink")。しばらくはアレナ・メヒコの集客が閑古鳥が鳴くほど悲惨な状態となるが、テレビ中継による放映権料と自前の会場による最低限の経費でこの危機を乗り切る\[14\]。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、AAAを離脱した[ルードにターンした](https://ja.wikipedia.org/wiki/ヒール_\(プロレス\) "wikilink")[エル・イホ・デル・サント](../Page/エル・イホ・デル・サント.md "wikilink")を獲得して[ネグロ・カサス](../Page/ネグロ・カサス.md "wikilink")の抗争で人気を博した\[15\]。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、AAAを離脱した[ルードにターンした](../Page/ヒール_\(プロレス\).md "wikilink")[エル・イホ・デル・サント](../Page/エル・イホ・デル・サント.md "wikilink")を獲得して[ネグロ・カサス](../Page/ネグロ・カサス.md "wikilink")の抗争で人気を博した\[15\]。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[ミスティコ（初代）がデビューして大人気となり](https://ja.wikipedia.org/wiki/カリスティコ "wikilink")、[ドクトル・ワグナー・ジュニア](https://ja.wikipedia.org/wiki/ドクトル・ワグナー・ジュニア "wikilink")らを加えたメンバーにより、人気を取り戻してアレナ・メヒコに大観衆が詰めかけるようになった\[16\]。そして、この頃に団体名を**CMLL**（*Consejo Mundial de Lucha Libre*）に統一\[17\]。
+[2005年](../Page/2005年.md "wikilink")、[ミスティコ（初代）がデビューして大人気となり](https://ja.wikipedia.org/wiki/カリスティコ "wikilink")、[ドクトル・ワグナー・ジュニア](../Page/ドクトル・ワグナー・ジュニア.md "wikilink")らを加えたメンバーにより、人気を取り戻してアレナ・メヒコに大観衆が詰めかけるようになった\[16\]。そして、この頃に団体名を**CMLL**（*Consejo Mundial de Lucha Libre*）に統一\[17\]。
 
 現在の代表はゴンザレスの孫である[パコ・アロンソ](https://ja.wikipedia.org/wiki/パコ・アロンソ "wikilink")で[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に就任。
 
@@ -117,7 +117,7 @@
 
 ### NWA世界ヒストリック王座
 
-旧[NWA公認](https://ja.wikipedia.org/wiki/NWA_\(プロレス\) "wikilink")、1952年からEMLL（現：CMLL）が管理している王座\[18\]。
+旧[NWA公認](../Page/NWA_\(プロレス\).md "wikilink")、1952年からEMLL（現：CMLL）が管理している王座\[18\]。
 
 | タイトル                 | 保持者                                                               | 歴代  |
 | -------------------- | ----------------------------------------------------------------- | --- |
@@ -170,7 +170,7 @@
 2009年から開催している無差別級シングルトーナメント戦\[20\]。
 
   - 第1回大会優勝 : [ウルティモ・ゲレーロ](https://ja.wikipedia.org/wiki/ウルティモ・ゲレーロ "wikilink")
-  - 第2回大会優勝 : [獣神サンダー・ライガー](https://ja.wikipedia.org/wiki/獣神サンダー・ライガー "wikilink")
+  - 第2回大会優勝 : [獣神サンダー・ライガー](../Page/獣神サンダー・ライガー.md "wikilink")
   - 第3回大会優勝 : [ラ・ソンブラ](https://ja.wikipedia.org/wiki/ラ・ソンブラ "wikilink")
   - 第4回大会優勝 : [エル・テリブレ](https://ja.wikipedia.org/wiki/エル・テリブレ "wikilink")
   - 第5回大会優勝 : [棚橋弘至](../Page/棚橋弘至.md "wikilink")
@@ -185,10 +185,10 @@
   - 第1回大会優勝 : [ラヨ・デ・ハリスコ・ジュニア](https://ja.wikipedia.org/wiki/ラヨ・デ・ハリスコ・ジュニア "wikilink")
   - 第2回大会優勝 : [ヘッドハンターA](../Page/ザ・ヘッドハンターズ_\(プロレス\).md "wikilink")
   - 第3回大会優勝 : [エル・イホ・デル・サント](../Page/エル・イホ・デル・サント.md "wikilink")
-  - 第4回大会優勝 : [スティール](https://ja.wikipedia.org/wiki/ショーン・モーリー "wikilink")
+  - 第4回大会優勝 : [スティール](../Page/ショーン・モーリー.md "wikilink")
   - 第5回大会優勝 : ラヨ・デ・ハリスコ・ジュニア
   - 第6回大会優勝 : [マスカラ・マジカ](https://ja.wikipedia.org/wiki/マスカラ・マジカ "wikilink")
-  - 第7回大会優勝 : [ドクトル・ワグナー・ジュニア](https://ja.wikipedia.org/wiki/ドクトル・ワグナー・ジュニア "wikilink")
+  - 第7回大会優勝 : [ドクトル・ワグナー・ジュニア](../Page/ドクトル・ワグナー・ジュニア.md "wikilink")
   - 第8回大会優勝 : [アトランティス](../Page/アトランティス_\(プロレスラー\).md "wikilink")
   - 第9回大会優勝 : [ウルティモ・ゲレーロ](https://ja.wikipedia.org/wiki/ウルティモ・ゲレーロ "wikilink")
   - 第10回大会優勝 : ウルティモ・ゲレーロ
@@ -471,35 +471,35 @@
 
 しかし、2018年のREINAの一時活動休止と前後し、それに代わり新たに旗揚げされた「J＠st（ジャスト）」との提携を開始するも、2019年にそのJ＠stも活動休止となったため、現在はCMLLが女子プロレス専門の月刊誌「Lady's Ring」発行元であるLADYRINと提携し、「CMLLレディースリング」なる興行を開いている。
 
-上述する2団体のような提携ではないが[DDTプロレスリング](https://ja.wikipedia.org/wiki/DDTプロレスリング "wikilink")が管理している[KO-Dタッグ王座](https://ja.wikipedia.org/wiki/KO-Dタッグ王座 "wikilink")にはCMLLの認定がなされている。
+上述する2団体のような提携ではないが[DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")が管理している[KO-Dタッグ王座](https://ja.wikipedia.org/wiki/KO-Dタッグ王座 "wikilink")にはCMLLの認定がなされている。
 
-EMLL時代には[SWS](../Page/SWS.md "wikilink")と提携関係にあり、それが縁で[ウルティモ・ドラゴン](https://ja.wikipedia.org/wiki/ウルティモ・ドラゴン "wikilink")を始めとするEMLL所属選手がSWSに参戦していた。それ以前には末期の[国際プロレス](https://ja.wikipedia.org/wiki/国際プロレス "wikilink")とも提携していた。
+EMLL時代には[SWS](../Page/SWS.md "wikilink")と提携関係にあり、それが縁で[ウルティモ・ドラゴン](../Page/ウルティモ・ドラゴン.md "wikilink")を始めとするEMLL所属選手がSWSに参戦していた。それ以前には末期の[国際プロレス](../Page/国際プロレス.md "wikilink")とも提携していた。
 
-同じ[NWAの加盟団体ということもあり](https://ja.wikipedia.org/wiki/NWA_\(プロレス\) "wikilink")、[全日本プロレス](../Page/全日本プロレス.md "wikilink")とも正式な提携はしていなかったが交流を持ち、EMLLの所属選手が参戦して全日本からも[NWAインターナショナル・ジュニアヘビー級王者であった](https://ja.wikipedia.org/wiki/NWAインターナショナル・ジュニアヘビー級王座 "wikilink")[大仁田厚](../Page/大仁田厚.md "wikilink")が遠征して防衛戦を行い、[越中詩郎](https://ja.wikipedia.org/wiki/越中詩郎 "wikilink")（サムライ・シロー）や[三沢光晴](../Page/三沢光晴.md "wikilink")（カミカゼ・ミサワ）がメキシコ武者修行を行って[ジャイアント馬場](../Page/ジャイアント馬場.md "wikilink")もEMLLに参戦している\[22\]。
+同じ[NWAの加盟団体ということもあり](../Page/NWA_\(プロレス\).md "wikilink")、[全日本プロレス](../Page/全日本プロレス.md "wikilink")とも正式な提携はしていなかったが交流を持ち、EMLLの所属選手が参戦して全日本からも[NWAインターナショナル・ジュニアヘビー級王者であった](https://ja.wikipedia.org/wiki/NWAインターナショナル・ジュニアヘビー級王座 "wikilink")[大仁田厚](../Page/大仁田厚.md "wikilink")が遠征して防衛戦を行い、[越中詩郎](../Page/越中詩郎.md "wikilink")（サムライ・シロー）や[三沢光晴](../Page/三沢光晴.md "wikilink")（カミカゼ・ミサワ）がメキシコ武者修行を行って[ジャイアント馬場](../Page/ジャイアント馬場.md "wikilink")もEMLLに参戦している\[22\]。
 
-CMLL女子部の立ち上げ時には[全日本女子プロレス](https://ja.wikipedia.org/wiki/全日本女子プロレス "wikilink")と業務提携を結んでおり、[ブル中野](../Page/ブル中野.md "wikilink")が初代[CMLL世界女子王座](https://ja.wikipedia.org/wiki/CMLL世界女子王座 "wikilink")を獲得した他に[北斗晶](https://ja.wikipedia.org/wiki/北斗晶 "wikilink")がレイナ・フブキのリングネームで参戦していた。
+CMLL女子部の立ち上げ時には[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")と業務提携を結んでおり、[ブル中野](../Page/ブル中野.md "wikilink")が初代[CMLL世界女子王座](https://ja.wikipedia.org/wiki/CMLL世界女子王座 "wikilink")を獲得した他に[北斗晶](https://ja.wikipedia.org/wiki/北斗晶 "wikilink")がレイナ・フブキのリングネームで参戦していた。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2001年](../Page/2001年.md "wikilink")までは[ミステル・カカオ](https://ja.wikipedia.org/wiki/ミステル・カカオ "wikilink")（当時、プロモーターの梅本和孝）が中心となりCMLL JAPANの名でCMLL日本公演を手掛けたこともあった\[23\]。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2001年](../Page/2001年.md "wikilink")までは[ミステル・カカオ](../Page/ミステル・カカオ.md "wikilink")（当時、プロモーターの梅本和孝）が中心となりCMLL JAPANの名でCMLL日本公演を手掛けたこともあった\[23\]。
 
-[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[WWE殿堂](https://ja.wikipedia.org/wiki/WWE殿堂 "wikilink")の[ジョニー・ロッズ](https://ja.wikipedia.org/wiki/ジョニー・ロッズ "wikilink")が代表を務めて[ニューヨーク](../Page/ニューヨーク.md "wikilink")に拠点を置く[WUW](https://ja.wikipedia.org/wiki/WUW "wikilink")に全面協力している。
+[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[WWE殿堂](../Page/WWE殿堂.md "wikilink")の[ジョニー・ロッズ](https://ja.wikipedia.org/wiki/ジョニー・ロッズ "wikilink")が代表を務めて[ニューヨーク](../Page/ニューヨーク.md "wikilink")に拠点を置く[WUW](https://ja.wikipedia.org/wiki/WUW "wikilink")に全面協力している。
 
 [2016年](../Page/2016年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")、アメリカの[ROH](../Page/ROH.md "wikilink")と業務提携を結んだことを発表\[24\]。
 
 ## 試合中継
 
-  - 毎週金曜日に[アレナ・メヒコ](https://ja.wikipedia.org/wiki/アレナ・メヒコ "wikilink")で開催している「スペル・ヴィエルネス」を[PPVで放送されている](https://ja.wikipedia.org/wiki/ペイ・パー・ビュー "wikilink")。
-  - [FIGHTING TV サムライで不定期に放送されている](https://ja.wikipedia.org/wiki/FIGHTING_TV_サムライ "wikilink")。
+  - 毎週金曜日に[アレナ・メヒコ](https://ja.wikipedia.org/wiki/アレナ・メヒコ "wikilink")で開催している「スペル・ヴィエルネス」を[PPVで放送されている](../Page/ペイ・パー・ビュー.md "wikilink")。
+  - [FIGHTING TV サムライで不定期に放送されている](../Page/FIGHTING_TV_サムライ.md "wikilink")。
   - [2016年](../Page/2016年.md "wikilink")7月から[新日本プロレスワールド](https://ja.wikipedia.org/wiki/新日本プロレスワールド "wikilink")でアレナ・メヒコ定期大会が不定期にライブ配信されている。
 
 ## 参考文献
 
-  - 『[週刊プロレス](../Page/週刊プロレス.md "wikilink")』2016年2月10日号（通刊1833号） pp55 - 78掲載 「[週刊プロレス](../Page/週刊プロレス.md "wikilink") アルバムシリーズ」第62回「CMLL」（2016年1月）（[ベースボール・マガジン社](https://ja.wikipedia.org/wiki/ベースボール・マガジン社 "wikilink") 雑誌コード 29682 - 2/10）
+  - 『[週刊プロレス](../Page/週刊プロレス.md "wikilink")』2016年2月10日号（通刊1833号） pp55 - 78掲載 「[週刊プロレス](../Page/週刊プロレス.md "wikilink") アルバムシリーズ」第62回「CMLL」（2016年1月）（[ベースボール・マガジン社](../Page/ベースボール・マガジン社.md "wikilink") 雑誌コード 29682 - 2/10）
 
 ## 脚注
 
 ## 関連項目
 
-  - [ルチャリブレ](https://ja.wikipedia.org/wiki/ルチャリブレ "wikilink")
+  - [ルチャリブレ](../Page/ルチャリブレ.md "wikilink")
 
 ## 外部リンク
 

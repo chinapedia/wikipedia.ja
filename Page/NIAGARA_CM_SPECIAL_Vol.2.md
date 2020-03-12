@@ -1,11 +1,11 @@
 > この記事は[NIAGARA CM SPECIAL Vol.2](https://ja.wikipedia.org/wiki/NIAGARA_CM_SPECIAL_Vol.2)から翻訳されています。
 
 
-『**NIAGARA CM SPECIAL Vol.2**』（ナイアガラシーエムスペシャル ヴォリュームツー）は、[1982年](../Page/1982年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に発売されたNIAGARA CM STARS名義による[大滝詠一の](../Page/大瀧詠一.md "wikilink")[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")。
+『**NIAGARA CM SPECIAL Vol.2**』（ナイアガラシーエムスペシャル ヴォリュームツー）は、[1982年](../Page/1982年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に発売されたNIAGARA CM STARS名義による[大滝詠一の](../Page/大瀧詠一.md "wikilink")[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")。
 
 ## 解説
 
-前作『[NIAGARA CM SPECIAL Vol.1](../Page/NIAGARA_CM_SPECIAL_Vol.1.md "wikilink")』\[1\]リリース以降に制作されたCMソングに加え、[ナイアガラ・レーベル](../Page/ナイアガラ・レーベル.md "wikilink")の[CBS/ソニー移籍後の](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[大滝詠一作品のプロモーション用ラジオ](../Page/大瀧詠一.md "wikilink")・スポットも収録した作品集。移籍に際し『[NIAGARA CM SPECIAL Vol.1 2nd Issue](https://ja.wikipedia.org/wiki/NIAGARA_CM_SPECIAL_Vol.1_2nd_Issue "wikilink")』\[2\]として25センチ盤でのリイシューに際し、新曲が追加されたため本作と重複する曲もあるが、「Big John A」「Big John B」を除き、すべてステレオ・ニュー・ミックスとなっている\[3\]。
+前作『[NIAGARA CM SPECIAL Vol.1](../Page/NIAGARA_CM_SPECIAL_Vol.1.md "wikilink")』\[1\]リリース以降に制作されたCMソングに加え、[ナイアガラ・レーベル](../Page/ナイアガラ・レーベル.md "wikilink")の[CBS/ソニー移籍後の](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[大滝詠一作品のプロモーション用ラジオ](../Page/大瀧詠一.md "wikilink")・スポットも収録した作品集。移籍に際し『[NIAGARA CM SPECIAL Vol.1 2nd Issue](../Page/NIAGARA_CM_SPECIAL_Vol.1_2nd_Issue.md "wikilink")』\[2\]として25センチ盤でのリイシューに際し、新曲が追加されたため本作と重複する曲もあるが、「Big John A」「Big John B」を除き、すべてステレオ・ニュー・ミックスとなっている\[3\]。
 
 後年、大滝は本作について、『Vol.1』\[4\]に収録されていないCM作品が残っているのがあって、形として残したかったので無理を言ってリリースしたと語っている\[5\]。
 
@@ -20,11 +20,11 @@
         '81年[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")・冬のキャンペーン使用曲。CM用に特別に録音されたもので、シングル発売のものとは違っている\[7\]。
 2.  〜**[風立ちぬ](../Page/風立ちぬ_\(松田聖子の曲\).md "wikilink")** / [松田聖子](../Page/松田聖子.md "wikilink") （松本隆 / 大瀧詠一）
       -
-        [グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")・[ポッキー](https://ja.wikipedia.org/wiki/ポッキー "wikilink")'81年秋の使用曲。CM用に録音されたもので、シングルとは曲の構成、楽器編成が異なる\[8\]。
-3.  〜**Lemon Shower** / [須藤薫](https://ja.wikipedia.org/wiki/須藤薫 "wikilink") （[糸井重里](../Page/糸井重里.md "wikilink") / 大瀧詠一）
+        [グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")・[ポッキー](../Page/ポッキー.md "wikilink")'81年秋の使用曲。CM用に録音されたもので、シングルとは曲の構成、楽器編成が異なる\[8\]。
+3.  〜**Lemon Shower** / [須藤薫](../Page/須藤薫.md "wikilink") （[糸井重里](../Page/糸井重里.md "wikilink") / 大瀧詠一）
       -
-        [明治製菓](../Page/明治製菓.md "wikilink")のキャンディーのCM。糸井重里・大滝・[川崎徹](https://ja.wikipedia.org/wiki/川崎徹 "wikilink")による初作品。歌を担当した[須藤薫](https://ja.wikipedia.org/wiki/須藤薫 "wikilink")は「あなただけ I LOVE YOU」以来となる\[9\]。
-4.  〜**大きいのが好き** / [EPO](https://ja.wikipedia.org/wiki/EPO "wikilink") & [シャネルズ](../Page/ラッツ&スター.md "wikilink") （[伊藤アキラ](https://ja.wikipedia.org/wiki/伊藤アキラ "wikilink") / 大瀧詠一）
+        [明治製菓](../Page/明治製菓.md "wikilink")のキャンディーのCM。糸井重里・大滝・[川崎徹](../Page/川崎徹.md "wikilink")による初作品。歌を担当した[須藤薫](../Page/須藤薫.md "wikilink")は「あなただけ I LOVE YOU」以来となる\[9\]。
+4.  〜**大きいのが好き** / [EPO](../Page/EPO.md "wikilink") & [シャネルズ](../Page/ラッツ&スター.md "wikilink") （[伊藤アキラ](../Page/伊藤アキラ.md "wikilink") / 大瀧詠一）
       -
         歌を担当したEPOもシャネルズとも、デビュー直前の作品\[10\]（未発表）。
 5.  〜**UFO** / [広谷順子](https://ja.wikipedia.org/wiki/広谷順子 "wikilink") （伊藤アキラ / [多羅尾伴内](../Page/大瀧詠一.md "wikilink")）
@@ -33,9 +33,9 @@
 6.  〜**ハウス・プリン** / [大場久美子](../Page/大場久美子.md "wikilink") （伊藤アキラ / 多羅尾伴内）
       -
         歌を担当した大場久美子は、この録音直後に歌手廃業宣言をした\[12\]。
-7.  〜**[レモンのキッス](https://ja.wikipedia.org/wiki/レモンのキッス "wikilink")** / [佐藤奈々子](../Page/佐藤奈々子.md "wikilink") （[D.MANNING](https://ja.wikipedia.org/wiki/:en:Dick_Manning "wikilink") / [みナみカズみ](https://ja.wikipedia.org/wiki/安井かずみ "wikilink")）
+7.  〜**[レモンのキッス](../Page/レモンのキッス.md "wikilink")** / [佐藤奈々子](../Page/佐藤奈々子.md "wikilink") （[D.MANNING](https://ja.wikipedia.org/wiki/:en:Dick_Manning "wikilink") / [みナみカズみ](../Page/安井かずみ.md "wikilink")）
       -
-        佐藤奈々子が歌を担当した、[サントリー](../Page/サントリー.md "wikilink")・レモン'80年のCM（未発表）\[13\]。テレビでオンエアされたのは[アパッチのヴァージョン](https://ja.wikipedia.org/wiki/アパッチ_\(音楽グループ\) "wikilink")（『Vol.1 2nd Issue』\[14\]に収録）。
+        佐藤奈々子が歌を担当した、[サントリー](../Page/サントリー.md "wikilink")・レモン'80年のCM（未発表）\[13\]。テレビでオンエアされたのは[アパッチのヴァージョン](../Page/アパッチ_\(音楽グループ\).md "wikilink")（『Vol.1 2nd Issue』\[14\]に収録）。
 8.  **Big John A** （多羅尾伴内）   \*
       -
         [ビッグジョン](../Page/ビッグジョン.md "wikilink")・ジーンズ'80年のCM。詞曲とも大滝\[15\]。
@@ -47,7 +47,7 @@
         [永谷園](https://ja.wikipedia.org/wiki/永谷園 "wikilink")のミルク・セーキのCM\[17\]（未発表）。
 11. 〜**Good Day Nissui** （伊藤アキラ / 多羅尾伴内）   \*
       -
-        [ニッスイのCMソングとして](https://ja.wikipedia.org/wiki/日本水産 "wikilink")[福生45スタジオ](https://ja.wikipedia.org/wiki/福生45スタジオ "wikilink")にて録音。『[多羅尾伴内楽團 Vol.1](https://ja.wikipedia.org/wiki/多羅尾伴内楽團_Vol.1 "wikilink")』\[18\]収録曲「[雪やコンコン](https://ja.wikipedia.org/wiki/雪やコンコン "wikilink")」を下敷きに制作された。
+        [ニッスイのCMソングとして](../Page/日本水産.md "wikilink")[福生45スタジオ](https://ja.wikipedia.org/wiki/福生45スタジオ "wikilink")にて録音。『[多羅尾伴内楽團 Vol.1](https://ja.wikipedia.org/wiki/多羅尾伴内楽團_Vol.1 "wikilink")』\[18\]収録曲「[雪やコンコン](https://ja.wikipedia.org/wiki/雪やコンコン "wikilink")」を下敷きに制作された。
 12. 〜**MG 5** （[東急エージェンシー](https://ja.wikipedia.org/wiki/東急エージェンシー "wikilink") / 多羅尾伴内）   \*
       -
         '78年のナイター・シーズンにラジオのみでオンエア\[19\]。
@@ -66,7 +66,7 @@
 17. 〜**悲しき Walkman '81** （[旭通信社](https://ja.wikipedia.org/wiki/旭通信社 "wikilink") / 多羅尾伴内）
       -
         [Walkman IIのCMとして制作](../Page/ウォークマン.md "wikilink")（未発表）。この年の暮、[佐野元春](../Page/佐野元春.md "wikilink")の作品がオンエアされた\[24\]。
-18. 〜**Marui Sports** （[仲畑貴志](https://ja.wikipedia.org/wiki/仲畑貴志 "wikilink") / 多羅尾伴内）
+18. 〜**Marui Sports** （[仲畑貴志](../Page/仲畑貴志.md "wikilink") / 多羅尾伴内）
       -
         '81年2月の[丸井](../Page/丸井.md "wikilink")スポーツ館のCM\[25\]。
 
@@ -80,7 +80,7 @@
 1.  **CM Special Vol.2** （大瀧詠一）
       -
         本作用に制作されたアルバムのCM。ラジオ・スポットにも使用された\[26\]。
-2.  **Spot Special** （松本隆 / 大瀧詠一, [佐野元春](../Page/佐野元春.md "wikilink"), [杉真理](https://ja.wikipedia.org/wiki/杉真理 "wikilink")）
+2.  **Spot Special** （松本隆 / 大瀧詠一, [佐野元春](../Page/佐野元春.md "wikilink"), [杉真理](../Page/杉真理.md "wikilink")）
       -
 
         [小林克也](../Page/小林克也.md "wikilink")ナレーションによる、ナイアガラ一連の作品のラジオ・スポット集\[27\]。
@@ -116,24 +116,24 @@
 <td><hr></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/松田聖子.md" title="wikilink">Seiko Matsuda</a>, <a href="https://ja.wikipedia.org/wiki/須藤薫" title="wikilink">Kaoru Sudo</a> appears by the courtesy of <a href="https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_(日本)" title="wikilink">CBS-SONY REC.</a></p></td>
+<td><p><a href="../Page/松田聖子.md" title="wikilink">Seiko Matsuda</a>, <a href="../Page/須藤薫.md" title="wikilink">Kaoru Sudo</a> appears by the courtesy of <a href="https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_(日本)" title="wikilink">CBS-SONY REC.</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/ラッツ&amp;スター.md" title="wikilink">Shannels</a> appears by the courtesy of <a href="https://ja.wikipedia.org/wiki/エピックレコードジャパン" title="wikilink">EPIC-SONY REC.</a></p></td>
+<td><p><a href="../Page/ラッツ&amp;スター.md" title="wikilink">Shannels</a> appears by the courtesy of <a href="../Page/エピックレコードジャパン.md" title="wikilink">EPIC-SONY REC.</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/EPO" title="wikilink">EPO</a> appears by the courtesy of <a href="https://ja.wikipedia.org/wiki/BMG_JAPAN#RVC" title="wikilink">RVC REC.</a></p></td>
+<td><p><a href="../Page/EPO.md" title="wikilink">EPO</a> appears by the courtesy of <a href="https://ja.wikipedia.org/wiki/BMG_JAPAN#RVC" title="wikilink">RVC REC.</a></p></td>
 </tr>
 <tr class="odd">
 <td><hr></td>
 </tr>
 <tr class="even">
 <td><p>Special Thanks to: <a href="../Page/サンミュージックプロダクション.md" title="wikilink">Sun Music</a>, CMC, Uncle-F,<br />
-Pet Sounds, <a href="https://ja.wikipedia.org/wiki/フジパシフィックミュージック" title="wikilink">PMP</a>, <a href="../Page/佐藤奈々子.md" title="wikilink">Nanako Satoh</a>, <a href="https://ja.wikipedia.org/wiki/ボンド企画" title="wikilink">Bond</a>,<br />
+Pet Sounds, <a href="../Page/フジパシフィックミュージック.md" title="wikilink">PMP</a>, <a href="../Page/佐藤奈々子.md" title="wikilink">Nanako Satoh</a>, <a href="https://ja.wikipedia.org/wiki/ボンド企画" title="wikilink">Bond</a>,<br />
 Watanabe-kikaku, Cat, Lollipop, Ryuzo Shirakawa,<br />
 ダイエット・アトム,<br />
 Ms. Miyama, &amp; Niagara Cheer Leaders,<br />
-<a href="../Page/小林克也.md" title="wikilink">Katsuya Kobayashi</a>, <a href="https://ja.wikipedia.org/wiki/伊藤アキラ" title="wikilink">Akira Itoh</a> &amp; On Associats<br />
+<a href="../Page/小林克也.md" title="wikilink">Katsuya Kobayashi</a>, <a href="../Page/伊藤アキラ.md" title="wikilink">Akira Itoh</a> &amp; On Associats<br />
 (Mr.Ohmori &amp; Mr. Sekiguchi),</p></td>
 </tr>
 <tr class="odd">
@@ -164,7 +164,7 @@ Ms. Miyama, &amp; Niagara Cheer Leaders,<br />
 <th><p>発売日</p></th>
 <th><p>リリース</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">品番</a></p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -205,7 +205,7 @@ Ms. Miyama, &amp; Niagara Cheer Leaders,<br />
 [Category:ナイアガラ・レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:ナイアガラ・レーベルのアルバム "wikilink") [Category:1982年のアルバム](https://ja.wikipedia.org/wiki/Category:1982年のアルバム "wikilink") [Category:コマーシャルソング集](https://ja.wikipedia.org/wiki/Category:コマーシャルソング集 "wikilink")
 
 1.  『[NIAGARA CM SPECIAL Vol.1](../Page/NIAGARA_CM_SPECIAL_Vol.1.md "wikilink")』 発売 [NIAGARA](../Page/ナイアガラ・レーベル.md "wikilink") ⁄ [COLUMBIA](../Page/日本コロムビア.md "wikilink") LP:LZ-7005-E (NGLP-509, 510-CM)
-2.  『[NIAGARA CM SPECIAL Vol.1 2nd Issue](https://ja.wikipedia.org/wiki/NIAGARA_CM_SPECIAL_Vol.1_2nd_Issue "wikilink")』 発売 NIAGARA ⁄ [CBS/SONY](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") 25cmLP:23AH 1244 (NGLP-509,510-CM), CT:23KH 964
+2.  『[NIAGARA CM SPECIAL Vol.1 2nd Issue](../Page/NIAGARA_CM_SPECIAL_Vol.1_2nd_Issue.md "wikilink")』 発売 NIAGARA ⁄ [CBS/SONY](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") 25cmLP:23AH 1244 (NGLP-509,510-CM), CT:23KH 964
 3.
 4.
 5.

@@ -5,16 +5,16 @@
 
 ## 収録曲
 
-1.  [君は天然色](https://ja.wikipedia.org/wiki/君は天然色 "wikilink") / [堂島孝平](https://ja.wikipedia.org/wiki/堂島孝平 "wikilink") × GO-GO KING RECORDERS
-2.  [恋するカレン](https://ja.wikipedia.org/wiki/恋するカレン "wikilink") / [BEGIN](https://ja.wikipedia.org/wiki/BEGIN_\(バンド\) "wikilink")
-3.  [幸せな結末](../Page/幸せな結末.md "wikilink") / [前川清](https://ja.wikipedia.org/wiki/前川清 "wikilink") + [井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")
+1.  [君は天然色](https://ja.wikipedia.org/wiki/君は天然色 "wikilink") / [堂島孝平](../Page/堂島孝平.md "wikilink") × GO-GO KING RECORDERS
+2.  [恋するカレン](https://ja.wikipedia.org/wiki/恋するカレン "wikilink") / [BEGIN](../Page/BEGIN_\(バンド\).md "wikilink")
+3.  [幸せな結末](../Page/幸せな結末.md "wikilink") / [前川清](../Page/前川清.md "wikilink") + [井上鑑](../Page/井上鑑.md "wikilink")
 4.  びんぼう'94 / [ウルフルズ](../Page/ウルフルズ.md "wikilink")
       -
         初出は1994年のアルバム『[すっとばす](../Page/すっとばす_\(アルバム\).md "wikilink")』。
-5.  [夢で逢えたら](https://ja.wikipedia.org/wiki/夢で逢えたら_\(DEEN&原田知世の曲\) "wikilink") / [DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink") & [原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")
+5.  [夢で逢えたら](../Page/夢で逢えたら_\(DEEN&原田知世の曲\).md "wikilink") / [DEEN](../Page/DEEN.md "wikilink") & [原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")
       -
-        シングル化されている。詳しくは「[夢で逢えたら (DEEN&原田知世の曲)](https://ja.wikipedia.org/wiki/夢で逢えたら_\(DEEN&原田知世の曲\) "wikilink")」を参照。
-6.  [冬のリヴィエラ](../Page/冬のリヴィエラ.md "wikilink") / [What's Love?](https://ja.wikipedia.org/wiki/What's_Love?_\(バンド\) "wikilink")
+        シングル化されている。詳しくは「[夢で逢えたら (DEEN&原田知世の曲)](../Page/夢で逢えたら_\(DEEN&原田知世の曲\).md "wikilink")」を参照。
+6.  [冬のリヴィエラ](../Page/冬のリヴィエラ.md "wikilink") / [What's Love?](../Page/What's_Love?_\(バンド\).md "wikilink")
       -
         [森進一](../Page/森進一.md "wikilink")のカヴァー。のちに彼らのアルバム『温故知新』にも収録された。
 7.  [探偵物語](https://ja.wikipedia.org/wiki/探偵物語/すこしだけやさしく "wikilink") / [坂本美雨](https://ja.wikipedia.org/wiki/坂本美雨 "wikilink")
@@ -22,11 +22,11 @@
         [薬師丸ひろ子](../Page/薬師丸ひろ子.md "wikilink")のカヴァー。
 8.  [熱き心に](https://ja.wikipedia.org/wiki/熱き心に "wikilink") / [キンモクセイ](../Page/キンモクセイ_\(バンド\).md "wikilink")
       -
-        元々は[小林旭](https://ja.wikipedia.org/wiki/小林旭 "wikilink")に大瀧が提供した作品で、デモテープ以外に大瀧が歌唱したバージョンは存在しない。後にキンモクセイはNEW MIXとして同じく大瀧の作品である「[夢で逢えたら](../Page/夢で逢えたら_\(キンモクセイの曲\).md "wikilink")」と共にシングルカットしている。
-9.  [Tシャツに口紅](https://ja.wikipedia.org/wiki/Tシャツに口紅 "wikilink") / [CRAZY KEN BAND](https://ja.wikipedia.org/wiki/クレイジーケンバンド "wikilink")
+        元々は[小林旭](../Page/小林旭.md "wikilink")に大瀧が提供した作品で、デモテープ以外に大瀧が歌唱したバージョンは存在しない。後にキンモクセイはNEW MIXとして同じく大瀧の作品である「[夢で逢えたら](../Page/夢で逢えたら_\(キンモクセイの曲\).md "wikilink")」と共にシングルカットしている。
+9.  [Tシャツに口紅](https://ja.wikipedia.org/wiki/Tシャツに口紅 "wikilink") / [CRAZY KEN BAND](../Page/クレイジーケンバンド.md "wikilink")
       -
         もともとは[ラッツ&スター](../Page/ラッツ&スター.md "wikilink")に大瀧が提供した楽曲。
-10. [A面で恋をして](https://ja.wikipedia.org/wiki/A面で恋をして "wikilink") / [BARGAINS](https://ja.wikipedia.org/wiki/BARGAINS "wikilink")
+10. [A面で恋をして](https://ja.wikipedia.org/wiki/A面で恋をして "wikilink") / [BARGAINS](../Page/BARGAINS.md "wikilink")
 11. Niagara Ondo Medley / Let's Ondo Again / [川井郁子](../Page/川井郁子.md "wikilink")+[パール兄弟](../Page/パール兄弟.md "wikilink")
 
 [Category:2002年のトリビュート・アルバム](https://ja.wikipedia.org/wiki/Category:2002年のトリビュート・アルバム "wikilink") [Category:ナイアガラ関連アルバム](https://ja.wikipedia.org/wiki/Category:ナイアガラ関連アルバム "wikilink") [Category:ワーナーミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

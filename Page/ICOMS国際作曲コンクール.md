@@ -1,7 +1,7 @@
 > この記事は[ICOMS](https://ja.wikipedia.org/wiki/ICOMS)から翻訳されています。
 
 
-**ICOMS国際作曲コンクール**（ICOMSこくさいさっきょくコンクール）は[イタリア](../Page/イタリア.md "wikilink")の[トリノ](../Page/トリノ.md "wikilink")で行われる国際作曲[コンクール](https://ja.wikipedia.org/wiki/コンクール "wikilink")。名称は「International Center Of Musical Sources」の頭文字から。
+**ICOMS国際作曲コンクール**（ICOMSこくさいさっきょくコンクール）は[イタリア](../Page/イタリア.md "wikilink")の[トリノ](../Page/トリノ.md "wikilink")で行われる国際作曲[コンクール](../Page/コンクール.md "wikilink")。名称は「International Center Of Musical Sources」の頭文字から。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
 ## 優勝者一覧
 
-  - [中村寛](https://ja.wikipedia.org/wiki/中村寛 "wikilink")
+  - [中村寛](../Page/中村寛.md "wikilink")
   - [ルカ・ベルカストロ](../Page/ルカ・ベルカストロ.md "wikilink")（唯一の二度優勝）
   - [ディエゴ・ダロスト](https://ja.wikipedia.org/wiki/ディエゴ・ダロスト "wikilink")
   - [コスチン・カザヴァン](https://ja.wikipedia.org/wiki/コスチン・カザヴァン "wikilink")

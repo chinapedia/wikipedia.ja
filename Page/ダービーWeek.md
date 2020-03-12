@@ -1,17 +1,17 @@
 > この記事は[Week](https://ja.wikipedia.org/wiki/Week)から翻訳されています。
 
 
-**ダービーシリーズ**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[地方競馬](../Page/地方競馬.md "wikilink")における企画であり、地方競馬の8主催者の「[ダービー](https://ja.wikipedia.org/wiki/ダービー_\(競馬\) "wikilink")」にあたる[競走を短期集中開催するものである](https://ja.wikipedia.org/wiki/競馬の競走 "wikilink")\[1\]。
+**ダービーシリーズ**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[地方競馬](../Page/地方競馬.md "wikilink")における企画であり、地方競馬の8主催者の「[ダービー](https://ja.wikipedia.org/wiki/ダービー_\(競馬\) "wikilink")」にあたる[競走を短期集中開催するものである](../Page/競馬の競走.md "wikilink")\[1\]。
 
 2016年までは**ダービーWeek**（ダービーウィーク）という名称だった。
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に創設された企画で、この年はダービーウイーク運営企画協議会（[ホッカイドウ競馬](https://ja.wikipedia.org/wiki/ホッカイドウ競馬 "wikilink")・[岩手県競馬組合](https://ja.wikipedia.org/wiki/岩手県競馬組合 "wikilink")・[特別区競馬組合](../Page/特別区競馬組合.md "wikilink")・[愛知県競馬組合](../Page/愛知県競馬組合.md "wikilink")・[兵庫県競馬組合](../Page/兵庫県競馬組合.md "wikilink")・[佐賀県競馬組合](https://ja.wikipedia.org/wiki/佐賀県競馬組合 "wikilink")・[全国公営競馬主催者協議会](https://ja.wikipedia.org/wiki/全国公営競馬主催者協議会 "wikilink")・[地方競馬全国協会](../Page/地方競馬全国協会.md "wikilink")（NAR））の主催、[フサイチ・ドリーム・オペレーション](https://ja.wikipedia.org/wiki/フサイチ・ドリーム・オペレーション "wikilink")・[オッズパーク](../Page/オッズパーク.md "wikilink")・[日本酪農乳業協会](https://ja.wikipedia.org/wiki/日本酪農乳業協会 "wikilink")（J-MILK）・[社台スタリオンステーション](../Page/社台スタリオンステーション.md "wikilink")の4社の協賛により実施された\[2\]。
+[2006年](../Page/2006年.md "wikilink")に創設された企画で、この年はダービーウイーク運営企画協議会（[ホッカイドウ競馬](https://ja.wikipedia.org/wiki/ホッカイドウ競馬 "wikilink")・[岩手県競馬組合](../Page/岩手県競馬組合.md "wikilink")・[特別区競馬組合](../Page/特別区競馬組合.md "wikilink")・[愛知県競馬組合](../Page/愛知県競馬組合.md "wikilink")・[兵庫県競馬組合](../Page/兵庫県競馬組合.md "wikilink")・[佐賀県競馬組合](https://ja.wikipedia.org/wiki/佐賀県競馬組合 "wikilink")・[全国公営競馬主催者協議会](https://ja.wikipedia.org/wiki/全国公営競馬主催者協議会 "wikilink")・[地方競馬全国協会](../Page/地方競馬全国協会.md "wikilink")（NAR））の主催、[フサイチ・ドリーム・オペレーション](https://ja.wikipedia.org/wiki/フサイチ・ドリーム・オペレーション "wikilink")・[オッズパーク](../Page/オッズパーク.md "wikilink")・[日本酪農乳業協会](https://ja.wikipedia.org/wiki/日本酪農乳業協会 "wikilink")（J-MILK）・[社台スタリオンステーション](../Page/社台スタリオンステーション.md "wikilink")の4社の協賛により実施された\[2\]。
 
-6月上旬（年によっては5月下旬も）に実施されるダービーシリーズの各競走は、7月に施行される中央地方交流競走の[ジャパンダートダービー](../Page/ジャパンダートダービー.md "wikilink")（[JpnI](https://ja.wikipedia.org/wiki/競馬の競走格付け "wikilink")）に向けての競走としても位置づけられ、対象8競走（参加競走は後述）のうち[東京ダービー](../Page/東京ダービー_\(競馬\).md "wikilink")（従前より2着までの馬に優先出走権が与えられる）を除く7競走は、ジャパンダートダービーの指定競走に指定されており、それぞれの競走で1着となった馬は同一地区内の他の馬に優先してジャパンダートダービー出走馬に選定される\[3\]。各対象競走をジャパンダートダービーに繋がる競走とすることで、各地のダービーの価値をより高め夢のある競走に育てること、また競馬ファンにとっても当企画をダービーの続く特別な一週間とするとともに、全国のダービーを見てもらいやすくすることを目指すとしている\[4\]。
+6月上旬（年によっては5月下旬も）に実施されるダービーシリーズの各競走は、7月に施行される中央地方交流競走の[ジャパンダートダービー](../Page/ジャパンダートダービー.md "wikilink")（[JpnI](../Page/競馬の競走格付け.md "wikilink")）に向けての競走としても位置づけられ、対象8競走（参加競走は後述）のうち[東京ダービー](../Page/東京ダービー_\(競馬\).md "wikilink")（従前より2着までの馬に優先出走権が与えられる）を除く7競走は、ジャパンダートダービーの指定競走に指定されており、それぞれの競走で1着となった馬は同一地区内の他の馬に優先してジャパンダートダービー出走馬に選定される\[3\]。各対象競走をジャパンダートダービーに繋がる競走とすることで、各地のダービーの価値をより高め夢のある競走に育てること、また競馬ファンにとっても当企画をダービーの続く特別な一週間とするとともに、全国のダービーを見てもらいやすくすることを目指すとしている\[4\]。
 
-なおこのダービーWeek創設により現行の地方競馬のイベントだった[ゴールデンドリームシリーズ](https://ja.wikipedia.org/wiki/ゴールデンドリームシリーズ "wikilink")・[サマードリームシリーズ](https://ja.wikipedia.org/wiki/サマードリームシリーズ "wikilink")・[ファイナルドリームシリーズ](https://ja.wikipedia.org/wiki/ファイナルドリームシリーズ "wikilink")は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")を最後に廃止された。
+なおこのダービーWeek創設により現行の地方競馬のイベントだった[ゴールデンドリームシリーズ](https://ja.wikipedia.org/wiki/ゴールデンドリームシリーズ "wikilink")・[サマードリームシリーズ](https://ja.wikipedia.org/wiki/サマードリームシリーズ "wikilink")・[ファイナルドリームシリーズ](https://ja.wikipedia.org/wiki/ファイナルドリームシリーズ "wikilink")は[2005年](../Page/2005年.md "wikilink")を最後に廃止された。
 
 2017年からは従来の6競走に加えて[石川ダービー](https://ja.wikipedia.org/wiki/石川ダービー "wikilink")（[石川県競馬事業局](https://ja.wikipedia.org/wiki/石川県競馬事業局 "wikilink")）・[高知優駿](../Page/高知優駿.md "wikilink")（[高知県競馬組合](../Page/高知県競馬組合.md "wikilink")）の2レースが加わり、ダービーシリーズに名称が変更された。
 
@@ -37,7 +37,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/九州ダービー栄城賞" title="wikilink">九州ダービー栄城賞</a></p></td>
+<td><p><a href="../Page/九州ダービー栄城賞.md" title="wikilink">九州ダービー栄城賞</a></p></td>
 <td><p><a href="../Page/佐賀競馬場.md" title="wikilink">佐賀</a></p></td>
 <td><p>重賞</p></td>
 <td><p>2,000m</p></td>
@@ -74,7 +74,7 @@
 <td><p>2006年から2018年までは「<a href="https://ja.wikipedia.org/wiki/ダイヤモンドカップ" title="wikilink">岩手ダービーダイヤモンドカップ</a>」が対象競走であった。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/東海ダービー" title="wikilink">東海ダービー</a></p></td>
+<td><p><a href="../Page/東海ダービー.md" title="wikilink">東海ダービー</a></p></td>
 <td><p><a href="../Page/名古屋競馬場.md" title="wikilink">名古屋</a></p></td>
 <td><p>SPI</p></td>
 <td><p>1,900m</p></td>
@@ -127,7 +127,7 @@
 
 ## スタリオン賞
 
-2007年より（東京ダービーは2011年より）社団法人JBC協会の協力のもと、副賞として指定された[種牡馬](../Page/種牡馬.md "wikilink")の翌年の種付け権利が優勝馬の[馬主](https://ja.wikipedia.org/wiki/馬主 "wikilink")に与えられる。
+2007年より（東京ダービーは2011年より）社団法人JBC協会の協力のもと、副賞として指定された[種牡馬](../Page/種牡馬.md "wikilink")の翌年の種付け権利が優勝馬の[馬主](../Page/馬主.md "wikilink")に与えられる。
 
   - ダービーWeek
 
@@ -149,17 +149,17 @@
 <tbody>
 <tr class="odd">
 <td><p>2007年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マヤノトップガン" title="wikilink">マヤノトップガン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アドマイヤドン" title="wikilink">アドマイヤドン</a></p></td>
+<td><p><a href="../Page/マヤノトップガン.md" title="wikilink">マヤノトップガン</a></p></td>
+<td><p><a href="../Page/アドマイヤドン.md" title="wikilink">アドマイヤドン</a></p></td>
 <td><p><a href="../Page/バブルガムフェロー.md" title="wikilink">バブルガムフェロー</a></p></td>
 <td><p>—</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴールドアリュール" title="wikilink">ゴールドアリュール</a></p></td>
+<td><p><a href="../Page/ゴールドアリュール.md" title="wikilink">ゴールドアリュール</a></p></td>
 <td><p><a href="../Page/フサイチコンコルド.md" title="wikilink">フサイチコンコルド</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2008年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タニノギムレット" title="wikilink">タニノギムレット</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャングルポケット" title="wikilink">ジャングルポケット</a></p></td>
+<td><p><a href="../Page/タニノギムレット.md" title="wikilink">タニノギムレット</a></p></td>
+<td><p><a href="../Page/ジャングルポケット.md" title="wikilink">ジャングルポケット</a></p></td>
 <td><p><a href="../Page/フサイチコンコルド.md" title="wikilink">フサイチコンコルド</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スペシャルウイーク" title="wikilink">スペシャルウイーク</a></p></td>
 <td><p><a href="../Page/ネオユニヴァース.md" title="wikilink">ネオユニヴァース</a></p></td>
@@ -167,11 +167,11 @@
 </tr>
 <tr class="odd">
 <td><p>2009年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デュランダル_(競走馬)" title="wikilink">デュランダル</a></p></td>
+<td><p><a href="../Page/デュランダル_(競走馬).md" title="wikilink">デュランダル</a></p></td>
 <td><p><a href="../Page/キングヘイロー.md" title="wikilink">キングヘイロー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グラスワンダー" title="wikilink">グラスワンダー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/メイショウサムソン" title="wikilink">メイショウサムソン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タイキシャトル" title="wikilink">タイキシャトル</a></p></td>
+<td><p><a href="../Page/グラスワンダー.md" title="wikilink">グラスワンダー</a></p></td>
+<td><p><a href="../Page/メイショウサムソン.md" title="wikilink">メイショウサムソン</a></p></td>
+<td><p><a href="../Page/タイキシャトル.md" title="wikilink">タイキシャトル</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -233,7 +233,7 @@
 <td><p>ダノンシャンティ</p></td>
 <td><p>ネオユニヴァース</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴィクトワールピサ" title="wikilink">ヴィクトワールピサ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゼンノロブロイ" title="wikilink">ゼンノロブロイ</a></p></td>
+<td><p><a href="../Page/ゼンノロブロイ.md" title="wikilink">ゼンノロブロイ</a></p></td>
 <td><p><a href="../Page/シンボリクリスエス.md" title="wikilink">シンボリクリスエス</a></p></td>
 <td></td>
 </tr>

@@ -1,11 +1,11 @@
 > この記事は[Oh! Yeah! \(\)](https://ja.wikipedia.org/wiki/Oh!_Yeah!_\(\))から翻訳されています。
 
 
-『**Oh\! Yeah\!**』（オー・イェー）は、[1991年](../Page/1991年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")にリリースされた、[小田和正](../Page/小田和正.md "wikilink")通算1作目の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+『**Oh\! Yeah\!**』（オー・イェー）は、[1991年](../Page/1991年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")にリリースされた、[小田和正](../Page/小田和正.md "wikilink")通算1作目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 ## 解説
 
-それまでに発売された3枚のオリジナル・アルバムからの9曲に、大ヒットシングル「[Oh\! Yeah\!](https://ja.wikipedia.org/wiki/Oh!_Yeah! "wikilink")」からの2曲、さらに新曲1曲を収録した、自身のレーベル「Little Tokyo」発足後初の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")\[1\]。発売当日の深夜には[日清パワーステーション](../Page/日清パワーステーション.md "wikilink")でゲリラ・ライヴを敢行し、周囲を驚かせた。また、このアルバムのテレビCMでは女性と抱き合う姿を披露して話題になった。
+それまでに発売された3枚のオリジナル・アルバムからの9曲に、大ヒットシングル「[Oh\! Yeah\!](https://ja.wikipedia.org/wiki/Oh!_Yeah! "wikilink")」からの2曲、さらに新曲1曲を収録した、自身のレーベル「Little Tokyo」発足後初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")\[1\]。発売当日の深夜には[日清パワーステーション](../Page/日清パワーステーション.md "wikilink")でゲリラ・ライヴを敢行し、周囲を驚かせた。また、このアルバムのテレビCMでは女性と抱き合う姿を披露して話題になった。
 
 初回限定ピクチャーレーベル仕様。
 
@@ -42,20 +42,20 @@
       -
         作詞・作曲・編曲 ⁄ 小田和正
         小田のツアーバンドをタイトルに冠したアルバム唯一の新曲。元々は別歌詞・曲がついており、コーラスのように遠くの方に微かに聴こえている。
-11. **[ラブ・ストーリーは突然に](https://ja.wikipedia.org/wiki/ラブ・ストーリーは突然に "wikilink")** - <span style="font-size:90%;">(4:55)</span>\[12\]
+11. **[ラブ・ストーリーは突然に](../Page/ラブ・ストーリーは突然に.md "wikilink")** - <span style="font-size:90%;">(4:55)</span>\[12\]
       -
         作詞・作曲・編曲 ⁄ 小田和正
         [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[東京ラブストーリー](https://ja.wikipedia.org/wiki/東京ラブストーリー#テレビドラマ "wikilink")」テーマソング
 12. **[Oh\! Yeah\!](https://ja.wikipedia.org/wiki/Oh!_Yeah! "wikilink")** - <span style="font-size:90%;">(4:51)</span>\[13\]
       -
         作詞・作曲・編曲 ⁄ 小田和正
-        [第一生命](https://ja.wikipedia.org/wiki/第一生命保険 "wikilink")'91テーマソング
+        [第一生命](../Page/第一生命保険.md "wikilink")'91テーマソング
 
 <!-- end list -->
 
   -
     M1-3：アルバム『[K.ODA](../Page/K.ODA.md "wikilink")』より
-    M4-5：アルバム『[BETWEEN THE WORD & THE HEART](https://ja.wikipedia.org/wiki/BETWEEN_THE_WORD_&_THE_HEART "wikilink")』より
+    M4-5：アルバム『[BETWEEN THE WORD & THE HEART](../Page/BETWEEN_THE_WORD_&_THE_HEART.md "wikilink")』より
     M6-9：アルバム『[Far East Café](../Page/Far_East_Cafe_\(アルバム\).md "wikilink")』より
 
 ## クレジット
@@ -72,7 +72,7 @@
 
   - [DANN HUFF](https://ja.wikipedia.org/wiki/:en:Dann_Huff "wikilink") : guitar
   - DAVID HUNGATE : bass
-  - [JEFF PORCARO](https://ja.wikipedia.org/wiki/ジェフ・ポーカロ "wikilink") drums
+  - [JEFF PORCARO](../Page/ジェフ・ポーカロ.md "wikilink") drums
   - LENNY CASTRO : perc
   - PHIL NASH : key & syn
 
@@ -107,14 +107,14 @@
 
 ### Little Tokyo
 
-  - [YOSHIYUKI SAHASHI](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink") : guitar
+  - [YOSHIYUKI SAHASHI](../Page/佐橋佳幸.md "wikilink") : guitar
 
 ### 春風に乱れて
 
   - YOSHIYUKI SAHASHI : guitar
   - NATHAN EAST : bass
   - LUIS CONTE : perc
-  - [CHIKUZEN SATO](https://ja.wikipedia.org/wiki/佐藤竹善 "wikilink") : background vocals
+  - [CHIKUZEN SATO](../Page/佐藤竹善.md "wikilink") : background vocals
   - YASUHIRO KIDO : background vocals
   - KIYOSHI HIYAMA : background vocals
   - CHIKUZEN SATO - [SING LIKE TALKING](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")
@@ -122,7 +122,7 @@
 ### 恋は大騒ぎ
 
   - YOSHIYUKI SAHASHI : guitar
-  - [EPO](https://ja.wikipedia.org/wiki/EPO "wikilink") : background vocals
+  - [EPO](../Page/EPO.md "wikilink") : background vocals
 
 ### FAR EAST CLUB BAND SONG
 
@@ -143,12 +143,12 @@
 
   - YOSHIYUKI SAHASHI : guitar
   - NATHAN EAST : bass
-  - [MASAYUKI SUZUKI](https://ja.wikipedia.org/wiki/鈴木雅之_\(歌手\) "wikilink") : background vocals
+  - [MASAYUKI SUZUKI](../Page/鈴木雅之_\(歌手\).md "wikilink") : background vocals
   - CHIKUZEN SATO : background vocals
 
 {{-}}
 
-  - MASAYUKI SUZUKI - courtesy of [EPIC SONY](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")
+  - MASAYUKI SUZUKI - courtesy of [EPIC SONY](../Page/エピックレコードジャパン.md "wikilink")
 
 ### スタッフ
 

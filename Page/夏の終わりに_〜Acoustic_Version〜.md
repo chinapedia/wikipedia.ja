@@ -1,15 +1,15 @@
 > この記事は[ Acoustic Version](https://ja.wikipedia.org/wiki/_Acoustic_Version)から翻訳されています。
 
 
-『**夏の終わりに 〜Acoustic Version〜**』（なつのおわりに アコースティック・ヴァージョン）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[T-BOLAN](https://ja.wikipedia.org/wiki/T-BOLAN "wikilink")のアコースティックアルバム（[規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink")はROCL-6003）。[1992年](../Page/1992年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")に発売。発売元は[ROCK IT RECORDS](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメントジャパン "wikilink")。
+『**夏の終わりに 〜Acoustic Version〜**』（なつのおわりに アコースティック・ヴァージョン）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[T-BOLAN](../Page/T-BOLAN.md "wikilink")のアコースティックアルバム（[規格品番](../Page/規格品番.md "wikilink")はROCL-6003）。[1992年](../Page/1992年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")に発売。発売元は[ROCK IT RECORDS](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメントジャパン "wikilink")。
 
 T-BOLANがすでに発表していたシングル、アルバム収録曲から4曲をアコースティックアレンジにし直したものに加え、新曲「遠い恋のリフレイン」「夏の終わりに」を含む全6曲。
 
-[1993年](../Page/1993年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")には、[ZAIN RECORDSから再発売された](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")（規格品番はZACL-2003）。
+[1993年](../Page/1993年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")には、[ZAIN RECORDSから再発売された](../Page/ZAIN_RECORDS.md "wikilink")（規格品番はZACL-2003）。
 
 ## 収録曲
 
-  - 全作詞:[森友嵐士](https://ja.wikipedia.org/wiki/森友嵐士 "wikilink")、全編曲:T-BOLAN･[葉山たけし](../Page/葉山たけし.md "wikilink")
+  - 全作詞:[森友嵐士](../Page/森友嵐士.md "wikilink")、全編曲:T-BOLAN･[葉山たけし](../Page/葉山たけし.md "wikilink")
 
 <!-- end list -->
 
@@ -34,7 +34,7 @@ T-BOLANがすでに発表していたシングル、アルバム収録曲から4
       -
         3rdシングル『[JUST ILLUSION](../Page/JUST_ILLUSION.md "wikilink")』のカップリング曲。
 5.  **Heart of Gold**
-      - 作曲:[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")
+      - 作曲:[川島だりあ](../Page/川島だりあ.md "wikilink")
     <!-- end list -->
       -
         2ndシングル『[離したくはない](../Page/離したくはない.md "wikilink")』のカップリング曲。

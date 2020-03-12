@@ -1,12 +1,12 @@
 > この記事は[YUMING BRAND](https://ja.wikipedia.org/wiki/YUMING_BRAND)から翻訳されています。
 
 
-『**YUMING BRAND**』（ユーミン・ブランド）は、[荒井由実](../Page/松任谷由実.md "wikilink")（ユーミン）初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。オリジナルは[1976年](../Page/1976年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")に[東芝EMIからリリースされた](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")（[LP](../Page/レコード.md "wikilink")：ETP-72184、[CT](../Page/コンパクトカセット.md "wikilink")：ZX-1582・ZT30-128）。一時期、音源の[原盤権](../Page/原盤権.md "wikilink")の都合で[アルファレコード](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")より発売されたこともある（CD：35XA-29・32XA-125・34A2-35・ALCA-467・ALCA-9033・ALCA-5244、LP：ALR-4001、CT：ALC-501）。[2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")にLPのブックレットを復刻し、[バーニー・グランドマン](https://ja.wikipedia.org/wiki/バーニー・グランドマン "wikilink")による[デジタルリマスタリングで音質を大幅に向上したリマスタリング](https://ja.wikipedia.org/wiki/デジタルリマスター "wikilink")[CD](../Page/CD-DA.md "wikilink")（TOCT-10715）をリリース。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")よりPC配信された。
+『**YUMING BRAND**』（ユーミン・ブランド）は、[荒井由実](../Page/松任谷由実.md "wikilink")（ユーミン）初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。オリジナルは[1976年](../Page/1976年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（[LP](../Page/レコード.md "wikilink")：ETP-72184、[CT](../Page/コンパクトカセット.md "wikilink")：ZX-1582・ZT30-128）。一時期、音源の[原盤権](../Page/原盤権.md "wikilink")の都合で[アルファレコード](../Page/アルファレコード.md "wikilink")より発売されたこともある（CD：35XA-29・32XA-125・34A2-35・ALCA-467・ALCA-9033・ALCA-5244、LP：ALR-4001、CT：ALC-501）。[2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")にLPのブックレットを復刻し、[バーニー・グランドマン](https://ja.wikipedia.org/wiki/バーニー・グランドマン "wikilink")による[デジタルリマスタリングで音質を大幅に向上したリマスタリング](../Page/デジタルリマスター.md "wikilink")[CD](../Page/CD-DA.md "wikilink")（TOCT-10715）をリリース。[2005年](../Page/2005年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")よりPC配信された。
 
 ## 解説
 
   - シングル「[あの日にかえりたい](../Page/あの日にかえりたい.md "wikilink")」「[翳りゆく部屋](../Page/翳りゆく部屋.md "wikilink")」のヒット後、ユーミンがオリジナル製作を控えていたため、これらヒット曲を収録するアルバムとして発売されたシングル・ベスト。
-  - アートワークが工夫されており、[カラー](../Page/カラー.md "wikilink")[セロファン](https://ja.wikipedia.org/wiki/セロファン "wikilink")を使うとジャケットや歌詞カードの版擦れした写真を立体的に見ることができる。[LPにはジャケットの](../Page/レコード.md "wikilink")[メガネ](https://ja.wikipedia.org/wiki/メガネ "wikilink")に実際にセロファンが貼ってあり、ジャケットから切り取れるようになっていた。のちに[CD化もされたが](../Page/コンパクトディスク.md "wikilink")、CD化初期のブックレットは当時のLPジャケットをそのまま印刷されただけなので、もちろん立体的には見られない。
+  - アートワークが工夫されており、[カラー](../Page/カラー.md "wikilink")[セロファン](../Page/セロファン.md "wikilink")を使うとジャケットや歌詞カードの版擦れした写真を立体的に見ることができる。[LPにはジャケットの](../Page/レコード.md "wikilink")[メガネ](https://ja.wikipedia.org/wiki/メガネ "wikilink")に実際にセロファンが貼ってあり、ジャケットから切り取れるようになっていた。のちに[CD化もされたが](../Page/コンパクトディスク.md "wikilink")、CD化初期のブックレットは当時のLPジャケットをそのまま印刷されただけなので、もちろん立体的には見られない。
   - [CTの方が収録曲が多い](../Page/コンパクトカセット.md "wikilink")。CDはLP収録曲と同じ。
 
 ## LP収録曲
@@ -47,7 +47,7 @@
       -
         アルバム初収録。シングル「[翳りゆく部屋](../Page/翳りゆく部屋.md "wikilink")」より。album mixで収録。
 
-作詞・作曲 : 荒井由実　編曲 : [松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")、荒井由実&[キャラメルママ](../Page/ティン・パン・アレー_\(バンド\).md "wikilink")（B-3,B-4）
+作詞・作曲 : 荒井由実　編曲 : [松任谷正隆](../Page/松任谷正隆.md "wikilink")、荒井由実&[キャラメルママ](../Page/ティン・パン・アレー_\(バンド\).md "wikilink")（B-3,B-4）
 
 ## CT収録曲
 

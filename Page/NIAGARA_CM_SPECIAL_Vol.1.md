@@ -1,17 +1,17 @@
 > この記事は[NIAGARA CM SPECIAL Vol.1](https://ja.wikipedia.org/wiki/NIAGARA_CM_SPECIAL_Vol.1)から翻訳されています。
 
 
-『**NIAGARA CM SPECIAL Vol.1**』（ナイアガラシーエムスペシャル ヴォリュームワン）は、[1977年](../Page/1977年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に発売されたNIAGARA CM STARS名義による[大滝詠一の](../Page/大瀧詠一.md "wikilink")[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")。
+『**NIAGARA CM SPECIAL Vol.1**』（ナイアガラシーエムスペシャル ヴォリュームワン）は、[1977年](../Page/1977年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に発売されたNIAGARA CM STARS名義による[大滝詠一の](../Page/大瀧詠一.md "wikilink")[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")。
 
 ## 解説
 
-現在においても珍しい「CM用の楽曲だけ」を集めたアルバムで、日本で最初期に発売された「CM、ジングル集のレコード」と言われる。ほぼ全ての楽曲が1分にも満たない楽曲で占められているために、収録曲数の割に収録時間は短い。こういうアルバムは、1950〜60年代に数多くのCMソングを歌唱していた[楠トシエ](https://ja.wikipedia.org/wiki/楠トシエ "wikilink")が『みんなが知ってるコマーシャル・ソング集』をに25cmLPでリリースした程度だった。
+現在においても珍しい「CM用の楽曲だけ」を集めたアルバムで、日本で最初期に発売された「CM、ジングル集のレコード」と言われる。ほぼ全ての楽曲が1分にも満たない楽曲で占められているために、収録曲数の割に収録時間は短い。こういうアルバムは、1950〜60年代に数多くのCMソングを歌唱していた[楠トシエ](../Page/楠トシエ.md "wikilink")が『みんなが知ってるコマーシャル・ソング集』をに25cmLPでリリースした程度だった。
 
 しかし、本作は結果としては当時の[ナイアガラ・レーベル](../Page/ナイアガラ・レーベル.md "wikilink")においてトップ・セールスを記録している。この成功により、翌には[ゴダイゴ](../Page/ゴダイゴ.md "wikilink")がCMソングを集めたアルバム『[CMソング・グラフィティ](https://ja.wikipedia.org/wiki/CMソング・グラフィティ "wikilink")』を発売するなど、CMソングをレコード化することが徐々に可能になっていった。音楽界にあたえた影響及び功績は大きい。
 
 また、CMソング集には珍しく、CM未使用曲も収められている。テレビがモノラル放送であった当時においてテレビ・モノラル用に制作したCMソングをステレオにリミックスしている。大滝曰く「CMソングもちゃんとした作品として発表している」との事である。また「このCMソング制作の時期に培われた音作りが後の作品に活かされている」とも言っている。
 
-[はっぴいえんど](../Page/はっぴいえんど.md "wikilink")解散直後の初頭、大瀧が初めて手がけたCM曲「Cider'73」（[三ツ矢サイダー](https://ja.wikipedia.org/wiki/三ツ矢サイダー "wikilink")）から、暮れに録音された「Cider'77」まで、約4年間のCM曲を収録。特に〜の曲は、大瀧の作品発表の場がCMだけであったこともあり、さまざまな実験が試みられている。また、CM制作時の別名義である多羅尾伴内による詳細なライナーノーツ、曲に忠実な歌詞カード（大きな文字で「歌詞かあど」と書いており、前作『[GO\! GO\! NIAGARA](https://ja.wikipedia.org/wiki/GO!_GO!_NIAGARA "wikilink")』の初回プレス盤に歌詞カードが付けられていなかったこと踏まえ、“今回は歌詞カードがあります。歌詞をよく見て、お聴き下さい”との記述がある）が添付されていた。大瀧は25cm盤として発表したかったが叶わず、「価格だけは25cm盤並に」ということで2,000円で発売された。
+[はっぴいえんど](../Page/はっぴいえんど.md "wikilink")解散直後の初頭、大瀧が初めて手がけたCM曲「Cider'73」（[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")）から、暮れに録音された「Cider'77」まで、約4年間のCM曲を収録。特に〜の曲は、大瀧の作品発表の場がCMだけであったこともあり、さまざまな実験が試みられている。また、CM制作時の別名義である多羅尾伴内による詳細なライナーノーツ、曲に忠実な歌詞カード（大きな文字で「歌詞かあど」と書いており、前作『[GO\! GO\! NIAGARA](../Page/GO!_GO!_NIAGARA.md "wikilink")』の初回プレス盤に歌詞カードが付けられていなかったこと踏まえ、“今回は歌詞カードがあります。歌詞をよく見て、お聴き下さい”との記述がある）が添付されていた。大瀧は25cm盤として発表したかったが叶わず、「価格だけは25cm盤並に」ということで2,000円で発売された。
 
 大瀧によれば、とにかく前年（）でアルバム・ネタも出し尽くしてしまったので、何も出すものがなくなり、いよいよCMしかない、という事で発表したが、意外にも[オリコン](../Page/オリコン.md "wikilink")30位代、ミュージック・ラボ20位代にランクされるという、当時の[ナイアガラとしては皮肉なことに一番売れたアルバムとなった](../Page/ナイアガラ・レーベル.md "wikilink")（本作が売れた時も“同じCMで二度商売をした”とか、“こんなモン何で売れるんだ”という陰口は結構叩かれたという）\[1\]。「サイダー」のCMの期間（〜）が終わったこの時点で、大瀧のCM活動は一段落を迎える\[2\]。そして、ここまでがCMとしても作品としてもパワーがあった時期だったという\[3\]。
 
@@ -21,13 +21,13 @@
 
 1.  **Cider '73 '74 '75 '77**
       -
-        作詞：[伊藤アキラ](https://ja.wikipedia.org/wiki/伊藤アキラ "wikilink")、作曲：[多羅尾伴内](../Page/大瀧詠一.md "wikilink")
+        作詞：[伊藤アキラ](../Page/伊藤アキラ.md "wikilink")、作曲：[多羅尾伴内](../Page/大瀧詠一.md "wikilink")
 2.  **Cider '73 B-type〜C-type**
       -
         作詞：伊藤アキラ、作曲：多羅尾伴内
 3.  **アシアシ〜サマー・ローション**
       -
-        作詞：伊藤アキラ（アシアシ）、[杉山登志](https://ja.wikipedia.org/wiki/杉山登志 "wikilink")（サマー・ローション）、作曲：多羅尾伴内
+        作詞：伊藤アキラ（アシアシ）、[杉山登志](../Page/杉山登志.md "wikilink")（サマー・ローション）、作曲：多羅尾伴内
 4.  **若返り〜丈夫な夫婦〜コメッコ〜ココナッツ・コーン**
       -
         作詞：[博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")（若返り）、[電通](../Page/電通.md "wikilink")（丈夫な夫婦、ココナッツ・コーン）、大阪博報堂(コメッコ)、作曲：多羅尾伴内
@@ -91,7 +91,7 @@ Recorded. FEB. 26th MAR. 28th at KRC.</p></td>
 <td><p><strong>Cider '74</strong><br />
 Dr. <a href="../Page/林立夫.md" title="wikilink">林立夫</a><br />
 Bass. <a href="../Page/細野晴臣.md" title="wikilink">細野晴臣</a><br />
-Keyboards. <a href="https://ja.wikipedia.org/wiki/松任谷正隆" title="wikilink">松任谷正隆</a><br />
+Keyboards. <a href="../Page/松任谷正隆.md" title="wikilink">松任谷正隆</a><br />
 Gt. <a href="../Page/伊藤銀次.md" title="wikilink">伊藤銀次</a><br />
 Horns. 村岡建セクション<br />
 Chorus. シンガーズ・スリー &amp; <a href="../Page/シュガー・ベイブ.md" title="wikilink">シュガー・ベイブ</a><br />
@@ -110,7 +110,7 @@ Recorded. JAN. 16th, 17th at Polydor.</p></td>
 <td><p><strong>Cider '77</strong><br />
 Dr. <a href="https://ja.wikipedia.org/wiki/上原裕" title="wikilink">上原“ユカリ”裕</a><br />
 Bass. <a href="https://ja.wikipedia.org/wiki/寺尾次郎" title="wikilink">寺尾“学生アルバイト”次郎</a><br />
-Piano. <a href="https://ja.wikipedia.org/wiki/井上鑑" title="wikilink">井上鑑</a><br />
+Piano. <a href="../Page/井上鑑.md" title="wikilink">井上鑑</a><br />
 Gt. <a href="../Page/村松邦男.md" title="wikilink">村松“自家営業”邦男</a><br />
 Chorus. Jack Tones<br />
 Horns. 稲垣次郎セクション<br />
@@ -191,7 +191,7 @@ Marimba. Unknown</p></td>
 <td><p> </p></td>
 <td><p><strong>コメッコ</strong><br />
 Rhythm. ごまのはえ<br />
-Chorus. <a href="https://ja.wikipedia.org/wiki/のこいのこ" title="wikilink">のこいのこ</a> and 護摩野一家</p></td>
+Chorus. <a href="../Page/のこいのこ.md" title="wikilink">のこいのこ</a> and 護摩野一家</p></td>
 </tr>
 <tr class="even">
 <td><p> </p></td>
@@ -235,7 +235,7 @@ Marimba &amp; Percussion. イーハトヴ・田五三九<br />
 Chorus. シュガー・ベイブ<br />
 Sax. 村岡建<br />
 Tuba. Unknown<br />
-Steel. <a href="https://ja.wikipedia.org/wiki/駒沢裕城" title="wikilink">駒沢裕城</a></p></td>
+Steel. <a href="../Page/駒沢裕城.md" title="wikilink">駒沢裕城</a></p></td>
 </tr>
 <tr class="even">
 <td><p> </p></td>
@@ -249,7 +249,7 @@ Steel. <a href="https://ja.wikipedia.org/wiki/駒沢裕城" title="wikilink">駒
 Dr. 林立夫<br />
 Bass. 細野晴臣<br />
 Keyboards. <a href="../Page/今井裕.md" title="wikilink">今井</a><br />
-Chorus. <a href="../Page/山下達郎.md" title="wikilink">クマ</a> &amp; <a href="https://ja.wikipedia.org/wiki/大貫妙子" title="wikilink">ターボー</a></p></td>
+Chorus. <a href="../Page/山下達郎.md" title="wikilink">クマ</a> &amp; <a href="../Page/大貫妙子.md" title="wikilink">ターボー</a></p></td>
 </tr>
 <tr class="even">
 <td><p> </p></td>
@@ -346,9 +346,9 @@ Chorus. Jack-Tones</p></td>
 <tbody>
 <tr class="odd">
 <td><p>Special thanks to :</p></td>
-<td><p>ON Associates、<a href="https://ja.wikipedia.org/wiki/フジパシフィックミュージック" title="wikilink">P.M.P.</a><br />
+<td><p>ON Associates、<a href="../Page/フジパシフィックミュージック.md" title="wikilink">P.M.P.</a><br />
 <a href="../Page/電通.md" title="wikilink">電通</a>、<a href="https://ja.wikipedia.org/wiki/博報堂" title="wikilink">博報堂</a>、<a href="../Page/アサヒビール.md" title="wikilink">アサヒビール</a>、<br />
-<a href="https://ja.wikipedia.org/wiki/日本製紙クレシア" title="wikilink">十條キンバリー</a>、<a href="https://ja.wikipedia.org/wiki/シチズン時計" title="wikilink">シチズン</a>、<br />
+<a href="../Page/日本製紙クレシア.md" title="wikilink">十條キンバリー</a>、<a href="../Page/シチズン時計.md" title="wikilink">シチズン</a>、<br />
 <a href="../Page/花王.md" title="wikilink">花王</a>石鹼</p></td>
 </tr>
 </tbody>
@@ -371,7 +371,7 @@ For The Niagara Enterprises, Inc.</p></td>
 ## 関連作品
 
   - ライジングチャートバンド「ナイアガラ・CM BOX」（発売） - 大滝詠一が手がけたCM曲をメドレー演奏した楽曲（使用曲は「A面で恋をして」「Cider '73」「カナリア諸島にて」「大関」「風立ちぬ」「ドレッサー」「君は天然色」「Cider '74」「ムーチュ」）。化粧品のCMソングをメドレー演奏した「化粧なおしでメイク・ダウン?」とのカップリングでシングルレコード（CBS・ソニー 07SH 1227）として発売された。
-  - [のこいのこ](https://ja.wikipedia.org/wiki/のこいのこ "wikilink")『のこいのこ大全』（発売） - 『ナイアガラCMスペシャル』と同じく、CM用の楽曲だけを集めたアルバム。「コメッコ」の別ヴァージョンを収録\[4\]。
+  - [のこいのこ](../Page/のこいのこ.md "wikilink")『のこいのこ大全』（発売） - 『ナイアガラCMスペシャル』と同じく、CM用の楽曲だけを集めたアルバム。「コメッコ」の別ヴァージョンを収録\[4\]。
 
 ## リリース履歴
 
@@ -382,7 +382,7 @@ For The Niagara Enterprises, Inc.</p></td>
 <th><p>発売日</p></th>
 <th><p>リリース</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">品番</a></p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -402,7 +402,7 @@ For The Niagara Enterprises, Inc.</p></td>
 <td><p>ナイアガラ ⁄ <a href="https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_(日本)" title="wikilink">CBSソニー</a></p></td>
 <td><p>LP</p></td>
 <td><p>23AH 1244 (NGLP-509,510-CM)</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/NIAGARA_CM_SPECIAL_Vol.1_2nd_Issue" title="wikilink">NIAGARA CM SPECIAL Vol.1 2nd Issue</a>』<br />
+<td><p>『<a href="../Page/NIAGARA_CM_SPECIAL_Vol.1_2nd_Issue.md" title="wikilink">NIAGARA CM SPECIAL Vol.1 2nd Issue</a>』<br />
 イエロー・レーベルに変更。25cm盤になり、解説と歌詞かあどが省略される。また、新曲追加、差し替えなどがあり、“2nd Issue”となる。</p></td>
 </tr>
 <tr class="odd">
@@ -428,7 +428,7 @@ For The Niagara Enterprises, Inc.</p></td>
 <td><p>LP<br />
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a></p></td>
 <td><p>15AH 1515 (NGLP-537,538-CM)</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/NIAGARA_CM_SPECIAL_Vol.2" title="wikilink">NIAGARA CM SPECIAL Vol.2</a>』<br />
+<td><p>『<a href="../Page/NIAGARA_CM_SPECIAL_Vol.2.md" title="wikilink">NIAGARA CM SPECIAL Vol.2</a>』<br />
 30センチ45回転盤。</p></td>
 <td></td>
 </tr>

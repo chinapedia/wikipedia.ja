@@ -1,7 +1,7 @@
 > この記事は[LOOZ](https://ja.wikipedia.org/wiki/LOOZ)から翻訳されています。
 
 
-『**LOOZ**』（ルーズ）は [1993年](../Page/1993年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink") に[ZAIN RECORDS](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink") から発売された[T-BOLAN](https://ja.wikipedia.org/wiki/T-BOLAN "wikilink")の5枚目のアルバム。
+『**LOOZ**』（ルーズ）は [1993年](../Page/1993年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink") に[ZAIN RECORDS](../Page/ZAIN_RECORDS.md "wikilink") から発売された[T-BOLAN](../Page/T-BOLAN.md "wikilink")の5枚目のアルバム。
 
 ## 概要
 
@@ -14,7 +14,7 @@
 ## 収録曲
 
 1.  **[わがままに抱き合えたなら](../Page/わがままに抱き合えたなら.md "wikilink")**
-      - 作詞・作曲:森友嵐士 編曲:T-BOLAN・[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+      - 作詞・作曲:森友嵐士 編曲:T-BOLAN・[明石昌夫](../Page/明石昌夫.md "wikilink")
     <!-- end list -->
       -
         10thシングル。
@@ -22,7 +22,7 @@
       - 作詞・作曲:森友嵐士 編曲:T-BOLAN・明石昌夫
     <!-- end list -->
       -
-        ツアー中に[鹿児島空港](https://ja.wikipedia.org/wiki/鹿児島空港 "wikilink")へ向かうバスの中でフレーズが浮かび、その場でラジカセに吹き込んでおいたものを元にスタジオで仕上げている。悪女をイメージさせるウィスパーは[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")。コーラスで[生沢祐一](https://ja.wikipedia.org/wiki/生沢祐一 "wikilink")、[オルガン](../Page/オルガン.md "wikilink")で[小島良喜](../Page/小島良喜.md "wikilink")が参加している。
+        ツアー中に[鹿児島空港](../Page/鹿児島空港.md "wikilink")へ向かうバスの中でフレーズが浮かび、その場でラジカセに吹き込んでおいたものを元にスタジオで仕上げている。悪女をイメージさせるウィスパーは[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")。コーラスで[生沢祐一](https://ja.wikipedia.org/wiki/生沢祐一 "wikilink")、[オルガン](../Page/オルガン.md "wikilink")で[小島良喜](../Page/小島良喜.md "wikilink")が参加している。
 3.  **Dear**
       - 作詞:森友嵐士 作曲:五味孝氏 編曲:T-BOLAN・明石昌夫
     <!-- end list -->
@@ -52,7 +52,7 @@
       - 作詞・作曲:森友嵐士 編曲:T-BOLAN・明石昌夫
     <!-- end list -->
       -
-        [ティンバレス](https://ja.wikipedia.org/wiki/ティンバレス "wikilink")によるラテン・パーカッションがフューチャーされ、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")調の曲に仕上がっている。
+        [ティンバレス](../Page/ティンバレス.md "wikilink")によるラテン・パーカッションがフューチャーされ、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")調の曲に仕上がっている。
 9.  **Rockin' In The Life**
       - 作詞・作曲:森友嵐士 編曲:T-BOLAN・明石昌夫
     <!-- end list -->
@@ -62,7 +62,7 @@
       - 作詞:森友嵐士 作曲:五味孝氏 編曲:T-BOLAN・明石昌夫
     <!-- end list -->
       -
-        コーラスで[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")が参加。
+        コーラスで[川島だりあ](../Page/川島だりあ.md "wikilink")が参加。
 11. **真夜中のLove Song**
       - 作詞・作曲:森友嵐士 編曲:T-BOLAN
     <!-- end list -->
@@ -73,8 +73,8 @@
 
   - [坪倉唯子](../Page/坪倉唯子.md "wikilink") - コーラス
   - 生沢佑一 from [TWINZER](../Page/TWINZER.md "wikilink") - コーラス
-  - [川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink") from [FEEL SO BAD](../Page/FEEL_SO_BAD.md "wikilink") - コーラス
-  - 小野塚晃 from [DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink") - オルガン・ピアノ
+  - [川島だりあ](../Page/川島だりあ.md "wikilink") from [FEEL SO BAD](../Page/FEEL_SO_BAD.md "wikilink") - コーラス
+  - 小野塚晃 from [DIMENSION](../Page/DIMENSION.md "wikilink") - オルガン・ピアノ
   - 小島良喜 - オルガン・ピアノ
 
 [Category:T-BOLANのアルバム](https://ja.wikipedia.org/wiki/Category:T-BOLANのアルバム "wikilink") [Category:1993年のアルバム](https://ja.wikipedia.org/wiki/Category:1993年のアルバム "wikilink")

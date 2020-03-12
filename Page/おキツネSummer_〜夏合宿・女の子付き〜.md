@@ -1,7 +1,7 @@
 > この記事は[Summer ](https://ja.wikipedia.org/wiki/Summer_)から翻訳されています。
 
 
-『**おキツネSummer 〜夏合宿・女の子付き〜**』（おきつねサマー なつがっしゅく おんなのこつき）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")に株式会社[ネクストン](../Page/ネクストン.md "wikilink")のブランド・SCORE【しゅこあ\!】から発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")におまけシナリオがホームページ上に公開されている。
+『**おキツネSummer 〜夏合宿・女の子付き〜**』（おきつねサマー なつがっしゅく おんなのこつき）は、[2006年](../Page/2006年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に株式会社[ネクストン](../Page/ネクストン.md "wikilink")のブランド・SCORE【しゅこあ\!】から発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")におまけシナリオがホームページ上に公開されている。
 
 ## ストーリー
 
@@ -22,7 +22,7 @@
 
 <!-- end list -->
 
-  - キツネ　 [声](../Page/声優.md "wikilink")：[みる](https://ja.wikipedia.org/wiki/みる "wikilink")
+  - キツネ　 [声](../Page/声優.md "wikilink")：[みる](../Page/みる.md "wikilink")
 
 <!-- end list -->
 
@@ -39,7 +39,7 @@
 
 <!-- end list -->
 
-  - 楠木由美　（くすのき ゆみ）　声：[桜川未央](https://ja.wikipedia.org/wiki/桜川未央 "wikilink")
+  - 楠木由美　（くすのき ゆみ）　声：[桜川未央](../Page/桜川未央.md "wikilink")
 
 <!-- end list -->
 
@@ -48,7 +48,7 @@
 
 <!-- end list -->
 
-  - 朝比奈一子　（あさひな いちこ）　声：[佐本二厘](https://ja.wikipedia.org/wiki/佐本二厘 "wikilink")
+  - 朝比奈一子　（あさひな いちこ）　声：[佐本二厘](../Page/佐本二厘.md "wikilink")
 
 <!-- end list -->
 
@@ -66,7 +66,7 @@
 
 <!-- end list -->
 
-  - 桑原詩音　（くわはら しおん）　声：[芹園みや](https://ja.wikipedia.org/wiki/芹園みや "wikilink")
+  - 桑原詩音　（くわはら しおん）　声：[芹園みや](../Page/芹園みや.md "wikilink")
 
 <!-- end list -->
 
@@ -75,7 +75,7 @@
 
 <!-- end list -->
 
-  - 楠木加代　（くすのき かよ）　声：[如月葵](https://ja.wikipedia.org/wiki/如月葵 "wikilink")
+  - 楠木加代　（くすのき かよ）　声：[如月葵](../Page/如月葵.md "wikilink")
 
 <!-- end list -->
 
@@ -103,7 +103,7 @@
             歌:[KIRIKO](https://ja.wikipedia.org/wiki/KIRIKO "wikilink")
   - プログラム:播磨与一
   - 演出:中本穂積、下地和彦、おんたま、Feeler
-  - ムービー製作:パリオ([Mju:z](https://ja.wikipedia.org/wiki/Mju:z "wikilink"))
+  - ムービー製作:パリオ([Mju:z](../Page/Mju:z.md "wikilink"))
 
 ## 関連項目
 

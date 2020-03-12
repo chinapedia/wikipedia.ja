@@ -1,13 +1,13 @@
 > この記事は[AAB\&](https://ja.wikipedia.org/wiki/AAB\&)から翻訳されています。
 
 
-『**AABニュース&ウェザー**』（エーエービー ニュースアンドウェザー）は、[秋田朝日放送](../Page/秋田朝日放送.md "wikilink")が[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")の開局以来放送している[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")。
+『**AABニュース&ウェザー**』（エーエービー ニュースアンドウェザー）は、[秋田朝日放送](../Page/秋田朝日放送.md "wikilink")が[1992年](../Page/1992年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")の開局以来放送している[スポットニュース](../Page/スポットニュース.md "wikilink")。
 
 タイトルが示す通り、[秋田県](../Page/秋田県.md "wikilink")内の[ニュース](../Page/ニュース.md "wikilink")と[天気予報](../Page/天気予報.md "wikilink")を伝えている。
 
 ## 放送時間
 
-  - 月曜 - 金曜 19:54 - 20:00 （ただし、2時間の[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")などが放送される日には休止することが多い）
+  - 月曜 - 金曜 19:54 - 20:00 （ただし、2時間の[特別番組](../Page/特別番組.md "wikilink")などが放送される日には休止することが多い）
   - 開局当時の放送時間は20:54 - 21:00だった。
 
 ## 担当アナウンサー
@@ -32,7 +32,7 @@
   - [AABステーションEYE](../Page/AABステーションEYE.md "wikilink")
   - [チャンネルeiei](https://ja.wikipedia.org/wiki/チャンネルeiei "wikilink")
   - [チャンネルeiei金曜版](https://ja.wikipedia.org/wiki/チャンネルeiei金曜版 "wikilink")
-  - [スーパーJチャンネルあきた](https://ja.wikipedia.org/wiki/スーパーJチャンネルあきた "wikilink")
+  - [スーパーJチャンネルあきた](../Page/スーパーJチャンネルあきた.md "wikilink")
 
 ## 外部リンク
 

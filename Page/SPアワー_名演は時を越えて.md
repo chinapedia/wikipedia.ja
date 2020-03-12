@@ -1,11 +1,11 @@
 > この記事は[SP ](https://ja.wikipedia.org/wiki/SP_)から翻訳されています。
 
 
-**SPアワー 名演は時を越えて**（エスピーアワー めいえんはときをこえて）は、[ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink")で、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで放送されていた番組。2006年[9月29日](../Page/9月29日.md "wikilink")までは、「**SPアワー 名曲は時を越えて**」というタイトルだった。また、一部の[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")局でもネットされていた。
+**SPアワー 名演は時を越えて**（エスピーアワー めいえんはときをこえて）は、[ミュージックバード](../Page/ミュージックバード.md "wikilink")で、[2006年](../Page/2006年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで放送されていた番組。2006年[9月29日](../Page/9月29日.md "wikilink")までは、「**SPアワー 名曲は時を越えて**」というタイトルだった。また、一部の[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")局でもネットされていた。
 
 ## 概要
 
-[手島里華](https://ja.wikipedia.org/wiki/手島里華 "wikilink")、[磯貝建文](https://ja.wikipedia.org/wiki/磯貝建文 "wikilink")をパーソナリティとして、磯貝自身が経営する東京・銀座の蓄音機＆ＳＰレコード専門店｢シェルマン」の協力により、シェルマン店内で演奏する蓄音機でSPレコードを味わう。毎回、テーマに沿った音楽が繰り広げられる。
+[手島里華](../Page/手島里華.md "wikilink")、[磯貝建文](https://ja.wikipedia.org/wiki/磯貝建文 "wikilink")をパーソナリティとして、磯貝自身が経営する東京・銀座の蓄音機＆ＳＰレコード専門店｢シェルマン」の協力により、シェルマン店内で演奏する蓄音機でSPレコードを味わう。毎回、テーマに沿った音楽が繰り広げられる。
 
 ### 放送時間
 
@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")-2006年[9月29日](../Page/9月29日.md "wikilink") - 毎週金曜日 26:00-27:00（JST）
+  - [2006年](../Page/2006年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")-2006年[9月29日](../Page/9月29日.md "wikilink") - 毎週金曜日 26:00-27:00（JST）
 
 <!-- end list -->
 

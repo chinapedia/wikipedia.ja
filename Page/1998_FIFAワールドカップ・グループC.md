@@ -69,7 +69,7 @@
 </tbody>
 </table>
 
-すべてフランス時刻([CET](https://ja.wikipedia.org/wiki/中央ヨーロッパ時間 "wikilink"))
+すべてフランス時刻([CET](../Page/中央ヨーロッパ時間.md "wikilink"))
 
 -----
 
@@ -84,6 +84,6 @@
 ## 関連項目
 
   - [1998 FIFAワールドカップ](../Page/1998_FIFAワールドカップ.md "wikilink")
-  - [FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")
+  - [FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")
 
 [Category:1998_FIFAワールドカップ](https://ja.wikipedia.org/wiki/Category:1998_FIFAワールドカップ "wikilink")

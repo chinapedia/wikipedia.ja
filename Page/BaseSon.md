@@ -3,9 +3,9 @@
 
 **BaseSon**（ベースソン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[ネクストン](../Page/ネクストン.md "wikilink")(NEXTON)傘下の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")[ブランド](../Page/ブランド.md "wikilink")。
 
-[2002年](../Page/2002年.md "wikilink")、同じネクストンのブランド[Tacticsの作品](../Page/Tactics_\(ブランド\).md "wikilink")『[ONE 〜輝く季節へ〜](../Page/ONE_〜輝く季節へ〜.md "wikilink")』の姉妹作『[ONE2 〜永遠の約束〜](https://ja.wikipedia.org/wiki/ONE2_〜永遠の約束〜 "wikilink")』にて[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。[2007年](../Page/2007年.md "wikilink")の第5作『[恋姫†無双 〜ドキッ☆乙女だらけの三国志演義〜](../Page/恋姫†無双_〜ドキッ☆乙女だらけの三国志演義〜.md "wikilink")』は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")度の[日本美少女ゲーム広告賞](https://ja.wikipedia.org/wiki/日本美少女ゲーム広告賞 "wikilink")に選出され、[テレビアニメ化もされた](https://ja.wikipedia.org/wiki/恋姫†無双_\(アニメ\) "wikilink")。
+[2002年](../Page/2002年.md "wikilink")、同じネクストンのブランド[Tacticsの作品](../Page/Tactics_\(ブランド\).md "wikilink")『[ONE 〜輝く季節へ〜](../Page/ONE_〜輝く季節へ〜.md "wikilink")』の姉妹作『[ONE2 〜永遠の約束〜](https://ja.wikipedia.org/wiki/ONE2_〜永遠の約束〜 "wikilink")』にて[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。[2007年](../Page/2007年.md "wikilink")の第5作『[恋姫†無双 〜ドキッ☆乙女だらけの三国志演義〜](../Page/恋姫†無双_〜ドキッ☆乙女だらけの三国志演義〜.md "wikilink")』は[2006年](../Page/2006年.md "wikilink")度の[日本美少女ゲーム広告賞](../Page/日本美少女ゲーム広告賞.md "wikilink")に選出され、[テレビアニメ化もされた](https://ja.wikipedia.org/wiki/恋姫†無双_\(アニメ\) "wikilink")。
 
-2007年には女性向け[ボーイズラブゲーム](https://ja.wikipedia.org/wiki/ボーイズラブゲーム "wikilink")を制作する姉妹ブランド・**BaseSon SPICE\***（ベースソン スパイス）も創設。同年12月21日に第1作『[新婚さん 〜Sweet Sweet honeymoon〜](https://ja.wikipedia.org/wiki/新婚さん_〜Sweet_Sweet_honeymoon〜 "wikilink")』が発売された。
+2007年には女性向け[ボーイズラブゲーム](../Page/ボーイズラブゲーム.md "wikilink")を制作する姉妹ブランド・**BaseSon SPICE\***（ベースソン スパイス）も創設。同年12月21日に第1作『[新婚さん 〜Sweet Sweet honeymoon〜](https://ja.wikipedia.org/wiki/新婚さん_〜Sweet_Sweet_honeymoon〜 "wikilink")』が発売された。
 
 現在のところ、BaseSon/BaseSon SPICE\*いずれの作品も[片桐雛太](https://ja.wikipedia.org/wiki/片桐雛太 "wikilink")が[原画](../Page/原画.md "wikilink")を担当しており、それぞれの公式ウェブサイト上では『週刊雛太屋』『雛太屋 【男祭り編】』という日記が連載されている。
 
@@ -17,7 +17,7 @@
       - ONE2 〜永遠の約束〜 with VOICE（2003年4月25日・音声のみでなく原画・シナリオも追加されている）
   - [屍姫と羊と嗤う月](https://ja.wikipedia.org/wiki/屍姫と羊と嗤う月 "wikilink")（2003年8月29日）
   - [夕緋ノ向コウ側](https://ja.wikipedia.org/wiki/夕緋ノ向コウ側 "wikilink")（2004年10月1日）
-  - [春恋\*乙女 〜乙女の園でごきげんよう。〜](https://ja.wikipedia.org/wiki/春恋*乙女_〜乙女の園でごきげんよう。〜 "wikilink")（2006年1月27日）
+  - [春恋\*乙女 〜乙女の園でごきげんよう。〜](../Page/春恋*乙女_〜乙女の園でごきげんよう。〜.md "wikilink")（2006年1月27日）
   - [恋姫シリーズ](https://ja.wikipedia.org/wiki/恋姫シリーズ "wikilink")
       - 恋姫†無双シリーズ
           - [恋姫†無双 〜ドキッ☆乙女だらけの三国志演義〜](../Page/恋姫†無双_〜ドキッ☆乙女だらけの三国志演義〜.md "wikilink")（2007年1月26日）

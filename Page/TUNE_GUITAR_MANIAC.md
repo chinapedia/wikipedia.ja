@@ -13,15 +13,15 @@
 
 ### 国内
 
-  - [鳴瀬喜博](https://ja.wikipedia.org/wiki/鳴瀬喜博 "wikilink")（[カシオペアなど](../Page/カシオペア_\(バンド\).md "wikilink")）
-  - [瞬火](https://ja.wikipedia.org/wiki/瞬火 "wikilink")（[陰陽座](https://ja.wikipedia.org/wiki/陰陽座 "wikilink")）
-  - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+  - [鳴瀬喜博](../Page/鳴瀬喜博.md "wikilink")（[カシオペアなど](../Page/カシオペア_\(バンド\).md "wikilink")）
+  - [瞬火](../Page/瞬火.md "wikilink")（[陰陽座](../Page/陰陽座.md "wikilink")）
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")
   - 森田悠介 (ai kuwabara trio project など)
 
 ### 海外
 
-  - [ロジャー・グローヴァー](https://ja.wikipedia.org/wiki/ロジャー・グローヴァー "wikilink")（[ディープ・パープル](../Page/ディープ・パープル.md "wikilink") など）
-  - [グレッグ・レイク](https://ja.wikipedia.org/wiki/グレッグ・レイク "wikilink") （[エマーソン・レイク・アンド・パーマー](../Page/エマーソン・レイク・アンド・パーマー.md "wikilink")など）
+  - [ロジャー・グローヴァー](../Page/ロジャー・グローヴァー.md "wikilink")（[ディープ・パープル](../Page/ディープ・パープル.md "wikilink") など）
+  - [グレッグ・レイク](../Page/グレッグ・レイク.md "wikilink") （[エマーソン・レイク・アンド・パーマー](../Page/エマーソン・レイク・アンド・パーマー.md "wikilink")など）
 
 ## 外部リンク
 

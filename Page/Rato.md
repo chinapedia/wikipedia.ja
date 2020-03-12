@@ -1,25 +1,25 @@
 > この記事は[Rato](https://ja.wikipedia.org/wiki/Rato)から翻訳されています。
 
 
-**rato**（らと）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメーター](https://ja.wikipedia.org/wiki/アニメーター "wikilink")（[スタジオたくらんけ](https://ja.wikipedia.org/wiki/スタジオたくらんけ "wikilink")出身）。[イラストレーター](../Page/イラストレーター.md "wikilink")としても活動。フリー。
+**rato**（らと）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメーター](../Page/アニメーター.md "wikilink")（[スタジオたくらんけ](../Page/スタジオたくらんけ.md "wikilink")出身）。[イラストレーター](../Page/イラストレーター.md "wikilink")としても活動。フリー。
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")生まれ、[鳥取県](../Page/鳥取県.md "wikilink")[米子市](../Page/米子市.md "wikilink")育ち。大学入学以降より東京都在住。ペンネームの**rato**は初期の頃は読み方を**れいと**としていた。
+[東京都](../Page/東京都.md "wikilink")生まれ、[鳥取県](../Page/鳥取県.md "wikilink")[米子市](../Page/米子市.md "wikilink")育ち。大学入学以降より東京都在住。ペンネームの**rato**は初期の頃は読み方を**れいと**としていた。
 
-[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")以降、主に[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")を手がけている。
+[2004年](../Page/2004年.md "wikilink")以降、主に[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")を手がけている。
 
 アニメーション関係の仕事では**伊藤良太**名義で活動している。
 
 ## 作品
 
-  - [白詰草話](https://ja.wikipedia.org/wiki/白詰草話 "wikilink")（[Littlewitch](https://ja.wikipedia.org/wiki/Littlewitch "wikilink")、アニメーション\[1\]）
-  - [ロストカラーズ](https://ja.wikipedia.org/wiki/ロストカラーズ "wikilink")（[自転車創業](https://ja.wikipedia.org/wiki/自転車創業 "wikilink")、キャラクターデザイン・原画）
+  - [白詰草話](../Page/白詰草話.md "wikilink")（[Littlewitch](../Page/Littlewitch.md "wikilink")、アニメーション\[1\]）
+  - [ロストカラーズ](../Page/ロストカラーズ.md "wikilink")（[自転車創業](../Page/自転車創業.md "wikilink")、キャラクターデザイン・原画）
   - [ToHeart2](https://ja.wikipedia.org/wiki/ToHeart2 "wikilink")（[アクアプラス](../Page/アクアプラス.md "wikilink")、OP原画）
-  - [怪盗ルソー](https://ja.wikipedia.org/wiki/怪盗ルソー "wikilink")（[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")、キャラクターデザイン・原画）
+  - [怪盗ルソー](../Page/怪盗ルソー.md "wikilink")（[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")、キャラクターデザイン・原画）
   - [ひぐらしのなく頃に祭](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に祭 "wikilink")（[アルケミスト](../Page/アルケミスト_\(企業\).md "wikilink")、キャラクターデザイン・原画）
   - ひぐらしのなく頃に祭 カケラ遊び（アルケミスト）
-  - [ハヤテのごとく\!](https://ja.wikipedia.org/wiki/ハヤテのごとく! "wikilink") トレーディングカードゲーム（[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")、イラスト）
+  - [ハヤテのごとく\!](../Page/ハヤテのごとく!.md "wikilink") トレーディングカードゲーム（[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")、イラスト）
   - 麻雀でいこう！（Contents Creation、1キャラデザイン）
-  - [ひぐらしのなく頃に絆](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に絆 "wikilink")（アルケミスト）
+  - [ひぐらしのなく頃に絆](../Page/ひぐらしのなく頃に絆.md "wikilink")（アルケミスト）
   - [アイドルマスターシリーズ](https://ja.wikipedia.org/wiki/アイドルマスターシリーズ "wikilink")（バンダイナムコゲームス、CDジャケット・応援イラスト\[2\]\[3\]など）
   - ひぐらしのなく頃に粋（アルケミスト）
 

@@ -22,7 +22,7 @@
 ## 収録アルバム
 
   - [thermo plastic](https://ja.wikipedia.org/wiki/thermo_plastic "wikilink") (\#1,2)
-  - [SELF PORTRAIT](https://ja.wikipedia.org/wiki/SELF_PORTRAIT_\(hitomiのアルバム\) "wikilink") (\#1)
+  - [SELF PORTRAIT](../Page/SELF_PORTRAIT_\(hitomiのアルバム\).md "wikilink") (\#1)
   - [peace](https://ja.wikipedia.org/wiki/peace_\(hitomiのアルバム\) "wikilink") (\#1)
 
 [Category:hitomiの楽曲](https://ja.wikipedia.org/wiki/Category:hitomiの楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:COUNT_DOWN_TV](https://ja.wikipedia.org/wiki/Category:COUNT_DOWN_TV "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")

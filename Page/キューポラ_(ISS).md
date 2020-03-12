@@ -9,9 +9,9 @@
 
 [Exterior_of_Cupola_-_Exp28.jpg](https://ja.wikipedia.org/wiki/File:Exterior_of_Cupola_-_Exp28.jpg "fig:Exterior_of_Cupola_-_Exp28.jpg")
 
-設計と製造はイタリアの[アレーニア・アエロナウティカ](https://ja.wikipedia.org/wiki/アレーニア・アエロナウティカ "wikilink")社が行い、直径は約2m、高さは約1.5mである。横窓が6枚と[天窓](https://ja.wikipedia.org/wiki/天窓 "wikilink")があり、それぞれの窓には[流星塵](https://ja.wikipedia.org/wiki/流星塵 "wikilink")や[スペースデブリ](../Page/スペースデブリ.md "wikilink")による損傷を防ぐための開閉式のシャッターが取り付けられている。キューポラには、熱制御システム、音声端末装置、電力供給端末、ビデオインタフェース、[MIL-STD-1553](https://ja.wikipedia.org/wiki/MIL-STD-1553 "wikilink")バスインターフェイスを持つ。また、[カナダアーム2](https://ja.wikipedia.org/wiki/カナダアーム2 "wikilink")を制御する2台のロボットアーム操作盤 (Robotic Work Station:RWS) のうちの1台が[デスティニーから移設される](https://ja.wikipedia.org/wiki/デスティニー_\(ISS\) "wikilink")。
+設計と製造はイタリアの[アレーニア・アエロナウティカ](https://ja.wikipedia.org/wiki/アレーニア・アエロナウティカ "wikilink")社が行い、直径は約2m、高さは約1.5mである。横窓が6枚と[天窓](../Page/天窓.md "wikilink")があり、それぞれの窓には[流星塵](../Page/流星塵.md "wikilink")や[スペースデブリ](../Page/スペースデブリ.md "wikilink")による損傷を防ぐための開閉式のシャッターが取り付けられている。キューポラには、熱制御システム、音声端末装置、電力供給端末、ビデオインタフェース、[MIL-STD-1553](https://ja.wikipedia.org/wiki/MIL-STD-1553 "wikilink")バスインターフェイスを持つ。また、[カナダアーム2](../Page/カナダアーム2.md "wikilink")を制御する2台のロボットアーム操作盤 (Robotic Work Station:RWS) のうちの1台が[デスティニーから移設される](../Page/デスティニー_\(ISS\).md "wikilink")。
 
-キューポラの打ち上げは2010年2月8日の[STS-130](https://ja.wikipedia.org/wiki/STS-130 "wikilink")で、[トランクウィリティー](https://ja.wikipedia.org/wiki/トランクウィリティー_\(ISS\) "wikilink")（ノード3）の前方（ISS上での左舷）に取り付けた状態で打ち上げられ、軌道上でトランクウィリティーが[ユニティへ接続された後に地球側に移動された](https://ja.wikipedia.org/wiki/ユニティ_\(ISS\) "wikilink")。
+キューポラの打ち上げは2010年2月8日の[STS-130](https://ja.wikipedia.org/wiki/STS-130 "wikilink")で、[トランクウィリティー](https://ja.wikipedia.org/wiki/トランクウィリティー_\(ISS\) "wikilink")（ノード3）の前方（ISS上での左舷）に取り付けた状態で打ち上げられ、軌道上でトランクウィリティーが[ユニティへ接続された後に地球側に移動された](../Page/ユニティ_\(ISS\).md "wikilink")。
 
 窓ガラスは3層構造になっており、損傷した場合は軌道上での交換も可能な設計である。シャッターは軌道上でデブリから窓ガラスの損傷を防ぐためと、内部の温度を維持するために、通常は閉めたままにされ、使用するときのみ手動操作で開閉される。
 

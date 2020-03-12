@@ -30,8 +30,8 @@
 
 ## ミッションの概要
 
-  - [SRTM](https://ja.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission "wikilink") (Shuttle Radar Topography Mission)
-    シャトルに搭載した[合成開口レーダー](https://ja.wikipedia.org/wiki/合成開口レーダー "wikilink")で地表を撮影し、高精度の立体地図を作成。
+  - [SRTM](../Page/Shuttle_Radar_Topography_Mission.md "wikilink") (Shuttle Radar Topography Mission)
+    シャトルに搭載した[合成開口レーダー](../Page/合成開口レーダー.md "wikilink")で地表を撮影し、高精度の立体地図を作成。
   -
     中学生などがシャトルに搭載したデジタルカメラを遠隔操作して地球を撮影する教育プログラム。
 

@@ -1,9 +1,9 @@
 > この記事は[ in  ODAIBA RAINBOW STATION](https://ja.wikipedia.org/wiki/_in__ODAIBA_RAINBOW_STATION)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/画像:DECKS_TOKYO_BAY_STUDIO.jpg "wikilink") **サテライトボイス in お台場 ODAIBA RAINBOW STATION**（サテライトボイス イン おだいば オダイバ レインボー ステーション）は、[ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink")・[SPACE DIVAで放送されている番組](https://ja.wikipedia.org/wiki/SPACE_DIVA "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")3月までは、「**お台場レインボーステーション**」（おだいばレインボーステーション）というタイトルだった。
+[thumb](https://ja.wikipedia.org/wiki/画像:DECKS_TOKYO_BAY_STUDIO.jpg "wikilink") **サテライトボイス in お台場 ODAIBA RAINBOW STATION**（サテライトボイス イン おだいば オダイバ レインボー ステーション）は、[ミュージックバード](../Page/ミュージックバード.md "wikilink")・[SPACE DIVAで放送されている番組](https://ja.wikipedia.org/wiki/SPACE_DIVA "wikilink")。[2007年](../Page/2007年.md "wikilink")3月までは、「**お台場レインボーステーション**」（おだいばレインボーステーション）というタイトルだった。
 
-全国48局の[コミュニティFM局でもネットされている](../Page/コミュニティ放送.md "wikilink")。かつては[デックス東京ビーチ](https://ja.wikipedia.org/wiki/デックス東京ビーチ "wikilink")の[サテライトスタジオ](https://ja.wikipedia.org/wiki/サテライトスタジオ "wikilink")より生放送されていたが、現在はTOKYO FMが本社を構える半蔵門・FMセンター4Fのミュージックバード専用スタジオより生放送している。（番組内では「TOKYO FMミュージックバードスタジオ」と呼称しているが、TOKYO FMでの放送はない。）また、[CAN SYSTEMにて専用チャンネルも開始され](https://ja.wikipedia.org/wiki/CAN_SYSTEM "wikilink")、3時間の番組を24時間リピート放送。金曜日の放送は、フジテレビラボLLCが運営する動画サイト[ワッチミー\!TV](https://ja.wikipedia.org/wiki/ワッチミー!TV "wikilink")内の「**お台場チャンネル**」にて動画のライブ配信をしている。
+全国48局の[コミュニティFM局でもネットされている](../Page/コミュニティ放送.md "wikilink")。かつては[デックス東京ビーチ](../Page/デックス東京ビーチ.md "wikilink")の[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")より生放送されていたが、現在はTOKYO FMが本社を構える半蔵門・FMセンター4Fのミュージックバード専用スタジオより生放送している。（番組内では「TOKYO FMミュージックバードスタジオ」と呼称しているが、TOKYO FMでの放送はない。）また、[CAN SYSTEMにて専用チャンネルも開始され](https://ja.wikipedia.org/wiki/CAN_SYSTEM "wikilink")、3時間の番組を24時間リピート放送。金曜日の放送は、フジテレビラボLLCが運営する動画サイト[ワッチミー\!TV](../Page/ワッチミー!TV.md "wikilink")内の「**お台場チャンネル**」にて動画のライブ配信をしている。
 
 ## 概要
 
@@ -15,8 +15,8 @@
 
 <!-- end list -->
 
-  - {stub}～[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月28日](../Page/7月28日.md "wikilink") - 毎週金曜日 17:00～19:00（JST）
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月4日](../Page/8月4日.md "wikilink")～[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月31日](../Page/3月31日.md "wikilink") - 毎週金曜日 17:00～19:00、毎週土曜日 22:00～23:55（JST）
+  - {stub}～[2006年](../Page/2006年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink") - 毎週金曜日 17:00～19:00（JST）
+  - [2006年](../Page/2006年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")～[2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") - 毎週金曜日 17:00～19:00、毎週土曜日 22:00～23:55（JST）
 
 <!-- end list -->
 
@@ -24,7 +24,7 @@
 
 <!-- end list -->
 
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")～[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月25日](../Page/12月25日.md "wikilink") - 毎週金曜日 20:00～20:55、毎週土曜日 22:00～23:55（JST）
+  - [2007年](../Page/2007年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")～[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月25日](../Page/12月25日.md "wikilink") - 毎週金曜日 20:00～20:55、毎週土曜日 22:00～23:55（JST）
   - [2011年](../Page/2011年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")～2011年[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") - 毎週金曜日 20:00～20:55、毎週土曜日 22:00～23:30（JST）
   - 2011年[4月1日](../Page/4月1日.md "wikilink")～[2013年](../Page/2013年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink") - 毎週金曜日 20:00～20:55、毎週土曜日 22:00～23:55（JST）
   - 2014年[1月3日](../Page/1月3日.md "wikilink")～現在 - 毎週金曜日 20:00～20:55（JST）
@@ -33,7 +33,7 @@
 
   - [西山紗織](https://ja.wikipedia.org/wiki/西山紗織 "wikilink")
   - [杉元聖子](https://ja.wikipedia.org/wiki/杉元聖子 "wikilink")（ワッチミーナ）
-  - [城山未帆](https://ja.wikipedia.org/wiki/城山未帆 "wikilink")
+  - [城山未帆](../Page/城山未帆.md "wikilink")
   - [新倉彩子](https://ja.wikipedia.org/wiki/新倉彩子 "wikilink")
   - [デックス東京ベイスタジオ](https://ja.wikipedia.org/wiki/デックス東京ベイスタジオ "wikilink")イメージガールズ
 
@@ -123,7 +123,7 @@
 
 <!-- end list -->
 
-  - バニラビーンズ（担当:[バニラビーンズ](https://ja.wikipedia.org/wiki/バニラビーンズ "wikilink")）
+  - バニラビーンズ（担当:[バニラビーンズ](../Page/バニラビーンズ.md "wikilink")）
 
 <!-- end list -->
 
@@ -139,7 +139,7 @@
 
 <!-- end list -->
 
-  - 灼熱のえちうらじお（担当:[えちうら](https://ja.wikipedia.org/wiki/えちうら "wikilink")）
+  - 灼熱のえちうらじお（担当:[えちうら](../Page/えちうら.md "wikilink")）
 
 <!-- end list -->
 
@@ -194,7 +194,7 @@
 
 ### 過去のコーナー
 
-  - 城山未帆のひとりごと（担当:[城山未帆](https://ja.wikipedia.org/wiki/城山未帆 "wikilink")）
+  - 城山未帆のひとりごと（担当:[城山未帆](../Page/城山未帆.md "wikilink")）
 
 <!-- end list -->
 
@@ -238,7 +238,7 @@
 
 <!-- end list -->
 
-  - 月刊僕道1号（担当:[僕道1号](https://ja.wikipedia.org/wiki/僕道1号 "wikilink")）
+  - 月刊僕道1号（担当:[僕道1号](../Page/僕道1号.md "wikilink")）
 
 <!-- end list -->
 
@@ -246,7 +246,7 @@
 
 <!-- end list -->
 
-  - つきよみのハイカラ☆横丁（担当:[つきよみ](https://ja.wikipedia.org/wiki/つきよみ "wikilink")）
+  - つきよみのハイカラ☆横丁（担当:[つきよみ](../Page/つきよみ.md "wikilink")）
 
 <!-- end list -->
 
@@ -262,7 +262,7 @@
 
 <!-- end list -->
 
-  - MiのPaPaPaParty（担当:[Mi](https://ja.wikipedia.org/wiki/Mi_\(バンド\) "wikilink")）
+  - MiのPaPaPaParty（担当:[Mi](../Page/Mi_\(バンド\).md "wikilink")）
 
 <!-- end list -->
 
@@ -270,7 +270,7 @@
 
 <!-- end list -->
 
-  - 神田朱未のBitter Sweet Friday（担当:[神田朱未](https://ja.wikipedia.org/wiki/神田朱未 "wikilink")）
+  - 神田朱未のBitter Sweet Friday（担当:[神田朱未](../Page/神田朱未.md "wikilink")）
 
 <!-- end list -->
 
@@ -278,7 +278,7 @@
 
 <!-- end list -->
 
-  - 東京サザーランド（担当:[サザーランド](https://ja.wikipedia.org/wiki/サザーランド_\(バンド\) "wikilink")）
+  - 東京サザーランド（担当:[サザーランド](../Page/サザーランド_\(バンド\).md "wikilink")）
 
 <!-- end list -->
 
@@ -305,7 +305,7 @@
 
 <!-- end list -->
 
-  - FASCINO TIME（担当:[砂央里](https://ja.wikipedia.org/wiki/砂央里 "wikilink")）
+  - FASCINO TIME（担当:[砂央里](../Page/砂央里.md "wikilink")）
 
 <!-- end list -->
 

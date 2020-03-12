@@ -1,13 +1,13 @@
 > この記事は[DWG](https://ja.wikipedia.org/wiki/DWG)から翻訳されています。
 
 
-**DWG**（ディー・ダブル・ジー）は、[オートデスク](https://ja.wikipedia.org/wiki/オートデスク "wikilink")社製の[CAD](../Page/CAD.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")、[AutoCAD](https://ja.wikipedia.org/wiki/AutoCAD "wikilink")の標準[ファイル形式](../Page/ファイルフォーマット.md "wikilink")。**d**ra**w**in**g**の略。[拡張子](../Page/拡張子.md "wikilink")として"dwg"を用いる。
+**DWG**（ディー・ダブル・ジー）は、[オートデスク](../Page/オートデスク.md "wikilink")社製の[CAD](../Page/CAD.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")、[AutoCAD](../Page/AutoCAD.md "wikilink")の標準[ファイル形式](../Page/ファイルフォーマット.md "wikilink")。**d**ra**w**in**g**の略。[拡張子](../Page/拡張子.md "wikilink")として"dwg"を用いる。
 
 ## 概要
 
-DWGはオートデスク社が策定する図面ファイル形式である。[AutoCAD](https://ja.wikipedia.org/wiki/AutoCAD "wikilink")シリーズ（AutoCAD LT、AutoCAD Mechanicalなど）の標準ファイル形式として開発されたことから、AutoCADと共に業界の[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")として利用されている。
+DWGはオートデスク社が策定する図面ファイル形式である。[AutoCAD](../Page/AutoCAD.md "wikilink")シリーズ（AutoCAD LT、AutoCAD Mechanicalなど）の標準ファイル形式として開発されたことから、AutoCADと共に業界の[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")として利用されている。
 
-その仕様は非公開であるため、ネイティブ対応しているのはオートデスク社製品および同社ライセンス製品のみである。一方で、DWGのリバースエンジニアリングの成果として提供される[ソフトウェア開発キット](https://ja.wikipedia.org/wiki/ソフトウェア開発キット "wikilink")[DWGdirect](https://ja.wikipedia.org/wiki/DWGdirect "wikilink")によってDWGの読み書きを実現する互換CAD製品が数多く存在する。
+その仕様は非公開であるため、ネイティブ対応しているのはオートデスク社製品および同社ライセンス製品のみである。一方で、DWGのリバースエンジニアリングの成果として提供される[ソフトウェア開発キット](../Page/ソフトウェア開発キット.md "wikilink")[DWGdirect](https://ja.wikipedia.org/wiki/DWGdirect "wikilink")によってDWGの読み書きを実現する互換CAD製品が数多く存在する。
 
 DWGとは別に、他のCADソフトウェアとのファイル交換を容易にするため、オートデスクが定義した形式が**[DXF](https://ja.wikipedia.org/wiki/DXF "wikilink")**（AutoCADファイル交換形式）である。DXFは公開された仕様と可読性の高いテキスト形式（バイナリ形式に圧縮することも可能）という特徴により、サポートするサードパーティ製のソフトウェアも開発しやすくなっている。ただし、仕様の解釈やデータ構造の違いによって、CADソフトウェア間（Autodesk製品間を除く）で図面の再現が完全に実現できないケースも目立っている。
 
@@ -21,8 +21,8 @@ DWG形式のファイルには以下のような情報が含まれる。
     APPID（アプリケーション ID）、BLOCK_RECORD（ブロック レコード）、DIMSTYLE（寸法スタイル）、LAYER（画層）、LTYPE（線種）、STYLE（文字スタイル）、UCS（ユーザ座標系）、VIEW（ビュー）、VPORT（ビューポート）
   - 非グラフィカルデータ（標準ディクショナリ、拡張レコード情報）
     ACAD_PROXY_OBJECT（ACAD プロキシ オブジェクト）、DATATABLE（データ テーブル）、DICTIONARY（ディクショナリ）、DICTIONARYVAR（ディクショナリ変数）、DIMASSOC（自動調整管理）、FIELD（フィールド）、GEODATA（地理的データ）、GROUP（グループ）、IDBUFFER（ID バッファ）、IMAGEDEF（イメージ定義）、IMAGEDEF_REACTOR（イメージ定義リアクタ）、LAYER_INDEX（画層インデックス）、LAYER_FILTER（画層フィルタ）、LAYOUT（レイアウト）、LIGHTLIST（光源一覧）、MATERIAL（マテリアル）、MLINESTYLE（マルチライン スタイル）、OBJECT_PTR（オブジェクト プリンタ）、PLOTSETTINGS（印刷設定）、RASTERVARIABLES（ラスター変数）、RENDER（レンダリング）、SECTION（断面）、SPATIAL_INDEX（空間インデックス）、SPATIAL_FILTER（空間フィルタ）、SORTENTSTABLE（SORTENTS テーブル）、TABLESTYLE（表スタイル）、UNDERLAYDEFINITION（アンダーレイ定義）、VISUALSTYLE（表示スタイル）、VBA_PROJECT（VBA プロジェクト）、WIPEOUTVARIABLES（WIPEOUT 変数）、XRECORD（拡張レコード）
-  - その他の[メタデータ](https://ja.wikipedia.org/wiki/メタデータ "wikilink")
-    作成日時、図面編集時間、作者、タイトルなどの図面のプロパティ、図面を開く際の[パスワード](https://ja.wikipedia.org/wiki/パスワード "wikilink")、図面への[デジタル署名](https://ja.wikipedia.org/wiki/デジタル署名 "wikilink")、サムネール画像(bmp)
+  - その他の[メタデータ](../Page/メタデータ.md "wikilink")
+    作成日時、図面編集時間、作者、タイトルなどの図面のプロパティ、図面を開く際の[パスワード](../Page/パスワード.md "wikilink")、図面への[デジタル署名](../Page/デジタル署名.md "wikilink")、サムネール画像(bmp)
 
 また、AutoCADが標準で含む情報以外にも、アドオンアプリケーション（[プラグイン](../Page/プラグイン.md "wikilink")ソフトウェア）が任意に拡張情報を付加できるため、拡張エンティティデータや拡張レコード、カスタム・オブジェクトなどが含まれることがある。
 
@@ -58,15 +58,15 @@ AutoCAD バージョンと DWG 形式の対比
 
 ## サポート製品
 
-AutoCADとAutoCADをベースとする業種別製品（AutoCAD Architecture、AutoCAD Mechanical、AutoCAD Electrical、AutoCAD Civil 3D、AutoCAD Map 3D、AutoCAD P\&ID）、AutoCAD LT が、[ネイティブ](https://ja.wikipedia.org/wiki/ネイティブ "wikilink")にDWG形式へのファイル保存と読み込みをサポートする。また、AutoCADとは異なる[アーキテクチャ](https://ja.wikipedia.org/wiki/アーキテクチャ "wikilink")を持つAutodesk Inventor、Autodesk Revit、Autodesk 3ds Maxといった他のオートデスク社の製品も、DWG形式でのファイルの読み込みと書き出しをサポートしている。これらCAD製品とは別に、DWG形式のファイルを閲覧するためのビューアソフトウェアとして、オートデスク社は[DWG TrueView](http://www.autodesk.co.jp/dwgtrueview)を無償で配布している。
+AutoCADとAutoCADをベースとする業種別製品（AutoCAD Architecture、AutoCAD Mechanical、AutoCAD Electrical、AutoCAD Civil 3D、AutoCAD Map 3D、AutoCAD P\&ID）、AutoCAD LT が、[ネイティブ](https://ja.wikipedia.org/wiki/ネイティブ "wikilink")にDWG形式へのファイル保存と読み込みをサポートする。また、AutoCADとは異なる[アーキテクチャ](../Page/アーキテクチャ.md "wikilink")を持つAutodesk Inventor、Autodesk Revit、Autodesk 3ds Maxといった他のオートデスク社の製品も、DWG形式でのファイルの読み込みと書き出しをサポートしている。これらCAD製品とは別に、DWG形式のファイルを閲覧するためのビューアソフトウェアとして、オートデスク社は[DWG TrueView](http://www.autodesk.co.jp/dwgtrueview)を無償で配布している。
 
 他のCADソフトウェアでは、AutoCAD互換の[IntelliCAD](https://ja.wikipedia.org/wiki/IntelliCAD "wikilink")やIntelliCADをベースとする[Bricscad](https://ja.wikipedia.org/wiki/Bricscad "wikilink")、[ZWCAD](https://ja.wikipedia.org/wiki/ZWCAD "wikilink")もDWG形式をサポートしている。これらのCADソフトウェアは、[Open Design Alliance](http://www.opendesign.com/)（英語）によって設立された[IntelliCAD Technology Consortium](http://www.intellicad.org/)（英語）が[オープンソース](../Page/オープンソース.md "wikilink")化している。
 
-CAD以外のソフトウェアでは、[Adobe](../Page/アドビシステムズ.md "wikilink") [Illustratorのバージョン](../Page/Adobe_Illustrator.md "wikilink")9以降、[Microsoft VisioなどもDWG形式のファイルの読み書きが可能である](https://ja.wikipedia.org/wiki/Microsoft_Visio "wikilink")。
+CAD以外のソフトウェアでは、[Adobe](../Page/アドビシステムズ.md "wikilink") [Illustratorのバージョン](../Page/Adobe_Illustrator.md "wikilink")9以降、[Microsoft VisioなどもDWG形式のファイルの読み書きが可能である](../Page/Microsoft_Visio.md "wikilink")。
 
-このようなソフトウェアや、IntelliCAD以外の国産CADは、[Open Design Alliance](http://www.opendesign.com/)（英語）がDWGファイルの[リバースエンジニアリング](https://ja.wikipedia.org/wiki/リバースエンジニアリング "wikilink")によって作成・提供している[ソフトウェア開発キット](https://ja.wikipedia.org/wiki/ソフトウェア開発キット "wikilink")[DWGdirect](https://ja.wikipedia.org/wiki/DWGdirect "wikilink")によって、DWG形式の読み書きを実装しているケースが多い。
+このようなソフトウェアや、IntelliCAD以外の国産CADは、[Open Design Alliance](http://www.opendesign.com/)（英語）がDWGファイルの[リバースエンジニアリング](../Page/リバースエンジニアリング.md "wikilink")によって作成・提供している[ソフトウェア開発キット](../Page/ソフトウェア開発キット.md "wikilink")[DWGdirect](https://ja.wikipedia.org/wiki/DWGdirect "wikilink")によって、DWG形式の読み書きを実装しているケースが多い。
 
-オートデスク社は、自社製品のDWG形式の入出力に[ソフトウェア開発キット](https://ja.wikipedia.org/wiki/ソフトウェア開発キット "wikilink") [RealDWG](http://www.autodesk.co.jp/realdwg)を利用しており、サードパーティにもライセンス供与している。
+オートデスク社は、自社製品のDWG形式の入出力に[ソフトウェア開発キット](../Page/ソフトウェア開発キット.md "wikilink") [RealDWG](http://www.autodesk.co.jp/realdwg)を利用しており、サードパーティにもライセンス供与している。
 
 ## TrustedDWG
 
@@ -80,7 +80,7 @@ CAD以外のソフトウェアでは、[Adobe](../Page/アドビシステムズ.
 
 ## 関連項目
 
-  - [AutoCAD](https://ja.wikipedia.org/wiki/AutoCAD "wikilink")
+  - [AutoCAD](../Page/AutoCAD.md "wikilink")
   - [DWF](https://ja.wikipedia.org/wiki/DWF "wikilink")
   - [DWGdirect](https://ja.wikipedia.org/wiki/DWGdirect "wikilink")
   - [DXF](https://ja.wikipedia.org/wiki/DXF "wikilink")

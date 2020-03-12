@@ -1,7 +1,7 @@
 > この記事は[AREA](https://ja.wikipedia.org/wiki/AREA)から翻訳されています。
 
 
-**高田馬場AREA**（たかだのばばエリア）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[高田馬場](https://ja.wikipedia.org/wiki/高田馬場 "wikilink")3丁目3-8にある[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")。有限会社バツバツバツレコードが運営している。
+**高田馬場AREA**（たかだのばばエリア）は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[高田馬場](../Page/高田馬場.md "wikilink")3丁目3-8にある[ライブハウス](../Page/ライブハウス.md "wikilink")。有限会社バツバツバツレコードが運営している。
 
 ## 概要
 
@@ -57,10 +57,10 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/彩冷える" title="wikilink">彩冷える</a></p></td>
+<td><p><a href="../Page/彩冷える.md" title="wikilink">彩冷える</a></p></td>
 <td><p>アヤビエ</p></td>
 <td><p>2004年〜2008年</p></td>
-<td><p>2009年<a href="https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ" title="wikilink">徳間ジャパンコミュニケーションズ</a>よりメジャーデビュー。2010年活動休止</p></td>
+<td><p>2009年<a href="../Page/徳間ジャパンコミュニケーションズ.md" title="wikilink">徳間ジャパンコミュニケーションズ</a>よりメジャーデビュー。2010年活動休止</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/KuRt" title="wikilink">KuRt</a></p></td>
@@ -69,7 +69,7 @@
 <td><p>2007年2月11日解散</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/DuelJewel" title="wikilink">DuelJewel</a></p></td>
+<td><p><a href="../Page/DuelJewel.md" title="wikilink">DuelJewel</a></p></td>
 <td><p>デュエルジュエル</p></td>
 <td><p>2005年</p></td>
 <td><p>2000枚限定シングル「The Birth」のみ</p></td>
@@ -253,7 +253,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/カメレオ" title="wikilink">カメレオ</a></p></td>
 <td><p>カメレオ</p></td>
 <td><p>2012年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デンジャークルー・レコード" title="wikilink">デンジャークルー・レコード</a>に移籍後2017年6月17日解散</p></td>
+<td><p><a href="../Page/デンジャークルー・レコード.md" title="wikilink">デンジャークルー・レコード</a>に移籍後2017年6月17日解散</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/LANDZ" title="wikilink">LANDZ</a></p></td>

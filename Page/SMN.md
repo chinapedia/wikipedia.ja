@@ -7,19 +7,19 @@
 
 ## 沿革
 
-  - [2000年](../Page/2000年.md "wikilink")3月 - 消費者金融の株式会社ニッシン（現・[NISグループ](https://ja.wikipedia.org/wiki/NISグループ "wikilink")）の完全子会社として、**ウェッブキャッシング・ドットコム株式会社**を設立\[2\]。
-  - [2002年](../Page/2002年.md "wikilink")11月 - 株式会社アイ・シー・エフ（後の株式会社[オーベン](https://ja.wikipedia.org/wiki/オーベン "wikilink")）が完全子会社化\[3\]。
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")3月 - 株式会社[ライブドア](https://ja.wikipedia.org/wiki/ライブドア "wikilink")（旧・株式会社エッジ）が完全子会社化\[4\]。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月 - 株式会社ライブドアマーケティング（のちに[メディアイノベーション](https://ja.wikipedia.org/wiki/メディアイノベーション "wikilink")に社名変更）が子会社化\[5\]。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月 - [ライブドア事件](https://ja.wikipedia.org/wiki/ライブドア事件 "wikilink")が発生。 ライブドアマーケティングの粉飾決算は事件の主要な嫌疑の1つになった。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")1月 - グループ会社の株式会社トラインと株式会社ライブドアビジネスソリューションズを吸収合併\[6\]。
+  - [2000年](../Page/2000年.md "wikilink")3月 - 消費者金融の株式会社ニッシン（現・[NISグループ](../Page/NISグループ.md "wikilink")）の完全子会社として、**ウェッブキャッシング・ドットコム株式会社**を設立\[2\]。
+  - [2002年](../Page/2002年.md "wikilink")11月 - 株式会社アイ・シー・エフ（後の株式会社[オーベン](../Page/オーベン.md "wikilink")）が完全子会社化\[3\]。
+  - [2004年](../Page/2004年.md "wikilink")3月 - 株式会社[ライブドア](../Page/ライブドア.md "wikilink")（旧・株式会社エッジ）が完全子会社化\[4\]。
+  - [2005年](../Page/2005年.md "wikilink")9月 - 株式会社ライブドアマーケティング（のちに[メディアイノベーション](../Page/メディアイノベーション.md "wikilink")に社名変更）が子会社化\[5\]。
+  - [2006年](../Page/2006年.md "wikilink")1月 - [ライブドア事件](../Page/ライブドア事件.md "wikilink")が発生。 ライブドアマーケティングの粉飾決算は事件の主要な嫌疑の1つになった。
+  - [2007年](../Page/2007年.md "wikilink")1月 - グループ会社の株式会社トラインと株式会社ライブドアビジネスソリューションズを吸収合併\[6\]。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月 - 株式会社メディアイノベーションからネットワークメディア事業を継承し、**株式会社MI**に商号変更\[7\]。この際、親会社からアドネットワークの「TrustClick」（旧ValueClick）とアフィリエイトASPの「アフィリエイトパーク」等のメディア事業も同社へ移行したと思われる。
   - 2008年7月 - ソネットエンタテインメント（現・[ソニーネットワークコミュニケーションズ](../Page/ソニーネットワークコミュニケーションズ.md "wikilink")）の連結子会社（66.6%）になった\[8\]。
   - 2008年9月 - **ソネット・メディア・ネットワークス株式会社**に商号変更\[9\]。
   - 2008年11月 - ソネットエンタテインメントの完全子会社になった\[10\]。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月 - 連結子会社の[アクイジションを吸収合併](https://ja.wikipedia.org/wiki/アクイジション_\(企業\) "wikilink")\[11\]。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月 - 連結子会社の[アクイジションを吸収合併](../Page/アクイジション_\(企業\).md "wikilink")\[11\]。
   - 2010年7月 - ソネットエンタテインメント株式会社の広告メディア事業を移管\[12\]。
-  - [2015年](../Page/2015年.md "wikilink")12月 - [東京証券取引所](https://ja.wikipedia.org/wiki/東京証券取引所 "wikilink")[マザーズ](../Page/マザーズ.md "wikilink")に上場。
+  - [2015年](../Page/2015年.md "wikilink")12月 - [東京証券取引所](../Page/東京証券取引所.md "wikilink")[マザーズ](../Page/マザーズ.md "wikilink")に上場。
   - [2019年](../Page/2019年.md "wikilink")3月 - 東京証券取引所第1部へ市場変更\[13\]。
   - 2019年10月 - **SMN株式会社**に商号変更。
 
@@ -35,7 +35,7 @@
 
 | url = <http://www.so-netmedia.jp/service/scan.html> | title = SCAN | publisher = ソネット・メディア・ネットワークス株式会社 | accessdate = 2012年7月9日 }}</ref>。
 
-  - [お笑いTVオンデマンド](https://ja.wikipedia.org/wiki/お笑いTVオンデマンド "wikilink"):オリジナルのお笑いネタ動画の政策及び著作権管理をする株式会社メディアブレスト社、株式会社[コンテンツリーグ](https://ja.wikipedia.org/wiki/コンテンツリーグ "wikilink")が提供・販売するDVDに収録されているコンテンツを配信している。\[14\]
+  - [お笑いTVオンデマンド](https://ja.wikipedia.org/wiki/お笑いTVオンデマンド "wikilink"):オリジナルのお笑いネタ動画の政策及び著作権管理をする株式会社メディアブレスト社、株式会社[コンテンツリーグ](../Page/コンテンツリーグ.md "wikilink")が提供・販売するDVDに収録されているコンテンツを配信している。\[14\]
 
 ## 運営終了サービス
 
@@ -43,7 +43,7 @@
 
 | url = <http://www.trustclickadnetwork.ne.jp/> | title = アドネットワーク　トラストクリック | publisher = ソネット・メディア・ネットワークス株式会社 | accessdate = 2012年7月9日 }}</ref>。
 
-  - ビジネスプレミアムネットワーク（BPN）: 2009年に開始したアドネットワーク。「[ロイター](https://ja.wikipedia.org/wiki/ロイター "wikilink").co.jp」と「[asahi.com](https://ja.wikipedia.org/wiki/朝日新聞デジタル "wikilink")」のほか、[jiji.com](https://ja.wikipedia.org/wiki/時事通信 "wikilink")、[AFP](https://ja.wikipedia.org/wiki/AFP "wikilink")BBNews、[ダイヤモンドオンライン](https://ja.wikipedia.org/wiki/週刊ダイヤモンド "wikilink")、[東洋経済オンライン](../Page/東洋経済新報社.md "wikilink")、[プレジデントロイター](https://ja.wikipedia.org/wiki/プレジデント社 "wikilink")、 [CNN](https://ja.wikipedia.org/wiki/CNN "wikilink").co.jpなどにバーナー広告を配信している<ref>{{cite web
+  - ビジネスプレミアムネットワーク（BPN）: 2009年に開始したアドネットワーク。「[ロイター](../Page/ロイター.md "wikilink").co.jp」と「[asahi.com](https://ja.wikipedia.org/wiki/朝日新聞デジタル "wikilink")」のほか、[jiji.com](https://ja.wikipedia.org/wiki/時事通信 "wikilink")、[AFP](https://ja.wikipedia.org/wiki/AFP "wikilink")BBNews、[ダイヤモンドオンライン](../Page/週刊ダイヤモンド.md "wikilink")、[東洋経済オンライン](../Page/東洋経済新報社.md "wikilink")、[プレジデントロイター](../Page/プレジデント社.md "wikilink")、 [CNN](https://ja.wikipedia.org/wiki/CNN "wikilink").co.jpなどにバーナー広告を配信している<ref>{{cite web
 
 | url = <http://www.so-netmedia.jp/bpn/about/index.html> | title = ビジネスプレミアムネットワークとは | publisher = ソネット・メディア・ネットワークス株式会社 | accessdate = 2012年7月9日 }}</ref>。閲覧者数3,000万人/月、ページビュー1億/月を公称する。
 

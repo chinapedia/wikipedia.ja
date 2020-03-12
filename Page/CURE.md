@@ -1,15 +1,15 @@
 > この記事は[CURE](https://ja.wikipedia.org/wiki/CURE)から翻訳されています。
 
 
-『**CURE**』（キュア）は、[1997年公開の](https://ja.wikipedia.org/wiki/1997年の映画 "wikilink")[日本映画](../Page/日本映画.md "wikilink")。監督は[黒沢清](../Page/黒沢清.md "wikilink")。1997年[日本インターネット映画大賞](https://ja.wikipedia.org/wiki/日本インターネット映画大賞 "wikilink")日本映画作品賞受賞作\[1\]。
+『**CURE**』（キュア）は、[1997年公開の](../Page/1997年の映画.md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。監督は[黒沢清](../Page/黒沢清.md "wikilink")。1997年[日本インターネット映画大賞](../Page/日本インターネット映画大賞.md "wikilink")日本映画作品賞受賞作\[1\]。
 
 ## 概要
 
-連続猟奇殺人事件を追及する刑事と、事件に関わる謎の男を描いた[サイコ](https://ja.wikipedia.org/wiki/サイコホラー "wikilink")・[サスペンス](https://ja.wikipedia.org/wiki/サスペンス "wikilink")・[スリラー](https://ja.wikipedia.org/wiki/スリラー "wikilink")作品である本作は、凄惨な題材を扱い、緊張感・緊迫感に満ちた話運びでありながら「CURE（癒し）」というタイトルとテーマを持つ\[2\]。
+連続猟奇殺人事件を追及する刑事と、事件に関わる謎の男を描いた[サイコ](https://ja.wikipedia.org/wiki/サイコホラー "wikilink")・[サスペンス](../Page/サスペンス.md "wikilink")・[スリラー](../Page/スリラー.md "wikilink")作品である本作は、凄惨な題材を扱い、緊張感・緊迫感に満ちた話運びでありながら「CURE（癒し）」というタイトルとテーマを持つ\[2\]。
 
-タイトルは初め「伝道師」だったが、撮影当時に起きていた[オウム真理教事件](https://ja.wikipedia.org/wiki/オウム真理教事件 "wikilink")との兼ね合いから、宗教的な犯罪ものだと誤解を受ける可能性を案じ、[大映プロデューサーの提案で現在のタイトルに変更している](https://ja.wikipedia.org/wiki/角川大映スタジオ "wikilink")\[3\]\[4\]。
+タイトルは初め「伝道師」だったが、撮影当時に起きていた[オウム真理教事件](../Page/オウム真理教事件.md "wikilink")との兼ね合いから、宗教的な犯罪ものだと誤解を受ける可能性を案じ、[大映プロデューサーの提案で現在のタイトルに変更している](https://ja.wikipedia.org/wiki/角川大映スタジオ "wikilink")\[3\]\[4\]。
 
-本作は、黒沢にとって世界市場での出世作であり、特にフランスで人気がある\[5\]。[ル・モンド](https://ja.wikipedia.org/wiki/ル・モンド "wikilink")紙の映画評論家ジャン＝ミシェル・フロドンは本作を高く評価し、黒沢がフランスで『[ダゲレオタイプの女](https://ja.wikipedia.org/wiki/ダゲレオタイプの女 "wikilink")』を撮影する切っ掛けになっている\[6\]。
+本作は、黒沢にとって世界市場での出世作であり、特にフランスで人気がある\[5\]。[ル・モンド](../Page/ル・モンド.md "wikilink")紙の映画評論家ジャン＝ミシェル・フロドンは本作を高く評価し、黒沢がフランスで『[ダゲレオタイプの女](https://ja.wikipedia.org/wiki/ダゲレオタイプの女 "wikilink")』を撮影する切っ掛けになっている\[6\]。
 
 主演の役所広司は、この作品で[第10回東京国際映画祭](https://ja.wikipedia.org/wiki/第10回東京国際映画祭 "wikilink")最優秀男優賞を受賞し、以後、黒沢清監督映画の常連となっている\[7\]。
 
@@ -25,9 +25,9 @@
   - 高部文江：[中川安奈](../Page/中川安奈.md "wikilink")
   - 宮島明子：[洞口依子](https://ja.wikipedia.org/wiki/洞口依子 "wikilink")
   - 花岡徹：[戸田昌宏](https://ja.wikipedia.org/wiki/戸田昌宏 "wikilink")
-  - 花岡とも子：[春木みさよ](https://ja.wikipedia.org/wiki/春木みさよ "wikilink")
-  - 大井田巡査：[でんでん](https://ja.wikipedia.org/wiki/でんでん "wikilink")
-  - 桑野一郎：[螢雪次朗](https://ja.wikipedia.org/wiki/螢雪次朗 "wikilink")
+  - 花岡とも子：[春木みさよ](../Page/春木みさよ.md "wikilink")
+  - 大井田巡査：[でんでん](../Page/でんでん.md "wikilink")
+  - 桑野一郎：[螢雪次朗](../Page/螢雪次朗.md "wikilink")
   - 安川刑事：[大鷹明良](https://ja.wikipedia.org/wiki/大鷹明良 "wikilink")
   - 藤原本部長：[大杉漣](../Page/大杉漣.md "wikilink")
   - 精神科医：[河東燈士](https://ja.wikipedia.org/wiki/河東燈士 "wikilink")
@@ -38,7 +38,7 @@
 
 ## 関連事項
 
-[メスマー](https://ja.wikipedia.org/wiki/フランツ・アントン・メスメル "wikilink")-道具立てのひとつとして。
+[メスマー](../Page/フランツ・アントン・メスメル.md "wikilink")-道具立てのひとつとして。
 
 ## 脚注
 

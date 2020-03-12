@@ -1,9 +1,9 @@
 > この記事は[Jetpac](https://ja.wikipedia.org/wiki/Jetpac)から翻訳されています。
 
 
-**Jetpac**（ジェットパック）は1983年に[レアの前身であるUltimate](https://ja.wikipedia.org/wiki/レア_\(企業\) "wikilink") Play The Game社が発売した、固定画面のアクションシューティングゲーム。
+**Jetpac**（ジェットパック）は1983年に[レアの前身であるUltimate](../Page/レア_\(企業\).md "wikilink") Play The Game社が発売した、固定画面のアクションシューティングゲーム。
 
-1999年12月10日発売の[NINTENDO64](../Page/NINTENDO64.md "wikilink")用ソフト『[ドンキーコング64](https://ja.wikipedia.org/wiki/ドンキーコング64 "wikilink")』に収録されたほか、2007年3月28日には[Xbox 360向けに](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")[Xbox Live Arcadeでリメイク版](https://ja.wikipedia.org/wiki/Xbox_Live "wikilink")『Jetpac Refuelled』が配信開始されている。
+1999年12月10日発売の[NINTENDO64](../Page/NINTENDO64.md "wikilink")用ソフト『[ドンキーコング64](../Page/ドンキーコング64.md "wikilink")』に収録されたほか、2007年3月28日には[Xbox 360向けに](../Page/Xbox_360.md "wikilink")[Xbox Live Arcadeでリメイク版](../Page/Xbox_Live.md "wikilink")『Jetpac Refuelled』が配信開始されている。
 
 ## 概要
 

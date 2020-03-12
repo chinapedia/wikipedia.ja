@@ -1,13 +1,13 @@
 > この記事は[Electric Glass Balloon](https://ja.wikipedia.org/wiki/Electric_Glass_Balloon)から翻訳されています。
 
 
-**Electric Glass Balloon**（エレクトリック・グラス・バルーン）は、[1990年代](../Page/1990年代.md "wikilink")に活動した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギター](../Page/ギター.md "wikilink")・[ロック](../Page/ロック_\(音楽\).md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。 [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")『BEAUTIFUL DAYS E.P』で[ミディ](https://ja.wikipedia.org/wiki/ミディ "wikilink")からデビュー。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に解散。中心メンバーであった杉浦英治（vo\&g）は"SUGIURUMN"の名で活躍中である。[2013年](../Page/2013年.md "wikilink")、[SUGIURUMN](https://ja.wikipedia.org/wiki/SUGIURUMN "wikilink")のアルバム『May The House Be With You』のレコーディングに筒井朋哉が参加。その縁も有ってリリースイベント時に、オリジナルメンバーで17年ぶりに復活。一夜限りの再結成ライヴを開催した。
+**Electric Glass Balloon**（エレクトリック・グラス・バルーン）は、[1990年代](../Page/1990年代.md "wikilink")に活動した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギター](../Page/ギター.md "wikilink")・[ロック](../Page/ロック_\(音楽\).md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。 [1992年](../Page/1992年.md "wikilink")『BEAUTIFUL DAYS E.P』で[ミディ](https://ja.wikipedia.org/wiki/ミディ "wikilink")からデビュー。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に解散。中心メンバーであった杉浦英治（vo\&g）は"SUGIURUMN"の名で活躍中である。[2013年](../Page/2013年.md "wikilink")、[SUGIURUMN](../Page/SUGIURUMN.md "wikilink")のアルバム『May The House Be With You』のレコーディングに筒井朋哉が参加。その縁も有ってリリースイベント時に、オリジナルメンバーで17年ぶりに復活。一夜限りの再結成ライヴを開催した。
 
 ## メンバー
 
 **杉浦英治**（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、ギター）
 
-  - 解散後は[SUGIURUMN](https://ja.wikipedia.org/wiki/SUGIURUMN "wikilink")としてソロで活動。
+  - 解散後は[SUGIURUMN](../Page/SUGIURUMN.md "wikilink")としてソロで活動。
 
 **筒井朋哉**（ギター）
 
@@ -21,7 +21,7 @@
 
   - 脱退後、[サニーデイ・サービス](https://ja.wikipedia.org/wiki/サニーデイ・サービス "wikilink")のメンバーとして活動。
 
-'''奥野裕則 '''（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、ギター、ボーカル）
+'''奥野裕則 '''（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、ギター、ボーカル）
 
 ## ディスコグラフィー
 
@@ -32,8 +32,8 @@
 
 ### ミニアルバム
 
-  - BEAUTIFUL DAYS E.P（[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[8月21日](../Page/8月21日.md "wikilink")）
-  - SPEEEEED FREAK E.P（[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")）
+  - BEAUTIFUL DAYS E.P（[1992年](../Page/1992年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")）
+  - SPEEEEED FREAK E.P（[1992年](../Page/1992年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")）
   - CULTSTAR GUIDEBOOK（[1993年](../Page/1993年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")）
   - SMASH MY CAR（[1996年](../Page/1996年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")）
   - AUDIO JET LIFE（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月25日](../Page/4月25日.md "wikilink")）
@@ -64,6 +64,6 @@
 ## 関連項目
 
   - [サニーデイ・サービス](https://ja.wikipedia.org/wiki/サニーデイ・サービス "wikilink")
-  - [SUGIURUMN](https://ja.wikipedia.org/wiki/SUGIURUMN "wikilink")
+  - [SUGIURUMN](../Page/SUGIURUMN.md "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")

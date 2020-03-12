@@ -2,13 +2,13 @@
 
 
 [350px艦](https://ja.wikipedia.org/wiki/ファイル:Horizon_frigate.jpg "wikilink")。
-前甲板にシルヴァーVLS、艦橋構造物上の塔状構造物にEMPAR多機能レーダーが設置されている。\]\] **PAAMS**(Principal Anti Air Missle System)は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[イタリア](../Page/イタリア.md "wikilink")が共同で開発した[艦隊](https://ja.wikipedia.org/wiki/艦隊 "wikilink")防空システム。多機能レーダーを中核として、同時多目標交戦能力を高めている。
+前甲板にシルヴァーVLS、艦橋構造物上の塔状構造物にEMPAR多機能レーダーが設置されている。\]\] **PAAMS**(Principal Anti Air Missle System)は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[イタリア](../Page/イタリア.md "wikilink")が共同で開発した[艦隊](../Page/艦隊.md "wikilink")防空システム。多機能レーダーを中核として、同時多目標交戦能力を高めている。
 
 ## 来歴
 
 [1980年代](../Page/1980年代.md "wikilink")、NATO加盟8ヶ国[海軍](../Page/海軍.md "wikilink")は、[NFR-90](https://ja.wikipedia.org/wiki/NFR-90 "wikilink")構想のもとで[フリゲート](../Page/フリゲート.md "wikilink")の共同開発を開始した。このフリゲートは区域防空ミサイル・システム（）を搭載する予定だったが、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")は[セミアクティブ・レーダー・ホーミング（SARH）を要望したのに対し](https://ja.wikipedia.org/wiki/電波ホーミング誘導#セミアクティブ方式 "wikilink")、[イタリア](../Page/イタリア.md "wikilink")と[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")は[アクティブ・レーダー・ホーミング（ARH）を志向しており](https://ja.wikipedia.org/wiki/電波ホーミング誘導#アクティブ方式 "wikilink")、1987年11月、欧州独自の[アスター](../Page/アスター_\(ミサイル\).md "wikilink")[艦対空ミサイル](../Page/艦対空ミサイル.md "wikilink")・システムの開発について合意した\[1\]。
 
-その他にも各国の要求事項の差異が顕在化し、最終的にNFR-90計画は断念された。その後、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")と[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")は独自に次期[防空艦](https://ja.wikipedia.org/wiki/防空艦 "wikilink")の開発を進めていたが、1990年にはこれらは合流し、1993年にはイタリアも参加して[ホライズン計画](https://ja.wikipedia.org/wiki/ホライズン計画 "wikilink")が開始された。この計画でも戦闘システムについてはかなりの議論がなされたが、最終的に、アスター艦対空ミサイルが共通装備として採用された。そしてそのための武器システムとして、フランスとイタリアが開発してきたFSAFを基本として開発されたのがPAAMSである。
+その他にも各国の要求事項の差異が顕在化し、最終的にNFR-90計画は断念された。その後、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")と[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")は独自に次期[防空艦](../Page/防空艦.md "wikilink")の開発を進めていたが、1990年にはこれらは合流し、1993年にはイタリアも参加して[ホライズン計画](../Page/ホライズン計画.md "wikilink")が開始された。この計画でも戦闘システムについてはかなりの議論がなされたが、最終的に、アスター艦対空ミサイルが共通装備として採用された。そしてそのための武器システムとして、フランスとイタリアが開発してきたFSAFを基本として開発されたのがPAAMSである。
 
 イギリスは1999年にはホライズン計画より脱退したものの、PAAMSの開発には残留し、8月には、PAAMSのコンソーシアムであるEUROPAAMSとのあいだで、3国で20億ドル強の本格製法開発と初期生産の契約が締結された。このEUROPAAMSは、フランスとイタリアのEUROSAMと、イギリスのUKAMSという2つのコンソーシアムの統合体である。
 
@@ -41,9 +41,9 @@ PAAMSはこれらを一本化したものであったが、特に多機能レー
 
 ## PAAMS搭載艦
 
-  -   - [フォルバン級駆逐艦](https://ja.wikipedia.org/wiki/フォルバン級駆逐艦 "wikilink")
+  -   - [フォルバン級駆逐艦](../Page/フォルバン級駆逐艦.md "wikilink")
 
-  -   - [アンドレア・ドーリア級駆逐艦](https://ja.wikipedia.org/wiki/アンドレア・ドーリア級駆逐艦 "wikilink")
+  -   - [アンドレア・ドーリア級駆逐艦](../Page/アンドレア・ドーリア級駆逐艦.md "wikilink")
 
   -   - [45型駆逐艦](../Page/45型駆逐艦.md "wikilink")
 

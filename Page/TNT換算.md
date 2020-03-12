@@ -7,7 +7,7 @@
 
 TNT換算で得られる質量を**TNT当量**という。TNT当量が1[トン](../Page/トン.md "wikilink")（1メトリックトン = 1000[キログラム](https://ja.wikipedia.org/wiki/キログラム "wikilink")）であるエネルギーを、1**TNT換算トン**、1**TNTトン**、あるいは誤解の余地がないときは単に1**トン**といい、必要に応じて[キロ](../Page/キロ.md "wikilink") (1000)、[メガ](../Page/メガ.md "wikilink") (100万) の[SI接頭辞](../Page/SI接頭辞.md "wikilink")をつけて使う。
 
-ニュースなどでも「A国の原爆BはTNT換算で50キロトンの破壊力」などと表す使い方が一般的に見かけられる。TNT換算で評価できるのは爆発時の破壊力だけであり、[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")の使用に伴う[放射線障害](https://ja.wikipedia.org/wiki/放射線障害 "wikilink")や[放射能汚染](../Page/放射能汚染.md "wikilink")は考慮されない。
+ニュースなどでも「A国の原爆BはTNT換算で50キロトンの破壊力」などと表す使い方が一般的に見かけられる。TNT換算で評価できるのは爆発時の破壊力だけであり、[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")の使用に伴う[放射線障害](../Page/放射線障害.md "wikilink")や[放射能汚染](../Page/放射能汚染.md "wikilink")は考慮されない。
 
 なお、核爆弾以外の[通常爆弾](https://ja.wikipedia.org/wiki/通常爆弾 "wikilink")で、何トン爆弾という表現が使われることがあるが、これは爆弾の実際の[質量](../Page/質量.md "wikilink")であり、TNT当量ではない。
 
@@ -17,11 +17,11 @@ TNT換算で得られる質量を**TNT当量**という。TNT当量が1[トン](
 
 計算に便利なよう、**1TNT換算グラムは1000カロリー**と定義されている。つまり、1TNT換算トンなら10<sup>9</sup>（10億）カロリーである。
 
-実用上は問題にならないが、厳密にはカロリーには微妙に異なる複数の定義がある。[アメリカ国立標準技術研究所](https://ja.wikipedia.org/wiki/アメリカ国立標準技術研究所 "wikilink") (NIST) では、1カロリー = 4.184[ジュール](../Page/ジュール.md "wikilink")と定義される熱力学カロリーに従い、**1TNT換算トン = 4.184×10<sup>9</sup>ジュール**としている\[1\]。
+実用上は問題にならないが、厳密にはカロリーには微妙に異なる複数の定義がある。[アメリカ国立標準技術研究所](../Page/アメリカ国立標準技術研究所.md "wikilink") (NIST) では、1カロリー = 4.184[ジュール](../Page/ジュール.md "wikilink")と定義される熱力学カロリーに従い、**1TNT換算トン = 4.184×10<sup>9</sup>ジュール**としている\[1\]。
 
 ## 由来
 
-[1945年](../Page/1945年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で人類最初の[原子爆弾](../Page/原子爆弾.md "wikilink")の実験（[トリニティ実験](https://ja.wikipedia.org/wiki/トリニティ実験 "wikilink")）が行われたが、これに先立つ[5月17日](../Page/5月17日.md "wikilink")に同所で108tのTNT火薬による予備実験が行われた。以来、[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")の爆発力の測定の単位になった。
+[1945年](../Page/1945年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で人類最初の[原子爆弾](../Page/原子爆弾.md "wikilink")の実験（[トリニティ実験](../Page/トリニティ実験.md "wikilink")）が行われたが、これに先立つ[5月17日](../Page/5月17日.md "wikilink")に同所で108tのTNT火薬による予備実験が行われた。以来、[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")の爆発力の測定の単位になった。
 
 ## 例
 

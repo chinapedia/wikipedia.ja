@@ -1,11 +1,11 @@
 > この記事は[C++](https://ja.wikipedia.org/wiki/C++)から翻訳されています。
 
 
-**標準C++ライブラリ**は、[プログラミング言語](../Page/プログラミング言語.md "wikilink")[C++](../Page/C++.md "wikilink")の標準規格で定められた[ライブラリ](../Page/ライブラリ.md "wikilink")である。これは[クラスと](../Page/クラス_\(コンピュータ\).md "wikilink")[関数などの集合であり](https://ja.wikipedia.org/wiki/サブルーチン "wikilink")、汎用的な[コンテナとそれを操作する関数](../Page/コンテナ_\(データ型\).md "wikilink")、[関数オブジェクト](https://ja.wikipedia.org/wiki/関数オブジェクト "wikilink")、汎用的な[文字列](https://ja.wikipedia.org/wiki/文字列 "wikilink")と[ストリーム](https://ja.wikipedia.org/wiki/ストリーム_\(プログラミング\) "wikilink")（コンソールや[ファイルとの](https://ja.wikipedia.org/wiki/ファイル_\(コンピュータ\) "wikilink")[入出力](../Page/入出力.md "wikilink")）、言語機能サポート、数学関数ライブラリ（[超越関数](../Page/超越関数.md "wikilink")の近似を含む）などといった一般的かつ汎用的な関数などから構成される。また、ISO C90規格の[標準Cライブラリ](https://ja.wikipedia.org/wiki/標準Cライブラリ "wikilink")も含んでいる（[C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink")で[C99](../Page/C99.md "wikilink")互換のライブラリも追加された）。標準C++ライブラリはそのほとんどが[名前空間](../Page/名前空間.md "wikilink")**`std`**内にある。[C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink")規格以降では標準ライブラリに大幅な拡張や機能追加が行なわれた。
+**標準C++ライブラリ**は、[プログラミング言語](../Page/プログラミング言語.md "wikilink")[C++](../Page/C++.md "wikilink")の標準規格で定められた[ライブラリ](../Page/ライブラリ.md "wikilink")である。これは[クラスと](../Page/クラス_\(コンピュータ\).md "wikilink")[関数などの集合であり](../Page/サブルーチン.md "wikilink")、汎用的な[コンテナとそれを操作する関数](../Page/コンテナ_\(データ型\).md "wikilink")、[関数オブジェクト](https://ja.wikipedia.org/wiki/関数オブジェクト "wikilink")、汎用的な[文字列](../Page/文字列.md "wikilink")と[ストリーム](../Page/ストリーム_\(プログラミング\).md "wikilink")（コンソールや[ファイルとの](../Page/ファイル_\(コンピュータ\).md "wikilink")[入出力](../Page/入出力.md "wikilink")）、言語機能サポート、数学関数ライブラリ（[超越関数](../Page/超越関数.md "wikilink")の近似を含む）などといった一般的かつ汎用的な関数などから構成される。また、ISO C90規格の[標準Cライブラリ](../Page/標準Cライブラリ.md "wikilink")も含んでいる（[C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink")で[C99](../Page/C99.md "wikilink")互換のライブラリも追加された）。標準C++ライブラリはそのほとんどが[名前空間](../Page/名前空間.md "wikilink")**`std`**内にある。[C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink")規格以降では標準ライブラリに大幅な拡張や機能追加が行なわれた。
 
-[Standard Template Library](https://ja.wikipedia.org/wiki/Standard_Template_Library "wikilink") (STL) は標準C++ライブラリの一部分で、[コンテナ](../Page/コンテナ_\(データ型\).md "wikilink")、[アルゴリズム](../Page/アルゴリズム.md "wikilink")、[イテレータ](../Page/イテレータ.md "wikilink")、[関数オブジェクト](https://ja.wikipedia.org/wiki/関数オブジェクト "wikilink")などを含むものである。
+[Standard Template Library](../Page/Standard_Template_Library.md "wikilink") (STL) は標準C++ライブラリの一部分で、[コンテナ](../Page/コンテナ_\(データ型\).md "wikilink")、[アルゴリズム](../Page/アルゴリズム.md "wikilink")、[イテレータ](../Page/イテレータ.md "wikilink")、[関数オブジェクト](https://ja.wikipedia.org/wiki/関数オブジェクト "wikilink")などを含むものである。
 
-C言語と異なり、標準C++ライブラリの[ヘッダには末尾に](https://ja.wikipedia.org/wiki/ヘッダファイル "wikilink")[拡張子](../Page/拡張子.md "wikilink") (`.h`) が付かない。
+C言語と異なり、標準C++ライブラリの[ヘッダには末尾に](../Page/ヘッダファイル.md "wikilink")[拡張子](../Page/拡張子.md "wikilink") (`.h`) が付かない。
 
 ## ヘッダ
 
@@ -40,7 +40,7 @@ C言語と異なり、標準C++ライブラリの[ヘッダには末尾に](http
   - <optional> ([C++17](https://ja.wikipedia.org/wiki/C++17 "wikilink"))
   - \<[ratio](../Page/分数.md "wikilink")\> ([C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink"))
   - <scoped_allocator> ([C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink"))
-  - \<[tuple](https://ja.wikipedia.org/wiki/タプル "wikilink")\> ([C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink"))
+  - \<[tuple](../Page/タプル.md "wikilink")\> ([C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink"))
   - <typeindex> ([C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink"))
   - <type_traits> ([C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink"))
   - <utility>
@@ -49,7 +49,7 @@ C言語と異なり、標準C++ライブラリの[ヘッダには末尾に](http
 ### 文字列
 
   - \<[regex](../Page/正規表現.md "wikilink")\> ([C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink"))
-  - \<[string](https://ja.wikipedia.org/wiki/文字列 "wikilink")\>
+  - \<[string](../Page/文字列.md "wikilink")\>
   - <string_view> ([C++17](https://ja.wikipedia.org/wiki/C++17 "wikilink"))
 
 ### ストリームと入出力
@@ -57,7 +57,7 @@ C言語と異なり、標準C++ライブラリの[ヘッダには末尾に](http
   - <filesystem> ([C++17](https://ja.wikipedia.org/wiki/C++17 "wikilink"))
   - \<[fstream](https://ja.wikipedia.org/wiki/fstream "wikilink")\>
   - \<[ios](https://ja.wikipedia.org/wiki/Ios_\(C++\) "wikilink")\>
-  - \<[iostream](https://ja.wikipedia.org/wiki/ストリーム_\(プログラミング\) "wikilink")\>
+  - \<[iostream](../Page/ストリーム_\(プログラミング\).md "wikilink")\>
   - \<[iosfwd](https://ja.wikipedia.org/wiki/前方参照 "wikilink")\>
   - \<[iomanip](https://ja.wikipedia.org/wiki/iomanip "wikilink")\>
   - <istream>
@@ -88,16 +88,16 @@ C言語と異なり、標準C++ライブラリの[ヘッダには末尾に](http
 
 ### スレッド
 
-  - \<[atomic](https://ja.wikipedia.org/wiki/不可分操作 "wikilink")\> ([C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink"))
+  - \<[atomic](../Page/不可分操作.md "wikilink")\> ([C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink"))
   - <condition_variable> ([C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink"))
   - \<[future](../Page/Future_パターン.md "wikilink")\> ([C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink"))
-  - \<[mutex](https://ja.wikipedia.org/wiki/ミューテックス "wikilink")\> ([C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink"))
+  - \<[mutex](../Page/ミューテックス.md "wikilink")\> ([C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink"))
   - <shared_mutex> ([C++14](https://ja.wikipedia.org/wiki/C++14 "wikilink"))
   - \<[thread](../Page/スレッド_\(コンピュータ\).md "wikilink")\> ([C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink"))
 
 ### 標準Cライブラリ
 
-C++において[標準Cライブラリ](https://ja.wikipedia.org/wiki/標準Cライブラリ "wikilink")のヘッダは、Cと異なった名前になる。ヘッダ名の末尾から拡張子 `.h` を取り除き、先頭に `c` を加える。例えば `time.h` は `ctime` という具合である。そしてヘッダ内の宣言は名前空間`std`の中に置かれるため、（名前空間の影響を受けないマクロを除いて）関数や型名には`std::`を付けて完全修飾することで区別する。なお、ISO Cでは関数をマクロとして実装することも認めていたが、ISO C++では認められていない。
+C++において[標準Cライブラリ](../Page/標準Cライブラリ.md "wikilink")のヘッダは、Cと異なった名前になる。ヘッダ名の末尾から拡張子 `.h` を取り除き、先頭に `c` を加える。例えば `time.h` は `ctime` という具合である。そしてヘッダ内の宣言は名前空間`std`の中に置かれるため、（名前空間の影響を受けないマクロを除いて）関数や型名には`std::`を付けて完全修飾することで区別する。なお、ISO Cでは関数をマクロとして実装することも認めていたが、ISO C++では認められていない。
 
   - \<[cassert](https://ja.wikipedia.org/wiki/標準Cライブラリ#診断機能_\<assert.h\> "wikilink")\>
   - \<[cctype](https://ja.wikipedia.org/wiki/標準Cライブラリ#文字操作_\<ctype.h\> "wikilink")\>

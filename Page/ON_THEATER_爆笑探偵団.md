@@ -10,7 +10,7 @@
 ## 出演
 
   - 爆笑探偵 - [爆笑問題](../Page/爆笑問題.md "wikilink")
-  - 正解を告げる女 - [藤島昌子](https://ja.wikipedia.org/wiki/藤島昌子 "wikilink")（当時UHBアナウンサー）
+  - 正解を告げる女 - [藤島昌子](../Page/藤島昌子.md "wikilink")（当時UHBアナウンサー）
 
 ### 嵐の山荘殺人事件
 
@@ -49,16 +49,16 @@
   - シェフ - [雨夜秀興](https://ja.wikipedia.org/wiki/雨夜秀興 "wikilink")（[ワクチン](../Page/ワクチン.md "wikilink")）
       -
         フレンチレストラン店長。「まりもっこり」に過剰反応。
-  - ギャルソン - [小山めぐみ](https://ja.wikipedia.org/wiki/小山めぐみ "wikilink")([劇団SKグループ](https://ja.wikipedia.org/wiki/劇団SKグループ "wikilink"))
+  - ギャルソン - [小山めぐみ](https://ja.wikipedia.org/wiki/小山めぐみ "wikilink")([劇団SKグループ](../Page/劇団SKグループ.md "wikilink"))
 
 ### 女子アナ個人情報流出事件
 
-出演者は[北海道文化放送\#女性](https://ja.wikipedia.org/wiki/北海道文化放送#女性 "wikilink")を参照（[遠藤麗奈](https://ja.wikipedia.org/wiki/遠藤麗奈 "wikilink")、[水野悠希](../Page/水野悠希.md "wikilink")、[鈴木亜希子](https://ja.wikipedia.org/wiki/鈴木亜希子 "wikilink")）。
+出演者は[北海道文化放送\#女性](https://ja.wikipedia.org/wiki/北海道文化放送#女性 "wikilink")を参照（[遠藤麗奈](../Page/遠藤麗奈.md "wikilink")、[水野悠希](../Page/水野悠希.md "wikilink")、[鈴木亜希子](../Page/鈴木亜希子.md "wikilink")）。
 
 ## スタッフ
 
   - 脚本・演出:[松木創](https://ja.wikipedia.org/wiki/松木創 "wikilink")（共同テレビジョン）
-  - ナレーター:[宇野章午](https://ja.wikipedia.org/wiki/宇野章午 "wikilink")、[松本裕子](https://ja.wikipedia.org/wiki/松本裕子_\(アナウンサー\) "wikilink")
+  - ナレーター:[宇野章午](../Page/宇野章午.md "wikilink")、[松本裕子](../Page/松本裕子_\(アナウンサー\).md "wikilink")
   - 編成:伊達光良
   - プロデューサー:石渡敏（北海道文化放送）
   - 演出:田中厚志（[ユープロダクション](https://ja.wikipedia.org/wiki/ユープロダクション "wikilink")）

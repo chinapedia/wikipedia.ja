@@ -5,7 +5,7 @@
 
 ## 経済・政治
 
-  - [プエルトリコ独立党](https://ja.wikipedia.org/wiki/プエルトリコ独立党 "wikilink") (Puerto Rican Independence Party)
+  - [プエルトリコ独立党](../Page/プエルトリコ独立党.md "wikilink") (Puerto Rican Independence Party)
 
   - \- 為替レートの値動きの最小単位
 
@@ -35,15 +35,15 @@
 
   - (prolactin-induced protein)
 
-  - [指](../Page/指.md "wikilink")の第二[関節](https://ja.wikipedia.org/wiki/関節 "wikilink") (proximal interpharangeal joints)
+  - [指](../Page/指.md "wikilink")の第二[関節](../Page/関節.md "wikilink") (proximal interpharangeal joints)
 
 ### コンピュータ
 
-  - [pip](https://ja.wikipedia.org/wiki/pip "wikilink") - プログラミング言語[Python](../Page/Python.md "wikilink")の[パッケージ管理システム](https://ja.wikipedia.org/wiki/パッケージ管理システム "wikilink")
+  - [pip](https://ja.wikipedia.org/wiki/pip "wikilink") - プログラミング言語[Python](../Page/Python.md "wikilink")の[パッケージ管理システム](../Page/パッケージ管理システム.md "wikilink")
 
-  - [Peripheral Interchange Program](https://ja.wikipedia.org/wiki/Peripheral_Interchange_Program "wikilink") - [DEC](https://ja.wikipedia.org/wiki/DEC "wikilink")製コンピュータまたはCP/Mにおけるデータファイル転送ユーティリティ
+  - [Peripheral Interchange Program](../Page/Peripheral_Interchange_Program.md "wikilink") - [DEC](https://ja.wikipedia.org/wiki/DEC "wikilink")製コンピュータまたはCP/Mにおけるデータファイル転送ユーティリティ
 
-  - \- [計算幾何学](https://ja.wikipedia.org/wiki/計算幾何学 "wikilink")の概念
+  - \- [計算幾何学](../Page/計算幾何学.md "wikilink")の概念
 
   - [Policy Information Point](https://ja.wikipedia.org/wiki/Policy_Information_Point "wikilink") - の用語
 

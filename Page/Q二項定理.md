@@ -11,7 +11,7 @@
   -
     \(_1\phi_0\left[\begin{matrix}a\\-\end{matrix};q,z\right]=\sum_{n=0}^{\infty}\frac{(a;q)_n}{(q;q)_n}z^n=\frac{(az;q)_\infty}{(z;q)_\infty}\qquad(|q|<1,|z|<1)\)
 
-をq二項定理と呼ぶ。ただし、\((a)_n\)は[ポッホハマー記号](https://ja.wikipedia.org/wiki/ポッホハマー記号 "wikilink")、\((a;q)_n\)は[qポッホハマー記号](https://ja.wikipedia.org/wiki/qポッホハマー記号 "wikilink")である。
+をq二項定理と呼ぶ。ただし、\((a)_n\)は[ポッホハマー記号](../Page/ポッホハマー記号.md "wikilink")、\((a;q)_n\)は[qポッホハマー記号](https://ja.wikipedia.org/wiki/qポッホハマー記号 "wikilink")である。
 
 ## 証明
 

@@ -1,15 +1,15 @@
 > この記事は[ \(Kalafina\)](https://ja.wikipedia.org/wiki/_\(Kalafina\))から翻訳されています。
 
 
-「**アレルヤ**」は、[Kalafina](https://ja.wikipedia.org/wiki/Kalafina "wikilink")の13枚目の[シングル](../Page/シングル.md "wikilink")。[2013年](../Page/2013年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")に[SME Recordsから発売された](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。
+「**アレルヤ**」は、[Kalafina](https://ja.wikipedia.org/wiki/Kalafina "wikilink")の13枚目の[シングル](../Page/シングル.md "wikilink")。[2013年](../Page/2013年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")に[SME Recordsから発売された](../Page/エスエムイーレコーズ.md "wikilink")。
 
 ## 概要
 
-前作「[ひかりふる](https://ja.wikipedia.org/wiki/ひかりふる "wikilink")」から約1年ぶりのリリースとなる、2013年1作目のシングル。表題曲は、[アニメーション映画](../Page/アニメーション映画.md "wikilink")『[空の境界 未来福音](https://ja.wikipedia.org/wiki/空の境界_未来福音 "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")に起用された。販売形態は空の境界盤(期間限定盤)、通常盤の2種リリースで、空の境界盤と通常盤で収録曲が一部異なる。
+前作「[ひかりふる](https://ja.wikipedia.org/wiki/ひかりふる "wikilink")」から約1年ぶりのリリースとなる、2013年1作目のシングル。表題曲は、[アニメーション映画](../Page/アニメーション映画.md "wikilink")『[空の境界 未来福音](https://ja.wikipedia.org/wiki/空の境界_未来福音 "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")に起用された。販売形態は空の境界盤(期間限定盤)、通常盤の2種リリースで、空の境界盤と通常盤で収録曲が一部異なる。
 
 ## チャート成績
 
-2013年[10月14日](../Page/10月14日.md "wikilink")付[オリコンウィークリーチャートで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1.1万枚を売り上げて10位を獲得。また、2013年11月14日付のBillboard JAPAN Hot Animationでは1位を獲得した\[1\]。
+2013年[10月14日](../Page/10月14日.md "wikilink")付[オリコンウィークリーチャートで](../Page/オリコンチャート.md "wikilink")1.1万枚を売り上げて10位を獲得。また、2013年11月14日付のBillboard JAPAN Hot Animationでは1位を獲得した\[1\]。
 
 ## 収録曲
 

@@ -1,7 +1,7 @@
 > この記事は[HS2](https://ja.wikipedia.org/wiki/HS2)から翻訳されています。
 
 
-**HS2**(*High Speed Two*・*High Speed 2*)は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で計画されている[高速鉄道](../Page/高速鉄道.md "wikilink")路線である。英国政府により設立された High Speed Two Ltd. により本事業が行われる。当路線は第一期工事においてロンドン[ユーストン駅](https://ja.wikipedia.org/wiki/ユーストン駅 "wikilink")と[バーミンガム](../Page/バーミンガム.md "wikilink")を結び、[CTRL](https://ja.wikipedia.org/wiki/CTRL "wikilink")(*High Speed One*・*High Speed 1*)と接続しイギリス西北部とヨーロッパ大陸を高速鉄道で結ぶルートとして計画された。
+**HS2**(*High Speed Two*・*High Speed 2*)は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で計画されている[高速鉄道](../Page/高速鉄道.md "wikilink")路線である。英国政府により設立された High Speed Two Ltd. により本事業が行われる。当路線は第一期工事においてロンドン[ユーストン駅](https://ja.wikipedia.org/wiki/ユーストン駅 "wikilink")と[バーミンガム](../Page/バーミンガム.md "wikilink")を結び、[CTRL](../Page/CTRL.md "wikilink")(*High Speed One*・*High Speed 1*)と接続しイギリス西北部とヨーロッパ大陸を高速鉄道で結ぶルートとして計画された。
 
 ## High Speed Two Ltd.
 
@@ -19,13 +19,13 @@
 
 ## 歴史
 
-[2007年](../Page/2007年.md "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")にイギリス政府は、オンライン版の何紙かの新聞に次の30年間の戦略レポートを著した。そのレポートでは、高速鉄道の計画が述べられ「イギリスではHS2は必要であるかもしれない。」しかし「路線の建設費を捻出するには至らない。」と必要性を強調しながらも、予算不足をにじませた。[2012年](../Page/2012年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に第一期線の建設計画が、[2013年](../Page/2013年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に第二期線の計画が承認され、第一期線は2017年の着工を目指している。
+[2007年](../Page/2007年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")にイギリス政府は、オンライン版の何紙かの新聞に次の30年間の戦略レポートを著した。そのレポートでは、高速鉄道の計画が述べられ「イギリスではHS2は必要であるかもしれない。」しかし「路線の建設費を捻出するには至らない。」と必要性を強調しながらも、予算不足をにじませた。[2012年](../Page/2012年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に第一期線の建設計画が、[2013年](../Page/2013年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に第二期線の計画が承認され、第一期線は2017年の着工を目指している。
 
 ## 関連項目
 
   - [セント・パンクラス駅](../Page/セント・パンクラス駅.md "wikilink")
   - [ユーロスター](../Page/ユーロスター.md "wikilink")
-  - [CTRL](https://ja.wikipedia.org/wiki/CTRL "wikilink")
+  - [CTRL](../Page/CTRL.md "wikilink")
 
 ## 外部リンク
 

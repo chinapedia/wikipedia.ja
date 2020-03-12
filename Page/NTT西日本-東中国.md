@@ -3,7 +3,7 @@
 
 **NTT西日本-東中国**（エヌティティにしにほん-ひがしちゅうごく）は、かつて[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[岡山市](../Page/岡山市.md "wikilink")に本社を置き、電気通信設備関係や工事関係などで主に[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[鳥取県](../Page/鳥取県.md "wikilink")を管轄していた、[西日本電信電話](../Page/西日本電信電話.md "wikilink")（NTT西日本）の子会社。
 
-グループ再編のため、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")付で、[NTT西日本-山口](https://ja.wikipedia.org/wiki/NTT西日本-山口 "wikilink")とともに[NTT西日本-中国](https://ja.wikipedia.org/wiki/NTT西日本-中国 "wikilink")に吸収合併され解散した。
+グループ再編のため、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")付で、[NTT西日本-山口](../Page/NTT西日本-山口.md "wikilink")とともに[NTT西日本-中国](../Page/NTT西日本-中国.md "wikilink")に吸収合併され解散した。
 
 ## 事業所
 
@@ -38,7 +38,7 @@
 
 ## 事業内容
 
-  - 電気通信設備に関わる設備提案、設計、工事、保守、交換局管理、コンサルティング及び設備・品質管理。[IP電話や](https://ja.wikipedia.org/wiki/日本のIP電話 "wikilink")[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")接続サービスを担当。
+  - 電気通信設備に関わる設備提案、設計、工事、保守、交換局管理、コンサルティング及び設備・品質管理。[IP電話や](https://ja.wikipedia.org/wiki/日本のIP電話 "wikilink")[インターネット](../Page/インターネット.md "wikilink")接続サービスを担当。
   - 西日本電信電話株式会社等からの問い合わせ、注文受付、販売業務等の受託　等
 
 ## 担当地域
@@ -48,7 +48,7 @@
 
 ## 関連項目
 
-  - [NTT西日本-中国](https://ja.wikipedia.org/wiki/NTT西日本-中国 "wikilink")
+  - [NTT西日本-中国](../Page/NTT西日本-中国.md "wikilink")
 
 ## 外部リンク
 

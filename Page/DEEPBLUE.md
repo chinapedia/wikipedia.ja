@@ -1,13 +1,13 @@
 > この記事は[DEEPBLUE](https://ja.wikipedia.org/wiki/DEEPBLUE)から翻訳されています。
 
 
-**DEEPBLUE**（ディープブルー）は、かつて存在していた[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。[きみづか葵](../Page/きみづか葵.md "wikilink")が原画を手がけた[2002年](../Page/2002年.md "wikilink")発売の「[Lost Passage](https://ja.wikipedia.org/wiki/Lost_Passage "wikilink")」、[2003年](../Page/2003年.md "wikilink")発売の「[3LDK♥](https://ja.wikipedia.org/wiki/3LDK_\(ゲーム\) "wikilink")」はコンシューマー移植されるほどのヒット作となったが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に発売した「兄妹」に関するトラブル（後述）を起こして間も無くホームページが閉鎖され、活動を停止した。「3LDK」を開発したTeam Silver Mittsは同じ年に独立し、[桜月](https://ja.wikipedia.org/wiki/桜月 "wikilink")を立ち上げた。
+**DEEPBLUE**（ディープブルー）は、かつて存在していた[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。[きみづか葵](../Page/きみづか葵.md "wikilink")が原画を手がけた[2002年](../Page/2002年.md "wikilink")発売の「[Lost Passage](https://ja.wikipedia.org/wiki/Lost_Passage "wikilink")」、[2003年](../Page/2003年.md "wikilink")発売の「[3LDK♥](../Page/3LDK_\(ゲーム\).md "wikilink")」はコンシューマー移植されるほどのヒット作となったが、[2005年](../Page/2005年.md "wikilink")に発売した「兄妹」に関するトラブル（後述）を起こして間も無くホームページが閉鎖され、活動を停止した。「3LDK」を開発したTeam Silver Mittsは同じ年に独立し、[桜月](https://ja.wikipedia.org/wiki/桜月 "wikilink")を立ち上げた。
 
 ## 作品一覧
 
   - 背徳者の小夜曲
   - [Lost Passage](https://ja.wikipedia.org/wiki/Lost_Passage "wikilink")
-  - [3LDK♥](https://ja.wikipedia.org/wiki/3LDK_\(ゲーム\) "wikilink")
+  - [3LDK♥](../Page/3LDK_\(ゲーム\).md "wikilink")
   - DEEPBLUEファンディスク 11人の胸キュンLOVE\!（「Lost Passage」「3LDK」のファンディスク）
   - 兄妹 〜ふたり〜
 
@@ -30,7 +30,7 @@
 
 ## 備考
 
-  - ほとんどの作品の著作権表示が「CandyHouse/DEEPBLUE」となっているが、CandyHouseとは[株式会社ソフトガレージのアダルトゲームレーベルである](https://ja.wikipedia.org/wiki/Softgarage "wikilink")。
+  - ほとんどの作品の著作権表示が「CandyHouse/DEEPBLUE」となっているが、CandyHouseとは[株式会社ソフトガレージのアダルトゲームレーベルである](../Page/Softgarage.md "wikilink")。
 
 <!-- end list -->
 

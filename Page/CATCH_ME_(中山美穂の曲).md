@@ -1,11 +1,11 @@
 > この記事は[CATCH ME \(\)](https://ja.wikipedia.org/wiki/CATCH_ME_\(\))から翻訳されています。
 
 
-『**CATCH ME**』（キャッチ・ミー）は、[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")の11枚目の[シングル](../Page/シングル.md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から[リリースされた](https://ja.wikipedia.org/wiki/発売 "wikilink")。(シングルレコード:K07S-10221)
+『**CATCH ME**』（キャッチ・ミー）は、[中山美穂](../Page/中山美穂.md "wikilink")の11枚目の[シングル](../Page/シングル.md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から[リリースされた](https://ja.wikipedia.org/wiki/発売 "wikilink")。(シングルレコード:K07S-10221)
 
 ## 解説
 
-  - 本人主演[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[おヒマなら来てよネ\!](../Page/おヒマなら来てよネ!.md "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。実際にドラマで使用されていたのはAlbum Versionの方である。
+  - 本人主演[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[おヒマなら来てよネ\!](../Page/おヒマなら来てよネ!.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")。実際にドラマで使用されていたのはAlbum Versionの方である。
   - 中山美穂にとって初のオリコン週間首位獲得曲である。
   - [シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")を[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")に迎え、この曲を収録した翌年2月発売のアルバム『[CATCH THE NITE](https://ja.wikipedia.org/wiki/CATCH_THE_NITE "wikilink")』も1位を獲得した。
   - 曲冒頭の掛け声は同じく角松プロデュースで[ダンス☆マン](../Page/ダンス☆マン.md "wikilink")が所属していた[ジャドーズ](../Page/ジャドーズ.md "wikilink")が担当している。
@@ -21,7 +21,7 @@
 ## 収録アルバム
 
   - **CATCH ME**
-      - [COLLECTION](https://ja.wikipedia.org/wiki/COLLECTION "wikilink")
+      - [COLLECTION](../Page/COLLECTION.md "wikilink")
       - [CATCH THE NITE](https://ja.wikipedia.org/wiki/CATCH_THE_NITE "wikilink") - Album Version
       - [Makin' Dancin'](https://ja.wikipedia.org/wiki/Makin'_Dancin' "wikilink") - Remix Version
       - [DANCE BOX](https://ja.wikipedia.org/wiki/DANCE_BOX "wikilink") - Remix Version
@@ -47,6 +47,6 @@
 
   - [角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")
   - [おヒマなら来てよネ\!](../Page/おヒマなら来てよネ!.md "wikilink")
-  - [1987年の音楽](https://ja.wikipedia.org/wiki/1987年の音楽 "wikilink")
+  - [1987年の音楽](../Page/1987年の音楽.md "wikilink")
 
 [Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:角松敏生が制作した楽曲](https://ja.wikipedia.org/wiki/Category:角松敏生が制作した楽曲 "wikilink") [Category:1987年のシングル](https://ja.wikipedia.org/wiki/Category:1987年のシングル "wikilink") [Category:1987年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1987年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:フジテレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビドラマ主題歌 "wikilink") [Category:ニ短調](https://ja.wikipedia.org/wiki/Category:ニ短調 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")

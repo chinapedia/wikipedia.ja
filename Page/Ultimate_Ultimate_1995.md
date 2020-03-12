@@ -5,49 +5,49 @@
 
 ## 大会概要
 
-歴代王者が集った本大会では[ダン・スバーン](../Page/ダン・スバーン.md "wikilink")がポール・ヴァレランス、[タンク・アボット](../Page/タンク・アボット.md "wikilink")、[オレッグ・タクタロフ](https://ja.wikipedia.org/wiki/オレッグ・タクタロフ "wikilink")を降し、トーナメント優勝を果たした。
+歴代王者が集った本大会では[ダン・スバーン](../Page/ダン・スバーン.md "wikilink")がポール・ヴァレランス、[タンク・アボット](../Page/タンク・アボット.md "wikilink")、[オレッグ・タクタロフ](../Page/オレッグ・タクタロフ.md "wikilink")を降し、トーナメント優勝を果たした。
 
 ## 試合結果
 
   - 第1試合 Ultimate Ultimate '95トーナメント リザーブマッチ 10分1R
     ○  ジョー・チャールズ vs.  スコット・ビーザック ×
-    1R 4:38 [アームロック](https://ja.wikipedia.org/wiki/アームロック "wikilink")
+    1R 4:38 [アームロック](../Page/アームロック.md "wikilink")
   - 第2試合 Ultimate Ultimate '95トーナメント リザーブマッチ 10分1R
     ○  マーク・ホール vs.  トレント・ジェンキンス ×
-    1R 5:29 [アームロック](https://ja.wikipedia.org/wiki/アームロック "wikilink")
+    1R 5:29 [アームロック](../Page/アームロック.md "wikilink")
   - 第3試合 Ultimate Ultimate '95トーナメント 1回戦 15分1R
     ○  [タンク・アボット](../Page/タンク・アボット.md "wikilink") vs.  [スティーブ・ジェナム](https://ja.wikipedia.org/wiki/スティーブ・ジェナム "wikilink") ×
     1R 1:14 [ネックロック](https://ja.wikipedia.org/wiki/ネックロック "wikilink")
     ※アボットが準決勝進出。
   - 第4試合 Ultimate Ultimate '95トーナメント 1回戦 15分1R
     ○  [ダン・スバーン](../Page/ダン・スバーン.md "wikilink") vs.  ポール・ヴァレランス ×
-    1R 1:40 [肩固め](https://ja.wikipedia.org/wiki/肩固め "wikilink")
+    1R 1:40 [肩固め](../Page/肩固め.md "wikilink")
     ※スバーンが準決勝進出。
   - 第5試合 Ultimate Ultimate '95トーナメント 1回戦 15分1R
     ○  [マルコ・ファス](../Page/マルコ・ファス.md "wikilink") vs.  キース・ハックニー ×
-    1R 2:39 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    1R 2:39 [チョークスリーパー](../Page/裸絞.md "wikilink")
     ※ファスが準決勝進出。
   - 第6試合 Ultimate Ultimate '95トーナメント 1回戦 15分1R
-    ○  [オレッグ・タクタロフ](https://ja.wikipedia.org/wiki/オレッグ・タクタロフ "wikilink") vs.  デイブ・ベネトゥー ×
-    1R 1:15 [アキレス腱固め](https://ja.wikipedia.org/wiki/アキレス腱固め "wikilink")
+    ○  [オレッグ・タクタロフ](../Page/オレッグ・タクタロフ.md "wikilink") vs.  デイブ・ベネトゥー ×
+    1R 1:15 [アキレス腱固め](../Page/アキレス腱固め.md "wikilink")
     ※タクタロフが準決勝進出。
   - 第7試合 Ultimate Ultimate '95トーナメント 準決勝 18分1R
     ○  [ダン・スバーン](../Page/ダン・スバーン.md "wikilink") vs.  [タンク・アボット](../Page/タンク・アボット.md "wikilink") ×
     1R終了 判定3-0
     ※スバーンが決勝進出。
   - 第8試合 Ultimate Ultimate '95トーナメント 準決勝 18分1R
-    ○  [オレッグ・タクタロフ](https://ja.wikipedia.org/wiki/オレッグ・タクタロフ "wikilink") vs.  [マルコ・ファス](../Page/マルコ・ファス.md "wikilink") ×
+    ○  [オレッグ・タクタロフ](../Page/オレッグ・タクタロフ.md "wikilink") vs.  [マルコ・ファス](../Page/マルコ・ファス.md "wikilink") ×
     1R終了 判定3-0
     ※タクタロフが決勝進出。
   - 第9試合 Ultimate Ultimate '95トーナメント 決勝戦 27分1R、延長3分
-    ○  [ダン・スバーン](../Page/ダン・スバーン.md "wikilink") vs.  [オレッグ・タクタロフ](https://ja.wikipedia.org/wiki/オレッグ・タクタロフ "wikilink") ×
+    ○  [ダン・スバーン](../Page/ダン・スバーン.md "wikilink") vs.  [オレッグ・タクタロフ](../Page/オレッグ・タクタロフ.md "wikilink") ×
     延長R終了 判定3-0
     ※スバーンがトーナメント優勝。
 
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

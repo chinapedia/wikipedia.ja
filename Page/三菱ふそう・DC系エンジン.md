@@ -1,7 +1,7 @@
 > この記事は[DC](https://ja.wikipedia.org/wiki/DC)から翻訳されています。
 
 
-[8DC11_engine.jpg](https://ja.wikipedia.org/wiki/File:8DC11_engine.jpg "fig:8DC11_engine.jpg") **三菱ふそう・DC系エンジン**は、[1967年](../Page/1967年.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にかけて[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")（[2003年](../Page/2003年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")から[三菱ふそうトラック・バス](https://ja.wikipedia.org/wiki/三菱ふそうトラック・バス "wikilink")）の大型トラック・バスに搭載または産業用（定置型）に用いられた[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")である。
+[8DC11_engine.jpg](https://ja.wikipedia.org/wiki/File:8DC11_engine.jpg "fig:8DC11_engine.jpg") **三菱ふそう・DC系エンジン**は、[1967年](../Page/1967年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")にかけて[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")（[2003年](../Page/2003年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")から[三菱ふそうトラック・バス](../Page/三菱ふそうトラック・バス.md "wikilink")）の大型トラック・バスに搭載または産業用（定置型）に用いられた[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")である。
 
 ## シリーズの変遷
 
@@ -11,9 +11,9 @@
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に新系列の[M2系](https://ja.wikipedia.org/wiki/M2系 "wikilink")が発売されてからもトラック用エンジンでパワータードが採用され、引き続き汎用的な出力帯の無過給エンジンの主力であった。
 
-[2000年](../Page/2000年.md "wikilink")のマイナーチェンジでは、8DC11型1機種のみ平成11年規制に適合して[スーパーグレートおよび](../Page/三菱ふそう・スーパーグレート.md "wikilink")[エアロバスに採用された](https://ja.wikipedia.org/wiki/三菱ふそう・エアロエース "wikilink")。
+[2000年](../Page/2000年.md "wikilink")のマイナーチェンジでは、8DC11型1機種のみ平成11年規制に適合して[スーパーグレートおよび](../Page/三菱ふそう・スーパーグレート.md "wikilink")[エアロバスに採用された](../Page/三菱ふそう・エアロエース.md "wikilink")。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")市販車向けの展開終了（後継は[6M70系](../Page/三菱ふそう・6M系エンジン.md "wikilink")）。産業用は8DC9型（ターボ付）を継続生産している。
+[2005年](../Page/2005年.md "wikilink")市販車向けの展開終了（後継は[6M70系](../Page/三菱ふそう・6M系エンジン.md "wikilink")）。産業用は8DC9型（ターボ付）を継続生産している。
 
 ## シリーズの解説
 
@@ -58,15 +58,15 @@
 
   - [Tシリーズ](../Page/三菱ふそう・Tシリーズ.md "wikilink")（T800/T900系）
   - [Fシリーズ](../Page/三菱ふそう・Fシリーズ.md "wikilink")（FU/FV系）
-  - [ザ・グレート](https://ja.wikipedia.org/wiki/三菱ふそう・ザ・グレート "wikilink")
+  - [ザ・グレート](../Page/三菱ふそう・ザ・グレート.md "wikilink")
   - [スーパーグレート](../Page/三菱ふそう・スーパーグレート.md "wikilink")
 
 **バス**
 
-  - [B8/B9系](https://ja.wikipedia.org/wiki/三菱ふそう・エアロエース "wikilink")
-  - [MS512/513/613/615系](https://ja.wikipedia.org/wiki/三菱ふそう・エアロエース "wikilink")
-  - [エアロバス](https://ja.wikipedia.org/wiki/三菱ふそう・エアロエース "wikilink")（MS7系は8DC8・9・10・11、MS8系は8DC9・10・11）
-  - [エアロクィーン](https://ja.wikipedia.org/wiki/三菱ふそう・エアロエース "wikilink")（MS725系は8DC9ターボ、MS729系は8DC11）
+  - [B8/B9系](../Page/三菱ふそう・エアロエース.md "wikilink")
+  - [MS512/513/613/615系](../Page/三菱ふそう・エアロエース.md "wikilink")
+  - [エアロバス](../Page/三菱ふそう・エアロエース.md "wikilink")（MS7系は8DC8・9・10・11、MS8系は8DC9・10・11）
+  - [エアロクィーン](../Page/三菱ふそう・エアロエース.md "wikilink")（MS725系は8DC9ターボ、MS729系は8DC11）
   - [エアロキング](../Page/三菱ふそう・エアロキング.md "wikilink")（8DC9ターボ:MU515TA/MU525TA）
 
 ## 参考文献

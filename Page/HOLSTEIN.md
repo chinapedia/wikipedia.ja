@@ -10,14 +10,14 @@
       - 元[SHACHI](https://ja.wikipedia.org/wiki/SHACHI "wikilink")、現[ATATA](https://ja.wikipedia.org/wiki/ATATA "wikilink")
   - **Dai Torii** (鳥居大) [ギター](../Page/ギター.md "wikilink")・[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") 2007年加入
       - 現[RetromaniA](https://ja.wikipedia.org/wiki/RetromaniA "wikilink")、現[ATATA](https://ja.wikipedia.org/wiki/ATATA "wikilink")
-  - **Masashi Kaneda** (金田雅史) [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") 2007年加入
+  - **Masashi Kaneda** (金田雅史) [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink") 2007年加入
       - 元[WOUND THIRD PICTURE](https://ja.wikipedia.org/wiki/WOUND_THIRD_PICTURE "wikilink")、元[JOURNAL SPY EFFORT](https://ja.wikipedia.org/wiki/JOURNAL_SPY_EFFORT "wikilink")、元[MIRROR](https://ja.wikipedia.org/wiki/MIRROR_\(バンド\) "wikilink")、現[ATATA](https://ja.wikipedia.org/wiki/ATATA "wikilink")
   - **Yuyo Nagatsuka** (長塚有世) [ドラム担当](../Page/ドラムセット.md "wikilink")
 
 ## 旧メンバー
 
   - **Yoichiro Miyake** [ドラム担当](../Page/ドラムセット.md "wikilink")
-  - **Genta Kobayashi** (小林厳太) [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") 2007年6月2日脱退
+  - **Genta Kobayashi** (小林厳太) [ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") 2007年6月2日脱退
 
 ## 概要
 
@@ -310,18 +310,18 @@ URCS-000104:初回限定DVDケース仕様</p></td>
 <p>DISC1</p>
 <ol>
 <li>デリケートにキスして / <a href="../Page/氣志團.md" title="wikilink">氣志團</a></li>
-<li>SO EXCITED！ / <a href="https://ja.wikipedia.org/wiki/SHAKALABBITS" title="wikilink">SHAKALABBITS</a></li>
-<li>WILL / <a href="https://ja.wikipedia.org/wiki/SNAIL_RAMP" title="wikilink">SNAIL RAMP</a></li>
+<li>SO EXCITED！ / <a href="../Page/SHAKALABBITS.md" title="wikilink">SHAKALABBITS</a></li>
+<li>WILL / <a href="../Page/SNAIL_RAMP.md" title="wikilink">SNAIL RAMP</a></li>
 <li>イナズマ / <a href="https://ja.wikipedia.org/wiki/CUNE" title="wikilink">CUNE</a></li>
 <li>あしたのうた / <a href="../Page/DOMINO88.md" title="wikilink">DOMINO88</a></li>
-<li>IN-HIのテーマ / <a href="https://ja.wikipedia.org/wiki/IN-HI" title="wikilink">IN-HI</a></li>
-<li>僕は君を永遠に / <a href="https://ja.wikipedia.org/wiki/THE_STAND_UP" title="wikilink">THE STAND UP</a></li>
+<li>IN-HIのテーマ / <a href="../Page/IN-HI.md" title="wikilink">IN-HI</a></li>
+<li>僕は君を永遠に / <a href="../Page/THE_STAND_UP.md" title="wikilink">THE STAND UP</a></li>
 <li>旅人よ笑え / <a href="https://ja.wikipedia.org/wiki/マグネットコーティング_(バンド)" title="wikilink">マグネットコーティング</a></li>
 <li>やのあさって / <a href="https://ja.wikipedia.org/wiki/フーバーオーバー" title="wikilink">フーバーオーバー</a></li>
-<li>XL MAN OSAKA / <a href="https://ja.wikipedia.org/wiki/GELUGUGU" title="wikilink">THE GELUGUGU</a></li>
+<li>XL MAN OSAKA / <a href="../Page/GELUGUGU.md" title="wikilink">THE GELUGUGU</a></li>
 <li>はんぶんこ / <a href="../Page/Bivattchee.md" title="wikilink">Bivattchee</a></li>
 <li>STIRRING UP / <a href="https://ja.wikipedia.org/wiki/DALLAX" title="wikilink">DALLAX</a></li>
-<li>少年激情 / <a href="https://ja.wikipedia.org/wiki/STANCE_PUNKS" title="wikilink">STANCE PUNKS</a></li>
+<li>少年激情 / <a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
 </ol>
 <p># one night summer love / [[SQUEEZE</p></td>
 <td><p>|SQUEEZE</p></td>
@@ -348,11 +348,11 @@ URCS-000104:初回限定DVDケース仕様</p></td>
 <li>そのまま進むのだ / <a href="https://ja.wikipedia.org/wiki/テルスター_(バンド)" title="wikilink">TELSTAR</a></li>
 </ol>
 <p># Thanks</p></td>
-<td><p>(F.O.) / <a href="https://ja.wikipedia.org/wiki/ムラマサ☆" title="wikilink">ムラマサ☆</a></p>
+<td><p>(F.O.) / <a href="../Page/ムラマサ☆.md" title="wikilink">ムラマサ☆</a></p>
 <ol>
-<li>Rainbow / <a href="https://ja.wikipedia.org/wiki/LONG_SHOT_PARTY" title="wikilink">LONG SHOT PARTY</a></li>
+<li>Rainbow / <a href="../Page/LONG_SHOT_PARTY.md" title="wikilink">LONG SHOT PARTY</a></li>
 <li>3分前 / <a href="https://ja.wikipedia.org/wiki/SLUGGER" title="wikilink">SLUGGER</a></li>
-<li>ココロノコトバ / <a href="https://ja.wikipedia.org/wiki/SOUTH_BLOW" title="wikilink">SOUTH BLOW</a></li>
+<li>ココロノコトバ / <a href="../Page/SOUTH_BLOW.md" title="wikilink">SOUTH BLOW</a></li>
 <li>山なみ遠に春は来て / <a href="https://ja.wikipedia.org/wiki/double_face_(バンド)" title="wikilink">ouble face</a></li>
 <li>平成ブギウギ / <a href="https://ja.wikipedia.org/wiki/陽_(バンド)" title="wikilink">陽</a></li>
 <li>Parabola / <a href="https://ja.wikipedia.org/wiki/BACKLASH" title="wikilink">BACKLASH</a></li>
@@ -372,7 +372,7 @@ URCS-000104:初回限定DVDケース仕様</p></td>
 <li>It's a beautiful day / <a href="../Page/Unlimited_Broadcast.md" title="wikilink">Unlimited Broadcast</a></li>
 <li>UP〜しかっぽ / <a href="https://ja.wikipedia.org/wiki/Moga_Hoop" title="wikilink">Moga Hoop</a></li>
 <li>名犬ジョディー / <a href="https://ja.wikipedia.org/wiki/モダーン今夜" title="wikilink">モダーン今夜</a></li>
-<li>深夜高速 / <a href="https://ja.wikipedia.org/wiki/フラワーカンパニーズ" title="wikilink">フラワーカンパニーズ</a></li>
+<li>深夜高速 / <a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a></li>
 <li>NAYUTANIZED / <a href="https://ja.wikipedia.org/wiki/avengers_in_sci-fi" title="wikilink">avengers in sci-fi</a>
 </div>
 </div></li>
@@ -438,7 +438,7 @@ URCS-000104:初回限定DVDケース仕様</p></td>
 <li>THE LETTER TO THE PRESIDENT / <a href="https://ja.wikipedia.org/wiki/FULLSCRATCH" title="wikilink">FULLSCRATCH</a></li>
 <li>ALL BEGAN TO HURRY / <a href="https://ja.wikipedia.org/wiki/GLEAM_GARDEN" title="wikilink">GLEAM GARDEN</a></li>
 <li>ARE YOU STRAIGHT EDGE? / <a href="https://ja.wikipedia.org/wiki/HARDCORE_FANCLUB" title="wikilink">HARDCORE FANCLUB</a></li>
-<li>Fire / <a href="https://ja.wikipedia.org/wiki/HAWAIIAN6" title="wikilink">HAWAIIAN6</a></li>
+<li>Fire / <a href="../Page/HAWAIIAN6.md" title="wikilink">HAWAIIAN6</a></li>
 <li><strong>remains / HOLSTEIN</strong></li>
 <li>AREA47 / <a href="https://ja.wikipedia.org/wiki/IDOL_PUNCH" title="wikilink">IDOL PUNCH</a></li>
 <li>Situation / <a href="https://ja.wikipedia.org/wiki/ISCREAM_7_SHOWERS" title="wikilink">ISCREAM 7 SHOWERS</a></li>
@@ -448,7 +448,7 @@ URCS-000104:初回限定DVDケース仕様</p></td>
 <li>HORSE WITH A KAPPA FACE / <a href="https://ja.wikipedia.org/wiki/LIVE_CLEAN_STAY_YOUNG" title="wikilink">LIVE CLEAN STAY YOUNG</a></li>
 <li>あらしの夜に… / <a href="../Page/THE_LOCAL_ART.md" title="wikilink">THE LOCAL ART</a></li>
 <li>cycled promises / <a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a></li>
-<li>足跡 / <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
+<li>足跡 / <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
 <li>INSTANT FOOD CHAIN / <a href="https://ja.wikipedia.org/wiki/MEATBUNS" title="wikilink">MEATBUNS</a></li>
 <li>JUSTICE / <a href="https://ja.wikipedia.org/wiki/M.G.T" title="wikilink">M.G.T</a></li>
 <li>Here Comes May Again / <a href="https://ja.wikipedia.org/wiki/MUGWUMPS" title="wikilink">MUGWUMPS</a></li>

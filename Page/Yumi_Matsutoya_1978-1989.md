@@ -1,11 +1,11 @@
 > この記事は[Yumi Matsutoya 1978-1989](https://ja.wikipedia.org/wiki/Yumi_Matsutoya_1978-1989)から翻訳されています。
 
 
-『**Yumi Matsutoya 1978-1989**』（ユミ・マツトウヤ せんきゅうひゃくななじゅうはちからせんきゅうひゃくはちじゅうきゅう）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）初の[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")。[1999年](../Page/1999年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")に[東芝EMIからリリースされた](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+『**Yumi Matsutoya 1978-1989**』（ユミ・マツトウヤ せんきゅうひゃくななじゅうはちからせんきゅうひゃくはちじゅうきゅう）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）初の[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")。[1999年](../Page/1999年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 解説
 
-  - 松任谷由実としてリリースされたオリジナルアルバムのうち、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")〜[1989年](../Page/1989年.md "wikilink")にリリースした『[紅雀](../Page/紅雀.md "wikilink")』（5枚目）から『[LOVE WARS](../Page/LOVE_WARS.md "wikilink")』（21枚目）までの17枚のアルバムを入れたボックス。ジャケットはオリジナル・[レコード](../Page/レコード.md "wikilink")盤をCDサイズで再現した紙ジャケット仕様（帯は未付属）、但し「[Delight Slight Light KISS](../Page/Delight_Slight_Light_KISS.md "wikilink")」「[LOVE WARS](../Page/LOVE_WARS.md "wikilink")」の2枚については、オリジナル盤の[3D](https://ja.wikipedia.org/wiki/3D "wikilink")仕様ジャケットを再現していない。
+  - 松任谷由実としてリリースされたオリジナルアルバムのうち、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")〜[1989年](../Page/1989年.md "wikilink")にリリースした『[紅雀](../Page/紅雀.md "wikilink")』（5枚目）から『[LOVE WARS](../Page/LOVE_WARS.md "wikilink")』（21枚目）までの17枚のアルバムを入れたボックス。ジャケットはオリジナル・[レコード](../Page/レコード.md "wikilink")盤をCDサイズで再現した紙ジャケット仕様（帯は未付属）、但し「[Delight Slight Light KISS](../Page/Delight_Slight_Light_KISS.md "wikilink")」「[LOVE WARS](../Page/LOVE_WARS.md "wikilink")」の2枚については、オリジナル盤の[3D](../Page/3D.md "wikilink")仕様ジャケットを再現していない。
   - 直後に発売された各アルバム同様のリマスタリングが行われている。
   - ごく稀に中古(ヤフオク\!など)では単品で売られていることもある。
   - 現在では新品での入手は困難。また、現在は廃盤の為、中古市場でも価格が高騰傾向にある。
@@ -340,7 +340,7 @@
 
   - 作詞・作曲：[松任谷由実](../Page/松任谷由実.md "wikilink")、荒井由実（Disc3-7,Disc6-9）
   - 作詞：松任谷由実　作曲：松任谷正隆（Disc7-2）
-  - 編曲：[松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")
+  - 編曲：[松任谷正隆](../Page/松任谷正隆.md "wikilink")
 
 ## 参加ミュージシャン
 

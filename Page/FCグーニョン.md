@@ -1,11 +1,11 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**フットボール・クルブ・ドゥ・グーニョン**（Football Club de Gueugnon）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")[ソーヌ＝エ＝ロワール県](https://ja.wikipedia.org/wiki/ソーヌ＝エ＝ロワール県 "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
+**フットボール・クルブ・ドゥ・グーニョン**（Football Club de Gueugnon）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")[ソーヌ＝エ＝ロワール県](../Page/ソーヌ＝エ＝ロワール県.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
 
 [1940年](../Page/1940年.md "wikilink")創設。地元の製鋼所がサポートしていたことから、ニックネームは鍛冶屋（*Les Forgeron*）。[1947年](../Page/1947年.md "wikilink")にはアマチュアながら初のタイトルを手にする。
 
-[2000年](../Page/2000年.md "wikilink")、[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")に所属しながら[カップで](../Page/クープ・ドゥ・フランス.md "wikilink")[オリンピック・マルセイユ](https://ja.wikipedia.org/wiki/オリンピック・マルセイユ "wikilink")を退け準々決勝に進出。[リーグカップでは](../Page/クープ・ドゥ・ラ・リーグ.md "wikilink")、決勝で[リーグ・アン](../Page/リーグ・アン.md "wikilink")の強豪[パリ・サンジェルマン](https://ja.wikipedia.org/wiki/パリ・サンジェルマン "wikilink")を2-0で下し優勝（2部チームによる同タイトルの獲得はフランスサッカー史上初）。クラブ初の[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")出場権も手にした。
+[2000年](../Page/2000年.md "wikilink")、[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")に所属しながら[カップで](../Page/クープ・ドゥ・フランス.md "wikilink")[オリンピック・マルセイユ](../Page/オリンピック・マルセイユ.md "wikilink")を退け準々決勝に進出。[リーグカップでは](../Page/クープ・ドゥ・ラ・リーグ.md "wikilink")、決勝で[リーグ・アン](../Page/リーグ・アン.md "wikilink")の強豪[パリ・サンジェルマン](https://ja.wikipedia.org/wiki/パリ・サンジェルマン "wikilink")を2-0で下し優勝（2部チームによる同タイトルの獲得はフランスサッカー史上初）。クラブ初の[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")出場権も手にした。
 
 翌シーズンはその反動で多くのタレントを放出することとなり、降格の危機を味わった。2007-2008シーズンは[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")で最下位となり、3部リーグの[フランス全国選手権](../Page/フランス全国選手権.md "wikilink")に降格。2010-11シーズンはクラブの破産によりシーズン途中から試合が一切禁止され（記録上は0-2の敗戦として処理）、シーズン終了後、[ブルゴーニュ地域リーグ](https://ja.wikipedia.org/wiki/ブルゴーニュ地域リーグ "wikilink")への降格が命じられた。
 

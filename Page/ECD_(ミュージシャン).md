@@ -5,15 +5,15 @@
 
 ## 経歴
 
-1960年3月29日\[3\]、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")に生まれる\[4\]。10代の頃、[劇団キラキラ社](https://ja.wikipedia.org/wiki/劇団キラキラ社 "wikilink")に所属していた\[5\]。
+1960年3月29日\[3\]、[東京都](../Page/東京都.md "wikilink")に生まれる\[4\]。10代の頃、[劇団キラキラ社](https://ja.wikipedia.org/wiki/劇団キラキラ社 "wikilink")に所属していた\[5\]。
 
-1982年、[ジョン・ライドン](https://ja.wikipedia.org/wiki/ジョン・ライドン "wikilink")のインタビューで[グランドマスター・フラッシュ](../Page/グランドマスター・フラッシュ.md "wikilink")を知り、ヒップホップに興味を持った\[6\]。1986年、[RUN D.M.C.の初来日公演を見て](https://ja.wikipedia.org/wiki/RUN_D.M.C. "wikilink")、ラッパーになることを決意した\[7\]。1987年に音楽活動を開始\[8\]。1989年、ヒップホップ・イベント、CHECK YOUR MIKEを主催した\[9\]。
+1982年、[ジョン・ライドン](../Page/ジョン・ライドン.md "wikilink")のインタビューで[グランドマスター・フラッシュ](../Page/グランドマスター・フラッシュ.md "wikilink")を知り、ヒップホップに興味を持った\[6\]。1986年、[RUN D.M.C.の初来日公演を見て](https://ja.wikipedia.org/wiki/RUN_D.M.C. "wikilink")、ラッパーになることを決意した\[7\]。1987年に音楽活動を開始\[8\]。1989年、ヒップホップ・イベント、CHECK YOUR MIKEを主催した\[9\]。
 
 1990年、シングル「Pico Curie」でデビュー\[10\]。1992年、初アルバム『ECD』をリリースした\[11\]。1996年、[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")にて[さんピンCAMP](../Page/さんピンCAMP.md "wikilink")を主催した\[12\]。
 
 2007年、[松本哉](../Page/松本哉.md "wikilink")が主催した[高円寺駅](https://ja.wikipedia.org/wiki/高円寺駅 "wikilink")前の政治運動にラッパーとして参加した\[13\]。2008年、写真家の植本一子と結婚し\[14\]、その後2人の女児をもうけた。2011年、反原発活動に参加\[15\]。同年、楽曲『反原発REMIX』を発表した\[16\]。2012年、アルバム『[Don't Worry Be Daddy](https://ja.wikipedia.org/wiki/Don't_Worry_Be_Daddy "wikilink")』が発売された\[17\]。
 
-2013年、[イルリメ](https://ja.wikipedia.org/wiki/イルリメ "wikilink")との共作楽曲「The Bridge 反レイシズムRemix」を発表\[18\]。そのほか、[レイシストをしばき隊](https://ja.wikipedia.org/wiki/レイシストをしばき隊 "wikilink")に同調するなど、反レイシズムの活動に関わっている\[19\]。2016年、自身のTwitterで進行性の[がん](https://ja.wikipedia.org/wiki/がん "wikilink")であることを公表した\[20\]。2017年、2000年以降に発表された楽曲から選曲したベスト・アルバム『21世紀のECD』をリリースした\[21\]。
+2013年、[イルリメ](../Page/イルリメ.md "wikilink")との共作楽曲「The Bridge 反レイシズムRemix」を発表\[18\]。そのほか、[レイシストをしばき隊](https://ja.wikipedia.org/wiki/レイシストをしばき隊 "wikilink")に同調するなど、反レイシズムの活動に関わっている\[19\]。2016年、自身のTwitterで進行性の[がん](https://ja.wikipedia.org/wiki/がん "wikilink")であることを公表した\[20\]。2017年、2000年以降に発表された楽曲から選曲したベスト・アルバム『21世紀のECD』をリリースした\[21\]。
 
 2018年1月24日死去\[22\]。。
 
@@ -74,7 +74,7 @@
 
 ### ゲスト参加
 
-  - [スチャダラパー](https://ja.wikipedia.org/wiki/スチャダラパー "wikilink")『タワーリング・ナンセンス』（1991年）
+  - [スチャダラパー](../Page/スチャダラパー.md "wikilink")『タワーリング・ナンセンス』（1991年）
       - 12\. ROCK\! ロック雑誌
   - [DJ DOC. HOLIDAY](https://ja.wikipedia.org/wiki/須永辰緒 "wikilink")『THE RHYTHM.THE REBEL』（1992年）
       - 4\. FOR THE BOYS featuring ECD, MC JOE, [YOU THE ROCK](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")
@@ -82,12 +82,12 @@
       - 2\. 少年ロック
       - 3\. ME AND A・B
   - [キミドリ](https://ja.wikipedia.org/wiki/キミドリ "wikilink")『キミドリ』（1993年）
-      - 10\. 大きなお世話 (SAY WHAT) feat. ECD, MC JOE, [RADICAL FREAKS](../Page/RADICAL_FREAKS.md "wikilink"), [四街道NATURE](https://ja.wikipedia.org/wiki/四街道ネイチャー "wikilink"), UG & TANIGUCHI from U.G.MAN, SONE, [IMAZATO](https://ja.wikipedia.org/wiki/ストラグル・フォー・プライド "wikilink")
+      - 10\. 大きなお世話 (SAY WHAT) feat. ECD, MC JOE, [RADICAL FREAKS](../Page/RADICAL_FREAKS.md "wikilink"), [四街道NATURE](../Page/四街道ネイチャー.md "wikilink"), UG & TANIGUCHI from U.G.MAN, SONE, [IMAZATO](https://ja.wikipedia.org/wiki/ストラグル・フォー・プライド "wikilink")
   - [濱田マリ](https://ja.wikipedia.org/wiki/濱田マリ "wikilink")『フツーの人』（1995年）
       - 6\. わたし いのしし
-  - [四街道ネイチャー](https://ja.wikipedia.org/wiki/四街道ネイチャー "wikilink")『V.I.C.TOMORROW』（1998年）
+  - [四街道ネイチャー](../Page/四街道ネイチャー.md "wikilink")『V.I.C.TOMORROW』（1998年）
       - 10\. TAKE CARE OF YOUR ONAKA (おなか大切に'98) feat.ECD, CQ
-  - [TSUTCHIE](https://ja.wikipedia.org/wiki/SHAKKAZOMBIE "wikilink")『THANKS FOR LISTENING』（2002年）
+  - [TSUTCHIE](../Page/SHAKKAZOMBIE.md "wikilink")『THANKS FOR LISTENING』（2002年）
       - 10\. ダイアルQ-エスト (featuring ECD)
   - CHARM×U.G MAN『SOME SECRET』（2006年）
       - 13\. セシオン（WITH ECD）
@@ -106,7 +106,7 @@
   - Filastine『LOOT』（2012年）
       - 4\. Lost Records (with ECD)
   - [DJ PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink")『THE ORIGINAL II』（2012年）
-      - 10.Three The Hard Way feat. [宇多丸](../Page/宇多丸.md "wikilink") ([RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")), [高木完](../Page/高木完.md "wikilink"), ECD
+      - 10.Three The Hard Way feat. [宇多丸](../Page/宇多丸.md "wikilink") ([RHYMESTER](../Page/RHYMESTER.md "wikilink")), [高木完](../Page/高木完.md "wikilink"), ECD
   - [SOAKUBEATS](https://ja.wikipedia.org/wiki/SOAKUBEATS "wikilink")『NEVER PAY 4 MUSIC』（2012年）
       - 4\. ラップごっこはこれでおしまい feat. ECD
   - [加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")『加山雄三の新世界』（2017年）
@@ -131,12 +131,12 @@
       - 11\. TOKYO TOKYO(通称ダンプカー)
   - MAJOR FORCE CLASSICS（1997年）
       - DISC1-2. HAND MADE
-  - FAR EAST COASTING〜NON STOP MIXED BY [DJ MASTERKEY](https://ja.wikipedia.org/wiki/DJ_MASTERKEY "wikilink")〜（1998年）
+  - FAR EAST COASTING〜NON STOP MIXED BY [DJ MASTERKEY](../Page/DJ_MASTERKEY.md "wikilink")〜（1998年）
       - 6\. ECDのロンリー・ガール／ECD feat. [K DUB SHINE](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink")
       - 15\. MASTER KEY'S PARTY／cutting edge ALL STARS
       - 12\. MASS 対 CORE／ECD feat. [TWIGY](../Page/TWIGY.md "wikilink"), YOU THE ROCK
   - PUNCH THE MONKEY\! 2（1999年）
-      - 2\. [ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世 "wikilink")のテーマ(Vocal Version) -Theme From Lupin "E"-
+      - 2\. [ルパン三世](../Page/ルパン三世.md "wikilink")のテーマ(Vocal Version) -Theme From Lupin "E"-
   - [山下毅雄](../Page/山下毅雄.md "wikilink")の全貌 MISSION 4 ヤマタケマニア（1999年）
       - 7\. [ジャイアントロボ](../Page/ジャイアントロボ.md "wikilink")
   - CREATION REBEL - THE BEST OF CUTTING EDGE HIP HOP 1995〜2000（2000年）
@@ -153,7 +153,7 @@
   - RAW LIFE WHERE'S YOUR CHILD?（2006年）
       - DISC2-3. 関係ねーっ\!
   - U.F.O. Club Tokyo Japan Vol.4（2008年）
-      - 9\. 花が咲いて／ECD + ILLICIT TSUBOI + [灰野敬二](https://ja.wikipedia.org/wiki/灰野敬二 "wikilink")
+      - 9\. 花が咲いて／ECD + ILLICIT TSUBOI + [灰野敬二](../Page/灰野敬二.md "wikilink")
   - 160OR80（2013年）
       - 5\. Far from Chicago Beat by D.J.G.O.
 
@@ -179,13 +179,13 @@
 ## 関連項目
 
   - [植本一子](https://ja.wikipedia.org/wiki/植本一子 "wikilink")
-  - [JAGATARA](https://ja.wikipedia.org/wiki/JAGATARA "wikilink")
+  - [JAGATARA](../Page/JAGATARA.md "wikilink")
   - [YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")
   - [TWIGY](../Page/TWIGY.md "wikilink")
-  - [灰野敬二](https://ja.wikipedia.org/wiki/灰野敬二 "wikilink")
-  - [BUDDHA BRAND](https://ja.wikipedia.org/wiki/BUDDHA_BRAND "wikilink")
-  - [MICHICO](https://ja.wikipedia.org/wiki/MICHICO "wikilink")
-  - [四街道ネイチャー](https://ja.wikipedia.org/wiki/四街道ネイチャー "wikilink")
+  - [灰野敬二](../Page/灰野敬二.md "wikilink")
+  - [BUDDHA BRAND](../Page/BUDDHA_BRAND.md "wikilink")
+  - [MICHICO](../Page/MICHICO.md "wikilink")
+  - [四街道ネイチャー](../Page/四街道ネイチャー.md "wikilink")
 
 ## 外部リンク
 

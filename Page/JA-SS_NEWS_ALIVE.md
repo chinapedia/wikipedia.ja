@@ -21,13 +21,13 @@
 
 ## 備考
 
-内容はほぼ変わりないが、[MORNING FREEWAYから一貫して](../Page/立花裕人のMORNING_FREEWAY.md "wikilink")、この枠の番組タイトルは1年から2年ごとに変わる。余談だが、[HFM（広島FM）の朝ワイドプログラム](../Page/広島エフエム放送.md "wikilink")[MORNING ALIVE](https://ja.wikipedia.org/wiki/MORNING_ALIVE "wikilink")（2005年10月放送開始）内に[同名のニュースコーナーがある](https://ja.wikipedia.org/wiki/NEWS_ALIVE "wikilink")。このコーナーは最新ニュースを数本伝えるいわば、ヘッドラインニュースとなっている。
+内容はほぼ変わりないが、[MORNING FREEWAYから一貫して](../Page/立花裕人のMORNING_FREEWAY.md "wikilink")、この枠の番組タイトルは1年から2年ごとに変わる。余談だが、[HFM（広島FM）の朝ワイドプログラム](../Page/広島エフエム放送.md "wikilink")[MORNING ALIVE](../Page/MORNING_ALIVE.md "wikilink")（2005年10月放送開始）内に[同名のニュースコーナーがある](https://ja.wikipedia.org/wiki/NEWS_ALIVE "wikilink")。このコーナーは最新ニュースを数本伝えるいわば、ヘッドラインニュースとなっている。
 
   - \- 2002年3月 **[SEIKO](../Page/セイコーホールディングス.md "wikilink") WORLD HEADLINE**
   - 2002年4月 - 2002年9月 **JA-SS NEWS ALIVE**
   - 2002年10月 - 2003年3月 **NEWS ALIVE**（JA-SSがスポンサー撤退。）
   - 2003年4月 - 2003年9月 **[昭和シェル石油](../Page/昭和シェル石油.md "wikilink") presents WORLD NEWS NAVI**
-  - 2003年10月 - 2004年9月 **モーニングショット [WAKE UP NEWS](https://ja.wikipedia.org/wiki/WAKE_UP_NEWS "wikilink")**
+  - 2003年10月 - 2004年9月 **モーニングショット [WAKE UP NEWS](../Page/WAKE_UP_NEWS.md "wikilink")**
   - 2004年10月 - 2005年6月 **モーニングショット WAKE UP NEWS～Timestamp～**（6Sense開始に伴い、サブタイトルがつく。）
   - 2005年7月 - 2005年9月 **WAKE UP NEWS ～Timestamp～**（[アサヒ飲料](../Page/アサヒ飲料.md "wikilink")がスポンサー撤退。）
   - 2005年10月 - 2006年3月 **スターバックスコーヒー presents World In Motion**

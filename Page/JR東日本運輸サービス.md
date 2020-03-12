@@ -1,7 +1,7 @@
 > この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
 
 
-**JR東日本運輸サービス株式会社**（ジェイアールひがしにほんうんゆサービス）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[中央区に本社を置く](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")グループの会社。
+**JR東日本運輸サービス株式会社**（ジェイアールひがしにほんうんゆサービス）は、[東京都](../Page/東京都.md "wikilink")[中央区に本社を置く](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")グループの会社。
 
 ## 沿革
 
@@ -13,17 +13,17 @@
   - [1972年](../Page/1972年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 高崎鉄道管理局管内の業務を「高崎鉄道整備」に業務移管。
   - [1974年](../Page/1974年.md "wikilink")[6月](../Page/6月.md "wikilink") - 駅清掃業務を始める。
   - [1977年](../Page/1977年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink") - 「[朝日火災海上保険](https://ja.wikipedia.org/wiki/朝日火災海上保険 "wikilink")」から損害保険代理店の認可を受ける。
-  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[8月](../Page/8月.md "wikilink") - [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[国分寺町の町役場](https://ja.wikipedia.org/wiki/国分寺町_\(栃木県\) "wikilink")、公民館、消防署、保育園等の清掃の委託業務を受託開始。
+  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[8月](../Page/8月.md "wikilink") - [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[国分寺町の町役場](../Page/国分寺町_\(栃木県\).md "wikilink")、公民館、消防署、保育園等の清掃の委託業務を受託開始。
   - [1992年](../Page/1992年.md "wikilink") - 『**関東車両整備株式会社**』に商号変更。
   - [1993年](../Page/1993年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 本社を[荒川区](https://ja.wikipedia.org/wiki/荒川区 "wikilink")西日暮里に移転
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - 安田火災海上保険（現：[損保ジャパン](https://ja.wikipedia.org/wiki/損保ジャパン "wikilink")）の代理店認可を受ける。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - 本社を中央区日本橋室町に移転
+  - [2005年](../Page/2005年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - 本社を中央区日本橋室町に移転
   - [2009年](../Page/2009年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 東日本鉄道整備株式会社を吸収合併し、『**JR東日本運輸サービス株式会社**』に商号変更。JR東日本グループの清掃整備会社の再編成にともない、在来線の車両基地業務の会社を統合した。\[1\]
   - [2012年](../Page/2012年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - 東日本旅客鉄道株式会社の100%出資子会社となる。
 
 ## 営業品目
 
-  - 東日本旅客鉄道株式会社の[尾久車両センター](https://ja.wikipedia.org/wiki/尾久車両センター "wikilink")など17箇所の車両 、社屋の清掃、整備
+  - 東日本旅客鉄道株式会社の[尾久車両センター](../Page/尾久車両センター.md "wikilink")など17箇所の車両 、社屋の清掃、整備
   - 東日本旅客鉄道株式会社の[豊田車両センター](../Page/豊田車両センター.md "wikilink")など10箇所の車両の構内入換
   - 東日本旅客鉄道株式会社の[浦和車両センター](https://ja.wikipedia.org/wiki/浦和車両センター "wikilink")など8箇所の車両の検査、修繕
   - [日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")株式会社のコンテナ検査・修繕業務（隅田川貨車区）
@@ -108,16 +108,16 @@
 ## 関連項目
 
   - [東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")
-  - [東日本環境アクセス](https://ja.wikipedia.org/wiki/東日本環境アクセス "wikilink") - [東京支社](../Page/東日本旅客鉄道東京支社.md "wikilink")、[横浜支社](../Page/東日本旅客鉄道横浜支社.md "wikilink")、[八王子支社](https://ja.wikipedia.org/wiki/東日本旅客鉄道八王子支社 "wikilink")、[大宮支社管内の駅舎清掃](https://ja.wikipedia.org/wiki/東日本旅客鉄道大宮支社 "wikilink")。
-  - [JR東日本ステーションサービス](https://ja.wikipedia.org/wiki/JR東日本ステーションサービス "wikilink") - [東京支社](../Page/東日本旅客鉄道東京支社.md "wikilink")、[横浜支社](../Page/東日本旅客鉄道横浜支社.md "wikilink")、[八王子支社](https://ja.wikipedia.org/wiki/東日本旅客鉄道八王子支社 "wikilink")、[大宮支社](https://ja.wikipedia.org/wiki/東日本旅客鉄道大宮支社 "wikilink")、 [高崎支社](../Page/東日本旅客鉄道高崎支社.md "wikilink")、[水戸支社](https://ja.wikipedia.org/wiki/東日本旅客鉄道水戸支社 "wikilink")、[千葉支社管内の駅業務委託](../Page/東日本旅客鉄道千葉支社.md "wikilink")。
-  - [JR水戸鉄道サービス](https://ja.wikipedia.org/wiki/JR水戸鉄道サービス "wikilink") - [水戸支社管内の駅舎清掃委託](https://ja.wikipedia.org/wiki/東日本旅客鉄道水戸支社 "wikilink")。
+  - [東日本環境アクセス](https://ja.wikipedia.org/wiki/東日本環境アクセス "wikilink") - [東京支社](../Page/東日本旅客鉄道東京支社.md "wikilink")、[横浜支社](../Page/東日本旅客鉄道横浜支社.md "wikilink")、[八王子支社](../Page/東日本旅客鉄道八王子支社.md "wikilink")、[大宮支社管内の駅舎清掃](../Page/東日本旅客鉄道大宮支社.md "wikilink")。
+  - [JR東日本ステーションサービス](https://ja.wikipedia.org/wiki/JR東日本ステーションサービス "wikilink") - [東京支社](../Page/東日本旅客鉄道東京支社.md "wikilink")、[横浜支社](../Page/東日本旅客鉄道横浜支社.md "wikilink")、[八王子支社](../Page/東日本旅客鉄道八王子支社.md "wikilink")、[大宮支社](../Page/東日本旅客鉄道大宮支社.md "wikilink")、 [高崎支社](../Page/東日本旅客鉄道高崎支社.md "wikilink")、[水戸支社](../Page/東日本旅客鉄道水戸支社.md "wikilink")、[千葉支社管内の駅業務委託](../Page/東日本旅客鉄道千葉支社.md "wikilink")。
+  - [JR水戸鉄道サービス](https://ja.wikipedia.org/wiki/JR水戸鉄道サービス "wikilink") - [水戸支社管内の駅舎清掃委託](../Page/東日本旅客鉄道水戸支社.md "wikilink")。
   - [JR高崎鉄道サービス](https://ja.wikipedia.org/wiki/JR高崎鉄道サービス "wikilink") - [高崎支社管内の駅舎清掃委託](../Page/東日本旅客鉄道高崎支社.md "wikilink")。
   - [JR千葉鉄道サービス](https://ja.wikipedia.org/wiki/JR千葉鉄道サービス "wikilink") - [千葉支社管内の駅舎清掃委託](../Page/東日本旅客鉄道高崎支社.md "wikilink")。
-  - [ジェイアールテクノサービス仙台](https://ja.wikipedia.org/wiki/ジェイアールテクノサービス仙台 "wikilink") - [仙台支社管内の駅舎等清掃](https://ja.wikipedia.org/wiki/東日本旅客鉄道仙台支社 "wikilink")。
-  - [JR盛岡鉄道サービス](../Page/JR盛岡鉄道サービス.md "wikilink") - [盛岡支社管内の駅舎等清掃](https://ja.wikipedia.org/wiki/東日本旅客鉄道盛岡支社 "wikilink")。
-  - [JR秋田鉄道サービス](https://ja.wikipedia.org/wiki/JR秋田鉄道サービス "wikilink") - [秋田支社管内の駅舎等清掃](https://ja.wikipedia.org/wiki/東日本旅客鉄道秋田支社 "wikilink")。
+  - [ジェイアールテクノサービス仙台](https://ja.wikipedia.org/wiki/ジェイアールテクノサービス仙台 "wikilink") - [仙台支社管内の駅舎等清掃](../Page/東日本旅客鉄道仙台支社.md "wikilink")。
+  - [JR盛岡鉄道サービス](../Page/JR盛岡鉄道サービス.md "wikilink") - [盛岡支社管内の駅舎等清掃](../Page/東日本旅客鉄道盛岡支社.md "wikilink")。
+  - [JR秋田鉄道サービス](https://ja.wikipedia.org/wiki/JR秋田鉄道サービス "wikilink") - [秋田支社管内の駅舎等清掃](../Page/東日本旅客鉄道秋田支社.md "wikilink")。
   - [JR新潟鉄道サービス](https://ja.wikipedia.org/wiki/JR新潟鉄道サービス "wikilink") - [新潟支社管内の駅舎等清掃](../Page/東日本旅客鉄道新潟支社.md "wikilink")。
-  - [JR長野鉄道サービス](https://ja.wikipedia.org/wiki/JR長野鉄道サービス "wikilink") - [長野支社管内の駅舎等清掃](https://ja.wikipedia.org/wiki/東日本旅客鉄道長野支社 "wikilink")。
+  - [JR長野鉄道サービス](https://ja.wikipedia.org/wiki/JR長野鉄道サービス "wikilink") - [長野支社管内の駅舎等清掃](../Page/東日本旅客鉄道長野支社.md "wikilink")。
 
 ## 外部リンク
 

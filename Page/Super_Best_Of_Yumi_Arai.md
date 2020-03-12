@@ -1,7 +1,7 @@
 > この記事は[Super Best Of Yumi Arai](https://ja.wikipedia.org/wiki/Super_Best_Of_Yumi_Arai)から翻訳されています。
 
 
-『**Super Best Of Yumi Arai**』（スーパー・ベスト・オブ・ユミ・アライ）は、[荒井由実](../Page/松任谷由実.md "wikilink")（ユーミン）の編集盤。[1996年](../Page/1996年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")に[アルファミュージックから発売された](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")。現行盤は、[2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")（現在のEMIミュージック・ジャパン）から発売されている\[1\]。
+『**Super Best Of Yumi Arai**』（スーパー・ベスト・オブ・ユミ・アライ）は、[荒井由実](../Page/松任谷由実.md "wikilink")（ユーミン）の編集盤。[1996年](../Page/1996年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")に[アルファミュージックから発売された](../Page/アルファレコード.md "wikilink")。現行盤は、[2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")（現在のEMIミュージック・ジャパン）から発売されている\[1\]。
 
 ## 解説
 
@@ -111,7 +111,7 @@
 <!-- end list -->
 
   - 全作詞作曲：荒井由実
-  - 編曲：DISC.1の\#1～6・\#15は[キャラメル・ママ](../Page/ティン・パン・アレー_\(バンド\).md "wikilink")、ほかはすべて[松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")
+  - 編曲：DISC.1の\#1～6・\#15は[キャラメル・ママ](../Page/ティン・パン・アレー_\(バンド\).md "wikilink")、ほかはすべて[松任谷正隆](../Page/松任谷正隆.md "wikilink")
 
 ## 脚注
 

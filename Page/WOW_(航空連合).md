@@ -32,7 +32,7 @@
 <td><center>
 <p>2000</p></td>
 <td><p><br />
- <a href="https://ja.wikipedia.org/wiki/スカンジナビア航空" title="wikilink">SAS</a><br />
+ <a href="../Page/スカンジナビア航空.md" title="wikilink">SAS</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -69,7 +69,7 @@
 <p>2000</p></td>
 <td><center>
 <p>2009</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルフトハンザドイツ航空" title="wikilink">ルフトハンザドイツ航空</a></p></td>
+<td><p><a href="../Page/ルフトハンザドイツ航空.md" title="wikilink">ルフトハンザドイツ航空</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/日本航空.md" title="wikilink">JALカーゴ</a></p></td>

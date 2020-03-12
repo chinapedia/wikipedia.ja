@@ -5,8 +5,8 @@
 
 ## 概要
 
-  - 第1回大会は[2004年](../Page/2004年.md "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[エドモントン](../Page/エドモントン.md "wikilink")で開催され、カナダ、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[豪州](../Page/オーストラリア.md "wikilink")、[台湾の](https://ja.wikipedia.org/wiki/中華民国 "wikilink")5ヵ国が参加。以来2年に1度開催されている。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、台湾で7ヵ国が参加し第2回大会が開催された。2大会連続で米国が優勝、日本が2位。
+  - 第1回大会は[2004年](../Page/2004年.md "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[エドモントン](../Page/エドモントン.md "wikilink")で開催され、カナダ、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[豪州](../Page/オーストラリア.md "wikilink")、[台湾の](../Page/中華民国.md "wikilink")5ヵ国が参加。以来2年に1度開催されている。
+  - [2006年](../Page/2006年.md "wikilink")、台湾で7ヵ国が参加し第2回大会が開催された。2大会連続で米国が優勝、日本が2位。
   - 第3回大会は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に日本・[松山で開催され](../Page/松山市.md "wikilink")、開催国の日本が大会初優勝を果たした。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の第4回大会において、試合中に香港の選手がふくらはぎに銃弾を受けるという事件が発生した\[1\]。
   - 出場枠数は[2014年](../Page/2014年.md "wikilink")の第6回大会までは8。[2016年](../Page/2016年.md "wikilink")の第7回大会からは12\[2\]。
@@ -57,7 +57,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/第4回IBAF女子ワールドカップ" title="wikilink">4</a></p></td>
 <td><p><a href="../Page/8月12日.md" title="wikilink">8月12日</a> - <a href="../Page/8月22日.md" title="wikilink">8月22日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カラカス" title="wikilink">カラカス</a><br />
+<td><p><a href="../Page/カラカス.md" title="wikilink">カラカス</a><br />
 <a href="https://ja.wikipedia.org/wiki/マラカイ" title="wikilink">マラカイ</a></p></td>
 <td><p>11</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/野球日本女子代表" title="wikilink">日本</a></p></td>
@@ -174,13 +174,13 @@
 ## 日本代表の出場・成績
 
   - 第1回大会（2004年）
-      - [第1回IBAF女子ワールドカップ日本代表](https://ja.wikipedia.org/wiki/第1回IBAF女子ワールドカップ日本代表 "wikilink")
+      - [第1回IBAF女子ワールドカップ日本代表](../Page/第1回IBAF女子ワールドカップ日本代表.md "wikilink")
       - 順位：2位（銀メダル）
 
 <!-- end list -->
 
   - 第2回大会（2006年）
-      - [第2回IBAF女子ワールドカップ日本代表](https://ja.wikipedia.org/wiki/第2回IBAF女子ワールドカップ日本代表 "wikilink")
+      - [第2回IBAF女子ワールドカップ日本代表](../Page/第2回IBAF女子ワールドカップ日本代表.md "wikilink")
       - 順位：2位（銀メダル）
 
 <!-- end list -->
@@ -225,8 +225,8 @@
 
 ## 関連項目
 
-  - [国際野球連盟](https://ja.wikipedia.org/wiki/国際野球連盟 "wikilink") (IBAF)
-  - [女子野球](https://ja.wikipedia.org/wiki/女子野球 "wikilink")
+  - [国際野球連盟](../Page/国際野球連盟.md "wikilink") (IBAF)
+  - [女子野球](../Page/女子野球.md "wikilink")
   - [日本女子野球協会](https://ja.wikipedia.org/wiki/日本女子野球協会 "wikilink")
   - [野球日本女子代表](https://ja.wikipedia.org/wiki/野球日本女子代表 "wikilink")
   - [日本女子プロ野球機構](https://ja.wikipedia.org/wiki/日本女子プロ野球機構 "wikilink")

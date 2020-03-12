@@ -1,7 +1,7 @@
 > この記事は[17-at seventeen-](https://ja.wikipedia.org/wiki/17-at_seventeen-)から翻訳されています。
 
 
-『**17才 -at seventeen-**』（じゅうななさい -アット セブンティーン-）は、[1994年](../Page/1994年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")から同年[9月1日](../Page/9月1日.md "wikilink")まで、[フジテレビ系列で放送されていた](../Page/フジネットワーク.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")の[内田有紀](../Page/内田有紀.md "wikilink")で、『[ボクたちのドラマシリーズ](https://ja.wikipedia.org/wiki/ボクたちのドラマシリーズ "wikilink")』からの派生作品。放送時間は、毎週[木曜](https://ja.wikipedia.org/wiki/木曜日 "wikilink")20:00 - 20:54([JST](../Page/日本標準時.md "wikilink"))。
+『**17才 -at seventeen-**』（じゅうななさい -アット セブンティーン-）は、[1994年](../Page/1994年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")から同年[9月1日](../Page/9月1日.md "wikilink")まで、[フジテレビ系列で放送されていた](../Page/フジネットワーク.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")の[内田有紀](../Page/内田有紀.md "wikilink")で、『[ボクたちのドラマシリーズ](../Page/ボクたちのドラマシリーズ.md "wikilink")』からの派生作品。放送時間は、毎週[木曜](../Page/木曜日.md "wikilink")20:00 - 20:54([JST](../Page/日本標準時.md "wikilink"))。
 
 ## あらすじ
 
@@ -48,7 +48,7 @@
 
 <!-- end list -->
 
-  - 水谷雄司：[伊崎充則](https://ja.wikipedia.org/wiki/伊崎充則 "wikilink")（小学生時代：[石井寧](https://ja.wikipedia.org/wiki/石井寧 "wikilink")）
+  - 水谷雄司：[伊崎充則](../Page/伊崎充則.md "wikilink")（小学生時代：[石井寧](https://ja.wikipedia.org/wiki/石井寧 "wikilink")）
 
 <!-- end list -->
 
@@ -79,7 +79,7 @@
 
 <!-- end list -->
 
-  - 土屋稔：[須藤公一](https://ja.wikipedia.org/wiki/須藤公一 "wikilink")（小学生時代：[石井宏明](https://ja.wikipedia.org/wiki/石井宏明 "wikilink")）
+  - 土屋稔：[須藤公一](../Page/須藤公一.md "wikilink")（小学生時代：[石井宏明](https://ja.wikipedia.org/wiki/石井宏明 "wikilink")）
 
 <!-- end list -->
 
@@ -94,7 +94,7 @@
 
 主人公たちのたまり場のカフェ。 劇中では「ピーズ」と呼ばれ、 基本的には客は主人公たち7名と吉永博士しか来店せず、各話のゲストがたまに来店する。
 
-  - 松岡：[伊原剛志](https://ja.wikipedia.org/wiki/伊原剛志 "wikilink")　
+  - 松岡：[伊原剛志](../Page/伊原剛志.md "wikilink")　
 
 <!-- end list -->
 
@@ -103,8 +103,8 @@
 
 <!-- end list -->
 
-  - [北原雅樹](https://ja.wikipedia.org/wiki/北原雅樹 "wikilink")（[グレートチキンパワーズ](https://ja.wikipedia.org/wiki/グレートチキンパワーズ "wikilink")）
-  - [渡辺慶](https://ja.wikipedia.org/wiki/渡辺啓 "wikilink")（[グレートチキンパワーズ](https://ja.wikipedia.org/wiki/グレートチキンパワーズ "wikilink")）
+  - [北原雅樹](../Page/北原雅樹.md "wikilink")（[グレートチキンパワーズ](../Page/グレートチキンパワーズ.md "wikilink")）
+  - [渡辺慶](../Page/渡辺啓.md "wikilink")（[グレートチキンパワーズ](../Page/グレートチキンパワーズ.md "wikilink")）
 
 <!-- end list -->
 
@@ -121,7 +121,7 @@
 
 <!-- end list -->
 
-  - 月影紺二郎：[モト冬樹](https://ja.wikipedia.org/wiki/モト冬樹 "wikilink")　
+  - 月影紺二郎：[モト冬樹](../Page/モト冬樹.md "wikilink")　
 
 <!-- end list -->
 
@@ -130,7 +130,7 @@
 
 <!-- end list -->
 
-  - 月影藍子：[浅田美代子](https://ja.wikipedia.org/wiki/浅田美代子 "wikilink")
+  - 月影藍子：[浅田美代子](../Page/浅田美代子.md "wikilink")
 
 <!-- end list -->
 
@@ -144,7 +144,7 @@
 
 主人公たちの通う高校。 ロケ地は佐野女子短期大学。（現在の[佐野日本大学短期大学](../Page/佐野日本大学短期大学.md "wikilink")）
 
-  - 春山校長：[細川俊之](https://ja.wikipedia.org/wiki/細川俊之 "wikilink")
+  - 春山校長：[細川俊之](../Page/細川俊之.md "wikilink")
   - 夏樹奈津子：[飯島直子](https://ja.wikipedia.org/wiki/飯島直子 "wikilink")
 
 <!-- end list -->
@@ -168,7 +168,7 @@
 
 <!-- end list -->
 
-  - 山口清：[東根作寿英](https://ja.wikipedia.org/wiki/東根作寿英 "wikilink")
+  - 山口清：[東根作寿英](../Page/東根作寿英.md "wikilink")
 
 <!-- end list -->
 
@@ -215,10 +215,10 @@
 
   - [神崎恵](../Page/神崎恵.md "wikilink")
   - 純平：[中上雅巳](../Page/中上雅巳.md "wikilink")
-  - 反町：[高杉亘](https://ja.wikipedia.org/wiki/高杉亘 "wikilink")
+  - 反町：[高杉亘](../Page/高杉亘.md "wikilink")
   - 文香：[鶴田真由](../Page/鶴田真由.md "wikilink")
   - [葛山信吾](../Page/葛山信吾.md "wikilink")
-  - [井出薫](https://ja.wikipedia.org/wiki/井出薫 "wikilink")
+  - [井出薫](../Page/井出薫.md "wikilink")
   - [奥菜恵](https://ja.wikipedia.org/wiki/奥菜恵 "wikilink")
   - 高見沢博：[菊池健一郎](../Page/菊池健一郎.md "wikilink")
 
@@ -247,12 +247,12 @@
 
 ## スタッフ
 
-  - 企画：[石原隆](../Page/石原隆.md "wikilink")、[鈴木吉弘](https://ja.wikipedia.org/wiki/鈴木吉弘 "wikilink")　
-  - プロデュース：[小椋久雄](https://ja.wikipedia.org/wiki/小椋久雄 "wikilink")、[松村俊二](https://ja.wikipedia.org/wiki/松村俊二 "wikilink")　
+  - 企画：[石原隆](../Page/石原隆.md "wikilink")、[鈴木吉弘](../Page/鈴木吉弘.md "wikilink")　
+  - プロデュース：[小椋久雄](../Page/小椋久雄.md "wikilink")、[松村俊二](https://ja.wikipedia.org/wiki/松村俊二 "wikilink")　
   - 脚本：[戸田山雅司](../Page/戸田山雅司.md "wikilink")、[岡田惠和](../Page/岡田惠和.md "wikilink")、[両沢和幸](../Page/両沢和幸.md "wikilink")、[田中一彦](https://ja.wikipedia.org/wiki/田中一彦_\(脚本家\) "wikilink")、[樫田正剛](https://ja.wikipedia.org/wiki/樫田正剛 "wikilink")　
   - 音楽：[奥慶一](../Page/奥慶一.md "wikilink")
   - 主題歌：[trf](https://ja.wikipedia.org/wiki/trf "wikilink")「[Survival dAnce 〜no no cry more〜](../Page/Survival_dAnce_〜no_no_cry_more〜.md "wikilink")」（[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")）
-  - 演出：[鈴木雅之](https://ja.wikipedia.org/wiki/鈴木雅之_\(演出家\) "wikilink")、[村上正典](https://ja.wikipedia.org/wiki/村上正典 "wikilink")、[本広克行](https://ja.wikipedia.org/wiki/本広克行 "wikilink")、[佐藤祐市](../Page/佐藤祐市.md "wikilink")　
+  - 演出：[鈴木雅之](../Page/鈴木雅之_\(演出家\).md "wikilink")、[村上正典](../Page/村上正典.md "wikilink")、[本広克行](../Page/本広克行.md "wikilink")、[佐藤祐市](../Page/佐藤祐市.md "wikilink")　
   - 制作：[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[共同テレビ](https://ja.wikipedia.org/wiki/共同テレビ "wikilink")
 
 ## 脚注

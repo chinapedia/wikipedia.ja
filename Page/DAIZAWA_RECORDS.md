@@ -27,7 +27,7 @@
 <td><p>2005年<a href="https://ja.wikipedia.org/wiki/cutting_edge" title="wikilink">cutting edgeよりメジャーデビュー</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Syrup_16g" title="wikilink">Syrup 16g</a></p></td>
+<td><p><a href="../Page/Syrup_16g.md" title="wikilink">Syrup 16g</a></p></td>
 <td><p>シロップじゅうろくグラム</p></td>
 <td><p>2001年〜2002年<br />
 2004年〜2008年<br />
@@ -37,7 +37,7 @@
 <td><p>2002年<a href="../Page/日本コロムビア.md" title="wikilink">日本コロムビア</a>よりメジャーデビュー。2008年解散。2014年再結成</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></p></td>
+<td><p><a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></p></td>
 <td><p>ロストインタイム</p></td>
 <td><p>2006年〜</p></td>
 <td><p><a href="https://itunes.apple.com/jp/artist/lost-in-time/74456053">リンク</a></p></td>
@@ -120,7 +120,7 @@
 <td><p>ダブルオーテレサ</p></td>
 <td><p>2000年〜2002年</p></td>
 <td><p><a href="https://itunes.apple.com/jp/artist/ダブルオー-テレサ/110585211">リンク</a></p></td>
-<td><p>2003年<a href="https://ja.wikipedia.org/wiki/日本クラウン" title="wikilink">日本クラウン</a>よりメジャーデビュー。2006年解散。2013年再起動</p></td>
+<td><p>2003年<a href="../Page/日本クラウン.md" title="wikilink">日本クラウン</a>よりメジャーデビュー。2006年解散。2013年再起動</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/カスタムズ" title="wikilink">カスタムズ</a></p></td>
@@ -130,7 +130,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/TOMOVSKY" title="wikilink">TOMOVSKY</a></p></td>
+<td><p><a href="../Page/TOMOVSKY.md" title="wikilink">TOMOVSKY</a></p></td>
 <td><p>トモフスキー</p></td>
 <td><p>2000年</p></td>
 <td></td>
@@ -144,11 +144,11 @@
 <td><p>2013年44th music(フォーティーフォース･ミュージック)に改名</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ゲントウキ" title="wikilink">ゲントウキ</a></p></td>
+<td><p><a href="../Page/ゲントウキ.md" title="wikilink">ゲントウキ</a></p></td>
 <td><p>ゲントウキ</p></td>
 <td><p>2001年</p></td>
 <td><p><a href="https://itunes.apple.com/jp/artist/ゲントウキ/78821008">リンク</a></p></td>
-<td><p>2003年<a href="https://ja.wikipedia.org/wiki/ドリーミュージック" title="wikilink">ドリーミュージック</a>よりメジャーデビュー</p></td>
+<td><p>2003年<a href="../Page/ドリーミュージック.md" title="wikilink">ドリーミュージック</a>よりメジャーデビュー</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ペンギンノイズ" title="wikilink">ペンギンノイズ</a></p></td>
@@ -179,7 +179,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/レミオロメン" title="wikilink">レミオロメン</a></p></td>
+<td><p><a href="../Page/レミオロメン.md" title="wikilink">レミオロメン</a></p></td>
 <td><p>レミオロメン</p></td>
 <td><p>2003年</p></td>
 <td><p><a href="https://itunes.apple.com/jp/artist/レミオロメン/256764155">リンク</a></p></td>
@@ -197,7 +197,7 @@
 <td><p>つばきやしじゅうそう</p></td>
 <td><p>2003年〜2006年</p></td>
 <td><p><a href="https://itunes.apple.com/jp/artist/椿屋四重奏/79141496">リンク</a></p></td>
-<td><p>2007年<a href="https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン" title="wikilink">ワーナーミュージック・ジャパン</a>よりメジャーデビュー。2011年1月11日解散</p></td>
+<td><p>2007年<a href="../Page/ワーナーミュージック・ジャパン.md" title="wikilink">ワーナーミュージック・ジャパン</a>よりメジャーデビュー。2011年1月11日解散</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ザ・ジェッジジョンソン.md" title="wikilink">ザ・ジェッジジョンソン</a></p></td>
@@ -225,7 +225,7 @@
 <td><p>ボラアンドジオリエンタルマシーン</p></td>
 <td><p>2006年〜2007年</p></td>
 <td><p><a href="https://itunes.apple.com/jp/artist/vola-the-oriental-machine/117347364">リンク</a></p></td>
-<td><p>2008年<a href="https://ja.wikipedia.org/wiki/ユニバーサルミュージック_(日本)" title="wikilink">UNIVERSAL Jよりメジャーデビュー</a>。2014年<a href="https://ja.wikipedia.org/wiki/EVOL_RECORDS" title="wikilink">actwiseに移籍</a>。</p></td>
+<td><p>2008年<a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">UNIVERSAL Jよりメジャーデビュー</a>。2014年<a href="https://ja.wikipedia.org/wiki/EVOL_RECORDS" title="wikilink">actwiseに移籍</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/LITE_(バンド).md" title="wikilink">LITE</a></p></td>
@@ -263,18 +263,18 @@
 <td><p>2010年12月31日解散</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/SPARTA_LOCALS" title="wikilink">SPARTA LOCALS</a></p></td>
+<td><p><a href="../Page/SPARTA_LOCALS.md" title="wikilink">SPARTA LOCALS</a></p></td>
 <td><p>スパルタローカルズ</p></td>
 <td><p>2008年〜2009年</p></td>
 <td><p><a href="https://itunes.apple.com/jp/artist/スパルタローカルズ/73406069">リンク</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ" title="wikilink">徳間ジャパンコミュニケーションズ</a>より移籍。2009年解散、2016年再結成</p></td>
+<td><p><a href="../Page/徳間ジャパンコミュニケーションズ.md" title="wikilink">徳間ジャパンコミュニケーションズ</a>より移籍。2009年解散、2016年再結成</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/the_telephones" title="wikilink">the telephones</a></p></td>
 <td><p>ザテレフォンズ</p></td>
 <td><p>2008年〜2009年</p></td>
 <td><p><a href="https://itunes.apple.com/jp/artist/the-telephones/727761707">リンク</a></p></td>
-<td><p>2009年<a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">EMIミュージック・ジャパン</a>よりメジャーデビュー。2015年無期限活動休止、2018年活動再開</p></td>
+<td><p>2009年<a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">EMIミュージック・ジャパン</a>よりメジャーデビュー。2015年無期限活動休止、2018年活動再開</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/your_gold,_my_pink" title="wikilink">your gold, my pink</a></p></td>
@@ -344,10 +344,10 @@
 <td><p>ペリカンファンクラブ</p></td>
 <td><p>2015年〜2017年</p></td>
 <td><p><a href="https://itunes.apple.com/jp/artist/pelican-fanclub/1021833026">リンク</a></p></td>
-<td><p>2018年<a href="https://ja.wikipedia.org/wiki/キューンミュージック" title="wikilink">キューンミュージック</a>よりメジャーデビュー</p></td>
+<td><p>2018年<a href="../Page/キューンミュージック.md" title="wikilink">キューンミュージック</a>よりメジャーデビュー</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/カフカ_(バンド)" title="wikilink">カフカ<br />
+<td><p><a href="../Page/カフカ_(バンド).md" title="wikilink">カフカ<br />
 KFK</a></p></td>
 <td><p>カフカ</p></td>
 <td><p>2016年〜2019年</p></td>
@@ -383,7 +383,7 @@ KFK</a></p></td>
 | 2016年07月13日 | **一生分のラブレター**     | UKDZ-0170 |
 |             |                   |           |
 
-  - [カフカ](https://ja.wikipedia.org/wiki/カフカ_\(バンド\) "wikilink")
+  - [カフカ](../Page/カフカ_\(バンド\).md "wikilink")
 
 | 発売日         | タイトル        | 規格品番      |
 | ----------- | ----------- | --------- |
@@ -535,7 +535,7 @@ UKDZ-0174-BD</p></td>
 | 2015年03月18日 | **over sleeper**           | UKDZ-0163 |
 |             |                            |           |
 
-  - [LOST IN TIME](https://ja.wikipedia.org/wiki/LOST_IN_TIME "wikilink")
+  - [LOST IN TIME](../Page/LOST_IN_TIME.md "wikilink")
 
 | 発売日         | タイトル                                                                    | 規格品番        |
 | ----------- | ----------------------------------------------------------------------- | ----------- |
@@ -596,7 +596,7 @@ UKDZ-0174-BD</p></td>
 <td><p>UKDZ-0028</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/TOMOVSKY" title="wikilink">TOMOVSKY</a></p></td>
+<td><p><a href="../Page/TOMOVSKY.md" title="wikilink">TOMOVSKY</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -646,7 +646,7 @@ UKDZ-0174-BD</p></td>
 <td><p>UKDZ-0058</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ゲントウキ" title="wikilink">ゲントウキ</a></p></td>
+<td><p><a href="../Page/ゲントウキ.md" title="wikilink">ゲントウキ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -761,7 +761,7 @@ UKDZ-0174-BD</p></td>
 <td><p>UKDZ-0016</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/レミオロメン" title="wikilink">レミオロメン</a></p></td>
+<td><p><a href="../Page/レミオロメン.md" title="wikilink">レミオロメン</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -981,7 +981,7 @@ UKDZ-0174-BD</p></td>
 <td><p>UKDZ-0077</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/SPARTA_LOCALS" title="wikilink">SPARTA LOCALS</a>（2009年9月23日解散）</p></td>
+<td><p><a href="../Page/SPARTA_LOCALS.md" title="wikilink">SPARTA LOCALS</a>（2009年9月23日解散）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1187,7 +1187,7 @@ UKDZ-0097DV</p></td>
 <li>MORE / <a href="../Page/PhilHarmoUniQue.md" title="wikilink">自由人</a></li>
 <li>踊り子 / 椿屋四重奏</li>
 <li>プロローグ / 椿屋四重奏</li>
-<li>オールライト / <a href="https://ja.wikipedia.org/wiki/PERIDOTS" title="wikilink">PERIDOTS</a></li>
+<li>オールライト / <a href="../Page/PERIDOTS.md" title="wikilink">PERIDOTS</a></li>
 <li>A communication refusal desire / VOLA &amp; THE ORIENTAL MACHINE</li>
 <li>蛍 / LOST IN TIME</li>
 <li>聞こえるかい / Syrup 16g</li>
@@ -1223,13 +1223,13 @@ UKDZ-0097DV</p></td>
 <td><p><strong>dip tribute ～9faces～</strong></p></td>
 <td><p>UKDZ-0126</p></td>
 <td><ol>
-<li>TIME ACID NO CRY AIR / <a href="https://ja.wikipedia.org/wiki/MO&#39;SOME_TONEBENDER" title="wikilink">MO'SOME TONEBENDER</a></li>
-<li>SUPER LOVERS IN THE SUN / <a href="https://ja.wikipedia.org/wiki/POLYSICS" title="wikilink">POLYSICS</a></li>
+<li>TIME ACID NO CRY AIR / <a href="../Page/MO&#39;SOME_TONEBENDER.md" title="wikilink">MO'SOME TONEBENDER</a></li>
+<li>SUPER LOVERS IN THE SUN / <a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a></li>
 <li>human flow / THE NOVEMBERS</li>
-<li>SLUDGE / <a href="https://ja.wikipedia.org/wiki/花田裕之" title="wikilink">花田裕之</a>・<a href="https://ja.wikipedia.org/wiki/井上富雄" title="wikilink">井上富雄</a>・<a href="https://ja.wikipedia.org/wiki/池畑潤二" title="wikilink">池畑潤二</a></li>
+<li>SLUDGE / <a href="../Page/花田裕之.md" title="wikilink">花田裕之</a>・<a href="https://ja.wikipedia.org/wiki/井上富雄" title="wikilink">井上富雄</a>・<a href="https://ja.wikipedia.org/wiki/池畑潤二" title="wikilink">池畑潤二</a></li>
 <li>IT’S LATE / <a href="https://ja.wikipedia.org/wiki/te&#39;" title="wikilink">te'</a></li>
-<li>13階段への荒野 / 近藤智洋(<a href="../Page/GHEEE.md" title="wikilink">GHEEE</a>,ex<a href="https://ja.wikipedia.org/wiki/PEALOUT" title="wikilink">PEALOUT</a>)</li>
-<li>no man break / 木下理樹(<a href="https://ja.wikipedia.org/wiki/ART-SCHOOL" title="wikilink">ART-SCHOOL</a>)</li>
+<li>13階段への荒野 / 近藤智洋(<a href="../Page/GHEEE.md" title="wikilink">GHEEE</a>,ex<a href="../Page/PEALOUT.md" title="wikilink">PEALOUT</a>)</li>
+<li>no man break / 木下理樹(<a href="../Page/ART-SCHOOL.md" title="wikilink">ART-SCHOOL</a>)</li>
 <li>FASTER,FASTER / dip JAPAN(<a href="../Page/チバユウスケ.md" title="wikilink">チバユウスケ</a>×<a href="../Page/クハラカズユキ.md" title="wikilink">クハラカズユキ</a>×<a href="../Page/TOKIE.md" title="wikilink">TOKIE</a>×<a href="../Page/ヤマジカズヒデ.md" title="wikilink">ヤマジカズヒデ</a>)</li>
 <li>GARDEN / ヤマジカズヒデ</li>
 </ol></td>

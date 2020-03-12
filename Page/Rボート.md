@@ -5,9 +5,9 @@
 
 ## 概要
 
-初期には[排水量](https://ja.wikipedia.org/wiki/排水量 "wikilink")60トン程度であったが、装備の追加等により次第に大型化し、戦時中の建造艇は175トンにも達した。狭水域での行動等のために、操縦性に優れる[フォイト・シュナイダープロペラを装備したものもある](../Page/シュナイダープロペラ.md "wikilink")。任務は掃海のほか、[機雷](https://ja.wikipedia.org/wiki/機雷 "wikilink")敷設、主力艦や輸送船等の対空・対潜護衛等もあり、多目的艇としての性格が強くなった。速力は約17-24[ノット](../Page/ノット.md "wikilink")。
+初期には[排水量](../Page/排水量.md "wikilink")60トン程度であったが、装備の追加等により次第に大型化し、戦時中の建造艇は175トンにも達した。狭水域での行動等のために、操縦性に優れる[フォイト・シュナイダープロペラを装備したものもある](../Page/シュナイダープロペラ.md "wikilink")。任務は掃海のほか、[機雷](https://ja.wikipedia.org/wiki/機雷 "wikilink")敷設、主力艦や輸送船等の対空・対潜護衛等もあり、多目的艇としての性格が強くなった。速力は約17-24[ノット](../Page/ノット.md "wikilink")。
 
-掃海具のほか、[武装](../Page/武装.md "wikilink")として小型砲や[機関砲](https://ja.wikipedia.org/wiki/機関砲 "wikilink")、対潜爆雷を装備し、戦訓により次第に重装備となった。300隻前後が建造され、[北海](../Page/北海.md "wikilink")などで用いられた。半分程度撃沈ないし破壊されたものの、残存艇の一部は終戦後にドイツ周辺海域の[掃海](https://ja.wikipedia.org/wiki/掃海 "wikilink")に用いられた。
+掃海具のほか、[武装](../Page/武装.md "wikilink")として小型砲や[機関砲](../Page/機関砲.md "wikilink")、対潜爆雷を装備し、戦訓により次第に重装備となった。300隻前後が建造され、[北海](../Page/北海.md "wikilink")などで用いられた。半分程度撃沈ないし破壊されたものの、残存艇の一部は終戦後にドイツ周辺海域の[掃海](https://ja.wikipedia.org/wiki/掃海 "wikilink")に用いられた。
 
 <File:Kutry> tralowe Kriegsmarine.jpg|掃海作業に従事するRボート <File:Bundesarchiv> Bild 101II-MW-1956-30, Frankreich, Kanal, R-Boote.jpg|梯形隊形で航行するRボート <File:Osnabrück> mrs11.jpg|Rボート母艦MRS11（元・北ドイツロイド汽船オスナブリュック）
 

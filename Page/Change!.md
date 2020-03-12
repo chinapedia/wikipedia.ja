@@ -11,18 +11,18 @@
 
   - 吉村辰馬：[石黒賢](https://ja.wikipedia.org/wiki/石黒賢 "wikilink")　
   - 西崎冴子：[田中美奈子](https://ja.wikipedia.org/wiki/田中美奈子 "wikilink")　
-  - 中西洋一：[加藤晴彦](https://ja.wikipedia.org/wiki/加藤晴彦 "wikilink")　
+  - 中西洋一：[加藤晴彦](../Page/加藤晴彦.md "wikilink")　
   - 松野栞：[早勢美里](../Page/早勢美里.md "wikilink")　
-  - 勝野英和：[柳沢慎吾](https://ja.wikipedia.org/wiki/柳沢慎吾 "wikilink")　
+  - 勝野英和：[柳沢慎吾](../Page/柳沢慎吾.md "wikilink")　
   - 花村里美：[田中広子](../Page/田中広子.md "wikilink")　
   - 佐竹孝行：[ベンガル](../Page/ベンガル_\(俳優\).md "wikilink")　
-  - 倉田剛：[石倉三郎](https://ja.wikipedia.org/wiki/石倉三郎 "wikilink")　
-  - 梶原潔：[細川俊之](https://ja.wikipedia.org/wiki/細川俊之 "wikilink")
+  - 倉田剛：[石倉三郎](../Page/石倉三郎.md "wikilink")　
+  - 梶原潔：[細川俊之](../Page/細川俊之.md "wikilink")
 
 ## テーマ曲
 
   - 主題歌「TRUTH」[To Be Continued](../Page/To_Be_Continued.md "wikilink")　
-  - 挿入歌「NO MORE KISS, NO MORE CRY」[HIM](https://ja.wikipedia.org/wiki/HIM_\(音楽プロジェクト\) "wikilink")
+  - 挿入歌「NO MORE KISS, NO MORE CRY」[HIM](../Page/HIM_\(音楽プロジェクト\).md "wikilink")
 
 ## スタッフ
 

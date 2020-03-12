@@ -1,23 +1,23 @@
 > この記事は[W3m](https://ja.wikipedia.org/wiki/W3m)から翻訳されています。
 
 
-**w3m**（ダブリューサンエム または ダブリュースリーエム）は、現[東北大学](https://ja.wikipedia.org/wiki/東北大学 "wikilink")[教授](https://ja.wikipedia.org/wiki/教授 "wikilink")、伊藤彰則によって開発された[ページャ](https://ja.wikipedia.org/wiki/ページャ "wikilink")兼[テキストベースの](../Page/キャラクタユーザインタフェース.md "wikilink")[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")である。WWW-wo-Miru（[WWWを見る](../Page/World_Wide_Web.md "wikilink")）\[1\]ということから、名付けられた。
+**w3m**（ダブリューサンエム または ダブリュースリーエム）は、現[東北大学](https://ja.wikipedia.org/wiki/東北大学 "wikilink")[教授](../Page/教授.md "wikilink")、伊藤彰則によって開発された[ページャ](https://ja.wikipedia.org/wiki/ページャ "wikilink")兼[テキストベースの](../Page/キャラクタユーザインタフェース.md "wikilink")[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")である。WWW-wo-Miru（[WWWを見る](../Page/World_Wide_Web.md "wikilink")）\[1\]ということから、名付けられた。
 
 本家は[2011年](../Page/2011年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")が最後のリリースであるが、[Debian](../Page/Debian.md "wikilink")版\[2\]の開発が続いている。
 
-動作環境は一般的な[Unix系](https://ja.wikipedia.org/wiki/Unix系 "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")であるが、[Windowsでも](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Cygwin](https://ja.wikipedia.org/wiki/Cygwin "wikilink")を用いることにより動作可能である。
+動作環境は一般的な[Unix系](../Page/Unix系.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")であるが、[Windowsでも](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Cygwin](../Page/Cygwin.md "wikilink")を用いることにより動作可能である。
 
 ## 特徴
 
-テキストブラウザでありながら、[タブブラウジング機能を備え](https://ja.wikipedia.org/wiki/タブブラウザ "wikilink")、マウスによる操作、テーブル、フレームの描写などにも対応。また画像ファイルのインライン表示にも対応している。
+テキストブラウザでありながら、[タブブラウジング機能を備え](../Page/タブブラウザ.md "wikilink")、マウスによる操作、テーブル、フレームの描写などにも対応。また画像ファイルのインライン表示にも対応している。
 
-一風変わった機能としては、[Webサーバ](../Page/Webサーバ.md "wikilink")なしで[CGIスクリプトを起動するLocal](../Page/Common_Gateway_Interface.md "wikilink") CGI機能や、読み込んだ[HTML文書を](../Page/HyperText_Markup_Language.md "wikilink")[プレーンテキスト](https://ja.wikipedia.org/wiki/プレーンテキスト "wikilink")に整形して出力する\[3\]機能などを備える。また[Emacs](../Page/Emacs.md "wikilink")から起動するEmacs-w3mモードがある。
+一風変わった機能としては、[Webサーバ](../Page/Webサーバ.md "wikilink")なしで[CGIスクリプトを起動するLocal](../Page/Common_Gateway_Interface.md "wikilink") CGI機能や、読み込んだ[HTML文書を](../Page/HyperText_Markup_Language.md "wikilink")[プレーンテキスト](../Page/プレーンテキスト.md "wikilink")に整形して出力する\[3\]機能などを備える。また[Emacs](../Page/Emacs.md "wikilink")から起動するEmacs-w3mモードがある。
 
 ## 他のテキストブラウザ
 
-  - [Lynx](https://ja.wikipedia.org/wiki/Lynx_\(ウェブブラウザ\) "wikilink")
-  - [Links](https://ja.wikipedia.org/wiki/Links "wikilink")
-  - [ELinks](https://ja.wikipedia.org/wiki/ELinks "wikilink")
+  - [Lynx](../Page/Lynx_\(ウェブブラウザ\).md "wikilink")
+  - [Links](../Page/Links.md "wikilink")
+  - [ELinks](../Page/ELinks.md "wikilink")
 
 ## 脚注
 

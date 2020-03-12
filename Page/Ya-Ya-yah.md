@@ -1,18 +1,18 @@
 > この記事は[Ya-Ya-yah](https://ja.wikipedia.org/wiki/Ya-Ya-yah)から翻訳されています。
 
 
-**Ya-Ya-yah**（ヤーヤーヤー）は、[ジャニーズ事務所](https://ja.wikipedia.org/wiki/ジャニーズ事務所 "wikilink")に所属していた[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")内の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")。グループ名は、ビートルズの曲『A Hard Day's Night』（旧日本語題：[ビートルズがやって来るヤァ\!ヤァ\!ヤァ\!](https://ja.wikipedia.org/wiki/ビートルズがやって来るヤァ!ヤァ!ヤァ!_\(曲\) "wikilink")）にちなんでつけられた\[1\]\[2\]。
+**Ya-Ya-yah**（ヤーヤーヤー）は、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に所属していた[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")内の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")。グループ名は、ビートルズの曲『A Hard Day's Night』（旧日本語題：[ビートルズがやって来るヤァ\!ヤァ\!ヤァ\!](../Page/ビートルズがやって来るヤァ!ヤァ!ヤァ!_\(曲\).md "wikilink")）にちなんでつけられた\[1\]\[2\]。
 
 ## メンバー
 
-  - [薮宏太](https://ja.wikipedia.org/wiki/薮宏太 "wikilink")（やぶ こうた、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[1月31日](../Page/1月31日.md "wikilink") - ） - 神奈川県出身。
-  - [八乙女光](https://ja.wikipedia.org/wiki/八乙女光 "wikilink")（やおとめ ひかる、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月2日](../Page/12月2日.md "wikilink") - ） - 宮城県出身。[2003年](../Page/2003年.md "wikilink")に加入\[3\]。
-  - [鮎川太陽](https://ja.wikipedia.org/wiki/鮎川太陽 "wikilink")（あゆかわ たいよう、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[1月18日](../Page/1月18日.md "wikilink") - ） - 東京都出身。
-  - [山下翔央](https://ja.wikipedia.org/wiki/山下翔央 "wikilink")（やました しょおん、[1988年](../Page/1988年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink") - ） - 東京都出身。
+  - [薮宏太](../Page/薮宏太.md "wikilink")（やぶ こうた、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[1月31日](../Page/1月31日.md "wikilink") - ） - 神奈川県出身。
+  - [八乙女光](../Page/八乙女光.md "wikilink")（やおとめ ひかる、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月2日](../Page/12月2日.md "wikilink") - ） - 宮城県出身。[2003年](../Page/2003年.md "wikilink")に加入\[3\]。
+  - [鮎川太陽](../Page/鮎川太陽.md "wikilink")（あゆかわ たいよう、[1991年](../Page/1991年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink") - ） - 東京都出身。
+  - [山下翔央](../Page/山下翔央.md "wikilink")（やました しょおん、[1988年](../Page/1988年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink") - ） - 東京都出身。
 
 ### 旧メンバー
 
-  - [赤間直哉](https://ja.wikipedia.org/wiki/赤間直哉 "wikilink")（あかま なおや、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[4月5日](../Page/4月5日.md "wikilink") - ） - 東京都出身。
+  - [赤間直哉](../Page/赤間直哉.md "wikilink")（あかま なおや、[1991年](../Page/1991年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") - ） - 東京都出身。
   - 星野正樹（ほしの まさき、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月10日](../Page/10月10日.md "wikilink") - ） - 東京都出身。
 
 ## 来歴
@@ -27,7 +27,7 @@
 
   - 2003年
 
-:\* 1月5日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列バラエティ番組『[Ya-Ya-yah](https://ja.wikipedia.org/wiki/Ya-Ya-yah_\(テレビ番組\) "wikilink")』が放送開始される\[11\]。7月のグループ主演舞台『[Stand by Me](https://ja.wikipedia.org/wiki/Stand_by_Me "wikilink")』から八乙女が加入し\[12\]\[13\]\[14\]、6人体制となる。
+:\* 1月5日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列バラエティ番組『[Ya-Ya-yah](../Page/Ya-Ya-yah_\(テレビ番組\).md "wikilink")』が放送開始される\[11\]。7月のグループ主演舞台『[Stand by Me](https://ja.wikipedia.org/wiki/Stand_by_Me "wikilink")』から八乙女が加入し\[12\]\[13\]\[14\]、6人体制となる。
 
   -
 
@@ -35,7 +35,7 @@
 
 :\* アイドル雑誌のYa-Ya-yahのページから赤間・星野の姿がなくなり、薮・八乙女・鮎川・山下の4人で紹介される\[15\]。
 
-:\* 10月15日より、薮・八乙女・鮎川が[TBS系ドラマ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[3年B組金八先生 第7シリーズ](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")』に出演\[16\]し「[金八トリオ](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(1990年以降\)#金八トリオ "wikilink")」と呼ばれる。
+:\* 10月15日より、薮・八乙女・鮎川が[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[3年B組金八先生 第7シリーズ](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")』に出演\[16\]し「[金八トリオ](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(1990年以降\)#金八トリオ "wikilink")」と呼ばれる。
 
   -
 
@@ -53,7 +53,7 @@
 
   - 2017年
 
-:\* [帝国劇場](https://ja.wikipedia.org/wiki/帝国劇場 "wikilink")で行われていた舞台『[JOHNNYS' ALL STARS IsLAND](https://ja.wikipedia.org/wiki/JOHNNYS'_World_-ジャニーズ・ワールド-#JOHNNYS'_ALL_STARS_IsLAND（2016年-2017年） "wikilink")』の1月19日の公演に「Ya-Ya-yah」として薮宏太と八乙女光がゲスト出演して話題になる\[21\]。
+:\* [帝国劇場](../Page/帝国劇場.md "wikilink")で行われていた舞台『[JOHNNYS' ALL STARS IsLAND](https://ja.wikipedia.org/wiki/JOHNNYS'_World_-ジャニーズ・ワールド-#JOHNNYS'_ALL_STARS_IsLAND（2016年-2017年） "wikilink")』の1月19日の公演に「Ya-Ya-yah」として薮宏太と八乙女光がゲスト出演して話題になる\[21\]。
 
 ## 作品
 
@@ -63,11 +63,11 @@
 
 ### 楽曲
 
-タイアップに関しては[ジャニーズ タイアップ一覧を参照のこと](https://ja.wikipedia.org/wiki/ジャニーズ_タイアップ一覧 "wikilink")。[JASRAC公式サイトの](../Page/日本音楽著作権協会.md "wikilink")「作品データベース検索サービス」において、アーティスト名に「Ya-Ya-yah」を含む楽曲の検索結果をもとに記述。
+タイアップに関しては[ジャニーズ タイアップ一覧を参照のこと](../Page/ジャニーズ_タイアップ一覧.md "wikilink")。[JASRAC公式サイトの](../Page/日本音楽著作権協会.md "wikilink")「作品データベース検索サービス」において、アーティスト名に「Ya-Ya-yah」を含む楽曲の検索結果をもとに記述。
 
   - 2002年
 
-:\* LOVE together 2002\[23\]（作詞：[堂本光一](https://ja.wikipedia.org/wiki/堂本光一 "wikilink")、作曲：[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")） - JASRAC作品コード：092-9792-8
+:\* LOVE together 2002\[23\]（作詞：[堂本光一](../Page/堂本光一.md "wikilink")、作曲：[馬飼野康二](../Page/馬飼野康二.md "wikilink")） - JASRAC作品コード：092-9792-8
 
 :\* 合言葉はYa-Ya-yah\!（作詞：YUKAKO、作曲：馬飼野康二） - JASRAC作品コード：106-0850-8
 
@@ -77,7 +77,7 @@
 
 :\* Singin' for you（作詞：TAKESHI、作曲：ha-j/J） - JASRAC作品コード：108-0870-1
 
-:\* Just wanna lovin' you（作詞：平田純子、作曲：[清水達也](https://ja.wikipedia.org/wiki/清水達也 "wikilink")） - JASRAC作品コード：109-9452-1
+:\* Just wanna lovin' you（作詞：平田純子、作曲：[清水達也](../Page/清水達也.md "wikilink")） - JASRAC作品コード：109-9452-1
 
 :\* Up Down Ya-Ya-yah（作詞・作曲：[永井真人](https://ja.wikipedia.org/wiki/永井真人 "wikilink")） - JASRAC作品コード：109-9349-5
 
@@ -95,21 +95,21 @@
 
 :\* ひまわりのメロディ（作詞：相田毅、作曲：谷本新） - JASRAC作品コード：128-7037-4
 
-:\* 新しい夜明け（作詞：小間浩子、作曲：[酒井ミキオ](https://ja.wikipedia.org/wiki/酒井ミキオ "wikilink")） - JASRAC作品コード：122-6018-5
+:\* 新しい夜明け（作詞：小間浩子、作曲：[酒井ミキオ](../Page/酒井ミキオ.md "wikilink")） - JASRAC作品コード：122-6018-5
 
   -
 
   - 2006年
 
-:\* Ikujinashi（作詞・作曲：[宮崎歩](https://ja.wikipedia.org/wiki/宮崎歩 "wikilink")） - JASRAC作品コード：128-7059-5
+:\* Ikujinashi（作詞・作曲：[宮崎歩](../Page/宮崎歩.md "wikilink")） - JASRAC作品コード：128-7059-5
 
-:\* Jewel Star（作詞：821R/[漆野淳哉](https://ja.wikipedia.org/wiki/漆野淳哉 "wikilink")、作曲：[清水昭男](https://ja.wikipedia.org/wiki/清水昭男 "wikilink")） - JASRAC作品コード：132-4821-9
+:\* Jewel Star（作詞：821R/[漆野淳哉](https://ja.wikipedia.org/wiki/漆野淳哉 "wikilink")、作曲：[清水昭男](../Page/清水昭男.md "wikilink")） - JASRAC作品コード：132-4821-9
 
 :\* サマー×サマー×サマー\!（作詞：日比野裕史・821R、作曲：日比野裕史） - JASRAC作品コード：132-7454-6
 
-:\* to the Freedom（作詞・作曲：[Gajin](https://ja.wikipedia.org/wiki/Gajin "wikilink")） - JASRAC作品コード：134-9082-6
+:\* to the Freedom（作詞・作曲：[Gajin](../Page/Gajin.md "wikilink")） - JASRAC作品コード：134-9082-6
 
-:\* 愛しのプレイガール（作詞：[Zopp](https://ja.wikipedia.org/wiki/Zopp "wikilink")、作曲：熊谷憲康） - JASRAC作品コード：137-0182-7
+:\* 愛しのプレイガール（作詞：[Zopp](../Page/Zopp.md "wikilink")、作曲：熊谷憲康） - JASRAC作品コード：137-0182-7
 
 :\* 手をつないでゆこう（作詞：Ya-Ya-yah・酒井ミキオ、作曲：酒井ミキオ） - JASRAC作品コード：137-0192-4
 
@@ -121,7 +121,7 @@
 
 :\* いま進もう（作詞：八乙女光、作曲：磯崎建史） - JASRAC作品コード：140-7468-1
 
-:\* Baby Babe（作詞：[白井裕紀](https://ja.wikipedia.org/wiki/白井裕紀 "wikilink")、作曲：JOVETTE RIVERA AND JOEY CARBONE） - JASRAC作品コード：142-9646-2
+:\* Baby Babe（作詞：[白井裕紀](../Page/白井裕紀.md "wikilink")、作曲：JOVETTE RIVERA AND JOEY CARBONE） - JASRAC作品コード：142-9646-2
 
 ## 出演
 
@@ -129,23 +129,23 @@
 
 ### バラエティ
 
-  - [ポンキッキーズ21](https://ja.wikipedia.org/wiki/ポンキッキーズ21 "wikilink")（2002年4月 - 2004年3月、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
-  - [Ya-Ya-yah](https://ja.wikipedia.org/wiki/Ya-Ya-yah_\(テレビ番組\) "wikilink")（2003年1月5日 - 2007年10月27日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）\[24\]
-  - [ザ少年倶楽部](https://ja.wikipedia.org/wiki/ザ少年倶楽部 "wikilink")（2002年1月 - 2007年10月、[NHK-BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")・[BShi](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")）
+  - [ポンキッキーズ21](../Page/ポンキッキーズ21.md "wikilink")（2002年4月 - 2004年3月、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [Ya-Ya-yah](../Page/Ya-Ya-yah_\(テレビ番組\).md "wikilink")（2003年1月5日 - 2007年10月27日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）\[24\]
+  - [ザ少年倶楽部](../Page/ザ少年倶楽部.md "wikilink")（2002年1月 - 2007年10月、[NHK-BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")・[BShi](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")）
 
 ### CM
 
   - KICK\!フジテレビ - 薮・赤間・鮎川・山下・星野
-  - [不二家](https://ja.wikipedia.org/wiki/不二家 "wikilink") ファイブスター - 薮・赤間・鮎川・山下・星野
-  - [ピザーラ](https://ja.wikipedia.org/wiki/ピザーラ "wikilink") スーパービンゴ篇 - 薮・八乙女・鮎川・山下\[25\]
-  - [進研ゼミ高校講座](https://ja.wikipedia.org/wiki/進研ゼミ高校講座 "wikilink")（2007年） - 鮎川・山下\[26\]\[27\]
+  - [不二家](../Page/不二家.md "wikilink") ファイブスター - 薮・赤間・鮎川・山下・星野
+  - [ピザーラ](../Page/ピザーラ.md "wikilink") スーパービンゴ篇 - 薮・八乙女・鮎川・山下\[25\]
+  - [進研ゼミ高校講座](../Page/進研ゼミ高校講座.md "wikilink")（2007年） - 鮎川・山下\[26\]\[27\]
 
 ### 舞台
 
-  - [Stand by Me](https://ja.wikipedia.org/wiki/Stand_by_Me "wikilink")（2003年7月25日 - 8月10日、[東京芸術劇場](https://ja.wikipedia.org/wiki/東京芸術劇場 "wikilink")中ホール） - 主演（薮・山下・鮎川・八乙女）\[28\]\[29\]\[30\]
-      - Stand by Me（2004年7月16日 - 8月1日、[東京グローブ座](https://ja.wikipedia.org/wiki/東京グローブ座 "wikilink")） - 主演（薮・山下・鮎川・八乙女）\[31\]
-  - [SHOCK Real Shock〜](https://ja.wikipedia.org/wiki/SHOCK "wikilink")〜is（2003年1月8日 - 2月25日、帝国劇場）
-  - One\!-the history of Tackey-（2006年9月15日 - 28日、[日生劇場](https://ja.wikipedia.org/wiki/日生劇場 "wikilink")）
+  - [Stand by Me](https://ja.wikipedia.org/wiki/Stand_by_Me "wikilink")（2003年7月25日 - 8月10日、[東京芸術劇場](../Page/東京芸術劇場.md "wikilink")中ホール） - 主演（薮・山下・鮎川・八乙女）\[28\]\[29\]\[30\]
+      - Stand by Me（2004年7月16日 - 8月1日、[東京グローブ座](../Page/東京グローブ座.md "wikilink")） - 主演（薮・山下・鮎川・八乙女）\[31\]
+  - [SHOCK Real Shock〜](../Page/SHOCK.md "wikilink")〜is（2003年1月8日 - 2月25日、帝国劇場）
+  - One\!-the history of Tackey-（2006年9月15日 - 28日、[日生劇場](../Page/日生劇場.md "wikilink")）
 
 ### コンサート
 
@@ -156,8 +156,8 @@
   - [Johnnys Theater “SUMMARY” of Johnnys World](https://ja.wikipedia.org/wiki/SUMMARY#SUMMARY_2004 "wikilink")（2004年8月8日 - 29日、原宿・新ビッグトップ）\[32\]薮・八乙女・鮎川・山下・星野
   - [SUMMARY Ya-Ya-yah show time](https://ja.wikipedia.org/wiki/SUMMARY#SUMMARY_2005 "wikilink")（2005年7月29日 - 31日、[品川アクアスタジアムステラボール](https://ja.wikipedia.org/wiki/エプソン_アクアパーク品川#ステラボール "wikilink")）\[33\]\[34\]薮・八乙女・鮎川・山下
   - ジャニーズJr.の大冒険\!（2006年8月15日 - 25日、[ホテル・グランパシフィック・メリディアン](https://ja.wikipedia.org/wiki/ホテル・グランパシフィック・メリディアン "wikilink")）\[35\]
-  - you達の音楽大運動会（2006年9月30日、10月1日、[国立代々木競技場](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")）\[36\]
-  - 2007 謹賀新年 あけましておめでとう ジャニーズJr.大集合（2007年1月2日 - 1月7日、[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")）\[37\]\[38\]
+  - you達の音楽大運動会（2006年9月30日、10月1日、[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")）\[36\]
+  - 2007 謹賀新年 あけましておめでとう ジャニーズJr.大集合（2007年1月2日 - 1月7日、[日本武道館](../Page/日本武道館.md "wikilink")）\[37\]\[38\]
   - ジャニーズJr.の大冒険\!@メリディアン'07（2007年8月15日 - 24日、ホテル・グランパシフィック・メリディアン パレ・ロワイヤル）\[39\]
   - JOHNNYS'Jr. Hey Say 07 in YOKOHAMA ARENA（2007年9月23日、9月24日(第1部のみ)）
 
@@ -180,7 +180,7 @@
 <td><p>1か所2公演<br />
 3万人動員[43]</p></td>
 <td><p>横浜アリーナ</p></td>
-<td><p>2度目の単独コンサート[44]。オリジナル曲を中心に全25曲を披露。「金八トリオ卒業記念コンサート」と題され、<a href="https://ja.wikipedia.org/wiki/亀梨和也" title="wikilink">亀梨和也</a>がスペシャルゲストとして登場。『<a href="https://ja.wikipedia.org/wiki/3年B組金八先生" title="wikilink">3年B組金八先生</a>』で八乙女が演じた丸山しゅうの“特別卒業式”が行われ、劇中では受け取れなかった卒業証書が渡される演出もあった。[45][46]</p></td>
+<td><p>2度目の単独コンサート[44]。オリジナル曲を中心に全25曲を披露。「金八トリオ卒業記念コンサート」と題され、<a href="../Page/亀梨和也.md" title="wikilink">亀梨和也</a>がスペシャルゲストとして登場。『<a href="https://ja.wikipedia.org/wiki/3年B組金八先生" title="wikilink">3年B組金八先生</a>』で八乙女が演じた丸山しゅうの“特別卒業式”が行われ、劇中では受け取れなかった卒業証書が渡される演出もあった。[45][46]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -197,14 +197,14 @@
 
 ### イベント
 
-  - KICK\! ODAIBA 2002（2002年4月29日 - 5月6日、[お台場](https://ja.wikipedia.org/wiki/お台場 "wikilink") フジテレビ） - 薮・赤間・鮎川・山下・星野\[47\]
-  - 忍たま乱太郎 10周年記念イベント（2002年5月12日、[Zepp TOKYO](https://ja.wikipedia.org/wiki/Zepp "wikilink")） - 薮・赤間・鮎川・山下・星野\[48\]
+  - KICK\! ODAIBA 2002（2002年4月29日 - 5月6日、[お台場](../Page/お台場.md "wikilink") フジテレビ） - 薮・赤間・鮎川・山下・星野\[47\]
+  - 忍たま乱太郎 10周年記念イベント（2002年5月12日、[Zepp TOKYO](../Page/Zepp.md "wikilink")） - 薮・赤間・鮎川・山下・星野\[48\]
   - 忍たま乱太郎 公開イベント（2002年6月22日、Zepp TOKYO） - 薮・赤間・鮎川・山下・星野
-  - パタヤミュージックフェスティバル（2003年3月19日 - 24日、[タイ王国](https://ja.wikipedia.org/wiki/タイ王国 "wikilink")） - 薮・八乙女（メンバー外として出演）・山下
+  - パタヤミュージックフェスティバル（2003年3月19日 - 24日、[タイ王国](../Page/タイ王国.md "wikilink")） - 薮・八乙女（メンバー外として出演）・山下
 
 ### 関連書籍
 
-  - [Ya-Ya-yahがやってくる\!](https://ja.wikipedia.org/wiki/Ya-Ya-yahがやってくる! "wikilink")（[集英社](https://ja.wikipedia.org/wiki/集英社 "wikilink")『[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")』）\[49\] - [北沢薫](https://ja.wikipedia.org/wiki/北沢薫 "wikilink")の漫画。メンバーと架空のキャラクターの交流を描いている。
+  - [Ya-Ya-yahがやってくる\!](../Page/Ya-Ya-yahがやってくる!.md "wikilink")（[集英社](../Page/集英社.md "wikilink")『[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")』）\[49\] - [北沢薫](../Page/北沢薫.md "wikilink")の漫画。メンバーと架空のキャラクターの交流を描いている。
 
 ## 脚注
 

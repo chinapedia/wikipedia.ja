@@ -8,9 +8,9 @@
 | **第8作**                                                               |
 | **第9作**                                                               |
 
-『**仮面ライダーBLACK RX**』（かめんライダーブラック アールエックス）は、[1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年）[10月23日](../Page/10月23日.md "wikilink")から[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[9月24日](../Page/9月24日.md "wikilink")まで、[TBS系列で毎週日曜](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")10:00 - 10:30（[JST](../Page/日本標準時.md "wikilink")）に全47話が放映された、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[東映](https://ja.wikipedia.org/wiki/東映 "wikilink")制作の[特撮テレビドラマ作品](../Page/特撮テレビ番組一覧.md "wikilink")、及び作中で主人公が変身するヒーローの名称である。
+『**仮面ライダーBLACK RX**』（かめんライダーブラック アールエックス）は、[1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年）[10月23日](../Page/10月23日.md "wikilink")から[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[9月24日](../Page/9月24日.md "wikilink")まで、[TBS系列で毎週日曜](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")10:00 - 10:30（[JST](../Page/日本標準時.md "wikilink")）に全47話が放映された、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[東映](../Page/東映.md "wikilink")制作の[特撮テレビドラマ作品](../Page/特撮テレビ番組一覧.md "wikilink")、及び作中で主人公が変身するヒーローの名称である。
 
-毎日放送、並びに原作者である[石ノ森章太郎](https://ja.wikipedia.org/wiki/石ノ森章太郎 "wikilink")が関与した最後のテレビシリーズである。放映中に[昭和天皇](https://ja.wikipedia.org/wiki/昭和天皇 "wikilink")が[崩御](https://ja.wikipedia.org/wiki/崩御 "wikilink")したため、[元号](../Page/元号.md "wikilink")が[昭和](../Page/昭和.md "wikilink")から[平成](../Page/平成.md "wikilink")に移行しているが、後年の『[仮面ライダークウガ](../Page/仮面ライダークウガ.md "wikilink")』以降のいわゆる[平成仮面ライダーシリーズには含まれない](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ#平成仮面ライダーシリーズ "wikilink")。
+毎日放送、並びに原作者である[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")が関与した最後のテレビシリーズである。放映中に[昭和天皇](../Page/昭和天皇.md "wikilink")が[崩御](../Page/崩御.md "wikilink")したため、[元号](../Page/元号.md "wikilink")が[昭和](../Page/昭和.md "wikilink")から[平成](../Page/平成.md "wikilink")に移行しているが、後年の『[仮面ライダークウガ](../Page/仮面ライダークウガ.md "wikilink")』以降のいわゆる[平成仮面ライダーシリーズには含まれない](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ#平成仮面ライダーシリーズ "wikilink")。
 
 ## あらすじ
 
@@ -24,41 +24,41 @@
 
 ## 概要
 
-前作『[仮面ライダーBLACK](https://ja.wikipedia.org/wiki/仮面ライダーBLACK "wikilink")』の主人公がスタイルを変えて続投した作品。『BLACK』の続編ではあるものの、登場人物の多くが一新され、続投となったのは主役の南光太郎とゲスト出演という形での[シャドームーン](https://ja.wikipedia.org/wiki/シャドームーン "wikilink")、他はシャドームーンとの再戦時に秋月杏子と紀田克美が回想で前作のシーンが流用されたのみである。
+前作『[仮面ライダーBLACK](../Page/仮面ライダーBLACK.md "wikilink")』の主人公がスタイルを変えて続投した作品。『BLACK』の続編ではあるものの、登場人物の多くが一新され、続投となったのは主役の南光太郎とゲスト出演という形での[シャドームーン](../Page/シャドームーン.md "wikilink")、他はシャドームーンとの再戦時に秋月杏子と紀田克美が回想で前作のシーンが流用されたのみである。
 
-平成仮面ライダーシリーズの多くの作品のプロデューサーである[白倉伸一郎](https://ja.wikipedia.org/wiki/白倉伸一郎 "wikilink")が東映に入社する際、面接で[岡田茂ら当時の役員を前に本作品を挙げて批判したという逸話も残っているが](https://ja.wikipedia.org/wiki/岡田茂_\(東映\) "wikilink")\[1\]、実際には「番組視聴中にその内容からスポンサーやテレビ局の圧力が感じられたので、自分は局やスポンサーと現場の間の調整役になりたい」という主旨を述べたとのことである\[2\]。
+平成仮面ライダーシリーズの多くの作品のプロデューサーである[白倉伸一郎](../Page/白倉伸一郎.md "wikilink")が東映に入社する際、面接で[岡田茂ら当時の役員を前に本作品を挙げて批判したという逸話も残っているが](https://ja.wikipedia.org/wiki/岡田茂_\(東映\) "wikilink")\[1\]、実際には「番組視聴中にその内容からスポンサーやテレビ局の圧力が感じられたので、自分は局やスポンサーと現場の間の調整役になりたい」という主旨を述べたとのことである\[2\]。
 
 シリーズ中、[モノラル](https://ja.wikipedia.org/wiki/モノラル "wikilink")放送および[16mmフィルム](https://ja.wikipedia.org/wiki/16mmフィルム "wikilink")撮影による最後の作品となった。
 
 ### 特徴
 
-前作『BLACK』では企画段階で仮面ライダーの特徴をピックアップした上で、それらをリメイクするのか否定するのか検討した末にリメイク案が採用された。放映2年目となる本作品では旧作からの継承要素にこだわらない方向で制作されることになった。その結果、[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")や[メタルヒーローシリーズ](https://ja.wikipedia.org/wiki/メタルヒーローシリーズ "wikilink")といった東映制作の他シリーズを意識した数多くの新しい試みが取り入れられ、前作とは異なるアプローチによる新しいライダー像の追求が行われた。
+前作『BLACK』では企画段階で仮面ライダーの特徴をピックアップした上で、それらをリメイクするのか否定するのか検討した末にリメイク案が採用された。放映2年目となる本作品では旧作からの継承要素にこだわらない方向で制作されることになった。その結果、[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")や[メタルヒーローシリーズ](../Page/メタルヒーローシリーズ.md "wikilink")といった東映制作の他シリーズを意識した数多くの新しい試みが取り入れられ、前作とは異なるアプローチによる新しいライダー像の追求が行われた。
 
-その一環として、原則としてキック技が必殺技であった当時の仮面ライダーシリーズでは初めて、剣や銃などの[武器](https://ja.wikipedia.org/wiki/武器 "wikilink")による攻撃をメイン必殺技として採用したほか、専用バイクだけではなく専用の[四輪車が導入され](../Page/自動車.md "wikilink")、さらにはバイクも含めた多段変身等それまでの仮面ライダーとは一線を画す要素が取り入れられており、後年のシリーズにおける諸設定の先駆けとなった。
+その一環として、原則としてキック技が必殺技であった当時の仮面ライダーシリーズでは初めて、剣や銃などの[武器](../Page/武器.md "wikilink")による攻撃をメイン必殺技として採用したほか、専用バイクだけではなく専用の[四輪車が導入され](../Page/自動車.md "wikilink")、さらにはバイクも含めた多段変身等それまでの仮面ライダーとは一線を画す要素が取り入れられており、後年のシリーズにおける諸設定の先駆けとなった。
 
-また人物設定でも、主人公である南光太郎の性格が前作のラストを感じさせないほど明るめに描写されたり、前作とは対照的に主人公の周囲を敵味方共に数多くのサブキャラクターが取り巻いているなど、「家族でも楽しめる」という前提の元に作品作りが行われている。ただし、前作から続けて担当した監督の[小笠原猛](https://ja.wikipedia.org/wiki/小笠原猛 "wikilink")がはじめて『RX』の撮影に参加する際、倉田に対して「今の明るいままのライダーじゃいけない」と語るなど、スタッフ内部でもこの路線変更に対して意見が分かれていた。この他、前作には無かった戦闘員の登場やシャドームーンの再登場によるライバルキャラの復活劇、そして敵幹部間の軋轢等、過去の石ノ森ヒーローの集大成とも呼べる要素も多く盛り込まれた。
+また人物設定でも、主人公である南光太郎の性格が前作のラストを感じさせないほど明るめに描写されたり、前作とは対照的に主人公の周囲を敵味方共に数多くのサブキャラクターが取り巻いているなど、「家族でも楽しめる」という前提の元に作品作りが行われている。ただし、前作から続けて担当した監督の[小笠原猛](../Page/小笠原猛.md "wikilink")がはじめて『RX』の撮影に参加する際、倉田に対して「今の明るいままのライダーじゃいけない」と語るなど、スタッフ内部でもこの路線変更に対して意見が分かれていた。この他、前作には無かった戦闘員の登場やシャドームーンの再登場によるライバルキャラの復活劇、そして敵幹部間の軋轢等、過去の石ノ森ヒーローの集大成とも呼べる要素も多く盛り込まれた。
 
-物語終盤の第41話「百目婆ァの恐怖」より、1号からZXまでの10人の歴代仮面ライダーが登場した。歴代仮面ライダーの登場に当たっては『ZX』終了後に国外に旅立ってから『BLACK』の時点までの世界各地での動向が設定されている。歴代仮面ライダーの登場には、放映当時の好調な売り上げが番組の終了とともに低下することを危惧した玩具メーカーや出版社の意向が関与しており、RXと歴代ライダーが共演する漫画を児童誌で展開するに当たって、テレビからの引き継ぎを円滑に行うための意味があった。当時は歴代ライダーの登場に否定的な声も出たものの、売り上げ面での成果や後の企画『[仮面ライダーSD](https://ja.wikipedia.org/wiki/仮面ライダーSD "wikilink")』への足がかりとなったことを鑑みれば、制作側の狙いは成功したと言われている\[3\]。
+物語終盤の第41話「百目婆ァの恐怖」より、1号からZXまでの10人の歴代仮面ライダーが登場した。歴代仮面ライダーの登場に当たっては『ZX』終了後に国外に旅立ってから『BLACK』の時点までの世界各地での動向が設定されている。歴代仮面ライダーの登場には、放映当時の好調な売り上げが番組の終了とともに低下することを危惧した玩具メーカーや出版社の意向が関与しており、RXと歴代ライダーが共演する漫画を児童誌で展開するに当たって、テレビからの引き継ぎを円滑に行うための意味があった。当時は歴代ライダーの登場に否定的な声も出たものの、売り上げ面での成果や後の企画『[仮面ライダーSD](../Page/仮面ライダーSD.md "wikilink")』への足がかりとなったことを鑑みれば、制作側の狙いは成功したと言われている\[3\]。
 
 ### 配役・スタッフ
 
-傾向としては[劇団俳優座](https://ja.wikipedia.org/wiki/劇団俳優座 "wikilink")からの起用が目立っている。主演の[倉田てつを](https://ja.wikipedia.org/wiki/倉田てつを "wikilink")をはじめ、[飯塚昭三](https://ja.wikipedia.org/wiki/飯塚昭三 "wikilink")、[高橋利道](https://ja.wikipedia.org/wiki/高橋利道 "wikilink")といった敵側のレギュラー、前作の終盤からナレーションを担当した[政宗一成](https://ja.wikipedia.org/wiki/政宗一成 "wikilink")も続投している。
+傾向としては[劇団俳優座](../Page/劇団俳優座.md "wikilink")からの起用が目立っている。主演の[倉田てつを](../Page/倉田てつを.md "wikilink")をはじめ、[飯塚昭三](../Page/飯塚昭三.md "wikilink")、[高橋利道](../Page/高橋利道.md "wikilink")といった敵側のレギュラー、前作の終盤からナレーションを担当した[政宗一成](../Page/政宗一成.md "wikilink")も続投している。
 
-シャドームーンの声は前作同様[寺杣昌紀](https://ja.wikipedia.org/wiki/てらそままさき "wikilink")、怪魔戦士の声は、当時[俳協に所属していた声優を主に起用していた](https://ja.wikipedia.org/wiki/東京俳優生活協同組合 "wikilink")。なお、オープニングクレジットにはジャーク将軍、ボスガン、クライシス皇帝の声優のみが表記され、その他の声優の表記はないが例外として、ゲドリアンの声を担当していた[新井一典](https://ja.wikipedia.org/wiki/新井一典 "wikilink")の名は第9話のみ表記されている。高橋は、スーツアクターとしてジャーク将軍を、声優としてガテゾーンを演じている。
+シャドームーンの声は前作同様[寺杣昌紀](../Page/てらそままさき.md "wikilink")、怪魔戦士の声は、当時[俳協に所属していた声優を主に起用していた](../Page/東京俳優生活協同組合.md "wikilink")。なお、オープニングクレジットにはジャーク将軍、ボスガン、クライシス皇帝の声優のみが表記され、その他の声優の表記はないが例外として、ゲドリアンの声を担当していた[新井一典](../Page/新井一典.md "wikilink")の名は第9話のみ表記されている。高橋は、スーツアクターとしてジャーク将軍を、声優としてガテゾーンを演じている。
 
-諜報参謀マリバロンを演じた[高畑淳子](https://ja.wikipedia.org/wiki/高畑淳子 "wikilink")は、当時[劇団青年座](https://ja.wikipedia.org/wiki/劇団青年座 "wikilink")の活動だけでは生活できなかったことから東映作品に参加していた。このマリバロンは高畑の当たり役となり、それ以降、出演依頼が多くなったという。後年のインタビューで高畑自身が当時を回想し「RX（の出演）がきっかけで私はようやく役者として食べていけるようになった」と述べている。
+諜報参謀マリバロンを演じた[高畑淳子](../Page/高畑淳子.md "wikilink")は、当時[劇団青年座](../Page/劇団青年座.md "wikilink")の活動だけでは生活できなかったことから東映作品に参加していた。このマリバロンは高畑の当たり役となり、それ以降、出演依頼が多くなったという。後年のインタビューで高畑自身が当時を回想し「RX（の出演）がきっかけで私はようやく役者として食べていけるようになった」と述べている。
 
-俳優座の研究生であった[小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink")は、本作品で霞のジョー役として俳優デビューした。小山は、オーディションでは周りの若手俳優より年齢が高かったため受からないと思っていたが、プロデューサーの[堀長文](https://ja.wikipedia.org/wiki/堀長文 "wikilink")からの推薦により合格したと述べている。一部の危険なシーンを除き、ワイヤーアクションやナパーム爆破などアクションシーンのほとんどを小山自身が演じていた。
+俳優座の研究生であった[小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink")は、本作品で霞のジョー役として俳優デビューした。小山は、オーディションでは周りの若手俳優より年齢が高かったため受からないと思っていたが、プロデューサーの[堀長文](../Page/堀長文.md "wikilink")からの推薦により合格したと述べている。一部の危険なシーンを除き、ワイヤーアクションやナパーム爆破などアクションシーンのほとんどを小山自身が演じていた。
 
-スタッフの顔ぶれは基本的に前作と同じであるが、メインライターにはシリーズでは『[スーパー1](https://ja.wikipedia.org/wiki/仮面ライダースーパー1 "wikilink")』以来となる[江連卓](https://ja.wikipedia.org/wiki/江連卓 "wikilink")が起用され、[大映ドラマさながらの作劇が展開されることになる](https://ja.wikipedia.org/wiki/大映テレビ "wikilink")。またキャラクターデザインとして当時[メタルヒーローシリーズ](https://ja.wikipedia.org/wiki/メタルヒーローシリーズ "wikilink")にも携わっていた[雨宮慶太](https://ja.wikipedia.org/wiki/雨宮慶太 "wikilink")や[野口竜](https://ja.wikipedia.org/wiki/野口竜 "wikilink")が参加。
+スタッフの顔ぶれは基本的に前作と同じであるが、メインライターにはシリーズでは『[スーパー1](../Page/仮面ライダースーパー1.md "wikilink")』以来となる[江連卓](https://ja.wikipedia.org/wiki/江連卓 "wikilink")が起用され、[大映ドラマさながらの作劇が展開されることになる](../Page/大映テレビ.md "wikilink")。またキャラクターデザインとして当時[メタルヒーローシリーズ](../Page/メタルヒーローシリーズ.md "wikilink")にも携わっていた[雨宮慶太](../Page/雨宮慶太.md "wikilink")や[野口竜](../Page/野口竜.md "wikilink")が参加。
 
-音楽は前作に引き続き[川村栄二](https://ja.wikipedia.org/wiki/川村栄二 "wikilink")が担当。新曲の他、前作のBGMも一部使用されている。主題歌は前作の倉田に代わり[宮内タカユキ](https://ja.wikipedia.org/wiki/宮内タカユキ "wikilink")が担当、また挿入歌にはこの2名に加えそれまでの本シリーズでも主題歌を多数手がけた[水木一郎](https://ja.wikipedia.org/wiki/水木一郎 "wikilink")が参加している。
+音楽は前作に引き続き[川村栄二](../Page/川村栄二.md "wikilink")が担当。新曲の他、前作のBGMも一部使用されている。主題歌は前作の倉田に代わり[宮内タカユキ](../Page/宮内タカユキ.md "wikilink")が担当、また挿入歌にはこの2名に加えそれまでの本シリーズでも主題歌を多数手がけた[水木一郎](../Page/水木一郎.md "wikilink")が参加している。
 
 ### テレビシリーズの中断
 
-本作品の終了をもってテレビシリーズの制作は三度中断し、『[仮面ライダークウガ](../Page/仮面ライダークウガ.md "wikilink")』まで約10年の休止期間に入った。本作品の続編としての仮面ライダーの企画自体は存在し、同時期に『[機動刑事ジバン](https://ja.wikipedia.org/wiki/機動刑事ジバン "wikilink")』に出演していた[小林良平](https://ja.wikipedia.org/wiki/小林良平 "wikilink")が主役として起用される予定だったことが、小林本人へのインタビューで語られているが、最終的に実現には至らなかった\[4\]。 本作品の終了後、本枠はローカルセールス枠となったため、後番組は地域によって異なり、制作局である毎日放送は『桂三枝のスポーツマガジン』など、TBSは『TVジャンクション』→『[噂の\!東京マガジン](https://ja.wikipedia.org/wiki/噂の!東京マガジン "wikilink")』（後に13時枠に移動、現在も継続）と、それぞれ1時間枠の番組を放送した。また毎日放送の「全国ネット責任枠」としての後継番組は、開始時間を11:00に繰り下げ『[地球ZIG ZAG](https://ja.wikipedia.org/wiki/地球ZIG_ZAG "wikilink")』が放送された。
+本作品の終了をもってテレビシリーズの制作は三度中断し、『[仮面ライダークウガ](../Page/仮面ライダークウガ.md "wikilink")』まで約10年の休止期間に入った。本作品の続編としての仮面ライダーの企画自体は存在し、同時期に『[機動刑事ジバン](../Page/機動刑事ジバン.md "wikilink")』に出演していた[小林良平](../Page/小林良平.md "wikilink")が主役として起用される予定だったことが、小林本人へのインタビューで語られているが、最終的に実現には至らなかった\[4\]。 本作品の終了後、本枠はローカルセールス枠となったため、後番組は地域によって異なり、制作局である毎日放送は『桂三枝のスポーツマガジン』など、TBSは『TVジャンクション』→『[噂の\!東京マガジン](../Page/噂の!東京マガジン.md "wikilink")』（後に13時枠に移動、現在も継続）と、それぞれ1時間枠の番組を放送した。また毎日放送の「全国ネット責任枠」としての後継番組は、開始時間を11:00に繰り下げ『[地球ZIG ZAG](../Page/地球ZIG_ZAG.md "wikilink")』が放送された。
 
-小学館の仮面ライダー大百科 にて[吉川進](https://ja.wikipedia.org/wiki/吉川進 "wikilink")は同時期に人気を博していたパロディコント『[仮面ノリダー](../Page/仮面ノリダー.md "wikilink")』について、「[とんねるず](../Page/とんねるず.md "wikilink")がくだらないパロディばかりやるから、真面目に制作するのが馬鹿馬鹿しくなった 」と不快感を示していたほか、『仮面ライダーBLACK・RX超全集』のインタビューでも「昨今のスーパーヒーローのギャグ・パロディー化はヒーローの否定につながります。[高倉健](https://ja.wikipedia.org/wiki/高倉健 "wikilink")や[クリント・イーストウッド](https://ja.wikipedia.org/wiki/クリント・イーストウッド "wikilink")と、とんねるずは同居できないのです」と名指しで批判をしている。
+小学館の仮面ライダー大百科 にて[吉川進](../Page/吉川進.md "wikilink")は同時期に人気を博していたパロディコント『[仮面ノリダー](../Page/仮面ノリダー.md "wikilink")』について、「[とんねるず](../Page/とんねるず.md "wikilink")がくだらないパロディばかりやるから、真面目に制作するのが馬鹿馬鹿しくなった 」と不快感を示していたほか、『仮面ライダーBLACK・RX超全集』のインタビューでも「昨今のスーパーヒーローのギャグ・パロディー化はヒーローの否定につながります。[高倉健](../Page/高倉健.md "wikilink")や[クリント・イーストウッド](../Page/クリント・イーストウッド.md "wikilink")と、とんねるずは同居できないのです」と名指しで批判をしている。
 
 ## 登場人物
 
@@ -74,7 +74,7 @@
     カメラマンということもあり、不思議な事件が起こるとクライシスの仕業ではと光太郎によく話していた。光太郎との関係は、友達以上恋人未満といった感じであるが時折、親密ぶりをアピールする描写も見受けられた。
     クライシス帝国壊滅後は、カメラマンとしての活動を再開した。
   -
-    第15話から登場。クライシスによって改造された地球人で、改造手術のために過去の記憶を一切失っている。霞流忍術の使い手で[釵](https://ja.wikipedia.org/wiki/釵 "wikilink")を得意武器としている他、爆発物の扱いにも長けている。
+    第15話から登場。クライシスによって改造された地球人で、改造手術のために過去の記憶を一切失っている。霞流忍術の使い手で[釵](../Page/釵.md "wikilink")を得意武器としている他、爆発物の扱いにも長けている。
     当初は、怪魔界で出会った光太郎と同じ地球人であるということで意気投合し行動を共にするが、実は怪魔ロボット・ネックスティッカーによって操られており、光太郎への刺客として差し向けられる。後に洗脳が解けてからは仲間になり、光太郎を「兄貴」と慕い共にクライシス帝国と闘うこととなる。
     大雑把な性格で、アルバイトとして雇われた吾郎の食堂でも接客の態度を注意されていた（第26話）。また、光太郎とは対照的にゲストキャラの子供に対する扱い・接し方も極めて荒い（第23、24話）。その一方でコミカルな面も見せ度々場を和ませた。
     第26話にてボスガンとの戦いで重傷を負い、戦線離脱を余儀なくされるが第37話で復帰を果たす。
@@ -120,7 +120,7 @@
     1000年前に怪魔界に現れ、クライシス帝国を築き上げた怪魔界の支配者。全能の神として怪魔界で恐れられていた。普段は地獄谷の祭壇にその身を隠しており、かつてその姿を見た者はいなかったが、最終話で巨大な顔だけの怪物という正体を現す。その顔の額には更に３つの小さい顔がある。
     身体中に生えた無数の棘の間から触手を伸ばし相手を絡め取るほか、目や口などから放つ強力な破壊光線や光弾、念力光線を武器とする。
     最後はボルティックシューターとRXキックで怯んだところをリボルケインで貫かれ「人間が地球を汚せば新たな怪魔界が生まれ、地球を襲うであろう。全てはお前たち人間どもの罪」と叫んで怪魔界をも巻き込んだ大爆発を起こし、爆死した。
-    声の担当は、昭和仮面ライダーシリーズの歴代首領を演じた[納谷悟朗](https://ja.wikipedia.org/wiki/納谷悟朗 "wikilink")。
+    声の担当は、昭和仮面ライダーシリーズの歴代首領を演じた[納谷悟朗](../Page/納谷悟朗.md "wikilink")。
     企画当初の名前はバリオム。
   - [ジャーク将軍](https://ja.wikipedia.org/wiki/ジャーク将軍 "wikilink")
     四大隊長を指揮する大幹部。
@@ -144,7 +144,7 @@
     ナイトの称号を持つ、貴族出身の四大隊長の1人。怪魔界一の剣の使い手で、短剣や長剣、電磁波剣などを駆使しRXと度々剣を交えた。スマートな体型、赤いバイザーのヘルメットのような頭部が特徴で、額には小さな人面があり、そこから言葉を喋る。また、呼吸は後頭部の左右に付いたパイプで行う。垢抜けた言葉遣いで話し、飄々とした態度で立ち振る舞う。一人称は基本的に「私」を使う。
     貴族の出身でプライドが高く、ロボットであるガテゾーンや純粋なクライシス人ではないゲドリアンを見下している。そのため、自分より格下の者と同等に扱われる事を嫌っている。また、皇帝の使者ではあるものの怪人であるグランザイラスに呼び捨てにされた時は「無礼者」と激怒していた。騎士然とした立居振舞、RXとの直接対決に固執する誇り高い戦士としての面を示す反面、密かに次期将軍の座を狙っており、栄達のチャンスや、プライドを傷つけられた折には卑劣な手段を辞さないこともあった。本人曰く「慈悲深い方」だと語っている。
     RXによる度重なる作戦失敗に業を煮やし、ロボライダーの装甲をもやすやすと斬り裂く怪魔稲妻剣を独断で開発させて自らRXに挑むも、結果的には霞のジョーを戦線離脱させただけに留まっており、怪魔稲妻剣もジャーク将軍に折られた。これ以後は将軍に忠義を尽くし、将軍に利するためにあえてダスマダーに与することもあった。
-    その後、電磁波剣を武器にするもグランザイラスの台頭に焦りを感じてRXに最後の[一騎討ち](https://ja.wikipedia.org/wiki/一騎討ち "wikilink")を挑むが、剣の腕の差を見せつけられリボルケインの二連突きを受けて敗北。貴族としてのプライド故か勝敗が完全に決した後も敗北を認めず、絶命するその瞬間まで地面に膝を付かず仁王立ちのまま最期を遂げた。
+    その後、電磁波剣を武器にするもグランザイラスの台頭に焦りを感じてRXに最後の[一騎討ち](../Page/一騎討ち.md "wikilink")を挑むが、剣の腕の差を見せつけられリボルケインの二連突きを受けて敗北。貴族としてのプライド故か勝敗が完全に決した後も敗北を認めず、絶命するその瞬間まで地面に膝を付かず仁王立ちのまま最期を遂げた。
   - 諜報参謀マリバロン
     四大隊長の1人で、ボスガンと同じく貴族の出身の純粋なクライシス人。異次元空間を何百年も漂流し、呪術や妖魔術に始まり変装術に至るまで百数種類の妖魔力を身につけた。変身能力も持っている。戦闘時にはその妖術のほか、兜の黄金の羽根と電磁鞭を操っての攻撃を得意とし、怒りが頂点に達すると目が赤く輝く。また、羽根飾りを媒体にすることで霊界の怪魔戦士を復活させることが出来る。
     諜報網を張り巡らし多くの作戦情報を提供する、ジャーク将軍や他の大隊長に作戦を進言するなど、「諜報参謀」の名に相応しい働きを見せた。反目しあうことの多い四大隊長の中にあって比較的ガテゾーンとは仲が良く、共同作戦を行なうことも多い。また帝国への忠誠心は厚く、その妖術と様々な策略で光太郎を苦しめた。
@@ -153,7 +153,7 @@
     ジャーク将軍への忠誠心は曲者揃いの四大隊長の中で最も厚く、ジャーク将軍の生命に危険が迫ると我を忘れて将軍の助命を請う場面も見られた。それゆえに将軍からの信頼も深く、幾度も処刑の危機を救われている。
     第45話で、バイオブレードで顔を傷つけられる。四大隊長の中では最後まで生き残るも、クライシスの敵である光太郎を懐柔しようとしたクライシス皇帝に逆らったために処刑された。
   - 機甲隊長ガテゾーン
-    四大隊長の1人で、出自不明のロボット戦士。モノアイの頭部と革ジャン姿が特徴で、頭部を分離させてボディのみを動かすこともできる。目からは破壊光線を発射する。戦闘では[ソードオフの形状をしたレーザーショットガンを使用するほか](https://ja.wikipedia.org/wiki/ソードオフ・ショットガン "wikilink")、愛用する重武装軍用[バイク](../Page/オートバイ.md "wikilink")・**ストームダガー**を駆り、部下の怪魔ロボットと共に戦うこともある。また、左手で怪魔界にあるあらゆるメカニックを制御することが可能。第39話では老人姿の人間態を披露した。
+    四大隊長の1人で、出自不明のロボット戦士。モノアイの頭部と革ジャン姿が特徴で、頭部を分離させてボディのみを動かすこともできる。目からは破壊光線を発射する。戦闘では[ソードオフの形状をしたレーザーショットガンを使用するほか](../Page/ソードオフ・ショットガン.md "wikilink")、愛用する重武装軍用[バイク](../Page/オートバイ.md "wikilink")・**ストームダガー**を駆り、部下の怪魔ロボットと共に戦うこともある。また、左手で怪魔界にあるあらゆるメカニックを制御することが可能。第39話では老人姿の人間態を披露した。
     一匹狼かつニヒルな性格で、皮肉っぽい言動が多く、アウトローな雰囲気を纏いつつも、クールな態度を崩さない。くだけた口調で会話し、ジャーク将軍の指令は「アイアイサー！」と答えて承諾する。
     四大隊長の中では地位や名誉には最も興味を示しておらず、自分の腕や技術を持って、打倒RXを信条としており、そちらを優先することも多い。そのためにスクラップ処分された怪魔ロボット・スクライドをジャーク将軍の命令に背いて復活させたり、自分の造った怪魔ロボットを活かすためにジャーク将軍の怒りを買ってまで、ダスマダーと結託したこともある。他の隊長との合同作戦においては、マリバロンとゲドリアンと組むことが多い。
     第43話では遂に隊長の座をも捨て、ダスマダーと組んで入手したクライシスチャージャーによって強化修復された**ネオストームダガー**を駆り、最強最後の怪魔ロボット・ヘルガデムと共に勝負に臨んだ。RXを窮地に追い込むが的場響子らに邪魔され形勢が逆転、ネオストームダガーはロボライダーに破壊される。最後の手段として頭部を切り離し、自らのボディを時限爆弾にしてRXを葬り去ろうとするも、液化したバイオライダーに脱出されて失敗し、残った頭部本体にRXキックを受けて敗北。「地獄で待ってるぜ、RX」を言い残した後に爆死した。
@@ -188,11 +188,11 @@
     第44・45話に登場する、RX打倒のためにクライシス皇帝が遣わした最終破壊兵器。目から放つ破壊光線、右腕の電磁ハンマーからの火炎弾に、刃の部分にエネルギーを収束させての攻撃、ロボライダーの装甲にもダメージを与えるほどの高熱を帯びた巨大な火球に変身するなど強大な戦闘能力を有し、体内には別の破壊兵器と言われる所以、街一つを廃墟とするほどの威力の爆弾が内蔵されている。
     RXはおろか、歴代10人ライダーの同時攻撃すらものともしない装甲を誇り、作中に登場した敵の中では唯一リボルクラッシュをも阻止するほどの実力の持ち主でもある。2度目の対決では体内に進入したバイオライダーに内側から攻撃されて倒されるが、それもまたRXとの相討ちを目論んだダスマダーの思惑通りであった。しかしバイオライダーは水の粒子となって爆発と同時に脱出したため、作戦は失敗に終わる。だが、倒されてもその際に発生する爆発の威力はすさまじく、東京の市街地の広範囲が壊滅状態に追い込まれている。
     前述の通り皇帝の使者であるため、皇帝の代理人であるダスマダーの命令にしか従わない。また、四大隊長であるボスガンを呼び捨てにしていた。
-    [スティラコサウルス](https://ja.wikipedia.org/wiki/スティラコサウルス "wikilink")のような頭部、機械的な外観が特徴。本来は、怪魔獣人と怪魔ロボットの合体怪人「ガイナトリゲラン」として、石ノ森章太郎がデザインしたもの。
+    [スティラコサウルス](../Page/スティラコサウルス.md "wikilink")のような頭部、機械的な外観が特徴。本来は、怪魔獣人と怪魔ロボットの合体怪人「ガイナトリゲラン」として、石ノ森章太郎がデザインしたもの。
   - チャップ
     地球攻撃兵団の一般兵士。黒・茶色・灰色の3色のタイプが存在し、3人一組で行動することが多い。主に機械音しか発さないが、人語も話すことも可能。いわゆる従来の敵組織に見られる戦闘員に相当する存在であり、前作で廃されていた戦闘員との立ち回りがある程度復活した形となったが、基本的には偵察・工作活動要員で戦闘向きではない。
-    特殊火薬を用いたマシンガンやバズーカ、ボウガンが武器で、人間に変身する能力を有する。また、マリバロン配下の「怪魔道化師」やボスガン配下の「チャップ悪魔分隊」、四国空母化計画に参加した「怪魔遍路部隊」も存在する。終盤では、[サーベル](https://ja.wikipedia.org/wiki/サーベル "wikilink")が武器で礼装の金色のマントに身を包んだ「チャップ親衛隊」が登場した。
-    スーツは『[特捜ロボ ジャンパーソン](https://ja.wikipedia.org/wiki/特捜ロボ_ジャンパーソン "wikilink")』に登場するダベ星人、ブラボータウンのロボット（マスクのみ）などに流用された。
+    特殊火薬を用いたマシンガンやバズーカ、ボウガンが武器で、人間に変身する能力を有する。また、マリバロン配下の「怪魔道化師」やボスガン配下の「チャップ悪魔分隊」、四国空母化計画に参加した「怪魔遍路部隊」も存在する。終盤では、[サーベル](../Page/サーベル.md "wikilink")が武器で礼装の金色のマントに身を包んだ「チャップ親衛隊」が登場した。
+    スーツは『[特捜ロボ ジャンパーソン](../Page/特捜ロボ_ジャンパーソン.md "wikilink")』に登場するダベ星人、ブラボータウンのロボット（マスクのみ）などに流用された。
 
 ### 主な戦力
 
@@ -224,14 +224,14 @@
 
 <!-- end list -->
 
-  - [シャドームーン](https://ja.wikipedia.org/wiki/シャドームーン "wikilink") - 前作に登場したBLACKの宿敵。南光太郎の友人だった秋月信彦が改造された姿。
+  - [シャドームーン](../Page/シャドームーン.md "wikilink") - 前作に登場したBLACKの宿敵。南光太郎の友人だった秋月信彦が改造された姿。
 
 <!-- end list -->
 
   - 歴代の10人ライダー
     本作品以前の仮面ライダーシリーズに登場し、日本を守った10人の仮面ライダー。[バダン壊滅後は世界各地に旅立ち](https://ja.wikipedia.org/wiki/仮面ライダーZX#10号誕生！仮面ライダー全員集合 "wikilink")\[5\]、数年後に暗躍を開始したゴルゴムの海外支部と各国で戦って撃破。その後も引き続き、世界各地でクライシスと戦っていた。
     クライシスの日本総攻撃を予期し、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")で[アリゾナ](https://ja.wikipedia.org/wiki/アリゾナ "wikilink")を中心に戦っていた1号ライダーのもとに集結。共同での特訓を経た後、第44話で10人揃って日本に帰国してRXと共闘。RX＝光太郎は彼らと対面したことで自分以外のライダーの存在を初めて知ったが、クライシスは10人ライダーの存在を以前から知っていた可能性がマリバロンの台詞から示唆されていた。クライシスが壊滅した後、世界中の新たな悪と戦うためにRXを11号としてメンバーに加え、再び海外に旅立った。
-    スーツアクターの演技と声優のアフレコによる登場であり、映画『[8人ライダーVS銀河王](https://ja.wikipedia.org/wiki/仮面ライダー_8人ライダーVS銀河王 "wikilink")』同様、オリジナルキャストは出演していない。また、バイクで移動する描写もなかったため、[サイクロン号](https://ja.wikipedia.org/wiki/サイクロン号 "wikilink")からヘルダイバーまでの各マシーンは一切登場しなかった。
+    スーツアクターの演技と声優のアフレコによる登場であり、映画『[8人ライダーVS銀河王](../Page/仮面ライダー_8人ライダーVS銀河王.md "wikilink")』同様、オリジナルキャストは出演していない。また、バイクで移動する描写もなかったため、[サイクロン号](../Page/サイクロン号.md "wikilink")からヘルダイバーまでの各マシーンは一切登場しなかった。
     スーツは『仮面ライダーZX』まで使用されていたものを改修している。
 
 | 仮面ライダーの名称                                                                                        | 海外での活動地域                                                                                                                |
@@ -239,13 +239,13 @@
 | [仮面ライダー1号](https://ja.wikipedia.org/wiki/本郷猛#『仮面ライダーBLACK』_-_『仮面ライダーBLACK_RX』 "wikilink")        | [アメリカ大陸](../Page/アメリカ大陸.md "wikilink")の西半分（アリゾナを拠点）                                                                     |
 | [仮面ライダースーパー1](https://ja.wikipedia.org/wiki/仮面ライダースーパー1#仮面ライダースーパー1 "wikilink")                  | アメリカ大陸の東半分                                                                                                              |
 | [仮面ライダー2号](https://ja.wikipedia.org/wiki/一文字隼人#『仮面ライダーBLACK_RX』 "wikilink")                      | [南米](https://ja.wikipedia.org/wiki/南米 "wikilink")の[チリ](../Page/チリ.md "wikilink")や[アルゼンチン](../Page/アルゼンチン.md "wikilink") |
-| [仮面ライダーアマゾン](https://ja.wikipedia.org/wiki/仮面ライダーアマゾン#仮面ライダーアマゾン "wikilink")                     | 南米の[アマゾン](https://ja.wikipedia.org/wiki/アマゾン熱帯雨林 "wikilink")                                                            |
+| [仮面ライダーアマゾン](https://ja.wikipedia.org/wiki/仮面ライダーアマゾン#仮面ライダーアマゾン "wikilink")                     | 南米の[アマゾン](../Page/アマゾン熱帯雨林.md "wikilink")                                                                               |
 | [仮面ライダーV3](https://ja.wikipedia.org/wiki/風見志郎#『仮面ライダー_\(スカイライダー\)』から『仮面ライダーBLACK_RX』 "wikilink") | [東ヨーロッパ](../Page/東ヨーロッパ.md "wikilink")（[ロシア](../Page/ロシア.md "wikilink")を拠点）                                             |
-| [スカイライダー](https://ja.wikipedia.org/wiki/仮面ライダー_\(スカイライダー\)#仮面ライダー（スカイライダー） "wikilink")           | [西ヨーロッパ](https://ja.wikipedia.org/wiki/西ヨーロッパ "wikilink")                                                               |
+| [スカイライダー](https://ja.wikipedia.org/wiki/仮面ライダー_\(スカイライダー\)#仮面ライダー（スカイライダー） "wikilink")           | [西ヨーロッパ](../Page/西ヨーロッパ.md "wikilink")                                                                                  |
 | [仮面ライダーストロンガー](https://ja.wikipedia.org/wiki/仮面ライダーストロンガー#仮面ライダーストロンガー "wikilink")               | [アフリカ大陸](../Page/アフリカ大陸.md "wikilink")の南半分                                                                              |
-| [仮面ライダーZX](https://ja.wikipedia.org/wiki/仮面ライダーZX#仮面ライダーZX "wikilink")                           | アフリカ大陸の北半分（[サハラ砂漠](https://ja.wikipedia.org/wiki/サハラ砂漠 "wikilink")を拠点）                                                  |
+| [仮面ライダーZX](https://ja.wikipedia.org/wiki/仮面ライダーZX#仮面ライダーZX "wikilink")                           | アフリカ大陸の北半分（[サハラ砂漠](../Page/サハラ砂漠.md "wikilink")を拠点）                                                                     |
 | [ライダーマン](https://ja.wikipedia.org/wiki/結城丈二#ライダーマン "wikilink")                                   | [東南アジア](../Page/東南アジア.md "wikilink")（[インド](../Page/インド.md "wikilink")を拠点）                                               |
-| [仮面ライダーX](https://ja.wikipedia.org/wiki/仮面ライダーX#仮面ライダーX "wikilink")                              | [南太平洋](https://ja.wikipedia.org/wiki/南太平洋 "wikilink")（[オーストラリア](https://ja.wikipedia.org/wiki/オーストラリア "wikilink")を拠点）   |
+| [仮面ライダーX](https://ja.wikipedia.org/wiki/仮面ライダーX#仮面ライダーX "wikilink")                              | [南太平洋](https://ja.wikipedia.org/wiki/南太平洋 "wikilink")（[オーストラリア](../Page/オーストラリア.md "wikilink")を拠点）                      |
 
   - 出典：「仮面ライダー OFFCIAL DATA FILE」No.108-28
 
@@ -253,36 +253,36 @@
 
 ### レギュラー・準レギュラー
 
-  - 南光太郎 / 仮面ライダーBLACK RX（声） - [倉田てつを](https://ja.wikipedia.org/wiki/倉田てつを "wikilink")
-  - 白鳥玲子 - [高野槇じゅん](https://ja.wikipedia.org/wiki/澄川真琴 "wikilink")
-  - 佐原俊吉 - [赤塚真人](https://ja.wikipedia.org/wiki/赤塚真人 "wikilink")
-  - 佐原唄子 - [鶴間エリ](https://ja.wikipedia.org/wiki/鶴間エリ "wikilink")
+  - 南光太郎 / 仮面ライダーBLACK RX（声） - [倉田てつを](../Page/倉田てつを.md "wikilink")
+  - 白鳥玲子 - [高野槇じゅん](../Page/澄川真琴.md "wikilink")
+  - 佐原俊吉 - [赤塚真人](../Page/赤塚真人.md "wikilink")
+  - 佐原唄子 - [鶴間エリ](../Page/鶴間エリ.md "wikilink")
   - 霞のジョー - [小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink")
   - 的場響子 - [上野めぐみ](https://ja.wikipedia.org/wiki/上野めぐみ "wikilink")
-  - 吾郎 - [小野寺丈](https://ja.wikipedia.org/wiki/小野寺丈 "wikilink")
+  - 吾郎 - [小野寺丈](../Page/小野寺丈.md "wikilink")
   - 佐原茂 - [井上豪](https://ja.wikipedia.org/wiki/井上豪 "wikilink")
   - 佐原ひとみ - [井村翔子](https://ja.wikipedia.org/wiki/井村翔子 "wikilink")
-  - 三郎 - [中島義実](https://ja.wikipedia.org/wiki/中島義実 "wikilink")
+  - 三郎 - [中島義実](../Page/中島義実.md "wikilink")
   - 健吾 - 片岡伸吾
   - 七七子 - [優希亜裕子](https://ja.wikipedia.org/wiki/山形亜裕子 "wikilink")
-  - 速水隼人警部補 - [佐渡稔](https://ja.wikipedia.org/wiki/佐渡稔 "wikilink")
-  - 諜報参謀マリバロン - [高畑淳子](https://ja.wikipedia.org/wiki/高畑淳子 "wikilink")
-  - 査察官ダスマダー大佐 - [松井哲也](https://ja.wikipedia.org/wiki/松井哲也 "wikilink")（28 - 47話）
+  - 速水隼人警部補 - [佐渡稔](../Page/佐渡稔.md "wikilink")
+  - 諜報参謀マリバロン - [高畑淳子](../Page/高畑淳子.md "wikilink")
+  - 査察官ダスマダー大佐 - [松井哲也](../Page/松井哲也.md "wikilink")（28 - 47話）
 
 ### 声の出演
 
 ジャーク将軍、ボスガン、クライシス皇帝、ナレーション以外は全てノンクレジット
 
-  - キングストーン - [大宮悌二](https://ja.wikipedia.org/wiki/大宮悌二 "wikilink")
-  - 最高司令官ジャーク将軍 - [加藤精三](https://ja.wikipedia.org/wiki/加藤精三_\(声優\) "wikilink")（1 - 44話）、[柴田秀勝](https://ja.wikipedia.org/wiki/柴田秀勝 "wikilink")（45、46話）
-  - 海兵隊長ボスガン - [飯塚昭三](https://ja.wikipedia.org/wiki/飯塚昭三 "wikilink")
-  - 機甲隊長ガテゾーン - [高橋利道](https://ja.wikipedia.org/wiki/高橋利道 "wikilink")
-  - 牙隊長ゲドリアン - [新井一典](https://ja.wikipedia.org/wiki/新井一典 "wikilink")
-  - 官房長ロボット・チャックラム - [森篤夫](https://ja.wikipedia.org/wiki/森篤夫 "wikilink")
-  - クライシス皇帝 - [納谷悟朗](https://ja.wikipedia.org/wiki/納谷悟朗 "wikilink")（42、46、47話）
-  - シャドームーン - [寺杣昌紀](https://ja.wikipedia.org/wiki/てらそままさき "wikilink")（22、27話）
+  - キングストーン - [大宮悌二](../Page/大宮悌二.md "wikilink")
+  - 最高司令官ジャーク将軍 - [加藤精三](../Page/加藤精三_\(声優\).md "wikilink")（1 - 44話）、[柴田秀勝](../Page/柴田秀勝.md "wikilink")（45、46話）
+  - 海兵隊長ボスガン - [飯塚昭三](../Page/飯塚昭三.md "wikilink")
+  - 機甲隊長ガテゾーン - [高橋利道](../Page/高橋利道.md "wikilink")
+  - 牙隊長ゲドリアン - [新井一典](../Page/新井一典.md "wikilink")
+  - 官房長ロボット・チャックラム - [森篤夫](../Page/森篤夫.md "wikilink")
+  - クライシス皇帝 - [納谷悟朗](../Page/納谷悟朗.md "wikilink")（42、46、47話）
+  - シャドームーン - [寺杣昌紀](../Page/てらそままさき.md "wikilink")（22、27話）
   - 仮面ライダー1号 - [鳥居賞也](https://ja.wikipedia.org/wiki/鳥井林太朗 "wikilink")（41 - 47話）
-  - ナレーション - [政宗一成](https://ja.wikipedia.org/wiki/政宗一成 "wikilink")
+  - ナレーション - [政宗一成](../Page/政宗一成.md "wikilink")
 
 ### 主なゲスト出演者
 
@@ -291,20 +291,20 @@
 ※ その他のゲストは、放映リストを参照
 
   - 吉野教授 - [長沢大](https://ja.wikipedia.org/wiki/長沢大 "wikilink")（5話）
-  - 森田陽介 - [佐藤健太](https://ja.wikipedia.org/wiki/佐藤健太 "wikilink")（7話）
-  - 岸田美佐江 - [木村有里](https://ja.wikipedia.org/wiki/木村有里 "wikilink")（8話）
+  - 森田陽介 - [佐藤健太](../Page/佐藤健太.md "wikilink")（7話）
+  - 岸田美佐江 - [木村有里](../Page/木村有里.md "wikilink")（8話）
   - 岸田友子 - 浅川奈月（8話）
   - 岸田誠一 - [加藤佳男](https://ja.wikipedia.org/wiki/加藤佳男 "wikilink")（8話）
-  - 小泉千草 - [本名陽子](https://ja.wikipedia.org/wiki/本名陽子 "wikilink")（9話）
+  - 小泉千草 - [本名陽子](../Page/本名陽子.md "wikilink")（9話）
   - 佑一 - 丸山具視（10話）
-  - 正樹 - [飯塚洋介](https://ja.wikipedia.org/wiki/飯塚洋介 "wikilink")（11話）
+  - 正樹 - [飯塚洋介](../Page/飯塚洋介.md "wikilink")（11話）
   - 廃棄物処理業者の男 - [城春樹](https://ja.wikipedia.org/wiki/城春樹 "wikilink")、[泉福之助](https://ja.wikipedia.org/wiki/泉福之助 "wikilink")（11話）
-  - 相原文吾 - [石山律雄](https://ja.wikipedia.org/wiki/石山輝夫 "wikilink")（19話）
+  - 相原文吾 - [石山律雄](../Page/石山輝夫.md "wikilink")（19話）
   - マサオ - 中田貴裕（23話）
-  - 塾の先生 - [千葉繁](https://ja.wikipedia.org/wiki/千葉繁 "wikilink")（23話）
-  - 武藤 - [片岡五郎](https://ja.wikipedia.org/wiki/片岡五郎 "wikilink")（24話）
-  - 医師 - [仲野裕](https://ja.wikipedia.org/wiki/仲野裕 "wikilink")（24話）
-  - ニュースキャスター - [江原正士](https://ja.wikipedia.org/wiki/江原正士 "wikilink")（25、29、33話）
+  - 塾の先生 - [千葉繁](../Page/千葉繁.md "wikilink")（23話）
+  - 武藤 - [片岡五郎](../Page/片岡五郎.md "wikilink")（24話）
+  - 医師 - [仲野裕](../Page/仲野裕.md "wikilink")（24話）
+  - ニュースキャスター - [江原正士](../Page/江原正士.md "wikilink")（25、29、33話）
   - 柴田茜 - 田村美幸（27話）
   - 柴田弘 - 中山竜二（27話）
   - 三田ユキオ - 市川浩（28話）
@@ -313,47 +313,47 @@
   - ユーコ・ミドリカワ - [西崎みどり](https://ja.wikipedia.org/wiki/西崎みどり "wikilink")（31、32話）
   - ジム - ロニ・サンタナ（31話）
   - 雲田ミカ - 荒船麻子（32話）
-  - 雲田 - [永井秀明](https://ja.wikipedia.org/wiki/永井秀明 "wikilink")（32話）
-  - 田所政信 - [きくち英一](https://ja.wikipedia.org/wiki/きくち英一 "wikilink")（33話）
-  - 九条勝 - [大葉健二](https://ja.wikipedia.org/wiki/大葉健二 "wikilink")（34話）
+  - 雲田 - [永井秀明](../Page/永井秀明.md "wikilink")（32話）
+  - 田所政信 - [きくち英一](../Page/きくち英一.md "wikilink")（33話）
+  - 九条勝 - [大葉健二](../Page/大葉健二.md "wikilink")（34話）
   - 沢田勝 - [小沢一義](https://ja.wikipedia.org/wiki/小沢一義 "wikilink")（36話）
   - 係員 - カタリーナ（39話）
 
 ### スーツアクター
 
-  - 仮面ライダーBLACK RX / ロボライダー / バイオライダー - [岡元次郎](https://ja.wikipedia.org/wiki/岡元次郎 "wikilink")
+  - 仮面ライダーBLACK RX / ロボライダー / バイオライダー - [岡元次郎](../Page/岡元次郎.md "wikilink")
   - 仮面ライダーBLACK RX（代役）、ロボライダー、バイオライダー（後期） - [岩田時男](https://ja.wikipedia.org/wiki/岩田時男 "wikilink")
   - 仮面ライダーBLACK RX（代役）、ロボライダー、ジャークミドラ\[6\] - [菊地寿幸](https://ja.wikipedia.org/wiki/菊地寿幸 "wikilink")
-  - 仮面ライダーBLACK RX（代役）\[7\] - [新堀和男](https://ja.wikipedia.org/wiki/新堀和男 "wikilink")
-  - 最高司令官ジャーク将軍 - [高橋利道](https://ja.wikipedia.org/wiki/高橋利道 "wikilink")
-  - 海兵隊長ボスガン - [藤木義勝](https://ja.wikipedia.org/wiki/藤木義勝 "wikilink")
+  - 仮面ライダーBLACK RX（代役）\[7\] - [新堀和男](../Page/新堀和男.md "wikilink")
+  - 最高司令官ジャーク将軍 - [高橋利道](../Page/高橋利道.md "wikilink")
+  - 海兵隊長ボスガン - [藤木義勝](../Page/藤木義勝.md "wikilink")
   - 機甲隊長ガテゾーン、バイオライダー（代役）\[8\]、キューブリカン\[9\]、アッチペッチー\[10\]、デスガロン\[11\]、ガイナジャグラム\[12\]、グランザイラス\[13\] - [北村隆幸](https://ja.wikipedia.org/wiki/北村隆幸 "wikilink")
-  - 牙隊長ゲドリアン - [渡辺実](https://ja.wikipedia.org/wiki/渡辺実_\(俳優\) "wikilink")
-  - ライダーマン - [高岩成二](https://ja.wikipedia.org/wiki/高岩成二 "wikilink")
-  - 兵士チャップ、ガイナジャグラム\[14\] - [竹内康博](https://ja.wikipedia.org/wiki/竹内康博 "wikilink")
+  - 牙隊長ゲドリアン - [渡辺実](../Page/渡辺実_\(俳優\).md "wikilink")
+  - ライダーマン - [高岩成二](../Page/高岩成二.md "wikilink")
+  - 兵士チャップ、ガイナジャグラム\[14\] - [竹内康博](../Page/竹内康博.md "wikilink")
 
 ## スタッフ
 
-  - 原作 - [石ノ森章太郎](https://ja.wikipedia.org/wiki/石ノ森章太郎 "wikilink")
-  - 連載 - [てれびくん](https://ja.wikipedia.org/wiki/てれびくん "wikilink")、[小学館学習雑誌](https://ja.wikipedia.org/wiki/小学館の学年別学習雑誌 "wikilink")、[コロコロコミック](https://ja.wikipedia.org/wiki/月刊コロコロコミック "wikilink")、[テレビマガジン](https://ja.wikipedia.org/wiki/テレビマガジン "wikilink")、[コミックボンボン](https://ja.wikipedia.org/wiki/コミックボンボン "wikilink")、[テレビランド](https://ja.wikipedia.org/wiki/テレビランド "wikilink")
-  - プロデューサー - [吉川進](https://ja.wikipedia.org/wiki/吉川進 "wikilink")・[堀長文](https://ja.wikipedia.org/wiki/堀長文 "wikilink")（[東映](https://ja.wikipedia.org/wiki/東映 "wikilink")）、井口亮・山田尚良（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
-  - 脚本 - [江連卓](https://ja.wikipedia.org/wiki/江連卓 "wikilink")、[荒木憲一](https://ja.wikipedia.org/wiki/荒木憲一 "wikilink")、[鷺山京子](https://ja.wikipedia.org/wiki/鷺山京子 "wikilink")、[宮下隼一](https://ja.wikipedia.org/wiki/宮下隼一 "wikilink")、[山田隆司](https://ja.wikipedia.org/wiki/山田隆司 "wikilink")、村山隆策
-  - 音楽 - [川村栄二](https://ja.wikipedia.org/wiki/川村栄二 "wikilink")
-  - キャラクターデザイン - [雨宮慶太](https://ja.wikipedia.org/wiki/雨宮慶太 "wikilink")、[野口竜](https://ja.wikipedia.org/wiki/野口竜 "wikilink")、[篠原保](https://ja.wikipedia.org/wiki/篠原保 "wikilink")、石ノ森章太郎
-  - 監督 - [小林義明](https://ja.wikipedia.org/wiki/小林義明 "wikilink")、[蓑輪雅夫](https://ja.wikipedia.org/wiki/蓑輪雅夫 "wikilink")、蔦林淳望、[辻理](https://ja.wikipedia.org/wiki/辻理 "wikilink")、[小笠原猛](https://ja.wikipedia.org/wiki/小笠原猛 "wikilink")、松井昇
-  - 特撮監督 - [矢島信男](https://ja.wikipedia.org/wiki/矢島信男 "wikilink")
-  - 撮影 - [松村文雄](https://ja.wikipedia.org/wiki/松村文雄 "wikilink")
+  - 原作 - [石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")
+  - 連載 - [てれびくん](../Page/てれびくん.md "wikilink")、[小学館学習雑誌](../Page/小学館の学年別学習雑誌.md "wikilink")、[コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")、[テレビマガジン](../Page/テレビマガジン.md "wikilink")、[コミックボンボン](../Page/コミックボンボン.md "wikilink")、[テレビランド](../Page/テレビランド.md "wikilink")
+  - プロデューサー - [吉川進](../Page/吉川進.md "wikilink")・[堀長文](../Page/堀長文.md "wikilink")（[東映](../Page/東映.md "wikilink")）、井口亮・山田尚良（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
+  - 脚本 - [江連卓](https://ja.wikipedia.org/wiki/江連卓 "wikilink")、[荒木憲一](../Page/荒木憲一.md "wikilink")、[鷺山京子](https://ja.wikipedia.org/wiki/鷺山京子 "wikilink")、[宮下隼一](../Page/宮下隼一.md "wikilink")、[山田隆司](../Page/山田隆司.md "wikilink")、村山隆策
+  - 音楽 - [川村栄二](../Page/川村栄二.md "wikilink")
+  - キャラクターデザイン - [雨宮慶太](../Page/雨宮慶太.md "wikilink")、[野口竜](../Page/野口竜.md "wikilink")、[篠原保](../Page/篠原保.md "wikilink")、石ノ森章太郎
+  - 監督 - [小林義明](../Page/小林義明.md "wikilink")、[蓑輪雅夫](https://ja.wikipedia.org/wiki/蓑輪雅夫 "wikilink")、蔦林淳望、[辻理](../Page/辻理.md "wikilink")、[小笠原猛](../Page/小笠原猛.md "wikilink")、松井昇
+  - 特撮監督 - [矢島信男](../Page/矢島信男.md "wikilink")
+  - 撮影 - [松村文雄](../Page/松村文雄.md "wikilink")
   - 照明 - 中川勇雄
-  - 美術 - 河村寅次郎、稲野実、宮国登、[佛田洋](https://ja.wikipedia.org/wiki/佛田洋 "wikilink")
-  - 助監督 - 松井昇、[岩原直樹](https://ja.wikipedia.org/wiki/岩原直樹 "wikilink")、[田﨑竜太](https://ja.wikipedia.org/wiki/田崎竜太 "wikilink")、竹内英孝
+  - 美術 - 河村寅次郎、稲野実、宮国登、[佛田洋](../Page/佛田洋.md "wikilink")
+  - 助監督 - 松井昇、[岩原直樹](../Page/岩原直樹.md "wikilink")、[田﨑竜太](../Page/田崎竜太.md "wikilink")、竹内英孝
   - 計測 - 岡部正治
-  - プロデューサー補 - [髙寺成紀](https://ja.wikipedia.org/wiki/高寺成紀 "wikilink")
-  - アクション監督 - [金田治](https://ja.wikipedia.org/wiki/金田治 "wikilink")・[村上潤](https://ja.wikipedia.org/wiki/村上潤 "wikilink")（[ジャパンアクションクラブ](https://ja.wikipedia.org/wiki/ジャパンアクションクラブ "wikilink")）
+  - プロデューサー補 - [髙寺成紀](../Page/高寺成紀.md "wikilink")
+  - アクション監督 - [金田治](../Page/金田治.md "wikilink")・[村上潤](../Page/村上潤.md "wikilink")（[ジャパンアクションクラブ](https://ja.wikipedia.org/wiki/ジャパンアクションクラブ "wikilink")）
   - 製作 - 東映、毎日放送
 
 ## 音楽
 
-前作『[仮面ライダーBLACK](https://ja.wikipedia.org/wiki/仮面ライダーBLACK "wikilink")』でBGMの作曲を担当した川村栄二が、本作品ではオープニングや挿入歌の作曲も担当した。
+前作『[仮面ライダーBLACK](../Page/仮面ライダーBLACK.md "wikilink")』でBGMの作曲を担当した川村栄二が、本作品ではオープニングや挿入歌の作曲も担当した。
 
 ### 主題歌
 
@@ -361,7 +361,7 @@
 
   - 「[仮面ライダーBLACK RX](https://ja.wikipedia.org/wiki/仮面ライダーBLACK_RX_\(曲\) "wikilink")」
 
-:\* 作詞 - [康珍化](https://ja.wikipedia.org/wiki/康珍化 "wikilink") / 作曲・編曲 - 川村栄二 / 歌 - [宮内タカユキ](https://ja.wikipedia.org/wiki/宮内タカユキ "wikilink")
+:\* 作詞 - [康珍化](../Page/康珍化.md "wikilink") / 作曲・編曲 - 川村栄二 / 歌 - [宮内タカユキ](../Page/宮内タカユキ.md "wikilink")
 
   -
     宮内タカユキはシリーズ初参加。第1話本編内ではNGテイクが使用されており、他に歌詞違いでも録音されているが商品化はされていない。
@@ -371,7 +371,7 @@
 
   - 「誰かが君を愛してる」
 
-:\* 作詞 - 康珍化 / 作曲 - [林哲司](https://ja.wikipedia.org/wiki/林哲司 "wikilink") / 編曲 - 川村栄二 / 歌 - 宮内タカユキ
+:\* 作詞 - 康珍化 / 作曲 - [林哲司](../Page/林哲司.md "wikilink") / 編曲 - 川村栄二 / 歌 - 宮内タカユキ
 
   -
     第5話から、飛行するクライス要塞、ポーズを決めるRXのシーンが追加された。
@@ -388,7 +388,7 @@
 
   - 「激進RX」(第13、19、27、30、33、40話)
 
-:\* 作詞 - 石ノ森章太郎 / 作曲・編曲 - [渡辺宙明](https://ja.wikipedia.org/wiki/渡辺宙明 "wikilink") / 歌 - 宮内タカユキ
+:\* 作詞 - 石ノ森章太郎 / 作曲・編曲 - [渡辺宙明](../Page/渡辺宙明.md "wikilink") / 歌 - 宮内タカユキ
 
   - 「戦場のライダーRX」(第19、39話)
 
@@ -396,7 +396,7 @@
 
   - 「すべては君を愛するために」(第21、24、27、28、30、44、45、47話)
 
-:\* 作詞 - 康珍化 / 作曲 - 林哲司 / 編曲 - [石田勝範](https://ja.wikipedia.org/wiki/石田勝範 "wikilink") / 歌 - 宮内タカユキ
+:\* 作詞 - 康珍化 / 作曲 - 林哲司 / 編曲 - [石田勝範](../Page/石田勝範.md "wikilink") / 歌 - 宮内タカユキ
 
   - 「運命の戦士」(第21、29、47話)
 
@@ -411,24 +411,24 @@
 
   - 「永遠のために君のために」(第26、28、33、36、40 - 42、45、47話)
 
-:\* 作詞 - 平出よしかつ / 作曲 - 川村栄二 / 編曲 - 石田勝範 / 歌 - [水木一郎](https://ja.wikipedia.org/wiki/水木一郎 "wikilink")
+:\* 作詞 - 平出よしかつ / 作曲 - 川村栄二 / 編曲 - 石田勝範 / 歌 - [水木一郎](../Page/水木一郎.md "wikilink")
 
   -
     挿入歌アルバム発売後のリリースである。初出の[コロちゃんパック](https://ja.wikipedia.org/wiki/コロちゃんパック "wikilink")はカセットのみで、CDは発売されなかった。
 
   - 「11（イレブン）ライダー大讃歌」
 
-:\* 作詞 - 赤井圭 / 作曲・編曲 - [菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink") / 歌 - 水木一郎
+:\* 作詞 - 赤井圭 / 作曲・編曲 - [菊池俊輔](../Page/菊池俊輔.md "wikilink") / 歌 - 水木一郎
 
   -
     番組終了後に発表されたイメージソング。シングル（8cmCDとカセット）での発売で、C/Wは「永遠のために君のために」。カラオケはカセットのみ収録。
 
   - 「仮面ライダー・99のうた」
 
-:\* 作詞 - 赤井圭 / 作曲・編曲 - [小森昭宏](https://ja.wikipedia.org/wiki/小森昭宏 "wikilink") / 歌 - 水木一郎
+:\* 作詞 - 赤井圭 / 作曲・編曲 - [小森昭宏](../Page/小森昭宏.md "wikilink") / 歌 - 水木一郎
 
   -
-    番組終了後に発表された企画もので、発売形態は8cmシングルCDとカセット。カップリングは「[魔法使いサリー](https://ja.wikipedia.org/wiki/魔法使いサリー "wikilink")99のうた」（歌：[朝川ひろこ](https://ja.wikipedia.org/wiki/朝川ひろこ "wikilink")）
+    番組終了後に発表された企画もので、発売形態は8cmシングルCDとカセット。カップリングは「[魔法使いサリー](../Page/魔法使いサリー.md "wikilink")99のうた」（歌：[朝川ひろこ](../Page/朝川ひろこ.md "wikilink")）
 
 ## 放映リスト
 
@@ -460,9 +460,9 @@
 </ul></li>
 <li>怪魔ロボット
 <ul>
-<li>キューブリカン（声 - <a href="https://ja.wikipedia.org/wiki/岸野一彦" title="wikilink">岸野一彦</a>：2話）
+<li>キューブリカン（声 - <a href="../Page/岸野一彦.md" title="wikilink">岸野一彦</a>：2話）
 <ul>
-<li>人間態（演 - <a href="https://ja.wikipedia.org/wiki/高橋利道" title="wikilink">高橋利道</a>：2話）</li>
+<li>人間態（演 - <a href="../Page/高橋利道.md" title="wikilink">高橋利道</a>：2話）</li>
 </ul></li>
 </ul></li>
 </ul></td>
@@ -486,11 +486,11 @@
 <td><ul>
 <li>怪魔獣人
 <ul>
-<li>ガイナギスカン（声 - <a href="https://ja.wikipedia.org/wiki/滝雅也" title="wikilink">滝雅也</a>）</li>
+<li>ガイナギスカン（声 - <a href="../Page/滝雅也.md" title="wikilink">滝雅也</a>）</li>
 </ul></li>
 </ul></td>
 <td><ul>
-<li>ワールド博士（演 - <a href="https://ja.wikipedia.org/wiki/牧口元美" title="wikilink">牧口元美</a>）</li>
+<li>ワールド博士（演 - <a href="../Page/牧口元美.md" title="wikilink">牧口元美</a>）</li>
 </ul></td>
 <td><p>蓑輪雅夫</p></td>
 <td></td>
@@ -502,7 +502,7 @@
 <td><ul>
 <li>怪魔ロボット
 <ul>
-<li>ガンガディン（声 - <a href="https://ja.wikipedia.org/wiki/西尾徳" title="wikilink">西尾徳</a>）</li>
+<li>ガンガディン（声 - <a href="../Page/西尾徳.md" title="wikilink">西尾徳</a>）</li>
 </ul></li>
 </ul></td>
 <td><p>-</p></td>
@@ -544,7 +544,7 @@
 <td><ul>
 <li>怪魔妖族
 <ul>
-<li>武陣（演 - 末永貴久、声：<a href="https://ja.wikipedia.org/wiki/新井一典" title="wikilink">新井一典</a>）</li>
+<li>武陣（演 - 末永貴久、声：<a href="../Page/新井一典.md" title="wikilink">新井一典</a>）</li>
 </ul></li>
 </ul></td>
 <td><p>辻理</p></td>
@@ -558,7 +558,7 @@
 <td><ul>
 <li>怪魔獣人
 <ul>
-<li>ガイナマイト（声 - <a href="https://ja.wikipedia.org/wiki/依田英助" title="wikilink">依田英助</a>）
+<li>ガイナマイト（声 - <a href="../Page/依田英助.md" title="wikilink">依田英助</a>）
 <ul>
 <li>人間態（演 - 仲塚康介）</li>
 </ul></li>
@@ -626,7 +626,7 @@
 </ul></li>
 </ul></td>
 <td><ul>
-<li>ガル（演 - <a href="https://ja.wikipedia.org/wiki/福田健次" title="wikilink">福田健次</a>）</li>
+<li>ガル（演 - <a href="../Page/福田健次.md" title="wikilink">福田健次</a>）</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -674,7 +674,7 @@
 <li>ムーロン博士（演 - 井上三千男：14話）</li>
 <li>クルミン族
 <ul>
-<li>ミンバ村長（演 - <a href="https://ja.wikipedia.org/wiki/西本裕行" title="wikilink">西本裕行</a>：16話&amp;17話）</li>
+<li>ミンバ村長（演 - <a href="../Page/西本裕行.md" title="wikilink">西本裕行</a>：16話&amp;17話）</li>
 </ul></li>
 </ul></td>
 <td><p>江連卓</p></td>
@@ -746,7 +746,7 @@
 <td><ul>
 <li>怪魔妖族
 <ul>
-<li>ビャッ鬼（声 - <a href="https://ja.wikipedia.org/wiki/奥村公延" title="wikilink">奥村公延</a>）
+<li>ビャッ鬼（声 - <a href="../Page/奥村公延.md" title="wikilink">奥村公延</a>）
 <ul>
 <li>人間態（白老）（演 - 奥村公延）</li>
 </ul></li>
@@ -763,7 +763,7 @@
 <td><ul>
 <li>怪魔異生獣
 <ul>
-<li>バングゴング（声 - <a href="https://ja.wikipedia.org/wiki/桑原たけし" title="wikilink">桑原たけし</a>）</li>
+<li>バングゴング（声 - <a href="../Page/桑原たけし.md" title="wikilink">桑原たけし</a>）</li>
 </ul></li>
 </ul></td>
 <td><ul>
@@ -889,7 +889,7 @@
 </ul></li>
 <li>怪魔ロボット
 <ul>
-<li>メタヘビー（声 - <a href="https://ja.wikipedia.org/wiki/二又一成" title="wikilink">二又一成</a>：30話）</li>
+<li>メタヘビー（声 - <a href="../Page/二又一成.md" title="wikilink">二又一成</a>：30話）</li>
 </ul></li>
 <li>怪魔道化師</li>
 </ul></td>
@@ -942,7 +942,7 @@
 <td><ul>
 <li>怪魔異生獣
 <ul>
-<li>ガゾラゲゾラ（声 - <a href="https://ja.wikipedia.org/wiki/徳丸完" title="wikilink">徳丸完</a>）</li>
+<li>ガゾラゲゾラ（声 - <a href="../Page/徳丸完.md" title="wikilink">徳丸完</a>）</li>
 </ul></li>
 </ul></td>
 <td><p>宮下隼一</p></td>
@@ -1005,7 +1005,7 @@
 <td><ul>
 <li>怪魔獣人
 <ul>
-<li>ガイナニンポー（声 - <a href="https://ja.wikipedia.org/wiki/神山卓三" title="wikilink">神山卓三</a>）</li>
+<li>ガイナニンポー（声 - <a href="../Page/神山卓三.md" title="wikilink">神山卓三</a>）</li>
 </ul></li>
 <li>怪魔忍者隊</li>
 </ul></td>
@@ -1094,7 +1094,7 @@
 <td><ul>
 <li>怪魔異生獣
 <ul>
-<li>ゲドルリドル（声 - <a href="https://ja.wikipedia.org/wiki/丸山詠二" title="wikilink">丸山詠二</a>）</li>
+<li>ゲドルリドル（声 - <a href="../Page/丸山詠二.md" title="wikilink">丸山詠二</a>）</li>
 </ul></li>
 </ul></td>
 <td><p>鷺山京子</p></td>
@@ -1149,7 +1149,7 @@
 <td><ul>
 <li>最強怪人
 <ul>
-<li>ジャークミドラ（声 - <a href="https://ja.wikipedia.org/wiki/柴田秀勝" title="wikilink">柴田秀勝</a>：46話）</li>
+<li>ジャークミドラ（声 - <a href="../Page/柴田秀勝.md" title="wikilink">柴田秀勝</a>：46話）</li>
 </ul></li>
 <li>クライシス皇帝</li>
 </ul></td>
@@ -1175,53 +1175,53 @@
 
 <!-- end list -->
 
-  - [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")・[近畿](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")[広域圏](https://ja.wikipedia.org/wiki/広域放送 "wikilink")：MBS [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") ※制作局
-  - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")・[関東広域圏](https://ja.wikipedia.org/wiki/関東地方 "wikilink")：TBS 東京放送（現・[TBSテレビ](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")）
-  - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")：HBC [北海道放送](https://ja.wikipedia.org/wiki/北海道放送 "wikilink")
-  - [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")：ATV [青森テレビ](https://ja.wikipedia.org/wiki/青森テレビ "wikilink")
-  - [岩手県](../Page/岩手県.md "wikilink")：IBC 岩手放送（現・[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")）（[仙台放送](https://ja.wikipedia.org/wiki/仙台放送 "wikilink")制作[新・サンデートーク](https://ja.wikipedia.org/wiki/新・サンデートーク "wikilink")放送の為、30分遅れネット、[日曜日](../Page/日曜日.md "wikilink")10:30-11:00放送）
-  - [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")：TBC [東北放送](https://ja.wikipedia.org/wiki/東北放送 "wikilink")
-  - [秋田県](../Page/秋田県.md "wikilink")：ABS [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")（[日本テレビ系](https://ja.wikipedia.org/wiki/日本テレビネットワーク協議会 "wikilink")）
-  - [山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")：YBC [山形放送](https://ja.wikipedia.org/wiki/山形放送 "wikilink")
-  - [福島県](../Page/福島県.md "wikilink")：TUF [テレビユー福島](https://ja.wikipedia.org/wiki/テレビユー福島 "wikilink")
-  - [山梨県](../Page/山梨県.md "wikilink")：UTY [テレビ山梨](https://ja.wikipedia.org/wiki/テレビ山梨 "wikilink")
+  - [大阪府](../Page/大阪府.md "wikilink")・[近畿](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")[広域圏](../Page/広域放送.md "wikilink")：MBS [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") ※制作局
+  - [東京都](../Page/東京都.md "wikilink")・[関東広域圏](https://ja.wikipedia.org/wiki/関東地方 "wikilink")：TBS 東京放送（現・[TBSテレビ](../Page/TBSテレビ.md "wikilink")）
+  - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")：HBC [北海道放送](../Page/北海道放送.md "wikilink")
+  - [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")：ATV [青森テレビ](../Page/青森テレビ.md "wikilink")
+  - [岩手県](../Page/岩手県.md "wikilink")：IBC 岩手放送（現・[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")）（[仙台放送](../Page/仙台放送.md "wikilink")制作[新・サンデートーク](../Page/新・サンデートーク.md "wikilink")放送の為、30分遅れネット、[日曜日](../Page/日曜日.md "wikilink")10:30-11:00放送）
+  - [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")：TBC [東北放送](../Page/東北放送.md "wikilink")
+  - [秋田県](../Page/秋田県.md "wikilink")：ABS [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")（[日本テレビ系](../Page/日本テレビネットワーク協議会.md "wikilink")）
+  - [山形県](../Page/山形県.md "wikilink")：YBC [山形放送](../Page/山形放送.md "wikilink")
+  - [福島県](../Page/福島県.md "wikilink")：TUF [テレビユー福島](../Page/テレビユー福島.md "wikilink")
+  - [山梨県](../Page/山梨県.md "wikilink")：UTY [テレビ山梨](../Page/テレビ山梨.md "wikilink")
   - [長野県](../Page/長野県.md "wikilink")：SBC [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")
   - [新潟県](../Page/新潟県.md "wikilink")：BSN [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（[日曜日](../Page/日曜日.md "wikilink")10:30-11:00放送）
   - [静岡県](../Page/静岡県.md "wikilink")：SBS [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（遅れネット、日曜日10:30-11:00放送）
-  - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")・[中京広域圏](https://ja.wikipedia.org/wiki/東海3県 "wikilink")：CBC 中部日本放送（現・[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、日曜日10:30-11:00放送）
+  - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")・[中京広域圏](../Page/東海3県.md "wikilink")：CBC 中部日本放送（現・[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、日曜日10:30-11:00放送）
   - [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")：KNB [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（日本テレビ系・遅れネット、[水曜日](../Page/水曜日.md "wikilink")17:00-17:30放送）
   - [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")：MRO [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")
-  - [福井県](../Page/福井県.md "wikilink")：FTB [福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")（[フジテレビ系](https://ja.wikipedia.org/wiki/フジネットワーク "wikilink")・遅れネット）
+  - [福井県](../Page/福井県.md "wikilink")：FTB [福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")（[フジテレビ系](../Page/フジネットワーク.md "wikilink")・遅れネット）
   - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink")：RSK [山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")
-  - [広島県](../Page/広島県.md "wikilink")：RCC [中国放送](https://ja.wikipedia.org/wiki/中国放送 "wikilink")
+  - [広島県](../Page/広島県.md "wikilink")：RCC [中国放送](../Page/中国放送.md "wikilink")
   - [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink")：BSS [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
-  - [山口県](../Page/山口県.md "wikilink")：TYS [テレビ山口](https://ja.wikipedia.org/wiki/テレビ山口 "wikilink")
+  - [山口県](../Page/山口県.md "wikilink")：TYS [テレビ山口](../Page/テレビ山口.md "wikilink")
   - [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")：JRT [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（日本テレビ系）
   - [愛媛県](../Page/愛媛県.md "wikilink")：RNB [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（日本テレビ系）
-  - [高知県](../Page/高知県.md "wikilink")：KUTV [テレビ高知](https://ja.wikipedia.org/wiki/テレビ高知 "wikilink")（遅れネット、[水曜日](../Page/水曜日.md "wikilink")16:30-17:00放送。TBS系列局でありながら番販扱い）
-  - [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")：RKB [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")
+  - [高知県](../Page/高知県.md "wikilink")：KUTV [テレビ高知](../Page/テレビ高知.md "wikilink")（遅れネット、[水曜日](../Page/水曜日.md "wikilink")16:30-17:00放送。TBS系列局でありながら番販扱い）
+  - [福岡県](../Page/福岡県.md "wikilink")：RKB [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")
   - [長崎県](../Page/長崎県.md "wikilink")：NBC [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
   - [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")：RKK [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
   - [大分県](../Page/大分県.md "wikilink")：OBS [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（遅れネット、日曜日11:00-11:30放送）
   - [宮崎県](../Page/宮崎県.md "wikilink")：MRT [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
-  - [鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")：MBC [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
-  - [沖縄県](../Page/沖縄県.md "wikilink")：RBC [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")
+  - [鹿児島県](../Page/鹿児島県.md "wikilink")：MBC [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
+  - [沖縄県](../Page/沖縄県.md "wikilink")：RBC [琉球放送](../Page/琉球放送.md "wikilink")
 
 ## 他媒体展開
 
 ### イベント映画
 
-  - [仮面ライダー世界に駆ける](https://ja.wikipedia.org/wiki/仮面ライダー世界に駆ける "wikilink") - 本作品、および前作の「仮面ライダーBLACK」のキャラクターが登場する短編[3D映画](https://ja.wikipedia.org/wiki/3D映画 "wikilink")。1989年4月から10月にかけて、[夕張市](https://ja.wikipedia.org/wiki/夕張市 "wikilink")[石炭の歴史村](https://ja.wikipedia.org/wiki/石炭の歴史村 "wikilink")内の3D映像施設、「アラモ砦パビリオン」にて上映。
+  - [仮面ライダー世界に駆ける](../Page/仮面ライダー世界に駆ける.md "wikilink") - 本作品、および前作の「仮面ライダーBLACK」のキャラクターが登場する短編[3D映画](https://ja.wikipedia.org/wiki/3D映画 "wikilink")。1989年4月から10月にかけて、[夕張市](../Page/夕張市.md "wikilink")[石炭の歴史村](../Page/石炭の歴史村.md "wikilink")内の3D映像施設、「アラモ砦パビリオン」にて上映。
 
 ### 映像ソフト化
 
-いずれも発売元は[東映ビデオ](https://ja.wikipedia.org/wiki/東映ビデオ "wikilink")。
+いずれも発売元は[東映ビデオ](../Page/東映ビデオ.md "wikilink")。
 
   - [1993年](../Page/1993年.md "wikilink")[9月](../Page/9月.md "wikilink") - [1994年](../Page/1994年.md "wikilink")[8月](../Page/8月.md "wikilink")にかけて、テレビシリーズ全話のビデオ（[VHS](../Page/VHS.md "wikilink")セル・レンタル共通）全12巻がリリースされている。
-  - [1999年](../Page/1999年.md "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink") - [2000年](../Page/2000年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")にかけて[LD全](../Page/レーザーディスク.md "wikilink")6巻がリリースされている\[15\]\[16\]。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月21日](../Page/5月21日.md "wikilink") - [8月5日](../Page/8月5日.md "wikilink")にかけて[DVD](../Page/DVD.md "wikilink")全4巻がリリースされた\[17\]。各2枚組で各巻12話（Vol.1のみ11話）収録。
+  - [1999年](../Page/1999年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink") - [2000年](../Page/2000年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")にかけて[LD全](../Page/レーザーディスク.md "wikilink")6巻がリリースされている\[15\]\[16\]。
+  - [2005年](../Page/2005年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink") - [8月5日](../Page/8月5日.md "wikilink")にかけて[DVD](../Page/DVD.md "wikilink")全4巻がリリースされた\[17\]。各2枚組で各巻12話（Vol.1のみ11話）収録。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")発売の「石ノ森章太郎 生誕70周年 DVD-BOX」に第1話が収録されている。
-  - [2015年](https://ja.wikipedia.org/wiki/2015年 "wikilink")に[Blu-ray BOXが](../Page/Blu-ray_Disc.md "wikilink")3枚組全3巻で発売。BOX1は[6月10日](../Page/6月10日.md "wikilink")、BOX2は[8月5日](../Page/8月5日.md "wikilink")、BOX3は[10月7日](../Page/10月7日.md "wikilink")に発売。映像特典としてBOX1には「仮面ライダー1号〜RX大集合」を、BOX1〜BOX3に新規収録インタビューを収録。封入特典はブックレットであり、BOX1のみ初回限定特典として全巻収納BOXを同梱。
+  - [2015年](../Page/2015年.md "wikilink")に[Blu-ray BOXが](../Page/Blu-ray_Disc.md "wikilink")3枚組全3巻で発売。BOX1は[6月10日](../Page/6月10日.md "wikilink")、BOX2は[8月5日](../Page/8月5日.md "wikilink")、BOX3は[10月7日](../Page/10月7日.md "wikilink")に発売。映像特典としてBOX1には「仮面ライダー1号〜RX大集合」を、BOX1〜BOX3に新規収録インタビューを収録。封入特典はブックレットであり、BOX1のみ初回限定特典として全巻収納BOXを同梱。
 
 ### ネット配信
 
@@ -1229,21 +1229,21 @@
 
 <!-- end list -->
 
-  - [2012年](../Page/2012年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") - [7月1日](../Page/7月1日.md "wikilink")、[2014年](../Page/2014年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - [11月29日](../Page/11月29日.md "wikilink") 、[2017年](https://ja.wikipedia.org/wiki/2017年 "wikilink")[11月4日](../Page/11月4日.md "wikilink") - [2018年](https://ja.wikipedia.org/wiki/2018年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")
+  - [2012年](../Page/2012年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") - [7月1日](../Page/7月1日.md "wikilink")、[2014年](../Page/2014年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - [11月29日](../Page/11月29日.md "wikilink") 、[2017年](../Page/2017年.md "wikilink")[11月4日](../Page/11月4日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")
 
 <!-- end list -->
 
-  - 東映特撮[ニコニコおふぃしゃる](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink")
+  - 東映特撮[ニコニコおふぃしゃる](../Page/ニコニコ動画.md "wikilink")
 
 <!-- end list -->
 
-  - [2013年](https://ja.wikipedia.org/wiki/2013年 "wikilink")[4月21日](../Page/4月21日.md "wikilink") - [2014年](../Page/2014年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")
+  - [2013年](../Page/2013年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink") - [2014年](../Page/2014年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")
 
 ### 漫画版
 
 #### 放映当時の連載
 
-  - [てれびくん](https://ja.wikipedia.org/wiki/てれびくん "wikilink") 1988年11月号 - 1989年11月号連載 [小林たつよし](https://ja.wikipedia.org/wiki/小林たつよし "wikilink")
+  - [てれびくん](../Page/てれびくん.md "wikilink") 1988年11月号 - 1989年11月号連載 [小林たつよし](../Page/小林たつよし.md "wikilink")
 
 <!-- end list -->
 
@@ -1252,7 +1252,7 @@
 
 |- \!掲載号\!\!サブタイトル（登場怪人） |- ||1988年11月号 ||戦え！アールエックス\!\!のまき |- ||1988年12月号 ||不明記（ガイナギスカン） |- ||1989年1月号 ||不明記（ガイナマイト） |- ||1989年2月号 ||不明記（デスガロン） |- ||1989年3月号 ||不明記（トリプロン） |- ||1989年4月号 ||不明記（アントロント） |- ||1989年5月号 ||不明記（ボスガン） |- ||1989年6月号 ||不明記（マットポット） |- ||1989年7月号 ||不明記（エレギトロン） |- ||1989年8月号 ||不明記（ウィル鬼） |- ||1989年9月号 ||不明記（ブョムブョム） |- ||1989年10月号 ||不明記（グランザイラス） |- ||1989年11月号 ||不明記（クライシス皇帝） |- |}
 
-  - [テレビランド](https://ja.wikipedia.org/wiki/テレビランド "wikilink") 1988年11月号 - 1989年11月号連載 [シュガー佐藤](https://ja.wikipedia.org/wiki/シュガー佐藤_\(漫画家\) "wikilink")
+  - [テレビランド](../Page/テレビランド.md "wikilink") 1988年11月号 - 1989年11月号連載 [シュガー佐藤](../Page/シュガー佐藤_\(漫画家\).md "wikilink")
 
 <!-- end list -->
 
@@ -1261,7 +1261,7 @@
 
 |- \!掲載号\!\!サブタイトル（登場怪人） |- ||1988年11月号 ||不明記（キューブリカン） |- ||1988年12月号 ||不明記（ガイナギスカン） |- ||1989年1月号 ||不明記（ガイナマイト） |- ||1989年2月号 ||不明記（デスガロン） |- ||1989年3月号 ||不明記（エンマ） |- ||1989年4月号 ||不明記（リュウサンダー） |- ||1989年5月号 ||不明記（シャドームーン） |- ||1989年6月号 ||不明記（シャドームーン） |- ||1989年7月号 ||不明記（モヒガン） |- ||1989年8月号 ||不明記（キングゴクウ） |- ||1989年9月号 ||不明記（アイアンシャーク） |- ||1989年10月号 ||不明記（ジャーク将軍、他） |- ||1989年11月号 ||不明記（クライシス皇帝） |- |}
 
-  - [コミックボンボン](https://ja.wikipedia.org/wiki/コミックボンボン "wikilink") 1989年4月号 - 11月号連載 [岩田和久](https://ja.wikipedia.org/wiki/岩田和久 "wikilink")
+  - [コミックボンボン](../Page/コミックボンボン.md "wikilink") 1989年4月号 - 11月号連載 [岩田和久](https://ja.wikipedia.org/wiki/岩田和久 "wikilink")
 
 <!-- end list -->
 
@@ -1277,7 +1277,7 @@
   -
 
       -
-        『誕生の刻・RX』　[きむらひでふみ](https://ja.wikipedia.org/wiki/きむらひでふみ "wikilink")
+        『誕生の刻・RX』　[きむらひでふみ](../Page/きむらひでふみ.md "wikilink")
 
 <!-- end list -->
 
@@ -1292,14 +1292,14 @@
 
 #### 放映終了後の連載
 
-  - 『時空英雄仮面ライダー』 テレビランド 1989年12月号 - 1991年1月号連載　[シュガー佐藤](https://ja.wikipedia.org/wiki/シュガー佐藤_\(漫画家\) "wikilink")
+  - 『時空英雄仮面ライダー』 テレビランド 1989年12月号 - 1991年1月号連載　[シュガー佐藤](../Page/シュガー佐藤_\(漫画家\).md "wikilink")
   - 『宇宙の11・仮面ライダー銀河大決戦』 てれびくん 1990年1月号 - 12月号連載　[居村真二](https://ja.wikipedia.org/wiki/居村真二 "wikilink")
 
 <!-- end list -->
 
   - 『仮面ライダー11戦記』
-    「[テレビマガジン](https://ja.wikipedia.org/wiki/テレビマガジン "wikilink")」1989年12月号から1990年11月号まで連載された漫画作品。作者は[成井紀郎](https://ja.wikipedia.org/wiki/成井紀郎 "wikilink")。同時期に連載された上記2作と異なり、『RX』放送時漫画連載を行っていなかった雑誌での連載された作品\[18\]。
-    作品の特徴として、上記2作と異なり、仮面ライダーの変身前の姿も描かれている\[19\]。なお、この仮面ライダーの変身前の絵柄は成井紀郎がかつて執筆した『[仮面ライダーストロンガー](https://ja.wikipedia.org/wiki/仮面ライダーストロンガー "wikilink")』の漫画作品でのものと統一されている\[20\]。
+    「[テレビマガジン](../Page/テレビマガジン.md "wikilink")」1989年12月号から1990年11月号まで連載された漫画作品。作者は[成井紀郎](https://ja.wikipedia.org/wiki/成井紀郎 "wikilink")。同時期に連載された上記2作と異なり、『RX』放送時漫画連載を行っていなかった雑誌での連載された作品\[18\]。
+    作品の特徴として、上記2作と異なり、仮面ライダーの変身前の姿も描かれている\[19\]。なお、この仮面ライダーの変身前の絵柄は成井紀郎がかつて執筆した『[仮面ライダーストロンガー](../Page/仮面ライダーストロンガー.md "wikilink")』の漫画作品でのものと統一されている\[20\]。
       - 用語
     :; ガイスト
     :: 11人ライダーとクライシス帝国との戦いが終わった後に現れた\[21\]組織。
@@ -1314,22 +1314,22 @@
 
 ### リメイク
 
-  - [マスクド・ライダー](https://ja.wikipedia.org/wiki/マスクド・ライダー "wikilink") - 本作品に登場する仮面ライダーBLACK RXを用いた、[パワーレンジャー](https://ja.wikipedia.org/wiki/パワーレンジャー "wikilink")と同様の制作方式によるアメリカの映像作品。制作に際し、人種問題への配慮から設定が大幅に変更され、主人公が居候する一家は、主人が白人、夫人が東洋人、娘が白人、養子の息子が黒人という構成となった。
+  - [マスクド・ライダー](../Page/マスクド・ライダー.md "wikilink") - 本作品に登場する仮面ライダーBLACK RXを用いた、[パワーレンジャー](../Page/パワーレンジャー.md "wikilink")と同様の制作方式によるアメリカの映像作品。制作に際し、人種問題への配慮から設定が大幅に変更され、主人公が居候する一家は、主人が白人、夫人が東洋人、娘が白人、養子の息子が黒人という構成となった。
 
 ### ゲーム
 
-発売元は[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")（バンダイレーベルと旧[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")レーベル）による。
+発売元は[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")（バンダイレーベルと旧[バンプレスト](../Page/バンプレスト.md "wikilink")レーベル）による。
 
-  - [コンパチヒーローシリーズ](https://ja.wikipedia.org/wiki/コンパチヒーローシリーズ "wikilink") - 『[ウルトラマン](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")』、『[ガンダム](https://ja.wikipedia.org/wiki/SDガンダム "wikilink")』と共に共演する[クロスオーバー作品](https://ja.wikipedia.org/wiki/クロスオーバー作品 "wikilink")シリーズ。『グレイトバトル』シリーズやバラエティ系（スポーツ系も含む）など、数多くの作品に登場。
+  - [コンパチヒーローシリーズ](../Page/コンパチヒーローシリーズ.md "wikilink") - 『[ウルトラマン](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")』、『[ガンダム](../Page/SDガンダム.md "wikilink")』と共に共演する[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")シリーズ。『グレイトバトル』シリーズやバラエティ系（スポーツ系も含む）など、数多くの作品に登場。
   - 『[仮面ライダー クライマックスヒーローズ フォーゼ](https://ja.wikipedia.org/wiki/仮面ライダー_クライマックスヒーローズ "wikilink")』 - シリーズ4作目以降から昭和シリーズと共に参加。RX、ロボライダー、バイオライダーが登場。
   - [スーパーヒーロージェネレーション](https://ja.wikipedia.org/wiki/スーパーヒーロージェネレーション "wikilink") -　RX、ロボライダー、バイオライダー登場
   - [仮面ライダー バトライド・ウォー](https://ja.wikipedia.org/wiki/仮面ライダー_バトライド・ウォー "wikilink") -　シリーズ3作目に RX、ロボライダー、バイオライダー、シャドームーン＆レッド・シャドームーンが登場。
 
 ## 他の仮面ライダーシリーズとの関連
 
-仮面ライダーBLACKとしてのゲスト出演は[仮面ライダーBLACK](https://ja.wikipedia.org/wiki/仮面ライダーBLACK "wikilink")を、シャドームーンおよびジャーク将軍の登場作品については[シャドームーン](https://ja.wikipedia.org/wiki/シャドームーン "wikilink")・[ジャーク将軍](https://ja.wikipedia.org/wiki/ジャーク将軍 "wikilink")をそれぞれ参照。
+仮面ライダーBLACKとしてのゲスト出演は[仮面ライダーBLACK](../Page/仮面ライダーBLACK.md "wikilink")を、シャドームーンおよびジャーク将軍の登場作品については[シャドームーン](../Page/シャドームーン.md "wikilink")・[ジャーク将軍](https://ja.wikipedia.org/wiki/ジャーク将軍 "wikilink")をそれぞれ参照。
 
-  - 『[仮面ライダーZO](https://ja.wikipedia.org/wiki/仮面ライダーZO "wikilink")』 - 漫画版に南光太郎/仮面ライダーBLACK RXが登場。
+  - 『[仮面ライダーZO](../Page/仮面ライダーZO.md "wikilink")』 - 漫画版に南光太郎/仮面ライダーBLACK RXが登場。
   - 『[仮面ライダーディケイド](https://ja.wikipedia.org/wiki/仮面ライダーディケイド "wikilink")』 - テレビシリーズに南光太郎/仮面ライダーBLACK RXと霞のジョー（名前のみ）が登場。[劇場版に南光太郎](https://ja.wikipedia.org/wiki/劇場版_仮面ライダーディケイド_オールライダー対大ショッカー "wikilink")/仮面ライダーBLACK RXが登場。
   - 『[仮面ライダーオーズ/OOO](https://ja.wikipedia.org/wiki/仮面ライダーオーズ/OOO "wikilink")』 - テレビシリーズにチャップが登場。『[仮面ライダー電王](https://ja.wikipedia.org/wiki/仮面ライダー電王 "wikilink")』との[クロスオーバー作品に仮面ライダーBLACK](https://ja.wikipedia.org/wiki/オーズ・電王・オールライダー_レッツゴー仮面ライダー "wikilink") RXが登場。
   - 『[仮面ライダーフォーゼ](https://ja.wikipedia.org/wiki/仮面ライダーフォーゼ "wikilink")』 - テレビシリーズに仮面ライダーBLACK RXが登場。
@@ -1337,12 +1337,12 @@
 
 ## 関連項目
 
-  - 『[総天然色バラエティー 北野テレビ](https://ja.wikipedia.org/wiki/総天然色バラエティー_北野テレビ "wikilink")』内ショートコント
+  - 『[総天然色バラエティー 北野テレビ](../Page/総天然色バラエティー_北野テレビ.md "wikilink")』内ショートコント
       -
         番組放映期間中に、キー局のTBSが制作した番組。RXが登場。当時他局では『[仮面ノリダー](../Page/仮面ノリダー.md "wikilink")』等のパロディも存在したが、こちらは本作品の公式なパロディである。
   - 映画『[右曲がりのダンディー](https://ja.wikipedia.org/wiki/右曲がりのダンディー "wikilink")』
       -
-        番組放映期間中の1989年8月に公開された映画作品。RXとアクロバッターが出演し、[玉置浩二](https://ja.wikipedia.org/wiki/玉置浩二 "wikilink")演じる主人公とのタンデムシーンを披露している。
+        番組放映期間中の1989年8月に公開された映画作品。RXとアクロバッターが出演し、[玉置浩二](../Page/玉置浩二.md "wikilink")演じる主人公とのタンデムシーンを披露している。
 
 ## 脚注
 
@@ -1364,10 +1364,10 @@
 [Category:仮面ライダーシリーズの特撮テレビドラマ](https://ja.wikipedia.org/wiki/Category:仮面ライダーシリーズの特撮テレビドラマ "wikilink") [Category:毎日放送の特撮番組](https://ja.wikipedia.org/wiki/Category:毎日放送の特撮番組 "wikilink") [Category:1980年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1980年代の特撮作品 "wikilink") [Category:1988年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1988年のテレビドラマ "wikilink") [Category:仮面ライダーBLACK](https://ja.wikipedia.org/wiki/Category:仮面ライダーBLACK "wikilink")
 
 1.
-2.  白倉伸一郎、[國分功一郎](https://ja.wikipedia.org/wiki/國分功一郎 "wikilink")「存在論的なヒーローのために」『[ユリイカ 9月臨時増刊号](https://ja.wikipedia.org/wiki/ユリイカ_\(雑誌\) "wikilink")』通巻615号、[青土社](https://ja.wikipedia.org/wiki/青土社 "wikilink")、2012年8月、p.11
+2.  白倉伸一郎、[國分功一郎](https://ja.wikipedia.org/wiki/國分功一郎 "wikilink")「存在論的なヒーローのために」『[ユリイカ 9月臨時増刊号](../Page/ユリイカ_\(雑誌\).md "wikilink")』通巻615号、[青土社](../Page/青土社.md "wikilink")、2012年8月、p.11
 3.
 4.  『超世紀全戦隊大全集』[講談社](../Page/講談社.md "wikilink")、1993年11月、p.190。ISBN 4-06-178416-1
-5.  1984年（昭和59年）1月3日放映『[10号誕生\!仮面ライダー全員集合\!\!](https://ja.wikipedia.org/wiki/10号誕生!仮面ライダー全員集合!! "wikilink")』より
+5.  1984年（昭和59年）1月3日放映『[10号誕生\!仮面ライダー全員集合\!\!](../Page/10号誕生!仮面ライダー全員集合!!.md "wikilink")』より
 6.
 7.  『東映ヒーローMAX』vol26、辰巳出版、2008年、91頁
 8.

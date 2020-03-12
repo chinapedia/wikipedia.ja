@@ -1,11 +1,11 @@
 > この記事は[Tar](https://ja.wikipedia.org/wiki/Tar)から翻訳されています。
 
 
-**tar**（ター、**t**ape **ar**chives）は[ファイルアーカイブの](https://ja.wikipedia.org/wiki/アーカイブ_\(コンピュータ\) "wikilink")[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")の一種である 。このファイルフォーマットを処理する同名の[UNIX](../Page/UNIX.md "wikilink")コマンド`tar`も指す。UNIXでは圧縮したtar形式のファイルを"tarball"（ターボール）と呼ぶこともある。*[POSIX](https://ja.wikipedia.org/wiki/POSIX "wikilink").1-1988*\[1\]や*POSIX.1-2001*\[2\]で規格化され、UNIX系[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")では標準のフォーマットである。[Windowsではあまり使われない](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。類似コマンドにafioがある。
+**tar**（ター、**t**ape **ar**chives）は[ファイルアーカイブの](../Page/アーカイブ_\(コンピュータ\).md "wikilink")[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")の一種である 。このファイルフォーマットを処理する同名の[UNIX](../Page/UNIX.md "wikilink")コマンド`tar`も指す。UNIXでは圧縮したtar形式のファイルを"tarball"（ターボール）と呼ぶこともある。*[POSIX](../Page/POSIX.md "wikilink").1-1988*\[1\]や*POSIX.1-2001*\[2\]で規格化され、UNIX系[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")では標準のフォーマットである。[Windowsではあまり使われない](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。類似コマンドにafioがある。
 
 ## 機能
 
-[Targzip.svg](https://ja.wikipedia.org/wiki/File:Targzip.svg "fig:Targzip.svg") tarは[ファイルの](https://ja.wikipedia.org/wiki/ファイル_\(コンピュータ\) "wikilink")[アーカイブに用いられ](https://ja.wikipedia.org/wiki/アーカイブ_\(コンピュータ\) "wikilink")、多数のファイルを一つのファイルにまとめることができる。ファイルのユーザ情報とグループ情報、[パーミッション](https://ja.wikipedia.org/wiki/パーミッション "wikilink")、最終更新日時、[ディレクトリ](https://ja.wikipedia.org/wiki/ディレクトリ "wikilink")構造などを同時にアーカイブすることができる。元来tarはアーカイブ、すなわち複数のファイルをまとめることのみで[圧縮の機能はない](../Page/データ圧縮.md "wikilink")。大半の場合アーカイブと同時に[compressや](https://ja.wikipedia.org/wiki/UNIX_Compress "wikilink")[gzip](https://ja.wikipedia.org/wiki/gzip "wikilink")、[bzip2](https://ja.wikipedia.org/wiki/bzip2 "wikilink")などの圧縮方法を用いて圧縮（いわゆる「ソリッド圧縮」）を行う。これによりファイルの[拡張子](../Page/拡張子.md "wikilink")はそれぞれ .tar.Z、.tar.gz、.tar.bz2 となる。特に .tar.Z、.tar.gz は古くから使われておりそれぞれ略して .taz、.tgz とされることも多い。この形式はファイルが一部でも破損した場合、破損箇所に含まれていたファイル以降は取り出すことはできない。この欠点はafioとgzを使うことにより改善できる。
+[Targzip.svg](https://ja.wikipedia.org/wiki/File:Targzip.svg "fig:Targzip.svg") tarは[ファイルの](../Page/ファイル_\(コンピュータ\).md "wikilink")[アーカイブに用いられ](../Page/アーカイブ_\(コンピュータ\).md "wikilink")、多数のファイルを一つのファイルにまとめることができる。ファイルのユーザ情報とグループ情報、[パーミッション](https://ja.wikipedia.org/wiki/パーミッション "wikilink")、最終更新日時、[ディレクトリ](../Page/ディレクトリ.md "wikilink")構造などを同時にアーカイブすることができる。元来tarはアーカイブ、すなわち複数のファイルをまとめることのみで[圧縮の機能はない](../Page/データ圧縮.md "wikilink")。大半の場合アーカイブと同時に[compressや](https://ja.wikipedia.org/wiki/UNIX_Compress "wikilink")[gzip](https://ja.wikipedia.org/wiki/gzip "wikilink")、[bzip2](https://ja.wikipedia.org/wiki/bzip2 "wikilink")などの圧縮方法を用いて圧縮（いわゆる「ソリッド圧縮」）を行う。これによりファイルの[拡張子](../Page/拡張子.md "wikilink")はそれぞれ .tar.Z、.tar.gz、.tar.bz2 となる。特に .tar.Z、.tar.gz は古くから使われておりそれぞれ略して .taz、.tgz とされることも多い。この形式はファイルが一部でも破損した場合、破損箇所に含まれていたファイル以降は取り出すことはできない。この欠点はafioとgzを使うことにより改善できる。
 
 ## コマンドオプション
 
@@ -46,12 +46,12 @@
 
 ## 歴史
 
-tarコマンドはその名の通り[磁気テープ](https://ja.wikipedia.org/wiki/磁気テープ "wikilink")の操作が念頭に置かれていた。fオプション\[3\]を省いた場合[デフォルトで磁気テープデバイスを処理する](https://ja.wikipedia.org/wiki/デフォルト_\(コンピュータ\) "wikilink")。fオプションの指定によりファイルシステム上の任意の名前のファイルを処理できる。この語の由来は「」の童話『』に由来し\[4\]、それに油塊（タールボール）を引っ掛けたジョーク的用語である。 その歴史の長さゆえにシステム毎の方言やファイルサイズの制限など多くの非互換部分がある為、異なるシステム間のファイル交換を目的とする場合は慎重に利用する必要がある。
+tarコマンドはその名の通り[磁気テープ](../Page/磁気テープ.md "wikilink")の操作が念頭に置かれていた。fオプション\[3\]を省いた場合[デフォルトで磁気テープデバイスを処理する](../Page/デフォルト_\(コンピュータ\).md "wikilink")。fオプションの指定によりファイルシステム上の任意の名前のファイルを処理できる。この語の由来は「」の童話『』に由来し\[4\]、それに油塊（タールボール）を引っ掛けたジョーク的用語である。 その歴史の長さゆえにシステム毎の方言やファイルサイズの制限など多くの非互換部分がある為、異なるシステム間のファイル交換を目的とする場合は慎重に利用する必要がある。
 
 ## 関連項目
 
   - [mt (UNIX)](https://ja.wikipedia.org/wiki/mt_\(UNIX\) "wikilink")
-  - [テープドライブ](https://ja.wikipedia.org/wiki/テープドライブ "wikilink")
+  - [テープドライブ](../Page/テープドライブ.md "wikilink")
   - [Linear Tape-Open](https://ja.wikipedia.org/wiki/Linear_Tape-Open "wikilink")
   - [IBM 3592](https://ja.wikipedia.org/wiki/IBM_3592 "wikilink")
 

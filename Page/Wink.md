@@ -1,15 +1,15 @@
 > この記事は[Wink](https://ja.wikipedia.org/wiki/Wink)から翻訳されています。
 
 
-**Wink**（ウィンク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")[デュオ](https://ja.wikipedia.org/wiki/デュオ "wikilink")で、**[鈴木早智子](https://ja.wikipedia.org/wiki/鈴木早智子 "wikilink")**と**[相田翔子](https://ja.wikipedia.org/wiki/相田翔子 "wikilink")**の二人組。[1988年](../Page/1988年.md "wikilink")4月27日デビュー、[1996年](../Page/1996年.md "wikilink")3月31日活動停止。
+**Wink**（ウィンク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")[デュオ](../Page/デュオ.md "wikilink")で、**[鈴木早智子](../Page/鈴木早智子.md "wikilink")**と**[相田翔子](https://ja.wikipedia.org/wiki/相田翔子 "wikilink")**の二人組。[1988年](../Page/1988年.md "wikilink")4月27日デビュー、[1996年](../Page/1996年.md "wikilink")3月31日活動停止。
 
 ## 経歴
 
-二人はともに、[ワニブックス](https://ja.wikipedia.org/wiki/ワニブックス "wikilink")社の雑誌『[UP TO BOY](https://ja.wikipedia.org/wiki/UP_to_boy "wikilink")』が開催した[ミス・コンテスト](https://ja.wikipedia.org/wiki/ミス・コンテスト "wikilink")であるミス・アップの入賞者（鈴木は第7代グランプリ\[1\]、相田は第9代グランプリ\[2\]）。[1988年](../Page/1988年.md "wikilink")にWinkを結成し、同年4月27日の「[Sugar Baby Love](https://ja.wikipedia.org/wiki/Sugar_Baby_Love "wikilink")」発売を以ってデビューを果たした\[3\]。同期には、[高岡早紀](https://ja.wikipedia.org/wiki/高岡早紀 "wikilink")、[西田ひかる](https://ja.wikipedia.org/wiki/西田ひかる "wikilink")、[田中律子](https://ja.wikipedia.org/wiki/田中律子 "wikilink")などがいる。グループ名は当初、oz（オズ）やTwinkle（トゥインクル）などが候補として挙がっていたが、最終的には所属事務所のマネージャーが提案したWinkに決定した。
+二人はともに、[ワニブックス](../Page/ワニブックス.md "wikilink")社の雑誌『[UP TO BOY](../Page/UP_to_boy.md "wikilink")』が開催した[ミス・コンテスト](../Page/ミス・コンテスト.md "wikilink")であるミス・アップの入賞者（鈴木は第7代グランプリ\[1\]、相田は第9代グランプリ\[2\]）。[1988年](../Page/1988年.md "wikilink")にWinkを結成し、同年4月27日の「[Sugar Baby Love](https://ja.wikipedia.org/wiki/Sugar_Baby_Love "wikilink")」発売を以ってデビューを果たした\[3\]。同期には、[高岡早紀](https://ja.wikipedia.org/wiki/高岡早紀 "wikilink")、[西田ひかる](../Page/西田ひかる.md "wikilink")、[田中律子](https://ja.wikipedia.org/wiki/田中律子 "wikilink")などがいる。グループ名は当初、oz（オズ）やTwinkle（トゥインクル）などが候補として挙がっていたが、最終的には所属事務所のマネージャーが提案したWinkに決定した。
 
-[1989年](../Page/1989年.md "wikilink")、[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビ系列 "wikilink")『[追いかけたいの\!](https://ja.wikipedia.org/wiki/追いかけたいの! "wikilink")』（1988年10月26日～12月21日放送）の主題歌に使われた「[愛が止まらない 〜Turn it into love〜](https://ja.wikipedia.org/wiki/愛が止まらない_〜Turn_it_into_love〜 "wikilink")」が、[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")年間第5位となる売上62.95万枚のヒット。この年、同曲により7月8日放送の『[第22回全日本有線放送大賞](https://ja.wikipedia.org/wiki/全日本有線放送大賞 "wikilink")』（[日本テレビ系](https://ja.wikipedia.org/wiki/日本テレビ系列 "wikilink")）で上半期グランプリを受賞\[4\]\[5\]、また、「[淋しい熱帯魚](https://ja.wikipedia.org/wiki/淋しい熱帯魚 "wikilink")」により、12月14日放送の『第22回全日本有線放送大賞』（日本テレビ系）で年間グランプリ\[6\]、12月31日放送の『[第31回日本レコード大賞](https://ja.wikipedia.org/wiki/第31回日本レコード大賞 "wikilink")』（[TBS系](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）で大賞を受賞し\[7\]、同日、この曲で『[第40回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第40回NHK紅白歌合戦 "wikilink")』への出場を果たした\[8\]。\[9\]
+[1989年](../Page/1989年.md "wikilink")、[フジテレビ系ドラマ](../Page/フジテレビ系列.md "wikilink")『[追いかけたいの\!](https://ja.wikipedia.org/wiki/追いかけたいの! "wikilink")』（1988年10月26日～12月21日放送）の主題歌に使われた「[愛が止まらない 〜Turn it into love〜](https://ja.wikipedia.org/wiki/愛が止まらない_〜Turn_it_into_love〜 "wikilink")」が、[オリコンチャート](../Page/オリコンチャート.md "wikilink")年間第5位となる売上62.95万枚のヒット。この年、同曲により7月8日放送の『[第22回全日本有線放送大賞](../Page/全日本有線放送大賞.md "wikilink")』（[日本テレビ系](../Page/日本テレビ系列.md "wikilink")）で上半期グランプリを受賞\[4\]\[5\]、また、「[淋しい熱帯魚](../Page/淋しい熱帯魚.md "wikilink")」により、12月14日放送の『第22回全日本有線放送大賞』（日本テレビ系）で年間グランプリ\[6\]、12月31日放送の『[第31回日本レコード大賞](https://ja.wikipedia.org/wiki/第31回日本レコード大賞 "wikilink")』（[TBS系](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）で大賞を受賞し\[7\]、同日、この曲で『[第40回NHK紅白歌合戦](../Page/第40回NHK紅白歌合戦.md "wikilink")』への出場を果たした\[8\]。\[9\]
 
-[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")になると、二人が別々にCDをリリースしたり、ドラマに出演したりと、ソロ活動が目立つようになってくる\[10\]。
+[1992年](../Page/1992年.md "wikilink")になると、二人が別々にCDをリリースしたり、ドラマに出演したりと、ソロ活動が目立つようになってくる\[10\]。
 
 メンバーが並行してソロ活動を行う中、突如として1996年2月に所属事務所からメンバーに活動停止の予定が告げられた\[11\]。そして、[1996年](../Page/1996年.md "wikilink")3月31日付で**8年間**（正確には7年11か月）に及ぶ活動を停止した\[12\]。従って、活動停止に関してはメンバーの意思ではない。
 
@@ -17,15 +17,15 @@
 
 Winkは解散したのではなく、あくまでも「**活動停止中**」であると鈴木と相田がテレビ番組等のメディアで何度か言明しているが\[13\]、事実上の解散状態となっている\[14\]。活動停止後には、これまでに何度かテレビの年末特別番組、および単発の特別番組等で「一夜限りの」といった主旨で2人揃って歌を披露している。以下はその実例。
 
-1.  [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink")放送　『[祝\!日本レコード大賞40周年記念スペシャル](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")』（TBS系）\[15\]
-2.  [1999年](../Page/1999年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink") - [2000年](../Page/2000年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")放送　『[超える\!テレビ](https://ja.wikipedia.org/wiki/超える!テレビ "wikilink")』（TBS系）　12月30日の歌のリクエストコーナー\[16\]
+1.  [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月29日](../Page/12月29日.md "wikilink")放送　『[祝\!日本レコード大賞40周年記念スペシャル](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")』（TBS系）\[15\]
+2.  [1999年](../Page/1999年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink") - [2000年](../Page/2000年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")放送　『[超える\!テレビ](../Page/超える!テレビ.md "wikilink")』（TBS系）　12月30日の歌のリクエストコーナー\[16\]
 3.  [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")12月30日放送　『[第50回日本レコード大賞](https://ja.wikipedia.org/wiki/第50回日本レコード大賞 "wikilink")』（TBS系）　メモリアルアクト・日本レコード大賞50周年記念特別企画\[17\]\[18\]
-4.  [2018年](../Page/2018年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")放送　『[第50回思い出のメロディー](https://ja.wikipedia.org/wiki/思い出のメロディー "wikilink")』（[NHK総合](https://ja.wikipedia.org/wiki/NHK総合 "wikilink")、[NHKラジオ第1](https://ja.wikipedia.org/wiki/NHKラジオ第1 "wikilink")）\[19\]\[20\]
+4.  [2018年](../Page/2018年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")放送　『[第50回思い出のメロディー](../Page/思い出のメロディー.md "wikilink")』（[NHK総合](https://ja.wikipedia.org/wiki/NHK総合 "wikilink")、[NHKラジオ第1](https://ja.wikipedia.org/wiki/NHKラジオ第1 "wikilink")）\[19\]\[20\]
 5.  2018年12月30日放送　『[第60回日本レコード大賞](https://ja.wikipedia.org/wiki/第60回日本レコード大賞 "wikilink")』（TBS系） レジェンドアーティスト・日本レコード大賞60周年記念特別企画\[21\]\[22\]
 
 その他、二人がそれぞれ単独でWink時代の楽曲を番組・ライブイベント等で歌うこともある\[23\]\[24\]。
 
-[2018年](../Page/2018年.md "wikilink")はデビュー30周年であり、全アルバムのデジタルリマスタリングによる再発、および[ハイレゾ版の](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")[音楽配信](https://ja.wikipedia.org/wiki/音楽配信 "wikilink")や、アルバム購入者特典招待トーク&ミニライブイベント『Special To Me』開催などのアニバーサリー企画などが行われている\[25\]。先述のように『第50回思い出のメロディー』でWinkの一夜限りの復活も果たした。
+[2018年](../Page/2018年.md "wikilink")はデビュー30周年であり、全アルバムのデジタルリマスタリングによる再発、および[ハイレゾ版の](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")[音楽配信](../Page/音楽配信.md "wikilink")や、アルバム購入者特典招待トーク&ミニライブイベント『Special To Me』開催などのアニバーサリー企画などが行われている\[25\]。先述のように『第50回思い出のメロディー』でWinkの一夜限りの復活も果たした。
 
 ## 特色
 
@@ -37,7 +37,7 @@ Winkは解散したのではなく、あくまでも「**活動停止中**」で
 
 、。。。
 
-Winkのトータル・ディレクションを手がけたのは[TCR横浜銀蝿RSや](https://ja.wikipedia.org/wiki/横浜銀蝿 "wikilink")[山瀬まみ](https://ja.wikipedia.org/wiki/山瀬まみ "wikilink")も手がけた元[ジャックスの水橋春夫である](https://ja.wikipedia.org/wiki/ジャックス_\(バンド\) "wikilink")\[27\]。
+Winkのトータル・ディレクションを手がけたのは[TCR横浜銀蝿RSや](../Page/横浜銀蝿.md "wikilink")[山瀬まみ](../Page/山瀬まみ.md "wikilink")も手がけた元[ジャックスの水橋春夫である](../Page/ジャックス_\(バンド\).md "wikilink")\[27\]。
 
 ### 楽曲
 
@@ -55,7 +55,7 @@ Winkのトータル・ディレクションを手がけたのは[TCR横浜銀蝿
 | 2nd  | 1988.09.07 | **[アマリリス](https://ja.wikipedia.org/wiki/アマリリス_\(Winkの曲\) "wikilink")**                                                    |
 | 3rd  | 1988.11.16 | **[愛が止まらない 〜Turn it into love〜](https://ja.wikipedia.org/wiki/愛が止まらない_〜Turn_it_into_love〜 "wikilink")**                   |
 | 4th  | 1989.03.16 | **[涙をみせないで 〜Boys Don't Cry〜](https://ja.wikipedia.org/wiki/涙をみせないで_〜Boys_Don't_Cry〜 "wikilink")**                         |
-| 5th  | 1989.07.05 | **[淋しい熱帯魚](https://ja.wikipedia.org/wiki/淋しい熱帯魚 "wikilink")**                                                             |
+| 5th  | 1989.07.05 | **[淋しい熱帯魚](../Page/淋しい熱帯魚.md "wikilink")**                                                                                |
 | 6th  | 1989.11.01 | **[One Night In Heaven 〜真夜中のエンジェル〜](https://ja.wikipedia.org/wiki/One_Night_In_Heaven_〜真夜中のエンジェル〜 "wikilink")**           |
 | 7th  | 1990.03.28 | **[Sexy Music](https://ja.wikipedia.org/wiki/Sexy_Music "wikilink")**                                                     |
 | 8th  | 1990.07.04 | **[夜にはぐれて 〜Where Were You Last Night〜](https://ja.wikipedia.org/wiki/夜にはぐれて_〜Where_Were_You_Last_Night〜 "wikilink")**     |
@@ -94,23 +94,23 @@ Winkのトータル・ディレクションを手がけたのは[TCR横浜銀蝿
 
 #### オリジナル・アルバム
 
-|      |            |                                                                                                               |
-| :--: | :--------: | ------------------------------------------------------------------------------------------------------------- |
-| 1st  | 1988.07.01 | **[Moonlight Serenade](https://ja.wikipedia.org/wiki/Moonlight_Serenade "wikilink")**                         |
-| Mini | 1988.12.01 | **[At Heel Diamonds](https://ja.wikipedia.org/wiki/At_Heel_Diamonds "wikilink")**                             |
-| 2nd  | 1989.04.25 | **[Especially For You 〜優しさにつつまれて〜](https://ja.wikipedia.org/wiki/Especially_For_You_〜優しさにつつまれて〜 "wikilink")** |
-| 3rd  | 1989.12.01 | **[Twin Memories](https://ja.wikipedia.org/wiki/Twin_Memories "wikilink")**                                   |
-| 4th  | 1990.07.11 | **[Velvet](https://ja.wikipedia.org/wiki/Velvet_\(アルバム\) "wikilink")**                                        |
-| 5th  | 1990.12.16 | **[Crescent](https://ja.wikipedia.org/wiki/Crescent_\(Winkのアルバム\) "wikilink")**                               |
-| 6th  | 1991.07.10 | **[Queen of Love](https://ja.wikipedia.org/wiki/Queen_of_Love "wikilink")**                                   |
-| 7th  | 1991.11.25 | **[Sapphire](https://ja.wikipedia.org/wiki/Sapphire "wikilink")**                                             |
-| 8th  | 1992.04.25 | **[Each side of screen](https://ja.wikipedia.org/wiki/Each_side_of_screen "wikilink")**                       |
-| 9th  | 1992.11.26 | **[Nocturne 〜夜想曲〜](https://ja.wikipedia.org/wiki/Nocturne_〜夜想曲〜 "wikilink")**                                 |
-| 10th | 1993.06.25 | **[Αφροδιτη](https://ja.wikipedia.org/wiki/アプロデーテ "wikilink")**                                               |
-| 11th | 1993.11.26 | **[BRUNCH](https://ja.wikipedia.org/wiki/BRUNCH "wikilink")**                                                 |
-| 12th | 1994.07.01 | **[overture\!](https://ja.wikipedia.org/wiki/overture! "wikilink")**                                          |
-| 13th | 1994.12.01 | **[voce](https://ja.wikipedia.org/wiki/voce_\(Winkのアルバム\) "wikilink")**                                       |
-| 14th | 1995.07.05 | **[Flyin' High](https://ja.wikipedia.org/wiki/Flyin'_High "wikilink")**                                       |
+|      |            |                                                                                            |
+| :--: | :--------: | ------------------------------------------------------------------------------------------ |
+| 1st  | 1988.07.01 | **[Moonlight Serenade](../Page/Moonlight_Serenade.md "wikilink")**                         |
+| Mini | 1988.12.01 | **[At Heel Diamonds](../Page/At_Heel_Diamonds.md "wikilink")**                             |
+| 2nd  | 1989.04.25 | **[Especially For You 〜優しさにつつまれて〜](../Page/Especially_For_You_〜優しさにつつまれて〜.md "wikilink")** |
+| 3rd  | 1989.12.01 | **[Twin Memories](../Page/Twin_Memories.md "wikilink")**                                   |
+| 4th  | 1990.07.11 | **[Velvet](../Page/Velvet_\(アルバム\).md "wikilink")**                                        |
+| 5th  | 1990.12.16 | **[Crescent](../Page/Crescent_\(Winkのアルバム\).md "wikilink")**                               |
+| 6th  | 1991.07.10 | **[Queen of Love](../Page/Queen_of_Love.md "wikilink")**                                   |
+| 7th  | 1991.11.25 | **[Sapphire](../Page/Sapphire.md "wikilink")**                                             |
+| 8th  | 1992.04.25 | **[Each side of screen](../Page/Each_side_of_screen.md "wikilink")**                       |
+| 9th  | 1992.11.26 | **[Nocturne 〜夜想曲〜](../Page/Nocturne_〜夜想曲〜.md "wikilink")**                                 |
+| 10th | 1993.06.25 | **[Αφροδιτη](../Page/アプロデーテ.md "wikilink")**                                               |
+| 11th | 1993.11.26 | **[BRUNCH](../Page/BRUNCH.md "wikilink")**                                                 |
+| 12th | 1994.07.01 | **[overture\!](https://ja.wikipedia.org/wiki/overture! "wikilink")**                       |
+| 13th | 1994.12.01 | **[voce](https://ja.wikipedia.org/wiki/voce_\(Winkのアルバム\) "wikilink")**                    |
+| 14th | 1995.07.05 | **[Flyin' High](../Page/Flyin'_High.md "wikilink")**                                       |
 
 #### ソロ・アルバム
 
@@ -239,7 +239,7 @@ WINK BEST</strong></p></td>
 <td style="text-align: center;"><p>CD EXTRA</p></td>
 <td><p>1996.08.21</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/X-tra" title="wikilink">X-tra</a></strong></p></td>
-<td><p>2人のソロ曲中心のベスト＋<a href="https://ja.wikipedia.org/wiki/CD_EXTRA" title="wikilink">CD EXTRA仕様</a></p></td>
+<td><p>2人のソロ曲中心のベスト＋<a href="../Page/CD_EXTRA.md" title="wikilink">CD EXTRA仕様</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>Non-Stop Remix</p></td>
@@ -251,7 +251,7 @@ WINK BEST</strong></p></td>
 <td style="text-align: center;"><p>Eurobeat Remix</p></td>
 <td><p>2000.07.01</p></td>
 <td><p><strong>para para WINK!</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パラパラ" title="wikilink">パラパラ</a>アレンジによるリミックス・アルバム</p></td>
+<td><p><a href="../Page/パラパラ.md" title="wikilink">パラパラ</a>アレンジによるリミックス・アルバム</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>Live</p></td>
@@ -271,7 +271,7 @@ WINK BEST</strong></p></td>
 <tr class="odd">
 <td><p>1989.07.25</p></td>
 <td><p><strong>Heart On Wave</strong></p></td>
-<td><p>「淋しい熱帯魚」「涙をみせないで」「愛が止まらない」の<a href="https://ja.wikipedia.org/wiki/ミュージック・ビデオ" title="wikilink">PV集</a><br />
+<td><p>「淋しい熱帯魚」「涙をみせないで」「愛が止まらない」の<a href="../Page/ミュージック・ビデオ.md" title="wikilink">PV集</a><br />
 シリーズ中、本作品のみ発売順を遡らせた配列</p></td>
 </tr>
 <tr class="even">
@@ -307,7 +307,7 @@ WINK BEST</strong></p></td>
 <tr class="even">
 <td><p>1992.09.26</p></td>
 <td><p><strong>WINK '92 CONCERT SAPPHIRE</strong></p></td>
-<td><p>1992年4月5日、<a href="https://ja.wikipedia.org/wiki/中野サンプラザ" title="wikilink">中野サンプラザ</a>にて収録のライブ・ビデオ</p></td>
+<td><p>1992年4月5日、<a href="../Page/中野サンプラザ.md" title="wikilink">中野サンプラザ</a>にて収録のライブ・ビデオ</p></td>
 </tr>
 <tr class="odd">
 <td><p>1993.03.25</p></td>
@@ -396,17 +396,17 @@ WINK BEST</strong></p></td>
 
 ### 未発売曲
 
-|                  |                    |                                                                                                                                                                                 |
-| ---------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1989.07.08\[28\] | **フクザツKISS**\[29\] | THE KING C-LOVE FAMILY名義、『[はた金のオリコン・ザ・ビッグヒット](https://ja.wikipedia.org/wiki/はた金のオリコン・ザ・ビッグヒット "wikilink")』（[ニッポン放送](https://ja.wikipedia.org/wiki/ニッポン放送 "wikilink")）エンディング・テーマ |
+|                  |                    |                                                                                                                                                              |
+| ---------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1989.07.08\[28\] | **フクザツKISS**\[29\] | THE KING C-LOVE FAMILY名義、『[はた金のオリコン・ザ・ビッグヒット](https://ja.wikipedia.org/wiki/はた金のオリコン・ザ・ビッグヒット "wikilink")』（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）エンディング・テーマ |
 
 ## 出演
 
 ### NHK紅白歌合戦出場歴
 
-| 年度/放送回                                                                                                   | 回 | 曲目     | 出演順   | 対戦相手                                                      |
-| -------------------------------------------------------------------------------------------------------- | - | ------ | ----- | --------------------------------------------------------- |
-| [1989年](../Page/1989年.md "wikilink")（平成元年）/[第40回](https://ja.wikipedia.org/wiki/第40回NHK紅白歌合戦 "wikilink") | 初 | 淋しい熱帯魚 | 04/20 | [光GENJI](https://ja.wikipedia.org/wiki/光GENJI "wikilink") |
+| 年度/放送回                                                                                | 回 | 曲目     | 出演順   | 対戦相手                                   |
+| ------------------------------------------------------------------------------------- | - | ------ | ----- | -------------------------------------- |
+| [1989年](../Page/1989年.md "wikilink")（平成元年）/[第40回](../Page/第40回NHK紅白歌合戦.md "wikilink") | 初 | 淋しい熱帯魚 | 04/20 | [光GENJI](../Page/光GENJI.md "wikilink") |
 
 ※ 「出演順」の記載は「出演順/出場者数」を示している。
 ※ 外部リンク[「紅白歌合戦ヒストリー　第40回（1989年／平成1年）」（『NHKオンライン』）](https://www1.nhk.or.jp/kouhaku/history/history_40.html)参照。
@@ -415,20 +415,20 @@ WINK BEST</strong></p></td>
 
 ※ 丸括弧内の年月日はWinkが出演した番組放送日
 
-  - [クイズ\!早くイッてよ](https://ja.wikipedia.org/wiki/クイズ!早くイッてよ "wikilink")（フジテレビ系、1989年5月28日(日)、第1回ゲスト\[30\]；1991年6月30日(日)\[31\]、第100回ゲスト）
-  - [パラダイスGoGo\!\!](https://ja.wikipedia.org/wiki/パラダイスGoGo!! "wikilink")（フジテレビ系、1989年4月19日 - 9月27日 毎週(水)、レギュラー）\[32\]
-  - [邦ちゃんのやまだかつてないテレビ](https://ja.wikipedia.org/wiki/邦ちゃんのやまだかつてないテレビ "wikilink")（フジテレビ系、1990年2月7日 - 1991年8月21日 毎週(水)、準レギュラー）\[33\]
+  - [クイズ\!早くイッてよ](../Page/クイズ!早くイッてよ.md "wikilink")（フジテレビ系、1989年5月28日(日)、第1回ゲスト\[30\]；1991年6月30日(日)\[31\]、第100回ゲスト）
+  - [パラダイスGoGo\!\!](../Page/パラダイスGoGo!!.md "wikilink")（フジテレビ系、1989年4月19日 - 9月27日 毎週(水)、レギュラー）\[32\]
+  - [邦ちゃんのやまだかつてないテレビ](../Page/邦ちゃんのやまだかつてないテレビ.md "wikilink")（フジテレビ系、1990年2月7日 - 1991年8月21日 毎週(水)、準レギュラー）\[33\]
 
 ### テレビドラマ
 
   - [熱帯夜アカデミー](https://ja.wikipedia.org/wiki/熱帯夜アカデミー "wikilink") － マスカットリップス（[テレビ朝日系](../Page/オールニッポン・ニュースネットワーク.md "wikilink")、1989年4月11日 - 5月30日 毎週(火)深夜、全7回）
   - [コンプレックス 可愛いコになれない](https://ja.wikipedia.org/wiki/コンプレックス_可愛いコになれない "wikilink")（TBS系、1989年12月29日(金)）\[34\]
-  - [シャボン玉の消えた日](https://ja.wikipedia.org/wiki/シャボン玉ホリデー "wikilink")（日本テレビ系、1989年12月31日(日)）\[35\]
-  - [日本一のカッ飛び男](https://ja.wikipedia.org/wiki/日本一のカッ飛び男 "wikilink")（フジテレビ系、1990年5月14日(月)、ゲスト出演）\[36\]
+  - [シャボン玉の消えた日](../Page/シャボン玉ホリデー.md "wikilink")（日本テレビ系、1989年12月31日(日)）\[35\]
+  - [日本一のカッ飛び男](../Page/日本一のカッ飛び男.md "wikilink")（フジテレビ系、1990年5月14日(月)、ゲスト出演）\[36\]
 
 ### CM
 
-  - [明治製菓](https://ja.wikipedia.org/wiki/明治製菓 "wikilink")（1989年 - 1992年）
+  - [明治製菓](../Page/明治製菓.md "wikilink")（1989年 - 1992年）
 
 <!-- end list -->
 
@@ -436,7 +436,7 @@ WINK BEST</strong></p></td>
 
       -
         ディー・ディー（1989、1990、各年度版）
-        [マーブルチョコレート](https://ja.wikipedia.org/wiki/マーブルチョコレート "wikilink")（1989年度版）
+        [マーブルチョコレート](../Page/マーブルチョコレート.md "wikilink")（1989年度版）
         TRAD（1989、1990、各年度版）
         フレッシュ（1989、1990、1991、各年度版）
         ピックアップ（1990、1991、各年度版）
@@ -452,12 +452,12 @@ WINK BEST</strong></p></td>
       -
         [ヘッドホンステレオ](https://ja.wikipedia.org/wiki/パナソニックのヘッドホンステレオ "wikilink")（S-TYPE、RQ-S33\[37\]、RQ-S45、RQ-S35\[38\]、RQ-S35V\[39\]、RQ-S60\[40\]、RQ-S60V\[41\]）
         [ポータブルCDプレーヤー](https://ja.wikipedia.org/wiki/パナソニックのポータブルCDプレーヤー "wikilink")（SL-S30、SL-S500\[42\]、SL-S300\[43\]）
-        [マックロード](https://ja.wikipedia.org/wiki/マックロード "wikilink")M10
+        [マックロード](../Page/マックロード.md "wikilink")M10
         パーソナルコンポ
 
 <!-- end list -->
 
-  - [サンヨー食品](https://ja.wikipedia.org/wiki/サンヨー食品 "wikilink")（1989年）
+  - [サンヨー食品](../Page/サンヨー食品.md "wikilink")（1989年）
 
 <!-- end list -->
 
@@ -468,7 +468,7 @@ WINK BEST</strong></p></td>
 
 <!-- end list -->
 
-  - [山之内製薬](https://ja.wikipedia.org/wiki/山之内製薬 "wikilink")（1989年）
+  - [山之内製薬](../Page/山之内製薬.md "wikilink")（1989年）
 
 <!-- end list -->
 
@@ -479,7 +479,7 @@ WINK BEST</strong></p></td>
 
 <!-- end list -->
 
-  - [オリエント時計](https://ja.wikipedia.org/wiki/オリエント時計 "wikilink")（1989年）
+  - [オリエント時計](../Page/オリエント時計.md "wikilink")（1989年）
 
 <!-- end list -->
 
@@ -502,15 +502,15 @@ WINK BEST</strong></p></td>
 
 <!-- end list -->
 
-  - [厚生省](https://ja.wikipedia.org/wiki/厚生省 "wikilink")（1992年）
-  - [T\&E SOFT](https://ja.wikipedia.org/wiki/T&E_SOFT "wikilink")（1993年）
+  - [厚生省](../Page/厚生省.md "wikilink")（1992年）
+  - [T\&E SOFT](../Page/T&E_SOFT.md "wikilink")（1993年）
 
 <!-- end list -->
 
   -
 
       -
-        [ソード・ワールド](https://ja.wikipedia.org/wiki/ソード・ワールド "wikilink")[SFC](../Page/スーパーファミコン.md "wikilink")（[志茂田景樹](https://ja.wikipedia.org/wiki/志茂田景樹 "wikilink")と共演\[44\]）
+        [ソード・ワールド](https://ja.wikipedia.org/wiki/ソード・ワールド "wikilink")[SFC](../Page/スーパーファミコン.md "wikilink")（[志茂田景樹](../Page/志茂田景樹.md "wikilink")と共演\[44\]）
 
 <!-- end list -->
 
@@ -528,8 +528,8 @@ WINK BEST</strong></p></td>
 <!-- end list -->
 
   - [NTT九州](https://ja.wikipedia.org/wiki/NTT九州 "wikilink")（1994年）
-  - [ダンキンドーナツ](https://ja.wikipedia.org/wiki/ダンキンドーナツ "wikilink")（1994年）
-  - [シマダヤ](https://ja.wikipedia.org/wiki/シマダヤ "wikilink")（1994年）
+  - [ダンキンドーナツ](../Page/ダンキンドーナツ.md "wikilink")（1994年）
+  - [シマダヤ](../Page/シマダヤ.md "wikilink")（1994年）
 
 <!-- end list -->
 
@@ -551,7 +551,7 @@ WINK BEST</strong></p></td>
 
 <!-- end list -->
 
-  - [ユニ・チャーム](https://ja.wikipedia.org/wiki/ユニ・チャーム "wikilink")（1994年）
+  - [ユニ・チャーム](../Page/ユニ・チャーム.md "wikilink")（1994年）
 
 <!-- end list -->
 
@@ -562,7 +562,7 @@ WINK BEST</strong></p></td>
 
 <!-- end list -->
 
-  - [アサヒビール](https://ja.wikipedia.org/wiki/アサヒビール "wikilink")（1995年）
+  - [アサヒビール](../Page/アサヒビール.md "wikilink")（1995年）
 
 <!-- end list -->
 
@@ -588,12 +588,12 @@ WINK BEST</strong></p></td>
 
 ### ラジオ
 
-  - WINK 今にためいき（[ABCラジオ](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink")、1988年8月21日 - 10月9日 毎週(日)深夜、全8回）\[50\]\[51\]
-  - [あなたにWINK](https://ja.wikipedia.org/wiki/あなたにWINK "wikilink")（[ニッポン放送](https://ja.wikipedia.org/wiki/ニッポン放送 "wikilink")、1989年10月14日 - 1991年10月15日 毎週(土)、全104回）
+  - WINK 今にためいき（[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")、1988年8月21日 - 10月9日 毎週(日)深夜、全8回）\[50\]\[51\]
+  - [あなたにWINK](https://ja.wikipedia.org/wiki/あなたにWINK "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")、1989年10月14日 - 1991年10月15日 毎週(土)、全104回）
 
 ## 写真集
 
-  - Double Tone（ワニブックス、撮影：[野村誠一](https://ja.wikipedia.org/wiki/野村誠一 "wikilink")、1989年7月1日発売\[52\]、8月10日発行）ISBN 4-8470-2117-7
+  - Double Tone（ワニブックス、撮影：[野村誠一](../Page/野村誠一.md "wikilink")、1989年7月1日発売\[52\]、8月10日発行）ISBN 4-8470-2117-7
   - WINKISSIMO（ワニブックス、撮影：野村誠一、1990年8月1日発売\[53\]、9月10日発行）ISBN 4-8470-2151-7
   - レジェンド（ワニブックス、撮影：[眞継敏明](https://ja.wikipedia.org/wiki/眞継敏明 "wikilink")、1991年9月1日発売\[54\]、10月15日発行）ISBN 4-8470-2215-7
 
@@ -614,28 +614,28 @@ WINK BEST</strong></p></td>
   -
 ## 関連項目
 
-  - [ポリスター](https://ja.wikipedia.org/wiki/ポリスター "wikilink")
+  - [ポリスター](../Page/ポリスター.md "wikilink")
   - [アップライトミュージック](https://ja.wikipedia.org/wiki/アップライトミュージック "wikilink")
-  - [やまだかつてないWink](https://ja.wikipedia.org/wiki/やまだかつてないWink "wikilink")
+  - [やまだかつてないWink](../Page/やまだかつてないWink.md "wikilink")
   - [ザ・ピーナッツ](../Page/ザ・ピーナッツ.md "wikilink")
 
 ## 外部リンク
 
-  - [Wink 30周年特設サイト](http://www.polystar.co.jp/wink30th/)（[ポリスター](https://ja.wikipedia.org/wiki/ポリスター "wikilink")）
-  - [パチンコ CR Wink](http://www.fields.biz/catalog/cr_wink/index.html)（[ビスティ](https://ja.wikipedia.org/wiki/ビスティ "wikilink")社製）前者はリンク切れ
+  - [Wink 30周年特設サイト](http://www.polystar.co.jp/wink30th/)（[ポリスター](../Page/ポリスター.md "wikilink")）
+  - [パチンコ CR Wink](http://www.fields.biz/catalog/cr_wink/index.html)（[ビスティ](../Page/ビスティ.md "wikilink")社製）前者はリンク切れ
 
 [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:日本レコード大賞受賞者](https://ja.wikipedia.org/wiki/Category:日本レコード大賞受賞者 "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1988年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1988年に結成した音楽グループ "wikilink") [Category:1996年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に解散した音楽グループ "wikilink")
 
 1.  「してみます、夢の数だけ冒険心　お待たせっ！『ミスUPフェスティバル』グランプリのサッチン。ミス・アップ№7で大登場！　鈴木早智子」（『UP TO BOY』1987年5月号pp.2-11）。
 2.  「気弱なさびしんぼは寄っといで、秋色影絵のさわやか翔子。ミス・アップ№9はキミだけにトコトン優しいソフティ17歳。　相田翔子」（『UP TO BOY』1987年11月号pp.2-13）。
-3.  『[明星](https://ja.wikipedia.org/wiki/Myojo "wikilink")』1990年7月号p.25に掲載される鈴木早智子の独白によると、「花束っていうと、デビューの日を思い出します。88年4月27日。私たちはオフで、それぞれ自宅にいたら、事務所からデビュー記念の花束が届いたんです」とのことで、「Sugar Baby Love」の発売日1988年4月27日が「デビューの日」である。なお、このデビュー曲は、1988年4月14日(木)に放送開始した『[熱っぽいの\!](https://ja.wikipedia.org/wiki/熱っぽいの! "wikilink")』（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビ系列 "wikilink")）の主題歌として用いられたので、このドラマを通してWinkの「デビュー」前に公表されたことになる。
-4.  『[読売新聞](https://ja.wikipedia.org/wiki/読売新聞 "wikilink")』1989年7月8日朝刊第32面（『読売新聞[縮刷版](https://ja.wikipedia.org/wiki/新聞縮刷版 "wikilink")』1989年7月号p.404）および夕刊第16面（同前p.428）のテレビ番組表に番組放送予定記載あり。
-5.  上半期グランプリ受賞は「情熱つたわれWINK」（『[ザテレビジョン](https://ja.wikipedia.org/wiki/ザテレビジョン "wikilink")』1989年第31号）p.33（各地方版共通）などに言及あり。
-6.  『読売新聞縮刷版』1989年12月14日朝・夕刊TV番組表に放送予定あり。年間グランプリ受賞は『[スコラ](https://ja.wikipedia.org/wiki/スコラ "wikilink")』1990年5月10日号p.174などに言及あり。
+3.  『[明星](../Page/Myojo.md "wikilink")』1990年7月号p.25に掲載される鈴木早智子の独白によると、「花束っていうと、デビューの日を思い出します。88年4月27日。私たちはオフで、それぞれ自宅にいたら、事務所からデビュー記念の花束が届いたんです」とのことで、「Sugar Baby Love」の発売日1988年4月27日が「デビューの日」である。なお、このデビュー曲は、1988年4月14日(木)に放送開始した『[熱っぽいの\!](https://ja.wikipedia.org/wiki/熱っぽいの! "wikilink")』（[フジテレビ系](../Page/フジテレビ系列.md "wikilink")）の主題歌として用いられたので、このドラマを通してWinkの「デビュー」前に公表されたことになる。
+4.  『[読売新聞](../Page/読売新聞.md "wikilink")』1989年7月8日朝刊第32面（『読売新聞[縮刷版](../Page/新聞縮刷版.md "wikilink")』1989年7月号p.404）および夕刊第16面（同前p.428）のテレビ番組表に番組放送予定記載あり。
+5.  上半期グランプリ受賞は「情熱つたわれWINK」（『[ザテレビジョン](../Page/ザテレビジョン.md "wikilink")』1989年第31号）p.33（各地方版共通）などに言及あり。
+6.  『読売新聞縮刷版』1989年12月14日朝・夕刊TV番組表に放送予定あり。年間グランプリ受賞は『[スコラ](../Page/スコラ.md "wikilink")』1990年5月10日号p.174などに言及あり。
 7.  [「日本レコード大賞31」（『公益社団法人 日本作曲家協会』）](http://www.jacompa.or.jp/reco31.html)、2017年11月12日閲覧。
 8.  [「紅白歌合戦ヒストリー　第40回（1989年／平成1年）」（『NHKオンライン』）](https://www1.nhk.or.jp/kouhaku/history/history_40.html)、2017年11月12日閲覧。
-9.  『80年代アイドルcollection』pp.38-39の「80年代シングルランキングTOP50」では、1980年代におけるWinkのシングル総売上げは、年間ベスト50位以内のものに限れば191.3万枚、同書が認定した「80年代アイドル」中8位、年間ベスト50位以内ランクイン曲数は4曲、同じく「80年代アイドル」中8位とする。同様に1980年代において、「80年代アイドル」のシングルチャート最高位の座は1989年の1回としている。なお、同書における「80年代アイドル」の定義は、記載が無いため不明であるが、全員女性であり、また、1988年に星野裕子としてデビューして1990年の改名後にブレイクした、[かとうれいこ](https://ja.wikipedia.org/wiki/かとうれいこ "wikilink")が「80年代アイドル」に含まれている。
-10. 『80年代アイドルcollection』p.51に、出典や具体的な出演作品の例示が無いながら、言及がある。なお、本『Wikipedia』に立項されている「[鈴木早智子](https://ja.wikipedia.org/wiki/鈴木早智子 "wikilink")」と「[相田翔子](https://ja.wikipedia.org/wiki/相田翔子 "wikilink")」も参照。
+9.  『80年代アイドルcollection』pp.38-39の「80年代シングルランキングTOP50」では、1980年代におけるWinkのシングル総売上げは、年間ベスト50位以内のものに限れば191.3万枚、同書が認定した「80年代アイドル」中8位、年間ベスト50位以内ランクイン曲数は4曲、同じく「80年代アイドル」中8位とする。同様に1980年代において、「80年代アイドル」のシングルチャート最高位の座は1989年の1回としている。なお、同書における「80年代アイドル」の定義は、記載が無いため不明であるが、全員女性であり、また、1988年に星野裕子としてデビューして1990年の改名後にブレイクした、[かとうれいこ](../Page/かとうれいこ.md "wikilink")が「80年代アイドル」に含まれている。
+10. 『80年代アイドルcollection』p.51に、出典や具体的な出演作品の例示が無いながら、言及がある。なお、本『Wikipedia』に立項されている「[鈴木早智子](../Page/鈴木早智子.md "wikilink")」と「[相田翔子](https://ja.wikipedia.org/wiki/相田翔子 "wikilink")」も参照。
 11. [「突然の活動休止から22年、Wink活動再開を待望する声」（『NEWSポストセブン』2018年8月21日16:00）](https://www.news-postseven.com/archives/20180821_744238.html)、2018年10月16日閲覧。
 12.
 13. 『[マルコポロリ\!](https://ja.wikipedia.org/wiki/マルコポロリ! "wikilink")』（[関西テレビ](https://ja.wikipedia.org/wiki/関西テレビ "wikilink")、2008年7月13日(日)放送、鈴木早智子出演）。
@@ -654,8 +654,8 @@ WINK BEST</strong></p></td>
 26. [「相田翔子、Wink時代は「笑えなかった」スマイル練習も「本番になると緊張」」（『マイナビニュース』2017年9月19日）](http://news.mynavi.jp/news/2017/09/19/014/) 、2017年9月19日閲覧。
 27. [「伝説的サイケバンドを経て裏方に。水橋春夫の「いい加減」な才能」（『CINRA.NET』2016年7月25日）](https://www.cinra.net/interview/201607-mizuhashiharuo)、2018年1月14日閲覧。
 28. ここでの年月日は『はた金のオリコン・ザ・ビッグヒット』における公表日。『読売新聞縮刷版』1989年7月8日(土)朝刊ラジオ・FM番組表の同番組の欄に、「ウィンクイメージソング大発表」とある。
-29. 曲名の表記は『Twinkle Angels』（[ワニブックス](https://ja.wikipedia.org/wiki/ワニブックス "wikilink")、1990年4月10日）p.171の記載に従っている。
-30. 『[ザテレビジョン](https://ja.wikipedia.org/wiki/ザテレビジョン "wikilink")　首都圏版』1989年第22号の番組表p.72に番組放送・出演予定記載、同「TV番組解説」p.75に紹介記事あり。
+29. 曲名の表記は『Twinkle Angels』（[ワニブックス](../Page/ワニブックス.md "wikilink")、1990年4月10日）p.171の記載に従っている。
+30. 『[ザテレビジョン](../Page/ザテレビジョン.md "wikilink")　首都圏版』1989年第22号の番組表p.72に番組放送・出演予定記載、同「TV番組解説」p.75に紹介記事あり。
 31. 「NEWすたーれぽーと」（『ザテレビジョン』1991年第26号）p.53（各地方版共通）に番組放送・出演予定記載あり。
 32. [『Twinkle Angels』 1990](https://ja.wikipedia.org/wiki/#twinkle "wikilink"), p.170に紹介記事あり。
 33. 『ザテレビジョン』の1989年より1992年の各号における「NEWすたーれぽーと」（各地方版共通）に、1990年2月7日、4月18日、6月9日、7月25日、10月24日、11月21日、1991年1月16日、2月6日、4月10日、4月17日、6月12日、6月26日、8月21日、および1991年8月25日(日)（関西圏では9月1日(日)）のスペシャル番組『やまかつIN武道館』の番組放送・出演予定記載あり。

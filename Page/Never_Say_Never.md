@@ -7,8 +7,8 @@
 
   - [日本テレビのバラエティ番組](../Page/日本テレビ放送網.md "wikilink")『[進ぬ\!電波少年](../Page/進ぬ!電波少年.md "wikilink")』での[全米デビュー企画](https://ja.wikipedia.org/wiki/進ぬ!電波少年#電波少年的全米デビューへの道 "wikilink")（2000年8月～2001年2月）で、[ダイアナ・キング](https://ja.wikipedia.org/wiki/ダイアナ・キング "wikilink")や[セリーヌ・ディオン](https://ja.wikipedia.org/wiki/セリーヌ・ディオン "wikilink")などのプロデューサーであるに認められ得た楽曲の日本語バージョン。日本に凱旋帰国後、[2001年](../Page/2001年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")にリリースした。
   - [レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")テイストのアップテンポナンバー。カップリングには原曲の英語バージョンが収録された。
-  - 日本語詞は元[プリンセス・プリンセス](https://ja.wikipedia.org/wiki/プリンセス・プリンセス "wikilink")のギタリストで作詞家の[中山加奈子](https://ja.wikipedia.org/wiki/中山加奈子 "wikilink")が担当。電波少年での華原に感動した中山が逆オファーして日本語詞を提供した。
-  - ジャケット・[PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[鹿嶋の海で撮影](../Page/鹿嶋市.md "wikilink")。
+  - 日本語詞は元[プリンセス・プリンセス](https://ja.wikipedia.org/wiki/プリンセス・プリンセス "wikilink")のギタリストで作詞家の[中山加奈子](../Page/中山加奈子.md "wikilink")が担当。電波少年での華原に感動した中山が逆オファーして日本語詞を提供した。
+  - ジャケット・[PVは](../Page/ミュージック・ビデオ.md "wikilink")[茨城県](../Page/茨城県.md "wikilink")[鹿嶋の海で撮影](../Page/鹿嶋市.md "wikilink")。
   - 出荷枚数で15万枚に達するヒットとなった。
 
 ## 収録曲
@@ -22,8 +22,8 @@
   -
 
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")：Andy Marvel, Billy Mann & Jennifer Paige [編曲](../Page/編曲.md "wikilink")：Andy Marvel
-        日本語詞：[Kanako Nakayama](https://ja.wikipedia.org/wiki/中山加奈子 "wikilink")
+        [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")：Andy Marvel, Billy Mann & Jennifer Paige [編曲](../Page/編曲.md "wikilink")：Andy Marvel
+        日本語詞：[Kanako Nakayama](../Page/中山加奈子.md "wikilink")
 
 ## 収録アルバム
 
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - [ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")
+  - [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")
 
 <!-- end list -->
 

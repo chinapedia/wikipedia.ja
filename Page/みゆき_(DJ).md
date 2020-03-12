@@ -1,7 +1,7 @@
 > この記事は[ \(DJ\)](https://ja.wikipedia.org/wiki/_\(DJ\))から翻訳されています。
 
 
-**みゆき**（本名未公表、[1979年](../Page/1979年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink") - ）は、[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")を中心に活躍する[ディスクジョッキー](https://ja.wikipedia.org/wiki/ディスクジョッキー "wikilink")、[タレント](../Page/タレント.md "wikilink")である。[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身、[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[セイ](https://ja.wikipedia.org/wiki/セイ "wikilink")所属。愛称は「**みゆきちゃん**」。
+**みゆき**（本名未公表、[1979年](../Page/1979年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink") - ）は、[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")を中心に活躍する[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[タレント](../Page/タレント.md "wikilink")である。[大阪府](../Page/大阪府.md "wikilink")出身、[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[セイ](../Page/セイ.md "wikilink")所属。愛称は「**みゆきちゃん**」。
 
 ## 人物
 
@@ -20,9 +20,9 @@
   - spice-e（[e-radio](https://ja.wikipedia.org/wiki/FM滋賀 "wikilink")）
   - ボウリングフェスティバル（[奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")）
   - KICK OFF（[スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink")）
-  - [LOVE FLAP](https://ja.wikipedia.org/wiki/LOVE_FLAP "wikilink")（FM OSAKA、2007年5月23日）※[RIOの代理](https://ja.wikipedia.org/wiki/RIO_\(ディスクジョッキー\) "wikilink")
+  - [LOVE FLAP](../Page/LOVE_FLAP.md "wikilink")（FM OSAKA、2007年5月23日）※[RIOの代理](https://ja.wikipedia.org/wiki/RIO_\(ディスクジョッキー\) "wikilink")
   - MUSIC COASTER FRIDAY（FM OSAKA 金19:30-20:55、2007年10月-2009年3月）
-  - [MUSIC COASTER](https://ja.wikipedia.org/wiki/MUSIC_COASTER "wikilink")（[FM OSAKA](../Page/エフエム大阪.md "wikilink")、水・木曜日16:00-19:55、2005年4月-2009年10月）
+  - [MUSIC COASTER](../Page/MUSIC_COASTER.md "wikilink")（[FM OSAKA](../Page/エフエム大阪.md "wikilink")、水・木曜日16:00-19:55、2005年4月-2009年10月）
 
 <!-- end list -->
 

@@ -6,14 +6,14 @@
 ## 概要
 
   - [アストロボーイ・鉄腕アトム](../Page/アストロボーイ・鉄腕アトム.md "wikilink")のエンディングテーマ（第1話 - 第25話、第34話 - 第35話、第49話 - 第50話）
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に再発売されている。
-  - [レーベルゲート](https://ja.wikipedia.org/wiki/レーベルゲート "wikilink")CDとして発売された。アトムシール（全部で5種類＋シークレット2種類）1枚及びコンサートツアーTHE PARTY 2003（6月28日から9月28日）の先行予約案内が封入されていた。
+  - [2004年](../Page/2004年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に再発売されている。
+  - [レーベルゲート](../Page/レーベルゲート.md "wikilink")CDとして発売された。アトムシール（全部で5種類＋シークレット2種類）1枚及びコンサートツアーTHE PARTY 2003（6月28日から9月28日）の先行予約案内が封入されていた。
 
 ## 収録曲
 
 1.  BOY'S HEART
       -
-        作詞・作曲・歌:藤井フミヤ、編曲:[屋敷豪太](https://ja.wikipedia.org/wiki/屋敷豪太 "wikilink")
+        作詞・作曲・歌:藤井フミヤ、編曲:[屋敷豪太](../Page/屋敷豪太.md "wikilink")
 2.  DADAY'S HEART
       -
         作詞・作曲・歌:藤井フミヤ、編曲:屋敷豪太

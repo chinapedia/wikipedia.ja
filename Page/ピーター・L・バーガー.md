@@ -5,19 +5,19 @@
 
 ## 来歴
 
-バーガーは[オーストリア](../Page/オーストリア.md "wikilink")の[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")に[ユダヤ系](https://ja.wikipedia.org/wiki/ユダヤ系 "wikilink")として生まれた。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の直後に、[ナチスから逃れるためにアメリカ合衆国に](https://ja.wikipedia.org/wiki/国家社会主義ドイツ労働者党 "wikilink")[移住した](https://ja.wikipedia.org/wiki/移民 "wikilink")。[1949年](../Page/1949年.md "wikilink")、ニューヨークの私立大学ワーグナー・カレッジを卒業。ニューヨークの[ニュースクール・フォー・ソーシャル・リサーチ（New School for Social Research）に進学し](https://ja.wikipedia.org/wiki/ニュースクール大学 "wikilink")、[1950年](../Page/1950年.md "wikilink")にM.Aを取得、[1952年](../Page/1952年.md "wikilink")にPh.D.を取得した。
+バーガーは[オーストリア](../Page/オーストリア.md "wikilink")の[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")に[ユダヤ系](https://ja.wikipedia.org/wiki/ユダヤ系 "wikilink")として生まれた。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の直後に、[ナチスから逃れるためにアメリカ合衆国に](https://ja.wikipedia.org/wiki/国家社会主義ドイツ労働者党 "wikilink")[移住した](../Page/移民.md "wikilink")。[1949年](../Page/1949年.md "wikilink")、ニューヨークの私立大学ワーグナー・カレッジを卒業。ニューヨークの[ニュースクール・フォー・ソーシャル・リサーチ（New School for Social Research）に進学し](https://ja.wikipedia.org/wiki/ニュースクール大学 "wikilink")、[1950年](../Page/1950年.md "wikilink")にM.Aを取得、[1952年](../Page/1952年.md "wikilink")にPh.D.を取得した。
 
-[1955年](../Page/1955年.md "wikilink")から[1956年](../Page/1956年.md "wikilink")までドイツの都市[バート・ボル](https://ja.wikipedia.org/wiki/バート・ボル "wikilink")のプロテスタント学校に勤務した後、1956年から[1958年](../Page/1958年.md "wikilink")まで[ノースカロライナ大学助教授](https://ja.wikipedia.org/wiki/ノースカロライナ大学チャペルヒル校 "wikilink")。1958年から[1963年](../Page/1963年.md "wikilink")まで[ハートフォード神学校の助教授](https://ja.wikipedia.org/wiki/ハートフォード_\(コネチカット州\) "wikilink")。その後、ニュースクール・フォー・ソーシャル・リサーチ、[ラトガース大学](https://ja.wikipedia.org/wiki/ラトガース大学 "wikilink")、[ボストンカレッジ](https://ja.wikipedia.org/wiki/ボストンカレッジ "wikilink")の教授職を歴任した。[1981年](../Page/1981年.md "wikilink")以降は[ボストン大学](https://ja.wikipedia.org/wiki/ボストン大学 "wikilink")教授として社会学と神学を教えた。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")以降、同大学附属の経済文化研究所Institute for the Study of Economic Cultureにも勤務。世界各地の経済的発展と社会文化的変化の関係を包括的に研究している。
+[1955年](../Page/1955年.md "wikilink")から[1956年](../Page/1956年.md "wikilink")までドイツの都市[バート・ボル](https://ja.wikipedia.org/wiki/バート・ボル "wikilink")のプロテスタント学校に勤務した後、1956年から[1958年](../Page/1958年.md "wikilink")まで[ノースカロライナ大学助教授](../Page/ノースカロライナ大学チャペルヒル校.md "wikilink")。1958年から[1963年](../Page/1963年.md "wikilink")まで[ハートフォード神学校の助教授](../Page/ハートフォード_\(コネチカット州\).md "wikilink")。その後、ニュースクール・フォー・ソーシャル・リサーチ、[ラトガース大学](../Page/ラトガース大学.md "wikilink")、[ボストンカレッジ](../Page/ボストンカレッジ.md "wikilink")の教授職を歴任した。[1981年](../Page/1981年.md "wikilink")以降は[ボストン大学](../Page/ボストン大学.md "wikilink")教授として社会学と神学を教えた。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")以降、同大学附属の経済文化研究所Institute for the Study of Economic Cultureにも勤務。世界各地の経済的発展と社会文化的変化の関係を包括的に研究している。
 
-バーガーの作品はいわゆる[現象学的社会学](https://ja.wikipedia.org/wiki/現象学的社会学 "wikilink")ないし[理解社会学](../Page/理解社会学.md "wikilink")の思潮に属している。バーガーはこの考え方をニュースクール・フォー・ソーシャル・リサーチ時代に教授であった[アルフレッド・シュッツ](https://ja.wikipedia.org/wiki/アルフレッド・シュッツ "wikilink")から学んだ。トーマス・ルックマンも当時の学友である。なおバーガーの亡くなる4日前に、『故郷喪失者たち』『社会学再考』の共著者ケルナーも亡くなっている\[2\]。ケルナーはバーガーの妻の弟で(ピーター・バーガー『退屈させずに世界を説明する方法』[森下伸也](https://ja.wikipedia.org/wiki/森下伸也 "wikilink")訳、2015年、新曜社,ｐ.103）、バーガーの息子[トーマス・バーガー](https://ja.wikipedia.org/wiki/トーマス・バーガー "wikilink")が大学時代にフランクフルト大学（[ヨハン・ヴォルフガング・ゲーテ大学](https://ja.wikipedia.org/wiki/ヨハン・ヴォルフガング・ゲーテ大学 "wikilink")）に留学した際の受け入れ教員でもある\[3\]。
+バーガーの作品はいわゆる[現象学的社会学](https://ja.wikipedia.org/wiki/現象学的社会学 "wikilink")ないし[理解社会学](../Page/理解社会学.md "wikilink")の思潮に属している。バーガーはこの考え方をニュースクール・フォー・ソーシャル・リサーチ時代に教授であった[アルフレッド・シュッツ](../Page/アルフレッド・シュッツ.md "wikilink")から学んだ。トーマス・ルックマンも当時の学友である。なおバーガーの亡くなる4日前に、『故郷喪失者たち』『社会学再考』の共著者ケルナーも亡くなっている\[2\]。ケルナーはバーガーの妻の弟で(ピーター・バーガー『退屈させずに世界を説明する方法』[森下伸也](../Page/森下伸也.md "wikilink")訳、2015年、新曜社,ｐ.103）、バーガーの息子[トーマス・バーガー](../Page/トーマス・バーガー.md "wikilink")が大学時代にフランクフルト大学（[ヨハン・ヴォルフガング・ゲーテ大学](https://ja.wikipedia.org/wiki/ヨハン・ヴォルフガング・ゲーテ大学 "wikilink")）に留学した際の受け入れ教員でもある\[3\]。
 
 ## 理論
 
 おそらくバーガーの見解で最も有名なものは〈社会的現実は意識の一形態である〉という主張であろう。社会と個人の関係についての考察がバーガーの著作の中心を占めている。バーガーは主著『現実の社会的構成』において、「社会とは客観的現実であり、主観的現実でもある」とする社会理論を展開している。主観的現実としての社会についての彼の分析によれば、個人が現実を把握するプロセスは、その個人の社会構造との相互作用によって作り出される。バーガーは、新しい見解や発明がどのようにしてわれわれの現実となっていくのか（バーガーの言い方では「物化reification」）について書いている\[4\]。
 
-バーガーは1980年代後半までに、宗教（旧来のものもニューエイジ・ムーブメントも含む）はまだ健在であり、多くの場合以前よりかなり活発になっていることを公に認めるようになった。ただしバーガーは、[多元主義と](https://ja.wikipedia.org/wiki/多元論 "wikilink")[グローバリゼーション](../Page/グローバリゼーション.md "wikilink")の進展によって個人の信仰のあり方が根本的に変化したため、宗教があらかじめ受け容れられているものから個人が探究し嗜好に応じて選択するものに変わったと述べている。
+バーガーは1980年代後半までに、宗教（旧来のものもニューエイジ・ムーブメントも含む）はまだ健在であり、多くの場合以前よりかなり活発になっていることを公に認めるようになった。ただしバーガーは、[多元主義と](../Page/多元論.md "wikilink")[グローバリゼーション](../Page/グローバリゼーション.md "wikilink")の進展によって個人の信仰のあり方が根本的に変化したため、宗教があらかじめ受け容れられているものから個人が探究し嗜好に応じて選択するものに変わったと述べている。
 
-[合理的選択理論](https://ja.wikipedia.org/wiki/合理的選択理論 "wikilink")に想を受けて、宗教的な「企業」（教会）と「消費者」（信仰する個人）の行動を説明しようとする宗教社会学の「新しいパラダイム」の勃興にも拘わらず、バーガーの思考は今日なお宗教社会学において多くの影響を保っている。代表的な研究者として、ボストン大学の同僚であるロバート・ヘフナー（Robert Hefner）、教え子であるマイケル・プレクホン（Michael Plekhon）、ナンシー・アママン（Nancy Ammerman）、愛弟子で[ベイラー大学](https://ja.wikipedia.org/wiki/ベイラー大学 "wikilink")ドーソン政教研究所所員のクリストファー・マーシュ（Christopher Marsh）など。
+[合理的選択理論](../Page/合理的選択理論.md "wikilink")に想を受けて、宗教的な「企業」（教会）と「消費者」（信仰する個人）の行動を説明しようとする宗教社会学の「新しいパラダイム」の勃興にも拘わらず、バーガーの思考は今日なお宗教社会学において多くの影響を保っている。代表的な研究者として、ボストン大学の同僚であるロバート・ヘフナー（Robert Hefner）、教え子であるマイケル・プレクホン（Michael Plekhon）、ナンシー・アママン（Nancy Ammerman）、愛弟子で[ベイラー大学](../Page/ベイラー大学.md "wikilink")ドーソン政教研究所所員のクリストファー・マーシュ（Christopher Marsh）など。
 
 ## 主要著作
 
@@ -39,7 +39,7 @@
 <!-- end list -->
 
   -
-    [薗田稔](https://ja.wikipedia.org/wiki/薗田稔 "wikilink")訳『聖なる天蓋――神聖世界の社会学』（[新曜社](https://ja.wikipedia.org/wiki/新曜社 "wikilink"), 1979年）
+    [薗田稔](../Page/薗田稔.md "wikilink")訳『聖なる天蓋――神聖世界の社会学』（[新曜社](../Page/新曜社.md "wikilink"), 1979年）
 
 <!-- end list -->
 
@@ -81,7 +81,7 @@
 <!-- end list -->
 
   -
-    [森下伸也](https://ja.wikipedia.org/wiki/森下伸也 "wikilink")訳『癒しとしての笑い――ピーター・バーガーのユーモア論』（新曜社, 1999年） ISBN 4788506661
+    [森下伸也](../Page/森下伸也.md "wikilink")訳『癒しとしての笑い――ピーター・バーガーのユーモア論』（新曜社, 1999年） ISBN 4788506661
 
 <!-- end list -->
 

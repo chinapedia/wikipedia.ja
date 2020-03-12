@@ -5,10 +5,10 @@
 
 ## メンバー
 
-  - **長尾達樹**（ながおたつき、[1979年](../Page/1979年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") - ）ボーカル・ギター。現[nano sound museum](https://ja.wikipedia.org/wiki/nano_sound_museum "wikilink")。[岐阜県](../Page/岐阜県.md "wikilink")[本巣郡](../Page/本巣郡.md "wikilink")[北方町](https://ja.wikipedia.org/wiki/北方町 "wikilink")出身
+  - **長尾達樹**（ながおたつき、[1979年](../Page/1979年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") - ）ボーカル・ギター。現[nano sound museum](https://ja.wikipedia.org/wiki/nano_sound_museum "wikilink")。[岐阜県](../Page/岐阜県.md "wikilink")[本巣郡](../Page/本巣郡.md "wikilink")[北方町](../Page/北方町.md "wikilink")出身
   - **須一了祐**（すいちりょうすけ、[8月1日](../Page/8月1日.md "wikilink") - ）ギター。ex.[zany](https://ja.wikipedia.org/wiki/zany "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")出身
-  - **HIDEO**（ひでお、[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink") - ）ベース。[広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")出身。現[FOX LOCO PHANTOM](https://ja.wikipedia.org/wiki/FOX_LOCO_PHANTOM "wikilink")。
-  - **梶谷雅弘**（かじたにまさひろ、[1月20日](../Page/1月20日.md "wikilink") - ）ドラム。ex.[KELUN](../Page/KELUN.md "wikilink")、現nano sound museum。[鳥取県](../Page/鳥取県.md "wikilink")[日野郡](../Page/日野郡.md "wikilink")[日野町出身](https://ja.wikipedia.org/wiki/日野町_\(鳥取県\) "wikilink")
+  - **HIDEO**（ひでお、[1月1日](../Page/1月1日.md "wikilink") - ）ベース。[広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")出身。現[FOX LOCO PHANTOM](https://ja.wikipedia.org/wiki/FOX_LOCO_PHANTOM "wikilink")。
+  - **梶谷雅弘**（かじたにまさひろ、[1月20日](../Page/1月20日.md "wikilink") - ）ドラム。ex.[KELUN](../Page/KELUN.md "wikilink")、現nano sound museum。[鳥取県](../Page/鳥取県.md "wikilink")[日野郡](../Page/日野郡.md "wikilink")[日野町出身](../Page/日野町_\(鳥取県\).md "wikilink")
 
 ## ディスコグラフィー
 

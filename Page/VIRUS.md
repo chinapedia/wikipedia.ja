@@ -1,7 +1,7 @@
 > この記事は[VIRUS](https://ja.wikipedia.org/wiki/VIRUS)から翻訳されています。
 
 
-『**VIRUS**』（ウイルス）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")に発売された日本の[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。[ハドソン](../Page/ハドソン.md "wikilink")、[セガ・エンタープライゼス](https://ja.wikipedia.org/wiki/セガ・エンタープライゼス "wikilink")、[エイベックスの三社共同プロジェクトで](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、クリーチャーデザインには[韮澤靖が参加している](https://ja.wikipedia.org/wiki/韮沢靖 "wikilink")。
+『**VIRUS**』（ウイルス）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")に発売された日本の[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。[ハドソン](../Page/ハドソン.md "wikilink")、[セガ・エンタープライゼス](https://ja.wikipedia.org/wiki/セガ・エンタープライゼス "wikilink")、[エイベックスの三社共同プロジェクトで](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、クリーチャーデザインには[韮澤靖が参加している](../Page/韮沢靖.md "wikilink")。
 
 ## 概要
 
@@ -28,10 +28,10 @@
     声 - [皆口裕子](../Page/皆口裕子.md "wikilink")
     STAND捜査官。サージのパートナーを務める。ネット内の知識に詳しく、情報処理能力に長けている。前のパートナーの殉職に責任を感じている。
   - レオン・シャデックス
-    声 - [菅原正志](https://ja.wikipedia.org/wiki/菅原正志 "wikilink")
+    声 - [菅原正志](../Page/菅原正志.md "wikilink")
     ブルーメタル隊の隊長でありサージの兄。ウイルス掃討戦において意識データが行方不明になり、現在においても意識が戻らない状態である。
   - ヘレン・ミラー
-    声 - [佐々木るん](https://ja.wikipedia.org/wiki/佐々木るん "wikilink")
+    声 - [佐々木るん](../Page/佐々木るん.md "wikilink")
     レオンの恋人であり、ブルーメタルの隊員。ニュークボムを開発するなど優れた能力を持つ。ウイルス掃討戦において死亡。
   - メロディ
     声 - [笠原弘子](../Page/笠原弘子.md "wikilink")
@@ -40,13 +40,13 @@
     声 - [速水奨](../Page/速水奨.md "wikilink")
     STANDの研究員であり、理学博士、電脳工学修士、情報工学修士号を持つ。軍人嫌いであり、サージと対立することがある。
   - ベンゲル・フォン・ツァイネル
-    声 - [石田太郎](https://ja.wikipedia.org/wiki/石田太郎 "wikilink")
+    声 - [石田太郎](../Page/石田太郎.md "wikilink")
     火星ネットを運営するツァイネル社の創始者。マクノートン博士と共にネットOS“NOAシリーズ”を開発。
   - ウォルフガング・ゲイリー
     声 - [玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")
     火星電脳軍ネット災害対策部門責任者。火星電脳軍特殊技能開発研究所所長を経て現職へ至る。冷酷無比な性格で、STANDとは捜査件について対立している。
   - エイブラハム・マクノートン
-    声 - [小林清志](https://ja.wikipedia.org/wiki/小林清志 "wikilink")
+    声 - [小林清志](../Page/小林清志.md "wikilink")
     電脳犯罪者。知能指数230、18もの学位を持つ天才科学者。電脳空間、人工知能、遺伝子工学の権威である。ある事件以降、犯罪に手を染めるようになり起訴件数は75件。現在、電脳刑務所に服役中。
   - ドナ
     声 - [佐久間レイ](../Page/佐久間レイ.md "wikilink")
@@ -57,9 +57,9 @@
 
 ## メディアミックス作品
 
-[大張正己](https://ja.wikipedia.org/wiki/大張正己 "wikilink")原案で、[角川書店](../Page/角川書店.md "wikilink")『[月刊少年エース](https://ja.wikipedia.org/wiki/月刊少年エース "wikilink")』増刊『エースDASH』に[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化作品が連載され、1997年10月から12月にかけて本作を原作とする[アニメ](../Page/アニメ.md "wikilink")作品が[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送された。タイトルは『VIRUS ‐ウイルスバスター・サージ‐』。同名の人物、企業などの一致点はあるが話の内容は全く別物である。戦闘時にはヴァリアブル・ギアと呼ばれる強化プロテクターを装着するという、アニメ独自の要素も導入された。なお、アニメ作品をベースとしたゲームがプレイステーションで発売された。
+[大張正己](../Page/大張正己.md "wikilink")原案で、[角川書店](../Page/角川書店.md "wikilink")『[月刊少年エース](https://ja.wikipedia.org/wiki/月刊少年エース "wikilink")』増刊『エースDASH』に[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化作品が連載され、1997年10月から12月にかけて本作を原作とする[アニメ](../Page/アニメ.md "wikilink")作品が[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送された。タイトルは『VIRUS ‐ウイルスバスター・サージ‐』。同名の人物、企業などの一致点はあるが話の内容は全く別物である。戦闘時にはヴァリアブル・ギアと呼ばれる強化プロテクターを装着するという、アニメ独自の要素も導入された。なお、アニメ作品をベースとしたゲームがプレイステーションで発売された。
 
-[ポリグラムからVHSビデオ版](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")、[カルチュア・パブリッシャーズ](https://ja.wikipedia.org/wiki/カルチュア・パブリッシャーズ "wikilink")からDVD版が全4巻が発売された。
+[ポリグラムからVHSビデオ版](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、[カルチュア・パブリッシャーズ](https://ja.wikipedia.org/wiki/カルチュア・パブリッシャーズ "wikilink")からDVD版が全4巻が発売された。
 
 ### 漫画化作品
 
@@ -73,39 +73,39 @@
   - エリカ・チネン - [飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
   - ミレイ・G・コールダー - [池澤春菜](https://ja.wikipedia.org/wiki/池澤春菜 "wikilink")
   - ジョウイチロウ・カブラギ - [檜山修之](../Page/檜山修之.md "wikilink")
-  - マーカス・A・ボガード - [難波圭一](https://ja.wikipedia.org/wiki/難波圭一 "wikilink")
+  - マーカス・A・ボガード - [難波圭一](../Page/難波圭一.md "wikilink")
   - レイヴェン - [鈴置洋孝](https://ja.wikipedia.org/wiki/鈴置洋孝 "wikilink")
-  - ブレインリザード - [矢尾一樹](https://ja.wikipedia.org/wiki/矢尾一樹 "wikilink")
+  - ブレインリザード - [矢尾一樹](../Page/矢尾一樹.md "wikilink")
   - リリー・ペトリ - [根谷美智子](../Page/根谷美智子.md "wikilink")
   - リー・ユイリン・メイナス - [平松晶子](../Page/平松晶子.md "wikilink")
   - ミラン・トゥレイン - [中尾隆聖](../Page/中尾隆聖.md "wikilink")
 
 #### スタッフ
 
-  - 監督・キャラクターデザイン - [大張正己](https://ja.wikipedia.org/wiki/大張正己 "wikilink")
+  - 監督・キャラクターデザイン - [大張正己](../Page/大張正己.md "wikilink")
   - シリーズ構成 - 相馬和彦、[金子二郎](https://ja.wikipedia.org/wiki/金子二郎 "wikilink")、STUDIO G-1
   - メカデザイン - まみやなつき
   - 美術監督 - [吉原俊一郎](https://ja.wikipedia.org/wiki/吉原俊一郎 "wikilink")
   - 撮影監督 - 大瀧勝之
-  - 音響監督 - [亀山俊樹](https://ja.wikipedia.org/wiki/亀山俊樹 "wikilink")
+  - 音響監督 - [亀山俊樹](../Page/亀山俊樹.md "wikilink")
   - 音楽 - [大森俊之](https://ja.wikipedia.org/wiki/大森俊之 "wikilink")
   - アニメーションプロデューサー - 梅原勝
   - プロデューサー - 馬渡智子、猪股一彦、青木建彦
   - アニメーション制作 - PLUM
-  - 製作 - [未来計画](https://ja.wikipedia.org/wiki/ディーライツ "wikilink")、[ポリグラム](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")、[創通映像](https://ja.wikipedia.org/wiki/創通映像 "wikilink")
+  - 製作 - [未来計画](https://ja.wikipedia.org/wiki/ディーライツ "wikilink")、[ポリグラム](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、[創通映像](https://ja.wikipedia.org/wiki/創通映像 "wikilink")
 
 #### 主題歌
 
   - オープニングテーマ「[Rainy day and day](https://ja.wikipedia.org/wiki/Rainy_Day_And_Day "wikilink")」
-    作詞・作曲 - [降谷建志](https://ja.wikipedia.org/wiki/降谷建志 "wikilink") / 編曲・歌 - [Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")
+    作詞・作曲 - [降谷建志](../Page/降谷建志.md "wikilink") / 編曲・歌 - [Dragon Ash](../Page/Dragon_Ash.md "wikilink")
   - エンディングテーマ「Heavenly Blue」
-    作詞 - [柚木美祐](https://ja.wikipedia.org/wiki/柚木美祐 "wikilink") / 作曲 - [来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink") / 編曲 - [柿崎洋一郎](https://ja.wikipedia.org/wiki/柿崎洋一郎 "wikilink") / 歌 - 高野蘭
+    作詞 - [柚木美祐](https://ja.wikipedia.org/wiki/柚木美祐 "wikilink") / 作曲 - [来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink") / 編曲 - [柿崎洋一郎](../Page/柿崎洋一郎.md "wikilink") / 歌 - 高野蘭
   - 挿入歌「さよならの街で」（第5話）
     作詞 - 柚木美祐 / 作曲 - 来生たかお / 編曲 - 柿崎洋一郎 / 歌 - 高野蘭
   - 挿入歌「INVITATION」（第10話）
     作詞・作曲 - 降谷建志 / 編曲 - Dragon Ash、土方隆行 / 歌 - Dragon Ash
   - テーマソング「true gate」
-    歌 - [Favorite Blue](https://ja.wikipedia.org/wiki/Favorite_Blue "wikilink")
+    歌 - [Favorite Blue](../Page/Favorite_Blue.md "wikilink")
 
 #### 各話リスト
 
@@ -125,7 +125,7 @@
 <tr class="odd">
 <td><p>第1話</p></td>
 <td><p>CUTTHROAT PUPPETS</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大張正己" title="wikilink">大張正己</a><br />
+<td><p><a href="../Page/大張正己.md" title="wikilink">大張正己</a><br />
 <a href="https://ja.wikipedia.org/wiki/金子二郎" title="wikilink">金子二郎</a></p></td>
 <td><p>大張正己</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a></strong><br />
@@ -136,16 +136,16 @@
 <tr class="even">
 <td><p>第2話</p></td>
 <td><p>THE PATH VIA HELL</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/都留稔幸" title="wikilink">都留稔幸</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/谷口悟朗" title="wikilink">谷口悟朗</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木崎文智" title="wikilink">木崎文智</a></p></td>
+<td><p><a href="../Page/都留稔幸.md" title="wikilink">都留稔幸</a></p></td>
+<td><p><a href="../Page/谷口悟朗.md" title="wikilink">谷口悟朗</a></p></td>
+<td><p><a href="../Page/木崎文智.md" title="wikilink">木崎文智</a></p></td>
 <td><p><a href="../Page/10月9日.md" title="wikilink">10月9日</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>第3話</p></td>
 <td><p>WE STAND ALONE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/水上清資" title="wikilink">水上清資</a><br />
+<td><p><a href="../Page/水上清資.md" title="wikilink">水上清資</a><br />
 大張正己<br />
 反田誠二</p></td>
 <td><p>大張正己</p></td>
@@ -157,7 +157,7 @@
 <td><p>第4話</p></td>
 <td><p>DEEP DOWN EXPOSURE</p></td>
 <td><p>水上清資</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/まついひとゆき" title="wikilink">まついひとゆき</a></p></td>
+<td><p><a href="../Page/まついひとゆき.md" title="wikilink">まついひとゆき</a></p></td>
 <td><p>浜崎賢一</p></td>
 <td><p><a href="../Page/10月23日.md" title="wikilink">10月23日</a></p></td>
 <td></td>
@@ -166,7 +166,7 @@
 <td><p>第5話</p></td>
 <td><p>INCUBATING THE SUCCUBUS</p></td>
 <td><p>浅井健吾</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中澤一登" title="wikilink">中沢一登</a></p></td>
+<td><p><a href="../Page/中澤一登.md" title="wikilink">中沢一登</a></p></td>
 <td><p>村山靖</p></td>
 <td><p>前田明寿</p></td>
 <td><p><a href="../Page/10月30日.md" title="wikilink">10月30日</a></p></td>
@@ -178,7 +178,7 @@
 大張正己<br />
 金子二郎</p></td>
 <td><p>大張正己</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木下ゆうき" title="wikilink">木下ゆうき</a></p></td>
+<td><p><a href="../Page/木下ゆうき.md" title="wikilink">木下ゆうき</a></p></td>
 <td><p><a href="../Page/11月6日.md" title="wikilink">11月6日</a></p></td>
 <td></td>
 </tr>
@@ -233,7 +233,7 @@
 大張正己</p></td>
 <td><p>阿蒜晃士</p></td>
 <td><p>まついひとゆき</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/紺野直幸" title="wikilink">紺野直幸</a><br />
+<td><p><a href="../Page/紺野直幸.md" title="wikilink">紺野直幸</a><br />
 石川慎亮</p></td>
 <td><p><a href="../Page/12月11日.md" title="wikilink">12月11日</a></p></td>
 </tr>

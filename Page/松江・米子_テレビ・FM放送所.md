@@ -5,11 +5,11 @@
 
 ## 放送区域
 
-民放の地上デジタル放送におけるこの送信所の[電波法](../Page/電波法.md "wikilink")に定める放送区域（1mV/m）は[鳥取県](../Page/鳥取県.md "wikilink")[境港市](../Page/境港市.md "wikilink")及び[日吉津村](https://ja.wikipedia.org/wiki/日吉津村 "wikilink")の全域並びに島根県[松江市](../Page/松江市.md "wikilink")、[出雲市](../Page/出雲市.md "wikilink")、[安来市](https://ja.wikipedia.org/wiki/安来市 "wikilink")、[雲南市](https://ja.wikipedia.org/wiki/雲南市 "wikilink")、鳥取県[米子市](../Page/米子市.md "wikilink")、[大山町](https://ja.wikipedia.org/wiki/大山町 "wikilink")及び[伯耆町](https://ja.wikipedia.org/wiki/伯耆町 "wikilink")の各一部、19万5496世帯である。
+民放の地上デジタル放送におけるこの送信所の[電波法](../Page/電波法.md "wikilink")に定める放送区域（1mV/m）は[鳥取県](../Page/鳥取県.md "wikilink")[境港市](../Page/境港市.md "wikilink")及び[日吉津村](../Page/日吉津村.md "wikilink")の全域並びに島根県[松江市](../Page/松江市.md "wikilink")、[出雲市](../Page/出雲市.md "wikilink")、[安来市](../Page/安来市.md "wikilink")、[雲南市](../Page/雲南市.md "wikilink")、鳥取県[米子市](../Page/米子市.md "wikilink")、[大山町](../Page/大山町.md "wikilink")及び[伯耆町](../Page/伯耆町.md "wikilink")の各一部、19万5496世帯である。
 
 またNHKはそれぞれ松江放送局（親局）が鳥取県境港市の全域並びに松江市、出雲市、安来市、雲南市及び鳥取県米子市の各一部17万8660世帯で、鳥取放送局（米子中継局）が鳥取県境港市及び日吉津村の全域並びに鳥取県米子市、大山町、伯耆町、島根県松江市及び安来市の各一部、1万6836世帯である。
 
-NHKは[県域放送](../Page/県域放送.md "wikilink")となっていることから、ここに置かれているNHK松江・鳥取のデジタルテレビはそれぞれ相手県に電波が飛ばないよう、指向性が設けられている。しかし[松江と米子の電波事情もあり完全なものではないため島根県安来市や松江市の](https://ja.wikipedia.org/wiki/電波相互乗り入れ "wikilink")[中海](https://ja.wikipedia.org/wiki/中海 "wikilink")沿岸、鳥取県境港市や米子市周辺ではNHK松江・鳥取両局が視聴でき、周辺の[CATV局のうち](../Page/ケーブルテレビ.md "wikilink")[やすぎどじょっこテレビと](../Page/山陰ケーブルビジョン.md "wikilink")[中海テレビ放送](../Page/中海テレビ放送.md "wikilink")に至ってはその両局の[総合テレビを](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[パススルー再送信する程である](https://ja.wikipedia.org/wiki/ケーブルテレビ#パススルー方式 "wikilink")（[NHK総合の2局再放送](https://ja.wikipedia.org/wiki/区域外再放送#NHK総合の2局再放送 "wikilink")）。
+NHKは[県域放送](../Page/県域放送.md "wikilink")となっていることから、ここに置かれているNHK松江・鳥取のデジタルテレビはそれぞれ相手県に電波が飛ばないよう、指向性が設けられている。しかし[松江と米子の電波事情もあり完全なものではないため島根県安来市や松江市の](https://ja.wikipedia.org/wiki/電波相互乗り入れ "wikilink")[中海](../Page/中海.md "wikilink")沿岸、鳥取県境港市や米子市周辺ではNHK松江・鳥取両局が視聴でき、周辺の[CATV局のうち](../Page/ケーブルテレビ.md "wikilink")[やすぎどじょっこテレビと](../Page/山陰ケーブルビジョン.md "wikilink")[中海テレビ放送](../Page/中海テレビ放送.md "wikilink")に至ってはその両局の[総合テレビを](../Page/NHK総合テレビジョン.md "wikilink")[パススルー再送信する程である](https://ja.wikipedia.org/wiki/ケーブルテレビ#パススルー方式 "wikilink")（[NHK総合の2局再放送](https://ja.wikipedia.org/wiki/区域外再放送#NHK総合の2局再放送 "wikilink")）。
 
 ## 歴史
 
@@ -20,19 +20,19 @@ NHKは[県域放送](../Page/県域放送.md "wikilink")となっていること
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）
       - [3月1日](../Page/3月1日.md "wikilink") - NHK松江放送局FMラジオ放送開局。
       - 12月15日 - [山陰中央テレビジョン放送](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")（TSK）試験放送開始。（開局日）
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）[4月1日](../Page/4月1日.md "wikilink") - TSK本放送開始。
+  - [1970年](../Page/1970年.md "wikilink")（昭和45年）[4月1日](../Page/4月1日.md "wikilink") - TSK本放送開始。
   - [1972年](../Page/1972年.md "wikilink")（昭和47年）[9月22日](../Page/9月22日.md "wikilink") - [日本海テレビジョン放送](../Page/日本海テレビジョン放送.md "wikilink")（NKT）松江中継局開局。
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[10月1日](../Page/10月1日.md "wikilink") - [エフエム山陰](../Page/エフエム山陰.md "wikilink")開局。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") - [NHK鳥取放送局](../Page/NHK鳥取放送局.md "wikilink")総合テレビ米子中継局開局。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[11月15日](../Page/11月15日.md "wikilink") - [総務省](../Page/総務省.md "wikilink")より地上デジタル放送[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")交付（NHK鳥取米子中継局を除く）。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）[11月15日](../Page/11月15日.md "wikilink") - [総務省](../Page/総務省.md "wikilink")より地上デジタル放送[予備免許](../Page/予備免許.md "wikilink")交付（NHK鳥取米子中継局を除く）。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）
       - [7月28日](../Page/7月28日.md "wikilink") - NHK鳥取米子中継局地上デジタル放送予備免許交付。
       - [8月1日](../Page/8月1日.md "wikilink") - 全局地上デジタル放送試験電波（PN信号のみ）発射開始。澄水山山頂で竣工式。
       - [8月25日](../Page/8月25日.md "wikilink") - 全局地上デジタル放送試験放送開始。これにより一般チューナーでの視聴が可能に（日中にフィラーでのみ）。
-      - [9月1日](../Page/9月1日.md "wikilink") - 全局地上デシタル試験放送のアナログ放送とのサイマル放送開始。同時に[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")放送開始。
-      - [9月28日](../Page/9月28日.md "wikilink") - 全局地上デジタル放送[無線局免許状](https://ja.wikipedia.org/wiki/無線局免許状 "wikilink")交付。
+      - [9月1日](../Page/9月1日.md "wikilink") - 全局地上デシタル試験放送のアナログ放送とのサイマル放送開始。同時に[ワンセグ](../Page/ワンセグ.md "wikilink")放送開始。
+      - [9月28日](../Page/9月28日.md "wikilink") - 全局地上デジタル放送[無線局免許状](../Page/無線局免許状.md "wikilink")交付。
       - 10月1日 - 全局地上デシタル放送本放送開始。
-  - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月24日](../Page/7月24日.md "wikilink") - 正午をもってアナログでの通常の放送が終了し、24時までに[停波](https://ja.wikipedia.org/wiki/停波 "wikilink")して廃局となった。
+  - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月24日](../Page/7月24日.md "wikilink") - 正午をもってアナログでの通常の放送が終了し、24時までに[停波](../Page/停波.md "wikilink")して廃局となった。
   - [2014年](../Page/2014年.md "wikilink")（平成26年）[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") - [ジャパン・モバイルキャスティング](https://ja.wikipedia.org/wiki/ジャパン・モバイルキャスティング "wikilink")が[マルチメディア放送](https://ja.wikipedia.org/wiki/マルチメディア放送 "wikilink")の中継局を設置
   - [2016年](../Page/2016年.md "wikilink")（平成28年）[6月3日](../Page/6月3日.md "wikilink") - [ジャパン・モバイルキャスティング](https://ja.wikipedia.org/wiki/ジャパン・モバイルキャスティング "wikilink")が[マルチメディア放送](https://ja.wikipedia.org/wiki/マルチメディア放送 "wikilink")の中継局を閉局
 
@@ -60,17 +60,17 @@ NHK鳥取およびNKTを除くデジタル全局とFM山陰の親局送信所な
 ### 地上デジタルテレビジョン放送
 
   - 枕木山:[島根県](../Page/島根県.md "wikilink")[松江市](../Page/松江市.md "wikilink")邑生町字庄ヶ谷
-  - 澄水山:島根県松江市[島根町](https://ja.wikipedia.org/wiki/島根町 "wikilink")加賀4757番地12号
+  - 澄水山:島根県松江市[島根町](../Page/島根町.md "wikilink")加賀4757番地12号
 
 <table>
 <thead>
 <tr class="header">
 <th><p><a href="../Page/リモコンキーID.md" title="wikilink">ID</a></p></th>
 <th><p>3桁</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/日本のテレビジョン放送局" title="wikilink">放送局名</a></p></th>
+<th><p><a href="../Page/日本のテレビジョン放送局.md" title="wikilink">放送局名</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/識別信号" title="wikilink">コールサイン</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">物理ch</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">物理ch</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="../Page/放送対象地域.md" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送区域" title="wikilink">放送区域</a>内世帯数</p></th>
@@ -79,7 +79,7 @@ NHK鳥取およびNKTを除くデジタル全局とFM山陰の親局送信所な
 （×はマルチ編成の番号）</p></th>
 <th><p>特殊ch<br />
 局名表記</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/ワンセグ" title="wikilink">ワンセグ</a><br />
+<th><p><a href="../Page/ワンセグ.md" title="wikilink">ワンセグ</a><br />
 局名表記</p></th>
 </tr>
 </thead>
@@ -109,7 +109,7 @@ NHK鳥取およびNKTを除くデジタル全局とFM山陰の親局送信所な
 022<br />
 023<br />
 621</p></td>
-<td><p><a href="../Page/NHK松江放送局.md" title="wikilink">NHK松江</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育テレビ</a></p></td>
+<td><p><a href="../Page/NHK松江放送局.md" title="wikilink">NHK松江</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育テレビ</a></p></td>
 <td><p>JOTB-DTV</p></td>
 <td><p>19</p></td>
 <td><p>8.5kW</p></td>
@@ -126,7 +126,7 @@ NHK鳥取およびNKTを除くデジタル全局とFM山陰の親局送信所な
 <td><p>031<br />
 032<br />
 631</p></td>
-<td><p>NHK松江<a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合テレビ</a></p></td>
+<td><p>NHK松江<a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合テレビ</a></p></td>
 <td><p>JOTK-DTV</p></td>
 <td><p>21</p></td>
 <td><p>島根県</p></td>
@@ -210,7 +210,7 @@ NHK鳥取およびNKTを除くデジタル全局とFM山陰の親局送信所な
 <td></td>
 </tr>
 <tr class="even">
-<td><p>※全局<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>（平成18年）<a href="../Page/10月1日.md" title="wikilink">10月1日</a>放送開始</p></td>
+<td><p>※全局<a href="../Page/2006年.md" title="wikilink">2006年</a>（平成18年）<a href="../Page/10月1日.md" title="wikilink">10月1日</a>放送開始</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -348,7 +348,7 @@ NHK鳥取およびNKTを除くデジタル全局とFM山陰の親局送信所な
   - 枕木山:[島根県](../Page/島根県.md "wikilink")[松江市](../Page/松江市.md "wikilink")枕木町487番地
   - 澄水山:島根県松江市上本庄町字小屋谷2331番地
 
-| [周波数](../Page/周波数.md "wikilink")（[MHz](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink")） | [放送局名](https://ja.wikipedia.org/wiki/日本のラジオ放送局 "wikilink")        | コールサイン  | 空中線電力      | ERP                              | 放送対象地域          | 放送区域内世帯数 | 設置場所 |
+| [周波数](../Page/周波数.md "wikilink")（[MHz](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink")） | [放送局名](../Page/日本のラジオ放送局.md "wikilink")                           | コールサイン  | 空中線電力      | ERP                              | 放送対象地域          | 放送区域内世帯数 | 設置場所 |
 | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------- | ---------- | -------------------------------- | --------------- | -------- | ---- |
 | 77.4                                                                                    | V-air[エフエム山陰](../Page/エフエム山陰.md "wikilink")松江本局                   | JOVU-FM | 500W       | 1.25kW                           | 島根県・鳥取県         | \-       | 澄水山  |
 | 84.5                                                                                    | NHK松江[FM放送](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")      | JOTK-FM | 2.3kW      | [島根県](../Page/島根県.md "wikilink") | 約160,000世帯      | 枕木山      |      |

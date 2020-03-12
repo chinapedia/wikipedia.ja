@@ -1,7 +1,7 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CR花満開**（シーアールはなまんかい）は、[1993年](../Page/1993年.md "wikilink")6月に[ソフィアが開発し](https://ja.wikipedia.org/wiki/ソフィア_\(パチンコ\) "wikilink")、[西陣が販売したCR](https://ja.wikipedia.org/wiki/西陣_\(企業\) "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。[CR機](https://ja.wikipedia.org/wiki/CR機 "wikilink")の黎明期の機種で、西陣のCR機としては『[CRうちどめくん](https://ja.wikipedia.org/wiki/CRうちどめくん "wikilink")』、『[CR一気](https://ja.wikipedia.org/wiki/CR一気 "wikilink")』に続く3作目にあたり、CR機の普及に大きく貢献した。
+**CR花満開**（シーアールはなまんかい）は、[1993年](../Page/1993年.md "wikilink")6月に[ソフィアが開発し](../Page/ソフィア_\(パチンコ\).md "wikilink")、[西陣が販売したCR](../Page/西陣_\(企業\).md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。[CR機](../Page/CR機.md "wikilink")の黎明期の機種で、西陣のCR機としては『[CRうちどめくん](https://ja.wikipedia.org/wiki/CRうちどめくん "wikilink")』、『[CR一気](https://ja.wikipedia.org/wiki/CR一気 "wikilink")』に続く3作目にあたり、CR機の普及に大きく貢献した。
 
 CR花満開は多くの後継機種が発表されており、初代発表から20周年を迎えた。シリーズとなるのは『CR花満伝説』、『CR花満』、『CR花満開極』、『CR花満開煌』、『スロット花満開』、『CR花満開MT』、『CR花満開麗』、『CR花満開彩』、『CR花満開極上』、最新作の『CR甦りぱちんこ〜花満開〜』となる。『麗』以降、花満開シリーズでは異例の3年連続の新作発表となり、メーカー側も『極上』の発表後、しばらくシリーズの発表は休むと発言したが、2015年に『甦りぱちんこ』を発表した。
 
@@ -9,14 +9,14 @@ CR花満開は多くの後継機種が発表されており、初代発表から
 
 ### 概要
 
-デジタルは『[ルーキーパステル](https://ja.wikipedia.org/wiki/ルーキーパステル "wikilink")』（1991年）で初めて採用された[蛍光表示管](https://ja.wikipedia.org/wiki/蛍光表示管 "wikilink") (FIP) によるドット式表示であったが、ドットが桜の花びらを模した形になっており、桜の花びらが舞い散るような演出をしていた。[スーパーリーチ時には](https://ja.wikipedia.org/wiki/リーチ_\(パチンコ\) "wikilink")「[さくらさくら](https://ja.wikipedia.org/wiki/さくらさくら "wikilink")」をアレンジしたBGMと共に、図柄が花びらとなって舞い散る。
+デジタルは『[ルーキーパステル](https://ja.wikipedia.org/wiki/ルーキーパステル "wikilink")』（1991年）で初めて採用された[蛍光表示管](https://ja.wikipedia.org/wiki/蛍光表示管 "wikilink") (FIP) によるドット式表示であったが、ドットが桜の花びらを模した形になっており、桜の花びらが舞い散るような演出をしていた。[スーパーリーチ時には](../Page/リーチ_\(パチンコ\).md "wikilink")「[さくらさくら](../Page/さくらさくら.md "wikilink")」をアレンジしたBGMと共に、図柄が花びらとなって舞い散る。
 
   - 大当り確率（当時のCR機は、ホール側で大当り確率を3段階に設定することができた。大当たり確率はメーカー発表（かっこ内は高確率の値））
       - 設定1 - 1/269（1/53.8）
       - 設定2 - 1/289（1/57.8）
       - 設定3 - 1/308（1/61.6）
   - 大当たり後の保留玉1つ目 1/8
-  - 大当たり図柄「0 - 9、桜、花、宝、月、光」。[確率変動](https://ja.wikipedia.org/wiki/確率変動 "wikilink")図柄「3、7」。
+  - 大当たり図柄「0 - 9、桜、花、宝、月、光」。[確率変動](../Page/確率変動.md "wikilink")図柄「3、7」。
   - 確変割合は、突入率が2/15で、確変中には「3、7」の出現率が6/15となり、以後2回の大当たりまで継続。高確率状態中に確変図柄で当たった場合はさらにその時点から2回大当たりするまで高確率状態が継続する。
   - 同時期に兄弟機種として、『花百景』『サイタサイタ』を発売している。
 
@@ -26,7 +26,7 @@ CR花満開は多くの後継機種が発表されており、初代発表から
 
 ## 花満伝説
 
-**花満伝説**（はなまんでんせつ）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7月に[ソフィアが開発し](https://ja.wikipedia.org/wiki/ソフィア_\(パチンコ\) "wikilink")、[西陣が販売した](https://ja.wikipedia.org/wiki/西陣_\(企業\) "wikilink")[CR機](https://ja.wikipedia.org/wiki/CR機 "wikilink")または[現金機](https://ja.wikipedia.org/wiki/現金機 "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。『CR花満開』の後継シリーズ。
+**花満伝説**（はなまんでんせつ）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7月に[ソフィアが開発し](../Page/ソフィア_\(パチンコ\).md "wikilink")、[西陣が販売した](../Page/西陣_\(企業\).md "wikilink")[CR機](../Page/CR機.md "wikilink")または[現金機](../Page/現金機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。『CR花満開』の後継シリーズ。
 
 ### 仕様
 
@@ -36,7 +36,7 @@ CR花満開は多くの後継機種が発表されており、初代発表から
 
 ## 花満
 
-**花満**（はなまん）は、[2001年](../Page/2001年.md "wikilink")10月に[ソフィアが開発し](https://ja.wikipedia.org/wiki/ソフィア_\(パチンコ\) "wikilink")、[西陣が販売した](https://ja.wikipedia.org/wiki/西陣_\(企業\) "wikilink")[CR機](https://ja.wikipedia.org/wiki/CR機 "wikilink")または[現金機](https://ja.wikipedia.org/wiki/現金機 "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。『CR花満開』の後継シリーズで、キャッチコピーは「CR花満開 21世紀に復活\!\!」。
+**花満**（はなまん）は、[2001年](../Page/2001年.md "wikilink")10月に[ソフィアが開発し](../Page/ソフィア_\(パチンコ\).md "wikilink")、[西陣が販売した](../Page/西陣_\(企業\).md "wikilink")[CR機](../Page/CR機.md "wikilink")または[現金機](../Page/現金機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。『CR花満開』の後継シリーズで、キャッチコピーは「CR花満開 21世紀に復活\!\!」。
 
 ### 特徴
 
@@ -72,7 +72,7 @@ CR花満開は多くの後継機種が発表されており、初代発表から
 
 ## CR花満開極
 
-**CR花満開極**（はなまんかいきわめ）は、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")に[ソフィアが開発し](https://ja.wikipedia.org/wiki/ソフィア_\(パチンコ\) "wikilink")、[西陣が販売したCR](https://ja.wikipedia.org/wiki/西陣_\(企業\) "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。パチンコ版『CR花満開』シリーズ。歌手、[クレアがイメージソングを歌う](https://ja.wikipedia.org/wiki/Clair "wikilink")。 シリーズとして初の「スキップ機能」を搭載しており、回転中にPUSHボタンを押すことで図柄を即止め(約1秒後に停止)できた。また、桜の枝の役モノが作動する「役モノステップアップ予告」や、保留のつぼみが咲き花になり、さらに赤くなると期待度がアップする「保留予告」など、予告のバリエーションも増えた。大当たり中に再抽選を行うシステムもこの「極」が初となる。
+**CR花満開極**（はなまんかいきわめ）は、[2004年](../Page/2004年.md "wikilink")に[ソフィアが開発し](../Page/ソフィア_\(パチンコ\).md "wikilink")、[西陣が販売したCR](../Page/西陣_\(企業\).md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。パチンコ版『CR花満開』シリーズ。歌手、[クレアがイメージソングを歌う](../Page/Clair.md "wikilink")。 シリーズとして初の「スキップ機能」を搭載しており、回転中にPUSHボタンを押すことで図柄を即止め(約1秒後に停止)できた。また、桜の枝の役モノが作動する「役モノステップアップ予告」や、保留のつぼみが咲き花になり、さらに赤くなると期待度がアップする「保留予告」など、予告のバリエーションも増えた。大当たり中に再抽選を行うシステムもこの「極」が初となる。
 
 ### 仕様
 
@@ -91,7 +91,7 @@ CR花満開は多くの後継機種が発表されており、初代発表から
 
 ## 花満開煌
 
-**花満開煌**（はなまんかいきらめき）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[ソフィアが開発し](https://ja.wikipedia.org/wiki/ソフィア_\(パチンコ\) "wikilink")、[西陣が販売した](https://ja.wikipedia.org/wiki/西陣_\(企業\) "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。パチンコ版『CR花満開』シリーズ。前作『極』に引き続き、大当たりラウンド中に流れるイメージソングを[クレアが歌っている](https://ja.wikipedia.org/wiki/Clair "wikilink")。
+**花満開煌**（はなまんかいきらめき）は、[2006年](../Page/2006年.md "wikilink")に[ソフィアが開発し](../Page/ソフィア_\(パチンコ\).md "wikilink")、[西陣が販売した](../Page/西陣_\(企業\).md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。パチンコ版『CR花満開』シリーズ。前作『極』に引き続き、大当たりラウンド中に流れるイメージソングを[クレアが歌っている](../Page/Clair.md "wikilink")。
 
 ### 特徴
 
@@ -120,13 +120,13 @@ CR花満開は多くの後継機種が発表されており、初代発表から
 
 ## スロット花満開
 
-**スロット花満開**（-はなまんかい）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に[ソフィアが開発し](https://ja.wikipedia.org/wiki/ソフィア_\(パチンコ\) "wikilink")、[西陣が販売した](https://ja.wikipedia.org/wiki/西陣_\(企業\) "wikilink")[パチスロ](../Page/パチスロ.md "wikilink")機。パチンコ版『CR花満開』のシリーズ。西陣の初の5号機。
+**スロット花満開**（-はなまんかい）は、[2007年](../Page/2007年.md "wikilink")に[ソフィアが開発し](../Page/ソフィア_\(パチンコ\).md "wikilink")、[西陣が販売した](../Page/西陣_\(企業\).md "wikilink")[パチスロ](../Page/パチスロ.md "wikilink")機。パチンコ版『CR花満開』のシリーズ。西陣の初の5号機。
 
 『スロット花満開AR1』と『スロット花満開H2』（通称・サクラ吹雪タイプ）の2機種がある。
 
 ## CR花満開MT
 
-**CR花満開MT**（はなまんかいえむてぃー）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[ソフィアが開発し](https://ja.wikipedia.org/wiki/ソフィア_\(パチンコ\) "wikilink")、[西陣が販売した](https://ja.wikipedia.org/wiki/西陣_\(企業\) "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。前々作『極』、前作『煌』に引き続き、大当たりラウンド中に流れるイメージソングを[クレアが歌っている](https://ja.wikipedia.org/wiki/Clair "wikilink")。
+**CR花満開MT**（はなまんかいえむてぃー）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[ソフィアが開発し](../Page/ソフィア_\(パチンコ\).md "wikilink")、[西陣が販売した](../Page/西陣_\(企業\).md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。前々作『極』、前作『煌』に引き続き、大当たりラウンド中に流れるイメージソングを[クレアが歌っている](../Page/Clair.md "wikilink")。
 
 ### 特徴
 
@@ -223,13 +223,13 @@ CR花満開は多くの後継機種が発表されており、初代発表から
 
 ## CR甦りぱちんこ〜花満開〜
 
-**CR甦りぱちんこ〜花満開〜**（よみがえりぱちんこ はなまんかい）は、[2015年](../Page/2015年.md "wikilink")に[ソフィアが開発し](https://ja.wikipedia.org/wiki/ソフィア_\(パチンコ\) "wikilink")、[西陣が販売した](https://ja.wikipedia.org/wiki/西陣_\(企業\) "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。
+**CR甦りぱちんこ〜花満開〜**（よみがえりぱちんこ はなまんかい）は、[2015年](../Page/2015年.md "wikilink")に[ソフィアが開発し](../Page/ソフィア_\(パチンコ\).md "wikilink")、[西陣が販売した](../Page/西陣_\(企業\).md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。
 
 ### 特徴
 
 初代CR花満開の演出を再現。予告演出が一切ない「クラシックモード」、先読み予告を搭載した「予告モード」、大当り告知機能を搭載した「告知モード」の3つの演出モードから選べる。
 
-本作では花満開以外にも複数の機種の演出を搭載している。導入当初は「花満開」と「[麻王](https://ja.wikipedia.org/wiki/麻王 "wikilink")」の2機種を遊ぶことができ、導入日から2週間後（最短で5月2日）に「[花鳥風月](https://ja.wikipedia.org/wiki/花鳥風月_\(パチンコ\) "wikilink")」、4週間後（最短で5月16日）に「[球界王](https://ja.wikipedia.org/wiki/CR球界王 "wikilink")」も遊べるようになる。解禁前の機種でも1時間に1回の「体験モード」でお試し遊技できる。全機種解禁後は体験モードの告知画面は他機種紹介の告知画面となり、ボタンを押すことでそこで紹介された機種へ変更することができる。
+本作では花満開以外にも複数の機種の演出を搭載している。導入当初は「花満開」と「[麻王](https://ja.wikipedia.org/wiki/麻王 "wikilink")」の2機種を遊ぶことができ、導入日から2週間後（最短で5月2日）に「[花鳥風月](https://ja.wikipedia.org/wiki/花鳥風月_\(パチンコ\) "wikilink")」、4週間後（最短で5月16日）に「[球界王](../Page/CR球界王.md "wikilink")」も遊べるようになる。解禁前の機種でも1時間に1回の「体験モード」でお試し遊技できる。全機種解禁後は体験モードの告知画面は他機種紹介の告知画面となり、ボタンを押すことでそこで紹介された機種へ変更することができる。
 
 ### 大当たり
 
@@ -246,7 +246,7 @@ CR花満開は多くの後継機種が発表されており、初代発表から
 
   - ノーマルリーチ
   - 花満開スーパーリーチ
-      - [さくらさくら](https://ja.wikipedia.org/wiki/さくらさくら "wikilink")をアレンジしたBGMと共に、図柄が花びらとなって舞い散る。3・7の確変図柄のリーチは激アツ。
+      - [さくらさくら](../Page/さくらさくら.md "wikilink")をアレンジしたBGMと共に、図柄が花びらとなって舞い散る。3・7の確変図柄のリーチは激アツ。
   - 麻王ロングリーチ
   - 花鳥風月ロングリーチ
   - 球界王ロングリーチ
@@ -267,7 +267,7 @@ CR花満開は多くの後継機種が発表されており、初代発表から
 
 「極」から登場した本シリーズのヒロイン。本シリーズ共通の高期待度を誇る「花満開リーチ」や、大当たり中のラウンド背景などに登場する。
 
-[海物語シリーズ](https://ja.wikipedia.org/wiki/海物語シリーズ "wikilink")の[マリンちゃん](https://ja.wikipedia.org/wiki/マリンちゃん "wikilink")などのような人物設定の詳細は明らかにされていないが、ゆったりとした白の着物に長く美しい黒髪が特徴。[ピアス](https://ja.wikipedia.org/wiki/ピアス "wikilink")のようなものを身に着けている以外はシンプルな装いだが、プレミア演出においてはティアラに豪奢な衣装を纏った姿も披露している。
+[海物語シリーズ](../Page/海物語シリーズ.md "wikilink")の[マリンちゃん](../Page/マリンちゃん.md "wikilink")などのような人物設定の詳細は明らかにされていないが、ゆったりとした白の着物に長く美しい黒髪が特徴。[ピアス](../Page/ピアス.md "wikilink")のようなものを身に着けている以外はシンプルな装いだが、プレミア演出においてはティアラに豪奢な衣装を纏った姿も披露している。
 
 また、CR花満開MTでは、一定の条件を達成することで彼女の正体が明らかにされるプレミアムラウンドを見ることができる。
 
@@ -275,6 +275,6 @@ CR花満開は多くの後継機種が発表されており、初代発表から
 
   - 『西陣パチンコ物語』（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")6月23日、[KSS](https://ja.wikipedia.org/wiki/KSS "wikilink")、[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ゲームソフト）
   - 『西陣パチンコ三昧第一巻』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月28日、[KSS](https://ja.wikipedia.org/wiki/KSS "wikilink")、[Windows用PCゲームソフト](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")）
-  - 『西陣パチンコ徹底攻略 CR花満速報\&CRおばけらんど』（[2001年](../Page/2001年.md "wikilink")10月11日、[メディアリング](https://ja.wikipedia.org/wiki/メディアリング "wikilink")、[プレイステーション用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")）
+  - 『西陣パチンコ徹底攻略 CR花満速報\&CRおばけらんど』（[2001年](../Page/2001年.md "wikilink")10月11日、[メディアリング](../Page/メディアリング.md "wikilink")、[プレイステーション用ゲームソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")）
 
 [Category:西陣_(企業)](https://ja.wikipedia.org/wiki/Category:西陣_\(企業\) "wikilink")

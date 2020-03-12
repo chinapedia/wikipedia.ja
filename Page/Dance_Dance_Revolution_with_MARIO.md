@@ -1,15 +1,15 @@
 > この記事は[Dance Dance Revolution with MARIO](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution_with_MARIO)から翻訳されています。
 
 
-『**Dance Dance Revolution with MARIO**』（ダンスダンスレボリューション ウィズ マリオ）は、[任天堂](../Page/任天堂.md "wikilink")より[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月14日](../Page/7月14日.md "wikilink")に発売された[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用ダンスシミュレーションゲームである。
+『**Dance Dance Revolution with MARIO**』（ダンスダンスレボリューション ウィズ マリオ）は、[任天堂](../Page/任天堂.md "wikilink")より[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で[2005年](../Page/2005年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に発売された[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用ダンスシミュレーションゲームである。
 
 同年に[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")では『**Dance Dance Revolution MARIO MIX**』（ダンスダンスレボリューション ウィズ マリオ ミックス）、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では『**Dancing Stage MARIO MIX**』（ダンシングステージ マリオ ミックス）のタイトルで発売された。
 
 ## 概要
 
-[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")のダンスゲーム『[Dance Dance Revolution](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution "wikilink")』 シリーズ （以下、『DDR』）と[マリオシリーズ](https://ja.wikipedia.org/wiki/マリオシリーズ "wikilink")との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")作品であり、家庭用ハードのオリジナル作品である。収録[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")の多くは過去のマリオシリーズで使用された楽曲のアレンジが占めており、その他は有名な[クラシック音楽](../Page/クラシック音楽.md "wikilink")などのアレンジとなっている。なお、コナミオリジナルの楽曲は収録されていない。
+[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")のダンスゲーム『[Dance Dance Revolution](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution "wikilink")』 シリーズ （以下、『DDR』）と[マリオシリーズ](../Page/マリオシリーズ.md "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")作品であり、家庭用ハードのオリジナル作品である。収録[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")の多くは過去のマリオシリーズで使用された楽曲のアレンジが占めており、その他は有名な[クラシック音楽](../Page/クラシック音楽.md "wikilink")などのアレンジとなっている。なお、コナミオリジナルの楽曲は収録されていない。
 
-オリジナルの『DDR』と比べて、コアなプレイヤー向けの要素（フリーズアロー、DOUBLEモード、各種オプション等）を排除し、全体的な難易度も下げるなど、これまで『DDR』をプレイしたことがない人でもプレイしやすいように設計されている。また、[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")で消費した[カロリー](../Page/カロリー.md "wikilink")を計算してくれる機能も搭載されている。
+オリジナルの『DDR』と比べて、コアなプレイヤー向けの要素（フリーズアロー、DOUBLEモード、各種オプション等）を排除し、全体的な難易度も下げるなど、これまで『DDR』をプレイしたことがない人でもプレイしやすいように設計されている。また、[ダンス](../Page/ダンス.md "wikilink")で消費した[カロリー](../Page/カロリー.md "wikilink")を計算してくれる機能も搭載されている。
 
 ソフトにはニンテンドーゲームキューブ用[マットコントローラが同梱されている](https://ja.wikipedia.org/wiki/ニンテンドーゲームキューブ#周辺機器 "wikilink")。また、ソフトには2台目のマットコントローラー注文書の葉書が入っており、希望者に3,000円で追加販売も行っていた。このマットコントローラーは[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")で発売されている『DDR』シリーズでも使用可能である。
 
@@ -26,7 +26,7 @@
     普通の矢印と同じように、タイミングを合わせて踏めばよい。
   - [ノコノコ](../Page/ノコノコ.md "wikilink")
     1回踏むとひっくり返る。2回目を「パーフェクト」で踏むと、下に転がっていき、ぶつかった矢印を消してくれる。
-  - [テレサ](https://ja.wikipedia.org/wiki/テレサ_\(ゲームキャラクター\) "wikilink")
+  - [テレサ](../Page/テレサ_\(ゲームキャラクター\).md "wikilink")
     矢印やテレサを踏み逃してしまうと、画面に大きなテレサが出てきて邪魔をする。小さいテレサを踏めば、テレサを画面の下へ追い払える。
   - 氷のトゲトゲ
     踏むとダンスゲージが大きく減ってしまう。
@@ -55,7 +55,7 @@
 
 ### その他キャラクター
 
-  - [ジュゲム](https://ja.wikipedia.org/wiki/ジュゲム "wikilink")
+  - [ジュゲム](../Page/ジュゲム.md "wikilink")
     アイテムショップの店員。プレイヤーに有利になるアイテムや通常プレイでは得られない楽曲を販売してくれる。ワールド1では畑を管理していたりもする。
   - キノピコ
     ホテルを経営している。
@@ -83,7 +83,7 @@
 
 #### ステージ3
 
-[遊園地](https://ja.wikipedia.org/wiki/遊園地 "wikilink")にたどり着いたマリオ達。しかし、遊園地の入り口には[ハンマーブロス](https://ja.wikipedia.org/wiki/ハンマーブロス "wikilink")が待ち構えていた。やっとのことで遊園地に入ると、ミュージックオーブを持ったワリオが現れた。マリオ達は[ジェットコースター](https://ja.wikipedia.org/wiki/ジェットコースター "wikilink")に乗り、[お化け屋敷](../Page/お化け屋敷.md "wikilink")に入り、[ワンワンに追っかけられて](https://ja.wikipedia.org/wiki/ワンワン_\(ゲームキャラクター\) "wikilink")、やっとワリオを追い詰め、ダンス対決することになる。
+[遊園地](../Page/遊園地.md "wikilink")にたどり着いたマリオ達。しかし、遊園地の入り口には[ハンマーブロス](../Page/ハンマーブロス.md "wikilink")が待ち構えていた。やっとのことで遊園地に入ると、ミュージックオーブを持ったワリオが現れた。マリオ達は[ジェットコースター](https://ja.wikipedia.org/wiki/ジェットコースター "wikilink")に乗り、[お化け屋敷](../Page/お化け屋敷.md "wikilink")に入り、[ワンワンに追っかけられて](../Page/ワンワン_\(ゲームキャラクター\).md "wikilink")、やっとワリオを追い詰め、ダンス対決することになる。
 
 #### ステージ4
 
@@ -91,7 +91,7 @@
 
 #### ステージ5
 
-4つのミュージックオーブを封印するためにキノコキャッスルに戻ったマリオはキノピオに封印を任せたが、その直後にクッパがミュージックオーブを盗み出してしまった。急いでクッパ城へ行かなければならない。[キラーの大群の猛攻をうまくかわして到着したマリオは](https://ja.wikipedia.org/wiki/キラー_\(ゲームキャラクター\) "wikilink")、そこでクッパと最後のダンス対決をすることになる。
+4つのミュージックオーブを封印するためにキノコキャッスルに戻ったマリオはキノピオに封印を任せたが、その直後にクッパがミュージックオーブを盗み出してしまった。急いでクッパ城へ行かなければならない。[キラーの大群の猛攻をうまくかわして到着したマリオは](../Page/キラー_\(ゲームキャラクター\).md "wikilink")、そこでクッパと最後のダンス対決をすることになる。
 
 ### フリーモード
 
@@ -122,44 +122,44 @@
 
 ## 楽曲
 
-| 日本語タイトル              | 英語タイトル                         | ステージ  | 出典ゲーム作品もしくは原曲名、使用箇所など                                                                 |
-| -------------------- | ------------------------------ | ----- | ------------------------------------------------------------------------------------- |
-| ヒア・ウィ・ゴー             | Here We Go\!                   | 1-1   | [スーパーマリオブラザーズ](../Page/スーパーマリオブラザーズ.md "wikilink")                                    |
-| 土管の中のモーツァルト          | Underground Mozart             | 1-2   | [アイネ・クライネ・ナハトムジーク](https://ja.wikipedia.org/wiki/アイネ・クライネ・ナハトムジーク "wikilink")         |
-| パペットダンス              | Pipe Pop                       | 1-2EX | [トルコ行進曲](https://ja.wikipedia.org/wiki/ピアノソナタ第11番_\(モーツァルト\) "wikilink")              |
-| パラパラカルメン             | Garden Boogie                  | 1-3   | [カルメン](../Page/カルメン_\(オペラ\).md "wikilink")                                            |
-| 月夜にぶちこわせ             | Destruction Dance              | 1-4   | [レッキングクルー](../Page/レッキングクルー.md "wikilink")                                            |
-| ジャンプ\! ジャンプ\! ジャンプ\! | Jump\! Jump\! Jump\!           | 2-1   | [スーパーマリオブラザーズ3](https://ja.wikipedia.org/wiki/スーパーマリオブラザーズ3 "wikilink")               |
-| みんなでパーティタイム          | Fishing Frenzy                 | 2-2   | [クシコスの郵便馬車](https://ja.wikipedia.org/wiki/クシコス・ポスト "wikilink")                        |
-| 転がるコインのように           | Pirate Dance                   | 2-2EX | [スーパーマリオワールド](../Page/スーパーマリオワールド.md "wikilink")                                      |
-| 風のかなたに               | In the Whirlpool               | 2-3   | [威風堂々](https://ja.wikipedia.org/wiki/威風堂々_\(行進曲\) "wikilink")                         |
-| ステップ・バイ・ステップ         | Step by Step                   | 2-3EX | スーパーマリオワールド                                                                           |
-| 泳げ四分音符               | Blooper Bop                    | 2-4   | スーパーマリオブラザーズ                                                                          |
-| クエ・テ・バヤ・マリオ          | Hammer Dance                   | 3-1   | スーパーマリオブラザーズ3                                                                         |
-| スーパーマシーン             | Rollercoasting                 | 3-2   | \[\[マリオカート_ダブルダッシュ                                                                   |
-| ほっぴンちょっぴン            | Boo Boogie                     | 3-3   | [スーパーマリオUSA](../Page/スーパーマリオUSA.md "wikilink")                                        |
-| ヒゲとタルとゴリラ            | Moustache, Barrel, and Gorilla | 3-3EX | [ドンキーコング](../Page/ドンキーコング.md "wikilink")                                              |
-| オレ様がスターだ\!           | Starring Wario\!               | 3-4   | [ワリオワールド](https://ja.wikipedia.org/wiki/ワリオワールド "wikilink")                           |
-| 気分はハイ・ホー             | Frozen Pipes                   | 4-1   | [故郷の人々](https://ja.wikipedia.org/wiki/故郷の人々 "wikilink")                               |
-| マリオのカーニバル            | Cabin Fever                    | 4-2   | [マリオパーティ5](https://ja.wikipedia.org/wiki/マリオパーティ5 "wikilink")                         |
-| チューチューテクノ            | Ms. Mowz's Song                | 4-2EX | [ペーパーマリオRPG](https://ja.wikipedia.org/wiki/ペーパーマリオRPG "wikilink")                     |
-| ハッピーハッピーダンス          | Deep Freeze                    | 4-3   | [ドクターマリオ](../Page/ドクターマリオ.md "wikilink")                                              |
-| 氷の上でランデブー            | Rendezvous on Ice              | 4-4   | [スケーターズ・ワルツ](https://ja.wikipedia.org/wiki/スケーターズ・ワルツ "wikilink")                     |
-| 真夜中のドライブ             | Midnight Drive                 | 4-4EX | [マリオカート64](https://ja.wikipedia.org/wiki/マリオカート64 "wikilink")                         |
-| きっと笑顔がイチバンさ          | Always Smiling                 | 5-1   | [トリッチ・トラッチ・ポルカ](https://ja.wikipedia.org/wiki/トリッチ・トラッチ・ポルカ "wikilink")               |
-| ワガハイはボスである\!         | Bowser's Castle                | 5-2   | マリオカート ダブルダッシュ                                                                        |
-| ゼン・ゴ・サ・ユウ            | Up, Down, Left, Right          | 初期出現  | [きらきら星](https://ja.wikipedia.org/wiki/きらきら星 "wikilink")                               |
-| 緑の上の大合唱              | Choir on the Green             | 隠し曲1  | [おお牧場はみどり](https://ja.wikipedia.org/wiki/おお牧場はみどり "wikilink")                         |
-| ホップステップマリオ           | Hop, Mario\!                   | 隠し曲2  | スーパーマリオワールド                                                                           |
-| 出口はどこだ\!?            | Where's the Exit?              | 隠し曲3  | スーパーマリオブラザーズ                                                                          |
-| ピ・ロ・リ                | Piroli                         | 隠し曲4  | [ファミリーコンピュータ ディスクシステム](https://ja.wikipedia.org/wiki/ファミリーコンピュータ_ディスクシステム "wikilink") |
-|                      |                                |       |                                                                                       |
+| 日本語タイトル              | 英語タイトル                         | ステージ  | 出典ゲーム作品もしくは原曲名、使用箇所など                                                   |
+| -------------------- | ------------------------------ | ----- | ----------------------------------------------------------------------- |
+| ヒア・ウィ・ゴー             | Here We Go\!                   | 1-1   | [スーパーマリオブラザーズ](../Page/スーパーマリオブラザーズ.md "wikilink")                      |
+| 土管の中のモーツァルト          | Underground Mozart             | 1-2   | [アイネ・クライネ・ナハトムジーク](../Page/アイネ・クライネ・ナハトムジーク.md "wikilink")              |
+| パペットダンス              | Pipe Pop                       | 1-2EX | [トルコ行進曲](../Page/ピアノソナタ第11番_\(モーツァルト\).md "wikilink")                   |
+| パラパラカルメン             | Garden Boogie                  | 1-3   | [カルメン](../Page/カルメン_\(オペラ\).md "wikilink")                              |
+| 月夜にぶちこわせ             | Destruction Dance              | 1-4   | [レッキングクルー](../Page/レッキングクルー.md "wikilink")                              |
+| ジャンプ\! ジャンプ\! ジャンプ\! | Jump\! Jump\! Jump\!           | 2-1   | [スーパーマリオブラザーズ3](https://ja.wikipedia.org/wiki/スーパーマリオブラザーズ3 "wikilink") |
+| みんなでパーティタイム          | Fishing Frenzy                 | 2-2   | [クシコスの郵便馬車](../Page/クシコス・ポスト.md "wikilink")                             |
+| 転がるコインのように           | Pirate Dance                   | 2-2EX | [スーパーマリオワールド](../Page/スーパーマリオワールド.md "wikilink")                        |
+| 風のかなたに               | In the Whirlpool               | 2-3   | [威風堂々](../Page/威風堂々_\(行進曲\).md "wikilink")                              |
+| ステップ・バイ・ステップ         | Step by Step                   | 2-3EX | スーパーマリオワールド                                                             |
+| 泳げ四分音符               | Blooper Bop                    | 2-4   | スーパーマリオブラザーズ                                                            |
+| クエ・テ・バヤ・マリオ          | Hammer Dance                   | 3-1   | スーパーマリオブラザーズ3                                                           |
+| スーパーマシーン             | Rollercoasting                 | 3-2   | \[\[マリオカート_ダブルダッシュ                                                     |
+| ほっぴンちょっぴン            | Boo Boogie                     | 3-3   | [スーパーマリオUSA](../Page/スーパーマリオUSA.md "wikilink")                          |
+| ヒゲとタルとゴリラ            | Moustache, Barrel, and Gorilla | 3-3EX | [ドンキーコング](../Page/ドンキーコング.md "wikilink")                                |
+| オレ様がスターだ\!           | Starring Wario\!               | 3-4   | [ワリオワールド](../Page/ワリオワールド.md "wikilink")                                |
+| 気分はハイ・ホー             | Frozen Pipes                   | 4-1   | [故郷の人々](https://ja.wikipedia.org/wiki/故郷の人々 "wikilink")                 |
+| マリオのカーニバル            | Cabin Fever                    | 4-2   | [マリオパーティ5](../Page/マリオパーティ5.md "wikilink")                              |
+| チューチューテクノ            | Ms. Mowz's Song                | 4-2EX | [ペーパーマリオRPG](../Page/ペーパーマリオRPG.md "wikilink")                          |
+| ハッピーハッピーダンス          | Deep Freeze                    | 4-3   | [ドクターマリオ](../Page/ドクターマリオ.md "wikilink")                                |
+| 氷の上でランデブー            | Rendezvous on Ice              | 4-4   | [スケーターズ・ワルツ](https://ja.wikipedia.org/wiki/スケーターズ・ワルツ "wikilink")       |
+| 真夜中のドライブ             | Midnight Drive                 | 4-4EX | [マリオカート64](../Page/マリオカート64.md "wikilink")                              |
+| きっと笑顔がイチバンさ          | Always Smiling                 | 5-1   | [トリッチ・トラッチ・ポルカ](../Page/トリッチ・トラッチ・ポルカ.md "wikilink")                    |
+| ワガハイはボスである\!         | Bowser's Castle                | 5-2   | マリオカート ダブルダッシュ                                                          |
+| ゼン・ゴ・サ・ユウ            | Up, Down, Left, Right          | 初期出現  | [きらきら星](../Page/きらきら星.md "wikilink")                                    |
+| 緑の上の大合唱              | Choir on the Green             | 隠し曲1  | [おお牧場はみどり](https://ja.wikipedia.org/wiki/おお牧場はみどり "wikilink")           |
+| ホップステップマリオ           | Hop, Mario\!                   | 隠し曲2  | スーパーマリオワールド                                                             |
+| 出口はどこだ\!?            | Where's the Exit?              | 隠し曲3  | スーパーマリオブラザーズ                                                            |
+| ピ・ロ・リ                | Piroli                         | 隠し曲4  | [ファミリーコンピュータ ディスクシステム](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")      |
+|                      |                                |       |                                                                         |
 
   - シークレット曲（隠し曲）は2周目以降、各ワールドのアイテムショップで購入可能。
 
 ## 関連項目
 
-  - [亀梨和也](https://ja.wikipedia.org/wiki/亀梨和也 "wikilink") - CMでマリオと一緒にダンスを披露。
+  - [亀梨和也](../Page/亀梨和也.md "wikilink") - CMでマリオと一緒にダンスを披露。
   - [赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink") - 同じくCMで一緒にダンスを披露。
 
 ## 外部リンク

@@ -7,7 +7,7 @@
 
 ## 歴史
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月25日](../Page/12月25日.md "wikilink")：[電気通信端末機器審査協会](https://ja.wikipedia.org/wiki/電気通信端末機器審査協会 "wikilink")による[技術基準適合認定の設計認証](https://ja.wikipedia.org/wiki/技術基準適合認定#設計認証 "wikilink") （設計認証番号A05-0545001）
+  - [2005年](../Page/2005年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")：[電気通信端末機器審査協会](../Page/電気通信端末機器審査協会.md "wikilink")による[技術基準適合認定の設計認証](https://ja.wikipedia.org/wiki/技術基準適合認定#設計認証 "wikilink") （設計認証番号A05-0545001）
   - 2005年[12月26日](../Page/12月26日.md "wikilink")：[テレコムエンジニアリングセンター](https://ja.wikipedia.org/wiki/テレコムエンジニアリングセンター "wikilink")による[技術基準適合証明の工事設計認証](https://ja.wikipedia.org/wiki/技術基準適合証明#工事設計認証 "wikilink") （工事設計認証番号001JXAA1119）
 
 ## 仕様
@@ -21,7 +21,7 @@
   - USB充電
   - ディスプレイ：CSTN[液晶](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")
   - カラー：65536色
-  - サブディスプレイ：[OLED](https://ja.wikipedia.org/wiki/有機エレクトロルミネッセンス "wikilink")
+  - サブディスプレイ：[OLED](../Page/有機エレクトロルミネッセンス.md "wikilink")
   - 着信音：40和音（YAMAHA音源）MIDI/SMF/WAV/MMF/MP3/WMA
 
 ## カラーバリエーション

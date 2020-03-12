@@ -1,11 +1,11 @@
 > この記事は[UAG](https://ja.wikipedia.org/wiki/UAG)から翻訳されています。
 
 
-**『特殊部隊UAG**』（**un attached grenadier**）は1987年にリリースされた[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。[ジャンル](../Page/ジャンル.md "wikilink")は[武装](https://ja.wikipedia.org/wiki/武装 "wikilink")したバイクを操作する縦スクロール[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。販売は[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")、開発は[セタ](https://ja.wikipedia.org/wiki/セタ_\(企業\) "wikilink")。海外名はTHUNDERCADE。[海外](../Page/海外.md "wikilink")では[サミー](https://ja.wikipedia.org/wiki/サミー "wikilink")が[NESに移植しているが](../Page/Nintendo_Entertainment_System.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内では現在、どの機種にも移植されていない。
+**『特殊部隊UAG**』（**un attached grenadier**）は1987年にリリースされた[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。[ジャンル](../Page/ジャンル.md "wikilink")は[武装](../Page/武装.md "wikilink")したバイクを操作する縦スクロール[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。販売は[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")、開発は[セタ](https://ja.wikipedia.org/wiki/セタ_\(企業\) "wikilink")。海外名はTHUNDERCADE。[海外](../Page/海外.md "wikilink")では[サミー](../Page/サミー.md "wikilink")が[NESに移植しているが](../Page/Nintendo_Entertainment_System.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内では現在、どの機種にも移植されていない。
 
 ## 概要
 
-自機のバイクを8方向[ジョイスティック](../Page/ジョイスティック.md "wikilink")で操作して、2ボタン（[機関砲](https://ja.wikipedia.org/wiki/機関砲 "wikilink")、 [ボム](https://ja.wikipedia.org/wiki/ボム_\(シューティングゲーム\) "wikilink")）で敵を倒す。ボムは2回連続で使うと効果が変化し、より強力な攻撃を行うことができる。バイクならではの特徴がいくつかあり、[兵士](../Page/兵士.md "wikilink")を轢き殺すことができたり、攻撃の補助となる[サイドカー](../Page/サイドカー.md "wikilink")を2個まで装備することができる。サイドカーは敵弾を防ぐ[盾](https://ja.wikipedia.org/wiki/盾 "wikilink")としても使えるが被弾すると破壊されてしまう。また、地上を走っているので移動は地形の干渉を受ける。 二人同時プレイ可能。兵士以外の敵キャラクターまたは敵の攻撃に接触するとミスとなり、残機が0の時にミスをすると[ゲームオーバー](https://ja.wikipedia.org/wiki/ゲームオーバー "wikilink")。 全4ステージで周回無し。後述するステージの特徴から、最終ステージより序盤のほうが難しいとする見方もあるが、当時としては比較的簡易なゲームに類すると言えた。後年、連射装置の実装などによりさらに難易度は低くなる。
+自機のバイクを8方向[ジョイスティック](../Page/ジョイスティック.md "wikilink")で操作して、2ボタン（[機関砲](../Page/機関砲.md "wikilink")、 [ボム](../Page/ボム_\(シューティングゲーム\).md "wikilink")）で敵を倒す。ボムは2回連続で使うと効果が変化し、より強力な攻撃を行うことができる。バイクならではの特徴がいくつかあり、[兵士](../Page/兵士.md "wikilink")を轢き殺すことができたり、攻撃の補助となる[サイドカー](../Page/サイドカー.md "wikilink")を2個まで装備することができる。サイドカーは敵弾を防ぐ[盾](../Page/盾.md "wikilink")としても使えるが被弾すると破壊されてしまう。また、地上を走っているので移動は地形の干渉を受ける。 二人同時プレイ可能。兵士以外の敵キャラクターまたは敵の攻撃に接触するとミスとなり、残機が0の時にミスをすると[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")。 全4ステージで周回無し。後述するステージの特徴から、最終ステージより序盤のほうが難しいとする見方もあるが、当時としては比較的簡易なゲームに類すると言えた。後年、連射装置の実装などによりさらに難易度は低くなる。
 
 ## ステージ構成
 
@@ -45,7 +45,7 @@
 
 スコアの777700点目がボムによる敵の破壊であった場合に出現。プレイヤー残数が7機増える。目標点数の直前にボ厶で敵をまとめて破壊し、777700点を超えるようにすれば容易に条件を満たせる。
 
-  - [レーザー](https://ja.wikipedia.org/wiki/レーザー "wikilink")
+  - [レーザー](../Page/レーザー.md "wikilink")
 
 隠しアイテム。1・3面ボスをサイドカーなし・ボム未使用(残機は失ってもok）で撃破するとオレンジ色の宝石様の物体が出現する（出現条件が「道中でサイドカー・ボムを全く使用せずステージクリア」ではないことに注意）。
 

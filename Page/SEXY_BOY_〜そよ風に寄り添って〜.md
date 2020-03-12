@@ -5,10 +5,10 @@
 
 ## 概要
 
-  - センターは[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")、[田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")。メインボーカルは田中れいな、高橋愛、[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")、[久住小春](https://ja.wikipedia.org/wiki/久住小春 "wikilink")、[亀井絵里](../Page/亀井絵里.md "wikilink")。
+  - センターは[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")、[田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")。メインボーカルは田中れいな、高橋愛、[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")、[久住小春](../Page/久住小春.md "wikilink")、[亀井絵里](../Page/亀井絵里.md "wikilink")。
   - 封入された『（ソッコーで上上\!\!）モーニング娘。「SEXY BOY 〜そよ風に寄り添って〜」ダンス大解剖\!\!』での[振り付け](https://ja.wikipedia.org/wiki/振り付け "wikilink")解説は田中れいながモデルの[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")である。
   - 両手の人さし指を上に向けた「上上（うえうえ）」という振りが特徴的である。
-  - [ドリームモーニング娘。](https://ja.wikipedia.org/wiki/ドリームモーニング娘。 "wikilink")によるバージョンもある。オリジナル版の歌唱メンバーからは[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")、[小川麻琴](../Page/小川麻琴.md "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[久住小春](https://ja.wikipedia.org/wiki/久住小春 "wikilink")の四人が参加。
+  - [ドリームモーニング娘。](https://ja.wikipedia.org/wiki/ドリームモーニング娘。 "wikilink")によるバージョンもある。オリジナル版の歌唱メンバーからは[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")、[小川麻琴](../Page/小川麻琴.md "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[久住小春](../Page/久住小春.md "wikilink")の四人が参加。
 
 ## 収録曲
 
@@ -16,18 +16,18 @@
 
 1.  **SEXY BOY 〜そよ風に寄り添って〜**
 2.  **チャンス チャンス ブギ**
-3.  SEXY BOY 〜そよ風に寄り添って〜（[Instrumental](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")）
+3.  SEXY BOY 〜そよ風に寄り添って〜（[Instrumental](../Page/器楽曲.md "wikilink")）
 
 ## 参加メンバー
 
   - 4期：[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")
   - 5期：[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")、[紺野あさ美](../Page/紺野あさ美.md "wikilink")、[小川麻琴](../Page/小川麻琴.md "wikilink")、[新垣里沙](../Page/新垣里沙.md "wikilink")
   - 6期：[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")、[亀井絵里](../Page/亀井絵里.md "wikilink")、[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")、[田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")
-  - 7期：[久住小春](https://ja.wikipedia.org/wiki/久住小春 "wikilink")
+  - 7期：[久住小春](../Page/久住小春.md "wikilink")
 
 ## 参加ミュージシャン
 
-  - 高橋諭一 - [プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")&[ギター](../Page/ギター.md "wikilink")(1,2)
+  - 高橋諭一 - [プログラミング](../Page/ミュージックシーケンサー.md "wikilink")&[ギター](../Page/ギター.md "wikilink")(1,2)
   - 竹内浩明 - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")(1)
   - つんく♂ - コーラス(1)
   - CHINO - コーラス(2)

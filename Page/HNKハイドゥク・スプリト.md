@@ -1,13 +1,13 @@
 > この記事は[HNK](https://ja.wikipedia.org/wiki/HNK)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Poljud_-_full_stands.jpg "wikilink") **フルヴァツキ・ノゴメトニ・クルブ・ハイドゥク・スプリトŠ.D.D.**（**Hrvatski nogometni klub Hajduk Split Š.D.D.**）は、[クロアチア](../Page/クロアチア.md "wikilink")・[スプリト](https://ja.wikipedia.org/wiki/スプリト "wikilink")を本拠地とするサッカークラブ。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Poljud_-_full_stands.jpg "wikilink") **フルヴァツキ・ノゴメトニ・クルブ・ハイドゥク・スプリトŠ.D.D.**（**Hrvatski nogometni klub Hajduk Split Š.D.D.**）は、[クロアチア](../Page/クロアチア.md "wikilink")・[スプリト](../Page/スプリト.md "wikilink")を本拠地とするサッカークラブ。
 
 国内では[NKディナモ・ザグレブ](../Page/NKディナモ・ザグレブ.md "wikilink")とライバル関係にある人気チームであり、両チームの対戦は「[エターナル・ダービー](https://ja.wikipedia.org/wiki/w:Eternal_derby_\(Croatia\) "wikilink")」\[1\]、「[クロアチア・ダービー](https://ja.wikipedia.org/wiki/クロアチア・ダービー "wikilink")」\[2\]と呼ばれる。
 
 ## 概要
 
-スプリト出身の学生が、[ACスパルタ・プラハ](https://ja.wikipedia.org/wiki/ACスパルタ・プラハ "wikilink")と[SKスラヴィア・プラハ](https://ja.wikipedia.org/wiki/SKスラヴィア・プラハ "wikilink")の試合で刺激を受けたことがきっかけとなり、1911年2月13日に設立された。チーム名は[オスマン帝国](../Page/オスマン帝国.md "wikilink")と戦ったといわれる盗賊団、[ハイドゥク](https://ja.wikipedia.org/wiki/ハイドゥク "wikilink")に由来する。1970年から80年の間に9度の国内タイトルを獲得する活躍を見せ、この時代の選手は「黄金世代」と呼ばれた。1972-73年シーズンの[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")では準決勝進出を果たした\[3\]。
+スプリト出身の学生が、[ACスパルタ・プラハ](../Page/ACスパルタ・プラハ.md "wikilink")と[SKスラヴィア・プラハ](../Page/SKスラヴィア・プラハ.md "wikilink")の試合で刺激を受けたことがきっかけとなり、1911年2月13日に設立された。チーム名は[オスマン帝国](../Page/オスマン帝国.md "wikilink")と戦ったといわれる盗賊団、[ハイドゥク](https://ja.wikipedia.org/wiki/ハイドゥク "wikilink")に由来する。1970年から80年の間に9度の国内タイトルを獲得する活躍を見せ、この時代の選手は「黄金世代」と呼ばれた。1972-73年シーズンの[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")では準決勝進出を果たした\[3\]。
 
 2010-11年シーズンにクラブ創設100周年を迎えたが、ディナモ・ザグレブの6連覇を阻止できず、節目の年を優勝で飾ることはできなかった。クラブはそれまでの地元出身選手を重用してきた方針を改め、[伊野波雅彦](../Page/伊野波雅彦.md "wikilink")ら7人の外国人選手を獲得する補強を行った\[4\]。しかし、伊野波は給料未払いを理由に退団している。
 
@@ -90,7 +90,7 @@
 <td><p>1993-94</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1993-94" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アヤックス・アムステルダム" title="wikilink">アヤックス</a></p></td>
+<td><p><a href="../Page/アヤックス・アムステルダム.md" title="wikilink">アヤックス</a></p></td>
 <td><p>1–0</p></td>
 <td><p>0–6</p></td>
 <td><p>'''1–6</p></td>
@@ -108,7 +108,7 @@
 </tr>
 <tr class="odd">
 <td><p>グループC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SLベンフィカ" title="wikilink">ベンフィカ</a></p></td>
+<td><p><a href="../Page/SLベンフィカ.md" title="wikilink">ベンフィカ</a></p></td>
 <td><p>0–0</p></td>
 <td><p>1–2</p></td>
 <td><p>'''2位</p></td>
@@ -127,7 +127,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>2–1</p></td>
 <td><p>0–0</p></td>
 <td></td>
@@ -138,7 +138,7 @@
 </tr>
 <tr class="even">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アヤックス・アムステルダム" title="wikilink">アヤックス</a></p></td>
+<td><p><a href="../Page/アヤックス・アムステルダム.md" title="wikilink">アヤックス</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–3</p></td>
 <td><p>'''0–3</p></td>
@@ -153,7 +153,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/パナシナイコスFC" title="wikilink">パナシナイコス</a></p></td>
 <td><p>1–1</p></td>
 <td><p>0–0</p></td>
-<td><p>'''1–1 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''1–1 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
@@ -188,7 +188,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マルメFF" title="wikilink">マルメFF</a></p></td>
+<td><p><a href="../Page/マルメFF.md" title="wikilink">マルメFF</a></p></td>
 <td><p>3–2</p></td>
 <td><p>2–0</p></td>
 <td><p>'''5–2</p></td>
@@ -198,7 +198,7 @@
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シャルケ04" title="wikilink">シャルケ04</a></p></td>
+<td><p><a href="../Page/シャルケ04.md" title="wikilink">シャルケ04</a></p></td>
 <td><p>2–3</p></td>
 <td><p>0–2</p></td>
 <td><p>'''2–5</p></td>
@@ -210,7 +210,7 @@
 <td><p>1998-99</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1998-99" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マルメFF" title="wikilink">マルメFF</a></p></td>
+<td><p><a href="../Page/マルメFF.md" title="wikilink">マルメFF</a></p></td>
 <td><p>1–1</p></td>
 <td><p>2–1</p></td>
 <td><p>'''3–2</p></td>
@@ -218,7 +218,7 @@
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ACFフィオレンティーナ" title="wikilink">フィオレンティーナ</a></p></td>
+<td><p><a href="../Page/ACFフィオレンティーナ.md" title="wikilink">フィオレンティーナ</a></p></td>
 <td><p>0–0</p></td>
 <td><p>1–2</p></td>
 <td><p>'''1–2</p></td>
@@ -238,7 +238,7 @@
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レフスキ・ソフィア" title="wikilink">レフスキ・ソフィア</a></p></td>
+<td><p><a href="../Page/レフスキ・ソフィア.md" title="wikilink">レフスキ・ソフィア</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–3</p></td>
 <td><p>'''0–3</p></td>
@@ -269,7 +269,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RCDマヨルカ" title="wikilink">マヨルカ</a></p></td>
+<td><p><a href="../Page/RCDマヨルカ.md" title="wikilink">マヨルカ</a></p></td>
 <td><p>1–0</p></td>
 <td><p>0–2<br />
 (<a href="../Page/延長戦.md" title="wikilink">a.e.t.</a>)</p></td>
@@ -281,7 +281,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2001-02" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴィスワ・クラクフ" title="wikilink">ヴィスワ・クラクフ</a></p></td>
+<td><p><a href="../Page/ヴィスワ・クラクフ.md" title="wikilink">ヴィスワ・クラクフ</a></p></td>
 <td><p>2–2</p></td>
 <td><p>0–1</p></td>
 <td><p>'''2–3</p></td>
@@ -320,7 +320,7 @@
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グラスホッパー・クラブ・チューリッヒ" title="wikilink">グラスホッパーズ</a></p></td>
+<td><p><a href="../Page/グラスホッパー・クラブ・チューリッヒ.md" title="wikilink">グラスホッパーズ</a></p></td>
 <td><p>0–0</p></td>
 <td><p>1–1</p></td>
 <td><p>'''1–1 (a)</p></td>
@@ -362,7 +362,7 @@
 <td><p>2007-08</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2007-08" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FKブドゥチノスト・ポドゴリツァ" title="wikilink">ブドゥチノスト・ポドゴリツァ</a></p></td>
+<td><p><a href="../Page/FKブドゥチノスト・ポドゴリツァ.md" title="wikilink">ブドゥチノスト・ポドゴリツァ</a></p></td>
 <td><p>1–0</p></td>
 <td><p>1–1</p></td>
 <td><p>'''2–1</p></td>
@@ -370,7 +370,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UCサンプドリア" title="wikilink">サンプドリア</a></p></td>
+<td><p><a href="../Page/UCサンプドリア.md" title="wikilink">サンプドリア</a></p></td>
 <td><p>0–1</p></td>
 <td><p>1–1</p></td>
 <td><p>'''1–2</p></td>
@@ -390,7 +390,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・ラ・コルーニャ" title="wikilink">デポルティーボ</a></p></td>
+<td><p><a href="../Page/デポルティーボ・ラ・コルーニャ.md" title="wikilink">デポルティーボ</a></p></td>
 <td><p>0–2</p></td>
 <td><p>0–0</p></td>
 <td><p>'''0–2</p></td>
@@ -439,7 +439,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>1–0</p></td>
 <td><p>0–2</p></td>
 <td></td>
@@ -600,7 +600,7 @@
 </tr>
 <tr class="even">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マッカビ・テルアビブFC" title="wikilink">マッカビ・テルアビブ</a></p></td>
+<td><p><a href="../Page/マッカビ・テルアビブFC.md" title="wikilink">マッカビ・テルアビブ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>1-2</p></td>
 <td><p>'''3-3<br />
@@ -613,7 +613,7 @@
 <td><p>2017-18</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2017-18" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レフスキ・ソフィア" title="wikilink">レフスキ・ソフィア</a></p></td>
+<td><p><a href="../Page/レフスキ・ソフィア.md" title="wikilink">レフスキ・ソフィア</a></p></td>
 <td><p>1-0</p></td>
 <td><p>2-1</p></td>
 <td><p>'''3-1</p></td>
@@ -631,7 +631,7 @@
 </tr>
 <tr class="odd">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エヴァートンFC" title="wikilink">エヴァートン</a></p></td>
+<td><p><a href="../Page/エヴァートンFC.md" title="wikilink">エヴァートン</a></p></td>
 <td><p>1–1</p></td>
 <td><p>0–2</p></td>
 <td><p>'''1–3</p></td>
@@ -692,9 +692,9 @@
 
   - [スティペ・プレティコサ](../Page/スティペ・プレティコサ.md "wikilink") 1996-2003,2005-2006
 
-  - [ヴェドラン・ルニェ](https://ja.wikipedia.org/wiki/ヴェドラン・ルニェ "wikilink") 1996-1998
+  - [ヴェドラン・ルニェ](../Page/ヴェドラン・ルニェ.md "wikilink") 1996-1998
 
-  - [ヨシプ・ポサヴェツ](https://ja.wikipedia.org/wiki/ヨシプ・ポサヴェツ "wikilink") 2018-
+  - [ヨシプ・ポサヴェツ](../Page/ヨシプ・ポサヴェツ.md "wikilink") 2018-
 
 ### DF
 
@@ -702,7 +702,7 @@
 
   - [イゴール・トゥドール](../Page/イゴール・トゥドール.md "wikilink") 1995-1998,2007-2008
 
-  - [ゴッツェ・セドロスキー](https://ja.wikipedia.org/wiki/ゴッツェ・セドロスキー "wikilink") 1996-1997
+  - [ゴッツェ・セドロスキー](../Page/ゴッツェ・セドロスキー.md "wikilink") 1996-1997
 
   - [マト・ネレトリャク](https://ja.wikipedia.org/wiki/マト・ネレトリャク "wikilink") 2002-2005
 
@@ -710,31 +710,31 @@
 
   - [伊野波雅彦](../Page/伊野波雅彦.md "wikilink") 2011-2012
 
-  - [ドマゴイ・ブラダリッチ](https://ja.wikipedia.org/wiki/ドマゴイ・ブラダリッチ "wikilink") 2018-2019
+  - [ドマゴイ・ブラダリッチ](../Page/ドマゴイ・ブラダリッチ.md "wikilink") 2018-2019
 
 ### MF
 
   - [ロベルト・ヤルニ](../Page/ロベルト・ヤルニ.md "wikilink") 1986-1991
 
-  - [ミラン・ラパイッチ](https://ja.wikipedia.org/wiki/ミラン・ラパイッチ "wikilink") 1991-1996,2002-2003
+  - [ミラン・ラパイッチ](../Page/ミラン・ラパイッチ.md "wikilink") 1991-1996,2002-2003
 
-  - [ヨシップ・スココ](https://ja.wikipedia.org/wiki/ヨシップ・スココ "wikilink") 1995-1999,2008-2010
+  - [ヨシップ・スココ](../Page/ヨシップ・スココ.md "wikilink") 1995-1999,2008-2010
 
-  - [ミルコ・フルゴビッチ](https://ja.wikipedia.org/wiki/ミルコ・フルゴビッチ "wikilink") 1995-1999,2006-2008
+  - [ミルコ・フルゴビッチ](../Page/ミルコ・フルゴビッチ.md "wikilink") 1995-1999,2006-2008
 
-  - [ムラデン・ムラデノビッチ](https://ja.wikipedia.org/wiki/ムラデン・ムラデノビッチ "wikilink") 1997-1998
+  - [ムラデン・ムラデノビッチ](../Page/ムラデン・ムラデノビッチ.md "wikilink") 1997-1998
 
-  - [スルヂャン・アンドリッチ](https://ja.wikipedia.org/wiki/スルヂャン・アンドリッチ "wikilink") 1999-2004,2007-2012
+  - [スルヂャン・アンドリッチ](../Page/スルヂャン・アンドリッチ.md "wikilink") 1999-2004,2007-2012
 
   - [ダリヨ・スルナ](../Page/ダリヨ・スルナ.md "wikilink") 1999-2003
 
   - [ニコ・クラニチャール](../Page/ニコ・クラニチャール.md "wikilink") 2005-2006
 
-  - [イヴァン・レコ](https://ja.wikipedia.org/wiki/イヴァン・レコ "wikilink") 1995-2001,2005
+  - [イヴァン・レコ](../Page/イヴァン・レコ.md "wikilink") 1995-2001,2005
 
   - [セニヤド・イブリチッチ](https://ja.wikipedia.org/wiki/セニヤド・イブリチッチ "wikilink") 2008-2010
 
-  - [ミヨ・ツァクタシュ](https://ja.wikipedia.org/wiki/ミヨ・ツァクタシュ "wikilink") 2011-2016,2018-
+  - [ミヨ・ツァクタシュ](../Page/ミヨ・ツァクタシュ.md "wikilink") 2011-2016,2018-
 
 ### FW
 
@@ -742,9 +742,9 @@
 
   - [ズラトコ・ヴヨヴィッチ](https://ja.wikipedia.org/wiki/ズラトコ・ヴヨヴィッチ "wikilink") 1976-1986
 
-  - [アレン・ボクシッチ](https://ja.wikipedia.org/wiki/アレン・ボクシッチ "wikilink") 1987-1991
+  - [アレン・ボクシッチ](../Page/アレン・ボクシッチ.md "wikilink") 1987-1991
 
-  - [トミスラフ・エルツェッグ](https://ja.wikipedia.org/wiki/トミスラフ・エルツェッグ "wikilink") 1991-1995
+  - [トミスラフ・エルツェッグ](../Page/トミスラフ・エルツェッグ.md "wikilink") 1991-1995
 
   - [マテ・ビリッチ](https://ja.wikipedia.org/wiki/マテ・ビリッチ "wikilink") 1997-2001
 

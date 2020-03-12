@@ -1,7 +1,7 @@
 > この記事は[Z ](https://ja.wikipedia.org/wiki/Z_)から翻訳されています。
 
 
-『**ドラゴンボールZ 偉大なるドラゴンボール伝説**』（ドラゴンボールゼット いだいなるドラゴンボールでんせつ）は[1996年](../Page/1996年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[プレイステーション](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")・[セガサターン](../Page/セガサターン.md "wikilink")用[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。
+『**ドラゴンボールZ 偉大なるドラゴンボール伝説**』（ドラゴンボールゼット いだいなるドラゴンボールでんせつ）は[1996年](../Page/1996年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[プレイステーション](../Page/PlayStation_\(ゲーム機\).md "wikilink")・[セガサターン](../Page/セガサターン.md "wikilink")用[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。
 
 ## 概要
 
@@ -72,21 +72,21 @@ SPバトル
   - クリリン（声：[田中真弓](../Page/田中真弓.md "wikilink")）
   - ベジット（声：野沢雅子&堀川亮）
   - ゴテンクス（声：野沢雅子&草尾毅）
-  - ナッパ（声：[飯塚昭三](https://ja.wikipedia.org/wiki/飯塚昭三 "wikilink")）
-  - ギニュー（声：[堀秀行](https://ja.wikipedia.org/wiki/堀秀行 "wikilink")）
+  - ナッパ（声：[飯塚昭三](../Page/飯塚昭三.md "wikilink")）
+  - ギニュー（声：[堀秀行](../Page/堀秀行.md "wikilink")）
   - リクーム（声：[内海賢二](../Page/内海賢二.md "wikilink")）
-  - バータ（声：[岸野幸正](https://ja.wikipedia.org/wiki/岸野幸正 "wikilink")）
-  - ジース（声：[田中和実](https://ja.wikipedia.org/wiki/田中和実 "wikilink")）
-  - グルド（声：[塩屋浩三](https://ja.wikipedia.org/wiki/塩屋浩三 "wikilink")）
+  - バータ（声：[岸野幸正](../Page/岸野幸正.md "wikilink")）
+  - ジース（声：[田中和実](../Page/田中和実.md "wikilink")）
+  - グルド（声：[塩屋浩三](../Page/塩屋浩三.md "wikilink")）
   - フリーザ（声：[中尾隆聖](../Page/中尾隆聖.md "wikilink")）
   - 人造人間16号（声：[緑川光](../Page/緑川光.md "wikilink")）
   - 人造人間17号（声：[中原茂](../Page/中原茂.md "wikilink")）
-  - 人造人間18号（声：[伊藤美紀](https://ja.wikipedia.org/wiki/伊藤美紀_\(声優\) "wikilink")）
-  - 人造人間19号（声：[堀之紀](https://ja.wikipedia.org/wiki/堀之紀 "wikilink")）
-  - 人造人間20号（Dr.ゲロ）（声：[矢田耕司](https://ja.wikipedia.org/wiki/矢田耕司 "wikilink")）
+  - 人造人間18号（声：[伊藤美紀](../Page/伊藤美紀_\(声優\).md "wikilink")）
+  - 人造人間19号（声：[堀之紀](../Page/堀之紀.md "wikilink")）
+  - 人造人間20号（Dr.ゲロ）（声：[矢田耕司](../Page/矢田耕司.md "wikilink")）
   - セル（声：[若本規夫](../Page/若本規夫.md "wikilink")）
   - セルジュニア（声：中原茂）
-  - ダーブラ（声：[大友龍三郎](https://ja.wikipedia.org/wiki/大友龍三郎 "wikilink")）
+  - ダーブラ（声：[大友龍三郎](../Page/大友龍三郎.md "wikilink")）
   - 魔人ブウ（無邪気⇒善）（声：塩屋浩三）
   - 魔人ブウ（悪）（声：塩屋浩三）
   - 魔人ブウ（純粋）（声：塩屋浩三）
@@ -97,7 +97,7 @@ SPバトル
 
 <!-- end list -->
 
-  - [孫悟空](https://ja.wikipedia.org/wiki/孫悟空_\(ドラゴンボール\) "wikilink")
+  - [孫悟空](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")
 
 <!-- end list -->
 
@@ -106,7 +106,7 @@ SPバトル
 
 <!-- end list -->
 
-  - [孫悟飯](https://ja.wikipedia.org/wiki/孫悟飯 "wikilink")（幼年）
+  - [孫悟飯](../Page/孫悟飯.md "wikilink")（幼年）
 
 <!-- end list -->
 
@@ -124,7 +124,7 @@ SPバトル
 
 <!-- end list -->
 
-  - [クリリン](https://ja.wikipedia.org/wiki/クリリン "wikilink")
+  - [クリリン](../Page/クリリン.md "wikilink")
 
 <!-- end list -->
 
@@ -144,7 +144,7 @@ SPバトル
 
 <!-- end list -->
 
-  - [ベジータ](https://ja.wikipedia.org/wiki/ベジータ "wikilink")
+  - [ベジータ](../Page/ベジータ.md "wikilink")
 
 <!-- end list -->
 
@@ -168,7 +168,7 @@ SPバトル
 
 <!-- end list -->
 
-  - [ギニュー特戦隊](https://ja.wikipedia.org/wiki/ギニュー特戦隊 "wikilink")
+  - [ギニュー特戦隊](../Page/ギニュー特戦隊.md "wikilink")
       - [ギニュー](https://ja.wikipedia.org/wiki/ギニュー特戦隊#ギニュー "wikilink")
       - [リクーム](https://ja.wikipedia.org/wiki/ギニュー特戦隊#リクーム "wikilink")
       - [バータ](https://ja.wikipedia.org/wiki/ギニュー特戦隊#バータ "wikilink")
@@ -234,7 +234,7 @@ SPバトル
 
 <!-- end list -->
 
-  - [人造人間19号](https://ja.wikipedia.org/wiki/人造人間_\(ドラゴンボール\) "wikilink")
+  - [人造人間19号](../Page/人造人間_\(ドラゴンボール\).md "wikilink")
   - 人造人間20号
   - 人造人間17号
   - [人造人間18号](../Page/人造人間18号.md "wikilink")
@@ -288,7 +288,7 @@ SPバトル
 
 <!-- end list -->
 
-  - [孫悟天](https://ja.wikipedia.org/wiki/孫悟天 "wikilink")
+  - [孫悟天](../Page/孫悟天.md "wikilink")
 
 <!-- end list -->
 
@@ -314,9 +314,9 @@ SPバトル
 
 <!-- end list -->
 
-  - [ダーブラ](https://ja.wikipedia.org/wiki/ダーブラ "wikilink")
+  - [ダーブラ](../Page/ダーブラ.md "wikilink")
   - 超ベジータ（洗脳）
-  - [魔人ブウ](https://ja.wikipedia.org/wiki/魔人ブウ "wikilink")（無邪気）
+  - [魔人ブウ](../Page/魔人ブウ.md "wikilink")（無邪気）
 
 ### エピソード7 地球壊滅\! 恐怖の魔人 対 新たなる力\!
 
@@ -396,20 +396,20 @@ SPバトル
   - [天津飯](../Page/天津飯_\(ドラゴンボール\).md "wikilink")（声：[鈴置洋孝](https://ja.wikipedia.org/wiki/鈴置洋孝 "wikilink")）
   - 神様（声：[青野武](../Page/青野武.md "wikilink")）
   - リポーター（声：岸野幸正）
-  - [ミスター・サタン](https://ja.wikipedia.org/wiki/ミスター・サタン "wikilink")（声：[郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")）
+  - [ミスター・サタン](../Page/ミスター・サタン.md "wikilink")（声：[郷里大輔](../Page/郷里大輔.md "wikilink")）
   - [ビーデル](../Page/ビーデル.md "wikilink")（声：[皆口裕子](../Page/皆口裕子.md "wikilink")）
   - 界王神（声：[三ツ矢雄二](../Page/三ツ矢雄二.md "wikilink")）
   - キビト（声：[青森伸](../Page/青森伸.md "wikilink")）
-  - 老界王神（声：[野本礼三](https://ja.wikipedia.org/wiki/野本礼三 "wikilink")）
+  - 老界王神（声：[野本礼三](../Page/野本礼三.md "wikilink")）
   - 界王様（声：[八奈見乗児](../Page/八奈見乗児.md "wikilink")）
   - ナレーション（声：八奈見乗児）
 
 ## 関連商品
 
   - ドラゴンボール 偉大なるドラゴンボール伝説
-    山本健司が作曲したゲーム中のBGM、主題歌を収録。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月12日](../Page/9月12日.md "wikilink")[ZAIN RECORDSから発売](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
+    山本健司が作曲したゲーム中のBGM、主題歌を収録。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月12日](../Page/9月12日.md "wikilink")[ZAIN RECORDSから発売](../Page/ZAIN_RECORDS.md "wikilink")。
   - ドラゴンボール 最強格闘BIBLE（Vジャンプ ゲームブックスシリーズ）
-    本作とプレイステーション用ソフト『[ドラゴンボール FINAL BOUT](https://ja.wikipedia.org/wiki/ドラゴンボール_FINAL_BOUT "wikilink")』と、[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ソフト『[ドラゴンボールZ HYPER DIMENSION](../Page/ドラゴンボールZ_HYPER_DIMENSION.md "wikilink")』の計三本が一冊になった攻略本。内容はPS版準拠。
+    本作とプレイステーション用ソフト『[ドラゴンボール FINAL BOUT](../Page/ドラゴンボール_FINAL_BOUT.md "wikilink")』と、[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ソフト『[ドラゴンボールZ HYPER DIMENSION](../Page/ドラゴンボールZ_HYPER_DIMENSION.md "wikilink")』の計三本が一冊になった攻略本。内容はPS版準拠。
 
 ## 脚注
 

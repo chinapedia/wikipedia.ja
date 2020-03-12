@@ -1,15 +1,15 @@
 > この記事は[Apr \(\)](https://ja.wikipedia.org/wiki/Apr_\(\))から翻訳されています。
 
 
-**株式会社エー・ピー・アール**（）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[厚木市](https://ja.wikipedia.org/wiki/厚木市 "wikilink")に本社を置く[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")。[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")関連事業を主力とし、自動車用パーツや2輪車用パーツの製造販売も行なっている。
+**株式会社エー・ピー・アール**（）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[厚木市](../Page/厚木市.md "wikilink")に本社を置く[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")。[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")関連事業を主力とし、自動車用パーツや2輪車用パーツの製造販売も行なっている。
 
 ## レース活動
 
-[1996年](../Page/1996年.md "wikilink")と[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[スーパーN1耐久に参戦](https://ja.wikipedia.org/wiki/スーパー耐久 "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")・GT300クラス（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")より[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")）にコンストラクターとして[MR2](https://ja.wikipedia.org/wiki/トヨタ・MR2 "wikilink")（翌年から[MR-S](../Page/トヨタ・MR-S.md "wikilink")）で参戦。2000年以降は[トヨタ](https://ja.wikipedia.org/wiki/トヨタ "wikilink")の[セミワークス](../Page/セミワークス.md "wikilink")として活動している\[1\]。[1999年](../Page/1999年.md "wikilink")、[2002年](../Page/2002年.md "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[2007年](../Page/2007年.md "wikilink")にチャンピオンを獲得した。
+[1996年](../Page/1996年.md "wikilink")と[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[スーパーN1耐久に参戦](../Page/スーパー耐久.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")・GT300クラス（[2005年](../Page/2005年.md "wikilink")より[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")）にコンストラクターとして[MR2](../Page/トヨタ・MR2.md "wikilink")（翌年から[MR-S](../Page/トヨタ・MR-S.md "wikilink")）で参戦。2000年以降は[トヨタ](https://ja.wikipedia.org/wiki/トヨタ "wikilink")の[セミワークス](../Page/セミワークス.md "wikilink")として活動している\[1\]。[1999年](../Page/1999年.md "wikilink")、[2002年](../Page/2002年.md "wikilink")、[2005年](../Page/2005年.md "wikilink")、[2007年](../Page/2007年.md "wikilink")にチャンピオンを獲得した。
 
 2006～2007年に[ディズニー映画](https://ja.wikipedia.org/wiki/ディズニー映画 "wikilink")の「[トイ・ストーリー](../Page/トイ・ストーリー.md "wikilink")」、2008年には同じく「[カーズ](https://ja.wikipedia.org/wiki/カーズ "wikilink")」とコラボレーションしたMR-Sを参戦させた。
 
-[2001年](../Page/2001年.md "wikilink")から[ARTA](https://ja.wikipedia.org/wiki/ARTA "wikilink")のGT300チームのオペレーションも担当。2003年には[ガライヤでの参戦に伴い同車のGT](https://ja.wikipedia.org/wiki/ASL・ガライヤ "wikilink")300マシンの設計・開発を担当した。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")シーズン終了を持ってARTAとの契約を終了している。
+[2001年](../Page/2001年.md "wikilink")から[ARTA](../Page/ARTA.md "wikilink")のGT300チームのオペレーションも担当。2003年には[ガライヤでの参戦に伴い同車のGT](../Page/ASL・ガライヤ.md "wikilink")300マシンの設計・開発を担当した。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")シーズン終了を持ってARTAとの契約を終了している。
 
 [2012年](../Page/2012年.md "wikilink")は、SUPER GT初の[ハイブリッドカー](../Page/ハイブリッドカー.md "wikilink")となる[プリウスと](https://ja.wikipedia.org/wiki/トヨタ・プリウス "wikilink")[アウディR8 LMSウルトラの](../Page/アウディ・R8_\(市販車\).md "wikilink")2台体制で参戦。
 
@@ -42,8 +42,8 @@
 <td><p>No.25</p></td>
 <td><p>モモコルセ・アペックスMR2</p></td>
 <td><p>新田守男<br />
-<a href="https://ja.wikipedia.org/wiki/菊地靖" title="wikilink">菊地靖</a>（第1戦）<br />
-→<a href="https://ja.wikipedia.org/wiki/高木真一_(レーサー)" title="wikilink">高木真一</a>（第2戦〜）</p></td>
+<a href="../Page/菊地靖.md" title="wikilink">菊地靖</a>（第1戦）<br />
+→<a href="../Page/高木真一_(レーサー).md" title="wikilink">高木真一</a>（第2戦〜）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2000年の全日本GT選手権" title="wikilink">2000年</a></p></td>
@@ -99,7 +99,7 @@
 <td><p>No.34</p></td>
 <td><p>DENTAIRE MR-S</p></td>
 <td><p>西澤誠剛<br />
-<a href="https://ja.wikipedia.org/wiki/松田晃司" title="wikilink">松田晃司</a></p></td>
+<a href="../Page/松田晃司.md" title="wikilink">松田晃司</a></p></td>
 <td><p>22位</p></td>
 </tr>
 <tr class="odd">
@@ -119,7 +119,7 @@
 <tr class="odd">
 <td><p>NO.31</p></td>
 <td><p>A'PEXi-mobisessMR-S</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田中実_(レーシングドライバー)" title="wikilink">田中実</a><br />
+<td><p><a href="../Page/田中実_(レーシングドライバー).md" title="wikilink">田中実</a><br />
 松田晃司</p></td>
 <td><p>15位</p></td>
 </tr>
@@ -142,7 +142,7 @@
 <td><p>APEXERA MR-S（第1〜3戦）<br />
 吉兆宝山MR-S（第4〜8戦）</p></td>
 <td><p>田中実<br />
-<a href="https://ja.wikipedia.org/wiki/中嶋一貴" title="wikilink">中嶋一貴</a></p></td>
+<a href="../Page/中嶋一貴.md" title="wikilink">中嶋一貴</a></p></td>
 <td><p>8位</p></td>
 </tr>
 <tr class="odd">
@@ -206,8 +206,8 @@ DOUBLEHEAD apr MR-S（第5〜9戦）</p></td>
 </tr>
 <tr class="odd">
 <td><p>No.95</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カーズ_(映画)" title="wikilink">ライトニングマックイーン</a> apr MR-S</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平手晃平" title="wikilink">平手晃平</a>（第1〜5,8,9戦）<br />
+<td><p><a href="../Page/カーズ_(映画).md" title="wikilink">ライトニングマックイーン</a> apr MR-S</p></td>
+<td><p><a href="../Page/平手晃平.md" title="wikilink">平手晃平</a>（第1〜5,8,9戦）<br />
 →大嶋和也（第6戦）<br />
 →<a href="https://ja.wikipedia.org/wiki/山内英輝" title="wikilink">山内英輝</a>（第7戦）<br />
 <a href="../Page/国本京佑.md" title="wikilink">国本京佑</a><br />
@@ -243,7 +243,7 @@ DOUBLEHEAD apr MR-S（第5〜9戦）</p></td>
 <td><p>apr COROLLA Axio（第1,2戦)<br />
 <a href="../Page/ヱヴァンゲリヲン新劇場版.md" title="wikilink">エヴァンゲリオンRT</a><a href="https://ja.wikipedia.org/wiki/エヴァンゲリオン_(架空の兵器)#汎用ヒト型決戦兵器_人造人間エヴァンゲリオン_試験初号機_(EVANGELION_TEST_TYPE-01)" title="wikilink">初号機カローラ</a>(第3戦〜）</p></td>
 <td><p><a href="../Page/嵯峨宏紀.md" title="wikilink">嵯峨宏紀</a><br />
-<a href="https://ja.wikipedia.org/wiki/松浦孝亮" title="wikilink">松浦孝亮</a><br />
+<a href="../Page/松浦孝亮.md" title="wikilink">松浦孝亮</a><br />
 坂本雄也（第6戦）</p></td>
 </tr>
 <tr class="even">
@@ -313,7 +313,7 @@ IWASAKI OGT Racing GT-R（第4戦～）</p></td>
 <td><p>No.30</p></td>
 <td><p>IWASAKI apr GT-R</p></td>
 <td><p>岩崎祐貴<br />
-<a href="https://ja.wikipedia.org/wiki/影山正美" title="wikilink">影山正美</a><br />
+<a href="../Page/影山正美.md" title="wikilink">影山正美</a><br />
 <a href="https://ja.wikipedia.org/wiki/東徹次郎" title="wikilink">東徹次郎</a>（第6戦）</p></td>
 </tr>
 <tr class="odd">
@@ -405,13 +405,13 @@ IWASAKI OGT Racing GT-R（第4戦～）</p></td>
 
 ### スーパーN1耐久
 
-1996年と1997年に[スカイラインGT-Rで参戦](https://ja.wikipedia.org/wiki/日産・スカイライン "wikilink")。1996年は第6戦からの参戦でシリーズ6位の成績を収めた。デビュー戦でいきなり3位を獲得し最終戦で2位を獲得するなどデビューイヤーながらなかなかの活躍を見せた。1997年はフル参戦をしシリーズ5位を獲得した。翌年からの全日本GT選手権への参戦によりスーパーN1耐久への参戦は終了となった。
+1996年と1997年に[スカイラインGT-Rで参戦](../Page/日産・スカイライン.md "wikilink")。1996年は第6戦からの参戦でシリーズ6位の成績を収めた。デビュー戦でいきなり3位を獲得し最終戦で2位を獲得するなどデビューイヤーながらなかなかの活躍を見せた。1997年はフル参戦をしシリーズ5位を獲得した。翌年からの全日本GT選手権への参戦によりスーパーN1耐久への参戦は終了となった。
 
 ## 社名の由来
 
 元々自動車チューニングパーツメーカーである[アペックスのレース部門](https://ja.wikipedia.org/wiki/Apex "wikilink")（現在は完全分社化）であったことから、アペックスレーシングを略して「apr」となった。
 
-分社化以降は、[ポールポジション](https://ja.wikipedia.org/wiki/ポールポジション "wikilink")(pole position)の“p”と[レーシング](https://ja.wikipedia.org/wiki/カーレース "wikilink")(racing)の“r”に[電話帳](../Page/電話帳.md "wikilink")の英字検索で最初のほうにくるようにと頭文字に“a”が添付された、と説明されている（ちなみに考案者は[新田守男](../Page/新田守男.md "wikilink")）。
+分社化以降は、[ポールポジション](../Page/ポールポジション.md "wikilink")(pole position)の“p”と[レーシング](https://ja.wikipedia.org/wiki/カーレース "wikilink")(racing)の“r”に[電話帳](../Page/電話帳.md "wikilink")の英字検索で最初のほうにくるようにと頭文字に“a”が添付された、と説明されている（ちなみに考案者は[新田守男](../Page/新田守男.md "wikilink")）。
 
 ## 脚注
 

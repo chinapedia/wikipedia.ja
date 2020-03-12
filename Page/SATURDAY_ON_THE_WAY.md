@@ -1,11 +1,11 @@
 > この記事は[SATURDAY ON THE WAY](https://ja.wikipedia.org/wiki/SATURDAY_ON_THE_WAY)から翻訳されています。
 
 
-『**SATURDAY ON THE WAY**』（サタデー・オン・ザ・ウェイ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月1日](../Page/4月1日.md "wikilink") - [2009年](../Page/2009年.md "wikilink")9月26日まで放送していた[土曜日](../Page/土曜日.md "wikilink")朝の[JFN系の](../Page/全国FM放送協議会.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。基本的な放送時間は、6時00分 - 8時55分（[JST](../Page/日本標準時.md "wikilink")。2009年4月 - ）。かつてのスタート時間は5時00分だったが、「ON THE WAY ジャーナル」がスタートした2009年1月からは5時30分スタートに繰り下がり、2009年4月からは3年ぶりに[RADIO JAPAN時代の放送枠に戻ったことになる](https://ja.wikipedia.org/wiki/RADIO_JAPAN "wikilink")。番組内では「**サタオン**」と略される。
+『**SATURDAY ON THE WAY**』（サタデー・オン・ザ・ウェイ）は、[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - [2009年](../Page/2009年.md "wikilink")9月26日まで放送していた[土曜日](../Page/土曜日.md "wikilink")朝の[JFN系の](../Page/全国FM放送協議会.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。基本的な放送時間は、6時00分 - 8時55分（[JST](../Page/日本標準時.md "wikilink")。2009年4月 - ）。かつてのスタート時間は5時00分だったが、「ON THE WAY ジャーナル」がスタートした2009年1月からは5時30分スタートに繰り下がり、2009年4月からは3年ぶりに[RADIO JAPAN時代の放送枠に戻ったことになる](../Page/RADIO_JAPAN.md "wikilink")。番組内では「**サタオン**」と略される。
 
-また、この番組のスタートと同時に、[TOKYO FMでのネットも開始されたが](../Page/エフエム東京.md "wikilink")、2008年3月29日をもって打ち切られた。TFMの週末番組ネットは[RADIO JAPAN onSunday以来だった](https://ja.wikipedia.org/wiki/RADIO_JAPAN_onSunday "wikilink")。ちなみに番組で使用されるジングルが[FM OSAKAのステーションジングルと非常に似ている](../Page/エフエム大阪.md "wikilink")。
+また、この番組のスタートと同時に、[TOKYO FMでのネットも開始されたが](../Page/エフエム東京.md "wikilink")、2008年3月29日をもって打ち切られた。TFMの週末番組ネットは[RADIO JAPAN onSunday以来だった](../Page/RADIO_JAPAN_onSunday.md "wikilink")。ちなみに番組で使用されるジングルが[FM OSAKAのステーションジングルと非常に似ている](../Page/エフエム大阪.md "wikilink")。
 
-2009年9月26日をもって終了。「[FMさわやかスタジオ](https://ja.wikipedia.org/wiki/FMさわやかスタジオ "wikilink")」から土曜朝の顔として親しまれてきた[伊津野亮](https://ja.wikipedia.org/wiki/伊津野亮 "wikilink")はこの番組を最後に同時間帯から卒業している。
+2009年9月26日をもって終了。「[FMさわやかスタジオ](https://ja.wikipedia.org/wiki/FMさわやかスタジオ "wikilink")」から土曜朝の顔として親しまれてきた[伊津野亮](../Page/伊津野亮.md "wikilink")はこの番組を最後に同時間帯から卒業している。
 
 なお、[NACK5の同名の番組とは無関係で](../Page/エフエムナックファイブ.md "wikilink")、内容も異なる。
 
@@ -26,7 +26,7 @@
       -
         スポーツ紙一面の紹介
   - 6:41　メッセージ紹介
-  - 6:45　[Traffic Report](https://ja.wikipedia.org/wiki/交通情報 "wikilink")（トラフィック・リポート）
+  - 6:45　[Traffic Report](../Page/交通情報.md "wikilink")（トラフィック・リポート）
       -
         東北から九州までの全国の高速道路の交通情報を伝える。
   - 6:56　メッセージ紹介
@@ -38,16 +38,16 @@
       -
         スポーツニュースとゴルフ情報を放送
   - 7:17　メッセージ紹介
-  - 7:22　【[ローカル枠](../Page/自社製作番組.md "wikilink")／JFNからは[BGM](https://ja.wikipedia.org/wiki/CMフィラー "wikilink")】<sup>※1</sup>
+  - 7:22　【[ローカル枠](../Page/自社製作番組.md "wikilink")／JFNからは[BGM](../Page/CMフィラー.md "wikilink")】<sup>※1</sup>
   - 7:29　Weather Information（ウェザーインフォメーション）
       -
-        [日本気象協会](https://ja.wikipedia.org/wiki/日本気象協会 "wikilink")の人が[気象情報](https://ja.wikipedia.org/wiki/気象情報 "wikilink")を伝える。気象情報を伝えた後に伊津野と会話する。話の内容は前番組と同じように原則気象の話題になる。ただし、坂上が担当の時は野球（特に阪神）の話題になる。一時伊津野との会話がない時期があったが、女性の方が担当するようになってしばらく経ったら「クリスマスの予定とかは？」等の質問を伊津野がカットインしてするようになった。
+        [日本気象協会](../Page/日本気象協会.md "wikilink")の人が[気象情報](https://ja.wikipedia.org/wiki/気象情報 "wikilink")を伝える。気象情報を伝えた後に伊津野と会話する。話の内容は前番組と同じように原則気象の話題になる。ただし、坂上が担当の時は野球（特に阪神）の話題になる。一時伊津野との会話がない時期があったが、女性の方が担当するようになってしばらく経ったら「クリスマスの予定とかは？」等の質問を伊津野がカットインしてするようになった。
   - 7.32　WEEKLY NEWS（ウィークリー・ニュース）
       -
         1週間のニュースの中から伊津野の気になるニュースを取り上げる。
   - 7:42　メッセージ紹介
   - 7:55　エンディング
-      - [岩手](../Page/エフエム岩手.md "wikilink")・[栃木](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")・[富山](https://ja.wikipedia.org/wiki/富山エフエム放送 "wikilink")・[佐賀](../Page/エフエム佐賀.md "wikilink")・[熊本](../Page/エフエム熊本.md "wikilink")・[大分](../Page/エフエム大分.md "wikilink")・[広島](../Page/広島エフエム放送.md "wikilink")・ 飛び降り
+      - [岩手](../Page/エフエム岩手.md "wikilink")・[栃木](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")・[富山](../Page/富山エフエム放送.md "wikilink")・[佐賀](../Page/エフエム佐賀.md "wikilink")・[熊本](../Page/エフエム熊本.md "wikilink")・[大分](../Page/エフエム大分.md "wikilink")・[広島](../Page/広島エフエム放送.md "wikilink")・ 飛び降り
 
 ### 8時台
 
@@ -92,7 +92,7 @@
       - 山口：8:25- PUSH ONE
       - 山陰：7:50- ゴルフ・ショート・ショット◇7:55- ウェザーリポート
       - 山形：7:50- 音のゆりかご
-      - 秋田：5:55- [心のともしび](https://ja.wikipedia.org/wiki/心のともしび "wikilink")
+      - 秋田：5:55- [心のともしび](../Page/心のともしび.md "wikilink")
       - 青森：7:30- 失敗しない青森の家づくり◇7:41- [ビバ\!地球市民](https://ja.wikipedia.org/wiki/ビバ!地球市民 "wikilink")◇7:55- [防災インデックス〜その時のために](https://ja.wikipedia.org/wiki/防災インデックス〜その時のために "wikilink")
       - 大阪：7:50- Traffic Report
 
@@ -111,11 +111,11 @@
 
 ## パーソナリティー
 
-  - [伊津野亮](https://ja.wikipedia.org/wiki/伊津野亮 "wikilink")（前番組「RADIO JAPAN」時代からの流れ）
-  - [トムセン陽子](https://ja.wikipedia.org/wiki/トムセン陽子 "wikilink")（2008年3月29日まで）
+  - [伊津野亮](../Page/伊津野亮.md "wikilink")（前番組「RADIO JAPAN」時代からの流れ）
+  - [トムセン陽子](../Page/トムセン陽子.md "wikilink")（2008年3月29日まで）
   - [中みつ美](https://ja.wikipedia.org/wiki/中みつ美 "wikilink")（2008年4月5日から）
 
-なお、従来はこの時間の女性パーソナリティーは、この番組の後の『[JFNニュース](https://ja.wikipedia.org/wiki/JFNニュース "wikilink")』のキャスターを引き続き担当したが、この番組の後には担当しない（担当は2006年4月現在、[デイリーフライヤー](https://ja.wikipedia.org/wiki/デイリーフライヤー "wikilink")パーソナリティーの[大橋俊夫](https://ja.wikipedia.org/wiki/大橋俊夫 "wikilink")で、前座番組の[DAYBREAK FRIDAYに引継ぎ出演](https://ja.wikipedia.org/wiki/DAYBREAK_FRIDAY "wikilink")）。
+なお、従来はこの時間の女性パーソナリティーは、この番組の後の『[JFNニュース](../Page/JFNニュース.md "wikilink")』のキャスターを引き続き担当したが、この番組の後には担当しない（担当は2006年4月現在、[デイリーフライヤー](https://ja.wikipedia.org/wiki/デイリーフライヤー "wikilink")パーソナリティーの[大橋俊夫](../Page/大橋俊夫.md "wikilink")で、前座番組の[DAYBREAK FRIDAYに引継ぎ出演](https://ja.wikipedia.org/wiki/DAYBREAK_FRIDAY "wikilink")）。
 
 前番組までと違って、トムセンないしは中が番組の全体進行を担うことになり、伊津野より先に自己紹介していた。
 
@@ -136,10 +136,10 @@
   - ★[V-air（エフエム山陰）](../Page/エフエム山陰.md "wikilink")（7:55 [ゴルフ・ショート・ショット](https://ja.wikipedia.org/wiki/ゴルフ・ショート・ショット "wikilink")）
   - ★[FM三重](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")（8:20 レディオキューブトラフィック）
   - [Radio80（岐阜エフエム放送）](https://ja.wikipedia.org/wiki/岐阜エフエム放送 "wikilink")
-  - [FM福井](https://ja.wikipedia.org/wiki/福井エフエム放送 "wikilink")
+  - [FM福井](../Page/福井エフエム放送.md "wikilink")
   - [Hello Five（エフエム石川）](../Page/エフエム石川.md "wikilink")
-  - ★[FM長野](https://ja.wikipedia.org/wiki/長野エフエム放送 "wikilink")（8:25 [県政インフォメーション](../Page/長野県.md "wikilink")＆[ワンポイントガイド](https://ja.wikipedia.org/wiki/松本市 "wikilink")）
-  - ★[FM-NIIGATA（新潟）](https://ja.wikipedia.org/wiki/エフエムラジオ新潟 "wikilink")（7:55 [Nice Town にいがた](https://ja.wikipedia.org/wiki/新潟市 "wikilink")◇8:21 [N-PRO](https://ja.wikipedia.org/wiki/N-PRO "wikilink")）
+  - ★[FM長野](../Page/長野エフエム放送.md "wikilink")（8:25 [県政インフォメーション](../Page/長野県.md "wikilink")＆[ワンポイントガイド](../Page/松本市.md "wikilink")）
+  - ★[FM-NIIGATA（新潟）](../Page/エフエムラジオ新潟.md "wikilink")（7:55 [Nice Town にいがた](https://ja.wikipedia.org/wiki/新潟市 "wikilink")◇8:21 [N-PRO](https://ja.wikipedia.org/wiki/N-PRO "wikilink")）
   - [FMふくしま](../Page/エフエム福島.md "wikilink")
   - ★[Boy FM（エフエム山形）](../Page/エフエム山形.md "wikilink")　（7:50 音のゆりかご◇8:21 Monthly Hot Play）
 
@@ -165,10 +165,10 @@
 
 #### 8:00まで
 
-  - ★[FMK（エフエム熊本）](../Page/エフエム熊本.md "wikilink")（7:22 [POWER WAVE](https://ja.wikipedia.org/wiki/ヘヴィー・ローテーション "wikilink")）
+  - ★[FMK（エフエム熊本）](../Page/エフエム熊本.md "wikilink")（7:22 [POWER WAVE](../Page/ヘヴィー・ローテーション.md "wikilink")）
   - [レディオ・ベリー（エフエム栃木）](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")
   - [AFM（エフエム秋田）](../Page/エフエム秋田.md "wikilink")
-  - ★[FMとやま](https://ja.wikipedia.org/wiki/富山エフエム放送 "wikilink")（7:24 [杉本英世](https://ja.wikipedia.org/wiki/杉本英世 "wikilink")の[ゴルフクリニック](https://ja.wikipedia.org/wiki/ゴルフクリニック "wikilink")）
+  - ★[FMとやま](../Page/富山エフエム放送.md "wikilink")（7:24 [杉本英世](https://ja.wikipedia.org/wiki/杉本英世 "wikilink")の[ゴルフクリニック](https://ja.wikipedia.org/wiki/ゴルフクリニック "wikilink")）
 
 #### 8時台途中終了
 
@@ -180,8 +180,8 @@
 ## JFN過去ネット番組
 
   - [FMさわやかスタジオ](https://ja.wikipedia.org/wiki/FMさわやかスタジオ "wikilink")
-  - [MORNING CUBE〜SATURDAY NETWORK〜](https://ja.wikipedia.org/wiki/MORNING_CUBE〜SATURDAY_NETWORK〜 "wikilink")
-  - [RADIO JAPAN](https://ja.wikipedia.org/wiki/RADIO_JAPAN "wikilink")
+  - [MORNING CUBE〜SATURDAY NETWORK〜](../Page/MORNING_CUBE〜SATURDAY_NETWORK〜.md "wikilink")
+  - [RADIO JAPAN](../Page/RADIO_JAPAN.md "wikilink")
 
 ## 外部リンク
 

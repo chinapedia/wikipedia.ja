@@ -1,7 +1,7 @@
 > この記事は[Amimo](https://ja.wikipedia.org/wiki/Amimo)から翻訳されています。
 
 
-**amimo 有限責任事業組合**（amimo LLP、あみも）は、[プロダクション・アイジー](../Page/プロダクション・アイジー.md "wikilink")と[トランスコスモス](../Page/トランスコスモス.md "wikilink")が共同出資し[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")に設立した[有限責任事業組合](../Page/LLP.md "wikilink") (LLP) である。「clappa！」及び「デコブログ」を運営している\[1\]。
+**amimo 有限責任事業組合**（amimo LLP、あみも）は、[プロダクション・アイジー](../Page/プロダクション・アイジー.md "wikilink")と[トランスコスモス](../Page/トランスコスモス.md "wikilink")が共同出資し[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")に設立した[有限責任事業組合](../Page/LLP.md "wikilink") (LLP) である。「clappa！」及び「デコブログ」を運営している\[1\]。
 
 出資金は1億円。出資比率はトランスコスモスが75%、プロダクション・アイジーが25%である。
 

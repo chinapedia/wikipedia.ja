@@ -1,7 +1,7 @@
 > この記事は[News](https://ja.wikipedia.org/wiki/News)から翻訳されています。
 
 
-『**中京テレビNEWSリアルタイム**』（ちゅうきょうテレビニュースリアルタイム）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[中京テレビ](../Page/中京テレビ放送.md "wikilink")（CTV）で放送されていた夕方の[ニュース](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』の[中京広域圏](https://ja.wikipedia.org/wiki/中京広域圏 "wikilink")（[東海3県](https://ja.wikipedia.org/wiki/東海3県 "wikilink")）ローカル版。前番組は『[中京テレビニュースプラス1](https://ja.wikipedia.org/wiki/中京テレビニュースプラス1 "wikilink")』、後番組は『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』[中京テレビローカルパート](https://ja.wikipedia.org/wiki/news_every._\(中京テレビ\) "wikilink")。
+『**中京テレビNEWSリアルタイム**』（ちゅうきょうテレビニュースリアルタイム）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[中京テレビ](../Page/中京テレビ放送.md "wikilink")（CTV）で放送されていた夕方の[ニュース](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』の[中京広域圏](https://ja.wikipedia.org/wiki/中京広域圏 "wikilink")（[東海3県](../Page/東海3県.md "wikilink")）ローカル版。前番組は『[中京テレビニュースプラス1](../Page/中京テレビニュースプラス1.md "wikilink")』、後番組は『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』[中京テレビローカルパート](https://ja.wikipedia.org/wiki/news_every._\(中京テレビ\) "wikilink")。
 
 ## 概要
 
@@ -15,13 +15,13 @@
 
 ### 2006年9月のリニューアル
 
-同年9月4日から16:48スタートに約1時間拡大、3部構成となる。第1部（17時台前半）と第3部（[全国ニュース以降の](../Page/報道番組.md "wikilink")18時台）はニュースをメインに、第2部（17時台後半）はニュース以外の情報をメインにする構成となった。全国ニュース（17:50 - 18:16）のみネットしていた日本テレビからの『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』については、新たに17時台のニュースと芸能コーナー「リアルエンタメ」のネットを開始。ローカル枠については、主婦層をターゲットに生活・グルメ情報をメインにした新コーナー「楽ナビ」が第2部でスタート。『[クスクス](https://ja.wikipedia.org/wiki/クスクス_\(テレビ番組\) "wikilink")』などの情報番組を担当してきた[本田恵美](https://ja.wikipedia.org/wiki/本田恵美 "wikilink")が中継リポーターとして登場するなど、情報番組としての側面を強くした。ちなみに、7月と8月の各1回に16:48スタートで拡大スペシャルが放送されたが、この時のタイムテーブルが、今回のリニューアル時のタイムテーブルとほぼ同じである。このことから、拡大スペシャルはこのリニューアルのシミュレーションを兼ねていたものと思われる。このリニューアルにより、夕方ニュース時間帯で放送開始時間が[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")を抜いて在名局で一番早くなり、放送時間も一番長くなった。また、夕方のニュース番組が元々17時台の[テレビ愛知](../Page/テレビ愛知.md "wikilink")を除くと、[東海テレビ以外の在名局の夕方のニュース番組は](../Page/東海テレビ放送.md "wikilink")2時間で放送することとなった。
+同年9月4日から16:48スタートに約1時間拡大、3部構成となる。第1部（17時台前半）と第3部（[全国ニュース以降の](../Page/報道番組.md "wikilink")18時台）はニュースをメインに、第2部（17時台後半）はニュース以外の情報をメインにする構成となった。全国ニュース（17:50 - 18:16）のみネットしていた日本テレビからの『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』については、新たに17時台のニュースと芸能コーナー「リアルエンタメ」のネットを開始。ローカル枠については、主婦層をターゲットに生活・グルメ情報をメインにした新コーナー「楽ナビ」が第2部でスタート。『[クスクス](../Page/クスクス_\(テレビ番組\).md "wikilink")』などの情報番組を担当してきた[本田恵美](../Page/本田恵美.md "wikilink")が中継リポーターとして登場するなど、情報番組としての側面を強くした。ちなみに、7月と8月の各1回に16:48スタートで拡大スペシャルが放送されたが、この時のタイムテーブルが、今回のリニューアル時のタイムテーブルとほぼ同じである。このことから、拡大スペシャルはこのリニューアルのシミュレーションを兼ねていたものと思われる。このリニューアルにより、夕方ニュース時間帯で放送開始時間が[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")を抜いて在名局で一番早くなり、放送時間も一番長くなった。また、夕方のニュース番組が元々17時台の[テレビ愛知](../Page/テレビ愛知.md "wikilink")を除くと、[東海テレビ以外の在名局の夕方のニュース番組は](../Page/東海テレビ放送.md "wikilink")2時間で放送することとなった。
 
 2007年8月6日、「地域密着」を視野に入れた小規模なリニューアルを実施。17時台ニュースのネットを打ち切り（ニュース1、2本を録画放送に変更）、「楽ナビ」の枠を拡大し、日テレの17時台特集コーナー「リアル目線」の時差ネットを開始するなど、17時台のタイムテーブルを変更した。しかし、実験的な変更だったのか同年9月に、タイムテーブルが再び2006年9月のリニューアル時のタイムテーブルに戻った。
 
 ### 2007年10月のリニューアル
 
-2007年10月1日から『[情報ライブ ミヤネ屋](https://ja.wikipedia.org/wiki/情報ライブ_ミヤネ屋 "wikilink")』のネット開始などに伴う改編のため、再びリニューアル。月曜～木曜の放送時間は7分拡大となるが、「楽ナビ」は終了となった。これにより、17時台は全て[日本テレビの](../Page/日本テレビ放送網.md "wikilink")17時台をフルネットに変更となった。なお17時台のうち、天気予報とヘッドラインは中京テレビからの放送に差し替えている。金曜日は9月までと同様に、17時台は17時20分頃まで日テレからの全国ニュースで21分頃から中京テレビに戻り、43分頃日テレ制作のリアルエンタメのコーナーを放送したが一部しか放送しなかった(最初に紹介VTRが出ていたが全編放送されなかった)。また、東京からのCM前のニュースの予告が放送されるが、そのニュースの内容は放送されず、CM明けに中京テレビに飛び降りる。金曜日のみ中京テレビローカル枠内でもコメンテーターを置くことになり、2007年9月まで放送していた[エミエミ](../Page/エミエミ.md "wikilink")のコメンテーターだった[内田忠男](https://ja.wikipedia.org/wiki/内田忠男 "wikilink")を起用した。
+2007年10月1日から『[情報ライブ ミヤネ屋](../Page/情報ライブ_ミヤネ屋.md "wikilink")』のネット開始などに伴う改編のため、再びリニューアル。月曜～木曜の放送時間は7分拡大となるが、「楽ナビ」は終了となった。これにより、17時台は全て[日本テレビの](../Page/日本テレビ放送網.md "wikilink")17時台をフルネットに変更となった。なお17時台のうち、天気予報とヘッドラインは中京テレビからの放送に差し替えている。金曜日は9月までと同様に、17時台は17時20分頃まで日テレからの全国ニュースで21分頃から中京テレビに戻り、43分頃日テレ制作のリアルエンタメのコーナーを放送したが一部しか放送しなかった(最初に紹介VTRが出ていたが全編放送されなかった)。また、東京からのCM前のニュースの予告が放送されるが、そのニュースの内容は放送されず、CM明けに中京テレビに飛び降りる。金曜日のみ中京テレビローカル枠内でもコメンテーターを置くことになり、2007年9月まで放送していた[エミエミ](../Page/エミエミ.md "wikilink")のコメンテーターだった[内田忠男](../Page/内田忠男.md "wikilink")を起用した。
 
 ### その他
 
@@ -93,8 +93,8 @@
 <ul>
 <li><sup>1</sup> 『中京テレビニュースプラス1』と同じ時間帯でスタート。</li>
 <li><sup>2</sup> 『ニュースプラス1』と変わらず。ローカルニュースは18:18頃から。</li>
-<li><sup>3</sup> <a href="../Page/東京ドーム.md" title="wikilink">東京ドーム</a>の<a href="https://ja.wikipedia.org/wiki/読売ジャイアンツ" title="wikilink">巨人</a>・<a href="https://ja.wikipedia.org/wiki/中日ドラゴンズ" title="wikilink">中日戦が放送される日は原則</a>18:30まで放送。ただ、末期では全国枠が終わる18:16から切り替わる場合もあった。その場合はローカルキャスターは放送開始から10分程の出演のみとなった。</li>
-<li><sup>4</sup> 『<a href="https://ja.wikipedia.org/wiki/情報ライブ_ミヤネ屋" title="wikilink">情報ライブ ミヤネ屋</a>』改編のため、放送時間の変更が行われた。2008年9月まで16:45ごろに同枠内で放送していた「健康ナビ」は、15:48 - 15:55の『<a href="https://ja.wikipedia.org/wiki/ミヤネ屋_中京テレビNEWS" title="wikilink">ミヤネ屋 中京テレビNEWS</a>』内で放送された。</li>
+<li><sup>3</sup> <a href="../Page/東京ドーム.md" title="wikilink">東京ドーム</a>の<a href="https://ja.wikipedia.org/wiki/読売ジャイアンツ" title="wikilink">巨人</a>・<a href="../Page/中日ドラゴンズ.md" title="wikilink">中日戦が放送される日は原則</a>18:30まで放送。ただ、末期では全国枠が終わる18:16から切り替わる場合もあった。その場合はローカルキャスターは放送開始から10分程の出演のみとなった。</li>
+<li><sup>4</sup> 『<a href="../Page/情報ライブ_ミヤネ屋.md" title="wikilink">情報ライブ ミヤネ屋</a>』改編のため、放送時間の変更が行われた。2008年9月まで16:45ごろに同枠内で放送していた「健康ナビ」は、15:48 - 15:55の『<a href="https://ja.wikipedia.org/wiki/ミヤネ屋_中京テレビNEWS" title="wikilink">ミヤネ屋 中京テレビNEWS</a>』内で放送された。</li>
 <li><sup>5</sup> 従来の時間帯に月曜19時台前半より『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』が移動することが決まり、『ニュースプラス1』以来19年半ぶりに枠移動となる。ローカルニュースは17:48頃から。</li>
 <li><sup>6</sup> 『ミヤネ屋 中京テレビNEWS』の廃枠に伴い、放送枠が拡大。</li>
 </ul>
@@ -144,7 +144,7 @@
   - 17:30 全国ニュース
   - 17:48頃 ローカルニュース
   - 17:52頃 特集（スポーツもの中心）
-  - 17:54頃 『[SPORTS STADIUM](https://ja.wikipedia.org/wiki/SPORTS_STADIUM "wikilink")』の予告、天気予報 - 時間の都合上、天気予報はカットされる場合があった。
+  - 17:54頃 『[SPORTS STADIUM](../Page/SPORTS_STADIUM.md "wikilink")』の予告、天気予報 - 時間の都合上、天気予報はカットされる場合があった。
   - 17:55頃 提供クレジット - ENDクレジット無しで終了。
 
 ## これまでのタイムテーブル
@@ -194,7 +194,7 @@
 ### 特集
 
   - 平日18:20頃から放送。通常は「リアルタイム特集」だが、ドキュメントや硬派系など内容によっては、「激撮リアル」として放送。また2007年10月には、新たに問題の真相に迫る「カラクリ」がスタート。
-  - 不定期でシリーズ企画もあり、『[NNNドキュメント](https://ja.wikipedia.org/wiki/NNNドキュメント "wikilink")』で放送されることもある。
+  - 不定期でシリーズ企画もあり、『[NNNドキュメント](../Page/NNNドキュメント.md "wikilink")』で放送されることもある。
   - 金曜日の特集では、タクシーの乗客の本音を聞くコーナーが放送されることが多い
   - 「リアル目線」については、2007年8月6日から「楽ナビ」内でネット（厳密には、日テレより5分前後遅れての同日時差ネット）するようになったが、その後ネットを打ち切り。しかし、2007年10月から再びネットするようになった。
   - 金曜日に、リアルナビの内容をこの時間に放送する場合がある。
@@ -211,13 +211,13 @@
 ### 土曜日
 
   - 土曜日の放送では、専用のスタジオは使用せず、スタジオ改装時以外は定時ニュースのスタジオを使用。テロップも定時ニュースのを使用している。
-  - 平日とは違い、注目の競技や選手に密着したスポーツコーナーがある。さらに日曜夕方のスポーツ番組『[SPORTS STADIUM](https://ja.wikipedia.org/wiki/SPORTS_STADIUM "wikilink")』の予告がある。
+  - 平日とは違い、注目の競技や選手に密着したスポーツコーナーがある。さらに日曜夕方のスポーツ番組『[SPORTS STADIUM](../Page/SPORTS_STADIUM.md "wikilink")』の予告がある。
 
 ### かつてのコーナー
 
 #### 楽ナビ
 
-  - 2006年9月のリニューアルでスタートした平日第2部のコーナー。進行はサブキャスターである[松岡陽子](https://ja.wikipedia.org/wiki/松岡陽子 "wikilink")が担当。この時間帯メインキャスターである本多小百合は出演しなかった。
+  - 2006年9月のリニューアルでスタートした平日第2部のコーナー。進行はサブキャスターである[松岡陽子](../Page/松岡陽子.md "wikilink")が担当。この時間帯メインキャスターである本多小百合は出演しなかった。
   - 内容は、生活情報やグルメ情報が中心。話題の人気スポット紹介や中継、暮らしに役立つ裏技など生活密着情報を紹介するとともに、「まつおか式検索」「松岡陽子の現場へGO\!\!」では身近な社会問題等を松岡自身が取材する企画もあった。
   - 17:40頃から芸能コーナー「リアルエンタメ」をネット。ただし、タイムテーブルの都合上、日テレより数分遅れの同日時差ネットの場合が多かった。
   - 金曜日は、日テレの特集コーナー「リアル特集」「リアル目線」で放送された特集を遅れて放送する場合が多いため「リアルエンタメ」のネットをしないことが多かった。
@@ -247,7 +247,7 @@
 <tr class="even">
 <td><p>2006.4.3</p></td>
 <td><p>2008.6.27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本多小百合" title="wikilink">本多小百合</a><sup>1</sup></p></td>
+<td><p><a href="../Page/本多小百合.md" title="wikilink">本多小百合</a><sup>1</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008.6.30</p></td>
@@ -257,7 +257,7 @@
 <tr class="even">
 <td><p>2009.3.16</p></td>
 <td><p>2010.3.26</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/恩田千佐子" title="wikilink">恩田千佐子</a></p></td>
+<td><p><a href="../Page/恩田千佐子.md" title="wikilink">恩田千佐子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><small></p>
@@ -277,10 +277,10 @@
 
 以下の4名はnews every.もおよそ1年間続投。
 
-  - 月曜日：[加藤清隆](https://ja.wikipedia.org/wiki/加藤清隆 "wikilink")（[時事通信社](https://ja.wikipedia.org/wiki/時事通信社 "wikilink")前政治部長）
+  - 月曜日：[加藤清隆](https://ja.wikipedia.org/wiki/加藤清隆 "wikilink")（[時事通信社](../Page/時事通信社.md "wikilink")前政治部長）
   - 火曜日：[内田俊宏](../Page/内田俊宏.md "wikilink")（[三菱UFJリサーチ&コンサルティング](../Page/三菱UFJリサーチ&コンサルティング.md "wikilink")エコノミスト）
   - 水曜日：[玉越清美](https://ja.wikipedia.org/wiki/玉越清美 "wikilink")（元[愛知県警](https://ja.wikipedia.org/wiki/愛知県警察 "wikilink")[中警察署](../Page/中警察署.md "wikilink")長）
-  - 木曜日・金曜日：[内田忠男](https://ja.wikipedia.org/wiki/内田忠男 "wikilink")（国際ジャーナリスト/[名古屋外国語大学](../Page/名古屋外国語大学.md "wikilink")教授）
+  - 木曜日・金曜日：[内田忠男](../Page/内田忠男.md "wikilink")（国際ジャーナリスト/[名古屋外国語大学](../Page/名古屋外国語大学.md "wikilink")教授）
 
 <!-- end list -->
 
@@ -288,12 +288,12 @@
 
 <!-- end list -->
 
-  - [本田恵美](https://ja.wikipedia.org/wiki/本田恵美 "wikilink")
-  - [高橋重憲](https://ja.wikipedia.org/wiki/高橋重憲 "wikilink")（当時中京テレビアナウンサー）
+  - [本田恵美](../Page/本田恵美.md "wikilink")
+  - [高橋重憲](../Page/高橋重憲.md "wikilink")（当時中京テレビアナウンサー）
   - [水谷陽介](https://ja.wikipedia.org/wiki/水谷陽介 "wikilink")
-  - [我妻絵美](https://ja.wikipedia.org/wiki/我妻絵美 "wikilink")（当時中京テレビアナウンサー）
+  - [我妻絵美](../Page/我妻絵美.md "wikilink")（当時中京テレビアナウンサー）
   - [鹿内美沙](https://ja.wikipedia.org/wiki/鹿内美沙 "wikilink")（同上）
-  - ごく稀に[藤井利彦](https://ja.wikipedia.org/wiki/藤井利彦 "wikilink")（当時中京テレビ記者）が出演することもあった。
+  - ごく稀に[藤井利彦](../Page/藤井利彦.md "wikilink")（当時中京テレビ記者）が出演することもあった。
 
 <!-- end list -->
 
@@ -310,15 +310,15 @@
 ### 過去の出演者
 
   - [磯部悦子](../Page/磯部悦子.md "wikilink")（ナレーター、当時中京テレビアナウンサー）
-  - [鶴木陽子](https://ja.wikipedia.org/wiki/鶴木陽子 "wikilink")（同上）
-  - [金山泉](https://ja.wikipedia.org/wiki/金山泉 "wikilink")（リポーター、当時中京テレビアナウンサー）
-  - [尾原秀三](https://ja.wikipedia.org/wiki/尾原秀三 "wikilink")（同上）
+  - [鶴木陽子](../Page/鶴木陽子.md "wikilink")（同上）
+  - [金山泉](../Page/金山泉.md "wikilink")（リポーター、当時中京テレビアナウンサー）
+  - [尾原秀三](../Page/尾原秀三.md "wikilink")（同上）
   - [加藤泰子](../Page/加藤泰子.md "wikilink")（同上）
-  - [前田麻衣子](https://ja.wikipedia.org/wiki/前田麻衣子 "wikilink")（リポーター）
+  - [前田麻衣子](../Page/前田麻衣子.md "wikilink")（リポーター）
 
 ## テーマソング
 
-  - [navy\&ivory](https://ja.wikipedia.org/wiki/navy&ivory "wikilink") 「[トワイライト](https://ja.wikipedia.org/wiki/トワイライト "wikilink")」([エンディングテーマ](https://ja.wikipedia.org/wiki/エンディングテーマ "wikilink")として使われた。)
+  - [navy\&ivory](https://ja.wikipedia.org/wiki/navy&ivory "wikilink") 「[トワイライト](../Page/トワイライト.md "wikilink")」([エンディングテーマ](https://ja.wikipedia.org/wiki/エンディングテーマ "wikilink")として使われた。)
 
 ## 関連項目
 

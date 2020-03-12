@@ -1,13 +1,13 @@
 > この記事は[WA](https://ja.wikipedia.org/wiki/WA)から翻訳されています。
 
 
-**クリストファー・ヴワディスワフ・アントニ・スピルマン**（Christopher Władysław Antoni Szpilman, [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink") - ）は、[ポーランド](../Page/ポーランド.md "wikilink")出身の歴史学者。歴史学博士。元[九州産業大学](https://ja.wikipedia.org/wiki/九州産業大学 "wikilink")国際文化学部教授。専門分野は日本近代政治思想史。特に[平沼騏一郎](../Page/平沼騏一郎.md "wikilink")や[大川周明](../Page/大川周明.md "wikilink")、[北一輝](../Page/北一輝.md "wikilink")、[満川亀太郎](../Page/満川亀太郎.md "wikilink")など、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")から[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")までの日本のナショナリズムやアジア主義を研究している。妻は日本の歴史学者の[佐藤千登勢](https://ja.wikipedia.org/wiki/佐藤千登勢 "wikilink")。
+**クリストファー・ヴワディスワフ・アントニ・スピルマン**（Christopher Władysław Antoni Szpilman, [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink") - ）は、[ポーランド](../Page/ポーランド.md "wikilink")出身の歴史学者。歴史学博士。元[九州産業大学](../Page/九州産業大学.md "wikilink")国際文化学部教授。専門分野は日本近代政治思想史。特に[平沼騏一郎](../Page/平沼騏一郎.md "wikilink")や[大川周明](../Page/大川周明.md "wikilink")、[北一輝](../Page/北一輝.md "wikilink")、[満川亀太郎](../Page/満川亀太郎.md "wikilink")など、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")から[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")までの日本のナショナリズムやアジア主義を研究している。妻は日本の歴史学者の[佐藤千登勢](../Page/佐藤千登勢.md "wikilink")。
 
 ## 経歴
 
-[ピアニスト](../Page/ピアニスト.md "wikilink")の[ウワディスワフ・シュピルマン](https://ja.wikipedia.org/wiki/ウワディスワフ・シュピルマン "wikilink")の長男として[ワルシャワ](../Page/ワルシャワ.md "wikilink")に生まれる。18歳でポーランドからイギリスに渡り、[リーズ大学](https://ja.wikipedia.org/wiki/リーズ大学 "wikilink")へ入学。 イギリスへ来てすぐに働いたアルバイト先の知人の薦めで、[柔道](../Page/柔道.md "wikilink")の道場に通い、このとき英国留学中の日本人と親しくなる。
+[ピアニスト](../Page/ピアニスト.md "wikilink")の[ウワディスワフ・シュピルマン](../Page/ウワディスワフ・シュピルマン.md "wikilink")の長男として[ワルシャワ](../Page/ワルシャワ.md "wikilink")に生まれる。18歳でポーランドからイギリスに渡り、[リーズ大学](../Page/リーズ大学.md "wikilink")へ入学。 イギリスへ来てすぐに働いたアルバイト先の知人の薦めで、[柔道](../Page/柔道.md "wikilink")の道場に通い、このとき英国留学中の日本人と親しくなる。
 
-[1973年](../Page/1973年.md "wikilink")、イギリスの[リーズ大学](https://ja.wikipedia.org/wiki/リーズ大学 "wikilink")を卒業後、[ロンドン](../Page/ロンドン.md "wikilink")市役所に勤務。
+[1973年](../Page/1973年.md "wikilink")、イギリスの[リーズ大学](../Page/リーズ大学.md "wikilink")を卒業後、[ロンドン](../Page/ロンドン.md "wikilink")市役所に勤務。
 
 [1976年](../Page/1976年.md "wikilink")、柔道クラブで親しくなった日本人留学生の出身地である[愛媛県](../Page/愛媛県.md "wikilink")川之江町（のちの[川之江市](../Page/川之江市.md "wikilink")、現在の[四国中央市](../Page/四国中央市.md "wikilink")）に住む。このとき、小さな英語塾で英語を教えた。
 
@@ -31,23 +31,23 @@
 
 [1993年](../Page/1993年.md "wikilink")8月から[1994年](../Page/1994年.md "wikilink")7月まで、[コネチカット大学](https://ja.wikipedia.org/wiki/コネチカット大学 "wikilink")（Conn College)歴史学部講師。
 
-[1994年](../Page/1994年.md "wikilink")、米国[デューク大学](https://ja.wikipedia.org/wiki/デューク大学 "wikilink")大学院に留学中だった日本人女性の[佐藤千登勢](https://ja.wikipedia.org/wiki/佐藤千登勢 "wikilink")と結婚。同年、夫人を伴って来日。
+[1994年](../Page/1994年.md "wikilink")、米国[デューク大学](../Page/デューク大学.md "wikilink")大学院に留学中だった日本人女性の[佐藤千登勢](../Page/佐藤千登勢.md "wikilink")と結婚。同年、夫人を伴って来日。
 
 [1996年](../Page/1996年.md "wikilink")4月から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月まで[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")文学部外国人研究員。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[拓殖大学](../Page/拓殖大学.md "wikilink")日本文化研究所の客員教授として拓大百年史の編纂に携わった。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、夫人が[西南学院大学](https://ja.wikipedia.org/wiki/西南学院大学 "wikilink")助教授となったことに伴い、夫婦で[福岡](../Page/福岡.md "wikilink")に移住。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、夫人が[西南学院大学](../Page/西南学院大学.md "wikilink")助教授となったことに伴い、夫婦で[福岡](../Page/福岡.md "wikilink")に移住。
 
 [2000年](../Page/2000年.md "wikilink")4月から[2003年](../Page/2003年.md "wikilink")7月まで、[北九州市立大学](../Page/北九州市立大学.md "wikilink")法学部非常勤講師。
 
-[2002年](../Page/2002年.md "wikilink")4月から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月まで、[九州産業大学](https://ja.wikipedia.org/wiki/九州産業大学 "wikilink")国際文化学部非常勤講師。
+[2002年](../Page/2002年.md "wikilink")4月から[2005年](../Page/2005年.md "wikilink")3月まで、[九州産業大学](../Page/九州産業大学.md "wikilink")国際文化学部非常勤講師。
 
 [2002年](../Page/2002年.md "wikilink")9月から、[九州大学](../Page/九州大学.md "wikilink")法学大学院留学生別科（CSPA）非常勤講師。（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月まで）
 
 [2003年](../Page/2003年.md "wikilink")10月から[2004年](../Page/2004年.md "wikilink")8月まで、[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")[ライシャワー日本研究所客員研究員](https://ja.wikipedia.org/wiki/エドウィン・O・ライシャワー日本研究所 "wikilink")。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月から[2015年](../Page/2015年.md "wikilink")3月まで、[九州産業大学](https://ja.wikipedia.org/wiki/九州産業大学 "wikilink")国際文化学部教授。
+[2005年](../Page/2005年.md "wikilink")4月から[2015年](../Page/2015年.md "wikilink")3月まで、[九州産業大学](../Page/九州産業大学.md "wikilink")国際文化学部教授。
 
 ## 人物・エピソード
 
@@ -62,15 +62,15 @@
 ### 単著
 
   - シュピルマンの時計（2003年8月、[小学館](../Page/小学館.md "wikilink")）ISBN 978-4093874595
-  - 近代日本の革新論とアジア主義―北一輝、大川周明、満川亀太郎らの思想と行動（2015年4月14日、[芦書房](https://ja.wikipedia.org/wiki/芦書房 "wikilink")）ISBN 978-4755612749
+  - 近代日本の革新論とアジア主義―北一輝、大川周明、満川亀太郎らの思想と行動（2015年4月14日、[芦書房](../Page/芦書房.md "wikilink")）ISBN 978-4755612749
 
 ### 編著
 
-  - [北一輝](../Page/北一輝.md "wikilink")『北一輝自筆修正版 国体論及び純正社会主義』（2008年1月、[ミネルヴァ書房](https://ja.wikipedia.org/wiki/ミネルヴァ書房 "wikilink")、編集：[長谷川雄一](https://ja.wikipedia.org/wiki/長谷川雄一 "wikilink")、[萩原稔](https://ja.wikipedia.org/wiki/萩原稔 "wikilink")）ISBN 978-4623040872
+  - [北一輝](../Page/北一輝.md "wikilink")『北一輝自筆修正版 国体論及び純正社会主義』（2008年1月、[ミネルヴァ書房](../Page/ミネルヴァ書房.md "wikilink")、編集：[長谷川雄一](https://ja.wikipedia.org/wiki/長谷川雄一 "wikilink")、[萩原稔](https://ja.wikipedia.org/wiki/萩原稔 "wikilink")）ISBN 978-4623040872
 
 ### 監修
 
-  - [本間九介](https://ja.wikipedia.org/wiki/本間九介 "wikilink")『朝鮮雑記――日本人が見た1894年の[李氏朝鮮](../Page/李氏朝鮮.md "wikilink")』（2016年1月30日、[祥伝社](https://ja.wikipedia.org/wiki/祥伝社 "wikilink")）ISBN 978-4396615536
+  - [本間九介](https://ja.wikipedia.org/wiki/本間九介 "wikilink")『朝鮮雑記――日本人が見た1894年の[李氏朝鮮](../Page/李氏朝鮮.md "wikilink")』（2016年1月30日、[祥伝社](../Page/祥伝社.md "wikilink")）ISBN 978-4396615536
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
 
 
-**しみけん**（[1979年](../Page/1979年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV男優](https://ja.wikipedia.org/wiki/AV男優 "wikilink")、[AV監督](https://ja.wikipedia.org/wiki/AV監督 "wikilink")である。また著述家、飲食店の経営者でもある。
+**しみけん**（[1979年](../Page/1979年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV男優](https://ja.wikipedia.org/wiki/AV男優 "wikilink")、[AV監督](../Page/AV監督.md "wikilink")である。また著述家、飲食店の経営者でもある。
 
 ## 人物
 
@@ -10,15 +10,15 @@
   - 弟子に[一徹](https://ja.wikipedia.org/wiki/一徹_\(AV男優\) "wikilink")、[イセドン内村](https://ja.wikipedia.org/wiki/イセドン内村 "wikilink")、[コンピューター園田](https://ja.wikipedia.org/wiki/コンピューター園田 "wikilink")、世界のやまけん、出てこい中平くん2号がいる\[2\]。
   - クイズ好きで知られ、学生時代はクイズ研究会に属しており\[3\]、クイズ歴は25年くらいだという\[4\]。[日本テレビの番組](../Page/日本テレビ放送網.md "wikilink")『今世紀最後\! [アメリカ横断ウルトラクイズ](https://ja.wikipedia.org/wiki/アメリカ横断ウルトラクイズ "wikilink")』では作問を担当、国内第一次予選の東京ドームにおける〇×クイズ第9問目（放送では第6問目）と早押しクイズで問題が採用される\[5\]。しかし、本人としては本選に出場したかったようで、作問は途中で放棄しクイズに参加するも、あえなく敗退\[6\]。失格した次の問題は、なんと自身が作成した問題であった\[7\]。[BSスカパー\!](https://ja.wikipedia.org/wiki/BSスカパー! "wikilink")の番組「[BAZOOKA\!\!\!](https://ja.wikipedia.org/wiki/BAZOOKA!!! "wikilink")」内の人気クイズ企画「[地下クイズ王決定戦](https://ja.wikipedia.org/wiki/地下クイズ王決定戦!! "wikilink")\!\!」では第2回準優勝、第3回準優勝、第4回優勝、第5回優勝の戦績を残している。
   - [趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")は[読書](../Page/読書.md "wikilink")、トレーニング、ドライブ、映画、[旅行](../Page/旅行.md "wikilink")、食事\[8\]。特技は[ブレイクダンス](../Page/ブレイクダンス.md "wikilink")\[9\]。
-  - 離婚歴があり、その女性との間に二人の子供がいる\[10\]。現在の[内縁](https://ja.wikipedia.org/wiki/内縁 "wikilink")（[事実婚](../Page/事実婚.md "wikilink")）の妻は[はあちゅう](https://ja.wikipedia.org/wiki/伊藤春香_\(編集者\) "wikilink")\[11\]。
+  - 離婚歴があり、その女性との間に二人の子供がいる\[10\]。現在の[内縁](../Page/内縁.md "wikilink")（[事実婚](../Page/事実婚.md "wikilink")）の妻は[はあちゅう](https://ja.wikipedia.org/wiki/伊藤春香_\(編集者\) "wikilink")\[11\]。
 
 ## 来歴
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[昭和学院秀英高等学校卒業](https://ja.wikipedia.org/wiki/昭和学院秀英中学校・高等学校 "wikilink")。一浪のち法政大学に入学したが、一度も大学に通うことなく中退。
-  - 1998年、高校卒業後の浪人中に[ゲイ雑誌](https://ja.wikipedia.org/wiki/ゲイ雑誌 "wikilink")『[Badi](https://ja.wikipedia.org/wiki/Badi "wikilink")』で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。その後、Badiの編集部員のひとりだった[マツコ・デラックス](../Page/マツコ・デラックス.md "wikilink")に「あんたはもっと真剣にAV男優を目指すべきだわ」と言われ、AVメーカーに履歴書を送る就活を行い、「君、ウンコ食べられる?」というAVメーカー側からの質問に「ここで『喰えない』と答えれば男優としての道が閉ざされる」と考えた彼は「喰えます」と即答。そして撮影当日、彼はがむしゃらに食べた結果、撮影終了後に監督から『呑み込まなくてよかったのに…』と言われた。すでに食べた彼は撮影後の帰り道、下痢が止まらなくなり数日経っても治らなかったので、病院で治療した。その時の治療費は約2万円。本作のギャラは1万5千円だったので苦痛の上に5千円の出費という痛手をした。しかし、それから多く仕事が舞い込んだ\[12\]。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、「東京オープン[ボディビル](https://ja.wikipedia.org/wiki/ボディビル "wikilink")選手権大会」の60kg級で6位となる\[13\]。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[昭和学院秀英高等学校卒業](../Page/昭和学院秀英中学校・高等学校.md "wikilink")。一浪のち法政大学に入学したが、一度も大学に通うことなく中退。
+  - 1998年、高校卒業後の浪人中に[ゲイ雑誌](../Page/ゲイ雑誌.md "wikilink")『[Badi](../Page/Badi.md "wikilink")』で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。その後、Badiの編集部員のひとりだった[マツコ・デラックス](../Page/マツコ・デラックス.md "wikilink")に「あんたはもっと真剣にAV男優を目指すべきだわ」と言われ、AVメーカーに履歴書を送る就活を行い、「君、ウンコ食べられる?」というAVメーカー側からの質問に「ここで『喰えない』と答えれば男優としての道が閉ざされる」と考えた彼は「喰えます」と即答。そして撮影当日、彼はがむしゃらに食べた結果、撮影終了後に監督から『呑み込まなくてよかったのに…』と言われた。すでに食べた彼は撮影後の帰り道、下痢が止まらなくなり数日経っても治らなかったので、病院で治療した。その時の治療費は約2万円。本作のギャラは1万5千円だったので苦痛の上に5千円の出費という痛手をした。しかし、それから多く仕事が舞い込んだ\[12\]。
+  - [2005年](../Page/2005年.md "wikilink")、「東京オープン[ボディビル](../Page/ボディビル.md "wikilink")選手権大会」の60kg級で6位となる\[13\]。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、「[AVグランプリ](https://ja.wikipedia.org/wiki/AVグランプリ "wikilink")2008」で『しみけんのプライベート7 FUCK』（[2007年](../Page/2007年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")、[アイデアポケット](../Page/アイデアポケット.md "wikilink")）が、[オムニバス](../Page/オムニバス.md "wikilink")部門最優秀賞を受賞\[14\]。
-  - [2011年](../Page/2011年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")、AV男優名を本名の「清水健」から「しみけん」に改名した\[15\]。
+  - [2011年](../Page/2011年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、AV男優名を本名の「清水健」から「しみけん」に改名した\[15\]。
   - [2015年](../Page/2015年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")、「[スカパー\!アダルト放送大賞](https://ja.wikipedia.org/wiki/スカパー!アダルト放送大賞 "wikilink")2015」で「抱かれたいAV男優賞」受賞\[16\]。
   - 2015年[8月16日](../Page/8月16日.md "wikilink")、東京・世田谷区にうんこ味のカレー屋『カレーショップ志み津』をオープンさせ話題となる\[17\]。店は[2016年](../Page/2016年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")に閉店した\[18\]が、同年の4月30日に[ロフトプラスワンWESTにて一日限定で復活した](../Page/新宿ロフトプラスワン.md "wikilink")\[19\]。
 
@@ -42,11 +42,11 @@
   - ザ・ナンパミラクル2/2 しみけん（フール）
       - [下北沢](../Page/下北沢.md "wikilink")\!\!編（2004年1月28日）
       - [中野](https://ja.wikipedia.org/wiki/中野区 "wikilink")\!\!編（2004年11月28日）
-      - [吉祥寺](https://ja.wikipedia.org/wiki/吉祥寺 "wikilink")\!\!編（2004年12月28日）
-      - [池袋](https://ja.wikipedia.org/wiki/池袋 "wikilink")西口\!\!編（2005年2月28日）
-      - [歌舞伎町](https://ja.wikipedia.org/wiki/歌舞伎町 "wikilink")\!\!編 （2005年4月28日）
+      - [吉祥寺](../Page/吉祥寺.md "wikilink")\!\!編（2004年12月28日）
+      - [池袋](../Page/池袋.md "wikilink")西口\!\!編（2005年2月28日）
+      - [歌舞伎町](../Page/歌舞伎町.md "wikilink")\!\!編 （2005年4月28日）
       - [松戸](https://ja.wikipedia.org/wiki/松戸市 "wikilink")\!\!編 （2005年7月22日）
-      - [西川口](https://ja.wikipedia.org/wiki/西川口_\(川口市\) "wikilink")〜[川口](../Page/川口_\(川口市\).md "wikilink")\!\!編（2005年7月28日）
+      - [西川口](../Page/西川口_\(川口市\).md "wikilink")〜[川口](../Page/川口_\(川口市\).md "wikilink")\!\!編（2005年7月28日）
 
 <!-- end list -->
 
@@ -77,7 +77,7 @@
       - 4時間DX（2016年6月10日）
   - 美魔女ナンパ\!\! しみけんが唸らす！熟女の理性吹き飛ぶ生FUCK！（ホットエンターテイメント）
       - [表参道編](../Page/表参道_\(原宿\).md "wikilink")（2016年2月10日）
-      - [錦糸町](https://ja.wikipedia.org/wiki/錦糸町 "wikilink")編（2016年9月10日）
+      - [錦糸町](../Page/錦糸町.md "wikilink")編（2016年9月10日）
 
 <!-- end list -->
 
@@ -102,7 +102,7 @@
 
 #### 女性向け作品
 
-  - ECSTASY 〜危険な香り〜（2003年5月21日、[V\&Rプランニング](https://ja.wikipedia.org/wiki/V&Rプランニング "wikilink")）※VHS
+  - ECSTASY 〜危険な香り〜（2003年5月21日、[V\&Rプランニング](../Page/V&Rプランニング.md "wikilink")）※VHS
   - 最後のキスを忘れない（2011年6月4日、[SILK LABO](https://ja.wikipedia.org/wiki/SILK_LABO "wikilink")）
   - The Best Collection 1（2011年6月4日、SILK LABO）
   - 3センチメートル 高まる鼓動を感じる距離（2011年12月8日、SILK LABO）
@@ -231,7 +231,7 @@
 
   - [恋のチューンネップ](https://ja.wikipedia.org/wiki/恋のチューンネップ "wikilink")（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")、1998年12月）
   - [熱血\!島田塾〜おれたちホンキ宣言〜](../Page/熱血!島田塾〜おれたちホンキ宣言〜.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、1999年）※レギュラー出演
-  - [ゴッドタン](https://ja.wikipedia.org/wiki/ゴッドタン "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [ゴッドタン](../Page/ゴッドタン.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
       - ストイック暗記王（2014年4月26日）
       - ゲーセワニュース 2015（2015年7月25日）
       - 禁断の未公開SP（2015年9月26日）
@@ -289,7 +289,7 @@
 
   - AV男優しみけん 光輝くクズでありたい（扶桑社　2015年5月30日発売）
   - SHIMIKEN's BEST SEX 最高のセックス集中講義（イースト・プレス　2017年5月17日発売）
-  - 水道橋博士のムラっとびんびんテレビ（文藝春秋　2017年5月29日発売）[水道橋博士](https://ja.wikipedia.org/wiki/水道橋博士 "wikilink")との共著
+  - 水道橋博士のムラっとびんびんテレビ（文藝春秋　2017年5月29日発売）[水道橋博士](../Page/水道橋博士.md "wikilink")との共著
   - やっぱり熟女がいちばんでした（角川書店　2018年2月28日発売）
   - AV男優しみけんが教える うんこ座りでオトコの悩みの大半は解決する\!（扶桑社　2018年3月2日発売）
   - しみけん式「超」SEXメソッド 本物とはつねにシンプルである（笠倉出版社　2019年8月29日発売）
@@ -303,30 +303,30 @@
 
 ### 雑誌
 
-  - [Badi](https://ja.wikipedia.org/wiki/Badi "wikilink") 2001年1月号（テラ出版）
+  - [Badi](../Page/Badi.md "wikilink") 2001年1月号（テラ出版）
   - マガジン WOoooo（ウォー）\! 狼 2009年12月号（[サン出版](https://ja.wikipedia.org/wiki/サン出版 "wikilink") 2009年11月2日発売）
   - 美STORY 2011年7月号（[光文社](../Page/光文社.md "wikilink") 2011年5月17日発売）
   - [てぃんくる](../Page/てぃんくる_\(求人情報雑誌\).md "wikilink") VOL.449、VOL.462（[しょういん](https://ja.wikipedia.org/wiki/しょういん "wikilink")）
-  - [女性自身](https://ja.wikipedia.org/wiki/女性自身 "wikilink") 2011年7月12日号（光文社 2011年6月28日発売）
-  - [men's egg](https://ja.wikipedia.org/wiki/men's_egg "wikilink")（[大洋図書](https://ja.wikipedia.org/wiki/大洋図書 "wikilink")）
+  - [女性自身](../Page/女性自身.md "wikilink") 2011年7月12日号（光文社 2011年6月28日発売）
+  - [men's egg](https://ja.wikipedia.org/wiki/men's_egg "wikilink")（[大洋図書](../Page/大洋図書.md "wikilink")）
       - 2012年2月号（2012年1月14日発売）
       - 2013年4月号（2013年3月14日発売）
-  - ズバ王 2012年4月号（[ジーオーティー](https://ja.wikipedia.org/wiki/ジーオーティー "wikilink") 2012年3月10日発売）
+  - ズバ王 2012年4月号（[ジーオーティー](../Page/ジーオーティー.md "wikilink") 2012年3月10日発売）
   - 411 2012年5月号（三栄書房 2012年4月10日発売）
   - [本当にあった笑える話](https://ja.wikipedia.org/wiki/本当にあった笑える話 "wikilink")（[ぶんか社](../Page/ぶんか社.md "wikilink")）
       - 本当にあった笑える話 Pinky 2012年6月号（2012年4月21日発売）
       - 本当にあった笑える話 2014年9月号（2014年7月30日発売）
-  - [an・an](https://ja.wikipedia.org/wiki/an・an "wikilink") 2013年8月14日-21日合併号（[マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink") 2013年8月9日発売）
+  - [an・an](https://ja.wikipedia.org/wiki/an・an "wikilink") 2013年8月14日-21日合併号（[マガジンハウス](../Page/マガジンハウス.md "wikilink") 2013年8月9日発売）
   - [小悪魔ageha](https://ja.wikipedia.org/wiki/小悪魔ageha "wikilink") 2013年10月号（[インフォレスト](../Page/インフォレスト.md "wikilink") 2013年8月31日発売）
   - [週刊大衆](../Page/週刊大衆.md "wikilink") 2013年10月14日号（双葉社 2013年9月30発売）
-  - [FLASH](https://ja.wikipedia.org/wiki/FLASH_\(写真週刊誌\) "wikilink")（光文社）
+  - [FLASH](../Page/FLASH_\(写真週刊誌\).md "wikilink")（光文社）
       - 2013年10月29日号（2013年10月15日発売）
       - 2013年11月5-12日号（2013年10月22日発売）
   - [週刊SPA\!](https://ja.wikipedia.org/wiki/週刊SPA! "wikilink")（[扶桑社](../Page/扶桑社.md "wikilink")）
       - 2014年3月4日号（2014年2月25日発売）
       - 2014年7月22日-29日合併号（2014年7月15日発売）
       - 2014年8月26日号（2014年8月19日発売）
-  - [週刊プレイボーイ](https://ja.wikipedia.org/wiki/週刊プレイボーイ "wikilink")（[集英社](../Page/集英社.md "wikilink")）
+  - [週刊プレイボーイ](../Page/週刊プレイボーイ.md "wikilink")（[集英社](../Page/集英社.md "wikilink")）
       - 2014年5月5日号（2014年4月21日発売）
       - 2014年6月9日号（2014年5月26日発売）
       - 2014年9月29日号（2014年9月16日発売）
@@ -335,8 +335,8 @@
   - Details March 2015（Conde Nast Publications 2015年2月20日発売)
   - [QUIZ JAPAN](https://ja.wikipedia.org/wiki/QUIZ_JAPAN "wikilink")（[ほるぷ出版](https://ja.wikipedia.org/wiki/ほるぷ出版 "wikilink") 2015年6月18日発売）
   - [KAMINOGE](https://ja.wikipedia.org/wiki/KAMINOGE "wikilink") vol.43（[東邦出版](https://ja.wikipedia.org/wiki/東邦出版 "wikilink") 2015年6月20日発売）
-  - [週刊女性](https://ja.wikipedia.org/wiki/週刊女性 "wikilink") 2015年7月28日号（[主婦の友社](../Page/主婦の友社.md "wikilink")）
-  - [GQ JAPAN](https://ja.wikipedia.org/wiki/GQ_JAPAN "wikilink") 2016年3月号（[コンデナスト・ジャパン](https://ja.wikipedia.org/wiki/コンデナスト・ジャパン "wikilink") 2016年01月23日発売）
+  - [週刊女性](../Page/週刊女性.md "wikilink") 2015年7月28日号（[主婦の友社](../Page/主婦の友社.md "wikilink")）
+  - [GQ JAPAN](../Page/GQ_JAPAN.md "wikilink") 2016年3月号（[コンデナスト・ジャパン](https://ja.wikipedia.org/wiki/コンデナスト・ジャパン "wikilink") 2016年01月23日発売）
 
 ### 新聞
 
@@ -382,7 +382,7 @@
   - 2015年1月11日 - 鈴木おさむプレゼンツ 抱腹絶倒のAVナイト（新宿ロフトプラスワン）
   - 2015年1月13日 - 性人式（阿佐ヶ谷ロフトA）
   - 2015年1月16日 - AVを語る深夜 Vol.3（新宿ロフトプラスワン）
-  - 2015年2月25日 - しみけん・[宮地の下ネタ抜きにしたトークライブ](https://ja.wikipedia.org/wiki/ニブンノゴ! "wikilink") 1部 2部（高円寺ACID2）
+  - 2015年2月25日 - しみけん・[宮地の下ネタ抜きにしたトークライブ](../Page/ニブンノゴ!.md "wikilink") 1部 2部（高円寺ACID2）
   - 2015年3月8日 - AV男優「しみけん」来店イベント 男の授業「潮吹き講習会」（セルマックス茨木店）
   - 2015年3月13日 - セクアカナイトvol.3〜SEX ACADEMY NIGHT vol.3〜（CCスタジオ代官山）
   - 2015年3月28日 - GOSSIP・BOYS・2014・The・MOVIE（渋谷アップリンク）

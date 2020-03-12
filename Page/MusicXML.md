@@ -1,9 +1,9 @@
 > この記事は[MusicXML](https://ja.wikipedia.org/wiki/MusicXML)から翻訳されています。
 
 
-**MusicXML**は、[XML形式の](../Page/Extensible_Markup_Language.md "wikilink")[楽譜](../Page/楽譜.md "wikilink")表記のための[オープン](https://ja.wikipedia.org/wiki/オープン "wikilink")な[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")である。[Recordare](https://ja.wikipedia.org/wiki/Recordare "wikilink")（現[MakeMusic](https://ja.wikipedia.org/wiki/MakeMusic "wikilink")）によって開発された。[Finale](../Page/Finale.md "wikilink")や[Sibelius](https://ja.wikipedia.org/wiki/Sibelius "wikilink")、[Rosegarden](../Page/Rosegarden.md "wikilink")、[Notion](http://www.mi7.co.jp/products/presonus/notion/)などの[楽譜作成ソフトウェア](../Page/楽譜作成ソフトウェア.md "wikilink")によって作成することが可能である。
+**MusicXML**は、[XML形式の](../Page/Extensible_Markup_Language.md "wikilink")[楽譜](../Page/楽譜.md "wikilink")表記のための[オープン](../Page/オープン.md "wikilink")な[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")である。[Recordare](https://ja.wikipedia.org/wiki/Recordare "wikilink")（現[MakeMusic](https://ja.wikipedia.org/wiki/MakeMusic "wikilink")）によって開発された。[Finale](../Page/Finale.md "wikilink")や[Sibelius](https://ja.wikipedia.org/wiki/Sibelius "wikilink")、[Rosegarden](../Page/Rosegarden.md "wikilink")、[Notion](http://www.mi7.co.jp/products/presonus/notion/)などの[楽譜作成ソフトウェア](../Page/楽譜作成ソフトウェア.md "wikilink")によって作成することが可能である。
 
-同じく楽譜記述のためのフォーマットである[MusiXML](https://ja.wikipedia.org/wiki/MusiXML "wikilink")とは関係ない。また、[ミュージカル・プラン](https://ja.wikipedia.org/wiki/ミュージカル・プラン "wikilink")の[ソフトウェア](../Page/ソフトウェア.md "wikilink")である[MusicX](https://ja.wikipedia.org/wiki/MusicX "wikilink")の形式も、同様の名前だが、[互換性](https://ja.wikipedia.org/wiki/互換性 "wikilink")はない。
+同じく楽譜記述のためのフォーマットである[MusiXML](https://ja.wikipedia.org/wiki/MusiXML "wikilink")とは関係ない。また、[ミュージカル・プラン](https://ja.wikipedia.org/wiki/ミュージカル・プラン "wikilink")の[ソフトウェア](../Page/ソフトウェア.md "wikilink")である[MusicX](https://ja.wikipedia.org/wiki/MusicX "wikilink")の形式も、同様の名前だが、[互換性](../Page/互換性.md "wikilink")はない。
 
 現在、楽譜作成ソフト独自[ファイルとMusicXMLの相互変換を目的としたDolet](../Page/ファイルフォーマット.md "wikilink")® Pluginsというプラグインを公開しており、2012年12月時点では[Finale](../Page/Finale.md "wikilink")版と[Sibelius](https://ja.wikipedia.org/wiki/Sibelius "wikilink")版が存在している。
 

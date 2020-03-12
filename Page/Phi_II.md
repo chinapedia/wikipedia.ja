@@ -1,7 +1,7 @@
 > この記事は[Phi II](https://ja.wikipedia.org/wiki/Phi_II)から翻訳されています。
 
 
-『**Phi II**』（ファイ ツー）は[米米CLUB](../Page/米米CLUB.md "wikilink")の11枚目の[アルバム](../Page/アルバム.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")リリース。発売元はSony Records（現[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")）。
+『**Phi II**』（ファイ ツー）は[米米CLUB](../Page/米米CLUB.md "wikilink")の11枚目の[アルバム](../Page/アルバム.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")リリース。発売元はSony Records（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。
 
 ## 解説
 
@@ -15,9 +15,9 @@
 2.  **OH\! MY ANGEL**
       -
         1992年のツアー「SHARISHARISM DECADENCE　魅惑の歌謡ショー　素顔のママ」編で初演された楽曲。
-3.  **[ア・ブラ・カダ・ブラ](https://ja.wikipedia.org/wiki/ア・ブラ・カダ・ブラ "wikilink")**
+3.  **[ア・ブラ・カダ・ブラ](../Page/ア・ブラ・カダ・ブラ.md "wikilink")**
 4.  **ジャムチ -砂漠の駅-**
-5.  **[俺色にそまれ](https://ja.wikipedia.org/wiki/俺色にそまれ "wikilink")**
+5.  **[俺色にそまれ](../Page/俺色にそまれ.md "wikilink")**
 6.  **日本人**
 7.  **SANDBAGなあいつ**
 8.  **Child's days memory**
@@ -34,6 +34,6 @@
 
   - 作詞:米米CLUB (\#2～12)
   - 作曲:米米CLUB (\#1～11)
-  - 編曲:佐土井照仁 (\#1)、[林部直樹](../Page/林部直樹.md "wikilink") (\#2)、米米CLUB (\#3,5～7)、得能律郎 (\#4)、奈良部匠平 (\#8,10)、[有賀啓雄](https://ja.wikipedia.org/wiki/有賀啓雄 "wikilink") (\#9,11)、三沢またろう (\#12)
+  - 編曲:佐土井照仁 (\#1)、[林部直樹](../Page/林部直樹.md "wikilink") (\#2)、米米CLUB (\#3,5～7)、得能律郎 (\#4)、奈良部匠平 (\#8,10)、[有賀啓雄](../Page/有賀啓雄.md "wikilink") (\#9,11)、三沢またろう (\#12)
 
 [Category:米米CLUBのアルバム](https://ja.wikipedia.org/wiki/Category:米米CLUBのアルバム "wikilink") [Category:1994年のアルバム](https://ja.wikipedia.org/wiki/Category:1994年のアルバム "wikilink") [Category:ソニー・ミュージックレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアルバム "wikilink")

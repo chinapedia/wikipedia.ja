@@ -1,11 +1,11 @@
 > この記事は[DABCO](https://ja.wikipedia.org/wiki/DABCO)から翻訳されています。
 
 
-**1,4-ジアザビシクロ\[2.2.2\]オクタン**（**1,4-diazabicyclo\[2.2.2\]octane**、**DABCO**）は[複素環式](https://ja.wikipedia.org/wiki/複素環式化合物 "wikilink")[アミン](../Page/アミン.md "wikilink")の一種である。[分子式](https://ja.wikipedia.org/wiki/分子式 "wikilink") C<sub>6</sub>H<sub>12</sub>N<sub>2</sub>、[分子量](../Page/分子量.md "wikilink") 112.17、[CAS登録番号](../Page/CAS登録番号.md "wikilink")は \[280-57-9\]。[ピペラジン](../Page/ピペラジン.md "wikilink")の窒素の間にもう1本架橋を渡した構造を持つ。**1,4-エチレンピペラジン**、**トリエチレンジアミン** と呼ばれることもある。「DABCO」という名称は、エアプロダクツ&ケミカルズ社 ([:en:Air Products & Chemicals](https://ja.wikipedia.org/wiki/:en:Air_Products_&_Chemicals "wikilink")) の登録商標（第551479号）である。
+**1,4-ジアザビシクロ\[2.2.2\]オクタン**（**1,4-diazabicyclo\[2.2.2\]octane**、**DABCO**）は[複素環式](../Page/複素環式化合物.md "wikilink")[アミン](../Page/アミン.md "wikilink")の一種である。[分子式](https://ja.wikipedia.org/wiki/分子式 "wikilink") C<sub>6</sub>H<sub>12</sub>N<sub>2</sub>、[分子量](../Page/分子量.md "wikilink") 112.17、[CAS登録番号](../Page/CAS登録番号.md "wikilink")は \[280-57-9\]。[ピペラジン](../Page/ピペラジン.md "wikilink")の窒素の間にもう1本架橋を渡した構造を持つ。**1,4-エチレンピペラジン**、**トリエチレンジアミン** と呼ばれることもある。「DABCO」という名称は、エアプロダクツ&ケミカルズ社 ([:en:Air Products & Chemicals](https://ja.wikipedia.org/wiki/:en:Air_Products_&_Chemicals "wikilink")) の登録商標（第551479号）である。
 
 第一 pK<sub>aH</sub> は8.8と、鎖状アミンと同程度の[塩基性](https://ja.wikipedia.org/wiki/塩基性 "wikilink")であるが、[アルキル基](https://ja.wikipedia.org/wiki/アルキル基 "wikilink")が後ろ手に縛られた構造をとっているために[窒素](../Page/窒素.md "wikilink")原子上の[非共有電子対](https://ja.wikipedia.org/wiki/非共有電子対 "wikilink")まわりの[立体障害](https://ja.wikipedia.org/wiki/立体障害 "wikilink")が小さく、[求核性](https://ja.wikipedia.org/wiki/求核性 "wikilink")が著しく高いことが特徴である。
 
-主に[ポリウレタン](https://ja.wikipedia.org/wiki/ポリウレタン "wikilink")フォームの発泡触媒として使用されている。[イソシアネート](https://ja.wikipedia.org/wiki/イソシアネート "wikilink")基 (–NCO) と[水酸基](https://ja.wikipedia.org/wiki/ヒドロキシ基 "wikilink") (–OH) の反応において活性が大きく、重付加反応と泡化反応の両方のバランスを保つ効果がある\[1\]。
+主に[ポリウレタン](../Page/ポリウレタン.md "wikilink")フォームの発泡触媒として使用されている。[イソシアネート](https://ja.wikipedia.org/wiki/イソシアネート "wikilink")基 (–NCO) と[水酸基](https://ja.wikipedia.org/wiki/ヒドロキシ基 "wikilink") (–OH) の反応において活性が大きく、重付加反応と泡化反応の両方のバランスを保つ効果がある\[1\]。
 
 また、近年では求核性の高さと塩基性の低さから、[森田・ベイリス・ヒルマン反応](../Page/森田・ベイリス・ヒルマン反応.md "wikilink")の触媒にも用いられている。
 

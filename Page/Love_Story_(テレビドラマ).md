@@ -1,7 +1,7 @@
 > この記事は[Love Story \(\)](https://ja.wikipedia.org/wiki/Love_Story_\(\))から翻訳されています。
 
 
-『**Love Story**』（ラブストーリー）は、[2001年](../Page/2001年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")より[6月24日](../Page/6月24日.md "wikilink")まで毎週日曜日21:00 - 21:54に、[TBS](../Page/TBSテレビ.md "wikilink")[系列の](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")「[東芝日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")」枠で放送されていた日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。主演は[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")と[豊川悦司](../Page/豊川悦司.md "wikilink")。
+『**Love Story**』（ラブストーリー）は、[2001年](../Page/2001年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")より[6月24日](../Page/6月24日.md "wikilink")まで毎週日曜日21:00 - 21:54に、[TBS](../Page/TBSテレビ.md "wikilink")[系列の](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")「[東芝日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")」枠で放送されていた日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。主演は[中山美穂](../Page/中山美穂.md "wikilink")と[豊川悦司](../Page/豊川悦司.md "wikilink")。
 
 次回作『[恋がしたい恋がしたい恋がしたい](../Page/恋がしたい恋がしたい恋がしたい.md "wikilink")』以降はハイビジョン制作となったため、日曜劇場シリーズ最後の非ハイビジョン制作でもある。
 
@@ -16,7 +16,7 @@
 ### 主要人物
 
   - 須藤 美咲〈30〉
-    演 - [中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")
+    演 - [中山美穂](../Page/中山美穂.md "wikilink")
     創文書店の契約編集者。出世コースから外れ、見合いの話もない。気難しくて有名な作家・永瀬康の担当になる。
   - 永瀬 康〈37〉
     演 - [豊川悦司](../Page/豊川悦司.md "wikilink")
@@ -31,7 +31,7 @@
 ### その他
 
   - 池谷 貢
-    演 - [加藤晴彦](https://ja.wikipedia.org/wiki/加藤晴彦 "wikilink")
+    演 - [加藤晴彦](../Page/加藤晴彦.md "wikilink")
     元永瀬康の担当の編集者。
   - 倉田 ユミ
     演 - [畑野浩子](https://ja.wikipedia.org/wiki/畑野ひろ子 "wikilink")
@@ -42,10 +42,10 @@
   - 蓼科 久美子〈27〉
     演 - [戸田菜穂](../Page/戸田菜穂.md "wikilink")
   - 柏原 修三
-    演 - [小野武彦](https://ja.wikipedia.org/wiki/小野武彦 "wikilink")
+    演 - [小野武彦](../Page/小野武彦.md "wikilink")
     美咲や池谷の上司。編集長。
   - 永瀬 ヨシ〈80〉
-    演 - [三崎千恵子](https://ja.wikipedia.org/wiki/三崎千恵子 "wikilink")
+    演 - [三崎千恵子](../Page/三崎千恵子.md "wikilink")
     康とケンジの祖母。中野で老舗のおせんべい屋を営む。大学教授で海外を転々とする康の両親になりかわり、康とケンジを育てあげた。
   - 村上
     演 - [坂口憲二](https://ja.wikipedia.org/wiki/坂口憲二 "wikilink")
@@ -62,8 +62,8 @@
 
   - 脚本 - [北川悦吏子](../Page/北川悦吏子.md "wikilink")
   - 音楽 - [CAGNET](https://ja.wikipedia.org/wiki/CAGNET "wikilink")
-  - 演出 - [生野慈朗](https://ja.wikipedia.org/wiki/生野慈朗 "wikilink")、[土井裕泰](https://ja.wikipedia.org/wiki/土井裕泰 "wikilink")、[今井夏木](../Page/今井夏木.md "wikilink")
-  - 主題歌 - [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")「[遥か](https://ja.wikipedia.org/wiki/遥か_\(スピッツの曲\) "wikilink")」
+  - 演出 - [生野慈朗](../Page/生野慈朗.md "wikilink")、[土井裕泰](../Page/土井裕泰.md "wikilink")、[今井夏木](../Page/今井夏木.md "wikilink")
+  - 主題歌 - [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")「[遥か](../Page/遥か_\(スピッツの曲\).md "wikilink")」
   - プロデュース - [植田博樹](../Page/植田博樹.md "wikilink")
 
 ## 受賞歴
@@ -179,7 +179,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>平均視聴率 21.0%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
+<td><p>平均視聴率 21.0%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
 <td></td>
 <td></td>
 <td></td>

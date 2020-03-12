@@ -1,7 +1,7 @@
 > この記事は[Toks](https://ja.wikipedia.org/wiki/Toks)から翻訳されています。
 
 
-[LAWSON+_toks.JPG](https://ja.wikipedia.org/wiki/File:LAWSON+_toks.JPG "fig:LAWSON+_toks.JPG")店\]\] **toks**（トークス）とは、[東急グループ](https://ja.wikipedia.org/wiki/東急グループ "wikilink")に属する株式会社[東急ステーションリテールサービス](https://ja.wikipedia.org/wiki/東急ステーションリテールサービス "wikilink")が運営する、[東急電鉄](https://ja.wikipedia.org/wiki/東急電鉄 "wikilink")各駅の構内で営業している駅[売店](../Page/売店.md "wikilink")の名称である。
+[LAWSON+_toks.JPG](https://ja.wikipedia.org/wiki/File:LAWSON+_toks.JPG "fig:LAWSON+_toks.JPG")店\]\] **toks**（トークス）とは、[東急グループ](https://ja.wikipedia.org/wiki/東急グループ "wikilink")に属する株式会社[東急ステーションリテールサービス](../Page/東急ステーションリテールサービス.md "wikilink")が運営する、[東急電鉄](https://ja.wikipedia.org/wiki/東急電鉄 "wikilink")各駅の構内で営業している駅[売店](../Page/売店.md "wikilink")の名称である。
 
 店名の「toks」は「TOKYU」と「THANKS」（感謝、ありがとう）を合成した[造語](../Page/造語.md "wikilink")で、「東急からお客様への変わらぬ感謝の気持ち」が由来\[1\]。「[PASMO電子マネー](https://ja.wikipedia.org/wiki/PASMO#電子マネー "wikilink")[TOKYUポイント](../Page/東急カード.md "wikilink")」加盟店。
 
@@ -15,7 +15,7 @@
 
 ### LAWSON + toks
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月に親会社の[東京急行電鉄](https://ja.wikipedia.org/wiki/東京急行電鉄 "wikilink")と[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")大手の[ローソン](../Page/ローソン.md "wikilink")が業務提携、駅型コンビニエンスストア店舗「LAWSON + toks」を共同開発し、東急ステーションリテールサービスがローソンの[フランチャイジーとして運営する](../Page/フランチャイズ.md "wikilink")\[5\]\[6\]。
+[2005年](../Page/2005年.md "wikilink")11月に親会社の[東京急行電鉄](https://ja.wikipedia.org/wiki/東京急行電鉄 "wikilink")と[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")大手の[ローソン](../Page/ローソン.md "wikilink")が業務提携、駅型コンビニエンスストア店舗「LAWSON + toks」を共同開発し、東急ステーションリテールサービスがローソンの[フランチャイジーとして運営する](../Page/フランチャイズ.md "wikilink")\[5\]\[6\]。
 
 カタカナ表記は「ローソン プラス トークス」。toksの持つ接客スピードとローソンの持つ在庫管理機能を組み合わせた店舗として、2006年8月31日に[長津田店が](https://ja.wikipedia.org/wiki/長津田駅 "wikilink")1号店としてオープンした。
 
@@ -33,7 +33,7 @@
 
 過去の店舗デザインは、看板は白地に[オレンジの](https://ja.wikipedia.org/wiki/橙色 "wikilink")「TOKS」旧[ロゴ](https://ja.wikipedia.org/wiki/ロゴ "wikilink")（[大文字](../Page/大文字.md "wikilink")）と「[象](https://ja.wikipedia.org/wiki/象 "wikilink")」の[シンボルマーク](../Page/シンボルマーク.md "wikilink")の下に、オレンジの線が引かれたものであった\[14\]。
 
-その後、現行の「toks」ロゴ（[小文字](https://ja.wikipedia.org/wiki/小文字 "wikilink")）に変更され、店舗デザインも順次変更されている。[自由が丘駅](https://ja.wikipedia.org/wiki/自由が丘駅 "wikilink")や[青葉台駅](https://ja.wikipedia.org/wiki/青葉台駅 "wikilink")などを皮切りに改装が進められ、全体のデザインが[赤](../Page/赤.md "wikilink")基調の店舗が増えている。また、[二子玉川駅](../Page/二子玉川駅.md "wikilink")（上りホーム店）のような[黒](https://ja.wikipedia.org/wiki/黒 "wikilink")基調の店舗、[元住吉駅](https://ja.wikipedia.org/wiki/元住吉駅 "wikilink")や自由が丘駅（[大井町線下りホーム](https://ja.wikipedia.org/wiki/東急大井町線 "wikilink")）で見られたような[緑](../Page/緑.md "wikilink")基調の店舗も登場した（元住吉駅店と自由が丘下りホーム店は「LAWSON ＋ toks」に転換し青色の看板に変更）。
+その後、現行の「toks」ロゴ（[小文字](../Page/小文字.md "wikilink")）に変更され、店舗デザインも順次変更されている。[自由が丘駅](https://ja.wikipedia.org/wiki/自由が丘駅 "wikilink")や[青葉台駅](https://ja.wikipedia.org/wiki/青葉台駅 "wikilink")などを皮切りに改装が進められ、全体のデザインが[赤](../Page/赤.md "wikilink")基調の店舗が増えている。また、[二子玉川駅](../Page/二子玉川駅.md "wikilink")（上りホーム店）のような[黒](https://ja.wikipedia.org/wiki/黒 "wikilink")基調の店舗、[元住吉駅](https://ja.wikipedia.org/wiki/元住吉駅 "wikilink")や自由が丘駅（[大井町線下りホーム](https://ja.wikipedia.org/wiki/東急大井町線 "wikilink")）で見られたような[緑](../Page/緑.md "wikilink")基調の店舗も登場した（元住吉駅店と自由が丘下りホーム店は「LAWSON ＋ toks」に転換し青色の看板に変更）。
 
 「LAWSON+toks」店舗はローソンの[コーポレートカラー](https://ja.wikipedia.org/wiki/コーポレートカラー "wikilink")である[青](../Page/青.md "wikilink")基調、[ナチュラルローソン](../Page/ナチュラルローソン.md "wikilink")と提携した「NATURAL LAWSON + toks」店舗では同店シンボルカラーの[臙脂色](https://ja.wikipedia.org/wiki/臙脂色 "wikilink")を用いたデザインとなっている\[15\]。
 
@@ -78,8 +78,8 @@
 <!-- end list -->
 
   -
-    2019年11月13日、[南町田グランベリーパーク](https://ja.wikipedia.org/wiki/南町田グランベリーパーク "wikilink")開業と同時に「LAWSON＋toks南町田グランベリーパーク駅店」\[19\]として再出店\[20\]。
-    同時に[グランベリーパークセントラルコート](https://ja.wikipedia.org/wiki/南町田グランベリーパーク "wikilink")1階に「LAWSON＋toks南町田グランベリーパークキッズ店」\[21\]もオープンしている\[22\]。
+    2019年11月13日、[南町田グランベリーパーク](../Page/南町田グランベリーパーク.md "wikilink")開業と同時に「LAWSON＋toks南町田グランベリーパーク駅店」\[19\]として再出店\[20\]。
+    同時に[グランベリーパークセントラルコート](../Page/南町田グランベリーパーク.md "wikilink")1階に「LAWSON＋toks南町田グランベリーパークキッズ店」\[21\]もオープンしている\[22\]。
 
 ### 営業時間
 
@@ -118,7 +118,7 @@
   - [菓子](../Page/菓子.md "wikilink")類
   - [筆記具](../Page/文房具.md "wikilink")
   - [傘](../Page/傘.md "wikilink")
-  - [下着](https://ja.wikipedia.org/wiki/下着 "wikilink")
+  - [下着](../Page/下着.md "wikilink")
   - [プリペイドカード](../Page/プリペイドカード.md "wikilink")類・（[テレホンカード](../Page/テレホンカード.md "wikilink")など）
 
 <!-- end list -->
@@ -128,10 +128,10 @@
 
 <!-- end list -->
 
-  - [飲料](https://ja.wikipedia.org/wiki/飲料 "wikilink")（[清涼飲料水](../Page/清涼飲料水.md "wikilink")・[ミネラルウォーター](https://ja.wikipedia.org/wiki/ミネラルウォーター "wikilink")など）
+  - [飲料](https://ja.wikipedia.org/wiki/飲料 "wikilink")（[清涼飲料水](../Page/清涼飲料水.md "wikilink")・[ミネラルウォーター](../Page/ミネラルウォーター.md "wikilink")など）
   - [酒類](https://ja.wikipedia.org/wiki/酒類 "wikilink")（缶[ビール](../Page/ビール.md "wikilink")など）
   - [乾電池](../Page/乾電池.md "wikilink")・[携帯電話](../Page/携帯電話.md "wikilink")用電池
-  - 「ベイビー・イン・ミー」[マタニティバッジ](https://ja.wikipedia.org/wiki/マタニティマーク "wikilink")
+  - 「ベイビー・イン・ミー」[マタニティバッジ](../Page/マタニティマーク.md "wikilink")
   - 東急線駅名ストラップ（期間限定販売）
   - 東急電鉄オリジナルグッズ
 
@@ -154,16 +154,16 @@
 
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（[昭和](../Page/昭和.md "wikilink")53年） - 財団法人東急弘潤会が、東弘商事株式会社に売店運営を譲渡。
   - [1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年） - 名称を「toks」に統一、象をモチーフとしたシンボルマークを制定。
-  - [1993年](../Page/1993年.md "wikilink")（平成5年） - 販売員が売上チェック ([POS](../Page/販売時点情報管理.md "wikilink")) などに使用する[携帯端末を導入](https://ja.wikipedia.org/wiki/ポータブルデータターミナル "wikilink")。
+  - [1993年](../Page/1993年.md "wikilink")（平成5年） - 販売員が売上チェック ([POS](../Page/販売時点情報管理.md "wikilink")) などに使用する[携帯端末を導入](../Page/ポータブルデータターミナル.md "wikilink")。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年） - [酒類](https://ja.wikipedia.org/wiki/酒類 "wikilink")販売を開始。
   - [2003年](../Page/2003年.md "wikilink")（平成15年） - 経営元の東弘商事株式会社が、東急ステーションリテールサービスに社名変更。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）11月 - 東急ステーションリテールサービスがローソンと業務提携\[24\]。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）8月31日 - 長津田駅構内に初の「LAWSON + toks」を開業\[25\]。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）11月 - 東急ステーションリテールサービスがローソンと業務提携\[24\]。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）8月31日 - 長津田駅構内に初の「LAWSON + toks」を開業\[25\]。
   - [2012年](../Page/2012年.md "wikilink")（平成）3月31日 - たまプラーザ駅店を「LAWSON + toks」へ転換\[26\]\[27\]。
 
 ## 関連項目
 
-  - [東急ステーションリテールサービス](https://ja.wikipedia.org/wiki/東急ステーションリテールサービス "wikilink")
+  - [東急ステーションリテールサービス](../Page/東急ステーションリテールサービス.md "wikilink")
   - [東急グループ](https://ja.wikipedia.org/wiki/東急グループ "wikilink")
   - [ローソン](../Page/ローソン.md "wikilink")
       - [メトロコマース](https://ja.wikipedia.org/wiki/メトロコマース "wikilink") - [東京メトロ](https://ja.wikipedia.org/wiki/東京メトロ "wikilink")駅売店「ローソンメトロス」を運営
@@ -192,7 +192,7 @@
 11.
 12.
 13.
-14. [2005「動物占い(R)」レポート特集！「動物占い(R)」キャラの活躍をレポート！東急線駅売店TOKS（トークス)](http://www.susumumatsushita.net/press/release/pr2005_02_10.html) 松下進「Susumu Matsushita Enterprise」公式サイト、2005年2月10日、2020年1月10日閲覧。[松下進](https://ja.wikipedia.org/wiki/松下進 "wikilink")キャラクターデザインのノラコム「[動物占い](../Page/動物占い.md "wikilink")」とタイアップ企画中の「TOKS」旧デザイン店舗（東横線渋谷駅改札前と田園都市線二子玉川駅ホーム）の写真が掲載されている。
+14. [2005「動物占い(R)」レポート特集！「動物占い(R)」キャラの活躍をレポート！東急線駅売店TOKS（トークス)](http://www.susumumatsushita.net/press/release/pr2005_02_10.html) 松下進「Susumu Matsushita Enterprise」公式サイト、2005年2月10日、2020年1月10日閲覧。[松下進](../Page/松下進.md "wikilink")キャラクターデザインのノラコム「[動物占い](../Page/動物占い.md "wikilink")」とタイアップ企画中の「TOKS」旧デザイン店舗（東横線渋谷駅改札前と田園都市線二子玉川駅ホーム）の写真が掲載されている。
 15.
 16.
 17.

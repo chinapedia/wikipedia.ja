@@ -5,13 +5,13 @@
 
 ## 経緯
 
-初期は[Macintosh](../Page/Macintosh.md "wikilink")のためのソフトウェアであり、後のバージョンで[Classic Mac OSと呼ばれるようになる](../Page/Classic_Mac_OS.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")上で動作していた。現行バージョンは[Windowsおよび](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")上で動作する。[日本語](../Page/日本語.md "wikilink")化および[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")への[輸入](https://ja.wikipedia.org/wiki/輸入 "wikilink")、[販売](../Page/販売.md "wikilink")はかつて[イーフロンティア](../Page/イーフロンティア.md "wikilink")が行っていたが、[2011年](../Page/2011年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")から[エムアイセブンジャパン](https://ja.wikipedia.org/wiki/エムアイセブンジャパン "wikilink")によって行われている。[アマチュア](../Page/アマチュア.md "wikilink")から[プロまで広く使用されている製品である](../Page/プロフェッショナル.md "wikilink")。
+初期は[Macintosh](../Page/Macintosh.md "wikilink")のためのソフトウェアであり、後のバージョンで[Classic Mac OSと呼ばれるようになる](../Page/Classic_Mac_OS.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")上で動作していた。現行バージョンは[Windowsおよび](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")上で動作する。[日本語](../Page/日本語.md "wikilink")化および[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")への[輸入](../Page/輸入.md "wikilink")、[販売](../Page/販売.md "wikilink")はかつて[イーフロンティア](../Page/イーフロンティア.md "wikilink")が行っていたが、[2011年](../Page/2011年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")から[エムアイセブンジャパン](https://ja.wikipedia.org/wiki/エムアイセブンジャパン "wikilink")によって行われている。[アマチュア](../Page/アマチュア.md "wikilink")から[プロまで広く使用されている製品である](../Page/プロフェッショナル.md "wikilink")。
 
-2004以降のバージョンではより[人間](../Page/人間.md "wikilink")に近い再生が可能な**ヒューマンプレイバック機能** (*Human Playback*) を備えた[ソフトウェア・シンセサイザー](https://ja.wikipedia.org/wiki/ソフトウェア・シンセサイザー "wikilink")による[PCM形式での出力をサポートしている](../Page/パルス符号変調.md "wikilink")。さらに、Finaleでは2006より[Garritan](https://ja.wikipedia.org/wiki/Garritan "wikilink")インストゥルメントが付属し、よりリアルな再生が可能となった。
+2004以降のバージョンではより[人間](../Page/人間.md "wikilink")に近い再生が可能な**ヒューマンプレイバック機能** (*Human Playback*) を備えた[ソフトウェア・シンセサイザー](../Page/ソフトウェア・シンセサイザー.md "wikilink")による[PCM形式での出力をサポートしている](../Page/パルス符号変調.md "wikilink")。さらに、Finaleでは2006より[Garritan](https://ja.wikipedia.org/wiki/Garritan "wikilink")インストゥルメントが付属し、よりリアルな再生が可能となった。
 
-楽譜の入力方法としては、マウスやキーボードのほか[MIDI](../Page/MIDI.md "wikilink")機器からの入力に対応し、また2001のバージョンよりMIDISCANという画像ファイル認識機能（[OCRに似た機能](../Page/光学文字認識.md "wikilink")）を搭載、2003でSmartScore Liteに名を変えたが、25以降は付属しない。2005以降のWindows版では直接[イメージスキャナ](../Page/イメージスキャナ.md "wikilink")からの読み込みができるようになった。[MusicXML](https://ja.wikipedia.org/wiki/MusicXML "wikilink")の読み込みにも対応。
+楽譜の入力方法としては、マウスやキーボードのほか[MIDI](../Page/MIDI.md "wikilink")機器からの入力に対応し、また2001のバージョンよりMIDISCANという画像ファイル認識機能（[OCRに似た機能](../Page/光学文字認識.md "wikilink")）を搭載、2003でSmartScore Liteに名を変えたが、25以降は付属しない。2005以降のWindows版では直接[イメージスキャナ](../Page/イメージスキャナ.md "wikilink")からの読み込みができるようになった。[MusicXML](../Page/MusicXML.md "wikilink")の読み込みにも対応。
 
-ファイルの保存は独自の形式のほか、MusicXML形式への出力も可能。また[2014年](../Page/2014年.md "wikilink")現在、[TIFF](../Page/Tagged_Image_File_Format.md "wikilink")・[EPS](https://ja.wikipedia.org/wiki/EPS "wikilink")・[JPEG](../Page/JPEG.md "wikilink")・[PNG](../Page/Portable_Network_Graphics.md "wikilink")・[PDF](https://ja.wikipedia.org/wiki/PDF "wikilink")に対応している。一方、バージョン間の[互換性](https://ja.wikipedia.org/wiki/互換性 "wikilink")は悪く、ファイルを保存したバージョンより古いバージョンで開けないのはもちろん、通常の方法では旧形式で保存するもできない。新バージョンで開くことはできるが、新旧の組み合わせによってはレイアウトが狂うことがあった。
+ファイルの保存は独自の形式のほか、MusicXML形式への出力も可能。また[2014年](../Page/2014年.md "wikilink")現在、[TIFF](../Page/Tagged_Image_File_Format.md "wikilink")・[EPS](https://ja.wikipedia.org/wiki/EPS "wikilink")・[JPEG](../Page/JPEG.md "wikilink")・[PNG](../Page/Portable_Network_Graphics.md "wikilink")・[PDF](https://ja.wikipedia.org/wiki/PDF "wikilink")に対応している。一方、バージョン間の[互換性](../Page/互換性.md "wikilink")は悪く、ファイルを保存したバージョンより古いバージョンで開けないのはもちろん、通常の方法では旧形式で保存するもできない。新バージョンで開くことはできるが、新旧の組み合わせによってはレイアウトが狂うことがあった。
 
 初期のバージョンから、従来のコンピュータを用いない方法で出版された楽譜と同じような楽譜イメージを出力することができるよう、プリントアウトの完成度の高さに重点が置かれていた。そのためか特に初期のバージョンにあっては、音符の入力にいくつもの方法が提供されている一方で、さまざまな編集操作において、Macintoshのソフトウェアには珍しく直感的でない操作を必要とする作業が多かった。また、[1990年代](../Page/1990年代.md "wikilink")半ばまでのバージョンでは[マルチバイト文字](../Page/マルチバイト文字.md "wikilink")に対応しておらず、[日本語の入力に特殊な操作を必要としていた](../Page/日本語入力システム.md "wikilink")。
 
@@ -20,7 +20,7 @@
   - [1989年](../Page/1989年.md "wikilink") Ver.1 Macintosh版
   - [1991年](../Page/1991年.md "wikilink") Ver.2
   - [1994年](../Page/1994年.md "wikilink") Ver.3.0 歌詞、テキストブロック以外で日本語の表示に対応
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") Ver.3.2 日本語版発売（[漢字Talk](https://ja.wikipedia.org/wiki/漢字Talk "wikilink")7.1 - [Mac OS 8.1対応](https://ja.wikipedia.org/wiki/Classic_Mac_OS#Mac_OS_8 "wikilink")）
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") Ver.3.2 日本語版発売（[漢字Talk](../Page/漢字Talk.md "wikilink")7.1 - [Mac OS 8.1対応](https://ja.wikipedia.org/wiki/Classic_Mac_OS#Mac_OS_8 "wikilink")）
   - [1996年](../Page/1996年.md "wikilink") Ver.3.5 この小改訂バージョンの3.5.2が日本語環境における安定バージョンとなる（漢字Talk7.1 - [Mac OS 9.2.2対応](https://ja.wikipedia.org/wiki/Classic_Mac_OS#Mac_OS_9 "wikilink")）
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") Ver.3.7 Windows版（Windows 3.1, 95, 98対応、英語版）を日本で初めて発売。ただし、Macintosh版は日本では発売しなかった。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") 97 Macintosh版（日本語版）とWindows版（英語版）を日本で発売。
@@ -30,8 +30,8 @@
   - [2002年](../Page/2002年.md "wikilink") 2002
   - [2003年](../Page/2003年.md "wikilink") 2003
   - [2004年](../Page/2004年.md "wikilink") 2004 [Mac OS X対応](https://ja.wikipedia.org/wiki/macOS "wikilink")（[Mac OS X v10.2以降](../Page/Mac_OS_X_v10.2.md "wikilink")、[Mac OS 9.2.2対応](https://ja.wikipedia.org/wiki/Classic_Mac_OS#Mac_OS_9 "wikilink")）。Human PlaybackやSmartMusic Softsynthを搭載。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") 2005 Classic Mac OSへの対応打ち切り。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") 2006 Windows XP SP2、[Mac OS X v10.4完全対応](../Page/Mac_OS_X_v10.4.md "wikilink")。[Native Instrumentsの各](../Page/Native_Instruments.md "wikilink")[VSTに対応し](https://ja.wikipedia.org/wiki/Virtual_Studio_Technology "wikilink")、[Kontakt Playerを搭載した](https://ja.wikipedia.org/wiki/Kontakt_Player "wikilink")[Garritan](https://ja.wikipedia.org/wiki/Garritan "wikilink")インストゥルメントが付属。
+  - [2005年](../Page/2005年.md "wikilink") 2005 Classic Mac OSへの対応打ち切り。
+  - [2006年](../Page/2006年.md "wikilink") 2006 Windows XP SP2、[Mac OS X v10.4完全対応](../Page/Mac_OS_X_v10.4.md "wikilink")。[Native Instrumentsの各](../Page/Native_Instruments.md "wikilink")[VSTに対応し](https://ja.wikipedia.org/wiki/Virtual_Studio_Technology "wikilink")、[Kontakt Playerを搭載した](https://ja.wikipedia.org/wiki/Kontakt_Player "wikilink")[Garritan](https://ja.wikipedia.org/wiki/Garritan "wikilink")インストゥルメントが付属。
   - [2007年](../Page/2007年.md "wikilink") 2007 [Intel Mac対応](../Page/Intel_Mac.md "wikilink")。日本語版Allegroはこの年で発売終了。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 2008 Windows Vistaに対応。[Intel Mac対応](../Page/Intel_Mac.md "wikilink")。
   - [2009年](../Page/2009年.md "wikilink") 2009 英語版Allegroも2009で発売終了。
@@ -87,12 +87,12 @@ Finaleの簡易バージョンが提供されている。
   - バージョンアップの際に上位バージョンと同様の改定が行われたり、また制約が緩和されたりしている。たとえばコーダ切れツールはバージョン2007で搭載され、記号どおりに正しく演奏されるし、バージョン2010ではコード入力方法の改善やVSIインストゥルメントも使用可能となった。
   - 記述できる最小の音符（休符）は128分音符（内部処理は同じく4096分音符単位）。
   - 特殊な設定をしない限り、[Codaへのジャンプを記述](https://ja.wikipedia.org/wiki/コーダ_\(音楽\) "wikilink")・指示できない（「コーダ切れ」 ※ 〜2006 まで）。
-  - [D.C.](https://ja.wikipedia.org/wiki/ダ・カーポ_\(演奏記号\) "wikilink"), [D.S.](https://ja.wikipedia.org/wiki/ダル・セーニョ "wikilink") To Codaなどの文字による反復指定は記述できるが、演奏上は無視される（Finaleではこれらの記号を記述する際に個別に何回目の反復の後、どの小節番号へジャンプするかを設定することができる）。
+  - [D.C.](../Page/ダ・カーポ_\(演奏記号\).md "wikilink"), [D.S.](../Page/ダル・セーニョ.md "wikilink") To Codaなどの文字による反復指定は記述できるが、演奏上は無視される（Finaleではこれらの記号を記述する際に個別に何回目の反復の後、どの小節番号へジャンプするかを設定することができる）。
   - プリセットのヒューマンプレイバックの設定を変更追加ばかりか、確認することすらできない。
   - ピアノ曲などによくあるヘ音部からト音部のように音部をまたがる連桁（れんこう）が記述できず、音部をまたぐごとに別々の連桁として区切られてしまう。
   - 複合拍子（4分の7拍子=3+4/4拍子など）が指定できない。
   - 上位版のFinaleでは2008からオーディオトラックを扱えるようになり、テンポタップによりオーディオとの同期も可能になったが、PrintMusicにはこの機能はない。
-  - 製品としてはMac/Win、両バージョン付属しているが、1つのライセンスで同時に[アクティベーション](https://ja.wikipedia.org/wiki/アクティベーション "wikilink")できるのは1台のみである。したがってMac/Winのように異なるOSのコンピュータはもとより、同じMac/Win同士であっても一度にどれか一台しか使用できない（アクティベーションしていない方はデモバージョン扱いで譜面保存や印刷等が制限される）。なお、Finaleでは1ライセンスに付き、2台までアクティベーションが可能である。
+  - 製品としてはMac/Win、両バージョン付属しているが、1つのライセンスで同時に[アクティベーション](../Page/アクティベーション.md "wikilink")できるのは1台のみである。したがってMac/Winのように異なるOSのコンピュータはもとより、同じMac/Win同士であっても一度にどれか一台しか使用できない（アクティベーションしていない方はデモバージョン扱いで譜面保存や印刷等が制限される）。なお、Finaleでは1ライセンスに付き、2台までアクティベーションが可能である。
 
 ## 閲覧専用バージョン
 

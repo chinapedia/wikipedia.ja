@@ -1,15 +1,15 @@
 > この記事は[Myspace](https://ja.wikipedia.org/wiki/Myspace)から翻訳されています。
 
 
-**Myspace**（マイスペース）は、世界中に会員が存在する[音楽](../Page/音楽.md "wikilink")・[エンターテインメント](../Page/エンターテインメント.md "wikilink")を中心とした[ソーシャル・ネットワーキング・サービス](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")である。会員に対し、個々のプロフィールページ、[ブログ](../Page/ブログ.md "wikilink")、共通の話題を持つユーザと交流するグループ、[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")ファイルや[画像](../Page/画像.md "wikilink")ファイルの公開、会員間での[メールの送受信など会員同士の親交を広げるサービスを提供している](../Page/電子メール.md "wikilink")。運営側の会社は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ビバリーヒルズ](https://ja.wikipedia.org/wiki/ビバリーヒルズ "wikilink")にあり、親会社本社とバックアップサーバは[ニューヨーク](../Page/ニューヨーク.md "wikilink")に置かれている。
+**Myspace**（マイスペース）は、世界中に会員が存在する[音楽](../Page/音楽.md "wikilink")・[エンターテインメント](../Page/エンターテインメント.md "wikilink")を中心とした[ソーシャル・ネットワーキング・サービス](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")である。会員に対し、個々のプロフィールページ、[ブログ](../Page/ブログ.md "wikilink")、共通の話題を持つユーザと交流するグループ、[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")ファイルや[画像](../Page/画像.md "wikilink")ファイルの公開、会員間での[メールの送受信など会員同士の親交を広げるサービスを提供している](../Page/電子メール.md "wikilink")。運営側の会社は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ビバリーヒルズ](../Page/ビバリーヒルズ.md "wikilink")にあり、親会社本社とバックアップサーバは[ニューヨーク](../Page/ニューヨーク.md "wikilink")に置かれている。
 
 ## 概要・現状
 
-[ソーシャル・ネットワーキング・サービス](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")（SNS）と呼ばれる[ウェブサイト](../Page/ウェブサイト.md "wikilink")に属するものである。当初は主に10代の音楽マニアがコアユーザーとなっていたが、20代をはじめ30代・40代の利用者も増加している。 [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月9日](../Page/8月9日.md "wikilink")、アカウント数は1億を突破し、2008年[5月10日](../Page/5月10日.md "wikilink")現在で2億320万人分のアカウントがあることが発表されている。 後発の[Facebook](../Page/Facebook.md "wikilink")に抜かれるまで英語圏では最も巨大で人気のあるSNS型サイトだった。
+[ソーシャル・ネットワーキング・サービス](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")（SNS）と呼ばれる[ウェブサイト](../Page/ウェブサイト.md "wikilink")に属するものである。当初は主に10代の音楽マニアがコアユーザーとなっていたが、20代をはじめ30代・40代の利用者も増加している。 [2006年](../Page/2006年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")、アカウント数は1億を突破し、2008年[5月10日](../Page/5月10日.md "wikilink")現在で2億320万人分のアカウントがあることが発表されている。 後発の[Facebook](../Page/Facebook.md "wikilink")に抜かれるまで英語圏では最も巨大で人気のあるSNS型サイトだった。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月、[タイムズ](../Page/タイムズ.md "wikilink")や[FOXテレビ](https://ja.wikipedia.org/wiki/FOXテレビ "wikilink")を擁する、[ルパート・マードック](https://ja.wikipedia.org/wiki/ルパート・マードック "wikilink")率いる[ニューズ・コーポレーション](https://ja.wikipedia.org/wiki/ニューズ・コーポレーション "wikilink")はMySpaceの一部株式を持つ親会社を5億8000万ドルで取得している。FOXテレビの放送した番組本編や予告などがビデオアップロードサービス、MySpace Video に提供され提携が進んでいる。
+[2005年](../Page/2005年.md "wikilink")7月、[タイムズ](../Page/タイムズ.md "wikilink")や[FOXテレビ](https://ja.wikipedia.org/wiki/FOXテレビ "wikilink")を擁する、[ルパート・マードック](../Page/ルパート・マードック.md "wikilink")率いる[ニューズ・コーポレーション](https://ja.wikipedia.org/wiki/ニューズ・コーポレーション "wikilink")はMySpaceの一部株式を持つ親会社を5億8000万ドルで取得している。FOXテレビの放送した番組本編や予告などがビデオアップロードサービス、MySpace Video に提供され提携が進んでいる。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にはGoogleと包括的な広告掲載契約を結び、年間9億ドルを4年間に渡って受け取れることとなった。しかしその後ページビューは伸び悩み、2011年にこの契約期間が満了し更新は行われないこととなった。\[1\] 2011年1月11日、売り上げ減少に備えるためにマイスペースは従業員の47%を人員整理すると発表した\[2\]。同年6月には、ニューズ・コーポレーションからスペシフィック・メディアに売却された。
+[2006年](../Page/2006年.md "wikilink")にはGoogleと包括的な広告掲載契約を結び、年間9億ドルを4年間に渡って受け取れることとなった。しかしその後ページビューは伸び悩み、2011年にこの契約期間が満了し更新は行われないこととなった。\[1\] 2011年1月11日、売り上げ減少に備えるためにマイスペースは従業員の47%を人員整理すると発表した\[2\]。同年6月には、ニューズ・コーポレーションからスペシフィック・メディアに売却された。
 
 ### 日本での展開
 
@@ -17,11 +17,11 @@
 
 また、日本では既存メディアとのメディアミックスも積極的に行われている。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")からMySpaceを使用したラジオ番組「[銀河に吠えろ\!宇宙GメンTAKUYA](https://ja.wikipedia.org/wiki/銀河に吠えろ!宇宙GメンTAKUYA "wikilink")」（[ニッポン放送](../Page/ニッポン放送.md "wikilink")他21局ネット）が開始された。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月8日](../Page/9月8日.md "wikilink")からMySpaceを使用したラジオ番組「[銀河に吠えろ\!宇宙GメンTAKUYA](https://ja.wikipedia.org/wiki/銀河に吠えろ!宇宙GメンTAKUYA "wikilink")」（[ニッポン放送](../Page/ニッポン放送.md "wikilink")他21局ネット）が開始された。
 
-[2009年](../Page/2009年.md "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[J-WAVE](../Page/J-WAVE.md "wikilink")がMySpaceと連動したラジオ番組「RADIO×SPIDER」の放送を開始\[3\]。
+[2009年](../Page/2009年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[J-WAVE](../Page/J-WAVE.md "wikilink")がMySpaceと連動したラジオ番組「RADIO×SPIDER」の放送を開始\[3\]。
 
-[2009年](../Page/2009年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")からは[東京ニュース通信社](https://ja.wikipedia.org/wiki/東京ニュース通信社 "wikilink")と共に月刊誌「MySpace from JP.」の創刊が決定し、創刊準備号が[2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に発行となった。
+[2009年](../Page/2009年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")からは[東京ニュース通信社](../Page/東京ニュース通信社.md "wikilink")と共に月刊誌「MySpace from JP.」の創刊が決定し、創刊準備号が[2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に発行となった。
 
 さらに[2009年](../Page/2009年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")にはMySpace、「RADIO×SPIDER」、「MySpace From JP.」の3者共同による[レコードレーベル](../Page/レコードレーベル.md "wikilink")「SPIDER RECORDS（スパイダー・レコード）」の発足が発表され\[4\]、第一段アーティストとしてNICCO（ニコ）が選ばれた。
 
@@ -62,11 +62,11 @@
 
 MySpaceへの参加に当たって「[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")」として登録すれば、自分たちのプロフィールのページに自作曲の[MP3](../Page/MP3.md "wikilink")ファイルを最大10曲まで公開することができる。MySpaceには多くのプロ、[インディーズ](../Page/インディーズ.md "wikilink")、アマチュアのミュージシャンらが登録している。ファンと交流したり曲を発表したりする本拠地となっており、多くの若い音楽ファンが好きなミュージシャン本人やそのファンと交流を深めるためにMySpaceに登録している。これがMySpaceが先行するソーシャル・ネットワーキング・サービスを凌ぐ会員数を獲得できた原動力である。ミュージシャンのアップロードした曲はユーザのプロフィールにもアップロードできるため、人気のある曲はそこかしこで公開されることになる。
 
-MySpaceはアメリカの音楽業界に強い影響力を持っている。メジャーまたはインディーズレーベル各社のミュージシャン、社員、エンジニア、ラジオDJらがアカウントを運営し人脈を広げている。MySpaceを調査すれば、こうしたミュージシャンたちのファンや、登録者の音楽的嗜好を確実に把握できる。そのためこのサイトを使ったメールや広告は音楽マーケティングの重要な手段となりつつある。同様にプロアマの映像作家やコメディアンたちも自分たちの作品をアップロードしている（例えば[アイスランド](https://ja.wikipedia.org/wiki/アイスランド "wikilink")出身のロック・バンド、[シガー・ロス](https://ja.wikipedia.org/wiki/シガー・ロス "wikilink")のページ： [1](http://www.myspace.com/sigurros)）。
+MySpaceはアメリカの音楽業界に強い影響力を持っている。メジャーまたはインディーズレーベル各社のミュージシャン、社員、エンジニア、ラジオDJらがアカウントを運営し人脈を広げている。MySpaceを調査すれば、こうしたミュージシャンたちのファンや、登録者の音楽的嗜好を確実に把握できる。そのためこのサイトを使ったメールや広告は音楽マーケティングの重要な手段となりつつある。同様にプロアマの映像作家やコメディアンたちも自分たちの作品をアップロードしている（例えば[アイスランド](https://ja.wikipedia.org/wiki/アイスランド "wikilink")出身のロック・バンド、[シガー・ロス](../Page/シガー・ロス.md "wikilink")のページ： [1](http://www.myspace.com/sigurros)）。
 
 ### ティーンエイジャーへの影響
 
-MySpaceは2000年代後半の英語圏における[ティーンエイジャー](https://ja.wikipedia.org/wiki/ティーンエイジャー "wikilink")文化の最も影響力のある存在と化している。そこでは同じミュージシャンや同じ俳優が好きな人同士が語り合うコミュニティが形成され、ファン同士での友人関係の発展などがある一方で、一種の[出会い系サイト](../Page/出会い系サイト.md "wikilink")にもなっている。また同じ学校の学生同士でもMySpace を使った会話や友人作りが活発になっている。しかし、アメリカやイギリスの多くの[学校](https://ja.wikipedia.org/wiki/学校 "wikilink")では「学生同士のゴシップや悪意のあるコメントの温床である」として学内からのMySpace接続を禁止するところが出始め、一部の私立学校では自室からのアクセスも禁止しようとしている。またある大学は、学内のインターネット帯域の40%がMySpace接続のために使われたとして大学からのアクセスを禁止した[2](http://www.comcast.net/news/technology/index.jsp?cat=TECHNOLOGY&fn=/2006/04/10/365139.html)。2000年代末以降はFacebookに大きく水をあけられ、急速にユーザーを減らしている。
+MySpaceは2000年代後半の英語圏における[ティーンエイジャー](../Page/ティーンエイジャー.md "wikilink")文化の最も影響力のある存在と化している。そこでは同じミュージシャンや同じ俳優が好きな人同士が語り合うコミュニティが形成され、ファン同士での友人関係の発展などがある一方で、一種の[出会い系サイト](../Page/出会い系サイト.md "wikilink")にもなっている。また同じ学校の学生同士でもMySpace を使った会話や友人作りが活発になっている。しかし、アメリカやイギリスの多くの[学校](https://ja.wikipedia.org/wiki/学校 "wikilink")では「学生同士のゴシップや悪意のあるコメントの温床である」として学内からのMySpace接続を禁止するところが出始め、一部の私立学校では自室からのアクセスも禁止しようとしている。またある大学は、学内のインターネット帯域の40%がMySpace接続のために使われたとして大学からのアクセスを禁止した[2](http://www.comcast.net/news/technology/index.jsp?cat=TECHNOLOGY&fn=/2006/04/10/365139.html)。2000年代末以降はFacebookに大きく水をあけられ、急速にユーザーを減らしている。
 
 ## 歴史
 
@@ -76,9 +76,9 @@ MySpaceは2000年代後半の英語圏における[ティーンエイジャー](
 
 ### MySpaceの創業
 
-現在のMySpaceのサービスは、[2003年](../Page/2003年.md "wikilink")7月に[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")と[カリフォルニア大学ロサンゼルス校](../Page/カリフォルニア大学ロサンゼルス校.md "wikilink")（UCLA）の卒業生だった現社長トム・アンダーソン（Tom Anderson）、[南カリフォルニア大学](https://ja.wikipedia.org/wiki/南カリフォルニア大学 "wikilink")経営大学院（USC's Marshall School of Business）出身で現CEOのクリス・デウォルフ（Chris DeWolfe）、ほかプログラマー数名が創立した。
+現在のMySpaceのサービスは、[2003年](../Page/2003年.md "wikilink")7月に[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")と[カリフォルニア大学ロサンゼルス校](../Page/カリフォルニア大学ロサンゼルス校.md "wikilink")（UCLA）の卒業生だった現社長トム・アンダーソン（Tom Anderson）、[南カリフォルニア大学](../Page/南カリフォルニア大学.md "wikilink")経営大学院（USC's Marshall School of Business）出身で現CEOのクリス・デウォルフ（Chris DeWolfe）、ほかプログラマー数名が創立した。
 
-MySpaceの創業者たちは、アメリカの若者文化の中で大きな比重を占める音楽を中心にすえ、その周りに集まるユーザーをはまらせるコミュニティ作りを工夫してきた。またサイトの維持・支援集めのために、これまで多くのパーティーを全米各地、例えば[ハリウッド](../Page/ハリウッド.md "wikilink")、[ジャクソンビル](https://ja.wikipedia.org/wiki/ジャクソンビル_\(フロリダ州\) "wikilink")、[マイアミ](../Page/マイアミ.md "wikilink")、[オーランド](https://ja.wikipedia.org/wiki/オーランド "wikilink")、[ニューヨーク](../Page/ニューヨーク.md "wikilink")、[シカゴ](../Page/シカゴ.md "wikilink")、[ボストン](../Page/ボストン.md "wikilink")、[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")、[シアトル](../Page/シアトル.md "wikilink")、[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")などで開催し、現地のバンドやミュージシャンなどにMySpace にページを作ってもらうよう勧誘してきた。
+MySpaceの創業者たちは、アメリカの若者文化の中で大きな比重を占める音楽を中心にすえ、その周りに集まるユーザーをはまらせるコミュニティ作りを工夫してきた。またサイトの維持・支援集めのために、これまで多くのパーティーを全米各地、例えば[ハリウッド](../Page/ハリウッド.md "wikilink")、[ジャクソンビル](https://ja.wikipedia.org/wiki/ジャクソンビル_\(フロリダ州\) "wikilink")、[マイアミ](../Page/マイアミ.md "wikilink")、[オーランド](../Page/オーランド.md "wikilink")、[ニューヨーク](../Page/ニューヨーク.md "wikilink")、[シカゴ](../Page/シカゴ.md "wikilink")、[ボストン](../Page/ボストン.md "wikilink")、[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")、[シアトル](../Page/シアトル.md "wikilink")、[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")などで開催し、現地のバンドやミュージシャンなどにMySpace にページを作ってもらうよう勧誘してきた。
 
 ### ニューズ・コーポレーション傘下に
 

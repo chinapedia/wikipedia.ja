@@ -5,7 +5,7 @@
 
 ## 歴代受賞馬
 
-[馬齢](https://ja.wikipedia.org/wiki/馬齢 "wikilink")は2000年までは旧表記。
+[馬齢](../Page/馬齢.md "wikilink")は2000年までは旧表記。
 
 <table>
 <thead>
@@ -55,13 +55,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アインアイン" title="wikilink">アインアイン</a></p></td>
+<td><p><a href="../Page/アインアイン.md" title="wikilink">アインアイン</a></p></td>
 <td><p>牝5</p></td>
 <td><p>8戦1勝<br />
 東京盃</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大典牧場" title="wikilink">大典牧場</a></p></td>
 <td><p><a href="../Page/大井競馬場.md" title="wikilink">大井</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/赤間清松" title="wikilink">赤間清松</a></p></td>
+<td><p><a href="../Page/赤間清松.md" title="wikilink">赤間清松</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/本田昭" title="wikilink">本田昭</a></p></td>
 </tr>
 <tr class="odd">
@@ -73,7 +73,7 @@
 <a href="https://ja.wikipedia.org/wiki/栗駒賞" title="wikilink">栗駒賞</a>、<a href="../Page/アフター5スター賞.md" title="wikilink">アフター5スター賞</a>、東京盃</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/まるとみ冨岡牧場" title="wikilink">まるとみ冨岡牧場</a></p></td>
 <td><p>大井</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋三郎_(競馬)" title="wikilink">高橋三郎</a></p></td>
+<td><p><a href="../Page/高橋三郎_(競馬).md" title="wikilink">高橋三郎</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/畑末廣郎" title="wikilink">畑末廣郎</a></p></td>
 </tr>
 <tr class="even">
@@ -87,23 +87,23 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヨシノイチバンボシ" title="wikilink">ヨシノイチバンボシ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>12戦5勝<br />
-<a href="https://ja.wikipedia.org/wiki/マイル争覇" title="wikilink">マイル争覇</a>、<a href="https://ja.wikipedia.org/wiki/かきつばた記念" title="wikilink">かきつばた記念</a>、<a href="https://ja.wikipedia.org/wiki/名港盃" title="wikilink">名港盃</a>、<br />
-<a href="https://ja.wikipedia.org/wiki/姫山菊花賞" title="wikilink">姫山菊花賞</a></p></td>
+<a href="https://ja.wikipedia.org/wiki/マイル争覇" title="wikilink">マイル争覇</a>、<a href="../Page/かきつばた記念.md" title="wikilink">かきつばた記念</a>、<a href="https://ja.wikipedia.org/wiki/名港盃" title="wikilink">名港盃</a>、<br />
+<a href="../Page/姫山菊花賞.md" title="wikilink">姫山菊花賞</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/酒井静男" title="wikilink">酒井静男</a></p></td>
 <td><p><a href="../Page/愛知県競馬組合.md" title="wikilink">愛知</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/錦見勇夫" title="wikilink">錦見勇夫</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/野田雅昭" title="wikilink">野田雅昭</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ネイティヴハート" title="wikilink">ネイティヴハート</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/ネイティヴハート.md" title="wikilink">ネイティヴハート</a></p></td>
 <td><p>牡8</p></td>
 <td><p>6戦1勝<br />
-<a href="https://ja.wikipedia.org/wiki/オーシャンステークス" title="wikilink">オーシャンステークス</a>（オープン特別）</p></td>
+<a href="../Page/オーシャンステークス.md" title="wikilink">オーシャンステークス</a>（オープン特別）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/明和牧場" title="wikilink">明和牧場</a></p></td>
 <td><p><a href="../Page/船橋競馬場.md" title="wikilink">船橋</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/坂本昇_(競馬)" title="wikilink">坂本昇</a></p></td>
@@ -111,10 +111,10 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フジノウェーブ" title="wikilink">フジノウェーブ</a></p></td>
+<td><p><a href="../Page/フジノウェーブ.md" title="wikilink">フジノウェーブ</a></p></td>
 <td><p>牡5</p></td>
 <td><p>7戦4勝<br />
-<a href="https://ja.wikipedia.org/wiki/JBCスプリント" title="wikilink">JBCスプリント</a></p></td>
+<a href="../Page/JBCスプリント.md" title="wikilink">JBCスプリント</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/笹島政信" title="wikilink">笹島政信</a></p></td>
 <td><p>大井</p></td>
 <td><p>高橋三郎</p></td>
@@ -149,7 +149,7 @@
 <a href="https://ja.wikipedia.org/wiki/オーバルスプリント" title="wikilink">オーバルスプリント</a></p></td>
 <td><p><a href="../Page/下河辺牧場.md" title="wikilink">下河辺牧場</a></p></td>
 <td><p>船橋</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川島正行" title="wikilink">川島正行</a></p></td>
+<td><p><a href="../Page/川島正行.md" title="wikilink">川島正行</a></p></td>
 <td><p>小野誠治</p></td>
 </tr>
 <tr class="odd">
@@ -157,7 +157,7 @@
 <td><p>ナイキマドリード</p></td>
 <td><p>牡5</p></td>
 <td><p>7戦2勝<br />
-<a href="https://ja.wikipedia.org/wiki/さきたま杯" title="wikilink">さきたま杯</a></p></td>
+<a href="../Page/さきたま杯.md" title="wikilink">さきたま杯</a></p></td>
 <td><p>下河辺牧場</p></td>
 <td><p>船橋</p></td>
 <td><p>川島正行</p></td>
@@ -172,7 +172,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/グランド牧場" title="wikilink">グランド牧場</a></p></td>
 <td><p><a href="../Page/笠松競馬場.md" title="wikilink">笠松</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/柳江仁" title="wikilink">柳江仁</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Dr.コパ" title="wikilink">小林祥晃</a></p></td>
+<td><p><a href="../Page/Dr.コパ.md" title="wikilink">小林祥晃</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
@@ -192,10 +192,10 @@
 <td><p>牡6</p></td>
 <td><p>9戦2勝<br />
 <a href="https://ja.wikipedia.org/wiki/川崎マイラーズ" title="wikilink">川崎マイラーズ</a>、アフター5スター賞、<br />
-<a href="https://ja.wikipedia.org/wiki/JBCスプリント" title="wikilink">JBCスプリント</a>2着</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/社台ファーム" title="wikilink">社台ファーム</a></p></td>
+<a href="../Page/JBCスプリント.md" title="wikilink">JBCスプリント</a>2着</p></td>
+<td><p><a href="../Page/社台ファーム.md" title="wikilink">社台ファーム</a></p></td>
 <td><p><a href="../Page/浦和競馬場.md" title="wikilink">浦和</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小久保智" title="wikilink">小久保智</a></p></td>
+<td><p><a href="../Page/小久保智.md" title="wikilink">小久保智</a></p></td>
 <td><p>松村真司</p></td>
 </tr>
 <tr class="odd">
@@ -203,7 +203,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ポアゾンブラック" title="wikilink">ポアゾンブラック</a></p></td>
 <td><p>牡6</p></td>
 <td><p>6戦1勝[1]<br />
-<a href="https://ja.wikipedia.org/wiki/グランシャリオ門別スプリント" title="wikilink">グランシャリオ門別スプリント</a>、<a href="https://ja.wikipedia.org/wiki/北海道スプリントカップ" title="wikilink">北海道スプリントカップ</a>2着、<a href="../Page/クラスターカップ.md" title="wikilink">クラスターカップ</a>2着</p></td>
+<a href="https://ja.wikipedia.org/wiki/グランシャリオ門別スプリント" title="wikilink">グランシャリオ門別スプリント</a>、<a href="../Page/北海道スプリントカップ.md" title="wikilink">北海道スプリントカップ</a>2着、<a href="../Page/クラスターカップ.md" title="wikilink">クラスターカップ</a>2着</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/出口牧場" title="wikilink">出口牧場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ホッカイドウ競馬" title="wikilink">北海道</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田中淳司" title="wikilink">田中淳司</a></p></td>
@@ -214,7 +214,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ソルテ" title="wikilink">ソルテ</a></p></td>
 <td><p>牡6</p></td>
 <td><p>5戦2勝<br />
-<a href="https://ja.wikipedia.org/wiki/フジノウェーブ記念" title="wikilink">フジノウェーブ記念</a>、<a href="https://ja.wikipedia.org/wiki/さきたま杯" title="wikilink">さきたま杯</a>、かしわ記念2着</p></td>
+<a href="https://ja.wikipedia.org/wiki/フジノウェーブ記念" title="wikilink">フジノウェーブ記念</a>、<a href="../Page/さきたま杯.md" title="wikilink">さきたま杯</a>、かしわ記念2着</p></td>
 <td></td>
 <td><p>大井</p></td>
 <td><p>寺田新太郎</p></td>
@@ -225,10 +225,10 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ブルドッグボス" title="wikilink">ブルドッグボス</a></p></td>
 <td><p>牡5</p></td>
 <td><p>9戦1勝<br />
-<a href="../Page/クラスターカップ.md" title="wikilink">クラスターカップ</a>、<a href="https://ja.wikipedia.org/wiki/JBCスプリント" title="wikilink">JBCスプリント</a>3着</p></td>
+<a href="../Page/クラスターカップ.md" title="wikilink">クラスターカップ</a>、<a href="../Page/JBCスプリント.md" title="wikilink">JBCスプリント</a>3着</p></td>
 <td></td>
 <td><p>浦和</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小久保智" title="wikilink">小久保智</a></p></td>
+<td><p><a href="../Page/小久保智.md" title="wikilink">小久保智</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -236,20 +236,20 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/キタサンミカヅキ" title="wikilink">キタサンミカヅキ</a></p></td>
 <td><p>牡8</p></td>
 <td><p>9戦3勝<br />
-<a href="https://ja.wikipedia.org/wiki/プラチナカップ" title="wikilink">プラチナカップ</a>、<a href="../Page/アフター5スター賞.md" title="wikilink">アフター5スター賞</a>、<a href="../Page/東京盃.md" title="wikilink">東京盃</a>、<a href="https://ja.wikipedia.org/wiki/JBCスプリント" title="wikilink">JBCスプリント</a>3着</p></td>
+<a href="https://ja.wikipedia.org/wiki/プラチナカップ" title="wikilink">プラチナカップ</a>、<a href="../Page/アフター5スター賞.md" title="wikilink">アフター5スター賞</a>、<a href="../Page/東京盃.md" title="wikilink">東京盃</a>、<a href="../Page/JBCスプリント.md" title="wikilink">JBCスプリント</a>3着</p></td>
 <td></td>
 <td><p>船橋</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤賢二" title="wikilink">佐藤賢二</a></p></td>
+<td><p><a href="../Page/佐藤賢二.md" title="wikilink">佐藤賢二</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブルドッグボス" title="wikilink">ブルドッグボス</a></p></td>
 <td><p>牡7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JBCスプリント" title="wikilink">JBCスプリント</a></p></td>
+<td><p><a href="../Page/JBCスプリント.md" title="wikilink">JBCスプリント</a></p></td>
 <td></td>
 <td><p>浦和</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小久保智" title="wikilink">小久保智</a></p></td>
+<td><p><a href="../Page/小久保智.md" title="wikilink">小久保智</a></p></td>
 <td></td>
 </tr>
 </tbody>

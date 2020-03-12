@@ -5,7 +5,7 @@
 
 ## 概要
 
-[航空機](../Page/航空機.md "wikilink")の写真と情報を主に扱うWebサイトで、扱う写真は殆どが民間の[旅客機](../Page/旅客機.md "wikilink")の写真であるが、[戦闘機](../Page/戦闘機.md "wikilink")や[輸送機](../Page/輸送機.md "wikilink")など[軍用機](../Page/軍用機.md "wikilink")の写真も数多く扱っている。反面、個人所有の[軽飛行機](https://ja.wikipedia.org/wiki/軽飛行機 "wikilink")や[ビジネスジェット](../Page/ビジネスジェット.md "wikilink")などの小型機はあまり扱われない。しかし、例外として旅客機から派生した[KC-10](https://ja.wikipedia.org/wiki/KC-10 "wikilink")などの軍用機などは盛んに取り上げられている。
+[航空機](../Page/航空機.md "wikilink")の写真と情報を主に扱うWebサイトで、扱う写真は殆どが民間の[旅客機](../Page/旅客機.md "wikilink")の写真であるが、[戦闘機](../Page/戦闘機.md "wikilink")や[輸送機](../Page/輸送機.md "wikilink")など[軍用機](../Page/軍用機.md "wikilink")の写真も数多く扱っている。反面、個人所有の[軽飛行機](../Page/軽飛行機.md "wikilink")や[ビジネスジェット](../Page/ビジネスジェット.md "wikilink")などの小型機はあまり扱われない。しかし、例外として旅客機から派生した[KC-10](https://ja.wikipedia.org/wiki/KC-10 "wikilink")などの軍用機などは盛んに取り上げられている。
 
 Webサイトに掲載される写真は全て利用者が投稿した写真であり、2012年現在、投稿された写真は205万枚を超えている。投稿された写真はサイト上に設置されたフォームで航空機の所属（[航空会社](../Page/航空会社.md "wikilink")・軍・政府機関など）・航空機の機種・[機体記号](https://ja.wikipedia.org/wiki/機体記号 "wikilink")・撮影地・撮影された年代・写真のカテゴリ（コックピット、客室内の写真など）など細かな条件を指定して検索できる。航空機の写真を投稿して閲覧できるサービス以外にも、[航空ファン](https://ja.wikipedia.org/wiki/航空ファン "wikilink")同士が情報交換できるフォーラムや、民間航空関連のニュースをいち早く伝える情報コーナー、旅客機のスペックをまとめた事典、それに航空グッズのオンラインショップなどを設置しており、[航空ファン](https://ja.wikipedia.org/wiki/航空ファン "wikilink")、とりわけ旅客機の撮影が趣味の[スポッターなどに重宝されている](https://ja.wikipedia.org/wiki/スポッティング_\(航空\) "wikilink")。
 

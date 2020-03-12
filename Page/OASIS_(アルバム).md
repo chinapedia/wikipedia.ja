@@ -1,13 +1,13 @@
 > この記事は[OASIS \(\)](https://ja.wikipedia.org/wiki/OASIS_\(\))から翻訳されています。
 
 
-『**OASIS**』（オアシス）は、[2003年](../Page/2003年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")に[Sony Music Associated Records](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink") から発売された[TUBE](../Page/TUBE.md "wikilink")の通算23作目の[オリジナル・アルバムである](https://ja.wikipedia.org/wiki/スタジオアルバム "wikilink")。
+『**OASIS**』（オアシス）は、[2003年](../Page/2003年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")に[Sony Music Associated Records](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink") から発売された[TUBE](../Page/TUBE.md "wikilink")の通算23作目の[オリジナル・アルバムである](https://ja.wikipedia.org/wiki/スタジオアルバム "wikilink")。
 
 ## 概要
 
   - TUBEのアルバムには毎年豪華な初回特典が付くが、このアルバムには初回限定盤仕様がない。
   - 共同プロデューサーのKANONJIは長戸大幸の変名クレジットであり、長戸がTUBEのプロデュースを手掛けるのは10年振りとなった。
-  - ジャケットの撮影等は[ハワイ島](https://ja.wikipedia.org/wiki/ハワイ島 "wikilink")の[コナ](https://ja.wikipedia.org/wiki/コナ "wikilink")などで撮影された。
+  - ジャケットの撮影等は[ハワイ島](../Page/ハワイ島.md "wikilink")の[コナ](https://ja.wikipedia.org/wiki/コナ "wikilink")などで撮影された。
   - アルバムのキャッチフレーズは「痛みにも似た夏。」
   - 本作を引っ提げて恒例の野外ライブツアー「[TUBE LIVE AROUND SPECIAL 2003　OASIS](https://ja.wikipedia.org/wiki/TUBE#歴代コンサートツアー "wikilink")」が全国4か所で行われた。また、このライブの模様は[2004年](../Page/2004年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に発売された映像作品、『[春夏秋冬2003-04〜いつも恋には色がある〜](https://ja.wikipedia.org/wiki/春夏秋冬2003-04〜いつも恋には色がある〜 "wikilink")』で観ることができる。
 
@@ -39,9 +39,9 @@
 
 ## ゲストミュージシャン
 
-  - [勝田一樹](https://ja.wikipedia.org/wiki/勝田一樹 "wikilink")（DIMENSION） - サックス（\#1,4,9,10）ホーンアレンジ（\#9）
-  - [佐々木史郎](https://ja.wikipedia.org/wiki/BIG_HORNS_BEE "wikilink") - トランペット（\#1,9）
-  - [澤野博敬](https://ja.wikipedia.org/wiki/クレイジーケンバンド "wikilink") - トランペット（\#9）
+  - [勝田一樹](../Page/勝田一樹.md "wikilink")（DIMENSION） - サックス（\#1,4,9,10）ホーンアレンジ（\#9）
+  - [佐々木史郎](../Page/BIG_HORNS_BEE.md "wikilink") - トランペット（\#1,9）
+  - [澤野博敬](../Page/クレイジーケンバンド.md "wikilink") - トランペット（\#9）
   - 佐久間勲 - トランペット（\#1）
   - [河合わかば](https://ja.wikipedia.org/wiki/河合わかば "wikilink") - トロンボーン（\#1）
   - [野村裕幸](../Page/野村裕幸.md "wikilink") - トロンボーン（\#9）

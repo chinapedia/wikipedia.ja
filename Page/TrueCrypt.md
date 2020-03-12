@@ -1,7 +1,7 @@
 > この記事は[TrueCrypt](https://ja.wikipedia.org/wiki/TrueCrypt)から翻訳されています。
 
 
-**TrueCrypt**（トゥルークリプト）とは、[暗号](../Page/暗号.md "wikilink")化された[仮想ディスク](https://ja.wikipedia.org/wiki/仮想ディスク "wikilink")を作成・利用するソフトウエア。仮想ディスクは[ファイルとして作成するだけでなく](https://ja.wikipedia.org/wiki/ファイル_\(コンピュータ\) "wikilink")、[パーティション](https://ja.wikipedia.org/wiki/パーティション "wikilink")自体も対象にできる。ユーザは、作成された仮想ディスクを[USBメモリ](https://ja.wikipedia.org/wiki/USBメモリ "wikilink")などと同じ感覚で[リムーバブルディスク](../Page/リムーバブルディスク.md "wikilink")ドライブとして[マウントすることで利用できる](https://ja.wikipedia.org/wiki/mount_\(UNIX\) "wikilink")。また、Windows版TrueCryptではシステムドライブ自体も暗号化することが出来る\[1\]。
+**TrueCrypt**（トゥルークリプト）とは、[暗号](../Page/暗号.md "wikilink")化された[仮想ディスク](https://ja.wikipedia.org/wiki/仮想ディスク "wikilink")を作成・利用するソフトウエア。仮想ディスクは[ファイルとして作成するだけでなく](../Page/ファイル_\(コンピュータ\).md "wikilink")、[パーティション](../Page/パーティション.md "wikilink")自体も対象にできる。ユーザは、作成された仮想ディスクを[USBメモリ](https://ja.wikipedia.org/wiki/USBメモリ "wikilink")などと同じ感覚で[リムーバブルディスク](../Page/リムーバブルディスク.md "wikilink")ドライブとして[マウントすることで利用できる](https://ja.wikipedia.org/wiki/mount_\(UNIX\) "wikilink")。また、Windows版TrueCryptではシステムドライブ自体も暗号化することが出来る\[1\]。
 
 このソフトウエアは、TrueCrypt License\[2\]の下で無償で利用できる。
 
@@ -13,7 +13,7 @@
 
 2014年5月28日に、TrueCryptの公式サイト `truecrypt.org` が、[HTTP 301 "Moved Permanently"（恒久的に移動した）によって訪問者を](https://ja.wikipedia.org/wiki/HTTPステータスコード#3xx_Redirection_リダイレクション "wikilink") `truecrypt.sourceforge.org` へ転送するようになった。転送先では、Windows XPのサポート終了に合わせて、TrueCryptの開発を2014年5月で終了した旨が警告されている。新しいバージョンのWindowsではOS標準の[BitLocker](https://ja.wikipedia.org/wiki/BitLocker "wikilink")が、LinuxやMac OS Xでも類似のシステムがあることから、TrueCryptはもはや不要であり、TrueCryptで暗号化されているデータをBitLockerに移行することが推奨されている。SourceForgeのプロジェクトページ `sourceforge.net/truecrypt` にも同じメッセージが表示されるようになり、プロジェクトの状況は "inactive"（活動していない）に変更された\[4\]。同時に、暗号化機能を除去し、既存の暗号化済みデータの復号機能のみを有するバージョン7.2がリリースされた。
 
-開発終了の発表当初、この発表および新しくリリースされたバージョン7.2が本物なのか疑問が呈された\[5\]\[6\]\[7\]。ITコミュニティでは、この発表について様々な説が示された\[8\]\[9\]。[truecrypt.ch](http://truecrypt.ch/)\[10\]、[CipherShed.org](http://ciphershed.org/)およびクラウドファンドによってTrueCrypt 7.1aのセキュリティ監査を行っていたグループ\[11\]が、それぞれ独自にTrueCryptの[フォークを行うことを発表した](https://ja.wikipedia.org/wiki/フォーク_\(ソフトウェア開発\) "wikilink")。
+開発終了の発表当初、この発表および新しくリリースされたバージョン7.2が本物なのか疑問が呈された\[5\]\[6\]\[7\]。ITコミュニティでは、この発表について様々な説が示された\[8\]\[9\]。[truecrypt.ch](http://truecrypt.ch/)\[10\]、[CipherShed.org](http://ciphershed.org/)およびクラウドファンドによってTrueCrypt 7.1aのセキュリティ監査を行っていたグループ\[11\]が、それぞれ独自にTrueCryptの[フォークを行うことを発表した](../Page/フォーク_\(ソフトウェア開発\).md "wikilink")。
 
 Gibson Research Corporationによると、Steven Barnhartが、TrueCrypt Foundationのメンバーの一人にメールを送り、返事を受け取っている。それによると、開発終了の発表は「（プロジェクトを続けることに対する）興味を失った」ためであるとのことである\[12\]。
 
@@ -21,7 +21,7 @@ Gibson Research Corporationによると、Steven Barnhartが、TrueCrypt Foundat
 
   - TrueCryptは[暗号](../Page/暗号.md "wikilink")化された[仮想ディスク](https://ja.wikipedia.org/wiki/仮想ディスク "wikilink")を作成する機能を持つ。この仮想ディスクは「TrueCryptボリューム」と呼ばれる。
   - ボリュームのフォーマット形式はWindowsでは[FAT](../Page/File_Allocation_Table.md "wikilink") (FAT12, FAT16, FAT32) または[NTFS](../Page/NT_File_System.md "wikilink")、LinuxではFAT (VFAT), [ext2](https://ja.wikipedia.org/wiki/ext2 "wikilink"), [ext3](https://ja.wikipedia.org/wiki/ext3 "wikilink"), [ext4](https://ja.wikipedia.org/wiki/ext4 "wikilink")である。
-  - 利用できる暗号化アルゴリズム（[ブロック暗号](https://ja.wikipedia.org/wiki/ブロック暗号 "wikilink")）は、[AES](../Page/Advanced_Encryption_Standard.md "wikilink"), [Serpent](https://ja.wikipedia.org/wiki/Serpent_\(暗号\) "wikilink"), [Twofish](https://ja.wikipedia.org/wiki/Twofish "wikilink")（いずれも鍵長256ビット、ブロック長128ビット）の単独使用あるいは AES-Twofish, AES-Twofish-Serpent, Serpent-AES, Serpent-Twofish-AES, Twofish-Serpentのカスケード方式の計8種類である。
+  - 利用できる暗号化アルゴリズム（[ブロック暗号](../Page/ブロック暗号.md "wikilink")）は、[AES](../Page/Advanced_Encryption_Standard.md "wikilink"), [Serpent](https://ja.wikipedia.org/wiki/Serpent_\(暗号\) "wikilink"), [Twofish](../Page/Twofish.md "wikilink")（いずれも鍵長256ビット、ブロック長128ビット）の単独使用あるいは AES-Twofish, AES-Twofish-Serpent, Serpent-AES, Serpent-Twofish-AES, Twofish-Serpentのカスケード方式の計8種類である。
   - 利用できるハッシュアルゴリズム（[暗号学的ハッシュ関数](https://ja.wikipedia.org/wiki/暗号学的ハッシュ関数 "wikilink")）は、[RIPEMD](https://ja.wikipedia.org/wiki/RIPEMD "wikilink")-160（ハッシュ長160ビット）, [SHA-512](https://ja.wikipedia.org/wiki/SHA-2 "wikilink"), [Whirlpool](https://ja.wikipedia.org/wiki/Whirlpool_\(ハッシュ関数\) "wikilink")（いずれもハッシュ長512ビット）の3種類である。
   - ユーザは事前に作成されたTrueCryptボリュームを、TrueCryptのGUIを用いて[マウントすることにより利用する](https://ja.wikipedia.org/wiki/mount_\(UNIX\) "wikilink")。
   - TrueCryptボリュームをマウントするときに、パスワードによる認証またはキーファイルによる認証が行われる。
@@ -30,7 +30,7 @@ Gibson Research Corporationによると、Steven Barnhartが、TrueCrypt Foundat
 
 ## インストール方法
 
-  - [RHEL系](https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux "wikilink")（[CentOS](https://ja.wikipedia.org/wiki/CentOS "wikilink")等）のLinuxの場合
+  - [RHEL系](../Page/Red_Hat_Enterprise_Linux.md "wikilink")（[CentOS](../Page/CentOS.md "wikilink")等）のLinuxの場合
 
 <!-- end list -->
 
@@ -105,11 +105,11 @@ OSI代表のSimon Phippsによると、
 
 > ...（TrueCryptが）自らを「オープンソース」だと主張することは全く不適切である。単にOSIが認定していないライセンスだということではなく、問題を抱えていることがわかっているライセンスでリリースするものに「オープンソース」という用語を用いることは受け入れられない。\[18\]
 
-著作権の制限やそのほかの法的問題の状況が不透明であることから\[19\]、TrueCrypt Licenseは主要な[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")からは[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")だとはみなされておらず、[Debian](../Page/Debian.md "wikilink")\[20\]、[Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu "wikilink")\[21\]、[Fedora](../Page/Fedora.md "wikilink")\[22\]、[openSUSE](https://ja.wikipedia.org/wiki/openSUSE "wikilink")\[23\]、[Gentoo](https://ja.wikipedia.org/wiki/Gentoo "wikilink")\[24\]には同梱されていない。
+著作権の制限やそのほかの法的問題の状況が不透明であることから\[19\]、TrueCrypt Licenseは主要な[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")からは[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")だとはみなされておらず、[Debian](../Page/Debian.md "wikilink")\[20\]、[Ubuntu](../Page/Ubuntu.md "wikilink")\[21\]、[Fedora](../Page/Fedora.md "wikilink")\[22\]、[openSUSE](https://ja.wikipedia.org/wiki/openSUSE "wikilink")\[23\]、[Gentoo](https://ja.wikipedia.org/wiki/Gentoo "wikilink")\[24\]には同梱されていない。
 
 このライセンスの利用者に対して、ソフトウェアを改変する権利あるいは他のプロジェクトでそのソフトウェアを使用する権利が認められているのかもはっきりとはしていない。暗号学者であるMatthew D. Greenは「（TrueCryptの開発者には）ライセンスの状況を修正することを含めて、TrueCryptのソースコードを他者が利用しやすくするよう、できることが多くあったはずだ」と述べ、他者が自分たちのソースコードをもとに独自にソフトウェアをビルドすることを認めたくなかったのだろうと推測している\[25\]。
 
-2014年6月16日に、Matthew Greenによるライセンスに関する電子メールでの問い合わせに開発者を名乗る人物から返答があった。それによると、1）TrueCryptのライセンスをオープンソースに適合するものに変更するつもりはない、2）TrueCryptは[フォークされるべきではない](https://ja.wikipedia.org/wiki/フォーク_\(ソフトウェア開発\) "wikilink")、3）新しいバージョンを作成したいのであればスクラッチから始めるべきであるとのことであった\[26\]\[27\]。
+2014年6月16日に、Matthew Greenによるライセンスに関する電子メールでの問い合わせに開発者を名乗る人物から返答があった。それによると、1）TrueCryptのライセンスをオープンソースに適合するものに変更するつもりはない、2）TrueCryptは[フォークされるべきではない](../Page/フォーク_\(ソフトウェア開発\).md "wikilink")、3）新しいバージョンを作成したいのであればスクラッチから始めるべきであるとのことであった\[26\]\[27\]。
 
 ### 開発終了とライセンスバージョン3.1
 
@@ -124,7 +124,7 @@ OSI代表のSimon Phippsによると、
   - [Advanced Encryption Standard](../Page/Advanced_Encryption_Standard.md "wikilink")
   - [LUKS](https://ja.wikipedia.org/wiki/LUKS "wikilink")（ディスク暗号化ソリューションの一つ）
   - [GnuPG](https://ja.wikipedia.org/wiki/GnuPG "wikilink")（公開鍵暗号化方式によるファイルの暗号化ソフトウエア）
-  - [VeraCrypt](https://ja.wikipedia.org/wiki/VeraCrypt "wikilink")（TrueCryptのソースコードを[フォークしたTrueCrypt互換の暗号化ソフトウェアの一つ](https://ja.wikipedia.org/wiki/フォーク_\(ソフトウェア開発\) "wikilink")）
+  - [VeraCrypt](https://ja.wikipedia.org/wiki/VeraCrypt "wikilink")（TrueCryptのソースコードを[フォークしたTrueCrypt互換の暗号化ソフトウェアの一つ](../Page/フォーク_\(ソフトウェア開発\).md "wikilink")）
   - [CipherShed](https://ja.wikipedia.org/wiki/CipherShed "wikilink")（TrueCryptのソースコードをフォークしたTrueCrypt互換の暗号化ソフトウェアの一つ）
   - [データの完全消去](https://ja.wikipedia.org/wiki/データの完全消去 "wikilink")
 

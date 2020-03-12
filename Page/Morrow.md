@@ -1,13 +1,13 @@
 > この記事は[Morrow](https://ja.wikipedia.org/wiki/Morrow)から翻訳されています。
 
 
-「**morrow**」（モロー）は[Dragon Ashの](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")12枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")発売。発売元は[MOB SQUAD](../Page/MOB_SQUAD.md "wikilink")。
+「**morrow**」（モロー）は[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")12枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")発売。発売元は[MOB SQUAD](../Page/MOB_SQUAD.md "wikilink")。
 
 ## 概要
 
 発売が延期になり、前シングル「[FANTASISTA](../Page/FANTASISTA_\(曲\).md "wikilink")」から1年以上のブランクがあったシングル。
 
-[降谷建志](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")は「Dragon Ashの曲で次の人生に持って行けるとしたら、この曲を持って行く」と雑誌のインタビューで語っている。
+[降谷建志](../Page/降谷建志.md "wikilink")は「Dragon Ashの曲で次の人生に持って行けるとしたら、この曲を持って行く」と雑誌のインタビューで語っている。
 
 本作品の発売前に『公開処刑』で[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")からのdisを受けていたことがあり、曲中の歌詞などから、「アンサーソングではないか」と言われたが、降谷はこれを否定している。
 

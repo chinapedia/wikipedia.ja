@@ -5,9 +5,9 @@
 
 ## 概要
 
-[藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")は、子供向けのコメディ作品を執筆するかたわら、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")から青年誌などに多くの[SF短編を発表した](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。着眼点の面白さや強烈な[アイロニー](https://ja.wikipedia.org/wiki/イロニー "wikilink")、或いは環境警告的な作品も多く、どれも高いSF性を持ち、本格的なSF作家としての藤子・F・不二雄の名を高める要因となった。「[流血鬼](../Page/流血鬼.md "wikilink")」（『[地球最後の男](https://ja.wikipedia.org/wiki/地球最後の男 "wikilink")』[リチャード・マシスン](../Page/リチャード・マシスン.md "wikilink")）や「[ひとりぼっちの宇宙戦争](https://ja.wikipedia.org/wiki/ひとりぼっちの宇宙戦争 "wikilink")」（『』[フレドリック・ブラウン](../Page/フレドリック・ブラウン.md "wikilink")）など、藤子Fの映画や海外SFへの嗜好をうかがわせている。
+[藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")は、子供向けのコメディ作品を執筆するかたわら、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")から青年誌などに多くの[SF短編を発表した](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。着眼点の面白さや強烈な[アイロニー](../Page/イロニー.md "wikilink")、或いは環境警告的な作品も多く、どれも高いSF性を持ち、本格的なSF作家としての藤子・F・不二雄の名を高める要因となった。「[流血鬼](../Page/流血鬼.md "wikilink")」（『[地球最後の男](../Page/地球最後の男.md "wikilink")』[リチャード・マシスン](../Page/リチャード・マシスン.md "wikilink")）や「[ひとりぼっちの宇宙戦争](../Page/ひとりぼっちの宇宙戦争.md "wikilink")」（『』[フレドリック・ブラウン](../Page/フレドリック・ブラウン.md "wikilink")）など、藤子Fの映画や海外SFへの嗜好をうかがわせている。
 
-[月曜ドラマランド](https://ja.wikipedia.org/wiki/月曜ドラマランド "wikilink")枠で単発ドラマとして『赤毛のアン子』が、[1988年](../Page/1988年.md "wikilink")には短期シリーズとして『夢カメラ』が『[藤子不二雄の夢カメラ](https://ja.wikipedia.org/wiki/藤子不二雄の夢カメラ "wikilink")』として[ドラマ](../Page/ドラマ.md "wikilink")化されている。いくつかの作品は1990年に「[藤子・F・不二雄 SF（すこし・ふしぎ）短編シアター](https://ja.wikipedia.org/wiki/#OVA "wikilink")」のタイトルで[OVA](../Page/OVA.md "wikilink")化、[週刊ストーリーランド](https://ja.wikipedia.org/wiki/週刊ストーリーランド "wikilink")で[テレビアニメ化され](https://ja.wikipedia.org/wiki/#週刊ストーリーランド "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[WOWOW](../Page/WOWOW.md "wikilink")で一部作品が[藤子・F・不二雄のパラレル・スペース](https://ja.wikipedia.org/wiki/藤子・F・不二雄のパラレル・スペース "wikilink")としてドラマ化された。藤子アニメの出演で馴染みの[肝付兼太](../Page/肝付兼太.md "wikilink")率いる「[劇団21世紀FOX](https://ja.wikipedia.org/wiki/劇団21世紀FOX "wikilink")」によって舞台化もされた。
+[月曜ドラマランド](../Page/月曜ドラマランド.md "wikilink")枠で単発ドラマとして『赤毛のアン子』が、[1988年](../Page/1988年.md "wikilink")には短期シリーズとして『夢カメラ』が『[藤子不二雄の夢カメラ](../Page/藤子不二雄の夢カメラ.md "wikilink")』として[ドラマ](../Page/ドラマ.md "wikilink")化されている。いくつかの作品は1990年に「[藤子・F・不二雄 SF（すこし・ふしぎ）短編シアター](https://ja.wikipedia.org/wiki/#OVA "wikilink")」のタイトルで[OVA](../Page/OVA.md "wikilink")化、[週刊ストーリーランド](../Page/週刊ストーリーランド.md "wikilink")で[テレビアニメ化され](https://ja.wikipedia.org/wiki/#週刊ストーリーランド "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[WOWOW](../Page/WOWOW.md "wikilink")で一部作品が[藤子・F・不二雄のパラレル・スペース](https://ja.wikipedia.org/wiki/藤子・F・不二雄のパラレル・スペース "wikilink")としてドラマ化された。藤子アニメの出演で馴染みの[肝付兼太](../Page/肝付兼太.md "wikilink")率いる「[劇団21世紀FOX](../Page/劇団21世紀FOX.md "wikilink")」によって舞台化もされた。
 
 SF短編は[1977年](../Page/1977年.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")にかけて刊行された『異色短編集』（[ゴールデンコミックス](https://ja.wikipedia.org/wiki/ゴールデンコミックス "wikilink")、全6巻）を始めとして数度の単行本化が行われており（詳細は[\#単行本](https://ja.wikipedia.org/wiki/#単行本 "wikilink")を参照）、全作品（112タイトル）の完全収録は[2000年](../Page/2000年.md "wikilink")から[2001年](../Page/2001年.md "wikilink")にかけて[小学館](../Page/小学館.md "wikilink")より刊行されたPERFECT版（全8巻）が最初である。なおPERFECT版発刊にあたっては、各作品内における現在では不適切とされる表現（言葉）は無難な代替語に改変され、PERFECT版に収録された。
 
@@ -31,15 +31,15 @@ SF短編を収録した単行本を発行名義で大別し、さらにレーベ
 
   - 『異色短編集』〈[ゴールデンコミックス](https://ja.wikipedia.org/wiki/ゴールデンコミックス "wikilink")〉 全6巻
     1977年から1987年にかけて発売。『[ビッグコミック](../Page/ビッグコミック.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）および『[S-Fマガジン](../Page/S-Fマガジン.md "wikilink")』（[早川書房](../Page/早川書房.md "wikilink")）に掲載された作品を中心に、52話を収録。
-  - [朝日ソノラマ](https://ja.wikipedia.org/wiki/朝日ソノラマ "wikilink")〈[サンコミックス](https://ja.wikipedia.org/wiki/サンコミックス "wikilink")〉
-    『[マンガ少年](https://ja.wikipedia.org/wiki/マンガ少年 "wikilink")』（[朝日ソノラマ](https://ja.wikipedia.org/wiki/朝日ソノラマ "wikilink")）に掲載された作品を収録した単行本を2冊発売。
+  - [朝日ソノラマ](../Page/朝日ソノラマ.md "wikilink")〈[サンコミックス](https://ja.wikipedia.org/wiki/サンコミックス "wikilink")〉
+    『[マンガ少年](../Page/マンガ少年.md "wikilink")』（[朝日ソノラマ](../Page/朝日ソノラマ.md "wikilink")）に掲載された作品を収録した単行本を2冊発売。
       - 『藤子不二雄SF短編集 宇宙人』（1979年）6話収録
       - 『藤子不二雄SF短編集 創世日記』（1980年）6話収録
   - [双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")〈[アクション・コミックス](https://ja.wikipedia.org/wiki/アクション・コミックス "wikilink")〉
     『[週刊漫画アクション増刊](https://ja.wikipedia.org/wiki/漫画アクション "wikilink")』（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")）に掲載された作品を中心に収録した単行本を2冊発売。
       - 『藤子不二雄SF傑作 超兵器ガ壱號』（1982年）9話収録
       - 『藤子不二雄SF短編傑作劇場 SFシアター』（1987年）11話収録
-  - 『藤子不二雄少年SF短編集』〈[てんとう虫コミックス](https://ja.wikipedia.org/wiki/てんとう虫コミックス "wikilink")〉 全3巻
+  - 『藤子不二雄少年SF短編集』〈[てんとう虫コミックス](../Page/てんとう虫コミックス.md "wikilink")〉 全3巻
     1983年から1985年にかけて発売。『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に掲載された作品を中心に、17話を収録。
 
 ### 藤子・F・不二雄 名義
@@ -49,7 +49,7 @@ SF短編を収録した単行本を発行名義で大別し、さらにレーベ
   - 『藤子・F・不二雄 SF全短篇』 [中央公論社](../Page/中央公論新社.md "wikilink")〈中公愛蔵版〉 全3巻
     1987年2月から1988年5月にかけて発売。[藤子不二雄名義で発売された単行本に収録された全](https://ja.wikipedia.org/wiki/#藤子不二雄_名義 "wikilink")101話を再収録。またSF短編の他に「[中年スーパーマン左江内氏](../Page/中年スーパーマン左江内氏.md "wikilink")」を3巻に収録している。初版からコンビ解消までは藤子不二雄名義。
 
-  - [中央公論社](../Page/中央公論新社.md "wikilink")〈[藤子不二雄ランド](https://ja.wikipedia.org/wiki/藤子不二雄ランド "wikilink")〉
+  - [中央公論社](../Page/中央公論新社.md "wikilink")〈[藤子不二雄ランド](../Page/藤子不二雄ランド.md "wikilink")〉
 
 :; 『少年SF短篇』 全6巻
 
@@ -65,7 +65,7 @@ SF短編を収録した単行本を発行名義で大別し、さらにレーベ
   - 『藤子・F・不二雄 ［異色短編集］』〈小学館叢書〉 全3巻
     1989年発売。〈GC〉に収録されていた52話を再収録。
 
-  - 『藤子・F・不二雄SF短篇集』 [中央公論社](../Page/中央公論新社.md "wikilink")〈[中公文庫](https://ja.wikipedia.org/wiki/中公文庫 "wikilink")コミック版〉 全4巻
+  - 『藤子・F・不二雄SF短篇集』 [中央公論社](../Page/中央公論新社.md "wikilink")〈[中公文庫](../Page/中公文庫.md "wikilink")コミック版〉 全4巻
     1994年発売。〈アクション・コミックス〉収録作品20話、〈SC〉収録の12話、『少年SF短篇』収録の「ベソとこたつと宇宙船」の計33話を再収録。
 
   - 『藤子・F・不二雄［異色短編集］』〈[小学館文庫](https://ja.wikipedia.org/wiki/小学館文庫 "wikilink")〉 全4巻
@@ -89,7 +89,7 @@ SF短編を収録した単行本を発行名義で大別し、さらにレーベ
 2.  [さいとう・たかを](../Page/さいとう・たかを.md "wikilink")
 3.  [水木しげる](../Page/水木しげる.md "wikilink")
 4.  **藤子・F・不二雄**
-5.  [石ノ森章太郎](https://ja.wikipedia.org/wiki/石ノ森章太郎 "wikilink")
+5.  [石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")
 6.  [白土三平](../Page/白土三平.md "wikilink")
 
 </ref>。『ビッグコミック』掲載作品を中心に8話を再収録。
@@ -105,7 +105,7 @@ SF短編を収録した単行本を発行名義で大別し、さらにレーベ
     2000年から2001年にかけて発売。SF短編を年代順に完全収録。再収録となる102話に、これまで未収録となっていた10話（単行本収録時に大幅に改定されていた「絶滅の島」をオリジナルのサイレント版を含む）を加えた計112話を収録。
 
   - 〈[My First BIG](https://ja.wikipedia.org/wiki/My_First_BIG "wikilink")〉
-    廉価版[コンビニコミック](https://ja.wikipedia.org/wiki/コンビニコミック "wikilink")。
+    廉価版[コンビニコミック](../Page/コンビニコミック.md "wikilink")。
 
   - 〈[藤子・F・不二雄大全集](https://ja.wikipedia.org/wiki/藤子・F・不二雄大全集 "wikilink")〉
     藤子F作品の完全網羅を目指して2009年より刊行開始した全集。SF短編作品については雑誌掲載時のカラーを再現して収録している。ただし、同全集は生前に加筆がある作品については加筆後のものを完成形と見なして収録する方針のため、初出時はカラーであっても単行本収録時にモノクロでの加筆がある部分についてはモノクロでの収録となっている。
@@ -126,13 +126,13 @@ SF短編を収録した単行本を発行名義で大別し、さらにレーベ
     4.  「[ノスタル爺](../Page/ノスタル爺.md "wikilink")」 1978年4月15日初版発行、ISBN 4-09-175014-1
     5.  「夢カメラ」 1982年8月15日初版発行、ISBN 4-09-175015-X
     6.  「鉄人をひろったよ」 1987年5月20日初版発行、ISBN 4-09-175016-8
-  - [朝日ソノラマ](https://ja.wikipedia.org/wiki/朝日ソノラマ "wikilink")〈[サンコミックス](https://ja.wikipedia.org/wiki/サンコミックス "wikilink")〉
+  - [朝日ソノラマ](../Page/朝日ソノラマ.md "wikilink")〈[サンコミックス](https://ja.wikipedia.org/wiki/サンコミックス "wikilink")〉
       - 『藤子不二雄SF短編集 宇宙人』 1979年1月15日初版発行
       - 『藤子不二雄SF短編集 創世日記』 1980年6月30日初版発行
   - [双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")〈[アクション・コミックス](https://ja.wikipedia.org/wiki/アクション・コミックス "wikilink")〉
       - 『藤子不二雄SF傑作 超兵器ガ壱號』 1982年5月9日初版発行
       - 『藤子不二雄SF短編傑作劇場 SFシアター』 1987年11月28日初版発行
-  - 『藤子不二雄少年SF短編集』 [小学館](../Page/小学館.md "wikilink")〈[てんとう虫コミックス](https://ja.wikipedia.org/wiki/てんとう虫コミックス "wikilink")〉 全3巻
+  - 『藤子不二雄少年SF短編集』 [小学館](../Page/小学館.md "wikilink")〈[てんとう虫コミックス](../Page/てんとう虫コミックス.md "wikilink")〉 全3巻
     1.  「ひとりぼっちの宇宙戦争」 1983年12月25日初版発行、ISBN 4-09-140701-3
     2.  「ポストの中の明日」 1984年7月25日初版発行、ISBN 4-09-140702-1
     3.  「宇宙船製造法」 1985年7月25日初版発行、ISBN 4-09-140703-X
@@ -142,8 +142,8 @@ SF短編を収録した単行本を発行名義で大別し、さらにレーベ
   - 『藤子・F・不二雄 SF全短篇』 [中央公論社](../Page/中央公論新社.md "wikilink")〈中公愛蔵版〉 全3巻
     1.  「[カンビュセスの籤](https://ja.wikipedia.org/wiki/カンビュセスの籤 "wikilink")」 1987年2月20日初版発行、ISBN 4-12-001549-1
     2.  「[みどりの守り神](https://ja.wikipedia.org/wiki/みどりの守り神 "wikilink")」 1987年3月20日初版発行、ISBN 4-12-001557-2
-    3.  「[征地球論](https://ja.wikipedia.org/wiki/征地球論 "wikilink")」 1988年5月25日初版発行、ISBN 4-12-001677-3
-  - [中央公論社](../Page/中央公論新社.md "wikilink")〈[藤子不二雄ランド](https://ja.wikipedia.org/wiki/藤子不二雄ランド "wikilink")〉 \[5\]
+    3.  「[征地球論](../Page/征地球論.md "wikilink")」 1988年5月25日初版発行、ISBN 4-12-001677-3
+  - [中央公論社](../Page/中央公論新社.md "wikilink")〈[藤子不二雄ランド](../Page/藤子不二雄ランド.md "wikilink")〉 \[5\]
       - 『少年SF短篇』 全6巻
         1.  (223)「宇宙人」 1989年1月20日初版発行、ISBN 4-12-410223-2
         2.  (227)「創世日記」 1989年2月17日初版発行、ISBN 4-12-410227-5
@@ -159,7 +159,7 @@ SF短編を収録した単行本を発行名義で大別し、さらにレーベ
     1.  1989年10月10日初版発行、ISBN 4-09-197171-7
     2.  1989年11月10日初版発行、ISBN 4-09-197172-5
     3.  1989年12月10日初版発行、ISBN 4-09-197173-3
-  - 『藤子・F・不二雄SF短篇集』 [中央公論社](../Page/中央公論新社.md "wikilink")〈[中公文庫](https://ja.wikipedia.org/wiki/中公文庫 "wikilink")コミック版〉 全4巻
+  - 『藤子・F・不二雄SF短篇集』 [中央公論社](../Page/中央公論新社.md "wikilink")〈[中公文庫](../Page/中公文庫.md "wikilink")コミック版〉 全4巻
     1.  「創世日記」 1994年09月18日初版発行、ISBN 412202148-0
     2.  「メフィスト惨歌」 1994年09月18日初版発行、ISBN 412202149-9
     3.  「超兵器ガ壱號」 1994年10月18日初版発行、ISBN 412202173-1
@@ -201,11 +201,11 @@ SF短編を収録した単行本を発行名義で大別し、さらにレーベ
 
 ### OVA
 
-『**藤子・F・不二雄のSF（すこし・ふしぎ）短編シアター**』として1990年3月から1991年10月に[小学館](../Page/小学館.md "wikilink")ビデオから[OVA](../Page/OVA.md "wikilink")として全6巻発売。以下の11話がアニメ化されている。制作会社は[スタジオぎゃろっぷ](https://ja.wikipedia.org/wiki/スタジオぎゃろっぷ "wikilink")・[マジックバス](https://ja.wikipedia.org/wiki/マジックバス "wikilink")・[アニメーション21](https://ja.wikipedia.org/wiki/アニメーション21 "wikilink")。藤子Fのアニメとしては唯一のOVAシリーズであり、ステレオ収録となっている。
+『**藤子・F・不二雄のSF（すこし・ふしぎ）短編シアター**』として1990年3月から1991年10月に[小学館](../Page/小学館.md "wikilink")ビデオから[OVA](../Page/OVA.md "wikilink")として全6巻発売。以下の11話がアニメ化されている。制作会社は[スタジオぎゃろっぷ](https://ja.wikipedia.org/wiki/スタジオぎゃろっぷ "wikilink")・[マジックバス](../Page/マジックバス.md "wikilink")・[アニメーション21](https://ja.wikipedia.org/wiki/アニメーション21 "wikilink")。藤子Fのアニメとしては唯一のOVAシリーズであり、ステレオ収録となっている。
 
 ### 週刊ストーリーランド
 
-下記2編が[シンエイ動画](../Page/シンエイ動画.md "wikilink")制作により『[週刊ストーリーランド](https://ja.wikipedia.org/wiki/週刊ストーリーランド "wikilink")』で放送された。日本テレビ系で藤子アニメが放送されたのは『[T・Pぼん](../Page/T・Pぼん.md "wikilink")』以来となる。末ビデオソフト化。
+下記2編が[シンエイ動画](../Page/シンエイ動画.md "wikilink")制作により『[週刊ストーリーランド](../Page/週刊ストーリーランド.md "wikilink")』で放送された。日本テレビ系で藤子アニメが放送されたのは『[T・Pぼん](../Page/T・Pぼん.md "wikilink")』以来となる。末ビデオソフト化。
 
   - 絶滅の島
       - 2000年1月27日放送
@@ -220,21 +220,21 @@ SF短編を収録した単行本を発行名義で大別し、さらにレーベ
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月31日より[WOWOW](../Page/WOWOW.md "wikilink")ミッドナイト・ドラマ枠にて『[藤子・F・不二雄のパラレル・スペース](https://ja.wikipedia.org/wiki/藤子・F・不二雄のパラレル・スペース "wikilink")』として以下の作品がドラマ化された。
 
   - [値ぶみカメラ](https://ja.wikipedia.org/wiki/値ぶみカメラ "wikilink")
-  - [あいつのタイムマシン](https://ja.wikipedia.org/wiki/あいつのタイムマシン "wikilink")
+  - [あいつのタイムマシン](../Page/あいつのタイムマシン.md "wikilink")
   - [ボノム〜底抜けさん〜](https://ja.wikipedia.org/wiki/ボノム〜底抜けさん〜 "wikilink")
   - [かわい子くん](https://ja.wikipedia.org/wiki/かわい子くん "wikilink")
-  - [征地球論](https://ja.wikipedia.org/wiki/征地球論 "wikilink")
+  - [征地球論](../Page/征地球論.md "wikilink")
   - [ボクラ共和国](https://ja.wikipedia.org/wiki/ボクラ共和国 "wikilink")
 
 ## 舞台
 
-[劇団21世紀FOX](https://ja.wikipedia.org/wiki/劇団21世紀FOX "wikilink")で複数回短編を原作にした作品が舞台化されている。
+[劇団21世紀FOX](../Page/劇団21世紀FOX.md "wikilink")で複数回短編を原作にした作品が舞台化されている。
 
-  - [1989年](../Page/1989年.md "wikilink") 『SUKOSHI FUSHIGI もの語り』（[北村想](https://ja.wikipedia.org/wiki/北村想 "wikilink")作。単行本化\[27\]）オムニバス作品。原作は「[オヤジ・ロック](https://ja.wikipedia.org/wiki/オヤジ・ロック "wikilink")」・「[コロリころげた木の根っ子](https://ja.wikipedia.org/wiki/コロリころげた木の根っ子 "wikilink")」・「[三万三千平米](https://ja.wikipedia.org/wiki/三万三千平米 "wikilink")」・「[定年退食](../Page/定年退食.md "wikilink")」・「[あのバカは荒野をめざす](https://ja.wikipedia.org/wiki/あのバカは荒野をめざす "wikilink")」・「[夢カメラ](https://ja.wikipedia.org/wiki/夢カメラ "wikilink")」・「[カンビュセスの籤](https://ja.wikipedia.org/wiki/カンビュセスの籤 "wikilink")」・「[流血鬼](../Page/流血鬼.md "wikilink")」。「コロリころげた木の根っ子」部分で[内海賢二](../Page/内海賢二.md "wikilink")、「三万三千平米」部分で[キートン山田](https://ja.wikipedia.org/wiki/キートン山田 "wikilink")が客演しており、「流血鬼」部分では劇団員の[山口勝平](../Page/山口勝平.md "wikilink")が主役を演じた。また戯曲本には実際には舞台化されなかった『[世界名作童話](https://ja.wikipedia.org/wiki/世界名作童話 "wikilink")』部分の脚本も収録されている。
+  - [1989年](../Page/1989年.md "wikilink") 『SUKOSHI FUSHIGI もの語り』（[北村想](../Page/北村想.md "wikilink")作。単行本化\[27\]）オムニバス作品。原作は「[オヤジ・ロック](https://ja.wikipedia.org/wiki/オヤジ・ロック "wikilink")」・「[コロリころげた木の根っ子](https://ja.wikipedia.org/wiki/コロリころげた木の根っ子 "wikilink")」・「[三万三千平米](https://ja.wikipedia.org/wiki/三万三千平米 "wikilink")」・「[定年退食](../Page/定年退食.md "wikilink")」・「[あのバカは荒野をめざす](https://ja.wikipedia.org/wiki/あのバカは荒野をめざす "wikilink")」・「[夢カメラ](https://ja.wikipedia.org/wiki/夢カメラ "wikilink")」・「[カンビュセスの籤](https://ja.wikipedia.org/wiki/カンビュセスの籤 "wikilink")」・「[流血鬼](../Page/流血鬼.md "wikilink")」。「コロリころげた木の根っ子」部分で[内海賢二](../Page/内海賢二.md "wikilink")、「三万三千平米」部分で[キートン山田](../Page/キートン山田.md "wikilink")が客演しており、「流血鬼」部分では劇団員の[山口勝平](../Page/山口勝平.md "wikilink")が主役を演じた。また戯曲本には実際には舞台化されなかった『[世界名作童話](https://ja.wikipedia.org/wiki/世界名作童話 "wikilink")』部分の脚本も収録されている。
   - [1994年](../Page/1994年.md "wikilink") 『SUKOSHI FUSHIGI もの語り・Ⅱ〜あたらしき 緑の日々〜』 北村想作
   - [2001年](../Page/2001年.md "wikilink") 「新世紀SFトライアングル」として3作品が作られた。
-      - 『2001-』 [小林大祐](../Page/小金丸大和.md "wikilink")（演劇制作体V-NET）構成脚色・演出、[たてかべ和也](../Page/たてかべ和也.md "wikilink")・[一城みゆ希](https://ja.wikipedia.org/wiki/一城みゆ希 "wikilink")らが客演。原作は「光陰」、「間引き」、「宇宙人」、「カンビュセスの籤」。
-      - 『デュナミスボックス〜可能性の匣〜』 EMI (RELAX) 脚色・演出、RELAX主宰の[戸部公爾](https://ja.wikipedia.org/wiki/戸部公爾 "wikilink")らが客演。原案は「殺され屋」、「イヤなイヤなイヤな奴」、「アン子　大いに怒る」、「ノスタル爺」、「あのバカは荒野を目指す」、「流血鬼」。
+      - 『2001-』 [小林大祐](../Page/小金丸大和.md "wikilink")（演劇制作体V-NET）構成脚色・演出、[たてかべ和也](../Page/たてかべ和也.md "wikilink")・[一城みゆ希](../Page/一城みゆ希.md "wikilink")らが客演。原作は「光陰」、「間引き」、「宇宙人」、「カンビュセスの籤」。
+      - 『デュナミスボックス〜可能性の匣〜』 EMI (RELAX) 脚色・演出、RELAX主宰の[戸部公爾](../Page/戸部公爾.md "wikilink")らが客演。原案は「殺され屋」、「イヤなイヤなイヤな奴」、「アン子　大いに怒る」、「ノスタル爺」、「あのバカは荒野を目指す」、「流血鬼」。
       - 『F・f・-エフ-』 北村想作。原作は「休日のガンマン」、「定年退食」、「気楽に殺ろうよ」、「幸運児」。
   - 『SUKOSHI FUSHIGI もの語り』以外の作品には劇団21世紀FOX主宰の[肝付兼太](../Page/肝付兼太.md "wikilink")自身も出演している。
 

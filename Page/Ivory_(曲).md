@@ -1,7 +1,7 @@
 > この記事は[Ivory \(\)](https://ja.wikipedia.org/wiki/Ivory_\(\))から翻訳されています。
 
 
-「**Ivory**」（アイヴォリー）は、[Dragon Ashの](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")16枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月19日](../Page/7月19日.md "wikilink")発売。発売元は[MOB SQUAD](../Page/MOB_SQUAD.md "wikilink")。
+「**Ivory**」（アイヴォリー）は、[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")16枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")発売。発売元は[MOB SQUAD](../Page/MOB_SQUAD.md "wikilink")。
 
 ## 解説
 
@@ -10,7 +10,7 @@
 ## 収録曲
 
 1.  **Ivory**
-    （作詞:[Kj](https://ja.wikipedia.org/wiki/降谷建志 "wikilink") 作曲:Dragon Ash）
+    （作詞:[Kj](../Page/降谷建志.md "wikilink") 作曲:Dragon Ash）
 2.  **grief for a while**
     （作詞:Kj 作曲:Dragon Ash）
 3.  **F.C.Fellows**

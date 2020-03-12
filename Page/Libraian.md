@@ -1,7 +1,7 @@
 > この記事は[Libraian](https://ja.wikipedia.org/wiki/Libraian)から翻訳されています。
 
 
-**Libraian**（リブライアン）は、[La'cryma Christiの](../Page/La'cryma_Christi.md "wikilink")[TAKAとHIROによる](https://ja.wikipedia.org/wiki/TAKA_\(Libraian\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。
+**Libraian**（リブライアン）は、[La'cryma Christiの](../Page/La'cryma_Christi.md "wikilink")[TAKAとHIROによる](https://ja.wikipedia.org/wiki/TAKA_\(Libraian\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。
 
 ## 概略
 
@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-  - **[HIRO](https://ja.wikipedia.org/wiki/HIRO_\(ギターリスト\) "wikilink")** （[8月5日](../Page/8月5日.md "wikilink") - ）…[ギター](../Page/ギター.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - **[HIRO](../Page/HIRO_\(ギターリスト\).md "wikilink")** （[8月5日](../Page/8月5日.md "wikilink") - ）…[ギター](../Page/ギター.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
 
 <!-- end list -->
 
@@ -41,12 +41,12 @@
 
 ### シングル
 
-|   | 発売日                                                          | タイトル                   | 販売生産番号    | 備考                                                                                                        |
-| - | ------------------------------------------------------------ | ---------------------- | --------- | --------------------------------------------------------------------------------------------------------- |
-| 1 | [2007年](../Page/2007年.md "wikilink")12月12日                   | **Shangrila**          | CCNT-0001 | [テレビ大阪](../Page/テレビ大阪.md "wikilink") ”[メッセ弾](https://ja.wikipedia.org/wiki/メッセ弾 "wikilink")” 12月エンディングテーマ |
-| 2 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月26日 | **Rock'n Roll Circus** | CCNT-0002 |                                                                                                           |
-| 3 | [2009年](../Page/2009年.md "wikilink")1月14日                    | **Tarantula**          | CCNT-0003 |                                                                                                           |
-| 4 | 2009年11月21日                                                  | **Prison Ghost**       | CCNT-0004 |                                                                                                           |
+|   | 発売日                                                          | タイトル                   | 販売生産番号    | 備考                                                                                     |
+| - | ------------------------------------------------------------ | ---------------------- | --------- | -------------------------------------------------------------------------------------- |
+| 1 | [2007年](../Page/2007年.md "wikilink")12月12日                   | **Shangrila**          | CCNT-0001 | [テレビ大阪](../Page/テレビ大阪.md "wikilink") ”[メッセ弾](../Page/メッセ弾.md "wikilink")” 12月エンディングテーマ |
+| 2 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月26日 | **Rock'n Roll Circus** | CCNT-0002 |                                                                                        |
+| 3 | [2009年](../Page/2009年.md "wikilink")1月14日                    | **Tarantula**          | CCNT-0003 |                                                                                        |
+| 4 | 2009年11月21日                                                  | **Prison Ghost**       | CCNT-0004 |                                                                                        |
 
 ### アルバム
 

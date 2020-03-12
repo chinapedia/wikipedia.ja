@@ -1,19 +1,19 @@
 > この記事は[Begin \(\)](https://ja.wikipedia.org/wiki/Begin_\(\))から翻訳されています。
 
 
-『**begin**』（ビギン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の歌手・[BeForU](https://ja.wikipedia.org/wiki/BeForU "wikilink")のメンバー、[小坂りゆ](https://ja.wikipedia.org/wiki/小坂りゆ "wikilink")の1枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")発売。
+『**begin**』（ビギン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の歌手・[BeForU](../Page/BeForU.md "wikilink")のメンバー、[小坂りゆ](../Page/小坂りゆ.md "wikilink")の1枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")発売。
 
 ## 概要
 
-  - 小坂りゆの初のアルバム作品。BeForUのアルバム『[BeForU](../Page/BeForU_\(アルバム\).md "wikilink")』のヒットを受けて制作されたもので、[コナミの](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")・[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")の人気曲「begin」「CANDY♥」のフルバージョンが収録されている。
+  - 小坂りゆの初のアルバム作品。BeForUのアルバム『[BeForU](../Page/BeForU_\(アルバム\).md "wikilink")』のヒットを受けて制作されたもので、[コナミの](../Page/コナミデジタルエンタテインメント.md "wikilink")[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")・[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")の人気曲「begin」「CANDY♥」のフルバージョンが収録されている。
   - すべてのフルバージョン曲はCD初収録。3曲はアルバム用新曲。
   - ソロデビューシングル「true...」は収録されていない。
-  - 店頭販売は無く、[コナミスタイル](https://ja.wikipedia.org/wiki/コナミスタイル "wikilink")による通信販売のみ。
+  - 店頭販売は無く、[コナミスタイル](../Page/コナミスタイル.md "wikilink")による通信販売のみ。
 
 ## 収録曲
 
 1.  **begin**
-      - 作詞：[小坂りゆ](https://ja.wikipedia.org/wiki/小坂りゆ "wikilink")、作曲・編曲：NAOKI MAEDA
+      - 作詞：[小坂りゆ](../Page/小坂りゆ.md "wikilink")、作曲・編曲：NAOKI MAEDA
       - 初出は『[GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink") 8thMIX』&『[Drummania](../Page/Drummania.md "wikilink") 7thMIX』(power up ver.)。
 2.  **VICTORY\!\!**
       - 作詞：小坂りゆ、作曲：NAOKI MAEDA、編曲：KATSUMI YOSHIHARA
@@ -33,8 +33,8 @@
       - 作詞：小坂りゆ、作曲・編曲：NAOKI MAEDA
       - カバー曲。原曲は『Dance Dance Revolution 4thMIX』収録の「HYSTERIA / NAOKI 190」。
 8.  **WHITE SEASON**
-      - 作詞：小坂りゆ、作曲：NAOKI MAEDA、編曲：[Tatsh](https://ja.wikipedia.org/wiki/清水達也 "wikilink")
-      - カバー曲。原曲は『Dance Dance Revolution 3rdMIX』収録の「Silent Hill / [Thomas Howard](https://ja.wikipedia.org/wiki/トーマス・リクテンスタイン "wikilink")」。
+      - 作詞：小坂りゆ、作曲：NAOKI MAEDA、編曲：[Tatsh](../Page/清水達也.md "wikilink")
+      - カバー曲。原曲は『Dance Dance Revolution 3rdMIX』収録の「Silent Hill / [Thomas Howard](../Page/トーマス・リクテンスタイン.md "wikilink")」。
 9.  **DIVE TO THE NIGHT ([TЁЯRA](https://ja.wikipedia.org/wiki/TЁЯRA "wikilink") WORKS remix)**
       - 作詞：小坂りゆ、作曲：NAOKI MAEDA、編曲：[jun](../Page/辛島純子.md "wikilink")
       - BeForUの「DIVE」をアレンジした楽曲。オリジナルバージョンはシングル「true...」に収録されている。

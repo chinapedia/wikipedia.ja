@@ -22,28 +22,28 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コスモバルク" title="wikilink">コスモバルク</a></p></td>
+<td><p><a href="../Page/コスモバルク.md" title="wikilink">コスモバルク</a></p></td>
 <td><p>牡3</p></td>
 <td><p>8戦3勝（7戦2勝）<br />
-<a href="https://ja.wikipedia.org/wiki/弥生賞" title="wikilink">弥生賞</a>、<a href="https://ja.wikipedia.org/wiki/セントライト記念" title="wikilink">セントライト記念</a>、<a href="https://ja.wikipedia.org/wiki/北海優駿" title="wikilink">北海優駿</a>、<a href="../Page/皐月賞.md" title="wikilink">皐月賞</a>2着、<a href="https://ja.wikipedia.org/wiki/ジャパンカップ" title="wikilink">ジャパンカップ</a>2着</p></td>
+<a href="../Page/弥生賞.md" title="wikilink">弥生賞</a>、<a href="../Page/セントライト記念.md" title="wikilink">セントライト記念</a>、<a href="../Page/北海優駿.md" title="wikilink">北海優駿</a>、<a href="../Page/皐月賞.md" title="wikilink">皐月賞</a>2着、<a href="https://ja.wikipedia.org/wiki/ジャパンカップ" title="wikilink">ジャパンカップ</a>2着</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/加野牧場" title="wikilink">加野牧場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ホッカイドウ競馬" title="wikilink">北海道</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田部和則" title="wikilink">田部和則</a></p></td>
 <td><p>岡田美佐子</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/モエレジーニアス" title="wikilink">モエレジーニアス</a></p></td>
 <td><p>牡2</p></td>
 <td><p>6戦3勝（3戦2勝）<br />
-<a href="https://ja.wikipedia.org/wiki/函館2歳ステークス" title="wikilink">函館2歳ステークス</a></p></td>
+<a href="../Page/函館2歳ステークス.md" title="wikilink">函館2歳ステークス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カナイシスタッド" title="wikilink">カナイシスタッド</a></p></td>
 <td><p>北海道</p></td>
 <td><p><a href="../Page/堂山芳則.md" title="wikilink">堂山芳則</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中村和夫" title="wikilink">中村和夫</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p>コスモバルク</p></td>
 <td><p>牡5</p></td>
 <td><p>8戦1勝（8戦1勝）<br />
@@ -73,7 +73,7 @@
 <td><p>沖田忠幸</p></td>
 <td><p>北海道</p></td>
 <td><p>田部和則</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡田繁幸" title="wikilink">岡田繁幸</a></p></td>
+<td><p><a href="../Page/岡田繁幸.md" title="wikilink">岡田繁幸</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
@@ -120,7 +120,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/プレイアンドリアル" title="wikilink">プレイアンドリアル</a></p></td>
 <td><p>牡2</p></td>
 <td><p>4戦2勝（3戦1勝）<br />
-<a href="../Page/ジュニアグランプリ_(岩手競馬).md" title="wikilink">ジュニアグランプリ</a>、<a href="https://ja.wikipedia.org/wiki/東京スポーツ杯2歳ステークス" title="wikilink">東京スポーツ杯2歳ステークス</a>2着</p></td>
+<a href="../Page/ジュニアグランプリ_(岩手競馬).md" title="wikilink">ジュニアグランプリ</a>、<a href="../Page/東京スポーツ杯2歳ステークス.md" title="wikilink">東京スポーツ杯2歳ステークス</a>2着</p></td>
 <td><p>森牧場</p></td>
 <td><p>北海道</p></td>
 <td><p>田部和則</p></td>
@@ -131,7 +131,7 @@
 <td><p>プレイアンドリアル</p></td>
 <td><p>牡3</p></td>
 <td><p>1戦1勝（1戦1勝）<br />
-<a href="https://ja.wikipedia.org/wiki/京成杯" title="wikilink">京成杯</a></p></td>
+<a href="../Page/京成杯.md" title="wikilink">京成杯</a></p></td>
 <td><p>森牧場</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神奈川県川崎競馬組合" title="wikilink">川崎</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/河津裕昭" title="wikilink">河津裕昭</a></p></td>
@@ -152,7 +152,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/トラスト_(競走馬)" title="wikilink">トラスト</a></p></td>
 <td><p>牡2</p></td>
 <td><p>4戦3勝（2戦1勝）[1]<br />
-<a href="https://ja.wikipedia.org/wiki/札幌2歳ステークス" title="wikilink">札幌2歳ステークス</a></p></td>
+<a href="../Page/札幌2歳ステークス.md" title="wikilink">札幌2歳ステークス</a></p></td>
 <td><p>中本牧場</p></td>
 <td><p>川崎</p></td>
 <td><p>河津裕昭</p></td>
@@ -175,7 +175,7 @@
 <td><p>牡3</p></td>
 <td><p>8戦3勝（8戦3勝）<br />
 <a href="../Page/OROカップ.md" title="wikilink">OROカップ</a>、ジャパンカップ7着（2:22:2）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/社台ファーム" title="wikilink">社台ファーム</a></p></td>
+<td><p><a href="../Page/社台ファーム.md" title="wikilink">社台ファーム</a></p></td>
 <td><p>北海道</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田中淳司" title="wikilink">田中淳司</a></p></td>
 <td><p>会田裕一</p></td>

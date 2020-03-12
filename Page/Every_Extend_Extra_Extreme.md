@@ -1,7 +1,7 @@
 > この記事は[Every Extend Extra Extreme](https://ja.wikipedia.org/wiki/Every_Extend_Extra_Extreme)から翻訳されています。
 
 
-『**Every Extend Extra Extreme**』（エブリ・エクステンド・エクストラ・エクストリーム）は[2007年](../Page/2007年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")に[Xbox Live Arcadeで配信された](https://ja.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。2006年に[PSP用ソフトとして発売された](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『[Every Extend Extra](https://ja.wikipedia.org/wiki/Every_Extend_Extra "wikilink")』に続く、第2回3分ゲーコンテスト優勝作品『[Every Extend](https://ja.wikipedia.org/wiki/Every_Extend "wikilink")』のリメイク作品である。**E4**と略されることもある。
+『**Every Extend Extra Extreme**』（エブリ・エクステンド・エクストラ・エクストリーム）は[2007年](../Page/2007年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")に[Xbox Live Arcadeで配信された](https://ja.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。2006年に[PSP用ソフトとして発売された](../Page/PlayStation_Portable.md "wikilink")『[Every Extend Extra](../Page/Every_Extend_Extra.md "wikilink")』に続く、第2回3分ゲーコンテスト優勝作品『[Every Extend](https://ja.wikipedia.org/wiki/Every_Extend "wikilink")』のリメイク作品である。**E4**と略されることもある。
 
 ## 基本ルール
 
@@ -22,7 +22,7 @@
   - R4, The Revenge
     自機が弾を撃って周りから出現する敵を撃ち落とし続けるモード。自機は4方向に弾を撃つタイプとプレイヤーが指定した方向に集中的に撃つタイプから選択できる。このモードは時間制限ではなく残機制。
   - H4, Versus Live
-    [Xbox Liveによる対戦モード](https://ja.wikipedia.org/wiki/Xbox_Live "wikilink")。
+    [Xbox Liveによる対戦モード](../Page/Xbox_Live.md "wikilink")。
 
 ## 外部リンク
 

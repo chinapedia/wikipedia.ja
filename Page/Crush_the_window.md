@@ -1,7 +1,7 @@
 > この記事は[Crush the window](https://ja.wikipedia.org/wiki/Crush_the_window)から翻訳されています。
 
 
-「**Crush the window**」（クラッシュ・ザ・ウィンドウ）は[Dragon Ashの](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")14枚目の[シングル](../Page/シングル.md "wikilink")。 [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")発売。発売元は[MOB SQUAD](../Page/MOB_SQUAD.md "wikilink")。
+「**Crush the window**」（クラッシュ・ザ・ウィンドウ）は[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")14枚目の[シングル](../Page/シングル.md "wikilink")。 [2005年](../Page/2005年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")発売。発売元は[MOB SQUAD](../Page/MOB_SQUAD.md "wikilink")。
 
 ## 解説
 

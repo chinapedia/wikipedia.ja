@@ -7,17 +7,17 @@
 
 roff とは文書の整形、清書を行うコマンドである。roff の名称の由来は「to <u>r</u>un <u>off</u> a copy（コピーを取り出す）」の略である。
 
-roff は通常のテキストファイルに整形用要素を加えたファイルを読み込み、ドキュメントを生成する。roff 自身の基本機能は非常に単純であるが幾つかの機能を組み合わせた[マクロパッケージを生成することが出来る](https://ja.wikipedia.org/wiki/マクロ_\(コンピュータ用語\) "wikilink")。この考え方は UNIX のシステム記述言語でもある[C言語](../Page/C言語.md "wikilink")などの考え方とも共通する。roff の機能には変数、制御構造といったものも存在するため最初期の[マークアップ言語](../Page/マークアップ言語.md "wikilink")ということもできる。[チューリング完全](https://ja.wikipedia.org/wiki/チューリング完全 "wikilink")性を備えている。
+roff は通常のテキストファイルに整形用要素を加えたファイルを読み込み、ドキュメントを生成する。roff 自身の基本機能は非常に単純であるが幾つかの機能を組み合わせた[マクロパッケージを生成することが出来る](../Page/マクロ_\(コンピュータ用語\).md "wikilink")。この考え方は UNIX のシステム記述言語でもある[C言語](../Page/C言語.md "wikilink")などの考え方とも共通する。roff の機能には変数、制御構造といったものも存在するため最初期の[マークアップ言語](../Page/マークアップ言語.md "wikilink")ということもできる。[チューリング完全](../Page/チューリング完全.md "wikilink")性を備えている。
 
 ## 歴史
 
-roff の起源は古く最初期の UNIX から存在しており、概念に関しては[1960年代](../Page/1960年代.md "wikilink")にまでさかのぼる。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に初めて実演された [CTSS](https://ja.wikipedia.org/wiki/CTSS "wikilink") に既に **RUNOFF** と呼ばれる文書整形プログラムが存在していた。UNIX の前身でもある [Multics](https://ja.wikipedia.org/wiki/Multics "wikilink") ではこの RUNOFF を参考にして **runoff** というプログラムを作成し、文書整形やヘルプファイルの記述に使用された。roff はこの runoff を参考にしてにより UNIX 上で動作するように開発されたものである。
+roff の起源は古く最初期の UNIX から存在しており、概念に関しては[1960年代](../Page/1960年代.md "wikilink")にまでさかのぼる。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に初めて実演された [CTSS](../Page/CTSS.md "wikilink") に既に **RUNOFF** と呼ばれる文書整形プログラムが存在していた。UNIX の前身でもある [Multics](../Page/Multics.md "wikilink") ではこの RUNOFF を参考にして **runoff** というプログラムを作成し、文書整形やヘルプファイルの記述に使用された。roff はこの runoff を参考にしてにより UNIX 上で動作するように開発されたものである。
 
-[1973年](../Page/1973年.md "wikilink")に最初の roff がリリースされた。このプログラムは [PDP-11](https://ja.wikipedia.org/wiki/PDP-11 "wikilink") アセンブラで記述されていたが、後に[C言語](../Page/C言語.md "wikilink")で書き直されたバージョンが[1975年](../Page/1975年.md "wikilink")にリリースされている。最初期の roff は3つのフォーマットプログラムを持ち、それぞれ nroff、troff、roff というコマンド名であった。この内 nroff は画面上での表示、troff は印刷文書上での表示形式であり roff というコマンドは Multics の runoff の再実装として開発されていた。しかし後のバージョンで roff コマンドは廃棄されており、現在では roff という単語は nroff、troff とこのシステムの派生作品を含めた総称として主に使われている。
+[1973年](../Page/1973年.md "wikilink")に最初の roff がリリースされた。このプログラムは [PDP-11](../Page/PDP-11.md "wikilink") アセンブラで記述されていたが、後に[C言語](../Page/C言語.md "wikilink")で書き直されたバージョンが[1975年](../Page/1975年.md "wikilink")にリリースされている。最初期の roff は3つのフォーマットプログラムを持ち、それぞれ nroff、troff、roff というコマンド名であった。この内 nroff は画面上での表示、troff は印刷文書上での表示形式であり roff というコマンドは Multics の runoff の再実装として開発されていた。しかし後のバージョンで roff コマンドは廃棄されており、現在では roff という単語は nroff、troff とこのシステムの派生作品を含めた総称として主に使われている。
 
 ## nroff
 
-nroff は new roff の略である。roff で作る文書を端末[ディスプレイ等にテキストデータで表示する際の書式を設定する目的でジョー](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")・オサンナにより開発された。nroff が最も使用される場面として UNIXの [man](https://ja.wikipedia.org/wiki/Manページ "wikilink") コマンドが挙げられる。このコマンドは各コマンドの説明文書を画面上に呼び出す機能であるが、各文書は nroff 形式で保存されており、man コマンドが実行されると nroff によって整形され[ページャ](https://ja.wikipedia.org/wiki/ページャ "wikilink")を通して画面に出力されるという動作が行われている。
+nroff は new roff の略である。roff で作る文書を端末[ディスプレイ等にテキストデータで表示する際の書式を設定する目的でジョー](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")・オサンナにより開発された。nroff が最も使用される場面として UNIXの [man](../Page/Manページ.md "wikilink") コマンドが挙げられる。このコマンドは各コマンドの説明文書を画面上に呼び出す機能であるが、各文書は nroff 形式で保存されており、man コマンドが実行されると nroff によって整形され[ページャ](https://ja.wikipedia.org/wiki/ページャ "wikilink")を通して画面に出力されるという動作が行われている。
 
 ## troff
 

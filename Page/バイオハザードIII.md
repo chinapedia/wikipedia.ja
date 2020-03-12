@@ -1,9 +1,9 @@
 > この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
 
 
-『**バイオハザードIII**』（バイオハザードスリー、原題：*Resident Evil: Extinction*）は、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")に公開された[ホラー](../Page/ホラー映画.md "wikilink")[アクション映画](../Page/アクション映画.md "wikilink")。監督は[ラッセル・マルケイ](https://ja.wikipedia.org/wiki/ラッセル・マルケイ "wikilink")へ交代したが、脚本は前2作と同じく[ポール・W・S・アンダーソン](../Page/ポール・W・S・アンダーソン.md "wikilink")が担当した。
+『**バイオハザードIII**』（バイオハザードスリー、原題：*Resident Evil: Extinction*）は、[2007年](../Page/2007年.md "wikilink")に公開された[ホラー](../Page/ホラー映画.md "wikilink")[アクション映画](../Page/アクション映画.md "wikilink")。監督は[ラッセル・マルケイ](../Page/ラッセル・マルケイ.md "wikilink")へ交代したが、脚本は前2作と同じく[ポール・W・S・アンダーソン](../Page/ポール・W・S・アンダーソン.md "wikilink")が担当した。
 
-[2002年](../Page/2002年.md "wikilink")の『[バイオハザード](../Page/バイオハザード_\(映画\).md "wikilink")』（以降、『I』）、[2004年](../Page/2004年.md "wikilink")の『[バイオハザードII アポカリプス](https://ja.wikipedia.org/wiki/バイオハザードII_アポカリプス "wikilink")』（以降、『II』）の続編であり、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の『[バイオハザードIV アフターライフ](https://ja.wikipedia.org/wiki/バイオハザードIV_アフターライフ "wikilink")』（以降、『IV』）の前作である。[PG-12指定作品](https://ja.wikipedia.org/wiki/映画のレイティングシステム#日本 "wikilink")。
+[2002年](../Page/2002年.md "wikilink")の『[バイオハザード](../Page/バイオハザード_\(映画\).md "wikilink")』（以降、『I』）、[2004年](../Page/2004年.md "wikilink")の『[バイオハザードII アポカリプス](../Page/バイオハザードII_アポカリプス.md "wikilink")』（以降、『II』）の続編であり、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の『[バイオハザードIV アフターライフ](https://ja.wikipedia.org/wiki/バイオハザードIV_アフターライフ "wikilink")』（以降、『IV』）の前作である。[PG-12指定作品](https://ja.wikipedia.org/wiki/映画のレイティングシステム#日本 "wikilink")。
 
 原題の「Extinction」は「絶滅」を意味する。
 
@@ -11,7 +11,7 @@
 
 ラクーンシティの惨劇から数年後\[1\]。結局はT-ウィルス汚染は食い止められず、全世界へ蔓延してしまう。人間や動物どころか、自然をもT-ウィルスに破壊された地球は文明社会が崩壊し、膨大な数のアンデッドと荒廃した大地に覆い尽くされた死の星と化してしまっていた。
 
-一方、アンブレラ社は豊富な備蓄のある巨大な地下施設に潜み、[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")の地下深くに存在する、アンブレラ社東京総本部の[アルバート・ウェスカー](https://ja.wikipedia.org/wiki/アルバート・ウェスカー "wikilink")を筆頭に世界各地の支部と連携を取りながら現状の打開を模索する。北米支部のアイザックス博士はアリスの血液から大量に複製した彼女の[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")を使い、アンデッドへの対抗手段や[血清](https://ja.wikipedia.org/wiki/血清 "wikilink")についての[人体実験](../Page/人体実験.md "wikilink")を繰り返していた。
+一方、アンブレラ社は豊富な備蓄のある巨大な地下施設に潜み、[東京](../Page/東京.md "wikilink")の地下深くに存在する、アンブレラ社東京総本部の[アルバート・ウェスカー](https://ja.wikipedia.org/wiki/アルバート・ウェスカー "wikilink")を筆頭に世界各地の支部と連携を取りながら現状の打開を模索する。北米支部のアイザックス博士はアリスの血液から大量に複製した彼女の[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")を使い、アンデッドへの対抗手段や[血清](../Page/血清.md "wikilink")についての[人体実験](../Page/人体実験.md "wikilink")を繰り返していた。
 
 そんな中、わずかに生き残った人々は安住の地を求め、各地を旅していた。前作の後、アンブレラ社の監視から逃れるためにカルロス達から離れ、独り旅を続けながら各地を転々としていたアリスは、ふと立ち寄った[ガソリンスタンド](../Page/ガソリンスタンド.md "wikilink")にて[アラスカ](https://ja.wikipedia.org/wiki/アラスカ "wikilink")が安全な土地であると記されたノート（次回作アフターライフでアリス達を誘い出すため、全てアルバート・ウェスカーが画策した罠であったことが判明。）を発見し、それにわずかな希望を抱いて、アラスカを目指す。
 
@@ -24,7 +24,7 @@
 ### 主人公
 
   - [アリス・アバーナシー](https://ja.wikipedia.org/wiki/アリス・アバーナシー "wikilink")（Alice）
-    演 - [ミラ・ジョヴォヴィッチ](https://ja.wikipedia.org/wiki/ミラ・ジョヴォヴィッチ "wikilink")
+    演 - [ミラ・ジョヴォヴィッチ](../Page/ミラ・ジョヴォヴィッチ.md "wikilink")
     実写映画版バイオハザードシリーズの主人公。
     元アンブレラ社特殊部隊員で、ハイブとラクーンシティで発生したバイオハザードを生き延びたが、前作でアンブレラ社の「アリス計画」の実験材料とされてしまう。その実験の過程で生まれた後述するクローン達のオリジナルに当たる。
     前作でT-ウイルスによって驚異的な身体能力と[テレキネシスのような特殊能力が覚醒し](https://ja.wikipedia.org/wiki/念力 "wikilink")、その能力でカラスのクリーチャー「クロウ」に襲われていた、かつての仲間であるカルロス、L.J.達を救出する。
@@ -36,33 +36,33 @@
 ### クレア車団（クレア・レッドフィールド・コンボイ）
 
   - [クレア・レッドフィールド](https://ja.wikipedia.org/wiki/クレア・レッドフィールド "wikilink")（Claire Redfield）
-    演 - [アリ・ラーター](https://ja.wikipedia.org/wiki/アリ・ラーター "wikilink")
+    演 - [アリ・ラーター](../Page/アリ・ラーター.md "wikilink")
     バイオハザードから生き残った人々が集った「クレア車団」のリーダー。美人で行動力と責任感に溢れ、仲間からの信頼も高い。カルロス同様、ヘビースモーカーである。
     アイザックス博士に狙われているアリスが、車団のメンバーと一緒に同行することを危険だと感じていたが、絶体絶命の危機を救ってもらったことに加え、カルロス達から説得を受けため、受け入れる。しかし後に、ラスベガスにて多くの車団のメンバーを失うことになる。
     それでも今も生き延びているのは、アリスのおかげであると考えて、アリスと協力し、ラスベガスに解き放たれた「スーパー・アンデッド」を退ける。最後はアリスと別れ、生き残ったメンバーと共にヘリコプターでアラスカへと旅立った。
     なお、小説版では車団で旅を続ける理由の一つとして、アンデッドから逃れるだけでなく、世界規模でのバイオハザードの発生によって、音信不通になってしまった兄の[クリス・レッドフィールド](https://ja.wikipedia.org/wiki/クリス・レッドフィールド "wikilink")を探すという目的があったことが判明している。
   - [カルロス・オリヴェイラ](https://ja.wikipedia.org/wiki/カルロス・オリヴェイラ "wikilink")（Carlos Olivera）
-    演 - [オデッド・フェール](https://ja.wikipedia.org/wiki/オデッド・フェール "wikilink")
+    演 - [オデッド・フェール](../Page/オデッド・フェール.md "wikilink")
     前作で生き延びた人物の一人。元U.B.C.S.（アンブレラ社バイオハザード対策部隊）隊長で、アリスと離れた後はクレア車団の一員となっている。根っからのヘビースモーカーである。
     物語序盤の「クロウ」の襲撃の際に、火炎放射に飲み込まれそうになるが、訪れたアリスの超能力によって命を救われる。はなればなれになっていたアリスとの再開を喜び、アリスの同行を許可するようクレアに提案するが、物語中盤のラスベガスにて、アリスを狙うアイザックス博士によって解き放たれた「スーパー・アンデッド」の軍団との戦いに巻き込まれる。その戦いの中でアンデッド化した仲間のL.J.に、二の腕を噛まれ感染してしまう。
     もう助からないと悟ったカルロスは、生き残ったクレア達に別れの挨拶をし、責任を感じていたアリスを励まして、必ずアイザックス博士を倒すことを約束させて口づけを交わした。
     そして、クレア達がアラスカへ行くためのヘリコプターを奪うため、アンデッドが群がる研究施設に、自らタンク車で突っ込みアンデッド達の注意を引いた。
     その後、車内に隠されていたL.J.の煙草を見つけ、人生最後の喫煙を楽しんだ後、仕掛けたダイナマイトを爆発させ、大勢のアンデッドと共に命を散らした。
   - Kマート（K-Mart）
-    演 - [スペンサー・ロック](https://ja.wikipedia.org/wiki/スペンサー・ロック "wikilink")
+    演 - [スペンサー・ロック](../Page/スペンサー・ロック.md "wikilink")
     クレア車団の一員で14歳。本名は別にあるが気に入っておらず、クレア達と「」で出会ったことからそう名乗るようになった。クレアを除いて唯一生き残った名前の出ている車団メンバーで、続編である『IV』にも引き続き登場する。
   - ロイド・ジェファーソン・ウェイド（L.J.）
-    演 - [マイク・エップス](https://ja.wikipedia.org/wiki/マイク・エップス "wikilink")
+    演 - [マイク・エップス](../Page/マイク・エップス.md "wikilink")
     前作で生き延びた人物の一人。アリスと離れた後はカルロスと共にクレア車団の一員となっていた。メンバーのムードメーカー的存在で、ベティとは恋人同士。廃モーテルにてアンデッド化した宿泊客に噛まれたが、他のメンバーには秘密にしていた。物語中盤のラスベガスにてアンデッド化してKマートとカルロスに襲い掛かり、カルロスによって射殺された。
   - ベティ・グリア（Betty）
-    演 - [アシャンティ](https://ja.wikipedia.org/wiki/アシャンティ_\(歌手\) "wikilink")
+    演 - [アシャンティ](../Page/アシャンティ_\(歌手\).md "wikilink")
     クレア車団のメンバーで救護担当。元[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink")。恋人のL.J.との仲は睦まじく、カルロスが敬遠するほど。多数の「クロウ」に襲われた時に一人バスに残り応戦するも、最終的には「クロウ」に襲われ死亡する。
   - マイケル・ファーバー（Mikey）
     演 - [クリストファー・イーガン](https://ja.wikipedia.org/wiki/クリストファー・イーガン "wikilink")
     クレア車団の一員。愛称はマイキー。[コンピュータ](../Page/コンピュータ.md "wikilink")の扱いに長けている。対アンデッド用に防衛線を張ったり生存者に[無線](../Page/無線.md "wikilink")を使って呼びかけるなど、メンバーの中でも重要な役目を任されており、クレアからも右腕的存在として信頼されている。ラスベガスにて「スーパー・アンデッド」によって無惨に喰い殺された。
   - チェイス・マラヴォイ（Chase）
     演 - [リンデン・アシュビー](https://ja.wikipedia.org/wiki/リンデン・アシュビー "wikilink")
-    クレア車団の一員。常にカウボーイハットを被っている。物資の不足をシニカルさを交えて語るなど、少々皮肉屋の気がある現実主義な性格だが、正義感も持ち合わせている。[L85](https://ja.wikipedia.org/wiki/L85 "wikilink")が愛銃。ラスベガスではエッフェル搭を模した展望台に登って警戒にあたり、車団メンバーを追う「スーパー・アンデッド」を狙撃する。しかし搭を登って来た「スーパー・アンデッド」達に噛まれてしまい、最後は彼らを道連れに飛び下りて死亡した。
+    クレア車団の一員。常にカウボーイハットを被っている。物資の不足をシニカルさを交えて語るなど、少々皮肉屋の気がある現実主義な性格だが、正義感も持ち合わせている。[L85](../Page/L85.md "wikilink")が愛銃。ラスベガスではエッフェル搭を模した展望台に登って警戒にあたり、車団メンバーを追う「スーパー・アンデッド」を狙撃する。しかし搭を登って来た「スーパー・アンデッド」達に噛まれてしまい、最後は彼らを道連れに飛び下りて死亡した。
   - オットー・ワレンスキー（Otto）
     演 -
     クレア車団の一員。メンバーの乗るバスの運転手。未開封の[缶詰](../Page/缶詰.md "wikilink")を振った時に聞こえる音だけで中身を言い当てるという、変わった技能（本人曰く「廃れつつある技術」）を持つ。冗談好きで、子どもたちに対しても陽気に接している。モーテルにてベティと共に「クロウ」の制止にかかったが、ベティ同様「クロウ」に喰い殺され死亡。
@@ -70,7 +70,7 @@
 ### アンブレラ社
 
   - サミュエル・アイザックス博士（Dr.Isaacs）
-    演 - [イアン・グレン](https://ja.wikipedia.org/wiki/イアン・グレン "wikilink")
+    演 - [イアン・グレン](../Page/イアン・グレン.md "wikilink")
     前作終盤から登場したアンブレラ社の科学者。アンブレラ北米支部に在籍する科学部門のヘッドであり、「アリス計画」の中心人物。
     アンブレラ社の東京本部に在籍するウェスカー議長から、「アンデッドの飼い慣らし」研究を一任されている。研究の中でアンデッドに栄養が不要であることや、生前の記憶が多少残っていること等を突き止めるも、肝心の「飼い慣らし方法」に関しては、クローンではないオリジナルのアリスが必要であるためになかなか成果が出ない。
     研究の成果を出すために、ウェスカーの命令に背いたり、杜撰な計画で部下を危険にさらしては見捨てるなど、性格は極めて身勝手かつ冷酷である。
@@ -100,7 +100,7 @@
     本作ではアンブレラ北米支部のアイザックス博士を中心に、アンデッドに奪われた地上世界を取り戻すために、「アンデッドの飼い慣らし」方法を模索している。
     前作まではかなり動きが愚鈍だったが、今作からはゲーム版と同様に獲物に飛びかかる際には動きが敏捷になっている。
   - ゾンビ犬（Undead Dog/Zombie Dog）
-    犬（主に[ドーベルマン](https://ja.wikipedia.org/wiki/ドーベルマン "wikilink")）が、T-ウィルスに二次感染してアンデッド化したもの。アンデッドと同じく「食欲」に突き動かされており、俊敏に人を襲う。
+    犬（主に[ドーベルマン](../Page/ドーベルマン.md "wikilink")）が、T-ウィルスに二次感染してアンデッド化したもの。アンデッドと同じく「食欲」に突き動かされており、俊敏に人を襲う。
     本作ではテレビ局「KLKB」で、嘘の救難信号を発信し、それに応えた生存者を誘い込んで金品を強奪する盗賊集団が、捕獲したゾンビ犬をテレビ局の檻の中に保管しており、金品を奪った後のお楽しみとして、ゾンビ犬に生存者を襲わせている。
     映画の序盤でアリスも誘い込まれたが、彼女の咄嗟の機転により逆に盗賊集団達がゾンビ犬に食い殺された。
   - クロウ（Crow）
@@ -108,17 +108,17 @@
     クレア・レッドフィールドのコンヴォイが休憩するために立ち寄っていた地域に大群で押し寄せ、生存者であるコンヴォイのメンバーたちを次々と啄んで殺害した。コンヴォイのメンバーの一人が火炎放射器で応戦するも、圧倒的な数を誇るクロウの大群に押し負けてしまい、火炎放射の炎が四散してしまうが、直後に現れたアリスが超能力の力を使い、四散した炎をかき集めてクロウにぶつけ、全て始末した。
     原作ゲームシリーズでは、アンブレラ崩壊後の世界である『4』よりも前の作品に頻出する「**ウイルス漏洩によって偶発的に生まれたクリーチャー**」の一つで、「T-ウィルス」が持つ、種の垣根を越えて感染する特性を象徴するクリーチャーでもある。
     原作ゲームでは、出現するエリアが限られていることに加え、一部エリアではやり過ごす方法も存在し、登場する絶対数も少ないが故に、ゲームのクリーチャーの中ではあまり脅威とされていなかったが、本作では、映画館のスクリーンを埋め尽くすほどの大群で登場し、単体では脅威でなくても集まると強い、**[数の暴力](https://ja.wikipedia.org/wiki/数の暴力 "wikilink")**を体現したクリーチャーとして描かれている。
-    また、大量のクロウが押し寄せる一連のシーンは、動物パニック映画の原点でもある[アルフレッド・ヒッチコック](../Page/アルフレッド・ヒッチコック.md "wikilink")作品の「[鳥 (映画)](https://ja.wikipedia.org/wiki/鳥_\(映画\) "wikilink")」のオマージュである。
+    また、大量のクロウが押し寄せる一連のシーンは、動物パニック映画の原点でもある[アルフレッド・ヒッチコック](../Page/アルフレッド・ヒッチコック.md "wikilink")作品の「[鳥 (映画)](../Page/鳥_\(映画\).md "wikilink")」のオマージュである。
   - スーパー・アンデッド（Super Undead）
     アイザックス博士が主導する「アンデッドの飼い慣らし計画」において、「アリスの血液」から作られた「血清」を注入されたアンデッド。「血清」の効力として体中に大量の発疹がみられるほか、眼球が黒く染まっている。
     一時は「食欲」が抑制されておとなしくなり、「アンデッドの飼い慣らし計画」が成功したかに思われたが、すぐに元に戻ったばかりでなく、凶暴性と敏捷性が通常のアンデッドよりも段違いに増しており、一度激昂すると手がつけられない他、食欲に突き動かされるままの闇雲な行動より、対象を執拗に追い詰めて襲う行動を取るようになった。また、体内に宿すT-ウイルスも感染力が強くなっており、今までT-ウイルスに対して効果があった抗ウィルス剤が全く効かなくなるほどウイルスが変異を起こしている。
     「アンデッドの飼い慣らし計画」は頓挫してしまったものの、その凶暴性に目を付けたアイザックス博士によって「生物兵器」として大量に量産され、ラスベガスにてアリスを捕獲するための足止めとして大量に解き放たれた。
     原作ゲームには登場しない実写映画版オリジナルのクリーチャーであるが、マンネリ化したゾンビ映画の風潮を打破するために生み出された、近代のゾンビ映画の流れを汲む、所謂「**走るゾンビ**」であり、原作ゲームにおいても同じように「走るゾンビ」として「クリムゾン・ヘッド」などのクリーチャーが登場している。
-    また、本作の「アンデッドの飼い慣らし計画」において、アンデッドに携帯電話やカメラを与えて、様子を見るこの一連のシーンは、ゾンビ映画の父、[ジョージ・A・ロメロ](https://ja.wikipedia.org/wiki/ジョージ・A・ロメロ "wikilink")監督の作品である「[死霊のえじき](https://ja.wikipedia.org/wiki/死霊のえじき "wikilink")」に登場する生前の記憶を持ったゾンビ、「バブ」の研究シーンのオマージュである。
+    また、本作の「アンデッドの飼い慣らし計画」において、アンデッドに携帯電話やカメラを与えて、様子を見るこの一連のシーンは、ゾンビ映画の父、[ジョージ・A・ロメロ](../Page/ジョージ・A・ロメロ.md "wikilink")監督の作品である「[死霊のえじき](../Page/死霊のえじき.md "wikilink")」に登場する生前の記憶を持ったゾンビ、「バブ」の研究シーンのオマージュである。
   - [タイラント](https://ja.wikipedia.org/wiki/タイラント_\(バイオハザードシリーズ\) "wikilink")（Tyrant）
     演 - [ブライアン・スティール](https://ja.wikipedia.org/wiki/ブライアン・スティール "wikilink")（声：[ゲイリー・A・ヘッカー](https://ja.wikipedia.org/wiki/ゲイリー・A・ヘッカー "wikilink")）
     変異した強力なT-ウイルスを宿す「スーパー・アンデッド」に噛まれたアイザックス博士が、抗ウイルス剤を大量投与したことで[突然変異](../Page/突然変異.md "wikilink")を起こし、[クリーチャー](https://ja.wikipedia.org/wiki/クリーチャー "wikilink")と化した存在。本作におけるボスクリーチャー。
-    負傷してもすぐ再生・強化する強靭な身体能力を持つ他、右手の指は自在に伸縮する触手と化し、口は雄叫びだけで強力な[衝撃波](https://ja.wikipedia.org/wiki/衝撃波 "wikilink")を起こすなど、桁違いの攻撃力を持つ。施設の従業員を全員虐殺したり、施設の設備を破壊するなど、性格も狂暴化しているが、変異前の知能や会話能力は残している。
+    負傷してもすぐ再生・強化する強靭な身体能力を持つ他、右手の指は自在に伸縮する触手と化し、口は雄叫びだけで強力な[衝撃波](../Page/衝撃波.md "wikilink")を起こすなど、桁違いの攻撃力を持つ。施設の従業員を全員虐殺したり、施設の設備を破壊するなど、性格も狂暴化しているが、変異前の知能や会話能力は残している。
     なお、本作の小説版ではアイザックスの変異体がなぜ「タイラント」という名称なのかについての言及がある。もともと「**タイラント（暴君）**」はT-ウイルスの名前の由来となった単語であり、アイザックス博士は、T-ウイルス研究において最高の生物兵器を制作した暁には、この名前を付けるよう長年温めてきており、前作に登場したマット・アディソンがウイルスによって変異を起こした存在に「タイラント」の名を与えようとしたが、このマットの変異体は「ネメシス」と名付けられ、却下されてしまった。しかしアイザックス博士は「タイラント」の制作を諦めていなかったという過去が語られる。
     月日が流れ、自身が抗ウイルス剤を注射して突然変異を起こした際に、外見こそ醜悪に変貌しているものの、力だけで言えばT-ウイルスの完全適合体であるアリスを遥かに凌駕していたことから、アイザックス博士は、自身こそが**T-ウイルス研究における最強の生物兵器**であると達観し、長年温めていた**タイラント**を名乗るようになったと語られている\[2\]。
     自身こそがT-ウイルス研究の集大成であり、もはや「アリス計画」に固執する必要は無くなったため、アンブレラ北米支部の施設内で、かつて『I』に登場した実験施設「ハイブ」に存在する「レーザートラップルーム」を模した部屋にアリスを追い詰めるが、直前にアリスが助けていた、クローンのアリスの協力で、レーザートラップが起動し、『I』のワン隊長と同じく細切れに焼かれて死亡した。
@@ -138,13 +138,13 @@
 <tbody>
 <tr class="odd">
 <td><p>ソフト版</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ朝日" title="wikilink">テレビ朝日</a>版</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>版</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/アリス・アバーナシー" title="wikilink">アリス・アバーナシー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミラ・ジョヴォヴィッチ" title="wikilink">ミラ・ジョヴォヴィッチ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本田貴子" title="wikilink">本田貴子</a></p></td>
+<td><p><a href="../Page/ミラ・ジョヴォヴィッチ.md" title="wikilink">ミラ・ジョヴォヴィッチ</a></p></td>
+<td><p><a href="../Page/本田貴子.md" title="wikilink">本田貴子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>クローン・アリス</p></td>
@@ -153,48 +153,48 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/カルロス・オリヴェイラ" title="wikilink">カルロス・オリヴェイラ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オデッド・フェール" title="wikilink">オデッド・フェール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/てらそままさき" title="wikilink">てらそままさき</a></p></td>
+<td><p><a href="../Page/オデッド・フェール.md" title="wikilink">オデッド・フェール</a></p></td>
+<td><p><a href="../Page/てらそままさき.md" title="wikilink">てらそままさき</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/クレア・レッドフィールド" title="wikilink">クレア・レッドフィールド</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アリ・ラーター" title="wikilink">アリ・ラーター</a></p></td>
+<td><p><a href="../Page/アリ・ラーター.md" title="wikilink">アリ・ラーター</a></p></td>
 <td><p><a href="../Page/岡寛恵.md" title="wikilink">岡寛恵</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ロイド・ジェファーソン・ウェイド（L.J.）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイク・エップス" title="wikilink">マイク・エップス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/江川央生" title="wikilink">江川央生</a></p></td>
+<td><p><a href="../Page/マイク・エップス.md" title="wikilink">マイク・エップス</a></p></td>
+<td><p><a href="../Page/江川央生.md" title="wikilink">江川央生</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Kマート</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スペンサー・ロック" title="wikilink">スペンサー・ロック</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小笠原亜里沙" title="wikilink">小笠原亜里沙</a></p></td>
+<td><p><a href="../Page/スペンサー・ロック.md" title="wikilink">スペンサー・ロック</a></p></td>
+<td><p><a href="../Page/小笠原亜里沙.md" title="wikilink">小笠原亜里沙</a></p></td>
 </tr>
 <tr class="even">
 <td><p>サミュエル（サム）・アイザックス博士</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イアン・グレン" title="wikilink">イアン・グレン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/水内清光" title="wikilink">水内清光</a></p></td>
+<td><p><a href="../Page/イアン・グレン.md" title="wikilink">イアン・グレン</a></p></td>
+<td><p><a href="../Page/水内清光.md" title="wikilink">水内清光</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アルバート・ウェスカー" title="wikilink">アルバート・ウェスカー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェイソン・オマラ" title="wikilink">ジェイソン・オマラ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/立木文彦" title="wikilink">立木文彦</a></p></td>
+<td><p><a href="../Page/立木文彦.md" title="wikilink">立木文彦</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ベティ・グリア</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アシャンティ_(歌手)" title="wikilink">アシャンティ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小松由佳_(声優)" title="wikilink">小松由佳</a></p></td>
+<td><p><a href="../Page/アシャンティ_(歌手).md" title="wikilink">アシャンティ</a></p></td>
+<td><p><a href="../Page/小松由佳_(声優).md" title="wikilink">小松由佳</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>マイケル（マイキー）・ファーバー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クリストファー・イーガン" title="wikilink">クリストファー・イーガン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/杉山大" title="wikilink">杉山大</a></p></td>
+<td><p><a href="../Page/杉山大.md" title="wikilink">杉山大</a></p></td>
 </tr>
 <tr class="even">
 <td><p>アレクサンダー・スレイター</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マシュー・マースデン" title="wikilink">マシュー・マースデン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/内田夕夜" title="wikilink">内田夕夜</a></p></td>
+<td><p><a href="../Page/内田夕夜.md" title="wikilink">内田夕夜</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ホワイト・クイーン</p></td>
@@ -209,13 +209,13 @@
 <tr class="odd">
 <td><p>オットー・ワレンスキー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joe_Hursley" title="wikilink">ジョー・ハースリー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鳥海勝美" title="wikilink">鳥海勝美</a></p></td>
+<td><p><a href="../Page/鳥海勝美.md" title="wikilink">鳥海勝美</a></p></td>
 </tr>
 <tr class="even">
 <td><p>その他</p></td>
 <td></td>
 <td><p><a href="../Page/ふくまつ進紗.md" title="wikilink">ふくまつ進紗</a><br />
-<a href="https://ja.wikipedia.org/wiki/御園行洋" title="wikilink">御園行洋</a><br />
+<a href="../Page/御園行洋.md" title="wikilink">御園行洋</a><br />
 <a href="https://ja.wikipedia.org/wiki/原なつ季" title="wikilink">原なつ季</a><br />
 <a href="../Page/宇乃音亜季.md" title="wikilink">宇乃音亜季</a><br />
 <a href="https://ja.wikipedia.org/wiki/一馬芳和" title="wikilink">一馬芳和</a></p></td>
@@ -273,8 +273,8 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ朝日" title="wikilink">テレビ朝日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日曜洋画劇場" title="wikilink">日曜洋画劇場</a></p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a></p></td>
+<td><p><a href="../Page/日曜洋画劇場.md" title="wikilink">日曜洋画劇場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/9月26日.md" title="wikilink">9月26日</a></p></td>
 <td><p>21:00 - 22:54</p></td>
 <td><p>114分</p></td>
@@ -308,14 +308,14 @@
 <td><p>21:00 - 22:50</p></td>
 <td><p>110分</p></td>
 <td><p>8.7%</p></td>
-<td><p>なお放送枠は22:50 - 22:55に各局別<a href="https://ja.wikipedia.org/wiki/ミニ番組" title="wikilink">ミニ番組</a>（関東地区は『<a href="https://ja.wikipedia.org/wiki/For〜歓声を生んだ感動ストーリー〜" title="wikilink">For〜もう一人の主人公〜</a>』）、22:55 - 0:10に『<a href="https://ja.wikipedia.org/wiki/関ジャム_完全燃SHOW" title="wikilink">関ジャム 完全燃SHOW</a>』拡大版が編成のため、21:00 - 22:50枠で放送、同年<a href="../Page/8月30日.md" title="wikilink">8月30日</a>放送の『<a href="https://ja.wikipedia.org/wiki/STAND_BY_ME_ドラえもん" title="wikilink">STAND BY ME ドラえもん</a>』以来の23時を越えない放送となる。</p></td>
+<td><p>なお放送枠は22:50 - 22:55に各局別<a href="../Page/ミニ番組.md" title="wikilink">ミニ番組</a>（関東地区は『<a href="https://ja.wikipedia.org/wiki/For〜歓声を生んだ感動ストーリー〜" title="wikilink">For〜もう一人の主人公〜</a>』）、22:55 - 0:10に『<a href="https://ja.wikipedia.org/wiki/関ジャム_完全燃SHOW" title="wikilink">関ジャム 完全燃SHOW</a>』拡大版が編成のため、21:00 - 22:50枠で放送、同年<a href="../Page/8月30日.md" title="wikilink">8月30日</a>放送の『<a href="https://ja.wikipedia.org/wiki/STAND_BY_ME_ドラえもん" title="wikilink">STAND BY ME ドラえもん</a>』以来の23時を越えない放送となる。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>５</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/午後のロードショー" title="wikilink">午後のロードショー</a></p></td>
+<td><p><a href="../Page/午後のロードショー.md" title="wikilink">午後のロードショー</a></p></td>
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/3月22日.md" title="wikilink">3月22日</a></p></td>
 <td><p>13:50 - 15:55</p></td>
 <td><p>125分</p></td>
@@ -331,7 +331,7 @@
 
 ## スタッフ
 
-  - 監督 - [ラッセル・マルケイ](https://ja.wikipedia.org/wiki/ラッセル・マルケイ "wikilink")
+  - 監督 - [ラッセル・マルケイ](../Page/ラッセル・マルケイ.md "wikilink")
   - 製作 - [ポール・W・S・アンダーソン](../Page/ポール・W・S・アンダーソン.md "wikilink")、[ベルント・アイヒンガー](https://ja.wikipedia.org/wiki/ベルント・アイヒンガー "wikilink")、[サミュエル・ハディダ](https://ja.wikipedia.org/wiki/サミュエル・ハディダ "wikilink")、[ロバート・クルツァー](https://ja.wikipedia.org/wiki/ロバート・クルツァー "wikilink")、[ジェレミー・ボルト](https://ja.wikipedia.org/wiki/ジェレミー・ボルト "wikilink")
   - 製作総指揮 - [マーティン・モスコウィック](https://ja.wikipedia.org/wiki/マーティン・モスコウィック "wikilink")、[ヴィクター・ハディダ](https://ja.wikipedia.org/wiki/ヴィクター・ハディダ "wikilink")、[ケリー・ヴァン・ホーン](https://ja.wikipedia.org/wiki/ケリー・ヴァン・ホーン "wikilink")
   - 脚本 - ポール・W・S・アンダーソン
@@ -345,8 +345,8 @@
   - クリーチャー造形 - タトプロス・スタジオ
   - VFX監修 - デニス・ベラルディ
   - VFX - Mr. X Inc
-  - 原案 - [カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")『[バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")』
-  - 日本語版イメージソング「[LAST ANGEL feat.東方神起](https://ja.wikipedia.org/wiki/LAST_ANGEL_feat.東方神起 "wikilink")」歌：[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
+  - 原案 - [カプコン](../Page/カプコン.md "wikilink")『[バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")』
+  - 日本語版イメージソング「[LAST ANGEL feat.東方神起](../Page/LAST_ANGEL_feat.東方神起.md "wikilink")」歌：[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
 
 ## プロモーション
 
@@ -358,7 +358,7 @@
 
 『II』のラストから映画版『III』の冒頭に至るまでの、映画では描かれなかった物語が補完されている。
 
-アンブレラ社の追手からの逃亡中、アリスら仲間達を逃がすための囮となり、アリスらとはぐれてしまった**[ジル・バレンタイン](https://ja.wikipedia.org/wiki/ジル・バレンタイン "wikilink")**は、単身で証拠を集めてアンブレラ社の実態を世界中に伝えようとしたが、T-ウィルス感染が世界へ拡大して文明社会そのものが崩壊したため、徒労に終わってしまう。その後[ボルチモア](https://ja.wikipedia.org/wiki/ボルチモア "wikilink")にて、[ショッピングモールに立て篭もり水や食料などを独占する武装集団と遭遇したジルは](../Page/ショッピングセンター.md "wikilink")、その周辺の生き残りの人々と協力して武装集団を撃退し、ショッピングモールを奪取する。ジルは役目を終えたとその場を去ろうとするが、生き残った人々から要請され、彼らを束ねるリーダーとなった。映画版ではこの後アンブレラ社に捕らえられ洗脳された戦士として続編『IV』のラストと『V』に登場する。
+アンブレラ社の追手からの逃亡中、アリスら仲間達を逃がすための囮となり、アリスらとはぐれてしまった**[ジル・バレンタイン](https://ja.wikipedia.org/wiki/ジル・バレンタイン "wikilink")**は、単身で証拠を集めてアンブレラ社の実態を世界中に伝えようとしたが、T-ウィルス感染が世界へ拡大して文明社会そのものが崩壊したため、徒労に終わってしまう。その後[ボルチモア](../Page/ボルチモア.md "wikilink")にて、[ショッピングモールに立て篭もり水や食料などを独占する武装集団と遭遇したジルは](../Page/ショッピングセンター.md "wikilink")、その周辺の生き残りの人々と協力して武装集団を撃退し、ショッピングモールを奪取する。ジルは役目を終えたとその場を去ろうとするが、生き残った人々から要請され、彼らを束ねるリーダーとなった。映画版ではこの後アンブレラ社に捕らえられ洗脳された戦士として続編『IV』のラストと『V』に登場する。
 
 一方、T-ウィルスの研究にはオリジナルのアリスが不可欠であるため、彼女へのアンブレラ社の追手は途絶えていなかった。また、感染を繰り返した果てに変容してしまったT-ウィルスの前では、人類の更なる進化の可能性を見せたアリスさえ手に入れば、T-ウィルスを身体に適合させた披検体である**アンジェラ・アシュフォード**さえも、もう実験には不要と判断したアイザックスは、アリス計画の[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")を介してアリスの身体を強制的に乗っ取って操作し、アンジェラを射殺させる。その後、自身がいつ再びアイザックスに遠隔操作されて間接的に仲間を殺しかねないと懸念したアリスは、カルロスら仲間達から離れ1人で人工衛星からの監視を避けながら行動するようになる。また、自身を使ってアンジェラを殺したアイザックスに対し、より強い敵意を持つようになった。
 

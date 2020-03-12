@@ -1,18 +1,18 @@
 > この記事は[ROCK\'A\'TRENCH](https://ja.wikipedia.org/wiki/ROCK\'A\'TRENCH)から翻訳されています。
 
 
-**ROCK'A'TRENCH**（ロッカトレンチ）は、[SKA SKA CLUBの山森大輔と畠山拓也が新たに結成した](https://ja.wikipedia.org/wiki/SKA_SKA_CLUB "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。
+**ROCK'A'TRENCH**（ロッカトレンチ）は、[SKA SKA CLUBの山森大輔と畠山拓也が新たに結成した](../Page/SKA_SKA_CLUB.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。
 
-2007年[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")よりメジャーデビュー。バンド名は[ボブ・マーリー](../Page/ボブ・マーリー.md "wikilink")の曲「Trench Town Rock」に由来している。 2011年に活動休止を発表。2011年12月3日に大阪・[なんばHatch](https://ja.wikipedia.org/wiki/なんばHatch "wikilink")で行われたライブを最後に無期限の活動休止となった。
+2007年[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")よりメジャーデビュー。バンド名は[ボブ・マーリー](../Page/ボブ・マーリー.md "wikilink")の曲「Trench Town Rock」に由来している。 2011年に活動休止を発表。2011年12月3日に大阪・[なんばHatch](https://ja.wikipedia.org/wiki/なんばHatch "wikilink")で行われたライブを最後に無期限の活動休止となった。
 
 ## メンバー
 
   - **[山森大輔](https://ja.wikipedia.org/wiki/山森大輔_\(ミュージシャン\) "wikilink")**（やまもり だいすけ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月3日](../Page/10月3日.md "wikilink") - ）
-      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")。[沖縄県](../Page/沖縄県.md "wikilink")出身。東京大学[法学部](https://ja.wikipedia.org/wiki/法学部 "wikilink")卒業。
+      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")。[沖縄県](../Page/沖縄県.md "wikilink")出身。東京大学[法学部](../Page/法学部.md "wikilink")卒業。
   - **畠山拓也**（はたけやま たくや、1978年[11月27日](../Page/11月27日.md "wikilink") - ）
-      - [トロンボーン](../Page/トロンボーン.md "wikilink")・[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")・その他。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。東京大学[工学部](../Page/工学部.md "wikilink")[建築学科](https://ja.wikipedia.org/wiki/建築学科 "wikilink")卒業。
+      - [トロンボーン](../Page/トロンボーン.md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・その他。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。東京大学[工学部](../Page/工学部.md "wikilink")[建築学科](../Page/建築学科.md "wikilink")卒業。
   - **河原真**（かわはら しん、[1981年](../Page/1981年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）
-      - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。[広島県](../Page/広島県.md "wikilink")[豊田郡](../Page/豊田郡.md "wikilink")[瀬戸田町](https://ja.wikipedia.org/wiki/瀬戸田町 "wikilink")（現・[尾道市](../Page/尾道市.md "wikilink")）出身。短大卒業を経て[アン・ミュージック・スクール](https://ja.wikipedia.org/wiki/アン・ミュージック・スクール "wikilink")卒業。元[What's Love?](https://ja.wikipedia.org/wiki/What's_Love?_\(バンド\) "wikilink")。
+      - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")。[広島県](../Page/広島県.md "wikilink")[豊田郡](../Page/豊田郡.md "wikilink")[瀬戸田町](../Page/瀬戸田町.md "wikilink")（現・[尾道市](../Page/尾道市.md "wikilink")）出身。短大卒業を経て[アン・ミュージック・スクール](https://ja.wikipedia.org/wiki/アン・ミュージック・スクール "wikilink")卒業。元[What's Love?](../Page/What's_Love?_\(バンド\).md "wikilink")。
   - **豊田ヒロユキ**（とよだ ひろゆき、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月19日](../Page/2月19日.md "wikilink") - ）
       - ギター・[コーラス](https://ja.wikipedia.org/wiki/コーラス "wikilink")。[西東京市](../Page/西東京市.md "wikilink")出身
   - **[オータケハヤト](https://ja.wikipedia.org/wiki/オータケハヤト "wikilink")**（おおたけはやと、1978年[11月17日](../Page/11月17日.md "wikilink") - ）
@@ -36,13 +36,13 @@
     2.  約束
 2.  **[Higher](https://ja.wikipedia.org/wiki/Higher "wikilink")**（2007年7月4日）
     1.  Higher
-          - [北海道テレビ](../Page/北海道テレビ放送.md "wikilink")「[夢チカ18](https://ja.wikipedia.org/wiki/夢チカ18 "wikilink")」2007年7月度エンディングテーマ
+          - [北海道テレビ](../Page/北海道テレビ放送.md "wikilink")「[夢チカ18](../Page/夢チカ18.md "wikilink")」2007年7月度エンディングテーマ
     2.  Spit
     3.  Free
     4.  Higher(dub Mix)
-3.  **[ヒートアイランド](https://ja.wikipedia.org/wiki/ヒートアイランド "wikilink")**（2007年10月10日）
+3.  **[ヒートアイランド](../Page/ヒートアイランド.md "wikilink")**（2007年10月10日）
     1.  ヒートアイランド
-          - 映画「[ヒートアイランド](https://ja.wikipedia.org/wiki/ヒートアイランドシリーズ "wikilink")」主題歌
+          - 映画「[ヒートアイランド](../Page/ヒートアイランドシリーズ.md "wikilink")」主題歌
     2.  旅人
           - [セイコーマート](../Page/セイコーマート.md "wikilink")オリジナル缶コーヒー「グランディア」全店内CMソング
     3.  Mirror Dayz
@@ -55,7 +55,7 @@
         4.  Every Sunday Afternoon
 4.  **[カクメイノウタ〜Diggin'〜](https://ja.wikipedia.org/wiki/カクメイノウタ〜Diggin'〜 "wikilink")** （2008年5月21日）
     1.  カクメイノウタ〜Diggin'〜
-          - [フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ゲゲゲの鬼太郎（第5作）](https://ja.wikipedia.org/wiki/ゲゲゲの鬼太郎_\(テレビアニメ第5シリーズ\) "wikilink")」エンディングテーマ
+          - [フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ゲゲゲの鬼太郎（第5作）](../Page/ゲゲゲの鬼太郎_\(テレビアニメ第5シリーズ\).md "wikilink")」エンディングテーマ
     2.  好きなんだBaby
     3.  Mirror Dayz(Live ver.)
     4.  カクメイノウタ〜Diggin'〜(カラオケ)
@@ -71,7 +71,7 @@
 7.  **[My SunShine](https://ja.wikipedia.org/wiki/My_SunShine "wikilink")** （2009年3月4日）
 8.  **[真夏の太陽](https://ja.wikipedia.org/wiki/真夏の太陽_\(ROCK'A'TRENCHの曲\) "wikilink")** （2009年6月24日）
     1.  真夏の太陽
-          - [ハウスウェルネスフーズ](https://ja.wikipedia.org/wiki/ハウスウェルネスフーズ "wikilink")「[C1000](https://ja.wikipedia.org/wiki/C1000 "wikilink")レモンウォーター」CMソング
+          - [ハウスウェルネスフーズ](../Page/ハウスウェルネスフーズ.md "wikilink")「[C1000](https://ja.wikipedia.org/wiki/C1000 "wikilink")レモンウォーター」CMソング
           - 北海道テレビ「夢チカ18」2009年8月度オープニングテーマ
           - [関西テレビ](../Page/関西テレビ放送.md "wikilink")「[満たして\!好奇心](https://ja.wikipedia.org/wiki/満たして!好奇心 "wikilink")」エンディングテーマ
     2.  Night and Day
@@ -79,10 +79,10 @@
     4.  Night and Day(Instrumental)
 9.  **[言葉をきいて/ビューティフル サン](https://ja.wikipedia.org/wiki/言葉をきいて/ビューティフル_サン "wikilink")** （2010年6月23日）
     1.  言葉をきいて
-          - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「[シーブリーズ](https://ja.wikipedia.org/wiki/シーブリーズ "wikilink")」CMソング
+          - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「[シーブリーズ](../Page/シーブリーズ.md "wikilink")」CMソング
           - 北海道テレビ「夢チカ18」2010年6月度オープニングテーマ
     2.  ビューティフル サン
-          - 「14th [TOYOTA BIG AIR](https://ja.wikipedia.org/wiki/TOYOTA_BIG_AIR "wikilink")」テーマソング、CMソング
+          - 「14th [TOYOTA BIG AIR](../Page/TOYOTA_BIG_AIR.md "wikilink")」テーマソング、CMソング
     3.  Birthday Song
           -
             [HAPPY BIRTHDAY DOWNLOAD for children](https://ja.wikipedia.org/wiki/HAPPY_BIRTHDAY_DOWNLOAD_for_children "wikilink") 提供楽曲 [1](http://www.unicef.or.jp/musicdl/)
@@ -156,16 +156,16 @@
 ## レギュラー
 
   - ロッカトレンチの「ほじゃけんいよんよ」（オータケのみ）（[FM愛媛](https://ja.wikipedia.org/wiki/FM愛媛 "wikilink")：2008年5月 - 2008年8月）
-  - [MUSIC FREAKS](https://ja.wikipedia.org/wiki/MUSIC_FREAKS "wikilink")（山森のみ）（[FM802](../Page/FM802.md "wikilink")：2008年10月 - 2009年9月）
+  - [MUSIC FREAKS](../Page/MUSIC_FREAKS.md "wikilink")（山森のみ）（[FM802](../Page/FM802.md "wikilink")：2008年10月 - 2009年9月）
       - 桃野陽介（[monobright](https://ja.wikipedia.org/wiki/monobright "wikilink")）と隔週交代で出演していた。
   - [BODYWILD presents ROCK'A'STOCK ～Positive Switch～](https://ja.wikipedia.org/wiki/BODYWILD_presents_ROCK'A'STOCK_～Positive_Switch～ "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")・[FM OSAKA](../Page/エフエム大阪.md "wikilink")：2009年10月 - 2010年9月）※FM OSAKAは2010年1月からの放送。（山森・豊田）
   - [Beポンキッキ](https://ja.wikipedia.org/wiki/Beポンキッキ "wikilink")/beポンキッキーズ（畠山のみ）（[BSフジ](../Page/BSフジ.md "wikilink")：2010年4月 - 2012年3月）
 
 ## 関連項目
 
-  - [SKA SKA CLUB](https://ja.wikipedia.org/wiki/SKA_SKA_CLUB "wikilink")
-  - [Jackson vibe](https://ja.wikipedia.org/wiki/Jackson_vibe "wikilink")
-  - [ミュージック・エクスプレス](https://ja.wikipedia.org/wiki/ミュージック・エクスプレス "wikilink")
+  - [SKA SKA CLUB](../Page/SKA_SKA_CLUB.md "wikilink")
+  - [Jackson vibe](../Page/Jackson_vibe.md "wikilink")
+  - [ミュージック・エクスプレス](../Page/ミュージック・エクスプレス.md "wikilink")
 
 ## 外部リンク
 

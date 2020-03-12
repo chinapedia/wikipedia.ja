@@ -7,13 +7,13 @@
 
 ## 概要
 
-2004年1月に佐賀大学のサークルメンバー4人で結成。当時のバンド名は**『A-JUMP』**で主に[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")や[B-DASH](https://ja.wikipedia.org/wiki/B-DASH "wikilink")のコピーを行っていたが、オリジナルの楽曲も増えたことから同年3月に**『SKUNK SHOT BOOSTER』**に改名した。
+2004年1月に佐賀大学のサークルメンバー4人で結成。当時のバンド名は**『A-JUMP』**で主に[10-FEET](../Page/10-FEET.md "wikilink")や[B-DASH](../Page/B-DASH.md "wikilink")のコピーを行っていたが、オリジナルの楽曲も増えたことから同年3月に**『SKUNK SHOT BOOSTER』**に改名した。
 
-その後メンバー変更を経て、2005年[CHARCOAL FILTER佐賀公演のオープニングアクトを務める](https://ja.wikipedia.org/wiki/CHARCOAL_FILTER "wikilink")。 また、佐賀市内で行われたイベントで[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")・[Bivattchee](https://ja.wikipedia.org/wiki/Bivattchee "wikilink")・[マキシマムザホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")・[G-FREAK FACTORY](https://ja.wikipedia.org/wiki/G-FREAK_FACTORY "wikilink")・[STOMPIN' BIRDらと共演を果たした](https://ja.wikipedia.org/wiki/STOMPIN'_BIRD "wikilink")。
+その後メンバー変更を経て、2005年[CHARCOAL FILTER佐賀公演のオープニングアクトを務める](../Page/CHARCOAL_FILTER.md "wikilink")。 また、佐賀市内で行われたイベントで[10-FEET](../Page/10-FEET.md "wikilink")・[Bivattchee](../Page/Bivattchee.md "wikilink")・[マキシマムザホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")・[G-FREAK FACTORY](../Page/G-FREAK_FACTORY.md "wikilink")・[STOMPIN' BIRDらと共演を果たした](https://ja.wikipedia.org/wiki/STOMPIN'_BIRD "wikilink")。
 
-同年『SSB ALL RIGHT\!\!』が [KDDI主催の](https://ja.wikipedia.org/wiki/KDDI_デザイニングスタジオ "wikilink")「KDDIミュージックコクーン」でグランプリを受賞。
+同年『SSB ALL RIGHT\!\!』が [KDDI主催の](../Page/KDDI_デザイニングスタジオ.md "wikilink")「KDDIミュージックコクーン」でグランプリを受賞。
 
-2007年3月に[Aer-born](https://ja.wikipedia.org/wiki/Aer-born "wikilink")よりメジャーデビュー。[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")・[ET-KING](https://ja.wikipedia.org/wiki/ET-KING "wikilink")・[TRICERATOPS](https://ja.wikipedia.org/wiki/TRICERATOPS "wikilink")・[ONE OK ROCKなどと共演](https://ja.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")。
+2007年3月に[Aer-born](https://ja.wikipedia.org/wiki/Aer-born "wikilink")よりメジャーデビュー。[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")・[ET-KING](../Page/ET-KING.md "wikilink")・[TRICERATOPS](../Page/TRICERATOPS.md "wikilink")・[ONE OK ROCKなどと共演](../Page/ONE_OK_ROCK.md "wikilink")。
 
 以降、[エフエム福岡](../Page/エフエム福岡.md "wikilink")と[エフエム佐賀](../Page/エフエム佐賀.md "wikilink")で番組を担当するとともに、全国ライブツアーを敢行。
 
@@ -21,10 +21,10 @@
 
 ## メンバー
 
-  - **[エイキ](https://ja.wikipedia.org/wiki/徳丸英器 "wikilink")**（[德丸英器](https://ja.wikipedia.org/wiki/徳丸英器 "wikilink")、[1982年](../Page/1982年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink") - ）ボーカル。[鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")出身。 [佐賀大学](../Page/佐賀大学.md "wikilink")出身。現在はソロで活動中。
+  - **[エイキ](https://ja.wikipedia.org/wiki/徳丸英器 "wikilink")**（[德丸英器](https://ja.wikipedia.org/wiki/徳丸英器 "wikilink")、[1982年](../Page/1982年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink") - ）ボーカル。[鹿児島県](../Page/鹿児島県.md "wikilink")出身。 [佐賀大学](../Page/佐賀大学.md "wikilink")出身。現在はソロで活動中。
   - **オッキー**（沖野達也、[1981年](../Page/1981年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink") - ）ギター。[広島県](../Page/広島県.md "wikilink")出身。　佐賀大学出身。
-  - **ナオト**（横尾尚人、[1982年](../Page/1982年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink") - ）ベース。[佐賀県](../Page/佐賀県.md "wikilink")出身。2010年10月よりサポート。2011年11月加入。[西九州大学](https://ja.wikipedia.org/wiki/西九州大学 "wikilink")出身。
-  - **サカナ**（河村知博 ）ドラム。[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身。2013年5月加入。[佐賀大学](../Page/佐賀大学.md "wikilink")出身。
+  - **ナオト**（横尾尚人、[1982年](../Page/1982年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink") - ）ベース。[佐賀県](../Page/佐賀県.md "wikilink")出身。2010年10月よりサポート。2011年11月加入。[西九州大学](../Page/西九州大学.md "wikilink")出身。
+  - **サカナ**（河村知博 ）ドラム。[福岡県](../Page/福岡県.md "wikilink")出身。2013年5月加入。[佐賀大学](../Page/佐賀大学.md "wikilink")出身。
 
 ### 元メンバー
 
@@ -143,7 +143,7 @@
 <li>103</li>
 </ol>
 <p>#SSB ALL RIGHT</p></td>
-<td><p>＜BONUS TRACK＞ - <a href="https://ja.wikipedia.org/wiki/ムーンスター" title="wikilink">ムーンスター</a>『SUPER STAR』CMソング</p></td>
+<td><p>＜BONUS TRACK＞ - <a href="../Page/ムーンスター.md" title="wikilink">ムーンスター</a>『SUPER STAR』CMソング</p></td>
 </tr>
 <tr class="even">
 <td><p>1stミニ</p></td>
@@ -174,8 +174,8 @@
 
 ### ネット配信
 
-  - **祈るように遠く**（2007年） - ♪[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")
-      - [井上富雄](https://ja.wikipedia.org/wiki/井上富雄 "wikilink")([ルースターズ](https://ja.wikipedia.org/wiki/ルースターズ "wikilink"))によるプロデュース
+  - **祈るように遠く**（2007年） - ♪[着うたフル](../Page/着うたフル.md "wikilink")
+      - [井上富雄](https://ja.wikipedia.org/wiki/井上富雄 "wikilink")([ルースターズ](../Page/ルースターズ.md "wikilink"))によるプロデュース
 
 ### 自主制作など
 
@@ -203,7 +203,7 @@
 <li>Opposite side / <a href="https://ja.wikipedia.org/wiki/UNi46" title="wikilink">UNi46</a></li>
 <li>NO REGRET / <a href="https://ja.wikipedia.org/wiki/FORCE&quot;B&quot;" title="wikilink">FORCE"B"</a></li>
 <li>想い風船 / <a href="https://ja.wikipedia.org/wiki/舞丹旅" title="wikilink">舞丹旅</a></li>
-<li>チューリップっていいな / <a href="https://ja.wikipedia.org/wiki/レトロ本舗" title="wikilink">レトロ本舗</a></li>
+<li>チューリップっていいな / <a href="../Page/レトロ本舗.md" title="wikilink">レトロ本舗</a></li>
 <li>I ALWAYS / <a href="https://ja.wikipedia.org/wiki/SMASH_UP" title="wikilink">SMASH UP</a></li>
 <li>nothing ever change / <a href="https://ja.wikipedia.org/wiki/FUNNY_SKASH" title="wikilink">FUNNY SKASH</a></li>
 <li>Catch And Fly / <a href="https://ja.wikipedia.org/wiki/スシド×ラッグ" title="wikilink">スシド×ラッグ</a></li>
@@ -245,12 +245,12 @@
 
 ## 出演
 
-  - 2007年04月27日 - 「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")」
+  - 2007年04月27日 - 「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」
 
 ## 主なライブ
 
   - 2004年 - 自主企画"BOOSTER CABLE -shot.1-"
-  - 2005年 - [10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")佐賀公演サポート
+  - 2005年 - [10-FEET](../Page/10-FEET.md "wikilink")佐賀公演サポート
   - 2006年 - COCOONレコ発ツアー
   - 2006年 - 西日本ツアー
   - 2007年 - 『友へ』レコ発ツアー
@@ -265,12 +265,12 @@
   - 2008年 - “SSB LIVE TOUR 2008” TOUR FINAL\!\!
   - 2008年 - 関西TOUR
   - 2008年 - BOOSTER CABLEレコ発 TOUR
-  - 2009年 - [THE LOCAL ART](https://ja.wikipedia.org/wiki/THE_LOCAL_ART "wikilink") 九州3ヶ所TOURサポート
+  - 2009年 - [THE LOCAL ART](../Page/THE_LOCAL_ART.md "wikilink") 九州3ヶ所TOURサポート
   - 2009年 - [GENERAL HEAD MOUNTAIN](https://ja.wikipedia.org/wiki/GENERAL_HEAD_MOUNTAIN "wikilink") 『本編にこそ、木漏れ日はツキル』九州TOUR 3ヶ所サポート
   - 2009年 - [NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink") 九州TOUR3ヶ所サポート
   - 2009年 - THE LOCAL ART企画『DANSHU ROCK FESTIVAL』
   - 2009年 - 自主企画『BOOSTER CABLE』
-  - 2009年 - [G-FREAK FACTORY企画](https://ja.wikipedia.org/wiki/G-FREAK_FACTORY "wikilink")『COLOSSEUM』
+  - 2009年 - [G-FREAK FACTORY企画](../Page/G-FREAK_FACTORY.md "wikilink")『COLOSSEUM』
   - 2009年 - SKUNK SHOT BOOSTER 『原点of原点』ワンマンライブ in 佐賀大学フォークソング研究会
   - 2009年 - NUBO 『RESHINE』TOUR 九州3ヶ所サポート
   - 2010年 - SKUNK SHOT BOOSTER 『応援歌』レコ発TOUR～お前らにエールば届けちゃっけん\!\!～
@@ -283,7 +283,7 @@
 
 ### テレビ
 
-  - [MTM](https://ja.wikipedia.org/wiki/MTM "wikilink")（[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・MBS[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
+  - [MTM](../Page/MTM.md "wikilink")（[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・MBS[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
 
 ### ラジオ
 
@@ -292,7 +292,7 @@
 
 ## 関連項目
 
-  - [Monthly A Music](https://ja.wikipedia.org/wiki/Monthly_A_Music "wikilink")
+  - [Monthly A Music](../Page/Monthly_A_Music.md "wikilink")
   - [モラージュ佐賀](https://ja.wikipedia.org/wiki/モラージュ佐賀 "wikilink") - CMソングを担当。エフエム佐賀で担当する番組のスポンサーでもある。
   - [I ♥ OGI](https://ja.wikipedia.org/wiki/I_・_OGI "wikilink") - エフエム佐賀で放送の小城市広報番組。ボーカルのエイキがパーソナリティを担当。
 

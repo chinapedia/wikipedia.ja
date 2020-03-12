@@ -1,7 +1,7 @@
 > この記事は[2HEARTS](https://ja.wikipedia.org/wiki/2HEARTS)から翻訳されています。
 
 
-**2HEARTS**（トゥーハーツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[声優ユニット](../Page/声優ユニット.md "wikilink")である。[コーエー](../Page/コーエー.md "wikilink")、[Lantis所属](https://ja.wikipedia.org/wiki/ランティス "wikilink")。
+**2HEARTS**（トゥーハーツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[声優ユニット](../Page/声優ユニット.md "wikilink")である。[コーエー](../Page/コーエー.md "wikilink")、[Lantis所属](../Page/ランティス.md "wikilink")。
 
 ## 作品
 
@@ -19,13 +19,13 @@
 
 :\#EVER FREE（CM version）
 
-  - 2nd「Dearest You」[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月23日](../Page/8月23日.md "wikilink")発売
+  - 2nd「Dearest You」[2006年](../Page/2006年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")発売
 
 :\#Dearest You
 
 :\#\*テレビアニメ『[恋する天使アンジェリーク 〜心のめざめる時〜](../Page/恋する天使アンジェリーク.md "wikilink")』エンディング主題歌
 
-:\#\*[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：尾崎雪絵、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[飯塚昌明](../Page/飯塚昌明.md "wikilink")
+:\#\*[作詞](../Page/作詞.md "wikilink")：尾崎雪絵、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[飯塚昌明](../Page/飯塚昌明.md "wikilink")
 
 :\#賽を振れ
 
@@ -67,7 +67,7 @@
 
 :\#夢のありか 〜realize your dream〜
 
-  - 2nd「MOON VENUS」[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月3日](../Page/8月3日.md "wikilink")発売
+  - 2nd「MOON VENUS」[2005年](../Page/2005年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")発売
 
 :\#こころ咲き誇れ
 
@@ -183,7 +183,7 @@
 
   - The "GAMBARE" Live ～元気になりに来い！～
       - 2005年[11月23日](../Page/11月23日.md "wikilink")発売
-  - [ネオロマンス・ライヴ HOT\! 10 Count down Radio](https://ja.wikipedia.org/wiki/ネオロマンス・ライヴ_HOT!_10_Count_down_Radio "wikilink") ROCKET☆PUNCH\!
+  - [ネオロマンス・ライヴ HOT\! 10 Count down Radio](../Page/ネオロマンス・ライヴ_HOT!_10_Count_down_Radio.md "wikilink") ROCKET☆PUNCH\!
       - 2006年[5月23日](../Page/5月23日.md "wikilink")発売
   - ライブビデオ ネオロマンスライブ HOT\!10 Countdown RadioII ROCKET★PUNCH\!2
       - 2008年2月27日発売

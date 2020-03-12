@@ -23,10 +23,10 @@
 
   - 城之内武男(50):[地井武男](../Page/地井武男.md "wikilink")… 城之内豆腐店を営む。10年前に妻を亡くし男手ひとつで6兄弟を育てている。
   - 城之内裕貴(18):[小原裕貴](../Page/小原裕貴_\(1980年生のタレント\).md "wikilink")…長男。 高校を卒業して家業を手伝っている。しっかりした性格で、兄弟の母親的存在。
-  - 城之内翼 (17):[今井翼](https://ja.wikipedia.org/wiki/今井翼 "wikilink")…次男。高校3年生。物語の中で鬱病に近いものになっていく。実は出生に秘密があった。
-  - 城之内信五(16):[村上信五](https://ja.wikipedia.org/wiki/村上信五 "wikilink")…三男。高校2年生。サッカー部のエース。恋人が病で亡くなり医者を目指すことになる。
-  - 城之内隆平(15):[丸山隆平](https://ja.wikipedia.org/wiki/丸山隆平 "wikilink")…四男。中学3年生。将来、アイドルになると勝手に決めている。
-  - 城之内章大(14):[安田章大](https://ja.wikipedia.org/wiki/安田章大 "wikilink")…五男。中学2年生。マイペースで、ちょっと不思議な性格。母親がいないことをコンプレックスに感じている。
+  - 城之内翼 (17):[今井翼](../Page/今井翼.md "wikilink")…次男。高校3年生。物語の中で鬱病に近いものになっていく。実は出生に秘密があった。
+  - 城之内信五(16):[村上信五](../Page/村上信五.md "wikilink")…三男。高校2年生。サッカー部のエース。恋人が病で亡くなり医者を目指すことになる。
+  - 城之内隆平(15):[丸山隆平](../Page/丸山隆平.md "wikilink")…四男。中学3年生。将来、アイドルになると勝手に決めている。
+  - 城之内章大(14):[安田章大](../Page/安田章大.md "wikilink")…五男。中学2年生。マイペースで、ちょっと不思議な性格。母親がいないことをコンプレックスに感じている。
   - 城之内亮(12)：[錦戸亮](../Page/錦戸亮.md "wikilink")…六男にして末っ子。小学6年生。実は学校でいじめにあっているが家族に隠している。
   - 遠藤久美子：[遠藤久美子](https://ja.wikipedia.org/wiki/遠藤久美子 "wikilink")…第2部で登場。城之内豆腐店のお手伝い。家庭環境のために居場所を転々としていた。
 
@@ -48,7 +48,7 @@
 ### 第3回：あなたに会えてよかった
 
   - 放送日：1999年4月23日
-  - ゲスト：[月亭八方](https://ja.wikipedia.org/wiki/月亭八方 "wikilink")、[持田真樹](https://ja.wikipedia.org/wiki/持田真樹 "wikilink")
+  - ゲスト：[月亭八方](../Page/月亭八方.md "wikilink")、[持田真樹](https://ja.wikipedia.org/wiki/持田真樹 "wikilink")
   - 歌：渋谷すばる「サヨナラ」
 
 ### 第4回：十七年前の秘密
@@ -60,7 +60,7 @@
 ### 第5回：微笑み
 
   - 放送日：1999年5月7日
-  - ゲスト:[小倉久寛](https://ja.wikipedia.org/wiki/小倉久寛 "wikilink")
+  - ゲスト:[小倉久寛](../Page/小倉久寛.md "wikilink")
 
 ### 第6回：君なら出来る！
 
@@ -71,7 +71,7 @@
 ### 第7回： 恋のFK大作戦
 
   - 放送日：1999年5月21日
-  - ゲスト：[吉野紗香](https://ja.wikipedia.org/wiki/吉野紗香 "wikilink")
+  - ゲスト：[吉野紗香](../Page/吉野紗香.md "wikilink")
   - 歌：小原裕貴「運命はノンストップGoGoGo」
 
 ### 第8回：三男、海を渡る
@@ -94,7 +94,7 @@
 ### 第11回: 父ちゃんの恋
 
   - 放送日：1999年6月18日
-  - ゲスト：[浅田美代子](https://ja.wikipedia.org/wiki/浅田美代子 "wikilink")
+  - ゲスト：[浅田美代子](../Page/浅田美代子.md "wikilink")
   - 歌：小原裕貴「青いイナズマ」
 
 ### 第12回： 婚約解消
@@ -129,24 +129,24 @@
 ### 第17回：親子豆腐
 
   - 放送日：1999年8月6日
-  - ゲスト：[高橋克実](https://ja.wikipedia.org/wiki/高橋克実 "wikilink")、[青田典子](https://ja.wikipedia.org/wiki/青田典子 "wikilink")
+  - ゲスト：[高橋克実](../Page/高橋克実.md "wikilink")、[青田典子](../Page/青田典子.md "wikilink")
 
 ### 第18回：線香花火
 
   - 放送日：1999年8月13日
-  - ゲスト：[斉藤慶子](https://ja.wikipedia.org/wiki/斉藤慶子 "wikilink")
+  - ゲスト：[斉藤慶子](../Page/斉藤慶子.md "wikilink")
   - 歌：今井翼「ビークル」
 
 ### 第19回：呼吸
 
   - 放送日：1999年8月20日
 
-ゲスト：[円広志](https://ja.wikipedia.org/wiki/円広志 "wikilink")
+ゲスト：[円広志](../Page/円広志.md "wikilink")
 
 ### 第20回：明日に架ける橋
 
   - 放送日：1999年8月27日
-  - ゲスト：[モト冬樹](https://ja.wikipedia.org/wiki/モト冬樹 "wikilink")
+  - ゲスト：[モト冬樹](../Page/モト冬樹.md "wikilink")
 
 ### 第21回：夏休み緊急おさらいスペシャル
 
@@ -174,12 +174,12 @@
 ### 第25回：独立宣言
 
   - 放送日：1999年10月1日
-  - ゲスト：[田中義剛](https://ja.wikipedia.org/wiki/田中義剛 "wikilink")
+  - ゲスト：[田中義剛](../Page/田中義剛.md "wikilink")
 
 ### 第26回： 白と黒のウサギ
 
   - 放送日：1999年10月8日
-  - ゲスト：[辺見えみり](https://ja.wikipedia.org/wiki/辺見えみり "wikilink")
+  - ゲスト：[辺見えみり](../Page/辺見えみり.md "wikilink")
 
 ### 第27回: 後悔
 
@@ -194,12 +194,12 @@
 ### 第29回：子守歌
 
   - 放送日：1999年10月29日
-  - ゲスト：[森公美子](https://ja.wikipedia.org/wiki/森公美子 "wikilink")
+  - ゲスト：[森公美子](../Page/森公美子.md "wikilink")
 
 ### 第30回：おとしもの
 
   - 放送日：1999年11月5日
-  - ゲスト：[野々村真](https://ja.wikipedia.org/wiki/野々村真 "wikilink")
+  - ゲスト：[野々村真](../Page/野々村真.md "wikilink")
   - 歌：「Believe your smile」
 
 ### 第31回： 柱の傷
@@ -211,12 +211,12 @@
 ### 第32回：三男、帰る
 
   - 放送日：1999年11月19日
-  - ゲスト：[大竹まこと](https://ja.wikipedia.org/wiki/大竹まこと "wikilink")
+  - ゲスト：[大竹まこと](../Page/大竹まこと.md "wikilink")
 
 ### 第33回：初めての誕生日
 
   - 放送日：1999年11月26日
-  - ゲスト：[奥山佳恵](https://ja.wikipedia.org/wiki/奥山佳恵 "wikilink")
+  - ゲスト：[奥山佳恵](../Page/奥山佳恵.md "wikilink")
 
 ### 第34回：ぼく、カズえもん
 
@@ -258,7 +258,7 @@
 ### 第41回：母ちゃんのお弁当
 
   - 放送日：2000年1月28日
-  - ゲスト：[宮崎美子](https://ja.wikipedia.org/wiki/宮崎美子 "wikilink")
+  - ゲスト：[宮崎美子](../Page/宮崎美子.md "wikilink")
 
 ### 第42回：総集編（城之内家総集編スペシャル）
 
@@ -267,7 +267,7 @@
 ### 第43回：待ってる
 
   - 放送日：2000年2月11日
-  - ゲスト：[布川敏和](https://ja.wikipedia.org/wiki/布川敏和 "wikilink")
+  - ゲスト：[布川敏和](../Page/布川敏和.md "wikilink")
 
 ### 第44回：岐路\!
 
@@ -277,7 +277,7 @@
 ### 第45回： ～第一章・折れた翼～
 
   - 放送日：2000年2月25日
-  - ゲスト：[熊谷真実](https://ja.wikipedia.org/wiki/熊谷真実 "wikilink")
+  - ゲスト：[熊谷真実](../Page/熊谷真実.md "wikilink")
   - 歌：関西Jr.メドレー
 
 ### 第46回：～第二章・闇～
@@ -309,7 +309,7 @@
 ### 第51回：梟の鈴～前編～
 
   - 放送日：2000年4月8日
-  - ゲスト：[根津甚八](https://ja.wikipedia.org/wiki/根津甚八_\(俳優\) "wikilink")
+  - ゲスト：[根津甚八](../Page/根津甚八_\(俳優\).md "wikilink")
 
 ### 第52回：梟の鈴～後編～
 
@@ -324,7 +324,7 @@
 ### 第54回：ダルマ
 
   - 放送日：2000年4月29日
-  - ゲスト：[小野武彦](https://ja.wikipedia.org/wiki/小野武彦 "wikilink")
+  - ゲスト：[小野武彦](../Page/小野武彦.md "wikilink")
 
 ### 第55回：もう少し…
 
@@ -334,7 +334,7 @@
 ### 第56回：年上の女
 
   - 放送日：2000年5月13日
-  - ゲスト：[喜多嶋舞](https://ja.wikipedia.org/wiki/喜多嶋舞 "wikilink")
+  - ゲスト：[喜多嶋舞](../Page/喜多嶋舞.md "wikilink")
 
 ### 第57回：過去
 
@@ -351,14 +351,14 @@
 ### 第59回：停留所
 
   - 放送日：2000年6月3日
-  - ゲスト：[柳沢慎吾](https://ja.wikipedia.org/wiki/柳沢慎吾 "wikilink")
+  - ゲスト：[柳沢慎吾](../Page/柳沢慎吾.md "wikilink")
 
 ### 第60回：事件
 
 ※この回からトーク→ドラマ→トークという構成となる。
 
   - 放送日：2000年6月10日
-  - ゲスト：[渡辺裕之](https://ja.wikipedia.org/wiki/渡辺裕之 "wikilink")
+  - ゲスト：[渡辺裕之](../Page/渡辺裕之.md "wikilink")
 
 ### 第61回：父
 
@@ -383,7 +383,7 @@
 ### 第65回：思い
 
   - 放送日：2000年7月29日
-  - ゲスト：[丹波哲郎](https://ja.wikipedia.org/wiki/丹波哲郎 "wikilink")
+  - ゲスト：[丹波哲郎](../Page/丹波哲郎.md "wikilink")
 
 ### 第66回：忘れ物
 
@@ -393,7 +393,7 @@
 ### 第67回：三人
 
   - 放送日：2000年8月12日
-  - ゲスト：[森口博子](../Page/森口博子.md "wikilink")、[生田斗真](https://ja.wikipedia.org/wiki/生田斗真 "wikilink")
+  - ゲスト：[森口博子](../Page/森口博子.md "wikilink")、[生田斗真](../Page/生田斗真.md "wikilink")
 
 ### 第68回：風の少女
 
@@ -403,7 +403,7 @@
 ### 第69回：追われる
 
   - 放送日：2000年8月26日
-  - ゲスト：[三田寛子](https://ja.wikipedia.org/wiki/三田寛子 "wikilink")
+  - ゲスト：[三田寛子](../Page/三田寛子.md "wikilink")
 
 ### 第70回：蝉の死
 
@@ -418,7 +418,7 @@
 ### 第72回：家族
 
   - 放送日：2000年9月16日
-  - ゲスト：[石田靖](https://ja.wikipedia.org/wiki/石田靖 "wikilink")
+  - ゲスト：[石田靖](../Page/石田靖.md "wikilink")
 
 ### 第73回：爆笑トーク総集編
 
@@ -435,7 +435,7 @@
   - ブレーン：[小浦淑美](https://ja.wikipedia.org/wiki/小浦淑美 "wikilink")
   - フロアーディレクター：倉木義典
   - アシスタントディレクター：[上野晴弘](https://ja.wikipedia.org/wiki/上野晴弘 "wikilink")
-  - ドラマ演出：北川文彦（ビデオワーク⇒[FUNS](https://ja.wikipedia.org/wiki/ファンズプロダクション "wikilink")）、[谷村政樹](../Page/谷村政樹.md "wikilink")
+  - ドラマ演出：北川文彦（ビデオワーク⇒[FUNS](../Page/ファンズプロダクション.md "wikilink")）、[谷村政樹](../Page/谷村政樹.md "wikilink")
   - ディレクター：[清水雄一郎](https://ja.wikipedia.org/wiki/清水雄一郎 "wikilink")、谷村政樹
   - プロデューサー：[小田部拓](https://ja.wikipedia.org/wiki/小田部拓 "wikilink")、[岡田充](https://ja.wikipedia.org/wiki/岡田充 "wikilink")
   - 企画協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")

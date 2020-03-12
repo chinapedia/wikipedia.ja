@@ -1,17 +1,17 @@
 > この記事は[deSHOW!](https://ja.wikipedia.org/wiki/deSHOW!)から翻訳されています。
 
 
-**ラジオdeアイマSHOW\!**（らじおであいましょう）は、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[THE IDOLM@STER](https://ja.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")』から派生した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[4月27日](../Page/4月27日.md "wikilink")配信開始。全77回+2回。[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて配信された。毎週木曜日更新。正式なタイトルは「**Radio of THE IDOLM@STER on the web ラジオdeアイマShow\!**」。愛称は「**ラジマSHOW**\!（らじましょ）」。
+**ラジオdeアイマSHOW\!**（らじおであいましょう）は、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")』から派生した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[2006年](../Page/2006年.md "wikilink")（平成18年）[4月27日](../Page/4月27日.md "wikilink")配信開始。全77回+2回。[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて配信された。毎週木曜日更新。正式なタイトルは「**Radio of THE IDOLM@STER on the web ラジオdeアイマShow\!**」。愛称は「**ラジマSHOW**\!（らじましょ）」。
 
 後番組として、『[Radio For You\!](../Page/アイドルマスター_Radio_For_You!.md "wikilink")』『[P.S. プロデューサー](https://ja.wikipedia.org/wiki/アイドルマスター_P.S.プロデューサー "wikilink")』が配信されている。
 
 ## パーソナリティ
 
-[パーソナリティはゲーム](../Page/ラジオパーソナリティ.md "wikilink")[THE IDOLM@STERに出演している声優がつとめた](https://ja.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")。第1期と第2期の変遷については別項参照。
+[パーソナリティはゲーム](../Page/ラジオパーソナリティ.md "wikilink")[THE IDOLM@STERに出演している声優がつとめた](../Page/THE_IDOLM@STER.md "wikilink")。第1期と第2期の変遷については別項参照。
 
   - 第1期（第1回 - 第26回）
 
-[中村繪里子](https://ja.wikipedia.org/wiki/中村繪里子 "wikilink")（天海春香 役）、[今井麻美](https://ja.wikipedia.org/wiki/今井麻美 "wikilink")（如月千早 役）、[落合祐里香](https://ja.wikipedia.org/wiki/長谷優里奈 "wikilink")（萩原雪歩 役）の3人。
+[中村繪里子](https://ja.wikipedia.org/wiki/中村繪里子 "wikilink")（天海春香 役）、[今井麻美](../Page/今井麻美.md "wikilink")（如月千早 役）、[落合祐里香](https://ja.wikipedia.org/wiki/長谷優里奈 "wikilink")（萩原雪歩 役）の3人。
 
   - 第2期（第27回 - 第47回）、第3期（第48回 - 第77回、エピローグ1、2）
 
@@ -59,7 +59,7 @@ Engage\!には、ファンとの関係が「かみ合う」という意味が込
 
 ### 社長
 
-ゲーム内の事務所「765プロダクション」の[社長](https://ja.wikipedia.org/wiki/社長 "wikilink")。キャストはゲームと同様[徳丸完](https://ja.wikipedia.org/wiki/徳丸完 "wikilink")。オープニング、エンディングの[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")や番組中のツッコミをする、いわゆる「天の声」的存在。あらかじめ別個に収録されたボイスを番組[ディレクター](../Page/ディレクター.md "wikilink")の「佐藤さん」が任意のタイミングで再生している。第3期に入ってボイスパターンが大幅に増え、妙にひょうきんなキャラクターが定着していった。
+ゲーム内の事務所「765プロダクション」の[社長](../Page/社長.md "wikilink")。キャストはゲームと同様[徳丸完](../Page/徳丸完.md "wikilink")。オープニング、エンディングの[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")や番組中のツッコミをする、いわゆる「天の声」的存在。あらかじめ別個に収録されたボイスを番組[ディレクター](../Page/ディレクター.md "wikilink")の「佐藤さん」が任意のタイミングで再生している。第3期に入ってボイスパターンが大幅に増え、妙にひょうきんなキャラクターが定着していった。
 
 ## 番組形式
 
@@ -212,11 +212,11 @@ Engage\!には、ファンとの関係が「かみ合う」という意味が込
 
 アイドルマスターの出演声優がゲストとして参加した。
 
-  - [泰勇気](https://ja.wikipedia.org/wiki/泰勇気 "wikilink")（ドラマCD版プロデューサー 役：第11回 - 第12回）
-  - [平田宏美](https://ja.wikipedia.org/wiki/平田宏美 "wikilink")（菊地真 役：第17回 - 第18回）
-  - [若林直美](https://ja.wikipedia.org/wiki/若林直美 "wikilink")（秋月律子 役：第29回 - 第30回）
+  - [泰勇気](../Page/泰勇気.md "wikilink")（ドラマCD版プロデューサー 役：第11回 - 第12回）
+  - [平田宏美](../Page/平田宏美.md "wikilink")（菊地真 役：第17回 - 第18回）
+  - [若林直美](../Page/若林直美.md "wikilink")（秋月律子 役：第29回 - 第30回）
   - [下田麻美](https://ja.wikipedia.org/wiki/下田麻美 "wikilink")（双海亜美・真美 役：第38回 - 第39回）
-  - [長谷川明子](https://ja.wikipedia.org/wiki/長谷川明子 "wikilink")（星井美希 役：第40回 - 第41回）
+  - [長谷川明子](../Page/長谷川明子.md "wikilink")（星井美希 役：第40回 - 第41回）
 
 ## マスコットキャラクター
 
@@ -258,7 +258,7 @@ Engage\!には、ファンとの関係が「かみ合う」という意味が込
 ## 公開録音
 
   - 第1回
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[10月9日](../Page/10月9日.md "wikilink")、曳舟文化センターで公開録音イベントを実施した。同イベント内で、配信を延長して第2期を行うことと、第1期の落合から第2期の仁後へとパーソナリティーを引き継ぐことが発表された。
+    [2006年](../Page/2006年.md "wikilink")（平成18年）[10月9日](../Page/10月9日.md "wikilink")、曳舟文化センターで公開録音イベントを実施した。同イベント内で、配信を延長して第2期を行うことと、第1期の落合から第2期の仁後へとパーソナリティーを引き継ぐことが発表された。
     なお、この模様は第26回に配信されたが、長時間（合計で76分あまり）となったためか、前半と後半で2分割されて配信された。
 
 <!-- end list -->
@@ -273,7 +273,7 @@ Engage\!には、ファンとの関係が「かみ合う」という意味が込
     第4回「ラジオdeアイマSHOW\! 特別出張パーティー シブヤdeアイマSHOW\!II」
     [2007年](../Page/2007年.md "wikilink")（平成19年）10月28日のイベント『Go to the NEXTSTAGE\!\! THE IDOLM@STER GREAT PARTY@TOKYO』および11月4日のイベント『Go to the NEXTSTAGE\!\! THE IDOLM@STER GREAT PARTY@TOKYO+』内で行われた。
     第3回は、滝田樹里（音無小鳥 役）・下田麻美（双海亜美・真美 役）がパーソナリティとなって進行。本来のパーソナリティの3人（今井、中村、仁後）はその手伝い。他に平田宏美（菊地真 役）・若林直美（秋月律子 役）が参加。
-    第4回は、平田宏美（菊地真 役）・若林直美（秋月律子 役）・[長谷川明子](https://ja.wikipedia.org/wiki/長谷川明子 "wikilink")（星井美希 役）がパーソナリティとなって進行。本来のパーソナリティの3人（今井、中村、仁後）はその手伝い。他に下田麻美・滝田樹里が参加。
+    第4回は、平田宏美（菊地真 役）・若林直美（秋月律子 役）・[長谷川明子](../Page/長谷川明子.md "wikilink")（星井美希 役）がパーソナリティとなって進行。本来のパーソナリティの3人（今井、中村、仁後）はその手伝い。他に下田麻美・滝田樹里が参加。
     なお、この模様はそれぞれエピローグ第1回、第2回として配信された。
 
 ## CD
@@ -281,18 +281,18 @@ Engage\!には、ファンとの関係が「かみ合う」という意味が込
 **第1期**
 
   - SHINING STAR★彡<コミックマーケット70限定版>
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[8月11日](../Page/8月11日.md "wikilink")発売。同11日から13日に開催されたコミックマーケット70の、フロンティアワークスブースで販売されたCD。限定数765枚。特製リライタブルカード付属。TORICOによる番組のエンディング「SHINING STAR★彡」のショートバージョンと、新規録音した番組の出張版を収録。
+    [2006年](../Page/2006年.md "wikilink")（平成18年）[8月11日](../Page/8月11日.md "wikilink")発売。同11日から13日に開催されたコミックマーケット70の、フロンティアワークスブースで販売されたCD。限定数765枚。特製リライタブルカード付属。TORICOによる番組のエンディング「SHINING STAR★彡」のショートバージョンと、新規録音した番組の出張版を収録。
   - DJCD ラジオdeアイマSHOW\! Vol.1
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[9月22日](../Page/9月22日.md "wikilink")発売。[たかはし智秋](https://ja.wikipedia.org/wiki/たかはし智秋 "wikilink")（三浦あずさ 役）と下田麻美（双海亜美・真美 役）をゲストに招いて新規録音した番組を収録。DVD付きの限定版あり。
+    [2006年](../Page/2006年.md "wikilink")（平成18年）[9月22日](../Page/9月22日.md "wikilink")発売。[たかはし智秋](https://ja.wikipedia.org/wiki/たかはし智秋 "wikilink")（三浦あずさ 役）と下田麻美（双海亜美・真美 役）をゲストに招いて新規録音した番組を収録。DVD付きの限定版あり。
   - DJCD ラジオdeアイマSHOW\! Vol.2
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[10月25日](../Page/10月25日.md "wikilink")発売。仁後真耶子（高槻やよい 役）と滝田樹里（音無小鳥 役）をゲストに招いて新規録音した番組を収録。DVD付きの限定版あり。オリコンチャート週間261位。
+    [2006年](../Page/2006年.md "wikilink")（平成18年）[10月25日](../Page/10月25日.md "wikilink")発売。仁後真耶子（高槻やよい 役）と滝田樹里（音無小鳥 役）をゲストに招いて新規録音した番組を収録。DVD付きの限定版あり。オリコンチャート週間261位。
   - PREMIUM CD
     優良プロデューサー（前述）に無料配布された。新規録音した番組の番外編、およびTORICOによる番組のエンディング「SHINING STAR★彡」のフルバージョンを収録。非売品で、現在は入手不可能。
 
 **第2期**
 
   - ラジオdeアイマSHOW\! 出張版 〜コミックマーケット71であなたとEngage\!〜
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[12月29日](../Page/12月29日.md "wikilink")発売。同29日から31日に開催されたコミックマーケット71の、フロンティアワークスブースで販売されたCD。その後、一部のアニメイト店舗や通信販売でも販売された。[泰勇気](https://ja.wikipedia.org/wiki/泰勇気 "wikilink")（プロデューサー役）をゲストに招いて新規録音した番組の出張版を収録。
+    [2006年](../Page/2006年.md "wikilink")（平成18年）[12月29日](../Page/12月29日.md "wikilink")発売。同29日から31日に開催されたコミックマーケット71の、フロンティアワークスブースで販売されたCD。その後、一部のアニメイト店舗や通信販売でも販売された。[泰勇気](../Page/泰勇気.md "wikilink")（プロデューサー役）をゲストに招いて新規録音した番組の出張版を収録。
   - DJCD ラジオdeアイマSHOW\! Vol.3
     [2007年](../Page/2007年.md "wikilink")（平成19年）[3月23日](../Page/3月23日.md "wikilink")発売。平田宏美（菊地真 役）と長谷川明子（星井美希 役）をゲストに招いて新規録音した番組を収録。オリコンチャート週間235位。
   - DJCD ラジオdeアイマSHOW\! Vol.4
@@ -301,7 +301,7 @@ Engage\!には、ファンとの関係が「かみ合う」という意味が込
 **第3期**
 
   - DJCD SP ラジオdeアイマSHOW\! 2007年夏の感謝祭特別編！と言っておけばいいんじゃない？
-    [2007年](../Page/2007年.md "wikilink")（平成19年）[8月24日](../Page/8月24日.md "wikilink")、[アニメイト](https://ja.wikipedia.org/wiki/アニメイト "wikilink")限定発売。同年[7月22日](../Page/7月22日.md "wikilink")に行われた公開録音の模様を収録。同年8月17日から19日に開催されたコミックマーケット72の、フロンティアワークスブースにて先行販売された。
+    [2007年](../Page/2007年.md "wikilink")（平成19年）[8月24日](../Page/8月24日.md "wikilink")、[アニメイト](../Page/アニメイト.md "wikilink")限定発売。同年[7月22日](../Page/7月22日.md "wikilink")に行われた公開録音の模様を収録。同年8月17日から19日に開催されたコミックマーケット72の、フロンティアワークスブースにて先行販売された。
   - DJCD ラジオdeアイマSHOW\! Vol.4.5
     [2007年](../Page/2007年.md "wikilink")（平成19年）[10月23日](../Page/10月23日.md "wikilink")発売。Engage\! の3人が番組構成を行った。また、番組テーマソング「アナタのヒトコト」のフルバージョンや、番組で使われた高木社長の声を集めたボイスコレクションも収録されている。オリコンチャート週間144位。
   - DJCD ラジオdeアイマSHOW\! Vol.5

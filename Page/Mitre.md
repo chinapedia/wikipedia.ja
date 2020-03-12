@@ -5,13 +5,13 @@
 
 ## 概要・歴史
 
-[1817年](../Page/1817年.md "wikilink")に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")中部[ヨークシャー](https://ja.wikipedia.org/wiki/ヨークシャー "wikilink")の[ハダースフィールド](https://ja.wikipedia.org/wiki/ハダースフィールド "wikilink")でベンジャミン・クルークによってなめし皮工場として設立。[司教冠](https://ja.wikipedia.org/wiki/司教冠 "wikilink")という意味のブランド名をモチーフにロゴが作成された世界最古のボールメーカーである。世界3大ボールメーカーのひとつに数えられ、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")を中心にその名は広く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")、[ラグビー](../Page/ラグビー.md "wikilink")愛好家にとどまらず知られている。世界最古のカップ戦と言われる[FAカップ](../Page/FAカップ.md "wikilink")の公式球として[1966年](../Page/1966年.md "wikilink")より[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")まで実に40年間もの長期に渡りボールサプライヤーとして支え続けた。
+[1817年](../Page/1817年.md "wikilink")に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")中部[ヨークシャー](https://ja.wikipedia.org/wiki/ヨークシャー "wikilink")の[ハダースフィールド](https://ja.wikipedia.org/wiki/ハダースフィールド "wikilink")でベンジャミン・クルークによってなめし皮工場として設立。[司教冠](https://ja.wikipedia.org/wiki/司教冠 "wikilink")という意味のブランド名をモチーフにロゴが作成された世界最古のボールメーカーである。世界3大ボールメーカーのひとつに数えられ、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")を中心にその名は広く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")、[ラグビー](../Page/ラグビー.md "wikilink")愛好家にとどまらず知られている。世界最古のカップ戦と言われる[FAカップ](../Page/FAカップ.md "wikilink")の公式球として[1966年](../Page/1966年.md "wikilink")より[2006年](../Page/2006年.md "wikilink")まで実に40年間もの長期に渡りボールサプライヤーとして支え続けた。
 
-[1880年](../Page/1880年.md "wikilink")当時革で作られる事が一般的だったボールに、独自の高度な革加工技術を応用し[サッカーボール](https://ja.wikipedia.org/wiki/サッカーボール "wikilink")、[ラグビーボール](https://ja.wikipedia.org/wiki/ラグビーボール "wikilink")の開発・生産を開始。続いて[ボクシンググローブ](https://ja.wikipedia.org/wiki/ボクシンググローブ "wikilink")や[クリケット](../Page/クリケット.md "wikilink")用[グラブ](https://ja.wikipedia.org/wiki/グラブ "wikilink")等も商品化、ボールメーカーとしての地位を確立する。
+[1880年](../Page/1880年.md "wikilink")当時革で作られる事が一般的だったボールに、独自の高度な革加工技術を応用し[サッカーボール](../Page/サッカーボール.md "wikilink")、[ラグビーボール](https://ja.wikipedia.org/wiki/ラグビーボール "wikilink")の開発・生産を開始。続いて[ボクシンググローブ](https://ja.wikipedia.org/wiki/ボクシンググローブ "wikilink")や[クリケット](../Page/クリケット.md "wikilink")用[グラブ](https://ja.wikipedia.org/wiki/グラブ "wikilink")等も商品化、ボールメーカーとしての地位を確立する。
 
 [1888年](../Page/1888年.md "wikilink")[プレストン・ノースエンド](https://ja.wikipedia.org/wiki/プレストン・ノースエンド "wikilink")がmitreのボールを使って[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")最初のリーグチャンピオンと[FAカップ](../Page/FAカップ.md "wikilink")を獲得した。
 
-[1889年](../Page/1889年.md "wikilink")靴底に金属のブレードが付いた[スパイク](https://ja.wikipedia.org/wiki/スパイク "wikilink")付きサッカーシューズを世界で初めて作製。mitreが手掛ける革製品の評価は高く、その技術は紳士靴にも反映され、イングランドだけでなく世界のあらゆる箇所にて生産されることになり、靴作りに於いても革新的な技術力を持ちその製法はヨーロッパを超えて世界中のシューズメーカーに広く影響を与えた。
+[1889年](../Page/1889年.md "wikilink")靴底に金属のブレードが付いた[スパイク](../Page/スパイク.md "wikilink")付きサッカーシューズを世界で初めて作製。mitreが手掛ける革製品の評価は高く、その技術は紳士靴にも反映され、イングランドだけでなく世界のあらゆる箇所にて生産されることになり、靴作りに於いても革新的な技術力を持ちその製法はヨーロッパを超えて世界中のシューズメーカーに広く影響を与えた。
 
 [1950年](../Page/1950年.md "wikilink")18面のサッカーボールの主流を作り、英国市場から世界市場へと進出。その後、世界で最初にFIFA公認を得たボールメーカーとなった。現在の白をベースとしたものではなく、なめし皮特有の光沢を持った茶色のボールが当時は主流だった。
 
@@ -27,9 +27,9 @@
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")スコットランドプレミアムリーグの公式球となる。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")本社社屋を[ロンドン](../Page/ロンドン.md "wikilink")に移す。この年の春より日本での販売を本格的にスタートさせる。
+[2005年](../Page/2005年.md "wikilink")本社社屋を[ロンドン](../Page/ロンドン.md "wikilink")に移す。この年の春より日本での販売を本格的にスタートさせる。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[Jリーグ](https://ja.wikipedia.org/wiki/Jリーグ "wikilink")・ディビジョン2の[水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")とサプライヤー契約を締結。
+[2006年](../Page/2006年.md "wikilink")[Jリーグ](https://ja.wikipedia.org/wiki/Jリーグ "wikilink")・ディビジョン2の[水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")とサプライヤー契約を締結。
 
 [2007年](../Page/2007年.md "wikilink")チャンピオンシップ、フットボールリーグ1、フットボールリーグ2、からなるイングランド・フットボールリーグの公式球契約を2011年まで更新。イングランドフットボールリーグ・[イプスウィッチ・タウンFC](../Page/イプスウィッチ・タウンFC.md "wikilink")とユニフォームサプライヤー契約を締結。
 
@@ -45,7 +45,7 @@ mitreのサッカーボールの内部の素材には天然ラテックスチュ
 
 ## 日本での展開
 
-[2004年](../Page/2004年.md "wikilink")から日本で代理店契約が始まり、ヨーロッパのボール文化を日本で初めて株式会社ロイヤル(本社：[名古屋](../Page/名古屋.md "wikilink"))が営業・販売する事になる。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")から[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")のテクニカルスポンサーを2年契約で開始。[2009年](../Page/2009年.md "wikilink")には[奈良クラブ](https://ja.wikipedia.org/wiki/奈良クラブ "wikilink")とユニフォーム契約を結ぶ。
+[2004年](../Page/2004年.md "wikilink")から日本で代理店契約が始まり、ヨーロッパのボール文化を日本で初めて株式会社ロイヤル(本社：[名古屋](../Page/名古屋.md "wikilink"))が営業・販売する事になる。[2006年](../Page/2006年.md "wikilink")から[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")のテクニカルスポンサーを2年契約で開始。[2009年](../Page/2009年.md "wikilink")には[奈良クラブ](https://ja.wikipedia.org/wiki/奈良クラブ "wikilink")とユニフォーム契約を結ぶ。
 
 [2013年](../Page/2013年.md "wikilink")、[イミオ](https://ja.wikipedia.org/wiki/イミオ "wikilink")が 「mitre」ブランドを管轄する英国ペントランド社から、ブランドの独占販売権を獲得。[鹿児島ユナイテッドFC](https://ja.wikipedia.org/wiki/鹿児島ユナイテッドFC "wikilink")を含む、各クラブへのユニホーム供給の他、独自デザインによるウェアの販売等を展開。[2015年](../Page/2015年.md "wikilink")からは、[Fリーグとオフィシャルレフェリースポンサーの契約を締結](https://ja.wikipedia.org/wiki/日本フットサルリーグ "wikilink")\[1\]。
 
@@ -59,13 +59,13 @@ mitreのサッカーボールの内部の素材には天然ラテックスチュ
       - 水戸ホーリーホック : 2006年 - 2011年。
       - [松本山雅FC](../Page/松本山雅FC.md "wikilink") : 2007年 - 2010年。
   - J3リーグ
-      - [FC琉球](https://ja.wikipedia.org/wiki/FC琉球 "wikilink") : 2014年 - 2016年。
+      - [FC琉球](../Page/FC琉球.md "wikilink") : 2014年 - 2016年。
       - 鹿児島ユナイテッドFC : 2014年 - 2017年。
   - JFL
       - 奈良クラブ : 2009年 - 2011年。
       - [FC大阪](https://ja.wikipedia.org/wiki/FC大阪 "wikilink") : 2016年 - 2017年。
-  - [関東サッカーリーグ](https://ja.wikipedia.org/wiki/関東サッカーリーグ "wikilink")
-      - [東京23フットボールクラブ](https://ja.wikipedia.org/wiki/東京23フットボールクラブ "wikilink") : 2015年 - 2017年。
+  - [関東サッカーリーグ](../Page/関東サッカーリーグ.md "wikilink")
+      - [東京23フットボールクラブ](../Page/東京23フットボールクラブ.md "wikilink") : 2015年 - 2017年。
       - [栃木ウーヴァFC](../Page/栃木シティフットボールクラブ.md "wikilink") : 2016年 - 2017年。
 
 ## 脚注

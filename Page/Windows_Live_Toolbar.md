@@ -3,7 +3,7 @@
 
 **Windows Live Toolbar**(ウィンドウズ ライブ ツールバー) は、[Windows Live](../Page/Windows_Live.md "wikilink") のサービスを使用するようにデザインされた [Internet Explorer](../Page/Internet_Explorer.md "wikilink") 用の[アドオン](https://ja.wikipedia.org/wiki/アドオン "wikilink")で、MSN Toolbar の後継の Windows Live サービスの一つとして[マイクロソフト](../Page/マイクロソフト.md "wikilink")が公開したものである。
 
-[Bing](https://ja.wikipedia.org/wiki/Bing "wikilink")バーに置き換えられた。
+[Bing](../Page/Bing.md "wikilink")バーに置き換えられた。
 
 ## 特徴
 
@@ -129,7 +129,7 @@
   - [フィードリーダー](../Page/フィードリーダー.md "wikilink")
   - [Windows Live OneCare Advisior](https://ja.wikipedia.org/wiki/Windows_Live_OneCare_Advisior "wikilink")
   - [Windows Live Messenger](https://ja.wikipedia.org/wiki/Windows_Live_Messenger "wikilink")
-  - [Windows Live Spaces](https://ja.wikipedia.org/wiki/Windows_Live_Spaces "wikilink")
+  - [Windows Live Spaces](../Page/Windows_Live_Spaces.md "wikilink")
   - [Windows Live Gallery](https://ja.wikipedia.org/wiki/Windows_Live_Gallery "wikilink")
 
 ## 脚注

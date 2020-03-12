@@ -1,7 +1,7 @@
 > この記事は[Windows100%](https://ja.wikipedia.org/wiki/Windows100%)から翻訳されています。
 
 
-**Windows100%**（ウィンドウズひゃくパーセント）とは日本のDVD-ROM付き[コンピュータ情報誌である](https://ja.wikipedia.org/wiki/パソコン雑誌 "wikilink")。[晋遊舎](https://ja.wikipedia.org/wiki/晋遊舎 "wikilink")から毎月13日に発売されていた。兄弟誌に[iP\!](https://ja.wikipedia.org/wiki/iP! "wikilink")がある。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink")（1998年11月号）創刊、[2017年](../Page/2017年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")（2017年7月号）最終号。通巻225号。
+**Windows100%**（ウィンドウズひゃくパーセント）とは日本のDVD-ROM付き[コンピュータ情報誌である](../Page/パソコン雑誌.md "wikilink")。[晋遊舎](../Page/晋遊舎.md "wikilink")から毎月13日に発売されていた。兄弟誌に[iP\!](https://ja.wikipedia.org/wiki/iP! "wikilink")がある。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月13日](../Page/10月13日.md "wikilink")（1998年11月号）創刊、[2017年](../Page/2017年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")（2017年7月号）最終号。通巻225号。
 
 略称は**Win100**。
 
@@ -13,12 +13,12 @@
   - 知識に乏しい初心者への配慮として分かりやすく書かれてある。
   - 2007年2月号で通巻100号を達成した。その100号には、Windows100%編集部オリジナルの[OSと謳った](../Page/オペレーティングシステム.md "wikilink")「[KNOPPIX](../Page/KNOPPIX.md "wikilink") Windows100% Edition」が付属した。2007年4月号の読者投票によるとベストコーナー2位となっている。
   - [Boot\!](https://ja.wikipedia.org/wiki/Boot! "wikilink")・[Windows100% SUPER](https://ja.wikipedia.org/wiki/Windows100%_SUPER "wikilink")・[Linux100%](https://ja.wikipedia.org/wiki/Linux100% "wikilink")など、Windows100%から派生した雑誌もある。が、Windows100% SUPERは休刊中である。
-  - 2007年7月現在、人気コーナーである「[GIMP](../Page/GIMP.md "wikilink")の教科書。」をまとめた[ムック本が](https://ja.wikipedia.org/wiki/ムック_\(出版\) "wikilink")3冊出版されている。ムック本にはGIMPの教科書をまとめた内容のほかに、オリジナル講座も掲載されている。
+  - 2007年7月現在、人気コーナーである「[GIMP](../Page/GIMP.md "wikilink")の教科書。」をまとめた[ムック本が](../Page/ムック_\(出版\).md "wikilink")3冊出版されている。ムック本にはGIMPの教科書をまとめた内容のほかに、オリジナル講座も掲載されている。
   - なお、[1996年](../Page/1996年.md "wikilink")7月にも「創刊準備号」として発刊されている。
 
 ## 外観
 
-  - 表紙には毎月異なるキャラクターが描かれており、他の[コンピュータ情報誌とは一線を画している](https://ja.wikipedia.org/wiki/パソコン雑誌 "wikilink")。2002年11月号からはイラストレーター[福田武比呂](https://ja.wikipedia.org/wiki/福田武比呂 "wikilink")によるキャラクター目印となっている。
+  - 表紙には毎月異なるキャラクターが描かれており、他の[コンピュータ情報誌とは一線を画している](../Page/パソコン雑誌.md "wikilink")。2002年11月号からはイラストレーター[福田武比呂](https://ja.wikipedia.org/wiki/福田武比呂 "wikilink")によるキャラクター目印となっている。
   - 表紙のバックカラーは、1998年11月号創刊号から白や月ごとに違うカラー色などを採用されていたが、2004年8月号以降は銀色がメインカラーとなっている。「Windows100%」のロゴデザインは、創刊以来変わっていない。
 
 ## 特集
@@ -368,7 +368,7 @@
 
 ### 傾向
 
-  - 主に一般のパソコン利用者向けの内容で構成されているが、海外のMP3ファイルやゲームソフトのROMファイルを違法に[アップロード](https://ja.wikipedia.org/wiki/アップロード "wikilink")してあるサイトへのリンクやDVDのコピーガード解除に使われるフリーソフトの使用方法など、[著作権侵害](../Page/著作権侵害.md "wikilink")を助長する内容の掲載もされている。
+  - 主に一般のパソコン利用者向けの内容で構成されているが、海外のMP3ファイルやゲームソフトのROMファイルを違法に[アップロード](../Page/アップロード.md "wikilink")してあるサイトへのリンクやDVDのコピーガード解除に使われるフリーソフトの使用方法など、[著作権侵害](../Page/著作権侵害.md "wikilink")を助長する内容の掲載もされている。
   - 誌面にコーナーの読者ランキングがあるが、各アダルトコーナーはワーストの常連である。ただ一度「美少女ゲーム通信」が2006年6月号で中止になったとき、アダルトコーナー好きから不満が噴出したため次号ではコーナーを新調して復活させている。
   - なお、2007年3月号の誌面リニューアルにより同誌のモノクロページ以降にあった人気が分かれるアダルトコーナーもモノクロページの前に移動した。
 
@@ -396,7 +396,7 @@
 
 #### プロジェクトJ
 
-  - ジャンクパーツについてのコーナー。当初は単発企画であったが、のちにレギュラー化する。「ジャンク」をもじって映画やドラマの登場人物や特定の実在する人物がモチーフになっており、カテゴリーごとに[某海賊によく似た](https://ja.wikipedia.org/wiki/パイレーツ・オブ・カリビアン/呪われた海賊たち "wikilink")「[ジャンク・スパロウ](https://ja.wikipedia.org/wiki/ジャック・スパロウ "wikilink")」、[24時間戦う男に似た](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")「[ジャンク・バウアー](https://ja.wikipedia.org/wiki/ジャック・バウアー "wikilink")」、がっちりした体の[ジャンクロード・ハンダムがおもに解説する](https://ja.wikipedia.org/wiki/ジャン＝クロード・ヴァン・ダム "wikilink")。また最近では[瀬戸内じゃんくちょうやコーナー名の由来となった本家本元](https://ja.wikipedia.org/wiki/瀬戸内寂聴 "wikilink")（？）の[ジャンキー・チェンまで登場している](../Page/ジャッキー・チェン.md "wikilink")。
+  - ジャンクパーツについてのコーナー。当初は単発企画であったが、のちにレギュラー化する。「ジャンク」をもじって映画やドラマの登場人物や特定の実在する人物がモチーフになっており、カテゴリーごとに[某海賊によく似た](https://ja.wikipedia.org/wiki/パイレーツ・オブ・カリビアン/呪われた海賊たち "wikilink")「[ジャンク・スパロウ](../Page/ジャック・スパロウ.md "wikilink")」、[24時間戦う男に似た](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")「[ジャンク・バウアー](../Page/ジャック・バウアー.md "wikilink")」、がっちりした体の[ジャンクロード・ハンダムがおもに解説する](https://ja.wikipedia.org/wiki/ジャン＝クロード・ヴァン・ダム "wikilink")。また最近では[瀬戸内じゃんくちょうやコーナー名の由来となった本家本元](../Page/瀬戸内寂聴.md "wikilink")（？）の[ジャンキー・チェンまで登場している](../Page/ジャッキー・チェン.md "wikilink")。
 
 #### GAME OF DEATH☆死亡遊戯
 

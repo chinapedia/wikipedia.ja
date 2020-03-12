@@ -1,15 +1,15 @@
 > この記事は[IP!](https://ja.wikipedia.org/wiki/IP!)から翻訳されています。
 
 
-**iP\!**（アイピー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")付き\[1\][コンピュータ情報誌](https://ja.wikipedia.org/wiki/パソコン雑誌 "wikilink")。[晋遊舎](https://ja.wikipedia.org/wiki/晋遊舎 "wikilink")から発売され、[2016年](../Page/2016年.md "wikilink")までは月刊誌として毎月29日に発売されていたが、[2017年](../Page/2017年.md "wikilink")以降は季刊誌に格下げされ、毎年3・6・9月の29日と12月27日発売に移行。[2018年](../Page/2018年.md "wikilink")8月号で廃刊。
+**iP\!**（アイピー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")付き\[1\][コンピュータ情報誌](../Page/パソコン雑誌.md "wikilink")。[晋遊舎](../Page/晋遊舎.md "wikilink")から発売され、[2016年](../Page/2016年.md "wikilink")までは月刊誌として毎月29日に発売されていたが、[2017年](../Page/2017年.md "wikilink")以降は季刊誌に格下げされ、毎年3・6・9月の29日と12月27日発売に移行。[2018年](../Page/2018年.md "wikilink")8月号で廃刊。
 
 ## 内容
 
-[1999年](../Page/1999年.md "wikilink")9月（1999年11月号）に「Windows100%」のインターネット専門の兄弟誌として創刊された。[2002年](../Page/2002年.md "wikilink")後半に入ると裏系の記事が目立ち始め、[2003年](../Page/2003年.md "wikilink")1月号のリニューアルと同時に誌面の色使いが全体的に暗くなり、[ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")や[DVD](../Page/DVD.md "wikilink")のコピーといった[著作権侵害](../Page/著作権侵害.md "wikilink")を助長するいわゆる[アングラ記事のページの占める割合が高くなった](https://ja.wikipedia.org/wiki/アンダーグラウンド_\(文化\) "wikilink")。しかしその後は規制強化によりその手の記事は減少傾向が続き、特に[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")以降は2002年以前に回帰したような記事も増えつつある。また2003年以降インターネット以外の記事も扱うようになったため「Windows100%」と内容が極めて近くなり、アングラを巡る記事の変遷までほぼ同様となっている。
+[1999年](../Page/1999年.md "wikilink")9月（1999年11月号）に「Windows100%」のインターネット専門の兄弟誌として創刊された。[2002年](../Page/2002年.md "wikilink")後半に入ると裏系の記事が目立ち始め、[2003年](../Page/2003年.md "wikilink")1月号のリニューアルと同時に誌面の色使いが全体的に暗くなり、[ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")や[DVD](../Page/DVD.md "wikilink")のコピーといった[著作権侵害](../Page/著作権侵害.md "wikilink")を助長するいわゆる[アングラ記事のページの占める割合が高くなった](../Page/アンダーグラウンド_\(文化\).md "wikilink")。しかしその後は規制強化によりその手の記事は減少傾向が続き、特に[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")以降は2002年以前に回帰したような記事も増えつつある。また2003年以降インターネット以外の記事も扱うようになったため「Windows100%」と内容が極めて近くなり、アングラを巡る記事の変遷までほぼ同様となっている。
 
 その他にも[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")や[フリーゲーム](../Page/フリーゲーム.md "wikilink")についての記事が多い。基本的に、記事は専門用語などがわからない初心者などにもなるべくわかりやすく説明を入れて書かれている。
 
-1年に一回程度、[自作パソコン](https://ja.wikipedia.org/wiki/自作パソコン "wikilink")の作り方など、ノーマルな記事も存在する。
+1年に一回程度、[自作パソコン](../Page/自作パソコン.md "wikilink")の作り方など、ノーマルな記事も存在する。
 
 ## 記事の変遷
 
@@ -17,19 +17,19 @@
 
 #### 何でもコピー
 
-現在も残っている裏系記事の筆頭で、特に[デジタルデータ](https://ja.wikipedia.org/wiki/デジタルデータ "wikilink")の[コピーガード](https://ja.wikipedia.org/wiki/コピーガード "wikilink")を回避する方法が中心。中でもDVDコピーは2003年のリニューアル号より存在しており、常に特集記事の代表と言える。最近は[地デジ](https://ja.wikipedia.org/wiki/地デジ "wikilink")、[ブルーレイネタも頻繁に見られる](../Page/Blu-ray_Disc.md "wikilink")。
+現在も残っている裏系記事の筆頭で、特に[デジタルデータ](https://ja.wikipedia.org/wiki/デジタルデータ "wikilink")の[コピーガード](../Page/コピーガード.md "wikilink")を回避する方法が中心。中でもDVDコピーは2003年のリニューアル号より存在しており、常に特集記事の代表と言える。最近は[地デジ](https://ja.wikipedia.org/wiki/地デジ "wikilink")、[ブルーレイネタも頻繁に見られる](../Page/Blu-ray_Disc.md "wikilink")。
 
 #### ゲーム機活用
 
-家庭用ゲーム機でコピーゲーム等を起動させる方法を解説するもの。特に[PSPは発売直後から特集され](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、現在でも「PSPハックステーション」として連載されている。
+家庭用ゲーム機でコピーゲーム等を起動させる方法を解説するもの。特に[PSPは発売直後から特集され](../Page/PlayStation_Portable.md "wikilink")、現在でも「PSPハックステーション」として連載されている。
 
 #### エミュレータ
 
-ゲームソフトをPC上で動作させる[エミュレータの使い方を解説するもので](../Page/エミュレータ_\(コンピュータ\).md "wikilink")、これも長期にわたり連載が続いている。なおROM入手に関しては[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")以前はやや控えめな表現だったが、以後は普通に紹介されるようになった。
+ゲームソフトをPC上で動作させる[エミュレータの使い方を解説するもので](../Page/エミュレータ_\(コンピュータ\).md "wikilink")、これも長期にわたり連載が続いている。なおROM入手に関しては[2005年](../Page/2005年.md "wikilink")以前はやや控えめな表現だったが、以後は普通に紹介されるようになった。
 
 #### ダウンロード
 
-著作物がダウンロードできる違法サイトの紹介とDL方法の解説。ファイル共有の衰退により[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")前後から雑誌の核となった記事で、[2009年](../Page/2009年.md "wikilink")までほぼ隔月のペースで特集されていた。2010年1月のいわゆるDL禁止法施行により事実上終了していた。
+著作物がダウンロードできる違法サイトの紹介とDL方法の解説。ファイル共有の衰退により[2006年](../Page/2006年.md "wikilink")前後から雑誌の核となった記事で、[2009年](../Page/2009年.md "wikilink")までほぼ隔月のペースで特集されていた。2010年1月のいわゆるDL禁止法施行により事実上終了していた。
 だが2012年11月号から違法サイト紹介とDL方法の紹介が復活した。
 
 #### アダルトページ
@@ -41,7 +41,7 @@
 
 #### ファイル共有
 
-リニューアル当初のメインとも言える記事。しかし以降の逮捕者続出及びウィルス騒動により非推奨の立場に転換し、現在では稀に[BitTorrent](https://ja.wikipedia.org/wiki/BitTorrent "wikilink")系が掲載されるのみ。
+リニューアル当初のメインとも言える記事。しかし以降の逮捕者続出及びウィルス騒動により非推奨の立場に転換し、現在では稀に[BitTorrent](../Page/BitTorrent.md "wikilink")系が掲載されるのみ。
 
 #### シェアウェア系
 
@@ -49,11 +49,11 @@
 
 #### ウィルス入手・活用
 
-当時の裏ツール系記事のメインであり、[ウィルス](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")、[トロイを使用し他人のPCを](https://ja.wikipedia.org/wiki/トロイの木馬_\(ソフトウェア\) "wikilink")[ハックする方法やその入手先](https://ja.wikipedia.org/wiki/ハッキング "wikilink")、作成法まで解説するという内容。
+当時の裏ツール系記事のメインであり、[ウィルス](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")、[トロイを使用し他人のPCを](../Page/トロイの木馬_\(ソフトウェア\).md "wikilink")[ハックする方法やその入手先](../Page/ハッキング.md "wikilink")、作成法まで解説するという内容。
 
 #### エロゲー抽出
 
-18禁[美少女ゲーム](https://ja.wikipedia.org/wiki/美少女ゲーム "wikilink")から[CG](https://ja.wikipedia.org/wiki/CG "wikilink")等のデータを抜き出す方法を解説。抽出に使用するソフト、プラグインの入手先まで掲載されていた。
+18禁[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")から[CG](https://ja.wikipedia.org/wiki/CG "wikilink")等のデータを抜き出す方法を解説。抽出に使用するソフト、プラグインの入手先まで掲載されていた。
 
 #### エロゲーコピー
 
@@ -65,7 +65,7 @@
 
 **晋遊舎から発行されているパソコン雑誌**
 
-  - [Windows100%](https://ja.wikipedia.org/wiki/Windows100% "wikilink")
+  - [Windows100%](../Page/Windows100%.md "wikilink")
   - [Mr.PC](https://ja.wikipedia.org/wiki/Mr.PC "wikilink")
 
 ## 外部リンク

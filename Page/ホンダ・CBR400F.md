@@ -5,11 +5,11 @@
 
 ## 概要
 
-[1980年代](../Page/1980年代.md "wikilink")初頭には空前のオートバイ[ブームとなり](https://ja.wikipedia.org/wiki/流行 "wikilink")、本田技研工業では激戦区となる400ccクラスで[CBX400Fを製造販売していたが](https://ja.wikipedia.org/wiki/ホンダ・CBX400F "wikilink")、各社のライバル勢に対抗すべく発売後わずか2年でフル[モデルチェンジ](https://ja.wikipedia.org/wiki/モデルチェンジ "wikilink")し、製造販売したのが型式名NC17の本モデルである。
+[1980年代](../Page/1980年代.md "wikilink")初頭には空前のオートバイ[ブームとなり](../Page/流行.md "wikilink")、本田技研工業では激戦区となる400ccクラスで[CBX400Fを製造販売していたが](../Page/ホンダ・CBX400F.md "wikilink")、各社のライバル勢に対抗すべく発売後わずか2年でフル[モデルチェンジ](../Page/モデルチェンジ.md "wikilink")し、製造販売したのが型式名NC17の本モデルである。
 
 ## 車両解説
 
-搭載される内径x行程=55.0x42.0（mm）・[排気量](../Page/排気量.md "wikilink")399ccのNC07E型[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[4ストローク](https://ja.wikipedia.org/wiki/4ストローク "wikilink")[DOHC](../Page/DOHC.md "wikilink")4バルブ[4気筒エンジンはCBX](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")400Fからのキャリーオーバーであるが、[圧縮比](https://ja.wikipedia.org/wiki/圧縮比 "wikilink")を9.6に、燃料供給をVE53型[キャブレター](../Page/キャブレター.md "wikilink")に変更。さらに8,500rpmを境に2バルブから4バルブに切り替わる[回転数応答型バルブ休止機構](../Page/可変バルブ機構.md "wikilink")**REV**（*Revolution- modulated Valve control*）を搭載。また角型[ヘッドライト下に大型](https://ja.wikipedia.org/wiki/前照灯 "wikilink")[オイルクーラー](https://ja.wikipedia.org/wiki/オイルクーラー "wikilink")を装備。これらの結果最高出力58ps/12,300rpm・最大トルク3.6kg-m/11,000rpmとなった。変速機は6速[トランスミッション](../Page/マニュアルトランスミッション.md "wikilink")。
+搭載される内径x行程=55.0x42.0（mm）・[排気量](../Page/排気量.md "wikilink")399ccのNC07E型[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[4ストローク](https://ja.wikipedia.org/wiki/4ストローク "wikilink")[DOHC](../Page/DOHC.md "wikilink")4バルブ[4気筒エンジンはCBX](../Page/直列4気筒.md "wikilink")400Fからのキャリーオーバーであるが、[圧縮比](https://ja.wikipedia.org/wiki/圧縮比 "wikilink")を9.6に、燃料供給をVE53型[キャブレター](../Page/キャブレター.md "wikilink")に変更。さらに8,500rpmを境に2バルブから4バルブに切り替わる[回転数応答型バルブ休止機構](../Page/可変バルブ機構.md "wikilink")**REV**（*Revolution- modulated Valve control*）を搭載。また角型[ヘッドライト下に大型](../Page/前照灯.md "wikilink")[オイルクーラー](https://ja.wikipedia.org/wiki/オイルクーラー "wikilink")を装備。これらの結果最高出力58ps/12,300rpm・最大トルク3.6kg-m/11,000rpmとなった。変速機は6速[トランスミッション](../Page/マニュアルトランスミッション.md "wikilink")。
 
 車体は[フレームを角断面パイプダブルクレードルとし](../Page/フレーム_\(オートバイ\).md "wikilink")、[キャスター角](https://ja.wikipedia.org/wiki/ホイール・アライメント#キャスター角 "wikilink")27°・トレール97mm・シート高780mmに設定された。
 
@@ -29,7 +29,7 @@
 
   - 車重を2kg軽量化
 
-:\* スイングアームを[アルミ](../Page/アルミニウム.md "wikilink")[合金製へ変更](https://ja.wikipedia.org/wiki/アルミニウム合金 "wikilink")
+:\* スイングアームを[アルミ](../Page/アルミニウム.md "wikilink")[合金製へ変更](../Page/アルミニウム合金.md "wikilink")
 
 :\* ホイールをNSコムスターからアルミ合金製3本スポークキャストへ変更
 
@@ -37,7 +37,7 @@
 
 :\* ４into２から当時の流行に合せたを採用した[ステンレス製集合](../Page/ステンレス鋼.md "wikilink")[マフラーへ変更](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")7月、エンジンを[水冷化した](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[NC23型CBR400Rへフルモデルチェンジされ製造販売終了](https://ja.wikipedia.org/wiki/ホンダ・CBR400R "wikilink")。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")7月、エンジンを[水冷化した](../Page/水冷エンジン.md "wikilink")[NC23型CBR400Rへフルモデルチェンジされ製造販売終了](https://ja.wikipedia.org/wiki/ホンダ・CBR400R "wikilink")。
 
 ## 脚注
 

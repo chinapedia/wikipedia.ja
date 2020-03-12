@@ -1,17 +1,17 @@
 > この記事は[Boot Camp](https://ja.wikipedia.org/wiki/Boot_Camp)から翻訳されています。
 
 
-**Boot Camp**（**ブートキャンプ**）は、[アップルにより開発](../Page/アップル_\(企業\).md "wikilink")・配布されている[ソフトウェア](../Page/ソフトウェア.md "wikilink")。[Intel Macにおいて](https://ja.wikipedia.org/wiki/Intel_Mac "wikilink")[Windowsの利用を可能とする](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+**Boot Camp**（**ブートキャンプ**）は、[アップルにより開発](../Page/アップル_\(企業\).md "wikilink")・配布されている[ソフトウェア](../Page/ソフトウェア.md "wikilink")。[Intel Macにおいて](../Page/Intel_Mac.md "wikilink")[Windowsの利用を可能とする](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")製[CPU](../Page/CPU.md "wikilink")搭載のMacを発売開始したアップルは、Intel Macにおける[Microsoft Windowsの起動を](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、積極的に支援も妨害もしないと表明していた。
+[2006年](../Page/2006年.md "wikilink")に、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")製[CPU](../Page/CPU.md "wikilink")搭載のMacを発売開始したアップルは、Intel Macにおける[Microsoft Windowsの起動を](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、積極的に支援も妨害もしないと表明していた。
 
-Boot Campは、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")に[EFIでは起動出来ない](https://ja.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface "wikilink")[OSをサポートする為のCSM](../Page/オペレーティングシステム.md "wikilink") (Compatibility Support Module) 搭載と思われるFirmware Updateと共に、パブリックベータとして発表された。Boot Campとは[アメリカ軍](../Page/アメリカ軍.md "wikilink")における[新兵の基礎訓練を意味する](../Page/ブートキャンプ.md "wikilink")[スラング](../Page/スラング.md "wikilink")であり、ここでは[コンピュータ](../Page/コンピュータ.md "wikilink")の起動 ([boot](../Page/ブート.md "wikilink")) と掛けて使用されている。[2007年](../Page/2007年.md "wikilink")10月発売された[Mac OS X v10.5においてVersion](../Page/Mac_OS_X_v10.5.md "wikilink") 2.0が搭載された。
+Boot Campは、[2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に[EFIでは起動出来ない](../Page/Unified_Extensible_Firmware_Interface.md "wikilink")[OSをサポートする為のCSM](../Page/オペレーティングシステム.md "wikilink") (Compatibility Support Module) 搭載と思われるFirmware Updateと共に、パブリックベータとして発表された。Boot Campとは[アメリカ軍](../Page/アメリカ軍.md "wikilink")における[新兵の基礎訓練を意味する](../Page/ブートキャンプ.md "wikilink")[スラング](../Page/スラング.md "wikilink")であり、ここでは[コンピュータ](../Page/コンピュータ.md "wikilink")の起動 ([boot](../Page/ブート.md "wikilink")) と掛けて使用されている。[2007年](../Page/2007年.md "wikilink")10月発売された[Mac OS X v10.5においてVersion](../Page/Mac_OS_X_v10.5.md "wikilink") 2.0が搭載された。
 
 ## 機能
 
-Boot Campは、Intel Macの[ハードディスクに](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")を残したままWindowsを[インストール](../Page/インストール.md "wikilink")するための任意のサイズの[パーティション](../Page/パーティション.md "wikilink")を作成する機能や、Windowsのインストール後にIntel Macで使われている[無線LAN](../Page/無線LAN.md "wikilink")や[ビデオカード](../Page/ビデオカード.md "wikilink")の[ドライバをインストールするためのドライバ](../Page/デバイスドライバ.md "wikilink")[CD-R](../Page/CD-R.md "wikilink")を作成する機能を持つ。また、Intel Mac上でWindowsを動かすために必要な一連の作業を、あまり専門知識を持たない人にでも簡易に行えるようにするため、シンプルな[インタフェースを搭載している](../Page/インタフェース_\(情報技術\).md "wikilink")。従来、[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")等で発表されていたIntel MacにおけるWindows起動方法は、いずれも複雑かつWindowsの使用[ライセンス](../Page/ライセンス.md "wikilink")に関して不明確な点が存在したため多くのMacユーザーは様子見状態で導入に踏み切れなかった。この機能がアップルによって発表されたことにより、これらの問題を解決する手段となり、高い互換性でWindowsを実行できる環境が整い、再起動のみでmacOSとのデュアルブート環境で使用できるようになった。
+Boot Campは、Intel Macの[ハードディスクに](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")を残したままWindowsを[インストール](../Page/インストール.md "wikilink")するための任意のサイズの[パーティション](../Page/パーティション.md "wikilink")を作成する機能や、Windowsのインストール後にIntel Macで使われている[無線LAN](../Page/無線LAN.md "wikilink")や[ビデオカード](../Page/ビデオカード.md "wikilink")の[ドライバをインストールするためのドライバ](../Page/デバイスドライバ.md "wikilink")[CD-R](../Page/CD-R.md "wikilink")を作成する機能を持つ。また、Intel Mac上でWindowsを動かすために必要な一連の作業を、あまり専門知識を持たない人にでも簡易に行えるようにするため、シンプルな[インタフェースを搭載している](../Page/インタフェース_\(情報技術\).md "wikilink")。従来、[インターネット](../Page/インターネット.md "wikilink")等で発表されていたIntel MacにおけるWindows起動方法は、いずれも複雑かつWindowsの使用[ライセンス](../Page/ライセンス.md "wikilink")に関して不明確な点が存在したため多くのMacユーザーは様子見状態で導入に踏み切れなかった。この機能がアップルによって発表されたことにより、これらの問題を解決する手段となり、高い互換性でWindowsを実行できる環境が整い、再起動のみでmacOSとのデュアルブート環境で使用できるようになった。
 
 ## 仮想化環境との違い
 
@@ -19,23 +19,23 @@ Boot camp環境は、仮想化ソフトウェアであるParallels Desktop for M
 
 ## バージョン
 
-  - 1.0.1 Beta（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月29日](../Page/6月29日.md "wikilink")）
+  - 1.0.1 Beta（[2006年](../Page/2006年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")）
     最初に公開されたバージョン。ドライバ等の完成度も低く、動作はするものの問題が多かった。
 
-  - 1.0.2 Beta（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月12日](../Page/7月12日.md "wikilink")）
+  - 1.0.2 Beta（[2006年](../Page/2006年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")）
     バグフィクス版
 
-  - 1.1 Beta（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月18日](../Page/8月18日.md "wikilink")）
-    最大の懸念事項であった[MacBook](https://ja.wikipedia.org/wiki/MacBook "wikilink")における無線LANの解決、iSightの動作、キーボード問題の部分的解決など、ほぼ常用する部分においては動作するようになった。またインストールもより簡単になり、安定した。
+  - 1.1 Beta（[2006年](../Page/2006年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")）
+    最大の懸念事項であった[MacBook](../Page/MacBook.md "wikilink")における無線LANの解決、iSightの動作、キーボード問題の部分的解決など、ほぼ常用する部分においては動作するようになった。またインストールもより簡単になり、安定した。
 
-  - 1.1.2 Beta（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月30日](../Page/10月30日.md "wikilink")）
+  - 1.1.2 Beta（[2006年](../Page/2006年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")）
     いくつかのドライバの追加と、安定化が行われた。
 
   - 1.2 Beta（[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")）
-    [Windows Vistaをサポート](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")。赤外線ポートドライバが提供され、[Apple Remoteが利用可能になった](https://ja.wikipedia.org/wiki/Apple_Remote "wikilink")（ペアリングは不可）。タスクトレイ内にアイコンメニューが登場し、Windows側から参照できるメニューが搭載された（Boot Camp用ヘルプ、輝度調整、ブートローダー選択等）。
+    [Windows Vistaをサポート](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")。赤外線ポートドライバが提供され、[Apple Remoteが利用可能になった](../Page/Apple_Remote.md "wikilink")（ペアリングは不可）。タスクトレイ内にアイコンメニューが登場し、Windows側から参照できるメニューが搭載された（Boot Camp用ヘルプ、輝度調整、ブートローダー選択等）。
 
   - 1.3 Beta（[2007年](../Page/2007年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")）
-    バックライトキーボード対応([MacBook Proのみ](../Page/MacBook_Pro.md "wikilink"))。各言語キーボードサポート強化、[Apple RemoteのペアリングがWindows側から操作可能になった他](https://ja.wikipedia.org/wiki/Apple_Remote "wikilink")、ドライバ類を多数アップデート。
+    バックライトキーボード対応([MacBook Proのみ](../Page/MacBook_Pro.md "wikilink"))。各言語キーボードサポート強化、[Apple RemoteのペアリングがWindows側から操作可能になった他](../Page/Apple_Remote.md "wikilink")、ドライバ類を多数アップデート。
 
   - 1.4 Beta（[2007年](../Page/2007年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")）
     [iMac (Mid 2007)への対応と](https://ja.wikipedia.org/wiki/iMac#iMac_\(Mid_2007\) "wikilink")、各種グラフィックドライバがアップデートされた。
@@ -47,7 +47,7 @@ Boot camp環境は、仮想化ソフトウェアであるParallels Desktop for M
     [Windows XP Service Pack 3](https://ja.wikipedia.org/wiki/Microsoft_Windows_XP#Service_Pack_3 "wikilink") (SP3) への対応、およびバグフィクス。
 
   - 3.0（[2009年](../Page/2009年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")）
-    [Mac OS X v10.6に付属する正式版](../Page/Mac_OS_X_v10.6.md "wikilink")。ドライバのアップデートに加え、Windows側からMac OS X側の[HFSフォーマットのハードディスク内を閲覧可能になった](../Page/Hierarchical_File_System.md "wikilink")。他にもトラックパッドのタッチクリック対応、[Apple Cinema Displayの拡張機能のサポートなどが加えられ](https://ja.wikipedia.org/wiki/Apple_Cinema_Display "wikilink")、[Windows 7のインストールにも対応](../Page/Microsoft_Windows_7.md "wikilink")。（正式対応ではない）
+    [Mac OS X v10.6に付属する正式版](../Page/Mac_OS_X_v10.6.md "wikilink")。ドライバのアップデートに加え、Windows側からMac OS X側の[HFSフォーマットのハードディスク内を閲覧可能になった](../Page/Hierarchical_File_System.md "wikilink")。他にもトラックパッドのタッチクリック対応、[Apple Cinema Displayの拡張機能のサポートなどが加えられ](../Page/Apple_Cinema_Display.md "wikilink")、[Windows 7のインストールにも対応](../Page/Microsoft_Windows_7.md "wikilink")。（正式対応ではない）
 
   - 3.1（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月20日](../Page/1月20日.md "wikilink")）
     [Windows 7](../Page/Microsoft_Windows_7.md "wikilink")（Home Premium、Professional、および Ultimate）への正式対応とアップル製トラックパッド使用時に起こる問題の解決、Apple Wireless KeyboardおよびApple Magic Mouseのサポート。
@@ -113,12 +113,12 @@ Boot camp環境は、仮想化ソフトウェアであるParallels Desktop for M
 
 <!-- end list -->
 
-  - 日本語版のMacBookおよびMacBook Proでも[AirMac](https://ja.wikipedia.org/wiki/AirMac "wikilink")による無線LAN接続利用が可能となった。
+  - 日本語版のMacBookおよびMacBook Proでも[AirMac](../Page/AirMac.md "wikilink")による無線LAN接続利用が可能となった。
       - （インターナショナル版MacBook + 英語版WindowsXPでは動作可だった）
   - キーボードの一部機能（「ー」「ろ」「_」「\\」「|」「Fn」）が利用可能となった。
   - 「Fn」キー等と組み合わせて実現する機能（ディスプレイの光度調整、音量調整など）がほぼ使用可能になった。
   - ヘッドフォン端子を挿入した時に本体のスピーカーがoffになるようになった
-  - [Mac Pro](https://ja.wikipedia.org/wiki/Mac_Pro "wikilink")、[Intel Core 2 Duo搭載の](https://ja.wikipedia.org/wiki/Intel_Core_2 "wikilink")[iMac](https://ja.wikipedia.org/wiki/iMac "wikilink")に対応。
+  - [Mac Pro](../Page/Mac_Pro.md "wikilink")、[Intel Core 2 Duo搭載の](../Page/Intel_Core_2.md "wikilink")[iMac](https://ja.wikipedia.org/wiki/iMac "wikilink")に対応。
   - [iSight](https://ja.wikipedia.org/wiki/iSight "wikilink")（内蔵カメラ）が動作するようになった。
   - Windows XPで日時の同期が可能になった。
   - 「DEL」、「全角/半角」キー及び、タッチパッドの右ボタンが（そもそも存在しないため）選択できなかった。キーボード上「DELETE」キーは、「BackSpace」キーとして機能する。
@@ -147,7 +147,7 @@ Boot camp環境は、仮想化ソフトウェアであるParallels Desktop for M
   - Windows Vista（32ビット版）に対応
   - トラックパッド、AppleTime（シンク）、オーディオデバイス、グラフィックス、モデム、iSightカメラなどのドライバを更新
   - Apple Remoteに対応
-      - （iTunesやWindows Media Playerの操作が[リモコン](https://ja.wikipedia.org/wiki/リモコン "wikilink")で操作可能になった。）
+      - （iTunesやWindows Media Playerの操作が[リモコン](../Page/リモコン.md "wikilink")で操作可能になった。）
   - WindowsのシステムトレイアイコンからBoot Campの情報の表示、アクションの実行が可能になった。
   - マニュアル、WindowsのBoot Campオンラインヘルプの内容を更新
 
@@ -159,7 +159,7 @@ Boot camp環境は、仮想化ソフトウェアであるParallels Desktop for M
 
   - バックライトキーボード対応（MacBook Proのみ）。
   - 様々な言語キーボードサポート強化など、ローカライズ強化
-  - [Apple Remoteのベアリングに対応](https://ja.wikipedia.org/wiki/Apple_Remote "wikilink")
+  - [Apple Remoteのベアリングに対応](../Page/Apple_Remote.md "wikilink")
   - グラフィックドライバをアップデート
   - Boot Campドライバインストーラをアップデート
 

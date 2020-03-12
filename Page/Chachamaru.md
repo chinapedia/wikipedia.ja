@@ -1,13 +1,13 @@
 > この記事は[Chachamaru](https://ja.wikipedia.org/wiki/Chachamaru)から翻訳されています。
 
 
-**Chachamaru**（チャチャマル、本名: **藤村幸宏**、[1960年](../Page/1960年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink")の[バックバンド](https://ja.wikipedia.org/wiki/バックバンド "wikilink")、GACKT-Jobの[バンドマスター](https://ja.wikipedia.org/wiki/バンドマスター "wikilink")として主に活動。[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身。[佛教大学](https://ja.wikipedia.org/wiki/佛教大学 "wikilink")卒業。
+**Chachamaru**（チャチャマル、本名: **藤村幸宏**、[1960年](../Page/1960年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink")の[バックバンド](https://ja.wikipedia.org/wiki/バックバンド "wikilink")、GACKT-Jobの[バンドマスター](https://ja.wikipedia.org/wiki/バンドマスター "wikilink")として主に活動。[京都府](../Page/京都府.md "wikilink")出身。[佛教大学](../Page/佛教大学.md "wikilink")卒業。
 
-佛教大学では軽音楽部に所属し、同軽音楽部には同級で[二井原実](../Page/二井原実.md "wikilink")(当時[EARTHSHAKER](https://ja.wikipedia.org/wiki/EARTHSHAKER "wikilink")、後に[LOUDNESS](https://ja.wikipedia.org/wiki/LOUDNESS "wikilink")に加入)も在籍しており、同じバンドに所属していた。芸名のChachamaru(茶々丸)は学生時代からの[愛称](../Page/愛称.md "wikilink")である。
+佛教大学では軽音楽部に所属し、同軽音楽部には同級で[二井原実](../Page/二井原実.md "wikilink")(当時[EARTHSHAKER](../Page/EARTHSHAKER.md "wikilink")、後に[LOUDNESS](../Page/LOUDNESS.md "wikilink")に加入)も在籍しており、同じバンドに所属していた。芸名のChachamaru(茶々丸)は学生時代からの[愛称](../Page/愛称.md "wikilink")である。
 
 ## 概要・来歴
 
-『[アイ高野](../Page/アイ高野.md "wikilink")とビーハイブ』、『[EARTHSHAKER](https://ja.wikipedia.org/wiki/EARTHSHAKER "wikilink")』の[永川敏郎](https://ja.wikipedia.org/wiki/永川敏郎 "wikilink")との『[GERARD](../Page/GERARD.md "wikilink")』、和製[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")の立役者によるセッションバンド『[VIENNA](https://ja.wikipedia.org/wiki/VIENNA "wikilink")』、[二井原実](../Page/二井原実.md "wikilink")との『[デッド・チャップリン](https://ja.wikipedia.org/wiki/デッド・チャップリン "wikilink")』等のバンドを渡り歩く。他にも、[X JAPANのボーカリスト](../Page/X_JAPAN.md "wikilink")[TOSHI](https://ja.wikipedia.org/wiki/TOSHI "wikilink")のソロアルバムにも参加している。
+『[アイ高野](../Page/アイ高野.md "wikilink")とビーハイブ』、『[EARTHSHAKER](../Page/EARTHSHAKER.md "wikilink")』の[永川敏郎](https://ja.wikipedia.org/wiki/永川敏郎 "wikilink")との『[GERARD](../Page/GERARD.md "wikilink")』、和製[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")の立役者によるセッションバンド『[VIENNA](https://ja.wikipedia.org/wiki/VIENNA "wikilink")』、[二井原実](../Page/二井原実.md "wikilink")との『[デッド・チャップリン](https://ja.wikipedia.org/wiki/デッド・チャップリン "wikilink")』等のバンドを渡り歩く。他にも、[X JAPANのボーカリスト](../Page/X_JAPAN.md "wikilink")[TOSHI](https://ja.wikipedia.org/wiki/TOSHI "wikilink")のソロアルバムにも参加している。
 
 Gackt曰く「日本で3本の指に入る[ギタリスト](../Page/ギタリスト.md "wikilink")」。
 

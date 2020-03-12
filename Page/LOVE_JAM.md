@@ -8,7 +8,7 @@
   - 前作からわずか8か月でリリースされた2nd[アルバム](../Page/アルバム.md "wikilink")。
   - 「[CDのみ](../Page/コンパクトディスク.md "wikilink")」「CD+[DVD](../Page/DVD-Video.md "wikilink")」の2形態での発売。「CDのみ」の初回盤には本人描き下ろしによる[絵本](../Page/絵本.md "wikilink")付き。
   - 「CD+DVD」のジャケットには、顔にジャムを塗りたくった大塚が舌を出している写真が使用された。
-  - 大塚愛にとって、シングル・アルバム通じて初となる、[オリコンウィークリーチャート初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を記録した。
+  - 大塚愛にとって、シングル・アルバム通じて初となる、[オリコンウィークリーチャート初登場](../Page/オリコンチャート.md "wikilink")1位を記録した。
 
 ## 収録曲
 
@@ -24,7 +24,7 @@
         4thシングル。
 3.  **Strawberry Jam**(4:23)
       -
-        [明光義塾](https://ja.wikipedia.org/wiki/明光義塾 "wikilink")2005年TV - [CMイメージソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        [明光義塾](../Page/明光義塾.md "wikilink")2005年TV - [CMイメージソング](../Page/コマーシャルソング.md "wikilink")。
 4.  **[大好きだよ。](../Page/大好きだよ。_\(大塚愛の曲\).md "wikilink")**(4:44)
       -
         6thシングル。
@@ -39,7 +39,7 @@
         5thシングル。
 10. **[黒毛和牛上塩タン焼735円](../Page/黒毛和牛上塩タン焼680円.md "wikilink")**(4:21)
       -
-        [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")「[ブラック・ジャック](https://ja.wikipedia.org/wiki/ブラック・ジャック_\(テレビアニメ\) "wikilink")」エンディングテーマとして先行オンエアされていた「[黒毛和牛上塩タン焼680円](../Page/黒毛和牛上塩タン焼680円.md "wikilink")」をアルバムバージョンとして収録。「黒毛和牛上塩タン焼680円」は後に[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月9日](../Page/2月9日.md "wikilink")に7thシングルとして発売され、ベストアルバム『[愛 am BEST](../Page/愛_am_BEST.md "wikilink")』に収録された。
+        [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")「[ブラック・ジャック](../Page/ブラック・ジャック_\(テレビアニメ\).md "wikilink")」エンディングテーマとして先行オンエアされていた「[黒毛和牛上塩タン焼680円](../Page/黒毛和牛上塩タン焼680円.md "wikilink")」をアルバムバージョンとして収録。「黒毛和牛上塩タン焼680円」は後に[2005年](../Page/2005年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")に7thシングルとして発売され、ベストアルバム『[愛 am BEST](../Page/愛_am_BEST.md "wikilink")』に収録された。
 11. **[フレンズ](../Page/大好きだよ。_\(大塚愛の曲\).md "wikilink")**(4:28)
       -
         6thシングル「大好きだよ。」にカップリングされた同名曲の別バージョン。こちらはピアノとストリングスをベースにしている。
@@ -62,9 +62,9 @@
 ## 関連項目
 
   - [ニューイヤー駅伝](https://ja.wikipedia.org/wiki/ニューイヤー駅伝 "wikilink")
-  - [明光義塾](https://ja.wikipedia.org/wiki/明光義塾 "wikilink")
+  - [明光義塾](../Page/明光義塾.md "wikilink")
   - [めざましどようび](../Page/めざましどようび.md "wikilink")
   - [黒毛和牛上塩タン焼680円](../Page/黒毛和牛上塩タン焼680円.md "wikilink")
-  - [秩父鉄道](../Page/秩父鉄道.md "wikilink")[上長瀞駅](https://ja.wikipedia.org/wiki/上長瀞駅 "wikilink") -「SHORT FILM 〜金魚花火〜」はここで撮影された。
+  - [秩父鉄道](../Page/秩父鉄道.md "wikilink")[上長瀞駅](../Page/上長瀞駅.md "wikilink") -「SHORT FILM 〜金魚花火〜」はここで撮影された。
 
 [Category:大塚愛のアルバム](https://ja.wikipedia.org/wiki/Category:大塚愛のアルバム "wikilink") [Category:2004年のアルバム](https://ja.wikipedia.org/wiki/Category:2004年のアルバム "wikilink") [Category:2004年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンアルバムチャート1位獲得作品 "wikilink")

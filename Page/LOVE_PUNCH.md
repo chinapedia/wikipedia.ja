@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3位を獲得。
+  - [オリコン初登場](../Page/オリコンチャート.md "wikilink")3位を獲得。
 
 ## 収録曲
 
@@ -15,11 +15,11 @@
 
 1.  **pretty voice** (03:33)
       -
-        [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ゲツブカ ディビジョン1 \[勝負下着♥](https://ja.wikipedia.org/wiki/ディビジョン1_\(テレビドラマ\) "wikilink")\]』主題歌
+        [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ゲツブカ ディビジョン1 \[勝負下着♥](../Page/ディビジョン1_\(テレビドラマ\).md "wikilink")\]』主題歌
 2.  **[桃ノ花ビラ](../Page/桃ノ花ビラ.md "wikilink")** (04:55)
       -
         1st Single
-3.  **[さくらんぼ](https://ja.wikipedia.org/wiki/さくらんぼ_\(曲\) "wikilink")** (03:56)
+3.  **[さくらんぼ](../Page/さくらんぼ_\(曲\).md "wikilink")** (03:56)
       -
         2nd Single
 4.  **GIRLY** (04:02)

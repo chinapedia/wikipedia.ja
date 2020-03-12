@@ -5,7 +5,7 @@
 
 ## 来歴
 
-[1994年](../Page/1994年.md "wikilink")に初の音源をリリース。当時のメンバーはYasuko O.（Yako／ボーカル）、Agata（ギター）、Rika（ベース）、須藤俊明（ドラムス）の4人。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")のアルバム『Scratch or Stitch』は、[スティーヴ・アルビニ](https://ja.wikipedia.org/wiki/スティーヴ・アルビニ "wikilink")と[ジム・オルークとの共同作業により制作された](../Page/ジム・オルーク_\(ミュージシャン\).md "wikilink")\[2\]。
+[1994年](../Page/1994年.md "wikilink")に初の音源をリリース。当時のメンバーはYasuko O.（Yako／ボーカル）、Agata（ギター）、Rika（ベース）、須藤俊明（ドラムス）の4人。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")のアルバム『Scratch or Stitch』は、[スティーヴ・アルビニ](../Page/スティーヴ・アルビニ.md "wikilink")と[ジム・オルークとの共同作業により制作された](../Page/ジム・オルーク_\(ミュージシャン\).md "wikilink")\[2\]。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に須藤が脱退\[3\]。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にWatchmanがドラマーとして加入\[4\]。[1999年](../Page/1999年.md "wikilink")には[ジョン・ゾーン](../Page/ジョン・ゾーン.md "wikilink")のレーベル「Tzadik」からアルバム『MxBx 1998/13,000 Miles at Light Velocity』を発表した\[5\]。
 
@@ -13,11 +13,11 @@
 
 [2001年](../Page/2001年.md "wikilink")、Watchmanが脱退し\[10\]、以後、ゲスト・ドラマーを迎えての活動となった\[11\]。海外ツアーにはのオリジナル・メンバーであったがツアー・メンバーとして参加し\[12\]、[2003年](../Page/2003年.md "wikilink")に『Cell-Scape』\[13\]をリリースした。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、シングル集「13 Hedgehogs (MxBx Singles 1994–1999)」をリリース。これは[1994年](../Page/1994年.md "wikilink")から[1999年](../Page/1999年.md "wikilink")の間に発売された13枚の[スプリット盤](https://ja.wikipedia.org/wiki/スプリット盤 "wikilink")を含む、5インチ、7インチ、10インチの[シングル・レコードをまとめたものである](../Page/レコード.md "wikilink")\[14\]\[15\]。
+[2005年](../Page/2005年.md "wikilink")、シングル集「13 Hedgehogs (MxBx Singles 1994–1999)」をリリース。これは[1994年](../Page/1994年.md "wikilink")から[1999年](../Page/1999年.md "wikilink")の間に発売された13枚の[スプリット盤](https://ja.wikipedia.org/wiki/スプリット盤 "wikilink")を含む、5インチ、7インチ、10インチの[シングル・レコードをまとめたものである](../Page/レコード.md "wikilink")\[14\]\[15\]。
 
-[2007年](../Page/2007年.md "wikilink")に、『Bambi's Dilemma』をリリースし\[16\]、同年のアメリカ・ツアーでは、[トゥールのアリーナ](https://ja.wikipedia.org/wiki/トゥール_\(バンド\) "wikilink")・ツアーにも同行した\[17\]。その後、ギターとベースに代わり[テルミン](../Page/テルミン.md "wikilink")、[サンプラー](../Page/サンプラー.md "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")が使われた楽曲を演奏するMELT-BANANA Liteでの活動も行う\[18\]\[19\]\[20\]。これらの曲は『Bambi's Dilemma』にも一部収録されていたが\[21\]、[2009年](../Page/2009年.md "wikilink")に、そのライブを収録した作品である『MELT-BANANA Lite LIVE ver.0.0』を発表した\[22\]。
+[2007年](../Page/2007年.md "wikilink")に、『Bambi's Dilemma』をリリースし\[16\]、同年のアメリカ・ツアーでは、[トゥールのアリーナ](../Page/トゥール_\(バンド\).md "wikilink")・ツアーにも同行した\[17\]。その後、ギターとベースに代わり[テルミン](../Page/テルミン.md "wikilink")、[サンプラー](../Page/サンプラー.md "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")が使われた楽曲を演奏するMELT-BANANA Liteでの活動も行う\[18\]\[19\]\[20\]。これらの曲は『Bambi's Dilemma』にも一部収録されていたが\[21\]、[2009年](../Page/2009年.md "wikilink")に、そのライブを収録した作品である『MELT-BANANA Lite LIVE ver.0.0』を発表した\[22\]。
 
-[2012年](../Page/2012年.md "wikilink")の夏よりYakoとAgataの2人編成となる\[23\]。[2013年](../Page/2013年.md "wikilink")に6年ぶりのスタジオ・アルバム『Fetch』を発表し\[24\]、同アルバムは『[ローリング・ストーン](https://ja.wikipedia.org/wiki/ローリング・ストーン "wikilink")』誌が選出した「20 Best Metal Albums of 2013」で17位にランク・インした\[25\]。
+[2012年](../Page/2012年.md "wikilink")の夏よりYakoとAgataの2人編成となる\[23\]。[2013年](../Page/2013年.md "wikilink")に6年ぶりのスタジオ・アルバム『Fetch』を発表し\[24\]、同アルバムは『[ローリング・ストーン](../Page/ローリング・ストーン.md "wikilink")』誌が選出した「20 Best Metal Albums of 2013」で17位にランク・インした\[25\]。
 
 ## 作品
 

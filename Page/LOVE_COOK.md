@@ -1,20 +1,20 @@
 > この記事は[LOVE COOK](https://ja.wikipedia.org/wiki/LOVE_COOK)から翻訳されています。
 
 
-『**LOVE COOK**』（ラヴ・クック）は、[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")の3作目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月14日](../Page/12月14日.md "wikilink")発売。[エイベックスよりリリースされた](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
+『**LOVE COOK**』（ラヴ・クック）は、[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")の3作目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")発売。[エイベックスよりリリースされた](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
 
 ## 解説
 
   - 「[CDのみ](../Page/コンパクトディスク.md "wikilink")」・「CD+[DVD](../Page/DVD-Video.md "wikilink")」・「CD＋大塚愛フォトブック」（初回生産限定）・「CD＋大塚愛描き下ろし[絵本](../Page/絵本.md "wikilink")」（初回生産限定）の4形態での発売。
   - ジャケット[写真](../Page/写真.md "wikilink")は3種類あり、通常盤（「CD」･「CD＋DVD」）、「CD＋フォトブック」、「CD＋絵本」の3パターンでそれぞれ異なる。なお初回盤の歌詞カードのジャケットは通常盤ジャケットと同じである。
-  - 前作『[LOVE JAM](https://ja.wikipedia.org/wiki/LOVE_JAM "wikilink")』に続き2作連続で[オリコンウィークリーチャート初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を記録した。
+  - 前作『[LOVE JAM](../Page/LOVE_JAM.md "wikilink")』に続き2作連続で[オリコンウィークリーチャート初登場](../Page/オリコンチャート.md "wikilink")1位を記録した。
 
 <!-- end list -->
 
   - 総出荷枚数が100万枚を超えたため、「100万枚突破\!」という金色のシールが貼られている\[1\]。2010年現在、シングル、アルバム通じ彼女の作品では最大の売り上げを記録している。
   - アルバムの曲順は一日の流れを意識して決定された。歌詞カードの各ページには空の写真が印刷されており、太陽の位置や空模様が時系列順に変化している。
   - 前2作のアルバムがカラフルで攻撃的であったこと、また大塚愛＝明るくてカワイイというイメージが一人歩きしていて、本人も相当苦しかったらしい。しかしアレンジャーである[Ikoman](../Page/Ikoman.md "wikilink")に「暗い曲ばかりのアルバムでもいいんじゃない？今、暗いんだから、自分。」と言われ吹っ切れたらしい。
-  - 「羽ありたまご」「U-ボート」「BirthdaySong」「LOVE MUSIC」のレコーディングには、[GO\!GO\!7188](https://ja.wikipedia.org/wiki/GO!GO!7188 "wikilink")のターキーが[ドラムとして参加している](../Page/ドラムセット.md "wikilink")。
+  - 「羽ありたまご」「U-ボート」「BirthdaySong」「LOVE MUSIC」のレコーディングには、[GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")のターキーが[ドラムとして参加している](../Page/ドラムセット.md "wikilink")。
 
 ## 収録曲
 
@@ -25,7 +25,7 @@
 1.  **5:09a.m.** (2:52)
 2.  **羽ありたまご** (4:58)
       -
-        13thシングル『[恋愛写真](https://ja.wikipedia.org/wiki/恋愛写真 "wikilink")』に「羽ありたまご(Live version)」が収録されている。
+        13thシングル『[恋愛写真](../Page/恋愛写真.md "wikilink")』に「羽ありたまご(Live version)」が収録されている。
 3.  **[ビー玉](https://ja.wikipedia.org/wiki/SMILY/ビー玉 "wikilink")** (4:06)
       -
         8thシングル「SMILY／ビー玉」の2曲目。
@@ -34,9 +34,9 @@
         8thシングル「SMILY／ビー玉」の1曲目。
 5.  **U-ボート** (4:42)
       -
-        「[明光義塾](https://ja.wikipedia.org/wiki/明光義塾 "wikilink")」2006年・TVCMソング。
+        「[明光義塾](../Page/明光義塾.md "wikilink")」2006年・TVCMソング。
         「[TBS](../Page/TBSテレビ.md "wikilink")[ニューイヤー駅伝](https://ja.wikipedia.org/wiki/ニューイヤー駅伝 "wikilink")2006 第50回[全日本実業団駅伝](https://ja.wikipedia.org/wiki/全日本実業団駅伝 "wikilink")」イメージソング。
-        次作のオリジナルアルバム「[LOVE PiECE](../Page/LOVE_PiECE.md "wikilink")」の初回版DVDに[PVが収録されている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+        次作のオリジナルアルバム「[LOVE PiECE](../Page/LOVE_PiECE.md "wikilink")」の初回版DVDに[PVが収録されている](../Page/ミュージック・ビデオ.md "wikilink")。
 6.  **[ネコに風船](../Page/ネコに風船.md "wikilink")** (5:13)
       -
         9thシングル。
@@ -60,7 +60,7 @@
 
 ### DVD
 
-1.  ビー玉 ([Music Clip](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink"))
+1.  ビー玉 ([Music Clip](../Page/ミュージック・ビデオ.md "wikilink"))
 2.  Cherish (Music Clip)
 
 ## 脚注

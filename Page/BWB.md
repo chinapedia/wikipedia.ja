@@ -5,7 +5,7 @@
 
 ## 概要・来歴
 
-[2002年](../Page/2002年.md "wikilink")に[ワーナー・ブラザース・レコード](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・レコード "wikilink")からアルバム『グルーヴィン』でデビュー。。また、[リッキー・ピーターソン](https://ja.wikipedia.org/wiki/リッキー・ピーターソン "wikilink")が[プロデューサーを担当している](../Page/音楽プロデューサー.md "wikilink")。
+[2002年](../Page/2002年.md "wikilink")に[ワーナー・ブラザース・レコード](../Page/ワーナー・ブラザース・レコード.md "wikilink")からアルバム『グルーヴィン』でデビュー。。また、[リッキー・ピーターソン](https://ja.wikipedia.org/wiki/リッキー・ピーターソン "wikilink")が[プロデューサーを担当している](../Page/音楽プロデューサー.md "wikilink")。
 
 ## ディスコグラフィ
 

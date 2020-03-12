@@ -5,15 +5,15 @@
 
 ## 解説
 
-1987年2月26日発売の同名の4枚目の[アルバム](../Page/アルバム.md "wikilink")『[Self Control](https://ja.wikipedia.org/wiki/Self_Control_\(TM_NETWORKのアルバム\) "wikilink")』の先行シングルとしてリリース。もともとシングルとして作った曲ではなかったが、[CBSソニー出版の音楽雑誌](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")『[Gb](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』の担当者の一押しにより、シングルリリースが決まる\[1\]。
+1987年2月26日発売の同名の4枚目の[アルバム](../Page/アルバム.md "wikilink")『[Self Control](../Page/Self_Control_\(TM_NETWORKのアルバム\).md "wikilink")』の先行シングルとしてリリース。もともとシングルとして作った曲ではなかったが、[CBSソニー出版の音楽雑誌](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")『[Gb](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』の担当者の一押しにより、シングルリリースが決まる\[1\]。
 
-結果としてそれが功を奏し、この曲でテレビ番組『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』（[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")）に初出演を果たし、ブレイクのきっかけを作り、次の「[Get Wild](../Page/Get_Wild.md "wikilink")」につながる布石となっている。[イントロの](../Page/導入部.md "wikilink")[リフ](https://ja.wikipedia.org/wiki/リフ "wikilink")がそのまま[サビ](../Page/サビ.md "wikilink")の[メロディー](https://ja.wikipedia.org/wiki/メロディー "wikilink")となっている。また歌詞には「[アダムとイブ](https://ja.wikipedia.org/wiki/アダムとイヴ "wikilink")」、「[ボニー&クライド](../Page/ボニーとクライド.md "wikilink")」を取り上げている。
+結果としてそれが功を奏し、この曲でテレビ番組『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』（[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")）に初出演を果たし、ブレイクのきっかけを作り、次の「[Get Wild](../Page/Get_Wild.md "wikilink")」につながる布石となっている。[イントロの](../Page/導入部.md "wikilink")[リフ](../Page/リフ.md "wikilink")がそのまま[サビ](../Page/サビ.md "wikilink")の[メロディー](https://ja.wikipedia.org/wiki/メロディー "wikilink")となっている。また歌詞には「[アダムとイブ](https://ja.wikipedia.org/wiki/アダムとイヴ "wikilink")」、「[ボニー&クライド](../Page/ボニーとクライド.md "wikilink")」を取り上げている。
 
 サビのラジオボイスは、木根の声を[サンプリング](../Page/サンプリング.md "wikilink")したものであり、宇都宮・小室も試してみたが一番しっくり来たものは木根の声だという\[2\]。またこの作品のジャケットでは[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")がサングラスをはずしている。
 
 アルバム収録版では[アウトロ](../Page/アウトロ.md "wikilink")はカットアウトで[シンセ](../Page/シンセサイザー.md "wikilink")[ブラスの](../Page/金管楽器.md "wikilink")[和音](../Page/和音.md "wikilink")で終わっているが、シングル収録版は[フェードアウト](https://ja.wikipedia.org/wiki/フェードアウト "wikilink")に変更されボーカルの収録テイクが異なっている。[カップリングのInstrumental](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink") Mixではフェードアウトせずにアルバムバージョンのインストであり、またサビのラジオボイスを含め[コーラスも消されてオリジナル](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")・カラオケではなく純然たる[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")となっている。
 
-後に発売されたシングル「[10 YEARS AFTER](https://ja.wikipedia.org/wiki/10_YEARS_AFTER_\(TM_NETWORKの曲\) "wikilink")」では、表題曲はアウトロがカットアウトで、カップリングのインスト版ではフェードアウトしており、このシングルとは逆の構成になっている。
+後に発売されたシングル「[10 YEARS AFTER](../Page/10_YEARS_AFTER_\(TM_NETWORKの曲\).md "wikilink")」では、表題曲はアウトロがカットアウトで、カップリングのインスト版ではフェードアウトしており、このシングルとは逆の構成になっている。
 
 2014年4月14日放送の『[僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）\#498、「僕らの小室哲哉」内で、小田原豊（ドラムス）、鳥山雄司が演奏に参加した\[3\]\[4\]。
 
@@ -30,17 +30,17 @@
 
 **Self Control（方舟に曳かれて）**
 
-  - [Self Control](https://ja.wikipedia.org/wiki/Self_Control_\(TM_NETWORKのアルバム\) "wikilink") (アルバムバージョン)
-  - [Gift for Fanks](https://ja.wikipedia.org/wiki/Gift_for_Fanks "wikilink") (アルバムバージョン)
-  - [COLLOSSEUM I](https://ja.wikipedia.org/wiki/TMN_COLOSSEUM "wikilink") (ライブバージョン)
+  - [Self Control](../Page/Self_Control_\(TM_NETWORKのアルバム\).md "wikilink") (アルバムバージョン)
+  - [Gift for Fanks](../Page/Gift_for_Fanks.md "wikilink") (アルバムバージョン)
+  - [COLLOSSEUM I](../Page/TMN_COLOSSEUM.md "wikilink") (ライブバージョン)
   - [GROOVE GEAR 1984-1994](../Page/GROOVE_GEAR_1984-1994.md "wikilink") (ライブバージョン)
-  - [TETSUYA KOMURO PRESENTS TMN BLACK](https://ja.wikipedia.org/wiki/TETSUYA_KOMURO_PRESENTS_TMN_BLACK "wikilink")
-  - [TMN final live LAST GROOVE 5.18](https://ja.wikipedia.org/wiki/TMN_final_live_LAST_GROOVE "wikilink") (ライブバージョン)
-  - [TIME CAPSULE all the singles](https://ja.wikipedia.org/wiki/TIME_CAPSULE_all_the_singles "wikilink")
-  - [STAR BOX TM NETWORK](https://ja.wikipedia.org/wiki/STAR_BOX_TM_NETWORK "wikilink")
+  - [TETSUYA KOMURO PRESENTS TMN BLACK](../Page/TETSUYA_KOMURO_PRESENTS_TMN_BLACK.md "wikilink")
+  - [TMN final live LAST GROOVE 5.18](../Page/TMN_final_live_LAST_GROOVE.md "wikilink") (ライブバージョン)
+  - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
+  - [STAR BOX TM NETWORK](../Page/STAR_BOX_TM_NETWORK.md "wikilink")
   - [BEST TRACKS ～A message to the next generation～](https://ja.wikipedia.org/wiki/BEST_TRACKS_～A_message_to_the_next_generation～ "wikilink")
-  - [THE LEGEND TM NETWORK](https://ja.wikipedia.org/wiki/THE_LEGEND_\(TM_NETWORKのアルバム\) "wikilink")
-  - [Welcome to the FANKS\!](https://ja.wikipedia.org/wiki/Welcome_to_the_FANKS! "wikilink") (Disc 2にオリジナルのアルバムバージョン、Disc 3にライブバージョンが収録)
+  - [THE LEGEND TM NETWORK](../Page/THE_LEGEND_\(TM_NETWORKのアルバム\).md "wikilink")
+  - [Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink") (Disc 2にオリジナルのアルバムバージョン、Disc 3にライブバージョンが収録)
   - [TM NETWORK THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink") (Disc 1にオリジナル、Disc 2にライブバージョンが収録)
   - [TM NETWORK BEST OF BEST](../Page/TM_NETWORK_BEST_OF_BEST.md "wikilink")
   - [TM NETWORK SUPER BEST](../Page/TM_NETWORK_SUPER_BEST.md "wikilink")
@@ -48,7 +48,7 @@
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (Instrumental Mix、但しフェードアウト版で収録)
   - [TAKASHI UTSUNOMIYA ORIGINAL SINGLES 1992-2003](https://ja.wikipedia.org/wiki/TAKASHI_UTSUNOMIYA_ORIGINAL_SINGLES_1992-2003 "wikilink") (セルフカバー)
   - [DRESS2](https://ja.wikipedia.org/wiki/DRESS2 "wikilink") (Self Control 2014)
-  - [Gift from Fanks M](https://ja.wikipedia.org/wiki/Gift_from_Fanks_M "wikilink")
+  - [Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")
 
 ## その他
 

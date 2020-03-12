@@ -1,7 +1,7 @@
 > この記事は[XR](https://ja.wikipedia.org/wiki/XR)から翻訳されています。
 
 
-**ゴールドXR**は、[2003年](../Page/2003年.md "wikilink")に[ミズホ](https://ja.wikipedia.org/wiki/ミズホ "wikilink")が開発・販売した[Cタイプ](https://ja.wikipedia.org/wiki/パチスロ用語の一覧 "wikilink")[パチスロ](../Page/パチスロ.md "wikilink")・非[ストック機](https://ja.wikipedia.org/wiki/ストック機 "wikilink")である。
+**ゴールドXR**は、[2003年](../Page/2003年.md "wikilink")に[ミズホ](https://ja.wikipedia.org/wiki/ミズホ "wikilink")が開発・販売した[Cタイプ](../Page/パチスロ用語の一覧.md "wikilink")[パチスロ](../Page/パチスロ.md "wikilink")・非[ストック機](../Page/ストック機.md "wikilink")である。
 
 ## 概要
 

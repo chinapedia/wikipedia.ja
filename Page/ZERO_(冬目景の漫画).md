@@ -1,13 +1,13 @@
 > この記事は[ZERO \(\)](https://ja.wikipedia.org/wiki/ZERO_\(\))から翻訳されています。
 
 
-『**ZERO**』（ゼロ）は、[冬目景](https://ja.wikipedia.org/wiki/冬目景 "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。
+『**ZERO**』（ゼロ）は、[冬目景](../Page/冬目景.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。
 
 ## 概要
 
-『[コミックバーズ](https://ja.wikipedia.org/wiki/コミックバーズ "wikilink")』の前身である『コミックバーガー』（[スコラ](https://ja.wikipedia.org/wiki/スコラ "wikilink")）の[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")2月号から同年4月号まで連載された、冬目景の初長編作品。
+『[コミックバーズ](https://ja.wikipedia.org/wiki/コミックバーズ "wikilink")』の前身である『コミックバーガー』（[スコラ](../Page/スコラ.md "wikilink")）の[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")2月号から同年4月号まで連載された、冬目景の初長編作品。
 
-当初はスコラより1995年4月にバーガーコミックスとして[単行本](../Page/単行本.md "wikilink")が発行されたが、スコラ社が倒産し版権が[ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")に移譲したことにより、表紙やあとがきなどを新たに描き下ろしてソニー・マガジンズより[1999年](../Page/1999年.md "wikilink")10月にバーズコミックスとして単行本が再発行された。その後ソニー・マガジンズが『コミックバーズ』も含むコミック事業を[幻冬舎](https://ja.wikipedia.org/wiki/幻冬舎 "wikilink")に譲渡することとなり、表紙や内容、レーベルはそのままで[幻冬舎コミックス](https://ja.wikipedia.org/wiki/幻冬舎コミックス "wikilink")より[2002年](../Page/2002年.md "wikilink")1月に単行本が再々発行された。
+当初はスコラより1995年4月にバーガーコミックスとして[単行本](../Page/単行本.md "wikilink")が発行されたが、スコラ社が倒産し版権が[ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")に移譲したことにより、表紙やあとがきなどを新たに描き下ろしてソニー・マガジンズより[1999年](../Page/1999年.md "wikilink")10月にバーズコミックスとして単行本が再発行された。その後ソニー・マガジンズが『コミックバーズ』も含むコミック事業を[幻冬舎](../Page/幻冬舎.md "wikilink")に譲渡することとなり、表紙や内容、レーベルはそのままで[幻冬舎コミックス](../Page/幻冬舎コミックス.md "wikilink")より[2002年](../Page/2002年.md "wikilink")1月に単行本が再々発行された。
 
 『コミックバーガー』および『コミックバーズ』の版権の移譲の詳細については「[コミックバーズ](https://ja.wikipedia.org/wiki/コミックバーズ "wikilink")」の項目を参照のこと。
 

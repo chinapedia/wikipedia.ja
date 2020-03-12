@@ -1,7 +1,7 @@
 > この記事は[Make Progress](https://ja.wikipedia.org/wiki/Make_Progress)から翻訳されています。
 
 
-『**Make Progress**』（メイク・プログレス）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月11日](../Page/5月11日.md "wikilink")に発売された[玉置成実](../Page/玉置成実.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。発売元は[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")。
+『**Make Progress**』（メイク・プログレス）は、[2005年](../Page/2005年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")に発売された[玉置成実](../Page/玉置成実.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。発売元は[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")。
 
 ## 解説
 
@@ -13,7 +13,7 @@
 
 ## 記録
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月23日](../Page/5月23日.md "wikilink")付のオリコン週間アルバムチャートで9.2万枚を売り上げ第1位を獲得。自身初の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位となった。
+[2005年](../Page/2005年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")付のオリコン週間アルバムチャートで9.2万枚を売り上げ第1位を獲得。自身初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位となった。
 
 ## 収録曲
 
@@ -25,7 +25,7 @@
 2.  **[Reason](../Page/Reason_\(玉置成実の曲\).md "wikilink")**
       -
         6th[シングル](../Page/シングル.md "wikilink")。
-        「[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")」第1クール EDテーマ
+        「[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")」第1クール EDテーマ
 3.  **Daybreak**
       -
         （作詞：西田恵美／作曲：[m-takeshi](https://ja.wikipedia.org/wiki/m-takeshi "wikilink")／編曲：m-takeshi、[橋本茂昭](https://ja.wikipedia.org/wiki/橋本茂昭 "wikilink")）
@@ -48,7 +48,7 @@
 8.  **[Heroine](../Page/Heroine_\(玉置成実の曲\).md "wikilink")**
       -
         8thシングル。
-        [NTV系](../Page/日本テレビ放送網.md "wikilink")「[@サプリッ\!](https://ja.wikipedia.org/wiki/@サプリッ! "wikilink")」[浜口順子](https://ja.wikipedia.org/wiki/浜口順子 "wikilink")[青梅マラソン](https://ja.wikipedia.org/wiki/青梅マラソン "wikilink")応援歌。
+        [NTV系](../Page/日本テレビ放送網.md "wikilink")「[@サプリッ\!](../Page/@サプリッ!.md "wikilink")」[浜口順子](../Page/浜口順子.md "wikilink")[青梅マラソン](../Page/青梅マラソン.md "wikilink")応援歌。
 9.  **暗闇物語**
       -
         （作詞・作曲・編曲：[富樫明生](https://ja.wikipedia.org/wiki/富樫明生 "wikilink")）

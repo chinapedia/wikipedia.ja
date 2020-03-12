@@ -1,7 +1,7 @@
 > この記事は[Greeting](https://ja.wikipedia.org/wiki/Greeting)から翻訳されています。
 
 
-『**Greeting**』（グリーティング）は、[2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")に発売された[玉置成実](../Page/玉置成実.md "wikilink")の1枚目のアルバム。発売元は[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")。
+『**Greeting**』（グリーティング）は、[2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に発売された[玉置成実](../Page/玉置成実.md "wikilink")の1枚目のアルバム。発売元は[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")。
 
 ## 概要
 
@@ -16,15 +16,15 @@
 
 1.  **Eternal Voice**（作詞:[川村サイコ](https://ja.wikipedia.org/wiki/川村サイコ "wikilink")／作曲:[鈴木大輔](https://ja.wikipedia.org/wiki/鈴木大輔_\(ミュージシャン\) "wikilink")／編曲:[ats-](https://ja.wikipedia.org/wiki/ats- "wikilink")）
       -
-        作曲に元[day after tomorrowの鈴木大輔](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")、編曲に元[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")のats-を迎えた。
+        作曲に元[day after tomorrowの鈴木大輔](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")、編曲に元[HΛL](../Page/HΛL.md "wikilink")のats-を迎えた。
 2.  **[Believe](../Page/Believe_\(玉置成実の曲\).md "wikilink")**
       -
         1stシングル「Believe」収録。
-3.  **day by day**（作詞・作曲:[BOUNCEBACK](https://ja.wikipedia.org/wiki/BOUNCEBACK "wikilink")／編曲:[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")）
+3.  **day by day**（作詞・作曲:[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink")／編曲:[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")）
 4.  **[Complete](../Page/Believe_\(玉置成実の曲\).md "wikilink")**
       -
         1stシングル「Believe」収録。
-5.  **Be Positive (光の中で輝いて)**（作詞:[西田恵美](https://ja.wikipedia.org/wiki/西田恵美 "wikilink")、玉置成実／作曲:[m-takeshi](https://ja.wikipedia.org/wiki/m-takeshi "wikilink")／編曲:[中西亮輔](https://ja.wikipedia.org/wiki/中西亮輔 "wikilink")、m-takeshi）
+5.  **Be Positive (光の中で輝いて)**（作詞:[西田恵美](https://ja.wikipedia.org/wiki/西田恵美 "wikilink")、玉置成実／作曲:[m-takeshi](https://ja.wikipedia.org/wiki/m-takeshi "wikilink")／編曲:[中西亮輔](../Page/中西亮輔.md "wikilink")、m-takeshi）
       -
         共作ながら玉置成実初作詞作品。
 6.  **[NEVER STOP MY HEART-君という奇跡に-](../Page/Prayer_\(玉置成実の曲\).md "wikilink")**
@@ -37,7 +37,7 @@
       -
         2ndシングル「Realize」収録。
 9.  **Naked**（作詞:[mavie](https://ja.wikipedia.org/wiki/mavie "wikilink")／作曲:[小林洋介](https://ja.wikipedia.org/wiki/小林洋介 "wikilink")／編曲:[齋藤真也](https://ja.wikipedia.org/wiki/斎藤真也 "wikilink")）
-10. **Destiny**（作詞:[飯塚麻純](https://ja.wikipedia.org/wiki/飯塚麻純 "wikilink")／作曲・編曲：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")）
+10. **Destiny**（作詞:[飯塚麻純](https://ja.wikipedia.org/wiki/飯塚麻純 "wikilink")／作曲・編曲：[HΛL](../Page/HΛL.md "wikilink")）
 11. **[明日の君](../Page/Realize_\(玉置成実の曲\).md "wikilink")**
       -
         シングル「Realize」収録。

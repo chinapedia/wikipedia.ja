@@ -1,7 +1,7 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-『**かきこみTV**』（ -テレビ）は、[NHK教育テレビで放送された投稿型](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")[視聴者参加](https://ja.wikipedia.org/wiki/視聴者参加型番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
+『**かきこみTV**』（ -テレビ）は、[NHK教育テレビで放送された投稿型](../Page/NHK教育テレビジョン.md "wikilink")[視聴者参加](https://ja.wikipedia.org/wiki/視聴者参加型番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
 
 ## 概要
 
@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - 放送期間：[2003年](../Page/2003年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink") - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")
+  - 放送期間：[2003年](../Page/2003年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")
   - 放送時間：毎週[金曜日](../Page/金曜日.md "wikilink") 19:00 - 19:45([JST](../Page/日本標準時.md "wikilink"))
 
 <!-- end list -->
@@ -43,8 +43,8 @@
 
 <!-- end list -->
 
-  - [ROLLY](https://ja.wikipedia.org/wiki/ROLLY "wikilink")
-  - [黒崎めぐみ](https://ja.wikipedia.org/wiki/黒崎めぐみ "wikilink")（NHKアナウンサー）
+  - [ROLLY](../Page/ROLLY.md "wikilink")
+  - [黒崎めぐみ](../Page/黒崎めぐみ.md "wikilink")（NHKアナウンサー）
 
 <!-- end list -->
 
@@ -53,7 +53,7 @@
 <!-- end list -->
 
   - ROLLY
-  - [安部みちこ](https://ja.wikipedia.org/wiki/安部みちこ "wikilink")（NHKアナウンサー）
+  - [安部みちこ](../Page/安部みちこ.md "wikilink")（NHKアナウンサー）
 
 <!-- end list -->
 
@@ -62,7 +62,7 @@
 <!-- end list -->
 
   - ROLLY
-  - [與芝由三栄](https://ja.wikipedia.org/wiki/與芝由三栄 "wikilink")（NHKアナウンサー）
+  - [與芝由三栄](../Page/與芝由三栄.md "wikilink")（NHKアナウンサー）
 
 <!-- end list -->
 
@@ -71,21 +71,21 @@
 <!-- end list -->
 
   - ROLLY（「かきこみLIVE」も担当）
-  - [與芝由三栄](https://ja.wikipedia.org/wiki/與芝由三栄 "wikilink")（NHKアナウンサー、言わせて掲示板管理人も担当）
+  - [與芝由三栄](../Page/與芝由三栄.md "wikilink")（NHKアナウンサー、言わせて掲示板管理人も担当）
 
 ### 司会者（土曜かきこみTV時代）
 
 以下は掲示板の管理権限は無いが、番組ではコメンテーター的立場で出演。
 
   - ROLLY
-  - [山本晋也](https://ja.wikipedia.org/wiki/山本晋也 "wikilink")
-  - [金田美香](https://ja.wikipedia.org/wiki/金田美香 "wikilink")
+  - [山本晋也](../Page/山本晋也.md "wikilink")
+  - [金田美香](../Page/金田美香.md "wikilink")
   - 小俣のおっちゃん（お笑い掲示板「ダジャレでGO\!」のVTRで登場。長らく素性が謎とされていたが、NHKのテレビカメラマンであることが番組内で明かされた）
 
 ### ナレーター
 
-  - [安井邦彦](https://ja.wikipedia.org/wiki/安井邦彦 "wikilink")
-  - [浅田葉子](https://ja.wikipedia.org/wiki/浅田葉子 "wikilink")
+  - [安井邦彦](../Page/安井邦彦.md "wikilink")
+  - [浅田葉子](../Page/浅田葉子.md "wikilink")
 
 ## 掲示板一覧
 
@@ -111,11 +111,11 @@
 
 ### 出るデル掲示板
 
-  - デル友（[金田美香](https://ja.wikipedia.org/wiki/金田美香 "wikilink")）
+  - デル友（[金田美香](../Page/金田美香.md "wikilink")）
     テレビに「出たい」「出したい」という人の情報を募集する掲示板。この掲示板の書き込みで、「これぞ」というかきこみが取材される。
-  - 山本カントクのおじゃましまーす（[山本晋也](https://ja.wikipedia.org/wiki/山本晋也 "wikilink")）
+  - 山本カントクのおじゃましまーす（[山本晋也](../Page/山本晋也.md "wikilink")）
     映画監督の山本晋也が、新小学5年生〜中学3年生の自宅を訪ね、自慢の部屋や、趣味のコレクション、生活について、語り合うコーナー。デル友同様、これぞという書き込みが取材される。
-  - ガッチャレ（[藤村ちか](https://ja.wikipedia.org/wiki/藤村ちか "wikilink")・[藤井悠](https://ja.wikipedia.org/wiki/藤井悠 "wikilink")）
+  - ガッチャレ（[藤村ちか](https://ja.wikipedia.org/wiki/藤村ちか "wikilink")・[藤井悠](../Page/藤井悠.md "wikilink")）
     掲示板で遊び・ゲーム等を募集し、採用された遊び・ゲームを全国の小中学生がチャレンジするコーナー。放送では、ゲームの紹介の後、全国の小中学校を管理人が訪問し、ゲームに参加する。2004年度にて終了。
 
 <!-- end list -->
@@ -126,7 +126,7 @@
             30秒以内にできるだけしりとりをする。ただし、直前に設定された「N字」を含めた単語を言った場合はその時点で失敗。また、通常のしりとりの反則（最後に『ん』をつける、同じ単語を言う、しりとりとして不適切な言葉を言う\[1\]）を行っても失敗。30秒経過か失敗で終了し、失敗の原因となった単語を除くしりとりの回数が記録となる。
       - ハシダス5
           - このゲームのみ3人1組で挑戦（他のゲームは多人数で挑戦することのみが義務付けられており、人数に制限はない）。
-          - ボウルが2つ用意され、片方の中に物が5個入っている。チャレンジャーは[箸](../Page/箸.md "wikilink")でその物を時間内にもう片方のボウルの中に移す。物は当初は[ゴム](../Page/ゴム.md "wikilink")[ボール](https://ja.wikipedia.org/wiki/ボール "wikilink")（最も大きいため一番楽）・[ピンポン玉](https://ja.wikipedia.org/wiki/ピンポン玉 "wikilink")（大きさはあるが軽いため感覚をつかみにくい）・[さいころ](https://ja.wikipedia.org/wiki/さいころ "wikilink")（大きさは中ぐらいで、四角いため難易度は低め）・[クリップ](https://ja.wikipedia.org/wiki/クリップ "wikilink")（小さいためつかむのが困難）・[碁石](../Page/碁石.md "wikilink")（小さい上非常に滑りやすいので難易度が高い）の五種類だったが、後に[画鋲](https://ja.wikipedia.org/wiki/画鋲 "wikilink")（小さいが、針の部分をつかめば楽）が追加され6種類になった。
+          - ボウルが2つ用意され、片方の中に物が5個入っている。チャレンジャーは[箸](../Page/箸.md "wikilink")でその物を時間内にもう片方のボウルの中に移す。物は当初は[ゴム](../Page/ゴム.md "wikilink")[ボール](../Page/ボール.md "wikilink")（最も大きいため一番楽）・[ピンポン玉](https://ja.wikipedia.org/wiki/ピンポン玉 "wikilink")（大きさはあるが軽いため感覚をつかみにくい）・[さいころ](https://ja.wikipedia.org/wiki/さいころ "wikilink")（大きさは中ぐらいで、四角いため難易度は低め）・[クリップ](../Page/クリップ.md "wikilink")（小さいためつかむのが困難）・[碁石](../Page/碁石.md "wikilink")（小さい上非常に滑りやすいので難易度が高い）の五種類だったが、後に[画鋲](../Page/画鋲.md "wikilink")（小さいが、針の部分をつかめば楽）が追加され6種類になった。
           - 上記5種類（後期は6種類）の物からランダムに3種類が選ばれ、1人ずつ1種類（5個）の物を移していく。制限時間は1分で、制限時間内に全て移し終えられれば経過秒数が、移し終えられなければ移した個数が記録となる。
       - しりとりビンゴ
           - ランダムに選ばれた9文字が3×3の升目に配置されている。プレイヤーはしりとりをしていき、その升目に含まれている文字をできるだけ使ってしりとりをする。
@@ -135,8 +135,8 @@
 
 ### お笑い掲示板
 
-  - お笑いを書き込む掲示板。現在は“略語でドン\!”と“ダジャレでゴー\!”と”漢字はこう読め”と”言ってるつもり?”と“勝手にコマーシャル”と“マイ格言”を募集していて、[ますだおかだ](https://ja.wikipedia.org/wiki/ますだおかだ "wikilink")が演じる**B\&S**(ビー・アンド・エス)が管理人。
-  - ますだおかだは番組開始から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月までは、「ボケル・スベル」として出演していた。
+  - お笑いを書き込む掲示板。現在は“略語でドン\!”と“ダジャレでゴー\!”と”漢字はこう読め”と”言ってるつもり?”と“勝手にコマーシャル”と“マイ格言”を募集していて、[ますだおかだ](../Page/ますだおかだ.md "wikilink")が演じる**B\&S**(ビー・アンド・エス)が管理人。
+  - ますだおかだは番組開始から[2005年](../Page/2005年.md "wikilink")3月までは、「ボケル・スベル」として出演していた。
   - 2006年6月17日には掲示板担当者が大古滋久ディレクターと判明。
 
 ### アート掲示板
@@ -158,8 +158,8 @@
 
 ## その他
 
-  - 2004年4月からは、前枠の番組『[天才ビットくん](https://ja.wikipedia.org/wiki/天才ビットくん "wikilink")』の後、[ジャンクション](https://ja.wikipedia.org/wiki/ジャンクション "wikilink")として、ROLLYが天才ビットくんの映っているTVモニターを見ながら番組宣伝をしているが、天才ビットくん内のアニメ『[魔法少女隊アルス](https://ja.wikipedia.org/wiki/魔法少女隊アルス "wikilink")』の総集編だった回でも、天才ビットくん（実写）のテレビ映像がそのモニターに映っていた回もあった。
-  - [地上デジタル放送の](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")[023ch（サブチャンネル3）では](https://ja.wikipedia.org/wiki/NHK教育テレビジョン#デジタル放送 "wikilink")、毎週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")22:00 - 22:45（JST）に20日前の放送が[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")されている。
+  - 2004年4月からは、前枠の番組『[天才ビットくん](https://ja.wikipedia.org/wiki/天才ビットくん "wikilink")』の後、[ジャンクション](https://ja.wikipedia.org/wiki/ジャンクション "wikilink")として、ROLLYが天才ビットくんの映っているTVモニターを見ながら番組宣伝をしているが、天才ビットくん内のアニメ『[魔法少女隊アルス](../Page/魔法少女隊アルス.md "wikilink")』の総集編だった回でも、天才ビットくん（実写）のテレビ映像がそのモニターに映っていた回もあった。
+  - [地上デジタル放送の](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")[023ch（サブチャンネル3）では](https://ja.wikipedia.org/wiki/NHK教育テレビジョン#デジタル放送 "wikilink")、毎週[木曜日](../Page/木曜日.md "wikilink")22:00 - 22:45（JST）に20日前の放送が[再放送](../Page/再放送.md "wikilink")されている。
 
 ## 脚注
 

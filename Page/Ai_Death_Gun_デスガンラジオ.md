@@ -1,20 +1,20 @@
 > この記事は[Ai Death Gun ](https://ja.wikipedia.org/wiki/Ai_Death_Gun_)から翻訳されています。
 
 
-**Ai Death Gun デスガンラジオ**（アイデス・ガン デスガンラジオ）は、[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")、[BEWE](https://ja.wikipedia.org/wiki/BEWE "wikilink")及び[ランティスウェブラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink")で配信されている[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")[番組](../Page/ラジオ番組.md "wikilink")。
+**Ai Death Gun デスガンラジオ**（アイデス・ガン デスガンラジオ）は、[音泉](../Page/音泉.md "wikilink")、[BEWE](../Page/BEWE.md "wikilink")及び[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")で配信されている[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")[番組](../Page/ラジオ番組.md "wikilink")。
 
-音泉では毎週[水曜日](../Page/水曜日.md "wikilink")、ランティスウェブラジオでは毎週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")に更新される。
+音泉では毎週[水曜日](../Page/水曜日.md "wikilink")、ランティスウェブラジオでは毎週[木曜日](../Page/木曜日.md "wikilink")に更新される。
 
 オリジナルドラマCD及び小説・漫画『Ai Death GUN』を応援する為の番組である。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月25日](../Page/12月25日.md "wikilink")配信の第116回を最後に番組終了し、現在は[ランティスウェブラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink")でのみ過去に配信された第112回から第116回までを聞く事が出来る。 最終回である第116回では時間を拡大して最終回スペシャルとして生電話企画が行われた。 リスナーと、パーソナリティの二人で答えを合わせる『一発で合いますガン・生電話』が実現。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月25日](../Page/12月25日.md "wikilink")配信の第116回を最後に番組終了し、現在は[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")でのみ過去に配信された第112回から第116回までを聞く事が出来る。 最終回である第116回では時間を拡大して最終回スペシャルとして生電話企画が行われた。 リスナーと、パーソナリティの二人で答えを合わせる『一発で合いますガン・生電話』が実現。
 
-[2009年](../Page/2009年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")には、第1回から第116回までのダイジェスト（新録部分も含む）として[DJCDが発売された](https://ja.wikipedia.org/wiki/ラジオCD "wikilink")。
+[2009年](../Page/2009年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")には、第1回から第116回までのダイジェスト（新録部分も含む）として[DJCDが発売された](../Page/ラジオCD.md "wikilink")。
 
 ## パーソナリティ
 
   - **[檜山修之](../Page/檜山修之.md "wikilink")**（鷺宮レイジ役）
-  - **[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")**（美嬢ヤシキ役）
+  - **[森川智之](../Page/森川智之.md "wikilink")**（美嬢ヤシキ役）
 
 ## コーナー
 
@@ -26,11 +26,11 @@
 
 ## ゲスト
 
-  - 第3回・第4回・35回・36回 [宮田幸季](https://ja.wikipedia.org/wiki/宮田幸季 "wikilink")
+  - 第3回・第4回・35回・36回 [宮田幸季](../Page/宮田幸季.md "wikilink")
   - 第10回 [井上和彦](../Page/井上和彦_\(声優\).md "wikilink")
-  - 第23回・第24回 [鳥海浩輔](https://ja.wikipedia.org/wiki/鳥海浩輔 "wikilink")
+  - 第23回・第24回 [鳥海浩輔](../Page/鳥海浩輔.md "wikilink")
   - 第25回・第26回 [斎賀みつき](../Page/斎賀みつき.md "wikilink")
-  - 第116回 井上和彦・宮田幸季・[宇垣秀成](https://ja.wikipedia.org/wiki/宇垣秀成 "wikilink")
+  - 第116回 井上和彦・宮田幸季・[宇垣秀成](../Page/宇垣秀成.md "wikilink")
 
 ## ドラマCD
 
@@ -70,10 +70,10 @@
 
   -
     鷺宮レイジ　/　[檜山修之](../Page/檜山修之.md "wikilink")
-    美嬢ヤシキ　/　[森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
-    高尾イオタ　/　[宮田幸季](https://ja.wikipedia.org/wiki/宮田幸季 "wikilink")
+    美嬢ヤシキ　/　[森川智之](../Page/森川智之.md "wikilink")
+    高尾イオタ　/　[宮田幸季](../Page/宮田幸季.md "wikilink")
     カルマル・水沼・シン　/　[井上和彦](../Page/井上和彦_\(声優\).md "wikilink")
-    大澤ムジカ　/　[本田貴子](https://ja.wikipedia.org/wiki/本田貴子 "wikilink")
+    大澤ムジカ　/　[本田貴子](../Page/本田貴子.md "wikilink")
     美嬢アオ　/　[斎賀みつき](../Page/斎賀みつき.md "wikilink")
 
 <!-- end list -->
@@ -84,7 +84,7 @@
 
   -
     アレス　/　[諏訪部順一](../Page/諏訪部順一.md "wikilink")
-    シュシュ　/　[保村真](https://ja.wikipedia.org/wiki/保村真 "wikilink")
+    シュシュ　/　[保村真](../Page/保村真.md "wikilink")
 
 <!-- end list -->
 
@@ -93,8 +93,8 @@
 <!-- end list -->
 
   -
-    エクストラ　/　[宇垣秀成](https://ja.wikipedia.org/wiki/宇垣秀成 "wikilink")
-    マイヤ　/　[鳥海浩輔](https://ja.wikipedia.org/wiki/鳥海浩輔 "wikilink")
+    エクストラ　/　[宇垣秀成](../Page/宇垣秀成.md "wikilink")
+    マイヤ　/　[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")
     ケラ　/　[岸尾大輔](../Page/岸尾だいすけ.md "wikilink")
     アルキオン　/　[鈴村健一](../Page/鈴村健一.md "wikilink")
     タイタ　/　[高橋広樹](../Page/高橋広樹.md "wikilink")

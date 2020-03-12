@@ -1,20 +1,20 @@
 > この記事は[Heroine \(\)](https://ja.wikipedia.org/wiki/Heroine_\(\))から翻訳されています。
 
 
-「**Heroine**」（ヒロイン）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")に発売された[玉置成実](../Page/玉置成実.md "wikilink")の8枚目のシングル。レーベルは[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")。
+「**Heroine**」（ヒロイン）は、[2005年](../Page/2005年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")に発売された[玉置成実](../Page/玉置成実.md "wikilink")の8枚目のシングル。レーベルは[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")。
 
 ## 収録曲
 
 1.  **Heroine**
       -
         作詞・作曲・編曲：[Shusui](https://ja.wikipedia.org/wiki/canna_\(音楽グループ\) "wikilink")・S.Engblom・A.Bellinder、日本語詞：西田恵美
-        [NTV系](../Page/日本テレビ放送網.md "wikilink")「[@サプリッ](https://ja.wikipedia.org/wiki/@サプリッ "wikilink")」[浜口順子](https://ja.wikipedia.org/wiki/浜口順子 "wikilink")[青梅マラソン](https://ja.wikipedia.org/wiki/青梅マラソン "wikilink")応援歌。CD帯には浜口順子のコメント入り。
+        [NTV系](../Page/日本テレビ放送網.md "wikilink")「[@サプリッ](https://ja.wikipedia.org/wiki/@サプリッ "wikilink")」[浜口順子](../Page/浜口順子.md "wikilink")[青梅マラソン](../Page/青梅マラソン.md "wikilink")応援歌。CD帯には浜口順子のコメント入り。
 2.  **コイスルチカラ**
       -
         作詞・作曲・編曲：S.Aberg、日本語詞：H.U.B.
 3.  **better half**
       -
-        作詞：[日向めぐみ](https://ja.wikipedia.org/wiki/日向めぐみ "wikilink")、作曲・編曲：[中野雄太](https://ja.wikipedia.org/wiki/中野雄太 "wikilink")
+        作詞：[日向めぐみ](../Page/日向めぐみ.md "wikilink")、作曲・編曲：[中野雄太](../Page/中野雄太.md "wikilink")
 4.  **Heroine(instrumental)**
       -
         インストゥルメンタルとあるが、実質は本曲をBGMにした浜口順子によるオーディオコメンタリーである。

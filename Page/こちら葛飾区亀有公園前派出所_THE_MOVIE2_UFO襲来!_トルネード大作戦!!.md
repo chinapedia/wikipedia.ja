@@ -7,7 +7,7 @@
 
 ## あらすじ
 
-ある日、[亀有](../Page/亀有.md "wikilink")の河川敷でUFOの目撃情報が相次いだ。[両津勘吉](../Page/両津勘吉.md "wikilink")は早速、[本田速人](https://ja.wikipedia.org/wiki/本田速人 "wikilink")と共にUFOグッズを売って儲けようとするが、実は両津自身が首謀したヤラセだったことが発覚。例によって[大原大次郎](../Page/大原大次郎.md "wikilink")の大目玉を喰らうのだった。
+ある日、[亀有](../Page/亀有.md "wikilink")の河川敷でUFOの目撃情報が相次いだ。[両津勘吉](../Page/両津勘吉.md "wikilink")は早速、[本田速人](../Page/本田速人.md "wikilink")と共にUFOグッズを売って儲けようとするが、実は両津自身が首謀したヤラセだったことが発覚。例によって[大原大次郎](../Page/大原大次郎.md "wikilink")の大目玉を喰らうのだった。
 
 数日後、公園前派出所のメンバーは持ち回りの研修旅行で[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")に行くことに。先日の騒ぎもあって一人置いてけぼりとなった両津だが、荷物に紛れてこっそり飛行機に同乗。キャビンアテンダントに成りすまして大原の土産を機内で2倍の$1500で売り飛ばし、さらにハワイでもアロハ・藤山と名乗り大原と[寺井洋一](https://ja.wikipedia.org/wiki/寺井洋一 "wikilink")に詐欺容疑で[ホノルル](../Page/ホノルル.md "wikilink")警察に追い回される。だがそんな両津の元に少女の駆るセスナ172が飛来、両津を救い上げて行った。
 
@@ -17,9 +17,9 @@
 
 その夜両津は、ミーナがステージで歌う豪華客船のパーティーに参加した。だがそこで、謎の男がミーナをじっと見ている。その顔に竜平の面影を見た両津は彼に声をかけるが、その時、謎のテロリスト集団が突如船を襲撃してきた。彼らに連れ去られるようにヘリに乗り込んだ男は、両津に「勘吉、飛竜丸が暴れだすぞ\!」という言葉を残していく。男はやはり竜平だった。飛竜丸とは、彼が小学生の時に自作したラジコンの[UFOだ](../Page/未確認飛行物体.md "wikilink")。そして、二人は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に向かう。
 
-ある朝、[隅田川](../Page/隅田川.md "wikilink")から巨大なUFOが出現。下部に竜巻を発生させ、首都[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")が壊滅されようとしていた。
+ある朝、[隅田川](../Page/隅田川.md "wikilink")から巨大なUFOが出現。下部に竜巻を発生させ、首都[東京](../Page/東京.md "wikilink")が壊滅されようとしていた。
 
-事件を知った派出所のメンバーは急遽、[中川圭一](https://ja.wikipedia.org/wiki/中川圭一 "wikilink")の自家用ジャンボジェットで帰路についた。両津もミーナと共に、[零戦](https://ja.wikipedia.org/wiki/零戦 "wikilink")を駆って日本へ向かうが、途中で零戦の燃料が切れてしまう。その上をたまたま通りかかった中川の自家用[ジャンボジェット](https://ja.wikipedia.org/wiki/ジャンボジェット "wikilink")にロープをくりつけて引っ張っていってもらうものの大型台風に巻き込まれロープが切れてしまう。派出所に不時着するがすぐに飛竜丸が来て葛飾署に着陸する。果たして竜平に何があったのか。そして両津は竜平を救い、首都東京を守ることが出来るのだろうか？
+事件を知った派出所のメンバーは急遽、[中川圭一](../Page/中川圭一.md "wikilink")の自家用ジャンボジェットで帰路についた。両津もミーナと共に、[零戦](https://ja.wikipedia.org/wiki/零戦 "wikilink")を駆って日本へ向かうが、途中で零戦の燃料が切れてしまう。その上をたまたま通りかかった中川の自家用[ジャンボジェット](https://ja.wikipedia.org/wiki/ジャンボジェット "wikilink")にロープをくりつけて引っ張っていってもらうものの大型台風に巻き込まれロープが切れてしまう。派出所に不時着するがすぐに飛竜丸が来て葛飾署に着陸する。果たして竜平に何があったのか。そして両津は竜平を救い、首都東京を守ることが出来るのだろうか？
 
 ## 登場キャラクター
 
@@ -52,14 +52,14 @@
 
   - ミーナ
     ハワイで育った両津の幼馴染である竜平の一人娘。
-    男勝り且つ無鉄砲な性格な上に少しだけ焼けた肌にボーイッシュな格好が特徴で、その容姿は[アグネス・ラム](https://ja.wikipedia.org/wiki/アグネス・ラム "wikilink")を彷彿とさせるようである（また、ミーナ自身を初めて見たボルボもその事を呟きながら鼻血を出していた）。また、普段は歌手としてステージに立っているが、一方では観光用の[セスナ](../Page/セスナ.md "wikilink")の[パイロットもこなしている](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")。
+    男勝り且つ無鉄砲な性格な上に少しだけ焼けた肌にボーイッシュな格好が特徴で、その容姿は[アグネス・ラム](../Page/アグネス・ラム.md "wikilink")を彷彿とさせるようである（また、ミーナ自身を初めて見たボルボもその事を呟きながら鼻血を出していた）。また、普段は歌手としてステージに立っているが、一方では観光用の[セスナ](../Page/セスナ.md "wikilink")の[パイロットもこなしている](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")。
     死亡したと聞かされていた父が実は生きていたことを知り、その真相を探るために両津と共にハワイから零戦で日本に向かい、生まれてから15年間一度も会っていなかった父親と初めて顔を会わせることが出来たのも束の間、過去の出来事から父を反発し疎遠となっていたが、コントロールを失い暴走する[ゆりかもめから父に救出され](https://ja.wikipedia.org/wiki/ゆりかもめ東京臨海新交通臨海線 "wikilink")、後に和解する。
     アニメ版本編の最終回では両津の送別会に姿を見せている（ただし、送別の件が嘘と明らかになると両津に怒った）。
   - 田中竜平（たなか たっぺい）
     [浅草](../Page/浅草.md "wikilink")に住んでいた両津の小学校時代の親友で、ミーナの父親。子供の頃から手先が器用で、ラジコンのUFO「飛竜丸」を造って浅草から[上野](../Page/上野.md "wikilink")まで飛ばしたことで大騒動になった事もある。
     小学3年生の夏に両親を台風で亡くし、ハワイの叔父の所へ引き取られて以降は音信不通となっていた。後にタイガーに拘束され彼が目論んでいた東京壊滅作戦の手引きをさせられていたことが判明する。その後自身が生きていることを知った両津やミーナと再会を果たし、長い間面倒を見てあげなかった事を娘ミーナに謝罪し和解した。
   - タイガー（タイガー虎山）
-    ハワイで[クルーザー](https://ja.wikipedia.org/wiki/クルーザー "wikilink")を爆破し、死亡したはずの竜平を拘束している謎の[テロリスト](https://ja.wikipedia.org/wiki/テロリスト "wikilink")。自らリーダーとしてテログループを率いており、超巨大UFOに乗り込み東京を襲撃する。本作の黒幕にして最後の敵に当たる。
+    ハワイで[クルーザー](../Page/クルーザー.md "wikilink")を爆破し、死亡したはずの竜平を拘束している謎の[テロリスト](https://ja.wikipedia.org/wiki/テロリスト "wikilink")。自らリーダーとしてテログループを率いており、超巨大UFOに乗り込み東京を襲撃する。本作の黒幕にして最後の敵に当たる。
     実は子供の頃に浅草に一年だけ住んでいた[ガキ大将](https://ja.wikipedia.org/wiki/ガキ大将 "wikilink")で、竜平をいじめていた時に対決した両津によって赤っ恥をかかされたために以降は私怨から東京壊滅を目論むようになる（本人は「一生の屈辱」と語っている）。その後、自らをリーダーとしてテログループを率いるようになり、後に竜平を拘束し、無理やり協力をさせて超巨大UFOを開発。それに乗り込んで東京を襲撃するが、終盤ではUFOに乗り込んできた両津と対決し、UFOから落ちて倒されたかに思われた。しかし竜平とミーナの再会の場に現れ、激情のままナイフで竜平に襲い掛かるが、そこを両津に阻まれ、子供の頃の赤っ恥と同じように股間を思いっきり蹴り上げられて今度こそ敗北（その際、両津と竜平はタイガーがかつてのガキ大将だったことに気付き、驚きを隠せなかった。両津曰く「何という運命の巡り合わせ」）。最後まで両津に勝つことはできず、倒れたところを多数の警官に取り押さえられ、ボルボと左近寺に連行されて行った。
   - ラッキー田中（ラッキーたなか）
     ハワイ島のヒロで「田中理髪店」を営む竜平の叔父で、ハワイアンバンド「ラッキー田中とハッピーカムカム」のリーダー。早くに両親を亡くしたミーナを育てる。
@@ -75,41 +75,41 @@
 ## キャスト
 
   - [両津勘吉](../Page/両津勘吉.md "wikilink") - [ラサール石井](../Page/ラサール石井.md "wikilink")
-  - [秋本・カトリーヌ・麗子](https://ja.wikipedia.org/wiki/秋本・カトリーヌ・麗子 "wikilink") - [森尾由美](https://ja.wikipedia.org/wiki/森尾由美 "wikilink")
-  - [中川圭一](https://ja.wikipedia.org/wiki/中川圭一 "wikilink") - [宮本充](https://ja.wikipedia.org/wiki/宮本充 "wikilink")
-  - [大原大次郎](../Page/大原大次郎.md "wikilink") - [佐山陽規](https://ja.wikipedia.org/wiki/佐山陽規 "wikilink")
-  - [寺井洋一](https://ja.wikipedia.org/wiki/丸井ヤング館 "wikilink") - [林家こぶ平](../Page/林家正蔵_\(9代目\).md "wikilink")
-  - [本田速人](https://ja.wikipedia.org/wiki/本田速人 "wikilink") - [家中宏](https://ja.wikipedia.org/wiki/家中宏 "wikilink")
+  - [秋本・カトリーヌ・麗子](../Page/秋本・カトリーヌ・麗子.md "wikilink") - [森尾由美](https://ja.wikipedia.org/wiki/森尾由美 "wikilink")
+  - [中川圭一](../Page/中川圭一.md "wikilink") - [宮本充](../Page/宮本充.md "wikilink")
+  - [大原大次郎](../Page/大原大次郎.md "wikilink") - [佐山陽規](../Page/佐山陽規.md "wikilink")
+  - [寺井洋一](../Page/丸井ヤング館.md "wikilink") - [林家こぶ平](../Page/林家正蔵_\(9代目\).md "wikilink")
+  - [本田速人](../Page/本田速人.md "wikilink") - [家中宏](../Page/家中宏.md "wikilink")
   - 小野小町 - [三浦理恵子](https://ja.wikipedia.org/wiki/三浦理恵子 "wikilink")
   - 清正奈緒子 - [三橋加奈子](../Page/三橋加奈子.md "wikilink")
-  - 屯田五目須 - [江角英明](https://ja.wikipedia.org/wiki/江角英明 "wikilink")
-  - ボルボ西郷 - [岸祐二](https://ja.wikipedia.org/wiki/岸祐二 "wikilink")
-  - [左近寺竜之介](https://ja.wikipedia.org/wiki/左近寺竜之介 "wikilink") - [岩崎征実](https://ja.wikipedia.org/wiki/岩崎征実 "wikilink")
-  - [麻里愛](https://ja.wikipedia.org/wiki/麻里愛 "wikilink") - [麻生かほ里](https://ja.wikipedia.org/wiki/麻生かほ里 "wikilink")
-  - 絵崎コロ助 - [松山鷹志](https://ja.wikipedia.org/wiki/松山鷹志 "wikilink")
-  - [擬宝珠夏春都](https://ja.wikipedia.org/wiki/擬宝珠家 "wikilink") - [小宮孝泰](../Page/小宮孝泰.md "wikilink")
-  - 擬宝珠纏 - [土居裕子](https://ja.wikipedia.org/wiki/土居裕子 "wikilink")
+  - 屯田五目須 - [江角英明](../Page/江角英明.md "wikilink")
+  - ボルボ西郷 - [岸祐二](../Page/岸祐二.md "wikilink")
+  - [左近寺竜之介](https://ja.wikipedia.org/wiki/左近寺竜之介 "wikilink") - [岩崎征実](../Page/岩崎征実.md "wikilink")
+  - [麻里愛](../Page/麻里愛.md "wikilink") - [麻生かほ里](../Page/麻生かほ里.md "wikilink")
+  - 絵崎コロ助 - [松山鷹志](../Page/松山鷹志.md "wikilink")
+  - [擬宝珠夏春都](../Page/擬宝珠家.md "wikilink") - [小宮孝泰](../Page/小宮孝泰.md "wikilink")
+  - 擬宝珠纏 - [土居裕子](../Page/土居裕子.md "wikilink")
   - 擬宝珠檸檬 - [齋藤彩夏](../Page/齋藤彩夏.md "wikilink")
-  - ラッキー田中 - [キートン山田](https://ja.wikipedia.org/wiki/キートン山田 "wikilink")
-  - ハッピー殿山 - [大谷亮介](https://ja.wikipedia.org/wiki/大谷亮介 "wikilink")
+  - ラッキー田中 - [キートン山田](../Page/キートン山田.md "wikilink")
+  - ハッピー殿山 - [大谷亮介](../Page/大谷亮介.md "wikilink")
   - カムカム内藤 - [亀山助清](../Page/亀山助清.md "wikilink")
-  - キャシー - [本多知恵子](https://ja.wikipedia.org/wiki/本多知恵子 "wikilink")
+  - キャシー - [本多知恵子](../Page/本多知恵子.md "wikilink")
   - デューク藤堂 - [清水宏](../Page/清水宏_\(コメディアン\).md "wikilink")
-  - タイガーの部下 - [竹本英史](https://ja.wikipedia.org/wiki/竹本英史 "wikilink")、[冨田真](../Page/冨田真.md "wikilink")、[下崎紘史](https://ja.wikipedia.org/wiki/下崎紘史 "wikilink")
+  - タイガーの部下 - [竹本英史](../Page/竹本英史.md "wikilink")、[冨田真](../Page/冨田真.md "wikilink")、[下崎紘史](../Page/下崎紘史.md "wikilink")
   - 警視総監 - [西村仁](../Page/西村仁.md "wikilink")
-  - 自転車の人 - [木内秀信](https://ja.wikipedia.org/wiki/木内秀信 "wikilink")
+  - 自転車の人 - [木内秀信](../Page/木内秀信.md "wikilink")
   - アナウンサー - [長浜満里子](../Page/長浜満里子.md "wikilink")
   - 西山喜久恵 - [西山喜久恵](../Page/西山喜久恵.md "wikilink")
   - 田中竜平 - [渡辺正行](../Page/渡辺正行.md "wikilink") / [大浦冬華](https://ja.wikipedia.org/wiki/大浦冬華 "wikilink")（少年時代）
   - ミーナ - [平山あや](https://ja.wikipedia.org/wiki/平山あや "wikilink")
   - タイガー（タイガー虎山） - [生瀬勝久](https://ja.wikipedia.org/wiki/生瀬勝久 "wikilink")
 
-セリフはないが、ラストには[特殊刑事課](https://ja.wikipedia.org/wiki/特殊刑事課 "wikilink")の面々や亀有商店街の人々、乙姫菜々、爆竜大佐、ジョディー、電極スパーク、電極＋、[日暮熟睡男](https://ja.wikipedia.org/wiki/日暮熟睡男 "wikilink")なども登場している。
+セリフはないが、ラストには[特殊刑事課](../Page/特殊刑事課.md "wikilink")の面々や亀有商店街の人々、乙姫菜々、爆竜大佐、ジョディー、電極スパーク、電極＋、[日暮熟睡男](../Page/日暮熟睡男.md "wikilink")なども登場している。
 
 ## スタッフ
 
   - 原作 - [秋本治](../Page/秋本治.md "wikilink")、アトリエびーだま
-  - 監督 - [高松信司](https://ja.wikipedia.org/wiki/高松信司 "wikilink")
+  - 監督 - [高松信司](../Page/高松信司.md "wikilink")
   - 脚本 - [大川俊道](../Page/大川俊道.md "wikilink")
   - キャラクター・メカデザイン・総作画監督 - [時永宜幸](https://ja.wikipedia.org/wiki/時永宜幸 "wikilink")
   - 演出 - [小野勝巳](https://ja.wikipedia.org/wiki/小野勝巳 "wikilink")
@@ -118,9 +118,9 @@
   - 美術監督 - 柴田聡
   - 撮影監督 - 枝光弘明
   - 編集 - [中川晶男](https://ja.wikipedia.org/wiki/中川晶男 "wikilink")
-  - 音楽 - [佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink")
+  - 音楽 - [佐橋俊彦](../Page/佐橋俊彦.md "wikilink")
   - 音響監督 - [藤山房伸](../Page/藤山房伸.md "wikilink")
-  - プロデューサー - [清水賢治](https://ja.wikipedia.org/wiki/清水賢治 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）、[浜野貴敏](https://ja.wikipedia.org/wiki/浜野貴敏 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）、[松下洋子](https://ja.wikipedia.org/wiki/松下洋子 "wikilink")（[NAS](https://ja.wikipedia.org/wiki/日本アドシステムズ "wikilink")）、三宅将典（NAS）、[若菜章夫](https://ja.wikipedia.org/wiki/若菜章夫 "wikilink")（[ぎゃろっぷ](https://ja.wikipedia.org/wiki/ぎゃろっぷ "wikilink")）[杉村重郎](https://ja.wikipedia.org/wiki/杉村重郎 "wikilink")（ぎゃろっぷ）
+  - プロデューサー - [清水賢治](../Page/清水賢治.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）、[浜野貴敏](https://ja.wikipedia.org/wiki/浜野貴敏 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）、[松下洋子](https://ja.wikipedia.org/wiki/松下洋子 "wikilink")（[NAS](../Page/日本アドシステムズ.md "wikilink")）、三宅将典（NAS）、[若菜章夫](../Page/若菜章夫.md "wikilink")（[ぎゃろっぷ](../Page/ぎゃろっぷ.md "wikilink")）[杉村重郎](https://ja.wikipedia.org/wiki/杉村重郎 "wikilink")（ぎゃろっぷ）
   - アニメーション制作 - ぎゃろっぷ
   - 制作 - [亀山千広](../Page/亀山千広.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）、永井秀之、[山下秀樹](https://ja.wikipedia.org/wiki/山下秀樹 "wikilink")、フジテレビ、NAS
 
@@ -131,14 +131,14 @@
   -
     「語れ\! 涙\!」
 
-  - 作詞・作曲・編曲・唄 - [SEX MACHINEGUN](https://ja.wikipedia.org/wiki/Anchang "wikilink")
+  - 作詞・作曲・編曲・唄 - [SEX MACHINEGUN](../Page/Anchang.md "wikilink")
 
 ### 挿入歌
 
   -
     「Missin' you」LOL
 
-  - 作曲・編曲 - [佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink") / 作詞 - [山田ひろし](https://ja.wikipedia.org/wiki/山田ひろし "wikilink") / 唄 - [平山あや](https://ja.wikipedia.org/wiki/平山あや "wikilink")
+  - 作曲・編曲 - [佐橋俊彦](../Page/佐橋俊彦.md "wikilink") / 作詞 - [山田ひろし](../Page/山田ひろし.md "wikilink") / 唄 - [平山あや](https://ja.wikipedia.org/wiki/平山あや "wikilink")
 
 ## 映像ソフト
 

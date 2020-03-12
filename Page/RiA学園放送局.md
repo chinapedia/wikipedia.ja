@@ -8,7 +8,7 @@
 ## 生徒会執行部員（パーソナリティ）
 
   - 会長 [有馬美咲](https://ja.wikipedia.org/wiki/有馬美咲 "wikilink")
-  - 副会長 [奥山歩](https://ja.wikipedia.org/wiki/奥山歩 "wikilink")
+  - 副会長 [奥山歩](../Page/奥山歩.md "wikilink")
   - 風紀長 [小林和実](https://ja.wikipedia.org/wiki/小林和実 "wikilink")
   - 書記 [藤井深雪](https://ja.wikipedia.org/wiki/藤井深雪 "wikilink")
   - 会計 [木口友](https://ja.wikipedia.org/wiki/木口友 "wikilink")

@@ -1,11 +1,11 @@
 > この記事は[Muma](https://ja.wikipedia.org/wiki/Muma)から翻訳されています。
 
 
-**Muma**（**ミューマ**）は、[ヤマハ](../Page/ヤマハ.md "wikilink")が特約楽器店に設置しているデータ販売システムである。ヤマハの[電子オルガン](https://ja.wikipedia.org/wiki/電子オルガン "wikilink")・[エレクトーン](../Page/エレクトーン.md "wikilink")や[デジタルピアノ](https://ja.wikipedia.org/wiki/デジタルピアノ "wikilink")・[クラビノーバ](https://ja.wikipedia.org/wiki/クラビノーバ "wikilink")、その他の楽器の楽曲データの販売や、[Standard MIDI File](https://ja.wikipedia.org/wiki/Standard_MIDI_File "wikilink") ([GM](https://ja.wikipedia.org/wiki/General_MIDI "wikilink")/[XG](https://ja.wikipedia.org/wiki/XGフォーマット "wikilink")) の販売、現行の[エレクトーン](../Page/エレクトーン.md "wikilink")機種であるSTAGEAシリーズの[アップデータ](https://ja.wikipedia.org/wiki/アップデータ "wikilink")を無償提供する。([設置店情報](https://www.ymm.co.jp/muma/shop.php))
+**Muma**（**ミューマ**）は、[ヤマハ](../Page/ヤマハ.md "wikilink")が特約楽器店に設置しているデータ販売システムである。ヤマハの[電子オルガン](../Page/電子オルガン.md "wikilink")・[エレクトーン](../Page/エレクトーン.md "wikilink")や[デジタルピアノ](https://ja.wikipedia.org/wiki/デジタルピアノ "wikilink")・[クラビノーバ](../Page/クラビノーバ.md "wikilink")、その他の楽器の楽曲データの販売や、[Standard MIDI File](https://ja.wikipedia.org/wiki/Standard_MIDI_File "wikilink") ([GM](../Page/General_MIDI.md "wikilink")/[XG](../Page/XGフォーマット.md "wikilink")) の販売、現行の[エレクトーン](../Page/エレクトーン.md "wikilink")機種であるSTAGEAシリーズの[アップデータ](https://ja.wikipedia.org/wiki/アップデータ "wikilink")を無償提供する。([設置店情報](https://www.ymm.co.jp/muma/shop.php))
 
 ## 仕様
 
-  - [タッチパネル](https://ja.wikipedia.org/wiki/タッチパネル "wikilink")液晶
+  - [タッチパネル](../Page/タッチパネル.md "wikilink")液晶
   - 3.5インチ[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")ドライブ
   - [スマートメディア](../Page/スマートメディア.md "wikilink")リーダ・ライタ
   - [USB端子](../Page/ユニバーサル・シリアル・バス.md "wikilink")
@@ -14,7 +14,7 @@
 
   - 3.5インチフロッピーディスク - ヤマハエレクトーンELシリーズ、HSシリーズ
   - スマートメディア - ヤマハエレクトーンSTAGEAシリーズ（現在は使用できない。）
-  - [USBメモリ](https://ja.wikipedia.org/wiki/USBフラッシュドライブ "wikilink") - ヤマハエレクトーンSTAGEAシリーズ
+  - [USBメモリ](../Page/USBフラッシュドライブ.md "wikilink") - ヤマハエレクトーンSTAGEAシリーズ
 
 ## 使い方
 

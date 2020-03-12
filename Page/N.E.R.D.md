@@ -7,19 +7,19 @@
 
 ## 略歴
 
-少年の頃から友人だった[ファレル・ウィリアムス](https://ja.wikipedia.org/wiki/ファレル・ウィリアムス "wikilink")と[チャド・ヒューゴ](https://ja.wikipedia.org/wiki/チャド・ヒューゴ "wikilink")が[ネプチューンズ](https://ja.wikipedia.org/wiki/ネプチューンズ "wikilink")を結成。それに盟友のシェルドン・ヘイリー（通称シェイ）を加えた3人組がN\*E\*R\*Dである。
+少年の頃から友人だった[ファレル・ウィリアムス](../Page/ファレル・ウィリアムス.md "wikilink")と[チャド・ヒューゴ](https://ja.wikipedia.org/wiki/チャド・ヒューゴ "wikilink")が[ネプチューンズ](https://ja.wikipedia.org/wiki/ネプチューンズ "wikilink")を結成。それに盟友のシェルドン・ヘイリー（通称シェイ）を加えた3人組がN\*E\*R\*Dである。
 
 [2001年](../Page/2001年.md "wikilink")に1stアルバム『In Search of』をリリースした。しかし発売して1ヶ月、打ち込み主体だったパートを[SPYMOB](https://ja.wikipedia.org/wiki/SPYMOB "wikilink")による生演奏に変えアルバムタイトルを『イン・サーチ・オブ…(In Search Of…)』とし再度リリース。
 
-[2004年](../Page/2004年.md "wikilink")、2ndアルバム『フライ・オア・ダイ(Fly Or Die)』発表後、[ヴァージン・レコード](https://ja.wikipedia.org/wiki/ヴァージン・レコード "wikilink")と契約でもめ、事実上の活動停止。
+[2004年](../Page/2004年.md "wikilink")、2ndアルバム『フライ・オア・ダイ(Fly Or Die)』発表後、[ヴァージン・レコード](../Page/ヴァージン・レコード.md "wikilink")と契約でもめ、事実上の活動停止。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月、BBC Radio 1にてファレルが『N.E.R.D is dead』と発言。解散が囁かれた。
+[2005年](../Page/2005年.md "wikilink")3月、BBC Radio 1にてファレルが『N.E.R.D is dead』と発言。解散が囁かれた。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[ヴァージン・レコード](https://ja.wikipedia.org/wiki/ヴァージン・レコード "wikilink")から[インタースコープ・レコード](https://ja.wikipedia.org/wiki/インタースコープ・レコード "wikilink")に移籍し3rdアルバム『シーイング・サウンズ(SEEING SOUNDS)』を発表。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[ヴァージン・レコード](../Page/ヴァージン・レコード.md "wikilink")から[インタースコープ・レコード](../Page/インタースコープ・レコード.md "wikilink")に移籍し3rdアルバム『シーイング・サウンズ(SEEING SOUNDS)』を発表。
 
 2009年10月、2010年リリース予定の4thアルバム『Instant Gratification』に向け、新メンバーとして女性シンガーであるリアが加入したがわずか3ヶ月で脱退し、4thアルバムは一度白紙に戻し、アルバムタイトルを『ナッシング（Nothing）』と名称を変えリリース。
 
-2017年12月に「誰も本当の意味では死なない」というグループ名をセルフタイトルとして掲げた7年ぶりの5thアルバム『ノー_ワン・エヴァー・リアリー・ダイズ(No_One Ever Really Dies)』を発表。今作は[リアーナ](https://ja.wikipedia.org/wiki/リアーナ "wikilink")、[ケンドリック・ラマー](https://ja.wikipedia.org/wiki/ケンドリック・ラマー "wikilink")、[エド・シーラン](https://ja.wikipedia.org/wiki/エド・シーラン "wikilink")といった豪華ゲストが参加していることも話題となった。
+2017年12月に「誰も本当の意味では死なない」というグループ名をセルフタイトルとして掲げた7年ぶりの5thアルバム『ノー_ワン・エヴァー・リアリー・ダイズ(No_One Ever Really Dies)』を発表。今作は[リアーナ](../Page/リアーナ.md "wikilink")、[ケンドリック・ラマー](https://ja.wikipedia.org/wiki/ケンドリック・ラマー "wikilink")、[エド・シーラン](https://ja.wikipedia.org/wiki/エド・シーラン "wikilink")といった豪華ゲストが参加していることも話題となった。
 
 2018年7月に開催される野外音楽フェス「[フジロック・フェスティバル](https://ja.wikipedia.org/wiki/フジロックフェスティバル "wikilink")'18」に出演が決定。\[1\]
 

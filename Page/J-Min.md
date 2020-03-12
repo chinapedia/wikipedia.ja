@@ -1,7 +1,7 @@
 > この記事は[J-Min](https://ja.wikipedia.org/wiki/J-Min)から翻訳されています。
 
 
-**J-Min**（ジェイミン、오지민, [1988年](../Page/1988年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")-）は[韓国出身の](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[歌手](../Page/歌手.md "wikilink")。所属事務所は[SMエンターテインメント](https://ja.wikipedia.org/wiki/SMエンターテインメント "wikilink")。2007年に[avex traxより](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")「ころがる林檎」でデビュー。留学経験を通じ、韓国語、日本語、英語を話すことが出来る。芸名のJ-Minは本名の呉智敏（Oh Ji-min）に由来する。
+**J-Min**（ジェイミン、오지민, [1988年](../Page/1988年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")-）は[韓国出身の](../Page/大韓民国.md "wikilink")[歌手](../Page/歌手.md "wikilink")。所属事務所は[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")。2007年に[avex traxより](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")「ころがる林檎」でデビュー。留学経験を通じ、韓国語、日本語、英語を話すことが出来る。芸名のJ-Minは本名の呉智敏（Oh Ji-min）に由来する。
 
 ## ディスコグラフィ
 
@@ -26,7 +26,7 @@
 <td><ol>
 <li>CHANGE
 <ul>
-<li>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/花咲ける青少年" title="wikilink">花咲ける青少年</a>』オープニング主題歌</li>
+<li>テレビアニメ『<a href="../Page/花咲ける青少年.md" title="wikilink">花咲ける青少年</a>』オープニング主題歌</li>
 </ul></li>
 <li>One
 <ul>
@@ -110,13 +110,13 @@
 <td><p>AVCD-23680</p></td>
 <td><ol>
 <li>傘がない</li>
-<li><a href="https://ja.wikipedia.org/wiki/満月の夕" title="wikilink">満月の夕</a></li>
+<li><a href="../Page/満月の夕.md" title="wikilink">満月の夕</a></li>
 <li><a href="../Page/春夏秋冬.md" title="wikilink">春夏秋冬</a></li>
 <li>ONE DAY</li>
 <li>久遠</li>
 <li>スローバラード</li>
-<li><a href="https://ja.wikipedia.org/wiki/眠れぬ夜" title="wikilink">眠れぬ夜</a></li>
-<li>The First Star（<a href="https://ja.wikipedia.org/wiki/上を向いて歩こう" title="wikilink">上を向いて歩こう</a>）（Bonus Track）</li>
+<li><a href="../Page/眠れぬ夜.md" title="wikilink">眠れぬ夜</a></li>
+<li>The First Star（<a href="../Page/上を向いて歩こう.md" title="wikilink">上を向いて歩こう</a>）（Bonus Track）</li>
 </ol></td>
 </tr>
 <tr class="even">

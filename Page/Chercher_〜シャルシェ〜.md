@@ -1,26 +1,26 @@
 > この記事は[Chercher ](https://ja.wikipedia.org/wiki/Chercher_)から翻訳されています。
 
 
-『**Chercher 〜シャルシェ〜**』（シャルシェ-）は、[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")の6作目のシングル。[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")より[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された。
+『**Chercher 〜シャルシェ〜**』（シャルシェ-）は、[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")の6作目のシングル。[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")より[2006年](../Page/2006年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された。
 
 ## 概要
 
   - マリア様がみてるの原作者である今野緒雪が作詞に参加するという構想は、I'veやKOTOKOへのオファー段階からスタッフの中であったとされ、歌詞はOVA『マリア様がみてる』の内容が反映されている。
   - 付属のカバージャケットには福沢祐巳と小笠原祥子が描かれている。
-  - 初回限定盤と通常盤の2種類がリリースされ、初回限定盤には「Chercher 〜シャルシェ〜」の[PVが収録されたDVDが付いている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+  - 初回限定盤と通常盤の2種類がリリースされ、初回限定盤には「Chercher 〜シャルシェ〜」の[PVが収録されたDVDが付いている](../Page/ミュージック・ビデオ.md "wikilink")。
   - 「Chercher」とは、フランス語で「探す」「努める」という意味で本来の発音は「シェルシェ」だがアクセントにより日本人の耳では「シャルシェ」と聴こえる。
-  - アルバムには「Chercher 〜シャルシェ〜」は『[マリア様がみてる 3rdシーズン サウンドトラック](https://ja.wikipedia.org/wiki/マリア様がみてるシリーズのサウンドアルバム#マリア様がみてる_3rdシーズン "wikilink")』、カップリング曲の「月夜の舞踏会」は『[UZU-MAKI](https://ja.wikipedia.org/wiki/UZU-MAKI "wikilink")』に収録されている。
+  - アルバムには「Chercher 〜シャルシェ〜」は『[マリア様がみてる 3rdシーズン サウンドトラック](https://ja.wikipedia.org/wiki/マリア様がみてるシリーズのサウンドアルバム#マリア様がみてる_3rdシーズン "wikilink")』、カップリング曲の「月夜の舞踏会」は『[UZU-MAKI](../Page/UZU-MAKI.md "wikilink")』に収録されている。
 
 ## 収録曲
 
 1.  **Chercher 〜シャルシェ〜** \[4:39\]
       -
         作詞：[今野緒雪](../Page/今野緒雪.md "wikilink")／作曲・編曲：[C.G mix](../Page/C.G_mix.md "wikilink")
-          - OVA『[マリア様がみてる](https://ja.wikipedia.org/wiki/マリア様がみてる_\(アニメ\) "wikilink")』第1巻 - 第2巻 [エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+          - OVA『[マリア様がみてる](../Page/マリア様がみてる_\(アニメ\).md "wikilink")』第1巻 - 第2巻 [エンディングテーマ](../Page/主題歌.md "wikilink")
           - [パケットラジオ](https://ja.wikipedia.org/wiki/パケットラジオ "wikilink")「KOTOKOのトコトコ探検記」オープニングテーマ
 2.  **月夜の舞踏会** \[5:55\]
       -
-        作詞：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")／作曲：[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")／編曲：[中沢伴行](https://ja.wikipedia.org/wiki/中沢伴行 "wikilink")
+        作詞：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")／作曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink")／編曲：[中沢伴行](../Page/中沢伴行.md "wikilink")
           - [dwango](https://ja.wikipedia.org/wiki/dwango "wikilink")「dwango.jp」TV-CMソング（本人出演）
           - dwango「超\!アニメロ」TV-CMソング（本人出演）
 3.  Chercher 〜シャルシェ〜（Instrumental）

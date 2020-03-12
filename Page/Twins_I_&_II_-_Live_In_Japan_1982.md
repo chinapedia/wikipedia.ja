@@ -1,7 +1,7 @@
 > この記事は[Twins I \& II - Live In Japan 1982](https://ja.wikipedia.org/wiki/Twins_I_\&_II_-_Live_In_Japan_1982)から翻訳されています。
 
 
-『 **Twins I & II - Live In Japan 1982** 』は『 [Twins I & II](../Page/Twins_I_&_II.md "wikilink") 』（1999年発売）を24[ビット](../Page/ビット.md "wikilink")、デジタル・[リマスタリングし直して](https://ja.wikipedia.org/wiki/マスタリング "wikilink")2007年に再々発売されたアルバム。内容の方は[ジャコ・パストリアス](https://ja.wikipedia.org/wiki/ジャコ・パストリアス "wikilink")が1982年8月に、彼のビッグ・バンド「[ワード・オブ・マウス・ビッグ・バンド](../Page/ワード・オブ・マウス・ビッグ・バンド.md "wikilink")」を伴って来日した際、同年9月に行われたオーレックス・ジャズ・フェスティバルでのコンサートを収録したライブ・アルバム。当初は別々に『 [Twins I](../Page/Twins_I.md "wikilink") 』と『 [Twins II](../Page/Twins_II.md "wikilink") 』として日本国内限定発売で2枚同時にLP レコードとして発売されたが、CDの方はアメリカの[ワーナー・ブラザース・レコード](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・レコード "wikilink")が1枚分のアルバムに[コンピレーション化した](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")『 [インヴィテイション](https://ja.wikipedia.org/wiki/インヴィテイション_\(ジャコ・パストリアスのアルバム\) "wikilink") 』しか存在しなかった。1999年に『 [Twins I](../Page/Twins_I.md "wikilink") 』と『 [Twins II](../Page/Twins_II.md "wikilink") 』が2枚組CDの『 [Twins I & II](../Page/Twins_I_&_II.md "wikilink") 』として再発売され、このアルバムは更に24[ビット](../Page/ビット.md "wikilink")、デジタル・[リマスタリングされたアルバム](https://ja.wikipedia.org/wiki/マスタリング "wikilink")。
+『 **Twins I & II - Live In Japan 1982** 』は『 [Twins I & II](../Page/Twins_I_&_II.md "wikilink") 』（1999年発売）を24[ビット](../Page/ビット.md "wikilink")、デジタル・[リマスタリングし直して](../Page/マスタリング.md "wikilink")2007年に再々発売されたアルバム。内容の方は[ジャコ・パストリアス](../Page/ジャコ・パストリアス.md "wikilink")が1982年8月に、彼のビッグ・バンド「[ワード・オブ・マウス・ビッグ・バンド](../Page/ワード・オブ・マウス・ビッグ・バンド.md "wikilink")」を伴って来日した際、同年9月に行われたオーレックス・ジャズ・フェスティバルでのコンサートを収録したライブ・アルバム。当初は別々に『 [Twins I](../Page/Twins_I.md "wikilink") 』と『 [Twins II](../Page/Twins_II.md "wikilink") 』として日本国内限定発売で2枚同時にLP レコードとして発売されたが、CDの方はアメリカの[ワーナー・ブラザース・レコード](../Page/ワーナー・ブラザース・レコード.md "wikilink")が1枚分のアルバムに[コンピレーション化した](../Page/コンピレーション・アルバム.md "wikilink")『 [インヴィテイション](../Page/インヴィテイション_\(ジャコ・パストリアスのアルバム\).md "wikilink") 』しか存在しなかった。1999年に『 [Twins I](../Page/Twins_I.md "wikilink") 』と『 [Twins II](../Page/Twins_II.md "wikilink") 』が2枚組CDの『 [Twins I & II](../Page/Twins_I_&_II.md "wikilink") 』として再発売され、このアルバムは更に24[ビット](../Page/ビット.md "wikilink")、デジタル・[リマスタリングされたアルバム](../Page/マスタリング.md "wikilink")。
 
 ## 収録曲
 
@@ -11,11 +11,11 @@
 
 ### The Word of Mouth Sextet
 
-  - [Jaco Pastorius](https://ja.wikipedia.org/wiki/ジャコ・パストリアス "wikilink") (Electric Bass)
+  - [Jaco Pastorius](../Page/ジャコ・パストリアス.md "wikilink") (Electric Bass)
   - [Don Alias](../Page/ドン・アライアス.md "wikilink") (Percussion)
-  - [Randy Brecker](https://ja.wikipedia.org/wiki/ランディ・ブレッカー "wikilink") (Trumpet)
-  - [Peter Erskine](https://ja.wikipedia.org/wiki/ピーター・アースキン "wikilink") (Drums, Timpani)
-  - [Bobby Mintzer](https://ja.wikipedia.org/wiki/ボブ・ミンツァー "wikilink") (Tenor & Soprano Saxophone, Bass Clarinet)
+  - [Randy Brecker](../Page/ランディ・ブレッカー.md "wikilink") (Trumpet)
+  - [Peter Erskine](../Page/ピーター・アースキン.md "wikilink") (Drums, Timpani)
+  - [Bobby Mintzer](../Page/ボブ・ミンツァー.md "wikilink") (Tenor & Soprano Saxophone, Bass Clarinet)
   - *[Othello Molineaux](https://ja.wikipedia.org/wiki/:en:Othello_Molineaux "wikilink")* (Steel Drums)
 
 ### Special Guest
@@ -31,7 +31,7 @@
   - Wayne Andre (Lead Trombone)
   - *[David Bargeron](https://ja.wikipedia.org/wiki/:en:Dave_Bargeron "wikilink")* (Trombone, Tuba)
   - Peter Graves (Bass Trombone, Co-Conductor)
-  - [Bill Reichenbach](https://ja.wikipedia.org/wiki/ビル・ライヒェンバッハ "wikilink") (Bass Trombone)
+  - [Bill Reichenbach](../Page/ビル・ライヒェンバッハ.md "wikilink") (Bass Trombone)
   - Mario Cruz (Tenor & Soprano Saxophone, Clarinet, Alto Flute)
   - Randy Emerick (Baritone Sax, Clarinet, Alto Flute)
   - Alex Foster (Tenor, Alto & Soprano Saxophone, Clarinet, Piccolo)

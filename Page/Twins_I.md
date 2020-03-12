@@ -1,7 +1,7 @@
 > この記事は[Twins I](https://ja.wikipedia.org/wiki/Twins_I)から翻訳されています。
 
 
-『 **Twins I / Aurex Jazz Festival '82** 』は[ジャコ・パストリアス](https://ja.wikipedia.org/wiki/ジャコ・パストリアス "wikilink")が1982年8月に、彼のビッグ・バンド「[ワード・オブ・マウス・ビッグ・バンド](../Page/ワード・オブ・マウス・ビッグ・バンド.md "wikilink")」を伴って来日した際、同年9月に行われたオーレックス・ジャズ・フェスティバルでのコンサートを収録したライブ・アルバムで、2枚同時発売されたアルバムのうちの1枚。このアルバムは当時、日本国内限定発売だったため、後に世界発売向けとしてアメリカの[ワーナー・ブラザース・レコード](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・レコード "wikilink")が『 Twins I 』と『 [Twins II](https://ja.wikipedia.org/wiki/Twins_II "wikilink") 』を1枚のアルバム・サイズに抜粋し、[コンピレーション化したアルバムを](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")『 [インヴィテイション](https://ja.wikipedia.org/wiki/インヴィテイション_\(ジャコ・パストリアスのアルバム\) "wikilink") 』として発売されている。さらにこの2枚を2枚組として1999年には『 [Twins I & II](https://ja.wikipedia.org/wiki/Twins_I_&_II "wikilink") 』としても発売されている。2007年には『 [Twins I & II - Live In Japan 1982](https://ja.wikipedia.org/wiki/Twins_I_&_II_-_Live_In_Japan_1982 "wikilink") 』として24[ビット](../Page/ビット.md "wikilink")、デジタル・[リマスタリングされた物も発売される](https://ja.wikipedia.org/wiki/マスタリング "wikilink")。
+『 **Twins I / Aurex Jazz Festival '82** 』は[ジャコ・パストリアス](../Page/ジャコ・パストリアス.md "wikilink")が1982年8月に、彼のビッグ・バンド「[ワード・オブ・マウス・ビッグ・バンド](../Page/ワード・オブ・マウス・ビッグ・バンド.md "wikilink")」を伴って来日した際、同年9月に行われたオーレックス・ジャズ・フェスティバルでのコンサートを収録したライブ・アルバムで、2枚同時発売されたアルバムのうちの1枚。このアルバムは当時、日本国内限定発売だったため、後に世界発売向けとしてアメリカの[ワーナー・ブラザース・レコード](../Page/ワーナー・ブラザース・レコード.md "wikilink")が『 Twins I 』と『 [Twins II](../Page/Twins_II.md "wikilink") 』を1枚のアルバム・サイズに抜粋し、[コンピレーション化したアルバムを](../Page/コンピレーション・アルバム.md "wikilink")『 [インヴィテイション](../Page/インヴィテイション_\(ジャコ・パストリアスのアルバム\).md "wikilink") 』として発売されている。さらにこの2枚を2枚組として1999年には『 [Twins I & II](../Page/Twins_I_&_II.md "wikilink") 』としても発売されている。2007年には『 [Twins I & II - Live In Japan 1982](../Page/Twins_I_&_II_-_Live_In_Japan_1982.md "wikilink") 』として24[ビット](../Page/ビット.md "wikilink")、デジタル・[リマスタリングされた物も発売される](../Page/マスタリング.md "wikilink")。
 
 ## 収録曲
 
@@ -11,11 +11,11 @@
 
 ### The Word of Mouth Sextet
 
-  - [Jaco Pastorius](https://ja.wikipedia.org/wiki/ジャコ・パストリアス "wikilink") (Electric Bass)
+  - [Jaco Pastorius](../Page/ジャコ・パストリアス.md "wikilink") (Electric Bass)
   - [Don Alias](../Page/ドン・アライアス.md "wikilink") (Percussion)
-  - [Randy Brecker](https://ja.wikipedia.org/wiki/ランディ・ブレッカー "wikilink") (Trumpet)
-  - [Peter Erskine](https://ja.wikipedia.org/wiki/ピーター・アースキン "wikilink") (Drums, Timpani)
-  - [Bobby Mintzer](https://ja.wikipedia.org/wiki/ボブ・ミンツァー "wikilink") (Tenor & Soprano Saxophone, Bass Clarinet)
+  - [Randy Brecker](../Page/ランディ・ブレッカー.md "wikilink") (Trumpet)
+  - [Peter Erskine](../Page/ピーター・アースキン.md "wikilink") (Drums, Timpani)
+  - [Bobby Mintzer](../Page/ボブ・ミンツァー.md "wikilink") (Tenor & Soprano Saxophone, Bass Clarinet)
   - *[Othello Molineaux](https://ja.wikipedia.org/wiki/:en:Othello_Molineaux "wikilink")* (Steel Drums)
 
 ### Special Guest
@@ -31,7 +31,7 @@
   - Wayne Andre (Lead Trombone)
   - *[David Bargeron](https://ja.wikipedia.org/wiki/:en:Dave_Bargeron "wikilink")* (Trombone, Tuba)
   - Peter Graves (Bass Trombone, Co-Conductor)
-  - [Bill Reichenbach](https://ja.wikipedia.org/wiki/ビル・ライヒェンバッハ "wikilink") (Bass Trombone)
+  - [Bill Reichenbach](../Page/ビル・ライヒェンバッハ.md "wikilink") (Bass Trombone)
   - Mario Cruz (Tenor & Soprano Saxophone, Clarinet, Alto Flute)
   - Randy Emerick (Baritone Sax, Clarinet, Alto Flute)
   - Alex Foster (Tenor, Alto & Soprano Saxophone, Clarinet, Piccolo)
@@ -61,7 +61,7 @@
 | 1982年9月5日 (日曜日) | 横浜スタジアム (神奈川県)     | Sun, 5 Sep 1982 | Yokohama Stadium, Yokohama |
 
   - Recording Staff
-    Produced by [Jaco Pastorius](https://ja.wikipedia.org/wiki/ジャコ・パストリアス "wikilink")
+    Produced by [Jaco Pastorius](../Page/ジャコ・パストリアス.md "wikilink")
     Co-Produced by Michael Knuckles
     Recording Engineered by Brian Risner, Yoshihisa Watanabe & Yutaka Tomioka
     Assistant Engineered by Isao Ito, Tameo Kawada, Haruhiko Shimokawa, Fumisuke Usui, Tanaka Group (TAMCO) & Moi Sato Group (S.C.I)

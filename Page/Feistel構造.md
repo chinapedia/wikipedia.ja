@@ -1,13 +1,13 @@
 > この記事は[Feistel](https://ja.wikipedia.org/wiki/Feistel)から翻訳されています。
 
 
-**ファイステル構造**（ファイステルこうぞう、）は、[ブロック暗号](https://ja.wikipedia.org/wiki/ブロック暗号 "wikilink")の構成法の一種である。ほとんどのブロック暗号は、実装コストを効率化するために同一のラウンド関数を繰り返す繰り返し暗号になっており、ファイステル構造は繰り返し暗号の代表的な構成法である。他の構成としては[SPN構造](https://ja.wikipedia.org/wiki/SPN構造 "wikilink")がある。
+**ファイステル構造**（ファイステルこうぞう、）は、[ブロック暗号](../Page/ブロック暗号.md "wikilink")の構成法の一種である。ほとんどのブロック暗号は、実装コストを効率化するために同一のラウンド関数を繰り返す繰り返し暗号になっており、ファイステル構造は繰り返し暗号の代表的な構成法である。他の構成としては[SPN構造](https://ja.wikipedia.org/wiki/SPN構造 "wikilink")がある。
 
 ## 概要
 
 1977年に[IBM](../Page/IBM.md "wikilink")の[ホルスト・ファイステル](https://ja.wikipedia.org/wiki/ホルスト・ファイステル "wikilink")が開発した[DESの構造から](../Page/Data_Encryption_Standard.md "wikilink")、ファイステル構造と呼ばれる。[暗号](../Page/暗号.md "wikilink")に求められる性質の1つに暗号文から平文を復号できること（復号可能性）があるが、ファイステル構造は逆変換が自分自身と同じ形になる性質がある（インボルーション）ため、ラウンド関数に任意の関数を用いても復号可能性が保証できるという特徴がある。
 
-DES以降、[FEAL](https://ja.wikipedia.org/wiki/FEAL "wikilink")、[MISTY1](https://ja.wikipedia.org/wiki/MISTY1 "wikilink")、[Camellia](https://ja.wikipedia.org/wiki/Camellia "wikilink")など、多くのブロック暗号でファイステル構造は採用されている。
+DES以降、[FEAL](../Page/FEAL.md "wikilink")、[MISTY1](https://ja.wikipedia.org/wiki/MISTY1 "wikilink")、[Camellia](../Page/Camellia.md "wikilink")など、多くのブロック暗号でファイステル構造は採用されている。
 
 ## 構造
 
@@ -56,7 +56,7 @@ MARSでは、入力を4つに分割しそれぞれの間で計算を行うよう
 ## 関連項目
 
   - [SPN構造](https://ja.wikipedia.org/wiki/SPN構造 "wikilink")
-  - [ブロック暗号](https://ja.wikipedia.org/wiki/ブロック暗号 "wikilink")
+  - [ブロック暗号](../Page/ブロック暗号.md "wikilink")
   - [共通鍵暗号](../Page/共通鍵暗号.md "wikilink")
   - [暗号理論](../Page/暗号理論.md "wikilink")
   - [ホルスト・ファイステル](https://ja.wikipedia.org/wiki/ホルスト・ファイステル "wikilink")

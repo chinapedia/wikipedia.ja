@@ -1,18 +1,18 @@
 > この記事は[Benzo](https://ja.wikipedia.org/wiki/Benzo)から翻訳されています。
 
 
-**benzo**（ベンゾ）は日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[帯広市](../Page/帯広市.md "wikilink")で結成。バンド名は帯広を開拓した[依田勉三](https://ja.wikipedia.org/wiki/依田勉三 "wikilink")に因んでいる。
+**benzo**（ベンゾ）は日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1992年](../Page/1992年.md "wikilink")[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[帯広市](../Page/帯広市.md "wikilink")で結成。バンド名は帯広を開拓した[依田勉三](../Page/依田勉三.md "wikilink")に因んでいる。
 
 ## 概要
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")にシングル『抱きしめたい』、アルバム『benzoの場合』で[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")よりメジャーデビュー。[2001年](../Page/2001年.md "wikilink")解散。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")にシングル『抱きしめたい』、アルバム『benzoの場合』で[日本クラウン](../Page/日本クラウン.md "wikilink")よりメジャーデビュー。[2001年](../Page/2001年.md "wikilink")解散。
 [2013年](../Page/2013年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")、アルバム『benzoの場合』と『DAYS』が、メンバー立会いの最新リマスター、ボーナス・トラック追加収録のデラックス・エディションとして復刻。13年振りのワンマン・ライヴを東京・大阪にて、初のフル・オリジナル・メンバー（平泉光司、伊賀航、高野勲、佐々木一也、キンドー）で開催している\[1\]。
 
 ## メンバー
 
   - **平泉光司** [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当　[COUCH](https://ja.wikipedia.org/wiki/COUCH "wikilink")で活動中。2011年の単独LIVEで40歳になったことを告白した。
-  - **伊賀航** [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")　[細野晴臣](../Page/細野晴臣.md "wikilink")、[曽我部恵一](https://ja.wikipedia.org/wiki/曽我部恵一 "wikilink")、[星野源](https://ja.wikipedia.org/wiki/星野源 "wikilink")のサポート等でも活躍。
-  - **高野勲** [キーボード担当](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")　元[FREEDOM SUITE](https://ja.wikipedia.org/wiki/FREEDOM_SUITE "wikilink")。[GRAPEVINE](https://ja.wikipedia.org/wiki/GRAPEVINE "wikilink")、[サニーデイ・サービス](https://ja.wikipedia.org/wiki/サニーデイ・サービス "wikilink")のサポート等でも活躍。
+  - **伊賀航** [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")　[細野晴臣](../Page/細野晴臣.md "wikilink")、[曽我部恵一](../Page/曽我部恵一.md "wikilink")、[星野源](../Page/星野源.md "wikilink")のサポート等でも活躍。
+  - **高野勲** [キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")　元[FREEDOM SUITE](https://ja.wikipedia.org/wiki/FREEDOM_SUITE "wikilink")。[GRAPEVINE](../Page/GRAPEVINE.md "wikilink")、[サニーデイ・サービス](https://ja.wikipedia.org/wiki/サニーデイ・サービス "wikilink")のサポート等でも活躍。
 
 ## 脱退メンバー
 
@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - キンドー [キーボード担当](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink") aka.辻みちよ。作詞も手掛ける。ツボを得た鍵盤プレイとコーラスで平泉の良きサポート役に徹し、紅一点としてバンドのムード・メイカーを務めた。アルバム『benzoの場合』完成後、メジャー・デビュー前にバンドを離れている。初期のイノトモ・バンドやlakeも兼任していた。イノトモのアルバム『七色』収録の「カルピス」（オムニバス・アルバム『喫茶ロックnow』収録の「涼風懐歌」と同曲）はキンドーの作品。
+  - キンドー [キーボード担当](../Page/キーボード_\(楽器\).md "wikilink") aka.辻みちよ。作詞も手掛ける。ツボを得た鍵盤プレイとコーラスで平泉の良きサポート役に徹し、紅一点としてバンドのムード・メイカーを務めた。アルバム『benzoの場合』完成後、メジャー・デビュー前にバンドを離れている。初期のイノトモ・バンドやlakeも兼任していた。イノトモのアルバム『七色』収録の「カルピス」（オムニバス・アルバム『喫茶ロックnow』収録の「涼風懐歌」と同曲）はキンドーの作品。
 
 他数名が過去に在籍。
 

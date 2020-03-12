@@ -1,7 +1,7 @@
 > この記事は[LP](https://ja.wikipedia.org/wiki/LP)から翻訳されています。
 
 
-**公益社団法人神奈川県LPガス協会**（こうえきしゃだんほうじんかながわけんエルピーガスきょうかい）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")における[液化石油ガス](../Page/液化石油ガス.md "wikilink")を供給する会社の[業界団体](https://ja.wikipedia.org/wiki/業界団体 "wikilink")である。
+**公益社団法人神奈川県LPガス協会**（こうえきしゃだんほうじんかながわけんエルピーガスきょうかい）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")における[液化石油ガス](../Page/液化石油ガス.md "wikilink")を供給する会社の[業界団体](../Page/業界団体.md "wikilink")である。
 
 ## 概要
 
@@ -46,15 +46,15 @@
   - [1982年](../Page/1982年.md "wikilink")（昭和57年）3月 社団法人神奈川県プロパンガス安全点検センター（現：株式会社神奈川県エルピーガス保安センター）設立
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年） 神奈川トラスト緑基金に基金を贈呈開始（以降、毎年）
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）8月 青年部会発足
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")（[平成](../Page/平成.md "wikilink")4年）6月 理事会で日本エルピーガス連合会からの脱会を決定
+  - [1992年](../Page/1992年.md "wikilink")（[平成](../Page/平成.md "wikilink")4年）6月 理事会で日本エルピーガス連合会からの脱会を決定
   - 1992年（平成4年）9月 日本エルピーガス連合会からの脱会を撤回
   - [1996年](../Page/1996年.md "wikilink")（平成8年）5月 社団法人神奈川県エルピーガス協会に名称変更
   - [1999年](../Page/1999年.md "wikilink")（平成11年）8月 廃棄ガス[メーター](https://ja.wikipedia.org/wiki/メーター "wikilink")回収事業開始（以降、毎年）
   - [2000年](../Page/2000年.md "wikilink")（平成12年）9月 神奈川県エルピーガス協会ホームページ公開
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）10月 第1回直火生活キャンペーン開始
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）10月 第1回直火生活キャンペーン開始
   - 2006年（平成18年）11月 湘南支部平塚中郡部会と[湘南ベルマーレ](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")で「キッズサッカースクール」を共催
   - [2009年](../Page/2009年.md "wikilink")（平成21年）4月 スタンド部会と完全に一本化
-  - [2012年](../Page/2012年.md "wikilink")（平成24年）4月1日 新[公益法人](https://ja.wikipedia.org/wiki/公益法人 "wikilink")制度への移行により公益社会法人となる。
+  - [2012年](../Page/2012年.md "wikilink")（平成24年）4月1日 新[公益法人](../Page/公益法人.md "wikilink")制度への移行により公益社会法人となる。
   - [2012年](../Page/2012年.md "wikilink")（平成24年）5月29日 名称を変更し、「神奈川県エルピーガス協会」から「神奈川県LPガス協会」となる。\[1\]
 
 ## 目的・事業
@@ -75,18 +75,18 @@
   - 横浜東支部 - [横浜市](../Page/横浜市.md "wikilink")（[鶴見区](../Page/鶴見区_\(横浜市\).md "wikilink")、[神奈川区](https://ja.wikipedia.org/wiki/神奈川区 "wikilink")）
   - 横浜北支部 - 横浜市（[港北区](https://ja.wikipedia.org/wiki/港北区 "wikilink")、[都筑区](https://ja.wikipedia.org/wiki/都筑区 "wikilink")、[緑区](../Page/緑区_\(横浜市\).md "wikilink")、[青葉区](../Page/青葉区_\(横浜市\).md "wikilink")）
   - 横浜中央南支部 - 横浜市（[西区](https://ja.wikipedia.org/wiki/西区_\(横浜市\) "wikilink")、[中区](../Page/中区_\(横浜市\).md "wikilink")、[南区](https://ja.wikipedia.org/wiki/南区_\(横浜市\) "wikilink")、[磯子区](https://ja.wikipedia.org/wiki/磯子区 "wikilink")、[金沢区](https://ja.wikipedia.org/wiki/金沢区 "wikilink")、[港南区](https://ja.wikipedia.org/wiki/港南区 "wikilink")）
-  - 横浜戸塚支部 - 横浜市（[戸塚区](https://ja.wikipedia.org/wiki/戸塚区 "wikilink")、[瀬谷区](https://ja.wikipedia.org/wiki/瀬谷区 "wikilink")、[栄区](https://ja.wikipedia.org/wiki/栄区 "wikilink")、[泉区](https://ja.wikipedia.org/wiki/泉区_\(横浜市\) "wikilink")）
+  - 横浜戸塚支部 - 横浜市（[戸塚区](https://ja.wikipedia.org/wiki/戸塚区 "wikilink")、[瀬谷区](../Page/瀬谷区.md "wikilink")、[栄区](https://ja.wikipedia.org/wiki/栄区 "wikilink")、[泉区](https://ja.wikipedia.org/wiki/泉区_\(横浜市\) "wikilink")）
   - 横浜旭・保土ヶ谷支部 - 横浜市（[旭区](https://ja.wikipedia.org/wiki/旭区_\(横浜市\) "wikilink")、[保土ケ谷区](../Page/保土ケ谷区.md "wikilink")）
   - 北相支部 - [秦野市](../Page/秦野市.md "wikilink")、[伊勢原市](../Page/伊勢原市.md "wikilink")
-  - 湘南支部 - [平塚市](../Page/平塚市.md "wikilink")、[藤沢市](../Page/藤沢市.md "wikilink")、[茅ヶ崎市](../Page/茅ヶ崎市.md "wikilink")、[寒川町](../Page/寒川町.md "wikilink")、[大磯町](../Page/大磯町.md "wikilink")、[二宮町](https://ja.wikipedia.org/wiki/二宮町 "wikilink")
+  - 湘南支部 - [平塚市](../Page/平塚市.md "wikilink")、[藤沢市](../Page/藤沢市.md "wikilink")、[茅ヶ崎市](../Page/茅ヶ崎市.md "wikilink")、[寒川町](../Page/寒川町.md "wikilink")、[大磯町](../Page/大磯町.md "wikilink")、[二宮町](../Page/二宮町.md "wikilink")
   - 横須賀・三浦支部 - [横須賀市](../Page/横須賀市.md "wikilink")、[三浦市](../Page/三浦市.md "wikilink")
   - 鎌倉・逗葉支部 - [鎌倉市](../Page/鎌倉市.md "wikilink")、[逗子市](https://ja.wikipedia.org/wiki/逗子市 "wikilink")、[葉山町](../Page/葉山町.md "wikilink")
-  - 厚木支部 - [厚木市](https://ja.wikipedia.org/wiki/厚木市 "wikilink")、[愛川町](https://ja.wikipedia.org/wiki/愛川町 "wikilink")、[清川村](https://ja.wikipedia.org/wiki/清川村 "wikilink")
-  - 県央支部 - [大和市](../Page/大和市.md "wikilink")、[海老名市](../Page/海老名市.md "wikilink")、[綾瀬市](https://ja.wikipedia.org/wiki/綾瀬市 "wikilink")、[座間市](../Page/座間市.md "wikilink")
+  - 厚木支部 - [厚木市](../Page/厚木市.md "wikilink")、[愛川町](../Page/愛川町.md "wikilink")、[清川村](../Page/清川村.md "wikilink")
+  - 県央支部 - [大和市](../Page/大和市.md "wikilink")、[海老名市](../Page/海老名市.md "wikilink")、[綾瀬市](../Page/綾瀬市.md "wikilink")、[座間市](../Page/座間市.md "wikilink")
   - 相模原支部 - [相模原市](../Page/相模原市.md "wikilink")（[中央区](https://ja.wikipedia.org/wiki/中央区_\(相模原市\) "wikilink")、[南区](https://ja.wikipedia.org/wiki/南区_\(相模原市\) "wikilink")、[緑区橋本地区](https://ja.wikipedia.org/wiki/緑区_\(相模原市\) "wikilink")）
   - 津久井支部 - 相模原市緑区（城山地区、津久井地区、相模湖地区、藤野地区）
-  - 小田原支部 - [小田原市](../Page/小田原市.md "wikilink")、[箱根町](../Page/箱根町.md "wikilink")、[真鶴町](https://ja.wikipedia.org/wiki/真鶴町 "wikilink")、[湯河原町](../Page/湯河原町.md "wikilink")
-  - 足柄支部 - [南足柄市](../Page/南足柄市.md "wikilink")、[中井町](https://ja.wikipedia.org/wiki/中井町 "wikilink")、[大井町](https://ja.wikipedia.org/wiki/大井町 "wikilink")、[松田町](https://ja.wikipedia.org/wiki/松田町 "wikilink")、[山北町](https://ja.wikipedia.org/wiki/山北町 "wikilink")、[開成町](https://ja.wikipedia.org/wiki/開成町 "wikilink")
+  - 小田原支部 - [小田原市](../Page/小田原市.md "wikilink")、[箱根町](../Page/箱根町.md "wikilink")、[真鶴町](../Page/真鶴町.md "wikilink")、[湯河原町](../Page/湯河原町.md "wikilink")
+  - 足柄支部 - [南足柄市](../Page/南足柄市.md "wikilink")、[中井町](../Page/中井町.md "wikilink")、[大井町](../Page/大井町.md "wikilink")、[松田町](../Page/松田町.md "wikilink")、[山北町](../Page/山北町.md "wikilink")、[開成町](../Page/開成町.md "wikilink")
 
 ### 委員会
 
@@ -146,7 +146,7 @@
 
 #### 廃棄ガスメーター回収事業
 
-1999年（平成11年）より青年部会が主体となり、廃棄ガスメーターを県下一斉回収する事による廃棄物処理コストの差益又は廃棄ガスメーターを[リサイクル](https://ja.wikipedia.org/wiki/リサイクル "wikilink")[資源](../Page/資源.md "wikilink")として売却した収益を活用して[児童福祉施設](https://ja.wikipedia.org/wiki/児童福祉施設 "wikilink")に寄贈品を贈呈。
+1999年（平成11年）より青年部会が主体となり、廃棄ガスメーターを県下一斉回収する事による廃棄物処理コストの差益又は廃棄ガスメーターを[リサイクル](../Page/リサイクル.md "wikilink")[資源](../Page/資源.md "wikilink")として売却した収益を活用して[児童福祉施設](../Page/児童福祉施設.md "wikilink")に寄贈品を贈呈。
 
 ### 防災
 

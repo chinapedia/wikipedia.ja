@@ -33,7 +33,7 @@ Coo「クウ」と読む。千葉県出身 B型
 
 [2003年](../Page/2003年.md "wikilink")以降[インディーズ](../Page/インディーズ.md "wikilink")へ活動を移す。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[音楽プロデュースや楽曲提供を行うmiguelと](../Page/音楽プロデューサー.md "wikilink")**10○**（とわ）名義の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")を始動。
+[2005年](../Page/2005年.md "wikilink")には[音楽プロデュースや楽曲提供を行うmiguelと](../Page/音楽プロデューサー.md "wikilink")**10○**（とわ）名義の[音楽ユニット](../Page/音楽ユニット.md "wikilink")を始動。
 
 FM NORTH WAVE（北海道）、cross fm（福岡）でラジオパーソナリティーも務めるなど、一気に活躍の場を広げる。
 

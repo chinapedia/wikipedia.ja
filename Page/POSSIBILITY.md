@@ -1,7 +1,7 @@
 > この記事は[POSSIBILITY](https://ja.wikipedia.org/wiki/POSSIBILITY)から翻訳されています。
 
 
-**POSSIBILITY**（ポッシビリティー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー・ロック](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1999年[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[藤沢市](../Page/藤沢市.md "wikilink")にて結成。2007年メジャーデビュー。2010年メジャー契約終了にてEIG、KAZU-Oが脱退。下降気味だったことから活動が休止状態となり、メンバーはソロ活動を行っていた。
+**POSSIBILITY**（ポッシビリティー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1999年[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[藤沢市](../Page/藤沢市.md "wikilink")にて結成。2007年メジャーデビュー。2010年メジャー契約終了にてEIG、KAZU-Oが脱退。下降気味だったことから活動が休止状態となり、メンバーはソロ活動を行っていた。
 
 ## メンバー
 
@@ -21,22 +21,22 @@
 
 #### インディーズ
 
-| 枚   | 発売日                                                                                         | タイトル                                                                                          |
-| --- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 1st | [2002年](../Page/2002年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")                    | ''' [POSSIBILITY](https://ja.wikipedia.org/wiki/POSSIBILITY_\(POSSIBILITYの曲\) "wikilink") ''' |
-| 2nd | [2003年](../Page/2003年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")                      | ''' [mornin'](https://ja.wikipedia.org/wiki/mornin' "wikilink") '''                           |
-| 3rd | [2004年](../Page/2004年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")                    | ''' [Myself](https://ja.wikipedia.org/wiki/Myself_\(POSSIBILITYの曲\) "wikilink") '''           |
-| 4th | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月20日](../Page/7月20日.md "wikilink") | ''' [ヒマワリ](https://ja.wikipedia.org/wiki/ヒマワリ_\(POSSIBILITYの曲\) "wikilink") '''               |
+| 枚   | 発売日                                                                      | タイトル                                                                                          |
+| --- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| 1st | [2002年](../Page/2002年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink") | ''' [POSSIBILITY](https://ja.wikipedia.org/wiki/POSSIBILITY_\(POSSIBILITYの曲\) "wikilink") ''' |
+| 2nd | [2003年](../Page/2003年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")   | ''' [mornin'](https://ja.wikipedia.org/wiki/mornin' "wikilink") '''                           |
+| 3rd | [2004年](../Page/2004年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink") | ''' [Myself](https://ja.wikipedia.org/wiki/Myself_\(POSSIBILITYの曲\) "wikilink") '''           |
+| 4th | [2005年](../Page/2005年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink") | ''' [ヒマワリ](https://ja.wikipedia.org/wiki/ヒマワリ_\(POSSIBILITYの曲\) "wikilink") '''               |
 
 #### メジャー
 
-| 枚   | 発売日                                                                                           | タイトル                                                                            |
-| --- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 1st | [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")   | ''' [NAME/Runner](https://ja.wikipedia.org/wiki/NAME/Runner "wikilink") '''     |
-| 2nd | [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")   | ''' [恋愛の十ヶ条](https://ja.wikipedia.org/wiki/恋愛の十ヶ条 "wikilink") '''               |
-| 3rd | [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[11月14日](../Page/11月14日.md "wikilink") | ''' [lovely days](https://ja.wikipedia.org/wiki/lovely_days "wikilink") '''     |
-| 4th | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月28日](../Page/5月28日.md "wikilink")   | ''' [sanagi](https://ja.wikipedia.org/wiki/sanagi "wikilink") '''               |
-| 5th | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月20日](../Page/1月20日.md "wikilink")   | ''' [サヨナラ](https://ja.wikipedia.org/wiki/サヨナラ_\(POSSIBILITYの曲\) "wikilink") ''' |
+| 枚   | 発売日                                                                                         | タイトル                                                                            |
+| --- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 1st | [2007年](../Page/2007年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")                    | ''' [NAME/Runner](https://ja.wikipedia.org/wiki/NAME/Runner "wikilink") '''     |
+| 2nd | [2007年](../Page/2007年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")                    | ''' [恋愛の十ヶ条](https://ja.wikipedia.org/wiki/恋愛の十ヶ条 "wikilink") '''               |
+| 3rd | [2007年](../Page/2007年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink")                  | ''' [lovely days](https://ja.wikipedia.org/wiki/lovely_days "wikilink") '''     |
+| 4th | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月28日](../Page/5月28日.md "wikilink") | ''' [sanagi](https://ja.wikipedia.org/wiki/sanagi "wikilink") '''               |
+| 5th | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月20日](../Page/1月20日.md "wikilink") | ''' [サヨナラ](https://ja.wikipedia.org/wiki/サヨナラ_\(POSSIBILITYの曲\) "wikilink") ''' |
 
 ### ミニアルバム
 
@@ -88,7 +88,7 @@
 
 ### 参加作品
 
-1.  [Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")「**[HARVEST](../Page/HARVEST_\(Dragon_Ashのアルバム\).md "wikilink")**」（2003年7月23日）
+1.  [Dragon Ash](../Page/Dragon_Ash.md "wikilink")「**[HARVEST](../Page/HARVEST_\(Dragon_Ashのアルバム\).md "wikilink")**」（2003年7月23日）
       -
         5.United Rhythm feat.43K,EIG
 
@@ -100,16 +100,16 @@
 
 ## タイアップ
 
-  - Night Light Insect･･･[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系「[ぷらちなロンドンブーツ](https://ja.wikipedia.org/wiki/ぷらちなロンドンブーツ "wikilink")」エンディングテーマ
+  - Night Light Insect･･･[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[ぷらちなロンドンブーツ](../Page/ぷらちなロンドンブーツ.md "wikilink")」エンディングテーマ
   - Gift･･･高校野球予選「[甲子園の道](https://ja.wikipedia.org/wiki/甲子園の道 "wikilink")」テーマ曲
-  - walk･･･テレビ朝日「[やぐちひとり](https://ja.wikipedia.org/wiki/やぐちひとり "wikilink")」エンディングテーマ
+  - walk･･･テレビ朝日「[やぐちひとり](../Page/やぐちひとり.md "wikilink")」エンディングテーマ
   - ヒマワリ･･･全国高校野球地区予選テーマ曲
-  - 恋愛の十ヶ条･･･「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")」2007年5月度エンディングテーマ
+  - 恋愛の十ヶ条･･･「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」2007年5月度エンディングテーマ
   - sanagi･･･TVアニメ「[銀魂](../Page/銀魂_\(アニメ\).md "wikilink")」2008年4月期エンディングテーマ
 
 ## 関連項目
 
-  - [Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")
+  - [Dragon Ash](../Page/Dragon_Ash.md "wikilink")
 
 ## 外部リンク
 

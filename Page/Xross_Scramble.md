@@ -1,11 +1,11 @@
 > この記事は[Xross Scramble](https://ja.wikipedia.org/wiki/Xross_Scramble)から翻訳されています。
 
 
-『**Xross Scramble**』（クロス スクランブル）は[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[4月27日](../Page/4月27日.md "wikilink")に[戯画から発売された](../Page/戯画_\(ブランド\).md "wikilink")[18禁ADV](../Page/アダルトゲーム.md "wikilink")+ACTゲーム。
+『**Xross Scramble**』（クロス スクランブル）は[2007年](../Page/2007年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")に[戯画から発売された](../Page/戯画_\(ブランド\).md "wikilink")[18禁ADV](../Page/アダルトゲーム.md "wikilink")+ACTゲーム。
 
 ## 概要
 
-戯画の中にあるTEAM BALDRHEADによって製作したファンディスク。「BALDR」シリーズと「[DUEL SAVIOR](https://ja.wikipedia.org/wiki/DUEL_SAVIOR "wikilink")」シリーズのコンテンツが用意されており、主にDUEL SAVIORの世界が中心として動いている。
+戯画の中にあるTEAM BALDRHEADによって製作したファンディスク。「BALDR」シリーズと「[DUEL SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")」シリーズのコンテンツが用意されており、主にDUEL SAVIORの世界が中心として動いている。
 
 ## Scramble Savior
 
@@ -31,7 +31,7 @@
   - ディクロス（声：[広野大地](https://ja.wikipedia.org/wiki/広野大地 "wikilink")）
     王家に仕える親衛隊長。バンフリートに仕える大貴族の家系であり、シャルロッテを使い王家を乗っ取ろうと企てている。
     破滅と密かに手を結んでおり、モンスターを召喚することができる。全てはアヴァターの為に破滅と和平を結んだと主張しているが、それはあくまで貴族としての考えであり、結局は自分達の保身でしかなかった。最終的に破滅の将に力を借りて自らを化け物となる。
-  - 涼波かすり（すずなみ かすり）（声：[神月あおい](https://ja.wikipedia.org/wiki/神月あおい "wikilink")）
+  - 涼波かすり（すずなみ かすり）（声：[神月あおい](../Page/神月あおい.md "wikilink")）
     クレアと共にケーキを食べに行ったときに出会う「ファミーユ」のウェイトレス。大河とも顔なじみ。なお、名前が出てこないので名前が「ウェイトレス」となっている。
   - 杉澤恵麻（すぎさわ えま）（ 声：[Yuki-Lin](https://ja.wikipedia.org/wiki/Yuki-Lin "wikilink")）
     「ファミーユ」の責任者。クレアたちがお金がなかったところ立て替えてくれる。なお、名前が出てこないので名前が「店の責任者」となっている。
@@ -48,12 +48,12 @@
 
 #### 『Xross Scramble』
 
-  - エスカ・ロニア（声：[木村あやか](https://ja.wikipedia.org/wiki/木村あやか "wikilink")）
+  - エスカ・ロニア（声：[木村あやか](../Page/木村あやか.md "wikilink")）
     王家の推薦からフローリア学園の救世主候補として来た修道士(モンク)の女の子。他の世界から召喚されたのではなく、フローリア学園のあるレットカーパス州から離れたオーター州から来ている。素手での格闘時を中心とした戦い方で、召喚器もあるようだが能力は不明。影の実力NO.1のリコリスに勝利するほどの実力を持っている。修道院での生活が長いため世間知らず、そして無口のため救世主クラスでは中々馴染めないでいる。普段は大人しそうだが、戦闘になると生き生きとした表情になる。趣味は掃除で修道院にいた頃から真面目にやっており、汚いところがあると掃除をしたいとつねに思っている。修道院は女性しかいなかったため、恋愛関係においてはものすごく疎い。大河のイメージは他の救世主候補に尻を敷かれているところから一番弱いと認識しているようで実力を試そうとしない。
     実はこの世界ではない異世界にいる神に命じられて救世主や破滅を滅ぼすためにやってきた使者。だが、純粋に強者を求めて戦いを望んでいるだけであり、けして神に完全に支配されているわけではない。
     彼女の召喚器は両腕にリング状のモノが現れる『エスクラヴァージュ』。これは修道院長が彼女の強力な力を抑える為の道具であり、厳密には召喚器ではない。そのため、彼女が何も出していない時が真の力を発揮する時である。
 
-#### 『[DUEL SAVIOR](https://ja.wikipedia.org/wiki/DUEL_SAVIOR "wikilink")』
+#### 『[DUEL SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")』
 
   - 本作のメインの舞台となる作品。設定などはほとんど変わっていないが、敵だった人間が味方になっていたりしている。
 
@@ -63,37 +63,37 @@
     本作の主人公でありプレイヤーキャラ。今回ナナシの怪しげの薬が原因で、一度戦った相手に短時間だけ変身してしまう能力を身につけてしまう。
   - 当真未亜（とうま みあ）（声：[歌織](../Page/歌織.md "wikilink")）
     大河の義妹。大河同様の理由でアヴァターに召喚された。兄である大河のストッパーでもあるが、重度のブラコンのためストッパーと言うよりも嫉妬に近い。
-  - リリィ・シアフィールド（声：[カンザキカナリ](https://ja.wikipedia.org/wiki/カンザキカナリ "wikilink")）
+  - リリィ・シアフィールド（声：[カンザキカナリ](../Page/カンザキカナリ.md "wikilink")）
     救世主クラス主席の天才魔導師。本作でも大河と張り合う場面が多いが、けして仲が悪いわけでもない。
-  - ベリオ・トロープ（声：[西田こむぎ](https://ja.wikipedia.org/wiki/西田こむぎ "wikilink")）
+  - ベリオ・トロープ（声：[西田こむぎ](../Page/西田こむぎ.md "wikilink")）
     救世主クラス委員長の僧侶。他の救世主候補をまとめている。面倒見がいいが頭が固い。
   - ヒイラギ・カエデ（声：[小田茉莉菜](https://ja.wikipedia.org/wiki/小田茉莉菜 "wikilink")）
     救世主クラスの忍者。大河の事を師匠と呼び慕う。見た目と実力とは裏腹に犬のような性格をしている。
-  - リコ・リス（声：[春日アン](https://ja.wikipedia.org/wiki/春日アン "wikilink")）
+  - リコ・リス（声：[春日アン](../Page/春日アン.md "wikilink")）
     救世主クラスの召喚師。赤の書の精霊であり、赤の主である大河と契約を交わしている。異世界での無駄な知識をよく知っている。
-  - ナナシ（声：[紫苑みやび](https://ja.wikipedia.org/wiki/紫苑みやび "wikilink")）
+  - ナナシ（声：[紫苑みやび](../Page/紫苑みやび.md "wikilink")）
     フローリア学園の地下墓地に住むゾンビの女の子。頭が腐っているのか、誤字がやたらと多い。本作では救世主候補に属していない。
   - クレア（声：[神咲あかり](https://ja.wikipedia.org/wiki/神咲あかり "wikilink")）
     王都アーグのバーンフリート王家の王女。見た目は小さく偉そうな態度をとっているが、高い知性と知識を持つ賢者。本来戦うことができないはずだが、兵士を呼び寄せたり、モンスターを召喚したり、魔道兵器レベリオンを起動させたりととんでもない戦い方をする。
-  - イムニティ（声：[水鏡](https://ja.wikipedia.org/wiki/水鏡_\(声優\) "wikilink")）
+  - イムニティ（声：[水鏡](../Page/水鏡_\(声優\).md "wikilink")）
     リコと同じ書の精霊。本編では破滅の将はずだが、今作では味方。救世主候補ではないものの、白の主である未亜と契約しているので救世主候補と行動を共にする。未亜のことを常に気にかけており、未亜に弱い。未亜からは「イムちゃん」と呼ばれている。少しツンデレ属性が混じっており、リリィ同様に大河と張り合うことが多い。リコ同様ご飯をよく食べる。
-  - ミュリエル・シアフィールド（声：[大波こなみ](https://ja.wikipedia.org/wiki/大波こなみ "wikilink")）
+  - ミュリエル・シアフィールド（声：[大波こなみ](../Page/大波こなみ.md "wikilink")）
     フローリア学園の学園長。リリィの義理の母親であり稀代の天才魔道士。
-  - セルビウム・ボルト（声：[石川大介](https://ja.wikipedia.org/wiki/石川大介 "wikilink")）
+  - セルビウム・ボルト（声：[石川大介](../Page/石川大介.md "wikilink")）
     傭兵科の生徒。大河の親友で、大河に劣らないぐらい女好き。
   - ダリア・クラフォード（声：[松下雅](https://ja.wikipedia.org/wiki/松下雅 "wikilink")）
     学園の戦技科教師。妙に明るいノリのした女性。彼女が戦うことはないが、クレアの技で登場する。
-  - ダウニー・リード（声：[成田剣](https://ja.wikipedia.org/wiki/成田剣 "wikilink")）
+  - ダウニー・リード（声：[成田剣](../Page/成田剣.md "wikilink")）
     学園の教養学科教師。落ち着いた物腰をしており、よく大河に嫌味を言う。魔術に長けている。
-  - ブラックパピヨン（声：[西田こむぎ](https://ja.wikipedia.org/wiki/西田こむぎ "wikilink")）
+  - ブラックパピヨン（声：[西田こむぎ](../Page/西田こむぎ.md "wikilink")）
     ベリオのもう一つの人格。怪しげなコスチュームに身を包んだ女怪盗で、ベリオが気を失っている時のみ行動する。
-  - ロベリア・リード（声：[紫苑みやび](https://ja.wikipedia.org/wiki/紫苑みやび "wikilink")）
+  - ロベリア・リード（声：[紫苑みやび](../Page/紫苑みやび.md "wikilink")）
     破滅の副幹。死体を操るネクロマンサーにして魔法騎士。今回は、他の破滅の将とコントのような会話を繰り広げたりとコミカルな部分が増えた。
   - シェザル（声：[前川健志](https://ja.wikipedia.org/wiki/前川健志 "wikilink")）
     破滅の将の一人。暗器使いの暗殺者。今回は学園に潜入する上で、仮面を外して変装していたつもりしているなど、間抜けな部分が増えた。
-  - ムドウ（声：[宮林康](https://ja.wikipedia.org/wiki/宮林康 "wikilink")）
+  - ムドウ（声：[宮林康](../Page/宮林康.md "wikilink")）
     破滅の将の一人。大型の剣を振り回す巨漢の忍者。
-  - ルビナス（声：[紫苑みやび](https://ja.wikipedia.org/wiki/紫苑みやび "wikilink")）
+  - ルビナス（声：[紫苑みやび](../Page/紫苑みやび.md "wikilink")）
     1000年前の救世主候補の一人。直接名前を呼ばれるわけではないが、エスカと出会ったときや大河とエスカが戦う前に励ます時だけ登場する。
 
 #### 『[angel breath](https://ja.wikipedia.org/wiki/angel_breath "wikilink")』
@@ -104,14 +104,14 @@
 
   - 壱岐つばさ（いちき-）（声：[さくら](https://ja.wikipedia.org/wiki/さくら_\(声優\) "wikilink")）
     王都アーグの王立病院に勤めている看護士。大河がリリィを連れ去ろうとしていると勘違いをして戦いを挑んでくる。
-  - 白井寧々子（しろい ねねこ）（声：[かわしまりの](https://ja.wikipedia.org/wiki/かわしまりの "wikilink")）
+  - 白井寧々子（しろい ねねこ）（声：[かわしまりの](../Page/かわしまりの.md "wikilink")）
     王都アーグの王立病院に勤めている看護士。過去の世界の『破滅の将』の一人で、ワータイガーの血を引いている。本来は心優しいが気弱でドジな女の子であり、救世主候補と戦わないために記憶喪失のフリをしている。
   - クリミア（声：[柴田蕗](https://ja.wikipedia.org/wiki/柴田蕗 "wikilink")）
     王都アーグの王立病院に勤めている看護士。過去の世界の『救世主候補』の一人。この世界に飛ばされた際、記憶喪失となっている。「ボク」少女。大河の事を「おじさん」と呼んで大河にショックを与えた。
     召喚器は巨大な剣「コスモス」。だが、記憶を失っているため召喚器の声を聞くことはできない。
   - 森里知香（もりさと ちか）（声：[和葉](https://ja.wikipedia.org/wiki/和葉 "wikilink")）
     王都アーグの王立病院に勤めているエリート看護士。つばさと同様の理由で戦いを挑んでくる。
-  - ガブリエル（声：[みる](https://ja.wikipedia.org/wiki/みる "wikilink")）
+  - ガブリエル（声：[みる](../Page/みる.md "wikilink")）
     アヴァターの魔法科学によって作られたメイド型ロボット。王都の地下道で進入してくるゾンビを撃退しながら掃除をしている。よく、首がもげるらしく大河が初めて出会ったときもナナシの同族と勘違いした。
 
 #### 『[ショコラ 〜maid cafe "curio"〜](../Page/ショコラ_〜maid_cafe_"curio"〜.md "wikilink")』
@@ -122,29 +122,29 @@
 
   - 真名井美里（まない みさと）（声：[桜井美鈴](../Page/桜井美鈴.md "wikilink")）
     王都アーグにあるメイド酒場「キュリア」の看板店員。
-  - 結城すず（ゆうき-）（声：[鷹月さくら](https://ja.wikipedia.org/wiki/鷹月さくら "wikilink")）
+  - 結城すず（ゆうき-）（声：[鷹月さくら](../Page/鷹月さくら.md "wikilink")）
     王都アーグにあるメイド酒場「キュリア」の店員。幼く見えるが玲愛と同じ歳。
   - 大村翠（おおむら みどり）（声：[松下雅](https://ja.wikipedia.org/wiki/松下雅 "wikilink")）
     王都アーグにあるメイド酒場「キュリア」のフロアチーフ。大河をメイド酒場破りと勘違いする。
   - 桜井真子（さくらい まこ）（声：[鳩野比奈](../Page/鳩野比奈.md "wikilink")）
     王都アーグにあるメイド酒場「キュリア」の定員。
-  - 橘 さやか（たちばな-）（声：[かわしまりの](https://ja.wikipedia.org/wiki/かわしまりの "wikilink")）
+  - 橘 さやか（たちばな-）（声：[かわしまりの](../Page/かわしまりの.md "wikilink")）
     王都アーグにあるメイド酒場「キュリア」のコック。
-  - 秋島香奈子（あきしま かなこ）（声：[乃田あす実](https://ja.wikipedia.org/wiki/乃田あす実 "wikilink")）
+  - 秋島香奈子（あきしま かなこ）（声：[乃田あす実](../Page/乃田あす実.md "wikilink")）
     王都アーグにあるメイド酒場「キュリア」の常連客。大河が榊原と戦う前に助言を与える。
   - 榊原（さかきばら）（声：[一条和矢](../Page/一条和矢.md "wikilink")）
     王都アーグにあるメイド酒場「キュリア」のマスター。通称バラさん。何故か『当て身』の達人。
 
-#### 『[パルフェ 〜ショコラ second brew〜](https://ja.wikipedia.org/wiki/パルフェ_〜ショコラ_second_brew〜 "wikilink")』
+#### 『[パルフェ 〜ショコラ second brew〜](../Page/パルフェ_〜ショコラ_second_brew〜.md "wikilink")』
 
   - ショコラシリーズの作品。二人の王女ではかすりと恵麻が出ているが、こちらでは花鳥玲愛がゲスト出演しており、ショコラのキャラと一緒に登場する。
 
 <!-- end list -->
 
-  - 花鳥玲愛（かとり れあ）（声：[松永雪希](https://ja.wikipedia.org/wiki/松永雪希 "wikilink")）
+  - 花鳥玲愛（かとり れあ）（声：[松永雪希](../Page/松永雪希.md "wikilink")）
     王都アーグにあるメイド酒場「キュリア」の新人店員。偶然大河と女子更衣室(しかも、彼女のロッカーから)で出会ってしまったことで戦うハメになる。性格からリリィとは似た者同士で妙に気が合う。大河の事を「痴漢男」と呼び、大河は彼女を「暴力メイド」と呼ぶ。
 
-#### 『[この青空に約束を―](https://ja.wikipedia.org/wiki/この青空に約束を― "wikilink")』
+#### 『[この青空に約束を―](../Page/この青空に約束を―.md "wikilink")』
 
   - ショコラシリーズの作品。学園と同じ州の外れにある離島『南サコー島』の島民として登場する。大河たちは謎の巨大な影の調査のため、この島に来ることになる。
 
@@ -160,10 +160,10 @@
     高台の上にあるつぐみ寮の大家。元学園理事長の孫で現理事長。
   - 藤村 静（ふじむら しず）（声：[北都南](../Page/北都南.md "wikilink")）
     高台の上にあるつぐみ寮の住人。無口で大人し目の少女。
-  - 桐島 沙衣里（きりしま さえり）（声：[紫苑みやび](https://ja.wikipedia.org/wiki/紫苑みやび "wikilink")）
+  - 桐島 沙衣里（きりしま さえり）（声：[紫苑みやび](../Page/紫苑みやび.md "wikilink")）
     高台の上にあるつぐみ寮の寮長。この学園の教師も務めている。
 
-#### 『[BALDR FORCE](https://ja.wikipedia.org/wiki/BALDR_FORCE "wikilink")』
+#### 『[BALDR FORCE](../Page/BALDR_FORCE.md "wikilink")』
 
   - BALDRシリーズからゲスト出演。固まって登場せず、キャラクターもたった二人しか登場しない。
 
@@ -184,11 +184,11 @@
     フローリア学園のチアリーディング部の部員。洗脳された状態で大河と戦うことになる。
   - 橘美雪（たちばな みゆき）（声：[小田茉莉菜](https://ja.wikipedia.org/wiki/小田茉莉菜 "wikilink")）
     フローリア学園のチアリーディング部の部長。
-  - 秋野もみじ（あきの-）（声：[みる](https://ja.wikipedia.org/wiki/みる "wikilink")）
+  - 秋野もみじ（あきの-）（声：[みる](../Page/みる.md "wikilink")）
     フローリア学園のチアリーディング部の部員。
   - 夏木双葉（なつきふたば）（声：[桜井ゆう](https://ja.wikipedia.org/wiki/桜井ゆう "wikilink")）
     フローリア学園のチアリーディング部の部員。
-  - 白樺梢（しらかばこずえ）（声：[大波こなみ](https://ja.wikipedia.org/wiki/大波こなみ "wikilink")）
+  - 白樺梢（しらかばこずえ）（声：[大波こなみ](../Page/大波こなみ.md "wikilink")）
     フローリア学園のチアリーディング部の部員。
 
 #### 『[ヴァリアブル・ジオ](../Page/ヴァリアブル・ジオ.md "wikilink")』
@@ -204,7 +204,7 @@
 
 ## BALDR FORCE Re-Action
 
-「BALDR FORCE Re-Action」は[BALDR FORCEシリーズを元としたシナリオ](https://ja.wikipedia.org/wiki/BALDR_FORCE "wikilink")。[BALDR BULLET "REVELLION"のメインキャラクターも登場する](https://ja.wikipedia.org/wiki/BALDR_BULLET_"REVELLION" "wikilink")。 「ストーリーモード」では全19面で、次のステージに進むごとに待ち受けるボスと戦う（透とみのりを除く）。ある条件を満たせば「サバイバルモード」が出来るようになり、20面以降もプレイ可能になる。その場合、ボスの数も複数になり全体的な難易度も増す。
+「BALDR FORCE Re-Action」は[BALDR FORCEシリーズを元としたシナリオ](../Page/BALDR_FORCE.md "wikilink")。[BALDR BULLET "REVELLION"のメインキャラクターも登場する](https://ja.wikipedia.org/wiki/BALDR_BULLET_"REVELLION" "wikilink")。 「ストーリーモード」では全19面で、次のステージに進むごとに待ち受けるボスと戦う（透とみのりを除く）。ある条件を満たせば「サバイバルモード」が出来るようになり、20面以降もプレイ可能になる。その場合、ボスの数も複数になり全体的な難易度も増す。
 
 ### あらすじ
 
@@ -214,15 +214,15 @@
 
 BALDR FORCE
 
-  - 主な登場人物については[BALDR FORCEの登場人物を参照](https://ja.wikipedia.org/wiki/BALDR_FORCE "wikilink")。
+  - 主な登場人物については[BALDR FORCEの登場人物を参照](../Page/BALDR_FORCE.md "wikilink")。
 
 <!-- end list -->
 
-  - 相馬透 声：[浦田優](https://ja.wikipedia.org/wiki/浦田優 "wikilink")
-    水坂憐 声：[まきいづみ](https://ja.wikipedia.org/wiki/まきいづみ "wikilink")
+  - 相馬透 声：[浦田優](../Page/浦田優.md "wikilink")
+    水坂憐 声：[まきいづみ](../Page/まきいづみ.md "wikilink")
     瀬川みのり 声：[戸沼ゆず](https://ja.wikipedia.org/wiki/戸沼ゆず "wikilink")
     紫藤彩音 声：[坂本翔子](https://ja.wikipedia.org/wiki/坂本翔子 "wikilink")
-    笹桐月菜 声：[芹園みや](https://ja.wikipedia.org/wiki/芹園みや "wikilink")
+    笹桐月菜 声：[芹園みや](../Page/芹園みや.md "wikilink")
     リャン 声：[生稲誓子](https://ja.wikipedia.org/wiki/生稲誓子 "wikilink")
     バチェラ 声：[鮎川守](https://ja.wikipedia.org/wiki/鮎川守 "wikilink")
     八木澤宗次 声：[佐倉徹](https://ja.wikipedia.org/wiki/佐倉徹 "wikilink")
@@ -232,11 +232,11 @@ BALDR FORCE
 BALDR BULLET "REVELLION"
 
   - セルゲイ・カークランド 声：[畠山亮二](https://ja.wikipedia.org/wiki/畠山亮二 "wikilink")
-    カーナ・アビトボル 声：[春日アン](https://ja.wikipedia.org/wiki/春日アン "wikilink")
-    レベッカ・プルシェンコ 声：[みる](https://ja.wikipedia.org/wiki/みる "wikilink")
-    フェイ・マリニナ 声：[大波こなみ](https://ja.wikipedia.org/wiki/大波こなみ "wikilink")
+    カーナ・アビトボル 声：[春日アン](../Page/春日アン.md "wikilink")
+    レベッカ・プルシェンコ 声：[みる](../Page/みる.md "wikilink")
+    フェイ・マリニナ 声：[大波こなみ](../Page/大波こなみ.md "wikilink")
     テレジア・アニシア 声：[静野ももか](https://ja.wikipedia.org/wiki/静野ももか "wikilink")
-    デュラハン・カニンガム 声：[石井康嗣](https://ja.wikipedia.org/wiki/石井康嗣 "wikilink")
+    デュラハン・カニンガム 声：[石井康嗣](../Page/石井康嗣.md "wikilink")
     レナ・ブッティリスカヤ 声：[Yuki-Lin](https://ja.wikipedia.org/wiki/Yuki-Lin "wikilink")
     ステファン・ベルナンデス（ステイ＝ハイ） 声：[TAGOSAKU](https://ja.wikipedia.org/wiki/TAGOSAKU "wikilink")
 
@@ -249,8 +249,8 @@ BALDR BULLET "REVELLION"
 ## 関連項目
 
   - [戯画](../Page/戯画_\(ブランド\).md "wikilink")
-  - [DUEL SAVIOR](https://ja.wikipedia.org/wiki/DUEL_SAVIOR "wikilink")
-  - [BALDR FORCE](https://ja.wikipedia.org/wiki/BALDR_FORCE "wikilink")
+  - [DUEL SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")
+  - [BALDR FORCE](../Page/BALDR_FORCE.md "wikilink")
 
 ## 外部リンク
 

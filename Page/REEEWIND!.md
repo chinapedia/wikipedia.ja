@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [LISA脱退後の初のシングル](https://ja.wikipedia.org/wiki/LISA_\(歌手\) "wikilink")。曲ごとに異なる[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")と[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink") (Loves) する "m-flo loves Who?" 体制のスタートとなった。
+  - [LISA脱退後の初のシングル](../Page/LISA_\(歌手\).md "wikilink")。曲ごとに異なる[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")と[コラボレーション](../Page/コラボレーション.md "wikilink") (Loves) する "m-flo loves Who?" 体制のスタートとなった。
   - 同日発売の Crystal Kay loves M-FLO 「[I LIKE IT](../Page/I_LIKE_IT.md "wikilink")」とのツインシングル。
   - カップリングも loves Crystal Kay による「gET oN\!」。この曲では[☆Takuがラップを披露している](https://ja.wikipedia.org/wiki/m-flo "wikilink")。
   - アーティスト名を大文字のM-FLOとしているが、使用されたのは本シングルおよび前述の「I LIKE IT」のみである。
@@ -14,8 +14,8 @@
 ## 収録曲
 
 1.  REEEWIND\!
-      - [テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系「[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")」エンディングテーマ曲
-2.  DO U LIKE IT? (by [Fantastic Plastic Machine](https://ja.wikipedia.org/wiki/Fantastic_Plastic_Machine "wikilink"))
+      - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")」エンディングテーマ曲
+2.  DO U LIKE IT? (by [Fantastic Plastic Machine](../Page/Fantastic_Plastic_Machine.md "wikilink"))
       - Crystal Kay loves M-FLO「I LIKE IT」のリミックスバージョン。
 3.  gET oN\!
       - この曲の[リリックで](https://ja.wikipedia.org/wiki/韻文詩 "wikilink")[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の名前を使用したことが契機となり「Astrosexy」でCHEMISTRYとコラボレーションした。[JR東日本](../Page/東日本旅客鉄道.md "wikilink")「シュン感、東京。」CMソング。

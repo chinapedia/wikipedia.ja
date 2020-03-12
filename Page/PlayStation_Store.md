@@ -7,9 +7,9 @@
 
 特に表記がない項目は日本国内のもの。
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - 11月11日 - PS3の発売と同時に「**PLAYSTATION Store**」としてオープン。
-  - [2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")
+  - [2007年](../Page/2007年.md "wikilink")
       - 1月24日 - ウォレットへのチャージ（入金）手段として[Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")に対応。
       - 6月上旬 - ウォレットへのチャージ手段として「PLAYSTATION Network チケット」をコンビニ・郵便局ATMで販売開始。
       - 9月20日 - PLAYSTATION Store for PCサービス開始。
@@ -29,7 +29,7 @@
       - 11月2日 - ビデオコンテンツを強化。従来のアニメ中心から海外と同様に映画・ドラマ・ミュージックビデオなども提供（2008年開始当初の段階では国内はアニメのみが配信されていた、コンテンツ強化に合わせてレンタルだけでなく販売（セル）も始まった、更新日は毎週水曜日）。
       - 12月10日 - PSP向けにコミックの配信を開始。
   - [2011年](../Page/2011年.md "wikilink")
-      - 1月27日 - [Android](https://ja.wikipedia.org/wiki/Android "wikilink")（PlayStation Suite（現：[PlayStation Mobile](https://ja.wikipedia.org/wiki/PlayStation_Mobile "wikilink")））向けにも提供すると発表。
+      - 1月27日 - [Android](../Page/Android.md "wikilink")（PlayStation Suite（現：[PlayStation Mobile](https://ja.wikipedia.org/wiki/PlayStation_Mobile "wikilink")））向けにも提供すると発表。
       - 4月21日 - [PlayStation Network個人情報流出事件に伴う大規模なサービス停止](https://ja.wikipedia.org/wiki/PlayStation_Network個人情報流出事件 "wikilink")（全世界）。
       - 7月6日 - 2ヶ月半ぶりにサービス再開（日本）。なお、日本を除く地域は6月にサービスが再開。
       - 11月18日 - 1アカウントあたりの機器認証台数が最大5台（機種問わず）から、PS3が最大2台、PSP（PSP goやPSVitaを含む）が最大2台に変更となる。ただし、変更以前に購入したソフトの機器認証台数は変更前と変わらない\[2\]。
@@ -38,7 +38,7 @@
       - 9月末 - PlayStation Store内のコミックカテゴリでのコンテンツの購入を終了\[4\]。
       - 12月 - コミックコンテンツの購入済みコンテンツの再ダウンロード、「コミックリーダー」のダウンロード提供を終了\[5\]。
   - [2013年](../Page/2013年.md "wikilink")
-      - 5月20日 - PCや[スマートデバイス](https://ja.wikipedia.org/wiki/スマートデバイス "wikilink")の[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")でPlayStation Storeにアクセスできる「Sony Entertainment Network オンラインストア（現：PlayStation Store (WEB)）」をオープンすると発表。購入後のコンテンツがPS3/PS4/PS Vitaへ自動的にダウンロードされるよう設定できる「リモートダウンロード機能」も実装されている。[App Storeや](https://ja.wikipedia.org/wiki/App_Store "wikilink")[Google Playからダウンロードする](https://ja.wikipedia.org/wiki/Google_Play "wikilink")「PlayStation App」からも利用できる。
+      - 5月20日 - PCや[スマートデバイス](https://ja.wikipedia.org/wiki/スマートデバイス "wikilink")の[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")でPlayStation Storeにアクセスできる「Sony Entertainment Network オンラインストア（現：PlayStation Store (WEB)）」をオープンすると発表。購入後のコンテンツがPS3/PS4/PS Vitaへ自動的にダウンロードされるよう設定できる「リモートダウンロード機能」も実装されている。[App Storeや](../Page/App_Store.md "wikilink")[Google Playからダウンロードする](https://ja.wikipedia.org/wiki/Google_Play "wikilink")「PlayStation App」からも利用できる。
   - [2014年](../Page/2014年.md "wikilink")
       - 3月3日 - 「PlayStation Network カード/チケット」が「PlayStation Storeカード/チケット」に改名発表。
       - 3月14日 - 「ドコモ ケータイ払い」と「auかんたん決済」に対応発表。
@@ -51,16 +51,16 @@
 国地域別に並んでいるコンテンツに違いが有る。
 
   - ゲームストア
-    [ゲームソフト](../Page/ゲームソフト.md "wikilink")、[体験版](https://ja.wikipedia.org/wiki/体験版 "wikilink")、[ダウンロードコンテンツ](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")、[プロモーションビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")などを扱う。壁紙・カスタムテーマも提供されており、メニューデザインを変更できる（キャンペーンの応募券を兼ねている場合もある）。カスタムテーマは一部有料のものも配信している。
+    [ゲームソフト](../Page/ゲームソフト.md "wikilink")、[体験版](../Page/体験版.md "wikilink")、[ダウンロードコンテンツ](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")、[プロモーションビデオ](../Page/ミュージック・ビデオ.md "wikilink")、[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")などを扱う。壁紙・カスタムテーマも提供されており、メニューデザインを変更できる（キャンペーンの応募券を兼ねている場合もある）。カスタムテーマは一部有料のものも配信している。
   - ビデオストア
-    HD画質とSD画質の映像作品を扱う（[ビデオ・オン・デマンド](https://ja.wikipedia.org/wiki/ビデオ・オン・デマンド "wikilink")）。レンタル方式とセル方式で販売される。レンタル方式ではダウンロード後で未再生かつ未転送の場合は30日間保持できる。再生または転送後は72時間視聴でき、SD画質の作品はPSP、PS Vitaへの転送に対応している。セル方式はSD画質の場合はPSP、PS Vitaにコピーすることも可能である。 PS4ではストリーミング方式となった。
+    HD画質とSD画質の映像作品を扱う（[ビデオ・オン・デマンド](../Page/ビデオ・オン・デマンド.md "wikilink")）。レンタル方式とセル方式で販売される。レンタル方式ではダウンロード後で未再生かつ未転送の場合は30日間保持できる。再生または転送後は72時間視聴でき、SD画質の作品はPSP、PS Vitaへの転送に対応している。セル方式はSD画質の場合はPSP、PS Vitaにコピーすることも可能である。 PS4ではストリーミング方式となった。
   - コミックストア（2012年終了）
     PSPのみ対応していた。PS3からではコンテンツ一覧に表示されない。PSPに専用のコミックリーダーをインストールする必要がある。ページの形式は通常の漫画と同じで、コミックリーダーがコマを拡大表示してくれる。アナログパッドでページ内の任意の位置を見る事も可能である。更新日は毎週木曜日であり、殆どの作品は1巻ごとでの販売だが、フルカラーで着色されている作品は1話単位での販売だった。
     PS Vitaは非対応だったが、別サービスとして、ソニーの[電子書籍](../Page/電子書籍.md "wikilink")ストア「[Reader Store](https://ja.wikipedia.org/wiki/リーダーストア "wikilink")」用に「Reader for PlayStation Vita」が配信されている。
 
 ## ウォレット（財布）
 
-「ウォレット」は[PlayStation Network](https://ja.wikipedia.org/wiki/PlayStation_Network "wikilink")（PSN）の[アカウント](https://ja.wikipedia.org/wiki/アカウント "wikilink")毎に割り当てられている仮想財布である。[プリペイド](https://ja.wikipedia.org/wiki/プリペイド "wikilink")式なのでこのウォレットに残高が無いと買い物等の支払いは不可能である。購入方法はストア内でコンテンツを選択し、仮想的な ショッピングカートにコンテンツを追加して購入しダウンロードする。単品毎にダウンロードすることも可能である。決済はアカウントのウォレットから支払う。
+「ウォレット」は[PlayStation Network](https://ja.wikipedia.org/wiki/PlayStation_Network "wikilink")（PSN）の[アカウント](../Page/アカウント.md "wikilink")毎に割り当てられている仮想財布である。[プリペイド](https://ja.wikipedia.org/wiki/プリペイド "wikilink")式なのでこのウォレットに残高が無いと買い物等の支払いは不可能である。購入方法はストア内でコンテンツを選択し、仮想的な ショッピングカートにコンテンツを追加して購入しダウンロードする。単品毎にダウンロードすることも可能である。決済はアカウントのウォレットから支払う。
 
 ### チャージ（入金）
 
@@ -69,7 +69,7 @@
   - [クレジットカード](../Page/クレジットカード.md "wikilink")（18歳以上のみ対象のゲームには必要、Vプリカなどプリペイド型については動作保証外）
   - [PS Storeカード/チケット](https://ja.wikipedia.org/wiki/#PS_Storeカード/チケット "wikilink")
   - モバイル決済（「ドコモ ケータイ払い」「auかんたん決済」「ソフトバンクまとめて支払い」）
-  - [PayPal](https://ja.wikipedia.org/wiki/PayPal "wikilink")
+  - [PayPal](../Page/PayPal.md "wikilink")
   - [Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")（PS3でアクセスした場合のみ）
 
 ウォレットに1,000円単位でチャージして使用する。上限は20,000円と決められており、それ以上はいくらチケットやカード等を持っていてもチャージできない。サブアカウントではチャージできないようになっている。また、クレジットカード、Edyを使ってチャージする場合、購入金額に1,000円以上のウォレットが不足する状態で追加チャージすると、ウォレットが購入金額と同額となるように1円単位でチャージが可能となっており、ウォレットの残額を使い切ることができる。
@@ -88,7 +88,7 @@ PS Storeカード/チケット（旧称：PSN カード/チケット）はプリ
 ## その他
 
   - 『[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』7月10日号のインタビュー『PSP goを丸裸にする\!\!』にて「もともとPSPを作る時点でPlayStation Storeを付ける予定だった。」と語った。
-  - PSN カードは[金券](https://ja.wikipedia.org/wiki/金券 "wikilink")扱いであり、小売への利益は全くないと言われている\[7\]。
+  - PSN カードは[金券](../Page/金券.md "wikilink")扱いであり、小売への利益は全くないと言われている\[7\]。
 
 ## 関連項目
 
@@ -115,4 +115,4 @@ PS Storeカード/チケット（旧称：PSN カード/チケット）はプリ
 4.
 5.
 6.  [PSP®「プレイステーション・ポータブル」向けPlayStation®Storeにおける各種コンテンツの販売終了、およびUMD®Passportサービス終了のお知らせ](http://www.jp.playstation.com/info/support/sp-20151127-psp-psstore-umdpassport.html)
-7.  [三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")「ゲームショップインタビュー DLCを小売店はどう見ている?」『[ゲームラボ](https://ja.wikipedia.org/wiki/ゲームラボ "wikilink")』8月号、2009年
+7.  [三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")「ゲームショップインタビュー DLCを小売店はどう見ている?」『[ゲームラボ](../Page/ゲームラボ.md "wikilink")』8月号、2009年

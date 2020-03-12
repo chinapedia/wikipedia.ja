@@ -72,8 +72,8 @@
   - 菅 澄代 （かん すみよ）
     清女の卒業生。在学中から、性格が過激な事で知られていた。通称・「**スン**」。
     在学中から「[コレとつきあっていた](https://ja.wikipedia.org/wiki/暴力団員 "wikilink")」（清女３年談）。
-    **カトレア抗争編**では、桜美女子高（**通称・ビジョコー**）の駅組と争った、久子を制裁。のちに、[お礼参り](https://ja.wikipedia.org/wiki/お礼参り "wikilink")された。
-    **裏門破り編**では、在学中に11校の学校生徒から[校章](https://ja.wikipedia.org/wiki/校章 "wikilink")を奪う記録を保持していることが明らかに。
+    **カトレア抗争編**では、桜美女子高（**通称・ビジョコー**）の駅組と争った、久子を制裁。のちに、[お礼参り](../Page/お礼参り.md "wikilink")された。
+    **裏門破り編**では、在学中に11校の学校生徒から[校章](../Page/校章.md "wikilink")を奪う記録を保持していることが明らかに。
   - 稲見 愛子 （いなみ あいこ）
     時庭のぶお（後述）の亡くなった恋人・すみえの妹で、清女の普通科2年生。姉の生前からずっとのぶおに思いを寄せており、間由子を敵視している。厚子から、かつて彼女が総長だった頃に着ていた黒の陣兵衛をもらい、のちに[レディースを結成](../Page/暴走族.md "wikilink")。その後。『**舞舞（まいまい）**』の2代目総長に就任。
     だが、のぶおを巡って間由子と争った末に、道路に飛び出して車に撥ねられそうになり、それをかばったのぶおが事故死。その事で間由子に責められ、挙句に自殺未遂。『舞舞』・『美AN火』合同の[族葬で](../Page/葬儀.md "wikilink")、謝罪。間由子に「ずっと、のぶお命さ。」と告げる。
@@ -100,7 +100,7 @@
 
 2002年に、講談社より新装版として刊行された『ロンタイBABY』KC Kiss DELAX版に同時収録された。
 
-『ヤングロゼ』では『[少年濡れやすく恋成りがたし](https://ja.wikipedia.org/wiki/少年濡れやすく恋成りがたし "wikilink")』との同時連載となった。
+『ヤングロゼ』では『[少年濡れやすく恋成りがたし](../Page/少年濡れやすく恋成りがたし.md "wikilink")』との同時連載となった。
 
 ### 書誌情報 (プレイバック)
 
@@ -160,15 +160,15 @@
 
   - チャコ：[岡田理江](https://ja.wikipedia.org/wiki/岡田理江 "wikilink")
   - マコ：[稲田千花](../Page/稲田千花.md "wikilink")
-  - お菊：[桜井亜弓](https://ja.wikipedia.org/wiki/桜井亜弓 "wikilink")
+  - お菊：[桜井亜弓](../Page/桜井亜弓.md "wikilink")
   - [高橋里香](https://ja.wikipedia.org/wiki/高橋里香 "wikilink")
-  - [立河宜子](https://ja.wikipedia.org/wiki/立河宜子 "wikilink")
+  - [立河宜子](../Page/立河宜子.md "wikilink")
   - [北村康](https://ja.wikipedia.org/wiki/北村康 "wikilink")
   - [原嶋鋒二](https://ja.wikipedia.org/wiki/原嶋鋒二 "wikilink")
   - [那須正成](https://ja.wikipedia.org/wiki/那須正成 "wikilink")
   - [中川智史](https://ja.wikipedia.org/wiki/中川智史 "wikilink")
   - [永嶋美佐子](../Page/永嶋美佐子.md "wikilink")
-  - [小原正子](https://ja.wikipedia.org/wiki/小原正子 "wikilink")
+  - [小原正子](../Page/小原正子.md "wikilink")
 
 ほか
 
@@ -177,12 +177,12 @@
 オープニングテーマ
 
   - 「プッツン」
-    作詞：[阿木燿子](https://ja.wikipedia.org/wiki/阿木燿子 "wikilink")、作曲：[宇崎竜童](https://ja.wikipedia.org/wiki/宇崎竜童 "wikilink")、編曲：[川崎真弘](../Page/川崎真弘.md "wikilink")、歌手：[岩永雅子](https://ja.wikipedia.org/wiki/岩永雅子 "wikilink")
+    作詞：[阿木燿子](../Page/阿木燿子.md "wikilink")、作曲：[宇崎竜童](../Page/宇崎竜童.md "wikilink")、編曲：[川崎真弘](../Page/川崎真弘.md "wikilink")、歌手：[岩永雅子](../Page/岩永雅子.md "wikilink")
 
 挿入歌
 
   - 「そんでもって・ブギ」
-    作詞：高口里純、作曲：宇崎竜童、編曲：川崎真弘、歌手：[前田達也](https://ja.wikipedia.org/wiki/前田達也 "wikilink")
+    作詞：高口里純、作曲：宇崎竜童、編曲：川崎真弘、歌手：[前田達也](../Page/前田達也.md "wikilink")
 
 エンディングテーマ
 
@@ -210,10 +210,10 @@
 
 ## 関連項目
 
-  - [不良行為少年](https://ja.wikipedia.org/wiki/不良行為少年 "wikilink")
+  - [不良行為少年](../Page/不良行為少年.md "wikilink")
   - [スケバン](../Page/スケバン.md "wikilink")
-  - [非行少年](https://ja.wikipedia.org/wiki/非行少年 "wikilink")
-  - [不良行為](https://ja.wikipedia.org/wiki/不良行為 "wikilink")
+  - [非行少年](../Page/非行少年.md "wikilink")
+  - [不良行為](../Page/不良行為.md "wikilink")
   - [暴走族](../Page/暴走族.md "wikilink")
   - [校内暴力](../Page/校内暴力.md "wikilink")
 

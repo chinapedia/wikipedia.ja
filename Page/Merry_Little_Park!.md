@@ -1,11 +1,11 @@
 > この記事は[Merry Little Park!](https://ja.wikipedia.org/wiki/Merry_Little_Park!)から翻訳されています。
 
 
-『**Merry Little Park\!**』（メリー・リトル・パーク！）は、雑誌『[電撃G'sマガジン](https://ja.wikipedia.org/wiki/電撃G'sマガジン "wikilink")』（[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")）連載の[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")。略称は「**メリパク**」、或いは「**メリパ**」\[1\]。
+『**Merry Little Park\!**』（メリー・リトル・パーク！）は、雑誌『[電撃G'sマガジン](https://ja.wikipedia.org/wiki/電撃G'sマガジン "wikilink")』（[メディアワークス](../Page/メディアワークス.md "wikilink")）連載の[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")。略称は「**メリパク**」、或いは「**メリパ**」\[1\]。
 
 ## あらすじ
 
-資産家の令嬢・**嶺里きりり**は、親にねだって作ってもらった[観覧車](https://ja.wikipedia.org/wiki/観覧車 "wikilink")をきっかけに、[遊園地](https://ja.wikipedia.org/wiki/遊園地 "wikilink")「メリー・リトル・パーク」を開園。
+資産家の令嬢・**嶺里きりり**は、親にねだって作ってもらった[観覧車](../Page/観覧車.md "wikilink")をきっかけに、[遊園地](../Page/遊園地.md "wikilink")「メリー・リトル・パーク」を開園。
 
 たった1つしかアトラクションが存在しない「メリパク」の[コンパニオン](https://ja.wikipedia.org/wiki/コンパニオン "wikilink")となった5人の少女たちと協力しながら集客とアトラクションの拡大を目指し始めた。
 
@@ -15,7 +15,7 @@
 
 私設の遊園地「メリー・リトル・パーク」を舞台に、新たなアトラクションの新設と様々なイベントを企画する6人の少女の物語。
 
-本作が連載開始された時期は『G's』のメインコンテンツであった[ギャルゲー](../Page/ギャルゲー.md "wikilink")の長期低落傾向が始まった時期であり、それに加えて『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』が同誌の読者参加企画として最大のヒットを記録していた時期でもあったことから『G's』編集部では「第2のシスプリ」を発掘すべく『[HAPPY★LESSON](https://ja.wikipedia.org/wiki/HAPPY★LESSON "wikilink")』『[Milky Season](https://ja.wikipedia.org/wiki/Milky_Season "wikilink")』とたて続けに様々なシチュエーションの読者参加企画をスタートさせていた。
+本作が連載開始された時期は『G's』のメインコンテンツであった[ギャルゲー](../Page/ギャルゲー.md "wikilink")の長期低落傾向が始まった時期であり、それに加えて『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』が同誌の読者参加企画として最大のヒットを記録していた時期でもあったことから『G's』編集部では「第2のシスプリ」を発掘すべく『[HAPPY★LESSON](https://ja.wikipedia.org/wiki/HAPPY★LESSON "wikilink")』『[Milky Season](../Page/Milky_Season.md "wikilink")』とたて続けに様々なシチュエーションの読者参加企画をスタートさせていた。
 
 しかしながら、本作は『シスプリ』『ハピレス』が2大主力連載として君臨していた中では余りにも存在感に乏しく、作品としても何がしたいのか読者にコンセプトが理解しづらいものであったため投票数も低調な状態が続き、連載開始から1年を経ずに終了。G'sの読者参加企画としては『[聖女神天国](https://ja.wikipedia.org/wiki/女神天国#聖女神天国 "wikilink")』に次ぐ短期間連載となった。
 
@@ -95,4 +95,4 @@
 
 [Category:電撃G's_magazineの読者参加企画](https://ja.wikipedia.org/wiki/Category:電撃G's_magazineの読者参加企画 "wikilink") [Category:遊園地を舞台とした作品](https://ja.wikipedia.org/wiki/Category:遊園地を舞台とした作品 "wikilink")
 
-1.  [神戸市](../Page/神戸市.md "wikilink")の[メリケンパーク](https://ja.wikipedia.org/wiki/メリケンパーク "wikilink")とは無関係
+1.  [神戸市](../Page/神戸市.md "wikilink")の[メリケンパーク](../Page/メリケンパーク.md "wikilink")とは無関係

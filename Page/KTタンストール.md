@@ -7,7 +7,7 @@
 
 ### 生い立ち
 
-[セント・アンドルーズ](https://ja.wikipedia.org/wiki/セント・アンドルーズ "wikilink")出身。物理学者の父親と教師の母親に育てられるが、養子であり、実の父親は[アイルランド人](../Page/アイルランド人.md "wikilink")、母親は[スコットランド](../Page/スコットランド.md "wikilink")人と[中国人](https://ja.wikipedia.org/wiki/中国人 "wikilink")のハーフであった。
+[セント・アンドルーズ](../Page/セント・アンドルーズ.md "wikilink")出身。物理学者の父親と教師の母親に育てられるが、養子であり、実の父親は[アイルランド人](../Page/アイルランド人.md "wikilink")、母親は[スコットランド](../Page/スコットランド.md "wikilink")人と[中国人](../Page/中国人.md "wikilink")のハーフであった。
 
 4歳より[ピアノ](../Page/ピアノ.md "wikilink")を弾き始め、後に他の楽器の演奏についても学んだ\[4\]\[5\]。
 
@@ -19,13 +19,13 @@
 
 楽曲「Black Horse and the Cherry Tree」が2007年の[グラミー賞にノミネートされた](https://ja.wikipedia.org/wiki/第49回グラミー賞 "wikilink")\[6\]他、通算3つの[ブリット・アワード](../Page/ブリット・アワード.md "wikilink")を受賞し、2度[グラミー賞](../Page/グラミー賞.md "wikilink")にノミネートされた。
 
-一人で演奏し、一人で歌うという独特なスタイルが特徴。演奏形態としては、ギターのクラッキングの音や、タンバリンの音を演奏前に録音し、リズムを取る。[AKAIの](https://ja.wikipedia.org/wiki/AKAI_professional "wikilink")[ループペダル](https://ja.wikipedia.org/wiki/ループペダル "wikilink")を使用。
+一人で演奏し、一人で歌うという独特なスタイルが特徴。演奏形態としては、ギターのクラッキングの音や、タンバリンの音を演奏前に録音し、リズムを取る。[AKAIの](../Page/AKAI_professional.md "wikilink")[ループペダル](https://ja.wikipedia.org/wiki/ループペダル "wikilink")を使用。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のアーティストにも楽曲提供経験がある。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には[YUKIに](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")「バースディ」「ユメミテイタイ」（アルバム『[Wave](https://ja.wikipedia.org/wiki/Wave_\(YUKIのアルバム\) "wikilink")』収録）、[2007年](../Page/2007年.md "wikilink")には[二千花](../Page/二千花.md "wikilink")に「Barbie」（シングル『エーデルワイス』収録）を、それぞれ楽曲提供をしている。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のアーティストにも楽曲提供経験がある。[2006年](../Page/2006年.md "wikilink")には[YUKIに](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")「バースディ」「ユメミテイタイ」（アルバム『[Wave](../Page/Wave_\(YUKIのアルバム\).md "wikilink")』収録）、[2007年](../Page/2007年.md "wikilink")には[二千花](../Page/二千花.md "wikilink")に「Barbie」（シングル『エーデルワイス』収録）を、それぞれ楽曲提供をしている。
 
 ### 私生活
 
-2008年9月6日に[スカイ島](https://ja.wikipedia.org/wiki/スカイ島 "wikilink")にて、バックバンドのドラマー、[ルーク・バレン](https://ja.wikipedia.org/wiki/ルーク・バレン "wikilink")と結婚\[7\]。
+2008年9月6日に[スカイ島](../Page/スカイ島.md "wikilink")にて、バックバンドのドラマー、[ルーク・バレン](https://ja.wikipedia.org/wiki/ルーク・バレン "wikilink")と結婚\[7\]。
 
 ## ディスコグラフィ
 

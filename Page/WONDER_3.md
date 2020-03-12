@@ -1,7 +1,7 @@
 > この記事は[WONDER 3](https://ja.wikipedia.org/wiki/WONDER_3)から翻訳されています。
 
 
-『**WONDER 3**』（ワンダー スリー）は、[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")3枚目のアルバムである。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")にEPIC/SONY RECORDS（現・[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")）よりリリースされた。
+『**WONDER 3**』（ワンダー スリー）は、[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")3枚目のアルバムである。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")にEPIC/SONY RECORDS（現・[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")）よりリリースされた。
 
 ## 概要
 
@@ -9,7 +9,7 @@
   - DREAMS COME TRUEがシングル・アルバム含めて初めてオリコンランキングで1位をとった作品である。
   - DREAMS COME TRUE初のミリオン作品（前作「[LOVE GOES ON…](../Page/LOVE_GOES_ON….md "wikilink")」がミリオンを達成したのはこの作品よりも遅かった）。この作品で、デビューからミリオン達成までの期間の最短記録を更新した。
   - 1994年6月時点で、累計売上170万枚（エピックレコードジャパン）\[1\]。
-  - このアルバムを引っさげて、コンサートツアー『WONDER 3』を開催。スポンサーはセガ（後の[セガサミーホールディングス](https://ja.wikipedia.org/wiki/セガサミーホールディングス "wikilink")）が担当した\[2\]。
+  - このアルバムを引っさげて、コンサートツアー『WONDER 3』を開催。スポンサーはセガ（後の[セガサミーホールディングス](../Page/セガサミーホールディングス.md "wikilink")）が担当した\[2\]。
 
 ## 収録曲
 
@@ -20,13 +20,13 @@
       - この曲の一部分が福岡県の民放・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")テレビで「[KBCニュース](https://ja.wikipedia.org/wiki/KBCニュース "wikilink")」のオープニングタイトルとして00年代初頭にかけて使用されていた。
 2.  **戦いの火蓋**
       - 作詞：吉田美和、作曲・編曲：中村正人
-      - 6thシングル「[Ring\! Ring\! Ring\!](https://ja.wikipedia.org/wiki/Ring!_Ring!_Ring! "wikilink")」のカップリング。
-3.  **[さよならを待ってる](https://ja.wikipedia.org/wiki/さよならを待ってる "wikilink")**
+      - 6thシングル「[Ring\! Ring\! Ring\!](../Page/Ring!_Ring!_Ring!.md "wikilink")」のカップリング。
+3.  **[さよならを待ってる](../Page/さよならを待ってる.md "wikilink")**
       - 作詞：吉田美和、作曲：吉田美和・中村正人、編曲：中村正人
       - 7thシングル。
 4.  **KUWABARA KUWABARA**
       - 作詞・作曲：吉田美和、編曲：中村正人
-5.  **[Ring\! Ring\! Ring\!](https://ja.wikipedia.org/wiki/Ring!_Ring!_Ring! "wikilink")（S・H・H VERSION）**
+5.  **[Ring\! Ring\! Ring\!](../Page/Ring!_Ring!_Ring!.md "wikilink")（S・H・H VERSION）**
       - 作詞・作曲：吉田美和、編曲：中村正人
       - 6thシングル。
       - 「S・H・H」は「少しだけだよ ホント ホント」の略。
@@ -36,12 +36,12 @@
 7.  **ひさしぶりのI Miss You**
       - 作詞・作曲：吉田美和、編曲：中村正人
       - 映画『[山田ババアに花束を](https://ja.wikipedia.org/wiki/山田ババアに花束を "wikilink")』では挿入歌として使われた。
-8.  **[笑顔の行方](https://ja.wikipedia.org/wiki/笑顔の行方 "wikilink")（ORIGINAL VERSION）**
+8.  **[笑顔の行方](../Page/笑顔の行方.md "wikilink")（ORIGINAL VERSION）**
       - 作詞：吉田美和、作曲・編曲：中村正人
       - 5thシングル。シングルバージョンよりもイントロが長い。
 9.  **かくされた狂気**
       - 作詞：吉田美和、作曲・編曲：中村正人
-      - 7thシングル「[さよならを待ってる](https://ja.wikipedia.org/wiki/さよならを待ってる "wikilink")」のカップリング。
+      - 7thシングル「[さよならを待ってる](../Page/さよならを待ってる.md "wikilink")」のカップリング。
 10. **ESCAPE**
       - 作詞：吉田美和、作曲・編曲：中村正人
 11. **2人のDIFFERENCE**

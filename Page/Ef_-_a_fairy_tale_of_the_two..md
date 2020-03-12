@@ -1,7 +1,7 @@
 > この記事は[Ef - a fairy tale of the two.](https://ja.wikipedia.org/wiki/Ef_-_a_fairy_tale_of_the_two.)から翻訳されています。
 
 
-『**ef - a fairy tale of the two.**』（エフ ア フェアリー テイル オブ ザ トゥー）は、[minori](https://ja.wikipedia.org/wiki/minori "wikilink")制作の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")、およびそれを原作とした関連商品の総称である。テーマは「minori's 4th challenge about "Will"」。前編の『the first tale.』が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")に、後編の『the latter tale.』は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月30日](../Page/5月30日.md "wikilink")にそれぞれ発売された。
+『**ef - a fairy tale of the two.**』（エフ ア フェアリー テイル オブ ザ トゥー）は、[minori](https://ja.wikipedia.org/wiki/minori "wikilink")制作の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")、およびそれを原作とした関連商品の総称である。テーマは「minori's 4th challenge about "Will"」。前編の『the first tale.』が[2006年](../Page/2006年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に、後編の『the latter tale.』は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月30日](../Page/5月30日.md "wikilink")にそれぞれ発売された。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")には、『the first tale.』と『the latter tale.』を共に収録した、[PlayStation 2移植作](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『ef - a fairy tale of the two.』が[COMFORT](https://ja.wikipedia.org/wiki/COMFORT "wikilink")より発売。
 
@@ -9,7 +9,7 @@
 
 ## 概要
 
-minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink")〜SUIKA〜』『[D.C. 〜ダ・カーポ〜](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜 "wikilink")』（いずれも[CIRCUS](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")）の原作者で知られる[御影と](https://ja.wikipedia.org/wiki/御影_\(シナリオライター\) "wikilink")、同作でメインヒロイン達のデザイン・原画を手がけた[七尾奈留](https://ja.wikipedia.org/wiki/七尾奈留 "wikilink")を迎えて[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")初頭に発表された。
+minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink")〜SUIKA〜』『[D.C. 〜ダ・カーポ〜](../Page/D.C._〜ダ・カーポ〜.md "wikilink")』（いずれも[CIRCUS](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")）の原作者で知られる[御影と](../Page/御影_\(シナリオライター\).md "wikilink")、同作でメインヒロイン達のデザイン・原画を手がけた[七尾奈留](../Page/七尾奈留.md "wikilink")を迎えて[2005年](../Page/2005年.md "wikilink")初頭に発表された。
 
 本作品は[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")に多い[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")ではなく、[インタラクティブ・ノベル](https://ja.wikipedia.org/wiki/インタラクティブ・ノベル "wikilink")と呼ばれる形式を使用している。すなわち、プレイヤー=主人公ではなく、第三者的視点で物語に参加する「[群像劇](../Page/グランドホテル方式.md "wikilink")」のような仕様になっている。また、原作の御影がかねてから疑問に感じていたアダルトゲームのストーリー進行における相互排他性（あるヒロインとの関係が進むと他のヒロインはストーリーにほとんど絡まない）に対する答えという側面も持っており、登場キャラクター達は皆、章ごとに異なる視点・感触で以って描かれている。
 
@@ -29,7 +29,7 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
 
 作中ではこの設定をトリックとして利用した。これは一般の文学作品にも用いられている手法でもある。
 
-なお、都市デザインのモデルとしてドイツの[バーデン・ヴュルテンベルク州](https://ja.wikipedia.org/wiki/バーデン・ヴュルテンベルク州 "wikilink")[ハイデルベルク](../Page/ハイデルベルク.md "wikilink")、[バイエルン州](https://ja.wikipedia.org/wiki/バイエルン州 "wikilink")[ローテンブルク二つの街の景観を取り入れており](https://ja.wikipedia.org/wiki/ローテンブルク・オプ・デア・タウバー "wikilink")、特に音羽駅は、ローテンブルクのマルクト広場にある市庁舎およびその隣にある時計塔のデザインをベースにしている。
+なお、都市デザインのモデルとしてドイツの[バーデン・ヴュルテンベルク州](https://ja.wikipedia.org/wiki/バーデン・ヴュルテンベルク州 "wikilink")[ハイデルベルク](../Page/ハイデルベルク.md "wikilink")、[バイエルン州](https://ja.wikipedia.org/wiki/バイエルン州 "wikilink")[ローテンブルク二つの街の景観を取り入れており](../Page/ローテンブルク・オプ・デア・タウバー.md "wikilink")、特に音羽駅は、ローテンブルクのマルクト広場にある市庁舎およびその隣にある時計塔のデザインをベースにしている。
 
 ## ストーリー
 
@@ -92,57 +92,57 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
 
 ## 登場キャラクター
 
-※[声優](../Page/声優.md "wikilink")名はゲーム・[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")（非登場キャラもいる） / PS2版の順・[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")
+※[声優](../Page/声優.md "wikilink")名はゲーム・[ドラマCD](../Page/ドラマCD.md "wikilink")（非登場キャラもいる） / PS2版の順・[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")
 
 ### メインキャラクター
 
   - 広野 紘（ひろの ひろ）
-    声：小満皐/ [下野紘](https://ja.wikipedia.org/wiki/下野紘 "wikilink")（幼少期 - [後藤麻衣](https://ja.wikipedia.org/wiki/後藤麻衣_\(声優\) "wikilink")）
+    声：小満皐/ [下野紘](../Page/下野紘.md "wikilink")（幼少期 - [後藤麻衣](../Page/後藤麻衣_\(声優\).md "wikilink")）
     [9月9日](../Page/9月9日.md "wikilink")生まれの乙女座。血液型O型。身長165cm。体重52kg。瞳の色：赤
-    第一章の[主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")。音羽（おとわ）学園の2年生。父、姉ともに芸術家だが、当の本人は「新堂凪」（しんどう なぎ）というペンネームで少女漫画を執筆している（ペンネームの由来は幼馴染の新藤姉妹の苗字の字違いに、姉の「凪」から取ってつけたもの）。紘も絵画の実力は確かで、中等部時代は「コンクール荒らし」と称されていた。学業と仕事の両立、更に職業病ともいえる[腱鞘炎](https://ja.wikipedia.org/wiki/腱鞘炎 "wikilink")に悩んでおり、事実休みが多くて（また授業に出ても居眠り、テストでは低空飛行を続けるなど成績的にも悪い）留年の危機が迫っている。久瀬修一のファン。何かと女性にいじられる日々を送っており、姉に関しては最早[トラウマ](https://ja.wikipedia.org/wiki/トラウマ "wikilink")である。嫌いな物は女性の手料理（後述）。
+    第一章の[主人公](../Page/主人公.md "wikilink")。音羽（おとわ）学園の2年生。父、姉ともに芸術家だが、当の本人は「新堂凪」（しんどう なぎ）というペンネームで少女漫画を執筆している（ペンネームの由来は幼馴染の新藤姉妹の苗字の字違いに、姉の「凪」から取ってつけたもの）。紘も絵画の実力は確かで、中等部時代は「コンクール荒らし」と称されていた。学業と仕事の両立、更に職業病ともいえる[腱鞘炎](https://ja.wikipedia.org/wiki/腱鞘炎 "wikilink")に悩んでおり、事実休みが多くて（また授業に出ても居眠り、テストでは低空飛行を続けるなど成績的にも悪い）留年の危機が迫っている。久瀬修一のファン。何かと女性にいじられる日々を送っており、姉に関しては最早[トラウマ](https://ja.wikipedia.org/wiki/トラウマ "wikilink")である。嫌いな物は女性の手料理（後述）。
     もともと彼が少女漫画を書こうと思ったきっかけは、まだ幼い頃の景や千尋との出会いにある。新藤家に招かれたときに読ませてもらったのが少女漫画で、当時絵画をたたき込まれるだけの毎日を送っていた紘にとっては、それが唯一の娯楽だった。結果としてそれが漫画を描くことにつながっていったのである。
     第一章では漫画家としては駆け出しで学業と両立していたためか締め切りギリギリだったり、クオリティが低下するなど問題も多少あった。担当からは仕事と学業のどちらを取るか迫られていた時期にみやこと出会い紆余曲折の末、仕事を取ることに決め音羽学園を中退する。それ以降、みやこのサポートもあり本来の質に戻せるようになる。第二章では悩んでいた頃とは違い清々しい印象を感じさせる。みやこに振り回されることは変わらないがそれをどこか楽しんでいる節がある。みやこに財布の紐を握られている。
   - 宮村 みやこ（みやむら みやこ）
-    声：赤沢かえで / [田口宏子](https://ja.wikipedia.org/wiki/田口宏子 "wikilink")
-    [9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")生まれの乙女座。血液型B型。身長162cm。体重47kg。スリーサイズ:B88/W57/H83。瞳の色：緑
+    声：赤沢かえで / [田口宏子](../Page/田口宏子.md "wikilink")
+    [9月8日](../Page/9月8日.md "wikilink")生まれの乙女座。血液型B型。身長162cm。体重47kg。スリーサイズ:B88/W57/H83。瞳の色：緑
     第一章のメインヒロイン。音羽学園の2年生（第二章では3年生）で、容姿端麗・成績優秀ながら、サボリの常習犯で学園の有名人（第二章では京介よりも上のトップクラスの学業成績を収めるほどで有名に）。また、スポーツも万能だが絵画になると壊滅的な出来だが本人に自覚はない。クリスマスの夜、ひょんなことから紘と知り合う。気まぐれで飽きっぽい性格ながら人懐っこい所もある、いわゆる[猫属性の持ち主](https://ja.wikipedia.org/wiki/萌え属性 "wikilink")。それ故犬には嫌われている。なかなか行動が読めないが、その裏には両親の離婚が原因で、自分の居場所を求めているなど、寂しがりな一面も持っている。作中では自身の家庭環境を、赤ん坊に何も話しかけずに育てる実験を行った神聖ローマ皇帝[フリードリヒ2世の逸話に例えている](../Page/フリードリヒ2世_\(神聖ローマ皇帝\).md "wikilink")。現在は父子家庭であり、建設会社の幹部である父親はめったに帰宅していない。
     料理も得意で特に魚料理が得意。初めは両親に食べさせたいという気持ちでやり始めたが、結局両親にほめられることもなく、現在にいたる。大喰らいでもある。
     小説版では景との絡みは一切なく、紘との一対一の交流が描かれている。
   - 堤 京介（つつみ きょうすけ）
-    声：[城樹翔](https://ja.wikipedia.org/wiki/城樹翔 "wikilink") / [泰勇気](https://ja.wikipedia.org/wiki/泰勇気 "wikilink")（幼少期 - [田村睦心](../Page/田村睦心.md "wikilink")）
+    声：[城樹翔](https://ja.wikipedia.org/wiki/城樹翔 "wikilink") / [泰勇気](../Page/泰勇気.md "wikilink")（幼少期 - [田村睦心](../Page/田村睦心.md "wikilink")）
     [11月29日](../Page/11月29日.md "wikilink")生まれの射手座。血液型AB型。身長171cm。体重60kg。瞳の色：紫
-    第二章の主人公。紘の親友でクラスメイト。映研の[カメラマン兼](https://ja.wikipedia.org/wiki/撮影技師 "wikilink")[監督](https://ja.wikipedia.org/wiki/撮影監督 "wikilink")。見た目どおりの軽い性格ではあるが、実は恋愛や物事にはとことん一途。その上人並み以上に物事をこなし、身体能力も学力もトップクラス。ただし絵は下手で悪筆。人当たりもいいため交友関係も広く、女子にもモテる。しかしあまりにも女にだらしがなかったり、いざ撮影にはいると周りを省みなくなるため「無神経な人物」と思われたりと、いい評判ばかりではない。また、映画に対する姿勢が強すぎるために、部内でもそりが合っていない。TVアニメ版でも、紘とおのおのの信条について対立する場面がある。さらには新藤景が自分と紘とで迷うことに対して、紘に対して八つ当たりとも取れる行動をとるなど、その一途さから、らしくない行動を取ることも。
+    第二章の主人公。紘の親友でクラスメイト。映研の[カメラマン兼](https://ja.wikipedia.org/wiki/撮影技師 "wikilink")[監督](../Page/撮影監督.md "wikilink")。見た目どおりの軽い性格ではあるが、実は恋愛や物事にはとことん一途。その上人並み以上に物事をこなし、身体能力も学力もトップクラス。ただし絵は下手で悪筆。人当たりもいいため交友関係も広く、女子にもモテる。しかしあまりにも女にだらしがなかったり、いざ撮影にはいると周りを省みなくなるため「無神経な人物」と思われたりと、いい評判ばかりではない。また、映画に対する姿勢が強すぎるために、部内でもそりが合っていない。TVアニメ版でも、紘とおのおのの信条について対立する場面がある。さらには新藤景が自分と紘とで迷うことに対して、紘に対して八つ当たりとも取れる行動をとるなど、その一途さから、らしくない行動を取ることも。
     端からはどう見ても紘と親友には思えないが、母を亡くしているなどの似た境遇だけでなく、「惹かれる何か」をお互い持っていたかららしい。
     三年生へ進級して、みやことクラスメイトになるが、以前紘に話した「武勇伝」が原因となりみやこの下僕と化している。
   - 新藤 景（しんどう けい）
     声：[桜井美鈴](../Page/桜井美鈴.md "wikilink") / [岡田純子](../Page/岡田純子_\(声優\).md "wikilink")
     [6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")生まれの双子座。血液型A型。身長150cm。体重40kg。スリーサイズ:B76/W55/H79。瞳の色：金
-    第二章のメインヒロイン。音羽学園の1年生（第二章では2年生）。紘とは[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")。みやこには及ばないが顔立ちは端正で、初対面の京介が見惚れる程。ボーイッシュで活発なため、幼い頃から紘の世話を焼いていた。そのためか怒ると男言葉になったり、[ツンデレ](https://ja.wikipedia.org/wiki/ツンデレ "wikilink")だったりと、紘の影響を何かしら受けている。料理は遺伝らしく、自らも味を保障できないほどで、紘のトラウマになっている（しかしそれを本人はなんら悪びれていない）。秩序を重んじるため、自由奔放なみやこのことを（紘に近づくこともあって）敵視している。優れた運動能力と快活でリーダーシップに富んだ気質から、男女を問わず人望がある。生粋の体育会系で、口より先に手が出るタイプ。また、[バスケットボール](../Page/バスケットボール.md "wikilink")部に所属しており、1年生ながらレギュラーも獲得している。反面、保健体育以外の成績は乏しい。実際に受験の際、周囲に音羽学園に入るのは絶対無理だと言われていた。
+    第二章のメインヒロイン。音羽学園の1年生（第二章では2年生）。紘とは[幼馴染](../Page/幼馴染.md "wikilink")。みやこには及ばないが顔立ちは端正で、初対面の京介が見惚れる程。ボーイッシュで活発なため、幼い頃から紘の世話を焼いていた。そのためか怒ると男言葉になったり、[ツンデレ](../Page/ツンデレ.md "wikilink")だったりと、紘の影響を何かしら受けている。料理は遺伝らしく、自らも味を保障できないほどで、紘のトラウマになっている（しかしそれを本人はなんら悪びれていない）。秩序を重んじるため、自由奔放なみやこのことを（紘に近づくこともあって）敵視している。優れた運動能力と快活でリーダーシップに富んだ気質から、男女を問わず人望がある。生粋の体育会系で、口より先に手が出るタイプ。また、[バスケットボール](../Page/バスケットボール.md "wikilink")部に所属しており、1年生ながらレギュラーも獲得している。反面、保健体育以外の成績は乏しい。実際に受験の際、周囲に音羽学園に入るのは絶対無理だと言われていた。
     なお、紘に漫画家という夢を持たせた張本人だが、あくまで少女漫画は紘に娯楽として読ませただけに過ぎず、まさか漫画家になると思わなかったらしい。
   - 麻生 蓮治（あそう れんじ）
-    声：伊香川椎音 / [高城元気](https://ja.wikipedia.org/wiki/高城元気 "wikilink")
+    声：伊香川椎音 / [高城元気](../Page/高城元気.md "wikilink")
     [11月1日](../Page/11月1日.md "wikilink")生まれのさそり座。血液型B型。身長159cm。体重50kg。瞳の色：青
-    第三章の主人公。[ドイツ人](https://ja.wikipedia.org/wiki/ドイツ人 "wikilink")の[建築家](../Page/建築家.md "wikilink")を父親に持つハーフ。ミズキより1つ上の従兄でもある。活字中毒と自称するほどに読書好きで、児童書からライトノベル、果ては海外の本（原書）まで読む。常に本を携帯している。海外を転々としていたため、語学力はすさまじい（日・英・独語はほぼネイティブ。日常会話レベルならフランス語やスペイン語も操る）反面、友人などの深い人付き合いを経験したことがない。その上過去に従妹である水姫（みずき）を亡くし、それが心の枷にもなっている。趣味の小説は、その寂しさを埋めるためなのかもしれない。その影響なのか、物語というものに憧れている。千尋との邂逅は、まさに彼にとって物語の始まりであった…。
+    第三章の主人公。[ドイツ人](../Page/ドイツ人.md "wikilink")の[建築家](../Page/建築家.md "wikilink")を父親に持つハーフ。ミズキより1つ上の従兄でもある。活字中毒と自称するほどに読書好きで、児童書からライトノベル、果ては海外の本（原書）まで読む。常に本を携帯している。海外を転々としていたため、語学力はすさまじい（日・英・独語はほぼネイティブ。日常会話レベルならフランス語やスペイン語も操る）反面、友人などの深い人付き合いを経験したことがない。その上過去に従妹である水姫（みずき）を亡くし、それが心の枷にもなっている。趣味の小説は、その寂しさを埋めるためなのかもしれない。その影響なのか、物語というものに憧れている。千尋との邂逅は、まさに彼にとって物語の始まりであった…。
   - 新藤 千尋（しんどう ちひろ）
-    声：[まきいづみ](https://ja.wikipedia.org/wiki/まきいづみ "wikilink") / [やなせなつみ](https://ja.wikipedia.org/wiki/やなせなつみ "wikilink")
+    声：[まきいづみ](../Page/まきいづみ.md "wikilink") / [やなせなつみ](../Page/やなせなつみ.md "wikilink")
     [6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")生まれの双子座。血液型A型。身長151cm。体重38kg。スリーサイズ:B77/W53/H78。瞳の色：金
     第三章のメインヒロイン。蓮治が音羽の駅で出会った少女。景の[一卵性双生児](https://ja.wikipedia.org/wiki/一卵性双生児 "wikilink")の妹。天性の文才を持つ。姉の景とは正反対の大人しい性格で、スタイルも景より若干いい。少々天然。姉と同じく料理は苦手。幼い頃左目を事故で失明（作中ではむしろ左目がないような描写がされている）しており、普段は[眼帯](https://ja.wikipedia.org/wiki/眼帯 "wikilink")をしている。また事故の後遺症により、ある障害を抱えており、その事が通学不能などの様々な弊害を起こし、彼女を苦しめている。結果として景の高等部二年生進級と同じ時期に、家族と離れて生活することが決まり、幼いころの知り合いである火村により保護され、養われている。ただ実家を離れても景とはメールでやり取りをしている。いつも手帳を肌身離さず持っている。
     その後遺症の正体は[記憶障害](../Page/記憶障害.md "wikilink")の一種で、千尋の場合は彼女（TVアニメ版では火村）曰く、物事を思い出せないのではなく、「物事自体が記憶されない」症状である。記憶を保持できるのが13時間に限定されており、13時間以内に思い返さないかぎり物事を忘れてしまう。それ故事象が起こったという「事実」しか彼女には残らなくなった（例えば事故後に知り合った知人が死ねば、その時は深く悲しむが、のちにそのことを聞かされるかしても、何の感情もわき起こらなくなる、あるいはそれが事故以前の知人であれば取り乱すことがある）。しかし、千尋が携帯する手帳は、自分の周りでおきた物事を記す、いわばメモリであり、千尋が歩んできた人生そのものといってもよい。また、このような状況に置かれた千尋は、時に蓮治を恐怖させることとなる。
     原作では蓮治より1つ年上であるが、TVアニメでは同年齢の設定になっている。いずれにしろ、蓮治は出会った当初は千尋を年下と勘違いしていた。
   - 久瀬 修一（くぜ しゅういち）
-    声：[安芸怜須ケン](https://ja.wikipedia.org/wiki/安芸怜須ケン "wikilink") / [浜田賢二](https://ja.wikipedia.org/wiki/浜田賢二 "wikilink")
+    声：[安芸怜須ケン](https://ja.wikipedia.org/wiki/安芸怜須ケン "wikilink") / [浜田賢二](../Page/浜田賢二.md "wikilink")
     [2月15日](../Page/2月15日.md "wikilink")生まれのみずがめ座。血液型A型。身長177cm。体重61kg。瞳の色：茶
     第四章の主人公。プロの[ヴァイオリニスト](../Page/ヴァイオリニスト.md "wikilink")。火村とは音羽学園からの腐れ縁。在学時代は交友関係も広かった。大会社を経営する裕福な家庭に生まれたが、父親の跡継ぎになることに反対。彼の夢を叶えるべく音羽学園を中退し、ドイツに留学した過去をもつ。この経緯は紘にも影響することになる。
     現在は麻生家の隣に住んでおり、蓮治の母であるすみれが好き。普段の軽い振る舞いからは想像できないが、性格は完璧なまでの現実主義者である。今の彼があるのは、過去の死に物狂いの努力の結晶であると信じて疑わないが、それを悟られることを激しく嫌う。
     しかし、蓮治と千尋の一件の直後、それまでに兆候のあった原因不明の心疾患（拡張型心筋症に近い心筋の変性症状など）が本格的に発症してしまい、残りわずかの命であることを宣告される。そして、ヴァイオリニストという自らが叶えた「夢」を諦めるという選択を取らざるを得なくなってしまう。
   - 羽山 ミズキ（はやま ミズキ）
-    声：[安玖深音](https://ja.wikipedia.org/wiki/安玖深音 "wikilink") / [後藤麻衣](https://ja.wikipedia.org/wiki/後藤麻衣_\(声優\) "wikilink")
+    声：[安玖深音](../Page/安玖深音.md "wikilink") / [後藤麻衣](../Page/後藤麻衣_\(声優\).md "wikilink")
     [12月22日](../Page/12月22日.md "wikilink")生まれの山羊座。血液型AB型。身長156cm。体重44kg。スリーサイズ:B80/W58/H82。瞳の色：青
     第四章のメインヒロイン。音羽の付属校に所属。人なつっこく、スタイルも新藤姉妹よりいいのだが、やかましいのが玉に瑕。運動神経は良く、成績もそれなりに良い。料理の腕もまぁまぁ上手。景の後輩で、熱狂的なファン。その熱狂ぶりは[アブナい関係の寸前に達しているが](../Page/レズビアン.md "wikilink")、景自身はミズキのことを気に入っている。また景の双子の妹の千尋も大好きである。もちろんバスケ部所属。その上男性には今のところ興味はないが、一応「お嫁さんになる」という願望はある。[わんこ属性の持ち主であり](https://ja.wikipedia.org/wiki/萌え属性 "wikilink")、少女漫画[フリーク](../Page/フリーク.md "wikilink")（紘曰く、「ヘビー級の少女漫画好き」。特に紘の描く「新堂凪」の漫画が気に入っている）。紘の正体を知るとかなり取り乱したが、黙っている代わりに絵入りのサインで手を打った。性質が犬のようなため、みやことは対照的に犬に好かれているが、本人は嫌がっている。
     実は養子として羽山家に招かれており、10年前までは「未来（みき）」という名前を持っていた。本当の家族と無理心中を迫られたが一人だけ生き残った。その後は孤児となり、音羽の施設にいた頃は人が怖くなり自分を守るため、かなり生意気な性格だった。このような過去の影響で洞察力に優れていて人の心の機微にとても鋭い。
     『天使の日曜日』アナザーストーリー羽山水姫編でもおなじく養子ではあるが、どのような経緯をたどったのか火村夕にひきとられているため、名前が「火村 未来」となっている。水姫のクラスメイト。
   - 火村 夕（ひむら ゆう）
-    声：[壬生中将](https://ja.wikipedia.org/wiki/壬生中将 "wikilink") / [遠近孝一](https://ja.wikipedia.org/wiki/遠近孝一 "wikilink")
+    声：[壬生中将](https://ja.wikipedia.org/wiki/壬生中将 "wikilink") / [遠近孝一](../Page/遠近孝一.md "wikilink")
     [5月5日](../Page/5月5日.md "wikilink")生まれのおうし座。血液型AB型。身長173cm。体重60kg。瞳の色：黄
     物語の中心人物。とある事情により、千尋の保護者代行をしている男。ジャケットにチノという黒尽くめの格好をしていつも教会にいる。教会関係者ではないが、何をしている人なのかはまったく謎。久瀬とは腐れ縁の関係。雨宮優子と同じくミステリアスな雰囲気を醸し出している。またどこか他人を拒絶するような節もあり、見た目が少し怖いが根はいい人である。
     TVアニメでは「この世に奇跡なんて無い。あるのは偶然と必然、そして誰が何をするかだけ」という言葉を口癖の如く言っている。
@@ -162,9 +162,9 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
     [3月28日](../Page/3月28日.md "wikilink")生まれの牡羊座。身長164cm。体重46kg。スリーサイズ:B85/W57/H86。瞳の色：赤
     紘の姉。音羽学園の卒業生で火村・久瀬らの同級生でクラスメイトだった。かつて音羽の街を襲った震災の被災者で地震を苦手としている。[一人称は「僕」](../Page/ボク少女.md "wikilink")。学業成績は紘と同じくてんでダメ。資産家令嬢だがいわゆる変人で、自画像を描く際に学校の美術室で全裸になっていたり、人を二文字でしか覚えられなかったり（優子を「ゆこ」と呼ぶなど）、一人で買い物が出来なかったりと性格は他人とは一線を画す。スタイル抜群の美女だが前述の性格ゆえか夕に女性として意識されたことはなかった。
     現在はプロの画家をしており、アメリカに住んでいる。紘に入学記念として音羽学園の屋上の鍵をあげた。紘の事は心配しており、父親が倒れた時は連絡を入れている。紘が修羅場の際に部屋を訪れて漫画を手伝う事もある。紘のクセを知っており似せて描くなどお手の物。
-    『天使の日曜日』で登場する雨宮明里と共に、[2C=がろあ](https://ja.wikipedia.org/wiki/2C=がろあ "wikilink")が描いた数少ない女性キャラである。しかし一部のグッズでは[七尾奈留](https://ja.wikipedia.org/wiki/七尾奈留 "wikilink")が描いているものもある。
+    『天使の日曜日』で登場する雨宮明里と共に、[2C=がろあ](https://ja.wikipedia.org/wiki/2C=がろあ "wikilink")が描いた数少ない女性キャラである。しかし一部のグッズでは[七尾奈留](../Page/七尾奈留.md "wikilink")が描いているものもある。
   - 大村 義彦（おおむら よしひこ）
-    声：[山中荘一](https://ja.wikipedia.org/wiki/山中荘一 "wikilink") / [広瀬正志](https://ja.wikipedia.org/wiki/広瀬正志 "wikilink")
+    声：[山中荘一](https://ja.wikipedia.org/wiki/山中荘一 "wikilink") / [広瀬正志](../Page/広瀬正志.md "wikilink")
     少女漫画雑誌編集部の腕利き編集者。紘の担当も務める。野太い声で関西弁を話す。喋り方が[ヤ○ザに近いことあり紘から毎回喋り方を注意される](../Page/ヤクザ.md "wikilink")。
     ゲームでは紘の電話の中でしか登場しないが、ドラマCDではわざわざ東京から紘の仕事場まで応援に駆けつけてきたり、コミカルな悪役を演じてみたりとその人柄は多彩である。
   - 泉 絵美（いずみ えみ）
@@ -173,11 +173,11 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
     ゲームでの立ち絵はおろか、顔出しすらなくどのような人物なのかは不明だったが、漫画版で容姿が判明する。
     その後、the latter tale.のエンディングムービーにて1カットだけ登場している。
   - 麻生 すみれ（あそう すみれ）
-    声：[山田奈穂](https://ja.wikipedia.org/wiki/山田奈穂 "wikilink") / [あおきさやか](https://ja.wikipedia.org/wiki/あおきさやか "wikilink")
+    声：[山田奈穂](https://ja.wikipedia.org/wiki/山田奈穂 "wikilink") / [あおきさやか](../Page/あおきさやか.md "wikilink")
     [4月7日](../Page/4月7日.md "wikilink")生まれの牡羊座。身長161cm。体重49kg。スリーサイズ:B91/W60/H88。
     町内で料理教室の講師をしている、蓮治の母親。おっとりした感じで、いつも笑顔を絶やさない。お茶目な性格をしており童顔でとても若く見える。夫、つまり蓮治の父親とは、彼女が通訳関係の仕事をしていたときに知り合ったらしい。夫が仕事で家にほとんど帰って来ないためか、蓮治を溺愛しており、本気で一緒に風呂に入ろうと誘ったりもする（その度に断られているが、時には強引に引っ張り込むこともある）。ドラマCDでは年齢について触れようとすると「ピー音」が入る。
   - 雨宮 明良（あまみや あきら）
-    声：[上州トム](https://ja.wikipedia.org/wiki/上州トム "wikilink") / [古澤徹](https://ja.wikipedia.org/wiki/古澤徹 "wikilink")
+    声：[上州トム](https://ja.wikipedia.org/wiki/上州トム "wikilink") / [古澤徹](../Page/古澤徹.md "wikilink")
     [8月10日](../Page/8月10日.md "wikilink")生まれの獅子座。身長173cm。体重62kg。瞳の色：紫
     火村や凪たちが在籍時の音羽学園の美術教師で、凪の所属する美術部の顧問でもある。雨宮優子の義兄。また凪、紘の父親の弟子で凪とは音羽入学以前から面識があった。災害により妹の明里（あかり）を亡くしている。ヘビースモーカー。火村をたびたび美術部に勧誘する。学校では温和でおおらかな態度で生徒に接ししている。
     妹と容姿がそっくりな優子を引き取ったはいいが、妹がいなくて優子がいるという理由で、優子に激しい恨みを抱いている一方、暴力を振るってはそれを悔いて謝ったり、「憎ければ俺を殺せばいい」と彫刻刀（TV版ではナイフ）を「お守り」として持たせたり、優子の口座にお金を振り込んでいたりと、持っている感情は一概ではなく、作中でも1,2を争う複雑な人物であり、火村の持つ可能性の未来を体現しているとも言える。
@@ -218,10 +218,10 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
 
 ## スタッフ
 
-  - 企画：[酒井伸和](https://ja.wikipedia.org/wiki/酒井伸和 "wikilink")
-  - 監督：[御影](https://ja.wikipedia.org/wiki/御影_\(シナリオライター\) "wikilink")
+  - 企画：[酒井伸和](../Page/酒井伸和.md "wikilink")
+  - 監督：[御影](../Page/御影_\(シナリオライター\).md "wikilink")
   - 原作・脚本：御影、[鏡遊](https://ja.wikipedia.org/wiki/鏡遊 "wikilink")
-  - キャラクターデザイン・作画監督：[七尾奈留](https://ja.wikipedia.org/wiki/七尾奈留 "wikilink")、[2C=がろあ](https://ja.wikipedia.org/wiki/2C＝がろあ "wikilink")
+  - キャラクターデザイン・作画監督：[七尾奈留](../Page/七尾奈留.md "wikilink")、[2C=がろあ](https://ja.wikipedia.org/wiki/2C＝がろあ "wikilink")
   - 演出チーフ：向井正哉
   - 演出：酒井伸和、結城辰也、姿月景
   - 美術設定：[ゆうろ](../Page/ゆうろ.md "wikilink")
@@ -236,14 +236,14 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
       - 背景美術：ゆうろ、ペーテルアーク
       - アニメーション製作協力：[亜細亜堂](https://ja.wikipedia.org/wiki/亜細亜堂 "wikilink")
   - エピローグアニメーション（latter tale.）
-      - 監督：[大沼心](https://ja.wikipedia.org/wiki/大沼心 "wikilink")
+      - 監督：[大沼心](../Page/大沼心.md "wikilink")
       - 作画監督：杉山延寛
   - 制作：minori
 
 ## 主題歌
 
   - **first tale.エンディングテーマ：「悠久の翼」**
-      - 作詞：[酒井伸和](https://ja.wikipedia.org/wiki/酒井伸和 "wikilink")、作・編曲：[天門](../Page/天門_\(作曲家\).md "wikilink")、歌：[原田ひとみ](https://ja.wikipedia.org/wiki/原田ひとみ "wikilink")
+      - 作詞：[酒井伸和](../Page/酒井伸和.md "wikilink")、作・編曲：[天門](../Page/天門_\(作曲家\).md "wikilink")、歌：[原田ひとみ](../Page/原田ひとみ.md "wikilink")
   - **latter tale.第4章オープニングテーマ：「emotional flutter」**
       - 作詞：酒井伸和、作・編曲：天門、歌：原田ひとみ
   - **オーラスエンディングテーマ：「ever forever」**
@@ -251,13 +251,13 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
 
 これらの曲名は全て頭文字が「e」と「f」になっており、繋げるとゲームタイトルである「ef」となる（『悠久の翼』は英語に直して「eternal feather」になる）。また：『ever forever』の最初の音はEとFのコードになっている。「euphoric field」「ebullient future」も同様である。
 
-コラボレーションとして2009年8月28日発売の[フロントウイング](https://ja.wikipedia.org/wiki/フロントウイング "wikilink")の3Dアイドル育成SLG『[タイムリープぱらだいす](https://ja.wikipedia.org/wiki/タイムリープぱらだいす "wikilink")』に「悠久の翼」が楽曲提供されている。
+コラボレーションとして2009年8月28日発売の[フロントウイング](../Page/フロントウイング.md "wikilink")の3Dアイドル育成SLG『[タイムリープぱらだいす](https://ja.wikipedia.org/wiki/タイムリープぱらだいす "wikilink")』に「悠久の翼」が楽曲提供されている。
 
 ## お楽しみディスク
 
 ### ef - First Fan Disc
 
-『ef - the first tale.』の先行ファンディスクで、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月11日](../Page/8月11日.md "wikilink")〜[13日の](../Page/8月13日.md "wikilink") [コミックマーケット](../Page/コミックマーケット.md "wikilink")70にて先行発売、[8月25日](../Page/8月25日.md "wikilink")に店頭発売された。全年齢対象。『ef - the first tale.』のプロローグ的な内容で、キャラクターボイスやドラマCDも含まれている。このディスクの発売は書籍を扱わない小売店より、自分達にも販売できる商品を出して欲しいという要望が出た為企画された。
+『ef - the first tale.』の先行ファンディスクで、[2006年](../Page/2006年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")〜[13日の](../Page/8月13日.md "wikilink") [コミックマーケット](../Page/コミックマーケット.md "wikilink")70にて先行発売、[8月25日](../Page/8月25日.md "wikilink")に店頭発売された。全年齢対象。『ef - the first tale.』のプロローグ的な内容で、キャラクターボイスやドラマCDも含まれている。このディスクの発売は書籍を扱わない小売店より、自分達にも販売できる商品を出して欲しいという要望が出た為企画された。
 
 ### ef - Second Fan Mix
 
@@ -265,7 +265,7 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
 
 ### 天使の日曜日
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月17日](../Page/9月17日.md "wikilink")に後日談と「if」ストーリのファンディスク**天使の日曜日 -“ef - a fairy tale of the two.”Pleasurable Box.**が発売された。 本編の完結から約二年半近くを経てリリースされた。ミニゲーム**「リア獣ハンター優子」**をプレイできるほか、「[はるのあしおと](https://ja.wikipedia.org/wiki/はるのあしおと "wikilink")」「ef」「[eden\*](https://ja.wikipedia.org/wiki/eden* "wikilink")」のすべてのムービーを収めたブルーレイディスクも同梱されている（要BDプレイヤー）。 なお、BDに収められた映像のうち、「はるのあしおと」だけはHD画質に対応しておらず、高解像度で再生できない。 主にアフターストーリーという側面はあるが、優子が生きていた場合や別カップリングでのアナザーストーリーもある。製作陣によると、本編において優子が生き返ったというストーリーは出来なかったという事情もある\[2\]。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月17日](../Page/9月17日.md "wikilink")に後日談と「if」ストーリのファンディスク**天使の日曜日 -“ef - a fairy tale of the two.”Pleasurable Box.**が発売された。 本編の完結から約二年半近くを経てリリースされた。ミニゲーム**「リア獣ハンター優子」**をプレイできるほか、「[はるのあしおと](../Page/はるのあしおと.md "wikilink")」「ef」「[eden\*](https://ja.wikipedia.org/wiki/eden* "wikilink")」のすべてのムービーを収めたブルーレイディスクも同梱されている（要BDプレイヤー）。 なお、BDに収められた映像のうち、「はるのあしおと」だけはHD画質に対応しておらず、高解像度で再生できない。 主にアフターストーリーという側面はあるが、優子が生きていた場合や別カップリングでのアナザーストーリーもある。製作陣によると、本編において優子が生き返ったというストーリーは出来なかったという事情もある\[2\]。
 
 ## ゲーム関連書籍
 
@@ -281,32 +281,32 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
 
 ### 第1期「ef - a tale of memories.」
 
-『**ef - a tale of memories.**』（エフ ア テイル オブ メモリーズ）の題で、[2007年](../Page/2007年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")-[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")にかけて、[チバテレビなどの](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")[独立UHF局](https://ja.wikipedia.org/wiki/独立UHF局 "wikilink")、及び[AT-Xにて放送された](../Page/アニメシアターX.md "wikilink")。全12話。
+『**ef - a tale of memories.**』（エフ ア テイル オブ メモリーズ）の題で、[2007年](../Page/2007年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")-[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")にかけて、[チバテレビなどの](../Page/千葉テレビ放送.md "wikilink")[独立UHF局](https://ja.wikipedia.org/wiki/独立UHF局 "wikilink")、及び[AT-Xにて放送された](../Page/アニメシアターX.md "wikilink")。全12話。
 
 本作では、広野紘・宮村みやこ・堤京介・新藤景・雨宮優子らを中心にした物語（原作ゲームの『ef - the first tale.』に相当）と、テレビアニメ放送時点では未発売の『ef - the latter tale.』に相当する、新藤千尋・麻生蓮治・火村夕らを中心にした物語が並行して描かれている。紘・みやこの物語では、アニメ独自の設定やエピソードも登場している\[4\]。
 
-紘・みやこの物語と蓮治・千尋の物語ではアニメの表現に違いがある。紘・みやこの物語では、明るい色彩で描かれ、第3者の視点で展開しているのに対し、蓮治・千尋では[モノローグ](https://ja.wikipedia.org/wiki/モノローグ "wikilink")を中心としており、暗い色彩である\[5\]。
+紘・みやこの物語と蓮治・千尋の物語ではアニメの表現に違いがある。紘・みやこの物語では、明るい色彩で描かれ、第3者の視点で展開しているのに対し、蓮治・千尋では[モノローグ](../Page/モノローグ.md "wikilink")を中心としており、暗い色彩である\[5\]。
 
 #### 制作
 
-本作は、minoriのプロデューサーである[酒井伸和](https://ja.wikipedia.org/wiki/酒井伸和 "wikilink")が[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")側にアニメ化のオファーを持ちかけたのがきっかけである\[6\]。そのため、アダルトゲーム原作のアニメとしては珍しく、製作委員会に原作を制作したminoriが参加している。
+本作は、minoriのプロデューサーである[酒井伸和](../Page/酒井伸和.md "wikilink")が[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")側にアニメ化のオファーを持ちかけたのがきっかけである\[6\]。そのため、アダルトゲーム原作のアニメとしては珍しく、製作委員会に原作を制作したminoriが参加している。
 
-蓮治・千尋の物語については、制作当時、ゲームの脚本は完成していたが、監督の[大沼心](https://ja.wikipedia.org/wiki/大沼心 "wikilink")は読んでいない。これは視聴者と同じ立場から制作したいとの意向によるものである\[7\]。また、大沼は[ブログ](../Page/ブログ.md "wikilink")上の感想を熱心に読んでおり、その感想を受けて演出を変えたところもあると述べている\[8\]。
+蓮治・千尋の物語については、制作当時、ゲームの脚本は完成していたが、監督の[大沼心](../Page/大沼心.md "wikilink")は読んでいない。これは視聴者と同じ立場から制作したいとの意向によるものである\[7\]。また、大沼は[ブログ](../Page/ブログ.md "wikilink")上の感想を熱心に読んでおり、その感想を受けて演出を変えたところもあると述べている\[8\]。
 
 #### スタッフ
 
-  - 原作 - [minori](https://ja.wikipedia.org/wiki/minori "wikilink")、[鏡遊](https://ja.wikipedia.org/wiki/鏡遊 "wikilink")、[御影](https://ja.wikipedia.org/wiki/御影_\(シナリオライター\) "wikilink")
-  - 監督 - [大沼心](https://ja.wikipedia.org/wiki/大沼心 "wikilink")
-  - 監修 - [新房昭之](https://ja.wikipedia.org/wiki/新房昭之 "wikilink")
+  - 原作 - [minori](https://ja.wikipedia.org/wiki/minori "wikilink")、[鏡遊](https://ja.wikipedia.org/wiki/鏡遊 "wikilink")、[御影](../Page/御影_\(シナリオライター\).md "wikilink")
+  - 監督 - [大沼心](../Page/大沼心.md "wikilink")
+  - 監修 - [新房昭之](../Page/新房昭之.md "wikilink")
   - シリーズ構成・脚本 - [高山カツヒコ](../Page/高山カツヒコ.md "wikilink")
-  - キャラクター原案 - [七尾奈留](https://ja.wikipedia.org/wiki/七尾奈留 "wikilink")、[2C＝がろあ](https://ja.wikipedia.org/wiki/2C＝がろあ "wikilink")
+  - キャラクター原案 - [七尾奈留](../Page/七尾奈留.md "wikilink")、[2C＝がろあ](https://ja.wikipedia.org/wiki/2C＝がろあ "wikilink")
   - キャラクターデザイン・総作画監督 - [杉山延寛](https://ja.wikipedia.org/wiki/杉山延寛 "wikilink")
   - 色彩設計 - 日比野仁
   - 美術監督 - 加藤恵
   - 撮影監督 - 内村祥平
   - 編集 - 関一彦
   - 音楽 - [天門](../Page/天門_\(作曲家\).md "wikilink")、柳英一郎
-  - 音響監督 - [鶴岡陽太](https://ja.wikipedia.org/wiki/鶴岡陽太 "wikilink")
+  - 音響監督 - [鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
   - エグゼティブプロデューサー - 関戸雄一
   - プロデューサー - 松田章男、数馬英治、金庭こず恵、シバタミツテル、久保田光俊
   - 制作プロデューサー - 雨宮茂幸
@@ -316,7 +316,7 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
 #### 主題歌
 
   - オープニングテーマ「[euphoric field](https://ja.wikipedia.org/wiki/euphoric_field "wikilink")」
-    作詞 - [酒井伸和](https://ja.wikipedia.org/wiki/酒井伸和 "wikilink") / 訳詞 - 西田恵美 / 作曲・編曲 - [天門](../Page/天門_\(作曲家\).md "wikilink") / 歌 - [ELISA](https://ja.wikipedia.org/wiki/ELISA_\(歌手\) "wikilink")
+    作詞 - [酒井伸和](../Page/酒井伸和.md "wikilink") / 訳詞 - 西田恵美 / 作曲・編曲 - [天門](../Page/天門_\(作曲家\).md "wikilink") / 歌 - [ELISA](https://ja.wikipedia.org/wiki/ELISA_\(歌手\) "wikilink")
 
       - オープニングアニメの背景にこの物語の重要なキーとなる“小説”の英訳が流れていく。また、放送回を重ねるに連れて広野紘のキーワードである「色」が追加されていったり、最終回では本編の内容に合わせたようなマイナーチェンジが日本語詞バージョンと共に流れた。
 
@@ -324,7 +324,7 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
 
 :;「I'm Here」
 
-:: 作詞 - 酒井伸和 / 作曲 - 天門 / 編曲 - [柳英一朗](https://ja.wikipedia.org/wiki/柳英一朗 "wikilink") / 歌 - 宮村みやこ（声：[田口宏子](https://ja.wikipedia.org/wiki/田口宏子 "wikilink")）
+:: 作詞 - 酒井伸和 / 作曲 - 天門 / 編曲 - [柳英一朗](https://ja.wikipedia.org/wiki/柳英一朗 "wikilink") / 歌 - 宮村みやこ（声：[田口宏子](../Page/田口宏子.md "wikilink")）
 
 ::\* 3話EDでは2番が使われた。
 
@@ -336,7 +336,7 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
 
 :; 「空の夢」
 
-:: 作詞 - 御影 / 作曲・編曲 - 柳英一朗 / 歌 - 新藤千尋（声：[やなせなつみ](https://ja.wikipedia.org/wiki/やなせなつみ "wikilink")）
+:: 作詞 - 御影 / 作曲・編曲 - 柳英一朗 / 歌 - 新藤千尋（声：[やなせなつみ](../Page/やなせなつみ.md "wikilink")）
 
 ::\* エンディングに関しても、放送回を重ねるごとに背景が追加されるなどのマイナーチェンジが見られた。なお、「空の夢」は、通常では1番が使われるが、11話EDでは間奏〜大サビが使われた。
 
@@ -366,19 +366,19 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
 <tr class="odd">
 <td><p>01.</p></td>
 <td><p><strong>e</strong>ve</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大沼心" title="wikilink">大沼心</a></p></td>
+<td><p><a href="../Page/大沼心.md" title="wikilink">大沼心</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/杉山延寛" title="wikilink">杉山延寛</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/七瀬葵" title="wikilink">七瀬葵</a></p></td>
+<td><p><a href="../Page/七瀬葵.md" title="wikilink">七瀬葵</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>02.</p></td>
 <td><p><strong>u</strong>pon a time</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新房昭之" title="wikilink">帆村壮二</a></p></td>
+<td><p><a href="../Page/新房昭之.md" title="wikilink">帆村壮二</a></p></td>
 <td><p>大沼心</p></td>
 <td><p>潮月一也<br />
 <a href="https://ja.wikipedia.org/wiki/古川英樹" title="wikilink">古川英樹</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/あぼしまこ" title="wikilink">あぼしまこ</a></p></td>
+<td><p><a href="../Page/あぼしまこ.md" title="wikilink">あぼしまこ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>03.</p></td>
@@ -386,7 +386,7 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
 <td><p><a href="https://ja.wikipedia.org/wiki/上坪亮樹" title="wikilink">上坪亮樹</a></p></td>
 <td><p>松澤健一</p></td>
 <td><p>田畑昭</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/庄名泉石" title="wikilink">庄名泉石</a><br />
+<td><p><a href="../Page/庄名泉石.md" title="wikilink">庄名泉石</a><br />
 <a href="https://ja.wikipedia.org/wiki/結城辰也" title="wikilink">結城辰也</a></p></td>
 </tr>
 <tr class="even">
@@ -397,7 +397,7 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
 <td><p>中山初絵<br />
 <a href="../Page/伊藤良明.md" title="wikilink">伊藤良明</a><br />
 田中穣</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡辺明夫" title="wikilink">ぽよよん{{Unicode</a></p></td>
+<td><p><a href="../Page/渡辺明夫.md" title="wikilink">ぽよよん{{Unicode</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>05.</p></td>
@@ -434,7 +434,7 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
 <td><p>高島大輔</p></td>
 <td><p>田畑昭<br />
 沼津雅人</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/氷川へきる" title="wikilink">氷川へきる</a></p></td>
+<td><p><a href="../Page/氷川へきる.md" title="wikilink">氷川へきる</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>09.</p></td>
@@ -459,7 +459,7 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
 <td><p>11.</p></td>
 <td><p><strong>e</strong>ver forever</p></td>
 <td><p>宮崎修治</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/七尾奈留" title="wikilink">七尾奈留</a></p></td>
+<td><p><a href="../Page/七尾奈留.md" title="wikilink">七尾奈留</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -594,10 +594,10 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
 
 | 放送地域                                                  | 放送局                                                                                                                    | 放送期間                                                                                                                                    | 放送日時             | 放送系列                                                             | 備考       |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------------------- | -------- |
-| [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")   | [チバテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")                                                              | [2007年](../Page/2007年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink") - [12月22日](../Page/12月22日.md "wikilink")                       | 土曜 25:35 - 26:05 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                        |          |
+| [千葉県](../Page/千葉県.md "wikilink")                      | [チバテレビ](../Page/千葉テレビ放送.md "wikilink")                                                                                 | [2007年](../Page/2007年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink") - [12月22日](../Page/12月22日.md "wikilink")                       | 土曜 25:35 - 26:05 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                        |          |
 | [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")                                                                                    | 土曜 26:30 - 27:00                                                                                                                        |                  |                                                                  |          |
-| [埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")   | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")                                                                  | 2007年[10月8日](../Page/10月8日.md "wikilink") - [12月24日](../Page/12月24日.md "wikilink")                                                      | 月曜 26:00 - 26:30 |                                                                  |          |
-| [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")   | [KBS京都](../Page/京都放送.md "wikilink")                                                                                    | 2007年[10月9日](../Page/10月9日.md "wikilink") - [12月25日](../Page/12月25日.md "wikilink")                                                      | 火曜 25:30 - 26:00 |                                                                  |          |
+| [埼玉県](../Page/埼玉県.md "wikilink")                      | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")                                                                  | 2007年[10月8日](../Page/10月8日.md "wikilink") - [12月24日](../Page/12月24日.md "wikilink")                                                      | 月曜 26:00 - 26:30 |                                                                  |          |
+| [京都府](../Page/京都府.md "wikilink")                      | [KBS京都](../Page/京都放送.md "wikilink")                                                                                    | 2007年[10月9日](../Page/10月9日.md "wikilink") - [12月25日](../Page/12月25日.md "wikilink")                                                      | 火曜 25:30 - 26:00 |                                                                  |          |
 | [兵庫県](../Page/兵庫県.md "wikilink")                      | [サンテレビ](../Page/サンテレビジョン.md "wikilink")                                                                                | 火曜 26:10 - 26:40                                                                                                                        |                  |                                                                  |          |
 | [日本全域](../Page/全国放送.md "wikilink")                    | [AT-X](../Page/アニメシアターX.md "wikilink")                                                                                 | 2007年[10月22日](../Page/10月22日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月7日](../Page/1月7日.md "wikilink") | 月曜 10:00 - 10:30 | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") | リピート放送あり |
 | [キッズステーション](../Page/キッズステーション.md "wikilink")          | 2008年[10月29日](../Page/10月29日.md "wikilink") - [2009年](../Page/2009年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink") | 水曜 24:00 - 24:30                                                                                                                        |                  |                                                                  |          |
@@ -625,23 +625,23 @@ ef - a tale of memories.の続編（第2期）にあたる『**ef - a tale of me
   - エグゼティブプロデューサー - 関戸雄一
   - 制作プロデューサー - 雨宮茂幸（第1-9話）
   - アニメーション制作 - シャフト
-  - 製作 - 「ef2」製作委員会（ジェネオンエンタテインメント、minori、シャフト、ムービック、フロンティアワークス、[キティ](https://ja.wikipedia.org/wiki/キティ・フィルム "wikilink")）
+  - 製作 - 「ef2」製作委員会（ジェネオンエンタテインメント、minori、シャフト、ムービック、フロンティアワークス、[キティ](../Page/キティ・フィルム.md "wikilink")）
 
 #### 主題歌（第2期）
 
   - オープニングテーマ「[ebullient future](https://ja.wikipedia.org/wiki/ebullient_future "wikilink")」
-    作詞 - [酒井伸和](https://ja.wikipedia.org/wiki/酒井伸和 "wikilink") / 訳詞 - 西田恵美 / 作曲・編曲 - [天門](../Page/天門_\(作曲家\).md "wikilink") / 歌 - [ELISA](https://ja.wikipedia.org/wiki/ELISA_\(歌手\) "wikilink")
+    作詞 - [酒井伸和](../Page/酒井伸和.md "wikilink") / 訳詞 - 西田恵美 / 作曲・編曲 - [天門](../Page/天門_\(作曲家\).md "wikilink") / 歌 - [ELISA](https://ja.wikipedia.org/wiki/ELISA_\(歌手\) "wikilink")
 
       - 前作同様、話が進むにつれてアニメーションや歌詞にアレンジを凝らしている。
       - 通常では1番が使われるが、11話のみ一部歌詞が2番に変更されたバージョンが使われた。また、10話EDではピアノアレンジバージョンが使われた。
       - 最終話では日本語版が「ever forever」の前にフルカラーの演出で流された。
-      - 第1、2話のアニメーションをモチーフにした[スクリーンセーバー](https://ja.wikipedia.org/wiki/スクリーンセーバー "wikilink")が、HPにて配信されている。
+      - 第1、2話のアニメーションをモチーフにした[スクリーンセーバー](../Page/スクリーンセーバー.md "wikilink")が、HPにて配信されている。
 
   - エンディングテーマ
 
 :; 「笑顔のチカラ」
 
-:: 作詞 - [庄名泉石](https://ja.wikipedia.org/wiki/庄名泉石 "wikilink") / 作曲・編曲 - [柳英一朗](https://ja.wikipedia.org/wiki/柳英一朗 "wikilink") / 歌 - 羽山ミズキ（声：[後藤麻衣](https://ja.wikipedia.org/wiki/後藤麻衣_\(声優\) "wikilink")）
+:: 作詞 - [庄名泉石](../Page/庄名泉石.md "wikilink") / 作曲・編曲 - [柳英一朗](https://ja.wikipedia.org/wiki/柳英一朗 "wikilink") / 歌 - 羽山ミズキ（声：[後藤麻衣](../Page/後藤麻衣_\(声優\).md "wikilink")）
 
 ::\* 原作『the latter tale.』で柳が作曲したBGM「First step that realizes dream.」（ゲーム版オリジナルサウンドトラック「Alato」収録）のアレンジ版で、インタビューでも「製作段階で歌にするための仕掛けをしておいた」との旨を述べている。
 
@@ -658,7 +658,7 @@ ef - a tale of memories.の続編（第2期）にあたる『**ef - a tale of me
   -
 
       -
-        作詞 - 酒井伸和 / 作曲・編曲 - 天門 / 歌 - 羽山ミズキ（声：後藤麻衣）、雨宮優子（声：中島裕美子）、宮村みやこ（声：[田口宏子](https://ja.wikipedia.org/wiki/田口宏子 "wikilink")）、新藤景（声：[岡田純子](../Page/岡田純子_\(声優\).md "wikilink")）、新藤千尋（声：[やなせなつみ](https://ja.wikipedia.org/wiki/やなせなつみ "wikilink")）
+        作詞 - 酒井伸和 / 作曲・編曲 - 天門 / 歌 - 羽山ミズキ（声：後藤麻衣）、雨宮優子（声：中島裕美子）、宮村みやこ（声：[田口宏子](../Page/田口宏子.md "wikilink")）、新藤景（声：[岡田純子](../Page/岡田純子_\(声優\).md "wikilink")）、新藤千尋（声：[やなせなつみ](../Page/やなせなつみ.md "wikilink")）
 
   - 挿入歌（第11話に使用）
 
@@ -694,7 +694,7 @@ ef - a tale of memories.の続編（第2期）にあたる『**ef - a tale of me
 <tr class="odd">
 <td><p>1.</p></td>
 <td><p><strong>e</strong>ver</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大沼心" title="wikilink">大沼心</a><br />
+<td><p><a href="../Page/大沼心.md" title="wikilink">大沼心</a><br />
 <a href="https://ja.wikipedia.org/wiki/武内宣之" title="wikilink">武内宣之</a></p></td>
 <td><p>大沼心</p></td>
 <td><p>高野晃久<br />
@@ -706,7 +706,7 @@ ef - a tale of memories.の続編（第2期）にあたる『**ef - a tale of me
 <td><p><strong>r</strong>ead</p></td>
 <td><p>森義博</p></td>
 <td><p>中山初絵</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/くすくす" title="wikilink">くすくす</a></p></td>
+<td><p><a href="../Page/くすくす.md" title="wikilink">くすくす</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -766,7 +766,7 @@ ef - a tale of memories.の続編（第2期）にあたる『**ef - a tale of me
 <td><p>森義博</p></td>
 <td><p>石倉賢一</p></td>
 <td><p>古川英樹</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小林尽" title="wikilink">小林尽</a></p></td>
+<td><p><a href="../Page/小林尽.md" title="wikilink">小林尽</a></p></td>
 </tr>
 <tr class="even">
 <td><p>10.</p></td>
@@ -782,7 +782,7 @@ ef - a tale of memories.の続編（第2期）にあたる『**ef - a tale of me
 <td><p>11.</p></td>
 <td><p><strong>r</strong>ead</p></td>
 <td><p>宮崎修治</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/七尾奈留" title="wikilink">七尾奈留</a></p></td>
+<td><p><a href="../Page/七尾奈留.md" title="wikilink">七尾奈留</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -882,13 +882,13 @@ ever forever</p></td>
 
 #### 放送局（第2期）
 
-| 放送地域                                                  | 放送局                                               | 放送期間                                                                                                                                 | 放送日時             | 放送系列                                                             | 備考                                                                                                           |
-| ----------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")               | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月6日](../Page/10月6日.md "wikilink") - [12月22日](../Page/12月22日.md "wikilink") | 月曜 26:15 - 26:45 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                        | [16:9](https://ja.wikipedia.org/wiki/画面アスペクト比 "wikilink")[額縁](https://ja.wikipedia.org/wiki/額縁放送 "wikilink") |
-| [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")   | [KBS京都](../Page/京都放送.md "wikilink")               | 2008年[10月7日](../Page/10月7日.md "wikilink") - [12月23日](../Page/12月23日.md "wikilink")                                                   | 火曜 25:30 - 26:00 | 16:9                                                             |                                                                                                              |
-| [兵庫県](../Page/兵庫県.md "wikilink")                      | [サンテレビ](../Page/サンテレビジョン.md "wikilink")           | 火曜 26:10 - 26:40                                                                                                                     | 16:9額縁           |                                                                  |                                                                                                              |
-| [日本全域](../Page/全国放送.md "wikilink")                    | [AT-X](../Page/アニメシアターX.md "wikilink")            | 2008年[11月14日](../Page/11月14日.md "wikilink") - [2009年](../Page/2009年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")               | 金曜 13:30 - 14:00 | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") | リピート放送あり                                                                                                     |
-| [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")   | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink") | 2009年[1月9日](../Page/1月9日.md "wikilink") - [3月27日](../Page/3月27日.md "wikilink")                                                       | 金曜 25:30 - 26:00 | 独立UHF局                                                           | 16:9[HD](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")                                              |
+| 放送地域                                                  | 放送局                                               | 放送期間                                                                                                                                 | 放送日時             | 放送系列                                                             | 備考                                                                     |
+| ----------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")               | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月6日](../Page/10月6日.md "wikilink") - [12月22日](../Page/12月22日.md "wikilink") | 月曜 26:15 - 26:45 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                        | [16:9](../Page/画面アスペクト比.md "wikilink")[額縁](../Page/額縁放送.md "wikilink") |
+| [京都府](../Page/京都府.md "wikilink")                      | [KBS京都](../Page/京都放送.md "wikilink")               | 2008年[10月7日](../Page/10月7日.md "wikilink") - [12月23日](../Page/12月23日.md "wikilink")                                                   | 火曜 25:30 - 26:00 | 16:9                                                             |                                                                        |
+| [兵庫県](../Page/兵庫県.md "wikilink")                      | [サンテレビ](../Page/サンテレビジョン.md "wikilink")           | 火曜 26:10 - 26:40                                                                                                                     | 16:9額縁           |                                                                  |                                                                        |
+| [日本全域](../Page/全国放送.md "wikilink")                    | [AT-X](../Page/アニメシアターX.md "wikilink")            | 2008年[11月14日](../Page/11月14日.md "wikilink") - [2009年](../Page/2009年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")               | 金曜 13:30 - 14:00 | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") | リピート放送あり                                                               |
+| [東京都](../Page/東京都.md "wikilink")                      | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink") | 2009年[1月9日](../Page/1月9日.md "wikilink") - [3月27日](../Page/3月27日.md "wikilink")                                                       | 金曜 25:30 - 26:00 | 独立UHF局                                                           | 16:9[HD](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")        |
 
 ### 関連商品
 
@@ -928,15 +928,15 @@ ever forever</p></td>
   - ef - a tale of memories.OPENING THEME
       - 『[euphoric field feat.ELISA](https://ja.wikipedia.org/wiki/euphoric_field "wikilink")』（GNCA-0073、2007年10月24日発売）歌：[ELISA](https://ja.wikipedia.org/wiki/ELISA_\(歌手\) "wikilink")
   - ef - a tale of memories.ENDING THEME
-      - 『Adagio by Miyako Miyamura』（GNCA-0080、2007年10月24日発売）歌：宮村みやこ（声.[田口宏子](https://ja.wikipedia.org/wiki/田口宏子 "wikilink")）
+      - 『Adagio by Miyako Miyamura』（GNCA-0080、2007年10月24日発売）歌：宮村みやこ（声.[田口宏子](../Page/田口宏子.md "wikilink")）
       - 『Vivace by Kei Shindou』（GNCA-0081、2007年11月21日発売）歌：新藤景（声.[岡田純子](../Page/岡田純子_\(声優\).md "wikilink")）
-      - 『Andante by Chihiro Shindou』（GNCA-0082、2007年12月21日発売）歌：新藤千尋（声.[やなせなつみ](https://ja.wikipedia.org/wiki/やなせなつみ "wikilink")）
+      - 『Andante by Chihiro Shindou』（GNCA-0082、2007年12月21日発売）歌：新藤千尋（声.[やなせなつみ](../Page/やなせなつみ.md "wikilink")）
   - 『悠久の翼 07.mix/euphoric field live Re-mix』（GNCA-0120、2008年9月26日発売）歌：雨宮優子（声.[中島裕美子](../Page/中島裕美子.md "wikilink")）・[ELISA](https://ja.wikipedia.org/wiki/ELISA_\(歌手\) "wikilink")
       - 最終話ED『悠久の翼 07.mix』のシングルカットに加え、euphoric field の Re-mixバージョンを収録。
   - ef - a tale of melodies.OPENING THEME
       - 『ebullient future』（GNCA-0122、2008年11月5日発売）歌：[ELISA](https://ja.wikipedia.org/wiki/ELISA_\(歌手\) "wikilink")
   - ef - a tale of melodies.ENDING THEME
-      - 『Fermata by Mizuki Hayama』（GNCA-0124、2008年11月5日発売）歌：羽山ミズキ（声.[後藤麻衣](https://ja.wikipedia.org/wiki/後藤麻衣_\(声優\) "wikilink")）
+      - 『Fermata by Mizuki Hayama』（GNCA-0124、2008年11月5日発売）歌：羽山ミズキ（声.[後藤麻衣](../Page/後藤麻衣_\(声優\).md "wikilink")）
       - 『Fine by Yuko Amamiya』（GNCA-0123、2008年11月26日発売）歌：雨宮優子（声.[中島裕美子](../Page/中島裕美子.md "wikilink")）
 
 #### サウンドトラック
@@ -957,7 +957,7 @@ ever forever</p></td>
 
 ### 漫画版
 
-[月刊電撃コミックガオ\!](https://ja.wikipedia.org/wiki/月刊電撃コミックガオ! "wikilink")にて本体ゲームに先行する形で連載開始。同誌休刊に伴い、[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")に移籍したが、体調不良を理由とした休載が頻発し2010年より掲載されない状態が続き、やがて連載作品紹介からも削除されたが、2014年11月に約5年ぶりに掲載され\[12\]、。連載作品紹介にも再び掲載された。5章はコミカライズされないまま終了となった。
+[月刊電撃コミックガオ\!](../Page/月刊電撃コミックガオ!.md "wikilink")にて本体ゲームに先行する形で連載開始。同誌休刊に伴い、[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")に移籍したが、体調不良を理由とした休載が頻発し2010年より掲載されない状態が続き、やがて連載作品紹介からも削除されたが、2014年11月に約5年ぶりに掲載され\[12\]、。連載作品紹介にも再び掲載された。5章はコミカライズされないまま終了となった。
 
 原作：御影・鏡遊、作画：[雅樹里](https://ja.wikipedia.org/wiki/雅樹里 "wikilink")（みやび じゅり）、発行：[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")
 
@@ -977,7 +977,7 @@ ever forever</p></td>
 
 内容は若干原作と違っている（紘や京介視点のみの描写、第一章におけるみやこと景の絡みがない、など）。
 
-原作：minori [御影](https://ja.wikipedia.org/wiki/御影_\(シナリオライター\) "wikilink")・[鏡遊](https://ja.wikipedia.org/wiki/鏡遊 "wikilink")、著：鏡遊、カバーイラスト：[七尾奈留](https://ja.wikipedia.org/wiki/七尾奈留 "wikilink")、本文イラスト：[霜月絹鯊](https://ja.wikipedia.org/wiki/霜月絹鯊 "wikilink")、発売：[富士見書房](../Page/富士見書房.md "wikilink")
+原作：minori [御影](../Page/御影_\(シナリオライター\).md "wikilink")・[鏡遊](https://ja.wikipedia.org/wiki/鏡遊 "wikilink")、著：鏡遊、カバーイラスト：[七尾奈留](../Page/七尾奈留.md "wikilink")、本文イラスト：[霜月絹鯊](https://ja.wikipedia.org/wiki/霜月絹鯊 "wikilink")、発売：[富士見書房](../Page/富士見書房.md "wikilink")
 
   - MIYAKO ef-a fairy tale of the two.：2007年10月25日発売 ISBN 978-4-8291-7665-8
   - KEI ef-a fairy tale of the two.：2007年10月25日発売 ISBN 978-4-8291-7666-5
@@ -1060,8 +1060,8 @@ ever forever</p></td>
 
 ## インターネットラジオ
 
-  - [おもしろミノリ放送局](https://ja.wikipedia.org/wiki/おもしろミノリ放送局 "wikilink")
-      - [音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")で2006年10月13日から2007年6月1日まで配信。メインパーソナリティは山田ゆなで、efの担当声優がゲストで登場。
+  - [おもしろミノリ放送局](../Page/おもしろミノリ放送局.md "wikilink")
+      - [音泉](../Page/音泉.md "wikilink")で2006年10月13日から2007年6月1日まで配信。メインパーソナリティは山田ゆなで、efの担当声優がゲストで登場。
   - [ゆみこ&ゆうなのえふメモらじお](https://ja.wikipedia.org/wiki/ゆみこ&ゆうなのえふメモらじお "wikilink")
       - 音泉で2007年6月8日から2008年6月27日まで配信。おもしろミノリ放送局と入れ替わる形で放送が開始された。主にef - a tale of memories.の情報を配信する。メインパーソナリティは[中島裕美子](../Page/中島裕美子.md "wikilink")とねこねこ天使ゆうな。アニメ版のefの担当声優がゲストとして出演する。
   - [ゆみこ&ゆうなのえふメロらじお](../Page/ゆみこ&ゆうなのえふメロらじお.md "wikilink")

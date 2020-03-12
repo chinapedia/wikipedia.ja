@@ -1,11 +1,11 @@
 > この記事は[Boost C++](https://ja.wikipedia.org/wiki/Boost_C++)から翻訳されています。
 
 
-**Boost** （**ブースト**）とは、[C++](../Page/C++.md "wikilink")の先駆的な開発者のコミュニティ、およびそのコミュニティによって公開されている[オープンソース](../Page/オープンソース.md "wikilink")のソフトウェア[ライブラリ](../Page/ライブラリ.md "wikilink")のことを指す。コミュニティとしてのBoostはC++標準化委員会の委員により設立されており、現在でもその多くが構成員として留まっている。このような経緯もあり、BoostコミュニティはC++の標準化において大きな影響力を有している。実際に標準化委員会が発表した「[TR1](https://ja.wikipedia.org/wiki/C++_Technical_Report_1 "wikilink")」の2/3以上がBoostライブラリを基にしている。Random, Regex, Threadなどはいずれも[C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink")規格の標準ライブラリとして正式に導入・標準化されている。このことから、Boostは考案された新機能を標準化させる前の試験運用の場であるとも言える。
+**Boost** （**ブースト**）とは、[C++](../Page/C++.md "wikilink")の先駆的な開発者のコミュニティ、およびそのコミュニティによって公開されている[オープンソース](../Page/オープンソース.md "wikilink")のソフトウェア[ライブラリ](../Page/ライブラリ.md "wikilink")のことを指す。コミュニティとしてのBoostはC++標準化委員会の委員により設立されており、現在でもその多くが構成員として留まっている。このような経緯もあり、BoostコミュニティはC++の標準化において大きな影響力を有している。実際に標準化委員会が発表した「[TR1](../Page/C++_Technical_Report_1.md "wikilink")」の2/3以上がBoostライブラリを基にしている。Random, Regex, Threadなどはいずれも[C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink")規格の標準ライブラリとして正式に導入・標準化されている。このことから、Boostは考案された新機能を標準化させる前の試験運用の場であるとも言える。
 
 Boostで公開されるライブラリはコミュニティの公開レビューによって精選されている。Boostを使用して作成したプログラムは、商用、非商用を問わず無償の[Boost Software License](https://www.boost.org/users/license.html)の下でライセンスされる。
 
-Boostは[テンプレートなどを活用して積極的に](../Page/テンプレート_\(プログラミング\).md "wikilink")[メタプログラミング](https://ja.wikipedia.org/wiki/メタプログラミング "wikilink")や[ジェネリックプログラミング](https://ja.wikipedia.org/wiki/ジェネリックプログラミング "wikilink")の技法を取り入れて行く傾向がある。そのためBoostライブラリの利用者にはC++の現代的な記述に慣れていることを要求される。
+Boostは[テンプレートなどを活用して積極的に](../Page/テンプレート_\(プログラミング\).md "wikilink")[メタプログラミング](../Page/メタプログラミング.md "wikilink")や[ジェネリックプログラミング](../Page/ジェネリックプログラミング.md "wikilink")の技法を取り入れて行く傾向がある。そのためBoostライブラリの利用者にはC++の現代的な記述に慣れていることを要求される。
 
 。
 
@@ -16,8 +16,8 @@ Boostには次のような分野のライブラリが含まれている。ライ
   - [アルゴリズム](https://ja.wikipedia.org/wiki/Standard_Template_Library#アルゴリズム "wikilink")
   - 並列プログラミング（非同期プログラミング）
       - [thread](https://www.boost.org/doc/libs/release/libs/thread/) - [スレッド](../Page/スレッド_\(コンピュータ\).md "wikilink")
-      - [context](https://www.boost.org/doc/libs/release/libs/context/) - ユーザーレベル[コンテキストスイッチ](https://ja.wikipedia.org/wiki/コンテキストスイッチ "wikilink")
-      - [coroutine](https://www.boost.org/doc/libs/release/libs/coroutine/) - [コルーチン](https://ja.wikipedia.org/wiki/コルーチン "wikilink")
+      - [context](https://www.boost.org/doc/libs/release/libs/context/) - ユーザーレベル[コンテキストスイッチ](../Page/コンテキストスイッチ.md "wikilink")
+      - [coroutine](https://www.boost.org/doc/libs/release/libs/coroutine/) - [コルーチン](../Page/コルーチン.md "wikilink")
       - [fiber](https://www.boost.org/doc/libs/release/libs/fiber/) - [ファイバー](https://ja.wikipedia.org/wiki/ファイバー_\(コンピュータ\) "wikilink")
       - [compute](https://www.boost.org/doc/libs/release/libs/compute/) - [OpenCL](../Page/OpenCL.md "wikilink")ベースのマルチコア[CPU](../Page/CPU.md "wikilink")/[GPGPU](https://ja.wikipedia.org/wiki/GPGPU "wikilink")演算プラットフォームインターフェイス
   - [コンテナ](../Page/コンテナ_\(データ型\).md "wikilink")
@@ -28,7 +28,7 @@ Boostには次のような分野のライブラリが含まれている。ライ
       - [pointer containers](https://www.boost.org/doc/libs/release/libs/ptr_container/) - 値へのポインタを素直に管理できるようにする標準的なSTLコンテナをモデルにしたコンテナ
       - [property map](https://www.boost.org/doc/libs/release/libs/property_map/) - コンセプト的なインターフェイス仕様とキー値をオブジェクトにマップするための多目的インターフェイス
       - [variant](https://www.boost.org/doc/libs/release/libs/variant/) - コンパイル時に指定する型の集合から選べる型オブジェクトの効率的なストレージと、それにアクセスする型安全で総称的なスタックベースのオブジェクトコンテナ
-  - 正当性と[テスト](https://ja.wikipedia.org/wiki/ソフトウェアテスト "wikilink")
+  - 正当性と[テスト](../Page/ソフトウェアテスト.md "wikilink")
       - [concept check](https://www.boost.org/doc/libs/release/libs/concept_check/) - 指定可能なテンプレートパラメータ（コンセプト）を制限できるようにする
       - [static assert](https://www.boost.org/doc/libs/release/libs/static_assert/) - コンパイル時アサートのサポート
       - [Boost Test Library](https://www.boost.org/doc/libs/release/libs/test/) - テストプログラムの作成、テストケースとテストスイートによるテストの構成、そしてそれらの実行制御のためのコンポーネントの組み合わせ。
@@ -57,7 +57,7 @@ Boostには次のような分野のライブラリが含まれている。ライ
       - [operators](https://www.boost.org/doc/libs/release/libs/utility/operators.htm) - ユーザー定義のイテレーターのための演算子をオーバーロードしてクラスが算術計算に適用できるようにするクラステンプレート。
       - [tokenizer](https://www.boost.org/doc/libs/release/libs/tokenizer/) - シーケンス内に含まれるトークンのセットをコンテナとして見えるようにしてイテレーターでアクセスできるようにする。
   - [数学](../Page/数学.md "wikilink")と計算
-      - [QVM](https://www.boost.org/doc/libs/release/libs/qvm/doc/index.html) - [3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")プログラミングで多用される固定サイズの[クォータニオン](https://ja.wikipedia.org/wiki/クォータニオン "wikilink")、[ベクトル](https://ja.wikipedia.org/wiki/ベクトル "wikilink")、[行列](https://ja.wikipedia.org/wiki/行列 "wikilink")
+      - [QVM](https://www.boost.org/doc/libs/release/libs/qvm/doc/index.html) - [3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")プログラミングで多用される固定サイズの[クォータニオン](https://ja.wikipedia.org/wiki/クォータニオン "wikilink")、[ベクトル](../Page/ベクトル.md "wikilink")、[行列](https://ja.wikipedia.org/wiki/行列 "wikilink")
   - メモリ（[参照カウント](../Page/参照カウント.md "wikilink")による[スマートポインタなど](../Page/ガベージコレクション.md "wikilink")）
       - [pool](https://www.boost.org/doc/libs/release/libs/pool/) - 分割されたストレージベースのシンプルなメモリ管理スキームを提供する。
       - [smart_ptr](https://www.boost.org/doc/libs/release/libs/smart_ptr/) - 様々なポインタ管理方式による[スマートポインタクラステンプレートのコレクション](../Page/ガベージコレクション.md "wikilink")。
@@ -77,7 +77,7 @@ Boostには次のような分野のライブラリが含まれている。ライ
   - その他
   - [構文解析](../Page/構文解析.md "wikilink")
   - プリプロセッサメタプログラミング
-  - [文字列](https://ja.wikipedia.org/wiki/文字列 "wikilink")とテキスト処理（[正規表現](../Page/正規表現.md "wikilink")など）
+  - [文字列](../Page/文字列.md "wikilink")とテキスト処理（[正規表現](../Page/正規表現.md "wikilink")など）
       - [lexical_cast](https://www.boost.org/doc/libs/release/libs/lexical_cast/) - テキストとの型変換
       - [format](https://www.boost.org/doc/libs/release/libs/format/) - タイプセーフな引数のフォーマット文字列
       - [iostreams](https://www.boost.org/doc/libs/release/libs/iostreams/) - 新しい送受信フィルタフレームワークのためのC++ストリームとストリームバッファの補助

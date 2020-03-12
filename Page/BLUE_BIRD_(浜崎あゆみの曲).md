@@ -1,7 +1,7 @@
 > この記事は[BLUE BIRD \(\)](https://ja.wikipedia.org/wiki/BLUE_BIRD_\(\))から翻訳されています。
 
 
-「**BLUE BIRD**」（ブルー・バード）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の40th[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**BLUE BIRD**」（ブルー・バード）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の40th[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -13,7 +13,7 @@
 
 ## 収録曲
 
-全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：ayumi hamasaki
+全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
 
   - CD
 
@@ -21,12 +21,12 @@
 
 1.  **BLUE BIRD "Original Mix"**
       -
-        [作曲](../Page/作曲.md "wikilink")：[D・A・I](https://ja.wikipedia.org/wiki/長尾大 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
-        「ゼスプリ・ゴールド[キウイ](https://ja.wikipedia.org/wiki/キウイフルーツ "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        [作曲](../Page/作曲.md "wikilink")：[D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
+        「ゼスプリ・ゴールド[キウイ](https://ja.wikipedia.org/wiki/キウイフルーツ "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **Beautiful Fighters "Original Mix"**
       -
         作曲：[Kazuhito Kikuchi](../Page/菊池一仁.md "wikilink") / 編曲：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
-        [Panasonic](https://ja.wikipedia.org/wiki/Panasonic "wikilink")「[D-snap](https://ja.wikipedia.org/wiki/D-snap "wikilink") Audio」/「D-dock」CMソング
+        [Panasonic](https://ja.wikipedia.org/wiki/Panasonic "wikilink")「[D-snap](../Page/D-snap.md "wikilink") Audio」/「D-dock」CMソング
 3.  **[Ladies Night 〜another night〜](../Page/\(miss\)understood.md "wikilink")**
       -
         Panasonic「[LUMIX](../Page/LUMIX.md "wikilink") FX01」CMソング
@@ -57,11 +57,11 @@
 ## 収録アルバム
 
   - **BLUE BIRD**
-      - 『[Secret](https://ja.wikipedia.org/wiki/Secret_\(浜崎あゆみのアルバム\) "wikilink")』
+      - 『[Secret](../Page/Secret_\(浜崎あゆみのアルバム\).md "wikilink")』
       - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』
       - 『[A SUMMER BEST](https://ja.wikipedia.org/wiki/A_SUMMER_BEST "wikilink")』
   - **Beautiful Fighters**
-      - 『[Secret](https://ja.wikipedia.org/wiki/Secret_\(浜崎あゆみのアルバム\) "wikilink")』
+      - 『[Secret](../Page/Secret_\(浜崎あゆみのアルバム\).md "wikilink")』
 
 ## 脚注
 

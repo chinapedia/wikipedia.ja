@@ -1,9 +1,9 @@
 > この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
 
 
-**AFCフットサル選手権**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink") (AFC) が主催する、[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")地域のナショナルチームによる[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")大会である。[1999年](../Page/1999年.md "wikilink")に第1回大会が[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")で行われて以来、毎年行われていたが、2008年より隔年の開催となっている。[FIFAフットサルワールドカップ](../Page/FIFAフットサルワールドカップ.md "wikilink")と同年の大会は、フットサルワールドカップのアジア予選を兼ねる。
+**AFCフットサル選手権**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink") (AFC) が主催する、[アジア](../Page/アジア.md "wikilink")地域のナショナルチームによる[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")大会である。[1999年](../Page/1999年.md "wikilink")に第1回大会が[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")で行われて以来、毎年行われていたが、2008年より隔年の開催となっている。[FIFAフットサルワールドカップ](../Page/FIFAフットサルワールドカップ.md "wikilink")と同年の大会は、フットサルワールドカップのアジア予選を兼ねる。
 
-[フットサルイラン代表](https://ja.wikipedia.org/wiki/フットサルイラン代表 "wikilink")は第1回より毎回参加し、常に3位以上の成績を残している。[フットサル日本代表](https://ja.wikipedia.org/wiki/フットサル日本代表 "wikilink")は第1回より毎回参加し、常にベスト8以上の成績を残している。また、優勝経験があるのはこの2ヶ国だけである。
+[フットサルイラン代表](https://ja.wikipedia.org/wiki/フットサルイラン代表 "wikilink")は第1回より毎回参加し、常に3位以上の成績を残している。[フットサル日本代表](../Page/フットサル日本代表.md "wikilink")は第1回より毎回参加し、常にベスト8以上の成績を残している。また、優勝経験があるのはこの2ヶ国だけである。
 
 ## 歴代決勝戦結果・開催国
 
@@ -89,7 +89,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><br />
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><br />
 <a href="https://ja.wikipedia.org/wiki/2005_AFCフットサル選手権" title="wikilink">詳細</a></p></td>
 <td></td>
 <td><p>'''</p></td>
@@ -101,7 +101,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><br />
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><br />
 <a href="https://ja.wikipedia.org/wiki/2006_AFCフットサル選手権" title="wikilink">詳細</a></p></td>
 <td></td>
 <td><p>'''</p></td>
@@ -183,10 +183,10 @@
 
 ## 優勝回数
 
-| 回数  | 国名                                                                                                                                | 年                                                                      |
-| --- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 12回 | |[20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Iran.svg "wikilink") [イラン](../Page/イラン.md "wikilink")                          | 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2007, 2008, 2010, 2016, 2018 |
-| 3回  | |[20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Japan.svg "wikilink") [日本](https://ja.wikipedia.org/wiki/フットサル日本代表 "wikilink") | 2006, 2012, 2014                                                       |
+| 回数  | 国名                                                                                                             | 年                                                                      |
+| --- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 12回 | |[20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Iran.svg "wikilink") [イラン](../Page/イラン.md "wikilink")       | 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2007, 2008, 2010, 2016, 2018 |
+| 3回  | |[20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Japan.svg "wikilink") [日本](../Page/フットサル日本代表.md "wikilink") | 2006, 2012, 2014                                                       |
 
 ## 関連項目
 

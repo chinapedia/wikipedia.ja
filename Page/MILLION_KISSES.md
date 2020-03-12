@@ -3,7 +3,7 @@
 
 『**MILLION KISSES**』（ミリオン・キッシーズ）は、[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")4枚目のアルバム。
 
-[1991年](../Page/1991年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")にEpic/Sony Records（現・[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")）よりリリースされた。
+[1991年](../Page/1991年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")にEpic/Sony Records（現・[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")）よりリリースされた。
 
 ## 概要
 
@@ -12,7 +12,7 @@
   - アルバムタイトルは「Goodbye, Darlin'」の歌詞にある「100万のキス」からではなく、前作の『WONDER3』がドリカム初の100万枚を突破したことへの感謝の気持ち（購入した100万人へキスを）。
   - 1994年6月時点で、累計売上240万枚（エピックレコードジャパン）\[1\]。
   - このアルバムを引っさげて、コンサートツアー『MILLION KISSES』を開催。
-  - ジャケットは[ロンドン](../Page/ロンドン.md "wikilink")の各地で撮影されており、駅舎や海釣り公園等の写真がレイアウトされている。その内駅舎の写真はこのアルバムからの先行シングル「[忘れないで](https://ja.wikipedia.org/wiki/忘れないで_\(DREAMS_COME_TRUEの曲\) "wikilink")」のジャケットにも使用されている。
+  - ジャケットは[ロンドン](../Page/ロンドン.md "wikilink")の各地で撮影されており、駅舎や海釣り公園等の写真がレイアウトされている。その内駅舎の写真はこのアルバムからの先行シングル「[忘れないで](../Page/忘れないで_\(DREAMS_COME_TRUEの曲\).md "wikilink")」のジャケットにも使用されている。
   - ジャケット表面は3人の姿は映っているがタイトルとアーティスト名が表記されてない。ジャケット裏面は手書きの手紙風にタイトル・アーティスト名・曲目が吉田の手書きテロップで掲載されている。
 
 ## 収録曲
@@ -39,11 +39,11 @@
       - 作詞・作曲：吉田美和、編曲：中村正人
 8.  **<span id="未来予想図">未来予想図</span>**
       - 作詞・作曲：吉田美和、編曲：中村正人
-      - 「未来予想図」シリーズの第1弾にあたる楽曲で、先に2ndアルバム『[LOVE GOES ON…](../Page/LOVE_GOES_ON….md "wikilink")』で発表された「[未来予想図II](https://ja.wikipedia.org/wiki/未来予想図II "wikilink")」より以前に制作されている。
+      - 「未来予想図」シリーズの第1弾にあたる楽曲で、先に2ndアルバム『[LOVE GOES ON…](../Page/LOVE_GOES_ON….md "wikilink")』で発表された「[未来予想図II](../Page/未来予想図II.md "wikilink")」より以前に制作されている。
       - 富士フイルムCMソング
-      - 2010年に[徳永英明](https://ja.wikipedia.org/wiki/徳永英明 "wikilink")がカバーした（『[VOCALIST 4](https://ja.wikipedia.org/wiki/VOCALIST_4 "wikilink")』）
-      - 2012年に[青木隆治](https://ja.wikipedia.org/wiki/青木隆治 "wikilink")がカバーした（『[VOICE 199X](https://ja.wikipedia.org/wiki/VOICE_199X "wikilink")』）
-9.  **[忘れないで](https://ja.wikipedia.org/wiki/忘れないで_\(DREAMS_COME_TRUEの曲\) "wikilink")**
+      - 2010年に[徳永英明](../Page/徳永英明.md "wikilink")がカバーした（『[VOCALIST 4](https://ja.wikipedia.org/wiki/VOCALIST_4 "wikilink")』）
+      - 2012年に[青木隆治](../Page/青木隆治.md "wikilink")がカバーした（『[VOICE 199X](https://ja.wikipedia.org/wiki/VOICE_199X "wikilink")』）
+9.  **[忘れないで](../Page/忘れないで_\(DREAMS_COME_TRUEの曲\).md "wikilink")**
       - 作詞：吉田美和、作曲・編曲：中村正人
       - 10thシングル。
       - 表記はないがシングルバージョンになかったイントロ前のセリフが追加されている。

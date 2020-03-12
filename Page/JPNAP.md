@@ -3,7 +3,7 @@
 
 **JPNAP** (Japan Network Access Point) は、[インターネットマルチフィード](../Page/インターネットマルチフィード.md "wikilink")株式会社が提供する2012年現在、日本最大の商用[インターネットエクスチェンジ](../Page/インターネットエクスチェンジ.md "wikilink")である。[NTTグループ](../Page/NTTグループ.md "wikilink")と[IIJが中心となって設立した同社は](https://ja.wikipedia.org/wiki/インターネットイニシアティブ "wikilink")、もとは[データセンター](https://ja.wikipedia.org/wiki/データセンター "wikilink")専業であったが、[2001年](../Page/2001年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")にJPNAPを設立した。
 
-接続拠点は東京都内に5ヶ所（NTT大手町ビル・[東京サンケイビル](https://ja.wikipedia.org/wiki/サンケイビル "wikilink")・NTT池袋ビル・信州名鉄品川ビル・大手町フィナンシャルシティノースタワー）、大阪に2ヶ所（[NTTテレパーク堂島](https://ja.wikipedia.org/wiki/NTTテレパーク堂島 "wikilink")第1ビル、第3ビル）あり、うち東京のNTT池袋ビルの接続ポイントはJPNAP東京IIサービスとして、東京の他の4ヶ所はJPNAP東京Iサービス、大阪の2ヶ所はJPNAP大阪サービスとしてネットワーク的に独立している。IX接続インターフェースは[ファストイーサ](https://ja.wikipedia.org/wiki/100メガビット・イーサネット "wikilink")、[ギガビット・イーサネット](https://ja.wikipedia.org/wiki/ギガビット・イーサネット "wikilink")、[10ギガビット・イーサネット](../Page/10ギガビット・イーサネット.md "wikilink")、[100ギガビット・イーサネット](https://ja.wikipedia.org/wiki/100ギガビット・イーサネット "wikilink")の4種類がある。また、全ての拠点にて[IPv4](https://ja.wikipedia.org/wiki/IPv4 "wikilink")/[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink") [デュアルスタック](https://ja.wikipedia.org/wiki/デュアルスタック "wikilink")サービスを開始している。
+接続拠点は東京都内に5ヶ所（NTT大手町ビル・[東京サンケイビル](../Page/サンケイビル.md "wikilink")・NTT池袋ビル・信州名鉄品川ビル・大手町フィナンシャルシティノースタワー）、大阪に2ヶ所（[NTTテレパーク堂島](https://ja.wikipedia.org/wiki/NTTテレパーク堂島 "wikilink")第1ビル、第3ビル）あり、うち東京のNTT池袋ビルの接続ポイントはJPNAP東京IIサービスとして、東京の他の4ヶ所はJPNAP東京Iサービス、大阪の2ヶ所はJPNAP大阪サービスとしてネットワーク的に独立している。IX接続インターフェースは[ファストイーサ](https://ja.wikipedia.org/wiki/100メガビット・イーサネット "wikilink")、[ギガビット・イーサネット](https://ja.wikipedia.org/wiki/ギガビット・イーサネット "wikilink")、[10ギガビット・イーサネット](../Page/10ギガビット・イーサネット.md "wikilink")、[100ギガビット・イーサネット](https://ja.wikipedia.org/wiki/100ギガビット・イーサネット "wikilink")の4種類がある。また、全ての拠点にて[IPv4](../Page/IPv4.md "wikilink")/[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink") [デュアルスタック](https://ja.wikipedia.org/wiki/デュアルスタック "wikilink")サービスを開始している。
 
 ## 加入者一覧
 
@@ -17,29 +17,29 @@ JPNAP東京Iには以下のユーザが加入している（2008年9月現在・
   - [ヴェクタント](https://ja.wikipedia.org/wiki/ヴェクタント "wikilink")
   - [エーティーワークス](https://ja.wikipedia.org/wiki/エーティーワークス "wikilink")
   - [AT\&T](../Page/AT&T.md "wikilink")ジャパン
-  - [STNet](https://ja.wikipedia.org/wiki/STNet "wikilink")
+  - [STNet](../Page/STNet.md "wikilink")
   - [NECビッグローブ](https://ja.wikipedia.org/wiki/NECビッグローブ "wikilink")
   - [NTT-ME](../Page/NTT-ME.md "wikilink")
   - [NTTコミュニケーションズ](../Page/NTTコミュニケーションズ.md "wikilink")
-  - [NTTデータ](https://ja.wikipedia.org/wiki/NTTデータ "wikilink")
+  - [NTTデータ](../Page/NTTデータ.md "wikilink")
   - [NTTPCコミュニケーションズ](https://ja.wikipedia.org/wiki/NTTPCコミュニケーションズ "wikilink")
   - [エネルギア・コミュニケーションズ](../Page/エネルギア・コミュニケーションズ.md "wikilink")
   - [愛媛CATV](../Page/愛媛CATV.md "wikilink")
   - MルートDNSサーバ（[WIDEプロジェクト](../Page/WIDEプロジェクト.md "wikilink")）
-  - [大塚商会](https://ja.wikipedia.org/wiki/大塚商会 "wikilink")
+  - [大塚商会](../Page/大塚商会.md "wikilink")
   - [関西マルチメディアサービス](https://ja.wikipedia.org/wiki/関西マルチメディアサービス "wikilink")
   - [九州通信ネットワーク](https://ja.wikipedia.org/wiki/九州通信ネットワーク "wikilink")
   - [倉敷ケーブルテレビ](../Page/倉敷ケーブルテレビ.md "wikilink")
   - [KVH](https://ja.wikipedia.org/wiki/KVH "wikilink")
   - [ケイ・オプティコム](https://ja.wikipedia.org/wiki/ケイ・オプティコム "wikilink")
-  - [KDDI](../Page/KDDI.md "wikilink")（旧[パワードコム](https://ja.wikipedia.org/wiki/パワードコム "wikilink")）
-  - [国立情報学研究所](https://ja.wikipedia.org/wiki/国立情報学研究所 "wikilink")
+  - [KDDI](../Page/KDDI.md "wikilink")（旧[パワードコム](../Page/パワードコム.md "wikilink")）
+  - [国立情報学研究所](../Page/国立情報学研究所.md "wikilink")
   - [コミュニティネットワークセンター](../Page/コミュニティネットワークセンター.md "wikilink")
-  - [さくらインターネット](https://ja.wikipedia.org/wiki/さくらインターネット "wikilink")
+  - [さくらインターネット](../Page/さくらインターネット.md "wikilink")
   - [三洋ITソリューションズ](../Page/三洋ITソリューションズ.md "wikilink")
   - [スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")
   - [ソニー](../Page/ソニー.md "wikilink")
-  - [ソフトバンクIDC](https://ja.wikipedia.org/wiki/IDCフロンティア "wikilink")
+  - [ソフトバンクIDC](../Page/IDCフロンティア.md "wikilink")
   - [ソフトバンクテレコム](../Page/ソフトバンクテレコム.md "wikilink")
   - [ソフトバンクBB](../Page/ソフトバンクBB.md "wikilink")
   - [中国網通日本オペレーション](https://ja.wikipedia.org/wiki/中国網通日本オペレーション "wikilink")
@@ -56,8 +56,8 @@ JPNAP東京Iには以下のユーザが加入している（2008年9月現在・
   - [メディアエクスチェンジ](../Page/メディアエクスチェンジ.md "wikilink")
   - [ヤフー](https://ja.wikipedia.org/wiki/ヤフー_\(企業\) "wikilink")
   - [UCOM](https://ja.wikipedia.org/wiki/UCOM "wikilink")
-  - [ライブドア](https://ja.wikipedia.org/wiki/ライブドア "wikilink")
-  - [RIPE NCC](https://ja.wikipedia.org/wiki/RIPE_NCC "wikilink")
+  - [ライブドア](../Page/ライブドア.md "wikilink")
+  - [RIPE NCC](../Page/RIPE_NCC.md "wikilink")
   - [Limelight Networks](https://ja.wikipedia.org/wiki/Limelight_Networks "wikilink")
   - [リーチ・ネットワークス](https://ja.wikipedia.org/wiki/リーチ・ネットワークス "wikilink")
 

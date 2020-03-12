@@ -1,16 +1,16 @@
 > この記事は[Go!](https://ja.wikipedia.org/wiki/Go!)から翻訳されています。
 
 
-**go\!**（ゴー！）は、ハワイの[ホノルル国際空港](https://ja.wikipedia.org/wiki/ホノルル国際空港 "wikilink")をハブとする、メサ・エアグループの[メサ航空](https://ja.wikipedia.org/wiki/メサ航空 "wikilink")によって運行されていた[格安](https://ja.wikipedia.org/wiki/格安航空会社 "wikilink")・[地域](https://ja.wikipedia.org/wiki/コミューター航空会社 "wikilink")[航空会社](../Page/航空会社.md "wikilink")である。便名はすべてYVの航空会社コードで表示されていた。2014年4月より運行を休止した。
+**go\!**（ゴー！）は、ハワイの[ホノルル国際空港](https://ja.wikipedia.org/wiki/ホノルル国際空港 "wikilink")をハブとする、メサ・エアグループの[メサ航空](../Page/メサ航空.md "wikilink")によって運行されていた[格安](https://ja.wikipedia.org/wiki/格安航空会社 "wikilink")・[地域](../Page/コミューター航空会社.md "wikilink")[航空会社](../Page/航空会社.md "wikilink")である。便名はすべてYVの航空会社コードで表示されていた。2014年4月より運行を休止した。
 
-2008年3月31日におきた[アロハ航空](https://ja.wikipedia.org/wiki/アロハ航空 "wikilink")の全便運航中止・解体はgo\!の市場参入によるハワイ内の無理な値引き合戦を繰り広げた結果とアロハ航空側は主張している\[1\]。
+2008年3月31日におきた[アロハ航空](../Page/アロハ航空.md "wikilink")の全便運航中止・解体はgo\!の市場参入によるハワイ内の無理な値引き合戦を繰り広げた結果とアロハ航空側は主張している\[1\]。
 
 ## 過去に運航されていた路線
 
   - [ホノルル国際空港](https://ja.wikipedia.org/wiki/ホノルル国際空港 "wikilink")
-  - [ヒロ国際空港](https://ja.wikipedia.org/wiki/ヒロ国際空港 "wikilink")
-  - [カフルイ空港](https://ja.wikipedia.org/wiki/カフルイ空港 "wikilink")
-  - [コナ国際空港](https://ja.wikipedia.org/wiki/コナ国際空港 "wikilink")
+  - [ヒロ国際空港](../Page/ヒロ国際空港.md "wikilink")
+  - [カフルイ空港](../Page/カフルイ空港.md "wikilink")
+  - [コナ国際空港](../Page/コナ国際空港.md "wikilink")
   - [リフエ空港](https://ja.wikipedia.org/wiki/:en:Lihue_Airport "wikilink")
 
 <!-- end list -->
@@ -32,7 +32,7 @@
 
 ## 関連項目
 
-  - [航空会社の一覧](https://ja.wikipedia.org/wiki/航空会社の一覧 "wikilink")
+  - [航空会社の一覧](../Page/航空会社の一覧.md "wikilink")
 
 [Category:ハワイ州の航空会社](https://ja.wikipedia.org/wiki/Category:ハワイ州の航空会社 "wikilink") [Category:かつて存在した格安航空会社](https://ja.wikipedia.org/wiki/Category:かつて存在した格安航空会社 "wikilink") [Category:2005年設立の航空会社](https://ja.wikipedia.org/wiki/Category:2005年設立の航空会社 "wikilink")
 

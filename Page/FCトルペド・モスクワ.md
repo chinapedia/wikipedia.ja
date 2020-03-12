@@ -1,17 +1,17 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**FCトルペド・モスクワ**（****）は、[ロシア](../Page/ロシア.md "wikilink")・[モスクワ](https://ja.wikipedia.org/wiki/モスクワ "wikilink")を本拠地とするサッカークラブである。
+**FCトルペド・モスクワ**（****）は、[ロシア](../Page/ロシア.md "wikilink")・[モスクワ](../Page/モスクワ.md "wikilink")を本拠地とするサッカークラブである。
 
 ## 概要
 
-同じモスクワを本拠地とする[スパルタク](https://ja.wikipedia.org/wiki/FCスパルタク・モスクワ "wikilink")、[ディナモ](https://ja.wikipedia.org/wiki/FCディナモ・モスクワ "wikilink")、[CSKAなどと比べて実績では劣るものの](https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ "wikilink")、[ソ連リーグ時代は](https://ja.wikipedia.org/wiki/ソビエト連邦サッカーリーグ "wikilink")3回優勝している。過去には[1958年W杯得点王の](../Page/1958_FIFAワールドカップ.md "wikilink")[ワレンチン・イワノフ](../Page/ワレンチン・イワノフ.md "wikilink")や「ロシアの[ペレ](../Page/ペレ.md "wikilink")」[エドゥアルド・ストレルツォフ](https://ja.wikipedia.org/wiki/エドゥアルド・ストレルツォフ "wikilink")らが在籍した。
+同じモスクワを本拠地とする[スパルタク](../Page/FCスパルタク・モスクワ.md "wikilink")、[ディナモ](../Page/FCディナモ・モスクワ.md "wikilink")、[CSKAなどと比べて実績では劣るものの](../Page/PFC_CSKAモスクワ.md "wikilink")、[ソ連リーグ時代は](../Page/ソビエト連邦サッカーリーグ.md "wikilink")3回優勝している。過去には[1958年W杯得点王の](../Page/1958_FIFAワールドカップ.md "wikilink")[ワレンチン・イワノフ](../Page/ワレンチン・イワノフ.md "wikilink")や「ロシアの[ペレ](../Page/ペレ.md "wikilink")」[エドゥアルド・ストレルツォフ](https://ja.wikipedia.org/wiki/エドゥアルド・ストレルツォフ "wikilink")らが在籍した。
 
-クラブは[1924年](../Page/1924年.md "wikilink")に設立され、[1931年](../Page/1931年.md "wikilink")に[国営自動車工場AMO](https://ja.wikipedia.org/wiki/ジル_\(自動車\) "wikilink")（後のZIS、ZIL）の傘下に入った。ZILの経営難のため、[1996年](../Page/1996年.md "wikilink")に[ルジニキ・スタジアム](../Page/ルジニキ・スタジアム.md "wikilink")などを所有するルジニキ株式会社に経営権が売却され、その時に本拠地も[トルペド・スタジアムからルジニキ](https://ja.wikipedia.org/wiki/エドゥアルド・ストレリツォフ・スタジアム "wikilink")・スタジアムに移転した。
+クラブは[1924年](../Page/1924年.md "wikilink")に設立され、[1931年](../Page/1931年.md "wikilink")に[国営自動車工場AMO](../Page/ジル_\(自動車\).md "wikilink")（後のZIS、ZIL）の傘下に入った。ZILの経営難のため、[1996年](../Page/1996年.md "wikilink")に[ルジニキ・スタジアム](../Page/ルジニキ・スタジアム.md "wikilink")などを所有するルジニキ株式会社に経営権が売却され、その時に本拠地も[トルペド・スタジアムからルジニキ](https://ja.wikipedia.org/wiki/エドゥアルド・ストレリツォフ・スタジアム "wikilink")・スタジアムに移転した。
 
-[1960年](../Page/1960年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")には、[日本代表](../Page/日本代表.md "wikilink")とトルペド・モスクワの初めての試合が当時の[ソ連](https://ja.wikipedia.org/wiki/ソ連 "wikilink")・[モスクワ](https://ja.wikipedia.org/wiki/モスクワ "wikilink")でおこなわれたが、8-0でトルペド・モスクワが完勝した。
+[1960年](../Page/1960年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")には、[日本代表](../Page/日本代表.md "wikilink")とトルペド・モスクワの初めての試合が当時の[ソ連](https://ja.wikipedia.org/wiki/ソ連 "wikilink")・[モスクワ](../Page/モスクワ.md "wikilink")でおこなわれたが、8-0でトルペド・モスクワが完勝した。
 
-ロシア・リーグ移行後は、[1993年](../Page/1993年.md "wikilink")に[ロシア・カップで優勝を収め](https://ja.wikipedia.org/wiki/ロシア・カップ_\(サッカー\) "wikilink")、[2000年](../Page/2000年.md "wikilink")には、[イゴール・セムショフ](https://ja.wikipedia.org/wiki/イゴール・セムショフ "wikilink")らの活躍で、リーグ3位の好成績を収めた。その後も、中位をキープしていたが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、まさかの低迷で1部リーグ（実質2部）に降格する。2007年は6位に終わり、2008年は18位とさらに低迷。2部リーグ（実質3部）降格が決まっていたが、2009年は実質4部のロシア・アマチュア・リーグで再出発を計る。その2009年はアマチュア・リーグで1位となり、2010年は2部中央地区でも1位。2011-12シーズンは1部リーグに籍を置くことが決定した。
+ロシア・リーグ移行後は、[1993年](../Page/1993年.md "wikilink")に[ロシア・カップで優勝を収め](../Page/ロシア・カップ_\(サッカー\).md "wikilink")、[2000年](../Page/2000年.md "wikilink")には、[イゴール・セムショフ](https://ja.wikipedia.org/wiki/イゴール・セムショフ "wikilink")らの活躍で、リーグ3位の好成績を収めた。その後も、中位をキープしていたが、[2006年](../Page/2006年.md "wikilink")、まさかの低迷で1部リーグ（実質2部）に降格する。2007年は6位に終わり、2008年は18位とさらに低迷。2部リーグ（実質3部）降格が決まっていたが、2009年は実質4部のロシア・アマチュア・リーグで再出発を計る。その2009年はアマチュア・リーグで1位となり、2010年は2部中央地区でも1位。2011-12シーズンは1部リーグに籍を置くことが決定した。
 
 ## クラブ名の遍歴
 
@@ -26,7 +26,7 @@
 
 ### 国内タイトル
 
-  - [ソビエト連邦リーグ](https://ja.wikipedia.org/wiki/ソビエト連邦サッカーリーグ "wikilink")：3回
+  - [ソビエト連邦リーグ](../Page/ソビエト連邦サッカーリーグ.md "wikilink")：3回
 
 <!-- end list -->
 
@@ -35,7 +35,7 @@
 
 <!-- end list -->
 
-  - [USSRカップ](https://ja.wikipedia.org/wiki/USSRカップ "wikilink")：6回
+  - [USSRカップ](../Page/USSRカップ.md "wikilink")：6回
 
 <!-- end list -->
 
@@ -44,7 +44,7 @@
 
 <!-- end list -->
 
-  - [ロシア・カップ](https://ja.wikipedia.org/wiki/ロシア・カップ_\(サッカー\) "wikilink")：1回
+  - [ロシア・カップ](../Page/ロシア・カップ_\(サッカー\).md "wikilink")：1回
 
 <!-- end list -->
 
@@ -110,31 +110,31 @@
 
   - [ドミトリ・ホフロフ](https://ja.wikipedia.org/wiki/ドミトリ・ホフロフ "wikilink") 1997
 
-  - [エドガラス・ヤンカウスカス](https://ja.wikipedia.org/wiki/エドガラス・ヤンカウスカス "wikilink") 1997
+  - [エドガラス・ヤンカウスカス](../Page/エドガラス・ヤンカウスカス.md "wikilink") 1997
 
   - [イゴール・セムショフ](https://ja.wikipedia.org/wiki/イゴール・セムショフ "wikilink") 1998-2005
 
   - [ヴァディム・エフセエフ](https://ja.wikipedia.org/wiki/ヴァディム・エフセエフ "wikilink") 1998、2007
 
-  - [コンスタンティン・ジリャノフ](https://ja.wikipedia.org/wiki/コンスタンティン・ジリャノフ "wikilink")2000-2007
+  - [コンスタンティン・ジリャノフ](../Page/コンスタンティン・ジリャノフ.md "wikilink")2000-2007
 
   - [アレクセイ・ブガイェフ](https://ja.wikipedia.org/wiki/アレクセイ・ブガイェフ "wikilink") 2001、2003-2004
 
   - [ドミトリ・ボロディン](https://ja.wikipedia.org/wiki/ドミトリ・ボロディン "wikilink") 2002-2007
 
-  - [アンドレス・オペル](https://ja.wikipedia.org/wiki/アンドレス・オペル "wikilink") 2003-2005
+  - [アンドレス・オペル](../Page/アンドレス・オペル.md "wikilink") 2003-2005
 
-  - [アンドレイ・ステパノフ](https://ja.wikipedia.org/wiki/アンドレイ・ステパノフ "wikilink") 2004-2006
+  - [アンドレイ・ステパノフ](../Page/アンドレイ・ステパノフ.md "wikilink") 2004-2006
 
   - [エミル・スパヒッチ](https://ja.wikipedia.org/wiki/エミル・スパヒッチ "wikilink") 2005
 
   - [アレクサンドル・ゲインリフ](https://ja.wikipedia.org/wiki/アレクサンドル・ゲインリフ "wikilink") 2005-2006
 
-  - [エナル・ヤーガー](https://ja.wikipedia.org/wiki/エナル・ヤーガー "wikilink") 2005-2006
+  - [エナル・ヤーガー](../Page/エナル・ヤーガー.md "wikilink") 2005-2006
 
   - [パヴェル・ママエフ](https://ja.wikipedia.org/wiki/パヴェル・ママエフ "wikilink") 2005-2007
 
-  - [ヴラディーミル・ボスコボイニコフ](https://ja.wikipedia.org/wiki/ヴラディーミル・ボスコボイニコフ "wikilink") 2007-
+  - [ヴラディーミル・ボスコボイニコフ](../Page/ヴラディーミル・ボスコボイニコフ.md "wikilink") 2007-
 
 ## 外部リンク
 

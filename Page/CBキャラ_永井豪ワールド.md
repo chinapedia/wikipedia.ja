@@ -3,11 +3,11 @@
 
 『**CBキャラ 永井豪ワールド**』（ちびキャラ ながいごうワールド）は**[永井豪](../Page/永井豪.md "wikilink")**作品を原作とした[OVA](../Page/OVA.md "wikilink")シリーズである。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")にかけて発売され、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")6月に[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")より[DVD-BOX](https://ja.wikipedia.org/wiki/DVD-BOX "wikilink")が発売された。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1991年](../Page/1991年.md "wikilink")にかけて発売され、[2007年](../Page/2007年.md "wikilink")6月に[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")より[DVD-BOX](https://ja.wikipedia.org/wiki/DVD-BOX "wikilink")が発売された。
 
 ## 概要
 
-『[デビルマン](https://ja.wikipedia.org/wiki/デビルマン "wikilink")』、『[マジンガーZ](../Page/マジンガーZ.md "wikilink")』といった永井豪原作のキャラクター達をSD化したアニメーション。そもそもの始まりは飯田つとむ(現･飯田馬之介)が仕事合間の息抜きに描いた落描きが永井豪の目にとまり、非常に喜んだことからだった。ギャグとパロディをジャンルとしているが、物語の内容としてはシリアスなストーリーに仕上がっている。
+『[デビルマン](../Page/デビルマン.md "wikilink")』、『[マジンガーZ](../Page/マジンガーZ.md "wikilink")』といった永井豪原作のキャラクター達をSD化したアニメーション。そもそもの始まりは飯田つとむ(現･飯田馬之介)が仕事合間の息抜きに描いた落描きが永井豪の目にとまり、非常に喜んだことからだった。ギャグとパロディをジャンルとしているが、物語の内容としてはシリアスなストーリーに仕上がっている。
 
 ## スタッフ
 
@@ -15,24 +15,24 @@
   - 原作 - [永井豪](../Page/永井豪.md "wikilink")
   - 企画 - ダイナミック企画
   - プロデューサー - 浅賀隆郎、永井謙次
-  - キャラクターデザイン・作画監督 - [小松原一男](https://ja.wikipedia.org/wiki/小松原一男 "wikilink")
+  - キャラクターデザイン・作画監督 - [小松原一男](../Page/小松原一男.md "wikilink")
   - 美術監督 - 金箱良成
   - 色指定 - 西表美智代
   - 撮影監督 - 藤倉直人
-  - 編集 - [瀬山武司](https://ja.wikipedia.org/wiki/瀬山武司 "wikilink")
-  - 音響監督 - [千葉繁](https://ja.wikipedia.org/wiki/千葉繁 "wikilink")
+  - 編集 - [瀬山武司](../Page/瀬山武司.md "wikilink")
+  - 音響監督 - [千葉繁](../Page/千葉繁.md "wikilink")
   - 音楽 - [川井憲次](../Page/川井憲次.md "wikilink")
   - 制作担当 - 浅利義美、山口克己
-  - 監督・絵コンテ - [飯田つとむ](https://ja.wikipedia.org/wiki/飯田馬之介 "wikilink")
+  - 監督・絵コンテ - [飯田つとむ](../Page/飯田馬之介.md "wikilink")
   - 演出 - 矢吹勉
   - 特殊効果 - 榊原豊彦
   - 効果 - 佐藤一俊
   - 調整 - 桑原邦男
   - 音響演出補 - [若林和弘](../Page/若林和弘.md "wikilink")
-  - 現像 - [東京現像所](https://ja.wikipedia.org/wiki/東京現像所 "wikilink")
+  - 現像 - [東京現像所](../Page/東京現像所.md "wikilink")
   - タイトル - [マキ・プロ](https://ja.wikipedia.org/wiki/マキ・プロ "wikilink")
   - 編集助手 - 足立浩
-  - 制作 - ダイナミックプロ、[トライアングルスタッフ](https://ja.wikipedia.org/wiki/トライアングルスタッフ "wikilink")
+  - 制作 - ダイナミックプロ、[トライアングルスタッフ](../Page/トライアングルスタッフ.md "wikilink")
   - 製作 - [バンダイ](../Page/バンダイ.md "wikilink")
 
 ## 主題歌
@@ -40,7 +40,7 @@
 現在のところ、オープニングテーマ、エンディングともにCD化されていない。
 
   - オープニングテーマ「俺がこの世の主人公」
-    作詞 - カンちゃん / 作曲 - 川井憲次 / 歌 - [石原慎一](https://ja.wikipedia.org/wiki/石原慎一 "wikilink")
+    作詞 - カンちゃん / 作曲 - 川井憲次 / 歌 - [石原慎一](../Page/石原慎一.md "wikilink")
   - エンディングテーマ「Pending Now\!」
     作詞 - カンちゃん / 作曲 - 川井憲次 / 歌 - 広谷淳子
 
@@ -49,18 +49,18 @@
 ### デビルワールド
 
   - [不動明](https://ja.wikipedia.org/wiki/不動明 "wikilink")/デビルマン（[速水奨](../Page/速水奨.md "wikilink")）:物語の中核にいる主人公的存在。当初はデビルマンである事を美樹に隠している。変身時は漫画版デビルマンに準じた姿をしている。
-    牧村美樹（[高野槙じゅん](https://ja.wikipedia.org/wiki/澄川真琴 "wikilink")）:明の方では努力して隠していたが、「原作漫画を読んだ」という理由で実はデビルマンだと知っていた。
-    [飛鳥了](https://ja.wikipedia.org/wiki/飛鳥了 "wikilink")（[水島裕](https://ja.wikipedia.org/wiki/水島裕_\(声優\) "wikilink")）:自分達に起こった異変に気づき、八頭身のプロポーションを取り戻すべく明をたきつける。何事につけ他人に笑われるのが嫌いで、相手が明だろうとすぐに発砲する物騒な性格。
-    大魔王サタン（[玉川紗己子](https://ja.wikipedia.org/wiki/玉川砂記子 "wikilink")）:原作と同じく飛鳥了の正体。明を愛してしまった事で、意図的にデーモンの中でも強者であるアモンを選び合体させた。富山弁で話す。
+    牧村美樹（[高野槙じゅん](../Page/澄川真琴.md "wikilink")）:明の方では努力して隠していたが、「原作漫画を読んだ」という理由で実はデビルマンだと知っていた。
+    [飛鳥了](https://ja.wikipedia.org/wiki/飛鳥了 "wikilink")（[水島裕](../Page/水島裕_\(声優\).md "wikilink")）:自分達に起こった異変に気づき、八頭身のプロポーションを取り戻すべく明をたきつける。何事につけ他人に笑われるのが嫌いで、相手が明だろうとすぐに発砲する物騒な性格。
+    大魔王サタン（[玉川紗己子](../Page/玉川砂記子.md "wikilink")）:原作と同じく飛鳥了の正体。明を愛してしまった事で、意図的にデーモンの中でも強者であるアモンを選び合体させた。富山弁で話す。
     サイコジェニー（[三ツ矢雄二](../Page/三ツ矢雄二.md "wikilink")）:明を強大なデーモンにするためのサタンの計画の実行者。アモンの精神の自由を奪い、明と合体するよう仕向けた。CBキャラになっても変わり映えせんなと了に笑われても気にしない、頭のサイズに比例した大らかな心の持ち主。名古屋弁で話し、サタンの命令を受けると「てんむす」「みそかつ」と名古屋の名物メニュー名で返事をする。
-    アモン（[田中亮一](https://ja.wikipedia.org/wiki/田中亮一 "wikilink")）:回想シーンに登場。明にデーモンの肉体を与えるために使われ、事実上死亡した。不動明/デビルマンとの差異化のためアニメ版デビルマンに準じた姿で肌の色が緑。
+    アモン（[田中亮一](../Page/田中亮一.md "wikilink")）:回想シーンに登場。明にデーモンの肉体を与えるために使われ、事実上死亡した。不動明/デビルマンとの差異化のためアニメ版デビルマンに準じた姿で肌の色が緑。
     ジンメン（[青野武](../Page/青野武.md "wikilink")司）:原作漫画ではなくOVA版準拠の外見。甲羅に浮かび上がった生首はニワトリやネコなど動物のものばかり。本作の設定では首を切り落とされてもその首だけで生きていられるほど強い生命力を持ち、胴体が明たちに食われてしまって以降は非常食として連れ回される。ほぼ同じ姿の妻子がおり、スタッフロールでの名前はそれぞれ「奥さん」「ジンメン子」で声は同じく青野武司。
-    シレーヌ（[榊原良子](https://ja.wikipedia.org/wiki/榊原良子 "wikilink")）:かつてアモンと恋仲で、そのため現在はデビルマンに特別な感情を向けている。
+    シレーヌ（[榊原良子](../Page/榊原良子.md "wikilink")）:かつてアモンと恋仲で、そのため現在はデビルマンに特別な感情を向けている。
     カイム（[石塚運昇](../Page/石塚運昇.md "wikilink")）:シレーヌがまだアモンを思い続けているのを理解した上で、側にいて何かと彼女に尽くしている。実はサイコジェニーが独断でアモンの精神を転生させた存在。
-    ゲルマー（[立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")）:シレーヌの手下デーモン。明をおびき寄せるため美樹のコスプレをしてデーモンズマンションの屋上に陣取ったまま、待ちくたびれて凍りついてしまう。
-    アグウェル（[中嶋聡彦](https://ja.wikipedia.org/wiki/中嶋聡彦 "wikilink")）:シレーヌの手下デーモン。外見のせいで明から[うんこ](https://ja.wikipedia.org/wiki/うんこ "wikilink")呼ばわりされ、「地獄に送ってやるー！」と襲いかかっては返り討ちに遭い「地獄で待ってるぜー！」と捨て台詞を吐きながら谷底に消えるという天丼ギャグを繰り返す。
-    お掃除デーモン隊:デーモンの戦闘で損傷し散らかった場所の修復と掃除を担当するデーモンの中の非戦闘グループ。スタッフロールには隊長とAからFまでの隊員の名があるが総数はそれ以上。声は隊長が飯塚昭三、A（[加藤雅也](../Page/加藤雅也.md "wikilink")）、B（[長谷有洋](https://ja.wikipedia.org/wiki/長谷有洋 "wikilink")）、C（[今橋かつよ](https://ja.wikipedia.org/wiki/今橋かつよ "wikilink")）、D（[安宅誠](https://ja.wikipedia.org/wiki/安宅誠 "wikilink")）、E（[石原慎一](https://ja.wikipedia.org/wiki/石原慎一 "wikilink")）、F（[三井善忠](https://ja.wikipedia.org/wiki/三井善忠 "wikilink")）。隊員の名のスタッフロールでの表記は「お掃除隊A」であったり「デーモン隊A」であったり一定しない。
-    ゼノン（[飯塚昭三](https://ja.wikipedia.org/wiki/飯塚昭三 "wikilink")）:お掃除デーモン隊の真の姿。ゼノンが分裂し身体の各部が独立した個体になった姿がお掃除隊だった。お掃除隊の時には自分がゼノンであるという記憶は封印されている。
+    ゲルマー（[立木文彦](../Page/立木文彦.md "wikilink")）:シレーヌの手下デーモン。明をおびき寄せるため美樹のコスプレをしてデーモンズマンションの屋上に陣取ったまま、待ちくたびれて凍りついてしまう。
+    アグウェル（[中嶋聡彦](../Page/中嶋聡彦.md "wikilink")）:シレーヌの手下デーモン。外見のせいで明から[うんこ](https://ja.wikipedia.org/wiki/うんこ "wikilink")呼ばわりされ、「地獄に送ってやるー！」と襲いかかっては返り討ちに遭い「地獄で待ってるぜー！」と捨て台詞を吐きながら谷底に消えるという天丼ギャグを繰り返す。
+    お掃除デーモン隊:デーモンの戦闘で損傷し散らかった場所の修復と掃除を担当するデーモンの中の非戦闘グループ。スタッフロールには隊長とAからFまでの隊員の名があるが総数はそれ以上。声は隊長が飯塚昭三、A（[加藤雅也](../Page/加藤雅也.md "wikilink")）、B（[長谷有洋](../Page/長谷有洋.md "wikilink")）、C（[今橋かつよ](https://ja.wikipedia.org/wiki/今橋かつよ "wikilink")）、D（[安宅誠](https://ja.wikipedia.org/wiki/安宅誠 "wikilink")）、E（[石原慎一](../Page/石原慎一.md "wikilink")）、F（[三井善忠](../Page/三井善忠.md "wikilink")）。隊員の名のスタッフロールでの表記は「お掃除隊A」であったり「デーモン隊A」であったり一定しない。
+    ゼノン（[飯塚昭三](../Page/飯塚昭三.md "wikilink")）:お掃除デーモン隊の真の姿。ゼノンが分裂し身体の各部が独立した個体になった姿がお掃除隊だった。お掃除隊の時には自分がゼノンであるという記憶は封印されている。
 
 ### マジンガーワールド
 
@@ -80,7 +80,7 @@
 
 ### バイオレンスジャックワールド
 
-  - [バイオレンスジャック](https://ja.wikipedia.org/wiki/バイオレンスジャック "wikilink")（石塚運昇）:原作と同様に不動明の転生した姿。鹿児島弁で話す。
+  - [バイオレンスジャック](../Page/バイオレンスジャック.md "wikilink")（石塚運昇）:原作と同様に不動明の転生した姿。鹿児島弁で話す。
     逞馬竜（[松田辰也](../Page/松田辰也.md "wikilink")）:
     ブン太（[鈴木みえ](../Page/一龍斎貞友.md "wikilink")）:
 
@@ -92,6 +92,6 @@
 
 ## 関連項目
 
-  - [CBキャラウォーズ 失われたギャ〜グ](https://ja.wikipedia.org/wiki/CBキャラウォーズ_失われたギャ〜グ "wikilink")
+  - [CBキャラウォーズ 失われたギャ〜グ](../Page/CBキャラウォーズ_失われたギャ〜グ.md "wikilink")
 
 [Category:マジンガーのアニメ](https://ja.wikipedia.org/wiki/Category:マジンガーのアニメ "wikilink") [Category:永井豪原作のアニメ作品](https://ja.wikipedia.org/wiki/Category:永井豪原作のアニメ作品 "wikilink") [Category:アニメ作品_ち](https://ja.wikipedia.org/wiki/Category:アニメ作品_ち "wikilink") [Category:1990年のOVA](https://ja.wikipedia.org/wiki/Category:1990年のOVA "wikilink") [Category:トライアングルスタッフ](https://ja.wikipedia.org/wiki/Category:トライアングルスタッフ "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:SD作品](https://ja.wikipedia.org/wiki/Category:SD作品 "wikilink")

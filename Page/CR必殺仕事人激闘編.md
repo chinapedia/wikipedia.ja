@@ -1,7 +1,7 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CR必殺仕事人激闘編**（しーあーるひっさつしごとにんげきとうへん）は、[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[京楽産業.](https://ja.wikipedia.org/wiki/京楽産業. "wikilink")が発売した[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機（[CR機](https://ja.wikipedia.org/wiki/CR機 "wikilink")）。
+**CR必殺仕事人激闘編**（しーあーるひっさつしごとにんげきとうへん）は、[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[京楽産業.](../Page/京楽産業..md "wikilink")が発売した[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機（[CR機](../Page/CR機.md "wikilink")）。
 
 2007年4月には本機の後継機である「[CRぱちんこ必殺仕事人III](../Page/CRぱちんこ必殺仕事人III.md "wikilink")」がデビュー。
 
@@ -11,9 +11,9 @@
 
 目玉となる役物（真剣フラッシュ）と演出（閃光X斬り）を搭載した事で話題となる。
 
-また、今作より新キャラクターとして『[必殺仕事人V・激闘編](https://ja.wikipedia.org/wiki/必殺仕事人V・激闘編 "wikilink")』より[組紐屋の竜](../Page/組紐屋の竜.md "wikilink")、[鍛冶屋の政が登場](https://ja.wikipedia.org/wiki/政_\(必殺シリーズ\) "wikilink")。
+また、今作より新キャラクターとして『[必殺仕事人V・激闘編](../Page/必殺仕事人V・激闘編.md "wikilink")』より[組紐屋の竜](../Page/組紐屋の竜.md "wikilink")、[鍛冶屋の政が登場](../Page/政_\(必殺シリーズ\).md "wikilink")。
 
-変動予告では[田中筆頭同心様と](https://ja.wikipedia.org/wiki/田中熊五郎 "wikilink")[中村せんも初登場](https://ja.wikipedia.org/wiki/中村せん・りつ#中村せん "wikilink")。
+変動予告では[田中筆頭同心様と](../Page/田中熊五郎.md "wikilink")[中村せんも初登場](https://ja.wikipedia.org/wiki/中村せん・りつ#中村せん "wikilink")。
 
 ## 予告演出
 
@@ -127,10 +127,10 @@
 ## 登場キャラクター
 
   - [中村主水](../Page/中村主水.md "wikilink")（[藤田まこと](../Page/藤田まこと.md "wikilink")）
-  - [組紐屋の竜](../Page/組紐屋の竜.md "wikilink")（[京本政樹](https://ja.wikipedia.org/wiki/京本政樹 "wikilink")）
-  - [鍛冶屋の政](https://ja.wikipedia.org/wiki/政_\(必殺シリーズ\) "wikilink")（[村上弘明](https://ja.wikipedia.org/wiki/村上弘明 "wikilink")）
-  - [筆頭同心田中](https://ja.wikipedia.org/wiki/田中熊五郎 "wikilink")（通称、田中様／[山内としお](https://ja.wikipedia.org/wiki/山内としお "wikilink")）
-  - [中村せん](https://ja.wikipedia.org/wiki/中村せん・りつ#中村せん "wikilink")（[菅井きん](https://ja.wikipedia.org/wiki/菅井きん "wikilink")）
+  - [組紐屋の竜](../Page/組紐屋の竜.md "wikilink")（[京本政樹](../Page/京本政樹.md "wikilink")）
+  - [鍛冶屋の政](../Page/政_\(必殺シリーズ\).md "wikilink")（[村上弘明](../Page/村上弘明.md "wikilink")）
+  - [筆頭同心田中](../Page/田中熊五郎.md "wikilink")（通称、田中様／[山内としお](../Page/山内としお.md "wikilink")）
+  - [中村せん](https://ja.wikipedia.org/wiki/中村せん・りつ#中村せん "wikilink")（[菅井きん](../Page/菅井きん.md "wikilink")）
 
 ## 図柄
 

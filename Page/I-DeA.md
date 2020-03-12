@@ -2,12 +2,12 @@
 
 
 **I-DeA**（アイデア）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")・[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")・[サウンドエンジニア](https://ja.wikipedia.org/wiki/サウンドエンジニア "wikilink")である。
-2006年、[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")よりデビュー。
+2006年、[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")よりデビュー。
 
 ## 人物
 
   - プロデューサー、エンジニアのD.O.I.に師事し、本格的に音楽活動を開始する｡
-  - [SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink")や[DEV LARGEなどの楽曲制作に関わる一方](https://ja.wikipedia.org/wiki/DEV_LARGE "wikilink")、自身も積極的にアルバムなど作品を発表している。
+  - [SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink")や[DEV LARGEなどの楽曲制作に関わる一方](../Page/DEV_LARGE.md "wikilink")、自身も積極的にアルバムなど作品を発表している。
   - [サウンドエンジニア](https://ja.wikipedia.org/wiki/サウンドエンジニア "wikilink")としても数多くの作品に関わっている。
   - かつて[SCARSに所属していたが](https://ja.wikipedia.org/wiki/SCARS_\(グループ\) "wikilink")、現在は脱退している。\[1\]
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、[ヘルニア](https://ja.wikipedia.org/wiki/ヘルニア "wikilink")の手術を受ける。\[2\]
@@ -20,9 +20,9 @@
 
 1.  『self expression』　（2004年8月20日）
     1.  Whoa feat. [SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink")
-    2.  毒立毒歩 feat. [漢](https://ja.wikipedia.org/wiki/漢_\(ラッパー\) "wikilink") & [DEV LARGE](https://ja.wikipedia.org/wiki/DEV_LARGE "wikilink")
+    2.  毒立毒歩 feat. [漢](https://ja.wikipedia.org/wiki/漢_\(ラッパー\) "wikilink") & [DEV LARGE](../Page/DEV_LARGE.md "wikilink")
     3.  How I Feel feat.SLANG
-    4.  きょく feat. [L-VOKAL](https://ja.wikipedia.org/wiki/L-VOKAL "wikilink")
+    4.  きょく feat. [L-VOKAL](../Page/L-VOKAL.md "wikilink")
     5.  やまびこ44号(weekend story)feat.FLICK
     6.  8面 feat.PRIMAL
     7.  暴風雨 feat. [降神](https://ja.wikipedia.org/wiki/降神 "wikilink")
@@ -40,14 +40,14 @@
 
 1.  『Da FRONT and BACK』（2006年1月11日）
     1.  Da FRONT and BACK Intro
-    2.  Shine On feat. [L-VOKAL](https://ja.wikipedia.org/wiki/L-VOKAL "wikilink") & 秋田犬Dob-Rok
+    2.  Shine On feat. [L-VOKAL](../Page/L-VOKAL.md "wikilink") & 秋田犬Dob-Rok
     3.  One Day feat. [BES](https://ja.wikipedia.org/wiki/BES_\(ヒップホップ・ミュージシャン\) "wikilink")
     4.  紅い空に灰色の街 feat. KENTA5RAS
     5.  新宿ドリーム feat. MSC & KAORI TAKEDA
     6.  Mad in Japan a.k.a Bad Ninjaman feat. [JUSWANNA](https://ja.wikipedia.org/wiki/JUSWANNA "wikilink")
     7.  There's somethin' about mary feat.ESSENCIAL
     8.  Awesome Idea feat. [BOO](../Page/BOO_\(歌手\).md "wikilink") & [TARO SOUL](https://ja.wikipedia.org/wiki/TARO_SOUL "wikilink")
-    9.  Fly Away feat. [JAMOSA](https://ja.wikipedia.org/wiki/JAMOSA "wikilink") & [JAY'ED](https://ja.wikipedia.org/wiki/JAY'ED "wikilink")
+    9.  Fly Away feat. [JAMOSA](https://ja.wikipedia.org/wiki/JAMOSA "wikilink") & [JAY'ED](../Page/JAY'ED.md "wikilink")
     10. Walk wit me feat. [SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink")
     11. I'm Still Here ～I don't go back there～ feat. SABOO
     12. My Life feat. [bay4k](https://ja.wikipedia.org/wiki/bay4k "wikilink")
@@ -63,7 +63,7 @@
 #### カバーアルバム
 
 1.  re;cover　（2007年4月25日）
-    1.  I wouldn't change a thing performed by [JAY'ED](https://ja.wikipedia.org/wiki/JAY'ED "wikilink")
+    1.  I wouldn't change a thing performed by [JAY'ED](../Page/JAY'ED.md "wikilink")
     2.  Girls just want to have fun performed by Ring
     3.  Shining star performed by [JAMOSA](https://ja.wikipedia.org/wiki/JAMOSA "wikilink")
     4.  Forget me nots performed by ORITO
@@ -89,25 +89,25 @@
 
 ## プロデュースしたアーティスト
 
-  - [INDEMORAL](https://ja.wikipedia.org/wiki/INDEMORAL "wikilink")
-  - [MSC](https://ja.wikipedia.org/wiki/MSC_\(音楽グループ\) "wikilink")
+  - [INDEMORAL](../Page/INDEMORAL.md "wikilink")
+  - [MSC](../Page/MSC_\(音楽グループ\).md "wikilink")
   - [漢](https://ja.wikipedia.org/wiki/漢_\(ラッパー\) "wikilink")
   - [降神](https://ja.wikipedia.org/wiki/降神 "wikilink")
   - [餓鬼レンジャー](https://ja.wikipedia.org/wiki/餓鬼レンジャー "wikilink")
-  - [GAGLE](https://ja.wikipedia.org/wiki/GAGLE "wikilink")
+  - [GAGLE](../Page/GAGLE.md "wikilink")
   - [GEEK](https://ja.wikipedia.org/wiki/GEEK_\(ヒップホップユニット\) "wikilink")
   - [OKI](https://ja.wikipedia.org/wiki/OKI_\(ヒップホップ・ミュージシャン\) "wikilink")
   - [SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink")
-  - [L-VOKAL](https://ja.wikipedia.org/wiki/L-VOKAL "wikilink")
+  - [L-VOKAL](../Page/L-VOKAL.md "wikilink")
   - [SPHERE of INFLUENCE](https://ja.wikipedia.org/wiki/SPHERE_of_INFLUENCE "wikilink")
-  - [DJ MASTERKEY](https://ja.wikipedia.org/wiki/DJ_MASTERKEY "wikilink")
+  - [DJ MASTERKEY](../Page/DJ_MASTERKEY.md "wikilink")
   - [DJ MITSU THE BEATS](https://ja.wikipedia.org/wiki/DJ_MITSU_THE_BEATS "wikilink")
-  - [DEV LARGE](https://ja.wikipedia.org/wiki/DEV_LARGE "wikilink")
+  - [DEV LARGE](../Page/DEV_LARGE.md "wikilink")
   - [Hi-Timez](https://ja.wikipedia.org/wiki/Hi-Timez "wikilink")
-  - [刃頭](https://ja.wikipedia.org/wiki/刃頭 "wikilink")
-  - [MICADELIC](https://ja.wikipedia.org/wiki/MICADELIC "wikilink")
-  - [MURO](https://ja.wikipedia.org/wiki/MURO "wikilink")
-  - [LUNCH TIME SPEAX](https://ja.wikipedia.org/wiki/LUNCH_TIME_SPEAX "wikilink")
+  - [刃頭](../Page/刃頭.md "wikilink")
+  - [MICADELIC](../Page/MICADELIC.md "wikilink")
+  - [MURO](../Page/MURO.md "wikilink")
+  - [LUNCH TIME SPEAX](../Page/LUNCH_TIME_SPEAX.md "wikilink")
 
 ## 関連項目
 

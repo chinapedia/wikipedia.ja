@@ -1,13 +1,13 @@
 > この記事は[SD ](https://ja.wikipedia.org/wiki/SD_)から翻訳されています。
 
 
-**SDガンダム カプセルファイターオンライン**とは、[デフォルメ](https://ja.wikipedia.org/wiki/デフォルメ "wikilink")された[ガンダムシリーズ](https://ja.wikipedia.org/wiki/ガンダムシリーズ "wikilink")の[モビルスーツ](../Page/モビルスーツ.md "wikilink")たちが戦う、[Microsoft](../Page/マイクロソフト.md "wikilink") [WindowsPC用のオンラインアクション](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。ガンダムゲーム初の無料でプレイできる課金スタイルをとっている。従来の[SDガンダム](../Page/SDガンダム.md "wikilink")の頭身は2頭身のものが多かったが、本作は3頭身になっている。
+**SDガンダム カプセルファイターオンライン**とは、[デフォルメ](../Page/デフォルメ.md "wikilink")された[ガンダムシリーズ](https://ja.wikipedia.org/wiki/ガンダムシリーズ "wikilink")の[モビルスーツ](../Page/モビルスーツ.md "wikilink")たちが戦う、[Microsoft](../Page/マイクロソフト.md "wikilink") [WindowsPC用のオンラインアクション](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。ガンダムゲーム初の無料でプレイできる課金スタイルをとっている。従来の[SDガンダム](../Page/SDガンダム.md "wikilink")の頭身は2頭身のものが多かったが、本作は3頭身になっている。
 
 ## 概要
 
-[バンダイナムコグループ](https://ja.wikipedia.org/wiki/バンダイナムコグループ "wikilink")のプロジェクトで、BANDAI KOREAが企画を総括し、韓国の[ソフトマックスが開発](https://ja.wikipedia.org/wiki/SOFTMAX "wikilink")、[CJインターネット](https://ja.wikipedia.org/wiki/CJインターネット "wikilink")が韓国国内へのパブリッシングを担当する。モビルスーツのモデリングは、[SDガンダム GGENERATIONシリーズを製作している](https://ja.wikipedia.org/wiki/SDガンダム_GGENERATION "wikilink")[トムクリエイト](https://ja.wikipedia.org/wiki/トムクリエイト "wikilink")が担当。ガンダムのゲームの中では珍しく、[ガンダムシリーズ](https://ja.wikipedia.org/wiki/ガンダムシリーズ "wikilink")を制作している[サンライズが直接出資をしている](https://ja.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")。\[1\]
+[バンダイナムコグループ](../Page/バンダイナムコグループ.md "wikilink")のプロジェクトで、BANDAI KOREAが企画を総括し、韓国の[ソフトマックスが開発](https://ja.wikipedia.org/wiki/SOFTMAX "wikilink")、[CJインターネット](https://ja.wikipedia.org/wiki/CJインターネット "wikilink")が韓国国内へのパブリッシングを担当する。モビルスーツのモデリングは、[SDガンダム GGENERATIONシリーズを製作している](../Page/SDガンダム_GGENERATION.md "wikilink")[トムクリエイト](../Page/トムクリエイト.md "wikilink")が担当。ガンダムのゲームの中では珍しく、[ガンダムシリーズ](https://ja.wikipedia.org/wiki/ガンダムシリーズ "wikilink")を制作している[サンライズが直接出資をしている](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")。\[1\]
 
-現在は韓国で正式サービス中である。2008年から[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")、2009年から[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")でもβテストが始まっている。日本は2010年2月19日に正式日本リリースが発表され\[2\]、クローズドβテスト（2010年5月20日より開始）、オープンβテスト（6月1日開始）を経て、2010年6月17日より正式サービスが開始された \[3\]。日本版運営は『[CJインターネットジャパン](https://ja.wikipedia.org/wiki/ネットマーブルジャパン "wikilink")（現・ネットマーブルジャパン）』が担当。
+現在は韓国で正式サービス中である。2008年から[中国](../Page/中国.md "wikilink")、2009年から[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")でもβテストが始まっている。日本は2010年2月19日に正式日本リリースが発表され\[2\]、クローズドβテスト（2010年5月20日より開始）、オープンβテスト（6月1日開始）を経て、2010年6月17日より正式サービスが開始された \[3\]。日本版運営は『[CJインターネットジャパン](../Page/ネットマーブルジャパン.md "wikilink")（現・ネットマーブルジャパン）』が担当。
 
 その後も新機体の追加やイベントなども行われたが、正式サービス開始後からあったグー・チョキ・パーの「ジャンケン属性」や機体を育成すると得られるポイントを割り振る「カスタム」システムの廃止を機にプレイヤーが徐々に減少していった。 様々な機体の追加も行われたが、機体が課金ガチャでしか手に入らなかったり、無課金プレイヤーが手に入れる機会（所謂無課金落ち）が殆どなかったためかプレイヤーの減少に歯止めがかからなかった。 その影響があったかどうか定かではないが、2015年6月12日に正式サービスを終了した。
 
@@ -91,7 +91,7 @@ SRランクのユニットはこのカスタムカプセルマシン限定で入
 
 ## 課金形態
 
-課金形態は基本プレイ無料の、[アイテム課金](https://ja.wikipedia.org/wiki/アイテム課金 "wikilink")制をとっているが、課金対象は[モビルスーツ](../Page/モビルスーツ.md "wikilink")の人気カラーのペイント・ステッカーやモビルスーツの期間レンタル、ユニットや設計図の直接購入（日本版以外・Sランクのみ）、オペレーターの購入などになっている。 日本版ではコイン、オペレーター、保管MSを拡張するインベントリ、あるいは強力な機体を入手できるレアカプセルハンマーの購入が行える。 また、課金ポイントをコインに変換してWebガシャポンをプレイすることが可能であり、月1回程度の割合で更新される強力なSS機体やその他ランクの機体などが抽選で入手可能になっている通常のものの他、各ランクそれぞれ用意された中から機体を自由に選択し抽選枠を構成することが出来るカスタムWebガシャポン天が利用できる。
+課金形態は基本プレイ無料の、[アイテム課金](../Page/アイテム課金.md "wikilink")制をとっているが、課金対象は[モビルスーツ](../Page/モビルスーツ.md "wikilink")の人気カラーのペイント・ステッカーやモビルスーツの期間レンタル、ユニットや設計図の直接購入（日本版以外・Sランクのみ）、オペレーターの購入などになっている。 日本版ではコイン、オペレーター、保管MSを拡張するインベントリ、あるいは強力な機体を入手できるレアカプセルハンマーの購入が行える。 また、課金ポイントをコインに変換してWebガシャポンをプレイすることが可能であり、月1回程度の割合で更新される強力なSS機体やその他ランクの機体などが抽選で入手可能になっている通常のものの他、各ランクそれぞれ用意された中から機体を自由に選択し抽選枠を構成することが出来るカスタムWebガシャポン天が利用できる。
 
 ## 戦闘バランス
 
@@ -103,38 +103,38 @@ SRランクのユニットはこのカスタムカプセルマシン限定で入
 
 登場する作品は、現在36作品。シリーズ中の主人公機体が先にリリースされ、ライバル機体やサブキャラ機体はあとでリリースされる傾向が強い。今後も作品が追加される。
 
-  - [機動戦士ガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム "wikilink")(MSV、[ハーモニー・オブ・ガンダム](https://ja.wikipedia.org/wiki/ハーモニー・オブ・ガンダム "wikilink")を含む)
+  - [機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")(MSV、[ハーモニー・オブ・ガンダム](../Page/ハーモニー・オブ・ガンダム.md "wikilink")を含む)
   - [機動戦士ガンダム 第08MS小隊](../Page/機動戦士ガンダム_第08MS小隊.md "wikilink")
-  - [機動戦士ガンダム MS IGLOO](https://ja.wikipedia.org/wiki/機動戦士ガンダム_MS_IGLOO "wikilink")
-  - [機動戦士ガンダム外伝 THE BLUE DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダム外伝_THE_BLUE_DESTINY "wikilink")
-  - [機動戦士ガンダム外伝 宇宙、閃光の果てに…](https://ja.wikipedia.org/wiki/機動戦士ガンダム外伝_宇宙、閃光の果てに… "wikilink")
+  - [機動戦士ガンダム MS IGLOO](../Page/機動戦士ガンダム_MS_IGLOO.md "wikilink")
+  - [機動戦士ガンダム外伝 THE BLUE DESTINY](../Page/機動戦士ガンダム外伝_THE_BLUE_DESTINY.md "wikilink")
+  - [機動戦士ガンダム外伝 宇宙、閃光の果てに…](../Page/機動戦士ガンダム外伝_宇宙、閃光の果てに….md "wikilink")
   - [機動戦士ガンダム0080 ポケットの中の戦争](../Page/機動戦士ガンダム0080_ポケットの中の戦争.md "wikilink")
   - [機動戦士ガンダム戦記 BATTLEFIELD RECORD U.C.0081](https://ja.wikipedia.org/wiki/機動戦士ガンダム戦記_\(プレイステーション3\) "wikilink")
   - [機動戦士ガンダム0083 STARDUST MEMORY](../Page/機動戦士ガンダム0083_STARDUST_MEMORY.md "wikilink")
   - [機動戦士Ζガンダム](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム "wikilink")(Z-MSV、[グリーンダイバーズ](https://ja.wikipedia.org/wiki/グリーンダイバーズ "wikilink")を含む)
-  - [ガンダム・センチネル](https://ja.wikipedia.org/wiki/ガンダム・センチネル "wikilink")
+  - [ガンダム・センチネル](../Page/ガンダム・センチネル.md "wikilink")
   - [機動戦士ガンダムΖΖ](https://ja.wikipedia.org/wiki/機動戦士ガンダムΖΖ "wikilink")
   - [機動戦士ガンダム 逆襲のシャア](../Page/機動戦士ガンダム_逆襲のシャア.md "wikilink")(CCA-MSV、[ベルトーチカ・チルドレンを含む](https://ja.wikipedia.org/wiki/機動戦士ガンダム_逆襲のシャア#ベルトーチカ・チルドレン "wikilink"))
-  - [機動戦士ガンダムUC](https://ja.wikipedia.org/wiki/機動戦士ガンダムUC "wikilink")(UC-MSVを含む)
+  - [機動戦士ガンダムUC](../Page/機動戦士ガンダムUC.md "wikilink")(UC-MSVを含む)
   - [機動戦士ガンダム 閃光のハサウェイ](../Page/機動戦士ガンダム_閃光のハサウェイ.md "wikilink")
   - [機動戦士ガンダムF91](../Page/機動戦士ガンダムF91.md "wikilink")(F91-MSVを含む)
-  - [機動戦士クロスボーン・ガンダム](https://ja.wikipedia.org/wiki/機動戦士クロスボーン・ガンダム "wikilink")([スカルハート](https://ja.wikipedia.org/wiki/機動戦士クロスボーン・ガンダム_スカルハート "wikilink")、[鋼鉄の7人を含む](https://ja.wikipedia.org/wiki/機動戦士クロスボーン・ガンダム_鋼鉄の7人 "wikilink"))
-  - [機動戦士Vガンダム](https://ja.wikipedia.org/wiki/機動戦士Vガンダム "wikilink")
+  - [機動戦士クロスボーン・ガンダム](../Page/機動戦士クロスボーン・ガンダム.md "wikilink")([スカルハート](https://ja.wikipedia.org/wiki/機動戦士クロスボーン・ガンダム_スカルハート "wikilink")、[鋼鉄の7人を含む](https://ja.wikipedia.org/wiki/機動戦士クロスボーン・ガンダム_鋼鉄の7人 "wikilink"))
+  - [機動戦士Vガンダム](../Page/機動戦士Vガンダム.md "wikilink")
   - [機動武闘伝Gガンダム](../Page/機動武闘伝Gガンダム.md "wikilink")
   - [新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")
-  - [新機動戦記ガンダムW Endless Waltz](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW_Endless_Waltz "wikilink")
+  - [新機動戦記ガンダムW Endless Waltz](../Page/新機動戦記ガンダムW_Endless_Waltz.md "wikilink")
   - [新機動戦記ガンダムW Endless Waltz 敗者たちの栄光](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW_Endless_Waltz_敗者たちの栄光 "wikilink")
   - [機動新世紀ガンダムX](../Page/機動新世紀ガンダムX.md "wikilink")
   - [∀ガンダム](../Page/∀ガンダム.md "wikilink")
   - [機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")
   - [機動戦士ガンダムSEED ASTRAY](../Page/機動戦士ガンダムSEED_ASTRAYシリーズ.md "wikilink")
-  - [機動戦士ガンダムSEED X ASTRAY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_X_ASTRAY "wikilink")
-  - [機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")
-  - [機動戦士ガンダムSEED DESTINY ASTRAY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY_ASTRAY "wikilink")
+  - [機動戦士ガンダムSEED X ASTRAY](../Page/機動戦士ガンダムSEED_X_ASTRAY.md "wikilink")
+  - [機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")
+  - [機動戦士ガンダムSEED DESTINY ASTRAY](../Page/機動戦士ガンダムSEED_DESTINY_ASTRAY.md "wikilink")
   - [機動戦士ガンダムSEED VS ASTRAY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_VS_ASTRAY "wikilink")
   - [機動戦士ガンダムSEED FRAME ASTRAYS](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_FRAME_ASTRAYS "wikilink")
   - [機動戦士ガンダムSEED C.E.73 Δ ASTRAY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_C.E.73_Δ_ASTRAY "wikilink")
-  - [機動戦士ガンダムSEED C.E.73 STARGAZER](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_C.E.73_STARGAZER "wikilink")
+  - [機動戦士ガンダムSEED C.E.73 STARGAZER](../Page/機動戦士ガンダムSEED_C.E.73_STARGAZER.md "wikilink")
   - [機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")
   - [機動戦士ガンダム00外伝](https://ja.wikipedia.org/wiki/機動戦士ガンダム00外伝 "wikilink")
   - [機動戦士ガンダム00 -A wakening of the Trailblazer-](https://ja.wikipedia.org/wiki/機動戦士ガンダム00_-A_wakening_of_the_Trailblazer- "wikilink")
@@ -142,7 +142,7 @@ SRランクのユニットはこのカスタムカプセルマシン限定で入
   - [ガンダムビルドファイターズ](https://ja.wikipedia.org/wiki/ガンダムビルドファイターズ "wikilink")
   - [模型戦士ガンプラビルダーズ ビギニングG](https://ja.wikipedia.org/wiki/模型戦士ガンプラビルダーズ_ビギニングG "wikilink")
   - [BB戦士三国伝](../Page/BB戦士三国伝.md "wikilink")
-  - [機動戦士ガンダム ギレンの野望](https://ja.wikipedia.org/wiki/機動戦士ガンダム_ギレンの野望 "wikilink")
+  - [機動戦士ガンダム ギレンの野望](../Page/機動戦士ガンダム_ギレンの野望.md "wikilink")
 
 ## オペレーター
 
@@ -156,14 +156,14 @@ SRランクのユニットはこのカスタムカプセルマシン限定で入
 
   - 基本オペレーター [土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")
   - TYPE A/H [中村繪里子](https://ja.wikipedia.org/wiki/中村繪里子 "wikilink")
-  - TYPE B/G [喜多村英梨](https://ja.wikipedia.org/wiki/喜多村英梨 "wikilink")
-  - TYPE C [藤田咲](https://ja.wikipedia.org/wiki/藤田咲 "wikilink")
+  - TYPE B/G [喜多村英梨](../Page/喜多村英梨.md "wikilink")
+  - TYPE C [藤田咲](../Page/藤田咲.md "wikilink")
   - TYPE D [浅川悠](../Page/浅川悠.md "wikilink")
-  - TYPE E [阿部敦](https://ja.wikipedia.org/wiki/阿部敦 "wikilink")
-  - TYPE F [ささきのぞみ](https://ja.wikipedia.org/wiki/ささきのぞみ "wikilink")
-  - ゴールデンタイムI [今井麻美](https://ja.wikipedia.org/wiki/今井麻美 "wikilink")
-  - ゴールデンタイムII [岡本信彦](https://ja.wikipedia.org/wiki/岡本信彦 "wikilink")
-  - TYPE L [伊藤かな恵](https://ja.wikipedia.org/wiki/伊藤かな恵 "wikilink")
+  - TYPE E [阿部敦](../Page/阿部敦.md "wikilink")
+  - TYPE F [ささきのぞみ](../Page/ささきのぞみ.md "wikilink")
+  - ゴールデンタイムI [今井麻美](../Page/今井麻美.md "wikilink")
+  - ゴールデンタイムII [岡本信彦](../Page/岡本信彦.md "wikilink")
+  - TYPE L [伊藤かな恵](../Page/伊藤かな恵.md "wikilink")
 
 ## 脚注
 

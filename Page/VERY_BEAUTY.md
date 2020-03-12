@@ -1,7 +1,7 @@
 > この記事は[VERY BEAUTY](https://ja.wikipedia.org/wiki/VERY_BEAUTY)から翻訳されています。
 
 
-「**VERY BEAUTY**」（ベリー ビューティ）は、[Berryz工房](../Page/Berryz工房.md "wikilink")の13枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月7日](../Page/3月7日.md "wikilink")に、[アップフロントワークス](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")の[PICCOLO TOWNレーベル](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）より発売。
+「**VERY BEAUTY**」（ベリー ビューティ）は、[Berryz工房](../Page/Berryz工房.md "wikilink")の13枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")に、[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")の[PICCOLO TOWNレーベル](../Page/アップフロントワークス.md "wikilink")（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）より発売。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 ## 収録曲
 
-全作詞・作曲：[つんく](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")　編曲：[鈴木俊介](https://ja.wikipedia.org/wiki/鈴木俊介 "wikilink")
+全作詞・作曲：[つんく](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")　編曲：[鈴木俊介](../Page/鈴木俊介.md "wikilink")
 
 1.  **VERY BEAUTY** \[4:17\]
 2.  **ガキ大将** \[3:48\]

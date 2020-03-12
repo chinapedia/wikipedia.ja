@@ -1,21 +1,21 @@
 > この記事は[CIA:](https://ja.wikipedia.org/wiki/CIA:)から翻訳されています。
 
 
-**CIA:ザ・エージェンシー**（**シーアイエー:ザ・エージェンシー**、原題「The Agency 」）は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[CBS](../Page/CBS.md "wikilink")で[2001年](../Page/2001年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")から[2003年](../Page/2003年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")に掛けて放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")（[海外ドラマ](../Page/海外ドラマ.md "wikilink")）シリーズ。実際に[CIAが制作協力をし](https://ja.wikipedia.org/wiki/アメリカ中央情報局 "wikilink")、エージェント達の活躍が描かれている。日本では[AXN](https://ja.wikipedia.org/wiki/AXN "wikilink")で放送された。
+**CIA:ザ・エージェンシー**（**シーアイエー:ザ・エージェンシー**、原題「The Agency 」）は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[CBS](../Page/CBS.md "wikilink")で[2001年](../Page/2001年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")から[2003年](../Page/2003年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")に掛けて放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")（[海外ドラマ](../Page/海外ドラマ.md "wikilink")）シリーズ。実際に[CIAが制作協力をし](https://ja.wikipedia.org/wiki/アメリカ中央情報局 "wikilink")、エージェント達の活躍が描かれている。日本では[AXN](../Page/AXN.md "wikilink")で放送された。
 
 ## キャスト
 
-  - マット・キャラン - [ギル・ベロウズ](https://ja.wikipedia.org/wiki/ギル・ベロウズ "wikilink") ([Gil Bellows](https://ja.wikipedia.org/wiki/:en:Gil_Bellows "wikilink"))（[声](../Page/声優.md "wikilink")：[咲野俊介](https://ja.wikipedia.org/wiki/咲野俊介 "wikilink")）
-  - ロバート・クイン - ダニエル・ベンザリ ([Daniel Benzali](https://ja.wikipedia.org/wiki/:en:Daniel_Benzali "wikilink"))（声：[石川ひろあき](https://ja.wikipedia.org/wiki/石川ひろあき "wikilink")）
+  - マット・キャラン - [ギル・ベロウズ](https://ja.wikipedia.org/wiki/ギル・ベロウズ "wikilink") ([Gil Bellows](https://ja.wikipedia.org/wiki/:en:Gil_Bellows "wikilink"))（[声](../Page/声優.md "wikilink")：[咲野俊介](../Page/咲野俊介.md "wikilink")）
+  - ロバート・クイン - ダニエル・ベンザリ ([Daniel Benzali](https://ja.wikipedia.org/wiki/:en:Daniel_Benzali "wikilink"))（声：[石川ひろあき](../Page/石川ひろあき.md "wikilink")）
   - トム・ゲージ - [ボー・ブリッジス](https://ja.wikipedia.org/wiki/ボー・ブリッジス "wikilink") ([Beau Bridges](https://ja.wikipedia.org/wiki/:en:Beau_Bridges "wikilink"))（声：[相沢正輝](../Page/相沢まさき.md "wikilink")）
-  - カール・リース - ロッキー・キャロル ([Rocky Carroll](https://ja.wikipedia.org/wiki/:en:Rocky_Carroll "wikilink"))（声：[佐藤晴男](https://ja.wikipedia.org/wiki/佐藤晴男 "wikilink")）
+  - カール・リース - ロッキー・キャロル ([Rocky Carroll](https://ja.wikipedia.org/wiki/:en:Rocky_Carroll "wikilink"))（声：[佐藤晴男](../Page/佐藤晴男.md "wikilink")）
   - ジョシュア・ナンキン - [デヴィッド・クレノン](https://ja.wikipedia.org/wiki/デヴィッド・クレノン "wikilink") ([David Clennon](https://ja.wikipedia.org/wiki/:en:David_Clennon "wikilink"))（声：[青山穣](../Page/青山穣.md "wikilink")）
-  - アレックス・ピアス - [ロニー・コックス](https://ja.wikipedia.org/wiki/ロニー・コックス "wikilink") ([Ronny Cox](https://ja.wikipedia.org/wiki/:en:Ronny_Cox "wikilink"))（声：[水野龍司](https://ja.wikipedia.org/wiki/水野龍司 "wikilink")）
-  - A. B. スタイルズ - ジェイソン・オマラ ([Jason O'Mara](https://ja.wikipedia.org/wiki/:en:Jason_O'Mara "wikilink"))（声：[鈴木正和](https://ja.wikipedia.org/wiki/鈴木正和_\(声優\) "wikilink")）
-  - ジャクソン・ヘイズリー - [ウィル・パットン](https://ja.wikipedia.org/wiki/ウィル・パットン "wikilink") ([Will Patton](https://ja.wikipedia.org/wiki/:en:Will_Patton "wikilink"))（声：[内田直哉](https://ja.wikipedia.org/wiki/内田直哉 "wikilink")）
-  - リサ・ファブリッツィ - [グロリア・ルーベン](https://ja.wikipedia.org/wiki/グロリア・ルーベン "wikilink") ([Gloria Reuben](https://ja.wikipedia.org/wiki/:en:Gloria_Reuben "wikilink"))（声：[沢海陽子](https://ja.wikipedia.org/wiki/沢海陽子 "wikilink")）
-  - レックス - リチャード・スパイト Jr. ([Richard Speight, Jr.](https://ja.wikipedia.org/wiki/:en:Richard_Speight,_Jr. "wikilink"))（声：[中國卓郎](https://ja.wikipedia.org/wiki/中國卓郎 "wikilink")）
-  - テリ・ローウェル - ペイジ・ターコ ([Paige Turco](https://ja.wikipedia.org/wiki/:en:Paige_Turco "wikilink"))（声：[五十嵐麗](https://ja.wikipedia.org/wiki/五十嵐麗 "wikilink")）
+  - アレックス・ピアス - [ロニー・コックス](../Page/ロニー・コックス.md "wikilink") ([Ronny Cox](https://ja.wikipedia.org/wiki/:en:Ronny_Cox "wikilink"))（声：[水野龍司](../Page/水野龍司.md "wikilink")）
+  - A. B. スタイルズ - ジェイソン・オマラ ([Jason O'Mara](https://ja.wikipedia.org/wiki/:en:Jason_O'Mara "wikilink"))（声：[鈴木正和](../Page/鈴木正和_\(声優\).md "wikilink")）
+  - ジャクソン・ヘイズリー - [ウィル・パットン](../Page/ウィル・パットン.md "wikilink") ([Will Patton](https://ja.wikipedia.org/wiki/:en:Will_Patton "wikilink"))（声：[内田直哉](../Page/内田直哉.md "wikilink")）
+  - リサ・ファブリッツィ - [グロリア・ルーベン](../Page/グロリア・ルーベン.md "wikilink") ([Gloria Reuben](https://ja.wikipedia.org/wiki/:en:Gloria_Reuben "wikilink"))（声：[沢海陽子](../Page/沢海陽子.md "wikilink")）
+  - レックス - リチャード・スパイト Jr. ([Richard Speight, Jr.](https://ja.wikipedia.org/wiki/:en:Richard_Speight,_Jr. "wikilink"))（声：[中國卓郎](../Page/中國卓郎.md "wikilink")）
+  - テリ・ローウェル - ペイジ・ターコ ([Paige Turco](https://ja.wikipedia.org/wiki/:en:Paige_Turco "wikilink"))（声：[五十嵐麗](../Page/五十嵐麗.md "wikilink")）
 
 ## エピソードガイド
 
@@ -77,11 +77,11 @@
 
 ## スタッフ
 
-  - 制作総指揮 : [ウォルフガング・ペーターゼン](https://ja.wikipedia.org/wiki/ウォルフガング・ペーターゼン "wikilink")、ショーン・キャシディ
+  - 制作総指揮 : [ウォルフガング・ペーターゼン](../Page/ウォルフガング・ペーターゼン.md "wikilink")、ショーン・キャシディ
 
 ### 日本語版制作スタッフ
 
-  - 演出 : [田島荘三](https://ja.wikipedia.org/wiki/田島荘三 "wikilink")
+  - 演出 : [田島荘三](../Page/田島荘三.md "wikilink")
 
 ## エピソード
 

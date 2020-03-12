@@ -1,15 +1,15 @@
 > この記事は[! OL](https://ja.wikipedia.org/wiki/!_OL)から翻訳されています。
 
 
-**ブロードバンド\!ニッポンフライデースペシャル 丸の内OL探偵団**（ ぶろーどばんどにっぽんふらいでーすぺしゃる まるのうちおーえるたんていだん）は、[LFX mudigiで](https://ja.wikipedia.org/wiki/LFX_mudigi "wikilink")、[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")に放送されていた番組。放送終了した。
+**ブロードバンド\!ニッポンフライデースペシャル 丸の内OL探偵団**（ ぶろーどばんどにっぽんふらいでーすぺしゃる まるのうちおーえるたんていだん）は、[LFX mudigiで](../Page/LFX_mudigi.md "wikilink")、[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")に放送されていた番組。放送終了した。
 
 ## 番組概要
 
 『ブロードバンド\!ニッポン』の中でニッポン放送が所在する[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[有楽町](../Page/有楽町.md "wikilink")に隣接する[丸の内](../Page/丸の内.md "wikilink")の情報を、丸の内で勤務するOLと共に紹介する番組である。
 
-また、Webストリーミング配信については、[リビングシティと](https://ja.wikipedia.org/wiki/サンケイリビング新聞社 "wikilink")[So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")との共同企画、制作である\[1\]。
+また、Webストリーミング配信については、[リビングシティと](../Page/サンケイリビング新聞社.md "wikilink")[So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")との共同企画、制作である\[1\]。
 
-また、配信当時は[有楽町](https://ja.wikipedia.org/wiki/読売会館 "wikilink")[ビックカメラ](https://ja.wikipedia.org/wiki/ビックカメラ "wikilink")2Fに所在していた[サテライトスタジオ](https://ja.wikipedia.org/wiki/サテライトスタジオ "wikilink")である「有楽町ラジオタウン」から番組を配信していた。
+また、配信当時は[有楽町](../Page/読売会館.md "wikilink")[ビックカメラ](../Page/ビックカメラ.md "wikilink")2Fに所在していた[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")である「有楽町ラジオタウン」から番組を配信していた。
 
 ## 出演者
 
@@ -21,8 +21,8 @@
 
   - [小口絵理子](../Page/小口絵理子.md "wikilink")（フリーアナウンサー、元ニッポン放送アナウンサー）
   - [田代優美](../Page/田代優美.md "wikilink")（当時：ニッポン放送アナウンサー） - 2001年10月 - 2005年3月
-  - [山本麻祐子](https://ja.wikipedia.org/wiki/山本麻祐子 "wikilink")（当時：ニッポン放送アナウンサー） - 2004年9月
-  - [新保友映](https://ja.wikipedia.org/wiki/新保友映 "wikilink")（当時：ニッポン放送アナウンサー） - 2005年1月
+  - [山本麻祐子](../Page/山本麻祐子.md "wikilink")（当時：ニッポン放送アナウンサー） - 2004年9月
+  - [新保友映](../Page/新保友映.md "wikilink")（当時：ニッポン放送アナウンサー） - 2005年1月
 
 ## 放送時間
 

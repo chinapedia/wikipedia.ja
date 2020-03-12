@@ -7,16 +7,16 @@
 
 ## メンバー
 
-  - [高橋洋樹](https://ja.wikipedia.org/wiki/高橋洋樹 "wikilink")
+  - [高橋洋樹](../Page/高橋洋樹.md "wikilink")
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。
   - 小早稲啓
     [ギター](../Page/ギター.md "wikilink")担当。
   - 高田誠
-    [キーボード担当](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")。
+    [キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。
   - 石黒淳一
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
   - 堀江毅
-    [ドラムス担当](../Page/ドラムセット.md "wikilink")。[LOOPUS](https://ja.wikipedia.org/wiki/LOOPUS "wikilink")、[Minimum Rockets](https://ja.wikipedia.org/wiki/Minimum_Rockets "wikilink")、[T4R](https://ja.wikipedia.org/wiki/T4R "wikilink")などのバンドで活動している。
+    [ドラムス担当](../Page/ドラムセット.md "wikilink")。[LOOPUS](../Page/LOOPUS.md "wikilink")、[Minimum Rockets](https://ja.wikipedia.org/wiki/Minimum_Rockets "wikilink")、[T4R](https://ja.wikipedia.org/wiki/T4R "wikilink")などのバンドで活動している。
 
 ## 作品
 

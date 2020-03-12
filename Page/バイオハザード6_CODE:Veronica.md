@@ -1,11 +1,11 @@
 > この記事は[6 CODE:Veronica](https://ja.wikipedia.org/wiki/6_CODE:Veronica)から翻訳されています。
 
 
-『**バイオハザード6 CODE:Veronica**』（バイオハザード6 コード：ベロニカ）は、[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")のゲームソフト『[バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")』を[S・D・ペリー](https://ja.wikipedia.org/wiki/S・D・ペリー "wikilink")が小説化した[ホラーゲーム](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")[ノベライズ](../Page/小説化.md "wikilink")。シリーズ第6弾である。ゲーム版『[バイオハザード CODE:Veronica](https://ja.wikipedia.org/wiki/バイオハザード_CODE:Veronica "wikilink")』に忠実にストーリーが展開される。[翻訳](../Page/翻訳.md "wikilink")は[野下祥子](https://ja.wikipedia.org/wiki/野下祥子 "wikilink")。
+『**バイオハザード6 CODE:Veronica**』（バイオハザード6 コード：ベロニカ）は、[カプコン](../Page/カプコン.md "wikilink")のゲームソフト『[バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")』を[S・D・ペリー](https://ja.wikipedia.org/wiki/S・D・ペリー "wikilink")が小説化した[ホラーゲーム](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")[ノベライズ](../Page/小説化.md "wikilink")。シリーズ第6弾である。ゲーム版『[バイオハザード CODE:Veronica](../Page/バイオハザード_CODE:Veronica.md "wikilink")』に忠実にストーリーが展開される。[翻訳](../Page/翻訳.md "wikilink")は[野下祥子](https://ja.wikipedia.org/wiki/野下祥子 "wikilink")。
 
 ## 出版経緯
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）　『バイオハザード6 CODE:Veronica』が[中央公論新社](../Page/中央公論新社.md "wikilink")[C★NOVELS](https://ja.wikipedia.org/wiki/C★NOVELS "wikilink")より刊行。　
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）　『バイオハザード6 CODE:Veronica』が[中央公論新社](../Page/中央公論新社.md "wikilink")[C★NOVELS](https://ja.wikipedia.org/wiki/C★NOVELS "wikilink")より刊行。　
 
 <!-- end list -->
 
@@ -49,7 +49,7 @@
   - [バイオハザード2 悪夢の洞窟](../Page/バイオハザード2_悪夢の洞窟.md "wikilink")
   - [バイオハザード3 死者の街](../Page/バイオハザード3_死者の街.md "wikilink")
   - [バイオハザード4 地下世界](../Page/バイオハザード4_地下世界.md "wikilink")
-  - [バイオハザード5 追跡者ネメシス](https://ja.wikipedia.org/wiki/バイオハザード5_追跡者ネメシス "wikilink")
+  - [バイオハザード5 追跡者ネメシス](../Page/バイオハザード5_追跡者ネメシス.md "wikilink")
   - **バイオハザード6 CODE:Veronica**
 
 ## 外部リンク

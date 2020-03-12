@@ -1,7 +1,7 @@
 > この記事は[E.a.G.](https://ja.wikipedia.org/wiki/E.a.G.)から翻訳されています。
 
 
-『**E.a.G.**』（イー.エー.ジー.）は、[柴村仁](https://ja.wikipedia.org/wiki/柴村仁 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[也](https://ja.wikipedia.org/wiki/也 "wikilink")が担当。[電撃文庫](../Page/電撃文庫.md "wikilink")刊。
+『**E.a.G.**』（イー.エー.ジー.）は、[柴村仁](../Page/柴村仁.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[也](https://ja.wikipedia.org/wiki/也 "wikilink")が担当。[電撃文庫](../Page/電撃文庫.md "wikilink")刊。
 
 ## 概要
 
@@ -66,7 +66,7 @@
 <!-- end list -->
 
   - コバヤシ
-    紅帝(コウテイ)に所属。典型的なチンピラ。紅帝(コウテイ)に所属。[オーバードース](https://ja.wikipedia.org/wiki/オーバードース "wikilink")で死亡した後、パペット化されヤンを殺し、飛び降り自殺した(それが死因ということになっている)。
+    紅帝(コウテイ)に所属。典型的なチンピラ。紅帝(コウテイ)に所属。[オーバードース](../Page/オーバードース.md "wikilink")で死亡した後、パペット化されヤンを殺し、飛び降り自殺した(それが死因ということになっている)。
 
 <!-- end list -->
 

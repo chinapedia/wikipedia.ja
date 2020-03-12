@@ -11,11 +11,11 @@ PVにて列車で旅立つ仲間を森高らが駅のホームで見送るシー
 
 翌[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発売された森高のアルバム『[Sava Sava](https://ja.wikipedia.org/wiki/Sava_Sava "wikilink")』にも収録された。
 
-なお、本曲が現在まで、森高のシングル曲で[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10位内に入った最後の楽曲である。
+なお、本曲が現在まで、森高のシングル曲で[オリコン](../Page/オリコンチャート.md "wikilink")10位内に入った最後の楽曲である。
 
 ## 収録曲
 
-1.  **SNOW AGAIN** （作詞：森高千里／作曲：[高橋諭一](https://ja.wikipedia.org/wiki/高橋諭一 "wikilink")）
+1.  **SNOW AGAIN** （作詞：森高千里／作曲：[高橋諭一](../Page/高橋諭一.md "wikilink")）
       - [明治チョコレート](../Page/明治製菓.md "wikilink")「Melty kiss」CMソング
 2.  **パッパッパヤ** （作曲：森高千里）
 3.  **SNOW AGAIN （オリジナル・カラオケ）**
@@ -39,6 +39,6 @@ PVにて列車で旅立つ仲間を森高らが駅のホームで見送るシー
 ## カバー
 
   - [美吉田月](https://ja.wikipedia.org/wiki/美吉田月 "wikilink")（2008年、アルバム『LOVE GIFT～pure flavor extra～』に収録）
-  - [野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")（2010年、J-POPカバー・アルバム『[WINTER SONG COVER BEST](https://ja.wikipedia.org/wiki/WINTER_SONG_COVER_BEST "wikilink")』に収録）
+  - [野川さくら](../Page/野川さくら.md "wikilink")（2010年、J-POPカバー・アルバム『[WINTER SONG COVER BEST](https://ja.wikipedia.org/wiki/WINTER_SONG_COVER_BEST "wikilink")』に収録）
 
 [Category:森高千里の楽曲](https://ja.wikipedia.org/wiki/Category:森高千里の楽曲 "wikilink") [Category:森高千里が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森高千里が制作した楽曲 "wikilink") [Category:高橋諭一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:高橋諭一が制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:明治のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:明治のコマーシャルソング "wikilink") [Category:アップフロントワークスの楽曲](https://ja.wikipedia.org/wiki/Category:アップフロントワークスの楽曲 "wikilink") [Category:雪を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:雪を題材とした楽曲 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")

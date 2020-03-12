@@ -5,9 +5,9 @@
 
 ## 来歴
 
-「[電撃G's magazine](https://ja.wikipedia.org/wiki/電撃G's_magazine "wikilink")」のインタビューによると、[池袋](https://ja.wikipedia.org/wiki/池袋 "wikilink")の[太正浪漫堂](../Page/太正浪漫堂.md "wikilink")のコミュニケーションノートが、2人が出会うきっかけになったという。ユニット結成後、『[To Heart](../Page/To_Heart.md "wikilink")』など[Leaf](../Page/Leaf.md "wikilink")作品を中心とした[同人誌](../Page/同人誌.md "wikilink")を製作する。
+「[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")」のインタビューによると、[池袋](../Page/池袋.md "wikilink")の[太正浪漫堂](../Page/太正浪漫堂.md "wikilink")のコミュニケーションノートが、2人が出会うきっかけになったという。ユニット結成後、『[To Heart](../Page/To_Heart.md "wikilink")』など[Leaf](../Page/Leaf.md "wikilink")作品を中心とした[同人誌](../Page/同人誌.md "wikilink")を製作する。
 
-Leafから発売された『[鎖 -クサリ-](https://ja.wikipedia.org/wiki/鎖_-クサリ- "wikilink")』では、初の外注[原画家](https://ja.wikipedia.org/wiki/原画家 "wikilink")として参加。
+Leafから発売された『[鎖 -クサリ-](../Page/鎖_-クサリ-.md "wikilink")』では、初の外注[原画家](https://ja.wikipedia.org/wiki/原画家 "wikilink")として参加。
 
 トメ太・ぴめこのハンドルネームを使用していたが、ぴめこが雑誌などで表記を間違えられることがあった為に2006年10月にハンドルネームをぴめこからさくら小春に変更した。それを受け、トメ太も苗字として小原をつけるようになった。
 
@@ -22,7 +22,7 @@ Leafから発売された『[鎖 -クサリ-](https://ja.wikipedia.org/wiki/鎖_
 
 ### アダルトゲーム
 
-  - [鎖 -クサリ-](https://ja.wikipedia.org/wiki/鎖_-クサリ- "wikilink")（[Leaf](../Page/Leaf.md "wikilink")） 原画、キャラクターデザイン
+  - [鎖 -クサリ-](../Page/鎖_-クサリ-.md "wikilink")（[Leaf](../Page/Leaf.md "wikilink")） 原画、キャラクターデザイン
   - エドランゼ 〜Come on\!水戸姫様〜（[アリスソフト](../Page/アリスソフト.md "wikilink")） 原画、キャラクターデザイン
   - [星の王子くん](https://ja.wikipedia.org/wiki/星の王子くん "wikilink")（Leaf） 原画、キャラクターデザイン
 
@@ -33,12 +33,12 @@ Leafから発売された『[鎖 -クサリ-](https://ja.wikipedia.org/wiki/鎖_
 ### イラスト・挿絵
 
   - [えむえむっ\!](../Page/えむえむっ!.md "wikilink")（[MF文庫J](../Page/MF文庫J.md "wikilink")） 挿絵
-  - [僕たちのパラドクス](https://ja.wikipedia.org/wiki/僕たちのパラドクス "wikilink")（[富士見ミステリー文庫](https://ja.wikipedia.org/wiki/富士見ミステリー文庫 "wikilink")） 挿絵
+  - [僕たちのパラドクス](https://ja.wikipedia.org/wiki/僕たちのパラドクス "wikilink")（[富士見ミステリー文庫](../Page/富士見ミステリー文庫.md "wikilink")） 挿絵
   - [ラッキーチャンス\!](https://ja.wikipedia.org/wiki/ラッキーチャンス! "wikilink")（[電撃文庫](../Page/電撃文庫.md "wikilink")） イラスト
-  - ガジェットガール（[スーパーダッシュ文庫](https://ja.wikipedia.org/wiki/スーパーダッシュ文庫 "wikilink")） 挿絵（小原トメ太・さくら小春名義）
+  - ガジェットガール（[スーパーダッシュ文庫](../Page/スーパーダッシュ文庫.md "wikilink")） 挿絵（小原トメ太・さくら小春名義）
   - ボクの可愛い国家令嬢（[富士見ファンタジア文庫](../Page/富士見ファンタジア文庫.md "wikilink")） 挿絵
   - [ロック・ペーパー・シザーズ](https://ja.wikipedia.org/wiki/ロック・ペーパー・シザーズ "wikilink")（富士見ファンタジア文庫） 挿絵
-  - [ガーリッシュナンバー](https://ja.wikipedia.org/wiki/ガーリッシュナンバー "wikilink")（[電撃G's magazine](https://ja.wikipedia.org/wiki/電撃G's_magazine "wikilink")） キャラクター原案・カラーイラスト
+  - [ガーリッシュナンバー](https://ja.wikipedia.org/wiki/ガーリッシュナンバー "wikilink")（[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")） キャラクター原案・カラーイラスト
 
 ### アニメ関連
 
@@ -55,7 +55,7 @@ Leafから発売された『[鎖 -クサリ-](https://ja.wikipedia.org/wiki/鎖_
 
   - [女子が語るアニメ話「これスキ\!なんかイモみたい\!\!」](https://ja.wikipedia.org/wiki/女子が語るアニメ話「これスキ!なんかイモみたい!!」 "wikilink") エンディングアニメーションキャラクター原案（小原）
   - [22/7](https://ja.wikipedia.org/wiki/22/7_\(アイドル\) "wikilink")（2016年 - ） キャラクターデザイン 立川絢香 （さくら）、丸山あかね （小原）
-  - [IDOLY PRIDE](https://ja.wikipedia.org/wiki/IDOLY_PRIDE "wikilink") キャラクター原案
+  - [IDOLY PRIDE](../Page/IDOLY_PRIDE.md "wikilink") キャラクター原案
 
 ## 脚注
 

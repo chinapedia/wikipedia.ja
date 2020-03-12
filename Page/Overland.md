@@ -46,7 +46,7 @@
 
   - [MSFS](https://ja.wikipedia.org/wiki/MSFS "wikilink")
   - [フライトシミュレーション](../Page/フライトシミュレーション.md "wikilink")
-  - [金庸](https://ja.wikipedia.org/wiki/金庸 "wikilink")
+  - [金庸](../Page/金庸.md "wikilink")
   - [ツール・ド・フランス](https://ja.wikipedia.org/wiki/ツール・ド・フランス "wikilink")
 
 ## 外部リンク

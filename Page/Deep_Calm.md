@@ -12,7 +12,7 @@
 ### CD
 
 1.  **REALITY**
-2.  **[DEEP CALM](https://ja.wikipedia.org/wiki/Blast_My_Desire "wikilink")**
+2.  **[DEEP CALM](../Page/Blast_My_Desire.md "wikilink")**
 3.  **Spiritual Tattooist**
 4.  **RIOT GENERATOR**
 5.  **My Sweetest Nightmare**
@@ -20,7 +20,7 @@
 7.  **The Massive Quest**
 8.  **Disabuse(Instrumental)**
 9.  **Freezing Rain**
-10. **[Blast My Desire](https://ja.wikipedia.org/wiki/Blast_My_Desire "wikilink")**
+10. **[Blast My Desire](../Page/Blast_My_Desire.md "wikilink")**
 11. **TWIST～Alice in Wonderland**
 12. **PURE MINDS**
 13. **RUNAWAY**
@@ -45,6 +45,6 @@
 
 ## 関連項目
 
-  - [2004年の音楽](https://ja.wikipedia.org/wiki/2004年の音楽 "wikilink")
+  - [2004年の音楽](../Page/2004年の音楽.md "wikilink")
 
 [Category:M.o.v.eのアルバム](https://ja.wikipedia.org/wiki/Category:M.o.v.eのアルバム "wikilink") [Category:2004年のアルバム](https://ja.wikipedia.org/wiki/Category:2004年のアルバム "wikilink")

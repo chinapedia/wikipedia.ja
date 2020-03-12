@@ -1,7 +1,7 @@
 > この記事は[Bitter Sweet \(\)](https://ja.wikipedia.org/wiki/Bitter_Sweet_\(\))から翻訳されています。
 
 
-**Biteer Sweet**（ビタースイート）は、[後藤沙緒里](https://ja.wikipedia.org/wiki/後藤沙緒里 "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。2007年3月14日、[KONAMIより発売](https://ja.wikipedia.org/wiki/コナミレーベル "wikilink")。
+**Biteer Sweet**（ビタースイート）は、[後藤沙緒里](../Page/後藤沙緒里.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。2007年3月14日、[KONAMIより発売](../Page/コナミレーベル.md "wikilink")。
 
 ## 収録曲
 
@@ -20,7 +20,7 @@
 7.  **1%**
       - 作詞：渡邊亜希子、作曲：大内正徳、編曲：前澤ヒデノリ
 8.  **わかんないって？！**
-      - 作詞：[谷亜ヒロコ](https://ja.wikipedia.org/wiki/谷亜ヒロコ "wikilink")、作曲：川上次郎、編曲：[酒井ミキオ](https://ja.wikipedia.org/wiki/酒井ミキオ "wikilink")
+      - 作詞：[谷亜ヒロコ](https://ja.wikipedia.org/wiki/谷亜ヒロコ "wikilink")、作曲：川上次郎、編曲：[酒井ミキオ](../Page/酒井ミキオ.md "wikilink")
 9.  **蝶の螺旋**
       - 作詞：渡邊亜希子、作曲：市川淳、編曲：山崎淳
 10. **私に愛されている人**

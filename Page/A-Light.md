@@ -1,13 +1,13 @@
 > この記事は[A-Light](https://ja.wikipedia.org/wiki/A-Light)から翻訳されています。
 
 
-**株式会社エーライツ**は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社を置く[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能プロダクション](../Page/芸能事務所.md "wikilink")。
+**株式会社エーライツ**は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社を置く[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能プロダクション](../Page/芸能事務所.md "wikilink")。
 
 ## 概要
 
-株式会社[エーチームのグループ会社であり](https://ja.wikipedia.org/wiki/A-team_\(芸能プロダクション\) "wikilink")、主にエーチームグループの新人[タレント](../Page/タレント.md "wikilink")が所属している。また、株式会社[エープラス](https://ja.wikipedia.org/wiki/A-PLUS "wikilink")、[芸能スクールの株式会社](https://ja.wikipedia.org/wiki/アクターズスクール "wikilink")[エーチームアカデミーも同グループの会社である](https://ja.wikipedia.org/wiki/A-Team_academy "wikilink")。エーチームアカデミーに通っている生徒が所属している。
+株式会社[エーチームのグループ会社であり](../Page/A-team_\(芸能プロダクション\).md "wikilink")、主にエーチームグループの新人[タレント](../Page/タレント.md "wikilink")が所属している。また、株式会社[エープラス](../Page/A-PLUS.md "wikilink")、[芸能スクールの株式会社](../Page/アクターズスクール.md "wikilink")[エーチームアカデミーも同グループの会社である](../Page/A-Team_academy.md "wikilink")。エーチームアカデミーに通っている生徒が所属している。
 
-東京本社の他、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[中央区西心斎橋に大阪オフィスを](../Page/中央区_\(大阪市\).md "wikilink")、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中央区](../Page/中央区_\(福岡市\).md "wikilink")[警固に福岡オフィスを](https://ja.wikipedia.org/wiki/警固_\(福岡市\) "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区南](../Page/中央区_\(札幌市\).md "wikilink")1条西2丁目に北海道オフィスを設けている\[1\]。
+東京本社の他、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[中央区西心斎橋に大阪オフィスを](../Page/中央区_\(大阪市\).md "wikilink")、[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中央区](../Page/中央区_\(福岡市\).md "wikilink")[警固に福岡オフィスを](https://ja.wikipedia.org/wiki/警固_\(福岡市\) "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区南](../Page/中央区_\(札幌市\).md "wikilink")1条西2丁目に北海道オフィスを設けている\[1\]。
 
 ## 主な所属者
 
@@ -15,7 +15,7 @@
 
 ### 営業1部
 
-  - [紺谷みえこ](https://ja.wikipedia.org/wiki/紺谷みえこ "wikilink")（旧芸名：美恵子\[2\]）
+  - [紺谷みえこ](../Page/紺谷みえこ.md "wikilink")（旧芸名：美恵子\[2\]）
   - [高木美知瑠](https://ja.wikipedia.org/wiki/高木美知瑠 "wikilink")
   - [中島ケイカ](https://ja.wikipedia.org/wiki/中島ケイカ "wikilink")
   - [未来蕗](https://ja.wikipedia.org/wiki/未来蕗 "wikilink")
@@ -27,7 +27,7 @@
   - [大利弥里](https://ja.wikipedia.org/wiki/大利弥里 "wikilink")
   - [塩川莉世](https://ja.wikipedia.org/wiki/塩川莉世 "wikilink")
   - [原田明莉](https://ja.wikipedia.org/wiki/原田明莉 "wikilink")
-  - [尚玄](https://ja.wikipedia.org/wiki/尚玄 "wikilink")
+  - [尚玄](../Page/尚玄.md "wikilink")
   - [大河原亮高](https://ja.wikipedia.org/wiki/大河原亮高 "wikilink")
   - [仲村だこた](https://ja.wikipedia.org/wiki/仲村だこた "wikilink")
   - [草野大成](https://ja.wikipedia.org/wiki/草野大成 "wikilink")
@@ -104,42 +104,42 @@
 
 ## 主な過去の所属者
 
-  - [久保田結衣](https://ja.wikipedia.org/wiki/久保田結衣 "wikilink")\[3\]
-  - 奥田江美\[4\]（⇒[麻井美李](https://ja.wikipedia.org/wiki/麻井美李 "wikilink")）
+  - [久保田結衣](../Page/久保田結衣.md "wikilink")\[3\]
+  - 奥田江美\[4\]（⇒[麻井美李](../Page/麻井美李.md "wikilink")）
   - [鶴岡知恵](https://ja.wikipedia.org/wiki/鶴岡知恵 "wikilink")\[5\]
-  - [村上結花](https://ja.wikipedia.org/wiki/村上結花 "wikilink")\[6\]
-  - [丸山志乃](https://ja.wikipedia.org/wiki/丸山志乃 "wikilink")\[7\]（旧芸名：丸山しの\[8\]）
+  - [村上結花](../Page/村上結花.md "wikilink")\[6\]
+  - [丸山志乃](../Page/丸山志乃.md "wikilink")\[7\]（旧芸名：丸山しの\[8\]）
   - [若山友海](https://ja.wikipedia.org/wiki/若山友海 "wikilink")\[9\]
-  - [竹島由夏](https://ja.wikipedia.org/wiki/竹島由夏 "wikilink")\[10\]
+  - [竹島由夏](../Page/竹島由夏.md "wikilink")\[10\]
   - [堂島有沙](https://ja.wikipedia.org/wiki/堂島有沙 "wikilink")\[11\]
   - [阿部加奈江](https://ja.wikipedia.org/wiki/阿部加奈江 "wikilink")\[12\]
-  - [黒澤琢弥](https://ja.wikipedia.org/wiki/黒澤琢弥 "wikilink")\[13\]
+  - [黒澤琢弥](../Page/黒澤琢弥.md "wikilink")\[13\]
   - [二階堂瑞穂](https://ja.wikipedia.org/wiki/二階堂瑞穂 "wikilink")\[14\]
-  - [浅見美鈴](https://ja.wikipedia.org/wiki/浅見美鈴 "wikilink")\[15\]
-  - [佐藤かおり](https://ja.wikipedia.org/wiki/佐藤かおり "wikilink")\[16\]
-  - [谷内友美](https://ja.wikipedia.org/wiki/谷内友美 "wikilink")\[17\]
+  - [浅見美鈴](../Page/浅見美鈴.md "wikilink")\[15\]
+  - [佐藤かおり](../Page/佐藤かおり.md "wikilink")\[16\]
+  - [谷内友美](../Page/谷内友美.md "wikilink")\[17\]
   - 奏木純\[18\]（⇒[金子織江](https://ja.wikipedia.org/wiki/金子織江 "wikilink")）
   - [庄田侑右](https://ja.wikipedia.org/wiki/庄田侑右 "wikilink")\[19\]
-  - [浅香航大](https://ja.wikipedia.org/wiki/浅香航大 "wikilink")\[20\]
+  - [浅香航大](../Page/浅香航大.md "wikilink")\[20\]
   - 山屋茉似\[21\]（⇒[愛乃まーに](https://ja.wikipedia.org/wiki/愛乃まーに "wikilink")）
   - [原田麻美](https://ja.wikipedia.org/wiki/原田麻美 "wikilink")\[22\]
   - [小澤亮太](https://ja.wikipedia.org/wiki/小澤亮太 "wikilink")\[23\]
   - [八木秋香](https://ja.wikipedia.org/wiki/八木秋香 "wikilink")\[24\]
-  - 大瀬良あゆみ\[25\]（⇒[大世良歩実](https://ja.wikipedia.org/wiki/大世良歩実 "wikilink")）
-  - [佐久間亜依](https://ja.wikipedia.org/wiki/佐久間亜依 "wikilink")\[26\]
+  - 大瀬良あゆみ\[25\]（⇒[大世良歩実](../Page/大世良歩実.md "wikilink")）
+  - [佐久間亜依](../Page/佐久間亜依.md "wikilink")\[26\]
   - [牧野志帆](https://ja.wikipedia.org/wiki/牧野志帆 "wikilink")\[27\]
   - [KENSHU](https://ja.wikipedia.org/wiki/KENSHU "wikilink")
-  - [満田伸明](https://ja.wikipedia.org/wiki/満田伸明 "wikilink")
+  - [満田伸明](../Page/満田伸明.md "wikilink")
   - 鞍馬優（⇒[熊井智津子](https://ja.wikipedia.org/wiki/熊井智津子 "wikilink")）
   - なまたまご（⇒[中井光義](https://ja.wikipedia.org/wiki/中井光義 "wikilink")）
   - [渡辺奈緒美](../Page/渡辺奈緒美.md "wikilink")
   - [川端かなこ](https://ja.wikipedia.org/wiki/川端かなこ "wikilink")\[28\]
-  - 佐藤萌実\[29\]（⇒[三喜本恵美](https://ja.wikipedia.org/wiki/三喜本恵美 "wikilink")）
+  - 佐藤萌実\[29\]（⇒[三喜本恵美](../Page/三喜本恵美.md "wikilink")）
   - [那月結衣](https://ja.wikipedia.org/wiki/那月結衣 "wikilink")\[30\]
   - [小川大悟](https://ja.wikipedia.org/wiki/小川大悟 "wikilink")\[31\]
   - 馬場裕貴
   - 和田聖也
-  - [菊池真弓](https://ja.wikipedia.org/wiki/菊池真弓_\(タレント\) "wikilink")\[32\]
+  - [菊池真弓](../Page/菊池真弓_\(タレント\).md "wikilink")\[32\]
   - [熊川雄大](https://ja.wikipedia.org/wiki/熊川雄大 "wikilink")\[33\]
   - [たけうち亜美](https://ja.wikipedia.org/wiki/たけうち亜美 "wikilink")\[34\]
   - [木野山はるか（旧芸名：伊藤瑶）](https://ja.wikipedia.org/wiki/伊藤瑶 "wikilink")\[35\]
@@ -159,9 +159,9 @@
 
 ## 関連項目
 
-  - [A-team (芸能プロダクション)](https://ja.wikipedia.org/wiki/A-team_\(芸能プロダクション\) "wikilink")
-  - [A-PLUS](https://ja.wikipedia.org/wiki/A-PLUS "wikilink")
-  - [A-Team academy](https://ja.wikipedia.org/wiki/A-Team_academy "wikilink")
+  - [A-team (芸能プロダクション)](../Page/A-team_\(芸能プロダクション\).md "wikilink")
+  - [A-PLUS](../Page/A-PLUS.md "wikilink")
+  - [A-Team academy](../Page/A-Team_academy.md "wikilink")
 
 ## 外部リンク
 

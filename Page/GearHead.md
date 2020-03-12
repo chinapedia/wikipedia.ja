@@ -1,7 +1,7 @@
 > この記事は[GearHead](https://ja.wikipedia.org/wiki/GearHead)から翻訳されています。
 
 
-**GearHead**（ギアーヘッド）は、[メックを題材とした](https://ja.wikipedia.org/wiki/メック_\(架空の兵器\) "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")の[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")である。オリジナルは英語だが、有志による日本語版も公開されている。
+**GearHead**（ギアーヘッド）は、[メックを題材とした](../Page/メック_\(架空の兵器\).md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")の[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")である。オリジナルは英語だが、有志による日本語版も公開されている。
 
 ## 概要
 

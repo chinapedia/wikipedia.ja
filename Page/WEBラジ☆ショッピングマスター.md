@@ -1,18 +1,18 @@
 > この記事は[WEB](https://ja.wikipedia.org/wiki/WEB)から翻訳されています。
 
 
-**WEBラジ☆ショッピングマスター**（ウェブラジ ショッピングマスター）は、[Xbox 360版](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")[THE IDOLM@STERから派生した](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_\(Xbox_360\) "wikilink")[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")まで更新されていた。\[\[THE IDOLM@STER (Xbox 360)|THE
+**WEBラジ☆ショッピングマスター**（ウェブラジ ショッピングマスター）は、[Xbox 360版](../Page/Xbox_360.md "wikilink")[THE IDOLM@STERから派生した](../Page/THE_IDOLM@STER_\(Xbox_360\).md "wikilink")[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[2007年](../Page/2007年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")まで更新されていた。\[\[THE IDOLM@STER (Xbox 360)|THE
 
 IDOLM@STER\]\]公式サイト内「マーケットプレース」にて配信。毎週金曜日更新。全18回。
 
 ## パーソナリティ
 
-[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[THE IDOLM@STERに登場するキャラクターがつとめるという設定](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_\(Xbox_360\) "wikilink")。
+[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[THE IDOLM@STERに登場するキャラクターがつとめるという設定](../Page/THE_IDOLM@STER_\(Xbox_360\).md "wikilink")。
 
   - 天海春香
     [声](../Page/声優.md "wikilink")：[中村繪里子](https://ja.wikipedia.org/wiki/中村繪里子 "wikilink")
   - 星井美希
-    声：[長谷川明子](https://ja.wikipedia.org/wiki/長谷川明子 "wikilink")
+    声：[長谷川明子](../Page/長谷川明子.md "wikilink")
   - 双海亜美・真美
     声：[下田麻美](https://ja.wikipedia.org/wiki/下田麻美 "wikilink")
 
@@ -20,7 +20,7 @@ IDOLM@STER\]\]公式サイト内「マーケットプレース」にて配信。
 
 ## 番組内容
 
-[Xbox 360版](https://ja.wikipedia.org/wiki/Xbox_360 "wikilink")[THE IDOLM@STERのダウンロードコンテンツ](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_\(Xbox_360\) "wikilink")「**アイマスカタログ**」の中から、[パーソナリティがコンテンツを選出し番組内で紹介する](../Page/ラジオパーソナリティ.md "wikilink")。
+[Xbox 360版](../Page/Xbox_360.md "wikilink")[THE IDOLM@STERのダウンロードコンテンツ](../Page/THE_IDOLM@STER_\(Xbox_360\).md "wikilink")「**アイマスカタログ**」の中から、[パーソナリティがコンテンツを選出し番組内で紹介する](../Page/ラジオパーソナリティ.md "wikilink")。
 ※第18回（最終回）はパーソナリティ役を務めた声優陣による座談会形式のため、コンテンツの紹介は無し。
 
 ### 紹介されたコンテンツ
@@ -69,7 +69,7 @@ IDOLM@STER\]\]公式サイト内「マーケットプレース」にて配信。
 </tr>
 <tr class="even">
 <td><p>第6回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワンダーモモ" title="wikilink">ワンダーモモ</a></p></td>
+<td><p><a href="../Page/ワンダーモモ.md" title="wikilink">ワンダーモモ</a></p></td>
 <td><p>第4号</p></td>
 <td><p>EXTEND系衣装</p></td>
 </tr>
@@ -116,15 +116,15 @@ IDOLM@STER\]\]公式サイト内「マーケットプレース」にて配信。
 </tr>
 <tr class="odd">
 <td><p>第13回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石膏" title="wikilink">石こうアーム</a></p></td>
+<td><p><a href="../Page/石膏.md" title="wikilink">石こうアーム</a></p></td>
 <td><p>第5号</p></td>
 <td><p>オリジナルアクセサリ</p></td>
 </tr>
 <tr class="even">
 <td><p>第14回<br />
 第15回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/水着" title="wikilink">グラビアミズギ</a><br />
-<a href="https://ja.wikipedia.org/wiki/スクール水着" title="wikilink">スクールミズギ</a></p></td>
+<td><p><a href="../Page/水着.md" title="wikilink">グラビアミズギ</a><br />
+<a href="../Page/スクール水着.md" title="wikilink">スクールミズギ</a></p></td>
 <td><p>第6号</p></td>
 <td><p>EXTEND系衣装</p></td>
 </tr>
@@ -153,10 +153,10 @@ IDOLM@STER\]\]公式サイト内「マーケットプレース」にて配信。
 
 #### 備考
 
-  - 基本はTVショッピング形式での進行だが、パーソナリティが暴走した結果ほとんど紹介にならず終了することが多々ある。また、この番組から直接アイテムの購入はできない（[Xbox Liveに接続して購入する](https://ja.wikipedia.org/wiki/Xbox_Live "wikilink")）。あくまでもこうした設定で展開されるミニドラマである。
+  - 基本はTVショッピング形式での進行だが、パーソナリティが暴走した結果ほとんど紹介にならず終了することが多々ある。また、この番組から直接アイテムの購入はできない（[Xbox Liveに接続して購入する](../Page/Xbox_Live.md "wikilink")）。あくまでもこうした設定で展開されるミニドラマである。
   - 出演アイドルにまつわるネット上の話題をシナリオに取り入れていることがある（第6回、第11回など）。
   - なぜか765プロダクションの高木社長が様々な部分で番組に関わっている（出演はしていない）。
-  - 2010年に発売されたCD『THE IDOLM@STER VOCAL COLLECTION』内で、この番組を踏襲したコーナー「CDラジ☆ショッピングマスター」が登場している。内容は商品案内ではなくCDに収録された曲の解説。出演は天海春香（[声](../Page/声優.md "wikilink")：[中村繪里子](https://ja.wikipedia.org/wiki/中村繪里子 "wikilink")）、星井美希（声：[長谷川明子](https://ja.wikipedia.org/wiki/長谷川明子 "wikilink")）、高槻やよい（声：[仁後真耶子](https://ja.wikipedia.org/wiki/仁後真耶子 "wikilink")）
+  - 2010年に発売されたCD『THE IDOLM@STER VOCAL COLLECTION』内で、この番組を踏襲したコーナー「CDラジ☆ショッピングマスター」が登場している。内容は商品案内ではなくCDに収録された曲の解説。出演は天海春香（[声](../Page/声優.md "wikilink")：[中村繪里子](https://ja.wikipedia.org/wiki/中村繪里子 "wikilink")）、星井美希（声：[長谷川明子](../Page/長谷川明子.md "wikilink")）、高槻やよい（声：[仁後真耶子](../Page/仁後真耶子.md "wikilink")）
 
 ## 脚注
 

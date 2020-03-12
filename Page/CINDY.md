@@ -5,15 +5,15 @@
 
 ## 来歴
 
-[1984年](../Page/1984年.md "wikilink")、シングル「Chance On Love」でデビュー。自身のシングル・アルバムは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")にかけて多数リリースされている。
+[1984年](../Page/1984年.md "wikilink")、シングル「Chance On Love」でデビュー。自身のシングル・アルバムは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1991年](../Page/1991年.md "wikilink")にかけて多数リリースされている。
 
-作曲家としては、[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")にシングル『[人魚姫 mermaid](https://ja.wikipedia.org/wiki/人魚姫_mermaid "wikilink")』（[1988年](../Page/1988年.md "wikilink")）を提供したのを始め、様々なアーティストに[1990年代](../Page/1990年代.md "wikilink")後半まで多くの曲を提供した。1988年に中山に提供した『[Witches](https://ja.wikipedia.org/wiki/Witches "wikilink")』は『第15回決定\! [FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")』グランプリを受賞。アイドル歌謡を邁進していた中山美穂を、[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")に次いでアーティスティックな音楽性へと導いた立役者である。
+作曲家としては、[中山美穂](../Page/中山美穂.md "wikilink")にシングル『[人魚姫 mermaid](../Page/人魚姫_mermaid.md "wikilink")』（[1988年](../Page/1988年.md "wikilink")）を提供したのを始め、様々なアーティストに[1990年代](../Page/1990年代.md "wikilink")後半まで多くの曲を提供した。1988年に中山に提供した『[Witches](../Page/Witches.md "wikilink")』は『第15回決定\! [FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")』グランプリを受賞。アイドル歌謡を邁進していた中山美穂を、[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")に次いでアーティスティックな音楽性へと導いた立役者である。
 
-この他、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1989年](../Page/1989年.md "wikilink")まで[山下達郎](../Page/山下達郎.md "wikilink")のコンサートツアー及びレコーディングにコーラスとして参加しており、その歌声は[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")『[JOY](https://ja.wikipedia.org/wiki/JOY_\(山下達郎のアルバム\) "wikilink")』に収録されている。また、[1980年代](../Page/1980年代.md "wikilink")後半に放映されていた[ブルボン](../Page/ブルボン.md "wikilink")「Bit」のCMソングも歌っている 。
+この他、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1989年](../Page/1989年.md "wikilink")まで[山下達郎](../Page/山下達郎.md "wikilink")のコンサートツアー及びレコーディングにコーラスとして参加しており、その歌声は[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")『[JOY](https://ja.wikipedia.org/wiki/JOY_\(山下達郎のアルバム\) "wikilink")』に収録されている。また、[1980年代](../Page/1980年代.md "wikilink")後半に放映されていた[ブルボン](../Page/ブルボン.md "wikilink")「Bit」のCMソングも歌っている 。
 
 80年代という早い段階から、多重録音による[コンテンポラリー](https://ja.wikipedia.org/wiki/コンテンポラリー "wikilink")かつ高度なコーラス・ワークを行っていた。
 
-[2001年](../Page/2001年.md "wikilink")12月に、移住した[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で[癌で死去](../Page/悪性腫瘍.md "wikilink")。その後[鬼籍](https://ja.wikipedia.org/wiki/鬼籍 "wikilink")に入ったことについては、中山美穂が自身の[ファンクラブ](https://ja.wikipedia.org/wiki/ファンクラブ "wikilink")会報誌にて明かした。
+[2001年](../Page/2001年.md "wikilink")12月に、移住した[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で[癌で死去](../Page/悪性腫瘍.md "wikilink")。その後[鬼籍](../Page/鬼籍.md "wikilink")に入ったことについては、中山美穂が自身の[ファンクラブ](../Page/ファンクラブ.md "wikilink")会報誌にて明かした。
 
 ## ディスコグラフィー
 
@@ -21,15 +21,15 @@
 
 1.  **Chance On Love**（1984年10月10日）
       - （TVアニメ『[うる星やつら](https://ja.wikipedia.org/wiki/うる星やつら_\(アニメ\) "wikilink")』4代目OP）
-      - 作詞：Cindy・[宮原芽映](https://ja.wikipedia.org/wiki/宮原芽映 "wikilink") 作曲：[小田裕一郎](https://ja.wikipedia.org/wiki/小田裕一郎 "wikilink")
+      - 作詞：Cindy・[宮原芽映](../Page/宮原芽映.md "wikilink") 作曲：[小田裕一郎](../Page/小田裕一郎.md "wikilink")
       - C/W　Open Invitation（TVアニメ『うる星やつら』7代目ED）
-      - 作詞：宮原芽映, Ralph McCarthy　作曲：[ミッキー吉野](https://ja.wikipedia.org/wiki/ミッキー吉野 "wikilink")
+      - 作詞：宮原芽映, Ralph McCarthy　作曲：[ミッキー吉野](../Page/ミッキー吉野.md "wikilink")
 2.  **THINK YOUR LOVE AWAY**（1985年）
       - 作詞：[Stevie Wonder](../Page/スティーヴィー・ワンダー.md "wikilink")　作曲：Stevie Wonder
       - C/W　SPREAD THE LOVE
       - 作詞：Cindy　作曲：Melody McCully
 3.  **天使の気持ち**（1990年6月25日）
-      - 作詞：[康珍化](https://ja.wikipedia.org/wiki/康珍化 "wikilink")　作曲：Cindy
+      - 作詞：[康珍化](../Page/康珍化.md "wikilink")　作曲：Cindy
       - C/W　せつなくて
       - 作詞：戸沢暢美　作曲：Rod Antoon
 4.  **私達を信じていて**（1990年9月25日）
@@ -40,7 +40,7 @@
       - 作詞：康珍化　作曲：鳴海寛
       - C/W　Christmas Time
       - 作詞：Eddie Cole　作曲：Eddie Cole
-      - 翌年[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")がアルバム『[De eaya](https://ja.wikipedia.org/wiki/De_eaya "wikilink")』でカバーしている。
+      - 翌年[中山美穂](../Page/中山美穂.md "wikilink")がアルバム『[De eaya](../Page/De_eaya.md "wikilink")』でカバーしている。
 6.  **愛がさびしい時**（1991年8月25日）
       - 作詞：戸沢暢美 / 作曲：Cindy
       - C/W　テル・ミー・ホワイ
@@ -72,12 +72,12 @@
 1.  Surprise
 2.  せつなくて
 3.  Destiny
-      - 中山美穂への提供曲の[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")の歌詞違い
+      - 中山美穂への提供曲の[セルフカバー](../Page/セルフカバー.md "wikilink")の歌詞違い
 4.  When Tomorrow Comes
 5.  天使の気持ち
       - 中山美穂への提供曲のセルフカバー
 6.  Special Ever Happened
-      - 後に中山美穂がアルバム『[De eaya](https://ja.wikipedia.org/wiki/De_eaya "wikilink")』でカバー
+      - 後に中山美穂がアルバム『[De eaya](../Page/De_eaya.md "wikilink")』でカバー
 7.  私達を信じていて
 8.  Candle Lights
 9.  Fall In Love
@@ -93,7 +93,7 @@
 1.  テル・ミー・ホワイ
 2.  ソー・ロング,グッドバイ
 3.  イン・ザ・レイン
-4.  [ROSÉCOLOR](https://ja.wikipedia.org/wiki/ROSECOLOR "wikilink")
+4.  [ROSÉCOLOR](../Page/ROSECOLOR.md "wikilink")
       - 中山美穂への提供曲のセルフカバー
 5.  リヴ・ソー・ファースト
 6.  バレリー・フレンズ
@@ -108,16 +108,16 @@
 <!-- end list -->
 
 1.  Surprise
-      - 作詞：[康珍化](https://ja.wikipedia.org/wiki/康珍化 "wikilink")　作曲：Cindy　編曲：[鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")・[鳴海寛](https://ja.wikipedia.org/wiki/鳴海寛 "wikilink")
+      - 作詞：[康珍化](../Page/康珍化.md "wikilink")　作曲：Cindy　編曲：[鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")・[鳴海寛](https://ja.wikipedia.org/wiki/鳴海寛 "wikilink")
 2.  Destiny
       - 作詞：康珍化　作曲：Cindy　編曲：Rod Antoon
       - 中山美穂への提供曲のセルフカバーの歌詞違い
 3.  Special Ever Happened
       - 作詞：康珍化　作曲：鳴海寛　編曲：鳴海寛
-      - 中山美穂がアルバム『[De eaya](https://ja.wikipedia.org/wiki/De_eaya "wikilink")』でカバー
+      - 中山美穂がアルバム『[De eaya](../Page/De_eaya.md "wikilink")』でカバー
 4.  Live So Fast
       - 作詞：K.Inojo　作曲：鳥山雄司　編曲：鳥山雄司
-5.  [ROSÉCOLOR](https://ja.wikipedia.org/wiki/ROSECOLOR "wikilink")
+5.  [ROSÉCOLOR](../Page/ROSECOLOR.md "wikilink")
       - 作詞：康珍化　作曲：Cindy　編曲：[氷室昌之](https://ja.wikipedia.org/wiki/氷室昌之 "wikilink")・鳴海寛
       - 中山美穂への提供曲のセルフカバー
 6.  私達を信じていて
@@ -140,15 +140,15 @@
 14. Visions
       - 作詞：[スティーヴィー・ワンダー](../Page/スティーヴィー・ワンダー.md "wikilink")　作曲：スティーヴィー・ワンダー　編曲：Chuck Boom
 15. (I Can't Get No)Satisfaction
-      - 作詞：[ミック・ジャガー](https://ja.wikipedia.org/wiki/ミック・ジャガー "wikilink") ・[キース・リチャーズ](https://ja.wikipedia.org/wiki/キース・リチャーズ "wikilink")　作曲：ミック・ジャガー ・キース・リチャーズ　編曲：[清水信之](https://ja.wikipedia.org/wiki/清水信之 "wikilink")
+      - 作詞：[ミック・ジャガー](../Page/ミック・ジャガー.md "wikilink") ・[キース・リチャーズ](../Page/キース・リチャーズ.md "wikilink")　作曲：ミック・ジャガー ・キース・リチャーズ　編曲：[清水信之](../Page/清水信之.md "wikilink")
 
 ## 提供作品（作曲）
 
-  - [中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")
+  - [中山美穂](../Page/中山美穂.md "wikilink")
 
-「Mind Game」 「I Know」 「[人魚姫 mermaid](https://ja.wikipedia.org/wiki/人魚姫_mermaid "wikilink")」 「[Witches](https://ja.wikipedia.org/wiki/Witches "wikilink")」 「誓いを破って」 「Sweetest Lover」 「Too Fast, Too Close」 「天使の気持ち」 「Please」 「Try Or Cry」 「[ROSÉCOLOR](https://ja.wikipedia.org/wiki/ROSECOLOR "wikilink")」 「Destiny」 「Naked Cruising」 「Hide'n' Seek」 「[セミスウィートの魔法](https://ja.wikipedia.org/wiki/セミスウィートの魔法 "wikilink")」 「Lonely Girl」 「[Save Your Love](https://ja.wikipedia.org/wiki/Save_Your_Love "wikilink")」 「Love For You」 「追憶 -Reminiscence-」 「LOVE」 「AFTERNOON」 「GAME IS OVER」 「BROWN SHOES」 「Sometime」 「Daddy」 「Jasmine〜しあわせなこころ」
+「Mind Game」 「I Know」 「[人魚姫 mermaid](../Page/人魚姫_mermaid.md "wikilink")」 「[Witches](../Page/Witches.md "wikilink")」 「誓いを破って」 「Sweetest Lover」 「Too Fast, Too Close」 「天使の気持ち」 「Please」 「Try Or Cry」 「[ROSÉCOLOR](../Page/ROSECOLOR.md "wikilink")」 「Destiny」 「Naked Cruising」 「Hide'n' Seek」 「[セミスウィートの魔法](../Page/セミスウィートの魔法.md "wikilink")」 「Lonely Girl」 「[Save Your Love](https://ja.wikipedia.org/wiki/Save_Your_Love "wikilink")」 「Love For You」 「追憶 -Reminiscence-」 「LOVE」 「AFTERNOON」 「GAME IS OVER」 「BROWN SHOES」 「Sometime」 「Daddy」 「Jasmine〜しあわせなこころ」
 
-  - [上田正樹](https://ja.wikipedia.org/wiki/上田正樹 "wikilink")
+  - [上田正樹](../Page/上田正樹.md "wikilink")
 
 「Spend The Night」
 
@@ -158,15 +158,15 @@
 
 「Sweet Inspiration」 「Always」 「Borderland」 「Something In The Air」 「Universal Love」
 
-  - [マリーン](https://ja.wikipedia.org/wiki/マリーン "wikilink")
+  - [マリーン](../Page/マリーン.md "wikilink")
 
 「Just A Woman」
 
-  - [村田和人](https://ja.wikipedia.org/wiki/村田和人 "wikilink")
+  - [村田和人](../Page/村田和人.md "wikilink")
 
 「In The Southern Sky」
 
-  - [安藤まさひろ](https://ja.wikipedia.org/wiki/安藤正容 "wikilink")
+  - [安藤まさひろ](../Page/安藤正容.md "wikilink")
 
 「Tonight's The Night」
 
@@ -178,25 +178,25 @@
 
 「LOVE TONIGHT」 「めざめ」
 
-  - [中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")
+  - [中山美穂](../Page/中山美穂.md "wikilink")
 
 「YOU AND I」 「Destiny」 「SMILE AGAIN 」
 
 ## コーラス参加
 
-  - [松任谷由実](../Page/松任谷由実.md "wikilink")『[DA・DI・DA](https://ja.wikipedia.org/wiki/DA・DI・DA "wikilink")』
-  - [南佳孝](https://ja.wikipedia.org/wiki/南佳孝 "wikilink")『DAILY NEWS』
+  - [松任谷由実](../Page/松任谷由実.md "wikilink")『[DA・DI・DA](../Page/DA・DI・DA.md "wikilink")』
+  - [南佳孝](../Page/南佳孝.md "wikilink")『DAILY NEWS』
   - 佐藤博『SAILING BLASTER』『THIS BOY』『SOUND OF SCIENCE』
   - 村田和人『In The Southern Sky』
   - 山下達郎『JOY』『ON THE STREET CORNER 2』『CM全集 Vol.2』
   - 上田正樹『REAL GROOVE』『PRIVATE FILE』
   - 安藤まさひろ『MELODY GO ROUND』
-  - [FENCE OF DEFENSE](../Page/FENCE_OF_DEFENSE.md "wikilink")『[FENCE OF DEFENSE III 2235 ZERO GENERATION](https://ja.wikipedia.org/wiki/FENCE_OF_DEFENSE_III_2235_ZERO_GENERATION "wikilink")』
-  - [中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")『[Mind Game](https://ja.wikipedia.org/wiki/Mind_Game "wikilink")』『[angel hearts](https://ja.wikipedia.org/wiki/angel_hearts_\(アルバム\) "wikilink")』『[Hide'n' Seek](https://ja.wikipedia.org/wiki/Hide'n'_Seek "wikilink")』他
-  - [久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")『GROOVIN'』
-  - [GWINKO](https://ja.wikipedia.org/wiki/GWINKO "wikilink")『YESTERDAY TODAY FOREVER』『TEENAGE BEAT』
-  - [櫻井哲夫](https://ja.wikipedia.org/wiki/櫻井哲夫 "wikilink")『DEWDROPS』
-  - [少年隊](https://ja.wikipedia.org/wiki/少年隊 "wikilink")『FUNKY FLUSHIN'』(with山下達郎)
+  - [FENCE OF DEFENSE](../Page/FENCE_OF_DEFENSE.md "wikilink")『[FENCE OF DEFENSE III 2235 ZERO GENERATION](../Page/FENCE_OF_DEFENSE_III_2235_ZERO_GENERATION.md "wikilink")』
+  - [中山美穂](../Page/中山美穂.md "wikilink")『[Mind Game](https://ja.wikipedia.org/wiki/Mind_Game "wikilink")』『[angel hearts](https://ja.wikipedia.org/wiki/angel_hearts_\(アルバム\) "wikilink")』『[Hide'n' Seek](https://ja.wikipedia.org/wiki/Hide'n'_Seek "wikilink")』他
+  - [久保田利伸](../Page/久保田利伸.md "wikilink")『GROOVIN'』
+  - [GWINKO](../Page/GWINKO.md "wikilink")『YESTERDAY TODAY FOREVER』『TEENAGE BEAT』
+  - [櫻井哲夫](../Page/櫻井哲夫.md "wikilink")『DEWDROPS』
+  - [少年隊](../Page/少年隊.md "wikilink")『FUNKY FLUSHIN'』(with山下達郎)
   - [浅井ひろみ](https://ja.wikipedia.org/wiki/浅井ひろみ "wikilink")『南風に抱かれて』
 
 ## ヴォーカル参加

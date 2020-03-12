@@ -1,7 +1,7 @@
 > この記事は[THE FINAL](https://ja.wikipedia.org/wiki/THE_FINAL)から翻訳されています。
 
 
-「**THE FINAL**」（ファイナル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[Dir en greyの](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")[メジャー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")16枚目の[シングル](../Page/シングル.md "wikilink")。
+「**THE FINAL**」（ファイナル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[Dir en greyの](../Page/DIR_EN_GREY.md "wikilink")[メジャー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")16枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 

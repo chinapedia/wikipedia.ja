@@ -5,11 +5,11 @@
 
 ## 概要
 
-1999年に発売された[X5の成功を受けて](../Page/BMW・X5.md "wikilink")、3シリーズ版SUVとして発表された。BMW自身は、自社が[商標登録](https://ja.wikipedia.org/wiki/商標登録 "wikilink")した「SAV（Sports Activity Vehicle）」との[造語](https://ja.wikipedia.org/wiki/造語 "wikilink")を用いることにより、先行した[X5とともに](../Page/BMW・X5.md "wikilink")「BMWが発案した、まったく新しいカテゴリーの自動車である」と主張している。
+1999年に発売された[X5の成功を受けて](../Page/BMW・X5.md "wikilink")、3シリーズ版SUVとして発表された。BMW自身は、自社が[商標登録](https://ja.wikipedia.org/wiki/商標登録 "wikilink")した「SAV（Sports Activity Vehicle）」との[造語](../Page/造語.md "wikilink")を用いることにより、先行した[X5とともに](../Page/BMW・X5.md "wikilink")「BMWが発案した、まったく新しいカテゴリーの自動車である」と主張している。
 
-X5が、[5シリーズ](https://ja.wikipedia.org/wiki/BMW・5シリーズ "wikilink")（E39型）の構成部品を多数流用していたように、X3は[3シリーズ](https://ja.wikipedia.org/wiki/BMW・3シリーズ "wikilink")（E46型）の[プラットフォームと構成部品を多数流用している](https://ja.wikipedia.org/wiki/プラットフォーム_\(自動車\) "wikilink")。サスペンションも旧世代3シリーズ(E36・E46)と同様、フロントには [ストラット式サスペンション](../Page/ストラット式サスペンション.md "wikilink")を、リアには[セントラルアーム](https://ja.wikipedia.org/wiki/セントラルアーム "wikilink")(＝[マルチリンク式サスペンション](https://ja.wikipedia.org/wiki/マルチリンク式サスペンション "wikilink"))式サスペンションを採用している。 エクステリアはX5をそのまま一回り小さくしたようなデザインであり、バンパーの一部は樹脂がむき出しになっているなど共通点が多数存在する。駆動方式はフルタイム[4WD](https://ja.wikipedia.org/wiki/4WD "wikilink")（xDrive）で、[DSCを標準装備しているのも](https://ja.wikipedia.org/wiki/横滑り防止装置 "wikilink")[X5と同じである](../Page/BMW・X5.md "wikilink")。
+X5が、[5シリーズ](../Page/BMW・5シリーズ.md "wikilink")（E39型）の構成部品を多数流用していたように、X3は[3シリーズ](../Page/BMW・3シリーズ.md "wikilink")（E46型）の[プラットフォームと構成部品を多数流用している](../Page/プラットフォーム_\(自動車\).md "wikilink")。サスペンションも旧世代3シリーズ(E36・E46)と同様、フロントには [ストラット式サスペンション](../Page/ストラット式サスペンション.md "wikilink")を、リアには[セントラルアーム](https://ja.wikipedia.org/wiki/セントラルアーム "wikilink")(＝[マルチリンク式サスペンション](../Page/マルチリンク式サスペンション.md "wikilink"))式サスペンションを採用している。 エクステリアはX5をそのまま一回り小さくしたようなデザインであり、バンパーの一部は樹脂がむき出しになっているなど共通点が多数存在する。駆動方式はフルタイム[4WD](https://ja.wikipedia.org/wiki/4WD "wikilink")（xDrive）で、[DSCを標準装備しているのも](https://ja.wikipedia.org/wiki/横滑り防止装置 "wikilink")[X5と同じである](../Page/BMW・X5.md "wikilink")。
 
-製造は、開発も担当した[マグナ・シュタイア](https://ja.wikipedia.org/wiki/マグナ・シュタイア "wikilink")の[オーストリア](../Page/オーストリア.md "wikilink")・[グラーツ](https://ja.wikipedia.org/wiki/グラーツ "wikilink")の工場で行われた。 その後、製造拠点をアメリカ・サウスカロライナ州スパータンバーグ工場に変更された。
+製造は、開発も担当した[マグナ・シュタイア](https://ja.wikipedia.org/wiki/マグナ・シュタイア "wikilink")の[オーストリア](../Page/オーストリア.md "wikilink")・[グラーツ](../Page/グラーツ.md "wikilink")の工場で行われた。 その後、製造拠点をアメリカ・サウスカロライナ州スパータンバーグ工場に変更された。
 
 ## 初代（2004年-2011年）E83
 
@@ -17,7 +17,7 @@ X5が、[5シリーズ](https://ja.wikipedia.org/wiki/BMW・5シリーズ "wikil
 
 ### 日本での販売
 
-  - 2004年6月8日に日本市場向けに発表された。2.5L[直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink")エンジンを搭載する「2.5i」と、3.0L直列6気筒エンジンを搭載する「3.0i」がラインナップされた。全車5速[ATで](../Page/オートマチックトランスミッション.md "wikilink")「3.0i」は左ハンドル仕様も選択可能であった。
+  - 2004年6月8日に日本市場向けに発表された。2.5L[直列6気筒](../Page/直列6気筒.md "wikilink")エンジンを搭載する「2.5i」と、3.0L直列6気筒エンジンを搭載する「3.0i」がラインナップされた。全車5速[ATで](../Page/オートマチックトランスミッション.md "wikilink")「3.0i」は左ハンドル仕様も選択可能であった。
   - 2005年11月、「M Sport パッケージ」をオプション設定。
   - 2006年10月17日に、マイナーチェンジモデルが発表された\[1\]。グレード名が「2.5si」と「3.0si」と変更となり、新開発の直列6気筒エンジンと6速ATが搭載された。全車右ハンドル仕様のみの設定。
   - 2008年11月、グレード名がそれぞれ「xDrive25i」「xDrive30i」と変更された。
@@ -131,8 +131,8 @@ xDrive30i (2008年 - )</p></td>
 
   - [BMW](../Page/BMW.md "wikilink")
   - [X4](https://ja.wikipedia.org/wiki/BMW・X4 "wikilink")
-  - [3シリーズ](https://ja.wikipedia.org/wiki/BMW・3シリーズ "wikilink")
-  - [BMW M](https://ja.wikipedia.org/wiki/BMW_M "wikilink")
+  - [3シリーズ](../Page/BMW・3シリーズ.md "wikilink")
+  - [BMW M](../Page/BMW_M.md "wikilink")
 
 ## 外部リンク
 

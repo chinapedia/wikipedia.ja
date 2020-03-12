@@ -1,13 +1,13 @@
 > この記事は[CLEVER SLEAZOID](https://ja.wikipedia.org/wiki/CLEVER_SLEAZOID)から翻訳されています。
 
 
-「**CLEVER SLEAZOID**」（クレヴァー・スリーゾイド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド、[Dir en greyの楽曲で](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")、[メジャー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")18枚目の[シングル](../Page/シングル.md "wikilink")である。2005年9月21日に発売。発売元は[FIREWALL DIV.](https://ja.wikipedia.org/wiki/フリーウィル "wikilink")。
+「**CLEVER SLEAZOID**」（クレヴァー・スリーゾイド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド、[Dir en greyの楽曲で](../Page/DIR_EN_GREY.md "wikilink")、[メジャー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")18枚目の[シングル](../Page/シングル.md "wikilink")である。2005年9月21日に発売。発売元は[FIREWALL DIV.](../Page/フリーウィル.md "wikilink")。
 
 ## 概要
 
-  - アルバム『[Withering to death.](https://ja.wikipedia.org/wiki/Withering_to_death. "wikilink")』を経ての最初のシングル。アルバムとこのシングルの間には、全国ツアーを始め、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")を始めとした初の欧州公演や、ロックフェスティバル[「Rock am Ring」「Rock im Park」に参加している](https://ja.wikipedia.org/wiki/ロック・アム・リング "wikilink")。
-  - 今回「新しい感覚で」という事で、ジャケットのデザイナーや[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink") (PV) の監督なども今まで関わってきていない新しい人間を起用したという経緯がある。また、PVの撮影には生きた[マダガスカルゴキブリを用意し](https://ja.wikipedia.org/wiki/ゴキブリ "wikilink")、それらをステージ上に這わせながら演奏を行った\[1\]。ギター担当の[Dieは](https://ja.wikipedia.org/wiki/Die_\(ミュージシャン\) "wikilink")、虫嫌いであることからこのPV撮影は大変だったとのこと\[2\]。
-  - カップリングには、2005年4月29日、30日に[新木場スタジオコーストで行われたライヴの音源を](https://ja.wikipedia.org/wiki/STUDIO_COAST "wikilink")3曲収録。メンバーの意向で敢えて良くないテイクを選んでいる。映像は、ファンクラブ限定DVD『It withers and withers -Bootlegged-』で見ることができる。
+  - アルバム『[Withering to death.](../Page/Withering_to_death..md "wikilink")』を経ての最初のシングル。アルバムとこのシングルの間には、全国ツアーを始め、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")を始めとした初の欧州公演や、ロックフェスティバル[「Rock am Ring」「Rock im Park」に参加している](https://ja.wikipedia.org/wiki/ロック・アム・リング "wikilink")。
+  - 今回「新しい感覚で」という事で、ジャケットのデザイナーや[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink") (PV) の監督なども今まで関わってきていない新しい人間を起用したという経緯がある。また、PVの撮影には生きた[マダガスカルゴキブリを用意し](https://ja.wikipedia.org/wiki/ゴキブリ "wikilink")、それらをステージ上に這わせながら演奏を行った\[1\]。ギター担当の[Dieは](../Page/Die_\(ミュージシャン\).md "wikilink")、虫嫌いであることからこのPV撮影は大変だったとのこと\[2\]。
+  - カップリングには、2005年4月29日、30日に[新木場スタジオコーストで行われたライヴの音源を](../Page/STUDIO_COAST.md "wikilink")3曲収録。メンバーの意向で敢えて良くないテイクを選んでいる。映像は、ファンクラブ限定DVD『It withers and withers -Bootlegged-』で見ることができる。
 
 <!-- end list -->
 
@@ -23,9 +23,9 @@
 1.  **CLEVER SLEAZOID**
       - 詞ごとに、京の歌唱が様々に異なっている。ほぼ全英語詞ではあるものの、終盤に日本語詞が一箇所登場する。
       - 英語や発音といった部分に捉われる事自体が、自分が求めている部分ではないので、たまらなく指摘されることがくだらないとも語っている\[5\]。
-2.  **[C](https://ja.wikipedia.org/wiki/Withering_to_death. "wikilink") \[LIVE\]**
-3.  **[GARBAGE](https://ja.wikipedia.org/wiki/Withering_to_death. "wikilink") \[LIVE\]**
-4.  **[dead tree](https://ja.wikipedia.org/wiki/Withering_to_death. "wikilink") \[LIVE\]**
+2.  **[C](../Page/Withering_to_death..md "wikilink") \[LIVE\]**
+3.  **[GARBAGE](../Page/Withering_to_death..md "wikilink") \[LIVE\]**
+4.  **[dead tree](../Page/Withering_to_death..md "wikilink") \[LIVE\]**
 
 ## 収録アルバム
 

@@ -1,13 +1,13 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-**CR機動新撰組萌えよ剣**（シーアールきどうしんせんぐみもえよけん）は、[タイヨーエレック](https://ja.wikipedia.org/wiki/タイヨーエレック "wikilink")から[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[保通協の登録型式名は](../Page/保安通信協会.md "wikilink")「CR萌えよ剣」。
+**CR機動新撰組萌えよ剣**（シーアールきどうしんせんぐみもえよけん）は、[タイヨーエレック](../Page/タイヨーエレック.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[保通協の登録型式名は](../Page/保安通信協会.md "wikilink")「CR萌えよ剣」。
 
 同機の後継機・「**CR機動新撰組萌えよ剣 疾風怒濤編**」についても記載する。
 
 ## 概要
 
-[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・「[機動新撰組 萌えよ剣](https://ja.wikipedia.org/wiki/機動新撰組_萌えよ剣 "wikilink")」とのタイアップ機。
+[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・「[機動新撰組 萌えよ剣](../Page/機動新撰組_萌えよ剣.md "wikilink")」とのタイアップ機。
 
 確変大当たりのうち、「ミッションモード」の一部で当選する2R確変は初当たり時のみ潜伏し、2度目の2R確変で電チューサポートが付く仕様。
 

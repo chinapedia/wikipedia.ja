@@ -5,9 +5,9 @@
 
 ## 解説
 
-シングル作品としては「[Winding Road](https://ja.wikipedia.org/wiki/Winding_Road "wikilink")」（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")）より4ヶ月ぶりで、配信限定というフォーマットは本作が初となる。2007年[3月24日](../Page/3月24日.md "wikilink")から[6月17日](../Page/6月17日.md "wikilink")にかけて開催された『[8th LIVE CIRCUIT "OPEN MUSIC CABINET"](https://ja.wikipedia.org/wiki/"OPEN_MUSIC_CABINET"_LIVE_IN_SAITAMA_SUPER_ARENA_2007 "wikilink")』をナビゲートする楽曲として制作された\[2\]。
+シングル作品としては「[Winding Road](https://ja.wikipedia.org/wiki/Winding_Road "wikilink")」（[2006年](../Page/2006年.md "wikilink")）より4ヶ月ぶりで、配信限定というフォーマットは本作が初となる。2007年[3月24日](../Page/3月24日.md "wikilink")から[6月17日](../Page/6月17日.md "wikilink")にかけて開催された『[8th LIVE CIRCUIT "OPEN MUSIC CABINET"](https://ja.wikipedia.org/wiki/"OPEN_MUSIC_CABINET"_LIVE_IN_SAITAMA_SUPER_ARENA_2007 "wikilink")』をナビゲートする楽曲として制作された\[2\]。
 
-[着うた](../Page/着うた.md "wikilink")や[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")などで2007年[2月28日](../Page/2月28日.md "wikilink")から[6月17日](../Page/6月17日.md "wikilink")までの期間限定で配信された\[3\]。
+[着うた](../Page/着うた.md "wikilink")や[着うたフル](../Page/着うたフル.md "wikilink")などで2007年[2月28日](../Page/2月28日.md "wikilink")から[6月17日](../Page/6月17日.md "wikilink")までの期間限定で配信された\[3\]。
 
 ジャケットに写っているキャラクターは『8th LIVE CIRCUIT "OPEN MUSIC CABINET"』に登場した「フラッディ」。
 

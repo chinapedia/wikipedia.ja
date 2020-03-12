@@ -5,13 +5,13 @@
 
 ## 解説
 
-  - [2004年](https://ja.wikipedia.org/wiki/2004年 "wikilink")[8月11日](../Page/8月11日.md "wikilink")に本人の自主レーベルAMITYよりリリースされた。このシングルはレーベルのみ発売。
+  - [2004年](../Page/2004年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")に本人の自主レーベルAMITYよりリリースされた。このシングルはレーベルのみ発売。
   - ジャケットや歌詞カードも本人がデザインをしている。
-  - [オリコンウィークリーチャートでは最高](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")21位に終ったが、インディーズチャート1位を達成。ソニー時代最後のシングル「[Reality/Dancin' in Hip-Hop](https://ja.wikipedia.org/wiki/Reality/Dancin'_in_Hip-Hop "wikilink")」以来、約4年ぶりのチャートインを果たした。しかし、デビュー以来12作連続でトップ10入りを果たしていたが、本作では初のトップ10落ちとなった。
+  - [オリコンウィークリーチャートでは最高](../Page/オリコンチャート.md "wikilink")21位に終ったが、インディーズチャート1位を達成。ソニー時代最後のシングル「[Reality/Dancin' in Hip-Hop](https://ja.wikipedia.org/wiki/Reality/Dancin'_in_Hip-Hop "wikilink")」以来、約4年ぶりのチャートインを果たした。しかし、デビュー以来12作連続でトップ10入りを果たしていたが、本作では初のトップ10落ちとなった。
 
 ## 収録曲
 
-全曲作詞：鈴木亜美 / 作曲：[横山輝一](https://ja.wikipedia.org/wiki/横山輝一 "wikilink")
+全曲作詞：鈴木亜美 / 作曲：[横山輝一](../Page/横山輝一.md "wikilink")
 
 1.  FOREVER LOVE
 2.  CHAIN LOVE

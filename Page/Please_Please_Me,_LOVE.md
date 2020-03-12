@@ -1,13 +1,13 @@
 > この記事は[Please Please Me, LOVE](https://ja.wikipedia.org/wiki/Please_Please_Me,_LOVE)から翻訳されています。
 
 
-**Please Please Me, LOVE**（プリーズ・プリーズ・ミー・ラブ）は[Mi-Ke](https://ja.wikipedia.org/wiki/Mi-Ke "wikilink")の11枚目のシングル。
+**Please Please Me, LOVE**（プリーズ・プリーズ・ミー・ラブ）は[Mi-Ke](../Page/Mi-Ke.md "wikilink")の11枚目のシングル。
 
 ## 解説
 
-現状[Mi-Ke](https://ja.wikipedia.org/wiki/Mi-Ke "wikilink")のラスト・シングル。作詞は[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")のメンバーであった[上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink")が手掛けた。
+現状[Mi-Ke](../Page/Mi-Ke.md "wikilink")のラスト・シングル。作詞は[WANDS](../Page/WANDS.md "wikilink")のメンバーであった[上杉昇](../Page/上杉昇.md "wikilink")が手掛けた。
 
-[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")が唯一他者に作曲・編曲を手がけた作品で、後に、[小田佳奈子](https://ja.wikipedia.org/wiki/小田佳奈子 "wikilink")作詞による「バラードが泣いた夜」（『[Frosted Glass](https://ja.wikipedia.org/wiki/Frosted_Glass "wikilink")』収録）として、セルフカバー。
+[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")が唯一他者に作曲・編曲を手がけた作品で、後に、[小田佳奈子](../Page/小田佳奈子.md "wikilink")作詞による「バラードが泣いた夜」（『[Frosted Glass](../Page/Frosted_Glass.md "wikilink")』収録）として、セルフカバー。
 
 カップリングの『Please Please Me, LOVE (Slow Version)』はスローテンポのアレンジ違いで、前半の歌詞が英詞になっている。現在に至るまでアルバムには収録されていない。
 
@@ -16,7 +16,7 @@
 ## 収録曲
 
 1.  **Please Please Me, LOVE**
-      - 作詞：[上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink")／作曲・編曲：栗林誠一郎
+      - 作詞：[上杉昇](../Page/上杉昇.md "wikilink")／作曲・編曲：栗林誠一郎
 2.  **Please Please Me, LOVE (Slow Version)**
 3.  **Please Please Me, LOVE（オリジナル･カラオケ）**
 
@@ -38,12 +38,12 @@
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
-      - [Mi-Ke](https://ja.wikipedia.org/wiki/Mi-Ke "wikilink")
-      - [上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink")
+      - [Mi-Ke](../Page/Mi-Ke.md "wikilink")
+      - [上杉昇](../Page/上杉昇.md "wikilink")
   - [リバプールサウンド](../Page/リバプールサウンド.md "wikilink")
   - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")
-  - [1993年の音楽](https://ja.wikipedia.org/wiki/1993年の音楽 "wikilink")
+  - [1993年の音楽](../Page/1993年の音楽.md "wikilink")
 
 [Category:Mi-Keの楽曲](https://ja.wikipedia.org/wiki/Category:Mi-Keの楽曲 "wikilink") [Category:上杉昇が制作した楽曲](https://ja.wikipedia.org/wiki/Category:上杉昇が制作した楽曲 "wikilink") [Category:栗林誠一郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:栗林誠一郎が制作した楽曲 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:フジテレビ木曜10時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ木曜10時枠の連続ドラマの主題歌 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 

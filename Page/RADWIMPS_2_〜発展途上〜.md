@@ -1,11 +1,11 @@
 > この記事は[RADWIMPS 2 ](https://ja.wikipedia.org/wiki/RADWIMPS_2_)から翻訳されています。
 
 
-『**RADWIMPS 2 〜発展途上〜**』（ラッドウィンプス・ツー 〜はってんとじょう〜）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")にリリースされた[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")の2枚目のアルバムである。インディーズ最後のアルバムでもある。
+『**RADWIMPS 2 〜発展途上〜**』（ラッドウィンプス・ツー 〜はってんとじょう〜）は、[2005年](../Page/2005年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")にリリースされた[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")の2枚目のアルバムである。インディーズ最後のアルバムでもある。
 
 ## 概要
 
-現在のメンバーでの初のアルバム。『[RADWIMPS 4〜おかずのごはん〜](https://ja.wikipedia.org/wiki/RADWIMPS_4〜おかずのごはん〜 "wikilink")』の大ヒットに影響され、『[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS_\(アルバム\) "wikilink")』ともどもロングヒットとなった。
+現在のメンバーでの初のアルバム。『[RADWIMPS 4〜おかずのごはん〜](../Page/RADWIMPS_4〜おかずのごはん〜.md "wikilink")』の大ヒットに影響され、『[RADWIMPS](../Page/RADWIMPS_\(アルバム\).md "wikilink")』ともどもロングヒットとなった。
 
 ## 収録曲
 

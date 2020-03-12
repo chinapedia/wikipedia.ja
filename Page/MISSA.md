@@ -1,14 +1,14 @@
 > この記事は[MISSA](https://ja.wikipedia.org/wiki/MISSA)から翻訳されています。
 
 
-『**MISSA**』（ミサ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[Dir en greyの](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")[インディーズ](../Page/インディーズ.md "wikilink")ミニアルバム。
+『**MISSA**』（ミサ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[Dir en greyの](../Page/DIR_EN_GREY.md "wikilink")[インディーズ](../Page/インディーズ.md "wikilink")ミニアルバム。
 
 ## 概要
 
   - Dir en greyとして発売された初の音源。 1997年5月上旬、メンバー五人でスタジオに3泊こもり、レコーディングを行った。
   - 「霧と繭」はもとは「惨劇の夜」という楽曲であったが、「歌詞が残酷だ」というレコード会社のクレームにより、タイトルと歌詞を変更しての収録となった。\[1\]また、[ギター](../Page/ギター.md "wikilink")ソロも若干のリアレンジがなされている。しかし、1998よりのライヴでは「霧と繭」ではなく「惨劇の夜」が演奏されている。
   - 販売元がワーナー、ソニー、フリーウィルと変わっておりワーナー販売分だけ品番が異なる。
-  - トータル・プロデューサーとして元[COLORの](https://ja.wikipedia.org/wiki/COLOR_\(ロックバンド\) "wikilink")[DYNAMITE TOMMY](https://ja.wikipedia.org/wiki/ダイナマイト・トミー "wikilink")、アーティスト・プロデューサーとして[nuvɔ:guのCHIKA](https://ja.wikipedia.org/wiki/ヴォーグ_\(バンド\) "wikilink")、サウンド・アドバイザーとしてnuvɔ:guのJEANAとCIVAが参加している。
+  - トータル・プロデューサーとして元[COLORの](../Page/COLOR_\(ロックバンド\).md "wikilink")[DYNAMITE TOMMY](../Page/ダイナマイト・トミー.md "wikilink")、アーティスト・プロデューサーとして[nuvɔ:guのCHIKA](../Page/ヴォーグ_\(バンド\).md "wikilink")、サウンド・アドバイザーとしてnuvɔ:guのJEANAとCIVAが参加している。
 
 ## 収録曲
 

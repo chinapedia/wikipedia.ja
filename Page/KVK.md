@@ -5,7 +5,7 @@
 
 ## 会社概要
 
-水栓金具を中心に水道用継手・配管部材などを製造するメーカーである。これらの製品は[工務店](https://ja.wikipedia.org/wiki/工務店 "wikilink")や建築事業者向けの建築用資材販売店のほか、ホームセンターなどにも流通しており一般消費者が購入することができる。 また、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")（[パナソニック ホームズ](https://ja.wikipedia.org/wiki/パナソニック_ホームズ "wikilink")）や[クリナップ](https://ja.wikipedia.org/wiki/クリナップ "wikilink")、[タカラスタンダード](https://ja.wikipedia.org/wiki/タカラスタンダード "wikilink")などといったハウスメーカーや住宅設備機器メーカーの供給メーカーとして金具（シャワー水栓やカランなどの蛇口）に同社の商品が使われている。
+水栓金具を中心に水道用継手・配管部材などを製造するメーカーである。これらの製品は[工務店](https://ja.wikipedia.org/wiki/工務店 "wikilink")や建築事業者向けの建築用資材販売店のほか、ホームセンターなどにも流通しており一般消費者が購入することができる。 また、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")（[パナソニック ホームズ](../Page/パナソニック_ホームズ.md "wikilink")）や[クリナップ](../Page/クリナップ.md "wikilink")、[タカラスタンダード](../Page/タカラスタンダード.md "wikilink")などといったハウスメーカーや住宅設備機器メーカーの供給メーカーとして金具（シャワー水栓やカランなどの蛇口）に同社の商品が使われている。
 
 [1981年](../Page/1981年.md "wikilink")に同社から発売された浴室向け水栓金具の「お湯ぴた」は、テレビCMを製作、放映されたことによって、同社の名が世間に浸透されることになった。1980年代後期からは[中国にも進出し](../Page/中華人民共和国.md "wikilink")、中国でも取り扱いがされている。
 
@@ -16,7 +16,7 @@
   - [1939年](../Page/1939年.md "wikilink") 北村鋳造所創業。
   - [1949年](../Page/1949年.md "wikilink") **北村バルブ株式会社**設立。
   - [1989年](../Page/1989年.md "wikilink") [中国](../Page/中華人民共和国.md "wikilink")・[遼寧省](../Page/遼寧省.md "wikilink")に大連北村閥門有限公司を設立。
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink") **株式会社ケーブイケー**に商号変更。
+  - [1992年](../Page/1992年.md "wikilink") **株式会社ケーブイケー**に商号変更。
   - [1993年](../Page/1993年.md "wikilink") 株式を店頭公開（現在の[JASDAQ](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")）。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 株式会社喜多村合金製作所の水栓事業を譲り受ける。
   - 2018年　本社工場を富加工場に移設。

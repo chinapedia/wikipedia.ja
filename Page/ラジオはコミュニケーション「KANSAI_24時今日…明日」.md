@@ -1,7 +1,7 @@
 > この記事は[KANSAI 24](https://ja.wikipedia.org/wiki/KANSAI_24)から翻訳されています。
 
 
-**ラジオはコミュニケーション「KANSAI 24時今日…明日」**は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月31日](../Page/8月31日.md "wikilink")から[9月1日](../Page/9月1日.md "wikilink")まで、[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")に本社をもつテレビ・ラジオ放送局、[毎日放送](../Page/毎日放送.md "wikilink")の開局記念に放送された、ラジオ特別番組である。なお、同じタイトル、同じ趣旨で翌年の1988年、1989年にも番組が放送されているが、この項では第1回にあたる1987年の放送について取り上げる。
+**ラジオはコミュニケーション「KANSAI 24時今日…明日」**は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月31日](../Page/8月31日.md "wikilink")から[9月1日](../Page/9月1日.md "wikilink")まで、[大阪市](../Page/大阪市.md "wikilink")に本社をもつテレビ・ラジオ放送局、[毎日放送](../Page/毎日放送.md "wikilink")の開局記念に放送された、ラジオ特別番組である。なお、同じタイトル、同じ趣旨で翌年の1988年、1989年にも番組が放送されているが、この項では第1回にあたる1987年の放送について取り上げる。
 
 ## 番組概要
 
@@ -28,32 +28,32 @@
 ### 日産大阪ギャラリー祭り
 
   - 放送日時　8月31日（月）21:00〜22:00
-  - 出演　[柏木宏之](https://ja.wikipedia.org/wiki/柏木宏之_\(アナウンサー\) "wikilink")、[何人トリオ](https://ja.wikipedia.org/wiki/何人トリオ "wikilink")、[勇直子](https://ja.wikipedia.org/wiki/勇直子 "wikilink") ほか
+  - 出演　[柏木宏之](https://ja.wikipedia.org/wiki/柏木宏之_\(アナウンサー\) "wikilink")、[何人トリオ](https://ja.wikipedia.org/wiki/何人トリオ "wikilink")、[勇直子](../Page/勇直子.md "wikilink") ほか
 
 ### MBSヤングタウン「明石家さんまコンサート」
 
   - 放送日時　8月31日（月）22:00〜9月1日（火）1:00
-  - 出演　[明石家さんま](../Page/明石家さんま.md "wikilink")、[長江健次](../Page/長江健次.md "wikilink")、[伊東正治](https://ja.wikipedia.org/wiki/伊東正治 "wikilink")、[大津びわ子](https://ja.wikipedia.org/wiki/大津びわ子 "wikilink")、[さんまバンド](https://ja.wikipedia.org/wiki/さんまバンド "wikilink")
+  - 出演　[明石家さんま](../Page/明石家さんま.md "wikilink")、[長江健次](../Page/長江健次.md "wikilink")、[伊東正治](../Page/伊東正治.md "wikilink")、[大津びわ子](https://ja.wikipedia.org/wiki/大津びわ子 "wikilink")、[さんまバンド](https://ja.wikipedia.org/wiki/さんまバンド "wikilink")
 
 ### 朝がくるまでしゃべりすぎ 徹夜トーキングライブ
 
   - 放送日時　9月1日（火）1:00〜6:00
-  - 出演　[河合奈保子](https://ja.wikipedia.org/wiki/河合奈保子 "wikilink")、[円広志](https://ja.wikipedia.org/wiki/円広志 "wikilink")、[嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")、[桂雀々](https://ja.wikipedia.org/wiki/桂雀々 "wikilink")、[MAKOTO](https://ja.wikipedia.org/wiki/北野誠_\(タレント\) "wikilink")、伊東正治
+  - 出演　[河合奈保子](../Page/河合奈保子.md "wikilink")、[円広志](../Page/円広志.md "wikilink")、[嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")、[桂雀々](../Page/桂雀々.md "wikilink")、[MAKOTO](../Page/北野誠_\(タレント\).md "wikilink")、伊東正治
 
 ### あなたの家からおはようMBSスペシャル
 
   - 放送日時　9月1日（火）6:00〜8:00
-  - 出演　[川村龍一](../Page/川村龍一.md "wikilink")、[豊島美雪](https://ja.wikipedia.org/wiki/豊島美雪 "wikilink")
+  - 出演　[川村龍一](../Page/川村龍一.md "wikilink")、[豊島美雪](../Page/豊島美雪.md "wikilink")
 
 ### ありがとう上方カルチャーにせまる
 
   - 放送日時　9月1日（火）8:00〜10:00
-  - 出演　[浜村淳](../Page/浜村淳.md "wikilink")、[鈴木美智子](https://ja.wikipedia.org/wiki/鈴木美智子 "wikilink")
+  - 出演　[浜村淳](../Page/浜村淳.md "wikilink")、[鈴木美智子](../Page/鈴木美智子.md "wikilink")
 
 ### 空からごめんやす
 
   - 放送日時　9月1日（火）10:00〜12:00
-  - 出演　[馬場章夫](https://ja.wikipedia.org/wiki/馬場章夫 "wikilink")、[小山乃里子](https://ja.wikipedia.org/wiki/小山乃里子 "wikilink")
+  - 出演　[馬場章夫](../Page/馬場章夫.md "wikilink")、[小山乃里子](../Page/小山乃里子.md "wikilink")
 
 ### それゆけ！大阪経済
 
@@ -72,6 +72,6 @@
 ## 関連項目
 
   - [毎日放送開局40周年記念特別番組](../Page/毎日放送開局40周年記念特別番組.md "wikilink")
-  - [日本の長時間特別番組一覧](https://ja.wikipedia.org/wiki/日本の長時間特別番組一覧 "wikilink")
+  - [日本の長時間特別番組一覧](../Page/日本の長時間特別番組一覧.md "wikilink")
 
 [Category:毎日放送ラジオ番組の歴史](https://ja.wikipedia.org/wiki/Category:毎日放送ラジオ番組の歴史 "wikilink") [Category:ラジオの超長時間番組](https://ja.wikipedia.org/wiki/Category:ラジオの超長時間番組 "wikilink") [Category:1987年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のラジオ番組_\(日本\) "wikilink")

@@ -1,12 +1,12 @@
 > この記事は[SoftBank 912T](https://ja.wikipedia.org/wiki/SoftBank_912T)から翻訳されています。
 
 
-**SoftBank 912T**（ソフトバンク きゅういちにティー）は[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")が開発し[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[携帯電話](../Page/携帯電話.md "wikilink")端末。[2007年](../Page/2007年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")に発売された。
+**SoftBank 912T**（ソフトバンク きゅういちにティー）は[東芝](../Page/東芝.md "wikilink")が開発し[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[携帯電話](../Page/携帯電話.md "wikilink")端末。[2007年](../Page/2007年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")に発売された。
 
 ## 主な機能・サービス
 
   - タッチスイッチ
-  - ミュージックプレイヤー（[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")によるワイヤレス視聴対応。）
+  - ミュージックプレイヤー（[Bluetooth](../Page/Bluetooth.md "wikilink")によるワイヤレス視聴対応。）
   - Bluetooth（[SCMS](../Page/SCMS.md "wikilink")-Tに対応した[A2DP](https://ja.wikipedia.org/wiki/A2DP "wikilink")をサポート）
   - [画面デコ](http://www.toshiba.co.jp/product/etsg/cmt/softbank/910t/910t_06.htm)
   - [フォトdeショー](https://ja.wikipedia.org/wiki/フォトdeショー "wikilink")
@@ -15,19 +15,19 @@
   - [赤外線](../Page/赤外線.md "wikilink")機能（[IrDA](../Page/IrDA.md "wikilink")対応、[IrSimple](https://ja.wikipedia.org/wiki/IrSimple "wikilink")は未対応）
   - [QRコード](../Page/QRコード.md "wikilink")読み取り・作成
   - [バイリンガル](https://ja.wikipedia.org/wiki/バイリンガル "wikilink")
-  - 3D待受キャラクター「[くーまん](https://ja.wikipedia.org/wiki/くーまん "wikilink")」、「[くーまんの部屋](https://ja.wikipedia.org/wiki/くーまん#くーまんの部屋 "wikilink")」
+  - 3D待受キャラクター「[くーまん](../Page/くーまん.md "wikilink")」、「[くーまんの部屋](https://ja.wikipedia.org/wiki/くーまん#くーまんの部屋 "wikilink")」
   - 今すぐ読メール
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| [サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")                              |
-| [S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")                                 |
-| [S\!ケータイ動画](https://ja.wikipedia.org/wiki/S!ケータイ動画 "wikilink")                           |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")                                  |
-| [デルモジ表示](https://ja.wikipedia.org/wiki/デルモジ表示 "wikilink")                                |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| [サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")           |
+| [S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")              |
+| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                           |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")               |
+| [デルモジ表示](https://ja.wikipedia.org/wiki/デルモジ表示 "wikilink")             |
 
-[2014年](../Page/2014年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")以降、[モバイルSuica](https://ja.wikipedia.org/wiki/モバイルSuica "wikilink")は非対応。
+[2014年](../Page/2014年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")以降、[モバイルSuica](../Page/モバイルSuica.md "wikilink")は非対応。
 
 ## ワンセグ
 
@@ -40,7 +40,7 @@
 ## 関連項目
 
   - [ソフトバンクモバイルの端末一覧](https://ja.wikipedia.org/wiki/ソフトバンクモバイルの端末一覧 "wikilink")
-  - [H11T](https://ja.wikipedia.org/wiki/H11T "wikilink")（本機をベースとした[イー・モバイル](https://ja.wikipedia.org/wiki/イー・モバイル "wikilink")向けの音声用端末。[ドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")[ローミング](../Page/ローミング.md "wikilink")に対応するが[FeliCa](../Page/FeliCa.md "wikilink")用ポートが割愛されている）
+  - [H11T](../Page/H11T.md "wikilink")（本機をベースとした[イー・モバイル](../Page/イー・モバイル.md "wikilink")向けの音声用端末。[ドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")[ローミング](../Page/ローミング.md "wikilink")に対応するが[FeliCa](../Page/FeliCa.md "wikilink")用ポートが割愛されている）
 
 ## 外部リンク
 

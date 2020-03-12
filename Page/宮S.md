@@ -1,16 +1,16 @@
 > この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
 
 
-**宮S -Secret Prince-** （クンS・シークレットプリンス、） [大韓民国](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")の[文化放送](https://ja.wikipedia.org/wiki/文化放送_\(韓国\) "wikilink")(MBC)で放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。[宮 -Love in Palace-に続く](https://ja.wikipedia.org/wiki/宮_-Love_in_Palace- "wikilink")、王室ラブストーリー「宮シリーズ」の第2弾。全20話。
+**宮S -Secret Prince-** （クンS・シークレットプリンス、） [大韓民国](../Page/大韓民国.md "wikilink")の[文化放送](../Page/文化放送_\(韓国\).md "wikilink")(MBC)で放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。[宮 -Love in Palace-に続く](https://ja.wikipedia.org/wiki/宮_-Love_in_Palace- "wikilink")、王室ラブストーリー「宮シリーズ」の第2弾。全20話。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では、[2007年](../Page/2007年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")より[Mnet](https://ja.wikipedia.org/wiki/Mnet "wikilink")で日本初放送。また2007年[8月15日](../Page/8月15日.md "wikilink")から[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")にて毎週月曜から金曜15時59分に放送された。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では、[2007年](../Page/2007年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")より[Mnet](../Page/Mnet.md "wikilink")で日本初放送。また2007年[8月15日](../Page/8月15日.md "wikilink")から[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")にて毎週月曜から金曜15時59分に放送された。
 
 ## 登場人物・キャスト
 
-  - イ・フ / 永城公: [チェ・ドングク/SE7EN](https://ja.wikipedia.org/wiki/SE7EN "wikilink")
+  - イ・フ / 永城公: [チェ・ドングク/SE7EN](../Page/SE7EN.md "wikilink")
   - ヤン・スニ： [ホ・イジェ](https://ja.wikipedia.org/wiki/ホ・イジェ "wikilink")
   - イ・ジュン / 文成公： [カンドゥ](https://ja.wikipedia.org/wiki/ソン・ヨンシク "wikilink")
-  - シン・セリョン：[パク・シネ](https://ja.wikipedia.org/wiki/パク・シネ "wikilink")
+  - シン・セリョン：[パク・シネ](../Page/パク・シネ.md "wikilink")
   - 華仁女皇帝: [ミョン・セビン](https://ja.wikipedia.org/wiki/ミョン・セビン "wikilink")
   - 皇太后: [オ・ミヒ](https://ja.wikipedia.org/wiki/オ・ミヒ "wikilink")
   - 孝聖大公: [ハ・ジェヨン](https://ja.wikipedia.org/wiki/ハ・ジェヨン "wikilink")

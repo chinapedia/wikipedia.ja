@@ -8,7 +8,7 @@
 ## 主な機能・サービス
 
   - ミュージックプレイヤー
-  - [Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")
+  - [Bluetooth](../Page/Bluetooth.md "wikilink")
   - [マイ絵文字](https://ja.wikipedia.org/wiki/マイ絵文字 "wikilink")
   - [フィーリングメール](https://ja.wikipedia.org/wiki/フィーリングメール "wikilink")
   - [カスタムスクリーン](https://ja.wikipedia.org/wiki/カスタムスクリーン "wikilink")
@@ -26,23 +26,23 @@
   - 急速充電器 SHCAA1
   - ユーティリティーソフトウエア（試供品）
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| [サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")                              |
-| [S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")                                 |
-| [PCサイトブラウザ](https://ja.wikipedia.org/wiki/PCサイトブラウザ "wikilink")                          |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| [S\!FeliCa](https://ja.wikipedia.org/wiki/S!FeliCa "wikilink")                           |
-| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")                                  |
-| ~~[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")~~                                |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| [サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")           |
+| [S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")              |
+| [PCサイトブラウザ](https://ja.wikipedia.org/wiki/PCサイトブラウザ "wikilink")       |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| [S\!FeliCa](../Page/S!FeliCa.md "wikilink")                           |
+| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")               |
+| ~~[ワンセグ](../Page/ワンセグ.md "wikilink")~~                                |
 
 ## 特徴
 
-  - 814SH、815SHの両機は諸元や機能は同じで、それぞれ同社の従来モデル[810SH](https://ja.wikipedia.org/wiki/SoftBank_810SH "wikilink")、[811SHの後継機にあたる](https://ja.wikipedia.org/wiki/SoftBank_811SH "wikilink")。
+  - 814SH、815SHの両機は諸元や機能は同じで、それぞれ同社の従来モデル[810SH](../Page/SoftBank_810SH.md "wikilink")、[811SHの後継機にあたる](../Page/SoftBank_811SH.md "wikilink")。
 
 <!-- end list -->
 
-  - 搭載する[VGA](https://ja.wikipedia.org/wiki/VGA "wikilink")液晶は、[810SH](https://ja.wikipedia.org/wiki/SoftBank_810SH "wikilink")、[811SHとの比較において約](https://ja.wikipedia.org/wiki/SoftBank_811SH "wikilink")1.6倍の明るさ･コントラストを実現。
+  - 搭載する[VGA](https://ja.wikipedia.org/wiki/VGA "wikilink")液晶は、[810SH](../Page/SoftBank_810SH.md "wikilink")、[811SHとの比較において約](../Page/SoftBank_811SH.md "wikilink")1.6倍の明るさ･コントラストを実現。
 
 <!-- end list -->
 

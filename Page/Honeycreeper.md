@@ -10,25 +10,25 @@
         作詞：[井上陽水](../Page/井上陽水.md "wikilink")　作曲・編曲：[奥田民生](../Page/奥田民生.md "wikilink")
 2.  **Ain’t Gonna Cut It**
       -
-        作詞・作曲：[Butch Walker](https://ja.wikipedia.org/wiki/ブッチ・ウォーカー "wikilink"),[Robert Schwartzman](https://ja.wikipedia.org/wiki/Robert_Schwartzman "wikilink")
+        作詞・作曲：[Butch Walker](../Page/ブッチ・ウォーカー.md "wikilink"),[Robert Schwartzman](https://ja.wikipedia.org/wiki/Robert_Schwartzman "wikilink")
 3.  **君とオートバイ**
       -
-        作詞・作曲：[チバユウスケ](https://ja.wikipedia.org/wiki/チバユウスケ "wikilink")
+        作詞・作曲：[チバユウスケ](../Page/チバユウスケ.md "wikilink")
 4.  **[くちびるモーション](https://ja.wikipedia.org/wiki/オリエンタル・ダイヤモンド/くちびるモーション "wikilink")**
       -
-        作詞・作曲・編曲：[吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink")
+        作詞・作曲・編曲：[吉井和哉](../Page/吉井和哉.md "wikilink")
 5.  **はやいクルマ**
       -
-        作詞・作曲：[真島昌利](https://ja.wikipedia.org/wiki/真島昌利 "wikilink")
+        作詞・作曲：[真島昌利](../Page/真島昌利.md "wikilink")
 6.  **サヨナラサマー**
       -
-        作詞・作曲・編曲：[山中さわお](https://ja.wikipedia.org/wiki/山中さわお "wikilink")
+        作詞・作曲・編曲：[山中さわお](../Page/山中さわお.md "wikilink")
 7.  **[boom boom beat](https://ja.wikipedia.org/wiki/Boom_boom_beat/お江戸流れ星IV "wikilink")**
       -
         作詞：PUFFY　作曲・編曲：Anders Hellgren & David Myhr
 8.  **妖怪PUFFY**
       -
-        作詞：[宮藤官九郎](../Page/宮藤官九郎.md "wikilink")　作曲・編曲：[富澤タク](https://ja.wikipedia.org/wiki/富澤タク "wikilink")
+        作詞：[宮藤官九郎](../Page/宮藤官九郎.md "wikilink")　作曲・編曲：[富澤タク](../Page/富澤タク.md "wikilink")
 9.  **Closet Full Of Love**
       -
         作詞：PUFFY　作曲：Butch Walker , Kara DioGuardi

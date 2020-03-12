@@ -1,7 +1,7 @@
 > この記事は[Sketchbook](https://ja.wikipedia.org/wiki/Sketchbook)から翻訳されています。
 
 
-『**sketchbook**（スケッチブック）は、[風味堂](https://ja.wikipedia.org/wiki/風味堂 "wikilink")の2枚目の[インディーズ](../Page/インディーズ.md "wikilink")[ミニアルバム](../Page/コンパクト盤.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")に[力塾から発売された](https://ja.wikipedia.org/wiki/ブルース・インターアクションズ "wikilink")。
+『**sketchbook**（スケッチブック）は、[風味堂](../Page/風味堂.md "wikilink")の2枚目の[インディーズ](../Page/インディーズ.md "wikilink")[ミニアルバム](../Page/コンパクト盤.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")に[力塾から発売された](https://ja.wikipedia.org/wiki/ブルース・インターアクションズ "wikilink")。
 
 ## 概要
 
@@ -12,7 +12,7 @@
 1.  **アスファルト人生**
 2.  **エクスタシー**
       -
-        この曲の[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")版**「真夏のエクスタシー」**はシングルとして発売されている他、メジャー1stアルバム[風味堂にも収録されている](https://ja.wikipedia.org/wiki/風味堂_\(アルバム\) "wikilink")。
+        この曲の[リメイク](../Page/リメイク.md "wikilink")版**「真夏のエクスタシー」**はシングルとして発売されている他、メジャー1stアルバム[風味堂にも収録されている](../Page/風味堂_\(アルバム\).md "wikilink")。
 3.  **夜空を見上げて**
 4.  **車窓**
 5.  **涙をふいて**

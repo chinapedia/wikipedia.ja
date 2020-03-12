@@ -15,7 +15,7 @@
       - 作詞：相川七瀬、[織田哲郎](../Page/織田哲郎.md "wikilink") / 作曲・編曲：織田哲郎
     <!-- end list -->
       -
-        シングルA面では初めて本人が作詞に参加。[住友生命保険](https://ja.wikipedia.org/wiki/住友生命保険 "wikilink")のCMソングにも起用された。
+        シングルA面では初めて本人が作詞に参加。[住友生命保険](../Page/住友生命保険.md "wikilink")のCMソングにも起用された。
 2.  **最後の夜**
       - 作詞：相川七瀬 / 作曲・編曲：織田哲郎
 3.  **LIKE A HARD RAIN (オリジナルカラオケ)**
@@ -24,7 +24,7 @@
 
 **LIKE A HARD RAIN**
 
-  - [Red](https://ja.wikipedia.org/wiki/Red_\(相川七瀬のアルバム\) "wikilink")
+  - [Red](../Page/Red_\(相川七瀬のアルバム\).md "wikilink")
   - [ID](https://ja.wikipedia.org/wiki/ID_\(相川七瀬のアルバム\) "wikilink")
   - [NANASE AIKAWA BEST ALBUM "ROCK or DIE"](https://ja.wikipedia.org/wiki/NANASE_AIKAWA_BEST_ALBUM_"ROCK_or_DIE" "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[KBS](https://ja.wikipedia.org/wiki/KBS)から翻訳されています。
 
 
-**KBS交響楽団**（ケービーエスこうきょうがくだん、）は、[1956年](../Page/1956年.md "wikilink")に設立された[韓国の](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[オーケストラ](../Page/オーケストラ.md "wikilink")。[韓国放送公社](https://ja.wikipedia.org/wiki/韓国放送公社 "wikilink")（KBS）に所属。[KBSホールと](https://ja.wikipedia.org/wiki/KBSホール_\(韓国\) "wikilink")[芸術の殿堂](https://ja.wikipedia.org/wiki/芸術の殿堂 "wikilink")で定期演奏会を行う。
+**KBS交響楽団**（ケービーエスこうきょうがくだん、）は、[1956年](../Page/1956年.md "wikilink")に設立された[韓国の](../Page/大韓民国.md "wikilink")[オーケストラ](../Page/オーケストラ.md "wikilink")。[韓国放送公社](../Page/韓国放送公社.md "wikilink")（KBS）に所属。[KBSホールと](https://ja.wikipedia.org/wiki/KBSホール_\(韓国\) "wikilink")[芸術の殿堂](../Page/芸術の殿堂.md "wikilink")で定期演奏会を行う。
 
 ## 指揮者
 
@@ -12,14 +12,14 @@
   - [元京洙](https://ja.wikipedia.org/wiki/元京洙 "wikilink")（1986年-1988年）
   - [オトマール・マーガ](https://ja.wikipedia.org/wiki/オトマール・マーガ "wikilink")（1992年-1996年）
   - [チョン・ミョンフン](../Page/チョン・ミョンフン.md "wikilink")（1999年）
-  - [ドミトリー・キタエンコ](https://ja.wikipedia.org/wiki/ドミトリー・キタエンコ "wikilink")（1999年-2004年）
+  - [ドミトリー・キタエンコ](../Page/ドミトリー・キタエンコ.md "wikilink")（1999年-2004年）
   - [ハム・シンイク](https://ja.wikipedia.org/wiki/ハム・シンイク "wikilink")（2010年-2012年）
   - [ヨエル・レヴィ](https://ja.wikipedia.org/wiki/ヨエル・レヴィ "wikilink")（2013年-2019年）
 
 首席客演指揮者
 
   - [ワルター・ギレーゼン](https://ja.wikipedia.org/wiki/ワルター・ギレーゼン "wikilink")（1982年–1984年）
-  - [モーシェ・アツモン](https://ja.wikipedia.org/wiki/モーシェ・アツモン "wikilink")（1990年–1992年）
+  - [モーシェ・アツモン](../Page/モーシェ・アツモン.md "wikilink")（1990年–1992年）
   - [ヴァフタング・ジョルダニア](https://ja.wikipedia.org/wiki/ヴァフタング・ジョルダニア "wikilink")（1990年–1996年）
   - [朴恩聖](https://ja.wikipedia.org/wiki/朴恩聖 "wikilink")（2000年–2002年）
   - [クァク・スン](https://ja.wikipedia.org/wiki/クァク・スン "wikilink")（2004年–2006年）
@@ -34,9 +34,9 @@
 
 ## 日本との関係
 
-放送局所属のオーケストラということもあり、[2002年](../Page/2002年.md "wikilink")[ワールドカップサッカー日韓共催記念として](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")と相互に相手国を訪問し、記念演奏会を開いた。
+放送局所属のオーケストラということもあり、[2002年](../Page/2002年.md "wikilink")[ワールドカップサッカー日韓共催記念として](../Page/FIFAワールドカップ.md "wikilink")[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")と相互に相手国を訪問し、記念演奏会を開いた。
 
-その5年後、[2007年](../Page/2007年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")にはアジア・オーケストラ・ウィークに参加するため6回目の来日。[東京オペラシティ](https://ja.wikipedia.org/wiki/東京オペラシティ "wikilink")と[ザ・シンフォニーホール](https://ja.wikipedia.org/wiki/ザ・シンフォニーホール "wikilink")（大阪市）で公演を行う。
+その5年後、[2007年](../Page/2007年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")にはアジア・オーケストラ・ウィークに参加するため6回目の来日。[東京オペラシティ](../Page/東京オペラシティ.md "wikilink")と[ザ・シンフォニーホール](../Page/ザ・シンフォニーホール.md "wikilink")（大阪市）で公演を行う。
 
 ## 外部リンク
 

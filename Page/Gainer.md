@@ -7,11 +7,11 @@
 
 2014年現在光文社発売の月刊ファッション誌では唯一の男性誌。20代後半から30代前後、いわゆる[アラサー](https://ja.wikipedia.org/wiki/アラサー "wikilink")世代のサラリーマンをターゲットとし、「**いろいろなことをGain（獲得）していきたい独身ビジネスマンのための雑誌**」とのテーマを掲げる。主に独身者をターゲットと想定する。
 
-掲載されるコーディネートは、ジャケット、スーツスタイルが中心であるが、ポロシャツなどのカジュアルアイテム、アクセサリーに関する記事も充実している。2013年頃まで巻頭に[コーチの新作バッグを紹介するコラムが連載されていた](https://ja.wikipedia.org/wiki/コーチ_\(企業\) "wikilink")。
+掲載されるコーディネートは、ジャケット、スーツスタイルが中心であるが、ポロシャツなどのカジュアルアイテム、アクセサリーに関する記事も充実している。2013年頃まで巻頭に[コーチの新作バッグを紹介するコラムが連載されていた](../Page/コーチ_\(企業\).md "wikilink")。
 
-ライバル誌は、2010年12月まで発売日が同じであった「[MEN'S CLUB](https://ja.wikipedia.org/wiki/MEN'S_CLUB "wikilink")」（[アシェット婦人画報社=当時](https://ja.wikipedia.org/wiki/ハースト婦人画報社 "wikilink")）であるとされている\[1\]。スーツスタイル中心の掲載内容も近いものといえるが、「MEN'S CLUB」の対象年齢は35歳前後であり、「Gainer」とは必ずしも一致しない。なお、2011年1月から「MEN'S CLUB」の発売日は毎月24日に変更された。
+ライバル誌は、2010年12月まで発売日が同じであった「[MEN'S CLUB](https://ja.wikipedia.org/wiki/MEN'S_CLUB "wikilink")」（[アシェット婦人画報社=当時](../Page/ハースト婦人画報社.md "wikilink")）であるとされている\[1\]。スーツスタイル中心の掲載内容も近いものといえるが、「MEN'S CLUB」の対象年齢は35歳前後であり、「Gainer」とは必ずしも一致しない。なお、2011年1月から「MEN'S CLUB」の発売日は毎月24日に変更された。
 
-同じ光文社の『[JJ](https://ja.wikipedia.org/wiki/JJ_\(雑誌\) "wikilink")』とは兄弟/姉妹誌の関係にあり、女性が登場する誌面では『JJ』の専属・OGモデル（[杉本有美](https://ja.wikipedia.org/wiki/杉本有美 "wikilink")など）が起用されている。また、初期は、現在の読者ターゲット層より若い25歳前後をターゲットにしており、当時の表紙にも「JJ FOR MEN」との記載がなされていた\[2\]ように、JJ世代の女子大生の彼氏が読む男性ファッション雑誌という位置付けだった\[3\]。掲載商品の価格帯などの関係もあり、対象年齢が上がった現在では、『[CLASSY.](https://ja.wikipedia.org/wiki/CLASSY. "wikilink")』と近い立ち位置になっている。
+同じ光文社の『[JJ](../Page/JJ_\(雑誌\).md "wikilink")』とは兄弟/姉妹誌の関係にあり、女性が登場する誌面では『JJ』の専属・OGモデル（[杉本有美](https://ja.wikipedia.org/wiki/杉本有美 "wikilink")など）が起用されている。また、初期は、現在の読者ターゲット層より若い25歳前後をターゲットにしており、当時の表紙にも「JJ FOR MEN」との記載がなされていた\[2\]ように、JJ世代の女子大生の彼氏が読む男性ファッション雑誌という位置付けだった\[3\]。掲載商品の価格帯などの関係もあり、対象年齢が上がった現在では、『[CLASSY.](../Page/CLASSY..md "wikilink")』と近い立ち位置になっている。
 
 2014年7月をもって編集長が古川仁から新倉博史に交代した。
 
@@ -48,7 +48,7 @@
   - 伊藤洋一の「日本力」を上げる12章
   - あなたのココがズレている
 
-このほか、特定スポンサーのレギュラー出稿によるタイアップ（[記事広告](https://ja.wikipedia.org/wiki/記事広告 "wikilink")）となっている連載企画も見られる。
+このほか、特定スポンサーのレギュラー出稿によるタイアップ（[記事広告](../Page/記事広告.md "wikilink")）となっている連載企画も見られる。
 
 ## バックナンバー
 
@@ -60,19 +60,19 @@
 | [2010年4月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=1879)  | [松坂大輔](https://ja.wikipedia.org/wiki/松坂大輔 "wikilink")         | ビジネスの着こなしQ\&A100          |
 | [2010年5月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=1898)  | [玉木宏](https://ja.wikipedia.org/wiki/玉木宏 "wikilink")           | これが正解コーディネート              |
 | [2010年6月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=1913)  | [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")　AKIRA | The Wedding Gainer        |
-| [2010年7月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=1932)  | [木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")         | 「夏に勝つ！」スタイル大研究            |
-| [2010年8月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=1948)  | [小栗旬](https://ja.wikipedia.org/wiki/小栗旬 "wikilink")           | ボクらは肉食系-やっぱり女子が好き！        |
+| [2010年7月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=1932)  | [木村拓哉](../Page/木村拓哉.md "wikilink")                            | 「夏に勝つ！」スタイル大研究            |
+| [2010年8月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=1948)  | [小栗旬](../Page/小栗旬.md "wikilink")                              | ボクらは肉食系-やっぱり女子が好き！        |
 | [2010年9月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=1967)  | [水嶋ヒロ](https://ja.wikipedia.org/wiki/水嶋ヒロ "wikilink")         | 東西SNAP　100人の夏勝負小物         |
 | [2010年10月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=1986) | （なし）                                                          | 最新ビジネススタイル　PERFECTガイド     |
-| [2010年11月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=2003) | [岡田准一](https://ja.wikipedia.org/wiki/岡田准一 "wikilink")         | 「女のコはスーツが好き」伝説            |
-| [2010年12月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=2022) | [成宮寛貴](https://ja.wikipedia.org/wiki/成宮寛貴 "wikilink")         | アウターの着こなし　これが正解！          |
+| [2010年11月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=2003) | [岡田准一](../Page/岡田准一.md "wikilink")                            | 「女のコはスーツが好き」伝説            |
+| [2010年12月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=2022) | [成宮寛貴](../Page/成宮寛貴.md "wikilink")                            | アウターの着こなし　これが正解！          |
 | [2011年1月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=2042)  | [松山ケンイチ](https://ja.wikipedia.org/wiki/松山ケンイチ "wikilink")     | あなたに足りないのは靴かもしれない         |
 | [2011年2月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=2060)  | [三浦春馬](https://ja.wikipedia.org/wiki/三浦春馬 "wikilink")         | いい男の新基準･2011              |
-| [2011年3月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=2077)  | [斎藤工](https://ja.wikipedia.org/wiki/斎藤工 "wikilink")           | 春もジャケットにおまかせ！             |
+| [2011年3月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=2077)  | [斎藤工](../Page/斎藤工.md "wikilink")                              | 春もジャケットにおまかせ！             |
 | [2011年4月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=2095)  | [宮尾俊太郎](https://ja.wikipedia.org/wiki/宮尾俊太郎 "wikilink")       | 4月からの毎日がもっと楽しく変わる         |
 | [2011年5月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=2115)  | 小栗旬                                                           | 特訓\! ジャケパンstyle初夏の100本ノック |
-| [2011年6月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=2132)  | [向井理](https://ja.wikipedia.org/wiki/向井理 "wikilink")           | 夏Biz再考                    |
-| [2011年7月号](http://www.kobunsha.com/shelf/magazine/current?seriesid=103001)     | [川島永嗣](https://ja.wikipedia.org/wiki/川島永嗣 "wikilink")         | 250Gainersの今              |
+| [2011年6月号](http://www.kobunsha.com/shelf/magazine/past?magazinenumberid=2132)  | [向井理](../Page/向井理.md "wikilink")                              | 夏Biz再考                    |
+| [2011年7月号](http://www.kobunsha.com/shelf/magazine/current?seriesid=103001)     | [川島永嗣](../Page/川島永嗣.md "wikilink")                            | 250Gainersの今              |
 |                                                                                |                                                               |                           |
 
 ## 登場モデル
@@ -97,12 +97,12 @@
 <!-- end list -->
 
   - [オードリー亜谷香](https://ja.wikipedia.org/wiki/オードリー亜谷香 "wikilink")
-  - [上原歩](https://ja.wikipedia.org/wiki/上原歩 "wikilink")
+  - [上原歩](../Page/上原歩.md "wikilink")
   - [杉本有美](https://ja.wikipedia.org/wiki/杉本有美 "wikilink")
   - [愛未](../Page/愛未.md "wikilink")
-  - [高橋優](https://ja.wikipedia.org/wiki/高橋ユウ "wikilink")
+  - [高橋優](../Page/高橋ユウ.md "wikilink")
   - [江頭ゆい](https://ja.wikipedia.org/wiki/江頭ゆい "wikilink")
-  - [尾形沙耶香](https://ja.wikipedia.org/wiki/尾形沙耶香 "wikilink")
+  - [尾形沙耶香](../Page/尾形沙耶香.md "wikilink")
   - [宮田聡子](https://ja.wikipedia.org/wiki/宮田聡子 "wikilink")
 
 ## 脚注
@@ -111,7 +111,7 @@
 
 ## 関連項目
 
-  - [JJ (雑誌)](https://ja.wikipedia.org/wiki/JJ_\(雑誌\) "wikilink")
+  - [JJ (雑誌)](../Page/JJ_\(雑誌\).md "wikilink")
   - [光文社](../Page/光文社.md "wikilink")
   - [ファッション雑誌](https://ja.wikipedia.org/wiki/ファッション雑誌#男性向け "wikilink")
 

@@ -14,8 +14,8 @@
       - 作詞・作曲・編曲：[織田哲郎](../Page/織田哲郎.md "wikilink")
     <!-- end list -->
       -
-        [スリムビューティハウス](https://ja.wikipedia.org/wiki/スリムビューティハウス "wikilink")CMソング。
-        『United States Of avex Hits』内においてAnna McMurphyによって英語カヴァーされているほか、[デイブ・ロジャース](https://ja.wikipedia.org/wiki/デイブ・ロジャース "wikilink")らによる[ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")リミックスも存在する。
+        [スリムビューティハウス](../Page/スリムビューティハウス.md "wikilink")CMソング。
+        『United States Of avex Hits』内においてAnna McMurphyによって英語カヴァーされているほか、[デイブ・ロジャース](../Page/デイブ・ロジャース.md "wikilink")らによる[ユーロビート](../Page/ユーロビート.md "wikilink")リミックスも存在する。
 2.  **今でも…。**
       - 作詞：相川七瀬 / 作曲・編曲：織田哲郎
 3.  **BREAK OUT\! (オリジナルカラオケ)**
@@ -24,10 +24,10 @@
 
 **BREAK OUT\!**
 
-  - [Red](https://ja.wikipedia.org/wiki/Red_\(相川七瀬のアルバム\) "wikilink")
+  - [Red](../Page/Red_\(相川七瀬のアルバム\).md "wikilink")
   - [ID](https://ja.wikipedia.org/wiki/ID_\(相川七瀬のアルバム\) "wikilink")
   - [NANASE AIKAWA BEST ALBUM "ROCK or DIE"](https://ja.wikipedia.org/wiki/NANASE_AIKAWA_BEST_ALBUM_"ROCK_or_DIE" "wikilink")
-  - [青春歌年鑑](https://ja.wikipedia.org/wiki/青春歌年鑑 "wikilink") 総集編
+  - [青春歌年鑑](../Page/青春歌年鑑.md "wikilink") 総集編
 
 **今でも**
 

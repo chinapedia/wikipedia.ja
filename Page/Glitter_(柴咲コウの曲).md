@@ -1,13 +1,13 @@
 > この記事は[Glitter \(\)](https://ja.wikipedia.org/wiki/Glitter_\(\))から翻訳されています。
 
 
-「**Glitter**」（グリッター）は、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")（RUI名義含む）。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月16日](../Page/2月16日.md "wikilink")発売。発売元は[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+「**Glitter**」（グリッター）は、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")（RUI名義含む）。[2005年](../Page/2005年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")発売。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
 柴咲コウのシングルとしては初めて、全曲とも本人の単独作詞となった。
 
-[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の[前田敦子](https://ja.wikipedia.org/wiki/前田敦子 "wikilink")、[宮澤佐江](https://ja.wikipedia.org/wiki/宮澤佐江 "wikilink")はオーディションの歌唱審査で「Glitter」を歌っている。
+[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の[前田敦子](https://ja.wikipedia.org/wiki/前田敦子 "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")はオーディションの歌唱審査で「Glitter」を歌っている。
 
 「求愛」は本作のみの収録となる。
 
@@ -16,11 +16,11 @@
 全作詞：柴咲コウ
 
 1.  **Glitter**
-    （作曲：[市川淳](https://ja.wikipedia.org/wiki/市川淳 "wikilink") 編曲：[華原大輔](https://ja.wikipedia.org/wiki/華原大輔 "wikilink") ストリングス・アレンジ：[前嶋康明](https://ja.wikipedia.org/wiki/前嶋康明 "wikilink")）
+    （作曲：[市川淳](https://ja.wikipedia.org/wiki/市川淳 "wikilink") 編曲：[華原大輔](https://ja.wikipedia.org/wiki/華原大輔 "wikilink") ストリングス・アレンジ：[前嶋康明](../Page/前嶋康明.md "wikilink")）
       -
         TBS系『[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")』テーマ・ソング
 2.  **色恋粉雪**
-    （作曲：[崎谷健次郎](https://ja.wikipedia.org/wiki/崎谷健次郎 "wikilink") 編曲：[田辺恵二](https://ja.wikipedia.org/wiki/田辺恵二 "wikilink") ストリングス・アレンジ：前嶋康明）
+    （作曲：[崎谷健次郎](../Page/崎谷健次郎.md "wikilink") 編曲：[田辺恵二](https://ja.wikipedia.org/wiki/田辺恵二 "wikilink") ストリングス・アレンジ：前嶋康明）
       -
         TBS系『恋するハニカミ\!』挿入歌
 3.  **求愛**

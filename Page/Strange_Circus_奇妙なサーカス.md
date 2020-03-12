@@ -1,11 +1,11 @@
 > この記事は[Strange Circus ](https://ja.wikipedia.org/wiki/Strange_Circus_)から翻訳されています。
 
 
-『**Strange Circus 奇妙なサーカス**』（ストレンジ サーカス きみょうなさーかす）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")製作の[日本映画](../Page/日本映画.md "wikilink")。
+『**Strange Circus 奇妙なサーカス**』（ストレンジ サーカス きみょうなさーかす）は、[2005年](../Page/2005年.md "wikilink")製作の[日本映画](../Page/日本映画.md "wikilink")。
 
 ## 概要
 
-[近親相姦](https://ja.wikipedia.org/wiki/近親相姦 "wikilink")・[児童虐待](../Page/児童虐待.md "wikilink")・[身体改造](https://ja.wikipedia.org/wiki/身体改造 "wikilink")などの過激な題材でインモラルな世界を描いた禁断の官能[ミステリー](https://ja.wikipedia.org/wiki/ミステリー "wikilink")。公開時のキャッチコピーは「父に抱かれているとき、私の中に母が宿る」。[宮崎ますみ](https://ja.wikipedia.org/wiki/宮崎ますみ "wikilink")は本作で12年ぶりに女優復帰を果たした。[R18+指定](../Page/映画のレイティングシステム.md "wikilink")。
+[近親相姦](../Page/近親相姦.md "wikilink")・[児童虐待](../Page/児童虐待.md "wikilink")・[身体改造](../Page/身体改造.md "wikilink")などの過激な題材でインモラルな世界を描いた禁断の官能[ミステリー](https://ja.wikipedia.org/wiki/ミステリー "wikilink")。公開時のキャッチコピーは「父に抱かれているとき、私の中に母が宿る」。[宮崎ますみ](https://ja.wikipedia.org/wiki/宮崎ますみ "wikilink")は本作で12年ぶりに女優復帰を果たした。[R18+指定](../Page/映画のレイティングシステム.md "wikilink")。
 
 ## ストーリー
 
@@ -14,19 +14,19 @@
 ## キャスト
 
   - [宮崎ますみ](https://ja.wikipedia.org/wiki/宮崎ますみ "wikilink") - 尾沢小百合／三ッ沢妙子
-  - [いしだ壱成](https://ja.wikipedia.org/wiki/いしだ壱成 "wikilink") - 田宮雄二
-  - [桑名里瑛](https://ja.wikipedia.org/wiki/桑名里瑛 "wikilink") - 尾沢美津子（小学生）
+  - [いしだ壱成](../Page/いしだ壱成.md "wikilink") - 田宮雄二
+  - [桑名里瑛](../Page/桑名里瑛.md "wikilink") - 尾沢美津子（小学生）
   - [高橋真唯](https://ja.wikipedia.org/wiki/高橋真唯 "wikilink") - 尾沢美津子（中高生）
   - [不二子](../Page/不二子.md "wikilink") - 剛三の愛人
   - マダム・レジーヌ - サーカスの司会
   - [田口トモロヲ](../Page/田口トモロヲ.md "wikilink") - 編集長
-  - [大口広司](https://ja.wikipedia.org/wiki/大口広司 "wikilink") - 尾沢剛三
+  - [大口広司](../Page/大口広司.md "wikilink") - 尾沢剛三
 
 ## スタッフ
 
   - 製作 - 中沢敏明、星野晃志
   - プロデューサー - 富田敏家、佐藤敏宏
-  - 監督・脚本・音楽 - [園子温](https://ja.wikipedia.org/wiki/園子温 "wikilink")
+  - 監督・脚本・音楽 - [園子温](../Page/園子温.md "wikilink")
   - 編集 - [伊藤潤一](https://ja.wikipedia.org/wiki/伊藤潤一 "wikilink")
   - 配給・宣伝 - セディックインターナショナル
   - 制作 - [エクセレントフィルム](https://ja.wikipedia.org/wiki/エクセレントフィルム "wikilink")
@@ -43,12 +43,12 @@
 ## 正式上映出品
 
   - 第56回ベルリン国際映画祭フォーラム部門
-  - [東京国際ファンタスティック映画祭](https://ja.wikipedia.org/wiki/東京国際ファンタスティック映画祭 "wikilink")2005
+  - [東京国際ファンタスティック映画祭](../Page/東京国際ファンタスティック映画祭.md "wikilink")2005
   - 第10回[釜山国際映画祭](../Page/釜山国際映画祭.md "wikilink")
 
 ## 関連項目
 
-  - [R-18指定の映画一覧](https://ja.wikipedia.org/wiki/R-18指定の映画一覧 "wikilink")
+  - [R-18指定の映画一覧](../Page/R-18指定の映画一覧.md "wikilink")
 
 ## 外部リンク
 

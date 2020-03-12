@@ -1,7 +1,7 @@
 > この記事は[ \(FUZZY CONTROL\)](https://ja.wikipedia.org/wiki/_\(FUZZY_CONTROL\))から翻訳されています。
 
 
-**鼓動**（こどう）は[FUZZY CONTROLの](https://ja.wikipedia.org/wiki/FUZZY_CONTROL "wikilink")8枚目のシングル。
+**鼓動**（こどう）は[FUZZY CONTROLの](../Page/FUZZY_CONTROL.md "wikilink")8枚目のシングル。
 
 ## 内容
 
@@ -31,7 +31,7 @@
 
 ## 関連項目
 
-  - [FUZZY CONTROL](https://ja.wikipedia.org/wiki/FUZZY_CONTROL "wikilink")
+  - [FUZZY CONTROL](../Page/FUZZY_CONTROL.md "wikilink")
   - [織田哲郎](../Page/織田哲郎.md "wikilink")
 
 [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:ビクターエンタテインメントの楽曲](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントの楽曲 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")

@@ -50,8 +50,8 @@ W-VALUE SELECTで電話機を購入する場合、一括払いか均等分割払
 
 ## 関連項目
 
-  - [スーパーボーナス](https://ja.wikipedia.org/wiki/スーパーボーナス "wikilink")
-  - [バリューコース (NTTドコモ)](https://ja.wikipedia.org/wiki/バリューコース_\(NTTドコモ\) "wikilink")
+  - [スーパーボーナス](../Page/スーパーボーナス.md "wikilink")
+  - [バリューコース (NTTドコモ)](../Page/バリューコース_\(NTTドコモ\).md "wikilink")
   - [信用販売](https://ja.wikipedia.org/wiki/信用販売 "wikilink")
 
 ## 外部リンク

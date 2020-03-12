@@ -1,7 +1,7 @@
 > この記事は[RAKA](https://ja.wikipedia.org/wiki/RAKA)から翻訳されています。
 
 
-『**RAKA**』（ラカ）は[志方あきこ](https://ja.wikipedia.org/wiki/志方あきこ "wikilink")の2ndアルバム。題名は[サンスクリット](../Page/サンスクリット.md "wikilink")で「満月の夜」を意味し、各曲に「月」というキーワードを織り込んで全体で「月」の持つ「神秘性」「幻想性」「癒し」「祈り」をテーマとしている。
+『**RAKA**』（ラカ）は[志方あきこ](../Page/志方あきこ.md "wikilink")の2ndアルバム。題名は[サンスクリット](../Page/サンスクリット.md "wikilink")で「満月の夜」を意味し、各曲に「月」というキーワードを織り込んで全体で「月」の持つ「神秘性」「幻想性」「癒し」「祈り」をテーマとしている。
 
 ## 曲目
 
@@ -29,12 +29,12 @@
         イタリア語詞。
 9.  **うたかたの花**
 10. **晴れすぎた空の下で**
-11. **[AVE MARIA](https://ja.wikipedia.org/wiki/アヴェ・マリア "wikilink")**
+11. **[AVE MARIA](../Page/アヴェ・マリア.md "wikilink")**
       -
-        イタリア語詞。[葉加瀬太郎](https://ja.wikipedia.org/wiki/葉加瀬太郎 "wikilink")共演。
+        イタリア語詞。[葉加瀬太郎](../Page/葉加瀬太郎.md "wikilink")共演。
 12. **謳う丘 ～EXEC_HARVESTASYA/.～**
       -
-        日本語+[ヒュムノス語](https://ja.wikipedia.org/wiki/ヒュムノス語 "wikilink")（ゲーム内の造語）詞。『[アルトネリコ 世界の終わりで詩い続ける少女](https://ja.wikipedia.org/wiki/アルトネリコ_世界の終わりで詩い続ける少女 "wikilink")』主題歌「謳う丘 -Harmonics EOLIA-」のフルアレンジ。
+        日本語+[ヒュムノス語](../Page/ヒュムノス語.md "wikilink")（ゲーム内の造語）詞。『[アルトネリコ 世界の終わりで詩い続ける少女](../Page/アルトネリコ_世界の終わりで詩い続ける少女.md "wikilink")』主題歌「謳う丘 -Harmonics EOLIA-」のフルアレンジ。
 
 ## スタジオ・ミュージシャン
 
@@ -42,7 +42,7 @@
   - ギター：[四月朔日義昭](https://ja.wikipedia.org/wiki/四月朔日義昭 "wikilink")
   - フィドル：功刀丈弘（レーベルメイト）
   - ヴァイオリン：大貫聖子
-  - ピアノ：[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")
+  - ピアノ：[中西康晴](../Page/中西康晴.md "wikilink")
   - リコーダー＆ティン・ホイッスル：安井敬
   - ディジリドゥ＆口琴＆カリンバ：GORO
   - フルート：Takayo Kudou

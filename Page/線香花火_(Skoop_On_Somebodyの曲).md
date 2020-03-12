@@ -1,7 +1,7 @@
 > この記事は[ \(Skoop On Somebody\)](https://ja.wikipedia.org/wiki/_\(Skoop_On_Somebody\))から翻訳されています。
 
 
-『**線香花火**』（せんこうはなび）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")の[Skoop On Somebodyが](https://ja.wikipedia.org/wiki/Skoop_On_Somebody "wikilink")[2000年](../Page/2000年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に[リリースした通算](https://ja.wikipedia.org/wiki/発売 "wikilink")10枚目（Skoop On Somebodyとしては2枚目）の[シングル](../Page/シングル.md "wikilink")。
+『**線香花火**』（せんこうはなび）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")の[Skoop On Somebodyが](../Page/Skoop_On_Somebody.md "wikilink")[2000年](../Page/2000年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に[リリースした通算](https://ja.wikipedia.org/wiki/発売 "wikilink")10枚目（Skoop On Somebodyとしては2枚目）の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
@@ -11,9 +11,9 @@
 ## 収録曲
 
 1.  **線香花火**
-    作詞・作曲:S.O.S.　編曲:[西平彰](https://ja.wikipedia.org/wiki/西平彰 "wikilink")、S.O.S.
+    作詞・作曲:S.O.S.　編曲:[西平彰](../Page/西平彰.md "wikilink")、S.O.S.
 2.  **STAND\!**
-    作詞:[高柳恋](https://ja.wikipedia.org/wiki/高柳恋 "wikilink")　作曲・編曲:S.O.S.
+    作詞:[高柳恋](../Page/高柳恋.md "wikilink")　作曲・編曲:S.O.S.
 3.  **[ama-oto](https://ja.wikipedia.org/wiki/ama-oto "wikilink") (CLUB S.O.S version)**
     作詞・作曲・編曲:S.O.S.
 4.  **線香花火 (instrumental)**

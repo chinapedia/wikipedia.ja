@@ -44,7 +44,7 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
         2008年3月26日設置。争覇の章導入時に4年ぶりの新サーバとして設置。勢力関係は全て中立の状態から開始された。
   - テストワールド
       -
-        仕様変更や拡張パックのリリース前に、その機能をプレイヤー自身で確認する事が可能となるサーバー。このサーバーでは「[ウルティマオンライン](https://ja.wikipedia.org/wiki/ウルティマオンライン "wikilink")」などのテストサーバーと同じように、プレイヤーの[レベルや技能などをある程度自由に変更する事ができ](https://ja.wikipedia.org/wiki/レベル_\(ロールプレイングゲーム\) "wikilink")、目的のテストを行いやすいように設定されていた。現在は公開されていない。
+        仕様変更や拡張パックのリリース前に、その機能をプレイヤー自身で確認する事が可能となるサーバー。このサーバーでは「[ウルティマオンライン](https://ja.wikipedia.org/wiki/ウルティマオンライン "wikilink")」などのテストサーバーと同じように、プレイヤーの[レベルや技能などをある程度自由に変更する事ができ](../Page/レベル_\(ロールプレイングゲーム\).md "wikilink")、目的のテストを行いやすいように設定されていた。現在は公開されていない。
 
 ### 新サーバー
 
@@ -67,23 +67,23 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
 ### 職業とキャラクターメイク
 
-プレイヤーはキャラクター作成時に[侍](../Page/侍.md "wikilink")・[神主](https://ja.wikipedia.org/wiki/神主 "wikilink")／[巫女](../Page/巫女.md "wikilink")・[陰陽師](../Page/陰陽師.md "wikilink")・[僧](../Page/僧.md "wikilink")・[鍛冶屋](https://ja.wikipedia.org/wiki/鍛冶屋 "wikilink")・[薬師](https://ja.wikipedia.org/wiki/薬師 "wikilink")・[忍者](https://ja.wikipedia.org/wiki/忍者 "wikilink")・[傾奇者](https://ja.wikipedia.org/wiki/傾奇者 "wikilink")の8つの職業の中から1つを選ぶことになる。また、レベル40から各職業の使える技能が特化技能として3系統に分かれる。キャラクター作成後「隠れ里」という初心者専用エリアから開始するが、初心者専用エリアから通常エリアへ移行する際にどこかの勢力に仕官しなければならない。ただし、後に[出奔](https://ja.wikipedia.org/wiki/出奔 "wikilink")し[浪人](https://ja.wikipedia.org/wiki/浪人 "wikilink")となることも可能。なお、初心者専用エリアはキャラクターの成長がしやすいようになっているが、一度「隠れ里」エリアを出ると戻ることはできない（「初心者の手伝い」という方法で再入場する事が出来るが、初心者用のクエストは受けられない）。また、2008年3月からは中級者の育成用クエストも搭載された。
+プレイヤーはキャラクター作成時に[侍](../Page/侍.md "wikilink")・[神主](https://ja.wikipedia.org/wiki/神主 "wikilink")／[巫女](../Page/巫女.md "wikilink")・[陰陽師](../Page/陰陽師.md "wikilink")・[僧](../Page/僧.md "wikilink")・[鍛冶屋](../Page/鍛冶屋.md "wikilink")・[薬師](../Page/薬師.md "wikilink")・[忍者](../Page/忍者.md "wikilink")・[傾奇者](https://ja.wikipedia.org/wiki/傾奇者 "wikilink")の8つの職業の中から1つを選ぶことになる。また、レベル40から各職業の使える技能が特化技能として3系統に分かれる。キャラクター作成後「隠れ里」という初心者専用エリアから開始するが、初心者専用エリアから通常エリアへ移行する際にどこかの勢力に仕官しなければならない。ただし、後に[出奔](https://ja.wikipedia.org/wiki/出奔 "wikilink")し[浪人](../Page/浪人.md "wikilink")となることも可能。なお、初心者専用エリアはキャラクターの成長がしやすいようになっているが、一度「隠れ里」エリアを出ると戻ることはできない（「初心者の手伝い」という方法で再入場する事が出来るが、初心者用のクエストは受けられない）。また、2008年3月からは中級者の育成用クエストも搭載された。
 
 ※破天の章導入前は、キャラクター作成直後は必ずどこかの勢力に仕官した状態で、その勢力の拠点から始まっていた。
 
-キャラクターの名前に[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")を用いることは出来ない。また[織田信長](../Page/織田信長.md "wikilink")や[豊臣秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "wikilink")などの実在した武将名を、[PC名として登録することも出来ない](https://ja.wikipedia.org/wiki/プレイヤーズ・キャラクター "wikilink")。実在武将は[NPCとしてゲーム内に登場する](https://ja.wikipedia.org/wiki/ノンプレイヤーキャラクター "wikilink")。
+キャラクターの名前に[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")を用いることは出来ない。また[織田信長](../Page/織田信長.md "wikilink")や[豊臣秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "wikilink")などの実在した武将名を、[PC名として登録することも出来ない](https://ja.wikipedia.org/wiki/プレイヤーズ・キャラクター "wikilink")。実在武将は[NPCとしてゲーム内に登場する](../Page/ノンプレイヤーキャラクター.md "wikilink")。
 
   - 侍
       -
-        物理攻撃と防御に優れた職。それ以外にも、性能は劣るが回復以外の全ての行動が可能。戦闘の花形ともいえるが装備に多大なコストがかかる傾向がある。特化技能によって攻撃役、盾役、サポート役とはっきり立ち回りが分かれる。採集は[伐採](../Page/伐採.md "wikilink")、生産では[弓矢](../Page/弓矢.md "wikilink")や[杖](https://ja.wikipedia.org/wiki/杖 "wikilink")、[籠手](https://ja.wikipedia.org/wiki/籠手 "wikilink")などの装備品、および武器作成の材料であるの柄や、[和紙](https://ja.wikipedia.org/wiki/和紙 "wikilink")などを作成することができる。
+        物理攻撃と防御に優れた職。それ以外にも、性能は劣るが回復以外の全ての行動が可能。戦闘の花形ともいえるが装備に多大なコストがかかる傾向がある。特化技能によって攻撃役、盾役、サポート役とはっきり立ち回りが分かれる。採集は[伐採](../Page/伐採.md "wikilink")、生産では[弓矢](../Page/弓矢.md "wikilink")や[杖](../Page/杖.md "wikilink")、[籠手](../Page/籠手.md "wikilink")などの装備品、および武器作成の材料であるの柄や、[和紙](https://ja.wikipedia.org/wiki/和紙 "wikilink")などを作成することができる。
     <!-- end list -->
       - 特化技能
           - 武芸伝
               -
-                [忍者](https://ja.wikipedia.org/wiki/忍者 "wikilink")の特化「暗殺奥義」と双璧を成す近接物理アタッカー。[刀剣](../Page/刀剣.md "wikilink")の[二刀流](https://ja.wikipedia.org/wiki/二刀流 "wikilink")を得意とし、主に近接物理攻撃に特化した侍。その攻撃性能は他職・他特化の追随を許さず、あらゆる場面において絶大な攻撃力を誇る。間接物理攻撃も持つが、こちらは命中率に難がある。また、攻撃対象の結界 （バリア技能） を解除する技能を持たず、攻撃対象を固定される技能への対抗策を持たない等、柔軟性には欠ける面もある。装備の質による攻撃能力差が特に顕著に現れる特化である。
+                [忍者](../Page/忍者.md "wikilink")の特化「暗殺奥義」と双璧を成す近接物理アタッカー。[刀剣](../Page/刀剣.md "wikilink")の[二刀流](../Page/二刀流.md "wikilink")を得意とし、主に近接物理攻撃に特化した侍。その攻撃性能は他職・他特化の追随を許さず、あらゆる場面において絶大な攻撃力を誇る。間接物理攻撃も持つが、こちらは命中率に難がある。また、攻撃対象の結界 （バリア技能） を解除する技能を持たず、攻撃対象を固定される技能への対抗策を持たない等、柔軟性には欠ける面もある。装備の質による攻撃能力差が特に顕著に現れる特化である。
           - 武士道
               -
-                敵の注意を引き付け、攻撃をかわすことによって味方を物理攻撃の脅威から守る盾役のエキスパート。生命力ダメージを気合ダメージに変換する「[心頭滅却](https://ja.wikipedia.org/wiki/快川紹喜 "wikilink")」という技能が対NPC、対PC戦どちらにおいても非常に効果的で、武士道の最大の特徴でもある。ただし術ダメージは変換出来ず、術攻撃は苦手である。剣撃を受け止める技能を持つため、人間型の直接攻撃には特に強い。また一刀流の上位技能や反撃の強化技能があり、ソロ活動においてはトップクラスの性能を誇る。
+                敵の注意を引き付け、攻撃をかわすことによって味方を物理攻撃の脅威から守る盾役のエキスパート。生命力ダメージを気合ダメージに変換する「[心頭滅却](../Page/快川紹喜.md "wikilink")」という技能が対NPC、対PC戦どちらにおいても非常に効果的で、武士道の最大の特徴でもある。ただし術ダメージは変換出来ず、術攻撃は苦手である。剣撃を受け止める技能を持つため、人間型の直接攻撃には特に強い。また一刀流の上位技能や反撃の強化技能があり、ソロ活動においてはトップクラスの性能を誇る。
           - 上級軍学
               -
                 いわゆる[軍師](../Page/軍師.md "wikilink")をイメージしたコンセプトで、サポートや行動阻害に特化した技能が豊富。敵全体に対して一定時間行動不能にする「活殺自在」をはじめ、相手の術ダメージ軽減効果を解除する「崩落の計」、味方の能力強化効果を自身にコピーする「神算鬼謀」「堅忍不抜」などの技能を持ち、攻防に立ち回ることが可能。
@@ -92,7 +92,7 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
   - 僧
       -
-        術攻撃、回復、やや苦手だが物理攻撃技能も持ち、敵の攻撃を引き付ける所謂「盾技能」もあるオールマイティ職である。しかしそれ故か、各技能の専門職に比べて性能が劣るものが多い。相手を弱体化させる系統の技能のみ持たない。採集は材料採集、生産では各種生産の材料となる紐や持ち物を入れるための袋、後衛職の頭装備（[冠](https://ja.wikipedia.org/wiki/冠 "wikilink")や[烏帽子](https://ja.wikipedia.org/wiki/烏帽子 "wikilink")など）を作ることができる。
+        術攻撃、回復、やや苦手だが物理攻撃技能も持ち、敵の攻撃を引き付ける所謂「盾技能」もあるオールマイティ職である。しかしそれ故か、各技能の専門職に比べて性能が劣るものが多い。相手を弱体化させる系統の技能のみ持たない。採集は材料採集、生産では各種生産の材料となる紐や持ち物を入れるための袋、後衛職の頭装備（[冠](../Page/冠.md "wikilink")や[烏帽子](../Page/烏帽子.md "wikilink")など）を作ることができる。
     <!-- end list -->
       - 特化技能
           - 僧兵之武
@@ -109,18 +109,18 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
   - 神主／巫女
       -
-        男性キャラクターと女性キャラクターで呼び名が異なる唯一の職業であるが、両者に性能差は存在しない。総称して[神職](https://ja.wikipedia.org/wiki/神職 "wikilink")と呼ばれる場合もある。サポートのエキスパートであり、戦闘中は味方を「[雅楽](../Page/雅楽.md "wikilink")」や「[韻](https://ja.wikipedia.org/wiki/韻 "wikilink")」などで支援し、能力上昇効果や術を唱える時間を短縮する効果を付与することができる。また野外においても移動速度を速めたり、敵から味方の姿を隠したりする技能などで貢献することができる。採集は伐採、生産では弓矢、[首飾り](https://ja.wikipedia.org/wiki/首飾り "wikilink")、付与石と呼ばれる武具を強化する特殊なアイテムなどを作成する事ができる。
+        男性キャラクターと女性キャラクターで呼び名が異なる唯一の職業であるが、両者に性能差は存在しない。総称して[神職](../Page/神職.md "wikilink")と呼ばれる場合もある。サポートのエキスパートであり、戦闘中は味方を「[雅楽](../Page/雅楽.md "wikilink")」や「[韻](https://ja.wikipedia.org/wiki/韻 "wikilink")」などで支援し、能力上昇効果や術を唱える時間を短縮する効果を付与することができる。また野外においても移動速度を速めたり、敵から味方の姿を隠したりする技能などで貢献することができる。採集は伐採、生産では弓矢、[首飾り](https://ja.wikipedia.org/wiki/首飾り "wikilink")、付与石と呼ばれる武具を強化する特殊なアイテムなどを作成する事ができる。
     <!-- end list -->
       - 特化技能
           - 神典
               -
-                [弓による攻撃と強力な能力強化技能を兼ね備えた特化](https://ja.wikipedia.org/wiki/弓_\(武器\) "wikilink")。鉄砲鍛冶と同じく弓による守護無効の間接攻撃は、標的となる敵をより確実に射抜くことができる。侍や忍者のような専門的なアタッカーにはダメージで劣るものの、神職としての高いサポート力と特化技能の攻撃性能で幅広く活躍できる。
+                [弓による攻撃と強力な能力強化技能を兼ね備えた特化](../Page/弓_\(武器\).md "wikilink")。鉄砲鍛冶と同じく弓による守護無効の間接攻撃は、標的となる敵をより確実に射抜くことができる。侍や忍者のような専門的なアタッカーにはダメージで劣るものの、神職としての高いサポート力と特化技能の攻撃性能で幅広く活躍できる。
           - 古神典
               -
                 呪術による攻撃や、敵から気合（いわゆる[MP](../Page/マジックポイント.md "wikilink")）を奪うなどの技能に長ける。気合を大量に消費する近接攻撃技能のサポートとして、気合吸収効果を付与する「気合吸収」という技能が人気である。しかし近接攻撃のみにしか効果が発動しないという欠点があるため、術アタッカーである陰陽師全般や、間接攻撃しか持っていない神典神職などとは相性が悪い。
           - 雅楽之妙
               -
-                [鼓](https://ja.wikipedia.org/wiki/鼓 "wikilink")・[笛](../Page/笛.md "wikilink")・[琵琶](../Page/琵琶.md "wikilink")を用いて神に唄を捧げることにより、敵味方に様々な付与効果をもたらすことができる。特に、味方の能力強化効果の効果時間を継続させる技能によって、陰陽師などの自己強化技能を持つ者に対して特に強力なサポートが行える。また敵味方問わず全員を行動不能にする「大音響」というトリッキーな技能を使用することもできる。
+                [鼓](../Page/鼓.md "wikilink")・[笛](../Page/笛.md "wikilink")・[琵琶](../Page/琵琶.md "wikilink")を用いて神に唄を捧げることにより、敵味方に様々な付与効果をもたらすことができる。特に、味方の能力強化効果の効果時間を継続させる技能によって、陰陽師などの自己強化技能を持つ者に対して特に強力なサポートが行える。また敵味方問わず全員を行動不能にする「大音響」というトリッキーな技能を使用することもできる。
 
 <!-- end list -->
 
@@ -171,10 +171,10 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
                 通称「鎧鍛冶」で、[鎧](https://ja.wikipedia.org/wiki/鎧 "wikilink")や[兜](https://ja.wikipedia.org/wiki/兜 "wikilink")の上位防具を作る事ができる。完全に盾役に特化した職業であり、そのコンセプトに沿った味方守護技能や相手の標的固定技能、自身の防御力を大幅に向上させる技能を持ち合わせている。剣撃を受け止める技能を持つため、人間型の直接攻撃には特に強い。自身の防御力に比例したダメージを与える攻撃技能も有するが、強化した防御力が下がるため使いどころが難しい。
           - 鉄砲之取扱
               -
-                通称「鉄砲鍛冶」で、強力な間接物理アタッカー。鍛冶屋の特化の中で唯一攻撃に特化した存在であり、砲撃に関する技能が豊富。生産では[鉄砲](https://ja.wikipedia.org/wiki/鉄砲 "wikilink")の上位生産品を作る事ができる。間接攻撃には「守護が無効」という特徴があり、盾役の敵に邪魔されず後衛を狙い撃てる点が大きなメリットとなる。その上、「狙撃」という標的固定されても対象を選択し攻撃できる技能の上位技能「狙撃・改」まで持つ。鉄砲攻撃には消耗品の弾薬が必要になるため、弾代が常にかかるという欠点がある。また、装備にかけるコストが強さに直結するという物理アタッカーの性質も付いて回る。
+                通称「鉄砲鍛冶」で、強力な間接物理アタッカー。鍛冶屋の特化の中で唯一攻撃に特化した存在であり、砲撃に関する技能が豊富。生産では[鉄砲](../Page/鉄砲.md "wikilink")の上位生産品を作る事ができる。間接攻撃には「守護が無効」という特徴があり、盾役の敵に邪魔されず後衛を狙い撃てる点が大きなメリットとなる。その上、「狙撃」という標的固定されても対象を選択し攻撃できる技能の上位技能「狙撃・改」まで持つ。鉄砲攻撃には消耗品の弾薬が必要になるため、弾代が常にかかるという欠点がある。また、装備にかけるコストが強さに直結するという物理アタッカーの性質も付いて回る。
   - 薬師
       -
-        味方の生命力を回復させることを専門とする職業で、僧の「回復」と比べて薬師の「治療」は生命力回復効果が高い。強みはなんと言っても、戦闘中に傷つき斃れた味方を「[蘇生](https://ja.wikipedia.org/wiki/蘇生 "wikilink")」できることである（僧侶も可能だが、NPCが販売していない消費アイテムが必要であり、性能も劣る）。反面、攻撃に関する技能はほとんど無い。また薬師という名前が示すとおり、各種の薬や毒薬を処方することができる。採集は植物採取。[お守り](https://ja.wikipedia.org/wiki/お守り "wikilink")という装備品も生産できる。
+        味方の生命力を回復させることを専門とする職業で、僧の「回復」と比べて薬師の「治療」は生命力回復効果が高い。強みはなんと言っても、戦闘中に傷つき斃れた味方を「[蘇生](../Page/蘇生.md "wikilink")」できることである（僧侶も可能だが、NPCが販売していない消費アイテムが必要であり、性能も劣る）。反面、攻撃に関する技能はほとんど無い。また薬師という名前が示すとおり、各種の薬や毒薬を処方することができる。採集は植物採取。[お守り](../Page/お守り.md "wikilink")という装備品も生産できる。
     <!-- end list -->
       - 特化技能
           - 高等医術
@@ -206,7 +206,7 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
 ### 仕官（所属勢力）
 
-新規作成キャラ専用ゾーンである隠れ里を出る時に、実装されている14大名家のいずれかに仕官した状態となる。仕官できる大名家は任意に選択することが出来るが、滅亡している大名家に新規作成キャラが仕えることは出来ない。[雑賀衆](../Page/雑賀衆.md "wikilink")や[伊賀忍などの傭兵集団も実装されてはいるが](https://ja.wikipedia.org/wiki/伊賀流 "wikilink")、本作では1大名家（勢力） として実装されている。基本的にフィールドには、一つの[城](../Page/城.md "wikilink")及び[城下町](../Page/城下町.md "wikilink")と実在の城があった地点に配置される複数の[屯所](../Page/駐在所.md "wikilink")、その国に関連する人物や妖怪が住む[廃城](https://ja.wikipedia.org/wiki/廃城 "wikilink")が存在する。国によっては中立勢力が住む町や地域の名所をイメージした[ダンジョン](../Page/ダンジョン.md "wikilink")が配置されている。ダンジョンは誰でも挑戦する事が出来るタイプのものと、特定の[レベル](https://ja.wikipedia.org/wiki/レベル_\(ロールプレイングゲーム\) "wikilink")、あるいは条件を満たしたプレイヤーのみが挑戦する事が出来る上級者ダンジョンに分けられている。
+新規作成キャラ専用ゾーンである隠れ里を出る時に、実装されている14大名家のいずれかに仕官した状態となる。仕官できる大名家は任意に選択することが出来るが、滅亡している大名家に新規作成キャラが仕えることは出来ない。[雑賀衆](../Page/雑賀衆.md "wikilink")や[伊賀忍などの傭兵集団も実装されてはいるが](../Page/伊賀流.md "wikilink")、本作では1大名家（勢力） として実装されている。基本的にフィールドには、一つの[城](../Page/城.md "wikilink")及び[城下町](../Page/城下町.md "wikilink")と実在の城があった地点に配置される複数の[屯所](../Page/駐在所.md "wikilink")、その国に関連する人物や妖怪が住む[廃城](../Page/廃城.md "wikilink")が存在する。国によっては中立勢力が住む町や地域の名所をイメージした[ダンジョン](../Page/ダンジョン.md "wikilink")が配置されている。ダンジョンは誰でも挑戦する事が出来るタイプのものと、特定の[レベル](../Page/レベル_\(ロールプレイングゲーム\).md "wikilink")、あるいは条件を満たしたプレイヤーのみが挑戦する事が出来る上級者ダンジョンに分けられている。
 
   - [上杉家](https://ja.wikipedia.org/wiki/上杉氏 "wikilink")
       -
@@ -214,8 +214,8 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
         総大将：[上杉謙信](../Page/上杉謙信.md "wikilink")
         初期支配地域：[越後](../Page/越後国.md "wikilink")、[上野](../Page/上野国.md "wikilink")、[越中](../Page/越中国.md "wikilink")
         城下町（城）：[春日山](../Page/春日山城.md "wikilink")（越後）、[前橋](https://ja.wikipedia.org/wiki/前橋城 "wikilink")（上野）、[富山](../Page/富山城.md "wikilink")（越中）
-        廃城：[揚北衆屋敷](https://ja.wikipedia.org/wiki/新発田綱貞 "wikilink")（越後）、[上野屋敷](../Page/天狗.md "wikilink")（上野）、[平氏一族生霊屋敷](https://ja.wikipedia.org/wiki/伊勢平氏 "wikilink")（越中）
-        ダンジョン：[佐渡金山](https://ja.wikipedia.org/wiki/佐渡金山 "wikilink")（越後）、[蜃気楼](https://ja.wikipedia.org/wiki/蜃気楼 "wikilink")の塔（越中）、龍隠門（上野）、不入山冥境（上野）
+        廃城：[揚北衆屋敷](https://ja.wikipedia.org/wiki/新発田綱貞 "wikilink")（越後）、[上野屋敷](../Page/天狗.md "wikilink")（上野）、[平氏一族生霊屋敷](../Page/伊勢平氏.md "wikilink")（越中）
+        ダンジョン：[佐渡金山](../Page/佐渡金山.md "wikilink")（越後）、[蜃気楼](../Page/蜃気楼.md "wikilink")の塔（越中）、龍隠門（上野）、不入山冥境（上野）
 
 <!-- end list -->
 
@@ -224,9 +224,9 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
         本拠地を相模に置く大名家。相模にはダンジョン「地獄谷」がある。また、初期支配国である武蔵には上級者ダンジョン「星野山千尋窟」がある。
         総大将：[北条氏康](../Page/北条氏康.md "wikilink")
         初期支配地域：[相模](../Page/相模国.md "wikilink")、[武蔵](../Page/武蔵国.md "wikilink")
-        城下町（城）：[小田原](https://ja.wikipedia.org/wiki/小田原城 "wikilink")（相模）、[川越](https://ja.wikipedia.org/wiki/川越城 "wikilink")（武蔵）
-        廃城：[天狗](../Page/天狗.md "wikilink")屋敷（相模）、[古河公方屋敷](https://ja.wikipedia.org/wiki/足利義氏_\(古河公方\) "wikilink")（武蔵）
-        ダンジョン：[地獄谷](https://ja.wikipedia.org/wiki/大涌谷 "wikilink")（相模）、[星野山千尋窟](../Page/喜多院.md "wikilink")（武蔵）
+        城下町（城）：[小田原](https://ja.wikipedia.org/wiki/小田原城 "wikilink")（相模）、[川越](../Page/川越城.md "wikilink")（武蔵）
+        廃城：[天狗](../Page/天狗.md "wikilink")屋敷（相模）、[古河公方屋敷](../Page/足利義氏_\(古河公方\).md "wikilink")（武蔵）
+        ダンジョン：[地獄谷](../Page/大涌谷.md "wikilink")（相模）、[星野山千尋窟](../Page/喜多院.md "wikilink")（武蔵）
 
 <!-- end list -->
 
@@ -235,9 +235,9 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
         本拠地を甲斐に置く大名家。甲斐にはダンジョン「昇仙峡」がある。また、初期支配国である信濃には中立の街として「[山賊](https://ja.wikipedia.org/wiki/山賊 "wikilink")町」が存在する。
         総大将：[武田信玄](../Page/武田信玄.md "wikilink")
         初期支配地域：[甲斐](../Page/甲斐国.md "wikilink")、[信濃](../Page/信濃国.md "wikilink")
-        城下町（城）：[甲府](https://ja.wikipedia.org/wiki/甲府城 "wikilink")（甲斐）、[松本](../Page/松本城.md "wikilink")（信濃）
-        廃城：[犬](https://ja.wikipedia.org/wiki/犬 "wikilink")屋敷（甲斐）、[高遠氏屋敷](https://ja.wikipedia.org/wiki/高遠頼継 "wikilink")（信濃）
-        ダンジョン：[昇仙峡](https://ja.wikipedia.org/wiki/昇仙峡 "wikilink")（甲斐）
+        城下町（城）：[甲府](../Page/甲府城.md "wikilink")（甲斐）、[松本](../Page/松本城.md "wikilink")（信濃）
+        廃城：[犬](https://ja.wikipedia.org/wiki/犬 "wikilink")屋敷（甲斐）、[高遠氏屋敷](../Page/高遠頼継.md "wikilink")（信濃）
+        ダンジョン：[昇仙峡](../Page/昇仙峡.md "wikilink")（甲斐）
 
 <!-- end list -->
 
@@ -245,8 +245,8 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
       -
         本拠地を駿河に置く大名家。駿河にはダンジョン「富士地下洞穴」があり、ソロプレイヤーの腕試しのダンジョンとして親しまれている。また、駿河の船着場からは、尾張行きの船がでている。初期支配国の遠江にはダンジョン「浜名湖底洞穴」がある。駿河にある[福島正成](../Page/福島正成.md "wikilink")の居城である廃城は、茸爺という名称の敵NPCが登場することから、キノコハウスと通称されている。
         総大将：[今川義元](../Page/今川義元.md "wikilink")
-        初期支配地域：[駿河](../Page/駿河国.md "wikilink")、[遠江](https://ja.wikipedia.org/wiki/遠江国 "wikilink")
-        城下町（城）：[駿府](../Page/駿府城.md "wikilink")（駿河）、[浜松](https://ja.wikipedia.org/wiki/浜松城 "wikilink")（遠江）
+        初期支配地域：[駿河](../Page/駿河国.md "wikilink")、[遠江](../Page/遠江国.md "wikilink")
+        城下町（城）：[駿府](../Page/駿府城.md "wikilink")（駿河）、[浜松](../Page/浜松城.md "wikilink")（遠江）
         廃城：[キノコハウス](../Page/福島正成.md "wikilink")（駿河）、[梓姫屋敷](../Page/南総里見八犬伝.md "wikilink")（遠江）
         ダンジョン：[富士地下洞穴](../Page/富士山.md "wikilink")（駿河）、[浜名湖](../Page/浜名湖.md "wikilink")底洞穴（遠江）
 
@@ -254,21 +254,21 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
   - [徳川家](../Page/徳川氏.md "wikilink")
       -
-        本拠地を三河に置く大名家。三河の廃城には徳川家と長年にわたり対峙した[一向宗](https://ja.wikipedia.org/wiki/一向宗 "wikilink")がいる。
+        本拠地を三河に置く大名家。三河の廃城には徳川家と長年にわたり対峙した[一向宗](../Page/一向宗.md "wikilink")がいる。
         総大将：[徳川家康](../Page/徳川家康.md "wikilink")
-        初期支配地域：[三河](https://ja.wikipedia.org/wiki/三河国 "wikilink")
+        初期支配地域：[三河](../Page/三河国.md "wikilink")
         城下町（城）：[岡崎](https://ja.wikipedia.org/wiki/岡崎城 "wikilink")（三河）
-        廃城：[一向宗](https://ja.wikipedia.org/wiki/一向宗 "wikilink")屋敷（三河）
+        廃城：[一向宗](../Page/一向宗.md "wikilink")屋敷（三河）
         ダンジョン：眩迷の浅瀬（三河）、ワダツミの宮（三河）
 
 <!-- end list -->
 
   - [織田家](../Page/織田氏.md "wikilink")
       -
-        本拠地を尾張に置く大名家。尾張の船着場からは、摂津和泉、駿河行きの船が出ている。尾張の廃城には本来は敵であるはずの[織田信友](https://ja.wikipedia.org/wiki/織田信友 "wikilink")と[斯波義銀](https://ja.wikipedia.org/wiki/斯波義銀 "wikilink")が居住している。
+        本拠地を尾張に置く大名家。尾張の船着場からは、摂津和泉、駿河行きの船が出ている。尾張の廃城には本来は敵であるはずの[織田信友](../Page/織田信友.md "wikilink")と[斯波義銀](../Page/斯波義銀.md "wikilink")が居住している。
         総大将：[織田信長](../Page/織田信長.md "wikilink")
         初期支配地域：[尾張](../Page/尾張国.md "wikilink")
-        城下町（城）：[那古野](https://ja.wikipedia.org/wiki/那古野城 "wikilink")（尾張）
+        城下町（城）：[那古野](../Page/那古野城.md "wikilink")（尾張）
         廃城：[斯波一族の屋敷](../Page/斯波氏.md "wikilink")（尾張）
         ダンジョン：無し
 
@@ -285,13 +285,13 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
 <!-- end list -->
 
-  - [本願寺](https://ja.wikipedia.org/wiki/本願寺 "wikilink")
+  - [本願寺](../Page/本願寺.md "wikilink")
       -
         本拠地を加賀に置く大名家。初期支配国である伊勢には中立の街として「[海賊](../Page/海賊.md "wikilink")町」が存在する。
         総大将：[本願寺顕如](../Page/顕如.md "wikilink")
         初期支配地域：[加賀](../Page/加賀国.md "wikilink")、[伊勢](../Page/伊勢国.md "wikilink")
-        城下町（城）：[金沢](../Page/金沢城.md "wikilink")（加賀）、[長島](https://ja.wikipedia.org/wiki/長島城 "wikilink")（伊勢）
-        廃城：[富樫氏屋敷](https://ja.wikipedia.org/wiki/富樫晴貞 "wikilink")（加賀）、[鬼](https://ja.wikipedia.org/wiki/鬼 "wikilink")屋敷（伊勢）
+        城下町（城）：[金沢](../Page/金沢城.md "wikilink")（加賀）、[長島](../Page/長島城.md "wikilink")（伊勢）
+        廃城：[富樫氏屋敷](../Page/富樫晴貞.md "wikilink")（加賀）、[鬼](https://ja.wikipedia.org/wiki/鬼 "wikilink")屋敷（伊勢）
         ダンジョン：無し
 
 <!-- end list -->
@@ -302,7 +302,7 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
         総大将：[朝倉義景](../Page/朝倉義景.md "wikilink")
         初期支配地域：[越前](../Page/越前国.md "wikilink")
         城下町（城）：[一乗谷](https://ja.wikipedia.org/wiki/一乗谷朝倉氏遺跡#一乗谷城 "wikilink")（越前）
-        廃城：[甲斐一族の屋敷](https://ja.wikipedia.org/wiki/甲斐氏 "wikilink")（越前）
+        廃城：[甲斐一族の屋敷](../Page/甲斐氏.md "wikilink")（越前）
         ダンジョン：[東尋坊](../Page/東尋坊.md "wikilink")洞穴（越前）
 
 <!-- end list -->
@@ -312,19 +312,19 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
         本拠地を近江に置く大名家。近江にはダンジョン「比叡山」及び上級者ダンジョン「比叡山叢雲堂」がある。
         総大将：[浅井長政](../Page/浅井長政.md "wikilink")
         初期支配地域：[近江](../Page/近江国.md "wikilink")
-        城下町（城）：[小谷](https://ja.wikipedia.org/wiki/小谷城 "wikilink")（近江）
-        廃城：[六角一族の屋敷](https://ja.wikipedia.org/wiki/六角義治 "wikilink")（近江）
+        城下町（城）：[小谷](../Page/小谷城.md "wikilink")（近江）
+        廃城：[六角一族の屋敷](../Page/六角義治.md "wikilink")（近江）
         ダンジョン：[比叡山](../Page/比叡山.md "wikilink")（近江）、[比叡山叢雲堂](https://ja.wikipedia.org/wiki/比叡山延暦寺 "wikilink")（近江）、鬼門比叡山（近江）
 
 <!-- end list -->
 
-  - [伊賀忍](https://ja.wikipedia.org/wiki/伊賀流 "wikilink")
+  - [伊賀忍](../Page/伊賀流.md "wikilink")
       -
         本拠地を伊賀に置く大名家。伊賀にはダンジョン「忍者砦」がある。
-        総大将：[百地三太夫](https://ja.wikipedia.org/wiki/百地丹波 "wikilink")
+        総大将：[百地三太夫](../Page/百地丹波.md "wikilink")
         初期支配地域：[伊賀](../Page/伊賀国.md "wikilink")
         城下町（城）：[伊賀](../Page/伊賀.md "wikilink")郷（伊賀）
-        廃城：[忍者](https://ja.wikipedia.org/wiki/忍者 "wikilink")屋敷（伊賀）
+        廃城：[忍者](../Page/忍者.md "wikilink")屋敷（伊賀）
         ダンジョン：[忍者砦](https://ja.wikipedia.org/wiki/伊賀忍者 "wikilink")（伊賀）
 
 <!-- end list -->
@@ -335,7 +335,7 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
         総大将：[足利義輝](https://ja.wikipedia.org/wiki/足利義輝 "wikilink")
         初期支配地域：[山城](../Page/山城国.md "wikilink")
         城下町：[京 右京/左京](https://ja.wikipedia.org/wiki/京都 "wikilink")（山城）
-        廃城：[公子屋敷](https://ja.wikipedia.org/wiki/検非違使 "wikilink")（山城）
+        廃城：[公子屋敷](../Page/検非違使.md "wikilink")（山城）
         ダンジョン：[黄泉比良坂](../Page/黄泉比良坂.md "wikilink")（山城）、[根の国](../Page/根の国.md "wikilink")（山城）、[イザナミ](https://ja.wikipedia.org/wiki/イザナミ "wikilink")宮（山城）、凶変イザナミ宮（山城）、道摩根の国（山城）、逢魔の黄泉路（山城）
 
 <!-- end list -->
@@ -346,7 +346,7 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
         総大将：[三好長慶](../Page/三好長慶.md "wikilink")
         初期支配地域：[摂津](../Page/摂津国.md "wikilink")[和泉](../Page/和泉国.md "wikilink")、[大和](https://ja.wikipedia.org/wiki/大和国 "wikilink")
         城下町（城）：[大坂](../Page/大坂城.md "wikilink")（摂津和泉）、[奈良](https://ja.wikipedia.org/wiki/奈良市 "wikilink")（大和）
-        廃城：[茨木童子の屋敷](https://ja.wikipedia.org/wiki/羅城門 "wikilink")（摂津和泉）、[柳生屋敷](https://ja.wikipedia.org/wiki/有地新影流 "wikilink")（大和）
+        廃城：[茨木童子の屋敷](../Page/羅城門.md "wikilink")（摂津和泉）、[柳生屋敷](https://ja.wikipedia.org/wiki/有地新影流 "wikilink")（大和）
         ダンジョン：[裏堺](https://ja.wikipedia.org/wiki/堺市 "wikilink")（摂津和泉）、扶桑の森（摂津和泉）、天の雲嶺（摂津和泉）、[三輪山](../Page/三輪山.md "wikilink")（大和）
 
 <!-- end list -->
@@ -354,10 +354,10 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
   - [雑賀衆](../Page/雑賀衆.md "wikilink")
       -
         本拠地を紀伊に置く大名家。紀伊にはダンジョン「千引の石洞穴」がある。
-        総大将：[雑賀孫市](https://ja.wikipedia.org/wiki/鈴木孫一 "wikilink")
+        総大将：[雑賀孫市](../Page/鈴木孫一.md "wikilink")
         初期支配地域：[紀伊](../Page/紀伊国.md "wikilink")
         城下町（城）：[雑賀郷](../Page/雑賀衆.md "wikilink")（紀伊）
-        廃城：[牛鬼](https://ja.wikipedia.org/wiki/牛鬼 "wikilink")屋敷（紀伊）
+        廃城：[牛鬼](../Page/牛鬼.md "wikilink")屋敷（紀伊）
         ダンジョン：[千引の石洞穴](https://ja.wikipedia.org/wiki/宮井戸遺跡 "wikilink")（紀伊）
 
 <!-- end list -->
@@ -368,17 +368,17 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
         総大将[伊達政宗](../Page/伊達政宗.md "wikilink")
         初期支配地域：[陸奥](../Page/陸奥国.md "wikilink")
         城下町（城）：[仙台](../Page/仙台城.md "wikilink")（陸奥）
-        廃城：[大崎氏屋敷](https://ja.wikipedia.org/wiki/大崎義隆 "wikilink")（陸奥）
-        ダンジョン：[龍泉洞](https://ja.wikipedia.org/wiki/龍泉洞 "wikilink")、[中尊寺金色堂](https://ja.wikipedia.org/wiki/中尊寺金色堂 "wikilink")（陸奥）
+        廃城：[大崎氏屋敷](../Page/大崎義隆.md "wikilink")（陸奥）
+        ダンジョン：[龍泉洞](../Page/龍泉洞.md "wikilink")、[中尊寺金色堂](https://ja.wikipedia.org/wiki/中尊寺金色堂 "wikilink")（陸奥）
 
 <!-- end list -->
 
-  - [真田家](https://ja.wikipedia.org/wiki/真田氏 "wikilink")
+  - [真田家](../Page/真田氏.md "wikilink")
       -
         本拠地を真田庄に置く大名家。信濃の小諸と上野の箕輪をいただいたオリジナル国である。真田庄には最上級者専用ダンジョン「真田伝」がある。
         総大将[真田昌幸](../Page/真田昌幸.md "wikilink")
         初期支配地域：[真田庄](https://ja.wikipedia.org/wiki/真田庄 "wikilink")
-        城下町（城）：[上田](https://ja.wikipedia.org/wiki/上田城 "wikilink")（真田庄）
+        城下町（城）：[上田](../Page/上田城.md "wikilink")（真田庄）
         廃城：[羽尾氏屋敷](https://ja.wikipedia.org/wiki/羽尾幸全 "wikilink")（真田庄）
         ダンジョン：[真田伝](https://ja.wikipedia.org/wiki/真田伝 "wikilink")（真田庄）
   - 浪人者
@@ -398,7 +398,7 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
 #### 対人戦について
 
-信長の野望Onlineでは、いくつかの方法にて対人戦及び[PK行為が可能となっている](https://ja.wikipedia.org/wiki/プレイヤーキラー "wikilink")。
+信長の野望Onlineでは、いくつかの方法にて対人戦及び[PK行為が可能となっている](../Page/プレイヤーキラー.md "wikilink")。
 
   - 合戦
       -
@@ -415,19 +415,19 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
   - 抜け道システム
       -
-        隣国へ侵入する場合、[関所](https://ja.wikipedia.org/wiki/関所 "wikilink")（防衛用のNPCが配置されている）を通り抜ける方法と、抜け道を通る方法がある。この抜け道の一部区間は対人戦が可能な領域となっている。この領域にはいるとチャットウインドウ内にその旨の警告文が出る。名声が前後する、マゲが出る等の微細なメリットのみ。
+        隣国へ侵入する場合、[関所](../Page/関所.md "wikilink")（防衛用のNPCが配置されている）を通り抜ける方法と、抜け道を通る方法がある。この抜け道の一部区間は対人戦が可能な領域となっている。この領域にはいるとチャットウインドウ内にその旨の警告文が出る。名声が前後する、マゲが出る等の微細なメリットのみ。
 
 <!-- end list -->
 
   - 道場
       -
-        [道場](https://ja.wikipedia.org/wiki/道場 "wikilink")では互いの合意のもとで対人戦を行うことが可能であり、敗北ペナルティは設けられていない。
+        [道場](../Page/道場.md "wikilink")では互いの合意のもとで対人戦を行うことが可能であり、敗北ペナルティは設けられていない。
 
 <!-- end list -->
 
   - 上覧武術大会
       -
-        全サーバーのプレイヤーが集まって対人戦を行う、個人参加や徒党参加の大会が開催される。また成績優秀者には[天下一品](https://ja.wikipedia.org/wiki/天下一品 "wikilink")と呼ばれる、高性能なアイテムが一定期間貸し出される。
+        全サーバーのプレイヤーが集まって対人戦を行う、個人参加や徒党参加の大会が開催される。また成績優秀者には[天下一品](../Page/天下一品.md "wikilink")と呼ばれる、高性能なアイテムが一定期間貸し出される。
 
 ### 合戦と外交
 
@@ -439,7 +439,7 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
   -
     外交は、その勢力に所属するプレイヤーのうち、合戦や内政等で貢献したプレイヤー複数名に翌週の方針を提案する権利が与えられる。他のプレイヤーはその提案の中からいずれかの案を選んで献策する事により、侵攻目標や同盟申請先の投票（1キャラが持つ票数は身分・官位・官職により決定される）を行い、勢力全体の票数の割合によって毎週水曜日に行われるメンテナンス後に他勢力との外交関係が変動する。
 
-    各プレイヤーが好き勝手に提案・献策すれば、票がまとまらず不利であるため、同じ勢力のプレイヤー同士で話し合いの場（[評定](https://ja.wikipedia.org/wiki/評定 "wikilink")・[会議](../Page/会議.md "wikilink")）を持ったり、実際に他勢力の話し合いの場に[使者として赴き](../Page/外交官.md "wikilink")、その勢力のプレイヤーと外交を行い、[同盟](https://ja.wikipedia.org/wiki/同盟 "wikilink")を結んだりする独特のコミュニケーションが生まれた。その過程において、国ごとにその国の性格とも言うべき特徴・特色と言われるものも生まれ、名称・仕組みは国によって様々である。
+    各プレイヤーが好き勝手に提案・献策すれば、票がまとまらず不利であるため、同じ勢力のプレイヤー同士で話し合いの場（[評定](../Page/評定.md "wikilink")・[会議](../Page/会議.md "wikilink")）を持ったり、実際に他勢力の話し合いの場に[使者として赴き](../Page/外交官.md "wikilink")、その勢力のプレイヤーと外交を行い、[同盟](../Page/同盟.md "wikilink")を結んだりする独特のコミュニケーションが生まれた。その過程において、国ごとにその国の性格とも言うべき特徴・特色と言われるものも生まれ、名称・仕組みは国によって様々である。
 
   - ;側衆制度
 
@@ -473,10 +473,10 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
       -
         陣取戦は2008年の「争覇の章」導入前は合戦のメインとなっていたフェーズで、合戦場に配置された武将を撃破し戦果を挙げることで相手勢力の支配国の国力減少を狙う。
-        合戦場には両陣営に[本陣](../Page/本陣.md "wikilink")・[小荷駄が](https://ja.wikipedia.org/wiki/備 "wikilink")1つ、先鋒・中備・後詰の各[要害が左翼](https://ja.wikipedia.org/wiki/備 "wikilink")・中翼・右翼の三方向に計9つ点在し、本陣には陣営の[大名と四天王](../Page/戦国大名.md "wikilink")、小荷駄と各要害には、その勢力に仕えた武将が主将として守備に就いている。
+        合戦場には両陣営に[本陣](../Page/本陣.md "wikilink")・[小荷駄が](../Page/備.md "wikilink")1つ、先鋒・中備・後詰の各[要害が左翼](../Page/備.md "wikilink")・中翼・右翼の三方向に計9つ点在し、本陣には陣営の[大名と四天王](../Page/戦国大名.md "wikilink")、小荷駄と各要害には、その勢力に仕えた武将が主将として守備に就いている。
         各武将は通常のNPCよりも高い強さを持っているが、隣接する要害や要害を守護する護衛NPCを撃破することで、武将徒党の構成人数を減らすことができる。
         敵武将や敵NPCを撃破することで味方陣営に戦果が加算されるため、自勢力のプレイヤーや同盟勢力のプレイヤーが一致団結して敵武将を撃破し、味方武将を守るのが合戦の醍醐味となっている。
-        また、大砲や抜け道を設置する[兵站](https://ja.wikipedia.org/wiki/兵站 "wikilink")活動といわれるクエストがあり、レベルの低いプレイヤーでも勢力に貢献できるようになっている。
+        また、大砲や抜け道を設置する[兵站](../Page/兵站.md "wikilink")活動といわれるクエストがあり、レベルの低いプレイヤーでも勢力に貢献できるようになっている。
 
   - ;大決戦
 
@@ -488,12 +488,12 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
 #### 合戦フィールド
 
-合戦フィールドは発生した場所によって地名が決められ、それぞれ3タイプの地形からランダムに選択される。地形の種類は11タイプが存在する（[雪山](https://ja.wikipedia.org/wiki/雪山 "wikilink")地帯、[雪](../Page/雪.md "wikilink")原地帯、[草原](https://ja.wikipedia.org/wiki/草原 "wikilink")地帯、[海岸](../Page/海岸.md "wikilink")地帯、[湖](https://ja.wikipedia.org/wiki/湖 "wikilink")畔地帯、[山](../Page/山.md "wikilink")林地帯、[平地地帯](../Page/平野.md "wikilink")、[盆地](../Page/盆地.md "wikilink")地帯、[山岳地帯](../Page/山地.md "wikilink")、[林道地帯](../Page/森林.md "wikilink")、[峠](../Page/峠.md "wikilink")地帯）。
+合戦フィールドは発生した場所によって地名が決められ、それぞれ3タイプの地形からランダムに選択される。地形の種類は11タイプが存在する（[雪山](https://ja.wikipedia.org/wiki/雪山 "wikilink")地帯、[雪](../Page/雪.md "wikilink")原地帯、[草原](../Page/草原.md "wikilink")地帯、[海岸](../Page/海岸.md "wikilink")地帯、[湖](https://ja.wikipedia.org/wiki/湖 "wikilink")畔地帯、[山](../Page/山.md "wikilink")林地帯、[平地地帯](../Page/平野.md "wikilink")、[盆地](../Page/盆地.md "wikilink")地帯、[山岳地帯](../Page/山地.md "wikilink")、[林道地帯](../Page/森林.md "wikilink")、[峠](../Page/峠.md "wikilink")地帯）。
 
 合戦地の地名は以下の通り。
 
   -
-    [坂井平野](https://ja.wikipedia.org/wiki/坂井市 "wikilink")、[糸魚川](../Page/糸魚川市.md "wikilink")、[川中島](https://ja.wikipedia.org/wiki/川中島 "wikilink")、[手取川](https://ja.wikipedia.org/wiki/手取川 "wikilink")、[小牧山](https://ja.wikipedia.org/wiki/小牧山 "wikilink")、[利根川](../Page/利根川.md "wikilink")、[三国峠](https://ja.wikipedia.org/wiki/三国峠 "wikilink")、[鳥居峠](https://ja.wikipedia.org/wiki/鳥居峠 "wikilink")、[三増峠](https://ja.wikipedia.org/wiki/三増峠の戦い "wikilink")、[入間川](../Page/入間川_\(埼玉県\).md "wikilink")、[伊豆](https://ja.wikipedia.org/wiki/伊豆 "wikilink")沖、[大井川](../Page/大井川.md "wikilink")、[富士川](../Page/富士川.md "wikilink")、[上田原](https://ja.wikipedia.org/wiki/上田原の戦い "wikilink")、[木曽川](../Page/木曽川.md "wikilink")、[長篠](../Page/長篠の戦い.md "wikilink")、[三方ヶ原](https://ja.wikipedia.org/wiki/三方ヶ原 "wikilink")、[桶狭間](https://ja.wikipedia.org/wiki/桶狭間 "wikilink")、[木曽川](../Page/木曽川.md "wikilink")沖、[姉川](https://ja.wikipedia.org/wiki/姉川 "wikilink")、[関ヶ原](../Page/関ケ原町.md "wikilink")、[賤ヶ岳](../Page/賤ヶ岳の戦い.md "wikilink")、[大津](../Page/大津市.md "wikilink")、[甲賀](https://ja.wikipedia.org/wiki/甲賀 "wikilink")、[鈴鹿](https://ja.wikipedia.org/wiki/鈴鹿 "wikilink")峠、[笠置山](https://ja.wikipedia.org/wiki/元弘の乱 "wikilink")、[金剛山](../Page/金剛山_\(金剛山地\).md "wikilink")、[吉野](https://ja.wikipedia.org/wiki/吉野 "wikilink")、[田倉崎](https://ja.wikipedia.org/wiki/田倉崎 "wikilink")、[天王山](https://ja.wikipedia.org/wiki/天王山 "wikilink")、[宇治](../Page/宇治市.md "wikilink")
+    [坂井平野](../Page/坂井市.md "wikilink")、[糸魚川](../Page/糸魚川市.md "wikilink")、[川中島](../Page/川中島.md "wikilink")、[手取川](../Page/手取川.md "wikilink")、[小牧山](../Page/小牧山.md "wikilink")、[利根川](../Page/利根川.md "wikilink")、[三国峠](https://ja.wikipedia.org/wiki/三国峠 "wikilink")、[鳥居峠](https://ja.wikipedia.org/wiki/鳥居峠 "wikilink")、[三増峠](../Page/三増峠の戦い.md "wikilink")、[入間川](../Page/入間川_\(埼玉県\).md "wikilink")、[伊豆](https://ja.wikipedia.org/wiki/伊豆 "wikilink")沖、[大井川](../Page/大井川.md "wikilink")、[富士川](../Page/富士川.md "wikilink")、[上田原](../Page/上田原の戦い.md "wikilink")、[木曽川](../Page/木曽川.md "wikilink")、[長篠](../Page/長篠の戦い.md "wikilink")、[三方ヶ原](https://ja.wikipedia.org/wiki/三方ヶ原 "wikilink")、[桶狭間](../Page/桶狭間.md "wikilink")、[木曽川](../Page/木曽川.md "wikilink")沖、[姉川](../Page/姉川.md "wikilink")、[関ヶ原](../Page/関ケ原町.md "wikilink")、[賤ヶ岳](../Page/賤ヶ岳の戦い.md "wikilink")、[大津](../Page/大津市.md "wikilink")、[甲賀](https://ja.wikipedia.org/wiki/甲賀 "wikilink")、[鈴鹿](https://ja.wikipedia.org/wiki/鈴鹿 "wikilink")峠、[笠置山](../Page/元弘の乱.md "wikilink")、[金剛山](../Page/金剛山_\(金剛山地\).md "wikilink")、[吉野](../Page/吉野.md "wikilink")、[田倉崎](https://ja.wikipedia.org/wiki/田倉崎 "wikilink")、[天王山](../Page/天王山.md "wikilink")、[宇治](../Page/宇治市.md "wikilink")
 
 ### 身分システム
 
@@ -521,14 +521,14 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
 #### 官位
 
-特定の条件をクリアすると[官位](https://ja.wikipedia.org/wiki/官位 "wikilink")が与えられ、以下の特典を享受できる。
+特定の条件をクリアすると[官位](../Page/官位.md "wikilink")が与えられ、以下の特典を享受できる。
 
   - 寄合長からもらえる俸禄が増える。
   - 献策の票数が増える。
 
 #### 官職
 
-官位を所有した状態で特定の条件をクリアすると、2週間の任期で[官職](https://ja.wikipedia.org/wiki/官職 "wikilink")が与えられ、以下の特典を享受できる。
+官位を所有した状態で特定の条件をクリアすると、2週間の任期で[官職](../Page/官職.md "wikilink")が与えられ、以下の特典を享受できる。
 
   - 寄合長からもらえる俸禄が倍額になる。
   - 献策の票数が倍増する。
@@ -617,7 +617,7 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
 つまり、「素材として良い装備品を作る」→「入魂に成功し、最大級のステータスを付与する」→「良い付与石を付与する」という3段階を経なければ至高の一品を作り出すことができない仕組みとなっている。
 
-このシステムはユーザーの所持する財産（お金）を消費させ、物価のインフレを抑える効果を持っている反面、[RMT使用者の増加原因にもなっているという批判もあがっている](https://ja.wikipedia.org/wiki/リアルマネートレーディング "wikilink")。
+このシステムはユーザーの所持する財産（お金）を消費させ、物価のインフレを抑える効果を持っている反面、[RMT使用者の増加原因にもなっているという批判もあがっている](../Page/リアルマネートレーディング.md "wikilink")。
 
 現在は新規プレイヤーでもコストをかけず装備を揃えられる様、強力な付与石と同等の性能を持つアイテムがクエストで入手可能となっている（ただし、全ての装備には適用出来ない仕組みになっている）。
 
@@ -739,7 +739,7 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
 #### 知行システムの導入
 
-ある一定の[身分](../Page/身分.md "wikilink")になったプレイヤーは[知行](https://ja.wikipedia.org/wiki/知行 "wikilink")地を拝領できる。知行地はプレイヤーがそれぞれ成長させていく事ができる土地であり、それぞれの土地からは生産に必要な資源が獲得できるようになっている。その資源を加工して生産材料にしたり、売買する事でお金を稼いだりする事が可能になった。
+ある一定の[身分](../Page/身分.md "wikilink")になったプレイヤーは[知行](../Page/知行.md "wikilink")地を拝領できる。知行地はプレイヤーがそれぞれ成長させていく事ができる土地であり、それぞれの土地からは生産に必要な資源が獲得できるようになっている。その資源を加工して生産材料にしたり、売買する事でお金を稼いだりする事が可能になった。
 
 \*:また、「飛龍の章」以降の生産（上位生産）では、この知行地からとれる資源がほぼ必須の状況となっている。
 
@@ -749,11 +749,11 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
 #### 官位システムの導入
 
-一定の勲功を納めたプレイヤーは[官位](https://ja.wikipedia.org/wiki/官位 "wikilink")が拝領できるようになった。また官位に応じた官職を入札によって拝領できる。官位・官職には献策票の増加効果があり、上位の官位を得るほど国政に影響を与えることができる。
+一定の勲功を納めたプレイヤーは[官位](../Page/官位.md "wikilink")が拝領できるようになった。また官位に応じた官職を入札によって拝領できる。官位・官職には献策票の増加効果があり、上位の官位を得るほど国政に影響を与えることができる。
 
 ### 破天の章
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月12日](../Page/9月12日.md "wikilink")に拡張パック「破天の章」が発表され、
+[2006年](../Page/2006年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")に拡張パック「破天の章」が発表され、
 
 2006年[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")にサービスイン、発売された。拡張料金は2,940円（税込）。
 
@@ -761,7 +761,7 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
 #### 「隠れ里」の導入
 
-「隠れ里」という初心者専用エリアが導入された。キャラクター作成直後はこのゾーンからスタートする。自然と流れるように設定されたクエストが用意されており、これらを全てこなすことでチャットシステムや生産システム、戦闘システム、徒党の組み方などを自然と習得できるように構築されている。また、クエストの一部に戦国時代に[丹波国](../Page/丹波国.md "wikilink")を支配していた[波多野氏](../Page/波多野氏.md "wikilink")（[波多野秀治](https://ja.wikipedia.org/wiki/波多野秀治 "wikilink")、[波多野秀尚](https://ja.wikipedia.org/wiki/波多野秀尚 "wikilink")）が登場している。
+「隠れ里」という初心者専用エリアが導入された。キャラクター作成直後はこのゾーンからスタートする。自然と流れるように設定されたクエストが用意されており、これらを全てこなすことでチャットシステムや生産システム、戦闘システム、徒党の組み方などを自然と習得できるように構築されている。また、クエストの一部に戦国時代に[丹波国](../Page/丹波国.md "wikilink")を支配していた[波多野氏](../Page/波多野氏.md "wikilink")（[波多野秀治](../Page/波多野秀治.md "wikilink")、[波多野秀尚](https://ja.wikipedia.org/wiki/波多野秀尚 "wikilink")）が登場している。
 
 #### 特化技能四の導入
 
@@ -769,7 +769,7 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
 #### 知行のレベルの上限アップ
 
-[知行](https://ja.wikipedia.org/wiki/知行 "wikilink")のレベルの上限7になる。また、「破天の章」以降の生産（上位生産）では、この知行地からとれる資源がほぼ必須の状況となっている。
+[知行](../Page/知行.md "wikilink")のレベルの上限7になる。また、「破天の章」以降の生産（上位生産）では、この知行地からとれる資源がほぼ必須の状況となっている。
 
 #### 楽市楽座システムの導入
 
@@ -800,7 +800,7 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
 ### 争覇の章
 
-[2007年](https://ja.wikipedia.org/wiki/2007年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")に拡張パック「争覇の章」が発表され、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")にサービスイン、発売された。
+[2007年](../Page/2007年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")に拡張パック「争覇の章」が発表され、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")にサービスイン、発売された。
 
 「飛龍の章」で追加要素の実装の遅れが批判の的となったため、追加要素を順次追加していく事をあらかじめ発表する「チャプター制」という形式になっている。
 
@@ -814,7 +814,7 @@ MMORPGとしては珍しく[戦国時代の日本が舞台であり](../Page/戦
 
 #### 知行のレベルの上限アップ
 
-[知行](https://ja.wikipedia.org/wiki/知行 "wikilink")のレベルの上限9になる。また、「争覇の章」以降の生産（上位生産）では、この知行地からとれる資源がほぼ必須の状況となっている。また、知行システムの大幅な変革もおこなわれた
+[知行](../Page/知行.md "wikilink")のレベルの上限9になる。また、「争覇の章」以降の生産（上位生産）では、この知行地からとれる資源がほぼ必須の状況となっている。また、知行システムの大幅な変革もおこなわれた
 
 #### 九州三国志の導入
 
@@ -1014,7 +1014,7 @@ TREASURE BOX(win版、PS3版)：14800円(税込)
 
 <!-- end list -->
 
-  - MMORPG評価サイトにてコーエー社員が自社製品である「信長の野望Online」について自社の端末から好意的な書き込みを行うという不祥事が発覚、コーエーは事実を認め公式に謝罪、公平性を持ったサイトにて自画自賛を行うという行為は多くの批判を招いた。不適切な印象操作を行った際コメント欄に記述されていた「道端で寝るおもしろす」というフレーズが一時プレイヤーの間で流行した。その意味は書き込みが行われる少し前に実装された新しい所作（自キャラに手を振ったり、[お辞儀](https://ja.wikipedia.org/wiki/お辞儀 "wikilink")をしたりという動作を行わせるコマンド）／寝るで、「自キャラを道端で寝転ばせるのは面白いよ」といった意味である。
+  - MMORPG評価サイトにてコーエー社員が自社製品である「信長の野望Online」について自社の端末から好意的な書き込みを行うという不祥事が発覚、コーエーは事実を認め公式に謝罪、公平性を持ったサイトにて自画自賛を行うという行為は多くの批判を招いた。不適切な印象操作を行った際コメント欄に記述されていた「道端で寝るおもしろす」というフレーズが一時プレイヤーの間で流行した。その意味は書き込みが行われる少し前に実装された新しい所作（自キャラに手を振ったり、[お辞儀](../Page/お辞儀.md "wikilink")をしたりという動作を行わせるコマンド）／寝るで、「自キャラを道端で寝転ばせるのは面白いよ」といった意味である。
 
 <!-- end list -->
 
@@ -1082,7 +1082,7 @@ TREASURE BOX(win版、PS3版)：14800円(税込)
   - 2007年12月16日
       -
         2008年3月に拡張パック第3弾「争覇の章」が実装されることを発表。
-        [大航海時代Online](https://ja.wikipedia.org/wiki/大航海時代Online "wikilink")と同じく発表会も催された。
+        [大航海時代Online](../Page/大航海時代Online.md "wikilink")と同じく発表会も催された。
   - 2007年12月19日
       -
         「長期プレイ報奨」サービス スタート
@@ -1205,7 +1205,7 @@ TREASURE BOX(win版、PS3版)：14800円(税込)
 
 ## 関連書籍
 
-  - 『[オンラインゲーム すごい攻略やってます。](https://ja.wikipedia.org/wiki/オンラインゲーム_すごい攻略やってます。 "wikilink")』（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")）
+  - 『[オンラインゲーム すごい攻略やってます。](../Page/オンラインゲーム_すごい攻略やってます。.md "wikilink")』（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")）
   - 『[ファミ通Connect\!On](https://ja.wikipedia.org/wiki/ファミ通Connect!On "wikilink")-コネクト！オン』（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")）
   - 『信長の野望 Online 破天の章 オフィシャルガイド 07.2.28バージョン』上・下（コーエー）
 

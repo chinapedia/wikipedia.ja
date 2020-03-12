@@ -1,7 +1,7 @@
 > この記事は[PLCC](https://ja.wikipedia.org/wiki/PLCC)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Qfj52.jpg "wikilink") Motorola MC68HC711E9CFN3 in QFJ52 / PLCC52\]\] **PLCC**（Plastic leaded chip carrier）とは、電気部品の[半導体](../Page/半導体.md "wikilink")[集積回路](../Page/集積回路.md "wikilink")の[パッケージの一種で](https://ja.wikipedia.org/wiki/パッケージ_\(電子部品\) "wikilink")[QFJとも言う](https://ja.wikipedia.org/wiki/パッケージ_\(電子部品\)#QFJ.EF.BC.88Quad_Flat_J-leaded_Package.EF.BC.89 "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Qfj52.jpg "wikilink") Motorola MC68HC711E9CFN3 in QFJ52 / PLCC52\]\] **PLCC**（Plastic leaded chip carrier）とは、電気部品の[半導体](../Page/半導体.md "wikilink")[集積回路](../Page/集積回路.md "wikilink")の[パッケージの一種で](../Page/パッケージ_\(電子部品\).md "wikilink")[QFJとも言う](https://ja.wikipedia.org/wiki/パッケージ_\(電子部品\)#QFJ.EF.BC.88Quad_Flat_J-leaded_Package.EF.BC.89 "wikilink")。
 
 ## 特徴
 

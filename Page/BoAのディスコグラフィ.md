@@ -23,17 +23,17 @@ BoAのディスコグラフィでは、[BoA](../Page/BoA.md "wikilink")が発表
 <td><center>
 <p>1st</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ID;_Peace_B_(曲)" title="wikilink">ID; Peace B</a></strong></p></td>
+<td><p><strong><a href="../Page/ID;_Peace_B_(曲).md" title="wikilink">ID; Peace B</a></strong></p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/5月30日.md" title="wikilink">5月30日</a></p></td>
 <td><p><a href="../Page/CD-DA.md" title="wikilink">CD</a></p></td>
 <td><p>AVCD-30243</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/LISTEN_TO_MY_HEART_(アルバム)" title="wikilink">LISTEN TO MY HEART</a></strong></p></td>
+<td><p><strong><a href="../Page/LISTEN_TO_MY_HEART_(アルバム).md" title="wikilink">LISTEN TO MY HEART</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p>2nd</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Amazing_Kiss" title="wikilink">Amazing Kiss</a></strong></p></td>
+<td><p><strong><a href="../Page/Amazing_Kiss.md" title="wikilink">Amazing Kiss</a></strong></p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/7月25日.md" title="wikilink">7月25日</a></p></td>
 <td><p>CD</p></td>
 <td><p>AVCD-30248</p></td>
@@ -43,7 +43,7 @@ BoAのディスコグラフィでは、[BoA](../Page/BoA.md "wikilink")が発表
 <td><center>
 <p>3rd</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/気持ちはつたわる" title="wikilink">気持ちはつたわる</a></strong></p></td>
+<td><p><strong><a href="../Page/気持ちはつたわる.md" title="wikilink">気持ちはつたわる</a></strong></p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/12月5日.md" title="wikilink">12月5日</a></p></td>
 <td><p>CD</p></td>
 <td><p>AVCD-30271</p></td>
@@ -63,7 +63,7 @@ BoAのディスコグラフィでは、[BoA](../Page/BoA.md "wikilink")が発表
 <td><center>
 <p>5th</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Every_Heart_-ミンナノキモチ-" title="wikilink">Every Heart -ミンナノキモチ-</a></strong></p></td>
+<td><p><strong><a href="../Page/Every_Heart_-ミンナノキモチ-.md" title="wikilink">Every Heart -ミンナノキモチ-</a></strong></p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/3月13日.md" title="wikilink">3月13日</a></p></td>
 <td><p>CD（<a href="../Page/コピーコントロールCD.md" title="wikilink">CCCD</a>）</p></td>
 <td><p>AVCD-30339</p></td>
@@ -73,7 +73,7 @@ BoAのディスコグラフィでは、[BoA](../Page/BoA.md "wikilink")が発表
 <td><center>
 <p>6th</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Don&#39;t_start_now" title="wikilink">Don't start now</a></strong></p></td>
+<td><p><strong><a href="../Page/Don&#39;t_start_now.md" title="wikilink">Don't start now</a></strong></p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/5月29日.md" title="wikilink">5月29日</a></p></td>
 <td><p>CD（CCCD）</p></td>
 <td><p>AVCD-30372</p></td>
@@ -83,11 +83,11 @@ BoAのディスコグラフィでは、[BoA](../Page/BoA.md "wikilink")が発表
 <td><center>
 <p>7th</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/VALENTI" title="wikilink">VALENTI</a></strong></p></td>
+<td><p><strong><a href="../Page/VALENTI.md" title="wikilink">VALENTI</a></strong></p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/8月28日.md" title="wikilink">8月28日</a></p></td>
 <td><p>CD（CCCD）</p></td>
 <td><p>AVCD-30358</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/VALENTI_(アルバム)" title="wikilink">VALENTI</a></strong></p></td>
+<td><p><strong><a href="../Page/VALENTI_(アルバム).md" title="wikilink">VALENTI</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -117,7 +117,7 @@ BoAのディスコグラフィでは、[BoA](../Page/BoA.md "wikilink")が発表
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/5月14日.md" title="wikilink">5月14日</a></p></td>
 <td><p>CD（CCCD）</p></td>
 <td><p>AVCD-30460</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/LOVE_&amp;_HONESTY" title="wikilink">LOVE &amp; HONESTY</a></strong></p></td>
+<td><p><strong><a href="../Page/LOVE_&amp;_HONESTY.md" title="wikilink">LOVE &amp; HONESTY</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -133,7 +133,7 @@ BoAのディスコグラフィでは、[BoA](../Page/BoA.md "wikilink")が発表
 <td><center>
 <p>12th</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Rock_With_You_(BoAの曲)" title="wikilink">Rock With You</a></strong></p></td>
+<td><p><strong><a href="../Page/Rock_With_You_(BoAの曲).md" title="wikilink">Rock With You</a></strong></p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/12月3日.md" title="wikilink">12月3日</a></p></td>
 <td><p>CD（CCCD）</p></td>
 <td><p>AVCD-30529</p></td>
@@ -143,7 +143,7 @@ BoAのディスコグラフィでは、[BoA](../Page/BoA.md "wikilink")が発表
 <td><center>
 <p>13th</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Be_the_one" title="wikilink">Be the one</a></strong></p></td>
+<td><p><strong><a href="../Page/Be_the_one.md" title="wikilink">Be the one</a></strong></p></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/2月11日.md" title="wikilink">2月11日</a></p></td>
 <td><p>CD（CCCD）</p></td>
 <td><p>AVCD-30561</p></td>
@@ -157,7 +157,7 @@ BoAのディスコグラフィでは、[BoA](../Page/BoA.md "wikilink")が発表
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/9月1日.md" title="wikilink">9月1日</a></p></td>
 <td><p>CD（CCCD）</p></td>
 <td><p>AVCD-30611</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/BEST_OF_SOUL" title="wikilink">BEST OF SOUL</a></strong></p></td>
+<td><p><strong><a href="../Page/BEST_OF_SOUL.md" title="wikilink">BEST OF SOUL</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -177,18 +177,18 @@ AVAD-91230</p></td>
 <td><center>
 <p>16th</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/DO_THE_MOTION" title="wikilink">DO THE MOTION</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月30日.md" title="wikilink">3月30日</a></p></td>
+<td><p><strong><a href="../Page/DO_THE_MOTION.md" title="wikilink">DO THE MOTION</a></strong></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月30日.md" title="wikilink">3月30日</a></p></td>
 <td><p>CD</p></td>
 <td><p>AVCD-30699</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/OUTGROW" title="wikilink">OUTGROW</a></strong></p></td>
+<td><p><strong><a href="../Page/OUTGROW.md" title="wikilink">OUTGROW</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>17th</p>
 </center></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/make_a_secret" title="wikilink">make a secret</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月31日.md" title="wikilink">8月31日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月31日.md" title="wikilink">8月31日</a></p></td>
 <td><p>CD</p></td>
 <td><p>AVCD-30799</p></td>
 <td></td>
@@ -197,8 +197,8 @@ AVAD-91230</p></td>
 <td><center>
 <p>18th</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/抱きしめる" title="wikilink">抱きしめる</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月23日.md" title="wikilink">11月23日</a></p></td>
+<td><p><strong><a href="../Page/抱きしめる.md" title="wikilink">抱きしめる</a></strong></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月23日.md" title="wikilink">11月23日</a></p></td>
 <td><p>CD</p></td>
 <td><p>AVCD-30838</p></td>
 <td></td>
@@ -208,7 +208,7 @@ AVAD-91230</p></td>
 <p>19th</p>
 </center></td>
 <td><p><strong><a href="../Page/Everlasting_(BoAの曲).md" title="wikilink">Everlasting</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/1月18日.md" title="wikilink">1月18日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/1月18日.md" title="wikilink">1月18日</a></p></td>
 <td><p>CD</p></td>
 <td><p>AVCD-30904</p></td>
 <td></td>
@@ -218,19 +218,19 @@ AVAD-91230</p></td>
 <p>20th</p>
 </center></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/七色の明日_〜brand_new_beat〜/Your_Color" title="wikilink">七色の明日 〜brand new beat〜 / Your Color</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
 <td><p>CD<br />
 CD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></p></td>
 <td><p>AVCD-30964<br />
 AVCD-30963</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/MADE_IN_TWENTY_(20)" title="wikilink">MADE IN TWENTY (20)</a></strong></p></td>
+<td><p><strong><a href="../Page/MADE_IN_TWENTY_(20).md" title="wikilink">MADE IN TWENTY (20)</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>21st</p>
 </center></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/KEY_OF_HEART/DOTCH" title="wikilink">KEY OF HEART / DOTCH</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月9日.md" title="wikilink">8月9日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月9日.md" title="wikilink">8月9日</a></p></td>
 <td><p>CD+DVD</p></td>
 <td><p>AVCD-31015</p></td>
 <td></td>
@@ -240,7 +240,7 @@ AVCD-30963</p></td>
 <p>22nd</p>
 </center></td>
 <td><p><strong><a href="../Page/Winter_Love.md" title="wikilink">Winter Love</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/11月1日.md" title="wikilink">11月1日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/11月1日.md" title="wikilink">11月1日</a></p></td>
 <td><p>CD<br />
 CD+DVD</p></td>
 <td><p>AVCD-31079<br />
@@ -251,20 +251,20 @@ AVCD-31078/B</p></td>
 <td><center>
 <p>23rd</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Sweet_Impact" title="wikilink">Sweet Impact</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/4月25日.md" title="wikilink">4月25日</a></p></td>
+<td><p><strong><a href="../Page/Sweet_Impact.md" title="wikilink">Sweet Impact</a></strong></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/4月25日.md" title="wikilink">4月25日</a></p></td>
 <td><p>CD<br />
 CD+DVD</p></td>
 <td><p>AVCD-31229<br />
 AVCD-31228/B</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/THE_FACE" title="wikilink">THE FACE</a></strong></p></td>
+<td><p><strong><a href="../Page/THE_FACE.md" title="wikilink">THE FACE</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p>24th</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/LOVE_LETTER_(BoAの曲)" title="wikilink">LOVE LETTER</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/9月26日.md" title="wikilink">9月26日</a></p></td>
+<td><p><strong><a href="../Page/LOVE_LETTER_(BoAの曲).md" title="wikilink">LOVE LETTER</a></strong></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/9月26日.md" title="wikilink">9月26日</a></p></td>
 <td><p>CD<br />
 CD+DVD</p></td>
 <td><p>AVCD-31305<br />
@@ -275,8 +275,8 @@ AVCD-31304/B</p></td>
 <td><center>
 <p>25th</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/LOSE_YOUR_MIND_feat.Yutaka_Furukawa_from_DOPING_PANDA" title="wikilink">LOSE YOUR MIND feat.Yutaka Furukawa from DOPING PANDA</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/12月12日.md" title="wikilink">12月12日</a></p></td>
+<td><p><strong><a href="../Page/LOSE_YOUR_MIND_feat.Yutaka_Furukawa_from_DOPING_PANDA.md" title="wikilink">LOSE YOUR MIND feat.Yutaka Furukawa from DOPING PANDA</a></strong></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/12月12日.md" title="wikilink">12月12日</a></p></td>
 <td><p>CD<br />
 CD+DVD</p></td>
 <td><p>AVCD-31368<br />
@@ -297,7 +297,7 @@ AVCD-31367</p></td>
 <td><center>
 <p>27th</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Vivid_(BoAのシングル)" title="wikilink">Vivid -Kissing you, Sparkling, Joyful Smile-</a></strong></p></td>
+<td><p><strong><a href="../Page/Vivid_(BoAのシングル).md" title="wikilink">Vivid -Kissing you, Sparkling, Joyful Smile-</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/6月4日.md" title="wikilink">6月4日</a></p></td>
 <td><p>CD<br />
 CD+DVD</p></td>
@@ -429,10 +429,10 @@ AVCK79178/B</p></td>
 <p>37th</p>
 </center></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/MASAYUME_CHASING" title="wikilink">MASAYUME CHASING</a></strong></p></td>
-<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p>CD<br />
 CD+DVD<br />
-<a href="https://ja.wikipedia.org/wiki/FAIRY_TALE" title="wikilink">FAIRY TALE盤</a></p></td>
+<a href="../Page/FAIRY_TALE.md" title="wikilink">FAIRY TALE盤</a></p></td>
 <td><p>AVCK-79203<br />
 AVCK-79202/B<br />
 AVCK-79204</p></td>
@@ -473,7 +473,7 @@ AVCK-79311/B</p></td>
 <p>40th</p>
 </center></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/スキだよ_-MY_LOVE-/AMOR" title="wikilink">スキだよ -MY LOVE-/AMOR</a></strong></p></td>
-<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/4月3日" title="wikilink">4月3日</a></p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/4月3日.md" title="wikilink">4月3日</a></p></td>
 <td><p>CD<br />
 CD+DVD</p></td>
 <td><p>AVCK-79541<br />
@@ -508,7 +508,7 @@ AVCK-79540/B</p></td>
 <p>1</p>
 </center></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/KEY_OF_HEART/DOTCH" title="wikilink">KEY OF HEART</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
 <td><p>韓国でのみ配信 （日本では未配信）</p></td>
 </tr>
 <tr class="even">
@@ -581,7 +581,7 @@ AVCK-79540/B</p></td>
 <td><center>
 <p>1st</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/LISTEN_TO_MY_HEART_(アルバム)" title="wikilink">LISTEN TO MY HEART</a></strong></p></td>
+<td><p><strong><a href="../Page/LISTEN_TO_MY_HEART_(アルバム).md" title="wikilink">LISTEN TO MY HEART</a></strong></p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/3月13日.md" title="wikilink">3月13日</a></p></td>
 <td><p>CD</p></td>
 <td><p>AVCD-17061</p></td>
@@ -592,7 +592,7 @@ AVCK-79540/B</p></td>
 <td><center>
 <p>2nd</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/VALENTI_(アルバム)" title="wikilink">VALENTI</a></strong></p></td>
+<td><p><strong><a href="../Page/VALENTI_(アルバム).md" title="wikilink">VALENTI</a></strong></p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/1月29日.md" title="wikilink">1月29日</a></p></td>
 <td><p>CD<br />
 CD+DVD</p></td>
@@ -606,7 +606,7 @@ DVDは初回盤のみ</p></td>
 <td><center>
 <p>3rd</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/LOVE_&amp;_HONESTY" title="wikilink">LOVE &amp; HONESTY</a></strong></p></td>
+<td><p><strong><a href="../Page/LOVE_&amp;_HONESTY.md" title="wikilink">LOVE &amp; HONESTY</a></strong></p></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/1月15日.md" title="wikilink">1月15日</a></p></td>
 <td><p>CD<br />
 CD+DVD</p></td>
@@ -619,8 +619,8 @@ AVCD-17389</p></td>
 <td><center>
 <p>4th</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/OUTGROW" title="wikilink">OUTGROW</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月15日.md" title="wikilink">2月15日</a></p></td>
+<td><p><strong><a href="../Page/OUTGROW.md" title="wikilink">OUTGROW</a></strong></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月15日.md" title="wikilink">2月15日</a></p></td>
 <td><p>CD<br />
 CD+DVD</p></td>
 <td><p>AVCD-17795<br />
@@ -632,8 +632,8 @@ AVCD-17794</p></td>
 <td><center>
 <p>5th</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/MADE_IN_TWENTY_(20)" title="wikilink">MADE IN TWENTY (20)</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="https://ja.wikipedia.org/wiki/1月17日" title="wikilink">1月17日</a></p></td>
+<td><p><strong><a href="../Page/MADE_IN_TWENTY_(20).md" title="wikilink">MADE IN TWENTY (20)</a></strong></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="https://ja.wikipedia.org/wiki/1月17日" title="wikilink">1月17日</a></p></td>
 <td><p>CD<br />
 CD+DVD</p></td>
 <td><p>AVCD-23154<br />
@@ -645,7 +645,7 @@ AVCD-23153</p></td>
 <td><center>
 <p>6th</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/THE_FACE" title="wikilink">THE FACE</a></strong></p></td>
+<td><p><strong><a href="../Page/THE_FACE.md" title="wikilink">THE FACE</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/2月27日.md" title="wikilink">2月27日</a></p></td>
 <td><p>CD<br />
 CD+DVD<br />
@@ -775,9 +775,9 @@ AVCD-18055</p></td>
 <td><center>
 <p>2</p>
 </center></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/BEST_OF_SOUL" title="wikilink">BEST OF SOUL<br />
+<td><p><strong><a href="../Page/BEST_OF_SOUL.md" title="wikilink">BEST OF SOUL<br />
 BEST OF SOUL -PERFECT EDITION-</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/2月2日.md" title="wikilink">2月2日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/2月2日.md" title="wikilink">2月2日</a></p></td>
 <td><p>CD<br />
 CD+DVD<br />
 SACD<br />
@@ -921,8 +921,8 @@ AVCD-23830～1/B～C</p></td>
 </center></td>
 <td><p><strong><a href="../Page/Girls_On_Top.md" title="wikilink">Girls On Top<br />
 MOTO</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月25日.md" title="wikilink">6月25日</a><br />
-<a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月17日.md" title="wikilink">8月17日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月25日.md" title="wikilink">6月25日</a><br />
+<a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月17日.md" title="wikilink">8月17日</a></p></td>
 <td><p>CD</p></td>
 <td><p>SMCD-110</p></td>
 <td><p>収録曲に違いはない</p></td>
@@ -1105,7 +1105,7 @@ SMCD-207</p></td>
 
 ### SMTOWN シリーズ
 
-  - 夏と冬に[SMエンターテインメント](https://ja.wikipedia.org/wiki/SMエンターテインメント "wikilink")に所属するアーティストが集結し、発売されるスペシャルアルバム。デビュー以来、2007年冬までBoAはこのアルバムに毎回欠かさず参加していた。詳細は[こちらを参照されたい](https://ja.wikipedia.org/wiki/SMエンターテインメント#コンピレーションアルバム "wikilink")。
+  - 夏と冬に[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")に所属するアーティストが集結し、発売されるスペシャルアルバム。デビュー以来、2007年冬までBoAはこのアルバムに毎回欠かさず参加していた。詳細は[こちらを参照されたい](https://ja.wikipedia.org/wiki/SMエンターテインメント#コンピレーションアルバム "wikilink")。
   - 収録された曲は全てここでしか聞けないものである。その例として、下記の通り日本で発売された楽曲の韓国語版や、未発表曲がある。
 
 <table>
@@ -1189,14 +1189,14 @@ Midnight Parade</p></td>
 <tr class="even">
 <td><p>'06 SUMMER SMTOWN</p></td>
 <td><p>TOUCH</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2006 WINTER SMTOWN　～SNOW DREAM～</p></td>
 <td><p>DOTCH</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><center>
 <p>冬</p>
 </center></td>
@@ -1205,7 +1205,7 @@ Midnight Parade</p></td>
 <tr class="even">
 <td><p>2007 SUMMER SMTOWN</p></td>
 <td><p>イブの警告</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
 <td><center>
 <p>夏</p>
 </center></td>
@@ -1214,7 +1214,7 @@ Midnight Parade</p></td>
 <tr class="odd">
 <td><p>2007 WINTER SMTOWN ONLY LOVE</p></td>
 <td><p>12月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
 <td><center>
 <p>冬</p>
 </center></td>
@@ -1291,7 +1291,7 @@ AVBD-91134</p></td>
 <p>LIVE</p>
 </center></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BoA_ARENA_TOUR_2005-BEST_OF_SOUL-" title="wikilink">BoA ARENA TOUR 2005-BEST OF SOUL-</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月6日.md" title="wikilink">7月6日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月6日.md" title="wikilink">7月6日</a></p></td>
 <td><p>DVD</p></td>
 <td><p>AVBD-91314</p></td>
 <td><p>2DVD</p></td>
@@ -1301,7 +1301,7 @@ AVBD-91134</p></td>
 <p>MV</p>
 </center></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BoA_COMPLETE_CLIPS_2004-2006" title="wikilink">BoA COMPLETE CLIPS 2004-2006</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/3月7日.md" title="wikilink">3月7日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/3月7日.md" title="wikilink">3月7日</a></p></td>
 <td><p>DVD</p></td>
 <td><p>AVBD-91457</p></td>
 <td></td>
@@ -1311,7 +1311,7 @@ AVBD-91134</p></td>
 <p>LIVE</p>
 </center></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BoA_the_LIVE_裏ボア・・・聴かせ系" title="wikilink">BoA the LIVE 裏ボア・・・聴かせ系</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/3月7日.md" title="wikilink">3月7日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/3月7日.md" title="wikilink">3月7日</a></p></td>
 <td><p>DVD</p></td>
 <td><p>AVBD-91458</p></td>
 <td></td>
@@ -1321,7 +1321,7 @@ AVBD-91134</p></td>
 <p>LIVE</p>
 </center></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BoA_ARENA_TOUR_2007_MADE_IN_TWENTY(20)" title="wikilink">BoA ARENA TOUR 2007 MADE IN TWENTY(20)</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年" title="wikilink">2007年</a><a href="../Page/8月8日.md" title="wikilink">8月8日</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/8月8日.md" title="wikilink">8月8日</a></p></td>
 <td><p>DVD</p></td>
 <td><p>AVBD-91482<br />
 AVBD-91480</p></td>

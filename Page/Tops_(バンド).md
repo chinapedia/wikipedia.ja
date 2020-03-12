@@ -1,19 +1,19 @@
 > この記事は[Tops \(\)](https://ja.wikipedia.org/wiki/Tops_\(\))から翻訳されています。
 
 
-**TOPS**（トップス）は日本の[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に結成し、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")に解散した。強力な[ホーンセクションと](../Page/管楽器.md "wikilink")3名体制のボーカルで、迫力ある演奏を聴かせる[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")系バンドであった。
+**TOPS**（トップス）は日本の[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に結成し、[1991年](../Page/1991年.md "wikilink")に解散した。強力な[ホーンセクションと](../Page/管楽器.md "wikilink")3名体制のボーカルで、迫力ある演奏を聴かせる[ファンク](../Page/ファンク.md "wikilink")系バンドであった。
 
 ## 概要・来歴
 
-[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に[三井雅弘](https://ja.wikipedia.org/wiki/三井雅弘 "wikilink")を中心に京都で結成されたファンクバンド**ITACHI\!\!**（イタチ）が前身で、京阪神のライブハウスを中心に活躍。人気を集めて[憂歌団](https://ja.wikipedia.org/wiki/憂歌団 "wikilink")の所属事務所のユニオンシャッフルに所属しながら、[嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")のバックバンドを勤めていた。
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に[三井雅弘](../Page/三井雅弘.md "wikilink")を中心に京都で結成されたファンクバンド**ITACHI\!\!**（イタチ）が前身で、京阪神のライブハウスを中心に活躍。人気を集めて[憂歌団](../Page/憂歌団.md "wikilink")の所属事務所のユニオンシャッフルに所属しながら、[嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")のバックバンドを勤めていた。
 
-前事務所退社直後に上京。女性ボーカル2名を加え、元[スペクトラムの](https://ja.wikipedia.org/wiki/スペクトラム_\(日本のバンド\) "wikilink")[新田一郎のプロデュースにより](https://ja.wikipedia.org/wiki/新田一郎_\(ミュージシャン\) "wikilink")10名体制のTOPSとして1986年にデビューした。
+前事務所退社直後に上京。女性ボーカル2名を加え、元[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[新田一郎のプロデュースにより](../Page/新田一郎_\(ミュージシャン\).md "wikilink")10名体制のTOPSとして1986年にデビューした。
 
 京都時代の『汗臭くて泥臭くて男臭いファンク』と正反対の『近未来を意識し過ぎた』コンセプトはプロデューサーで後に所属事務所の社長となった新田一郎がかつて在籍していたスペクトラムを彷彿とする物であった。
 
-尚、デビューアルバムの全曲の作詞を主要メンバーと同世代の作詞家で[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")バンド[ハルメンズ](https://ja.wikipedia.org/wiki/ハルメンズ "wikilink")のボーカリストでもあった[佐伯健三が手がけていて](https://ja.wikipedia.org/wiki/サエキけんぞう "wikilink")、汗臭さは影をひそめてうかがえなくなった。
+尚、デビューアルバムの全曲の作詞を主要メンバーと同世代の作詞家で[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")バンド[ハルメンズ](https://ja.wikipedia.org/wiki/ハルメンズ "wikilink")のボーカリストでもあった[佐伯健三が手がけていて](../Page/サエキけんぞう.md "wikilink")、汗臭さは影をひそめてうかがえなくなった。
 
-翌1987年のシングル「黒い炎」（[チェイスの日本語詞によるカヴァー](https://ja.wikipedia.org/wiki/チェイス_\(バンド\) "wikilink")）がスマッシュ・ヒットし多くの音楽番組に出演、全国区にその名が知られるようになる。
+翌1987年のシングル「黒い炎」（[チェイスの日本語詞によるカヴァー](../Page/チェイス_\(バンド\).md "wikilink")）がスマッシュ・ヒットし多くの音楽番組に出演、全国区にその名が知られるようになる。
 
 また同曲発表時からリードボーカルが三井雅弘から山際祥子に交代し、同時に洋楽のカヴァーも数多く取り入れるようになった。
 
@@ -21,22 +21,22 @@
 
 このTOPSという名称は『**東京・大阪・パーでんねんスペシャル**』\[1\]の略で付けられたと言われる。
 
-なお、OVA[ザ・超女](https://ja.wikipedia.org/wiki/ザ・超女 "wikilink")のサントラ版には『山際祥子 with TOPS』と言う名で参加している。
+なお、OVA[ザ・超女](../Page/ザ・超女.md "wikilink")のサントラ版には『山際祥子 with TOPS』と言う名で参加している。
 
 1991年解散後、三井と和佐田はITACHI\!\!の名を回復し「一夜限り」など限定期間で1993年3月、2006年11月、2012年に公演、「MOTTO〜イヤなものはイヤといえ」などその一部を[動画サイト](https://ja.wikipedia.org/wiki/動画サイト "wikilink")[ユーチューブに三井によって公開している](https://ja.wikipedia.org/wiki/YouTube "wikilink")。
-山際祥子は現在（2016年）歌手・音楽活動と東京[自由が丘](https://ja.wikipedia.org/wiki/自由が丘 "wikilink")で[整体](https://ja.wikipedia.org/wiki/整体 "wikilink")治療院を営む。
+山際祥子は現在（2016年）歌手・音楽活動と東京[自由が丘](../Page/自由が丘.md "wikilink")で[整体](../Page/整体.md "wikilink")治療院を営む。
 
 ## メンバー
 
 ### TOPS（第1期）
 
-  - **[三井雅弘](https://ja.wikipedia.org/wiki/三井雅弘 "wikilink")** （[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")）
+  - **[三井雅弘](../Page/三井雅弘.md "wikilink")** （[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")）
   - **山際祥子** （やまぎわ　よしこ）（ボーカル・コーラス）
   - **館野江里子** （ボーカル・コーラス）
-      - 今中の脱退後、一部[キーボードも担当](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")。
+      - 今中の脱退後、一部[キーボードも担当](../Page/キーボード_\(楽器\).md "wikilink")。
   - **宅間顕** （[ギター](../Page/ギター.md "wikilink")）
-  - **[和佐田達彦](https://ja.wikipedia.org/wiki/和佐田達彦 "wikilink")** （[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
-      - この後同じ事務所の所属だった[爆風スランプ](https://ja.wikipedia.org/wiki/爆風スランプ "wikilink")に加入し、**バーベQ和佐田**と名乗る。
+  - **[和佐田達彦](https://ja.wikipedia.org/wiki/和佐田達彦 "wikilink")** （[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
+      - この後同じ事務所の所属だった[爆風スランプ](../Page/爆風スランプ.md "wikilink")に加入し、**バーベQ和佐田**と名乗る。
   - **堀尾哲二** （[ドラムス](../Page/ドラムセット.md "wikilink")）
   - **川嵜淳一** （[トランペット](../Page/トランペット.md "wikilink")）
   - **寺内茂** （トランペット）
@@ -54,7 +54,7 @@
   - **福場潤** （ギター）
   - **山際築** （キーボード）
   - **川嵜淳一** （トランペット）
-      - この時期、[爆風スランプ](https://ja.wikipedia.org/wiki/爆風スランプ "wikilink")のファンであった[池沢理美](https://ja.wikipedia.org/wiki/池沢理美 "wikilink")と爆風スランプの[ファンキー末吉](https://ja.wikipedia.org/wiki/ファンキー末吉 "wikilink")が参加していたBBS上で知り合いになり、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")のモデルにされる。（『かっとびニューヨーカー』(2)に「川崎」という名で登場する。）
+      - この時期、[爆風スランプ](../Page/爆風スランプ.md "wikilink")のファンであった[池沢理美](../Page/池沢理美.md "wikilink")と爆風スランプの[ファンキー末吉](../Page/ファンキー末吉.md "wikilink")が参加していたBBS上で知り合いになり、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")のモデルにされる。（『かっとびニューヨーカー』(2)に「川崎」という名で登場する。）
   - **寺内茂** （トランペット）
   - **工藤隆** （トロンボーン）
 

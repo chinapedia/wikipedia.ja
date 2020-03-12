@@ -6,19 +6,19 @@
 ## 解説
 
   - 13000枚限定生産シングル。
-  - アーティストとのコラボレーション企画"join"3週連続完全限定生産シングルの第1弾作品。ゲストアーティストはバンド[Buffalo Daughter](https://ja.wikipedia.org/wiki/Buffalo_Daughter "wikilink")。
-  - なお、c/wにはナレーション・ドラマプロジェクト"join"の第1弾が収録。ここに収録されたエピソードの続きは、次のシングル「[Peaceお届け\!\!](https://ja.wikipedia.org/wiki/Peaceお届け!! "wikilink")♡」 (鈴木亜美 joins THC\!\!)に収録されている。なお、アルバム『[CONNETTA](https://ja.wikipedia.org/wiki/CONNETTA "wikilink")』(CD+AタイプDVD)に収録されたオリジナルショートムービー"join"の数日前のエピソードとなっている。
+  - アーティストとのコラボレーション企画"join"3週連続完全限定生産シングルの第1弾作品。ゲストアーティストはバンド[Buffalo Daughter](../Page/Buffalo_Daughter.md "wikilink")。
+  - なお、c/wにはナレーション・ドラマプロジェクト"join"の第1弾が収録。ここに収録されたエピソードの続きは、次のシングル「[Peaceお届け\!\!](../Page/Peaceお届け!!.md "wikilink")♡」 (鈴木亜美 joins THC\!\!)に収録されている。なお、アルバム『[CONNETTA](../Page/CONNETTA.md "wikilink")』(CD+AタイプDVD)に収録されたオリジナルショートムービー"join"の数日前のエピソードとなっている。
 
 ## 収録曲
 
 1.  **O.K. Funky God**
       - 作詞：Buffalo Daughter・鈴木亜美 / 編曲・作曲：Buffalo Daughter
-      - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[魁\!音楽番付](https://ja.wikipedia.org/wiki/魁!音楽番付 "wikilink")』2007年3月度オープニングテーマ
+      - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[魁\!音楽番付](../Page/魁!音楽番付.md "wikilink")』2007年3月度オープニングテーマ
 2.  **O.K. Funky God "God make Dub"**
       - Dub mix by ZAK
       - 本作のミキサー松村和幸（ZAK名義で）によるリミックス。
 3.  **Narration Drama「join」\#1～7days before～**
-      - Cast：Ami Suzuki ＋ Hiroyuki Onoue（[尾上寛之](https://ja.wikipedia.org/wiki/尾上寛之 "wikilink")）
+      - Cast：Ami Suzuki ＋ Hiroyuki Onoue（[尾上寛之](../Page/尾上寛之.md "wikilink")）
       - Directed & Written by Kazuya Shiraishi（[白石和彌](https://ja.wikipedia.org/wiki/白石和彌 "wikilink")）
 
 ## リンク

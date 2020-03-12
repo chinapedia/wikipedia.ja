@@ -1,31 +1,31 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**FCゼニト・サンクトペテルブルク**（、）は、[ロシア](../Page/ロシア.md "wikilink")・[サンクトペテルブルク](../Page/サンクトペテルブルク.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")時代はゼニト・レニングラードとして知られた。「ゼニト（ゼニート）」とは、ロシア語で「[天頂](https://ja.wikipedia.org/wiki/天頂 "wikilink")」など「絶頂、頂点」のこと。
+**FCゼニト・サンクトペテルブルク**（、）は、[ロシア](../Page/ロシア.md "wikilink")・[サンクトペテルブルク](../Page/サンクトペテルブルク.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")時代はゼニト・レニングラードとして知られた。「ゼニト（ゼニート）」とは、ロシア語で「[天頂](../Page/天頂.md "wikilink")」など「絶頂、頂点」のこと。
 
 ## 概要
 
-[1925年](../Page/1925年.md "wikilink")6月にレニングラード金属工場（LMZ）の労働者らによって創設された。[1936年](../Page/1936年.md "wikilink")の[ソ連リーグ開始を前にして](https://ja.wikipedia.org/wiki/ソビエト連邦サッカーリーグ "wikilink")、[スターリン主義者を意味する](https://ja.wikipedia.org/wiki/スターリニズム "wikilink")**スタリネッツ**（****<small>スターリニェツ</small>）に改名され、[1940年](../Page/1940年.md "wikilink")に現在の**ゼニト**（****<small>ズィニート</small>）に改名された。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月からはロシアの天然ガス独占企業[ガスプロム](https://ja.wikipedia.org/wiki/ガスプロム "wikilink")が経営権を握っており、豊富な資金力をバックに強化を図っている。
+[1925年](../Page/1925年.md "wikilink")6月にレニングラード金属工場（LMZ）の労働者らによって創設された。[1936年](../Page/1936年.md "wikilink")の[ソ連リーグ開始を前にして](../Page/ソビエト連邦サッカーリーグ.md "wikilink")、[スターリン主義者を意味する](../Page/スターリニズム.md "wikilink")**スタリネッツ**（****<small>スターリニェツ</small>）に改名され、[1940年](../Page/1940年.md "wikilink")に現在の**ゼニト**（****<small>ズィニート</small>）に改名された。[2005年](../Page/2005年.md "wikilink")12月からはロシアの天然ガス独占企業[ガスプロム](../Page/ガスプロム.md "wikilink")が経営権を握っており、豊富な資金力をバックに強化を図っている。
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")には、当時の[ソ連](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")・[レニングラードを訪問した](../Page/サンクトペテルブルク.md "wikilink")[日本代表と試合をしたが](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")、6-0でゼニトが完勝した。
+[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")には、当時の[ソ連](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")・[レニングラードを訪問した](../Page/サンクトペテルブルク.md "wikilink")[日本代表と試合をしたが](../Page/サッカー日本代表.md "wikilink")、6-0でゼニトが完勝した。
 
-2007年シーズン、ロシア・プレミアリーグ発足後、初優勝を果たした。モスクワ以外のクラブのリーグ優勝は12年ぶりとなった。2007-08シーズンには[UEFAカップで優勝した](https://ja.wikipedia.org/wiki/UEFAカップ_2007-08 "wikilink")。予断を許さない状況の続いたグループリーグから一転して、決勝トーナメントでは[ビジャレアルCF](https://ja.wikipedia.org/wiki/ビジャレアルCF "wikilink")、[マルセイユ](https://ja.wikipedia.org/wiki/オリンピック・マルセイユ "wikilink")、[レバークーゼン](https://ja.wikipedia.org/wiki/バイエル・レバークーゼン "wikilink")、[バイエルン・ミュンヘンと強豪を次々に下した](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")。決勝において、スコットランドの[レンジャーズに](https://ja.wikipedia.org/wiki/グラスゴー・レンジャーズFC "wikilink")2-0で勝利、優勝を果たした。
+2007年シーズン、ロシア・プレミアリーグ発足後、初優勝を果たした。モスクワ以外のクラブのリーグ優勝は12年ぶりとなった。2007-08シーズンには[UEFAカップで優勝した](https://ja.wikipedia.org/wiki/UEFAカップ_2007-08 "wikilink")。予断を許さない状況の続いたグループリーグから一転して、決勝トーナメントでは[ビジャレアルCF](../Page/ビジャレアルCF.md "wikilink")、[マルセイユ](../Page/オリンピック・マルセイユ.md "wikilink")、[レバークーゼン](../Page/バイエル・レバークーゼン.md "wikilink")、[バイエルン・ミュンヘンと強豪を次々に下した](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")。決勝において、スコットランドの[レンジャーズに](https://ja.wikipedia.org/wiki/グラスゴー・レンジャーズFC "wikilink")2-0で勝利、優勝を果たした。
 
-ロシアチームによる[UEFAカップ制覇は](../Page/UEFAヨーロッパリーグ.md "wikilink")2004-05シーズンの[CSKAモスクワに次いで](https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ "wikilink")2度目である。勝利後、2008年5月14日深夜から早朝にかけて、市内の車が一斉にクラクションを鳴らし優勝を祝った。
+ロシアチームによる[UEFAカップ制覇は](../Page/UEFAヨーロッパリーグ.md "wikilink")2004-05シーズンの[CSKAモスクワに次いで](../Page/PFC_CSKAモスクワ.md "wikilink")2度目である。勝利後、2008年5月14日深夜から早朝にかけて、市内の車が一斉にクラクションを鳴らし優勝を祝った。
 
 [2016年](../Page/2016年.md "wikilink")末に新本拠地の[ガスプロム・アリーナ](https://ja.wikipedia.org/wiki/ガスプロム・アリーナ "wikilink")が完成する予定。
 
-2012-13シーズンは夏の移籍市場において、[フッキを](https://ja.wikipedia.org/wiki/ジヴァニウド・ヴィエイラ・ジ・ソウザ "wikilink")[ポルトから推定](https://ja.wikipedia.org/wiki/FCポルト "wikilink")5000万€で獲得し、[アクセル・ヴィツェル](https://ja.wikipedia.org/wiki/アクセル・ヴィツェル "wikilink")も獲得した。チャンピオンズリーグは[マラガと](https://ja.wikipedia.org/wiki/マラガCF "wikilink")[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")の後塵を拝しグループ3位で敗退した。
+2012-13シーズンは夏の移籍市場において、[フッキを](../Page/ジヴァニウド・ヴィエイラ・ジ・ソウザ.md "wikilink")[ポルトから推定](../Page/FCポルト.md "wikilink")5000万€で獲得し、[アクセル・ヴィツェル](https://ja.wikipedia.org/wiki/アクセル・ヴィツェル "wikilink")も獲得した。チャンピオンズリーグは[マラガと](../Page/マラガCF.md "wikilink")[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")の後塵を拝しグループ3位で敗退した。
 
 2017-18シーズンは[レアンドロ・パレデス](https://ja.wikipedia.org/wiki/レアンドロ・パレデス "wikilink")を獲得した。
 
 ## ライバル
 
-FCゼニトは、モスクワの強豪クラブ、[FCスパルタク・モスクワ](https://ja.wikipedia.org/wiki/FCスパルタク・モスクワ "wikilink")、[PFC CSKAモスクワとライバル関係がある](https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ "wikilink")。サンクトペテルブルクと[モスクワ](https://ja.wikipedia.org/wiki/モスクワ "wikilink")という 2つの街のライバル意識も背景にある\[1\]。
+FCゼニトは、モスクワの強豪クラブ、[FCスパルタク・モスクワ](../Page/FCスパルタク・モスクワ.md "wikilink")、[PFC CSKAモスクワとライバル関係がある](../Page/PFC_CSKAモスクワ.md "wikilink")。サンクトペテルブルクと[モスクワ](../Page/モスクワ.md "wikilink")という 2つの街のライバル意識も背景にある\[1\]。
 
   - 国内の人気度
 
-2012年9月、[マーケティングリサーチ](../Page/マーケティングリサーチ.md "wikilink")会社の[AC Nielsenがロシア国内の](https://ja.wikipedia.org/wiki/エーシーニールセン "wikilink")38都市で延べ1万9千人から「何処のファンか」問うたところ、全体の1位である27%がゼニトのファンだと答えた。また人口100万人を擁する[ペルミ](https://ja.wikipedia.org/wiki/ペルミ "wikilink")、[ノヴォシビルスク](https://ja.wikipedia.org/wiki/ノヴォシビルスク "wikilink")、[ヴォルゴグラード](../Page/ヴォルゴグラード.md "wikilink")、[カザン](https://ja.wikipedia.org/wiki/カザン "wikilink")、[サマーラ](https://ja.wikipedia.org/wiki/サマーラ "wikilink")では地元クラブがトップでゼニトは2番目に人気であった\[2\]。
+2012年9月、[マーケティングリサーチ](../Page/マーケティングリサーチ.md "wikilink")会社の[AC Nielsenがロシア国内の](../Page/エーシーニールセン.md "wikilink")38都市で延べ1万9千人から「何処のファンか」問うたところ、全体の1位である27%がゼニトのファンだと答えた。また人口100万人を擁する[ペルミ](../Page/ペルミ.md "wikilink")、[ノヴォシビルスク](../Page/ノヴォシビルスク.md "wikilink")、[ヴォルゴグラード](../Page/ヴォルゴグラード.md "wikilink")、[カザン](../Page/カザン.md "wikilink")、[サマーラ](../Page/サマーラ.md "wikilink")では地元クラブがトップでゼニトは2番目に人気であった\[2\]。
 
 ## 獲得タイトル
 
@@ -33,12 +33,12 @@ FCゼニトは、モスクワの強豪クラブ、[FCスパルタク・モスク
 
 ### 国内タイトル
 
-  - **[ソビエト連邦リーグ](https://ja.wikipedia.org/wiki/ソビエト連邦サッカーリーグ "wikilink"):1回**
+  - **[ソビエト連邦リーグ](../Page/ソビエト連邦サッカーリーグ.md "wikilink"):1回**
       - 1984
 
 <!-- end list -->
 
-  - **[USSRカップ](https://ja.wikipedia.org/wiki/USSRカップ "wikilink"):1回**
+  - **[USSRカップ](../Page/USSRカップ.md "wikilink"):1回**
       - 1944
 
 <!-- end list -->
@@ -48,12 +48,12 @@ FCゼニトは、モスクワの強豪クラブ、[FCスパルタク・モスク
 
 <!-- end list -->
 
-  - **[ロシア・プレミアリーグ](https://ja.wikipedia.org/wiki/ロシアサッカー・プレミアリーグ "wikilink"):5回**
+  - **[ロシア・プレミアリーグ](../Page/ロシアサッカー・プレミアリーグ.md "wikilink"):5回**
       - 2007, 2010, 2011-12, 2014-15, 2018-19
 
 <!-- end list -->
 
-  - **[ロシア・カップ](https://ja.wikipedia.org/wiki/ロシア・カップ_\(サッカー\) "wikilink"):3回**
+  - **[ロシア・カップ](../Page/ロシア・カップ_\(サッカー\).md "wikilink"):3回**
       - 1998-99, 2009-10, 2015-16
 
 <!-- end list -->
@@ -63,7 +63,7 @@ FCゼニトは、モスクワの強豪クラブ、[FCスパルタク・モスク
 
 <!-- end list -->
 
-  - **[ロシア・スーパーカップ](https://ja.wikipedia.org/wiki/ロシア・スーパーカップ "wikilink"):4回**
+  - **[ロシア・スーパーカップ](../Page/ロシア・スーパーカップ.md "wikilink"):4回**
       - 2008, 2011, 2015, 2016
 
 ### 国際タイトル
@@ -80,7 +80,7 @@ FCゼニトは、モスクワの強豪クラブ、[FCスパルタク・モスク
   -  [ロシア](../Page/ロシア.md "wikilink")
     {|class="wikitable"
 
-|-bgcolor="\#efefef" \!シーズン \!ディヴィジョン \!順位 \!試 \!勝 \!分 \!負 \!得 \!失 \!点 \![国内カップ](https://ja.wikipedia.org/wiki/ロシア・カップ_\(サッカー\) "wikilink") \!colspan=2|欧州カップ戦 |- |align=center|1992 |align=center|[プレミア](https://ja.wikipedia.org/wiki/ロシアサッカー・プレミアリーグ "wikilink") |align=center bgcolor=\#f65f45|**16** |align=center|30 |align=center|10 |align=center|8 |align=center|12 |align=center|39 |align=center|45 |align=center|**28** |align=center|— |align=center colspan=2|— |- |align=center|1993 |align=center|1部中央 |align=center|**2** |align=center|38 |align=center|25 |align=center|8 |align=center|5 |align=center|87 |align=center|33 |align=center|**58** |align=center|ベスト32 |align=center colspan=2|— |- |align=center|1994 |align=center rowspan=2|1部 |align=center|**13** |align=center|42 |align=center|14 |align=center|12 |align=center|16 |align=center|44 |align=center|49 |align=center|**40** |align=center|ベスト64 |align=center colspan=2|— |- |align=center|1995 |align=center bgcolor="lightgreen"|**3** |align=center|42 |align=center|24 |align=center|5 |align=center|13 |align=center|65 |align=center|42 |align=center|**77** |align=center|ベスト32 |align=center colspan=2|— |- |align=center|1996 |align=center rowspan="24"|プレミア |align=center|**10** |align=center|34 |align=center|13 |align=center|4 |align=center|17 |align=center|32 |align=center|37 |align=center|**43** |align=center|ベスト32 |align=center colspan=2|— |- |align=center|1997 |align=center|**8** |align=center|34 |align=center|13 |align=center|10 |align=center|11 |align=center|28 |align=center|29 |align=center|**49** |align=center|ベスト4 |align=center colspan=2|— |- |align=center|1998 |align=center|**5** |align=center|30 |align=center|12 |align=center|11 |align=center|7 |align=center|42 |align=center|25 |align=center|**47** |align=center|ベスト16 |align=center colspan=2|— |- |align=center|1999 |align=center|**8** |align=center|30 |align=center|9 |align=center|12 |align=center|9 |align=center|36 |align=center|34 |align=center|**39** |align=center bgcolor="gold"|**優勝** |align=center colspan=2|— |- |align=center|2000 |align=center|**7** |align=center|30 |align=center|13 |align=center|8 |align=center|9 |align=center|38 |align=center|26 |align=center|**47** |align=center|ベスト32 |align=center|[UC](https://ja.wikipedia.org/wiki/UEFAカップ_1999-00 "wikilink")
+|-bgcolor="\#efefef" \!シーズン \!ディヴィジョン \!順位 \!試 \!勝 \!分 \!負 \!得 \!失 \!点 \![国内カップ](../Page/ロシア・カップ_\(サッカー\).md "wikilink") \!colspan=2|欧州カップ戦 |- |align=center|1992 |align=center|[プレミア](../Page/ロシアサッカー・プレミアリーグ.md "wikilink") |align=center bgcolor=\#f65f45|**16** |align=center|30 |align=center|10 |align=center|8 |align=center|12 |align=center|39 |align=center|45 |align=center|**28** |align=center|— |align=center colspan=2|— |- |align=center|1993 |align=center|1部中央 |align=center|**2** |align=center|38 |align=center|25 |align=center|8 |align=center|5 |align=center|87 |align=center|33 |align=center|**58** |align=center|ベスト32 |align=center colspan=2|— |- |align=center|1994 |align=center rowspan=2|1部 |align=center|**13** |align=center|42 |align=center|14 |align=center|12 |align=center|16 |align=center|44 |align=center|49 |align=center|**40** |align=center|ベスト64 |align=center colspan=2|— |- |align=center|1995 |align=center bgcolor="lightgreen"|**3** |align=center|42 |align=center|24 |align=center|5 |align=center|13 |align=center|65 |align=center|42 |align=center|**77** |align=center|ベスト32 |align=center colspan=2|— |- |align=center|1996 |align=center rowspan="24"|プレミア |align=center|**10** |align=center|34 |align=center|13 |align=center|4 |align=center|17 |align=center|32 |align=center|37 |align=center|**43** |align=center|ベスト32 |align=center colspan=2|— |- |align=center|1997 |align=center|**8** |align=center|34 |align=center|13 |align=center|10 |align=center|11 |align=center|28 |align=center|29 |align=center|**49** |align=center|ベスト4 |align=center colspan=2|— |- |align=center|1998 |align=center|**5** |align=center|30 |align=center|12 |align=center|11 |align=center|7 |align=center|42 |align=center|25 |align=center|**47** |align=center|ベスト16 |align=center colspan=2|— |- |align=center|1999 |align=center|**8** |align=center|30 |align=center|9 |align=center|12 |align=center|9 |align=center|36 |align=center|34 |align=center|**39** |align=center bgcolor="gold"|**優勝** |align=center colspan=2|— |- |align=center|2000 |align=center|**7** |align=center|30 |align=center|13 |align=center|8 |align=center|9 |align=center|38 |align=center|26 |align=center|**47** |align=center|ベスト32 |align=center|[UC](https://ja.wikipedia.org/wiki/UEFAカップ_1999-00 "wikilink")
 [IC](https://ja.wikipedia.org/wiki/UEFAインタートトカップ_2000 "wikilink") |align=center|1回戦
 準優勝 |- |align=center|2001 |align=center bgcolor=\#deb678|**3** |align=center|30 |align=center|16 |align=center|8 |align=center|6 |align=center|52 |align=center|35 |align=center|**56** |align=center|ベスト32 |align=center colspan=2|— |- |align=center|2002 |align=center|**10** |align=center|30 |align=center|8 |align=center|9 |align=center|13 |align=center|36 |align=center|42 |align=center|**33** |align=center bgcolor="silver"|準優勝 |align=center colspan=2|— |- |align=center|2003 |align=center bgcolor="silver"|**2** |align=center|30 |align=center|16 |align=center|8 |align=center|6 |align=center|48 |align=center|32 |align=center|**56** |align=center|ベスト16 |align=center|[UC](https://ja.wikipedia.org/wiki/UEFAカップ_2002-03 "wikilink") |align=center|1回戦 |- |align=center|2004 |align=center|**4** |align=center|30 |align=center|17 |align=center|5 |align=center|8 |align=center|55 |align=center|37 |align=center|**56** |align=center|ベスト16 |align=center colspan=2|— |- |align=center|2005 |align=center|**6** |align=center|30 |align=center|13 |align=center|10 |align=center|7 |align=center|45 |align=center|26 |align=center|**49** |align=center|ベスト4 |align=center|[UC](https://ja.wikipedia.org/wiki/UEFAカップ_2004-05 "wikilink") |align=center|グループリーグ |- |align=center|2006 |align=center|**4** |align=center|30 |align=center|13 |align=center|11 |align=center|6 |align=center|42 |align=center|30 |align=center|**50** |align=center|ベスト4 |align=center|[UC](https://ja.wikipedia.org/wiki/UEFAカップ_2005-06 "wikilink") |align=center|ベスト8 |- |align=center|2007 |align=center bgcolor="gold"|**1** |align=center|30 |align=center|18 |align=center|7 |align=center|5 |align=center|53 |align=center|32 |align=center|**61** |align=center|ベスト8 |align=center colspan=2|— |- |align=center|2008 |align=center|**5** |align=center|30 |align=center|12 |align=center|12 |align=center|6 |align=center|59 |align=center|37 |align=center|**48** |align=center|ベスト8 |align=center|[UC](https://ja.wikipedia.org/wiki/UEFAカップ_2007-08 "wikilink") |align=center bgcolor="gold"|**優勝** |- |align=center|2009 |align=center bgcolor=\#deb678|**3** |align=center|30 |align=center|15 |align=center|9 |align=center|6 |align=center|48 |align=center|27 |align=center|**54** |align=center|ベスト32 |align=center|[UCL](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2008-09 "wikilink")
 [UC](https://ja.wikipedia.org/wiki/UEFAカップ_2008-09 "wikilink") |align=center|グループリーグ
@@ -118,7 +118,7 @@ FCゼニトは、モスクワの強豪クラブ、[FCスパルタク・モスク
 
   - [パーヴェル・サディリン](https://ja.wikipedia.org/wiki/パーヴェル・サディリン "wikilink") 1995-1996
 
-  - [アナトリー・ブイショヴェツ](https://ja.wikipedia.org/wiki/アナトリー・ブイショヴェツ "wikilink") 1997-1998
+  - [アナトリー・ブイショヴェツ](../Page/アナトリー・ブイショヴェツ.md "wikilink") 1997-1998
 
   - [アナトリー・ダヴィドフ](https://ja.wikipedia.org/wiki/アナトリー・ダヴィドフ "wikilink") 1998-2000, 2009
 
@@ -130,17 +130,17 @@ FCゼニトは、モスクワの強豪クラブ、[FCスパルタク・モスク
 
   - [ウラジミール・ボロヴィツカ](https://ja.wikipedia.org/wiki/ウラジミール・ボロヴィツカ "wikilink") 2006（暫定）
 
-  - [ディック・アドフォカート](https://ja.wikipedia.org/wiki/ディック・アドフォカート "wikilink") 2006-2009
+  - [ディック・アドフォカート](../Page/ディック・アドフォカート.md "wikilink") 2006-2009
 
   - [ルチアーノ・スパレッティ](../Page/ルチアーノ・スパレッティ.md "wikilink") 2010-2014
 
-  - [セルゲイ・セマク](https://ja.wikipedia.org/wiki/セルゲイ・セマク "wikilink") 2014（暫定）, 2018-
+  - [セルゲイ・セマク](../Page/セルゲイ・セマク.md "wikilink") 2014（暫定）, 2018-
 
   - [アンドレ・ビラス・ボアス](https://ja.wikipedia.org/wiki/アンドレ・ビラス・ボアス "wikilink") 2014-2016
 
   - [ミルチェア・ルチェスク](https://ja.wikipedia.org/wiki/ミルチェア・ルチェスク "wikilink") 2016-2017
 
-  - [ロベルト・マンチーニ](https://ja.wikipedia.org/wiki/ロベルト・マンチーニ "wikilink") 2017-2018
+  - [ロベルト・マンチーニ](../Page/ロベルト・マンチーニ.md "wikilink") 2017-2018
 
 ## 歴代所属選手
 

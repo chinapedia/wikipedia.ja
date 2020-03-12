@@ -1,13 +1,13 @@
 > この記事は[REBIRTH ](https://ja.wikipedia.org/wiki/REBIRTH_)から翻訳されています。
 
 
-「**REBIRTH 〜女神転生〜**」（リバース 〜めがみてんせい〜）は、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")の[キャラクターソング](https://ja.wikipedia.org/wiki/キャラクターソング "wikilink")\[1\]である。
+「**REBIRTH 〜女神転生〜**」（リバース 〜めがみてんせい〜）は、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")の[キャラクターソング](../Page/キャラクターソング.md "wikilink")\[1\]である。
 
 ## 収録曲
 
-全[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：三枝翔、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：山口一久
+全[作詞](../Page/作詞.md "wikilink")：三枝翔、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：山口一久
 
-1.  REBIRTH 〜女神転生〜（[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[デビルマンレディー](https://ja.wikipedia.org/wiki/デビルマンレディー "wikilink")』第1話-第17話、第25話、第26話エンディング主題歌）
+1.  REBIRTH 〜女神転生〜（[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[デビルマンレディー](../Page/デビルマンレディー.md "wikilink")』第1話-第17話、第25話、第26話エンディング主題歌）
       - PVが制作されているが、商品化されていない。
 2.  DAYDREAM
 3.  REBIRTH 〜静寂からの余想〜

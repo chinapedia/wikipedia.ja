@@ -1,13 +1,13 @@
 > この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
 
 
-『**魔城伝説II 大魔司教ガリウス**』（まじょうでんせつツー だいましきょうガリウス）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[コナミから発売された](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[アクションRPG](../Page/アクションロールプレイングゲーム.md "wikilink")。
+『**魔城伝説II 大魔司教ガリウス**』（まじょうでんせつツー だいましきょうガリウス）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[コナミから発売された](../Page/コナミデジタルエンタテインメント.md "wikilink")[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[アクションRPG](../Page/アクションロールプレイングゲーム.md "wikilink")。
 
-開発はコナミ開発2課が行い、ディレクターは『[エスパードリーム](https://ja.wikipedia.org/wiki/エスパードリーム "wikilink")』（1987年）などでプログラムを手掛けたきたもとしんじが担当、音楽は[山下絹代](https://ja.wikipedia.org/wiki/山下絹代 "wikilink")他数名が担当している。ゲーム内容は主人公「ポポロン」および「アフロディテ」を操作し、大魔司教ガリウスに攫われた2人の子であるパンパースを救出する事を目的としている。
+開発はコナミ開発2課が行い、ディレクターは『[エスパードリーム](../Page/エスパードリーム.md "wikilink")』（1987年）などでプログラムを手掛けたきたもとしんじが担当、音楽は[山下絹代](../Page/山下絹代.md "wikilink")他数名が担当している。ゲーム内容は主人公「ポポロン」および「アフロディテ」を操作し、大魔司教ガリウスに攫われた2人の子であるパンパースを救出する事を目的としている。
 
 同社のMSX用ソフト『[魔城伝説](../Page/魔城伝説.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）の続編である『[魔城伝説II ガリウスの迷宮](https://ja.wikipedia.org/wiki/魔城伝説II_ガリウスの迷宮 "wikilink")』（1987年）の[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")への移植版にあたるが、様々な部分が変更されている。魔城伝説シリーズ3部作のうち、唯一ファミリーコンピュータでも発売された作品。『魔城伝説』の主人公ポポロンと、前作でポポロンに救出されたアフロディテの2人が主人公で任意に交替できる。世界のあちこちに隠された謎を解いたり、アイテムを入手することで出来ることが増え、行ける所が増えるという謎解き要素のある探索型アクション。
 
-当時のコナミの発売していたファミリーコンピュータ用のカートリッジは、初期参入優遇措置による自社ラインで製造を行っていた為、カートリッジの形状はコナミ独自のものであったが、本作は[任天堂](../Page/任天堂.md "wikilink")の製造ラインの形状のもので発売された。後に同機種で発売された『[トップガン](https://ja.wikipedia.org/wiki/トップガン_\(映画\) "wikilink")』（1987年）、『[スーパー魂斗羅](https://ja.wikipedia.org/wiki/スーパー魂斗羅_エイリアンの逆襲 "wikilink")』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）、『[クォース](https://ja.wikipedia.org/wiki/クォース "wikilink")』（1990年）、『[ランパート](https://ja.wikipedia.org/wiki/ランパート "wikilink")』（[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")）、『[F1センセーション](https://ja.wikipedia.org/wiki/F1センセーション "wikilink")』（[1993年](../Page/1993年.md "wikilink")）などでも同様のものが使用されている。
+当時のコナミの発売していたファミリーコンピュータ用のカートリッジは、初期参入優遇措置による自社ラインで製造を行っていた為、カートリッジの形状はコナミ独自のものであったが、本作は[任天堂](../Page/任天堂.md "wikilink")の製造ラインの形状のもので発売された。後に同機種で発売された『[トップガン](../Page/トップガン_\(映画\).md "wikilink")』（1987年）、『[スーパー魂斗羅](https://ja.wikipedia.org/wiki/スーパー魂斗羅_エイリアンの逆襲 "wikilink")』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）、『[クォース](../Page/クォース.md "wikilink")』（1990年）、『[ランパート](../Page/ランパート.md "wikilink")』（[1991年](../Page/1991年.md "wikilink")）、『[F1センセーション](https://ja.wikipedia.org/wiki/F1センセーション "wikilink")』（[1993年](../Page/1993年.md "wikilink")）などでも同様のものが使用されている。
 
 ## ゲーム内容
 
@@ -21,7 +21,7 @@
 
 ポポロンはAボタンを押した長さに応じてジャンプの高さが高くなるが、アフロディテは一定のジャンプ力。剣は敵にダメージを与えるだけでなく、敵の出す弾をタイミングよく攻撃するとダメージを受けずに打ち落とすことが可能。また、攻撃していない時は盾を構えており、あるアイテムを入手した後は敵の弾を防御することも可能になる。矢筒を消費してサブウェポンで攻撃する事ができる。矢筒自体は敵を倒すと落とすこともある。
 
-MSX版と同様、[パスワードでのコンティニューも可能で](https://ja.wikipedia.org/wiki/パスワード_\(コンピュータゲーム\) "wikilink")、メモしておくことで電源を切ってもプレイ状況を再現することが可能。利用するためには特定の部屋を訪ねることが必要。
+MSX版と同様、[パスワードでのコンティニューも可能で](../Page/パスワード_\(コンピュータゲーム\).md "wikilink")、メモしておくことで電源を切ってもプレイ状況を再現することが可能。利用するためには特定の部屋を訪ねることが必要。
 
 ### 道具
 
@@ -230,7 +230,7 @@ MSX版と同様、敵を倒すとEXP（[経験値](../Page/経験値.md "wikilin
 <td><p><a href="https://ja.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Windows</a></p></td>
 <td><p>コナミ開発2課</p></td>
 <td><p>アイレボ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダウンロード販売" title="wikilink">ダウンロード</a><br />
+<td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
 (<a href="https://ja.wikipedia.org/wiki/i-revo" title="wikilink">i-revo</a>)</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -242,13 +242,13 @@ MSX版と同様、敵を倒すとEXP（[経験値](../Page/経験値.md "wikilin
 
   - プログラム・デザイン：きたもとしんじ、CIVIC KASHIWADA（岸和田聡）、徳田典
   - グラフィック・デザイン：SUIEIBU UEYAMA（T.UEYAMA)、くぼゆうさく
-  - サウンド・デザイン：前沢秀憲、SHINKON SHINYA（坂元信也）、DAMIAN FUJIO（藤尾敦）、禎清宏、[山下絹代](https://ja.wikipedia.org/wiki/山下絹代 "wikilink")
+  - サウンド・デザイン：前沢秀憲、SHINKON SHINYA（坂元信也）、DAMIAN FUJIO（藤尾敦）、禎清宏、[山下絹代](../Page/山下絹代.md "wikilink")
   - ディレクター：きたもとしんじ
   - スペシャル・サンクス：正垣亮平
 
 ## 評価
 
-ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](https://ja.wikipedia.org/wiki/クロスレビュー "wikilink")」では合計27点（満40点）\[1\]、『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、19.79点（満30点）となっている\[2\]。また、同雑誌1991年5月10日号特別付録の「ファミコンロムカセット オールカタログ」では、MSX版と比較した上で「さらにおもしろくでき上がっている」と肯定的なコメントで紹介されている\[3\]。
+ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では合計27点（満40点）\[1\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、19.79点（満30点）となっている\[2\]。また、同雑誌1991年5月10日号特別付録の「ファミコンロムカセット オールカタログ」では、MSX版と比較した上で「さらにおもしろくでき上がっている」と肯定的なコメントで紹介されている\[3\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |

@@ -18,9 +18,9 @@
 ## 関連番組
 
   - 日本で放送されている（いた）クラブオフィシャルチャンネル
-      - [バルサTV](https://ja.wikipedia.org/wiki/バルサTV "wikilink")
-      - [MUTV](https://ja.wikipedia.org/wiki/MUTV "wikilink")
-      - [アーセナルTV](https://ja.wikipedia.org/wiki/アーセナルTV "wikilink")
+      - [バルサTV](../Page/バルサTV.md "wikilink")
+      - [MUTV](../Page/MUTV.md "wikilink")
+      - [アーセナルTV](../Page/アーセナルTV.md "wikilink")
       - [FCバイエルン・ミュンヘンTV](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘンTV "wikilink")
       - [ボルシア・ドルトムントTV](https://ja.wikipedia.org/wiki/ボルシア・ドルトムントTV "wikilink")
       - [ACミラン・チャンネル](https://ja.wikipedia.org/wiki/ACミラン・チャンネル "wikilink")

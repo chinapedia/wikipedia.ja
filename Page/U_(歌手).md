@@ -3,7 +3,7 @@
 
 **U**(ゆう)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")。
 
-[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。吉見と共に[Funta](../Page/Funta.md "wikilink")名義で[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")からデビューした後、U名義でPCゲーム『[スイートレガシー](https://ja.wikipedia.org/wiki/スイートレガシー "wikilink")』オープニングテーマ「プカプカ」でソロ歌手としてデビュー。その後は主に[フロントウイング](https://ja.wikipedia.org/wiki/フロントウイング "wikilink")の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")主題歌やBGMの制作といった活動を行い、他のアーティストに対する楽曲提供も行っている。作詞・作曲などのクレジットには主に**ユウ**と表記される。なお、Funtaでは**UCO**として活動している。
+[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。吉見と共に[Funta](../Page/Funta.md "wikilink")名義で[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")からデビューした後、U名義でPCゲーム『[スイートレガシー](../Page/スイートレガシー.md "wikilink")』オープニングテーマ「プカプカ」でソロ歌手としてデビュー。その後は主に[フロントウイング](../Page/フロントウイング.md "wikilink")の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")主題歌やBGMの制作といった活動を行い、他のアーティストに対する楽曲提供も行っている。作詞・作曲などのクレジットには主に**ユウ**と表記される。なお、Funtaでは**UCO**として活動している。
 
 ## 作品
 
@@ -16,7 +16,7 @@
 <!-- end list -->
 
 1.  あなたのロケットで
-      - [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：ユウ
+      - [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：ユウ
 2.  夢見て☆ANGEL
       - 作詞：U/K, 作曲・編曲：ユウ
 3.  ツナガッテルカナ?
@@ -66,7 +66,7 @@
 
 <!-- end list -->
 
-  - 『U☆MY STAR』-[Frontwing](https://ja.wikipedia.org/wiki/フロントウイング "wikilink") Complete BEST\!\!\!-（2008年5月30日、アルバム）
+  - 『U☆MY STAR』-[Frontwing](../Page/フロントウイング.md "wikilink") Complete BEST\!\!\!-（2008年5月30日、アルバム）
 
 <!-- end list -->
 

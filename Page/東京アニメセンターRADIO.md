@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-  - [宮田幸季](https://ja.wikipedia.org/wiki/宮田幸季 "wikilink")
+  - [宮田幸季](../Page/宮田幸季.md "wikilink")
   - [加藤英美里](../Page/加藤英美里.md "wikilink")
 
 <!-- end list -->
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - [宮田幸季](https://ja.wikipedia.org/wiki/宮田幸季 "wikilink")
+  - [宮田幸季](../Page/宮田幸季.md "wikilink")
   - [米澤円](../Page/米澤円.md "wikilink")
 
 <!-- end list -->

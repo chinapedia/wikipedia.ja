@@ -7,26 +7,26 @@
 
   - **関谷 謙太郎**（せきや けんたろう） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・ギター
   - **吉村 洋平**（よしむら ようへい） - [ギター](../Page/ギター.md "wikilink")・ボーカル
-  - **朱雀 佑輝**（すじゃく ゆうき）- [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **朱雀 佑輝**（すじゃく ゆうき）- [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - **宮澤 純一郎**（みやざわ じゅんいちろう） - [ドラム](../Page/ドラムセット.md "wikilink")
 
 ### 元メンバー
 
-  - **[大隅 知宇](https://ja.wikipedia.org/wiki/大隅知宇 "wikilink")**（おおすみ ともたか） - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **[大隅 知宇](https://ja.wikipedia.org/wiki/大隅知宇 "wikilink")**（おおすみ ともたか） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - **山脇 祐湖**（やまわき ゆうこ） - [ドラム](../Page/ドラムセット.md "wikilink")
   - 共に2010年1月12日脱退。
 
 ## 概要・来歴
 
-[2002年](../Page/2002年.md "wikilink")、メンバーが[明治学院大学](https://ja.wikipedia.org/wiki/明治学院大学 "wikilink")在学中に結成。[下北沢](../Page/下北沢.md "wikilink")などの[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")を中心に活動。
+[2002年](../Page/2002年.md "wikilink")、メンバーが[明治学院大学](../Page/明治学院大学.md "wikilink")在学中に結成。[下北沢](../Page/下北沢.md "wikilink")などの[ライブハウス](../Page/ライブハウス.md "wikilink")を中心に活動。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、[ハイラインレコーズ](https://ja.wikipedia.org/wiki/ハイラインレコーズ "wikilink")より1stアルバム『**POOL OF CIDER**』を発売。同年2月に[タワーレコード](../Page/タワーレコード.md "wikilink")のNMNLレコーズから異例の早さで再リリースされる。また同年7月には、2ndアルバム『**WORLD AND MARBLES**』を発売。
+[2005年](../Page/2005年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、[ハイラインレコーズ](../Page/ハイラインレコーズ.md "wikilink")より1stアルバム『**POOL OF CIDER**』を発売。同年2月に[タワーレコード](../Page/タワーレコード.md "wikilink")のNMNLレコーズから異例の早さで再リリースされる。また同年7月には、2ndアルバム『**WORLD AND MARBLES**』を発売。
 
-同年11月に、メジャー1stシングル『**HIGH WAY, MY WAY**』を[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")より発売し、メジャーデビュー。
+同年11月に、メジャー1stシングル『**HIGH WAY, MY WAY**』を[日本クラウン](../Page/日本クラウン.md "wikilink")より発売し、メジャーデビュー。
 
-同年12月には[ASIAN KUNG-FU GENERATION全国ツアーのオープニングアクトとして出演](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")、[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")には[the pillowsツアーに参加](https://ja.wikipedia.org/wiki/the_pillows "wikilink")。
+同年12月には[ASIAN KUNG-FU GENERATION全国ツアーのオープニングアクトとして出演](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")、[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")には[the pillowsツアーに参加](https://ja.wikipedia.org/wiki/the_pillows "wikilink")。
 
-2008年7月、[ユニバーサル](https://ja.wikipedia.org/wiki/ユニバーサル "wikilink")から[亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")プロデュースによるシングル『**出せない手紙**』を発表。
+2008年7月、[ユニバーサル](https://ja.wikipedia.org/wiki/ユニバーサル "wikilink")から[亀田誠治](../Page/亀田誠治.md "wikilink")プロデュースによるシングル『**出せない手紙**』を発表。
 
 2010年1月12日、ベースの大隈知宇とドラムの山脇祐湖が脱退。
 
@@ -133,7 +133,7 @@
 <td><p>UNTC-003<br />
 NMNL-1004</p></td>
 <td><p>pepe／ミソラ／LOSER／月末／カンピイタ／ROKETTA／Hello,Today</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハイラインレコーズ" title="wikilink">ハイラインレコーズ</a><br />
+<td><p><a href="../Page/ハイラインレコーズ.md" title="wikilink">ハイラインレコーズ</a><br />
 NMNLレコーズ</p></td>
 </tr>
 <tr class="even">

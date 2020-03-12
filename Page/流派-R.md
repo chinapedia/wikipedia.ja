@@ -1,11 +1,11 @@
 > この記事は[-R](https://ja.wikipedia.org/wiki/-R)から翻訳されています。
 
 
-『**流派-R SINCE2001**』（りゅうはアール シンスにせんいち）は、[テレビせとうち](../Page/テレビせとうち.md "wikilink")を除く[テレビ東京系列局で放送している](https://ja.wikipedia.org/wiki/TXN "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。
+『**流派-R SINCE2001**』（りゅうはアール シンスにせんいち）は、[テレビせとうち](../Page/テレビせとうち.md "wikilink")を除く[テレビ東京系列局で放送している](https://ja.wikipedia.org/wiki/TXN "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。
 
 ## 概要
 
-[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")などの[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")を専門に特集している[深夜番組](../Page/深夜番組.md "wikilink")である。日本国内外で活躍するブラックミュージックのアーティストとその楽曲の紹介がメインであるが、他にもブラックミュージックの[イベント](../Page/イベント.md "wikilink")や[ファッション](../Page/ファッション.md "wikilink")、[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")や[グルメなどブラックカルチャー全般を取り扱っている](https://ja.wikipedia.org/wiki/食通#類語・同義語・関連語 "wikilink")。
+[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")などの[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")を専門に特集している[深夜番組](../Page/深夜番組.md "wikilink")である。日本国内外で活躍するブラックミュージックのアーティストとその楽曲の紹介がメインであるが、他にもブラックミュージックの[イベント](../Page/イベント.md "wikilink")や[ファッション](../Page/ファッション.md "wikilink")、[ダンス](../Page/ダンス.md "wikilink")や[グルメなどブラックカルチャー全般を取り扱っている](https://ja.wikipedia.org/wiki/食通#類語・同義語・関連語 "wikilink")。
 
 この番組は[2000年](../Page/2000年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")に『**Bの流派**』（ビーのりゅうは）のタイトルでスタートし、[2001年](../Page/2001年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")に現在の『**流派-R**』に改題された。『流派-R』への改題以降よりネット局が増え始め、後に長寿番組化。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")よりハイビジョン制作に移行。2011年[3月4日](../Page/3月4日.md "wikilink")には放送回数500回を達成した。
 
@@ -26,7 +26,7 @@
   - Writer （構成） - Kazutaka Imai, Yasuhiro Haraguchi
   - Narration （ナレーション） - [Mirakuru Hikaru](https://ja.wikipedia.org/wiki/ミラクルひかる "wikilink") ほか
   - Art Direction （アートディレクション） - [YARD](https://ja.wikipedia.org/wiki/YARD "wikilink")
-  - Co-Producer （プロデューサー補） - Masaki Naganuma ([TV Tokyo Music](https://ja.wikipedia.org/wiki/テレビ東京ミュージック "wikilink"))
+  - Co-Producer （プロデューサー補） - Masaki Naganuma ([TV Tokyo Music](../Page/テレビ東京ミュージック.md "wikilink"))
   - Producer （プロデューサー） - Hiroshi Sasaki (TV Tokyo Music)
   - Chief Producer （チーフプロデューサー） - Shunji Nozaki
   - Produced by TV Tokyo Music, [endless communications](https://ja.wikipedia.org/wiki/エンドレス・コミュニケーションズ "wikilink")
@@ -88,7 +88,7 @@
 | 2008年07月 - | DOUBLE 『[Let it go](https://ja.wikipedia.org/wiki/Let_it_go_\(DOUBLEの曲\) "wikilink")』                                                                         |
 | 2008年08月 - | Sweep 『It's the fallin' in love feat. A Hundred Birds (single mix)』                                                                                           |
 | 2008年09月 - | 加藤ミリヤ 『[SAYONARAベイベー](https://ja.wikipedia.org/wiki/SAYONARAベイベー/恋シテル "wikilink")』                                                                            |
-| 2008年10月 - | [ZEEBRA](https://ja.wikipedia.org/wiki/Zeebra "wikilink") 『Jackin' 4 Beats』                                                                                   |
+| 2008年10月 - | [ZEEBRA](../Page/Zeebra.md "wikilink") 『Jackin' 4 Beats』                                                                                                      |
 | 2008年11月 - | 加藤ミリヤ 『[ディア・ロンリーガール](https://ja.wikipedia.org/wiki/ディア・ロンリーガール "wikilink")』                                                                                   |
 | 2008年12月 - | [TARO SOUL](https://ja.wikipedia.org/wiki/TARO_SOUL "wikilink") 『Everytime』                                                                                   |
 | 2009年01月 - | [COMA-CHI](../Page/COMA-CHI.md "wikilink") 『perfect angel』                                                                                                    |
@@ -100,7 +100,7 @@
 | 2009年07月 - | DOUBLE 『Let it go』                                                                                                                                            |
 | 2009年08月 - | [KEN THE 390](../Page/KEN_THE_390.md "wikilink") 『Hey Boy feat. 童子-T』                                                                                         |
 | 2009年09月 - | [Hilcrhyme](https://ja.wikipedia.org/wiki/Hilcrhyme "wikilink") 『春夏秋冬』                                                                                        |
-| 2009年10月 - | [CHOZEN LEE](https://ja.wikipedia.org/wiki/FIRE_BALL_\(レゲエグループ\) "wikilink") 『Songs Of Love』                                                                  |
+| 2009年10月 - | [CHOZEN LEE](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink") 『Songs Of Love』                                                                                     |
 | 2009年11月 - | DOUBLE & 清水翔太 『[おやすみのキスを〜Good Night My Love〜](https://ja.wikipedia.org/wiki/おやすみのキスを〜Good_Night_My_Love〜 "wikilink")』                                         |
 | 2009年12月 - | 清水翔太 『[Family feat.KEN THE 390，SHUN\&COMA-CHI](https://ja.wikipedia.org/wiki/君が好き_\(清水翔太の曲\) "wikilink")』                                                     |
 | 2010年01月 - | Hilcrhyme 『もうバイバイ』                                                                                                                                            |
@@ -114,8 +114,8 @@
 | 2003年06月 - | kazami 『リズム featuring SPHERE of INFLUENCE』                                                                   |
 | 2003年08月 - | [Loop Junktion](https://ja.wikipedia.org/wiki/Loop_Junktion "wikilink") 『Sink or Swim』                       |
 | 2003年11月 - | [B@by Soul](../Page/B@by_Soul.md "wikilink") 『Thread of Love』                                                |
-| 2004年01月 - | [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink") 『WELCOME2MYROOM』                             |
-| 2004年04月 - | [PANG](https://ja.wikipedia.org/wiki/PANG "wikilink") 『Midnight Jungle』                                      |
+| 2004年01月 - | [RHYMESTER](../Page/RHYMESTER.md "wikilink") 『WELCOME2MYROOM』                                                |
+| 2004年04月 - | [PANG](../Page/PANG.md "wikilink") 『Midnight Jungle』                                                         |
 | 2004年06月 - | [Miss Monday](../Page/Miss_Monday.md "wikilink") 『暁ニ想フ feat.Sowelu』                                          |
 | 2004年09月 - | 加藤ミリヤ 『[Never let go](https://ja.wikipedia.org/wiki/Never_let_go/夜空 "wikilink")』                             |
 | 2004年09月 - | 加藤ミリヤ 『[Beautiful](https://ja.wikipedia.org/wiki/Beautiful_\(加藤ミリヤの曲\) "wikilink")』                          |
@@ -123,12 +123,12 @@
 | 2005年02月 - | [Heartsdales](https://ja.wikipedia.org/wiki/Heartsdales "wikilink") 『Shining』                                |
 | 2005年04月 - | [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink") 『Hot Stuff feat.KM-MARKIT』                             |
 | 2005年07月 - | [MEGARYU](../Page/MEGARYU.md "wikilink") 『アゲアゲハリケーン』                                                         |
-| 2005年08月 - | [ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink") 『BIG PARTY』                                        |
+| 2005年08月 - | [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink") 『BIG PARTY』                                                           |
 | 2005年10月 - | [faith](https://ja.wikipedia.org/wiki/faith_\(ユニット\) "wikilink") 『SWEET WAY』                                 |
-| 2005年10月 - | ["E"qual](https://ja.wikipedia.org/wiki/"E"qual "wikilink") 『Can I get out?』                                 |
+| 2005年10月 - | ["E"qual](../Page/"E"qual.md "wikilink") 『Can I get out?』                                                    |
 | 2006年01月 - | ライムライト 『Get in the limelight』                                                                                |
 | 2006年02月 - | ライムライト 『Get in the limelight』                                                                                |
-| 2006年05月 - | [ASIAN2](https://ja.wikipedia.org/wiki/ASIAN2 "wikilink") 『ASIAN VIBRATION』                                  |
+| 2006年05月 - | [ASIAN2](../Page/ASIAN2.md "wikilink") 『ASIAN VIBRATION』                                                     |
 | 2006年06月 - | [田中ロウマ](../Page/田中ロウマ.md "wikilink") 『One』                                                                   |
 | 2006年08月 - | faith 『Sparkle』                                                                                              |
 | 2006年09月 - | [Metis](https://ja.wikipedia.org/wiki/Metis "wikilink") 『Mi Strong woman』                                    |
@@ -170,17 +170,17 @@
 1.  Lifetime Respect / [三木道三](https://ja.wikipedia.org/wiki/三木道三 "wikilink")
 2.  U / [DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")
 3.  少年A / [童子-T](../Page/童子-T.md "wikilink")
-4.  Ride Wit Tha D.S.C. 〜Just Like Me〜 / [DS455](https://ja.wikipedia.org/wiki/DS455 "wikilink")
-5.  CHANGE THE GAME feat. [K DUB SHINE](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink"), [ZEEBRA](https://ja.wikipedia.org/wiki/Zeebra "wikilink"), 童子-T, [UZI](https://ja.wikipedia.org/wiki/UZI_\(ミュージシャン\) "wikilink"), [JA飛龍](https://ja.wikipedia.org/wiki/JA飛龍 "wikilink"), [O.J\&S.T](https://ja.wikipedia.org/wiki/O.J&S.T "wikilink"), [KM-MARKIT](../Page/KM-MARKIT.md "wikilink") / [DJ OASIS](https://ja.wikipedia.org/wiki/DJ_OASIS "wikilink")
+4.  Ride Wit Tha D.S.C. 〜Just Like Me〜 / [DS455](../Page/DS455.md "wikilink")
+5.  CHANGE THE GAME feat. [K DUB SHINE](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink"), [ZEEBRA](../Page/Zeebra.md "wikilink"), 童子-T, [UZI](https://ja.wikipedia.org/wiki/UZI_\(ミュージシャン\) "wikilink"), [JA飛龍](https://ja.wikipedia.org/wiki/JA飛龍 "wikilink"), [O.J\&S.T](https://ja.wikipedia.org/wiki/O.J&S.T "wikilink"), [KM-MARKIT](../Page/KM-MARKIT.md "wikilink") / [DJ OASIS](../Page/DJ_OASIS.md "wikilink")
 6.  Touch the sky / ZEEBRA
-7.  ザ・グレート・アマチュアリズム / [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")
-8.  I SING，I SAY / [LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")
+7.  ザ・グレート・アマチュアリズム / [RHYMESTER](../Page/RHYMESTER.md "wikilink")
+8.  I SING，I SAY / [LITTLE](../Page/LITTLE.md "wikilink")
 9.  カリブの小さな島の唄 / [BOY-KEN](https://ja.wikipedia.org/wiki/BOY-KEN "wikilink")
 10. Beautiful 〜BR Remix〜 / [加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")
 11. 365 feat. [DELI](../Page/DELI.md "wikilink") / [AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")
 12. アゲアゲハリケーン / [MEGARYU](../Page/MEGARYU.md "wikilink")
-13. Fall in love / [PANG](https://ja.wikipedia.org/wiki/PANG "wikilink")
-14. ドーナッツ / [ET-KING](https://ja.wikipedia.org/wiki/ET-KING "wikilink")
+13. Fall in love / [PANG](../Page/PANG.md "wikilink")
+14. ドーナッツ / [ET-KING](../Page/ET-KING.md "wikilink")
 15. DREAM / [JAMOSA](https://ja.wikipedia.org/wiki/JAMOSA "wikilink")
 16. ソンはしないから聞いときな / K DUB SHINE
 
@@ -188,7 +188,7 @@
 
 1.  ヒップ・ホップ・イズ・デッド feat. [ウィル・アイ・アム](../Page/ウィル・アイ・アム.md "wikilink") / [ナズ](../Page/ナズ.md "wikilink")
 2.  ロンドン・ブリッジ / [ファーギー](../Page/ファーギー_\(歌手\).md "wikilink")
-3.  ソー・シック / [ニーヨ](https://ja.wikipedia.org/wiki/ニーヨ "wikilink")
+3.  ソー・シック / [ニーヨ](../Page/ニーヨ.md "wikilink")
 4.  ポン・デ・リプレイ / [リアーナ](../Page/リアーナ.md "wikilink")
 5.  ドント・ファンク・ウィズ・マイ・ハート / [ブラック・アイド・ピーズ](https://ja.wikipedia.org/wiki/ブラック・アイド・ピーズ "wikilink")
 6.  キャンディ・ショップ feat.  / [50セント](../Page/50セント.md "wikilink")
@@ -199,12 +199,12 @@
 11. O / [オマリオン](../Page/オマリオン.md "wikilink")
 12. シュガ・シュガ feat. [フランキーJ.](https://ja.wikipedia.org/wiki/フランキーJ. "wikilink") / [ベイビー・バッシュ](https://ja.wikipedia.org/wiki/ベイビー・バッシュ "wikilink")
 13. ビー・フェイスフル / [ファットマン・スクープ](https://ja.wikipedia.org/wiki/ファットマン・スクープ "wikilink")
-14. ヘイ・セクシー・レイディ feat. [ブライアン](https://ja.wikipedia.org/wiki/ブライアン "wikilink") & [トニー・ゴールド](https://ja.wikipedia.org/wiki/トニー・ゴールド "wikilink") / [シャギー](https://ja.wikipedia.org/wiki/シャギー_\(歌手\) "wikilink")
+14. ヘイ・セクシー・レイディ feat. [ブライアン](../Page/ブライアン.md "wikilink") & [トニー・ゴールド](https://ja.wikipedia.org/wiki/トニー・ゴールド "wikilink") / [シャギー](https://ja.wikipedia.org/wiki/シャギー_\(歌手\) "wikilink")
 15. パラダイス feat. [エイメリー](../Page/エイメリー.md "wikilink") / [LL・クール・J](../Page/LL・クール・J.md "wikilink")
 16. ジレンマ feat. [ケリー・ローランド](https://ja.wikipedia.org/wiki/ケリー・ローランド "wikilink") / [ネリー](https://ja.wikipedia.org/wiki/ネリー "wikilink")
 17. AM to PM / [クリスティーナ・ミリアン](../Page/クリスティーナ・ミリアン.md "wikilink")
 18. オールウェイズ・オン・タイム feat. [アシャンティ](../Page/アシャンティ_\(歌手\).md "wikilink") / [ジャ・ルール](../Page/ジャ・ルール.md "wikilink")
-19. レット・ミー・ブロウ・ヤ・マインド feat. [グウェン・ステファニー](https://ja.wikipedia.org/wiki/グウェン・ステファニー "wikilink") / [イヴ](https://ja.wikipedia.org/wiki/イヴ "wikilink")
+19. レット・ミー・ブロウ・ヤ・マインド feat. [グウェン・ステファニー](../Page/グウェン・ステファニー.md "wikilink") / [イヴ](https://ja.wikipedia.org/wiki/イヴ "wikilink")
 20. パーティー・アップ（アップ・イン・ヒア） / [DMX](https://ja.wikipedia.org/wiki/DMX "wikilink")
 
 ## ネット局
@@ -219,14 +219,14 @@
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")    | [テレビ北海道](../Page/テレビ北海道.md "wikilink") (TVh)                 | 日曜 25:05 - 25:35                                                            |                         |              |
 | [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")    | [テレビ愛知](../Page/テレビ愛知.md "wikilink") (TVA)                   | 月曜 26:30 - 27:00                                                            | 2001年10月、木曜25:45枠で放送開始。 |              |
 | [大阪府](../Page/大阪府.md "wikilink")                       | [テレビ大阪](../Page/テレビ大阪.md "wikilink") (TVO)                   | 火曜 26:35 - 27:05                                                            | 2003年4月、火曜26:40枠で放送開始。  |              |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")    | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink") (TVQ)               | 月曜 26:53 - 27:23                                                            |                         |              |
+| [福岡県](../Page/福岡県.md "wikilink")                       | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink") (TVQ)               | 月曜 26:53 - 27:23                                                            |                         |              |
 | [岩手県](../Page/岩手県.md "wikilink")                       | [テレビ岩手](../Page/テレビ岩手.md "wikilink") (TVI)                   | [日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")                             | 土曜 25:20 - 25:50        |              |
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")    | [東北放送](../Page/東北放送.md "wikilink") (TBC)                     | [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")        | 水曜 25:45 - 26:15        |              |
 | [新潟県](../Page/新潟県.md "wikilink")                       | [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink") (BSN)  | 土曜 25:43 - 26:13                                                            |                         |              |
 | [広島県](../Page/広島県.md "wikilink")                       | [中国放送](../Page/中国放送.md "wikilink") (RCC)                     | 火曜 25:55 - 26:25                                                            |                         |              |
-| [沖縄県](../Page/沖縄県.md "wikilink")                       | [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink") (RBC)  | 日曜 26:20 - 26:50                                                            | テレビ東京の9日遅れで放送。          |              |
+| [沖縄県](../Page/沖縄県.md "wikilink")                       | [琉球放送](../Page/琉球放送.md "wikilink") (RBC)                     | 日曜 26:20 - 26:50                                                            | テレビ東京の9日遅れで放送。          |              |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")    | [熊本朝日放送](../Page/熊本朝日放送.md "wikilink") (KAB)                 | [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink") | 水曜 26:15 - 26:45        |              |
-| [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")    | [KBS京都](../Page/京都放送.md "wikilink") (KBS)                    | [独立局](../Page/全国独立放送協議会.md "wikilink")                                      | 月曜 23:00 - 23:30        | 2003年3月打ち切り。 |
+| [京都府](../Page/京都府.md "wikilink")                       | [KBS京都](../Page/京都放送.md "wikilink") (KBS)                    | [独立局](../Page/全国独立放送協議会.md "wikilink")                                      | 月曜 23:00 - 23:30        | 2003年3月打ち切り。 |
 
 ### 流派-R SINCE2001
 
@@ -235,9 +235,9 @@
 | [関東広域圏](https://ja.wikipedia.org/wiki/関東地方 "wikilink") | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") (TX) | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")              | 金曜 26:00 - 26:30 |    |
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")    | [テレビ北海道](../Page/テレビ北海道.md "wikilink") (TVh)                 | 木曜 26:35 - 27:05                                                     |                  |    |
 | [大阪府](../Page/大阪府.md "wikilink")                       | [テレビ大阪](../Page/テレビ大阪.md "wikilink") (TVO)                   | 火曜 27:10 - 27:40                                                     |                  |    |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")    | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink") (TVQ)               | 日曜 27:05 - 27:35                                                     |                  |    |
+| [福岡県](../Page/福岡県.md "wikilink")                       | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink") (TVQ)               | 日曜 27:05 - 27:35                                                     |                  |    |
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")    | [東北放送](../Page/東北放送.md "wikilink") (TBC)                     | [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink") | 水曜 25:35 - 26:05 |    |
-| [沖縄県](../Page/沖縄県.md "wikilink")                       | [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink") (RBC)  | 日曜 26:40 - 27:10                                                     | テレビ東京の9日遅れで放送。   |    |
+| [沖縄県](../Page/沖縄県.md "wikilink")                       | [琉球放送](../Page/琉球放送.md "wikilink") (RBC)                     | 日曜 26:40 - 27:10                                                     | テレビ東京の9日遅れで放送。   |    |
 
 ## 脚注
 

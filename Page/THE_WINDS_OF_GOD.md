@@ -1,7 +1,7 @@
 > この記事は[THE WINDS OF GOD](https://ja.wikipedia.org/wiki/THE_WINDS_OF_GOD)から翻訳されています。
 
 
-『**THE WINDS OF GOD**』（ザ・ウインズ・オブ・ゴッド）は、神風[特別攻撃隊](https://ja.wikipedia.org/wiki/特別攻撃隊 "wikilink")をテーマとした[今井雅之](https://ja.wikipedia.org/wiki/今井雅之 "wikilink")作の[戯曲](../Page/戯曲.md "wikilink")。1988年より国内外で上演され、1995年に[小説](../Page/小説.md "wikilink")化ならびに最初の[映画](../Page/映画.md "wikilink")化が行われた。2005年には[テレビドラマ](../Page/テレビドラマ.md "wikilink")化、2006年には全編英語で再び映画化されている。そして21周年目の2009年に[今井雅之](https://ja.wikipedia.org/wiki/今井雅之 "wikilink")演出、オール新キャスト版が[調布市せんがわ劇場](https://ja.wikipedia.org/wiki/調布市せんがわ劇場 "wikilink")にて上演された。
+『**THE WINDS OF GOD**』（ザ・ウインズ・オブ・ゴッド）は、神風[特別攻撃隊](https://ja.wikipedia.org/wiki/特別攻撃隊 "wikilink")をテーマとした[今井雅之](../Page/今井雅之.md "wikilink")作の[戯曲](../Page/戯曲.md "wikilink")。1988年より国内外で上演され、1995年に[小説](../Page/小説.md "wikilink")化ならびに最初の[映画](../Page/映画.md "wikilink")化が行われた。2005年には[テレビドラマ](../Page/テレビドラマ.md "wikilink")化、2006年には全編英語で再び映画化されている。そして21周年目の2009年に[今井雅之](../Page/今井雅之.md "wikilink")演出、オール新キャスト版が[調布市せんがわ劇場](https://ja.wikipedia.org/wiki/調布市せんがわ劇場 "wikilink")にて上演された。
 
 ## あらすじ
 
@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - 2月に[銀座小劇場](https://ja.wikipedia.org/wiki/銀座小劇場 "wikilink")、8月に[シアターVアカサカ](https://ja.wikipedia.org/wiki/シアターVアカサカ "wikilink")、12月に[紀伊國屋ホール](https://ja.wikipedia.org/wiki/紀伊國屋ホール "wikilink")にて上演。
+  - 2月に[銀座小劇場](https://ja.wikipedia.org/wiki/銀座小劇場 "wikilink")、8月に[シアターVアカサカ](https://ja.wikipedia.org/wiki/シアターVアカサカ "wikilink")、12月に[紀伊國屋ホール](../Page/紀伊國屋ホール.md "wikilink")にて上演。
   - 3月にニューヨークの[国際連合本部](https://ja.wikipedia.org/wiki/国際連合本部 "wikilink")内ホールにて上演。（国際連合本部主催公演）
 
 <!-- end list -->
@@ -83,7 +83,7 @@
 <!-- end list -->
 
   - 4 - 7月に「1999 JAPAN TOUR」として全国19カ所で64公演が上演。
-  - 9 - 10月にニューヨークのAmerican Place Theater（[オフ・ブロードウェイ](https://ja.wikipedia.org/wiki/オフ・ブロードウェイ "wikilink")）にて上演。
+  - 9 - 10月にニューヨークのAmerican Place Theater（[オフ・ブロードウェイ](../Page/オフ・ブロードウェイ.md "wikilink")）にて上演。
   - 12月に[全労済ホールスペース・ゼロにて上演](https://ja.wikipedia.org/wiki/スペース・ゼロ "wikilink")。
 
 <!-- end list -->
@@ -166,7 +166,7 @@
 <!-- end list -->
 
   -
-    袋金太 / 福本貴士海軍少尉：[なだぎ武](../Page/なだぎ武.md "wikilink")（[ザ・プラン9](https://ja.wikipedia.org/wiki/ザ・プラン9 "wikilink")）
+    袋金太 / 福本貴士海軍少尉：[なだぎ武](../Page/なだぎ武.md "wikilink")（[ザ・プラン9](../Page/ザ・プラン9.md "wikilink")）
 
   - 2013年
 
@@ -183,7 +183,7 @@
 
 <!-- end list -->
 
-  - 5月に[新国立劇場](https://ja.wikipedia.org/wiki/新国立劇場 "wikilink")ほか全国16か所で、今井のファイナル公演として上演予定だった\[1\]。
+  - 5月に[新国立劇場](../Page/新国立劇場.md "wikilink")ほか全国16か所で、今井のファイナル公演として上演予定だった\[1\]。
   - 4月21日、今井の大腸がんによる舞台降板が発表される。代役は[重松隆志](https://ja.wikipedia.org/wiki/重松隆志 "wikilink")が務め、全国ツアーのうち3公演は公演中止となった\[2\]。その後、翌月28日に今井の訃報が正式に公表された。
 
 ### 登場人物
@@ -277,7 +277,7 @@
 
 ### 劇中で使用される楽曲
 
-  - 「青空」（[THE BLUE HEARTS](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")）
+  - 「青空」（[THE BLUE HEARTS](../Page/THE_BLUE_HEARTS.md "wikilink")）
 
 <!-- end list -->
 
@@ -314,36 +314,36 @@
 
 ### 評価
 
-[NHK教育テレビで劇の模様が放送された際](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")、放送された今井雅之のインタビューでは、この作品を上演し始めた当初は、「右翼」「戦争賛美」といった非難を受けたことを述べている。現在では、声高に反戦を主張するものではないが、戦争の悲惨さを感じさせ、また人の生き方について考えさせられる作品として評価されることが多い。
+[NHK教育テレビで劇の模様が放送された際](../Page/NHK教育テレビジョン.md "wikilink")、放送された今井雅之のインタビューでは、この作品を上演し始めた当初は、「右翼」「戦争賛美」といった非難を受けたことを述べている。現在では、声高に反戦を主張するものではないが、戦争の悲惨さを感じさせ、また人の生き方について考えさせられる作品として評価されることが多い。
 
 ## 小説
 
-1995年に『**ウインズ・オブ・ゴッド―零のかなたへ**』と題して[角川書店](../Page/角川書店.md "wikilink")より[小説化](../Page/小説化.md "wikilink")、2001年には『**THE WINDS OF GOD―零のかなたへ**』と題して[角川文庫](https://ja.wikipedia.org/wiki/角川文庫 "wikilink")より文庫化された。
+1995年に『**ウインズ・オブ・ゴッド―零のかなたへ**』と題して[角川書店](../Page/角川書店.md "wikilink")より[小説化](../Page/小説化.md "wikilink")、2001年には『**THE WINDS OF GOD―零のかなたへ**』と題して[角川文庫](../Page/角川文庫.md "wikilink")より文庫化された。
 
 ## 映画
 
 ### WINDS OF GOD （1995年版）
 
-最初の映画化作品は『**WINDS OF GOD**』というタイトルで、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月3日](../Page/6月3日.md "wikilink")に公開。[松竹](../Page/松竹.md "wikilink")配給。[奈良橋陽子](https://ja.wikipedia.org/wiki/奈良橋陽子 "wikilink")監督作品。内容としては、舞台版に比較的忠実である。
+最初の映画化作品は『**WINDS OF GOD**』というタイトルで、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月3日](../Page/6月3日.md "wikilink")に公開。[松竹](../Page/松竹.md "wikilink")配給。[奈良橋陽子](../Page/奈良橋陽子.md "wikilink")監督作品。内容としては、舞台版に比較的忠実である。
 
 #### 製作経緯
 
-「THE WINDS OF GOD」は最初は映画として企画された\[3\]。最初に[今井雅之](https://ja.wikipedia.org/wiki/今井雅之 "wikilink")からストーリーを聞いた[奈良橋陽子](https://ja.wikipedia.org/wiki/奈良橋陽子 "wikilink")は「すごく面白い」と思い、いくつかの場面を稽古し「これは国際的な映画になる」と直感した\[4\]。すぐに松竹の[奥山和由](../Page/奥山和由.md "wikilink")に企画書を提出したが、なかなかゴーサインが出ず、それならばと先に舞台作品として世に出た\[5\]。
+「THE WINDS OF GOD」は最初は映画として企画された\[3\]。最初に[今井雅之](../Page/今井雅之.md "wikilink")からストーリーを聞いた[奈良橋陽子](../Page/奈良橋陽子.md "wikilink")は「すごく面白い」と思い、いくつかの場面を稽古し「これは国際的な映画になる」と直感した\[4\]。すぐに松竹の[奥山和由](../Page/奥山和由.md "wikilink")に企画書を提出したが、なかなかゴーサインが出ず、それならばと先に舞台作品として世に出た\[5\]。
 
-最初に映画が製作されかけたのは[1989年](../Page/1989年.md "wikilink")で\[6\]\[7\]、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に奥山和由が製作した『[ハチ公物語](../Page/ハチ公物語.md "wikilink")』で、[岡田茂](https://ja.wikipedia.org/wiki/岡田茂_\(東映\) "wikilink")[東映](../Page/東映.md "wikilink")社長に世話になったことから\[8\]\[9\]、奥山が「岡田社長の元で映画をプロデュースして恩返ししたい」と東映の岡田に本作の映画化を持ち込んだ\[10\]\[11\]。この時のタイトルは『KAMIKAZE』で\[12\]\[13\]、製作は[五味武](https://ja.wikipedia.org/wiki/五味武 "wikilink")が社長を務めるGMプロモーションと[伊藤萬の共同製作](../Page/イトマン.md "wikilink")\[14\]。製作総指揮は五味、企画が奥山和由、脚本・今井雅之、監督・奈良橋陽子、主演は今井雅之と[本木雅弘](../Page/本木雅弘.md "wikilink")\[15\]\[16\]、配給は[松竹洋画系で](https://ja.wikipedia.org/wiki/松竹富士 "wikilink")\[17\]、[1989年](../Page/1989年.md "wikilink")9月にクランクイン、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")春公開と具体的なところまで進んでいたが\[18\]\[19\]、映画化されず。
+最初に映画が製作されかけたのは[1989年](../Page/1989年.md "wikilink")で\[6\]\[7\]、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に奥山和由が製作した『[ハチ公物語](../Page/ハチ公物語.md "wikilink")』で、[岡田茂](https://ja.wikipedia.org/wiki/岡田茂_\(東映\) "wikilink")[東映](../Page/東映.md "wikilink")社長に世話になったことから\[8\]\[9\]、奥山が「岡田社長の元で映画をプロデュースして恩返ししたい」と東映の岡田に本作の映画化を持ち込んだ\[10\]\[11\]。この時のタイトルは『KAMIKAZE』で\[12\]\[13\]、製作は[五味武](https://ja.wikipedia.org/wiki/五味武 "wikilink")が社長を務めるGMプロモーションと[伊藤萬の共同製作](../Page/イトマン.md "wikilink")\[14\]。製作総指揮は五味、企画が奥山和由、脚本・今井雅之、監督・奈良橋陽子、主演は今井雅之と[本木雅弘](../Page/本木雅弘.md "wikilink")\[15\]\[16\]、配給は[松竹洋画系で](../Page/松竹富士.md "wikilink")\[17\]、[1989年](../Page/1989年.md "wikilink")9月にクランクイン、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")春公開と具体的なところまで進んでいたが\[18\]\[19\]、映画化されず。
 
 [1992年](../Page/1992年.md "wikilink")にローバジェット作品として松竹での製作が決定し\[20\]、同年8月クランクイン\[21\]。[静岡県](../Page/静岡県.md "wikilink")[下田市](../Page/下田市.md "wikilink")近郊で1ヵ月ロケ\[22\]。舞台で看護婦役だった[藤田朋子](../Page/藤田朋子.md "wikilink")が「どんな小さい役でもいいから出して欲しい」と訴え、テレビの仕事の後、ロケ地へ遊びに来て、そのまま2ショット出演した\[23\]。9月のニューヨーク公演の後、[テキサスで空中シーンの撮影を終え](../Page/テキサス州.md "wikilink")、映画はここで完成した\[24\]。[1993年](../Page/1993年.md "wikilink")の[ゆうばり国際ファンタスティック映画祭](../Page/ゆうばり国際ファンタスティック映画祭.md "wikilink")で上映され、審査員特別賞を受賞したが一般公開はならず、[お蔵入り](../Page/お蔵入り.md "wikilink")した\[25\]\[26\]\[27\]。
 
 #### 配給経緯
 
-1995年が戦後50年にあたることから、邦画メジャー3社で[戦争映画](../Page/戦争映画.md "wikilink")大作を競作しようと準備を始め\[28\]\[29\]、東映が『[きけ、わだつみの声 Last Friends](https://ja.wikipedia.org/wiki/きけ、わだつみの声_Last_Friends "wikilink")』、[東宝](../Page/東宝.md "wikilink")が『[ひめゆりの塔](https://ja.wikipedia.org/wiki/ひめゆりの塔_\(1995年の映画\) "wikilink")』の戦争大作の製作を早くに決め、会社の意地を見せ万全の体勢を敷いた\[30\]。しかし松竹はこれに乗らず\[31\]。このため東映と東宝の二社で『戦後50年記念共同プロジェクト』を実施し、二作品の[予告編](https://ja.wikipedia.org/wiki/予告編 "wikilink")を反対の劇場で流す、二作品の予告編を一緒にしてお互いの劇場で流すなどという史上初の試みを行うなどで盛り上げた\[32\]\[33\]。松竹はこの二社の盛り上がりに便乗し、二年前にお蔵入りさせた『WINDS OF GOD』をこの年公開した\[34\]\[35\]。　
+1995年が戦後50年にあたることから、邦画メジャー3社で[戦争映画](../Page/戦争映画.md "wikilink")大作を競作しようと準備を始め\[28\]\[29\]、東映が『[きけ、わだつみの声 Last Friends](https://ja.wikipedia.org/wiki/きけ、わだつみの声_Last_Friends "wikilink")』、[東宝](../Page/東宝.md "wikilink")が『[ひめゆりの塔](https://ja.wikipedia.org/wiki/ひめゆりの塔_\(1995年の映画\) "wikilink")』の戦争大作の製作を早くに決め、会社の意地を見せ万全の体勢を敷いた\[30\]。しかし松竹はこれに乗らず\[31\]。このため東映と東宝の二社で『戦後50年記念共同プロジェクト』を実施し、二作品の[予告編](../Page/予告編.md "wikilink")を反対の劇場で流す、二作品の予告編を一緒にしてお互いの劇場で流すなどという史上初の試みを行うなどで盛り上げた\[32\]\[33\]。松竹はこの二社の盛り上がりに便乗し、二年前にお蔵入りさせた『WINDS OF GOD』をこの年公開した\[34\]\[35\]。　
 
 #### キャスト
 
-  - **田代誠** / **岸田守海軍中尉**：[今井雅之](https://ja.wikipedia.org/wiki/今井雅之 "wikilink")
+  - **田代誠** / **岸田守海軍中尉**：[今井雅之](../Page/今井雅之.md "wikilink")
   - **袋金太** / **福元貴士海軍少尉**：[山口粧太](../Page/山口粧太.md "wikilink")
-  - **山田貴文分隊長**：[六平直政](https://ja.wikipedia.org/wiki/六平直政 "wikilink")
-  - **宮下千穂**：[小川範子](https://ja.wikipedia.org/wiki/小川範子 "wikilink")
+  - **山田貴文分隊長**：[六平直政](../Page/六平直政.md "wikilink")
+  - **宮下千穂**：[小川範子](../Page/小川範子.md "wikilink")
   - **寺川中尉**：[菊池孝典](https://ja.wikipedia.org/wiki/菊池孝典 "wikilink")
   - **松島少尉**：[井田國彦](../Page/井田國彦.md "wikilink")
   - **山本少尉**：[新井つねひろ](../Page/新井つねひろ.md "wikilink")
@@ -355,11 +355,11 @@
 
 ### THE WINDS OF GOD -KAMIKAZE- （2006年版）
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Ruin_of_Fuke_es_Okuchi_2010.JPG "wikilink") 『**THE WINDS OF GOD -KAMIKAZE-**』というタイトルで[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月26日](../Page/8月26日.md "wikilink")に公開。国際映画として上映するため、現代を演じる場面の舞台はアメリカへと変更され、タイムスリップする人間もニューヨーク在住のアメリカ人コメディアンという設定になっている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Ruin_of_Fuke_es_Okuchi_2010.JPG "wikilink") 『**THE WINDS OF GOD -KAMIKAZE-**』というタイトルで[2006年](../Page/2006年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")に公開。国際映画として上映するため、現代を演じる場面の舞台はアメリカへと変更され、タイムスリップする人間もニューヨーク在住のアメリカ人コメディアンという設定になっている。
 
 #### キャスト
 
-  - **マイク・キッシンジャー**：[ニコラス・ペタス](../Page/ニコラス・ペタス.md "wikilink") / **岸田守海軍中尉**：[今井雅之](https://ja.wikipedia.org/wiki/今井雅之 "wikilink")
+  - **マイク・キッシンジャー**：[ニコラス・ペタス](../Page/ニコラス・ペタス.md "wikilink") / **岸田守海軍中尉**：[今井雅之](../Page/今井雅之.md "wikilink")
 
 <!-- end list -->
 
@@ -377,13 +377,13 @@
 
 <!-- end list -->
 
-  - **老神父** / **山田貴文分隊長**：[渡辺裕之](https://ja.wikipedia.org/wiki/渡辺裕之 "wikilink")
+  - **老神父** / **山田貴文分隊長**：[渡辺裕之](../Page/渡辺裕之.md "wikilink")
   - **妊婦** / **宮下千穂**：[渋谷亜希](../Page/渋谷亜希.md "wikilink")
   - **太田信忠飛行隊長**：[千葉真一](https://ja.wikipedia.org/wiki/千葉真一 "wikilink")
 
 ## テレビドラマ
 
-[朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）と[The iconの制作により](https://ja.wikipedia.org/wiki/The_icon "wikilink")、脚本を一部改訂して、『**零のかなたへ〜THE WINDS OF GOD〜**』というタイトルにて、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月10日](../Page/9月10日.md "wikilink")の21時00分 - 22時51分に[テレビ朝日系列で放映された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")。撮影に当たっては零戦のレプリカを2機製作しており（製作費は1機あたり600万円）、戦闘シーンにはCG合成を駆使し、同局で放送されていたバラエティ番組『[笑いの金メダル](../Page/笑いの金メダル.md "wikilink")』メンバーである[くりぃむしちゅー](../Page/くりぃむしちゅー.md "wikilink")と[ヒロシ](../Page/ヒロシ.md "wikilink")が出演していることも話題になった。
+[朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）と[The iconの制作により](https://ja.wikipedia.org/wiki/The_icon "wikilink")、脚本を一部改訂して、『**零のかなたへ〜THE WINDS OF GOD〜**』というタイトルにて、[2005年](../Page/2005年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")の21時00分 - 22時51分に[テレビ朝日系列で放映された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")。撮影に当たっては零戦のレプリカを2機製作しており（製作費は1機あたり600万円）、戦闘シーンにはCG合成を駆使し、同局で放送されていたバラエティ番組『[笑いの金メダル](../Page/笑いの金メダル.md "wikilink")』メンバーである[くりぃむしちゅー](../Page/くりぃむしちゅー.md "wikilink")と[ヒロシ](../Page/ヒロシ.md "wikilink")が出演していることも話題になった。
 
 平成17年度[文化庁芸術祭テレビ部門優秀賞受賞作品](../Page/芸術祭_\(文化庁\).md "wikilink")。
 
@@ -413,7 +413,7 @@
   - **江波八重**：[小西美帆](../Page/小西美帆.md "wikilink")
   - **山田貴文分隊長** / **老神父**：[西村雅彦](../Page/西村まさ彦.md "wikilink")
   - **軍医**：[伊東四朗](../Page/伊東四朗.md "wikilink")
-  - **寺川隆二中尉**：[池内博之](https://ja.wikipedia.org/wiki/池内博之 "wikilink")
+  - **寺川隆二中尉**：[池内博之](../Page/池内博之.md "wikilink")
   - **山本勉少尉**：浜田学
   - **旅館の女将**：[泉ピン子](../Page/泉ピン子.md "wikilink")
 
@@ -425,7 +425,7 @@
 <!-- end list -->
 
   - **ヒロシ**
-  - **くりぃむしちゅー**（[上田晋也](https://ja.wikipedia.org/wiki/上田晋也 "wikilink")・[有田哲平](../Page/有田哲平.md "wikilink")）
+  - **くりぃむしちゅー**（[上田晋也](../Page/上田晋也.md "wikilink")・[有田哲平](../Page/有田哲平.md "wikilink")）
 
 <!-- end list -->
 
@@ -460,11 +460,11 @@
 
   - 制作：[朝日放送](../Page/朝日放送テレビ.md "wikilink")、[The icon](https://ja.wikipedia.org/wiki/The_icon "wikilink")
   - 原作：今井雅之（角川文庫刊）
-  - プロデューサー：[深沢義啓](https://ja.wikipedia.org/wiki/深沢義啓 "wikilink")、[藤田和弥](../Page/藤田和弥.md "wikilink")、[井口毅](https://ja.wikipedia.org/wiki/井口毅 "wikilink")、[志村彰](https://ja.wikipedia.org/wiki/志村彰 "wikilink")、[森雅弘](https://ja.wikipedia.org/wiki/森雅弘 "wikilink")
+  - プロデューサー：[深沢義啓](https://ja.wikipedia.org/wiki/深沢義啓 "wikilink")、[藤田和弥](../Page/藤田和弥.md "wikilink")、[井口毅](../Page/井口毅.md "wikilink")、[志村彰](https://ja.wikipedia.org/wiki/志村彰 "wikilink")、[森雅弘](https://ja.wikipedia.org/wiki/森雅弘 "wikilink")
   - 脚本：[矢島正雄](../Page/矢島正雄.md "wikilink")
   - 監督：[中山史郎](https://ja.wikipedia.org/wiki/中山史郎 "wikilink")
-  - 音楽：[丸山和範](https://ja.wikipedia.org/wiki/丸山和範 "wikilink")
-  - 主題歌：[風味堂](https://ja.wikipedia.org/wiki/風味堂 "wikilink")「[ゆらゆら](../Page/風味堂_\(アルバム\).md "wikilink")」（[SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")）
+  - 音楽：[丸山和範](../Page/丸山和範.md "wikilink")
+  - 主題歌：[風味堂](../Page/風味堂.md "wikilink")「[ゆらゆら](../Page/風味堂_\(アルバム\).md "wikilink")」（[SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")）
 
 ## 脚注
 

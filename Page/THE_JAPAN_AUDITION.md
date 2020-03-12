@@ -1,11 +1,11 @@
 > この記事は[THE JAPAN AUDITION](https://ja.wikipedia.org/wiki/THE_JAPAN_AUDITION)から翻訳されています。
 
 
-**ザ・ジャパン・オーディション**は、[日本音楽事業者協会](https://ja.wikipedia.org/wiki/日本音楽事業者協会 "wikilink")が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に実施した全国規模の[オーディション](../Page/オーディション.md "wikilink")である。
+**ザ・ジャパン・オーディション**は、[日本音楽事業者協会](../Page/日本音楽事業者協会.md "wikilink")が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に実施した全国規模の[オーディション](../Page/オーディション.md "wikilink")である。
 
 ## 概要
 
-新聞などで告知し、1997年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")に[国立代々木競技場](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")第一体育館で行われた最終審査の模様は[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列で生中継された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")。
+新聞などで告知し、1997年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")に[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第一体育館で行われた最終審査の模様は[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列で生中継された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")。
 
 合格すると合格者自身が所属したい事務所やレコード会社を逆指名出来た。
 
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - [木内晶子](https://ja.wikipedia.org/wiki/木内晶子 "wikilink")\[4\]
+  - [木内晶子](../Page/木内晶子.md "wikilink")\[4\]
 
 <!-- end list -->
 
@@ -47,7 +47,7 @@
   - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")
   - [MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")
   - [SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")
-  - [DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")
+  - [DA PUMP](../Page/DA_PUMP.md "wikilink")
   - [華原朋美](../Page/華原朋美.md "wikilink")
   - [篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")
   - [西田ひかる](../Page/西田ひかる.md "wikilink")

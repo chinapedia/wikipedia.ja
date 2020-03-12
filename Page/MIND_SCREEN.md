@@ -28,23 +28,23 @@
 4.  **[愛を眠らせて](https://ja.wikipedia.org/wiki/愛を眠らせて "wikilink")**
 
       -
-        アルバムからの先行シングル。[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")に提供した「愛して」（作詞・作曲：浜田省吾）と同じメロディーで、歌詞違いの[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")である。
+        アルバムからの先行シングル。[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")に提供した「愛して」（作詞・作曲：浜田省吾）と同じメロディーで、歌詞違いの[セルフカバー](../Page/セルフカバー.md "wikilink")である。
 
 5.  **いつわりの日々**
 
       -
-        アルバム『[Sand Castle](https://ja.wikipedia.org/wiki/Sand_Castle "wikilink")』で[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")された。
+        アルバム『[Sand Castle](../Page/Sand_Castle.md "wikilink")』で[リメイク](../Page/リメイク.md "wikilink")された。
 
 <!-- end list -->
 
 1.  **ダンシング レディ**
 2.  **朝のシルエット**
       -
-        アルバム『[Sand Castle](https://ja.wikipedia.org/wiki/Sand_Castle "wikilink")』で[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")された。
+        アルバム『[Sand Castle](../Page/Sand_Castle.md "wikilink")』で[リメイク](../Page/リメイク.md "wikilink")された。
 3.  **サイレント ムーヴィー**
 4.  **グッド・ナイト・エンジェル**
       -
-        歌詞違いの未発表部分がある。アルバム『[初夏の頃](https://ja.wikipedia.org/wiki/初夏の頃_〜IN_EARLY_SUMMER〜 "wikilink")』で[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")された。
+        歌詞違いの未発表部分がある。アルバム『[初夏の頃](../Page/初夏の頃_〜IN_EARLY_SUMMER〜.md "wikilink")』で[リメイク](../Page/リメイク.md "wikilink")された。
 5.  **悪い夢**
       -
         当時の浜田の心境をストレートに表した楽曲。自分の置かれた状況を「まるで悪い夢を見てるみたい」だと歌われている。
@@ -53,10 +53,10 @@
 
   - Drums：Robert Brill
   - Bass：岡沢茂
-  - Piano and Keyboards：[佐藤準](https://ja.wikipedia.org/wiki/佐藤準 "wikilink")
+  - Piano and Keyboards：[佐藤準](../Page/佐藤準.md "wikilink")
   - Guitar：[水谷公生](../Page/水谷公生.md "wikilink")
   - Acoustic Guitar：[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink")
-  - Percussion：[斉藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノヴ "wikilink")
+  - Percussion：[斉藤ノブ](../Page/斎藤ノヴ.md "wikilink")
   - Saxophone：[Jake H.Concepcion](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")
   - Backing Vocal：[町支寛二](../Page/町支寛二.md "wikilink")
 

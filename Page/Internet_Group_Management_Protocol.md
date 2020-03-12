@@ -3,7 +3,7 @@
 
 **Internet Group Management Protocol** (**IGMP**) とは、[IPネットワーク](https://ja.wikipedia.org/wiki/IPネットワーク "wikilink")上で[マルチキャスト](../Page/マルチキャスト.md "wikilink")（特定の一対多または多対多通信）を行うために、マルチキャストに参加する[ホスト](https://ja.wikipedia.org/wiki/ホスト "wikilink")のグループを設定し、ネットワークに通知するための[通信プロトコル](../Page/通信プロトコル.md "wikilink")である。マルチキャストは、動画や音楽の[ストリーミング](../Page/ストリーミング.md "wikilink")など、同時に多数のホストへ同一のデータを送信するときに通信を効率化する技術である。
 
-IGMPは[IPv4](https://ja.wikipedia.org/wiki/IPv4 "wikilink")ネットワーク向けのマルチキャストプロトコルであり、[インターネット・プロトコル](../Page/Internet_Protocol.md "wikilink") (IP) 上に直に実装されている。一方、[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")では同様の役割を担う[Multicast Listener Discovery](https://ja.wikipedia.org/wiki/Multicast_Listener_Discovery "wikilink") (MLD) が[ICMPv6](https://ja.wikipedia.org/wiki/ICMPv6 "wikilink")上に実装されている。
+IGMPは[IPv4](../Page/IPv4.md "wikilink")ネットワーク向けのマルチキャストプロトコルであり、[インターネット・プロトコル](../Page/Internet_Protocol.md "wikilink") (IP) 上に直に実装されている。一方、[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")では同様の役割を担う[Multicast Listener Discovery](https://ja.wikipedia.org/wiki/Multicast_Listener_Discovery "wikilink") (MLD) が[ICMPv6](https://ja.wikipedia.org/wiki/ICMPv6 "wikilink")上に実装されている。
 
 ## 設計
 
@@ -89,7 +89,7 @@ IGMP Leave Group パケット
 
 ## 普及
 
-IPv4やIPv6のマルチキャストは、[専用網](https://ja.wikipedia.org/wiki/専用網 "wikilink")では[IP放送](https://ja.wikipedia.org/wiki/IP放送 "wikilink")のためのネットワークとして商業的に利用されている。
+IPv4やIPv6のマルチキャストは、[専用網](https://ja.wikipedia.org/wiki/専用網 "wikilink")では[IP放送](../Page/IP放送.md "wikilink")のためのネットワークとして商業的に利用されている。
 
 [インターネット](../Page/インターネット.md "wikilink") (the Internet) では、構成しているネットワークのルータがマルチキャストに対応したものに置き換わることはなかった。IPv6網では、ネットワーク機器は当初からすべてMLDに対応しているが、[ISP間レベルでのマルチキャスト経路の構成は実験的に行われているだけである](https://ja.wikipedia.org/wiki/Internet_Service_Provider "wikilink")。
 

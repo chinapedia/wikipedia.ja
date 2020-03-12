@@ -12,9 +12,9 @@
   - 1993年 - 社名を改め株式会社アイデクソン技研とし、[長野市](../Page/長野市.md "wikilink")[大豆島](https://ja.wikipedia.org/wiki/大豆島 "wikilink")に新社屋を建築、移転。
   - 1996年 - [券売機](https://ja.wikipedia.org/wiki/券売機 "wikilink")を開発、販売開始。
   - 2001年 - 株式会社[イーヤマが資本参加し](https://ja.wikipedia.org/wiki/iiyama "wikilink")、イーヤマグループの一員となる。社名を改め株式会社イーヤマ技研とする。
-  - 2003年 - [タッチパネル](https://ja.wikipedia.org/wiki/タッチパネル "wikilink")式[券売機](https://ja.wikipedia.org/wiki/券売機 "wikilink")を開発、販売を開始。デジタルプリントシステムを開発、販売開始。
-  - 2006年 - [MBOにより株式会社](https://ja.wikipedia.org/wiki/マネジメント・バイアウト "wikilink")[イーヤマ](https://ja.wikipedia.org/wiki/イーヤマ "wikilink")より独立、社名を改め株式会社**BOSTEC**とする。代表取締役社長に安田卓治が就任。東京営業所を[台東区](../Page/台東区.md "wikilink")[浅草橋に移転する](https://ja.wikipedia.org/wiki/浅草橋_\(台東区\) "wikilink")。
-  - 2007年 - 高額紙幣対応押しボタン式券売機**BBM**を開発、販売を開始。増資により、資本金4,500万円とする。券売機[ASP集計サービスを開始](https://ja.wikipedia.org/wiki/アプリケーションサービスプロバイダ "wikilink")。\[[https://bostec.jp/product/2130/\]窓口発券機を開発、販売を開始](https://bostec.jp/product/2130/%5D窓口発券機を開発、販売を開始)。
+  - 2003年 - [タッチパネル](../Page/タッチパネル.md "wikilink")式[券売機](https://ja.wikipedia.org/wiki/券売機 "wikilink")を開発、販売を開始。デジタルプリントシステムを開発、販売開始。
+  - 2006年 - [MBOにより株式会社](../Page/マネジメント・バイアウト.md "wikilink")[イーヤマ](https://ja.wikipedia.org/wiki/イーヤマ "wikilink")より独立、社名を改め株式会社**BOSTEC**とする。代表取締役社長に安田卓治が就任。東京営業所を[台東区](../Page/台東区.md "wikilink")[浅草橋に移転する](https://ja.wikipedia.org/wiki/浅草橋_\(台東区\) "wikilink")。
+  - 2007年 - 高額紙幣対応押しボタン式券売機**BBM**を開発、販売を開始。増資により、資本金4,500万円とする。券売機[ASP集計サービスを開始](../Page/アプリケーションサービスプロバイダ.md "wikilink")。\[[https://bostec.jp/product/2130/\]窓口発券機を開発、販売を開始](https://bostec.jp/product/2130/%5D窓口発券機を開発、販売を開始)。
   - 2008年 - 19インチタッチパネル式券売機を開発、販売を開始。[ICカード](../Page/ICカード.md "wikilink")対応券売機を開発、販売を開始。
   - 2009年 - 背面操作式タッチパネル式券売機を開発、販売を開始。
   - 2010年 - 業界初22インチワイドタッチパネル式券売機を開発、販売を開始。
@@ -31,7 +31,7 @@
   - 2014年 - [Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")専用決済券売機[**BCL-22Edy**](https://bostec.jp/product/639/)の販売を開始。
   - 2015年 - [ワイン](../Page/ワイン.md "wikilink")ディスペンサー向けWAON決済端末機の開発、販売を開始。
   - 2016年 - ワインディスペンサー向け現金決済端末機[**BKM**](https://bostec.jp/product/640/)（高額紙幣対応） の開発、販売を開始。
-  - 2016年 - [プライバシーマーク](https://ja.wikipedia.org/wiki/プライバシーマーク "wikilink")を取得。
+  - 2016年 - [プライバシーマーク](../Page/プライバシーマーク.md "wikilink")を取得。
   - 2017年 - 19インチタッチパネル式小型券売機[**FSH-19V**](https://bostec.jp/product/1402/)の販売を開始。
   - 2017年 - 19インチタッチパネル式背面操作型券売機[**RMC-19V**](https://bostec.jp/product/644/)の販売を開始。
   - 2017年 - 券売機の次世代モデルとなる[セルフ](https://ja.wikipedia.org/wiki/セルフ "wikilink")決済機シリーズの開発、販売を開始。[3](https://bostec.jp/self-settlement-series/)
@@ -39,7 +39,7 @@
   - 2017年 - 27インチタッチパネル式のセルフ決済機[**FMC-27VA**](https://bostec.jp/product/1420/)（主要[電子マネー](../Page/電子マネー.md "wikilink")、[WeChat Pay payment](https://ja.wikipedia.org/wiki/微信 "wikilink"),[Alipay](https://ja.wikipedia.org/wiki/Alipay "wikilink"),valuecard,[クレジットカード](../Page/クレジットカード.md "wikilink")など対応）と[**FMC-27VB**](https://bostec.jp/product/1593/)の販売を開始。
   - 2017年 - 27インチタッチパネル式[キャッシュレス決済専用端末](https://ja.wikipedia.org/wiki/キャッシュレス社会 "wikilink")**[FCL-27V](https://bostec.jp/product/639/)**の販売を開始。
   - 2019年 - [動画](../Page/動画.md "wikilink")再生機能付きのセルフ決済機の開発、販売を開始。[4](https://www.tenpo.biz/tentsu/entry/2019/03/28/100000#content02)
-  - 2019年 - セットメニューの購入を容易にした券売機及びセルフ決済機の[特許](https://ja.wikipedia.org/wiki/特許 "wikilink")を出願。[5](https://bostec.jp/#03)
+  - 2019年 - セットメニューの購入を容易にした券売機及びセルフ決済機の[特許](../Page/特許.md "wikilink")を出願。[5](https://bostec.jp/#03)
   - 2019年 - [レセプトコンピュータ](../Page/レセプトコンピュータ.md "wikilink")と自動精算機を連動させたシステムを開発。
   - 2019年 - ECサイトをリニューアルオープン。[\[7\]](https://bostec.official.ec)
 
@@ -51,7 +51,7 @@
   - [決済端末機](https://ja.wikipedia.org/wiki/決済端末機 "wikilink")
   - セルフ決済機
   - [POSレジ](https://ja.wikipedia.org/wiki/POSレジ "wikilink")システム
-  - [ASP集計管理システム](https://ja.wikipedia.org/wiki/アプリケーションサービスプロバイダ "wikilink")
+  - [ASP集計管理システム](../Page/アプリケーションサービスプロバイダ.md "wikilink")
   - [電子マネー](../Page/電子マネー.md "wikilink")決済システム
   - 監視カメラシステム
   - デジタルプリントシステム

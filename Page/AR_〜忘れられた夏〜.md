@@ -1,11 +1,11 @@
 > この記事は[AR ](https://ja.wikipedia.org/wiki/AR_)から翻訳されています。
 
 
-『**AR 〜忘れられた夏〜**』（**エーアール わすれられたなつ**、**AR Forgotten summer**）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")（[金曜日](../Page/金曜日.md "wikilink")）に[CIRCUSより発売された](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[18禁の](../Page/レイティング.md "wikilink")[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")（[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")）[ソフト](../Page/ソフトウェア.md "wikilink")。CIRCUSと[TOPCATとの共同開発](../Page/TOPCAT_\(ブランド\).md "wikilink")。対応[OSは](../Page/オペレーティングシステム.md "wikilink")[日本語](../Page/日本語.md "wikilink")版[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 98/Me/2000/XP。[DVD](../Page/DVD.md "wikilink")-ROM版と限定生産の[CD](../Page/コンパクトディスク.md "wikilink")-ROM版の同時発売で共に定価10290円（本体価格9800円+[消費税](../Page/消費税.md "wikilink")）。初回限定版封入特典は『白河家秘伝掛け軸』およびアレンジ[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")。予約特典はオリジナルミニドラマCD。
+『**AR 〜忘れられた夏〜**』（**エーアール わすれられたなつ**、**AR Forgotten summer**）は、[2006年](../Page/2006年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")（[金曜日](../Page/金曜日.md "wikilink")）に[CIRCUSより発売された](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[18禁の](../Page/レイティング.md "wikilink")[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")（[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")）[ソフト](../Page/ソフトウェア.md "wikilink")。CIRCUSと[TOPCATとの共同開発](../Page/TOPCAT_\(ブランド\).md "wikilink")。対応[OSは](../Page/オペレーティングシステム.md "wikilink")[日本語](../Page/日本語.md "wikilink")版[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 98/Me/2000/XP。[DVD](../Page/DVD.md "wikilink")-ROM版と限定生産の[CD](../Page/コンパクトディスク.md "wikilink")-ROM版の同時発売で共に定価10290円（本体価格9800円+[消費税](../Page/消費税.md "wikilink")）。初回限定版封入特典は『白河家秘伝掛け軸』およびアレンジ[サウンドトラック](../Page/サウンドトラック.md "wikilink")。予約特典はオリジナルミニドラマCD。
 
 CIRCUSの作品『[水夏](../Page/水夏.md "wikilink")』の過去の物語を描いた作品で、『水夏』のキャラクターである「名無しの子」と「メデス（アルキメデス）」が登場する。
 
-[角川書店](../Page/角川書店.md "wikilink")刊行の[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")「[コンプティーク](../Page/コンプティーク.md "wikilink")」増刊「[コンプエース](../Page/月刊コンプエース.md "wikilink")」VOL.006より、[虎向ひゅうら](../Page/虎向ひゅうら.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化作品も連載されていた(全三話)。 [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")に発売されたファンディスク『[C.D.Christmas Days 〜サーカスディスク クリスマスデイズ〜](https://ja.wikipedia.org/wiki/C.D.Christmas_Days_〜サーカスディスク_クリスマスデイズ〜 "wikilink")』に白河つみれのシナリオが登場する。
+[角川書店](../Page/角川書店.md "wikilink")刊行の[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")「[コンプティーク](../Page/コンプティーク.md "wikilink")」増刊「[コンプエース](../Page/月刊コンプエース.md "wikilink")」VOL.006より、[虎向ひゅうら](../Page/虎向ひゅうら.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化作品も連載されていた(全三話)。 [2006年](../Page/2006年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に発売されたファンディスク『[C.D.Christmas Days 〜サーカスディスク クリスマスデイズ〜](https://ja.wikipedia.org/wiki/C.D.Christmas_Days_〜サーカスディスク_クリスマスデイズ〜 "wikilink")』に白河つみれのシナリオが登場する。
 
 ## あらすじ
 
@@ -113,23 +113,23 @@ CIRCUSの作品『[水夏](../Page/水夏.md "wikilink")』の過去の物語を
 ## 声の出演
 
   - 女性（ゲームのみ）
-      - 名無しの子 - [ありす](https://ja.wikipedia.org/wiki/ありす "wikilink")
+      - 名無しの子 - [ありす](../Page/ありす.md "wikilink")
       - メデス-[海原エレナ](https://ja.wikipedia.org/wiki/海原エレナ "wikilink")
       - 吉野凛 - [長澤ゆみ](https://ja.wikipedia.org/wiki/長澤ゆみ "wikilink")
       - 松矢七菜 - [岩田由貴](../Page/岩田由貴.md "wikilink")
       - 中羽聖 - 立花舞
-      - 白河つみれ - [木村あやか](https://ja.wikipedia.org/wiki/木村あやか "wikilink")
-      - 飛鳥都 - [野神奈々](https://ja.wikipedia.org/wiki/野神奈々 "wikilink")
+      - 白河つみれ - [木村あやか](../Page/木村あやか.md "wikilink")
+      - 飛鳥都 - [野神奈々](../Page/野神奈々.md "wikilink")
       - 千菊、ねこと - [歌名江](https://ja.wikipedia.org/wiki/歌名江 "wikilink")
   - 男性（ドラマCDのみ）
-      - 伊萩滝 - [野島健児](https://ja.wikipedia.org/wiki/野島健児_\(声優\) "wikilink")
-      - 鍬谷将 - [谷山紀章](https://ja.wikipedia.org/wiki/谷山紀章 "wikilink")
+      - 伊萩滝 - [野島健児](../Page/野島健児_\(声優\).md "wikilink")
+      - 鍬谷将 - [谷山紀章](../Page/谷山紀章.md "wikilink")
       - 鍬谷拳 - [井上和彦](../Page/井上和彦_\(声優\).md "wikilink")
-      - 金堂幸司 - [吉野裕行](https://ja.wikipedia.org/wiki/吉野裕行 "wikilink")
-      - 佐古誠三 - [家中宏](https://ja.wikipedia.org/wiki/家中宏 "wikilink")
+      - 金堂幸司 - [吉野裕行](../Page/吉野裕行.md "wikilink")
+      - 佐古誠三 - [家中宏](../Page/家中宏.md "wikilink")
       - ロウ - [三木眞一郎](https://ja.wikipedia.org/wiki/三木眞一郎 "wikilink")
-      - 玉城優弥 - [市来光弘](https://ja.wikipedia.org/wiki/市来光弘 "wikilink")
-      - 手代木臣 - [小西克幸](https://ja.wikipedia.org/wiki/小西克幸 "wikilink")
+      - 玉城優弥 - [市来光弘](../Page/市来光弘.md "wikilink")
+      - 手代木臣 - [小西克幸](../Page/小西克幸.md "wikilink")
 
 ## 制作スタッフ
 

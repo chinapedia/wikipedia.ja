@@ -5,13 +5,13 @@
 
 ## 車両解説
 
-型式名A-AC12\[1\]。[1991年](../Page/1991年.md "wikilink")1月22日発表、同年2月15日発売\[2\]。通称は**エヌワン**（*N1*）\[3\]。搭載されるAC08E型[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[2ストローク](../Page/2ストローク機関.md "wikilink")[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")はA-AC08型[MBX50・50F用に開発されたもので先代となる](https://ja.wikipedia.org/wiki/ホンダ・MBX "wikilink")[NS50Fからのキャリーオーバーである](../Page/ホンダ・NS50F.md "wikilink")\[4\]。
+型式名A-AC12\[1\]。[1991年](../Page/1991年.md "wikilink")1月22日発表、同年2月15日発売\[2\]。通称は**エヌワン**（*N1*）\[3\]。搭載されるAC08E型[水冷](../Page/水冷エンジン.md "wikilink")[2ストローク](../Page/2ストローク機関.md "wikilink")[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")はA-AC08型[MBX50・50F用に開発されたもので先代となる](../Page/ホンダ・MBX.md "wikilink")[NS50Fからのキャリーオーバーである](../Page/ホンダ・NS50F.md "wikilink")\[4\]。
 
-本モデル最大の特徴はフル[カウル](../Page/カウル.md "wikilink")を装着した[スーパースポーツ](https://ja.wikipedia.org/wiki/スーパースポーツ "wikilink")的外装でありながら、通常モデルでは燃料タンクに相当する部分が一般的なフルフェイスヘルメットを収納できる程の大容量[メットイン](../Page/メットイン.md "wikilink")スペースである点にある\[5\]。また車格も上位クラスに相当し、性能と外観から[ヤマハ](../Page/ヤマハ発動機.md "wikilink")[TZR50/TZR50Rと人気を二分した](https://ja.wikipedia.org/wiki/ヤマハ・TZR "wikilink")\[6\]。性能・外観・使い勝手の三者両立をした本モデルであるが、一方でコスト抑制から、[フロントフォークのスライドメタルを省略する](https://ja.wikipedia.org/wiki/フロントサスペンション_\(オートバイ\) "wikilink")。
+本モデル最大の特徴はフル[カウル](../Page/カウル.md "wikilink")を装着した[スーパースポーツ](../Page/スーパースポーツ.md "wikilink")的外装でありながら、通常モデルでは燃料タンクに相当する部分が一般的なフルフェイスヘルメットを収納できる程の大容量[メットイン](../Page/メットイン.md "wikilink")スペースである点にある\[5\]。また車格も上位クラスに相当し、性能と外観から[ヤマハ](../Page/ヤマハ発動機.md "wikilink")[TZR50/TZR50Rと人気を二分した](../Page/ヤマハ・TZR.md "wikilink")\[6\]。性能・外観・使い勝手の三者両立をした本モデルであるが、一方でコスト抑制から、[フロントフォークのスライドメタルを省略する](https://ja.wikipedia.org/wiki/フロントサスペンション_\(オートバイ\) "wikilink")。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")2月14日発表、同月23日発売で以下のマイナーチェンジを実施\[7\]。
 
-  - ヘッドライトを「横長型」からコンペティションモデルとなる[RVFをイメージした](https://ja.wikipedia.org/wiki/ホンダ・RVF "wikilink")「丸目2灯型」に変更。
+  - ヘッドライトを「横長型」からコンペティションモデルとなる[RVFをイメージした](../Page/ホンダ・RVF.md "wikilink")「丸目2灯型」に変更。
   - [CDI点火装置の電源を](https://ja.wikipedia.org/wiki/キャパシター・ディスチャージド・イグニッション "wikilink")[交流](../Page/交流.md "wikilink")式から[直流](../Page/直流.md "wikilink")式へ変更。
   - ジェネレーターを小型化。
   - 低中速域の安定性改善を目的としたインテークチャンバーの装着。
@@ -35,8 +35,8 @@
 ## 関連項目
 
   - [ホンダ・NS50F](../Page/ホンダ・NS50F.md "wikilink")
-  - [ホンダ・NS](https://ja.wikipedia.org/wiki/ホンダ・NS "wikilink")
-  - [ホンダ・NSR](https://ja.wikipedia.org/wiki/ホンダ・NSR "wikilink")
+  - [ホンダ・NS](../Page/ホンダ・NS.md "wikilink")
+  - [ホンダ・NSR](../Page/ホンダ・NSR.md "wikilink")
   - [ホンダ・NC](https://ja.wikipedia.org/wiki/ホンダ・NC "wikilink") - メットインスペース付のスポーツ車
   - [スズキ・アクロス](https://ja.wikipedia.org/wiki/スズキ・アクロス "wikilink") - メットインスペース付のスポーツ車
 

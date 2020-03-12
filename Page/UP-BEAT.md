@@ -5,7 +5,7 @@
 
 ## 来歴
 
-[1981年](../Page/1981年.md "wikilink")、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")で結成。
+[1981年](../Page/1981年.md "wikilink")、[福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")で結成。
 
 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")5月12日、[12inchレコード](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")「[Kiss...いきなり天国](https://ja.wikipedia.org/wiki/Kiss...いきなり天国 "wikilink")」でデビュー。
 
@@ -23,8 +23,8 @@
 
 ### 解散時のメンバー
 
-  - [広石武彦](../Page/広石武彦.md "wikilink")（ひろいし たけひこ、[1965年](../Page/1965年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink") - ）[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[門司区](https://ja.wikipedia.org/wiki/門司区 "wikilink")出身。[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")
-  - 岩永凡（いわなが ひろし、[1965年](../Page/1965年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink") - ）福岡県[行橋市](https://ja.wikipedia.org/wiki/行橋市 "wikilink")出身。[Guitar](../Page/エレクトリック・ギター.md "wikilink")、作曲
+  - [広石武彦](../Page/広石武彦.md "wikilink")（ひろいし たけひこ、[1965年](../Page/1965年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink") - ）[福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[門司区](https://ja.wikipedia.org/wiki/門司区 "wikilink")出身。[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")
+  - 岩永凡（いわなが ひろし、[1965年](../Page/1965年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink") - ）福岡県[行橋市](../Page/行橋市.md "wikilink")出身。[Guitar](../Page/エレクトリック・ギター.md "wikilink")、作曲
   - 嶋田祐一（しまだ ゆういち、[1964年](../Page/1964年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink") - ）[鳥取県](../Page/鳥取県.md "wikilink")[鳥取市](../Page/鳥取市.md "wikilink")出身。[Drums](../Page/ドラムセット.md "wikilink")、作曲
 
 ### 活動途中で脱退したメンバー
@@ -34,7 +34,7 @@
 
 ## ディスコグラフィ
 
-発売元は全て[ビクター音楽産業→ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。レーベルは1986年から1991年5月までの作品は[ビクターインビテーション](../Page/Invitation_\(レーベル\).md "wikilink")、1992年6月以降の作品は[SPEEDSTAR RECORDSとなっている](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink")。
+発売元は全て[ビクター音楽産業→ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。レーベルは1986年から1991年5月までの作品は[ビクターインビテーション](../Page/Invitation_\(レーベル\).md "wikilink")、1992年6月以降の作品は[SPEEDSTAR RECORDSとなっている](../Page/SPEEDSTAR_RECORDS.md "wikilink")。
 
 ### シングル
 
@@ -81,7 +81,7 @@
   - [up-beat](https://ja.wikipedia.org/wiki/up-beat_\(UP-BEATのアルバム\) "wikilink") (1995年11月22日 CD：VICL-40185) 解散後発売の2枚組ベストアルバム
       -
         Disc1がメンバー五人時代、Disc2が脱退後のメンバー三人時代と分けられている。ライブ音源やアルバム未収録曲も収録。
-  - THE BEST 【[Loppi](https://ja.wikipedia.org/wiki/Loppi "wikilink")・[HMV](../Page/HMV.md "wikilink")限定】（2014年2月19日 [SHM-CD](https://ja.wikipedia.org/wiki/SHM-CD "wikilink")） ベストアルバム
+  - THE BEST 【[Loppi](../Page/Loppi.md "wikilink")・[HMV](../Page/HMV.md "wikilink")限定】（2014年2月19日 [SHM-CD](https://ja.wikipedia.org/wiki/SHM-CD "wikilink")） ベストアルバム
       -
         1986年から1995年までに発表された楽曲の中からHMVが選曲した15曲を収録。SHM-CD仕様。
 
@@ -104,11 +104,11 @@
 ## 関連項目
 
   - [T4R](https://ja.wikipedia.org/wiki/広石武彦#T4R "wikilink")
-  - [アクト・アゲインスト・エイズ](https://ja.wikipedia.org/wiki/アクト・アゲインスト・エイズ "wikilink")
+  - [アクト・アゲインスト・エイズ](../Page/アクト・アゲインスト・エイズ.md "wikilink")
   - [ホッピー神山](../Page/ホッピー神山.md "wikilink")
-  - [佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
-  - [市川哲史](https://ja.wikipedia.org/wiki/市川哲史 "wikilink")
-  - [斉藤律](https://ja.wikipedia.org/wiki/斉藤律 "wikilink")
+  - [佐久間正英](../Page/佐久間正英.md "wikilink")
+  - [市川哲史](../Page/市川哲史.md "wikilink")
+  - [斉藤律](../Page/斉藤律.md "wikilink")
   - [伊藤賢一](../Page/伊藤賢一.md "wikilink")
   - [バレンタインデー関連楽曲一覧](../Page/バレンタインデー関連楽曲一覧.md "wikilink")
   - [福岡県出身の人物一覧](https://ja.wikipedia.org/wiki/福岡県出身の人物一覧 "wikilink")

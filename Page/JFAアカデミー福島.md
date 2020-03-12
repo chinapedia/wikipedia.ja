@@ -1,7 +1,7 @@
 > この記事は[JFA](https://ja.wikipedia.org/wiki/JFA)から翻訳されています。
 
 
-**JFAアカデミー福島**（ジェイエフエーアカデミーふくしま）は、[日本サッカー協会](../Page/日本サッカー協会.md "wikilink")（JFA）が[福島県](../Page/福島県.md "wikilink")・[広野町](https://ja.wikipedia.org/wiki/広野町 "wikilink")・[楢葉町](https://ja.wikipedia.org/wiki/楢葉町 "wikilink")・[富岡町](https://ja.wikipedia.org/wiki/富岡町 "wikilink")と連携して推進する中学・高校の6年間を対象とした[エリート](https://ja.wikipedia.org/wiki/エリート "wikilink")教育機関・養成システムである。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（[平成](../Page/平成.md "wikilink")18年）[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")開校。スクールマスターはJFAの[布啓一郎](../Page/布啓一郎.md "wikilink")。
+**JFAアカデミー福島**（ジェイエフエーアカデミーふくしま）は、[日本サッカー協会](../Page/日本サッカー協会.md "wikilink")（JFA）が[福島県](../Page/福島県.md "wikilink")・[広野町](../Page/広野町.md "wikilink")・[楢葉町](../Page/楢葉町.md "wikilink")・[富岡町](../Page/富岡町.md "wikilink")と連携して推進する中学・高校の6年間を対象とした[エリート](../Page/エリート.md "wikilink")教育機関・養成システムである。[2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）[4月8日](../Page/4月8日.md "wikilink")開校。スクールマスターはJFAの[布啓一郎](../Page/布啓一郎.md "wikilink")。
 
 [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")における[福島第一原子力発電所事故](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")の影響により、2011年度より[静岡県](../Page/静岡県.md "wikilink")の[御殿場高原時之栖](../Page/御殿場高原時之栖.md "wikilink")に一時的に移転している（[後述](https://ja.wikipedia.org/wiki/#一時避難 "wikilink")）。
 
@@ -11,7 +11,7 @@
 
 サッカー選手のエリート養成において30年以上の歴史を持つフランスの[クレールフォンテーヌ国立研究所](../Page/クレールフォンテーヌ国立研究所.md "wikilink")をモデルに作られた。
 
-アカデミー生は[Jヴィレッジ](../Page/Jヴィレッジ.md "wikilink")近郊に建てられた専用の寮に寄宿しながら地元の公立中学・高校に通学して学生としての学校教育を受け、放課後にアカデミーで各種の教育を受ける。アカデミーでの教育内容は日本サッカー協会の最高ランクの指導者資格である[S級コーチライセンスと](https://ja.wikipedia.org/wiki/JFA_公認S級コーチ "wikilink")[教員免許](https://ja.wikipedia.org/wiki/教員免許 "wikilink")を併せ持つ専属コーチやモデルとなったINFで長年校長を務めたクロード・デュソーによるサッカーの指導だけでなく、英会話、論理的思考、ロジカルコミュニケーションスキル、リーダー教育、マナー講習、地元農家の協力による米作り体験、奉仕活動など多岐に渡る。また、日本サッカー協会の技術委員会、女子委員会、スポーツ医学委員会や、ドクター、アスレチックトレーナー、アスレチックカウンセラー、管理栄養士らによりメディカル・フィジカル・栄養・メンタルのケアにも注意が払われている。
+アカデミー生は[Jヴィレッジ](../Page/Jヴィレッジ.md "wikilink")近郊に建てられた専用の寮に寄宿しながら地元の公立中学・高校に通学して学生としての学校教育を受け、放課後にアカデミーで各種の教育を受ける。アカデミーでの教育内容は日本サッカー協会の最高ランクの指導者資格である[S級コーチライセンスと](../Page/JFA_公認S級コーチ.md "wikilink")[教員免許](https://ja.wikipedia.org/wiki/教員免許 "wikilink")を併せ持つ専属コーチやモデルとなったINFで長年校長を務めたクロード・デュソーによるサッカーの指導だけでなく、英会話、論理的思考、ロジカルコミュニケーションスキル、リーダー教育、マナー講習、地元農家の協力による米作り体験、奉仕活動など多岐に渡る。また、日本サッカー協会の技術委員会、女子委員会、スポーツ医学委員会や、ドクター、アスレチックトレーナー、アスレチックカウンセラー、管理栄養士らによりメディカル・フィジカル・栄養・メンタルのケアにも注意が払われている。
 
 ### 入校
 
@@ -23,19 +23,19 @@
 
 ### 学校教育
 
-男子中学生は[広野中学校](https://ja.wikipedia.org/wiki/広野町立広野中学校 "wikilink")、女子中学生は[楢葉中学校](https://ja.wikipedia.org/wiki/楢葉町立楢葉中学校 "wikilink")、高校生は男女とも[富岡高校に通学する](https://ja.wikipedia.org/wiki/福島県立富岡高等学校 "wikilink")。このアカデミー開始にあわせ楢葉地区教育構想が策定・実施され、富岡高等学校と広野中学・楢葉中学を含む地元の4つの中学校は連携型中高一貫教育を実施、富岡高校には「国際・スポーツ科」が新設されアカデミー生はこの科で学ぶ事になる。なお、男女で通う中学校が違っているのは男子寮が広野町に女子寮が楢葉町に建っているからであり、男女共に入学する富岡高校は連携する広野町・楢葉町・富岡町に存在する唯一の高校である。
+男子中学生は[広野中学校](https://ja.wikipedia.org/wiki/広野町立広野中学校 "wikilink")、女子中学生は[楢葉中学校](https://ja.wikipedia.org/wiki/楢葉町立楢葉中学校 "wikilink")、高校生は男女とも[富岡高校に通学する](../Page/福島県立富岡高等学校.md "wikilink")。このアカデミー開始にあわせ楢葉地区教育構想が策定・実施され、富岡高等学校と広野中学・楢葉中学を含む地元の4つの中学校は連携型中高一貫教育を実施、富岡高校には「国際・スポーツ科」が新設されアカデミー生はこの科で学ぶ事になる。なお、男女で通う中学校が違っているのは男子寮が広野町に女子寮が楢葉町に建っているからであり、男女共に入学する富岡高校は連携する広野町・楢葉町・富岡町に存在する唯一の高校である。
 
 ## 一時避難
 
 2011年3月に発生した[福島第一原子力発電所事故](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")を受け、拠点である[Jヴィレッジ](../Page/Jヴィレッジ.md "wikilink")（）が当面の間利用不可能となっていることから、同年4月から[御殿場高原時之栖](../Page/御殿場高原時之栖.md "wikilink")（）に移転して活動することになった\[1\]。
 
-学校教育については中学生は[御殿場市立富士岡中学校](https://ja.wikipedia.org/wiki/御殿場市立富士岡中学校 "wikilink")、高校生に関しては[福島県立富岡高等学校](https://ja.wikipedia.org/wiki/福島県立富岡高等学校 "wikilink")のサテライト協力校である[静岡県立三島長陵高等学校](https://ja.wikipedia.org/wiki/静岡県立三島長陵高等学校 "wikilink")で行われる。
+学校教育については中学生は[御殿場市立富士岡中学校](https://ja.wikipedia.org/wiki/御殿場市立富士岡中学校 "wikilink")、高校生に関しては[福島県立富岡高等学校](../Page/福島県立富岡高等学校.md "wikilink")のサテライト協力校である[静岡県立三島長陵高等学校](https://ja.wikipedia.org/wiki/静岡県立三島長陵高等学校 "wikilink")で行われる。
 
 一時移転が長期化していることから、男子チームについては登録地も福島県から静岡県に変更される（U-15およびU-18セカンドは2013年度より、U-18は2014年度より）\[2\]。
 
 女子は2011年以降、男子は2013年以降、リーグ戦の会場は時之栖周辺を中心としつつ、一部で福島県の会場も使うという形態となっている（下記の表参照）。
 
-Jヴィレッジが2019年春に全面再開予定であることを受け、日本サッカー協会会長の[田嶋幸三](https://ja.wikipedia.org/wiki/田嶋幸三 "wikilink")は2021年度に同アカデミーを福島へ戻す意向であることを明かした\[3\]。その上で静岡に避難しているアカデミーの静岡での存続も検討していることも明かした\[4\]。
+Jヴィレッジが2019年春に全面再開予定であることを受け、日本サッカー協会会長の[田嶋幸三](../Page/田嶋幸三.md "wikilink")は2021年度に同アカデミーを福島へ戻す意向であることを明かした\[3\]。その上で静岡に避難しているアカデミーの静岡での存続も検討していることも明かした\[4\]。
 
 2018年4月に日本サッカー協会は、福島でのアカデミー再開を以下の通りとすることを発表した\[5\]。
 
@@ -178,7 +178,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 
 ## その他
 
-2008年には、[富岡高校女子サッカー部が](https://ja.wikipedia.org/wiki/福島県立富岡高等学校 "wikilink")、第17回[全日本高等学校女子サッカー選手権大会](https://ja.wikipedia.org/wiki/全日本高等学校女子サッカー選手権大会 "wikilink")に東北地区第3代表として初出場した。女子サッカー部にはJFAアカデミー福島所属選手は不参加ではあるものの、JFAアカデミーと富岡高校との提携関係が結ばれ、男女双方のサッカー部設立・強化の方針が打ち出された事により、同高サッカー部で競技に打ち込む事を希望し、県内全域のみならず、県外からも入学者があった事が、創部間もないながら、東北地区予選を勝ち上がる事ができた理由のひとつである。 この大会には32チームが参加し、富岡高校はトーナメント1回戦で敗退した。また、富岡高校の男子チームは創部3年目にして2008年度の[全国高校サッカー選手権大会に出場が決定している](../Page/全国高等学校サッカー選手権大会.md "wikilink")。
+2008年には、[富岡高校女子サッカー部が](../Page/福島県立富岡高等学校.md "wikilink")、第17回[全日本高等学校女子サッカー選手権大会](../Page/全日本高等学校女子サッカー選手権大会.md "wikilink")に東北地区第3代表として初出場した。女子サッカー部にはJFAアカデミー福島所属選手は不参加ではあるものの、JFAアカデミーと富岡高校との提携関係が結ばれ、男女双方のサッカー部設立・強化の方針が打ち出された事により、同高サッカー部で競技に打ち込む事を希望し、県内全域のみならず、県外からも入学者があった事が、創部間もないながら、東北地区予選を勝ち上がる事ができた理由のひとつである。 この大会には32チームが参加し、富岡高校はトーナメント1回戦で敗退した。また、富岡高校の男子チームは創部3年目にして2008年度の[全国高校サッカー選手権大会に出場が決定している](../Page/全国高等学校サッカー選手権大会.md "wikilink")。
 
 ## 主な卒業生
 
@@ -213,7 +213,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="https://ja.wikipedia.org/wiki/呉大陸" title="wikilink">呉大陸</a></p></td>
 <td><p>2006</p></td>
 <td><p>2011</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファジアーノ岡山FC" title="wikilink">ファジアーノ岡山</a></p></td>
+<td><p><a href="../Page/ファジアーノ岡山FC.md" title="wikilink">ファジアーノ岡山</a></p></td>
 <td><p>未定</p></td>
 <td></td>
 </tr>
@@ -273,7 +273,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="https://ja.wikipedia.org/wiki/幡野貴紀" title="wikilink">幡野貴紀</a></p></td>
 <td><p>2007</p></td>
 <td><p>2012</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファジアーノ岡山FC" title="wikilink">ファジアーノ岡山</a></p></td>
+<td><p><a href="../Page/ファジアーノ岡山FC.md" title="wikilink">ファジアーノ岡山</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブリオベッカ浦安" title="wikilink">ブリオベッカ浦安</a></p></td>
 <td></td>
 </tr>
@@ -303,7 +303,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="https://ja.wikipedia.org/wiki/平岡将豪" title="wikilink">平岡将豪</a></p></td>
 <td><p>2008</p></td>
 <td><p>2013</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AC長野パルセイロ" title="wikilink">AC長野パルセイロ</a></p></td>
+<td><p><a href="../Page/AC長野パルセイロ.md" title="wikilink">AC長野パルセイロ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/いわきFC" title="wikilink">いわきFC</a></p></td>
 <td></td>
 </tr>
@@ -333,7 +333,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="https://ja.wikipedia.org/wiki/似鳥康太" title="wikilink">似鳥康太</a></p></td>
 <td><p>2009</p></td>
 <td><p>2014</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファジアーノ岡山FC" title="wikilink">ファジアーノ岡山</a></p></td>
+<td><p><a href="../Page/ファジアーノ岡山FC.md" title="wikilink">ファジアーノ岡山</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロアッソ熊本" title="wikilink">ロアッソ熊本</a></p></td>
 <td></td>
 </tr>
@@ -379,7 +379,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="https://ja.wikipedia.org/wiki/山根恵里奈" title="wikilink">山根恵里奈</a></p></td>
 <td><p>2006-2008</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東京電力女子サッカー部マリーゼ" title="wikilink">TEPCOマリーゼ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レアル・ベティス" title="wikilink">レアル・ベティス</a>・バロンピエ・フェミナス</p></td>
+<td><p><a href="../Page/レアル・ベティス.md" title="wikilink">レアル・ベティス</a>・バロンピエ・フェミナス</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -387,7 +387,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="https://ja.wikipedia.org/wiki/菅澤優衣香" title="wikilink">菅澤優衣香</a></p></td>
 <td><p>2006-2008</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アルビレックス新潟レディース" title="wikilink">アルビレックス新潟レディース</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ・レディース" title="wikilink">浦和レッズレディース</a></p></td>
+<td><p><a href="../Page/浦和レッドダイヤモンズ・レディース.md" title="wikilink">浦和レッズレディース</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -450,7 +450,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/和田奈央子" title="wikilink">和田奈央子</a></p></td>
 <td><p>2006-2011</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ・レディース" title="wikilink">浦和レッズレディース</a></p></td>
+<td><p><a href="../Page/浦和レッドダイヤモンズ・レディース.md" title="wikilink">浦和レッズレディース</a></p></td>
 <td><p>ノジマステラ神奈川相模原</p></td>
 </tr>
 <tr class="odd">
@@ -459,7 +459,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="https://ja.wikipedia.org/wiki/若林美里" title="wikilink">若林美里</a></p></td>
 <td><p>2006-2011</p></td>
 <td><p>アルビレックス新潟レディース</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉レディース" title="wikilink">ジェフ千葉レディース</a></p></td>
+<td><p><a href="../Page/ジェフユナイテッド市原・千葉レディース.md" title="wikilink">ジェフ千葉レディース</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -641,7 +641,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
   - [JFAアカデミー熊本宇城](https://ja.wikipedia.org/wiki/JFAアカデミー熊本宇城 "wikilink")
   - [JFAアカデミー堺](https://ja.wikipedia.org/wiki/JFAアカデミー堺 "wikilink")
   - [JFAアカデミー今治](https://ja.wikipedia.org/wiki/JFAアカデミー今治 "wikilink")
-  - [福島県立富岡高等学校](https://ja.wikipedia.org/wiki/福島県立富岡高等学校 "wikilink")
+  - [福島県立富岡高等学校](../Page/福島県立富岡高等学校.md "wikilink")
 
 ## 外部リンク
 

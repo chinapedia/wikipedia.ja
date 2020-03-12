@@ -1,7 +1,7 @@
 > この記事は[GiRLS LoVER](https://ja.wikipedia.org/wiki/GiRLS_LoVER)から翻訳されています。
 
 
-『**GiRLS LoVER**』（ガールズラバー）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")（[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")）で[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")から同年[9月25日](../Page/9月25日.md "wikilink")まで月曜26:00～26:30に放送されていた[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。[フォーサイド・ドット・コム](https://ja.wikipedia.org/wiki/フォーサイド・ドット・コム "wikilink")の[一社提供](../Page/一社提供.md "wikilink")。
+『**GiRLS LoVER**』（ガールズラバー）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")（[関東ローカル](../Page/関東ローカル.md "wikilink")）で[2006年](../Page/2006年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")から同年[9月25日](../Page/9月25日.md "wikilink")まで月曜26:00～26:30に放送されていた[音楽番組](../Page/音楽番組.md "wikilink")。[フォーサイド・ドット・コム](https://ja.wikipedia.org/wiki/フォーサイド・ドット・コム "wikilink")の[一社提供](../Page/一社提供.md "wikilink")。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
   - [DJ TORA](https://ja.wikipedia.org/wiki/DJ_TORA "wikilink")
   - [北陽](../Page/北陽.md "wikilink")
-  - [いとうあさこ](https://ja.wikipedia.org/wiki/いとうあさこ "wikilink")
+  - [いとうあさこ](../Page/いとうあさこ.md "wikilink")
 
 <!-- end list -->
 
@@ -27,8 +27,8 @@
 
   - [Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")
   - [相澤仁美](https://ja.wikipedia.org/wiki/相澤仁美 "wikilink")、[愛川ゆず季](https://ja.wikipedia.org/wiki/愛川ゆず季 "wikilink")（2006年7月）
-  - [武田真理子](https://ja.wikipedia.org/wiki/武田真理子 "wikilink")（2006年8月）
-  - [MISA](https://ja.wikipedia.org/wiki/MISA "wikilink")（2006年9月25日最終回出演）
+  - [武田真理子](../Page/武田真理子.md "wikilink")（2006年8月）
+  - [MISA](../Page/MISA.md "wikilink")（2006年9月25日最終回出演）
 
 ## スタッフ
 
@@ -50,9 +50,9 @@
 ※（ ）内は歌手名。
 
 1.  Intro
-2.  SEVEN COLORS（[武田真理子](https://ja.wikipedia.org/wiki/武田真理子 "wikilink")）
+2.  SEVEN COLORS（[武田真理子](../Page/武田真理子.md "wikilink")）
 3.  DIGITAL LOVE（[星野香絵](https://ja.wikipedia.org/wiki/星野香絵 "wikilink")）
-4.  ANGEL HEART（[黒木美早](https://ja.wikipedia.org/wiki/黒木美早 "wikilink")）
+4.  ANGEL HEART（[黒木美早](../Page/黒木美早.md "wikilink")）
 5.  ここにきて（[半崎美子](https://ja.wikipedia.org/wiki/半崎美子 "wikilink")）
 6.  EMOTION～暗がりの中で～（[川北舞衣](https://ja.wikipedia.org/wiki/川北舞衣 "wikilink")）
 7.  Outro
@@ -62,7 +62,7 @@
   - [トランス](../Page/トランス_\(音楽\).md "wikilink")
   - [パラパラ](../Page/パラパラ.md "wikilink")
   - [トラパラ](../Page/トラパラ.md "wikilink")
-  - [ディスコ](https://ja.wikipedia.org/wiki/ディスコ "wikilink")
+  - [ディスコ](../Page/ディスコ.md "wikilink")
   - [DJ](../Page/ディスクジョッキー.md "wikilink")
   - [ギャルサー](../Page/ギャルサー.md "wikilink")
 

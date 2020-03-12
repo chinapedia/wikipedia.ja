@@ -5,19 +5,19 @@
 
 ## 概要
 
-「サクラの記憶の羽根」を求め、様々な異世界を冒険する冒険活劇。[スター・システムと](https://ja.wikipedia.org/wiki/スター・システム_\(小説・アニメ・漫画\) "wikilink")[ハイパーリンクを採用](https://ja.wikipedia.org/wiki/ハイパーリンク_\(劇作手法\) "wikilink")、他のCLAMP作品から様々なキャラクターが多数登場しており、『[XXXHOLiC](https://ja.wikipedia.org/wiki/XXXHOLiC "wikilink")』とは所々話が繋がっている。旅の余談や羽根とは関係のない世界を描いた番外編『ツバサ-語られなかった世界-』が本誌および関連雑誌に何度か掲載された。
+「サクラの記憶の羽根」を求め、様々な異世界を冒険する冒険活劇。[スター・システムと](https://ja.wikipedia.org/wiki/スター・システム_\(小説・アニメ・漫画\) "wikilink")[ハイパーリンクを採用](https://ja.wikipedia.org/wiki/ハイパーリンク_\(劇作手法\) "wikilink")、他のCLAMP作品から様々なキャラクターが多数登場しており、『[XXXHOLiC](../Page/XXXHOLiC.md "wikilink")』とは所々話が繋がっている。旅の余談や羽根とは関係のない世界を描いた番外編『ツバサ-語られなかった世界-』が本誌および関連雑誌に何度か掲載された。
 
-異世界は バラエティーに富んだ[パラレルワールド](https://ja.wikipedia.org/wiki/パラレルワールド "wikilink")であり、世界間を移動できない登場人物の役割が世界によって異なるのが特徴である。いわゆる「多重世界」\[1\]であり、[侑子の世界にいるさくら&小狼と本作のさくら](https://ja.wikipedia.org/wiki/カードキャプターさくらの登場人物 "wikilink")&小狼の魂は同じである。[ツバサ-RESERVoir CHRoNiCLE-の登場人物では](https://ja.wikipedia.org/wiki/ツバサ-RESERVoir_CHRoNiCLE-の登場人物 "wikilink")、そのように魂を同じくする者同士の関係を「異世界の同一人物」「同じだけれど違う人」と表現している。
+異世界は バラエティーに富んだ[パラレルワールド](../Page/パラレルワールド.md "wikilink")であり、世界間を移動できない登場人物の役割が世界によって異なるのが特徴である。いわゆる「多重世界」\[1\]であり、[侑子の世界にいるさくら&小狼と本作のさくら](https://ja.wikipedia.org/wiki/カードキャプターさくらの登場人物 "wikilink")&小狼の魂は同じである。[ツバサ-RESERVoir CHRoNiCLE-の登場人物では](../Page/ツバサ-RESERVoir_CHRoNiCLE-の登場人物.md "wikilink")、そのように魂を同じくする者同士の関係を「異世界の同一人物」「同じだけれど違う人」と表現している。
 
-[ビィートレイン](https://ja.wikipedia.org/wiki/ビィートレイン "wikilink")の制作による[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『ツバサ・クロニクル』\[2\]は[NHK教育テレビで](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月9日](../Page/4月9日.md "wikilink")から2005年[10月15日](../Page/10月15日.md "wikilink")まで第1シリーズが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")から2006年[11月4日](../Page/11月4日.md "wikilink")まで第2シリーズが放送された。また、2005年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")には、[Production I.Gの制作](../Page/プロダクション・アイジー.md "wikilink")、[松竹](../Page/松竹.md "wikilink")の配給による『劇場版ツバサ・クロニクル 鳥カゴの国の姫君』\[3\]が公開された。他にProduction I.Gの制作によるオリジナルアニメーションDVD作品として、本作の東京編を原作とした『ツバサ TOKYO REVELATIONS』が、第21巻&第22巻&第23巻の初回限定版として発売された。さらに、その第二弾『ツバサ 春雷記』が第26巻&第27巻の初回限定版として発売された。
+[ビィートレイン](../Page/ビィートレイン.md "wikilink")の制作による[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『ツバサ・クロニクル』\[2\]は[NHK教育テレビで](../Page/NHK教育テレビジョン.md "wikilink")[2005年](../Page/2005年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")から2005年[10月15日](../Page/10月15日.md "wikilink")まで第1シリーズが、[2006年](../Page/2006年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink")から2006年[11月4日](../Page/11月4日.md "wikilink")まで第2シリーズが放送された。また、2005年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")には、[Production I.Gの制作](../Page/プロダクション・アイジー.md "wikilink")、[松竹](../Page/松竹.md "wikilink")の配給による『劇場版ツバサ・クロニクル 鳥カゴの国の姫君』\[3\]が公開された。他にProduction I.Gの制作によるオリジナルアニメーションDVD作品として、本作の東京編を原作とした『ツバサ TOKYO REVELATIONS』が、第21巻&第22巻&第23巻の初回限定版として発売された。さらに、その第二弾『ツバサ 春雷記』が第26巻&第27巻の初回限定版として発売された。
 
 reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Page/英語.md "wikilink")）は、（主に液体を）貯蔵･保管する場所や物を意味する。chronicle（英）は、起きた事柄を記録したものを意味する。
 
-2014年8月20日に講談社より出版・発売された「[マガジンSPECIAL](https://ja.wikipedia.org/wiki/マガジンSPECIAL "wikilink") No.9」から、『ツバサ-RESERVoir CHRoNiCLE-』の続編にあたる作品『[ツバサ-WoRLD CHRoNiCLE-ニライカナイ編](https://ja.wikipedia.org/wiki/ツバサ-WoRLD_CHRoNiCLE-ニライカナイ編 "wikilink")』が連載開始された。この作品は『[XXXHOLiC](https://ja.wikipedia.org/wiki/XXXHOLiC "wikilink")』の続編である『XXXHOLiC・戻』第3巻から物語が繋がる形で連載が始まった。詳しくは『[ツバサ-WoRLD CHRoNiCLE-ニライカナイ編](https://ja.wikipedia.org/wiki/ツバサ-WoRLD_CHRoNiCLE-ニライカナイ編 "wikilink")』を参照。
+2014年8月20日に講談社より出版・発売された「[マガジンSPECIAL](../Page/マガジンSPECIAL.md "wikilink") No.9」から、『ツバサ-RESERVoir CHRoNiCLE-』の続編にあたる作品『[ツバサ-WoRLD CHRoNiCLE-ニライカナイ編](https://ja.wikipedia.org/wiki/ツバサ-WoRLD_CHRoNiCLE-ニライカナイ編 "wikilink")』が連載開始された。この作品は『[XXXHOLiC](../Page/XXXHOLiC.md "wikilink")』の続編である『XXXHOLiC・戻』第3巻から物語が繋がる形で連載が始まった。詳しくは『[ツバサ-WoRLD CHRoNiCLE-ニライカナイ編](https://ja.wikipedia.org/wiki/ツバサ-WoRLD_CHRoNiCLE-ニライカナイ編 "wikilink")』を参照。
 
 ## ストーリー
 
-[考古学者](https://ja.wikipedia.org/wiki/考古学者 "wikilink")の卵・**小狼**と玖楼国の姫・**サクラ**は[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")。2人は身分に関係なく、互いに惹かれ合っていた。ある日、サクラに秘められた力を手に入れようとする**飛王・リード**の陰謀により、サクラの記憶は無数の羽根と化して異世界へ飛び散る。瀕死に陥ったサクラを救い記憶を取り戻すには、飛び散った羽根をサクラの体に戻すしかない。しかし異世界へ移動する力を何度も使えるのは、唯一、異世界にいる次元の魔女と呼ばれる人物のみだった。
+[考古学者](https://ja.wikipedia.org/wiki/考古学者 "wikilink")の卵・**小狼**と玖楼国の姫・**サクラ**は[幼馴染](../Page/幼馴染.md "wikilink")。2人は身分に関係なく、互いに惹かれ合っていた。ある日、サクラに秘められた力を手に入れようとする**飛王・リード**の陰謀により、サクラの記憶は無数の羽根と化して異世界へ飛び散る。瀕死に陥ったサクラを救い記憶を取り戻すには、飛び散った羽根をサクラの体に戻すしかない。しかし異世界へ移動する力を何度も使えるのは、唯一、異世界にいる次元の魔女と呼ばれる人物のみだった。
 
 玖楼国の神官・雪兎により次元の魔女（『XXXHOLiC』の壱原侑子）の元へ送られた小狼は、知世姫によって日本国から送られた[忍者](../Page/忍者.md "wikilink")・**黒鋼**、自ら次元移動魔術を使ってセレス国からやってきた[魔術師](https://ja.wikipedia.org/wiki/魔術師 "wikilink")・**ファイ・D・フローライト**（通称：ファイ）と出会う。2人もそれぞれの事情により何度も次元を渡る力を必要としていた。次元を渡る力を得る対価は、3人でひとつの手段を共有し一緒に旅すること、それぞれの最も大切なものを渡すことだった。3人は条件をのみ、それぞれ最も大切なものを次元の魔女へ対価として支払う。黒鋼は破魔刀「銀竜」、ファイは魔力を抑える刺青、そして小狼はサクラとの関係性（サクラの記憶の中にある、小狼との記憶）。こうして異世界を渡り歩く能力を持つ生物モコナ＝ソエル＝モドキ（通称：**モコナ**）を得た一行は、それぞれの願いを叶えるために、異世界を渡る過酷な旅を始めることになる。
 
@@ -43,15 +43,15 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
   - 第2巻：2003年[10月17日](../Page/10月17日.md "wikilink") （ISBN 978-4-06-363306-1 / ISBN 978-4-06-364530-9）
   - 第3巻：2003年[12月17日](../Page/12月17日.md "wikilink") （ISBN 978-4-06-363322-1 / ISBN 978-4-06-364536-1）
   - 第4巻：[2004年](../Page/2004年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink") （ISBN 978-4-06-363338-2 / ISBN 978-4-06-364550-7）
-  - 第5巻：2004年[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink") （ISBN 978-4-06-363363-4 / ISBN 978-4-06-364561-3）
+  - 第5巻：2004年[4月16日](../Page/4月16日.md "wikilink") （ISBN 978-4-06-363363-4 / ISBN 978-4-06-364561-3）
   - 第6巻：2004年[6月17日](../Page/6月17日.md "wikilink") （ISBN 978-4-06-363393-1 / ISBN 978-4-06-364576-7）
   - 第7巻：2004年[8月17日](../Page/8月17日.md "wikilink") （ISBN 978-4-06-363416-7 / ISBN 978-4-06-364590-3）
   - 第8巻：2004年[11月17日](../Page/11月17日.md "wikilink") （ISBN 978-4-06-363452-5 / ISBN 978-4-06-364606-1）
-  - 第9巻：[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月17日](../Page/2月17日.md "wikilink") （ISBN 978-4-06-363485-3 / ISBN 978-4-06-364626-9）
+  - 第9巻：[2005年](../Page/2005年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink") （ISBN 978-4-06-363485-3 / ISBN 978-4-06-364626-9）
   - 第10巻：2005年[5月17日](../Page/5月17日.md "wikilink") （ISBN 978-4-06-363530-0 / ISBN 978-4-06-364636-8）
   - 第11巻：2005年[8月17日](../Page/8月17日.md "wikilink") （ISBN 978-4-06-363563-8 / ISBN 978-4-06-364640-5）
   - 第12巻：2005年[10月17日](../Page/10月17日.md "wikilink") （ISBN 978-4-06-363586-7 / ISBN 978-4-06-364649-8）
-  - 第13巻：[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月16日](../Page/2月16日.md "wikilink") （ISBN 978-4-06-363620-8 / ISBN 978-4-06-364656-6）
+  - 第13巻：[2006年](../Page/2006年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink") （ISBN 978-4-06-363620-8 / ISBN 978-4-06-364656-6）
   - 第14巻：2006年[4月17日](../Page/4月17日.md "wikilink") （ISBN 978-4-06-363655-0 / ISBN 978-4-06-364659-7）
   - 第15巻：2006年[7月14日](../Page/7月14日.md "wikilink") （ISBN 978-4-06-363691-8 / ISBN 978-4-06-364662-7）
   - 第16巻：2006年[9月15日](../Page/9月15日.md "wikilink") （ISBN 978-4-06-363716-8 / ISBN 978-4-06-364667-2）
@@ -98,7 +98,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 
 :\*[韓国](../Page/大韓民国.md "wikilink")：[鶴山文化社](../Page/鶴山文化社.md "wikilink")（HAKSAN Publishing）
 
-:\*[台湾](https://ja.wikipedia.org/wiki/中華民国 "wikilink")：[東立出版社](../Page/東立出版社.md "wikilink")（豪華版も刊行）
+:\*[台湾](../Page/中華民国.md "wikilink")：[東立出版社](../Page/東立出版社.md "wikilink")（豪華版も刊行）
 
 :\*[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")：東立出版社（豪華版も刊行）
 
@@ -128,7 +128,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 
 ## テレビアニメ
 
-『**ツバサ・クロニクル**』のタイトルで、[NHK教育テレビで](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")2005年4月9日から同年10月15日まで第1シリーズを、2006年4月29日から同年11月4日まで第2シリーズが放送された。スターシステムにより登場のキャラクターは基本的に声優が原典から変更されている\[5\]。結末は原作とは異なり、飲酒や賭博のシーンもない。全52話。
+『**ツバサ・クロニクル**』のタイトルで、[NHK教育テレビで](../Page/NHK教育テレビジョン.md "wikilink")2005年4月9日から同年10月15日まで第1シリーズを、2006年4月29日から同年11月4日まで第2シリーズが放送された。スターシステムにより登場のキャラクターは基本的に声優が原典から変更されている\[5\]。結末は原作とは異なり、飲酒や賭博のシーンもない。全52話。
 
 [2007年](../Page/2007年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink")の第2シリーズ再放送終了をもって放送を終了したが、「東京編」と「日本国編」がオリジナルアニメーションDVD化されている。詳細は[オリジナルアニメーションDVDの項を参照](https://ja.wikipedia.org/wiki/#オリジナルアニメーションDVD "wikilink")。
 
@@ -140,9 +140,9 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 
   - 原作 - CLAMP
   - 監督
-      - [真下耕一](https://ja.wikipedia.org/wiki/真下耕一 "wikilink")
+      - [真下耕一](../Page/真下耕一.md "wikilink")
       - モリヲカヒロシ（第1シリーズでは監督補）
-  - 脚本 - [川崎ヒロユキ](https://ja.wikipedia.org/wiki/川崎ヒロユキ "wikilink")
+  - 脚本 - [川崎ヒロユキ](../Page/川崎ヒロユキ.md "wikilink")
   - キャラクターデザイン - [芝美奈子](../Page/芝美奈子.md "wikilink")
   - 美術監督 - 渡辺紳
   - 色彩設計 - 小島真喜子
@@ -160,7 +160,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
   - 制作統括
       - 沢田昇、[松本寿子](https://ja.wikipedia.org/wiki/松本寿子 "wikilink")（第1シリーズ）
       - 冨永慎一、市谷壮（第2シリーズ）
-  - アニメーション制作 - [ビィートレイン](https://ja.wikipedia.org/wiki/ビィートレイン "wikilink")
+  - アニメーション制作 - [ビィートレイン](../Page/ビィートレイン.md "wikilink")
   - 共同制作 - [NHKエンタープライズ](../Page/NHKエンタープライズ.md "wikilink")
   - 制作・著作 - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")
 
@@ -193,7 +193,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 <td><p><a href="https://ja.wikipedia.org/wiki/BLAZE_(キンヤの曲)" title="wikilink">BLAZE</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/キンヤ" title="wikilink">キンヤ</a></p></td>
 <td><p>NIEVE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HΛL" title="wikilink">HΛL</a></p></td>
+<td><p><a href="../Page/HΛL.md" title="wikilink">HΛL</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -224,7 +224,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 <td><p>第2期</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/風待ちジェット/スピカ" title="wikilink">風待ちジェット</a></p></td>
 <td><p>坂本真綾</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鈴木祥子" title="wikilink">鈴木祥子</a></p></td>
+<td><p><a href="../Page/鈴木祥子.md" title="wikilink">鈴木祥子</a></p></td>
 <td><p>飯田高広</p></td>
 <td></td>
 </tr>
@@ -287,7 +287,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 <tr class="even">
 <td><p>you are my love</p></td>
 <td><p>伊東恵里（英語版）<br />
-<a href="https://ja.wikipedia.org/wiki/牧野由依" title="wikilink">牧野由依</a>（日本語版）</p></td>
+<a href="../Page/牧野由依.md" title="wikilink">牧野由依</a>（日本語版）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -312,7 +312,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 <tr class="odd">
 <td><p>第2期</p></td>
 <td><p>aikoi</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FictionJunction_YUUKA" title="wikilink">FictionJunction YUUKA</a></p></td>
+<td><p><a href="../Page/FictionJunction_YUUKA.md" title="wikilink">FictionJunction YUUKA</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -443,7 +443,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 <td><p>2</p></td>
 <td><p>戦うチカラ</p></td>
 <td><p><a href="../Page/澤井幸次.md" title="wikilink">澤井幸次</a><br />
-<a href="https://ja.wikipedia.org/wiki/真下耕一" title="wikilink">真下耕一</a></p></td>
+<a href="../Page/真下耕一.md" title="wikilink">真下耕一</a></p></td>
 <td><p>黒澤雅之</p></td>
 <td><p>門智昭</p></td>
 <td><p>4月16日</p></td>
@@ -518,7 +518,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 <td><p>11</p></td>
 <td><p>選ばれたアシタ</p></td>
 <td><p>川面真也</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後藤潤二" title="wikilink">後藤潤二</a></p></td>
+<td><p><a href="../Page/後藤潤二.md" title="wikilink">後藤潤二</a></p></td>
 <td><p>6月18日</p></td>
 <td></td>
 </tr>
@@ -889,24 +889,24 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/全国放送.md" title="wikilink">日本全域</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">NHK教育テレビ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/4月9日.md" title="wikilink">4月9日</a> - <a href="../Page/10月15日.md" title="wikilink">10月15日</a></p></td>
+<td><p><a href="../Page/NHK教育テレビジョン.md" title="wikilink">NHK教育テレビ</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/4月9日.md" title="wikilink">4月9日</a> - <a href="../Page/10月15日.md" title="wikilink">10月15日</a></p></td>
 <td><p>土曜 18時30分 - 18時55分</p></td>
 <td><p>第1シリーズ</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/4月29日.md" title="wikilink">4月29日</a> - <a href="../Page/11月4日.md" title="wikilink">11月4日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/4月29日.md" title="wikilink">4月29日</a> - <a href="../Page/11月4日.md" title="wikilink">11月4日</a></p></td>
 <td><p>土曜 18時25分 - 18時50分</p></td>
 <td><p>第2シリーズ</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン" title="wikilink">NHK BS2</a></p></td>
+<td><p><a href="../Page/NHK衛星第2テレビジョン.md" title="wikilink">NHK BS2</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/4月4日.md" title="wikilink">4月4日</a> - <a href="../Page/7月4日.md" title="wikilink">7月4日</a></p></td>
 <td><p>日曜 23時25分 - 23時50分</p></td>
 <td><p>第2シリーズ<br />
-<a href="https://ja.wikipedia.org/wiki/衛星アニメ劇場" title="wikilink">衛星アニメ劇場</a> 枠</p></td>
+<a href="../Page/衛星アニメ劇場.md" title="wikilink">衛星アニメ劇場</a> 枠</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -916,11 +916,11 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 
   - CD
 
-:\*オリジナルサウンドトラック「Future Soundscape I」＜[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月6日](../Page/7月6日.md "wikilink")／VICL-61661（通常盤）VIZL-137（限定盤）＞
+:\*オリジナルサウンドトラック「Future Soundscape I」＜[2005年](../Page/2005年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")／VICL-61661（通常盤）VIZL-137（限定盤）＞
 
 :\*オリジナルサウンドトラック「Future Soundscape II」＜2005年[9月22日](../Page/9月22日.md "wikilink")／VICL-61662（通常盤）VIZL-145（限定盤）＞
 
-:\*オリジナルサウンドトラック「Future Soundscape III」＜[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")／VICL-61966（通常盤）VIZL-189（限定盤）＞
+:\*オリジナルサウンドトラック「Future Soundscape III」＜[2006年](../Page/2006年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")／VICL-61966（通常盤）VIZL-189（限定盤）＞
 
 :\*オリジナルサウンドトラック「Future Soundscape IV」＜2006年[9月21日](../Page/9月21日.md "wikilink")／VICL-62084（通常盤）VIZL-203（限定盤）＞
 
@@ -939,7 +939,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em">
 
-:\*「ツバサ・クロニクル I」（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月26日](../Page/8月26日.md "wikilink")）
+:\*「ツバサ・クロニクル I」（[2005年](../Page/2005年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")）
 
 :\*「ツバサ・クロニクル II」（2005年[9月23日](../Page/9月23日.md "wikilink")）
 
@@ -949,7 +949,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 
 :\*「ツバサ・クロニクル V」（2005年[12月23日](../Page/12月23日.md "wikilink")）
 
-:\*「ツバサ・クロニクル VI」（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月27日](../Page/1月27日.md "wikilink")）
+:\*「ツバサ・クロニクル VI」（[2006年](../Page/2006年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")）
 
 :\*「ツバサ・クロニクル VII」（2006年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")）
 
@@ -992,7 +992,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 
 ## 映画
 
-『**劇場版ツバサ・クロニクル 鳥カゴの国の姫君**』のタイトルで[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")に公開された。『[劇場版xxxHOLiC 真夏ノ夜ノ夢](https://ja.wikipedia.org/wiki/XXXHOLiC#映画 "wikilink")』と同時上映。後に単品でDVD化され、レンタル版も存在する。
+『**劇場版ツバサ・クロニクル 鳥カゴの国の姫君**』のタイトルで[2005年](../Page/2005年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")に公開された。『[劇場版xxxHOLiC 真夏ノ夜ノ夢](https://ja.wikipedia.org/wiki/XXXHOLiC#映画 "wikilink")』と同時上映。後に単品でDVD化され、レンタル版も存在する。
 
 物語は劇場版だけの完全オリジナルである\[6\]。
 
@@ -1005,7 +1005,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
   - 監督 - [川崎逸朗](https://ja.wikipedia.org/wiki/川崎逸朗 "wikilink")
   - 脚本 - 後藤みどり、[藤咲淳一](../Page/藤咲淳一.md "wikilink")、川崎逸朗
   - キャラクターデザイン - 菊池洋子
-  - 作画監督 - [菊地洋子](https://ja.wikipedia.org/wiki/菊地洋子 "wikilink")、浅野恭司
+  - 作画監督 - [菊地洋子](../Page/菊地洋子.md "wikilink")、浅野恭司
   - 舞台設計 - 宮沢康紀
   - プロップデザイン - 白石亜由美
   - 色彩設計 - 広瀬いづみ
@@ -1016,14 +1016,14 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 <div style="float: left; vertical-align: top; white-space: nowrap">
 
   - 美術設定 - [平沢晃弘](https://ja.wikipedia.org/wiki/スタジオ美峰 "wikilink")
-  - 美術監修 - [加藤浩](https://ja.wikipedia.org/wiki/加藤浩 "wikilink")
+  - 美術監修 - [加藤浩](../Page/加藤浩.md "wikilink")
   - 撮影監督 - 佐久間未希
   - 編集 - 濱宇津妙子
   - 音楽 - [梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink")
   - 音響監督 - [若林和弘](../Page/若林和弘.md "wikilink")
   - プロデューサー - 岩崎善浩、[森田浩章](../Page/森田浩章.md "wikilink")、中武哲也、白濱なつみ、堂下律明、渡辺哲也、[松本寿子](https://ja.wikipedia.org/wiki/松本寿子 "wikilink")、鹿野郁子
   - アニメーション制作 - [Production I.G](../Page/プロダクション・アイジー.md "wikilink")
-  - 製作 - [松竹](../Page/松竹.md "wikilink")、講談社、Production I.G、[日本出版販売](https://ja.wikipedia.org/wiki/日本出版販売 "wikilink")、[ムービック](../Page/ムービック.md "wikilink")、[電通](../Page/電通.md "wikilink")、[NHKエンタープライズ](../Page/NHKエンタープライズ.md "wikilink")、パイロテクニスト
+  - 製作 - [松竹](../Page/松竹.md "wikilink")、講談社、Production I.G、[日本出版販売](../Page/日本出版販売.md "wikilink")、[ムービック](../Page/ムービック.md "wikilink")、[電通](../Page/電通.md "wikilink")、[NHKエンタープライズ](../Page/NHKエンタープライズ.md "wikilink")、パイロテクニスト
   - 配給 - 松竹
 
 </div>
@@ -1033,11 +1033,11 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
   - オープニング「[aerial](https://ja.wikipedia.org/wiki/aerial "wikilink")」
     作詞・歌 - [キンヤ](https://ja.wikipedia.org/wiki/キンヤ "wikilink") / 作曲 - HΛL
   - エンディング「[アムリタ](../Page/アムリタ_\(牧野由依の曲\).md "wikilink")」
-    作詞・作曲 - [かの香織](https://ja.wikipedia.org/wiki/かの香織 "wikilink") / 歌 - [牧野由依](https://ja.wikipedia.org/wiki/牧野由依 "wikilink")
+    作詞・作曲 - [かの香織](../Page/かの香織.md "wikilink") / 歌 - [牧野由依](../Page/牧野由依.md "wikilink")
 
 ### 関連商品（映画）
 
-DVDが[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")に[松竹](../Page/松竹.md "wikilink")より発売された。
+DVDが[2006年](../Page/2006年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に[松竹](../Page/松竹.md "wikilink")より発売された。
 
 ## オリジナルアニメーションDVD
 
@@ -1059,7 +1059,7 @@ DVDが[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月25日](../
 
 :\*脚本 - [大川緋芭](https://ja.wikipedia.org/wiki/大川緋芭 "wikilink")（CLAMP）
 
-:\*キャラクターデザイン - [菊地洋子](https://ja.wikipedia.org/wiki/菊地洋子 "wikilink")
+:\*キャラクターデザイン - [菊地洋子](../Page/菊地洋子.md "wikilink")
 
 :\*プロップデザイン - 秋川一則
 
@@ -1095,14 +1095,14 @@ DVDが[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月25日](../
 
 :;オープニングテーマ「[synchronicity](https://ja.wikipedia.org/wiki/synchronicity_\(牧野由依の曲\) "wikilink")」
 
-::作詞・作曲・編曲 - [梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink") / 歌 - [牧野由依](https://ja.wikipedia.org/wiki/牧野由依 "wikilink")
+::作詞・作曲・編曲 - [梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink") / 歌 - [牧野由依](../Page/牧野由依.md "wikilink")
 
 :;エンディングテーマ「[さいごの果実](../Page/さいごの果実.md "wikilink")」
 
   -
 
       -
-        作詞・歌 - [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink") / 作曲 - [鈴木祥子](https://ja.wikipedia.org/wiki/鈴木祥子 "wikilink") / 編曲 - [斉藤ネコ](https://ja.wikipedia.org/wiki/斉藤ネコ "wikilink")
+        作詞・歌 - [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink") / 作曲 - [鈴木祥子](../Page/鈴木祥子.md "wikilink") / 編曲 - [斉藤ネコ](https://ja.wikipedia.org/wiki/斉藤ネコ "wikilink")
 
 ### ツバサ 春雷記
 
@@ -1176,7 +1176,7 @@ DVDが[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月25日](../
 ## ドラマCD
 
   - [私立堀鐔学園](https://ja.wikipedia.org/wiki/私立堀鐔学園 "wikilink")
-      - 『[XXXHOLiC](https://ja.wikipedia.org/wiki/XXXHOLiC "wikilink")』とのコラボレーションによる[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")。両作の主立ったキャラはほとんど登場する平和な学園物語。
+      - 『[XXXHOLiC](../Page/XXXHOLiC.md "wikilink")』とのコラボレーションによる[ドラマCD](../Page/ドラマCD.md "wikilink")。両作の主立ったキャラはほとんど登場する平和な学園物語。
 
 ## 脚注
 

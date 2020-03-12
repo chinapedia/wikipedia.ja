@@ -3,11 +3,11 @@
 
 **Aクラス・Bクラス**とは、[日本プロ野球](../Page/日本プロ野球.md "wikilink")において、シーズン順位の上位と下位を格付けしたものである。
 
-シーズン順位の上位がAクラス、下位がBクラスとなる。[1936年](../Page/1936年.md "wikilink")はAクラスの2球団（[優勝](../Page/優勝.md "wikilink")は[東京巨人軍](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")、2位は[大阪タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")）だけであり、Bクラスの格付けが始まったのは[1937年](../Page/1937年.md "wikilink")の春からである。
+シーズン順位の上位がAクラス、下位がBクラスとなる。[1936年](../Page/1936年.md "wikilink")はAクラスの2球団（[優勝](../Page/優勝.md "wikilink")は[東京巨人軍](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")、2位は[大阪タイガース](../Page/阪神タイガース.md "wikilink")）だけであり、Bクラスの格付けが始まったのは[1937年](../Page/1937年.md "wikilink")の春からである。
 
-Aクラスになった球団は[クライマックスシリーズ](https://ja.wikipedia.org/wiki/クライマックスシリーズ "wikilink")への出場権を獲得する（[2007年](../Page/2007年.md "wikilink")〜）。また、[セントラル・リーグ](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")では翌々年、[パシフィック・リーグ](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")では3年後の[開幕戦](../Page/開幕戦.md "wikilink")を[ホームで行う権利が得られる](../Page/ホーム・アンド・アウェー.md "wikilink")。ただし、[阪神甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")に関しては[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")上旬まで[選抜高等学校野球大会](https://ja.wikipedia.org/wiki/選抜高等学校野球大会 "wikilink")を開催しているため日本プロ野球を開催できない。そのため、同球場を[専用球場](https://ja.wikipedia.org/wiki/専用球場 "wikilink")としている[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")は[京セラドーム大阪で開幕戦を代替開催するケースがあり](../Page/大阪ドーム.md "wikilink")、かつては選抜高等学校野球大会の関係で開幕戦の権利を返上したケースもあった（[阪神タイガース\#主催ゲームの開幕戦](https://ja.wikipedia.org/wiki/阪神タイガース#主催ゲームの開幕戦 "wikilink")を参照。）。
+Aクラスになった球団は[クライマックスシリーズ](../Page/クライマックスシリーズ.md "wikilink")への出場権を獲得する（[2007年](../Page/2007年.md "wikilink")〜）。また、[セントラル・リーグ](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")では翌々年、[パシフィック・リーグ](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")では3年後の[開幕戦](../Page/開幕戦.md "wikilink")を[ホームで行う権利が得られる](../Page/ホーム・アンド・アウェー.md "wikilink")。ただし、[阪神甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")に関しては[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")上旬まで[選抜高等学校野球大会](https://ja.wikipedia.org/wiki/選抜高等学校野球大会 "wikilink")を開催しているため日本プロ野球を開催できない。そのため、同球場を[専用球場](https://ja.wikipedia.org/wiki/専用球場 "wikilink")としている[阪神タイガース](../Page/阪神タイガース.md "wikilink")は[京セラドーム大阪で開幕戦を代替開催するケースがあり](../Page/大阪ドーム.md "wikilink")、かつては選抜高等学校野球大会の関係で開幕戦の権利を返上したケースもあった（[阪神タイガース\#主催ゲームの開幕戦](https://ja.wikipedia.org/wiki/阪神タイガース#主催ゲームの開幕戦 "wikilink")を参照。）。
 
-なお、A・B以外の区分（CやD）は存在しないが、[セ・パ交流戦](https://ja.wikipedia.org/wiki/セ・パ交流戦 "wikilink")の順位で9位から最下位を示すときにCクラスが使われることがある。
+なお、A・B以外の区分（CやD）は存在しないが、[セ・パ交流戦](../Page/セ・パ交流戦.md "wikilink")の順位で9位から最下位を示すときにCクラスが使われることがある。
 
 ## Aクラス・Bクラスの順位（1937年の春以降）
 
@@ -23,13 +23,13 @@ Aクラスになった球団は[クライマックスシリーズ](https://ja.wi
   - 連続Bクラス最長記録
       - [南海ホークス・福岡ダイエーホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink") 20年連続（1978年〜1997年）
   - 年代別で全てAクラス入りの球団
-      - 1930年代\[1\] [巨人](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")、[タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")
+      - 1930年代\[1\] [巨人](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")、[タイガース](../Page/阪神タイガース.md "wikilink")
       - 1940年代\[2\] [セネタース・翼](../Page/翼軍.md "wikilink")\[3\]
-      - 1950年代 巨人、[阪神](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")、中日、[南海](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
+      - 1950年代 巨人、[阪神](../Page/阪神タイガース.md "wikilink")、中日、[南海](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
       - 1960年代 なし
       - 1970年代 なし
       - 1980年代 巨人
-      - 1990年代 [オリックス](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")、西武
+      - 1990年代 [オリックス](../Page/オリックス・バファローズ.md "wikilink")、西武
       - 2000年代 なし
       - 2010年代 なし
   - 年代別で全てBクラスの球団

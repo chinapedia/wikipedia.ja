@@ -9,13 +9,13 @@
 
 時間に応じてさまざまな雰囲気の変化を見せる背景のリッジシティを舞台に、昼夜を問わないバトルが繰り広げられる設定となっている。
 
-[PlayStation 2の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ローンチタイトル](../Page/ローンチタイトル.md "wikilink")として発売され、シリーズで初めて60[fps](https://ja.wikipedia.org/wiki/fps "wikilink")で描写されるようになった。『リッジレーサーシリーズ』は[プレイステーションでは計](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")4作発売されたが、PS2で発売されたタイトルは本作のみである\[3\]。
+[PlayStation 2の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ローンチタイトル](../Page/ローンチタイトル.md "wikilink")として発売され、シリーズで初めて60[fps](https://ja.wikipedia.org/wiki/fps "wikilink")で描写されるようになった。『リッジレーサーシリーズ』は[プレイステーションでは計](../Page/PlayStation_\(ゲーム機\).md "wikilink")4作発売されたが、PS2で発売されたタイトルは本作のみである\[3\]。
 
 『[R4 -RIDGE RACER TYPE 4-](../Page/R4_-RIDGE_RACER_TYPE_4-.md "wikilink")』と同様コンティニュー回数に制限がある（3回まで。例外もある）。また難易度ではHARDはリッジレーサーシリーズの中でも高めであり、ゲーム開始時に選択するEASY・NORMAL・HARDの難易度は途中からの変更はできない。
 
 イメージガール（イメージキャラクター）は今作のみ[永瀬麗子](../Page/永瀬麗子.md "wikilink")ではなく[深水藍](https://ja.wikipedia.org/wiki/深水藍 "wikilink")が登場し、オープニングムービーなどで見ることができる。
 
-ゲーム中の[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")は[鮎貝健](https://ja.wikipedia.org/wiki/鮎貝健 "wikilink")が務めている（設定は、架空の[FM](../Page/超短波放送.md "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")放送局「RIDGE CITY FM（[音声周波数](../Page/周波数.md "wikilink")76.5MHz）」の[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")）。また、今回はサウンドディレクターが[Kohta "SOLIDSTATE" Takahashiになったため](https://ja.wikipedia.org/wiki/高橋弘太 "wikilink")、『[レイジレーサー](https://ja.wikipedia.org/wiki/レイジレーサー "wikilink")』や『[R4 -RIDGE RACER TYPE 4-](../Page/R4_-RIDGE_RACER_TYPE_4-.md "wikilink")』とはサウンド面で路線が変わっている。[BGMには初のゲストミュージシャンが参加](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")。[BOOM BOOM SATELLITES](../Page/BOOM_BOOM_SATELLITES.md "wikilink")、[TAKESHI UEDA](../Page/上田剛士.md "wikilink") (from[THE MAD CAPSULE MARKETS](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink"))、[マイク・ヴァン・ダイク](../Page/マイク・ヴァン・ダイク.md "wikilink")が参加した。
+ゲーム中の[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")は[鮎貝健](../Page/鮎貝健.md "wikilink")が務めている（設定は、架空の[FM](../Page/超短波放送.md "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")放送局「RIDGE CITY FM（[音声周波数](../Page/周波数.md "wikilink")76.5MHz）」の[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")）。また、今回はサウンドディレクターが[Kohta "SOLIDSTATE" Takahashiになったため](https://ja.wikipedia.org/wiki/高橋弘太 "wikilink")、『[レイジレーサー](https://ja.wikipedia.org/wiki/レイジレーサー "wikilink")』や『[R4 -RIDGE RACER TYPE 4-](../Page/R4_-RIDGE_RACER_TYPE_4-.md "wikilink")』とはサウンド面で路線が変わっている。[BGMには初のゲストミュージシャンが参加](../Page/バックグラウンドミュージック.md "wikilink")。[BOOM BOOM SATELLITES](../Page/BOOM_BOOM_SATELLITES.md "wikilink")、[TAKESHI UEDA](../Page/上田剛士.md "wikilink") (from[THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink"))、[マイク・ヴァン・ダイク](../Page/マイク・ヴァン・ダイク.md "wikilink")が参加した。
 
 後に発売された『[リッジレーサーズ](../Page/リッジレーサーズ.md "wikilink")』以降のシリーズには全てニトロが搭載されているため、本作が現時点で最後のニトロ無し『リッジ』ということになる。
 
@@ -32,7 +32,7 @@
 プレイヤーの活動の拠点となる場所（メニュー画面）である。
 
   - RACE（レース）
-    様々なレースに参加して、[マシンや](https://ja.wikipedia.org/wiki/レーシングカー "wikilink")[エンジン](../Page/エンジン.md "wikilink")を手に入れていくメインモード。
+    様々なレースに参加して、[マシンや](../Page/レーシングカー.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")を手に入れていくメインモード。
   - DESIGN（デザイン）
     チーム名、クルマのカーナンバー、カラーリング、[ホイールの変更などをデザインできるモード](../Page/車輪.md "wikilink")。
   - GARAGE（ガレージ）
@@ -47,7 +47,7 @@
   - スタンダードクラス
     市販車から一切のチューニングを施していないマシン。
   - エクストラクラス
-    スタンダードクラスのマシンを[チューニング](https://ja.wikipedia.org/wiki/チューニング "wikilink")したマシン。[エアロパーツ](https://ja.wikipedia.org/wiki/エアロパーツ "wikilink")が装着され、エンジンも換装あるいはチューンアップされる。
+    スタンダードクラスのマシンを[チューニング](https://ja.wikipedia.org/wiki/チューニング "wikilink")したマシン。[エアロパーツ](../Page/エアロパーツ.md "wikilink")が装着され、エンジンも換装あるいはチューンアップされる。
   - スタンダードエンジン
     スタンダードクラスのマシンに搭載される、それぞれの車両の純正エンジン。チューニングは一切施されていない。
   - エクストラエンジン
@@ -194,7 +194,7 @@
   - ;PLUTO
     ABOVE THE CITYでの対決。敵車はスペクトラ。加速は凄まじいが、コーナーで大きく失速する。ゆえにタイトなコーナーでは隙が大きい。
   - ;DEVIL
-    GREEN FIELDでの対決。敵車はクリナーレ。プレイヤーの走行ペースが遅いと停車して、一旦抜かさせたあと再び抜き返してくる。また、プレイヤーが[スリップストリーム](https://ja.wikipedia.org/wiki/スリップストリーム "wikilink")に入ると、目前で[急ブレーキ](../Page/急ブレーキ.md "wikilink")をかけブロックしてくる。
+    GREEN FIELDでの対決。敵車はクリナーレ。プレイヤーの走行ペースが遅いと停車して、一旦抜かさせたあと再び抜き返してくる。また、プレイヤーが[スリップストリーム](../Page/スリップストリーム.md "wikilink")に入ると、目前で[急ブレーキ](../Page/急ブレーキ.md "wikilink")をかけブロックしてくる。
   - ;SPIRIT
     BAYSIDE LINEでの対決。敵車はリュムール。直線でのスピードは今ひとつだが、コーナリングスピードが極めて速いという特徴を持っている。ベイサイドラインの後半はリュムールの独擅場というべきコーナーが連続する区間であるため、下手な走りをすると抜かれることになりかねない。
   - ;ANGEL
@@ -269,7 +269,7 @@
 ### スタンダード・エクストラクラス
 
   - KAMATA FIARO（カマタ・フィアロ）
-    [駆動方式](https://ja.wikipedia.org/wiki/自動車のレイアウト "wikilink")：[FR](https://ja.wikipedia.org/wiki/二輪駆動#FR（フロントエンジン・リヤドライブ方式） "wikilink")
+    [駆動方式](../Page/自動車のレイアウト.md "wikilink")：[FR](https://ja.wikipedia.org/wiki/二輪駆動#FR（フロントエンジン・リヤドライブ方式） "wikilink")
 
     タイプ：ドリフト
 
@@ -303,7 +303,7 @@
     タイプ：グリップ
     初級者向けグリップ車。今作で初登場となる車種。
     旋回性能はトップクラスだが、加速・最高速の性能が非常に悪く、ゲーム終盤ではフィアロ以上に苦戦を強いられる事となる。
-    なお、エクストラクラスではエンジンが大きく変化する(EX：2L・[V6](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")、オーバル：4.3L・[直4](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink"))。
+    なお、エクストラクラスではエンジンが大きく変化する(EX：2L・[V6](../Page/V型6気筒.md "wikilink")、オーバル：4.3L・[直4](../Page/直列4気筒.md "wikilink"))。
   - RIVELTA MERCURIO（リヴェルタ・メルクーリオ）
     駆動方式：[4WD](../Page/四輪駆動.md "wikilink")
     タイプ：グリップ
@@ -330,7 +330,7 @@
     駆動方式：MR
     タイプ：ドリフト
     「デビルカー」の愛称の由来となった車種、初代『リッジレーサー』に登場したデビルカー「13th RACING」のフェイスリフト版で、漆黒の車体・[悪魔](../Page/悪魔.md "wikilink")のマーキング・カーナンバー[13](../Page/13.md "wikilink")と、不吉な雰囲気が漂う。
-    エンジンは[V型12気筒](https://ja.wikipedia.org/wiki/V型12気筒 "wikilink")クワッドターボ。フルブースト時には2000psを超えるパワーを絞り出し、独特の[ブローオフバルブサウンドが大きく鳴り響く](https://ja.wikipedia.org/wiki/ターボ "wikilink")。
+    エンジンは[V型12気筒](../Page/V型12気筒.md "wikilink")クワッドターボ。フルブースト時には2000psを超えるパワーを絞り出し、独特の[ブローオフバルブサウンドが大きく鳴り響く](https://ja.wikipedia.org/wiki/ターボ "wikilink")。
     旋回性能はトレアドールとソラーレの中間レベルで中の下レベルだが、2車に比べスピードレンジが非常に高いため、コーナーでの姿勢制御はスタンダード車に比べ非常に難しい。
     デュエルバトルでは、ボス「DEVIL」がこの車両に搭乗して挑戦してくる。コース上で停車したり、プレイヤーの前方で急ブレーキ攻撃を仕掛けるなど、危険な走りで妨害してくる。勝利することで解禁される。
   - SOLDAT RUMEUR（ソルダ・リュムール）
@@ -338,13 +338,13 @@
     タイプ：グリップ
     ミニクーペボディの後方にエンジンを積む小型車。
     フロントビューやボディペイントは愛嬌のある可愛らしいデザインだが、車体後部にマウントされたエンジンはむき出し、さらにマフラーは車体からはみ出しているなど、リアビューからは攻撃的な印象を受ける。
-    旋回性能は非常に高い。僅か500kgほどの車体を急旋回させ、ほぼ全てのコーナーを[アクセル全開で曲がることができるが](https://ja.wikipedia.org/wiki/アクセルペダル "wikilink")、その一方で[オーバーステア](https://ja.wikipedia.org/wiki/オーバーステア "wikilink")な傾向もみられる。
+    旋回性能は非常に高い。僅か500kgほどの車体を急旋回させ、ほぼ全てのコーナーを[アクセル全開で曲がることができるが](https://ja.wikipedia.org/wiki/アクセルペダル "wikilink")、その一方で[オーバーステア](../Page/オーバーステア.md "wikilink")な傾向もみられる。
     対して高速性能は控えめで、エクストラクラスと同等かそれ以下の水準にある。
     デュエルバトルでは、ボス「SPIRIT」がこの車両に搭乗して挑戦してくる。初速こそ遅いものの、驚異的なコーナリングスピードを誇る。勝利することで解禁される。
   - KAMATA ANGELUS（カマタ・アンジェラス）
     駆動方式：MR
     タイプ：グリップ
-    通称「エンジェルカー」。2作目『リッジレーサーレボリューション』に登場したデビルカー「WHITE ANGEL」のフェイスリフト版で、純白の車体や[天使](../Page/天使.md "wikilink")のマーキングなど、クリナーレとは対を成す存在である。カーナンバーは[0](https://ja.wikipedia.org/wiki/0 "wikilink")。
+    通称「エンジェルカー」。2作目『リッジレーサーレボリューション』に登場したデビルカー「WHITE ANGEL」のフェイスリフト版で、純白の車体や[天使](../Page/天使.md "wikilink")のマーキングなど、クリナーレとは対を成す存在である。カーナンバーは[0](../Page/0.md "wikilink")。
     同時期に発売された『[テイルズ オブ エターニア](https://ja.wikipedia.org/wiki/テイルズ_オブ_エターニア "wikilink")』に登場する、**晶霊「クレーメル」**を原動力とした「クレーメル型W18気筒エンジン」を搭載しており、独特の甲高いエキゾーストノートが特徴である。
     4大デュエルカーの中でも最高速が突出しており、実に591km/hとシリーズ中最速である。
     旋回性能も高いが、グリップ性能があまりにも高すぎるためにドリフトの類は一切できず、アクセルオフで急激に旋回性能が向上するという前作『R4』のグリップタイプ寄りの挙動となっており、そのハンドリングはかなり癖が強い。
@@ -362,7 +362,7 @@
     駆動方式：不明
     タイプ：グリップ
     アンジェラスと同様にグリップが非常に高く、ドリフトの類は一切不可能。ただしこちらは車速が上がると曲がらなくなると言う特性を持っている。速ければ速いほど曲がらなくなるという車の性質が出過ぎた格好となっている。
-    なお、アカベイ以下の4台は全て形状が[スクーター](https://ja.wikipedia.org/wiki/スクーター "wikilink")にタイヤを無理矢理4本つけたような形状となっており、運転感覚も2輪車のそれとほぼ同じになっている。
+    なお、アカベイ以下の4台は全て形状が[スクーター](../Page/スクーター.md "wikilink")にタイヤを無理矢理4本つけたような形状となっており、運転感覚も2輪車のそれとほぼ同じになっている。
   - AOSUKE（アオスケ）
     駆動方式：不明
     タイプ：ドリフト
@@ -412,7 +412,7 @@
 ## 関連商品
 
   - リッジレーサーＶ オリジナル・ゲームサウンドトラック
-    本作の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")。日本では2000年1月1日に[ソニー・ミュージックアソシエイテッドレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")より発売された。権利関係からか、レース中に流れる一部の楽曲は収録されていない。
+    本作の[サウンドトラック](../Page/サウンドトラック.md "wikilink")。日本では2000年1月1日に[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")より発売された。権利関係からか、レース中に流れる一部の楽曲は収録されていない。
 
 ## 脚注
 

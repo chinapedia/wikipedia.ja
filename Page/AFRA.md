@@ -1,7 +1,7 @@
 > この記事は[AFRA](https://ja.wikipedia.org/wiki/AFRA)から翻訳されています。
 
 
-**AFRA**（あふら、本名：**藤岡 章**（ふじおか あきら）[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月29日](../Page/1月29日.md "wikilink") - ）は、日本の[ヒューマンビートボックス](https://ja.wikipedia.org/wiki/ヒューマンビートボックス "wikilink")演奏者（Human BeatBoxer）。[大阪府](../Page/大阪府.md "wikilink")[吹田市](../Page/吹田市.md "wikilink")出身。
+**AFRA**（あふら、本名：**藤岡 章**（ふじおか あきら）[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月29日](../Page/1月29日.md "wikilink") - ）は、日本の[ヒューマンビートボックス](../Page/ヒューマンビートボックス.md "wikilink")演奏者（Human BeatBoxer）。[大阪府](../Page/大阪府.md "wikilink")[吹田市](../Page/吹田市.md "wikilink")出身。
 
 2005年からはビートボクサー[啓](https://ja.wikipedia.org/wiki/啓_\(ヒューマンビートボクサー\) "wikilink")、[K-MOON](https://ja.wikipedia.org/wiki/K-MOON "wikilink")とのグループ「**[AFRA & INCREDIBLE BEATBOX BAND](../Page/AFRA_&_INCREDIBLE_BEATBOX_BAND.md "wikilink")**」を結成し主に活動している。
 
@@ -82,7 +82,7 @@
 <li>SKIT 2 (blow out flow)</li>
 <li>BUSY BEE SHOUTS</li>
 <li>AFRA THE TONGUETABLE (live @ <a href="https://ja.wikipedia.org/wiki/Disco_Mixing_Club" title="wikilink">DMC</a> JAPAN FINAL)</li>
-<li>IT'S BEATVOX feat. <a href="https://ja.wikipedia.org/wiki/スチャダラパー" title="wikilink">スチャダラパー</a>, ロボ宙</li>
+<li>IT'S BEATVOX feat. <a href="../Page/スチャダラパー.md" title="wikilink">スチャダラパー</a>, ロボ宙</li>
 <li>OUTRO</li>
 <li>HOT DOG feat. TUCKER</li>
 </ol></td>
@@ -107,12 +107,12 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月22日.md" title="wikilink">2月22日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月22日.md" title="wikilink">2月22日</a></p></td>
 <td><p><strong>I.B.B.</strong></p></td>
 <td><p>UPCI-9010:初回限定盤<br />
 :通常盤</p></td>
 <td><ol>
-<li>THEME OF I.B.B. (30 MINUTES) feat. <a href="https://ja.wikipedia.org/wiki/SHINCO" title="wikilink">SHINCO</a> (<a href="https://ja.wikipedia.org/wiki/スチャダラパー" title="wikilink">スチャダラパー</a>)</li>
+<li>THEME OF I.B.B. (30 MINUTES) feat. <a href="https://ja.wikipedia.org/wiki/SHINCO" title="wikilink">SHINCO</a> (<a href="../Page/スチャダラパー.md" title="wikilink">スチャダラパー</a>)</li>
 <li>TIGHT BEAT</li>
 <li>MOUTH MUSIC feat. <a href="../Page/石野卓球.md" title="wikilink">TAKKYU ISHINO</a>, SHINCO</li>
 <li>MOSHI MOSHI (AFRA)</li>
@@ -143,18 +143,18 @@
 <td><p>RZCD-46020</p></td>
 <td><ol>
 <li>In</li>
-<li>Spring Bounce feat.<a href="https://ja.wikipedia.org/wiki/RYO_the_SKYWALKER" title="wikilink">RYO the SKYWALKER</a></li>
+<li>Spring Bounce feat.<a href="../Page/RYO_the_SKYWALKER.md" title="wikilink">RYO the SKYWALKER</a></li>
 <li>Now You Can See</li>
 <li>Seven Nation Army feat.<a href="https://ja.wikipedia.org/wiki/Chara" title="wikilink">Chara</a></li>
 <li>Quick &amp; Simple</li>
 <li>H2O</li>
 <li>SPVM</li>
-<li>Golden Ballers feat.<a href="https://ja.wikipedia.org/wiki/VERBAL" title="wikilink">VERBAL</a>(<a href="https://ja.wikipedia.org/wiki/m-flo" title="wikilink">m-flo</a>),<a href="https://ja.wikipedia.org/wiki/NIPPS" title="wikilink">NIPPS</a></li>
+<li>Golden Ballers feat.<a href="https://ja.wikipedia.org/wiki/VERBAL" title="wikilink">VERBAL</a>(<a href="https://ja.wikipedia.org/wiki/m-flo" title="wikilink">m-flo</a>),<a href="../Page/NIPPS.md" title="wikilink">NIPPS</a></li>
 <li>Nice</li>
 <li>Let The Music Take You Higher feat.ロボ宙,SHIVA,ZOI</li>
 <li>Tighten Up</li>
 <li>Stavanger Live Edit</li>
-<li>What Does That Look Like? feat.<a href="https://ja.wikipedia.org/wiki/コトリンゴ" title="wikilink">コトリンゴ</a></li>
+<li>What Does That Look Like? feat.<a href="../Page/コトリンゴ.md" title="wikilink">コトリンゴ</a></li>
 <li>Incrediplo</li>
 <li>Out</li>
 <li>OMG</li>
@@ -274,7 +274,7 @@ DABO、565、MASARU、UZI、ZEEBRA、E.G.G MAN、CHADA MAN</p></td>
 </tr>
 <tr class="odd">
 <td><p>2004年6月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MIC_BANDITZ" title="wikilink">MIC BANDITZ</a>『Johnny Astro &amp; the Diamond Crooks』</p></td>
+<td><p><a href="../Page/MIC_BANDITZ.md" title="wikilink">MIC BANDITZ</a>『Johnny Astro &amp; the Diamond Crooks』</p></td>
 <td><p>CTCR-14345</p></td>
 <td><p>5. LIVE &amp; DIRECT pt.1 (feat. AFRA)<br />
 9. LIVE &amp; DIRECT pt.2 (feat. AFRA)</p></td>
@@ -330,7 +330,7 @@ features vocals by Hibikilla, Afra &amp; Kei (Incredible Beatbox Band), and Diva
 </tr>
 <tr class="even">
 <td><p>2008年12月03日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スチャダラパー" title="wikilink">スチャダラパー</a>『CAN YOU COLLABORATE?～best collaboration songs &amp; music clips～ [2CD+DVD]』</p></td>
+<td><p><a href="../Page/スチャダラパー.md" title="wikilink">スチャダラパー</a>『CAN YOU COLLABORATE?～best collaboration songs &amp; music clips～ [2CD+DVD]』</p></td>
 <td><p>NFCD-27142B</p></td>
 <td><p>9.IT'S BEAT VOX feat.SDP</p></td>
 </tr>
@@ -351,7 +351,7 @@ AVCD-23703</p></td>
 <td><p>2009年6月24日</p></td>
 <td><p><a href="../Page/ハナレグミ.md" title="wikilink">ハナレグミ</a>『<a href="https://ja.wikipedia.org/wiki/あいのわ" title="wikilink">あいのわ</a>』</p></td>
 <td><p>VICL-63350</p></td>
-<td><p>4. Peace Tree feat. <a href="https://ja.wikipedia.org/wiki/BOSE_(ラッパー)" title="wikilink">BOSE</a> (from <a href="https://ja.wikipedia.org/wiki/スチャダラパー" title="wikilink">スチャダラパー</a>), AFRA</p></td>
+<td><p>4. Peace Tree feat. <a href="https://ja.wikipedia.org/wiki/BOSE_(ラッパー)" title="wikilink">BOSE</a> (from <a href="../Page/スチャダラパー.md" title="wikilink">スチャダラパー</a>), AFRA</p></td>
 </tr>
 <tr class="even">
 <td><p>2009年07月08日</p></td>
@@ -453,7 +453,7 @@ RZCD-59064</p></td>
   - 2003年07月27日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink") '03
   - 2006年06月03日 - [TAICOCLUB](https://ja.wikipedia.org/wiki/TAICOCLUB "wikilink")'06　(「AFRA & INCREDIBLE BEATBOX BAND」として出演)
   - 2006年07月28日 - FUJI ROCK FESTIVAL '06　(「AFRA & INCREDIBLE BEATBOX BAND」として出演)
-  - 2006年09月02日 - [WIRE](https://ja.wikipedia.org/wiki/WIRE "wikilink")06
+  - 2006年09月02日 - [WIRE](../Page/WIRE.md "wikilink")06
   - 2007年09月01日 - WIRE07
   - 2008年04月05日 - [SPRINGROOVE](https://ja.wikipedia.org/wiki/SPRINGROOVE "wikilink") 2008
   - 2008年07月20日 - [KOYABU SONIC](https://ja.wikipedia.org/wiki/コヤブソニック "wikilink")
@@ -465,7 +465,7 @@ RZCD-59064</p></td>
   - 2011年07月02日 - 音霊 OTODAMA SEA STUDIO 2011 「IT'S A BEACH PARTY」
   - 2011年08月12日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2011 in EZO
   - 2012年08月05日 - MANATSU NO BEACH PARTY 2012
-  - 2012年08月29日 - [ビッグポルノ](https://ja.wikipedia.org/wiki/ビッグポルノ "wikilink") ～アメイジング～
+  - 2012年08月29日 - [ビッグポルノ](../Page/ビッグポルノ.md "wikilink") ～アメイジング～
   - 2012年09月29日 - KOYABU SONIC 2012
   - 2012年10月27日 - Child Aid Live
   - 2012年12月17日 - AFRAに曽我部 listen 2 my beat リリース記念ライブ
@@ -478,7 +478,7 @@ RZCD-59064</p></td>
   - 2013年06月01日 - 頂 2013
   - 2013年06月11日 - 勝菊亭
   - 2013年06月22日 - YATSUI FESTIVAL\! 2013
-  - 2013年07月17日 - [七尾旅人](https://ja.wikipedia.org/wiki/七尾旅人 "wikilink") VOICE\!VOICE\!VOICE\!VOICE\!VOICE\!VOICE\!VOICE\!
+  - 2013年07月17日 - [七尾旅人](../Page/七尾旅人.md "wikilink") VOICE\!VOICE\!VOICE\!VOICE\!VOICE\!VOICE\!VOICE\!
   - 2013年07月20日 - 夏びらき MUSIC FESTIVAL 2013
   - 2013年09月15日 - KOYABU SONIC 2013
   - 2014年02月08日 - IN YA MELLOW TONE THE LIVE
@@ -499,7 +499,7 @@ RZCD-59064</p></td>
 
 ### 映画
 
-  - [サヨナラCOLOR](https://ja.wikipedia.org/wiki/サヨナラCOLOR_\(映画\) "wikilink")（2005年8月13日、[ザジフィルムズ](https://ja.wikipedia.org/wiki/ザジフィルムズ "wikilink")）ラップ男4 役
+  - [サヨナラCOLOR](../Page/サヨナラCOLOR_\(映画\).md "wikilink")（2005年8月13日、[ザジフィルムズ](../Page/ザジフィルムズ.md "wikilink")）ラップ男4 役
 
 ### Webアニメ
 
@@ -508,7 +508,7 @@ RZCD-59064</p></td>
 
 ## 関連項目
 
-  - [ヒューマンビートボックス](https://ja.wikipedia.org/wiki/ヒューマンビートボックス "wikilink")
+  - [ヒューマンビートボックス](../Page/ヒューマンビートボックス.md "wikilink")
 
 ## 外部リンク
 
